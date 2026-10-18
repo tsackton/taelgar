@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": "1748-05-05",
+  "inferredEnd": "1748-05-11",
+  "proposedYamlChanges": [],
+  "issues": [],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start: battle aftermath",
+      "date": "1748-05-05",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "Session YAML anchors May 5; u0002 begins immediately after the battle, and u0324–u0328 establish approaching sunset.",
+      "beatId": "beat-001",
+      "sourceText": "Okay, so let's get started."
+    },
+    {
+      "uid": "u0324",
+      "label": "Sunset approaches",
+      "date": "1748-05-05",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u0324 says the sun is beginning to set; u0325–u0328 put the funeral about an hour ahead and choose interrogation now.",
+      "beatId": "beat-002",
+      "sourceText": "Listen, the sun is beginning to set."
+    },
+    {
+      "uid": "u0785",
+      "label": "Orc pyre burns at sunset",
+      "date": "1748-05-05",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u0782–u0786 describe the completed pyre and the setting sun during the interrogation.",
+      "beatId": "beat-005",
+      "sourceText": "And the sun is beginning to set as the smoke rises and you can smell the burning flesh of the orcs being charred and."
+    },
+    {
+      "uid": "u1085",
+      "label": "Funeral ends; evening meal",
+      "date": "1748-05-05",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u1067–u1085 describe the funeral; u1085 sends mourners to their evening meal as the sun sets.",
+      "beatId": "beat-006",
+      "sourceText": "As the funeral winds down and people sort of dispersed to you know eat to take their evening meal as the sunsets."
+    },
+    {
+      "uid": "u1188",
+      "label": "Nighttime practice and rest",
+      "date": "1748-05-05",
+      "time": "night",
+      "basis": "explicit",
+      "evidence": "u1188–u1192 place arrow practice at night. u1247–u1250 recap the same dinner, music, drinking, and quiet overnight rest; the proposed morning jump at u1245 is not a second rest.",
+      "beatId": "beat-006",
+      "sourceText": "Okay, all right well so let's just start so like you know at night, you guys see like."
+    },
+    {
+      "uid": "u1251",
+      "label": "Next morning; scouts return",
+      "date": "1748-05-06",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u1252 opens the next morning after the quiet night; u1258 specifies midmorning for the scouts’ return.",
+      "beatId": "beat-007",
+      "sourceText": "and"
+    },
+    {
+      "uid": "u1394",
+      "label": "Departure after the heat",
+      "date": "1748-05-06",
+      "time": "afternoon",
+      "basis": "explicit",
+      "evidence": "u1394 describes departure after the hottest part of the day with three or four hours of travel into the night; u1469 confirms the departure afternoon.",
+      "beatId": "beat-008",
+      "sourceText": "yeah so you cover you cover maybe 60 miles between the rest of the leaving after the hottest part of the day, so getting in three four hours of travel into the night here saying farewell to Havdar he he does you I mean he'll be here for another week so if you."
+    },
+    {
+      "uid": "u1469",
+      "label": "First full travel day",
+      "date": "1748-05-07",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "u1469–u1470 cover departure afternoon and the next two days traveling south; May 7 is the first of those full travel days.",
+      "beatId": "beat-008",
+      "sourceText": "The afternoon that you leave camp and then the next two days um."
+    },
+    {
+      "uid": "u1469",
+      "label": "Second full travel day",
+      "date": "1748-05-08",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "u1469–u1470 cover the next two days after May 6 departure; May 8 is the second, with no particular hour supplied.",
+      "beatId": "beat-008",
+      "sourceText": "The afternoon that you leave camp and then the next two days um."
+    },
+    {
+      "uid": "u1480",
+      "label": "Fourth travel day; slower pace",
+      "date": "1748-05-09",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "u1480 says the next day after the departure afternoon plus two full days; pace slows as the party enters barren desert.",
+      "beatId": "beat-008",
+      "sourceText": "After traveling yeah about 60 miles, the next day you continue south but maybe only going 25 or so miles not pushing yourself quite as hard and now you're heading into the sort of."
+    },
+    {
+      "uid": "u1486",
+      "label": "Fifth travel day; turn east",
+      "date": "1748-05-10",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u1486 explicitly counts the fifth day including the departure day; u1487–u1489 give morning and the eastward turn.",
+      "beatId": "beat-009",
+      "sourceText": "Then, then what you've been passing through before and on the now let's see 1234 on the fifth day of since you left camp, including the day you left camp um."
+    },
+    {
+      "uid": "u1509",
+      "label": "River camp at day’s end",
+      "date": "1748-05-10",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u1509 says late in the day; u1511–u1519 place the low sun and camp. u1533 proposes next-day travel, but u1552 still describes this setting sun; the actual next morning begins at u1566.",
+      "beatId": "beat-009",
+      "sourceText": "You it's now it's late in the day, as you reach the river."
+    },
+    {
+      "uid": "u1566",
+      "label": "Next morning; follow river north",
+      "date": "1748-05-11",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u1566 explicitly starts the next morning, following the May 10 river camp.",
+      "beatId": "beat-010",
+      "sourceText": "So you turn north, the next morning following."
+    },
+    {
+      "uid": "u1572",
+      "label": "Late-morning shelter from heat",
+      "date": "1748-05-11",
+      "time": "morning",
+      "basis": "explicit",
+      "evidence": "u1572–u1574 place a rest in shade late in the morning before travel resumes.",
+      "beatId": "beat-010",
+      "sourceText": "By late morning you still find yourself."
+    },
+    {
+      "uid": "u1577",
+      "label": "Kharsan sighted in the afternoon",
+      "date": "1748-05-11",
+      "time": "afternoon",
+      "basis": "explicit",
+      "evidence": "u1577 gives three or four in the afternoon and the first statue sighting; u1631 confirms four in the afternoon for the fort view. Reconnaissance continues without another day transition through u1971.",
+      "beatId": "beat-010",
+      "sourceText": "Three four in the afternoon, a few hours after you've started up again, you see."
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-session.yaml",
+      "sha256": "9a554eb2fff8caa2e676fc31bc0426a4edee09f2797384f5cdd7013da3a7a1f9"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-beats.json",
+      "sha256": "2ed469ff0e4ae71e08615030726dd5e11d931ee56b93578a8c32599f18f48e2d"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-beat-facts.json",
+      "sha256": "e25fabfdf63d6d2f32c6164f222c4bda30f0560bd2c242d200a76e46be4cf137"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-source-cleaned.md",
+      "sha256": "1eb3e688f757d2a30606a8f7684d3b43a9693b1ea5ee5040932e29f2bc60dbc7"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-timeline-evidence.json",
+      "sha256": "013f11a96c77435a25f9e01f6789868b51770ebaa50832fdcd92b15e3c724da8"
+    }
+  }
+}

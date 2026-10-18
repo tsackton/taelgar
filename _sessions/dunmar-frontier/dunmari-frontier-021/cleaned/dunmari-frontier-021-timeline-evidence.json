@@ -1,0 +1,128 @@
+{
+  "inferredStart": "1748-05-05",
+  "inferredEnd": "1748-05-11",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start: battle aftermath",
+      "date": "1748-05-05",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "Session YAML anchors May 5; u0002 begins immediately after the battle, and u0324–u0328 establish approaching sunset."
+    },
+    {
+      "uid": "u0324",
+      "label": "Sunset approaches",
+      "date": "1748-05-05",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u0324 says the sun is beginning to set; u0325–u0328 put the funeral about an hour ahead and choose interrogation now."
+    },
+    {
+      "uid": "u0785",
+      "label": "Orc pyre burns at sunset",
+      "date": "1748-05-05",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u0782–u0786 describe the completed pyre and the setting sun during the interrogation."
+    },
+    {
+      "uid": "u1085",
+      "label": "Funeral ends; evening meal",
+      "date": "1748-05-05",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u1067–u1085 describe the funeral; u1085 sends mourners to their evening meal as the sun sets."
+    },
+    {
+      "uid": "u1188",
+      "label": "Nighttime practice and rest",
+      "date": "1748-05-05",
+      "time": "night",
+      "basis": "explicit",
+      "evidence": "u1188–u1192 place arrow practice at night. u1247–u1250 recap the same dinner, music, drinking, and quiet overnight rest; the proposed morning jump at u1245 is not a second rest."
+    },
+    {
+      "uid": "u1251",
+      "label": "Next morning; scouts return",
+      "date": "1748-05-06",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u1252 opens the next morning after the quiet night; u1258 specifies midmorning for the scouts’ return."
+    },
+    {
+      "uid": "u1394",
+      "label": "Departure after the heat",
+      "date": "1748-05-06",
+      "time": "afternoon",
+      "basis": "explicit",
+      "evidence": "u1394 describes departure after the hottest part of the day with three or four hours of travel into the night; u1469 confirms the departure afternoon."
+    },
+    {
+      "uid": "u1469",
+      "label": "First full travel day",
+      "date": "1748-05-07",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "u1469–u1470 cover departure afternoon and the next two days traveling south; May 7 is the first of those full travel days."
+    },
+    {
+      "uid": "u1469",
+      "label": "Second full travel day",
+      "date": "1748-05-08",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "u1469–u1470 cover the next two days after May 6 departure; May 8 is the second, with no particular hour supplied."
+    },
+    {
+      "uid": "u1480",
+      "label": "Fourth travel day; slower pace",
+      "date": "1748-05-09",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "u1480 says the next day after the departure afternoon plus two full days; pace slows as the party enters barren desert."
+    },
+    {
+      "uid": "u1486",
+      "label": "Fifth travel day; turn east",
+      "date": "1748-05-10",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u1486 explicitly counts the fifth day including the departure day; u1487–u1489 give morning and the eastward turn."
+    },
+    {
+      "uid": "u1509",
+      "label": "River camp at day’s end",
+      "date": "1748-05-10",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u1509 says late in the day; u1511–u1519 place the low sun and camp. u1533 proposes next-day travel, but u1552 still describes this setting sun; the actual next morning begins at u1566."
+    },
+    {
+      "uid": "u1566",
+      "label": "Next morning; follow river north",
+      "date": "1748-05-11",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u1566 explicitly starts the next morning, following the May 10 river camp."
+    },
+    {
+      "uid": "u1572",
+      "label": "Late-morning shelter from heat",
+      "date": "1748-05-11",
+      "time": "morning",
+      "basis": "explicit",
+      "evidence": "u1572–u1574 place a rest in shade late in the morning before travel resumes."
+    },
+    {
+      "uid": "u1577",
+      "label": "Kharsan sighted in the afternoon",
+      "date": "1748-05-11",
+      "time": "afternoon",
+      "basis": "explicit",
+      "evidence": "u1577 gives three or four in the afternoon and the first statue sighting; u1631 confirms four in the afternoon for the fort view. Reconnaissance continues without another day transition through u1971."
+    }
+  ],
+  "issues": [],
+  "resolutions": {}
+}

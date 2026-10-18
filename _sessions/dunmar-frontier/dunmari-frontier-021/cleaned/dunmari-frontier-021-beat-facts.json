@@ -1,0 +1,507 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The party recovers from the battle, binds the captured cleric, and searches the orc dead before descending to Havdar’s camp.",
+      "longSummary": "Seeker’s stone hand holds the unconscious cleric while the battered companions recover; Seeker heals Wellby and the party binds the captive before the hand fades. Kenzo questions Delwath about his shadowed armor, and the conversation turns to shadow lore without establishing the armor’s origin or the place of Delwath’s imprisonment. Searching the dead reveals the same screaming face above a rising sun on shields and faces, little food or travel gear, and no useful loot. They carry the prisoner down into camp.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Nashtkar",
+        "context": "Canyon rim above Havdar’s camp"
+      },
+      "npcs": [
+        {
+          "name": "Gorkil",
+          "role": "enemy",
+          "notes": "The captured cleric, named later in this session."
+        },
+        {
+          "name": "Havdar",
+          "role": "companion"
+        },
+        {
+          "name": "Baxter",
+          "role": "companion"
+        }
+      ],
+      "items": [
+        {
+          "name": "Delwath’s elven breastplate",
+          "role": "encountered"
+        },
+        {
+          "name": "Orc shields bearing the screaming-face emblem",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Havdar describes a coordinated orc attack that killed four warriors and prepares to question the captive before the funeral.",
+      "longSummary": "Havdar thanks the party for stopping the spellcasters above the canyon. His warriors faced roughly twenty to twenty-five orcs from the north while a second group killed the flank watch and attacked from the heights; the tactics and fire magic surprised him. Four of his people are dead. He introduces Aram, a holy warrior of Aagir, who is preparing their cremation. Havdar has sent scouts after the attackers’ tracks and does not recognize their emblem. The party recalls Amil’s masters describing peaceful orcs and a conflict among orc groups, then chooses to wake the captive immediately.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Nashtkar",
+        "context": "Havdar’s canyon camp"
+      },
+      "npcs": [
+        {
+          "name": "Havdar",
+          "role": "companion"
+        },
+        {
+          "name": "Aram",
+          "role": "encountered"
+        },
+        {
+          "name": "Gorkil",
+          "role": "enemy"
+        },
+        {
+          "name": "Amil",
+          "role": "mentioned"
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Havdar’s Warband",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The revived captive identifies Grash as his master and claims that service to the Blighted One grants power beyond death.",
+      "longSummary": "Aram revives the bound orc, who speaks Common and names Grash the Blighted One as his master. He dismisses Thark as silent and weak, says Grash began speaking to them about a year ago, and scorns Uzgash’s peaceful people. He places Grash in the darkest heart of Kharsan, the city beneath the great tombs, and says he demands their enemies’ treasure. The captive insists he will rise ten times stronger after death; Wellby urges Havdar to burn the corpses. Seeker recognizes undead stories but cannot confirm the claim, especially at this distance. The captive eventually names himself Gorkil.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Nashtkar",
+        "context": "Havdar’s canyon camp"
+      },
+      "npcs": [
+        {
+          "name": "Aram",
+          "role": "encountered"
+        },
+        {
+          "name": "Havdar",
+          "role": "companion"
+        },
+        {
+          "name": "Gorkil",
+          "role": "enemy"
+        },
+        {
+          "name": "Grash",
+          "role": "mentioned",
+          "notes": "All claims about his powers are Gorkil’s assertions."
+        },
+        {
+          "name": "Uzgash",
+          "role": "mentioned"
+        },
+        {
+          "name": "Thark",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Orc shields bearing the screaming-face emblem",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Uzgash’s people",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The party privately debates the gods’ apparent silence, planar travel, and whether investigating the monastery will clarify their larger purpose.",
+      "longSummary": "Switching to a Dunmari sidebar, the companions weigh the dangers of Kharsan against the monastery’s connection to the failed attempt to heal the blighted land. Wellby notes the possible parallel between Thark’s silence and Shakun’s lost protection, while Delwath cautions that silence need not mean a god is gone. Kenzo wants a more direct way to understand divine events; Seeker shares his interest in planar travel but recalls the loss of his younger brother, and Delwath has no desire to risk another imprisonment. Candrosa and his dream-travel artifact are discussed as possible sources of answers, not resolved explanations.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Nashtkar",
+        "context": "Havdar’s canyon camp"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "mentioned"
+        },
+        {
+          "name": "Grash",
+          "role": "mentioned"
+        },
+        {
+          "name": "Shakun",
+          "role": "mentioned"
+        },
+        {
+          "name": "Thark",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Candrosa’s dream-travel staff",
+          "role": "mentioned"
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Gorkil’s renewed interrogation ends when he magically compels Seeker to kill him, leaving the party to assess his claims with Havdar.",
+      "longSummary": "Gorkil calls Grash a dark spirit commanding Kharsan’s haunted dead, admits he has not stood in his presence, and says Uzgash’s people farm and keep animals. He demands old treasures and tribute while refusing to give a useful location for the peaceful orcs. The party speculates about a connection to the Society of the Open Scroll and Kenzo’s jade fragment, without proving one. Although some favor keeping Gorkil alive, his magically resonant command makes Seeker slit his throat. They find little on him and add his body to the burning pile. Kenzo warns Havdar about the apparent orc civil war; discussion identifies possible river valleys, oases, or underground water where peaceful settlements might exist, but no destination is established.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Nashtkar",
+        "context": "Havdar’s canyon camp"
+      },
+      "npcs": [
+        {
+          "name": "Gorkil",
+          "role": "enemy"
+        },
+        {
+          "name": "Havdar",
+          "role": "companion"
+        },
+        {
+          "name": "Aram",
+          "role": "encountered"
+        },
+        {
+          "name": "Grash",
+          "role": "mentioned"
+        },
+        {
+          "name": "Uzgash",
+          "role": "mentioned"
+        },
+        {
+          "name": "Agata",
+          "role": "mentioned",
+          "notes": "Referred to as the Dustmother during the interrogation."
+        },
+        {
+          "name": "Rai",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Kenzo’s jade fragment",
+          "role": "mentioned"
+        },
+        {
+          "name": "Hobgoblin staff",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Society of the Open Scroll",
+          "role": "mentioned"
+        },
+        {
+          "name": "Uzgash’s people",
+          "role": "mentioned"
+        },
+        {
+          "name": "Havdar’s Warband",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "The party joins the funeral, Wellby accepts Camana’s bowstring, and Kenzo trades his spear for a ring before practicing with Wellby.",
+      "longSummary": "Aram blesses four separate funeral pyres and sets divine icons to watch over them, while Havdar remembers the companions he lost. Havdar offers Wellby the magical bowstring of Camana, his dead scout leader; Wellby accepts and asks to hear his story. Kenzo trades his Dunmari spear for an old, apparently Drankorian ring decorated with a silver hare and identified as a Ring of Jumping. Wellby and Kenzo practice coordinated arrow redirection and leaping; the DM allows a practiced shot to be redirected for ki and a reaction without the normal damage-reduction roll. Dinner, stories, music, and drinking carry the camp into a quiet night.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Nashtkar",
+        "context": "Havdar’s canyon camp"
+      },
+      "npcs": [
+        {
+          "name": "Havdar",
+          "role": "companion"
+        },
+        {
+          "name": "Aram",
+          "role": "encountered"
+        },
+        {
+          "name": "Camana",
+          "role": "mentioned",
+          "notes": "Dead scout leader whose bowstring passes to Wellby."
+        }
+      ],
+      "items": [
+        {
+          "name": "Flaming Bowstring",
+          "role": "encountered"
+        },
+        {
+          "name": "Ring of Jumping",
+          "role": "encountered"
+        },
+        {
+          "name": "Kenzo’s Dunmari spear",
+          "role": "encountered",
+          "notes": "Traded to Havdar."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Havdar’s Warband",
+          "role": "encountered"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-05-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The morning scouts report no other large orc bands, and the party chooses the monastery as its next destination.",
+      "longSummary": "Delwath helps with camp routines while the party rests and recovers. Havdar’s returning scouts locate the attackers’ supplied camp six or seven miles northeast; the dead attackers total forty-two, and no comparable band or sign of the undead gnolls has been found. Havdar plans another week in camp and later patrols based around Bas Udda. The party chooses the monastery south of Kharsan, hoping to investigate the failed cleansing while avoiding the city. The DM clarifies that the monks did not know exactly where the old attempt took place, and that Delwath remembers appearing on a bridge outside Kharsan’s gates rather than inside the city.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Nashtkar",
+        "context": "Havdar’s canyon camp"
+      },
+      "npcs": [
+        {
+          "name": "Havdar",
+          "role": "companion"
+        },
+        {
+          "name": "Pava",
+          "role": "mentioned"
+        },
+        {
+          "name": "Avaras",
+          "role": "mentioned"
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Havdar’s Warband",
+          "role": "encountered"
+        },
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-05-06",
+      "dateEnd": "1748-05-09",
+      "timeWindow": null,
+      "shortSummary": "The party rides a wide southern detour through the desert, training during the journey and slowing as the land becomes more barren.",
+      "longSummary": "After replenishing supplies and water, the party leaves Havdar with Aram’s blessing and settles on approaching the monastery from the south. Wellby finishes training Baxter as a riding mount, although shooting from his back and riding into combat still risk frightening him. Kenzo practices jumping and arrow redirection, while Seeker makes connected glass orbs resembling an interplanar orrery at the campfires. The departure afternoon and next two days carry them south through hot canyonlands; on the following day they slow and enter barren sand and rock, keeping watch for danger and water.",
+      "location": {
+        "kind": "journey",
+        "from": "Havdar’s camp (Nashtkar)",
+        "to": "Garamjala Desert",
+        "context": "A wide southern detour west of the Kharja"
+      },
+      "npcs": [
+        {
+          "name": "Havdar",
+          "role": "companion"
+        },
+        {
+          "name": "Aram",
+          "role": "encountered"
+        },
+        {
+          "name": "Baxter",
+          "role": "companion"
+        }
+      ],
+      "items": [
+        {
+          "name": "Ring of Jumping",
+          "role": "encountered"
+        },
+        {
+          "name": "Flaming Bowstring",
+          "role": "encountered"
+        },
+        {
+          "name": "Seeker’s glass orrery",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-05-10",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "On the fifth travel day, the party reaches the dry Kharja and camps nearby, choosing the monastery over a possible stand of trees to the south.",
+      "longSummary": "Turning east on the fifth day since departure, the party reaches the dry Kharja late in the day. Its western bluffs overlook a lower eastern floodplain, and shrubs and the feel of the air suggest nearby groundwater despite the dry channel. A distant dark patch to the south could be trees, but no obvious smoke is visible. Delwath considers looking there for peaceful orcs who might explain their god’s silence; the group decides that the evidence is too uncertain and keeps its plan to head north toward the monastery.",
+      "location": {
+        "kind": "journey",
+        "from": "Garamjala Desert",
+        "to": "Kharja",
+        "context": "Eastward travel followed by a sheltered river-valley camp well south of Kharsan"
+      },
+      "npcs": [],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Uzgash’s people",
+          "role": "mentioned"
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": null,
+      "shortSummary": "Following the Kharja north, the party sights Kharsan, its tombs and an unfinished fort, then recruits a hawk for closer reconnaissance.",
+      "longSummary": "The party follows the dry river north the next morning, shelters from the late-morning heat, and sees a monumental statue by about three or four in the afternoon. Kharsan lies in ruins beyond an unfinished fort and the presumed monastery; twelve varied stepped tombs line the western bluffs, including Bhishma’s immense kneeling figure. Kenzo and Seeker recognize the tomb tradition of Dunmar’s first dynasty. Through his spyglass Wellby sees humanoids hauling stone from the city. He then lures down a hungry desert hawk with meat, gains its agreement to share its sight, and casts Beast Sense while the others watch over him.",
+      "location": {
+        "kind": "journey",
+        "from": "Kharja river camp",
+        "to": "Overlook south of Kharsan",
+        "context": "North along the dry river, ending several miles south of the monastery"
+      },
+      "npcs": [
+        {
+          "name": "Desert hawk",
+          "role": "encountered"
+        },
+        {
+          "name": "Bhishma",
+          "role": "mentioned",
+          "notes": "Recognized in the tomb statue."
+        }
+      ],
+      "items": [
+        {
+          "name": "Wellby’s spyglass",
+          "role": "encountered"
+        },
+        {
+          "name": "Wellby’s sketch map",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-011",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Through the hawk’s eyes, Wellby maps Kharsan and the orc fort, finds a sheltered monastery approach, and surveys its intact buildings and flowing fountain.",
+      "longSummary": "The aerial view reveals a repeatedly stripped city with a shadow-clinging palace, huge temple, stadium, canals, workshops, and old barracks and stables. Orcs carry salvaged stone to a maze-like fort flying the same screaming-face-and-sun emblem; fewer than a hundred are visible, with several guarded enclosed rooms whose purposes remain unknown. The hawk avoids close approach because archers hunt birds. The western monuments are old rulers’ tombs, several with shrines, including a partly unfinished northern tomb. Open floodplains make the city difficult to approach unseen, but traveling east and using the back of a hill offers cover toward the monastery. Its five-building complex is substantially intact, with towers, cloisters, a temple, carved scenes of daily life, and water flowing from Bhishma’s cheeks in a central fountain; no movement is seen. The party remains outside and retains Wellby’s rough map.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Kharsan",
+        "context": "Remote reconnaissance from the overlook south of the monastery",
+        "notes": "The PCs do not enter Kharsan, the fort, the tombs, or the monastery during this beat."
+      },
+      "npcs": [
+        {
+          "name": "Desert hawk",
+          "role": "encountered"
+        },
+        {
+          "name": "Bhishma",
+          "role": "mentioned"
+        },
+        {
+          "name": "Aagir",
+          "role": "mentioned"
+        },
+        {
+          "name": "Laka",
+          "role": "mentioned"
+        }
+      ],
+      "items": [
+        {
+          "name": "Wellby’s sketch map",
+          "role": "encountered"
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Grash’s orcs",
+          "role": "encountered",
+          "notes": "Observed remotely at the fort; their emblem matches the attackers."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

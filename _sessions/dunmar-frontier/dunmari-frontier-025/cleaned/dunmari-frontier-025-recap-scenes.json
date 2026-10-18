@@ -1,0 +1,68 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Escape from Kharsan",
+      "beatIds": [
+        "beat-001"
+      ],
+      "rationale": "Opening reconnaissance recap and the flight from the bridge form one immediate problem: reach the horses before the alerted orcs.",
+      "overview": "The party escapes the bridge and reaches its horses as an orc patrol pursues.",
+      "transitionToNext": "Reaching the horses turns the escape into a choice of route and a long ride across the desert."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Light and Water in the Desert",
+      "beatIds": [
+        "beat-002",
+        "beat-003"
+      ],
+      "rationale": "The first two travel days share the same objective, destination, and survival pressures: reach Havdar’s camp while conserving water and preparing against shadows.",
+      "overview": "They ride northwest, keep the first camp lit, and use a desert wren’s guidance to find extra water on the second evening.",
+      "transitionToNext": "During the second night’s watch, movement outside the light becomes an ambush."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "The Midnight Ambush",
+      "beatIds": [
+        "beat-004",
+        "beat-005"
+      ],
+      "rationale": "These are contiguous tactical phases of one fight, followed by its immediate consequences and the completion of the interrupted rest.",
+      "overview": "Daylight and a magnesium flare help defeat two shadows and three shadow dogs, but two pack horses are killed.",
+      "transitionToNext": "Dawn ends the interrupted rest; the lost horses make the onward journey slower."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Havdar’s Empty Camp",
+      "beatIds": [
+        "beat-006",
+        "beat-007"
+      ],
+      "rationale": "The journey to the camp, discovery that Havdar has left, and decision to detour to the stone house form one travel and destination-choice sequence; the two-day detour is a brief montage.",
+      "overview": "They reach the intact spring camp, strengthen their defenses, then follow Kenzo’s duty to report to the Mystai.",
+      "transitionToNext": "Arrival at the stone house changes travel and planning into a conversation with Pava and Avaras."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Stories at the Stone House",
+      "beatIds": [
+        "beat-008"
+      ],
+      "rationale": "Welcome, dinner, questions, warnings, and the overnight visit share the same location, cast, and purpose.",
+      "overview": "Kenzo shares his initiation; the hosts suggest Candrosa and Saka as contacts, and Seeker gives them a carved keepsake.",
+      "transitionToNext": "After staying overnight, the party leaves on the return journey to Karawa."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "Return to Karawa",
+      "beatIds": [
+        "beat-009"
+      ],
+      "rationale": "The final travel montage and welcome in town form the session’s closing return, with a new conversation deferred until the next session.",
+      "overview": "The party passes Bas Udda, reaches Karawa on May 23, and learns that Tharandros wants to speak with them.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

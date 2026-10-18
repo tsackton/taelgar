@@ -1,0 +1,104 @@
+{
+  "inferredStart": "1748-05-02",
+  "inferredEnd": "1748-05-05",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start",
+      "date": "1748-05-02",
+      "time": "late afternoon",
+      "basis": "inferred",
+      "evidence": "May 2 is the YAML anchor; u0015–u0017 explicitly begin current play at the stone house in late afternoon. u0002–u0014 are retrospective."
+    },
+    {
+      "uid": "u0906",
+      "label": "Dinner preparations and private discussion",
+      "date": "1748-05-02",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "u0906 announces dinnertime; u0910–u0912 send the hosts to the kitchen. The break at u1109–u1120 is table time, not an in-world transition."
+    },
+    {
+      "uid": "u1211",
+      "label": "Overnight at the house",
+      "date": "1748-05-02",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "Dinner and early bedtime occur at u1197–u1202; u1211 explicitly says everyone sleeps."
+    },
+    {
+      "uid": "u1212",
+      "label": "Next morning: training",
+      "date": "1748-05-03",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u1212 explicitly begins the morning after that sleep, advancing the anchored date by one day."
+    },
+    {
+      "uid": "u1290",
+      "label": "Seeker’s hand emerges by lunch",
+      "date": "1748-05-03",
+      "time": "midday",
+      "basis": "inferred",
+      "evidence": "u1290 explicitly places the enormous hand’s appearance at lunch, after morning training."
+    },
+    {
+      "uid": "u1296",
+      "label": "Departure after the heat",
+      "date": "1748-05-03",
+      "time": "late afternoon",
+      "basis": "inferred",
+      "evidence": "u1296 leaves the house after peak heat; u1310 specifies around three in the afternoon. u1303 counts today as the first of three travel days."
+    },
+    {
+      "uid": "u1315",
+      "label": "First travel camp",
+      "date": "1748-05-03",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u1309–u1310 explicitly narrate the first afternoon; u1315 gives an uneventful camp/rest before u1338 begins the next day. Night is inferred from that sequence."
+    },
+    {
+      "uid": "u1338",
+      "label": "Second travel day",
+      "date": "1748-05-04",
+      "time": "dawn",
+      "basis": "inferred",
+      "evidence": "u1338 begins the next day and u1346 says it dawns hot. u1354, u1366, and u1374 resume the same day around table interruptions, rather than adding days."
+    },
+    {
+      "uid": "u1374",
+      "label": "Second travel day passes",
+      "date": "1748-05-04",
+      "time": "day’s end",
+      "basis": "inferred",
+      "evidence": "u1374–u1375 complete a quiet day near the camp; u1380 expects arrival the following day around dinner. The overnight advance follows at u1383; an exact bedtime is unstated."
+    },
+    {
+      "uid": "u1383",
+      "label": "Third travel day",
+      "date": "1748-05-05",
+      "time": "daytime",
+      "basis": "inferred",
+      "evidence": "u1383 explicitly begins the next day; the giant scorpion is avoided at u1385–u1386. This is the third travel day specified at u1303."
+    },
+    {
+      "uid": "u1395",
+      "label": "Rest through the heat",
+      "date": "1748-05-05",
+      "time": "midday",
+      "basis": "inferred",
+      "evidence": "u1395 explicitly describes resting during the hottest part of this same travel day."
+    },
+    {
+      "uid": "u1403",
+      "label": "Arrival and battle at Havdar’s camp",
+      "date": "1748-05-05",
+      "time": "around dinner",
+      "basis": "inferred",
+      "evidence": "u1380 predicts arrival around dinner; u1403–u1408 place the approach and sounds of combat after the midday rest. Evening is approximate. The battle continues through u2360–u2368 without another rest or day change."
+    }
+  ],
+  "issues": [],
+  "resolutions": {}
+}

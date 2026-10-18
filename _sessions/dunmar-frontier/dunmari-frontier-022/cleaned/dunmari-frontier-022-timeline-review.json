@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": "1748-05-11",
+  "inferredEnd": "1748-05-11",
+  "proposedYamlChanges": [],
+  "issues": [],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start at the midday camp",
+      "date": "1748-05-11",
+      "time": "midday",
+      "basis": "inferred",
+      "evidence": "The session YAML supplies May 11. The opening recap ends at the present camp beside the dry Kharja (u0025), and u0030/u0045 explicitly confirm midday. Recollections of earlier travels and visions are not present-day transitions.",
+      "beatId": "beat-001",
+      "sourceText": "Okay, so."
+    },
+    {
+      "uid": "u0704",
+      "label": "Arrival beneath the monastery cliffs",
+      "date": "1748-05-11",
+      "time": "about 2 p.m.",
+      "basis": "explicit",
+      "evidence": "u0701-u0704 describe the five-mile riverbed walk taking about an hour and a half; the DM states it is about two o’clock when they arrive and make camp beneath the cliffs.",
+      "beatId": "beat-003",
+      "sourceText": "Just hiking about this last five miles takes you takes you maybe an hour and a half, so it's about two o'clock when you arrive at the base of the cliffs and make your camp and, as you."
+    },
+    {
+      "uid": "u0762",
+      "label": "Approach through the ruined gardens",
+      "date": "1748-05-11",
+      "time": "about 2:30 p.m.",
+      "basis": "explicit",
+      "evidence": "u0723 gives another half hour along the river and slope. At u0762 the DM states that it is now about 2:30 as the party approaches the buildings.",
+      "beatId": "beat-003",
+      "sourceText": "So it's now about 230 and the sun is now getting low enough in the sky that some of the you know animal life begins to stir again and i'm not that there's a lot of animal life here, but you know."
+    },
+    {
+      "uid": "u2625",
+      "label": "The initiation continues after the table break",
+      "date": "1748-05-11",
+      "time": "same afternoon; exact time unknown",
+      "basis": "inferred",
+      "evidence": "Wellby and Delwath turn back at u2555-u2557; u2625-u2627 resume Kenzo and Seeker’s same walk after real-world scheduling. The midnight and scheduling references in u2543-u2624 are real-world discussion. Historical months, days, and years within the subsequent vision do not advance present-day time.",
+      "beatId": "beat-009",
+      "sourceText": "So, as you continue."
+    },
+    {
+      "uid": "u3012",
+      "label": "Prayer and divine message",
+      "date": "1748-05-11",
+      "time": "five or ten minutes during the afternoon",
+      "basis": "explicit",
+      "evidence": "u3012 states that the manifestation continues for five or ten minutes as Kenzo remains kneeling. The same-day afternoon placement follows the uninterrupted exploration; the exact clock time is unknown. The rest of the source is reflection and metagame discussion, with no rest or day transition.",
+      "beatId": "beat-011",
+      "sourceText": "This continues for maybe five or 10 minutes as."
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-session.yaml",
+      "sha256": "eedc47eb34a338b28de462779391a50a119d83cf0707b40aa6b5c4d440c29c64"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-beats.json",
+      "sha256": "a6f8e26e465a9b22a50c360f2200a4232b52556b51680e85385714a65899c832"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-beat-facts.json",
+      "sha256": "d7b0ab7c35a98195d350cd0bf7e9d3cfe54a4013ac483ca3d76bb82f1fec16f9"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-source-cleaned.md",
+      "sha256": "34bda940db077e71d0f416ec094d9efdc13063030d54dae4dfd75118429f851d"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-022/cleaned/dunmari-frontier-022-timeline-evidence.json",
+      "sha256": "40717dba47be16a8662d1a09a0f39eb9994f2c9c95729944f03aae55af80325b"
+    }
+  }
+}

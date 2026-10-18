@@ -1,0 +1,64 @@
+{
+  "inferredStart": "1748-05-11",
+  "inferredEnd": "1748-05-11",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start",
+      "date": "1748-05-11",
+      "time": "afternoon; about three hours before sunset",
+      "basis": "inferred",
+      "evidence": "The session YAML anchors 1748-05-11. u0001-u0003 explicitly place the party in late-afternoon sunlight, about three hours before sunset; u0300 repeats the estimate before the short rest. The calendar date is inferred from YAML."
+    },
+    {
+      "uid": "u0479",
+      "label": "Short rest and scouting conclude",
+      "date": "1748-05-11",
+      "time": "afternoon; about two hours before sunset",
+      "basis": "explicit",
+      "evidence": "u0392-u0404 place Wellby’s scouting during the others’ rest. At u0479 the DM says about an hour has passed and two hours remain before sunset."
+    },
+    {
+      "uid": "u0590",
+      "label": "Fountain inspection ends",
+      "date": "1748-05-11",
+      "time": "afternoon; about one hour forty-five minutes before sunset",
+      "basis": "explicit",
+      "evidence": "u0590 says the fountain inspection took ten to fifteen minutes and about one hour forty-five minutes of daylight remain."
+    },
+    {
+      "uid": "u0747",
+      "label": "Approaching and entering the tower",
+      "date": "1748-05-11",
+      "time": "afternoon; roughly ninety to one hundred minutes before sunset",
+      "basis": "explicit",
+      "evidence": "u0747-u0751 estimate a little more than an hour and a half before sunset; u0851, after admission, gives about an hour forty. These are approximate overlapping daylight estimates within the same approach, not evidence of reversed time or another day."
+    },
+    {
+      "uid": "u2074",
+      "label": "The Hall grows dark",
+      "date": "1748-05-11",
+      "time": "afternoon; about one hour before sunset",
+      "basis": "explicit",
+      "evidence": "u2074-u2082 say approximately forty minutes have passed in the Hall, the floor is shadowed, and about an hour remains until sunset. Historical nights, travel, and visions in the Hall have not advanced the present date."
+    },
+    {
+      "uid": "u2189",
+      "label": "Upper library search ends",
+      "date": "1748-05-11",
+      "time": "afternoon; about forty minutes before sunset",
+      "basis": "explicit",
+      "evidence": "u2189-u2196 place the discovery of the spell scrolls about forty minutes before sunset."
+    },
+    {
+      "uid": "u2827",
+      "label": "Session end planning",
+      "date": "1748-05-11",
+      "time": "afternoon; about half an hour before sunset",
+      "basis": "explicit",
+      "evidence": "u2827 explicitly gives half an hour to sunset. u2834-u2839 propose visiting the temple, sleeping, and scouting Kharsan tomorrow, followed by a return toward Karawa; none is played before u2891."
+    }
+  ],
+  "issues": [],
+  "resolutions": {}
+}

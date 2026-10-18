@@ -1,0 +1,70 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Warnings at Bhishma’s Temple",
+      "beatIds": [
+        "beat-001"
+      ],
+      "rationale": "The temple survey and preparations end when Kenzo proposes direct reconnaissance of the undead presence.",
+      "overview": "The party enters the desecrated temple and senses undead nearby.",
+      "transitionToNext": "Kenzo begins invisible reconnaissance."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Shadows and a Night’s Rest",
+      "beatIds": [
+        "beat-002",
+        "beat-003"
+      ],
+      "rationale": "Testing the shadows leads directly to withdrawal and recovery at camp; the next dawn begins a new decision.",
+      "overview": "Kenzo tests the shadows against light; the party retreats and rests while Delwath hears distant armor.",
+      "transitionToNext": "Dawn brings renewed plans for Kharsan."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Missing Orcs at Dawn",
+      "beatIds": [
+        "beat-004",
+        "beat-005"
+      ],
+      "rationale": "The morning discussion and Wellby’s investigation establish the reconnaissance goal and then reveal the threat that forces a route change.",
+      "overview": "The party debates Kharsan; Wellby discovers missing bodies and approaching search parties.",
+      "transitionToNext": "The party must choose an escape route."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "The Southern Detour",
+      "beatIds": [
+        "beat-006",
+        "beat-007"
+      ],
+      "rationale": "The chosen route and its short travel montage form one decision-and-consequence sequence, ending in exhausted rest.",
+      "overview": "The party chooses a southern loop, rides around the cliffs, and camps after a tiring forced march.",
+      "transitionToNext": "They rise before dawn to approach Kharsan from the west."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Approaching Kharsan",
+      "beatIds": [
+        "beat-008",
+        "beat-009"
+      ],
+      "rationale": "Aerial scouting, mount concealment, and the stealthy approach establish the reconnaissance position at the bridge.",
+      "overview": "A hawk reveals stronger patrols and a shadowed palace; the party conceals its mounts and reaches the bridge.",
+      "transitionToNext": "Seeker and Delwath begin simultaneous reconnaissance."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "Grash and the Haunted Ruins",
+      "beatIds": [
+        "beat-010",
+        "beat-011"
+      ],
+      "rationale": "Seeker’s palace surveillance and Delwath’s parallel exploration are parts of one reconnaissance mission, closing with reunion at the bridge.",
+      "overview": "Seeker witnesses Grash’s necromancy and war plans while Delwath explores the haunted ruins and retrieves glassware.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

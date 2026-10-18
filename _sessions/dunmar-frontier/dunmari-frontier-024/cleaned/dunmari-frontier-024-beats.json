@@ -1,0 +1,183 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Warnings at Bhishma’s Temple",
+      "startUid": "u0001",
+      "endUid": "u0396",
+      "lineCount": 396,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The opening recap leads into the temple approach, depleted resources, and detection of undead; Kenzo’s reconnaissance proposal starts the next beat.",
+      "dateEvidence": [
+        "Session drStart anchors May 11; u0021–u0030 explicitly place the current action shortly before sunset."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Testing the Temple Shadows",
+      "startUid": "u0397",
+      "endUid": "u0710",
+      "lineCount": 314,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Kenzo investigates under invisibility, tests the shadows against light, and returns to the party before they leave the building.",
+      "dateEvidence": [
+        "Same continuous temple visit; u0335 places sunset 15–20 minutes away and u0706–u0708 describe the last sunlight leaving the windows."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Retreat and Night Watches",
+      "startUid": "u0711",
+      "endUid": "u0888",
+      "lineCount": 178,
+      "dateStart": "1748-05-11",
+      "dateEnd": "1748-05-12",
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party exits the temple, returns to camp, and rests; the following beat begins at dawn, a clear day boundary.",
+      "dateEvidence": [
+        "u0711–u0784 cover departure at sunset and evening camp; u0813–u0842 establish overnight watches, with Seeker and Wellby taking the middle-night and pre-dawn watches at u0858–u0885."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Why Scout Kharsan?",
+      "startUid": "u0889",
+      "endUid": "u1140",
+      "lineCount": 252,
+      "dateStart": "1748-05-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "At dawn the party reconsiders reconnaissance and interprets the fort’s architecture; Wellby’s active search starts the next beat.",
+      "dateEvidence": [
+        "u0889 explicitly begins dawn after the overnight rest; May 12 follows the May 11 evening."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Missing Bodies and Searching Orcs",
+      "startUid": "u1141",
+      "endUid": "u1324",
+      "lineCount": 184,
+      "dateStart": "1748-05-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Wellby’s investigation reveals vanished corpses, a freed captive, and approaching patrols, changing the discussion into an urgent escape problem.",
+      "dateEvidence": [
+        "u1164 explicitly places Wellby’s search in early morning; u1201 and u1228 describe approaching patrols during the same morning."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Choosing the Southern Detour",
+      "startUid": "u1325",
+      "endUid": "u1580",
+      "lineCount": 256,
+      "dateStart": "1748-05-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party weighs ambush and deception before committing to ride south and circle back west; actual travel begins at u1581.",
+      "dateEvidence": [
+        "Continuous discussion after Wellby’s early-morning report; u1556–u1559 give minutes until the patrols reach the monastery and camp."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Hard Riding and Exhaustion",
+      "startUid": "u1581",
+      "endUid": "u1652",
+      "lineCount": 72,
+      "dateStart": "1748-05-12",
+      "dateEnd": "1748-05-13",
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "A compact travel montage covers the southern detour, forced march, and night watches; retained as a short beat because departure and the next pre-dawn awakening are strong situation and day boundaries.",
+      "dateEvidence": [
+        "u1593 specifies about 3 p.m.; u1601 reaches sunset; u1621 adds about an hour of travel; u1648–u1650 explicitly carry the watches to about 3 a.m. on the following day."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "A Hawk over Kharsan",
+      "startUid": "u1653",
+      "endUid": "u1813",
+      "lineCount": 161,
+      "dateStart": "1748-05-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party rises before dawn, reaches the road, scouts the city by hawk, and conceals the mounts; the approach on foot begins next.",
+      "dateEvidence": [
+        "u1653–u1655 explicitly wake the party just before 5 a.m. after the second overnight rest; u1684 gives 9–9:30 a.m. and u1706 gives 9:30–10 a.m."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Reaching the Bridge Unseen",
+      "startUid": "u1814",
+      "endUid": "u1996",
+      "lineCount": 183,
+      "dateStart": "1748-05-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party plans the sensor placement, reaches the bridge under stealth and invisibility, and prepares simultaneous reconnaissance in the palace and northern ruins.",
+      "dateEvidence": [
+        "Same morning as the hawk scouting; u1909 explicitly says the sun is still in the east before noon."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Seeker Watches Grash",
+      "startUid": "u1997",
+      "endUid": "u2327",
+      "lineCount": 331,
+      "dateStart": "1748-05-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Two successive Clairvoyance castings reveal Grash’s killings, necromancy, orders, and Sending; the narration then switches to Delwath’s concurrent scouting.",
+      "dateEvidence": [
+        "Continuous bridge reconnaissance after u1909; u2140–u2141 give the first spell’s ten-minute duration and u2212 starts the second casting."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "Voices in the Northern Ruins",
+      "startUid": "u2328",
+      "endUid": "u2495",
+      "lineCount": 168,
+      "dateStart": "1748-05-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The narration returns to Delwath’s simultaneous expedition, follows his discoveries and return, and ends with the party regrouped at the bridge.",
+      "dateEvidence": [
+        "u2328 explicitly says Delwath’s scouting occurs while Seeker’s observations are going on; u2454 estimates twenty minutes in the city, and u2494 defers leaving Kharsan until next session."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "inferredStart": "1748-05-23",
+  "inferredEnd": "1748-05-24",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Session start: return to Karawa",
+      "date": "1748-05-23",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u0006-u0007 describe the sun sinking and explicitly give May 23; the year is anchored by session YAML. u0975-u0979 contain a mistaken morning reference immediately corrected by the DM to the same arrival evening."
+    },
+    {
+      "uid": "u1428",
+      "label": "Intervening day in Karawa",
+      "date": "1748-05-24",
+      "time": null,
+      "basis": "inferred",
+      "evidence": "The montage introduced at u1428-u1430 covers the available day before the ritual; u1483 looks back at sleeping the previous night, and u1539 calls the ritual the following evening. Assign May 24 to the day’s errands; their precise hours are unstated. The driftglobe discussion is retrospective, not another overnight transition."
+    },
+    {
+      "uid": "u1539",
+      "label": "Following evening: return for the ritual",
+      "date": "1748-05-24",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u1539-u1540 explicitly say the following evening, when the party returns to the temple. u1601 confirms evening light. u2599-u2600 confirm the ritual and battle finish while it is still evening after roughly thirty minutes; u2601-u2604 discuss real-world session timing, not an in-world midnight."
+    },
+    {
+      "uid": "u2747",
+      "label": "After sunset: mourning and funeral",
+      "date": "1748-05-24",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u2747 describes the cloisters in darkness because the sun has set; u2756-u2758 have the party settle for the evening and the funeral, leaving next steps for morning. The source does not advance into that morning."
+    }
+  ],
+  "issues": [],
+  "resolutions": {}
+}

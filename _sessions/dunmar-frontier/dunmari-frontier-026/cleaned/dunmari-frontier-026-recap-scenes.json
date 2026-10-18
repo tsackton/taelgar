@@ -1,0 +1,80 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Home to a Crumbling Mesa",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "rationale": "The return, patrol news, and private confession form the party’s arrival and discovery of the crisis in Karawa.",
+      "overview": "The party returns to grim news and confronts Candrosa about his deception and the failing protections.",
+      "transitionToNext": "Candrosa sends them to meet Drikod at the centaur camp."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "A Stoneborn from the North",
+      "beatIds": [
+        "beat-003"
+      ],
+      "rationale": "A distinct social encounter introduces a new companion whose home is threatened by the same disturbances.",
+      "overview": "Drikod introduces himself and explains why the elders of Kunda sent him south.",
+      "transitionToNext": "The new group returns to the temple for Candrosa’s full account."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "The Missing Heart",
+      "beatIds": [
+        "beat-004",
+        "beat-005"
+      ],
+      "rationale": "Candrosa’s account and the negotiations that follow concern one immediate problem: how to recover the Heart and whom to trust with the secret.",
+      "overview": "Cintra’s disappearance is revealed; the party presses for disclosure and agrees to the next evening’s ritual.",
+      "transitionToNext": "Candrosa leaves to pray and speak with Tharandros; the party begins its own inquiries."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Clues and Preparations in Karawa",
+      "beatIds": [
+        "beat-006",
+        "beat-007"
+      ],
+      "rationale": "The user requested merging the evening’s hawk and mirror inquiries with the intervening day of preparations before the ritual.",
+      "overview": "The party gathers clues from a hawk and the mirror, then arranges barding, speaks with Tharandros, and prepares for the ritual.",
+      "transitionToNext": "At dusk, the party returns to Candrosa for the ceremony."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Shakun’s Fraying Web",
+      "beatIds": [
+        "beat-008"
+      ],
+      "rationale": "The ritual and its continuous shared vision form one scene, ending with the abrupt awakening.",
+      "overview": "The party enters the blue-flamed pool and sees Dunmar’s protective web tearing around an empty center.",
+      "transitionToNext": "They wake to screams as the pursuing shadows attack the mystai."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "Shadows in the Sanctuary",
+      "beatIds": [
+        "beat-009",
+        "beat-010",
+        "beat-011"
+      ],
+      "rationale": "These three tactical beats comprise one uninterrupted combat in the ritual cavern.",
+      "overview": "Caught without gear, the party uses bright light and magic to destroy seven shadows; two mystai die.",
+      "transitionToNext": "The final shadows fall, leaving the party and Candrosa to confront the losses."
+    },
+    {
+      "sceneId": "scene-007",
+      "title": "Mourning and Resolve",
+      "beatIds": [
+        "beat-012"
+      ],
+      "rationale": "The aftermath combines the immediate human cost, interpretation of the vision, and the decision to continue seeking the Heart.",
+      "overview": "The party tends the dead, discusses remaining mysteries, and prepares for the funeral and the journey south.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

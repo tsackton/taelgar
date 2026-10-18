@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "inferredStart": "1748-04-24",
+  "inferredEnd": "1748-04-24",
+  "proposedYamlChanges": [],
+  "issues": [],
+  "needsHumanInput": false,
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Council in Karawa after returning from the north",
+      "date": "1748-04-24",
+      "time": null,
+      "basis": "explicit",
+      "evidence": "Session YAML supplies 1748-04-24; u0598-u0601 confirm today is the 24th, eleven days after the April 13 demon fight. u0005 places the arrival earlier the same day; the exact starting hour is not established. u1430 still describes daylight. The opening recap says morning arrival, while the written note favors late afternoon; no exact hour is assigned.",
+      "beatId": "beat-001",
+      "sourceText": "We open tonight."
+    },
+    {
+      "uid": "u2615",
+      "label": "Kenzo’s private conversation later that evening",
+      "date": "1748-04-24",
+      "time": "evening",
+      "basis": "explicit",
+      "evidence": "u2615: Kenzo places the conversation later in the evening; u2616: the DM agrees that the companions go off to organize supplies while Kenzo slips away. No overnight rest or new date occurs before u2992.",
+      "beatId": "beat-011",
+      "sourceText": "So, presumably, you know later in the evening you know."
+    }
+  ],
+  "inputs": {
+    "session": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-session.yaml",
+      "sha256": "1d2d154b9748a6f61dbfa9fe62d8c5ae842d243079babd3a7e68f33eb3b979e3"
+    },
+    "beats": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-beats.json",
+      "sha256": "801def1b63a10228223beffe44157c13ef61415dce57f3fe42d16d15e3d4f798"
+    },
+    "facts": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-beat-facts.json",
+      "sha256": "2f8b0aec3fcdd2e5e5d0066fc66adab313a6557ccbcca5be2c51054fa7cea975"
+    },
+    "transcript": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-source-cleaned.md",
+      "sha256": "ab4e62e7980c7e88349e8ddfbad5f38cbd928a7477ee82e662e756ab6cb96ba9"
+    },
+    "evidence": {
+      "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-timeline-evidence.json",
+      "sha256": "0a1f2b9d2d321a37cf2c4c073c9f4d1cecbc093784c0bbce47fe92e8ed5ad16c"
+    }
+  }
+}

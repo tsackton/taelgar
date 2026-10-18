@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "After the Battle",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "rationale": "The immediate aftermath, captive handling, and debrief with Havdar form one post-battle recovery situation.",
+      "overview": "The party binds the captive, examines the orc emblem, and learns how four of Havdar’s warriors died.",
+      "transitionToNext": "Aram revives the prisoner for questioning."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Gorkil and the Blighted One",
+      "beatIds": [
+        "beat-003",
+        "beat-004",
+        "beat-005"
+      ],
+      "rationale": "The first questions, private sidebar, resumed interrogation, and report to Havdar all concern the same captive and the meaning of his revelations.",
+      "overview": "Gorkil boasts of Grash and attacks on peaceful orcs; after a private debate, Seeker is compelled to kill him.",
+      "transitionToNext": "Havdar calls the group to the funeral."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Honoring the Fallen",
+      "beatIds": [
+        "beat-006"
+      ],
+      "rationale": "The funeral, memorial gift, spear trade, evening practice, and shared meal form the camp’s response to its losses before the overnight rest.",
+      "overview": "The party mourns the dead; Wellby receives Camana’s bowstring, Kenzo trades for a jumping ring, and they practice together.",
+      "transitionToNext": "Morning brings returning scouts and a decision about the journey."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "The Southern Detour",
+      "beatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009"
+      ],
+      "rationale": "The scouts’ report, choice of the monastery, desert journey, and river camp form one continuous decision and approach, with the southern trees considered but not pursued.",
+      "overview": "After hearing the scouts’ report, the party chooses the monastery and takes a wide southern detour to the dry Kharja.",
+      "transitionToNext": "After the river camp, they turn north toward Kharsan."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Kharsan Through a Hawk’s Eyes",
+      "beatIds": [
+        "beat-010",
+        "beat-011"
+      ],
+      "rationale": "The northward approach, first view, and aerial survey share one reconnaissance goal before any entry into the ruins.",
+      "overview": "Wellby scouts the city, royal tombs, orc fort, and intact monastery through a hawk, finding a sheltered approach.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-023/cleaned/dunmari-frontier-023-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Kenzo returns weakened from his initiation and reports that restoring a missing stone heart may allow Shakun to reach Karawa again.",
+      "longSummary": "Seeker supports an exhausted Kenzo back to Wellby and Delwath. They recount experiencing Bhishma’s story: Seeker refused the final sacrifice, while Kenzo accepted and became an initiate. Kenzo reports Bhishma’s message that Shakun remains with her but cannot reach Karawa because something has been taken, accompanied by a vision of a beating reddish stone heart. They consider a divine focus and wonder what Candrosa knows, without establishing the heart’s location or how it was lost. Kenzo takes a short rest and a healing potion, while Seeker uses his pearl to restore a spell slot.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Dining hall after the manticore fight"
+      },
+      "npcs": [
+        {
+          "name": "Bhishma",
+          "role": "mentioned",
+          "notes": "Kenzo recounts her message and his completed initiation; she is not physically encountered in this beat."
+        },
+        {
+          "name": "Shakun",
+          "role": "mentioned",
+          "notes": "Bhishma’s message says she cannot reach Karawa until a missing object is returned."
+        },
+        {
+          "name": "Candrosa",
+          "role": "mentioned",
+          "notes": "The party suspects he knows more about the missing heart; coercion and theft remain hypotheses."
+        }
+      ],
+      "items": [
+        {
+          "name": "Heart of Shakun",
+          "role": "mentioned",
+          "notes": "A beating reddish stone heart appears in Kenzo’s account of his vision; its whereabouts remain unknown."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Mystai of Bhishma",
+          "role": "encountered",
+          "notes": "The party explores the order’s monastery and its surviving memories and guardians."
+        },
+        {
+          "name": "Lakan Mystai",
+          "role": "mentioned",
+          "notes": "Kenzo was already an initiate before undergoing Bhishma’s initiation."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Wellby finds a monk’s diary and enchantable vellum during the rest, and the party examines the monastery’s magical fountain.",
+      "longSummary": "While the others rest, Wellby scouts invisibly with Delwath’s help, finding 24 silver and 160 copper coins, an unnamed monk’s diary, and unusually well-preserved blank vellum. The diary describes mounting danger around the Great War and ends with the monk choosing to stay and protect the monastery’s work. Paper-making equipment and a dry cistern remain in the ruined buildings. Seeker identifies the vellum as suitable for a spell scroll, and Kenzo keeps the diary. At the courtyard fountain, they find conjuration magic producing clean water around a polished petrified-wood figure despite nearby orc vandalism; it has no healing effect.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Dormitories, paper workshops, dry well, and courtyard fountain"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Unnamed monk’s diary",
+          "role": "encountered",
+          "notes": "Recovered by Wellby and kept by Kenzo; ends with a decision to defend the monastery during the Great War."
+        },
+        {
+          "name": "Blank spell-scroll vellum",
+          "role": "encountered",
+          "notes": "Prepared to take enchantment; recovered in the paper workshops."
+        },
+        {
+          "name": "Courtyard fountain",
+          "role": "encountered",
+          "notes": "Conjuration magic produces clean water around a petrified-wood sculpture."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Mystai of Bhishma",
+          "role": "encountered",
+          "notes": "The party explores the order’s monastery and its surviving memories and guardians."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "After a ward repels Kenzo at a side door, his initiatory greeting persuades the tower’s four ghosts to admit the party.",
+      "longSummary": "The party studies the Hall of Stories’ dense carvings of Dunmari life and finds abjuration magic on its side doors. Kenzo’s attempt to open one triggers a burst of radiant energy that he avoids. They instead open the unwarded tower entrance, where four hooded ghosts bar the way. Kenzo gives Bhishma’s ritual greeting and explains that they seek knowledge of the events thirty years earlier. The ghosts recognize him as a brother, allow entry, and urge haste, but no longer remember their names. Kenzo offers to help them remember. The party passes depleted library and study rooms and proceeds toward the Hall.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Hall of Stories exterior, tower entrance, and ground-floor passage"
+      },
+      "npcs": [
+        {
+          "name": "Ghostly monastery guards",
+          "role": "encountered",
+          "notes": "Four unnamed monks’ ghosts guard the tower; Kenzo’s initiatory signs win passage."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Mystai of Bhishma",
+          "role": "encountered",
+          "notes": "The party explores the order’s monastery and its surviving memories and guardians."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The Hall’s memory web shows an initiation and the battle in which Karmana and four defenders became its ghostly guardians.",
+      "longSummary": "Inside the vast pillared Hall, Seeker and Delwath glimpse skeletons before everyone is drawn into a memory linked to Seeker’s childhood reading. They follow a young monk toward initiation and discover a web of stored memories that their own experiences can guide. Delwath recalls the battlefield where he alone survived, leading them to a monk’s defense of the monastery against skeletons and an intelligent undead commander. The defender dies, rises as a spirit, destroys the enemy, and binds four fallen companions to guard the monastery until the monks return. This defender is later recognized as Karmana; the departing expedition’s masters never returned to deposit their own memories.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Hall of Stories: name-carved pillars and the web of memories",
+        "notes": "The party remains physically in the Hall; the initiation and battle are historical memories, not current combat."
+      },
+      "npcs": [
+        {
+          "name": "Karmana",
+          "role": "mentioned",
+          "notes": "Seen in a stored memory as the defender who rises after death; his identity is established during the later tower encounter."
+        },
+        {
+          "name": "Ghostly monastery guards",
+          "role": "mentioned",
+          "notes": "Their origin appears in Karmana’s stored memory; they are not newly confronted in this beat."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Mystai of Bhishma",
+          "role": "encountered",
+          "notes": "The party explores the order’s monastery and its surviving memories and guardians."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Seeker’s memory of forbidden knowledge leads to monks meeting Dimitaur and a shadowed jade figure whom the party associates with Rai.",
+      "longSummary": "Seeker recalls discovering Frankar’s forbidden divination, reaching an apprentice’s memory of a vast domed chamber. Dimitaur emerges from shadow beside a glimpse of jade, and a voice speaks words the apprentice cannot understand. Leaving into a monumental ruined city, the senior monks discuss healing Dunmar and persuading the masters to support their dangerous plan; their northward journey ends near cliffs above a lush river valley. The architecture suggests Drankor, and Kenzo recognizes the audience from an earlier vision seen from the opposite perspective. The party connects it with Rai and the Order of the Awakened Soul, while distinguishing the expedition thirty years earlier from Grash’s much more recent rise.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Hall of Stories: a remembered audience in a ruined city",
+        "notes": "Drankor and its southern landscape are seen in memory; the party does not travel there."
+      },
+      "npcs": [
+        {
+          "name": "Frankar",
+          "role": "mentioned",
+          "notes": "Seeker uses the memory of his brother’s forbidden divination as a link."
+        },
+        {
+          "name": "Dimitaur",
+          "role": "mentioned",
+          "notes": "Recognized in the stored audience; this is not a present-day meeting."
+        },
+        {
+          "name": "Rai",
+          "role": "mentioned",
+          "notes": "The party associates the shadowed jade figure and earlier vision with Rai; the apprentice did not understand the conversation."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Mystai of Bhishma",
+          "role": "encountered",
+          "notes": "The party explores the order’s monastery and its surviving memories and guardians."
+        },
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "mentioned",
+          "notes": "Kenzo connects his earlier instruction to seek the order’s stories with these memories."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Delwath hears a master warn against the expedition, and Wellby learns a remembered route south to Drankor.",
+      "longSummary": "Delwath’s search for painful memories attracts a dark presence and moves through scenes of retreat, beginning with opposition to Dasa’s campaign centuries before the Great War. It then reaches an older female master warning that attempts to heal the corrupted land may worsen it; another insists that a great hero’s support justifies the risk, and the council has decided to proceed. Her identity is not established here. Wellby recalls childhood travel with his great-grandfather and reaches a child’s memory of a father describing a journey with monks: follow the dry river from southwest of Bas Udda to the Hara, continue south through desert for roughly two months, and descend cliffs and waterfalls toward Drankor’s forested ruins.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Hall of Stories: memories of dissent and travel",
+        "notes": "The ancient campaign, summer camp, and two-month journey are memories. Their dates do not advance the party’s current afternoon."
+      },
+      "npcs": [
+        {
+          "name": "Dasa",
+          "role": "mentioned",
+          "notes": "A remembered commander rejects his ancient campaign near Drankor; this predates the later expedition."
+        },
+        {
+          "name": "Dissenting female master",
+          "role": "mentioned",
+          "notes": "An unnamed older woman warns that the expedition could worsen the land’s corruption; the party later wonders whether she was Saka."
+        },
+        {
+          "name": "Sajan",
+          "role": "encountered",
+          "notes": "An unnamed dark presence reaches toward Delwath’s search for painful memories; Karmana later identifies the Hall’s presence as Sajan."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Mystai of Bhishma",
+          "role": "encountered",
+          "notes": "The party explores the order’s monastery and its surviving memories and guardians."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "A fearful presence overtakes Kenzo’s search, but Seeker regains direction and uncovers the council’s plan to seal corruption with Rai’s help.",
+      "longSummary": "Kenzo recalls Kaeso sending him toward the Lakan Mystai, hoping to reach a memory of purpose. Instead, a desperate battle against shadows gives way to visions of a world without Dunmari, and Kenzo takes six psychic damage. The party realizes another mind is imposing its fear rather than celebrating destruction; this presence is later identified as Sajan. Seeker recalls overhearing his parents’ important debate and breaks through to an apprentice secretly listening to the masters. They planned to head east, find the center of extraplanar tendrils called the evil realm or Cha’mutte’s realm, and seal them so the land might heal. Most trusted Rai’s promised help; dissenters feared meddling with forces they did not understand.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Hall of Stories: Sajan’s fearful visions and the masters’ council",
+        "notes": "The shadow battle and apocalypse are memory and fearful vision; the party remains in the Hall and enters no present-day combat."
+      },
+      "npcs": [
+        {
+          "name": "Sajan",
+          "role": "encountered",
+          "notes": "Her despairing influence takes control of the memory web; Karmana names and explains her later."
+        },
+        {
+          "name": "Rai",
+          "role": "mentioned",
+          "notes": "Named in the council memory as their promised ally and guide to the tendrils’ center."
+        },
+        {
+          "name": "Kaeso",
+          "role": "mentioned",
+          "notes": "Kenzo recalls his instruction to leave Chardon and find the Lakan Mystai."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Mystai of Bhishma",
+          "role": "encountered",
+          "notes": "The party explores the order’s monastery and its surviving memories and guardians."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Comparing the council memory with earlier visions, the party develops uncertain theories about Rai’s injury, the portal, and the missing heart before the Hall’s despair drives them onward.",
+      "longSummary": "Kenzo recounts a mirror vision of purple magic drawing a fissure shut, a dark lash striking toward a jade hand, and a separate scene of jade falling onto desert ground. The DM clarifies that the gap between scenes leaves the portal’s final state and Rai’s fate unknown. Kenzo also recalls the dream in which a jade-armed figure told him to seek the Order of the Awakened Soul and then shattered. The party wonders whether Chardonian agents are collecting Rai’s pieces and whether restoring Shakun’s heart could protect the border; these remain theories. As they discuss, Sajan’s despair strengthens and deep shadows fill the Hall, with about an hour until sunset.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Hall of Stories as its floor falls into shadow"
+      },
+      "npcs": [
+        {
+          "name": "Sajan",
+          "role": "encountered",
+          "notes": "Her despair presses on the group while they remain in the Hall."
+        },
+        {
+          "name": "Rai",
+          "role": "mentioned",
+          "notes": "The mirror and dream accounts suggest injury or fragmentation, but his condition and the portal’s state remain unresolved."
+        },
+        {
+          "name": "Shakun",
+          "role": "mentioned",
+          "notes": "The party discusses restoring her lost protection."
+        },
+        {
+          "name": "Candrosa",
+          "role": "mentioned",
+          "notes": "Kenzo recalls the dream first experienced in connection with him."
+        }
+      ],
+      "items": [
+        {
+          "name": "Jade Piece of Rai’s Hand",
+          "role": "mentioned",
+          "notes": "Kenzo recounts its earlier mirror vision and dream; no new examination with the mirror occurs here."
+        },
+        {
+          "name": "Heart of Shakun",
+          "role": "mentioned",
+          "notes": "Restoring it is considered a separate useful objective."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Mystai of Bhishma",
+          "role": "encountered",
+          "notes": "The party remains in the order’s Hall of Stories."
+        },
+        {
+          "name": "Chardonian agents",
+          "role": "mentioned",
+          "notes": "The group speculates that the artifact hunters may be seeking pieces of Rai; their motive is unconfirmed."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party leaves the Hall, triggers a lightning ward while searching the tower, and recovers three useful spell scrolls.",
+      "longSummary": "Climbing through the tower, the party finds a writing room with more blank scroll material. Kenzo recalls Saka, an older master who declined the expedition and was last reported north and west of Tokra, and they consider seeking her. Opening stone doors on the next floor triggers a lightning glyph: Kenzo, Seeker, and Delwath each take fourteen damage, and Wellby takes seven. The mostly emptied protected library yields Tongues, Sending, and Speak with Dead scrolls, which Seeker records. They discuss using them to contact Rai or question the skeletons but cast none. Passing an empty council room, they reach the top floor and investigate faint rustling behind a plain wooden door.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Tower writing room, warded library, council chamber, and upper landing"
+      },
+      "npcs": [
+        {
+          "name": "Saka",
+          "role": "mentioned",
+          "notes": "Kenzo recalls a master who declined the expedition and may remain near Tokra; the group tentatively connects her with the dissenting woman in the memory."
+        },
+        {
+          "name": "Rai",
+          "role": "mentioned",
+          "notes": "Considered as a recipient for Sending; no message is sent."
+        }
+      ],
+      "items": [
+        {
+          "name": "Blank spell-scroll parchment",
+          "role": "encountered",
+          "notes": "Additional blank sheets remain in the tower’s writing room."
+        },
+        {
+          "name": "Scroll of Tongues",
+          "role": "encountered",
+          "notes": "Found in the warded library and recorded by Seeker."
+        },
+        {
+          "name": "Scroll of Sending",
+          "role": "encountered",
+          "notes": "Found in the warded library; possible recipients are discussed without using it."
+        },
+        {
+          "name": "Scroll of Speak with Dead",
+          "role": "encountered",
+          "notes": "Found in the warded library; questioning the skeletons remains a proposal."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Mystai of Bhishma",
+          "role": "encountered",
+          "notes": "The party explores the order’s monastery and its surviving memories and guardians."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "Karmana explains Sajan’s despair and the worsening threats since the expedition, including a surge of darkness from Kharsan less than a year earlier.",
+      "longSummary": "The ghost in the bedroom is Karmana, the defender seen in memory, who accepts Kenzo’s new initiation but struggles to recall anything outside his duty to protect the tower and Hall. He says Sajan bound herself to the Hall during the Great War and plague, trapping intruders in nightmares; the monks later tried to soothe her with happy memories. He cannot say why the expedition failed or what became of its members, but danger has grown ever since, and a rotten-ocean darkness surged from Kharsan less than a year ago. Saka left west before the others went east, and Rai never visited this monastery. Karmana offers an ivory candle box, mentions hyena-like visitors, and says the order’s knowledge of souls and consciousness might explain why Rai sought their help.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Tower’s top-floor bedroom"
+      },
+      "npcs": [
+        {
+          "name": "Karmana",
+          "role": "encountered",
+          "notes": "Last master’s ghost, bound to defend the tower and Hall; his memories and knowledge beyond them are limited."
+        },
+        {
+          "name": "Sajan",
+          "role": "mentioned",
+          "notes": "Karmana identifies the Hall’s despairing presence as its former archivist, bound there during the Great War and plague."
+        },
+        {
+          "name": "Saka",
+          "role": "mentioned",
+          "notes": "Karmana says she went west before the expedition left east."
+        },
+        {
+          "name": "Rai",
+          "role": "mentioned",
+          "notes": "Karmana says Rai never came to the monastery and does not know the expedition’s precise arrangements."
+        },
+        {
+          "name": "Grash",
+          "role": "mentioned",
+          "notes": "Karmana knows the name from overheard orcs and associates the growing danger with Kharsan without proving its cause."
+        },
+        {
+          "name": "Dimitaur",
+          "role": "mentioned",
+          "notes": "Karmana has heard stories but never met the creature."
+        }
+      ],
+      "items": [
+        {
+          "name": "Carved ivory candle box",
+          "role": "encountered",
+          "notes": "Holds six candles; Karmana gives permission to take it, but removal is not clearly narrated."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Mystai of Bhishma",
+          "role": "encountered",
+          "notes": "The party explores the order’s monastery and its surviving memories and guardians."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-011",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "shortSummary": "The party agrees to visit the temple before sunset, camp, scout Kharsan the next day, and then return toward Karawa by Agata Dust Mother’s home.",
+      "longSummary": "The group compares competing explanations of the failed expedition and the recent threats, without resolving whether Rai was shattered, the portal remained open, or Grash serves a deeper force. Wellby and Delwath favor helping Dunmar before undertaking a long journey to Drankor; Kenzo and Seeker prioritize restoring Shakun’s heart, while Delwath remains drawn to Kharsan and his own arrival there. They settle on visiting the monastery’s temple before sunset, then camping and reconnoitering Kharsan tomorrow before heading back toward Karawa via Agata Dust Mother. Kenzo insists on reconnaissance without revealing themselves, although Wellby still wants an opportunity to shoot Grash. The session ends about half an hour before sunset, before any of these planned actions occur.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Tower, during the closing discussion of plans",
+        "notes": "Temple exploration, overnight rest, Kharsan reconnaissance, and return travel are future plans, not completed visits."
+      },
+      "npcs": [
+        {
+          "name": "Grash",
+          "role": "mentioned",
+          "notes": "Proposed reconnaissance target; Wellby voices willingness to attack, despite Kenzo’s insistence on caution."
+        },
+        {
+          "name": "Agata Dust Mother",
+          "role": "mentioned",
+          "notes": "A planned stop on the return toward Karawa."
+        },
+        {
+          "name": "Candrosa",
+          "role": "mentioned",
+          "notes": "The party wants to question him about Shakun’s heart."
+        },
+        {
+          "name": "Shakun",
+          "role": "mentioned",
+          "notes": "Restoring her protection is a shared priority."
+        },
+        {
+          "name": "Rai",
+          "role": "mentioned",
+          "notes": "His fate remains part of the party’s unresolved larger theories."
+        }
+      ],
+      "items": [
+        {
+          "name": "Heart of Shakun",
+          "role": "mentioned",
+          "notes": "Recovering it remains a priority, with no confirmed location."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}

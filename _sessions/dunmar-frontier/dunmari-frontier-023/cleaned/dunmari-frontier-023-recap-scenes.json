@@ -1,0 +1,61 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Kenzo’s Initiation and the Missing Heart",
+      "beatIds": [
+        "beat-001"
+      ],
+      "rationale": "The reunited party shares the initiation’s consequences and Bhishma’s message before beginning new exploration.",
+      "overview": "Kenzo returns weakened and describes the missing heart that prevents Shakun reaching Karawa.",
+      "transitionToNext": "Wellby begins scouting while the others recover."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Searching for a Way Inside",
+      "beatIds": [
+        "beat-002",
+        "beat-003"
+      ],
+      "rationale": "The short-rest scouting, courtyard investigation, and guarded entry are one continuous effort to explore the monastery and reach its records.",
+      "overview": "A diary and enchanted materials lead into exploration of the fountain, warded doors, and ghostly guards.",
+      "transitionToNext": "Entering the Hall draws the party into its stored memories."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "The Hall of Stories",
+      "beatIds": [
+        "beat-004",
+        "beat-005",
+        "beat-006",
+        "beat-007",
+        "beat-008"
+      ],
+      "rationale": "At the user’s request, the complete visit to the Hall stays together: learning to navigate its memories, discovering the lost expedition, confronting its despairing presence, and interpreting the clues before leaving.",
+      "overview": "The party explores the memory web, learns of the eastern expedition and Rai’s promised aid, and struggles against the Hall’s despair.",
+      "transitionToNext": "Growing despair and fading daylight prompt a retreat into the tower."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Scrolls Behind a Lightning Ward",
+      "beatIds": [
+        "beat-009"
+      ],
+      "rationale": "Physical exploration replaces the memory search, with a trap, recovered scrolls, and a new occupied room at the top of the tower.",
+      "overview": "The upper library’s ward injures the party, but the search yields Tongues, Sending, and Speak with Dead.",
+      "transitionToNext": "Opening the top-floor bedroom reveals Karmana’s ghost."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Karmana’s Vigil and the Road Ahead",
+      "beatIds": [
+        "beat-010",
+        "beat-011"
+      ],
+      "rationale": "At the user’s request, the entire conversation with Karmana and the closing discussion of next steps form one final scene in the tower.",
+      "overview": "Karmana explains Sajan and the growing danger; the party plans a temple visit, camp, Kharsan reconnaissance, and a return toward Karawa.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

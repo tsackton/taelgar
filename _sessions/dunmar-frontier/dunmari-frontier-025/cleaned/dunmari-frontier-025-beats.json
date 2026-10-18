@@ -1,0 +1,151 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Escape from Kharsan",
+      "startUid": "u0001",
+      "endUid": "u0277",
+      "lineCount": 277,
+      "dateStart": "1748-05-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The opening recap and escape from the bridge form one continuous effort to reach the hidden horses; mounting up changes the objective to desert travel.",
+      "dateEvidence": [
+        "Session drStart anchors May 13; u0001 and u0094 place the opening before noon. u0277 confirms the party has reached its horses."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Riding Northwest, Keeping the Lights On",
+      "startUid": "u0278",
+      "endUid": "u0649",
+      "lineCount": 372,
+      "dateStart": "1748-05-13",
+      "dateEnd": "1748-05-14",
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Choosing Havdar’s camp, riding out, and establishing the first illuminated camp form the first travel day and overnight watch; end before the next morning.",
+      "dateEvidence": [
+        "u0394–u0400: ride northwest toward Havdar’s camp. u0413–u0420: rest of the day passes and first night begins. u0624: just past midnight, moving into May 14."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "A Wren Finds Water",
+      "startUid": "u0650",
+      "endUid": "u0779",
+      "lineCount": 130,
+      "dateStart": "1748-05-14",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "A new day brings Kenzo’s recovery, travel, and the wren-guided water search; keep this shorter beat because it lies between a clear waking transition and the ambush watch.",
+      "dateEvidence": [
+        "u0650: everyone wakes after the uneventful first night. u0664–u0670: the second travel day ends and camp begins at twilight. u0739–u0740: it is now night."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Shadows in the Light",
+      "startUid": "u0780",
+      "endUid": "u1258",
+      "lineCount": 479,
+      "dateStart": "1748-05-14",
+      "dateEnd": "1748-05-15",
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The long combat is split at the destruction of both humanoid shadows; the next phase focuses on the shadow dogs and protecting the horses.",
+      "dateEvidence": [
+        "u0780–u0786: Delwath takes the second night’s watch. u0795–u0809: ambush starts around midnight. u1554 later confirms the battle ends just past midnight, so the fight crosses into May 15."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "The Shadow Dogs Fall",
+      "startUid": "u1259",
+      "endUid": "u1700",
+      "lineCount": 442,
+      "dateStart": "1748-05-15",
+      "dateEnd": null,
+      "timeWindow": "night",
+      "dateResolution": "inferred",
+      "containsCombat": true,
+      "boundaryReason": "The remaining combat focuses on the dogs, followed by losses, discussion of Delwath’s powers, the table break, and completion of the interrupted night; end before dawn.",
+      "dateEvidence": [
+        "Continues the same midnight combat. u1554 explicitly places its aftermath just past midnight. u1681–u1699 resume watches and finish the night; the out-of-game break advances no in-world time."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Havdar’s Empty Camp",
+      "startUid": "u1701",
+      "endUid": "u1788",
+      "lineCount": 88,
+      "dateStart": "1748-05-15",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "A distinct day of slower travel ends at the deserted but intact spring camp, where the party consolidates its defenses; the next beat begins at morning.",
+      "dateEvidence": [
+        "u1701: dawn after the ambush. u1722: arrival an hour or two after sunset. u1783–u1785: the evening passes without another attack."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "A Duty to the Mystai",
+      "startUid": "u1789",
+      "endUid": "u1912",
+      "lineCount": 124,
+      "dateStart": "1748-05-16",
+      "dateEnd": "1748-05-17",
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Morning tracks reveal Havdar has left, prompting a new destination; the short two-day travel montage stays with that decision and ends before the stone-house reception.",
+      "dateEvidence": [
+        "u1789: the next morning, May 16. u1902: two-day journey to the stone house. u1906: first day passes; u1909–u1911: next day passes and they approach, May 17."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "Stories at the Stone House",
+      "startUid": "u1913",
+      "endUid": "u2232",
+      "lineCount": 320,
+      "dateStart": "1748-05-17",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Arrival, dinner, the exchange of stories and warnings, and the overnight visit are one uninterrupted social situation; end when the return journey montage is announced.",
+      "dateEvidence": [
+        "u1913–u1914: arrival as the sun sets on the second day from Havdar’s camp, May 17. u2212–u2224: they stay the night; no explicit later scene occurs before the montage."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Homeward to Karawa",
+      "startUid": "u2233",
+      "endUid": "u2286",
+      "lineCount": 54,
+      "dateStart": "1748-05-18",
+      "dateEnd": "1748-05-23",
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The final travel montage is a distinct journey and return to Karawa, despite its short transcript length.",
+      "dateEvidence": [
+        "u2212–u2224: overnight stay establishes next-day departure, May 18. u2245–u2246: arrive late afternoon on the sixth travel day, May 23. u2265 says six days after departure; user explicitly chose May 23 and the sixth-travel-day interpretation."
+      ]
+    }
+  ]
+}

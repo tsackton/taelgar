@@ -1,0 +1,186 @@
+{
+  "transcriptSha256": "c0676e1674633d78e1b94f76413860762e280c218161946e77f69ccddce6b97c",
+  "judgment": "The core session record is recoverable. Fourteen unresolved lines affect names, descriptions, or exact meanings and require tolerance or correction in interactive mode. Twenty-two other lines are incidental chatter or redundant fragments; they do not impede downstream work. Do not promote uncertain spans into facts. Both full line-by-line passes completed; source headers and line counts verified by report.",
+  "issues": [
+    {
+      "uid": "u0047",
+      "importance": "incidental",
+      "reason": "Greeting and travel pleasantry; no distinct event obscured."
+    },
+    {
+      "uid": "u0067",
+      "importance": "material",
+      "reason": "Uncertain rendering of the ruler's name/title; the existing session note suggests Samraat Nayan Karnas, but the exact spoken form is unclear."
+    },
+    {
+      "uid": "u0112",
+      "importance": "material",
+      "reason": "An additional person reported back in town is not securely identified."
+    },
+    {
+      "uid": "u0181",
+      "importance": "incidental",
+      "reason": "Fragment between repeated clear statements about the Heart."
+    },
+    {
+      "uid": "u0189",
+      "importance": "incidental",
+      "reason": "Aside during otherwise clear account of Bhishma initiation."
+    },
+    {
+      "uid": "u0366",
+      "importance": "incidental",
+      "reason": "Trailing fragment after clear explanation of waiting for the stoneborn."
+    },
+    {
+      "uid": "u0408",
+      "importance": "incidental",
+      "reason": "Broken ending to a clear disclaimer of historical expertise."
+    },
+    {
+      "uid": "u0426",
+      "importance": "material",
+      "reason": "Uncertain people/place name among groups protected by the border magic."
+    },
+    {
+      "uid": "u0467",
+      "importance": "incidental",
+      "reason": "Out-of-game reference to an old campaign's terminology."
+    },
+    {
+      "uid": "u0468",
+      "importance": "incidental",
+      "reason": "Out-of-game reference to an old campaign's character."
+    },
+    {
+      "uid": "u0554",
+      "importance": "material",
+      "reason": "Unclear shield descriptor in Delwath's appearance; shield itself is clear."
+    },
+    {
+      "uid": "u0555",
+      "importance": "incidental",
+      "reason": "Speech hesitation after clear physical description, completed by next line."
+    },
+    {
+      "uid": "u0563",
+      "importance": "incidental",
+      "reason": "Height-comparison chatter clarified immediately afterward."
+    },
+    {
+      "uid": "u0570",
+      "importance": "material",
+      "reason": "Substantial garbling in Kenzo's clothing/equipment description."
+    },
+    {
+      "uid": "u0575",
+      "importance": "incidental",
+      "reason": "Garbled introduction fragment; both speakers' identities are established."
+    },
+    {
+      "uid": "u0624",
+      "importance": "incidental",
+      "reason": "Sparring banter; no action or decision depends on this fragment."
+    },
+    {
+      "uid": "u0688",
+      "importance": "material",
+      "reason": "Uncertain name of Shakun's brother in an account of the foundation of Dunmar; do not infer identity."
+    },
+    {
+      "uid": "u0770",
+      "importance": "material",
+      "reason": "Garbled clause in explanation of the Oracle's position; surrounding explanation clearly separates her from Candrosa's formal hierarchy."
+    },
+    {
+      "uid": "u0783",
+      "importance": "incidental",
+      "reason": "Unclear intensifier; speculative discussion of child's power, not a new fact."
+    },
+    {
+      "uid": "u0828",
+      "importance": "incidental",
+      "reason": "Ending of frustration speech; stance is unambiguous."
+    },
+    {
+      "uid": "u0831",
+      "importance": "material",
+      "reason": "Uncertain person referred to in retrospective travel account."
+    },
+    {
+      "uid": "u1047",
+      "importance": "material",
+      "reason": "Uncertain named scout proposed for reconnaissance; no dispatch is established."
+    },
+    {
+      "uid": "u1079",
+      "importance": "material",
+      "reason": "Uncertain place Wellby left in retrospective chronology."
+    },
+    {
+      "uid": "u1082",
+      "importance": "incidental",
+      "reason": "Misremembered name immediately answered as Tharandros."
+    },
+    {
+      "uid": "u1319",
+      "importance": "incidental",
+      "reason": "Fragment between clear statements about historical destruction; no usable timing claim."
+    },
+    {
+      "uid": "u1387",
+      "importance": "material",
+      "reason": "Garbled planning sentence; adjacent dialogue supports investigating the Heart but exact proposal is unclear."
+    },
+    {
+      "uid": "u1603",
+      "importance": "material",
+      "reason": "Garbled initial architectural description; subsequent up/down passages and rock garden are clear."
+    },
+    {
+      "uid": "u1960",
+      "importance": "incidental",
+      "reason": "Positioning chatter; movement to receive a bow is clear."
+    },
+    {
+      "uid": "u1972",
+      "importance": "incidental",
+      "reason": "Question about extra attack, resolved explicitly in subsequent play."
+    },
+    {
+      "uid": "u2103",
+      "importance": "incidental",
+      "reason": "Unclear label for movement reaction; movement itself is explicit."
+    },
+    {
+      "uid": "u2245",
+      "importance": "incidental",
+      "reason": "Brief reaction to the pact weapon bonus; no outcome established by this fragment."
+    },
+    {
+      "uid": "u2489",
+      "importance": "incidental",
+      "reason": "Combat flourish whose blue energy and result are clear in adjacent lines."
+    },
+    {
+      "uid": "u2505",
+      "importance": "material",
+      "reason": "Uncertain subject of reported healing after Delwath's curse; do not silently substitute Delwath for transcribed Kenzo."
+    },
+    {
+      "uid": "u2709",
+      "importance": "incidental",
+      "reason": "Trailing aside after speculative offer to carry mirror; no decision depends on it."
+    },
+    {
+      "uid": "u2735",
+      "importance": "incidental",
+      "reason": "Hesitation before helping mystai, continued in next lines."
+    },
+    {
+      "uid": "u2755",
+      "importance": "material",
+      "reason": "Unclear property of the protective web in the closing description; fraying and its defensive purpose remain clear."
+    }
+  ]
+}

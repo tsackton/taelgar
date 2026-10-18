@@ -1,0 +1,71 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Agata and the Demons",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "rationale": "The opening council reviews the Old Woman of the Dusts and the demon encounter, ending with Candrosa’s explanation that demons require a summoner.",
+      "overview": "Compare accounts of Agata and her bargains; discuss the demons at Raven’s Hold and who might have summoned them.",
+      "transitionToNext": "Kenzo returns to the map and asks Alesh about the southern gnolls, shifting from magical causes to movements and timing."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Gnolls and Shakun’s Protection",
+      "beatIds": [
+        "beat-003",
+        "beat-004"
+      ],
+      "rationale": "The council turns to the gnolls’ movements and condition, then the failure of Karawa’s protection; Candrosa’s withdrawal closes the encounter.",
+      "overview": "Trace gnolls and orc scouts, then question Candrosa about Shakun’s protection and his silence.",
+      "transitionToNext": "Candrosa withdraws to pray and Alesh prepares to leave; the party turns to its next move and supplies."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Preparing an Eastern Expedition",
+      "beatIds": [
+        "beat-005",
+        "beat-006"
+      ],
+      "rationale": "The party’s deliberation and practical follow-up with Havdar form a single planning situation before the explicit arrival at the centaur camp.",
+      "overview": "Weigh Agata, Kharsan, and the stone house; discuss water, horses, armor repairs, and joining Havdar.",
+      "transitionToNext": "The party approaches Tharandros’s camp for a new conversation over food and wine."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Echo Realms and Karawa’s Silence",
+      "beatIds": [
+        "beat-007",
+        "beat-008"
+      ],
+      "rationale": "The first half of the centaur conversation explores Agata, the echo realms, and the unnatural silence over Karawa, ending with warnings about bargaining with Agata.",
+      "overview": "Learn Tharandros’s account of the echo realms and explore possible explanations for Karawa’s silence.",
+      "transitionToNext": "Seeker asks about travel between planes, moving the discussion toward crossings and practical next steps."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "Crossings and the Road East",
+      "beatIds": [
+        "beat-009",
+        "beat-010"
+      ],
+      "rationale": "The conversation shifts to crossings, the centaurs’ continued presence, and the eastern expedition; the ensuing table debrief closes the group session.",
+      "overview": "Discuss crossings, establish that the centaurs will remain, and settle on riding east with Havdar.",
+      "transitionToNext": "The group session wraps up; Kenzo and the DM continue privately, then place a separate meeting later that evening."
+    },
+    {
+      "sceneId": "scene-006",
+      "title": "Kenzo’s Private Questions",
+      "beatIds": [
+        "beat-011",
+        "beat-012"
+      ],
+      "rationale": "Kenzo’s private follow-up is a distinct encounter with restricted character knowledge, centered on his dreams, jade, and the Order of the Awakened Soul.",
+      "overview": "Discuss Kenzo’s dreams and jade, consider the staff as a possible siege target, and find a lead to the Awakened Soul.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

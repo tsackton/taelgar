@@ -1,0 +1,213 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-018/cleaned/dunmari-frontier-018-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "The Old Woman of the Dusts",
+      "startUid": "u0001",
+      "endUid": "u0265",
+      "lineCount": 265,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Opening recap and council framing lead into Candrosa's tale; Kenzo turns to Agata's possible current dealings at u0266.",
+      "dateEvidence": [
+        "Session YAML anchors April 24; u0598-u0601 explicitly confirm that today is the 24th, eleven days after the April 13 demon fight.",
+        "Same day in Karawa throughout; references to journeys, rests and travel east are retrospective or proposed, not performed."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Raven’s Hold and Summoned Demons",
+      "startUid": "u0266",
+      "endUid": "u0521",
+      "lineCount": 256,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Kenzo recounts the northern discoveries and Candrosa explains demon summoning; attention returns to the troop movements at u0522.",
+      "dateEvidence": [
+        "Session YAML anchors April 24; u0598-u0601 explicitly confirm that today is the 24th, eleven days after the April 13 demon fight.",
+        "Same day in Karawa throughout; references to journeys, rests and travel east are retrospective or proposed, not performed."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "Tracing Gnolls and Orc Scouts",
+      "startUid": "u0522",
+      "endUid": "u0681",
+      "lineCount": 160,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Alesh compares routes, dates, wasting gnolls, and unusual orc scouts; the party turns to Shakun's protection at u0682.",
+      "dateEvidence": [
+        "Session YAML anchors April 24; u0598-u0601 explicitly confirm that today is the 24th, eleven days after the April 13 demon fight.",
+        "Same day in Karawa throughout; references to journeys, rests and travel east are retrospective or proposed, not performed."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "Candrosa’s Silence",
+      "startUid": "u0682",
+      "endUid": "u1000",
+      "lineCount": 319,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "exact",
+      "containsCombat": false,
+      "boundaryReason": "Questions about the lost protection, temple and staff unsettle Candrosa; he leaves to pray, and Alesh prepares to leave.",
+      "dateEvidence": [
+        "Session YAML anchors April 24; u0598-u0601 explicitly confirm that today is the 24th, eleven days after the April 13 demon fight.",
+        "Same day in Karawa throughout; references to journeys, rests and travel east are retrospective or proposed, not performed."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Choosing What to Investigate",
+      "startUid": "u1001",
+      "endUid": "u1244",
+      "lineCount": 244,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Alesh discusses possible supplies and the party debates Agata, Hralgar, Kharsan and the stone house; Delwath initiates a practical approach to Havdar at u1245.",
+      "dateEvidence": [
+        "Session YAML anchors April 24; u0598-u0601 explicitly confirm that today is the 24th, eleven days after the April 13 demon fight.",
+        "Same day in Karawa throughout; references to journeys, rests and travel east are retrospective or proposed, not performed."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Supplies, Repairs, and Havdar",
+      "startUid": "u1245",
+      "endUid": "u1428",
+      "lineCount": 184,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Requests for supplies and armor repair, axe-beak training and Havdar's military intentions are considered before the explicit approach to the centaur camp at u1429.",
+      "dateEvidence": [
+        "Session YAML anchors April 24; u0598-u0601 explicitly confirm that today is the 24th, eleven days after the April 13 demon fight.",
+        "Same day in Karawa throughout; references to journeys, rests and travel east are retrospective or proposed, not performed."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Agata and the Echo Realms",
+      "startUid": "u1429",
+      "endUid": "u1704",
+      "lineCount": 276,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party arrives at Tharandros's camp, shares food and wine, and discusses Agata and echo realms; Tharandros turns to his reason for visiting Karawa at u1705.",
+      "dateEvidence": [
+        "Session YAML anchors April 24; u0598-u0601 explicitly confirm that today is the 24th, eleven days after the April 13 demon fight.",
+        "Same day in Karawa throughout; references to journeys, rests and travel east are retrospective or proposed, not performed."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "The Silence over Karawa",
+      "startUid": "u1705",
+      "endUid": "u1921",
+      "lineCount": 217,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Tharandros describes a missing resonance and the party probes Agata's possible role and Delwath's interrupted vision; the subject changes to planar travel.",
+      "dateEvidence": [
+        "Session YAML anchors April 24; u0598-u0601 explicitly confirm that today is the 24th, eleven days after the April 13 demon fight.",
+        "Same day in Karawa throughout; references to journeys, rests and travel east are retrospective or proposed, not performed."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Crossings and the Eastern Expedition",
+      "startUid": "u1922",
+      "endUid": "u2210",
+      "lineCount": 289,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Discussion of crossings and guarding against the silence leads to agreement on an eastern expedition with Havdar.",
+      "dateEvidence": [
+        "Session YAML anchors April 24; u0598-u0601 explicitly confirm that today is the 24th, eleven days after the April 13 demon fight.",
+        "Same day in Karawa throughout; references to journeys, rests and travel east are retrospective or proposed, not performed."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "The Plan and Remaining Doubts",
+      "startUid": "u2211",
+      "endUid": "u2558",
+      "lineCount": 348,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Table debrief, remaining theories, scheduling and old-campaign recollections close the group portion; the recording then continues privately with Kenzo.",
+      "dateEvidence": [
+        "Session YAML anchors April 24; u0598-u0601 explicitly confirm that today is the 24th, eleven days after the April 13 demon fight.",
+        "Same day in Karawa throughout; references to journeys, rests and travel east are retrospective or proposed, not performed."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "Kenzo’s Dreams and Jade",
+      "startUid": "u2559",
+      "endUid": "u2745",
+      "lineCount": 187,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Private backstory discussion leads into Kenzo's later-evening meeting with Tharandros, examination of the jade, and a different reading of Candrosa's grief.",
+      "dateEvidence": [
+        "Session YAML anchors April 24; u0598-u0601 explicitly confirm that today is the 24th, eleven days after the April 13 demon fight.",
+        "Same day in Karawa throughout; references to journeys, rests and travel east are retrospective or proposed, not performed.",
+        "u2615-u2616 explicitly place Kenzo's private conversation later in the evening; the preceding discussion in beat-011 is out of character."
+      ]
+    },
+    {
+      "beatId": "beat-012",
+      "title": "The Staff and Awakened Soul",
+      "startUid": "u2746",
+      "endUid": "u2992",
+      "lineCount": 247,
+      "dateStart": "1748-04-24",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Kenzo explains his earlier staff-assisted dream journey, considers the staff as a possible target, and learns about the Order of the Awakened Soul; recording ends mid-question.",
+      "dateEvidence": [
+        "Session YAML anchors April 24; u0598-u0601 explicitly confirm that today is the 24th, eleven days after the April 13 demon fight.",
+        "Same day in Karawa throughout; references to journeys, rests and travel east are retrospective or proposed, not performed.",
+        "u2615-u2616 explicitly place Kenzo's private conversation later in the evening; the preceding discussion in beat-011 is out of character."
+      ]
+    }
+  ]
+}

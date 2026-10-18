@@ -1,0 +1,60 @@
+{
+  "schemaVersion": "1.0",
+  "scenes": [
+    {
+      "sceneId": "scene-001",
+      "title": "Delwath’s Lost Armor",
+      "beatIds": [
+        "beat-001",
+        "beat-002"
+      ],
+      "rationale": "The welcome, account of Delwath’s rescue, and return of his breastplate form a single inquiry into his missing past. Reclaiming the armor resolves the immediate concern that had made the monks cautious.",
+      "overview": "Pava and Avaras recount rescuing Delwath; he recognizes and reclaims his shadowed breastplate.",
+      "transitionToNext": "Reassured about Delwath, the monks agree to answer wider questions at u0605."
+    },
+    {
+      "sceneId": "scene-002",
+      "title": "Secrets of the Awakened Soul",
+      "beatIds": [
+        "beat-003"
+      ],
+      "rationale": "With the armor question settled, the hosts disclose their order’s failed cleansing and reports of Kharsan, the orcs, and their abandoned monastery. This changes the inquiry from Delwath’s personal history to the dangers and history of the region.",
+      "overview": "The monks reveal the failed cleansing, their abandoned monastery, and signs of a new malevolent will in Kharsan.",
+      "transitionToNext": "The hosts leave to prepare dinner, giving the party privacy."
+    },
+    {
+      "sceneId": "scene-003",
+      "title": "Choosing the Road East",
+      "beatIds": [
+        "beat-004"
+      ],
+      "rationale": "The private conversation changes the participants and objective to interpreting Delwath’s vision and choosing the next destination; dinner and sleep close the situation.",
+      "overview": "Delwath describes a grief-filled presence; the party chooses to rejoin Havdar on the way toward the monastery.",
+      "transitionToNext": "Sleep leads to Pava’s promised morning lesson."
+    },
+    {
+      "sceneId": "scene-004",
+      "title": "Training and Desert Travel",
+      "beatIds": [
+        "beat-005",
+        "beat-006"
+      ],
+      "rationale": "At the user’s direction, the morning lessons and subsequent journey form one training-and-travel montage: new abilities develop, Wellby works with his axebeak, and the party crosses the desert. Calendar-day distinctions remain in the chronology.",
+      "overview": "The party develops new abilities, then travels toward Havdar as Wellby trains his axebeak and navigates the desert.",
+      "transitionToNext": "Battle sounds interrupt the approach to Havdar’s camp."
+    },
+    {
+      "sceneId": "scene-005",
+      "title": "The Battle for Havdar’s Camp",
+      "beatIds": [
+        "beat-007",
+        "beat-008",
+        "beat-009",
+        "beat-010"
+      ],
+      "rationale": "Scouting, choosing the flank, entering combat, and securing a captive all serve the same urgent objective of relieving Havdar’s besieged camp. Tactical phases remain separate evidence beats within one scene.",
+      "overview": "Seeker scouts the orc attack; the party flanks the casters, helps defeat the attackers, and takes one caster alive.",
+      "transitionToNext": "Session ends"
+    }
+  ]
+}

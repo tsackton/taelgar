@@ -1,0 +1,170 @@
+{
+  "inferredStart": "1748-05-13",
+  "inferredEnd": "1748-05-23",
+  "transitions": [
+    {
+      "uid": "u0001",
+      "label": "Sheltering beneath the bridge",
+      "date": "1748-05-13",
+      "time": "late morning",
+      "basis": "inferred",
+      "evidence": "Session drStart anchors May 13; u0001 places the opening about an hour before noon, confirmed by u0094."
+    },
+    {
+      "uid": "u0397",
+      "label": "Northwestward ride",
+      "date": "1748-05-13",
+      "time": "daytime",
+      "basis": "inferred",
+      "evidence": "u0394–u0400 begin the ride to Havdar’s camp; u0413 says the remaining day covers roughly fifteen to twenty miles."
+    },
+    {
+      "uid": "u0420",
+      "label": "First camp at sunset",
+      "date": "1748-05-13",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "u0420 establishes the first night’s camp; u0486–u0490 and u0579 clarify that the sun is setting during the campsite discussion. These refer to the same camp, not successive evenings."
+    },
+    {
+      "uid": "u0615",
+      "label": "First night’s watches",
+      "date": "1748-05-13",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u0615–u0623: companions rest and Delwath watches the first half of the night."
+    },
+    {
+      "uid": "u0624",
+      "label": "First midnight passes",
+      "date": "1748-05-14",
+      "time": "just past midnight",
+      "basis": "inferred",
+      "evidence": "u0624: Delwath wakes Seeker just past midnight. Calendar date advances from the first camp on May 13."
+    },
+    {
+      "uid": "u0650",
+      "label": "Kenzo recovers; second travel day",
+      "date": "1748-05-14",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u0650–u0656: everyone wakes after an uneventful night and Kenzo has recovered from the lingering effects of his death."
+    },
+    {
+      "uid": "u0664",
+      "label": "Second camp and bird scouting",
+      "date": "1748-05-14",
+      "time": "evening",
+      "basis": "inferred",
+      "evidence": "u0664–u0670: another thirty-mile day ends and the party makes camp at twilight."
+    },
+    {
+      "uid": "u0739",
+      "label": "Nighttime water collection",
+      "date": "1748-05-14",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u0739–u0740 explicitly confirm it is night before Delwath and Seeker visit the nearby seep."
+    },
+    {
+      "uid": "u0796",
+      "label": "Ambush at the watch change",
+      "date": "1748-05-15",
+      "time": "around midnight",
+      "basis": "inferred",
+      "evidence": "u0795–u0809: Delwath approaches Seeker around midnight and is attacked. u1552–u1554 place the end of this brief combat just past midnight; the calendar boundary falls within the ambush setup."
+    },
+    {
+      "uid": "u1554",
+      "label": "After the ambush",
+      "date": "1748-05-15",
+      "time": "just past midnight",
+      "basis": "inferred",
+      "evidence": "u1554 explicitly places the aftermath just past midnight. The discussion, table break, and resumed watches in u1681–u1699 do not add another day."
+    },
+    {
+      "uid": "u1701",
+      "label": "Dawn after the ambush",
+      "date": "1748-05-15",
+      "time": "dawn",
+      "basis": "inferred",
+      "evidence": "u1699–u1707: the rest of the night passes and dawn rises; Delwath’s Strength returns."
+    },
+    {
+      "uid": "u1722",
+      "label": "Arrival at Havdar’s deserted camp",
+      "date": "1748-05-15",
+      "time": "one or two hours after sunset",
+      "basis": "inferred",
+      "evidence": "u1719–u1725: a full day of slower travel ends an hour or two after sunset at Havdar’s empty but intact camp."
+    },
+    {
+      "uid": "u1789",
+      "label": "Tracks and the choice of destination",
+      "date": "1748-05-16",
+      "time": "morning",
+      "basis": "inferred",
+      "evidence": "u1783–u1789: the camp’s evening passes without another attack, then morning dawns. Wellby examines Havdar’s recent tracks."
+    },
+    {
+      "uid": "u1905",
+      "label": "First day toward the stone house",
+      "date": "1748-05-16",
+      "time": "daytime",
+      "basis": "inferred",
+      "evidence": "u1902 establishes a two-day journey; u1905–u1906 say they set out and the first day passes uneventfully."
+    },
+    {
+      "uid": "u1909",
+      "label": "Second day toward the stone house",
+      "date": "1748-05-17",
+      "time": "daytime",
+      "basis": "inferred",
+      "evidence": "u1909–u1911 explicitly move to the next day, which also passes uneventfully."
+    },
+    {
+      "uid": "u1914",
+      "label": "Stone-house welcome",
+      "date": "1748-05-17",
+      "time": "sunset",
+      "basis": "inferred",
+      "evidence": "u1913–u1917: they approach Pava and Avaras’ house as the sun sets on that second day."
+    },
+    {
+      "uid": "u2212",
+      "label": "Overnight stay",
+      "date": "1748-05-17",
+      "time": "night",
+      "basis": "inferred",
+      "evidence": "u2212–u2224 confirm the overnight stay, Kenzo’s time with the Mystai, and Seeker’s stone-carving gift. No extra night is narrated."
+    },
+    {
+      "uid": "u2233",
+      "label": "Return journey begins",
+      "date": "1748-05-18",
+      "time": "departure time unspecified",
+      "basis": "inferred",
+      "evidence": "u2233–u2246 announce the return montage after the overnight stay. Departure on the following day, May 18, is inferred; arrival is on the sixth travel day."
+    },
+    {
+      "uid": "u2261",
+      "label": "Return to Karawa",
+      "date": "1748-05-23",
+      "time": "late afternoon",
+      "basis": "inferred",
+      "evidence": "u2245–u2246 specify late-afternoon arrival on the sixth day; u2261–u2281 narrate the approach and welcome. The user chose May 23, retaining the current session end date, despite the later wording in u2265."
+    }
+  ],
+  "issues": [
+    {
+      "detail": "The final montage uses both arrival on the sixth travel day and six days after departure, which can differ by one day.",
+      "evidence": "u2212–u2224 establish an overnight stay before departure; u2245–u2246 say late afternoon on the sixth day; u2265 says six days after departure."
+    }
+  ],
+  "resolutions": {
+    "source:0": {
+      "by": "human",
+      "reason": "The user explicitly chose: “Keep May 23: use the explicit sixth travel day and existing session date.” The inferred return journey is May 18–23 inclusive; session YAML remains unchanged."
+    }
+  }
+}

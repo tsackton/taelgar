@@ -1,0 +1,183 @@
+{
+  "schemaVersion": "1.0",
+  "sourceTranscriptPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-source-cleaned.md",
+  "sessionPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-021/cleaned/dunmari-frontier-021-session.yaml",
+  "beats": [
+    {
+      "beatId": "beat-001",
+      "title": "Aftermath on the Canyon Rim",
+      "startUid": "u0001",
+      "endUid": "u0216",
+      "lineCount": 216,
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party recovers, binds the captive, discusses Delwath’s armor, and searches the dead before descending.",
+      "dateEvidence": [
+        "Opening follows the previous battle; session drStart is May 5; sunset approaches at u0324."
+      ]
+    },
+    {
+      "beatId": "beat-002",
+      "title": "Havdar’s Losses and the Ambush",
+      "startUid": "u0217",
+      "endUid": "u0331",
+      "lineCount": 115,
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Descending into camp starts a distinct debrief with Havdar and Aram; the captive is revived next.",
+      "dateEvidence": [
+        "Same evening; u0324–u0328 explicitly place sunset and the impending funeral before the interrogation."
+      ]
+    },
+    {
+      "beatId": "beat-003",
+      "title": "The Blighted One’s Promises",
+      "startUid": "u0332",
+      "endUid": "u0506",
+      "lineCount": 175,
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Aram revives the captive; first interrogation establishes Grash, Uzgash’s people, and the resurrection claim before the party withdraws to confer.",
+      "dateEvidence": [
+        "Continues directly from the sunset debrief; u0425–u0430 initiate burning the bodies."
+      ]
+    },
+    {
+      "beatId": "beat-004",
+      "title": "The Gods’ Silence",
+      "startUid": "u0507",
+      "endUid": "u0681",
+      "lineCount": 175,
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The party switches to a private Dunmari discussion of the gods, planar travel, and their purpose before returning to the captive.",
+      "dateEvidence": [
+        "An uninterrupted sidebar during the evening interrogation; no rest or travel."
+      ]
+    },
+    {
+      "beatId": "beat-005",
+      "title": "Gorkil’s Command and Its Aftermath",
+      "startUid": "u0682",
+      "endUid": "u1059",
+      "lineCount": 378,
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Questioning resumes, Gorkil compels Seeker to kill him, and the party reports to Havdar and considers possible peaceful orc settlements.",
+      "dateEvidence": [
+        "u0785 explicitly says the sun is beginning to set; the funeral follows at u1060."
+      ]
+    },
+    {
+      "beatId": "beat-006",
+      "title": "Funeral, Gifts, and Arrow Practice",
+      "startUid": "u1060",
+      "endUid": "u1250",
+      "lineCount": 191,
+      "dateStart": "1748-05-05",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Havdar invites the party to the funeral, gives and trades magic items, and joins the evening meal; practice and overnight rest close the day.",
+      "dateEvidence": [
+        "u1085 places the funeral at sunset, u1188–u1192 describe nighttime practice, and u1247–u1250 describe dinner and a quiet night."
+      ]
+    },
+    {
+      "beatId": "beat-007",
+      "title": "Scouts Return; The Monastery Beckons",
+      "startUid": "u1251",
+      "endUid": "u1393",
+      "lineCount": 143,
+      "dateStart": "1748-05-06",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The next morning’s scouts report and the party chooses its destination and initial pace.",
+      "dateEvidence": [
+        "u1252 explicitly opens the next morning after the May 5 overnight rest; scouts return midmorning at u1258."
+      ]
+    },
+    {
+      "beatId": "beat-008",
+      "title": "South Through the Desert",
+      "startUid": "u1394",
+      "endUid": "u1485",
+      "lineCount": 92,
+      "dateStart": "1748-05-06",
+      "dateEnd": "1748-05-09",
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "Farewells lead into the multi-day southern detour, ongoing training, and the transition into barren desert; the fifth travel day begins next.",
+      "dateEvidence": [
+        "u1394 departure after the hottest part of the day; u1469 covers departure afternoon plus the next two days (May 6–8), then u1480 advances another day (May 9)."
+      ]
+    },
+    {
+      "beatId": "beat-009",
+      "title": "Camp by the Dry Kharja",
+      "startUid": "u1486",
+      "endUid": "u1565",
+      "lineCount": 80,
+      "dateStart": "1748-05-10",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The fifth travel day turns east and ends with a river camp; the party considers southern trees but chooses to continue toward the monastery.",
+      "dateEvidence": [
+        "u1486–u1488 explicitly say fifth day including departure and morning; u1509–u1512 mark late day; u1552 returns to the same setting sun after discussing the next day."
+      ]
+    },
+    {
+      "beatId": "beat-010",
+      "title": "Northward to the Kharsan Overlook",
+      "startUid": "u1566",
+      "endUid": "u1751",
+      "lineCount": 186,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": null,
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The next morning’s travel reaches a distant view of Kharsan, its tombs and fort; Wellby attracts a hawk and begins Beast Sense.",
+      "dateEvidence": [
+        "u1566 explicitly says next morning; u1572 late morning, u1577 three or four in the afternoon, and u1631 four in the afternoon."
+      ]
+    },
+    {
+      "beatId": "beat-011",
+      "title": "A Hawk’s View of Kharsan",
+      "startUid": "u1752",
+      "endUid": "u1971",
+      "lineCount": 220,
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "afternoon",
+      "dateResolution": "inferred",
+      "containsCombat": false,
+      "boundaryReason": "The aerial survey maps the city, tombs, fort, and monastery and identifies a sheltered approach; the session closes without entering the site.",
+      "dateEvidence": [
+        "Continuous Beast Sense reconnaissance after the four-in-the-afternoon anchor at u1631; no further overnight transition."
+      ]
+    }
+  ]
+}

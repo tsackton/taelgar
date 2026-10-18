@@ -1,0 +1,419 @@
+{
+  "schemaVersion": "1.0",
+  "beatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-beats.json",
+  "facts": [
+    {
+      "beatId": "beat-001",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "The party enters Bhishma’s desecrated temple near sunset despite a warning in the shadows and senses undead within it.",
+      "longSummary": "As dusk approaches, the party leaves the hall of stories to investigate the temple. Delwath sees a warning in the shadows and suspects the creature that grants him power is cautioning him. Still badly hurt from the earlier lightning trap, Kenzo drinks two healing potions; Delwath prepares protective magic and the party uses drift globes for light. Fey Sight reveals nothing nearby, but Kenzo’s Detect Evil and Good finds the entrance altars no longer consecrated and senses undead about twenty feet below. The looted entrance gives way to a less-damaged sanctuary with a statue of Bhishma smiling through tears. Kenzo then detects another presence off to the side, and the party weighs exploration against retreat.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Temple entrance, chapel, and main sanctuary"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Drift globes",
+          "role": "encountered",
+          "notes": "Used to light the temple and reduce shadows."
+        },
+        {
+          "name": "Healing potions",
+          "role": "encountered",
+          "notes": "Kenzo drinks two before continuing."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Order of the Awakened Soul",
+          "role": "mentioned",
+          "notes": "Kenzo asks whether his new obligations require him to cleanse the temple; the order is not presented as requiring every monk to fight undead."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-002",
+      "dateStart": "1748-05-11",
+      "dateEnd": null,
+      "timeWindow": "evening",
+      "shortSummary": "Invisible reconnaissance reveals three shadow creatures that retreat from light, and Kenzo and Delwath rejoin the others without fighting.",
+      "longSummary": "Kenzo proposes a cautious look at the sensed undead. Delwath makes himself and Kenzo invisible while Wellby watches the route back to the entrance. Kenzo’s noisy steps attract a darker shape in the corridor; he uses Soul Sight while Delwath watches from cover. The creature follows his sound but stops at the sunlight spilling through the archway. When Kenzo advances with his drift globe, it retreats, and the light reveals two more shadows pressed against the walls. With sunset close and his recent death still weighing on him, Kenzo backs away and suggests leaving. Delwath follows in the globe’s light; no attack occurs.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Monastery of Bhishma",
+        "context": "Dark side corridor and main temple sanctuary"
+      },
+      "npcs": [
+        {
+          "name": "Temple shadows",
+          "role": "enemy",
+          "notes": "Three shadow creatures are observed; they recoil from sunlight and drift-globe light. Their presence does not establish that all undead in the temple were found."
+        }
+      ],
+      "items": [
+        {
+          "name": "Drift globe",
+          "role": "encountered",
+          "notes": "Kenzo uses its light to test and repel the shadows."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-003",
+      "dateStart": "1748-05-11",
+      "dateEnd": "1748-05-12",
+      "timeWindow": "night",
+      "shortSummary": "The party withdraws to its undisturbed camp and rests, though Delwath hears distant armor during his watch.",
+      "longSummary": "Outside the temple, Kenzo explains that they saw three shadows and chose not to risk a fight while he was still recovering. They return south to the camp, where Baxter, the horses, and their supplies are safe. The group recognizes that the undead sensed below the temple remain unexplored. Wellby admits that the haunted monastery unsettled him despite his enthusiasm for discovery. They keep the camp quiet and set watches, letting Kenzo rest. Delwath hears a distant clink of armor that does not approach and tells Seeker when the watch changes. Seeker’s watch is quiet; he passes the warning to Wellby before going back to sleep.",
+      "location": {
+        "kind": "journey",
+        "from": "Temple (Monastery of Bhishma)",
+        "to": "Camp south of the monastery (Nashtkar)",
+        "context": "Withdrawal at sunset followed by overnight watches"
+      },
+      "npcs": [
+        {
+          "name": "Baxter",
+          "role": "companion",
+          "notes": "Greets the returning party and stays with Wellby in camp."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-004",
+      "dateStart": "1748-05-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "At dawn the party debates scouting Kharsan and interprets the unusual orc fort as possible evidence of a growing population.",
+      "longSummary": "The party wakes to an undisturbed camp and turns from the temple toward its larger goals. Kenzo recalls a plan to reconnoiter Kharsan before returning to Karawa to question Candrosa about the missing Heart of Shakun; the others dispute the risks and geography. Their aerial map shows an oddly lobed fort outside the ruined city. Seeker recognizes a resemblance to orc cliff settlements, and Delwath recalls that young orcs live in dark, narrow spaces, making a nursery or population boom a plausible interpretation rather than a confirmed fact. Seeker argues that reconnaissance might reveal a threat to Karawa. They discuss routes and lookout points without yet choosing how to approach.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Nashtkar",
+        "context": "Morning camp about a mile south of the Monastery of Bhishma"
+      },
+      "npcs": [
+        {
+          "name": "Candrosa",
+          "role": "mentioned",
+          "notes": "The party intends to question him about the Heart of Shakun on its return."
+        },
+        {
+          "name": "Grash",
+          "role": "mentioned",
+          "notes": "Understanding his forces and intentions is the proposed purpose of reconnaissance."
+        }
+      ],
+      "items": [
+        {
+          "name": "Heart of Shakun",
+          "role": "mentioned",
+          "notes": "Its location remains unknown to the party."
+        },
+        {
+          "name": "Kharsan scouting map",
+          "role": "encountered",
+          "notes": "Wellby’s earlier hawk survey guides the route discussion."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Grash's Horde",
+          "role": "mentioned",
+          "notes": "The fort’s shape and staffing suggest a growing settlement; the nursery interpretation remains an inference."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-005",
+      "dateStart": "1748-05-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Wellby finds the slain orcs and their captive missing, then spots search parties approaching the monastery.",
+      "longSummary": "Investigating the sound heard overnight, Wellby searches toward the monastery. The manticore bodies remain, but the dead orcs and their equipment are gone, with no drag marks. The bathhouse bar has been removed from outside and the captive is missing. Through his spyglass he sees increased activity at the fort and groups of orcs searching toward the monastery and along the dry riverbed. He returns to warn the others. The cliffs block a direct escape west with the mounts and supplies, leaving the northern crossing or a long detour south. Wellby urges caution; the missing bodies make the party suspect that claims of Grash restoring dead orcs may have substance, but the bodies’ fate is not yet established.",
+      "location": {
+        "kind": "journey",
+        "from": "Camp south of the monastery (Nashtkar)",
+        "to": "Monastery of Bhishma and back to camp",
+        "context": "Wellby scouts alone while the others remain at camp"
+      },
+      "npcs": [
+        {
+          "name": "Missing orc captive",
+          "role": "mentioned",
+          "notes": "The bathhouse is empty and its external bar has been removed; the party does not see who released him."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Grash's Horde",
+          "role": "encountered",
+          "notes": "Wellby observes search parties approaching; no combat follows in this beat."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-006",
+      "dateStart": "1748-05-12",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party rejects elaborate ambush and deception plans in favor of riding south, circling west, and returning toward Kharsan.",
+      "longSummary": "With the patrols approaching, the party weighs fighting, hiding, scouting invisibly, and sending Baxter away as a decoy. Limited invisibility, exposed terrain, vulnerable mounts, and uncertainty about the number of orcs make the alternatives unattractive. The discussion also establishes that their water will last only about four or five days, so a return to Karawa will require replenishment along the way. Wellby suggests a wide loop: ride south until the cliffs fall away, turn west, then return north along the higher ground. The group adopts that plan and finishes packing while the orcs are still approaching the monastery. They will ride hard rather than attempt an ambush or decoy.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Nashtkar",
+        "context": "Camp south of the Monastery of Bhishma, while packing to leave"
+      },
+      "npcs": [
+        {
+          "name": "Baxter",
+          "role": "companion",
+          "notes": "Using him as a decoy is discussed but not carried out."
+        }
+      ],
+      "items": [],
+      "organizations": [
+        {
+          "name": "Grash's Horde",
+          "role": "mentioned",
+          "notes": "The approaching patrols force a route decision; their ability to march all night remains speculation."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-007",
+      "dateStart": "1748-05-12",
+      "dateEnd": "1748-05-13",
+      "timeWindow": null,
+      "shortSummary": "Hard riding carries the party around the southern cliffs, but pushing past sunset exhausts Kenzo and Seeker.",
+      "longSummary": "The party rides south with Baxter, three riding horses, and two pack horses, raising a visible dust cloud and hearing distant orc shouts. By about three in the afternoon they reach the end of the cliffs, roughly twenty miles south, and turn west and then north; no pursuit is visible. At sunset Delwath urges another stretch of travel so they can approach Kharsan the following day. The extra hour leaves Kenzo and Seeker exhausted, so they make a hidden camp about ten miles south of the road. The watches reveal no pursuers, though Seeker struggles to stay awake during his turn.",
+      "location": {
+        "kind": "journey",
+        "from": "Camp south of the monastery (Nashtkar)",
+        "to": "Camp south of the Kharsan road (Nashtkar)",
+        "context": "Ride south along the dry riverbed, then west and north around the cliffs; camp overnight"
+      },
+      "npcs": [
+        {
+          "name": "Baxter",
+          "role": "companion",
+          "notes": "Travels with Wellby and the mounted party."
+        }
+      ],
+      "items": [],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-008",
+      "dateStart": "1748-05-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "After an early start, Wellby’s hawk survey finds stronger patrols and a shadowed palace while Seeker conceals the mounts.",
+      "longSummary": "Wellby wakes the group just before dawn; the rest clears the riding exhaustion, and Kenzo feels closer to recovery. They ride north to the road by about nine to nine-thirty and choose a sheltered position west of Kharsan. Wellby befriends a hawk and scouts through Beast Sense. New guards and patrols are visible, and the palace is obscured by a darkness the hawk refuses to enter. Patrols usually number about six orcs and pass a given point roughly every half hour; Wellby estimates the total force in the low hundreds, about one hundred to two hundred fifty. Meanwhile Seeker uses Mold Earth to form a shallow enclosure and ridge concealing the horses from the east. Baxter stays with them.",
+      "location": {
+        "kind": "journey",
+        "from": "Camp south of the Kharsan road (Nashtkar)",
+        "to": "Sheltered camp west of Kharsan",
+        "context": "Pre-dawn departure and morning ride, followed by aerial scouting and preparation"
+      },
+      "npcs": [
+        {
+          "name": "Scouting hawk",
+          "role": "encountered",
+          "notes": "Wellby befriends it and uses Beast Sense to observe Kharsan; it refuses to descend into the palace’s darkness."
+        },
+        {
+          "name": "Baxter",
+          "role": "companion",
+          "notes": "Left with the concealed horses."
+        }
+      ],
+      "items": [
+        {
+          "name": "Kharsan scouting map",
+          "role": "encountered",
+          "notes": "Wellby updates his sketch and notes after the survey."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Grash's Horde",
+          "role": "encountered",
+          "notes": "Guards, work crews, and patrols are observed from the air; the estimate of total strength is approximate."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-009",
+      "dateStart": "1748-05-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "The party reaches the bridge under stealth and invisibility, where Delwath recognizes it and the group prepares to spy on Kharsan.",
+      "longSummary": "The party chooses the bridge as a place within a mile of the palace for Seeker’s Clairvoyance. Delwath makes himself and Seeker invisible, while Kenzo and Wellby use the cliff shadows and sprint across the last exposed stretch. Wellby feels dangerously visible, but no alarm sounds. Crouched beneath the sandstone bridge, Seeker prepares a sensor aimed at the palace’s central room. Delwath remembers seeing this bridge in darkness from two perspectives at once, as though through a mirror, but receives no new vision of Cha’mutte. While Seeker concentrates, Delwath decides to use his remaining invisibility to investigate the northern ruins.",
+      "location": {
+        "kind": "journey",
+        "from": "Sheltered camp west of Kharsan",
+        "to": "Bridge (Kharsan)",
+        "context": "Stealthy approach from the cliffs and shelter beneath the bridge"
+      },
+      "npcs": [],
+      "items": [
+        {
+          "name": "Kharsan scouting map",
+          "role": "mentioned",
+          "notes": "Wellby’s earlier description helps Seeker specify a location inside the palace."
+        }
+      ],
+      "organizations": [],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-010",
+      "dateStart": "1748-05-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Seeker witnesses Grash killing and reanimating orcs, ordering shadows to hunt intruders, and reporting plans to strike Uzgash by fall.",
+      "longSummary": "Seeker’s sensor reaches a dark, altered throne room occupied by skeletal Grash. Using a Tongues scroll and switching between hearing and sight, Seeker follows Grash’s complaints about intruders and sees him behead two kneeling orcs. A black ring pulses as their bodies shrivel; Grash later raises them and replaces their heads. An armored shadow reports no magical finds in five weeks and urges moving on, but Grash demands more looting and orders the zombies to search all night. He sends eight shadows to drain the invaders and return their bodies. Seeker casts Clairvoyance again and overhears a Sending: the orcs will be ready to strike Uzgash by fall, but treasure remains hidden. The recipient and reply are unheard; Grash subsequently lashes out at the room in apparent anger.",
+      "location": {
+        "kind": "fixed",
+        "primary": "Kharsan",
+        "context": "Seeker watches the palace remotely while sheltering beneath the bridge"
+      },
+      "npcs": [
+        {
+          "name": "Grash",
+          "role": "enemy",
+          "notes": "Observed remotely commanding orcs and shadows and performing necromancy."
+        },
+        {
+          "name": "Armored shadow",
+          "role": "enemy",
+          "notes": "An unnamed skeletal shadow wearing armor reports to Grash in Drankorian."
+        },
+        {
+          "name": "Eight hunting shadows",
+          "role": "enemy",
+          "notes": "Grash sends them after the intruders after touching each with his ring-bearing hand."
+        },
+        {
+          "name": "Uzgash",
+          "role": "mentioned",
+          "notes": "Named as the intended target of an attack by fall in Grash’s Sending."
+        }
+      ],
+      "items": [
+        {
+          "name": "Tongues scroll",
+          "role": "encountered",
+          "notes": "Seeker consumes it to understand speech heard through Clairvoyance."
+        },
+        {
+          "name": "Grash’s black ring",
+          "role": "encountered",
+          "notes": "Observed pulsing as the executed bodies lose blood, and handled during their reanimation and the dispatch of the shadows; its full nature is not established."
+        },
+        {
+          "name": "Grash’s jagged glaive",
+          "role": "encountered",
+          "notes": "Used to behead two orcs and later strike the throne-room wall."
+        },
+        {
+          "name": "Sending scroll",
+          "role": "encountered",
+          "notes": "Grash uses it to communicate with an unidentified recipient; its words vanish before Seeker can copy them."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Grash's Horde",
+          "role": "encountered",
+          "notes": "Grash orders continued looting and reports preparations for war; the party does not fight his forces."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    },
+    {
+      "beatId": "beat-011",
+      "dateStart": "1748-05-13",
+      "dateEnd": null,
+      "timeWindow": "morning",
+      "shortSummary": "Delwath explores the haunted northern ruins, collects glassware and tools for the mirror, and returns before an orc patrol arrives.",
+      "longSummary": "While Seeker spies on the palace, Delwath enters the ruined northern quarter under invisibility. He hears distant Dunmari voices sobbing, coughing, and begging for help. Near a small riverside market, he searches a partly surviving glassblower’s shop and collects broken glass lamp covers, one intact cover, and rusty glassblowing tools, hoping an object’s history can be viewed through the mirror. He briefly follows a voice near the walls but gets no closer to it. Hearing an approaching orc patrol, he leaves ahead of it and returns to the bridge. The group compares its discoveries and discusses leaving west; Delwath believes the city is haunted, but the voices’ identity is unconfirmed. The session ends before their departure.",
+      "location": {
+        "kind": "journey",
+        "from": "Bridge (Kharsan)",
+        "to": "Northern ruins and back to the bridge (Kharsan)",
+        "context": "Delwath’s scouting is simultaneous with Seeker’s Clairvoyance, then the party regroups"
+      },
+      "npcs": [
+        {
+          "name": "Voices in the ruins",
+          "role": "encountered",
+          "notes": "Unseen Dunmari voices plead for help; Delwath suspects haunting, but their nature is not confirmed."
+        }
+      ],
+      "items": [
+        {
+          "name": "Glass lamp covers",
+          "role": "encountered",
+          "notes": "Delwath takes several broken covers and one intact one from a probable glassblower’s shop."
+        },
+        {
+          "name": "Glassblowing tools",
+          "role": "encountered",
+          "notes": "Delwath takes rusty tools with the glassware."
+        },
+        {
+          "name": "Historical-viewing mirror",
+          "role": "mentioned",
+          "notes": "Delwath collects objects to investigate their history later; the mirror is not used here."
+        }
+      ],
+      "organizations": [
+        {
+          "name": "Grash's Horde",
+          "role": "encountered",
+          "notes": "Delwath hears an approaching patrol and leaves before meeting it."
+        }
+      ],
+      "combat": {
+        "isCombat": false
+      }
+    }
+  ]
+}
