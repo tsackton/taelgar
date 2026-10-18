@@ -1,6 +1,6 @@
 ---
 name: review-stub-staging
-description: Collaboratively complete Taelgar person or place stubs and Staging pages from vault evidence and human corrections, establish category-specific metadata and name information, present the complete page for approval, choose review tags, retire stub status, and file approved Staging pages. Use for initial base-page completion, not automatic linting or broad note cleanup.
+description: Collaboratively complete Taelgar person or place stubs and Staging pages from vault evidence and human corrections. Use for initial base-page completion and approved Staging filing, not automatic linting or broad note cleanup.
 ---
 
 # Review Stub or Staging Page
