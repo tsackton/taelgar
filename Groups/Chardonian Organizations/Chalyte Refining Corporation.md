@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/gameupdate/gl]
-displayDefaults: {defArt: "the"}
+lintedAt: "2026-10-19T00:14:58-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the}
+tags: [group, status/gameupdate/gl, status/check/lint]
 typeOf: chartered corporation
 ancestry: Chardonian
-created: 1749-07
+created: "1749-07"
+name: Chalyte Refining Corporation
 whereabouts: Chardon
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Chalyte Refining Corporation
 >[!info]+ Information  
@@ -42,4 +46,30 @@ This timeline combines player-facing session notes with DM-facing and source not
 - **By early DR 1749-08:** Chardon begins to stabilize. First refining under the new order begins, public works recover, the Imperial Chalyte Mining Company prepares its first Chataan expeditions, and the new balance among the Windcallers, the Guild of Chalyte Workers, and the Chalyte Refining Corporation becomes the practical replacement for the old Hetaeri-oligarch system. Sources: [[Session 129 (DuFr)]], [[Hetaeri Magica]], [[Windcallers]], [[Guild of Chalyte Workers]].
 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Chalyte Refining Corporation, language: unknown, pronunciation: CHAY-lite ree-FY-ning kor-puh-RAY-shun, status: proposed, notes: "The chalyte component follows the documented CHAY-lite in [[Chalyte Hills]]; the remaining words use ordinary English pronunciation. The complete corporate name is proposed rather than independently attested."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern account of the corporation after its formation in DR 1749, with a separate origin chronology; the three-refinery structure is established by early August 1749, and later changes are not described.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter ordering and added the explicit display name.
+- Added persistent name metadata with a proposed full-name pronunciation based on the documented chalyte component in [[Chalyte Hills]].
+- Added `POV: modern` and temporal-coverage guidance for the post-DR 1749 institution.
+
+### Validated judgments
+- The shared Origin Timeline remains a sourced editorial chronology, separate from the public reference account.
+- `status/gameupdate/gl` is not assessable: the reviewed sources establish the founding settlement, but do not settle the intended Great Library update. The tag is preserved.
+
+### Open findings
+
+- [ ] **Warning — coverage.established_fact_missing:** The first paragraph gives the Magistros an unqualified tie-breaking vote. [[Session 129 (DuFr)]] establishes a material exception: he agreed to abstain on profit-sharing decisions. The same limitation is already recorded in the shared Origin Timeline. Qualify the public governance sentence with: `The Magistros holds the tie-breaking vote but abstains from decisions concerning profit-sharing, leaving those decisions to agreement between the workers and the Windcallers.` This preserves the negotiated limit on imperial control rather than implying an unrestricted casting vote.
+- [ ] **Warning — metadata.names_unresolved_status:** Review the persistent proposal `CHAY-lite ree-FY-ning kor-puh-RAY-shun`. The distinctive component follows the documented `CHAY-lite` in [[Chalyte Hills]], a stronger basis than deriving a new reading from Chardonian analogues; the remaining words use ordinary English pronunciation. The full corporate name is not independently recorded. If accepted, set the name entry to `status: documented` and add `pronunciation: CHAY-lite ree-FY-ning kor-puh-RAY-shun` to frontmatter; otherwise revise the persistent proposal. Its name language remains unknown.
 %%^End%%

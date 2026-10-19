@@ -1,8 +1,12 @@
 ---
-tags: [background, status/cleanup/text, status/cleanup/map]
-excludePublish: ["all"]
+lintedAt: "2026-10-18T23:48:18-04:00"
+lintVersion: "3.5"
+tags: [background, status/cleanup/text, status/cleanup/map, status/check/lint]
+name: West Coast History Framework
+excludePublish: [all]
 dm_owner: tim
 dm_notes: none
+POV: modern
 ---
 
 This note is intended to summarize a framework for the history of the West Coast, roughly including the [[Greater Chardon]], [[Northwest Coast]], [[Northern Sentinels]], and [[Nevos and Apporia]] regions, as well as parts of the [[Central Highlands]]. This does not deal with the Sentinels themselves or the Nevos Sea. 
@@ -31,7 +35,7 @@ See: [[Historical Framework#Migrations and Emigration]] for some details.
 See: [[Historical Framework#The Drankorian Era]]
 
 *Canonical Facts:*
-- The Drankorian Empire, in a series of wars of conquest, subjugates much of the west coast, extending as far as the northern shores of [[Lake Valandros]]. The exact extend of the Empire is not fully mapped, however:
+- The Drankorian Empire, in a series of wars of conquest, subjugates much of the west coast, extending as far as the northern shores of [[Lake Valandros]]. The exact extent of the Empire is not fully mapped, however:
 	- They control enough of the Apporia peninsula to construct the [[Old Chardon Canal]], which despite the name was constructed by Drankorian wizards.
 	- They do not control Mawar, although they have sufficient contact and trade with Mawar for Mos Numena to spread there.
 	- Elves occupy much of the forests on the slopes of the Sentinels, and these are never invaded or claimed by Drankor.
@@ -69,13 +73,13 @@ Given its size, it is possible that Amani was some kind of confederation, or a c
 
 #### Volganis (NR 3)
 
-The only significant detail here is that the "Crown Jewels of Volganis" were taken by a black dragon and kept in his hoard, so presumably this is was kind of centralized monarchy. Might have had a Germanic flavor. 
+The only significant detail here is that the "Crown Jewels of Volganis" were taken by a black dragon and kept in his hoard, so presumably this was a kind of centralized monarchy. Might have had a Germanic flavor.
 
 This is a retcon of what was Volkrad in high school, which was the site of several adventures. 
 
 #### Other Realms
 
-Nothing is particular established about NR 1, NR 4, or NR 5. NR 4 is entirely destroyed in the Great War (see below) and maybe does not need much development. NR 1 and NR 5 potentially survive in some manner. 
+Nothing in particular is established about NR 1, NR 4, or NR 5. NR 4 is entirely destroyed in the Great War (see below) and maybe does not need much development. NR 1 and NR 5 potentially survive in some manner.
 
 ### Chardon
 
@@ -120,7 +124,7 @@ At the end of the Great War, a large army (Cha'mutte's Northern Army) has conque
 
 **Roughly DR 1545 - DR 1556**
 
-During this period, the [[Hobgoblin Movements After Cha'Mutte#Eastern Split|Eastern Branch]] of Cha'mutte's Northern Army moves decisively south in a war of revenge, destroying much of the elven forests and sweeping to the Chasa River Valley in the course of a few years, then continuing in a path of destruction west along the river towards Chardon. The [[Conclave War]] ends with a decision Chardon victory at the [[Battle of Metium]], tentatively around 1556. The Conclave War leaves Volganis, [[Ainumarya]], and much of the upper portion of the [[Chasa River Valley]] in ruins and largely, if not entirely, depopulated. 
+During this period, the [[Hobgoblin Movements After Cha'Mutte#Eastern Split|Eastern Branch]] of Cha'mutte's Northern Army moves decisively south in a war of revenge, destroying much of the elven forests and sweeping to the Chasa River Valley in the course of a few years, then continuing in a path of destruction west along the river towards Chardon. The [[Conclave War]] ends with a decisive Chardon victory at the [[Battle of Metium]], tentatively around 1556. The Conclave War leaves Volganis, [[Ainumarya]], and much of the upper portion of the [[Chasa River Valley]] in ruins and largely, if not entirely, depopulated.
 
 After the defeat of the dragon conclave, many hobgoblins are slain by Chardonian forces, but some, under the banner of the Shattered Ice clan, flee east (possibly fighting a small war against the Myraeni Gap people), and settle to lick their wounds around the desolation of Urlich and the Sentinels west of Sembara. They become a major force in Sembaran history, but cease to significantly influence the west coast. 
 
@@ -147,16 +151,16 @@ In this period is also the [[War of the Dark Rift]], which upends Illorian contr
 
 Other events:
 - With refugees from the north, the population of Chardon swells and resettlement of the Chasa River valley begins. This is more or less the first part of the Chardonian Empire. 
-- Possibly some remnant realms in the southwest shores of [[Lake Valandros]] also survive the hobgoblin onslaut and enter into mutual defense pacts -- precursors of imperial rule -- with Chardon. 
+- Possibly some remnant realms in the southwest shores of [[Lake Valandros]] also survive the hobgoblin onslaught and enter into mutual defense pacts -- precursors of imperial rule -- with Chardon.
 
 It is likely that during the period the remnants of NR 1, on the north shores of Lake Valandros, are impoverished, maybe destroyed. 
 
 However, this period ends with hope:
 - While the hobgoblin kingdoms remain, they are not expansionist for whatever reason
 - The Evil realm is defeated (somehow, tbd), which leads to Mawar reemerging and a northern renaissance. 
-- Chardon defeats the Shadow Armada of the [[Umbral Covenant]], and realizes it is strong. The vibe here is that the victory against the dragon conclave felt like a defeat - a huge number of Chardonians died and the city itself survived just barely. The victory against the Shadow Armanda was different - Chardon won, decisively. 
+- Chardon defeats the Shadow Armada of the [[Umbral Covenant]], and realizes it is strong. The vibe here is that the victory against the dragon conclave felt like a defeat - a huge number of Chardonians died and the city itself survived just barely. The victory against the Shadow Armada was different - Chardon won, decisively.
 
-At the end of the Retrenchement Period, you have:
+At the end of the Retrenchment Period, you have:
 - Evil realm defeated, and the reemergence of the northern coastal culture, with Mawar and NR 5, on the coast, forming the basis of a renaissance.
 - Shattered Ice hobgoblins are moving east into Sembara
 - The Chardonian Empire is coming into existence, initially with the Chasa River Valley
@@ -169,7 +173,7 @@ At the end of the Retrenchement Period, you have:
 
 Roughly **DR 1597 - DR 1675** 
 
-At this stage, Chardon is growing into is power as an empire, and the obvious next step is to drive the hobgoblins out. This is a war over a generation or two, a long, slow process that consumes much of the resource of the Chardonian Empire. 
+At this stage, Chardon is growing into its power as an empire, and the obvious next step is to drive the hobgoblins out. This is a war over a generation or two, a long, slow process that consumes much of the resource of the Chardonian Empire.
 
 This leaves things open for the Mawar Renaissance to be the dominant/central focus in this era. 
 
@@ -188,6 +192,25 @@ As the hobgoblin wars end, Chardon controls the north coast, the south coast of 
 
 This is the chalyte expansion era of Chardon:
 - Chalyte is discovered in Voltara, and Chardon conquers north to control it, exerting control of the Voltara frontier and the northern shores of Lake Valandros (but not Mawar or NR 5 on the coast). 
-- Something is also discovered in the mountains, and Chardon conquers the rest of Yeraad (more or less) for this purpose, but it doesn't go well and Yeraad region 4 is never conquered, nor is the Illoria coast. 
+- Something is also discovered in the mountains, and Chardon conquers the rest of Yeraad (more or less) for this purpose, but it doesn't go well and Yeraad region 4 is never conquered, nor is the Illoria coast.
 
+%%^povNotes:v1%%
+Temporal coverage: a modern planning framework surveying the west coast from pre-Drankorian times through roughly DR 1750; its approximate eras and explicitly undeveloped details are not fixed chronology.
+%%^End%%
 
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter, added the explicit note name, and recorded a modern planning POV and approximate historical coverage.
+- Corrected eight objective typos or grammar defects, including extent, centralized-monarchy wording, decisive victory, onslaught, Armada, Retrenchment, and its power.
+
+### Validated judgments
+- The declared purpose is to distinguish the established regional framework from open invention; the numerous explicitly undeveloped cultures and political details do not make that planning function incomplete.
+- `status/cleanup/text` is supported by the rough planning form; `status/cleanup/map` is not assessable without the intended mapping plan. Both tags and the publication exclusion are preserved.
+
+### Open findings
+
+- [ ] **Warning — correctness.internal_conflict:** The Central Branch paragraph places the conquering force in Amani, but the concluding Conclave-period list places its “evil realm” in the land that was Volganis. [[Hobgoblin Movements After Cha'Mutte#Central Split]] describes occupation of Amani and destruction of surviving fragments of Volganis. Select the intended territory before using this framework to develop those realms. If the preceding paragraph controls, the smallest correction is: “Some kind of evil realm occupying the land that was once Amani.” If both realms are intended, state that extent explicitly; neither reading was selected automatically.
+- [ ] **Warning — correctness.cross_note_conflict:** The Conclave War paragraph tentatively puts the Battle of Metium around DR 1556, while [[Battle of Metium]] records DR 1555 and [[Conclave War]] uses DR 1546–1555, itself with a note that the dates may not be fully canonical. Reconcile the date and the adjacent period boundary while preserving that uncertainty. Candidate: “The Conclave War ends with a decisive Chardon victory at the [[Battle of Metium]], currently dated to DR 1555; the exact chronology remains provisional.” Confirm separately whether Retrenchment begins in 1555 or 1556.
+%%^End%%

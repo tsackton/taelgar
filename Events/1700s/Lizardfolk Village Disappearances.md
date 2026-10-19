@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
-name: Lizardfolk Village Disappearances
+lintedAt: "2026-10-19T00:23:09-04:00"
+lintVersion: "3.5"
+tags: [event, status/check/lint]
 typeOf: disappearances
 DR: 1737
 DR_end: 1748-09-20
+name: Lizardfolk Village Disappearances
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Lizardfolk Village Disappearances
 >[!info]+ Information  
@@ -58,3 +61,36 @@ On September 20th, 1748, the [[Silver Tempests]] severed the connection between 
 - [[Session 63 Background]]: the DM-facing history of Cairn Dor, the soul compass, dreamers, and the raids.
 - [[Cairn Dor]], [[Cairn Dor Sigil]], [[Samso]], [[Iara]], and [[Letter from Chardon for Samso on the Umbral Covenant]].
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Lizardfolk Village Disappearances", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective of the disappearances beginning in the DR 1730s, the interruption of raids in DR 1748, and the captives’ return in DR 1752; these are separate stages rather than a continuous present-state snapshot.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter ordering and collection formatting; added the explicit subject name where absent.
+- Added persistent name metadata and a modern retrospective POV with temporal coverage notes.
+
+### Validated judgments
+- The event title is composed of ordinary English words and needs no pronunciation; the Lizardling analogue does not change the language of this descriptive English title.
+- The account covers the pattern, investigation, cause, and resolution, but several specific claims need reconciliation with the played record.
+- The shared DM block mixes distinct private mechanics, unresolved questions, source pointers, and one redundant summary of the public resolution; its private and speculative material is preserved.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** “the only survivor of the attack on [[Urkabi]]” conflicts with [[Great Library Session Notes - Arc 5]], which records the rescue of much of Samso’s family and their return to Urkabi in June 1752. Replace the first sentence of First Known Disappearance with: “The first well-known disappearance was the village of [[Urkabi]], the birthplace of [[Samso]] of the [[Silver Tempests]], one of the heroes who later defeated [[Yeshara]] and quieted [[Cairn Dor]].” Retain the following sentence about his return in DR 1737. This preserves his defining experience without implying that the abducted inhabitants all died.
+
+- [ ] **Warning — correctness.cross_note_conflict:** The opening says the connection was “destroyed,” and the resolution says the company “defeated Yeshara, and freed” the captives. [[Great Library Session Notes - Arc 5]] instead records locking the portal and shutting down the soul compass on September 20th, then waking the dreamers before defeating Yeshara on October 14th. Proposed opening clause: “continuing until the [[Silver Tempests]] locked the [[Cleaver-Stone]] portal and shut down the soul compass in September DR 1748.” Proposed resolution sentences: “On September 20th, 1748, the [[Silver Tempests]] locked the Cleaver-Stone portal and shut down the soul compass, interrupting further raids. The company reached Cairn Dor the following month, awakened the surviving dreamers, and then defeated Yeshara.” Retain the subsequent stasis and June 1752 return.
+
+- [ ] **Suggestion — correctness.unsupported_certainty:** The visible claim “dozens of small lizardfolk villages” is explicitly qualified in the shared Open questions as an unfixed estimate; [[Session 63 Background]] attributes the smaller ten-village figure to earlier DM context rather than the played record. Neither figure should be selected mechanically. Confirm the intended historical scale, or replace “dozens of small lizardfolk villages” with “lizardfolk villages across the region” while retaining the uncertainty note.
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The shared Mechanism and context bullet beginning “Closing the Cleaver-Stone connection stopped the raids” repeats the distinction already made in Cause and Resolution between stopping the raids and rescuing the captives. After the chronology correction above, remove that one duplicated bullet. Retain the distinct private mechanics, unresolved questions, and source list in the hidden block; no broader private-content promotion or reorganization is proposed.
+
+- [ ] **Suggestion — editorial.prose_clarity:** The shared Open questions bullet says the reports “is be related,” leaving both grammar and intended certainty unclear. Candidate: “Reports of vanished non-lizardfolk settlements and a sleeping sickness in the Kedron valley may be related, but this connection remains relatively undeveloped.” Confirm the intended uncertainty before replacing the sentence, keeping it inside the existing comment.
+%%^End%%

@@ -1,19 +1,32 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T00:07:38-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: ""}
 tags: [object]
 typeOf: material
 typeOfAlias: planar metal
-displayDefaults: { defArt: ""}
+name: Chaos Metal
+knownTo: [dufr]
 dm_owner: tim
 dm_notes: none
+POV: modern
 ---
 # Chaos Metal
 >[!info]+ Information  
 > (planar metal)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-Chaos Metal is the commonly used name for the strange metallic substance, mutable and every-changing, associated with [[Limbo]]. It typically occurs as a silvery, mercury‑like medium, that can take on complex shapes and even form living structures when compelled by a strong will. 
+Chaos Metal is the commonly used name for the strange metallic substance, mutable and ever-changing, associated with [[Limbo]]. It typically occurs as a silvery, mercury‑like medium, that can take on complex shapes and even form living structures when compelled by a strong will.
 
 In the absence of a guiding mind, it tends to collapse into an inert slurry of shifting colors and textures. Contact with this slurry is reported to be hazardous, potentially causing unwanted transformations in those subject to its effects. 
 
-Chaos Metal is extremely rare on the [[Material Plane]], typically occurring only in regions heavily affected by [[Limbo]] or near [[extraplanar weak point|weak points]] connected to Limbo. 
+Chaos Metal is extremely rare on the [[Material Plane]], typically occurring only in regions heavily affected by [[Limbo]] or near [[extraplanar weak point|weak points]] connected to Limbo.
+
+%%^Metadata:names:v1%%
+- {"name": "Chaos Metal", "language": "Common", "status": "inferred"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern description of the material's properties and planar association, without a claim of unchanging availability in particular regions.
+%%^End%%

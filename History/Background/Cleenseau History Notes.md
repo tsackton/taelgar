@@ -1,8 +1,12 @@
 ---
-tags: [background]
+lintedAt: "2026-10-18T23:48:18-04:00"
+lintVersion: "3.5"
+tags: [background, status/check/lint]
+name: Cleenseau History Notes
+excludePublish: [all]
 dm_owner: mike
 dm_notes: none
-excludePublish: ["all"]
+POV: modern
 ---
 
 ### Before Drankor
@@ -25,10 +29,10 @@ This tower was built with powerful protective magic, and it was only in the 1420
 ### The Dark Ages and Early Sembara
 After the [[First Plague|First Plague]] the entire area was in upheaval. Cleenseau was far enough north that it wasn't consumed in the actual destruction of the Empire, but there must have been many disruptions.
 
-The halfling community, if you could question them, would tell you that during this time they started wintering here, sometimes, as the bridge was a convenient crossing spot over the river, and that although the main human town, such as it was, on was on the south bank, the halflings had a small seasonal settlement on the north bank. This was the first even semi-permanent settlement here, and [[Marigold Stonebridge]], might, if the mood struck her, claim that [[The Crossroads Inn]] was built on the site of this ancient halfling settlement. The Stonebridges have certainly been in this area for time immemorial, and Marigold has a deed dated DR 1332 from a Lord Tanrreck (a vassal of the Duke of Wisford) indicating the Stonebridge ownership of the several acres of land by "ancient family right".
+The halfling community, if you could question them, would tell you that during this time they started wintering here, sometimes, as the bridge was a convenient crossing spot over the river, and that although the main human town, such as it was, was on the south bank, the halflings had a small seasonal settlement on the north bank. This was the first even semi-permanent settlement here, and [[Marigold Stonebridge]], might, if the mood struck her, claim that [[The Crossroads Inn]] was built on the site of this ancient halfling settlement. The Stonebridges have certainly been in this area for time immemorial, and Marigold has a deed dated DR 1332 from a Lord Tanrreck (a vassal of the Duke of Wisford) indicating the Stonebridge ownership of the several acres of land by "ancient family right".
 
 ## The Great War and Blood Years
-In the early 1420s, when Avatus is moving north, he captures the old Drankorian fort on the south bank of the river first, and uses magically dimension door to teleport his troops across the river and eventually defeats the Sembaran army. Cleeenseau at this time is not a significant fortification but it becomes a central staging point for the army in the war with Avatus, until the Sembarans are defeated.
+In the early 1420s, when Avatus is moving north, he captures the old Drankorian fort on the south bank of the river first, and uses magically dimension door to teleport his troops across the river and eventually defeats the Sembaran army. Cleenseau at this time is not a significant fortification but it becomes a central staging point for the army in the war with Avatus, until the Sembarans are defeated.
 
 During the war with [[Avatus|Avatus]] Cleenseau is captured, but Avatus is seeking conquest and subjects, not revenge, and so the population is largely enslaved. He makes a particular deal with the Stonebridges to allow them to continue running the Crossroads Inn as a watering hole for hobgoblins. The halflings secretly aid humans wishing to escape hobgoblin rule, and several tunnels are built under the Crossroads Inn to assist this.
 
@@ -42,17 +46,17 @@ This garrison is substantially increased in the 1550s during and after the [[Blo
 
 The First Hobgoblin War is largely fought to the north and west of Cleenseau, and some of its garrison is pulled into the fighting. Little is remembered from that time but as Cleenseau was a very military town with a large garrison, many people would have lost relatives. 
 
-The [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] is fought just south of the Enst, and Cleenseau was a major garrison and logistics point for the armies fighting to the south, as the only safe river crossing for many miles. The Sembaran general, as the battles were going badly, even tried to destroy the bridge to protect Sembara but it was undestrucible. Maybe this cursed the garrison for some period of time.
+The [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] is fought just south of the Enst, and Cleenseau was a major garrison and logistics point for the armies fighting to the south, as the only safe river crossing for many miles. The Sembaran general, as the battles were going badly, even tried to destroy the bridge to protect Sembara but it was indestructible. Maybe this cursed the garrison for some period of time.
 
 After Treaty of Châteauclair in 1602, the [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] ends and the [[Shattered Ice Clan]] is established just south of Cleenseau, and trade largely ceases. The walls are strengthened, taking many stones from the (at the time) somewhat intact Drankorian fort on the south bank of the Enst. The next 40 years, until the Third Hobgoblin War starts in 1644, are tense and highly fortified.
 
-In late fall DR 1646, during the darkest period of the Third Hobgoblin War, Cleenseau is sacked and conqueored by the hobgoblins. The entire population is put to death, and the hobgoblins massively fortify it as a "beachhead" on the north side of the Enst from which many raids are launched. In particular, the build a hillfort on top of the old Sembaran garrison, and a wall that incorporates the Crossroads Inn, which is used as a headquarters and feasting hall. The entire area around Cleenseau is depopulated as either hobgoblin raids kill people or they flee to safer places.  Most of the population was killed; a small number of halflings, mostly Stonebridges, were kept alive to cook and maintain the inn.
+In late fall DR 1646, during the darkest period of the Third Hobgoblin War, Cleenseau is sacked and conquered by the hobgoblins. The entire population is put to death, and the hobgoblins massively fortify it as a "beachhead" on the north side of the Enst from which many raids are launched. In particular, they build a hillfort on top of the old Sembaran garrison, and a wall that incorporates the Crossroads Inn, which is used as a headquarters and feasting hall. The entire area around Cleenseau is depopulated as either hobgoblin raids kill people or they flee to safer places.  Most of the population was killed; a small number of halflings, mostly Stonebridges, were kept alive to cook and maintain the inn.
 
-In the early spring of DR 1649, Cece reconqueors the town and it is a large staging spot for military campaigns to the south, but no population returns. In DR 1651 Cece gives the lordship of Cleenseau to one of her young army captains, [[Reginald Essford]] in honor of his heroic service, and he builds [[Essford Manor]] on the ruins of the hobgoblin fortifications. 
+In the early spring of DR 1649, Cece reconquers the town and it is a large staging spot for military campaigns to the south, but no population returns. In DR 1651 Cece gives the lordship of Cleenseau to one of her young army captains, [[Reginald Essford]] in honor of his heroic service, and he builds [[Essford Manor]] on the ruins of the hobgoblin fortifications.
 
 The Stonebridges return, and the Crossroads Inn (still standing, having been used as a hobgoblin headquarters) is cleansed and returned to service as an inn.
 
-Over the 1650s the wall is rebuild, and the garrison reestablished, and the [[Reginald Essford]] manages the place well and Cleenseau thrives, and grows. 
+Over the 1650s the wall is rebuilt, and the garrison reestablished, and [[Reginald Essford]] manages the place well and Cleenseau thrives, and grows.
 
 ### Periods and Rulers
 
@@ -72,14 +76,33 @@ Over the 1650s the wall is rebuild, and the garrison reestablished, and the [[Re
 * The military garrison was built in three stages. The 'old fort' dates to the 1550s, 'Elaine's fort' dates to the 1590s and was built for the 2nd hobgoblin war, and the 'new fort' dates to the 1650s when the garrison was reduced 
 * Smith's Way was originally part of the halfling land grant and attached to the Crossroads Inn. A few of the buildings are likely connected by the old secret tunnels
 * The old wall went from the North Gate south-east across what is now Essford Manor. Much of the wall to the east is still called the old wall.  This was first built in the 1550s and repaired many times
-* The new wall was built in 1655 - 1659 after the construction of Essford Manor. The River Gate was newly built, replacing the old South Gate, and the North Gate replaced the old Farmer's Gate. Much of the stones from the South Gate were used to built the archway and door to the Garrison Quarter along Char Street
+* The new wall was built in 1655 - 1659 after the construction of Essford Manor. The River Gate was newly built, replacing the old South Gate, and the North Gate replaced the old Farmer's Gate. Much of the stones from the South Gate were used to build the archway and door to the Garrison Quarter along Char Street
 * Two major military forts no longer exist:
 	* The main garrison of the Sembaran army from 1550 - 1645 was built around where Essford Manor and Underhill are. The 'old fort' was a secondary garrison built around the wall, more of a gatehouse than anything else
-	* In 1646-1647 the Shattered Ice Clan built a motte on top of, and incorporating, the old Sembaran fortifications. Two towers were built before the motte, and the motte buried them, and then additional fortificaitons were built over the motte
+	* In 1646-1647 the Shattered Ice Clan built a motte on top of, and incorporating, the old Sembaran fortifications. Two towers were built before the motte, and the motte buried them, and then additional fortifications were built over the motte
 * Essford Manor was built in 1651 - 1660 in a couple of stages, on top of the old hobgoblin motte
 * Underhill was the ruins of the old sembaran and hobgoblin forts and not very well built up until the 1670s and 1680s when the population started to grow  many of the buildings incorporate stones from the old forts
-* Most of the nicer buildings in the garrison quarter date to the 1550s - 1590s and were converted from various garrison buildings in the 1660s. Land grants of relatively large and intact buildings was a key way [[Reginald Essford]] grew the town rapidly
+* Most of the nicer buildings in the garrison quarter date to the 1550s - 1590s and were converted from various garrison buildings in the 1660s. Land grants of relatively large and intact buildings were a key way [[Reginald Essford]] grew the town rapidly
 * [[The Fox's Flagon]] was built in 1689 as a business venture
 * [[The River's Blessing]] was built in 1709 after a bad flood damaged the other two outside the wall inns, originally as a temporary venture by halflings but it was then sold to the current owner in 1711
 
+%%^povNotes:v1%%
+Temporal coverage: modern retrospective working notes on Cleenseau from its ancient origins through rebuilding and later buildings in the early DR 1700s; alternative origins and unresolved chronology are retained as written.
+%%^End%%
 
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added the filename-derived name and modern temporal metadata.
+- Corrected objective spelling, duplicated wording, and agreement errors, including Cleenseau, indestructible, conquered/reconquers, rebuilt, fortifications, and the land-grants sentence.
+
+### Validated judgments
+- The note is an unpublished historical working account; its stated possibilities and unfinished historical decisions remain provisional.
+
+### Open findings
+
+- [ ] **Warning — correctness.internal_conflict:** The Hobgoblin Wars narrative dates the sack to late fall DR 1646 and recapture to early spring DR 1649, while Periods and Rulers assigns Shattered Ice rule to DR 1645–1648 and the army-garrison phase to DR 1648–1651. Choose the governing dates before changing either account; if the narrative governs, use “DR 1646–DR 1649: Shattered Ice occupation” and “DR 1649–DR 1651: Army garrison; not yet rebuilt,” and end the preceding Sembaran interval at DR 1646.
+- [ ] **Warning — correctness.internal_conflict:** The sack paragraph first says “The entire population is put to death” but ends by saying a small number of halflings, mostly Stonebridges, were kept alive. Preserve that stated exception when resolving the claim. Candidate: “Most of the population is put to death; a small number of halflings, mostly Stonebridges, are kept alive to cook and maintain the inn.”
+- [ ] **Suggestion — editorial.prose_clarity:** The first Some Specific Buildings bullet ends with the incomplete phrase “It was used as a place to help humans escape from Avatus during the”. The earlier war narrative already supplies the intended context. Candidate ending: “It was used to help humans escape during Avatus’s occupation of Cleenseau.”
+%%^End%%

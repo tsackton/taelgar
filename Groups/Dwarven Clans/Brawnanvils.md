@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+lintedAt: "2026-10-19T00:14:58-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: the}
-name: Brawnanvil Clan
+tags: [group]
 typeOf: clan
 ancestry: dwarven
-dm_notes: none
+name: Brawnanvil Clan
 dm_owner: none
+dm_notes: none
+POV: 1749
 ---
 # The Brawnanvil Clan
 >[!info]+ Information  
@@ -26,3 +29,11 @@ dv.table(["Person", "Info", "Current Location"],
 				.where(f => util.isAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
+
+%%^Metadata:names:v1%%
+- {"name": "Brawnanvil Clan", "language": "unknown", "notes": "[[Dwarves]] lists Brawnanvil among clan names and explains that these forms are rendered in the trade tongue; the original dwarven form is not recorded."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1749 clan overview after Riswynn became bearer of the Crown of Purity, alongside the clan's older Ardith and Raven's Hold roots; the article does not establish her Crown-bearing status before May 1749.
+%%^End%%

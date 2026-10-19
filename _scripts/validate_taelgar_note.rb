@@ -570,6 +570,11 @@ module TaelgarNoteLint
     end
 
     def resolve_wikilink(target, source_path = nil)
+      raw = target.to_s.split("|", 2).first.to_s.strip
+      if source_path && raw.start_with?("#")
+        source_key = source_path.to_s.sub(/\.md\z/i, "").tr("\\", "/")
+        return [@by_path[TaelgarNoteLint.normalize(source_key)]].compact
+      end
       clean = target.to_s.split("|", 2).first.to_s.split("#", 2).first.to_s.strip.tr("\\", "/")
       return resolve(target, source_path) unless IMAGE_EXTENSIONS.include?(File.extname(clean).downcase)
 

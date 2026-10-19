@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-18T23:43:15-04:00"
+lintVersion: "3.5"
 tags: [person, status/check/mike]
 species: goblin
 gender: male
 name: Droog
 pronunciation: DROOG
 knownTo: [clee]
+POV: 1720
 ---
 # Droog
 *(DROOG)*
@@ -26,4 +29,8 @@ After the death of [[Ianto]], he fled and disappeared in the [[Grey Mists]] on t
 
 %%^Metadata:names:v1%%
 - {name: Droog, language: Goblin, pronunciation: DROOG, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1720 portrait of the goblin cook, with his subsequent disappearance separated in a dated passage; his fate afterward is unknown.
 %%^End%%

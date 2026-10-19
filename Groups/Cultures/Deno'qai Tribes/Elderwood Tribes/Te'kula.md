@@ -1,22 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [ancestry]
-displayDefaults: {defArt: the, boxInfo: One of the <partOf:1UA>, wHome: ""}
-partOf: Elderwood Tribes
+lintedAt: "2026-10-19T00:14:58-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the, boxInfo: "One of the <partOf:1UA>", wHome: ""}
+tags: [ancestry, status/check/lint]
 typeOf: tribe
+partOf: Elderwood Tribes
+name: "Te'kula"
 whereabouts: Elderwood
-name: Te'kula
-dm_notes: none
 dm_owner: tim
+dm_notes: none
+POV: 1749
 ---
 # The Te'kula
 >[!info]+ Information  
-> One of the the [[Elderwood Tribes|Elderwood Tribes of the Deno'qai]]  
+> One of the [[Elderwood Tribes|Elderwood Tribes of the Deno'qai]]\
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
- %% Written from DR (POV:: 1749) point of view %%
-
-The Te'kula are a [[Deno'qai]] tribe of the [[Elderwood]]. For many years, they lived hidden in a forest demi-plane, protected from [[Mezzar|Grimbaskal]] by the tanshi [[Aasimti]] and a [[Jade Piece of Rai's Hand]]. Since the [[Session 52 (DuFr)|defeat of Grimbaskal]] by the [[Dunmar Fellowship]], the Te'kula have emerged from hiding and taken a leading role is restoring the forest ecosystem and the [[Elderwood Tribes]] that suffered at [[Mezzar|Grimbaskal]]'s hand. 
+The Te'kula are a [[Deno'qai]] tribe of the [[Elderwood]]. For many years, they lived hidden in a forest demi-plane, protected from [[Mezzar|Grimbaskal]] by the tanshi [[Aasimti]] and a [[Jade Piece of Rai's Hand]]. Since the [[Session 52 (DuFr)|defeat of Grimbaskal]] by the [[Dunmar Fellowship]], the Te'kula have emerged from hiding and taken a leading role in restoring the forest ecosystem and the [[Elderwood Tribes]] that suffered at [[Mezzar|Grimbaskal]]'s hand.
  
 ## Territory and Settlements
 
@@ -24,7 +25,7 @@ The Te'kula live deep in the [[Elderwood]], near the source of the [[Kayan]]. Du
 
 ## Local Culture
 
-The Te'kula, along among the northern [[Elderwood Tribes]], resisted and fought [[Mezzar|Grimbaskal]], at great cost, leaving them isolated in magical demi-plane. This long history of isolation has colored the local culture of the tribe. 
+The Te'kula, alone among the northern [[Elderwood Tribes]], resisted and fought [[Mezzar|Grimbaskal]], at great cost, leaving them isolated in a magical demi-plane. This long history of isolation has colored the local culture of the tribe.
 
 Unlike most [[Deno'qai]], they have a particularly close relationship with a single tanshi, [[Aasimti]], who they call the spirit of the [[Elderwood]]. Though the Te'kula do not deny the existence of other tanshi, most members of the tribe call on [[Aasimti]] far more than is typical in [[Tanshi Worship]]. 
 
@@ -32,7 +33,7 @@ The Te'kula also preserve older Deno'qai traditions, maintained via years of iso
 
 ## Recent history
 
-For many years, the Te'kula lived quietly in the depths of the [[Elderwood]]. This all changed in DR 1721, when [[Jordo]], the Godcaller of the [[Te'kula]], found a fragment of [[Jade Piece of Rai's Hand|Rai's hand]] and united it with an ancient tree, a locus of Aasimit's power in the [[Elderwood]]. The spirit of [[Rai]] and [[Aasimti]] became entangled, with Rai providing a focus on the material plane to amplify and channel Aasimti's power. 
+For many years, the Te'kula lived quietly in the depths of the [[Elderwood]]. This all changed in DR 1721, when [[Jordo]], the Godcaller of the [[Te'kula]], found a fragment of [[Jade Piece of Rai's Hand|Rai's hand]] and united it with an ancient tree, a locus of Aasimti's power in the [[Elderwood]]. The spirit of [[Rai]] and [[Aasimti]] became entangled, with Rai providing a focus on the material plane to amplify and channel Aasimti's power.
 
 In DR 1722, when [[Mezzar|Grimbaskal]] attacked the [[Te'kula]] seeking the [[Jade Piece of Rai's Hand]], Aasimti, channelling divine and arcane power through Rai, was able to shift the [[Neshet|Te'kula village]] to a demiplane, protecting it from [[Mezzar|Grimbaskal]]. 
 
@@ -77,4 +78,36 @@ Session notes:
 - [[Session 52 (DuFr)]]: After Grimbaskal's defeat, transformed Deno'qai bodies were recovered and buried, messengers went to other tribes, and Theba began diplomatic work to repair relations.
 - [[Session 52 (DuFr)]]: When Kenzo left with both jade pieces, the Te'kula territory returned to the [[Material Plane]].
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Te'kula", "language": "unknown", "pronunciation": "teh-koo-LAH", "status": "proposed", "notes": "Analogue-informed proposal from the Deno'qai cultural context and the Hebrew option in [[Languages]]: plain t and hard k, eh/oo/ah vowels, a syllable boundary at the apostrophe, and tentative final stress. The Arabic option leaves the written e and stress less certain. The name's source language and exact in-world phonology are not established."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1749 account of recovery and resettlement after Grimbaskal's defeat and the return from magical isolation in DR 1748, with selected earlier history; the later course of recovery is not established.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Repaired the YAML by quoting the existing `displayDefaults.boxInfo` scalar; normalized frontmatter order and formatting without changing the header version.
+- Removed the duplicated “the” in the header while preserving its Markdown line break; corrected “role is restoring,” “along among,” the missing article before “magical demi-plane,” and the transposed spelling “Aasimit.”
+- Migrated the legacy inline DR 1749 viewpoint to `POV` and added temporal coverage notes. Added a primary name entry with a proposed pronunciation.
+
+### Validated judgments
+- The visible note adequately explains the tribe's distinctive refuge, relationship with Aasimti, and return to the Material Plane. [[Session 52 (DuFr)]] supports the 1748 return and the beginning of recovery; the article's explicit DR 1749 framing is preserved.
+- The `Campaign:none` Sources block is an annotated evidence map, including source-specific details and provenance, rather than a discarded duplicate article. It remains nonpublic.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Confirm or correct the proposed pronunciation `teh-koo-LAH` for Te'kula. It uses the Hebrew option in the Deno'qai cultural guidance in [[Languages]]: plain t, hard k, eh/oo/ah vowels, the apostrophe treated as a syllable boundary, and tentative final stress. The Arabic option does not resolve the written e or stress; neither analogue establishes exact in-world phonology. The source language remains `unknown` because cultural affiliation alone does not establish this name's language. If accepted, add `pronunciation: teh-koo-LAH` to frontmatter and set this entry to `status: documented`, retaining its derivation until name-specific evidence is recorded.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Elderwood Arc NPCs]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Grimbaskal - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part III Saving the Te'kula/Arrival]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part III Saving the Te'kula/Journey to the Lair]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part III Saving the Te'kula/Te'kula - DM Notes]]
 %%^End%%

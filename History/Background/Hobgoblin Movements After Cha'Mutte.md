@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/cleanup/text, status/cleanup/map, status/gameupdate/dufr]
-excludePublish: ["all"]
+lintedAt: "2026-10-18T23:48:18-04:00"
+lintVersion: "3.5"
+tags: [background, status/cleanup/text, status/cleanup/map, status/gameupdate/dufr, status/check/lint]
+name: "Hobgoblin Movements After Cha'Mutte"
+excludePublish: [all]
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Hobgoblin Movements After Cha'Mutte
 
@@ -30,7 +34,7 @@ As the plague spreads along the Upper Istaros after Cha'mutte's death, many of t
 
 ### Iron Fang
 
-*[[Bloodlust Wars]]: Iron Fang against Sembara in 1540ss*
+*[[Bloodlust Wars]]: Iron Fang against Sembara in 1540s*
 
 North of [[Isingue]], the Iron Fang clan survives mostly intact, and once the red mists leave, launches an attack on Sembara. This is the [[Bloodlust Wars]], from ~DR 1547 - DR 1549, although exact dates are probably not canonical. They are defeated, but not totally eliminated. Some hobgoblins flee into the Plaguelands, while others maybe join with remnants of [[Revaka]]'s people who refused to fight for [[Cha'mutte]] in the southeastern foothills of the Sentinels. 
 
@@ -73,7 +77,7 @@ The Conclave War is a brutal fight and leads to much destruction. Chardon eventu
 
 #### Shattered Ice Clan
 
-*Concave War against Chardon, 1545-1550s; Hobgoblin wars against Sembara, 1570s-1650*
+*Conclave War against Chardon, 1545-1550s; Hobgoblin wars against Sembara, 1570s-1650*
 
 The Shattered Ice clan joins the Conclave War, but for whatever (as yet undetermined) reason, they escape destruction. At the end of the Conclave War, a well organized group of hobgoblins flees east, into the Sentinels and establish themselves. 
 
@@ -82,7 +86,7 @@ About a generation later, they launch the [[First Hobgoblin War (Sembara)]], and
 ### Western Split
 _[[Coastlands]] Conquest, 1550s - 1650s_
 
-On part of the northern army - potentially more interested in a place to live and conquest than revenge or destruction - appears on the North Chardon Coast in the 1550s. They methodically conquer the [[Coastlands]] over the next several years (exact timeframe is unclear but likely a relatively quick push south, perhaps over just a year or so). This force is stopped by a Chardonian army somewhere not to far from Chardon, and then a stalemate occurs. 
+One part of the northern army - potentially more interested in a place to live and conquest than revenge or destruction - appears on the North Chardon Coast in the 1550s. They methodically conquer the [[Coastlands]] over the next several years (exact timeframe is unclear but likely a relatively quick push south, perhaps over just a year or so). This force is stopped by a Chardonian army somewhere not too far from Chardon, and then a stalemate occurs.
 
 For the next 30 - 50 years, these western hobgoblins rule over a [[Coastlands]] realm. Sometime after the [[War of the Dark Rift]], Chardon turns north and methodically eliminates these hobgoblins.
 
@@ -126,8 +130,25 @@ In the current day, the remnants of Cha'mutte's armies may be found:
 - Some hobgoblins (exact ancestry and history undetermined) live in the plains and mountains north of Voltara, although they didn't really impact [[Grumella's War]], so are likely either fairly scattered and disorganized, or have their own reasons for staying out of conflict with humans. 
 
 *Brainstorming*
-- [[Tawir Forest]], the [[Mawar Mountains]], the northwest coast of Lake Valandros, the forests on the eastern shores of Lake Valandros, the [[Crimson Forest]], parts of the northern Myraeni Gap, and potentially the islands of of Mawar all could provide space for hobgoblins with various degrees of organization. 
+- [[Tawir Forest]], the [[Mawar Mountains]], the northwest coast of Lake Valandros, the forests on the eastern shores of Lake Valandros, the [[Crimson Forest]], parts of the northern Myraeni Gap, and potentially the islands of Mawar all could provide space for hobgoblins with various degrees of organization.
 
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective framework for post-Great-War hobgoblin movements, with explicitly provisional branches; the current-day Iron Fang section predates the DR 1749 invasion and defeat.
+%%^End%%
 
+%%^Lint%%
+## Taelgar note lint
 
+### Applied changes
+- Normalized frontmatter, added the explicit note name, and recorded a modern retrospective POV and its pre-update Iron Fang limit.
+- Corrected five objective prose defects: 1540ss, Concave War, On part, not to far, and islands of of.
 
+### Validated judgments
+- The note is a deliberately unpublished historical framework; its explicit possibilities and unresolved branches are preserved as provisional.
+- `status/cleanup/text` is supported by the mixed outline and planning prose. `status/cleanup/map` is not assessable because the intended map work is not specified. `status/gameupdate/dufr` remains not assessable pending the choice to update or preserve the earlier current-day account; all three tags are retained.
+
+### Open findings
+
+- [ ] **Warning — coverage.later_material_change:** The first current-day Iron Fang bullet still treats a future Plaguelands attack as hypothetical. [[Session 129 (DuFr)]] records the DR 1749 host under the Empress of Chaos, and [[Session 134 (DuFr)]] records its defeat and scattered remnants at Heartroot Vale. This is a lasting change to the framework’s main modern remnant. Candidate: “In DR 1749, an Iron Fang army emerged from the [[Plaguelands]] under the [[Empress of Chaos]] and attacked the [[Aurbez Plateau]]. The army was defeated at the [[Battle of Heartroot Vale]] by the defenders of Aurbez and the [[Dunmar Fellowship]]. Whether additional Iron Fang forces remain in the Plaguelands is unknown.” Choose whether to update the current-day section, defer and retain `status/gameupdate/dufr`, or intentionally preserve its earlier framing and have a human remove the tag. Do not infer extinction from the defeated host.
+- [ ] **Warning — correctness.cross_note_conflict:** The Bitter Knife subheading ends the war in the “1570s,” while [[Bitter Knife War]] gives DR 1559–1586 and explicitly dates the clan’s final destruction to 1586. The body’s approximate thirty-year duration also fits that later endpoint. Resolve the heading against the dedicated event chronology; copy-ready candidate: “Bitter Knife War: Bitter Knife against Dunmar, DR 1559–1586.” Dates were not changed automatically.
+%%^End%%

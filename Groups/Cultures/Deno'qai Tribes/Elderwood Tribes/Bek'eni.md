@@ -1,22 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [ancestry]
-displayDefaults: {defArt: the, boxInfo: One of the <partOf:1UA>, wHome: ""}
-partOf: Elderwood Tribes
+lintedAt: "2026-10-19T00:14:58-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the, boxInfo: "One of the <partOf:1UA>", wHome: ""}
+tags: [ancestry, status/check/lint]
 typeOf: tribe
-whereabouts: Elderwood
-name: Bek'eni
-dm_notes: none
-dm_owner: none
+partOf: Elderwood Tribes
+name: "Bek'eni"
 pronunciation: BEHK-en-ee
+whereabouts: Elderwood
+dm_owner: none
+dm_notes: none
+POV: 1749
 ---
 # The Bek'eni
 *(BEHK-en-ee)*
 >[!info]+ Information  
-> One of the the [[Elderwood Tribes|Elderwood Tribes of the Deno'qai]]  
+> One of the [[Elderwood Tribes|Elderwood Tribes of the Deno'qai]]
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
- %% Written from DR (POV:: 1749) point of view %%
 
 The Bek'eni are one of the major [[Deno'qai]] tribes based in the [[Elderwood]]. Historically, they were largely hunters, foresters, and trappers, extensively trading and intermarrying with the [[Baz'aku]], but under the sway of [[Mezzar]] they became deeply isolationist and mistrusting. Since the unmasking of [[Mezzar]] as the green dragon [[Mezzar|Grimbaskal]], and his death at the hands of the [[Dunmar Fellowship]], the Bek'eni have struggled to recover. 
 
@@ -89,4 +90,33 @@ However, should be one NPC, perhaps the Godcaller (or even better, the former Go
 
 %%
 
+%%^Metadata:names:v1%%
+- {name: "Bek'eni", language: "Deno'qai", pronunciation: BEHK-en-ee, status: documented}
+%%^End%%
 
+%%^povNotes:v1%%
+Temporal coverage: a DR 1749 snapshot of the tribe's recovery after Grimbaskal's death in September DR 1748, with older cultural and settlement background; later recovery is not established.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Quoted the existing `displayDefaults.boxInfo` string to repair invalid YAML, then normalized frontmatter without changing the display template.
+- Removed the duplicated “the” in the information callout.
+- Migrated the legacy inline DR 1749 viewpoint into `POV` and persistent temporal coverage metadata; recorded the existing accepted pronunciation in the name block.
+
+### Validated judgments
+- The visible article gives a sufficient account of the tribe's territory, culture, subjection to Mezzar, and post-defeat difficulties. [[Session 51 (DuFr)]], [[Session 52 (DuFr)]], and [[Scrying Delwath Oct 21]] support that broad account, while the duration below needs reconciliation.
+- The session-reference block remains useful source guidance. Distinct old scenario material remains nonpublic, and the existing `dm_notes` attestation is unchanged.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** “For decades, the Bek'eni followed” Mezzar is more definite than the Bek'eni-specific duration in [[Session 51 (DuFr)]], which says he had advised and aided them for the past ten years in September DR 1748. The target's own session-reference block repeats “about ten years.” [[Session 52 (DuFr)]] describes harm to the tribes over twenty years or more, but does not establish that the Bek'eni followed him throughout that longer period. Reconcile the duration or adopt a bounded wording that does not equate those distinct claims. Candidate opening: “Before his death in DR 1748, the Bek'eni followed the green dragon [[Mezzar|Grimbaskal]], who posed as an elf under the name [[Mezzar]].” Preserve the rest of the paragraph and record the unresolved start date in a nearby comment if the chronology remains unsettled.
+- [ ] **Suggestion — editorial.shared_material_redundant:** In the ordinary comment headed “Preserving old DM notes for posterity,” the public-safe descriptions under “Interactions with Grimbaskal” repeat the visible account's elven disguise, tribute, missing warriors, isolationism, and distrust of neighboring tribes; the comment also repeats some of these points internally. For a more usable archive, remove those repeated descriptive passages or retain a short pointer to the visible sections, while preserving distinct historical scenario guidance in the existing nonpublic comment. A copy-ready replacement for only the repeated descriptive material is: “For the tribe's subjection to Mezzar, tribute, missing warriors, isolationism, and relations with neighboring tribes, see the article above.” Leave “Interactions with the Party,” “Plot Points,” and distinct DM-only material nonpublic; this proposal does not authorize deletion of the whole archived comment.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Elderwood Arc NPCs]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Grimbaskal - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part II Finding the Te'kula/Tinitaka (Elderwood)]]
+%%^End%%

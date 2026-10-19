@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T00:14:58-04:00"
+lintVersion: "3.5"
 tags: [group]
-dm_notes: none
+name: Concordia Pyrae
 dm_owner: tim
+dm_notes: none
+POV: modern
 ---
 # The Concordia Pyrae
 >[!info]+ Information  
@@ -21,3 +25,11 @@ Surviving notes attributed to the Concordia Pyrae also include the [[Records of 
 [[Session 110 (DuFr)]]
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Concordia Pyrae", "language": "Drankorian", "pronunciation": "kon-KOR-dee-ah PIE-ray", "status": "documented", "notes": "Pronunciation explicitly recorded in [[Records of the Concordia Pyrae]]; this is the Drankorian society name."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern retrospective description of an ancient Drankorian society and its surviving works; the society's exact founding and end dates are not established.
+%%^End%%

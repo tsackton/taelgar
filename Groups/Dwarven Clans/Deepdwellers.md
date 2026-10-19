@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+lintedAt: "2026-10-19T00:14:58-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: the}
-name: Deepdweller Clan
+tags: [group]
 typeOf: clan
 ancestry: dwarven
+name: Deepdweller Clan
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Deepdweller Clan
 >[!info]+ Information  
@@ -24,3 +27,11 @@ dv.table(["Person", "Info", "Current Location"],
 				.where(f => util.isAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
+
+%%^Metadata:names:v1%%
+- {"name": "Deepdweller Clan", "language": "Common", "status": "inferred", "notes": "The visible compound follows the convention in [[Dwarves]] and [[Playing a Dwarf]] of rendering clan names in the trade tongue or Common; no Dwarvish original or specific etymology is recorded."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose about the clan’s Enderran origin and present Apporian distribution; no precise migration date or narrower period is established.
+%%^End%%

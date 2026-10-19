@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
-name: Chardonian Chalyte Trade Reforms
+lintedAt: "2026-10-19T00:23:09-04:00"
+lintVersion: "3.5"
+tags: [event, status/check/lint]
 typeOf: reform
 DR: 1749-07-09
 DR_end: 1749-08-06
-whereabouts: Chardon
 partOf: Chardon Chalyte Riots
+name: Chardonian Chalyte Trade Reforms
+whereabouts: Chardon
 dm_owner: none
 dm_notes: none
+POV: 1749
 ---
 # The Chardonian Chalyte Trade Reforms
 >[!info]+ Information  
@@ -20,7 +23,7 @@ In DR 1749, the Chardon chalyte trade underwent a series of major reforms, follo
 
 ## Background
 
-Before DR 1749, Chardon's chalyte trade was concentrated in the hands of four oligarchic families: the [[Auratan Family]], [[Patelios Family]], [[Caloren Family]], and [[Veldari Family]]. Together they controlled the northern mines in [[Greater Voltara]], overland transport, shipping across [[Lake Valandros]], and local refineries in [[Chardon]], mostly concentrated in [[Ragwater Basin]]. After the [[Chardon Chalyte Riots]], which saw the destruction significant local infrastructure on the [[North Bank]], a return to the status quo was untenable. 
+Before DR 1749, Chardon's chalyte trade was concentrated in the hands of four oligarchic families: the [[Auratan Family]], [[Patelios Family]], [[Caloren Family]], and [[Veldari Family]]. Together they controlled the northern mines in [[Greater Voltara]], overland transport, shipping across [[Lake Valandros]], and local refineries in [[Chardon]], mostly concentrated in [[Ragwater Basin]]. After the [[Chardon Chalyte Riots]], which saw the destruction of significant local infrastructure on the [[North Bank]], a return to the status quo was untenable.
 
 However, Chardon and the Magistros faced a practical crisis. Chalyte is and was essential to Chardonian public works, including the system of fountains and wells that provide clean, fresh water across the city, but merchants would not send raw ore into a city in open unrest and in any case raw ore processing had largely halted. Existing reserves could keep some systems functioning for a time, but without new shipments the city's infrastructure would eventually fail. 
 
@@ -36,7 +39,7 @@ With this new source of chalyte, the politics of reform changed. Since the old f
 
 Into the void left by the dissolution of the chalyte oligarchs and the removal of the chalyte monopoly from the chartered monopolies regulated by the [[Chamber of Stamps]], the Magistros created two new institutions. First, the Magistros claimed the chalyte monopoly for the Imperium itself, and granted an exclusive monopoly on the sale of refined chalyte to the newly created [[Chalyte Refining Corporation]]. Second, to retain control of upstream sources, the Magistros created the [[Imperial Chalyte Mining Company]] with exclusive rights to chalyte claims in the [[Chataan Mountains]]. These reforms centralized control of chalyte in the imperial bureaucracy itself, and in its designees, primarily the [[Windcallers]] and the [[Guild of Chalyte Workers]], who jointly control the [[Chalyte Refining Corporation]]. 
 
-In the end, the new order shifted power from the university-affiliated [[Hetaeri Magica]] and the [[Curia of 42]], to the imperial bureaucracy, the [[Windcallers]], and the chalyte workers themselves. These reforms played a key part in stabilizing Chardon in the aftermath of revelations about [[Fausto]], and amid growing popular unrest and distrust of academic institutions and the special status granted [[Precinct IV]]. But the ultimate stability of the new order, and the role of magical institutions in the future of Chardon, remains to be seen. 
+In the end, the new order shifted power from the university-affiliated [[Hetaeri Magica]] and the [[Curia of 42]], to the imperial bureaucracy, the [[Windcallers]], and the chalyte workers themselves. These reforms played a key part in stabilizing Chardon in the aftermath of revelations about [[Fausto]], and amid growing popular unrest and distrust of academic institutions and the special status granted [[Precinct IV]]. But the ultimate stability of the new order, and the role of magical institutions in the future of Chardon, remain to be seen.
 
 %%^Campaign:none%%
 ## Conflicts and Unresolved Details
@@ -56,4 +59,34 @@ In the end, the new order shifted power from the university-affiliated [[Hetaeri
 - [[Session 129 (DuFr)]]: Chataan source, prosecutions, confiscations, Imperial Chalyte Mining Company, and Chalyte Refining Corporation.
 - [[Chalyte Refining Corporation]], [[Imperial Chalyte Mining Company]], [[Guild of Chalyte Workers]], [[Chalyte Oligarchs of Chardon]], [[Politics of Chalyte (Chardonian Empire)]], and [[Eightfold Flame]].
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Chardonian Chalyte Trade Reforms", "language": "unknown", "pronunciation": "CHAR-din-ee-un KAL-ih-teh TRAYD ree-FORMZ", "status": "proposed", "notes": "Chardonian preserves the accepted CHAR-din of [[Chardon]] with an English adjectival ending. For chalyte, the Latin and occasional Greek analogue for Chardonian in [[Languages]] suggests hard ch as k, short a, y approximated by ih, pronounced final e as eh, and first-syllable stress if the penultimate vowel is short. Trade Reforms is ordinary English. The mineral name has no established language or phonology; its vowel lengths and adaptation, including a possible English mineral ending, require human confirmation."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: the immediate aftermath of the DR 1749 reforms, through early August; the visible conclusion leaves the new order’s longer-term stability unresolved.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added persistent name metadata and temporal POV guidance; normalized frontmatter.
+- Corrected “destruction significant” to “destruction of significant” and the final compound subject’s verb to “remain”.
+
+### Validated judgments
+- The article reads from the immediate aftermath of the reforms; `POV: 1749` preserves its open question about the new order’s future stability.
+- [[Session 126 (DuFr)]] supports the supply crisis and new-source bargain; [[Session 129 (DuFr)]] supports the new corporations and negotiated worker representation.
+
+### Open findings
+
+- [ ] **Warning — coverage.established_fact_missing:** The comment beginning “fate of the Auratan Family and the Caloren Family is not really clear” leaves out a recorded part of dismantling the oligarchs’ control. [[Session 129 (DuFr)]] explicitly says the Auratan and Caloren refineries were confiscated for allowing Fausto to gain control of the chalyte market. Add: “The [[Auratan Family]] and [[Caloren Family]] also lost their refineries, confiscated as punishment for allowing [[Fausto]] to control the chalyte market.” Then replace the obsolete comment with a narrower question about any genuinely unrecorded subsequent fate.
+
+- [ ] **Warning — coverage.established_fact_missing:** The New Order says the Windcallers and workers jointly control the corporation but omits the Magistros’s retained authority, which materially qualifies that control. [[Session 129 (DuFr)]] records equal seats, imperial appointments following Kenzo’s advice, a tie-breaking vote, and abstention from profit-sharing votes. Add: “The [[Windcallers]] and [[Guild of Chalyte Workers]] held equal seats on the corporation’s board. The [[Mitus Verina Auratan|Magistros]] appointed its members following [[Kenzo]]’s advice and retained the tie-breaking vote, while agreeing to abstain from decisions on profit-sharing.”
+
+- [ ] **Warning — correctness.unsupported_claim:** “exile all members” of the Patelios and Veldari families is broader than the visible account in [[Session 129 (DuFr)]], which records bribery convictions, seizure of all family properties, and the scions’ flight to Voltara. Its hidden summary mentions exile for unlicensed holders, without establishing a blanket decree against every family member. Confirm a source for the blanket exile or use the bounded record: “The [[Patelios Family]] and [[Veldari Family]] were convicted of bribery and lost all their properties; their scions fled north to [[Voltara]].”
+
+- [ ] **Warning — metadata.names_unresolved_status:** Confirm the proposed full reading `CHAR-din-ee-un KAL-ih-teh TRAYD ree-FORMZ`. [[Chardon]] supplies the accepted `CHAR-din`; its adjectival ending and “Trade Reforms” use ordinary English. The chalyte proposal uses the Latin/Greek side of the Chardonian analogue in [[Languages]]: hard `ch` as k, short a, y approximated as ih, pronounced final e as eh, and initial stress if the penultimate vowel is short. The mineral’s language, vowel lengths, and adaptation are not established; an English mineral-style ending is also possible. Accept or replace the full pronunciation, then copy it to frontmatter and mark the entry documented.
 %%^End%%

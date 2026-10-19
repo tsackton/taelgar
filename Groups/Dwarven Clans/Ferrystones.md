@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/cleanup/text, group]
-name: Ferrystone Clan
+lintedAt: "2026-10-19T00:14:58-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the}
+tags: [status/cleanup/text, group, status/check/lint]
 typeOf: clan
-displayDefaults: {defArt: "the" }
 ancestry: dwarven
+name: Ferrystone Clan
 whereabouts: Barony of Aveil
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # The Ferrystone Clan
 >[!info]+ Information  
@@ -35,3 +38,28 @@ dv.table(["Person", "Info", "Current Location"],
 				.where(f => util.isAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2Fr> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
+
+%%^Metadata:names:v1%%
+- {name: Ferrystone Clan, language: Common, status: documented, notes: "[[Bolgrim Ferrystone]] and [[Kazak Ferrystone]] identify Ferrystone as a Common rendering; the displayed clan name has transparent English pronunciation."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern clan identity, regional ties, and masonry reputation; the reference to the hobgoblin wars supplies historical depth without fixing the article to that period.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter ordering.
+- Added persistent name metadata, recording the Common rendering documented in [[Bolgrim Ferrystone]] and [[Kazak Ferrystone]]; the transparent clan name needs no pronunciation guide.
+- Added `POV: modern` and a broadly modern temporal-coverage statement.
+
+### Validated judgments
+- The concise visible account adequately identifies the clan, its regional ties, and its masonry specialty; [[Aslain]], [[Bolgrim Ferrystone]], and [[Kazak Ferrystone]] corroborate that reference role.
+- `status/cleanup/text` is supported by the remaining mixed draft comment and its unresolved public/private disposition; the tag is preserved.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The opening of the shared comment records a small clanhouse in Aslain and larger buildings in Rinburg, a coherent institutional detail that would make the clan's two-town presence more useful. The consulted public notes confirm its ties to both towns but do not independently establish those premises, so adoption requires human judgment. Candidate: `The clan maintains a small clanhouse in [[Aslain]] and larger buildings in [[Rinburg]].` If adopted, remove that resolved draft fragment and the repeated general identity/masonry statements; keep any needed provenance in a concise source comment. The Resting Ox encounter, news-gathering trip, and temple-investigation appearances belong in their campaign or individual records and need not become clan history.
+%%^End%%

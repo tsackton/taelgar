@@ -1,4 +1,6 @@
 ---
+lintedAt: "2026-10-18T23:43:15-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
 name: PC Index
 dm_owner: none
@@ -179,3 +181,7 @@ Missing party affiliations or ambiguous titles prevent these characters from bei
 ```dataviewjs
 await dv.view("_scripts/view/pc_index", {"mode": "roles"});
 ```
+
+%%^povNotes:v1%%
+Temporal coverage: an undated administrative index spanning campaigns; its role and control definitions supply no in-world modern, decade, or year reading position.
+%%^End%%

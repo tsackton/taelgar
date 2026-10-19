@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+lintedAt: "2026-10-19T00:14:58-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-pronunciation: pry-KAHN-tee VEE-gel-ays
+tags: [group]
 typeOf: city watch
-ancestry: Chardonian
 typeOfAlias: mage guard
+ancestry: Chardonian
+name: Praecanti Vigiles
+pronunciation: pry-KAHN-tee VEE-gel-ays
 whereabouts: Chardon
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Praecanti Vigiles
 *(pry-KAHN-tee VEE-gel-ays)*
@@ -24,3 +28,11 @@ The Praecanti Vigiles, often called "the Vigiles" or the mage guard, are the pub
 Behind the assumption they are under the command of the Magistros in some fashion, the details of the mage guard are very unclear
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Praecanti Vigiles, language: unknown, pronunciation: pry-KAHN-tee VEE-gel-ays, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern description of Chardon's magical city watch and local defense force.
+%%^End%%

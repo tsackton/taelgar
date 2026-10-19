@@ -1,24 +1,27 @@
 ---
 headerVersion: 2023.11.25
-tags: [ancestry]
-displayDefaults: {defArt: the, boxInfo: One of the <partOf:1UA>, wHome: ""}
-partOf: Elderwood Tribes
+lintedAt: "2026-10-19T00:14:58-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the, boxInfo: "One of the <partOf:1UA>", wHome: ""}
+tags: [ancestry, status/check/lint]
 typeOf: tribe
-whereabouts: Elderwood
-name: Baz'aku
-dm_notes: none
-dm_owner: none
+partOf: Elderwood Tribes
+name: "Baz'aku"
 pronunciation: bahz-ah-KOO
+whereabouts: Elderwood
+dm_owner: none
+dm_notes: none
+POV: 1749
 ---
 # The Baz'aku
 *(bahz-ah-KOO)*
 >[!info]+ Information  
-> One of the the [[Elderwood Tribes|Elderwood Tribes of the Deno'qai]]  
+> One of the [[Elderwood Tribes|Elderwood Tribes of the Deno'qai]]
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
- %% Written from DR (POV:: 1749) point of view %%
+ %% Written from DR 1749 point of view %%
 
-The Baz'aku are a [[Deno'qai]] tribe living on the edges of the [[Elderwood]], near the [[Chasa River Valley]]. Historically, they were traders and merchants and middleman, acting as intermediaries between the [[Chardonian Empire]] and the [[Bek'eni]], [[Te'kula|Te'kula]], and other forest tribes, trading furs, rare herbs, and other forest products. Under [[Mezzar|Grimbaskal]]'s influence, the Baz'aku increasingly turned to raiding, targeting merchant caravans and Chardonian forester camps, and prompting Chardonian military buildup. Now, following [[Mezzar|Grimbaskal]]'s defeat, the tribe has fallen into conflict. While many Baz'aku wish to return to a peaceful coexistence with Chardon, a vocal faction sees profit in continuing to raid. 
+The Baz'aku are a [[Deno'qai]] tribe living on the edges of the [[Elderwood]], near the [[Chasa River Valley]]. Historically, they were traders and merchants and middlemen, acting as intermediaries between the [[Chardonian Empire]] and the [[Bek'eni]], [[Te'kula|Te'kula]], and other forest tribes, trading furs, rare herbs, and other forest products. Under [[Mezzar|Grimbaskal]]'s influence, the Baz'aku increasingly turned to raiding, targeting merchant caravans and Chardonian forester camps, and prompting Chardonian military buildup. Now, following [[Mezzar|Grimbaskal]]'s defeat, the tribe has fallen into conflict. While many Baz'aku wish to return to a peaceful coexistence with Chardon, a vocal faction sees profit in continuing to raid.
 
 ## Territory and Settlements
 
@@ -69,3 +72,37 @@ In most cases, party should probably be led to the main village / "capitol" when
 Mostly will be happy to see elf, especially curious about where he is from and if the elves are coming back to the Elderwood ever. Depends of course on exact means of introduction.
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Baz'aku", "language": "unknown", "pronunciation": "bahz-ah-KOO", "status": "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1749 snapshot of the Baz'aku after Grimbaskal's death in DR 1748, with earlier trade and raiding history; the preserved DM notes describe the earlier period of his influence.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Quoted the display template containing a colon so the existing frontmatter parses, then normalized field order without changing the template's value.
+- Added persistent name metadata with the accepted pronunciation and migrated the legacy inline POV to `POV: 1749`, recording the post-Grimbaskal snapshot.
+- Removed the duplicated “the” in the header and corrected plural “middleman” to “middlemen”.
+
+### Validated judgments
+- The visible account supplies a proportionate account of territory, settlements, commerce, factional divisions, and the aftermath of Grimbaskal's death.
+- The ordinary historical-POV comment is editorial guidance. The preserved DM section was reviewed separately from local-only evidence; local recoveries remain in the private handoff and do not change `dm_notes: none`.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** In the comment headed “Preserving old DM notes for posterity”, the opening historical-trade account and the statement “There are two factions within the Baz'aku - the war faction and the peace faction” repeat the visible introduction and Local Culture section. Retain the archival intent while separating repeated reference facts from distinct earlier-period DM guidance. Bounded proposal: replace the repeated trade-and-faction summary with “Historical trade and the war/peace division are summarized in the visible article above; the following notes preserve earlier DM context.” Keep the remaining distinct private guidance and encounter possibilities hidden and explicitly historical; do not promote them automatically.
+
+### DM evidence
+- [[_DM_/Timelines/NPC Travels]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Elderwood Arc NPCs]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part II Finding the Te'kula/Arendum (OneNote)]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part II Finding the Te'kula/Baz'aku (OneNote)]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part II Finding the Te'kula/Flowchart - Elderwood Part 2]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part II Finding the Te'kula/Tinitaka (Elderwood)]]
+- [[_DM_/_Dunmari Frontier/Pre-Session-63/Events Since Chardon]]
+%%^End%%

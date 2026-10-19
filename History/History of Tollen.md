@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+lintedAt: "2026-10-18T23:48:18-04:00"
+lintVersion: "3.5"
+tags: [background, status/check/lint]
+name: History of Tollen
 dm_owner: tim
 dm_notes: none
+POV: modern
 ---
 # History of Tollen
 
@@ -34,7 +38,7 @@ Generally, the Founding Era should mostly function as part of the myth of Tollen
 
 A possibility: What if the earliest settlers of Tollen were explicitly the misfits and dissatisfied with the mariner culture, perhaps following [[Kaikkea]] specifically and rejecting the larger mariner pantheon, whatever it was. A bit of a Roger Williams or some of the other 'free thinker' early New England settlers vibe. 
 
-Development into a mercantile culture: From that earliest point, Tollen gains a reputation as a free-wheeling place of stories and misfits and those who are looking for a new life. And with them comes the curious from other cultures, and it turns out the northerners and the mariners have a lot to sell each other, so then comes the merchants.
+Development into a mercantile culture: From that earliest point, Tollen gains a reputation as a free-wheeling place of stories and misfits and those who are looking for a new life. And with them comes the curious from other cultures, and it turns out the northerners and the mariners have a lot to sell each other, so then come the merchants.
 
 %%^End%%
 
@@ -74,11 +78,11 @@ After 402, Tollen increasingly comes under Drankorian influence, and is effectiv
 
 #### Ideas
 
-Limits of Skaer influence: Although Tollen largely becomes a Skaer city, some ancient institutions of storytellers, knowledge seekers, and free-thinkers maintain their place in the city (need some kind of event to make this work out), and Tollen remains a place where the Skaer religion does not hold sway entirely. Tollen grows as a Skaer city and center of commerce., but many supposedly ancient institutions survive in the city, although who really knows how many are truly ancient, as opposed to institutions that invented ancient roots to gain prestige or maintain independence from the Skagen protectorate.
+Limits of Skaer influence: Although Tollen largely becomes a Skaer city, some ancient institutions of storytellers, knowledge seekers, and free-thinkers maintain their place in the city (need some kind of event to make this work out), and Tollen remains a place where the Skaer religion does not hold sway entirely. Tollen grows as a Skaer city and center of commerce, but many supposedly ancient institutions survive in the city, although who really knows how many are truly ancient, as opposed to institutions that invented ancient roots to gain prestige or maintain independence from the Skagen protectorate.
 
 Role in the [[Treaty of Marhavn]]: Maybe Tollen is the architect of the treaty, and maybe there are reasons why. A storm giant foretold the end of [[Drankorian Empire|Drankor]] if they expanded past the Voltra, and Tollen had evidence? Some kind of divine intervention, the divinities of Mos Numera insisted Tollen remain free? Maybe there is something special about the place that makes all the various gods of Taelgar keen to ensure it is never fully controlled by a single set of gods. Maybe this is some other kind of magical great power connection, either divine, or perhaps something connected to dragons or giants or elementals. 
 
-If the Drankorians and the Skaer are at war: Perhaps it is Tollen that brokers a peace treaty, earning an uneasy freedom from both the Drankorians, who refrain from formally conqueoring the city in exchange for de facto control of its foreign policy, and from the Skaer, who are forbidden from sailing up the Voltra.
+If the Drankorians and the Skaer are at war: Perhaps it is Tollen that brokers a peace treaty, earning an uneasy freedom from both the Drankorians, who refrain from formally conquering the city in exchange for de facto control of its foreign policy, and from the Skaer, who are forbidden from sailing up the Voltra.
 
 
 %%^End%%
@@ -86,13 +90,13 @@ If the Drankorians and the Skaer are at war: Perhaps it is Tollen that brokers 
 ## Age of Drankor
 _DR 402 - DR 1059_
 
-The [[Treaty of Marhavn]] establishes the [[Volta]] as the northern border of the [[Drankorian Empire]]. Though [[Tollen]], on the north bank, is not under Drankorian governence, [[Skaer]] warships are forbidden to sail the [[Volta]], leaving [[Tollen]] deeply reliant on the [[Drankorian Empire]] for protection. In practice, it becomes a Drankorian protectorate during the early part of the Age of Drankor. Throughout this period, though, Tollen retains its place as a cultural mixing ground, where many languages can be heard, and temples to the [[Mos Numena|Eight Divines]] coexist with those dedicated to [[Kaikkea]]. %%There are presumably also followers of Kestavan traditions here as well, but not clear that they would build temples or if there are/were Kestavo shrines in Tollen.%%  The [[Skaer]], though they diminish in power and influence, retain control over the [[Temple of Kaikkea]] and continue to maintain an important presence in the city. 
+The [[Treaty of Marhavn]] establishes the [[Volta]] as the northern border of the [[Drankorian Empire]]. Though [[Tollen]], on the north bank, is not under Drankorian governance, [[Skaer]] warships are forbidden to sail the [[Volta]], leaving [[Tollen]] deeply reliant on the [[Drankorian Empire]] for protection. In practice, it becomes a Drankorian protectorate during the early part of the Age of Drankor. Throughout this period, though, Tollen retains its place as a cultural mixing ground, where many languages can be heard, and temples to the [[Mos Numena|Eight Divines]] coexist with those dedicated to [[Kaikkea]]. %%There are presumably also followers of Kestavan traditions here as well, but not clear that they would build temples or if there are/were Kestavo shrines in Tollen.%%  The [[Skaer]], though they diminish in power and influence, retain control over the [[Temple of Kaikkea]] and continue to maintain an important presence in the city.
 
 This is a time of significant expansion for the city. The [[Tollen Bridge]] is constructed during this era by the Drankorians, as are the first stone walls of the city. [[Nordgate]], established around the original north gate of the city; [[Bridgeward]] and [[Southbridge]], on the north and south sides of the Tollen Bridge; and [[Magus Street]], east of the older Skaer districts and away from the river, all date to this era. Bridgeward was a major commercial district during this era, and retains some of that character today, while Southbridge and Nordgate retain little of their ancient character. %%Unclear about Magus Street; depends a lot on when University of Tollen is founded, which is TBD%%
 
 The Age of Drankor in Tollen ends when Drankor falls to the [[First Plague]] in DR 1059. 
 
-- (DR:: 1059): The [[Fall of Drankor]] and the First Plague ends the Age of Drankor in Tollen
+- (DR:: 1059): The [[Fall of Drankor]] and the First Plague end the Age of Drankor in Tollen
 
 %%^Campaign:none%%
 ### DM Notes
@@ -122,7 +126,7 @@ _DR 1059 - DR 1695_
 
 Tollen first came to prominence as a small part of the Skaer empire, and grew as a city under the shadow of the Drankorian Empire. After the [[Fall of Drankor]], it truly became a free city. Though little is recorded from the years immediately after the [[Fall of Drankor]], by the time modern Sembara is established under [[Derik I]], Tollen is a significant regional power, and during the [[Great War]], Tollen is an ally to [[Derik III]]. After the Great War, with the decline of [[Cymea]] as a maritime power, Tollen's navy grows in strength and the city begins to project strength throughout the [[Western Gulf]] and the [[Straits of Cymea]]. 
 
-During this long history, Tollen expanded in several waves. As the city grows, the walls are expanded to the north and west, incorporating [[Godshome]] and [[Guildgate]] into the city. In the years before the Great War, the walls are expanded again, and [[Fat Brook]] is covered; the western part of [[Guildgate]] (formerly Guildgate Outer) is enclosed in the walls at this point, as are the districts of [[Fairgate Inner]] (then simply Fairgate) and [[Haurhill]], encompassing the hill where an old Drankorian fort once stood on the height of land above the [[Little River]]. In this period, sometime near the time of the Great War, the [[Battery]] ward, on the south bank of the Volta, is constructed to strengthen the defense the city. 
+During this long history, Tollen expanded in several waves. As the city grows, the walls are expanded to the north and west, incorporating [[Godshome]] and [[Guildgate]] into the city. In the years before the Great War, the walls are expanded again, and [[Fat Brook]] is covered; the western part of [[Guildgate]] (formerly Guildgate Outer) is enclosed in the walls at this point, as are the districts of [[Fairgate Inner]] (then simply Fairgate) and [[Haurhill]], encompassing the hill where an old Drankorian fort once stood on the height of land above the [[Little River]]. In this period, sometime near the time of the Great War, the [[Battery]] ward, on the south bank of the Volta, is constructed to strengthen the defense of the city.
 
 The end of this period is dated to the beginning of Tollish attempts to control Western Cymea.  
 
@@ -135,7 +139,7 @@ _Note this is a long stretch of time; it is likely this period should be subdivi
 #### Basic Vibes
 There is very little developed about Tollen during this time period. However, the key vibes are:
 - The city keeps growing - it is never sacked and likely never even occupied, though there is space for some complications around this especially during the first few hundred years post-Drankor; a few possible near-misses might be useful. 
-- However, until the end of this time, it is generally not a major maritime power. Before the Great War, Cymea, and to a lesser extent the Skaer, dominant the Western Gulf. That said, it probably needs to have some shipbuilding and at least a river fleet or a locally important navy, even if it is not projecting naval power out of the Gulf of Tollen. 
+- However, until the end of this time, it is generally not a major maritime power. Before the Great War, Cymea, and to a lesser extent the Skaer, dominate the Western Gulf. That said, it probably needs to have some shipbuilding and at least a river fleet or a locally important navy, even if it is not projecting naval power out of the Gulf of Tollen.
 
 It is not clear exactly who has navies on the Western Gulf after the Great War; this could be Tollen, though canonically Tollen does not begin to control territory across the gulf in Cymea until 1695. The 1695 date is arbitrary, but should be considered canon in order to have a loose scaffold to build from; a date in this rough range is required for the backstory to the [[Labyrinths of the Lost]]. 
 
@@ -169,7 +173,23 @@ The most important vibe is the shift from a local power to a regional one, and t
 
 %%^End%%
 
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern retrospective history from the pre-Downfall founding through the rise of Tollish naval power after DR 1695; dates for some urban expansions remain uncertain.
+%%^End%%
 
+%%^Lint%%
+## Taelgar note lint
 
+### Applied changes
+- Added the explicit name and modern retrospective POV with temporal notes.
+- Corrected seven objective typos, agreement errors, missing-word errors, and a doubled punctuation mark; left historical present and intentional informal planning style intact.
 
+### Validated judgments
+- The visible chronicle supplies an account for each major era and is sufficient for its history-overview role.
+- Undeveloped possibilities in the DM notes remain provisional; incidental campaign visits do not require new historical coverage.
 
+### Open findings
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The Skaer Empire private block, under "Influence on Modern Tollen," contains a developed description of the early city that adds specific urban and commercial context beyond the visible port summary. Candidate for human adoption: "At the height of Skaer rule, Tollen was a small city on the north bank of the [[Volta]], protected by an embankment and wooden wall. It served chiefly as a port for timber and other goods from the Volta watershed." Confirm this hidden account before publication. Keep the separate treaty possibilities, Aesgan identity questions, and other unresolved development guidance private.
+- [ ] **Suggestion — editorial.shared_material_redundant:** In the Age of Drankor DM block, the standalone paragraphs beginning "The existence of an ancient temple" and "The existence of a Drankorian fort" substantially repeat the visible temple continuity and Haurhill fort account. Remove those two reminders, or retain only any distinct source/continuity guidance. Preserve the surrounding unresolved language, guild, tattoo, and historical-development questions; no wholesale deletion of the block is proposed.
+%%^End%%

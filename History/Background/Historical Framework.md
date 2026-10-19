@@ -1,8 +1,12 @@
 ---
-tags: [background]
+lintedAt: "2026-10-18T23:48:18-04:00"
+lintVersion: "3.5"
+tags: [background, status/check/lint]
+name: Historical Framework
+excludePublish: [all]
 dm_owner: joint
 dm_notes: none
-excludePublish: ["all"]
+POV: modern
 ---
 # History of Taelgar
 
@@ -48,9 +52,9 @@ Prior to the [[Riving]] time itself did not exist, and therefore events are hard
 * The [[Divine Presence]] and the [[Void Mind]] both, in some fashion, came to be, either at the start of, or during, this period
 * Highly powerful magical entities, distinct from the [[Divine Presence]], existed, and included at least (and probably only), some predecessor form of [[Dragons]], [[Fey]], [[Giants]], and [[Elementals]]. What forms these powerful creatures took is not clear or canonical. It is possible that the list above is incomplete. These might powerful beings of magic, perhaps, born some similarity to their modern day echoes, but perhaps did not. %% Prior invention has referred to elder wyrms, archfey, titans, and elder elementals but it is not clear these categories need to be strictly canonical %%
 - There are no gods but the [[Divine Presence]], and no humanoids. All that exists are the magical beings that are the predecessors of the Children of the Riving %% note this is outdated and not accurate to the current metaphysics %%
-- The form of the world is totally unfixed, as the powerful entities who live on what is Taelgar then use magic to constantly reshape the world into their imagining, and linear causality does not necessary work the way humanoid minds expect. 
+- The form of the world is totally unfixed, as the powerful entities who live on what is Taelgar then use magic to constantly reshape the world into their imagining, and linear causality does not necessarily work the way humanoid minds expect.
 
-In general this period should feel mythic and transitory should rarely if ever be the source of a specific event. It may appear in the stories of some sentient races, in particular the [[Giants]] and [[Fey]]. The world can be reshaped with a thought or a gesture and magic is so powerful that the idea of a single, stable reality is questionable in this period. 
+In general this period should feel mythic and transitory and should rarely if ever be the source of a specific event. It may appear in the stories of some sentient races, in particular the [[Giants]] and [[Fey]]. The world can be reshaped with a thought or a gesture and magic is so powerful that the idea of a single, stable reality is questionable in this period.
 
 %% The last arc of the Dunmar Frontier campaign introduced a war between the forces of Limbo/chaos and something else, assumed to be order/Mechanus by the players but poorly defined in-game. The forces of chaos were defeated during this war, and exiled to Limbo where they could not hold a form and turned into massive chaos storms that grew and then split into tiny fragments and then grew again in an endless cycle. However, it is unclear if this war took place before time begain, or somehow during the Riving. %%
 
@@ -74,7 +78,7 @@ The earliest years of history are dominated by the growth and learning of the fi
 
 %% The below is meant to be one possible story. Outside of [[Alcarinque]], nothing is strictly canonical. See [[Historical Framework - Open Questions#Earliest Empires]] for some questions about the narrative below %%
 
-* The elves, while never very numerous, possessed great wisdom, exceptionally long lifespans, and a powerful command of magic. These traits made the elves the undisputed ruler of the time, and they founded two great empires. In the north, the kingdom of [[Alcarinque|Alcarinquë]]. grew to stretch from the forests south of [[Sentinel Range|Sentinels]] to the Mostreve Hills and the Cymean foothills. In the south, the kingdom of Tinwerquë spread from sea to sea in the tropical and subtropical forests south of the great savannahs of the interior.  %% Note: Tinwerquë is probably real, but is not definitively canonical %%
+* The elves, while never very numerous, possessed great wisdom, exceptionally long lifespans, and a powerful command of magic. These traits made the elves the undisputed ruler of the time, and they founded two great empires. In the north, the kingdom of [[Alcarinque|Alcarinquë]] grew to stretch from the forests south of [[Sentinel Range|Sentinels]] to the Mostreve Hills and the Cymean foothills. In the south, the kingdom of Tinwerquë spread from sea to sea in the tropical and subtropical forests south of the great savannahs of the interior.  %% Note: Tinwerquë is probably real, but is not definitively canonical %%
 * The stoneborn, even less numerous than elves, and always reclusive, do not figure greatly in the stories that remain from these times. As always, the stoneborn hid away in their barren retreats, in the high peaks, the frozen north, and the depths of deserts. However, legends of great masters of art and craft, trained by the Stoneborn, demonstrate the mark they still made on the world.  
 * The lizardfolk remained largely in their homelands, in the vast coastal swamps of the southern [[Green Sea]], stretching from north of what is now the great desert all the way to the Sembaran lowlands.
 * The dwarves grew quickly after they awoke under the [[Sentinel Range]], known to them as [[Sentinel Range|Labkhan]], and began to build great halls, delving deeper underground. In these early years, the dwarves were little seen to the outside world, as their underground kingdoms slowly grew to span all of [[Sentinel Range|Labkhan]], from the far north to the borders of [[Alcarinque|Alcarinquë]]. But by the time Hkar was raised, they were beginning to stretch out, moving to new mountains in the east and west and north, beginning to excavate and build again. 
@@ -84,11 +88,10 @@ The earliest years of history are dominated by the growth and learning of the fi
 
 In general, this period should feel safe and secure. It is a good period to locate substantial non-human achievements.
 ## Creation of the Humans
-_1520 by the Dwarven Count of Years
-_
+_1520 by the Dwarven Count of Years_
 %% Note this date is not strictly canonical but is a good approximation.  See [[Historical Framework - Discussions#Timing of Creation of Humans]] for background %%
 
-The island of [[Hkar]] was raised by the [[Divine Presence]] to be the locus of creation and homeland of humanity, and humanity is created there. Humanity is something new, the first sentience race created with the [[Divine Spark]], the ability to imagine new gods and even [[Spiritual Realms]] into existence. The first humans are isolated on [[Hkar]], and they have little impact on the larger history of Taelgar or some time. But even in the earliest days, the [[Divine Spark]] of humanity beings to impact the wider [[Multiverse]].
+The island of [[Hkar]] was raised by the [[Divine Presence]] to be the locus of creation and homeland of humanity, and humanity is created there. Humanity is something new, the first sentient race created with the [[Divine Spark]], the ability to imagine new gods and even [[Spiritual Realms]] into existence. The first humans are isolated on [[Hkar]], and they have little impact on the larger history of Taelgar for some time. But even in the earliest days, the [[Divine Spark]] of humanity begins to impact the wider [[Multiverse]].
 
 %% Some consideration of how this plays out is discussed in [[Religious History of Taelgar]] %%
 
@@ -97,19 +100,19 @@ Either at this point, or perhaps sometime after, the [[Void Mind]] creates [[Gob
 ## Pre-Downfall History
 _1520 - 4122 by the Dwarven Count of Years_
 
-The long period between the creation of humanity and the Downfall aligns with the grow and expansion of humanity, and in many ways the growth of humanity, and humanity's interaction with the non-human races, is the most important story of this period. The specific history of Hkar is intentionally left blank, although there are some events that are dated back to Hkar (in particular, the story of  [[Sarqon]] and the [[Chainshroud]] as recounted by the [[Philosopher's Information Concerning Binding Stones]]). Instead, it is best to understand the events on Hkar via the influences they had on religious history, and the migrations from Hkar (which then had significant effects on the development of other human cultures outside of Hkar).
+The long period between the creation of humanity and the Downfall aligns with the growth and expansion of humanity, and in many ways the growth of humanity, and humanity's interaction with the non-human races, is the most important story of this period. The specific history of Hkar is intentionally left blank, although there are some events that are dated back to Hkar (in particular, the story of  [[Sarqon]] and the [[Chainshroud]] as recounted by the [[Philosopher's Information Concerning Binding Stones]]). Instead, it is best to understand the events on Hkar via the influences they had on religious history, and the migrations from Hkar (which then had significant effects on the development of other human cultures outside of Hkar).
 
 The history of the mainland of Taelgar in this period is largely blank. However, at some point - after the creation of humanity but before 3000 - the [[Embodied Gods]] sense a turn in the air, a feeling of coming darkness, a premonition, but lacking detail. 
 
 %%exact timing of the sense of forboding is not canonically determined, but the vibe is supposed to be a long period during which most elves discount the dangers predicted, or image it to be about the strange rumors of alien minds in the underdark. whether stoneborn/halflings/lizardfolk are impacted is left undetermined %%
 
 * Among the elves, warnings of danger from [[Elmerca]] begin, and while the elven empires turn to prepare for war, no dangers materialize. Over time, the influence of the [[~Wardens of Elmerca~]] fade, though the premonitions don't cease. The [[~Wardens of Elmerca~]] persist as a small, somewhat isolated group, warning of a great danger that never seems to come, while elven society seems to move on around and without them.
-* Among the Dwarves, the warnings begin among the [[~Cult of the Warrior~]], a small group who claim that the Bahrazel known as Azar (maybe originall the Prophet), is calling them to a new thuhr, a warrior thuhr, to defend the safety of the dwarven people. Dwarven society splits among those who turn to fortifications and defense, and those who wish to flee the mountains, for few dare to reject warnings of Azar. For several generations, there is stasis, and debate, until the first wars between the mind flayers and the dwarves erupt deep beneath the earth. Many dwarves, who later become the gnomes, flee the mountains. Many others stay, and fortify their homes. The warrior thuhr becomes established as the defender of dwarven society, deep below the earth.  %% this is one version of events, could be edited / elaborated on; in any case the vibe is supposed to be that the underdark is dangerous but the surface world is not%%
+* Among the Dwarves, the warnings begin among the [[~Cult of the Warrior~]], a small group who claim that the Bahrazel known as Azar (maybe originally the Prophet), is calling them to a new thuhr, a warrior thuhr, to defend the safety of the dwarven people. Dwarven society splits among those who turn to fortifications and defense, and those who wish to flee the mountains, for few dare to reject warnings of Azar. For several generations, there is stasis, and debate, until the first wars between the mind flayers and the dwarves erupt deep beneath the earth. Many dwarves, who later become the gnomes, flee the mountains. Many others stay, and fortify their homes. The warrior thuhr becomes established as the defender of dwarven society, deep below the earth.  %% this is one version of events, could be edited / elaborated on; in any case the vibe is supposed to be that the underdark is dangerous but the surface world is not%%
 
 Additionally, during this period, but without canonically determined dates:
 * [[Thark]] creates the [[Orcs]]
 * the [[Void Mind]] creates the [[Goblinoids]]
-* Cracks to the [[Far Realms]] appear, and [[Ithilids]] and other creatures being to invade the deeper and isolated parts of Taelgar
+* Cracks to the [[Far Realms]] appear, and [[Ithilids]] and other creatures begin to invade the deeper and isolated parts of Taelgar
 #### Growth of Humanity
 *roughly 1520-2200, about 700 years*
 
@@ -185,7 +188,7 @@ _4000 - 4133 by the Dwarven Count of Years_
 ![[world-map-history-pre-Downfall.png]]
 
 * Vast non-human civilizations that dominate the land (the area inside the green borders), although the specific details of where, i.e. the elven forest vs the lizardfolk swamp vs the dwarven mountain kingdoms is not canonical
-* A arcane human civilization on [[Hkar]] worshipping [[Mos Numena]] (not pictured, to the south and west)
+* An arcane human civilization on [[Hkar]] worshipping [[Mos Numena]] (not pictured, to the south and west)
 * Scattered humans along the west coast and far north, mostly isolated from Hkar and following [[Northern Folk Religions]]. These are the ancestors of the [[Zimka]], [[Deno'qai]], [[Vargaldi]] and other similar [[Northerners|northerners]] but whether i.e. Deno'qai culture exists in a recognizable form is not clear. The general area is marked with brown arrows, but expansion could have started farther south and continued in the same logical patterns. The only canonical part is that these northerners have not penetrated into the Green Sea outside of the [[Western Gulf]]
 * An undefined set of human cultures along the [[Eastern Green Sea]], dominated by the mariner culture (known clusters in blue circles, unknown as blue question marks - some of the unknown cultures could have other influences, i.e. from unique migrations or the canonically undefined Southerns, but the northerners would not have reached the Eastern Green Sea by the Downfall)
 * A handful of unique cultures, already canonically established: the Skaer, in the Western Green Sea; the Zimka, in the Sembaran highlands, the Tyrwinghans, in Tyrwingha, and the Dunmari, somewhere to the east (marked with an S, Z, T, and D). The Dunmari do not have a canonical location other than "east of the non-human circle"
@@ -195,7 +198,7 @@ _4000 - 4133 by the Dwarven Count of Years_
 
 The exact length of the [[Downfall Wars]] is not canonical, but it was likely at least two generations of humans. The Downfall itself occurred in CY 4122, but the period immediately before and after were a time of destruction and war. 
 
-The Downfall is a catacylismic event that restructures the very shape of the continents. It is a massive, total war lead by the elven empires, against the forces of the [[Void Mind]], lead by massive [[Hobgoblins|hobgoblin]] armies. Although the exact chronology is unclear, the end result is the sinking of [[Hkar]]. 
+The Downfall is a cataclysmic event that restructures the very shape of the continents. It is a massive, total war led by the elven empires, against the forces of the [[Void Mind]], led by massive [[Hobgoblins|hobgoblin]] armies. Although the exact chronology is unclear, the end result is the sinking of [[Hkar]].
 
 The Downfall had diverse effects on all places and peoples of Taelgar, and is a good boundary to reset from an ancient, mythic past to "history". It saw significant collapse of almost all of the non-human empires, and marked:
 * The end of the age of elves and the continent spanning forest empires they had established
@@ -221,7 +224,7 @@ The basic story of Drankor is supposed to be roughly speaking the story of what 
 
 - The Founding Period through the beginning of the Western Expansion, basically from CY 4133 until CY 4728 - when Oros the Cruel kills his brother to secure his succession as Emperor - should have a vibe of glorious honorable empire protecting humans. Somewhere we have a note or comment to the effect that the Sembaran "conquest" is more "please leave your magical armies here to protect us" than anything else. The accession of Oros the Cruel is supposed to have kind of a "that wasn't supposed to happen here vibe". Exactly how Oros the Cruel is able to co-opt the mechanisms of state is left undetermined. Even though there are contested successions and suspicious deaths earlier, the vibe of these prior cases is supposed to be peacefully contested and suspicious because of something other than the actions of the next Emperor. Note, also, the first four emperors are Peronar, which should have some impact on the early vibes. This would feel almost elven in some ways. 
 - The Western Expansion is prosecuted by three emperors who, to varying degrees, are supposed to be seen by later Drankorians as bad. "Oros the Cruel" and "Thesto the Vengeful" communicate this via their epithets. This is likely a time of substantial unrest in the core of the Empire, but details are not canonical. 
-- Valandros, who ended the western wars, is supposed to represent a return to the historical vision of Drankor as a beacon of hope against supernatural dangers. You have a long period of the empire as largely a force for good in the world, with stable borders, no wars against humans, and possibly multiple wars against extraplanar dangers. However, at his point the seeds of destruction are planted. The empire is huge, and profitable, and the vibe of perfection is cracked. This is probably when groups like Omnis Pura begin growing in secret, and when groups like Occulta Ludum start making "ends justify the means" type arguments. 
+- Valandros, who ended the western wars, is supposed to represent a return to the historical vision of Drankor as a beacon of hope against supernatural dangers. You have a long period of the empire as largely a force for good in the world, with stable borders, no wars against humans, and possibly multiple wars against extraplanar dangers. However, at this point the seeds of destruction are planted. The empire is huge, and profitable, and the vibe of perfection is cracked. This is probably when groups like Omnis Pura begin growing in secret, and when groups like Occulta Ludum start making "ends justify the means" type arguments.
 - Letusas the Quiet and Eiphis the Blind are supposed to be weak emperors who didn't pay attention. "the Blind" is meant to refer to missing the rise of Omnis Pura entirely (could change the epithet to something like "the Clueless"). Eiphis founds the University of Chardon and is perhaps basically an academic. 
 - Helea is a non-Hkaran - her exact cultural origins are undetermined - and the vibe should basically be, she is far sighted and sees the danger of groups like Omnis Pura, but at this point it is too late and when Omnis Pura is seriously threatened, they are able to assassinate Helea instead; Omnis Pura wins the civil war. 
 - Akaston and Persa are poorly defined, but the last four emperors are all pure Omnis Pura, and start prosecuting wars of conquest to the east (details not clear but this includes the war on Rostaure). 
@@ -230,9 +233,9 @@ There is a more detailed timeline of the events within the Drankorian Empire its
 #### Founding Period
 _4133 - 4483 by the Dwarven Count of Years_
 
-The Founding Period had little contact with other human civilizations, and to the extent rumors or other stories spread, Drankor would be characterized as miraculous, and a savior of humanity, and a restorer of the land and scrounge of evil. Contact with [[Rostaure|Rostaurë]] may have been established in this time, and the relationship between Drankor and the elvish realms would have been close and cooperative. The should feel like a golden age, where Drankor rapidly grows rich and powerful as it spreads to fertile river valleys that are completely (or at least mostly) depopulated. A "Europe comes to the New World" vibe (but crucially without there being any indigenous people to kill and murder) might be appropriate. 
+The Founding Period had little contact with other human civilizations, and to the extent rumors or other stories spread, Drankor would be characterized as miraculous, and a savior of humanity, and a restorer of the land and scourge of evil. Contact with [[Rostaure|Rostaurë]] may have been established in this time, and the relationship between Drankor and the elvish realms would have been close and cooperative. This should feel like a golden age, where Drankor rapidly grows rich and powerful as it spreads to fertile river valleys that are completely (or at least mostly) depopulated. A "Europe comes to the New World" vibe (but crucially without there being any indigenous people to kill and murder) might be appropriate.
 
-Canonically, there are few to no humans here - this land primarily was the remains of the elven empire, now deserted - and the river valleys are fertile, so population growth is high. The should result in something like a golden age, where Drankor rapidly grows rich and powerful.
+Canonically, there are few to no humans here - this land primarily was the remains of the elven empire, now deserted - and the river valleys are fertile, so population growth is high. This should result in something like a golden age, where Drankor rapidly grows rich and powerful.
 
 %% There has been no discussion of WHY the elves are gone from [[Alcarinque]], but it is considered canonical that somehow, after the Downfall, there is nothing left save the fragment in [[Orenlas]] %%
 
@@ -251,7 +254,7 @@ Outside of the Drankorian lands:
 %% There is no clear story for when [[Cymea]] and [[~South Cymea~]] are settled by Drankorians -- see [[Drankorian Empire - Open Questions]] %%
 
 ### Expansion East
-_4485 - 4585 by the Dwarven Count of Years__
+_4485 - 4585 by the Dwarven Count of Years_
 
 %% Note: Dates approximate. See [[Canonical Events]] and [[Drankorian Empire#History|the timeline of Drankorian History]] for more information %%
 
@@ -317,3 +320,37 @@ _5678 - 5786 by the Dwarven Count of Years_
 _Since 5786 by the Dwarven Count of Years_
 
 * more current events than history  - world events "sembara peaceful" / dunmar / chardonian expansion
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern retrospective development framework, from the pre-Riving cosmos through headings for the present day; the later historical periods remain incomplete and several ancient sequences are explicitly provisional.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Made the filename-supplied name explicit, normalized frontmatter, and added retrospective temporal metadata.
+- Corrected objective spelling, grammar, and broken emphasis delimiters; retained all dates, canon qualifications, and hidden guidance.
+
+### Validated judgments
+- This is an excluded-from-publication development framework; its authorial planning voice is appropriate to that role.
+- Worldbuilding successor drafts remain provisional and were not used to replace this framework’s canon.
+
+### Editorial assessment
+**Underdeveloped** — The framework promises the world before and after four cataclysms, but its final three sections—“The Rise of Cha'mutte and the Great War,” “The Blood Years,” and “The Present Day”—remain labels and reminders instead of a usable account of the resulting world order. Complete a bounded late-history scaffold using the established war and aftermath, then link regional histories for the modern states.
+
+- Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** The three terminal sections contain no substantive framework for the Great War’s outcome, the Blood Years, or the modern order. [[Great War]] and [[Blood Years]] already establish a minimum scaffold. Copy-ready starting account: “The [[Great War]] ended in DR 1545 with Cha'mutte’s defeat at the [[Battle of Urlich Pass]]. The war and its aftermath reshaped Dunmar, left the Plaguelands in the Green Sea region, destroyed several northern realms, and helped turn Chardon into an imperial capital. The [[Blood Years]] were the roughly fifty years of continuing conflict that followed.” Place these facts in the appropriate sections and complete the modern regional cross-links without presenting still-uninvented transitions as settled.
+
+- [ ] **Warning — correctness.cross_note_conflict:** “Either at this point ... the Void Mind creates Goblinoids” and the later “the Void Mind creates the Goblinoids” retain a unified origin that [[Goblinoids]] explicitly labels unsupported, while [[Metaphysics of Creatures]] distinguishes hobgoblins from goblins with an unknown creation story. Reconcile both occurrences together. Candidate, subject to human acceptance: “The [[Void Mind]] created the [[Hobgoblins]], but the timing is not established. The origin of [[Goblins]] and any relationship to hobgoblins remain unresolved.” Do not turn the proposed alternatives in the source notes into canon.
+
+- [ ] **Warning — correctness.chronology_conflict:** The “Fall of Drankor” paragraph places the Dunmari arrival and establishment of modern Dunmar “almost immediately” after the plague in CY 5192 (DR 1059), while [[Dunmar]] and [[Aatmaji Dynasty]] date the founding to DR 1173. The sources do not establish the intervening migration’s duration. Candidate: “After the [[First Plague]] destroyed the Drankorian Empire in DR 1059, the Dunmari eventually settled its former heartland. [[Bhishma]] founded [[Dunmar]] in DR 1173.” Retain uncertainty about arrival until a chronology is adopted.
+
+- [ ] **Warning — correctness.internal_chronology:** Two period labels need human reconciliation. “Arcane Hegemony” gives roughly CY 3500–4000 but calls that about 600 years; that interval is about 500 years. “The Blood Years” gives CY 5678–5786 (approximately DR 1545–1653 under [[Calendar Eras]]), whereas [[Blood Years]] describes roughly fifty years ending around DR 1600. If the ordinary Blood Years are intended, candidate labels are “roughly 3500–4000, about 500 years” and “5678–approximately 5733 by the Dwarven Count of Years”; otherwise explain the intentionally different scope and adjust the following Present Day boundary consistently.
+
+- [ ] **Suggestion — editorial.prose_clarity:** In “Before the Riving,” “These might powerful beings of magic, perhaps, born some similarity to their modern day echoes, but perhaps did not” is grammatically damaged enough to obscure its uncertainty. Copy-ready candidate: “These powerful beings of magic may have borne some similarity to their modern-day echoes, or they may not have.” This preserves the uncertainty and does not decide the primordial beings’ forms.
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The ordinary comment immediately before “Before Humans” contains a concise developed account of surviving Riving artifacts, also supported by [[Riving]]’s shared guidance. Bringing that bounded point into the framework would connect the creation era to specific surviving objects. Candidate: “The Riving or its aftermath also gave rise to powerful artifacts, including the [[Crown of Purity]] and the [[Heartroot]].” Adopt this sentence or retain it as hidden guidance; do not promote the separate speculative creation sequences.
+%%^End%%

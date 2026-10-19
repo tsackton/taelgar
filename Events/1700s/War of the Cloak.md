@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
+lintedAt: "2026-10-19T00:23:09-04:00"
+lintVersion: "3.5"
+tags: [event, status/check/lint]
+typeOf: war
 timelineDescriptor: War of the Cloak
 DR: 1748-11-27
 DR_end: 1749-01-20
-typeOf: war
+name: War of the Cloak
 whereabouts: Xurkhaz
 dm_owner: tim
 dm_notes: important
+POV: modern
 ---
 # The War of the Cloak
 >[!info]+ Information  
@@ -34,3 +38,31 @@ The war began when [[Grash]] marched east from his bases in Kharsan, aiming to d
 - (DR:: 1749-01-09): Forbiddance becomes permanent on the entire city
 - (DR:: 1749-01-19): Bonecrusher is ready, and is slowly brought forward to pummel the city
 - (DR:: 1749-01-20): Bombardment of Uzgukhar begins at dawn. The [[Battle for Uzgukhar]]. Grash is defeated, and the war ends.
+
+%%^Metadata:names:v1%%
+- {"name": "War of the Cloak", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: modern retrospective history of the war from November DR 1748 through January DR 1749, ending with Grash's defeat.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added a primary name entry with the modern retrospective POV and temporal-coverage note.
+- Recorded the filename-derived explicit name.
+
+### Validated judgments
+- [[Session 88 (DuFr)]] corroborates the January 20, DR 1749 victory and the end of the siege. Its narrative has an isolated 1748 year slip, while its metadata and timeline agree on 1749; that does not require changing this event.
+- Confirmed local evidence supports the positive dm_notes attestation; unrelated folder-name matches are excluded.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** The timeline dates Grash's departure from Kharsan to November 27, DR 1748, while [[Grash]] has his Kharsan whereabouts ending and Garamjala whereabouts beginning on November 28. It also places the army's arrival at Uzgukhar on December 15, while his individual whereabouts begin there on December 14. Confirm whether the individual and army moved separately. If the dates describe the same movements, choose the governing chronology and align the two notes: either retain this timeline's November 27 / December 15 dates and correct Grash's corresponding boundaries, or amend the affected event entries to November 28 / December 14. Both alternatives remain proposals; no date was changed.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Campaign Outline - Arcs and Levels]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Session 103 - DM Notes]]
+%%^End%%

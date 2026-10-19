@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [ancestry]
+lintedAt: "2026-10-19T00:14:58-04:00"
+lintVersion: "3.5"
+tags: [ancestry, status/check/lint]
 name: Northerners
 aliases: [Northlander, Northerner]
-dm_notes: none
 dm_owner: joint
+dm_notes: none
+POV: modern
 ---
 # Northerners
 
@@ -117,4 +120,33 @@ Contradictions and weak points:
 - Mawar should be listed as influenced by northern intercessory traditions unless/until its origin is settled.
 - Deno'qai "no temples" language needs nuance because ritual spaces, altars, and tanshi trees exist.
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Northerners, language: unknown, notes: "Later exonym for the first major migrants from Hkar and their descendants; no shared original endonym is recorded."}
+- {name: Northerner, role: alias, language: unknown, notes: Singular form of the later exonym.}
+- {name: Northlander, role: alias, language: unknown, notes: "Exonym used in some western and Drankorian-influenced contexts."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern cultural-family reference prose with ancient migration history; the descendant cultures are described in their modern forms without implying those forms existed unchanged before the Downfall.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added persistent name and temporal metadata, preserving the documented exonyms and unknown shared endonym.
+
+### Validated judgments
+- The visible note provides a sufficient cultural-family overview: migration, religious commonalities, language relationships, and distinct descendant peoples. It does not require a uniform social or political structure for this deliberately diverse family.
+- Northerners, Northerner, and Northlander are transparent ordinary-language exonyms and need no pronunciation. Their exact source languages remain unestablished.
+- The Mawar and Tollender/Vos comments preserve unresolved classification questions rather than public adoption candidates.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The `AI Research Note` in the shared `Campaign:none` block substantially repeats the completed public article. A bounded cleanup would remove its two `Scope` bullets; the second and third `Core migration facts` bullets (pre-urban religious origins and the west-coast route); the first `Culture and religion` bullet and its three `Surviving branches` sub-bullets; the first `Language` bullet; and the first three `Descendant and influenced cultures` bullets. Those facts are already stated in the introduction, Nomenclature, Origins, Religion, Language, and Northerner Cultures sections. Retain the source list, `Unresolved Points`, distinct chronology and geography details, and unresolved Mawar/funerary cautions; preserve any unique source pointers from the removed bullets in the source list. This removes redundant research narration without adopting the remaining research or losing its uncertainties.
+
+### DM evidence
+- [[_DM_/Staging/Darba (OneNote - v2)]]
 %%^End%%

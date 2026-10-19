@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+lintedAt: "2026-10-18T23:48:18-04:00"
+lintVersion: "3.5"
+tags: [background, status/check/lint]
+name: "Timeline of the Northern Deno'qai"
 dm_owner: none
 dm_notes: none
+POV: 1740s
 ---
 # Timeline of the Northern Deno'qai
 
@@ -41,6 +45,27 @@ Still, slowly connections grow, and over time more rumors come to the [[Shu'anra
 # Recent Events
 After DR 1700
 ### Overview
-In the past four generations, the tribes have grown in relative safety. The [[Shu'anra]] have drifted south, living mostly to the east of the [[Blackwater Fens]], in the low passes of the mountains, trading with dwarves, kenku, and stoneborn. The [[Ko'zula]] have kept the the peaks and icy pine forests on the high slopes. Both tribes have prospered to a certain extent, and no major wars or catastrophes have struck.
+In the past four generations, the tribes have grown in relative safety. The [[Shu'anra]] have drifted south, living mostly to the east of the [[Blackwater Fens]], in the low passes of the mountains, trading with dwarves, kenku, and stoneborn. The [[Ko'zula]] have kept the peaks and icy pine forests on the high slopes. Both tribes have prospered to a certain extent, and no major wars or catastrophes have struck.
 
 %% Left unclear is conflict with Chardon. In the Great Library campaign, the tribes living south of this area (e.g., [[Raha]]) were at least worried about Chardonian encroachment, but it seems unlikely that worry would be a big deal this far north. There are potentially impacts of the black dragon (cf. [[Great Library Session Notes - Arc 4]]) and [[Grumella]] / [[Grumella's War]] but not fully developed and likely peripheral. %%
+
+%%^povNotes:v1%%
+Temporal coverage: a 1740s account of the northern tribes after their retreat and gradual recontact, with approximate earlier periods; the DR 1640 boundary is explicitly tentative and the DR 1748 return of the Meswati is not yet included.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the explicit note name, a 1740s POV, and temporal coverage preserving the tentative DR 1640 boundary.
+- Removed the duplicated “the” from “kept the the peaks.”
+
+### Validated judgments
+- The chronological overview already explains displacement, isolation, and recontact in proportion to its role. Its explicit development gaps do not require invented events.
+- The recent cultural state is consistent with [[Northern Tribes]], [[Shu'anra]], and [[Ko'zula]]; source comments remain noncanonical.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** The Years of Isolation comment calls Ariel’s departure “in the DR 1670s” as a baby and treats arrival in the Elderwood as the same event. [[Ariel]] records birth in DR 1667, departure from the Forest of Dreams in DR 1671, and settlement in the Elderwood in DR 1680. Candidate replacement for that anchor: “The established migration anchor is that [[Ariel]] left the Forest of Dreams with her family in DR 1671, as a young child, and settled in the Elderwood in DR 1680; the beginning of wider northern recontact remains approximate.” Preserve the independent uncertainty around DR 1640.
+- [ ] **Suggestion — editorial.prose_clarity:** The Cha’mutte overview says “Deno'qai scouts raid fight hobgoblin camps,” leaving the intended action grammatically broken. Candidate: “Deno'qai scouts raid hobgoblin camps in the forests south of Pandar, and hobgoblin troops occasionally cross the river to raid Deno'qai villages.” Confirm that raids, rather than a separate kind of battle, are intended; the ambiguous verb sequence was not automatically rewritten.
+%%^End%%

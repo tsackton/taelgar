@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T00:23:09-04:00"
+lintVersion: "3.5"
 tags: [event, status/review]
-name: Great War
 typeOf: war
 timelineDescriptor: Great War
 DR: 1542
 DR_end: 1545
-dm_notes: important
+name: Great War
 dm_owner: tim
+dm_notes: important
+POV: modern
 ---
 # The Great War
 >[!info]+ Information  
@@ -42,4 +45,12 @@ General conceptual requirements:
 - Cha'mutte needs a reason to care deeply about Ulrich monastery, to the extent where he is willing to fight to the death to hold it. Likely involves some kind of extraplanar weak point to divine realms here, or something like that. 
 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Great War, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern retrospective overview of the DR 1542–1545 war and its lasting consequences; the event dates describe the conflict, while the legacy is viewed from the modern era.
 %%^End%%

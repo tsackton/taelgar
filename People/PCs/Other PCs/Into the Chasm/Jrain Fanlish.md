@@ -1,17 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-18T23:43:15-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Zimkovan
 gender: female
+player: Kate Sackton
 name: Jrain Fanlish
 aliases: [Jrain]
 pronunciation: JRAYN FAN-lish
 affiliations: [Chasm Explorers]
 knownTo: [itc]
-player: Kate Sackton
 dm_owner: player
 dm_notes: important
+POV: 1730s
 ---
 # Jrain Fanlish
 *(JRAYN FAN-lish)*
@@ -23,4 +26,8 @@ Jrain Fanlish is a traveler, messenger, and archer who sometimes works with the 
 
 %%^Metadata:names:v1%%
 - {name: Jrain Fanlish, language: Zimkovan, pronunciation: JRAYN FAN-lish, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: her work, hawk companionship, and Chasm Explorers membership around DR 1730; earlier and later periods are not described.
 %%^End%%
