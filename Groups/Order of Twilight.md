@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/gameupdate/gl]
-name: Order of Twilight
+lintedAt: "2026-10-19T07:04:00-04:00"
+lintVersion: "3.5"
+tags: [group, status/gameupdate/gl, status/check/lint]
 typeOf: religious order
+name: Order of Twilight
 dm_owner: none
 dm_notes: none
+POV: 1740s
 ---
 # The Order of Twilight
 >[!info]+ Information  
@@ -21,7 +24,7 @@ In the DR 1730s and 1740s, several dedicated individuals have worked to restore 
 
 Founded as a monastic religious order devoted to the liminal work of the [[The Night Queen]], the Order of Twilight tended hospices and death‑houses, protected the dying, and watched over burials and rest. In older accounts they are described as “protectors and guides of those between life and death,” offering safe places to pray, heal, or die as the gods willed.
 
-They were particularly prevalent in [[Amani]] before the [[Blood Years]], with smaller presences elsewhere in to the south and west. The [[Blood Years]] shattered the order; only a few pockets endured the destruction of [[Amani]]. In recent years scattered survivors and sympathetic clergy have begun restoring sites and memory of the order.
+They were particularly prevalent in [[Amani]] before the [[Blood Years]], with smaller presences elsewhere to the south and west. The [[Blood Years]] shattered the order; only a few pockets endured the destruction of [[Amani]]. In recent years scattered survivors and sympathetic clergy have begun restoring sites and memory of the order.
 
 ## People and Sites
 
@@ -73,3 +76,30 @@ My god forsook me, and I was caught and killed for my crimes.
 But I cannot rest until the temple I destroyed is restored."
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Order of Twilight", "language": "Common", "status": "inferred", "notes": "Plain English descriptive title of the religious order."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1740s restoration-era account, including the Voltara temple’s reconsecration and Xameia’s rest in DR 1747; earlier history is retrospective, and the existing Date:1740 paragraph does not scope all later material.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter without changing its existing values and added persistent name and temporal metadata.
+- Corrected the duplicated preposition in “elsewhere in to the south and west” to “elsewhere to the south and west.”
+
+### Validated judgments
+- The order’s identity, charitable role, destruction, and restoration are present; no central reference dimension requires invention.
+- The local timeline clusters duplicate the dated events in [[Great Library Session Notes - Arc 1]] and add no recoverable material.
+- Status disposition: `status/gameupdate/gl` is not assessable pending the intended temporal treatment and any later planned update; it is preserved.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** In the ordinary “DM Notes” comment, the first three sentences of the “Backstory:” paragraph repeat the visible account of the order’s hospice work, prevalence in Amani, destruction in the Blood Years, and renewed growth. Remove those repeated sentences or retain only a source pointer to the visible history. Keep the distinct final sentence about Galius scouting and recruiting, the encounter instructions, the inscription fragment, and Xameia’s attributed confession as private guidance; do not promote the mixed DM material as a whole.
+
+- [ ] **Warning — temporal.inconsistent_viewpoint:** Only the introductory restoration sentence is protected by `Date:1740`; “People and Sites” includes the completed Voltara restoration and Xameia’s rest without a date boundary. [[Great Library Session Notes - Arc 1]] records the portal closing and the Night Queen’s reward on July 7, DR 1747, whereas the shared restoration timeline in [[Order of Twilight Temple (Voltara)]] says July 6. Confirm the completion day before changing filtered visibility. A bounded option, if the session chronology governs, is to put `%%^Date:1747-07-07%%` immediately before the two People and Sites bullets and `%%^End%%` after them; the broader history and existing restoration paragraph remain outside that new block. Alternatively, retain the undated subsection as an explicitly post-restoration historical account and revise its temporal framing. No date marker was added or moved automatically.
+%%^End%%

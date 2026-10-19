@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+lintedAt: "2026-10-19T07:04:00-04:00"
+lintVersion: "3.5"
 displayDefaults: {boxInfo: "A <typeof> in <home:fr>", wHome: ""}
-name: Ancient and Honorable Guild of Philosophers
-aliases: [Philosopher's Guild]
+tags: [group]
 typeOf: guild
+name: Ancient and Honorable Guild of Philosophers
+aliases: ["Philosopher's Guild"]
 whereabouts: Skepwalk
-dm_notes: important
 dm_owner: tim
+dm_notes: important
+POV: modern
 ---
 # The Ancient and Honorable Guild of Philosophers
 >[!info]+ Information  
@@ -18,16 +21,16 @@ dm_owner: tim
 The Ancient and Honorable Guild of Philosophers is a secretive guild in [[Tollen]], about which many rumors swirl. The members of the guild rarely make themselves known in public, although every year elders from the guild lead the largest of the [[Pyravela]] parades in Tollen. 
 ## Rumors
 
-It is rumored that the Philosopher's Guild is the oldest organization in Tollen, and some even claim that the eldest of the Philosopher's are immortal, or nearly so, and are, themselves, the original inhabitants of the city. Others claim that the guildhall of the Philosopher's Guild pre-dates the founding of Tollen. Whether there is truth to these rumors is not known. 
+It is rumored that the Philosopher's Guild is the oldest organization in Tollen, and some even claim that the eldest of the Philosophers are immortal, or nearly so, and are, themselves, the original inhabitants of the city. Others claim that the guildhall of the Philosopher's Guild pre-dates the founding of Tollen. Whether there is truth to these rumors is not known.
 
 It is common knowledge in [[Tollen]] that the Philosopher's Guild will exchange magic items for information, especially rare and secretive information that is difficult, or impossible, to acquire in any other way. The more powerful and unique the item given is, the better the information received, although no one has ever figured out the precise rules that govern these exchanges. 
 
-People who deal with the guild typically receive letters, arriving by magic and from strange sources, with the information they requested. Whether the writers of these letters are aliases, members of the guild, or something stranger is not know. 
+People who deal with the guild typically receive letters, arriving by magic and from strange sources, with the information they requested. Whether the writers of these letters are aliases, members of the guild, or something stranger is not known.
 
 %%^Campaign:dufr%%
 The [[Dunmar Fellowship]] has received many of these letters, from a variety of strange names:
 - The Flamewarden, the [[Philosopher's Information Concerning Frankar|writer of a letter]] concerning [[Frankar]] and the [[Elemental Plane of Fire]]
-- The Ninth Artificer, the [[Philosopher's Information Concerning Binding Stones|writer of a letter]] concerning an ancient magical item know as the [[Binding Stones]]. 
+- The Ninth Artificer, the [[Philosopher's Information Concerning Binding Stones|writer of a letter]] concerning an ancient magical item known as the [[Binding Stones]].
 - The Forgotten Chronicler, the [[Philosopher's Information Concerning Rodnya Voknaz|writer of a letter]] concerning the history of the [[Rodnya Voknaz]]. 
 - The North Wind, the [[Philosopher's Information Concerning Ursk|writer of a letter]] concerning [[Ursk]]. 
 - The Writhing Chaos, possibly the [[Philosopher's Information Concerning Rai's Hand|writer of a letter]] concerning the [[Jade Piece of Rai's Hand]]. 
@@ -41,3 +44,12 @@ The Ancient and Honorable Order of Philosophers maintains a guild hall in [[Skep
 - [[Delios the Sage]], an elderly scholar with a magic scroll that seems to allow querying information from some mysterious source
 
 %%SECRET[v2:d5a5706e0dd697c9e0bc41d31ed01633]%%
+
+%%^Metadata:names:v1%%
+- {"name": "Ancient and Honorable Guild of Philosophers", "language": "unknown"}
+- {"name": "Philosopher's Guild", "role": "alias", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern account of the guild, its reputation, and customary exchanges; the Dunmar campaign block gives examples of correspondence without changing that durable frame.
+%%^End%%

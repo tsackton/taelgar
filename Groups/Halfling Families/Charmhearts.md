@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+lintedAt: "2026-10-19T07:04:00-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: the}
-name: Charmhearts
-aliases: [Charmheart]
+tags: [group, status/check/lint]
 typeOf: family
 ancestry: halfling
-dm_notes: none
+name: Charmhearts
+aliases: [Charmheart]
 dm_owner: tim
+dm_notes: none
+POV: modern
 ---
 # The Charmhearts
 >[!info]+ Information  
@@ -33,7 +36,7 @@ dv.table(["Person", "Info", "Current Location"],
 %%^End%%
 
 %%^Date:1748%%
-In 1748, the Charmhearts encountered trouble on the road from [[Ausson's Crossing]] to [[Karawa]]. Descending the passes on March 19, 1748, the Charmheart caravan stopped to rest and recover after the hard journey, at a well-used campsite near the old Dunmari fortress called Raven's Hold. [[Ander Charmheart]], a young and sometimes foolish member of the clan, went exploring, and was caught in a wave of demonic energy from a demon summoning. Driven mad, the Charmheart caravan was forced to deal with the situation in [[Karawa]]. 
+In 1748, the Charmhearts encountered trouble on the road from [[Ausson's Crossing]] to [[Karawa]]. Descending the passes on March 19, 1748, the Charmheart caravan stopped to rest and recover after the hard journey, at a well-used campsite near the old Dunmari fortress called Raven's Hold. [[Ander Charmheart]], a young and sometimes foolish member of the clan, went exploring, and was caught in a wave of demonic energy from a demon summoning. With Ander driven mad, the Charmheart caravan was forced to deal with the situation in [[Karawa]].
 
 The demon at Raven's Hold was later killed by [[Dunmar Fellowship]], but [[Ander Charmheart]] only slowly and partially recovered. What is more, during this time, gnoll raiders rampaged across [[Eastern Dunmar]], and little trading was possible. The Charmhearts made their way to [[Tokra]] with crowds of Dunmari refugees, but the sickness and war seriously disrupted their trading year, causing significant losses. Later, they left [[Tokra]] for [[Darba]], hoping for better luck. 
 ## Chronology
@@ -50,6 +53,37 @@ The demon at Raven's Hold was later killed by [[Dunmar Fellowship]], but [[Ander
 
 %% One Note
  
-The Charmheart family of halflings traditionally has made the trip to Dunmar every spring, bringing exotic trade goods and news from Sembara, and the Karawa festival is typically one of their first major stops. This is a serious trading caravan, outfitted for danger, and well-protected. Have a number of goods for sale (apple brandy from Adderfell, spices from farther east via Tollen, furs, wine from Sembara, etc, etc). One of the Charmheart kin, a young man named Ander Charmheart, has taken ill / mad. He is babbling about the master. Bree Charmheart, the matriach of the family, is the main one to talk to strangers. But Callie Charmheart, Ander's sister, will come to the party/Wellby to ask for help. During session 4 they talked to Bree and briefly saw Ander, while Wellby talked to him telepathically.
+The Charmheart family of halflings traditionally has made the trip to Dunmar every spring, bringing exotic trade goods and news from Sembara, and the Karawa festival is typically one of their first major stops. This is a serious trading caravan, outfitted for danger, and well-protected. Have a number of goods for sale (apple brandy from Adderfell, spices from farther east via Tollen, furs, wine from Sembara, etc, etc). One of the Charmheart kin, a young man named Ander Charmheart, has taken ill / mad. He is babbling about the master. Bree Charmheart, the matriarch of the family, is the main one to talk to strangers. But Callie Charmheart, Ander's sister, will come to the party/Wellby to ask for help. During session 4 they talked to Bree and briefly saw Ander, while Wellby talked to him telepathically.
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Charmhearts, language: unknown}
+- {name: Charmheart, role: alias, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern trading traditions, with a separate dated account of the caravan's disruption and travels in DR 1748; no later state is described.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and added persistent name metadata, leaving the name language unknown.
+- Added `POV: modern` and temporal guidance distinguishing the trading traditions from the dated DR 1748 account.
+- Repaired the dangling modifier “Driven mad, the Charmheart caravan” to “With Ander driven mad, the Charmheart caravan,” and corrected “matriach” to “matriarch” in the shared comment.
+
+### Validated judgments
+- Charmhearts is a readily pronounceable English compound family name, also listed in singular form in [[Playing a Halfling]]; no pronunciation aid or unestablished name language is required.
+- The family pages and [[Dunmar Frontier - Session 04]], [[Dunmar Frontier - Session 05]], [[Dunmar Frontier - Session 06]], [[Session 41 (DuFr)]], and the Tokra account in [[Wellby]] support the caravan's family relationships, illness, and disrupted trade. Routine encounters do not require additional reference prose.
+- The Members query is an operational index, with no narrative material to promote.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The shared `One Note` comment repeats the visible account of Sembaran trade, the Karawa festival stop, caravan preparedness, and Ander's illness. Remove only those repeated descriptions; retain the distinct source notes about spices coming via Tollen, Sembaran wine, Bree's role as spokesperson, Callie's request for help, and the session-4 interaction as concise nonpublic source guidance. Preserve the earlier “every spring” route wording for review against the visible year-long Dunmar circuit rather than silently discarding that nuance. This bounded split would leave one reference account while preserving the source's additional and potentially unresolved details.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The Members query uses the legacy opening marker `%%^Campaign:None%%`. The canonical replacement is `%%^Campaign:none%%`, preserving the enclosed query and closing boundary. Retain the current marker until its filtering/export behavior is confirmed or the replacement is approved; it was not changed automatically.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Karawa (Sessions 4-6)/Individual Scenes]]
+%%^End%%

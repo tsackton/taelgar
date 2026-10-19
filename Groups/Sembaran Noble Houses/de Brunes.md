@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [group, status/check/mike]
+lintedAt: "2026-10-19T07:04:00-04:00"
+lintVersion: "3.5"
+tags: [group, status/check/mike, status/check/lint]
+typeOf: family
+name: de Brunes
 dm_owner: joint
 dm_notes: none
-typeOf: family
+POV: 1720s
 ---
 # The De Brunes
 >[!info]+ Information  
@@ -12,7 +16,7 @@ typeOf: family
 
 The de Brunes are a wealthy mercantile family with roots in the [[Enst]] river valley, and a primary manor just outside [[Eskbridge]]. The family maintains outposts and connections along the Enst, including a longstanding presence in the [[Cleenseau Region]]. In recent years, de Brune business in the Cleenseau region has been shaped by [[Catherine de Brune]]’s investments and trade ties.
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ### Members
 ```dataviewjs
 const { util } = customJS
@@ -45,3 +49,28 @@ Not sure if this is real anymore or not, given Addermarch game now set in 1715. 
 - In particular, in the late 1690s-early 1710s they were very much "workers" and managers, trading agents, factors, etc more than their own thing. faciliate others. but this lead to opportunities for growth and in the aftermath of the lich disaster they rapidly grew to prominence
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "de Brunes", "language": "Sembaran", "pronunciation": "duh BROONZ", "status": "proposed", "notes": "Complete plural-family proposal from the accepted duh BROON surname component in [[Fazoth de Brune]], adding an ordinary voiced plural z. The source-given component takes precedence over a fresh French-analogue derivation; the plural family reading awaits confirmation."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: an early-1720s account of the family’s Enst-valley interests and Catherine’s activity in the Cleenseau region; the speculative hidden wealth chronology is not part of the visible account.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the primary name and supported temporal viewpoint with persistent name and temporal metadata.
+- Normalized frontmatter field order and collection formatting.
+- Added the explicit subject name and canonicalized Campaign:None to the equivalent Campaign:none sentinel.
+
+### Validated judgments
+- The visible geographic and mercantile summary is supported by [[Sabine de Brune]], [[Catherine de Brune]], and [[Fazoth de Brune]].
+- The shared secret-cult and wealth-development material remains private and unresolved; no hidden account was promoted.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Confirm the proposed plural-family pronunciation `duh BROONZ`. [[Fazoth de Brune]] explicitly records `fah-ZOTH duh BROON`; that accepted surname supplies `duh BROON`, followed here by an ordinary voiced plural z. This source-given component outranks a fresh French-analogue reading, but the complete collective form is not itself recorded. If accepted, copy the complete reading to frontmatter and mark the entry documented; otherwise revise the plural ending.
+%%^End%%

@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T07:04:00-04:00"
+lintVersion: "3.5"
+displayDefaults: {partOf: "", boxInfo: "", defArt: the}
 tags: [group]
-displayDefaults: {partOf: "", boxInfo: "", defArt: "the"}
 typeOf: family
-whereabouts: Cleenseau
+name: Essfords
 aliases: [Essford]
-dm_notes: none
+whereabouts: Cleenseau
 dm_owner: mike
+dm_notes: none
+POV: modern
 ---
 # The Essfords
 >[!info]+ Information
@@ -17,7 +21,7 @@ A minor landholding family in the [[Enst|Enst River Valley]]. The founder of the
 
 %% Some notes in [[Cleenseau History Notes]] and [[Reginald Essford]] and [[Wymar Essford]] %%
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ### Current Members
 
 ```dataviewjs
@@ -29,7 +33,7 @@ dv.table(["Person", "Info", "Current Location"],
 ```
 %%^End%%
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ### Historical Members
 
 ```dataviewjs
@@ -40,4 +44,13 @@ dv.table(["Person", "Info", "Born", "Died"],
 				.sort(b => b.born)
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<startStatus> <startDate>",b.file, dv.current().pageTargetDate), util.s("<endStatus> <endDate>",b.file, dv.current().pageTargetDate)]))
 ```
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Essfords", "language": "Sembaran", "pronunciation": "ESS-fordz", "status": "documented", "notes": "[[Arthur Essford]] and [[Rinault Essford]] record the accepted surname pronunciation ESS-ford in frontmatter and Sembaran in documented name entries; the family plural adds the ordinary voiced z ending."}
+- {"name": "Essford", "role": "alias", "language": "Sembaran", "pronunciation": "ESS-ford", "status": "documented", "notes": "Accepted surname component in the frontmatter of [[Arthur Essford]] and [[Rinault Essford]]."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern retrospective identification of the family and its founding during the hobgoblin wars; the article does not select a particular present-day family head.
 %%^End%%
