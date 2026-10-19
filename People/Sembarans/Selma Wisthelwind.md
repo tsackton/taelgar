@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/mike, status/check/lint]
+tags: [person]
 species: human
 ancestry: Zimka
 born: 1644
@@ -27,7 +27,6 @@ POV: 1720
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% validate pronunciation, which is based on ChatGPT Baltic-ish interpretation. change status to documented in the name block once you confirm, and copy to frontmatter  %%
 
 ![[selma-wisthelwind.png|right|320]]Selma bought [[The Fox's Flagon]] for cash in DR 1712 and appears to enjoy running the inn as a form of retirement. From what exactly is not clear. She has always been a bit of an outsider in town and is one of the few people who keeps the old [[Kestavo]] religion of [[Zimkova]].
 
