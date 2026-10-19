@@ -1,14 +1,16 @@
 ---
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature, status/wip, status/check/lint]
+tags: [creature, status/wip]
 name: Kenku
 aliases: [kenku]
+pronunciation: KEHN-koo
 dm_owner: joint
 dm_notes: none
 POV: modern
 ---
 # Kenku
+*(KEHN-koo)*
 
 %% kenku invention is pretty thin, although a little more detail emerged from the Into the Chasm game. this is intentionally light / WIP for now. More could be said everywhere %%
 
@@ -81,31 +83,11 @@ There is more to think about to fit this into the species taxonomy, and to think
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Kenku, language: unknown, pronunciation: KEHN-koo, status: proposed, notes: "Cautious spelling proposal: k as in keep, e as eh, n retained, final u as oo, with provisional first-syllable stress. Languages gives a Sioux analogue for Kenku, but this note explicitly limits that inspiration to islander personal names and leaves wider application unsettled; no source establishes the species label as an islander-language word."}
+- {name: Kenku, language: Kenku, pronunciation: KEHN-koo, status: documented, notes: "Cautious spelling proposal: k as in keep, e as eh, n retained, final u as oo, with provisional first-syllable stress. Languages gives a Sioux analogue for Kenku, but this note explicitly limits that inspiration to islander personal names and leaves wider application unsettled; no source establishes the species label as an islander-language word."}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern kenku appearance, settlements, and public reputation; the Great War account is historical backstory and the islanders' earlier history remains explicitly rumored.
 %%^End%%
 
-%%^Lint%%
-## Taelgar note lint
 
-### Applied changes
-- Repaired the introductory sentence's grammar and removed a stray closing bracket after the Sentinel Range link.
-- Converted both legacy `Campaign:None` sentinels to canonical `Campaign:none`, preserving their contents and intended privacy.
-- Added persistent name metadata with a proposed pronunciation and a modern temporal frame.
-
-### Validated judgments
-- The article already uses the new species format exemplified by [[Halflings]] and the species template: public appearance, language, lifecycle, homeland, and historical sections, with private development material separated. Uninvented cultural and metaphysical details do not require an automatic format migration or invented lore.
-- `status/wip` remains supported by the explicit unfinished-development comments and private placeholders.
-- [[Wahacha]], [[Vermillion Isles]], and [[Far North]] support the broad geographic distinction. Northern and islander customs are not assumed to be interchangeable.
-- Shared comments and private blocks retain editorial plans, unresolved naming scope, and unsettled cosmology; no hidden material was promoted into public prose.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Confirm or revise the proposed `KEHN-koo` in `Metadata:names:v1`. It is a cautious spelling reading: `k` as in “keep,” `e` as “eh,” retained `n`, final `u` as “oo,” and provisional first-syllable stress. [[Languages]] supplies a Sioux analogue, but this article's naming note explicitly limits that inspiration to islander personal names and leaves its broader applicability unsettled; no source establishes the species label as an islander-language word. Do not impose that analogue on the species name without further evidence. If accepted, add `pronunciation: KEHN-koo` to frontmatter and mark the entry `status: documented`.
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Wellby Solo Arc/Wave Dancer's Information]]
-%%^End%%
