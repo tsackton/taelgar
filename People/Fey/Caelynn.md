@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person]
 species: fey
 ancestry: null
 campaignInfo:
@@ -10,6 +10,7 @@ campaignInfo:
 born: null
 gender: female
 name: Caelynn the Seer
+pronunciation: KAY-lin thuh SEER
 whereabouts:
   - {type: home, location: Dreamhaven}
   - {type: home, location: Tollen}
@@ -19,6 +20,7 @@ dm_notes: important
 POV: 1740s
 ---
 # Caelynn the Seer
+*(KAY-lin thuh SEER)*
 >[!info]+ Biographical Info  
 > A [[Fey|fey]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
@@ -48,35 +50,17 @@ Many rumors circulate about Caelynn
 
 %%SECRET[v2:3bac978add8c48b751ca5e8732eba928]%%
 
-%%^Metadata:names:v1%%
-- {"name": "Caelynn the Seer", "language": "unknown", "pronunciation": "KYE-lin thuh SEER", "status": "proposed", "notes": "A tentative reading informed by the Classical Greek naming tendency in [[Languages]]: hard c as k, Latinized ae approximating ai as eye, y approximated as i, and initial stress; the Seer is the plain-English title. Sylvan has no fixed analogue, and neither this pronunciation nor the name language is established."}
-%%^End%%
-
-%%^povNotes:v1%%
-Temporal coverage: a DR 1740s portrait of Caelynn living in Tollen, with a dated acquisition in DR 1748; rumors of centuries of residence remain rumors rather than a proven continuous chronology.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter ordering and collection formatting.
-- Added supported campaign knowledge, primary name metadata, and persistent temporal viewpoint metadata.
-- Canonicalized the existing Dunmar campaign code in frontmatter and its equivalent header marker.
-- Corrected the opening misspelling of Caelynn and singular “millennium.”
-
-### Validated judgments
-- Conflicting rumors remain attributed as rumors, preserving uncertainty about her age and abilities.
-- The two home whereabouts entries can encode origin and residence; no move date is invented.
-- Matching local sources support the existing positive dm_notes attestation. The SECRET block was reviewed separately and left unchanged.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Confirm the proposed pronunciation **KYE-lin thuh SEER**. A tentative reading informed by the Classical Greek naming tendency in [[Languages]]: hard c as k, Latinized ae approximating ai as eye, y approximated as i, and initial stress; the Seer is the plain-English title. Sylvan has no fixed analogue, and neither this pronunciation nor the name language is established. If accepted, copy `pronunciation: KYE-lin thuh SEER` to frontmatter and set the name entry to `status: documented`; otherwise revise the proposal and its derivation.
-
-### DM evidence
+%% DM evidence:
 - [[_DM_/Brainstorming/Family Campaign Ideas]]
 - [[_DM_/_Dunmari Frontier/Session 74-75 (Scepter)/In Game Notes]]
 - [[_DM_/_Dunmari Frontier/Session 74-75 (Scepter)/Tollen DM Notes]]
 - [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 76 - DM Notes]]
+%%
+
+%%^Metadata:names:v1%%
+- {"name": "Caelynn the Seer", "language": "Sylvan", "pronunciation": "KAY-lin thuh SEER", "status": "documented", "notes": "A tentative reading informed by the Classical Greek naming tendency in [[Languages]]: hard c as k, Latinized ae approximating ai as eye, y approximated as i, and initial stress; the Seer is the plain-English title. Sylvan has no fixed analogue, and neither this pronunciation nor the name language is established."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1740s portrait of Caelynn living in Tollen, with a dated acquisition in DR 1748; rumors of centuries of residence remain rumors rather than a proven continuous chronology.
 %%^End%%
