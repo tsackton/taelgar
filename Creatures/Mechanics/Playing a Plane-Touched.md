@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta, status/check/mike]
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/mike, status/check/lint]
+name: Playing a Plane-Touched
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Playing a Plane-Touched
-*See more: [[Humans]]
+*See more: [[Humans]]*
 D&D Beyond Link: see Plane-Touched Traits, below
 
 %% check mike for lore - i think the lore here is that these are humans with soulstuff from another plane. invented because one of isaac's friends wanted to play a tiefling but i actually think it fits really well with the soulstuff metaphysics%%
@@ -23,7 +27,7 @@ To create your plane-touched character, consider the nature of the plane that to
 
 Consider also the cause of your plane-touched nature. Do you know what happened to you, or do you still wonder? How does your character view their plane-touched nature? Is it a curse, a blessing, or something more complicated?
 
-Finally, consider where you came from, perhaps referencing the [[Playing a Human]] document for ideas. After all, you must have been born into a human family, somewhere in the world. Does your family known your plane-touched nature? Do they accept you, or are you an outcast?
+Finally, consider where you came from, perhaps referencing the [[Playing a Human]] document for ideas. After all, you must have been born into a human family, somewhere in the world. Does your family know your plane-touched nature? Do they accept you, or are you an outcast?
 
 ### Plane-touched Names
 
@@ -88,7 +92,7 @@ Your plane-touched nature changes you. You gain one of the following benefits th
 - *Darkvision (Earth, Fire):* You have [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) with a range of 60 feet.
 - *(Water, Air):* ***????***
 - *Unending Breath (Air):* You can hold your breath indefinitely as long as you are not Incapacitated. 
-- *Amphibious (Water):* You have a Swim Speed equal to your Speed, and you can breath air and water. 
+- *Amphibious (Water):* You have a Swim Speed equal to your Speed, and you can breathe air and water.
 - *Summon Flame (Fire):* As a Magic action, you can summon a flickering flame to your hand. This flame can ignite flammable objects that you touch, and it also sheds Bright Light in a 20 foot radius and Dim Light for an additional 20 feet. The flame disappears when you dismiss it (no action required). You must have a free hand to summon this flame. 
 - *Earth Walk (Earth):* You can move across Difficult Terrain caused by earth or stone, including rubble, narrow openings in earth or stone, and earthen or stone slopes, without expending extra movement. 
 
@@ -107,4 +111,24 @@ When you reach character levels 3 and 5, you learn a higher-level spell, as show
 | Water  | You have Resistance to Acid damage. You also know the Shape Water cantrip.                                                                                                                                                                                                                                                            | Create or Destroy Water | Water Walk  |
 | Air    | You have Resistance to Lightning damage. You also know the Gust cantrip.                                                                                                                                                                                                                                                              | Feather Fall            | Levitate    |
 
+%%^povNotes:v1%%
+Temporal coverage: broadly modern character creation guidance; the proposed character origins are alternatives rather than a dated historical sequence.
+%%^End%%
 
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added the filename-derived name and modern temporal metadata.
+- Closed the introductory italic marker and corrected “family known” and “breath air and water.”
+
+### Validated judgments
+- The guide already uses the character-creation, naming, Basic Traits, and species-traits organization exemplified by [[Playing a Halfling]]. Its outstanding work concerns rules completion, not migration to a species-article layout.
+
+### Editorial assessment
+**Underdeveloped**: The character concept and background guidance are developed, but the Elemental-Touched rules are incomplete: Elemental Essence contains an unresolved Water/Air benefit, and the legacy table leaves Fire level 5 and Earth levels 3 and 5 undefined.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.note_underdeveloped:** Elemental Essence still has “(Water, Air): ????”, and the Elemental Legacies table contains “????” for Fire at level 5 and Earth at levels 3 and 5. These are central mechanical choices needed to create and advance the advertised characters. Decide whether the unresolved Water/Air entry adds a distinct benefit or is an abandoned placeholder, specify the three missing spell choices, and clarify whether each elemental origin grants one listed Essence benefit or all entries associated with that element. Resolve these bounded design decisions before presenting the Elemental-Touched option as complete; the linter has not selected powers or changed balance.
+%%^End%%

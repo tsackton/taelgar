@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:02:41-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: ""}
 tags: [power, religion/mosnumena]
-displayDefaults: {defArt: ''}
-affiliations: 
-- {org: Mos Numena, type: primary}
-- {org: Eight Divines, title: One}
 typeOf: incorporeal god
 gender: female
+name: The Mother
+affiliations:
+  - {org: Mos Numena, type: primary}
+  - {org: Eight Divines, title: One}
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # The Mother
 >[!info]+ Information  
@@ -29,7 +33,7 @@ The Mother is usually pictured as a motherly woman, of child-bearing age, someti
 
 ![[the-mother-holy-symbol.png|right|150]]The holy symbol of the Mother is a seedling, with eight leaves, typically depicted in a symmetrical pattern with the eight leaves radiating from a central point. Sometimes stylized as a simple eight-lobed design, and occasionally set within a circle representing the moon and the cycles of the seasons. 
 
-In art, the Mother is often depicted as the source of healing, and is associated with depictions of the cycle of seasons. She is often shown pregnant, and often associated with the bounty of life and the lushness of spring. Some illustrative art is show below:
+In art, the Mother is often depicted as the source of healing, and is associated with depictions of the cycle of seasons. She is often shown pregnant, and often associated with the bounty of life and the lushness of spring. Some illustrative art is shown below:
 
 ![[the-mother-example-painting.jpg]]
 
@@ -38,3 +42,11 @@ In art, the Mother is often depicted as the source of healing, and is associated
 %%
 In mechanical terms, her clerics would usually be associated with the Life or Peace domain.
 %%
+
+%%^Metadata:names:v1%%
+- {name: The Mother, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern religious reference describing the Mother's domains, iconography, and holy symbol; no narrower current state is established.
+%%^End%%

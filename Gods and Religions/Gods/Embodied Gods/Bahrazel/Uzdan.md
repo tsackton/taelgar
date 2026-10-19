@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-aliases: [The Ruler]
-gender: male
+lintedAt: "2026-10-19T10:02:41-04:00"
+lintVersion: "3.5"
 tags: [power, religion/dwarven]
+typeOf: embodied god
+gender: male
+name: Uzdan
+aliases: [The Ruler]
 pronunciation: UZ-dahn
+affiliations:
+  - {org: Bahrazel, title: One}
 dm_owner: none
 dm_notes: none
-typeOf: embodied god
-affiliations:
-- {org: Bahrazel, title: One}
+POV: modern
 ---
 # Uzdan
 *(UZ-dahn)*
@@ -17,3 +21,12 @@ affiliations:
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 The patron of those who lead, whether armies or kingdoms, and worshipped as the first king of the dwarves.
+
+%%^Metadata:names:v1%%
+- {"name": "Uzdan", "language": "unknown", "pronunciation": "UZ-dahn", "status": "documented"}
+- {"name": "The Ruler", "role": "epithet", "language": "unknown", "status": "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference to Uzdan's enduring religious role; the first-kingship tradition is mythic background.
+%%^End%%

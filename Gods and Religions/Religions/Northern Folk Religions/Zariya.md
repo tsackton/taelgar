@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:39:23-04:00"
+lintVersion: "3.5"
 tags: [background, religion/zariya]
-dm_notes: important
-dm_owner: tim
+name: Zariya
 pronunciation: ZAH-ree-yah
+dm_owner: tim
+dm_notes: important
+POV: modern
 ---
 # Zariya
 *(ZAH-ree-yah)*
@@ -16,4 +20,10 @@ The *zariya* are the animal spirits worshipped by the [[Vargaldi]]. The word, Za
 
 As a religion, the folk worship of the [[Zariya]] bears many similarities to the other descendants of the early northern folk religions, such as [[Tanshi Worship]] and the [[Kestavo]], with the notable distinction that the small gods are strongly tied to animal forms.
 
+%%^Metadata:names:v1%%
+- {"name": "Zariya", "language": "unknown", "pronunciation": "ZAH-ree-yah", "status": "documented"}
+%%^End%%
 
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose; the article does not require a narrower date within the current campaign era.
+%%^End%%

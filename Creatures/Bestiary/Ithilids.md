@@ -1,8 +1,12 @@
 ---
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [creature, status/stub, status/check/lint]
+name: Ithilids
 aliases: [Mindflayer, Mind Flayer, Illithid]
-tags: [creature, status/stub]
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 
 Aberrations from the Far Realm. 
@@ -46,3 +50,33 @@ Mike's speculative notes on types of mind flayers suggests that it would be sens
 - a cult of nihilist mind flayers who simply want to destroy the world  
 - non-nihilist mind flayers would like to destroy the soul jar and use the chaltye golem to enslave the human realms
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Ithilids", "language": "unknown", "pronunciation": "IH-thih-lidz", "status": "proposed", "notes": "Cautious spelling-based proposal for the existing primary form: initial short i, voiceless th, unstressed short i, and final dz; no recorded pronunciation or established name-language rule found. The primary spelling is preserved."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the visible definition gives an enduring origin, while hidden historical and speculative notes do not establish a narrower article viewpoint.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added explicit name, a proposed pronunciation in persistent name metadata, and modern POV with temporal coverage.
+- Normalized frontmatter field order.
+
+### Validated judgments
+- `status/stub`: supported; the visible account lacks the defining relationship established by [[Grimlocks]] and [[Derro]].
+- The old-email brainstorming and encounter/plot guidance remain nonpublic; speculative motives were not treated as canon.
+
+### Editorial assessment
+**Underdeveloped** — The visible one-line definition omits the established relationship between mind flayers and the slave peoples they created. A brief account of their creation of grimlocks and derro is the smallest useful completion; the speculative motives and wider plots need not be adopted.
+
+- Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** The visible article says only “Aberrations from the Far Realm,” although [[Grimlocks]] and [[Derro]] establish that mind flayers created enslaved peoples from humans and dwarves. This relationship is central to their demonstrated role and is missing from the reference account. Add a short sourced account, for example: “Mind flayers created [[Grimlocks]] from [[Humans|humans]] and [[Derro]] from [[Dwarves|dwarves]] as slave peoples.” The cited notes establish these transformations; do not generalize the hidden speculative motives into species-wide canon.
+
+- [ ] **Warning — metadata.names_unresolved_status:** The primary name has no recorded pronunciation or established language guidance. Persistent name metadata proposes `IH-thih-lidz`, a cautious reading of the existing spelling: initial short i, voiceless th, unstressed short i, and a final dz sound. Review this uncertain proposal; if accepted, set `pronunciation: IH-thih-lidz` and change the primary entry to `status: documented`. This does not resolve or change the existing primary spelling or aliases.
+%%^End%%

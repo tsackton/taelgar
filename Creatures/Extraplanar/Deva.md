@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [creature]
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [creature, status/check/lint]
+name: Deva
 aliases: [devas, Devas]
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # Deva
 
 Devas are a kind of [[Celestials|celestial]], rarely encountered but generally understood as angelic messengers and agents of divine or spiritual powers.
 
-A deva's appearance and bearing often reflects the power it serves. While many accounts from [[Mos Numena]] sources describe devas in the familiar language of shining humanoid angels, other accounts suggest stranger forms. 
+A deva's appearance and bearing often reflect the power it serves. While many accounts from [[Mos Numena]] sources describe devas in the familiar language of shining humanoid angels, other accounts suggest stranger forms.
 
 [[Oskar in Tharn Todor#Episode 2: The Celestial Meteor|Stories occasionally connect devas with falling stars or celestial meteors]], suggesting that at least some devas reach the [[Material Plane]] through violent or imperfect passages between realms, though few understand the metaphysical details of such violent passage.
 
@@ -28,4 +32,26 @@ The wounded deva in [[Oskar in Tharn Todor]] and [[Ep 2 Crashed Palace]] was ass
 
 To generalize, a normal deva manifestation might arrive through prayer, summoning, or a particular holy site, but a meteor could be what happens when a spiritual-realm being is forced through the [[Land of the Dead|Divine Veil]] without a proper gate. Its soulstuff condenses, burns, and strikes the world as star-like matter, leaving the deva wounded or unstable rather than simply manifesting cleanly or returning home.
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Deva, language: unknown, pronunciation: DAY-vuh, notes: "Tentative spelling-based reading: d and v retain their usual consonant sounds, e is read as long a, the final a is reduced to uh, and the first syllable is stressed. No name-specific pronunciation or established source language was found in the consulted vault sources.", status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference knowledge about devas, with a reported DR 1748 encounter illustrating the account rather than limiting its viewpoint.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added explicit name, a persistent name entry, and modern POV metadata; normalized frontmatter order and corrected subject–verb agreement.
+
+### Validated judgments
+- The bounded public description is sufficient for a rare celestial category. The linked encounter supports the reported meteor association; the shared mechanism remains explicitly tentative.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Review the proposed `DAY-vuh` pronunciation in the name block. This is a cautious spelling-based reading with initial stress, d and v unchanged, e read as long a, and final a reduced to uh; the consulted vault sources establish neither a name-specific pronunciation nor a source language. Accept it by copying `pronunciation: DAY-vuh` to frontmatter and setting the entry to `status: documented`, or supply the intended pronunciation.
 %%^End%%

@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
 tags: [meta]
+name: Playable Species of Taelgar
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Playable Species of Taelgar
 
@@ -15,7 +19,7 @@ The four most numerous playable species in Taelgar, by a wide margin, are [[Huma
 
 *Humans* are the most numerous sapient species in Taelgar. Diverse and resilient, they have spread across the world inventing numerous cultures, religions, and languages along the way. 
 
-*Halflings* are wanderers and travelers, merchants and sailors, storytellers and poets, often found living on the road, or sometimes in the cities and towns other species.   Though many halflings are nomadic, they are deeply connected to each other by a unique ancestral consciousness mediated by their gods, the [[First Ones]], which allows them to communicate telepathically and remember fragments of their ancestors' knowledge and lives. 
+*Halflings* are wanderers and travelers, merchants and sailors, storytellers and poets, often found living on the road, or sometimes in the cities and towns of other species.   Though many halflings are nomadic, they are deeply connected to each other by a unique ancestral consciousness mediated by their gods, the [[First Ones]], which allows them to communicate telepathically and remember fragments of their ancestors' knowledge and lives.
 
 *Dwarves* make their homes beneath the mountains of Taelgar, carving great halls of stone and light beneath the earth, aided by their innate runic magic from their connection to their gods, the [[Bahrazel]]. Their culture and society are shaped by ties of kinship and clan, and by the mystical bonds of their thuhr, a uniquely dwarven combination of guild, secret society, and found family. Dwarves are often found in human realms, as travelers, visitors, and long-term residents. 
 
@@ -32,7 +36,7 @@ The four most numerous playable species in Taelgar, by a wide margin, are [[Huma
 
 Although less numerous than some other species, [[Elves|elves]], [[Stoneborn|stoneborn]], [[Kenku|kenku]], and [[Centaurs|centaurs]] are either widely known if rarely met, or locally common in some regions of the world. While their presence in some parts of the world might be unusual, only the most isolated people will have never heard of these species. 
 
-*Elves* claim to be the first species awakened after the [[Riving|dawn of time]], and have a deep connection to magic and nature through their connection their gods, [[Aldanor]], the Living Tree and [[Elmerca]], the Wild Star. Their culture and society is strongly shaped by the [[Elven Cycle of Generations|ka]], a unique cycle system of non-overlapping generations arising from elves' extremely long lifespans but limited time when they can bear children. Though elves are rarely seen among human cities, most people have heard of them in legends and tales. 
+*Elves* claim to be the first species awakened after the [[Riving|dawn of time]], and have a deep connection to magic and nature through their connection to their gods, [[Aldanor]], the Living Tree and [[Elmerca]], the Wild Star. Their culture and society are strongly shaped by the [[Elven Cycle of Generations|ka]], a unique cycle system of non-overlapping generations arising from elves' extremely long lifespans but limited time when they can bear children. Though elves are rarely seen among human cities, most people have heard of them in legends and tales.
 
 *Stoneborn* prefer to settle in the inhospitable and inaccessible places of the world, often living in high mountains in small, reclusive communities, thriving only through their deep connection to [[Entamba]], their creator god, which preserves them in even the most challenging alpine environments. Stoneborn appear to be made of stone, taking on diverse appearances as different as the kinds of stone in the world; rumors even say they are literally born from the stone of their mountain homes. Though rare among human communities, the occasional travelers, crafters, visionaries, warriors, and others do travel amongst human lands. 
 
@@ -49,11 +53,11 @@ Although less numerous than some other species, [[Elves|elves]], [[Stoneborn|sto
 
 ## Fey Species
 
-Of all the planes, the [[Feywild]] is the closest and most accessible from the [[Material Plane]], and it is not uncommon for natives of that plane to be seen across Taelgar. Although [[fey]] species ([[fae]] and [[fairies]]), especially those with more unusual appearances, may inspire fear, curiosity, distrust, excitement, or many other emotions in natives of the Material Plane, most people will at least have heard rumors of the fey and have context for which to understand members of this species (even if that context may be garbled or wrong).
+Of all the planes, the [[Feywild]] is the closest and most accessible from the [[Material Plane]], and it is not uncommon for natives of that plane to be seen across Taelgar. Although [[fey]] species ([[fae]] and [[fairies]]), especially those with more unusual appearances, may inspire fear, curiosity, distrust, excitement, or many other emotions in natives of the Material Plane, most people will at least have heard rumors of the fey and have context in which to understand members of this species (even if that context may be garbled or wrong).
 
 *Fae* are the most common inhabitants of the Feywild, and are the most likely of the fey to be encountered on the Material Plane. Many of the fae take on the appearance of elegant humans with subtly unnatural features, though stories tell of diverse beastfolk (including the goat-like satyrs), changelings who are said to be able to shift their form at will, and many other forms among the fae. 
 
-*Fairies* are far less commonly seen on the [[Material Plane]], though this may simply because they are so good at staying out of sight. Fairies are usually small, often tiny, and frequently can fly; they take on many forms and appearances, including pixies and sprites. 
+*Fairies* are far less commonly seen on the [[Material Plane]], though this may simply be because they are so good at staying out of sight. Fairies are usually small, often tiny, and frequently can fly; they take on many forms and appearances, including pixies and sprites.
 
 | Species                     | Key Question(s)                                                      | **Details**              | Starting Languages |
 | --------------------------- | -------------------------------------------------------------------- | ------------------------ | ------------------ |
@@ -66,9 +70,9 @@ See also: [[Fey]].
 
 ## Rare Species
 
-There are a wide range of other species that live on Taelgar and across the multiverse. While most of these are not suitable to be playable species, a few rarer or more unusual species could be playable in the right circumstances, including [[orcs]], [[kobolds]], and the rare plane-touched [[Humans|human]].  
+There is a wide range of other species that live on Taelgar and across the multiverse. While most of these are not suitable to be playable species, a few rarer or more unusual species could be playable in the right circumstances, including [[orcs]], [[kobolds]], and the rare plane-touched [[Humans|human]].
 
-*Orcs* are widely known as the servants of [[Thark]], their creator and god, who commands orcs to fight in endless wars. But rumors persist of orcs who have broken the chains binding them to Thark, and now live free to chose their own destiny. A free orc could make an interesting character choice in the right game, but would face deep suspicion in almost all civilized parts of the world. 
+*Orcs* are widely known as the servants of [[Thark]], their creator and god, who commands orcs to fight in endless wars. But rumors persist of orcs who have broken the chains binding them to Thark, and now live free to choose their own destiny. A free orc could make an interesting character choice in the right game, but would face deep suspicion in almost all civilized parts of the world.
 
 *Kobolds*, small draconic creatures often assumed to be the servants of more powerful dragon masters, live at the margins of civilization, often constructing elaborate underground warrens. To many other species, they are a nuisance and treated as pests or harbingers of trouble. The sight of a kobold in the realms of other species would bring comment, and often suspicion, though a kobold could make an interesting character in the right game. 
 
@@ -81,3 +85,7 @@ There are a wide range of other species that live on Taelgar and across the mult
 | Plane-touched       | Which plane touched your soul? Are you open about your plane-touched heritage? If so, how has it impacted your life? If not, how do you hide it?                                              | [[Playing a Plane-Touched]] | 4 + the language of your plane |
 | [[Orcs\|Orc]]       | How did you escape the bonds of Thark? Were you born to a community of free orcs, or did something happen to you? How do you handle the suspicion and fear you generate in most of the world? | [[Playing a Free Orc]]      | 4                              |
 | [[Kobolds\|Kobold]] | Most non-kobolds stereotype you as a nuisance, how do you handle that?                                                                                                                        | [[Playing a Kobold]]        | 4                              |
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern overview of character options and species distribution; individual campaign suitability remains conditional.
+%%^End%%

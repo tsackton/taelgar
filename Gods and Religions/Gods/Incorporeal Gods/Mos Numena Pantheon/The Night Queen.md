@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:02:41-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: ""}
 tags: [power, religion/mosnumena, status/check/mike]
-displayDefaults: {defArt: ''}
-affiliations: 
-- {org: Mos Numena, type: primary}
-- {org: Eight Divines, title: One}
 typeOf: incorporeal god
 gender: female
+name: The Night Queen
+affiliations:
+  - {org: Mos Numena, type: primary}
+  - {org: Eight Divines, title: One}
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # The Night Queen
 >[!info]+ Information  
@@ -29,8 +33,16 @@ The Night Queen is usually depicted as a pale woman, often of indeterminate age,
 
 ![[night-queen-v3.jpeg|right|180]]Her holy symbol is a crown of stars, usually depicted as five or six stylized stars in a circle, representing a top-down view of the points of a crown. Sometimes, instead of a stylized crown, she is represented by three stars in an arch with an implied horizon, representing the transition between day and night (and also between life and death).
 
-In art, the Night Queen is often depicted the protector of the dead and of spirits, and the guide who ensures that the dead do not return to haunt the living. Art depicting the Night Queen tends to somber colors, with a starkness that highlights her connection to the night and winter. 
+In art, the Night Queen is often depicted as the protector of the dead and of spirits, and the guide who ensures that the dead do not return to haunt the living. Art depicting the Night Queen tends to somber colors, with a starkness that highlights her connection to the night and winter.
 ![[night-queen-stained-glass-2.png]]
 ![[night-queen-tapestry-1.jpg]]
 
 %% In mechanical terms, her clerics would usually be associated with the Grave or Twilight domains. %%
+
+%%^Metadata:names:v1%%
+- {name: The Night Queen, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose about the Night Queen's domains, customary depictions, and holy symbols.
+%%^End%%

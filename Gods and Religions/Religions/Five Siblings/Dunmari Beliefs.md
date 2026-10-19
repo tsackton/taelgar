@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [religion/fivesiblings, background]
+lintedAt: "2026-10-19T10:39:23-04:00"
+lintVersion: "3.5"
+tags: [religion/fivesiblings, background, status/check/lint]
+name: Dunmari Beliefs
 dm_owner: tim
 dm_notes: color
+POV: modern
 ---
 # Dunmari Beliefs
 
@@ -40,3 +44,22 @@ The souls of those who die journey to a great expanse, an endless, featureless p
 
 Those who accept judgement go to [[Arkaash]], the realm of the Five Siblings. Those who do not, fade into the fabric of the [[Land of the Dead]], with all other lost souls. 
 %%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern account of Dunmari belief and the creation story as told in present-day Dunmar; the mythic events do not narrow the article’s speaking position.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the explicit page name, `POV: modern`, and a temporal note distinguishing the modern telling from its mythic events.
+
+### Validated judgments
+- This is an analytical background page about beliefs, not a named in-world work; a name block is not applicable.
+- The myth remains explicitly a Dunmari account, and the afterlife comment remains marked unclear canon.
+
+### Open findings
+
+- [ ] **Suggestion — dm.notes_no_local_evidence:** No `_DM_` notes found; verify `dm_notes: color`. The field may attest to remembered or off-vault information. Retain it unless a human confirms that no useful private material remains.
+%%^End%%

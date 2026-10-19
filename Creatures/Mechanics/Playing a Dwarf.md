@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta, status/check/mike]
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/mike, status/check/lint]
+name: Playing a Dwarf
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Playing a Dwarf
 *See more: [[Dwarves]], [[Dwarven Kingdoms]], [[Bahrazel|Bahrâzel]]*
@@ -19,7 +23,7 @@ Dwarven culture and society are shaped by ties of kinship and clan, and by the m
 
 To create your dwarf character, consider your relationship with your thuhr and the Bahrazel. Some dwarves have a deep and abiding connection to their thuhr, to the extent it may replace the bonds of clan and family; for others, their thuhr may have opened doors to apprenticeships or training, but faded in relevance later in life; for yet others, it may be simply part of the background noise of their lives. You are free to decide how significant or insignificant your thuhr is as you roleplay your character. 
 
-All dwarves also have a connection to the Bahrazel, as this is what grants you your rune magic trait, described below. The guiding principle of Dwarven religion is based around a set of obligations and debts to the divine, in exchange for power and favors. It is up to you how much you want to make this part of your character: while some dwarves feel a particular connection to one of the Bahrazel, many dwarves are not particularly religious. Even divine magic users may not be particularly devote in dwarven society; the Bahrazel work in mysterious ways, and may grant divine power for their own purposes to even the most unlikely dwarf. 
+All dwarves also have a connection to the Bahrazel, as this is what grants you your rune magic trait, described below. The guiding principle of Dwarven religion is based around a set of obligations and debts to the divine, in exchange for power and favors. It is up to you how much you want to make this part of your character: while some dwarves feel a particular connection to one of the Bahrazel, many dwarves are not particularly religious. Even divine magic users may not be particularly devout in dwarven society; the Bahrazel work in mysterious ways, and may grant divine power for their own purposes to even the most unlikely dwarf.
 
 Finally, you might want to consider your upbringing. Did you grow up in a traditional dwarven settlement, in or under the mountains, part of one of the major dwarven kingdoms of the world? Or did you grow up among humans, perhaps living in the dwarven quarter of some city? 
 
@@ -43,12 +47,12 @@ To choose a name for your Dwarven character, you might consider using one of the
 **Creature Type**: Humanoid
 **Size**: Your size is Medium.
 **Speed**: 30 feet
-**Age**: Dwarves mature at a little more slowly than humans, and are not considered full adults until they reach their age of majority in their mid-20s and make a pilgrimage to the Heart of the Mountain to receive their name and thuhr. Dwarves have a long lifespan, often reaching 350 year of age.
+**Age**: Dwarves mature a little more slowly than humans, and are not considered full adults until they reach their age of majority in their mid-20s and make a pilgrimage to the Heart of the Mountain to receive their name and thuhr. Dwarves have a long lifespan, often reaching 350 years of age.
 **Languages**: You may select four [[languages]] during character creation, which should usually include Dwarvish and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
 
 ## Dwarf Traits
 
-As an Dwarf, you have these special traits.
+As a Dwarf, you have these special traits.
 
 %%^Campaign:none%%
 
@@ -65,14 +69,14 @@ You have Darkvision with a range of 120 feet.
 #### Stonecunning
 As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching such a surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
 #### Thuhr
-As adult dwarf, you belong to one of seven thuhr: Ruler, Runecrafter, Priest, Warrior, Traveler, Stoneworker, Farmer. Your thuhr does not limit your choice of class or profession. Rather, it reflects your role and place in dwarven society. While your thuhr has no direct mechanical effects, if you wish to represent a typical life experience for a dwarf of your thuhr, you may select a special Background representing each thuhr.
+As an adult dwarf, you belong to one of seven thuhr: Ruler, Runecrafter, Priest, Warrior, Traveler, Stoneworker, Farmer. Your thuhr does not limit your choice of class or profession. Rather, it reflects your role and place in dwarven society. While your thuhr has no direct mechanical effects, if you wish to represent a typical life experience for a dwarf of your thuhr, you may select a special Background representing each thuhr.
 
 >[!note] Binthuhr Dwarves
 >If you are a binthuhr dwarf (a young dwarf who has not visited the Heart of the Mountain, or an adult who failed to complete their pilgrimage), you do not have a Thuhr, Baharezel's Blessing, or the Dwarven Rune Crafting trait. You may instead choose one 1st level feat to reflect your upbringing.
 
 #### Bahrazel's Blessing
 Your innate connection to the Bahrazel provides you with a supernatural blessing. Choose one of the following options: 
-- *Tarbaka's Blessing of Craft.* You learn the Mending cantrip. In addition, you have an uncanny ability to understand raw materials and how to shape them. You gain proficiency in two Artisan's Tool of your choice. When you Craft items with your chosen Tools, you require only half the time and raw materials that would normally be required. %% Mending + parts of the Crafter feat, feels flavorful and situationally powerful as a source of income but probably not a major balance concern %%
+- *Tarbaka's Blessing of Craft.* You learn the Mending cantrip. In addition, you have an uncanny ability to understand raw materials and how to shape them. You gain proficiency in two Artisan's Tools of your choice. When you Craft items with your chosen Tools, you require only half the time and raw materials that would normally be required. %% Mending + parts of the Crafter feat, feels flavorful and situationally powerful as a source of income but probably not a major balance concern %%
 - *Azar's Blessing of Resilience.* Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level. %% literally 1/2 of Tough feat, should be fine %%
 - *Oshkir's Blessing of Aid.* You learn the Guidance and Spare the Dying cantrips. %% one great cantrip, one very situational cantrip %%
 - *Karthel's Blessing of Shaping.* You learn two cantrips from among Elementalism, Shape Water, Mold Earth, Gust, Control Flames, Thaumaturgy, or Light. %% two cantrips %%
@@ -126,6 +130,30 @@ One of your appendages becomes immune to fire damage. While this effect is activ
 
 #### Uzdan's Compelled Truth
 **Casting Time:** 1 Action
-**Duration:** 10 Minute
+**Duration:** 10 Minutes
 
 Choose one creature you can see within 15 feet. The target must make a Charisma saving throw. On a failed save, you know if the target speaks a deliberate lie while the spell is active. You know whether a creature succeeds or fails on this save. An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern character-creation guidance and species rules, without a narrower in-world date.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added an explicit page name and broadly modern POV with persistent temporal notes.
+- Corrected seven unambiguous public prose errors in grammar and singular/plural agreement; rules and names were preserved.
+
+### Validated judgments
+- This is a player-facing mechanics guide. Its introduction, character-creation guidance, names, Basic Traits, and Dwarf Traits follow the role of [[Playing a Halfling]]; the in-world [[Halflings]] article headings are not required here.
+- The design and balance comments remain shared nonpublic editorial material; no hidden text was promoted.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** The Basic Traits age paragraph gives adulthood in the mid-20s and a lifespan often reaching 350, while [[Dwarves#Short And Strong]] gives majority at 36 and a lifespan occasionally reaching 300. The latter note is marked `status/wip`, so neither account is silently preferred. Decide the intended maturity, pilgrimage, and lifespan values, then align both passages. A temporary uncertainty-preserving candidate is: “Dwarves mature more slowly than humans and become full adults after their pilgrimage to the Heart of the Mountain, when they receive their name and thuhr. They can live for several centuries.”
+
+- [ ] **Warning — correctness.internal_conflict:** The Dwarven Rune Crafting list calls the Rune of Stone effect “Locate Stone or Metal”, but the supplied effect is headed “Stone Sense”; there is no description headed “Locate Stone or Metal”. Confirm whether these are the same effect. If so, replace that list item with `- Rune of Stone: Stone Sense*`; otherwise supply the intended separate effect. The rune/effect name was not changed automatically.
+
+- [ ] **Suggestion — editorial.name_consistency:** The Binthuhr Dwarves callout names “Baharezel's Blessing”, while the actual trait heading and linked [[Bahrazel]] use “Bahrazel's Blessing”; the design paragraph also has “Baharazel's blessing”. Confirm the intended spelling, then use `Bahrazel's Blessing` in the callout and `Bahrazel's blessing` in that design sentence. These are proposed name corrections, not automatic edits.
+%%^End%%

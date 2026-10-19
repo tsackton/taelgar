@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [power, religion/mosnumena, status/cleanup/image, status/check/mike]
+lintedAt: "2026-10-19T10:02:41-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-affiliations: 
-- {org: Mos Numena, type: primary}
-- {org: Eight Divines, title: One}
+tags: [power, religion/mosnumena, status/cleanup/image, status/check/mike, status/check/lint]
 typeOf: incorporeal god
 gender: enby
+name: The Wyrdling
+affiliations:
+  - {org: Mos Numena, type: primary}
+  - {org: Eight Divines, title: One}
 dm_owner: joint
 dm_notes: important
+POV: modern
 ---
 # The Wyrdling
 >[!info]+ Information  
@@ -32,7 +36,7 @@ discord on wyrdling vs wildling, repeated from wilding page:
 
 A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of humanity. 
 
-The Wyrdling is rarely depicted in human form, and is depicted in many ways. The most common are chaotic and natural in nature: an embodied storm, a whirlpool, sometimes a rainbow. But some depictions show the Wyrdling as a jester with two faces, one male and one female, happy and sad at the same time. Other times they are depicted as a androgynous face, often depicted as if it was mid-shift from male to female. They are the Divine of chaos, luck, chance, and fate, and are associated with prophecy, divination, dreams, and the virtue of hope. They watch over those taking risks or chances, as well as artists and poets, and those who are lost in their own minds. They are also the Divine of transgender people, and anyone born 'out of season' with themselves. 
+The Wyrdling is rarely depicted in human form, and is depicted in many ways. The most common are chaotic and natural in nature: an embodied storm, a whirlpool, sometimes a rainbow. But some depictions show the Wyrdling as a jester with two faces, one male and one female, happy and sad at the same time. Other times they are depicted as an androgynous face, often depicted as if it was mid-shift from male to female. They are the Divine of chaos, luck, chance, and fate, and are associated with prophecy, divination, dreams, and the virtue of hope. They watch over those taking risks or chances, as well as artists and poets, and those who are lost in their own minds. They are also the Divine of transgender people, and anyone born 'out of season' with themselves.
 
 %% In mechanical terms, their clerics would usually be associated with the Trickster or Tempest domain.
 %%
@@ -54,3 +58,40 @@ The abbey is currently occupied by a lone hermit/priest, who goes by Mel
 This is a safe place to rest - shadow hunters cannot get here.
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "The Wyrdling", "language": "unknown", "pronunciation": "thuh WURD-ling", "status": "proposed", "notes": "Cautious spelling-based proposal: read wyrd like word, with stress on WURD, then ling as in sibling. No explicit pronunciation or established source language was found for this title; this is a proposal rather than an adopted language rule."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern Mos Numena theology and depictions of the Wyrdling; explicitly unused and unresolved ideas remain in comments.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter ordering and collection formatting, preserving existing values and the header version.
+- Added the explicit subject name and persistent name and broadly modern temporal metadata.
+- Corrected “a androgynous face” to “an androgynous face.”
+
+### Validated judgments
+- Confirmed local DM matches support the existing positive attestation; its value and private contents remain unchanged.
+- `status/cleanup/image`: not assessable, because it records an unfinished image intention whose desired result is not specified. Preserved unchanged.
+- The deity overview is sufficient; explicit brainstorming, cleric mechanics, and unused abbey color remain in their existing comments.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Review `thuh WURD-ling` in the persistent name entry. This is a cautious spelling-based proposal: wyrd is read like word with stress on WURD, and ling like the ending of sibling. No explicit pronunciation or established source language was found for this title. Accept with `pronunciation: thuh WURD-ling` and entry `status: documented`, or supply the intended reading.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Elderwood Arc NPCs]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part I To Arendum/Chasa River Valley (OneNote)]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Pilgrimage Locations]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/OLD/Circular Island Rewritten]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/OLD/adventure_overview]]
+- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Session 125 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 76 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 77 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 78 - DM Notes]]
+%%^End%%

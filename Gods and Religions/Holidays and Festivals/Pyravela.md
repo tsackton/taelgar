@@ -1,12 +1,15 @@
 ---
+lintedAt: "2026-10-19T10:39:23-04:00"
+lintVersion: "3.5"
 tags: [background, religion/mosnumena]
 typeOf: holiday
-name: Pyravela
-pronunciation: PIE-ra-VEL-a
 fc-date: {day: 29, month: 12}
 fc-end: {day: 31, month: 12}
+name: Pyravela
+pronunciation: PIE-ra-VEL-a
 dm_owner: joint
 dm_notes: important
+POV: modern
 ---
 # Pyravela
 *(pie-ra-vel-a)*
@@ -17,7 +20,7 @@ An ancient [[Mos Numena]] holiday, celebrated on the last three days of the year
 - In [[Drankorian Empire|Drankor]], marked the end of the 10-day intercalary period between the end of the year (marked by the winter solstice) and the beginning of the new year. In modern calendars, these intercalary days are gone, so is celebrated on the last few days of the year.
 - Associated with [[The Wyrdling]], who was seen to have power over the “days out of time” in [[Drankorian Empire|Drankor]].
 - Strongest universal traditions are associated with costumed parades / fetes / dances, and feasts, typically large parties where anyone is welcome to come and eat from your table. During Pyravela the rich and the poor sit together and no one is turned away because of status or wealth. 
-- Another universal tradition is bonfires the last night, and especially the idea of casting prayers into the fire, especially prayers for change, for hope for new beginnings, for dreams to come true. Often incense and sometimes drugs are burned in these fires, and those who breath the smoke are said to receive visions and prophecies from [[The Wyrdling]]. The last night, with the bonfires, are a time when the future is close and prophecy fills the air. 
+- Another universal tradition is bonfires the last night, and especially the idea of casting prayers into the fire, especially prayers for change, for hope for new beginnings, for dreams to come true. Often incense and sometimes drugs are burned in these fires, and those who breathe the smoke are said to receive visions and prophecies from [[The Wyrdling]]. The last night, with the bonfires, is a time when the future is close and prophecy fills the air. 
 
 The typical Pyravela celebration in [[Green Sea]] area is as follows:
 
@@ -27,4 +30,12 @@ The typical Pyravela celebration in [[Green Sea]] area is as follows:
 - The third day usually starts with private feasts at home, often involving gift giving among family and private remembrances of miracles and blessings.
 - As the sun sets on the third day, the bonfires are lit. Traditionally no food is eaten after sunset, until the new year dawns, and this is a time when prophecy and dreams are at their strongest.
 
-In [[Chardon]], state sponsored feasts and games dominant the celebration of Pyravela, and the first day especially has a very state-oriented feeling. 
+In [[Chardon]], state sponsored feasts and games dominate the celebration of Pyravela, and the first day especially has a very state-oriented feeling.
+
+%%^Metadata:names:v1%%
+- {name: Pyravela, language: unknown, pronunciation: PIE-ra-VEL-a, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern festival customs, with background on its ancient Hkaran origins and Drankorian observance.
+%%^End%%

@@ -237,6 +237,42 @@ class ValidateTaelgarNoteTest < Minitest::Test
     refute_includes rule_ids(report), "link.ambiguous"
   end
 
+  def test_escaped_table_aliases_resolve_without_changing_authored_links
+    root = make_vault
+    path = "Meta/Index.md"
+    target = "Creatures/Species/Humans.md"
+    write_note(root, target, "---\ntags: [species]\naliases: [Humankind]\n---\n# Humans\n\nHumans live here.\n")
+    write_note(root, "assets/human.png", "image fixture")
+    text = <<~'MARKDOWN'
+      ---
+      tags: [meta]
+      ---
+      # Index
+
+      This table lists playable species.
+
+      | Subject | Reference |
+      | --- | --- |
+      | Humans | [[Humans\|Human]] |
+      | Path | [[Creatures\Species\Humans\|Human]] |
+      | Heading | [[Humans#Culture\|Culture]] |
+      | Local | [[#Review\|Review]] |
+      | Picture | [[assets/human.png\|Portrait]] |
+      | Missing | [[Missing\|Missing subject]] |
+    MARKDOWN
+    write_note(root, path, text)
+    index = TaelgarNoteLint::NoteIndex.new(Pathname.new(root))
+    report = TaelgarNoteLint::Validator.new(root: root, index: index).validate_path(path)
+
+    assert_equal [target], index.resolve('Humans\|Human', path)
+    assert_equal [target], index.resolve_identity('Humankind\|Human', path)
+    unresolved = report.fetch("findings").select { |finding| finding["ruleId"] == "link.unresolved" }
+    assert_equal 1, unresolved.length
+    assert_includes unresolved.first.fetch("message"), '[[Missing\|Missing subject]]'
+    refute_includes rule_ids(report), "link.ambiguous"
+    assert_equal text, File.read(File.join(root, path))
+  end
+
   def test_image_wikilinks_resolve_assets_without_becoming_note_identities
     root = make_vault
     write_note(root, "assets/portraits/keeper.png", "image fixture")

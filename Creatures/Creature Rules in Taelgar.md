@@ -1,19 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta]
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
+name: Creature Rules in Taelgar
+excludePublish: [all]
 dm_owner: joint
 dm_notes: none
-excludePublish: ["all"]
+POV: modern
 ---
 # Creature Rules in Taelgar
 
-This page is contains guidelines for adapting D&D rules around creatures to Taelgar metaphysics. For background on the metaphysics of creatures, see [[Metaphysics of Creatures]]. For mechanical details of species available to PCs, see [[Playable Species of Taelgar]]. 
+This page contains guidelines for adapting D&D rules around creatures to Taelgar metaphysics. For background on the metaphysics of creatures, see [[Metaphysics of Creatures]]. For mechanical details of species available to PCs, see [[Playable Species of Taelgar]].
 ## Categories of Creatures
 
-There are four broad categories of creatures that exist in Taelgarian metaphysics, elaborated on in more detail in [[Metaphysics of Creatures]]. Except as noted, all these creatures, by the nature of their subjective perceptions, attract and accrete [[Soulstuff]], linking them to the [[Plane of Souls]]. This 
+There are four broad categories of creatures that exist in Taelgarian metaphysics, elaborated on in more detail in [[Metaphysics of Creatures]]. Except as noted, all these creatures, by the nature of their subjective perceptions, attract and accrete [[Soulstuff]], linking them to the [[Plane of Souls]].
 
 * **Creatures**: these are sentient natives of one of the many planes in the multiverse; unlike species, they are not expected to have a single unique origin story or shared history. The trolls that one adventuring party fights in the Plaguelands might be metaphysically unrelated to the trolls another party fights in the Blackwater Fens. Note there are important subsets of creatures based on plane of origin. Creatures might have pages on ecology and tendencies. 
-* **Species**: these are creatures with a unique culture and language, and continuity across the world. There might be many different human, dragon, or kenku cultures, but they share an evolution, common history, and overarching narrative. Everything  in this category should have a single origin story for how it came to be and spread across the world, even though that origin story may not have been invented yet. Natives of any Inner Plane, or the Far Realms, can be species. Natives of Spiritual Realms are never species, as they are really the creature manifestations of their plane. 
+* **Species**: these are creatures with a unique culture and language, and continuity across the world. There might be many different human, dragon, or kenku cultures, but they share an evolution, common history, and overarching narrative. Everything in this category should have a single origin story for how it came to be and spread across the world, even though that origin story may not have been invented yet. Natives of any Inner Plane, or the Far Realms, can be species. Natives of Spiritual Realms are never species, as they are really the creature manifestations of their plane.
 * **Constructs**: these are sentient creatures that are not really thinking creatures at all, but are animated by some magic which mimics sentience. They do not have souls at all and are rendered inanimate when killed, unless some magic restores them.
 * **Transformations**: these are sentient creatures that were once members of a species, or a different creature, but have been transformed, either during life or after death, into some new form. This category covers a diverse array of possible things, from undead to lycanthropes to twisted/monstrous corruptions of species into new things. The key distinction is that transformations are defined by a process of creation, such as the curse of lycanthropy or the animate dead spell, and thus fundamentally cannot have a single origin story. A transformation that arose once at a specific point in history, and now only exists as descendants of that original event, might be better classified as a species, but generally this should be avoided unless important for story reasons. 
 
@@ -94,23 +98,23 @@ Notes:
 
 The other thing that must be considered for a species is the metaphysics of its soul, and how it accretes soulstuff. There are three broad categories here, loosely tied to the origin story. 
 
-**Gifted Soulstuff**: Many species, including all the children of embodied gods and humans, are gifted soulstuff by a divinity upon birth. Species with this metaphysics are the only species whose souls travel beyond the Land of the Death to join divinities in the Spiritual Realms after death. Generally requires religion and a close relationship with gods for this metaphysics to work, though not all metaphysical details of this process are fully resolved. Creatures in this category should by default have religion and gods, and lack of religion requires explanation.
+**Gifted Soulstuff**: Many species, including all the children of embodied gods and humans, are gifted soulstuff by a divinity upon birth. Species with this metaphysics are the only species whose souls travel beyond the Land of the Dead to join divinities in the Spiritual Realms after death. Generally requires religion and a close relationship with gods for this metaphysics to work, though not all metaphysical details of this process are fully resolved. Creatures in this category should by default have religion and gods, and lack of religion requires explanation.
 
-**Accrete Soulstuff**: This should generally be the default position in the absence of any more specific invention. Most species accrete soulstuff by their sentient nature. Because they are also sapient, that soulstuff persists for some time after death, but accreted soulstuff eventually returns to their native plane, to some undetermined fate which might be simply merging back with the ambient soulstuff of that plane, or might be something more complex, but should be distinct from the category above. Creatures in this category should by default have no religion or gods, and existance of religion requires explanation. 
+**Accrete Soulstuff**: This should generally be the default position in the absence of any more specific invention. Most species accrete soulstuff by their sentient nature. Because they are also sapient, that soulstuff persists for some time after death, but accreted soulstuff eventually returns to their native plane, to some undetermined fate which might be simply merging back with the ambient soulstuff of that plane, or might be something more complex, but should be distinct from the category above. Creatures in this category should by default have no religion or gods, and existence of religion requires explanation.
 
-**No Soulstuff:** Natives of the Far Realms generally won't accrete soulstuff, and so may not have a soul at all in the Taelgarian sense. Hobgoblins are special case, created to actively repel soulstuff; they also don't have Taelgarian souls. Creatures in this category do not have religion and would need a very compelling reason to have one. Even if they did have religion, it would likely function very differently than standard Taelgarian religion and might not involve divine magic.
+**No Soulstuff:** Natives of the Far Realms generally won't accrete soulstuff, and so may not have a soul at all in the Taelgarian sense. Hobgoblins are a special case, created to actively repel soulstuff; they also don't have Taelgarian souls. Creatures in this category do not have religion and would need a very compelling reason to have one. Even if they did have religion, it would likely function very differently than standard Taelgarian religion and might not involve divine magic.
 #### Native Plane
 
 Species can be native to three different places. 
 
 **Material Plane:** This is the most common answer, and should likely be the default unless it is obviously not appropriate. 
-**Inner Planes**: Many species are native to the Feywild or one of the Elemental Planes. There probably aren't species native to other Inner Planes (such as the Plane of Magic, or postulated Positive/Negative Energy Realms), but technically their could be. Note that generally origin stories of species native to somewhere that is not the Material Plane don't exist yet, so there are some fuzzy details about creation here; it is especially unclear whether it is possible for natives of other planes to have gifted soulstuff, and if so what that might mean. Future invention may refine the details of different Inner Planes, and it is worth keeping in mind there is no requirement for different Inner Planes to have the same metaphysics.
+**Inner Planes**: Many species are native to the Feywild or one of the Elemental Planes. There probably aren't species native to other Inner Planes (such as the Plane of Magic, or postulated Positive/Negative Energy Realms), but technically there could be. Note that generally origin stories of species native to somewhere that is not the Material Plane don't exist yet, so there are some fuzzy details about creation here; it is especially unclear whether it is possible for natives of other planes to have gifted soulstuff, and if so what that might mean. Future invention may refine the details of different Inner Planes, and it is worth keeping in mind there is no requirement for different Inner Planes to have the same metaphysics.
 **Far Realms**: Species that come from a specific Far Realm, and have a unique creation story in that Far Realm, and a unified history on Taelgar, also exist. Note that while many Far Realms in D&D are flavored as eldritch horrors, this does not have to be the case; see, for example, [[Merfolk]] and the [[Sentient Ocean]]. 
 
 Note: species cannot be native to the Spiritual Realms. Natives of the Spiritual Realms are always creatures, with any culture and history tied to the plane they are from as much as them. In some sense, natives of the Spiritual Realms are simple extensions of the Spiritual Realms themselves. 
 ### Is It a Construct?
 
-Constructs, in Taelgarian metaphysics, are creatures that mimic sentience and sapience if relevant by magic, and thus have no souls and do not accrete soulstuff. These are creatures that are explicitly the creation of magical experiments, interventions, or rituals, though they may be diverse creatures of various kinds, and might have arise from any number of sources. Anything created by any kind of magic in some way can potentially be a construct; this need not be tied to the Construct creature type in D&D. 
+Constructs, in Taelgarian metaphysics, are creatures that mimic sentience and sapience if relevant by magic, and thus have no souls and do not accrete soulstuff. These are creatures that are explicitly the creation of magical experiments, interventions, or rituals, though they may be diverse creatures of various kinds, and might have arisen from any number of sources. Anything created by any kind of magic in some way can potentially be a construct; this need not be tied to the Construct creature type in D&D.
 
 The concept of a native plane is generally meaningless for constructs, which have no soul anyway. 
 
@@ -147,10 +151,10 @@ Metaphysically, a divinity is just a creature that has accumulated enough soulst
 Anything that is not a species, construct, or transformation is, by definition, a creature (unless it is a unique and extremely powerful individual, in which case it might be a divinity). For creatures, by far the most important distinction is their native plane. There are roughly six options here. 
 
 (1) **The Material Plane**: the simplest option, and the best default. Unless there is a good reason to decide otherwise, most typical monsters should be considered creatures native to the material plane. 
-(2) **The Feywild**: the Feywild has a very distinctive vibe, and mostly it is obvious whether a potential creature is a fey or not. The more complicated decision is whether is a member of one of the two species native to the Feywild ([[Fairies]] and the [[Fae]]), or whether it is a creature. Both fairies and fae have some specific vibes, but unlike species native to the material plane come in a wide range of diverse forms. Most obviously, place based creatures like dryads should be considered creatures, not species, but there is a lot of flexibility here. 
+(2) **The Feywild**: the Feywild has a very distinctive vibe, and mostly it is obvious whether a potential creature is a fey or not. The more complicated decision is whether it is a member of one of the two species native to the Feywild ([[Fairies]] and the [[Fae]]), or whether it is a creature. Both fairies and fae have some specific vibes, but unlike species native to the material plane come in a wide range of diverse forms. Most obviously, place based creatures like dryads should be considered creatures, not species, but there is a lot of flexibility here.
 (3) **Elemental Planes**: anything native to one of the Elemental Planes must tie to the elemental vibe of its native plane. Otherwise, though, these are pretty flexible and there is minimal canon here. Some very powerful elementals, like kraken or phoenixes, might be more akin to divinities. 
 (4) **Other Inner Planes**: very little has been canonically established, but it is likely that other [[Echo Realms]] have native creatures, and it is even possible - although less likely - that places like the [[Plane of Magic]]  or the [[Ethereal Plane]] could have creatures native to them.
-(5) **The Spiritual Realms**: native of the Spiritual Realms are special, in that they are made purely of soulstuff and manifest bodies when they travel to the inner planes, but cannot be killed except on their native plane. It should generally be obvious when this is an appropriate choice. Natives of Spiritual Realms should be thought of an extensions of their native plane. 
+(5) **The Spiritual Realms**: native of the Spiritual Realms are special, in that they are made purely of soulstuff and manifest bodies when they travel to the inner planes, but cannot be killed except on their native plane. It should generally be obvious when this is an appropriate choice. Natives of Spiritual Realms should be thought of as extensions of their native plane.
 (6) **The Far Realms**: natives of the Far Realms canonically should have non-Taelgarian metaphysics, but can depart widely from the traditional eldritch horror vibe. 
 
 ## General Guidelines
@@ -184,14 +188,14 @@ Often D&D rules use groupings of creature types to convey particular ideas. Thes
 - Anything that references "Celestials, Fiends, Fey, Elementals" as a class should be interpreted as referencing any creature or species not native to the Material Plane, excluding natives of the Far Realms. 
 - Anything that references "Celestials, Fiends, Fey, Elementals, Aberrations" as a class should be interpreted as referencing any creature or species not native to the Material Plane, including natives of the Far Realms. 
 - Anything that references "Constructs and Undead" as a class is usually hinting at the idea of "doesn't have a soul", and should generally be interpreted to refer to constructs (which includes mindless undead) and natives of the Far Realms. 
-- Anything that references "Celestials and Fiends" as a class should generally be interpreted to reference to natives of the Spiritual Realms. 
+- Anything that references "Celestials and Fiends" as a class should generally be interpreted to refer to natives of the Spiritual Realms.
 
 ### Individual Types
 
 - Anything that references Humanoids should generally be interpreted as referencing species native to the material plane.
 - Anything that references Constructs should generally be interpreted as referencing creatures that lack a soul and are defined as Constructs on their statblock. This would typically exclude things that are actually extraplanar natives but are defined on their statblock as Constructs, as well as mindless undead. 
 - Anything that references Fiends should generally be associated with non-Divine Spiritual Realms, or just demons + devils, depending on context. 
-- There is no metaphysical or in-world reason to treat game effects that reference Beasts different than the standard rules, as Beasts retain the same meaning as in standard D&D and can reference statblocks, not metaphyiscs. Beasts are metaphysically simply a subset of the large category of creatures native to the material plane. 
+- There is no metaphysical or in-world reason to treat game effects that reference Beasts different than the standard rules, as Beasts retain the same meaning as in standard D&D and can reference statblocks, not metaphysics. Beasts are metaphysically simply a subset of the large category of creatures native to the material plane.
 - Though undead are metaphysically complex given the variety of ways they can arise, for various reasons it is likely best to rely on the statblock, not Taelgarian metaphysics, here. Generally anything that is a transformation of a once-living creature fits here.
 - Plants, Oozes, and Monstrosities can generally just be interpreted based on standard rules. 
 - Dragons and Giants should generally be restricted to members of the Giant or Dragon species, potentially including transformations of those species. This might require a spot judgement as to whether a creature like an ogre is in fact a transformation of a giant or not. Alignment with statblock is a reasonable default, unless a storyline requires different. 
@@ -204,5 +208,23 @@ In D&D, this plays out as follows:
 
 - _Revivify_ can bring back any dead creature that had a soul in life, but whose soul has not faded from the Plane of Souls, which usually happens quickly after death and explains the 1 minute limitation. This includes all creatures with soulstuff, no matter the source, and generally should not work for creatures without souls. It is possible that hobgoblins could be an exception to this rule; constructs should never be able to be affected by any resurrection magic, even revivify. 
 - _Raise Dead_, _Reincarnate_, and other spells that have a 10 day limit can retrieve a soul that has left the Material Plane, but has not yet reached its final resting place, whatever that might be. For species with soulstuff gifted by divinities, this typically would represent the time of the journey across the Land of the Dead. For species that accrete soulstuff, and who presumably don't pass into the Land of the Dead (or at least not the one connected to embodied and incorporeal gods), these spells should still work, but the time limit may vary depending on the exact metaphysics of the creature in question. 
-- _Resurrection_ can bring back the soul of a dead creature that has reached its final resting place, as long as it still exists as some coherent, individual entity. In current metaphysics, this means that Resurrection only works on species whose soulstuff is gifted by divinities, as these are the only creatures who souls pass through the Land of the Dead to the Divine Realms and continue to exist in some fashion there. This obviously includes humans, despite some minimal canon on where exactly human soulstuff comes from and some open questions whether it comes from a divinity or say, the Plane of Creation itself. 
-- _True Resurrection_ or _Wish_ are 9th level spells and as such can upend the standard limits of metaphysics. These spells are the only ones even plausibly capable of resurrected a soul that has ceased to exist as a distinct entity, and even these spells may not always succeed at this. 
+- _Resurrection_ can bring back the soul of a dead creature that has reached its final resting place, as long as it still exists as some coherent, individual entity. In current metaphysics, this means that Resurrection only works on species whose soulstuff is gifted by divinities, as these are the only creatures whose souls pass through the Land of the Dead to the Divine Realms and continue to exist in some fashion there. This obviously includes humans, despite some minimal canon on where exactly human soulstuff comes from and some open questions whether it comes from a divinity or say, the Plane of Creation itself.
+- _True Resurrection_ or _Wish_ are 9th level spells and as such can upend the standard limits of metaphysics. These spells are the only ones even plausibly capable of resurrecting a soul that has ceased to exist as a distinct entity, and even these spells may not always succeed at this.
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern guidance for Taelgar campaigns; ancient origin stories and explicitly tentative metaphysical options do not define a narrower article date.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added explicit name and modern POV metadata, normalized frontmatter field order, and corrected objective typos, grammar, and the stray incomplete word after the introductory category paragraph.
+
+### Validated judgments
+- This is an excluded-from-publication rules and development guide; explicit uncertainty is appropriate to its purpose. It is not a playable-species article.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** The Species definition and Native Plane section permit species native to the Far Realms, whereas [[Metaphysics of Creatures#True Species]] states “All true species are native to the Inner Realms.” That companion also later permits Far Realms species, so its own framing is inconsistent. Reconcile the geographic limit across the two guides; do not silently classify individual creatures to resolve it. If the broader definition here is retained, the bounded replacement in the companion is: `True species may be native to the Inner Realms or originate in a Far Realm; natives of the Spiritual Realms are not true species.`
+%%^End%%

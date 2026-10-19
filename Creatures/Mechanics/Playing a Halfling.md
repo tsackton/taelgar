@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
 tags: [meta]
+name: Playing a Halfling
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Playing a Halfling
 *See more: [[Halflings]], [[First Ones]]*
@@ -38,8 +42,8 @@ Halflings have given names and family names, which are often derived from nickna
 **Creature Type:** Humanoid  
 **Size:** Small (about 2–4 feet tall) 
 **Speed:** 30 feet  
-**Age**: Halflings mature at roughly same rate as humans, and typically a little longer than humans, often reaching 100 with a rare few living substantially longer.   
-**Languages:** The frequent travels and ancestral memory of halflings exposes them to many languages. You may select five [[languages]] during character creation, which should likely including Halfling and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
+**Age**: Halflings mature at roughly the same rate as humans, and typically live a little longer than humans, often reaching 100 with a rare few living substantially longer. \
+**Languages:** The frequent travels and ancestral memory of halflings expose them to many languages. You may select five [[languages]] during character creation, which should likely include Halfling and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
 
 ## Halfling Traits
 
@@ -58,7 +62,7 @@ Halflings are generally small, quick, charming and adaptable wanderers. You may 
 - _Obito's Charm_. You can use a Bonus Action to project a minor telepathic aura that extends to the range of your Silent Speech. Choose one creature you can see that is within the aura. The next time you take the [Influence](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#InfluenceAction) action against the target, while the target is in your telepathic aura, you have Advantage on the d20 Test. Once you use this ability, you cannot use it again until you finish a short or long rest.
 - _Obito's Knowledge_. You have a knack for picking up new things. You gain your choice of one tool proficiency. In addition, you can act as an assistant when crafting items, as if you were proficient in a tool, even if you lack proficiency. 
 - _Jemghari's Bravery_. You have advantage on saving throws against being frightened.
-- _Jemghari's Speech._ You have a intuitive understanding of speech and language patterns. You learn two languages, and you may communicate one to three word sentences with any creature, as long as it speaks a language, even if you do not understand the language.
+- _Jemghari's Speech._ You have an intuitive understanding of speech and language patterns. You learn two languages, and you may communicate one to three word sentences with any creature, as long as it speaks a language, even if you do not understand the language.
 
 
 %%^Campaign:none%%
@@ -91,4 +95,8 @@ Obito's Knowledge Option 3: You gain your choice of one tool proficiency.  In ad
 Obito's Knowledge Option 4: You gain your choice of one tool proficiency, or, if you are already proficiency, expertise in one tool proficiency. In addition, you can act as an assistant when crafting items, as if you were proficient in a tool, even if you lack proficiency. 
 
 
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern character-creation guidance and cultural background; the article assumes no narrower in-world date.
 %%^End%%

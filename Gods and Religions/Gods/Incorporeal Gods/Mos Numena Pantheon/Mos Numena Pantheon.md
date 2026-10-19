@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:02:41-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the}
 tags: [background, religion/mosnumena]
-displayDefaults: {defArt: "the"}
-aliases: [Eight Divines]
 name: Eight Divines
+aliases: [Eight Divines]
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # The Eight Divines
 
-The followers of [[Mos Numena]] worship eight divines. These deities are archetypes: they are not usually thought of as beings with distinct personalities, feelings, or human emotion, but rather as personification of forces and virtues. 
+The followers of [[Mos Numena]] worship eight divines. These deities are archetypes: they are not usually thought of as beings with distinct personalities, feelings, or human emotion, but rather as personifications of forces and virtues.
 
 The Eight Divines are:
 
@@ -21,3 +24,11 @@ The Eight Divines are:
 * [[The Wanderer]] (god of travel, trade, strangers, and outcasts)
 * [[The Wyrdling]] (nonbinary deity of chaos, luck, and fate)
 * [[The Wildling]] (nonbinary deity of nature and elements)
+
+%%^Metadata:names:v1%%
+- {name: Eight Divines, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; summarizes the pantheon and its usual divine associations in current-era Mos Numena worship.
+%%^End%%

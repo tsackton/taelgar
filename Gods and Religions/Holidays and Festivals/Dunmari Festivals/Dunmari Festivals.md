@@ -1,7 +1,11 @@
 ---
-tags: [background]
+lintedAt: "2026-10-19T10:39:23-04:00"
+lintVersion: "3.5"
+tags: [background, status/check/lint]
+name: Dunmari Festivals
 dm_owner: tim
 dm_notes: none
+POV: modern
 ---
 
 # Festivals
@@ -14,7 +18,7 @@ The major festivals of the religious cycle are:
 
 - The Night of Whispers, celebrated on the first new moon of the year, following the Festival of the New Dawn, usually in February. Traditionally seen as a time when the gods are far away, and lost spirits haunt the night. Prayers for lost souls, and remembrance of those who have faded away, are common. Sometimes associated with Adra, who some Dunmari claim was born on the first new moon of the year. 
 
-- The [[Festival of Rebirth]], on the first full moon after the vernal equinox, usually in early April, marking the beginning of summer. A feast day celebrating Jeevali’s resurrection. This is one of the most important festivals of the the year, and is almost always associated with large communal fairs and celebrations around temples, and the coming together of dispersed communities. Strongly associated with Jeevali and Bhishma.
+- The [[Festival of Rebirth]], on the first full moon after the vernal equinox, usually in early April, marking the beginning of summer. A feast day celebrating Jeevali’s resurrection. This is one of the most important festivals of the year, and is almost always associated with large communal fairs and celebrations around temples, and the coming together of dispersed communities. Strongly associated with Jeevali and Bhishma.
 
 - The [[Feast of Bhishma]], starting the night before the third new moon after the Festival of Rebirth, usually in mid-June and marking the end of summer. A celebration of Bhishma’s ascension to godhood, as well as the founding of Dunmar. The first day is a day of remembrance, the second is a pure celebration, a feast and party holiday, usually celebrated with family and kin, not necessarily involving travel back to villages or temples. However, it was a time when the Mystai of Bhishma gathered for their annual council and gathering. This is usually around the summer solstice.
 
@@ -115,3 +119,27 @@ Monsoon: June - September
 
 Autumn: October - December
 %%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern overview of the Dunmari festival cycle; the hidden old notes are provisional planning rather than a historical article snapshot.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the existing overview identity explicitly as `name: Dunmari Festivals` and added `POV: modern` with temporal coverage metadata.
+- Removed the duplicated “the” in the Festival of Rebirth entry.
+
+### Validated judgments
+- The overview adequately describes the annual cycle and communal versus household observance. It summarizes multiple subjects and therefore does not require a name block.
+- The old OneNote comment is unresolved calendar planning; it remains noncanonical and unchanged.
+
+### Open findings
+
+- [ ] **Warning — correctness.internal_conflict:** The introduction places the new year on January 22nd, while the first festival entry calls January 23rd the first day. [[Festival of the New Dawn]], [[Calendar Eras]], and [[Session 84 (DuFr)]] also support January 23rd. Confirm the intended boundary; the supported candidate for the introduction is: “The cycle of Dunmari festivals and feast days runs from January to January, with the new year marked on January 23rd.” No date was changed automatically.
+
+- [ ] **Warning — correctness.calendar_rule_ambiguity:** The Feast of Bhishma entry uses “the night before the third new moon after the Festival of Rebirth,” while [[Feast of Bhishma]] uses “the day before the night of the first new moon in June.” These are different recurrence rules, and their equivalence across years is not established. Confirm the intended rule in both notes. If the dedicated feast note governs, a candidate opening is: “The [[Feast of Bhishma]], a two-day festival starting the day before the night of the first new moon in June, marks the end of summer and the start of the monsoon season.”
+
+- [ ] **Warning — correctness.inconsistent_festival_name:** The November entry introduces the “Feast of the Harvest Veil” but later says “each week following the Feast of the Harvest Moon.” The note does not say whether these are alternate names or different festivals. Choose the intended name or explicitly establish the alias. If the entry heading is intended, replace the later phrase with “each week following the Feast of the Harvest Veil.”
+%%^End%%

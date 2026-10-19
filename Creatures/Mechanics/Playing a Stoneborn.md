@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta, status/check/mike]
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/mike, status/check/lint]
+name: Playing a Stoneborn
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Playing a Stoneborn
 *See more: [[Stoneborn]], [[Sentinel Range|Indalas]]*
@@ -17,11 +21,11 @@ Stoneborn appear to be humanoids shaped of stone, and have appearances as divers
 ---
 ## Creating Your Stoneborn Character
 
-When you create your stoneborn character, consider why you left your community. Many stoneborn villages share an ethos communal decision-making and consensus-building that creates extremely close-knit communities. Did you leave your home on a personal mission? A mission for your community? Or maybe a tragedy forced you to leave, or a personal mistake drove you into exile. 
+When you create your stoneborn character, consider why you left your community. Many stoneborn villages share an ethos of communal decision-making and consensus-building that creates extremely close-knit communities. Did you leave your home on a personal mission? A mission for your community? Or maybe a tragedy forced you to leave, or a personal mistake drove you into exile.
 
 Many stoneborn also have a deep sense of mastery over a craft, often training for very long periods to become true masters. Do you have a craft or obsession you are connected to? Did you have a mentor or a master you apprenticed under? Or maybe you are still seeking your craft; perhaps your class represents your focus. 
 
-A common story, if you engaging with the lore of the stoneborn does not interest you, is that you grew up in an isolated village in the [[Sentinel Range|Sentinels]], and left your home on a personal mission unrelated to your village or community. 
+A common story, if engaging with the lore of the stoneborn does not interest you, is that you grew up in an isolated village in the [[Sentinel Range|Sentinels]], and left your home on a personal mission unrelated to your village or community.
 
 ### Stoneborn Names
 
@@ -72,5 +76,24 @@ As a Stoneborn, you are connected to [[Entamba]], the soul of the mountain. Choo
 - **Glacier's Strike**: When you hit a target with an attack roll and deal damage to it, you can also deal 1d6 Cold damage to that target and reduce its Speed by 10 feet until the start of your next turn.
 - **Avalanche's Blow**: When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the [Prone](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) condition.
 - **Rock's Endurance**: When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total.
-- **Stone's Focus**: When you make an ability check using a skill or tool you have proficiency in, you can channel Entamba's focus. You add your Proficiency Bonus to the roll one additional time. 
+- **Stone's Focus**: When you make an ability check using a skill or tool you have proficiency in, you can channel Entamba's focus. You add your Proficiency Bonus to the roll one additional time.
 
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; character-creation guidance and species mechanics for the current campaign era, with no narrower in-world date assumed.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the explicit page name and broadly modern POV with temporal coverage notes.
+- Corrected “an ethos communal” to “an ethos of communal” and “if you engaging” to “if engaging.”
+
+### Validated judgments
+- This mechanics page already uses the character-creation, names, basic-traits, and species-traits structure of [[Playing a Halfling]]; the species-article headings in [[Halflings]] do not apply.
+- The hidden design notes concern trait balance and remain separate from public lore.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** `Basic Traits` gives a usual weight of 280–450 pounds, while [[Stoneborn#Mountain folk|Stoneborn]] gives 400–500 pounds. This page makes community and use names optional, while [[Stoneborn#Stoneborn Names|the reference article]] says every Stoneborn has a clan name and most take a use name. Neither note resolves which version governs. Choose a common weight range and whether community/use names are customary or optional, then reconcile both notes. If this mechanics account is adopted, the reference weight becomes `weighing between 280 and 450 pounds`, and its names opening can become: `Stoneborn typically have a single given name. Some also use the name of their community, especially when traveling outside their homeland, and some take a use name reflecting their skill or training. Names are not gendered in Stoneborn society.` Preserve or separately decide the remaining apprenticeship-lineage customs rather than losing them during reconciliation.
+%%^End%%

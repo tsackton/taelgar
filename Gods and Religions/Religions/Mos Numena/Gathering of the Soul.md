@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:39:23-04:00"
+lintVersion: "3.5"
 tags: [background, religion/mosnumena]
+name: Gathering of the Soul
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Gathering of the Soul
 
@@ -14,4 +18,12 @@ Instead, the rites of mourning and remembrance associated with Mos Numena funera
 
 Sources: [[Sembaran Funerary Traditions]], [[Tyrwinghan Funerary Traditions]], [[Drankorian Funeral Traditions]], [[Land of the Dead]], and [[Cosmology - Open Questions]].
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Gathering of the Soul", "language": "unknown", "status": "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern summary of Mos Numena theology about the passage of a deceased soul and the purpose of funerary rites.
 %%^End%%

@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [meta, status/check/mike]
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/mike, status/check/lint]
+name: Playing a Lizardfolk
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Playing a Lizardfolk
 *See more: [[Lizardfolk]], [[Tharzen Anzinakoa]], [[Latazaro]], [[Ozabal|Ozabal Swamp]]*
@@ -17,15 +21,15 @@ Lizardfolk culture is shaped by the elders, who guide lizardfolk societies, ensu
 ---
 ## Creating Your Lizardfolk Character
 
-When you create your lizardfolk character, you might want to consider your relationship to your elders and ancestors. Many lizardfolk villages and societies are strongly shaped by the elders, and the spirits of the ancestors, who guide villages to ensure that growth is balanced with what the land can provide. This means that most lizardfolk societies are places of ample food and leisure, but where decisions about children are controlled collectively. If you grew up in such a place, did you leave your home with the blessing of the elders or ancestors? Against their wishes? Or are they uninvolved in your journey? You might also consider whether you grew up in a place isolated from other species, or a place close to humans or others. Or maybe you grew up someone atypical for lizardfolk; if so, how did that impact your character?
+When you create your lizardfolk character, you might want to consider your relationship to your elders and ancestors. Many lizardfolk villages and societies are strongly shaped by the elders, and the spirits of the ancestors, who guide villages to ensure that growth is balanced with what the land can provide. This means that most lizardfolk societies are places of ample food and leisure, but where decisions about children are controlled collectively. If you grew up in such a place, did you leave your home with the blessing of the elders or ancestors? Against their wishes? Or are they uninvolved in your journey? You might also consider whether you grew up in a place isolated from other species, or a place close to humans or others. Or maybe you grew up somewhere atypical for lizardfolk; if so, how did that impact your character?
 
-A simple answer if the engaging with the lore of lizardfolk is not of interest might be that you are from a town or village close to human settlement, perhaps in [[Greater Sembara]] or [[Greater Chardon]] as appropriate for your campaign, and that you left your home neither with the blessing and guidance of the elders of your village, nor against their wishes, but simply to find your own path. 
+A simple answer if engaging with the lore of lizardfolk is not of interest might be that you are from a town or village close to human settlement, perhaps in [[Greater Sembara]] or [[Greater Chardon]] as appropriate for your campaign, and that you left your home neither with the blessing and guidance of the elders of your village, nor against their wishes, but simply to find your own path.
 
 ### Lizardfolk Names
 
-Lizardfolk in Taelgar typically have a single given name, with the name of their home village or a physical descriptor serving as a second name when needed. Lizardfolk are often named after favored ancestors, so names tend to repeat across generations and often have some meaning in family lore or history. Some lizardfolk believe that some fragment of an ancestor is reborn into a new generation; because of this believe typically names are not repeated within generations, only across generations. 
+Lizardfolk in Taelgar typically have a single given name, with the name of their home village or a physical descriptor serving as a second name when needed. Lizardfolk are often named after favored ancestors, so names tend to repeat across generations and often have some meaning in family lore or history. Some lizardfolk believe that some fragment of an ancestor is reborn into a new generation; because of this belief typically names are not repeated within generations, only across generations.
 
-To chose a name for your lizardfolk character, you might consider using one of the names below or inventing your own, which might not follow typical lizardfolk naming practice. 
+To choose a name for your lizardfolk character, you might consider using one of the names below or inventing your own, which might not follow typical lizardfolk naming practice.
 
 **Male Names:** Arran, Aitor, Arzhider, Benat, Eneko, Ganiz, Ilari, Itzal, Mattin, Samso, Zorion, Zuzen   
 
@@ -42,10 +46,10 @@ To chose a name for your lizardfolk character, you might consider using one of t
 
 ## Lizardfolk Traits
 
-As an Lizardfolk, you have these special traits.
+As a Lizardfolk, you have these special traits.
 
 #### Aquatic Adaptations
-You have a Swim Speed equal to your Speed, and you can hold your breath for up to 30 minutes at at time.
+You have a Swim Speed equal to your Speed, and you can hold your breath for up to 30 minutes at a time.
 
 #### Natural Armor
 You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
@@ -115,4 +119,24 @@ There is no "firstborn's gift" option here - the simplest thing to do would be t
 
 Of course not everything has to be balanced and especially between-species balance is not too crucial in my mind as long as all species feel satisfying to play. but the "this feature is useless for a heavy armor cleric or fighter" is still not ideal IMO. 
 
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; character-creation guidance and species mechanics for the current campaign era, with no narrower in-world date assumed.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the explicit page name and broadly modern POV with temporal coverage notes.
+- Corrected six unambiguous visible wording errors: someone/somewhere, the engaging/engaging, believe/belief, chose/choose, an/a, and at at/at a.
+
+### Validated judgments
+- This mechanics page already uses the character-creation, names, basic-traits, and species-traits structure of [[Playing a Halfling]]; the species-article headings in [[Halflings]] do not apply.
+- The hidden status and design material preserves outstanding biology decisions and mechanics rationale.
+
+### Open findings
+
+- [ ] **Warning — correctness.internal_conflict:** `Basic Traits` states a fixed first 5–8 years as amphibious young and a typical elder lifespan, while the hidden `Status / Unique Biology` notes expressly leave childhood consequences and longevity undecided. [[Lizardfolk#Lifecycle|Lizardfolk’s lifecycle section]] likewise preserves unresolved live-young/egg, aquatic/amphibious, and age questions instead of adopting that older age text. Decide whether the published age rule is the intended playable default or provisional. If it remains provisional, a bounded player-facing replacement is: `**Age**: Lizardfolk reach adulthood in their late teens. Details of their early development and elder lifespan remain under review; agree these with your DM when they matter to your character.` If the present values are adopted, reconcile the linked lifecycle and design notes explicitly; do not silently treat their uncertainty as resolved.
 %%^End%%

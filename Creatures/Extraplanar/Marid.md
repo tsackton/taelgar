@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [creature, status/check/lint]
+name: Marid
 aliases: [marids, Marids, marid]
-tags: [creature]
-dm_notes: none
 dm_owner: tim
+dm_notes: none
+POV: modern
 ---
 # Marid
 
@@ -89,10 +93,36 @@ Session artifacts and less-canonical working notes checked:
 - [[mawar-adventures-002-session-recap]]
 - [[mawar-adventures-005-session-recap]]
 - [[mawar-adventures-002-source-cleaned]]
-- [[mawar-adventures-002-human-transcript]]
-- [[mawar-adventures-002-beat-facts-preview]]
+- [[mawar-adventures-002-source-cleaned|mawar-adventures-002-human-transcript (retained cleaned source)]]
+- [mawar-adventures-002-beat-facts-preview (retained beat facts)](../../_sessions/mawar/mawar-adventures-002/cleaned/mawar-adventures-002-beat-facts.json)
 - [[2023-10-30 - Species]]; [[2023-10-31 - Species]]; [[2024-07-26 - Species and Souls]]; [[2024-09-04 - Species]]
-- [[GDrive - History of Taelgar]]
+- [[GDrive - History of Taelgar - Final Text and Comments|GDrive - History of Taelgar (updated export)]]
 - [[Options for 6th level features]]
 - [[Zone 1 - DM Notes]]
 %%
+
+%%^Metadata:names:v1%%
+- {name: Marid, language: unknown, pronunciation: MAH-rid, status: proposed, notes: "Cautious spelling-based proposal with first-syllable stress, a as in father, and a short i. The reviewed sources establish no accepted pronunciation or source language; this is not an adopted in-world pronunciation."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference description; no narrower in-world snapshot is established.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the explicit display name, a proposed pronunciation entry, and temporal viewpoint metadata; normalized frontmatter order.
+- Repaired three stale source links to their retained source or replacement export, preserving the old source labels. The removed human transcript is an exact rendering of the retained cleaned source; the removed preview derives from the retained beat-facts data.
+
+### Validated judgments
+- The public description preserves the uncertainty about solitary marids and organized societies; [[Elemental Plane of Water]] and [[Creatures of Taelgar]] likewise present these as accounts or beliefs.
+- The long shared comment is explicitly labeled brainstorming, so it is not treated as adopted lore or automatically promoted.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The name block proposes `MAH-rid` as a cautious spelling-based reading, with first-syllable stress, a as in father, and short i. No accepted pronunciation or source language is established by the reviewed creature, plane, or individual sources. Confirm or replace the proposal, then mark the entry documented and copy the accepted primary pronunciation to frontmatter.
+
+- [ ] **Suggestion — editorial.prose_clarity:** The sentence “Yet, some scholars this picture and hint that organized marid societies must exist somewhere” is missing its main verb. The intended contrast is apparent, but the precise assertion needs confirmation. Copy-ready candidate: “Yet some scholars question this picture and hint that organized marid societies must exist somewhere.” This preserves the scholarly attribution and uncertainty.
+%%^End%%

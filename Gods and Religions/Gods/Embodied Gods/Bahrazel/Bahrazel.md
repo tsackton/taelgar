@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:02:41-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the, ltItem: by}
 tags: [background, religion/dwarven]
-displayDefaults: { defArt: the, ltItem: by}
 name: Bahrâzel
 aliases: [Bahrâzel]
 pronunciation: BAH-rah-zel
-dm_notes: color
 dm_owner: none
-
+dm_notes: color
+POV: modern
 ---
 # The Bahrâzel
 *(BAH-rah-zel)*
@@ -26,3 +28,11 @@ The Bahrâzel, the seven gods of the dwarves, play a significant role in dwarven
 - [[Azar]] (he/him), the Warrior, the patron of those who fight to defend the dwarven kingdoms, worshipped as the strongest warrior and original defender of the dwarven race
 - [[Maganna]] (she/her), the Traveler, the patron of those who wander, whether seeking new tunnels and ore deep underground or venturing into the wider outside world, worshipped as the first miner of the dwarves
 - [[Oshkir]] (he/him), the Farmer, the patron of living things, growth, healing, and teaching, worshipped as the first teacher of the dwarves
+
+%%^Metadata:names:v1%%
+- {name: Bahrâzel, language: unknown, pronunciation: BAH-rah-zel, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose about the dwarven gods, their traditional roles, and their mythic creation of the dwarves.
+%%^End%%

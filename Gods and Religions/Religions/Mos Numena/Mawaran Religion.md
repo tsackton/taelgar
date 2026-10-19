@@ -1,9 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [religion/mosnumena, background]
+lintedAt: "2026-10-19T10:39:23-04:00"
+lintVersion: "3.5"
+tags: [religion/mosnumena, background, status/check/lint]
 name: Mawaran Religion
-dm_notes: none
 dm_owner: joint
+dm_notes: none
+POV: modern
 ---
 # Mawaran Religion
 
@@ -91,4 +94,29 @@ Discussion and brainstorming links:
 - [[Traditions around Death]] and [[Email - Wazir Backstory II]] strongly support Mawaran grave tokens and ancestor-guided funerals, but the former is explicitly marked not fully canonical and the latter is email/worldbuilding discussion. 
 - Ocean Watcher material shows real mystical practice around the sea, but no source yet defines the Ocean Watchers as clergy or a religious order.
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Mawaran Religion", "language": "unknown", "pronunciation": "mah-WAHR-ahn rih-LIJ-uhn", "status": "proposed", "notes": "Uses the recorded mah-WAHR reading of Mawar in [[Mawar Confederacy]], with the English adjectival ending -an and ordinary English Religion. The complete displayed form and its stress remain proposed; its language is unestablished."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern Mawaran religious practice; the article summarizes the tradition without dating its formation or resolving the historical and institutional questions in the shared editorial notes.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added the explicit name where absent.
+- Recorded the article viewpoint and persistent temporal coverage.
+- Added persistent name metadata with a proposed pronunciation.
+
+### Validated judgments
+- [[Mawar Confederacy]] and [[Guzo the Mariner]] support the visible distinction between the Eight Divines and heroic intercessors.
+- The hidden source dossier preserves canon boundaries and unresolved decisions; its institutional and funerary possibilities were not promoted.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Confirm or correct the complete reading `mah-WAHR-ahn rih-LIJ-uhn`. [[Mawar Confederacy]] records `mah-WAHR`; the proposal preserves that name-specific reading and adds the ordinary English adjectival -an and word Religion. This recorded root takes precedence over deriving a new root from the Mawaran Arabic analogue in [[Languages]], but it does not settle the complete displayed form. If accepted, add `pronunciation: mah-WAHR-ahn rih-LIJ-uhn` to frontmatter and mark the name entry `documented`. Its source language remains unestablished.
 %%^End%%

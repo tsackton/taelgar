@@ -1,7 +1,11 @@
 ---
-tags: [meta, status/wip]
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [meta, status/wip, status/check/lint]
+name: Playing a Free Orc
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 
 # Playing a Free Orc
@@ -50,3 +54,23 @@ You have [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-gl
 #### Relentless Endurance
 
 When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 Hit Point instead. Once you use this trait, you can’t do so again until you finish a Long Rest.
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the character-creation rules and basic orc traits apply to current-era play without a narrower in-world snapshot.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the explicit display name and broadly modern temporal metadata.
+
+### Validated judgments
+- The visible traits provide a usable mechanics reference. This is a player-facing mechanics page, so the in-world species-article headings in [[Halflings]] are not required here.
+- `status/wip` is supported by the unfinished player-guide template in the opening `Campaign:none` block; the tag is preserved.
+- The PHB-design comment records an intentional provisional choice of mechanics, not a contradiction or a public lore claim.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.playable_species_format:** The page has the trait sections of the new player-guide format, but its opening `Campaign:none` block still contains “links to relevant pages,” “SHORT DESCRIPTION,” the unfilled character-creation and naming prompts, and an empty D&D Beyond label. Unlike [[Playing a Halfling]], it has no public introduction or character-creation guidance and no link to its [[Orcs|species article]]. Finish this bounded player-guide front section, keeping Basic Traits and Orc Traits separate from the in-world article. [[Playable Species of Taelgar#Rare Species]] supplies suitable existing character questions about escaping Thark, being raised among free orcs, and facing suspicion; [[Orcs#Unchained Orcs]] provides the lore context. Use only established naming guidance, and supply a D&D Beyond link only if an actual entry exists. Keep unadopted design notes hidden, and obtain approval before changing the existing visibility block. This is a format-completion finding, not authorization to invent lore or copy the full Halflings article structure.
+%%^End%%
