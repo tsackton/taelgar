@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [source]
+name: Merfolk Fortunes
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Merfolk Fortunes
 
@@ -45,3 +49,11 @@ Sing loud, stay clear, lest the merfolk draw you near!
 [chorus]
 Heave ho, sail high, watch where the kelp beds lie,  
 Sing loud, stay clear, lest the merfolk draw you near!
+
+%%^Metadata:names:v1%%
+- {name: Merfolk Fortunes, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; presents a shanty popular in the current-era Gulf of Chardon without establishing its composition date.
+%%^End%%

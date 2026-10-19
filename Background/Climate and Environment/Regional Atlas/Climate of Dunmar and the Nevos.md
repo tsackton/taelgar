@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta]
+name: Climate of Dunmar and the Nevos
 excludePublish: [all]
+POV: modern
 ---
 # Climate of Dunmar and the Nevos
 
@@ -84,7 +88,7 @@ The headings below use northern-hemisphere seasons for comparison with the rest 
 
 ### Winter: the cooler dry season
 
-Across most Dunmari lowlands, the monsoon has withdrawn. Drier continental or northeasterly flow favors settled intervals, lower river levels and a pronounced contrast between hot, sunlit afternoons and cooler nights. Darba retains its mild subtropical coastal cool season, with seasonably warm days and moderate night. Occasional fog in Western Dunmar's moist low ground is compatible with a dry season: fog does not require a new rainy season.
+Across most Dunmari lowlands, the monsoon has withdrawn. Drier continental or northeasterly flow favors settled intervals, lower river levels and a pronounced contrast between hot, sunlit afternoons and cooler nights. Darba retains its mild subtropical coastal cool season, with seasonably warm days and moderate nights. Occasional fog in Western Dunmar's moist low ground is compatible with a dry season: fog does not require a new rainy season.
 
 Stored water remains visible in the perennial Darba rivers and in the major inland waterways, while seasonal washes are dry. The [[Sukal]] can shrink to a trickle and nearly disappear in some years. The southern tropical margin has minimal winter cooling compared to northern Dunmar, and enough moisture to support tropical forests, but detailed rainfall is undeveloped south of the [[Nayan]].
 
@@ -104,7 +108,7 @@ Rain commonly establishes in June or July, first in accessible western districts
 
 During active periods, repeated rain wets the coast and exposed slopes, rivers flood and roads become muddy. The wetter districts can be cloudier and less fiercely hot by day than during the clear premonsoon interval, while remaining warm and humid. The interior receives less regular rain: intense local storms may alternate with dry ground and sunshine nearby. Alta Tonaro remains predominantly dry, with only rare summer thunderstorms.
 
-Breaks occur when the trough shifts or the inflow weakens. Inland rain can pause while coastal or foothill showers continue, and clearer, hotter weather returns. The June–September occurrence window allows variable onset and retrea; no duration or number of active spells is assigned.
+Breaks occur when the trough shifts or the inflow weakens. Inland rain can pause while coastal or foothill showers continue, and clearer, hotter weather returns. The June–September occurrence window allows variable onset and retreat; no duration or number of active spells is assigned.
 
 ### Autumn: retreat and moisture carried forward
 
@@ -141,3 +145,7 @@ The main undeveloped choices are Illoria's annual rainfall pattern; the strength
 The continental overview's [[Taelgar Climate Model#Dunmar and the Nevos|Dunmar and Nevos comparisons]] provide broad temperature and landscape analogies. They range from Darba's subtropical summer-rain climate through semiarid Hara to desert Garamjala, and from Nayan's seasonal lowlands toward wetter tropical forest. These are comparisons, not imported rainfall calendars or calculated climate classifications.
 
 Return to [[Regional Climate Atlas]] or [[Climate and Environment]].
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern regional defaults, illustrated by selected DR 1748 observations rather than a single annual weather calendar.
+%%^End%%

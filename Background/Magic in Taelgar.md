@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/review]
-excludePublish: ["all"]
-dm_notes: none
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [background, status/review, status/check/lint]
+name: Magic in Taelgar
+excludePublish: [all]
 dm_owner: joint
+dm_notes: none
+POV: modern
 ---
 # Magic in Taelgar
 
-%% ots of stuff still to flesh out:
+%% Lots of stuff still to flesh out:
 - impact of rare high level spells
 - non-clerics
 - magic items (both common and rare)
@@ -27,7 +31,7 @@ Starting with a few basic observations about the world that should be maintained
 2. Most magic comes from the various gods and divinities of Taelgar. This is by far the easiest magic to learn, the most common magic, and the most reliable magic. 
 	1. For humans, this means that divine magic users are far more common than arcane or primal magic users among the population
 	2. For Firstborn races, this means that whatever manifestations of magic that their Embodied Gods provide are far more common than anything else.
-3. Arcane magic comes from learning to manipulate extraplanar energy, which leaks into Taelgar in various ways. This has relatively little implications for spellcasting, but is an important lore fact.
+3. Arcane magic comes from learning to manipulate extraplanar energy, which leaks into Taelgar in various ways. This has relatively few implications for spellcasting, but is an important lore fact.
 4. Primal magic is not well defined and maybe does not need to exist as a lore category, as opposed to a mechanical category. However, this feels a little unsatisfying as there is clearly something a little different about the vibes of druids and rangers. This might wait until a player interested in worldbuilding plays a druid. 
 5. The ability to use magic is much more common, for whatever reason, among individuals driven to adventure, as heroes or villains, than among those who settle. This does not currently have any satisfying in-game explanation, but is necessary to allow satisfying high-level adventures to exist with humanoid allies and enemies.
 ## How Common is Magic?
@@ -58,15 +62,15 @@ The general implications are probably as follows:
 	2. Light: with only an hour duration, and only one existing at a time, doesn't really substitute for electricity or oil lamps, but for example temples might often  be lit by magic after dark. 
 	3. Mending: the biggest impact on worldbuilding. if mending is generally available in most market towns, things last longer in general, and temples/religions could use as a source of funds e.g, a market stall to fix things in exchange for a small donation.
 	4. Create or Destroy Water: this would be very effective for firefighting, and might help explain why towns don't burn down as frequently as they did historically; but it doesn't create enough water to sustain a population in the absence of a non-magical water source, or prevent a drought from destroying crops
-	5. Cure Wounds, Healing Word: in my opinion, the major worldbuilding implication here is we can assume childbirth is very safe, or at least if there are complications as long as you get a cleric you can save the child or the mother or both fairly easily. this can also be used for things like setting broken bones, healing damage from minor injuries, etc. generally use the ready availablity of cure wounds as a substitute for modern medicine to give the world a more modern demographic flavor (childbirth is not super-dangerous, child mortality is not super high)
+	5. Cure Wounds, Healing Word: in my opinion, the major worldbuilding implication here is we can assume childbirth is very safe, or at least if there are complications as long as you get a cleric you can save the child or the mother or both fairly easily. this can also be used for things like setting broken bones, healing damage from minor injuries, etc. generally use the ready availability of cure wounds as a substitute for modern medicine to give the world a more modern demographic flavor (childbirth is not super-dangerous, child mortality is not super high)
 	6. Purify Food and Drink, Detect Poison and Disease: major use would be stopping water-borne disease. the cleric blesses the well and people stop getting sick; Detect Poison and Disease can trace the source of outbreaks. 
-7. At 2nd level, you get a few addiitonal worldbuilding implications, primarily for large cities where 2nd level casters are more common
+7. At 2nd level, you get a few additional worldbuilding implications, primarily for large cities where 2nd level casters are more common
 	1. Augury: mostly for flavor, but people asking the local priest for advice would not be too atypical; only works 1/day per cleric though
 	2. Continual Flame: despite the costly material components, would be extremely valuable for producing lanterns in big cities, and in many cases streets should be lit at night not by oil lamps but by continual flame lamps (however, theft might be a problem). Permanent lanterns would be a thing but an expensive, luxury item. Because of the cost and the risk of theft, the biggest use is probably in things like libraries and archives where you have a lot of flammable material. 
 	3. Enhance Ability, Locate Object: mostly flavor, really, but you would have prayers of finding and other kinds of prayers 
 	4. Lesser Restoration: major impact on disease; although you can only cure a few people per day, and so can't stop a massive outbreak, this can make disease burden much closer to modern day than to typical medieval conditions
 	5. Zone of Truth: in some places, this may be common enough to be part of criminal proceedings, especially in places like Dunmar where priests are judges
-8. At 3rd level, spells start to really scale in power, with things like Sending, Speak with Dead, Create Food and Water, Clairvoyance, Tongues having potentially major impacts on the world. But in general, these are rare enough that while accessible they aren't common enough to majorly affect worldbuliding - these are just there for things like the population of city X survived a siege longer than expected by supplementing their supplies with Create Food and Water. Sending probably affects politics a bit as most rulers likely have a spellcaster capable of a few Sendings per day. So news can travel faster than in real medieval models, although Sending is limited enough this can create confusion and problems as well. 
+8. At 3rd level, spells start to really scale in power, with things like Sending, Speak with Dead, Create Food and Water, Clairvoyance, Tongues having potentially major impacts on the world. But in general, these are rare enough that while accessible they aren't common enough to majorly affect worldbuilding - these are just there for things like the population of city X survived a siege longer than expected by supplementing their supplies with Create Food and Water. Sending probably affects politics a bit as most rulers likely have a spellcaster capable of a few Sendings per day. So news can travel faster than in real medieval models, although Sending is limited enough this can create confusion and problems as well.
 #### Other Cantrips to Consider
 
 Shape Water, Prestidigitation, Control Fire / Produce Flames / Create Bonfire, what else?
@@ -87,7 +91,7 @@ Taelgar is a world rich in magic. While it comes in many flavors, fundamentally 
 
 ### Racial Magic
 
-The Elder races have their own racial magics that draw power from their connections to the Embodied Gods that created them. While the exact nature of these racial magics is not always widely known, rumors abound of elves manipulating the essence of magic itself, of dwarves and their runes of power, of lizardfolk and their connection to the [[Dreamworld]] and the spirits of their ancestors, of halfling telepathy, of stoneborn able to change their bodies and strengthen there minds. 
+The Elder races have their own racial magics that draw power from their connections to the Embodied Gods that created them. While the exact nature of these racial magics is not always widely known, rumors abound of elves manipulating the essence of magic itself, of dwarves and their runes of power, of lizardfolk and their connection to the [[Dreamworld]] and the spirits of their ancestors, of halfling telepathy, of stoneborn able to change their bodies and strengthen their minds. 
 
   
 
@@ -122,7 +126,7 @@ Magic in Taelgar can be made stronger, or weaker, by many things. Often, these a
 
 ### Primal Presence
 
-The magical resonances of the echo realms and their reflections in Taelgar is the ultimate source of magical power for druids, rangers, and some warlocks and sorcerers. These casters draw on the energy of the world itself, the magic that is reflected from Taelgar into the Feywild, the Shadowfell, and the other echo realms. 
+The magical resonances of the echo realms and their reflections in Taelgar are the ultimate source of magical power for druids, rangers, and some warlocks and sorcerers. These casters draw on the energy of the world itself, the magic that is reflected from Taelgar into the Feywild, the Shadowfell, and the other echo realms. 
 
 Like ley lines, there are thin spots in the world where one or more echo realms are closer to Taelgar, where the boundary between places is more tenuous. These often function as portals between worlds, but can also affect magic that draws power from the echo realms in ways that are similar, albeit more unpredictable, to the way that ley lines affect the magic of the Plane of Magic.
 
@@ -157,3 +161,29 @@ The Elder races have unique access to special racial magic, via their connection
     
 
 %%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; working assumptions about magic and society, with unfinished metaphysical and worldbuilding questions retained.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter formatting; added explicit name and persistent temporal-viewpoint metadata.
+- Corrected the spelling of “ots,” “availablity,” “addiitonal,” and “worldbuliding,” the possessive “there minds,” “little implications,” and subject–verb agreement in the legacy Primal Presence paragraph.
+
+### Validated judgments
+- The existing `status/review` remains supported by the explicit development list and unresolved metaphysical choices; the tag is preserved.
+- All three genuine local DM evidence clusters were reviewed; their useful subject material is already captured in shared notes.
+
+### Editorial assessment
+**Underdeveloped**. The note supplies a useful human-cleric baseline, but its promised account of magic’s effects on society lacks two central dimensions: ordinary non-divine and Firstborn magic, and common/rare magic items. Its opening review list and “Other Cantrips to Consider” preserve those gaps as planning rather than an account. The smallest useful scope is one bounded section on those non-clerical everyday effects and one on item availability and social uses; keep unresolved metaphysics explicitly unresolved.
+
+- Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material.
+
+### Open findings
+- [ ] **Suggestion — editorial.note_underdeveloped:** The opening review comment explicitly lists non-clerics, magic items, and other species, while the visible practical account develops only human clerics. Complete one bounded account of everyday non-divine/Firstborn magic and one of common versus rare magic items, addressing availability and societal uses. [[Magic in Taelgar - Open Questions]] is provisional discussion, not an adopted replacement metaphysics; preserve those choices for human development. These are the two central missing dimensions identified in the editorial assessment, not a request for a general rewrite.
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** In the ordinary comment labeled “dump from Google doc,” the Player’s Overview opening, Divine Magic section, and general extraplanar/arcane explanation substantially repeat “A Few Basic Truths.” Proposed organization: remove only those duplicated legacy passages after human review; retain the distinct racial-magic examples and unresolved primal/other-magic account as review material, and keep the separate DM Guide, chalyte mechanics, and remaining private guidance hidden. Do not promote the legacy primal account as settled lore: visible item 4 explicitly leaves that category unresolved. This bounded split makes the maintained account clearer while preserving distinct and unfinished material.
+%%^End%%

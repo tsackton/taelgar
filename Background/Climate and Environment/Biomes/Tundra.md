@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
+name: Tundra
 excludePublish: [all]
+POV: modern
 ---
 ### Tundra
 *Cold, treeless plains found at high latitudes or altitudes. Ground is underlain by permafrost and the growing season is extremely short.*
@@ -20,7 +24,7 @@ _See more_: [National Geographic](https://education.nationalgeographic.org/resou
 
 #### **Human use**
 - **Population & settlement density**: Very sparse permanent population: scattered small villages, semi-nomadic herder camps, lone hermitages, and the occasional fortified outpost or monastery. Many sites are seasonal: summer hunting or grazing grounds, temporary mining camps, or ritual meeting places. 
-- **Agriculture**: Virtually nonexistent due to frozen soils and short growing seasons,
+- **Agriculture**: Virtually nonexistent due to frozen soils and short growing seasons.
 - **Resources**: Subsistence herding of reindeer, fur trapping, harvest of hardy berries or lichens, limited mining and quarrying in exposed bedrock zones, especially where glaciers or frost have stripped away soil.
 - **Travel & infrastructure:** Overland travel is relatively unobstructed by vegetation, but boggy ground, thaw, snow, and sudden storms make it treacherous. Paths and roads cling to ridge lines, river terraces, and gravelly high spots; rivers may be the only reliable summer routes. In winter, snowpack can improve mobility (sleds, skis, mounts adapted to snow) but raises the stakes for exposure and whiteouts.
 
@@ -56,3 +60,6 @@ _See more_: [National Geographic](https://education.nationalgeographic.org/resou
 - **Above Open Highlands** or **Temperate Coniferous Forests** in mountains. Where highlands and moors give way to treeless, low-cushion vegetation, upgrade to Tundra.
 - **Below High Alpine / Glacier.** As soon as vegetation drops to only lichens and bare rock with permanent snowfields, switch to High Alpine instead.
 
+%%^povNotes:v1%%
+Temporal coverage: broadly modern habitat-selection guidance; this general biome reference does not assign tundra to particular Taelgar regions.
+%%^End%%

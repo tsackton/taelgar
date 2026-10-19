@@ -1,8 +1,12 @@
 ---
-excludePublish: ["dufr"]
-tags: [meta]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
+name: Skills
+excludePublish: [dufr]
 dm_owner: mike
 dm_notes: none
+POV: modern
 ---
 # Skills
 
@@ -13,7 +17,7 @@ All class skill lists are eliminated, and replaced with the following table indi
 
 | Class     | Starting Proficiencies | Multiclass Proficiencies |
 | --------- | ---------------------- | ------------------------ |
-| Artifcier | 2                      | 0                        |
+| Artificer | 2                      | 0                        |
 | Barbarian | 2                      | 0                        |
 | Bard      | 3                      | 1                        |
 | Cleric    | 2                      | 0                        |
@@ -35,7 +39,7 @@ The 'Expertise' feature is eliminated. Instead, any skill proficiency can be use
 
 Trained is a minor benefit except for the skills (see below) where some training is required to even attempt them.
 #### Gaining Skill Proficiencies
-All characters gain a bonus proficiency at level 7th, and another one at level 13th. In addition, any character class that previously gained the Expertise feature at certain levels now gains bonus proficiencies equal to the number of skills they would have gained Expertise in. 
+All characters gain a bonus proficiency at 7th level, and another one at 13th level. In addition, any character class that previously gained the Expertise feature at certain levels now gains bonus proficiencies equal to the number of skills they would have gained Expertise in.
 
 ## Skills and Skill Changes
 
@@ -108,7 +112,7 @@ But this all depends a little bit on what information could plausibly be found. 
 
 Once the player has decided to stop gathering information, they take a couple of hours and make one more roll - to synthesize the gathered information. The DC for this roll depends somewhat on the number of successes. The more information, the easier it is to synthesize. But it would usually be between 5 and 12, depending on the specifics. It could be higher for more esoteric information though.
 
-The syntheses roll helps determine how accurate the information is. Obviously, some information will always be mysterious, but a very poor synthesis roll might result in 2 options that sound plausible with no idea which is correct. 
+The synthesis roll helps determine how accurate the information is. Obviously, some information will always be mysterious, but a very poor synthesis roll might result in 2 options that sound plausible with no idea which is correct. 
 #### Medicine Skill and First Aid
 In general, unless a character specifically doesn’t have the First Aid [[Competencies#Game Effect of Competencies|competency]], the following are allowed with 10 minutes of effort:
 - Awaken an unconscious comrade 
@@ -117,3 +121,23 @@ In general, unless a character specifically doesn’t have the First Aid [[Compe
 The following additional actions are possible with a Medicine skill proficiency:
 - As part of a long rest, reduce the number of wounds a character has by 1 (DC 10+wound level) 
 - As an action, grant advantage on a Constitution check to stay conscious while dying
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; presents house rules for current-era play without a dated revision history.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added an explicit display name and supported temporal metadata.
+- Corrected Artifcier to Artificer, ordinal level grammar, and syntheses to synthesis.
+- Normalized frontmatter field order and string-list formatting without changing existing values.
+
+### Validated judgments
+- This page is a bounded house-rule reference; its mechanics are intentional rules rather than claims requiring agreement with published D&D rules.
+
+### Open findings
+
+- [ ] **Suggestion — content.name_typo:** The Research and Information Gathering example says “the history of Semara”; [[Sembara]] is the established realm, and the exact form Semara appears only in this example in the searched Background, Gazetteer, and Campaigns notes. Confirm the intended name and replace “the history of Semara” with “the history of Sembara” if that realm was intended. The name remains unchanged because lint does not decide names automatically.
+%%^End%%

@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [source]
+name: Hush Little Beet
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Hush Little Beet
 
@@ -30,3 +34,11 @@ If your slumber's filled with screams,
 Granny thrives within your dreams.
 If from nightmares you try to flee,
 Granny claims your soul for tea.
+
+%%^Metadata:names:v1%%
+- {"name": "Hush Little Beet", "language": "Common", "status": "inferred"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a current-era song text associated with Putrid Agnes and recorded in DR 1749; its composition date is not established.
+%%^End%%

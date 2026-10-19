@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [source]
+name: "Spring's A Come"
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Spring's A Come
 
@@ -58,3 +62,11 @@ So here's to the mud, to the thaw, to the night,
 To the end of the cold, the ice worm's flight.
 Around the campfire, in our songs, we blend,
 In Ursk, where the tales of winter never end.
+
+%%^Metadata:names:v1%%
+- {"name": "Spring's A Come", "language": "Common", "status": "inferred"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a current-era Urskan folk-song text, recorded in DR 1749; its composition date is not established.
+%%^End%%

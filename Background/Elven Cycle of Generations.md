@@ -1,22 +1,25 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [background, status/check/lint]
 name: Elven Cycle of Generations
 aliases: [ka]
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Elven Cycle of Generations
 
-The elven cycle of generations, know as the *ka*, is the result of elves very long lifespan, but limited time when they can bear children. Elves are only fertile for about 30 years, when the roots of Aldanor tie them to the [[Material Plane]], but can live to be hundreds, or even thousands, of years old. This means that each generation is distinct and non-overlapping, and the elves count these, numbering from when the planes were separated and the Taelgar was created. 
+The elven cycle of generations, known as the *ka*, is the result of elves’ very long lifespans, but limited time when they can bear children. Elves are only fertile for about 30 years, when the roots of Aldanor tie them to the [[Material Plane]], but can live to be hundreds, or even thousands, of years old. This means that each generation is distinct and non-overlapping, and the elves count these, numbering from when the planes were separated and Taelgar was created.
 ## *Mela and Leya*
 
-Each new *ka* begins with the *mela*, when the the Living Tree, [[Aldanor]], puts roots into the material world. All elves feel the pull of this connection to Taelgar, as it grows over the first few years of the *mela*. An elf experiencing their first *mela* feels a particularly strong pull towards Aldanor, and those who accept this connection are able to bear children, until the *mela* ends. Elven children are born only during the *mela*, and as it ends they enter the Dreaming, the 50 year childhood of dreams and magic during which elves sleep for the only time in their lives. 
+Each new *ka* begins with the *mela*, when the Living Tree, [[Aldanor]], puts roots into the material world. All elves feel the pull of this connection to Taelgar, as it grows over the first few years of the *mela*. An elf experiencing their first *mela* feels a particularly strong pull towards Aldanor, and those who accept this connection are able to bear children, until the *mela* ends. Elven children are born only during the *mela*, and as it ends they enter the Dreaming, the 50 year childhood of dreams and magic during which elves sleep for the only time in their lives.
 
-The Dreaming ends with the Rite of Awakening, which marks the beginning of the *leya*, the time when [[Elmerca]], the Wild Star, is dominant, and elves feel a pull to disperse, to journey. Children are considered adults when the experience their first Awakening, and those new adults are encouraged to travel, until the *mela* and the Rite of Return pulls them back, and the cycle repeats. 
+The Dreaming ends with the Rite of Awakening, which marks the beginning of the *leya*, the time when [[Elmerca]], the Wild Star, is dominant, and elves feel a pull to disperse, to journey. Children are considered adults when they experience their first Awakening, and those new adults are encouraged to travel, until the *mela* and the Rite of Return pull them back, and the cycle repeats.
 ## Aging and Leaving
 
-The pull of the *mela* gets fainter and fainter as elves age. Elves in their first *mela* feel the pull most strongly, and many become parents. In their second, and third mela, many elves take on roles as nurturers of children and elven society, or caretakers of the world. By their fourth *mela*, some elves begin to stop feeling the roots of Aldanor, the pull of Taelgar, and many begin to forget the past, or even pass on entirely. Elves of this age and older are considered elders. By their fifth *mela*, many elves being to depart, and only those who have a strong reason to stay connected to the world remain for their 6th *mela* and beyond to become ancients. 
+The pull of the *mela* gets fainter and fainter as elves age. Elves in their first *mela* feel the pull most strongly, and many become parents. In their second, and third mela, many elves take on roles as nurturers of children and elven society, or caretakers of the world. By their fourth *mela*, some elves begin to stop feeling the roots of Aldanor, the pull of Taelgar, and many begin to forget the past, or even pass on entirely. Elves of this age and older are considered elders. By their fifth *mela*, many elves begin to depart, and only those who have a strong reason to stay connected to the world remain for their 6th *mela* and beyond to become ancients.
 
 %% Note on older elves
 
@@ -30,7 +33,7 @@ Quick table of memories:
 * 36th ka, remember ~240 years (back to before the Great War)
 * 35th ka, remember ~400 years, starting to be considered "an elder"
 * 34th ka, remember ~560 years, age of forgetting beginning, the first couple hundred years hazy
-* 33th ka, remember ~720 years, but quite likely to be deep in the age of forgetting and many older memories might be hazy
+* 33rd ka, remember ~720 years, but quite likely to be deep in the age of forgetting and many older memories might be hazy
 * 32nd ka or older is quite rare
 
 %%
@@ -38,7 +41,7 @@ Quick table of memories:
 
 Elves do not usually concern themselves with the passing of mere years, focusing instead on the cycle of *ka*, *mela*, and *leya*. Still, for those who must translate the elves into the history of other species, the dates of each *ka* in the Dwarven Count of Years (CY) and in Drankorian Reckoning (DR) are provided. 
 
-| ka  | period | CY   | DR       | nuturer ka | caretaker ka | elders/unifiers | ancients |
+| ka  | period | CY   | DR       | nurturer ka | caretaker ka | elders/unifiers | ancients |
 | --- | ------ | ---- | -------- | ---------- | ------------ | --------------- | -------- |
 | 1   | mela   | 0    | -4133    | 0          | 0            | 0               | 0        |
 | 1   | leya   | 80   | -4053    | 0          | 0            | 0               | 0        |
@@ -131,4 +134,29 @@ Notes, discussion, and relevant brainstorming:
 - [[Elven Generations]]
 - [[Notes on Elven Society]]
 
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference to the recurring elven lifecycle, with a historical and prospective ka table; the hidden cohort-memory examples use an approximate DR 1700s frame.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added a broadly modern POV and persistent temporal notes.
+- Corrected objective typos, the repeated “the,” possessive and subject–verb grammar, and the “nurturer” table heading; preserved lifecycle dates and all qualifications.
+
+### Validated judgments
+- This background article explains a generational mechanism rather than naming a separate in-world work; no name block is applicable.
+- Reviewed the local evidence without changing the human dm_notes attestation; no local-only contents were promoted.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** The opening and “Mela and Leya” describe approximately thirty fertile years, followed by a fifty-year Dreaming and a communal Rite of Awakening. [[Elves#The Elven Cycle of Generations]] instead describes fertility around ages 150–200 and individual adulthood around fifty. [[Playing an Elf]] corroborates the thirty-year fertile period. These competing accounts require a human choice; preserve the present cycle model until that choice is made. If retaining it, a copy-ready core replacement for the Elves lifecycle section is: “Elves can bear children during the roughly thirty fertile years associated with their first *mela*, when Aldanor’s roots tie them to the Material Plane. At the end of the *mela*, the children enter the fifty-year Dreaming, which ends with the Rite of Awakening and the beginning of their first *leya*.” Review the individual ages and body-parent/soul-parent details separately; this timing choice does not settle them.
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared comment “Note on older elves” contains a developed memory-horizon detail not stated in “Aging and Leaving”: “the core memories of most elves are approximately the 400 years,” followed by a cohort table. Consider adopting this bounded clarification: “During the age of forgetting, many elves retain their clearest memories of roughly the previous four hundred years, while earlier memories become hazy.” This makes the existing loss-of-memory account useful without publishing the comment’s date-sensitive cohort estimates. If adopted, shorten the comment’s repeated departure/rarity claims and retain the cohort table separately as approximate DM reference; the comment itself does not establish that the new sentence is already canon.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 81 - DM Notes]]
 %%^End%%

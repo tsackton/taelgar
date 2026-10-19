@@ -1,8 +1,12 @@
 ---
-excludePublish: ["dufr"]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta]
+name: House Rules (Mike)
+excludePublish: [dufr]
 dm_owner: mike
 dm_notes: none
+POV: undated
 ---
 # Character Creation
 In general, the rules from the 2024 Player's Handbook are used, with several notable changes.
@@ -19,13 +23,13 @@ After completing point buy for stats, you may do the following:
 * Add +2 to one stat and +1 to another OR add +1 to each of three stats
 * Increase a single stat that is 8 or 9 to 10
 
-In additional to Ability Score Increase/Feats that you get from your class or classes, you gain a +1 bonus to your primary stat at 4th (character) level, and another +1 bonus to your primary stat at 8th (character) level. If your class has more than one primary stat, you may choose which stat to increase and may choose a different stat at 4th and 8th level.
+In addition to Ability Score Increase/Feats that you get from your class or classes, you gain a +1 bonus to your primary stat at 4th (character) level, and another +1 bonus to your primary stat at 8th (character) level. If your class has more than one primary stat, you may choose which stat to increase and may choose a different stat at 4th and 8th level.
 
 Primary stats are:
 
 | Class     | Stat(s)                 | Default Spellcasting Stat | Default Fighting Stat |
 | --------- | ----------------------- | ------------------------- | --------------------- |
-| Artifcier | Intelligence            | N/A                       | N/A                   |
+| Artificer | Intelligence            | N/A                       | N/A                   |
 | Barbarian | Strength                | N/A                       | N/A                   |
 | Bard      | Spellcasting Stat       | Charisma                  | N/A                   |
 | Cleric    | Spellcasting Stat       | Wisdom                    | N/A                   |
@@ -73,7 +77,7 @@ The rules for components are changed and simplified as follows:
 * Any spell that requires a Somatic component requires making magical gestures with a free hand, or the hand that is holding an Arcane or Divine Focus
 
 Then, the following additional rules apply based on spellcaster class:
-* Any spell cast by a Bard require Verbal components only, regardless of what is written in the spell description, except for spells in the [[#Expensive Components]] list below.
+* Any spell cast by a Bard requires Verbal components only, regardless of what is written in the spell description, except for spells in the [[#Expensive Components]] list below.
 * Clerics, Rangers, Druids, and Paladins cast their spells using a Divine Focus, which is an item that is worn or held. Any spell (except for those with [[#Expensive Components]]) that has Material or Somatic components can be cast without a free hand, as long as the caster is holding or wearing their Divine Focus.
 
 The implications here are:
@@ -112,7 +116,7 @@ When an enemy makes an opportunity attack against a mounted rider, they may choo
 
 The mounted combatant feat is changed as follows:
 
-- You may, as a bonus action, direct their mount to attack or distract, allowing the mount to take either the Attack or Help actions    
+- You may, as a bonus action, direct your mount to attack or distract, allowing the mount to take either the Attack or Help actions
 - You have advantage on melee attack rolls against any unmounted creature that is smaller than your mount.
 - You can force an attack targeted at your mount to target you instead.
 - If your mount is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails
@@ -122,7 +126,7 @@ The mounted combatant feat is changed as follows:
 As a reminder, several official rules we have not been consistent about that I will be trying to remember:
 - Ranged attacks, including ranged spell attacks, have disadvantage if you are within 5’ of an enemy 
 - Ranged attacks have disadvantage if you are outside the lower range of your weapon
-- When targeted enemies with ranged attacks, including ranged spell attacks, if there are things in the way - including allies or other enemies - the target has half-cover (+2 to AC)
+- When targeting enemies with ranged attacks, including ranged spell attacks, if there are things in the way - including allies or other enemies - the target has half-cover (+2 to AC)
 ## Death and Dying
 
 When a PC drops to 0 or fewer HP, you gain the dying condition. While you have the dying condition, the following rules apply: 
@@ -147,7 +151,7 @@ When a character regains hit points after being in the dying state, you also gai
 The effect of wounded is as follows:
 * Level 1: Disadvantage on ability checks
 * Level 2: Speed is halved
-* Level 3: Disadvantage on attack and saving throws
+* Level 3: Disadvantage on attack rolls and saving throws
 * Level 4: Hit point maximum halved. You cannot spend Hit Dice to regain hit points.
 * Level 5: Speed is 0
 * Level 6: Coma
@@ -155,3 +159,6 @@ The effect of wounded is as follows:
 
 For the vast majority of monsters and monstrous humanoids 0 HP means dead. If the plot dictates it is sensible for someone to survive, perhaps they will still be alive, but in general the default assumption is the creature dies at 0 HP. For most non-monstrous humanoids (i.e. humans, elves, dwarves, halflings, lizardfolk and other sentient creatures) I'll generally run 0 HP as badly wounded enough to be no longer useful on the battlefield, and let the plot and party actions dictate what exactly happens -- but usually emergency healing (magical or Medicine checks) would work to keep them alive.
 
+%%^povNotes:v1%%
+Temporal coverage: undated; these out-of-world house rules refer to the 2024 rules but establish no in-world modern, decade, or year reading position.
+%%^End%%

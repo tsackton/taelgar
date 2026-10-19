@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta]
+name: Dunmar and Nevos Circulation
 excludePublish: [all]
+POV: modern
 ---
 # Dunmar and Nevos Circulation
 
@@ -110,3 +114,7 @@ These comparisons support selected mechanisms or landscape targets; they do not 
 - [Met Office: foehn effect](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect): mechanisms for warmer, drier lee-side air; application depends on mountain orientation and wind paths.
 
 Return to [[Taelgar Climate Model]] or [[Climate and Environment]].
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference model; historical examples and expressly provisional mechanisms retain their stated scope.
+%%^End%%

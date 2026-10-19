@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
+name: Climate and Weather Constraints
 excludePublish: [all]
+POV: modern
 ---
 # Climate and Weather Constraints
 
@@ -284,3 +288,7 @@ Return to [[Climate and Environment]] or [[Regional Climate Atlas]].
 - E21: [[Session 47 (DuFr)]]; [[dunmari-frontier-047-source-prepared]]
 - E22: [[Mawar Ep 5 - Intro Draft]]
 %%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern climatic requirements, with separately dated campaign observations from DR 1715–1749 and real-world dates for the accepted baseline and model assessments.
+%%^End%%

@@ -1,5 +1,9 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta]
+name: Riswynn — early-campaign character reference
+POV: "1748"
 ---
 # Riswynn — early-campaign character reference
 
@@ -54,3 +58,7 @@ These excerpts quote the cleaned session 6 transcript verbatim, retaining spoken
 ## Provenance
 
 The set developed from the approved front image, `riswynn-early-campaign-balanced-build-v3.png`. A new close portrait and full-body rear view were generated with the built-in image_gen tool to match that front. The close portrait was subsequently refined to soften the lines around her eyes and tuck the two loose facial strands into the braids; this edit and its prompt are recorded in `portrait-refinement-v2`. The latest built-in image_gen refinement targets an approximately 7% larger head in all three views, with the established face, body, armor, equipment, and framing retained. Current files and prompts remain in the Taelgar Images project under `generated/riswynn-early-campaign-character-reference-v3`; the immediately preceding vault images and note are preserved in its `previous-vault-reference` subdirectory. Earlier matching-view and portrait refinements remain under `generated/riswynn-early-campaign-character-reference-v2`. The prior generation history remains under `generated/riswynn-early-campaign-character-reference-v1` and `generated/riswynn-early-campaign-build-studies-v3`.
+
+%%^povNotes:v1%%
+Temporal coverage: an early-campaign visual reference anchored to Riswynn’s Session 6 introduction in DR 1748; later appearances are outside this set.
+%%^End%%

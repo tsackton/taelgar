@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
+name: Western Ocean and Coast Circulation
 excludePublish: [all]
+POV: modern
 ---
 # Western Ocean and Coast Circulation
 
@@ -138,3 +142,7 @@ The ridge and main storm belt shift southward again, and strengthening ocean sys
 Warm, settled spells can linger, but clear inland nights cool faster than exposed ocean shores. Valandros releases stored summer heat and delays cooling along its banks. Colder air crossing the open lake gains moisture and can produce stronger showers downwind, especially over rising land to the east; the same process continues into winter where water remains open. In Blackwater, autumn cooling further reduces drying and supports frequent mist, while returning cold spells bring freezes to the fens and longer-lasting snow to the higher northern forests.
 
 %% Physical reference: [lake-effect precipitation](https://www.weather.gov/safety/winter-lake-effect-snow). %%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern seasonal atmospheric-model defaults for the western coast and interior, rather than a record of one particular year.
+%%^End%%

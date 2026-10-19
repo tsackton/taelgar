@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [source]
+name: Halfling Shanties of the Green Sea
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Halfling Shanties of the Green Sea
 
@@ -135,3 +139,11 @@ Heave ho, heave ho, with the Green Sea we blend,
 Ancestors' whispers, on winds they do send. 
 Deserts to snow, through calm and through storm, 
 Halflings wander, sea tales to form.
+
+%%^Metadata:names:v1%%
+- {name: Halfling Shanties of the Green Sea, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; collects shanties in the current-era Green Sea setting without establishing their composition dates.
+%%^End%%

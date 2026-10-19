@@ -1,5 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta]
+campaign: Dunmar Frontier
+name: wellby-early-campaign-reference
+POV: 1748
 ---
 # Wellby — early-campaign character reference
 
@@ -49,3 +54,7 @@ These excerpts quote the cleaned session transcripts verbatim, retaining spoken 
 ## Provenance
 
 The approved wanderer C portrait was reused unchanged. Full-body front and rear were generated with the built-in image_gen tool; the rear uses the front as its equipment and proportion reference. Original generation outputs and prompts remain in the Taelgar Images project under `generated/wellby-early-campaign-character-reference-v1`.
+
+%%^povNotes:v1%%
+Temporal coverage: an early-campaign DR 1748 visual-reference set anchored in sessions 1 and 6; later appearance and magical equipment are intentionally outside its scope.
+%%^End%%

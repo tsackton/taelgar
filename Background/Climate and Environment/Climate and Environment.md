@@ -1,6 +1,10 @@
 ---
-tags: [meta]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
+name: Climate and Environment
 excludePublish: [all]
+POV: modern
 ---
 # Climate and Environment
 
@@ -65,3 +69,21 @@ For applications: current notes include these details. A general overview is in 
 - Test the qualitative weak points recorded in [[Climate and Weather Constraints]], especially the northern Green Sea summer ridge, autumn sailing opportunities, ocean heat and water exchange, and local forest and glacier moisture balances.
 - Develop numerical weather-generator inputs after the qualitative profiles and patterns are ready; address other unmodeled regional gaps as needed.
 - Consider structure - would it be better to have a specific AGENTS.md in this folder to supplement human details in this file?
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern campaign-era climate and weather reference library; revision tasks describe the current editorial project rather than an in-world historical state.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added an explicit display name and modern temporal metadata.
+
+### Validated judgments
+- The landing page performs its reference-library navigation role. The detailed revision sequence remains in [[Climate Revisions Plan]].
+
+### Open findings
+
+- [ ] **Suggestion — structure.stale_navigation:** The Key Points callout says constraints “are stored in the Evidence directory,” but this collection has no Evidence directory; [[Climate and Weather Constraints]] is the maintained register named by the local `Background/Climate and Environment/AGENTS.md`. Replace that clause with “are recorded in [[Climate and Weather Constraints]].” The final Work still to do item also asks whether a local AGENTS.md should exist, although it now exists and [[Climate Revisions Plan]] identifies it as the lasting guide. Remove that obsolete question and, if a pointer is useful, replace it with “Follow the current revision sequence in [[Climate Revisions Plan]] and the lasting guidance in the local AGENTS.md.” This keeps the introduction from directing future work to missing or already-completed destinations.
+%%^End%%

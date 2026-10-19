@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
+name: Climate Revisions Plan
 excludePublish: [all]
+POV: undated
 ---
 # Climate Revisions Plan
 
@@ -128,3 +132,7 @@ Complete the remaining collection work in order, with an approval stop after eac
 - [ ] Read the collection as a whole. Verify constraints, geographic coverage, shared systems, maps, links, and actual preservation of moved material. Refresh constraint coverage and the dated summary, make necessary small landing-page navigation corrections, complete file checks, and report the final word count and any unresolved substantive decisions.
 
 The collection is ready when regional defaults are easy to find, mechanisms are understandable, and the evidence remains intact.
+
+%%^povNotes:v1%%
+Temporal coverage: undated in setting terms; this is a real-world editorial plan agreed on 3–4 October 2026, which supports no modern, decade, or year reading position in DR.
+%%^End%%

@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
+name: Biomes of Taelgar
 excludePublish: [all]
+POV: modern
 ---
 # Biomes of Taelgar
 
@@ -1198,4 +1202,7 @@ These categories describe landscapes heavily modified by people. Fertile plains 
 - Human presence is obvious through fences, barns, shepherd paths and small villages; these areas support rural economies.
     
 - Use this biome when depicting settled yet pastoral regions with a strong livestock focus and moderate human density.
-    
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern habitat-selection guidance for Taelgar.
+%%^End%%

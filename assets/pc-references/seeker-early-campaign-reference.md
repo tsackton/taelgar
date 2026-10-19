@@ -1,5 +1,10 @@
 ---
-tags: [meta]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
+campaign: Dunmar Frontier
+name: seeker-early-campaign-reference
+POV: 1748
 ---
 # Seeker — early-campaign character reference
 
@@ -67,3 +72,22 @@ For this set, the user explicitly chose the **red beard from session 6**, despit
 ## Provenance
 
 Generated with the built-in image_gen tool as the first individual Seeker reference set, following selection of Seeker C and the long-hair / narrower-shoulders corrections. The original generation files and prompt records remain in the Taelgar Images project under `generated/seeker-character-reference-v1`.
+
+%%^povNotes:v1%%
+Temporal coverage: an early-campaign DR 1748 visual-reference set anchored in sessions 1–6; later appearance and equipment are intentionally outside its scope.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added explicit filename-derived name and persistent temporal-viewpoint metadata.
+- Recorded the canonical campaign identity.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The ordinary “Source conflict” comment repeats the immediately preceding “Decisions where the sources differ” paragraph and the visible Session 1/6 quotations, including the red/blond beard and spectacles choices. Copy-ready resolution: remove the complete comment beginning “%% Source conflict: session 1 u0307” and ending “the transcript evidence is preserved above. %%”; retain the visible quotations, utterance references, and decisions. All provenance and the chosen appearance remain available in the visible article.
+%%^End%%

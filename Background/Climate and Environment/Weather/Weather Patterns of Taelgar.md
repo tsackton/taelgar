@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
+name: Weather Patterns of Taelgar
 excludePublish: [all]
+POV: modern
 ---
 # Weather Patterns of Taelgar
 
@@ -33,3 +37,7 @@ The five maps and their editable sources remain under `assets/worldbuilding/conn
 | Emerald Bay monsoon pulse | Active west–southwest inflow brings wetter, sometimes squally weather to the southern bay and canal approaches. Quieter periods bring lighter or more easterly winds, while northern Apporia stays predominantly summer-dry. |
 
 Return to [[Climate and Environment]].
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern qualitative weather sequences for the current climate model; the episodes are possible configurations rather than dated annual events.
+%%^End%%

@@ -1,9 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [source]
 name: A Story about Halfling Merchants
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # A Story About Halfling Merchants
 
@@ -16,3 +19,11 @@ The next day you wonder if you made the right decision, or if you were cheated. 
 And then before the caravan leaves, they throw a party, telling tall tales of strange, far off places, singing songs, dancing late into the night. The ale flows, the company is good, and you go home happy. 
 
 So of course you'll keep doing business with the halflings that show up. Sometimes maybe you'll have good luck, and they'll offer a great price; other times, bad luck, and you'll find yourself selling low. But what can you do? You don't want your descendants cursing your name for some slight you gave the halflings, and they bring stories and ale and music, and you have a great time drinking and eating with them, and every now and then they'll have something strange and unexpected to sell, and you never know.
+
+%%^Metadata:names:v1%%
+- {name: A Story about Halfling Merchants, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern illustrative story about halfling trade and human expectations; the imagined encounter is undated and is not a dated record of an actual transaction.
+%%^End%%

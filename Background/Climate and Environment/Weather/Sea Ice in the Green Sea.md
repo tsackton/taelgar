@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
+name: Sea Ice in the Green Sea
 excludePublish: [all]
+POV: modern
 ---
 # Sea Ice in the Green Sea
 
@@ -39,3 +43,7 @@ Open water west of Ursk continues to supply winter moisture. Skaerhem remains pr
 - [NSIDC: sea-ice science](https://nsidc.org/learn/parts-cryosphere/sea-ice/science-sea-ice): wind and current effects on drifting ice.
 - [NSIDC: why sea ice matters](https://nsidc.org/learn/parts-cryosphere/sea-ice/why-sea-ice-matters): ice cover limits heat and moisture exchange with the atmosphere.
 %%
+
+%%^povNotes:v1%%
+Temporal coverage: two unadopted modern-era sea-ice scenarios, constrained by the stated December Skaer observation rather than an established annual ice calendar.
+%%^End%%

@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
+name: Climate and Landscape Applications
 excludePublish: [all]
+POV: modern
 ---
 # Climate and Landscape Applications
 
@@ -20,3 +24,7 @@ Summer north–northwest winds along the exposed [[Coastlands]] favor southward 
 The [[Gulf of Chardon]] offers more shelter than the open Apporian coast, though wind across the gulf can still raise rough water. Near southern [[Emerald Bay]], active monsoon spells bring west–southwest winds and squalls; quieter intervals can offer lighter or more easterly winds. Sailors crossing between the Nevos and Chardon therefore encounter several wind regimes along one route. See [[Western Ocean and Coast Circulation]] for the circulation and [[Climate of the Western Coast and Interior]] for regional conditions.
 
 Return to [[Climate and Environment]].
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; practical applications use the current qualitative climate model rather than a particular year’s weather.
+%%^End%%

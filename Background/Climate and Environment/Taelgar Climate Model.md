@@ -1,6 +1,10 @@
 ---
-tags: [meta, status/check/ai]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/ai, status/check/lint]
+name: Taelgar Continental Climate Model
 excludePublish: [all]
+POV: modern
 ---
 # Taelgar Continental Climate Model 
 
@@ -394,10 +398,10 @@ This qualitative model combines adopted climatic constraints with broad geograph
 
 %% Source alignment:
 - The western circulation draws on [[Western Ocean and Coast Circulation]] and [[Dunmar and Nevos Circulation]]. The reconciled regional Green Sea explanation is in [[Green Sea Atmospheric Circulation]]; its sailing requirements come from [[Trading in the Green Sea]]. Tropical and polar wind belts, and broad winter continental outflow, extend the physical model across the continent.
-- Tim's Voltara/Erbalta review adopted warmer continental summers and cold, relatively dry winters with limited snowfall, recurring thaws and intermittent ordinary lowland snow cover around Voltara. This replaces the northern German temperature comparison; the archived [[Climate of the Northwestern Interior]] retains an earlier Great Plains comparison without controlling the current rainfall calendar. [[Chasa River Valley]] describes occasional inland frost; the lowland treatment here makes frost occasional and localized rather than a regular regional feature.
-- The archived [[Climate of the Green Sea Shores]] retains a Russian Far East/Sakhalin comparison and broadly short, cool summers for Ursk. This model gives inhabited Ursk a cold winter and meaningful summer warmth.
+- Tim's Voltara/Erbalta review adopted warmer continental summers and cold, relatively dry winters with limited snowfall, recurring thaws and intermittent ordinary lowland snow cover around Voltara. This replaces the northern German temperature comparison; the archived Climate of the Northwestern Interior retains an earlier Great Plains comparison without controlling the current rainfall calendar. [[Chasa River Valley]] describes occasional inland frost; the lowland treatment here makes frost occasional and localized rather than a regular regional feature.
+- The archived Climate of the Green Sea Shores retains a Russian Far East/Sakhalin comparison and broadly short, cool summers for Ursk. This model gives inhabited Ursk a cold winter and meaningful summer warmth.
 - The Slate Sea coast, Yeraad basin, Illoria, Irrla, and Eastern Isles summaries extend the continental framework into less-developed areas. [[Climate and Weather Constraints]] defines the evidence limits, including the exclusions for Irrla and exceptional Eastern Isles weather.
-- Tim's western-forest review adopted broad, low Crimson and Elderwood foothills with naturally mild rainy winters, regional summer drying, and elven magic sustaining summer forest moisture. This replaces both the tentative winter-warming proposal and a blanket northward increase in inland forest summer moisture. Highveil and the northern interior follow increasing Fiatara shelter and continental influence. The archived [[Climate of the Northwestern Interior]] preserves earlier summer-rain ideas without controlling this adopted treatment.
+- Tim's western-forest review adopted broad, low Crimson and Elderwood foothills with naturally mild rainy winters, regional summer drying, and elven magic sustaining summer forest moisture. This replaces both the tentative winter-warming proposal and a blanket northward increase in inland forest summer moisture. Highveil and the northern interior follow increasing Fiatara shelter and continental influence. The archived Climate of the Northwestern Interior preserves earlier summer-rain ideas without controlling this adopted treatment.
 - Lake moderation and the broad hill effects are physical-model interpretations of [[Lake Valandros]], [[Beacon Hills]], [[Chardon Hills]], [[Mostreve Hills]], and [[Salt Hills]]. [[Yeraad]], [[Yeraad Marshes]], and [[Myraeni Gap]] support the distinction between wet river lowlands and scrubby uplands.
 - Alta Tonaro's terrain, aridity, winter rain, and rare summer thunderstorms come from [[Alta Tonaro]] and requirement K17 in [[Climate and Weather Constraints]]. Its broad temperature pattern is a geographic projection.
 -  [[Regional Climate Atlas]] indexes the current regional coverage notes.
@@ -417,3 +421,25 @@ This qualitative model combines adopted climatic constraints with broad geograph
 - [NOAA on autumn freezes](https://www.ncei.noaa.gov/news/when-expect-first-fall-freeze): delayed autumn cooling near large water bodies.
 - [US Forest Service on coast redwoods](https://research.fs.usda.gov/silvics/redwood): winter recharge, humid summer conditions, reduced water loss, and fog drip. Crimson and Elderwood's adopted magical summer moisture uses these physical effects while supplying a declared departure from ordinary inland conditions.
 %%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern climatic defaults for the current campaign era, with historical references and locally identified magical departures; this is a revisable physical model rather than a dated weather record.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the existing display title explicitly and broadly modern temporal metadata.
+- Converted three unresolvable historical-source wikilinks to their exact plain-text titles, preserving their surrounding source-alignment context.
+
+### Validated judgments
+- The continental system, regional climate contrasts, and navigation are sufficiently described for this revisable model. The separate approved revision plan already owns the broader redistribution work.
+- The real-world analogues and Köppen blocks are worldbuilder guidance. Source comments retain provenance; the hidden elven-moisture account is separately assessed below. Existing publication exclusion and check status are preserved.
+
+### Open findings
+
+- [ ] **Warning — link.source_target_missing:** The Source alignment comment retains the historical titles “Climate of the Northwestern Interior” (two occurrences) and “Climate of the Green Sea Shores” as plain text because no current Markdown targets resolve them. Archived `.md.txt` copies exist under `Worldbuilding/Agentic Review/Climate/Climate Consolidation 2026-09-26/sources/Background/Climate and Environment/Regional Atlas/` and `Worldbuilding/Agentic Review/Climate/Climate Consolidation 2026-09-26/work/generated/Background/Climate and Environment/Regional Atlas/`, with those exact titles followed by `.md.txt`. The generated copies preserve the cited Great Plains and Russian Far East/Sakhalin accounts; the source copies are earlier navigation stubs. Restore accessible provenance links to the appropriate archival artifacts or explicitly retain the plain-text historical references. Do not substitute the current climate account for a cited older version.
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The `Campaign:none` passage headed “Elven summer moisture” repeats the preceding visible Valandros/western-forest text and the Crimson/Elderwood table: recurring mist, canopy drip, moist soils, summer drying, and ordinary mild winters. Remove that duplicate hidden explanation while retaining its distinct unresolved guidance in place. Bounded candidate for the remaining hidden paragraph: “The workings and precise boundaries of the Crimson Forest and Elderwood summer moisture remain unresolved; this effect is not assigned to every former elven forest. See [[Magical Climate Departures#Crimson Forest and Elderwood summer moisture]].” Keep the existing wrapper and all other real-world comparison blocks.
+%%^End%%

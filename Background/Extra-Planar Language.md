@@ -1,8 +1,12 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [background]
-excludePublish: ["all"]
+name: Extra-Planar Language
+excludePublish: [all]
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 This page categorizes known-to-exist extra-planar languages, and includes some notes on the details. See [[Languages]] for more general coverage of this topic, including background, open questions, etc.
 
@@ -16,10 +20,14 @@ Note: Any language that is often learned by PCs should be moved to the main [[La
 
 %%^Campaign:none%%
 
-Whether all planes have their own language, or not, is ill-defined and not canonically established. One possibly hint though is that in the Dunmar Frontier campaign, the tanshi Yezali learned a language associated with Cha'mutte's shadow dimensions, and then taught it to Delwath as they bonded. In game, Delwath never used it except to communicate with Yezali, so no canonical details exist. Cha'mutte's magic was associated with Limbo, so this unnamed language could have been the language of Limbo. When the Dunmar Fellowship was traveling in Limbo, Delwath had already gained the ability to read all languages, so his ability to read writing in Limbo does not necessarily mean that the language he learned from Yezali is the language of Limbo. But it could be. 
+Whether all planes have their own language, or not, is ill-defined and not canonically established. One possible hint though is that in the Dunmar Frontier campaign, the tanshi Yezali learned a language associated with Cha'mutte's shadow dimensions, and then taught it to Delwath as they bonded. In game, Delwath never used it except to communicate with Yezali, so no canonical details exist. Cha'mutte's magic was associated with Limbo, so this unnamed language could have been the language of Limbo. When the Dunmar Fellowship was traveling in Limbo, Delwath had already gained the ability to read all languages, so his ability to read writing in Limbo does not necessarily mean that the language he learned from Yezali is the language of Limbo. But it could be.
 
 An alternative that can't be ruled out is that this language was simply something created in the mind of Yezali, while Yezali was lost in the shadow realm without a sense of his identity as a tanshi. 
 
 The exact details are left as a mystery, for now. 
 
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern language overview; the hidden discussion preserves unresolved interpretations of a Dunmari Frontier campaign language.
 %%^End%%

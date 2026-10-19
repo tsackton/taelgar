@@ -1,14 +1,18 @@
 ---
-excludePublish: ["clee"]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta]
+name: House Rules (Tim)
+excludePublish: [clee]
 dm_owner: tim
 dm_notes: none
+POV: undated
 ---
 ## Character Creation
 
 *Follow the rules listed in the 2024 PHB, with the following modifications.*
 
-**Chose a Background:** If you cannot find an official background that fits your class, talk to me to homebrew something. 
+**Choose a Background:** If you cannot find an official background that fits your class, talk to me to homebrew something.
 
 **Choose a Species:** The species available to play in the world of Taelgar are listed [[Playable Species of Taelgar|here]].
 
@@ -22,3 +26,6 @@ dm_notes: none
 > 2. On the species page, if your chosen species is listed as "Homebrew" in the species table, Filter Species Source(s) to Homebrew. The current versions of species should be named simply Elf, Dwarf, etc, but use the Homebrew versions. 
 > 3. Do not select Languages in the character builder. Instead, add your chosen languages (and optionally bonus Tool Proficiency) to your character sheet directly once your character is created.
 
+%%^povNotes:v1%%
+Temporal coverage: undated; these out-of-world character-creation rules refer to the 2024 rules but establish no in-world modern, decade, or year reading position.
+%%^End%%

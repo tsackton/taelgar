@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [source]
+name: Ballad of the Jade Garden
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Ballad of the Jade Garden
 
@@ -53,3 +57,11 @@ Tales are told of those who find,
 The garden vast, left behind. 
 Merfolk's whisper, ocean's call, 
 In the jade, the names of all.
+
+%%^Metadata:names:v1%%
+- {name: Ballad of the Jade Garden, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern Apporian folk-song reference, with undated legendary events in the lyrics.
+%%^End%%

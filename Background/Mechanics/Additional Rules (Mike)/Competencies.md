@@ -1,14 +1,18 @@
 ---
-excludePublish: ["dufr"]
-tags: [meta]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
+name: Competencies
+excludePublish: [dufr]
 dm_owner: mike
 dm_notes: none
+POV: undated
 ---
 # Competencies 
-In addition to skills, this house rule introduces the concept of a competency. A competency is relatively small thing (less broad than a skill) that your character knows how to do or is good at. Good competencies would include:
+In addition to skills, this house rule introduces the concept of a competency. A competency is a relatively small thing (less broad than a skill) that your character knows how to do or is good at. Good competencies would include:
 
 - Limited subsets of existing skills (“Local history of Embry”, “The rituals of the Dunmari cult of Bishma”, “Hunting”, “first aid”, “swimming”)    
-- Knowledge of specific instruments,forms of entertainment (“poetry”, “lute”, “singing”)
+- Knowledge of specific instruments, forms of entertainment (“poetry”, “lute”, “singing”)
 - Random knowledge skills that don’t fit nicely into the main knowledge skills (“astronomy”, “cooking”, “geology”)
 - Professional skills (“soldier”, “sailor”, “merchant”, “carpentry”)
 - Unclassified abilities (“disguise”, “forgery”, “poison-making”, “gambling”)
@@ -16,18 +20,18 @@ In addition to skills, this house rule introduces the concept of a competency. A
 
 In addition, with the exception of thieves’ tools, a competency can be spent to learn any standard D&D tool proficiency, as well as any of the Taelgar-appropriate languages. 
 ### Starting Competencies
-All characters start with 5 competencies, as well as a number of languages defined by your species.  You can replace one of your species starting language with a competency, if you wish. In addition, some classes gain bonus competencies at first level or on multiclassing as per the following table. Classes that are not listed do not gain bonus competencies.
+All characters start with 5 competencies, as well as a number of languages defined by your species.  You can replace one of your species’ starting languages with a competency, if you wish. In addition, some classes gain bonus competencies at first level or on multiclassing as per the following table. Classes that are not listed do not gain bonus competencies.
 
 | Class     | Level 1 Competencies | Multiclass Competencies |
 | --------- | -------------------- | ----------------------- |
-| Artifcier | 3                    | 2                       |
+| Artificer | 3                    | 2                       |
 | Bard      | 3                    | 1                       |
 | Druid     | 1                    | 0                       |
 | Monk      | 1                    | 0                       |
 | Rogue     | 1                    | 1                       |
 
 ### Notes
-The follow class features are replaced with competencies, which are **not** included in the table above:
+The following class features are replaced with competencies, which are **not** included in the table above:
 * Rogue's Thieves Cant: 2 competencies
 * Ranger's Deft Explorer (Languages): 2 competencies
 #### Gaining Competencies
@@ -35,7 +39,7 @@ At 3rd level, and every other level afterwards (5th, 7th, 9th, etc) all characte
 #### Game Effect of Competencies
 Most competencies act like skills: they give you proficiency bonus on some ability check you are trying to make. For many competencies, having the competency is necessary for even attempting the check. In other cases, it may be something you can do untrained. 
 
-In you have both a skill and a competency, depending on the specific game situation, you might:
+If you have both a skill and a competency, depending on the specific game situation, you might:
 - Gain advantage on the skill check
 - Not have disadvantage on the skill check (where someone without the competency would have disadvantage)
 - Be able to try something with your skill that otherwise would be impossible  
@@ -51,11 +55,34 @@ A handful of abilities are things that all characters can do, but not necessaril
 | Climbing            | You must make a DC 8 STR check to climb anything at all. You have disadvantage in situations where characters who know how to climb would make checks.                                |
 | Reading and Writing | You can’t decipher written language nor write anything yourself                                                                                                                       |
 | Arithmetic          | You can’t add or subtract even small sums and are largely innumerate. You have disadvantage when haggling or selling items, and in any social situation where math might be relevant. |
-| Riding              | You must have a DC 8 DEX check to stay on horseback in any situation. You have disadvantage in situations where characters who know how to ride would make checks.                    |
+| Riding              | You must make a DC 8 DEX check to stay on horseback in any situation. You have disadvantage in situations where characters who know how to ride would make checks.                    |
 | First Aid           | You may not attempt to stabilize dying creatures.                                                                                                                                     |
 
-For all of these, a character by default can “do the thing”. If anyone wants their character to not be able to “do the thing”, you can take a bonus competency in exchange. Also, all of the above are eligible to be competencies, allowing you to apply your proficiency bonus to roles.
+For all of these, a character by default can “do the thing”. If anyone wants their character to not be able to “do the thing”, you can take a bonus competency in exchange. Also, all of the above are eligible to be competencies, allowing you to apply your proficiency bonus to rolls.
 
 For example, all characters can swim by default, and in a situation where a check is needed, would make a straight STR check. If anyone wants to not be able to swim, you can note “unable to swim” on your character sheet and take a bonus competency instead. 
 
 If you want to be good at all athletics skills, you should take Athletics. But if you wanted to be JUST good at swimming, you could take the Swimming competency which would then allow you to add your proficiency bonus to your STR check when swimming only.
+
+%%^povNotes:v1%%
+Temporal coverage: undated; these player-facing house rules establish no in-world modern, decade, or year reading position.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Made the filename-supplied name explicit, normalized frontmatter, and added undated temporal metadata for player-facing rules.
+- Corrected objective spelling, punctuation, and grammar; the competency mechanics and numerical values are unchanged.
+
+### Validated judgments
+- The rules provide a usable account of acquisition, progression, and applying competencies; no conventional extra sections are required.
+- The note is a player-facing house-rule document rather than an in-world named subject; no name block is applicable.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.prose_clarity:** The special-competency table is headed “Game Effect if you don’t have it,” but the following paragraphs say everyone can perform these activities by default and only voluntarily takes inability in exchange for a bonus competency. The heading can therefore make the drowning and riding checks appear to apply to all characters without the competency. If the following paragraphs control, replace the heading with “Game effect if chosen as an inability for a bonus competency” and introduce the table with: “The following limitations apply when a player voluntarily takes an inability in exchange for a bonus competency; lacking the positive competency alone does not impose them.” Confirm this interpretation before changing the rules text.
+
+- [ ] **Suggestion — correctness.name:** The sample competency names “the Dunmari cult of Bishma,” whereas [[Bhishma]] documents the deity’s name. Confirm that this is the intended cult; copy-ready correction: “The rituals of the Dunmari cult of [[Bhishma]]”. The linter has preserved the existing name pending that choice.
+
+%%^End%%

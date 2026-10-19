@@ -1,5 +1,9 @@
 ---
-tags: [meta]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
+name: Delwath — early-campaign character reference
+POV: 1748
 ---
 # Delwath — early-campaign character reference
 
@@ -57,3 +61,21 @@ Session 1 describes relatively short cropped hair. For this visual reference, th
 ## Provenance
 
 The current rear view was edited with the built-in image_gen tool to extend the ponytail tips slightly below the green neck wrap and establish the central nape attachment. The front and close views were then edited using that rear view as the spatial guide: the tie is hidden behind the head from these angles. The selected face and opalescent hair treatment remain anchored in `delwath-early-campaign-hair-a-opalescent-silver.png` from `generated/delwath-early-campaign-nonhuman-hair-studies-v1` in the Taelgar Images project. The full-body design was established in `generated/delwath-early-campaign-character-reference-v1`. Current prompts and file records are saved in `generated/delwath-early-campaign-character-reference-v3`; its `previous-vault-reference` subdirectory preserves the prior three images and reference note.
+
+%%^povNotes:v1%%
+Temporal coverage: an early-DR-1748 visual reference anchored in sessions 1–6, with the explicitly approved artistic refinements distinguished from transcript descriptions.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added an explicit display name and persistent temporal viewpoint metadata.
+
+### Validated judgments
+- This is a model or visual-reference document, so it does not require an in-world subject-name block.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The entire “Source difference: session 1 u0294…” comment substantially duplicates the visible “Early transcript descriptions,” “Decisions that refine the transcript,” and paragraph explaining the unarmed pose. Those visible sections already preserve the short-hair discrepancy, approved shoulder-length hair, session-1 equipment, and session-6 unarmed presentation. Proposed edit: remove this one comment in full; retain the visible quotations, utterance IDs, approved choices, and provenance. This avoids maintaining the same source comparison twice.
+%%^End%%

@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [background]
+name: Calendar Eras
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Calendar Eras
 
@@ -40,4 +44,8 @@ However, other calendar eras may occasionally be used, including:
 
 [[Halflings]] remember their history via the tale of years; each year has its own song and its own name. Typically halflings count the beginning of a new year from the day following the winter solstice, when the days begin to lengthen again. Halflings often tell their stories, but when writing, will simply write out the year, i.e. by dating a letter "in the Year of Honeyed Sun". 
 
-[[Elves]] view the passing of time differently than other races. Time flows for them sometimes much more slowly, and sometimes much more quickly than the shorter-lived races. Given their longevity, they are also greatly attuned to the long cycles of history, and reckon time by the passing of generations, know as *[[Elven Cycle of Generations|ka]]*, caring less for the divisions of time into years. Elves will use the Dwarven Count of Years or Drankorian Reckoning when talking about external affairs, but often date their own events to by *mela* and *leya*, i.e. "in the 36th leya". More formally, some elves might write: "in the 36th leya of Elmerca" or "in the 25th mela of Aldanor".
+[[Elves]] view the passing of time differently than other races. Time flows for them sometimes much more slowly, and sometimes much more quickly than the shorter-lived races. Given their longevity, they are also greatly attuned to the long cycles of history, and reckon time by the passing of generations, known as *[[Elven Cycle of Generations|ka]]*, caring less for the divisions of time into years. Elves will use the Dwarven Count of Years or Drankorian Reckoning when talking about external affairs, but often date their own events by *mela* and *leya*, i.e. "in the 36th leya". More formally, some elves might write: "in the 36th leya of Elmerca" or "in the 25th mela of Aldanor".
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article describes calendar systems in current use, with the Nayan era’s origin recorded as historical context.
+%%^End%%
