@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
-tags: [person, status/check/lint]
+tags: [person]
 species: human
 ancestry: Mazeanne
 campaignInfo: null
