@@ -160,4 +160,3 @@
         - {glob: events/;flatten}
     - Primary Sources
         - {glob: primary-sources/}
-- [Taelgar II](https://tsackton.github.io/taelgarverse/taelgar-2/)
