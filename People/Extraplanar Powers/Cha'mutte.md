@@ -27,7 +27,7 @@ Sought to overthrow the gods, breaking the order of things that has held since t
 Cha'mutte was defeated by the [[Heroes of the Great War]] at the [[Battle of Urlich Pass]].
 
 
-<a href="/taelgarverse/taelgar-2/" target="_self">Or was he....?</a>
+<a href="https://tsackton.github.io/taelgarverse/taelgar-2/" target="_self">Or was he....?</a>
 
 %% OneNote
 
