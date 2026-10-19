@@ -1,7 +1,11 @@
 ---
-tags: [background]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [background, status/check/lint]
+name: Languages
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Languages 
 
@@ -9,13 +13,13 @@ dm_notes: none
 
 Many of the common languages of Taelgar derive from the original languages spoken by the first of each species to awaken. For [[Dwarves|dwarves]], [[Elves|elves]], [[Halflings|halflings]], [[Stoneborn|stoneborn]], and [[Lizardfolk|lizardfolk]] this original language has not changed since the dawn of time. For [[humans]], the original tongue has been split and fractured into different language families over the long history of human settlement and migration.
 
-The history of the languages of other sentient creatures is less well known by scholars, but in most cases,, although with some exceptions, whether due to magic, culture, or other factors, linguistic diversity within species is rare. 
+The history of the languages of other sentient creatures is less well known by scholars, but in most cases, although with some exceptions, whether due to magic, culture, or other factors, linguistic diversity within species is rare.
 ## Human Language Families
 The human tongues of the known world are broadly divided up into three major language families based on ancient migrations and cultural divisions on the original human homeland of [[Hkar]]:
 
 * **Northros Language Family**: A set of languages spoken across the northern reaches of Taelgar, named Northros by Drankorian cataloguers of languages. These languages are spoken by the cultures that departed Hkar in the ancient days.
 * **Eastros Language Family**: A diverse set of languages spoken across the [[Green Sea]]. This language is derived from an ancient mariner culture that originally settled much of the [[Green Sea]] region, and these languages were given the name Eastros by Drankorian scholars.
-* **Drankorian Language Family**: A set of languages spoken by [[Drankorian Empire|Drankor]] and many of its successor cultures. It is derived from the language spoken on [[Hkar]] and the time of the [[The Downfall|Downfall]].
+* **Drankorian Language Family**: A set of languages spoken by [[Drankorian Empire|Drankor]] and many of its successor cultures. It is derived from the language spoken on [[Hkar]] at the time of the [[The Downfall|Downfall]].
 
 There are some other human languages, notably Dunmari, that do not fit into any of the language families above, and there are rumors and fragments from [[Drankor]] of very different languages spoken in far-flung places distant from the center of the [[Drankorian Empire]]. 
 
@@ -26,7 +30,7 @@ Availability of magical communication and travel, while rare, is frequent enough
 An ancient trade tongue derived from the original language of humans, it is commonly used by non-humans, especially halflings to conduct business and trade, and is widely spoken by human traders and travelers, especially across the lands that were once part of the Drankorian Empire. Common is a trade pidgin, and as such has no native speakers and a less developed vocabulary than most languages. 
 
 _Real world analog_: Modern English. Place or personal names written out (i.e. [[Copper Hills]] or [[Sentinel Range]] or [[Copperharps]] or [[Gemcrafters]]) should usually be read as being Common, in world. 
-_Alphabet_: No native alphabet. When written, it is usually written phonetically in the speakers native alphabet.
+_Alphabet_: No native alphabet. When written, it is usually written phonetically in the speaker's native alphabet.
 _Intelligibility_: Most speakers of any human language can understand simple words in Common
 ##### Eastros
 A trade pidgin derived from the languages of the Eastros language family, it is widely spoken in the eastern Green Sea, especially by the halfling sailors and those that trade with them. It can be heard as far west as [[Tollen]] and [[Cymea]], and even occasionally in the port cities of [[Sembara]], but it is very rarely spoken beyond the shores of the Green Sea. It has numerous loan words from Ancient Eastros.
@@ -36,7 +40,7 @@ _Alphabet_: Eastros is written using the Mariner Alphabet.
 *Intelligibility*: Speakers of Ancient Eastros can understand Eastros.
 
 %% 
-Background Note: Ancient Eastros developed as a separate tongue from the original "Human" language of Hkar, from which Common is derived, primarily because of the mariner's explicit cultural rejection of the urban Hkaran elite, who spoke the language Common is derived from. Eastros is in turn a remanent/pidgin derived from Ancient Eastros. Halfling telepathy and long-lived non-humans are the primary mechanisms that prevents linguistic drift of these trade tongues.
+Background Note: Ancient Eastros developed as a separate tongue from the original "Human" language of Hkar, from which Common is derived, primarily because of the mariner's explicit cultural rejection of the urban Hkaran elite, who spoke the language Common is derived from. Eastros is in turn a remnant/pidgin derived from Ancient Eastros. Halfling telepathy and long-lived non-humans are the primary mechanisms that prevent linguistic drift of these trade tongues.
 
 Common could reasonably be spoken as a trade pidgin anywhere, and human populations where common is rare, or where a different trade pidgin is spoken, should have an explanation.
 %%
@@ -56,7 +60,7 @@ _Alphabet_: Drankorian is written using the Drankorian alphabet
 ##### Cymean
 A number of mutually understandable languages and dialects spoken in the Cymean peninsula. A descendant of the Drankorian tongue.
 
-_Real world analog_: Spanish or Portugese, but with some Italian.
+_Real world analog_: Spanish or Portuguese, but with some Italian.
 _Alphabet_: Cymean is written using the Drankorian alphabet
 *Intelligibility*: Isinguese is a closely related language, and is usually mutually understandable with Cymean. Sembaran shares a large vocabulary with Isinguese and to a lesser extent Cymean, but uses a different grammar; it is loosely understandable with effort to speakers of Cymean.
 ##### Isinguese
@@ -64,7 +68,7 @@ A number of mutually understandable languages and dialects spoken throughout the
 
 _Real world analog_: Spanish or French, more French in the northern areas, Spanish to the south
 _Alphabet_: Isinguese is written using the Drankorian alphabet
-*Intelligibility*: Cymean is closely related, and is usually understandable to speakers of Isinguese. Sembaran shares a large vocabulary with Isinguese and to a lesser extent Cymean, but uses a different grammar; it is somewhat understandable with effort to speaker of Isinguese. 
+*Intelligibility*: Cymean is closely related, and is usually understandable to speakers of Isinguese. Sembaran shares a large vocabulary with Isinguese and to a lesser extent Cymean, but uses a different grammar; it is somewhat understandable with effort to speakers of Isinguese.
 ##### Chardonian
 A number of mutually understandable languages and dialects spoken in Chardon and the Chardonian Empire, as well as areas under Chardonian influence, such as the [[Chasa River Valley]] and the northwest coast of the [[Apporia|Apporian Peninsula]]. A descendant of the Drankorian tongue, although with Northros influences. Chardon sees itself as the inheritor of the Drankorian Empire, and intentionally imitates the Drankorian language in naming.
 
@@ -81,7 +85,7 @@ _Alphabet_: Illorian is written using the Drankorian alphabet
 *Intelligibility*: Chardonian is a closely related language, and is usually mutually understandable with Illorian.
 
 %% Background Note:
-The cultural history of the  pre-Great War "western shore" (broadly including the Yeraad and Chasa river valleys, Apporia, the coast north of Chardon, the interior around Lake Valandros, and the then the further north reaches, around modern day Voltara) needs more work before settling on a linguistic history.  There are likely some additional dialects, flavors, or even entire languages lurking in this region.
+The cultural history of the  pre-Great War "western shore" (broadly including the Yeraad and Chasa river valleys, Apporia, the coast north of Chardon, the interior around Lake Valandros, and the further north reaches, around modern day Voltara) needs more work before settling on a linguistic history.  There are likely some additional dialects, flavors, or even entire languages lurking in this region.
 
 Outside of the western shore, the list above should be considered complete for the list of Drankorian derived languages.
 %%
@@ -114,7 +118,7 @@ A group of mutually understandable dialects and languages spoken by the [[Deno'q
 _Real world analog_: Hebrew or Arabic
 _Alphabet_: Unknown. %% Previously was stated as an alphabet based on Elvish, but it might be better to have it be a Northros alphabet %%
 ##### Vargaldi
-The language spoken by the [[Vargaldi]] people of the [[Great Northern Forest]]. Although ancestrally a Northos language that retains the basic Northros grammar, Vargaldi has numerous loan word from Eastros.
+The language spoken by the [[Vargaldi]] people of the [[Great Northern Forest]]. Although ancestrally a Northos language that retains the basic Northros grammar, Vargaldi has numerous loan words from Eastros.
 
 _Real world analog_: Not defined, although many names are Slavic reflecting Eastros influences. 
 _Alphabet_: Unknown. 
@@ -129,7 +133,7 @@ All languages in the Eastros language family derive from Ancient Eastros, the la
 
 _Real world analog: Eastros languages are based on Scandinavian, Germanic, and Balto-Slavic languages_
 ##### Ancient Eastros
-The ancient language of the mariner culture than left Hkar for the eastern Green Sea is called Ancient Eastros in most Chardonian scholarly sources; it is extremely rare to find it still spoken today. 
+The ancient language of the mariner culture that left Hkar for the eastern Green Sea is called Ancient Eastros in most Chardonian scholarly sources; it is extremely rare to find it still spoken today.
 
 _Real world mapping_: Balto-Slavic
 *Alphabet*: Mariner alphabet
@@ -149,7 +153,7 @@ The ancient language of Tollen and the Vostok and Sembaran coasts. A precursor t
 *Real world analog*: Balto-Slavic
 *Alphabet*: Mariner alphabet
 ##### Zimkovan
-A group of related languages and dialectics spoken in the highland kingdoms of [[Ardlas]] and  [[Breva]], and across the [[Lavnoch Plateau]]. It is commonly spoken in the rest of [[Zimkova]] as well. It is descended from Old Tollish, but was significantly influenced by Sembaran and Drankorian.
+A group of related languages and dialects spoken in the highland kingdoms of [[Ardlas]] and  [[Breva]], and across the [[Lavnoch Plateau]]. It is commonly spoken in the rest of [[Zimkova]] as well. It is descended from Old Tollish, but was significantly influenced by Sembaran and Drankorian.
 
 *Real world mapping*:  Baltic (Lithuanian or Latvian), although with some loan words from Maltese (Old Zimkovan).
 _Alphabet_: Written using the Drankorian alphabet. 
@@ -188,12 +192,12 @@ _Alphabet_: Dunmari is written using the Drankorian alphabet
 
 %% Background Note: Dunmari is related to both Drankorian and Ancient Eastros via Hkar, but is unique from the post-Hkar migrations as it was the language adopted and evolved from Hkar amongst the Dumari. It should feel relatively unique, but with an Indo-European derivation%%
 ##### Vosic
-A collection of languages spoken by the [[Vostok|Vos]]. There are at least two common dialects and perhaps more, and these language evolved from diverse influences. 
+A collection of languages spoken by the [[Vostok|Vos]]. There are at least two common dialects and perhaps more, and these languages evolved from diverse influences.
 
 _Real world analog_: Undetermined
 _Alphabet_: Undetermined
 
-%% Background note: The specific history of Vostok is unclear and this language probably has both Nothern and Eastern influences. It could be two or more quite distinct languages.  This is more to document its name and existence without forcing any specific details. If a player wants to speak Vosic more details are probably needed. %%
+%% Background note: The specific history of Vostok is unclear and this language probably has both Northern and Eastern influences. It could be two or more quite distinct languages.  This is more to document its name and existence without forcing any specific details. If a player wants to speak Vosic more details are probably needed. %%
 ##### Tyrwinghan
 The ancient language of Tyrwingha, still spoken by many Tyrwinghans especially in rural areas. 
 
@@ -214,7 +218,7 @@ The language of the dwarves. It is often learned by outsiders and traders who wa
 *Real world mapping*: Tolkien Dwarvish
 *Alphabet*: Dwarvish, but with some similarities to both Giant and Stoneborn writing, and Dwarven Runic Magic
 
-%% Background Note: Gnomish is a separate dialectic of Dwarvish, but not commonly known to exist.  %%
+%% Background Note: Gnomish is a separate dialect of Dwarvish, but not commonly known to exist.  %%
 
 ##### Elvish
 The language of the elves, and often associated with magic. The term "elvish" encompasses several different languages and variants of the language. Although all elves learn all the variants during their childhood, most outsiders will only understand a subset of elvish. It is frequently learned by scholars of magic or history.
@@ -222,16 +226,16 @@ The language of the elves, and often associated with magic. The term "elvish" en
 *Real world mapping*: Tolkien Elvish
 *Alphabet*: Elvish
 
-%% When Elmerica creates the elves, they also give the elves language (Elvish), and a writing system (the Elvish script), that is derived from the Sylvan script, but converted to a syllabary and stripped of the magical determinatives. The reasons for using the Sylvan script, as opposed to just invented something out of thin air, are left undetermined for the moment, just matters that this is what happened. %%
+%% When Elmerica creates the elves, they also give the elves language (Elvish), and a writing system (the Elvish script), that is derived from the Sylvan script, but converted to a syllabary and stripped of the magical determinatives. The reasons for using the Sylvan script, as opposed to just inventing something out of thin air, are left undetermined for the moment, just matters that this is what happened. %%
 
 ##### Lizardling
-The language of the lizardfolk. Often learned by those who spend time living in lizardfolk communities. Although there are numerous dialectics, they are all mutually comprehensible.
+The language of the lizardfolk. Often learned by those who spend time living in lizardfolk communities. Although there are numerous dialects, they are all mutually comprehensible.
 
 _Real world analog_: Basque
 *Alphabet*: Unknown. %% Possibly Lizardling is usually written in the local alphabet, i.e. Drankorian or Eastros, or occasionally, a simplified form of Elvish, but leaving undetermined for now if there is a distinctive lizardling script.%%
 
 ##### Stoneborn
-The language of the Stoneborn. Often learned by those who spend time in Stoneborn communities. There are no known variants or dialectics, and examples of writing are rare.
+The language of the Stoneborn. Often learned by those who spend time in Stoneborn communities. There are no known variants or dialects, and examples of writing are rare.
 
 _Real world analog_: Xhosan
 *Alphabet*: Stoneborn, but related to Giant
@@ -277,7 +281,7 @@ _Real world analog_: Old Norse
 
 %% Note: The Giant alphabet, the Stoneborn alphabet, the original runic language of magic created by the titans, the Dwarven alphabet, and Dwarven runic magic probably all have some relationship, but the exact form is not determined %%
 
-%%^Campaign:DuFr%%
+%%^Campaign:dufr%%
 ##### Kenku
 The kenku have their own language, although whether the kenku of the north and those of the east speak the same, or different, languages is not recorded. 
 
@@ -287,7 +291,7 @@ _Alphabet_: Unknown
 The language spoken by the Merfolk of the western [[Endless Ocean]] near [[Apporia]]. Whether there are other Merfolk dialects or languages spoken elsewhere is not recorded.
 
 _Real world mapping:_ None specifically, although names tend to have a Classical or Japanese vibe with  alternating consonant / vowel syllables. 
-_Alphabet:_ The merfolk of Omi, at least don't have an obvious written alphabet, but use invented pictograph glyphs for writing. 
+_Alphabet:_ The merfolk of Omi, at least, don't have an obvious written alphabet, but use invented pictograph glyphs for writing.
 
 ##### Gnoll
 A hideous, distorted version of Abyssal, with a limited vocabulary and grammar, spoken by gnolls.
@@ -305,7 +309,32 @@ The most common [[Extra-Planar Language|extra-planar language]] spoken in Taelga
 _Real world analog_: None, specifically, but it should sound lyrical. Many existing Fey names use Classic Greek, but Polynesian or Hawaiian might be interesting places for inspiration.
 _Alphabet_: Commonly written in Elvish, but with a complex magical writing system as well (see [[Sylvan Writing]] for more details)
 ##### Primordial
-The language family of the [[Energy Realms]]. At least four dialects are known: Aquan, Auran, Ignan, and Terran, but more dialects may exist. Not commonly learned by natives of other planes, but occasionally studied by wizards, druids, or others regularly interact with elementals. 
+The language family of the [[Energy Realms]]. At least four dialects are known: Aquan, Auran, Ignan, and Terran, but more dialects may exist. Not commonly learned by natives of other planes, but occasionally studied by wizards, druids, or others who regularly interact with elementals.
 
 _Real world analog_: Not determined, and may vary among dialects. Named elementals tend to have long, multi-syllabic names. 
-_Alphabet_: Not determined. 
+_Alphabet_: Not determined.
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference overview of language families, present-day speakers, and writing systems; ancient migrations and the decline of Drankorian are historical background.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the explicit display name and broadly modern POV metadata with a persistent temporal-coverage note.
+- Corrected objective spelling, punctuation, duplicated words, and grammar, including Portuguese, dialects, plural agreement, and missing grammatical words; preserved the language mappings and unresolved lore.
+- Normalized the Kenku–Gnoll campaign marker from `DuFr` to the registry's canonical `dufr`, preserving its content and boundaries.
+
+### Validated judgments
+- The overview supplies language families, regions and speakers, historical relationships, trade tongues, scripts, and intelligibility at a useful reference scale. Its explicitly undeveloped scripts and regional languages remain open worldbuilding choices rather than central gaps.
+- This page summarizes many languages rather than identifying a single named in-world subject; a `Metadata:names:v1` block is not applicable.
+- Shared hidden passages were reviewed separately from the external DM attestation. No SECRET block is present.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** The Goblin entry asserts a large set of related languages and says hobgoblin clans often invent secret languages. [[Hobgoblins#Language and Naming|Hobgoblins]] instead says whether hobgoblins speak other languages among themselves is unknown; its adjacent comment explicitly calls clan tongues noncanonical. Resolve this specific discrepancy before treating clan languages as established. If the cautious species account is intended, replace the first two Goblin sentences with: `Most hobgoblins speak a common creole derived from the language of Cha'mutte's armies. Whether hobgoblins speak other languages among themselves is not known.` Retain the Katonylev name, translation, and common-tongue description. Otherwise, explicitly adopt the broader language history and align the species note; neither account has been silently preferred.
+- [ ] **Suggestion — editorial.prose_clarity:** The Tollish entry's alphabet line reads `_Alphabet_: Sembaran is written using the Drankorian alphabet`, repeating Sembaran's line rather than identifying Tollish's script. Confirm whether the intended subject is Tollish; if so, use `_Alphabet_: Tollish is written using the Drankorian alphabet`. If the line is an intentional comparison, retain that comparison and separately state whether Tollish's script is established. The surrounding account of a shared linguistic mixture does not uniquely settle this script attribution.
+- [ ] **Suggestion — identity.inconsistent_name:** Several language labels disagree with their own surrounding entries: `Charodian` in the Western Drankorian overview versus `Chardonian`; `Illoria` as the language heading versus `Illorian` in its alphabet/intelligibility lines; `Urksan` as the heading versus `Urskans` in the entry; `Semabaran` versus `Sembaran`; `Northos` versus `Northros`; and `Dumari` versus `Dunmari` in the hidden Dunmari note. Confirm the intended forms and then make the bounded replacements `Charodian` → `Chardonian`, `##### Illoria` → `##### Illorian`, `##### Urksan` → `##### Urskan`, `Semabaran` → `Sembaran`, `Northos` → `Northros`, and `Dumari` → `Dunmari` if these are spelling errors. If any distinction is intentional, explain it. The language-heading choices affect section links and the generated naming-guidance index, so they remain human decisions.
+- [ ] **Suggestion — editorial.public_material_candidate:** Three shared comments contain developed public-safe language-history candidates: the trade-language background after Eastros, the Dunmari background note, and the Elvish script-creation note. Human adoption could explain the languages' relationships more clearly. Bounded candidate prose: under Ancient Eastros, `Ancient Eastros developed among Hkar's mariner culture, whose rejection of the urban elite distinguished its language from the tongue that became Common.` Under Dunmari, `Dunmari shares Hkaran roots with Drankorian and Ancient Eastros, but developed separately from the languages spread by the later human migrations.` Under Elvish, `Elvish writing derives from the Sylvan script, adapted as a syllabary without its magical determinatives.` [[Sylvan Writing]] corroborates a simplified nonmagical Elvish adaptation; the other histories remain adoption candidates from this note's comments, not independently established additions. Keep the unresolved naming, divine attribution, precise historical mechanisms, drift-maintenance explanation, and guidance for future development in the hidden comments; trim only the adopted portions if approved.
+%%^End%%

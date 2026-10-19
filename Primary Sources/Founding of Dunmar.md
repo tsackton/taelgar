@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [source]
+name: The Founding of Dunmar
 dm_owner: tim
 dm_notes: none
+POV: modern
 ---
 # The Founding of Dunmar
 
@@ -24,3 +28,10 @@ Among the [[Lakan Mystai]], it is said that [[Laka]] was there as well, and turn
 
 It is also said among the [[Lakan Mystai]] that [[Bhishma]] and [[Laka]] spent the night together, and from that union two children were born, twins, one divine and one mortal. The Divine, [[Shakun]], looked to dangers and needs of the people that were not visible; the mortal, [[Kotana]], looked outward to the physical needs of the people and the land, and would become the next ruler of [[Dunmar]].
 
+%%^Metadata:names:v1%%
+- {name: The Founding of Dunmar, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern retelling of a Dunmari founding tradition concerning approximately DR 1171–1173; the narrated events are mythic history rather than the date of narration.
+%%^End%%

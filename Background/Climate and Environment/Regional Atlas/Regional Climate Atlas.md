@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta]
+name: Regional Climate Atlas
 excludePublish: [all]
+POV: modern
 ---
 # Regional Climate Atlas
 
@@ -25,3 +29,7 @@ Drankor, the Great Desert interior, and Orekatu remain under [[Taelgar Climate M
 Use the linked physical models for pressure systems, moisture routes, and regional maps. The atlas gives qualitative expectations, not rainfall totals, fixed freeze dates, or guaranteed travel windows. [[Climate and Weather Constraints]] distinguishes accommodated requirements from unresolved physical tests and source conflicts.
 
 For accepted climatic requirements see [[Climate and Weather Constraints]]; for habitats see [[Biomes of Taelgar]]. Return to [[Climate and Environment]].
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern regional-climate reference navigation.
+%%^End%%

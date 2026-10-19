@@ -1,7 +1,11 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/mike]
+name: "Player's Guide"
 dm_owner: joint
 dm_notes: none
+POV: 1740s
 ---
 
 This short guide provides an overview to the inhabitants of Taelgar, its magic and religions, and basic geography, places, and history. It is written loosely from the perspective of an educated commoner in the 1740s, by the  [[Calendar Eras#Drankorian Reckoning|common reckoning of human scholars]], or the 5880s, as the [[Calendar Eras#Dwarven Count of Years|dwarves count the years of the world]]. 
@@ -59,7 +63,7 @@ Hkar was destroyed in a cataclysm remembered as [[The Downfall]]. Refugees found
 
 Roughly seven hundred years ago, the [[First Plague]] destroyed [[Drankor]] and broke the empire. New powers rose in the aftermath: [[Chardon]] in the west, [[Sembara]] around the [[Western Gulf]], [[Tollen]] on the [[Volta]], [[Dunmar]] in the old imperial heartlands, and many smaller realms and cities.
 
-Two hundred years ago, [[Cha'mutte]], an shadow wyrm of terrible power, tried to overthrow the gods. The [[Great War]] ended with [[Cha'mutte|Cha'mutte's]] defeat at [[Battle of Urlich Pass|Urlich Pass]] in DR 1545, but the victory came at a great cost. The [[Plaguelands]] mark one of the deepest scars of that war, and for generations afterward hobgoblin armies and other terrors haunted the borders of human realms.
+Two hundred years ago, [[Cha'mutte]], a shadow wyrm of terrible power, tried to overthrow the gods. The [[Great War]] ended with [[Cha'mutte|Cha'mutte's]] defeat at [[Battle of Urlich Pass|Urlich Pass]] in DR 1545, but the victory came at a great cost. The [[Plaguelands]] mark one of the deepest scars of that war, and for generations afterward hobgoblin armies and other terrors haunted the borders of human realms.
 
 In the present age, the world is recovering. Chardon has become an empire, Sembara has rebuilt its farms and castles, Tollen sends ships across the [[Green Sea]], and Dunmar endures on changed lands behind its divine protections. 
 
@@ -93,3 +97,7 @@ Human religions are more varied. Human belief, through the Divine Spark, sustain
 - The worship of [[Kaikkea]], the Great Ocean Mother of the Skaer, an ancient mariner faith centered on the sea as source, protector, and destroyer.
 
 There are darker powers as well: the [[Void Mind]], the [[Three Despairs]], [[Thark]], [[Jinnik]], and other forces associated with undeath, lycanthropy, endless war, madness, and the unmaking of creation. Most people know these powers through curses, monsters, old wars, and cautionary tales rather than formal worship.
+
+%%^povNotes:v1%%
+Temporal coverage: a player-facing overview explicitly framed as educated-commoner knowledge in the DR 1740s.
+%%^End%%

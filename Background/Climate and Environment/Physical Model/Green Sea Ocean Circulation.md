@@ -1,6 +1,10 @@
 ---
-tags: [background, status/check/ai]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [background, status/check/ai, status/check/lint]
+name: Green Sea Ocean Circulation
 excludePublish: [all]
+POV: modern
 ---
 # Green Sea Ocean Circulation
 
@@ -170,3 +174,21 @@ These real-world examples explain the physical mechanisms used in the model and 
 - [NOAA: Northeast currents](https://www.integratedecosystemassessment.noaa.gov/regions/northeast/northeast-currents): shallow and deeper northern water sources; cold water is not necessarily richer in nutrients than warmer water.
 - [WHOI: Where the whales are](https://www.whoi.edu/ocean-learning-hub/multimedia/where-the-whales-are/): fronts can concentrate prey into feeding patches.
 - [NOAA: sea-state forecasting](https://www.ndbc.noaa.gov/faq/sea_state_forecasting.shtml): waves opposing currents become steeper.
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern ocean-model defaults; seasonal patterns describe the working model, while the stated unresolved mechanisms and magical possibilities remain qualified.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added an explicit display name and persistent temporal viewpoint metadata.
+
+### Validated judgments
+- This is a model or visual-reference document, so it does not require an in-world subject-name block.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.reference_voice:** The introduction, Overview, and opening Major Currents paragraph repeatedly interrupt the model explanation with reminders that details are unassigned: “Detailed channels, current strengths, and local navigation remain open”; “Neither establishes a navigable channel, an ice boundary, or a measured transport volume”; and “Entrance and exit arrows identify regional exchange sectors, rather than specific navigable gaps or precise water movements.” The Climate and Environment writing rules call for removing routine audit language. Rewrite these bounded passages to state the circulation and map meaning once, retaining the adopted inflows, offshore return, layered Gulf exchange, and the specific unresolved exchange-capacity/pressure-field problem. Keep genuine physical uncertainty beside the mechanism; remove repeated administrative qualifications. Human rewrite required; no replacement prose is supplied.
+%%^End%%

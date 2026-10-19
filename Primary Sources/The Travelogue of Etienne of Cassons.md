@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [source, status/check/mike]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [source, status/check/mike, status/check/lint]
+name: The Travelogue of Etienne of Cassons
 dm_owner: none
 dm_notes: none
+POV: 1743
 ---
 # The Travelogue of Etienne of Cassons
 
@@ -22,7 +26,7 @@ September 6th, 1743
 > This evening I am camping in Rocky Ford. This season it is further south than usual, and as always one must watch one’s purse. But the ferry is running and the water is sluggish and low, so I do not believe the crossing will be challenging. Traffic has been heavy going north, I saw two caravans of Alliance metals heading for Cleenseau, and a group of halflings from Tokra. 
 
 September 7th, 1743
->An unseasonably late thunderstorm has delayed my crossing. A late summer storm spilled its fury with hail and rain at noon, and the Masance flooded its banks. The ferry was swept downriver, and many lives feared lost. My habit of asking the old seer whether to cross in the morning or evening has paid off – many here say he is a conman, but his advice to cross on the last boat of the day has kept my from being one of the unlucky swept south.
+>An unseasonably late thunderstorm has delayed my crossing. A late summer storm spilled its fury with hail and rain at noon, and the Masance flooded its banks. The ferry was swept downriver, and many lives feared lost. My habit of asking the old seer whether to cross in the morning or evening has paid off – many here say he is a conman, but his advice to cross on the last boat of the day has kept me from being one of the unlucky swept south.
 
 September 8th, 1743
 >The water is still high. The day passes slowly and idly. All here are bored, and tempers are running high.
@@ -37,7 +41,7 @@ September 17th, 1743 
 > I am at the crossroads, where an inn has been built since I last came this way in 1735. The crossing of the Aursen was simple enough, although the ferrywoman charged high and spoke of Insingue quite often and fondly, as if she remembered it herself. Fah, these false patriots and seekers of lost glory disgust me. Those who say, rebuild here, forget the past have it right. The falls have lost none of their grandeur, although the water is of course low compared to spring.
 
 September 20th, 1743
->It has been slow going these last two days and I have climbed several thousand feet, and the road is in rougher repair than I remembered. The nights are getting cold, and I am glad of my good boots and woolen blanket. The Aurbeze have been hospitably, but my coin is running low and I have camped instead of availing myself of their hospitality. I have seen several patrols along the way - the road feels safer here than last time I was here. I saw a Stoneborn as well today, although I was too nervous to speak to them.
+>It has been slow going these last two days and I have climbed several thousand feet, and the road is in rougher repair than I remembered. The nights are getting cold, and I am glad of my good boots and woolen blanket. The Aurbeze have been hospitable, but my coin is running low and I have camped instead of availing myself of their hospitality. I have seen several patrols along the way - the road feels safer here than last time I was here. I saw a Stoneborn as well today, although I was too nervous to speak to them.
 
 September 30th, 1743
 > The real climbing starts today. It has taken me longer than I hoped to get to the foot of the pass, as my horse went lame. I hope the weather holds.
@@ -45,4 +49,30 @@ September 30th, 1743
 October 3rd, 1743
 > The snow has been blowing for a day and a half now. I fear I will not make it to Tokra. My food is running low and my fingers are numb.
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: The Travelogue of Etienne of Cassons, language: unknown, pronunciation: "the TRAV-uh-log uhv eh-TYEN uhv KASS-unz", notes: "Cautious complete-title spelling proposal: ordinary English title words, Etienne read eh-TYEN with consonantal y before en, and Cassons with hard c, short a, and first-syllable stress. No name-specific in-world language, accepted pronunciation, or applicable language analogue is established.", status: proposed}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: the travelogue is presented as an August–October DR 1743 record, with a prior journey in DR 1735; the author's existing comment questions that dating and suggests approximately DR 1690, so the chronology remains unresolved.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the existing title explicitly, a persistent work-title name entry with proposed pronunciation, and temporal metadata recording the source’s presented DR 1743 viewpoint and unresolved chronology.
+- Corrected the objective errors “kept my from being” → “kept me from being” and “have been hospitably” → “have been hospitable,” preserving the travelogue’s voice and events.
+
+### Validated judgments
+- The surviving excerpt sufficiently presents a dated journey with weather, travel, settlement, and political observations. It is a Primary Source whose narrator and unfinished ending retain their documentary voice.
+- The existing author comment and status/check/mike are preserved; the comment records a proposed earlier date rather than an adopted correction.
+
+### Open findings
+
+- [ ] **Warning — temporal.source_date_unresolved:** The source is labeled DR 1743 throughout, but its existing author comment says that date is not correct and suggests approximately DR 1690 ± 10 years. Confirm whether the intended source date remains 1743 or should change. If revised, update the italic date, `Date:1743` wrapper, every journal-entry year, the reference to the previous journey in 1735 as appropriate, and the POV metadata together; no exact replacement year is yet supported. This is an unresolved authorial chronology decision, not a declaration that the narrator’s account is false.
+
+- [ ] **Warning — metadata.names_unresolved_status:** Review the proposed full-title pronunciation `the TRAV-uh-log uhv eh-TYEN uhv KASS-unz`. The English title words are ordinary; the named component uses a cautious reading of Etienne with consonantal y before en and Cassons with hard c, short a, and first-syllable stress. No source establishes the intended in-world language or pronunciation, so this is a spelling proposal rather than an adopted language rule. Accept or revise it, mark the entry documented on acceptance, and copy the accepted primary pronunciation to frontmatter. Keep the title-form language unknown until supported.
 %%^End%%

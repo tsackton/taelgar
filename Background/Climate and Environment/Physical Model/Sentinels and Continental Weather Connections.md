@@ -1,6 +1,10 @@
 ---
-tags: [meta, status/check/ai]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/ai, status/check/lint]
+name: Sentinels and Continental Weather Connections
 excludePublish: [all]
+POV: modern
 ---
 # Sentinels and Continental Weather Connections
 
@@ -163,3 +167,21 @@ These comparisons support selected mechanisms or landscape targets; they do not 
 - [National Weather Service: pressure systems and fronts](https://www.weather.gov/lmk/basic-fronts): moving lows, circulation, and precipitation extending beyond a low's center.
 
 Return to [[Taelgar Climate Model]] or [[Climate and Environment]].
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; a revisable physical model of seasonal mountain weather, with dated observations used at their stated local scope.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added explicit filename-derived name and persistent temporal-viewpoint metadata.
+
+### Validated judgments
+- The seasonal mountain account remains sufficient for its physical-model role; its specific unresolved accumulation and storm-track questions remain qualified.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.prose_clarity:** The introduction links to “the fixed continental overview,” but the climate library’s governing instructions explicitly make both the continental overview and regional physical explanations revisable parts of one model. “Fixed” misleadingly suggests that regional revision must preserve an independently frozen overview. Copy-ready correction: change `[[Taelgar Climate Model#Sentinels and Northern Highlands|the fixed continental overview]]` to `[[Taelgar Climate Model#Sentinels and Northern Highlands|the continental overview]]`. Preserve the paragraph’s distinction between the model and its retained weather constraints.
+%%^End%%

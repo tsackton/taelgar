@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
+name: Climate of the Western Coast and Interior
 excludePublish: [all]
+POV: modern
 ---
 # Climate of the Western Coast and Interior
 
@@ -125,3 +129,7 @@ The required western outcomes are collected under K15–K16, K19–K22, K31–K3
 The workings and precise reach of Crimson/Elderwood's adopted summer magic, local fog coverage, Valandros freezing, Blackwater's ordinary ice distribution, the reach of southwestern rain into Erbalta, and the detailed climates of western and interior Apporia remain open. No precise forest boundary, snowline, storm frequency, or crop calendar follows from these qualitative descriptions. Real-world parallels and possible Köppen fits remain in the [[Taelgar Climate Model#Western Coast and Interior|continental western overview]] rather than serving as extra evidence.
 
 The neighboring high passes, icefields, and interior uplands are described in [[Climate of the Sentinels and Northern Highlands]]. The Nevos monsoon and the southern mountain transition are in [[Climate of Dunmar and the Nevos]]. Return to [[Regional Climate Atlas]] or [[Climate and Environment]].
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; describes regional conditions for current-era play, with dated weather examples retained at their stated scope.
+%%^End%%

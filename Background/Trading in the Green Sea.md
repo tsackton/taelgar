@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [background]
+name: Trading in the Green Sea
 excludePublish: [all]
+POV: modern
 ---
 # Trading in the Green Sea
 
@@ -34,7 +38,7 @@ The principal design constraints are:
 | [[Ursk]], [[Zakat]], and [[Praznitsky]] restrict foreign access. | Familiarity with trading ports does not imply free movement inland. |
 | [[Wave Dancer]] visits Praznitsky, Wahacha, Quanyi, and Medju; [[Session 60 (DuFr)]] records an eastbound voyage in late September and October. | Autumn eastward travel from Ursk must be common and feasible. Wellby's time aboard measures only part of an existing voyage. |
 | [[Irrla]] places Svolhas on its southeastern coast, with dangerous shoals and currents to the north and west. | The Irrla branch uses the southeastern trading coast. Northern passages keep offshore rather than assuming a safe western Irrla port. |
-**These are not intended to be a full list of design constraints, simply the list of ones that have be introduced in play, directly or indirectly. Additional established anchors can be added as needed. Clarify whether the model includes them, or needs to be extended.**
+**These are not intended to be a full list of design constraints, simply the list of ones that have been introduced in play, directly or indirectly. Additional established anchors can be added as needed. Clarify whether the model includes them, or needs to be extended.**
 
 ## Commercial Geography
 
@@ -138,7 +142,7 @@ A passage day includes ordinary weather interruptions, reduced progress while ta
 | Early seventeenth-century passage | *Mayflower*'s 1620 Atlantic crossing took 66 days and included severe storm damage. [Plimoth Patuxet Museums](https://plimoth.org/for-students/homework-help/mayflower-and-mayflower-compact). | Actual journeys can take far longer than a calculation from favorable sailing speed. |
 | Later age-of-sail merchant performance | Kelly and Ó Gráda's logbook analysis finds median daily sailing speeds for British East India Company ships around 4 knots before 1780, rising to about 5 in the early 1780s and 6 in the late 1820s. [Research paper, Figure 4 and discussion](https://www.researchgate.net/profile/Morgan-Kelly-4/publication/322273109_Speed_under_Sail_during_the_Early_Industrial_Revolution_c_1750-1830/links/5a4f73b30f7e9bbfacfd029f/Speed-under-Sail-during-the-Early-Industrial-Revolution-c-1750-1830.pdf). | Sustained performance can improve substantially with ship technology and maintenance. This fleet is not a universal merchant average. |
 | Nineteenth-century clipper | *Cutty Sark* exceeded 17 knots at its recorded peak and made Sydney–London in 73 days in 1886. [Speed](https://www.rmg.co.uk/stories/maritime-history/knots-measuring-speed-sea); [voyage record](https://www.rmg.co.uk/cutty-sark/history). | An upper-end age-of-sail comparison. The peak must not be treated as a whole-voyage average. |
-For a 1,500-mile route, 40, 60, and 100 miles per passage day imply roughly 38, 25, and 15 days journeys. Given the seasonal nature of the winds, even the fastest case may then wait weeks for a favorable return.
+For a 1,500-mile route, 40, 60, and 100 miles per passage day imply journeys of roughly 38, 25, and 15 days. Given the seasonal nature of the winds, even the fastest case may then wait weeks for a favorable return.
 
 ## The Tollen–Ursk Trading Season
 
@@ -182,13 +186,13 @@ Damage or a missed return season can also lead to overwintering. A missed window
 
 A ship wintering at Medju can depart westward in late March or April, trade at the [[~Maritime Trade Peninsula~]], and choose a summer in **Ursk or southeastern Irrla**, possibly after a Cymean stop. Autumn passages then connect to selected Eastern Isles markets before a return toward Medju.
 
-The Ursk branch sails north in offshore corridors west of Irrla, avoiding its dangerous northwestern coastal waters. The Irrla branch approaches Svolhas around the island's southern side. Visiting both summer destinations might be plausible, but hasn't be checked against the climate model and would likely require a ship with good windward performance, precise timing, lucky weather, magic, or some combination. 
+The Ursk branch sails north in offshore corridors west of Irrla, avoiding its dangerous northwestern coastal waters. The Irrla branch approaches Svolhas around the island's southern side. Visiting both summer destinations might be plausible, but hasn't been checked against the climate model and would likely require a ship with good windward performance, precise timing, lucky weather, magic, or some combination.
 
 The [[Wave Dancer]] canonically sailed **Praznitsky → Wahacha → Quanyi → Medju**, so this sequence should be retained as a common halfling family ship pattern. This uses selected central and southern islands, rather than traversing the entire roughly 2,000-mile chain described in [[Eastern Green Sea]]; sailing the full island chain from north to south should be highly unusual and might not be possible given weird magic. In general, though, magical weather and difficult channels in the Eastern Isles remain local complications within the broader seasonal pattern.
 
 ### Western extensions and alternative winter bases
 
-Westward visits to Tollen generally belong to longer itineraries, often spanning more than one annual cycle, as it is challenging to fit a Tollen journey into the annual circuit above. A ship can spend summer trading around Ursk, Irrla, the peninsula, or Cymea, then work toward the west as suitable late-summer opportunities develop, for example. This would imply overwintering the in the Western Gulf, and then sailing east again with the spring winds, though brave or confident captains could risk a winter journey east. 
+Westward visits to Tollen generally belong to longer itineraries, often spanning more than one annual cycle, as it is challenging to fit a Tollen journey into the annual circuit above. A ship can spend summer trading around Ursk, Irrla, the peninsula, or Cymea, then work toward the west as suitable late-summer opportunities develop, for example. This would imply overwintering in the Western Gulf, and then sailing east again with the spring winds, though brave or confident captains could risk a winter journey east.
 
 Capable halfling ships have another option: an early westward passage against unfavorable winds, potentially using routes along the Cymea coast. Such a voyage needs allowances for windward sailing and local shelter. This could imply something like a ship wintering in Irrla or MTP or eastern Cymea, then sail and pass the Straits of Cymea in April, trade in Tollen, and reverse before the summer monsoon becomes fully established, sailing to Ursk in the same season. Then, after trading in Ursk, such a ship could continue to Medju in December, and possibly work west in calm and settled conditions to reach Irrla or MTP by January or February, starting the cycle again. But this requires a skilled ship with good windward performance as it works along marginal routes with sometimes-unfavorable winds. 
 
@@ -330,3 +334,7 @@ Canadian Atlantic waters illustrate why a cold current and snowy winter do not s
 
 - [Melaka's shahbandars: Peter Borschberg, *The Melaka Empire*, p. 278](https://brill.com/display/book/9789004407671/BP000014.pdf): around 1500, harbor officials represented different foreign merchant communities, collected dues, and arbitrated disputes. A model for multilingual intermediaries at Green Sea exchange ports, connecting visiting traders to local authorities.
 - [Livorno's settlement privileges: Massimo Bomboni, *Sugar, Salt, and Mills for the Grand Duke*](https://doi.org/10.1017/S016511532610062X): late-sixteenth-century fiscal incentives, settlement protections, and investment in port facilities attracted foreign merchants and skills. A comparison for how Cymean ports might compete for trade by offering security, favorable terms, and useful infrastructure; the specific Cymean institutions remain to be developed.
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference model; historical examples and expressly provisional mechanisms retain their stated scope.
+%%^End%%

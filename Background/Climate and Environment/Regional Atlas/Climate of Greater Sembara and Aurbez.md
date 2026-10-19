@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
+name: Climate of Greater Sembara and Aurbez
 excludePublish: [all]
+POV: modern
 ---
 # Climate of Greater Sembara and Aurbez
 
@@ -91,3 +95,7 @@ Summer is warm, humid, and rainy in the Sembaran riverlands. The immediate Gulf 
 The Gulf shores retain warmth while inland districts cool more quickly. Snow returns to the highest routes.
 
 %% To develop: autumn rainfall, usual seasonal river levels, and the timing of cooling and frost across the region. %%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern regional climate guidance; the brief Isingue reference concerns the historical lowlands rather than the later Plaguelands.
+%%^End%%

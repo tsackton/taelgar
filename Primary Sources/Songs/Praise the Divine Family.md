@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [source]
+name: Praise the Divine Family
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Praise the Divine Family
 
@@ -86,3 +90,11 @@ Family divine, across the land.
 In unity, our hearts and voices rise,
 Under open skies.
 Family divine, together we stand.
+
+%%^Metadata:names:v1%%
+- {name: Praise the Divine Family, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern Dunmari religious practice; no specific composition date or narrower historical setting is established for the song.
+%%^End%%

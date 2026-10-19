@@ -1,15 +1,19 @@
 ---
-tags: [background, status/cleanup/text]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [background, status/cleanup/text, status/check/lint]
+name: Religious History of Taelgar
+excludePublish: [all]
 dm_owner: joint
 dm_notes: none
-excludePublish: ["all"]
+POV: modern
 ---
 
-**WARNING: THIS DOCUMENT IS SHOULD NOT BE CONSIDERED FULLY CANONICAL**
+**WARNING: THIS DOCUMENT SHOULD NOT BE CONSIDERED FULLY CANONICAL**
 
 This note tries to draw together various strands of worldbuilding related to religious history into a cohesive outline. 
 
-The starting point here is drawing from the fundamental metaphysics of humanity: they are created by the high gods, [[Divine Presence|Arhat]] and [[Divine Presence|Malik]], and imbued with the divine spark that lets their belief shape and create divinity from the magical essence of spiritual planes / the creator gods / whatever mysterious force is the cause of divine magic in the world. However, the creator gods themselves are very much not active in the world: while they are the source, ultimately, of divine magic, they do not answer prayers or grant miracles. Let undecided is whether this is because they cannot or because they do not want to or for some other reason; at some point will need to work this out in the context of the "high god religion".
+The starting point here is drawing from the fundamental metaphysics of humanity: they are created by the high gods, [[Divine Presence|Arhat]] and [[Divine Presence|Malik]], and imbued with the divine spark that lets their belief shape and create divinity from the magical essence of spiritual planes / the creator gods / whatever mysterious force is the cause of divine magic in the world. However, the creator gods themselves are very much not active in the world: while they are the source, ultimately, of divine magic, they do not answer prayers or grant miracles. Left undecided is whether this is because they cannot or because they do not want to or for some other reason; at some point will need to work this out in the context of the "high god religion".
 
 ## Non-humans
 
@@ -19,8 +23,8 @@ The goblinoid species were explicitly created as anti-humans, in a sense, and ha
 
 Other species are somewhat up in the air and left undeveloped at the moment. 
 
-*Non-canonical brainstoming*:
-It is plausible that the fey, dragons, elementals, and giants look to their ancient mythic ancestors as their creators and gods (e.g., archfey, great worms, elder elementals, titans), but what exactly the true relationship here is is left undetermined. The great wyrms, archfey, titans, and elder elementals are potentially metaphysically similar to embodied gods (e.g., created directly by the [[Divine Presence]], although not imbued with a direct connection to divine power, necessarily). However, whether they can, for example, grant divine miracles to their descendants is currently undetermined. Unique species (kenku, centaurs, merfolk) have various degrees of lore but nothing super-canonical (is Aerin actually an Embodied God now?).
+*Non-canonical brainstorming*:
+It is plausible that the fey, dragons, elementals, and giants look to their ancient mythic ancestors as their creators and gods (e.g., archfey, great worms, elder elementals, titans), but what exactly the true relationship here is left undetermined. The great wyrms, archfey, titans, and elder elementals are potentially metaphysically similar to embodied gods (e.g., created directly by the [[Divine Presence]], although not imbued with a direct connection to divine power, necessarily). However, whether they can, for example, grant divine miracles to their descendants is currently undetermined. Unique species (kenku, centaurs, merfolk) have various degrees of lore but nothing super-canonical (is Aerin actually an Embodied God now?).
 
 ## Humans on Hkar
 
@@ -32,7 +36,7 @@ The first religious tradition, such as it is, that develops on Hkar is based aro
 In the very earliest days, these are something like divine familiars. These early deities have three key features relevant to later religious history:
 
 - While individually weak, they are a conduit for divine magic and for channeling the miracles of [[Divine Presence|Arhat]] and [[Divine Presence|Malik]] to the material plane. This is functionally an early kind of intercessory prayer.
-- They are physically manifest on the material plane, and only exist on the material plane while the person who manifest them is alive. After death, they accompany the soul of their "creator" through the land of the dead to whatever is beyond, protecting them during the journey. It is possible that some of these early deities become the rulers of the primordial outer planes, places like Nine Hells, Abyss, Arborea, etc, that aren't associated with a particular divinity. This is both the source of many of the primordial outer planes that may exist as needed / invented, and the origin of the belief common in e.g. the northern folk religions that the small gods protect the soul on the journey through the land of the dead.
+- They are physically manifest on the material plane, and only exist on the material plane while the person who manifests them is alive. After death, they accompany the soul of their "creator" through the land of the dead to whatever is beyond, protecting them during the journey. It is possible that some of these early deities become the rulers of the primordial outer planes, places like Nine Hells, Abyss, Arborea, etc, that aren't associated with a particular divinity. This is both the source of many of the primordial outer planes that may exist as needed / invented, and the origin of the belief common in e.g. the northern folk religions that the small gods protect the soul on the journey through the land of the dead.
 - They have no ability to reach the material plane once they have left it, and often simply dissipate and vanish on the death of their "creator". This is the source of many traditions that still persist in northern folk religions around ensuring that the small gods can find the soul of the deceased and helping the soul of the deceased make the transition to the land of the dead. This is also potentially the reason why creatures like demons and devils have to be physically present on the material plane to influence events. 
 
 So in the early days of humanity, you don't really have religion in a real sense, at least not organized religion. But probably everyone is thought to have a personal deity, even if some people are not strong-willed enough to summon divine miracles. In some senses this probably resembles "modern day" arcane or primal magic, where you have some powerful individually strong casters who have the right force of personality / strength of mind / whatever to effectively challenge miracles through their personal deities. But in many cases, these personal deities probably don't even have a name, and they aren't really conceived of as having an independent existence from their "person". This might in some ways be kind of like daemons in the Phillip Pullman books, if there was vastly more variability in power levels (most people would probably not be able to physically manifest their deities).
@@ -51,9 +55,9 @@ Conceptually, all gods are still thought of as local and as existing primarily a
 - Conceptually, it is in this era that the idea of deities with identities separate from individual people develops, but metaphysically deities are still conceived of as small, local spirits, in many ways not much different than the personal divinities of early humanity. 
 - Metaphysically, this is probably largely correct at this time. 
 
-For much of this era, there is probably a certain degree of religious stasis. While their may be a lot of variety of different kinds of small gods, and specific local variants on how you attract their attention, the fundamental picture small intercessory gods that need to be summoned to you to carry your prayers is pretty stable. 
+For much of this era, there is probably a certain degree of religious stasis. While there may be a lot of variety of different kinds of small gods, and specific local variants on how you attract their attention, the fundamental picture of small intercessory gods that need to be summoned to you to carry your prayers is pretty stable.
 
-It is during this time that the first humans leave Hkar, and begin to explore the mainland, coming into contact with other sentient speices.This contact leads to a number of major upheavals in human culture, including the introduction of non-divine magic, and the introduction of new conceptions of what divinity can be. 
+It is during this time that the first humans leave Hkar, and begin to explore the mainland, coming into contact with other sentient species. This contact leads to a number of major upheavals in human culture, including the introduction of non-divine magic, and the introduction of new conceptions of what divinity can be.
 
 #### Northern Folk Religions
 
@@ -80,9 +84,9 @@ Conceptually, you get the first development of the idea of omnipresent deities (
 
 From the point of view of religious history, this is a time of rapid change. Many religions probably rise and fall in this time, and many gods are born and die. There is a lot of diversity in conceptions of deities. Major developed religions that grew out of this time include the [[Dunmari Religion|Dunmari faith]] and the Skaer worship of [[Kaikkea]]. Religions that grow from this era probably share less with each other than religions from earlier or later eras, as there is a lot of diversity here. However, a few things to keep in mind:
 
-- This is a time when the conception of deities is rapidly changing. However, most religions that grow from this era generally share a conception of deities as powerful extraplanar entities of some kind, but the specific relationships with humans are very diverse. These range from idea idea of a divine family (among the Dunmari), the idea of a single creator god (Kaikkea of the Skaer), and many others. 
+- This is a time when the conception of deities is rapidly changing. However, most religions that grow from this era generally share a conception of deities as powerful extraplanar entities of some kind, but the specific relationships with humans are very diverse. These range from the idea of a divine family (among the Dunmari), the idea of a single creator god (Kaikkea of the Skaer), and many others.
 - A common feature of religions from this era is a focus on belief as what creates divine power; whatever other diverse religious rituals may exist, there are almost always some kind of prayers or traditions around thanksgiving. This is also when the concept of intercessory prayer begins to fall out of favor, as it is perceived that powerful deities directly connected to the Plane of Creation (however this is phrased/understood in world) can grant miracles independently of [[Divine Presence|Arhat]] and [[Divine Presence|Malik]]. 
-- Religious traditions from this era have diverse explanations for why every miracle is not granted, that blend different elements of "limited power" and "didn't hear you." Metaphysically, most of the deities of this era are probably not truly omnipresent, although they certainly have a wider presence on the material plane that the small gods of earlier eras. 
+- Religious traditions from this era have diverse explanations for why every miracle is not granted, that blend different elements of "limited power" and "didn't hear you." Metaphysically, most of the deities of this era are probably not truly omnipresent, although they certainly have a wider presence on the material plane than the small gods of earlier eras.
 - Funerary traditions from this era are diverse, with varying emphasis on which parts of the process require the most human/prayer aid and which parts the deities handle. 
 
 [[Sarqon]], and the events discussed in the [[Philosopher's Information Concerning Binding Stones]], probably happen during this era, but may happen in the small gods era. The mariner exodus is the tail end of this era.
@@ -95,9 +99,9 @@ Over time, as the eastern urban culture spreads on Hkar, a process of consolidat
 
 This leads to a process where, as the urban magical culture spreads, there begins to be an assignment of similar deities from different pantheons to the same archetypes (the analogy is something like Roman appropriation of various diverse gods here, although without conquest in the case of Hkar). 
 
-The religions that grow out of this period might be called archetypal religions. Currently only one exists, Mos Numena, and there probably shouldn't be many, but there is potentially room from a second somewhere among the Southerners? If ever desired. These are the common features:
+The religions that grow out of this period might be called archetypal religions. Currently only one exists, Mos Numena, and there probably shouldn't be many, but there is potentially room for a second somewhere among the Southerners? If ever desired. These are the common features:
 
-- While in the early pantheonic days, pantheons were often conceived of as sharing a spiritual realm, and were not necessarily perceived as omnipresent, the archetypal gods are thought to be powerful enough to control their own spiritual domain, and to be omnipresent everwhere (although still limited by the flow of magic from the spiritual realms to the material plane). %%Note this point needs some revision per [[Divine Realms]]%%
+- While in the early pantheonic days, pantheons were often conceived of as sharing a spiritual realm, and were not necessarily perceived as omnipresent, the archetypal gods are thought to be powerful enough to control their own spiritual domain, and to be omnipresent everywhere (although still limited by the flow of magic from the spiritual realms to the material plane). %%Note this point needs some revision per [[Divine Realms]]%%
 - Deities, in this conception, are rarely thought of as actual physical beings that you could meet. Instead, they have avatars and aspects; among theologians of an archetypal religion it might be assumed that gods of other pantheonic religions are, in fact, avatars of specific archetypes. Whether this is metaphysically true is not clear. 
 - Funerary traditions now focus almost entirely on ensuring the safety of the soul as it crossed the land of the dead. Omnipresent deities have no need of prayers to draw their attention to a wandering soul, so the focus is entirely on bolstering the power of the divine to act on this side of the veil (metaphysically the land of the dead is on the material plane side of the divine veil or whatever it is that limits the power of miracles).
 
@@ -124,7 +128,28 @@ Mos Numena was the dominant religion of the urban Hkaran elite who fled the Down
 
 The particularly Sembaran strain of Mos Numena, for example, grows out of the intermingling of Kestavan ideas and Mos Numena. In the west, the Mawaran variant (relatively undeveloped) also grows out of contact with the northern folk religions of the west coast (tanshi ideas, mostly). 
 
-There is plenty of room for additional variants here: in the Nevos Sea area; in Cymea; in Vostok; and potentially in the east, as well as possibly different flavors of Chardonian religion that represent varying degrees of "folk influence". 
+There is plenty of room for additional variants here: in the Nevos Sea area; in Cymea; in Vostok; and potentially in the east, as well as possibly different flavors of Chardonian religion that represent varying degrees of "folk influence".
 
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern retrospective development outline of religious history; its early chronology and several metaphysical explanations are explicitly provisional.
+%%^End%%
 
+%%^Lint%%
+## Taelgar note lint
 
+### Applied changes
+- Made the filename-supplied name explicit, normalized frontmatter, and added broadly modern retrospective temporal metadata.
+- Corrected objective spelling, duplicated words, and grammar; the provisional metaphysical and historical claims remain unchanged.
+
+### Validated judgments
+- The note explicitly identifies itself as a provisional development outline; its brainstorming voice and unresolved religious variants are appropriate to that purpose.
+- `status/cleanup/text` remains supported by explicitly pending revisions and unresolved metaphysical explanations.
+- The local-only evidence contexts repeat this note’s Mawaran account or supply source pointers; they contain no additional recoverable account for this target.
+
+### Open findings
+
+- [ ] **Suggestion — correctness.name:** The first `Mariner Schisms` bullet spells the ocean goddess “Kaikeea,” while this note repeatedly links and spells the same subject [[Kaikkea]]. Confirm the intended identity and use the existing linked spelling consistently. Copy-ready phrase: “centered around the worship of [[Kaikkea]], the mother ocean.”
+
+- [ ] **Suggestion — editorial.prose_clarity:** The two first bullets under `Early Pantheonic Religions` switch from historical conceptions to narrator-level claims that belief creates divine realms and that inhabiting a spiritual realm makes gods omnipresent, while adjacent comments explicitly question both explanations. [[Divine Realms]] now describes a qualified modern theological consensus that incorporeal gods are manifestations within the Plane of Creation, rather than occupants of separate home realms. Clarify which passages are early beliefs and which metaphysical claims remain provisional; do not silently decide their truth. Copy-ready framing for the section: “Early pantheonic traditions increasingly conceived of gods as more widely present than the local small gods. How that change in belief relates to the gods’ actual nature and any divine realms remains unresolved in this outline; [[Divine Realms]] describes current theological views.” Retain the established historical distinctions and review the two old metaphysical bullets together.
+
+%%^End%%

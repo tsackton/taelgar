@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
+name: Climate of the Green Sea and Its Shores
 excludePublish: [all]
+POV: modern
 ---
 # Climate of the Green Sea and Its Shores
 
@@ -119,3 +123,7 @@ The maintained [[Climate and Weather Constraints#Green Sea, Skaerhem and Ursk|re
 Three physical questions remain consequential. The northern summer ridge must recur across a long enough corridor while allowing both Urskan warmth and spring/autumn westerlies. Autumn island routes need sufficiently frequent changes in pressure geometry. The adopted warm and cold inflows and Gulf exchange require a consistent water and heat budget; their existence alone does not calculate coastal temperature or prove an ice boundary. These limits are developed in the two physical circulation notes and should accompany any more precise regional prediction.
 
 The existing real-world parallels and tentative climate classes remain in the [[Taelgar Climate Model#Green Sea and Its Shores|continental overview]]; they illustrate selected contrasts rather than import an entire climate. Temperatures, precipitation totals, prevailing-wind frequencies, snow depths, frost dates, and glacier limits remain unassigned.
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; regional climate defaults for current-era play, with dated observations and navigation windows distinguished from fixed annual calendars.
+%%^End%%

@@ -1,6 +1,10 @@
 ---
-tags: [meta, status/check/ai]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/ai, status/check/lint]
+name: Boreal Forest
 excludePublish: [all]
+POV: modern
 ---
 
 ### Boreal Forest (Taiga)
@@ -70,3 +74,21 @@ _See more_: [Wikipedia – Taiga](https://en.wikipedia.org/wiki/Taiga); [NASA Ea
 - **Adjacent to Tundra**: towards colder zones, trees become shorter, sparser and confined to sheltered areas; where they cannot form continuous forest any more, transition to **Tundra**.
 - **Embedded wetlands**: large **Bog** and **Marsh** patches can be mapped either as separate hexes or as features within Boreal hexes, especially in low-lying areas.
 - In mountains, Boreal belts can sit **above Temperate Coniferous Forests** and **below Open Highlands or Tundra**, bridging mid-elevation forests and higher, more open zones.
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern habitat-selection guidance for Taelgar.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added an explicit display name and supported temporal POV metadata.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — correctness.internal_conflict:** Under “Latitude & climate band,” the Dfc/Dwc/Dsc comparison says “no truly dry season,” although Dwc has a dry winter and Dsc a dry summer; only the listed Dfc form lacks a dry season. This gives conflicting placement guidance. [NOAA’s Köppen–Geiger key](https://www.noaa.gov/jetstream/global/climate-zones/jetstream-max-addition-k-ppen-geiger-climate-subdivisions) defines f, w, and s accordingly. Preserve the intended three variants with: “On a Köppen-style climate map, this typically corresponds to Dfc/Dwc/Dsc-type climates: cold winters and short, cool summers, with year-round moisture (Dfc), a dry winter (Dwc), or a dry summer (Dsc).”
+%%^End%%

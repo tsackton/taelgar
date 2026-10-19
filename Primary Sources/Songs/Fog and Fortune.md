@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [source]
+name: Fog and Fortune
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Fog and Fortune
 
@@ -54,3 +58,11 @@ Oh, the merfolk sing beneath the moon,
 The merfolk sing, a haunting tune,  
 The merfolk sing, twixt wave and dune,
 The merfolk sing, a sailor's boon
+
+%%^Metadata:names:v1%%
+- {name: Fog and Fortune, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern Apporian folk-song presentation; the sailor’s rescue is an undated story within the song, not a separately dated historical account.
+%%^End%%

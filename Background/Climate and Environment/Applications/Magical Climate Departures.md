@@ -1,6 +1,10 @@
 ---
-tags: [meta, status/check/ai]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/ai, status/check/lint]
+name: Magical Climate Departures
 excludePublish: [all]
+POV: modern
 ---
 # Magical Climate Departures
 
@@ -23,3 +27,21 @@ Regional treatment: [[Western Ocean and Coast Circulation#Maritime access to Val
 Existing starting material: [[Green Sea Atmospheric Circulation#Eastern Isles Storm Zone]] for adopted regional magical forcing, and [[Green Sea Atmospheric Circulation#Sembaran Monsoon and the Western Trough]] for the explicitly hypothetical broader role of Orenlas. These have different levels of certainty; the entry above does not settle either mechanism.
 
 Use [[Regional Climate Atlas]] to locate the baseline and [[Climate and Weather Constraints]] to distinguish ordinary observations from excluded magical evidence. Return to [[Climate and Landscape Applications]].
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference model; historical examples and expressly provisional mechanisms retain their stated scope.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the explicit catalogue identity and broadly modern temporal metadata.
+
+### Validated judgments
+- The developed Crimson Forest and Elderwood entry agrees with the adopted summer-moisture account in [[Taelgar Climate Model]]. The catalogue clearly separates that adopted departure from its ordinary baseline.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** “Other material awaiting catalog entries” calls Eastern Isles regional magical forcing adopted and links the obsolete headings “Eastern Isles Storm Zone” and “Sembaran Monsoon and the Western Trough.” The current [[Green Sea Atmospheric Circulation#Eastern Isles and possible magical influences]] instead calls the storm zone a possible addition, explicitly labels the ideas noncanonical, and states that neither it nor the broader Orenlas mechanism is required by the model. Confirm whether a separate adoption supersedes that account, or replace the paragraph with: “Existing starting material: [[Green Sea Atmospheric Circulation#Eastern Isles and possible magical influences]] discusses a possible Eastern Isles storm zone and a hypothetical broader influence of Orenlas. Neither regional mechanism is adopted in that account; the Crimson Forest and Elderwood departure above does not settle either proposal.”
+%%^End%%

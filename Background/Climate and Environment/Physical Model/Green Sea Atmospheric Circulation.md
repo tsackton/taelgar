@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
+name: Green Sea Atmospheric Circulation
 excludePublish: [all]
+POV: modern
 ---
 # Green Sea Atmospheric Circulation
 
@@ -178,3 +182,7 @@ Earth examples support mechanisms, not Taelgar-specific frequencies, calendar da
 - [National Weather Service: lake-effect snow](https://www.weather.gov/safety/winter-lake-effect-snow): cold air crossing open water gains heat and moisture; a process comparison for downwind precipitation, not an assigned Taelgar snowfall total.
 
 Return to [[Taelgar Climate Model]] or [[Climate and Environment]].
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; describes the current campaign-era qualitative circulation model and its seasonal behavior, with retained observations and provisional mechanisms distinguished in the text.
+%%^End%%

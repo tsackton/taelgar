@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
+name: Southern Tropical and Desert Circulation
 excludePublish: [all]
+POV: modern
 ---
 # Southern Tropical and Desert Circulation
 
@@ -97,3 +101,7 @@ These are broad circulation tendencies. Tropical-cyclone occurrence, storm recur
 - [Met Office: foehn effect](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/wind/foehn-effect) explains mountain blocking and warmer, drier lee air. The precise coastal plateau application remains a Taelgar hypothesis.
 
 Return to [[Taelgar Climate Model]] or [[Climate and Environment]].
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; describes the current campaign-era tropical and desert model, while the dated Drankor observation illustrates one weather episode rather than an annual calendar.
+%%^End%%

@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
+name: High Alpine
 excludePublish: [all]
+POV: modern
 ---
 
 ### High Alpine
@@ -62,3 +66,7 @@ _See more_: [Alpine climate](https://en.wikipedia.org/wiki/Alpine_climate); [Niv
 - **Above Tundra**: place High Alpine where tundra vegetation finally fails—beyond the last dwarf shrubs and grasses and into almost pure rock and snow. If you still expect continuous low vegetation, keep the hex as Tundra instead.
 - **Above Open Highlands or montane forests**: forested slopes give way to open uplands, then tundra belts; once those give way to ice and rock, upgrade to High Alpine.
 - On tall ranges with broad summit areas, you may have **continuous High Alpine plateaus**, while on narrower ridges it may appear only as scattered peaks and cols surrounded by lower habitats.
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; a habitat-selection guide for current-era worldbuilding, without a narrower historical state.
+%%^End%%

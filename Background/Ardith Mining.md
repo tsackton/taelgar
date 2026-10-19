@@ -1,8 +1,12 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [background]
-excludePublish: ["all"]
+name: Mining in Ardith
+excludePublish: [all]
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Mining in Ardith
 
@@ -16,7 +20,7 @@ This note collects some background information about the mineral wealth of the f
 
 ### Notes from Ausson's Crossing Mini-Campaign
 
-If you take a look at the map above, the blue X is where Ausson's Crossing is. The red circled area is a relatively safe set of mountains, closer to Maseau. That never really major dwarven territory, but is also pretty marginal as a place to mine. Not much metal ores although there are a few salt mines that are controlled by the Duke of Maseau as well as some low-quality iron ores, but the dwarves were never a major presence in the red circle.
+If you take a look at the map above, the blue X is where Ausson's Crossing is. The red circled area is a relatively safe set of mountains, closer to Maseau. That was never really major dwarven territory, but is also pretty marginal as a place to mine. Not much metal ores although there are a few salt mines that are controlled by the Duke of Maseau as well as some low-quality iron ores, but the dwarves were never a major presence in the red circle.
 
 The green circle is closer to the heart of the ancient kingdom of Ardith, which was one of the most prosperous dwarven kingdoms before the Great Wars. The dwarves of Ardith made fantastic steel, carved gems and gold into jewelry fit for royalty, and made even rarer metals such as [[adamantine]] and [[mithril]] with secret dwarven arts. But then the Great War came, and all of Ardith was lost -- overrun with hobgoblins, orcs, giants, mind flayers, and much much worse. Many of the dwarves died, and those that didn't (save a few, such as Roe) fled south to found the kingdom of Nardith in the Yuvanti Mountains, hundreds of miles south of the campaign. Although some of the Nardikhun (as the dwarves of Nardith are now called) feel a calling to their lost home, most find the Yuvanti Mountains have been kind to them, and few wish to face the dangers of their lost home.
 
@@ -32,7 +36,7 @@ For some, it is purely a treasure raid. They may be seeking gold, jewels, weapon
 
 For others (and these are more common amongst the humans of Ausson's Crossing and the people of the Aurbez Plateau in general), the dwarven treasures are dwarven, and to be respected. But they feel if one were to do the work of digging up some ore, using the dwarven mines and dwarven tunnels and sure, the secret dwarven pumps and elevators that give access to the deep mines, and keep them from flooding, it isn't really stealing. After all, does the unmined ore really belong to the dwarves who fled? And the danger is not small, so the reward feels reasonable.
   
-As far as Soarine's story, what this means is that the Duke of Maseau wouldn't have sent a raiding party per se. Soarine clearly did hear of some treasure, and perhaps had a bit of the adventurer in him. But the Duke was actually looking to see if he could establish a larger mining operation, using the dwarven tunnels, but considering it abandoned land, and likely being fairly willing and respectful of the actual dwarven artifacts and forged goods. He learned that it isn't safe enough to do so -- when the mining party of thirty or fourty men that he sent out never returned, and Soarine went after them.
+As far as Soarine's story, what this means is that the Duke of Maseau wouldn't have sent a raiding party per se. Soarine clearly did hear of some treasure, and perhaps had a bit of the adventurer in him. But the Duke was actually looking to see if he could establish a larger mining operation, using the dwarven tunnels, but considering it abandoned land, and likely being fairly willing and respectful of the actual dwarven artifacts and forged goods. He learned that it isn't safe enough to do so -- when the mining party of thirty or forty men that he sent out never returned, and Soarine went after them.
 
 And this was just a couple years ago, the place really hasn't gotten safer.
 
@@ -40,4 +44,8 @@ And this was just a couple years ago, the place really hasn't gotten safer.
 
 Even 100 years later in 1750 [[Ardith]] still has this sense of a massive, dangerous trove of lost treasure (hence why Chardon was hunting artifacts there, and why Riswynn was sent to recover her clans treasures). There is a whole under dark mini campaign I could run some day down there…
 
-One other thing to keep in mind - dwarven cities are connected by long roads, as they are called, that run for hundreds or thousands of miles underground. While historically they connected dwarven kingdoms, now they provide easy passage for aberrations of the deep to travel, find people invading the mines, and hunt them. 
+One other thing to keep in mind - dwarven cities are connected by long roads, as they are called, that run for hundreds or thousands of miles underground. While historically they connected dwarven kingdoms, now they provide easy passage for aberrations of the deep to travel, find people invading the mines, and hunt them.
+
+%%^povNotes:v1%%
+Temporal coverage: post-Great-War mining background, combining older Ausson's Crossing campaign notes with an explicitly DR 1750 follow-up; relative dates in the older notes retain their original campaign context.
+%%^End%%

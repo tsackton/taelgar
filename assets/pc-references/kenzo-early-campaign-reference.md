@@ -1,5 +1,9 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta]
+name: Kenzo — early-campaign character reference
+POV: 1748
 ---
 # Kenzo — early-campaign character reference
 
@@ -54,3 +58,6 @@ The approved source portrait remains in the Taelgar Images project at `output/im
 
 All project copies match their generated sources by SHA-256. Each image is opaque and square. The outer 16-pixel bands on all four sides of every image were checked and contain zero near-white pixels.
 
+%%^povNotes:v1%%
+Temporal coverage: an early-campaign DR 1748 visual reference anchored to Session 6, with real-world image approval and production provenance recorded separately; later appearances are intentionally outside this set.
+%%^End%%

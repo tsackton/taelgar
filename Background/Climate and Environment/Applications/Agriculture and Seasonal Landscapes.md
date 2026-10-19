@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
 tags: [meta, status/check/ai]
+name: Agriculture and Seasonal Landscapes
 excludePublish: [all]
+POV: modern
 ---
 # Agriculture and Seasonal Landscapes
 
@@ -39,3 +43,7 @@ These comparisons support selected mechanisms or landscape targets; they do not 
 - [Virginia Cooperative Extension: growing bread wheat in the mid-Atlantic](https://www.pubs.ext.vt.edu/424/424-024/424-024.html) and [University of Minnesota Extension: wheat flooding and waterlogging](https://extension.umn.edu/agriculture/crop-production/small-grains/wheat-flooding-and-waterlogging): drainage and harvest-weather constraints on a productive grain region, not a prescribed Sembaran crop calendar.
 
 Return to [[Climate and Landscape Applications]] or [[Climate and Environment]].
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern Sembaran agriculture and seasonal landscapes, with campaign observations used as examples rather than a fixed annual calendar.
+%%^End%%

@@ -1,6 +1,10 @@
 ---
-tags: [meta, status/check/ai]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/ai, status/check/lint]
+name: Climate of the Sentinels and Northern Highlands
 excludePublish: [all]
+POV: modern
 ---
 # Climate of the Sentinels and Northern Highlands
 
@@ -123,3 +127,21 @@ The [[Svinjo Mountains]], [[Isenborg]], and [[Yengorza Mountains]] are separate 
 Magical Great Chasm weather, supernatural cold, deep ice habitats, and the desolation at Urlich supply no ordinary temperature or precipitation norm. Lavnoch's terrain can clarify a connection but adds no separate climate requirement. The proposed [[Sentinels and Continental Weather Connections#Winter storms from Chardon to the Green Sea|winter storm redevelopment]] explains a possible connection to eastern lowland rain; it is not a fixed mountain storm track or another regional season.
 
 Western forest approaches are covered in [[Climate of the Western Coast and Interior]], the southern plateau in [[Climate of Greater Sembara and Aurbez]], coastal Vostok in [[Climate of the Green Sea and Its Shores]], and the Dunmari descent in [[Climate of Dunmar and the Nevos]]. Return to [[Regional Climate Atlas]] or [[Climate and Environment]].
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern regional climate guidance; the seasonal descriptions preserve local mountain contrasts rather than an annual calendar for every route.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added an explicit display name and broadly modern temporal metadata.
+
+### Validated judgments
+- The seasonal and regional account is sufficient. The linked physical model and K08–K16 in [[Climate and Weather Constraints]] corroborate the principal climate contrasts; lower winter crossings remain a revisable preference.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.reference_voice:** In “The main climatic contrasts,” “Zimkova, Pekul, and interior Vostok,” “Recurring weather and practical use,” and “Evidence limits and adjoining regions,” repeated statements that quantities are unassigned, observations do not establish calendars, and descriptions do not establish route safety interrupt the regional climate account. The six-row weather-episode table also duplicates [[Sentinels and Continental Weather Connections#Recurring mountain weather episodes]], while the concluding fields/travel paragraphs repeat earlier qualifications. Under the local Climate and Environment editorial instructions, make a bounded human rewrite that removes routine audit language, replaces the duplicated episode table with its existing model link, and keeps the distinct seasonal conditions, altitude/exposure contrasts, cold-dry interior, southern snow closures, and concise source-standing comment. Preserve genuine uncertainty about winter crossings and local variation. Replacement prose is deliberately left to the human rewrite.
+%%^End%%

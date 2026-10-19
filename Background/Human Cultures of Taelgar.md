@@ -1,8 +1,12 @@
 ---
-tags: [background, status/cleanup/text]
+lintedAt: "2026-10-19T11:22:11-04:00"
+lintVersion: "3.5"
+tags: [background, status/cleanup/text, status/check/lint]
+name: Human Cultures of Taelgar
+excludePublish: [all]
 dm_owner: joint
 dm_notes: none
-excludePublish: ["all"]
+POV: modern
 ---
 This background document defines a typology of human cultures, where the blank spaces are, and some major trends.  See [[Historical Framework]] for more background,  [[Human Cultures - Discussions]] for meta, and [[Human Cultures - Open Questions]] for open questions.
 # Cultural Origins
@@ -22,7 +26,7 @@ Canonical minor migrations are listed below:
 
 1. The **Dunmari** migration, originally settled in 
 ### Schisms and Blendings
-The originally migrations from Hkar were all at least 1700 years ago, and some as long as 3000 years ago. This is substanial time for cultures to split, blend, and otherwise change. The canonical areas of mixing and blending are:
+The original migrations from Hkar were all at least 1700 years ago, and some as long as 3000 years ago. This is substantial time for cultures to split, blend, and otherwise change. The canonical areas of mixing and blending are:
 
 1. The **Eastern Schisms**. The mariner culture had at least two, and perhaps several more major schisms (cultural and religious) as it spread from the [[Eastern Isles]] to the [[Western Gulf]]. Each of these schisms produced the possibility of cultural change.
 2. The **Sembaran Mixing Pot**. In the Sembaran region the "mariner", "northerner", and "Downfall Refugee" cultures all interacted in a complex way.
@@ -33,7 +37,7 @@ There are of course likely numerous other places where cultural groups mixed, th
 
 This lists existing cultures and potential derivations, as well as some information as to how canonical those derivations are.
 
-_Note: Areas that are not listed at all below -- i.e. that are listed neither as having an explicit culture nor has being intentionally blank are in general assumed to simply not have humans, but of course it is possible that some human culture is lurking in the wilds, unbeknowst to anyone_
+_Note: Areas that are not listed at all below -- i.e. that are listed neither as having an explicit culture nor as being intentionally blank are in general assumed to simply not have humans, but of course it is possible that some human culture is lurking in the wilds, unbeknownst to anyone_
 ## Northern
 Across the northern reaches of Taelgar -- from the [[Slate Sea]] to the northern parts of [[Ainumarya]], across the northern [[Sentinel Range|Sentinels]], through [[Zimkova]], the upper [[Volta]], the northern parts of [[Vostok]], the [[Svinjo Mountains]], and the vast [[Great Northern Forest]]  live a potentially large variety of cultures. These cultures are all, in general, from the **Northern** migrations, and share a variety of [[Northern Folk Religions]]. This is marginal land, and has never been conquered by larger empires.
 
@@ -46,13 +50,13 @@ Defined cultures in this region include:
 * The [[Zimka]], who are really two cultures with a shared identity: an older, pure northerner strand, the Old Zimka , [[Kestavo|worshippers of the kestavo]], and a newer strand, heavily influenced by the "Sembaran mixing pot", who might be as likely to worship [[Mos Numena]] as the [[Kestavo]]
 * The [[Vargaldi]], a pure northerner culture, who [[Zariya|worship the zariya]]
 
-There is certainly humans in the northern part of [[Vostok]], but whether they are essentially another strand of [[Zimka]], closely connected to the southern Vos, or a unique culture is not clear.
+There are certainly humans in the northern part of [[Vostok]], but whether they are essentially another strand of [[Zimka]], closely connected to the southern Vos, or a unique culture is not clear.
 
 Outside of the northwest coast and the area around the [[Slate Sea]] (which is explicitly blank), and the area north of [[Vostok]], this region could support additional cultures as needed. 
 ## West Coast
 A number of cultures exist in the west, ranging from the [[Nevos Sea]] in the south to the [[Erbalta Plains]] in the north, including:
 ### Mawar
-The [[Mawakel Peninsula]] is home to a unique people worshipping their own version of [[Mos Numena]] and with their own unique language. The cultural derivation of these people is not clear, although many other documents assume Northern/Drankorian blend. Other possibilities could work, including a second set of Downfall Refugees or a intermixing of a unique pantheonic culture with Drankorian culture.
+The [[Mawakel Peninsula]] is home to a unique people worshipping their own version of [[Mos Numena]] and with their own unique language. The cultural derivation of these people is not clear, although many other documents assume Northern/Drankorian blend. Other possibilities could work, including a second set of Downfall Refugees or an intermixing of a unique pantheonic culture with Drankorian culture.
 ### Chardon
 The **[[Chardonian Empire|Chardonian]]** culture is a mostly purely Drankorian/Downfall Refugee derived culture, although with the possibility of some northern influence. [[Mos Numena]] is worshipped across the Chardonian region, although with some differences from [[Sembara|Sembaran]] Mos Numena.
 ### North-Coastal Apporia
@@ -94,7 +98,7 @@ The people of the [[Aurbez and the Andonne]] are broadly descended from a mix of
 ### Maseau
 The people of [[Duchy of Maseau|Maseau]] were mostly new settlers in the wake of the defeat of the [[Dominion of Avatus]], largely from [[Sembara]].  Close cultural connections have broadly kept language and culture from diverging. 
 ### Isingue
-The Isinguese culture is a purely Drankorian culture. Originally a Drankorian province, it gained a unique culturally identity after the [[Fall of Drankor]]. During the Great War, Isingue was destroyed but the culture and language survive in a diaspora. 
+The Isinguese culture is a purely Drankorian culture. Originally a Drankorian province, it gained a unique cultural identity after the [[Fall of Drankor]]. During the Great War, Isingue was destroyed but the culture and language survive in a diaspora.
 ## Western Green Sea
 
 %% TODO
@@ -126,7 +130,7 @@ See [[Ursk]]
 ### Medju
 See [[Medju]]
 ### [[~Maritime Trade Peninsula~]]
-This area could use some invention, even if it is to decide to should be intentionally blank
+This area could use some invention, even if it is to decide it should be intentionally blank
 ### Irrla
 See [[Irrla]]
 
@@ -135,4 +139,36 @@ See [[Irrla]]
 ## South and East
 The Far South and the Far East -- everything west of the Drankorian borders and south of the Green Sea -- is explicitly left blank. There are (almost) certainly humans here, but the details are intentionally not canonical.
 
-There are two canonical cultures in this region: the original proto-Dunmari, and the people of Targu, who at least traded with Drankor. 
+There are two canonical cultures in this region: the original proto-Dunmari, and the people of Targu, who at least traded with Drankor.
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern cultural overview with selected historical origins and explicit DR 1749–1750 qualifications; several regional sections remain incomplete.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Made the filename-supplied name explicit, normalized frontmatter, and added broadly modern temporal metadata.
+- Corrected objective spelling and grammar without completing fragments, choosing cultural origins, or changing geographic directions.
+
+### Validated judgments
+- This is an excluded-from-publication development typology, so its authorial planning voice and explicit uncertainty are appropriate.
+- `status/cleanup/text` remains supported by unfinished central sections and fragments.
+- The repeated “northern northern realms” distinguishes the northern part of an already northern region; it is intentional comparative geography, not a duplicated word.
+
+### Editorial assessment
+**Underdeveloped** — The intended worldwide cultural typology omits its central Western Green Sea account: Skaer, Tollish, Vos, Sembaran, Tyrwinghan, and Cymean headings are empty. Its minor-migration inventory and Eastern Green Sea overview also end in unfinished sentences. The smallest useful scope is a compact sourced Western Green Sea summary, a completed Dunmari migration entry, and completion or explicit deferral of the broken eastern overview; genuinely undefined cultures can remain undefined.
+
+- Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** The `Western Green Sea` section has empty named-culture headings and a TODO to copy from [[Humanity in Greater Sembara]]. That source’s `The Modern Era` section already gives the missing cultural outlines, with explicit uncertainties that must be retained. Copy-ready starting summary: “The Western Green Sea includes the maritime [[Skaer]], the Drankorian-influenced [[Tollen|Tollish]] and [[Sembara|Sembaran]] cultures, the distinct [[Tyrwingha|Tyrwinghan]] tradition, and the more purely Drankorian [[Cymea|Cymean]] culture. [[Humanity in Greater Sembara#The Modern Era|The regional synthesis]] gives their cultural and linguistic outlines and unresolved origins; the internal cultural divisions of [[Vostok|the Vos]] remain undeveloped.” Distribute this bounded account under the existing headings or replace the empty headings with the compact summary after human review.
+
+- [ ] **Warning — coverage.established_fact_missing:** The only item under `Minor Migrations` ends “The **Dunmari** migration, originally settled in” even though this note’s later Dunmari subsection already supplies the qualified account. Candidate: “The **Dunmari** migration settled in a homeland in the far east; its exact location is not canonical.” This completes an established central inventory entry without choosing the homeland.
+
+- [ ] **Suggestion — editorial.prose_clarity:** The Eastern Green Sea introduction ends “Although there are likely human cultures spread throughout the Eastern Green Sea, in the ...” without completing its claim. If the intended point is simply likely distribution, candidate: “Human cultures are likely spread throughout the [[Eastern Green Sea]], including the [[~Far North Peninsula~]] and [[~Eastern Coast~]].” Otherwise replace the fragment with an explicit statement of what remains intentionally undefined; do not invent the missing contrast.
+
+- [ ] **Warning — correctness.internal_conflict:** `South and East` defines “The Far South and the Far East” as “everything west of the Drankorian borders and south of the Green Sea,” placing the eastern limit on the opposite side. [[Historical Framework]] treats the undefined southern/eastern areas separately from the developed west. Confirm the intended boundary. If this is a direction error, candidate: “The Far South and the Far East — everything east of the Drankorian borders and south of the Green Sea — are explicitly left blank.” Otherwise retain west and explain the deliberately different geographic scope.
+
+%%^End%%
