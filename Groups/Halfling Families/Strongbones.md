@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+lintedAt: "2026-10-19T07:04:00-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: the}
-name: Strongbones
+tags: [group]
 typeOf: family
 ancestry: halfling
+name: Strongbones
 whereabouts: Tokra
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Strongbones
 >[!info]+ Information  
@@ -17,7 +20,7 @@ dm_notes: none
 
 A family of halfling innkeepers and merchants, traditionally based in [[Central Dunmar]], most recently [[Tokra]]. 
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ### Members
 
 ```dataviewjs
@@ -27,4 +30,12 @@ dv.table(["Person", "Info", "Current Location"],
 				.where(f => util.isAffiliated(dv.current().file.name, f.file))
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Strongbones", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern family identity and association with Central Dunmar and Tokra; the note does not establish a date for the family’s move.
 %%^End%%

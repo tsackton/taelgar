@@ -1,24 +1,30 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+lintedAt: "2026-10-19T07:04:00-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: the, partOf: ""}
-campaignInfo:
-name: Stonebridges
+tags: [group]
 typeOf: family
 ancestry: halfling
-# date is approximate
+campaignInfo: null
 created: 1200
-dm_notes: color
+name: Stonebridges
 dm_owner: mike
+dm_notes: color
+POV: modern
 ---
 # The Stonebridges
 >[!info]+ Information
 > A [[Halflings|halfling]] family
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
+%% Frontmatter note for created: 1200
+# date is approximate
+%%
+
 A family of halflings who have lived in [[Cleenseau]] since at least the 1200s, and have run the Crossroads Inn since its founding. More sedentary than most halflings and deeply committed to the [[Cleenseau Region]]. 
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ### Members
 
 ```dataviewjs
@@ -33,3 +39,11 @@ dv.table(["Person", "Info", "Current Location"],
 %% Notes
 No real background made up, but see [[Cleenseau History Notes]] - they have been involved in most of the major events. No reason for them to be so tied to the land here had been invented
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Stonebridges", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern account of the family’s enduring connection to Cleenseau and the Crossroads Inn, with origins described only approximately as at least the DR 1200s.
+%%^End%%

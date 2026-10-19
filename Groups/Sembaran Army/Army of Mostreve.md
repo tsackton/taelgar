@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T07:04:00-04:00"
+lintVersion: "3.5"
 tags: [group, status/check/ai]
-name: Army of Mostreve
 typeOf: army
-dm_notes: none
+name: Army of Mostreve
 dm_owner: mike
+dm_notes: none
+POV: modern
 ---
 # The Army of Mostreve
 >[!info]+ Information  
@@ -29,7 +32,7 @@ In less troubled times, the three guard companies are established in five garris
 
 Additionally, an ancient training ground and barracks on the shores of [[Tywynn Bay]] still serves as a headquarters and training barracks, especially for the Color Guard. 
 
-Each garrison houses around a hundred soldiers, organized into Camps of between 15 and 20. Each Camp is commanded by a Campwarden, and is in turn divided into three Hands of 5 - 7 soldiers, commanded by a Palm. The Iron Guard is the most numerous within the garrisons, and each Hand is usually a mix of Iron Guard and the warlocks of the Twilight Guard. However, each garrison hosts one or more camps of the Color Guard, typically named for a color (i.e. the Red Camp of the Aben or the Green Camp of the [[Maerwyn Mountains|Maerwyn]]). These are shock calvary, usually fey-touched, and can be a fearsome force on the battlefield.
+Each garrison houses around a hundred soldiers, organized into Camps of between 15 and 20. Each Camp is commanded by a Campwarden, and is in turn divided into three Hands of 5 - 7 soldiers, commanded by a Palm. The Iron Guard is the most numerous within the garrisons, and each Hand is usually a mix of Iron Guard and the warlocks of the Twilight Guard. However, each garrison hosts one or more camps of the Color Guard, typically named for a color (i.e. the Red Camp of the Aben or the Green Camp of the [[Maerwyn Mountains|Maerwyn]]). These are shock cavalry, usually fey-touched, and can be a fearsome force on the battlefield.
 
 The garrison is commanded by the Council of Camps, which consists of three members: the Iron Warden, the Color Warden, and the Twilight Warden. In times of crisis or battle, one of the three wardens is elected to serve as the Voice.
 
@@ -47,3 +50,11 @@ The Color Guard and the Twilight Guard have been fixtures in Tyrwinghan storytel
 When [[Derik I]] became king of Tyrwingha, he organized the Iron Guard to fight [[Avatus]], and although the size and structure of the Army of Mostreve has varied, it has existed in some form since [[Derik I]].
 
 The current garrison system was established during the [[Blood Years]] in the aftermath of the [[Great War]]. During the [[Third Hobgoblin War (Sembara)]] many of the Army of Mostreve joined with their Sembaran brethren to fight in the west, and in the aftermath during Cece's long reign, a number of veterans of the hobgoblin wars continued to serve in the Iron Guard, and during this period some degree of cultural mixing occurred, although the Twilight Guard and Color Guard remained uniquely Tyrwinghan.
+
+%%^Metadata:names:v1%%
+- {"name": "Army of Mostreve", "language": "unknown", "pronunciation": "AR-mee uhv mohs-TRE-vuh or AR-mee uhv mohs-tre-vay", "status": "documented", "notes": "[[Mostreve Hills]] explicitly records mohs-TRE-vuh or mohs-tre-vay for Mostreve; both alternatives are retained with the ordinary English words Army of. The source does not establish a unique underlying language."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern description of the army’s guard companies and garrison organization, with historical origins and earlier campaigns treated retrospectively.
+%%^End%%

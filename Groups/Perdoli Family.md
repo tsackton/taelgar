@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+lintedAt: "2026-10-19T07:04:00-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: the}
-name: Perdoli family
+tags: [group]
 typeOf: family
 ancestry: Cymean
-whereabouts: Western Cymea
-dm_notes: none
-dm_owner: tim
+name: Perdoli family
 pronunciation: pehr-DOH-lee
+whereabouts: Western Cymea
+dm_owner: tim
+dm_notes: none
+POV: modern
 ---
 # The Perdoli Family
 *(pehr-DOH-lee)*
@@ -24,3 +27,11 @@ They are no longer prominent in Cymea, though descendants likely survive, of cou
 %% 
 [[Key - LL]], [[Background - LL]]
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Perdoli family", "language": "unknown", "pronunciation": "pehr-DOH-lee FAM-uh-lee", "status": "documented", "notes": "Perdoli retains the accepted pehr-DOH-lee in this note’s frontmatter; family uses its ordinary English pronunciation. Cymean ancestry alone does not establish the source language of the surname."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective account of the family’s former wealth and decline after the Great War; the survival of descendants remains explicitly uncertain.
+%%^End%%
