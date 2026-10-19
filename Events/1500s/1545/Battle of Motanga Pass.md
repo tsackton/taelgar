@@ -2,17 +2,19 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
-tags: [event, status/check/lint]
+tags: [event]
 typeOf: battle
 DR: 1545
 partOf: Great War
 name: Battle of Motanga Pass
+pronunciation: BAT-uhl uhv moh-TAHNG-gah PASS
 whereabouts: Aurbez Plateau
 dm_owner: none
 dm_notes: none
 POV: modern
 ---
 # The Battle of Motanga Pass
+*(BAT-uhl uhv moh-TAHNG-gah PASS)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > Part of The [[Great War]]  
@@ -31,23 +33,9 @@ The Battle of Motanga Pass was one of the last battles of the [[Great War]], fou
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {"name": "Battle of Motanga Pass", "language": "unknown", "pronunciation": "BAT-uhl uhv moh-TAHN-gah PASS", "notes": "Spelling-based proposal: Motanga is read moh-TAHN-gah with second-syllable stress; Battle of and Pass use ordinary English. No explicit pronunciation or name-language evidence was established.", "status": "proposed"}
+- {"name": "Battle of Motanga Pass", "language": "Stoneborn", "pronunciation": "BAT-uhl uhv moh-TAHNG-gah PASS", "notes": "Motanga is treated as a Stoneborn name by human decision. Its accepted reading moh-TAHNG-gah is informed by the Xhosa analogue in [[Languages]]: pure rounded o, clear ah vowels, penultimate vowel lengthening, and ng as a nasal-plus-g sound. Battle of and Pass use ordinary Common readings.", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a broadly modern retrospective account of the battle at the end of the Great War in DR 1545 and its immediate regional aftermath.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added persistent name metadata, `POV: modern`, and a note-specific temporal-coverage block; normalized frontmatter formatting.
-
-### Validated judgments
-- The concise account identifies the combatants, outcome, and immediate regional consequence; [[Refounded Alliance of Aurbez]] and [[Great War]] support its historical framing.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Review the proposed `BAT-uhl uhv moh-TAHN-gah PASS`. No explicit pronunciation or source language was established; this is a cautious spelling-based reading with second-syllable stress on Motanga and ordinary English for the other words. If accepted, copy the full pronunciation to frontmatter and change the name entry to `status: documented`; otherwise supply the intended reading.
 %%^End%%
