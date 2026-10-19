@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [creature, status/wip, status/check/mike]
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [creature, status/wip, status/check/mike, status/check/lint]
 name: Lizardfolk
 aliases: [lizardfolk]
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Lizardfolk
 
@@ -39,7 +42,7 @@ See more: [[Playing a Lizardfolk#Lizardfolk Names|Lizardfolk Names]]
 - In the Kenzo solo, Eric played a lizardfolk adventurer caring for two young infants (pre-walking); these turned out not to really be lizardfolk but given these were not seen as unusual this puts constraints on lizardfolk childhood; in the Aursen marshes the Dunmar Fellowship also encountered a lizardfolk boy of 10 or 12, who looked relatively adult. 
 - Lizardfolk elders have been given ages that range from ~115 to ~250, though I believe that most or all of the older individuals could be trivially retconned to be slightly younger if desired. 
 - Some brainstorming has focused on two ideas:
-	- Lizardfolk communities control fertility intentionally - perhaps new lizardfolk can only be born when the ancestors agree to give a new piece of soulstuff, or agree to allow a piece of themselves to be reincarnated, or something like that - the idea is this is not through strict social control but through magic and some kind of soultstuff vibe
+	- Lizardfolk communities control fertility intentionally - perhaps new lizardfolk can only be born when the ancestors agree to give a new piece of soulstuff, or agree to allow a piece of themselves to be reincarnated, or something like that - the idea is this is not through strict social control but through magic and some kind of soulstuff vibe
 	- Lizardfolk communities have an age structure heavily skewed towards elders; many lizardfolk young would know their great-grandparents and even great-great-grandparents, for example. The basic idea is that lizardfolk mature and age only a little slower than humans, so that something like from 20-100 is roughly equivalent to 20-60 for humans (2 lizardfolk years per 1 human year), but then from 100 on you have something like 5 lizardfolk years per 1 human year, meaning that 100-150 is basically 60s and 150-200 is basically 70s. Perhaps it speeds up a bit past 200. 
 - There is a lot of variability in how we've treated young, including uncertainty as to whether lizardfolk bear live young or lay eggs; and uncertainty as to whether lizardfolk young have an aquatic or amphibious phase.
 - Old text was: Lizardfolk reach adulthood in their early 20s; the first 5-8 years of their life are spent as amphibious young. Most live into their second century, but few live much beyond 200 years. 
@@ -50,7 +53,7 @@ See more: [[Playing a Lizardfolk#Lizardfolk Names|Lizardfolk Names]]
 
 Lizardfolk communities are almost invariably found near water, typically in naturally occurring swamps and marshes, though some lizardfolk, such as the salt lizardfolk of the [[Mawakel Peninsula]], settle in and around salt marshes, and others settle in river basins or near lakes which they frequently shape to create productive wetlands. Most lizardfolk villages are small, often tree-screened or otherwise hidden by the natural environment, nestled among weirs, fish ponds, and other modifications that create highly productive ecosystems. While some lizardfolk communities remain isolated from other species, they frequently settle near the towns and cities of humans and others, and often trade fish, herbs, and other goods, though usually maintain their own laws and society. Thus, while lizardfolk are often found near humans, they rarely are found living in human settlements. 
 
-Some of the largest lizardfolk communities can be found in the [[Ozabal]] and [[Latazaro]] swamps near the [[Western Gulf]]; the [[Yeraad Marshes]] south of [[Chardon]]; the salt marshes of the [[Mawakel Peninsula]]; and the rivers and wetlands of [[Portalia]] and [[Apporia]]. However, many small lizardfolk communities are scattered widely throughout the world, with villages as diverse [[Ganboa]], the tiny community on the [[Enst]] downriver from [[Cleenseau]]; the substantial lizardfolk towns on the outskirts of [[Adderfell]] and [[Darba]]; and the scattered villages of the [[Aursen Marshes]], just upriver from [[Aursenbourg]]. 
+Some of the largest lizardfolk communities can be found in the [[Ozabal]] and [[Latazaro]] swamps near the [[Western Gulf]]; the [[Yeraad Marshes]] south of [[Chardon]]; the salt marshes of the [[Mawakel Peninsula]]; and the rivers and wetlands of [[Portalia]] and [[Apporia]]. However, many small lizardfolk communities are scattered widely throughout the world, with villages as diverse as [[Ganboa]], the tiny community on the [[Enst]] downriver from [[Cleenseau]]; the substantial lizardfolk towns on the outskirts of [[Adderfell]] and [[Darba]]; and the scattered villages of the [[Aursen Marshes]], just upriver from [[Aursenbourg]].
 
 ## Cultural Traits
 
@@ -79,7 +82,7 @@ Lizardfolk communities are typically led by elders, with a strong connection to 
 ### Open Questions and Further Work
 - Lizardfolk lifecycle and lizardfolk cultural traits / religion are largely based on loose vibes at the moment. These could use some solid decisions and minor invention to clarify any loose ends. 
 - Other open questions probably exist but are minor compared to the major gaps above; more will likely arise when someone plays a lizardfolk PC in a long campaign, but that has not happened yet (outside Sasha with Samso, but the Great Library campaign was very much not roleplay focused when it was running frequently).
-- Subspecies: “salt” lizardfolk appear in coastal villages (e.g., Eskorola). Are there consistent physiological or cultural differences, is “salt” a local label specifically for Mawar, are their other "salt lizardfolk" communities?
+- Subspecies: “salt” lizardfolk appear in coastal villages (e.g., Eskorola). Are there consistent physiological or cultural differences, is “salt” a local label specifically for Mawar, are there other "salt lizardfolk" communities?
 - Afterlife mechanics: lots of variation and uncertainty about role of direct rebirth from ancestral spirits and generally how this connects to the  model of gifted soulstuff returning to divine realms. 
 ### Where You’ll Find Them
 - Lizardfolk tend to be found in their own communities, often near human settlements, and invariably associated with water, usually with wetlands. 
@@ -101,13 +104,13 @@ Lizardfolk communities are typically led by elders, with a strong connection to 
 ### Lizardfolk Ki from Orekatu
 *these notes might reflect general lizardfolk metaphysics / vibes, or might reflect something specific to the jungle lizardfolk of Orekatu*
 
-The lizardfolk call ki arima, and at its most basic level, consider it the concentrated energy of the [[Plane of Souls]], which any living being on Taelgar can, in principle, learn to channel. However, the lizardfolk spirit guides and prophets speak of many other forms of ki, which are the echoes and resonances of the higher spiritual planes, and which are often difficult or impossible to channel without an appropriate focus. While the lizardfolk think of this ki as “spiritual harmonics”, these echoes of other planes in the fabric of Taelgar has other names in other places. Chalyte, for example, is a stone that gathers the resonances of the [[Plane of Magic]]. 
+The lizardfolk call ki arima, and at its most basic level, consider it the concentrated energy of the [[Plane of Souls]], which any living being on Taelgar can, in principle, learn to channel. However, the lizardfolk spirit guides and prophets speak of many other forms of ki, which are the echoes and resonances of the higher spiritual planes, and which are often difficult or impossible to channel without an appropriate focus. While the lizardfolk think of this ki as “spiritual harmonics”, these echoes of other planes in the fabric of Taelgar have other names in other places. Chalyte, for example, is a stone that gathers the resonances of the [[Plane of Magic]].
 
 Kenzo learned about the following plants and the kinds of ki they can channel: 
 
 Amezza: Amezza is the name for a common jungle tree, generally short and shrubby, that grows in openings and clearings. The name, roughly translated, means “dreamberry”; the aromatic berries are dried and traded as a spice. When the tree grows in a place rich in connections to the [[Dreamworld]], the berries collect amezza, also known as dream ki. But care must be taken, because Amezza can also absorb the energy of nightmares and not everything in the Dreamworld is friendly. 
 
-Hutsu: Hutsu in the name for a flowering vine that is common across the tropical regions of Taelgar, which grows up the trunks of large trees. When it grows near places of peaceful death, the leaves occasionally turn white, giving it its translated name in Common, “whiteleaf vine”. When hutsu vines grow in places with a strong connection to the [[Land of the Dead]], the white leaves collect hutsu, also known as spirit ki.
+Hutsu: Hutsu is the name for a flowering vine that is common across the tropical regions of Taelgar, which grows up the trunks of large trees. When it grows near places of peaceful death, the leaves occasionally turn white, giving it its translated name in Common, “whiteleaf vine”. When hutsu vines grow in places with a strong connection to the [[Land of the Dead]], the white leaves collect hutsu, also known as spirit ki.
 
 Ohana: Ohana is the name for the largest of the jungle trees, a species that is typically dominant among the emergent trees that grow above the rainforest canopy. These trees grow in places rich in connection to the outer planes of primal power, particularly [[Arborea]] but also any other spiritual plane that is connected to primal forces of nature, growth, abundance, wildness. When they grow in such places, they will often grow small branches that drop off naturally, the bark of which is infused with ohana, also known as life ki or lushness ki. The lizardfolk believe that Ohana trees have a special connection to Zerua, the home of the Tharzen Anzinakoa. %%name Zerua is not canonical and could be changed %%
 
@@ -130,3 +133,37 @@ Urtaro: Urtaro is the name for a lilypad that grows in still water and swamps, f
 
 %%^End%%
 
+%%^Metadata:names:v1%%
+- {name: Lizardfolk, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference description of lizardfolk appearance, language, settlement patterns, and historical outlook; the ancient wetland history is background to the present account.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added a minimal primary name entry and broadly modern `POV` with temporal coverage guidance.
+- Corrected five objective typos or grammar defects: the missing second “as” before Ganboa, “soultstuff,” “are their other,” “Hutsu in the name,” and the plural “echoes … has.”
+
+### Validated judgments
+- The article already follows the species structure used by [[Halflings]] and the species template: Appearance, Language and Naming, Lifecycle, Settlements and Homelands, Cultural Traits, Historical Perspective, and separate DM material. The remaining problem is unfinished content, not a missing format migration.
+- `status/wip` remains supported by the unfinished Lifecycle and Cultural Traits sections; the independent human-review tag is preserved.
+- “Lizardfolk” is an ordinary English descriptive name and needs no pronunciation guide. The language of this species-name form is not independently established by the Lizardling analogue used for individual names.
+
+### Editorial assessment
+**Underdeveloped**: Lifecycle has no public account, and its planning leaves maturation, juvenile development, elder longevity, and reproductive constraints unresolved. Cultural Traits also has no public account, although a bounded religious account is established in [[Tharzen Anzinakoa]]. The smallest useful completion is a settled lifecycle paragraph and a short cultural/religious account; no wholesale rewrite or invention of a comprehensive theology is required.
+
+- Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material.
+
+### Open findings
+- [ ] **Suggestion — editorial.note_underdeveloped:** The entire Lifecycle section is planning rather than a usable account for this common playable species. It explicitly leaves juvenile biology, adulthood, longevity, and the relation between elders, ancestors, and fertility unsettled. Resolve these bounded choices before writing a short public lifecycle paragraph. Reconcile the result with the definite Age text in [[Playing a Lizardfolk#Basic Traits]], which currently specifies late-teen adulthood, an amphibious first 5–8 years, and long elderhood. Do not treat those mechanics-page numbers as a resolution of this note’s explicitly provisional biology, and do not silently choose among the alternatives retained here.
+- [ ] **Warning — coverage.established_fact_missing:** Cultural Traits is empty to a public reader, and the visible article never identifies the Tharzen Anzinakoa or explains their central role. The current [[Tharzen Anzinakoa]] article establishes the creators, four faces, cycles, and regional variation; [[Playable Species of Taelgar]] and [[Playing a Lizardfolk]] also make this divine connection central to the species. Add a bounded summary under Cultural Traits, retaining the unresolved lifecycle and regional-practice questions separately. Copy-ready candidate: “Most lizardfolk venerate the [[Tharzen Anzinakoa]], their Firstborn creators, as guides and protectors of the cycles of life. They honor the Tharzen collectively and through their four faces: [[Negu]], [[Hazkunde]], [[Bero]], and [[Udazkena]]. Different communities emphasize different aspects of these faces, while birth, death, and rebirth remain central to lizardfolk theology.” This does not settle the proposed mechanisms of reincarnation or fertility.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The private naming guidance after Language and Naming and the Details for DMs block both begin with the legacy `%%^Campaign:None%%` marker. The adopted sentinel is `%%^Campaign:none%%`. Replace only those two opening markers after confirming that the export retains their intended private visibility; preserve all enclosed material and both closing markers. This lint leaves the visibility-sensitive structures in place.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Kenzo Solo Arc/Kingdom of Orekatu]]
+- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 98 - DM Notes]]
+%%^End%%

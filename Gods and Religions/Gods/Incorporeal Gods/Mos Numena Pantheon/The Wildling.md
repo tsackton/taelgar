@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:02:41-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: ""}
 tags: [power, religion/mosnumena, status/cleanup/image]
-displayDefaults: {defArt: ''}
-affiliations: 
-- {org: Mos Numena, type: primary}
-- {org: Eight Divines, title: One}
 typeOf: incorporeal god
 gender: enby
+name: The Wildling
+affiliations:
+  - {org: Mos Numena, type: primary}
+  - {org: Eight Divines, title: One}
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # The Wildling
 >[!info]+ Information  
@@ -32,10 +36,18 @@ A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of h
 
 The Wildling is usually depicted as a child of indeterminate gender, but often with adult eyes and facial features, wearing robes of leaves or stone or fire, usually associated with one of the elements. They are the Divine of nature and the elements, of storms and weather, associated with the changing of the seasons, the elements, and the natural features of the land. They watch over mining, forestry, fishing, hunting, as well as the weather and safety from storms.
 
-They are the divine of the constant change in the natural world, and are often seen as having less attention for humans that some of the others of the Eight. 
+They are the divine of the constant change in the natural world, and are often seen as having less attention for humans than some of the others of the Eight.
 
 %% 
 In mechanical terms, their clerics would usually be associated with the Tempest or Nature domain, or perhaps the Light domain.
 
 Some druids also get their magic from the Wildling, canonically [[Perrin Voclain]]
 %%
+
+%%^Metadata:names:v1%%
+- {name: The Wildling, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference description of the Wildling, their depictions, divine associations, and worship; no narrower temporal state is asserted.
+%%^End%%

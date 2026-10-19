@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:02:41-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the}
 tags: [background, religion/fivesiblings]
-displayDefaults: {defArt: "the"}
 name: Five Siblings
 aliases: [Five Siblings]
 dm_owner: tim
 dm_notes: color
+POV: modern
 ---
 # The Five Siblings
 
@@ -26,3 +29,11 @@ The Dunmari also acknowledge the power of the creator gods, [[Divine Presence|Sh
 ### Relationships among the Divine
 
 ![[five-siblings-family-tree.png]]
+
+%%^Metadata:names:v1%%
+- {name: Five Siblings, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose about the Dunmari pantheon and its traditional divine relationships; no narrower historical snapshot is implied.
+%%^End%%

@@ -538,7 +538,7 @@ module TaelgarNoteLint
     end
 
     def resolve(target, source_path = nil)
-      clean = target.to_s.split("|", 2).first.to_s.split("#", 2).first.to_s.strip
+      clean = link_target(target).split("#", 2).first.to_s.strip
       clean = clean.split("^", 2).first.to_s.strip
       return [] if clean.empty?
 
@@ -559,7 +559,7 @@ module TaelgarNoteLint
     end
 
     def resolve_identity(target, source_path = nil)
-      clean = target.to_s.split("|", 2).first.to_s.split("#", 2).first.to_s.strip
+      clean = link_target(target).split("#", 2).first.to_s.strip
       clean = clean.split("^", 2).first.to_s.strip
       return [] if clean.empty?
 
@@ -570,12 +570,12 @@ module TaelgarNoteLint
     end
 
     def resolve_wikilink(target, source_path = nil)
-      raw = target.to_s.split("|", 2).first.to_s.strip
+      raw = link_target(target).strip
       if source_path && raw.start_with?("#")
         source_key = source_path.to_s.sub(/\.md\z/i, "").tr("\\", "/")
         return [@by_path[TaelgarNoteLint.normalize(source_key)]].compact
       end
-      clean = target.to_s.split("|", 2).first.to_s.split("#", 2).first.to_s.strip.tr("\\", "/")
+      clean = raw.split("#", 2).first.to_s.strip.tr("\\", "/")
       return resolve(target, source_path) unless IMAGE_EXTENSIONS.include?(File.extname(clean).downcase)
 
       build_image_index unless @images_by_path
@@ -597,6 +597,12 @@ module TaelgarNoteLint
     end
 
     private
+
+    def link_target(target)
+      # Markdown tables escape alias pipes; consume that escape without
+      # removing backslashes used as path separators elsewhere in the target.
+      target.to_s.split(/\\?\|/, 2).first.to_s
+    end
 
     def build_image_index
       @images_by_path = Hash.new { |hash, key| hash[key] = [] }

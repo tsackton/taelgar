@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [creature]
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [creature, status/check/lint]
 name: Hobgoblins
 aliases: [hobgoblin, hobgoblins, Hobgoblin]
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Hobgoblins
 
-For most people in the modern day, hobgoblins are associated with the thud of iron-shod boots marching in lockstep; perfect, disciplined ranks of pikes; the ashy burning smell of fire sorcerers in the aftermath of battle. They formed the backbone of the armies of Cha'mutte during the Great War, and in the years since have remained a significant and often implacable enemy of many human (and other) realms. News of hobgoblin armies brings terror to cities and towns, for stories speak of their grim habit of turning captured towns into brutal work-camps, or worse. Among priests, theologians, and theological cosmologists, it is claimed that hobgoblins have no soul, no connection to any of [[Divine Realms]], and indeed many suspect that they actively repel the [[Divine Presence]] and its creations. 
+For most people in the modern day, hobgoblins are associated with the thud of iron-shod boots marching in lockstep; perfect, disciplined ranks of pikes; the ashy burning smell of fire sorcerers in the aftermath of battle. They formed the backbone of the armies of Cha'mutte during the Great War, and in the years since have remained a significant and often implacable enemy of many human (and other) realms. News of hobgoblin armies brings terror to cities and towns, for stories speak of their grim habit of turning captured towns into brutal work-camps, or worse. Among priests, theologians, and theological cosmologists, it is claimed that hobgoblins have no soul, no connection to any of the [[Divine Realms]], and indeed many suspect that they actively repel the [[Divine Presence]] and its creations.
 ## Appearance
 
 Hobgoblins are often large and imposing, tending to be slightly larger and more muscular than humans, though with a large variation. Most hobgoblins have prominent fangs, ears, and brow ridges, and many have short horns protruding from their upper foreheads. A variety of reddish skin tones, red or golden eyes, and black hair is common. 
@@ -17,12 +20,12 @@ Hobgoblins are often large and imposing, tending to be slightly larger and more 
 
 ## Language and Naming
 
-Most hobgoblins speak a common creole, derived from the language of Cha'mutte's armies, that is called _katonylev_ (or "army tongue") by speakers, is typically referred to as simply Goblin by outsiders. Whether hobgoblins speak other languages amongst themselves is not known. 
+Most hobgoblins speak a common creole, derived from the language of Cha'mutte's armies, that is called _katonylev_ (or "army tongue") by speakers, and is typically referred to as simply Goblin by outsiders. Whether hobgoblins speak other languages amongst themselves is not known.
 
 %% possibly there are clan-tongues too, or even a complex language history like humans, but this (a) not canonical, and (b) probably too complicated to develop. %%
 
-%%^Campaign:None%%
-Katonylev is based on Hungarian, which is an Uralic language most closely related to Finnish. In general any kind of consonant heavy names that feel vaguely "harsh" likely work, but names that feel very obviously Slavic should probably be avoided. Other hobgoblin languages may have diverse real world mappings, and it is possible for names to be in languages other than Goblin or retain aspects of clan-tongues, providing an easy way to explain / contextualize diverse hobgoblin names if needed. 
+%%^Campaign:none%%
+Katonylev is based on Hungarian, which is a Uralic language most closely related to Finnish. In general any kind of consonant heavy names that feel vaguely "harsh" likely work, but names that feel very obviously Slavic should probably be avoided. Other hobgoblin languages may have diverse real world mappings, and it is possible for names to be in languages other than Goblin or retain aspects of clan-tongues, providing an easy way to explain / contextualize diverse hobgoblin names if needed.
 %%^End%%
 ## Lifecycle
 
@@ -53,13 +56,13 @@ Much of the decades after the [[Great War]], however, were defined by hobgoblin 
 
 %% see: [[Hobgoblin Movements After Cha'Mutte]]; at some point, some player-facing summaries of the Blood Years hobgoblin wars might be useful %%
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ## Details for DMs 
 
 ### Open Questions
 - What is the nature of hobgoblin clans, exactly? Are these best thought of as nations, as armies, as something else? 
-- How are clans lead? Several canonical clans span far greater lengths than is plausible for a single leader; presumably leadership various somewhat from group to group, but really no details are developed. 
-- What are the impacts of hobgoblins unique metaphysics? Are hobgoblins strictly an "enemy species" or are neutral hobgoblins possible? How much of the current day attitude of hobgoblins is a consequence of the Great War and its aftermath? A possible aspect of this is slavery has been vaguely established as a uniquely hobgoblin institution. 
+- How are clans led? Several canonical clans span far greater lengths than is plausible for a single leader; presumably leadership varies somewhat from group to group, but really no details are developed.
+- What are the impacts of hobgoblins' unique metaphysics? Are hobgoblins strictly an "enemy species" or are neutral hobgoblins possible? How much of the current day attitude of hobgoblins is a consequence of the Great War and its aftermath? A possible aspect of this is slavery has been vaguely established as a uniquely hobgoblin institution.
 - Are there any substantial hobgoblin realms remaining? Where would major hobgoblin armies come from in the modern era, or did the ending of the last phase of the hobgoblin wars mostly defeat the last of the major hobgoblin armies?
 
 ### Hobgoblins in Play
@@ -68,7 +71,7 @@ Much of the decades after the [[Great War]], however, were defined by hobgoblin 
 - Known clans include:
 	- [[Shattered Ice Clan]], held stretches of southern Sembara at times but was largely wiped out during the [[Third Hobgoblin War (Sembara)]]. Some remnants may exist on the fringes of the [[Sentinel Range|Sentinels]], particularly around the source of the [[Enst]] and west of [[Duchy of Maseau|Maseau]], but possibly this group is completely destroyed. 
 	- [[Blackened Claw]], entrenched near [[Raven's Hold]] and generally the northwestern part of the [[Nashtkar]] until destroyed in the [[Northern War]]. Likely extinct in the current day. 
-	- [[Iron Fang]], involved early wars immediately after the end of the Great War in southern Sembara; pushed back deep in the [[Plaguelands]]; an [[Iron Fang]] army emerged to fight against the forces of Aurbez in 1749 but was defeated with the aid of the [[Dunmar Fellowship]]. Whether any Iron Fang remnants survive in the [[Plaguelands]] is unknown.
+	- [[Iron Fang]], involved in early wars immediately after the end of the Great War in southern Sembara; pushed back deep in the [[Plaguelands]]; an [[Iron Fang]] army emerged to fight against the forces of Aurbez in 1749 but was defeated with the aid of the [[Dunmar Fellowship]]. Whether any Iron Fang remnants survive in the [[Plaguelands]] is unknown.
 	- The Bitter Knife clan fought in the [[Bitter Knife War]] against Dunmar, but was defeated. Any survivors would likely be found in the [[Nashtkar]] or the western edge of the [[Plaguelands]]. These are potentially the source of postulated hobgoblin raiders around the [[Aurbez Plateau]]. 
 	- [[Skullcleaver Clan]] controls a hobgoblin realm on northeastern [[Irrla]] and shifted to piracy during the 1730s, constrained by [[Republic of Svolhas|Svolhas]]. These were potentially not remnants of Cha'mutte's armies, and are not discussed in [[Hobgoblin Movements After Cha'Mutte]]
 	- Several clans were involved in conflicts on the west coast in the years after the [[Great War]], but details have not been invented for the most part. It is plausible that remnants of these clans, or survivors of Pandar, exist on the west coast still. 
@@ -77,7 +80,7 @@ Much of the decades after the [[Great War]], however, were defined by hobgoblin 
 
 ### Tactics and Occupation
 - Hobgoblins should be perceived as skilled and feared warriors; their lines rarely break under pressure and they are capable of winning against larger foes
-- Hobgoblin batte wizards are common, often (but not always) rely on fire magic, and typically have mechanical abilities to allow their allies to be unaffected by their spells.
+- Hobgoblin battle wizards are common, often (but not always) rely on fire magic, and typically have mechanical abilities to allow their allies to be unaffected by their spells.
 - Hobgoblin clerics do not exist; hobgoblins may have magical healing via alchemy or potions or similar, but never have divine magic.
 - Hobgoblins are more authoritarian dictators and slavers than just mindlessly brutal, and also have enough strategic foresight to balance a reputation for brutality. They may slaughter anyone who resists, but towns that surrender are often taxed and allowed to escape with relatively little death. 
 - For hobgoblins taxes and enslavement might not be far off; plausibly hobgoblins believe that lesser species naturally owe them the products of their labor, so when they govern a place they order people what to do and take what they need of the product and there is no freedom of movement. But they recognize that people need food to live and productivity is lower if the population is starving/cold, so living under hobgoblin rule is usually grueling and unpleasant, but not particularly deadly as long as you follow the rules and do what you're told.
@@ -86,7 +89,7 @@ Much of the decades after the [[Great War]], however, were defined by hobgoblin 
 
 ### Metaphysics and Creation
 - Hobgoblins are the handiwork of the [[Void Mind]], a dark mirror to [[Humans]] in the schemes of the high gods. 
-- Tales speak of legions first raised in secret before the [[The Downfall]], and later gathered under [[Cha'mutte]] in the [[Great War]]. Whether clans share a single rite of origin, or many, remains unwritten in human records.
+- Tales speak of legions first raised in secret before [[The Downfall]], and later gathered under [[Cha'mutte]] in the [[Great War]]. Whether clans share a single rite of origin, or many, remains unwritten in human records.
 - They lack soulstuff entirely, and may actively repel soulstuff. 
 - No magic can call a hobgoblin back from death, except perhaps revivify or similar magic cast within moments of death. 
 
@@ -112,5 +115,32 @@ Much of the decades after the [[Great War]], however, were defined by hobgoblin 
 
 %%^End%%
 
+%%^Metadata:names:v1%%
+- {name: Hobgoblins, language: unknown}
+%%^End%%
 
+%%^povNotes:v1%%
+Temporal coverage: broadly modern species overview, with historical discussion of the Great War and its aftermath; the current clan dispositions include the Iron Fang defeat in DR 1749 and should not be projected onto earlier periods.
+%%^End%%
 
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Corrected small grammar, spelling, and duplicated-article errors while preserving meaning, uncertainty, and section structure.
+- Canonicalized the two `Campaign:none` marker spellings without changing their scope, and added persistent name and modern temporal metadata.
+
+### Validated judgments
+- The ordinary English species name needs no pronunciation guide. Its in-world name language is not established, so the name block records `unknown` without deriving it from Katonylev.
+- The article already has the Halflings-style appearance, language/naming, lifecycle, settlements, culture, history, and DM sections. Hobgoblins are not included in [[Playable Species of Taelgar]]; no playable-species format finding is needed.
+- The current clan account incorporates the DR 1749 Iron Fang defeat while preserving uncertainty about survivors. Earlier Raven's Hold journal language about gods was revised in the shared handout and does not establish hobgoblin religion.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** Clarify the apparent metaphysical discrepancy between “They lack soulstuff entirely” in Metaphysics and Creation (also supported by [[Metaphysics of Creatures]]) and [[Session 129 (DuFr)]], which says Kenzo “felt only hobgoblin souls.” The session records what Kenzo perceived, and a soul-sight ability need not by itself prove soulstuff; the explicit wording nevertheless leaves the relationship unresolved. Preserve both accounts pending a decision about whether this is perception terminology or an intended exception. Proposed nearby clarification comment: `%% [[Session 129 (DuFr)]] describes Kenzo perceiving “hobgoblin souls.” Clarify how that observation relates to the no-soulstuff account before applying it to perception or resurrection rules; no reconciliation is established here. %%`
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The hidden Skullcleaver clan bullet contains a useful eastern homeland example already supported by the public [[Skullcleaver Clan]] note. Proposed addition to Settlements and Homelands: “Hobgoblins also hold territory in northeastern [[Irrla]], where the [[Skullcleaver Clan]] maintains significant naval forces and raids shipping from [[Ursk]]. Its lands are hemmed in by the fortified borders of the [[Republic of Svolhas]].” This broadens the public geographic account beyond the western marginal territories. Keep the uncertain chronology, possible independence from Cha'mutte, other unresolved populations, and the remaining DM guidance hidden.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/The Story of Apollyon and Cha'mutte]]
+%%^End%%

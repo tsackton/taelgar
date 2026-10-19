@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [creature, status/wip, status/check/lint]
+name: Centaurs
 aliases: [centaur, Centaur]
-tags: [creature, status/wip]
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # Centaurs
 
@@ -14,13 +18,13 @@ This page contains lore information about centaurs. For details on character cre
 >[!quote] Centaur creation myth
 *Long ago, before the form of the world was fixed, we walked the ever-changing land, mindless and soulless, empty but for the whims of the Archfey. Yestare, the Beginning, and Mettare, the Ending, stepped into this chaos, and spoke words of separation, words of renewal, words of power to fix the form of the world and bring meaning to the chaos. In this timeless moment of sundering, when the lands of the Archfey were pulled away from the world, the World reached out, and chose us to be its guardians.*
 >
-*Taelgar itself gave us life, a purpose, freedom and souls, an act of need to ensure the land was not forgotten, an act not of the gods, even Yestare and Mettare, but of a higher purpose.In that moment, we awoke to our new selves. Our hoofbeats were the first to stride across the new world, fixed in form. Our souls were the first to be made, not by any god or power but by the need of the land itself.*
+*Taelgar itself gave us life, a purpose, freedom and souls, an act of need to ensure the land was not forgotten, an act not of the gods, even Yestare and Mettare, but of a higher purpose. In that moment, we awoke to our new selves. Our hoofbeats were the first to stride across the new world, fixed in form. Our souls were the first to be made, not by any god or power but by the need of the land itself.*
 
-Striding across the open plains of the south, their hoofbeats ringing, a herd of centaurs turns north, following the winds and weather. The gentle strum of a harp as voices raise in song, in praise of the earth, around a campfire. The cycle of migrations, following the seasons across Taeglar. These are the rhythms of the centaur life. 
+Striding across the open plains of the south, their hoofbeats ringing, a herd of centaurs turns north, following the winds and weather. The gentle strum of a harp as voices raise in song, in praise of the earth, around a campfire. The cycle of migrations, following the seasons across Taelgar. These are the rhythms of the centaur life.
 ## The Horse Lords
 With the torso, arms, and head of a human, and the four legs and body of a horse, centaurs are a blend of strength and grace. Typically standing 6 or 7 feet tall, with their equine bodies reaching 4 feet at the withers, centaurs are an imposing presence. They can run quickly, for miles, carrying a heavy load, and without tiring. While all centaurs share the same form, their appearance is otherwise as varied as the natural world they love.
 ## A Fey Heritage
-Centaurs trace their origin to the archfey, and retain a fey heritage. Despite their deep connection to the fey, most centaur consider themselves to have broken free of the constraints of their fey ancestors, and consider the world of Taelgar to be their true creator, not the Archfey who shaped their form. 
+Centaurs trace their origin to the archfey, and retain a fey heritage. Despite their deep connection to the fey, most centaurs consider themselves to have broken free of the constraints of their fey ancestors, and consider the world of Taelgar to be their true creator, not the Archfey who shaped their form.
 ## A Migratory People
 Centaur societies are usually migratory, traveling on long migration routes that can take years to complete, sometimes even generations. Some centaur societies shape their travels to seek new marvels of the natural world, while others follow the time-honored paths of generations. While they will sometimes spend a season or a year in one place, building temporary camps and tending the local land, few centaurs build cities or other permanent structures. 
 ## Guardians of Taelgar
@@ -28,7 +32,7 @@ Centaurs usually do not worship gods, giving thanks and prayers to the world its
 
 Their veneration of Taelgar also manifests itself in other ways. Many centaurs feel uneasy when they are not in contact with the ground, so second stories, ships, and even buildings with stone floors may make them uncomfortable. Centaurs tend to have a very light touch on the land, generally building no buildings and plowing no fields. Centaurs gather food from the land, trusting the bounty of the world to sustain them on their long migrations, supplemented with trade.
 
-Many centaurs exploit this connection with the world of Taelgar to read the signs and echos and portents in the world, and other species often seek out centaurs for their skill in prophecy and divination. 
+Many centaurs exploit this connection with the world of Taelgar to read the signs and echoes and portents in the world, and other species often seek out centaurs for their skill in prophecy and divination.
 
 %% 
 Vibes and color from Tim's DM Notes; shouldn't be taken as strict canon
@@ -66,3 +70,34 @@ In the Age of Myth, during the time when the children of the Divine walked the w
 
 During the Riving, though, something happened that was not planned by any god or Archfey. As the Feywild, the Shadowfell, and the other echo realms were being pulled apart from the material plane, the backlash of this great tearing created the magical resonances in the material plane that are the source of the magic of druids and rangers. Somehow, in a way that is yet unexplained by lore or divine knowledge, these resonances changed the centaurs, tying them to the material plane and making them what they are today.
 %%
+
+%%^Metadata:names:v1%%
+- {name: Centaurs, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the visible article describes current centaur appearance, migratory life, and beliefs, with an attributed creation myth rather than a dated historical account.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and made the existing subject name explicit.
+- Added a minimal name block and broadly modern temporal POV with its coverage note.
+- Corrected the missing space in “purpose. In,” the transposed spelling “Taeglar,” plural agreement in “most centaurs,” and visible “echos” to “echoes.”
+
+### Validated judgments
+- The visible article supplies a usable account of appearance, migration, land-centered beliefs, and divination; the form of its creation story remains explicitly mythic.
+- “Centaurs” is an ordinary species name needing no pronunciation guide; its in-world name language is not established.
+- `status/wip` remains supported by the incomplete migration to the species-page format. The explicitly provisional and obsolete portions of the shared comment remain unadopted.
+
+### Open findings
+
+- [ ] **Warning — editorial.playable_species_format:** [[Playable Species of Taelgar]] includes centaurs as playable, but this article still uses the legacy headings “The Horse Lords,” “A Fey Heritage,” “A Migratory People,” and “Guardians of Taelgar,” followed by one undifferentiated planning comment. Reformat it against [[Halflings]] and `_templates/markdown/species-in-world.md`: organize existing material under Appearance, Language and Naming, Lifecycle, Settlements and Homelands, Cultural Traits, and Historical Perspective; distinguish DM guidance and open questions from adopted public lore. Preserve the attributed creation myth and the link to [[Playing a Centaur]], keep mechanics on that companion page, and mark unsupported dimensions as unresolved rather than inventing lore or promoting the old notes.
+- [ ] **Warning — correctness.unsupported_certainty:** “Centaurs trace their origin to the archfey, and retain a fey heritage” and “the Archfey who shaped their form” state the origin as fact. [[Metaphysics of Creatures]] explicitly identifies the old Archfey-origin model as needing reconsideration, while [[Riving]] leaves the precise origin undecided. Preserve the attributed creation myth, but make the expository paragraph equally clear about belief rather than settling that open history. Candidate: “Centaur traditions describe their ancestors as fey who became bound to Taelgar when the world took fixed form. Most centaurs regard Taelgar itself as their true creator, rather than the Archfey of those stories.” Alternatively, explicitly adopt a settled origin before retaining the factual wording.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The final ordinary comment substantially repeats the visible migration, divination, land-protection, and ground-contact passages. During the format conversion, remove only the duplicated claims or replace them with pointers to the corresponding public sections. Retain distinct qualifications: the first migration bullet’s semi-religious motive, the prophecy bullet’s contrast with Dreamworld practice, the relationship bullet’s reclusiveness and caution about generalizing from [[Tharandros]], and the old religion paragraph’s specific trade examples. Keep the noncanonical labels, unresolved lifecycle/social proposals, and explicitly obsolete creation account clearly separated for human disposition; none are approved public additions.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra/Archive Mysteries]]
+%%^End%%

@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [creature, status/check/mike]
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [creature, status/check/mike, status/check/lint]
 name: Halflings
 aliases: [halfling, halflings, Halfling]
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Halflings
 
@@ -16,11 +19,11 @@ On roads and riverways, and in every harbor along the [[Green Sea]], halfling ca
 Halflings are small and sturdy, usually no more than 3 to 3½ feet tall, with a tendency toward a healthy stoutness and curly hair. Otherwise, they are quite variable in appearance, with diverse complexions, though with a strong tendency for bright eyes, usually green, brown, or hazel. Halflings favor practical garb, and often prefer travel‑ready coats and trousers built for long walks to more elaborate gear, though many cannot resist a few flashes of color and style. A halfling traveler, in muted traveler's clothes, with a brightly colored cloak or a well-tailored hat is a common sight. 
 ## Language and Naming
 
-Constant travel leaves most halflings are comfortable speaking in many tongues. Silent, mind‑to‑mind speech is ordinary among them; caravans and crews often confer in silence before answering difficult questions, and private matters are rarely spoken aloud. Songs and stories are usually spoken or sung in the Halfling language, which is rarely taught to outsiders. For dealings with others, halflings usually speak one or more of the various trade pidgins popular across the world. Some scholars even claim these languages were invented by, or at least popularized by, early halfling traders and sailors. 
+Constant travel leaves most halflings comfortable speaking in many tongues. Silent, mind‑to‑mind speech is ordinary among them; caravans and crews often confer in silence before answering difficult questions, and private matters are rarely spoken aloud. Songs and stories are usually spoken or sung in the Halfling language, which is rarely taught to outsiders. For dealings with others, halflings usually speak one or more of the various trade pidgins popular across the world. Some scholars even claim these languages were invented by, or at least popularized by, early halfling traders and sailors.
 
 Names usually pair a short given name with a distinctive family name, sometimes related to a trade, place, or storied deed, but often simply a pleasing-sounding invention.
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 Generally tend towards kind of English-like given names, perhaps a reflection of their typical practice of giving their names in Common, not Halfling. Have trended to following typical D&D/Tolkien vibes, though it is plausible that halflings to the far east or south could have different naming patterns, potentially reflecting the vibes of alternate trade tongues. 
 
 Family names are classic D&D/Tolkien in style, possibly glossed as usually translated into Common in-world. Currently have assumed that each family name is unique (e.g., all Goodbarrels are related somehow), but not obvious this must be the case. 
@@ -75,7 +78,7 @@ Halflings don’t record their history; they remember it. The tale of years is t
 In these ancient tales of years, halflings tell of wandering even when the world was new, when songs could sing sustenance into existence. They tell the stories of meeting humans, of the new songs of trade, of the world changing, yet always halfling journeys as a constant thread of connection. Many halflings claim they were the first to sail the Green Sea, and as the world changed again and again they were always there, to tell the new stories. 
 
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ## Details for DMs
 ### Open Questions and Further Work
 * The religious experience is only lightly developed and no canon exists on the halfling creation story or metaphysics. Do the [[First Ones]] have a Divine Realm? How does this relate to the idea of a halfling ancestral consciousness?
@@ -86,17 +89,17 @@ In these ancient tales of years, halflings tell of wandering even when the world
 
 ### Where You’ll Find Them
 - Generally, halflings can show up anywhere, traveling or settled
-- Common everyone in the [[Green Sea]], throughout the rivers and roads of [[Sembara]], in the [[Nevos Sea]] and [[Gulf of Chardon]], amongst other places. Outside of a few very unique places ([[Ursk]], [[Xurkhaz]]) there is nowhere it would be implausible for a halfling to be
+- Common everywhere in the [[Green Sea]], throughout the rivers and roads of [[Sembara]], in the [[Nevos Sea]] and [[Gulf of Chardon]], amongst other places. Outside of a few very unique places ([[Ursk]], [[Xurkhaz]]) there is nowhere it would be implausible for a halfling to be
 - In general, most common as a traveling caravan or vessel; plausible as a settled community or small family group anywhere there is trade, roads - but an individual or small group could really be anywhere, for unique reasons
 - Renowned as sailors, and many long distance ships are halfling owned and crewed
 - However, halfling villages and towns don't really exist; when they settle it is with other species
 - Of all the species with Embodied Gods, halflings are by far the most likely to be found living with humans and others, often in long-term co-existence (cf [[Vargaldi]]) 
 
 ###  Halflings in Play
-- Typical professions: as travelers driven by wanderlust, many halflings are traders, merchants, sailors, bards, and sometimes even pirates or bandits. Those who do settle often gravitate towards inns and taverns, and are frequently innkeepers. This doesn't mean there can't be like a halfling tailor in a big city, but that would be at least slightly unusual compared to a typical halfing. 
+- Typical professions: as travelers driven by wanderlust, many halflings are traders, merchants, sailors, bards, and sometimes even pirates or bandits. Those who do settle often gravitate towards inns and taverns, and are frequently innkeepers. This doesn't mean there can't be like a halfling tailor in a big city, but that would be at least slightly unusual compared to a typical halfling.
 - Vibes: many halflings are story oriented and love both the telling and the hearing of tales; many also tend not to care deeply for material wealth, preferring not to accumulate more than they can comfortably carry with them, but of course these don't have to be universally true. Halflings tend to be true to their word, and remember ancient oaths more than others, though like all people they are not necessarily perfect. Reputation, however, is likely fairly central in halfling communities and a reputation for evil spreads fast through the ancestral mind. Halfling villains are certainly possible but would usually be isolated and exiled from their halfling kin. 
 - Trade: halflings often seek unusual goods, and low-bulk, high-value goods; a halfling grain caravan is possible, but relatively unlikely compared to e.g. spices. 
-- Magic: halfling provide a good opportunity to expose strange quirks of the ancestral memory, e.g. halflings remembering someone's distant ancestors or similar. Halflings are a good opportunity for unusual magic around memory and telepathy: in the [[Great War Campaign]] halflings were used to send long distance telepathic messages, and in the [[Dunmari Frontier Campaign]] [[Wellby]] had the ability to telepathically communicate with animals, and occasionally was able to gain flashes of memories of halflings from the past (cf [[Wellby]] page).
+- Magic: halflings provide a good opportunity to expose strange quirks of the ancestral memory, e.g. halflings remembering someone's distant ancestors or similar. Halflings are a good opportunity for unusual magic around memory and telepathy: in the [[Great War Campaign]] halflings were used to send long distance telepathic messages, and in the [[Dunmari Frontier Campaign]] [[Wellby]] had the ability to telepathically communicate with animals, and occasionally was able to gain flashes of memories of halflings from the past (cf [[Wellby]] page).
 
 ### Religion and Metaphysics
 - A key component of halfling metaphysics is the "ancestral memory" (sometimes called the soulmind in older brainstorming). The exact details of this are not well developed. It is mechanically represented by the "Memory of the Ancestors" trait, and in play this often takes the form of having access to the memories of other halflings, in glimpses at least. However, the implications for the metaphysics of halfling gods, the fate of halflings after death, and the plane of the halfling firstborn are not invented. Some ideas:
@@ -119,7 +122,7 @@ In these ancient tales of years, halflings tell of wandering even when the world
 ### Trade Practices, Ships, Caravans
 - Many halfling ships and caravans function like a mix of a family business and a small village. Though presumably the details are variable, a common model is more-or-less a worker-owned collective, though potentially family elders may have more "shares" than outsiders or newcomers. So for example a typical halfling trading vessel on the Green Sea might first take care of ship needs from profits (repairs, restocking, etc), and then pay out remaining funds equally, or equally by share, though many of the crew would likely hold their funds in a common "bank" of some kind and only withdraw when needed. However, this doesn't have to be the only arrangement, just should probably be the most common one. Cf [[Emerald Song]], [[Wave Dancer]], [[Summer's Breeze]], [[Stormdancer]] for halfling ships introduced in play, and [[Charmhearts]] for a halfling family caravan introduced in play, also [[Merriweathers]] for smaller scale merchants. 
 - Halfling inns and taverns probably play a common role of helping keep information moving, find crew, etc. Cf [[Session 47 (DuFr)]], when Wellby goes to the halfling inn in Darba for information about ships, etc. Cf [[Stonebridges]] for halfling inn (though note [[Oona Stonebridge]]).
-- Halflings play a bit of a unique role in the Taelgar sailing ecosystem: they are should have a reputation as great sailors, and also adventurous sailors who are the ones that make the long journeys to distant lands and have the best blue-water ships. This doesn't mean there are no human sailors, obviously, and halfling ships tend to small and maneuverable, often carrying light, high-value cargo. But if a ship comes into port in Chardon from across the Sea of Storms bringing exotic goods from the far south, odds are it is halfling owned and crewed. Cf [[Ship Designs in Taelgar]] for some brainstorming notes. 
+- Halflings play a bit of a unique role in the Taelgar sailing ecosystem: they should have a reputation as great sailors, and also adventurous sailors who are the ones that make the long journeys to distant lands and have the best blue-water ships. This doesn't mean there are no human sailors, obviously, and halfling ships tend to be small and maneuverable, often carrying light, high-value cargo. But if a ship comes into port in Chardon from across the Sea of Storms bringing exotic goods from the far south, odds are it is halfling owned and crewed. Cf [[Ship Designs in Taelgar]] for some brainstorming notes.
 
 ### Sources
 - Primary accounts: [[Story About Halfling Merchants]]; [[Halfling Shanties of the Green Sea]]
@@ -145,4 +148,34 @@ In these ancient tales of years, halflings tell of wandering even when the world
 - Creation Story: The First Ones set halflings wandering so music, trade, and tales would bind the world; origins are preserved in songs and rites rather than foreign chronicles.
 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Halflings, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern halfling appearance, customs, and community life; the historical perspective describes their remembered past without establishing a narrower dated snapshot.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the primary name entry and `POV: modern` with a persistent temporal-coverage note.
+- Corrected the duplicated verb in “Constant travel leaves most halflings are comfortable,” “everyone” to “everywhere,” the “halfing” typo, and three unambiguous grammar errors in the DM guidance.
+- Normalized both `Campaign:None` sentinels to the canonical `Campaign:none` spelling, preserving their contents and boundaries.
+
+### Validated judgments
+- The note already follows the requested playable-species format: a public setting overview with developed topical sections, separate DM guidance, and mechanics in [[Playing a Halfling]]. No format migration is needed.
+- Its modern cultural overview is sufficient. The open metaphysical and origin questions are explicitly retained development choices, not missing universal requirements.
+- “Halflings” is an obvious ordinary name and needs no pronunciation aid; its in-world name language is unestablished.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** Parts of “Details for DMs” repeat the public account: the first, third, and fifth “Where You’ll Find Them” bullets repeat wandering, caravans, and settlement among other species; the baseline professions in “Halflings in Play” repeat traders, sailors, storytellers, and innkeepers; and “Trade Practices, Ships, Caravans” repeats family companies and shared profits. Make a bounded split: trim those repeated statements while preserving the regional qualifications, distinct play guidance, examples, source links, and unresolved questions. The developed collective-trade response in “Law & Governance” could become a short public paragraph if adopted: `Halfling companies protect one another through their reputation for long memories and collective action. A town that mistreats one company may lose the custom of others.` Keep the remaining speculative mechanisms and legal generalizations in the DM guidance; no automatic adoption or restructuring has been made.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 48]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Timeline for the End of Drankor]]
 %%^End%%

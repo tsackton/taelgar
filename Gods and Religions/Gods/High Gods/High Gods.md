@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:02:41-04:00"
+lintVersion: "3.5"
 tags: [background]
+name: High Gods
 aliases: [high god]
 dm_owner: none
 dm_notes: important
+POV: modern
 ---
 # High Gods
 
@@ -18,3 +22,6 @@ The story of High Gods is told in the myths of Mos Numena:
 
 *Although it could not create, the Void Mind could steal, misdirect, reshape. It waited, and watched, patiently. Until, as Arha and Malik shaped the embodied gods and bestowed them with Divine power, the Void Mind stole the breath of the Divine Presence, and out of itself spun the Three Despairs: Umidzka, the Empty; G’Zab, the All Consuming; and Jinnik, the Madness, and through these beings this mind worked in the shadows against the creations of the Divine. Some have even speculated that the Three Despairs unleashed embodied curses into the world, attributing the curse of undeath and necromancy to Umidzka, and the curse of lycanthropy to Jinnik.*
 
+%%^povNotes:v1%%
+Temporal coverage: broadly modern theological classification and retelling of creation myths; the mythic events do not date the article's speaking position.
+%%^End%%

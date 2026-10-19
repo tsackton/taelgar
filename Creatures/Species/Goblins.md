@@ -1,7 +1,11 @@
 ---
-tags: [creature, status/wip]
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [creature, status/wip, status/check/lint]
+name: Goblins
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 
 %% notes
@@ -30,7 +34,7 @@ Goblins were the main enemy, but the vibe was they had been peaceful (ish), or a
 
 From Addermarch:
 
-Basic adventure was to inflitrate a goblin lair and recover an alchemical recipe for [[Caradoc]]. Goblin vibe was kind of bumbling bandits.
+Basic adventure was to infiltrate a goblin lair and recover an alchemical recipe for [[Caradoc]]. Goblin vibe was kind of bumbling bandits.
 
 Overall:
 
@@ -39,3 +43,36 @@ Overall:
 - I think the vibe is supposed to be that most goblins in the world make up the underclass in hobgoblin camps and cities. Some small groups get away, and often live at the margins of human society. Some take up banditry, but others just want to be left alone. That said their reputation is not great in human communities, although potentially it is better in places where hobgoblins have been present in living memory. 
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Goblins, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the hidden development notes draw on separate campaign examples and provisional generalizations, without establishing continuous species history.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added an explicit name, `POV: modern`, and a concise persistent temporal interpretation.
+- Added a minimal name block; the ordinary English creature term needs no pronunciation guide.
+- Corrected “inflitrate” to “infiltrate” in the existing nonpublic notes.
+
+### Validated judgments
+- `status/wip` is supported by the absence of a visible species account and the explicit unfinished development notes.
+- [[Playable Species of Taelgar]] leaves goblins as a future possible playable option. Their unresolved base-setting playability does not itself establish a current Halflings-format obligation.
+- The nonpublic “Overall” section uses tentative phrases such as “basic vibe” and “I think”; its provisional generalizations have not been treated as canon.
+
+### Editorial assessment
+**Underdeveloped** — The species note has no visible account at all. Recorded goblin groups and their varied leadership provide enough established context for a short entry, but those facts remain buried among private scene guidance and provisional society-wide assumptions. A brief bounded account of those known groups is the smallest useful completion.
+
+- Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** There is no visible species account, although [[Addermarch - Session 04]] and [[Addermarch - Session 05]] establish a goblin band with its own queen in the Highmoor, [[Red Knife Tribe]] records a goblin tribe near Voltara, and [[Labyrinths of the Lost - Session 1]] records goblins working for a human master. A bounded starting paragraph is: “Goblin bands are found in the [[Highmoor]] and the foothills of the [[Fiatara Mountains]]. Their leaders and allegiances vary: a Highmoor band followed its own queen, while goblins at [[Perdoli Manor]] worked for the human [[Grimstone]].” Preserve the limits of these examples; they do not establish universal relationships with hobgoblins or settle goblin origins and society. Keep the scene instructions and unadopted generalizations nonpublic.
+
+### DM evidence
+- [[_DM_/_Taelgar-2/Taelgar-2 Rules]]
+%%^End%%

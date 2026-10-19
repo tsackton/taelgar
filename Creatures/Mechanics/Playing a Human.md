@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
 tags: [meta, status/wip]
+name: Playing a Human
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Playing a Human
 *See also: [[Humans]]*
@@ -41,3 +45,7 @@ You gain proficiency in one skill of your choice.
 #### Versatile
 
 You gain an Origin feat of your choice.
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern character-creation guidance; the species traits are not tied to a particular in-world year.
+%%^End%%

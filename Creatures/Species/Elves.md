@@ -1,9 +1,12 @@
 ---
-tags: [status/wip, creature]
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [status/wip, creature, status/check/lint]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven, elvish]
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Elves
 
@@ -26,12 +29,12 @@ Elves are the oldest of the Elder races, and they perceive their power, magic, a
 
 ## Wild Homelands
 
-Elves make their home in the wild reaches of the world, weaving elaborate towers and palaces from magical energy and the living world around them. Their skill with woodcraft and magic allow them to hunt, farm, and gather food without leaving a noticeable trace on the wild lands of the home, so travelers coming upon elf cities are usually taken aback by the suddenness with which they emerge out of the landscape. Most elf settlements are relatively small and masked by weaves of fey magic, so visitors or intruders often pass through ignorant of their surroundings. Elves will rarely start a fight, preferring to wait for the tides of history to turn to their side, but when they perceive a danger to the balance of the world they will act with alacrity and bring the full power of their race to bear. Elves very only rarely live among other races, finding the ever-changing world of the younger races (which to elves is all of them) tiring. For most people, elves are creatures of myth and legend, and if they have met one it would have been a notable event in their lives.
+Elves make their home in the wild reaches of the world, weaving elaborate towers and palaces from magical energy and the living world around them. Their skill with woodcraft and magic allow them to hunt, farm, and gather food without leaving a noticeable trace on the wild lands of the home, so travelers coming upon elf cities are usually taken aback by the suddenness with which they emerge out of the landscape. Most elf settlements are relatively small and masked by weaves of fey magic, so visitors or intruders often pass through ignorant of their surroundings. Elves will rarely start a fight, preferring to wait for the tides of history to turn to their side, but when they perceive a danger to the balance of the world they will act with alacrity and bring the full power of their race to bear. Elves only very rarely live among other races, finding the ever-changing world of the younger races (which to elves is all of them) tiring. For most people, elves are creatures of myth and legend, and if they have met one it would have been a notable event in their lives.
 ## The Elven Cycle of Generations
 
 Elven family life and family traditions are structured around the elven cycle of generations. Each elf reaches childbearing years around the age of 150, and, for the next fifty or so years, is able to have children. But fertility wanes around the age of 200 (or a little before, or a little after), and for the remaining hundreds or thousands of years of an elvish life, they can bear no more children. Therefore, elves have distinct, non-overlapping generations, called the *[[Elven Cycle of Generations|ka]]*, which they number. All of the children of a generation are seen as siblings, and the broad bond across the age set is more important than the bonds between two children of the same parents.
 
-When an elf is born they are weak and small, as a human infant, with only the most tenuous connection to Aldanor, the live-giving Living Tree. For the first several years of an elf’s life, as their body grows stronger, they are nurtured and protected by their body parents, typically in seclusion, until, around the age of ten, they are firmly connected to Aldanor, and entwined in the great Tree of Life. This is the Age of Beginning, and it ends with the Rite of Emergence.
+When an elf is born they are weak and small, as a human infant, with only the most tenuous connection to Aldanor, the life-giving Living Tree. For the first several years of an elf’s life, as their body grows stronger, they are nurtured and protected by their body parents, typically in seclusion, until, around the age of ten, they are firmly connected to Aldanor, and entwined in the great Tree of Life. This is the Age of Beginning, and it ends with the Rite of Emergence.
 
 A young elf spends most of their childhood, which lasts until around the age of fifty, raised and cared for by their soul parents, amongst their generation-mates. This is a time of learning and play in equal measure and it is when an elf starts to first develop magic. An elf spends much of this time in sleep and dreams, through which much of the deep sense of elven mystery and foresight is imbued by Elmerca. Around the age of fifty, an elf slowly starts to stop sleeping, spending time instead resting their minds in a reflection of their dreams. This is the Age of Becoming, and it ends with the Rite of Awakening.
 
@@ -323,3 +326,37 @@ See [[Historical Framework]] for some details on the ages, needs reworking into 
 
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Elves, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose about elven appearance, culture, and society, with general historical background; the lifecycle account requires reconciliation with Elven Cycle of Generations.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `POV: modern`, a concise temporal interpretation, and a minimal primary name entry with the name language left unknown.
+- Corrected the visible phrases “Elves very only rarely” to “Elves only very rarely” and “live-giving Living Tree” to “life-giving Living Tree”; preserved the archival comment text.
+
+### Validated judgments
+- “Elves” is an obvious ordinary species term and does not need a pronunciation guide.
+- `status/wip` is supported by the unfinished species-format migration and retained development material; it was preserved.
+- Reviewed the shared comments and local evidence separately. Provisional development, alternate-setting material, and individual campaign encounters were not promoted into species-wide canon.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.playable_species_format:** [[Playable Species of Taelgar]] identifies elves as playable. This article still uses the older thematic headings “Graceful And Sleek,” “Timeless And Haughty,” “Wild Homelands,” “The Elven Cycle of Generations,” “Tragedy and Loss,” and “Superior Protectors.” It does not follow the public sections in [[Halflings]] and `_templates/markdown/species-in-world.md`: Appearance, Language and Naming, Lifecycle, Settlements and Homelands, Cultural Traits, and Historical Perspective. Reformat the existing supported material into that structure, supply supported naming context from [[Playing an Elf]] where useful, link that separate mechanics page, and organize retained development guidance separately from public reference prose. The format change is a human task; do not invent missing lore to fill headings.
+- [ ] **Warning — correctness.cross_note_conflict:** “The Elven Cycle of Generations” gives fertility from about age 150 to about 200, and a childhood/awakening determined by the individual reaching about age fifty. [[Elven Cycle of Generations#Mela and Leya]] instead describes about thirty fertile years tied to the communal *mela*, followed by a fifty-year Dreaming ending at the Rite of Awakening; [[Playing an Elf]] also specifies thirty years. These are competing lifecycle accounts, not merely alternate wording. Decide which model controls and reconcile this section with the linked reference. If the cycle-based account is adopted, the core replacement is: “Elves can bear children during the roughly thirty fertile years associated with their first *mela*, when Aldanor's roots tie them to the Material Plane. At the end of the *mela*, the children enter the fifty-year Dreaming, which ends with the Rite of Awakening and the beginning of their first *leya*.” Review the age-ten, body-parent, and soul-parent detail separately rather than assuming that the new timing settles it.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The long “Email conversation notes” comment contains a second “Elves / Overview” article and repeated “Family Life” paragraphs that substantially duplicate the visible appearance, divine connection, settlements, outlook, and childhood prose. Split this archive deliberately: remove the duplicated wording after reviewing its distinct older variants, while retaining the original trade discussion, unresolved creation/history material, and unfinished later-life ideas as clearly labeled development/source notes. In particular, preserve the older Halfborn material and differing historical/age claims for disposition rather than silently folding them into current canon. This would leave one maintained public account without discarding the comment's distinct ideas or provenance.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Stormcaller Tower/Stormcaller Tower (OneNote)]]
+- [[_DM_/_Dunmari Frontier/Session 63-65 (Stormcaller Tower)/Stormcaller Tower - DM Version]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Orenlas - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 76 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 77 - DM Notes]]
+%%^End%%

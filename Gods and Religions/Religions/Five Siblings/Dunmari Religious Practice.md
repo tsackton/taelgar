@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:39:23-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [religion/fivesiblings, background]
+tags: [religion/fivesiblings, background, status/check/lint]
+name: Dunmari Religious Practice
 dm_owner: tim
 dm_notes: color
+POV: modern
 ---
 # Dunmari Religious Practice
 
@@ -20,7 +24,7 @@ A Dunmari Praise song:
 
 Although temples and communal religious rites play an important role in Dunmari society, most worship does not occur at them. Daily prayers, contemplation, and thanksgiving, as well as many personal and family rites, occur instead in personal or individual shrines.
 
-Although these are called shrines, physically they are portable icons and statuary of the gods. Most people have one of each of the Five gods, although some will have multiple versions, and occasionally individual travelers will just carry one. Mostly these are small icons, often statutes, that are easily portable and can be carried anywhere and set up easily to form a sacred space. 
+Although these are called shrines, physically they are portable icons and statuary of the gods. Most people have one of each of the Five gods, although some will have multiple versions, and occasionally individual travelers will just carry one. Mostly these are small icons, often statues, that are easily portable and can be carried anywhere and set up easily to form a sacred space. 
 
 Daily prayers, family rituals, and even acknowledgement of festivals among travelers who cannot return to a village or temple happen before these icons. They are sometimes seen as part of the family, and some have been passed down for many generations, although occasionally they will be cremated with the deceased as a way to ensure the spirits of the dead reach the halls of the gods. 
 ## Temples in Dunmari Religion
@@ -48,7 +52,7 @@ The most common monuments are associated with the ruling Samraats, as elaborate 
 
 The priesthood of the Five Divines is, in many ways, inseparable from the Dunmari state. The Samraat, as the acknowledged representative of the gods on Taelgar, is formally the head of the priesthood. Officially, the Samraat controls all priestly appointments, and has the power to both assign priests to temples and dismiss priests from their posts. They are in principle supposed to use this power in accordance with divine guidance, and judiciously. Historically, these judgements, especially for important temples, were usually made in conjunction with an informal council of priests of notable temples. And in practice, the current priest of a temple tends to choose a successor, and only rarely is that choice rejected, at least for most of the small community temples scattered across the land.
 
-More recently, this tradition has changed somewhat, especially in the west, as the civil bureaucracy has grown larger, and the Samraat court has sought more direct control. Now, the head priests of major temples are often asked to retire when a new Samraat comes to rule. A growing class of emeritus priests now exist in the west, who lack a traditional role in Dunmari society. In the east, many now do not even present the choice of a new priest to the Samraat court for official approval, instead turning to the local leaders to ratify the choice. 
+More recently, this tradition has changed somewhat, especially in the west, as the civil bureaucracy has grown larger, and the Samraat court has sought more direct control. Now, the head priests of major temples are often asked to retire when a new Samraat comes to rule. A growing class of emeritus priests now exists in the west, who lack a traditional role in Dunmari society. In the east, many now do not even present the choice of a new priest to the Samraat court for official approval, instead turning to the local leaders to ratify the choice. 
 
 Like much of Dunmari society, there is no real hierarchy below the Samraat. Again, in principle, all priests are equal in the eyes of the gods, although of course those who run historically important temples or temples in large cities have a lot more political power than those in small, out of the way places. But there is no formal system of hierarchy in between the Samraat and the local priest.
 
@@ -68,9 +72,9 @@ The most important communal rite is the coming of age ceremony, which is a major
 Birth and marriage, in contrast, are seen as private rites. Naming and marriage ceremonies require no witnesses beyond the gods, and are usually celebrated as family affairs with just the family icons to give witness of the gods. 
 ### Funerals
 
-Funerals have some aspects of both private and communal rites. The private goodbye, the farewell to the body, is a family ceremony that involves the cremation of the dead, happens soon after death and is a private rite; in part this is practice, due to the difficulty of being able to return to a temple immediately. But the real funeral, the farewell to the soul, takes place later, at a temple, and is usually a communal affair, where many souls are welcomed into the halls of the gods at once. 
+Funerals have some aspects of both private and communal rites. The private goodbye, the farewell to the body, is a family ceremony that involves the cremation of the dead, happens soon after death and is a private rite; in part this is practical, due to the difficulty of being able to return to a temple immediately. But the real funeral, the farewell to the soul, takes place later, at a temple, and is usually a communal affair, where many souls are welcomed into the halls of the gods at once. 
 
-In the Dunmari tradition, the first rite of death, the farewell to the body, must take place as soon after death as is practical. This rite is the private goodbye, the time of mourning and sorrow to say farewell to the dead as they embark on their journey to the Afterlife. Bodies are burned in funeral pyres, often with small tokens to help them on their journey, especially things that remind the soul of the good they did in life, or remind them of the gods. Sometimes the small icons of the Dunmari gods that most Dunmari carry are burned as well. If a person had a particular vice that might keep their spirit from leaving for the [[Land of the Dead]], this may also be burned, usually placed at the bodies’ feet, to remove the temptation to stay. Usually the ashes from cremation are scattered before 10 days have passed, but sometimes they are kept and interred in temple crypts during the second rite.
+In the Dunmari tradition, the first rite of death, the farewell to the body, must take place as soon after death as is practical. This rite is the private goodbye, the time of mourning and sorrow to say farewell to the dead as they embark on their journey to the Afterlife. Bodies are burned in funeral pyres, often with small tokens to help them on their journey, especially things that remind the soul of the good they did in life, or remind them of the gods. Sometimes the small icons of the Dunmari gods that most Dunmari carry are burned as well. If a person had a particular vice that might keep their spirit from leaving for the [[Land of the Dead]], this may also be burned, usually placed at the body’s feet, to remove the temptation to stay. Usually the ashes from cremation are scattered before 10 days have passed, but sometimes they are kept and interred in temple crypts during the second rite.
 
 The second rite of death happens later, often much later, as part of a communal ceremony. There is no strict time limit, but it must happen at least 10 days after death, and usually happens within a year of death. This is a ritual carried out in a temple, where candles are lit for each soul being celebrated, and the colors of the flames are interpreted as indicating the final disposition of the soul. This communal funeral is usually followed by a celebratory feast honoring the dead. As part of the ceremony, small mementos of each dead soul are often created as a way for those close to the dead person to keep the memory of their soul near.
 
@@ -98,3 +102,25 @@ The later history of the Dunmari, post fall of Drankor, features two schisms. 
 - However, the SouthDunmari and the EastDunmari remained much closer to each other, and more connected, while the Dunmari diverged, so from a religious point of view there is basically the “Bhisma” branch and the “original” branch of the religion
     
 %%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern account of Dunmari worship, priesthood, and ritual practice, including regional differences between east and west; the recent administrative changes are not dated precisely.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the explicit page name, `POV: modern`, and temporal notes preserving the broad current-era account and undated regional developments.
+- Corrected “statutes” to “statues,” “class … exist” to “class … exists,” “this is practice” to “this is practical,” and the singular possessive “the body’s feet.”
+
+### Validated judgments
+- The overview is sufficient in worship, institutions, priesthood, and rites; no generic expansion is required. This analytical background page does not require a name block.
+- The proposed alternate branches of the Dunmari remain explicitly noncanonical.
+
+### Open findings
+
+- [ ] **Suggestion — dm.notes_no_local_evidence:** No `_DM_` notes found; verify `dm_notes: color`. The field may represent remembered or other off-vault information and is preserved.
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The comment immediately after the funeral rites contains a developed account of why those rites matter, not an expressly tentative option. Review this public-safe addition under Funerals: ‘Dunmari tradition holds that the first rite of death helps a soul reach the [[Land of the Dead]]. Once there, the gods guide the soul onward, and further human intervention is not normally thought necessary. Unburied bodies are therefore a concern because a soul may remain bound to the [[Material Plane]], particularly after a traumatic death.’ This clarifies the distinction between departing the mortal world and reaching the gods without asserting the belief as universal metaphysical truth. The remaining reference to the [[Order of the Awakened Soul]] may be kept as editorial context or reduced to a separately reviewed example; do not duplicate the whole comment in public and private forms.
+%%^End%%

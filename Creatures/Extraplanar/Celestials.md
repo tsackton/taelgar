@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
 tags: [creature]
+name: Celestials
 aliases: [celestial, Celestial]
-dm_notes: important
 dm_owner: tim
+dm_notes: important
+POV: modern
 ---
 # Celestials
 
@@ -17,10 +21,18 @@ Without taking a position on the reality of various metaphysical and cosmologica
 
 (As an aside, there is still a bit of metaphysical thinking to do about what distinguishes natives of the spiritual realms from souls of the dead, who also presumably inhabit spiritual realms; and from incorporeal undead, who are the souls of the dead that remain bound to the material plane.)
 
-(As a second aside, there is also more thinking to do about the extent to which natives of inner realms that are not the material plane have souls a metaphysical "soulstuff" sense.)
+(As a second aside, there is also more thinking to do about the extent to which natives of inner realms that are not the material plane have souls in a metaphysical "soulstuff" sense.)
 
 However, this distinction does not neatly map to D&D creature types, which does not have a consistent creature type for natives of the Outer Planes (e.g., fiends and celestials exist as creature types, but natives of Limbo are Aberrations, natives of Mechanus are Constructs, etc).
 
 Celestials as a word and a category feels like it definitely exists in-world, to describe effectively angels, but how this relates mechanically to D&D rules is not yet clear to me. 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Celestials, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose about the uncertain nature and varied manifestations of celestials.
 %%^End%%

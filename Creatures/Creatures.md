@@ -1,23 +1,27 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
 tags: [meta]
-excludePublish: ["all"]
+name: Creatures
+excludePublish: [all]
 dm_owner: none
 dm_notes: none
+POV: undated
 ---
 # Creatures
 
-This directory contains **in-world**, **character-facing**, **player-facing**, and **meta** pages about the species of Taelgar. Player-facing pages should be kept in the Species\Mechanics folder, as should any "rules-heavy" meta pages.
+This directory contains **in-world**, **character-facing**, **player-facing**, and **meta** pages about the species of Taelgar. Player-facing pages should be kept in the Mechanics folder, as should any "rules-heavy" meta pages.
 
 Important Meta and Background Pages:
 - [[Metaphysics of Creatures]] (dm background; overarching metaphysics)
 - [[Creature Rules in Taelgar]] (dm meta; typology for interactions with D&D rules)
 - [[Playable Species of Taelgar]] (player meta; playable species)
-- [[Creatures of Taelgar]] (player background; character-facing encylopedia)
+- [[Creatures of Taelgar]] (player background; character-facing encyclopedia)
 
 Subdirectories:
-- **Bestiary**: catch-all for notes on creatures that are (a) native to the Material Plane, and (b) not species. This includes things like "common transformations" (undead, lycanthropes), as well as any others notes on ecology or anything else of non-species creatures. May be further subdivided if needed; a *Mechanics* subdirectory could be a better place for statblocks than Worldbuliding. 
-- **Extraplanar**: notes on both creatures and species that are native to the Inner or Outer Planes (anything except Fey and Material Plane natives). May be further subdivided into *Species*, *Inner Planes*, *Outer Planes* as needed, for is not for now.
+- **Bestiary**: catch-all for notes on creatures that are (a) native to the Material Plane, and (b) not species. This includes things like "common transformations" (undead, lycanthropes), as well as any other notes on ecology or anything else of non-species creatures. May be further subdivided if needed; a *Mechanics* subdirectory could be a better place for statblocks than Worldbuilding.
+- **Extraplanar**: notes on both creatures and species that are native to the Inner or Outer Planes (anything except Fey and Material Plane natives). May be further subdivided into *Species*, *Inner Planes*, *Outer Planes* as needed, but is not for now.
 - **Fey**: notes on natives of the Feywild, both species and creatures.
 - **Mechanics**: Player-facing meta pages on playable species (in the D&D rules sense). 
 - **Species**: Character-facing encyclopedia pages on all species, whether playable or not. 
@@ -190,3 +194,7 @@ FROM "Worldbuilding/Staging"
 WHERE any(filter(file.inlinks, (b) => contains(meta(b).path, "Creatures")))
 SORT length(file.inlinks) DESC
 ```
+
+%%^povNotes:v1%%
+Temporal coverage: undated; this vault-directory guide describes organization and maintenance rather than an in-world era, so no modern, decade, or year reading position is supported.
+%%^End%%

@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [power, religion/mosnumena, status/cleanup/image]
+lintedAt: "2026-10-19T10:02:41-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-affiliations: 
-- {org: Mos Numena, type: primary}
-- {org: Eight Divines, title: One}
+tags: [power, religion/mosnumena, status/cleanup/image]
 typeOf: incorporeal god
 gender: male
+name: The Father
+affiliations:
+  - {org: Mos Numena, type: primary}
+  - {org: Eight Divines, title: One}
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # The Father
 >[!info]+ Information  
@@ -32,3 +36,11 @@ His holy symbol is a scepter with a sun, with rays radiating out from the sun. T
 %%
 In mechanical terms, his clerics would usually be associated with the Light or Order domains.
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "The Father", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern description of the Father’s divine associations, customary depiction, and holy symbol.
+%%^End%%

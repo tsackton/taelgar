@@ -1,7 +1,11 @@
 ---
-tags: [meta, status/wip]
+lintedAt: "2026-10-19T10:32:05-04:00"
+lintVersion: "3.5"
+tags: [meta, status/wip, status/check/lint]
+name: Playing a Fae
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 
 
@@ -19,10 +23,10 @@ dm_notes: none
 You have Darkvision with a range of 60 feet.
 
 #### Fey Ancestry
-You have Advantage on savings throws to avoid or end the Charmed condition. 
+You have Advantage on saving throws to avoid or end the Charmed condition.
 
 #### Fey Nature
-You do not need to sleep, and magic cannot put your to sleep. To gain the benefits of a Long Rest, you must spend 6 hours in a dream-like state. In this state, you appear motionless, but you are not rendered Unconscious, and you can perceive as normal.
+You do not need to sleep, and magic cannot put you to sleep. To gain the benefits of a Long Rest, you must spend 6 hours in a dream-like state. In this state, you appear motionless, but you are not rendered Unconscious, and you can perceive as normal.
 
 #### Fey Step
 
@@ -81,12 +85,12 @@ To create your fey character, first consider what kind of fey you wish to play. 
 ## "The Fey"
 The most common fey folk are simply known as the Fey. They are generally human-like in appearance, although one that is often touched with ethereal glamor. While these folk are not common on Taelgar, they are not unheard of, and many even manage to pass unnoticed among the mortals of the material plane. 
 
-To represent these fey mechanically, you may choose to use the [Hogoblin](https://www.dndbeyond.com/sources/motm/fantastical-races-continued#Hobgoblin) or [Eladrin](https://www.dndbeyond.com/sources/motm/fantastical-races#Eladrin) traits, or the [Changeling](https://www.dndbeyond.com/sources/motm/fantastical-races#Changeling) traits if you wish to play one of the changeling fey. 
+To represent these fey mechanically, you may choose to use the [Hobgoblin](https://www.dndbeyond.com/sources/motm/fantastical-races-continued#Hobgoblin) or [Eladrin](https://www.dndbeyond.com/sources/motm/fantastical-races#Eladrin) traits, or the [Changeling](https://www.dndbeyond.com/sources/motm/fantastical-races#Changeling) traits if you wish to play one of the changeling fey.
 
 ## Fairies
 The fairies are the small, diminutive folk of the Feywild, cousins to pixies and sprites, who typically resemble small humanoids with insect wings. These folk are rare on Taelgar, but common in stories and tales. 
 
-To represent these fey mechanically, you should use the [Fairy](https://www.dndbeyond.com/sources/motm/fantastical-races#Fairy)traits. 
+To represent these fey mechanically, you should use the [Fairy](https://www.dndbeyond.com/sources/motm/fantastical-races#Fairy) traits.
 
 ## Satyrs and other Beastfolk
 By far the most famous and common of the potentially limitless beastfolk Fey are the satyrs, the horned humans with goat legs. Famous for their revelry, satyrs are often found in Taelgar seeking new experiences, merriment, and joy. 
@@ -104,4 +108,26 @@ No matter which traits you choose to use to represent your Fey character, all Fe
 
 # Languages
 
-When you create your character, you may choose two [[Languages]] in addition to those granted by other sources. One of these will usually be Common, also known as Westros, a widespread trade tongue in the western part of Taelgar. The other will usually be Sylvan. 
+When you create your character, you may choose two [[Languages]] in addition to those granted by other sources. One of these will usually be Common, also known as Westros, a widespread trade tongue in the western part of Taelgar. The other will usually be Sylvan.
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern character-creation guidance; the current and legacy rules are editorial versions, not distinct in-world periods.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the explicit display name and temporal viewpoint metadata.
+- Corrected “savings throws,” “put your to sleep,” “Hogoblin,” and the missing space before “traits”; preserved every rule and legacy section.
+
+### Validated judgments
+- `status/wip`: supported by the unfinished current/legacy organization.
+- This is a player-facing mechanics document, so it does not require a named-subject metadata block.
+
+### Open findings
+
+- [ ] **Warning — correctness.internal_conflict:** The current Basic Traits gives Sylvan plus four chosen languages and describes variable fey aging, while the visible `# Old` material still presents a separate language-allocation rule and the categorical claims that fey do not change appearance with age and normally live 100–200 years. Readers cannot tell which of these instructions governs a new character. Confirm the authoritative rules and retire or explicitly segregate the conflicting legacy instructions. A bounded human choice is to keep the current Basic Traits/Fae Traits as the operative rules and preserve the entire `# Old` section as historical design notes in a `Campaign:none` block; applying that wrapper requires approval because it changes visibility.
+
+- [ ] **Suggestion — editorial.playable_species_format:** Complete the mechanics-page side of the new-style format demonstrated by [[Playing a Halfling]]. This page starts at Basic Traits, has no page title or opening link to [[Fae]], and leaves its character-creation guidance inside a mixed visible `# Old` section. Assemble one current title, concise introduction and species link, Creating Your Fae Character guidance, then the existing Basic Traits and Fae Traits. Keep legacy design material separate after the current rules are selected. Do not copy the Halflings article’s lore headings into this mechanics page or invent missing naming customs.
+%%^End%%

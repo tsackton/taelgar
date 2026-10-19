@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
-aliases: [Arha, Arhat, Malik, Sampa, Shurat, Ako, Anida]
+lintedAt: "2026-10-19T10:02:41-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the}
 tags: [power]
-displayDefaults: {defArt: "the"}
+typeOf: high god
+name: Divine Presence
+aliases: [Arha, Arhat, Malik, Sampa, Shurat, Ako, Anida]
 dm_owner: none
 dm_notes: important
-typeOf: high god
+POV: modern
 ---
 # The Divine Presence
 >[!info]+ Information  
@@ -20,9 +24,9 @@ All religious traditions on Taelgar agree that the Divine Presence, or Presences
 
 The [[Northern Folk Religions]] tend to interpret the Divine Presence as a single creator deity, and believe this creator deity is the source of divine magic, and the divinity to which the small gods bring their prayers. 
 
-The [[Deno'qai]] speak of Anida, called the "the First and the Last", the creator deity and the source of the [[Tanshi|tanshi's]] magic and power. 
+The [[Deno'qai]] speak of Anida, called "the First and the Last", the creator deity and the source of the [[Tanshi|tanshi's]] magic and power.
 
-In the [[Kestavo]] tradition, one creator god is acknowledged, known as Ako. The small gods, the [[Kestavo]], carry the prayers of their communities to Ako, who grants blessings. It is from Ako that the power of the [[Kestavo]] flow to their worshippers.
+In the [[Kestavo]] tradition, one creator god is acknowledged, known as Ako. The small gods, the [[Kestavo]], carry the prayers of their communities to Ako, who grants blessings. It is from Ako that the power of the [[Kestavo]] flows to their worshippers.
 ## Human Pantheonic Traditions
 
 In many pantheonic traditions among humans, the Divine Presence is believed to represent a duality: birth and death, creation and destruction. 
@@ -31,8 +35,10 @@ In the [[Mos Numena]] tradition, these Divinities are known as Arha (sometimes A
 
 In the [[Dunmari Religion|Dunmari Tradition]], the creator gods are known as Sampa, the Earth Father, associated with death and endings, and Shurat, the Sky Mother, associated with birth and beginnings. Neither are directly worshipped; they are seen as distant and uninvolved in the world, having gifted it to their children and moved on.
 
+%%^Metadata:names:v1%%
+- {name: Divine Presence, language: Common}
+%%^End%%
 
-
-
-
-
+%%^povNotes:v1%%
+Temporal coverage: broadly modern comparative theology; the article describes current religious interpretations of creation without assigning dates to their mythic origins.
+%%^End%%

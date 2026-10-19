@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:02:41-04:00"
+lintVersion: "3.5"
 tags: [power, religion/fivesiblings, status/cleanup/image]
-gender: male
-affiliations: 
-- {org: Dunmari Religion, type: primary}
-- {org: Five Siblings, title: One}
 typeOf: incorporeal god
+gender: male
+name: Aagir
 pronunciation: AA-gir
-dm_notes: color
+affiliations:
+  - {org: Dunmari Religion, type: primary}
+  - {org: Five Siblings, title: One}
 dm_owner: tim
+dm_notes: color
+POV: modern
 ---
 # Aagir
 *(AA-gir)*
@@ -26,3 +30,10 @@ His mystery cult, the [[Aagir Mystai]], have no permanent base but function as t
 
 %% holy symbol I think is a spear of some kind, need to look in notes %%
 
+%%^Metadata:names:v1%%
+- {name: Aagir, language: unknown, pronunciation: AA-gir, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern account of Aagir's divine roles, temperament, feast day, and itinerant mystery cult.
+%%^End%%

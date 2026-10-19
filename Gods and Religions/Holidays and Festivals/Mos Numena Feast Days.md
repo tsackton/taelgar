@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:39:23-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
 tags: [background, religion/mosnumena, status/check/mike]
+name: Mos Numena Feast Days
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Mos Numena Feast Days
 
@@ -29,7 +33,7 @@ Many communities keep additional feast days tied to local stories of divine inte
 Probably no more than 5-8 universally recognized Mos Numena feast days. 
 
 Viatela.- Dec 11th - traveler holiday of homecoming
-Pyravela - Dec 29-31 - wyrdling celebration, remants of old  intercalary time between solstice and new year
+Pyravela - Dec 29-31 - wyrdling celebration, remnants of old  intercalary time between solstice and new year
 Quintarum - Jan 22nd
 
 probably still need major feast days for the other 6 divines, plus maybe the "thanksgiving" holiday associated with circular island pilgrimage / hkar escape but maybe sufficiently suppressed by apollyon to have lost that connection in the modern day, plus maybe one more. 
@@ -39,7 +43,7 @@ probably still need major feast days for the other 6 divines, plus maybe the "th
 
 %%
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 
 Working table of holidays in Asineau (as a placeholder/stand in for Sembara)
 
@@ -65,14 +69,14 @@ General notes and structure:
 
 This list includes several types of holidays:
 * Drankorian (core) holidays trace their origin to the Drankorian empire and are generally expected to be recognizable across the entire Mos Numena worshipping region. There may be small regional differences, but someone in Tollen, Embry, Chardon, or Cymea would all recognize Pyravela. Conceptually many of these trace their origins to the complex ritual / magical calendar of late urban Hkar, but the intention is to leave that calendar itself a little bit vague.  There are three exceptions to the above:
-	* Hearthfast is a Drankorian holiday and there is a holiday celebrated elsewhere on the same date (tenative names: Nemorum, Silvarum, Ordinis) but in Sembara, the ancient kestavan holiday of Hearthfast has merged and replaced the drankorian holiday. Hearthfast never had a particular fixed calendar date but has glommed onto the drankorian date
-	* "Great Thanksgiving (name TBD)" is potentially a survival in Sembara of a holiday destroyed by Apolloyon that in its earliest version was a remebrance of the miracle of surving the downfall. Modern Sembara does not see it that way though. This is still a bit TBD
+	* Hearthfast is a Drankorian holiday and there is a holiday celebrated elsewhere on the same date (tentative names: Nemorum, Silvarum, Ordinis) but in Sembara, the ancient kestavan holiday of Hearthfast has merged and replaced the drankorian holiday. Hearthfast never had a particular fixed calendar date but has glommed onto the drankorian date
+	* "Great Thanksgiving (name TBD)" is potentially a survival in Sembara of a holiday destroyed by Apolloyon that in its earliest version was a remembrance of the miracle of surviving the downfall. Modern Sembara does not see it that way though. This is still a bit TBD
 	* High Sun (name TBD) has some details below, and may have been a pro-apolloyon holiday that reemerged very differently in sembara and chardon
 * The kestavan holidays (Greenwake and Hearthfast) are the only two universal kestavan celebrations (see more notes below)
-* River Fair and Harvest Fair are just local holidays, although Harvest Fair is a wildly celebrated traditional at least in southern Greater Sembara and probably Maseau, addermarch, tyrwingha at least based on the english Harvesthome concept -- but the details and dates are unique in each village or region
+* River Fair and Harvest Fair are just local holidays, although Harvest Fair is a wildly celebrated tradition at least in southern Greater Sembara and probably Maseau, addermarch, tyrwingha at least based on the english Harvesthome concept -- but the details and dates are unique in each village or region
 
 
-Note on names: River Fair and Harvest Fair are just generic names -- these holidays are not really named per say, people would just say "its time for the harvest fair". 
+Note on names: River Fair and Harvest Fair are just generic names -- these holidays are not really named per se, people would just say "it's time for the harvest fair".
 
 Hearthfast probably has another name outside of Sembara. It is really the kestavan festival but the date has moved to a drankorian date. The expectation is that in Chardon or elsewhere there is probably a drankorian holiday on this same date but with a very different character.
 
@@ -91,4 +95,8 @@ A few open questions and ideas:
 * It is very unclear how much of this applies elsewhere -- Addermarch, Tyrwingha, Zimka, Tollen, Cymea, Refounded Alliance of Auzbeg, Chardon as minimal examples -- some of these seem very unlikely to apply to i.e. Addermarch or Tollen for various reasons
 
 
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern overview of recurring Mos Numena feast days; the hidden working calendar and regional-origin discussions remain provisional.
 %%^End%%

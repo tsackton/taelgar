@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [religion/kestavo, background]
+lintedAt: "2026-10-19T10:39:23-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
+tags: [religion/kestavo, background]
+name: Kestavan Funerary Traditions
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Kestavan Funerary Traditions
 
@@ -11,22 +15,26 @@ In the kestavo tradition amongst the [[Zimkova|Zimka]], the most important guide
 
 In order to facilitate this, the kestavan tradition emphasizes burial of the body in a sacred spot, where the kestavo could easily find the soul, typically considered to linger near the body until ushered to the Land of the Dead. The kestavo would then guide the soul into, through, and out of the Land of the Dead to the final resting place. The ultimate destination of these souls is imagined differently in different regions - but a common idea is a reunion with the ultimate creator, [[Divine Presence|Ako]]. 
 
-The funeral of a typical Zimka starts with the preparation of the body, within hours of death. Sacred rites are performed, usually in private, by a priest, to draw the attention of the kestavo, and to ensure the soul lingers near the body. An auspicious time is chosen, the sooner the better, for the burial. At the time of the burial the community gathers in mourning, and a priest leads the community in prayers, which tend to be focused on glorification of the kestavo, rather than mourning or remembrance of the dead. The goals of these prayers are to ensure that the kestavo sees the lost soul, and guides it through the [[Land of the Dead]]. It is seen as ill-luck to speak to much of the deceased at this time, for fear the soul will linger to hear the words of their loved ones, and resist the guidance of the *kestavo*. The first day after death is a seen as dangerous and fraught time, where the community must coax a potentially hesistant or overburdened *kestavo* to guide their loved one through the shoals of death.
+The funeral of a typical Zimka starts with the preparation of the body, within hours of death. Sacred rites are performed, usually in private, by a priest, to draw the attention of the kestavo, and to ensure the soul lingers near the body. An auspicious time is chosen, the sooner the better, for the burial. At the time of the burial the community gathers in mourning, and a priest leads the community in prayers, which tend to be focused on glorification of the kestavo, rather than mourning or remembrance of the dead. The goals of these prayers are to ensure that the kestavo sees the lost soul, and guides it through the [[Land of the Dead]]. It is seen as ill-luck to speak too much of the deceased at this time, for fear the soul will linger to hear the words of their loved ones, and resist the guidance of the *kestavo*. The first day after death is seen as a dangerous and fraught time, where the community must coax a potentially hesitant or overburdened *kestavo* to guide their loved one through the shoals of death.
 
 These rituals are held to be important to the community, and it is the responsibility of the priesthood to ensure the proper burial of all, to quiet ghosts. Therefore there is little difference between a wealthy funeral and a poor one, and places of burial are often selected not based on wealth or status, but need. So a badly damaged body, recovered after weeks, might be buried literally under a sacred stone, where the divine blessing of the kestavo is strongest. 
 
-Once the initial burial is completed, the journey through the Land of Dead is broadly the responsibility of the kestavo. Priests look for signs that a kestavo has attached itself to the deceased, to guide them, and if the omens are ill, or unclear, additional days and nights of prayer may be called for.
+Once the initial burial is completed, the journey through the Land of the Dead is broadly the responsibility of the kestavo. Priests look for signs that a kestavo has attached itself to the deceased, to guide them, and if the omens are ill, or unclear, additional days and nights of prayer may be called for.
 
-After the initial burial, it is the custom to avoid any permanent marks or indications of the burial for three years. During these three years it is the responsibility of the community to recite the names of the dead at the opening of other ritual acts, to remind the kestavo of the community they are responsible for in the afterlife. Avoiding grave markers or other written names is also though to help keep the [[Kestavo|vazska]] and other similar evil spirits away. On the third anniversary of the burial, it is customary to mark the deceased with a grave marker, usually an artistic addition to a kestavan shrine, in keeping with the tradition of the shrine. This could be as simple as a small carved rock, or a colorful scrap of fabric wrapped around a tree, or as complex as an elaborate statue or mural. These are usually meant to be permanent, and to represent the deceased, in name, or personality, or both. 
+After the initial burial, it is the custom to avoid any permanent marks or indications of the burial for three years. During these three years it is the responsibility of the community to recite the names of the dead at the opening of other ritual acts, to remind the kestavo of the community they are responsible for in the afterlife. Avoiding grave markers or other written names is also thought to help keep the [[Kestavo|vazska]] and other similar evil spirits away. On the third anniversary of the burial, it is customary to mark the deceased with a grave marker, usually an artistic addition to a kestavan shrine, in keeping with the tradition of the shrine. This could be as simple as a small carved rock, or a colorful scrap of fabric wrapped around a tree, or as complex as an elaborate statue or mural. These are usually meant to be permanent, and to represent the deceased, in name, or personality, or both.
 
-Additionally, during the initial burial is it seen as dangerous to speak of the dead and remember them, for fear of diverting the attention of the soul to the [[Material Plane]], and thus the initial days of mourning are usually focused on the glorification of the kestavo, rather than remembrance of the dead. It is common to hold a thanksgiving, usually about two weeks after the burial (although sometimes sooner and sometimes later, but never before seven days). This is a time to thank the deceased for the gifts they brought to the community, their life, their loved ones - and to thank the kestavo for being an able guide. 
+Additionally, during the initial burial it is seen as dangerous to speak of the dead and remember them, for fear of diverting the attention of the soul to the [[Material Plane]], and thus the initial days of mourning are usually focused on the glorification of the kestavo, rather than remembrance of the dead. It is common to hold a thanksgiving, usually about two weeks after the burial (although sometimes sooner and sometimes later, but never before seven days). This is a time to thank the deceased for the gifts they brought to the community, their life, their loved ones - and to thank the kestavo for being an able guide.
 
 ### Attitudes Towards Bodies
 In the kestavo tradition, having the body - which is the locus of the soul at death - somewhere a kestavo can find it is critical. Those whose bodies are lost need help from the community to ensure a kestavo can find their soul, wherever it is, and recovering lost bodies for burial is important. Great efforts would be undertaken to recover bodies, and things like drowning would be seen as particularly horrible ways to die. The soul, lost in a strange place, has no guide. Similarly, a burned body or otherwise destroyed body risks the kestavo not being able to find the soul.
 
-In cases where a body cannot be found, tokens of the person in life are thought to help connect the soul and the kestavo, but it is no substitute for a body. Better than tokens is bringing a kestavo to were the body is. So for example there are myths and stories of how a hero coaxed a kestavo to move into a lake after her husband drowned, as a way to ensure he had a guide to the afterlife.
+In cases where a body cannot be found, tokens of the person in life are thought to help connect the soul and the kestavo, but it is no substitute for a body. Better than tokens is bringing a kestavo to where the body is. So for example there are myths and stories of how a hero coaxed a kestavo to move into a lake after her husband drowned, as a way to ensure he had a guide to the afterlife.
 
 Being killed and left unburied is therefore seen as a particularly evil way to kill someone, and the idea of killing everyone in a village and scattering the bodies far away from the protective kestavo is seen as the worst sort of war crime. 
 
 ### Undeath
-In the kestavan tradition, the body is a key locus of the soul, and thus it is rare for the body to be cremated or destroyed before burial. The burial in a sacred place is thought to protect the body and soul from necromantic corruption. 
+In the kestavan tradition, the body is a key locus of the soul, and thus it is rare for the body to be cremated or destroyed before burial. The burial in a sacred place is thought to protect the body and soul from necromantic corruption.
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose; the article does not require a narrower date within the current campaign era.
+%%^End%%

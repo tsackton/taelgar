@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:02:41-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: ""}
 tags: [power, religion/mosnumena, status/cleanup/image, status/check/mike]
-affiliations: 
-- {org: Mos Numena, type: primary}
-- {org: Eight Divines, title: One}
 typeOf: incorporeal god
-displayDefaults: {defArt: ''}
 gender: male
+name: The Wanderer
+affiliations:
+  - {org: Mos Numena, type: primary}
+  - {org: Eight Divines, title: One}
 dm_owner: joint
 dm_notes: important
+POV: modern
 ---
 # The Wanderer
 >[!info]+ Information  
@@ -38,3 +42,11 @@ In many lands, it is traditional for [[Mos Numena]] temples to have a small room
 
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "The Wanderer", "language": "unknown", "notes": "Plain-English descriptive title; no pronunciation guide is needed. The source language of this divine epithet is not specified."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference to the Wanderer’s depiction, patronage, and hospitality traditions; no narrower historical snapshot is implied.
+%%^End%%

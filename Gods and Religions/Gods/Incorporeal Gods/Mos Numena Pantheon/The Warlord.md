@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T10:02:41-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: ""}
 tags: [power, religion/mosnumena, status/cleanup/image]
-displayDefaults: {defArt: ''}
-affiliations: 
-- {org: Mos Numena, type: primary}
-- {org: Eight Divines, title: One}
 typeOf: incorporeal god
 gender: male
+name: The Warlord
+affiliations:
+  - {org: Mos Numena, type: primary}
+  - {org: Eight Divines, title: One}
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # The Warlord
 >[!info]+ Information  
@@ -29,3 +33,11 @@ The Warlord is usually depicted as a man in his prime, armed and armored (the ex
 %%
 In mechanical terms, his clerics would usually be associated with the War or Forge domains.
 %%
+
+%%^Metadata:names:v1%%
+- {name: The Warlord, role: primary, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern Mos Numenan belief and iconography; no narrower dated change controls the visible article.
+%%^End%%
