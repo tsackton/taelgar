@@ -271,6 +271,101 @@ function detectUnsupportedDataviewQuery(source) {
   );
 }
 
+const DYNAMIC_HEADER_MARKER = "<!-- taelgar:header -->";
+
+function prepareDynamicWebsiteMarkdown(text) {
+  const frontmatter = /^(?:\uFEFF)?---[ \t]*\r?\n([\s\S]*?)\r?\n---[ \t]*(?:\r?\n|$)/.exec(text);
+  const prefix = frontmatter?.[0] || "";
+  const newline = text.includes("\r\n") ? "\r\n" : "\n";
+  let body = text.slice(prefix.length);
+  let headerMarkersInserted = 0;
+
+  // Only versioned, generated note headers are replaced. Ordinary page titles
+  // and the frontmatter are retained on notes without headerVersion.
+  const headerVersion = frontmatter?.[1].match(/^headerVersion[ \t]*:[ \t]*([^\r\n#]+)/m)?.[1].trim();
+  if (headerVersion && !["null", "~", '""', "''"].includes(headerVersion) &&
+      !body.trimStart().startsWith(DYNAMIC_HEADER_MARKER)) {
+    const lines = splitLinesWithPositions(body);
+    let index = lines.findIndex((line) => line.text.trim());
+    let end = 0;
+    if (index >= 0 && /^ {0,3}#[ \t]+\S/.test(lines[index].text)) {
+      end = lines[index].end;
+      let inInfo = false;
+      for (index += 1; index < lines.length; index += 1) {
+        const line = lines[index].text;
+        if (/^[ \t]*>+[ \t]*\[!info\]/i.test(line)) inInfo = true;
+        else if (/^[ \t]*>[ \t]*\[!/.test(line)) break;
+        const inline = line.trim().match(/^`\$=(.+)`[ \t]*$/);
+        if (!(/^[ \t]*\*\(.+\)\*[ \t]*$/.test(line) ||
+              (inInfo && /^[ \t]*>/.test(line)) ||
+              (inline && parseKnownInlineExpression(inline[1].trim())))) break;
+        end = lines[index].end;
+      }
+    }
+    body = DYNAMIC_HEADER_MARKER + newline + newline + body.slice(end).replace(/^(?:[ \t]*\r?\n)*/, "");
+    headerMarkersInserted = 1;
+  }
+
+  const fences = scanFencedCodeBlocks(body);
+  const removedBlocks = fences.filter((block) => block.language === "dataviewjs" && block.closed);
+  const replacements = removedBlocks.map((block) => ({
+    start: block.start, end: block.end, text: block.quotePrefix + newline,
+  }));
+  const headings = scanSectionHeadings(body, fences);
+  let sectionsRemoved = 0;
+
+  // Remove heading lines, rather than whole ranges, so surrounding campaign/date
+  // delimiters survive. Work from the leaves upward to prune empty parent sections.
+  for (const heading of headings.reverse()) {
+    if (!removedBlocks.some((block) => block.start >= heading.contentStart && block.end <= heading.end)) continue;
+    const changes = replacements.filter((replacement) =>
+      replacement.start >= heading.contentStart && replacement.end <= heading.end,
+    ).map((replacement) => ({ ...replacement, start: replacement.start - heading.contentStart, end: replacement.end - heading.contentStart }));
+    const remaining = applyReplacements(body.slice(heading.contentStart, heading.end), changes)
+      .replace(/^(?:[ \t]*>)+[ \t]*(?:\r?\n|$)/gm, "")
+      .replace(/^[ \t]*%%\^(?:Campaign:[^%\r\n]+|Date:[^%\r\n]+|End)%%[ \t]*(?:\r?\n|$)/gm, "");
+    if (remaining.trim()) continue;
+    replacements.push({ start: heading.start, end: heading.contentStart, text: "" });
+    sectionsRemoved += 1;
+  }
+
+  return {
+    content: prefix + applyReplacements(body, replacements),
+    headerMarkersInserted,
+    dataviewJsBlocksRemoved: removedBlocks.length,
+    sectionsRemoved,
+  };
+}
+
+function scanSectionHeadings(text, fences) {
+  const lines = splitLinesWithPositions(text);
+  const headings = [];
+  const protectedLine = (line) => fences.some((block) => line.start >= block.start && line.start < block.end);
+  for (let index = 0; index < lines.length; index += 1) {
+    const line = lines[index];
+    if (protectedLine(line)) continue;
+    const atx = /^ {0,3}(#{1,6})(?:[ \t]+|$)/.exec(line.text);
+    if (atx) {
+      headings.push({ start: line.start, contentStart: line.end, level: atx[1].length });
+      continue;
+    }
+    const setext = /^ {0,3}(=+|-+)[ \t]*$/.exec(line.text);
+    const previous = lines[index - 1];
+    if (setext && previous && !protectedLine(previous) &&
+        /^ {0,3}(?![\s#>`~]|[-+*][ \t]|\d+[.)][ \t])\S/.test(previous.text) &&
+        !headings.some((heading) => heading.start === previous.start)) {
+      headings.push({ start: previous.start, contentStart: line.end, level: setext[1][0] === "=" ? 1 : 2 });
+    }
+  }
+  const stack = [];
+  for (const heading of headings) {
+    while (stack.length && stack[stack.length - 1].level >= heading.level) stack.pop().end = heading.start;
+    stack.push(heading);
+  }
+  for (const heading of stack) heading.end = text.length;
+  return headings;
+}
+
 function countRemainingDynamicMarkdown(text) {
   const fences = scanFencedCodeBlocks(text).filter((block) =>
     ["dataview", "dataviewjs"].includes(block.language),
@@ -288,6 +383,7 @@ function countRemainingDynamicMarkdown(text) {
 }
 
 module.exports = {
+  DYNAMIC_HEADER_MARKER,
   KNOWN_INLINE_VIEWS,
   applyReplacements,
   countRemainingDynamicMarkdown,
@@ -297,6 +393,7 @@ module.exports = {
   formatInlineReplacement,
   parseKnownInlineExpression,
   prefixMarkdownLines,
+  prepareDynamicWebsiteMarkdown,
   scanFencedCodeBlocks,
   splitLinesWithPositions,
   stripBlockquotePrefix,
