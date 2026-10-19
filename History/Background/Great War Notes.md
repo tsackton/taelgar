@@ -1,8 +1,12 @@
 ---
-tags: [background, status/review]
+lintedAt: "2026-10-18T23:48:18-04:00"
+lintVersion: "3.5"
+tags: [background, status/review, status/check/lint]
+name: Great War Notes
+excludePublish: [all]
 dm_owner: joint
 dm_notes: important
-excludePublish: ["all"]
+POV: modern
 ---
 
 %% status/review ->  lots of bits of Great War history scattered elsewhere that could usefully be collated into one place here %%
@@ -17,3 +21,21 @@ From high school campaign but may be retconned: there also was an attack in the 
 
 See:
 - [[Hobgoblin Movements After Cha'Mutte]] for some notes about Cha'mutte's armies and positioning during the Great War
+
+%%^povNotes:v1%%
+Temporal coverage: modern retrospective working notes on the Great War and its aftermath, with expressly provisional details and an unresolved older-campaign recollection.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added the filename-derived name and modern temporal metadata.
+
+### Validated judgments
+- `status/review` is supported by the explicit collation task and unresolved historical recollection. The positive DM attestation explicitly refers to paper notes, so absence of a local match does not disprove it.
+
+### Open findings
+
+- [ ] **Suggestion — dm.notes_no_local_evidence:** No `_DM_` notes found; verify `dm_notes`. The note says the private sources are paper notes kept in a box. Confirm that useful unshared information remains there and retain `dm_notes: important` if it does; no attestation change was made.
+%%^End%%

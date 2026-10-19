@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-18T23:43:15-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Tyrwinghan
@@ -8,6 +10,7 @@ name: Eirian
 pronunciation: AYR-yahn
 whereabouts: Ruthin
 knownTo: [clee]
+POV: 1710s
 ---
 # Eirian
 *(AYR-yahn)*
@@ -19,4 +22,8 @@ Eirian is a trans woman and acolyte of the Wyrdling in [[Ruthin]], known in the 
 
 %%^Metadata:names:v1%%
 - {name: Eirian, language: Tyrwinghan, pronunciation: AYR-yahn, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: the Ruthin acolyte and teacher whose work is established during Celyn’s studies around DR 1715; later recollections describe that teaching, but do not establish the duration of her service.
 %%^End%%

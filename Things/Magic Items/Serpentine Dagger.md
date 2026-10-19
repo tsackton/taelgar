@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T00:07:38-04:00"
+lintVersion: "3.5"
+displayDefaults: {endStatus: "Unmade by the [[Addermarch Mercenaries]] with [[Trueflame]] on"}
 tags: [object]
-displayDefaults:
-  endStatus: "Unmade by the [[Addermarch Mercenaries]] with [[Trueflame]] on"
 typeOf: weapon
 typeOfAlias: dagger
-dm_notes: none
-dm_owner: none
 destroyed: 1715-05-09
+name: Serpentine Dagger
+knownTo: [adma]
+dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # The Serpentine Dagger
 >[!info]+ Information  
@@ -26,4 +30,12 @@ Significant background in DM Notes:
 [[Avatus Cursed Items Timeline]]
 [[Avatus and the Cursed Axe]]
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Serpentine Dagger, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective of the dagger's curse and destruction in DR 1715; its earlier history is not comprehensively described.
 %%^End%%

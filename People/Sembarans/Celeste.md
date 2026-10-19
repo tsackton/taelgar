@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-18T23:43:15-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Sembaran
@@ -8,6 +10,7 @@ died: 1720
 name: Celeste
 pronunciation: seh-LEST
 knownTo: [clee]
+POV: modern
 ---
 # Celeste
 *(seh-LEST)*
@@ -19,4 +22,8 @@ Celeste was a skilled warrior from [[Rinburg]] and a companion of [[Corrine Morp
 
 %%^Metadata:names:v1%%
 - {name: Celeste, language: Sembaran, pronunciation: seh-LEST, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a retrospective modern reference to her life and death in DR 1720, without a living present-day state.
 %%^End%%

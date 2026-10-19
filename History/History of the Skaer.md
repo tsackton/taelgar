@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+lintedAt: "2026-10-18T23:48:18-04:00"
+lintVersion: "3.5"
+tags: [background, status/check/lint]
+name: History of the Skaer
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # History of the Skaer
 
@@ -61,9 +65,9 @@ Nothing is invented about the Skaer during the Drankorian era, except that the S
 %%^End%%
 
 ## Competition
-_DR 1059 - DR 1700ish
+_DR 1059 - DR 1700ish_
 
-After the [[Fall of Drankor]], the Skaer culture grows in the absence of Drankorian control, does not establish an empire or control significant territory within the Western Gulf, partly due to increased maritime competition from [[Cymea]] in this era. 
+After the [[Fall of Drankor]], the Skaer culture grows in the absence of Drankorian control, but does not establish an empire or control significant territory within the Western Gulf, partly due to increased maritime competition from [[Cymea]] in this era.
 
 %%^Campaign:none%%
 ### DM Notes
@@ -85,4 +89,26 @@ _After DR 1700ish_
 ### DM Notes
 
 
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern retrospective from pre-Downfall origins through post-Drankorian competition; the Recent Events section remains empty and the hidden origin and religious explanations remain provisional.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Made the filename-supplied name explicit and added retrospective temporal metadata.
+- Closed the Competition era’s emphasis delimiter and repaired its missing conjunction.
+
+### Validated judgments
+- The bounded chronology covers origins, empire, retreat, and later maritime competition; the unfilled recent-events heading does not erase those substantive stages.
+- The name block is inapplicable: the subject is a historical summary, rather than a named in-world work.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** The Origins and Skaer Empire DM blocks mark the religious-schism origin and expansionist religious explanation as unadopted ideas, while [[Skaer]]’s visible History bullets state both as facts. The ancestry note also has `status/cleanup/text`, so its assertive wording should not silently settle this conflict. Decide whether those two explanations have been adopted, or preserve them as provisional in both notes. Conservative candidate for the shared historical claim: “The Skaer descend from mariners who left [[Hkar]] before the [[The Downfall|Downfall]]; the reasons for their migration and the religious causes of their later expansion remain unresolved.”
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The Retrenchment DM block contains a developed, public-safe distinction between loss of imperial power and continuity of religion and language. [[Skaer]] independently supports the continued worship of Kaikkea. A bounded addition would explain what survived retrenchment: “The Skaer retained their language and the worship of the ocean goddess [[Kaikkea]].” The language-continuity claim currently rests on the shared DM block; confirm that wording before adopting it. Keep the unresolved relationship between Vos and Skaer in the hidden guidance.
 %%^End%%

@@ -1,13 +1,18 @@
 ---
-tags: [event]
+lintedAt: "2026-10-19T00:23:09-04:00"
+lintVersion: "3.5"
+tags: [event, status/check/lint]
+typeOf: ritual
 DR: 1718-01-24
+name: "Viepuck's Ritual Experience"
 dm_owner: mike
 dm_notes: none
+POV: 1718
 ---
-### Viepuck Meetings His Patron
+### Viepuck Meets His Patron
 
 > [!INFO]- Viepuck's Background with his Patron (Chris' Eyes Only)
-One day, in the early winter of 6 Robert I, Viepuck was selected for an apprenticeship. Him and twelve other children were sent to an elegant mansion inside the walls, to interview with a scholar. They were told they would be trained as scribes, and they were taken in, fed, bathed, dressed in uniform. The first evening, they were brought to a sub-basement, where they were lined up and instructed that they would be sworn to the scholar’s service. Suddenly, coming from the door a group of grim-faced men and women appeared and restrained the children, including Viepuck. The scholar started chanting over and over, a rhythmic kalah-veknah-el-la-malach-kalah-veknah-el-la-malach over and over and over, and a dark hole started to open in the floor. The nothingness in the hole started to bubble, like reality itself was boiling, and the grim-faced men and women took the first child, made thirteen cuts in his arms, back, throat, and legs, and watched as the blood drained into the dark pool. His body was cast into the darkness. The men and women took the next child and the next. Viepuck wanted to turn away, to run, but the rhythmic chanting seemed to hold him in place, frozen, unable to move, unable to look away. Time seemed to slow. 
+One day, in the early winter of 6 Robert I, Viepuck was selected for an apprenticeship. He and twelve other children were sent to an elegant mansion inside the walls, to interview with a scholar. They were told they would be trained as scribes, and they were taken in, fed, bathed, dressed in uniform. The first evening, they were brought to a sub-basement, where they were lined up and instructed that they would be sworn to the scholar’s service. Suddenly, coming from the door a group of grim-faced men and women appeared and restrained the children, including Viepuck. The scholar started chanting over and over, a rhythmic kalah-veknah-el-la-malach-kalah-veknah-el-la-malach over and over and over, and a dark hole started to open in the floor. The nothingness in the hole started to bubble, like reality itself was boiling, and the grim-faced men and women took the first child, made thirteen cuts in his arms, back, throat, and legs, and watched as the blood drained into the dark pool. His body was cast into the darkness. The men and women took the next child and the next. Viepuck wanted to turn away, to run, but the rhythmic chanting seemed to hold him in place, frozen, unable to move, unable to look away. Time seemed to slow. 
 >
 As Viepuck was being prepared - the ritual cuts being made in his back and legs - chaos broke out. Explosions of fire and lightning filled the air, and a gleaming silver arrow pierced the head of the woman holding Viepuck. Darkness came boiling out of the void, and what seemed like hundreds of tentacles erupted from nowhere, striking at the children and attackers alike.  
 Viepuck could only remember thinking, hoping for any way to escape, being willing to do anything.  It hadn’t been an easy life, but it was still early and there was still a chance of…. something.  Anything.  Just not being cast into some kind of magic portal.  It was about then that Viepuck’s mind cracked open slightly for a moment as something asked a question, or offered help, or…. something.  It was big, and beyond experience, but at that point anything to help and Viepuck could only think yes, yes help, anything. 
@@ -17,3 +22,31 @@ Reality seemed to crack in front of Viepuck, like a mirror breaking, all jagged 
 She helped the children stumble out into daylight. As Viepuck passed by where the void had been, he noticed a small iridescent sphere about the size of a robin’s egg. He felt it, suddenly, in his mind, and heard a jumble, not quite words: “yOurs, tAke, keEp”. And so he did, snatching up the sphere and hiding it.
 >
 With the few surviving children he returned to the Lord Mayor’s Workhouse, shocked, unable to speak. The woman in white metal muttered some prayers over the children, which washed over him like noise. He can recall little of the next few days, stumbling through the day, dreaming at night his entire life, pre-birth to that moment dreaming, all shuffling together and interwoven with image-concepts of some large creature bent in ways he didn’t understand, and a sense of being pet on the head or some other awkward attempt at comfort?  At the end of this he understood that he had made a deal with this entity and now represented its interests (largely not defined yet) in this world, which it had just been introduced to.
+
+%%^Metadata:names:v1%%
+- {"name": "Viepuck's Ritual Experience", "language": "unknown", "pronunciation": "vyeh-PÜKS RIT-yoo-ul ik-SPEER-ee-uns", "status": "proposed", "notes": "The Viepuck component preserves the unaccepted French-informed proposal in [[Viepuck]]: ie as a glide plus eh, u as rounded ee, ck as k, and final-syllable stress. The possessive and remaining English title are read ordinarily. The personal-name language and pronunciation remain unconfirmed."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: A narrative of Viepuck’s ritual ordeal and immediate aftermath in early winter DR 1718; it does not describe his later campaign state.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter formatting and added persistent name and temporal-viewpoint metadata.
+- Added an explicit name matching the established note identity.
+- Recorded the event classification `typeOf: ritual` supported by the authored account.
+- Corrected “### Viepuck Meetings His Patron” to “### Viepuck Meets His Patron”.
+- Corrected “Him and twelve other children were sent” to “He and twelve other children were sent”.
+
+### Validated judgments
+- The authored narrative is sufficient as a bounded account of this experience; its subjective uncertainty and distinctive voice are preserved.
+
+### Open findings
+
+- [ ] **Warning — privacy.unprotected_player_notes:** The callout is labeled “Viepuck’s Background with his Patron (Chris’ Eyes Only)” but ordinary Markdown and a collapsed callout do not enforce that audience, and this note has no publication exclusion. Confirm the intended audience. If the complete note should be withheld from public export, the bounded proposal is `excludePublish: [all]`; that does not create a Chris-only access boundary, which requires a separately approved private destination. No visibility change has been applied.
+
+- [ ] **Warning — metadata.names_unresolved_status:** The full-name proposal `vyeh-PÜKS RIT-yoo-ul ik-SPEER-ee-uns` carries forward the unaccepted pronunciation in [[Viepuck]], whose Sembaran French/English context supports French-influenced ie as a glide plus eh, rounded u, hard final ck, and final-syllable stress. The remaining descriptive title is ordinary English. This is a proposal, not an accepted pronunciation; confirm or revise the personal-name component and then the full form before marking it documented and copying it to frontmatter.
+%%^End%%

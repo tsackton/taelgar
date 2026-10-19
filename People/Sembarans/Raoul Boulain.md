@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-18T23:43:15-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Sembaran
@@ -11,6 +13,7 @@ pronunciation: rah-OOL boo-LAN
 knownTo: [clee]
 dm_owner: mike
 dm_notes: none
+POV: 1720
 ---
 # Raoul Boulain
 *(rah-OOL boo-LAN)*
@@ -29,4 +32,8 @@ In May DR 1720, [[Lenora Belles]] and her companions set out east across the [[G
 
 %%^Metadata:names:v1%%
 - {name: Raoul Boulain, language: Sembaran, pronunciation: rah-OOL boo-LAN, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a retrospective account through Raoul’s death in March DR 1720, with campaign-scoped information about the May journey seeking his resurrection; its outcome is not established.
 %%^End%%

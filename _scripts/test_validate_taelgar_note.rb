@@ -205,6 +205,38 @@ class ValidateTaelgarNoteTest < Minitest::Test
     end)
   end
 
+  def test_same_note_heading_and_block_links_resolve_the_source_path
+    root = make_vault
+    path = "Meta/Index.md"
+    write_note(root, "Other/Index.md", "# Index\n\nA different index.\n")
+    write_note(root, path, <<~MARKDOWN)
+      ---
+      tags: [meta]
+      ---
+      # Index
+
+      This index organizes reference notes.
+      See [[#Review]], [[#Review|review list]], [[#^details]], and [[Missing#Review]].
+
+      ## Review
+
+      Review the reference notes. ^details
+    MARKDOWN
+    index = TaelgarNoteLint::NoteIndex.new(Pathname.new(root))
+    validator = TaelgarNoteLint::Validator.new(root: root, check_links: true, index: index)
+    report = validator.validate_path(path)
+
+    ["#Review", "#Review|review list", "#^details"].each do |target|
+      assert_equal [path], index.resolve_wikilink(target, path)
+      assert_empty index.resolve_wikilink(target)
+    end
+    assert_empty index.resolve_identity("#Review", path)
+    unresolved = report.fetch("findings").select { |finding| finding["ruleId"] == "link.unresolved" }
+    assert_equal 1, unresolved.length
+    assert_includes unresolved.first.fetch("message"), "[[Missing#Review]]"
+    refute_includes rule_ids(report), "link.ambiguous"
+  end
+
   def test_image_wikilinks_resolve_assets_without_becoming_note_identities
     root = make_vault
     write_note(root, "assets/portraits/keeper.png", "image fixture")

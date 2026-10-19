@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/mike, place]
+lintedAt: "2026-10-18T23:48:18-04:00"
+lintVersion: "3.5"
+tags: [status/check/mike, place, status/check/lint]
+typeOf: realm
+typeOfAlias: destroyed empire
 created: 1199
 destroyed: 1429
-typeOf: realm
+name: Dominion of Avatus
 whereabouts: Greater Sembara
 dm_owner: joint
 dm_notes: none
-typeOfAlias: destroyed empire
+POV: modern
 ---
 # The Dominion of Avatus
 >[!info]+ Information  
@@ -30,7 +34,7 @@ This tentative, watchful peace ended decisively in the DR 1350s. Over the course
 
 While an uneasy peace holds for a few decades in the early DR 1400s, a series of conflicts in the early DR 1420s lead to [[Avatus]] occupying significant parts of the [[Enst|Enst River]] valley. Soon after, [[Derik I]] unifies [[Sembara]] under the [[House of Sewick]] and defeats [[Avatus]], destroying the [[Dominion of Avatus]] in its entirety.
 ## Culture and Politics
-Little is known or remembered about the culture and politics of the Dominion, and what is recorded was, in large part, written by [[Derik I]] after his defeat of [[Avatus]]. Most notable were the armies of the Dominion. Avatus recruited numerous hobgoblins to his banner, and his armies had a reputation for tactical brilliance and viciousness in battle, enhanced by their use of mind-altering [[Serpentine]] weapons that drove their bears into unstoppable frenzies. Hobgoblin troops, aided at times by werewolfs and other monsters, made up the bulk of his armies, but this was not a hobgoblin kingdom and humans and occasionally others did serve in the army. Whether this was out of true loyalty, desperation, coercion, or something else is lost to time. 
+Little is known or remembered about the culture and politics of the Dominion, and what is recorded was, in large part, written by [[Derik I]] after his defeat of [[Avatus]]. Most notable were the armies of the Dominion. Avatus recruited numerous hobgoblins to his banner, and his armies had a reputation for tactical brilliance and viciousness in battle, enhanced by their use of mind-altering [[Serpentine]] weapons that drove their bearers into unstoppable frenzies. Hobgoblin troops, aided at times by werewolves and other monsters, made up the bulk of his armies, but this was not a hobgoblin kingdom and humans and occasionally others did serve in the army. Whether this was out of true loyalty, desperation, coercion, or something else is lost to time.
 
 The Dominion was a deeply closed society: little news traveled in, or out, though at times trade and commerce did pass through parts of the Dominion. The ruler, [[Avatus]], styled himself the Emperor of New Drankor, and the Dominion did call back to Drankorian styles of monumental architecture at times. Rumors and stories of those who survived under the Dominion's rule suggest a culture of restricted movement, hard work, and strict obedience, where hobgoblins and others who were willing to serve with them in the armies of the Dominion enjoyed great privilege. 
 
@@ -107,4 +111,27 @@ For a little under 20 years, there is an uneasy peace, but this is not sustainab
 
 Avatus strikes first and conquers Brovna, executing the nobility; shortly after Wisford attacks, but is caught out. Avatus makes quick progress across the Enst, driving Wisford armies towards the Wistel until Derik I unites the Sembaran crown and comes to the rescue. Avatus is destroyed and his dominion collapses. 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Dominion of Avatus, language: unknown, pronunciation: "duh-MIN-yun uhv AH-VAH-tus", status: proposed, notes: "The Avatus component follows the accepted pronunciation in [[Avatus]]; the descriptive English words use their ordinary reading. The complete compound is proposed."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective account of the Dominion through its defeat in DR 1429; the separate DM history is explicitly provisional and may use superseded dates.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added the filename-derived name, name metadata, and modern temporal metadata.
+- Corrected “bears” to “bearers” in the serpentine-weapons sentence and “werewolfs” to “werewolves”.
+
+### Validated judgments
+- The public account is sufficient for this historical realm. [[Serpentine Wars]] corroborates its northern wars; the separately marked provisional history is not promoted to canon.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Confirm the complete-name pronunciation `duh-MIN-yun uhv AH-VAH-tus`, stored as proposed in the name block. The proper-name component follows the accepted `AH-VAH-tus` in [[Avatus]]; the other words use ordinary English pronunciation. The full compound has not itself been recorded as an accepted pronunciation. On acceptance, copy the complete value to frontmatter and set the entry to documented.
 %%^End%%

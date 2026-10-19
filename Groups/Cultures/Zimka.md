@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [ancestry, status/check/mike]
-displayDefaults: {defArt: the, boxInfo: <partOf:1UA> culture, wHome: ""}
-name: Zimka
+lintedAt: "2026-10-19T00:14:58-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the, boxInfo: "<partOf:1UA> culture", wHome: ""}
+tags: [ancestry, status/check/mike, status/check/lint]
 partOf: Northerners
+name: Zimka
 dm_owner: mike
 dm_notes: important
+POV: modern
 ---
 # The Zimka
 >[!info]+ Information  
@@ -13,7 +16,7 @@ dm_notes: important
 
 %% @mike - for review %%
 
-The Zimka are branch of the [[Northerners]], living in the foothills, forests, plateaus, river valleys, bogs, and lakes between the [[Sentinel Range|Sentinels]] and northern [[Sembara]]. This region, broadly, is known as [[Zimkova]], and is closely associated with the Zimka culture, especially the upper [[Volta]], the upper [[Teft]], [[Breva]], the [[Lavnoch Plateau]], and the isolated highlands north of the [[Great Chasm]].
+The Zimka are a branch of the [[Northerners]], living in the foothills, forests, plateaus, river valleys, bogs, and lakes between the [[Sentinel Range|Sentinels]] and northern [[Sembara]]. This region, broadly, is known as [[Zimkova]], and is closely associated with the Zimka culture, especially the upper [[Volta]], the upper [[Teft]], [[Breva]], the [[Lavnoch Plateau]], and the isolated highlands north of the [[Great Chasm]].
 
 Modern Zimka identity is complex, and the Zimka do not form a single kingdom or unified culture. Instead, the shared inheritance of ancient tales of traveling from across the mountains, and discovering the [[Kestavo|kestavo]] among the bogs and lakes of the upper [[Volta]], binds together scattered northern villages, Brevan forest communities, Lavnoch clans, and the more Sembaran-influenced people of [[Ardlas]]. 
 
@@ -33,13 +36,13 @@ The name Zimka can be narrower or broader depending on speaker and context. In a
 
 %% Old Zimkovan as the name for the old language was generally used for the ancient language in the Into the Chasm game, but is not formally decided %%
 
-[[Languages#Zimkovan|Zimkovan]], a group of related Eastros-derived languages and dialects descended from Old Tollish and shaped by Sembaran and Drankorian influence, is commonly spoken in [[Breva]], [[Ardlas]], across the [[Lavnoch Plateau]], and through much of Zimkova. It preserves older Northros loan words, especially in religious speech, place names, and names of ancient kestavo,. 
+[[Languages#Zimkovan|Zimkovan]], a group of related Eastros-derived languages and dialects descended from Old Tollish and shaped by Sembaran and Drankorian influence, is commonly spoken in [[Breva]], [[Ardlas]], across the [[Lavnoch Plateau]], and through much of Zimkova. It preserves older Northros loan words, especially in religious speech, place names, and names of ancient kestavo.
 
 %% There are probably some details to  work out of the languages but the basic vibe is robust. %%
 
 ## Origins, Migration, and Settlement
 
-The Zimka descend from the [[Northerners|Northerner]] migrations, the earliest major human movements out of [[Hkar]]. These migrants crossed the [[Sentinel Range|Sentinels]] from the west long before [[The Downfall]], speaking a Northros languages and following the intercessory religious traditions known as the [[Northern Folk Religions]].
+The Zimka descend from the [[Northerners|Northerner]] migrations, the earliest major human movements out of [[Hkar]]. These migrants crossed the [[Sentinel Range|Sentinels]] from the west long before [[The Downfall]], speaking Northros languages and following the intercessory religious traditions known as the [[Northern Folk Religions]].
 
 In Greater Sembara, the early Zimka settled among the foothills of the Sentinels and along the headwaters and upper valleys of the [[Volta]], [[Teft]], and [[Semb]]. Though their spread was constrained by the lizardfolk wetlands to the south and east, over time Zimka communities expanded down the great river valleys and encountered Eastros-speaking mariner and river-trading peoples from the [[Western Gulf]]. By the time of [[The Downfall]], at least two related Zimka strands had emerged: an older highland strand in the upper [[Volta]], [[Lavnoch Plateau|Lavnoch]], and the isolated northern foothills, preserving Northros speech and the older kestavo traditions, and a lower river-valley strand that kept religious and cultural ties to the old highland Zimka but increasingly spoke an Eastros-derived language.
 
@@ -49,7 +52,7 @@ the exact details of the cultural split, the how the various peoples mixed and i
 
 %%
 
-In the modern day, the Zimka are settled across much of the Sembaran highlands. In Northern Zimkova population density is very light, with  hunters and small fortified villages clustered mostly along the [[Volta]] and its tributaries. In [[Breva]], the forested highland region between the [[Teft]] and [[Volta]], a organized, fiercely independent, and strongly kestavan realm persists, and is often seen as the heart of Zimka culture by outsiders. On the [[Lavnoch Plateau]], scattered clans eke out a pastoral life in upland valleys and seasonal pastures. 
+In the modern day, the Zimka are settled across much of the Sembaran highlands. In Northern Zimkova population density is very light, with hunters and small fortified villages clustered mostly along the [[Volta]] and its tributaries. In [[Breva]], the forested highland region between the [[Teft]] and [[Volta]], an organized, fiercely independent, and strongly kestavan realm persists, and is often seen as the heart of Zimka culture by outsiders. On the [[Lavnoch Plateau]], scattered clans eke out a pastoral life in upland valleys and seasonal pastures.
 
 %%
 [[Ardlas]], along the upper [[Semb]], is probably more Sembaran than Zimkan but this is not totally clear. 
@@ -86,4 +89,27 @@ Important discussion in [[2023-11-21 - Zimkova]]; [[2024-01-17 - Zimkova]]. Prob
 
 Some context in [[Into the Chasm Intros]]
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Zimka", "language": "unknown", "pronunciation": "ZIM-kah", "status": "proposed", "notes": "Proposed using the accepted ZIM-koh-vah pronunciation in [[Zimkova]] and the Latvian option of the Zimkovan Baltic analogue in [[Languages]]: initial stress, short i, voiced z, hard k, and a as ah. Lithuanian stress can differ, and an older Northros origin for the ethnonym is not resolved; the exact name language remains unknown."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern Zimka identity, languages, settlement, and religious traditions, with ancient migration background and explicitly unresolved cultural-development questions retained in comments.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Quoted the displayDefaults boxInfo scalar to repair YAML and added name and temporal metadata.
+- Corrected missing or mismatched articles, the stray comma before a period, and a doubled internal space in visible prose.
+
+### Validated judgments
+- The visible account provides substantial identity, language, settlement, and religious context. Explicitly provisional hidden material remains unadopted; the existing human check tag is preserved.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The proposed reading `ZIM-kah` follows the accepted initial stress and Zim- reading in [[Zimkova]] and the Latvian option of the Baltic Zimkovan analogue in [[Languages]]: short i, voiced z, hard k, and ah. Lithuanian stress may differ; the ethnonym's original language is not established and may be older than modern Zimkovan. Accept with `pronunciation: ZIM-kah` and `status: documented`, or provide a correction.
 %%^End%%

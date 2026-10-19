@@ -1,15 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T00:14:58-04:00"
+lintVersion: "3.5"
+displayDefaults: {boxInfo: "<ancestry:UA> <typeof:UA> of <partof:UA>", partOf: ""}
 tags: [group]
-displayDefaults:
- boxInfo: "<ancestry:UA> <typeof:UA> of <partof:UA>"
- partOf: ""
-name: Faculty of Theology
 typeOf: faculty
 partOf: University of Chardon
+name: Faculty of Theology
 whereabouts: Chardon
 dm_owner: tim
 dm_notes: none
+POV: modern
 ---
 # The Faculty of Theology
 >[!info]+ Information  
@@ -17,4 +18,12 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Faculty of Theology is one of the five graduate faculties of the [[University of Chardon]]. 
+The Faculty of Theology is one of the five graduate faculties of the [[University of Chardon]].
+
+%%^Metadata:names:v1%%
+- {name: Faculty of Theology, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern identification of the faculty within the University of Chardon's graduate organization.
+%%^End%%

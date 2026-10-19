@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T00:23:09-04:00"
+lintVersion: "3.5"
 tags: [event]
-name: Sentinel Range War
 typeOf: war
 DR: 1558
 DR_end: 1561
+name: Sentinel Range War
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Sentinel Range War
 >[!info]+ Information  
@@ -19,3 +22,11 @@ The existence of the war is referenced in multiple places and is definitely cano
 
 The “Stone Titan” starter adventure may have taken place during this war; while the broad plot may be canonical the details/PCs are not necessarily.
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Sentinel Range War", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective identification of the post-Great-War conflict; DR 1558–1561 is an approximate event range, and the enemy and detailed course remain uninvented.
+%%^End%%

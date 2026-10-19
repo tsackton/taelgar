@@ -1,20 +1,24 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T00:07:38-04:00"
+lintVersion: "3.5"
 tags: [object, testcase, status/cleanup/text]
-campaignInfo:
-created: 917
+typeOf: cloak
 subTypeOf: magical
+campaignInfo: null
+created: 917
+rarity: unique
 name: Cloak of Rainbows
 aliases: [Cloak of Rainbows, Mantle of Protection]
-typeOf: cloak
-rarity: unique
 whereabouts:
-- {type: home, end: 917, location: Cloudspinner}
-- {type: home, end: 1050, location: People of the Rainbow}
-- {type: home, start: 1050, end: 1059, location: Apollyon}
-- {type: home, location: Lubash}
-dm_notes: important
+  - {type: home, end: 917, location: Cloudspinner}
+  - {type: home, end: 1050, location: People of the Rainbow}
+  - {type: home, start: 1050, end: 1059, location: Apollyon}
+  - {type: home, location: Lubash}
+knownTo: [dufr]
 dm_owner: tim
+dm_notes: important
+POV: 1740s
 ---
 # The Cloak of Rainbows
 >[!info]+ Information
@@ -23,7 +27,7 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%  would also be good to collate information from history and and other information onto this page%%
+%%  would also be good to collate information from history and other information onto this page%%
 
 ![[rainbow-cloak-v2.jpg|right|300]]The Cloak of Rainbows is a multi-colored shimmering cloak, made of the threads of sunset woven by the [[Cloudspinner]], and enchanted with powerful magic to shield the wearer from the sight and power of the Divine. The colors change with the light and the sun, shifting darker or lighter seemingly with the whims of fate. 
 
@@ -41,3 +45,12 @@ The cloak also has the power to silence divine magic in a wide radius, should th
 ![[rainbow-cloak-v1.jpg|left|400]]
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Cloak of Rainbows, language: unknown}
+- {name: Mantle of Protection, role: alias, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a late-1740s account of the cloak in Lubash's keeping and protecting Xurkhaz, with selected earlier history; the undated present assumes Lubash's rule, established from DR 1745, rather than every period in that history.
+%%^End%%

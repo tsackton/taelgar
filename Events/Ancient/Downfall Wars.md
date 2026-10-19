@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T00:23:09-04:00"
+lintVersion: "3.5"
 tags: [event]
-name: Downfall Wars
 typeOf: war
 timelineDescriptor: Downfall Wars
+name: Downfall Wars
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # The Downfall Wars
 
@@ -16,3 +19,11 @@ The Downfall Wars are the name given to the cataclysmic wars that culminated in 
 [[Historical Framework - Open Questions]]
 [[Human Cultures - Discussions]]
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Downfall Wars", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern retrospective account of ancient wars ending in the Downfall; no precise campaign chronology is established.
+%%^End%%

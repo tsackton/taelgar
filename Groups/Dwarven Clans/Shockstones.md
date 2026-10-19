@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [group]
+lintedAt: "2026-10-19T00:14:58-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: the}
-name: Shockstone Clan
+tags: [group]
 typeOf: clan
 ancestry: dwarven
+name: Shockstone Clan
 whereabouts: Zarkandur
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # The Shockstone Clan
 >[!info]+ Information  
@@ -29,3 +32,11 @@ dv.table(["Person", "Info", "Current Location"],
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
 
+%%^Metadata:names:v1%%
+- {name: Shockstone Clan, language: unknown}
+- {name: Shockstones, role: collective, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern account of the clan's standing in Am'khazar and Zarkandur, referring retrospectively to Brelith's role in the Battle of Voltara.
+%%^End%%

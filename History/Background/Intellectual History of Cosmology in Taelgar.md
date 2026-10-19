@@ -1,9 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
-excludePublish: ["clee"]
+lintedAt: "2026-10-18T23:48:18-04:00"
+lintVersion: "3.5"
+tags: [background, status/check/lint]
+name: Intellectual History of Cosmology in Taelgar
+excludePublish: [clee]
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Intellectual History of Cosmology in Taelgar
 
@@ -376,3 +380,24 @@ This list distinguishes formal arguments from the narrative, religious, and visu
 - What bodies of Stoneborn, dwarven, elven, lizardfolk, fey, and other nonhuman scholarship exist outside the fragments translated or cataloged by human institutions?
 
 These gaps are useful places for later worldbuilding. Until they are resolved, parallel traditions should remain parallel rather than being forced into a single lineage.
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern retrospective of cosmological scholarship, with dated developments through the DR 1700s and undated older traditions; dates of ideas, surviving texts, and later reception are distinct.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Made the filename-supplied name explicit, normalized frontmatter, and added retrospective temporal metadata.
+
+### Validated judgments
+- The article provides substantial intellectual history and consistently distinguishes competing beliefs from metaphysical truth.
+- Current notes on Gaius, Airion, Harbek, Julius, Lyrannis, Yendalo, and the Standard Model support the principal historical framing; unresolved dates remain unresolved.
+
+### Open findings
+
+- [ ] **Warning — correctness.unsupported_chronology:** “Traditional four- and five-energy models” says Julius Ceptuso “later” popularized the five-energy scheme, then says the order of Lyrannis and Julius is not established. [[Julius Ceptuso]] supplies only tentative placement after Gaius and before the Great War; [[Lyrannis of Aquilona]] does not establish their relative chronology. Candidate: “[[Julius Ceptuso]] popularized a five-energy scheme that included Magic.” Remove only the unsupported sequence claim, retaining the following uncertainty.
+
+- [ ] **Warning — coverage.established_fact_missing:** The final questions ask whether any Arithrimos soul-bindery applications were ever realized. [[Arithrimos Lamperum]] now records a concrete application at the [[27th House]]: souls powered its prison. This matters to the article’s distinction between speculative proposals and applied soul metaphysics. Candidate for “Applied soul metaphysics and bindery”: “The [[Arithrimos Lamperum]] put soul-powered engineering into practice at the [[27th House]], where souls powered a prison built around a captured entity. This establishes a realized application, without showing that every proposal in the treatise was attempted.” Narrow the final open question to which other applications were realized and how representative the practice was.
+%%^End%%

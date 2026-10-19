@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-18T23:43:15-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Tollish
@@ -10,11 +12,12 @@ name: Tarek
 pronunciation: TAH-rek
 affiliations: [Tollen Misfits]
 whereabouts:
-- {type: home, location: Tollen}
-- {type: away, start: 1740-10-05, location: Twilight Kingdom}
+  - {type: home, location: Tollen}
+  - {type: away, start: 1740-10-05, location: Twilight Kingdom}
 knownTo: [feywild]
 dm_owner: player
 dm_notes: none
+POV: 1740s
 ---
 # Tarek
 *(TAH-rek)*
@@ -28,4 +31,8 @@ Tarek is a Tollish human adventurer, pickpocket, and salvager from [[Tollen]], a
 
 %%^Metadata:names:v1%%
 - {name: Tarek, language: Tollish, pronunciation: TAH-rek, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: his Tollen-based adventuring life around DR 1740; dated whereabouts separately record his journey into the Feywild.
 %%^End%%

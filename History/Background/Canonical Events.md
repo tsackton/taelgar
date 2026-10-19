@@ -1,7 +1,11 @@
 ---
+lintedAt: "2026-10-18T23:48:18-04:00"
+lintVersion: "3.5"
 tags: [background]
+name: Canonical Events
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 
 This page is meant to collect date information that is not fully incorporated into events, timelines, and other pages. It also includes some key overall dates, for easy reference. It can be used to jot down a (canonical) date that is not otherwise recorded. 
@@ -25,3 +29,7 @@ All dates in the Dwarven Count of Years.
 * (CY:: 5306) Dunmari conquer as far north as the mountains and as far west as the [[Myraeni Gap]] in a swift war. [[Jeevali]] resurrected by [[Bhishma]]’s prayers. [[Aatmaji Dynasty]] founded by [[Bhishma]].
 * (CY:: 5562) Defeat of [[Avatus]] and the founding of modern [[Sembara]]
 * (CY:: 5678) [[Great War]] ends. [[Cha'mutte]] is killed.
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective date register, using the Dwarven Count of Years; individual entries retain their stated uncertainty and do not imply continuous historical coverage.
+%%^End%%

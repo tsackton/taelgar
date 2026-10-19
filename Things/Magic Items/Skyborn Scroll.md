@@ -1,18 +1,22 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T00:07:38-04:00"
+lintVersion: "3.5"
 tags: [object]
-name: Skyborn Scroll
 typeOf: scroll
 campaignInfo:
-- {campaign: GL, type: recovered, date: 1747-07-23, wParty: "<met:U> by <person> on <target>"}
+  - {campaign: grli, type: recovered, date: 1747-07-23, wParty: "<met:U> by <person> on <target>"}
+name: Skyborn Scroll
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Skyborn Scroll
 >[!info]+ Information  
 > (scroll)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
->> %%^Campaign:GL%% Recovered by the [[Silver Tempests]] on July 23rd, 1747 %%^End%%
+>> %%^Campaign:grli%% Recovered by the [[Silver Tempests]] on July 23rd, 1747 %%^End%%
 
 One of [[Airion|Airion Mistspeaker]]’s four lost elemental scrolls, associated with air.
 
@@ -26,3 +30,11 @@ See: [[Great Library Session Notes - Arc 1]]
 [[Zadkai]]
 [[Elemental Scrolls of Airion]]
 %%
+
+%%^Metadata:names:v1%%
+- {name: Skyborn Scroll, language: Common, status: inferred}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the dated block records the scroll's recovery and return to Chardon in DR 1747.
+%%^End%%

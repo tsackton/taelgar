@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-18T23:43:15-04:00"
+lintVersion: "3.5"
 tags: [person]
 species: human
 ancestry: Sembaran
@@ -9,6 +11,7 @@ name: Arnault Daverre
 pronunciation: ar-NOH dah-VEHR
 whereabouts: Peydon
 knownTo: [clee]
+POV: modern
 ---
 # Arnault Daverre
 *(ar-NOH dah-VEHR)*
@@ -21,4 +24,8 @@ Arnault Daverre was the husband of [[Emeric Daverre]], lord of [[Peydon]]. He st
 
 %%^Metadata:names:v1%%
 - {name: Arnault Daverre, role: primary, language: Sembaran, pronunciation: ar-NOH dah-VEHR, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective account of Arnault’s marriage, antiquarian interests, and death during the undead attacks of DR 1720.
 %%^End%%
