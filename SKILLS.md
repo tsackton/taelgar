@@ -1,8 +1,8 @@
 # Taelgar Skills
 
-Last reviewed: **2026-10-18**
+Last reviewed: **2026-10-20**
 
-This guide covers the 21 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
+This guide covers the 22 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
 
 Describe the task in ordinary language, or name a skill explicitly with `$skill-name`. Include the relevant note, session, source, or folder and what you want done. The linked skill instructions define the actual workflow and approvals; this guide is a way to choose the right starting point.
 
@@ -36,6 +36,7 @@ These are normally called by the session pipeline, except for the optional trans
 | [review-stub-staging](.agents/skills/review-stub-staging/SKILL.md) | Works with you to complete a person or place page from evidence and your corrections, including identity information, pronunciation, and the generated header. After approval, it retires stub status and files Staging pages where appropriate. Full linting is a separate choice. | “Help me complete this person stub,” or “Review this place in Staging and prepare it for filing.” |
 | [lint-taelgar-note](.agents/skills/lint-taelgar-note/SKILL.md) | Reviews eligible notes for metadata, structure, links, source support, and editorial completeness or currency. Records open findings or a completed clean review. Worldbuilding and dot/underscore directories are excluded. | “Lint these three reference notes,” or “Re-lint this previously reviewed page.” |
 | [lint-cleanup](.agents/skills/lint-cleanup/SKILL.md) | Resolves existing findings that concern only names, language, or pronunciation in small reviewed batches. It does not perform a new full lint. | “Find a batch of name-only lint findings and work through them with me.” |
+| [batch-lint-cleanup](.agents/skills/batch-lint-cleanup/SKILL.md) | Presents name-only lint proposals and full original reports in an open review document, with language guesses for adoption, batch approval, and selective row regeneration. It does not re-lint. | “Prepare ten name-only lint reviews; let me approve the batch or redo selected rows.” |
 | [review-linked-notes](.agents/skills/review-linked-notes/SKILL.md) | Collects the context pages linked from selected notes or session recaps, presents the scope, and coordinates approved creation and linting. It reviews the surrounding pages rather than rewriting the source note. A named ready subset can proceed with approval while blocked pages remain pending. | “Review the people and places linked from this session.” |
 | [vault-brainstorming-cleanup](.agents/skills/vault-brainstorming-cleanup/SKILL.md) | Finds substantial noncanonical idea passages and proposes their extraction, organization, consolidation, or retirement in reviewed batches. It preserves uncertainty and does not adopt ideas as canon. | “Find overlapping brainstorming about this region and propose a cleanup.” |
 
