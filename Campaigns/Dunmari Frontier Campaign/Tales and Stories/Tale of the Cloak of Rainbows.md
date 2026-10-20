@@ -1,5 +1,10 @@
 ---
-tags: [source]
+lintedAt: "2026-10-20T09:32:28-04:00"
+lintVersion: "3.5"
+tags: [source, status/check/lint]
+campaign: Dunmar Frontier
+name: Tale of the Cloak of Rainbows
+POV: 1749
 ---
 
 *He tells of the first days of the [[People of the Rainbow]], before there was a cloak. He tells of Ilios the Bright, who fell through the world when he was just an infant, not yet chained to [[Thark]]'s will, and grew strong in the [[Fey]] realm of [[Amberglow]], under a sunset sky free of [[Thark]]'s influence. Ilios, it is said, had a [[Fey]] energy that could not be contained. His eyes shone with moonlight, and his swords flashed silver. He began to raid across the foothills of the [[Sentinel Range|Sentinels]], where small, disorganized groups of [[Orcs]], families and tribes hidden from the Drankorian patrols lived. Ilios stole the unchained babies from these tribes, and brought them to [[Amberglow]], where The [[People of the Rainbow]] grew in secret, protected by the [[Cloudspinner]].* 
@@ -8,6 +13,23 @@ tags: [source]
 
 *[[Azogar]]'s voice shifts, and he tells the story of the days in the world when the [[People of the Rainbow]] ventured forth, the quiet days, living lives of fields and flowers. In the story of their history, this was a remembered time of peace and happiness, but it could not last, for [[Azogar]] turns to the tale of [[Cha'mutte]], and [[Apollyon]].* 
 
-*[[Cha'mutte]], it is said, traveled among the [[Orcs]], teaching them, preaching the fate he sought for all the people of the world: freedom from the divine, as the [[People of the Rainbow]] had found. But then betrayal, whether intentional or not, telling [[Apollyon]] of the dream, of the cloak. And then the war, and loss, and defeat as [[Apollyon]] turned on the [[Orcs]] and stole the cloak. That this because [[Apollyon]]'s downfall, as [[Cha'mutte]] turned on his former ally, was no comfort, and [[Azogar]] speaks bitter words as he tells how the cloak was lost and the [[People of the Rainbow]] scattered to hide in small groups where they could. 
+*[[Cha'mutte]], it is said, traveled among the [[Orcs]], teaching them, preaching the fate he sought for all the people of the world: freedom from the divine, as the [[People of the Rainbow]] had found. But then betrayal, whether intentional or not, telling [[Apollyon]] of the dream, of the cloak. And then the war, and loss, and defeat as [[Apollyon]] turned on the [[Orcs]] and stole the cloak. That this became [[Apollyon]]'s downfall, as [[Cha'mutte]] turned on his former ally, was no comfort, and [[Azogar]] speaks bitter words as he tells how the cloak was lost and the [[People of the Rainbow]] scattered to hide in small groups where they could.*
 
-*Until, after the [[Great War]], the hero [[Uzgash]] found the cloak unexpectedly amongst the ruins of a Dunmari fort, and with the cloak proclaimed the safe haven of [[Xurkhaz]], the land of the rising sun, a beacon of hope for the scattered [[People of the Rainbow]].* 
+*Until, after the [[Great War]], the hero [[Uzgash]] found the cloak unexpectedly amongst the ruins of a Dunmari fort, and with the cloak proclaimed the safe haven of [[Xurkhaz]], the land of the rising sun, a beacon of hope for the scattered [[People of the Rainbow]].*
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `campaign: Dunmar Frontier`, the explicit display name, and `POV: 1749`.
+- Corrected “That this because [[Apollyon]]'s downfall” → “That this became [[Apollyon]]'s downfall”.
+- Restored missing closing emphasis delimiters on 1 paragraphs.
+
+### Validated judgments
+- The title is a descriptive label for a source record, not an established name of an in-world work; no name block applies.
+- The documentary speaking frame is DR 1749, supported by [[Session 89 (DuFr)]]; older memories and reported beliefs remain attributed source content.
+
+### Open findings
+
+- [ ] **Suggestion — consistency.name_spelling:** The second paragraph says “Azagar speaks”, while the following paragraphs identify the speaker as [[Azogar]]. [[Session 89 (DuFr)]] names Loremaster Azogar as the performer. Confirm the intended speaker; if the same, replace only “Azagar” with “Azogar”.
+%%^End%%

@@ -1,6 +1,11 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:32:28-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: "Nameless Chardonian Warrior's Story"
+POV: 1748
 ---
 # Nameless Chardonian Warrior's Story
 ([[Session 64 (DuFr)|collected by]] [[Kenzo]])

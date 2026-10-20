@@ -1,5 +1,10 @@
 ---
-tags: [source]
+lintedAt: "2026-10-20T09:32:28-04:00"
+lintVersion: "3.5"
+tags: [source, status/check/lint]
+campaign: Dunmar Frontier
+name: The Dunmari Monsoon
+POV: 1748
 ---
 
 Across Dunmar, the coming of the rains marks the turning of the seasons, the transition from the hot, dusty summer at the end of the dry season, to the lush green of the monsoon.
@@ -17,3 +22,18 @@ In Askandi, to the south, in the deepest part of the rain shadow of the Yuvanti 
 Further east, in the depths of the [[Garamjala Desert]], the rain will come last of all, its energy spent. Only a few thunderstorms will likely arrive in the dry deserts of the high plateau, but even that trickle of water will be enough for the Kharja to spring to life, for the deserts to bloom, and for the life that has lain dormant, waiting for water to burst forth.
 
 But now, as the rains have just started falling in Tokra, the lands north and east still wait for relief, while our adventurers turn to the west, leaving behind the deserts and the frontiers for the settled heart of western Dunmar.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `campaign: Dunmar Frontier`, the explicit display name, and `POV: 1748`.
+
+### Validated judgments
+- The documentary speaking frame is DR 1748, supported by [[Session 42 (DuFr)]]; older memories and reported beliefs remain attributed source content.
+- The scene-setting frame has an editorial label rather than an established named in-world work, so no work-name block is added.
+
+### Open findings
+
+- [ ] **Suggestion — classification.document_profile:** The visible text is authorial scene-setting narration, ending with “our adventurers turn to the west”, and [[Session 42 (DuFr)]] uses it to open the session. It has no identified in-world author, speaker, or document. Under [[Note Categorization]], `story` appears to fit better than `source`. Confirm the provenance; if this is standalone GM-authored narration, change only `tags: [source]` to `tags: [story]` (retaining the lint tag while this decision remains open), and retain any known author/source date. If it represents a particular in-world document or narrator, retain `source` and identify that frame instead.
+%%^End%%

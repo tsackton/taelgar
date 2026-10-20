@@ -1,6 +1,11 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:32:28-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: Tree’s Story
+POV: 1748
 ---
 # Tree’s Story
 ([[Session 64 (DuFr)|collected by]] [[Kenzo]])
@@ -15,4 +20,4 @@ The tickles of birds and monkeys and the life of the jungle, the percussion of t
 
 The long, slow pace of the seasons, breaths as long as years, the pulse of rain and sun and sun and rain, reaching deeper and deeper, anchoring Tree's ever-taller and stronger body deeper and deeper in the rich, life-giving earth.  
 
-The thrill of connection upon hearing the song of a daughter-tree in the forest symphony, the dance between wood and spirit indicating a fragment of the forest soul has found a home. 
+The thrill of connection upon hearing the song of a daughter-tree in the forest symphony, the dance between wood and spirit indicating a fragment of the forest soul has found a home.
