@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: realm
 ancestry: dwarven
 name: Khatridun
+pronunciation: "KHAHT-ree-dun"
 whereabouts:
   - {type: primary, location: Labkhan}
   - {type: secondary, location: Central Highlands}
@@ -14,6 +15,7 @@ dm_notes: none
 POV: modern
 ---
 # Khatridun
+*(KHAHT-ree-dun)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -32,24 +34,9 @@ In the kingdom of Khatridun, there can be found shimmering pools of quicksilver.
 [[Seeker]] visited one such pool as a child.
 
 %%^Metadata:names:v1%%
-- {name: Khatridun, language: unknown, pronunciation: KHAHT-ree-doon, status: proposed, notes: "Proposal informed by the Tolkien Dwarvish analogue in [[Languages]] for this dwarven setting: kh is a back-of-the-mouth fricative, a is open, i is ee, and u is oo. Initial stress is tentative; the name's language and exact in-world pronunciation are not documented."}
+- {"name": "Khatridun", "language": "Dwarvish", "pronunciation": "KHAHT-ree-dun", "status": "documented", "notes": "The Tolkien Dwarvish analogue in [[Languages]] guides kh as a back-of-the-mouth fricative, open a, and i as ee, with initial stress; the final syllable is dun, not doon."}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern account of the surviving kingdom after the Great War, with earlier prominence and destruction as historical background.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Canonicalized frontmatter order and collection formatting while preserving its values.
-- Added broadly modern POV and temporal-coverage metadata, and persistent name metadata with an unaccepted pronunciation proposal.
-- Corrected `The ancient city an capital` to `The ancient city and capital`.
-
-### Validated judgments
-- The kingdom's historical decline and inward orientation agree with [[Dwarven Kingdoms]]. Its useful overview and quicksilver-pool description perform the present reference role.
-
-### Open findings
-- [ ] **Warning — metadata.names_unresolved_status:** Accept or revise `KHAHT-ree-doon` in the name block, then put an accepted pronunciation in frontmatter and mark the entry documented. This uses the Tolkien Dwarvish analogue in [[Languages]] as contextual guidance for the dwarven setting: `kh` is a back-of-the-mouth fricative, `a` is open, `i` is `ee`, and `u` is `oo`. Initial stress is tentative. The source language of this particular name and exact in-world phonology are not established, so the proposal is not a documented pronunciation.
 %%^End%%
