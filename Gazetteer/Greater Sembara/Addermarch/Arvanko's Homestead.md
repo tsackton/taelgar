@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: building
 typeOfAlias: homestead
 name: "Arvanko's Homestead"
@@ -24,23 +24,9 @@ His home is notable for the still-growing, hand-carved stone monument, shaped fr
 %% DM: [[Roscombe Ranger Camp]] - note that this note takes precedence if there are inconsistencies %%
 
 %%^Metadata:names:v1%%
-- {"name":"Arvanko's Homestead","language":"unknown","pronunciation":"ar-VAHN-kohz HOHM-sted","status":"proposed","notes":"Combines the documented ar-VAHN-koh in [[Arvanko]] with the ordinary possessive and Common word Homestead; the complete compound pronunciation is proposed."}
+- {"name": "Arvanko's Homestead", "language": "Common", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a DR 1715 description of Arvanko's occupied homestead and unfinished monument; later occupancy and completion are not established.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter formatting; added primary name metadata and a DR 1715 POV with temporal coverage.
-
-### Validated judgments
-- No additional validated judgments.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Review the proposed complete pronunciation `ar-VAHN-kohz HOHM-sted` in `Metadata:names:v1`. The personal-name component is documented as `ar-VAHN-koh` in [[Arvanko]]; the added possessive and Common word Homestead supply the rest, without an invented sound rule. The complete compound is not independently recorded. If accepted, mark the entry `status: documented` and add `pronunciation: ar-VAHN-kohz HOHM-sted` to frontmatter; otherwise amend the proposal.
 %%^End%%

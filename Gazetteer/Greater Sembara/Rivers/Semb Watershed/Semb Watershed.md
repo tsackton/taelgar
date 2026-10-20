@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: watershed
 name: Semb Watershed
 whereabouts:
@@ -93,25 +93,9 @@ dv.table(["Place", "Type Of"],
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {"name":"Semb Watershed","language":"unknown","pronunciation":"SEMB WAW-ter-shed","status":"proposed","notes":"Proposed using the English side of the Sembaran analogues in [[Languages]]: Semb is one syllable with short e and both final consonants; watershed has its ordinary English reading. The exact name language and accepted pronunciation are not established."}
+- {"name": "Semb Watershed", "language": "Common", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern basin geography and the river-port role of Embry; no narrower dated state is asserted.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter order and collection formatting while preserving parsed values.
-- Added a persistent name entry, preserving recorded pronunciation and meaning and leaving unsupported language unknown.
-- Recorded POV: modern and concise persistent temporal interpretation.
-
-### Validated judgments
-- No additional validated judgments.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent name entry proposes `SEMB WAW-ter-shed`. Proposed using the English side of the Sembaran analogues in [[Languages]]: Semb is one syllable with short e and both final consonants; watershed has its ordinary English reading. The exact name language and accepted pronunciation are not established. Confirm or replace this full-name proposal; if accepted, copy it to frontmatter and mark the existing entry `documented`.
 %%^End%%

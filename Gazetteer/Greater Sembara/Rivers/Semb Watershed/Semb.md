@@ -3,10 +3,11 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: waterway
 typeOfAlias: river
 name: Semb
+pronunciation: "SEMB"
 aliases: [River Semb]
 whereabouts:
   - {type: primary, location: Greater Sembara}
@@ -16,6 +17,7 @@ dm_notes: none
 POV: modern
 ---
 # The Semb
+*(SEMB)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -23,7 +25,7 @@ POV: modern
 A major river that flows from the [[Sentinel Range|Sentinels]] to the [[Western Gulf]]. It is navigable for almost its entire length and is one of the major riverways of [[Greater Sembara]].
 
 %%^Metadata:names:v1%%
-- {"name":"Semb","language":"unknown","status":"proposed","pronunciation":"SEMB","notes":"Preferred English-strand Sembaran analogue proposal in [[Languages]]: short e, audible final mb, one syllable. The name language is unestablished; a French-strand nasal-vowel reading could differ."}
+- {"name": "Semb", "language": "Sembaran", "status": "documented", "pronunciation": "SEMB", "notes": "English-strand Sembaran analogue in [[Languages]]: short e, audible final mb, one syllable."}
 %%^End%%
 
 %%^Metadata:map:v1%%
@@ -34,21 +36,4 @@ locations:
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern geography; no narrower speaking position is required by the visible account.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter and recorded explicit identity where previously supplied by the filename.
-- Added persistent name metadata, preserving accepted pronunciations and keeping unaccepted readings proposed.
-- Recorded explicitly listed watershed-inventory endpoints in canonical world-map coordinate format.
-- Recorded POV: modern and concise temporal coverage in persistent metadata.
-
-### Validated judgments
-- No additional validated judgments.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Confirm or correct `SEMB` for Semb. Preferred English-strand Sembaran analogue proposal in [[Languages]]: short e, audible final mb, one syllable. The name language is unestablished; a French-strand nasal-vowel reading could differ. If accepted, mark this name entry `documented` and copy the accepted primary pronunciation into frontmatter; otherwise replace it with the intended pronunciation while preserving established name context.
 %%^End%%
