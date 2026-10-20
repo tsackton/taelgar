@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
-tags: [event, status/check/lint]
+tags: [event]
 typeOf: uprising
 DR: 1749-05-27
 DR_end: 1749-07-09
@@ -67,25 +67,11 @@ The settlement came through the actions of the [[Dunmar Fellowship]] to secure a
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {"name": "Chardon Chalyte Riots", "language": "unknown", "pronunciation": "CHAR-din KAL-ih-teh RYE-uhts", "status": "proposed", "notes": "[[Chardon]] documents CHAR-din. The chalyte component is an unaccepted Latinate adaptation of the Chardonian Latin/Italian guidance in [[Languages]]: learned ch as k, short a, y approximated as ih, a pronounced final e as eh, and initial stress assuming a short penult. Riots is ordinary English; neither chalyte’s language nor exact pronunciation is established."}
+- {"name": "Chardon Chalyte Riots", "language": "Common"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: A retrospective account of the May–July DR 1749 unrest and reforms, with stabilization continuing into early August; DR_end is explicitly retained as the author’s approximate July 9 endpoint.
 %%^End%%
 
-%%^Lint%%
-## Taelgar note lint
 
-### Applied changes
-- Normalized frontmatter formatting and added persistent name and temporal-viewpoint metadata.
-- Corrected “quickly engufling much” to “quickly engulfing much”.
-- Corrected “largely subconcious religious undertone” to “largely subconscious religious undertone”.
-
-### Validated judgments
-- Sessions 117, 124, and 129 corroborate the onset, martial law, leadership disruption, and eventual reform sequence. The author explicitly qualifies July 9 as an approximate endpoint in the shared notes.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The full-name proposal `CHAR-din KAL-ih-teh RYE-uhts` preserves the accepted `CHAR-din` in [[Chardon]]. The chalyte component remains unaccepted: it adapts the Chardonian Latin/Italian analogue in [[Languages]] with learned ch as k, short a, y approximated as ih, a pronounced final e as eh, and initial stress assuming a short penult; an Anglicized mineral-name -ite ending is also possible. [[Chalyte]] supplies no accepted pronunciation or certain name-language origin. Confirm or replace the component and full form; on acceptance, mark the entry documented and copy the full pronunciation to frontmatter.
-%%^End%%
