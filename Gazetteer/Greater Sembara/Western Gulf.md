@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-name: Western Gulf
+lintedAt: "2026-10-20T01:11:18-04:00"
+lintVersion: "3.5"
+tags: [place]
 typeOf: marine feature
+typeOfAlias: gulf
+name: Western Gulf
 whereabouts: Green Sea
 dm_owner: none
 dm_notes: none
-typeOfAlias: gulf
+POV: modern
 ---
 # The Western Gulf
 >[!info]+ Information  
@@ -20,4 +22,12 @@ While most of the Western Gulf is a relatively shallow sea, mariners speak of th
 
 %%^Date:1700%%
 Over its long history, the Western Gulf has seen many maritime powers, from the [[Skaer]] to the [[Drankorian Empire]] to the [[Cymea|Cymeans]], lay claim to its waterways. In the current day, it is largely controlled by the navy of the [[Tollen|Free City of Tollen]], which extensively patrols and interdicts pirates, keeping shipping lanes safe. 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Western Gulf", "language": "Common", "status": "inferred"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography and attributed planar rumors; the existing Date:1700 block limits the account of current Tollish naval control.
 %%^End%%

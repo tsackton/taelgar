@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T01:11:18-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the}
 tags: [place]
-aliases: [Sembaran Borderlands]
-displayDefaults: { defArt: the }
-whereabouts: Sembara
 typeOf: realm
 typeOfAlias: group of baronies
+name: Borderlands
+aliases: [Sembaran Borderlands]
+whereabouts: Sembara
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Borderlands
 >[!info]+ Information  
@@ -23,4 +27,12 @@ They run, from west to east:
 * [[Barony of Serest]],  bordered on the east by the [[Clavert]]
 * [[Barony of Chantelierre]], bordered on the east by the [[Aure]]
 
-South of these baronies is the remains of the ancient [[Barony of Vaubonne]], bordered on the south by the [[Clavert]].  South of the [[Clavert]] are the two border baronies: the [[Barony of Brumecliff]], in the west, and the [[Barony of Mostreve|Barony of Mostrevé]], in the east.
+South of these baronies are the remains of the ancient [[Barony of Vaubonne]], bordered on the south by the [[Clavert]].  South of the [[Clavert]] are the two border baronies: the [[Barony of Brumecliff]], in the west, and the [[Barony of Mostreve|Barony of Mostrevé]], in the east.
+
+%%^Metadata:names:v1%%
+- {"name": "Borderlands", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern composition and geography of the Sembaran Borderlands; the post-hobgoblin-war foundations are historical background.
+%%^End%%

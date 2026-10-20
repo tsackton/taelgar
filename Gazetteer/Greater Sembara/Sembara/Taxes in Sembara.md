@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
-dm_notes: none
+lintedAt: "2026-10-20T01:11:18-04:00"
+lintVersion: "3.5"
+tags: [background, status/check/lint]
+name: Taxes in Sembara
 dm_owner: mike
+dm_notes: none
+POV: modern
 ---
 # Taxes in Sembara
 
@@ -23,7 +27,7 @@ There are five formal taxes that are levied regularly:
 * The *hearth tax* is collected every spring, the week after [[~Some Spring Holiday~]], from the lord of the manor, on behalf of the crown. The hearth tax is collected at the rate of ~tbd~ in the spring. Poor homes without a hearth do not have to pay the hearth tax, and large estates, with multiple hearths, must pay for each hearth. This is also only collected on crownhold land, and in cities or towns outside a manor, the city leadership is responsible for collecting the hearth tax and remitting it to the duke or monarch, in place of a manorial lord
 * The *honorus* is collected in August and December, from the manors to the baron. This varies between manors, and is fixed as an agreement between the baron and the manorial lord, when the manor is created. It is often renegotiated when the manor is inherited. 
 ## Manorial Taxes
-In order to remit the honorus to their barons, the lords of the manor have a wide variety of legal options for generating revenue from their manors, in addition to the profits from the demesne and any leasehold land within the manor. This include:
+In order to remit the honorus to their barons, the lords of the manor have a wide variety of legal options for generating revenue from their manors, in addition to the profits from the demesne and any leasehold land within the manor. These include:
 
 * the right to tax inns and taverns, on crownland
 * the right to collect tolls from bridges, ferries, gates, and roads
@@ -38,7 +42,7 @@ Market taxes are much more common in cities, and usually represent the main fund
 ## War Taxes
 The monarch reserves the right to impose an occasional tax on the populace, usually collected via the barons, but in some cases potentially collected directly by agents of the crown, such as the army, to support major wars or other significant state expenses. This is a fixed tax on all movable goods (coins and jewelry), usually of around 5% of the worth, although at times it could be higher. This tax is rarely collected. Legally, the war tax is allowed to be collected from anyone residing in Sembara, but in practice it is usually not collected from the peasantry who have few coins. 
 ## Military Host *Honorus*
-Although the *honorus* is usually though of as a tax paid by a manorial lord for the privilege of controlling the manor. However, in some areas where the military is extremely active, and needs support from the the local manorial lord for activities such as road building or creating defenses, the military will pay a *honorus* to the baron (usually) or lord of the manor. 
+The *honorus* is usually thought of as a tax paid by a manorial lord for the privilege of controlling the manor. However, in some areas where the military is extremely active, and needs support from the local manorial lord for activities such as road building or creating defenses, the military will pay a *honorus* to the baron (usually) or lord of the manor.
 ## Gifts and Inheritances
 The peerage of Sembara has a few other less formal sources of additional revenue. These include:
 
@@ -48,7 +52,7 @@ The peerage of Sembara has a few other less formal sources of additional revenue
 
 Although there is no formal inheritance tax, and encumbering [[Land Holding in Sembara|freehold]] property is illegal, [[Land Holding in Sembara|leasehold]] property, as well as manors and baronies can have fees associated with inheritance. Additionally, in many circumstances, if no suitably close heir can be found (usually the heir is expected to be either within three degrees of relationship or of longstanding friendship) the property reverts to the lord (or the manor to the baron, or the barony to the sovereign or duke).
 
-Additionally the feudal lords, including the lords of the manor, can generally expect gifts, often considered mandatory, at significant occasions, including marriage and the birth of a child. A significant portion of these gifts, in many cases, is used to fund temple building, devotions, and celebrations. These gifts are one of the major sources of funding for the crown from the nobility, and the occasions and amounts of this type of gift is subject only to custom, not law. 
+Additionally the feudal lords, including the lords of the manor, can generally expect gifts, often considered mandatory, at significant occasions, including marriage and the birth of a child. A significant portion of these gifts, in many cases, is used to fund temple building, devotions, and celebrations. These gifts are one of the major sources of funding for the crown from the nobility, and the occasions and amounts of this type of gift are subject only to custom, not law.
 
 Hosting a lord can also be an expensive proposition, as it is not uncommon for the guest, should they be higher ranked than the lord, to expect gifts, usually of goods such as wine, meat, furs, or beer. Similarly, when a lord visits a higher ranked noble, gifts are often expected, usually of jewels, artwork, clothes, but occasionally of gold or silver. These types of gifts are customary, not required, but it is not unheard of for a somewhat impoverished baron to go on a grand tour of their barony to replenish their funds.
 ## Import Duties
@@ -79,7 +83,7 @@ Halflings are a somewhat chaotic race, and although they are not thieves, they h
 
 This attitude typically means that halflings are only willing to pay taxes they see are fair, and although that means that sometimes a halfling will refuse to pay a bridge toll, wise lords usually let this slide, and hope to make it up in the future when a different halfling overpays. Usually, this ends up being the best choice.
 
-Halflings without a fixed residence are legally exempt from the wealth tax and all market monopolies, although a halfling that establishes a home within a lords manor would usually be legally obligated to respect local monopoly -- although of course a lord does not have to enforce their own law. Halfling inns are legally exempt from taxes on inns and taverns as well, although some halflings choose to offer gifts in lieu of the tax. 
+Halflings without a fixed residence are legally exempt from the wealth tax and all market monopolies, although a halfling that establishes a home within a lord’s manor would usually be legally obligated to respect local monopoly -- although of course a lord does not have to enforce their own law. Halfling inns are legally exempt from taxes on inns and taverns as well, although some halflings choose to offer gifts in lieu of the tax.
 
 Halfling property owners are legally obligated to pay the hearth tax and other property taxes, but of course they do not always, and royal audits of the collected hearth taxes have significant discretion to forgive lords who did not collect hearth taxes from halflings.
 
@@ -88,13 +92,36 @@ Halflings pay gifts to lords at their whim.
 
 Of course, there is a wide variety of species on Taelgar, beyond dwarves, halflings, and lizardfolk. But they are all rare enough that there are no formal rules. Some general guidelines, though:
 
-* Property taxes (deca, nonem, hearth tax) generally applies to anyone occupying property, but there is legal precedent for the idea of effectively pretending like some land is folkland even when it isn't
+* Property taxes (deca, nonem, hearth tax) generally apply to anyone occupying property, but there is legal precedent for the idea of effectively pretending like some land is folkland even when it isn't
 * Tolls are usually expected to be paid by everyone
 * Merchant and market taxes are usually expected to be paid by everyone, although there is significant discretion for the lord to be selective about how these are applied
 * Monopolies are generally enforced only on those selling to the general public, although there is significant discretion for the lord to be selective about how these are applied. 
-* War taxes are usually collected on everyone of significant wealth and statue, and most commonly by agents of the crown. There is significant precedent around allowing war taxes to be paid in kind, i.e. via services rendered, or magic provided, or other benefits to the war effort that are not funds. Outside of this, it is most common for war taxes to be collected from non-humans, although the agents usually have limited mechanisms to enforce their collections against those who of any real power who refuse. Additionally, there is limited means to collect taxes from those whose wealth is in unusual or unrecognizable forms. 
+* War taxes are usually collected on everyone of significant wealth and stature, and most commonly by agents of the crown. There is significant precedent around allowing war taxes to be paid in kind, i.e. via services rendered, or magic provided, or other benefits to the war effort that are not funds. Outside of this, it is most common for war taxes to be collected from non-humans, although the agents usually have limited mechanisms to enforce their collections against those of any real power who refuse. Additionally, there are limited means to collect taxes from those whose wealth is in unusual or unrecognizable forms.
 * Informal funds, such as gifts, are usually not expected to be provided, but there is significant variation from situation to situation
 
 It is worth noting that there are of course a wide variety of sentient beings on Taelgar, not all of whom fit into the human mold. The rules above broadly apply to the mortal species - such as stoneborn, elves, and kenku - who, broadly, settle in a community alongside the more common human, halfling, and dwarf denizens.  Lots of other sentient creatures exist, and they are rarely neutral. A dryad, or a tribe of a hundred centaurs, or a band of satyrs holding an endless party, or a family of giant eagles, or a coven of hags -- or any similar being -- these are totally different matters, for the powerful and magical to deal with, or the village to survive, or perhaps benefit from. 
 
 It would be an unusually brave and foolhardy lord who would send tax collectors to a hag's hut to recover the hearth tax. These types of incursions - either great dangers or great boons - exist entirely outside any legal framework.
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern Sembaran taxation and customs; the hearth-tax rate and exact festival-linked collection date remain unspecified.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter ordering and collection formatting.
+- Added the explicit display name from the existing title and filename.
+- Added modern POV and persistent temporal-coverage metadata.
+- Corrected objective wording defects: “This include:” → “These include:”; “Although the *honorus* is usually though of as a tax paid by a manorial lord for the privilege of controlling the manor.” → “The *honorus* is usually thought of as a tax paid by a manorial lord for the privilege of controlling the manor.”; “from the the local manorial lord” → “from the local manorial lord”; “the occasions and amounts of this type of gift is subject” → “the occasions and amounts of this type of gift are subject”; “within a lords manor” → “within a lord’s manor”; “generally applies to anyone occupying property” → “generally apply to anyone occupying property”; “significant wealth and statue” → “significant wealth and stature”; “against those who of any real power who refuse” → “against those of any real power who refuse”; “there is limited means to collect taxes” → “there are limited means to collect taxes”.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — content.internal_conflict:** The Yearly Taxes introduction says “five formal taxes” but lists four: deca, nonem, hearth tax, and honorus. Confirm whether one is omitted. If the list is complete, the copy-ready introduction is “There are four formal taxes that are levied regularly:”; otherwise retain five and add the established missing tax. The lint cannot choose between these interpretations.
+
+- [ ] **Suggestion — editorial.prose_clarity:** The hearth-tax bullet publicly contains `[[~Some Spring Holiday~]]` and `~tbd~`, leaving its collection anchor and rate unspecified. Supply adopted values, or use this bounded interim bullet and retain the development reminder in a comment: “The hearth tax is collected every spring from the lord of the manor on behalf of the crown, and applies only to crownland. It is charged per hearth: poor homes without a hearth are exempt, while large estates pay for each hearth. In towns and cities outside a manor, city leaders collect it and remit it to the duke or monarch.” This preserves the established mechanism without inventing a rate or holiday.
+%%^End%%

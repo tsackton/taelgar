@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T01:11:18-04:00"
+lintVersion: "3.5"
 tags: [background]
-dm_notes: none
+name: Coinage of Sembara
 dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # Coinage of Sembara
 
@@ -18,7 +22,10 @@ The Sembaran crown mints gold and silver coins, called royals, crowns and bits, 
 * Halfbits, worth 2 cp (a small silver coin)
 * Quarterbits, worth 1 cp (small silver coin)
 
-The most common coins are groats, halfs, bits, halfbits, and quarterbits. The recent Sembaran monarchs have mostly ensured that the gold and silver content of these coins matches the face value, but during certain periods, especially in the hundred years between the end of the [[Great War]] and the beginning of the reign of [[Cece I]], coins were occasionally debased. Spending old treasure hordes can be difficult, as unrecognized coins are sometimes mistrusted. Not all coins were minted at all times either, i.e. a specific monarch may not have minted halfbits. However, in general, there is no developed sense of "coin collectors" and it would be extremely rare for coins to be ever worth more than their "face value" in gold or silver.
+The most common coins are groats, halfs, bits, halfbits, and quarterbits. The recent Sembaran monarchs have mostly ensured that the gold and silver content of these coins matches the face value, but during certain periods, especially in the hundred years between the end of the [[Great War]] and the beginning of the reign of [[Cece I]], coins were occasionally debased. Spending old treasure hoards can be difficult, as unrecognized coins are sometimes mistrusted. Not all coins were minted at all times either, i.e. a specific monarch may not have minted halfbits. However, in general, there is no developed sense of "coin collectors" and it would be extremely rare for coins to be ever worth more than their "face value" in gold or silver.
 
 In addition [[Dwarven Coins]] circulate widely, as do dwarven trade bars: bars of gold or silver in standard weights, stamped and marked by dwarven mints. These are commonly used for large transactions and are widely trusted.
 
+%%^povNotes:v1%%
+Temporal coverage: broadly modern Sembaran coin denominations and monetary practices; historical debasement is distinguished from current circulation.
+%%^End%%

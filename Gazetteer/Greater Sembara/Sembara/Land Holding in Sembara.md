@@ -1,8 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T01:11:18-04:00"
+lintVersion: "3.5"
 tags: [background]
-dm_notes: none
+name: Land Holding in Sembara
 dm_owner: mike
+dm_notes: none
+POV: modern
 ---
 # Land Holding in Sembara
 
@@ -11,13 +15,13 @@ Land ownership in Sembara is based on a semi-feudal system where the noble peers
 * *crownland* is land ultimately under the stewardship of a sovereign, either a duke or the monarch. New crownland is created by conquest, or in the aftermath of disaster, when a sovereign simply declares that some land is now theirs. Although most crownland is not actually held by the sovereign, in certain circumstances it reverts to the sovereign
 * *folkland* on the other hand is land held by ancient right of occupation and improvement
 
-Substantially all of the land within the six duchies of Sembara is crownland, and after the disruptions of the Great War and the Blood Years, various parts of western and southern Sembara have become crownland. The major areas where folkland is still common is in the highland regions west and north of the duchies of Arnsbury, Chemin, and Telham, and scattered pieces of folkland exist through the kingdom, mostly from ancient non-human communities, but sometimes for other reasons. A longstanding halfling inn, for example, may be folkland (although the halflings may not care about the distinction in practice).
+Substantially all of the land within the six duchies of Sembara is crownland, and after the disruptions of the Great War and the Blood Years, various parts of western and southern Sembara have become crownland. The major areas where folkland is still common are in the highland regions west and north of the duchies of Arnsbury, Chemin, and Telham, and scattered pieces of folkland exist through the kingdom, mostly from ancient non-human communities, but sometimes for other reasons. A longstanding halfling inn, for example, may be folkland (although the halflings may not care about the distinction in practice).
 
-Although numerous parts, especially of western Sembara, are unimproved and unsettled crownland, the vast majority of settled land is held within a manor, which is the basic unit of  land organization. Within the manorial village, the agricultural land is controlled by the lord, or in some cases, a castellan for baron or duke. Arranged in open field systems, each commoner family controls one or more long strips of land, and has rights to the common woodlots and pasture. The legal arrangements between commoners and lords are complex but there are three main models:  
+Although numerous parts, especially of western Sembara, are unimproved and unsettled crownland, the vast majority of settled land is held within a manor, which is the basic unit of  land organization. Within the manorial village, the agricultural land is controlled by the lord, or in some cases, a castellan for a baron or duke. Arranged in open field systems, each commoner family controls one or more long strips of land, and has rights to the common woodlots and pasture. The legal arrangements between commoners and lords are complex but there are three main models:
 
 - Freehold, where the commoner owns land rights outright. This land can be sold or subleased by the owner, but the owner still owes the lord an annual manorial tax on the agricultural production of the land, unless it is folkland
 - Leasehold, where the commoner leases the land from the lord. Often these leases run for a long time, but usually cannot be inherited without permission of the lord, and the land cannot be sold by the commoner. The commoner owes annual rents, either in coin or a portion of the harvest. The remaining harvest can be sold for profit or used to support the commoner’s family. This land is definitionally crownland, and the manorial taxes are always due on this land (if it is agricultural land). Some leasehold agreements may specify that the deca, the nonem, or both are to be paid by the lord from the profits of the lease.
-- Laborhold, where the commoner leases the land from the lord in exchange for labor. This is usually a life tenure where the commoner owes the lord some number of days a year of labor for as long as they hold the land. This obligation comes with the land, and if the land is sold or transferred, the obligation is as well. Usually the land cannot be subleased, although the leaseholder may abandon the land, or hire a laborer to perform their labor service if desired.  This land is definitionally crownland, and the manorial taxes are always due on this land (if it is agricultural land). In some cases, the labor agreement may specify that the deca and nonem or both are to be paid by the lord, which is sometimes seen when the laborhold land is marginal and has significant labor service.
+- Laborhold, where the commoner leases the land from the lord in exchange for labor. This is usually a life tenure where the commoner owes the lord some number of days a year of labor for as long as they hold the land. This obligation comes with the land, and if the land is sold or transferred, the obligation is as well. Usually the land cannot be subleased, although the leaseholder may abandon the land, or hire a laborer to perform their labor service if desired.  This land is definitionally crownland, and the manorial taxes are always due on this land (if it is agricultural land). In some cases, the labor agreement may specify that the deca, the nonem, or both are to be paid by the lord, which is sometimes seen when the laborhold land is marginal and has significant labor service.
 
 (See [[Taxes in Sembara]] for more information on the deca and nonem)
 
@@ -25,9 +29,9 @@ Within the manorial village itself, the houses are usually held as leasehold, al
  
 In the years after the Blood Years, when labor was scarce, laborhold declined substantially, and today most land is held leasehold.
 ### Land Registries 
-Land registries exist in most manorial villages and all cities (see below), although in times of trouble records can be lost and recordkeeping can be spotty. The boundaries of manors sometimes shift inadvertently, and occupation on the ground can matter more than a fading legal document. It is generally the responsibility of the baron to hold recorders of the manors within their barony, and the responsibility of the crown to hold records of the baronies outside the six duchies. Each duke, in turn is responsible for baronial registries within their duchies.
+Land registries exist in most manorial villages and all cities (see below), although in times of trouble records can be lost and recordkeeping can be spotty. The boundaries of manors sometimes shift inadvertently, and occupation on the ground can matter more than a fading legal document. It is generally the responsibility of the baron to hold records of the manors within their barony, and the responsibility of the crown to hold records of the baronies outside the six duchies. Each duke, in turn, is responsible for baronial registries within their duchies.
 
-There is land court system empowered to hear disputes about property ownership, but access is usually only available to those with extensive holdings. Small land disputes are usually resolved by the local lord. 
+There is a land court system empowered to hear disputes about property ownership, but access is usually only available to those with extensive holdings. Small land disputes are usually resolved by the local lord.
 
 ### Folkland
 Land registries and deeds do record folkland, mostly to avoid disputes over whether taxes are due. However, the ancient laws of folkland make it difficult to sell to an unrelated stranger. In general, no records are kept or disputes heard about the underlying ownership of folkland, unless there is a claim of theft or other criminal practice, which is heard by the justice system, not the land courts. 
@@ -42,7 +46,7 @@ For the most part, non-humans hold land just like anyone else in Sembara (althou
 
 Lizardfolk in particular believe strongly in the idea that the land belongs to those who improve and use it, and consider all of their own land folkland, regardless of legal status. It is relatively common for Sembaran nobility to negotiate land transfers to lizardfolk which involve the alienation of crownland and it legally reverting to folkland (although these transactions officially need the acquiescence of the ducal or sovereign court, facts on the ground sometimes move faster than legal processes).
 
-Some lizardfolk believe that building a road through a wilderness, or establishing a timber town, or even defending a border, does not make all the untouched land near the road, the forest, or the border crownland. In these cases, conflict arises at times when lizardfolk settle on crownland and call it their own without any acknowledgement from the sovereign owner of the land. However, not all lizardfolk believe these.
+Some lizardfolk believe that building a road through a wilderness, or establishing a timber town, or even defending a border, does not make all the untouched land near the road, the forest, or the border crownland. In these cases, conflict arises at times when lizardfolk settle on crownland and call it their own without any acknowledgement from the sovereign owner of the land. However, not all lizardfolk believe this.
 
 Dwarves, on the other hand, broadly accept the Sembaran land ownership laws. However, they maintain large folkland landholdings across Sembara which are managed by dwarven property law and culture. It is unusual for this type of land to be transferred outside the dwarven community. 
 
@@ -50,4 +54,8 @@ Halflings rarely own land at all, and even more rarely outside of cities, althou
 
 Halflings also do not particularly respect any human property ownership laws, and will typically negotiate what they believe is a fair deal, with whoever they believe owns the land. They rarely would outright squat on land with no consideration for the owner (although no community is entirely monolithic). However, a halfling might decide that the commoner leaseholder is the proper owner, and having completed a satisfactory negotiation with the leaseholder, decide they now owned the land. When the lord appears to collect their rents, the halflings may choose to pay them, or not, depending on numerous complex factors. And most lords do not find it worthwhile to force halflings to abandon their deals - as halflings have long memories, and who knows what might happen in the future. But it is not completely unheard of for a lord to force a halfling to abandon land after refusal to pay rents.
 
-Legally, halflings have no special rights beyond a right of the commons and a right of trespass, but the noble power structures have a broad tendency to see accepting halfling deals as the wiser course, and so there are numerous situations of discretion in enforcement of strict property laws against halflings. Most barons will accept loses from their lords related to halflings, as long as the lords share the profits as well. 
+Legally, halflings have no special rights beyond a right of the commons and a right of trespass, but the noble power structures have a broad tendency to see accepting halfling deals as the wiser course, and so there are numerous situations of discretion in enforcement of strict property laws against halflings. Most barons will accept losses from their lords related to halflings, as long as the lords share the profits as well.
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern Sembaran land-tenure customs, with the post-Blood-Years decline of laborhold presented as historical background.
+%%^End%%
