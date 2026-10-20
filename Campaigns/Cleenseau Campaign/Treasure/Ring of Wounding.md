@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T23:47:22-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: ""}
 tags: [object]
-name: Ring of Wounding
-displayDefaults: {defArt: "" }
-subTypeOf: magical necromantic
 typeOf: ring
+subTypeOf: magical necromantic
 image: "[[ring-of-wounding.png]]"
 pcOwner: Heroes of Cleenseau
+name: Ring of Wounding
+knownTo: [clee]
+POV: modern
 ---
 # Ring of Wounding
 >[!info]+ Information  
@@ -18,3 +22,11 @@ pcOwner: Heroes of Cleenseau
 ### Mechanics
 _Requires Attunement_
 This ring grants the wearer the ability to cast _Inflict Wounds_ three times each day, and _Chill Touch_ at will. While attuned to this ring, the wearer's skin always feels cold to the touch. Anyone who dies while wearing this ring arises as a skeleton the next midnight.
+
+%%^Metadata:names:v1%%
+- {"name": "Ring of Wounding", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose describing the object and its recorded recovery; no narrower temporal frame is required by the visible account.
+%%^End%%

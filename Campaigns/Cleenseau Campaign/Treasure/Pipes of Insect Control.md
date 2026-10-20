@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [object]
+lintedAt: "2026-10-19T23:47:22-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
+tags: [object]
 typeOf: pipes
 subTypeOf: magic
+ancestry: fey
+image: "[[pipes-of-insect-control.png]]"
+pcOwner: Viepuck
 name: Pipes of Insect Control
 whereabouts: Viepuck
-image: "[[pipes-of-insect-control.png]]"
-ancestry: fey
-pcOwner: Viepuck
+knownTo: [clee]
+POV: modern
 ---
 # Pipes of Insect Control
 >[!info]+ Information  
@@ -28,4 +32,12 @@ This rough set of pan pipes can be used to control an insect. As a Magic action,
 
 If a single insect that is not Immune to the Charmed condition is subjected to the **Calm** effect three times each day, for five consecutive days, the insect is Charmed by the pipes. Only a single insect can be charmed by the pipes at one time.
 
-These pipes have 3 changes, which reset each dawn.
+These pipes have 3 charges, which reset each dawn.
+
+%%^Metadata:names:v1%%
+- {"name": "Pipes of Insect Control", "language": "Common", "status": "inferred", "notes": "Plain-English descriptive name; no pronunciation guide is needed."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference description of the object and its properties, with retrospective recovery history; no narrower reading position is required by the undated article.
+%%^End%%

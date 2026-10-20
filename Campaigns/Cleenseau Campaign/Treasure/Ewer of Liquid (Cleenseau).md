@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T23:47:22-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: ""}
 tags: [object]
-name: Ewer of Liquid
-displayDefaults: {defArt: "" }
-subTypeOf: magical
 typeOf: ewer
-whereabouts: Heroes of Cleenseau
+subTypeOf: magical
 ancestry: Drankorian
 image: "[[ewer-of-liquid.png]]"
 pcOwner: Heroes of Cleenseau
+name: Ewer of Liquid
+whereabouts: Heroes of Cleenseau
+knownTo: [clee]
+POV: modern
 ---
 # Ewer of Liquid
 >[!info]+ Information  
@@ -36,3 +40,11 @@ The jug has 3 uses each day, each of which can produce a single liquid. The maxi
 | Water, fresh | 12 gallons |
 | Water, salt  | 12 gallons |
 | Wine         | 1 gallon   |
+
+%%^Metadata:names:v1%%
+- {"name": "Ewer of Liquid", "language": "Common", "status": "inferred", "notes": "Plain-English descriptive name; no pronunciation guide is needed."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference description of the object and its properties, with retrospective recovery history; no narrower reading position is required by the undated article.
+%%^End%%

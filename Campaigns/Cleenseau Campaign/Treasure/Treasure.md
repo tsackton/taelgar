@@ -1,10 +1,15 @@
 ---
-tags: [meta, status/check/ai]
+lintedAt: "2026-10-19T23:47:22-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/ai, status/check/lint]
+campaign: Cleenseau
+name: Treasure
+POV: 1720s
 ---
 # Party Treasure
 
-## Treasure Hordes
-This section lists the contents of major treasure hordes. 
+## Treasure Hoards
+This section lists the contents of major treasure hoards.
 ### Bandit Lair
 The bandit lair that the party explored in [[Cleenseau - Session 03]] contained a number of treasures and valuables:
 * (DONATED) 50 heavy gold coins, from the reign of Derrick III, found in the bandit lair (returned to [[Rosalind Essford|Rosalind]] as salvage)
@@ -12,7 +17,7 @@ The bandit lair that the party explored in [[Cleenseau - Session 03]] contained 
 - The [[Ewer of Liquid (Cleenseau)|Ewer of Liquid]]
 - The [[Pipes of Insect Control]]
 ### Wakog's Camp
-Although the ogre [[Wakog]] had a number of trade goods and valuables, the party returned those to help those whose livelihoods were ruined by Wakog. A number of magic items were recovered however:
+Although the ogre [[Wakog]] had a number of trade goods and valuables, the party returned those to help those whose livelihoods were ruined by Wakog. A number of magic items were recovered, however:
 * [[Boots of False Tracks (Viepuck)|Boots of False Tracks]]
 * [[Shield of False Life]]
 * [[Ring of Jumping (Robin)|Ring of Jumping]]
@@ -20,11 +25,11 @@ Although the ogre [[Wakog]] had a number of trade goods and valuables, the party
 In [[Cleenseau - Session 08]] and [[Cleenseau - Session 09]] the party explored a ruined Sembaran fort underneath [[Essford Manor]], and found a number of magic items:
 * [[Ring of Wounding]], on a skeletal necromancer
 * [[Dwarven Ring of Sorcerous Restoration (Izgil)|Ring of Sorcerous Restoration]]
-* [[Chest of the Forest Guardian]], in a old Ranger's bedroom
+* [[Chest of the Forest Guardian]], in an old Ranger's bedroom
 * [[Cloak of Concealment]], in the [[Chest of the Forest Guardian]]
 * [[Ring of Waterwalking (Cleenseau)|Ring of Waterwalking]], in the [[Chest of the Forest Guardian]]
 * [[Silverthorn]], on the body of a long-dead halfling
-* [[Circlet of Telepathy]], on the body of an suit of animated armor
+* [[Circlet of Telepathy]], on the body of a suit of animated armor
 ### Ruined Fort on the Enst
 In [[Cleenseau - Session 10]] the party explored a ruined fort near the Enst, where a wight was defending a green crystal that oozed zombie-making illness. In this fort, a treasure room was found, containing:
 * Three golden chains, that jewelry could be strung on, relatively thick and heavy, 16" - 18" long (value: 25 - 30 gp each) 
@@ -32,9 +37,9 @@ In [[Cleenseau - Session 10]] the party explored a ruined fort near the Enst, wh
 * Two small uncut pieces of amber (value: 20 - 25 gp, could double with proper cutting)
 * (DONATED) A beautiful but tiny opal (value: 50 - 70 gp), donated to [[Ida Rosfeld]] and the war effort
 * a large but tarnished pearl (value: 60 - 80 gp)
-* a exquisitely cut piece of turquoise with a silver setting (probably once part of a ring) (value: 30 - 40 gp, could triple if made into a finished ring)
+* an exquisitely cut piece of turquoise with a silver setting (probably once part of a ring) (value: 30 - 40 gp, could triple if made into a finished ring)
 * 1000 silver Dwarven coins (worth 100 gp, common trade coin)
-- 100 unfamiliar gold coins with a stylized river on both sides (work 75 gp by weight of gold, could be worth more to the right buyer)
+- 100 unfamiliar gold coins with a stylized river on both sides (worth 75 gp by weight of gold, could be worth more to the right buyer)
 - 300 unfamiliar and differently sized silver coins with a bloody claw on the back and a variety of numbers (1, 5, 10) stamped on the front, which seem to correlate with the size (worth 45 gp by weight, could be worth more to the right buyer)
 - (DONATED) A well crafted suit of plate armor, still serviceable, apparently Sembaran, from the hobgoblin lair. Given to the Cleenseau army garrison in exchange for help making barding.
 - (DONATED) A well made shield, apparently Sembaran. Given to the Cleenseau army garrison in exchange for help making barding.
@@ -72,7 +77,7 @@ After defeating [[Areschera]], the party looted the towers, and found a number o
 A non-magical ring with a small diamond, worth about 300-400gp
 
 ## Miscellaneous Items
-This section lists a variety of other items found outside of major hordes.
+This section lists a variety of other items found outside of major hoards.
 
 Viepuck separately received 400 GP from the Garay family's spider-silk business, partly in coin and partly as a letter of credit. This was not part of the party's shared treasure as of the October 2025 accounting.
 
@@ -95,5 +100,17 @@ A player inventory sent on November 12, 2023 records Celyn holding a cloak descr
 table without id embed(link(image, "240")) as "Image", link(file.name, name) as "Name", link(pcOwner, pcOwner) as Owner from #item where pcOwner = "Heroes of Cleenseau" or pcOwner = "Izgil Moonseeker" or pcOwner = "Robin of Abenfyrd" or pcOwner = "Viepuck" or pcOwner = "Celyn" SORT pcOwner + file.name 
 ```
 
+%%^Lint%%
+## Taelgar note lint
 
+### Applied changes
+- Added `campaign: Cleenseau`, explicit `name: Treasure`, and the campaign-era `POV: 1720s`.
+- Corrected three uses of “hordes” to “hoards,” three article-agreement errors, “work 75 gp” to “worth 75 gp,” and the missing comma before “however.”
 
+### Validated judgments
+- This campaign meta inventory does not require a name block or a `povNotes` block. Its three shared nonpublic comments were reviewed and retained.
+
+### Open findings
+
+- [ ] **Warning — coverage.established_fact_missing:** The `Magical and Unusual Items` Dataview table uses `from #item`, but party-owned notes such as [[Ring of Wounding]] and [[Gem of Spell Storing]] are tagged `object`. Those established items therefore fall outside the table's source. Replace only `from #item` with `from #object`, preserving the display expression, owner filters, and sort order. This restores the table's coverage of the canonical object-tagged treasure notes.
+%%^End%%

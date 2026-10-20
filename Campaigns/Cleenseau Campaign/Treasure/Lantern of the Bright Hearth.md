@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [object]
-campaignInfo:
-name: Lantern of the Bright Hearth
+lintedAt: "2026-10-19T23:47:22-04:00"
+lintVersion: "3.5"
+tags: [object, status/check/lint]
 typeOf: lantern
 ancestry: fey
+campaignInfo: null
 rarity: unique
 pcOwner: Robin of Abenfyrd
 image: "[[lantern-of-the-bright-hearth.png]]"
+name: Lantern of the Bright Hearth
 whereabouts: Robin of Abenfyrd
+knownTo: [clee]
+POV: 1720s
 ---
 # The Lantern of the Bright Hearth
 >[!info]+ Information  
@@ -23,11 +27,11 @@ whereabouts: Robin of Abenfyrd
 > 
 > Robin approaches, sits outside the circle, and asks, "Who are you?"
 > 
-> Nothing happens at first. Time seems to pass very slowly, or the scent of the air distracts you from the time passing, or something. Either way, Robin is surprised to notice the moon is setting and apparently hours have passed when a male large elk with out-of-season antlers comes out of the forest and walks up to him and gently and almostly lovingly pushes Robin towards the hands
+> Nothing happens at first. Time seems to pass very slowly, or the scent of the air distracts you from the time passing, or something. Either way, Robin is surprised to notice the moon is setting and apparently hours have passed when a male large elk with out-of-season antlers comes out of the forest and walks up to him and gently and almost lovingly pushes Robin towards the hands
 > 
 > Robin gives the elk a scritch, and then walks into the circle following its nudge.
 > 
-> As Robin crosses the circle of leaves he feels a sense of deja vu, like he has seen these leaves before. For a moment, the setting moon is replaced by the setting sun, and the entire sky is covered with crimson and pink clouds. Then the moon returns, and as he picks up the pebble from the hands.
+> As Robin crosses the circle of leaves he feels a sense of deja vu, like he has seen these leaves before. For a moment, the setting moon is replaced by the setting sun, and the entire sky is covered with crimson and pink clouds. Then the moon returns, and he picks up the pebble from the hands.
 > 
 >  As he touches the pebble it becomes insubstantial for a moment. Time seems to freeze and he feels in his mind a question -- Will you Help? 
 >  
@@ -39,7 +43,7 @@ whereabouts: Robin of Abenfyrd
 >
 >He gets the sense that this man, whoever he was, wants him to say yes.
 >
->Robin answers: "Yes" and as he takes the pebble it transforms into a lantern, the hands vanish, and the circle drifts away in the rising sun. As Robin walks back to the patrol camp, he feels for a moment this is all a dream. But the lantern is real in his hand
+>Robin answers: "Yes" and as he takes the pebble it transforms into a lantern, the hands vanish, and the circle drifts away in the rising sun. As Robin walks back to the patrol camp, he feels for a moment this is all a dream. But the lantern is real in his hand.
 
 ### Mechanics
 At your mental command, this lantern glows with a faint amber light, illuminating an area of 30' with dim light. This light is magical, and for the purposes of _darkness_ and similar spells, treated as if it was created by the _continual flame_ spell. The light of the lantern is glamoured to enhance and emphasize what is already there, rather than conceal and mislead. If the lantern is visible, those within its glow will be receptive to your true statements: you gain advantage on Persuasion checks as long as you speak the truth. But beware if you do not speak the truth: your lies will be shown for what they are while you are within the light of the lantern and you have disadvantage on Persuasion checks if you lie.
@@ -69,3 +73,31 @@ Those resting within its light will be reminded of pleasant things and hopeful t
 If lost or destroyed, the lantern will return whole to its bearer at the next twilight. If the bearer is slain, the lantern will remain somewhere near where its bearer died, but in the open (if the bearer was slain in cave, for instance, it would appear near the mouth of the cave), and if removed will return to that spot at the next twilight. If someone passes by who aligns with the lantern's ethos, they may feel compelled to take up the lantern and will then become its new bearer.
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Lantern of the Bright Hearth", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a 1720s account of the lantern carried by Robin, with its earlier acquisition scene and older origin; these layers do not establish continuous ownership through its history.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added supported `knownTo`, persistent name metadata, `POV` and temporal coverage notes; normalized frontmatter formatting.
+- Corrected “almostly lovingly” to “almost lovingly” (objective typo).
+- Corrected “Then the moon returns, and as he picks up the pebble from the hands.” to “Then the moon returns, and he picks up the pebble from the hands.” (objective grammar).
+- Corrected “But the lantern is real in his hand” to “But the lantern is real in his hand.” (objective punctuation).
+
+### Validated judgments
+- The bounded object account is sufficient for its reference role; unresolved decisions below do not require additional invented lore.
+- Reviewed all ordinary comments; preserved their private/editorial boundaries and the existing visible text except the declared copy corrections.
+
+### Open findings
+
+- [ ] **Error — privacy.player_only_callout_visible:** The callout titled “Finding the Lantern (For Dan's Eyes Only)” has no audience/privacy wrapper; collapsing it does not restrict readers. Choose the intended audience. For local-only retention, enclose the complete existing callout in the vault’s local-only secret-comment wrapper. For shared DM-only retention, enclose it in the structured campaign wrapper with audience value `none` and its matching closing marker. If the account is now approved for all readers, remove the audience restriction from the title instead. Preserve its text until the human decision.
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The ordinary comment beginning “Old notes from emails” repeats the current description and mechanics, including the visible glow, truthful glamour, ease of sleep and return to the bearer. Retain the opening quoted email message as provenance and any distinct original rules as explicitly labeled historical guidance; remove only the repeated description and rules after comparison. Keep the remaining private historical guidance together under the existing comment rather than promoting old mechanics into the current account.
+%%^End%%

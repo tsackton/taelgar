@@ -1,14 +1,19 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-19T23:47:22-04:00"
+lintVersion: "3.5"
 tags: [object]
 typeOf: weapon
-typeOfAlias: rapier
-rarity: unique
-ancestry: halfling
 subTypeOf: magic
-whereabouts: Celyn
+typeOfAlias: rapier
+ancestry: halfling
+rarity: unique
 image: "[[silverthorn.png]]"
 pcOwner: Celyn
+name: Silverthorn
+whereabouts: Celyn
+knownTo: [clee]
+POV: modern
 ---
 # Silverthorn
 >[!info]+ Information  
@@ -25,3 +30,11 @@ According to [[Marigold Stonebridge]], Rose was one of the leaders of a resistan
 This rapier shimmers with sparkles along the blade and has an elaborate hilt. It seems to always gleam, and never gets dirty. By whispering a command word, the sword can become invisible until it is used in combat. When used to attack a creature while the wielder is unseen, a 19 or 20 counts as a critical hit.
 
 Once per day, the _Invisibility_ spell can be cast from the sword, targeting the wielder only. While sheathed in the matching sheath, perceiving the rapier requires a DC 25 Wisdom (Perception) check.
+
+%%^Metadata:names:v1%%
+- {"name": "Silverthorn", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose describing the object and its recorded recovery; no narrower temporal frame is required by the visible account.
+%%^End%%
