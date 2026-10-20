@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {defArt: "the"}
+lintedAt: "2026-10-20T10:36:55-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the}
 tags: [place, status/check/name]
-typeOf: topographic feature
+typeOf: topographical feature
 typeOfAlias: line of hills
 name: Zhalgan
 pronunciation: ZHAHL-gan
 whereabouts: Xurkhaz
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Zhalgan
 *(ZHAHL-gan)*
@@ -29,4 +32,8 @@ Borzugan (BOR-zoo-gan)
 
 %%^Metadata:names:v1%%
 - {name: Zhalgan, role: primary, language: Free Orcish, pronunciation: ZHAHL-gan, meaning: broken heights, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geographical description of the hills along Xurkhaz’s northern and northeastern borders.
 %%^End%%

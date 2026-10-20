@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: "the"}
-name: Circular Island
-dm_owner: tim
-dm_notes: important
+lintedAt: "2026-10-20T10:36:55-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the}
+tags: [place, status/check/lint]
 typeOf: island
+name: Circular Island
 whereabouts:
   - {type: home, location: Sea of Storms, linkText: in}
+dm_owner: tim
+dm_notes: important
+POV: 1749
 ---
 # The Circular Island
 >[!info]+ Information  
@@ -19,7 +22,7 @@ the Circular Island is the established Common name based on the Dunmar Fellowshi
 we assume there was once a Drankorian name for the island, and perhaps even an old Hkaran one, but these have not been invented
 %%
 
-The Circular Island, so-called for is unique perfectly circular shape, is a remote island in the [[Sea of Storms]], off the coast of the [[Drankorian Hinterland]]. The island is difficult to approach, ringed by violent storms and protected by old magic that interferes with ordinary travel and divination. The only reliable modern accounts of it come from the travels of the [[Dunmar Fellowship]]. 
+The Circular Island, so-called for its unique perfectly circular shape, is a remote island in the [[Sea of Storms]], off the coast of the [[Drankorian Hinterland]]. The island is difficult to approach, ringed by violent storms and protected by old magic that interferes with ordinary travel and divination. The only reliable modern accounts of it come from the travels of the [[Dunmar Fellowship]].
 
 The island contains many ancient ruins, dating to the days of the [[Drankorian Empire]] or even before, but the exact nature of these ruins, what once occupied the island, and its former importance is now mostly forgotten. 
 
@@ -39,15 +42,15 @@ In the final decades of the [[Drankorian Empire]], in the time leading up to and
 
 ### Locations
 
-The island's coast is diverse, with stretches of sheer black cliffs interspersed with singing sand beaches and river mouths. Most notably, eight colossal statues of the Eight Divines stand around the coast, one for each of the divinities of [[Mos Numena]]. Broad white pilgrimage roads lead inland from them, toward the central mountain, still carrying ancient echos of powerful divine magic. Old camps and hostels along these routes preserve practical magic, including runic circles that provide water, food, and warmth, as well as hidden prayers in Drankorian and Elvish.
+The island's coast is diverse, with stretches of sheer black cliffs interspersed with singing sand beaches and river mouths. Most notably, eight colossal statues of the Eight Divines stand around the coast, one for each of the divinities of [[Mos Numena]]. Broad white pilgrimage roads lead inland from them, toward the central mountain, still carrying ancient echoes of powerful divine magic. Old camps and hostels along these routes preserve practical magic, including runic circles that provide water, food, and warmth, as well as hidden prayers in Drankorian and Elvish.
 
-North of the statue of [[The Wanderer]] lies a [[Alectia|ruined town and port]], once the jewel of the island, but now destroyed and corrupted by plague curses. A number of collapsed towers, elegant manors, and the remnants of a pier still can be found, but patches of cursed land makes exploration for the unwary difficult. By 1749 DR, many of these ruins were the homes of [[dragonets]], occupying ruined manors and towers as far from plague-cursed lands as possible. 
+North of the statue of [[The Wanderer]] lies a [[Alectia|ruined town and port]], once the jewel of the island, but now destroyed and corrupted by plague curses. A number of collapsed towers, elegant manors, and the remnants of a pier still can be found, but patches of cursed land make exploration for the unwary difficult. By 1749 DR, many of these ruins were the homes of [[dragonets]], occupying ruined manors and towers as far from plague-cursed lands as possible.
 
-Inland from the town are numerous villas of ancient scholary and magical societies, many of which have fallen into extreme disrepair. Among the better preserved is the villa of the Concordia Pyrae, which was taken over by [[Ra'ghemdros]] for use as her lair, and adapted to serve as [[Cloudspinner]]'s prison. Cloudspinner's prison stood beneath its ruins, among the cellars, statuary, and magical flames of the old crypt, marked by a flaming red eye in shadow. Cloudspinner herself was in a suspended gray crystal, bound by shadow in a demi-plane and guarded by a fiend of flame and darkness.
+Inland from the town are numerous villas of ancient scholarly and magical societies, many of which have fallen into extreme disrepair. Among the better preserved is the villa of the Concordia Pyrae, which was taken over by [[Ra'ghemdros]] for use as her lair, and adapted to serve as [[Cloudspinner]]'s prison. Cloudspinner's prison stood beneath its ruins, among the cellars, statuary, and magical flames of the old crypt, marked by a flaming red eye in shadow. Cloudspinner herself was in a suspended gray crystal, bound by shadow in a demi-plane and guarded by a fiend of flame and darkness.
 
 The central interior of the island is forested, with a large mountain peak rising from the precise center of the island. The forested interior likely contains many secrets; it also preserves memorials to the [[Downfall Wars]], such as a living elven memorial that records names of the dead of the Downfall Wars, revealing memory-visions to those who are attuned to its message. However, not all of the pilgrimage magic has survived the ravages of plague and time intact: some parts of the forest contain dream-haunted or memory-haunted sites, associated with visions of red mist and choking death.
 
-At the summit of the central mountain stand a temple complex dedicated to the Eight Divines, with eight temples arranged around a central courtyard, beacon and bell tower, hostels, and pilgrim facilities. Lingering divine magic protects the complex, making it one of the island's few reliable sanctuaries in the modern era. 
+At the summit of the central mountain stands a temple complex dedicated to the Eight Divines, with eight temples arranged around a central courtyard, beacon and bell tower, hostels, and pilgrim facilities. Lingering divine magic protects the complex, making it one of the island's few reliable sanctuaries in the modern era.
 
 The dragonets rarely travel to the western edge of the island, where [[Apollyon's Tower]] stands on a rugged coastal cliff as a black marble spire. It contains defensive constructs, decayed living spaces, a throne room, libraries, a magical forge of great power, and ritual chambers tied to Apollyon's lichcraft. Notes recovered there helped identify the nature of [[Apollyon's Phylactery]] and the sacrifices used to create it.
 
@@ -70,3 +73,62 @@ With Ra'ghemdros' death, [[Session 110 (DuFr)|Dimitaur proclaimed himself Protec
 %%^End%%
 
 %%SECRET[v2:7feea1a5f856f6413dd64a5ab1b417eb]%%
+
+%%^Metadata:names:v1%%
+- {name: Circular Island, language: Common, meaning: Named for its perfectly circular shape, status: documented, notes: "The existing naming note identifies this as the established Common name arising from the Dunmar Fellowship's travels, Milo Thistlefoot, Tilly Brineheart, and later rumors. Any older Drankorian or Hkaran forms remain assumed and uninvented."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1749 snapshot after Ra'ghemdros's defeat, with retrospective ancient history and campaign-scoped events through Cloudspinner's return to Amberglow. The chronology of the separate, undated Dragonets campaign account relative to this snapshot is unresolved.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter field order without changing existing values.
+- Added primary name metadata for the documented Common descriptive name and preserved the existing naming context; omitted pronunciation for the plain-English name.
+- Added POV: 1749 and a temporal coverage note distinguishing the DR 1749 account from the undated Dragonets records.
+- Corrected five objective typos or agreement errors: “for is” to “for its,” “echos” to “echoes,” “patches ... makes” to “patches ... make,” “scholary” to “scholarly,” and “stand a temple complex” to “stands a temple complex.”
+
+### Validated judgments
+- Circular Island is an established Common descriptive name made entirely of ordinary English words; a pronunciation is unnecessary.
+- Confirmed local sources support the positive dm_notes attestation. The SECRET block and shared naming comment were reviewed without copying private contents into this report.
+
+### Open findings
+- [ ] **Warning — coverage.later_material_change:** Newer campaign evidence establishes a materially different inhabited and magical state from the article's DR 1749 closing account. [[Dragonets - Session 01]] describes eight communities sheltered by the coastal statues, an annual Jubilee, and the summit temple as their cultural center. [[Dragonets - Session 02]] records reawakened roads, fountains, food machines, and the Wanderer; [[dragonets-003-session-recap]] and its finalized beat facts record the mobile Wanderer's defense against a dreadnought and lasting damage to a village square and homes. These are defining community, landmark, and physical-state changes. Their DR dates are unknown, so do not assume that they occur after the DR 1749 events or silently merge the accounts. Decide whether to update the article and POV, defer with the appropriate human-selected game-update status, or preserve the DR 1749 snapshot and give the Dragonets account its own approved campaign/temporal layer. Copy-ready bounded account for that separately approved layer: “The [[Dragonets Campaign|Dragonets campaign account]], whose date relative to DR 1749 is not established, describes eight dragonet communities sheltered by the coastal statues and an annual Jubilee at the central temple. Ancient roads, fountains, and food machines reawakened, and four dragonets learned to move the statue of the Wanderer. They used it to defend the island from a dreadnought attack that damaged a village square and nearby homes.” Preserve the existing Dunmar campaign restriction; choose any additional campaign or Date wrapping only after the chronology and visibility decision.
+
+### DM evidence
+- [[_DM_/Dunmar Epilogues]]
+- [[_DM_/Timelines/Cloak of Rainbows Timeline]]
+- [[_DM_/_Campaign 3/Dunmar Epliogue - Campaign 3 Timing]]
+- [[_DM_/_Dunmari Frontier/Campaign Outline - Arcs and Levels]]
+- [[_DM_/_Dunmari Frontier/Complicated OneNote NPCs/Apollyon (OneNote)]]
+- [[_DM_/_Dunmari Frontier/Leveling]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Adventure Part 1]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Adventure Part 3]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Alectia and Environs]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Circular Island Overview - DM notes v2]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Cloudspinner's Prison]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Dragonet Info]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Table - Circular Island Monsters]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/NOTES/Friday Morning]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/OLD/Circular Island Overview - DM notes v1]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/OLD/Circular Island Rewritten]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/OLD/Sessions Overview]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/OLD/adventure_overview]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Outline v2]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Session 105 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Session 106 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 112 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 113 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Seven Souls]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Timeline for the End of Drankor]]
+- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Brainstorming - Cloudspinner]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Desolation of Cha'mutte Brainstorming]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Isingue Arc Brainstorming]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 132 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 133 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/The Story of Apollyon and Cha'mutte]]
+- [[_DM_/_Taelgar-2/Scenes/Taelgar-2 Scene 04 - Resistance Camp]]
+%%^End%%

@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/wip, status/check/ai]
-displayDefaults: {defArt: 'the' }
+lintedAt: "2026-10-20T10:36:55-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the}
+tags: [place, status/wip, status/check/ai, status/check/lint]
 typeOf: region
-whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
+name: Drankorian Hinterland
+whereabouts:
+  - {type: home, location: Taelgar, linkText: in}
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Drankorian Hinterland
 >[!info]+ Information  
@@ -72,7 +77,7 @@ Dangerous Wildernesses: Yes
 
 {descriptive in world text about climate}
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 
 {real world climate analogs and inspiration}
 
@@ -83,7 +88,7 @@ _See more: {links}_
 
 {descriptive text of major era}
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ## DM Notes and Meta
 _See also: [[Places in the Drankorian Hinterland]]
 
@@ -101,4 +106,37 @@ _See also: [[Places in the Drankorian Hinterland]]
 
 *Important Places in Staging:* The [[Circular Island]] needs to either be named "The Circular Island" in-game, or be renamed. The [[~Eastern Mountains~]] could use a name, as could the [[~Great Bay~]]. 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Drankorian Hinterland", "language": "unknown", "pronunciation": "dran-KOR-ee-un HIN-ter-land", "status": "proposed", "notes": "The accepted stem DRAN-kor is recorded in [[Drankor]]. This proposal retains its consonants and broad vowels while cautiously adapting the adjective with stress before the ee-un ending; Hinterland uses ordinary English HIN-ter-land. The compound is a descriptive regional label with no established original language. The Drankorian analogue in [[Languages]] is Classical Latin with occasional Classical Greek loan words, within a broadly Hellenic and Romance language family. That supplies root context, not an exact rule for this mixed descriptive label; the adjective stress remains uncertain."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern regional geography with imperial history as background; the reader-facing descriptive sections are still largely unfinished.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter field order and collection formatting without changing existing values.
+- Recorded the filename-supplied subject name explicitly.
+- Recorded a broadly modern article POV and persistent temporal-coverage guidance.
+- Corrected the case of both existing private Campaign:none sentinels, retaining their content and placement.
+- Added persistent subject-name metadata with a proposed complete pronunciation and its derivation.
+
+### Validated judgments
+- `status/wip` is supported: the region-page reformatting remains unfinished, with multiple central placeholders. The tag is preserved.
+- The map and substantive shared planning make this an eligible authored note; shared planning is not silently promoted to canon.
+
+### Editorial assessment
+**Underdeveloped** — The public region article has a map but no substantive introduction, and its topography, culture, climate, and history sections remain placeholders or hidden planning. Its central geographical identity, major developed landscapes, and imperial historical context are missing from the reader-facing account. The smallest useful scope is a concise regional overview and short source-grounded summaries of those developed features; leave explicitly unestablished eastern geography and post-imperial transitions uncertain.
+
+- Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** The introduction is `{intro text}`, and the central geographical, climate and historical sections contain placeholders. [[Garamjala Plateau]], [[Awakened Jungle]] and [[Drankor]] already supply a bounded account of major features and their context. Copy-ready starting overview: “The Drankorian Hinterland includes the high, arid [[Garamjala Plateau]], the coastal [[Awakened Jungle]], and the ruins of [[Drankor]] near the mouth of the [[Istaros]]. Drankor was a center of the [[Drankorian Empire]] before the [[First Plague]] devastated the city in DR 1059.” Use those sources to replace the corresponding topography, climate and historical placeholders with brief summaries. Preserve uncertainty about the region’s precise borders, eastern terrain and unestablished transitions rather than filling them by inference.
+
+- [ ] **Warning — metadata.names_unresolved_status:** Confirm or revise the complete pronunciation `dran-KOR-ee-un HIN-ter-land` in the persistent name entry. The accepted stem DRAN-kor is recorded in [[Drankor]]. This proposal retains its consonants and broad vowels while cautiously adapting the adjective with stress before the ee-un ending; Hinterland uses ordinary English HIN-ter-land. The compound is a descriptive regional label with no established original language. The Drankorian analogue in [[Languages]] is Classical Latin with occasional Classical Greek loan words, within a broadly Hellenic and Romance language family. That supplies root context, not an exact rule for this mixed descriptive label; the adjective stress remains uncertain. If accepted, copy the complete value into frontmatter and mark the existing entry `documented`.
 %%^End%%
