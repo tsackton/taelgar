@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T11:59:58-04:00"
+lintVersion: "3.5"
 tags: [place]
-name: Irrla
 typeOf: island
 typeOfAlias: large island
-whereabouts:
-- {type: primary, location: Green Sea }
-- {type: secondary, location: Eastern Green Sea }
+name: Irrla
 pronunciation: EAR-la
-dm_notes: important
+whereabouts:
+  - {type: primary, location: Green Sea}
+  - {type: secondary, location: Eastern Green Sea}
 dm_owner: tim
+dm_notes: important
+POV: modern
 ---
 # Irrla
 *(EAR-la)*
@@ -22,7 +25,7 @@ Irrla, as it is called by its human inhabitants, is a large mountainous island i
 The [[Republic of Svolhas]] occupies the southeastern coast of Irrla, mostly along the fertile strip of agricultural land in the coastal lowlands. These fertile lowlands are bordered to the north and west by the rough, rolling hills of the interior, filled with deep valleys and cascading rivers. The northeastern border of the [[Republic of Svolhas]] is heavily fortified by a line of castles, because the eastern point of Irrla, called the [[Reaver Coast]], is occupied by hobgoblins. These hobgoblins are largely organized into competing pirate clans, who make a living raiding the shipping of the Green Sea. 
 
 %%^Date:1748%%
-In the DR 1740s, the [[Skullcleaver Clan]] clan has achieved some degree of lasting dominance over the other hobgoblins, and has increasingly turned its attention to coastal raids. In response, the [[Republic of Svolhas]], not historically a major naval power, has begun to rapidly build up its maritime forces. 
+In the DR 1740s, the [[Skullcleaver Clan]] has achieved some degree of lasting dominance over the other hobgoblins, and has increasingly turned its attention to coastal raids. In response, the [[Republic of Svolhas]], not historically a major naval power, has begun to rapidly build up its maritime forces.
 %%^End%%
   
 %% 
@@ -42,3 +45,11 @@ Alimash was one of these commanders, sent with a bundle of documents and letters
 Five days later, the Spice Queen limped into port at the kenku town of Wahacha, where you quickly heard rumors of other attacks by raiders in a similar way, and rumors that the raiders came from an underwater base to the east. When the Spice Queen left a few days later, hastily patched, you decided to stay, and seek vengeance and look for the redemption of your reputation, by finding and destroying the base of these raiders.
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Irrla", "language": "unknown", "pronunciation": "EAR-la", "status": "documented", "notes": "Name used by the island's human inhabitants."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography and settlement; the existing Date:1748 block separately controls the DR 1740s naval developments.
+%%^End%%

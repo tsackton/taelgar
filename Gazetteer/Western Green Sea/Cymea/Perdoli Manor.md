@@ -1,16 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {startStatus: Built, endStatus: "fell into ruin", dPastHasStart: "<start:u> <startDate>, <end> <endDate>"}
-name: Perdoli Manor
+lintedAt: "2026-10-20T11:59:58-04:00"
+lintVersion: "3.5"
+displayDefaults: {startStatus: Built, endStatus: fell into ruin, dPastHasStart: "<start:u> <startDate>, <end> <endDate>"}
+tags: [place, status/check/lint]
 typeOf: building
 typeOfAlias: ruined manor estate
 created: 1479
 destroyed: 1593
+name: Perdoli Manor
+pronunciation: pehr-DOH-lee
 whereabouts: Western Cymea
 dm_owner: tim
 dm_notes: none
-pronunciation: pehr-DOH-lee
+POV: modern
 ---
 # The Perdoli Manor
 *(pehr-DOH-lee)*
@@ -43,3 +46,29 @@ In the 1620s, the manor was reoccupied by a medusa, who made it her lair for 30 
 In the 1690s, a group of pirates and bandits fleeing the beginnings of Tollender persecution moved in and made it a hideaway for the next 35 years or so. They dug tunnels and built a secret room behind the wine cellar to store treasure, and repaired the smithy/forge and parts of the manor, in a crude fashion. After a massacre by the Tollender Navy in the 1720s, the lair was gradually abandoned. 
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Perdoli Manor", "language": "unknown", "pronunciation": "pehr-DOH-lee MAN-er", "status": "documented", "notes": "Perdoli retains this note’s accepted frontmatter pronunciation pehr-DOH-lee, also recorded in Labyrinths of the Lost - Session 1; Manor uses its ordinary English reading."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: modern retrospective account through the October DR 1748 defeat of Grimstone; the text leaves the manor’s subsequent fate and occupants unknown.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter ordering and collection formatting.
+- Added persistent name metadata and a broadly modern viewpoint with temporal coverage.
+
+### Validated judgments
+- The visible account already covers the estate’s origin, decline, later occupiers, and Grimstone’s defeat; subsequent occupation remains explicitly unknown.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The shared “DM sources” comment substantially repeats the visible account of the DR 1479 construction, the family’s decline, and the medusa/pirate succession. Review a bounded split: remove only those duplicated summaries, retain `[[Key - LL]]` and `[[Pirate Lair Key]]`, and keep the distinct medusa chronology, fate, and pirate-history details as unadopted historical guidance until adopted. Do not discard the distinct material along with the duplicate prose.
+
+- [ ] **Warning — correctness.cross_note_conflict:** The shared history comment says the pirates remained for “35 years or so,” while [[Key - LL#History]] says “15 years or so”; both place their arrival in the 1690s and the Tollender action in the 1720s, while [[Pirate Lair Key#C2: Cave Entrance]] supplies the massacre account. These are shared source-history variants, not independent confirmation of an exact duration. Resolve the conflicting duration before promoting the chronology. A conservative interim candidate is: “In the 1690s, pirates and bandits occupied the estate and expanded its tunnels. Tollender naval action in the 1720s was followed by the lair’s gradual abandonment.” Retain a precise source-conflict comment if adopting that bounded wording; the linter has not selected one duration.
+
+%%^End%%

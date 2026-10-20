@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T11:59:58-04:00"
+lintVersion: "3.5"
 tags: [place, status/review]
-name: Republic of Svolhas
 typeOf: realm
 typeOfAlias: republic
-whereabouts:
-  - {type: home, location: Irrla, linkText: on}
-dm_notes: none
-dm_owner: tim
+name: Republic of Svolhas
 pronunciation: ss-VOL-las
+whereabouts:
+  - {type: home, location: Irrla, linkText: "on"}
+dm_owner: tim
+dm_notes: none
+POV: modern
 ---
 # The Republic of Svolhas
 *(ss-VOL-las)*
@@ -21,7 +24,7 @@ pronunciation: ss-VOL-las
 The Republic of Svolhas is a realm on the southeastern coast of [[Irrla]]. Its fertile lowlands are bordered by the island’s rough interior highlands, and its northeastern frontier is heavily fortified against the hobgoblin pirate clans who hold the eastern point of Irrla.
 
 %%^Date:1748%%
-In the DR 1740s, the [[Skullcleaver Clan]] clan has become an increasing threat, turning to coastal raiding, which has driven the Republic of Svolhas, not historically a major naval power, to begin to rapidly build up its maritime forces.
+In the DR 1740s, the [[Skullcleaver Clan]] has become an increasing threat, turning to coastal raiding, which has driven the Republic of Svolhas, not historically a major naval power, to begin to rapidly build up its maritime forces.
 %%^End%%
 
 %%^Campaign:none%%
@@ -45,4 +48,12 @@ A few months ago, the citizens council of Rava voted to request that the Senate 
 Alimash was one of these commanders, sent with a bundle of documents and letters to deliver to islands in the southern part of this island chain. Although your character did not know the exact content of these documents, he knew they were important for the success of the naval mission being considered back home. So, when you ship -- the fast merchant vessel Spice Queen, out of Medju, was apparently attacked from belowdecks, by humans who bored a hole into the side of ship, just at waterline, you engaged them in combat immediately. While two tried to keep you occupied, the other four went looking through the hold for crew or passengers to kidnap. Distracted by combat, you didn't even notice when one opened the door to your cabin, rooted through your chest, as the area belowdecks began to flood. So it wasn't until some time later that you realized your precious sealed watertight bundle of letters had been torn open, and the letters themselves were already turning to mush in the sea water threatening to sink the ship. 
 
 Five days later, the Spice Queen limped into port at the kenku town of Wahacha, where you quickly heard rumors of other attacks by raiders in a similar way, and rumors that the raiders came from an underwater base to the east. When the Spice Queen left a few days later, hastily patched, you decided to stay, and seek vengeance and look for the redemption of your reputation, by finding and destroying the base of these raiders.
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Republic of Svolhas", "language": "unknown", "pronunciation": "reh-PUB-lik uhv ss-VOL-las", "status": "documented", "notes": "The Svolhas component retains this note’s accepted frontmatter pronunciation ss-VOL-las; Republic of uses its ordinary English reading."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography and frontier; the existing DR 1748 date block presents the narrower DR 1740s naval buildup. The explicitly noncanonical backstory remains provisional.
 %%^End%%

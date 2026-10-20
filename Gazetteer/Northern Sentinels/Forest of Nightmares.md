@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T11:59:58-04:00"
+lintVersion: "3.5"
 tags: [place, status/cleanup/metadata]
-name: Forest of Nightmares
 typeOf: forest
+name: Forest of Nightmares
 whereabouts: Northern Sentinels
-dm_notes: important
 dm_owner: tim
+dm_notes: important
+POV: modern
 ---
 # The Forest of Nightmares
 >[!info]+ Information  
@@ -32,3 +35,11 @@ But retreat should be an option if absolutely needed.
 Also if they retreat and revisit steps, will be stuck with fighting undead too that may have gathered in the meantime.
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Forest of Nightmares", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern account of the haunted forest and its enduring Great War scars; the DR 1748 battlefield expeditions do not establish that the general curse ended.
+%%^End%%

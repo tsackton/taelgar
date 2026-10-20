@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-whereabouts: Ursk
+lintedAt: "2026-10-20T11:59:58-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: settlement
-dm_notes: none
-dm_owner: none
-pronunciation: ZVEHR-veen-ka
 typeOfAlias: city
+name: Zvervinka
+pronunciation: ZVEHR-veen-ka
+whereabouts: Ursk
+dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # Zvervinka
 *(ZVEHR-veen-ka)*
@@ -47,3 +50,39 @@ Religion - NOT CANON
 
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name":"Zvervinka","language":"unknown","pronunciation":"ZVEHR-veen-ka","status":"documented"}
+%%^End%%
+
+%%^Metadata:map:v1%%
+locations:
+  - {map: world, locator: }
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern city geography, trade, and civic practices, corroborated by DR 1749 accounts; no narrower citywide boundary is established.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added the explicit subject name.
+- Added persistent name metadata and a broadly modern article viewpoint.
+- Added the settlement map skeleton; its unknown locator remains blank.
+
+### Validated judgments
+- The article is reviewed as a geographic reference; routine campaign travel and transactions do not require a campaign log.
+- The city’s market role, urban geography, trade, and magic controls are adequately described. [[Session 94 (DuFr)]] and [[Session 95 (DuFr)]] corroborate its reference frame; no durable citywide change requires a later-state update.
+
+### Open findings
+
+- [ ] **Warning — metadata.map_location_missing:** Supply the settlement’s `locator` in `Metadata:map:v1` from an established world-map reference. The lower Ket location is established, but an exact world hex was not; the typed locator remains blank.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The ordinary “Meta/DM notes and campaign interactions” comment substantially repeats visible prose in the bullets beginning “Color and layout,” “Economy and trade,” and “Law and magic.” Make a bounded split: remove only their already-public layout, trade, tax, market-day, casting-law, and Spire-entry summaries; retain exact source pointers and any distinct private guidance. Keep the other DM guidance and the explicitly “NOT CANON” religion material pending separate human disposition. A compact source-pointer replacement for the duplicated factual summaries is: “Layout, trade, and civic practices: see [[Session 94 (DuFr)]], [[Session 95 (DuFr)]], [[Philosopher's Information Concerning Ursk]], and [[Ket]].” This proposal does not adopt or reorganize the distinct hidden material automatically.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Market Magical Items]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 94 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 95 - DM Notes]]
+%%^End%%
