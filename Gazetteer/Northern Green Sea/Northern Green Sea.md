@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/wip]
+tags: [place, status/wip, status/check/ai]
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
 dm_owner: joint
@@ -14,7 +14,7 @@ dm_notes: important
 The northern coastline of the [[Green Sea]] is a strange place, where even halfling traders rarely go. The land of [[Ursk]] is unwelcoming even to halflings, and few have traveled its roads and rivers. North of [[Ursk]] is a cold land of mighty forests and rivers, rushing in the brief summer but frozen during the long winter. Our reports come from the few halfling travelers and traders who brave the cold. 
 ## Map
 
-```leaflet 
+```taelgar-map 
 id: region-map-taelgar
 image: [[north-green-sea-region.png]] 
 bounds: 

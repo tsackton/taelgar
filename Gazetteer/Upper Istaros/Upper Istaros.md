@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place,  status/wip]
+tags: [place,  status/wip, status/check/ai]
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
 dm_owner: joint
@@ -26,7 +26,7 @@ The Upper Istaros is a land of mystery and danger, settled only at its fringes, 
 ## Map
 
 
-```leaflet 
+```taelgar-map 
 id: region-map-taelgar
 image: [[upper-istaros-region-map.png]] 
 bounds: 

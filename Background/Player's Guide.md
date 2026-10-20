@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/mike]
+tags: [meta, status/check/mike, status/check/ai]
 name: "Player's Guide"
 dm_owner: joint
 dm_notes: none
@@ -22,7 +22,7 @@ Taelgar is a world of good and evil, where valiant heroes strive against the for
 
 The lands best known to scholars of northwestern Taelgar stretch roughly 2,500 miles from the great city of [[Chardon]] in the west to the shores and islands of the [[Green Sea]] in the east. 
 
-```leaflet 
+```taelgar-map 
 id: player-guide-world-map
 image: [[taelgar-world-map.png]] 
 bounds: 

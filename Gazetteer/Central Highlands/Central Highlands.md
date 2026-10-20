@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/wip]
+tags: [place, status/wip, status/check/ai]
 displayDefaults: {defArt: 'the' }
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
@@ -25,7 +25,7 @@ dm_notes: none
 {intro text}
 ## Map
 
-```leaflet 
+```taelgar-map 
 id: region-map-taelgar
 image: [[region-central-highlands.png]] 
 bounds: 
