@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T06:59:58-04:00"
+lintVersion: "3.5"
 tags: [place]
-name: Southbridge
 typeOf: neighborhood
+typeOfAlias: ward
+name: Southbridge
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
-typeOfAlias: ward
+POV: modern
 ---
 # Southbridge
 >[!info]+ Information  
@@ -17,4 +20,10 @@ Southbridge is the oldest and most prosperous ward on the south bank of the [[Vo
 
 Southbridge is the center of the Tollen tattoo industry, with many of the most prosperous and skilled tattoo artists, especially those who incorporate magical ink into their work, located along [[Inkspell Lane]].
 
+%%^Metadata:names:v1%%
+- {"name":"Southbridge","language":"unknown"}
+%%^End%%
 
+%%^povNotes:v1%%
+Temporal coverage: broadly modern Tollen waterfront and tattoo trade, with Drankorian reclamation and road building presented as historical background.
+%%^End%%

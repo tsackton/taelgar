@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {prep: on, defArt: the}
-tags: [place]
+lintedAt: "2026-10-20T06:59:58-04:00"
+lintVersion: "3.5"
+displayDefaults: {prep: "on", defArt: the}
+tags: [place, status/check/lint]
 typeOf: waterway
 typeOfAlias: river
 name: Kem
@@ -9,6 +11,7 @@ pronunciation: KEM
 whereabouts: Vostok
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Kem
 *(KEM)*
@@ -29,4 +32,31 @@ Geographic clarification:
 
 %%^Metadata:names:v1%%
 - {name: Kem, language: Vosic, pronunciation: KEM, status: documented}
+%%^End%%
+
+%%^Metadata:map:v1%%
+locations:
+  - {role: source, feature: , map: world, locator: }
+  - {role: outlet, feature: , map: world, locator: }
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference geography and physical character; no narrower speaking position is required by the visible account.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Canonicalized frontmatter and added the typed waterway map skeleton.
+- Quoted the authored `prep: on` preposition as a string, following [[Display Control]], to preserve its meaning across YAML parsers rather than convert it to a boolean.
+- Added modern POV and persistent temporal guidance; preserved the existing documented name entry.
+
+### Validated judgments
+- The confluence and inhabited lower-valley account performs the river's present reference role.
+- The clarifications in this note, [[Niva]], [[Lake Pekul]], and [[Lake Sova]] preserve the unresolved assignment of upper channels and lakes; no whole-network identity is inferred.
+
+### Open findings
+
+- [ ] **Warning — metadata.map_location_missing:** The `source` and `outlet` rows in `Metadata:map:v1` both have blank `locator` values. Supply established world-map coordinates for those two endpoints. Preserve the existing geographic clarification: the unlabeled upper branches do not establish the Kem's named source or the precise Niva confluence, and neither lake can be assumed to lie on the named Kem reach. Leave unsupported coordinates blank pending human map review.
 %%^End%%

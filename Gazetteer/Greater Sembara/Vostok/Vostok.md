@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/review]
-name: Vostok
+lintedAt: "2026-10-20T06:59:58-04:00"
+lintVersion: "3.5"
+tags: [place, status/review, status/check/lint]
 typeOf: region
-whereabouts: Greater Sembara
+name: Vostok
 aliases: [Vosland]
 pronunciation: VOS-tok
+whereabouts: Greater Sembara
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # Vostok
 *(VOS-tok)*
@@ -42,7 +45,7 @@ Vostok, the "homeland of the Vos," is a land of many rivers, bitter winters, and
 
 Most of the population lives in the southern part of Vostok, called Voslaag ("home of the lowlanders"; often called South Vostok or South Vosland in [[Sembara]]), within a hundred miles of the coast, and along the lower [[Kem]] river valley. This is a region of few cities, few roads, and difficult travel, with lots of uninhabited land even within the most organized territories of major clans and chiefs. Boats, both on the rivers and the coastal [[Green Sea]], are crucial to trade, travel, and communication throughout Voslaag. 
 
-[[Cymea]] and [[Tollen]], with their strong naval traditions, have often looked to Voslaag for tribute and resources, whether extracted by violence or as part of recognition of an outside overlord. But these relationships - beyond some annual tribute (oftentimes labor, such as sailors for the navy) and a perhaps a personal relationship between a Vos and Cymean or [[Tollen]] leader - have left little impact on the internal culture and politics of Vostok. 
+[[Cymea]] and [[Tollen]], with their strong naval traditions, have often looked to Voslaag for tribute and resources, whether extracted by violence or as part of recognition of an outside overlord. But these relationships - beyond some annual tribute (oftentimes labor, such as sailors for the navy) and perhaps a personal relationship between a Vos and Cymean or [[Tollen]] leader - have left little impact on the internal culture and politics of Vostok.
 
 Few people live in the forests and hills of the northern plateaus, the region called Voskald ("homeland of the people of the cold"; often referred to as North Vostok or North Vosland in Sembara). Much more than the people of Voslaag, the Voskalders are closely connected by culture and shared history with the [[Zimkova]], especially the traditionalists in the north.  
 
@@ -91,3 +94,28 @@ More notes from GDrive, could be old
 - Some ancient connection to the folks who built the big wall in the north
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name":"Vostok","language":"unknown","pronunciation":"VOS-tok","meaning":"homeland of the Vos","status":"documented","notes":"Pronunciation and meaning are recorded in the visible article. Vosic etymology and the proposed Drankorian naming history remain explicitly tentative in the opening comment."}
+- {"name":"Vosland","role":"alias","language":"unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern regional geography, settlement, and external relationships, with the ancient wall described from that modern viewpoint.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting; added persistent name metadata, `POV: modern`, and temporal-coverage notes.
+- Removed the duplicated article in “and perhaps a personal relationship.”
+
+### Validated judgments
+- `status/review` remains supported by the target’s explicit unresolved naming and cultural-development comments and is preserved.
+- The broad modern regional entry performs its present geographic role. The wall’s ancient origin remains intentionally unknown in [[Greater Sembara]]; no origin story or political unification is inferred.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** In the closing comment headed `NOTES`, the South Vostok bullets repeating the coastal/lower-Kem population band, scarce roads, empty land, and tribute relationships substantially duplicate the visible Voslaag paragraphs; the North Vostok bullets repeating low population and Zimkovan ties duplicate the visible Voskald paragraph. After review, remove only those repeated portions. Retain the distinct overlapping-chieftain model and its inspiration links, the doubts about the regional names, the qualifications about long separation and limited travel between communities, and the tentative lake-region settlement and wall connections as explicitly unresolved editorial notes. This bounded split would leave one authoritative public account without adopting the remaining brainstorming.
+%%^End%%

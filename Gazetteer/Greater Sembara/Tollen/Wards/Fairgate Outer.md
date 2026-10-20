@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T06:59:58-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: ""}
 tags: [place]
-whereabouts: Tollen
-displayDefaults:
-  defArt: ""
 typeOf: neighborhood
-dm_notes: none
-dm_owner: none
 typeOfAlias: ward
+name: Fairgate Outer
+whereabouts: Tollen
+dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # Fairgate Outer
 >[!info]+ Information  
@@ -20,4 +23,12 @@ Many [[Halflings|halflings]] who settle in Tollen live in Fairgate Outer, and it
 
 The area has substantial farmland, particularly on the fields to the west that gently slope down to the [[Little River]], the dividing line between Fairgate Outer and the tanneries of [[Brooklawn Outer]]. Small plots of barley, oats, root vegetables, and hardy greens cluster here, although the air changes sharply at the river, with the acrid smell of curing hides wafting over the fields when the wind is from the west. 
 
-The densest settlement is clustered around the walls, and particularly the [[Fair Gate]], which sees a significant traffic. 
+The densest settlement is clustered around the walls, and particularly the [[Fair Gate]], which sees significant traffic.
+
+%%^Metadata:names:v1%%
+- {"name":"Fairgate Outer","language":"unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern ward geography and use, after settlement outside the Fair Gate; its founding date is not established.
+%%^End%%

@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T06:59:58-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: ""}
 tags: [place]
-whereabouts: Tollen
-displayDefaults:
-  defArt: ""
 typeOf: neighborhood
-dm_notes: none
-dm_owner: none
 typeOfAlias: ward
+name: Fairgate Inner
+whereabouts: Tollen
+dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # Fairgate Inner
 >[!info]+ Information  
@@ -19,3 +22,11 @@ Fairgate Inner is one of the gate-wards of [[Tollen]], clustered around the inne
 %%
 only very light vibes here - faces northern hinterland, so maybe some agricultural trade, flax/linen coming in? but open to development; Fairgate Outer is more established
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Fairgate Inner", "language": "Common"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern inner/outer ward arrangement; precise dates of the subdivision and earlier boundaries are not established.
+%%^End%%
