@@ -1,5 +1,10 @@
 ---
-tags: [source]
+lintedAt: "2026-10-19T23:30:08-04:00"
+lintVersion: "3.5"
+tags: [source, status/check/lint]
+campaign: Mawar Adventures
+name: The Ciphered Scroll
+POV: 1747
 ---
 
 ## The Ciphered Scroll of Azar
@@ -43,10 +48,29 @@ tags: [source]
 
 %%SECRET[v2:793d9ceb7cb914ba556af515697d342a]%%
 
-*(10)* Nimessa is very angry with me, cursing me as she faded from this world, but I reminded her she cannot harm me until a thousand and one days have passed. By them I will have rescued Nadine and my boys and we can flee somewhere far, far, far away from the ocean.
+*(10)* Nimessa is very angry with me, cursing me as she faded from this world, but I reminded her she cannot harm me until a thousand and one days have passed. By then I will have rescued Nadine and my boys and we can flee somewhere far, far, far away from the ocean.
 
 %%SECRET[v2:a9695669d8f21d49ae1b4beca27092d7]%%
  
 *(11)* Success! The Yi’weti has worked! It took three tries, but the poor babbling creature lives, although she speaks gibberish most of the time and water seems to pour from her at every moment. It is not Nadine, this I know, but now I just need to refine the ritual. At least the failures will obey me. I have enough Yi’weti for at least five more attempts, and probably more, as long as that thing Nimessa summoned keeps it safe. Soon I will have my dear Nadine and our boys back, I can feel it. I am so close. 
 
 %%SECRET[v2:f22290aa3e54c35a3f29d4817ac42ada]%%
+
+%%^Metadata:names:v1%%
+- {"name": "The Ciphered Scroll", "language": "Common", "status": "inferred", "notes": "Plain-English displayed work title; this does not establish the language of the ciphered text."}
+- {"name": "The Ciphered Scroll of Azar", "role": "alias", "language": "unknown", "pronunciation": "thuh SY-ferd SKROHL uhv AH-zahr", "status": "proposed", "notes": "Expanded form displayed in the heading. Proposed by combining ordinary English with the component proposal in [[Azar the Lost]] and the Arabic analogue for Mawaran in [[Languages#Mawaran]]: open ah vowels, voiced z, lightly tapped r and initial stress. The full title language and exact in-world pronunciation are not established."}
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added canonical campaign and explicit name metadata, source-profile viewpoint, and persistent work-title name entries. Corrected `By them I will have rescued` to `By then I will have rescued`.
+
+### Validated judgments
+- This in-world source is sufficient for its documentary role; its speaker's beliefs, uncertainty and historical viewpoint are preserved. All local-only SECRET blocks were reviewed and retained; private contents are excluded from this report.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Review the expanded displayed title's proposal `thuh SY-ferd SKROHL uhv AH-zahr`. Its ordinary English words use their usual readings; `AH-zahr` follows the still-proposed component in [[Azar the Lost]] and the Arabic analogue for Mawaran in [[Languages#Mawaran]], using open ah vowels, voiced z, a lightly tapped r and initial stress. The original name form and exact vowel lengths are not established. Accept or revise the alias entry before marking it documented.
+%%^End%%
