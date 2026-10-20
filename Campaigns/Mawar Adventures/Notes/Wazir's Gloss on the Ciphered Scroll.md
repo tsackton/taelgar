@@ -1,12 +1,12 @@
 ---
 lintedAt: "2026-10-19T23:30:08-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/lint]
+tags: [source]
 campaign: Mawar Adventures
 name: "Wazir's Gloss on the Ciphered Scroll"
 POV: 1747
 ---
-
+# Wazir's Gloss on the Ciphered Scroll
 
 Trok / Ryu,
 
@@ -21,19 +21,5 @@ Yours in friendship,
 Wazir Sayani
 
 %%^Metadata:names:v1%%
-- {"name": "Wazir's Gloss on the Ciphered Scroll", "language": "unknown", "pronunciation": "wah-ZEERZ GLOSS on thuh SY-ferd SKROHL", "status": "proposed", "notes": "Descriptive work label with no established title language. Proposed from the component in [[Wazir]] and the Arabic analogue for Mawaran in [[Languages#Mawaran]]: initial w, short a, voiced z, long ee and final stress. The possessive z and other words use ordinary English."}
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added canonical campaign and explicit name metadata, source-profile viewpoint, and persistent work-title name entries.
-
-### Validated judgments
-- This in-world source is sufficient for its documentary role; its speaker's beliefs, uncertainty and historical viewpoint are preserved.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Review `wah-ZEERZ GLOSS on thuh SY-ferd SKROHL`. The Arabic analogue for Mawaran in [[Languages#Mawaran]] supports initial w, short a, voiced z, long ee and final stress for the Wazir component, matching the proposal in [[Wazir]]; the possessive z and remaining words use ordinary English. The title's language and exact in-world pronunciation are not established. Accept or revise the complete-title proposal and mark it documented when accepted.
+- {"name": "Wazir's Gloss on the Ciphered Scroll", "language": "Common", "status": "documented"}
 %%^End%%

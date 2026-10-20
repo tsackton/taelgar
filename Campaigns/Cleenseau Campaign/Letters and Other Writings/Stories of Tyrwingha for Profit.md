@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:38:32-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/lint]
+tags: [source]
 campaign: Cleenseau
 name: Stories of Tyrwingha (For Profit)
 POV: 1720
 ---
 # Stories of Tyrwingha (For Profit)
+
 _Discovered in [[Cleenseau]] in early January, 1720_
 
 *Stories of Tyrwingha (For Profit)* is written as a set of notes and hints from a master storyteller to her apprentices about how to best tell popular stories from Tyrwingha. It is clearly written for someone who knows the folktales and stories, or is comfortable making them up. For tales that would be expected to be quite well known, it barely even hints at the plot. For other tales, it outlines the plot a bit and is full of marginalia explaining when to take a dramatic pause, when to pass a hat, when to embellish, when to burst into song, and so on. 
@@ -53,31 +54,5 @@ The marginalia discusses this as a morality play, how this story shows that even
 %% This is somewhat true - the details of the punishment are false and Umbraeth was never forced to make amends to the people he tricked, but the core idea that tricking people into the feywild is what got him exiled is true %%
 
 %%^Metadata:names:v1%%
-- {"name": "Stories of Tyrwingha (For Profit)", "language": "unknown", "pronunciation": "STOR-eez uhv tuhr-WING-hah (fer PROF-it)", "notes": "Proposed complete title reading: ordinary English title words surround Tyrwingha, read using the Welsh analogue for Tyrwinghan in [[Languages]]: nonfinal y approximated by uh, consonantal w, ng as in sing followed by h, final a as ah, and penultimate stress. Name segmentation and exact vowels remain uncertain. The displayed title language is not established, and this does not identify the language of the book’s text.", "status": "proposed"}
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added campaign identity, the displayed work title, a DR 1720 discovery/recognition viewpoint, and persistent name metadata.
-- Corrected “audience heartstrings” to “audience’s heartstrings” (punctuation).
-- Corrected “the the old queen” to “the old queen” (duplication).
-- Corrected “was been wracked” to “had been wracked” (grammar).
-- Corrected “would befal if” to “would befall if” (typo).
-- Corrected “storyteller clearing suggests” to “storyteller clearly suggests” (typo).
-- Corrected “sparklingly mist” to “sparkling mist” (grammar).
-- Corrected “Her the marginalia” to “Here the marginalia” (typo).
-- Corrected “warlocks of the Ethlenn” to “warlocks of Ethlenn” (grammar).
-- Corrected “This the tale of Lord Umbraeth” to “This is the tale of Lord Umbraeth” (grammar).
-- Corrected “save it the border baronies” to “save it for the border baronies” (grammar).
-- Corrected “more dangerous then whatever” to “more dangerous than whatever” (typo).
-- Corrected “what the deserve” to “what they deserve” (typo).
-
-### Validated judgments
-- The account describes a storyteller’s book and attributes its tales to the work. Hidden reliability annotations remain editorial or DM guidance, and the character-specific callout remains intact.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Confirm or revise the proposed full title pronunciation `STOR-eez uhv tuhr-WING-hah (fer PROF-it)` in `Metadata:names:v1`. The English title words are read ordinarily; the Tyrwingha component uses the Welsh analogue for Tyrwinghan in [[Languages]]: nonfinal y as uh, consonantal w, ng as in sing followed by h, final a as ah, and penultimate stress. Segmentation, exact vowels, and the title’s in-world language remain unestablished. If accepted, copy the full pronunciation to frontmatter and mark the entry documented.
+- {"name": "Stories of Tyrwingha (For Profit)", "language": "Common", "status": "documented", "notes": "Displayed work title; this does not identify the language of the book’s text."}
 %%^End%%
