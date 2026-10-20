@@ -1,6 +1,6 @@
 ---
 tags: [meta, status/check/ai]
-context: cleenseau
+campaigns: [clee]
 ---
 # Cleenseau Campaign
 
