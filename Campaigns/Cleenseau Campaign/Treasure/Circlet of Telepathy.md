@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [object]
+lintedAt: "2026-10-19T23:47:22-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
+tags: [object, status/check/lint]
 typeOf: circlet
 subTypeOf: magic
-name: Circlet of Telepathy
-whereabouts: Viepuck
 image: "[[circlet-of-telepathy.png]]"
 pcOwner: Viepuck
+name: Circlet of Telepathy
+whereabouts: Viepuck
+knownTo: [clee]
+POV: modern
 ---
 # Circlet of Telepathy
 >[!info]+ Information  
@@ -34,4 +38,28 @@ On a success, you are expelled from their mind and unable to read their thoughts
 
 If a target leaves your line of sight, or travels more than 30’ from you, they may repeat the **DC 15** Wisdom saving throw each minute. On a failure, you continue to be able to read their thoughts. On a success, you are expelled from their mind and unable to read their thoughts for 24 hours.
 
-**Suggestion**. Once per day, while reading a target’s thoughts, you can implant a suggestion in the target’s mind. This is an action, but this does not require words and does not require verbal communication, and has no material component (it works even if you are unable to share a language with the target, or don’t want to speak out loud). The target gets a **DC 15** Wisdom saving throw. On a success, they are aware of the suggestion and your detect thoughts ends, and they are immune for the next 24 hours. On a failure, the detect thoughts ends and the suggestion grows in their mind, as per the _Suggestion_ spell. The target follows the suggestion for the best of their ability for 8 hours.
+**Suggestion**. Once per day, while reading a target’s thoughts, you can implant a suggestion in the target’s mind. This is an action, but this does not require words and does not require verbal communication, and has no material component (it works even if you are unable to share a language with the target, or don’t want to speak out loud). The target gets a **DC 15** Wisdom saving throw. On a success, they are aware of the suggestion and your detect thoughts ends, and they are immune for the next 24 hours. On a failure, the detect thoughts ends and the suggestion grows in their mind, as per the _Suggestion_ spell. The target follows the suggestion to the best of their ability for 8 hours.
+
+%%^Metadata:names:v1%%
+- {"name": "Circlet of Telepathy", "language": "Common", "status": "inferred", "notes": "Plain-English descriptive name; no pronunciation guide is needed."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference description of the object and its properties, with retrospective recovery history; no narrower reading position is required by the undated article.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting.
+- Added knownTo and persistent name and temporal metadata.
+- Corrected “for the best of their ability” to “to the best of their ability.”
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** The recovery location needs reconciliation. The visible sentence says “Found in the abandoned hobgoblin fort beneath Cleenseau,” and [[Treasure]] places the circlet under Essford Manor, but [[Cleenseau - Session 10 - Original]] and its finalized recap place the animated-armor recovery beyond the portal in a ruined fort south of Cleenseau on the Enst. Confirm whether different pieces came from different locations rather than silently choosing a source. If the portal-side account describes the complete recovery, a bounded replacement is: “Recovered from enchanted armor beyond the portal, beneath the ruined fort on the south bank of the Enst.” Preserve the two-piece description unless its separate provenance is resolved.
+%%^End%%

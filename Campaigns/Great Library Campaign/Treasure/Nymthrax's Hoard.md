@@ -1,9 +1,13 @@
 ---
-tags: [object]
-name: Nymthrax's Hoard
+lintedAt: "2026-10-19T23:47:22-04:00"
+lintVersion: "3.5"
+tags: [object, status/check/lint]
 typeOf: treasure hoard
+name: "Nymthrax's Hoard"
+knownTo: [grli]
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Nymthrax's Hoard
 
@@ -15,7 +19,7 @@ DM context: [[Nymthrax's Hoard - DM Notes]] says Nymthrax was obsessed with hist
 
 ## Tower Hoard
 
-Nymthrax stored recent plunder in the tower of his lair. This part of the hoard included  Chardonian silver and gold, orcish armband currency, [[Deno'qai]] spears, shields, and animal-headed silver hand mirrors, and goods taken from local [[Bullywugs]].
+Nymthrax stored recent plunder in the tower of his lair. This part of the hoard included Chardonian silver and gold, orcish armband currency, [[Deno'qai]] spears, shields, and animal-headed silver hand mirrors, and goods taken from local [[Bullywugs]].
 
 Notable pieces included a damaged wooden eagle statue whose aquamarine eyes and mother-of-pearl talons were salvageable, marsh-reed baskets full of small trinkets and copper frog figures, freshwater pearls, bullywug potions, Chardonian healing potions, and a clay-and-river-stone Pipe of Remembrance.
 
@@ -76,3 +80,29 @@ AI note: The exact final owner or later use of most retained magic items was not
 
 Sources used: [[Great Library Session Notes - Arc 4]]; [[Great Library - Party Treasure - DM Notes]]; [[Nymthrax's Hoard - DM Notes]]; [[Tempest Towers]]; [[Staff of the Swamplands]]; [[Order of Twilight]].
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Nymthrax's Hoard", "language": "unknown", "pronunciation": "NIM-thraks-iz HORD", "status": "proposed", "notes": "Cautious spelling-based complete-form proposal: y as in him, th as in thin, x as ks, first-syllable stress in Nymthrax, an extra iz for the possessive, and ordinary English Hoard. No accepted pronunciation or source-language rule is recorded; the separate [[Nymthrax]] entry is also only proposed."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern retrospective prose about the hoard recovered in DR 1748 and its subsequent dispersal; it does not establish the present location of every retained item.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added supported `knownTo`, persistent name metadata, `POV` and temporal coverage notes; normalized frontmatter formatting.
+- Corrected “This part of the hoard included  Chardonian” to “This part of the hoard included Chardonian” (objective duplication).
+
+### Validated judgments
+- The bounded object account is sufficient for its reference role; unresolved decisions below do not require additional invented lore.
+- Reviewed all ordinary comments; preserved their private/editorial boundaries and the existing visible text except the declared copy corrections.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Review the proposed complete pronunciation `NIM-thraks-iz HORD` in `Metadata:names:v1`. Cautious spelling-based complete-form proposal: y as in him, th as in thin, x as ks, first-syllable stress in Nymthrax, an extra iz for the possessive, and ordinary English Hoard. No accepted pronunciation or source-language rule is recorded; the separate [[Nymthrax]] entry is also only proposed. Accept or revise the proposal; if accepted, set `status: documented` and copy the accepted primary pronunciation to frontmatter.
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The opening ordinary comment beginning “DM context” repeats the visible introduction, Tower Hoard and Keep Hoard account of a historical collection split between recent plunder and carefully arranged older relics. Remove those repeated descriptions, retaining the source pointer and only the distinct nonpublic access/encounter guidance as a concise private comment. The separate display-label caveat and final source/ownership-limit comment serve distinct editorial purposes and should remain.
+%%^End%%
