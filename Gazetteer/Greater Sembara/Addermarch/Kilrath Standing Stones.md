@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-name: Kilrath Standing Stones
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: planar link
+typeOfAlias: standing stones
+name: Kilrath Standing Stones
 whereabouts: Stonewolds
 dm_owner: tim
 dm_notes: none
-typeOfAlias: standing stones
+POV: modern
 ---
 # The Kilrath Standing Stones
 >[!info]+ Information  
@@ -24,3 +26,25 @@ DM notes and campaign references
 in this case, the set up was that there were two crystals (presumably originally from the feywild) that served as "anchors" on the material plane  one had be damaged, and so the gate couldn't function as it was no longer properly anchored
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Kilrath Standing Stones", "language": "unknown", "pronunciation": "kil-RATH STAN-ding stohnz", "status": "proposed", "notes": "[[Addermarch Village Names]] explicitly records kil-RATH for the used Kilrath name. That Worldbuilding naming draft remains provisional; the proposal preserves its second-syllable stress, short i, and English unvoiced th, followed by ordinary English Standing Stones. The draft is more specific than the regional French/English and Welsh analogue options in [[Languages]], but does not establish exact in-world phonology."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference geography and institutions.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added primary name metadata and supported temporal POV metadata.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The primary name entry records proposed pronunciation `kil-RATH STAN-ding stohnz`. [[Addermarch Village Names]] explicitly records kil-RATH for the used Kilrath name. That Worldbuilding naming draft remains provisional; the proposal preserves its second-syllable stress, short i, and English unvoiced th, followed by ordinary English Standing Stones. The draft is more specific than the regional French/English and Welsh analogue options in [[Languages]], but does not establish exact in-world phonology. Accept or revise it; if accepted, copy the pronunciation to frontmatter and mark the existing entry documented.
+%%^End%%

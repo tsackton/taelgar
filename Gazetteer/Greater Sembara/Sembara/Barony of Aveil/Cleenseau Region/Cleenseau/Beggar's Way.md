@@ -1,9 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
 tags: [place]
 typeOf: neighborhood
-name: Beggar's Way
+name: "Beggar's Way"
 whereabouts: Cleenseau
+POV: modern
 ---
 # The Beggar's Way
 >[!info]+ Information  
@@ -14,4 +17,8 @@ Beggar’s Way is a small cluster of single-room huts outside the walls and west
 
 %%^Metadata:names:v1%%
 - {name: "Beggar's Way", language: Common, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern description of the subject in the current campaign era; the article does not require a narrower temporal reading position.
 %%^End%%

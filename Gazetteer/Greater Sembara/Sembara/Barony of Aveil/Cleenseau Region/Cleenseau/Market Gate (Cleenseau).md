@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
 tags: [place]
 typeOf: infrastructure
 typeOfAlias: gate
 name: Market Gate
 whereabouts: Cleenseau
+POV: modern
 ---
 # Market Gate (Cleenseau)
 >[!info]+ Information  
@@ -15,4 +18,8 @@ The Market Gate is a public entrance in [[Cleenseau]]’s eastern wall, near the
 
 %%^Metadata:names:v1%%
 - {name: Market Gate, language: Common, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; describes the gate, its connections, and routine guarding without a narrower supported date.
 %%^End%%

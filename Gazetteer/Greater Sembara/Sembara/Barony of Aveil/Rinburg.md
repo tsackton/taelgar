@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Rinburg
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: free city
 population: 2341
-whereabouts: Barony of Aveil
+name: Rinburg
 pronunciation: Rin-burg
-dm_notes: color
+whereabouts: Barony of Aveil
 dm_owner: mike
+dm_notes: color
+POV: 1720s
 ---
 # Rinburg
 *(Rin-burg)*
@@ -59,17 +62,46 @@ The wards of Rinburg are:
 
 * Wharfside, by the river, known for the bustling docks
 * Templesward, known for its spacious boulevards and a wide plaza that is home to the Temple of the Night Queen
-* Mudlathes, the potter's quarter, the known for Cruxe Way, a busy lane that twists amongst the many ceramics factories
+* Mudlathes, the potter's quarter, known for Cruxe Way, a busy lane that twists amongst the many ceramics factories
 * Stoneyards, the mason's quarter
 * Westgate, a richer quarter by the western gates
 * North Market
 * Newtown, the newest quarter, often cramped
 * Fenswick, the name for the settled land outside the walls and to the east, drawing near to the ruins
 
-*Distances
+*Distances*
 		to [[Fellburn]], 95 miles
 		to [[Cleenseau]], 60 miles
 		to [[Dallet]], 40 miles
 
+%%^Metadata:names:v1%%
+- {"name": "Rinburg", "language": "unknown", "pronunciation": "Rin-burg", "status": "documented", "derivedFrom": "Lake Rin", "notes": "The article states that Rinburg is named for Lake Rin; no additional etymology is established."}
+%%^End%%
 
+%%^Metadata:map:v1%%
+locations:
+  - {map: world, locator: }
+%%^End%%
 
+%%^povNotes:v1%%
+Temporal coverage: an early-1720s account of Rinburg under Lord Mayor Alaric Benec, with the DR 1648 refounding and earlier destruction treated retrospectively; the bounds of Alaric's tenure are not established.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded supported primary-name metadata without changing accepted frontmatter pronunciation; normalized frontmatter formatting.
+- Recorded the article viewpoint and concise temporal coverage in persistent metadata.
+- Corrected 2 objective spelling, grammar, or punctuation defects.
+- Added the required typed settlement map entry, leaving its unsupported locator blank for human completion.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — metadata.map_location_missing:** The required settlement map entry has `map: world` and a blank `locator`; no supported world-map coordinate was established by this review. Supply the verified locator in `Metadata:map:v1`, retaining the existing entry rather than adding a second one.
+
+- [ ] **Suggestion — editorial.name_spelling:** The Governance list calls all five organizations minor guilds, but one is written `the Clothier's Guide`. Confirm whether the intended name is `the Clothier's Guild`; that is the copy-ready correction if so. The proper organization name is left unchanged because ordinary lint does not decide names without confirmation.
+%%^End%%

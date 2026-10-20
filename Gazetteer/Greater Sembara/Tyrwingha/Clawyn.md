@@ -1,15 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Clawyn
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: settlement
+subTypeOf: null
 typeOfAlias: village
 population: 290
-whereabouts: Tyrwingha
+name: Clawyn
 pronunciation: CLOW-in
-dm_notes: color
+whereabouts: Tyrwingha
 dm_owner: mike
-subTypeOf:
+dm_notes: color
+POV: 1720
 ---
 # Clawyn
 *(CLOW-in)*
@@ -38,3 +41,33 @@ Celyn was a surprise youngest child. His maternal aunt Dilys, Olwen's younger si
 #### Celyn's agemates
 
 The [[Ellis Crowther|Crowther]] [[Llew Crowther|twins]] come from another vineyard-working family. Other young people in the village include Idris, an older bully whose swagger rarely impressed others; Gwawr, a beautiful Black girl who enjoyed the attention she received from boys; Tegan, Gwawr's beloved and a lover of gossip; Cadwgan, a potter's son who courted Tegan; Delwyn, a pretty gay young man; Nesta, recently pregnant; and Rhian, probably at the older end of a slightly younger age group.
+
+%%^Metadata:names:v1%%
+- {"name": "Clawyn", "language": "unknown", "pronunciation": "CLOW-in", "status": "documented"}
+%%^End%%
+
+%%^Metadata:map:v1%%
+locations:
+  - {map: world, locator: }
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1720-era family and village portrait with retrospective childhood relationships; the agemates’ life stages and unresolved family circumstances are not comprehensively dated.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added primary name metadata and supported temporal POV metadata.
+- Added the required typed map skeleton without inventing positions.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — metadata.map_location_missing:** The typed map block has a blank world-map locator. Supply a verified locator from the map; the linter has not inferred a coordinate.
+
+- [ ] **Suggestion — editorial.reference_voice:** The family section repeatedly shifts from in-world reference prose into real-world development commentary: “Kiya’s sketch expected her to be married,” “Kiya described him as autistic and floated the possibility,” and “Her husband was tentatively imagined”. A human rewrite should retain the established occupations, kinships, disabilities, and explicitly unresolved family circumstances, while placing unadopted future possibilities and real-world authorship commentary in editorial comments. Do not turn those possibilities into established facts.
+%%^End%%
