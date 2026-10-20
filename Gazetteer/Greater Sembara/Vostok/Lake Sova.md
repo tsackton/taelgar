@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T06:59:58-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: lake
@@ -9,6 +11,7 @@ pronunciation: LAYK SOH-vah
 whereabouts: Vostok
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Lake Sova
 *(LAYK SOH-vah)*
@@ -29,4 +32,8 @@ Geographic clarification:
 
 %%^Metadata:names:v1%%
 - {name: Lake Sova, language: Vosic, pronunciation: LAYK SOH-vah, status: documented, notes: "Sova is Vosic; Lake is the Common descriptor."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference geography and use; no narrower temporal reading position is required by the article.
 %%^End%%

@@ -1,17 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/check/mike
-  - status/check/ai
-name: Lavnoch Plateau
-aliases:
-  - Lavnoch
+lintedAt: "2026-10-20T06:59:58-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/mike, status/check/ai, status/check/lint]
 typeOf: topographical feature
-whereabouts: Zimkova
-dm_notes: none
-dm_owner: none
 typeOfAlias: plateau
+name: Lavnoch Plateau
+aliases: [Lavnoch]
+whereabouts: Zimkova
+dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # The Lavnoch Plateau
 >[!info]+ Information  
@@ -44,7 +43,7 @@ Lavnoch is only sparsely populated, home to scattered Zimka clans and small fort
 
 %% not sure this level of detail is needed 
 #### Demographics
-The Lavnoch Plateau supports an estimated 20,000 to 35,000 inhabitants across its broad expanse. Settlement is uneven: nearly three-quarters of Lavnoch’s population lives in the **southern and western** borders of the plateau, where the land drops slightly, the winters are marginally gentler. Much of the remainder lives in the gentle valleys carved by the three largest rivers that flow from the northern uplands to the Semb, the: the Dornach, the Kelmor, and the Dreuswell. %% Not sure about this names, placeholders for now, except I like the Dornach %%
+The Lavnoch Plateau supports an estimated 20,000 to 35,000 inhabitants across its broad expanse. Settlement is uneven: nearly three-quarters of Lavnoch’s population lives in the **southern and western** borders of the plateau, where the land drops slightly, the winters are marginally gentler. Much of the remainder lives in the gentle valleys carved by the three largest rivers that flow from the northern uplands to the Semb: the Dornach, the Kelmor, and the Dreuswell. %% Not sure about these names, placeholders for now, except I like the Dornach %%
 
 The **northern uplands**—those above 4,500’—hold only a handful of permanent hamlets, mostly herding communities clustered around rare sheltered bowls or reliable springs.
 
@@ -67,8 +66,33 @@ The plateau is bordered in the west by the foothills of the [[Sentinel Range]] w
 %%
 Some trade with dwarves is important; this is a high plateau but in general is part of the wider "Zimkova".
 
-This has been intentionally significant refactored from earlier ideas that suggested a distinct "kingdom" in the highlands. The terrain and lifestyle of the plateau suggests a less organized/feudal kind of place and it seems more interesting to consider Ardlas and Lavnoch as very different, rather than squabbling brothers. There may be space for Ardlas itself to have several different political organizations within it, but see [[Ardlas]] for more.
+This has been intentionally significantly refactored from earlier ideas that suggested a distinct "kingdom" in the highlands. The terrain and lifestyle of the plateau suggests a less organized/feudal kind of place and it seems more interesting to consider Ardlas and Lavnoch as very different, rather than squabbling brothers. There may be space for Ardlas itself to have several different political organizations within it, but see [[Ardlas]] for more.
 
 %%
 
+%%^Metadata:names:v1%%
+- {"name": "Lavnoch Plateau", "language": "unknown", "pronunciation": "LAHV-nokh pla-TOH", "status": "proposed", "notes": "Regional Zimkovan context favors the Baltic analogue in [[Languages]]; this proposal follows its Latvian option with initial stress in Lavnoch, ah for a, voiced v, a full o, and ch as kh, followed by the ordinary Common descriptor Plateau. Lithuanian stress or an older Old Zimkovan loan could differ; no exact language or phonology for Lavnoch is established."}
+%%^End%%
 
+%%^povNotes:v1%%
+Temporal coverage: broadly modern plateau geography and pastoral settlement; elevations, vegetation, and historical political relationships remain subjects of unresolved editorial discussion.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Corrected the duplicated “the” around the river-list colon, “this names” to “these names,” and “significant refactored” to “significantly refactored” in the existing shared comments; their boundaries and visibility are unchanged.
+- Normalized frontmatter field order and collection formatting.
+- Added primary name metadata with an unresolved pronunciation proposal and its derivation.
+- Recorded the supported article POV and persistent temporal-coverage interpretation.
+
+### Validated judgments
+- The visible geography and pastoral account perform the plateau’s regional role. Terrain alternatives in comments do not independently establish a factual contradiction. [[Zimkova]] and [[Timeline of Sembaran History]] retain lower-confidence political accounts; no unified kingdom or suzerainty history was adopted.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Review `LAHV-nokh pla-TOH` in `Metadata:names:v1`. [[Zimka]] supplies a Zimkovan-speaking regional context, and [[Languages]] gives Baltic (Lithuanian or Latvian), with Old Zimkovan Maltese loans. This proposal chooses the Latvian option: initial stress in Lavnoch, ah for a, voiced v, a full o, and ch as kh; Plateau uses ordinary Common. Lithuanian stress or an older loan could differ, and the name’s actual language remains unknown. Accept or revise; copy an accepted reading into frontmatter and mark the entry `documented`.
+- [ ] **Warning — privacy.comment_boundary:** The ordinary comment opening before “#### Demographics” contains an inner `%%` pair around the naming reminder after its first paragraph. Obsidian closes the outer comment at the first inner delimiter and reopens it at the second, so the reminder is visible. Proposed repair: delete only those two inner delimiters and retain the reminder’s text inside the surrounding Demographics comment. This visibility change requires human adoption and was not applied.
+- [ ] **Suggestion — editorial.public_material_candidate:** The final ordinary comment opens with a developed claim that trade with dwarves is important, before turning to political-refactoring notes. If adopted, it would give the visible pastoral economy a useful trade connection. Candidate: “Trade with dwarven realms is also important to Lavnoch’s communities.” This is an adoption proposal from a noncanonical shared comment. Retain the political-refactoring discussion and uncertain Ardlas alternatives as editorial guidance; no private organization change is required.
+%%^End%%

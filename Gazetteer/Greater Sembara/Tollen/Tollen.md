@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Free City of Tollen
+lintedAt: "2026-10-20T06:59:58-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: settlement
+typeOfAlias: city
+name: Free City of Tollen
+aliases: [Free City of Tollen, Tollen, Tollender, Tollish]
 whereabouts: Western Green Sea
-aliases: [Free City of Tollen,  Tollen, Tollender, Tollish]
 dm_owner: tim
 dm_notes: important
-typeOfAlias: city
+POV: modern
 ---
 # The Free City of Tollen
 >[!info]+ Information  
@@ -15,7 +18,7 @@ typeOfAlias: city
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% 
-dm_notes -> there are still a fair number of possibly-relevant notes to expose from Dunmar Campaign, including some relevant to major NPCS ([[Caelynn]]) and some overall vibes that may not be fully caputred
+dm_notes -> there are still a fair number of possibly-relevant notes to expose from Dunmar Campaign, including some relevant to major NPCS ([[Caelynn]]) and some overall vibes that may not be fully captured
 %%
 
 Tollen is a bustling port on the [[Volta]], a growing naval power, a cultural mixing ground, and an entrepôt where goods from across the [[Green Sea]] are traded. Founded thousands of years ago, it has navigated the politics of the region and maintained its independence for centuries. It is a haven for merchants, traders, intellectuals, mages, poets, writers, and scholars, known for the [[University of Tollen]] and its powerful guilds. 
@@ -27,7 +30,7 @@ Tollen is also a city of guilds: the various trade associations, craft guilds, a
 ## Geography and Hydrology
 _See more: [[Hydrology of Tollen]]_
 
-Tollen sits astride the [[Volta]] river, though most development is on the north side, which is generally rockier, less marshy, and generally less prone to flooding. Five tributaries of the Volta flow through the city and its environs, from west to east: the [[Little River]], the [[Muddy River]] (the only tributary that joins the Volta on the south bank), [[Fat Brook]], the [[Carnbrook]], and the [[Greywash]]. The area around the confluence of the Volta, Little, and Muddy rivers is swampy and prone to flooding; the area around the confluence of the Greywash and the Volta, east of the city proper, is even more so. The difficult terrain around the Greywash has long discouraged eastern expansion of the city. 
+Tollen sits astride the [[Volta]] river, though most development is on the north side, which is generally rockier, less marshy, and generally less prone to flooding. Five tributaries of the Volta flow through the city and its environs, from west to east: the [[Little River]], the [[Muddy River (Tollen)|Muddy River]] (the only tributary that joins the Volta on the south bank), [[Fat Brook]], the [[Carnbrook]], and the [[Greywash]]. The area around the confluence of the Volta, Little, and Muddy rivers is swampy and prone to flooding; the area around the confluence of the Greywash and the Volta, east of the city proper, is even more so. The difficult terrain around the Greywash has long discouraged eastern expansion of the city.
 
 %% the marshes around the Greywash are a plausible place for a lizardfolk community if desired - this never really came up when the Dunmar campaign was in Tollen but might be nice to add for various reasons, though perhaps this is -- unusually -- a relatively new lizardfolk settlement (say, post Great War, or maybe just post plague), instead of a remnant of the ancient swamps %% 
 
@@ -142,7 +145,7 @@ Tollen is also deeply independent. While it was a Skaer port, and then deeply in
 
 Tollen is unusual in Taelgar in being a city with many religious traditions. Only Mos Numena and the Skaer worship of [[Kaikkea]] have been introduced in play, but there is space for kestavan worship and perhaps other stranger things. Tollen is a good place for a strange temple to a forgotten god to still exist, for example. 
 
-One possibility is that there is some kind of magical or extraplanar reaason why it is so religiously open. Perhaps it has a connection to outer planes, or it was defended during the [[Downfall Wars]] by an army of small gods and something about that sacrifice magnifies the divine essence. Or something else. 
+One possibility is that there is some kind of magical or extraplanar reason why it is so religiously open. Perhaps it has a connection to outer planes, or it was defended during the [[Downfall Wars]] by an army of small gods and something about that sacrifice magnifies the divine essence. Or something else.
 
 ### Economic Logic
 
@@ -182,4 +185,90 @@ Unclear where metal comes from. It is possible there are mines in the Draukar Hi
 
 An open question is exactly to what extent Tollen controls its hinterlands. It must, to a certain extent? And of course more recently it presumably controls the entire [[Gulf of Tollen]] in addition to the immediate hinterlands. 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Free City of Tollen, role: primary, language: unknown, pronunciation: free SIT-ee uhv TOL-en, status: proposed, notes: "Analogue-informed proposal using the Tollish guidance in [[Languages]]: English with Germanic or Slavic loan words. The city-name component has initial stress, short o before doubled ll, one l sound, and unstressed final en; Free City of uses ordinary English pronunciation. Neither an accepted pronunciation nor the language of the complete name is established."}
+%%^End%%
+
+%%^Metadata:map:v1%%
+locations:
+  - {map: world, locator: }
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern city reference with selected ancient history; the complete seventeen-ward layout is established for the DR 1740s, while the dates of some recent urban expansions remain uncertain.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter field order and collection formatting.
+- Added persistent name metadata with a proposed complete pronunciation, the required settlement map skeleton, and `POV: modern` with temporal coverage guidance.
+- Corrected two objective typos in shared editorial guidance.
+- Corrected the hydrology link to [[Muddy River (Tollen)|Muddy River]]; the original bare target resolved to the unrelated river in [[Morkalan]].
+
+### Validated judgments
+- The visible article supplies setting-specific geography, urban layout, institutions, trade, and history sufficient for a city overview; undeveloped political details do not leave a central reference gap.
+- Current [[Gulf of Tollen]], [[Western Gulf]], and [[Western Cymea]] corroborate the naval and colonial context. [[History of Tollen]] supplies the historical framework, while [[Wards of Tollen]] and [[Map of Tollen]] establish the complete layout for the DR 1740s.
+- The broad city reference supports a modern POV; historical backstory and incidental campaign visits do not require a narrow encounter snapshot. Uncertain urban-expansion dates remain uncertain.
+- Confirmed local evidence supports the unchanged positive `dm_notes` attestation. Its contents remain outside this report; no recovery screen or attestation change was performed.
+
+### Open findings
+
+- [ ] **Warning — metadata.map_location_missing:** The required single-location map block is present, but its `locator` is blank. [[Map of Tollen]] supplies an urban layout rather than a verified world-map hex. Fill the existing `map: world` entry with the verified coordinate; none has been guessed.
+
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent primary entry proposes `free SIT-ee uhv TOL-en` for Free City of Tollen. No accepted city pronunciation is established in the reviewed sources. The matched Tollish guidance in [[Languages]] uses an English analogue with Germanic or Slavic loan words; the proposal uses initial stress, a short o before doubled ll, one l sound, and an unstressed final en for Tollen, with ordinary English pronunciation for Free City of. This analogue does not establish exact in-world phonology or the language of the complete name. Accept or correct the complete reading; if accepted, copy it into frontmatter and mark the existing entry `documented`.
+
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The opening sentinel above the generated “Places in Tollen” table is `%%^Campaign:None%%`. The canonical private sentinel is `%%^Campaign:none%%`. Replace only that opening marker, retaining the table and its closing `%%^End%%` in place. Because marker interpretation can affect publication, this is a human proposal; no visibility structure has been changed automatically.
+
+- [ ] **Warning — coverage.established_fact_missing:** “Governance and Laws” states only that goods for sale are heavily taxed, and the following shared comment leaves guild and halfling treatment unresolved. [[Trading in the Green Sea#Tollen and the guild network]] now provides the missing qualification that explains the guilds' protected commercial position. Candidate: “Guild-affiliated importers pay much lower customs duties than independent outside traders. Halfling merchants are normally treated as guild-affiliated. Once properly imported, goods may be sold freely in the city's markets, subject to market fees.” Reconcile the older fiscal questions in the comment with this adopted account; exact rates and the treatment of individual dockside deals remain unspecified.
+
+- [ ] **Suggestion — editorial.public_material_candidate:** In the shared “DM Notes → Economic Logic” block, the opening finisher/redistributor account and its input/output lists form a developed economic model, distinct from the explicitly tentative “Trade Flows” paragraphs below. Confirm it for public adoption before publishing. Candidate: “Tollen's workshops finish and redistribute raw and partly processed imports. The Volta hinterland supplies hides, timber, furs, flax, and some wool; the Sembaran uplands supply wool, grain, and wine; and Tollish fleets bring dye-stuffs, magical reagents, rare woods, and oils. These materials support dyed cloth, fine garments, leather goods, magical inks and tattoos, ships, and rigging.” This would connect the current list of industries to their supply network. If adopted, replace the corresponding hidden input/output sketch with a short editorial pointer; retain the historical comparisons and unresolved questions about precise trade flows, metals, colonial control, and hinterland politics as private development guidance. The proposal does not adopt those possibilities.
+
+### DM evidence
+- [[_DM_/Brainstorming/Campaign Pitches]]
+- [[_DM_/Brainstorming/Campaigns Overview]]
+- [[_DM_/Brainstorming/Family Campaign Ideas]]
+- [[_DM_/Brainstorming/One Shot Ideas/Escape the Death Arena]]
+- [[_DM_/Brainstorming/Short Adventure Ideas (2025-2026)]]
+- [[_DM_/Lost in the Feywild World Notes]]
+- [[_DM_/Secret Worldbuilding/Language and Culture From OneNote]]
+- [[_DM_/_Campaign 3/Campaign 3 - Early Brainstorming - Overview]]
+- [[_DM_/_Campaign 3/Dunmar Epliogue - Campaign 3 Timing]]
+- [[_DM_/_Dunmari Frontier/Campaign Outline - Arcs and Levels]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Hralgar (Session 62- )/Session 62/Session 62 1]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Karawa (Sessions 4-6)/Festival Visitors and NPCs]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Session 46 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Wellby Solo Arc/Session 1 - Wellby]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Wellby Solo Arc/Session 2 - Wellby]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/Campaign Outline]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Campaign Brainstorming]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/Solo Quests]]
+- [[_DM_/_Dunmari Frontier/Leveling]]
+- [[_DM_/_Dunmari Frontier/NPCs/Bernie Tidewater]]
+- [[_DM_/_Dunmari Frontier/NPCs/Tollen NPC Images]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Arc Outline]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 113 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 115 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 134 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 74-75 (Scepter)/Brainstorming - Scepter Arc]]
+- [[_DM_/_Dunmari Frontier/Session 74-75 (Scepter)/In Game Notes]]
+- [[_DM_/_Dunmari Frontier/Session 74-75 (Scepter)/Tollen DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 74-75 (Scepter)/Vetta/Docks Key]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Prep Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 76 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 77 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 78 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 79 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 81 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 82 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 83 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 84 - Brainstorming]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 84 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 85 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 95 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 96 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 100 - DM Notes]]
 %%^End%%

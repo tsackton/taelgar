@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T06:59:58-04:00"
+lintVersion: "3.5"
 tags: [place]
-name: Battery
 typeOf: neighborhood
+typeOfAlias: ward
+name: Battery
 whereabouts: Tollen
 dm_owner: none
 dm_notes: none
-typeOfAlias: ward
+POV: 1740s
 ---
 # Battery
 >[!info]+ Information  
@@ -18,3 +21,11 @@ A ward of Tollen located on the south bank of the [[Volta]], across from [[Skepw
 %%
 should be a little swampy, not particularly pleasant - it is near the marshes at the confluence of the Greywash after all. but there is a lot of space here, and minimal space in Skepwalk / Fiskurth, so new docks and especially shipbuilding capacity tend to end up here. 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Battery", "language": "Common"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: the developed ward layout and uses of Tollen in the DR 1740s; earlier urban expansion is historical background, and precise dates for earlier boundaries are not established.
+%%^End%%
