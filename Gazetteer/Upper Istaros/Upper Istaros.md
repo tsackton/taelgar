@@ -1,10 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place,  status/wip, status/check/ai]
+lintedAt: "2026-10-20T10:36:55-04:00"
+lintVersion: "3.5"
+tags: [place, status/wip, status/check/ai, status/check/lint]
 typeOf: region
-whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
+name: Upper Istaros
+whereabouts:
+  - {type: home, location: Taelgar, linkText: in}
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # The Upper Istaros
 >[!info]+ Information  
@@ -53,7 +58,7 @@ markerTag: location-source
 ## Topography and Major Features
 _See more: [[Istaros Watershed]]_
 
-The Upper Istaros is defined by its rivers. This region contains [[Lake Aeulian]], the headwaters of the [[Istaros]], as well the river systems that feed it: the [[Aursen]], [[Douren]], [[Andonne]] , and [[Kulthul]] from the [[Sentinel Range|Sentinels]]; the [[Valmont]] and its tributaries; the [[Thalurien|Thalúrien]] watershed, and the [[Kezhur]] watershed. 
+The Upper Istaros is defined by its rivers. This region contains [[Lake Aeulian]], the headwaters of the [[Istaros]], as well as the river systems that feed it: the [[Aursen]], [[Douren]], [[Andonne]] , and [[Kulthul]] from the [[Sentinel Range|Sentinels]]; the [[Valmont]] and its tributaries; the [[Thalurien|Thalúrien]] watershed, and the [[Kezhur]] watershed.
 
 %%SECRET[v2:3432fa57cf06ae2550342e7f7cbf1bd2]%%
 
@@ -80,7 +85,7 @@ To the south, the free [[Orcs]] who call themselves the [[People of the Rainbow]
 
 {descriptive in world text about climate}
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 
 {real world climate analogs and inspiration}
 
@@ -111,7 +116,7 @@ After the fall of Drankor, the Upper Istaros attracted settlers and refugees who
 
 %%
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ## DM Notes and Meta
 _See also: {links to lists, e.g. Places in Region}_
 
@@ -127,4 +132,44 @@ _See also: {links to lists, e.g. Places in Region}_
 
 *Important Places in Staging:* None, although some secondary rivers need names eventually. 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Upper Istaros, role: primary, language: unknown, pronunciation: UP-er ISS-tah-rohs, status: proposed, notes: "Uses the documented ISS-tah-rohs pronunciation in [[Istaros]] with the ordinary English word Upper; the complete compound remains a proposal."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern regional overview before the late-DR 1749 restoration at Isingue; history and climate remain incomplete, and later local recovery is not yet incorporated.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added the explicit place name, a proposed complete-name pronunciation, and modern temporal metadata.
+- Corrected “as well the river systems” to “as well as the river systems” and normalized the two `Campaign:None` opening markers to the equivalent canonical `Campaign:none`, preserving their contents and exclusion scope.
+
+### Validated judgments
+- `status/wip` is supported by the unfinished Climate and Major Historical Eras sections and the editorial checklist; it is preserved.
+- The SECRET blocks and ordinary hidden material were independently reviewed. Their contents remain private, and dm_notes remains the human-authored value `none`.
+
+### Editorial assessment
+**Underdeveloped**. The regional overview lacks a visible historical account connecting the Istabor heartland’s destruction to its modern successor communities, and its Climate section remains a placeholder. It also has no disposition for the late-DR 1749 recovery at Isingue. The smallest useful scope is a short sourced history and climate summary plus a decision whether to update the current state or retain this earlier overview; unsupported climate detail and unfinished historical possibilities should remain open.
+
+- Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** The public Major Historical Eras section has no historical account, although [[Istabor Alliance]] establishes the region’s prewar polity, agricultural and trade role, destruction, and refugee legacy. Copy-ready bounded summary: “Before the [[Great War]], the fertile upper Istaros supported the [[Istabor Alliance]], a loose confederation centered culturally and spiritually on [[Isingue]]. Its agricultural communities also prospered from trade between Cymea, Dunmar, and Sembara. The destruction of Isingue during [[Cha'mutte's Plague]] broke the alliance; many descendants of its refugees now live in the [[Refounded Alliance of Aurbez]].” This does not adopt the hidden draft’s additional unconfirmed early history.
+
+- [ ] **Warning — coverage.established_fact_missing:** The Climate section still contains `{descriptive in world text about climate}`. [[Climate of Greater Sembara and Aurbez#Upper Istaros and historical Isingue]] provides a limited baseline: “The Upper Istaros lowlands have warm to hot summers and relatively mild winters, becoming drier toward the southern interior.” The atlas separately describes colder Aurbez highlands and spring rain followed by summer drying in Andonne. Add a short account distinguishing those areas; retain uncertainty about ordinary lowland rainfall seasonality and do not equate historical magical fertility with the present Plaguelands.
+
+- [ ] **Warning — coverage.later_material_change:** The overview still presents an entirely unrecovered Plaguelands and has no disposition for the lasting change recorded in [[dunmari-frontier-138-session-recap]] and that session’s finalized beat facts (beat-012 and beat-013): the ooze at Isingue was destroyed and the Heartroot returned, beginning local cleansing and a Ranger camp. Choose whether to update the article and POV, defer with an appropriate game-update status, or deliberately retain an earlier overview. Copy-ready dated addition if updating: “In late DR 1749, the [[Dunmar Fellowship]] destroyed the ooze at [[Isingue]]. The restored [[Heartroot]] began cleansing the river water, and [[Rangers]] established a camp among the ruins.” This establishes local recovery, not the healing of the entire Plaguelands. Any new Date or campaign visibility wrapper requires a human decision.
+
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared `Campaign:none` history following `DRAFT - Set as Campaign:None` contains a coherent early-history account absent from the visible overview. If adopted, add: “Long ago, the [[Istaros]], known to the elves as the Aistanë, flowed through the forests of [[Alcarinque|Alcarinquë]]. After the [[The Downfall|Downfall]], the elves retreated to [[Orenlas]], and the fertile valleys became a major agricultural heartland of the [[Drankorian Empire]].” This is a proposal from the shared draft, not an assertion that its early history has been adopted. Keep the unadopted post-Drankor settlement motives and the separate DM development guidance private until reviewed; no automatic promotion or reorganization is proposed.
+
+- [ ] **Warning — metadata.names_unresolved_status:** Review the complete-name proposal `UP-er ISS-tah-rohs`. The component pronunciation `ISS-tah-rohs` is documented in [[Istaros]] and Upper uses ordinary English pronunciation; no new phonological or language analogue is inferred. Accept or revise the full form, mark it documented on acceptance, and copy the accepted primary pronunciation to frontmatter.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/The Story of Apollyon and Cha'mutte]]
 %%^End%%

@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T10:36:55-04:00"
+lintVersion: "3.5"
 tags: [place]
+typeOf: desert
 name: Garamjala Desert
 aliases: [Garamjala]
-whereabouts: 
-- {type: home, start: 1545, location: Drankorian Hinterland} # start is approx
-typeOf: desert
 pronunciation: ga-RUM-ja-la
-dm_notes: important
+whereabouts:
+  - {type: home, start: 1545, location: Drankorian Hinterland}
 dm_owner: tim
+dm_notes: important
+POV: modern
 ---
 # The Garamjala Desert
 *(ga-RUM-ja-la)*
@@ -16,7 +19,9 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Garamjala is a vast arid desert east and south of [[Dunmar]] that stretches from the [[Yuvanti Mountains]] to the eastern banks of the [[Istaros]], and beyond. It was formed in the aftermath of the [[Great War]] as the upheavals in [[Dunmar]] raised the [[Yuvanti Mountains]] mountains, and lifted the central grasslands. As the rains stopped, the land turned dusty and rocky.
+%% Whereabouts start (1545): # start is approx %%
+
+The Garamjala is a vast arid desert east and south of [[Dunmar]] that stretches from the [[Yuvanti Mountains]] to the eastern banks of the [[Istaros]], and beyond. It was formed in the aftermath of the [[Great War]] as the upheavals in [[Dunmar]] raised the [[Yuvanti Mountains]], and lifted the central grasslands. As the rains stopped, the land turned dusty and rocky.
 
 The desert is now largely a landscape of rocky canyons, arid plateaus and rocks shaped by the wind, interspersed with open expanses of sandy dunes that bury lost cities. However, occasional rain does reach the desert during the monsoons, and rare thunderstorms cause the landscape to burst into bloom. The interior, east of the [[Kharja]] and west of the [[Istaros]], southwest of [[Xurkhaz]] is the driest and least hospitable, with miles of bare, cracked sand. The northwestern fringes, near [[Bas Udda]] and [[Karawa]], tend to be rockier and more likely to get occasional monsoon rain.
 
@@ -39,3 +44,12 @@ While the desert is mostly inhospitable, the [[Istaros]] drains an extensive reg
 The desert supports little life. Nonetheless, the occasional giant vulture or band of ogres eke out a living amongst the rocks and sand, and desert-adapted axebeaks hunt small rodents in the more hospitable regions on the edges of the desert. 
 
 %%SECRET[v2:9e4ddbaf87d846dadaa7b1d65e30735a]%%
+
+%%^Metadata:names:v1%%
+- {name: Garamjala Desert, role: primary, language: unknown, pronunciation: ga-RUM-ja-la desert, status: documented, notes: "Garamjala's pronunciation is recorded in this note's frontmatter; Desert is read ordinarily."}
+- {name: Garamjala, role: alias, language: unknown, pronunciation: ga-RUM-ja-la, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography after the upheavals at the end of the Great War; earlier river conditions are historical, and present uncertainty about the rivers is preserved.
+%%^End%%

@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place] 
-name: Aurbez and the Andonne
+lintedAt: "2026-10-20T10:36:55-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: region
+name: Aurbez and the Andonne
 whereabouts: Upper Istaros
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Aurbez and the Andonne
 >[!info]+ Information  
@@ -21,11 +24,11 @@ The region is bordered by the [[Plaguelands]] and the [[Darkwood]] in the east, 
 
 The land is lightly populated, but what people there are mostly live along the two rivers: the [[Masance]] and the [[Aursen]]. A significant road, the [[Maseau - Dunmar Road]] also runs through the region, providing a link between [[Sembara]] and the west. Traffic along this road grows every year. 
    
-In addition to these rivers, the land is divided into a highland and a lowland. A large plateau, the [[Aurbez Plateau]], stretches out from the mountain foothills from the just west of the headwaters of the [[Masance]] to the headwaters of the [[Aursen]]. This highland is gentler than the rest of the region, as the ash storms fall less strongly here, and there is marginally more rain. Here ,aspens thrive amongst small streams and alpine meadows. The Aurbez plateau forms a steep escarpment along much of its eastern edge; to the east of the plateau, beyond the Masance, the land flattens significantly into long scrubby grasslands, the [[Andonne Plain]]. The soil here is marginal, but can support grazing, especially north of the [[Andonne]] where the plague ash lies less heavy on the land.
+In addition to these rivers, the land is divided into a highland and a lowland. A large plateau, the [[Aurbez Plateau]], stretches out from the mountain foothills from just west of the headwaters of the [[Masance]] to the headwaters of the [[Aursen]]. This highland is gentler than the rest of the region, as the ash storms fall less strongly here, and there is marginally more rain. Here, aspens thrive amongst small streams and alpine meadows. The Aurbez plateau forms a steep escarpment along much of its eastern edge; to the east of the plateau, beyond the Masance, the land flattens significantly into long scrubby grasslands, the [[Andonne Plain]]. The soil here is marginal, but can support grazing, especially north of the [[Andonne]] where the plague ash lies less heavy on the land.
 
 The region is divided into six areas, with different climate and politics.
 ## The Andonne River
-The land along the banks of the [[Andonne]] and further south is largely a no-man’s land. The ash storms are fierce here, and at times the air can get too thick to breath easily. Much of the Andonne itself is corrupted and unsafe to drink, and crops do not grow on its banks. Before the Great War this region was a productive ranching land, and adventurers and treasure seekers occasionally venture into this land – in the winter, mostly, when the ash is less – to see what they can find. Most do not return.
+The land along the banks of the [[Andonne]] and further south is largely a no-man’s land. The ash storms are fierce here, and at times the air can get too thick to breathe easily. Much of the Andonne itself is corrupted and unsafe to drink, and crops do not grow on its banks. Before the Great War this region was a productive ranching land, and adventurers and treasure seekers occasionally venture into this land – in the winter, mostly, when the ash is less – to see what they can find. Most do not return.
 ## The Andonne Plains
 The broad, flat [[Andonne Plain]] stretches from the eastern edge of the [[Aurbez Plateau]], south and east across the upper [[Masance]] towards [[Westcliff]] and the [[Darkwood]]. This is a land of scrubby grasses and small dryland trees, with little rain, where most water comes from the spring snowmelt when the Masance often floods. Most settlement is along the upper Masance and east along the [[Maseau - Dunmar Road]]. Few venture within a day's ride of the [[Andonne]], and the ash storms are more intense to the east and southeast, so settlement clusters under the eaves of the [[Sentinel Range|Sentinels]] and the [[Salt Hills]]. In these more hospitable regions, marcher lords establish fortified ranches. Cattle and goats are the main livelihood, as crops die too often in the ashy summers. The ranches along the road have grown into fortified rest-stops and places of refuge for travelers, and one does not need to camp in the open between [[Cassons]] and the crossing of the [[Masance]]. 
 ## The Triangle and the Douren Valley
@@ -128,3 +131,30 @@ This time is when the Inn was founded, the mining and metal trade started, and t
 
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Aurbez and the Andonne", "language": "unknown", "pronunciation": "awr-BEZ and the ahn-DON", "status": "proposed", "notes": "Complete-name proposal. Aurbez follows the aur-bez base of the recorded demonym in [[Email - Player Background on Aurbez]], retaining pronounced z. The regional French influence documented in [[Languages]] favors final stress and Andonne with nasalized initial an approximated ahn, a sounded n in -onne, and silent final e. The exact name languages and phonology are unknown."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern post-Great-War geography, climate and settlement patterns; the hidden email excerpts preserve older snapshots and provisional history rather than fixing the article’s public viewpoint.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter field order and collection formatting while preserving parsed values and headerVersion.
+- Added persistent name metadata and a broadly modern article viewpoint with temporal coverage.
+- Corrected the extra article in “from the just west,” the spacing of “Here ,aspens,” and the verb “breath” to “breathe.”
+
+### Validated judgments
+- The flagged “What settlement there is is a mix” is grammatical: the first is completes the relative clause and the second is the sentence’s main verb. It is preserved.
+- The current regional outline performs its geographic overview role; the retained email layer is development/source material, with relative dates and unresolved ideas kept hidden.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Review `awr-BEZ and the ahn-DON`. Aurbez follows the recorded `aur-bez` base in the demonym in [[Email - Player Background on Aurbez]], retaining z; regional French influence in [[Languages]] supports final stress. Andonne follows that analogue with nasalized initial an approximated ahn, a sounded n in -onne, and silent final e. These are proposals, not exact in-world phonology. If accepted, add the full pronunciation to frontmatter and mark the persistent name entry documented; otherwise revise it and its derivation.
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The hidden block introduced as emails “probably mostly incorporated” repeats the public climate paragraph verbatim under its Climate label, and repeats substantial landscape descriptions under the ashen plains, central March, river borderlands, and Aurbez Plateau labels. Remove the repeated Climate paragraph beginning “The area is dominated by a large mountain chain” and ending “before the cooler winters come.” In the four landscape paragraphs, retain only distinct guidance: real-world analogues, uncertain population and loyalties, historical comparisons, and unresolved polity details; delete only clauses already represented in the visible regional sections. Keep the separate speculative pollution ideas, distance notes, and unadopted historical email account hidden. This bounded split avoids maintaining two copies while preserving the distinct development record.
+%%^End%%
