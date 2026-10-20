@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-displayDefaults: {defArt: 'the' }
+lintedAt: "2026-10-20T11:28:01-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the}
+tags: [place, status/check/lint]
 typeOf: region
-whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
+name: Western Ocean
+whereabouts:
+  - {type: home, location: Taelgar, linkText: in}
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Western Ocean
 >[!info]+ Information  
@@ -14,23 +19,23 @@ dm_notes: none
 
 %% maybe does not need a map? but probably should have an in-world-style opening paragraph %%
 
-The halfling story of the Western Ocean is one of mystery and adventure, fantastic voyages, and strange sightings far from land. Even among halflings, few captains dare sail into west, braving the uncharted currents and winds of the [[Endless Ocean]]. Many who do never return. But sometimes ships bring back wild tales: of hidden islands, cities beneath the waves, and giant creatures of the depths.
+The halfling story of the Western Ocean is one of mystery and adventure, fantastic voyages, and strange sightings far from land. Even among halflings, few captains dare sail into the west, braving the uncharted currents and winds of the [[Endless Ocean]]. Many who do never return. But sometimes ships bring back wild tales: of hidden islands, cities beneath the waves, and giant creatures of the depths.
 
 ## Topography and Major Features
 
-The [[Endless Ocean]] is unmapped and uncharted even by the best halfling navigators, stretches for uncounted and untracked miles. No definitive features are known in this region, though sailor's yarns and the shanties speak of rumors of sunken ruins, perhaps the remains of [[Hkar]], somewhere out in the deeps. 
+The [[Endless Ocean]] is unmapped and uncharted even by the best halfling navigators, and stretches for uncounted and untracked miles. No definitive features are known in this region, though sailor's yarns and the shanties speak of rumors of sunken ruins, perhaps the remains of [[Hkar]], somewhere out in the deeps.
 ## Civilizations and Cultures
 Halfling songs, especially those of [[Apporia]] and [[Mawar Confederacy|Mawar]], sing of [[Merfolk|merfolk]] who live in the oceans here, but few concrete reports come from those who actually visited any of their cities or underwater realms. Many a halfling captain, sailing far beyond the sight of land, has reported strange sights -- birds that should not be seen far from land, wind and currents that hint at nearby shores. And some report strange islands after being lost in a storm. But no one has managed to map these far reaches, though many have tried, and many halfling sailors believe the [[Endless Ocean]] is empty of all land.
 ## Climate
 This region is entirely ocean, mostly temperate. The near shores are relatively navigable, but the farther reaches of the ocean are dangerous, and few sailors venture needlessly far into the west. There, storms and currents are unpredictable, and few have returned from voyages west. 
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 The ocean is broadly similar to the western Pacific. A warm current runs north of the [[Mawakel Peninsula]], and a cool current (similar to the Humbolt, but running southward instead of northward) runs past [[Apporia]]. 
 %%^End%%
 ## Major Historical Eras
 Little is known of the history of the oceans, although halfling songs speak of the ancient [[Mariners]], who left Hkar and crossed the [[Endless Ocean]] to reach the [[Green Sea]]. Many speak of the lost birthplace of humanity, the now sunken island of [[Hkar]], but where it lies is not known.
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ## DM Notes and Meta
 *Area:* The borders of this region, especially as compared to the [[Far South]] are not clear, nor is it clear where places like the sunken ruins of Hkar belong. Broadly, this is expected to be the "unknown western ocean" and perhaps more complex and distant ocean areas would require a new region. In the current day, this includes all places in the Endless Ocean, but the region page is named differently to avoid conflicts.
 
@@ -42,7 +47,32 @@ Little is known of the history of the oceans, although halfling songs speak of t
 
 *Intentionally Blank:*  The [[~Sayuna Islands~]] are best left undeveloped until needed for a game. 
 
-*Adventures:* The merfolk arc of the Dunmar Frontier campaign traveled to [[Omi]], but otherwise this region has not see any actual play time. 
+*Adventures:* The merfolk arc of the Dunmar Frontier campaign traveled to [[Omi]], but otherwise this region has not seen any actual play time.
 
 *Important Places in Staging:*  None.
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Western Ocean, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography and sailors' reports about the western seas, with ancient Mariner traditions as historical backstory.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter, added the explicit name and a minimal name entry; the plain-English regional name needs no pronunciation guide.
+- Added a broadly modern POV and temporal-coverage interpretation.
+- Corrected “sail into west” to “sail into the west,” supplied “and” before “stretches,” and corrected “not see” to “not seen”; normalized both private-block sentinels to `Campaign:none`.
+
+### Validated judgments
+- The distant, mostly uncharted region already has an adequate account of its role and reported traditions; deliberately blank islands and boundaries remain open for future invention.
+- Omi's unscoped geography and surface-world song tradition can be distinguished from the campaign-scoped account of its fall and restoration.
+
+### Open findings
+- [ ] **Warning — correctness.cross_note_conflict:** “No definitive features are known in this region” is too absolute beside [[Omi#City of Kelp|Omi]], whose public account identifies an ancient merfolk city west of Apporia and Tamaro Bay, known to surface sailors through Apporian songs of the Jade Garden. Qualify the unknown farther reaches and add the established exception. Candidate: “The ocean's farther reaches remain largely uncharted. The ancient merfolk city of [[Omi]] lies in deep water west of [[Apporia]] and [[Tamaro Bay]], and is known to surface sailors through Apporian songs of the Jade Garden.” Keep Omi's campaign-scoped history within its existing audience boundary.
+- [ ] **Suggestion — editorial.public_material_candidate:** The first shared `Campaign:none` block, immediately below “Climate,” contains a coherent description of the regional currents as well as real-world comparisons. Consider adopting only the public-safe geography: “A warm current runs north of the [[Mawakel Peninsula]], and a cool current flows south past [[Apporia]].” This would give the climate section a concrete geographic detail. Retain the Pacific and Humboldt comparisons as separate private modeling guidance; do not promote them into in-world prose.
 %%^End%%

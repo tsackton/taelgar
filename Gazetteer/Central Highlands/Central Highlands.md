@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/wip, status/check/ai]
-displayDefaults: {defArt: 'the' }
+lintedAt: "2026-10-20T11:28:01-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: the}
+tags: [place, status/wip, status/check/ai, status/check/lint]
 typeOf: region
-whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
+name: Central Highlands
+whereabouts:
+  - {type: home, location: Taelgar, linkText: in}
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Central Highlands
 >[!info]+ Information  
@@ -101,11 +106,11 @@ _See also: [[Places in the Central Highlands]]_
 
 *Canonical Development and Constraints:* Three major extant dwarven kingdoms of the Sentinels are fairly well established, although many details remain to be invented. The elven kingdoms of [[Ainumarya]] are canonical, but not well established and potentially a source of some mystery, although once it was the thriving heartland of elves on Taelgar. In general this region has few humans, with only the [[Deno'qai]] a major developed culture. The general geography and climate of this area is well established. 
 
-*Brainstorming and Potential Canon:* [[Kunda]] is a canonical Stoneborn settlement in the southern Sentinels, and this region is likely has significant Stoneborn communities, but details are not canonical or well-established in game. The existence of Underdark-like deep caverns below the Sentinels is canonical, but not fully developed (see: [[The Underdark]]). 
+*Brainstorming and Potential Canon:* [[Kunda]] is a canonical Stoneborn settlement in the southern Sentinels, and this region likely has significant Stoneborn communities, but details are not canonical or well-established in game. The existence of Underdark-like deep caverns below the Sentinels is canonical, but not fully developed (see: [[The Underdark]]).
 
 *Needs Development:*  Although the dwarven kingdoms have been invented in broad strokes, further invention around details, settlements, and history would be valuable. A more fully-fleshed out development of [[Deno'qai]] culture and settlement in this area would also be valuable. The history of the elves in this region could use more thought, although the post-Great War fate of [[Ainumarya]] is intentionally left somewhat mysterious. 
 
-*Intentionally Blank:* [[Urlich Pass]], now a region of significant devastation, is canonically important as the site of Cha'mutte's defeat, but why it was important is unclear, although probably has something to do with being a locus of the power of the Firstborn, and the details are left intentionally vague. The devastation of [[Urlich Pass]] and the the Underdark are intentionally blank slates, and both may plausibly feature in a future [[Cleenseau Campaign]] arc. Exactly what happened to the elves after the [[Great War]] is left intentionally blank, although canonically there are many fewer of them than before the Great War. 
+*Intentionally Blank:* [[Urlich Pass]], now a region of significant devastation, is canonically important as the site of Cha'mutte's defeat, but why it was important is unclear, although probably has something to do with being a locus of the power of the Firstborn, and the details are left intentionally vague. The devastation of [[Urlich Pass]] and the Underdark are intentionally blank slates, and both may plausibly feature in a future [[Cleenseau Campaign]] arc. Exactly what happened to the elves after the [[Great War]] is left intentionally blank, although canonically there are many fewer of them than before the Great War.
 
 *Adventures:* The Dunmari Frontier campaign Elderwood arc occurred in this region, as did the short adventure to Hralgar's Palace. The Great Library dwarven kingdom arc also occurred in this region, including passing through a Deno'qai village from early days of Deno'qai development ([[Raha]]), and significant invention around [[Am'khazar]]. The [[Great War Campaign]] involved the final battle ([[Battle of Urlich Pass]]) against [[Cha'mutte]] at or near [[Urlich Pass]], and also included a short arc involving a hidden forest ([[Valley of the Hidden Forest]]) with strange magic where Rai first met Dimitaur. 
 
@@ -117,7 +122,7 @@ _See also: [[Places in the Central Highlands]]_
 %% OLD BELOW %%
 ## Overview
 
-The Central Highlands Region is a land of contrasts, from vast forests dominated by ancient elven trees, to the high, inaccessible peaks of the northern [[Sentinel Range|Sentinels]] where only [[Stoneborn]] and frost [[Giants]] can survive. Few people call this region their home: the [[Deno'qai]], who live mostly in small villages among the forests hugging the western foothills of the [[Sentinel Range|Sentinels]], and the [[Elves]], who once could be found throughout the woodlands of [[Ainumarya]], and the main inhabitants. The [[Sentinel Range]] creates a barrier to ...
+The Central Highlands Region is a land of contrasts, from vast forests dominated by ancient elven trees, to the high, inaccessible peaks of the northern [[Sentinel Range|Sentinels]] where only [[Stoneborn]] and frost [[Giants]] can survive. Few people call this region their home: the [[Deno'qai]], who live mostly in small villages among the forests hugging the western foothills of the [[Sentinel Range|Sentinels]], and the [[Elves]], who once could be found throughout the woodlands of [[Ainumarya]], are the main inhabitants. The [[Sentinel Range]] creates a barrier to ...
 ## Boundaries
 
 The Central Highlands includes the [[Sentinel Range]], as well as the forests along the western slopes of the mountains, and the east bank and upper watershed of the [[Zarnato]] and its tributaries. 
@@ -134,9 +139,9 @@ Some of this description should be ported to individual pages, with real world d
 Update boundaries of what is considered "once part of Ainumarya" in forest notes
 %%
 
-- [[Sentinel Range]]: The [[Sentinel Range]] is the dominate feature of the Central Highlands Region, stretching 2300 miles from volcano mountains of the former kingdom of [[Pandar]] in the north, to the northern foothills of the Dunmari plains in the south. 
+- [[Sentinel Range]]: The [[Sentinel Range]] is the dominant feature of the Central Highlands Region, stretching 2300 miles from volcano mountains of the former kingdom of [[Pandar]] in the north, to the northern foothills of the Dunmari plains in the south.
 	- The northern section, from roughly [[Pandar]] south past the [[Forest of Nightmares]] to the area northeast of the [[Blackwater Fens]], is snowy, rocky, and volcanic, marked by pine forests on the western slopes and long, bitter winters. 
-		- ***Real world analogs:*** This region is at approx. 52 degrees north, and probably has some similarities with the Canadian Rockies, especially Banff and Jasper national parks, including the flat plains to the east of the mountains (int he [[Far North]]). The volcanic mountains of [[Pandar]] share some similarities with the Pacific Ring of Fire, but with a much more magical vibe, and less moderating coastal influence on climate. 
+		- ***Real world analogs:*** This region is at approx. 52 degrees north, and probably has some similarities with the Canadian Rockies, especially Banff and Jasper national parks, including the flat plains to the east of the mountains (in the [[Far North]]). The volcanic mountains of [[Pandar]] share some similarities with the Pacific Ring of Fire, but with a much more magical vibe, and less moderating coastal influence on climate.
 	- The middle section, roughly the area starting west of [[Zimkova]] and running south to the desolation west of the [[Western Marches]], is rocky and very tall, with extensive underground development associated with the [[Dwarven Kingdoms]], and more dangerous things. These are stereotypical high mountains. 
 		- ***Real world analogs:*** This region stretches from roughly 40 degrees N to 50 degrees N. This is a classic high mountain range, sharing features with the northern Rockies, the Alps, and Patagonia, but even the tallest peaks are unlikely to reach the heights of something like the Himalayas in the real world. 
 	- The southern section, covering the area that was once the dwarven kingdom of [[Ardith]], from roughly west of [[Duchy of Maseau|Maseau]] or [[Refounded Alliance of Aurbez]] to the end of the [[Sentinel Range]] north of [[Dunmar]], is full of high, barren peaks that rise sharply from the plains, and is generally dry, with arid regions to the west and south. 
@@ -149,9 +154,9 @@ Update boundaries of what is considered "once part of Ainumarya" in forest notes
 		- To the north, the gap between the middle section and the northern section is traversable in all seasons, but lightly settled; the northern section itself is extremely inhospitable in the highest peaks.
 		- The middle section has passes around [[~High Horn~]], west of the [[Zimkova|Highland Kingdoms]], and in the area west of the [[Western Marches]]. But the latter was disrupted by [[Cha'mutte]]'s death and is no longer considered passable. 
 		- The south section has several routes that cross between the [[Refounded Alliance of Aurbez]] and northern [[Dunmar]]. 
-- [[Ainumarya]]: A vast forest in the foothills and lowlands west of the [[Sentinel Range|Sentinels]], that stretches from the [[Elderwood]] in the south to the [[Crimson Forest]] in the north. Historically a major center of elvish civilization. Most of this region is a dominated by huge conifers and a rich ecosystem. 
+- [[Ainumarya]]: A vast forest in the foothills and lowlands west of the [[Sentinel Range|Sentinels]], that stretches from the [[Elderwood]] in the south to the [[Crimson Forest]] in the north. Historically a major center of elvish civilization. Most of this region is dominated by huge conifers and a rich ecosystem.
 	- ***Real world analogs:*** Temperate rainforests, especially the forests of the Pacific Northwest, are probably the best model, albeit with more magic. 
-- [[Forest of Dreams]]: North of [[Ainumarya]] is the [[Forest of Dreams]], clinging to the western slopes of the [[Sentinel Range|Sentinels]] east of the [[Erbalta Plains]] and the [[Blackwater Fens]], and spreading west along the foothills of [[Pandar]]. This forest is cooler and dried than [[Ainumarya]], with cold winters and significant snow at higher elevations. 
+- [[Forest of Dreams]]: North of [[Ainumarya]] is the [[Forest of Dreams]], clinging to the western slopes of the [[Sentinel Range|Sentinels]] east of the [[Erbalta Plains]] and the [[Blackwater Fens]], and spreading west along the foothills of [[Pandar]]. This forest is cooler and drier than [[Ainumarya]], with cold winters and significant snow at higher elevations.
 	- ***Real world analogs:*** Temperate coniferous forest, especially the pine forests of western Canada and the interior Rockies, and classic mixed forests of the Alps. The lowlands north of the [[Blackwater Fens]] are probably more like temperate broadleaf and mixed forests. 
 
 
@@ -167,3 +172,39 @@ The region is climatically dominated by the Sentinel Range, which forms a barrie
 ***Real world analogs:***
 - Mountains of the Pacific Northwest, which have a similar north-south orientation, high peaks, and roughly equivalent latitude
 - Canadian Rockies, which mirror the northernmost section of the Sentinel Range
+
+%%^Metadata:names:v1%%
+- {name: Central Highlands, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern regional geography after the Great War; the older history and unfinished development sections do not establish a narrower article snapshot.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added the explicit name, a minimal name entry, and broadly modern temporal metadata.
+- Corrected seven objective typos or grammar defects, including duplicated “the,” “dominate,” “int he,” “dried,” and three malformed verb phrases; the existing map and visibility markers were preserved.
+
+### Validated judgments
+- `status/wip` is supported by the unfinished regional-format migration, visible placeholders, and incomplete historical section; it is preserved.
+- Central Highlands is an ordinary English geographical title and needs no pronunciation guide. The supplied local-DM dossier contains no matching sources.
+
+### Editorial assessment
+**Underdeveloped**: The regional overview lacks a usable account of its major cultures and surviving dwarven realms, and Major Historical Eras remains a placeholder rather than a regional history. The old geography supplies useful terrain and boundaries, but does not close those two central gaps. The smallest useful completion is a short cultures/settlements paragraph and a short account of the Great War and its aftermath, preserving the intentionally uncertain fate of the elves and the undeveloped details of Urlich.
+
+- Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** Civilizations and Cultures contains only a placeholder and hidden planning, and the old Overview names Deno'qai and elves while omitting the major surviving dwarven realms. [[Khatridun]], [[Nidzahar]], [[Am'khazar]], [[Sentinel Range]], and [[Deno'qai]] establish the missing regional account. Add a bounded public summary; candidate: “The [[Deno'qai]] occupy many of the western forests and foothills of the [[Sentinel Range|Sentinels]]. Beneath the central mountains, the dwarven kingdoms of [[Khatridun]], [[Nidzahar]], and [[Am'khazar]] remain major centers of settlement and culture. [[Ainumarya]] was once a great elven heartland, though much of its surviving settlement is hidden or poorly known.” Retain the uncertainty about elven survivors; do not turn the Stoneborn brainstorming into settled population claims.
+
+- [ ] **Warning — coverage.established_fact_missing:** Major Historical Eras still says “{descriptive text of major era}.” [[Sentinel Range]], [[Khatridun]], [[Nidzahar]], [[Crimson Forest]], and [[Session 52 (DuFr)]] establish central consequences that the regional history does not explain. A minimum candidate is: “The [[Great War]] and the conflicts that followed devastated the region. [[Khatridun]] lost its ancient capital, while [[Nidzahar]] gained trade and importance after the destruction of [[Ardith]] and the losses of Khatridun. The [[Crimson Forest]] saw heavy fighting in both the Great War and the [[Conclave War]]. Many surviving elves withdrew into hidden settlements, though the fate of many others remains unknown.” Keep Belegor's alternative explanations in [[Session 52 (DuFr)]] as uncertainty, rather than selecting one cause for the missing elves.
+
+- [ ] **Suggestion — editorial.prose_clarity:** The new introduction and several central sections remain visible brace-delimited placeholders, while the older Overview ends “The Sentinel Range creates a barrier to ...”. Complete the regional-format migration as a bounded human edit, retaining useful old geography and the existing map. Copy-ready replacement for the unfinished sentence: “The [[Sentinel Range]] forms a major barrier to east-west travel.” The unfinished wording was not completed automatically because its omitted continuation is unknown.
+
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The real-world climate placeholder and DM Notes and Meta blocks use `%%^Campaign:None%%`. The adopted private sentinel is `%%^Campaign:none%%`. After confirming that the export preserves their intended private visibility, replace only those two opening markers with the lowercase form, preserving both contents and closing markers. The existing lowercase climate-source block is already canonical; no visibility-sensitive conversion was applied.
+
+- [ ] **Warning — correctness.cross_note_conflict:** The old Major Features entries make [[Crimson Forest]] the northern end of [[Ainumarya]] and put [[Forest of Dreams]] north of Ainumarya. [[Forest of Dreams]] instead describes itself as part of Ainumarya, and [[On the Lost People of the Forests]] includes all three named forests in the historical great forest. The existing TO DO comment already leaves that boundary unresolved. Decide whether Ainumarya is being used historically or for a narrower modern forest extent before migrating these entries. A historical-use candidate is: “[[Ainumarya]] is the historical great forest on the western slopes of the [[Sentinel Range]], whose surviving named sections include the [[Elderwood]], [[Crimson Forest]], and [[Forest of Dreams]].” Retain the separate, more northerly [[Forest of Nightmares]] and do not infer identical modern borders.
+%%^End%%

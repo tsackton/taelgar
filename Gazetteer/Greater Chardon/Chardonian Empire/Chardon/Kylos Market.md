@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T11:28:01-04:00"
+lintVersion: "3.5"
 tags: [place]
 typeOf: infrastructure
 typeOfAlias: market
 name: Kylos Market
 pronunciation: KEE-lohs MAR-kit
 whereabouts: South Bank
+POV: modern
 ---
 # Kylos Market
 *(KEE-lohs MAR-kit)*
@@ -28,4 +31,8 @@ On May 1, DR 1749, a wall of gray fog appeared in the market during the [[Pandem
 
 %%^Metadata:names:v1%%
 - {name: Kylos Market, language: Chardonian, pronunciation: KEE-lohs MAR-kit, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern market location and former activity, with the incursion and subsequent abandonment isolated in the existing Date:1749-05-01 block.
 %%^End%%
