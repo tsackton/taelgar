@@ -1,15 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/cleanup/text
+lintedAt: "2026-10-20T11:28:01-04:00"
+lintVersion: "3.5"
+tags: [place, status/cleanup/text, status/check/lint]
 typeOf: realm
 typeOfAlias: group of kingdoms
+ancestry: null
 name: Dwarven Kingdoms
 whereabouts: Labkhan
 dm_owner: joint
 dm_notes: none
-ancestry:
+POV: modern
 ---
 # The Dwarven Kingdoms
 >[!info]+ Information  
@@ -137,3 +138,29 @@ northern, isolated both before and after the war, much less interested in human 
 
 
 %%
+
+
+%%^Metadata:names:v1%%
+- {name: Dwarven Kingdoms, language: Common, status: inferred, notes: The displayed collective name is an ordinary descriptive Common title; no distinct Dwarvish endonym is established.}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern overview of the Sentinel kingdoms after the Great War, with the former empire and the fall of Ardith and Azrathun as historical context.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added a minimal name block and temporal metadata.
+
+### Validated judgments
+- The plain-English collective title needs no pronunciation; its primary name block is applicable.
+- The visible regional overview performs its present role; the individual kingdom notes corroborate the kingdom summaries.
+- `status/cleanup/text` is supported by the long, repetitive hidden source archive and unfinished planning. It is preserved unchanged.
+- The local dossier adds no recoverable setting material absent from the shared record; alternate-setting and generic vocabulary matches were not treated as regional canon.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The comment beginning “Additional details, not fully worked out” contains a second Overview and two versions of “The basic plotline,” substantially repeating the public introduction and kingdom summaries. The later kingdom narratives also overlap [[Nardith]], [[Khatridun]], [[Am'khazar]], and [[Nidzahar]]. Propose a bounded split: remove the duplicated Overview and repeated plotline only after preserving source provenance; retain distinct planning, unsettled chronology, proposed mountain names, and Fahnukan questions in a clearly provisional comment. A copy-ready replacement for the repeated archive pointer is: `%% Source archive: [[GDrive - Dwarven Kingdoms - Final Text and Comments]]. Retain unique unresolved naming, chronology, and Fahnukan development questions below until separately reviewed. %%` Do not promote the unfinished Fahnukan alternatives or the older age-system wording into canon.
+%%^End%%
