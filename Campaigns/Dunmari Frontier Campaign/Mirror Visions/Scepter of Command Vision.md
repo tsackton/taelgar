@@ -1,10 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
+lintedAt: "2026-10-20T09:04:07-04:00"
+lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
+tags: [event]
+typeOf: vision
 DR: 1748-06-01
 timelineDescriptor: Dunmari Frontier Campaign
-typeOf: vision
+name: Scepter of Command Vision
+POV: 1748
 ---
 # Scepter of Command Vision
 >[!info]+ Information  
@@ -15,8 +19,12 @@ As you hold up the scepter, concentrating on the story of the last person who wi
 
 Then, the mirror and the scepter have other ideas, and you find yourself being pulled and pulled further back in time. You see a brief moment of fire and destruction, as you, the scepter, are hanging unused from the belt of an [[Mavdyr|enormous giant]], stomping through a city you recognize as [[Kharsan]], setting fire to it with a massive flaming axe. You can almost feel through the mirror deep anger from the scepter at just sitting, unused, on the belt of some dumb brute.
 
-Then the image shifts again, and you see an image of a city laid out before you. A vast city, pyramids rising up, huge monuments surrounding a vast open square below and in front of you. You are standing and looking down at an army of thousands filling the square. You, the scepter, are raised up, and you see a [[Cloak of Rainbows|shimmering cloak]] on the back of the person holding you, almost an illusory multicolored rainbow of a cloak. Words are coming out of the mouth of the one who holds you, and the army is excited, animated with eagerness and loyalty. They pump their fists, slam spears and swords on shields, and chant something you cannot hear. You recognize this as a Drankorian army, and for a brief moment seen visions of them marching through rolling fields, before the image fades.
+Then the image shifts again, and you see an image of a city laid out before you. A vast city, pyramids rising up, huge monuments surrounding a vast open square below and in front of you. You are standing and looking down at an army of thousands filling the square. You, the scepter, are raised up, and you see a [[Cloak of Rainbows|shimmering cloak]] on the back of the person holding you, almost an illusory multicolored rainbow of a cloak. Words are coming out of the mouth of the one who holds you, and the army is excited, animated with eagerness and loyalty. They pump their fists, slam spears and swords on shields, and chant something you cannot hear. You recognize this as a Drankorian army, and for a brief moment see visions of them marching through rolling fields, before the image fades.
 
 And then you swirl back even further in time. And you see a [[Apollyon|figure]], probably Drankorian from their features. Sharp eyes, dark hair, a proud, haughty demeanor. Old, and strong, and assured of their skill and value. The same person who was leading the armies in the last vision. He is holding the scepter, newly made, and turns to look out the window, revealing a vista of a back tower, nothing else except the sea, the waves crashing into the coast of this perfectly circular island. 
 
 The mirror then fades to black.
+
+%%^povNotes:v1%%
+Temporal coverage: narration of the mirror vision witnessed on DR 1748-06-01; the scenes depict earlier history whose dates are not established by this vision.
+%%^End%%

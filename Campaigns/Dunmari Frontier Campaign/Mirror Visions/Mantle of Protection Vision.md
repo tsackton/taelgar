@@ -1,10 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
+lintedAt: "2026-10-20T09:04:07-04:00"
+lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
+tags: [event]
+typeOf: vision
 DR: 1748-12-09
 timelineDescriptor: Dunmari Frontier Campaign
-typeOf: vision
+name: Mantle of Protection Vision
+POV: 1748
 ---
 # Mantle of Protection Vision
 >[!info]+ Information  
@@ -12,7 +16,7 @@ typeOf: vision
 
 You ask [[Lubash]] to hold the cloak of rainbows to the mirror, and the scene fades. 
 
-The first thing you see is a field of clouds, glowing, bright and many colored, lit as if by the setting sun. And you see delicate fey hands  pulling on these clouds, weaving threads out of the sky and binding them together. You see a  cloak coming into being from these threads as the clouds themselves are distilled, the light of the sunset is distilled. You see the weaving motion as the the fay creature who is creating this cloak begins to weave back and forth, back and forth, repetitively building up many, many layers of these cloud threads together. The light sparkles off them, and the sparkling light, the bright, shimmering image, remains flickering on the mirror.
+The first thing you see is a field of clouds, glowing, bright and many colored, lit as if by the setting sun. And you see delicate fey hands  pulling on these clouds, weaving threads out of the sky and binding them together. You see a  cloak coming into being from these threads as the clouds themselves are distilled, the light of the sunset is distilled. You see the weaving motion as the fay creature who is creating this cloak begins to weave back and forth, back and forth, repetitively building up many, many layers of these cloud threads together. The light sparkles off them, and the sparkling light, the bright, shimmering image, remains flickering on the mirror.
 
 The scene shifts, and you see a war. You see a soldier, an [[Orcs|orc]] wearing the cloak. Armed, armored, wearing heavy plate mail, carrying a giant sword, fighting desperately as twisting tendrils of black energy wrap around his hands and pull him back. He staggers to his knees. And then you see [[Apollyon|Apollyon]], in full power, wearing  flowing robes, wearing a dark iron crown on his head. He steps forward, and it looks like he speaks just a single word. The [[Orcs|orc]] dies instantly. Apollyon steps forward and picks up the cloak, casts it on his shoulders, and begins to walk, the shimmering light around the mirror lingering.
 
@@ -23,3 +27,7 @@ The scene shifts, and you see Apollyon, now sitting by himself, some time later,
 You see now a scene not too dissimilar to one you had seen before.  You see Apollyon wearing the cloak, carrying the scepter, wearing the crown. He is standing before a large crowd, in front of a very large statue of himself, at least 20 feet tall. He is holding up the scepter, and he's pulled the cloak around himself. The people in front of him are bowed before him, as if in prayer or genuflection or awe. He seems to be commanding or orchestrating them with the scepter. The statue behind him - this enormous statue of Apollyon - seems to glow and pulse and collect sparkling tendrils of the cloak as Apollyon speaks to the adoring crowds before him. 
 
 And then the scene ends, and the mirror goes black.
+
+%%^povNotes:v1%%
+Temporal coverage: the campaign witnessing frame is DR 1748, recorded as 1748-12-09; the scenes shown by the mirror belong to earlier periods and do not form a continuously dated historical account.
+%%^End%%

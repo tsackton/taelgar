@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
+lintedAt: "2026-10-20T09:04:07-04:00"
+lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
-name: Crown of Purity Vision
+tags: [event]
+typeOf: vision
 DR: 1749-05-30
 timelineDescriptor: Dunmari Frontier Campaign
-typeOf: vision
+name: Crown of Purity Vision
+POV: 1749
 ---
 # The Crown of Purity Vision
 >[!info]+ Information  
@@ -15,7 +18,7 @@ Kenzo takes the Crown out of the Portable Hole, and amazingly it looks nothing l
 
 ![[crown-of-purity-riswynn-version.jpg]]
 
-He holds the new Crown to the mirror, and the mirror goes black, the scene shifting. You see is a study, plain, a simple desk, books in Chardonian. It looks old, maybe a hundred, a hundred and fifty years ago? It's hard to say exactly, but this has the air of a academic study, probably in Chardon. 
+He holds the new Crown to the mirror, and the mirror goes black, the scene shifting. You see a study, plain, a simple desk, books in Chardonian. It looks old, maybe a hundred, a hundred and fifty years ago? It's hard to say exactly, but this has the air of an academic study, probably in Chardon.
 
 The crown itself, however, looks different. It is a plain, like wooden band. No decoration, nothing. 
 
@@ -23,7 +26,7 @@ The crown itself, however, looks different. It is a plain, like wooden band. No 
 
 You're in a study, and somebody looks like they are doing research, cataloging things. There is on their desk what seems to be the beginnings of a treatise on the historical greatness of Drankor. The writing is just in note form, and speaks of "How can how to bring back the might of empire?" Somebody seems obsessed. You see notes scattered across the page, referring to Apollyon, the lost scepter, the lost cloak, lost, everything lost. "Could this be the crown?"
 
-And then you see hands gripping the plain wooden crown, followed by a brief flash of what seems to be almost light lightning, but barely visible, as the person who hands grabbed the crown falls over, seemingly dead. Somebody else walks in, somebody older, wearing plain robes with a serious face, blue eyes, and gray hair cut neat, an air of a master about him. He smiles as he reaches and grabs the crown, as time speeds up and the crown begins to shift its form to the black metal design with gray stones that Fausto possessed. But this is not Fausto. 
+And then you see hands gripping the plain wooden crown, followed by a brief flash of what seems to be almost like lightning, but barely visible, as the person whose hands grabbed the crown falls over, seemingly dead. Somebody else walks in, somebody older, wearing plain robes with a serious face, blue eyes, and gray hair cut neat, an air of a master about him. He smiles as he reaches and grabs the crown, as time speeds up and the crown begins to shift its form to the black metal design with gray stones that Fausto possessed. But this is not Fausto.
 
 ![[crown-of-purity-cleansed-version.jpg]]
 
@@ -43,6 +46,10 @@ You can see a dozen men and women gathered, humans and elves, discussing and arg
 
 ![[crown-of-purity-hkar-version.jpg]]
 
-The scene shifts once more, flying back even further, drifting far, far, far back into time, before humans even existed. Before the forests of the elves spread across the world, before the halfling travelers brought stories across the land. Back to when the Firstborn strode through the world, their footsteps shaping the land with though, back to the days of myth themselves. When the plane of magic was intertwined with the world itself. Then, you feel, through the mirror, perceiving with more than just your eyes, the riotous shattering, the stretching and pulling as the Divine Presence ripping the planes from one another. You see that something was caught when the world was pulled apart, some fragment of power of myth curled itself into a circlet and fell into the forest. A fragment of the ancient days when the world could be reshaped, frozen in material form, mindless but powerful, waiting, a chameleon always to adapt to whoever puts it on. And the mirror goes black.
+The scene shifts once more, flying back even further, drifting far, far, far back into time, before humans even existed. Before the forests of the elves spread across the world, before the halfling travelers brought stories across the land. Back to when the Firstborn strode through the world, their footsteps shaping the land with thought, back to the days of myth themselves. When the plane of magic was intertwined with the world itself. Then, you feel, through the mirror, perceiving with more than just your eyes, the riotous shattering, the stretching and pulling as the Divine Presence rips the planes from one another. You see that something was caught when the world was pulled apart, some fragment of power of myth curled itself into a circlet and fell into the forest. A fragment of the ancient days when the world could be reshaped, frozen in material form, mindless but powerful, waiting, a chameleon always to adapt to whoever puts it on. And the mirror goes black.
 
 ![[crown-of-purity-original-form.jpg]]
+
+%%^povNotes:v1%%
+Temporal coverage: the vision as experienced on 1749-05-30 DR; the earlier scenes shown by the mirror have their own uncertain or discontinuous chronology.
+%%^End%%

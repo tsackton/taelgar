@@ -1,10 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
+lintedAt: "2026-10-20T09:04:07-04:00"
+lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
+tags: [event]
+typeOf: vision
 DR: 1748-06-08
 timelineDescriptor: Dunmari Frontier Campaign
-typeOf: vision
+name: Mirror of Soul Trapping Vision
+POV: 1748
 ---
 # Mirror of Soul Trapping Vision
 >[!info]+ Information  
@@ -19,6 +23,10 @@ Then [[Selkan|another Dunmari]]. This man looks prematurely aged, bald, weary ey
 
 A brief moment of blackness, then a [[Isha|scarred older man]], one eye missing, gray hair, sitting in a chair. It almost looks like he's babbling, talking endlessly, though of course you can’t hear anything. He's sitting there just talking and talking and talking, sometimes crying, and rocking back and forth. [[Agata]] is standing nearby, listening, growing increasingly angry, increasingly frustrated, and then grabs his hair and forcibly turns his face to look into the mirror, as he vanishes.
 
-The scene shifts, the vision no longer shows [[Agata]]’s hut. You are in a fire lit castle made of of dark stone with a very sort of martial look, almost brutalist in style, with hard corners. There are weapons decorating the wall across from where this mirror is hung. It seems this is not a huge chamber, more like a small private chamber, but still filled with accouterments of war. Standing in front of the mirror are two people. One [[Revaka|female hobgoblin]], wearing well-made armor, arguing, maybe, having some heated conversation with an almost [[Cha'mutte|shadowy looking man]], standing there with a hood over his face. All you can really see of his features are two glowing red eyes peering out of the shadow. The hobgoblin says something, a command word to the mirror. The man standing in shadow throws back his hood and starts laughing, then snaps his fingers and the hobgoblin vanishes.
+The scene shifts, the vision no longer shows [[Agata]]’s hut. You are in a fire lit castle made of dark stone with a very sort of martial look, almost brutalist in style, with hard corners. There are weapons decorating the wall across from where this mirror is hung. It seems this is not a huge chamber, more like a small private chamber, but still filled with accouterments of war. Standing in front of the mirror are two people. One [[Revaka|female hobgoblin]], wearing well-made armor, arguing, maybe, having some heated conversation with an almost [[Cha'mutte|shadowy looking man]], standing there with a hood over his face. All you can really see of his features are two glowing red eyes peering out of the shadow. The hobgoblin says something, a command word to the mirror. The man standing in shadow throws back his hood and starts laughing, then snaps his fingers and the hobgoblin vanishes.
 
 Then, just as the image starts to fade, you see another hobgoblin, polishing the mirror, muttering under his breath as he works words of power and magic into the surface of the mirror, creating it, as the scene fades to black. 
+
+%%^povNotes:v1%%
+Temporal coverage: narration of the mirror vision witnessed on DR 1748-06-08; the scenes depict earlier history whose dates are not established by this vision.
+%%^End%%

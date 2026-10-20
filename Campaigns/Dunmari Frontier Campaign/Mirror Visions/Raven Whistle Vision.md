@@ -1,10 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
+lintedAt: "2026-10-20T09:04:07-04:00"
+lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
+tags: [event]
+typeOf: vision
 DR: 1748-08-10
 timelineDescriptor: Dunmari Frontier Campaign
-typeOf: vision
+name: Raven Whistle Vision
+POV: 1748
 ---
 # Raven Whistle Vision
 >[!info]+ Information  
@@ -17,3 +21,7 @@ A woman comes from the hut - [[Agata]]. She gazes at you - maybe even with a hin
 [[Agata]] sits beside you, whispering something, maybe telling a story. Slowly you see the head of a giant raven lay itself down next to [[Agata]], its breathing slow, and then stop. The scene shifts.
 
 You are looking up at [[Agata]] holding you - a wing bone of a giant raven - what will become the [[Raven Whistle]] - and carefully working it, singing under her breath the whole time. And the mirror turns black.
+
+%%^povNotes:v1%%
+Temporal coverage: narration of the mirror vision witnessed on DR 1748-08-10; the scenes depict earlier history whose dates are not established by this vision.
+%%^End%%
