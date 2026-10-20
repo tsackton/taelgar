@@ -1,9 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+lintedAt: "2026-10-20T11:04:00-04:00"
+lintVersion: "3.5"
+tags: [background, status/check/lint]
 name: The Economy of Dunmar
 dm_owner: tim
 dm_notes: color
+POV: modern
 ---
 # The Economy of Dunmar
 
@@ -18,7 +21,7 @@ Dunmar is not completely isolated from its neighbors. Although not a significant
 
 Trade from the Green Sea to the east usually comes via halfling caravans out of Sembara, that cross the passes of the Sentinels in season. 
 
-The message system is largely extinct now, but fast messages still run from Askandi -~ Tokra -~ [[Songara]], and Nayahar -~ Darba -~ Tokra; the latter is more efficient as it still has full official support and stocked waystations
+The message system is largely extinct now, but fast messages still run from Askandi -~ Tokra -~ [[Songara]], and Nayahar -~ Darba -~ Tokra; the latter is more efficient as it still has full official support and stocked waystations.
 
 ### Coins
 
@@ -26,7 +29,7 @@ Coins are not commonly used in the current day in Eastern Dunmar, as much trade 
 
 Gold coins (worth 1 gp) are known as steeds; silver coins as rupas, and copper coins as taams.
 
-Older coins from pre-Blood Years uses the same names, but tended to be larger and more pure, and so can trade for more than their 'face value'
+Older coins from pre-Blood Years use the same names, but tended to be larger and more pure, and so can trade for more than their 'face value'.
 
 %% notes - tentative values
 Steeds = 2 gp
@@ -40,7 +43,7 @@ Taams = 1 cp
 
 ## Land Ownership
 
-In the Dunmari conception, the land of the Dunmar is owned by the gods, and it is not possible for humans to claim ownership over land - one may only use it for a time, borrowing it from the gods. Thus, the Dunmari have no real concept of land ownership. Formally, all land in Dunmar is managed for the gods by the Samraat, via the head priest of each temple. 
+In the Dunmari conception, the land of Dunmar is owned by the gods, and it is not possible for humans to claim ownership over land - one may only use it for a time, borrowing it from the gods. Thus, the Dunmari have no real concept of land ownership. Formally, all land in Dunmar is managed for the gods by the Samraat, via the head priest of each temple.
 
 The Dunmari do, however, have property rights of a kind, generally organized around the concept of usage rights. All Dunmari have commons rights to Dunmari common land, which is the vast majority of land in Dunmar. The right to pasture, travel, camp, and hunt is generally unencumbered on these lands, with some exceptions made to manage overuse and prevent overgrazing or overhunting (although in most of central and eastern Dunmar, population density is low enough for this not to be a significant concern). 
 
@@ -61,4 +64,25 @@ Traditionally, because the land is owned by the gods, passage across it is free 
 
 Many towns also impose market taxes or sales taxes, or maintain monopolies on certain goods. 
 
-The mystery cults derive revenue from specific monopolies they are granted, as well as rents on land they control. All mystery cults have specific monopolies on the sale and provision of particular magical goods and services, and many also have rights to particular other monopolies in their area. In regions with both a mystery cult and a temple, the distribution of rents between them can be a tricky political issue, and there are usually founding charters that delineate rents owed. Some mystery cults which are isolated and far from settlements are largely self-sufficient, providing their own food and defense and acquiring occasional additional goods by bartering whatever they produce. 
+The mystery cults derive revenue from specific monopolies they are granted, as well as rents on land they control. All mystery cults have specific monopolies on the sale and provision of particular magical goods and services, and many also have rights to particular other monopolies in their area. In regions with both a mystery cult and a temple, the distribution of rents between them can be a tricky political issue, and there are usually founding charters that delineate rents owed. Some mystery cults which are isolated and far from settlements are largely self-sufficient, providing their own food and defense and acquiring occasional additional goods by bartering whatever they produce.
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern economic practices, with comparisons to pre-Great-War trade and older coinage; the article does not describe a particular ruler's administration.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Corrected the agreement in “Older coins … use”, removed the stray article in “the land of Dunmar”, and added two missing sentence-ending periods.
+- Added `POV: modern` and temporal guidance for the broad economic account.
+
+### Validated judgments
+- This is an analytical background article about an economy, not a named in-world thing or work; a name block is not applicable.
+- The tentative coin conversions remain unresolved in their existing comment and are not treated as established values.
+- The article provides a sufficient account of production, trade, coinage, usage rights, and taxation for its present overview role.
+
+### Open findings
+
+- [ ] **Suggestion — dm.notes_no_local_evidence:** No `_DM_` notes found; verify `dm_notes`. The current `color` attestation may refer to remembered or off-vault material, so retain it until the owner confirms whether useful unshared economic information remains. If it does, keep the attestation and capture or locate that material; if not, the human may change it to `none`.
+%%^End%%

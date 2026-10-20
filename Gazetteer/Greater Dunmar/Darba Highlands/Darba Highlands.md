@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/map]
+lintedAt: "2026-10-20T11:04:00-04:00"
+lintVersion: "3.5"
+tags: [place, status/cleanup/map, status/check/lint]
 typeOf: region
+typeOfAlias: null
+name: Darba Highlands
 whereabouts: Greater Dunmar
 dm_owner: tim
 dm_notes: color
-typeOfAlias:
+POV: modern
 ---
 # The Darba Highlands
 >[!info]+ Information  
@@ -28,7 +32,7 @@ The Darba Highlands have a strong hydrological gradient, with the area around th
 ![[darba-highlands-river-monsoon.png]]
 *The [[Rudhan]] after the monsoon.*
 
-In the northwest, the Darba Highlands are a region of coastal mountains, forming the southern foothills of the [[Chataan Mountains]]. Here, constant sea breezes and the impact of the [[Chataan Mountains]] results in a more even rainfall pattern across the year, with some winter rain. 
+In the northwest, the Darba Highlands are a region of coastal mountains, forming the southern foothills of the [[Chataan Mountains]]. Here, constant sea breezes and the impact of the [[Chataan Mountains]] result in a more even rainfall pattern across the year, with some winter rain.
 
 To the south, the land becomes increasingly flat, as the terrain transitions to the broad, open [[Nayan Floodplains]] and the new land created as [[Greater Dunmar]] was reshaped at the end of the [[Great War]]. 
 
@@ -41,3 +45,34 @@ To the south, towards the [[Nayan Floodplains]], the terrain is flatter, with a 
 The forests of the Darba Highlands are home to a diverse array of animals, including numerous birds, water buffalo, bears, and diverse small mammals and monkeys, although only water buffalo are frequently seen on the floodplains. 
 
 %%note: climatology of the northern region near the Darba Coastal Mountains is less developed. the main region draws heavily from https://en.wikipedia.org/wiki/Northern_Indochina_subtropical_forests and https://en.wikipedia.org/wiki/Kakadu_National_Park. This is, by a large margin, the most densely forested region of the settled parts of Dunmar, e.g. not including  the rainforests south of the Shrev. Ecology is subject to extension. %%
+
+%%^Metadata:names:v1%%
+- {"name": "Darba Highlands", "language": "unknown", "pronunciation": "DAHR-bah HYE-landz", "notes": "Proposed from the Dunmari Hindi or other Indo-Iranian (Persian) analogue in Languages for Darba: pronounced d and r, broad a vowels and tentative first-syllable stress; Highlands uses its ordinary English reading. The full name language and exact in-world phonology are not established.", "status": "proposed"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern regional geography, climate and ecology; the present landscape follows the upheavals at the end of the Great War.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order, added the explicit subject name, and recorded the broadly modern POV with temporal notes.
+- Added a primary name entry with a proposed pronunciation and retained unknown name-language provenance.
+- Corrected subject–verb agreement from “results” to “result” in the northwestern rainfall paragraph.
+
+### Validated judgments
+- The physical geography and climate account is consistent with [[Rudhan Heights]], [[Rudhan]], and [[Climate of Dunmar and the Nevos]]; it is sufficient for this regional reference role.
+- Confirmed local evidence supports the positive `dm_notes` attestation, which is preserved.
+- Status disposition: `status/cleanup/map` is not assessable because the intended regional map work is unspecified; preserve it. Region pages do not require the settlement/waterway/road locator model.
+- Real-world inspirations and unfinished-climatology guidance remain editorial context; the forest-density sentence is separately proposed for human adoption.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Confirm `DAHR-bah HYE-landz` in the primary name entry. The [[Languages]] Dunmari analogue is Hindi or other Indo-Iranian (Persian); the proposal sounds d and r, uses broad a vowels, and tentatively stresses the first syllable of Darba, followed by ordinary English Highlands. This is analogue-informed guidance, not exact in-world phonology. Accept by setting `status: documented` and copying the accepted pronunciation to frontmatter, or revise it; retain `language: unknown` unless the full name's language is established.
+- [ ] **Suggestion — editorial.public_material_candidate:** Two shared hidden passages contain specific public-safe reference material: the area estimate immediately after the opening geography paragraph and the forest-density comparison in the final ecology comment. Their adoption would clarify the region's scale and its contrast with the rest of settled Dunmar. Copy-ready additions for human consideration: `The Darba Highlands cover approximately 37,000 square miles.` and `The Darba Highlands are the most densely forested part of settled [[Dunmar]], apart from the rainforests south of the [[Shrev]].` These claims currently reside in noncanonical comments. After adoption, remove the repeated factual statements from those comments while preserving the real-world inspirations, the undeveloped northern-climatology reminder, and the note that ecology remains extensible. Do not publish the real-world comparisons as setting geography.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Brainstorming]]
+%%^End%%
