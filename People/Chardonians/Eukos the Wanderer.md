@@ -8,7 +8,7 @@ ancestry: Chardonian
 gender: male
 name: Eukos the Wanderer
 pronunciation: YOO-kohs
-knownTo: []
+knownTo: [dufr]
 dm_owner: none
 dm_notes: none
 POV: 1500s
