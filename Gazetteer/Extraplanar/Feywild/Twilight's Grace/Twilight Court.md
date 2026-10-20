@@ -1,10 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T12:23:59-04:00"
+lintVersion: "3.5"
 tags: [group]
-excludePublish: ["all"]
 typeOf: fey court
+name: Twilight Court
+excludePublish: [all]
 dm_owner: joint
 dm_notes: none
+POV: modern
 ---
 # The Twilight Court
 >[!info]+ Information  
@@ -25,3 +29,11 @@ yeah, I was envisioning something like that
 
 I don't expect it is _exactly_ every 25 years; 25 years before 1749 is 1724, which is close enough to my game I could plausibly have one, but also easily enough to say it was in 1718 or 1726 if needed
 %%
+
+%%^Metadata:names:v1%%
+- {"name":"Twilight Court","language":"unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern description of a recurring fey celebration; no individual occurrence or exact schedule is established.
+%%^End%%

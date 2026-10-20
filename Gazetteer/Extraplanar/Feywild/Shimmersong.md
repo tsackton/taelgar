@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-whereabouts: Feywild
+lintedAt: "2026-10-20T12:23:59-04:00"
+lintVersion: "3.5"
+tags: [place]
 typeOf: extraplanar domain
 ancestry: fey
-dm_notes: color
+name: Shimmersong
+whereabouts: Feywild
 dm_owner: tim
+dm_notes: color
+POV: modern
 ---
 # Shimmersong
 >[!info]+ Information  
@@ -21,6 +24,14 @@ The fey domain of Shimmersong is a land of bright colors and vivid magic. It is 
 
 But [[Lightdancer|Egon]] has a dark side, and for some time each year they retreat to hidden caves underground, color fades from the domain, and many of the vibrant plants and animals of the realm turn to stone and metal. There is a stark, winter beauty to this time, but for many in Shimmersong it is hard, and for those who would wish the denizens of the domain ill it is an opportunity. 
 
-To keep the domain safe during the dark times, the [[Lightdancer]] has company of Winter Knights, a group that rarely emerges during the bright days of light and song, but revels in the harsh beauty when the [[Lightdancer]] retreats, and keeps the domain safe from anyone who would take advantage.
+To keep the domain safe during the dark times, the [[Lightdancer]] has a company of Winter Knights, a group that rarely emerges during the bright days of light and song, but revels in the harsh beauty when the [[Lightdancer]] retreats, and keeps the domain safe from anyone who would take advantage.
 
 The people of Shimmersong are grateful to the Winter Knights, but most are eager for the Awakening, the ceremony of springtime that marks the [[Lightdancer]]’s return and honors the work of the Winter Knights during the days of grayness and sleep.
+
+%%^Metadata:names:v1%%
+- {"name":"Shimmersong","language":"unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the realm's geography and recurring bright and withdrawn phases are described without a narrower dated state.
+%%^End%%

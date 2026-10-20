@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-whereabouts: feywild
-displayDefaults:
-  defArt: ""
+lintedAt: "2026-10-20T12:23:59-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: ""}
+tags: [place]
 typeOf: extraplanar domain
 ancestry: fey
+name: Honeybloom
+whereabouts: feywild
 dm_owner: tim
 dm_notes: none
+POV: modern
 ---
 # Honeybloom
 >[!info]+ Information  
@@ -21,3 +23,10 @@ Honeybloom is located northwest of [[Fortune's Rest]], and northeast of [[Gleamw
 
 %%SECRET[v2:a3d589278f966e83491926bc03cb7999]%%
 
+%%^Metadata:names:v1%%
+- {name: "Honeybloom", language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reported geography of Honeybloom, attributed to The Lore of the Feywild; no narrower temporal frame is established.
+%%^End%%

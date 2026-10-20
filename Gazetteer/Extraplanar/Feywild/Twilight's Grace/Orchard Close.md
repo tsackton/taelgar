@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T12:23:59-04:00"
+lintVersion: "3.5"
 tags: [place, status/check/mike]
 typeOf: neighborhood
 name: Orchard Close
 pronunciation: OR-cherd KLOHZ
-whereabouts: Twilight's Grace
+whereabouts: "Twilight's Grace"
+POV: 1720
 ---
 # The Orchard Close
 *(OR-cherd KLOHZ)*
@@ -16,4 +19,8 @@ Orchard Close is an enchanted orchard neighborhood in [[Twilight's Grace]], wher
 
 %%^Metadata:names:v1%%
 - {name: Orchard Close, language: Common, pronunciation: OR-cherd KLOHZ, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: Orchard Close as a hospitable neighborhood with Dame Elowen as its hostess in DR 1720; her earlier and later tenure is not established.
 %%^End%%

@@ -1,14 +1,18 @@
 ---
-headerVersion: 2023.11.25  
+headerVersion: 2023.11.25
+lintedAt: "2026-10-20T12:23:59-04:00"
+lintVersion: "3.5"
 tags: [place]
-excludePublish: ["all"]
-typeOf: planar link  
-typeOfAlias: fey portal  
+typeOf: planar link
+typeOfAlias: fey portal
+name: "Twilight's Pool"
 whereabouts:
-- {type: home, location: Twilight's Grace}
-- {type: secondary, location: Tafolwern}  
-dm_owner: mike  
+  - {type: home, location: "Twilight's Grace"}
+  - {type: secondary, location: Tafolwern}
+excludePublish: [all]
+dm_owner: mike
 dm_notes: none
+POV: modern
 ---
 # Twilight's Pool
 
@@ -43,3 +47,11 @@ No reliable method has ever been discovered for determining which fate awaits a 
     
 - The mortal-side Pool should be located in an old garden connected to royal or civic grounds, though not  within the palace itself. There is likely a tower of the oracle of the riven nearby
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Twilight's Pool", "language": "Common", "status": "inferred", "notes": "Transparent English place name; no pronunciation is needed."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern description of the crossing and its two sides, with an undated contrast between legendary and less frequent present-day travel.
+%%^End%%

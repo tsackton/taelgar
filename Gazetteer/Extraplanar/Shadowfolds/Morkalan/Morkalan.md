@@ -1,25 +1,21 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults:
-  wPastHome: Destroyed on <endDate> by [[Riswynn]] and companions
-  wHome: ""
-  dPastHasStart: ""
-  dCurrent: ""
-tags:
-  - place
+lintedAt: "2026-10-20T12:23:59-04:00"
+lintVersion: "3.5"
+displayDefaults: {wPastHome: "Destroyed on <endDate> by [[Riswynn]] and companions", wHome: "", dPastHasStart: "", dCurrent: ""}
+tags: [place, status/check/lint]
 typeOf: extraplanar domain
+typeOfAlias: domain
+ancestry: Shadowfolds
 created: 1575
 destroyed: 1748-08-26
-ancestry: Shadowfolds
+name: Morkalan
 whereabouts:
-  - type: home
-    location: Hagrim
-    wOrigin: <ancestry:UA> <subtypeof:UA> <typeof:UA>, brought into being in <startDate> by <origin:Px>
-  - type: home
-    location: Shadowfolds
-dm_notes: none
+  - {type: home, location: Hagrim, wOrigin: "<ancestry:UA> <subtypeof:UA> <typeof:UA>, brought into being in <startDate> by <origin:Px>"}
+  - {type: home, location: Shadowfolds}
 dm_owner: tim
-typeOfAlias: domain
+dm_notes: none
+POV: modern
 ---
 # Morkalan
 >[!info]+ Information  
@@ -34,7 +30,7 @@ Morkalan, known as the Land of the Dishonored Dead, is a rumored domain of despa
 
 ![[morkalan-muddy-river.png|right|500]]It was a land with few features to distinguish the landscape, except the [[Muddy River]], which is presumed to be a shadowy echo of the [[Hara]]. On the western edge of the Muddy River, a series of cliffs and caves provided some shelter and was the location of the only notable settlement in Morkalan, known as [[Bleakhold]]. 
 
-East of the Muddy River, the land stretched into the Ashfields, a broken, barren land where few survived, home primarily to those who lots their wits or their will, or those who disobeyed the orders of Morkalan and were exiled to become hungry ghosts in the wastes. 
+East of the Muddy River, the land stretched into the Ashfields, a broken, barren land where few survived, home primarily to those who lost their wits or their will, or those who disobeyed the orders of Morkalan and were exiled to become hungry ghosts in the wastes.
 ## Inhabitants of Morkalan
 Morkalan was inhabited primarily by dwarves who were drawn in by the curse of [[Hagrim]], upon his death and the creation of the domain. Few, however, who survived their years in this place can remember clearly their lives before, though some of the history that the survivors and the dwarves of [[Tharn Todor]] have been able to piece together is [[Chalice of the Runepriest|described elsewhere]]. The defining feature of the domain, according to the [[Riswynn|servants]] of the [[Bahrazel|Bahrâzel]] who finally destroyed it was the profound lack of a divine presence. The souls of the dead, trapped in Morkalan, were not taken up to the [[Land of the Dead]] and beyond, and over time the land became inhabited more by ghosts than any living souls. Even the people who survived seemed strangely mindless, often simply repeating routines over and over for no apparent purpose. While many, but not all, have recovered since being freed, none can clearly remember the passage of time in Morkalan. 
 
@@ -44,7 +40,7 @@ Although the vast majority of the inhabitants of Morkalan were dwarves, a handfu
 From what can be reconstructed, it appears that Morkalan was brought into being by the madness of [[Hagrim]], a dwarf warrior and hero of the [[Great War]], when he, in death, betrayed his companions and turned from the gods. But Hagrim could not recall his story or his past life, having simply come to identify himself as Morkalan, the soul of Dishonor. 
 
 ## Destruction of Morkalan
-In August of 1748, the Chalice of the Runepriest was recovered by the dwarf adventurer Riswynn. Through it, she was drawn to the realm of the [[Bahrazel]], the Heart of the Mountain, and sent (with three companions repaying debts to the [[Bahrazel]]) to Morkalan. [[Session 56 (DuFr)|Hagrim was defeated ]]and the waters of the Chalice of the Runepriest shattered the fabric of the domain, destroying it. 
+In August of 1748, the Chalice of the Runepriest was recovered by the dwarf adventurer Riswynn. Through it, she was drawn to the realm of the [[Bahrazel]], the Heart of the Mountain, and sent (with three companions repaying debts to the [[Bahrazel]]) to Morkalan. [[Session 58 (DuFr)|Hagrim was defeated]] and the waters of the Chalice of the Runepriest shattered the fabric of the domain, destroying it.
 %%^End%%
 
 %%^Campaign:none%%
@@ -137,4 +133,42 @@ Only [Kaylan](onenote:#Kaylan&section-id={83DD85D0-7509-9249-8E9F-5468A0CDB2BE}&
 
 A wraith, two phantom warriors with spears and bows instead of longsword, and two specters will defend the camp, until Kaylan calls them off at initiative count 10 on the 3rd round of combat.
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Morkalan", "language": "unknown", "pronunciation": "MOR-kah-lahn", "notes": "Cautious spelling-based proposal, also used as the unaccepted domain-name component in [[Hagrim]]: initial stress, a hard k, and ah vowels. No source language or adopted pronunciation is established.", "status": "proposed"}
+- {"name": "Land of the Dishonored Dead", "role": "alias", "language": "unknown", "notes": "Alternative name recorded in this article.", "status": "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a modern retrospective account of a destroyed domain, with the detailed history inside the existing DR 1748 date block; the exact day of destruction remains disputed between August 25 and August 26.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter, added the explicit display name and name metadata, and recorded a broadly modern retrospective viewpoint with the unresolved destruction-day limitation.
+- Corrected “lots their wits” to “lost their wits.”
+- Corrected the defeat citation from Session 56 to Session 58, which records the confrontation and dissolution, and repaired the spacing at the link boundary.
+
+### Validated judgments
+- The visible article provides a sufficient account of the domain’s terrain, inhabitants, origin, and destruction; the plain-English alternative title needs no pronunciation.
+- Sessions 56 and 58 corroborate the defining campaign events. Private recoveries remain solely in the structured private handoff fields, and the existing shared DM block is preserved.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** `destroyed: 1748-08-26` differs from [[Chalice of the Runepriest#History of the Chalice]], which dates the domain's destruction to DR 1748-08-25. [[Session 58 (DuFr)]] dates the confrontation to August 25 and emergence onto the Material Plane to August 26, while its narrative connects the dissolving shadows with that emergence. Confirm which event marks the domain's end. If it ended at the confrontation, use `destroyed: 1748-08-25`; if the later emergence marks its end, retain August 26 and distinguish the two events in the linked chronology. No date was chosen automatically.
+
+- [ ] **Warning — correctness.cross_note_conflict:** `created: 1575` agrees with the DR 1575-09-19 creation account in [[Chalice of the Runepriest#History of the Chalice]] and [[Dworic]]'s captivity chronology, but [[Hagrim]] starts his Morkalan home in DR 1571. Reconcile that direct relationship before treating the dates as one accepted chronology. If the 1575 account governs, the candidate for Hagrim's final home entry is `{type: home, start: 1575-09-19, location: Morkalan}`; otherwise identify the source supporting a different creation date here. This lint preserves both notes' existing dates.
+
+- [ ] **Warning — metadata.names_unresolved_status:** The name block proposes `MOR-kah-lahn`, matching the existing unaccepted domain-name component in [[Hagrim]]. This is a cautious spelling-based reading: initial stress, a hard k, and ah vowels, with no established name language or adopted phonology. Accept it by copying `pronunciation: MOR-kah-lahn` to frontmatter and marking the primary entry `documented`, or supply the intended pronunciation.
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The shared `Campaign:none` section's “Muddy River” overview contains a developed geographic detail absent from the public account. Consider adopting: “The [[Muddy River]] ran for about twenty-five miles across Morkalan. Its water was flat and bitter-tasting, but safe to drink.” This supplies a concrete scale and practical feature; it is a human adoption candidate from shared DM prose, not an independently established new public claim. Keep the encounter lists and the remaining character and mechanical guidance in the nonpublic block, and retain only distinct DM guidance if this overview is adopted.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/Hagrim of Morkalan]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/NPCS of Morkalan/Kaylan]]
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/Session 2 - Riswynn]]
+- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Session 103 - DM Notes]]
 %%^End%%

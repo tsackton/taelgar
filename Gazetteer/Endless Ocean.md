@@ -1,16 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-name: Endless Ocean
+lintedAt: "2026-10-20T12:23:59-04:00"
+lintVersion: "3.5"
+tags: [place]
 typeOf: marine feature
-whereabouts:
-  - type: home
-    location: Taelgar
-    linkText: in
-dm_notes: important
-dm_owner: tim
 typeOfAlias: ocean
+name: Endless Ocean
+whereabouts:
+  - {type: home, location: Taelgar, linkText: in}
+dm_owner: tim
+dm_notes: important
+POV: modern
 ---
 # The Endless Ocean
 >[!info]+ Information
@@ -26,3 +26,11 @@ Some say one can sail west so far as to arrive at the eastern shores of the [[Gr
 Whether there are lost islands or strange lands far across the Endless Ocean is not recorded by scholars. 
 
 %%SECRET[v2:ab75a0bf6e034ca008eb404d322ef41c]%%
+
+%%^Metadata:names:v1%%
+- {"name":"Endless Ocean","language":"unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern coastal geography and competing sailors’ claims; the distant western limits remain unestablished.
+%%^End%%

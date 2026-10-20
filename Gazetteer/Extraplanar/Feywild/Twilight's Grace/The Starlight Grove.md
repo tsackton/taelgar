@@ -1,13 +1,17 @@
 ---
-headerVersion: 2023.11.25  
-tags: [place, status/wip]
-typeOf: planar link  
-typeOfAlias: fey portal  
+headerVersion: 2023.11.25
+lintedAt: "2026-10-20T12:23:59-04:00"
+lintVersion: "3.5"
+tags: [place, status/wip, status/check/lint]
+typeOf: planar link
+typeOfAlias: fey portal
+name: The Starlight Grove
 whereabouts:
-- {type: home, location: Twilight's Grace}
-- {type: secondary, location: Tyrwingha}  
-dm_owner: mike  
+  - {type: home, location: "Twilight's Grace"}
+  - {type: secondary, location: Tyrwingha}
+dm_owner: mike
 dm_notes: none
+POV: modern
 ---
 # The Starlight Grove
 
@@ -60,3 +64,29 @@ On emerging in Tyrwingha, travelers first notice the smell of damp earth, leaves
 - It can serve travelers bound toward Clawyn, Nefyn, or eventually Orenlas without placing them directly in any settlement.  
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: The Starlight Grove, language: Common, status: inferred, notes: descriptive Common name; primary form follows the filename and heading while the differing opening form remains for human review}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern description of the portal, its two landscapes, and its crossing tradition; no narrower state or change is established.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter ordering and collection formatting without changing existing values.
+- Added explicit subject-name metadata, a primary name entry, and the article POV with its temporal interpretation.
+
+### Validated judgments
+- The two landscapes and grape-mediated crossing provide a usable account proportional to the portal's reference role; no generic expansion is required.
+- The primary name follows the filename, heading and later article usage; its English form needs no pronunciation.
+- `status/wip`: not assessable. The header reminder records an unfinished authorial rewrite, while no external evidence establishes that the author's work is complete; the tag remains unchanged.
+- The shared comments preserve an editorial reminder and tentative route planning; they are not adopted public facts.
+
+### Open findings
+
+- [ ] **Warning — identity.name_conflict:** The heading and Feywild-side section name “The Starlight Grove,” but the opening calls the same portal “Twilight's Grove.” The complete-name search found no independent note establishing that second form as an accepted alias. Confirm the intended name rather than silently changing or adding one. If the heading is intended, the bounded first-sentence replacement is: “The Starlight Grove is the southernmost of the three commonly known portals between [[Tyrwingha]] and [[Twilight's Grace]].” Keep the existing filename; if Twilight's Grove is intended instead, reconcile the metadata, heading and later use by separate approved editing.
+%%^End%%

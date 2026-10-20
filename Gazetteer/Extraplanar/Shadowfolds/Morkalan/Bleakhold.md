@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-whereabouts: Morkalan
+lintedAt: "2026-10-20T12:23:59-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: village
 destroyed: 1748-08-26
 name: Bleakhold
-dm_notes: none
+whereabouts: Morkalan
 dm_owner: tim
+dm_notes: none
+POV: 1748
 ---
 # Bleakhold
 >[!info]+ Information  
@@ -55,4 +57,40 @@ Dworic - smith
 Rurik - father of Tak
 Tak - kid
 
+%%^End%%
+
+%%^Metadata:map:v1%%
+locations:
+  - {map: world, locator: }
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Bleakhold, language: Common, status: inferred, notes: descriptive Common name}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1748 historical description of Bleakhold before Morkalan's destruction; the dated paragraph reports the rescued inhabitants' retrospective account from August 26 onward.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter ordering and collection formatting without changing existing values.
+- Added a descriptive Common name entry and a DR 1748 historical POV with its retrospective temporal interpretation.
+- Added the required typed settlement map skeleton with its locator left blank.
+
+### Validated judgments
+- The settlement's setting, approximate population, dwellings and subsistence provide a sufficient bounded historical description; the destruction date and rescued-inhabitant frame already identify it as a former community.
+- Bleakhold is a transparent English compound and needs no pronunciation; [[Languages]] supports treating such descriptive written place names as Common.
+- The shared DM block mixes duplicated overview prose with distinct encounter guidance; no private material was promoted automatically.
+
+### Open findings
+
+- [ ] **Warning — metadata.map_location_missing:** The required settlement map block contains `{map: world, locator: }`, but neither the article nor the consulted Morkalan description establishes a supported map position. Supply a verified map and locator for the historical settlement, using an appropriate planar map if one exists. Do not infer a Material Plane hex from the domain's shadowy correspondence to Dunmar.
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The `Campaign:none` block's “Overview” repeats the visible population of about 800, the stone-and-mud or cliff dwellings, and the unusually quiet, withdrawn village. Remove those duplicate overview statements, or retain only distinct editorial qualifications that the author still needs. Keep “The Watch,” the encounter scenes, NPC roster, and memory/clan-name guidance together as DM material under the existing wrapper. The old observation that no food source is obvious should remain explicitly provisional or be removed in light of the visible subsistence description; it is not an independent factual contradiction. This bounded split leaves public history in the article and usable encounter guidance in the shared DM block.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/The Domain of Morkalan/The Domain of Morkalan]]
 %%^End%%
