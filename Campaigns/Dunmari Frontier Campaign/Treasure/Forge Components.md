@@ -1,6 +1,11 @@
 ---
+lintedAt: "2026-10-20T07:26:32-04:00"
+lintVersion: "3.5"
 tags: [meta]
 typeOf: hoard
+campaign: Dunmar Frontier
+name: Forge Components
+POV: 1749
 ---
 ### Forge Metals
 
@@ -15,7 +20,7 @@ A total of 132 small metal bars, neatly organized. Each bar is roughly 8 inches 
 - 4 lead bars
 - 2 cobalt bars
 - 2 platinum bars
-- 2 zinc bar
+- 2 zinc bars
 - 2 arsenic bars
 - 5 brass bars
 - 4 tin bars 
@@ -40,7 +45,7 @@ The remaining 47 are magical or unusual metals:
 - 3 vulcanite bars %%SECRET[v2:e70b63183c1c7e68bf0b9d930c971113]%%
 - 3 nocturium bars %%SECRET[v2:53f182ec221876fceb9db18f3490cb66]%%
 #### Forge Powders
-A collection of twenty boxes, each containing a small quantity of a fine powder. Each box is marked with magical rune representing a word or phrase. They are:
+A collection of twenty boxes, each containing a small quantity of a fine powder. Each box is marked with a magical rune representing a word or phrase. They are:
 - **Death** – A black, ashy powder that smells faintly of decay.
 - **Fire** – A bright red powder that flickers with tiny sparks.
 - **Beauty** – A soft, shimmering rainbow powder.
