@@ -1,10 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
+lintedAt: "2026-10-20T09:04:07-04:00"
+lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
+tags: [event]
+typeOf: vision
 DR: 1748-09-06
 timelineDescriptor: Dunmari Frontier Campaign
-typeOf: vision
+name: God Tree Vision
+POV: 1748
 ---
 # God Tree Vision
 >[!info]+ Information  
@@ -17,3 +21,7 @@ Soaring above the clearing is a massive red dragon, swooping over the God tree. 
 The scene shifts, and you see emerging from the edge of the clearing a legion of Chardonian soldiers. They raise their shields and brace themselves as four mages step into the protective circle they form and begin casting. Vines start to wrap around the dragon. Some snap, as the dragon struggles, but slowly it is forced from the air. But it is not enough, for the deadly fire of its breath wipes out many of the legion, and the mages call a retreat to regroup. 
 
 The vision fades.
+
+%%^povNotes:v1%%
+Temporal coverage: the campaign witnessing frame is DR 1748, recorded as 1748-09-06; the scenes shown by the mirror belong to earlier periods and do not form a continuously dated historical account.
+%%^End%%

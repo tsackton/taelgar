@@ -1,10 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
+lintedAt: "2026-10-20T09:04:07-04:00"
+lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
+tags: [event]
+typeOf: vision
 DR: 1748-06-15
 timelineDescriptor: Dunmari Frontier Campaign
-typeOf: vision
+name: Soul Lantern Vision
+POV: 1748
 ---
 # Soul Lantern Vision
 >[!info]+ Information  
@@ -18,3 +22,7 @@ The scene flickers, and a new scene appears. The scene is the same -- [[Agata's 
 The scene continues to flicker and flash, showing over and over again people being slaughtered in [[Agata's Lair]], and [[Agata]] claiming their souls. Most are [[Orcs]], although you see a handful of humans. 
 
 The scenes of death in [[Agata]]’s hut are interrupted only once, by a different scene: a halfling caravan, on the road, scouts ahead and wagons guarded by archers. You, as the lantern, see this scene from the back of a giant fly as [[Agata]] descends. This is [[Garret Tealeaf]]’s family, and as the scene shifts back to [[Agata]]’s hut you can see in the mirror an undead spirit growing out of the mirror and swooping down to chase the halflings, who scatter in terror. [[Oswalt Tealeaf]], who we met on the boat to [[Chardon]], and is [[Garret Tealeaf]]’s cousin, corroborates this story.
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1748 account of the vision witnessed on 1748-06-15, including later corroboration by Oswalt Tealeaf; the historical scenes are not independently dated here.
+%%^End%%

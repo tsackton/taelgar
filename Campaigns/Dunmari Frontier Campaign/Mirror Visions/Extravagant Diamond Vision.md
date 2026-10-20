@@ -1,10 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
+lintedAt: "2026-10-20T09:04:07-04:00"
+lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
+tags: [event]
+typeOf: vision
 DR: 1748-08-01
 timelineDescriptor: Dunmari Frontier Campaign
-typeOf: vision
+name: Extravagant Diamond Vision
+POV: 1748
 ---
 # Extravagant Diamond Vision
 >[!info]+ Information  
@@ -21,3 +25,7 @@ The image shifts again, and you see a brief flash of a storeroom full of chests.
 The image shifts again, and you see a halfling trading caravan leaving [[Chardon]], a large caravan, no one you recognize, but you get the sense this is 50 to 100 years ago. Not recent, but within a halfling generation or two. Brief glimpses of the sky along the road to [[Dunmar]], until you recognize the city of [[Tokra]] on the horizon, and the image shifts again.
 
 Now, sitting in [[Agata]]’s hut. Drinking tea, a Dunmari man holding the diamond. Speaking urgently with [[Agata]], pleading and anxious, then handing over the diamond. He is a man in his late 50s, short cropped gray hair, eyes weary from long sleepless nights, and perhaps tears. His clothing is plain, unfancy, and his demeanor suggests someone not used to being in the presence of creatures with [[Agata]]’s power, overwhelmed and desperate. Perhaps a temple guard or a retired warrior, but not someone of renown. And as the diamond passes into [[Agata]]’s hand, the scene fades.
+
+%%^povNotes:v1%%
+Temporal coverage: narration of the mirror vision witnessed on DR 1748-08-01; the scenes depict earlier history whose dates are not established by this vision.
+%%^End%%

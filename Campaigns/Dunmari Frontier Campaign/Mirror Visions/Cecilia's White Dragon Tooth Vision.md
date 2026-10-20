@@ -1,10 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
+lintedAt: "2026-10-20T09:04:07-04:00"
+lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
+tags: [event]
+typeOf: vision
 DR: 1749-03-01
 timelineDescriptor: Dunmari Frontier Campaign
-typeOf: vision
+name: "Cecilia's White Dragon Tooth Vision"
+POV: 1749
 ---
 # Cecilia's White Dragon Tooth Vision
 >[!info]+ Information  
@@ -14,5 +18,8 @@ You gather in [[Cecilia Lister]]'s tattoo shop, and draw the mirror from the por
 
 You hold up the tooth, and the scene shifts. For a moment, you see nothing, just a darkness, and then suddenly the scene bursts into light as you see the lid to a chest swinging open, and a man dressed in heavy furs holding a key and seemingly finishing an incantation. The chest is in a smoky room, large enough for several people to comfortably stand around talking. They are a mix of men and women, wearing warm clothing and fur-lined cloaks. There seems to be an argument occurring. Then the scene shifts. 
 
-You see trees passing on either side, rapidly. You seem to be on a sled, pulled by a pair of horses, rushing along a frozen river. The sled is driven by a man in blue robes, seemingly unaffected by cold, holding a white wooden staff with a strange, twisted metal design at the top that makes your eyes hurt to look at too hard. Overhead, another man and a woman fly on some kind of fur rug, magically suspending in the air. The miles pass quickly as the sled races along the ice. It is winter, and the weak sun casts long shadows across the snowy ground.
+You see trees passing on either side, rapidly. You seem to be on a sled, pulled by a pair of horses, rushing along a frozen river. The sled is driven by a man in blue robes, seemingly unaffected by cold, holding a white wooden staff with a strange, twisted metal design at the top that makes your eyes hurt to look at too hard. Overhead, another man and a woman fly on some kind of fur rug, magically suspended in the air. The miles pass quickly as the sled races along the ice. It is winter, and the weak sun casts long shadows across the snowy ground.
 
+%%^povNotes:v1%%
+Temporal coverage: the vision as experienced on 1749-03-01 DR; the earlier scenes shown by the mirror have their own uncertain or discontinuous chronology.
+%%^End%%

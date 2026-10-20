@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
+lintedAt: "2026-10-20T09:04:07-04:00"
+lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
-name: Elemental Forge Spellbook Vision
+tags: [event]
+typeOf: vision
 DR: 1749-06-23
 timelineDescriptor: Dunmari Frontier Campaign
-typeOf: vision
+name: Elemental Forge Spellbook Vision
+POV: 1749
 ---
 # Elemental Forge Spellbook Vision
 >[!info]+ Information  
@@ -17,4 +20,8 @@ You see a Drankorian woman, probably in her mid-30s, with tight curly hair and a
 
 And shifts, to a small, spare study, sunlight shining through a window. The same woman is sitting, studying the book. She glances down, seemingly impatient, or bored, and grabs the book, standing. The view shifts, tilting, as you see the walls of the room as she paces in a circle. Plain, white marble, the occasional glimpse out the window revealing a massive, sprawling city, the grand dome of the Cathedral of the Eight Divines standing out among a dense panorama of buildings, domes as far as the eye can see. 
 
-The image jumps once more. A younger version of the same woman, wearing a plain, simple outfit, mended several times. She is maybe 15 or 16, still a teenager, eager, curious. An elf is handing her the book, looking matronly with silver hair and a warm smile on her face. The elf and the woman are standing in the door of a large building, perhaps a university of some kind. The image fades as the elf passes over the book, encouragingly. 
+The image jumps once more. A younger version of the same woman, wearing a plain, simple outfit, mended several times. She is maybe 15 or 16, still a teenager, eager, curious. An elf is handing her the book, looking matronly with silver hair and a warm smile on her face. The elf and the woman are standing in the door of a large building, perhaps a university of some kind. The image fades as the elf passes over the book, encouragingly.
+
+%%^povNotes:v1%%
+Temporal coverage: the vision as experienced on 1749-06-23 DR; the earlier scenes shown by the mirror have their own uncertain or discontinuous chronology.
+%%^End%%

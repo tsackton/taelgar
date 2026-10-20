@@ -1,10 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
+lintedAt: "2026-10-20T09:04:07-04:00"
+lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
+tags: [event]
+typeOf: vision
 DR: 1748-12-23
 timelineDescriptor: Dunmari Frontier Campaign
-typeOf: vision
+name: "Urgall's Helm Vision"
+POV: 1748
 ---
 # Urgall's Helm Vision
 >[!info]+ Information  
@@ -13,7 +17,7 @@ typeOf: vision
 
 You hold the helm up to the mirror, and the scene fades for a moment. 
 
-You see a man standing on the bow of the [[Flaming Tempest]], presumably [[Urgall the Black|Urgall]], wearing the helm. He is holding a trader -- probably a Tollender -- in the air. The Tollender is begging, asking [[Urgall the Black|Urgall]] to save his life, but [[Urgall the Black|Urgall]] does not seem to care, and slashes in throat. A strange dark mist creeps out of the slit throat, seeming to seep into [[Urgall the Black|Urgall]]'s helm. The scene continues as [[Urgall the Black|Urgall]] threatens and interrogates another sailor, the navigator, who also begs for his life, promising to tell [[Urgall the Black|Urgall]] where something, or somewhere, is -- you cannot quite see what place he sketches directions to. Then his throat is slit as well.
+You see a man standing on the bow of the [[Flaming Tempest]], presumably [[Urgall the Black|Urgall]], wearing the helm. He is holding a trader -- probably a Tollender -- in the air. The Tollender is begging, asking [[Urgall the Black|Urgall]] to save his life, but [[Urgall the Black|Urgall]] does not seem to care, and slashes his throat. A strange dark mist creeps out of the slit throat, seeming to seep into [[Urgall the Black|Urgall]]'s helm. The scene continues as [[Urgall the Black|Urgall]] threatens and interrogates another sailor, the navigator, who also begs for his life, promising to tell [[Urgall the Black|Urgall]] where something, or somewhere, is -- you cannot quite see what place he sketches directions to. Then his throat is slit as well.
 
 The scene shifts, and you see [[Urgall the Black|Urgall]] standing on the deck of ship, caught in an act of twisted devotion, as he casts a spell to control the waters, causing the ship to turn, and sail straight into the wind, propelled by the spell, as it approaches [[Vetta]]. 
 
@@ -22,3 +26,7 @@ The scene shifts, and you see the one-sided battle for [[Vetta]], the slaughter 
 Finally, you see [[Urgall the Black|Urgall]], standing in the temple of [[Vetta]], slitting the throats of ten of his crew. As each dies, the sacred waters of the temple of [[Vetta]] begin to boil and churn, and suddenly you see a tentacle emerging from the sacred waters in the distance, and black acid begin to seep over everything. This, clearly, is a scene of ritual sacrifice, where [[Urgall the Black|Urgall]] is slaughtering his own crew to summon a demon, [[Mashtu the Corruptor]] or some servant of his. 
 
 The scene fades.
+
+%%^povNotes:v1%%
+Temporal coverage: narration of the mirror vision witnessed on DR 1748-12-23; the scenes depict earlier history whose dates are not established by this vision.
+%%^End%%

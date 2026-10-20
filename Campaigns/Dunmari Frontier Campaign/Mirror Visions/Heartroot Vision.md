@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [event]
+lintedAt: "2026-10-20T09:04:07-04:00"
+lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
-name: Heartroot Vision
+tags: [event, status/check/lint]
+typeOf: vision
 DR: 1749-08-12
 timelineDescriptor: Dunmari Frontier Campaign
-typeOf: vision
+name: Heartroot Vision
+POV: 1749
 ---
 # The Heartroot Vision
 >[!info]+ Information  
@@ -55,6 +58,26 @@ You catch one stuttering image — something being shaken, twisted, then grabbed
 
 Now the world feels smaller — the vast, open visions from before are gone. Instead of looking down on a wide, living world, you’re in a confined space of earth, looking up at a narrow patch of sky. There’s no sense of expansion anymore, no growth or vitality. Time passes strangely — seasons flicker by, days and nights wheel past — but there’s no real sense of how long.
 
-Then the image stops. You see a jade figure standing in the valley — a wizard — looking up at the sky, speaking softly to it. He’s talking about the monks he’s met, how they’ve also seen the dangers of the remnants of [[Cha'mutte's Plague]]. He thinks they’ll help. He’s worried about reaching Isingue alone, but with their support, it can be done. “The prison is stable,” he says. “Dimitar is watching it. We have a moment.” A voice answers from above, though you can’t see lips or hear words. You can tell it’s worried: that the hobgoblins might learn too much too soon. That if they uncover the secrets of isingue, they might discover the last relic of the Heartroot. Then comes planning — talk of an expedition, of closing a portal to Limbo that was opened by Cha’mutte’s death. Maybe sealing that breach would help.
+Then the image stops. You see a jade figure standing in the valley — a wizard — looking up at the sky, speaking softly to it. He’s talking about the monks he’s met, how they’ve also seen the dangers of the remnants of [[Cha'mutte's Plague]]. He thinks they’ll help. He’s worried about reaching Isingue alone, but with their support, it can be done. “The prison is stable,” he says. “Dimitar is watching it. We have a moment.” A voice answers from above, though you can’t see lips or hear words. You can tell it’s worried: that the hobgoblins might learn too much too soon. That if they uncover the secrets of Isingue, they might discover the last relic of the Heartroot. Then comes planning — talk of an expedition, of closing a portal to Limbo that was opened by Cha’mutte’s death. Maybe sealing that breach would help.
 
 And then, the image fades. The vision ends.
+
+%%^povNotes:v1%%
+Temporal coverage: witnessed on August 12, DR 1749; the mirror moves discontinuously from the separation of the planes through the history of the upper Istaros to an earlier conversation about the Limbo breach, without independently dating those scenes.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added the DR 1749 witnessing viewpoint and temporal-coverage metadata.
+- Corrected the isolated lowercase “isingue” to “Isingue” in the narration.
+
+### Validated judgments
+- The vision’s own role is sufficient; later communion and the separate revelation of the Limbo wound in [[Session 134 (DuFr)]] need not be inserted into this earlier witnessed scene.
+- The hidden conversation was reviewed as recorded table clarification; the vision and that clarification remain distinct.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.public_material_candidate:** In the ordinary comment beginning “David Kong: Like, that very first moment”, Tim explicitly identifies the opening scene as the creation of the planes and later describes the Heartroot as a symbiotic organism created as a byproduct. These are developed clarifications rather than brainstorming, and a short public explanatory note would make the otherwise implicit origin and growth mechanism easier to use. For human adoption as a distinct explanatory paragraph, rather than rewriting the witnessed narration: “The opening scene shows the creation of the planes. The Heartroot was created as a byproduct of that event: a vast symbiotic organism that strengthens the growth of everything it touches.” Retain the original conversation as documentary provenance and leave the separate discussion of player map access in the comment; do not promote the entire transcript or imply that every character understood the clarification.
+%%^End%%
