@@ -1,19 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/cleanup/text
-displayDefaults:
-  defArt: ""
-campaignInfo: []
-name: Dwarven Outpost (Raven's Hold)
+lintedAt: "2026-10-20T11:04:00-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: ""}
+tags: [place, status/cleanup/text]
 typeOf: building
-ancestry: dwarven
 subTypeOf: ruined
-whereabouts: Sentinel Range
-dm_notes: important
-dm_owner: tim
 typeOfAlias: fort
+ancestry: dwarven
+campaignInfo: []
+name: "Dwarven Outpost (Raven's Hold)"
+whereabouts: Sentinel Range
+dm_owner: tim
+dm_notes: important
+POV: modern
 ---
 # Dwarven Outpost (Raven's Hold)
 >[!info]+ Information
@@ -28,5 +28,10 @@ Abandoned during the [[Great War]] when the dwarves here fled south in the face 
 
 %%SECRET[v2:a580c0e2f80deb453f67805179594dd4]%%
 
+%%^Metadata:names:v1%%
+- {"name": "Dwarven Outpost (Raven's Hold)", "language": "unknown"}
+%%^End%%
 
-
+%%^povNotes:v1%%
+Temporal coverage: broadly modern retrospective account of the trading outpost and its Great War abandonment.
+%%^End%%

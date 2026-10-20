@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/wip]
-displayDefaults: {defArt: '' }
+lintedAt: "2026-10-20T11:04:00-04:00"
+lintVersion: "3.5"
+displayDefaults: {defArt: ""}
+tags: [place, status/wip, status/check/lint]
 typeOf: region
-whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
+name: Greater Dunmar
+whereabouts:
+  - {type: home, location: Taelgar, linkText: in}
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Greater Dunmar
 >[!info]+ Information  
@@ -40,8 +45,8 @@ The Central Lowlands region is dominated by four major topographical features.
 	- To the north, the Sentinels form the edge of the basin; in the spring, snowmelt-fed streams and rivers bring life to the northern plains. 
 	- To the east, the Garamjala Plateau, a high desert, separates the [[Hara Basin]] from the Istaros watershed. 
 	- The only outflow from the [[Hara Basin]] is through the [[Hara Gorge]], southeast of Askandi, that cuts through the rocky deserts on the western edge of the Garamjala Plateau. 
-- The Yuvanti Mountains separate the [[Hara Basin]] from the Nevos Sea. Higher and more rugged in the south, the rain shadow of the Yuvanti Moutains creates the vast Garamjala Desert. 
-	- At the northern edge of the Yuvanti Moutains, a series of hills and river valleys known as the Darba Highlands connects the Yuvanti to the [[Chataan Mountains]], and isolates the [[Hara Basin]] from the Nevos. 
+- The Yuvanti Mountains separate the [[Hara Basin]] from the Nevos Sea. Higher and more rugged in the south, the rain shadow of the Yuvanti Mountains creates the vast Garamjala Desert.
+	- At the northern edge of the Yuvanti Mountains, a series of hills and river valleys known as the Darba Highlands connects the Yuvanti to the [[Chataan Mountains]], and isolates the [[Hara Basin]] from the Nevos.
 	- West of the Yuvanti, the broad, flat Nayan Floodplains stretch to the sea. 
 - The Garamjala Plateau is an extremely arid mid-elevation plateau, that rises between the Hara and the Mahar watersheds. This area is almost entirely inhospitable desert.
 - East and north of the Garamjala Plateau, the Istaros watershed runs from the foothills of the Sentinels near Sembara, through the Plaguelands, south into the Desolation of Cha'mutte and the fabled city of Drankor. 
@@ -112,3 +117,35 @@ _See also: {links to lists, e.g. Places in Region}_
 *Adventures:* The Dunmar Frontier campaign has involved numerous adventures in this region, including [[Central Dunmar]], [[Darba]] and the [[Darba Highlands]], [[Eastern Dunmar]], [[Tokra]], [[Karawa]], the [[Nashtkar]] and other regions east of Karawa, including [[Kharsan]], [[Xurkhaz]], the [[Awakened Jungle]], and [[Drankor]]. The [[Oskar's Adventures]] were largely set in [[Nardith]] and nearby regions, but did not involve much worldbuilding. 
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: Greater Dunmar, language: unknown, pronunciation: "GRAY-ter DUN-mar", status: proposed, notes: "Combines the ordinary English modifier Greater with the documented DUN-mar pronunciation in [[Dunmar]]. The complete compound and its source language are not separately attested."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern physical geography and climate, with a brief account of the upheavals after the Great War; cultural and historical overview sections remain unfinished.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Corrected both occurrences of “Moutains” to “Mountains.”
+- Added the explicit name, a proposed compound pronunciation and name-language uncertainty, and a broadly modern temporal viewpoint; normalized frontmatter formatting.
+
+### Validated judgments
+- `status/wip` is supported by the unfinished regional template and central culture/history sections; the tag is retained.
+- The physical and seasonal overview is broadly supported by [[Hara Basin]], [[Garamjala Desert]] and [[Climate of Dunmar and the Nevos]].
+
+### Editorial assessment
+**Underdeveloped** — The region has a substantive topographic account, but its central civilizations/cultures and historical-eras sections remain hidden planning or visible placeholders. A short account of the Dunmari and Nardikhun, with a linked outline of the Drankorian, early Dunmari and post-Great-War periods, is the smallest useful completion. The unfinished map and peripheral template fields do not independently require a larger article.
+
+- Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** “Civilizations and Cultures” has no visible account, and “Major Historical Eras” contains only placeholders. [[Dunmar]] establishes the region’s principal human realm, the inland pastoral/coastal agricultural distinction and its Drankorian and Dunmari historical layers; [[Nardith]] establishes the dwarven realm in the Yuvanti. Add a bounded overview, for example: “The largest populated realm is [[Dunmar]]. Inland Dunmari traditionally move with herds of horses, sheep and goats, while the western lowlands support more permanent agriculture. The [[Yuvanti Mountains]] are home to the dwarves of [[Nardith]], founded by refugees from [[Ardith]].” For the eras section: “Much of this region was once the heartland of the [[Drankorian Empire]]. [[Dunmar]] was founded in DR 1173 after the [[First Plague]] and prospered under the Aatmaji and Dharajun dynasties. The [[Great War]] reshaped its terrain and was followed by the foundation of the Nayan Dynasty and the dwarven kingdom of [[Nardith]].” These are regional summaries, not a campaign chronology.
+- [ ] **Warning — correctness.cross_note_conflict:** The introduction says the “Yuvanti Mountains rose from the sea.” [[Nardith]] instead says the mountains rose from the Dunmari plains, while [[Dunmar#Nayan Dynasty|Dunmar’s history]] identifies the Nayan Floodplains as the land emerging from the Nevos Sea. Reconcile which terrain emerged from the sea before revising. A candidate consistent with those sources is: “This region experienced considerable upheaval after the [[Great War]]: the [[Yuvanti Mountains]] and [[Garamjala Plateau]] rose, the [[Nayan Floodplains]] emerged from the [[Nevos Sea]], and much of the former fertile interior became desert.”
+- [ ] **Warning — metadata.names_unresolved_status:** The name block proposes **GRAY-ter DUN-mar**, combining ordinary English “Greater” with **DUN-mar**, explicitly documented in [[Dunmar]]. The complete compound and its source language have not been independently attested. Confirm or replace the full pronunciation; if accepted, set `pronunciation: GRAY-ter DUN-mar` in frontmatter and change the name entry to `status: documented`.
+- [ ] **Suggestion — editorial.prose_clarity:** “The Central Lowlands region is dominated by four major topographical features” changes the subject label from Greater Dunmar without explaining the relationship; the existing “Edit with changing definitions” comment leaves this unresolved. If the same region is intended, use: “Greater Dunmar is dominated by four major topographical features.” If Central Lowlands denotes a different scope, state that relationship and its boundaries before the list.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** Both the real-world-climate placeholder block and the “DM Notes and Meta” template use `%%^Campaign:None%%`. The adopted private sentinel is `%%^Campaign:none%%`. Confirm the intended publication filtering and replace each opening marker with that exact lowercase form; both blocks were preserved because their markers control visibility.
+%%^End%%

@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T11:04:00-04:00"
+lintVersion: "3.5"
 tags: [background]
+name: Dunmari Architecture
 dm_owner: tim
 dm_notes: none
+POV: modern
 ---
 # Dunmari Architecture
 
 Some notes on historical architectural styles in Dunmar.
 ## Aatmajic
 
-The early architecture of the Dunmari is characterized by intricate reliefs, often depicting stories, and patterned designs.  Buildings tend to symmetric and orderly designs with a sense of purpose, especially emphasizing the pentagonal motif of the Divine Siblings. Buildings tend not to have smooth, plain surfaces and designs emphasis the prophetic nature of the Dunmari people and the closeness of the divine. Emphasized the natural, often not using color and relying on reliefs.
+The early architecture of the Dunmari is characterized by intricate reliefs, often depicting stories, and patterned designs.  Buildings tend toward symmetric and orderly designs with a sense of purpose, especially emphasizing the pentagonal motif of the Divine Siblings. Buildings tend not to have smooth, plain surfaces and designs emphasize the prophetic nature of the Dunmari people and the closeness of the divine. Emphasized the natural, often not using color and relying on reliefs.
 
 The Bhishma Monastery outside Kharsan is an exemplar of this style.
 ## Early Dharajunic
@@ -19,9 +23,13 @@ After the collapse of the Aatmaji dynasty and the short period of chaos that fol
 This was, in many ways, the height of the influence and power of Dunmar and the architecture reflects that.
 ## Late Dharajunic
 
-By the end of the Dharajun dynasty, the architectural style has turned far more practical and utilitarian, almost brutalist in feel. Buildings from this period tend to plain, heavy styles, with practical elements, especially for defense, emphasized. What decorations do exist tend towards the geometric and repetitive.
+By the end of the Dharajun dynasty, the architectural style has turned far more practical and utilitarian, almost brutalist in feel. Buildings from this period tend toward plain, heavy styles, with practical elements, especially for defense, emphasized. What decorations do exist tend towards the geometric and repetitive.
 ## Nayan
 
 As the Nayan dynasty grows out of the west, with it comes a new architectural style that comes to dominate over the next 150 years. This style is much more flowing and organic, more melancholic, with less emphasis on the past and much more abstract styles of art and design.
 
 Over the past 50 years or so, during the second part of the uneasy peace, a growing revival movement has begun to revisit the early style of intricate reliefs and buildings as stories, in a heavily nostalgic way, and sometimes in a nationalist way. This style is more associated with eastern Dunmar than western Dunmar.
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern survey of historical architectural styles, ending with an approximately fifty-year revival movement in the later Nayan period.
+%%^End%%
