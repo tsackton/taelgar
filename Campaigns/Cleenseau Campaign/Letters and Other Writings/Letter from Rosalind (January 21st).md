@@ -1,6 +1,11 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:38:32-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Cleenseau
+name: Letter from Rosalind (January 21st)
+POV: 1720
 ---
 # Letter from [[Rosalind Essford|Rosalind]] to the [[Heroes of Cleenseau]]
 _Received January 26th, in [[Cleenseau]]_
@@ -13,7 +18,7 @@ But that is mere prologue. Yesterday, we awoke to a smoldering fire in the heart
 
 Little explanation has reached those outside the Royal Council, but several of us were able to see the ruins of the temple, and the mutilated bodies in the crypts certainly looked like the remains of an evil ritual. Eremon swears this could not be true, but I can tell he has been deeply affected. He was spending much time with one of the elders who was executed, and I cannot tell if his judgement is clouded.
 
-On other news, it appears that the Royal Chancellery is investigating irregular land holdings from early in Queen Cece's reign, which is why I have been summoned. There are about a dozen of us, with family landholdings granted along the Enst or in the southern baronies just after the hobgoblin wars. I do not know what the suspicious are, as I await my summons.
+On other news, it appears that the Royal Chancellery is investigating irregular land holdings from early in Queen Cece's reign, which is why I have been summoned. There are about a dozen of us, with family landholdings granted along the Enst or in the southern baronies just after the hobgoblin wars. I do not know what the suspicions are, as I await my summons.
 
 I eagerly await news of Cleenseau. 
 

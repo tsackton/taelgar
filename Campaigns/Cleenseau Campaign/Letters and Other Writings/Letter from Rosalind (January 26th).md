@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:38:32-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Cleenseau
+name: Letter from Rosalind (January 26th)
+POV: 1720
 ---
 # Letter from [[Rosalind Essford|Rosalind]] to the [[Heroes of Cleenseau]]
 _Received February 1st, in [[Cleenseau]]_
 
 Friends:
 
-I have received your letter, and can report that rumors of a paladin of the Wanderer smiting skeletons along the Enst has reached even Embry. I cannot thank you enough, and thank the Warlord for that serendipitous day when you appeared in Cleenseau. Perhaps even my brother's hotheadedness was part of the Warlord's plan, for if he had not been chasing rumors upriver, perhaps you would never have been forced to defend Cleenseau from those spiders.
+I have received your letter, and can report that rumors of a paladin of the Wanderer smiting skeletons along the Enst have reached even Embry. I cannot thank you enough, and thank the Warlord for that serendipitous day when you appeared in Cleenseau. Perhaps even my brother's hotheadedness was part of the Warlord's plan, for if he had not been chasing rumors upriver, perhaps you would never have been forced to defend Cleenseau from those spiders.
 
 Embry continues to slide towards chaos. Duke Bellemont is here, and furious with the King for what he says are his lies and mismanagement of the crisis. He swears Raoul and Lenora are absolutely innocent, but some think he protests too much. If they were truly innocent, why would they not appear before the King's tribunal?
 
