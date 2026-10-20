@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-20T09:49:52-04:00"
+lintVersion: "3.5"
 tags: [source]
 DR: 1720-01-11
+campaign: Cleenseau
+name: "El's Story"
 POV: 1720
 ---
 
@@ -19,7 +23,7 @@ They pause, looking thoughtful.
 
 They continue.
 
-"About six years ago, I started having dreams. In my dreams, I looked different , each time I slept, but always, in some fashion, _right._ And never so womanly as in my real life. Each dream felt like a foretelling of a possible self, like a choice being offered of a future. And I always felt like I got to _choose_ my future, my body, my relationship to my body, like I got to be myself, not a label or a type or a gender. I became addicted to those dreams, sleeping more and more each day, neglecting my life, the business, my husband, my family. But I couldn't stop, for the sense of possibility presented each time I slept was like nothing I had experienced before. My family knew something was wrong, but after many years of... " They pause. "Well, it was hard to confide in them. But I finally told my youngest sister, Cece, who was the widest travelled of us -- she has been as far as [[Tollen]] twice -- and she told me about a man — [[Jor]] —  in Tollen, in the north, a poet, she said, but who was known to interpret dreams.”
+"About six years ago, I started having dreams. In my dreams, I looked different, each time I slept, but always, in some fashion, _right._ And never so womanly as in my real life. Each dream felt like a foretelling of a possible self, like a choice being offered of a future. And I always felt like I got to _choose_ my future, my body, my relationship to my body, like I got to be myself, not a label or a type or a gender. I became addicted to those dreams, sleeping more and more each day, neglecting my life, the business, my husband, my family. But I couldn't stop, for the sense of possibility presented each time I slept was like nothing I had experienced before. My family knew something was wrong, but after many years of... " They pause. "Well, it was hard to confide in them. But I finally told my youngest sister, Cece, who was the widest travelled of us -- she has been as far as [[Tollen]] twice -- and she told me about a man — [[Jor]] —  in Tollen, in the north, a poet, she said, but who was known to interpret dreams.”
 
 They pause again, and won’t meet your eyes for the next part of the story.
 
@@ -31,12 +35,12 @@ At this point they pull up their shirt, and you see a band of ink, each letter b
 
 > "you are full of wildness and wilderness. swear to the girl you were and the boy you aren't, swear to everything you were and are and will become: _i will always find you. i will never abandon you."_
 
-These are obviously some sort of magical tattoo. They say: "It is part of a larger poem Jor wrote, an enchantment, an embodied prayer, a gift. I left Tollen in possession of myself, sort of, but seeking a quite place, where I could listen to myself and learn anew who I was. I drifted for a year, until I found [[Eleanor]]. She radiates space, and quiet."
+These are obviously some sort of magical tattoo. They say: "It is part of a larger poem Jor wrote, an enchantment, an embodied prayer, a gift. I left Tollen in possession of myself, sort of, but seeking a quiet place, where I could listen to myself and learn anew who I was. I drifted for a year, until I found [[Eleanor]]. She radiates space, and quiet."
 
 They hand you a carefully written paper, with the full poem. It is clearly a talisman of sorts for them:
 
 > a body is a skin wrapped around stories, is tissue filled with veins that the truth runs through, is a box of bones with a voice inside. i don't want to be a volcano. i want to be a garden full of flowers bursting open toward life, all of them singing, _i'm here. i mean something. i want to live._
 
-> stop trying to be a mirror, silly. remember you are a doorway, a garden, a long twisted path that leads to an ancient temple. you are full of wildness and wilderness, of secrets passed on by the spirit of the Wyrdling. go hunting in your body and devour the pleasure you find there. raise your arms to the sky and swear by your sinful sacred skin, swear by your marrow, swear by the lightning storm dancing in your pelvis, swear to the girl you were and the boy you aren't, swear to everthing you were and are and will become: i will always find you. i will never abandon you.
+> stop trying to be a mirror, silly. remember you are a doorway, a garden, a long twisted path that leads to an ancient temple. you are full of wildness and wilderness, of secrets passed on by the spirit of the Wyrdling. go hunting in your body and devour the pleasure you find there. raise your arms to the sky and swear by your sinful sacred skin, swear by your marrow, swear by the lightning storm dancing in your pelvis, swear to the girl you were and the boy you aren't, swear to everything you were and are and will become: i will always find you. i will never abandon you.
 
 %% The poem is very lightly adapted from Falling Back in Love with Being Human, by Kai Cheng Thom %%

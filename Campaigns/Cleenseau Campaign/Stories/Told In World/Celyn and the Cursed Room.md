@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-20T09:49:52-04:00"
+lintVersion: "3.5"
 tags: [source]
 DR: 1720-03-12
+campaign: Cleenseau
+name: Celyn and the Cursed Room
 POV: 1720
 ---
 # Celyn and the Cursed Room

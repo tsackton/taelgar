@@ -1,14 +1,18 @@
 ---
-tags: [source]
+lintedAt: "2026-10-20T09:49:52-04:00"
+lintVersion: "3.5"
+tags: [source, status/check/lint]
 DR: 1719-12-04
+campaign: Cleenseau
+name: "Guy de Varan's Story of Orc Raids"
 POV: 1719
 ---
 # Guy de Varan's Story of Orc Raids
 _As told to the [[Heroes of Cleenseau]], in [[Cleenseau]], December 4th, 1719_
 
-This past summer, in July and August, there were some rumors of [[Orcs|orc]] raiders coming out of the foothills to the west and raiding along [[Bandit's Way]], but this is the type of thing that happens now and then and usually the Duke of [[Duchy of Maseau|Maseau]], or the [[Army of the West]] in [[Sembara]] will raise a expeditionary force and go hunt them down before it becomes a real problem. Guy has no idea why this didn't happen, but by early September, the rumors stopped and things seemed to have quieted down. So Guy didn't think much of it.
+This past summer, in July and August, there were some rumors of [[Orcs|orc]] raiders coming out of the foothills to the west and raiding along [[Bandit's Way]], but this is the type of thing that happens now and then and usually the Duke of [[Duchy of Maseau|Maseau]], or the [[Army of the West]] in [[Sembara]] will raise an expeditionary force and go hunt them down before it becomes a real problem. Guy has no idea why this didn't happen, but by early September, the rumors stopped and things seemed to have quieted down. So Guy didn't think much of it.
 
-By late October, however, there were some worried rumors spreading around [[Evis]] that something was whisking whole caravans off the road. A few caravan guards Guy knew who usually went up and down the road never came back to [[Evis]] from [[Cleenseau]], and one caravan expected to be heading southbound to [[Duchy of Maseau|Maseau]] never arrived from [[Cleenseau]]. At this point, the winter rains were close to coming, and traffic on the road was pretty light, but Guy was talking into joining one of the last caravans -- a small two-wagon affair carrying mostly unworked iron from farther south, and somewhat doubling as a newsgathering expedition to see what might have happened to the missing folks. The Marcher Lord of [[Evis]], [[Peyre Vayler]], provided some additional guards and the caravan went out well armed.
+By late October, however, there were some worried rumors spreading around [[Evis]] that something was whisking whole caravans off the road. A few caravan guards Guy knew who usually went up and down the road never came back to [[Evis]] from [[Cleenseau]], and one caravan expected to be heading southbound to [[Duchy of Maseau|Maseau]] never arrived from [[Cleenseau]]. At this point, the winter rains were close to coming, and traffic on the road was pretty light, but Guy was talked into joining one of the last caravans -- a small two-wagon affair carrying mostly unworked iron from farther south, and somewhat doubling as a newsgathering expedition to see what might have happened to the missing folks. The Marcher Lord of [[Evis]], [[Peyre Vayler]], provided some additional guards and the caravan went out well armed.
 
 Five days up the road (about half the distance to [[Cleenseau]]) they were set upon by a well-organized warband of about 30 [[Orcs]], led by a [[Wakog|huge ogre wielding a great-ax]]. The warband was disorganized and terrifying, and Guy doesn't have clear memories of the combat. But he recalls seeing two [[Orcs]] slaughtering each other, as well as seeing the ogre feasting on the thigh of one of the guards. Despite the chaos, there seemed to be some order as about two-thirds of the humans were killed and the rest tied to the wagons and made to stumble along behind them.
 
@@ -23,3 +27,18 @@ The next morning the [[Orcs]] dismantled their camp and started marching north. 
 Guy fears that in a few days, or a week at most, the [[Orcs]] will march on the town. And he dreads what will happen to the humans then. He doesn't think the ogre will have much use for them after a successful raid on [[Cleenseau]], and is not sure how the [[Orcs]] will raid the town with a large group of humans at their rear. So he fears the humans are to be a pre-battle feast.
 
 %% In-world time: Told by Guy in Cleenseau on December 4, 1719; the raids and captivity occurred earlier that year. %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `campaign: Cleenseau` and the explicit display name from the existing heading.
+- Corrected `a expeditionary force` to `an expeditionary force` and `was talking into joining` to `was talked into joining`.
+
+### Validated judgments
+- This is Guy’s recorded testimony, not an omniscient reference account; uncertainty and the speaker’s limited recollection are preserved.
+
+### Open findings
+
+- [ ] **Warning — correctness.internal_conflict:** The paragraph beginning “Guy, along with four others” describes “ten small, squalid” human camps, then refers to “the six” human camps without explaining a change or subset. Preserve the source account while a human determines whether the figures are intentional or a transcription error; neither number has been selected as correct. Copy-ready editorial annotation for that paragraph: `%% Source ambiguity: this account describes ten human camps and later six, without establishing a change or subset. Both figures are retained pending clarification. %%`
+%%^End%%
