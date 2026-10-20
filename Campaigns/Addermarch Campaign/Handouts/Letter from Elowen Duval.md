@@ -1,11 +1,12 @@
 ---
 lintedAt: "2026-10-19T23:30:08-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/lint]
+tags: [source]
 campaign: Addermarch
 name: Letter from Elowen Duval
 POV: 1715
 ---
+# Letter from Elowen Duval
 
 Dear Fazoth, Drou, and Yvan,
 
@@ -20,19 +21,5 @@ Your servant,
 Lady Elowen Duvall
 
 %%^Metadata:names:v1%%
-- {"name": "Letter from Elowen Duval", "language": "unknown", "pronunciation": "LET-er from EL-oh-wen doo-VAL", "status": "proposed", "notes": "Descriptive work label; its title language is not established. The full reading combines ordinary English with the documented EL-oh-wen doo-VAL in [[Elowen Duval]]; the complete work-title pronunciation remains proposed."}
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added canonical campaign and explicit name metadata, source-profile viewpoint, and persistent work-title name entries. Corrected `from the Sir Gareth` to `from Sir Gareth`.
-
-### Validated judgments
-- This in-world source is sufficient for its documentary role; its speaker's beliefs, uncertainty and historical viewpoint are preserved.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Review the complete work-title proposal `LET-er from EL-oh-wen doo-VAL`. It combines ordinary English words with the documented author pronunciation in [[Elowen Duval]]; no source records a pronunciation or language for the complete descriptive title. Accept or revise the proposed entry and mark it documented when accepted.
+- {"name": "Letter from Elowen Duval", "language": "Common", "status": "documented"}
 %%^End%%
