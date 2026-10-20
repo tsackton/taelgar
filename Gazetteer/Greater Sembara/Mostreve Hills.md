@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/map]
-name: Mostreve Hills
+lintedAt: "2026-10-20T01:11:18-04:00"
+lintVersion: "3.5"
+tags: [place, status/cleanup/map, status/check/lint]
 typeOf: topographical feature
-whereabouts: Greater Sembara
+typeOfAlias: upland region
+name: Mostreve Hills
 pronunciation: mohs-TRE-vuh or mohs-tre-vay
+whereabouts: Greater Sembara
 dm_owner: joint
 dm_notes: color
-typeOfAlias: upland region
+POV: modern
 ---
 # The Mostreve Hills
 *(mohs-TRE-vuh or mohs-tre-vay)*
@@ -21,7 +24,7 @@ Geographically, the Mostreve Hills are composed of four distinct ridges: two mou
 
 The two north-south mountainous ridges are:
 
-* The [[Westcliff]] ridge is a sharp escarpment that runs in a truncated north-south 'C', on the western edge of the Mostreve Hills. The western edge of [[Westcliff]] is particularly steep, forming a dramatic cliff line against the flat [[Maseau Gap]]. The northern edge of the escarpment, in contrast, forms a series of tumbled, broken ridges that blend into the [[Borderlands|Sembaran Borderlands]]. The [[Clavert]], to the north, and the [[Valmont]], to the south, both have their sources in [[Westcliff]]. The some of the highest peaks of the Mostreve Hills are here, especially along the western escarpment, where winter snows are frequent.
+* The [[Westcliff]] ridge is a sharp escarpment that runs in a truncated north-south 'C', on the western edge of the Mostreve Hills. The western edge of [[Westcliff]] is particularly steep, forming a dramatic cliff line against the flat [[Maseau Gap]]. The northern edge of the escarpment, in contrast, forms a series of tumbled, broken ridges that blend into the [[Borderlands|Sembaran Borderlands]]. The [[Clavert]], to the north, and the [[Valmont]], to the south, both have their sources in [[Westcliff]]. Some of the highest peaks of the Mostreve Hills are here, especially along the western escarpment, where winter snows are frequent.
 
 * The [[Maerwyn Mountains]] are a line of higher peaks that run in a north-easterly line along the border between [[Addermarch]] and [[Tyrwingha]], roughly from the [[Valenfray Hills]] to the [[Enst]] river valley. These mountains are highest in the south, near and north of the sources of the [[Branth]], and gradually slope to a gentler series of rough hills towards the [[Enst]]. 
 
@@ -70,4 +73,34 @@ The basic layout of the Mostreve Hills:
 
 (O) is the Orenlas ridge. No invention here, although my feeling is the map is basically correct that the area marked "1" is steepest; "2" is next, and the center section around the "O" is probably not that steep. 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Mostreve Hills", "language": "unknown", "pronunciation": "mohs-TRE-vuh or mohs-tre-vay", "status": "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography and settlement patterns of the hills; the fortifications are described retrospectively without dating their construction.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter ordering and collection formatting.
+- Added persistent name and temporal metadata; preserved header versions, human attestations, and non-lint statuses.
+- Removed the stray “The” from “The some of the highest peaks.”
+
+### Validated judgments
+- The two unique local DM evidence clusters are genuine mentions and support the existing positive attestation; their content has not been copied into this report.
+- `status/cleanup/map` is supported by the schematic’s provisional labels and unresolved map guidance and is preserved.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The existing `Campaign:none` section after the schematic key partly repeats the public ridge descriptions: the `(W)`, `(A)`, `(T)`, and `(NT)` paragraphs revisit escarpments, relative ridge heights, and the northward transition to gentler hills. Remove the duplicated topographical sentences or retain only the distinct editorial guidance. Preserve the schematic, its letter-to-name key, and unresolved planning separately within the existing private block; do not promote the planning as settled geography.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Session 37]]
+- [[_DM_/_Dunmari Frontier/Fox and Hunter Intro]]
+- [[_DM_/_Dunmari Frontier/Session 74-75 (Scepter)/In Game Notes]]
 %%^End%%

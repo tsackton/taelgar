@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T01:11:18-04:00"
+lintVersion: "3.5"
 tags: [place, status/check/mike, status/check/tim]
 typeOf: topographical feature
 typeOfAlias: crystal formation
 name: Oracle of Hope
 pronunciation: OR-uh-kul of HOHP
 whereabouts: Duchy of Wisford
+POV: modern
 ---
 # The Oracle of Hope
 *(OR-uh-kul of HOHP)*
@@ -17,4 +20,8 @@ The Oracle of Hope is a twisting, tree-like crystal structure atop [[Fellbain]],
 
 %%^Metadata:names:v1%%
 - {name: Oracle of Hope, language: Common, pronunciation: OR-uh-kul of HOHP, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern description of the crystal and pilgrimage practices; the January DR 1720 source supports these features without requiring a narrower viewpoint.
 %%^End%%

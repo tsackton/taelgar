@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-name: Evis
+lintedAt: "2026-10-20T01:11:18-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: settlement
+subTypeOf: null
 typeOfAlias: fortified town
-subTypeOf:
+name: Evis
 whereabouts: Duchy of Maseau
-dm_notes: none
 dm_owner: none
+dm_notes: none
+POV: 1710s
 ---
 # Evis
 >[!info]+ Information
@@ -31,3 +33,35 @@ When Lilibet married, and went south to the more settled parts of Maseau, you r
  
 Armed with letters of recommendation from the March and Lilibet, and a broad familiarity with the caravaners and the Bandit's Way, you decided to head north to Sembara and see what fate had in store for you.
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Evis", "language": "unknown", "pronunciation": "ay-VEE", "status": "proposed", "notes": "Proposed from the French analogues for southern Sembaran and northern Isinguese in [[Languages]], appropriate regional guidance for Maseau: initial e as ay, v retained, i as ee, silent final s, and final-syllable stress. The name language and whether the final s is sounded are unconfirmed."}
+%%^End%%
+
+%%^Metadata:map:v1%%
+locations:
+  - {map: world, locator: }
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a late-1710s description of Evis under the aging Peyre Vayler, whose lordship is attested in DR 1719 in [[Guy de Varan's Story]]; the older character-background alternatives remain unadopted.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter ordering and collection formatting.
+- Added supported persistent name and temporal-viewpoint metadata.
+- Added the required settlement map skeleton, leaving its unknown locator blank.
+
+### Validated judgments
+- Selected `POV: 1710s` for the aging lord and his daughters; [[Guy de Varan's Story]] attests Peyre Vayler’s lordship in DR 1719.
+- The old character-background comment explicitly disclaims canonical status; its alternative personal history and encounters remain unadopted.
+
+### Open findings
+
+- [ ] **Warning — metadata.map_location_missing:** The required settlement map block now has its typed single-location entry, but its `locator` is blank. Supply the verified world-map coordinate in that existing entry; the reviewed text and prepared evidence do not establish a coordinate, so none has been guessed.
+
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent name entry proposes `ay-VEE`. The French analogues for southern Sembaran and northern Isinguese in [[Languages]] supply the strongest regional guidance for Maseau: initial e as ay, v retained, i as ee, silent final s, and final-syllable stress. A sounded final s remains possible; the name language is not established. Confirm or replace the proposal; if accepted, copy the complete pronunciation to frontmatter and mark the existing entry `documented`.
+%%^End%%
