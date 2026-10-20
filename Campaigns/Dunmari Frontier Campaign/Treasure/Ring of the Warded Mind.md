@@ -1,16 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [object]
+lintedAt: "2026-10-20T07:49:48-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-name: Ring of the Warded mind
+tags: [object]
 typeOf: ring
 subTypeOf: magic
 ancestry: dwarven
 rarity: uncommon
-image: 
+image: null
 pcOwner: Seeker
-whereabouts: Seeker
 ddbLink: https://www.dndbeyond.com/magic-items/4725-ring-of-mind-shielding
+name: Ring of the Warded mind
+whereabouts: Seeker
+knownTo: [dufr]
+POV: modern
 ---
 # Ring of the Warded Mind
 >[!info]+ Information  
@@ -28,3 +32,11 @@ For many months, the supposed soul of [[Typhina]] rested patiently in the ring, 
 %%^End%%
 
 %%SECRET[v2:c69a29d3e7610018ba6bb69cedaefbe3]%%
+
+%%^Metadata:names:v1%%
+- {name: Ring of the Warded mind, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern description and retrospective account of the ring through the DR 1748 revelation at Heartwood Grove; the earlier story remains attributed to the impostor.
+%%^End%%

@@ -1,16 +1,21 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T07:49:48-04:00"
+lintVersion: "3.5"
+displayDefaults: {ltPerson: trapped in}
+tags: [object, status/check/lint]
 typeOf: mirror
 subTypeOf: magical
-tags: [object]
-whereabouts:
-- {type: home, location: unknown hobgoblin wizard, linkText: by an }
-- {type: home, location: dufr}
-- {type: away, start: 1748-06-08, end: 1748-06-08, location: Karawa}
-- {type: away, start: 1748-12-05, end: 1748-12-10, location: Uzgukhar}
-- {type: away, location: Vindristjarna}
-displayDefaults: {ltPerson: "trapped in"}
 rarity: very rare
+name: Mirror of Soul Trapping
+whereabouts:
+  - {type: home, location: unknown hobgoblin wizard, linkText: by an}
+  - {type: home, location: dufr}
+  - {type: away, start: 1748-06-08, end: 1748-06-08, location: Karawa}
+  - {type: away, start: 1748-12-05, end: 1748-12-10, location: Uzgukhar}
+  - {type: away, location: Vindristjarna}
+knownTo: [dufr]
+POV: 1749
 ---
 # The Mirror of Soul Trapping
 >[!info]+ Information  
@@ -26,7 +31,7 @@ An extradimensional cell is an infinite expanse filled with thick fog that reduc
 
 Any creature that sees its reflection in the mirror while within 30 feet of it must make a DC 15 Charisma save or be trapped in one of the cells. This saving throw is made with advantage if the creature is aware of the nature of the mirror. 
 
-%%^Campaign:DuFr%%
+%%^Campaign:dufr%%
 Seen in [[Mirror of the Past]]: 
 
 ![[Mirror of Soul Trapping Vision]]
@@ -43,7 +48,7 @@ You sense there may be other command words, but further study or research on the
 #### Occupants
 Current occupants of the mirror are:
 
-1. [[Revaka]], a hobgoblin, trapped by [[Agata]] / [[Szoltar|Szoltár]], a hobgoblin solider from the [[Iron Fang]], trapped in [[Session 130 (DuFr)]]
+1. [[Revaka]], a hobgoblin, trapped by [[Agata]] / [[Szoltar|Szoltár]], a hobgoblin soldier from the [[Iron Fang]], trapped in [[Session 130 (DuFr)]]
 2. (removed when cells holding Revaka and Szoltar)
 3. A wyvern, trapped in [[Session 43 (DuFr)]]. 
 4. Kinzal mage and messenger, trapped in [[Session 96 (DuFr)]]
@@ -57,7 +62,7 @@ Current occupants of the mirror are:
 12. empty
 
 #### Former Occupants
-- A poison troll, trapped in [[Session 45 (DuFr)]], was released at in the [[Shadowkeep]] in [[Session 96 (DuFr)]]. 
+- A poison troll, trapped in [[Session 45 (DuFr)]], was released in the [[Shadowkeep]] in [[Session 96 (DuFr)]].
 #### Research Notes
 
 [[Seeker]] and [[Delwath]]’s research in [[Karawa]], early June 1748:
@@ -77,3 +82,32 @@ Reading the book that Ulfgar got for you from the [[Great Library]] on magical m
 %%^End%%
 
 %%SECRET[v2:cdb45d349a56af3d4ffb10fd4b5465aa]%%
+
+%%^Metadata:names:v1%%
+- {name: Mirror of Soul Trapping, language: unknown}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a DR 1749 campaign inventory incorporating Session 130, with research notes from DR 1748; the occupant list mixes states from different sessions and is not a continuous history.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting; added the explicit object name and `knownTo: [dufr]` from the existing campaign account.
+- Added a minimal name entry; this plain-English descriptive title needs no pronunciation, and its in-world name language is unestablished.
+- Added DR 1749 POV and temporal-coverage metadata for the inventory incorporating Session 130.
+- Canonicalized the equivalent campaign marker `DuFr` to `dufr`.
+- Corrected `solider` to `soldier` and `was released at in the` to `was released in the`.
+
+### Validated judgments
+- The SECRET block was reviewed separately and remains unchanged; its contents are excluded from this report.
+- The header comment preserves unresolved editorial choices rather than a developed public account; it remains unchanged.
+
+### Open findings
+
+- [ ] **Warning — correctness.cross_note_conflict:** Occupants row 1 says Revaka was trapped by Agata. [[Session 32 (DuFr)]] records Revaka's account that [[Cha'mutte]] imprisoned her, and the embedded [[Mirror of Soul Trapping Vision]] depicts the same event. Reconcile that attribution while retaining the separate information about Szoltár. Copy-ready replacement for the Revaka clause: `[[Revaka]], a hobgoblin trapped by [[Cha'mutte]]`. The conflicting attribution has been preserved for human review.
+- [ ] **Warning — coverage.later_material_change:** The current list incorporates Szoltár's confinement and cell merger in [[Session 130 (DuFr)]], but row 3 still lists the wyvern: [[Session 120 (DuFr)]] records its release and taming at [[Sunwine Hall]] in early June 1749. Row 4 also asserts the Kinzal messenger remains confined, although [[Session 97 (DuFr)]] records a scribe's belief that he could have returned home using a return stone; that is reported uncertainty, not proof of escape. Reconcile these states before using this as a current inventory. For the established wyvern change, replace row 3 with `3. empty` and add under Former Occupants: `- A wyvern, trapped in [[Session 43 (DuFr)]], was released and tamed by [[Wellby]] at [[Sunwine Hall]] in [[Session 120 (DuFr)]].` For the unresolved mage, use `4. Occupancy unconfirmed: the Kinzal mage and messenger was trapped in [[Session 96 (DuFr)]], but a scribe suggested in [[Session 97 (DuFr)]] that he could have returned home using a return stone.` Human choice remains whether to update the inventory and its temporal frame, defer with `status/gameupdate/dufr`, or preserve an explicitly historical inventory. If keeping a broadly modern mechanics article, a dated inventory may be isolated with `%%^Date:1749-08-07%%` before the Occupants heading and `%%^End%%` after the revised list; adding that visibility-changing block requires human approval.
+- [ ] **Suggestion — editorial.prose_clarity:** Occupants row 2, `(removed when cells holding Revaka and Szoltar)`, ends before stating what happened and leaves the numbering unclear. [[Session 130 (DuFr)]] records that Szoltár's cell was merged with Revaka's. Complete the existing explanation without renumbering the cells: `2. (merged with cell 1, joining [[Revaka]] and [[Szoltar|Szoltár]], in [[Session 130 (DuFr)]])`.
+%%^End%%

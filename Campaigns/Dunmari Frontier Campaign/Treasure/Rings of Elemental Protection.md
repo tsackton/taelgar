@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T07:49:48-04:00"
+lintVersion: "3.5"
 tags: [object]
 typeOf: ring
 rarity: very rare
 ddbLink: https://www.dndbeyond.com/magic-items/9217495-rings-of-elemental-protection
 name: Rings of Elemental Protection
 knownTo: [dufr]
+POV: modern
 ---
 # The Rings of Elemental Protection
 >[!info]+ Information  
@@ -35,4 +38,8 @@ A wearer can attune to any two of these rings at the same time.
 
 %%^Metadata:names:v1%%
 - {name: Rings of Elemental Protection, language: Common, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a broadly modern description of the rings and their mechanics, with the Dunmar Fellowship’s recovery recorded in a campaign-specific passage.
 %%^End%%

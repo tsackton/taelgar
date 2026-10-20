@@ -1,8 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T07:49:48-04:00"
+lintVersion: "3.5"
 tags: [object]
 typeOf: lantern
 subTypeOf: magical
+destroyed: 1748-06-18
+name: Soul Lantern
+knownTo: [dufr]
+POV: modern
 ---
 # The Soul Lantern
 >[!info]+ Information  
@@ -22,3 +28,11 @@ Each soul trapped by the lantern can be used to fuel up to 6 charges worth of ma
 Taken from [[Agata]]’s hut. 
 
 Destroyed by [[Cintra]] during the [[Feast of Bhishma]] in [[Session 32 (DuFr)]].
+
+%%^Metadata:names:v1%%
+- {"name": "Soul Lantern", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: describes the lantern’s appearance and powers before its destruction at the Feast of Bhishma in DR 1748; the final sentence records that fate.
+%%^End%%
