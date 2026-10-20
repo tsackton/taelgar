@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
 tags: [place]
 typeOf: building
 typeOfAlias: garrison
 name: Maerwyn Garrison
 pronunciation: MAIR-win GAIR-ih-sun
 whereabouts: Maerwyn Mountains
+POV: modern
 ---
 # Maerwyn Garrison
 *(MAIR-win GAIR-ih-sun)*
@@ -17,4 +20,8 @@ Maerwyn Garrison is an [[Army of Mostreve]] post in the southern [[Maerwyn Mount
 
 %%^Metadata:names:v1%%
 - {name: Maerwyn Garrison, language: Tyrwinghan, pronunciation: MAIR-win GAIR-ih-sun, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern garrison geography, guard-company staffing, and defensive role within the post-Great-War garrison system.
 %%^End%%

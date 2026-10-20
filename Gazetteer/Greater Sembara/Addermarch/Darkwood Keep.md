@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Darkwood Keep
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: building
 typeOfAlias: keep
+name: Darkwood Keep
 whereabouts:
   - {type: home, location: Addermarch}
-dm_notes: none
 dm_owner: tim
+dm_notes: none
+POV: modern
 ---
 # The Darkwood Keep
 >[!info]+ Information  
@@ -25,4 +28,26 @@ Invented for Plaguelands campaign (not canon). See:
 
 Canon details are simply that it exists. 
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Darkwood Keep", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern frontier geography; the noncanonical campaign history is not incorporated into the visible account.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added primary name metadata and supported temporal POV metadata.
+
+### Validated judgments
+- Darkwood Keep is a plain-English descriptive name; a pronunciation guide is unnecessary.
+
+### Open findings
+
+- [ ] **Warning — content.internal_conflict:** The Campaign:none note says “Canon details are simply that it exists,” while the visible paragraph asserts a frontier function and supply road; [[Addermarch]] and [[Tygate]] independently describe that geography and road. Resolve the scope of this canon limitation without importing the noncanonical keep adventure. Candidate replacement for the final hidden sentence: “The Plaguelands campaign’s detailed keep history and encounters remain noncanonical; the public frontier location and supply road are also described in [[Addermarch]] and [[Tygate]].”
 %%^End%%

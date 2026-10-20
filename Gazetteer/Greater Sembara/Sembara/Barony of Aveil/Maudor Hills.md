@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
 tags: [place]
 typeOf: topographical feature
 typeOfAlias: line of hills
 name: Maudor Hills
 pronunciation: MAW-dor HILZ
 whereabouts: Barony of Aveil
+POV: modern
 ---
 # The Maudor Hills
 *(MAW-dor HILZ)*
@@ -17,4 +20,8 @@ The Maudor Hills separate the villages along the [[Enst]] from the northern part
 
 %%^Metadata:names:v1%%
 - {name: Maudor Hills, role: primary, language: Sembaran, pronunciation: MAW-dor HILZ, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern physical geography and land use of the hills; no narrower changing state is described.
 %%^End%%

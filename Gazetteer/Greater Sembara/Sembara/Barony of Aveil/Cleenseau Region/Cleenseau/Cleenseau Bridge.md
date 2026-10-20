@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
 tags: [place]
 typeOf: infrastructure
 typeOfAlias: bridge
 name: Cleenseau Bridge
 pronunciation: Klen-sew BRIJ
 whereabouts: Cleenseau
+POV: modern
 ---
 # Cleenseau Bridge
 *(Klen-sew BRIJ)*
@@ -19,4 +22,8 @@ The bridge provides the only safe river crossing for many miles and anchors Clee
 
 %%^Metadata:names:v1%%
 - {name: Cleenseau Bridge, language: Sembaran, pronunciation: Klen-sew BRIJ, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern description of the bridge and its toll, with construction attributed uncertainly to Drankorians or giants; no exact construction date is established.
 %%^End%%

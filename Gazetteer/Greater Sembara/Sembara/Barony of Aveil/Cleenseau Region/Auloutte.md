@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Auloutte
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: fishing village
-whereabouts: Manor of Cleenseau
 population: 102
+name: Auloutte
 pronunciation: OO-loot
-dm_notes: none
+whereabouts: Manor of Cleenseau
 dm_owner: mike
+dm_notes: none
+POV: modern
 ---
 # Auloutte
 *(OO-loot)*
@@ -33,4 +36,32 @@ dv.table(["Person", "Info", "Current Location", "Home"],
 				.where(f => util.inOrHomeLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate))				
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
 ```
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name":"Auloutte","language":"unknown","pronunciation":"OO-loot","status":"documented"}
+%%^End%%
+
+%%^Metadata:map:v1%%
+locations:
+  - {map: world, locator: }
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; describes the village, seasonal fishing, and recurring floods rather than a dated snapshot.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter formatting; recorded the existing pronunciation in primary name metadata, and added a typed settlement map entry and modern temporal metadata.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — metadata.map_location_missing:** The settlement’s `Metadata:map:v1` entry has a blank `locator`; the consulted sources do not establish its world-map hex. Supply the verified coordinate as a string in `  - {map: world, locator: "<verified world hex>"}`. Do not infer the position from a nearby river, settlement, or regional map.
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The generated People section opens with the legacy `%%^Campaign:None%%`. [[Campaign Registry]] specifies `%%^Campaign:none%%`. Review the existing block’s intended filtering and replace only the opener with that canonical sentinel; preserve its query and closing marker. The block has been left unchanged for this visibility-sensitive decision.
 %%^End%%

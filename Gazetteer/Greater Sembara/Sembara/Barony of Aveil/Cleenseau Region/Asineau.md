@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Asineau
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: fishing village
 population: 311
-whereabouts: Manor of Asineau
+name: Asineau
 pronunciation: Ah-zee-noh
-dm_notes: important
+whereabouts: Manor of Asineau
 dm_owner: mike
+dm_notes: important
+POV: 1720
 ---
 # Asineau
 *(Ah-zee-noh)*
@@ -29,7 +32,7 @@ A few hundred feet outside the village is a small mill and bakehouse. The large 
 ![[Asineau - emailed map.jpg|800]]
 
 
-![[asineau-wrydling-painting.jpg|right|320]]The temple to [[The Wyrdling]] here is known for a chaotic painting on the wall, and is said to have been standing in this spot for over 500 years. There are two local miracles celebrated in Asineau: the [[Miracle of the Hopeful Heat]] and the [[Miracle of the Guided Wanderers]]
+![[asineau-wrydling-painting.jpg|right|320]]The temple to [[The Wyrdling]] here is known for a chaotic painting on the wall, and is said to have been standing in this spot for over 500 years. There are two local miracles celebrated in Asineau: the [[Miracle of the Hopeful Heat]] and the [[Miracle of the Guided Wanderers]].
 
 ## Notable Residents
 
@@ -54,4 +57,38 @@ dv.table(["Person", "Info", "Current Location", "Home"],
 				.where(f => util.inOrHomeLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate))				
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
 ```
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Asineau", "language": "unknown", "pronunciation": "Ah-zee-noh", "status": "documented"}
+%%^End%%
+
+%%^Metadata:map:v1%%
+locations:
+  - {map: world, locator: }
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: a January DR 1720 village snapshot just after Lorin Valbert's departure, before Robin's later stewardship and the spring rebuilding; the article has not incorporated those later changes.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded supported primary-name metadata without changing accepted frontmatter pronunciation; normalized frontmatter formatting.
+- Recorded the article viewpoint and concise temporal coverage in persistent metadata.
+- Corrected 1 objective spelling, grammar, or punctuation defect.
+- Added the required typed settlement map entry, leaving its unsupported locator blank for human completion.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — metadata.map_location_missing:** The required settlement map entry has `map: world` and a blank `locator`; no supported world-map coordinate was established by this review. Supply the verified locator in `Metadata:map:v1`, retaining the existing entry rather than adding a second one.
+
+- [ ] **Warning — coverage.later_material_change:** The residents list still describes Lorin as `recently fled`, and the village description says there is no blacksmith. [[Cleenseau - Session 28]] records Robin's acceptance of stewardship, and [[Cleenseau - Session 29]] records the new guard and village rebuilding; its finalized beat-facts `b01` also establishes new smithing, workshop, and glassmaking projects. This later civic state materially changes the article. A bounded dated addition is `From April DR 1720, [[Robin of Abenfyrd|Robin]] took stewardship of Asineau. The village gained a new guard under [[Odo Cordwaner]] and new smithing, workshop, and glassmaking projects.` If updating, reconcile the obsolete no-blacksmith sentence and residents list and approve an appropriate `Date:1720-04-01` layer; alternatively defer with the applicable game-update tag or intentionally retain this January snapshot. Do not change status or visibility until that decision.
+
+- [ ] **Suggestion — syntax.noncanonical_campaign_block:** The roster starts with `%%^Campaign:None%%`; the documented sentinel is `%%^Campaign:none%%`. Proposed marker replacement: `%%^Campaign:none%%`, with the existing contents and `End` marker unchanged. Confirm equivalent exporter visibility before applying it; the original marker is preserved during this lint.
 %%^End%%

@@ -1,18 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
-name: Cleenseau Region
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: region
+name: Cleenseau Region
 whereabouts: Barony of Aveil
-dm_notes: color
 dm_owner: mike
+dm_notes: color
+POV: modern
 ---
 # The Cleenseau Region
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The four manors of [[Manor of Cleenseau|Cleenseau]], [[Manor of Valit|Valit]], [[Manor of Beury|Beury]], and [[Manor of Asineau|Asineau]] form a relatively isolated part of the [[Barony of Aveil]], anchored by the market town of [[Cleenseau]] and its ancient and famous [[Cleenseau Bridge|bridge]] - the only bridge along the [[Enst]] until [[Eskbridge]], far to the east - and the only safe crossing for many miles. Perhaps without the bridge the region would have faded away after the [[Third Hobgoblin War (Sembara)|hobgoblin wars]], but the bridge and the transportation nexus it creates supports a [[Army Garrison of Cleenseau|garrison]] and market much larger than might be expected. Around these the town of [[Cleenseau]] thrives. 
+The four manors of [[Manor of Cleenseau|Cleenseau]], [[Manor of Valit|Valit]], [[Manor of Beury|Beury]], and [[Manor of Asineau|Asineau]] form a relatively isolated part of the [[Barony of Aveil]], anchored by the market town of [[Cleenseau]] and its ancient and famous [[Cleenseau Bridge|bridge]] - the only bridge along the [[Enst]] until [[Eskbridge]], far to the east - and the only safe crossing for many miles. Perhaps without the bridge the region would have faded away after the [[Third Hobgoblin War (Sembara)|hobgoblin wars]], but the bridge and the transportation nexus it creates support a [[Army Garrison of Cleenseau|garrison]] and market much larger than might be expected. Around these the town of [[Cleenseau]] thrives.
 
 ### Physical Landscape
 
@@ -24,9 +27,9 @@ The nearest villages to Cleenseau along the road to the east are the fishing vil
 
 Beyond the marshes the land improves, and there is much good pasture around the village of [[Dallet]], and then beyond that a string of fishing villages and farming towns until, 40 miles past Dallet, the town of [[Rinburg]], at the head of navigation of the Enst - but these places are far outside the region.
 
-Further west, the recently abandoned [[Gastant Farm]], and sits two miles down a track, and the [[South Watch Road]] runs past [[Taviose]], a small hamlet on the edge of the [[Cleenseau Wood|Wood]], and then continues roughly straight for 80 miles through the wilderness until the settlements around [[Dunfry]].  Beyond the abandoned [[Gastant Farm]], the small track continues for about a day's walk before it peters out. Folks say it used to go all the way to the North Fork, a branch of the Enst some hundred and fifty miles away, but now it has been reclaimed by the wild. 
+Further west, the recently abandoned [[Gastant Farm]] sits two miles down a track, and the [[South Watch Road]] runs past [[Taviose]], a small hamlet on the edge of the [[Cleenseau Wood|Wood]], and then continues roughly straight for 80 miles through the wilderness until the settlements around [[Dunfry]].  Beyond the abandoned [[Gastant Farm]], the small track continues for about a day's walk before it peters out. Folks say it used to go all the way to the North Fork, a branch of the Enst some hundred and fifty miles away, but now it has been reclaimed by the wild. 
 
-To the south, the rocky shrubland dominates for a hundred miles, before reaching the rolling valleys near [[Valarin]], where most of the people of [[Duchy of Maseau|Maseau]] live. The road used to be dotted with inns and waystations, but these have fallen into disrepair since the Great War. This stretch of road is often called [[Bandit's Way]], and many ex-soliders make a living escorting caravans between [[Cleenseau]] and [[Evis]], the northernmost settlement in [[Duchy of Maseau|Maseau]] along the [[Great South Road]].
+To the south, the rocky shrubland dominates for a hundred miles, before reaching the rolling valleys near [[Valarin]], where most of the people of [[Duchy of Maseau|Maseau]] live. The road used to be dotted with inns and waystations, but these have fallen into disrepair since the Great War. This stretch of road is often called [[Bandit's Way]], and many ex-soldiers make a living escorting caravans between [[Cleenseau]] and [[Evis]], the northernmost settlement in [[Duchy of Maseau|Maseau]] along the [[Great South Road]].
 
 ![[cleenseau-region-map.jpg]]
 
@@ -42,13 +45,37 @@ The major food crops are:
 Honey is a commonly used sweetener. Beer is brewed widely and is the main alcoholic drink, alongside some milard (millet-based clear alcohol with a strong earthy flavor and about 45% alcohol content).
 
 The lizardfolk in the region additionally eat a number of foods rarely consumed by humans, both of which grow wild along the marshy parts of the river:
-* marsh root, a tuber that grows in thickets along the marsher parts of the river
+* marsh root, a tuber that grows in thickets along the marshier parts of the river
 * marsh millet, a rice-like plant with a nutty flavor
 
-For clothing, the major source of fiber is wool from sheep. There is some small cultivation of hemp mostly for rope and net-making, and reeds and bulrushes are collected along the riverbanks especially for basketry and thatch. Near Beury there are a large number of basswood trees, from which the inner bark harvested for a coarse fiber.  
+For clothing, the major source of fiber is wool from sheep. There is some small cultivation of hemp mostly for rope and net-making, and reeds and bulrushes are collected along the riverbanks especially for basketry and thatch. Near Beury there are a large number of basswood trees, from which the inner bark is harvested for a coarse fiber.
 
 Wood and charcoal are widely available, mostly from the edges of the [[Cleenseau Wood]], but also from the substantial woodlot between Asineau and Valit. 
 
 The central channels of the Enst, although swift flowing, have good, fine, sandy bottoms, but the sand is not currently exploited as retrieval is a bit of a challenge. Clay is available in small quantities along the river in places, and is used for wattle and daub houses and some small local ceramic production, but most pottery is imported from Rinburg.  
 
 Good stone is not widely available although there is a small industry in Beury collecting hearthstones and bricks from the haunted villages in the bog, and also a good stone quarry on the south side of the Enst that is controlled by Rosalind and her family, although it is not active constantly.
+
+%%^Metadata:names:v1%%
+- {"name": "Cleenseau Region", "language": "unknown", "pronunciation": "Klen-sew REE-jun", "status": "proposed", "notes": "Complete-form proposal combines the accepted Klen-sew pronunciation in [[Cleenseau]] with ordinary English region; the language of the complete form is not established."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern regional geography, agriculture, and trade, with older wars and abandoned routes treated as background rather than a continuous regional history.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded supported primary-name metadata without changing accepted frontmatter pronunciation; normalized frontmatter formatting.
+- Recorded the article viewpoint and concise temporal coverage in persistent metadata.
+- Corrected 5 objective spelling, grammar, or punctuation defects.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Confirm `Klen-sew REE-jun` in `Metadata:names:v1`. The place-name component is the accepted frontmatter reading in [[Cleenseau]], and `region` uses its ordinary English reading. This assembled complete-form pronunciation remains proposed, and the complete form's language remains unknown. If accepted, copy it to frontmatter and mark the entry documented; otherwise supply the preferred complete reading.
+%%^End%%

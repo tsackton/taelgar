@@ -1,12 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
+tags: [place, status/check/lint]
 typeOf: building
+typeOfAlias: castle
+name: Torvaine Watch
 whereabouts: Torvaine Forest
 dm_owner: tim
 dm_notes: none
-typeOfAlias: castle
+POV: modern
 ---
 # Torvaine Watch
 >[!info]+ Information  
@@ -34,3 +38,25 @@ After the haunting was cleansed, Lady [[Elowen Duval]] ordered the watch secured
 - (DR:: 1715-04-28): The party [[Addermarch - Session 02|recovers the Serpentine Dagger]] from Arpaad’s quarters and leaves the watch with Brask’s body.
 - (DR:: 1715-05-06): [[Owen Tavish]] lays Arpaad’s ghost to rest after the watch is investigated by forces sent from [[Roscombe]].
 
+%%^Metadata:names:v1%%
+- {"name":"Torvaine Watch","language":"unknown","pronunciation":"TOR-vayn WATCH","status":"proposed","notes":"Torvaine is explicitly pronounced TOR-vayn in [[Adventure 1 - Torvaine Watch]]; Watch is the ordinary Common descriptor. The complete compound pronunciation remains proposed."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern, with the present account following the cleansing of the haunting in DR 1715; the dated history describes the fall of the watch and its aftermath.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter formatting; recorded the explicit subject name, a proposed complete pronunciation, and modern temporal metadata.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Review the proposed complete pronunciation `TOR-vayn WATCH`. [[Adventure 1 - Torvaine Watch]] explicitly records `TOR-vayn` for Torvaine; Watch is the ordinary Common descriptor, so no analogue-derived sound rule is needed. The full compound remains proposed. If accepted, mark the name entry `status: documented` and add `pronunciation: TOR-vayn WATCH` to frontmatter.
+- [ ] **Warning — temporal.unsupported_exact_date:** The final Notable Events item dates the laying of Arpaad’s ghost to rest to DR 1715-05-06. [[Addermarch - Session 04]] instead says Owen had returned from doing so by the morning of May 6; it establishes a latest bound, not the exact day of cleansing. Replace that item with `- By the morning of DR 1715-05-06, [[Owen Tavish]] had returned from laying Arpaad’s ghost to rest at Torvaine Watch.` Alternatively retain an exact cleansing date only after locating a source that establishes it.
+%%^End%%

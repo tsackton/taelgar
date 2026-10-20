@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
 tags: [place]
-name: Darkwood
 typeOf: forest
 subTypeOf: haunted
+name: Darkwood
 whereabouts: Addermarch
-dm_notes: none
 dm_owner: tim
+dm_notes: none
+POV: modern
 ---
 # Darkwood
 >[!info]+ Information  
@@ -23,3 +26,11 @@ DM notes and campaign references
 - Background of early Addermarch adventures, including ruins sometimes called “Darkwood Keep” (see _DM_/OneNote campaign outlines and zone notes).
 - Treat in‑world details above as canonical geography; specific combats and PC outcomes remain campaign‑specific.
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Darkwood", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geographical and reputational description; the ancient haunting is presented as a local claim rather than a dated origin.
+%%^End%%

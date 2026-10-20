@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
 tags: [place]
 typeOf: building
 typeOfAlias: garrison
 name: Daran Garrison
 pronunciation: DAR-an GAIR-ih-sun
 whereabouts: Tyrwinghan Hills
+POV: modern
 ---
 # The Daran Garrison
 *(DAR-an GAIR-ih-sun)*
@@ -17,4 +20,8 @@ Daran Garrison is an [[Army of Mostreve]] post near the [[Daran]]’s headwaters
 
 %%^Metadata:names:v1%%
 - {name: Daran Garrison, language: Tyrwinghan, pronunciation: DAR-an GAIR-ih-sun, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern garrison location, defensive role, and ordinary complement; the article does not describe a particular wartime deployment.
 %%^End%%

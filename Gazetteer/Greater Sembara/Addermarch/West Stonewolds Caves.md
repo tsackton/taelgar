@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-name: West Stonewolds Caves
+lintedAt: "2026-10-20T00:45:23-04:00"
+lintVersion: "3.5"
+tags: [place]
 typeOf: subterranean feature
+typeOfAlias: cave system
+name: West Stonewolds Caves
 whereabouts: Stonewolds
 dm_owner: none
 dm_notes: none
-typeOfAlias: cave system
+POV: modern
 ---
 # The West Stonewolds Caves
 >[!info]+ Information  
@@ -27,3 +29,11 @@ Home to [[Zibzig Sparkscale]]
 More details in [[Adventure 4 - Into the Underdark]]
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "West Stonewolds Caves", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern description of the cave system and entrance; the hidden session pointers refer to the May DR 1715 exploration rather than narrowing the geographic article.
+%%^End%%
