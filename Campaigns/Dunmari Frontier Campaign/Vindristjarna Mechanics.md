@@ -1,5 +1,10 @@
 ---
+lintedAt: "2026-10-20T08:15:28-04:00"
+lintVersion: "3.5"
 tags: [meta]
+campaign: Dunmar Frontier
+name: Vindristjarna Mechanics
+POV: modern
 ---
 
 
@@ -18,7 +23,7 @@ Vindristjarna can be controlled by manipulation of [[Hralgar's Phasing Stone]], 
 
 Only one person can be actively controlling Vindristjarna at a time, regardless of the number of people attuned. To control Vindristjarna, one must physically be touching the phasing stone control mechanism, unless otherwise mentioned. There are three levels of control that are possible, depending on experience. 
 ### Basic Control 
-After one full day of practice while attuned to the phasing stone, a person can acquire the skill to manipulate and control Vindristjarna. Flying the ship under basic control requires Concentration. It allows you to fly at speeds of up to 10 miles per hour, and also allows you to perceive from any location on the surface of the ship. Establishing basic control, maintaining velocity, and changing altitude or direction requires Concentration and contact with the phasing stone. You can maintain altitude and position without requiring Concentration, however. 
+After one full day of practice while attuned to the phasing stone, a person can acquire the skill to manipulate and control Vindristjarna. Flying the ship under basic control requires Concentration. It allows you to fly at speeds of up to 10 miles per hour, and also allows you to perceive from any location on the surface of the ship. Establishing basic control, maintaining velocity, and changing altitude or direction require Concentration and contact with the phasing stone. You can maintain altitude and position without requiring Concentration, however.
 ### Advanced Control
 After operating Vindristjarna for at least 6 weeks, you gain the ability to control the ship in a more advanced fashion. Flying the ship under advanced control does not require Concentration, except as noted below. It allows you to fly at speeds of up to 10 miles per hour. While establishing control requires touching the phasing stone, you can maintain steady flight on a straight course indefinitely without requiring Concentration or being in the control room. Steering, delicate maneuvers such as landing, and perceiving from any location on the surface of the ship still require Concentration and contact with the phasing stone. 
 ### Combat Control
@@ -42,9 +47,9 @@ Once you create a bridge, you cannot create another one until 7 days have passed
 *Note: the intention is to allow some teleportation / plane shift hijinx, but not create a mechanism to, e.g., teleport an army (by opening a bridge, flying Vindristjarna elsewhere, then having thousands of people walk across the bridge). I haven't quite figured out the right mechanical way to limit, but want to be clear it won't work for these kinds of things.*
 
 ## Icicle Turret
-The icicle turret is a silver and stone turrent mounted on the front of the ship, permanently coated in frost and ice from the embedded shard of eternal ice. This item is magically linked to the [[Phasing Stones|phasing stone]] on [[Vindristjarna]]: if you are attuned to the phasing stone, you are considered attuned to the icicle turret, and vice versa.  
+The icicle turret is a silver and stone turret mounted on the front of the ship, permanently coated in frost and ice from the embedded shard of eternal ice. This item is magically linked to the [[Phasing Stones|phasing stone]] on [[Vindristjarna]]: if you are attuned to the phasing stone, you are considered attuned to the icicle turret, and vice versa.
 
-The icicle turret has four charges, and regains all expended charges each day at dawn. As a Magic Action while touching the phasing stone, you can use one charge to create one of the following effects. If effect requires a saving throw, use your spell save DC if you have one, or 8 + your Proficiency Bonus + your Intelligence modifier otherwise. 
+The icicle turret has four charges, and regains all expended charges each day at dawn. As a Magic Action while touching the phasing stone, you can use one charge to create one of the following effects. If an effect requires a saving throw, use your spell save DC if you have one, or 8 + your Proficiency Bonus + your Intelligence modifier otherwise.
 - You cast the [Sleet Storm](https://www.dndbeyond.com/spells/2618998-sleet-storm) spell. You and anyone else attuned to Vindristjarna ignore the effects of the spell.  
 - Rain of Ice: You launch 8 sharp daggers of ice from the turret. For each dagger, choose a target you can see within 300 feet of the turret, and make a spell attack roll, doing 2d6 cold damage on a hit. 
 - Icicle Shield: You encase the entire ship in a globe of solid ice. Each 10 foot segment of ice has an AC 12, 30 hit points, and vulnerability to fire damage. The wall of ice crumbles if 10 segments are destroyed. Otherwise, it lasts for 1 hour.

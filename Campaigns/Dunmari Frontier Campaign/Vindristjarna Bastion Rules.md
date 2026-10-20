@@ -1,5 +1,10 @@
 ---
-tags: [meta]
+lintedAt: "2026-10-20T08:15:28-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
+campaign: Dunmar Frontier
+name: Vindristjarna Bastion Rules
+POV: 1749
 ---
 # Vindristjarna Bastion Mechanics
 
@@ -62,7 +67,7 @@ This document also describes additional magic items that are permanently install
 These followers are available to tend to Bastion facilities:
 [[Faldrak Bronzehammer]] (he/him). Dwarven artificer and skyship captain. In addition to piloting the ship, Faldrak can tend the ***Observatory*** or ***Workshop***, or can serve as a ***Tools Trainer (Game Room)***
 [[Amil]] (he/him). Dunmari monk-in-training. Amil can tend the ***Hall of Stories*** or can serve as a ***Battle Defense (Sparring Room or Game Room)*** or ***Unarmed Attack (Sparring Room)*** trainer.
-[[Egnir|Égnir]] (he/him, AY-nyeer). Elven gardener. He can carry out any number of ***Harvest*** orders for the ***Gardens and Greenhouse***. He can also ***Empower***the ***Elven Tree***.
+[[Egnir|Égnir]] (he/him, AY-nyeer). Elven gardener. He can carry out any number of ***Harvest*** orders for the ***Gardens and Greenhouse***. He can also ***Empower*** the ***Elven Tree***.
 [[Jotha]] (she/her, yo-TAH). Deno'qai priestess and warrior. She can tend the ***Sanctuary***, or serve as a ***Weapon Expert (Sparring Room)***.
 [[Mica Copperharp]] (he/him). Halfling, Willow's husband. A comic, a joker, good with his hands and the drums, a brewer, and a bit of a drinker. Mica can serve as a ***Skills Trainer (Game Room)***, and can serve as the bartender in the ***Pub***.
 [[Willow Copperharp]] (she/her). Halfling, Mica's wife. A storyteller, a poet, and fairly religious as halflings go. Willow can tend the ***Map Room***.
@@ -92,13 +97,13 @@ A Bastion Turn represents a period of time, usually around 7 days, of uninterrup
 >
 >*Mica* serves as a Skill Expert in the Game Room. He can train with any PC to give them the benefits of the Skill Expert feature.
 >
->*Willow* pours over the maps in the Map Room, taking the Research option to learn about Mitus Verina Auratan, the Magistros of Chardon. At the end of the Bastion Turn, she will learn three pieces of information to communicate to the party.
+>*Willow* pores over the maps in the Map Room, taking the Research option to learn about Mitus Verina Auratan, the Magistros of Chardon. At the end of the Bastion Turn, she will learn three pieces of information to communicate to the party.
 >
 >As the ship is not docked in Tollen, Adam Gower does nothing.
 > 
 >**Delwath** trains with *Jotha* in the Sparring Room for 8 hours per day. For the next 7 days, he can use the Mastery property of his Longsword. Since he takes a Long Rest in the Bastion, he also gains a tanshi Charm from the Sanctuary that lets him cast Healing Word once in the next 7 days, without using a spell slot. Finally, when he leaves Vindristjarna, he picks three fruits from the Greenhouse. Each fruit can be consumed in the next 24 hours by any creature; when consumed it has the effect of the Lesser Restoration spell
 >
->**Seeker** spends time in the Archive, Researching for 8 hours per day to seek esoteric knowledge of Bronzehall, a rumored city on the Plane of Fire where Frankar was seen, according to the [[Philosopher's Information Concerning Frankar]]. He gains the effect of casting the Legend Lore spell targeting Bronzehall. Since he takes a Long Rest in the Bastion, he also gains a esoteric Charm from the Observatory that lets him cast Contact Other Plane once in the next 7 days, without using spell slots. Finally, when he takes a Short Rest in the Bastion, he gains Heroic Inspiration from the Workshop. 
+>**Seeker** spends time in the Archive, Researching for 8 hours per day to seek esoteric knowledge of Bronzehall, a rumored city on the Plane of Fire where Frankar was seen, according to the [[Philosopher's Information Concerning Frankar]]. He gains the effect of casting the Legend Lore spell targeting Bronzehall. Since he takes a Long Rest in the Bastion, he also gains an esoteric Charm from the Observatory that lets him cast Contact Other Plane once in the next 7 days, without using spell slots. Finally, when he takes a Short Rest in the Bastion, he gains Heroic Inspiration from the Workshop.
 >
 >**Kenzo** meditates at the base of the Elven Tree for 8 hours per day. At the end of the Bastion Turn, he rolls a 1 and a 4 on the d6s, and for the next 7 days has Advantage on any Strength or Intelligence Saving Throws.
 >
@@ -116,7 +121,7 @@ The upper deck consists of, from stern to prow:
 * the elven tree, grown from seed by [[Kenzo]]
 * the main building on the upper deck, which contains a lavish dining hall, space for conversation and relaxation, the living quarters of [[Kenzo]], [[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], the map room, and the pub
 * On a sky deck built above the map room, [[Seeker|Seeker's]] observatory
-* the courtyard bow-ward of the main building, and the decking and railings around the main building, which is decorating with memorials to the adventures of the [[Dunmar Fellowship]] 
+* the courtyard bow-ward of the main building, and the decking and railings around the main building, which is decorated with memorials to the adventures of the [[Dunmar Fellowship]]
 * in the bow, [[Baxter|Baxter's]] stable
 
 #### Pub
@@ -258,7 +263,7 @@ The upper deck consists of, from stern to prow:
 #### Arcane Demiplane
 *Tended by [[Seeker]] or [[Faldrak Bronzehammer|Faldrak]]*
 
-> [!info]+ Arcane Deminplane
+> [!info]+ Arcane Demiplane
 > >Game Effect: [Demiplane](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Demiplane)
 > >Size: None (door from Observatory)
 > >Order: Empower
@@ -301,7 +306,7 @@ The upper deck consists of, from stern to prow:
 >
 >Kept in the common living is the following magic item:
 >##### Cleansing Stone
->The cleansing stone is a polished stone sphere of Drankorian make, 1 foot in diameter, embedded on top of short marble pedestal, that is permanently enchanted. While touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person. This stone was originally installed in [[Eudomes]]' bedroom in [[Stormcaller Tower]]; the party [[Session 71 (DuFr)|recovered it]] upon the destruction of the tower by [[Hralgar]] when he was freed from imprisonment. 
+>The cleansing stone is a polished stone sphere of Drankorian make, 1 foot in diameter, embedded on top of a short marble pedestal, that is permanently enchanted. While touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person. This stone was originally installed in [[Eudomes]]' bedroom in [[Stormcaller Tower]]; the party [[Session 71 (DuFr)|recovered it]] upon the destruction of the tower by [[Hralgar]] when he was freed from imprisonment.
 
 
 > [!info]+ Control Room
@@ -317,7 +322,7 @@ The lower deck consists of, from stern to prow:
 * [[Seeker|Seeker's]] game room
 * [[Faldrak Bronzehammer|Faldrak's]] workshop
 * the archives and research library
-* a sparing and exercise room
+* a sparring and exercise room
 * a shrine to the [[Bahrazel]]
 * the smithy
 
@@ -360,9 +365,9 @@ The lower deck consists of, from stern to prow:
 >**_Source of Inspiration._** After spending an entire Short Rest in your Workshop, you gain [Heroic Inspiration](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HeroicInspiration). You can’t gain this benefit again until you finish a Long Rest.
 
 #### Training Area (Sparring Room)
-*Tended by any  trainer, see below*
+*Tended by any trainer, see below*
 
-> [!info]+ Sparing Room
+> [!info]+ Sparring Room
 > >Game Effect: [Training Area](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrainingArea) 
 > >Size: 36 squares (Vast)
 > > Order: Empower
@@ -385,7 +390,7 @@ The lower deck consists of, from stern to prow:
 > 
 >**_Research: Helpful Lore._** When you issue the [Research](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Research) order to this facility, you commission the facility’s hireling to search the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast the [Legend Lore](https://www.dndbeyond.com/spells/2619010-legend-lore) spell, then shares this knowledge with you the next time you speak with them.
 >
->**_Reference Book._** Your Archive contains one copy of a rare and valuable reference book, which gives you a benefit while you and the book are in your Bastion. The Archive currently contains a single rare tome: *Name TBD*.  While you and your book on Vindristjarna, you have Advantage on any Intelligence ([Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check you make when you take the [Study](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#StudyAction) action to recall lore about spells, magic items, eldritch symbols, magical traditions, and planes of existence.
+>**_Reference Book._** Your Archive contains one copy of a rare and valuable reference book, which gives you a benefit while you and the book are in your Bastion. The Archive currently contains a single rare tome: *Name TBD*.  While you and your book are on Vindristjarna, you have Advantage on any Intelligence ([Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check you make when you take the [Study](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#StudyAction) action to recall lore about spells, magic items, eldritch symbols, magical traditions, and planes of existence.
 
 #### Reliquary and Sanctum (Shrine of the Bahrazel)
 *Untended*
@@ -421,7 +426,7 @@ The lower deck consists of, from stern to prow:
 >
 >**Craft: Smith’s Tools.** The facility’s hirelings craft anything that can be made with [Smith’s Tools](https://www.dndbeyond.com/equipment/438-smiths-tools), using the rules in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024).
 >
->**Craft: Magic Item (Armament).** If you are level 9+, can you commission the facility’s hirelings to craft a Common or an Uncommon magic item chosen by you from the [Armaments](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ArmamentsTables) tables in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) skill. See the “[Crafting Magic Items](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure#CraftingMagicItems)” section in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hirelings can assist), and you must have all those spells prepared every day you spend crafting the item.
+>**Craft: Magic Item (Armament).** If you are level 9+, you can commission the facility’s hirelings to craft a Common or an Uncommon magic item chosen by you from the [Armaments](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ArmamentsTables) tables in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) skill. See the “[Crafting Magic Items](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure#CraftingMagicItems)” section in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hirelings can assist), and you must have all those spells prepared every day you spend crafting the item.
 
 #### Basic Facilities, Lower Level
 
@@ -454,3 +459,23 @@ The storage deck is currently unfinished and is primarily used as an actual stor
 >**_Trade: Goods._** When you issue the [Trade](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Trade) order to this facility, its hireling spends the next 7 days procuring nonmagical items that have a total value of 5000 GP or less and stores them in the Storehouse, or the hireling uses those 7 days to sell goods in the Storehouse. You bear the total cost of any purchases.
 >
 >When you sell goods from your Storehouse, the buyer pays you 100 percent more than the standard price.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the canonical campaign identity and explicit display name, and recorded `POV: 1749` for the furnished ship and its crew allocation.
+- Corrected objective spelling, spacing, and grammar defects, including “pores over,” “an esoteric Charm,” “Arcane Demiplane,” “sparring,” and missing verbs/articles. Removed trailing spaces only on corrected lines. Preserved rules, quantities, allocations, and callout syntax.
+
+### Validated judgments
+- This is sufficient as a campaign mechanics document. The optional facility slots and unnamed reference tome do not require a broader lore rewrite.
+- [[Interlude (Tollen Downtime)]] supports the Map Room and Hall of Stories research roles. The separate [[Vindristjarna Mechanics]] document owns flight and installed prism/turret mechanics.
+
+### Open findings
+
+- [ ] **Warning — consistency.internal_conflict:** In “Special Facility Allocations,” Delwath is labeled `(3/6)` but has five named facilities, Seeker is labeled `(4/6)` but has five, and Wellby is labeled `(3/6)` but has four. Confirm whether the numerators count selected facilities or only some currently active facilities. If all named entries count as selected, use `**Delwath (5/6)**`, `**Seeker (5/6)**`, and `**Wellby (4/6)**`. If some entries are future choices, identify those explicitly instead; the blank level slots alone do not explain the current totals.
+- [ ] **Warning — consistency.internal_conflict:** The printed upper-deck facility sizes sum to 376 squares, while its heading says 380; the lower-deck sizes sum to 220, while its heading says 210. The Main Building also says `128 squares (Roomy Basic Quarters x9)`, although the document elsewhere assigns 16 squares to Roomy facilities. Confirm the intended room sizes before revising totals. If the printed square counts govern, copy-ready heading values are `*376 of 480 squares used*` and `*220 of 480 squares used*`. If nine 16-square basic rooms govern instead, the Main Building would be `144 squares (Roomy Basic Quarters x9)` and the upper total 392. Preserve any separately intended circulation allowance by identifying it explicitly.
+- [ ] **Warning — consistency.internal_conflict:** “Harvest: Talisman” joins two rule versions at `prepare it.This vault holds sacred objects`. The first defines replacement of one spell’s material components subject to the 1,000 GP limit and explicitly covers consumed components; the appended version describes a Spellcasting Focus and repeats the Reliquary charm and crafting instructions. The appended version also appears in [[Vindristjarna Room Planning (Old)]]. Choose the intended campaign rule. If retaining the first version, remove only the appended passage beginning “This vault holds sacred objects that reinforce your religion.” through “Another Harvest order prepares it for use again.”, leaving the first version ending “use another Harvest order to prepare it.” If retaining the older version, replace the full Harvest paragraph with that single version and remove the duplicated charm text. No mechanical choice has been applied.
+- [ ] **Warning — correctness.cross_note_conflict:** “Basic Facilities, Lower Level” provides quarters for 12 hirelings, while [[Vindristjarna#Recovery and Repair]] says ten hirelings or followers. Confirm whether these represent different refits. If the current bastion layout governs, the corresponding source-note correction is “comfortable living quarters for twelve hirelings or followers”; otherwise identify the earlier layout and reconcile the capacity here. Neither note has been changed to choose a layout.
+- [ ] **Warning — correctness.cross_note_conflict:** “Cold Chest” describes the Elemental Forge chest as 3 feet deep by 4 feet wide, while [[Elemental Forge Hoard#Found]] and [[Party Treasure#Vindristjarna]] describe the Cold Box from the same location as 3 feet by 3 feet. Confirm whether these are alternative descriptions or an intentional alteration of the installed chest. If the acquisition dimensions govern, replace the dimension phrase with “a 3 foot by 3 foot stone chest”; otherwise retain the current dimensions and document the distinction in the inventories. No dimension has been selected automatically.
+%%^End%%

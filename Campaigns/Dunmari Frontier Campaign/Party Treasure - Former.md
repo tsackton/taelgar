@@ -1,5 +1,10 @@
 ---
+lintedAt: "2026-10-20T08:15:28-04:00"
+lintVersion: "3.5"
 tags: [meta]
+campaign: Dunmar Frontier
+name: Party Treasure - Former
+POV: 1749
 ---
 
 # Former Party Treasure
@@ -9,7 +14,7 @@ tags: [meta]
 - Three blood red rubies, from [[Ursk Treasure|Shadowkeep]] *used for simulacrum*
 - A small crystal vial containing three doses of [[universal solvent]]. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
 - [[Medusa Blade]]
-- A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Delwath's Elven Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
+- A shard of [[Inkaye]] ready to be infused with extraplanar magic, created by [[Umli]] from Delwath's [[Delwath's Elven Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge.
 - Used to construct magic items at the Elemental Forge:
 	- Phoenix feather, used to allow [[Faldrak Bronzehammer|Faldrak]]'s stone bird to fly, among other things. 
 	- Elemental rods (one each of fire, earth, air, water), used to improve [[Seeker]]'s [[Glove of Crystalized Magic]]
@@ -32,7 +37,7 @@ tags: [meta]
 - Thorn Seed Bag. Destroyed in [[Session 31 (DuFr)]].
 - [[Soul Lantern]]. Destroyed in [[Session 32 (DuFr)]].
 - Seven iron spears carved with the incantation: “[[Mad One]], come to us, let [[Jinnik]]’s howl be heard.” From the [[Fraternity of the Empty Moon]]; destroyed. 
-- Necklace of Tongues ([[Seeker]]). A necklace made of a large number of dried, shriveled tongues struck on a twisted copper chain, radiating divination magic. Probably a creation of [[Agata]]’s, based on both [[Seeker]]’s and [[Tharandros]]’ examination. Taken from [[Agata]]’s person. (destroyed, sadly(?))
+- Necklace of Tongues ([[Seeker]]). A necklace made of a large number of dried, shriveled tongues strung on a twisted copper chain, radiating divination magic. Probably a creation of [[Agata]]’s, based on both [[Seeker]]’s and [[Tharandros]]’ examination. Taken from [[Agata]]’s person. (destroyed, sadly(?))
 - Four dried scorpions in a leather pouch. [[Tharandros]] thinks they could be magical, but their nature is hidden. Destroyed, will turn back into real giant scorpions when touched. Showed to the mirror, seeing an image of a struggling giant scorpion. 
 - [[Agata's Wooden Figurines]]. These are the wooden carvings/figures of cursed people. All of these radiate complex transmutation magic. All were changed back into people.
 	- A young girl, maybe 3 years old, with light brown skin and dark shoulder-length hair, big, curious brown eyes, and a chubby face, now broken in half and no longer radiating magic. This is [[Jumi]]. Freed. Casting Dispel Magic on [[Jumi]] herself, mostly turned to wood, ended the magic on [[Jumi]] and the figure of [[Jumi]]. 
@@ -52,10 +57,10 @@ tags: [meta]
 	- Material harvested from an ice worm: teeth, sensory patches, skin, and stomach acid
 	- Material harvested from a white dragon: cold breath venom sack, scales, resistance organ, teeth, and claws
 ### In [[Tollen]]
-- A collection of Tollender goods, that survived water damage: 20 bolts of brilliantly dyed red cloth; 4 crates of fine linen shits; 2 crates of red Tollender cloaks (one of which [[Seeker]] takes); 6 small crates of beaver fur hats in a variety of styles. Left with [[Adam Gower]] to sell / trade.
+- A collection of Tollender goods, that survived water damage: 20 bolts of brilliantly dyed red cloth; 4 crates of fine linen shirts; 2 crates of red Tollender cloaks (one of which [[Seeker]] takes); 6 small crates of beaver fur hats in a variety of styles. Left with [[Adam Gower]] to sell / trade.
 - 8 swords and 4 spears of [[Skaer Steel]] (used by Skaer warriors killed on [[Vetta]]; gifted to party in their honor by Vaalinen). Given to [[Umli]] to reuse. 
 - 5 pounds [[Skaer Steel]], gifted by the Skaer. Given to [[Umli]] to reuse.
-- The [[Flaming Tempest]], once [[Urgall the Black|Urgall]]'s pirate ship. Badly damaged. Potentially worth 20,000 gold if repaired and fixed up, considerably less in it's current state. Being dismantled and converted to usable timber in [[Tokra]]. 
+- The [[Flaming Tempest]], once [[Urgall the Black|Urgall]]'s pirate ship. Badly damaged. Potentially worth 20,000 gold if repaired and fixed up, considerably less in its current state. Being dismantled and converted to usable timber in [[Tokra]].
 ### In Chardon
 
 - Black Light Candle. Sold as part of the deal to get the [[Chalice of the Runepriest]] back, in [[Session 49 (DuFr)]] 
@@ -70,7 +75,7 @@ tags: [meta]
 - [[Lyrics of a New Age]]. A book of elvish poetry by [[Nelawe]]. Found in [[Stormcaller Tower]]. Could sell to an interested party for 50-200 gp. Sold for 220 gp. 
 - Tarot Cards. Finely painted on thin ivory; Moon Tarot Card found separately on the trap keeper’s person. From the werewolf lair in [[Tokra]]. Probably worth 20-360gp. Sold for 250 gp. 
 - Iron dial used to track moon phases from werewolves in [[Tokra]]. Probably worth 5-30gp. Sold for 6 gp. 
-- A single small turquoise stone, found in wvyern lair. Sold for 70 gp.
+- A single small turquoise stone, found in wyvern lair. Sold for 70 gp.
 - Well-worked decorative saddle, found in wyvern lair. Sold for 40 gp.
 - Golden bracelet set with pearls, found in wyvern lair. Sold for 8 gp. 
 - Elaborate pendant of platinum and gems from the werewolf leader. Probably worth 750-1800 gp. Sold for 800 gp.
@@ -105,7 +110,7 @@ The following was given to [[Milo Thistlefoot]] and [[Tilly Brineheart]] when th
 - 1 [Clockwork Amulet](https://www.dndbeyond.com/magic-items/27042-clockwork-amulet) from [[Ra'ghemdros' Hoard]]
 - 1 silver ewer that, when you speak a command word, can turn the water in the ewer into wine. You can use this command word three times per day, from [[Ra'ghemdros' Hoard]]
 - 1 serving platter that allows you to season any food placed on the platter, from [[Ra'ghemdros' Hoard]]
-- 1 goblet that allow you to cast *purify food and drink*, targeted liquid in the goblet only, once per day, from [[Ra'ghemdros' Hoard]]
+- 1 goblet that allows you to cast *purify food and drink*, targeted liquid in the goblet only, once per day, from [[Ra'ghemdros' Hoard]]
 - 1 serving platter that can cast create food and water (food only) once per day, from [[Ra'ghemdros' Hoard]]
 - 1 [Necklace of Adaptation](https://www.dndbeyond.com/magic-items/4682-necklace-of-adaptation), from [[Ra'ghemdros' Hoard]]
 - 1 ring of survival, which lets you add 1d4 to any ability check you make using the Survival skill (**+** requires attunement) from [[Ra'ghemdros' Hoard]]
@@ -127,7 +132,7 @@ Other treasure returned to Milo and Tilly
 - 1/2 a gold bar, weighing 5 lb, from the Elemental Forge. Given to Faldrak as partial payment for magic item construction. 
 - A well-constructed set of jeweler’s tools, and material to stock a jeweler’s workshop recovered from the workshop shelves at the elemental forge. Given to Faldrak as partial payment for magic item construction. 
 - [[Drankorian Message Stone]], given to [[Sura]], paired with Wellby's message stone.
-- [Deno’qai Eagle Shield](https://www.dndbeyond.com/magic-items/5346731-denoqai-eagle-shield) (give to [[Theba]]): A enchanted wooden shield, brightly painted and carved with an eagle motif. While attuned, can cast animal messenger (at 3rd level) at will, but only targeted the eagle motif (so need to wait for it to return to cast again). The eagle messenger can travel up to 5 miles an hour, and can pass through obstacles. 
+- [Deno’qai Eagle Shield](https://www.dndbeyond.com/magic-items/5346731-denoqai-eagle-shield) (give to [[Theba]]): An enchanted wooden shield, brightly painted and carved with an eagle motif. While attuned, can cast animal messenger (at 3rd level) at will, but only targeting the eagle motif (so need to wait for it to return to cast again). The eagle messenger can travel up to 5 miles an hour, and can pass through obstacles.
 - [Deno’qai Lightning Spear](https://www.dndbeyond.com/magic-items/5346735-denoqai-lightning-spear) (give to [[Theba]]): A spear decorated with lightning motifs. Functions as a +1 spear, with 60 foot short range and no long range. Has 3 charges, which it regains each day at dawn. Can use 3 charges to cause the spear to turn into a lightning bolt as you hurl it, which has the effect of casting the lightning bolt spell but with a range of 60' instead of the normal range of the spell. If you hurl it at a target, make an attack roll against the target as normal: on a hit, they take the normal spear damage and have disadvantage on the lightning bolt saving throw. You can also expend 1 charge to do an extra 2d6 lightning damage on a hit. (Spell Save DC is equal to your 8 + ability score used for the attack roll + proficiency) 
 
 ### Traded to the Philosopher's Guild
@@ -157,7 +162,7 @@ Other treasure returned to Milo and Tilly
 - [[Two letters from Stormcaller Tower]], from [[Stormcaller Tower]]. Given to [[Marcella]], Chardonian adventurer, in exchange for information.
 - [[Boots of False Tracks (Agata)]]. Given to [[Marcella]]. 
 - A large carved wooden statue of a dragon, painted in vivid greens and with two emeralds for eyes. Weighs at least 2000 pounds, if not more. Would be worth at least 5000 gp to the right buyer, but transport is a major issue. About 15 feet long, 10 feet wide, and 10 feet tall. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village.
-- A stuffed owlbear. Weighs at least 1000 pounds, and is big and awkward. Might be worth something to a collector, but impossible ot value. Roughly 10 feet by 10 feet by 10 feet in size. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. 
+- A stuffed owlbear. Weighs at least 1000 pounds, and is big and awkward. Might be worth something to a collector, but impossible to value. Roughly 10 feet by 10 feet by 10 feet in size. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village.
 - Eight bolts of silk. Four are plain white silk (20 - 50 gp each), two are fine silk dyed a rich purple (100 - 250 gp each), and two are beautifully dyed with a complex pattern (100 - 600 gp each). [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village.
 - A large number of logs, in a range of lengths from just larger than an arm in length and breadth up to the breadth of a [[Humans|human]]’s body and ten paces in length. Each log has been carefully cut and polished so as to display the beauty of its grain and remove any danger of splinters. Many of the logs are hardy and rare hard woods of considerable value. Even the less valuable logs would still be useful to any master carpenter or lesser workman (32 logs total, most would sell for 15 - 150 gp, but two exquisite and rare hardwood logs would sell for 300-400 gp). [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. 
 ## Stolen or Lost

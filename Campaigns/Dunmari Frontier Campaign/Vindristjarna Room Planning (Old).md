@@ -1,5 +1,10 @@
 ---
-tags: [meta]
+lintedAt: "2026-10-20T08:15:28-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
+campaign: Dunmar Frontier
+name: Vindristjarna Room Planning (Old)
+POV: 1740s
 ---
 
 # Upper Deck
@@ -12,7 +17,7 @@ The upper deck consists of, from stern to prow:
 * the elven tree, grown from seed by [[Kenzo]]
 * the main building on the upper deck, which contains a lavish dining hall, space for conversation and relaxation, the living quarters of [[Kenzo]], [[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], and the map room, tended by [[Wellby]] (%% assistant tbd %%)
 * On a sky deck built above the map room, [[Seeker|Seeker's]] observatory
-* the courtyard bow-ward of the main building, and the decking and railings around the main building, which is decorating with memorials to the adventures of the [[Dunmar Fellowship]] and tended by [[Kenzo]] and [[Amil]]
+* the courtyard bow-ward of the main building, and the decking and railings around the main building, which is decorated with memorials to the adventures of the [[Dunmar Fellowship]] and tended by [[Kenzo]] and [[Amil]]
 * in the bow, [[Baxter|Baxter's]] stable, tended by [[Wellby]]
 ### Mechanics and Space Usage
 Used space: 364 squares 
@@ -115,7 +120,7 @@ The lower deck consists of, from stern to prow:
 * [[Seeker|Seeker's]] game room
 * [[Faldrak Bronzehammer|Faldrak's]] workshop
 * the archives and research library, tended by [[Nuzkar]]
-* a sparing and exercise room, tended by [[Aygul]]
+* a sparring and exercise room, tended by [[Aygul]]
 * a shrine to the [[Bahrazel]], tended by [[Riswynn]]
 * the smithy, tended by [[Kethra]]
 
@@ -143,14 +148,14 @@ The lower deck consists of, from stern to prow:
 >
 >This Workshop is a creative space where all manner of useful items can be crafted. After spending an entire Short Rest in your Workshop, you gain Heroic Advantage. You can’t gain this benefit again until you finish a Long Rest. When you issue the Craft order to this facility, you commission the facility’s hirelings to craft one Tiny, nonmagical object that can be made using Carpenter’s Tools, Cobbler’s Tools, Glassblower’s Tools, Mason’s Tools, Potter’s Tools, Tinker’s Tools, Weaver’s Tools, or Woodcutter’s Tools. Examples include a Costume, a Gaming Set, a Musical Instrument, a Spellcasting Focus, a bottle, a shoe, or a toy. The work takes 7 days and costs you nothing unless the item is worth 10 GP or more, in which case you pay half the item’s cost.
 
-> [!info]+ Sparing Room
+> [!info]+ Sparring Room
 > >Tended by:  [[Aygul]]
 > >Game Effect: Training Hall
 > >Size: 36 squares (Vast)
 > > Order: Empower (1d6 BP)
 > 
 > When you issue the Empower order to this facility, the facility’s hirelings conduct training exercises for the next 7 days. Any character who trains here for at least 8 hours on each of those days gains a benefit at the end of the training period. The benefit depends on which trainer is present in the facility, as noted in the Expert Trainers table. The benefit lasts for 7 days
-> The sparing room can support any of the following expert trainers:
+> The sparring room can support any of the following expert trainers:
 > 
 > **Battle Expert** Once per turn, when you take damage from an attack made with an Unarmed Strike or a weapon, you can reduce this damage by 1d4, provided you don’t have the Incapacitated condition.
 > 
@@ -240,3 +245,19 @@ dv.table(["Person", "Info", "Current Location", "Home"],
 				.where(f => util.inOrHomeLocation("Mirror of Soul Trapping", f.file.frontmatter, dv.current().pageTargetDate))				
 				.map(b => [util.s("<name> <pronunciation> (<pronouns>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
 ```
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the canonical campaign identity, explicit display name, and `POV: 1740s` for this earlier Dunmar Frontier planning document.
+- Corrected “is decorating” to “is decorated” and three instances of “sparing” to “sparring,” preserving the planning annotations, rules, quantities, and Dataview code.
+
+### Validated judgments
+- Sufficient for its explicit old planning role. The obsolete Bastion Point rules, possible staff assignments, and unnamed reference tome remain part of that record; differences from [[Vindristjarna Bastion Rules]] do not by themselves require updating the worksheet.
+- The three inline comments are unresolved planning annotations and remain in place. No private annotation has been promoted into visible current staffing information.
+
+### Open findings
+
+- [ ] **Warning — consistency.internal_conflict:** The upper-deck worksheet says `Used space: 364 squares`, but its listed facility sizes total 348. The Main Building also says `128 squares (Roomy Basic Quarters x9)`; elsewhere a Roomy facility is 16 squares, and nine such rooms would total 144. Confirm which part of the old calculation was intended. If the printed individual square counts govern, use `Used space: 348 squares`. If nine Roomy basic rooms govern, use `Size: 144 squares (Roomy Basic Quarters x9)` for the Main Building and retain the 364-square total. If preserving the worksheet’s original inconsistency as an archive, add a concise nearby comment recording that choice. This is a reconciliation of the old worksheet, not a request to replace its rules with the newer layout.
+%%^End%%

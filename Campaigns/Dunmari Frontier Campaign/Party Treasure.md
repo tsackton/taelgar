@@ -1,5 +1,10 @@
 ---
-tags: [meta]
+lintedAt: "2026-10-20T08:15:28-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
+campaign: Dunmar Frontier
+name: Dunmar Fellowship Treasure
+POV: 1749
 ---
 
 # Dunmar Fellowship Treasure
@@ -16,7 +21,7 @@ This records the magic items and mundane treasure acquired by the [[Dunmar Fello
 | ![[lynx-shield.png\|240]]                 | [[Deno'qai Lynx Shield]]           | Major item, Legendary | [[Gifts and Purchases\|Gift]] from [[Enon]], and blessed by the [[Meswati]] as they were freed. Later enhanced with [[Skaer Steel]] by [[Umli]]. | [Mechanics](https://www.dndbeyond.com/magic-items/5360068-lynx-denoqai-shield)  |
 | ![[narengril.png\|240]]                   | [[Narengril]]                      | Major item, Rare      | Found in [[Grimbaskal's Hoard]]                                                                                                                  | [Mechanics](https://www.dndbeyond.com/magic-items/5346819-narengril)            |
 | ![[denoqai-scale-armor-delwath.png\|240]] | [[Deno'qai Scale Mail]]            | Major item, Uncommon  | [[Gifts and Purchases\|Gift]] from [[Enon]]                                                                                                      | [Mechanics](https://www.dndbeyond.com/magic-items/5372382-denoqai-scale-mail)   |
-|                                           | [[Rod of Elmerca's Bond]]          | Major item, Rare      | Take from [[Apollyon's Tower Treasure\|Apollyon's Tower]] on the [[Circular Island]].                                                          | [Mechanics](https://www.dndbeyond.com/magic-items/9217523-rod-of-elmercas-bond) |
+|                                           | [[Rod of Elmerca's Bond]]          | Major item, Rare      | Taken from [[Apollyon's Tower Treasure\|Apollyon's Tower]] on the [[Circular Island]].                                                          | [Mechanics](https://www.dndbeyond.com/magic-items/9217523-rod-of-elmercas-bond) |
 | ![[horn-of-warning-1.png\|240]]           | [[Horn of Silent Alarm (Dunmari)]] | Minor item, Common    | Taken from [[Justan]] in the [[Copper Hills Treasure\|Copper Hills]] after he was killed by [[Casian]]                                           | [Mechanics](https://www.dndbeyond.com/magic-items/horn-of-silent-alarm)         |
 | ![[ring-of-sharp-mind-delwath.jpg\|240]]  | Ring of Sharp Mind                 | Minor item, Rare      | Constructed by [[Faldrak Bronzehammer\|Faldrak]] and [[Seeker]] at the [[Elemental Forge Hoard\|Elemental Forge]]                                | [Mechanics](https://www.dndbeyond.com/magic-items/7632123-ring-of-sharp-mind)   |
 | ![[magic-cooking-pouch.jpg\|240]]         | Magic Cooking Pouch                | Minor item, Uncommon  | [[Gifts and Purchases#Purchases\|Purchased]] from the [[Te'kula]] in exchange for a portion of [[Grimbaskal's Hoard]]                            | [Mechanics](https://www.dndbeyond.com/magic-items/6210885-magic-cooking-pouch)  |
@@ -72,7 +77,7 @@ This records the magic items and mundane treasure acquired by the [[Dunmar Fello
 |                                                     | [[Wand of the Planes]]                           | Major item, Very rare | Found as part of [[Ra'ghemdros' Hoard]]                                                   | [Mechanics](https://www.dndbeyond.com/magic-items/9218666-wand-of-the-planes)            |
 | ![[shadow-armband.png\|240]]                        | [[Cha'mutte’s Shadow Armband]]                   | Major item, Legendary | Recovered from the [[Forest of Nightmares]] by [[Delwath]]                                | N/A                                                                                      |
 | ![[binding-stones.jpg\|240]]                        | [[Binding Stones]]                               | Major item, Legendary | Found in [[Stormcaller Tower Treasure\|Stormcaller Tower]]                                | [Mechanics](https://www.dndbeyond.com/magic-items/7676659-binding-stones-of-amloch)      |
-| <br>![[dragonhide-studded-leather-seeker.jpg\|240]] | [[Dragonhide Armor\|Dragonhide Studded Leather]] | Major item, Uncommmon | [[Gifts and Purchases#Purchases\|Purchased]] in [[Zvervinka]]                             | [Mechanics](https://www.dndbeyond.com/magic-items/5096-studded-leather-1)                |
+| <br>![[dragonhide-studded-leather-seeker.jpg\|240]] | [[Dragonhide Armor\|Dragonhide Studded Leather]] | Major item, Uncommon | [[Gifts and Purchases#Purchases\|Purchased]] in [[Zvervinka]]                             | [Mechanics](https://www.dndbeyond.com/magic-items/5096-studded-leather-1)                |
 | ![[ring-of-warded-mind-seeker.jpg\|240]]            | [[Ring of the Warded Mind]]                      | Major item, Uncommon  | Part of [[Agata's Treasure]]                                                              | [Mechanics](https://www.dndbeyond.com/magic-items/4725-ring-of-mind-shielding)           |
 | ![[pearl-of-power-seeker.jpg\|240]]                 | Pearl of Power                                   | Major item, Uncommon  | Recovered from [[Raven's Hold Treasure\|Raven's Hold]]                                    | [Mechanics](https://www.dndbeyond.com/magic-items/4691-pearl-of-power)                   |
 | ![[glove-of-crystallized magic.jpg\|240]]           | [[Glove of Crystalized Magic]]                   | Major item, Very rare | Constructed by Seeker from gift of crystallized magic from [[Illaran]]                    | [Mechanics](https://www.dndbeyond.com/magic-items/5865922-glove-of-crystallized-magic)   |
@@ -120,7 +125,7 @@ This records the magic items and mundane treasure acquired by the [[Dunmar Fello
 
 ### Common Drankorian Magic
 
-These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. Items marked with a **+** require attumement
+These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. Items marked with a **+** require attunement
 
 - 17 magic weapons and shields, converted to a [[Party Treasure#Other Rewards|meta-resource]].
 - 3 [Orb of Time](https://www.dndbeyond.com/magic-items/27078-orb-of-time)
@@ -186,7 +191,7 @@ These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. I
 - Two small garnets, uncut (25 - 50 gp as is, 50 - 100 gp if cut, from [[Grimbaskal's Hoard]]).
 - A flawed black pearl (50 - 300 gp, [[Grimbaskal's Hoard]]).
 - A large amber (100 - 200 gp, [[Grimbaskal's Hoard]]).
-- A extraordinarily fine black opal set on gold chain (400 - 2400 gp, [[Grimbaskal's Hoard]]).
+- An extraordinarily fine black opal set on gold chain (400 - 2400 gp, [[Grimbaskal's Hoard]]).
 - A diamond of beautiful quality and cut. Could sell for 1000-2400gp. Seen in [[Mirror of the Past]]: [[Extravagant Diamond Vision]]. From [[Agata's Treasure]].
 - Five uncut gemstones: an amethyst (10-60gp), a rose quartz (50-300gp), and a topaz (100-600gp). ​​If cut and polished by a skilled gemcutter, the topaz could sell for perhaps quadruple; the amethyst and rose quartz could sell for double. From [[Agata's Treasure]].
 - A single turquoise, shaped into a perfect blue sphere the size of a robin’s egg. Could sell for 200-1200gp. From [[Agata's Treasure]].
@@ -241,13 +246,13 @@ These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. I
 - **Royal Flagon**: An intricately designed flagon made of silver, adorned with engravings and gemstones, used for serving drinks at state banquets. Like a punchbowl. 
 #### Other Objects of Art
 - Dragon statuette glittering with small diamonds, from [[Ursk Treasure|Shadowkeep]]
-- A golden necklace with a holy symbol of Jeevali, dating to before the [[Great War]], with two blue lapus lazuli gemstones representing Jeevali's tears, found in [[Nashtkar Treasures#Found in Kharsan|the palace in Kharsan]]
+- A golden necklace with a holy symbol of Jeevali, dating to before the [[Great War]], with two blue lapis lazuli gemstones representing Jeevali's tears, found in [[Nashtkar Treasures#Found in Kharsan|the palace in Kharsan]]
 - A pair of nice wooden spoons, found in [[Nashtkar Treasures#Found in Kharsan|the palace in Kharsan]]
-- ![[elven-rose-tapestry-grimbaskal.png|right|200]]A tapestry depicted a lush, wild rose garden, tangled and vibrant, probably of Elven make (450 - 650 gp, [[Grimbaskal's Hoard]]).
+- ![[elven-rose-tapestry-grimbaskal.png|right|200]]A tapestry depicting a lush, wild rose garden, tangled and vibrant, probably of Elven make (450 - 650 gp, [[Grimbaskal's Hoard]]).
 - A tapestry of trees in bloom, in front of a mountain, in an unusual and hard to recognize style, probably from far away (unknown value, [[Grimbaskal's Hoard]]).
 - Carved bone statuette of an eagle (80 - 130 gp, [[Grimbaskal's Hoard]]).
 - The polished skull of a unicorn, latticed with luminescent blooms, and seemingly a minor enchantment to keep the flowers alive (150 - 900 gp, [[Grimbaskal's Hoard]]).
-- A life-sized wooden statute of an owl, carved from a single piece of wood, deep red in color, with gems for eyes and silver highlights on the feathers and talons (30 - 180 gp, [[Grimbaskal's Hoard]]).
+- A life-sized wooden statue of an owl, carved from a single piece of wood, deep red in color, with gems for eyes and silver highlights on the feathers and talons (30 - 180 gp, [[Grimbaskal's Hoard]]).
 - A harp, its pillar carved to represent a beautiful elf (30 - 180 gp, [[Grimbaskal's Hoard]]).
 - A richly detailed, beautifully made painting of an ancient elven forest, of Elven make (at least 500 gp, possibly much more, [[Grimbaskal's Hoard]]).
 - [[Chardon Fan]], part of [[Agata's Treasure]] (carried by Kenzo).
@@ -294,7 +299,7 @@ These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. I
 - Two vials of mercury, from the [[Elemental Forge Hoard]]
 - A gilded skull of a halfling, taken from [[Kadmos]] as part of the [[Kadmos and Company Loot]]
 - Blank spell scroll ([[Monastery of Bhishma]], [[Seeker]]). Valuable, could be sold to the right person for 50-300 gp. Can be used to construct a spell scroll in 8 hours, of up to level 2. 
-- Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. Part of the [[Werewolf Lair Treasure]].
+- Bottle of a swirling, oily substance that explodes when thrown, from werewolf trap expert. Unknown value. Part of the [[Werewolf Lair Treasure]].
 - Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. Part of the [[Raven's Hold Treasure]]
 - Metal vial with acidic liquid from gnoll war leader ([[Raven's Hold]], [[Wellby]]). No obvious value. Part of the [[Raven's Hold Treasure]]
 
@@ -327,7 +332,7 @@ The following magical items are kept on [[Vindristjarna]]:
 
 - [[Hralgar's Phasing Stone]] (powers [[Vindristjarna]], party), recovered from Hralgar's ancient, now abandoned, palace in the southern part of the [[Sentinel Range]]. 
 - Cold Box. Found in the pantry/storeroom in the [[Elemental Forge Hoard|living quarters of the Elemental Forge]]. A 3 foot by 3 foot stone chest that preserves food kept inside indefinitely. Installed on [[Vindristjarna]].
-- Pitcher of Purity. A silver water pitcher found in the bedroom in the li[[Elemental Forge Hoard|living quarters of the Elemental Forge]]. Any non-magical liquid put inside turns permanently to pure water. Now part of the kitchen equipment on [[Vindristjarna]]. 
+- Pitcher of Purity. A silver water pitcher found in the bedroom in the [[Elemental Forge Hoard|living quarters of the Elemental Forge]]. Any non-magical liquid put inside turns permanently to pure water. Now part of the kitchen equipment on [[Vindristjarna]].
 - Cleansing Stone. A polished stone sphere, 1 foot in diameter, embedded on top of short marble pedestal. While touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person. Originally located in Eudomes' bedroom in the Stormcaller Tower, recovered as part of the [[Stormcaller Tower Treasure]] upon Hralgar's destruction of the tower when he was freed.
 
 The following mundane items are kept on [[Vindristjarna]]:
@@ -353,3 +358,20 @@ The following mundane items are kept on [[Vindristjarna]]:
 - The Fifth Ladder - died in Limbo
 - The Sixth Ladder - set free by True Polymorph
 
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the canonical campaign identity and an explicit display name, and recorded `POV: 1749` for the campaign-end inventory.
+- Corrected objective typos and grammar: `Take from` → `Taken from`; `Uncommmon` → `Uncommon`; `attumement` → `attunement`; `A extraordinarily` → `An extraordinarily`; `lapus lazuli` → `lapis lazuli`; `A tapestry depicted` → `A tapestry depicting`; `wooden statute` → `wooden statue`; `when throw` → `when thrown`; removed the stray `li` immediately before the Pitcher of Purity's existing living-quarters link.
+
+### Validated judgments
+- The inventory performs its campaign record-keeping role; quantities, ownership, rules links, table structure, and the ladders' narrative remain intact.
+- The retained two mercury vials are consistent with the four acquired in [[Elemental Forge Hoard]] and two consumed as recorded in [[Party Treasure - Former]]. The two histories in [[Horn of Silent Alarm (Dunmari)]] distinguish Delwath's retained horn from Kenzo's sacrificed horn.
+
+### Open findings
+
+- [ ] **Warning — consistency.internal_conflict:** The Gemstones entry says “Five uncut gemstones” but enumerates only an amethyst, a rose quartz, and a topaz. [[Agata's Treasure]] repeats the count and the same three identities, so it does not settle the discrepancy. Confirm whether two stones are missing from the list or the total is wrong. If those three are the complete retained set, replace only “Five uncut gemstones” with “Three uncut gemstones”; otherwise retain five and add the two verified missing stones. No quantity or identity has been inferred.
+- [ ] **Warning — correctness.quantity_ambiguity:** “Four magical glass lenses” under Unusual Materials or Components differs from the six magical lenses in [[Tower of the Colossus Treasure]]. [[Session 104 (DuFr)]] confirms retrieval of the treasure without a lens count, and [[Party Treasure - Former]] records no lens disposition. Confirm whether six were recovered and two later disposed of, or whether one count is mistaken. If all six remain, the bounded candidate is “Six magical glass lenses of a variety of sizes, once apparently part of a telescope. From the [[Tower of the Colossus Treasure]].” Otherwise retain four and document only the verified disposition of the other two; do not infer their fate.
+- [ ] **Warning — coverage.established_fact_missing:** The ledger already records the sixth Ladder's release, but omits two magic-item records from that same final session. `_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-beat-facts.json`, beat-001, records identification of the Scimitar of Dark Flame; beat-009 records four rings made by Seeker and Faldrak from shards of the rainbow prism. Add the established items and confirm their holders, rather than inventing ownership, rarity, recharge limits, or full item mechanics. Bounded candidates: “Scimitar of Dark Flame, identified during the final investigations aboard [[Vindristjarna]].” and “Four rings made by [[Seeker]] and [[Faldrak Bronzehammer]] from shards of the rainbow prism, allowing the companions to send messages to one another and teleport to [[Vindristjarna]].” Alternatively, explicitly bound this inventory to an earlier stage and keep later acquisitions in a separate ledger; its current introductory scope and final Ladder entry do not establish such a boundary.
+%%^End%%
