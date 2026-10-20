@@ -1,0 +1,4 @@
+interface:
+  display_name: "Batch Name-only Lint Cleanup"
+  short_description: "Review name lint in batches with selective regeneration"
+  default_prompt: "Use $batch-lint-cleanup to prepare ten name-only lint reviews in an open review document with full lint reports, language proposals, and row-level regeneration commands."
