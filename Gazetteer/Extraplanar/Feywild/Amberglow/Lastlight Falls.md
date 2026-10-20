@@ -1,19 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-displayDefaults:
-  wSecondary: <typeof:Ua> <secondary:q>
-  wHome: <typeof:Ua> <home:q>
+lintedAt: "2026-10-20T12:23:59-04:00"
+lintVersion: "3.5"
+displayDefaults: {wSecondary: "<typeof:Ua> <secondary:q>", wHome: "<typeof:Ua> <home:q>"}
+tags: [place]
 typeOf: planar link
-whereabouts:
-  - location: Nashtkar
-    type: secondary
-  - location: Amberglow
-    type: home
-dm_notes: none
-dm_owner: tim
 typeOfAlias: fey portal
+name: Lastlight Falls
+whereabouts:
+  - {location: Nashtkar, type: secondary}
+  - {location: Amberglow, type: home}
+dm_owner: tim
+dm_notes: none
+POV: modern
 ---
 # The Lastlight Falls
 >[!info]+ Information  
@@ -26,4 +25,12 @@ Lastlight Falls is a portal between the Feywild and the material plane, located 
 
 %%^Campaign:dufr%%
 It is possible to step through the mists of the waterfall and walk between planes, but only for a short time each day, as the portal is only open around the time of sunset in the [[Material Plane]].
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name": "Lastlight Falls", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference geography and sunset-bound crossing conditions; the campaign passage describes the same portal without implying unrestricted opening.
 %%^End%%

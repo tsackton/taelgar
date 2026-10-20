@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-whereabouts: Feywild
+lintedAt: "2026-10-20T12:23:59-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: extraplanar domain
-excludePublish:
-  - all
-dm_notes: important
+name: Duskmire
+whereabouts: Feywild
+excludePublish: [all]
 dm_owner: joint
+dm_notes: important
+POV: modern
 ---
 # Duskmire
 >[!info]+ Information  
@@ -104,3 +106,40 @@ The lands sunward of the Sunset Gate (in the region labeled 3)  are not part of 
 There are more notes in Discord than copied here.
 
  %%
+
+%%^Metadata:names:v1%%
+- {"name": "Duskmire", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography and character of Duskmire, with selected older history; the hidden origin dates and expansion chronology remain provisional, and the Cleenseau portal history is not yet integrated into the visible article.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting.
+- Added explicit display-name, primary-name, and temporal POV metadata.
+
+### Validated judgments
+- The landscape and ruler account adequately identify this realm; the remaining historical additions are bounded source-integration work.
+- The plain-English compound name needs no pronunciation guide; its original in-world language is not established.
+- Confirmed local source matches support the positive `dm_notes` attestation. Their contents remain private.
+- The older origin-date and realm-expansion discussion remains explicitly provisional; no date or northern ruler has been invented.
+
+### Open findings
+
+- [ ] **Warning — coverage.established_fact_missing:** The visible history stops at Umbraeth’s former position in Ethlenn's court. [[An Excerpt from On Creation and Destruction of Extra-Material Realms]] attributes the formation of Duskmire after his exile to an account from the elves of [[Orenlas]]; [[Session 121 (DuFr)]] establishes the realm's expansion into [[Amberglow]] after [[Cloudspinner]] vanished, and [[Greymalkin's Story]] recounts the conquest of the [[Refuge of the Gossamer Veil]]. These are defining territorial developments. Bounded candidate: “An old account attributed to the elves of [[Orenlas]] says that Duskmire formed around [[Lord Umbraeth]] after his banishment from [[Twilight's Grace]]. After [[Cloudspinner]] vanished, Duskmire expanded into the edges of [[Amberglow]].” The Refuge's fall can be added as an attributed Cleenseau-specific example while preserving the source's campaign visibility. Do not assign an exile date or infer what Cloudspinner’s later return did to Duskmire’s borders.
+
+- [ ] **Warning — coverage.established_fact_missing:** The ordinary comment headed “Canon from Cleenseau” preserves only an intermittently open portal, while [[Cleenseau Wood]] and [[Cleenseau - Session 32]] now establish its closure in October DR 1720. This is a durable change to a significant Material Plane connection, not a routine party visit. Proposed historical addition, with any new Date or Campaign layer reserved for human approval: “A portal in [[Cleenseau Wood]] once connected to Duskmire, opening intermittently over many years. It was held open from October DR 1719 to January DR 1720 and opened briefly after the [[Undead Attacks in Sembara]]. The portal was reportedly permanently closed by the [[Heroes of Cleenseau]] in October DR 1720.” Retain the earlier opening state when the article is viewed before the closure.
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The ordinary comment headed “Canon from Addermarch campaign” contains a coherent public-safe description of warning stones marking thin crossings, followed by tentative language and dating inferences. Decide whether to adopt only this bounded account: “Old warning stones in western Addermarch mark places where crossing from the [[Feywild]] is easier and warn against [[Lord Umbraeth]].” Keep the proposed script, language, and origin dates in the comment. Verify which stones this refers to before adoption: [[Morlaith]] separately preserves traditions of warning stones associated with the Briarheart, and this candidate must not imply that every Addermarian warning stone concerns Umbraeth.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Amberglow - Combat Ideas]]
+- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Brainstorming - Cloudspinner]]
+- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 118 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 119 - In Game Notes]]
+- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/chatGPT - Cloudspinner Arc]]
+%%^End%%

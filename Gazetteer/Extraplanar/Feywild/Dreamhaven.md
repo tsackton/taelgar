@@ -1,12 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+lintedAt: "2026-10-20T12:23:59-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: extraplanar domain
 ancestry: fey
+name: Dreamhaven
 whereabouts: Feywild
 dm_owner: tim
 dm_notes: important
+POV: modern
 ---
 # Dreamhaven
 >[!info]+ Information  
@@ -30,7 +33,7 @@ The people of Dreamhaven live in small enclaves, usually hidden out of sight. Th
 
 Dreamhaven is north of [[Fortune's Rest]], south of [[Whispervale]], and east of [[Splendor's Gleam]], to the extent that geography can be straightforwardly described in the Feywild. 
 
-Dreamhaven is roughly congruent with the  ancient elven kingdom of [[Ainumarya]] and the northern reaches of the [[Chasa River Valley]] on the Material Plane. 
+Dreamhaven is roughly congruent with the ancient elven kingdom of [[Ainumarya]] and the northern reaches of the [[Chasa River Valley]] on the Material Plane.
 
 ## Visual Inspiration
 
@@ -44,3 +47,31 @@ Dreamhaven is roughly congruent with the  ancient elven kingdom of [[Ainumarya]]
 ![[dreamhaven-scene-5.png]]
 
 ![[dreamhaven-scene-6.png]]
+
+%%^Metadata:names:v1%%
+- {"name": "Dreamhaven", "language": "unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern description of the realm, its forest, court, and relative geography; no narrower period of Seraphine's rule is established.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added the explicit display name, primary name metadata, and broadly modern temporal metadata.
+- Removed the duplicated space in “the ancient elven kingdom.”
+
+### Validated judgments
+- The forest, moving court, ruler, and relative geography provide a sufficient setting-specific account; the plain-English name needs no pronunciation.
+- Confirmed local matches support the existing positive `dm_notes` attestation. No local-only contents were copied into this report.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.public_material_candidate:** The opening `%% notes` comment contains a specific attributed tradition about refugees from Ainumarya, rather than undeveloped atmosphere. Consider adopting a bounded public paragraph to explain the realm's connection to the elves, while preserving the rumor qualification: “Dreamhaven is the homeland of [[Caelynn|Caelynn the Seer]]. According to Caelynn, many elves fleeing the destruction of [[Ainumarya]] took refuge there; the story circulates among elves but remains unconfirmed.” [[Caelynn]] independently establishes her origin; the refugee tradition is currently supported only by this shared comment and remains a human adoption decision.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/chatGPT - Cloudspinner Arc]]
+- [[_DM_/_Dunmari Frontier/Session 74-75 (Scepter)/Tollen DM Notes]]
+%%^End%%

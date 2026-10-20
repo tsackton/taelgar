@@ -1,9 +1,12 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T12:23:59-04:00"
+lintVersion: "3.5"
 tags: [place, status/check/name]
 typeOf: region
 name: Grey Mists
 whereabouts: Feywild
+POV: modern
 ---
 # Grey Mists
 >[!info]+ Information  
@@ -21,4 +24,8 @@ Memory loss gradually weakens the purpose holding the travelers together. A dest
 
 %%^Metadata:names:v1%%
 - {name: Grey Mists, language: Common, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern description of the mists and their effects on travelers; no narrower beginning or ending is established.
 %%^End%%
