@@ -38,13 +38,19 @@ Capture full-note and exact-report baselines. Assign stable row numbers: never r
 
 ## Propose
 
-Reuse existing proposals unless regeneration is requested or an unknown language needs a default. Preserve documented language, pronunciation, meaning, derivation, naming circumstances, and uncertainty. Show recorded species/ancestry for people; do not infer them.
+Reuse existing proposals unless regeneration is requested, an unknown language needs a default, or the pronunciation-omission default below applies. Preserve documented language, pronunciation, meaning, derivation, naming circumstances, and uncertainty. Show recorded species/ancestry for people; do not infer them.
 
 For unknown language, consider explicit name context first, then culture, geography, spelling, and adopted language guidance together. Label a plausible default **guess**, with a brief concrete basis and uncertainty. Ancestry/residence alone is not proof. Use `unknown` where no useful basis exists. Acceptance can establish a language choice without establishing a meaning or etymology.
 
-Pronunciation preference: recorded pronunciation, adopted language rules, documented analogue/naming patterns, then cautious spelling reading. Apply relevant analogues instead of silently falling back to English. Show complete pronounceable forms with stress and brief reasoning. Preserve existing frontmatter pronunciation. Obvious ordinary names may omit it; never use placeholders. A changed language must not silently change pronunciation.
+For Common descriptive titles and item names, default to omitting pronunciation, including when a title incorporates a proper name. Do not compose a pronunciation for an otherwise readable descriptive label merely because its existing lint report proposed one. Show “omit” in the review and propose removal of an unnecessary unresolved names-block pronunciation; this can resolve that finding when approved. Preserve existing accepted frontmatter pronunciation under the allowlist. Keep pronunciation for distinctive names where it helps, such as Narëngril, or when the user requests it.
 
-Determine exact candidate edits internally without displaying replacement names blocks. Expose every substantive decision in the table or row details, including contextual-note edits, meanings, derivations, and status changes. Preserve existing notes verbatim unless a change is explicitly shown and approved. Mark only established or human-adopted facts documented; retain other inference/uncertainty. Generic acceptance cannot resolve an undisclosed substantive conflict.
+When pronunciation is useful, prefer recorded pronunciation, adopted language rules, documented analogue/naming patterns, then cautious spelling reading. Apply relevant analogues instead of silently falling back to English. Show complete pronounceable forms with stress and brief reasoning; never use placeholders. A changed language must not silently change pronunciation.
+
+Determine exact candidate edits internally; omit replacement names blocks by default, but show the exact block for any row the user requests. Use one inline YAML dictionary per name entry in both previews and saved notes. Expose every substantive decision in the table or row details, including contextual-note edits, meanings, derivations, and status changes. Mark only established or human-adopted facts documented; retain other inference/uncertainty. Generic acceptance cannot resolve an undisclosed substantive conflict.
+
+Read each existing `notes` value for meaning before proposing edits. Preserve useful pronunciation explanations, sources, meanings, derivations, naming circumstances, and substantive uncertainty. Remove only obsolete proposal/status wording after acceptance; for example, retain the Tolkien-Elvish sound explanation while removing “Proposed using” and superseded uncertainty about the accepted language/stress. When omitting pronunciation, remove explanation tied solely to that omitted reading only if it carries no independent name fact. Do not drop an entire notes value just because one sentence is obsolete. Display the exact changed wording for approval; preserve unaffected wording.
+
+Source notes state facts and useful context, not workflow history. Never add “formerly proposed,” “subsequently adopted by human review,” or similar decision-history narratives, and never preserve stale proposals by appending such a disclaimer. Review state and commit history belong in the separate review document and Git.
 
 ## Review document
 
@@ -54,7 +60,7 @@ Include:
 
 1. Batch identity/revision and this prominent approval legend: **Accepting a row adopts the displayed naming decisions, deletes its appended Lint block and lint tag by default, adds no reviewer tags unless requested, regenerates the header, and includes it in a local batch commit. No re-lint is run.** Explain `preserve` and `redo` here.
 2. A numbered table with state, clickable note link, identifying context (recorded species/ancestry for people), language, pronunciation, and concise basis/uncertainty. Display nondefault reviewer/report dispositions. Detail multiple name forms beneath the table when necessary; never hide extra decisions.
-3. Only necessary row-specific details, including explicit proposed changes to existing contextual notes. No names-block dumps.
+3. Only necessary row-specific details, including explicit proposed changes to existing contextual notes. No names-block dumps unless requested for specific rows.
 4. **Every full original Lint block**, under a heading matching its row number and linked note. Copy verbatim from `%%^Lint%%` through its matching `%%^End%%`, including all assessments, applied changes, findings, continuations, and source sections. Use Markdown fences longer than any fence within the report. Never summarize, truncate, or substitute a link.
 
 Automatically open the review with `open_in_codex` and provide an absolute clickable file link. If opening is unavailable or fails, show the table and all full reports in chat before approval. A link alone is insufficient. Explicit approval after presentation suffices; do not ask for a separate reading acknowledgment. Keep private evidence local, not in a shared Page or external publication.
@@ -79,7 +85,7 @@ Interpret natural language and these short forms:
 | `approve rest; redo 3, 7` | Apply other pending rows; regenerate 3 and 7 and leave pending. |
 | `all except 3; 5 Elvish; 7 mike` | Approve others with the explicit correction and reviewer override. |
 
-Parse the entire reply before acting. Exceptions, skips, regeneration, and explicit field overrides outrank broad approval. Do not guess ambiguous/nonexistent row references; continue unambiguously approved rows. A bare `redo` needs row selection. `all` never resurrects skipped/applied rows or overrides regeneration in the same reply.
+Parse the entire reply before acting. An explicit request to regenerate or revise the proposal is preview-only, even if it specifies exact edits; do not treat those edits as permission to apply the row. Exceptions, skips, regeneration, and explicit field overrides outrank broad approval. Do not guess ambiguous/nonexistent row references; continue unambiguously approved rows. A bare `redo` needs row selection. `all` never resurrects skipped/applied rows or overrides regeneration in the same reply.
 
 Regenerate only requested rows/fields, preserve other decisions, and require acceptance after showing revised proposals. Field-limited regeneration must flag dependent inconsistencies and propose any coupled change explicitly. Never overwrite accepted frontmatter values or regenerate applied rows; corrections to applied rows are separate tasks. Exact user corrections need no redundant confirmation; newly derived dependent values do. Unaffected approvals remain valid.
 
