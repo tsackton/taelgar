@@ -1,6 +1,11 @@
 ---
+lintedAt: "2026-10-20T07:57:56-04:00"
+lintVersion: "3.5"
 tags: [meta]
 typeOf: hoard
+campaign: Dunmar Frontier
+name: "Apollyon's Tower Treasure"
+POV: 1749
 ---
 ## Apollyon's Tower Treasure
 
@@ -24,7 +29,7 @@ A total of 132 small metal bars, neatly organized. Each bar is roughly 8 inches 
 - 4 lead bars
 - 2 cobalt bars
 - 2 platinum bars
-- 2 zinc bar
+- 2 zinc bars
 - 2 arsenic bars
 - 5 brass bars
 - 4 tin bars 
@@ -49,7 +54,7 @@ The remaining 47 are magical or unusual metals:
 - 3 vulcanite bars %%SECRET[v2:e70b63183c1c7e68bf0b9d930c971113]%%
 - 3 nocturium bars %%SECRET[v2:53f182ec221876fceb9db18f3490cb66]%%
 #### Forge Powders
-A collection of twenty boxes, each containing a small quantity of a fine powder. Each box is marked with magical rune representing a word or phrase. They are:
+A collection of twenty boxes, each containing a small quantity of a fine powder. Each box is marked with a magical rune representing a word or phrase. They are:
 - **Death** – A black, ashy powder that smells faintly of decay.
 - **Fire** – A bright red powder that flickers with tiny sparks.
 - **Beauty** – A soft, shimmering rainbow powder.
@@ -85,16 +90,15 @@ Two cracked pieces of once-magical crystal that powered the constructs. %%SECRET
 
 ### Miscellaneous Treasure
 
-Scraps of [[Adamantine]] from Apollyon's lich transformation chamber, totally about 1/2 of a pound. %%SECRET[v2:5c8bb54f9dc12dd69097e0e291f2c2c8]%%
+Scraps of [[Adamantine]] from Apollyon's lich transformation chamber, totalling about 1/2 of a pound. %%SECRET[v2:5c8bb54f9dc12dd69097e0e291f2c2c8]%%
 
 Drankorian coins, totalling 250 gold coins and 3000 silver coins. 
 
 A Drankorian silver water ewer, finely made and decorated with flowing water motifs. %%SECRET[v2:af6ba75583dd84b820edc7c5114b992a]%%
 
-An large gold serving plate, with fine metalwork and an array of dancing animals forming an elegant border. %%SECRET[v2:df430e1c61e22619fbf8516a84372715]%%
+A large gold serving plate, with fine metalwork and an array of dancing animals forming an elegant border. %%SECRET[v2:df430e1c61e22619fbf8516a84372715]%%
 
 Three unadorned gold rings. %%SECRET[v2:e598716963b84aa3c897771c50f29046]%%
 ### Apollyon's Throne
 
 A large gray marble throne, carved of stone, decorated with metalwork and numerous gemstones, with a fine silver pillow built into the seat and back. 
-

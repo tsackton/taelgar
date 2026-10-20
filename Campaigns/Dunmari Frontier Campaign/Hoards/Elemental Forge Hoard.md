@@ -1,6 +1,11 @@
 ---
-tags: [meta]
+lintedAt: "2026-10-20T07:57:56-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
 typeOf: hoard
+campaign: Dunmar Frontier
+name: Elemental Forge Hoard
+POV: 1749
 ---
 # Treasure from the Elemental Forge
 
@@ -17,7 +22,7 @@ The treasure recovered from the [[Elemental Forge]].
 - A [magical gray cloak](https://www.dndbeyond.com/magic-items/4606-cloak-of-elvenkind). Also found in the lead box. 
 - Cold Box. Found in the pantry/storeroom in the living quarters. A 3 foot by 3 foot stone chest that preserves food kept inside indefinitely.
 - Pitcher of Purity. A silver water pitcher found in the bedroom in the living quarters. Any non-magical liquid put inside turns permanently to pure water. 
-- A locked spellbook. Found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. The spellbook's contains are currently unknown. 
+- A locked spellbook. Found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. The spellbook's contents are currently unknown.
 - A silver wand that functions as an arcane focus. Found in the hidden lead box and also once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. If a wizard attunes to the silver wand, it gives +1 to spell attacks and spell DC, and also allows the attuned user to cast the Dancing Lights cantrip without requiring concentration. 
 
 ## Mundane Items
@@ -50,4 +55,20 @@ The treasure recovered from the [[Elemental Forge]].
 - Four elemental rods, one each of fire, earth, air, and water
 - Phoenix feather
 - Starlight dew
-- A 2000 pound magical forge that can be heated to temperatures required to smelt metal without fuel. 
+- A 2000 pound magical forge that can be heated to temperatures required to smelt metal without fuel.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the canonical campaign identity and explicit display name, and recorded the inventory’s acquisition-era POV.
+- Corrected objective prose defects: "The spellbook's contains are currently unknown." → "The spellbook's contents are currently unknown.".
+
+### Validated judgments
+- The note is sufficient as a campaign acquisition inventory; later item dispositions are recorded separately in [[Party Treasure - Former]].
+- Reviewed every SECRET annotation without transferring its contents into shared prose.
+
+### Open findings
+
+- [ ] **Warning — consistency.internal_conflict:** Under “Items recovered from the workshop shelves”, 16 silver bars at 25 gp each total 400 gp, but the entry says “total value 500 gp”. Confirm which figure governs. If the count and unit value are correct, replace only the subtotal with “total value 400 gp”; if 500 gp is intended, verify the count or per-bar value. No treasure amount has been changed.
+%%^End%%

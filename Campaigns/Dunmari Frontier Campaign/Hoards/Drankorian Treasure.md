@@ -1,6 +1,11 @@
 ---
+lintedAt: "2026-10-20T07:57:56-04:00"
+lintVersion: "3.5"
 tags: [meta]
 typeOf: hoard
+campaign: Dunmar Frontier
+name: Drankorian Treasure
+POV: 1749
 ---
 ## From Exploring Drankor
 
@@ -23,4 +28,3 @@ typeOf: hoard
 ## From Apollyon's Temple
 
 - [[Apollyon's Crystal Ball]]
-

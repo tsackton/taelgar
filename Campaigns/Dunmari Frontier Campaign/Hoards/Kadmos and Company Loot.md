@@ -1,6 +1,11 @@
 ---
+lintedAt: "2026-10-20T07:57:56-04:00"
+lintVersion: "3.5"
 tags: [meta]
 typeOf: hoard
+campaign: Dunmar Frontier
+name: Kadmos and Company Loot
+POV: 1748
 ---
 
 ### From Kadmos
@@ -31,7 +36,4 @@ typeOf: hoard
 	- [[Antonia]] has smith's tools, two small diamonds, a nice non-magical silver and pearl ring, and a small pouch with 200 silver coins, 30 gold coins, and 10 low-quality freshwater pearls
 	- [[Casian]] has his arcane focus (a chalyte wand), a pearl, three rings, and a small pouch with 200 gp and four silver brooches
 	- [[Kadmos]] has an ornate silver mirror
-	- The other adventures have collectively 300 gp worth of mixed gold and silver coins. 
-
-
-
+	- The other adventurers have collectively 300 gp worth of mixed gold and silver coins.

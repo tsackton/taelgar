@@ -1,6 +1,11 @@
 ---
-tags: [meta]
+lintedAt: "2026-10-20T07:57:56-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
 typeOf: hoard
+campaign: Dunmar Frontier
+name: "Ra'ghemdros' Hoard"
+POV: 1749
 ---
 
 %%
@@ -38,11 +43,11 @@ Most of Ra'ghemdros' hoard consists of various examples of common, non-magical j
 ### Rings
 There are 15,000 rings in Ra'ghemdros hoard. Most of these are simple bands or signet rings of iron or bronze, but about one-fifth of the rings (3000) in the hoard are more elaborate. These are often signet rings with carved gemstone intaglios, often in moonstone, amethyst, lapis lazuli, garnet, amber, or onyx; solid gold bands of various designs, typically involving animal shapes; or elaborate metalwork with gemstone settings. 
 
-Diamonds, pearls, and rubies -- being important components for amplifying and channeling magic -- are not really used for rings in Drankor, as they reserved typically for imperial use or for common enchantments.  
+Diamonds, pearls, and rubies -- being important components for amplifying and channeling magic -- are not really used for rings in Drankor, as they are typically reserved for imperial use or for common enchantments.
 
 Value:
 - Plain rings: typically between 1-20 sp per ring, although with some care and effort to select the best work could reach up to 50 sp for some items.
-- Elaborate rings: 1-50 gp per ring, with with some care and effort to select the best work could reach 500 gp or more for some items, particularly imperial or other high-status jewelry set with particularly valuable gemstones. 
+- Elaborate rings: 1-50 gp per ring, with some care and effort to select the best work could reach 500 gp or more for some items, particularly imperial or other high-status jewelry set with particularly valuable gemstones.
 
 Volume (assuming relatively low packing volume and some bulky settings):
 - 5000 plain rings per cubic foot
@@ -64,7 +69,7 @@ Volume:
 
 Examples:
 - **An Ivory Comb with Carvings of Flowers and Vines**: This comb features intricate engravings that capture the essence of nature. It feels smooth and elegant in the hand, with each detail beautifully rendered.
-- **A Silver Hairpin**: Decorated with numerous small turquoise beads set among an the silver metalwork of waves. 
+- **A Silver Hairpin**: Decorated with numerous small turquoise beads set among the silver metalwork of waves.
 ### Earrings
 Ra'ghemdros seemed to have a particular fascination with earrings, and this part of the hoard seems particularly complete and well preserved, showing signs of regular cleaning and even repair. There are 5000 pairs of earrings in the hoard, with a particular emphasis on higher quality works; about one-quarter (1250) are more elaborate, often set with gemstones or featuring delicate metalwork. There are also on display about 100 particularly elaborate earrings, typically either hoop designs that highlight a gemstone, or featuring clusters of metalwork and small gems. 
 
@@ -81,7 +86,7 @@ Examples:
 2. **A Set of Silver Hoops with Garnet Pendants**: Each earring has a smooth garnet shaped like a droplet.
 
 ### Necklaces
-The 10,000 necklaces in Ra'ghemdros' hoard are the among the most diverse items in the collection, ranging from simple brass lockets and glass beads on plain silver chains, to elaborate pendants of sapphire and gold. About half the collection (3000) are relatively simple trinkets, another one third (2000) are of better make and craftsmanship but of relatively common metals, and the final one-sixth (1000) include examples of particularly elaborate and fine work in gold, including a hundred or so with gems and other markers of ornate workmanship. Included in this collection are almost 4000 holy symbols, typically in plain silver, brass, or bronze, of the Eight Divines, presumably collected from various pilgrimage sites on the island. 
+The 10,000 necklaces in Ra'ghemdros' hoard are among the most diverse items in the collection, ranging from simple brass lockets and glass beads on plain silver chains, to elaborate pendants of sapphire and gold. About half the collection (3000) are relatively simple trinkets, another one third (2000) are of better make and craftsmanship but of relatively common metals, and the final one-sixth (1000) include examples of particularly elaborate and fine work in gold, including a hundred or so with gems and other markers of ornate workmanship. Included in this collection are almost 4000 holy symbols, typically in plain silver, brass, or bronze, of the Eight Divines, presumably collected from various pilgrimage sites on the island.
 
 Value:
 - Simple trinkets: 5-30 sp
@@ -165,7 +170,7 @@ Examples:
 
 ## Special Items
 
-Ra'ghemdros had selected a number of items for special display. These all seem to be either (a) originally from Hkar, (b) associated with the Drankorian emperors, or (c) particularly elaborated decorated with extensive gem work. These are:
+Ra'ghemdros had selected a number of items for special display. These all seem to be either (a) originally from Hkar, (b) associated with the Drankorian emperors, or (c) particularly elaborately decorated with extensive gem work. These are:
 
 %% 5 cubic feet total %%
 
@@ -189,13 +194,13 @@ Ra'ghemdros had selected a number of items for special display. These all seem t
 
 7. **Ceremonial Stoneborn Shield**: An ornate shield crafted from metal, featuring vivid colors and designs that tell the story of the Stoneborn fighting in the Demonfire Wars against fiends.  %%SECRET[v2:411f5f7eba0c661591ac7087f29424d7]%%
 
-8.  **Fine Gold Necklace**: A striking necklace made of interlinked gold pieces, each set with three teardrops with diamonds. . %%SECRET[v2:6f42a931b7db1f27a015095a9a2a18d1]%%
+8.  **Fine Gold Necklace**: A striking necklace made of interlinked gold pieces, each set with three teardrops with diamonds. %%SECRET[v2:6f42a931b7db1f27a015095a9a2a18d1]%%
 
-9. **Gold Medallion with Intricate Relief**: A large gold medallion featuring a detailed relief of a strange animalistic human figures. %%SECRET[v2:85f8f0f2e75173e63ac78a5b338a8f8c]%%
+9. **Gold Medallion with Intricate Relief**: A large gold medallion featuring a detailed relief of strange animalistic human figures. %%SECRET[v2:85f8f0f2e75173e63ac78a5b338a8f8c]%%
 
 10. **Imperial Signet Ring**: A heavy gold ring featuring the Drankorian imperial crest, used for sealing important documents and symbols of authority. %%SECRET[v2:a6631e8ebc525572141a477633ae2c39]%%
 
-11. ![[dragonet-ring-hoard.jpg|right|300]]**Chased Gold Ring**: A ring made of solid gold with intricate chase work depicting the mythology of dragnets, a rare work of art, eyes of rubies.  %%SECRET[v2:85f8f0f2e75173e63ac78a5b338a8f8c]%%
+11. ![[dragonet-ring-hoard.jpg|right|300]]**Chased Gold Ring**: A ring made of solid gold with intricate chase work depicting the mythology of dragonets, a rare work of art, eyes of rubies.  %%SECRET[v2:85f8f0f2e75173e63ac78a5b338a8f8c]%%
 
 
 
@@ -236,7 +241,7 @@ There are 56 magic items scattered among the common items of the hoard, often no
 
 ### Unusual Items
 
-A selection of magic items were also displayed in the Ra'ghemdros' private museum. These include:
+A selection of magic items were also displayed in Ra'ghemdros' private museum. These include:
 
 1. A small silver jewelry box, decorated with a poem about far-seeing written in Drankorian in an elegant, flowing script. Inside are five large pearls, each painted to resemble an eye. %%SECRET[v2:38966d083e64d634840440f222cbc778]%%
 2. A fine gold chain necklace from which eight perfect rubies hang on thin golden threads. %%SECRET[v2:a173c0b58fd86a8dfaeb7b1821a1a95d]%%
@@ -246,9 +251,27 @@ A selection of magic items were also displayed in the Ra'ghemdros' private museu
 6. A small box made of a strange, shimmering wood that seems to glow faintly, and is hard to look away from. Inside is a pinch of fine powder, multihued and mesmerizing. %%SECRET[v2:036535e644d2bdfdce8fe5336cb35f7f]%%
 7. A greatsword of fine make, apparently Stoneborn smithing, with a hilt decorated with mountain motifs. %%SECRET[v2:b12b6dc231021060d09dc17384f1becc]%%
 8. A small sculpted figurine of a triceratops made from a reddish gemstone. %%SECRET[v2:2b916713179f2e0a549e62732bc3975c]%%
-9. A shortbow, made of an unusual ebony wood that seems to faintly vibrant with excitement. %%SECRET[v2:174df792bd2b13268b6c8c3c149fae47]%%
+9. A shortbow, made of an unusual ebony wood that seems to faintly vibrate with excitement. %%SECRET[v2:174df792bd2b13268b6c8c3c149fae47]%%
 10. A wide belt made of a fine dragonhide leather, with an elaborate silver buckle. %%SECRET[v2:3a3877c2a65f31727731856242750e23]%%
 11. A plain silver ring, unadorned and unmarked, but with a bright, reflective shine. %%SECRET[v2:f95538ed66aa3c47c5647404681f4f12]%%
-12. A wand, its handle wrapped in soft leather, made of a dark metal with streaks of silver and gray irridescence  %%SECRET[v2:4a8450aacf5351a7e2d7aa39aaa36fc6]%%
+12. A wand, its handle wrapped in soft leather, made of a dark metal with streaks of silver and gray iridescence  %%SECRET[v2:4a8450aacf5351a7e2d7aa39aaa36fc6]%%
 
 %%SECRET[v2:8b0a857e79eb2309c200971065c854de]%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added explicit `name`, `campaign: Dunmar Frontier`, and `POV` metadata.
+- Applied objective corrections: `as they reserved typically` → `as they are typically reserved`; `with with some care` → `with some care`; `among an the silver` → `among the silver`; `are the among the most` → `are among the most`; `particularly elaborated decorated` → `particularly elaborately decorated`; `teardrops with diamonds. .` → `teardrops with diamonds.`; `of a strange animalistic human figures` → `of strange animalistic human figures`; `mythology of dragnets` → `mythology of dragonets`; `in the Ra'ghemdros' private museum` → `in Ra'ghemdros' private museum`; `seems to faintly vibrant with excitement` → `seems to faintly vibrate with excitement`; `irridescence` → `iridescence`.
+
+### Validated judgments
+- The campaign-meta ledger does not require name or temporal-interpretation blocks; its substantive inventory is sufficient for its record-keeping role.
+- Local-only SECRET material was reviewed and preserved; no private contents are reproduced in this report.
+
+### Open findings
+
+- [ ] **Warning — correctness.internal_conflict:** In **Necklaces**, the stated total is 10,000, but ‘about half’ is identified as 3,000, ‘one third’ as 2,000, and ‘one-sixth’ as 1,000; these proportions describe 6,000, while almost 4,000 holy symbols are also included. Confirm whether the holy symbols form a separate remainder. If so, replace the split with: ‘Of the roughly 6,000 necklaces other than holy symbols, about half (3,000) are simple trinkets, one third (2,000) are of better make in common metals, and one sixth (1,000) are elaborate pieces. The remaining almost 4,000 necklaces are holy symbols of the Eight Divines.’ Otherwise correct the counts and fractions together. No quantity has been changed automatically.
+
+- [ ] **Suggestion — editorial.prose_clarity:** In **Magic → Common Items**, ‘often not separately particularly from the standard items of their type’ is incomplete and obscures how the magic items are presented. Confirm the intended distinction; a copy-ready candidate is: ‘There are 56 magic items scattered among the common items of the hoard, often not clearly distinguished from the standard items of their type.’
+%%^End%%

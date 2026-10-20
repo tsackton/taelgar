@@ -1,6 +1,11 @@
 ---
+lintedAt: "2026-10-20T07:57:56-04:00"
+lintVersion: "3.5"
 tags: [meta]
 typeOf: hoard
+campaign: Dunmar Frontier
+name: Werewolf Lair Treasure
+POV: 1748
 ---
 
 ## Magic Items
@@ -13,7 +18,7 @@ typeOf: hoard
 - [[Dunmari map of Pandemonium ruins|Map of old Drankorian fort]] protecting area of [[Pandemonium]] influence. Dunmari make. Taken from werewolf lair. Faintly magical.
 - [[Papers from the Fraternity of the Empty Moon]]. Translations left at the [[Tokra]] [[Archives]] with [[Govir]]. No obvious value. 
 ## Other
-- Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. %%SECRET[v2:2d73cd421f8136bbb3944d062c78e340]%%
+- Bottle of a swirling, oily substance that explodes when thrown, from werewolf trap expert. Unknown value. %%SECRET[v2:2d73cd421f8136bbb3944d062c78e340]%%
 - Six white moonstone gems from the werewolf lair.
 - Tarot Cards. Finely painted on thin ivory; Moon Tarot Card found separately on the trap keeper’s person. From the werewolf lair in [[Tokra]]. Probably worth 20-360gp. Sold for 250 gp. 
 - Iron dial used to track moon phases from werewolves in [[Tokra]]. Probably worth 5-30gp. Sold for 6 gp. 
