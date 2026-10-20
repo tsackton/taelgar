@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T11:59:58-04:00"
+lintVersion: "3.5"
 tags: [place, status/check/name]
-typeOf: topographic feature
+typeOf: topographical feature
 typeOfAlias: mountain range
 name: Yengorza
 pronunciation: yen-GOR-za
 whereabouts: Ursk
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # Yengorza
 *(yen-GOR-za)*
@@ -25,4 +28,8 @@ Zengora zen-GOR-ah
 
 %%^Metadata:names:v1%%
 - {name: Yengorza, role: primary, language: Urskan, pronunciation: yen-GOR-za, status: documented}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern mountain geography, glaciers, and river sources; no narrower current-era viewpoint is required.
 %%^End%%

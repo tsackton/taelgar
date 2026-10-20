@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+lintedAt: "2026-10-20T11:59:58-04:00"
+lintVersion: "3.5"
+tags: [place]
 typeOf: realm
+typeOfAlias: monarchy
 ancestry: frost giant
-whereabouts: Hrimthur
+name: Kaldhalla
 pronunciation: KAHL-hal-lah
+whereabouts: Hrimthur
 dm_owner: tim
 dm_notes: important
-typeOfAlias: monarchy
+POV: modern
 ---
 # Kaldhalla
 *(KAHL-hal-lah)*
@@ -23,3 +26,11 @@ Under the rule of King [[Brimskarda]], the giants of Kaldhalla have come to domi
 The largest and strongest of these, and Brimskarda's chief fortress, is [[Isenborg]]. 
 
 %%SECRET[v2:d7d9b96541f7c58948511e5d50b40afe]%%
+
+%%^Metadata:names:v1%%
+- {"name": "Kaldhalla", "language": "unknown", "pronunciation": "KAHL-hal-lah", "status": "documented"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference account of Kaldhalla under Brimskarda's longstanding rule, with earlier origins and decline summarized.
+%%^End%%

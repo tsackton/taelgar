@@ -1,10 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/wip, status/check/ai]
+lintedAt: "2026-10-20T11:59:58-04:00"
+lintVersion: "3.5"
+tags: [place, status/wip, status/check/ai, status/check/lint]
 typeOf: region
-whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
+name: Northern Green Sea
+whereabouts:
+  - {type: home, location: Taelgar, linkText: in}
 dm_owner: joint
 dm_notes: important
+POV: modern
 ---
 # The Northern Green Sea
 >[!info]+ Information  
@@ -45,14 +50,14 @@ markerTag: location-source
 ## Civilizations and Cultures
 _See more: [[Ursk]], [[Vargaldi]]_
 
-The northern coasts of the [[Green Sea]] are a cold and unforgiving land, and it is a place to be careful and on your guard. The land of [[Ursk]] is closed to outsiders, and halfling traders report much fear and suspicion of anyone expressing interest in venturing beyond the trading enclaves of [[Praznitsky]] and [[Zakat]]. The wizards rulers of Ursk, the halflings warn, are not to be disobeyed lightly. 
+The northern coasts of the [[Green Sea]] are a cold and unforgiving land, and it is a place to be careful and on your guard. The land of [[Ursk]] is closed to outsiders, and halfling traders report much fear and suspicion of anyone expressing interest in venturing beyond the trading enclaves of [[Praznitsky]] and [[Zakat]]. The wizard rulers of Ursk, the halflings warn, are not to be disobeyed lightly.
 
 To the north and west of [[Ursk]] the forests stretch for hundreds of miles, and there is little safety here. Halflings bring tales of giant bats, dragons breathing frost, and ice worms the size of small boats. Along the [[Ket]] there are whispered tales of scattered humans known as the [[Vargaldi]] - but the halflings say they are skittish, and are unwilling to spill their secrets. 
 
 The [[Svinjo Mountains]], the halflings say, should be explored cautiously. The dwarves and stoneborn living here are mostly indentured to the frost giants of [[Kaldhalla]], who are not forgiving of questioning outsiders. Little profitable trade can be had here and it is best to avoid the area. 
 ## Climate
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 
 %% TODO
 * [ ] Real world examples
@@ -62,7 +67,7 @@ The [[Svinjo Mountains]], the halflings say, should be explored cautiously. The 
 
 ## Major Historical Eras
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ## DM Notes and Meta
 _See more: [[List of Places in the Northern Green Sea]]_
 
@@ -77,4 +82,35 @@ _See more: [[List of Places in the Northern Green Sea]]_
 *Adventures:*  The Ursk arc of the Dunmar Frontier campaign traveled extensively across this region, including to [[Kaldhalla]], the [[Great Northern Forest]], and [[Ursk]],
 
 *Important Places in Staging:*  [[Yengorza Mountains]]
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name":"Northern Green Sea","language":"unknown"}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference geography; no narrower temporal anchor is established for the visible description.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and added the explicit name, a minimal name block, and broadly modern temporal metadata.
+- Corrected “wizards rulers” to “wizard rulers.”
+- Converted the equivalent legacy `Campaign:None` sentinels to canonical `Campaign:none`.
+
+### Validated judgments
+- The descriptive English regional name does not need a pronunciation; its source language is not established.
+- `status/wip` is supported by the unfinished regional sections. Existing human-review check tags are preserved.
+- The shared DM/meta constraints and brainstorming remain nonpublic and are not promoted into the article.
+
+### Editorial assessment
+**Underdeveloped**: the regional overview has a link-only topography section and no visible account under Climate or Major Historical Eras. Its central gaps are the relationship among the mountains, forest, and rivers; the regional seasonal contrast; and a minimal account of the established giant/dragon history. A short synthesis of the existing geographic notes is sufficient; a comprehensive invented regional history is not required.
+
+- Discussion research: multiple indexed Worldbuilding notes discuss this subject. Use `_scripts/generate_worldbuilding_discussion_index.rb --query` with this note's path before developing the missing material.
+
+### Open findings
+- [ ] **Warning — coverage.established_fact_missing:** The existing Topography and Major Features, Climate, and Major Historical Eras sections provide links, a TODO, or no visible account. [[Great Northern Forest]], [[Yengorza Mountains]], [[Ursk]], and [[Kaldhalla]] establish enough for a minimal regional account. Proposed additions, placed under those headings respectively: “The [[Great Northern Forest]] stretches east from the [[Svinjo Mountains]] across much of the [[Ket]] drainage. The [[Yengorza Mountains]] mark the northern border of [[Ursk]] and feed rivers including the [[Beyil]] and [[Dalinka]].” “Ursk’s coastal plains have long snowy winters and short summers that support agriculture. Farther north, the Great Northern Forest has a late muddy thaw, brief bright summers, and an early return of frost.” “[[Kaldhalla]] predates human settlement around the Green Sea. It shrank after [[Vimfrost's War]] and [[Bjarnfrost|Bjarnfrost’s]] death; its giants now rarely leave their mountain strongholds.” These bounded additions fill the established central gaps without inventing a region-wide chronology.
+- [ ] **Suggestion — dm.notes_no_local_evidence:** No `_DM_` notes found; verify `dm_notes: important`. The mechanical direct-identity dossier has no matches. Keep the human attestation unless its owner confirms a change; remembered or off-vault information may support it.
 %%^End%%

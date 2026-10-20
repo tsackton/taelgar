@@ -1,10 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/ai]
+lintedAt: "2026-10-20T11:59:58-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/ai, status/check/lint]
 typeOf: region
-whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
+name: Northern Sentinels
+whereabouts:
+  - {type: home, location: Taelgar, linkText: in}
 dm_owner: tim
 dm_notes: important
+POV: modern
 ---
 # The Northern Sentinels
 >[!info]+ Information  
@@ -41,11 +46,11 @@ markerTag: location-source
 
 ## Topography and Major Features
 
-Even among the halflings, few have dared to map this region, nestled on the west side of the [[Sentinel Range]], and even among the most daring traders, few find profit traveling these dangerous lands. Much of the region dominated by the northern [[Sentinel Range|Sentinels]] and the forests and rivers on their western slopes, making travel slope and difficult. The mountains themselves are snowy and rocky, with the highest peaks cold and frozen year round. 
+Even among the halflings, few have dared to map this region, nestled on the west side of the [[Sentinel Range]], and even among the most daring traders, few find profit traveling these dangerous lands. Much of the region is dominated by the northern [[Sentinel Range|Sentinels]] and the forests and rivers on their western slopes, making travel slow and difficult. The mountains themselves are snowy and rocky, with the highest peaks cold and frozen year round.
 
-The information reported here largely derives from the [[Northern Tribes|scattered human tribes]] in the area speak of the dangerous forests and swamps:
+The information reported here largely derives from the [[Northern Tribes|scattered human tribes]] in the area, who speak of the dangerous forests and swamps:
 
-- The [[~Pandar Volcanic Range~|trecharous mountains]], once the borders of [[Cha'mutte]]'s realm, now a place all sensible folk fear.
+- The [[~Pandar Volcanic Range~|treacherous mountains]], once the borders of [[Cha'mutte]]'s realm, now a place all sensible folk fear.
 * The [[Forest of Nightmares]], said to be haunted, cursed by [[Cha'mutte]] during the [[Great War]].
 * The [[Blackwater Fens]], a dank bog from which the [[Nahadi]] arises.
 
@@ -88,7 +93,7 @@ The mountains here are snowy, rocky, and volcanic, marked by pine forests on the
 The fens probably have a similar ecosystem to the [Hudson Bay bog](https://en.wikipedia.org/wiki/Southern_Hudson_Bay_taiga), although perhaps a little bit warmer -- an "insect-infested landscape of bog and fog". 
 %%^End%%
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 ## DM Notes and Meta
 
 *Canonical Development and Constraints:* [[Pandar]] was canonically [[Cha'mutte]]'s primary permanent territory, and a large number of kenku enslaved by Cha'mutte lived here prior to the [[Great War]]. The history of the [[Timeline of the Northern Deno'qai|northern Deno'qai]], including some details of the Great War era, and their current [[Northern Tribes|culture and territory]] is well developed. The [[Forest of Nightmares]], and the [[Blackwater Fens]], have some canonical details. Stoneborn, at least, canonically live in the [[Sentinel Range|Sentinels]] in this region. 
@@ -123,4 +128,32 @@ FROM "Worldbuilding/Staging"
 WHERE any(filter(file.inlinks, (b) => contains(meta(b).path, "Northern Sentinels")))
 SORT length(file.inlinks) DESC
 ```
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {name: Northern Sentinels, language: Common, status: inferred, notes: "The displayed form is an ordinary English geographic title."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography and sparse settlement after the Great War, with older Pandar and migration history presented as historical background.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter; added the explicit subject name, persistent name metadata, and broadly modern POV interpretation.
+- Corrected the missing “is,” “travel slope,” “trecharous,” and the broken relative clause introducing the tribes’ reports.
+- Converted `Campaign:None` to the canonical `Campaign:none` sentinel without changing its private visibility.
+
+### Validated judgments
+- The name is an ordinary English geographic title and needs no pronunciation.
+- The overview’s limited detail is proportionate to its role and its explicit policy of leaving much of the region undeveloped. Existing `status/check/ai` is preserved.
+
+### Open findings
+
+- [ ] **Warning — correctness.internal_conflict:** The introduction calls the region “unpeopled,” while Civilizations and Cultures identifies northern Deno’qai, Fahnukan, and stoneborn residents; [[Northern Tribes]] and [[Ko'zula]] describe inhabited villages. Candidate: replace “wild and unpeopled land” with “wild and sparsely populated land,” preserving the surrounding statements about danger and limited outside knowledge.
+- [ ] **Warning — correctness.cross_note_conflict:** Topography says the [[Nahadi]] arises in the [[Blackwater Fens]], but [[Nahadi]] identifies Lake Valandros as its source, while [[Barzhen]] and [[Blackwater Fens]] name the Barzhen as the river draining the fens. Candidate for human review: “The [[Blackwater Fens]], a dank bog drained by the [[Barzhen]].” Reconcile the linked hydrology before replacing the existing wording.
+- [ ] **Suggestion — dm.notes_no_local_evidence:** No `_DM_` notes found; verify `dm_notes: important`. It may attest to remembered information or off-vault material, so it remains unchanged.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The ordinary culture checklist repeats the visible Deno’qai, Fahnukan, and stoneborn entries, and the `Canonical Development and Constraints` paragraph repeats the visible Pandar, enslaved kenku, and Great War summary. Remove those repeated summaries or retain only distinct editorial constraints and source pointers. Keep the unanswered species questions, tentative migration route, noncanonical brainstorming, intentional blank-area policy, campaign source guidance, and dataview research queries in nonpublic form. No private material was promoted or reorganized.
 %%^End%%
