@@ -1,15 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-name: Wistel–Enst Watershed
+lintedAt: "2026-10-20T07:22:39-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: watershed
+name: Wistel–Enst Watershed
 whereabouts:
-  - type: home
-    location: Greater Sembara
-    linkText: in
+  - {type: home, location: Greater Sembara, linkText: in}
 dm_owner: none
 dm_notes: none
+POV: modern
 ---
 # The Wistel–Enst Watershed
 >[!info]+ Information  
@@ -34,7 +34,7 @@ The Aure supports regular riverboat traffic between [[Adderfell]] and the [[Enst
 Once the Enst and the Wistel join, the river becomes a marshy delta with many meandering paths as it moves through [[Ozabal|Ozabal Swamp]], and it is not generally navigated further east of Wisford (on the Wistel) and Eskbridge (on the Enst).
 
 
-%%^Campaign:None%%
+%%^Campaign:none%%
 
 ## Rivers in the Wistel-Enst watershed
 
@@ -167,4 +167,29 @@ dv.table(["Place", "Type Of"],
 				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
 ```
 
+%%^End%%
+
+%%^Metadata:names:v1%%
+- {"name":"Wistel–Enst Watershed","language":"unknown","pronunciation":"WISS-tel ENST WAW-ter-shed","status":"proposed","notes":"Proposed using the English side of the Sembaran analogues in [[Languages]]: Wistel has initial w, short i, and unstressed el; Enst retains its one-syllable nst cluster; watershed has its ordinary English reading. The name language and accepted river pronunciations remain unconfirmed."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern watershed geography, navigation, and crossings; bridge-construction dates are not established.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting while preserving parsed values.
+- Converted legacy Campaign:None to canonical Campaign:none without moving its contents.
+- Added a persistent name entry, preserving recorded pronunciation and meaning and leaving unsupported language unknown.
+- Recorded POV: modern and concise persistent temporal interpretation.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** The persistent name entry proposes `WISS-tel ENST WAW-ter-shed`. Proposed using the English side of the Sembaran analogues in [[Languages]]: Wistel has initial w, short i, and unstressed el; Enst retains its one-syllable nst cluster; watershed has its ordinary English reading. The name language and accepted river pronunciations remain unconfirmed. Confirm or replace this full-name proposal; if accepted, copy it to frontmatter and mark the existing entry `documented`.
 %%^End%%

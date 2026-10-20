@@ -1,19 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
+lintedAt: "2026-10-20T07:22:39-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: waterway
-aliases:
-  - Nahadi River
-whereabouts:
-  - type: primary
-    location: Greater Chardon
-  - type: secondary
-    location: Chasa-Nahadi Watershed
-dm_notes: none
-dm_owner: none
-pronunciation: nah-HAH-dee
 typeOfAlias: river
+name: Nahadi
+aliases: [Nahadi River]
+pronunciation: nah-HAH-dee
+whereabouts:
+  - {type: primary, location: Greater Chardon}
+  - {type: secondary, location: Chasa-Nahadi Watershed}
+dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # Nahadi
 *(nah-HAH-dee)*
@@ -48,3 +48,36 @@ Irrigation ditches and simple norias lift water onto terraced vineyards (produci
 
 %%^End%%
 
+%%^Metadata:names:v1%%
+- {"name":"Nahadi","language":"Old Northros","pronunciation":"nah-HAH-dee","status":"documented","meaning":"mighty river"}
+%%^End%%
+
+%%^Metadata:map:v1%%
+locations:
+  - {role: source, feature: Lake Valandros, map: world, locator: }
+  - {role: outlet, feature: Metium, map: world, locator: 13.07.A24}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern river geography, navigation, and trade role; the older name derivation is not dated.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter order and collection formatting while preserving parsed values.
+- Recorded the existing subject name explicitly in frontmatter.
+- Added a persistent name entry, preserving recorded pronunciation and meaning and leaving unsupported language unknown.
+- Added typed map entries; used the Metium confluence coordinate from [[Metium]] for the outlet and left the source locator blank.
+- Recorded POV: modern and concise persistent temporal interpretation.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — metadata.map_location_missing:** The existing map block lacks verified world-map `locator` values for source. Fill those blank values with confirmed coordinates, preserving recorded features and roles.
+
+- [ ] **Suggestion — editorial.shared_material_redundant:** The Geography & Terrain paragraph in the raw-notes Campaign:none block repeats the public natural-levees, western irrigated-fields, and eastern oak-pine-foothills sentence. Remove that duplicated sentence from the hidden paragraph; retain the distinct river-width, backwater, climate, agriculture, and fauna ideas as clearly unadopted planning. Do not promote those ideas into public prose.
+%%^End%%

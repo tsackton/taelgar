@@ -1,16 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-name: Aursen
+lintedAt: "2026-10-20T07:22:39-04:00"
+lintVersion: "3.5"
+tags: [place, status/check/lint]
 typeOf: waterway
+typeOfAlias: river
+name: Aursen
+aliases: [Aursen River, River Aursen]
 whereabouts: Istaros Watershed
-aliases:
-  - Aursen River
-  - River Aursen
 dm_owner: none
 dm_notes: none
-typeOfAlias: river
+POV: modern
 ---
 # Aursen
 >[!info]+ Information  
@@ -81,3 +81,43 @@ The Aursen starts in the foothills of the [[Sentinel Range]], fed by snowmelt as
 **Aurbez Context:** Aursen Crossing shifted from a modest ferry hamlet to a bustling market town once the stone bridge was built a generation ago. Like Regensburg, the bridge cemented its role as a control point for trade and movement. The Refounded Alliance uses toll revenue to fund road patrols and maintain influence in the lowlands, and in wartime, “hold the bridge” becomes a rallying cry for defending the plateau’s link to the outside world.
 
 %%
+
+%%^Metadata:names:v1%%
+- {"name": "Aursen", "language": "unknown", "pronunciation": "OR-sen", "status": "proposed", "notes": "A cautious spelling-based proposal: au as aw/or, first-syllable stress, s as in sun, and a reduced final en. The target and direct geographical and session sources do not establish the name language or an accepted pronunciation, so no particular language analogue can securely control this reading."}
+%%^End%%
+
+%%^Metadata:map:v1%%
+locations:
+  - {role: source, feature: Sentinel Range, map: world, locator: }
+  - {role: outlet, feature: Andonne, map: world, locator: }
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern river geography and lizardfolk settlement, with the welcome given to early refugees as historical background; the entry does not describe a particular wartime state.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter field order and collection formatting without changing existing values.
+- Recorded a broadly modern article POV and persistent temporal-coverage guidance.
+- Added primary name metadata with a proposed pronunciation and its derivation.
+- Added typed source/outlet map entries, leaving unestablished coordinates blank.
+
+### Validated judgments
+- The direct geographical sources corroborate the upper marsh basin and downstream confluence. Incidental campaign encounters and proposed wartime timings do not establish a missing defining river event; local private recovery content remains outside this report.
+
+### Open findings
+
+- [ ] **Warning — metadata.map_location_missing:** The source and outlet `locator` values remain blank in the required map block. The reviewed direct sources do not establish verified world-map coordinates. Fill each existing typed entry with its verified coordinate as a quoted string; retain its source/outlet role and do not infer a hex from the broader whereabouts.
+
+- [ ] **Warning — metadata.names_unresolved_status:** Review the proposed complete pronunciation `OR-sen` in the persistent name block. A cautious spelling-based proposal: au as aw/or, first-syllable stress, s as in sun, and a reduced final en. The target and direct geographical and session sources do not establish the name language or an accepted pronunciation, so no particular language analogue can securely control this reading. Accept or revise the proposal; if accepted, copy the complete value into frontmatter and mark the existing entry `documented`.
+
+- [ ] **Suggestion — editorial.public_material_candidate:** In the ordinary “The Aursen River – Geography and Historical Parallels” comment, the “Plateau Marshlands → Aurbez Context” paragraph gives a developed seasonal account that could explain how the marshes are used. Consider this bounded public candidate: “Spring snowmelt floods the upper Aursen basin, where reed boats carry travelers through the marshes. As the water recedes in summer, peat cutting and grazing become important, while hardy crops are grown on the drier fringes.” This is a proposal for human adoption from a noncanonical comment, not an attestation that every practice is established. [[Aursen Marshes]] corroborates spring flooding and farming on the marsh edges. Retain the real-world parallels and unadopted festivals, councils and toll arrangements as development guidance; reconcile the comment's ‘Aursen Crossing’ label with [[Aursenbourg]] before adopting that separate section.
+
+### DM evidence
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Aurbez NPC Charts]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 129 - DM Notes]]
+- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 130 - DM Notes]]
+%%^End%%
