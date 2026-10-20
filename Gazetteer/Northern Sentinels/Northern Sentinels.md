@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
 dm_owner: tim
@@ -13,7 +13,7 @@ dm_notes: important
 
 Even among the halflings, few reliable tales come from the northern reaches of the great [[Sentinel Range]]. This is a wild and unpeopled land, haunted by the scars of the [[Great War]], and spoken of uncertainly, in hushed tones even among the adventurous. What stories do drift south speak of vast pine forests, uninhabitable bogs, and the tall mountain peaks of the [[Sentinel Range#Northern Sentinels|northern Sentinels]], painting a picture of a rugged and beautiful, but inhospitable and dangerous, landscape. 
 
-```leaflet 
+```taelgar-map 
 id: region-map-taelgar
 image: [[north-sentinels-map.png]]
 bounds: 

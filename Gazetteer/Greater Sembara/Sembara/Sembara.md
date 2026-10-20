@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 displayDefaults: {ruledBy: "Ruled by: <name> <((since )startDate())>"}
-tags: [place, status/review, status/check/lint]
+tags: [place, status/review, status/check/lint, status/check/ai]
 typeOf: realm
 typeOfAlias: monarchy
 name: Sembara
@@ -47,7 +47,7 @@ Many Sembarans point to the story of Anne's attempt to use a geas against her tw
 
 ## Map
 
-```leaflet 
+```taelgar-map 
 id: region-map-sembara
 image: [[[sembara-regions.png]]] 
 bounds: 

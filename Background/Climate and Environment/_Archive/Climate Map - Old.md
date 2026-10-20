@@ -1,5 +1,5 @@
 ---
-tags: [background]
+tags: [background, status/check/ai]
 dm_owner: joint
 dm_notes: none
 ---
@@ -10,7 +10,7 @@ dm_notes: none
 
 This is a historical climate-design map, no longer considered canonical.
 
-```leaflet 
+```taelgar-map 
 id: climate-map-taelgar
 image: [[world-map-climate-clean.png]] 
 bounds: 

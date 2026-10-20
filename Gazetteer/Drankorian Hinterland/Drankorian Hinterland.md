@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/wip]
+tags: [place, status/wip, status/check/ai]
 displayDefaults: {defArt: 'the' }
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
@@ -27,7 +27,7 @@ dm_notes: none
 ## Map
 
 
-```leaflet 
+```taelgar-map 
 id: region-map-drankor
 image: [[region-drankorian-hinterland.png]] 
 bounds: 

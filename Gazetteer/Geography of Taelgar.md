@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/check/ai]
 name: The World of Taelgar
 dm_notes: none
 dm_owner: none
@@ -38,7 +38,7 @@ To ease worldbuilding, Taelgar is divided up into 13 regions, listed approximate
 10. the [[Northern Green Sea]], dominated by mighty northern forests, and home to the mysterious land of [[Ursk]]
 11. the [[Western Green Sea]], where the [[Skaerhem|Skaer Islands]] are, as well as the [[Cymean Peninsula]] and other descendant civilizations of Drankor
 
-```leaflet 
+```taelgar-map 
 id: region-map-taelgar
 image: [[world-map-regions-new.png]] 
 bounds: 

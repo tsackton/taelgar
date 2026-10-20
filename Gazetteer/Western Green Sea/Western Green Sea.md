@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/wip]
+tags: [place, status/wip, status/check/ai]
 displayDefaults: {defArt: 'the' }
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
@@ -27,7 +27,7 @@ The halfling story of the western [[Green Sea]] is one of mariners and sailors, 
 ## Map
 
 
-```leaflet 
+```taelgar-map 
 id: region-map-taelgar
 image: [[region-west-green-sea.png]] 
 bounds: 
