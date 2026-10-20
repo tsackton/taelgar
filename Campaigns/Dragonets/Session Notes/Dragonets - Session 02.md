@@ -62,8 +62,7 @@ Following a morning of memories and improbable breakfasts, Heska, Sculpit, Littl
 - [[Circular Island]] (island in the [[Sea of Storms]]): The friends' home island, where dormant mechanisms respond to them and [[The Wanderer|the Wanderer]] awakens. Session context includes: The Wanderer's palm, the oadside food machine, Oru's tent at the Jubilee temple grounds, and inside the Wanderer's statue.
 
 ## Narrative
-
-> [!image|right small]
+> [!image|right standard]
 > ![[dragonets-01-wanderer.webp]]
 > *The Wanderer’s palm, where the friends wake after the vision.*
 
