@@ -1,3 +1,11 @@
+---
+lintedAt: "2026-10-19T23:30:08-04:00"
+lintVersion: "3.5"
+tags: [source]
+campaign: Lost in the Feywild
+name: Transcriptions from the Prisoner of The 27th Room
+POV: 1740
+---
 ## Transcriptions from the Prisoner of The 27th Room
 
 ### The Child
@@ -45,3 +53,8 @@
 “You are bringing five friends to help me. They are outside my room right now. They are hearing me.”
 
 “They are coming to my door and I think they are stepping inside.”
+
+%%^Metadata:names:v1%%
+- {"name": "Transcriptions from the Prisoner of The 27th Room", "language": "Common", "status": "inferred", "notes": "Plain-English displayed compilation title; this does not establish the language spoken by the prisoner."}
+- {"name": "Transcriptions from the Prisoner", "role": "alias", "language": "Common", "status": "inferred", "notes": "Short form used by the filename and campaign links."}
+%%^End%%

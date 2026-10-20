@@ -1,12 +1,17 @@
 ---
-tags: [source]
+lintedAt: "2026-10-19T23:30:08-04:00"
+lintVersion: "3.5"
+tags: [source, status/check/lint]
+campaign: Great Library
+name: Letter from Chardon for Samso on the Umbral Covenant
+POV: 1748
 ---
 
 Dear Samso,
 
 It is my pleasure to pass along the research I have been able to gather concerning the [[Umbral Covenant]] and the strange sigil you have found in several places. I am currently stuck dealing with political troubles in Chardon, but I hope to return to Voltara soon and speak with you and your companions again. Rumors of your prowess reach me even here. 
 
-The sigil, I must report, is a puzzle even to our most knowledgable scholars. There is nothing like it in all the records of the Great Library, nor have my colleagues at the University of Chardon found any copies of an identical sigil in their records. All I am able to report is the information from a arcane linguist, but what she says makes little sense. She claims it resembles a glyph used in spellcasting, but it is unrelated to any known spell. Stranger, one can potentially deconstruct it into three runes of the ancient Northros language, which, if true, mean "Sleep Nevermore". But how an extinct language might be connected to an unknown spell glyph is far from clear! 
+The sigil, I must report, is a puzzle even to our most knowledgeable scholars. There is nothing like it in all the records of the Great Library, nor have my colleagues at the University of Chardon found any copies of an identical sigil in their records. All I am able to report is the information from an arcane linguist, but what she says makes little sense. She claims it resembles a glyph used in spellcasting, but it is unrelated to any known spell. Stranger, one can potentially deconstruct it into three runes of the ancient Northros language, which, if true, mean "Sleep Nevermore". But how an extinct language might be connected to an unknown spell glyph is far from clear!
 
 The Umbral Covenant is a more fruitful topic. There are of course many records of the [[War of the Dark Rift]], which you must have access to the most popular in Voltara. Thus I need not summarize the details in depth. Suffice to say, the Umbral Covenant swept out of the mountains of Apporia, and quickly conquered the people of the coast. In a few short years, they had constructed a massive armada, and sailed in force for Chardon itself. Chardon's victory over the Shadow Armada is widely seen as a turning point and the beginning of the Chardonian Empire. 
 
@@ -19,3 +24,21 @@ These first settlers spoke the Northros language, so one wonders if the sigil yo
 While I do not know if this information helps you, if you wish to learn more I would suggest a journey to Apporia. The city of Castrella may be a good place to start. Rumors of the Wolf-Queen likely are dismissed as folk legends and mythical tales, but from Castrella you might have more luck finding the source of these tales. 
 
 Archivist Lyra
+
+%%^Metadata:names:v1%%
+- {"name": "Letter from Chardon for Samso on the Umbral Covenant", "language": "unknown", "pronunciation": "LET-er from CHAR-din for SAHM-soh on thuh UM-brul KUV-uh-nunt", "status": "proposed", "notes": "Descriptive work label; the title language is not established. The full proposal combines ordinary English with documented CHAR-din in [[Chardon]] and SAHM-soh in [[Samso]]. The complete work-title reading remains proposed."}
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added canonical campaign and explicit name metadata, source-profile viewpoint, and persistent work-title name entries. Corrected `knowledgable` to `knowledgeable`; `from a arcane linguist` to `from an arcane linguist`.
+
+### Validated judgments
+- This in-world source is sufficient for its documentary role; its speaker's beliefs, uncertainty and historical viewpoint are preserved.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Review `LET-er from CHAR-din for SAHM-soh on thuh UM-brul KUV-uh-nunt` for the complete descriptive title. The proper-name components use documented `CHAR-din` in [[Chardon]] and `SAHM-soh` in [[Samso]]; the other words use their ordinary English readings. Neither the complete title's language nor its pronunciation is explicitly recorded. Accept or revise the proposed entry and mark it documented when accepted.
+%%^End%%
