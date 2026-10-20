@@ -61,6 +61,11 @@ maxZoom: 3
 defaultZoom: 0
 unit: miles 
 scale: 0.5
+calibration:
+  hexMiles: 24
+  hexPixels: 40.333333333333336
+  imageSize: [2308, 2468]
+  imageSha256: d9f0f94036483065b5a15e86afdc84c2f7bb2704b81abb4a3ca4b8532dda8913
 ```
 
 %%^Campaign:None%%

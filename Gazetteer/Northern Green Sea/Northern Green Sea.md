@@ -29,6 +29,11 @@ maxZoom: 0
 defaultZoom: -2
 unit: miles 
 scale: 0.5
+calibration:
+  hexMiles: 24
+  hexPixels: 30.250000000000004
+  imageSize: [2534, 1076]
+  imageSha256: 4bb3154966e59f9d6494cc5e97f8b6734bfa9a84abcbd412120f7cd94ec34e56
 draw: false
 darkMode: false
 markerTag: location-source
