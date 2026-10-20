@@ -1,13 +1,17 @@
 ---
-tags: [source]
+lintedAt: "2026-10-20T09:49:52-04:00"
+lintVersion: "3.5"
+tags: [source, status/check/lint]
 DR: 1720-01-12
 DR_end: 1720-01-13
+campaign: Cleenseau
+name: "Celyn's Musings on Magic"
 POV: 1720
 ---
 
 # Celyn's Musings on Magic
 
->[!Info]- This is Celyn's thoughts on magic; please don't read it unless it has been revealed in game
+>[!Info]- These are Celyn's thoughts on magic; please don't read it unless it has been revealed in game
 >
 > In the end, Celyn really went on the road with [[Viepuck]] because he felt nudged. He was not sure what useful he could do - the boy was much better at the quick-thinking social plays than he was, he’d noticed that - but he had brought the Wyrdling in to lean on the former lord, and he felt responsible to make sure the situation was resolved usefully.
 >
@@ -25,7 +29,7 @@ POV: 1720
 >
 > Ampelos had taught Celyn a lot of things. The more complicated drum rhythms, for example, the ones that matched the wildness of the music he played on his pipes. Tricks to being quiet in the woods. And, of course, in exchange for a bottle of wine, “The good stuff,” he’d said, the bottles that were usually reserved for sending to the earl as part of the labor tithe, he taught Celyn magic. “Be careful, little bird,” he had said, “and don’t get caught.” Ampelos had always called him ‘little bird’ back then; his first name, the one the Wyrdling’s birds had carried away, had meant a particular bird, after all.
 >
-> He had been careful. He had studied locks, figuring out how they worked, figuring out how to open them. He had practiced moving silently, and studying the rhythms of things. And when he thought he was ready - Ampelos had been clear that he was in no particular hurry about it, so Celyn had plenty of time - he slipped in to the storage, found a bottle that was not tucked into the neat and orderly ranks of things that would be easily spotted as missing, and escaped with it trumphantly.
+> He had been careful. He had studied locks, figuring out how they worked, figuring out how to open them. He had practiced moving silently, and studying the rhythms of things. And when he thought he was ready - Ampelos had been clear that he was in no particular hurry about it, so Celyn had plenty of time - he slipped in to the storage, found a bottle that was not tucked into the neat and orderly ranks of things that would be easily spotted as missing, and escaped with it triumphantly.
 >
 > Now, thinking back, he wondered if there might have been some sort of problem with the earl if the theft had been caught, but back then he had been something like twelve, and still in the immortality of childhood and the sheer victorious thrill of having gotten away with it. It was before he had gotten old enough to have curves, like El had told in their story, or any of the things that made him despairing and angry and furiously taking out vengeance on a world that had stopped making sense.
 >
@@ -55,10 +59,26 @@ POV: 1720
 >
 > He had been nudged into something larger. By the fey, yes, but the Wyrdling had made their opinion known about the situation by protecting the temple, a feat of sanctuary well beyond Celyn’s small miracles. He suspected El had a grand capacity for miracles, really, more than he felt he could handle. Or maybe the great, implausible miracles, the ones grander than the ones he had, were some different category of thing. The fey had brought him, the Wyrdling approved, and here in this space where the fey would not come out directly, he saw fey in his dreams, who taught him things, who put on the seeming at least of ones he knew.
 >
-> And some old enemy of the Queen claimed this land. His roots ached wth the knowledge of that, at times, and at wondering if there was some sort of unity of all of himself, brought by chance and fate, to this place where he was fundamentally a stranger, but where what he knew seemed a lever to bend events.
+> And some old enemy of the Queen claimed this land. His roots ached with the knowledge of that, at times, and at wondering if there was some sort of unity of all of himself, brought by chance and fate, to this place where he was fundamentally a stranger, but where what he knew seemed a lever to bend events.
 >
 > Thoughts like that occupied him up until he spotted the heap of dead sheep. He didn’t know much about sheep but that was certainly not how they ought to behave.
 
 %% Email from Kiya Nicoll on March 21, 2024 with subject "Celyn contemplates the worldbuilding and remembers his childhood" %%
 
 %% In-world time: Present-time frame is Celyn’s ride with Viepuck after meeting El, around the January 1720 pursuit of Lorin (Session 12); memories reach back into childhood. %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `campaign: Cleenseau` and the explicit display name; retained the source classification and year POV.
+- Corrected the callout’s subject–verb agreement from “This is Celyn’s thoughts” to “These are Celyn’s thoughts”.
+- Corrected `trumphantly` to `triumphantly` and `wth` to `with`.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Error — privacy.player_only_callout_visible:** The opening INFO callout says “please don’t read it unless it has been revealed in game”, while the complete account remains in an ordinary collapsed callout with no publication exclusion or private content wrapper. Collapsing it does not enforce that disclosure restriction, and `campaign: Cleenseau` identifies the document rather than resolving its audience. A human must confirm whether the account has been revealed and approved for the current audience. If so, remove only the obsolete restriction clause from the callout heading. If the account should remain shared DM material excluded from Taelgarverse, place `%%^Campaign:none%%` immediately before the complete existing callout and `%%^End%%` immediately after its final quoted line, leaving the two source/chronology comments outside. If local-only retention is intended instead, use the adopted local-only block mechanism for that same unchanged callout. No visibility change has been applied.
+%%^End%%

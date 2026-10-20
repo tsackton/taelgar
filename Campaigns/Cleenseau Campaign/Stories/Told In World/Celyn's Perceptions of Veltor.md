@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-20T09:49:52-04:00"
+lintVersion: "3.5"
 tags: [source]
 DR: 1720-02-21
+campaign: Cleenseau
+name: "Celyn's Perceptions of Veltor"
 POV: 1720
 ---
 
@@ -14,7 +18,7 @@ It wasn’t that it was a particularly large city - it certainly wasn’t. Celyn
 
 He wondered briefly if Pryce would be surprised.
 
-Dealing with all the politics was something that he found deeply discomfiting. Proximity to the levers of power was the sorts of thing that nothing in his childhood had prepared him for and he did not like the change at all. It did not have enough honest, practical work about it, though he suspected that people would probably look at him oddly if he said so, but his own apprenticeship had been its own sort of dealing with honest, practical work.
+Dealing with all the politics was something that he found deeply discomfiting. Proximity to the levers of power was the sort of thing that nothing in his childhood had prepared him for and he did not like the change at all. It did not have enough honest, practical work about it, though he suspected that people would probably look at him oddly if he said so, but his own apprenticeship had been its own sort of dealing with honest, practical work.
 
 Also, he suspected Robin was more comfortable with the barracks than he was, overall. On the other hand, the two of them had managed somehow to land their own room, the third bed empty, and that was so much easier on his nerves than sharing with anyone else, particularly since he had been working hard on turning ‘wanting to trust Robin with this’ into ‘actually kind of trusting Robin with this’. It was more of a refuge than any crowded inn, at least. And the others did well making friends with their roommate, and that turned out to be useful in the long run of getting people safely out of the keep.
 

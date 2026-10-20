@@ -1,5 +1,9 @@
 ---
+lintedAt: "2026-10-20T09:49:52-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Cleenseau
+name: "Greymalkin's Story"
 POV: 1720
 ---
 
@@ -30,7 +34,7 @@ He pauses.
 
 "Until I heard your calling in the darkness. A flare of daylight, driving away shadows. I felt the light of the Sunblade again. I felt my pride and purpose returning. Aelirios' light back in the world! I sprung forth from my despair and found you, and I will not fail again!"
 
-%% he is pretty clearing referring to the Lantern of the Bright Hearth here, and in particular, the time Robin cast daylight from it and drove away the shadows] %%
+%% he is pretty clearly referring to the Lantern of the Bright Hearth here, and in particular, the time Robin cast daylight from it and drove away the shadows %%
 
 The determination fades a bit, and he returns to his normal self.
 

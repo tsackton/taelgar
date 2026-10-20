@@ -1,6 +1,10 @@
 ---
-tags: [source]
+lintedAt: "2026-10-20T09:49:52-04:00"
+lintVersion: "3.5"
+tags: [source, status/check/lint]
+campaign: Cleenseau
 DR: 1719-12-11
+name: "Celyn's Miracle Story"
 POV: 1719
 ---
 
@@ -25,3 +29,18 @@ POV: 1719
 %% Email from Kiya Nicoll on September 23, 2023 with subject "I just wanted to run this by you" %%
 
 %% In-world time: Told by Celyn to Robin during Viatela in 1719. The miracle recalled occurred in his adolescence, around 1715 by his background timeline. %%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `campaign: Cleenseau` to this campaign source record.
+- Recorded the existing document title in `name`; retained its source classification and year POV.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Error — privacy.player_only_callout_visible:** The opening INFO callout says “Please don’t read it unless Celyn has revealed in game”, but a collapsed callout leaves the complete telling visible to readers and publication. Confirm whether it has now been revealed and is approved for the current audience; if so, remove the obsolete restriction. Otherwise, place `%%^Campaign:none%%` immediately before the complete existing callout and `%%^End%%` immediately after it for shared DM retention, or retain that same unchanged callout inside a local-only SECRET comment using the vault’s documented syntax. Keep the email and chronology comments outside the wrapper. The linter has not changed visibility.
+%%^End%%
