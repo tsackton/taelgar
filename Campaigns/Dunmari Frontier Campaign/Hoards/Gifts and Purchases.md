@@ -1,6 +1,11 @@
 ---
+lintedAt: "2026-10-20T07:57:56-04:00"
+lintVersion: "3.5"
 tags: [meta]
 typeOf: hoard
+campaign: Dunmar Frontier
+name: Gifts and Purchases
+POV: 1740s
 ---
 ## Gifts
 
@@ -10,7 +15,7 @@ typeOf: hoard
 - Celestial Gem of Protection (rare major item). A gift from a celestial, produced by celestial magic and given to [[Riswynn]] in exchange for her aid.
 - [[Silverspark Gauntlets]] (uncommon major item), from [[Nora Silverspark]]'s ghost
 - Spell Scroll of Cure Wounds at 2nd level (Gift from [[Suma]] in [[Karawa]]) %%SECRET[v2:f511b74186c1a0f6db88e3abc018e9df]%%
-- [[Delwath's Elven Breastplate]], from his days as a solider in the Great War. Worn by Delwath into battle during the Great War, then lost when he fell out of Cha'mutte's shadow dimension. Returned to Delwath, with a fragment of [[Inkaye]] attached, by [[Avaras]] and [[Pava]]. Later, [[Umli]] removed the [[Inkaye]], rendering the armor non-magical. The [[Inkaye]] was used to create the Rainbow Prism by Faldrak at the [[Elemental Forge]].
+- [[Delwath's Elven Breastplate]], from his days as a soldier in the Great War. Worn by Delwath into battle during the Great War, then lost when he fell out of Cha'mutte's shadow dimension. Returned to Delwath, with a fragment of [[Inkaye]] attached, by [[Avaras]] and [[Pava]]. Later, [[Umli]] removed the [[Inkaye]], rendering the armor non-magical. The [[Inkaye]] was used to create the Rainbow Prism by Faldrak at the [[Elemental Forge]].
 
 **Books**
 - [[The Lore of the Feywild]], by [[Ulfgar Frostbeard]]
@@ -26,7 +31,7 @@ typeOf: hoard
 ### From [[Arryn]]
 - Moon Necklace (common minor item). A gift from [[Arryn]] to [[Wellby]], a necklace on which a pendant is hung that always glows with the light of the moon, fading and growing in brightness depending on the phase.
 ### From [[Rishi]]
-- A branch from the ancient tree in Tokra, gifted to [[Kenzo]] by Rishi[[ ]]and used to construct the [[Staff of the Forest Soul]]
+- A branch from the ancient tree in Tokra, gifted to [[Kenzo]] by Rishi and used to construct the [[Staff of the Forest Soul]]
 ### From [[Prince of Luck|Chanceweaver]]
 - Chanceweaver’s Dice (rare minor item). A pair of amorphous dice that can change their shape at will. Gifted to [[Seeker]] by the [[Prince of Luck]]. 
 ### From [[Lady Eventide]]
@@ -44,7 +49,7 @@ typeOf: hoard
 	- [[Iskra's Story]]
 
 ### From the Skaer of Pyhlla
-- A enchanted oyster shell that allows the Divination spell to be cast once, acquired from the Skaer as thanks for defeating the demon of Vetta.
+- An enchanted oyster shell that allows the Divination spell to be cast once, acquired from the Skaer as thanks for defeating the demon of Vetta.
 - 5 pounds [[Skaer Steel]], gifted by the Skaer.
 - Four large pearls, gifted by the Skaer %%SECRET[v2:8b3973ea7bb4b36a6832cdadf2e5f28c]%%
 ## Purchases
@@ -57,7 +62,7 @@ typeOf: hoard
 
 **Tollen, from Umli**
 - 9 quivers of Skaer arrows, constructed by [[Umli]]
-- Masterwork shield, constructed of 7.5 lb of [[Skaer Steel]] by [[Umli]]. Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. 
+- Masterwork shield, constructed of 7.5 lb of [[Skaer Steel]] by [[Umli]]. Grants +1 additional bonus to AC, and +2 bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield.
 - Improvements by Umli to Delwath's [[Deno'qai Lynx Shield]], using Skaer steel
 
 **Tollen, from Cecilia Lister**
@@ -70,7 +75,3 @@ typeOf: hoard
 - Dragonscale cloak (rare major item). Purchased in [[Zvervinka]]; made of the scales and claws of a white dragon. 
 - Frostshard Shortbow
 - Potion of Gaseous Form
-
-
-
-

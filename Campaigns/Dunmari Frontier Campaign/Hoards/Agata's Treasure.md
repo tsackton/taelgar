@@ -1,6 +1,11 @@
 ---
-tags: [meta]
+lintedAt: "2026-10-20T07:57:56-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
 typeOf: hoard
+campaign: Dunmar Frontier
+name: "Agata Dustmother's Treasure"
+POV: 1748
 ---
 # Agata Dustmother's Treasure
 
@@ -11,18 +16,18 @@ These are items carried by Agata, acquired by the party after [[Session 28 (DuFr
 
 - [[Obsidian Fly]]. A small black obsidian fly sculpture. Taken from [[Agata]]
 - [[Raven Whistle]]. A whistle carved from the bone of a giant bird, radiates transmutation magic.
-- A pair of [[Drankorian Message Stone]], used by [[Agata]] and [[Samerki]]. Each are about the size of halflings' fist, and are marked with arcane sigils. Long range version. 
+- A pair of [[Drankorian Message Stone]], used by [[Agata]] and [[Samerki]]. Each is about the size of a halfling's fist, and is marked with arcane sigils. Long range version.
 - A brass ring set with a garnet, that radiates abjuration magic. Dunmari in origin. Functions as a [Ring of Protection from Fire](https://www.dndbeyond.com/magic-items/5149-ring-of-fire-resistance). Taken from [[Samerki]].  %%SECRET[v2:baa7565e6fa86ceba3e81402ce091a3f]%%
 - [Wand of Caustic Arrows](https://www.dndbeyond.com/magic-items/3657480-wand-of-caustic-arrows). This wand appears to be of fey make, but not of [[Agata]]’s creation. Taken from [[Agata]]. %%SECRET[v2:1facb708795e55def1414650a891c050]%%
 - [[Ring of the Warded Mind]]. Taken from [[Agata]].
 - [[Scepter of Command]]. Taken from [[Agata]].
-- [Necklace of Tongues](https://www.dndbeyond.com/magic-items/3642959-necklace-of-tongues). A necklace made of a large number of dried, shriveled tongues struck on a twisted copper chain, radiating divination magic; created by [[Agata]] and taken from her person. 
+- [Necklace of Tongues](https://www.dndbeyond.com/magic-items/3642959-necklace-of-tongues). A necklace made of a large number of dried, shriveled tongues strung on a twisted copper chain, radiating divination magic; created by [[Agata]] and taken from her person.
 - Four dried scorpions in a leather pouch. %%SECRET[v2:60143dc0a050f0f468ac4397e78dddc3]%%
 - [[Boots of False Tracks (Agata)]]. Taken from [[Agata]]. 
 - [[Ring of Displacement]]. Taken from [[Agata]]. 
 - [Amber Web](https://www.dndbeyond.com/magic-items/3643193-amber-web). A small piece of amber with a spider trapped inside, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s.
 - [Swarm Bottle](https://www.dndbeyond.com/magic-items/3643187-swarm-bottle). A smoky glass bottle from which a buzzing sound can constantly be heard, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s.
-### Mudane Items
+### Mundane Items
 
 - A silver ring, set with an obsidian gem. Could sell for 300-1800gp. %%SECRET[v2:bffbd75048d0ecf7743919ea0734c6e7]%%
 - A diamond of beautiful quality and cut. Carried by [[Agata]]. Could sell for 1000-2400gp. Seen in [[Mirror of the Past]]: [[Extravagant Diamond Vision]]. %%SECRET[v2:f2ab65c36fda68221f8470e294cdcbc2]%%
@@ -63,18 +68,34 @@ These are items recovered from Agata's lair, after it was [[Session 30 (DuFr)|fo
 - A single turquoise, shaped into a perfect blue sphere the size of a robin’s egg, from [[Agata]]’s hut. Worth 200 - 1200 gp %%SECRET[v2:383b1074ae52550156b1f5ba4db46b31]%%
 - A smoothly carved wooden jar shaped like a squatting, pensive woman whose arms rest on her knees.
 - A silver chain-link necklace with a silver dragonfly pendant with green-tinted mother of pearl wings
-- An heavy iron ring is inlaid with thin streams of gold and platinum around its circumference
+- A heavy iron ring is inlaid with thin streams of gold and platinum around its circumference
 - A small golden vulture pendant inlaid with black and blue cloisonné glass. 
 - A wide, pounded copper bracelet 
 - A small, undecorated bronze flask containing whiskey
 - A short, thick knobby blue glass
 - 48 silver coins and 62 bronze coins. These are antique hexagonal coins, may be of more value to a collector 
-- A wooden box about the size of a loaf of bread, its hinges and clasp made of silver, A battle scene is carved on the lid (depicting a battle from the Second Hobgoblin War).
+- A wooden box about the size of a loaf of bread, its hinges and clasp made of silver. A battle scene is carved on the lid (depicting a battle from the Second Hobgoblin War).
 - A pair of matching sheathed daggers. The two daggers are as long as a child’s forearm, with oak handles wrapped in silver wire; their sheaths are of unadorned black leather
 - Two glass eyes, correct in every anatomical detail.
-- An unusual hexagonal chest, the size of a child’s chest and carved from a fragrant greenish wood. A watercolor print of the red mesa decorates the inside lid. Contains Four vials of perfume and ointment, all stored in virtually identical black glass tubes; the only way to tell the fragrances apart is by the relief carvings decorating the stoppers.
+- An unusual hexagonal chest, the size of a child’s chest and carved from a fragrant greenish wood. A watercolor print of the red mesa decorates the inside lid. Contains four vials of perfume and ointment, all stored in virtually identical black glass tubes; the only way to tell the fragrances apart is by the relief carvings decorating the stoppers.
 - A fine porcelain tea set with a tea pot and six tea cups, and six ceramic stoppered vials containing dried tea leaves.
 - An antique hourglass. The base is made of fine marble, and the glass is delicate crystal.
 - Two heavy shields decorated with rearing horses, of average make. 
 - Thousands of coins from more than a dozen different kingdoms     
 - A soapstone figurine, depicting Kotana on a horse
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added the canonical campaign identity and explicit display name, and recorded the inventory’s acquisition-era POV.
+- Corrected objective prose defects: "Each are about the size of halflings' fist, and are marked" → "Each is about the size of a halfling's fist, and is marked"; 'tongues struck on a twisted copper chain' → 'tongues strung on a twisted copper chain'; '### Mudane Items' → '### Mundane Items'; 'An heavy iron ring' → 'A heavy iron ring'; 'made of silver, A battle scene' → 'made of silver. A battle scene'; 'Contains Four vials' → 'Contains four vials'.
+
+### Validated judgments
+- The note is sufficient as a campaign acquisition inventory; later item dispositions are recorded separately in [[Party Treasure - Former]].
+- Reviewed every SECRET annotation without transferring its contents into shared prose.
+
+### Open findings
+
+- [ ] **Warning — consistency.internal_conflict:** The “Five uncut gemstones” entry names only an amethyst, a rose quartz, and a topaz, then discusses polishing “the rubies” although no rubies appear in the inventory. Confirm the actual count and missing identities before selling or distributing them. If the three listed stones are the complete set, the bounded corrections are “Three uncut gemstones” and “the topaz could sell for perhaps quadruple”; otherwise retain the total of five and add the two verified missing stones. No count or identity has been inferred.
+%%^End%%

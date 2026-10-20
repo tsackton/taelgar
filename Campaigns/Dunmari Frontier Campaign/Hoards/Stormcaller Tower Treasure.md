@@ -1,6 +1,11 @@
 ---
-tags: [meta]
+lintedAt: "2026-10-20T07:57:56-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
 typeOf: hoard
+campaign: Dunmar Frontier
+name: Stormcaller Tower Treasure
+POV: 1748
 ---
 ## Recovered after the first journey to the tower
 
@@ -21,3 +26,17 @@ typeOf: hoard
 - [[Journeys of Souls]], ancient, written in a strange language presumed to be the first tongue of humans, on the afterlife, from Eudomes' tower. 
 - [[Hralgar]] gives his blessing for the party to restore and take [[Vindristjarna]], The Star on the Wind, the ruined airship that requires a new phasing stone to fly
 - [[Binding Stones]] (legendary major item*, party)
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added explicit `name`, `campaign: Dunmar Frontier`, and `POV` metadata.
+
+### Validated judgments
+- The campaign-meta ledger does not require name or temporal-interpretation blocks; its substantive inventory is sufficient for its record-keeping role.
+
+### Open findings
+
+- [ ] **Warning — correctness.internal_ambiguity:** The [[Enchiridion of the Occulta Ludum]] appears once under each recovery heading. Its reference note explicitly records one copy from Stormcaller Tower and a second from the [[Elemental Forge]]; [[Party Treasure#Books and Notes]] records the same two origins. Confirm whether the repeated Stormcaller entry describes the same book. If so, retain the first acquisition and remove the later bullet ‘The [[Enchiridion of the Occulta Ludum]], a small pamphlet titled in Drankorian, faintly magical and empty inside’; if two copies were recovered here, identify the additional copy and its evidence. This avoids counting one item twice without choosing the acquisition date automatically.
+%%^End%%

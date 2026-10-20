@@ -1,6 +1,11 @@
 ---
+lintedAt: "2026-10-20T07:57:56-04:00"
+lintVersion: "3.5"
 tags: [meta]
 typeOf: hoard
+campaign: Dunmar Frontier
+name: Ursk Treasure
+POV: 1749
 ---
 
 ## Acquired from Shadowkeep
@@ -15,7 +20,7 @@ Dragon statuette glittering with small diamonds
 A bone key that unlocks doors in Shadowkeep, now useless as Shadowkeep has collapsed.
 Three blood red rubies %%SECRET[v2:d62336dbd57c345b30f3c2de1f97286a]%%
 
-A Watcher's Dagger, function as a [Dagger of Blindsight](https://www.dndbeyond.com/magic-items/336928-dagger-of-blindsight)
+A Watcher's Dagger, functioning as a [Dagger of Blindsight](https://www.dndbeyond.com/magic-items/336928-dagger-of-blindsight)
 
 Five potions: 
 - Potion of clairvoyance 

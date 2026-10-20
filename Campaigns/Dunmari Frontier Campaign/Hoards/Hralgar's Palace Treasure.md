@@ -1,6 +1,11 @@
 ---
+lintedAt: "2026-10-20T07:57:56-04:00"
+lintVersion: "3.5"
 tags: [meta]
 typeOf: hoard
+campaign: Dunmar Frontier
+name: "Hralgar's Palace Treasure"
+POV: 1740s
 ---
 
 # Treasure from Hralgar's Palace

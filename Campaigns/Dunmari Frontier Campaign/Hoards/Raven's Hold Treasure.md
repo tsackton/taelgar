@@ -1,6 +1,11 @@
 ---
+lintedAt: "2026-10-20T07:57:56-04:00"
+lintVersion: "3.5"
 tags: [meta]
 typeOf: hoard
+campaign: Dunmar Frontier
+name: "Raven's Hold Treasure"
+POV: 1740s
 ---
 
 ## Magic
@@ -10,9 +15,9 @@ typeOf: hoard
 - [[Shatterstorm]] (rare major item)
 - Spear of the War Leader. A Dunmari spear from the [[Northern War]], used by the gnoll leader in [[Raven's Hold]]. Traded to [[Havdar]] in exchange for the Ring of Jumping. 
 - Elemental Gem. A gem used to summon a fire elemental, found in Raven's Hold and used in the battle against [[Agata]] and later the gnolls in [[Session 28 (DuFr)]] and [[Session 29 (DuFr)]]. 
-- Helm of Iron Will. [Mechanics](https://www.dndbeyond.com/magic-items/2341102-helm-of-iron-will). A helmet from the Drankorian era, enchanted to protect warriors in battle. Found in [[Raven's Hold]]. Used to protect Delwath in battle against [[Agata]].  A helmet from the Drankorian era, enchanted to protect warriors in battle. Found in Raven's Hold. Used by [[Delwath]] in battle against [[Agata]] in [[Session 28 (DuFr)]], protected him from the frightening effects of her hag's eye. 
+- Helm of Iron Will. [Mechanics](https://www.dndbeyond.com/magic-items/2341102-helm-of-iron-will). A helmet from the Drankorian era, enchanted to protect warriors in battle. Found in [[Raven's Hold]]. Used by [[Delwath]] in battle against [[Agata]] in [[Session 28 (DuFr)]], protected him from the frightening effects of her hag's eye.
 - Block of [[adamantine]]. Found in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Raven's Hold]], used to reinforce Delwath's [[Dunmari Heirloom Shield]], and then later to construct the phasing stone housing for Vindristjarna.
-- Battle Standard of the [[Blackened Claw]] hobgoblins. Found in [[Raven's Hold]]. Destroyed. An enchanted battle standard of the [[Blackened Claw]] hobgoblin tribe, found in Raven's Hold and destroyed. 
+- An enchanted battle standard of the [[Blackened Claw]] hobgoblin tribe, found in [[Raven's Hold]] and destroyed.
 ## Other
 
 - 36 small silver disks stamped with the [[Blackened Claw]] mark ([[Raven's Hold]], [[Wellby]])
