@@ -1,6 +1,11 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:21:00-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: Report of the Aagiri to Samraat Dasa
+POV: 1749
 ---
 
 **This is a copy of a report written by the Aagiri, the mystai of Aagir, to Samraat Aatmaji Dasa, who was the last of the Aatmaji Dynasty, and died leading a Dunmari army into Drankor, ending the Aatmaji Dynasty and throwing Dunmar into chaos for a time. Nuzkar's editorial notes are marked in italics.**
@@ -15,7 +20,7 @@ We have traveled far, Samraat, into much peril, to bring you this information. I
 
 *We believe that this description is outdated. Our people have scouted far south along the Drogar (the Mahar, as the Dunmari name it), and the land to the west, where the Hara would flow, is bone-dry. The cliffs of the Garamjala rise along the western banks of the Drogar for hundreds upon hundreds of miles.*
 
-Approaching the city of Drankor itself is a terrible sight. Legends tell of the might and magic of the Drankorian Empire, but nothing prepares you for the shear size of the city, even in ruins. South of the swamps, a jungle grows from the coast, humid and teeming with the buzzing of insects and vines and trees, but underneath the sickly smell of decay pervades. Aagir's divine presence is all that kept us from turning and fleeing from the overwhelming aura sense of foreboding that radiated from the air itself. 
+Approaching the city of Drankor itself is a terrible sight. Legends tell of the might and magic of the Drankorian Empire, but nothing prepares you for the sheer size of the city, even in ruins. South of the swamps, a jungle grows from the coast, humid and teeming with the buzzing of insects and vines and trees, but underneath the sickly smell of decay pervades. Aagir's divine presence is all that kept us from turning and fleeing from the overwhelming aura sense of foreboding that radiated from the air itself.
 
 And then we saw the city. Avenues wide enough for a score of horses to walk abreast, paved in marble. Great domes of monumental buildings, with spires reaching for the heavens. Vast plazas with statues the size of giants. Everywhere, the jungle trying to break through, but repulsed by the lingering magic of the city. 
 
@@ -23,7 +28,7 @@ As we approached the dockyards, the wharves made of some magical wood that seeme
 
 ![[drankor-drawing-2.png]]
 
-We walked the broad avenue from the docks to a great plaza, huddled close in the aura of Aagir's blessing. The very air of the city was close and dark, and everywhere signs of corruption. The living vines of the jungle attacked us, seeking to bind us and draw us to twisted trees that split their trunks to swallow us hold, but the fire of Aagir that blazed through our swords and spears destroyed the corrupted flesh of these creatures. 
+We walked the broad avenue from the docks to a great plaza, huddled close in the aura of Aagir's blessing. The very air of the city was close and dark, and everywhere signs of corruption. The living vines of the jungle attacked us, seeking to bind us and draw us to twisted trees that split their trunks to swallow us whole, but the fire of Aagir that blazed through our swords and spears destroyed the corrupted flesh of these creatures.
 
 The plaza itself was full of nightmares - hundreds upon hundreds of skeletons, whose hands would grab at our feet as we walked. And yet we pressed forward, as Aagir's divine will cried out that the source of the malice that pervaded this city was still ahead. 
 

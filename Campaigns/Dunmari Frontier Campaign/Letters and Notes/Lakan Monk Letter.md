@@ -1,6 +1,11 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:21:00-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: Lakan Monk Letter
+POV: 1748
 ---
 
 The blessings of Laka be with you, and may his divine grace guide my words to you. As the season of blessing approaches, may your deeds earn the divine grace of Sonkar and may her judgement look favorably upon your year. 

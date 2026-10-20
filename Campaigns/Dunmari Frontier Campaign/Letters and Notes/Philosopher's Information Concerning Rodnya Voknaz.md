@@ -1,5 +1,10 @@
 ---
+lintedAt: "2026-10-20T09:21:00-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: "Philosopher's Information Concerning Rodnya Voknaz"
+POV: 1749
 ---
 
 Dear Delwath, formerly of Ainumarya, and companions, 
@@ -10,7 +15,7 @@ Hmm now, it is information on the [[Rodnya Voknaz]] you seek, yes, the politics 
 
 Ah, yes. The politics. Well, you must understand a little history, you see. [[Ursk]] is a dangerous place, very dangerous, what with the dragons and monsters and all. Not a safe land, not a place one can easily live. For a long time few people lived there. It was only once the wizards got going that the cities could grow, yes, they need magic to survive against the dragons and monsters and such, not surprisingly. And then, of course, they discovered how much the rest of the Green Sea would pay for dragon's teeth and remorhaz hearts and ice worm guts. Not the safest way to get rich, far from it, but get rich they did, a little anyway. 
 
-But I digress, you did not ask about economics. History, yes, that's where I was. You know about the [[Great War]], of course, about the battles that raged across Taelgar. Maybe you don't know about the [[Vimfrost's War|war against Vimfrost]], hmm. [[Vimfrost]], as any good student of history knows, was an ancient dragon of frost and ice, a white dragon as they are called, nasty as they come, who led an army of trolls and frost giants and ogres and other nasty things against the Vos. As you know, it was [[Derik III ]]of the [[House of Sewick ]]who gathered an alliance, repaired the [[Grastenvakt|Gråstenvakt]], and of course killed [[Vimfrost]], obviously. But of course many died, especially among the giants.
+But I digress, you did not ask about economics. History, yes, that's where I was. You know about the [[Great War]], of course, about the battles that raged across Taelgar. Maybe you don't know about the [[Vimfrost's War|war against Vimfrost]], hmm. [[Vimfrost]], as any good student of history knows, was an ancient dragon of frost and ice, a white dragon as they are called, nasty as they come, who led an army of trolls and frost giants and ogres and other nasty things against the Vos. As you know, it was [[Derik III ]] of the [[House of Sewick ]] who gathered an alliance, repaired the [[Grastenvakt|Gråstenvakt]], and of course killed [[Vimfrost]], obviously. But of course many died, especially among the giants.
 
 Ah, hmm, right, maybe you don't know. Well, you see, the frost giants of the north were long divided. Many fell under the sway of [[Cha'mutte]], but far from all, no, definitely not all. Before [[Vimfrost's War]], one might imagine that, indeed, those who held with Cha'mutte were a minority, and a weak one. Not so much afterward. This created a power vacuum, you see. The dragonspawn were always held in check by the giants, but no longer, and of course, you must imagine that others crept into empty lands. Hmm, yes, for example you must know of Lord [[Rhodar von Glauer]]. Hmm, yes, as you can clearly see, things began to shift. 
 
@@ -22,10 +27,10 @@ Ah, hmm, right, well, that was perhaps a little long-winded. I was meant to be s
 
 A man named [[Artem Novolozek]], a novja himself, led the attack, but was defeated and fled in disgrace. The dragon was killed, but not without much loss of life, and in the aftermath, yes, hmm, of course there were questions. Of course. 
 
-Hmm, right. So as one might imagine now those who argued for decades for the novja are a little disgraced. Hmm well perhaps more then a little, yes, perhaps a lot. Strangely, not so much the novja themselves, who after all are thought to be weak in magic and relatively useless in defense. Hmm, yes, notice of course I say are thought to be, not are. Well, right, but of course the [[Rodnya Voknaz]] are, shall we say, at a low point. Not who I would choose to ally myself with now, if I wanted influence in Ursk, hmm, no. They need something, a show of strength, a way to prove their worth, hmm, yes. 
+Hmm, right. So as one might imagine now those who argued for decades for the novja are a little disgraced. Hmm well perhaps more than a little, yes, perhaps a lot. Strangely, not so much the novja themselves, who after all are thought to be weak in magic and relatively useless in defense. Hmm, yes, notice of course I say are thought to be, not are. Well, right, but of course the [[Rodnya Voknaz]] are, shall we say, at a low point. Not who I would choose to ally myself with now, if I wanted influence in Ursk, hmm, no. They need something, a show of strength, a way to prove their worth, hmm, yes.
 
 So, ah, hmm, I seem to have forgotten the question. 
 
 Signed,
 The Forgotten Chronicler
-On Behalf of the Ancient and Honorable Order of Philospher's
+On Behalf of the Ancient and Honorable Order of Philosopher's

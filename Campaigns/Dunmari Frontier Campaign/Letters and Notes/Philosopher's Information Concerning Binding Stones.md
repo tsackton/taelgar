@@ -1,5 +1,10 @@
 ---
+lintedAt: "2026-10-20T09:21:00-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: "Philosopher's Information Concerning Binding Stones"
+POV: 1749
 ---
 
 Dear Seeker of Highkeep, and companions,
@@ -14,7 +19,7 @@ It is no simple matter to imprison a god. An extraplanar prison was constructed,
 
 The most famous tales are the stories of true imprisonment, when all five stones are combined to [permanently bind a creature](https://www.dndbeyond.com/spells/imprisonment). I believe [[Delios the Sage]] has already spoken to you of this power. Also famous are the tales of Amloch's many servants among the extraplanar powers: elementals, fiends, fey, even celestials. We believe that he used the stones to [bind these creatures to his service](https://www.dndbeyond.com/spells/planar-binding), using different combinations of stones for different types of creatures. We believe that within the power of these stones is also the ability to [temporarily entrap extraplanar creatures](https://www.dndbeyond.com/spells/magic-circle). Each resonance of extraplanar creature, and form of binding must be connected to a particular combination of stones, but we do not yet fully understand the key, and it is difficult to learn without experimentation with the item itself. But we include some notes on our hypotheses. Finally, it is said that Amloch was a master of [traps](https://www.dndbeyond.com/spells/web) and [snares](https://www.dndbeyond.com/spells/snare), which we believe, in part, to be the result of the magic of these stones.
 
-Be warned, however, that use of this item is not without peril. The wrong combination of stones may very well risk effects you don't intend: summoning a servant of the creature you wish to bind, for example, or creating a brief reflection of the homeland of the creature you wish to affect. Experimentation is dangerous, and you must proceed cautiously lest you accidentally create a infinitely deep pool for the water elemental you wish to bind to taunt you from, instead of a magic circle trapping it.
+Be warned, however, that use of this item is not without peril. The wrong combination of stones may very well risk effects you don't intend: summoning a servant of the creature you wish to bind, for example, or creating a brief reflection of the homeland of the creature you wish to affect. Experimentation is dangerous, and you must proceed cautiously lest you accidentally create an infinitely deep pool for the water elemental you wish to bind to taunt you from, instead of a magic circle trapping it.
 
 Signed,
 The Ninth Artificer

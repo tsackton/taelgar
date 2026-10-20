@@ -1,6 +1,11 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:21:00-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: Letter from Speaker Lara
+POV: 1748
 ---
 
 Dear [[Kenzo]], [[Delwath]], [[Riswynn]], [[Wellby]], and [[Seeker]],

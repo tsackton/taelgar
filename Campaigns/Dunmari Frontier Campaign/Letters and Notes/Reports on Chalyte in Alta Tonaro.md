@@ -1,5 +1,10 @@
 ---
+lintedAt: "2026-10-20T09:21:00-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: Reports on Chalyte in Alta Tonaro
+POV: 1749
 ---
 
 *This is a collection of notes and information gathered for you by the [[Mitus Verina Auratan|Magistros]], concerning [[chalyte]] in the [[Chataan Mountains]], on the southern border of the [[Chardonian Empire]]*
@@ -17,7 +22,7 @@ But it was not to last. By DR 1704 [[chalyte]] production had peaked, and in DR 
 
 Since then, silver production has continued around [[Argento]], but, though valuable, silver has only a tiny fraction of the value of [[chalyte]], and [[Alta Tonaro]] is now considered a poor backwater by most.
 
-This, however, is not the full story. As the collected notes below indicate, there is massive amounts of [[chalyte]] to be mined on the southern fringes of [[Alta Tonaro]], if only one small problem could be dealt with.
+This, however, is not the full story. As the collected notes below indicate, there are massive amounts of [[chalyte]] to be mined on the southern fringes of [[Alta Tonaro]], if only one small problem could be dealt with.
 
 ## Geological Surveys of the Chataan Mountains
 *An excerpt from a series of reports produced for the University of Chardon by the Stoneborn geologer Gatura, recorded by Fabricia Stoneshaper, a noted expert in earth magic*
@@ -55,4 +60,4 @@ So Dhrukmir carved a great lance of chalyte and set it in a fortress of crystal 
 
 And the shepherds say: the thunder you hear on the night, when no storm blows, that echoes strangely in the mountains -- that is the cries of the lost weeping for the lives that Sky-Breaker claimed. 
 
-*Sabastian recorded that there have always been stories of giants living in the Chataan Mountains, and indeed in several other places, including near Darba, he heard tell of [[Ulgrathar]], which he believed was either the giant name for the Chataans, or the name the giants who live their call themselves. Dhrukmir Sky-Breaker does not appear in many stories, other records suggest a tyrant rose to power among the giants in the years after the Great War, and perhaps Dhrukmir Sky-Breaker the legend is connected to this tyrant. Sabastian, however, doubts the tales of a chalyte death lance, as that seems rather more fantasy than fact, and there are surely other explanations for strange thunder in the mountains.*
+*Sabastian recorded that there have always been stories of giants living in the Chataan Mountains, and indeed in several other places, including near Darba, he heard tell of [[Ulgrathar]], which he believed was either the giant name for the Chataans, or the name the giants who live there call themselves. Dhrukmir Sky-Breaker does not appear in many stories, other records suggest a tyrant rose to power among the giants in the years after the Great War, and perhaps Dhrukmir Sky-Breaker the legend is connected to this tyrant. Sabastian, however, doubts the tales of a chalyte death lance, as that seems rather more fantasy than fact, and there are surely other explanations for strange thunder in the mountains.*
