@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:38:32-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Cleenseau
+name: An Excerpt from On Creation and Destruction of Extra-Material Realms
+POV: 1720
 ---
 # An Excerpt from "On Creation and Destruction of Extra-Material Realms"
 _Discovered in [[Cleenseau]] in early January, 1720_
 
-In the home of [[Arnaud Ausson]], a prominent [[Isingue|Isinguer]] merchant, you find amongst his papers an book of reviews and critical reactions to a famous Drankorian play, [[A Fool's Fortune]]. This play is lost, or at least, [[Arnaud Ausson]] doesn't have a copy of the play, and the book of reviews and reactions is itself ancient, dating from the end of the Drankorian Empire around 1000 DR.
+In the home of [[Arnaud Ausson]], a prominent [[Isingue|Isinguer]] merchant, you find amongst his papers a book of reviews and critical reactions to a famous Drankorian play, [[A Fool's Fortune]]. This play is lost, or at least, [[Arnaud Ausson]] doesn't have a copy of the play, and the book of reviews and reactions is itself ancient, dating from the end of the Drankorian Empire around 1000 DR.
 
 The physical copy [[Arnaud Ausson]] has, however, was copied from (what he says was a Drankorian original) in the city of [[Isingue]] in DR 1492. It is a beautiful book, with an elaborate leather cover and numerous flourishes on the pages, and a note in the front:
 
@@ -18,7 +23,7 @@ The physical copy [[Arnaud Ausson]] has, however, was copied from (what he says 
 
 Arnaud is particularly fond of this book, as his wife's name is also Alessia (although no relation), and it is a rare artifact from Isingue, which was consumed by a magical plague during the [[Great War]]. 
 
-On reading the book, there is quite a lot of hard to follow passages, and it seems that the translation is relatively bad, and numerous words were left in Drankorian. A later hand scratched out many of these, and replaced them with often equally poor translations. This makes the whole book a bit tedious to read.
+On reading the book, there are quite a lot of hard to follow passages, and it seems that the translation is relatively bad, and numerous words were left in Drankorian. A later hand scratched out many of these, and replaced them with often equally poor translations. This makes the whole book a bit tedious to read.
 
 The most interesting part is an excerpt criticizing the play from a "realism" standpoint, which quotes another book (On Creation and Destruction of the Immaterial Realms). In the excerpt below, the words in italic were written in another hand, and often replaced an unreadable Drankorian word. 
 
@@ -37,3 +42,8 @@ A Fool's Fortune lacks verisimilitude as it portraits each fey realm as a source
 Although of course fiction is welcome to take liberties with the truth, in this case, it would have been better to structure Estelis' journey as *between* fey realms, a pawn between the mighty. After all, many of us in the audience know better!
 
 %%
+
+%%^Metadata:names:v1%%
+- {name: On Creation and Destruction of Extra-Material Realms, language: Common, status: inferred, notes: "Displayed English title form; this does not establish the language of the original work."}
+- {name: On Creation and Destruction of the Immaterial Realms, role: translated, language: Common, status: inferred, notes: "Alternate title rendering in the visible translated quotation."}
+%%^End%%

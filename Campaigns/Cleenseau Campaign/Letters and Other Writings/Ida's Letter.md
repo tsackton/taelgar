@@ -1,6 +1,10 @@
 ---
+lintedAt: "2026-10-20T09:38:32-04:00"
+lintVersion: "3.5"
 tags: [source]
 DR: 1720-01-08
+campaign: Cleenseau
+name: "Ida's Letter"
 POV: 1720
 ---
 # Ida's Letter
@@ -12,7 +16,7 @@ POV: 1720
 
 To all detached garrisons of the Enst Regiment:
 
-Due to the recent unrest, General Ilsa Lemoine orders all companies and garrisons not currently marching to Dunmore to immediately depart for Dunmore at best speed, with supplies. No excuses will be tolerated. The safely of Dunmore and Ainwick is of utmost importance and any unrest or troubles in the interior will be addressed by the King in council.
+Due to the recent unrest, General Ilsa Lemoine orders all companies and garrisons not currently marching to Dunmore to immediately depart for Dunmore at best speed, with supplies. No excuses will be tolerated. The safety of Dunmore and Ainwick is of utmost importance and any unrest or troubles in the interior will be addressed by the King in council.
 
 Please confirm by return messenger the receipt of these orders.
 
@@ -24,7 +28,7 @@ Major Edmund Hartwell
 
 Ida:
 
-Damnit, you need to let me know what you are thinking. The lack of response to my previous letter is deeply concerning, as it the lack of news from the east. The horde has gotten closer to Ainwick, so apparently we are ordered to Dunmore, to face the skeletal calvary, and the North and Center watches are ordered to Ainwick to fight the horde of zombies. It's madness - why march so far north to fight a threat on the North Watch's doorstep? Leaving the whole southern wall unguarded makes me uneasy. But orders are orders, and I can't defy them. The general, I should tell you, is roaring mad at everyone who disobeyed orders and went to help the people and villages reporting walking dead, and you've been lumped in. The General wants overwhelming force, and with what is said to be a thousand dead shambling toward Ainwick, on top of the skeletal calvary riding to Dunmore, I'm not sure I can blame her. But now is not the time for caution and timidity, it is time to throw the dice, put our faith that the Warlord will carry our prayers to the Night Queen, and try to save more of our land. The general seems content to save Ainwick and Dunmore and let the countryside die.
+Damnit, you need to let me know what you are thinking. The lack of response to my previous letter is deeply concerning, as is the lack of news from the east. The horde has gotten closer to Ainwick, so apparently we are ordered to Dunmore, to face the skeletal cavalry, and the North and Center watches are ordered to Ainwick to fight the horde of zombies. It's madness - why march so far north to fight a threat on the North Watch's doorstep? Leaving the whole southern wall unguarded makes me uneasy. But orders are orders, and I can't defy them. The general, I should tell you, is roaring mad at everyone who disobeyed orders and went to help the people and villages reporting walking dead, and you've been lumped in. The General wants overwhelming force, and with what is said to be a thousand dead shambling toward Ainwick, on top of the skeletal cavalry riding to Dunmore, I'm not sure I can blame her. But now is not the time for caution and timidity, it is time to throw the dice, put our faith that the Warlord will carry our prayers to the Night Queen, and try to save more of our land. The general seems content to save Ainwick and Dunmore and let the countryside die.
 
 Take this warning as you will, and you have my support whatever you decide to do. Quentin will deliver a message to me, if he can.
 

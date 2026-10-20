@@ -1,7 +1,11 @@
 ---
+lintedAt: "2026-10-20T09:38:32-04:00"
+lintVersion: "3.5"
 tags: [source]
-DR: 1720-07
+DR: "1720-07"
+campaign: Cleenseau
 name: Letter from Ellis to Celyn
+POV: 1720
 ---
 # Letter from [[Ellis Crowther|Ellis]] to [[Celyn]]
 
@@ -11,7 +15,7 @@ Celyn—
 
 Addermarch is all mud and sheep and, somehow, fey nonsense. I went poking after a rumor and found a whole little knot of it in a small village in the Westcliff. The local priest keeps old stories and listening to her reminded me of home. You would like her, I think. She brooks no nonsense but has a soft spot for quiet souls. Her nephew reminds me of your brother.
 
-While passing through I heard a tale I thought you should know, for she mentioned the Enst and the towns along it, and I know you've been up that way. She told of an ancient lord of the brambles and briars called, by her, the Briarheart, who she says has lived in the Feywild since the dawn of time. Her job, she says, is to appease him, to keep the fey passages closed to worse things that might come through, like the minions of the [[Lord Umbraeth|Gloomshaper]] - a dangerous fey lord up long the Enst. A few years ago, she said, a trouble came from the Fey lands, despite her efforts - she called it the Nightsong Roots. Worgs, she said, came through, nasty and with a taste for revenge on mortals. She told of a group of strangers who arrived at the exact wrong time and then saved them anyway, and they talked about it the way villagers do—half gratitude, half awe, half fear of the next time. These strangers, she said, managed to close the Nightsong Roots with fire and magic, and the troubles vanished. She was grateful, but feared to talk too much of it, I think there was some bad blood in the village at the time. ....
+While passing through I heard a tale I thought you should know, for she mentioned the Enst and the towns along it, and I know you've been up that way. She told of an ancient lord of the brambles and briars called, by her, the Briarheart, who she says has lived in the Feywild since the dawn of time. Her job, she says, is to appease him, to keep the fey passages closed to worse things that might come through, like the minions of the [[Lord Umbraeth|Gloomshaper]] - a dangerous fey lord up along the Enst. A few years ago, she said, a trouble came from the Fey lands, despite her efforts - she called it the Nightsong Roots. Worgs, she said, came through, nasty and with a taste for revenge on mortals. She told of a group of strangers who arrived at the exact wrong time and then saved them anyway, and they talked about it the way villagers do—half gratitude, half awe, half fear of the next time. These strangers, she said, managed to close the Nightsong Roots with fire and magic, and the troubles vanished. She was grateful, but feared to talk too much of it, I think there was some bad blood in the village at the time. ....
 
 These stories of Briarheart intrigued me, and I followed some other tales. It seems all over Westcliff and western Addermarch are tales of the Briarheart, feared and appeased. They don't think of the fey the same way here as back at home - they are scared of them, mostly, and appease them to keep them away. The rituals are not so different, but it is all tinged with fear, not joy and gladness and respect.
 

@@ -1,11 +1,16 @@
 ---
+lintedAt: "2026-10-20T09:38:32-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Cleenseau
+name: "Viepuck - February 9th, 1720"
+POV: 1720
 ---
 
 
 From Viepuck to [[Damien Montrichard]]: 
 > Haven’t heard from you, RuOk? Help is on the way, I can message them 4U.  25 words.
-> Response: Near [[Veltor]]] Zombies stubborn - skeletons arose in old caves some trouble. Rallying.troops need more. Sent for help - Rinburg - Fellburn - no responses - worried.
+> Response: Near [[Veltor]] Zombies stubborn - skeletons arose in old caves some trouble. Rallying.troops need more. Sent for help - Rinburg - Fellburn - no responses - worried.
 
 From Viepuck to [[Damien Montrichard]]:
 >More rangers coming, location conveyed.  (Skull emoji, sad-face-emoji, poop emoji), Just helped Rinburg/Felburn, maybe can rally Rinburg, Felburn disheveled.  We’re coming soon.  Will check in.  

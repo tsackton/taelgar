@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:38:32-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Cleenseau
+name: Letter from the Oracle of the Red to the Mostreve Warlocks
+POV: 1640s
 ---
 # An order from the Oracle of the Red
 _Discovered in [[Cleenseau]] in early January, 1720_
 
-Warlocks of Ethlenn serving in the Radiant Alliance, please head these orders while west of Fellburn. 
+Warlocks of Ethlenn serving in the Radiant Alliance, please heed these orders while west of Fellburn.
 
 Do not enter the Feywild. There are few portals, unlike home. Avoid them.
 
@@ -15,4 +20,3 @@ Be cautious around portals, the Gloomshaper is quick to anger and was banished f
 
 So ordered on this day, the 23rd of May, in the first year of Cece I's reign
 Aethric, Oracle of the Red
-
