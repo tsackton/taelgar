@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-tags: [object, status/check/lint]
+tags: [object]
 typeOf: shield
 subTypeOf: magical
 ancestry: "Deno'qai"
@@ -18,7 +18,7 @@ POV: modern
 ---
 # Deno'qai Lynx Shield
 >[!info]+ Information  
-> (legendary [[Deno'qai]] magical shield)  
+> (legendary the [[Deno'qai]] magical shield)  
 > [Mechanics](https://www.dndbeyond.com/magic-items/5360068-lynx-denoqai-shield)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
@@ -30,26 +30,9 @@ In DR 1748, this shield was [[Session 53 (DuFr)|gifted]] to [[Delwath]] by [[Eno
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {"name": "Deno'qai Lynx Shield", "language": "unknown", "pronunciation": "deh-noh-KAI links sheeld", "notes": "The Deno'qai component rhymes with sky in [[Research from Kassi]]. The Hebrew side of the Hebrew-or-Arabic analogue in [[Languages]] supports eh and oh vowels and q as k; final stress is proposed, not established. Lynx Shield uses ordinary English pronunciation. The complete descriptive name has no established source language.", "status": "proposed"}
+- {"name": "Deno'qai Lynx Shield", "language": "Common", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern retrospective description, with Great War provenance and campaign-scoped gifting and blessings in DR 1748 followed by the Skaer Steel enhancement in DR 1749.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter order and collection formatting; added knownTo: [dufr] from the established campaign interactions.
-- Added a primary name entry with a proposed complete pronunciation, and POV with persistent temporal coverage.
-- Corrected whereabouts Dewalth to Delwath, matching the existing pcOwner and the shield's documented recipient; repaired the omitted was in the preservation sentence.
-
-### Validated judgments
-- The item's description and provenance perform its bounded reference role; no uninvented central dimension requires development.
-- The local dm_notes attestation review is not applicable because dm_owner is absent; no human attestation was added or changed.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Review the proposed complete pronunciation `deh-noh-KAI links sheeld` in `Metadata:names:v1`. The Deno'qai component rhymes with sky in [[Research from Kassi]]. The Hebrew side of the Hebrew-or-Arabic analogue in [[Languages]] supports eh and oh vowels and q as k; final stress is proposed, not established. Lynx Shield uses ordinary English pronunciation. The complete descriptive name has no established source language. If accepted, set frontmatter `pronunciation: deh-noh-KAI links sheeld` and mark the entry `documented`; otherwise supply the preferred complete reading.
 %%^End%%

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/lint]
+tags: [object]
 typeOf: wondrous item
 ddbLink: https://www.dndbeyond.com/magic-items/7676659-binding-stones-of-amloch
 rarity: legendary
@@ -13,7 +13,8 @@ POV: modern
 ---
 # The Binding Stones of Amloch
 >[!info]+ Information  
-> (legendary wonderous item)  
+> (legendary wondrous item)  
+> [Mechanics](https://www.dndbeyond.com/magic-items/7676659-binding-stones-of-amloch)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
@@ -32,28 +33,9 @@ The five crystals are named:
 %%SECRET[v2:a91dc77a863c8891a25efb4391c03105]%%
 
 %%^Metadata:names:v1%%
-- {"name": "Binding Stones of Amloch", "language": "unknown", "pronunciation": "BIND-ing stohnz uv AM-lock", "notes": "The accepted AM-lock in [[Amloch]] supplies the proper-name component; the remaining words use ordinary English sounds and stress. The complete composed reading awaits human acceptance.", "status": "proposed"}
+- {"name": "Binding Stones of Amloch", "language": "Common", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: a broadly modern artifact reference with ancient origins and a history of possession through the Dunmar Fellowship; the account does not imply continuous knowledge of the intervening centuries.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter order and collection formatting.
-- Added knownTo: [dufr] from the recorded Fellowship ownership or recovery, and modern POV with persistent temporal coverage.
-- Corrected the spelling of wondrous in typeOf; preserved the generated information callout.
-- Corrected two spelling errors in the existing text; retained the SECRET block and its visibility.
-- Added a minimal persistent name entry; preserved unknown title-language provenance where the evidence does not establish it.
-
-### Validated judgments
-- The existing object account is sufficient for its bounded reference role; preserved historical and attributed uncertainty.
-- Reviewed the SECRET block; retained its local-only visibility.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** The new name entry has a proposed complete pronunciation, "BIND-ing stohnz uv AM-lock". The accepted AM-lock in [[Amloch]] supplies the proper-name component; the remaining words use ordinary English sounds and stress. The complete composed reading awaits human acceptance. Accept it by copying this pronunciation to frontmatter and changing the entry status to documented, or replace it with the preferred complete reading.
 %%^End%%
