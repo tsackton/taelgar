@@ -1,6 +1,11 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:21:00-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: "Research about Limbo and Cha'mutte"
+POV: modern
 ---
 
 The Great War is a fertile topic for scholars, philosophers, poets, and playwrights in Tollen, and there are many sources that touch upon aspects of the [[Great War]], [[Cha'mutte]], and the [[Heroes of the Great War|Heroes]] who defeated him. For the purposes of your research, you focus most deeply on the connection between Cha'mutte and [[Limbo]].

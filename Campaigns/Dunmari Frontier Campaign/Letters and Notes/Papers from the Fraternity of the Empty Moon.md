@@ -1,6 +1,11 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:21:00-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: Papers from the Fraternity of the Empty Moon
+POV: 1748
 ---
 
 (written in a strange language, a variant of Abyssal)
@@ -14,6 +19,6 @@ tags: [source]
 >	Thirteen cold iron spears prepared,
 >	Will bring forth the howl of empty despair.
 >	And Jinnik's curse will claim the land.
-- There are several pages of notes. You can see a few diagrams, one that seems to shown thirteen poles or spears, point down, arranged in a circle, with the details on the spears revealing "Mad One, come to us, let Jinnik's howl be heard!". These spears are identical to those found in the lair. 
+- There are several pages of notes. You can see a few diagrams, one that seems to show thirteen poles or spears, point down, arranged in a circle, with the details on the spears revealing "Mad One, come to us, let Jinnik's howl be heard!". These spears are identical to those found in the lair.
 - There is a long discussion of the "ancient cave of the Mad One's soul" and its connection to Pandemonium, linking it to the cave to the north.
 - There is what seems to be someone's notes to themselves, "We must find a way past the Dunmari's maze, and we must find a way to get to the Dunmari city without attracting attention. Maybe the old witch can help, if I can find something to trade worthy of her."

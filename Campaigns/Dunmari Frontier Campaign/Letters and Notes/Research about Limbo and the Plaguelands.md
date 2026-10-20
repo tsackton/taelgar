@@ -1,6 +1,11 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:21:00-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: Research about Limbo and the Plaguelands
+POV: modern
 ---
 
 There is much scholarly and literary work that concerns the [[Plaguelands]]. Since the [[Great War]], the [[Plaguelands]] have been a source of fear and danger for much of [[Greater Sembara]], a wilderness of monsters and strange magic. Many heroic epics depict journeys into the [[Plaguelands]], and many historians catalog the terrors and curses that have emerged from them. 
@@ -16,4 +21,3 @@ His mathematical treatment of this was complex, for neither planar drift nor pla
 However, Harbek's mathematical predictions were discredited in DR 1720, when the [[War of the Ashen Horde]] broke out in the [[March of Andonne]] and the [[Refounded Alliance of Aurbez]] at a time when, according to Harbek's predictions, Limbo was distant from the Material Plane and no planar outbursts should have been possible. 
 
 Subsequently, Harbek's work fell into obscurity. Nonetheless, it highlights the possibility of a deep connection between the Plaguelands and Limbo.
-

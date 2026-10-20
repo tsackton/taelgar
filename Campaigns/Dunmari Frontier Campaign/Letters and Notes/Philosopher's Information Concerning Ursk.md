@@ -1,5 +1,10 @@
 ---
+lintedAt: "2026-10-20T09:21:00-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: "Philosopher's Information Concerning Ursk"
+POV: 1749
 ---
 
 Dear Delwath, and companions, 

@@ -1,9 +1,14 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:21:00-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: Chalyte Rumors from the Smiling Crab
+POV: 1749
 ---
 
-At the halfling inn the [[The Smiling Crab]], [[Wellby]] settles in for the night, listening to stories and rumors from the [[Halflings]] – mostly merchants and sailors – who have gathered in the common room. 
+At the halfling inn [[The Smiling Crab]], [[Wellby]] settles in for the night, listening to stories and rumors from the [[Halflings]] – mostly merchants and sailors – who have gathered in the common room. 
   
 The halflings, of course, have their own perspective on human dealings. 
 

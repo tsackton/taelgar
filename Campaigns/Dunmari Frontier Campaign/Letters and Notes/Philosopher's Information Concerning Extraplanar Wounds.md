@@ -1,5 +1,10 @@
 ---
+lintedAt: "2026-10-20T09:21:00-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: "Philosopher's Information Concerning Extraplanar Wounds"
+POV: 1749
 ---
 
 To the petitioners who inquire how a wound between worlds is made to cease its respiration,

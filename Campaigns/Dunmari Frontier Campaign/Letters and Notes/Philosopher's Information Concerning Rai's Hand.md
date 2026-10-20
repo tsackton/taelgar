@@ -1,5 +1,10 @@
 ---
+lintedAt: "2026-10-20T09:21:00-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: "Philosopher's Information Concerning Rai's Hand"
+POV: 1749
 ---
 
 The Writhing Chaos consumes.
@@ -8,7 +13,7 @@ The Writhing Chaos sees.
 
 The Writhing Chaos speaks.
 
-A glittering green thing, smooth jade, hanging on the neck of a man. The man spars with another man, practicing forms while standing over Arborea. The man stands in a jungle, untangling the chains of the dead. The man moves in a grove of trees, fighting aa witch. The jade lies in the desert, dry and dusty. The jade holds--
+A glittering green thing, smooth jade, hanging on the neck of a man. The man spars with another man, practicing forms while standing over Arborea. The man stands in a jungle, untangling the chains of the dead. The man moves in a grove of trees, fighting a witch. The jade lies in the desert, dry and dusty. The jade holds--
 
 A glittering green thing, smooth jade, nestled around the neck of a woman. The woman sleeps and dreams and eats and prays in a place that is elsewhere and nowhere and ancient and new, a forest wrapped in nothingness. The woman is a man, standing in the northern reaches of [[Alcarinque]]. The woman is a man is a tree, a great tree, The Tree, and the jade is its heart. The jade grasps---
 
@@ -24,4 +29,4 @@ The Writhing Chaos is silent.
 
 The Writhing Chaos is finished. 
 
-The Writhing Chaos is asleep. 
+The Writhing Chaos is asleep.

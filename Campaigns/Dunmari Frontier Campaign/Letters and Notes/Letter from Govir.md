@@ -1,6 +1,11 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:21:00-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: Letter from Govir
+POV: 1748
 ---
 
 Dear friends,
@@ -11,7 +16,7 @@ I received your letter some months ago, asking after information about the rumor
 
 My breakthrough came in the records of the Aagiri, the [[Aagir Mystai]]. As you know, in these days they have no permanent home; they are an itinerant order of knights who protect our roads. But long ago, before the [[Great War]], the Aagiri maintained a series of fortified castles along the southeastern border of [[Dunmar]], protecting us from the dangers of the desolation of [[Drankor]].
 
-Not all the records of that order survived the [[Great War]], but in our [[Archives]] I found faded inventory book, from the days of Aatjami dynasty, hundreds of years before the [[Great War]]. I believe it describes the item you speak of. The text reads:
+Not all the records of that order survived the [[Great War]], but in our [[Archives]] I found a faded inventory book, from the days of Aatjami dynasty, hundreds of years before the [[Great War]]. I believe it describes the item you speak of. The text reads:
 
 “The observations of Sonal, dedicat of [[Aagir]], holy be his name and blessed be his warriors. By the grace of [[Aagir]] we have won a great victory. The wraiths of [[Drankor]] will not advance this day. We have brought sunlight to their dark places and scattered their meager treasures, but one item, of surpassing beauty, which we have claimed, for it seems too dangerous to leave on the empty plains for scavengers. A short cloak, a mantle, spun of thread of impossible color, vibrant reds and golds of the clouds at sunset, the deep blues of twilight, the yellow of the sun itself, swirling together to make all the colors of the rainbow. 
 
