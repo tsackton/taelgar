@@ -1,14 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name]
+lintedAt: "2026-10-20T07:22:39-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: ""}
-name: Lathirion Lake
+tags: [place, status/check/name]
 typeOf: lake
+name: Lathirion Lake
+pronunciation: LAH-thee-ree-on
 whereabouts:
   - {type: home, location: Istaros Watershed}
 dm_owner: none
 dm_notes: none
-pronunciation: LAH-thee-ree-on
+POV: modern
 ---
 # Lathirion Lake
 *(LAH-thee-ree-on)*
@@ -25,3 +28,10 @@ Sindëtêra SEEN-deh-TEH-rah
 Têrasiriel TEH-rah-sin-dee-el
 %%
 
+%%^Metadata:names:v1%%
+- {name: "Lathirion Lake", language: "unknown", pronunciation: "LAH-thee-ree-on lake", status: "documented", notes: "The Lathirion component follows the accepted frontmatter pronunciation; lake uses its ordinary Common reading."}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern; the article describes the drainage system in its current-era geographic reference role, with no narrower speaking position required.
+%%^End%%

@@ -1,16 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+lintedAt: "2026-10-20T07:22:39-04:00"
+lintVersion: "3.5"
 displayDefaults: {defArt: the}
-name: Aure
+tags: [place, status/check/lint]
 typeOf: waterway
 typeOfAlias: river
-whereabouts: 
-- {type: primary, location: Addermarch}
-- {type: secondary, location: Wistel-Enst Watershed }
+name: Aure
 aliases: [River Aure, Aure River]
-dm_notes: none
+whereabouts:
+  - {type: primary, location: Addermarch}
+  - {type: secondary, location: Wistel-Enst Watershed}
 dm_owner: none
+dm_notes: none
+POV: modern
 ---
 # The Aure
 >[!info]+ Information
@@ -26,3 +29,34 @@ The Aure, which is navigable from [[Adderfell]] to the Enst, is a major route fo
 For much of its length, the river supports a productive river valley. Orchards, especially apples, line the gentler slopes and lower terraces of the valley, and the region is known for cider and apple brandy. Farm villages maintain fords and mills along side‑channels and bends, and the river forms the principal artery tying the shires of Addermarch to the broader Sembaran trade.
 
 %% there are several unnamed tributaries, in particular one that joins the Velan from the north and one that joins the [[Branth]] from the south, but there are also likely a large number of smaller brooks and streams that feed the rivers here %%
+
+%%^Metadata:names:v1%%
+- {"name":"Aure","language":"unknown","status":"proposed","pronunciation":"OR","notes":"One-syllable proposal using the English strand of the Sembaran analogue in [[Languages]], especially its Addermarch usage: au as aw, sounded r, silent final e. Exact name language and phonology remain unestablished."}
+%%^End%%
+
+%%^Metadata:map:v1%%
+locations:
+  - {role: source, feature: Darkwood, map: world, locator: 13.11.D08}
+  - {role: outlet, feature: Enst, map: world, locator: 12.11.E18}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern geography; no narrower speaking position is required by the visible account.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Normalized frontmatter and recorded explicit identity where previously supplied by the filename.
+- Added persistent name metadata, preserving accepted pronunciations and keeping unaccepted readings proposed.
+- Recorded explicitly listed watershed-inventory endpoints in canonical world-map coordinate format.
+- Recorded POV: modern and concise temporal coverage in persistent metadata.
+
+### Validated judgments
+- No additional validated judgments.
+
+### Open findings
+
+- [ ] **Warning — metadata.names_unresolved_status:** Confirm or correct `OR` for Aure. One-syllable proposal using the English strand of the Sembaran analogue in [[Languages]], especially its Addermarch usage: au as aw, sounded r, silent final e. Exact name language and phonology remain unestablished. If accepted, mark this name entry `documented` and copy the accepted primary pronunciation into frontmatter; otherwise replace it with the intended pronunciation while preserving established name context.
+%%^End%%
