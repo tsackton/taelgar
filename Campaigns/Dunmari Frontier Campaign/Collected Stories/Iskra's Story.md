@@ -1,15 +1,20 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:32:28-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: "Iskra's Story"
+POV: 1748
 ---
 # Iskra's Story
 ([[Session 81 (DuFr)|collected by]] [[Kenzo]])
 
 As [[Kenzo]] spends an afternoon with [[Iskra]], he hears her story.
 
-She was born 24 years ago on the isolated island of [[Pikkua]], a small community of only five oskunja, representing only about 200 people. She explains that an oskunja (oss-kun-ya) is like a work group, a semi-familial unit that together manages a fishing fleet, or a tend a farm. 
+She was born 24 years ago on the isolated island of [[Pikkua]], a small community of only five oskunja, representing only about 200 people. She explains that an oskunja (oss-kun-ya) is like a work group, a semi-familial unit that together manages a fishing fleet, or tends a farm.
 
-Her parent's oskunja tended the sheep flocks on the interior of the island, but growing up she always felt a deep fascination with the ocean. She would stand for hours watching the waves and wind when she was supposed to be watching sheep, and sometimes she thought she could see things in the waves, visions of the past, or the future, she was never sure. 
+Her parents' oskunja tended the sheep flocks on the interior of the island, but growing up she always felt a deep fascination with the ocean. She would stand for hours watching the waves and wind when she was supposed to be watching sheep, and sometimes she thought she could see things in the waves, visions of the past, or the future, she was never sure.
 
 As she got older, [[Kaikkea]] spoke to her in the waves, she says. It was never an obvious thing, never a command to do this or that. More of a gentle whisper, an assurance that she had a place in the world when she felt out of place, a whisper of friendship when she felt lonely, a whisper of strength when she felt weak. She took to spending more and more time by the ocean, neglecting her duties. 
 
@@ -21,4 +26,4 @@ She would not share the full details of what happened that night, only saying it
 
 When she returned to [[Pikkua]] two days later, bearing the mark of [[Kaikkea]], everyone could see she was blessed. The divine touch was plain on her face. Filled with divine purpose but not knowing what she was meant to do, she left, this time with the community's blessing, and traveled. For four years she sailed from island to island, learning the voices of the ocean, confident in [[Kaikkea]]'s power and trusting that [[Kaikkea]] would eventually reveal her purpose. 
 
-Two years ago, the priesthood of the temple in [[Tollen]] became empty, and she was asked to take a turn serving, which she agreed to do, with [[Kaikkea]]'s guidance. Now, she is waiting patiently for [[Kaikkea]]'s purpose to reveal itself. 
+Two years ago, the priesthood of the temple in [[Tollen]] became empty, and she was asked to take a turn serving, which she agreed to do, with [[Kaikkea]]'s guidance. Now, she is waiting patiently for [[Kaikkea]]'s purpose to reveal itself.

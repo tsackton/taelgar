@@ -1,10 +1,15 @@
 ---
-tags: [source]
+lintedAt: "2026-10-20T09:32:28-04:00"
+lintVersion: "3.5"
+tags: [source, status/check/lint]
+campaign: Dunmar Frontier
+name: "Milo's Story"
+POV: 1749
 ---
 
-*The latest journey had been such a joy. The Stormdancer left Cedrano early in the spring, over a year ago now, heading south. In a month, they were south of Illoria; in two, sailing through the strange waters of the Sea of Storms, dodging storms and passing arcane islands dotted with ancient ruins. Then, months of sailing strange coastlines, seeing the vast gleaming city of gold (Takano), the islands of living bridges connected by great vines growing across the channels, the bustling markets in the kingdom full of the most tempting smells. By the time we turned north, the Stormdancer's hold was full of delicacies and our hearts full of strange tales of the south.
+*The latest journey had been such a joy. The Stormdancer left Cedrano early in the spring, over a year ago now, heading south. In a month, they were south of Illoria; in two, sailing through the strange waters of the Sea of Storms, dodging storms and passing arcane islands dotted with ancient ruins. Then, months of sailing strange coastlines, seeing the vast gleaming city of gold (Takano), the islands of living bridges connected by great vines growing across the channels, the bustling markets in the kingdom full of the most tempting smells. By the time we turned north, the Stormdancer's hold was full of delicacies and our hearts full of strange tales of the south.*
 
-*But of course the wonders of the sea are ever-present, and there was no way we were going to travel a straight course. In the southern reaches of Illoria, we heard tell of a fallen star in the vast mangroves on the western coast of Apporia, that light up the lagoons at night. Of course, how could we resist. so we sailed the long western route, instead of through the canal. It was this that brought the Stormdancer to the silent sea, the dead calm above the city of Omi, and all that came next.*
+*But of course the wonders of the sea are ever-present, and there was no way we were going to travel a straight course. In the southern reaches of Illoria, we heard tell of a fallen star in the vast mangroves on the western coast of Apporia, that lights up the lagoons at night. Of course, how could we resist? So we sailed the long western route, instead of through the canal. It was this that brought the Stormdancer to the silent sea, the dead calm above the city of Omi, and all that came next.*
 
 *I was asleep when we hit the doldrums. Tilly was on watch. We thought nothing of it, at first. It was only when Tilly's magic could not affect the water beneath us that we got curious. Leaving the Stormdancer under the command of my first mate, Tilly and I took a crew of eighteen down beneath the sea to explore.*
 
@@ -12,4 +17,21 @@ tags: [source]
 
 *We were taken past some giant tentacled creature and through a portal to the plane of water. Not knowing what was coming next, and worried about being trapped, Tilly used her magic to turn into a giant octopus, hoping in the confusion to free us. It was a close thing - we nearly made it. If that terrible tentacled guardian hadn't crossed over, I think we would have escaped.*
 
-*As it was, we lost seven of our crew, and were transformed into these terrible creatures, unable to speak or use any of our magic while the transformation holds, and brought here. And ever since we have sorted rubble, trapped. But no longer, thanks to you!
+*As it was, we lost seven of our crew, and were transformed into these terrible creatures, unable to speak or use any of our magic while the transformation holds, and brought here. And ever since we have sorted rubble, trapped. But no longer, thanks to you!*
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `campaign: Dunmar Frontier`, the explicit display name, and `POV: 1749`.
+- Corrected “that light up the lagoons” → “that lights up the lagoons”; “how could we resist. so we sailed” → “how could we resist? So we sailed”.
+- Restored missing closing emphasis delimiters on 2 paragraphs.
+
+### Validated judgments
+- The title is a descriptive label for a source record, not an established name of an in-world work; no name block applies.
+- The documentary speaking frame is DR 1749, supported by [[Session 102 (DuFr)]]; older memories and reported beliefs remain attributed source content.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.prose_clarity:** The passage “a garbed tale conflict with Gazankoa” has a damaged phrase that obscures what the merfolk told Milo. [[Session 102 (DuFr)]] identifies this as Milo's retrospective account rather than an omniscient history. If the intended meaning is that the account was confused, use: “a garbled tale of conflict with Gazankoa”. Confirm that reading before replacing the original.
+%%^End%%

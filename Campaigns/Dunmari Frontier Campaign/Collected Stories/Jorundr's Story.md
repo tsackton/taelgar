@@ -1,11 +1,16 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:32:28-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: "Jorundr's Story"
+POV: 1748
 ---
 # Jorundr's Story
 ([[Session 71 (DuFr)|collected by]] [[Kenzo]])
 
-[[Jorundr]]'s story starts east and north of here, in the [[Green Sea]]. He was born to some of my kind of who live underwater there -- while many of our kind dwell in the high mountains among the clouds, others dwell deep below the sea. 
+[[Jorundr]]'s story starts east and north of here, in the [[Green Sea]]. He was born to some of my kind who live underwater there -- while many of our kind dwell in the high mountains among the clouds, others dwell deep below the sea.
 
 [[Jorundr]] did not wish a life on the currents, following the weather of the ocean and the movement of the waters. The ocean is not so changeable as the storms above, and Jorundr was always a changeable person. More so than many of my kind, eager and impulsive. Sometimes he had trouble seeing the paths of the future that guide our decisions. 
 
@@ -19,4 +24,4 @@ Despite the glory of the time, I could see in the portents the seeds of [[Dranko
 
 He spent a hundred years with me, maybe more, and in that time much changed. When he left, war had broken out. [[Helea]] was assassinated, [[Ysabel of Drankor|Ysabel]] fought [[Vestian]] and lost, and the faction associated with the [[Omnis Pura]] took control. And soon after I was trapped. 
 
-I think, from your memories [[Kenzo]], that [[Jorundr]] learned of this and came to try to save me. But failed, dying in the magical disaster that brought down [[Drankorian Empire|Drankor]]. 
+I think, from your memories [[Kenzo]], that [[Jorundr]] learned of this and came to try to save me. But failed, dying in the magical disaster that brought down [[Drankorian Empire|Drankor]].
