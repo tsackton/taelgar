@@ -1,5 +1,10 @@
 ---
+lintedAt: "2026-10-20T09:08:30-04:00"
+lintVersion: "3.5"
 tags: [meta]
+campaign: Dunmar Frontier
+name: Scrying Delwath Oct 26
+POV: 1748
 ---
 
 **(Oct 21 - Oct 26)**
@@ -28,7 +33,7 @@ First scrying attempt on [[Stormcaller Tower]] fails. In your second attempt, yo
 
 It is hard to get a great sense of the city from just watching one spot for 10 minutes, but you do get the idea that this is a city full of tension right now. People are openly carrying weapons on the streets.
 
-People are nervous, here. [[Kirian's]] seems to be a Karnas establishment - once you overhear two people talking about when the Samraat (referring to [[Nayan Karnas]]) will send more troops to quiet things down, and when the Lakan monks will finally pick a side (which the person seems sure will be Karnas). Another time, someone comes in, who [[Kirian]] seems to recognize, because you here a shout, "Get out! No recruiting here!"
+People are nervous, here. [[Kirian's]] seems to be a Karnas establishment - once you overhear two people talking about when the Samraat (referring to [[Nayan Karnas]]) will send more troops to quiet things down, and when the Lakan monks will finally pick a side (which the person seems sure will be Karnas). Another time, someone comes in, who [[Kirian]] seems to recognize, because you hear a shout, "Get out! No recruiting here!"
 
 The army camp is still in place, and seems to have grown slightly, if anything. Soldiers are drilling, but there is also a feeling of weariness, like you can only stay alert without action for so long. This is not a camp that has recently seen battle.
 
@@ -40,6 +45,6 @@ However, you piece together that they are traveling, of course. Scry doesn't rea
 
 [[Hektor]] rarely talks and when you view him he is either riding seemingly slightly ahead of the group, in silence, watching; or sitting in silence some distance from the camp. Once you see the interior of a quiet inn, and [[Hektor]] sitting alone at a table eating stew.
 
-[[Antonia]] is more social. You see here polishing her armor, and generally taking care of it, tinkering with it. You also once catch her in conversation with someone you know: [[Vola]], who you gather is traveling with them. [[Antonia]] is telling [[Vola]] she is glad she could join them, but the conversation seems kind of one sided. [[Antonia]] mentions she is excited to sail through the canal, marveling at it as a feat of engineering.
+[[Antonia]] is more social. You see her polishing her armor, and generally taking care of it, tinkering with it. You also once catch her in conversation with someone you know: [[Vola]], who you gather is traveling with them. [[Antonia]] is telling [[Vola]] she is glad she could join them, but the conversation seems kind of one sided. [[Antonia]] mentions she is excited to sail through the canal, marveling at it as a feat of engineering.
 
 [[Casian]] you fail to scry twice, but do see him once, on Oct 25th. He is sitting with [[Kadmos]] on the deck of a ship, watching [[Antonia]] and watching a mage of some sort in sky blue robes with a deep hood shadowing their face, sitting in the middle of a circle of some kind of powder on the deck of the ship, chanting. He turns to speak with [[Kadmos]], saying, "Can we trust her, really?", when [[Kadmos]] glances around, and makes a gesture to [[Casian]] to stop talking.

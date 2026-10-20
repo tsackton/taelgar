@@ -1,5 +1,10 @@
 ---
-tags: [meta]
+lintedAt: "2026-10-20T09:08:30-04:00"
+lintVersion: "3.5"
+tags: [meta, status/check/lint]
+campaign: Dunmar Frontier
+name: Scrying Delwath Tollen Downtime
+POV: 1749
 ---
 
 # Scrying, Feb/March 1749
@@ -12,7 +17,7 @@ The fourth attempt, in February, succeeds, revealing a dark chamber, maybe 20 fe
 
 [[Apollyon]] looks up - straight at the scrying sensor - as it appears. You catch a glimpse of his face – gaunt, but not entirely skeletal – before his appearance shifts and you see sitting in this chamber the Emperor Apollyon of old, whom you have seen in [[Mirror of the Past]]. 
 
-He stands, and walks to one of the chamber walls. With a flick of his hand, the wall shifts, revealing a corridor. He walks down the corridor, and steps into a larger chamber, a circular room with a high ceiling through which light illuminates the floor, which is covered in runes. As [[Apollyon]] enters the runes light up, and at that moment five tombs raise from the ground. Each has a plain lid, and Apollyon lifts his hand the lids slide off.
+He stands, and walks to one of the chamber walls. With a flick of his hand, the wall shifts, revealing a corridor. He walks down the corridor, and steps into a larger chamber, a circular room with a high ceiling through which light illuminates the floor, which is covered in runes. As [[Apollyon]] enters the runes light up, and at that moment five tombs rise from the ground. Each has a plain lid, and as Apollyon lifts his hand, the lids slide off.
 
 Emerging from the tombs are what appear to be Riswynn, Delwath, Seeker, Wellby, and Kenzo. 
 
@@ -26,7 +31,7 @@ And then the sensor is dispelled. 
 
 For the most part, [[Sibling War|the events in Dunmar]] don’t seem to have had a dramatic impact on Chardon. You catch the occasional discussion of news from the east, a variety of garbled rumors about hags and civil war. In many of them, you feature as allies of the hag and instigators of chaos - you seem to have some notoriety in Chardon. However, no one in Chardon seems too concerned with Dunmar and there does not seem to be a drumbeat for war.
 
-You gather that, if anything, there is something of a conflict between the young Magistros, [[Mitus Verina Auratan]], and some of the notable wizards of the [[Hetaeri Magica]] (a somewhat mysterious organization of wizards associated with the [[Great Library]] and the [[University of Chardon]], who manage rules about magic and magical training; Fausto is a prominent member). The Magistros, according to the rumors, sees no profit in war with Dunmar, and apparently the mages lost in the [[Battle of Tokra]] were largely not official [[Chardonian Legion]] wizards but mostly freelancers from the ranks of the University. Even the Hetaeri Magica, rumors report, is divided between those who wish war and those who council caution and peace. 
+You gather that, if anything, there is something of a conflict between the young Magistros, [[Mitus Verina Auratan]], and some of the notable wizards of the [[Hetaeri Magica]] (a somewhat mysterious organization of wizards associated with the [[Great Library]] and the [[University of Chardon]], who manage rules about magic and magical training; Fausto is a prominent member). The Magistros, according to the rumors, sees no profit in war with Dunmar, and apparently the mages lost in the [[Battle of Tokra]] were largely not official [[Chardonian Legion]] wizards but mostly freelancers from the ranks of the University. Even the Hetaeri Magica, rumors report, is divided between those who wish war and those who counsel caution and peace. 
 
 Nonetheless, there does seem to be a growing undercurrent of distrust of the Dunmari on the streets of Chardon, especially around [[Precinct IV]], the University area. Outside [[The Thirsty Scholar]], you see a group of students angrily turn away a Dunmari couple, taunting them, and these sights are not rare, although once when watching the port area, you do also see a soldier break up a fight between several Chardonians and a Dunmari man.
 
@@ -34,7 +39,7 @@ Nonetheless, there does seem to be a growing undercurrent of distrust of the Dun
 
 [[Delwath]] scries on [[Marcella]] three times: once, the scry fails, but the other two succeed. 
 
-In mid-February, he sees her traveling with three other people, moving quietly and quickly in single file along a barren, ashy plain. All are dressed in cloaks and breastplates, and carry swords and bows - these are clearly not mere commoners. They seem to be following the footprints of something, for they often stop to search the ground. Marcella goes last: her footsteps leave the footprints of the metal boots of a hobgoblin solider. 
+In mid-February, he sees her traveling with three other people, moving quietly and quickly in single file along a barren, ashy plain. All are dressed in cloaks and breastplates, and carry swords and bows - these are clearly not mere commoners. They seem to be following the footprints of something, for they often stop to search the ground. Marcella goes last: her footsteps leave the footprints of the metal boots of a hobgoblin soldier. 
 
 Two weeks later, in early March, Marcella is camped near a marshy river. She is speaking quietly to a [[Lizardfolk]] man, telling him that the creature is dead. It was a corrupted echo of the Shadowfell, a Sorrowsworn. The Rangers will keep watch for a few more weeks, she says, as the Sorrowsworn often appear in groups. 
 
@@ -58,9 +63,9 @@ By early March, [[Johar]] is traveling northeast, probably heading for [[Tokra]]
 
 ## Havdar
 
-Delwath scries on [[Havdar]] a number times in February and early March to get a sense of the border between Dunmar and Chardon. Mostly, you see the routine of army camp life. Havdar has at least a thousand troops, possibly more, camped on the western [[Songara Plains]], near the edge of Dunmari territory. There does not seem to be significant active engagements with Chardonian troops – you don’t see signs of mass casualties or mobilization – although it is hard to know whether minor clashes have occurred. 
+Delwath scries on [[Havdar]] a number of times in February and early March to get a sense of the border between Dunmar and Chardon. Mostly, you see the routine of army camp life. Havdar has at least a thousand troops, possibly more, camped on the western [[Songara Plains]], near the edge of Dunmari territory. There do not seem to be significant active engagements with Chardonian troops – you don’t see signs of mass casualties or mobilization – although it is hard to know whether minor clashes have occurred. 
 
-In early March, it seems the camp has swelled in size, at least doubled if not more. [[Havdar]] speaks frequently with scouts, commanders, and others. There seems to be some negotiations with Chardon – occasionally you will see a Chardonian messenger coming, or going – but Havdar is cautious. He never speaks of battle plans, or reads messages in a place you can see with your scrying. His primary command tent seems to regularly have some kind of ward on it, for it looks like an opaque white dome when viewed with scrying, and when Havdar enters the sensor cannot pass through.
+In early March, it seems the camp has swelled in size, at least doubled if not more. [[Havdar]] speaks frequently with scouts, commanders, and others. There seem to be some negotiations with Chardon – occasionally you will see a Chardonian messenger coming, or going – but Havdar is cautious. He never speaks of battle plans, or reads messages in a place you can see with your scrying. His primary command tent seems to regularly have some kind of ward on it, for it looks like an opaque white dome when viewed with scrying, and when Havdar enters the sensor cannot pass through.
 
 ## Radomir
 
@@ -92,6 +97,21 @@ The woman then rides off. ​​
 Delwath spends an evening in late February speaking to [[Sura]] via the Dream spell. Much of the conversation is spent talking about surviving and recovering from losing a part of your life to being trapped in an extradimensional space, a thing that Sura never expected to find someone else who had experienced, much less survived. However, in the course of the conversation, [[Delwath]] learns a few useful updates on the state of negotiations:
 
 - [[Abha]] is serving as the chief negotiator and go-between. Sura finds her hard to talk to, but scrupulously fair, and she is one of the few people Karnas trusts. [[Nayan Karnas|Karnas]] and [[Sura]] have still not spoken, but the accusations that Sura is under [[Agata]]’s influence have stopped, suddenly. Sura remains quite angry at her brother but is slowly beginning to believe he is as much a victim of Agata’s traps and tricks as she is. She has sent letters to [[Govir]] at the [[Archives|Tokra Archives]], and asked him to see what he can piece together about Agata’s influence on [[Dunmar#History|Dunmari history]], which she is beginning to fear is quite significant. 
-- Karnas and Sura have agreed to stand down their armies. Sura is sending the bulk of her troops to join Havdar’s camp along the Chardonian border, while a smaller fraction is heading east to reinforce [[Shakun's Protection]]and patrol the eastern border. 
+- Karnas and Sura have agreed to stand down their armies. Sura is sending the bulk of her troops to join Havdar’s camp along the Chardonian border, while a smaller fraction is heading east to reinforce [[Shakun's Protection]] and patrol the eastern border. 
 - [[Sura]] and [[Nayan Karnas|Karnas]] will remain for some time, while negotiations continue. [[Johar]] will leave soon to ask Speaker [[Lara]] to summon a conclave of the head priests and leaders of the mystai, and [[Nayan Karnas|Karnas]] is sending messages west asking the same. 
 - However, no one is quite sure exactly how to proceed once a conclave is formed, other than to hope the gods have some clear message, but this does not feel urgent as it will take some months for the conclave to gather and thus it feels like there is plenty of time for the gods to make their will known. Current negotiations are largely over the structure of the conclave and what it will be empowered to decide.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the explicit document name, canonical `campaign: Dunmar Frontier`, and campaign-observation `POV: 1749`.
+- Corrected 8 objective typo, punctuation, or grammar defects; preserved source voice and uncertainty.
+
+### Validated judgments
+- Reviewed as a bounded campaign record; visionary or scrying uncertainty remains source testimony.
+
+### Open findings
+
+- [ ] **Suggestion — correctness.name_spelling:** The Radomir section first names `[[Rodnya Voknaz]]` but later quotes “The Rodyna Voknaz trust you enough”. [[Rodnya Voknaz]] and [[Philosopher's Information Concerning Rodnya Voknaz]] use “Rodnya Voknaz”. Confirm whether the second spelling is a transcription typo or intentional speech. If it is a typo, replace only “The Rodyna Voknaz trust you enough” with “The Rodnya Voknaz trust you enough”. The source wording remains unchanged pending that decision.
+%%^End%%

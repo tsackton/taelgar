@@ -1,5 +1,10 @@
 ---
-tags: [source]
+lintedAt: "2026-10-20T09:08:30-04:00"
+lintVersion: "3.5"
+tags: [source, status/check/lint]
+campaign: Dunmar Frontier
+name: The Last Jade Vision
+POV: 1749
 ---
 
 ## The Last Jade Vision
@@ -15,3 +20,17 @@ Years pass, and the connection to the souls trapped in the dagger grows dimmer a
 Many more years pass, and Apollyon seems to grow weaker and weaker. But this net of chaos, this fragment of Limbo wrapped around the temple, seems to grow stronger and stronger, with tendrils reaching out across the world. As Apollyon grows weaker and the chaos of limbo grows stronger, Rai decides that if he does nothing, the curse that Cha'mutte left behind may grow too strong. He leaves the dagger in what he thinks is the one place that will be safe—under the protection of the divine. Maybe it's still there, maybe it's not. And vanishes.
 
 And the shared dream fades as you drift into peaceful sleep.
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Recorded the explicit document name, canonical `campaign: Dunmar Frontier`, and campaign-observation `POV: 1749`.
+
+### Validated judgments
+- Reviewed as a bounded campaign record; visionary or scrying uncertainty remains source testimony.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.prose_clarity:** “But this net of chaos, this fragment of Limbo wrapped around the temple” follows the account of a net around Apollyon’s tomb and Rai’s separate move to the Temple of the Eight Divines. The referent is unclear: the record does not explain whether the prison moved or whether “temple” refers back to the tomb. Verify the intended referent in this source record. If the original prison is meant, the bounded candidate is: “But this net of chaos, this fragment of Limbo wrapped around Apollyon’s tomb, seems to grow stronger and stronger, with tendrils reaching out across the world.” Otherwise clarify which temple is meant without inventing a relocation or a new binding.
+%%^End%%

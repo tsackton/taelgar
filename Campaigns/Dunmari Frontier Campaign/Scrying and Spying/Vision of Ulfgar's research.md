@@ -1,8 +1,13 @@
 ---
+lintedAt: "2026-10-20T09:08:30-04:00"
+lintVersion: "3.5"
 tags: [meta]
+campaign: Dunmar Frontier
+name: "Vision of Ulfgar's research"
+POV: 1748
 ---
 
-Artifacts. Most of Ulfgar's notes talk about two artifacts: a scepter and a cloak, although he also writes that the last decade of Apollyon's rule is shrouded in mystery, and the few surviving accounts of Drankorians fleeing the destruction of Drankor talk of the four, or sometimes three, or maybe five, relics of Apollyon's might. The cloak seems to have rumors of a feywild connection - Ulfgar has marked and underlined several scribbled notes referring to two different scholars who suggest that Apollyon stole, begged, traded or otherwise acquired the [[Cloak of Rainbows]] from the Feywild. There are also several cryptic references to the [[People of the Rainbow]], associated with the cloak. Ulfgar has written "Fey?" here, and "Destroyed by Apollyon?", but it seems there is no solid information. About the scepter, it said that none could disobey a direct order from Apollyon while he bore it, but Ulfgar seems to have been far more fascinated with the cloak. As far as destroying powerful magic items, Ulfgar lists a number of rumored tales of such destruction, all in which the item to be destroyed was taken to another plane, usually one of the elemental planes. He tallies six tales: two involving the plane of fire, one involving the plane of air, one involving the plane of water, and two involving Limbo, the primordial plane of chaos. 
+Artifacts. Most of Ulfgar's notes talk about two artifacts: a scepter and a cloak, although he also writes that the last decade of Apollyon's rule is shrouded in mystery, and the few surviving accounts of Drankorians fleeing the destruction of Drankor talk of the four, or sometimes three, or maybe five, relics of Apollyon's might. The cloak seems to have rumors of a feywild connection - Ulfgar has marked and underlined several scribbled notes referring to two different scholars who suggest that Apollyon stole, begged, traded or otherwise acquired the [[Cloak of Rainbows]] from the Feywild. There are also several cryptic references to the [[People of the Rainbow]], associated with the cloak. Ulfgar has written "Fey?" here, and "Destroyed by Apollyon?", but it seems there is no solid information. About the scepter, it is said that none could disobey a direct order from Apollyon while he bore it, but Ulfgar seems to have been far more fascinated with the cloak. As far as destroying powerful magic items, Ulfgar lists a number of rumored tales of such destruction, all in which the item to be destroyed was taken to another plane, usually one of the elemental planes. He tallies six tales: two involving the plane of fire, one involving the plane of air, one involving the plane of water, and two involving Limbo, the primordial plane of chaos.
 
 Drankorian history. Here, Ulfgar seems to have copied out the annal of emperors from the standard scholarly work on the subject, Cavarrio's Chronicles of [[Drankorian Empire|Drankor]].
 
@@ -29,11 +34,11 @@ Drankorian history. Here, Ulfgar seems to have copied out the annal of emperors 
 | Edrae (f)                  | Peronar          | the child emperor, magically cursed to never age, reigned for years as a child                              | 654        | 684      |
 | Miluinis the Gentle (f)    | Peronar          |                                                                                                             | 684        | 701      |
 | Ernault (m)                | Non-Hkar         | first non-Hkar ruler                                                                                        | 701        | 762      |
-| Aglir (m)                  | Peronar          | one of the last Peronar rulers, his reign was considered an echo fo the First Peace and the reign of Malrin | 762        | 811      |
+| Aglir (m)                  | Peronar          | one of the last Peronar rulers, his reign was considered an echo of the First Peace and the reign of Malrin | 762        | 811      |
 | Pelois (m) and Cekious (f) | Hkar             | twins; ruled together; died in battle against a planar incursion                                            | 811        | 820      |
 | Melisende (f)              | Non-Hkar         | second non-Hkar ruler                                                                                       | 820        | 855      |
 | Alador the Elf Friend (m)  | Hkar             | strong ruler                                                                                                | 855        | 879      |
-| Imrodel (f)                | Peronar          | her daugher Tariele died young and never ruled; historians mark this as beginning of end of Golden Age      | 879        | 934      |
+| Imrodel (f)                | Peronar          | her daughter Tariele died young and never ruled; historians mark this as beginning of end of Golden Age      | 879        | 934      |
 | Letusas the Quiet (f)      | Hkar             | weak ruler                                                                                                  | 934        | 936      |
 | Eiphis the Blind (m)       | Hkar             | came to the throne late in life                                                                             | 936        | 943      |
 | Helea (f)                  | Non-Hkar         | killed by [[Omnis Pura]] to start civil war                                                                     | 943        | 965      |

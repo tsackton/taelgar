@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+lintedAt: "2026-10-20T09:08:30-04:00"
+lintVersion: "3.5"
 tags: [source]
 campaign: Dragonets
 name: The Shared Vision of Home
@@ -13,7 +15,7 @@ POV: undated
 
 **DM:** As you all hug the egg, the patterns on the egg begin to glow, and all of you experience, again, this… it's hard to describe it other than, like, the most sacred experience you've ever had in your lives. Like, this is, like, a very, very powerful, sacred moment.
 
-And as you touch it, the egg begins to glow, and light up. Tthese eight points of light start to appear across the egg, as all of you are touching it, holding it, and just feeling this deep, deep sense of being moved by this embrace of each other, but then also the embrace of the egg.
+And as you touch it, the egg begins to glow, and light up. These eight points of light start to appear across the egg, as all of you are touching it, holding it, and just feeling this deep, deep sense of being moved by this embrace of each other, but then also the embrace of the egg.
 
 And as you touch it, and as it lights up, you feel also, in some weird way, that your consciousness is merging together. Like, you're hugging it as kind of four distinct entities, but the longer you hug it, the more that it feels like you're actually just one entity.
 
