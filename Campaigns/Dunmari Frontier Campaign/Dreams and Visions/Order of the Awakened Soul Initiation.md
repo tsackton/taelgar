@@ -1,5 +1,10 @@
 ---
+lintedAt: "2026-10-20T09:08:30-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: Order of the Awakened Soul Initiation
+POV: 1748
 ---
 
 # Order of the Awakened Soul Initiation
@@ -10,7 +15,7 @@ tags: [source]
 >
 >Now, rather than the dark mass behind you you're passing through hostile terrain. The feeling of fear, the people coming to you for aid and comfort, pride in your brother being the hero and leading the charge against [[Hobgoblins]], cutting a path through the mountains, to the safety on the other side. Coming to a wide, slow river, defensible, release and relief, the feel of wet earth beneath your feet after months traveling through dry dusty land. The river valley, a place that could be home. 
 >
->But tinge with sadness, as the next scene shows the masses of people divided some following you some turning north following the river the [[Istaros|Mahar]], on the fast eastern edge of Dunmar, to where it may lead, no one knows, while you can taste the dampness in the air and imagine the sheep grazing and the horses spreading across these valleys. The split is painful still.
+>But tinged with sadness, as the next scene shows the masses of people divided some following you some turning north following the river the [[Istaros|Mahar]], on the far eastern edge of Dunmar, to where it may lead, no one knows, while you can taste the dampness in the air and imagine the sheep grazing and the horses spreading across these valleys. The split is painful still.
 >
 >You pass through another brief moment of darkness, and for a moment you sort of come back to yourselves. Everything is still black and you cannot see each other, but you can hear the sounds of your breathing again, while the sounds of the rustling of grass, the sounds of the water of the river lapping on the shores of its bank fades. Until you are drawn forward again unable to turn back.
 >
@@ -24,11 +29,11 @@ tags: [source]
 >
 >And then, a miracle, the greatest miracle of your life.
 >
->[[Jeevali]]’s tears, as the rain comes, the rivers flow, the desert blooms, and the goddess fades away. You are showered and praise and yet all you can feel the shame and anger, as the rains come, the ash is washed away and the land is cleansed and healed, and yet the goddess is dead, gone, nevermore to grace the land or your waking dreams.  As you rage and cry the people rejoice and celebrate you, and say you have saved them. And the land is healed and whole and life goes on, except for the life of the goddess who should be eternal and bring her blessings forever.
+>[[Jeevali]]’s tears, as the rain comes, the rivers flow, the desert blooms, and the goddess fades away. You are showered in praise and yet all you can feel is the shame and anger, as the rains come, the ash is washed away and the land is cleansed and healed, and yet the goddess is dead, gone, nevermore to grace the land or your waking dreams.  As you rage and cry the people rejoice and celebrate you, and say you have saved them. And the land is healed and whole and life goes on, except for the life of the goddess who should be eternal and bring her blessings forever.
 >
 >And the scene fans again to darkness.
 >
->The lingering shame of that moment stays with you as you step forward again, drawn against your will. To a decision. Beginning construction of a monument, turning to pray. Asking, for anything, any way to trade your life for hers, pouring your entire soul into her being. Not carrying that her brother [[Aagir]] has commanded your brother to slay in the name of the Divine, not caring that the people are rejoicing as blood is shed and slaughter after slaughter after slaughter echoes across the land, the rivers turning red with the blood of those who were here before. Not caring that [[Aagir]] commands only Dunmari shall benefit from Jeevali’s sacrifice. 
+>The lingering shame of that moment stays with you as you step forward again, drawn against your will. To a decision. Beginning construction of a monument, turning to pray. Asking, for anything, any way to trade your life for hers, pouring your entire soul into her being. Not caring that her brother [[Aagir]] has commanded your brother to slay in the name of the Divine, not caring that the people are rejoicing as blood is shed and slaughter after slaughter after slaughter echoes across the land, the rivers turning red with the blood of those who were here before. Not caring that [[Aagir]] commands only Dunmari shall benefit from Jeevali’s sacrifice. 
 >
 >Turning to pray. Turning away food turning, turning away water. The ache in your parched throat the hunger, the pain, the agony, as your life begins to fade away. As you encapsulate all of your belief and every moment of your life in the strength of this goddess. And ask whatever powers are out there to give it to her, to bring her back.
 >
@@ -46,7 +51,7 @@ tags: [source]
 >
 >In Kenzo’s mind, the words are accompanied by an image, a [[Heart of Shakun|beating heart made of stone]]. 
 >
->As the message is spelled out and then begins to fade, the fountain, although it doesn't disappear, begins to fade slightly and the vibrancy of the colors begins to dim. Kenzo sense that reaching into the world even to just send a message directly like this requires considerable energy on the part of the gods.
+>As the message is spelled out and then begins to fade, the fountain, although it doesn't disappear, begins to fade slightly and the vibrancy of the colors begins to dim. Kenzo senses that reaching into the world even to just send a message directly like this requires considerable energy on the part of the gods.
 >
 >With that, Kenzo and Seeker stand and prepare to return to Wellby and Delwath.
 >

@@ -1,5 +1,10 @@
 ---
+lintedAt: "2026-10-20T09:08:30-04:00"
+lintVersion: "3.5"
 tags: [source]
+campaign: Dunmar Frontier
+name: Vision of Rai and Apollyon
+POV: 1749
 ---
 
 A vision seen by the party upon gaining the third [[Jade Piece of Rai's Hand]].
@@ -10,11 +15,11 @@ A vision seen by the party upon gaining the third [[Jade Piece of Rai's Hand]].
 
 *You can feel the pulses of energy flowing around. The deep, ancient magic of this place courses like a river beneath your feet. Some distance away - close enough to grasp - you can feel the rough chains of magic woven by Cha'mutte, binding Apollyon. It takes no effort at all to divert a portion of the magic flowing beneath your feet, pulling the chains tight.*
 
-*You probe, and feel the layers, and layers, of traps and bonds. More powerful magic that even you could create. The hardest to hold are the magical bonds that keep Apollyon powerless, that keep him unable to even access his magical power. This is the magic that should have - would have - killed Apollyon, if not for his careful preparation, hiding his life force even from Cha'mutte.*
+*You probe, and feel the layers, and layers, of traps and bonds. More powerful magic than even you could create. The hardest to hold are the magical bonds that keep Apollyon powerless, that keep him unable to even access his magical power. This is the magic that should have - would have - killed Apollyon, if not for his careful preparation, hiding his life force even from Cha'mutte.*
 
 *Somewhat easier, but still challenging to hold are the physical bonds, the chains that bind him to his final resting place, that keep the powerless corpse of Apollyon tied physically to his tomb.*
 
-*Simplest of all are the locks and wards around the tomb itself, requiring no effort at all, really, to maintain. Should all else fail, these are the last resort, for Apollyon cannot truly regain his full power until he is physically reunited with his the soulstone that holds his life force, and is once again able to feed it the souls of the dead.*
+*Simplest of all are the locks and wards around the tomb itself, requiring no effort at all, really, to maintain. Should all else fail, these are the last resort, for Apollyon cannot truly regain his full power until he is physically reunited with his soulstone that holds his life force, and is once again able to feed it the souls of the dead.*
 
 *Suddenly, time ruptures and the vision splinters*
 

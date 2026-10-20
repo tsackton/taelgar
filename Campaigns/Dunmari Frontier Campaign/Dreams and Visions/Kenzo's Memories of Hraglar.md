@@ -1,5 +1,10 @@
 ---
-tags: [source]
+lintedAt: "2026-10-20T09:08:30-04:00"
+lintVersion: "3.5"
+tags: [source, status/check/lint]
+campaign: Dunmar Frontier
+name: "Kenzo's Memories of Hraglar"
+POV: 1748
 ---
 
 # Kenzo's Memories of Hraglar
@@ -14,7 +19,7 @@ Running up the tower, suddenly your memories come rushing back. Chains, growing 
 
 Then all is dark. You have scattered memories of your mind being split, being forced into a statue of yourself, a representation cast with magic to be your eyes and ears and mouth. The wizard, questioning you, asking how to restore the crashed ship, [[Vindristjarna]], The Star on the Wind. The magic traps you but does not compel you, and you are silent. 
 
-Brief flashes come to you. A memory of the rage swelling within you. The impotent anger, with no where to go. Time passes, in brief flashes, but mostly you step outside time, reach out even in your trapped state to the power of the [[Phasing Stones|phasing stone]] and warp the [[Dreamworld]] around you. Time passes, but not for you, forever in your mountain realm. 
+Brief flashes come to you. A memory of the rage swelling within you. The impotent anger, with nowhere to go. Time passes, in brief flashes, but mostly you step outside time, reach out even in your trapped state to the power of the [[Phasing Stones|phasing stone]] and warp the [[Dreamworld]] around you. Time passes, but not for you, forever in your mountain realm.
 
 Until searing pain, and you can no longer see, and you can feel the angry ghost you forced into the statue looking for you. Sometimes it takes control, and you lash out, the wind and lightning growing strong. Sometimes you fight it off, keep your mind in your dream haven. 
 
@@ -22,5 +27,17 @@ These memories rattle in your mind, and you see them as flashes, somehow knowing
 
 Until your mind clears suddenly, and you find yourself standing in [[Hralgar]]'s dreamscape in the mountains, [[Kenzo]] once more. 
 
+%%^Lint%%
+## Taelgar note lint
 
+### Applied changes
+- Added canonical campaign identity, explicit display name, and the DR 1748 scene viewpoint.
+- Corrected 1 objective transcription, grammar, duplication, or punctuation errors; retained source narration and uncertainty.
 
+### Validated judgments
+- Reviewed as a bounded campaign record; historical visions and reported claims retain their source perspective.
+
+### Open findings
+
+- [ ] **Suggestion — identity.display_name:** The heading spells the giant ‘Hraglar’, while the article's links, [[Hralgar]], and [[Session 70 (DuFr)]] use ‘Hralgar’. Keep the filename and existing incoming links; confirm changing the heading to `# Kenzo's Memories of Hralgar` and frontmatter to `name: Kenzo's Memories of Hralgar`. This makes the displayed title agree with the named subject.
+%%^End%%
