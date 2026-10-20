@@ -1,11 +1,12 @@
 ---
 lintedAt: "2026-10-19T23:30:08-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/lint]
+tags: [source]
 campaign: Mawar Adventures
 name: The Ciphered Scroll
 POV: 1747
 ---
+# The Ciphered Scroll
 
 ## The Ciphered Scroll of Azar
 (written in coded text)
@@ -58,19 +59,5 @@ POV: 1747
 
 %%^Metadata:names:v1%%
 - {"name": "The Ciphered Scroll", "language": "Common", "status": "inferred", "notes": "Plain-English displayed work title; this does not establish the language of the ciphered text."}
-- {"name": "The Ciphered Scroll of Azar", "role": "alias", "language": "unknown", "pronunciation": "thuh SY-ferd SKROHL uhv AH-zahr", "status": "proposed", "notes": "Expanded form displayed in the heading. Proposed by combining ordinary English with the component proposal in [[Azar the Lost]] and the Arabic analogue for Mawaran in [[Languages#Mawaran]]: open ah vowels, voiced z, lightly tapped r and initial stress. The full title language and exact in-world pronunciation are not established."}
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added canonical campaign and explicit name metadata, source-profile viewpoint, and persistent work-title name entries. Corrected `By them I will have rescued` to `By then I will have rescued`.
-
-### Validated judgments
-- This in-world source is sufficient for its documentary role; its speaker's beliefs, uncertainty and historical viewpoint are preserved. All local-only SECRET blocks were reviewed and retained; private contents are excluded from this report.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Review the expanded displayed title's proposal `thuh SY-ferd SKROHL uhv AH-zahr`. Its ordinary English words use their usual readings; `AH-zahr` follows the still-proposed component in [[Azar the Lost]] and the Arabic analogue for Mawaran in [[Languages#Mawaran]], using open ah vowels, voiced z, a lightly tapped r and initial stress. The original name form and exact vowel lengths are not established. Accept or revise the alias entry before marking it documented.
+- {"name": "The Ciphered Scroll of Azar", "role": "alias", "language": "Common", "status": "documented", "notes": "Expanded form displayed in the heading."}
 %%^End%%

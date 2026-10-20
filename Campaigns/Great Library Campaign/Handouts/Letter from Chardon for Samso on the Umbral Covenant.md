@@ -1,11 +1,12 @@
 ---
 lintedAt: "2026-10-19T23:30:08-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/lint]
+tags: [source]
 campaign: Great Library
 name: Letter from Chardon for Samso on the Umbral Covenant
 POV: 1748
 ---
+# Letter from Chardon for Samso on the Umbral Covenant
 
 Dear Samso,
 
@@ -26,19 +27,5 @@ While I do not know if this information helps you, if you wish to learn more I w
 Archivist Lyra
 
 %%^Metadata:names:v1%%
-- {"name": "Letter from Chardon for Samso on the Umbral Covenant", "language": "unknown", "pronunciation": "LET-er from CHAR-din for SAHM-soh on thuh UM-brul KUV-uh-nunt", "status": "proposed", "notes": "Descriptive work label; the title language is not established. The full proposal combines ordinary English with documented CHAR-din in [[Chardon]] and SAHM-soh in [[Samso]]. The complete work-title reading remains proposed."}
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added canonical campaign and explicit name metadata, source-profile viewpoint, and persistent work-title name entries. Corrected `knowledgable` to `knowledgeable`; `from a arcane linguist` to `from an arcane linguist`.
-
-### Validated judgments
-- This in-world source is sufficient for its documentary role; its speaker's beliefs, uncertainty and historical viewpoint are preserved.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Review `LET-er from CHAR-din for SAHM-soh on thuh UM-brul KUV-uh-nunt` for the complete descriptive title. The proper-name components use documented `CHAR-din` in [[Chardon]] and `SAHM-soh` in [[Samso]]; the other words use their ordinary English readings. Neither the complete title's language nor its pronunciation is explicitly recorded. Accept or revise the proposed entry and mark it documented when accepted.
+- {"name": "Letter from Chardon for Samso on the Umbral Covenant", "language": "Common", "status": "documented"}
 %%^End%%
