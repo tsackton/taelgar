@@ -12,10 +12,9 @@ POV: modern
 *See more: [[Halflings]], [[First Ones]]*
 D&D Beyond Link: [Halfling](https://www.dndbeyond.com/species/1755936-halfling)
 
-
 The whistle of the wind in the sails, on a ship crashing through the waves far from land. The clink of coin changing hands at the market. The crackle of the campfire and the smell of bacon and tomatoes sizzling after a long day of walking. The creak of a wagon lumbering to the next village, with a cheery tune emanating from within. [[Halflings]] love these things. A nomadic people who rarely settle in one place for long, halflings come and go with the rhythm of the seasons, making money, friends, or both along the way.
 
-Halflings are wanderers and travelers, merchants and sailors, storytellers and poets, often seen in the communities of other species. Though many halflings are nomadic, and rarely settle in one place for long, they are deeply connected to each other by a unique ancestral consciousness mediated by their gods, the [[First Ones]], which allows them to communicate telepathically and remember fragments of their ancestors' knowledge and lives. Halflings, while not as numerous as humans, are frequent sights across the realms of many species of Taelgar. Cheerful and friendly with outsiders, but private and protective of their kin and traditions, halfling traders, wanderers, and storytellers keep the world connected. 
+Halflings are wanderers and travelers, merchants and sailors, storytellers and poets, often seen in the communities of other species. Though many halflings are nomadic, and rarely settle in one place for long, they are deeply connected to each other by a unique ancestral consciousness that depends on their gods, the [[First Ones]]. Through this connection they remember fragments of their ancestors’ knowledge and lives, and can speak directly, mind-to-mind, to each other and to those with which they share a language. Halflings, while not as numerous as humans, are frequent sights across the realms of many species of Taelgar. Cheerful and friendly with outsiders, but private and protective of their kin and traditions, halfling traders, wanderers, and storytellers keep the world connected. 
 
 ---
 ## Creating Your Halfling Character
@@ -38,6 +37,7 @@ Halflings have given names and family names, which are often derived from nickna
 
 ---
 ## Basic Traits
+D&D Beyond Link: [Halfling](https://www.dndbeyond.com/species/1755936-halfling)
 
 **Creature Type:** Humanoid  
 **Size:** Small (about 2–4 feet tall) 
@@ -66,11 +66,6 @@ Halflings are generally small, quick, charming and adaptable wanderers. You may 
 
 
 %%^Campaign:none%%
-**Notes:**
-- [x] [[Halflings]]: overview page, likely needs an update to better capture vibes, and perhaps link to sources better, could also better incorporate some ideas only developed in [[Land Holding in Sembara]] and [[Taxes in Sembara]]
-- [ ] [[First Ones]]: has some initial short notes; could use a little more elaboration as well as individual notes for each deity
-- [x] D&D Beyond Mechanics
-- [ ] D&D Beyond Text -> Link to Taelgarverse needs to be updated to point to this page when it is pushed.
 ## Design Notes
 
 Halfling design logic, taking the basic model of the PHB 2024 to be a species should consist of traits approximately the same value as (a) an origin feat, (b) a skill proficiency, and (c) a flavorful and situationally strong ability, but that species can vary a bit up or down from this for flavor
@@ -93,8 +88,6 @@ Obito's Knowledge Option 1: You gain your choice of one tool proficiency.  In ad
 Obito's Knowledge Option 2: You gain your choice of one tool proficiency.  When you finish a long rest, choose one tool proficiency. Until your next long rest, you are considered proficient with that tool.
 Obito's Knowledge Option 3: You gain your choice of one tool proficiency.  In addition, you may learn an additional tool proficiency at character levels 7 and 14.
 Obito's Knowledge Option 4: You gain your choice of one tool proficiency, or, if you are already proficiency, expertise in one tool proficiency. In addition, you can act as an assistant when crafting items, as if you were proficient in a tool, even if you lack proficiency. 
-
-
 %%^End%%
 
 %%^povNotes:v1%%
