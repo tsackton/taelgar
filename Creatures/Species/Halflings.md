@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature, status/check/mike, status/check/lint]
+tags: [creature]
 name: Halflings
 aliases: [halfling, halflings, Halfling]
 dm_owner: joint
@@ -11,15 +11,13 @@ POV: modern
 ---
 # Halflings
 
-%% @mike: cleaned up DM notes to remove AI slop, bouncing back for any final edits %%
-
-On roads and riverways, and in every harbor along the [[Green Sea]], halfling caravans and crews are a familiar sight. Most folk know them as cheerful traders and tireless sailors, quick with a song or a story and quicker still to strike a fair bargain. They travel in tight‑knit family companies, keep excellent inns at busy crossroads, and have a reputation for remembering favors—and settling them—even generations later. Halflings commonly speak mind‑to‑mind among themselves, and their storytellers are famed for carrying memories older than any living person.
+On roads and riverways, and in many harbors along the [[Green Sea]] and the [[Endless Ocean]], halfling caravans and crews are a familiar sight. Most folk know them as cheerful traders and tireless sailors, quick with a song or a story and quicker still to strike a fair bargain. They often travel in tight‑knit family companies, keep excellent inns at busy crossroads, and have a reputation for remembering favors—and settling them—even generations later. Halflings commonly speak mind‑to‑mind among themselves, and their storytellers are famed for carrying memories older than any living person.
 ## Appearance
 
 Halflings are small and sturdy, usually no more than 3 to 3½ feet tall, with a tendency toward a healthy stoutness and curly hair. Otherwise, they are quite variable in appearance, with diverse complexions, though with a strong tendency for bright eyes, usually green, brown, or hazel. Halflings favor practical garb, and often prefer travel‑ready coats and trousers built for long walks to more elaborate gear, though many cannot resist a few flashes of color and style. A halfling traveler, in muted traveler's clothes, with a brightly colored cloak or a well-tailored hat is a common sight. 
 ## Language and Naming
 
-Constant travel leaves most halflings comfortable speaking in many tongues. Silent, mind‑to‑mind speech is ordinary among them; caravans and crews often confer in silence before answering difficult questions, and private matters are rarely spoken aloud. Songs and stories are usually spoken or sung in the Halfling language, which is rarely taught to outsiders. For dealings with others, halflings usually speak one or more of the various trade pidgins popular across the world. Some scholars even claim these languages were invented by, or at least popularized by, early halfling traders and sailors.
+Constant travel leaves most halflings comfortable speaking in many tongues, though songs and stories are usually spoken or sung in the Halfling language, which is rarely taught to outsiders. Uniquely, halflings commonly speak using silent, mind‑to‑mind speech, especially to each other. Caravans and crews often confer in silence before answering difficult questions, and private matters are rarely spoken aloud. For dealings with others, halflings usually speak one or more of the various trade pidgins popular across the world. Some scholars even claim these languages were invented by, or at least popularized by, early halfling traders and sailors.
 
 Names usually pair a short given name with a distinctive family name, sometimes related to a trade, place, or storied deed, but often simply a pleasing-sounding invention.
 
@@ -34,7 +32,7 @@ Some debate about the role of halflings in inventing or popularizing trade tongu
 %%^End%%
 ## Lifecycle
 
-Halflings reach maturity in their early 20s and commonly live a little past 100; a lucky few live longer. Families are broadly extended and communitarian in habit: caravans and ship crews are typically kin companies first and businesses second, with apprentices, in‑laws, and the occasional foundling or wanderer folded into the roll.
+Halflings reach maturity in their early 20s and commonly live a little past 100, though a lucky few live longer. Families are broadly extended and communitarian: caravans and ship crews are often kin companies first and businesses second, with apprentices, in‑laws, and the occasional foundling or wanderer folded into the community.
 ## Settlements and Homelands
 
 Halflings are wanderers, claiming no homeland. Those that settle typically do so among other species. Halfling communities can be found in dwarven cities high in the mountains, human farming villages, bustling ports, cosmopolitan cities, and even the occasional lizardfolk river-town. Lively harbor taverns, bustling crossroads inns, and market‑side yards run by halfling families are commonplace in many parts of the world, for when halflings do settle, they tend to cluster where movement concentrates: at river landings, ports, crossroads, tollgates, and market environs. In many places, halfling‑kept inns act as wayhouses, mail drops, price boards, and hubs of halfling community, providing a homely welcome, information, and gossip to travelers, while also ensuring that even settled halflings remain threaded into the wider network of travel, trade, and kin.
@@ -45,7 +43,7 @@ While it is not uncommon to see lone halflings, or small groups, on the road to 
 
 ## Cultural Traits
 
-Hospitality, memory, and fair dealing define their public face. Travelers speak of halfling feasts and long evenings of song; merchants learn that debts of kindness may be repaid at surprising moments, and that word of treachery travels fast. Discipline aboard ship and loyalty within the company sit alongside an easy warmth with strangers who come in peace. Memory‑debts are honored [[Story About Halfling Merchants|even across generations]]; a favor owed by a great‑grandparent may be repaid in coin, bargain, or feast when a caravan next passes through.
+Hospitality, memory, and fair dealing define the public face of halflings to the world. Travelers speak of halfling feasts and long evenings of song; merchants learn that debts of kindness may be repaid at surprising moments, and that word of treachery travels fast. Discipline aboard ship and loyalty within the company sit alongside an easy warmth with strangers who come in peace. Memory‑debts are honored [[Story About Halfling Merchants|even across generations]]; a favor owed by a great‑grandparent may be repaid in coin, bargain, or feast when a caravan next passes through.
 
 ### Religion
 _See more: [[Halfling Religious Practice]]_
@@ -54,11 +52,11 @@ Most halflings honor their firstborn creator gods, who they call the [[First One
 
 ### The Shared Ancestral Mind
 
-Halfling identity is anchored in a shared ancestral mind—a collective memory in which individual lives contribute to a larger continuity. The ancestral mind is described as an ocean of recollection in which persons are distinct waves: unique, transient forms arising from and returning to a common whole. This outlook shapes social conduct: in significant ways, halflings see themselves not solely as individuals, but also always part of this whole, one single family connected, even if they haven't met. Thus, one halfling can always expect to share another’s camp and companionship, halflings treat one another as extended kin even on first meeting, and they often speak of the act of meeting as also an act of remembering. 
+Halfling identity is anchored in a shared ancestral mind—a collective memory in which individual lives contribute to a larger continuity. This shared mind depends on and is nurtured by the [[First Ones]], though if halflings know the precise metaphysics of this connection, they do not share that knowledge. The ancestral mind is described as an ocean of recollection in which people are distinct waves: unique, transient forms arising from and returning to a common whole. This outlook shapes social conduct: in significant ways, halflings often see themselves not just as individuals, but also always part of this whole, one single family connected, even if they haven't met. Thus, one halfling can expect to share another’s camp and companionship, halflings treat one another as extended kin even on first meeting, and they often speak of the act of meeting as also an act of remembering. 
 
 ### Arts and Music
 
-Stories are central to halfling religion, and to their experience and connection to their shared ancestral mind. Thus, many halflings are noted musicians, bards, and storytellers, and halflings have their own unique musical and artistic traditions. 
+Stories are central to halfling religion, and to their experience and connection to their shared ancestral mind. Many halflings are noted musicians, bards, and storytellers, and halflings have their own unique musical and artistic traditions. 
 
 Halfling music is often improvisational, extemporized over stable patterns, reflecting a philosophy that enduring forms are best expressed through unique performances, and connecting to the halfling understanding of selfhood: each individual is both unique and, at the same time, merely an expression of a universal ancestral mind of halfling-ness. Halfling art often strives to express the idea that permanent and unchanging things are always being expressed in unique and changing forms. The journey, the next step, is always different, and even the same road changes with the seasons and years.
 
@@ -76,12 +74,12 @@ Halflings don’t record their history; they remember it. The tale of years is t
 %% note re above: Schwartz invented the idea of a yearly conclave that tells the story of the past year and names it, though whether this is a halfling-wide thing or just a Green Sea tradition is not developed %%
 
 In these ancient tales of years, halflings tell of wandering even when the world was new, when songs could sing sustenance into existence. They tell the stories of meeting humans, of the new songs of trade, of the world changing, yet always halfling journeys as a constant thread of connection. Many halflings claim they were the first to sail the Green Sea, and as the world changed again and again they were always there, to tell the new stories. 
-
+ 
 
 %%^Campaign:none%%
 ## Details for DMs
 ### Open Questions and Further Work
-* The religious experience is only lightly developed and no canon exists on the halfling creation story or metaphysics. Do the [[First Ones]] have a Divine Realm? How does this relate to the idea of a halfling ancestral consciousness?
+* The halfling creation story remains undeveloped. The ancestral mind depends on the [[First Ones]], but its relationship to their divine realm, and the distinction between ancestral memories and souls, remain undecided. These questions are unresolved in-world as well and need not have definitive answers.
 * Metaphysics: halflings presumably have a gifted soul from the First Ones, but does that have any further implications?
 * Language: what is the relationship between halflings and trade tongues. Does this need to be clarified? One idea: halflings invented trade tongues. Another idea: halflings popularized and maintain trade tongues
 * Language: does the actual spoken halfling language have a specific real world analog? 
@@ -102,8 +100,8 @@ In these ancient tales of years, halflings tell of wandering even when the world
 - Magic: halflings provide a good opportunity to expose strange quirks of the ancestral memory, e.g. halflings remembering someone's distant ancestors or similar. Halflings are a good opportunity for unusual magic around memory and telepathy: in the [[Great War Campaign]] halflings were used to send long distance telepathic messages, and in the [[Dunmari Frontier Campaign]] [[Wellby]] had the ability to telepathically communicate with animals, and occasionally was able to gain flashes of memories of halflings from the past (cf [[Wellby]] page).
 
 ### Religion and Metaphysics
-- A key component of halfling metaphysics is the "ancestral memory" (sometimes called the soulmind in older brainstorming). The exact details of this are not well developed. It is mechanically represented by the "Memory of the Ancestors" trait, and in play this often takes the form of having access to the memories of other halflings, in glimpses at least. However, the implications for the metaphysics of halfling gods, the fate of halflings after death, and the plane of the halfling firstborn are not invented. Some ideas:
-	- One possibility is that the "ancestral memory" is, in fact, the plane of the halfling firstborn, and halflings have an extraplanar connection to this place which allows them access to these memories. This threads a bunch of needles and seems like the most likely option.
+- A key component of halfling metaphysics is the "ancestral memory" (sometimes called the soulmind in older brainstorming). Its dependence on the First Ones and its connection to silent speech are established, but its precise metaphysical nature is unknown to halflings and remains undecided. It is mechanically represented by the "Memory of the Ancestors" trait, and in play this often takes the form of having access to the memories of other halflings, in glimpses at least. However, the implications for the metaphysics of halfling gods, the fate of halflings after death, and the plane of the halfling firstborn are not invented. Possible arrangements, none of which needs to be selected:
+	- One possibility is that the "ancestral memory" is, in fact, the plane of the halfling firstborn, and halflings have an extraplanar connection to this place which allows them access to these memories.
 	- Some early brainstorming alternatively focused on the plane of consciousness, and the role of mind-to-mind connections on the plane of consciousness instead, tying the ancestral memory more closely to telepathy. A possibility here is that halflings uniquely are able to leave "impressions" of some kind in the plane of consciousness, such that halfling memories and minds continue to exist as echoes for a long time, possibly forever, after death. This separates "memories" from "souls" and might have some useful implications; it also separates the halfling Firstborn from the ancestral memories a little bit, which might be good or bad. 
 	- The implications of any of these ideas for resurrection is not developed, though Wellby did travel to the Land of the Dead when he was killed by Grash and was later resurrected using Raise Dead with no problem by Riswynn (cf [[Session 88 (DuFr)]])
 - Halfling religious practice is partially developed in [[Halfling Religious Practice]]. The basic vibes should be considered canonical, and there should not be temples to the First Ones in halfling communities or anything like that. 
@@ -147,35 +145,12 @@ In these ancient tales of years, halflings tell of wandering even when the world
 - Halfling gods connection to time -- the story of the years already exists and the telling is remembering in a sense; connection to firstborn, the “memories of the future”. Racial consciousness connects here too, perhaps somehow they can remember the future?
 - Creation Story: The First Ones set halflings wandering so music, trade, and tales would bind the world; origins are preserved in songs and rites rather than foreign chronicles.
 
-
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Halflings, language: unknown}
+- {name: Halflings, language: Common}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern halfling appearance, customs, and community life; the historical perspective describes their remembered past without establishing a narrower dated snapshot.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added the primary name entry and `POV: modern` with a persistent temporal-coverage note.
-- Corrected the duplicated verb in “Constant travel leaves most halflings are comfortable,” “everyone” to “everywhere,” the “halfing” typo, and three unambiguous grammar errors in the DM guidance.
-- Normalized both `Campaign:None` sentinels to the canonical `Campaign:none` spelling, preserving their contents and boundaries.
-
-### Validated judgments
-- The note already follows the requested playable-species format: a public setting overview with developed topical sections, separate DM guidance, and mechanics in [[Playing a Halfling]]. No format migration is needed.
-- Its modern cultural overview is sufficient. The open metaphysical and origin questions are explicitly retained development choices, not missing universal requirements.
-- “Halflings” is an obvious ordinary name and needs no pronunciation aid; its in-world name language is unestablished.
-
-### Open findings
-
-- [ ] **Suggestion — editorial.shared_material_redundant:** Parts of “Details for DMs” repeat the public account: the first, third, and fifth “Where You’ll Find Them” bullets repeat wandering, caravans, and settlement among other species; the baseline professions in “Halflings in Play” repeat traders, sailors, storytellers, and innkeepers; and “Trade Practices, Ships, Caravans” repeats family companies and shared profits. Make a bounded split: trim those repeated statements while preserving the regional qualifications, distinct play guidance, examples, source links, and unresolved questions. The developed collective-trade response in “Law & Governance” could become a short public paragraph if adopted: `Halfling companies protect one another through their reputation for long memories and collective action. A town that mistreats one company may lose the custom of others.` Keep the remaining speculative mechanisms and legal generalizations in the DM guidance; no automatic adoption or restructuring has been made.
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 48]]
-- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Timeline for the End of Drankor]]
 %%^End%%

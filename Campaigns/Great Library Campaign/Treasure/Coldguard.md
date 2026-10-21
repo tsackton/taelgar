@@ -17,7 +17,7 @@ POV: modern
 > ([[Dwarves|dwarven]] magical shield)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-A magical shield of dwarven make, recovered alongside [[Thunderbrand]] in the [[Goldpeak Mines]] under [[Goldpeak Mountain]].
+A magical shield of dwarven make, recovered alongside [[Thunderbrand]] in the [[Goldpeak Mines]] under [[Goldpeak Mountain]]. Coldguard is a steel shield etched with the Deepriver clan markings within a stylized snowflake design.
 
 %%^Metadata:names:v1%%
 - {"name": "Coldguard", "language": "Common", "status": "inferred", "notes": "Plain-English descriptive name; no pronunciation guide is needed."}

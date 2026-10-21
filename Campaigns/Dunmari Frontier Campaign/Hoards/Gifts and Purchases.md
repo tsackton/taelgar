@@ -59,6 +59,7 @@ POV: 1740s
 - Clockwork Amulet (common minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
 - Immovable rod (uncommon minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
 - Cloak of the mantra ray (uncommon minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
+- Magic Cooking Pouch (uncommon minor item,, acquired from the [[Te'kula]] in exchange for a portion of [[Grimbaskal's Hoard]])
 
 **Tollen, from Umli**
 - 9 quivers of Skaer arrows, constructed by [[Umli]]

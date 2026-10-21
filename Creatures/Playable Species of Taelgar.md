@@ -48,10 +48,10 @@ Although less numerous than some other species, [[Elves|elves]], [[Stoneborn|sto
 | --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------ |
 | [[Elves\|Elf]]        | What generation ([[Elven Cycle of Generations\|ka]]) are you from? What stage of your life are you in? Is this your first time leaving your homeland (your first *leya*)? Or have you taken another path? | [[Playing an Elf]]                           | 6                  |
 | [[Stoneborn]]         | What led you to leave the tight-knit community of your home? Do you have a particular craft or skill that is the focus of your mastery?                                                                   | [[Playing a Stoneborn\|Playing a Stoneborn]] | 4                  |
-| [[Centaurs\|Centaur]] | If you were raised in a nomadic herd, what made you leave that deliberate, wandering lifestyle? If you were not, how was your upbringing different from most centaurs?                                    | [[Playing a Centaur]]                        | 6                  |
-| [[Kenku]]             |                                                                                                                                                                                                           | [[Playing a Kenku]]                          | 4                  |
-
+| [[Kenku]]             | Did you grow up among other kenku, or among other species? How has that shaped what you share about yourself and what you keep private? Who, if anyone, knows you as you really are?                      | [[Playing a Kenku]]                          | 4                  |
+| [[Centaurs\|Centaur]] | If you were raised in a nomadic herd, what made you leave that deliberate, wandering lifestyle? If you were not, why was your upbringing different from most centaurs?                                    | [[Playing a Centaur]]                        | 6                  |
 ## Fey Species
+_See also: [[Fey]]_
 
 Of all the planes, the [[Feywild]] is the closest and most accessible from the [[Material Plane]], and it is not uncommon for natives of that plane to be seen across Taelgar. Although [[fey]] species ([[fae]] and [[fairies]]), especially those with more unusual appearances, may inspire fear, curiosity, distrust, excitement, or many other emotions in natives of the Material Plane, most people will at least have heard rumors of the fey and have context in which to understand members of this species (even if that context may be garbled or wrong).
 
@@ -66,7 +66,6 @@ Of all the planes, the [[Feywild]] is the closest and most accessible from the [
 | [[Fae]]                     | What made you leave the Feywild to adventure on the Material Plane?  | [[Playing a Fae]]        | 4 + Sylvan         |
 | [[Fairies\|Fairy]]          | What made you leave the Feywild to adventure on the Material Plane?  | [[Playing a Fairy]]      | 4 + Sylvan         |
 | [[Beastfolk]]               | What made you leave the Feywild to adventure on the Material Plane?  | [[Playing a Beastfolk]]  | 4 + Sylvan         |
-See also: [[Fey]].
 
 ## Rare Species
 
