@@ -11,6 +11,10 @@ POV: modern
 ---
 # Halflings
 
+> [!image|hero]
+> ![[halflings-under-full-sail.webp]]
+> *A halfling crew runs before a strong wind under brightly colored sails.*
+
 On roads and riverways, and in many harbors along the [[Green Sea]] and the [[Endless Ocean]], halfling caravans and crews are a familiar sight. Most folk know them as cheerful traders and tireless sailors, quick with a song or a story and quicker still to strike a fair bargain. They often travel in tight‑knit family companies, keep excellent inns at busy crossroads, and have a reputation for remembering favors—and settling them—even generations later. Halflings commonly speak mind‑to‑mind among themselves, and their storytellers are famed for carrying memories older than any living person.
 ## Appearance
 
@@ -54,6 +58,10 @@ Most halflings honor their firstborn creator gods, who they call the [[First One
 Halfling identity is anchored in a shared ancestral mind—a collective memory in which individual lives contribute to a larger continuity. This shared mind depends on and is nurtured by the [[First Ones]], though if halflings know the precise metaphysics of this connection, they do not share that knowledge. The ancestral mind is described as an ocean of recollection in which people are distinct waves: unique, transient forms arising from and returning to a common whole. This outlook shapes social conduct: in significant ways, halflings often see themselves not just as individuals, but also always part of this whole, one single family connected, even if they haven't met. Thus, one halfling can expect to share another’s camp and companionship, halflings treat one another as extended kin even on first meeting, and they often speak of the act of meeting as also an act of remembering. 
 
 ### Arts and Music
+
+> [!image|figure standard]
+> ![[halflings-evening-stories.webp]]
+> *Travelers gather for an evening of stories beside a halfling caravan.*
 
 Stories are central to halfling religion, and to their experience and connection to their shared ancestral mind. Many halflings are noted musicians, bards, and storytellers, and halflings have their own unique musical and artistic traditions. 
 

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature, status/check/ai]
+tags: [creature]
 name: Dwarves
 aliases: [dwarf, Dwarf, Dwarves, dwarves, dwarven]
 dm_owner: joint
@@ -102,23 +102,23 @@ Thuhr connect dwarves across clans, and play a central role in resolving conflic
 ### The Bahrâzel
 *See more: [[Dwarven Religious Practice]]*
 
-The dwarves were created by the [[Bahrazel|Bahrâzel]], the [[Embodied Gods|embodied divinities]] and mystical firstborn of their species. Legend says the seven [[Bahrazel|Bahrâzel]] were created from living rock, given form and magic and empowered to create the dwarven people in their image. The [[Bahrazel|Bahrâzel]], the seven gods of the dwarves, play a significant role in dwarven society. They are worshipped as the creators of the dwarven race, and dwarves may call upon the [[Bahrazel|Bahrâzel]] in times of desperate need, with a prayer for intercession; they are the patrons and protectors of the race. While they have individual identities, many dwarves worship the [[Bahrazel|Bahrâzel]] as a whole, thinking of the seven gods as aspects of one divinity. The nature of the [[Bahrazel|Bahrâzel]] is much debated in dwarven theological circles. 
+The [[Bahrazel|Bahrâzel]], the [[Embodied Gods|embodied divinities]] and mystical firstborn of the dwarves, play a significant role in dwarven myth and society. Legend says the seven [[Bahrazel|Bahrâzel]] were created from living rock, given form and magic and empowered to create the dwarven people in their image. They are worshipped as the creators and protectors of the dwarven species, and dwarves call upon the [[Bahrazel|Bahrâzel]] in times of desperate need, with a prayer for intercession. While the Bahrâzel do have individual identities, many dwarves worship them as a whole, thinking of the seven deities as aspects of one divinity. Indeed, the metaphysical nature of the [[Bahrazel|Bahrâzel]] is much debated in dwarven society, and the question of whether they are property a pantheon, a single entity with multiple aspects, or something more complicated is a central, unanswered, theological question in dwarven religion. 
 
-Dwarven religion centers on obligations and responsibilities more than prayer or ritual. The obligations accepted at naming include duties to fellow dwarves: all dwarves should have enough before any dwarf has an excess. Miracles granted by the Bahrâzel bring further debts, which the gods may call upon a dwarf to repay. Asking for divine intervention is therefore a serious undertaking.
+#### The Rite of Name-Taking
 
-The dwarven connection to mountains and the Bahrâzel is expressed most strongly in the home of the [[Bahrazel|Bahrâzel]], the [[Heart of the Mountain]]. The [[Heart of the Mountain]] is a mystical place, another plane of existence entirely that most dwarves only experience during the ritual of name-taking, when a young dwarf around the age of maturity goes on a pilgrimage to receive their adult name and thuhr. There are no maps, and few people find it in the same place, but most dwarves find it eventually, after wandering through the passages of their people and the natural passages beneath the mountains.
+The Bahrâzel are central to one of the most significant moments in dwarven life, the rite of name-taking upon reaching the age of maturity. Young dwarves who are ready to enter adulthood go on a pilgrimage, seeking the [[Heart of the Mountain]], the mystical and spiritual home of the [[Bahrazel|Bahrâzel]] and usually interpreted by most dwarves as an [[Divine Realms|extraplanar divine realm]]. There are no maps, and few people find it in the same place, but most dwarves find it eventually, through a mystical and magical process that none who experience can reliably narrate afterward. 
 
-The [[Heart of the Mountain]] is often described as a massive hall, formed in the shape of a ribcage, but it changes and reshapes itself so no description is ever exactly the same, and many dwarves find the place hard to describe. It is the incarnation of the stone itself, the place where the mountains are alive. When a dwarf finds the chamber during the ritual of name-taking, they usually experience a vision of a significant moment in their lives, learning their thuhr at the same time.
+When a dwarf finds the chamber during the ritual of name-taking, they usually experience a vision of a significant moment in their lives, learning their thuhr at the same time. At death, dwarves hope to be returned to the [[Heart of the Mountain]] and have their name carved upon the walls of the chamber, to live in the mountains in perpetuity with the [[Bahrazel|Bahrâzel]].
 
-In the naming rite, a dwarf accepts obligations to the [[Bahrazel|Bahrâzel]] and to dwarven society, gaining in return the connection that sustains their runic magic. Most dwarves can inscribe runes with small magical effects; exceptional rune-workers create powerful enchanted objects, wards, and marks of power.
+#### Debts and Obligations
 
-At death, dwarves hope to be returned to the [[Heart of the Mountain]] and have their name carved upon the walls of the chamber, to live in the mountains in perpetuity with the [[Bahrazel|Bahrâzel]].
+During the rite of name-taking, a dwarf accepts obligations to the [[Bahrazel|Bahrâzel]] and to dwarven society. This sense of debts and responsibilities, between the dwarves and the gods, is central to dwarven religion, and organizes religious practice, perhaps even more than prayer and ritual practice. A dwarf accepts duties to their fellow dwarves, that all dwarves should have enough before any has an excess, while the [[Bahrazel|Bahrâzel]] accept duties to the individual dwarf, granting them the connection that sustains the runic magic of all dwarves. Miracles granted by the Bahrâzel bring further debts, which the gods may call upon a dwarf to repay. Asking for divine intervention is therefore a serious undertaking.
 
 ### Craft and Runic Magic
 
-Dwarven craftsmanship encompasses both fine works and the practical tasks of daily life. Runic inscriptions bring magic into tools, household objects, and the preservation of valuable records. The [[Hardstones|Hardstone clan]], for example, uses minor runic magic to protect scrolls and repair damage, and makes magical imprints through which texts can be copied without transcription errors.
+All adult dwarves who have completed the rite of name-taking can inscribe runes with minor magical effects. These runic inscriptions bring magic to tools, household objects, and many other aspects of dwarven society, and are a major component of the perception of dwarves as exceptional crafters, masons, and smiths. 
 
-More elaborate creations include floating crystals that illuminate their surroundings, known as [[Dwarven Driftglobe|driftglobes]]. Dwarven artisans also work without enchantment, as metalsmiths, architects, and makers of intricate instruments.
+Dwarven creations, both powered by runic magic and otherwise, are well-known. Perhaps most commonly seen are the floating crystals that illuminate their surroundings, known as [[Dwarven Driftglobe|driftglobes]], created in large numbers to light the vast underground cities of the dwarves. But individual dwarven clans and crafters often develop their own unique runic specializations: the [[Hardstones|Hardstone clan]], for example, uses minor runic magic to protect scrolls and repair damage, and makes magical imprints through which texts can be copied without transcription errors.
 
 ## Historical Perspective
 
@@ -132,19 +132,19 @@ Much later, the [[Great War]] transformed the dwarven kingdoms of the western mo
 %%^Campaign:none%%
 ## Details for DMs
 
-### Open Questions and Further Work
+### Open Questions 
 
-- **The Sundering:** the ancient schism over defending underground homes versus leaving to build new lives is established. Its chronology, the destinations and later identities of those who departed, and modern interpretations remain open. Do not assume the departing dwarves became gnomes, or that modern dwarves universally regard them as traitors.
-- **Family life:** low fertility, widely spaced siblings, and a long middle age are established. Marriage, partnerships, and child-rearing customs remain lightly developed; leave room for player contributions.
-- **Names and clans:** it is unclear whether everyone sharing a clan name belongs to one extended kinship group. Translated clan names and individual naming choices allow considerable flexibility.
-- **Religion:** birth and funeral customs need further development. The precise consequences of failing obligations to the Bahrâzel, especially after death, should not be treated as settled.
-- **Institutions:** the broad roles of clans, thuhr, and kingdoms are established, but detailed legal systems, succession practices, and differences between kingdoms remain open.
+- **The Sundering:** the ancient schism over defending underground homes versus leaving to build new lives is established. Its chronology, the destinations and later identities of those who departed, and modern interpretations remain open. The idea that dwarves who left eventually became the species/culture now called gnomes is semi-canonical but not established and could be revised. The general attitude of modern dwarves to the Sundering is unclear. 
+- **Family life:** low fertility, widely spaced siblings, and a long middle age are established. Marriage, partnerships, and child-rearing customs are not really developed and could be extended by players. 
+- **Names and clans:** it is unclear whether everyone sharing a clan name belongs to one extended kinship group. 
+- **Religion:** the name-taking rite is well developed but other rites around dwarven life transitions, especially birth, marriage, and death, are not invented. The precise consequences of failing obligations to the Bahrâzel is a bit up in the air, although the Riswynn solo adventure ([[Session 56 (DuFr)]]) suggests one avenue. 
+- **Institutions:** the broad roles of clans, thuhr, and kingdoms are established, but detailed legal systems, succession practices, and differences between kingdoms remain pretty wide open for development. Some minor development from the Great Library campaign exists around [[Zarkandur]].
 
 ### Where You’ll Find Them
 
-- The [[Sentinel Range]] is the principal center of dwarven society in the western setting, with another major kingdom, [[Nardith]], in the [[Yuvanti Mountains]]. See [[Dwarven Kingdoms]] for the regional overview.
-- Dwarves also live among humans and other peoples, as individuals, families, and established communities. A dwarf raised in a human city need not have the same outlook as one raised in an ancestral underground hall.
-- Use the kingdoms to vary the feel of dwarven communities: [[Khatridun]] looks toward its history and lost greatness; [[Nidzahar]] toward trade and technological innovation; [[Am'khazar]] toward mineral wealth and enduring traditions; [[Nardith]] toward life rebuilt after displacement. [[Fahnukan]] remains isolated and comparatively undeveloped.
+- The [[Sentinel Range]] is the principal center of dwarven society, at least in the parts of Taelgar that have been invented; [[Nardith]], in the [[Yuvanti Mountains]], is broadly culturally part of the general "Sentinel Range" culture. See [[Dwarven Kingdoms]] for more. 
+- Dwarves also commonly live among humans and other peoples, as individuals, families, and established communities. A dwarf raised in a human city need not have the same outlook as one raised in an ancestral underground hall. Many dwarven communities in the cities of other species live in "Dwarven quarters". 
+- The central kingdoms have different vibes: [[Khatridun]] looks toward its history and lost greatness; [[Nidzahar]] toward trade and technological innovation; [[Am'khazar]] toward mineral wealth and enduring traditions; [[Nardith]] toward life rebuilt after displacement. [[Fahnukan]] remains isolated and comparatively undeveloped.
 - Dwarven settlements can extend onto mountain slopes and into valleys, with substantial populations of other species. “Dwarven” need not mean exclusively dwarven or entirely underground.
 
 ### Dwarves in Play
@@ -152,29 +152,24 @@ Much later, the [[Great War]] transformed the dwarven kingdoms of the western mo
 - **Vibes:** family, obligations, craftsmanship, and long memory are useful starting points. Give individual dwarves different relationships to these things: pride, affection, frustration, indifference, or a desire to escape expectations.
 - **Professions:** artisans, miners, soldiers, and merchants are familiar choices, but dwarven life also includes teachers, healers, scholars, archivists, farmers, and storytellers. Thuhr membership does not restrict profession or character class.
 - **Age:** a century-old dwarf need not feel elderly. Dwarves spend much of their lives in an extended middle age, allowing long careers, changes of direction, and relationships that develop over decades.
-- **Memory:** make history personal through family stories, inherited objects, old teachers, and obligations that outlast their original circumstances. The [[Shield of the Brawnanvil Clan]] provides a particularly vivid magical example.
+- **Memory:** make history personal through family stories, inherited objects, old teachers, and obligations that outlast their original circumstances. The [[Shield of the Brawnanvil Clan]] is a useful model but does not need to be copied exactly. Dwarven clans all have different relationships to their past and their stories. The vibe though is that "family stories" are a big deal for many dwarven clans. 
 - **Freedom and belonging:** leaving home does not automatically mean rejecting dwarven society. A dwarf might travel through thuhr connections, establish a household elsewhere, or choose a new vocation while retaining strong family ties.
-- **The Sundering:** useful as a source of competing interpretations of duty. A character might admire those who stayed, sympathize with those who left, or see legitimate obligations on both sides.
+- **The Sundering:** useful as a source of competing interpretations of duty. A character might admire those who stayed, sympathize with those who left, or see legitimate obligations on both sides. Be cautious using this as a characterization point as some details are still not developed. 
 
 ### Clans and Thuhr
 
-- Clan and family provide strong inherited ties, often under considerable elder authority. Thuhr provide relationships across those boundaries: mentorship, friendship, apprenticeship, and found family.
-- A thuhr can offer a young dwarf a way out of a constraining household without requiring a complete break with dwarven society. For running adventures, thuhr connections are useful routes to introductions, training, work, and allies.
+- Clan and family provide strong inherited ties, often under considerable elder authority. Thuhr provide relationships across clan boundaries, though not all dwarves make a big deal of their thuhr and this does not need to come up. 
+- A dwarf NPC that shares a thuhr with a dwarf PC could, plausibly, be portrayed as extra helpful or friendly, but does not *need* to be run this way. 
 - The importance of thuhr varies widely. For one dwarf it may be the center of their social life; for another it may chiefly explain an apprenticeship completed decades ago.
-- Changing profession does not require changing thuhr. A second thuhr or a change of thuhr should be an exceptional, consequential event.
-- The Izgil discussions offer one **possible exceptional model**: a change of thuhr connected to the purposes of the Bahrâzel and an outstanding divine debt. This is character-specific development, not a general procedure. The Cleenseau notes specifically considered a lunar connection and a divine purpose behind Izgil's new direction, with a debt arising from the Great War or inherited from his family as possible explanations. Those were possibilities for the character arc, not a settled account of the gods' motives.
 - Binthuhr dwarves stand outside the usual naming bargain. Traditional communities may regard them as outsiders or non-citizens, with attitudes ranging from suspicion to outright rejection. See [[Playing a Dwarf]] for their mechanical treatment.
 
 ### Religion and Metaphysics
 
-- Run dwarven religion primarily through reciprocal obligations. The Bahrâzel sustain dwarven society and runic magic, but most dwarves do not maintain an intimate, prayer-filled relationship with them.
-- The naming rite is both a personal encounter with the divine and entry into adult obligations. The [[Heart of the Mountain]] is a divine realm reached through a personal pilgrimage, rather than a destination with a reliable map.
+- Run dwarven religion primarily through reciprocal obligations. The Bahrâzel sustain dwarven society and runic magic, but many dwarves do not maintain an intimate, prayer-filled relationship with them (though dwarves who do need not read as strange or obsessed). 
 - Divine intervention carries a price. A granted miracle can create a debt that the Bahrâzel later call upon a dwarf to repay; this provides an established adventure hook. This was the premise for Riswynn's solo adventure: the other dwarven participants had received miracles and owed debts to the gods.
 - The Cleenseau guidance treats an outstanding debt as the basis for the Bahrâzel summoning a dwarf away from their life to serve a particular purpose. It suggests they probably cannot simply compel this service without such a debt, but leaves the precise metaphysical limit unsettled.
 - Even a dwarven cleric need not be conventionally devout. Their relationship with the Bahrâzel may resemble service, responsibility, or a mysterious assignment more than personal religious fervor.
-- Holidays and commemorations often celebrate dwarven history and past heroes. Birth, naming, and death have religious significance, but their detailed observances are not all established.
-- **Metaphysical boundary:** [[Heart of the Mountain]] describes the naming rite as leaving a fragment of oneself in the divine realm. The broader explanation of exactly how this enables divine action remains development material; it need not become a complete set of metaphysical rules.
-- **Possible hooks:** inherited divine debts and competing purposes among the Bahrâzel appear in character discussions. Use them as possibilities to develop deliberately, not assumptions about every dwarf.
+- Holidays and commemorations often celebrate dwarven history and past heroes. Birth, naming, and death have religious significance, but their detailed observances are not all established. Dwarven holidays, like holidays in all non-human religions, are poorly developed. 
 
 ### Law & Governance
 
@@ -182,15 +177,14 @@ Much later, the [[Great War]] transformed the dwarven kingdoms of the western mo
 - Mutual provision is a central principle: all dwarves should have enough before any dwarf has an excess. Wealth and craftsmanship can express responsibility to a community as well as personal ambition.
 - Thuhr cross clan boundaries and help resolve disputes. This gives dwarven society institutions that can mediate family rivalries rather than leaving every disagreement to clan leaders.
 - Distinguish leaving home from abandoning accepted obligations. The latter is much more serious, but the specific legal penalties and procedures remain undeveloped.
-- Other species may live harmoniously in dwarven settlements while remaining outside some of their social institutions. Work out the particular community’s arrangements when they matter to a game.
+- Other species may live harmoniously in dwarven settlements while remaining outside some of their social institutions. 
 
 ### Craft, Trade, and Lost Halls
 
 - Show runic magic in ordinary life: repaired objects, protected records, illuminated halls, and carefully maintained infrastructure. The [[Hardstones]] and [[Dwarven Driftglobe]] are useful examples.
 - Let craftsmanship preserve identity and history. An heirloom may matter because of its maker, the stories it carries, or the family that lost it, rather than its combat usefulness.
-- Dwarven ruins can contain sophisticated infrastructure as well as treasure: mines, drains, lifts, workshops, and long roads connecting distant underground places.
+- Dwarven ruins can contain sophisticated infrastructure as well as treasure: mines, drains, lifts, workshops, and long roads connecting distant underground places. The concept of long roads is lightly developed in [[The Underdark]], but more can easily be said. 
 - Lost [[Ardith]] is especially useful for dangerous expeditions. The established discussions emphasize small, cautious parties; large mining operations attract threats they cannot withstand. The old long roads can carry dangers through the depths.
-- Recovery creates competing claims: reclaiming a clan heirloom, looting a tomb, and mining previously unworked ore need not be regarded as the same act. These distinctions can give treasure expeditions consequences beyond finding valuables.
 - Do not assume every displaced dwarf wants to reclaim the old halls. The Ardith discussions explicitly contrast those drawn back to lost homes with those content to build their lives in Nardith.
 
 ### Sources

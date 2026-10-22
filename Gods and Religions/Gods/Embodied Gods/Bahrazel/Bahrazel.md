@@ -8,17 +8,19 @@ name: Bahrâzel
 aliases: [Bahrâzel]
 pronunciation: BAH-rah-zel
 dm_owner: none
-dm_notes: color
+dm_notes: none
 POV: modern
 ---
 # The Bahrâzel
 *(BAH-rah-zel)*
 
-The Bahrâzel are the Embodied Gods of the [[Dwarves]] and the mystical firstborn, creators of the first dwarves. Legend says the seven Bahrâzel were created from living rock by the [[Divine Presence]], given form and magic and empowered to create the dwarven people in their image.
+The Bahrâzel are the [[Embodied Gods]] of the [[dwarves]] and the mystical firstborn, creators of the first dwarves. Legend says the seven Bahrâzel were created from living rock by the [[Divine Presence]], given form and magic and empowered to create the dwarven people in their image.
 
 The connection dwarves have with the Bahrâzel allows them to inscribe runes with magical effects. While in most cases these are small, such as mending a broken item, some legendary dwarves can create extraordinary magical items, wards, and marks of power. Dwarves’ connection to the Bahrâzel is also expressed through their belief that they are a living part of the mountains: they are a crucial part of the life cycle of mountains and mountains form the focus of their spiritual existence.
 
-The Bahrâzel, the seven gods of the dwarves, play a significant role in dwarven society. They are worshipped as the creators of the dwarven race, and many dwarves will call upon the Bahrâzel in times of stress and danger, with a quick prayer for intercession; they are the patrons and protectors of the race. While they have individual identities, many dwarves worship the Bahrâzel as a whole, thinking of the seven gods as aspects of one divinity. The reality of the Bahrâzel is much debated in dwarven theological circles. Many dwarves simply worship them as a collective, for example, giving little thought to the individualistic nature of the seven. 
+The Bahrâzel, the seven gods of the dwarves, play a significant role in dwarven society. They are worshipped as the creators and protectors of the dwarven people, and dwarves call upon them in times of desperate need, with a prayer for intercession. Miracles granted by the Bahrâzel bring debts that the gods may later call upon a dwarf to repay, making such prayers a serious undertaking. While they have individual identities, many dwarves worship the Bahrâzel as a whole, thinking of the seven gods as aspects of one divinity. Many dwarves simply worship them as a collective, for example, giving little thought to the individualistic nature of the seven. Whether the Bahrâzel are independent gods, aspects of one divinity, or something more complicated is much debated in dwarven theological circles.
+
+The home of the Bahrâzel is the [[Heart of the Mountain]], sought by young dwarves during the rite of name-taking. There, a dwarf receives or chooses their adult name, learns their thuhr, and accepts obligations to the Bahrâzel and to dwarven society. In return, the Bahrâzel grant the connection that sustains dwarven runic magic. These reciprocal duties are central to [[Dwarven Religious Practice]].
 ### The Seven Dwarven Gods
 
 - [[Uzdan]] (he/him), the Ruler, the patron of those who lead, whether armies or kingdoms, and worshipped as the first king of the dwarves
