@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/mike, status/check/lint]
+tags: [meta]
 name: Playing a Dwarf
 dm_owner: joint
 dm_notes: none
@@ -11,8 +11,6 @@ POV: modern
 # Playing a Dwarf
 *See more: [[Dwarves]], [[Dwarven Kingdoms]], [[Bahrazel|Bahrâzel]]*
 D&D Beyond Link: [Dwarf](https://www.dndbeyond.com/species/1763565-dwarf)
-
-%% should be in good shape; just review %%
 
 [[Dwarves]] make their homes beneath the mountains of Taelgar, carving great halls of stone and light beneath the earth, aided by their innate runic magic from their connection to their gods, the [[Bahrazel]]. Short, broad-shouldered, and often bearded, the first dwarves built majestic underground cities of light and splendor. While many dwarves still dwell in their ancestral mountain homes, they have spread around the world and are often seen in the realms of other species on Taelgar, as travelers, visitors, and long-term residents. 
 
@@ -23,7 +21,7 @@ Dwarven culture and society are shaped by ties of kinship and clan, and by the m
 
 To create your dwarf character, consider your relationship with your thuhr and the Bahrazel. Some dwarves have a deep and abiding connection to their thuhr, to the extent it may replace the bonds of clan and family; for others, their thuhr may have opened doors to apprenticeships or training, but faded in relevance later in life; for yet others, it may be simply part of the background noise of their lives. You are free to decide how significant or insignificant your thuhr is as you roleplay your character. 
 
-All dwarves also have a connection to the Bahrazel, as this is what grants you your rune magic trait, described below. The guiding principle of Dwarven religion is based around a set of obligations and debts to the divine, in exchange for power and favors. It is up to you how much you want to make this part of your character: while some dwarves feel a particular connection to one of the Bahrazel, many dwarves are not particularly religious. Even divine magic users may not be particularly devout in dwarven society; the Bahrazel work in mysterious ways, and may grant divine power for their own purposes to even the most unlikely dwarf.
+All dwarves also have a connection to the Bahrazel: this is what grants dwarves their rune magic, described below. The guiding principle of Dwarven religion is based around a set of obligations and debts to the divine, in exchange for power and favors. It is up to you how much you want to make this part of your character: while some dwarves feel a particular connection to one of the Bahrazel, many dwarves are not particularly religious. Even divine magic users may not be particularly devout in dwarven society; the Bahrazel work in mysterious ways, and may grant divine power for their own purposes to even the most unlikely dwarf.
 
 Finally, you might want to consider your upbringing. Did you grow up in a traditional dwarven settlement, in or under the mountains, part of one of the major dwarven kingdoms of the world? Or did you grow up among humans, perhaps living in the dwarven quarter of some city? 
 
@@ -47,7 +45,7 @@ To choose a name for your Dwarven character, you might consider using one of the
 **Creature Type**: Humanoid
 **Size**: Your size is Medium.
 **Speed**: 30 feet
-**Age**: Dwarves mature a little more slowly than humans, and are not considered full adults until they reach their age of majority in their mid-20s and make a pilgrimage to the Heart of the Mountain to receive their name and thuhr. Dwarves have a long lifespan, often reaching 350 years of age.
+**Age**: Dwarves typically reach physical maturity in their 20s, but are not considered full adults until they reach their age of majority in their 30s and make a pilgrimage to the Heart of the Mountain to receive their name and thuhr. Dwarves have a long lifespan, occasionally reaching 300 years.
 **Languages**: You may select four [[languages]] during character creation, which should usually include Dwarvish and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
 
 ## Dwarf Traits
@@ -60,7 +58,7 @@ dwarf design logic, taking the basic model of the PHB 2024 to be a species shoul
 
 Enhanced Darkvision is slightly better than a skill
 Stonecunning is fairly situational so on the weak side for (c)
-Baharazel's blessing aiming to be roughly 1/2 an origin feat (e.g., two cantrips, or a cantrip + 1 feature, or a fairly strong feature)
+Bahrazel's blessing aiming to be roughly 1/2 an origin feat (e.g., two cantrips, or a cantrip + 1 feature, or a fairly strong feature)
 Rune Crafting is slightly weaker than a choice of a 1st level spell, but benefits from scaling casting with prof bonus and ability to give to other people to use. The second feature means focus is on non-Concentration spells to prevent breaking Concentration limits, since you eventually can effectively cast a spell 3x times as once if you give your runes to your allies.
 
 %%^End%%
@@ -72,7 +70,7 @@ As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. 
 As an adult dwarf, you belong to one of seven thuhr: Ruler, Runecrafter, Priest, Warrior, Traveler, Stoneworker, Farmer. Your thuhr does not limit your choice of class or profession. Rather, it reflects your role and place in dwarven society. While your thuhr has no direct mechanical effects, if you wish to represent a typical life experience for a dwarf of your thuhr, you may select a special Background representing each thuhr.
 
 >[!note] Binthuhr Dwarves
->If you are a binthuhr dwarf (a young dwarf who has not visited the Heart of the Mountain, or an adult who failed to complete their pilgrimage), you do not have a Thuhr, Baharezel's Blessing, or the Dwarven Rune Crafting trait. You may instead choose one 1st level feat to reflect your upbringing.
+>If you are a binthuhr dwarf (a young dwarf who has not visited the Heart of the Mountain, or an adult who failed to complete their pilgrimage), you do not have a Thuhr, Bahrazel's Blessing, or the Dwarven Rune Crafting trait. You may instead choose one 1st level feat to reflect your upbringing.
 
 #### Bahrazel's Blessing
 Your innate connection to the Bahrazel provides you with a supernatural blessing. Choose one of the following options: 
@@ -89,7 +87,7 @@ Your innate connection to the Bahrazel provides you with a supernatural blessing
 - Rune of Defense: Sanctuary
 - Rune of Exploration: Longstrider
 - Rune of Lore: Fanrukel's Insight*
-- Rune of Stone: Locate Stone or Metal*
+- Rune of Stone: Stone Sense*
 - Rune of the Forge: Tarbaka's Flame Ward*
 - Rune of Life: Goodberry
 - Rune of Truth: Uzdan's Compelled Truth*
@@ -136,24 +134,4 @@ Choose one creature you can see within 15 feet. The target must make a Charisma 
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern character-creation guidance and species rules, without a narrower in-world date.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added an explicit page name and broadly modern POV with persistent temporal notes.
-- Corrected seven unambiguous public prose errors in grammar and singular/plural agreement; rules and names were preserved.
-
-### Validated judgments
-- This is a player-facing mechanics guide. Its introduction, character-creation guidance, names, Basic Traits, and Dwarf Traits follow the role of [[Playing a Halfling]]; the in-world [[Halflings]] article headings are not required here.
-- The design and balance comments remain shared nonpublic editorial material; no hidden text was promoted.
-
-### Open findings
-
-- [ ] **Warning — correctness.cross_note_conflict:** The Basic Traits age paragraph gives adulthood in the mid-20s and a lifespan often reaching 350, while [[Dwarves#Short And Strong]] gives majority at 36 and a lifespan occasionally reaching 300. The latter note is marked `status/wip`, so neither account is silently preferred. Decide the intended maturity, pilgrimage, and lifespan values, then align both passages. A temporary uncertainty-preserving candidate is: “Dwarves mature more slowly than humans and become full adults after their pilgrimage to the Heart of the Mountain, when they receive their name and thuhr. They can live for several centuries.”
-
-- [ ] **Warning — correctness.internal_conflict:** The Dwarven Rune Crafting list calls the Rune of Stone effect “Locate Stone or Metal”, but the supplied effect is headed “Stone Sense”; there is no description headed “Locate Stone or Metal”. Confirm whether these are the same effect. If so, replace that list item with `- Rune of Stone: Stone Sense*`; otherwise supply the intended separate effect. The rune/effect name was not changed automatically.
-
-- [ ] **Suggestion — editorial.name_consistency:** The Binthuhr Dwarves callout names “Baharezel's Blessing”, while the actual trait heading and linked [[Bahrazel]] use “Bahrazel's Blessing”; the design paragraph also has “Baharazel's blessing”. Confirm the intended spelling, then use `Bahrazel's Blessing` in the callout and `Bahrazel's blessing` in that design sentence. These are proposed name corrections, not automatic edits.
 %%^End%%

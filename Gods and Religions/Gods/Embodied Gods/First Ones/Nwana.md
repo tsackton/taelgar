@@ -24,7 +24,7 @@ Nwana, the Stranger/Child, is often thought to watch over both the family you ha
 For halflings, outsider-ness and insider-ness, strangers and kin, are not separate from each other, but reflect the memories of your body (your family, kin, community) and the memories of your soul (strangers, in halfling communities, being simply people you have not remembered meeting yet). Nwana is the deity that sees all people at once both meeting and parting.
 
 %%^Metadata:names:v1%%
-- {"name": "Nwana", "language": "unknown", "pronunciation": "n-WAH-nah", "status": "documented"}
+- {"name": "Nwana", "language": "Halfling", "pronunciation": "n-WAH-nah", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%

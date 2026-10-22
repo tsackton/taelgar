@@ -16,6 +16,7 @@ On roads and riverways, and in many harbors along the [[Green Sea]] and the [[En
 
 Halflings are small and sturdy, usually no more than 3 to 3½ feet tall, with a tendency toward a healthy stoutness and curly hair. Otherwise, they are quite variable in appearance, with diverse complexions, though with a strong tendency for bright eyes, usually green, brown, or hazel. Halflings favor practical garb, and often prefer travel‑ready coats and trousers built for long walks to more elaborate gear, though many cannot resist a few flashes of color and style. A halfling traveler, in muted traveler's clothes, with a brightly colored cloak or a well-tailored hat is a common sight. 
 ## Language and Naming
+_See more: [[Playing a Halfling#Halfling Names|Halfling Names]]_
 
 Constant travel leaves most halflings comfortable speaking in many tongues, though songs and stories are usually spoken or sung in the Halfling language, which is rarely taught to outsiders. Uniquely, halflings commonly speak using silent, mind‑to‑mind speech, especially to each other. Caravans and crews often confer in silence before answering difficult questions, and private matters are rarely spoken aloud. For dealings with others, halflings usually speak one or more of the various trade pidgins popular across the world. Some scholars even claim these languages were invented by, or at least popularized by, early halfling traders and sailors.
 
@@ -25,8 +26,6 @@ Names usually pair a short given name with a distinctive family name, sometimes 
 Generally tend towards kind of English-like given names, perhaps a reflection of their typical practice of giving their names in Common, not Halfling. Have trended to following typical D&D/Tolkien vibes, though it is plausible that halflings to the far east or south could have different naming patterns, potentially reflecting the vibes of alternate trade tongues. 
 
 Family names are classic D&D/Tolkien in style, possibly glossed as usually translated into Common in-world. Currently have assumed that each family name is unique (e.g., all Goodbarrels are related somehow), but not obvious this must be the case. 
-
-See more: [[Playing a Halfling#Halfling Names|Halfling Names]]
 
 Some debate about the role of halflings in inventing or popularizing trade tongues - see Open Questions, below. 
 %%^End%%

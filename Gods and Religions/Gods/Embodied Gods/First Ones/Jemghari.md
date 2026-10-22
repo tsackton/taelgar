@@ -24,7 +24,7 @@ Jemghari, the Storyteller/Wanderer, reflects the journey and the halfling concep
 They embody the halfling idea that while there are two kinds of tales in the world -- you go on a journey, or a stranger comes to town -- these are really the same tale, seen from different perspectives. Jemghari, therefore, is the one who can experience this story from both perspectives at once.
 
 %%^Metadata:names:v1%%
-- {"name": "Jemghari", "language": "unknown", "pronunciation": "gem-GHA-ree", "status": "documented"}
+- {"name": "Jemghari", "language": "Halfling", "pronunciation": "gem-GHA-ree", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
