@@ -19,6 +19,12 @@ POV: modern
 
 The Heart of the Mountain is the home of the [[Bahrazel]], the Firstborn of the [[Dwarves]], and is acknowledged as one of the [[Divine Realms]] of the [[Embodied Gods]] in the [[Standard Multiversal Model]]. Although it has been described in many ways over the long history of the dwarves, the [[Iron Verses]], among the most famous of the dwarven religious epics, describe:
 
+%% copied from Dwarves, to incorporate: 
+
+The [[Heart of the Mountain]] itself is often described as a massive hall, formed in the shape of a ribcage, but it changes and reshapes itself so no description is ever exactly the same, and many dwarves find the place hard to describe. It is the incarnation of the stone itself, the place where the mountains are alive. 
+
+%%
+
 >*A vast cavern hundreds and hundreds of feet across, with endless tunnels that leave the cave in all directions, many wide and brightly lit by crystal lanterns, others narrow, some nearly vanished into the shadows. Small motes of light that float in the air, causing the flecks of white gemstones and silver veins that run through the walls of the cave to glitter and sparkle. In the center of the open space is a perfectly smooth pool of water, deep and dark. The only sound is the distant, rhythmic clang of hammer on iron, ringing almost like a bell, the tempo slow but steady.*
 
 ![[heart-of-the-mountain.png|800]]
