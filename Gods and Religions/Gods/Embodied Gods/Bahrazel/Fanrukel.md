@@ -22,9 +22,11 @@ POV: modern
 
 The patron of storytellers and those who keep the histories of clans and kingdoms, worshipped as the first lorekeeper of the dwarves.
 
+*See also: [[Priest Thuhr]].*
+
 %%^Metadata:names:v1%%
-- {name: Fanrukel, language: unknown, pronunciation: FAN-roo-kel, status: documented}
-- {name: The Priest, role: alias, language: unknown}
+- {name: Fanrukel, language: Dwarven, pronunciation: FAN-roo-kel, status: documented}
+- {name: The Priest, role: alias, language: Dwarven}
 %%^End%%
 
 %%^povNotes:v1%%

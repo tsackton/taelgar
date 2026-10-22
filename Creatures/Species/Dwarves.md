@@ -11,7 +11,9 @@ POV: modern
 ---
 # Dwarves
 
-![[dwarven-hall-of-gems.png]]
+> [!image|hero]
+> ![[dwarves-underground-city.webp]]
+> *A dwarven city beneath a vast cavern vault, illuminated by driftglobes.*
 
 > [!quote] Dwarven Prayer of Naming, excerpt
 > *Far under the mountains, long ago the First were made from solid stone. Born to delve and craft and seek, the [[Bahrazel|Bahrâzel]] made our mountain homes: [[Uzdan]], the Ruler, leader of people; [[Karthel]], the Runecrafter, shaper of magic; [[Fanrukel]], the Priest, keeper of lore; [[Tarbaka]], the Stoneworker, lord of the forge; [[Azar]], the Warrior, defender of cities; [[Maganna]], the Traveler, delver and miner; and [[Oshkir]], the Farmer, provider and healer. May their wisdom and protection guide you to your name and place. See now the past and the future as one.*
@@ -64,7 +66,9 @@ Dwarven kingdoms such as these, and others, often stretch deep underground, conn
 Despite their close-knit societies, many dwarves do not live in these traditional kingdoms. Indeed, many choose to live in the cities and realms of other species, especially humans. Across the cities, large and small, of Taelgar, one can find dwarven quarters, new and old, where dwarves dwell, sometimes as enclaves governed by their own communal laws. 
 
 
-![[dwarven-unnamed-fortress.png]]
+> [!image|figure standard]
+> ![[dwarves-mountain-stronghold.webp]]
+> *A mountain stronghold welcomes travelers.*
 
 ## Cultural Traits
 
@@ -119,6 +123,10 @@ During the rite of name-taking, a dwarf accepts obligations to the [[Bahrazel|Ba
 All adult dwarves who have completed the rite of name-taking can inscribe runes with minor magical effects. These runic inscriptions bring magic to tools, household objects, and many other aspects of dwarven society, and are a major component of the perception of dwarves as exceptional crafters, masons, and smiths. 
 
 Dwarven creations, both powered by runic magic and otherwise, are well-known. Perhaps most commonly seen are the floating crystals that illuminate their surroundings, known as [[Dwarven Driftglobe|driftglobes]], created in large numbers to light the vast underground cities of the dwarves. But individual dwarven clans and crafters often develop their own unique runic specializations: the [[Hardstones|Hardstone clan]], for example, uses minor runic magic to protect scrolls and repair damage, and makes magical imprints through which texts can be copied without transcription errors.
+
+> [!image|figure standard]
+> ![[dwarves-runic-mentorship.webp]]
+> *An elder guides a younger dwarf in the careful work of rune engraving.*
 
 ## Historical Perspective
 

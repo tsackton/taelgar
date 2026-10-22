@@ -22,10 +22,12 @@ POV: modern
 
 The patron of scholars and rune-mages and seekers of lost lore, worshipped as the originator of runic magic.
 
+*See also: [[Runecrafter Thuhr]].*
+
 %%^Metadata:names:v1%%
-- {"name": "Karthel", "language": "unknown", "pronunciation": "KAR-thel", "status": "documented"}
-- {"name": "Runecrafter", "role": "epithet", "language": "unknown", "status": "documented"}
-- {"name": "The Runecrafter", "role": "epithet", "language": "unknown", "status": "documented"}
+- {"name": "Karthel", "language": "Dwarven", "pronunciation": "KAR-thel", "status": "documented"}
+- {"name": "Runecrafter", "role": "epithet", "language": "Dwarven", "status": "documented"}
+- {"name": "The Runecrafter", "role": "epithet", "language": "Dwarven", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
