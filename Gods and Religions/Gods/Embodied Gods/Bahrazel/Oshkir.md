@@ -22,8 +22,10 @@ POV: modern
 
 The patron of living things, growth, healing, and teaching, worshipped as the first teacher of the dwarves.
 
+*See also: [[Farmer Thuhr]].*
+
 %%^Metadata:names:v1%%
-- {name: Oshkir, language: unknown, pronunciation: OSH-keer, status: documented}
+- {name: Oshkir, language: Dwarven, pronunciation: OSH-keer, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%

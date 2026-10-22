@@ -22,9 +22,11 @@ POV: modern
 
 The patron of artisans and the forge, worshipped as the first crafter and smith of the dwarves.
 
+*See also: [[Stoneworker Thuhr]].*
+
 %%^Metadata:names:v1%%
-- {"name": "Tarbaka", "language": "unknown", "pronunciation": "tar-BAH-kah", "status": "documented"}
-- {"name": "Stoneworker", "role": "alias", "language": "unknown", "status": "documented", "notes": "The epithet appears in the aliases and in [[Bahrazel]]; its original in-world language is not specified."}
+- {"name": "Tarbaka", "language": "Dwarven", "pronunciation": "tar-BAH-kah", "status": "documented"}
+- {"name": "Stoneworker", "role": "alias", "language": "Dwarven", "status": "documented", "notes": "The epithet appears in the aliases and in [[Bahrazel]]; its original in-world language is not specified."}
 %%^End%%
 
 %%^povNotes:v1%%

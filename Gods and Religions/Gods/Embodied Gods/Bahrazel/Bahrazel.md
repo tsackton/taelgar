@@ -13,26 +13,41 @@ POV: modern
 ---
 # The Bahrâzel
 *(BAH-rah-zel)*
+*See also: [[Dwarven Religious Practice]].*
 
-The Bahrâzel are the [[Embodied Gods]] of the [[dwarves]] and the mystical firstborn, creators of the first dwarves. Legend says the seven Bahrâzel were created from living rock by the [[Divine Presence]], given form and magic and empowered to create the dwarven people in their image.
+The Bahrâzel are the [[Embodied Gods]] of the [[dwarves]], the mystical firstborn of the species and creators of the first dwarves. Legend says the seven Bahrâzel were created from living rock by the [[Divine Presence]], given form and magic and empowered to create the dwarven people in their image. Their divine realm, the [[Heart of the Mountain]], is most prominently known among dwarves for its association with the rite of name-taking.
 
-The connection dwarves have with the Bahrâzel allows them to inscribe runes with magical effects. While in most cases these are small, such as mending a broken item, some legendary dwarves can create extraordinary magical items, wards, and marks of power. Dwarves’ connection to the Bahrâzel is also expressed through their belief that they are a living part of the mountains: they are a crucial part of the life cycle of mountains and mountains form the focus of their spiritual existence.
+The connection dwarves have with the Bahrâzel allows them to inscribe runes with magical effects. Most such effects are modest, such as mending a broken item, but some legendary dwarves can create extraordinary magical items, wards, and marks of power.
 
-The Bahrâzel, the seven gods of the dwarves, play a significant role in dwarven society. They are worshipped as the creators and protectors of the dwarven people, and dwarves call upon them in times of desperate need, with a prayer for intercession. Miracles granted by the Bahrâzel bring debts that the gods may later call upon a dwarf to repay, making such prayers a serious undertaking. While they have individual identities, many dwarves worship the Bahrâzel as a whole, thinking of the seven gods as aspects of one divinity. Many dwarves simply worship them as a collective, for example, giving little thought to the individualistic nature of the seven. Whether the Bahrâzel are independent gods, aspects of one divinity, or something more complicated is much debated in dwarven theological circles.
+## Nature and Manifestations
 
-The home of the Bahrâzel is the [[Heart of the Mountain]], sought by young dwarves during the rite of name-taking. There, a dwarf receives or chooses their adult name, learns their thuhr, and accepts obligations to the Bahrâzel and to dwarven society. In return, the Bahrâzel grant the connection that sustains dwarven runic magic. These reciprocal duties are central to [[Dwarven Religious Practice]].
-### The Seven Dwarven Gods
+The Bahrâzel have individual identities, yet many dwarves worship them as a collective, giving little thought to the distinctions among the seven. Whether they are independent gods, aspects of one divinity, or something more complicated is much debated in dwarven theological circles.
 
-- [[Uzdan]] (he/him), the Ruler, the patron of those who lead, whether armies or kingdoms, and worshipped as the first king of the dwarves
-- [[Karthel]] (he/him), the Runecrafter, the patron of scholars and rune-mages and seekers of lost lore, worshipped as the originator of runic magic
+Dwarven accounts of encounters with the Bahrâzel describe widely varying experiences. The Bahrâzel may appear as distinct figures who speak and give commands, or simply as a presence felt through the sound of hammers on iron and the smell of a forge. Even an obligation to the gods can become tangible, appearing as a physical token drawn from the waters of the Heart of the Mountain.
+
+The Bahrâzel sustain dwarven institutions and traditions, but these do not encompass everything the gods may ask of an individual dwarf, or everything they may grant them. Their instructions can be unmistakable even when their reasons remain obscure, and the Bahrâzel are often believed to act in mysterious ways that, though inscrutable, serve the larger needs of dwarvendom. 
+
+## The Seven Dwarven Gods
+
+- [[Uzdan]] (he/him), the Ruler, the patron of truth and of those who lead, whether armies or kingdoms, worshipped as the first king of the dwarves
+- [[Karthel]] (he/him), the Runecrafter, the patron of scholars, rune-mages, and seekers of lost lore, worshipped as the originator of runic magic
 - [[Fanrukel]] (she/her), the Priest, the patron of storytellers and those who keep the histories of clans and kingdoms, worshipped as the first lorekeeper of the dwarves
 - [[Tarbaka]] (she/her), the Stoneworker, the patron of artisans and the forge, worshipped as the first crafter of the dwarves
-- [[Azar]] (he/him), the Warrior, the patron of those who fight to defend the dwarven kingdoms, worshipped as the strongest warrior and original defender of the dwarven race
-- [[Maganna]] (she/her), the Traveler, the patron of those who wander, whether seeking new tunnels and ore deep underground or venturing into the wider outside world, worshipped as the first miner of the dwarves
+- [[Azar]] (he/him), the Warrior, the patron of those who fight to defend the dwarven kingdoms, worshipped as the strongest warrior and original defender of the dwarven people
+- [[Maganna]] (she/her), the Traveler, the patron of those who wander, whether seeking new tunnels and ore deep underground or venturing into the wider outside world, worshipped as the first miner of the dwarves; also associated with communication and the understanding of unfamiliar languages
 - [[Oshkir]] (he/him), the Farmer, the patron of living things, growth, healing, and teaching, worshipped as the first teacher of the dwarves
 
+%% Sources:
+- [[Session 56 (DuFr)]] — divine presence, tangible debts, and the commission to confront Hagrim.
+- [[Session 58 (DuFr)]] — Riswynn's appeal for redemption and the release of the trapped community.
+- [[Session 69 (DuFr)]] — the old dwarf in Riswynn's vision and the freeing of Havdar from his curse.
+- [[Celyn and Izgil Discuss the Moon]] — Izgil's account of changing thuhr and his uncertainty about his divine assignment.
+- [[Email - Other Backgrounds]] — exceptional changes of thuhr and divine purposes that remain obscure despite a clear divine identity.
+- [[Visions of the Sentient Ocean]] — Riswynn's interpretation of service as continuing repair.
+%%
+
 %%^Metadata:names:v1%%
-- {name: Bahrâzel, language: unknown, pronunciation: BAH-rah-zel, status: documented}
+- {name: Bahrâzel, language: Dwarven, pronunciation: BAH-rah-zel, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%

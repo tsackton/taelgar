@@ -20,10 +20,12 @@ POV: modern
 > An [[Embodied Gods|embodied god]] (he/him)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The patron of those who fight to defend the dwarven kingdoms, worshipped as the strongest warrior and original defender of the dwarven kingdoms.
+The patron of those who fight to defend dwarves and all those who need protection, worshipped as the strongest warrior and original defender of the dwarven realms.
+
+*See also: [[Warrior Thuhr]].*
 
 %%^Metadata:names:v1%%
-- {name: Azar, language: unknown, pronunciation: AH-zahr, status: documented}
+- {name: Azar, language: Dwarven, pronunciation: AH-zahr, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%

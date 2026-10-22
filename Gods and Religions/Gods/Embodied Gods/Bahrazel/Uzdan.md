@@ -20,11 +20,13 @@ POV: modern
 > An [[Embodied Gods|embodied god]] (he/him)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The patron of those who lead, whether armies or kingdoms, and worshipped as the first king of the dwarves.
+The patron of those who lead, whether armies or kingdoms, and worshipped as the first king of the dwarves. He is also associated with truth, reflected in the dwarven Rune of Truth.
+
+*See also: [[Ruler Thuhr]].*
 
 %%^Metadata:names:v1%%
-- {"name": "Uzdan", "language": "unknown", "pronunciation": "UZ-dahn", "status": "documented"}
-- {"name": "The Ruler", "role": "epithet", "language": "unknown", "status": "documented"}
+- {"name": "Uzdan", "language": "Dwarven", "pronunciation": "UZ-dahn", "status": "documented"}
+- {"name": "The Ruler", "role": "epithet", "language": "Dwarven", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
