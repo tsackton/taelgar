@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # Taelgar Calendar Plugin Proposal
 
 > [!info] Proposal

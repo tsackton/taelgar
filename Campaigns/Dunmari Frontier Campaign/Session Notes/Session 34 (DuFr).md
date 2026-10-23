@@ -1,5 +1,5 @@
 ---
-tags: [session-note, status/check/ai]
+tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 34
 realWorldDate: 2021-11-07
