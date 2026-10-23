@@ -54,13 +54,7 @@ Sura is a tall, striking Dunmari woman, with high cheekbones, light brown skin, 
 %%SECRET[v2:59a26f873569533c2579be691dfe68fa]%%
 
 ## Timeline
-```dataviewjs
-await dv.view("_scripts/view/get_EventsTable", {   yearStart: 1,   yearEnd: 2000,   pageFilter: "\"People/Dunmari/Sura\"",  includeAll : true })
- ```
-
-```dataview
-LIST WITHOUT ID events.text from #timeline or #event-source  flatten file.lists as events where contains(events.text, this.file.name) sort events.DR
-```
+%%  FIX -- deleted broken DataView query %%
 
 %%^Metadata:names:v1%%
 - {name: Nayan Sura, language: Dunmari, pronunciation: "NUH-yun SOO-raa", notes: "Proposed reading of this Dunmari dynastic and personal name using the Hindi analogue in [[Languages]]; consonantal y, a tapped r, reduced vowels in Nayan, and open vowels in Sura. Vowel lengths and stress remain unconfirmed.", status: proposed}

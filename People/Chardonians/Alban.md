@@ -39,10 +39,8 @@ An adventurer associated with the [[Society of the Open Scroll]].
 %%^Campaign:dufr%%
 Traveled with [[Dee Wildcloak]] and [[Dain Goldhammer]] to [[Stormcaller Tower]], where he was killed. 
 ## Chronology
+%%  FIX -- deleted broken DataView query %%
 
-```dataview
-LIST WITHOUT ID events.text flatten file.lists as events where contains(events.text, this.file.name) and contains(events.text, "DR") sort events.DR
-```
 %%^End%%
 
 %%SECRET[v2:01384ab01f6465be611f42aaa0639469]%%
