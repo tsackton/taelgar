@@ -29,7 +29,6 @@ POV: 1748
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% need to copy notes from OneNote, clean up campaign info; significant dwarf in the late 1500s in the aftermath of the Great War %%
-
 A dwarven warrior, once a ghost in [[Morkalan]] and now passed on. The first victim of [[Hagrim]]'s betrayal.
 
 %%^Metadata:names:v1%%

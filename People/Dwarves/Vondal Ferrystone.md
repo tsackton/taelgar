@@ -6,6 +6,7 @@ tags: [person, status/check/ai]
 species: dwarf
 gender: male
 name: Vondal Ferrystone
+image: vondal-ferrystone.png
 pronunciation: VON-dahl FAIR-ee-stohn
 affiliations:
   - {org: Ferrystones, type: primary}
@@ -22,9 +23,7 @@ POV: 1720s
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[vondal-ferrystone.png|left|200]]
-
-Vondal Ferrystone is a gruff, prickly dwarf of the [[Ferrystones|Ferrystone Clan]] living in [[Aslain]].
+![[vondal-ferrystone.png|left|230]]Vondal Ferrystone is a gruff, prickly dwarf of the [[Ferrystones|Ferrystone Clan]] living in [[Aslain]].
 
 %%^Campaign:clee%%
 He and [[Kazak Ferrystone]] helped the [[Heroes of Cleenseau]] investigate the ruined Night Queen temple, identifying the supposed necromantic chamber as recent, poorly built stonework inconsistent with the older temple.
