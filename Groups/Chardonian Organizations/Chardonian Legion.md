@@ -11,12 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Chardonian Legion
->[!info]+ Information  
-> An army  
-> `$=dv.view("_scripts/view/get_Affiliations")`
-
-
+```taelgar-header
+```
 %% game update: figure out consequences for the Legion of the split of the Northern Provinces %%
 
 The famed Chardonian Legion is the military force of the [[Chardonian Empire]], and one of the chief instruments of imperial power, allowing Chardon to project force far beyond the settled core of the Empire. The Legion is subdivided into a variety of numbered field formations, local garrisons, road guards, frontier forts, border detachments, and other forces assigned to protect imperial interests. Commanders of its major formations report through the military hierarchy to the [[Mitus Verina Auratan|Magistros]], rather than to local proconsuls, making the Legion an agent of central control as much as provincial defense.

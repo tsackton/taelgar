@@ -12,11 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Faculty of Metaphysics
->[!info]+ Information  
-> A faculty of the [[University of Chardon]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Faculty of Metaphysics is one of the five graduate faculties of the [[University of Chardon]]. It is concerned with supernatural and planar studies: the ordering of the cosmos, the nature of echo realms, and the principles by which scholars attempt to describe the stranger parts of creation.
 

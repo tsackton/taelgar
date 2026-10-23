@@ -12,12 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Faculty of History
->[!info]+ Information  
-> A faculty of the [[University of Chardon]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
-
+```taelgar-header
+```
 The Faculty of History is one of the five graduate faculties of the [[University of Chardon]]. It is among the principal authorities in Chardon on the chronology and legacy of the [[Drankorian Empire]]. 
 
 %%^Metadata:names:v1%%

@@ -9,10 +9,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Eightfold Flame
->[!info]+ Information  
-> An organization  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Eightfold Flame is a group of anti-chalyte activists that emerged in the aftermath of the defeat of Apollyon, the fall of the Cleansed, and the [[Chardon-Dunmar War]]. 
 
