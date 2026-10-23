@@ -1,0 +1,4 @@
+interface:
+  display_name: "Summarize Lore Changes"
+  short_description: "Summarize meaningful changes to Taelgar lore"
+  default_prompt: "Use $summarize-lore-changes to summarize meaningful lore changes in the Taelgar vault over the last four days, quoting small changes and identifying substantial rewrites."
