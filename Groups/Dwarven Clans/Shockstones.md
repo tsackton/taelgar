@@ -20,21 +20,21 @@ POV: modern
 
 The Shockstones are one of the most prominent dwarven clans in [[Am'khazar]], and the de facto rulers of [[Zarkandur]]. 
 
+%%^Date:1747-12-01%%
 The clan is best known, at least outside dwarven circles, through [[Brelith|Brelith Shockstone]], a priest of the [[Bahrazel]] and hero of the [[Battle of Voltara]]. 
+%%^End%%
 
 ###  Members
-
 ```dataviewjs
 const { util } = customJS
-dv.table(["Person", "Info", "Current Location"],
+dv.table(["Person", "Current Location"], 
 			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
+				.where(f => util.isOrWasAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
 
 %%^Metadata:names:v1%%
-- {name: Shockstone Clan, language: unknown}
-- {name: Shockstones, role: collective, language: unknown}
+- {name: Shockstone Clan, language: Common}
 %%^End%%
 
 %%^povNotes:v1%%

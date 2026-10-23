@@ -9,7 +9,7 @@ ancestry: dwarven
 name: Brawnanvil Clan
 dm_owner: none
 dm_notes: none
-POV: 1749
+POV: modern
 ---
 # The Brawnanvil Clan
 >[!info]+ Information  
@@ -18,22 +18,23 @@ POV: 1749
 
 The Brawnanvils are a moderately prominent dwarven clan of [[Tharn Todor]], with roots in the lost kingdom of [[Ardith]]. Before and during the [[Great War]], the clan had a major presence at the [[Dwarven Outpost (Raven's Hold)|dwarven outpost near Raven's Hold]], an iron mine, forge, and trading post linking dwarves from the southern [[Sentinel Range|Sentinels]] with the Dunmari. 
 
+%%^Date:1749-07-01%%
 By far the most famous member of the Brawnanvil Clan is [[Riswynn]], companion of the [[Dunmar Fellowship]], hero of the [[War of the Cloak]], champion of the [[Bahrazel]], and the bearer of the [[Crown of Purity]]. 
+%%^End%%
 
-### Members
-
+###  Members
 ```dataviewjs
 const { util } = customJS
-dv.table(["Person", "Info", "Current Location"],
+dv.table(["Person", "Current Location"], 
 			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
+				.where(f => util.isOrWasAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
 
 %%^Metadata:names:v1%%
-- {"name": "Brawnanvil Clan", "language": "unknown", "notes": "[[Dwarves]] lists Brawnanvil among clan names and explains that these forms are rendered in the trade tongue; the original dwarven form is not recorded."}
+- {"name": "Brawnanvil Clan", "language": "Common"}
 %%^End%%
 
 %%^povNotes:v1%%
-Temporal coverage: a DR 1749 clan overview after Riswynn became bearer of the Crown of Purity, alongside the clan's older Ardith and Raven's Hold roots; the article does not establish her Crown-bearing status before May 1749.
+Temporal coverage: a modern clan overview, with a dated block about Riswynn after she became bearer of the Crown of Purity, alongside the clan's older Ardith and Raven's Hold roots.
 %%^End%%

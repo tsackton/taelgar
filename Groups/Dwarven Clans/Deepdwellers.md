@@ -18,18 +18,17 @@ POV: modern
 
 The Deepdwellers are a dwarven clan originally from the lost kingdom of [[Enderra]], now mostly living around [[Apporia]]. 
 
-### Members
-
+###  Members
 ```dataviewjs
 const { util } = customJS
-dv.table(["Person", "Info", "Current Location"],
+dv.table(["Person", "Current Location"], 
 			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
+				.where(f => util.isOrWasAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
 
 %%^Metadata:names:v1%%
-- {"name": "Deepdweller Clan", "language": "Common", "status": "inferred", "notes": "The visible compound follows the convention in [[Dwarves]] and [[Playing a Dwarf]] of rendering clan names in the trade tongue or Common; no Dwarvish original or specific etymology is recorded."}
+- {"name": "Deepdweller Clan", "language": "Common", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%
