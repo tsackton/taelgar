@@ -28,8 +28,8 @@ POV: 1740s
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on March 22th, 1748 in [[Karawa]], [[Dunmar]] %%^End%%  
->> %%^Campaign:DuFr%% Entrusted the [[Dunmar Fellowship]] with recovering the [[Heart of Shakun]] on May 23th, 1748 in [[Karawa]] %%^End%%  
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 22nd, 1748 in [[Karawa]], [[Dunmar]] %%^End%%  
+>> %%^Campaign:dufr%% Entrusted the [[Dunmar Fellowship]] with recovering the [[Heart of Shakun]] on May 23rd, 1748 in [[Karawa]] %%^End%%  
 >> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on June 19th, 1748 in [[Karawa]], [[Dunmar]] %%^End%%
 
 ![[candrosa-portrait.png|right|400]]Candrosa serves as Speaker of the [[Shakun Mystai]], acting as the leader of the [[Temple of Shakun]] in [[Karawa]] and the public face of the mystai. He oversees rites, initiations, and dream-visions; and serves as a councilor to the temple hierarchy in Karawa. 
