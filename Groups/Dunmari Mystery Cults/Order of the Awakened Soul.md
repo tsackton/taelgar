@@ -12,11 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Order of the Awakened Soul
->[!info]+ Information  
-> A [[Dunmar|Dunmari]] mystery cult, of [[Bhishma]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
-
+```taelgar-header
+```
 The mystery cult dedicated to the Dunmari god [[Bhishma]]. Dedicated to collecting the stories of the Dunmari, preserving the memories of the people of Dunmar, and making sure the souls of the dead are not forgotten and lost.
 
 %%^Campaign:dufr%%
@@ -43,18 +40,11 @@ In DR 1718, the Order and Rai traveled together to [[Isingue]], and attempted to
 
 %%SECRET[v2:4e5d0871895b4b3b332865f5ce1a038d]%%
 
-
-%%^Campaign:none%%
-### Current Members
-
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location"], 
-			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+mode: table
+type: members
+show: obsidian
 ```
-%%^End%%
 
 %%^Metadata:names:v1%%
 - {name: Order of the Awakened Soul, language: unknown, status: documented, notes: "In the Session 20 conversation, Pava describes this as the pre-Great-War name of Bhishma's mystai and says it fell out of use after the Great War."}

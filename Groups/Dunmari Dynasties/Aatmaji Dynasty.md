@@ -13,12 +13,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Aatmaji Dynasty
-*(AAT-mah-jee)*
->[!info]+ Information  
-> A [[Dunmar|Dunmari]] dynasty  
-> `$=dv.view("_scripts/view/get_Affiliations")`
-
+```taelgar-header
+```
 %% have a full list of Samraats of this dynasty in DM notes FWIW%%
 
 The first ruling dynasty of [[Dunmar]], founded by [[Bhishma]]. The Aatmaji dynasty ruled [[Dunmar]] from DR 1173 to DR 1395, with [[Kharsan]] as its administrative center. It ended when its last Samraat, [[Dasa]], led a disastrous expedition into [[Gazetteer/Drankorian Hinterland/Drankor/Drankor|Drankor]] and never returned.

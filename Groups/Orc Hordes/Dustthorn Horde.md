@@ -11,10 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Dustthorn Horde
->[!info]+ Information  
-> An orcish horde  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The group of orcs gathered under the leadership of Agata Dustmother, who served as her allies and servants when needed, and were in turn supported by her in the desert. 
 

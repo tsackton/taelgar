@@ -17,13 +17,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The People of the Rainbow
->[!info]+ Information  
-> An [[Orcs|orc]] clan  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
-
+```taelgar-header
+```
 %% Whereabouts date qualifications preserved from frontmatter:
 - Entry {type: home, end: 940, location: Amberglow}: #end is +/- 10 years
 - Entry {type: home, start: 940, end: 1050, location: unknown}: #start +/- 10 years
