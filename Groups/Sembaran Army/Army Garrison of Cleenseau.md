@@ -14,8 +14,8 @@ dm_owner: mike
 dm_notes: important
 POV: 1719
 ---
-# The Army Garrison of Cleenseau
-
+```taelgar-header
+```
 The Cleenseau Garrison is the furthest east-most garrison of the [[Army of the West]]. It is commanded by [[Ida Rosfeld|Captain Ida Rosfeld]] and consists of two patrols:
 
 * The Bridge Patrol, responsible for the security of the bridge and the road, and for providing a reaction force that can march and respond to threats. The Bridge Patrol consists of approximately 20 soldiers, currently led by acting sergeant [[Ancer Benthey]]. Its soldiers are neither equipped nor trained for cavalry actions.
@@ -44,17 +44,11 @@ The army was ordered away as part of a general plot by Malach to weaken the bord
 Due to the actions of the Cleenseau PCs, Rosalind, a relatively well respected noble, has put some effort into recalling part of the garrison and they are expected to return in a few weeks.
 %%
 
-%%^Campaign:none%%
-### Members
-
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location"], 
-			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+type: members
+show: obsidian
+mode: table
 ```
-%%^End%%
 
 %% Bertram the quartermaster %%
 

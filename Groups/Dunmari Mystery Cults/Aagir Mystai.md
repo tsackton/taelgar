@@ -12,24 +12,10 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Aagiri
->[!info]+ Information  
-> A [[Dunmar|Dunmari]] mystery cult, of [[Aagir]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The mystery cult dedicated to the Dunmari god [[Aagir]], a traveling order of warriors who protect the roads of [[Dunmar]]. 
-
-%%^Campaign:none%%
-### Current Members
-
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location"], 
-			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
-```
-%%^End%%
 
 %%^Metadata:names:v1%%
 - {name: Aagiri, role: primary, language: Dunmari, pronunciation: AA-gir-ee, status: proposed, notes: "The stem AA-gir follows the accepted pronunciation in [[Aagir]]; final i is read ee using the Hindi/Indo-Iranian guidance in [[Languages]], while retaining the stem's stress and hard g. The complete form remains a proposal because no Aagiri-specific pronunciation is recorded."}

@@ -10,8 +10,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Nayan Dynasty
-
+```taelgar-header
+```
 The Dunmari dynasty founded in the aftermath of the Great War. 
 
 %%^Campaign:None%%
