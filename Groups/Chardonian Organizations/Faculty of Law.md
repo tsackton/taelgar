@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<ancestry:UA> <typeof:UA> of <partof:UA>", partOf: ""}

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Sibylinites
->[!info]+ Information  
-> A [[Drankorian Empire|Drankorian]] secret society  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Sibylinites were a magical society in [[Drankor]] devoted to secret knowledge of [[The Sibyl]]. In DR 688, they founded the Sibyline Archives, a small library on the south bank of the [[Chasa]] in [[Chardon]]. It is now called the [[Great Library]].
 
