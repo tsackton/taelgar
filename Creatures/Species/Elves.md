@@ -99,10 +99,39 @@ For elves, such events are remembered through the generations that experienced t
 - [[Visions of the Sentient Ocean]]
 %%
 
-%%^Campaign:none%%
-## Previous Text
 
-%% setting dm notes to none as status/cleanup/external communicates that only joint notes exist; did not attempt any cleanup yet%%
+
+%%^Metadata:names:v1%%
+- {name: Elves, language: Common}
+%%^End%%
+
+%%^povNotes:v1%%
+Temporal coverage: broadly modern reference prose about elven appearance, culture, and society, with general historical background; the lifecycle account requires reconciliation with Elven Cycle of Generations.
+%%^End%%
+
+%%^Lint%%
+## Taelgar note lint
+
+### Applied changes
+- Added `POV: modern`, a concise temporal interpretation, and a minimal primary name entry with the name language left unknown.
+- Corrected the visible phrases “Elves very only rarely” to “Elves only very rarely” and “live-giving Living Tree” to “life-giving Living Tree”; preserved the archival comment text.
+
+### Validated judgments
+- “Elves” is an obvious ordinary species term and does not need a pronunciation guide.
+- `status/wip` is supported by the unfinished species-format migration and retained development material; it was preserved.
+- Reviewed the shared comments and local evidence separately. Provisional development, alternate-setting material, and individual campaign encounters were not promoted into species-wide canon.
+
+### Open findings
+
+- [ ] **Suggestion — editorial.playable_species_format:** [[Playable Species of Taelgar]] identifies elves as playable. This article still uses the older thematic headings “Graceful And Sleek,” “Timeless And Haughty,” “Wild Homelands,” “The Elven Cycle of Generations,” “Tragedy and Loss,” and “Superior Protectors.” It does not follow the public sections in [[Halflings]] and `_templates/markdown/species-in-world.md`: Appearance, Language and Naming, Lifecycle, Settlements and Homelands, Cultural Traits, and Historical Perspective. Reformat the existing supported material into that structure, supply supported naming context from [[Playing an Elf]] where useful, link that separate mechanics page, and organize retained development guidance separately from public reference prose. The format change is a human task; do not invent missing lore to fill headings.
+- [ ] **Warning — correctness.cross_note_conflict:** “The Elven Cycle of Generations” gives fertility from about age 150 to about 200, and a childhood/awakening determined by the individual reaching about age fifty. [[Elven Cycle of Generations#Mela and Leya]] instead describes about thirty fertile years tied to the communal *mela*, followed by a fifty-year Dreaming ending at the Rite of Awakening; [[Playing an Elf]] also specifies thirty years. These are competing lifecycle accounts, not merely alternate wording. Decide which model controls and reconcile this section with the linked reference. If the cycle-based account is adopted, the core replacement is: “Elves can bear children during the roughly thirty fertile years associated with their first *mela*, when Aldanor's roots tie them to the Material Plane. At the end of the *mela*, the children enter the fifty-year Dreaming, which ends with the Rite of Awakening and the beginning of their first *leya*.” Review the age-ten, body-parent, and soul-parent detail separately rather than assuming that the new timing settles it.
+- [ ] **Suggestion — editorial.shared_material_redundant:** The long “Email conversation notes” comment contains a second “Elves / Overview” article and repeated “Family Life” paragraphs that substantially duplicate the visible appearance, divine connection, settlements, outlook, and childhood prose. Split this archive deliberately: remove the duplicated wording after reviewing its distinct older variants, while retaining the original trade discussion, unresolved creation/history material, and unfinished later-life ideas as clearly labeled development/source notes. In particular, preserve the older Halfborn material and differing historical/age claims for disposition rather than silently folding them into current canon. This would leave one maintained public account without discarding the comment's distinct ideas or provenance.
+
+%%^End%%
+
+
+%%^Campaign:none%%
+# Previous Text
 
 %% Lots of discussions both in the notes below and Discord; also this page is old and likely needs a bit of a rethink. As far as I know all the notes are either in shared Discord chat or Obsidian though  %%
 
@@ -419,39 +448,3 @@ See [[Historical Framework]] for some details on the ages, needs reworking into 
 
 %%
 
-````markdown
-%%^Metadata:names:v1%%
-- {name: Elves, language: unknown}
-%%^End%%
-
-%%^povNotes:v1%%
-Temporal coverage: broadly modern reference prose about elven appearance, culture, and society, with general historical background; the lifecycle account requires reconciliation with Elven Cycle of Generations.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added `POV: modern`, a concise temporal interpretation, and a minimal primary name entry with the name language left unknown.
-- Corrected the visible phrases “Elves very only rarely” to “Elves only very rarely” and “live-giving Living Tree” to “life-giving Living Tree”; preserved the archival comment text.
-
-### Validated judgments
-- “Elves” is an obvious ordinary species term and does not need a pronunciation guide.
-- `status/wip` is supported by the unfinished species-format migration and retained development material; it was preserved.
-- Reviewed the shared comments and local evidence separately. Provisional development, alternate-setting material, and individual campaign encounters were not promoted into species-wide canon.
-
-### Open findings
-
-- [ ] **Suggestion — editorial.playable_species_format:** [[Playable Species of Taelgar]] identifies elves as playable. This article still uses the older thematic headings “Graceful And Sleek,” “Timeless And Haughty,” “Wild Homelands,” “The Elven Cycle of Generations,” “Tragedy and Loss,” and “Superior Protectors.” It does not follow the public sections in [[Halflings]] and `_templates/markdown/species-in-world.md`: Appearance, Language and Naming, Lifecycle, Settlements and Homelands, Cultural Traits, and Historical Perspective. Reformat the existing supported material into that structure, supply supported naming context from [[Playing an Elf]] where useful, link that separate mechanics page, and organize retained development guidance separately from public reference prose. The format change is a human task; do not invent missing lore to fill headings.
-- [ ] **Warning — correctness.cross_note_conflict:** “The Elven Cycle of Generations” gives fertility from about age 150 to about 200, and a childhood/awakening determined by the individual reaching about age fifty. [[Elven Cycle of Generations#Mela and Leya]] instead describes about thirty fertile years tied to the communal *mela*, followed by a fifty-year Dreaming ending at the Rite of Awakening; [[Playing an Elf]] also specifies thirty years. These are competing lifecycle accounts, not merely alternate wording. Decide which model controls and reconcile this section with the linked reference. If the cycle-based account is adopted, the core replacement is: “Elves can bear children during the roughly thirty fertile years associated with their first *mela*, when Aldanor's roots tie them to the Material Plane. At the end of the *mela*, the children enter the fifty-year Dreaming, which ends with the Rite of Awakening and the beginning of their first *leya*.” Review the age-ten, body-parent, and soul-parent detail separately rather than assuming that the new timing settles it.
-- [ ] **Suggestion — editorial.shared_material_redundant:** The long “Email conversation notes” comment contains a second “Elves / Overview” article and repeated “Family Life” paragraphs that substantially duplicate the visible appearance, divine connection, settlements, outlook, and childhood prose. Split this archive deliberately: remove the duplicated wording after reviewing its distinct older variants, while retaining the original trade discussion, unresolved creation/history material, and unfinished later-life ideas as clearly labeled development/source notes. In particular, preserve the older Halfborn material and differing historical/age claims for disposition rather than silently folding them into current canon. This would leave one maintained public account without discarding the comment's distinct ideas or provenance.
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Northern Plains (Sessions 6-16)/Stormcaller Tower/Stormcaller Tower (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Session 63-65 (Stormcaller Tower)/Stormcaller Tower - DM Version]]
-- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Orenlas - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 76 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 77 - DM Notes]]
-%%^End%%
-````
-%%^End%%
