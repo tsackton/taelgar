@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {partOf: "<typeof:AU> of <partof>", boxInfo: ""}
@@ -11,25 +10,16 @@ dm_owner: mike
 dm_notes: important
 POV: modern
 ---
-# The Dunfry Regiment
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
-> A regiment of the [[Army of the West]], the [[Sembaran Army]], [[Sembara]]
+```taelgar-header
+```
 
 %% Significant events of undead attack here in my DM notes only ; need incorporation %%
 
-%%^Campaign:none%%
-### Members
-
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location"], 
-			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+type: members
+mode: table
+show: obsidian
 ```
-%%^End%%
-
 %%^Metadata:names:v1%%
 - {"name": "Dunfry Regiment", "language": "unknown", "pronunciation": "DUN-fry REJ-ih-ment", "status": "proposed", "notes": "Proposal favoring the English strand of the Sembaran analogue in [[Languages]]: Dun rhymes with done, fry with sky, initial stress, and ordinary English Regiment. The final y and stress are not documented; the French strand could instead favor a final ee and later prominence. The component [[Dunfry]] records no accepted pronunciation."}
 %%^End%%

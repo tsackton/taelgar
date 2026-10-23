@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {partOf: "", boxInfo: "", defArt: the}
@@ -12,43 +11,20 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The Essfords
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A minor landholding family in the [[Enst|Enst River Valley]]. The founder of the family, [[Reginald Essford]], came to prominence during the [[Third Hobgoblin War (Sembara)|hobgoblin wars]] for valor in battle as a member of [[Cece I|Cece I's]] [[Radiant Alliance]]. The Essfords have been well-loved in the [[Cleenseau Region]] for several generations now.
 
 %% Some notes in [[Cleenseau History Notes]] and [[Reginald Essford]] and [[Wymar Essford]] %%
 
-%%^Campaign:none%%
-### Current Members
-
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location"], 
-			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
-```
-%%^End%%
-
-%%^Campaign:none%%
-### Historical Members
-
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Born", "Died"], 
-			dv.pages("#person")
-				.where(f => util.isOrWasAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
-				.sort(b => b.born)
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<startStatus> <startDate>",b.file, dv.current().pageTargetDate), util.s("<endStatus> <endDate>",b.file, dv.current().pageTargetDate)]))
-```
-%%^End%%
-
-%%^Metadata:names:v1%%
-- {"name": "Essfords", "language": "Sembaran", "pronunciation": "ESS-fordz", "status": "documented", "notes": "[[Arthur Essford]] and [[Rinault Essford]] record the accepted surname pronunciation ESS-ford in frontmatter and Sembaran in documented name entries; the family plural adds the ordinary voiced z ending."}
-- {"name": "Essford", "role": "alias", "language": "Sembaran", "pronunciation": "ESS-ford", "status": "documented", "notes": "Accepted surname component in the frontmatter of [[Arthur Essford]] and [[Rinault Essford]]."}
+```taelgar-index
+type: members
+mode: tab```taelgar-index
+type: members
+mode: table
+show: obsidian
+```status": "documented", "notes": "Accepted surname component in the frontmatter of [[Arthur Essford]] and [[Rinault Essford]]."}
 %%^End%%
 
 %%^povNotes:v1%%

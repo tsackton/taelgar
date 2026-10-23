@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# The Red Knife Tribe
->[!info]+ Information  
-> A goblin tribe  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Red Knife tribe is a group of [[Goblins|goblins]] that occupy the rough lands in the foothills of the [[Fiatara Mountains]], northwest of [[Voltara]]. Though a nuisance to Voltara in the DR 1740s, since the rise and fall of [[Grumella]] they have not been regularly seen.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 tags: [group, status/stub, status/check/lint]
@@ -13,12 +12,8 @@ dm_owner: mike
 dm_notes: important
 POV: 1730
 ---
-# The Vejo Vaikai
-*(VYEH-yoh vay-KaY)*
->[!info]+ Information  
-> A mystic order  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% But you learn of a group of mystics, the Vejo Vaikai, who live in the forests of Breva, along the banks of the Selgrava (SELL-grah-vah) before it joins the Teft. Arriving there, you found worry carved into every face. 
 
