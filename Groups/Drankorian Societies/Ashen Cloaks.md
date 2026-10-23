@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group]
@@ -8,10 +7,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Ashen Cloaks
->[!info]+ Information  
-> A group  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Ashen Cloaks were the name given to the agents and enforcers who carried out disappearances and killings in [[Drankor]] during [[Apollyon]]’s reign.
 

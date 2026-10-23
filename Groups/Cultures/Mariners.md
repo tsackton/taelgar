@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [ancestry, status/check/lint]
@@ -9,7 +8,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# The Mariners
+```taelgar-header
+```
 
 The Mariners are an ancient seafaring culture, originally from [[Hkar]], who left in a broad migration in the years prior to [[The Downfall]]. They settled first around the [[Eastern Green Sea]] and spread westward along the shores of the [[Green Sea]]. 
 

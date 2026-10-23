@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [ancestry, status/check/lint]
@@ -9,8 +8,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Northerners
-
+```taelgar-header
+```
 The Northerners are a broad family of peoples descended from the [[Historical Framework#Migrations and Emigration|first major migration]] out of [[Hkar]]. The best-preserved Northerner traditions survive among the [[Deno'qai]], the older highland strands of the [[Zimka]], and the [[Vargaldi]]. Northern religious ideas also shaped later cultures, including regional forms of [[Mos Numena]] such as [[Mawaran Religion|Mawaran religion]]. Though Northerner-descended cultures are diverse, they tend to speak languages derived from the original [[Languages#Northros Language Family|Northros]] tongue of the first migrants, and share a set of [[Northern Folk Religions|religious beliefs]] centered on intercession by small gods with the [[Divine Presence]].
 
 ## Nomenclature
