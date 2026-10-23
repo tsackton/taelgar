@@ -10,6 +10,7 @@ campaignInfo:
 born: 1676
 gender: male
 name: Avaras
+image: avaras-portrait.png
 affiliations: [Order of the Awakened Soul]
 whereabouts:
   - {type: home, start: "", end: "", location: Karawa}
