@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/ai]
+tags: [background]
 hide: [toc, navigation]
 name: Map of Taelgar
 dm_notes: none

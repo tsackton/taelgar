@@ -20,21 +20,31 @@ POV: modern
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Kingdom of Khatridun was once the greatest, oldest, and most powerful of the five kingdoms. Rumored to be the first place where dwarves settled in the world, none could deny the ancient history of the Kingdom of Khatridun. At their height during the [[Great War]], the Kingdom of Khatridun lost more than any kingdom, excepting the destroyed Kingdom of [[Ardith]], during that time. The ancient city and capital was destroyed in the destruction that followed the death of Cha’mutte, and many soldiers from Khatridun lost their lives defending dwarves, and humans, and others.
+The dwarven kingdom of Khatridun is one of the [[Dwarven Kingdoms|Five Kingdoms]] of the [[Sentinel Range]], stretching along the western border of [[Sembara]], north of [[Ardith]] and east of [[Am'khazar]]. Once the most powerful of the Five Kingdoms, it is reputed to be the first place where dwarves settled in the world. Its ancient capital, [[Azrathun|Azrathûn]], was among the greatest dwarven cities.
 
-In the aftermath of the [[Great War]], Khatridun has turned inward. Much of its former wealth was lost as trade between the east and the west all but ceased, and never blessed with excessive mineral wealth, the people of Khatridun turned inward and to their history, looking for lost knowledge from a prior age to help them rise again.
+During the [[Great War]], Khatridun suffered more than any of the Five Kingdoms except [[Ardith]]. Azrathûn was destroyed in the devastation following [[Cha'mutte]]’s death at the [[Battle of Urlich Pass]], and many soldiers of Khatridun died defending dwarves, humans, and others.
+
+Much of the kingdom’s former prosperity depended on trade between [[Sembara]] and [[Chardon]], which all but ceased after the war. Without the extensive mineral wealth of some neighboring kingdoms, Khatridun has turned inward, looking to its history for lost knowledge that might help restore its former greatness.
+
 ## Locations
 
-* [[Darakan]], a city
+```taelgar-index
+type: settlements
+mode: table
+heading: false
+```
 
 ### Quicksilver Pools
 
-In the kingdom of Khatridun, there can be found shimmering pools of quicksilver. Most, but not all, are deep underground; these pools are carefully tended, as quicksilver can be used in many magical crafts. 
+Shimmering pools of quicksilver can be found throughout Khatridun. Most, but not all, lie deep underground. These pools are carefully tended, as quicksilver is used in many magical crafts.
 
+%%^Campaign:dufr%%
 [[Seeker]] visited one such pool as a child.
+%%^End%%
+
 
 %%^Metadata:names:v1%%
-- {"name": "Khatridun", "language": "Dwarvish", "pronunciation": "KHAHT-ree-dun", "status": "documented", "notes": "The Tolkien Dwarvish analogue in [[Languages]] guides kh as a back-of-the-mouth fricative, open a, and i as ee, with initial stress; the final syllable is dun, not doon."}
+- {"name": "Khatridun", "language": "Dwarvish", "pronunciation": "KHAHT-ree-dun", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%

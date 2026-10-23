@@ -7,6 +7,7 @@ typeOf: settlement
 typeOfAlias: city
 ancestry: dwarven
 name: Darakan
+pronunciation: DAH-rah-kahn
 whereabouts: Khatridun
 dm_owner: tim
 dm_notes: color
@@ -29,7 +30,7 @@ locations:
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {name: Darakan, language: unknown, pronunciation: DAH-rah-kahn, status: proposed, notes: "Analogue-informed proposal using the Dwarvish naming guidance in Languages (Tolkien Dwarvish): three open a vowels, an articulated r, a hard k, and initial stress. The name's language and exact in-world phonology are not established."}
+- {name: Darakan, language: unknown, pronunciation: DAH-rah-kahn, status: dcoumented}
 %%^End%%
 
 %%^povNotes:v1%%
@@ -51,7 +52,7 @@ Temporal coverage: broadly modern reference geography and marbleworking traditio
 ### Open findings
 
 - [ ] **Warning — metadata.map_location_missing:** The required settlement map block now has one `map: world` entry, but its `locator` remains blank. Supply the verified world-map hex in that existing entry; the reviewed sources do not establish a coordinate. Preserve the typed entry rather than substituting an empty locations list.
-- [ ] **Warning — metadata.names_unresolved_status:** The persistent entry proposes `DAH-rah-kahn`, informed by the Dwarvish/Tolkien Dwarvish analogue in [[Languages]]: three open a vowels, an articulated r, hard k, and initial stress. This is a proposed adaptation; neither the name's language nor its exact in-world pronunciation is established. Accept or revise the stored proposal; if accepted, copy the primary pronunciation to frontmatter and set the entry to `status: documented`.
+- [x] **Warning — metadata.names_unresolved_status:** The persistent entry proposes `DAH-rah-kahn`, informed by the Dwarvish/Tolkien Dwarvish analogue in [[Languages]]: three open a vowels, an articulated r, hard k, and initial stress. This is a proposed adaptation; neither the name's language nor its exact in-world pronunciation is established. Accept or revise the stored proposal; if accepted, copy the primary pronunciation to frontmatter and set the entry to `status: documented`.
 
 ### DM evidence
 - [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Dates - Dunmar Campaign Player Background]]
