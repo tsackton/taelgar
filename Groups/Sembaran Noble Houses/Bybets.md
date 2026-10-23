@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {partOf: "", boxInfo: "", defArt: the}
@@ -12,27 +11,18 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Bybets
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A minor manorial family based around [[Ainwick]].
 
 %% No details exist; the husband of a major NPC is of this family but no idea as to why he left his family's main stomping ground %%
 
-%%^Campaign:none%%
-### Current Members
-
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location"], 
-			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2Fr> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+type: members
+mode: table
+show: obsidian
 ```
-%%^End%%
-
 %%^Metadata:names:v1%%
 - {"name": "Bybets", "language": "Sembaran", "pronunciation": "BY-bets", "status": "proposed", "notes": "The family form extends the accepted BY-bet surname in [[Annet Bybet]] with the ordinary plural s. That source explicitly records English derivation, not French. The full plural form is proposed rather than separately documented."}
 - {"name": "Bybet", "role": "alias", "language": "Sembaran", "pronunciation": "BY-bet", "status": "documented", "notes": "The surname pronunciation and English derivation are recorded in [[Annet Bybet]]."}

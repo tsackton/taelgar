@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,29 +11,19 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Rodnya Voknaz
->[!info]+ Information  
-> An [[Ursk|Urskan]] magical bloodline  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
-> Parent Organization: the [[Rodnya|Rodnye]]
+```taelgar-header
+```
 
 The Rodnya Voknaz is one of the eight [[Rodnya|rodnye]] that rule [[Ursk]]. Voknaz is based in the western reaches of the country and is known for war magic: shaping elemental forces into destructive spells, and arguing that offensive power is the best defense against the threats of the far north.
 
 The Rodnya’s headquarters is the [[Voknaz Manor]], a heavily warded estate that includes at least one extraplanar portal to the [[Frostfell]].
 
 
-%%^Campaign:none%%
-### Members
-
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location"], 
-			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+type: members
+mode: table
+show: obsidian
 ```
-%%^End%%
-
 %%^Metadata:names:v1%%
 - {"name": "Rodnya Voknaz", "language": "unknown", "pronunciation": "rahd-NYAH vahk-NAHS", "status": "proposed", "notes": "Proposed using the Russian analogue for Urksan in [[Languages]]: unstressed o reduced toward ah, softened n plus ya in Rodnya, retained vk/n consonants, and final z devoiced to s. Final stress in Voknaz is tentative; exact in-world phonology and the full name language remain unrecorded."}
 %%^End%%

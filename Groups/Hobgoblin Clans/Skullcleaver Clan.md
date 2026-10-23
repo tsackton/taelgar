@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -11,11 +10,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# The Skullcleaver Clan
->[!info]+ Information  
-> A [[Hobgoblins|hobgoblin]] clan  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Skullcleaver Clan is a group of hobgoblins based in the northeastern part of [[Irrla]]. A relatively disorganized clan, as far as hobgoblins go, and hemmed in by the fortified and heavily defended borders of the [[Republic of Svolhas]]. The Skullcleavers are largely pirates and raiders; they have significant naval forces, and pose a notable danger to traders sailing from the ports of [[Ursk]]. 
 

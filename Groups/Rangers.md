@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the, boxInfo: ""}
@@ -11,10 +10,8 @@ dm_owner: joint
 dm_notes: none
 POV: 1720s
 ---
-# The Rangers
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% needs some updating to make less specific to 1720, and expand a little to capture vibes; e.g., well established that rangers are highly diverse species-wise and also fairly loose organizationally 
 
@@ -31,43 +28,13 @@ The [[Report on the Bogblight]] has some in world vibes about the rangers as wel
 
 %%
 
-%%^Campaign:None%%
-### Members
-
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location"], 
-			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
-```
-%%^End%%
-
-
-%%^Campaign:None%%
-### Historical Members
-
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Born", "Died"], 
-			dv.pages("#person")
-				.where(f => util.isOrWasAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
-				.sort(b => b.born)
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<startStatus> <startDate>",b.file, dv.current().pageTargetDate), util.s("<endStatus> <endDate>",b.file, dv.current().pageTargetDate)]))
-```
-%%^End%%
-
-
-%%^Campaign:none%%
-
-There are two significant lines of invention around the history of the Rangers:
-
-- The Rangers are clearly connected to [[Isingue]] and the ancient magic associated with the [[Heartroot]].
-- The Rangers are clearly connected to the guerrilla wars against Avatus during the [[Serpentine Wars]].
-
-Both of these facts are clearly established canon introduced in game. 
-
-One possible explanation is that Beryl joined together two disparate, but philosophically similar, groups that had grown out of opposite to Avatus - the more magically inclined Isingue folks who used the Heartroot to grow magical walls to defend against Avatus, and the more nature/scout inclined folks from Addermarch. 
+```taelgar-index
+type: members
+m```taelgar-index
+type: members
+mode: table
+show: obsidian
+```yl joined together two disparate, but philosophically similar, groups that had grown out of opposite to Avatus - the more magically inclined Isingue folks who used the Heartroot to grow magical walls to defend against Avatus, and the more nature/scout inclined folks from Addermarch. 
 
 It is also possible there is aid flowing from Isingue to Addermarch and back during the Serpentine Wars, since the route along the Valmont between the two realms is likely open at this time. 
 

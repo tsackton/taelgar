@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group]
@@ -11,11 +10,8 @@ dm_owner: mike
 dm_notes: important
 POV: modern
 ---
-# The Army of the North
->[!info]+ Information  
-> An army  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
-> Parent Organization: the [[Sembaran Army]], [[Sembara]]
+```taelgar-header
+```
 
 The Army of the North is 1,500 soldiers divided into two companies, one garrisoned near Arnsbury and the other along the northern Volta. Historically this army was much larger, but today the northern border is peaceful and few threats come south from [[Vostok]].
 

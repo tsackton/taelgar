@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Grumella's Horde
->[!info]+ Information  
-> An [[Orcs|orc]] horde  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 An orc horde that was gathered under the leadership of [[Grumella|Grumella the Vengeful]] in DR 1747. This horde attacked [[Voltara]] in October of DR 1747, and was defeated at the [[Battle of Voltara]]. The survivors of the battle fled, disorganized, into the [[Erbalta Plains]] and the horde as an army ceased to exist.
 

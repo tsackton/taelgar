@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Charmhearts
->[!info]+ Information  
-> A [[Halflings|halfling]] family  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Charmhearts are a prominent family of [[Halflings|halfling]] overland traders. They trace their history to [[Sembara]], but for the past several generations the most prominent branch of the family has made their living on long distance trade, bringing spices, furs, and dyed cloth from [[Sembara]] to [[Dunmar]], as well as sometimes apple brandy from [[Adderfell]]. 
 
@@ -23,18 +20,11 @@ Their traditional route brings them across the lower elevation eastern passes ac
 
 They are a serious trading family, and always travel prepared for danger, especially across the passes and the open frontier north of [[Karawa]]. 
 
-%%^Campaign:None%%
-### Members
-
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location"], 
-			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+type: members
+mode: table
+show: obsidian
 ```
-%%^End%%
-
 %%^Date:1748%%
 In 1748, the Charmhearts encountered trouble on the road from [[Ausson's Crossing]] to [[Karawa]]. Descending the passes on March 19, 1748, the Charmheart caravan stopped to rest and recover after the hard journey, at a well-used campsite near the old Dunmari fortress called Raven's Hold. [[Ander Charmheart]], a young and sometimes foolish member of the clan, went exploring, and was caught in a wave of demonic energy from a demon summoning. With Ander driven mad, the Charmheart caravan was forced to deal with the situation in [[Karawa]].
 

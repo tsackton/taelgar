@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {partOf: "<typeof:AU> in <partof>", boxInfo: ""}
@@ -13,10 +12,8 @@ dm_owner: mike
 dm_notes: none
 POV: 1710s
 ---
-# The Sembaran Army
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
-> An army in [[Sembara]]
+```taelgar-header
+```
 
 %% Needs some work to incorporate the events from the Clee campaign which impacted the army organization; some color also invented not well captured here 
 needs review based on the changes in Tyrwingha as well

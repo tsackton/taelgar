@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {partOf: "part of <partof>", boxInfo: ""}
@@ -12,9 +11,8 @@ dm_owner: mike
 dm_notes: important
 POV: 1720
 ---
-# The Army of the West
->[!info]+ Information
-> part of the [[Sembaran Army]], [[Sembara]]
+```taelgar-header
+```
 
 %% Update in aftermath of Undead Attacks - the army has been majorly disrupted by the undead attacks and aftermath - but then also restored, so actually this is largely still true  %%
 

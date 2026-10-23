@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "A <typeof> in <home:fr>", wHome: ""}
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Ancient and Honorable Guild of Philosophers
->[!info]+ Information  
-> A guild in the [[Tollen|Free City of Tollen]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Ancient and Honorable Guild of Philosophers is a secretive guild in [[Tollen]], about which many rumors swirl. The members of the guild rarely make themselves known in public, although every year elders from the guild lead the largest of the [[Pyravela]] parades in Tollen. 
 ## Rumors

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -11,11 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The House of Lils
->[!info]+ Information  
-> A noble family  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A cadet branch of the [[House of Sewick]], which came to the throne in the 1720s. The house descends from the youngest child of [[Elaine I]] and a Tyrwinghan [[Oracle of the Riven]], [[Morgaine]].
 
@@ -38,19 +34,11 @@ class GylesOfLils,Annabeth,Morgaine,ElaineII,ArrynIII,Derik internal-link;
 ```
 
 
-%%^Campaign:none%%
-### Members
-
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Born", "Died"], 
-			dv.pages("#person")
-				.where(f => util.isOrWasAffiliated(dv.current().file.name, f.file))
-				.sort(b => b.born)
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<startStatus> <startDate>",b.file, dv.current().pageTargetDate), util.s("<endStatus> <endDate>",b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+type: members
+mode: table
+show: obsidian
 ```
-%%^End%%
-
 %% Note: More could be invented about this house, but little needs to be. Mostly exists to group the recent Sembaran/Tyrwinghan rulers. %%
 
 %%^Metadata:names:v1%%

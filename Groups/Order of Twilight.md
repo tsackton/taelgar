@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/gameupdate/gl, status/check/lint]
@@ -9,10 +8,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# The Order of Twilight
->[!info]+ Information  
-> A religious order  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Order of Twilight is a monastic order devoted to [[The Night Queen]], historically known for hospice and healing. It was once a powerful force across the lands west of the [[Sentinel Range|Sentinels]], especially the lands north of [[Lake Valandros]]. It was largely destroyed in the aftermath of the [[Great War]]. 
 
