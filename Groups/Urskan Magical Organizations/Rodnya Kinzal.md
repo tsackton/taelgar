@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,16 +12,25 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-```taelgar-header
-```
+# The Rodnya Kinzal
+>[!info]+ Information  
+> An [[Ursk|Urskan]] magical bloodline  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+> Parent Organization: the [[Rodnya]]
 
 The Rodnya Kinzal is one of the eight [[Rodnya|rodnye]] that rule [[Ursk]]. Kinzal is most closely associated with enchantment and illusion magic, and in modern Urskan politics is known for its hostility toward the [[Ursk#The People of Ursk|novja]].
 
-```taelgar-index
-type: members
-mode: table
-show: obsidian
+%%^Campaign:none%%
+### Members
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Current Location"], 
+			dv.pages("#person")
+				.where(f => util.isAffiliated(dv.current().file.name, f.file))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
+%%^End%%
+
 %%^Metadata:names:v1%%
 - {"name": "Rodnya Kinzal", "language": "unknown", "pronunciation": "ruhd-NYAH keen-ZAHL", "status": "proposed", "notes": "Proposed using the Urskan Russian analogue in [[Languages]]: unstressed o reduced toward uh, ny as a softened n followed by yah, i as ee, z as z, and a as ah. Final stress is a tentative Russian-style adaptation; neither full-name pronunciation nor exact name-language attribution is recorded."}
 %%^End%%

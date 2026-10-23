@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,17 +12,27 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-```taelgar-header
-```
+# Rodnya Zoryana
+>[!info]+ Information  
+> An [[Ursk|Urskan]] magical bloodline  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+> Parent Organization: the [[Rodnya|Rodnye]]
 
 The Rodnya Zoryana is one of the eight [[Rodnya|rodnye]] that rule [[Ursk]]. It is most closely associated with divination magic: an “uncanny ability to see what is, was, and might be,” and a reputation for finding truths that others would prefer remain hidden.
 
 
-```taelgar-index
-type: members
-mode: table
-show: obsidian
+%%^Campaign:none%%
+### Members
+
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Current Location"], 
+			dv.pages("#person")
+				.where(f => util.isAffiliated(dv.current().file.name, f.file))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
+%%^End%%
+
 %%^Metadata:names:v1%%
 - {"name": "Rodnya Zoryana", "language": "unknown", "pronunciation": "ruhd-NYAH zuhr-YAH-nuh", "status": "proposed", "notes": "Uses the Russian analogue for Urskan in [[Languages]]: tentative final stress in rodnya and middle stress in Zoryana, unstressed o reduced toward uh, ny as a softened n plus y, ry as a softened r plus y, stressed ya as yah, and final unstressed a as uh. This is an analogue-informed proposal, not an established in-world pronunciation; the exact name language and stress are unrecorded."}
 %%^End%%
