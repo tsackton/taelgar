@@ -21,6 +21,7 @@ show: obsidian
 type: members
 mode: table
 ```
+
 %%^Metadata:names:v1%%
 - {name: Redpeaks, language: Common, role: translated, status: inferred, notes: "Transparent trade-tongue clan form, following the naming convention in [[Dwarves]]; the underlying Dwarvish form is not recorded."}
 %%^End%%
