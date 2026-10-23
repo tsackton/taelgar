@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "Sometimes considered one of the <secondary:1>"}
-tags: [place]
+tags: [place, status/check/ai]
 typeOf: plane
 name: Pandemonium
 whereabouts:
@@ -23,7 +23,7 @@ There is no one description of  Pandemonium. Even among those who claim to have 
 ![[pandemonium-painting.webp]]
 *A painting imaging Pandemonium by [[Kaelion the Elder]]*
 
-The [[Standard Multiversal Model]] places Pandemonium among the undifferentiated [[Spiritual Realms]], and does not propose an origin for this place of madness. Yet, some suggest otherwise. [[Nicole Ardouin]], though often ignored, collected the most extensive history of Pandemonium in [[On the Foundations of Madness]]. In this impressive, though rarely studied work, she collected numerous fragments of lost writing and deep history concerning Pandemonium, which hint at the possibility the Plane of Madness is metaphysically a realm of the embodied god the [[Mad One]], often known as the Avatar of [[Jinnik]]. While many scholars refuse to engage legends of the [[Three Despairs]], and claim that [[Jinnik]] is a myth from the early days of humanity, Nicole argues strongly that Pandemonium is indeed one of the [[Divine Realms]]. 
+The [[Standard Multiversal Model]] places Pandemonium among the undifferentiated [[Spiritual Realms]], and does not propose an origin for this place of madness. Yet, some suggest otherwise. [[Nicole Ardouin]], though often ignored, collected the most extensive history of Pandemonium in [[On the Foundations of Madness]]. In this impressive, though rarely studied work, she collected numerous fragments of lost writing and deep history concerning Pandemonium, which hint at the possibility the Plane of Madness is metaphysically a realm of the embodied god [[Jinnik]], often known as the Mad One. While many scholars refuse to engage these legends and claim that [[Jinnik]] is a myth from the early days of humanity, Nicole argues strongly that Pandemonium is indeed one of the [[Divine Realms]]. 
 
 Those who have studied [[On the Foundations of Madness]] believe the strongest evidence in support of its claims comes from the apparent connection between Pandemonium and [[Lycanthropes|lycanthropy]], often referred to as the curse of the Mad One, though the exact metaphysics of this connection remain a mystery. 
 

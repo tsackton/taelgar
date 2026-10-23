@@ -32,7 +32,7 @@ The incorporeal undead, on the other hand, are the sentient trapped souls of cre
 
 ### Greater Undead
 
-The most terrifying undead of all are those who sought their condition. Only confused rumors and conflicting myths exist of the processes that allow a sentient being to cheat death and persist as a conscious, willful entity in a dead body, but all agree this is a wholly evil act. Powerful mages who complete a ritual to bind their souls to an object on the [[Material Plane]], such as [[Apollyon]] and [[Malach]], are called liches and are perhaps the most feared of all the greater undead. Some rumors suggest that [[Umidzka]], one of the [[Three Despairs]], aids some of those who seek this path. 
+The most terrifying undead of all are those who sought their condition. Only confused rumors and conflicting myths exist of the processes that allow a sentient being to cheat death and persist as a conscious, willful entity in a dead body, but all agree this is a wholly evil act. Powerful mages who complete a ritual to bind their souls to an object on the [[Material Plane]], such as [[Apollyon]] and [[Malach]], are called liches and are perhaps the most feared of all the greater undead. Some rumors suggest that [[Umidzka]] aids some of those who seek this path. 
 
 ## Folklore and Mythology
 

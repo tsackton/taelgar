@@ -58,7 +58,7 @@ These questions concern the primordial setting and acts of creation associated w
 %% Sources:
 - [[2024-07-26 - Species and Souls]], 14:16–14:17 — proposed revision making Thark the only Embodied God among the Void Mind's creations.
 - [[2025-02-07 - Cosmology and Planes]], 12:50–13:05 — explicit agreement to simplify the hierarchy; undefined creation stories and possible identification of Jinnik with the Mad One.
-- [[Three Despairs]]; [[Jinnik]]; [[Umidzka]]; [[G'Zab]]; [[Thark]]; [[Mad One]]; [[Embodied Gods]] — reference pages retaining the older hierarchy and parentage.
+- [[Three Despairs]]; [[Jinnik]]; [[Umidzka]]; [[G'Zab]]; [[Thark]]; [[Jinnik]]; [[Embodied Gods]] — reference pages retaining the older hierarchy and parentage.
 - [[Pandemonium]] — the avatar model survives as disputed scholarly theology.
 - [[Session 34 (DuFr)]] — inscription describing the Mad One as Jinnik's embodied avatar.
 - [[Session 39 (DuFr)]] — cult testimony about a sacrifice intended to summon Jinnik's avatar.

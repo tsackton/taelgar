@@ -11,7 +11,7 @@ POV: modern
 ---
 # Ghesyn
 
-Ghesyn, often titled the Goddess of the End and the Hopeless One, is a feared figure associated with the [[Three Despairs]] and the curse of undeath, rumored to have been spawned from the union of [[G'Zab]] and [[Jinnik]]. 
+Ghesyn, often titled the Goddess of the End and the Hopeless One, is a feared figure associated with the curse of undeath, rumored to have been spawned from the union of [[G'Zab]] and [[Jinnik]]. 
 
 %%^Metadata:names:v1%%
 - {"name": "Ghesyn", "language": "unknown", "pronunciation": "GEH-sin", "status": "proposed", "notes": "Cautious spelling-based proposal: initial gh as hard g, short e, y as short i, and first-syllable stress. No name-specific pronunciation or source language is established in the consulted reference and discussion sources."}

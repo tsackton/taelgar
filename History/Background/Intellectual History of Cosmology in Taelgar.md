@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
-tags: [background, status/check/lint]
+tags: [background, status/check/lint, status/check/ai]
 name: Intellectual History of Cosmology in Taelgar
 excludePublish: [clee]
 dm_owner: none
@@ -260,7 +260,7 @@ The infamous [[Zharuk Akhal|Zhâruk Akhâl]] dominates the reputation of Far Rea
 
 ### Pandemonium and the Nightmare Realm
 
-[[Codex Maledictum]] gathers contradictory traveler accounts of Pandemonium. Nicole Ardouin's [[On the Foundations of Madness]] instead uses fragments, theology, and the plane's apparent association with lycanthropy to argue that Pandemonium may be a Divine Realm of the embodied god called the [[Mad One]]. This challenges the Standard Model's decision to leave Pandemonium among undifferentiated Spiritual Realms.
+[[Codex Maledictum]] gathers contradictory traveler accounts of Pandemonium. Nicole Ardouin's [[On the Foundations of Madness]] instead uses fragments, theology, and the plane's apparent association with lycanthropy to argue that Pandemonium may be a Divine Realm of the embodied god called [[Jinnik]]. This challenges the Standard Model's decision to leave Pandemonium among undifferentiated Spiritual Realms.
 
 Nicole also studied the [[Nightmare Realm]], although a full account of that work has not yet been developed. Camilla of Drankor preserves an older fey tradition concerning the same realm.
 

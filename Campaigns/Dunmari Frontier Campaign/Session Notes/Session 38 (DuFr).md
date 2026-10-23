@@ -54,7 +54,7 @@ The party searches the bodies and the papers, uncovering what seem to be calcula
 
 *When the deepest echo of madness is nigh,*
 
-*In the ancient cave of the [[Mad One]]'s soul.*
+*In the ancient cave of the [[Jinnik|Mad One]]'s soul.*
 
 *Thirteen brethren, thirteen prayers,*
 

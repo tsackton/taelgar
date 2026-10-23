@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T08:15:28-04:00"
 lintVersion: "3.5"
-tags: [meta]
+tags: [meta, status/check/ai]
 campaign: Dunmar Frontier
 name: Party Treasure - Former
 POV: 1749
@@ -36,7 +36,7 @@ POV: 1749
 -  Block of [[adamantine]]. Found in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Raven's Hold]], used to reinforce Delwath's [[Dunmari Heirloom Shield]]. 
 - Thorn Seed Bag. Destroyed in [[Session 31 (DuFr)]].
 - [[Soul Lantern]]. Destroyed in [[Session 32 (DuFr)]].
-- Seven iron spears carved with the incantation: “[[Mad One]], come to us, let [[Jinnik]]’s howl be heard.” From the [[Fraternity of the Empty Moon]]; destroyed. 
+- Seven iron spears carved with the incantation: “[[Jinnik|Mad One]], come to us, let [[Jinnik]]’s howl be heard.” From the [[Fraternity of the Empty Moon]]; destroyed. 
 - Necklace of Tongues ([[Seeker]]). A necklace made of a large number of dried, shriveled tongues strung on a twisted copper chain, radiating divination magic. Probably a creation of [[Agata]]’s, based on both [[Seeker]]’s and [[Tharandros]]’ examination. Taken from [[Agata]]’s person. (destroyed, sadly(?))
 - Four dried scorpions in a leather pouch. [[Tharandros]] thinks they could be magical, but their nature is hidden. Destroyed, will turn back into real giant scorpions when touched. Showed to the mirror, seeing an image of a struggling giant scorpion. 
 - [[Agata's Wooden Figurines]]. These are the wooden carvings/figures of cursed people. All of these radiate complex transmutation magic. All were changed back into people.
