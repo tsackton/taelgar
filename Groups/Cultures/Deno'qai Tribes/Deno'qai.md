@@ -10,9 +10,8 @@ dm_owner: joint
 dm_notes: important
 POV: modern
 ---
-# The Deno'qai
->[!info]+ Information  
-> A [[Northerners]] culture
+```taelgar-header
+```
 
 The Deno'qai are a branch of the [[Northerners|Northerner]] peoples, defined primarily by a shared religious and cultural tradition, especially the worship of the [[Gods and Religions/Gods/Tanshi/Tanshi|tanshi]], the small gods who carry prayers to [[Divine Presence|Anida]]. They speak Deno'qai, a group of related [[Languages#Northros Language Family|Northros]] dialects and languages, and are organized into many tribes and villages. Known Deno'qai groups include the [[Baz'aku]], [[Bek'eni]], [[Te'kula]], [[Ko'zula]], and [[Shu'anra]].
 
