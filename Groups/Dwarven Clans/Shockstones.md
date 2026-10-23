@@ -23,6 +23,7 @@ show: obsidian
 type: members
 mode: table
 ```
+
 %%^Metadata:names:v1%%
 - {name: Shockstone Clan, language: unknown}
 - {name: Shockstones, role: collective, language: unknown}
