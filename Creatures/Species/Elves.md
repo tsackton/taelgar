@@ -10,44 +10,55 @@ POV: modern
 ---
 # Elves
 
-*For character creation and mechanics, see [[Playing an Elf]].*
-
 >[!quote] Memories of the First, Elven Oral Tradition
->*In the dark and the void we awoke, our eyes opened to the stars above, and there was color and light and life in the world for the first time. Behold! For we are the First.*
+>*In the dark and the void we awoke, our eyes opened to the stars above, and there was color and light and song in the world for the first time. Behold! For we are alive!*
 
-Elves are an ancient people whose lives are entwined with magic, the living world, and their two gods, [[Aldanor]], the Living Tree, and [[Elmerca]], the Wild Star. In their forest homelands, they weave towers and palaces from living wood and magical energy, cultivate gardens of extraordinary beauty, and preserve songs and stories across centuries. Their long lives follow a shared cycle of generations, drawing them outward into the world and home again. Few settle among other species, and for many people an encounter with an elf is a rare and memorable event.
+%%@Mike: the quote above is a relic of the idea of the elves being the "original" species. I still kind of like the vibe but curious what you think. I changed it slightly from the original %%
+
+Elves are an ancient people whose lives are entwined with magic, the living world, and their two gods, [[Aldanor]], the Living Tree, and [[Elmerca]], the Wild Star. In their forest homelands, they weave towers and palaces from living wood, cultivate gardens of extraordinary beauty, and preserve songs and stories across centuries. Their long lives follow a shared cycle of generations, drawing them outward into the world and home again, in a cycle known as the [[Elven Cycle of Generations|ka]]. Though they are known across the world from songs and legends, few elves settle among other species: for many people of Taelgar an encounter with an elf is a rare and memorable event.
 
 ## Appearance
 
-Elves are about the same height as humans, but are usually more slender and fine-featured, typically weighing between 100 and 150 pounds. They move with a preternatural grace, and often appear hauntingly beautiful to other peoples. Their skin tends toward copper and bronze, but encompasses the range of human complexions and more. Their hair can be green or gold, and their eyes sometimes resemble pools of liquid silver or gold. Elves have little body hair and no facial hair.
+Elves are about the same height as humans, but are usually more slender and fine-featured, moving with a preternatural grace. Their skin encompasses the range of human complexions and more, often tending toward copper, bronze, or silver. Their hair can be green or gold, and their eyes sometimes resemble pools of liquid silver or gold. Elves have little body hair and typically no facial hair.
 
-Age leaves few obvious marks on an elf. Their coloration may fade slightly, but other species often find it difficult to distinguish a young adult from an elf who has lived for many centuries. Elves favor simple, well-tailored clothing, elegantly made and often beautiful in its details.
-
+Age leaves few obvious marks on an elf. Their coloration may fade slightly, but other species often find it difficult to distinguish a young adult from an elf who has lived for many centuries. Elves tend to favor simple, well-tailored clothing, elegantly made and often beautiful in its details.
 ## Language and Naming
-
 _See more: [[Playing an Elf#Elf Names|Elf Names]]_
 
 Elves speak Elvish, and their long lives give them time to learn the languages of other peoples. Those who travel beyond their homelands commonly learn the trade tongues and local languages of the places they visit.
 
 Elves typically use a single given name, adding their generation, homeland, or both when further distinction is needed. Names often have a lyrical sound; endings such as *-o*, *-ion*, *-or*, and *-on* are common in male names, while *-e*, *-iel*, *-ril*, and *-eth* are common in female names. Many names are used without regard to gender.
 
-## Lifecycle
+%%^Campaign:none%%
+Elven names are, generally speaking, strongly influenced by Tolkien's Elvish tongues, though this does not have to be the case for all elves everywhere. There is room for diverse naming traditions and unusual exceptions to this general pattern. 
 
+However, obvious departures from this tradition are best explained with an in-world reason. 
+%%^End%%
+
+## Lifecycle
 _See more: [[Elven Cycle of Generations]]_
 
-Elven lives are shaped by the *ka*, the numbered cycle of generations. Each new cycle begins with the *mela*, when Aldanor's roots strengthen the connection between elves and the [[Material Plane]]. Children are born during the limited fertile period associated with this return. New generations begin about every 160 years, and the bonds among those born into the same *ka* are central to elven identity. Elves often regard their generation-mates as siblings, regardless of whether they share parents.
+Elven lives are shaped by the *ka*, the cycle of discrete elven generations, marked in a count since the first elves opened their eyes. The [[Elven Cycle of Generations|ka]] is defined by the ebb and flow of the *mela*, when [[Aldanor]]'s roots strengthen the bond between elves and the [[Material Plane]] and draw them towards home, and the *leya*, when [[Elmerca]] pushes the elves to explore and wander. 
 
-Elven childhood is a time of learning, play, and the gradual awakening of magic. Body parents nurture children in their earliest years, while soul parents guide their later upbringing among their generation-mates. Much of childhood is spent in the Dreaming, through which Elmerca's influence shapes their imagination and understanding of the world. The Rite of Awakening marks adulthood and the beginning of the *leya*, the phase associated with Elmerca and the urge to journey. Its timing can vary: some generations awaken gradually, while others are called abruptly from their dreams.
+The cycle begins with the *mela*. Elves are only fertile during their first *mela* as an adult, so each generation begins in a short window each *ka*, during this limited period of child-bearing. The rhythms of this cycle mean that new generations begin about every 160 years. 
 
-Newly awakened elves are encouraged to explore. Some visit other elven lands, some journey into the [[Feywild]], and others wander among humans or seek wild places far from any settlement. The next *mela* draws them toward home and community. Those who accept Aldanor's connection can become parents; an elf's fertile years belong to this first adult return, rather than recurring throughout their life.
+The first *mela* of an elven child is a time of learning, play, and the gradual awakening of magic. Much of childhood is spent in the Dreaming, through which Elmerca's influence shapes their imagination and understanding of the world. The *mela* ends with the Rite of Awakening, which marks adulthood and the beginning of the *leya*, the phase associated with Elmerca and the urge to journey. Its timing can vary: some generations awaken gradually, while others are called abruptly from their dreams.
+
+Newly awakened elves are encouraged to explore during their first *leya*. Some visit other elven lands, some journey into the [[Feywild]], and others wander among humans or seek wild places far from any settlement. The next *mela* draws them toward home and community. Those who accept Aldanor's connection can become parents, but once an elf's first adult *mela* passes, the connection to [[Aldanor]] weakens with each passing turn of the *ka*: an elf's fertile years belong only to their first adult return. 
 
 Elves do not die of old age as humans do, and can live for many centuries or even millennia. Yet their attachment to Taelgar changes as they grow older. The pull of Aldanor's roots becomes fainter, earlier memories become more distant, and many turn toward contemplation or begin to let go of the world. Some eventually fade and depart; others remain, sustained by a purpose or attachment that still binds them to life.
 
+%%@Mike some repetition in here still and maybe a few awkward phrases %%
+
 ## Settlements and Homelands
 
-Elves usually make their homes in forests and other wild places, shaping their settlements through woodcraft and magic. Towers, halls, and gardens grow among the trees, and the surrounding land provides food without the broad clearings familiar around human towns. Many settlements are small and concealed by magic, so travelers may pass close by without realizing that anyone lives there. Even a great elven city can seem to emerge suddenly from an unbroken forest.
+Elves usually make their homes in forests and other wild places, shaping their settlements through woodcraft and magic. Towers, halls, and gardens grow among the trees, and their innate magic allows them to grow what they need from the surrounding land without the broad clearings for agriculture and pasture familiar from the settlements of other species. Most settlements, large or small, are hard to find and concealed by magic, so travelers may pass close by without realizing that anyone lives there. Even a great elven city can seem to emerge suddenly from an unbroken forest.
 
 [[Orenlas]], east of the [[Sentinel Range|Sentinels]], is one of the oldest surviving elven forests. Its dreaming trees still echo the song of Aldanor, and its largest settlement, [[Erelion]], is claimed to be the oldest continually occupied city on Taelgar. Beyond such ancient homelands, individual elves travel widely, though relatively few make permanent homes in the cities and towns of other peoples.
+
+%%@Mike - probably worth incorporating ideas about (a) [[Ainumarya]] and the lost elves, and (b) the idea that elves grow all they need with magic plants  - hinted at above %%
+
+---
 
 ## Cultural Traits
 
@@ -62,6 +73,11 @@ Magic is part of ordinary elven life. It sustains gardens and living buildings, 
 Responsibilities within elven society change with the generations. Nurturers care for children and the homeland; caretakers attend to relations with the wider world; elders help mediate disputes and maintain unity. The generations share and exchange these responsibilities as the cycle turns, and each community determines how they are fulfilled.
 
 Elven communities generally reach important decisions through deliberation and agreement. Those who speak for a community to outsiders may appear to be its rulers, but their authority rests on the responsibilities entrusted to them. A visitor seeking a single lord or queen may find that the person able to receive them cannot alone decide what the community will do.
+
+
+Elves often regard their generation-mates as siblings, regardless of whether they share parents, and the bonds among those born into the same *ka* are central to elven identity.
+
+Body parents nurture children in their earliest years, while soul parents guide their later upbringing among their generation-mates. 
 
 ### Beauty, Craft, and Abundance
 
@@ -98,7 +114,6 @@ For elves, such events are remembered through the generations that experienced t
 - [[2021-06-01 - Delwath Crystal Lantern Memory]]
 - [[Visions of the Sentient Ocean]]
 %%
-
 
 
 %%^Metadata:names:v1%%
@@ -139,9 +154,7 @@ Temporal coverage: broadly modern reference prose about elven appearance, cultur
 >*In the dark and the void we awoke, our eyes opened to the stars above, and there was color and light and life in the world for the first time. Behold! For we are the First.*
 
 Under the trees of a great forest, a living palace of air and light and flowers, humming with the weave of Magic holding it together, the sound of song drifting gently to the ground below. At the top of an impossible spire, a fey light glows with power and knowledge as birds and moths come and go with messages. A love of beauty, nature, poetry, artistry, and above all the power of magical energy. These things are the domain of the elves.
-## Graceful And Sleek
 
-All elves share a preternatural grace, often appearing hauntingly beautiful to members of many other races. While they are about the same height as humans, they are on average more slender and fine-featured, typically weighing between 100 and 150 pounds. Their coloration tends towards copper and bronze, but can encompass the whole range of human coloration and more, with striking hair of green or gold and eyes like pools of liquid gold or silver. Elves have little body hair and no facial hair. As they age, their coloration often fades slightly, but many are timeless and most other races cannot tell a young elf of 60 from an old one of 750. Elves favor simple but well-tailored and elegantly made clothing.
 ## Timeless And Haughty
 
 Elves can live a very long time, perhaps forever barring accident or injury. The very oldest elves simply fade away by choice, returning to the wild natural world they love. Their perspective on the world is heavily shaped by their ageless nature -- events that would trouble shorter-lived races are often seen as beneath the notice of the elves. According to Elven mythology, they were the first sentient race to be created by the Gods. Because of this they see themselves as caretakers of the world; all other races seem like children to them, who need to be guided. Elves strongly believe they have the best interests of the world at heart, but often discount the contributions, abilities, and maturity of non-elves.
@@ -151,15 +164,7 @@ Elves are the oldest of the Elder races, and they perceive their power, magic, a
 ## Wild Homelands
 
 Elves make their home in the wild reaches of the world, weaving elaborate towers and palaces from magical energy and the living world around them. Their skill with woodcraft and magic allow them to hunt, farm, and gather food without leaving a noticeable trace on the wild lands of the home, so travelers coming upon elf cities are usually taken aback by the suddenness with which they emerge out of the landscape. Most elf settlements are relatively small and masked by weaves of fey magic, so visitors or intruders often pass through ignorant of their surroundings. Elves will rarely start a fight, preferring to wait for the tides of history to turn to their side, but when they perceive a danger to the balance of the world they will act with alacrity and bring the full power of their race to bear. Elves only very rarely live among other races, finding the ever-changing world of the younger races (which to elves is all of them) tiring. For most people, elves are creatures of myth and legend, and if they have met one it would have been a notable event in their lives.
-## The Elven Cycle of Generations
 
-Elven family life and family traditions are structured around the elven cycle of generations. Each elf reaches childbearing years around the age of 150, and, for the next fifty or so years, is able to have children. But fertility wanes around the age of 200 (or a little before, or a little after), and for the remaining hundreds or thousands of years of an elvish life, they can bear no more children. Therefore, elves have distinct, non-overlapping generations, called the *[[Elven Cycle of Generations|ka]]*, which they number. All of the children of a generation are seen as siblings, and the broad bond across the age set is more important than the bonds between two children of the same parents.
-
-When an elf is born they are weak and small, as a human infant, with only the most tenuous connection to Aldanor, the life-giving Living Tree. For the first several years of an elf’s life, as their body grows stronger, they are nurtured and protected by their body parents, typically in seclusion, until, around the age of ten, they are firmly connected to Aldanor, and entwined in the great Tree of Life. This is the Age of Beginning, and it ends with the Rite of Emergence.
-
-A young elf spends most of their childhood, which lasts until around the age of fifty, raised and cared for by their soul parents, amongst their generation-mates. This is a time of learning and play in equal measure and it is when an elf starts to first develop magic. An elf spends much of this time in sleep and dreams, through which much of the deep sense of elven mystery and foresight is imbued by Elmerca. Around the age of fifty, an elf slowly starts to stop sleeping, spending time instead resting their minds in a reflection of their dreams. This is the Age of Becoming, and it ends with the Rite of Awakening.
-
-An elf of fifty is a young adult, in full control of their magic, their mind, and their body. Elves of this age are encouraged to travel and explore, experiment and engage with those outside their community. To some, this means finding other elven lands. To others, it involves a journey to the Feywild. To others, visiting the wild places of the world where only animals walk, and still to others, visiting the human world, or the lands of the other Elder races.
 ## Tragedy and Loss
 
 The history of the elves on Taelgar is one of cycles of loss and grief. Several times over their history, great evils have arisen, and elves have rallied to meet that evil and defend Taelgar. But each cycle has taken a terrible toll on the elves, and with each turning of the world the elves that live to see such times face grief and loss.
