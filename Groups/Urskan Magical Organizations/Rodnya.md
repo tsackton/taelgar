@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the, indefArt: ""}
@@ -10,8 +11,10 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-```taelgar-header
-```
+# The Rodnye
+>[!info]+ Information  
+>  [[Ursk|Urskan]] magical bloodlines  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The eight rodnye of [[Ursk]] (singular: Rodnya) are the secretive magical bloodlines that both control the magical power of the population of [[Ursk]], and rule the country. The rodnye are each a loose confederacy, headed by a powerful mage, each with their own idiosyncratic and individualistic attitudes and rules. Only those invited to join a rodnya may undergo the secret rituals that bind them to the bloodline and enhance their arcane strength. Nonetheless, at the highest levels the rodnye coordinate to rule and defend the country. 
 

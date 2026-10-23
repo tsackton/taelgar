@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,17 +12,26 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-```taelgar-header
-```
+# The Rodnya Morozmir
+>[!info]+ Information  
+> An organization  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The Rodnya Morozmir is one of the eight [[Rodnya|rodnye]] that rule [[Ursk]]. Morozmir is based in the southeast of the country and is best known for defensive magic; it is often credited with involvement in the vast arcane wards that protect much of Ursk.
 
 
-```taelgar-index
-type: members
-mode: table
-show: obsidian
+%%^Campaign:none%%
+### Members
+
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Current Location"], 
+			dv.pages("#person")
+				.where(f => util.isAffiliated(dv.current().file.name, f.file))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
+%%^End%%
+
 %%^Metadata:names:v1%%
 - {"name": "Rodnya Morozmir", "language": "unknown", "pronunciation": "rahd-NYAH muh-rahz-MEER", "status": "proposed", "notes": "Proposal using the Russian analogue for Urskan in [[Languages]]: Rodnya uses final stress and a softened n before ya; the two unstressed o vowels are reduced toward uh and ah, z remains voiced before m, and final mir is read meer with tentative final stress. No name-specific language, stress, or accepted pronunciation is recorded."}
 %%^End%%
