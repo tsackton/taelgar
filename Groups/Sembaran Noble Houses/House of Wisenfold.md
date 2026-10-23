@@ -15,11 +15,17 @@ The Wisenfold family has significant presence along the upper Wistel, especially
 
 %% This exists merely as a historical family but felt worth keeping around in case someone needs the name of an important noble family in the  %%
 
-```taelgar-index
-type: members
-mode: table
-show: obsidian
+%%^Campaign:none%%
+### Members
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Born", "Died"], 
+			dv.pages("#person")
+				.where(f => util.isOrWasAffiliated(dv.current().file.name, f.file))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<startStatus> <startDate>",b.file, dv.current().pageTargetDate), util.s("<endStatus> <endDate>",b.file, dv.current().pageTargetDate)]))
 ```
+%%^End%%
+
 %%^Metadata:names:v1%%
 - {"name": "House of Wisenfold", "language": "unknown", "pronunciation": "HOUSE of WYE-zen-fohld", "status": "proposed", "notes": "No recorded pronunciation was found for Wisenfold. The English strand of the Sembaran analogue in [[Languages]] suggests sounded w, long i in wise, voiced s, an unstressed en, and long o in fold, with first-syllable stress. A short-i WIZ-en-fohld reading is also possible; the proposal remains uncertain."}
 %%^End%%

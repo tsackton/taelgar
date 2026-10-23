@@ -83,11 +83,19 @@ class KingOrQueen ruler;
 
 ```
 
-```taelgar-index
-type: members
-mode: table
-show: obsidian
+%%^Campaign:none%%
+### Members
+
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Born", "Died"], 
+			dv.pages("#person")
+				.where(f => util.isOrWasAffiliated(dv.current().file.name, f.file))
+				.sort(b => b.born)
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<startStatus> <startDate>",b.file, dv.current().pageTargetDate), util.s("<endStatus> <endDate>",b.file, dv.current().pageTargetDate)]))
 ```
+%%^End%%
+
 %%^Metadata:names:v1%%
 - {"name": "House of Sewick", "language": "Sembaran", "pronunciation": "HOUSE of SEH-wik", "status": "proposed", "notes": "The Sewick component follows the existing proposed reading in [[Anne]], using the English strand of the Sembaran analogue in [[Languages]]: short e and i, sounded w, hard final k, and first-syllable stress. It is not an accepted pronunciation; inherited place-name readings could differ."}
 %%^End%%

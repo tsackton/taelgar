@@ -25,6 +25,7 @@ type: members
 mode: table
 show: obsidian
 ```
+
 %%^Date:1748%%
 In 1748, the Charmhearts encountered trouble on the road from [[Ausson's Crossing]] to [[Karawa]]. Descending the passes on March 19, 1748, the Charmheart caravan stopped to rest and recover after the hard journey, at a well-used campsite near the old Dunmari fortress called Raven's Hold. [[Ander Charmheart]], a young and sometimes foolish member of the clan, went exploring, and was caught in a wave of demonic energy from a demon summoning. With Ander driven mad, the Charmheart caravan was forced to deal with the situation in [[Karawa]].
 

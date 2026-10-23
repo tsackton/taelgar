@@ -8,8 +8,11 @@ whereabouts: Elemental Plane of Air
 knownTo: [grli]
 POV: modern
 ---
-```taelgar-header
-```
+# The Scouring Wind
+>[!info]+ Information  
+> A faction  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Scouring Wind is a group of air elementals, djinn, and others, associated with [[Azravan]]. They believe that humanity must be destroyed to pay for the sins of wizards who enslaved genies. 
 
