@@ -1,6 +1,3 @@
----
-tags: [meta, status/check/ai]
----
 # People Known To Review
 
 Choose a campaign, then work through a small table at a time. **Start with “Linked, missing knownTo”**: these people have incoming links from that campaign’s directory but lack its code in `knownTo`. Use the folder and name filters to narrow a batch; expand the source count to open the relevant campaign pages.

@@ -1,5 +1,4 @@
 ---
-tags: [status/check/ai]
 excludePublish: [all]
 ---
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [status/wip, creature, status/check/lint]
+tags: [status/wip, creature, status/check/lint, status/check/ai]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven, elvish]
 dm_owner: joint
@@ -9,6 +9,98 @@ dm_notes: none
 POV: modern
 ---
 # Elves
+
+*For character creation and mechanics, see [[Playing an Elf]].*
+
+>[!quote] Memories of the First, Elven Oral Tradition
+>*In the dark and the void we awoke, our eyes opened to the stars above, and there was color and light and life in the world for the first time. Behold! For we are the First.*
+
+Elves are an ancient people whose lives are entwined with magic, the living world, and their two gods, [[Aldanor]], the Living Tree, and [[Elmerca]], the Wild Star. In their forest homelands, they weave towers and palaces from living wood and magical energy, cultivate gardens of extraordinary beauty, and preserve songs and stories across centuries. Their long lives follow a shared cycle of generations, drawing them outward into the world and home again. Few settle among other species, and for many people an encounter with an elf is a rare and memorable event.
+
+## Appearance
+
+Elves are about the same height as humans, but are usually more slender and fine-featured, typically weighing between 100 and 150 pounds. They move with a preternatural grace, and often appear hauntingly beautiful to other peoples. Their skin tends toward copper and bronze, but encompasses the range of human complexions and more. Their hair can be green or gold, and their eyes sometimes resemble pools of liquid silver or gold. Elves have little body hair and no facial hair.
+
+Age leaves few obvious marks on an elf. Their coloration may fade slightly, but other species often find it difficult to distinguish a young adult from an elf who has lived for many centuries. Elves favor simple, well-tailored clothing, elegantly made and often beautiful in its details.
+
+## Language and Naming
+
+_See more: [[Playing an Elf#Elf Names|Elf Names]]_
+
+Elves speak Elvish, and their long lives give them time to learn the languages of other peoples. Those who travel beyond their homelands commonly learn the trade tongues and local languages of the places they visit.
+
+Elves typically use a single given name, adding their generation, homeland, or both when further distinction is needed. Names often have a lyrical sound; endings such as *-o*, *-ion*, *-or*, and *-on* are common in male names, while *-e*, *-iel*, *-ril*, and *-eth* are common in female names. Many names are used without regard to gender.
+
+## Lifecycle
+
+_See more: [[Elven Cycle of Generations]]_
+
+Elven lives are shaped by the *ka*, the numbered cycle of generations. Each new cycle begins with the *mela*, when Aldanor's roots strengthen the connection between elves and the [[Material Plane]]. Children are born during the limited fertile period associated with this return. New generations begin about every 160 years, and the bonds among those born into the same *ka* are central to elven identity. Elves often regard their generation-mates as siblings, regardless of whether they share parents.
+
+Elven childhood is a time of learning, play, and the gradual awakening of magic. Body parents nurture children in their earliest years, while soul parents guide their later upbringing among their generation-mates. Much of childhood is spent in the Dreaming, through which Elmerca's influence shapes their imagination and understanding of the world. The Rite of Awakening marks adulthood and the beginning of the *leya*, the phase associated with Elmerca and the urge to journey. Its timing can vary: some generations awaken gradually, while others are called abruptly from their dreams.
+
+Newly awakened elves are encouraged to explore. Some visit other elven lands, some journey into the [[Feywild]], and others wander among humans or seek wild places far from any settlement. The next *mela* draws them toward home and community. Those who accept Aldanor's connection can become parents; an elf's fertile years belong to this first adult return, rather than recurring throughout their life.
+
+Elves do not die of old age as humans do, and can live for many centuries or even millennia. Yet their attachment to Taelgar changes as they grow older. The pull of Aldanor's roots becomes fainter, earlier memories become more distant, and many turn toward contemplation or begin to let go of the world. Some eventually fade and depart; others remain, sustained by a purpose or attachment that still binds them to life.
+
+## Settlements and Homelands
+
+Elves usually make their homes in forests and other wild places, shaping their settlements through woodcraft and magic. Towers, halls, and gardens grow among the trees, and the surrounding land provides food without the broad clearings familiar around human towns. Many settlements are small and concealed by magic, so travelers may pass close by without realizing that anyone lives there. Even a great elven city can seem to emerge suddenly from an unbroken forest.
+
+[[Orenlas]], east of the [[Sentinel Range|Sentinels]], is one of the oldest surviving elven forests. Its dreaming trees still echo the song of Aldanor, and its largest settlement, [[Erelion]], is claimed to be the oldest continually occupied city on Taelgar. Beyond such ancient homelands, individual elves travel widely, though relatively few make permanent homes in the cities and towns of other peoples.
+
+## Cultural Traits
+
+### Gods and Magic
+
+Elves call Aldanor and Elmerca the Firstborn, and understand their own life and magic through their connection to the pair. Aldanor embodies life, growth, and endurance, anchoring elves to the material world. Elmerca is associated with insight, passion, change, and foresight. Their influence is felt in the rhythm of the generations, in dreams and ritual, and in the magic woven through elven homes.
+
+Magic is part of ordinary elven life. It sustains gardens and living buildings, aids crafts and artistic work, and allows communities to provide for their members. Elven settlements often have little need to trade for food or other necessities, although rare materials and unfamiliar creations can still draw their interest.
+
+### Generations and Community
+
+Responsibilities within elven society change with the generations. Nurturers care for children and the homeland; caretakers attend to relations with the wider world; elders help mediate disputes and maintain unity. The generations share and exchange these responsibilities as the cycle turns, and each community determines how they are fulfilled.
+
+Elven communities generally reach important decisions through deliberation and agreement. Those who speak for a community to outsiders may appear to be its rulers, but their authority rests on the responsibilities entrusted to them. A visitor seeking a single lord or queen may find that the person able to receive them cannot alone decide what the community will do.
+
+### Beauty, Craft, and Abundance
+
+Established elven communities use their magic to provide food, shelter, clothing, and the other necessities of life. Accumulating money for its own sake has little attraction in such a setting. Elves may treasure a painting, a song, a finely made tool, or an intricate garden, and admire the skill and imagination of its creator. A beautiful work can bring its maker recognition and opportunities to work with rare materials, even where ordinary necessities are freely available.
+
+This abundance does not make every material equally plentiful or every craft equally easy. Elves still exchange gifts, seek unusual ingredients, and value creations they could not make themselves. Those living or traveling among other peoples also buy and sell goods, using money to support their journeys and pursuits.
+
+### Elves and Other Peoples
+
+Elven traditions describe their people as the first to awaken in the world, and many elves see themselves as its caretakers. Their long perspective can bring patience, generosity, and a willingness to protect others, but also a tendency to dismiss the judgment of shorter-lived peoples. Some appear aloof or condescending; others devote themselves to friendships and responsibilities beyond their own communities.
+
+Elves often prefer to wait and watch rather than act hastily. When they believe the balance of the world is threatened, however, they can commit themselves fully to its defense. The choice between withdrawal and engagement has become especially important as successive wars have diminished their people.
+
+## Historical Perspective
+
+Elven memory reaches back to the earliest ages of Taelgar, when great forest realms spread across lands that now hold human kingdoms, ruined cities, and open plains. [[Alcarinque|Alcarinquë]] was one such ancient realm, and Orenlas preserves some of the forests and magic of those days.
+
+The history of the elves is marked by repeated cycles of defense, loss, and retreat. In the [[Great War]], many fought against [[Cha'mutte]], and the losses of that conflict and its aftermath still shape elven communities. Some survivors turned inward, seeking refuge in their homelands and greater mastery of magic and nature. Others concluded that elves could not protect Taelgar alone, and sought closer ties with other peoples.
+
+For elves, such events are remembered through the generations that experienced them. The 36th *ka* was awakened early, amid dreams warning of war; the following generation emerged from a longer Dreaming marked by healing and rest. Yet even elven memory is imperfect. As elders forget or depart, parts of the distant past survive in songs, stories, and works of art rather than in the clear recollection of anyone still living.
+
+%% Sources:
+- [[Playing an Elf]]
+- [[Elven Cycle of Generations]]
+- [[Aldanor]]
+- [[Elmerca]]
+- [[Orenlas]]
+- [[Alcarinque]]
+- [[GDrive - Elves - Final Text and Comments]]
+- [[Email - Some Thoughts on Elves]]
+- [[2023-10-30 - Elves]]
+- [[2023-11-03 - Elves]]
+- [[2023-11-05 - Elves]]
+- [[2021-06-01 - Delwath Crystal Lantern Memory]]
+- [[Visions of the Sentient Ocean]]
+%%
+
+%%^Campaign:none%%
+## Previous Text
 
 %% setting dm notes to none as status/cleanup/external communicates that only joint notes exist; did not attempt any cleanup yet%%
 
@@ -327,6 +419,7 @@ See [[Historical Framework]] for some details on the ages, needs reworking into 
 
 %%
 
+````markdown
 %%^Metadata:names:v1%%
 - {name: Elves, language: unknown}
 %%^End%%
@@ -359,4 +452,6 @@ Temporal coverage: broadly modern reference prose about elven appearance, cultur
 - [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Orenlas - DM Notes]]
 - [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 76 - DM Notes]]
 - [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 77 - DM Notes]]
+%%^End%%
+````
 %%^End%%

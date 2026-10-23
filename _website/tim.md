@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/check/ai]
+tags: [meta]
 title: Example subsite
 campaigns: [dufr, feywild, mawar]
 ---

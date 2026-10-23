@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T08:15:28-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/ai]
+tags: [meta]
 campaign: Dunmar Frontier
 name: Party Treasure - Former
 POV: 1749

@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "Sometimes considered one of the <secondary:1>"}
-tags: [place, status/check/ai]
+tags: [place]
 typeOf: plane
 name: Pandemonium
 whereabouts:
