@@ -26,7 +26,7 @@ POV: 1748
 - Small key that opens the chest in the secret room in the Empty Moon lair. Taken from the werewolf leader. No obvious value.
 - A rope [[Ladder]] with spikes to anchor it from the [[Pandemonium]] ruins (50’ long). 
 - A 15’ rope [[Ladder]], originally from lair of the [[Fraternity of the Empty Moon]]. Fought valiantly against many enemies, distinguishing themselves in combat against werewolves and others, until bravely dying in battle against [[Mezzar|Grimbaskal]] the green dragon to allow the rest of the party to escape in [[Session 51 (DuFr)]].
-- Seven iron spears carved with the incantation: “[[Mad One]], come to us, let [[Jinnik]]’s howl be heard.” From the [[Fraternity of the Empty Moon]]; destroyed. 
+- Seven iron spears carved with the incantation: “[[Jinnik|Mad One]], come to us, let [[Jinnik]]’s howl be heard.” From the [[Fraternity of the Empty Moon]]; destroyed. 
 - Elaborate pendant of platinum and gems from the werewolf leader. Probably worth 750-1800 gp. Sold for 800 gp.
 - Riding boots and cloak, set, from the chest in the werewolf lair’s secret room. Probably worth 10-60 gp as a set. Sold for 20 gp.
 - Dice set of six, made of ivory. From werewolf lair in [[Tokra]]. Worth 1-6 gp. Sold for 3 gp.

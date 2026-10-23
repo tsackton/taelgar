@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
-tags: [background, status/check/lint]
+tags: [background, status/check/lint, status/check/ai]
 name: Historical Framework
 excludePublish: [all]
 dm_owner: joint
@@ -66,7 +66,7 @@ Linear time began with an event, the [[Riving]], both instantaneous and eternal,
 - The [[Multiverse#The Creation of the Multiverse|multiverse was created]]
 - The [[Dragons]], [[Fey]], [[Elementals|Elemental]], and [[Giants]] were created. These four species were sometimes referred to as the Children of the Riving, but this concept has been retired. The exact mechanism of creation is not clear, but it is presumed to be some echo or reflection or evolution of the beings that existed before the Riving. 
 - The [[Embodied Gods]] were created, and they in turn created the [[Elves]], [[Dwarves]], [[Halflings]], [[Lizardfolk]], and [[Stoneborn]].  %%some old notes refer to these as Elder Folk, but this is not considered canonical and is not an in-world term; generally, it shouldn't be used %%
-- The [[Void Mind]] creates the [[Three Despairs]] as its avatars and agents in the [[Multiverse]]
+- The [[Void Mind]] creates its avatars and agents in the [[Multiverse]]
 
 %% It is not clear when the first cracks to the Far Realms appeared see [[Historical Framework - Open Questions#Far Realms]] for thoughts %%
 
@@ -74,7 +74,7 @@ Linear time began with an event, the [[Riving]], both instantaneous and eternal,
 ## Before Humans
 _1 - 1520 by the Dwarven Count of Years_
 
-The earliest years of history are dominated by the growth and learning of the first sentient races. This is a period of learning, peace and growth. To the extent the [[Three Despairs]] and the [[Void Mind]] are able to inject danger, it is small and isolated. 
+The earliest years of history are dominated by the growth and learning of the first sentient races. This is a period of learning, peace and growth. To the extent the [[Void Mind]] and its avatars are able to inject danger, it is small and isolated. 
 
 %% The below is meant to be one possible story. Outside of [[Alcarinque]], nothing is strictly canonical. See [[Historical Framework - Open Questions#Earliest Empires]] for some questions about the narrative below %%
 

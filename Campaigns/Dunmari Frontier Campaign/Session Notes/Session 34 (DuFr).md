@@ -1,5 +1,5 @@
 ---
-tags: [session-note]
+tags: [session-note, status/check/ai]
 campaign: Dunmari Frontier
 sessionNumber: 34
 realWorldDate: 2021-11-07
@@ -44,7 +44,7 @@ After dinner, they discuss the [[Tokra]] [[Archives]] with [[Johar]]; the clues 
 
 The next morning, after breakfast, the party meets [[Basu]] at his workshop and are led to the entrance to the [[Elven Arborea Workshop]] beneath the monastery, with three vials of prepared oil that must be placed near the leakage from [[Arborea]] to charge, before they can be used to construct magic items with extradimensional spaces. 
 
-Proceeding down the pitch black corridor, the party emerges in a room lit by the dim glow of bioluminescent fungi, with pillars decorated in Elvish script running down both sides of the cavern. What was once an entrance is blocked by a cave in at the far end. After dealing with some poisonous mold that launches a cloud of toxic spores, and an ooze that looks like wet stone, they read enough of the script on the pillars to learn one side of the room discusses [[Arborea]], of nature untamed and wild, and the other [[Pandemonium]], the plane of madness, said to be the home of the [[Mad One]], the embodied avatar of [[Jinnik]].
+Proceeding down the pitch black corridor, the party emerges in a room lit by the dim glow of bioluminescent fungi, with pillars decorated in Elvish script running down both sides of the cavern. What was once an entrance is blocked by a cave in at the far end. After dealing with some poisonous mold that launches a cloud of toxic spores, and an ooze that looks like wet stone, they read enough of the script on the pillars to learn one side of the room discusses [[Arborea]], of nature untamed and wild, and the other [[Pandemonium]], the plane of madness, said to be the home of [[Jinnik]]. 
 
 Continuing through the doors, the party comes to an open room with three passages, one straight ahead, one to the left, and one to the right. The right hand side of the chamber is filled with slightly pulsating red fungal-looking protrusions. As the party enters, the protrusions seem to be safe and friendly, until they attack [[Seeker]] and [[Wellby]], stealing memories from each of them. [[Wellby]] stays to fight while [[Kenzo]] and [[Delwath]], still under its charm, continue, prompting [[Seeker]] to try to use Suggestion on [[Wellby]] to get him to leave well enough alone. 
 

@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/mike, status/check/ai]
+tags: [meta, status/check/mike]
 name: "Player's Guide"
 dm_owner: joint
 dm_notes: none
@@ -101,7 +101,7 @@ Human religions are more varied. Human belief, through the Divine Spark, sustain
 - The small-gods traditions of the north, including [[Tanshi Worship]] among the [[Deno'qai]] and the [[Kestavo]] in parts of the Sembaran highlands and nearby northern lands. These traditions focus on local or minor spirits who carry prayers to the Divine.
 - The worship of [[Kaikkea]], the Great Ocean Mother of the Skaer, an ancient mariner faith centered on the sea as source, protector, and destroyer.
 
-There are darker powers as well: the [[Void Mind]], the [[Three Despairs]], [[Thark]], [[Jinnik]], and other forces associated with undeath, lycanthropy, endless war, madness, and the unmaking of creation. Most people know these powers through curses, monsters, old wars, and cautionary tales rather than formal worship.
+There are darker powers as well: the [[Void Mind]] and its avatars and creations, such as [[Thark]], [[Jinnik]], and [[Umidzka]], associated with undeath, lycanthropy, endless war, madness, and the unmaking of creation. Most people know these powers through curses, monsters, old wars, and cautionary tales rather than formal worship.
 
 %%^povNotes:v1%%
 Temporal coverage: a player-facing overview explicitly framed as educated-commoner knowledge in the DR 1740s.

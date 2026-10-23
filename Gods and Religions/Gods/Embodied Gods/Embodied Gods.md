@@ -17,7 +17,7 @@ The most well known of the Embodied Gods are the deities created by the [[Divine
 
 [[Thark]], the God of War Without End and the divine creator of the [[orcs]], is often counted among the Firstborn, though unlike the other Firstborn, he is an avatar of the [[Void Mind]], created under mysterious circumstances, by something, but not the [[Divine Presence]]. Thark is the divine force that, through his compulsion, drives orcs to violence for the sake of violence. 
 
-Less well understood among the Embodied Gods are the other avatars, echoes, and deities associated with the [[Void Mind]], created for inscrutable, destructive ends, and not known to be the creators of any identified species. Elven lore records rumors of these gods: [[Ghesyn]], the Goddess of the End, also known as the Hopeless One, the offspring of [[G'Zab]] and [[Jinnik]]; the [[Endless Chaos]], the offspring of [[Umidzka]] and [[Jinnik]]; and the [[Mad One]], the embodied avatar of [[Jinnik]].
+Less well understood among the Embodied Gods are the other avatars, echoes, and deities associated with the [[Void Mind]], created for inscrutable, destructive ends, and not known to be the creators of any identified species. Elven lore records rumors of these gods: [[Jinnik]], the Mad One, associated with lycanthropy and [[Pandemonium]]; and [[Umidzka]], associated with undeath. 
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern theological classification with mythic creation history; no narrower present-day state controls the article.

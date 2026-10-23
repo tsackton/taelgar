@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [background, status/check/lint]
+tags: [background, status/check/lint, status/check/ai]
 name: Metaphysics of Creatures
 excludePublish: [all]
 dm_owner: joint
@@ -65,7 +65,7 @@ Most common playable species of Taelgar are gifted soulstuff by a Deity. This ca
 
 [[Dwarves]], [[Elves]], [[Stoneborn]], [[Halflings]], and [[Lizardfolk]] are linked as the children of [[Embodied Gods]], often referred to as the firstborn of their species. These species, like humans, are gifted soulstuff upon birth which returns to the realms of their embodied creators beyond the [[Land of the Dead]] upon death. 
 
-[[Orcs]] are created by Thark, who is metaphysically similar to the firstborn, but is a creation of the Three Despairs / Void Mind. Orcs, like the other children of Embodied Gods, and humans, are gifted soulstuff by Thark, which returns to Thark upon death. 
+[[Orcs]] are created by Thark, who is metaphysically similar to the firstborn, but is a creation of the Void Mind. Orcs, like the other children of Embodied Gods, and humans, are gifted soulstuff by Thark, which returns to Thark upon death. 
 
 *Open Questions and Discussion*
 - The term "Elder Folk" was occasionally used to refer to the non-orc children of embodied gods, but we have decided this term is not great and it should not be used or considered canon. If there is an in-world term for these species, it has not been invented yet. 
