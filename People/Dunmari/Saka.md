@@ -10,6 +10,7 @@ campaignInfo:
 born: 1664
 gender: female
 name: Saka
+image: saka.png
 pronunciation: SAH-kah
 affiliations: [Order of the Awakened Soul]
 whereabouts:

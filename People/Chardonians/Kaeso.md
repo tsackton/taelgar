@@ -8,6 +8,7 @@ ancestry: Chardonian
 born: 1691
 gender: male
 name: Kaeso
+image: kaeso.png
 pronunciation: KAI-soh
 affiliations: [Shakun Mystai]
 whereabouts:

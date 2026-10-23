@@ -12,6 +12,7 @@ campaignInfo:
 born: 1715
 gender: male
 name: Candrosa
+image: candrosa-portrait.png
 affiliations:
   - {org: Shakun Mystai, title: Speaker, type: leader}
 whereabouts:

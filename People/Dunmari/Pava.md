@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
 species: human
 ancestry: Dunmari
+image: pava.png
 campaignInfo:
   - {campaign: dufr}
 born: 1673
