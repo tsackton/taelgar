@@ -20,16 +20,17 @@ POV: modern
 
 Fahnukan is the northernmost and most isolated of the [[Dwarven Kingdoms|five dwarven kingdoms]] of [[Sentinel Range|Labkhan]]. Isolated since before the [[Great War]], it has had little contact with the other dwarven kingdoms for many generations. Even other dwarves regard it as a strange place, whose people sculpt in ice and relish the cold.
 
-%% brainstorming - not canon
-isolated both before and after the war
-much less interested in human contact than others
-odd in some way
+%% 
+fairly well established:
+- isolated both before and after the war
+- much less interested in human contact than others
+- odd in some way
 
-Ideas:
-unusually strong allies of stoneborn?
-weird volcanic interests? 
-live mostly on the surface despite the cold and north? 
-have winter homes in the mountains, summer homes on the slopes?
+brainstorming ideas:
+- unusually strong allies of stoneborn?
+- weird volcanic interests? 
+- live mostly on the surface despite the cold and north? 
+- have winter homes in the mountains, summer homes on the slopes?
 %%
 
 %%^Metadata:names:v1%%
