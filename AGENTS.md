@@ -150,8 +150,10 @@ Verify the result in proportion to the change:
 
 ## 7. Specialized Workflows
 
+**Skill catalog:** Whenever a repository skill under `.agents/skills/` is added, removed, or materially changed, update the root [SKILLS.md](SKILLS.md) in the same change. Keep its descriptions, example use cases, links, skill count, and last-reviewed date consistent with the maintained skills.
+
 **Linter memory isolation:** Ordinary lint execution and calibration use the live skill, adopted specification, validator, governance files, and vault evidence—not Codex memories, rollout summaries, or prior-run guidance. Historical material is available only when the user explicitly requests history, rationale, maintenance, or regression analysis. Any task changing `linterVersion` must perform the lint skill’s read-only memory audit and surface required memory reconciliation before handoff.
 
 **Session artifacts:** Follow the applicable workflow and its source of truth. Do not normalize generated artifacts, line identifiers, speaker order, or structured data unless required.
 
-**Scripts and plugins:** Follow applicable engineering instructions for `_scripts`, `.scripts`, and `.obsidian/plugins`. Content-writing rules do not replace them; authorization, narrow scope, preservation of unrelated changes, and validation still apply.
+**Scripts and plugins:** Follow applicable engineering instructions for `_scripts`, `.scripts`, and `.obsidian/plugins`. Content-writing rules do not replace them; authorization, narrow scope, preservation of unrelated changes, and validation still apply. In general prefer taelgarverse-obsidian (in the taelgarverse-core) repo to direct check--in of plugins in the .obsidian folder.

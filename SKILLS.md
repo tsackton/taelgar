@@ -1,8 +1,8 @@
 # Taelgar Skills
 
-Last reviewed: **2026-10-20**
+Last reviewed: **2026-10-23**
 
-This guide covers the 22 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
+This guide covers the 23 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
 
 Describe the task in ordinary language, or name a skill explicitly with `$skill-name`. Include the relevant note, session, source, or folder and what you want done. The linked skill instructions define the actual workflow and approvals; this guide is a way to choose the right starting point.
 
@@ -39,6 +39,7 @@ These are normally called by the session pipeline, except for the optional trans
 | [batch-lint-cleanup](.agents/skills/batch-lint-cleanup/SKILL.md) | Presents name-only lint proposals and full original reports in an open review document, with language guesses for adoption, batch approval, and selective row regeneration. It does not re-lint. | “Prepare ten name-only lint reviews; let me approve the batch or redo selected rows.” |
 | [review-linked-notes](.agents/skills/review-linked-notes/SKILL.md) | Collects the context pages linked from selected notes or session recaps, presents the scope, and coordinates approved creation and linting. It reviews the surrounding pages rather than rewriting the source note. A named ready subset can proceed with approval while blocked pages remain pending. | “Review the people and places linked from this session.” |
 | [vault-brainstorming-cleanup](.agents/skills/vault-brainstorming-cleanup/SKILL.md) | Finds substantial noncanonical idea passages and proposes their extraction, organization, consolidation, or retirement in reviewed batches. It preserves uncertainty and does not adopt ideas as canon. | “Find overlapping brainstorming about this region and propose a cleanup.” |
+| [summarize-lore-changes](.agents/skills/summarize-lore-changes/SKILL.md) | Reviews vault history for meaningful lore and campaign-content changes, optionally by contributor. Quotes small changes, identifies substantial rewrites, and skips lint, metadata, and header maintenance unless it changes the lore. | “Summarize tsackton’s lore changes over the last four days.” |
 
 ## Design, illustrations, and assets
 
