@@ -81,9 +81,8 @@ After the [[Dunmar Fellowship]] acquired [[Hralgar's Eyes]] from [[Fausto]] and 
 - (DR:: 1748-10-19): Dee Wildcloak writes to the Dunmar Fellowship and Wellby from [[The Green Leaf]] Inn, Darba. 
 - (DR:: 1748-10-21): Dee Wildcloak boards a ship heading south across the Sea of Storms in Darba
 
-```dataview
-TABLE events.text as Event from -"_MoC" AND -"People/Halflings/Dee Wildcloak" flatten file.lists as events where contains(events.text, this.file.name) sort events.DR
-````
+%%  FIX -- deleted broken DataView query %%
+
 %%^End%%
 
 %% One Note

@@ -72,10 +72,7 @@ Common "fort" types: solider, blacksmith, sergeant
 - arrival of party
 - War of the Cloak
 %%
-
-```dataview
-TABLE events.text as Event from -"_MoC" AND -"_DM_" flatten file.lists as events where contains(events.text, this.file.name) sort events.DR
-```
+%%  FIX -- deleted broken DataView query %%
 
 %%^End%%
 
