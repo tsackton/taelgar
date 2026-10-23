@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: ""}
@@ -10,8 +11,10 @@ dm_owner: mike
 dm_notes: color
 POV: modern
 ---
-```taelgar-header
-```
+# Oracle of the Riven
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The royal electors of [[Tyrwingha]]. There are six of these royal electors:
 

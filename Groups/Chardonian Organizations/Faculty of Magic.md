@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<ancestry:UA> <typeof:UA> of <partof:UA>", partOf: ""}
@@ -11,8 +12,11 @@ dm_owner: tim
 dm_notes: none
 POV: 1748
 ---
-```taelgar-header
-```
+# The Faculty of Magic
+>[!info]+ Information  
+> A faculty of the [[University of Chardon]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Faculty of Magic is one of the five graduate faculties of the [[University of Chardon]]. Its masters train practitioners of the arcane arts, and their teachings shape much of Chardon’s reputation as a city of wizards and scholars.
 

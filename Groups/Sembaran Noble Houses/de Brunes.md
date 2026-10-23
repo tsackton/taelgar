@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/mike, status/check/lint]
@@ -8,16 +9,24 @@ dm_owner: joint
 dm_notes: none
 POV: 1720s
 ---
-```taelgar-header
-```
+# The De Brunes
+>[!info]+ Information  
+> A family  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The de Brunes are a wealthy mercantile family with roots in the [[Enst]] river valley, and a primary manor just outside [[Eskbridge]]. The family maintains outposts and connections along the Enst, including a longstanding presence in the [[Cleenseau Region]]. In recent years, de Brune business in the Cleenseau region has been shaped by [[Catherine de Brune]]’s investments and trade ties.
 
-```taelgar-index
-type: members
-mode: table
-show: obsidian
+%%^Campaign:none%%
+### Members
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Current Location"], 
+			dv.pages("#person")
+				.where(f => util.isAffiliated(dv.current().file.name, f.file))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
+%%^End%%
+
 %% 
 
 Unknown to outsiders, the de Brune family also had a secret: they were powerful supporters and members of a secret cult connected to the archfey [[Lord Serenveil]]. The details of this cult are unclear, as is their positioning with respect to the main Ethlenn / Umbraeth conflict. But likely / presumably, Serenveil is either allied with Ethlenn, or something of a neutral arbiter. He is powerful enough to be a warlock patron, but minor enough to not have a large feywild domain of his own. Exactly why the de Brunes have this feywild connection is TBD and flexible. 

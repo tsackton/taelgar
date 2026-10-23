@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -10,8 +11,10 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-```taelgar-header
-```
+# The Omnis Pura
+>[!info]+ Information  
+> A [[Drankorian Empire|Drankorian]] secret society  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 Omnis Pura is a Hkaran supremacist organization dedicated to the proposition that it is only the pure blooded descendants of the ancient Hkaran urban elite that are destined to control the world.
 

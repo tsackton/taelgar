@@ -11,8 +11,10 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-```taelgar-header
-```
+# The Dharajun Dynasty
+>[!info]+ Information  
+> A [[Dunmar|Dunmari]] dynasty  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %%^Campaign:none%%
 ### Historical Members

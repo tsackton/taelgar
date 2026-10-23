@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -12,8 +13,12 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-```taelgar-header
-```
+# The Perdoli Family
+*(pehr-DOH-lee)*
+>[!info]+ Information  
+> A [[Cymea|Cymean]] family  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Perdoli family were a wealthy Cymean merchant family, involved in the winemaking trade, based in [[Vistalba]], in [[Western Cymea]]. In DR 1479, they built [[Perdoli Manor]] as a country villa in the hills. After the [[Great War]], the family declined, lost much of its wealth, and eventually sold the villa.
 

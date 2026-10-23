@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the, boxInfo: "One of the <partOf:1UA>", wHome: ""}
@@ -10,8 +11,9 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-```taelgar-header
-```
+# The Shu'anra
+>[!info]+ Information  
+> One of the [[Northern Tribes|Northern Tribes of the Deno'qai]]
 
 The Shu'anra are one of the [[Northern Tribes|northern]] [[Deno'qai]] tribes. Like other northern Deno'qai tribes, the Shu'anra are descended from the survivors of the [[Great War]]. They survived the [[Conclave War]] and the [[Blood Years]] in hiding, before emerging from the marginal lands in the low passes of the mountains, and now largely live in the forests east of the [[Blackwater Fens]] and west of the [[Sentinel Range|Sentinels]]. 
 

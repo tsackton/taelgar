@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -10,8 +11,10 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-```taelgar-header
-```
+# The Dyer's Guild
+>[!info]+ Information  
+> A [[Tollen|Free City of Tollen]] guild  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 A powerful trade guild in [[Tollen]], known for the famous "[[Tollen Dyes|Tollen Red]]", a brilliant vermillion color.
 

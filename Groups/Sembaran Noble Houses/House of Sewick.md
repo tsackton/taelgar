@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {partOf: "", boxInfo: "<ancestry:UA> <subtypeof:UA>"}
@@ -14,8 +15,11 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-```taelgar-header
-```
+# The House of Sewick
+>[!info]+ Information
+> A [[Sembara|Sembaran]] noble house
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The founding royal house of modern [[Sembara]], the House of Sewick ruled between the 1420s and the 1720s. A cadet branch, the [[House of Lils]] rules today.
 

@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/gameupdate/gl, status/check/lint]
@@ -8,8 +9,10 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-```taelgar-header
-```
+# The Umbral Covenant
+>[!info]+ Information  
+> An army  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The Umbral Covenant is the name used in Chardonian and Apporian records for the shadow host that rose in the interior of [[Apporia]] during the [[War of the Dark Rift]]. Over thirteen years of war (DR 1584–1597), the Covenant conquered much of northern Apporia, disrupted the [[Old Chardon Canal]] trade, and brought ruin to cities along the [[Gulf of Chardon]].
 

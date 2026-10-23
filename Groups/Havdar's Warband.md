@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -18,8 +19,11 @@ dm_owner: tim
 dm_notes: none
 POV: 1750
 ---
-```taelgar-header
-```
+# Havdar's Warband
+>[!info]+ Information  
+> A [[Dunmar|Dunmari]] warband  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% metadata still needs a little cleanup w/r/t Siblings War, etc %%
 
@@ -33,10 +37,15 @@ Havdar’s Warband is the informal name for the group of about 30-40 Dunmari sol
 - [[Camana]] (deceased), a warrior and scout associated with Havdar’s riders
 
 
-```taelgar-index
-type: members
-mode: table
-show: obsidian
+%%^Campaign:none%%
+### Members
+
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Current Location"], 
+			dv.pages("#person")
+				.where(f => util.isAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
 
 ## DM Notes

@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -10,8 +11,10 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-```taelgar-header
-```
+# The Solatine Order
+>[!info]+ Information  
+> An itinerant order  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The Solatine Order is a largely-defunct itinerant religious order devoted to [[The Wyrdling]], formerly based out of the [[Solas Abbey]], a partially ruined monastery in the [[Chasa River Valley]].
 

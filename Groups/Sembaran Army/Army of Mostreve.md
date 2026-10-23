@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/ai]
@@ -8,8 +9,11 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-```taelgar-header
-```
+# The Army of Mostreve
+>[!info]+ Information  
+> An army  
+> `$=dv.view("_scripts/view/get_Affiliations")`
+
 
 The Army of Mostreve is the name used by many in Sembara for the three Guard Companies of Tyrwingha:
 

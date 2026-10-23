@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -9,8 +10,10 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-```taelgar-header
-```
+# Chainshroud
+>[!info]+ Information  
+> A Hkaran cult  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 A mysterious group from the early days of human history on [[Hkar]], who preached slavery and dominion, and were eventually defeated and their god [[Sarqon]] imprisoned.
 

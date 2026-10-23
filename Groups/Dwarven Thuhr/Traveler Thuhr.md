@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group]
@@ -10,8 +11,11 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-```taelgar-header
-```
+# The Traveler Thuhr
+*(TRAV-uh-ler THUR)*
+>[!info]+ Information  
+> A [[Dwarves|dwarven]] thuhr  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The Traveler Thuhr is one of the seven traditional [[Dwarves|dwarven]] *thuhr*: institutions of kinship and obligation that bind dwarven society together across clan and kingdom. In dwarven tradition, it is associated with [[Maganna]], the Traveler among the [[Bahrazel|Bahrâzel]], and with those who wander, whether seeking new tunnels and ore deep underground or venturing into the wider outside world.
 
