@@ -12,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Sibyl's Hall
->[!info]+ Information  
-> A lectum of the [[University of Chardon]]\
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Sibyl's Hall is a lectum, one of the undergraduate organizations that make up the [[University of Chardon]]. It is one of the oldest lecti of the University, founded in DR 981. Historically, Sibyl's Hall was among the most powerful and well-funded lecti, supported by a variety of religious patrons in the name of [[The Sibyl]]. Since the [[Great War]], Sibyl's Hall has seen its fortunes decline, and it is now heavily dependent on undergraduate tuition for support.
 
