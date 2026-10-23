@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/mike, status/check/lint]
@@ -8,8 +9,10 @@ dm_owner: mike
 dm_notes: important
 POV: modern
 ---
-```taelgar-header
-```
+# The Order of the Charitable Wanderer
+>[!info]+ Information  
+> A religious order  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% dm notes (mike): numerous notes in my DM folder and various campaign emails; plus Robin (Dan's character) has some backstory here %%
 

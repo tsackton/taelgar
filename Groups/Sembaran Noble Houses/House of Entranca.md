@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -10,8 +11,10 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-```taelgar-header
-```
+# The House of Entranca
+>[!info]+ Information  
+> A [[Sembara|Sembaran]] noble family  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 An ancient noble house in Sembara. Historically they claimed to trace their ancestry to [[Willibard the Dragonslayer]], a possibly mythical Sembaran knight, who was said to have slain Azaroth the Accursed, an acid-spitting dragon, said to have terrorized the [[Aine Hills]] after the [[Fall of Drankor]]. Chiefly known as the noble house of the first monarchs of Sembara, and obscure and of little importance since the [[Great War]].
 

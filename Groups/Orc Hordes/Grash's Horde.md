@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", endStatus: destroyed in battle on, boxInfo: ""}
@@ -11,8 +12,10 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-```taelgar-header
-```
+# Grash's Horde
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The [[Orcs|orc]] horde commanded by [[Grash]], based out of [[Kharsan]]. This horde formed in the summer of DR 1747, as [[Grash]] began gathering the various scattered minor groups of [[Orcs|orcs]] that had been scratching out a living in the marginal lands of the [[Nashtkar]]. 
 

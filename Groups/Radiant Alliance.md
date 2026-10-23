@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -9,8 +10,10 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-```taelgar-header
-```
+# The Radiant Alliance
+>[!info]+ Information  
+> A [[Sembara|Sembaran]] army  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The Radiant Alliance was the royal field army assembled by [[Cece I]] in DR 1648 during the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]]. Formed by combining the Armies of the South and Mostreve and raising a special levy across the realm, the Alliance broke the hobgoblin advance and began the reconquest of southern Sembara.
 

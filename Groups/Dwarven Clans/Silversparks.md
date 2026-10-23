@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group]
@@ -9,8 +10,10 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-```taelgar-header
-```
+# The Silverspark Clan
+>[!info]+ Information  
+> A [[Dwarves|dwarven]] clan  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The Silversparks are a historically minor dwarven clan from [[Nardith]]. The most prominent member of the clan, [[Nora Silverspark]], was a decorated warrior, but vanished in DR 1575 with the rest of the dwarves who had traveled north to aid refugees still trapped in [[Ardith]] after the [[Great War]]. Subsequent to her disappearance, the clan fell into obscurity. 
 

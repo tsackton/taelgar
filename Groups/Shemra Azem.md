@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/gameupdate/gl, status/check/lint]
@@ -9,8 +10,11 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-```taelgar-header
-```
+# The Shemra Azem
+>[!info]+ Information  
+> An organization  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Shemra Azem, also known as the sleepless, are a mysterious group, spoken of in rumors and legends as the ever‑vigilant army associated with legends of [[Yeshara]], the wolf queen. 
 

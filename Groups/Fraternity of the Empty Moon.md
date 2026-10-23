@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -10,8 +11,10 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-```taelgar-header
-```
+# The Fraternity of the Empty Moon
+>[!info]+ Information  
+> A werewolf cult  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The Fraternity of the Empty Moon is a cult of werewolves, dedicated to the mission of enhancing the power of the [[Mad One]] in Taelgar by creating and enhancing connections with the plane of [[Pandemonium]].
 

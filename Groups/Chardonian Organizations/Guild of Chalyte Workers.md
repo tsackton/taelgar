@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -12,8 +13,12 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-```taelgar-header
-```
+# The Guild of Chalyte Workers
+>[!info]+ Information  
+> A [[Chardonian Empire|Chardonian]] guild  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Guild of Chalyte Workers is a formal association representing workers in [[Chardon]]'s [[chalyte]] refining trade, emerging out of the [[Chardonian Chalyte Trade Reforms|chalyte reforms]] caused by the [[Session 116 (DuFr)|defeat of Fausto]], the [[Eightfold Flame]] riots, and the [[Session 128 (DuFr)|opening of the chalyte trade]] in the [[Chataan Mountains]]. 
 

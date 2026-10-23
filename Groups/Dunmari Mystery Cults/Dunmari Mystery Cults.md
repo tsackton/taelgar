@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [religion/fivesiblings, background, status/check/lint]
@@ -7,8 +8,7 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-```taelgar-header
-```
+# The Dunmari Mystery Cults
 
 %% have some misc color notes in OneNote, but nothing significant %%
 

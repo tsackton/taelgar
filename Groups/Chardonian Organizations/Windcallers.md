@@ -11,8 +11,10 @@ dm_owner: tim
 dm_notes: none
 POV: 1749
 ---
-```taelgar-header
-```
+# The Windcallers
+>[!info]+ Information  
+> A [[Chardonian Empire|Chardonian]] secret society  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The Windcallers are chalyte‑empowered navigators in service to the [[Chardonian Empire]]. They pilot ships through the narrow, windless reaches of the [[Old Chardon Canal]] and are widely credited with making Chardon’s navy the most feared on the [[Endless Ocean]].
 

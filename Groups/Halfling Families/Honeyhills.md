@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the, partOf: ""}
@@ -11,8 +12,10 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-```taelgar-header
-```
+# Honeyhills
+>[!info]+ Information
+> A [[Halflings|halfling]] family
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 A family of halfling traders and sailors based in the Nevos Sea, the Gulf of Chardon, and areas north. 
 
@@ -20,11 +23,18 @@ A family of halfling traders and sailors based in the Nevos Sea, the Gulf of Cha
 The Honeyhills' two major trading ships, the Twilight Breeze and the Starlight Bough, which plied the coasts from [[Darba]] to [[Suhaya]], were lost in a tragic storm north of [[Chardon]] in the winter of DR 1743, with few survivors. Many of the Honeyhills who escaped tragedy were subsequently taken in by other halfling ships. 
 %%^End%%
 
-```taelgar-index
-type: members
-mode: table
-show: obsidian
+%%^Campaign:none%%
+### Members
+
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Current Location"], 
+			dv.pages("#person")
+				.where(f => util.isAffiliated(dv.current().file.name, f.file))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
+%%^End%%
+
 %%^Metadata:names:v1%%
 - {"name": "Honeyhills", "language": "unknown"}
 %%^End%%

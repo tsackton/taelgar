@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: "destroyed by the [[Dunmar|Dunmari]]", dPast: "<endStatus:U> in <enddate>"}
@@ -12,8 +13,11 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-```taelgar-header
-```
+# The Blackened Claw Clan
+>[!info]+ Information  
+> A [[Hobgoblins|hobgoblin]] clan  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% copy notes from OneNote from Raven's Hold adventure %%
 

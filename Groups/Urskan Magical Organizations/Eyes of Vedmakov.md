@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -11,8 +12,11 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-```taelgar-header
-```
+# The Eyes of Vedmakov
+>[!info]+ Information  
+> An [[Ursk|Urskan]] magical bloodline  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+> Parent Organization: the [[Rodnya|Rodnye]]
 
 The Eyes of Vedmakov, known colloquially as the Watchers or the Okolov, are the secret magical guard of [[Ursk]]. 
 

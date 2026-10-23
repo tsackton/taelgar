@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [background, status/gameupdate/gl, status/check/lint]
@@ -7,8 +8,7 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-```taelgar-header
-```
+# Chalyte Oligarchs of Chardon
 
 Four major families control the entire [[Politics of Chalyte (Chardonian Empire)|Chardonian chalyte trade]]: the [[Auratan Family]], the [[Patelios Family]], the [[Caloren Family]], and the [[Veldari Family]]. These families operate as vertically integrated, closely held trading companies, with each family owning their own mines, transport, and refineries.  
 

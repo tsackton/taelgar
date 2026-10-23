@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group]
@@ -7,8 +8,11 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-```taelgar-header
-```
+# The Concordia Pyrae
+>[!info]+ Information  
+> A group  
+> `$=dv.view("_scripts/view/get_Affiliations")`
+
 
 The Concordia Pyrae was an ancient scholarly society of the [[Drankorian Empire|Drankorian Empire]], devoted to the study of fire: pyromancy, planar lore, and the secrets of the [[Elemental Plane of Fire]]. Their best‑known work is the *[[Compendium of Fire]]*, a fireproof encyclopedia compiled from the society’s research.
 
