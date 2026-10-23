@@ -1,7 +1,8 @@
 ---
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/ai]
+tags: [meta]
+excludePublish: ["all"]
 name: PC Index
 dm_owner: none
 dm_notes: none
