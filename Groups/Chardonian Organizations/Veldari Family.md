@@ -14,12 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# The Veldari Family
-*(vel-DAR-ee)*
->[!info]+ Information
-> A chalyte oligarch family
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% Written from a DR 1748 point of view, before the [[Chardonian Chalyte Trade Reforms]] %%
 

@@ -13,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# The Baz'aku
-*(bahz-ah-KOO)*
->[!info]+ Information  
-> One of the [[Elderwood Tribes|Elderwood Tribes of the Deno'qai]]
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
  %% Written from DR 1749 point of view %%
 

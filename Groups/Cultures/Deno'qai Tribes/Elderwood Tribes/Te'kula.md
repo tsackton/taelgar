@@ -12,10 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1749
 ---
-# The Te'kula
->[!info]+ Information  
-> One of the [[Elderwood Tribes|Elderwood Tribes of the Deno'qai]]\
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Te'kula are a [[Deno'qai]] tribe of the [[Elderwood]]. For many years, they lived hidden in a forest demi-plane, protected from [[Mezzar|Grimbaskal]] by the tanshi [[Aasimti]] and a [[Jade Piece of Rai's Hand]]. Since the [[Session 52 (DuFr)|defeat of Grimbaskal]] by the [[Dunmar Fellowship]], the Te'kula have emerged from hiding and taken a leading role in restoring the forest ecosystem and the [[Elderwood Tribes]] that suffered at [[Mezzar|Grimbaskal]]'s hand.
  

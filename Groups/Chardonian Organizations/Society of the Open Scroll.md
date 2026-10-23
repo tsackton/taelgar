@@ -10,9 +10,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# The Society of the Open Scroll
->[!info]+ Information
-> A [[Chardonian Empire|Chardonian]] scholarly society
+```taelgar-header
+```
 
 A scholarly society founded in the aftermath of the [[Great War]], to preserve and protect knowledge against future disaster, and to learn the secrets of the past to better protect [[Chardon]] and the world from existential magical threats.
 
@@ -26,17 +25,11 @@ Generally speaking in favor of preserving knowledge, against chalyte magic, and 
 
 %%SECRET[v2:c7885752c7e2df12a31ae1df3eae9e69]%%
 
-%%^Campaign:None%%
-### Members
-
-```dataviewjs
-const { util } = customJS
-dv.table(["Person", "Info", "Current Location"], 
-			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file))
-				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
+```taelgar-index
+type: members
+mode: table
+show: obsidian
 ```
-%%^End%%
 
 %%^Metadata:names:v1%%
 - {name: Society of the Open Scroll, language: unknown}
