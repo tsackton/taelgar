@@ -79,6 +79,29 @@ Player-facing brainstorming for a brief introduction to the Green Sea, with the 
 Irrla's climate and biome description is a proposed application of the physical circulation model, rather than a summary of the older climate description in the Irrla note.
 %%
 
+## Names
+
+### Passage Islands
+
+**Passage Islands** is the Common name for the archipelago off Cymea: one large offshore island, with a mix of large and small islands between it and the mainland. The name comes from the sailing passage between the mainland and the large island, giving the whole group a practical geographic name with a little maritime atmosphere.
+
+The islands' people, settlements, and cultures are intentionally left open to develop together with the players; they need not be an extension of mainland Cymea.
+
+### Largest Island — Cymean Name Options
+
+The largest island needs a Cymean exonym; its local name can wait. These ten options remain unchosen, and the reasons describe sounds and possible associations rather than established translations.
+
+1. **Alveira** (al-VAY-rah) — a softer Portuguese sound, geographically neutral.
+2. **Talvera** (tal-VEH-rah) — a sturdy Spanish sound, substantial and easy to say.
+3. **Cadrava** (kah-DRAH-vah) — harder consonants give it an old-chart, weathered feel.
+4. **Montara** (mon-TAH-rah) — suggests high land, if the island is named from its skyline.
+5. **Seravela** (seh-rah-VEH-lah) — a flowing maritime sound, with an echo of *vela* for a possible sailing association.
+6. **Vardessa** (var-DESS-ah) — slightly Italian in sound, with enough weight for a major island.
+7. **Orvessa** (or-VESS-ah) — compact and distinctive, with little implied meaning to constrain later invention.
+8. **Caldria** (KAL-dree-ah) — a clipped, older sound that could survive language changes on charts.
+9. **Ravona** (rah-VOH-nah) — rounded, simple, and easy to use at the table.
+10. **Valdora** (val-DOR-ah) — suggests valleys and a gentler, more pastoral mood, if that direction appeals.
+
 ## Links to Gather Around
 
 ### The Sea and Its Shores
