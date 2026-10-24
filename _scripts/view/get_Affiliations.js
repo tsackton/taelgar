@@ -1,1 +1,0 @@
-return customJS.OutputHandler.outputAffiliations(dv.current().file.name, dv.current())

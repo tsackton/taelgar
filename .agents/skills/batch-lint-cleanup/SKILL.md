@@ -15,10 +15,10 @@ User-adopted workflow exceptions:
 
 - Guess unknown languages in proposals, explicitly labeled for human adoption. This overrides the ordinary no-guessing rule only during proposal preparation; no guess is saved before acceptance.
 - After showing every complete original Lint block, explicit batch acceptance authorizes deletion of approved, fully resolved name-only reports and `status/check/lint`, without a separate disposition question or re-lint.
-- Add no `status/check/ai` for this cleanup or header regeneration. Preserve existing AI and other status tags except approved lint removal and requested reviewer additions.
+- Add no `status/check/ai` for this cleanup. Preserve existing AI and other status tags except approved lint removal and requested reviewer additions.
 - Commit an approved subset together instead of one note at a time.
 
-Live-note changes are limited to: adding accepted frontmatter pronunciation where absent; approved names-block edits; eligible report/lint-tag removal; explicitly requested Mike/Tim review tags and context comments; and helper-generated headers. Preserve established naming context and unrelated entries. Never change frontmatter `name`, `aliases`, existing pronunciation, `lintedAt`, `lintVersion`, or `headerVersion`; rename/move files; edit article prose; normalize unrelated formatting; repair unrelated links; or remove other status tags. Required out-of-scope changes need separate authorization. Setting up this skill or preparing a review does not approve note changes.
+Live-note changes are limited to: adding accepted frontmatter pronunciation where absent; approved names-block edits; eligible report/lint-tag removal; explicitly requested Mike/Tim review tags and context comments. Preserve established naming context and unrelated entries. Never change frontmatter `name`, `aliases`, existing pronunciation, `lintedAt`, or `lintVersion`; rename/move files; edit article prose; normalize unrelated formatting; repair unrelated links; or remove other status tags. Required out-of-scope changes need separate authorization. Setting up this skill or preparing a review does not approve note changes.
 
 ## Start and select
 
@@ -58,7 +58,7 @@ Create a unique Markdown file under `Worldbuilding/Agentic Review/Name Cleanup/`
 
 Include:
 
-1. Batch identity/revision and this prominent approval legend: **Accepting a row adopts the displayed naming decisions, deletes its appended Lint block and lint tag by default, adds no reviewer tags unless requested, regenerates the header, and includes it in a local batch commit. No re-lint is run.** Explain `preserve` and `redo` here.
+1. Batch identity/revision and this prominent approval legend: **Accepting a row adopts the displayed naming decisions, deletes its appended Lint block and lint tag by default, adds no reviewer tags unless requested, preserves the native header block, and includes it in a local batch commit. No re-lint is run.** Explain `preserve` and `redo` here.
 2. A numbered table with state, clickable note link, identifying context (recorded species/ancestry for people), language, pronunciation, and concise basis/uncertainty. Display nondefault reviewer/report dispositions. Detail multiple name forms beneath the table when necessary; never hide extra decisions.
 3. Only necessary row-specific details, including explicit proposed changes to existing contextual notes. No names-block dumps unless requested for specific rows.
 4. **Every full original Lint block**, under a heading matching its row number and linked note. Copy verbatim from `%%^Lint%%` through its matching `%%^End%%`, including all assessments, applied changes, findings, continuations, and source sections. Use Markdown fences longer than any fence within the report. Never summarize, truncate, or substitute a link.
@@ -100,15 +100,13 @@ Apply only when every original finding has an accepted resolution. Default delet
 %% @check/tim : Please confirm name and pronunciation. %%
 ```
 
-Create a temporary candidate in a dot directory inside the vault, retaining the intended filename. Regenerate using:
+Create a temporary candidate in a dot directory inside the vault, retaining the
+intended filename and its empty `taelgar-header` fence. Apply approved name
+metadata there. The plugin renders accepted pronunciation and other metadata
+directly; do not write a separate title or information callout. A missing or
+unfamiliar header block needs separately authorized structural work.
 
-```sh
-python -X utf8 .agents/skills/review-stub-staging/scripts/regenerate_header.py "PATH/TO/CANDIDATE.md"
-```
-
-The default prints the complete candidate; use that output. Preserve `headerVersion`, including absence. Use existing `pageTargetDate`, otherwise the helper's Calendarium date/fallback; add no date metadata and never substitute real-world/session dates. Inspect title, pronunciation, callout, dynamic views, and campaign interactions. Routine refresh is approved with the row; show material unexpected changes for approval. Hold a row on helper failure or ambiguous boundaries rather than saving without regeneration. Add no AI tag.
-
-Read each changed note completely. Parse its single top frontmatter and names-block YAML without linting. Check approved values, primary pronunciation synchronization, one correct names block, report disposition, allowed tags/comments, unchanged lint completion/version metadata, and header equality to helper output. Compare full before/after changes to prove preservation outside scope. Run scoped `git diff --check`; preserve intentional hard breaks and ignore unrelated findings.
+Read each changed note completely. Parse its single top frontmatter and names-block YAML without linting. Check approved values, primary pronunciation synchronization, one correct names block, report disposition, allowed tags/comments, unchanged lint completion/version metadata, and an unchanged native header fence. Compare full before/after changes to prove preservation outside scope. Run scoped `git diff --check`; preserve intentional hard breaks and ignore unrelated findings.
 
 ## Commit and hand off
 

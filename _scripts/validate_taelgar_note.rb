@@ -35,7 +35,7 @@ module TaelgarNoteLint
   POV_REVIEW_VERSION = "3.4"
 
   FRONTMATTER_HEAD_FIELDS = %w[
-    headerVersion lintedAt lintVersion displayDefaults
+    lintedAt lintVersion displayDefaults
   ].freeze
 
   FRONTMATTER_CLASSIFICATION_FIELDS = %w[
@@ -100,12 +100,31 @@ module TaelgarNoteLint
     masked.gsub(/(`+)[^\r\n]*?\1/) { |span| span.gsub(/[^\r\n]/, " ") }
   end
 
+  # Locate the actual leading native block, allowing standalone editorial
+  # comments before it so misplaced comments can still be reported. A later H1
+  # or a fence inside an authored example is never the generated header.
+  def native_header_span(body)
+    prefix = body.match(/\A(?:[ \t]*\r?\n|[ \t]*%%(?!\^).*?%%[ \t]*(?:\r?\n|\z))*/m)
+    start = prefix.end(0)
+    title = /\G(?: {0,3}#(?:[ \t]+[^\r\n]*)?\r?\n| {0,3}(?![\s#>`~]|[-+*][ \t]|\d+[.)][ \t])\S[^\r\n]*\r?\n {0,3}=+[ \t]*\r?\n)(?:[ \t]*\r?\n)*/.match(body, start)
+    opening = /\G {0,3}(`{3,}|~{3,})taelgar-header[ \t]*\r?\n/.match(body, title ? title.end(0) : start)
+    return nil unless opening
+
+    fence = opening[1]
+    closing = /^ {0,3}#{Regexp.escape(fence[0])}{#{fence.length},}[ \t]*(?:\r?\n|\z)/.match(body, opening.end(0))
+    closing ? [start, closing.end(0)] : nil
+  end
+
   # This is deliberately only the deterministic half of lint eligibility. It
   # removes forms that can never supply authored subject-matter content. Any
   # surviving text still requires contextual judgment that it communicates a
   # substantive assertion rather than a label, placeholder, or reminder.
   def authored_body_candidate_text(note)
-    text = LINT_OWNED_BODY_PATTERNS.reduce(note.body.dup) do |body, pattern|
+    body = note.body.dup
+    if (span = native_header_span(body))
+      body = body[0...span[0]] + body[span[1]..-1].to_s
+    end
+    text = LINT_OWNED_BODY_PATTERNS.reduce(body) do |body, pattern|
       body.gsub(pattern, "")
     end
     text = text.gsub(/!\[\[[^\]\n]+\]\]/, " ")
@@ -1769,9 +1788,11 @@ module TaelgarNoteLint
     end
 
     def validate_meta_comment_positions(note, findings)
+      span = TaelgarNoteLint.native_header_span(note.body)
+      return unless span
+
       body = TaelgarNoteLint.mask_markdown_code(note.body)
-      header_end = header_block_end(body)
-      return unless header_end
+      header_end = span[1]
 
       prefix = body[0...header_end]
         .gsub(METADATA_BLOCK_PATTERN, "")
@@ -1781,24 +1802,9 @@ module TaelgarNoteLint
       prefix.to_enum(:scan, /%%(?!\^)(.*?)%%/m).each do
         match = Regexp.last_match
         add(findings, "comment.before_header", "suggestion", "recommended",
-            "Comments belong below the title and its immediately following information/header callout.",
+            "Comments belong below the complete taelgar-header block.",
             line: note.body_start_line + body[0...match.begin(0)].count("\n"), provisional: true)
       end
-    end
-
-    def header_block_end(body)
-      title = body.match(/^#\s+.*(?:\n|\z)/)
-      return nil unless title
-
-      offset = title.end(0)
-      lines = body[offset..-1].to_s.lines
-      index = 0
-      index += 1 while index < lines.length && lines[index].strip.empty?
-      if index < lines.length && lines[index].lstrip.start_with?(">")
-        index += 1 while index < lines.length && lines[index].lstrip.start_with?(">")
-        index += 1 while index < lines.length && lines[index].strip.empty?
-      end
-      offset + lines[0...index].join.length
     end
 
     def validate_editorial_mechanics(note, findings)

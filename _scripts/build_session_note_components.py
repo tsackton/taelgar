@@ -416,7 +416,6 @@ def ensure_base_note(*, note_path: Path, session_key: str, template_name: str) -
     if note_path.exists():
         frontmatter, body = split_frontmatter(note_path.read_text(encoding="utf-8"))
         frontmatter = dict(frontmatter)
-        frontmatter["headerVersion"] = frontmatter.get("headerVersion") or "2023.11.25"
         frontmatter["tags"] = normalize_tags(frontmatter.get("tags"))
         frontmatter["sessionKey"] = session_key
         if not str(frontmatter.get(SESSION_TEMPLATE_FIELD) or "").strip():
@@ -428,7 +427,6 @@ def ensure_base_note(*, note_path: Path, session_key: str, template_name: str) -
         status = "Updated"
     else:
         frontmatter = {
-            "headerVersion": "2023.11.25",
             "tags": [SESSION_NOTE_TAG],
             "sessionKey": session_key,
             SESSION_TEMPLATE_FIELD: template_name,

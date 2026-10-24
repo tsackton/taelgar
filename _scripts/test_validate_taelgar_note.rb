@@ -92,19 +92,19 @@ class ValidateTaelgarNoteTest < Minitest::Test
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
     building = validator.validate_text(
       "Gazetteer/Tower.md",
-      "---\nheaderVersion: 1\ntags: [place]\nname: Tower\ntypeOf: building\naudience: [all]\n---\n# Tower\n"
+      "---\ntags: [place]\nname: Tower\ntypeOf: building\naudience: [all]\n---\n# Tower\n"
     )
     battlefield = validator.validate_text(
       "Gazetteer/Battlefield.md",
-      "---\nheaderVersion: 1\ntags: [place]\nname: Battlefield\ntypeOf: battlefield\naudience: [all]\n---\n# Battlefield\n"
+      "---\ntags: [place]\nname: Battlefield\ntypeOf: battlefield\naudience: [all]\n---\n# Battlefield\n"
     )
     legacy_alias = validator.validate_text(
       "Gazetteer/Tower.md",
-      "---\nheaderVersion: 1\ntags: [place]\nname: Tower\ntypeOf: buliding\naudience: [all]\n---\n# Tower\n"
+      "---\ntags: [place]\nname: Tower\ntypeOf: buliding\naudience: [all]\n---\n# Tower\n"
     )
     unknown = validator.validate_text(
       "Gazetteer/Sky Island.md",
-      "---\nheaderVersion: 1\ntags: [place]\nname: Sky Island\ntypeOf: sky island\naudience: [all]\n---\n# Sky Island\n"
+      "---\ntags: [place]\nname: Sky Island\ntypeOf: sky island\naudience: [all]\n---\n# Sky Island\n"
     )
 
     refute_includes rule_ids(building), "classification.place_type_unknown"
@@ -436,7 +436,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
   def test_fix_frontmatter_leaves_an_objectively_ineligible_note_unchanged
     root = make_vault
     path = "Meta/Heading Only.md"
-    original = "---\ntags:\n  - meta\nheaderVersion: 1\n---\n# Heading Only\n"
+    original = "---\ntags:\n  - meta\n---\n# Heading Only\n"
     write_note(root, path, original)
 
     stdout, _stderr = capture_io do
@@ -1031,7 +1031,6 @@ class ValidateTaelgarNoteTest < Minitest::Test
         displayDefaults:
           endStatus: absent
         lintVersion: 2.1
-        headerVersion: 2023.11.25
         lintedAt: 2026-08-19T09:00:00-04:00
         customField: keep-me
         name: Test
@@ -1044,7 +1043,7 @@ class ValidateTaelgarNoteTest < Minitest::Test
     )
 
     formatted = TaelgarNoteLint::FrontmatterFormatter.new(note).format_text
-    expected_fields = %w[headerVersion lintedAt lintVersion displayDefaults tags subTypeOf species timelineDescriptor customField name aliases whereabouts knownTo dm_notes POV]
+    expected_fields = %w[lintedAt lintVersion displayDefaults tags subTypeOf species timelineDescriptor customField name aliases whereabouts knownTo dm_notes POV]
     reparsed = TaelgarNoteLint::ParsedNote.new("People/Test.md", formatted)
 
     assert_equal expected_fields, reparsed.field_order
@@ -1410,31 +1409,53 @@ class ValidateTaelgarNoteTest < Minitest::Test
     assert_equal block, finding.dig("details", "candidate")
   end
 
-  def test_comments_belong_below_title_and_header_callout
+  def test_comments_belong_below_native_header_block
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
-    above = validator.validate_text(
-      "Gazetteer/Test.md",
-      "---\ntags: [place]\ntypeOf: forest\n---\n%% editorial comment %%\n# Test\n> [!info] Header\n\nBody.\n"
-    )
-    below = validator.validate_text(
-      "Gazetteer/Test.md",
-      "---\ntags: [place]\ntypeOf: forest\n---\n# Test\n> [!info] Header\n\n%% editorial comment %%\n\nBody.\n"
-    )
+    prefix = "---\ntags: [place]\ntypeOf: forest\n---\n"
+    above = validator.validate_text("Gazetteer/Test.md",
+      "#{prefix}%% editorial comment %%\n```taelgar-header\n```\n\nBody.\n")
+    below = validator.validate_text("Gazetteer/Test.md",
+      "#{prefix}```taelgar-header\n```\n\n%% editorial comment %%\n\nBody.\n")
 
     assert_includes rule_ids(above), "comment.before_header"
     refute_includes rule_ids(below), "comment.before_header"
   end
 
-  def test_inline_campaign_block_in_header_callout_is_not_a_meta_comment
+  def test_native_header_alone_never_supplies_authored_content
+    ["```taelgar-header\n```\n", "  ~~~~taelgar-header\r\n\r\n  ~~~~~\r\n"].each do |body|
+      note = TaelgarNoteLint::ParsedNote.new("Fixture.md", "---\ntags: [person]\n---\n#{body}")
+      refute TaelgarNoteLint.authored_body_candidate?(note)
+    end
+    body = "```taelgar-header\n```\n\n> An authored quotation about the subject.\n"
+    note = TaelgarNoteLint::ParsedNote.new("Fixture.md", "---\ntags: [person]\n---\n#{body}")
+    assert TaelgarNoteLint.authored_body_candidate?(note)
+  end
+
+  def test_authored_h1_and_native_block_form_one_header
+    ["# Custom title\n\n", "Custom title\n============\n\n"].each do |title|
+      body = "#{title}```taelgar-header\n```\n"
+      assert_equal [0, body.length], TaelgarNoteLint.native_header_span(body)
+      note = TaelgarNoteLint::ParsedNote.new("Fixture.md", "---\ntags: [person]\n---\n#{body}")
+      refute TaelgarNoteLint.authored_body_candidate?(note)
+      root = make_vault
+      validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
+      report = validator.validate_text("People/Test.md", "---\ntags: [person]\nspecies: human\n---\n#{body}\n%% editorial comment %%\n\nArticle.\n")
+      refute_includes rule_ids(report), "comment.before_header"
+    end
+  end
+
+  def test_comment_placement_does_not_use_a_later_authored_title
     root = make_vault
     validator = TaelgarNoteLint::Validator.new(root: root, check_links: false)
-    report = validator.validate_text(
-      "People/Test.md",
-      "---\ntags: [person]\nspecies: human\n---\n# Test\n> [!info] Header\n>> %%^Campaign:dufr%% Met by the party. %%^End%%\n\nBody.\n"
-    )
-
+    report = validator.validate_text("People/Test.md",
+      "---\ntags: [person]\nspecies: human\n---\n```taelgar-header\n```\n\nArticle.\n\n%% editorial comment %%\n\n# Authored section\nMore prose.\n")
     refute_includes rule_ids(report), "comment.before_header"
+  end
+
+  def test_authored_code_example_is_not_a_leading_native_header
+    body = "````markdown\n```taelgar-header\n```\n````\n"
+    assert_nil TaelgarNoteLint.native_header_span(body)
   end
 
   def test_markdown_code_examples_are_not_parsed_as_live_blocks_or_links

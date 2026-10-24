@@ -237,7 +237,7 @@ Canonical frontmatter ordering and formatting, versioned lint-state replacement,
 
 The canonical ordering is:
 
-1. `headerVersion`, `lintedAt`, `lintVersion`, `displayDefaults`;
+1. `lintedAt`, `lintVersion`, `displayDefaults`;
 2. the classification group: `tags`, `typeOf`, `subTypeOf`, `typeOfAlias`, `subTypeOfAlias`, `species`, `subspecies`, `speciesAlias`, and `ancestry`;
 3. unclassified fields in stable original order;
 4. `name`, `aliases`, `pronunciation`;
@@ -245,7 +245,7 @@ The canonical ordering is:
 6. `knownTo`, `excludePublish`, `audience`, `dm_owner`, `dm_notes`; and
 7. `POV`, immediately after `dm_notes` and therefore last in frontmatter.
 
-String-only lists and dictionaries use one line. Lists of dictionaries are expanded with one single-line dictionary per list item. The formatter never changes `headerVersion`, silently deletes a field, or rewrites unsafe YAML.
+String-only lists and dictionaries use one line. Lists of dictionaries are expanded with one single-line dictionary per list item. The formatter never silently deletes a field or rewrites unsafe YAML.
 
 ### Naming and pronunciation
 
@@ -346,7 +346,7 @@ Temporal coverage: approximately DR 1748–1752; the present-tense geography is 
 
 If `povNotes` is present, perform contextual POV selection regardless of the prior lint version, recheck the block, and retain it. If `povNotes` is absent, perform contextual POV selection only when the note has no valid `lintedAt`/`lintVersion` pair or its prior version is numerically lower than `povReviewVersion`; a valid prior version at or above the threshold suppresses recomputation of a valid existing `POV` and preserves the block's absence. Deterministic validation still reports malformed, duplicate, or categorically forbidden present metadata and a missing or malformed `POV`. When review applies, legacy `povNotes` text is evidence rather than accepted final output: retain it unchanged only when contextual review confirms that it remains accurate; otherwise rewrite it. For an exempt Campaigns record, do not create a block; if one is already present, retain it and report the mismatch for human disposition. Discard `mode`, `profile`, and other obsolete article-block keys only when doing so does not remove the existing `povNotes` block.
 
-Comments belong below the complete header block: the title and any immediately following information/header callout. The linter moves only an unambiguously misplaced comment while preserving its text exactly; uncertain rearrangements become suggestions.
+Comments belong below the complete empty `taelgar-header` block. Its rendered title and information callout are generated presentation, not authored source. A native header alone does not count as substantive article content. The linter moves only an unambiguously misplaced comment while preserving its text exactly; uncertain rearrangements become suggestions.
 
 ## Findings and rule model
 

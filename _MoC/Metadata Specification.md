@@ -6,11 +6,17 @@ This note summarizes the metadata specification for YAML frontmatter.
 Some brainstorming and ideas:
 - [[Metadata Brainstorming - Discussion]] (old but still potentially relevant)
 
+## Native headers
+
+See [[Native Headers]] for the empty code block that renders the complete note
+header from frontmatter. An authored H1 directly above the block replaces its
+generated title. Other display values are metadata; the rendered information
+callout is not saved in the source note.
+
 ## Metadata Field Definitions
 
 ### Core Universal Fields
 
-- `headerVersion`: String version marker added by header scripts (typically a date like `2023.11.25`). Automatically added upon header generation. Do not manually edit. 
 - `tags`: Obsidian tags for categorization and status. One descriptive tag is usually required (`person`, `place`, `organization`, `item`, `event`, etc.); status tags (e.g. `status/stub`, `status/cleanup/*`, `status/gameupdate/*`) are optional. Represented as an inline list (`tags: [person]`). See: [[Note Categorization]] and [[Note Status]].
 - `dm_owner`: String indicating who is responsible for the page. The reviewable accepted-value list lives in [[Note Status]].
 - `dm_notes`: Human attestation indicating whether useful private, non-shared DM information remains that is not already captured in the shared or public note or its shared backlinks. The reviewable accepted-value list lives in [[Note Status]]; linting does not adjudicate between the positive values or automatically change an attestation. Batch preparation mechanically dossiers matching `_DM_` Markdown notes and clusters duplicate contexts without discarding source paths. For the negative value, a genuine cluster with plausible recoverable material receives a private chat-only summary and copy-ready candidate so the human can judge both the material and the continued accuracy of the attestation; matching but unhelpful clusters remain traceable temporary evidence without user-facing output. A positive value plus no confirmed matches receives a verification suggestion. Confirmed positive-attestation matches are always reported as exact source links: mechanically inserted as separate dash-bulleted wikilinks in an independently open Lint block, or listed in the mechanically generated private handoff when the note is clean. Private content never enters the Git-shared report, and privacy review is a quick semantic sanity check rather than raw-text overlap proof. Once reviewed under the adopted `dmNotesReviewVersion`, `lintedAt` validates the attestation until a matching `_DM_` file is modified later or the minimum review version is raised. In-note `%%SECRET[v2:2813636d58fe60b6f07f9b3fae26e409]%%`, ordinary comments, and `Campaign:none` blocks never count as positive external evidence and never affect the candidate-based review. `SECRET` blocks are nevertheless eligible for the same private chat-only recovery handoff. See: [[Note Status]] and [[Taelgar Note Linter]].
@@ -21,7 +27,7 @@ Some brainstorming and ideas:
 
 ### Classification and Type Fields
 
-- `typeOf`: Primary type classification for the page (e.g. `settlement`, `region`, `war`, `mirror`, `mystery cult`, `skyship`). Required for many descriptive tags and used by header scripts and dataview queries. Controlled vocabulary; see: [[Note Categorization]].
+- `typeOf`: Primary type classification for the page (e.g. `settlement`, `region`, `war`, `mirror`, `mystery cult`, `skyship`). Required for many descriptive tags and used by the native header renderer and dataview queries. Controlled vocabulary; see: [[Note Categorization]].
 - `species`: Species of a person or creature (e.g. `human`, `elf`, `orc`). Used as an alias for typeOf on `person` pages. This should usually match the name or an alias of a creature page, and will generate a link in the header if it matches. See: [[Note Categorization]].
 - `typeOfAlias`: Human‑friendly display string for `typeOf` (e.g. “mountain range”, “city”). Free text, not controlled. Used to provide more specific and more useful header text than a plain `typeOf` value. See: [[Note Categorization]].
 - `subTypeOf`: Secondary type classifier. *Potentially obsolete, and used inconsistently; avoid adding new for now*. See: [[Note Categorization]].
@@ -40,14 +46,14 @@ See: [[Metadata Specification#Date Formats|Date Formats]]
 - `DR_end`: End date for a DR range, used when the event or session spans multiple days. Same date format as DR. 
 - `realWorldDate`: Real‑world date a session was played, in `YYYY‑MM‑DD` form.
 - `timelineDescriptor`:Label used in timelines and event lists (e.g. “War of the Cloak”) for dates extracted from this note. Often matches or summarizes the page title. ***Warning: possibly obsolete / possibly not working, and inconsistently used.***
-- `pageTargetDate`: Optional override for “current date” used by queries and header scripts, primarily for debugging. 
+- `pageTargetDate`: Optional override for “current date” used by queries and the native header renderer, primarily for debugging.
 - `POV`: The article's best single temporal reading position, chosen from `modern`, a decade, a year, or `undated`. Test `modern`, a decade, and a year in that order; use `undated` only when the note and its sources support none of them. `undated` records missing temporal support, not timeless truth or stability. `POV` is not a validity interval. For most notes, the persistent `%%^povNotes:v1%%` text block records approximate, uncertain, narrow, discontinuous, or unsupported temporal coverage. When the visible undated prose naturally functions as current-era reference prose and no evidence requires a narrower or nonmodern reading, `modern` with a generic broadly-modern coverage statement is sufficient. When no coherent temporal reading position is supported, use `undated` and record that limitation. Notes under `Campaigns/**` tagged `session-note`, `story`, `meta`, or `source` require `POV` but must not be given a new `povNotes` block. A present `povNotes` block is always contextually rechecked and retained; removing an existing block is always a human-only decision. Only when the block is absent does a valid prior lint at or above the adopted `povReviewVersion` skip contextual POV selection and preserve the block's absence; deterministic validation still checks the stored `POV` and reports a categorically forbidden block for human review. See [[Temporal POV Metadata]]. In canonical frontmatter order, `POV` is the final field, immediately after `dm_notes` when that field is present.
 
 ### Type-Specific Fields
 
 For person pages, for additional display/identity information:
 - `title`: In‑world title or honorific (e.g. `Queen`, `High King`, `Captain`). Combined with `name` to produce a full name; see [[Display Control]].
-- `gender`: Textual gender marker. Common values are `male`, `female`, or other strings; header scripts derive default pronouns from this.
+- `gender`: Textual gender marker. Common values are `male`, `female`, or other strings; the native header renderer derives default pronouns from this.
 - `pronouns`: Explicit pronoun string when the default from `gender` is not appropriate.
 - `ka`: Numeric “ka” value, used for elves to indicate their cycle/generation (see [[Elven Cycle of Generations]]). Only appears on elven character notes.
 
@@ -435,7 +441,7 @@ Some behavior that does not fully conform to the above requirements is still sup
 
 ## CampaignInfo Specification
 
-Purpose: track when and how specific campaigns interacted with the subject of a page. Used primarily on people (and occasionally places/items) to drive “Met by X on Y in Z” style header lines and to answer “does this party know about this entity?” queries. CampaignInfo entries are encoded as structured objects and can range from simple “met on this date” records to fully customized lines that reference specific session notes. If a campaign and date are present, generates a static header line with the campaign interaction information. 
+Purpose: track when and how specific campaigns interacted with the subject of a page. Used primarily on people (and occasionally places/items) to drive “Met by X on Y in Z” style header lines and to answer “does this party know about this entity?” queries. CampaignInfo entries are encoded as structured objects and can range from simple “met on this date” records to fully customized lines that reference specific session notes. If a campaign and date are present, the shared native renderer can display the corresponding campaign interaction line.
 
 ### Object Fields
 

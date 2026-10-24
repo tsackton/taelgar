@@ -73,7 +73,7 @@ Treat the reviewed `*-session-recap.md` as the durable, human-gated content sour
 7. Verify the rendered frontmatter and body against the reviewed recap. Make durable corrections upstream and regenerate instead of hand-maintaining rendered output.
 8. Re-read all changed notes, validate frontmatter and wikilinks, review the complete scoped diff, and run `git diff --check`.
 
-Session headers belong in the selected session-note template. Do not add Cleenseau session behavior to the generic `generate header` machinery or classify `session-note` as a general header page type merely to support this pipeline.
+Session headers belong in the selected session-note template. Keep session-specific presentation in this pipeline rather than treating it as a generic biography header.
 
 If the pipeline lacks a field needed by the approved format, fix the narrow pipeline gap rather than maintaining a hidden hand edit in generated output.
 

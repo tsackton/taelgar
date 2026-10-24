@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [person]
 campaignInfo: [] # [{campaign: , person: (optional), type: , date: YYYY-MM-DD}]
 name:  # Person's full name
@@ -17,6 +16,8 @@ dm_owner: # default to none
 dm_notes:  # default to none
 pronunciation: # optional, only include if available
 ---
+```taelgar-header
+```
 
 One-sentence encyclopedic summary of this historical figure (era, title, dominion, and signature deed).  
 ## Overview (optional)

@@ -1935,7 +1935,6 @@ class BatchLintTaelgarNotesTest < Minitest::Test
     lint_fields = linted ? "lintedAt: \"2026-08-19T09:00:00-04:00\"\nlintVersion: \"#{TaelgarNoteLint::VERSION}\"\n" : ""
     <<~MARKDOWN
       ---
-      headerVersion: 1
       #{lint_fields}tags: [person]
       name: #{name}
       species: human
@@ -1971,7 +1970,6 @@ class BatchLintTaelgarNotesTest < Minitest::Test
              end
     <<~MARKDOWN
       ---
-      headerVersion: 1
       lintedAt: "2026-08-19T09:00:00-04:00"
       lintVersion: "#{version}"
       tags: #{tag}

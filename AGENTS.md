@@ -4,6 +4,37 @@ Taelgar is an Obsidian vault for a homebrew D&D world. Lore, campaign records, a
 
 These instructions apply throughout the repository unless a more specific `AGENTS.md` or applicable task workflow says otherwise.
 
+## Plugin experiments worktree startup
+
+When working in `taelgar-plugin-experiments`, start every task with the procedure
+in [_scripts/header-migration.md](_scripts/header-migration.md): preserve local
+changes, rebase this worktree on the vault's local `main` with `git rebase main`,
+restore preserved changes, then rerun the deterministic header migration:
+
+```sh
+python _scripts/migrate_taelgar_headers.py --write
+python _scripts/migrate_taelgar_headers.py --check
+```
+
+Use the same H1 option for both commands when a policy was selected:
+`--preserve-h1` keeps titles during legacy/native conversion; `--remove-h1`
+removes them from recognized headers. Without either flag, legacy saved titles
+are removed and existing native titles are preserved. Do not invent missing
+titles when preservation is selected.
+
+Complete this startup before editing notes or testing the plugin. Resolve or
+report conflicts without discarding unrelated work. This procedure applies only
+to the experiments worktree. It does not authorize commits, pushes, content
+publication, production changes, or migration of the primary vault checkout.
+
+Native note headers use an empty `taelgar-header` fence immediately after
+frontmatter, optionally preceded by an authored H1. It supplies the title when
+no H1 is directly above it (blank lines are allowed), plus pronunciation and the
+information callout from metadata. Preserve that block and any authored H1 when editing metadata; the plugin refreshes the
+display without rewriting the note. New person and place templates include the
+native block. Session notes retain their dedicated component/template pipeline.
+See [[Native Headers]] for authoring and local export commands.
+
 ## 1. Authorization and Git
 
 Read-only search, inspection, and summaries are allowed. Creating or editing files requires user authorization.
@@ -83,7 +114,7 @@ If the user explicitly requests preservation for review, put **all pre-edit body
 
 Before changing metadata, review [[Note Categorization]] and [[Metadata Specification]].
 
-- Frontmatter occurs once, at the top. Preserve existing `headerVersion`; use the current appropriate template for new notes.
+- Frontmatter occurs once, at the top. Use the current appropriate template for new notes and preserve the native header block.
 - Follow the exact field-group order and YAML list/dictionary formatting in [[Taelgar Note Linter#Frontmatter]]. This formatting reference does not authorize a lint or unrelated normalization.
 - Use `species` as a person’s primary classification and the documented `typeOf` for non-person subjects when required. Do not substitute `subTypeOf`.
 - Add metadata only when supported or required by the template.
@@ -106,7 +137,7 @@ These are the default rules; an applicable workflow may state a specific excepti
 
 Use `%%` comments for uncertainty, editorial context, source limitations, and human-review notes. Do not hide established canonical prose in comments.
 
-Comments belong below the title and immediately following header/information callout. A linter may move an unambiguously misplaced header comment below that block only while preserving its text exactly. Other comments stay in place unless an obvious rearrangement is proposed for human review.
+Comments belong below the complete native header block. A linter may move an unambiguously misplaced header comment below that block only while preserving its text exactly. Other comments stay in place unless an obvious rearrangement is proposed for human review.
 
 Persistent `Metadata:*` and `povNotes:v1` blocks belong after article text and comments, immediately before a replaceable Lint block when present.
 

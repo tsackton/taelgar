@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Labyrinths of the Lost
 sessionNumber: {session.session_number}

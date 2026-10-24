@@ -223,7 +223,7 @@ Rules:
 - Unmarked prose is general prose.
 - Campaign blocks express campaign perspective or campaign-specific detail, not general world chronology.
 - `%%^Campaign:none%%` is a structured shared-DM block. It is committed to Git and visible to collaborators, but it is never a selectable campaign and its contents must never be shipped to the public site.
-- Generated campaign blocks in regenerated headers must be inventoried separately from authored body blocks. Source cleanup must not edit generated header output as if it were authored prose.
+- Native header blocks must be inventoried separately from authored body blocks. Source cleanup must not treat rendered header output as authored prose.
 
 ### Other nonpublic comments
 

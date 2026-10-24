@@ -70,7 +70,7 @@ A generic tag for "this page needs some kind of review", so treat with caution! 
 
 ### stub
 
-`status/stub` should be reserved for pages with no detail, and can be removed from any page with complete headers and at least a minimal amount of content. 
+`status/stub` should be reserved for pages with no detail, and can be removed from any page with a complete rendered native header where appropriate and at least a minimal amount of content.
 
 ### cleanup
 

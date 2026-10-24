@@ -1,16 +1,20 @@
 # Display Control
 *last update: Dec 15th 2025*
 
-## Overview of Display Generation
+## Native display generation
+
+Author the empty block described in [[Native Headers]]. The Taelgarverse plugin
+and website use the maintained shared renderer in `taelgarverse-core`. The
+following sections document the metadata and token semantics used at render time.
 
 Display strings for headers and related lines are built in three layers:
 
 1. **Data selection**
-	- The relevant script (e.g., `get_Whereabouts`, `get_Affiliations`, `get_PageDatedValues`, `EventManager.getPartyMeeting`) pulls the necessary data:
+	- The shared renderer selects dated metadata and computes the necessary display data:
 		- Page dates via `DateManager.getPageDates`.
 		- Whereabouts via `WhereaboutsManager.getWhereabouts`.
 		- Affiliations via `AffiliationManager.getAffiliations` / `getFormattedNonPrimaryAffiliations`.
-		- Campaign interactions via `campaignInfo` and `EventManager.getPartyMeeting`.
+		- Campaign interactions from the note metadata and selected campaign context.
 	- These scripts compute “derived” objects (e.g., `origin`, `current`, `lastKnown` for whereabouts; grouped affiliation records; per‑campaign meeting records).
 
 2. **DisplayDefaults resolution**
@@ -331,7 +335,7 @@ These are *global* defaults. Per‑affiliation overrides (`format`, `formatPast`
 
 These keys are templates for party‑meeting lines driven by `campaignInfo`:
 
-`wParty`: Template for campaign interactions, used by `EventManager.getPartyMeeting`. Global baseline: `<met:u> <person:q> on <target> <current:3Frq>`  
+`wParty`: Template for campaign interactions, used by the shared encounter formatter. Global baseline: `<met:u> <person:q> on <target> <current:3Frq>`
 
 Per‑entry overrides in `campaignInfo`, using `format`, replace the defaults. 
 
@@ -376,19 +380,17 @@ In addition to the global/type/page displayDefaults described above, several str
 
 ---
 
-## Header Format
+## Header source
 
+````markdown
+```taelgar-header
 ```
-# Display Name
-*(pronuncation, if present)*
-> [!info]+ boxName
-> Secondary Info Line (boxInfo)
-> Part of Line (partOf)
-> Dynamic: Date Information
-> Dynamic: Affilication Information
-> > Dynamic: Location information (whereabouts)
-> > Campaign information
-```
+````
+
+Keep the block empty. It renders a title unless an authored H1 is directly above
+it (blank lines are allowed). Optional pronunciation, the information callout,
+dated relationships, and applicable index controls still render. Use
+frontmatter and `displayDefaults` to change that output; see [[Native Headers]].
 
 ## Type‑Specific Defaults
 **Current as of 2025‑12‑10 (from `.obsidian/metadata.json`)**

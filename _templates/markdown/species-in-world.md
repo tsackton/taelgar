@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [creature]
 name: species name
 aliases: [species singluar, species plural]
