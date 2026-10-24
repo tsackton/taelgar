@@ -1,0 +1,142 @@
+{
+  "session": 40,
+  "status": "cleanup-complete-review-pending",
+  "branch": "main",
+  "firstPass": {
+    "unitCount": 2686,
+    "ranges": [
+      "u0001–u0360",
+      "u0361–u0760",
+      "u0761–u1160",
+      "u1161–u1560",
+      "u1561–u1960",
+      "u1961–u2360",
+      "u2361–u2686"
+    ],
+    "method": "Individual suspicion inspection; rolling per-unit correction ledger."
+  },
+  "strictSecondPass": {
+    "unitCount": 2686,
+    "ranges": [
+      "u0001–u0700",
+      "u0701–u1400",
+      "u1401–u2100",
+      "u2101–u2686"
+    ],
+    "method": "Individual reread of the cleaned body, with follow-up corrections and final protected-name consistency scan."
+  },
+  "unitCount": 2686,
+  "changedUnitCount": 986,
+  "unchangedUnitCount": 1700,
+  "replacementPatternCount": 1017,
+  "repeatedReplacementPatternCount": 125,
+  "unresolved": {
+    "materialLineCount": 59,
+    "materialSpanCount": 63,
+    "incidentalLineCount": 89,
+    "incidentalSpanCount": 94
+  },
+  "unresolvedSpanCount": 157,
+  "markedUnitCount": 148,
+  "materialIssueGroupCount": 35,
+  "checks": {
+    "unitCount": true,
+    "byteExactHeadersAndOrder": true,
+    "uidSequence": true,
+    "oneInputLinePerOutputLine": true,
+    "lineEndingPattern": true,
+    "inputFingerprintsUnchanged": true,
+    "reportFingerprint": true,
+    "assessmentFingerprint": true,
+    "inventoryFingerprint": true,
+    "jsonAndYamlParse": true,
+    "generatedHumanTranscript": true,
+    "generatedSummary": true,
+    "scopedGitDiffCheck": true,
+    "newFileGitWhitespaceCheck": true,
+    "noHumanAcceptance": true
+  },
+  "unchangedInputsSha256": {
+    "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-source-prepared.md": "e9e1feba1e193fd52c75538e366e590766f6c6100fa89d2b635b1d98c680c414",
+    "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-session.yaml": "28bf349f8b6bbccd8906daf02beea74f006ad302d4ff19cf1d3c44f13047825d",
+    "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-speaker-stats.json": "1010a26a2c4685f3fc4371ce9c1869064257f61c285374ce5b2358c6681f80d8",
+    "_sessions/dunmar-frontier/dunmari-frontier-040/sources/dunmar-frontier-core-participants.yaml": "fbda4ba73b9c298a3d3bc91ec5676280380bafbe02c9f66fe6276421ccde2090",
+    "_sessions/dunmar-frontier/dunmari-frontier-040/sources/zoom-session-040.speaker_mapping.json": "5fa177a1896754a90d21b8f20443bf5e9dbf62bee725e848172a240ae9469635",
+    "_sessions/dunmar-frontier/dunmari-frontier-040/sources/GMT20220218-014725_Recording.transcript.vtt": "cea346e827ef74cd168e2c36926611f68e724d91703e44377be557afe92e714d",
+    "_sessions/dunmar-frontier/dunmari-frontier-040/sources/dunmar-frontier-session040.yaml": "8a7648c834a2f3e94209789e8caaa32383cb9d5c074fbb3babb0e03cc3e1d75f"
+  },
+  "glossary": {
+    "path": "_sessions/campaign-glossary.json",
+    "sha256": "365adb0efd18f9bcb39edb6668a43672b54642fcec6f970cdaa7dd24748443be",
+    "loadedInFull": true,
+    "gitDiffEmpty": true
+  },
+  "secondaryEvidenceRead": [
+    "Gazetteer/Greater Dunmar/Kharja.md",
+    "Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Hara.md",
+    "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Adra.md",
+    "Gods and Religions/Gods/Embodied Gods/Entamba.md"
+  ],
+  "sourcePolicy": "Archival sources were hashed only for preservation, not read as correction evidence. Secondary notes did not override the prepared transcript; Kharja’s spelling and its relation to Kharsan corroborated a local correction; the creator names remain unresolved.",
+  "usageChecks": {
+    "beforeCleanupRemainingPercent": 96,
+    "midCleanupRemainingPercent": 96,
+    "afterCleanupRemainingPercent": 96,
+    "reportedApplicableWindow": "codex primary 10080 minutes",
+    "thresholdPercent": 50,
+    "allChecksSucceeded": true
+  },
+  "outputsSha256": {
+    "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-source-cleaned.md": "886c85738b20da8b2a632d391a9bc6f9eafc4af3e0bb87575d7934e1d34c4a19",
+    "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/cleanup-artifacts/dunmari-frontier-040-cleanup-assessment.json": "f9be0c37ac0254e8a81650ddb4b8a7c5a2862b1175d9a8b679cfe42eb4241a59",
+    "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/cleanup-artifacts/dunmari-frontier-040-cleanup-report.json": "e40455a6b80c9c95a195319000aee7a14fadc85eb004060e591767c7f20eeff2",
+    "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/cleanup-artifacts/dunmari-frontier-040-cleanup-summary.md": "c3e71af9dc53b969d2f34b8d16a56c9fc03aa99c79e5aeb658e9352f21a59f31",
+    "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/cleanup-artifacts/dunmari-frontier-040-human-transcript.md": "e6a85924951fceb2a631c190d645ed064ead97b6b102a0e111ecdcfe3ce28bdf",
+    "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/cleanup-artifacts/dunmari-frontier-040-morning-review-inventory.json": "61039953ff607616b3d3c7967db4e853f7942ced3e1a9824c61266d21672203c",
+    "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/cleanup-artifacts/dunmari-frontier-040-morning-review-inventory.md": "f188cf864407957ef008ee448f990ca2788f44ced79230364f4105fd9ed4da25",
+    "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/cleanup-artifacts/dunmari-frontier-040-session-corrections.yaml": "b5138e35e987ae7bcc6e22a106d1ffe36850ed88d50384ccb3392d9f05acbc5b"
+  },
+  "newFileWhitespaceChecks": [
+    {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-source-cleaned.md",
+      "returnCode": 1,
+      "whitespaceDiagnostics": []
+    },
+    {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/cleanup-artifacts/dunmari-frontier-040-cleanup-assessment.json",
+      "returnCode": 1,
+      "whitespaceDiagnostics": []
+    },
+    {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/cleanup-artifacts/dunmari-frontier-040-cleanup-report.json",
+      "returnCode": 1,
+      "whitespaceDiagnostics": []
+    },
+    {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/cleanup-artifacts/dunmari-frontier-040-cleanup-summary.md",
+      "returnCode": 1,
+      "whitespaceDiagnostics": []
+    },
+    {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/cleanup-artifacts/dunmari-frontier-040-human-transcript.md",
+      "returnCode": 1,
+      "whitespaceDiagnostics": []
+    },
+    {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/cleanup-artifacts/dunmari-frontier-040-morning-review-inventory.json",
+      "returnCode": 1,
+      "whitespaceDiagnostics": []
+    },
+    {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/cleanup-artifacts/dunmari-frontier-040-morning-review-inventory.md",
+      "returnCode": 1,
+      "whitespaceDiagnostics": []
+    },
+    {
+      "path": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/cleanup-artifacts/dunmari-frontier-040-session-corrections.yaml",
+      "returnCode": 1,
+      "whitespaceDiagnostics": []
+    }
+  ],
+  "scope": "Only session 040 cleaned output and cleanup-artifacts created. No pipeline, recaps, campaign edits, shared index edits, commits, pushes, or cleanup chats."
+}

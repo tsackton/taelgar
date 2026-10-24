@@ -1,0 +1,3931 @@
+{
+  "protectedNames": [
+    "Riswynn",
+    "Rothfis",
+    "Merash",
+    "Thror",
+    "DM",
+    "Tim Sackton"
+  ],
+  "canonicalTerms": [
+    "Morkalan",
+    "Tak",
+    "Nora Silverspark",
+    "Hagrim",
+    "Chalice of the Runepriest",
+    "Tokra",
+    "Delig Firebrand",
+    "Bleakhold"
+  ],
+  "edits": {
+    "1": {
+      "source": "Ok. So our adventure today starts in more Colin, the leak domain of the shadow fowl, a land of ash and mud,",
+      "cleaned": "Okay. So our adventure today starts in Morkalan, the bleak domain of the Shadowfell, a land of ash and mud,"
+    },
+    "2": {
+      "source": "where four adventurers, summoned by the dwarfing gods, have traveled to find the dwarf warrior, pogrim firebrand, who long ago, one hundred, one hundred and fifty years ago, betrayed a bunch of Dorbin refugees from fleeing the falling kingdom of arm",
+      "cleaned": "where four adventurers, summoned by the dwarven gods, have traveled to find the dwarf warrior, Hagrim Firebrand, who long ago, one hundred, one hundred and fifty years ago, betrayed a bunch of dwarven refugees fleeing the falling kingdom of [[arm]]"
+    },
+    "3": {
+      "source": "test,",
+      "cleaned": "[[test]],"
+    },
+    "6": {
+      "source": "And you use the Charles of the Root priest to send him from this domain, either to judgment or forgiveness, depending on what you decide",
+      "cleaned": "And you use the Chalice of the Runepriest to send him from this domain, either to judgment or forgiveness, depending on what you decide"
+    },
+    "7": {
+      "source": "After you accepted this quest and arrived in more, Colin, you found the village of bleak holes where you met the Zombie Lake village watch,",
+      "cleaned": "After you accepted this quest and arrived in Morkalan, you found the village of Bleakhold where you met the zombie-like village watch,"
+    },
+    "8": {
+      "source": "who spoke little, but war do that more. Colin is always watching",
+      "cleaned": "who spoke little, but warned you that Morkalan is always watching"
+    },
+    "10": {
+      "source": "living floors do dwell here. But if you venture out to explore the world,",
+      "cleaned": "living dwarves do dwell here. But if you venture out to explore the world,"
+    },
+    "11": {
+      "source": "the only names that you heard of travelers or wanderers outside of Bleakhold, who might be able to tell you something about this place are the mad priest who was exiled to the Ashfield some time ago, and talk",
+      "cleaned": "the only names that you heard of travelers or wanderers outside of Bleakhold, who might be able to tell you something about this place are the mad priest who was exiled to the Ashfield some time ago, and Tak"
+    },
+    "12": {
+      "source": "a young dwarf born and more Colin, who hadn't been missing for a week.",
+      "cleaned": "a young dwarf born in Morkalan, who had been missing for a week."
+    },
+    "14": {
+      "source": "the village of Bleak Hold, and instead sat out, and so to talk, following his footprints upriver,",
+      "cleaned": "the village of Bleakhold, and instead set out in search of Tak, following his footprints upriver,"
+    },
+    "15": {
+      "source": "finally coming to a trail of a cliff,",
+      "cleaned": "finally coming to a trail up a cliff,"
+    },
+    "19": {
+      "source": "Ah, you!",
+      "cleaned": "Ah, you"
+    },
+    "20": {
+      "source": "I found the young dwarf talk who had been hiding behind in this rock cave behind the",
+      "cleaned": "found the young dwarf Tak who had been hiding behind in this rock cave behind the"
+    },
+    "21": {
+      "source": "rubble, that the Undead were punk; that for the past few days,",
+      "cleaned": "rubble, that the Undead were [[punk; that]] for the past few days,"
+    },
+    "22": {
+      "source": "and after speaking with him, he agreed to take you to the ghost of Nora sparks over one of the few in this place you might know where hagroom is",
+      "cleaned": "and after speaking with him, he agreed to take you to the ghost of Nora Silverspark one of the few in this place who might know where Hagrim is"
+    },
+    "24": {
+      "source": "walking along, though",
+      "cleaned": "walking along, the"
+    },
+    "27": {
+      "source": "of Nora Talk, leading you,",
+      "cleaned": "of Nora, Tak, leading you,"
+    },
+    "28": {
+      "source": "hoping to learn more to fill in the gaps of the vision that you saw before coming here a vision of Hagrim and Norris, so sparks over, meeting a large group of refugees until they were caught in combat with trolls and a giant.",
+      "cleaned": "hoping to learn more to fill in the gaps of the vision that you saw before coming here a vision of Hagrim and Nora Silverspark, leading a large group of refugees until they were caught in combat with trolls and a giant."
+    },
+    "29": {
+      "source": "And then the vision ended with Hogram turning on the dwarfs he was supposed to be guarding.",
+      "cleaned": "And then the vision ended with Hagrim turning on the dwarfs he was supposed to be guarding."
+    },
+    "35": {
+      "source": "So Wristwin is heavily armored, carrying a warhammer",
+      "cleaned": "So Riswynn is heavily armored, carrying a warhammer"
+    },
+    "36": {
+      "source": "as in her possession. A mystical cup.",
+      "cleaned": "has in her possession a mystical cup."
+    },
+    "39": {
+      "source": "i'm trying to figure out what's going on in this place since we got here,",
+      "cleaned": "um, trying to figure out what's going on in this place since we got here,"
+    },
+    "43": {
+      "source": "intention to obey the gods and to fill their wills, and",
+      "cleaned": "intention to obey the gods and to fulfill their wills, and"
+    },
+    "47": {
+      "source": "last week, two weeks ago you you met Rothbus as well. He was a bartender, and he has been summoned to take over a debt owed by his ex-wife's clan, and he's not too pleased about it.",
+      "cleaned": "last week, two weeks ago you you met Rothfis as well. He was a bartender, and he has been summoned to take over a debt owed by his ex-wife's clan, and he's not too pleased about it."
+    },
+    "48": {
+      "source": "Yeah, he's just trying to get through it and get back to the stone fist signs and stables",
+      "cleaned": "Yeah, he's just trying to get through it and get back to the Stonefist Steins and Stables"
+    },
+    "49": {
+      "source": "through our Red Peak is a",
+      "cleaned": "Thror Redpeak is a"
+    },
+    "52": {
+      "source": "yesterday made a proud to turn his life around. If only we could go home again",
+      "cleaned": "yesterday made a vow to turn his life around. If only we could go home again"
+    },
+    "55": {
+      "source": "the way i'm coming so soon",
+      "cleaned": "the way home coming so soon"
+    },
+    "59": {
+      "source": "You also met Marash Everfoot a couple of weeks ago, who, while on her pilgrimage, had been stuck in a storm and",
+      "cleaned": "You also met Merash Emberfoot a couple of weeks ago, who, while on her pilgrimage, had been stuck in a storm and"
+    },
+    "60": {
+      "source": "survive, and having being saved from that uh",
+      "cleaned": "survived, and having been saved from that uh"
+    },
+    "61": {
+      "source": "led a quiet life of service, You uh, and is now paid",
+      "cleaned": "led a quiet life of service, You uh, and is now paying"
+    },
+    "67": {
+      "source": "not begrudgingly, but a little upset, and having to come back and pay their price.",
+      "cleaned": "not begrudgingly, but a little upset at having to come back and pay their price."
+    },
+    "68": {
+      "source": "So, as you all walk following talk, who is a youngish dwarf, maybe forty or so,",
+      "cleaned": "So, as you all walk following Tak, who is a youngish dwarf, maybe forty or so,"
+    },
+    "70": {
+      "source": "it looks like a man's lot, dusty without much of a beard wearing patched and mended clothes that have been",
+      "cleaned": "it looks like [[a man's lot, dusty]] without much of a beard wearing patched and mended clothes that have been"
+    },
+    "77": {
+      "source": "wearing full-plate armor, carrying a battle axe long on her back, but in substantial, ethereal, especially in the dim, flat light of this place,",
+      "cleaned": "wearing full-plate armor, carrying a battle axe slung on her back, but insubstantial, ethereal, especially in the dim, flat light of this place,"
+    },
+    "79": {
+      "source": "perched almost on Ah! On a rock outcrop of cropping, gazing intently south. The needs to cross the river, seemingly staring at the large, partially ruined statue of the huge stone warrior of the distance.",
+      "cleaned": "perched almost on Ah! On a rock outcropping, gazing intently south and east across the river, seemingly staring at the large, partially ruined statue of the huge stone warrior in the distance."
+    },
+    "80": {
+      "source": "She turns slowly as your group approach and looks at talk. Who",
+      "cleaned": "She turns slowly as your group approach and looks at Tak. Who"
+    },
+    "84": {
+      "source": "quelling under her gaze,",
+      "cleaned": "quailing under her gaze,"
+    },
+    "92": {
+      "source": "What are we planning on to make?",
+      "cleaned": "[[What are we planning on to make]]?"
+    },
+    "96": {
+      "source": "hold beard, or whatever that goes. Name is",
+      "cleaned": "[[hold beard]], or whatever that ghost’s name is"
+    },
+    "97": {
+      "source": "agriculture.",
+      "cleaned": "[[agriculture]]."
+    },
+    "98": {
+      "source": "Well, then, the I think probably the three of us subtly glance over at Roosevelt and give up",
+      "cleaned": "Well, then, the I think probably the three of us subtly glance over at Riswynn [[and give up]]"
+    },
+    "103": {
+      "source": "we greet you. Talk has told us that we are in the presence of",
+      "cleaned": "we greet you. Tak has told us that we are in the presence of"
+    },
+    "105": {
+      "source": "Nora's, Nora Silver Spark",
+      "cleaned": "Nora, Nora Silverspark"
+    },
+    "106": {
+      "source": "or a silver start by meeting.",
+      "cleaned": "Nora Silverspark, [[by meeting]]."
+    },
+    "111": {
+      "source": "to show our mission,",
+      "cleaned": "[[to show our mission]],"
+    },
+    "115": {
+      "source": "to what is a meaning of the current state of things where Margaret is always watching.",
+      "cleaned": "to what is a meaning of the current state of things where Morkalan is always watching."
+    },
+    "116": {
+      "source": "Everyone is trapped in the village of Lee. Cold.",
+      "cleaned": "Everyone is trapped in the village of Bleakhold."
+    },
+    "117": {
+      "source": "She looks over you sort of coldly and sense.",
+      "cleaned": "She looks over you sort of coldly and says."
+    },
+    "119": {
+      "source": "We see once your travels, of course",
+      "cleaned": "[[We see once your travels, of course]]"
+    },
+    "123": {
+      "source": "two.",
+      "cleaned": "[[two]]."
+    },
+    "125": {
+      "source": "that one man a man.",
+      "cleaned": "[[that one man a man]]."
+    },
+    "128": {
+      "source": "Hi! We're looking for. Hi, Graham!",
+      "cleaned": "Hi! We're looking for Hagrim!"
+    },
+    "129": {
+      "source": "What we heard in this is, you are all,",
+      "cleaned": "[[What we heard in this is, you are all]],"
+    },
+    "130": {
+      "source": "or concern of yours is",
+      "cleaned": "What concern of yours is"
+    },
+    "139": {
+      "source": "the barriers. I'll have me here to find Agram,",
+      "cleaned": "the [[barriers. I’ll]] have me here to find Hagrim,"
+    },
+    "141": {
+      "source": "My understanding that you are the best we can do.",
+      "cleaned": "My understanding is that you are the best we can do."
+    },
+    "148": {
+      "source": "with ail a plenty if it pleases you,",
+      "cleaned": "with ale aplenty if it pleases you,"
+    },
+    "152": {
+      "source": "No, the gods",
+      "cleaned": "know the gods"
+    },
+    "154": {
+      "source": "and all",
+      "cleaned": "at all"
+    },
+    "156": {
+      "source": "he said, It is just the seasick.",
+      "cleaned": "You said it is justice you seek."
+    },
+    "163": {
+      "source": "a to tell.",
+      "cleaned": "[[a to tell]]."
+    },
+    "166": {
+      "source": "or a",
+      "cleaned": "or an"
+    },
+    "178": {
+      "source": "was Hagram's fault.",
+      "cleaned": "was Hagrim's fault."
+    },
+    "187": {
+      "source": "he's not more Cullen now, is he?",
+      "cleaned": "he's not Morkalan now, is he?"
+    },
+    "195": {
+      "source": "What you mean is place?",
+      "cleaned": "What do you mean, this place?"
+    },
+    "197": {
+      "source": "She turns, and she sort of, and she looks at talk.",
+      "cleaned": "She turns, and she sort of, and she looks at Tak."
+    },
+    "198": {
+      "source": "There was born here. I've never,",
+      "cleaned": "[[There was born here. I've never,]]"
+    },
+    "199": {
+      "source": "or even",
+      "cleaned": "[[or even]]"
+    },
+    "200": {
+      "source": "the blessing of the gods of the",
+      "cleaned": "[[the blessing of the gods of the]]"
+    },
+    "205": {
+      "source": "You say that God sent you, but",
+      "cleaned": "You say that the gods sent you, but"
+    },
+    "207": {
+      "source": "claims to be sent by the gods.",
+      "cleaned": "claiming to be sent by the gods."
+    },
+    "216": {
+      "source": "it's survived.",
+      "cleaned": "It survived."
+    },
+    "218": {
+      "source": "for sure, when the",
+      "cleaned": "thought sure, when the"
+    },
+    "224": {
+      "source": "and when I learned of it's being found,",
+      "cleaned": "and when I learned of its being found,"
+    },
+    "233": {
+      "source": "kind of hungryly at the chalice.",
+      "cleaned": "kind of hungrily at the chalice."
+    },
+    "243": {
+      "source": "i'm",
+      "cleaned": "[[i’m]]"
+    },
+    "246": {
+      "source": "spot.",
+      "cleaned": "fought."
+    },
+    "247": {
+      "source": "Mine fires and worse, and the",
+      "cleaned": "mind flayers and worse, and the"
+    },
+    "248": {
+      "source": "apes underneath",
+      "cleaned": "the deeps underneath"
+    },
+    "250": {
+      "source": "happened to him there, because",
+      "cleaned": "[[happened to him there]], because"
+    },
+    "256": {
+      "source": "turn south.",
+      "cleaned": "turned south."
+    },
+    "257": {
+      "source": "We did, but not to feed It",
+      "cleaned": "[[We did, but not to feed It]]"
+    },
+    "260": {
+      "source": "North of the human city of Toka we encountered",
+      "cleaned": "North of the human city of Tokra we encountered"
+    },
+    "265": {
+      "source": "It's Leaving an army of trolls, and we were.",
+      "cleaned": "He was leading an army of trolls, and we were."
+    },
+    "267": {
+      "source": "We hauled up. We built a fortification,",
+      "cleaned": "We holed up. We built a fortification,"
+    },
+    "269": {
+      "source": "out last a giant",
+      "cleaned": "outlast the giant"
+    },
+    "273": {
+      "source": "I was commanding them",
+      "cleaned": "I was commanding the"
+    },
+    "276": {
+      "source": "holding ground against the Trolls. Well,",
+      "cleaned": "holding ground against the trolls while,"
+    },
+    "277": {
+      "source": "her grammar and",
+      "cleaned": "Hagrim and"
+    },
+    "283": {
+      "source": "which turned into a route.",
+      "cleaned": "which turned into a rout."
+    },
+    "284": {
+      "source": "A man!",
+      "cleaned": "[[A man]]!"
+    },
+    "285": {
+      "source": "My! Fled.",
+      "cleaned": "[[My! Fled]]."
+    },
+    "290": {
+      "source": "think you'd fought.",
+      "cleaned": "think he thought."
+    },
+    "293": {
+      "source": "mind-altering evils of the great War came back to them,",
+      "cleaned": "mind-altering evils of the great War came back to him,"
+    },
+    "295": {
+      "source": "and as we fought on the battlefield he orders troops to slay my companions.",
+      "cleaned": "and as we fought on the battlefield he ordered his troops to slay my companions."
+    },
+    "298": {
+      "source": "He turns",
+      "cleaned": "He turned"
+    },
+    "305": {
+      "source": "the domain of more Colin, the land of the dishonor dead,",
+      "cleaned": "the domain of Morkalan, the land of the dishonored dead,"
+    },
+    "307": {
+      "source": "turns.",
+      "cleaned": "turned."
+    },
+    "312": {
+      "source": "This place have gotten darker and darker, but I cannot",
+      "cleaned": "This place has gotten darker and darker, but I cannot"
+    },
+    "319": {
+      "source": "Summer.",
+      "cleaned": "[[Summer]]."
+    },
+    "321": {
+      "source": "ghosts that haunt the ruined statue are pogrom's. Memory is made spirit.",
+      "cleaned": "ghosts that haunt the ruined statue are Hagrim's memories made spirit."
+    },
+    "323": {
+      "source": "you know not what you or the gods will do with this information.",
+      "cleaned": "I know not what you or the gods will do with this information."
+    },
+    "328": {
+      "source": "you're a ghost, what is talk then? What is bleak. Hold what",
+      "cleaned": "you're a ghost, what is Tak then? What is Bleakhold what"
+    },
+    "334": {
+      "source": "or drawing were",
+      "cleaned": "were drawn"
+    },
+    "340": {
+      "source": "Mark Colin Hagrim",
+      "cleaned": "Morkalan Hagrim"
+    },
+    "343": {
+      "source": "somehow the in a weakened state. There's something that gives him power here.",
+      "cleaned": "somehow the, in a weakened state? Is there something that gives him power here."
+    },
+    "363": {
+      "source": "I don't even think you've remembered hug from any more?",
+      "cleaned": "I don't even think he remembers Hagrim anymore?"
+    },
+    "364": {
+      "source": "Do you know what Hugram's home and",
+      "cleaned": "Do you know what Hagrim's home and"
+    },
+    "369": {
+      "source": "an artist. The kingdom that fell the great War.",
+      "cleaned": "Ardith. The kingdom that fell in the Great War."
+    },
+    "373": {
+      "source": "you might be able to speak more of his childhood",
+      "cleaned": "he might be able to speak more of his childhood"
+    },
+    "374": {
+      "source": "talk. Do you know a dog",
+      "cleaned": "Tak, do you know Del"
+    },
+    "375": {
+      "source": "dog? Um:",
+      "cleaned": "Del? Um:"
+    },
+    "378": {
+      "source": "but that's who they call him the Mad priests. Now",
+      "cleaned": "but that’s who they call him, the mad priest. Now"
+    },
+    "379": {
+      "source": "that used to be his name dog Firebrand.",
+      "cleaned": "that used to be his name Del Firebrand."
+    },
+    "380": {
+      "source": "It was",
+      "cleaned": "He was"
+    },
+    "382": {
+      "source": "and more Colin sent to the wastes.",
+      "cleaned": "by Morkalan sent to the wastes."
+    },
+    "383": {
+      "source": "Nobody knows if he's alive or Dad,",
+      "cleaned": "Nobody knows if he's alive or dead,"
+    },
+    "386": {
+      "source": "neighborhoods fathers tales,",
+      "cleaned": "[[neighborhoods fathers tales]],"
+    },
+    "389": {
+      "source": "This is talk speaking. I",
+      "cleaned": "This is Tak speaking. I"
+    },
+    "390": {
+      "source": "I don't go in the waist. There's trolls there.",
+      "cleaned": "I don't go in the wastes. There's trolls there."
+    },
+    "391": {
+      "source": "Hagrim controls more. Colin controls them.",
+      "cleaned": "Hagrim controls Morkalan controls them."
+    },
+    "393": {
+      "source": "well, if you just please more, Colin,",
+      "cleaned": "well, if you displease Morkalan,"
+    },
+    "399": {
+      "source": "There's some wisdom in choosing your battles talk",
+      "cleaned": "There's some wisdom in choosing your battles, Tak"
+    },
+    "400": {
+      "source": "and choosing battles. You can survive especially",
+      "cleaned": "and choosing battles you can survive especially"
+    },
+    "414": {
+      "source": "Does he die.",
+      "cleaned": "[[Does he die]]."
+    },
+    "415": {
+      "source": "Stay!",
+      "cleaned": "[[Stay]]!"
+    },
+    "417": {
+      "source": "getting your spirit eaten by a troll and escape.",
+      "cleaned": "getting your spirit eaten by a troll an escape."
+    },
+    "423": {
+      "source": "I believe that they were looking for the chalice of the ruined priest.",
+      "cleaned": "I believe that they were looking for the Chalice of the Runepriest."
+    },
+    "430": {
+      "source": "that challenge our ticket home as well,",
+      "cleaned": "that chalice’s our ticket home as well,"
+    },
+    "434": {
+      "source": "whatever that let you teleport. How should you fail and decide to give up you?",
+      "cleaned": "whatever that let you teleport. should you fail and decide to give up you?"
+    },
+    "442": {
+      "source": "Do we know? Sort of mechanically. Are those tuned to us have like fingerprint locks on them? Or could we in that to somebody else?",
+      "cleaned": "Do we know? Sort of mechanically. Are those tuned to us have like fingerprint locks on them? Or could we give that to somebody else?"
+    },
+    "443": {
+      "source": "No, they're Ted to you?",
+      "cleaned": "No, they're tied to you?"
+    },
+    "448": {
+      "source": "Reason they, the door was brought it. To go. Look for refugees is because they was supposed to have like magic healing powers.",
+      "cleaned": "Reason they, the dwarves, brought it to go look for refugees is because it was supposed to have like magic healing powers."
+    },
+    "453": {
+      "source": "Or, if you can, even actually it's",
+      "cleaned": "Or, if you can, even actually use it"
+    },
+    "457": {
+      "source": "the because when I was in the Iraq,",
+      "cleaned": "the because when I was in [[the Iraq]],"
+    },
+    "463": {
+      "source": "they you get to the waste. If you upset more, Colonel,",
+      "cleaned": "you get to the wastes if you upset Morkalan,"
+    },
+    "464": {
+      "source": "we're here to judge more. Cullen, why don't we just go and judge more, Cullen. And then,",
+      "cleaned": "we're here to judge Morkalan, why don't we just go and judge Morkalan. And then,"
+    },
+    "465": {
+      "source": "if we're, you know, not ready to yet, he'll be pissed about it, or whatever. And the way we go to the waste.",
+      "cleaned": "if we're, you know, not ready to yet, he'll be pissed about it, or whatever. And away we go to the wastes."
+    },
+    "466": {
+      "source": "I mean aren't the ways to sort of",
+      "cleaned": "I mean aren't the wastes the sort of"
+    },
+    "467": {
+      "source": "dreadful-looking wastes that are in between here and the nasty statue. So they're just on the other side of the river. The statue is like on the so the nasty statue at the crude fort that's supposedly hogram more colin space",
+      "cleaned": "dreadful-looking wastes that are in between here and the nasty statue. So they're just on the other side of the river. The statue is like on the so the nasty statue at the crude fort that's supposedly Hagrim, Morkalan's place"
+    },
+    "472": {
+      "source": "So we sort of have to sneak past his fortress to get to the as you was otherwise. Well, I mean you've traveled now, probably ten or fifteen miles along this muddy river,",
+      "cleaned": "So we sort of have to sneak past his fortress to get to the ashy wastes otherwise. Well, I mean you've traveled now, probably ten or fifteen miles along this muddy river,"
+    },
+    "473": {
+      "source": "so you could easily go south to bleak, cold, and then cross or go north a little bit further, and then cross.",
+      "cleaned": "so you could easily go south to Bleakhold, and then cross or go north a little bit further, and then cross."
+    },
+    "476": {
+      "source": "so you so it's not. You don't need a sneak. You can just walk in a circle and get one.",
+      "cleaned": "so you so it's not. You don't need a sneak. You can just walk in a circle and [[get one]]."
+    },
+    "478": {
+      "source": "What did the ghost Just tell it? I feel awkward saying this in front of the goes. What are we? Just what's the relationship between the two of them again. The mad priest and Marcon",
+      "cleaned": "What did the ghost just tell us? I feel awkward saying this in front of the ghost. What are we? Just what's the relationship between the two of them again. The mad priest and Morkalan"
+    },
+    "481": {
+      "source": "more Collins life if i'm conjecturing your meaning right because you",
+      "cleaned": "Morkalan’s life if i'm conjecturing your meaning right because you"
+    },
+    "482": {
+      "source": "reminding him of his paths could make the conversation go better,",
+      "cleaned": "reminding him of his past could make the conversation go better,"
+    },
+    "491": {
+      "source": "in which case, starting with the priests, seems like a good idea,",
+      "cleaned": "in which case, starting with the priest, seems like a good idea,"
+    },
+    "492": {
+      "source": "like I said, like a senile. Murder is still a motor, though",
+      "cleaned": "like I said, like a senile murderer is still a murderer, though"
+    },
+    "498": {
+      "source": "It's not the ways I met,",
+      "cleaned": "It's not the wastes I meant,"
+    },
+    "502": {
+      "source": "slightly, roundaboutly towards the concentration with Hagerman,",
+      "cleaned": "slightly, roundaboutly towards the confrontation with Hagrim,"
+    },
+    "503": {
+      "source": "perhaps fortuitously run into the travel. The mad priest on the way,",
+      "cleaned": "perhaps fortuitously run into the traveler, the mad priest on the way,"
+    },
+    "506": {
+      "source": "I'm more worried about facing Hager, i'm unprepared, and not being able to complete our mission than having to fight a troll,",
+      "cleaned": "I'm more worried about facing Hagrim unprepared, and not being able to complete our mission than having to fight a troll,"
+    },
+    "507": {
+      "source": "I mean, i'm going home either way. I'm just been in a little silver thing.",
+      "cleaned": "I mean, i'm going home either way. [[I'm just been in a little silver thing]]."
+    },
+    "509": {
+      "source": "If I don't do this right. The iron corns are going to continue to pester me for the rest of time, and i'd rather that this was a proper severed.",
+      "cleaned": "If I don't do this right. The Ironhorns are going to continue to pester me for the rest of time, and i'd rather that this was properly severed."
+    },
+    "517": {
+      "source": "into the waste a bit.",
+      "cleaned": "[[into the waste]] a bit."
+    },
+    "520": {
+      "source": "like straight across the river and then turn south, or you're gonna circle back to bleak, cold and then cross and head north",
+      "cleaned": "like straight across the river and then turn south, or you're gonna circle back to Bleakhold and then cross and head north"
+    },
+    "529": {
+      "source": "You've got bleak cold. There,",
+      "cleaned": "You've got Bleakhold. There,"
+    },
+    "539": {
+      "source": "Do we make sure to talks? Okay, getting back to blue cold",
+      "cleaned": "Do we make sure that Tak’s Okay, getting back to Bleakhold"
+    },
+    "545": {
+      "source": "he won't get into it won't end up, hold up in another,",
+      "cleaned": "he won't get into it won't end up, holed up in another,"
+    },
+    "546": {
+      "source": "I mean. He certainly would not object to the company if you were willing to ask for them back closer to",
+      "cleaned": "I mean. He certainly would not object to the company if you were willing to escort him back closer to"
+    },
+    "547": {
+      "source": "Bleak Holmes.",
+      "cleaned": "Bleakhold."
+    },
+    "550": {
+      "source": "their creature is the wastelands back to the shadow or to the statue,",
+      "cleaned": "[[their creature is the wastelands]] back to the shadow or to the statue,"
+    },
+    "551": {
+      "source": "and then we can also make sure the tax on. Okay.",
+      "cleaned": "and then we can also make sure that Tak’s home okay."
+    },
+    "562": {
+      "source": "The bad priest may be easier to find",
+      "cleaned": "The mad priest may be easier to find"
+    },
+    "563": {
+      "source": "closer toably cold rather than on the other side of the statue.",
+      "cleaned": "closer to Bleakhold rather than on the other side of the statue."
+    },
+    "564": {
+      "source": "So it's still probably the best route. What? Marish pointed out. Very good.",
+      "cleaned": "So it's still probably the best route. What? Merash pointed out. Very good."
+    },
+    "566": {
+      "source": "and head back in the direction of we called with talk,",
+      "cleaned": "and head back in the direction of Bleakhold with Tak,"
+    },
+    "567": {
+      "source": "stopping a little bit short of where the sort of zombie guards are sort of pasting around",
+      "cleaned": "stopping a little bit short of where the sort of zombie guards are sort of pacing around"
+    },
+    "571": {
+      "source": "um go.",
+      "cleaned": "[[um go]]."
+    },
+    "577": {
+      "source": "Everything is sort of obscured by the dust. There's a fate, even though there's not really. You can't really feel a win. It's like",
+      "cleaned": "Everything is sort of obscured by the dust. There's a [[fate]], even though there's not really. You can't really feel a wind. It's like"
+    },
+    "578": {
+      "source": "as if there was a wind blowing up dust. So everything was considered lately obscured, so it's hard to see much.",
+      "cleaned": "as if there was a wind blowing up dust. So everything was considered lightly obscured, so it's hard to see much."
+    },
+    "580": {
+      "source": "What is your you're just gonna like wander around. You have direction you want ahead",
+      "cleaned": "What is your you're just gonna like wander around. You have direction you want to head"
+    },
+    "583": {
+      "source": "Well, I don't think myself or wisdom will ever be stealthy, but I wouldn't mind trying to look around a little bit and see if there's any sort of",
+      "cleaned": "Well, I don't think myself or Riswynn will ever be stealthy, but I wouldn't mind trying to look around a little bit and see if there's any sort of"
+    },
+    "585": {
+      "source": "anything that might give us an sense of direction through the waste lands",
+      "cleaned": "anything that might give us a sense of direction through the waste lands"
+    },
+    "589": {
+      "source": "you know, opt a little bit I could. I could also fly up into the air with my boots to get some higher ground.",
+      "cleaned": "you know, [[opt a little bit]] I could. I could also fly up into the air with my boots to get some higher ground."
+    },
+    "595": {
+      "source": "Yeah, all right. See you in an hour or so, and I just start sprinting northward",
+      "cleaned": "Yeah, all right. See you in an hour or so, and I just start sprinting [[northward]]"
+    },
+    "596": {
+      "source": "to the heavens, I suppose. Okay, make it. Make our perception check.",
+      "cleaned": "to the heavens, I suppose. Okay, make it. Make a perception check."
+    },
+    "618": {
+      "source": "so sorry I've gone toward it, but i'm far from the party. Now we're just up high.",
+      "cleaned": "so sorry I've gone toward it, but i'm far from the party. or am I just up high?"
+    },
+    "623": {
+      "source": "Okay, So you did. Yeah, maybe a little less, maybe two miles away. You did like a little bit of a a loop, just kind of trying to get your bearings. Um, and you can. And this is like about two or three miles some distance. It's hard to do as distances here.",
+      "cleaned": "Okay, So you did. Yeah, maybe a little less, maybe two miles away. You did like a little bit of a a loop, just kind of trying to get your bearings. Um, and you can. And this is like about two or three miles some distance. It's hard to judge distances here."
+    },
+    "626": {
+      "source": "fight, but you know, stumbling across the rubble and stuff it's going to take longer",
+      "cleaned": "to fly, but you know, stumbling across the rubble and stuff it's going to take longer"
+    },
+    "634": {
+      "source": "to show it all.",
+      "cleaned": "[[to show it all]]."
+    },
+    "635": {
+      "source": "And you I am. Yeah. Three hours left on the boots.",
+      "cleaned": "[[And you I am]]. Yeah. Three hours left on the boots."
+    },
+    "638": {
+      "source": "Rock Rock Rock, the mad priest chile that the statue for sure.",
+      "cleaned": "Rock, rock, rock, [[the mad priest chile that the statue for sure]]."
+    },
+    "640": {
+      "source": "maybe that's where the trolls live. But maybe that's a refuge sort of the spirits, or maybe it's full of gold,",
+      "cleaned": "maybe that's where the trolls live. But maybe that's a refuge for the spirits, or maybe it's full of gold,"
+    },
+    "641": {
+      "source": "a task available in. I've got one of those I don't need that I don't know what's in the cave.",
+      "cleaned": "[[a task available in]]. I've got one of those I don't need that I don't know what's in the cave."
+    },
+    "644": {
+      "source": "I think the cave sounds good, and if it's the priest we talk to him, and if it's the trolls, we ask them why the priests are",
+      "cleaned": "I think the cave sounds good, and if it's the priest we talk to him, and if it's the trolls, we ask them where the priests are"
+    },
+    "645": {
+      "source": "You're going to talk to us for all?",
+      "cleaned": "You're going to talk to a troll?"
+    },
+    "649": {
+      "source": "I think we might be in the running for the mad priest going toward a trolled in.",
+      "cleaned": "I think we might be in the running for the mad priest going toward a troll den."
+    },
+    "651": {
+      "source": "I think attempts to be selfie. It will be inevitably fail.",
+      "cleaned": "I think attempts to be stealthy will inevitably fail."
+    },
+    "654": {
+      "source": "So you had in the direction of the cave Kind of walking through these like mists Um, the dust that's blown across, you know, scrambling up rocks and then sliding down the other side.",
+      "cleaned": "So you head in the direction of the cave Kind of walking through these like mists Um, the dust that's blown across, you know, scrambling up rocks and then sliding down the other side."
+    },
+    "657": {
+      "source": "roughness was able to note a few landmarks from the air, so it's so you can. You can certainly keep your",
+      "cleaned": "Rothfis was able to note a few landmarks from the air, so it's so you can. You can certainly keep your"
+    },
+    "662": {
+      "source": "You go for maybe twenty, thirty minutes about. Who is what? What's your sort of border that you're walking? And he's keeping watch?",
+      "cleaned": "You go for maybe twenty, thirty minutes about. Who is what? What's your sort of order that you're walking? And who’s keeping watch?"
+    },
+    "664": {
+      "source": "My reception is plus five.",
+      "cleaned": "My perception is plus five."
+    },
+    "668": {
+      "source": "for ten",
+      "cleaned": "[[for ten]]"
+    },
+    "671": {
+      "source": "Because you're walking through desk clouds.",
+      "cleaned": "Because you're walking through dust clouds."
+    },
+    "680": {
+      "source": "a clust of rocks.",
+      "cleaned": "a cluster of rocks."
+    },
+    "681": {
+      "source": "Oh, yeah, these were some of my favorite rooks from the sky.",
+      "cleaned": "Oh, yeah, these were some of my favorite rocks from the sky."
+    },
+    "697": {
+      "source": "roar would go first. But you are surprised.",
+      "cleaned": "Thror would go first. But you are surprised."
+    },
+    "702": {
+      "source": "The Trolle rushes out, and it's It's like a spirit troll, but it's also got this like",
+      "cleaned": "The troll rushes out, and it's It's like a spirit troll, but it's also got this like"
+    },
+    "705": {
+      "source": "it. It sort of reaches towards the shadow, and it kind of slashes out itself, and this black spurting",
+      "cleaned": "it. It sort of reaches towards the shadow, and it kind of slashes at itself, and this black spurting"
+    },
+    "706": {
+      "source": "like black shadow, just like spews out of it in a fifteen-foot cubes. So one, two, three,",
+      "cleaned": "like black shadow, just like spews out of it in a fifteen-foot cube. So one, two, three,"
+    },
+    "707": {
+      "source": "so getting everybody but rizwin.",
+      "cleaned": "so getting everybody but Riswynn."
+    },
+    "712": {
+      "source": "So twenty points of Get a product image to Roth. This, and you are frightened.",
+      "cleaned": "So twenty points of necrotic damage to Rothfis, and you are frightened."
+    },
+    "713": {
+      "source": "Twenty points of necrotic damage to Marish, and you are frightened. It frightens ten points of the chronic damage to four, and you are not frightened,",
+      "cleaned": "Twenty points of necrotic damage to Merash, and you are frightened. Ten points of necrotic damage to Thror, and you are not frightened,"
+    },
+    "714": {
+      "source": "and now floor is up.",
+      "cleaned": "and now Thror is up."
+    },
+    "716": {
+      "source": "i'm sick.",
+      "cleaned": "[[i’m sick]]."
+    },
+    "717": {
+      "source": "Ah, this is next.",
+      "cleaned": "Rothfis is next."
+    },
+    "719": {
+      "source": "All right. I'm going to come in and um I can grasp it and then",
+      "cleaned": "All right. I'm going to come in and um Shocking Grasp it and then"
+    },
+    "722": {
+      "source": "just of things.",
+      "cleaned": "[[just of things]]."
+    },
+    "724": {
+      "source": "But Billy Mcmahon has built her",
+      "cleaned": "But [[Billy Mcmahon has built her]]"
+    },
+    "727": {
+      "source": "who know that wasn't your attack? That's the damage you got to roll an attack.",
+      "cleaned": "Oh, no that wasn't your attack? That's the damage you got to roll an attack."
+    },
+    "729": {
+      "source": "Track practice",
+      "cleaned": "Trackpad’s"
+    },
+    "736": {
+      "source": "There you go. Okay, That heads. So where did you roll for damage? Eleven,",
+      "cleaned": "There you go. Okay, That hits. So where did you roll for damage? Eleven,"
+    },
+    "738": {
+      "source": "Okay, So as you reach out and you grab it. And this shock spread out on these black shadows that are kind of swirling about it.",
+      "cleaned": "Okay, So as you reach out and you grab it. And this shock spreads out on these black shadows that are kind of swirling about it."
+    },
+    "739": {
+      "source": "This lagnikaric energy sprays out, and everybody within five feet of the troll, which is you and Marish takes five points of necrotic damage",
+      "cleaned": "This necrotic energy sprays out, and everybody within five feet of the troll, which is you and Merash takes five points of necrotic damage"
+    },
+    "740": {
+      "source": "awesome, and it takes an extra four points of lighting damage.",
+      "cleaned": "awesome, and it takes an extra four points of lightning damage."
+    },
+    "742": {
+      "source": "And then I guessed away, and I'm going to move slightly to the left. You can only gust away if you cast a leveled spell right.",
+      "cleaned": "And then I gust away, and I'm going to move slightly to the left. You can only gust away if you cast a leveled spell right."
+    },
+    "745": {
+      "source": "If you cast a can trap so you can redo your turn if you want to do something different, because you probably don't want to stand next to the Troll.",
+      "cleaned": "If you cast a cantrip so you can redo your turn if you want to do something different, because you probably don't want to stand next to the Troll."
+    },
+    "746": {
+      "source": "No, i'll just let it work with a can trip for this term, just because that's",
+      "cleaned": "No, i'll just let it work with a cantrip for this turn, just because that's"
+    },
+    "750": {
+      "source": "And you are not frightened, so you don't have to do anything. Your office. You are frightened that you cannot move closer to the troll.",
+      "cleaned": "And you are not frightened, so you don't have to do anything. Rothfis. You are frightened that you cannot move closer to the troll."
+    },
+    "751": {
+      "source": "You have disadvantaged on attacks. Well, you can make a wisdom save at the end of each turn to resist.",
+      "cleaned": "You have disadvantage on attacks. Well, you can make a wisdom save at the end of each turn to resist."
+    },
+    "755": {
+      "source": "I was me it that whole time, so I",
+      "cleaned": "I was muted that whole time, so I"
+    },
+    "757": {
+      "source": "I take a big sweep from the stein, and I say you don't scare me for all you're just.",
+      "cleaned": "I take a big swig from the stein, and I say you don't scare me, troll you're just."
+    },
+    "760": {
+      "source": "in that case I will take a potion of greater feeling as a bonus action.",
+      "cleaned": "in that case I will take a potion of greater healing as a bonus action."
+    },
+    "764": {
+      "source": "click on the forty four plus four in.",
+      "cleaned": "click on the 4d4 plus four in."
+    },
+    "769": {
+      "source": "Yes, you get killed, too.",
+      "cleaned": "Yes, you get healed, too."
+    },
+    "772": {
+      "source": "okay, Twenty one to hit um. Marish.",
+      "cleaned": "okay, Twenty one to hit um. Merash."
+    },
+    "773": {
+      "source": "Yeah, that's it.",
+      "cleaned": "Yeah, that's a hit."
+    },
+    "778": {
+      "source": "Yeah, just drag out everyone.",
+      "cleaned": "Yeah, just drag out a new one."
+    },
+    "788": {
+      "source": "piercing damage and five points of the chronic image",
+      "cleaned": "piercing damage and five points of necrotic damage"
+    },
+    "792": {
+      "source": "That end this term is when you're out",
+      "cleaned": "That ends its turn. Riswynn, you’re up"
+    },
+    "794": {
+      "source": "Speaker:",
+      "cleaned": "[[Speaker]]:"
+    },
+    "796": {
+      "source": "spiritual needs, so I know It's a it's. Hold on a sec.",
+      "cleaned": "[[spiritual needs]], so I know It's a it's. Hold on a sec."
+    },
+    "799": {
+      "source": "Theory. Spiritual needs some spirit fighting. So i'm going to cast",
+      "cleaned": "[[Theory. Spiritual needs]] some spirit fighting. So i'm going to cast"
+    },
+    "801": {
+      "source": "Does the spirit guardians do an attack, or is it just as expensive thing.",
+      "cleaned": "Does the spirit guardians do an attack, or is it just as a defensive thing."
+    },
+    "805": {
+      "source": "It's not a attack with this turn",
+      "cleaned": "It's not an attack this turn"
+    },
+    "810": {
+      "source": "No, I hate spiritual weapon. Didn't I?",
+      "cleaned": "No, I hit Spiritual Weapon. Didn't I?"
+    },
+    "811": {
+      "source": "You right? You meant to cash spirit guardians, right? Yes, yes.",
+      "cleaned": "You right? You meant to cast Spirit Guardians, right? Yes, yes."
+    },
+    "813": {
+      "source": "So it's within the whip radius.",
+      "cleaned": "So it's within the [[whip]] radius."
+    },
+    "816": {
+      "source": "The good to block",
+      "cleaned": "[[The good to block]]"
+    },
+    "820": {
+      "source": "due south of patrol.",
+      "cleaned": "due south of the troll."
+    },
+    "822": {
+      "source": "That's um. That's through our.",
+      "cleaned": "That's um. That's Thror."
+    },
+    "823": {
+      "source": "Am I going to be in throws way?",
+      "cleaned": "Am I going to be in Thror’s way?"
+    },
+    "824": {
+      "source": "You can move around you easily enough.",
+      "cleaned": "He can move around you easily enough."
+    },
+    "825": {
+      "source": "I'll scan,",
+      "cleaned": "[[I’ll scan]],"
+    },
+    "827": {
+      "source": "Okay, Maris, you're out",
+      "cleaned": "Okay, Merash, you’re up"
+    },
+    "829": {
+      "source": "I'm still frightened, so I can't mean any close there. Thankfully,",
+      "cleaned": "I'm still frightened, so I can't move any closer. Thankfully,"
+    },
+    "830": {
+      "source": "I will attack with my mall of the forge.",
+      "cleaned": "I will attack with my Maul of the Forge."
+    },
+    "832": {
+      "source": "that it's.",
+      "cleaned": "that hits."
+    },
+    "842": {
+      "source": "That's a nineteen to head.",
+      "cleaned": "That's a nineteen to hit."
+    },
+    "844": {
+      "source": "that I couldn't take ah reactions with",
+      "cleaned": "that it couldn’t take ah reactions with"
+    },
+    "846": {
+      "source": "good coffee",
+      "cleaned": "Good call"
+    },
+    "848": {
+      "source": "i'm going to use a second win to regain some hit points. Okay,",
+      "cleaned": "i'm going to use a Second Wind to regain some hit points. Okay,"
+    },
+    "851": {
+      "source": "through our tires of this",
+      "cleaned": "Thror tires of this"
+    },
+    "853": {
+      "source": "and here with lightning ball.",
+      "cleaned": "and hit it with Lightning Bolt."
+    },
+    "855": {
+      "source": "that is a. I just made it safe.",
+      "cleaned": "that is a. It just made its save."
+    },
+    "860": {
+      "source": "process. You're up.",
+      "cleaned": "Rothfis. You're up."
+    },
+    "862": {
+      "source": "Well, I guess two questions depending on your answer. The first monk um unarmed strikes. Do they count as a melee weapon for the stunning Strike, Jeremiah Crawford says, Yes, Okay,",
+      "cleaned": "Well, I guess two questions depending on your answer. The first monk um unarmed strikes. Do they count as a melee weapon for the stunning Strike, Jeremy Crawford says, Yes, Okay,"
+    },
+    "867": {
+      "source": "watch this ghost.",
+      "cleaned": "punch this ghost."
+    },
+    "871": {
+      "source": "first, the tax side of twenty",
+      "cleaned": "first, attack, so I have twenty"
+    },
+    "872": {
+      "source": "that hits a new cake",
+      "cleaned": "that hits and you take"
+    },
+    "874": {
+      "source": "Oh, no, that was a really good role. Fifteen points of necrotic damage for a bunch of these shadows. The shadows around it like splash out around you as you hit it. You said nineteen,",
+      "cleaned": "Oh, no, that was a really good roll. Fifteen points of necrotic damage for a bunch of these shadows. The shadows around it like splash out around you as you hit it. You said nineteen,"
+    },
+    "875": {
+      "source": "fifteen, fifty. Voila is not a good for me at all.",
+      "cleaned": "fifteen, fifteen. Well, that is not a good for me at all."
+    },
+    "878": {
+      "source": "It has a plus five to con rolled in eleven, so that's a sixteen turtle.",
+      "cleaned": "It has a plus five to con rolled an eleven, so that's a sixteen total."
+    },
+    "887": {
+      "source": "create",
+      "cleaned": "Crit"
+    },
+    "891": {
+      "source": "uh nine points of the chronic damage.",
+      "cleaned": "uh nine points of necrotic damage."
+    },
+    "892": {
+      "source": "He took more than I did. So that's a step in the right direction. I'm going to spend another key to do a flurry of blows.",
+      "cleaned": "He took more than I did. So that's a step in the right direction. I'm going to spend another ki to do a flurry of blows."
+    },
+    "895": {
+      "source": "that it's another eighteen damage to add. You take",
+      "cleaned": "that hits another eighteen damage to it. You take"
+    },
+    "896": {
+      "source": "take a total of nine and seven, so a total of sixteen. The chronic damage.",
+      "cleaned": "take a total of nine and seven, so a total of sixteen. necrotic damage."
+    },
+    "899": {
+      "source": "yeah, I guess i'm gonna try to lie back. How much is my movement? Yeah,",
+      "cleaned": "yeah, I guess i'm gonna try to fly back. How much is my movement? Yeah,"
+    },
+    "901": {
+      "source": "It doesn't permanently use its reactions?",
+      "cleaned": "It doesn't permanently lose its reactions?"
+    },
+    "904": {
+      "source": "it's gonna take a swing at you with it's cause good luck that's a ten. That's all lovely. I get away.",
+      "cleaned": "it's gonna take a swing at you with its claws good luck that's a ten. That's all lovely. I get away."
+    },
+    "905": {
+      "source": "I say, I don't punch it unless you're looking to die",
+      "cleaned": "I say, don’t punch it unless you're looking to die"
+    },
+    "906": {
+      "source": "that is going to be. It's turned now, and it's standing in the spirit Guardian. So it needs to make a wisdom saving throw, which is a six. So how much damage does it take",
+      "cleaned": "that is going to be. its turn now, and it's standing in the spirit Guardian. So it needs to make a wisdom saving throw, which is a six. So how much damage does it take"
+    },
+    "908": {
+      "source": "You casted it. Did you count to the other level? So that's forty eight. So just rule for four d, eight,",
+      "cleaned": "You casted it. [[Did you count to the other level]]? So that's 4d8. So just roll 4d8,"
+    },
+    "910": {
+      "source": "Well, I have a choice of gradient, or, I think, necrotic. But",
+      "cleaned": "Well, I have a choice of radiant, or, I think, necrotic. But"
+    },
+    "915": {
+      "source": "As this like spirits surround it as it takes us damage. The shadows like around it kind of crumpl in",
+      "cleaned": "As these like spirits surround it as it takes this damage. The shadows like around it kind of crumple in"
+    },
+    "923": {
+      "source": "at office.",
+      "cleaned": "at Rothfis."
+    },
+    "925": {
+      "source": "they don't talk",
+      "cleaned": "[[they don’t talk]]"
+    },
+    "926": {
+      "source": "rest of the claw first,",
+      "cleaned": "[[rest of the claw first]],"
+    },
+    "927": {
+      "source": "the whether it can hit her.",
+      "cleaned": "see whether it can hit her."
+    },
+    "928": {
+      "source": "That's a fifteen that misses so it's going to turn and bite at office.",
+      "cleaned": "That's a fifteen that misses so it's going to turn and bite at Rothfis."
+    },
+    "938": {
+      "source": "So it's floating over you, and then make it second claw attack against met",
+      "cleaned": "So it's floating over you, and then make its second claw attack against [[met]]"
+    },
+    "939": {
+      "source": "parish, which is a twenty.",
+      "cleaned": "Merash, which is a twenty."
+    },
+    "942": {
+      "source": "Ah sticks that's going to be sixteen points of damage,",
+      "cleaned": "Ah, six that's going to be sixteen points of damage,"
+    },
+    "944": {
+      "source": "twenty, because this counts it difficult for train for it, and it's trying to get away. So that's thirty",
+      "cleaned": "twenty, because this counts as difficult terrain for it, and it's trying to get away. So that's thirty"
+    },
+    "948": {
+      "source": "so Rizman. You can make an attack of opportunity against them if you want to,",
+      "cleaned": "so Riswynn. You can make an attack of opportunity against them if you want to,"
+    },
+    "949": {
+      "source": "because I was trying to get outside of this for a spirits.",
+      "cleaned": "because it was trying to get outside of the Spirit Guardians."
+    },
+    "951": {
+      "source": "thank you right at all.",
+      "cleaned": "[[thank you right at all]]."
+    },
+    "953": {
+      "source": "Ah, just with shattered with your war hammer.",
+      "cleaned": "Ah, just with Shatterstorm with your war hammer."
+    },
+    "954": {
+      "source": "God, it's",
+      "cleaned": "[[God, it’s]]"
+    },
+    "959": {
+      "source": "All right. I'm going to follow up on that, and just chase him down, and him. This chatter's term again.",
+      "cleaned": "All right. I'm going to follow up on that, and just chase him down, and hit him with Shatterstorm again."
+    },
+    "964": {
+      "source": "remaining",
+      "cleaned": "[[remaining]]"
+    },
+    "965": {
+      "source": "some sort of thing If I had",
+      "cleaned": "[[some sort of thing If I had]]"
+    },
+    "967": {
+      "source": "um marriage. You're up. It is not currently",
+      "cleaned": "um Merash. You're up. It is not currently"
+    },
+    "968": {
+      "source": "started with you,",
+      "cleaned": "[[started with you]],"
+    },
+    "969": {
+      "source": "was great news.",
+      "cleaned": "That’s great news."
+    },
+    "971": {
+      "source": "I tried to hit it again with my all of the forge.",
+      "cleaned": "I tried to hit it again with my Maul of the Forge."
+    },
+    "979": {
+      "source": "I'm going to use my second attack to try to hit it with my handbags as well.",
+      "cleaned": "I'm going to use my second attack to try to hit it with my handaxe as well."
+    },
+    "980": {
+      "source": "Why, don't you just hit it with them all the forge again?",
+      "cleaned": "Why, don't you just hit it with the Maul of the Forge again?"
+    },
+    "981": {
+      "source": "I guess I can use. Yeah, I can do the multiply",
+      "cleaned": "I guess I can use. Yeah, I can do [[the multiply]]"
+    },
+    "982": {
+      "source": "fifteen hits just for the image. Well, okay, twenty two, all for it.",
+      "cleaned": "fifteen hits just roll damage. Well, okay, twenty two, [[all for it]]."
+    },
+    "990": {
+      "source": "You can force us to make a wisdom saving throw and be frightened.",
+      "cleaned": "You can force it to make a wisdom saving throw and be frightened."
+    },
+    "991": {
+      "source": "No, no, it's okay. I thought, Yeah, I missed. Read the",
+      "cleaned": "No, no, it's okay. I thought, Yeah, I misread the"
+    },
+    "992": {
+      "source": "well, all of the things Italian right? Pushing attack does extra damage. Menacing attack is extra damage.",
+      "cleaned": "well, all of the things add damage right? Pushing attack does extra damage. Menacing attack is extra damage."
+    },
+    "993": {
+      "source": "Oh, okay, So those two external",
+      "cleaned": "Oh, okay, So those do extra damage"
+    },
+    "994": {
+      "source": "you can also always action search if you really want to do extra damage.",
+      "cleaned": "you can also always Action Surge if you really want to do extra damage."
+    },
+    "999": {
+      "source": "i'll do the um medicine. This app",
+      "cleaned": "i'll do the um Menacing Attack"
+    },
+    "1002": {
+      "source": "and that says five to eight. No,",
+      "cleaned": "and that says 5d8. No,"
+    },
+    "1006": {
+      "source": "Uh it has to be A. Was staying with staying here with the Dc. Fifteen.",
+      "cleaned": "Uh it has to be a Wisdom saving throw with the DC Fifteen."
+    },
+    "1008": {
+      "source": "So as you reach off and swing on it when your second attack hits it begins.",
+      "cleaned": "So as you reach out and swing on it when your second attack hits it begins."
+    },
+    "1009": {
+      "source": "Yeah, that's a six. So it shakes a little bit in it like there's streamers, it's shadows are gone, and it looks at you,",
+      "cleaned": "Yeah, that's a six. So it shakes a little bit in it like there's streamers, its shadows are gone, and it looks at you,"
+    },
+    "1011": {
+      "source": "it turns, and it kind of looks around, and it is now frightened, which means it has disadvantaged on attacks.",
+      "cleaned": "it turns, and it kind of looks around, and it is now frightened, which means it has disadvantage on attacks."
+    },
+    "1012": {
+      "source": "It's also like nearly Dad.",
+      "cleaned": "It's also like nearly dead."
+    },
+    "1013": {
+      "source": "You're out,",
+      "cleaned": "You’re up,"
+    },
+    "1014": {
+      "source": "and it can't move closer to marriage.",
+      "cleaned": "and it can't move closer to Merash."
+    },
+    "1017": {
+      "source": "Ah! And here is a spell tech.",
+      "cleaned": "Ah! And here is a spell attack."
+    },
+    "1019": {
+      "source": "that it's",
+      "cleaned": "that hits"
+    },
+    "1021": {
+      "source": "Let's four out of that,",
+      "cleaned": "Plus four out of that,"
+    },
+    "1023": {
+      "source": "Oh, that's right. That's about ten is enough to kill it. So, as you reach out, you grasp the spirit and the lightning coursing through your hand.",
+      "cleaned": "Oh, that's right. But ten is enough to kill it. So, as you reach out, you grasp the spirit and the lightning coursing through your hand."
+    },
+    "1024": {
+      "source": "Shimmers do the thing, and it",
+      "cleaned": "Shimmers through the thing, and it"
+    },
+    "1025": {
+      "source": "dissipates um. Rafael's role in death saving town.",
+      "cleaned": "dissipates um. Rothfis, roll a death saving throw."
+    },
+    "1026": {
+      "source": "How do I use it in your next on beyond",
+      "cleaned": "How do I use it [[in your next on beyond]]"
+    },
+    "1029": {
+      "source": "not twenty. I have to stabilize myself, and you gain one hit for you.",
+      "cleaned": "Nat twenty. I auto-stabilize myself, and you gain one hit point."
+    },
+    "1033": {
+      "source": "You want to just take a rest right here in the middle of the Ashlands or continue to the case.",
+      "cleaned": "You want to just take a rest right here in the middle of the Ashlands or continue to the cave."
+    },
+    "1034": {
+      "source": "Okay, the way you pose? That question makes the seem like a better.",
+      "cleaned": "Okay, the way you pose? That question makes [[the]] seem like a better."
+    },
+    "1038": {
+      "source": "Um, what if that's their respond point for these ghosts.",
+      "cleaned": "Um, what if that's their respawn point for these ghosts."
+    },
+    "1042": {
+      "source": "You can just hide outside the cane for the whole battle",
+      "cleaned": "You can just hide outside the cave for the whole battle"
+    },
+    "1043": {
+      "source": "Resident gods to investigate the cave.",
+      "cleaned": "Riswynn goes to investigate the cave."
+    },
+    "1045": {
+      "source": "Brisbane, go ahead.",
+      "cleaned": "Riswynn, go ahead."
+    },
+    "1046": {
+      "source": "I'm literally just killing it. One hit point. That's",
+      "cleaned": "I'm literally just chilling at. One hit point. That's"
+    },
+    "1049": {
+      "source": "The order of the holes is different than the order of I'm. Going to be perceptive after i'm healing.",
+      "cleaned": "The order of the rolls is different than the order of I'm. Going to be perceptive after i'm healing."
+    },
+    "1050": {
+      "source": "You got a wrong perception with disadvantage, though, but",
+      "cleaned": "You got a roll perception with disadvantage, though, but"
+    },
+    "1051": {
+      "source": "he'll first.",
+      "cleaned": "heal first."
+    },
+    "1055": {
+      "source": "here worms",
+      "cleaned": "Cure Wounds"
+    },
+    "1060": {
+      "source": "yeah and tell you. Here",
+      "cleaned": "[[yeah and tell you. Here]]"
+    },
+    "1063": {
+      "source": "war hammer until you hear a voice, and for a mercy,",
+      "cleaned": "war hammer until you hear a voice, [[and for a mercy]],"
+    },
+    "1070": {
+      "source": "I say, wristwin, brawn anvil of the Artist Mountains,",
+      "cleaned": "I say, Riswynn Brawnanvil of the Ardith Mountains,"
+    },
+    "1071": {
+      "source": "what she's doing here,",
+      "cleaned": "What are you doing here?"
+    },
+    "1072": {
+      "source": "you see, like kind of beginning, like peering out from the cave. This, like old dwarf, like leading on a staff um long, dusty, unkempt white beard, kind of squinting a little bit",
+      "cleaned": "you see, like kind of beginning, like peering out from the cave. This, like old dwarf, like leaning on a staff um long, dusty, unkempt white beard, kind of squinting a little bit"
+    },
+    "1073": {
+      "source": "like walks a little bit forward, and like taps your armor with a stash.",
+      "cleaned": "like walks a little bit forward, and like taps your armor with his staff."
+    },
+    "1075": {
+      "source": "indeed! That's what you want. Me.",
+      "cleaned": "indeed! [[That’s what you want. Me]]."
+    },
+    "1083": {
+      "source": "sign",
+      "cleaned": "[[sign]]"
+    },
+    "1088": {
+      "source": "Come, set.",
+      "cleaned": "Come, sit."
+    },
+    "1091": {
+      "source": "more rizwinds.",
+      "cleaned": "more Riswynns."
+    },
+    "1097": {
+      "source": "I mean, he's all. But he's probably past two hundred.",
+      "cleaned": "I mean, he's old. But he's probably past two hundred."
+    },
+    "1099": {
+      "source": "i'll offer on the pint. Then, of course,",
+      "cleaned": "i'll offer him a pint. Then, of course,"
+    },
+    "1101": {
+      "source": "Sort of tops a chair riz when set",
+      "cleaned": "Sort of taps a chair. Riswynn, sit"
+    },
+    "1102": {
+      "source": "rizwin, and he looks over it. Raf us",
+      "cleaned": "Riswynn, and he looks over at Rothfis"
+    },
+    "1103": {
+      "source": "for you, Rizzwin.",
+      "cleaned": "for you, Riswynn."
+    },
+    "1104": {
+      "source": "Ah, yeah, thanks very much. That's quite quite kind of you. The best seat in the house I can see. Well, I've got the best pine to veil you've had in. Well, probably a hundred years, I bet,",
+      "cleaned": "Ah, yeah, thanks very much. That's quite quite kind of you. The best seat in the house I can see. Well, I've got the best pint of ale you've had in. Well, probably a hundred years, I bet,"
+    },
+    "1105": {
+      "source": "and he kind of reaches over any",
+      "cleaned": "and he kind of reaches over and he"
+    },
+    "1106": {
+      "source": "he takes a Stephanie",
+      "cleaned": "he takes a sip and he"
+    },
+    "1113": {
+      "source": "stone a they call that",
+      "cleaned": "[[stone a they call that]]"
+    },
+    "1115": {
+      "source": "stone fist.",
+      "cleaned": "Stonefist."
+    },
+    "1121": {
+      "source": "how Graham and I used to go",
+      "cleaned": "Hagrim and I used to go"
+    },
+    "1125": {
+      "source": "my hand",
+      "cleaned": "[[my hand]]"
+    },
+    "1129": {
+      "source": "Meet around it? You roast",
+      "cleaned": "Meat around it? You roast"
+    },
+    "1135": {
+      "source": "at the finest rose spit.",
+      "cleaned": "at the finest roast spit."
+    },
+    "1136": {
+      "source": "I used to set",
+      "cleaned": "I used to sit"
+    },
+    "1138": {
+      "source": "since Ah,",
+      "cleaned": "says, Ah,"
+    },
+    "1140": {
+      "source": "Well, I should hope so. I do it myself.",
+      "cleaned": "Well, I should hope so. I brew it myself."
+    },
+    "1141": {
+      "source": "Stone, when",
+      "cleaned": "[[Stone, when]]"
+    },
+    "1143": {
+      "source": "He looks at tomorrow.",
+      "cleaned": "He looks at Thror."
+    },
+    "1145": {
+      "source": "I came in with the Brisbane some thrower",
+      "cleaned": "I came in with the Riswynns. I’m Thror"
+    },
+    "1146": {
+      "source": "for our resign.",
+      "cleaned": "Thror, [[resign]]."
+    },
+    "1153": {
+      "source": "Okay, you're still not the Yale.",
+      "cleaned": "Okay, [[you’re still not the Yale]]."
+    },
+    "1157": {
+      "source": "Pokes in you again.",
+      "cleaned": "Pokes at you again."
+    },
+    "1159": {
+      "source": "Stonewind can't be dead",
+      "cleaned": "[[Stonewind]] can't be dead"
+    },
+    "1160": {
+      "source": "gaps",
+      "cleaned": "Taps"
+    },
+    "1161": {
+      "source": "right like tops of this is stick on them,",
+      "cleaned": "right like taps with his stick on,"
+    },
+    "1162": {
+      "source": "marched his armor, and it's like playing, playing playing, and like starts like trying to play a tune on your armor.",
+      "cleaned": "Merash’s armor, and it's like pling, pling, pling, and like starts like trying to play a tune on your armor."
+    },
+    "1163": {
+      "source": "It takes that this up",
+      "cleaned": "[[It takes that this up]]"
+    },
+    "1166": {
+      "source": "the balls that would play in the morning, and the night",
+      "cleaned": "the bells that would play in the morning, and the night"
+    },
+    "1169": {
+      "source": "Mary's love that sound",
+      "cleaned": "[[Mary’s love]] that sound"
+    },
+    "1171": {
+      "source": "How are you?",
+      "cleaned": "[[How are you]]?"
+    },
+    "1172": {
+      "source": "I am mirash rizwin of the bells.",
+      "cleaned": "I am Merash, Riswynn of the bells."
+    },
+    "1177": {
+      "source": "Takes another sip of now.",
+      "cleaned": "Takes another sip of [[now]]."
+    },
+    "1178": {
+      "source": "Cops on the cask,",
+      "cleaned": "Taps on the cask,"
+    },
+    "1180": {
+      "source": "perhaps on the stone,",
+      "cleaned": "taps on the stone,"
+    },
+    "1184": {
+      "source": "Thanks another step.",
+      "cleaned": "Takes another sip."
+    },
+    "1187": {
+      "source": "Let's get it.",
+      "cleaned": "[[Let’s get it]]."
+    },
+    "1195": {
+      "source": "convinced, Hagam to go. He",
+      "cleaned": "convinced, Hagrim to go. He"
+    },
+    "1196": {
+      "source": "it came back from the war. Changed.",
+      "cleaned": "He came back from the war. Changed."
+    },
+    "1201": {
+      "source": "takes another step. Um",
+      "cleaned": "takes another sip. Um"
+    },
+    "1208": {
+      "source": "Thorn teller so",
+      "cleaned": "[[Thorn teller]] so"
+    },
+    "1212": {
+      "source": "Takes another step.",
+      "cleaned": "Takes another sip."
+    },
+    "1223": {
+      "source": "i'll dry",
+      "cleaned": "all dry"
+    },
+    "1226": {
+      "source": "we are.",
+      "cleaned": "[[we are]]."
+    },
+    "1227": {
+      "source": "This is Cave doesn't this doesn't? Look right.",
+      "cleaned": "This cave doesn't this doesn't? Look right."
+    },
+    "1236": {
+      "source": "takes takes another step. I",
+      "cleaned": "takes takes another sip. I"
+    },
+    "1248": {
+      "source": "The farmers were gone",
+      "cleaned": "The [[farmers]] were gone"
+    },
+    "1252": {
+      "source": "Hagrim took us away. He asked sight.",
+      "cleaned": "Hagrim took us away. [[He asked sight]]."
+    },
+    "1258": {
+      "source": "taps on that tries to like Stand up, and he's like sort of wobbles a little bit. It kind of slips and reaches out and grabs onto Brisbane's armor and sort of",
+      "cleaned": "taps on that tries to like Stand up, and he's like sort of wobbles a little bit. It kind of slips and reaches out and grabs onto Riswynn’s armor and sort of"
+    },
+    "1259": {
+      "source": "proving himself up and looks around.",
+      "cleaned": "propping himself up and looks around."
+    },
+    "1264": {
+      "source": "some sort of dream that Hagram is having or",
+      "cleaned": "some sort of dream that Hagrim is having or"
+    },
+    "1267": {
+      "source": "Maybe some cheese at help yours and i'll. I'll give them some of the same cheese I've been handing out.",
+      "cleaned": "Maybe some cheese would help yours and i'll. I'll give them some of the same cheese I've been handing out."
+    },
+    "1276": {
+      "source": "does Hagrim now",
+      "cleaned": "does Hagrim know"
+    },
+    "1277": {
+      "source": "like straight at?",
+      "cleaned": "looks straight at?"
+    },
+    "1278": {
+      "source": "Ah raw? This",
+      "cleaned": "Ah Rothfis"
+    },
+    "1283": {
+      "source": "I'm. From Sharon.",
+      "cleaned": "I'm. From Chardon."
+    },
+    "1287": {
+      "source": "I haven't talked about Charter, and he",
+      "cleaned": "[[I haven’t talked about Charter]], and he"
+    },
+    "1288": {
+      "source": "fought with the Mages and the Great war.",
+      "cleaned": "fought with the Mages in the Great War."
+    },
+    "1292": {
+      "source": "looking out over the planes up in the",
+      "cleaned": "looking out over the plains up in the"
+    },
+    "1295": {
+      "source": "darn to her was being built and",
+      "cleaned": "[[darn to her]] was being built and"
+    },
+    "1298": {
+      "source": "it's go down bad",
+      "cleaned": "[[it’s go down bad]]"
+    },
+    "1303": {
+      "source": "but some",
+      "cleaned": "with some"
+    },
+    "1310": {
+      "source": "no, it's just tentacles,",
+      "cleaned": "[[no, it’s just tentacles]],"
+    },
+    "1313": {
+      "source": "socket's brain out there",
+      "cleaned": "suck its brain out"
+    },
+    "1315": {
+      "source": "they would burn to the fires,",
+      "cleaned": "they would burn in the fires,"
+    },
+    "1317": {
+      "source": "I think I might be getting a sense of what might have happened. But would Rufus have any exposure to",
+      "cleaned": "I think I might be getting a sense of what might have happened. But would Rothfis have any exposure to"
+    },
+    "1321": {
+      "source": "You can met again slightly,",
+      "cleaned": "You can metagame slightly,"
+    },
+    "1323": {
+      "source": "I mean. Brisbane's been some places, and it's not being familiar, too.",
+      "cleaned": "I mean. Riswynn’s been some places, and it's [[not being familiar, too]]."
+    },
+    "1324": {
+      "source": "So so Hegram might have met one of these tentacled horrors, and maybe that's why he turned.",
+      "cleaned": "So so Hagrim might have met one of these tentacled horrors, and maybe that's why he turned."
+    },
+    "1327": {
+      "source": "His eyes are different",
+      "cleaned": "His eyes were different"
+    },
+    "1332": {
+      "source": "Do you think there's something else inside him, highlighting his body. Then",
+      "cleaned": "Do you think there's something else inside him, piloting his body. Then"
+    },
+    "1338": {
+      "source": "Did Hegrim send you?",
+      "cleaned": "Did Hagrim send you?"
+    },
+    "1339": {
+      "source": "We were sent? He turned on the room",
+      "cleaned": "We were sent? [[He turned on the room]]"
+    },
+    "1341": {
+      "source": "writing with Nora, and our lion broke. The trolls got through, and he turned on us",
+      "cleaned": "fighting with Nora, and our line broke. The trolls got through, and he turned on us"
+    },
+    "1347": {
+      "source": "It was not a dwarf looking out at his eyes.",
+      "cleaned": "It was not a dwarf looking out of his eyes."
+    },
+    "1351": {
+      "source": "del? Would you like another pint?",
+      "cleaned": "Del? Would you like another pint?"
+    },
+    "1355": {
+      "source": "Look in your handmade.",
+      "cleaned": "Look in your hand, mate."
+    },
+    "1356": {
+      "source": "It's like shaking looks down",
+      "cleaned": "He’s like shaking looks down"
+    },
+    "1365": {
+      "source": "Say from the cave. Maybe.",
+      "cleaned": "Safe in the cave. Maybe."
+    },
+    "1366": {
+      "source": "Yeah, the case should be safe.",
+      "cleaned": "Yeah, the cave should be safe."
+    },
+    "1370": {
+      "source": "trust,",
+      "cleaned": "trolls,"
+    },
+    "1373": {
+      "source": "I go. Um!",
+      "cleaned": "[[I go]]. Um!"
+    },
+    "1382": {
+      "source": "Prior,",
+      "cleaned": "Fire,"
+    },
+    "1394": {
+      "source": "them down there",
+      "cleaned": "[[them down there]]"
+    },
+    "1399": {
+      "source": "fighting,",
+      "cleaned": "[[fighting]],"
+    },
+    "1401": {
+      "source": "he is different.",
+      "cleaned": "he was different."
+    },
+    "1404": {
+      "source": "where it takes a sip of Aazil.",
+      "cleaned": "where he takes a sip of his ale."
+    },
+    "1406": {
+      "source": "with rest.",
+      "cleaned": "Let’s rest."
+    },
+    "1408": {
+      "source": "uh resident. You can get back. Uh",
+      "cleaned": "uh Riswynn. You can get back. Uh"
+    },
+    "1411": {
+      "source": "so you can use your channel to be able to get back spell slots.",
+      "cleaned": "so you can use your Channel Divinity to get back spell slots."
+    },
+    "1414": {
+      "source": "Then you get back your general divinity on your short rest",
+      "cleaned": "Then you get back your Channel Divinity on your short rest"
+    },
+    "1422": {
+      "source": "Um. And You can also roll head dice, and that um",
+      "cleaned": "Um. And You can also roll hit dice, and that um"
+    },
+    "1424": {
+      "source": "sure it's one of the magic items you have. Um! Lets you regain five sorcery points on a when you will hit points to it dice during a short rest.",
+      "cleaned": "Thror, it’s one of the magic items you have. Um! Lets you regain five sorcery points on a when you roll hit points with hit dice during a short rest."
+    },
+    "1425": {
+      "source": "So if you want to use sorcery points to get back spells lots you can",
+      "cleaned": "So if you want to use sorcery points to get back spell slots you can"
+    },
+    "1426": {
+      "source": "get fought. You can restore five sorcery points.",
+      "cleaned": "[[get fought]]. You can restore five sorcery points."
+    },
+    "1428": {
+      "source": "Him. Does my Max Hp. Return,",
+      "cleaned": "Tim, Does my Max Hp. Return,"
+    },
+    "1432": {
+      "source": "once I want down how you'll take the the",
+      "cleaned": "once I went down, how’d you all take the, the"
+    },
+    "1435": {
+      "source": "necropolis",
+      "cleaned": "[[necropolis]]"
+    },
+    "1443": {
+      "source": "Oh, should I make his magic his weapon? Do they have any weapons at all?",
+      "cleaned": "Oh, should I make his, magic his weapon? Do they have any weapons at all?"
+    },
+    "1445": {
+      "source": "my fists, my fists are magic, and then I've got just like like I got a short club or a short sort of some darts. But",
+      "cleaned": "my fists, my fists are magic, and then I've got just like like I got a short club or a shortsword and some darts. But"
+    },
+    "1446": {
+      "source": "I mean the problem is you could make one dark magic, but it wouldn't",
+      "cleaned": "I mean the problem is you could make one dart magic, but it wouldn't"
+    },
+    "1448": {
+      "source": "Yeah. And the short sort, I guess, would be in the same boat. It would be a close close quarters attack right?",
+      "cleaned": "Yeah. And the shortsword, I guess, would be in the same boat. It would be a close close quarters attack right?"
+    },
+    "1450": {
+      "source": "It'll be similar to the dar. Yeah, let's see if I've got",
+      "cleaned": "It'll be similar to the dart. Yeah, let's see if I've got"
+    },
+    "1452": {
+      "source": "Yeah, I can hold Now it's scatters.",
+      "cleaned": "Yeah, [[I can hold Now it’s scatters]]."
+    },
+    "1454": {
+      "source": "there's I guess there's no harm in making one magic, one magic dark",
+      "cleaned": "there's I guess there's no harm in making one magic, one magic dart"
+    },
+    "1471": {
+      "source": "the that priest along would be helpful",
+      "cleaned": "the mad priest along would be helpful"
+    },
+    "1472": {
+      "source": "like, maybe, if there's any of pilgrim left in there. Then that connection could be made. But",
+      "cleaned": "like, maybe, if there's any of Hagrim left in there. Then that connection could be made. But"
+    },
+    "1477": {
+      "source": "I really trying to keep track of the Greece. It would be hard",
+      "cleaned": "I feel like trying to keep track of the priest. It would be hard"
+    },
+    "1479": {
+      "source": "I feel like trying to keep track of the priests would be really hard.",
+      "cleaned": "I feel like trying to keep track of the priest would be really hard."
+    },
+    "1481": {
+      "source": "I'm not in the end to it. I just i'm sorry",
+      "cleaned": "I’m not against it. I just i'm sorry"
+    },
+    "1486": {
+      "source": "Talk about. Dell, talk about the bells, talk about the",
+      "cleaned": "Talk about. Del, talk about the bells, talk about the"
+    },
+    "1490": {
+      "source": "troubled war hero. I'm not really sure how to unpossess somebody of mind playing",
+      "cleaned": "troubled war hero. I'm not really sure how to unpossess somebody of a mind flayer"
+    },
+    "1491": {
+      "source": "if they're going back from that like, do we",
+      "cleaned": "[[if they’re going back from that]] like, do we"
+    },
+    "1495": {
+      "source": "Well, if the mindset is more like a parasite.",
+      "cleaned": "Well, if the [[mindset]] is more like a parasite."
+    },
+    "1499": {
+      "source": "So one thing that I think you probably at least ris, one would know is that",
+      "cleaned": "So one thing that I think you probably at least Riswynn would know is that"
+    },
+    "1501": {
+      "source": "okay? So if this guy's a ghost, all the wrist wins.",
+      "cleaned": "okay? So if this guy's a ghost, all the Riswynns."
+    },
+    "1502": {
+      "source": "Father, it is",
+      "cleaned": "[[Father, it is]]"
+    },
+    "1503": {
+      "source": "I love. Where's when?",
+      "cleaned": "[[I love]]. Riswynn?"
+    },
+    "1507": {
+      "source": "like there's not a a mindflare. Can't",
+      "cleaned": "like there's not a a mind flayer. Can't"
+    },
+    "1511": {
+      "source": "like that's it like If this is like the soul of the Hagram trapped in this land,",
+      "cleaned": "like that's it like If this is like the soul of the Hagrim trapped in this land,"
+    },
+    "1516": {
+      "source": "Yeah, there's going to be some like thing glommed on to the brain of the ghost like possessing It solves all, or there's not.",
+      "cleaned": "Yeah, there's going to be some like thing glommed on to the brain of the ghost like [[possessing It solves all]], or there's not."
+    },
+    "1518": {
+      "source": "come to the hypothesis that, like the fact that this claim exists, is is somehow related to the possession and the mind player. But",
+      "cleaned": "come to the hypothesis that, like the fact that this plane exists, is is somehow related to the possession and the mind flayer. But"
+    },
+    "1522": {
+      "source": "whatever is left of Hagram is either going to be",
+      "cleaned": "whatever is left of Hagrim is either going to be"
+    },
+    "1523": {
+      "source": "that so? The way that ghosts and not dead, and all these, like hauntings, exist. Right is like some representation of the soul of the creature that died that",
+      "cleaned": "that so? The way that ghosts and undead, and all these, like hauntings, exist. Right is like some representation of the soul of the creature that died that"
+    },
+    "1526": {
+      "source": "if it's Undead, at least from what you know of mine players, The way they work is by messing with your brain. But if you're a ghost, you don't have.",
+      "cleaned": "if it's Undead, at least from what you know of mind flayers, The way they work is by messing with your brain. But if you're a ghost, you don't have."
+    },
+    "1530": {
+      "source": "Just that Hagram's ghost is hagram's ghost, or it will obviously not be our group's ghost. When you look at it.",
+      "cleaned": "Just that Hagrim’s ghost is Hagrim’s ghost, or it will obviously not be Hagrim’s ghost. When you look at it."
+    },
+    "1541": {
+      "source": "or you give him the chalice, while the good. Pour the chalice on him while he's alive, and the gods take him back, and he's,",
+      "cleaned": "or you give him the chalice, [[while the good]]. Pour the chalice on him while he's alive, and the gods take him back, and he's,"
+    },
+    "1544": {
+      "source": "Okay, so we can sorry. Go ahead so either kill him and challenge him, and then he is like,",
+      "cleaned": "Okay, so we can sorry. Go ahead so either kill him and chalice him, and then he is like,"
+    },
+    "1545": {
+      "source": "doomed to hell or for Charleston, while he's alive as a ghost, and then he has a chance to be redeemed in the eyes of the god.",
+      "cleaned": "doomed to hell or pour the chalice on him, while he's alive as a ghost, and then he has a chance to be redeemed in the eyes of the god."
+    },
+    "1547": {
+      "source": "Our",
+      "cleaned": "[[Our]]"
+    },
+    "1548": {
+      "source": "get repaid, regardless of how we chat, List him.",
+      "cleaned": "get repaid, regardless of how we chalice him."
+    },
+    "1551": {
+      "source": "The Ivo. We run in through it on a",
+      "cleaned": "[[The Ivo. We run in through it on a]]"
+    },
+    "1553": {
+      "source": "It's got the best aim.",
+      "cleaned": "Who’s got the best aim."
+    },
+    "1554": {
+      "source": "You look at jealous. The jealous water balloon.",
+      "cleaned": "You look at chalice. The chalice water balloon."
+    },
+    "1557": {
+      "source": "Pretend i'm taking a lead. No, that's",
+      "cleaned": "Pretend i'm taking a leak. No, that's"
+    },
+    "1560": {
+      "source": "true buddies,",
+      "cleaned": "troll buddies,"
+    },
+    "1566": {
+      "source": "He's alive? I was gonna say, can we tell us multiple people? Because i'd like to get the mad priest at it here? But maybe if he's alive, it's different.",
+      "cleaned": "He's alive? I was gonna say, can we chalice multiple people? Because i'd like to get the mad priest out of here? But maybe if he's alive, it's different."
+    },
+    "1567": {
+      "source": "I mean. I've been wondering about cellos, and people can do certain handing out fail, like I could just",
+      "cleaned": "I mean. I've been wondering about chalice, and people can [[do certain handing out fail]], like I could just"
+    },
+    "1569": {
+      "source": "But if they both with the chalice, then we might be",
+      "cleaned": "But if they poof with the chalice, then we might be"
+    },
+    "1570": {
+      "source": "I. You know where they come to.",
+      "cleaned": "[[I. You know where they come to]]."
+    },
+    "1577": {
+      "source": "So we got to go to had from first, I think, and then we can.",
+      "cleaned": "So we got to go to Hagrim first, I think, and then we can."
+    },
+    "1579": {
+      "source": "drinking party with the recipe cold.",
+      "cleaned": "drinking party with the rest of Bleakhold."
+    },
+    "1586": {
+      "source": "I mean as what is this guy's real name? If we're not calling a mad priest, so don't",
+      "cleaned": "I mean as what is this guy's real name? If we're not calling a mad priest, so, Del"
+    },
+    "1587": {
+      "source": "um. I mean, Doug,",
+      "cleaned": "um. I mean, [[Doug]],"
+    },
+    "1592": {
+      "source": "hagrims enough hagrim to not send his trolls to kill his cousin Del,",
+      "cleaned": "Hagrim’s enough Hagrim to not send his trolls to kill his cousin Del,"
+    },
+    "1594": {
+      "source": "Then maybe there's like a good piece of him in there somewhere Access?",
+      "cleaned": "Then maybe there's like a good piece of him in there somewhere I guess?"
+    },
+    "1599": {
+      "source": "whatever well is awake, and otherwise I think we doubt some. Once he's down the",
+      "cleaned": "whatever while he’s awake, and otherwise I think we douse him. Once he's down the"
+    },
+    "1602": {
+      "source": "Mainly. I'm certain we can get some water into or onto him at some point. The problem is whether we have to find our way through the five trolls that he's hanging out with",
+      "cleaned": "Mainly. I'm certain we can get some water into or onto him at some point. The problem is whether we have to fight our way through the five trolls that he's hanging out with"
+    },
+    "1604": {
+      "source": "I would prefer to. Not after that one draw",
+      "cleaned": "I would prefer to. Not after that one troll"
+    },
+    "1605": {
+      "source": "Exactly. But what can we do if they, if he is in there surrounded by drools,",
+      "cleaned": "Exactly. But what can we do if they, if he is in there surrounded by trolls,"
+    },
+    "1607": {
+      "source": "Yeah, a flutter water balloon.",
+      "cleaned": "Yeah, [[a flutter]] water balloon."
+    },
+    "1615": {
+      "source": "overlapping. And now I have to switch back and forth between windows to see people's, spaces, or what's going on in the battle.",
+      "cleaned": "overlapping. And now I have to switch back and forth between windows to see people’s faces, or what's going on in the battle."
+    },
+    "1633": {
+      "source": "so it guess it was like almost impossible to get it to make the legs of a giant statue.",
+      "cleaned": "so I guess it was like almost impossible to get it to make the legs of a giant statue."
+    },
+    "1638": {
+      "source": "So you leave delves the mad priests cave",
+      "cleaned": "So you leave Del’s, the mad priest’s cave"
+    },
+    "1643": {
+      "source": "giant statue of the stone-born warrior that sits on the plains of Dunbar. The",
+      "cleaned": "giant statue of the stone-born warrior that sits on the plains of Dunmar. The"
+    },
+    "1654": {
+      "source": "layer, and also hanging around. You can see this from, you know,",
+      "cleaned": "lair, and also hanging around. You can see this from, you know,"
+    },
+    "1656": {
+      "source": "ping around the outside of the statue you can see maybe ten or fifteen",
+      "cleaned": "hanging around the outside of the statue you can see maybe ten or fifteen"
+    },
+    "1664": {
+      "source": "one like almost looks like a human, a of of some sort carrying a staff, and there's like a vague sort of sense of fire around its head.",
+      "cleaned": "one like almost looks like a human, [[a of of some sort]] carrying a staff, and there's like a vague sort of sense of fire around its head."
+    },
+    "1670": {
+      "source": "found it.",
+      "cleaned": "[[found it]]."
+    },
+    "1684": {
+      "source": "the plan of the battle of the battle that you've been hearing about. They were fighting. The doors got caught outside the fortress. They were fighting.",
+      "cleaned": "the plan of the battle of the battle that you've been hearing about. They were fighting. The dwarves got caught outside the fortress. They were fighting."
+    },
+    "1685": {
+      "source": "Nora's sparks over, was guarding the flank and",
+      "cleaned": "Nora Silverspark, was guarding the flank and"
+    },
+    "1686": {
+      "source": "broke, then was attacked by the Hagram. But then, presumably the rest of the dwarfs were treated into the fortress, and that's your Hagram at his end.",
+      "cleaned": "broke, then was attacked by the Hagrim. But then, presumably the rest of the dwarfs retreated into the fortress, and that’s where Hagrim met his end."
+    },
+    "1696": {
+      "source": "Do we need to avoid the spirits because they're our first obstacle, or they're like that goes to pilgrim's past who are haunting him, and they're not going to bother us, and so we can just go straight.",
+      "cleaned": "Do we need to avoid the spirits because they're our first obstacle, or they're like that ghosts of Hagrim’s past who are haunting him, and they're not going to bother us, and so we can just go straight."
+    },
+    "1697": {
+      "source": "I hope it's the second one, because I don't really want to buy the battle to get to the battle.",
+      "cleaned": "I hope it's the second one, because I don't really want to fight a battle to get to the battle."
+    },
+    "1699": {
+      "source": "so we could just try, because I can't really think of any way to avoid a whole bunch of blind ghosts like ten,",
+      "cleaned": "so we could just try, because I can't really think of any way to avoid a whole bunch of flying ghosts like ten,"
+    },
+    "1701": {
+      "source": "Yeah. Does anyone have anything that could aid in in stealth a password f trace, or",
+      "cleaned": "Yeah. Does anyone have anything that could aid in in stealth a Pass without Trace, or"
+    },
+    "1711": {
+      "source": "you play with fire if it's around, but I can't make it",
+      "cleaned": "I can play with fire if it's around, but I can't make it"
+    },
+    "1716": {
+      "source": "down in like, down in the for itself.",
+      "cleaned": "down in like, down in the fort itself."
+    },
+    "1733": {
+      "source": "but it like you've waited across it. It never really gets more than about sixty deep,",
+      "cleaned": "but it like you've waded across it. It never really gets more than about six feet deep,"
+    },
+    "1736": {
+      "source": "between four and sixty deep, is pretty substantial.",
+      "cleaned": "between four and six feet deep, is pretty substantial."
+    },
+    "1744": {
+      "source": "to have a mechanical question about",
+      "cleaned": "So I have a mechanical question about"
+    },
+    "1746": {
+      "source": "You can't twin something that targets more than one person, so you can twin a third-level spot",
+      "cleaned": "You can't twin something that targets more than one person, so you can twin a third-level spell"
+    },
+    "1747": {
+      "source": "You can get a bunch of cats there, but you only get two, either one,",
+      "cleaned": "You can get a bunch of caveats there, but you only get two, either one,"
+    },
+    "1750": {
+      "source": "yourself from one other.",
+      "cleaned": "yourself and one other."
+    },
+    "1753": {
+      "source": "the way we go down the whole",
+      "cleaned": "away we go down the hole"
+    },
+    "1761": {
+      "source": "Did you sign the ghost cheek.",
+      "cleaned": "[[Did you sign the ghost cheek]]."
+    },
+    "1772": {
+      "source": "huge arms that dripped out almost to the floor, but they look like water falling down.",
+      "cleaned": "huge arms that drape down almost to the floor, but they look like water falling down."
+    },
+    "1773": {
+      "source": "Maybe this goes",
+      "cleaned": "Maybe these ghosts"
+    },
+    "1774": {
+      "source": "companions or friends that have died in battle, that he or a Grex, not saving, perhaps, that one drowned. Perhaps the other one got burned.",
+      "cleaned": "companions or friends that have died in battle, that he regrets, not saving, perhaps, that one drowned. Perhaps the other one got burned."
+    },
+    "1775": {
+      "source": "That's sort of what I was thinking if they were people who are hunting him, so Maybe they won't bother us. Of course, if they do bother us,",
+      "cleaned": "That's sort of what I was thinking if they were people who are haunting him, so Maybe they won't bother us. Of course, if they do bother us,"
+    },
+    "1783": {
+      "source": "Here's going first.",
+      "cleaned": "Who’s going first?"
+    },
+    "1795": {
+      "source": "You had so many chances to not be surprised by that troll. So many bad perception roles",
+      "cleaned": "You had so many chances to not be surprised by that troll. So many bad perception rolls"
+    },
+    "1796": {
+      "source": "it. Doesn't help when there's only a one on the dance.",
+      "cleaned": "it. Doesn't help when there's only a one on the dice."
+    },
+    "1799": {
+      "source": "Ah, so there's maybe twelve of these spirits now. You've now seen, like all of the ones that were like. They were spread out before, but now all twelve of them are sort of gathered, and are beginning to sort of cluster towards this one.",
+      "cleaned": "Ah, so there's maybe twelve of these spirits now. You've now seen, like all of the ones that were like. They were spread out before, but now all twelve of them are sort of gathered, and are beginning to sort of cluster towards Riswynn."
+    },
+    "1804": {
+      "source": "I'll come up to stem next to Rizwyn.",
+      "cleaned": "I'll come up to stand next to Riswynn."
+    },
+    "1807": {
+      "source": "Don't blame",
+      "cleaned": "[[Don’t blame]]"
+    },
+    "1811": {
+      "source": "some of them, like the one that from a distance look like kind of swirling one. Or you can see this is like it's actually like almost",
+      "cleaned": "some of them, like the one that from a distance look like kind of swirling water you can see this is like it's actually like almost"
+    },
+    "1816": {
+      "source": "It's it's like flickering so that it's hard to see what anyone images, but it but it seems to be kind of different um perspectives, like looking out across a sort of open land from a high point, just kind of like clouds rolling past that kind of",
+      "cleaned": "It's it's like flickering so that it's hard to see what any one image is, but it but it seems to be kind of different um perspectives, like looking out across a sort of open land from a high point, just kind of like clouds rolling past that kind of"
+    },
+    "1817": {
+      "source": "flickering fishing, and there's another one. You almost hear the sound of the",
+      "cleaned": "flickering vision, and there's another one. You almost hear the sound of the"
+    },
+    "1818": {
+      "source": "ghostly bowels from it.",
+      "cleaned": "ghostly bells from it."
+    },
+    "1827": {
+      "source": "pointed this. I pointed the beer one, and I say, leave that one for me. If we go, let's take a moment.",
+      "cleaned": "I point at this. I point at the beer one, and I say, leave that one for me. If we go, let's take a moment."
+    },
+    "1828": {
+      "source": "The ghost of the ghosts of Dwarves dumb's past.",
+      "cleaned": "The ghost of the ghosts of dwarvendom’s past."
+    },
+    "1830": {
+      "source": "this and show the the challenge",
+      "cleaned": "[[this]] and show the, the chalice"
+    },
+    "1831": {
+      "source": "All right. I'm. Sure them the jealous",
+      "cleaned": "All right. I’ll show them the chalice"
+    },
+    "1850": {
+      "source": "Let's take this moment to cast Major. I'm around myself.",
+      "cleaned": "Let's take this moment to cast Mage Armor on myself."
+    },
+    "1855": {
+      "source": "that rolling initiative or anything",
+      "cleaned": "without rolling initiative or anything"
+    },
+    "1856": {
+      "source": "that's loud.",
+      "cleaned": "that’s allowed."
+    },
+    "1858": {
+      "source": "Did they have the same necrotic aura around them. No, Oh, thank goodness, it's a ghost! I can budge",
+      "cleaned": "Did they have the same necrotic aura around them. No, Oh, thank goodness, it's a ghost! I can punch"
+    },
+    "1860": {
+      "source": "We check the door, and I start",
+      "cleaned": "[[We check the door]], and I start"
+    },
+    "1861": {
+      "source": "all right. So they they close in. Rizman begins to speak. What is your,",
+      "cleaned": "all right. So they they close in. Riswynn begins to speak. What is your,"
+    },
+    "1863": {
+      "source": "So I assume you're using a channel today. In a year I am channeling divinity to pray. Nice, loud prayer as we run through the door, so let's see one",
+      "cleaned": "So I assume you're using a Channel Divinity? I am channeling divinity to pray. Nice, loud prayer as we run through the door, so let's see one"
+    },
+    "1869": {
+      "source": "all right, my two favorite beer in this twenty one that looks like a sort of Bourbon warrior,",
+      "cleaned": "all right, [[my two favorite beer in this twenty one]] that looks like a sort of dwarven warrior,"
+    },
+    "1873": {
+      "source": "Um! Does the dwarf and warrior look like it could be",
+      "cleaned": "Um! Does the dwarven warrior look like it could be"
+    },
+    "1874": {
+      "source": "hagrim from what we've heard.",
+      "cleaned": "Hagrim from what we've heard."
+    },
+    "1876": {
+      "source": "This one has like two short swords that light armor have been with heavy armor.",
+      "cleaned": "This one has like two short swords and light armor. Hagrim’s with heavy armor."
+    },
+    "1880": {
+      "source": "close in on you and wait. Who's flying? Roth West is the only one flying right?",
+      "cleaned": "close in on you and wait. Who's flying? Rothfis is the only one flying right?"
+    },
+    "1881": {
+      "source": "Yeah, and i'm like dive bomb in the door on a forty, five-degree angle. Basically.",
+      "cleaned": "Yeah, and i'm like dive-bombing the door on a forty, five-degree angle. Basically."
+    },
+    "1883": {
+      "source": "they are now. So you're just kind of the rest of you are running past them. So they've now closed in on you. You're sort of in Bailey.",
+      "cleaned": "they are now. So you're just kind of the rest of you are running past them. So they've now closed in on you. You're sort of in melee."
+    },
+    "1884": {
+      "source": "You're welcome to. Just try and run through them. They will get you the opportunity attacks if they",
+      "cleaned": "You're welcome to. Just try and run through them. They will get the opportunity attacks if they"
+    },
+    "1888": {
+      "source": "two of them are gonna swing at rizwin.",
+      "cleaned": "two of them are gonna swing at Riswynn."
+    },
+    "1890": {
+      "source": "Whoa! Twenty-three It's very hard to hit everyone.",
+      "cleaned": "Whoa! Twenty-three It's very hard to hit [[everyone]]."
+    },
+    "1892": {
+      "source": "the chronic damage, and you have to make any constitution saving. So you,",
+      "cleaned": "necrotic damage, and you have to make a Constitution saving throw,"
+    },
+    "1896": {
+      "source": "roar.",
+      "cleaned": "Thror."
+    },
+    "1900": {
+      "source": "fourteen points of necrotic damage, and you must also have to make a constitution saving.",
+      "cleaned": "fourteen points of necrotic damage, and you must also have to make a Constitution saving throw."
+    },
+    "1902": {
+      "source": "The last one swing at Marish. That's a twelve that misses,",
+      "cleaned": "The last one swing at Merash. That's a twelve that misses,"
+    },
+    "1906": {
+      "source": "the entry way here. This likes small room that you've entered into has a",
+      "cleaned": "the entry way here. This like small room that you've entered into has a"
+    },
+    "1912": {
+      "source": "and use my healing portion.",
+      "cleaned": "and use my healing potion."
+    },
+    "1914": {
+      "source": "Told you we should have been flying. I got through a problem. It was lovely. It",
+      "cleaned": "Told you we should have been flying. I got through no problem. It was lovely. It"
+    },
+    "1925": {
+      "source": "Hey? Loss",
+      "cleaned": "[[Hey? Loss]]"
+    },
+    "1926": {
+      "source": "How beat up, are you, Marish?",
+      "cleaned": "How beat up, are you, Merash?"
+    },
+    "1929": {
+      "source": "He'll then.",
+      "cleaned": "[[He’ll then]]."
+    },
+    "1931": {
+      "source": "my new Max hit points of not very high.",
+      "cleaned": "my new Max hit points are not very high."
+    },
+    "1932": {
+      "source": "Yeah, I'm doing it. Okay. I have a portion of healing. If that will be helpful. I know how to reverse the Max hit points thing.",
+      "cleaned": "Yeah, I'm doing it. Okay. I have a potion of healing. If that will be helpful. [[I know how]] to reverse the Max hit points thing."
+    },
+    "1939": {
+      "source": "Well, I've been waiting a long time to try this out. It's done back, and I just chug this beer, and I grow",
+      "cleaned": "Well, I've been waiting a long time to try this out. Stand back, and I just chug this beer, and I grow"
+    },
+    "1940": {
+      "source": "at full size. I have been enlarged",
+      "cleaned": "[[at full size]]. I have been enlarged"
+    },
+    "1942": {
+      "source": "Four hours of big office. Get ready for it.",
+      "cleaned": "Four hours of big Rothfis. Get ready for it."
+    },
+    "1950": {
+      "source": "Make a dexterity saving to me.",
+      "cleaned": "Make a dexterity saving throw for me."
+    },
+    "1956": {
+      "source": "Are the they are still intact behind me.",
+      "cleaned": "Are the, are they still intact behind me?"
+    },
+    "1974": {
+      "source": "Um! The ceiling is only about six feet here, so big office is like hunched over slightly to stay within the size i'm supermanning when necessary.",
+      "cleaned": "Um! The ceiling is only about six feet here, so big Rothfis is like hunched over slightly to stay within the size i'm supermanning when necessary."
+    },
+    "1976": {
+      "source": "what looks like sealed shot, stone door.",
+      "cleaned": "what looks like sealed shut, stone door."
+    },
+    "1988": {
+      "source": "I've got a portion of gaseous forum. I could",
+      "cleaned": "I've got a Potion of Gaseous Form. I could"
+    },
+    "1991": {
+      "source": "another hemp.",
+      "cleaned": "On the other hand."
+    },
+    "1993": {
+      "source": "I'm not wild about colleagues about anyone going through a door",
+      "cleaned": "I'm not wild about [[colleagues]] about anyone going through a door"
+    },
+    "1995": {
+      "source": "they can't do we necessarily access",
+      "cleaned": "they can't necessarily access"
+    },
+    "2001": {
+      "source": "sturdy, dwarven warriors plus ah plus giant. This:",
+      "cleaned": "sturdy, dwarven warriors plus ah plus giant [[This]]:"
+    },
+    "2002": {
+      "source": "Yeah, I've got the vantage on strength checks. But i'm not very strong to begin with.",
+      "cleaned": "Yeah, I've got advantage on strength checks. But i'm not very strong to begin with."
+    },
+    "2006": {
+      "source": "You're only big ones.",
+      "cleaned": "[[You’re only big ones]]."
+    },
+    "2011": {
+      "source": "brothless, and it like really shutters in it, and it shakes a little bit, but it",
+      "cleaned": "Rothfis, and it like really shudders in it, and it shakes a little bit, but it"
+    },
+    "2012": {
+      "source": "doesn't like budges, but doesn't open, and and what Sorry? Well, Roth is like getting prepared to like pound on the door. Is anybody else doing anything? Are you just kind of standing around watching him, are you?",
+      "cleaned": "doesn't like budges, but doesn't open, and and what Sorry? Well, Rothfis is like getting prepared to like pound on the door. Is anybody else doing anything? Are you just kind of standing around watching him, are you?"
+    },
+    "2013": {
+      "source": "I give you a good natured hearing. On",
+      "cleaned": "I give you a good natured cheering on"
+    },
+    "2023": {
+      "source": "No, you don't share anything.",
+      "cleaned": "No, you don't hear anything."
+    },
+    "2025": {
+      "source": "you marriage. You're sort of standing around. You don't. You don't hear anything, but",
+      "cleaned": "you Merash. You're sort of standing around. You don't. You don't hear anything, but"
+    },
+    "2026": {
+      "source": "you do see like as the as like Roth's pounds on the door.",
+      "cleaned": "you do see like as the as like Rothfis pounds on the door."
+    },
+    "2027": {
+      "source": "You think you see one of the phones move",
+      "cleaned": "You think you see one of the bones move"
+    },
+    "2032": {
+      "source": "Well, maybe perhaps the person on the other side of the door doesn't want to be around the creepy in",
+      "cleaned": "Well, maybe perhaps the person on the other side of the door doesn't want to be around the creepy"
+    },
+    "2033": {
+      "source": "phones",
+      "cleaned": "bones"
+    },
+    "2035": {
+      "source": "Maybe the phones are",
+      "cleaned": "Maybe the bones are"
+    },
+    "2037": {
+      "source": "Um office. What's your? I see",
+      "cleaned": "Um Rothfis, what’s your AC?"
+    },
+    "2040": {
+      "source": "massive bones, kind of leaps up onto you and you, like,",
+      "cleaned": "mass of bones, kind of leaps up onto you and you, like,"
+    },
+    "2041": {
+      "source": "dodge out of the way, and they like, clad over the ground beneath the next to the",
+      "cleaned": "dodge out of the way, and they like, clatter over the ground beneath the next to the"
+    },
+    "2044": {
+      "source": "You'll sell that right.",
+      "cleaned": "You all saw that, right?"
+    },
+    "2045": {
+      "source": "I don't normally. Do that.",
+      "cleaned": "[[I don’t normally]]. Do that."
+    },
+    "2048": {
+      "source": "No, no, no, no. They are attacked.",
+      "cleaned": "No, no, no, no. They are attack."
+    },
+    "2049": {
+      "source": "The door is still shot.",
+      "cleaned": "The door is still shut."
+    },
+    "2053": {
+      "source": "I mean I have a potion of hill giant strength. I could try to be even stronger than Roth. This",
+      "cleaned": "I mean I have a potion of hill giant strength. I could try to be even stronger than Rothfis"
+    },
+    "2061": {
+      "source": "you reload your character. She it should have fixed your strength,",
+      "cleaned": "you reload your character sheet, it should have fixed your strength,"
+    },
+    "2062": {
+      "source": "reload my character. She",
+      "cleaned": "reload my character sheet"
+    },
+    "2066": {
+      "source": "like pound or less strength. Yes,",
+      "cleaned": "like [[pound or less strength]]. Yes,"
+    },
+    "2067": {
+      "source": "we're going to. We roll our strength fitting through. Is that how you do it. Ah,",
+      "cleaned": "we're going to. We roll our Strength saving throw. Is that how you do it. Ah,"
+    },
+    "2072": {
+      "source": "if you're if you're gonna. If you're gonna hit it with shatterstorm, you can roll with advantage because chatter storm. Lake lifts. You",
+      "cleaned": "if you're if you're gonna. If you're gonna hit it with Shatterstorm, you can roll with advantage because Shatterstorm, like, lets. You"
+    },
+    "2074": {
+      "source": "Well, we're kind of desperate as everybody else just yeah over their ears.",
+      "cleaned": "Well, we're kind of desperate as everybody else just, yeah, cover their ears."
+    },
+    "2075": {
+      "source": "I was gonna say that that bones probably can't hear, but I think there might be some real little ones in there. So",
+      "cleaned": "I was gonna say that that bones probably can't hear, but I think there might be some [[real little ones]] in there. So"
+    },
+    "2077": {
+      "source": "So you're using shadow storm. So you're rolling with advantage. Okay,",
+      "cleaned": "So you're using Shatterstorm. So you're rolling with advantage. Okay,"
+    },
+    "2078": {
+      "source": "maybe you shadow, sir.",
+      "cleaned": "[[maybe you]] Shatterstorm."
+    },
+    "2084": {
+      "source": "even with shatterstorm.",
+      "cleaned": "even with Shatterstorm."
+    },
+    "2092": {
+      "source": "They like it being beat upon entirely. Sure,",
+      "cleaned": "[[They like it being beat upon entirely. Sure]],"
+    },
+    "2099": {
+      "source": "Don't, worry. Just staying in this room Makes the bone rubble horse",
+      "cleaned": "Don't, worry. Just staying in this room Makes the bone problem worse"
+    },
+    "2100": {
+      "source": "right? Maybe I should try one more bash with shatterstorm.",
+      "cleaned": "right? Maybe I should try one more bash with Shatterstorm."
+    },
+    "2102": {
+      "source": "There's a lot of wrong going on.",
+      "cleaned": "There's a lot of rolling going on."
+    },
+    "2105": {
+      "source": "price with advantage.",
+      "cleaned": "twice with advantage."
+    },
+    "2113": {
+      "source": "You take eight points of necrotic damage, and they begin pulling rizwin down into the stone pile.",
+      "cleaned": "You take eight points of necrotic damage, and they begin pulling Riswynn down into the stone pile."
+    },
+    "2117": {
+      "source": "Well, Rizwin is restrained. We'll come back from that.",
+      "cleaned": "Well, Riswynn is restrained. We'll come back from that."
+    },
+    "2119": {
+      "source": "what looks like a sort of crudely made, badly imagined throne wrong.",
+      "cleaned": "what looks like a sort of crudely made, badly imagined throne room."
+    },
+    "2127": {
+      "source": "But of course they're just like bones scattered around It's like like they're but they're arranged like, so they're like skeleton, sitting and looking at the prone as as if it's an audience",
+      "cleaned": "But of course they're just like bones scattered around It's like like they're but they're arranged like, so they're like skeleton, sitting and looking at the throne as as if it's an audience"
+    },
+    "2136": {
+      "source": "what appeared to be his like to the",
+      "cleaned": "what appeared to be his like two, the"
+    },
+    "2139": {
+      "source": "He's, he's looking looking sort of angry, and as you, as the skulls are pulling rizwin down,",
+      "cleaned": "He's, he's looking looking sort of angry, and as you, as the skulls are pulling Riswynn down,"
+    },
+    "2141": {
+      "source": "burns this ghost turns, and he floats up into the air slightly",
+      "cleaned": "[[burns]] this ghost turns, and he floats up into the air slightly"
+    },
+    "2146": {
+      "source": "I'm really sorry for the time I have to step up for just a to deal with the kid thing. But i'll be back shortly.",
+      "cleaned": "I'm really sorry for the time I have to step out for just a to deal with the kid thing. But i'll be back shortly."
+    },
+    "2148": {
+      "source": "if combat starts, the first thing I want to do is to spell haste on the tube fighter,",
+      "cleaned": "if combat starts, the first thing I want to do is twin-spell Haste on the two fighters,"
+    },
+    "2150": {
+      "source": "floor.",
+      "cleaned": "[[floor]]."
+    },
+    "2155": {
+      "source": "I told her, is when I",
+      "cleaned": "I pull at Riswynn"
+    },
+    "2157": {
+      "source": "risen. You take another three points of necrotic damage,",
+      "cleaned": "Riswynn. You take another three points of necrotic damage,"
+    },
+    "2159": {
+      "source": "That goes kind of laughs",
+      "cleaned": "That ghost kind of laughs"
+    },
+    "2161": {
+      "source": "We are wisdom. Sorry",
+      "cleaned": "[[We are wisdom]]. Sorry"
+    },
+    "2165": {
+      "source": "I'm going to pull some dragon out of the boats. They sort of clatter to the ground, kind of still",
+      "cleaned": "I'm going to pull [[some dragon out of the boats]]. They sort of clatter to the ground, kind of still"
+    },
+    "2166": {
+      "source": "swarming around a little bit. Not completely still, but you yank Rizman into the room.",
+      "cleaned": "swarming around a little bit. Not completely still, but you yank Riswynn into the room."
+    },
+    "2168": {
+      "source": "Can I stamp on them like their cockroaches as we go?",
+      "cleaned": "Can I stamp on them like they’re cockroaches as we go?"
+    },
+    "2170": {
+      "source": "So why does anybody respond to",
+      "cleaned": "So, does anybody respond to"
+    },
+    "2171": {
+      "source": "that? I'm missing? For",
+      "cleaned": "that menacing dwarf?"
+    },
+    "2177": {
+      "source": "Oh, what's the name? All growth",
+      "cleaned": "Oh, what's the name? Hagrim"
+    },
+    "2178": {
+      "source": "program?",
+      "cleaned": "Hagrim?"
+    },
+    "2181": {
+      "source": "Pilgrim, Firebrand, The Parisel are summoning you",
+      "cleaned": "Hagrim, Firebrand, The [[Parisel]] are summoning you"
+    },
+    "2182": {
+      "source": "pulled up the jealous.",
+      "cleaned": "hold up the chalice."
+    },
+    "2186": {
+      "source": "Thank my aunt, the Dora coming in.",
+      "cleaned": "[[Thank my aunt, the Dora]] coming in."
+    },
+    "2192": {
+      "source": "Who would benefit most from haste of the three of us. Which to do you think",
+      "cleaned": "Who would benefit most from haste of the three of us. Which two do you think"
+    },
+    "2195": {
+      "source": "advantage on decks, saves, and extra action,",
+      "cleaned": "advantage on Dex saves, and extra action,"
+    },
+    "2199": {
+      "source": "Marsh,",
+      "cleaned": "Merash,"
+    },
+    "2203": {
+      "source": "uh, let me roll initiative first floor",
+      "cleaned": "uh, let me roll initiative for Thror"
+    },
+    "2205": {
+      "source": "Do you think, Kate, do you think riz one would want it.",
+      "cleaned": "Do you think, Kate, do you think Riswynn would want it."
+    },
+    "2207": {
+      "source": "use it because you could cast a spell and make a weapon",
+      "cleaned": "use it because you could cast a spell and [[make a weapon]]"
+    },
+    "2208": {
+      "source": "with your extra string.",
+      "cleaned": "with your extra strength."
+    },
+    "2210": {
+      "source": "She doesn't get to attack,",
+      "cleaned": "She doesn't get two attacks,"
+    },
+    "2212": {
+      "source": "I think, the main plate attack with her",
+      "cleaned": "I think, the [[main plate attack]] with her"
+    },
+    "2213": {
+      "source": "shatter storm as far as damage is concerned past the Giz when it's probably better, but",
+      "cleaned": "Shatterstorm as far as damage is concerned [[past the Giz when]] it's probably better, but"
+    },
+    "2214": {
+      "source": "it gives you a bit more survivability because it gives you the plus the Ac. And resolution already has a really high Ac:",
+      "cleaned": "it gives you a bit more survivability because it gives you the plus the Ac. And Riswynn already has a really high Ac:"
+    },
+    "2216": {
+      "source": "Okay? Well at the moment, as Pilgrim gets up and shouts because of his two advisors,",
+      "cleaned": "Okay? Well at the moment, as Hagrim gets up and shouts [[because of his two advisors]],"
+    },
+    "2218": {
+      "source": "Right five forward,",
+      "cleaned": "[[Right five forward]],"
+    },
+    "2223": {
+      "source": "and mud, or something,",
+      "cleaned": "and mutter something,"
+    },
+    "2228": {
+      "source": "uh which is a twenty-five to head",
+      "cleaned": "uh which is a twenty-five to hit"
+    },
+    "2230": {
+      "source": "ninety twenty two points of necronic damage and you have to make a Constitution saving throw.",
+      "cleaned": "[[ninety]] twenty-two points of necrotic damage and you have to make a Constitution saving throw."
+    },
+    "2240": {
+      "source": "you have done nothing but disturb your",
+      "cleaned": "you have done nothing but disturb, your—"
+    },
+    "2256": {
+      "source": "I that we haven't pasted anyone yet.",
+      "cleaned": "I thought we haven't hasted anyone yet."
+    },
+    "2257": {
+      "source": "I don't know if it's it's not for his turn yet,",
+      "cleaned": "I don't know if it's it's not Thror’s turn yet,"
+    },
+    "2259": {
+      "source": "hasn't gone, so we couldn't paste it our point. He didn't miss anything.",
+      "cleaned": "hasn't gone, so we couldn’t haste at that point. He didn't miss anything."
+    },
+    "2261": {
+      "source": "Can't you? A mirage got touched by a ghost, And it was not nice.",
+      "cleaned": "[[Can’t you?]] Merash got touched by a ghost, And it was not nice."
+    },
+    "2270": {
+      "source": "Where is it ready?",
+      "cleaned": "[[Where is it ready]]?"
+    },
+    "2276": {
+      "source": "anyway? That was mine flares, but maybe it applies to ghosts,",
+      "cleaned": "anyway? That was mind flayers, but maybe it applies to ghosts,"
+    },
+    "2283": {
+      "source": "So we need to do. Malay attacks to it should not cut up our access to people.",
+      "cleaned": "So we need to do melee attacks too. It should not cut off our access to people."
+    },
+    "2290": {
+      "source": "So I can guess that strategy.",
+      "cleaned": "So I can [[guess that strategy]]."
+    },
+    "2294": {
+      "source": "I can get right of it. I just. I don't want us to like get hit by any more things, and a nice wall seems like a lovely thing.",
+      "cleaned": "I can get rid of it. I just. I don't want us to like get hit by any more things, and a nice wall seems like a lovely thing."
+    },
+    "2303": {
+      "source": "Tim, The beast ghosts look punchable, or do they have the auras? They do not have shadow.",
+      "cleaned": "Tim, Do these ghosts look punchable, or do they have the auras? They do not have shadow."
+    },
+    "2307": {
+      "source": "and that is a deck, save",
+      "cleaned": "and that is a Dex save"
+    },
+    "2309": {
+      "source": "It's not terrible that,",
+      "cleaned": "It's not terrible at it,"
+    },
+    "2313": {
+      "source": "okay, So that ends your turn. Marish, You're up.",
+      "cleaned": "okay, So that ends your turn. Merash, You're up."
+    },
+    "2315": {
+      "source": "So I am just going to Mall of the Forge at the one closest me,",
+      "cleaned": "So I am just going to Maul of the Forge at the one closest me,"
+    },
+    "2321": {
+      "source": "And then i'm going to Mall before to it again.",
+      "cleaned": "And then i'm going to Maul of the Forge it again."
+    },
+    "2325": {
+      "source": "It's immediately after you rule A. D twenty. Oh, but that's one for a d like. Yes,",
+      "cleaned": "It's immediately after you roll a d20. Oh, but that's [[one for a d like]]. Yes,"
+    },
+    "2327": {
+      "source": "that's any time. Okay, twenty. Let me send a left point and we roll that one.",
+      "cleaned": "that's any time. Okay, twenty. Let me spend a luck point and reroll that one."
+    },
+    "2329": {
+      "source": "It's originally better. Fifteen hits. Yep.",
+      "cleaned": "It's [[originally better]]. Fifteen hits. Yep."
+    },
+    "2331": {
+      "source": "Okay. So as marriage slams into this ghost twice with her Mall. It looks.",
+      "cleaned": "Okay. So as Merash slams into this ghost twice with her maul. It looks."
+    },
+    "2332": {
+      "source": "It's definitely Looks her right. It's taking some damage.",
+      "cleaned": "It definitely looks hurt, right. It's taking some damage."
+    },
+    "2335": {
+      "source": "gotten down the hatches here, and hopefully be there for round two. But it still survives. Okay, it's throwing you up",
+      "cleaned": "batten down the hatches here, and hopefully be there for round two. But it still survives. Okay, it’s Thror. You’re up"
+    },
+    "2341": {
+      "source": "this one? And",
+      "cleaned": "Riswynn? And"
+    },
+    "2342": {
+      "source": "uh, Marsh.",
+      "cleaned": "uh, Merash."
+    },
+    "2343": {
+      "source": "Okay, you're on both hasted",
+      "cleaned": "Okay, you’re both hasted"
+    },
+    "2344": {
+      "source": "that. Answer your turn.",
+      "cleaned": "that ends your turn."
+    },
+    "2350": {
+      "source": "Giant Rappers",
+      "cleaned": "Giant Rothfis"
+    },
+    "2351": {
+      "source": "Giant Ross. That's all right.",
+      "cleaned": "Giant Rothfis. That's all right."
+    },
+    "2352": {
+      "source": "Well, I see a ghost without the aura. I punch a ghost without the order. Here we go",
+      "cleaned": "Well, I see a ghost without the aura. I punch a ghost without the aura. Here we go"
+    },
+    "2354": {
+      "source": "fourteen. That that hats all right.",
+      "cleaned": "fourteen. That that hits all right."
+    },
+    "2355": {
+      "source": "How's it? Look when I punch them?",
+      "cleaned": "How does it look when I punch them?"
+    },
+    "2357": {
+      "source": "big raw fist come down from the heavens,",
+      "cleaned": "big Rothfis come down from the heavens,"
+    },
+    "2360": {
+      "source": "regular turns out an attack bad with the big, rough fist on top of that, and then i'll do. How's it doing It's still.",
+      "cleaned": "[[regular turns out an attack bad]] with the big, Rothfis on top of that, and then i'll do. How's it doing It's still."
+    },
+    "2366": {
+      "source": "Those have to be rough fists on them, too.",
+      "cleaned": "Those have to be Rothfis on them, too."
+    },
+    "2372": {
+      "source": "Um, with a disengaged free, and I will do that to I think. Go up toward the firewall. Is this safe on this side?",
+      "cleaned": "Um, with a disengage free, and I will do that to I think. Go up toward the firewall. Is this safe on this side?"
+    },
+    "2382": {
+      "source": "for this one.",
+      "cleaned": "Riswynn."
+    },
+    "2387": {
+      "source": "You've got that for a sec. But yeah, okay,",
+      "cleaned": "You cut out for a sec. But yeah, okay,"
+    },
+    "2389": {
+      "source": "so that ends the swarm of Zombie's turn. This one is Dad. This one",
+      "cleaned": "so that ends the swarm of Zombie's turn. This one is dead. This one"
+    },
+    "2400": {
+      "source": "ghosts man. Um! Tagram lifts his axe and holds it up,",
+      "cleaned": "ghosts man. Um! Hagrim lifts his axe and holds it up,"
+    },
+    "2407": {
+      "source": "you do Here, I'm yelling through the wall.",
+      "cleaned": "you do hear him yelling through the wall."
+    },
+    "2410": {
+      "source": "She was in a few years,",
+      "cleaned": "[[She was in a few years]],"
+    },
+    "2411": {
+      "source": "but you can't see anything that's happening behind the wrong,",
+      "cleaned": "but you can't see anything that's happening behind the wall,"
+    },
+    "2412": {
+      "source": "so resident is up,",
+      "cleaned": "so Riswynn is up,"
+    },
+    "2420": {
+      "source": "um. There's your next",
+      "cleaned": "um. [[There’s your next]]"
+    },
+    "2430": {
+      "source": "bone. The bones thing because it's within a range of criticism. Right? All right. So that it's gonna roll it. It's thing.",
+      "cleaned": "bone. The bones thing because it's within a range of [[criticism]]. Right? All right. So that it's gonna roll it. its thing."
+    },
+    "2440": {
+      "source": "just my uh shutter",
+      "cleaned": "just my uh Shatter-"
+    },
+    "2442": {
+      "source": "Dorm attack",
+      "cleaned": "storm attack"
+    },
+    "2443": {
+      "source": "my heads,",
+      "cleaned": "That hits,"
+    },
+    "2451": {
+      "source": "And I can do that again, or is my turn to?",
+      "cleaned": "And I can do that again, or is my turn done?"
+    },
+    "2453": {
+      "source": "The hats. Yeah, I know",
+      "cleaned": "That hits. Yeah, I know"
+    },
+    "2458": {
+      "source": "Where is your next?",
+      "cleaned": "Merash, you’re next?"
+    },
+    "2459": {
+      "source": "So can I move into what the spiritual weapon currently is, or I have to avoid it.",
+      "cleaned": "So can I move into where the spiritual weapon currently is, or I have to avoid it."
+    },
+    "2460": {
+      "source": "You can do it for us.",
+      "cleaned": "[[You can do it for us]]."
+    },
+    "2462": {
+      "source": "scary purple, glowing dose and swing at it with my mall of the forge.",
+      "cleaned": "scary purple, glowing ghost and swing at it with my Maul of the Forge."
+    },
+    "2464": {
+      "source": "that it's",
+      "cleaned": "that hits"
+    },
+    "2472": {
+      "source": "It also gives you inspiration. But you already have inspiration seat,",
+      "cleaned": "It also gives you inspiration. But you already have inspiration, so,"
+    },
+    "2475": {
+      "source": "Can I give inspiration to twenty-foot rafists?",
+      "cleaned": "Can I give inspiration to twenty-foot Rothfis?"
+    },
+    "2481": {
+      "source": "create damage on that.",
+      "cleaned": "crit damage on that."
+    },
+    "2483": {
+      "source": "Ok, Then i'm going to take my piece, and i'm going to throw my mall of the forge at",
+      "cleaned": "Ok, Then i'm going to take my Haste, and i'm going to throw my Maul of the Forge at"
+    },
+    "2484": {
+      "source": "this point. You've already used that today that's one today ability.",
+      "cleaned": "this point. You've already used that today that's once-a-day ability."
+    },
+    "2485": {
+      "source": "Oh, is it not West for your breast.",
+      "cleaned": "Oh, is it not once per short rest."
+    },
+    "2489": {
+      "source": "Oh, I didn't mean to all that. I thought it retired transfer at rest. That was my bad",
+      "cleaned": "Oh, I didn't mean to roll that. I thought it recharged on a short rest. That was my bad"
+    },
+    "2492": {
+      "source": "Oh, no, it does it. You're right. It is shorter long rest.",
+      "cleaned": "Oh, no, it does it. You're right. It is short or long rest."
+    },
+    "2493": {
+      "source": "It is your at rest.",
+      "cleaned": "It is short rest."
+    },
+    "2504": {
+      "source": "you could. You could call out to riz when to drop the wall, and if they want to they could drop it mid-turn for you,",
+      "cleaned": "you could. You could call out to Riswynn to drop the wall, and if they want to they could drop it mid-turn for you,"
+    },
+    "2506": {
+      "source": "Is that allowable midterm",
+      "cleaned": "Is that allowable mid-turn"
+    },
+    "2507": {
+      "source": "Never any time you want it, and and concentration",
+      "cleaned": "Whenever, any time you want to end concentration"
+    },
+    "2508": {
+      "source": "as we've established that they can all just flute right around it, anyway, because they're all.",
+      "cleaned": "as we've established that they can all just float right around it, anyway, because they're all."
+    },
+    "2509": {
+      "source": "Would you be comfortable dropping this lane wall",
+      "cleaned": "Would you be comfortable dropping this flame wall"
+    },
+    "2513": {
+      "source": "Okay, Plane wall is gone.",
+      "cleaned": "Okay, Flame wall is gone."
+    },
+    "2515": {
+      "source": "Okay. So for all of the forge when I grow it.",
+      "cleaned": "Okay. So for Maul of the Forge when I throw it."
+    },
+    "2517": {
+      "source": "Everyone in a twenty-foot radius needs to make a Dc. Fifteen deck saving throw. And if I throw it here, it should hit any of them.",
+      "cleaned": "Everyone in a twenty-foot radius needs to make a DC fifteen Dex saving throw. And if I throw it here, it should hit [[any of them]]."
+    },
+    "2521": {
+      "source": "Dc. Fifteen decks save It's sixty, six on a failed, save or half on it. Successful",
+      "cleaned": "DC fifteen Dex save It's 6d6 on a failed, save or half on a successful"
+    },
+    "2525": {
+      "source": "Okay. Well, your damage",
+      "cleaned": "Okay. Roll your damage"
+    },
+    "2534": {
+      "source": "this purple ghost looks badly hurt. Hager, I just kind of laughed slightly at you",
+      "cleaned": "this purple ghost looks badly hurt. Hagrim just kind of laughs slightly at you"
+    },
+    "2537": {
+      "source": "Can I use my bonus section to pull them all back?",
+      "cleaned": "Can I use my bonus action to pull the maul back?"
+    },
+    "2541": {
+      "source": "Okay for You're up",
+      "cleaned": "Okay Thror, you're up"
+    },
+    "2542": {
+      "source": "all right. I am going to move in the Fourth Level lightning both. These two",
+      "cleaned": "all right. I am going to move in and fourth-level Lightning Bolt. These two"
+    },
+    "2544": {
+      "source": "or deck saves",
+      "cleaned": "Dex saves"
+    },
+    "2551": {
+      "source": "Um: Roth, P. You're up",
+      "cleaned": "Um: Rothfis, You're up"
+    },
+    "2552": {
+      "source": "So that was lightning for us out, and um",
+      "cleaned": "So that was [[lightning for us out]], and um"
+    },
+    "2553": {
+      "source": "I come.",
+      "cleaned": "Hagrim."
+    },
+    "2557": {
+      "source": "Rogers.",
+      "cleaned": "Rothfis."
+    },
+    "2558": {
+      "source": "Yeah, there's something that lets me do an extra key for more movement. Right step in the wind. Lets you dash as a bonus action.",
+      "cleaned": "Yeah, there's something that lets me do an extra ki for more movement. Right Step of the Wind. Lets you dash as a bonus action."
+    },
+    "2560": {
+      "source": "So one key down",
+      "cleaned": "So one ki down"
+    },
+    "2561": {
+      "source": "I am going to get all the way on top of Roth this year.",
+      "cleaned": "I am going to get all the way on top of Rothfis here."
+    },
+    "2563": {
+      "source": "all Graham Hagrim",
+      "cleaned": "Hagrim Hagrim"
+    },
+    "2565": {
+      "source": "and and start a punch in this ghost, this one doesn't have a",
+      "cleaned": "and and start punching this ghost, this one doesn't have a"
+    },
+    "2566": {
+      "source": "correct on him,",
+      "cleaned": "[[correct on him]],"
+    },
+    "2570": {
+      "source": "God, all eaten away, and I just start hunting at him. Okay, first attack is twenty four. That's with that big, raw fist. Second attack",
+      "cleaned": "God, all eaten away, and I just start punching at him. Okay, first attack is twenty four. That's with that big, Rothfis. Second attack"
+    },
+    "2571": {
+      "source": "a twenty five. That hats with the big. So that's Yep. I got it. Okay, And then i'm going to",
+      "cleaned": "a twenty five. That hits with the big. So that's Yep. I got it. Okay, And then i'm going to"
+    },
+    "2572": {
+      "source": "on the first one. I'm going to try a stunning stray.",
+      "cleaned": "on the first one. I'm going to try a Stunning Strike."
+    },
+    "2573": {
+      "source": "Okay. So one key down off that he has to do the thirteen Dc.",
+      "cleaned": "Okay. So one ki down off that he has to do the thirteen Dc."
+    },
+    "2574": {
+      "source": "Or sorry. Yeah. Thirteen um clock.",
+      "cleaned": "Or sorry. Yeah. Thirteen um Con."
+    },
+    "2584": {
+      "source": "zombie limbs her dad.",
+      "cleaned": "zombie limbs are dead."
+    },
+    "2590": {
+      "source": "um Shakespeare's head and sort of points at",
+      "cleaned": "um shakes his head and sort of points at"
+    },
+    "2591": {
+      "source": "roar. Who",
+      "cleaned": "Thror. Who"
+    },
+    "2592": {
+      "source": "so historic range? Ah, not What's the move?",
+      "cleaned": "so [[historic range]]? Ah, not What's the move?"
+    },
+    "2593": {
+      "source": "That was Sixty foot fly easily a range,",
+      "cleaned": "That was Sixty foot fly easily in range,"
+    },
+    "2596": {
+      "source": "and we'll reach out and strike at roar.",
+      "cleaned": "and we'll reach out and strike at Thror."
+    },
+    "2597": {
+      "source": "That is a twenty one to head,",
+      "cleaned": "That is a twenty one to hit,"
+    },
+    "2600": {
+      "source": "and make a Constitution saving throne.",
+      "cleaned": "and make a Constitution saving throw."
+    },
+    "2604": {
+      "source": "Um, yes, you're fine on your You're fine for concentration. Make another constitution saving throw to see whether your headpoint maximum is reduced.",
+      "cleaned": "Um, yes, you're fine on your You're fine for concentration. Make another constitution saving throw to see whether your hit point maximum is reduced."
+    },
+    "2606": {
+      "source": "your endpoint maximum is reduced by eighteen.",
+      "cleaned": "your hit point maximum is reduced by eighteen."
+    },
+    "2607": {
+      "source": "Better to do it in that order, though, that lose the concentration.",
+      "cleaned": "Better to do it in that order, though, than lose the concentration."
+    },
+    "2609": {
+      "source": "Ah, Abram, now is going to look at your office and",
+      "cleaned": "Ah, Hagrim, now is going to look at Rothfis and"
+    },
+    "2614": {
+      "source": "We'll, swaying his battle axe.",
+      "cleaned": "He’ll swing his battle axe."
+    },
+    "2617": {
+      "source": "three hats.",
+      "cleaned": "three hits."
+    },
+    "2618": {
+      "source": "That's two hands for a total of",
+      "cleaned": "That's two hits for a total of"
+    },
+    "2630": {
+      "source": "There, you twice.",
+      "cleaned": "Hit you twice."
+    },
+    "2633": {
+      "source": "one for your past.",
+      "cleaned": "[[one for your past]]."
+    },
+    "2635": {
+      "source": "That ends his term Res: when you're up",
+      "cleaned": "That ends his turn. Riswynn, you're up"
+    },
+    "2639": {
+      "source": "with my um shatterstorm.",
+      "cleaned": "with my um Shatterstorm."
+    },
+    "2643": {
+      "source": "Sorry i'm doing things with them all the wrong orders.",
+      "cleaned": "Sorry i'm doing things in all the wrong orders."
+    },
+    "2650": {
+      "source": "Does it happen instead of defined strike? Or in addition to the vine strike always happens?",
+      "cleaned": "Does it happen instead of Divine Strike? Or in addition to Divine Strike always happens?"
+    },
+    "2666": {
+      "source": "No, it's an enormous action you already used your bonus action to cast searing smite.",
+      "cleaned": "No, it's a bonus action you already used your bonus action to cast searing smite."
+    },
+    "2673": {
+      "source": "that It's",
+      "cleaned": "that hits"
+    },
+    "2675": {
+      "source": "Marshall.",
+      "cleaned": "Merash."
+    },
+    "2679": {
+      "source": "and hit it with my mall. Okay,",
+      "cleaned": "and hit it with my maul. Okay,"
+    },
+    "2680": {
+      "source": "that it's.",
+      "cleaned": "that hits."
+    },
+    "2684": {
+      "source": "okay flash that",
+      "cleaned": "okay [[flash that]]"
+    },
+    "2688": {
+      "source": "and a hit, and then so I can. I'll throw our hand axe at Well, can I see how gr through twenty-foot",
+      "cleaned": "and a hit, and then so I can. I'll throw a handaxe at Well, can I see Hagrim through [[twenty-foot]]"
+    },
+    "2690": {
+      "source": "I mean he's not probably half cover behind.",
+      "cleaned": "I mean [[he’s not probably half cover behind]]."
+    },
+    "2691": {
+      "source": "Good. Yeah, it's a bit. You might have a bit more movement, too, from your a still.",
+      "cleaned": "Good. Yeah, it's a bit. You might have a bit more movement, too, from your Haste still."
+    },
+    "2692": {
+      "source": "Yeah, because remember, he's doubled your movement. So you've got a ton of movement.",
+      "cleaned": "Yeah, because remember, Haste doubled your movement. So you've got a ton of movement."
+    },
+    "2696": {
+      "source": "Yeah, like I'm: not. Yeah. So you have a hundred people.",
+      "cleaned": "Yeah, like I'm: not. Yeah. So you have a hundred feet."
+    },
+    "2702": {
+      "source": "Oh, wow, okay. So he says,",
+      "cleaned": "Oh, wow, okay. [[So he says]],"
+    },
+    "2705": {
+      "source": "did not understand how case impacts. My,",
+      "cleaned": "did not understand how Haste impacts. My,"
+    },
+    "2706": {
+      "source": "Okay. So I still have, like a decent amount left, please?",
+      "cleaned": "Okay. So I still have, like a decent amount left, [[please]]?"
+    },
+    "2709": {
+      "source": "So I could. I could get to Pilgrim.",
+      "cleaned": "So I could. I could get to Hagrim."
+    },
+    "2711": {
+      "source": "and Then I will attack him with my mom.",
+      "cleaned": "and Then I will attack him with my maul."
+    },
+    "2713": {
+      "source": "that hats twenty, four,",
+      "cleaned": "that hits twenty, four,"
+    },
+    "2714": {
+      "source": "And then I think that's that's all for me. That ends your turn. Yeah, Throw our you up.",
+      "cleaned": "And then I think that's that's all for me. That ends your turn. Yeah, Thror, you’re up."
+    },
+    "2716": {
+      "source": "trucking Grasp the guy i'm next to, but quick and spell is a bonus action, so then I can move and dash for my regular.",
+      "cleaned": "Shocking Grasp the guy i'm next to, but Quicken Spell is a bonus action, so then I can move and dash for my regular."
+    },
+    "2719": {
+      "source": "That it",
+      "cleaned": "That hits"
+    },
+    "2720": {
+      "source": "uh here Several damage.",
+      "cleaned": "uh here’s a roll of damage."
+    },
+    "2722": {
+      "source": "six hundred and sixty.",
+      "cleaned": "[[six hundred and sixty]]."
+    },
+    "2725": {
+      "source": "Rock this you're up",
+      "cleaned": "Rothfis you're up"
+    },
+    "2730": {
+      "source": "Oh, there's a not twenty",
+      "cleaned": "Oh, there's a nat twenty"
+    },
+    "2733": {
+      "source": "I'll just. I'll roll the big rough this twice. Then for that one.",
+      "cleaned": "I'll just. I'll roll the big Rothfis twice. Then for that one."
+    },
+    "2737": {
+      "source": "Why, why, why the blast or a hell similar regards, and I punch him again with the other hand,",
+      "cleaned": "Why, why, why [[the blast or a hell similar regards]], and I punch him again with the other hand,"
+    },
+    "2739": {
+      "source": "big first. Now that misses fifteen misses. So fifteen misses. Okay,",
+      "cleaned": "big fist. Now that misses fifteen misses. So fifteen misses. Okay,"
+    },
+    "2742": {
+      "source": "try the flurry of blows again. So that's another key gone.",
+      "cleaned": "try the flurry of blows again. So that's another ki gone."
+    },
+    "2745": {
+      "source": "I'll just take it, too.",
+      "cleaned": "I'll just take the two."
+    },
+    "2748": {
+      "source": "So two key on that one.",
+      "cleaned": "So two ki on that one."
+    },
+    "2749": {
+      "source": "It's It's thirteen calls that I have a pretty good con.",
+      "cleaned": "It's It's thirteen Con. I have a pretty good con."
+    },
+    "2753": {
+      "source": "It doesn't work. But it did that last time. I'm trying to stun him one final big punch. Now I've done more.",
+      "cleaned": "It doesn't work. [[But it did that last time]]. I'm trying to stun him one final big punch. [[Now I’ve done more]]."
+    },
+    "2754": {
+      "source": "That's a mess all right. I've used flurry of blows so I can disengage and move up to fifty for free. I'm gonna disengage and fly up to the ceiling.",
+      "cleaned": "That's a miss all right. I've used flurry of blows so I can disengage and move up to fifty for free. I'm gonna disengage and fly up to the ceiling."
+    },
+    "2755": {
+      "source": "Okay, that's the end of my term.",
+      "cleaned": "Okay, that's the end of my turn."
+    },
+    "2761": {
+      "source": "to Marish",
+      "cleaned": "to Merash"
+    },
+    "2765": {
+      "source": "Yeah, that hits wings a third time. That's a fifteen.",
+      "cleaned": "Yeah, that hits. Swings a third time. That's a fifteen."
+    },
+    "2769": {
+      "source": "good damage. Also two thousand and fourteen, plus thirteen, twenty, seven points of",
+      "cleaned": "good damage. [[Also two thousand and fourteen]], plus thirteen, twenty, seven points of"
+    },
+    "2771": {
+      "source": "and make a constitution saving so?",
+      "cleaned": "and make a Constitution saving throw?"
+    },
+    "2772": {
+      "source": "Oh, no, no, no! Can I use a left blank on that.",
+      "cleaned": "Oh, no, no, no! Can I use a luck point on that."
+    },
+    "2774": {
+      "source": "i'll take a left point and re-roll that.",
+      "cleaned": "i'll take a luck point and re-roll that."
+    },
+    "2776": {
+      "source": "Um. And then he has got me to",
+      "cleaned": "Um. And then he is going to"
+    },
+    "2777": {
+      "source": "Why, one two three",
+      "cleaned": "Fly, one two three"
+    },
+    "2778": {
+      "source": "for",
+      "cleaned": "four"
+    },
+    "2783": {
+      "source": "So you do get a attack of opportunity against him.",
+      "cleaned": "So you do get an attack of opportunity against him."
+    },
+    "2785": {
+      "source": "you! You do marish. One, two, I do. Okay,",
+      "cleaned": "you! You do Merash. One, two, I do. Okay,"
+    },
+    "2788": {
+      "source": "And can these have an opportunity? Be anything,",
+      "cleaned": "And can these attacks of opportunity? Be anything,"
+    },
+    "2791": {
+      "source": "Okay. So, my Mall,",
+      "cleaned": "Okay. So, my maul,"
+    },
+    "2810": {
+      "source": "We have them together for inspiration, right? It's a fifteen.",
+      "cleaned": "We add them together for inspiration, right? It's a fifteen."
+    },
+    "2815": {
+      "source": "Robert and Redwin are frightened. The",
+      "cleaned": "Rothfis and Riswynn are frightened. The"
+    },
+    "2821": {
+      "source": "those cursed iron corns,",
+      "cleaned": "those cursed Ironhorns,"
+    },
+    "2823": {
+      "source": "Brisbane, you're up",
+      "cleaned": "Riswynn, you're up"
+    },
+    "2824": {
+      "source": "all right now. Wait. I totally skipped this rape Here",
+      "cleaned": "all right now. Wait. I totally skipped this wraith Here"
+    },
+    "2827": {
+      "source": "uh, it will attack Resident.",
+      "cleaned": "uh, it will attack Riswynn."
+    },
+    "2833": {
+      "source": "that it's",
+      "cleaned": "that hits"
+    },
+    "2834": {
+      "source": "that destroys this rape as you hit it with your hammer in it",
+      "cleaned": "that destroys this wraith as you hit it with your hammer and it"
+    },
+    "2837": {
+      "source": "You can make your spirits open. Actually. Sorry you've got to roll with disadvantage, so we'll probably still kill it. But we'll one more sadder storm Attack",
+      "cleaned": "You can make your Spiritual Weapon. Actually. Sorry you've got to roll with disadvantage, so we'll probably still kill it. But roll one more Shatterstorm Attack"
+    },
+    "2840": {
+      "source": "Yeah, you still have.",
+      "cleaned": "Yeah, you still hit."
+    },
+    "2846": {
+      "source": "and you still have your action because you're hastened so you can still count the spell.",
+      "cleaned": "and you still have your action because you're hasted so you can still cast a spell."
+    },
+    "2849": {
+      "source": "but I can just cast a totally different spell from where I am, because I can't approach it, but I could do it just spell.",
+      "cleaned": "but I can just cast a totally different spell from where I am, because I can't approach it, but I could do a spell."
+    },
+    "2854": {
+      "source": "progresses?",
+      "cleaned": "[[progresses]]?"
+    },
+    "2855": {
+      "source": "Make a wisdom save to see if you can shake the fear. Max, you're up.",
+      "cleaned": "Make a wisdom save to see if you can shake the fear. Merash, you're up."
+    },
+    "2858": {
+      "source": "I'm going to come up beside him and just try to wail on him with my mom.",
+      "cleaned": "I'm going to come up beside him and just try to wail on him with my maul."
+    },
+    "2861": {
+      "source": "it does mess.",
+      "cleaned": "it does miss."
+    },
+    "2871": {
+      "source": "lightning bolt the sky again.",
+      "cleaned": "lightning bolt this guy again."
+    },
+    "2873": {
+      "source": "okay. The lighting boat",
+      "cleaned": "okay. The Lightning Bolt"
+    },
+    "2879": {
+      "source": "bowers down um",
+      "cleaned": "cowers down um"
+    },
+    "2880": {
+      "source": "rock this",
+      "cleaned": "Rothfis"
+    },
+    "2882": {
+      "source": "It's now kind of like kneeling with one me like seemingly not",
+      "cleaned": "It's now kind of like kneeling with one knee like seemingly not"
+    },
+    "2884": {
+      "source": "so I can't move closer on, frightened unless I do an action to",
+      "cleaned": "so I can't move closer, I’m frightened unless I do an action to"
+    },
+    "2888": {
+      "source": "take my full movement. I will use my key to allow me to get there with that that sprinting dash",
+      "cleaned": "take my full movement. I will use my ki to allow me to get there with that that sprinting dash"
+    },
+    "2891": {
+      "source": "I don't know if it'll help. But these are magic books, and I've got magic fists, not an attack. But yeah,",
+      "cleaned": "I don't know if it'll help. But these are magic boots, and I've got magic fists, not an attack. But yeah,"
+    },
+    "2894": {
+      "source": "first all damage is not magical.",
+      "cleaned": "fall damage is not magical."
+    },
+    "2896": {
+      "source": "But you do not come prone,",
+      "cleaned": "But you do knock him prone,"
+    },
+    "2903": {
+      "source": "our guy. So you're just sitting on a prone man and ghost.",
+      "cleaned": "All right. So you're just sitting on a prone [[man and ghost]]."
+    },
+    "2911": {
+      "source": "Takes a swing at office. That's a sixteen,",
+      "cleaned": "Takes a swing at Rothfis. That's a sixteen,"
+    },
+    "2912": {
+      "source": "turns and and looks at Marish",
+      "cleaned": "turns and and looks at Merash"
+    },
+    "2914": {
+      "source": "looks around, takes another swing at raw fest.",
+      "cleaned": "looks around, takes another swing at Rothfis."
+    },
+    "2921": {
+      "source": "swings like sort of just catching you, almost not realizing he's hitting you like staggers up again like points to the axe, and all of you.",
+      "cleaned": "swings like sort of just catching you, almost not realizing he's hitting you like staggers up again like points the axe at all of you."
+    },
+    "2925": {
+      "source": "Kind of tell us them.",
+      "cleaned": "Can I chalice him?."
+    },
+    "2926": {
+      "source": "Yeah, I was going to say i'm not close enough to jealous him.",
+      "cleaned": "Yeah, I was going to say i'm not close enough to chalice him."
+    },
+    "2930": {
+      "source": "and our guy blushed it at the direction of his head, face, mouth.",
+      "cleaned": "and I splash it in the direction of his head, face, mouth."
+    },
+    "2933": {
+      "source": "how do you drink the bells of home?",
+      "cleaned": "[[how do you drink]] the bells of home?"
+    },
+    "2936": {
+      "source": "splash him as you like, take out, run forward and sort of take out this child and begin to part on it on him.",
+      "cleaned": "splash him as you like, take out, run forward and sort of take out this chalice and begin to pour it on him."
+    },
+    "2944": {
+      "source": "you here you just sort of hear",
+      "cleaned": "you hear you just sort of hear"
+    },
+    "2949": {
+      "source": "You choose punishment.",
+      "cleaned": "You choose punishment?"
+    },
+    "2960": {
+      "source": "believes that",
+      "cleaned": "[[believes that]]"
+    },
+    "2964": {
+      "source": "um, it begins to pour like as the water is pouring out of this cell, as you now see the like where the um the water was pouring like the hole begins, the floor begins to crumble away,",
+      "cleaned": "um, it begins to pour like as the water is pouring out of this chalice, as you now see the like where the um the water was pouring like the hole begins, the floor begins to crumble away,"
+    },
+    "2978": {
+      "source": "the river itself, like the water flowing down into the river itself, and you recognize this. Rizmann recognizes this.",
+      "cleaned": "the river itself, like the water flowing down into the river itself, and you recognize this. Riswynn recognizes this."
+    },
+    "2979": {
+      "source": "This is Dun Mar. This is the land just north of Tokra.",
+      "cleaned": "This is Dunmar. This is the land just north of Tokra."
+    },
+    "2982": {
+      "source": "and he just seemed to be standing",
+      "cleaned": "and you just seem to be standing"
+    },
+    "2984": {
+      "source": "Oh, no! Where's talk?",
+      "cleaned": "Oh, no! Where's Tak?"
+    },
+    "2988": {
+      "source": "Yes, yes, there's Cock, I mean, we look around.",
+      "cleaned": "Yes, yes, [[there’s Tak]], I mean, we look around."
+    },
+    "2989": {
+      "source": "Yeah, with our perception roles. It seems like you see, a tree.",
+      "cleaned": "Yeah, with our perception rolls. It seems like you see, a tree."
+    },
+    "2990": {
+      "source": "Yeah, make a perception role.",
+      "cleaned": "Yeah, make a perception roll."
+    },
+    "2996": {
+      "source": "like walking oh, confused, along the other side of the river like a group of about",
+      "cleaned": "like walking, all confused, along the other side of the river like a group of about"
+    },
+    "3011": {
+      "source": "and just kind of look to rid with him like,",
+      "cleaned": "and just kind of look to Riswynn like,"
+    },
+    "3013": {
+      "source": "You see all humans?",
+      "cleaned": "Do we see the humans?"
+    },
+    "3019": {
+      "source": "Go, kill some Tedarians just for fun.",
+      "cleaned": "Go, kill some [[Tedarians]] just for fun."
+    },
+    "3021": {
+      "source": "you can quite distract from the mission of mercy parts",
+      "cleaned": "[[you can quite distract]] from the mission of mercy parts"
+    },
+    "3022": {
+      "source": "herring off after them.",
+      "cleaned": "haring off after them."
+    },
+    "3033": {
+      "source": "I guess, except res when",
+      "cleaned": "I guess, except Riswynn"
+    },
+    "3034": {
+      "source": "it's when you're stocked for these people.",
+      "cleaned": "Riswynn, you’re stuck with these people."
+    },
+    "3036": {
+      "source": "It's okay. I know the way from uh to a",
+      "cleaned": "It's okay. I know the way [[from uh to a]]"
+    },
+    "3037": {
+      "source": "ruthless shrinks down to normal size and",
+      "cleaned": "Rothfis shrinks down to normal size and"
+    },
+    "3039": {
+      "source": "see that he's age twenty years,",
+      "cleaned": "see that he’s aged twenty years,"
+    },
+    "3041": {
+      "source": "so. First the iron horns took ten good years of me in that marriage, and then that most took twenty good years to me, and one fell kick.",
+      "cleaned": "so. First the Ironhorns took ten good years of me in that marriage, and then that ghost took twenty good years from me in one fell kick."
+    },
+    "3043": {
+      "source": "He will say, if you're ever in Shardon.",
+      "cleaned": "He will say, if you're ever in Chardon."
+    },
+    "3044": {
+      "source": "Stone fist signs and stables always has an open room for yet,",
+      "cleaned": "Stonefist Steins and Stables always has an open room for you,"
+    },
+    "3049": {
+      "source": "Have a marsh.",
+      "cleaned": "How about Merash?"
+    },
+    "3050": {
+      "source": "I think marriage is,",
+      "cleaned": "I think Merash is,"
+    },
+    "3054": {
+      "source": "he is",
+      "cleaned": "she is"
+    },
+    "3055": {
+      "source": "thank where she had the opportunity to pay her debt to the gods, but is happy to return back to her forge, and continue her life in the quiet,",
+      "cleaned": "thankful she had the opportunity to pay her debt to the gods, but is happy to return back to her forge, and continue her life in the quiet,"
+    },
+    "3058": {
+      "source": "puts a hand on the health of her short sword and blinks out,",
+      "cleaned": "puts a hand on the hilt of her short sword and blinks out,"
+    },
+    "3060": {
+      "source": "I by drawer",
+      "cleaned": "How about Thror?"
+    },
+    "3061": {
+      "source": "the first thing in exile for a long, long time, and is glad to get home now, but",
+      "cleaned": "Thror’s been in exile for a long, long time, and is glad to get home now, but"
+    },
+    "3063": {
+      "source": "are probably",
+      "cleaned": "I’ll probably"
+    },
+    "3068": {
+      "source": "Laura and Rizwin, helping these people",
+      "cleaned": "Thror and Riswynn, helping these people"
+    },
+    "3070": {
+      "source": "A hundred and fifty years delayed marriage and",
+      "cleaned": "A hundred and fifty years delayed Merash and"
+    },
+    "3071": {
+      "source": "and Roth that's returning to their",
+      "cleaned": "and Rothfis returning to their"
+    }
+  },
+  "material": {
+    "2": "Kingdom name is split across u0002–u0003; canonical form not yet secure.",
+    "3": "Continuation of uncertain kingdom name.",
+    "21": "Verb describing the undead breaking through rubble is garbled.",
+    "48": "Name/type of the establishment Rothfis wants to return to is unclear.",
+    "70": "Physical description of Tak is garbled.",
+    "96": "Possibly deliberately misremembered name; preserve for review.",
+    "97": "Possible supplied name is unrecoverable.",
+    "106": "Greeting after Nora’s corrected name is unclear.",
+    "111": "Clause about their mission is unclear.",
+    "119": "Abandoned/restarted request concerning Nora’s travels is unclear.",
+    "139": "Identity or term for those compelling Rothfis to find Hagrim is unclear.",
+    "163": "Request preceding explanation of what the dwarf did is garbled.",
+    "198": "Statement about Tak’s birth and isolation from the gods is fragmented across u0198–u0201.",
+    "199": "Continuation of fragmented statement about isolation from the gods.",
+    "200": "Continuation of fragmented statement about isolation from the gods.",
+    "218": "Opening of claim about expected destruction of chalice is unclear.",
+    "243": "Possible subject/name before account of a veteran is unclear.",
+    "246": "Possibly “fought”, but not secure.",
+    "247": "Historical battle experience is garbled.",
+    "248": "Possible “deeps”; historical account unclear.",
+    "250": "Subject and connection to veteran’s past unclear.",
+    "257": "Phrase about refugees and flight is unclear.",
+    "284": "Retreat/slaughter account fragment unclear.",
+    "285": "Retreat/slaughter account fragment unclear.",
+    "369": "Hagrim’s home kingdom name unclear.",
+    "371": "Cousin’s given name unclear; repeated dog/Del variants later.",
+    "374": "Question about cousin’s name unclear.",
+    "375": "Repeated cousin name unclear.",
+    "379": "Cousin’s given name before Firebrand unclear.",
+    "386": "Prior stories recalled from village are garbled.",
+    "414": "Statement concerning death and escape is garbled.",
+    "415": "Continuation of statement concerning death.",
+    "476": "Route explanation ending unclear.",
+    "507": "Silver return-item activation reference garbled.",
+    "509": "Clan name unclear.",
+    "550": "Proposed route through wastes garbled.",
+    "577": "Obscuring dust description unclear.",
+    "638": "Scouting report about mad priest/statue unclear.",
+    "668": "Possible perception modifier/roll fragment unclear.",
+    "716": "Possible combat declaration unclear.",
+    "717": "Turn-order fragment unclear.",
+    "722": "Movement ability reference unclear.",
+    "724": "Combat fragment unclear.",
+    "794": "Abandoned combat/spell fragment unclear.",
+    "796": "Spell-choice fragment unclear.",
+    "799": "Spell-choice preamble unclear; Spirit Guardians later confirmed.",
+    "801": "Question about spell mechanics has unclear comparison.",
+    "813": "Radius descriptor unclear.",
+    "816": "Question about blocking an ally garbled.",
+    "908": "Spell level/damage question unclear.",
+    "925": "Target-selection fragment unclear.",
+    "926": "Target-selection fragment unclear.",
+    "938": "Aborted target name fragment; Merash clear in next unit.",
+    "953": "Weapon name uncertain; warhammer clear.",
+    "959": "Named attack or weapon garbled.",
+    "964": "Combat declaration fragment unclear.",
+    "965": "Combat declaration fragment unclear.",
+    "968": "Current combat condition unclear.",
+    "981": "Attack-count aside unclear.",
+    "982": "Final damage/roll aside unclear.",
+    "993": "Maneuver interpretation fragment unclear.",
+    "1063": "Position or source of cave voice unclear.",
+    "1070": "Riswynn’s home mountains unclear.",
+    "1075": "Reply to introduction unclear.",
+    "1083": "Fragment before looking at sky unclear.",
+    "1113": "Remembered brewery name unclear.",
+    "1125": "Fragment preceding remembered roast meal unclear.",
+    "1141": "Repeated nickname for dwarf unclear.",
+    "1146": "Nickname/address following Thror’s introduction unclear.",
+    "1159": "Nickname/address unclear.",
+    "1163": "Transition from armor tapping to bells unclear.",
+    "1169": "Person or phrase associated with bells unclear.",
+    "1187": "Reply about leaving home unclear.",
+    "1208": "Place described as primitive unclear.",
+    "1252": "Clause about Hagrim taking refugees away unclear.",
+    "1287": "Hagrim/Chardon reference unclear.",
+    "1295": "Place being built after war unclear.",
+    "1298": "Phrase describing magic gone bad unclear.",
+    "1323": "Riswynn’s familiarity with mind flayers unclear.",
+    "1339": "Interjection about being sent/turning on party unclear.",
+    "1373": "Possible Hagrim name fragment unclear.",
+    "1435": "Explanation of shadow suppression garbled.",
+    "1452": "Plan to hold action until shadows scatter unclear.",
+    "1491": "Question about recovery from possession unclear.",
+    "1495": "Term for parasite or altered mind unclear.",
+    "1516": "Hypothetical ghost possession explanation ending garbled.",
+    "1541": "Application of chalice while alive partly garbled.",
+    "1551": "Proposal for applying chalice without conversation unclear.",
+    "1567": "Proposed distribution of chalice water garbled in two spans.",
+    "1570": "Question about destination after teleportation unclear.",
+    "1586": "Mad priest’s name queried in garbled fragment.",
+    "1587": "Priest name uncertain; other Del forms present.",
+    "1594": "Hope of recovering good part of Hagrim, final word unclear.",
+    "1607": "Aerial water-balloon plan modifier unclear.",
+    "1664": "Humanoid ghost’s class/type descriptor unclear.",
+    "1670": "Ghost appearance fragment unclear.",
+    "1747": "Twinned Fly ruling phrase unclear; two targets is explicit.",
+    "1761": "Proposal concerning ghost negotiation unclear.",
+    "1807": "Short in-character appeal unclear.",
+    "1828": "Name or term for dwarven past unclear.",
+    "1830": "Instruction opener unclear; show chalice clear.",
+    "1925": "Possible direct address fragment unclear.",
+    "1929": "Healing-status fragment unclear.",
+    "1932": "Possibly missing negation in question about maximum HP; retain uncertainty.",
+    "1993": "Aside about sending anyone through blocked door unclear.",
+    "2001": "Enlarged PC name fragment unclear.",
+    "2006": "Instruction about enlarged strength attempt unclear.",
+    "2045": "Comment about animated bones garbled.",
+    "2066": "Strength/door declaration unclear.",
+    "2078": "Weapon declaration partly unclear.",
+    "2105": "Roll instruction fragment unclear.",
+    "2150": "Possible PC name fragment unclear.",
+    "2155": "Statement about pulling Riswynn out garbled.",
+    "2161": "Roll-selection aside unclear.",
+    "2165": "Description of being pulled from bones garbled.",
+    "2171": "Question about responding to ghost partly garbled.",
+    "2181": "Divine entity or term in summons unclear.",
+    "2212": "Haste/weapon damage comparison unclear.",
+    "2213": "Haste/weapon damage comparison unclear.",
+    "2216": "Advisors’ action or direction garbled.",
+    "2218": "Movement/action fragment unclear.",
+    "2230": "Extra number before explicit 22 necrotic damage uncertain.",
+    "2270": "Spell lookup or readiness fragment unclear.",
+    "2290": "Strategy decision verb unclear.",
+    "2325": "Luck feature applicability clause garbled.",
+    "2360": "Extra attack declaration garbled.",
+    "2366": "Enlarged damage dice/addition unclear.",
+    "2382": "Target name or pointing fragment unclear.",
+    "2410": "Possible in-character utterance unclear.",
+    "2420": "Spell/turn-order aside unclear.",
+    "2430": "Spiritual Weapon range/name reference unclear.",
+    "2485": "Question about recharge period garbled, answer resolved in later exchange.",
+    "2517": "Target count wording unclear; do not assume all targets.",
+    "2552": "Comment about Lightning Bolt/spell interaction unclear.",
+    "2566": "Question about necrotic aura partly garbled.",
+    "2592": "Range/movement aside garbled.",
+    "2633": "Saving throw result aside unclear.",
+    "2684": "Action-result aside unclear.",
+    "2688": "Sightline through enlarged PC unclear.",
+    "2722": "Movement count or damage fragment unclear.",
+    "2737": "In-character address/regards while punching Hagrim unclear.",
+    "2769": "Damage calculation contains extra garbled numbers; 27 total explicit.",
+    "2854": "Attack-result fragment unclear.",
+    "2896": "Prone ruling verb unclear; subsequent DM correction retained.",
+    "2903": "Description of sitting on prone ghost unclear.",
+    "2925": "Urgent request to apply chalice garbled.",
+    "2930": "Method of applying chalice water partly garbled.",
+    "2933": "In-character appeal invoking bells of home unclear.",
+    "2960": "Subject of belief in redemption unclear.",
+    "3013": "Question about humans partly garbled.",
+    "3019": "Human group name unclear.",
+    "3021": "Mission-of-mercy remark partly garbled.",
+    "3036": "Return-route/place fragment unclear.",
+    "3061": "Thror’s exile history opening garbled.",
+    "92": "Planning question partly garbled.",
+    "98": "Gesture inviting Riswynn to speak unclear at end.",
+    "123": "Ghost’s response fragment unclear.",
+    "125": "Name-search fragment unclear.",
+    "129": "Attempted explanation interrupted by ghost; fragment unclear.",
+    "517": "Intended route into wastes fragment unclear.",
+    "571": "Fragment before statue description unclear.",
+    "595": "Stated flight direction may be ASR error; not assumed upward without confirmation.",
+    "954": "Attack result fragment unclear.",
+    "1034": "Comparison of resting in cave/open partly garbled.",
+    "1171": "Possible identity question versus greeting unclear.",
+    "1226": "Disoriented question fragment unclear.",
+    "1248": "Detail of city depopulation/ruin possibly ASR; exact object unclear.",
+    "1310": "Description of tentacled creatures’ face/nose unclear.",
+    "1394": "Action to trap creatures in tunnels missing verb.",
+    "1399": "Hagrim’s preference for fighting versus flight fragment unclear.",
+    "1547": "Subject of debt repayment sentence missing or garbled.",
+    "1860": "Run-to-door declaration opener unclear.",
+    "1940": "Potion growth description may mean double size; exact source phrase retained.",
+    "2092": "Relationship between banging on door and bones’ response garbled.",
+    "2141": "Fragment before ghost turns unclear.",
+    "2207": "Weapon attack/action explanation missing word; preserve gap.",
+    "2460": "Permission about moving through Spiritual Weapon unclear.",
+    "2690": "Cover ruling behind enlarged PC unclear.",
+    "2706": "Remaining movement confirmation ending unclear.",
+    "2753": "Stunning Strike/attack-count commentary garbled in two spans.",
+    "2988": "Tak name recoverable but apparent sighting versus question not secure."
+  },
+  "incidental": {
+    "457": "Overlapping table aside about avoiding humans; no recoverable substantive detail.",
+    "589": "Abandoned scouting aside; flying plan clear.",
+    "634": "Elapsed scouting time fragment; one hour clear at u0633.",
+    "641": "Cave-content joke; contents explicitly unknown.",
+    "951": "Attack-opportunity aside garbled, attack proceeds clearly.",
+    "1026": "D&D Beyond UI query; death save outcome clear.",
+    "1153": "Banter about ale/living dwarf unclear.",
+    "1177": "Drinking-description ending; sip clear.",
+    "1314": "Unintelligible repeated “it’s” cross-talk, verbatim retained.",
+    "1426": "Reaction to sorcery-point recovery garbled; amount clear.",
+    "1869": "Favorite beer/sweat-ghost banter unclear; remaining warrior description recoverable.",
+    "1890": "Hit-reaction word/name unclear; target and roll clear.",
+    "2075": "Joke about bones hearing unclear.",
+    "2186": "Banter after enlarged PC trips; no independent event.",
+    "2329": "Roll-quality aside; fifteen hit confirmed.",
+    "319": "Restart before clear “Some say” at u0320.",
+    "635": "Scouting/time acknowledgment fragment; three hours of boots explicit.",
+    "825": "Movement acknowledgment; position and action clear.",
+    "996": "Spell-selection hesitation before clear Menacing Attack.",
+    "997": "Unclear table fragment before Menacing Attack.",
+    "1000": "Unclear table aside; saving throw resolution clear.",
+    "1060": "Transition to cave approach description; no distinct scene detail recoverable.",
+    "1502": "Banter about repeated Riswynn name before undead explanation.",
+    "1503": "Banter about repeated Riswynn name before undead explanation.",
+    "2261": "Overlapping preamble; Merash touched by ghost clear.",
+    "2702": "Movement-rule acknowledgment unclear.",
+    "1587": "Possibly deliberately wrong name; Del secure elsewhere.",
+    "99": "Short overlapping utterance after invitation to speak; no session meaning.",
+    "145": "Unclear overlapping fragment before clear “sent by the gods” statement.",
+    "211": "Abandoned preamble before ale/chalice comparison.",
+    "237": "Repetition before historical account; no independent meaning.",
+    "275": "Overlapping fragment before battle account.",
+    "280": "Isolated fragment before Nora’s first-battle statement.",
+    "322": "Isolated overlap before concluding account.",
+    "429": "Isolated overlap in human discussion.",
+    "571": "Abandoned filler before clear statue description.",
+    "676": "Abandoned narrative fragment before rock description.",
+    "698": "Turn-transition fragment; initiative order clear elsewhere.",
+    "704": "Abandoned attack-description preamble; actual effect follows.",
+    "794": "Abandoned spell-name start; Spirit Guardians later explicit.",
+    "796": "Preamble to spell choice; selected spell explicit later.",
+    "799": "Preamble to spirit-fighting comment; selected spell explicit later.",
+    "964": "Abandoned spell/action wording; attack result explicit u0966.",
+    "965": "Abandoned spell/action wording; attack result explicit u0966.",
+    "982": "Trailing damage reaction; 22 damage explicit.",
+    "1031": "Isolated table utterance after unconsciousness joke.",
+    "1066": "Overlapping fragment during restarted introduction.",
+    "1067": "Overlapping fragment during restarted introduction.",
+    "1094": "Greeting fragment; cave meeting and offer of ale clear.",
+    "1107": "Isolated overlap while taking ale.",
+    "1125": "Abandoned meal-memory preamble; meal description follows.",
+    "1141": "Confused NPC nickname/address; identities established.",
+    "1146": "Confused NPC nickname/address following Thror introduction.",
+    "1159": "Confused NPC nickname/address; poke and claim not dead clear.",
+    "1163": "Transition to bells recollection; bell memory explicit.",
+    "1171": "Greeting/identity question fragment; answer identifies Merash.",
+    "1229": "Abandoned NPC disorientation fragment.",
+    "1607": "Water-balloon modifier unclear; aerial proposal explicit.",
+    "1636": "Isolated overlap before play resumes.",
+    "1812": "Overlapping fragment in ghost description.",
+    "1830": "Unclear opener; instruction to show chalice clear.",
+    "1925": "Attention-getting fragment; next unit addresses Merash.",
+    "1929": "Reaction to HP report; figures explicit.",
+    "1940": "Size modifier unclear; enlarged status and duration explicit.",
+    "2001": "Trailing enlarged PC name/joke; Rothfis explicitly enlarged.",
+    "2006": "Strength-attempt joke/prompt; Rothfis volunteers clearly.",
+    "2045": "Banter about animated bones; attack explicit.",
+    "2078": "Weapon-name preamble; Shatterstorm declaration repeated clearly.",
+    "2141": "Narration false start; ghost turning explicit.",
+    "2150": "Isolated overlap while player steps away; Haste request explicit.",
+    "2161": "Roll-selection aside; strength check and rescue clear.",
+    "2218": "Short movement/initiative fragment; nearby narration specifies actions.",
+    "2230": "Extra number before explicit 22 damage, repeated at u2233.",
+    "2270": "Spell-lookup aside; chosen Wall of Fire clear.",
+    "2346": "Abandoned table fragment after Haste.",
+    "2347": "Abandoned table fragment after Haste.",
+    "2348": "Abandoned table fragment after Haste.",
+    "2385": "Technical interruption before “Can you hear me”.",
+    "2406": "Table/technical fragment before resumed narration.",
+    "2420": "Spell lookup/turn aside; Spiritual Weapon declared next.",
+    "2555": "Narrative hesitation before Hagrim’s speech.",
+    "2633": "Saving-throw acknowledgment; no effect and one save clarified.",
+    "2684": "Attack reaction; hit and movement follow clearly.",
+    "2706": "End of movement confirmation; enough movement explicitly confirmed.",
+    "2722": "Possible movement count; position changed and turn ends, no distinct outcome recoverable.",
+    "2756": "Brief table reaction after turn ends.",
+    "2854": "Attack-result fragment; no narrated hit/damage and next turn proceeds.",
+    "2903": "Ghost descriptor unclear; prone ruling and later correction explicit.",
+    "2960": "Subject pronoun unclear; Riswynn’s choice of redemption explicit.",
+    "3036": "Abandoned route/place fragment; Dunmar location and helping refugees clear.",
+    "3038": "Abandoned age aside; twenty years explicit next unit.",
+    "3047": "Teleport activation aside unclear; departure explicit."
+  },
+  "firstPassRanges": [
+    [
+      1,
+      480
+    ],
+    [
+      481,
+      760
+    ],
+    [
+      761,
+      1040
+    ],
+    [
+      1041,
+      1320
+    ],
+    [
+      1321,
+      1620
+    ],
+    [
+      1621,
+      1920
+    ],
+    [
+      1921,
+      2230
+    ],
+    [
+      2231,
+      2520
+    ],
+    [
+      2521,
+      2810
+    ],
+    [
+      2811,
+      3074
+    ]
+  ],
+  "secondPassRanges": [
+    [
+      1,
+      600
+    ],
+    [
+      601,
+      1200
+    ],
+    [
+      1201,
+      1800
+    ],
+    [
+      1801,
+      2400
+    ],
+    [
+      2401,
+      3074
+    ]
+  ],
+  "status": "Complete: both passes, assessment, standard artifacts, inventory and verification passed. Material human review pending; no acceptance recorded.",
+  "nameDecisions": {
+    "Del": "Repeated prepared-source short form (u0371/u1351/u1486/u1592) retained; glossary Delig Firebrand corroborates surname but not expanded into speech.",
+    "Ironhorns": "iron corns/iron horns clustered in Rothfis’s ex-wife-clan references.",
+    "Stonefist Steins and Stables": "Repeated signs/steins phonetic drift (u0048/u3044), bartender and beer context; correction of current spoken establishment name."
+  },
+  "currentTranscriptSha256": "512cf22bfd0290aaf4b54c23c7b2b23332bafb9d0497598983cec34d1dbfd7f3",
+  "historyFieldsNote": "material and incidental dictionaries preserve suspicion/judgment history, including resolved entries. Current unresolved issues and classifications are in cleanup-assessment.json and morning-review-inventory.json."
+}

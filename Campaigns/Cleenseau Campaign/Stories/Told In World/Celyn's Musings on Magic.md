@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T09:49:52-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/lint]
+tags: [source]
 DR: 1720-01-12
 DR_end: 1720-01-13
 campaign: Cleenseau
@@ -66,19 +66,3 @@ POV: 1720
 %% Email from Kiya Nicoll on March 21, 2024 with subject "Celyn contemplates the worldbuilding and remembers his childhood" %%
 
 %% In-world time: Present-time frame is Celyn’s ride with Viepuck after meeting El, around the January 1720 pursuit of Lorin (Session 12); memories reach back into childhood. %%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added `campaign: Cleenseau` and the explicit display name; retained the source classification and year POV.
-- Corrected the callout’s subject–verb agreement from “This is Celyn’s thoughts” to “These are Celyn’s thoughts”.
-- Corrected `trumphantly` to `triumphantly` and `wth` to `with`.
-
-### Validated judgments
-- No additional validated judgments.
-
-### Open findings
-
-- [ ] **Error — privacy.player_only_callout_visible:** The opening INFO callout says “please don’t read it unless it has been revealed in game”, while the complete account remains in an ordinary collapsed callout with no publication exclusion or private content wrapper. Collapsing it does not enforce that disclosure restriction, and `campaign: Cleenseau` identifies the document rather than resolving its audience. A human must confirm whether the account has been revealed and approved for the current audience. If so, remove only the obsolete restriction clause from the callout heading. If the account should remain shared DM material excluded from Taelgarverse, place `%%^Campaign:none%%` immediately before the complete existing callout and `%%^End%%` immediately after its final quoted line, leaving the two source/chronology comments outside. If local-only retention is intended instead, use the adopted local-only block mechanism for that same unchanged callout. No visibility change has been applied.
-%%^End%%

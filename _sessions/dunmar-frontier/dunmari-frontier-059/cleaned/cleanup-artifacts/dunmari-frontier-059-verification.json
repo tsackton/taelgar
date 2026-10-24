@@ -1,0 +1,30 @@
+{
+  "status": "passed",
+  "unitCount": 2064,
+  "changedUnitCount": 514,
+  "headersPrefixesSeparatorsSpeakersTimestampsOrder": "exact preserved",
+  "sourceFilesPreserved": 7,
+  "allInputFingerprintsUnchanged": true,
+  "transcriptSha256": "0e41dc33c8dd951123082dab3f0ad2391cb28499101d5c5faaca2b3621a07fd9",
+  "allArtifactJsonAndYamlParse": true,
+  "allPreparedSourceQuotesAndContextsVerified": true,
+  "artifactFingerprintsMatch": true,
+  "standardHumanTranscriptAndSummaryMatchGenerator": true,
+  "bothPassesInspectedEveryUnit": true,
+  "materialUncertaintyAccepted": false,
+  "pendingMaterialLines": 32,
+  "unresolvedSpans": 34,
+  "checks": {
+    "scopedGitDiffCheck": {
+      "passed": true,
+      "exitCode": 0,
+      "output": ""
+    },
+    "preparedToCleanedDiffCheck": {
+      "passed": true,
+      "exitCode": 1,
+      "output": ""
+    }
+  },
+  "scope": "Only session 059 cleaned output and cleanup-artifacts written; no commits, pushes, pipeline, recaps, campaign edits, or shared index edits."
+}

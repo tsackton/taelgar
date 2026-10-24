@@ -1,0 +1,107 @@
+{
+  "reviewedRanges": [
+    {
+      "start": "u0001",
+      "end": "u0250",
+      "everyUnitInspected": true
+    },
+    {
+      "start": "u0251",
+      "end": "u0500",
+      "everyUnitInspected": true
+    },
+    {
+      "start": "u0501",
+      "end": "u0750",
+      "everyUnitInspected": true
+    },
+    {
+      "start": "u0751",
+      "end": "u1000",
+      "everyUnitInspected": true
+    },
+    {
+      "start": "u1001",
+      "end": "u1250",
+      "everyUnitInspected": true
+    },
+    {
+      "start": "u1251",
+      "end": "u1500",
+      "everyUnitInspected": true
+    },
+    {
+      "start": "u1501",
+      "end": "u1750",
+      "everyUnitInspected": true
+    },
+    {
+      "start": "u1751",
+      "end": "u1900",
+      "everyUnitInspected": true
+    },
+    {
+      "start": "u1901",
+      "end": "u2150",
+      "everyUnitInspected": true
+    },
+    {
+      "start": "u2151",
+      "end": "u2400",
+      "everyUnitInspected": true
+    },
+    {
+      "start": "u2401",
+      "end": "u2650",
+      "everyUnitInspected": true
+    },
+    {
+      "start": "u2651",
+      "end": "u2900",
+      "everyUnitInspected": true
+    },
+    {
+      "start": "u2901",
+      "end": "u3150",
+      "everyUnitInspected": true
+    },
+    {
+      "start": "u3151",
+      "end": "u3400",
+      "everyUnitInspected": true
+    },
+    {
+      "start": "u3401",
+      "end": "u3650",
+      "everyUnitInspected": true
+    },
+    {
+      "start": "u3651",
+      "end": "u3706",
+      "everyUnitInspected": true
+    }
+  ],
+  "completedThrough": "u3706",
+  "totalUnits": 3706,
+  "secondPassComplete": true,
+  "ledgerSha256": "6c1d2a92da9bb5200c45e88c31fc7c38cce83f647757573e93a562a8265c62fc",
+  "changedUnits": 1370,
+  "postRangeAuditUnits": [
+    "u0228",
+    "u0449",
+    "u0714",
+    "u0757",
+    "u1267",
+    "u1283",
+    "u1890"
+  ],
+  "finalRangeAuditUnits": [
+    "u2112",
+    "u3421"
+  ],
+  "firstPassComplete": true,
+  "preservedEarlierRange": "u0001-u1900 byte-identical to start-of-turn draft",
+  "finalizationAuditFile": "dunmari-frontier-043-finalization-audit.json",
+  "recordState": "final_progress",
+  "ledgerSha256Scope": "Current final recovery-edit-ledger.json file bytes."
+}

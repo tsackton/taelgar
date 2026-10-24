@@ -2,13 +2,13 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:21:00-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/lint]
+tags: [source]
 campaign: Dunmar Frontier
 name: Research about Ancient Sources on Limbo
 POV: modern
 ---
 
-None of the most notable ancient works on Limbo has survived completely, but three works survive in pieces. Together, they paint a strange picture of a place with no fixed rules.
+Two notable ancient works on Limbo survive only in fragments, alongside a later translation and commentary preserved intact. Together, they paint a strange picture of a place with no fixed rules.
 
 ## The Unstable Sphere
 
@@ -41,19 +41,3 @@ The First March, the _March of Iron_, teaches the initiate to _bind form through
 The Second March, the _March of Arrows_, refers to the hidden currents that flow through Limbo's chaos. Though they have no fixed form, like everything in the plane, a skilled initiate can learn to feel these shifting flows, and carefully shape their mental state to flow with the stream, rather than fight against it. 
 
 The Third March, the _March of Wounds_, speaks of the rifts and fissures scattered across Limbo. The cult’s writings describe these fissures as “breathing gates” that must be entered at the correct moment in their cycle of expansion and collapse. They allow travel across great distances in an instant, but at great risk, for a traveler who cannot hold their destination precisely in their mind will be ripped to pieces, scattered and transformed.
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added canonical campaign, explicit display name, and broadly modern scholarly viewpoint metadata.
-- Corrected the omitted article in “thought to be a relic,” the local transposition “Gauis” to the already established “Gaius,” and “in an instance” to “in an instant.”
-
-### Validated judgments
-- This is a sufficient, bounded record of the research available to the party, rather than an exhaustive reference article about Limbo.
-- The descriptive handout label is not an established named in-world work title; the named works discussed within it remain separate subjects.
-
-### Open findings
-
-- [ ] **Warning — correctness.internal_conflict:** The opening says that none of the notable ancient works survived completely and that “three works survive in pieces,” while “The Path of Unmaking” describes a later DR 1250s translation and commentary that “survived intact.” Clarify whether the intact translation is the intended exception, preserving the distinction between the ancient source codex and the later work. If so, a copy-ready replacement for the opening is: “Two notable ancient works on Limbo survive only in fragments, alongside a later translation and commentary preserved intact. Together, they paint a strange picture of a place with no fixed rules.” If “survived intact” instead refers to a different text, clarify its antecedent in that section before changing the overview.
-%%^End%%

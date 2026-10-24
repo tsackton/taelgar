@@ -1,0 +1,102 @@
+{
+  "status": "cleanup complete; morning review deferred; uncertainty not accepted",
+  "inputFingerprints": {
+    "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-source-prepared.md": "e002245e0f73c642e0b2c8ccd793eab1b9b967c7ce65f703789d9f5973bf6272",
+    "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-session.yaml": "72164b4a5efb5944b5f738a37c6bbe5dbeb97aec0c3b0e1ec750c3bd2ce610d6",
+    "_sessions/dunmar-frontier/dunmari-frontier-061/cleaned/dunmari-frontier-061-speaker-stats.json": "36d5bb654455f8cc6119b486450288d0c2c8abe75aaa9401efa4d80bfc3b7e08",
+    "_sessions/campaign-glossary.json": "365adb0efd18f9bcb39edb6668a43672b54642fcec6f970cdaa7dd24748443be"
+  },
+  "protectedNames": [
+    "Seeker",
+    "DM",
+    "Tim Sackton",
+    "Timothy Sackton",
+    "Eric Rosenbaum"
+  ],
+  "evidence": "Prepared transcript, adjacent YAML; campaign glossary consulted for canonical spellings. No archival sources consulted.",
+  "firstPassRanges": [
+    [
+      1,
+      400
+    ],
+    [
+      401,
+      650
+    ],
+    [
+      651,
+      900
+    ],
+    [
+      901,
+      1251
+    ]
+  ],
+  "secondPassRanges": [
+    [
+      1,
+      320
+    ],
+    [
+      321,
+      640
+    ],
+    [
+      641,
+      960
+    ],
+    [
+      961,
+      1251
+    ],
+    [
+      1,
+      1251
+    ],
+    [
+      1,
+      1251
+    ],
+    [
+      1101,
+      1130
+    ]
+  ],
+  "humanAcceptance": false,
+  "firstPassComplete": true,
+  "strictSecondPassComplete": true,
+  "unitCount": 1251,
+  "changedUnitCount": 290,
+  "uncertaintyCounts": {
+    "material": {
+      "lines": 16,
+      "spans": 16,
+      "issueGroups": 15
+    },
+    "incidental": {
+      "lines": 51,
+      "spans": 51,
+      "issueGroups": 51
+    }
+  },
+  "usageChecks": {
+    "initialRemainingPercent": 92,
+    "midRunRemainingPercent": 92,
+    "finalRemainingPercent": 92,
+    "reportedApplicableWindowDurationMins": 10080,
+    "allChecksSucceeded": true
+  },
+  "temporaryMutationHelpersRemoved": [
+    "cleanup-work.py",
+    "final-local-fixes.py",
+    "final-pronoun-fixes.py",
+    "pass1-0401-0650.py",
+    "pass1-0651-0900.py",
+    "pass1-0901-1251.py",
+    "pass2-0001-0320.py",
+    "pass2-0321-0640.py",
+    "pass2-0641-0960.py",
+    "pass2-0961-1251.py",
+    "refine-uncertainty.py"
+  ]
+}

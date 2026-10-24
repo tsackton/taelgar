@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T07:57:56-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint]
+tags: [meta]
 typeOf: hoard
 campaign: Dunmar Frontier
 name: Elemental Forge Hoard
@@ -29,7 +29,7 @@ The treasure recovered from the [[Elemental Forge]].
 - A second copy of “The [[Enchiridion of the Occulta Ludum]]”, also blank and slightly magical. Found in the bedroom of the Elemental Forge workshop.
 - Items recovered from the workshop shelves:
 	- 8 heavy gold bars, each weighing 10 pounds and worth 500 gp (total value 4000 gp)
-	- 16 heavy silver bars, each weighing 5 pounds and worth 25 gp (total value 500 gp)
+	- 16 heavy silver bars, each weighing 5 pounds and worth 25 gp (total value 400 gp)
 	- A well-constructed set of jeweler’s tools, and material to stock a jeweler’s workshop recovered from the workshop shelves. 
 - Four projects in various states of completion recovered from the jeweler's workshop at the Elemental Forge. All would require further finishing work before being enchanted or sold. 
 	- A delicate gold necklace with a pendant setting designed to hold a gemstone, but empty %%SECRET[v2:bffbd75048d0ecf7743919ea0734c6e7]%%
@@ -56,19 +56,3 @@ The treasure recovered from the [[Elemental Forge]].
 - Phoenix feather
 - Starlight dew
 - A 2000 pound magical forge that can be heated to temperatures required to smelt metal without fuel.
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added the canonical campaign identity and explicit display name, and recorded the inventory’s acquisition-era POV.
-- Corrected objective prose defects: "The spellbook's contains are currently unknown." → "The spellbook's contents are currently unknown.".
-
-### Validated judgments
-- The note is sufficient as a campaign acquisition inventory; later item dispositions are recorded separately in [[Party Treasure - Former]].
-- Reviewed every SECRET annotation without transferring its contents into shared prose.
-
-### Open findings
-
-- [ ] **Warning — consistency.internal_conflict:** Under “Items recovered from the workshop shelves”, 16 silver bars at 25 gp each total 400 gp, but the entry says “total value 500 gp”. Confirm which figure governs. If the count and unit value are correct, replace only the subtotal with “total value 400 gp”; if 500 gp is intended, verify the count or per-bar value. No treasure amount has been changed.
-%%^End%%

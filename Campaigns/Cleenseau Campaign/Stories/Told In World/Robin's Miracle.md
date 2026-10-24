@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T09:49:52-04:00"
 lintVersion: "3.5"
-tags: [source, status/check/lint]
+tags: [source]
 campaign: Cleenseau
 DR: 1720-01-14
 name: "Robin's Miracle of Smiting"
@@ -27,20 +27,3 @@ POV: 1720
 > Skeletons arose from the wreckage, and the battle continued, and the presence faded away, behind the veil. But Robin still thinks of how it felt, when that power moved through him.
 
 %% Email from Mike Sackton on March 24, 2024 with subject "The Morning the Wanderer Blessed Robin" %%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Recorded the existing document title in `name`; retained its source classification and year POV.
-- Corrected “the calvary had held up well” to “the cavalry had held up well”.
-- Corrected “the havoc it would wreck” to “the havoc it would wreak”.
-- Corrected “like a a dusty road” to “like a dusty road”.
-
-### Validated judgments
-- No additional validated judgments.
-
-### Open findings
-
-- [ ] **Error — privacy.player_only_callout_visible:** The opening INFO callout says “Only read it if Robin has revealed it in game”, but a collapsed callout leaves the complete reflection visible to readers and publication. Confirm whether it has now been revealed and is approved for the current audience; if so, remove the obsolete restriction. Otherwise, place `%%^Campaign:none%%` immediately before the complete existing callout and `%%^End%%` immediately after it for shared DM retention, or retain that same unchanged callout inside a local-only SECRET comment using the vault’s documented syntax. Keep the email provenance comment outside the wrapper. The linter has not changed visibility.
-%%^End%%

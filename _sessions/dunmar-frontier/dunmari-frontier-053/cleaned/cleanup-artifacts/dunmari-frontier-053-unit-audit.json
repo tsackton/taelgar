@@ -1,0 +1,3723 @@
+{
+  "units": [
+    {
+      "uid": "u0001",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0002",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0003",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0004",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0005",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0006",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0007",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0008",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0009",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0010",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0011",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0012",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0013",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0014",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0015",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0016",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0017",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0018",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0019",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0020",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0021",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0022",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0023",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0024",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0025",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0026",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0027",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0028",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0029",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0030",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0031",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0032",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0033",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0034",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0035",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0036",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0037",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0038",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0039",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0040",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0041",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0042",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0043",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0044",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0045",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0046",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0047",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0048",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0049",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0050",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0051",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0052",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0053",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0054",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0055",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0056",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0057",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0058",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0059",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0060",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0061",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0062",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0063",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0064",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0065",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0066",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0067",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0068",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0069",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0070",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0071",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0072",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0073",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0074",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0075",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0076",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0077",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0078",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0079",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0080",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0081",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0082",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0083",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0084",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0085",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0086",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0087",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0088",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0089",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0090",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0091",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0092",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0093",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0094",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0095",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0096",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0097",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0098",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0099",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0100",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0101",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0102",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0103",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0104",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0105",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0106",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0107",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0108",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0109",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0110",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0111",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0112",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0113",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0114",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0115",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0116",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0117",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0118",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0119",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0120",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0121",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0122",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0123",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0124",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0125",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0126",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0127",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0128",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0129",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0130",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0131",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0132",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0133",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0134",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0135",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0136",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0137",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0138",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0139",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0140",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0141",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0142",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0143",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0144",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0145",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0146",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0147",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0148",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0149",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0150",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0151",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0152",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0153",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0154",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0155",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0156",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0157",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0158",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0159",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0160",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0161",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0162",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0163",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0164",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0165",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0166",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0167",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0168",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0169",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0170",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0171",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0172",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0173",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0174",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0175",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0176",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0177",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0178",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0179",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0180",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0181",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0182",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0183",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0184",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0185",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0186",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0187",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0188",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0189",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0190",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0191",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0192",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0193",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0194",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0195",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0196",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0197",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0198",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0199",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0200",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0201",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0202",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0203",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0204",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0205",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0206",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0207",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0208",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0209",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0210",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0211",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0212",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0213",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0214",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0215",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0216",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0217",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0218",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0219",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0220",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0221",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0222",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0223",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0224",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0225",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0226",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0227",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0228",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0229",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0230",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0231",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0232",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0233",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0234",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0235",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0236",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0237",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0238",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0239",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0240",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0241",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0242",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0243",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0244",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0245",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0246",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0247",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0248",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0249",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0250",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0251",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0252",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0253",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0254",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0255",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0256",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0257",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0258",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0259",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0260",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0261",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0262",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0263",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0264",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0265",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0266",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0267",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0268",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0269",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0270",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0271",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0272",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0273",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0274",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0275",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0276",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0277",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0278",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0279",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0280",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0281",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0282",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0283",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0284",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0285",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0286",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0287",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0288",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0289",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0290",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0291",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0292",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0293",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0294",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0295",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0296",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0297",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0298",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0299",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0300",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0301",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0302",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0303",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0304",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0305",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0306",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0307",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0308",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0309",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0310",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0311",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0312",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0313",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0314",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0315",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0316",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0317",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0318",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0319",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0320",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0321",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0322",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0323",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0324",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0325",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0326",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0327",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0328",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0329",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0330",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0331",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0332",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0333",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0334",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0335",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0336",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0337",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0338",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0339",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0340",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0341",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0342",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0343",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0344",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0345",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0346",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0347",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0348",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0349",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0350",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0351",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0352",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0353",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0354",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0355",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0356",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0357",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0358",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0359",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0360",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0361",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0362",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0363",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0364",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0365",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0366",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0367",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0368",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0369",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0370",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0371",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0372",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0373",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0374",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0375",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0376",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0377",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0378",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0379",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0380",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0381",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0382",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0383",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0384",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0385",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0386",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0387",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0388",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0389",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0390",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0391",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0392",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0393",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0394",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0395",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0396",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0397",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0398",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0399",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0400",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0401",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0402",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0403",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0404",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0405",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0406",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0407",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0408",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0409",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0410",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0411",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0412",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0413",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0414",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0415",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0416",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0417",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0418",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0419",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0420",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0421",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0422",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0423",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0424",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0425",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0426",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0427",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0428",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0429",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0430",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0431",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0432",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0433",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0434",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0435",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0436",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0437",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0438",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0439",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0440",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0441",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0442",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0443",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0444",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0445",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0446",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0447",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0448",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0449",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0450",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0451",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0452",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0453",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0454",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0455",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0456",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0457",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0458",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0459",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0460",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0461",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0462",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0463",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0464",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0465",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0466",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0467",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0468",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0469",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0470",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0471",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0472",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0473",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0474",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0475",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0476",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0477",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0478",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0479",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0480",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0481",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0482",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0483",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0484",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0485",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0486",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0487",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0488",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0489",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0490",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0491",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0492",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0493",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0494",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0495",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0496",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0497",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0498",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0499",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0500",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0501",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0502",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0503",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0504",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0505",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0506",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0507",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0508",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0509",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0510",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0511",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "incidental_uncertainty"
+    },
+    {
+      "uid": "u0512",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0513",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0514",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0515",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0516",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0517",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0518",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0519",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0520",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0521",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0522",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0523",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0524",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "high_confidence_fix"
+    },
+    {
+      "uid": "u0525",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0526",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0527",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": true,
+      "finalClassification": "material_uncertainty"
+    },
+    {
+      "uid": "u0528",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0529",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0530",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    },
+    {
+      "uid": "u0531",
+      "firstPassInspected": true,
+      "strictSecondPassInspected": true,
+      "changed": false,
+      "finalClassification": "clean_or_intact_speech"
+    }
+  ],
+  "count": 531,
+  "basis": "Unit-by-unit inspection in three contiguous blocks on each pass; not an automated assertion of linguistic correctness."
+}

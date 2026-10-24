@@ -1,0 +1,3128 @@
+{
+  "status": "complete_review_logged",
+  "usageStartRemainingPercent": 92,
+  "protectedNames": [
+    "Seeker",
+    "Raven",
+    "Spirala",
+    "Caulaus",
+    "Tim"
+  ],
+  "glossary": "_sessions/campaign-glossary.json",
+  "firstPassThrough": 2367,
+  "secondPassThrough": 2367,
+  "changes": {
+    "u0004": {
+      "before": "the Faye realm of Ambriclow, on the borders of shimmer song,",
+      "after": "the fey realm of Amberglow, on the borders of Shimmersong,"
+    },
+    "u0006": {
+      "before": "seeker",
+      "after": "Seeker"
+    },
+    "u0007": {
+      "before": "Ah, Sparella and Raven have come after leaving the crystal Peaks and bidding farewell to Picasa",
+      "after": "Ah, Spirala and Raven have come after leaving the Crystal Peaks and bidding farewell to Mikasa"
+    },
+    "u0009": {
+      "before": "and passing through shimmer song, where you spent",
+      "after": "and passing through Shimmersong, where you spent"
+    },
+    "u0010": {
+      "before": "a fair bit of time, although it's hard to know how long in the fay wild any time is traveling to the grows of stone trees from which the most delicious fruit of all varieties grow, spending time among the forested valleys where giant spiders spin webs of gossamer silver",
+      "after": "a fair bit of time, although it's hard to know how long in the Feywild any time is traveling to the groves of stone trees from which the most delicious fruit of all varieties grow, spending time among the forested valleys where giant spiders spin webs of gossamer silver"
+    },
+    "u0011": {
+      "before": "traveling to the summer court of the light dancer,",
+      "after": "traveling to the summer court of the Lightdancer,"
+    },
+    "u0013": {
+      "before": "and seek, are spending some time learning the",
+      "after": "and Seeker spending some time learning the"
+    },
+    "u0014": {
+      "before": "about the crystallized magic gifted to you by a Lauren,",
+      "after": "about the crystallized magic gifted to you by [[a Lauren]],"
+    },
+    "u0016": {
+      "before": "fashioning it into a item you can use, which I just added to your character. She",
+      "after": "fashioning it into an item you can use, which I just added to your character sheet."
+    },
+    "u0017": {
+      "before": "great Thank you",
+      "after": "Great, thank you."
+    },
+    "u0022": {
+      "before": "you've left Shimmer song, and come to the decaying realm of amberglow in search of",
+      "after": "you've left Shimmersong, and come to the decaying realm of Amberglow in search of"
+    },
+    "u0023": {
+      "before": "Uh, yes, everybody got along. The rest.",
+      "after": "Uh, yes, everybody got a long rest."
+    },
+    "u0024": {
+      "before": "Go ahead and take a long rest. Have a good call Ah!",
+      "after": "Go ahead and take a long rest. Yeah, good call. Ah!"
+    },
+    "u0025": {
+      "before": "In search of last light falls the",
+      "after": "In search of Lastlight Falls the"
+    },
+    "u0026": {
+      "before": "location of the Fay Crossing that seeker hopes to find",
+      "after": "location of the fey crossing that Seeker hopes to find"
+    },
+    "u0028": {
+      "before": "decaying domain of Abraham.",
+      "after": "decaying domain of Amberglow."
+    },
+    "u0033": {
+      "before": "It falls about last light falls last light.",
+      "after": "It falls about Lastlight Falls, Lastlight."
+    },
+    "u0034": {
+      "before": "Um, we didn't use our inspiration from last session. Can we keep it, or does that go? Why,",
+      "after": "Um, we didn't use our inspiration from last session. Can we keep it, or does that go away?"
+    },
+    "u0039": {
+      "before": "or longer since the disappearance of the Cloud Spinner, the queen of sunsets, it's fallen into danger and",
+      "after": "or longer since the disappearance of the Cloudspinner, the queen of sunsets, it's fallen into danger and"
+    },
+    "u0041": {
+      "before": "winter nights guard against, when summer ends and shimmer song.",
+      "after": "Winter Knights guard against, when summer ends in Shimmersong."
+    },
+    "u0045": {
+      "before": "to find last light falls the Fay crossing in this domain.",
+      "after": "to find Lastlight Falls the fey crossing in this domain."
+    },
+    "u0051": {
+      "before": "astral landscape, now a twisting maze of ravines and false paths and dead ends and sudden cliffs.",
+      "after": "pastoral landscape, now a twisting maze of ravines and false paths and dead ends and sudden cliffs."
+    },
+    "u0052": {
+      "before": "If I, Raven knows, knows somebody who",
+      "after": "In fact, Raven knows, knows somebody who"
+    },
+    "u0055": {
+      "before": "has spent time in amberglow, and could lead you through, and as you approach a small camp, sheltered on the side of a hill topped by the crumbling ruin of a watchtower.",
+      "after": "has spent time in Amberglow, and could lead you through, and as you approach a small camp, sheltered on the side of a hill topped by the crumbling ruin of a watchtower."
+    },
+    "u0057": {
+      "before": "raven",
+      "after": "Raven"
+    },
+    "u0058": {
+      "before": "umbrella and seeker. Ah,",
+      "after": "Spirala and Seeker. Ah,"
+    },
+    "u0059": {
+      "before": "maybe introduce your characters, and if you want to say one or zero, or one or two or three sentences about what you have been doing in shimmer song. Feel free to do that as well.",
+      "after": "maybe introduce your characters, and if you want to say one or zero, or one or two or three sentences about what you have been doing in Shimmersong. Feel free to do that as well."
+    },
+    "u0062": {
+      "before": "Call us?",
+      "after": "Caulaus."
+    },
+    "u0066": {
+      "before": "Well, and she our song Raven, was probably mostly",
+      "after": "Well, in Shimmersong Raven, was probably mostly"
+    },
+    "u0069": {
+      "before": "westing.",
+      "after": "resting."
+    },
+    "u0071": {
+      "before": "Paul",
+      "after": "tall"
+    },
+    "u0072": {
+      "before": "figure with a black, half black, half white raven for their cloak,",
+      "after": "figure with a black, half black, half white raven-feather cloak,"
+    },
+    "u0073": {
+      "before": "um white and black tugs on the Ch. And a",
+      "after": "um [[white and black tugs on the Ch.]] And a"
+    },
+    "u0074": {
+      "before": "raven masks strapped to their face with um the head dress behind it. That's",
+      "after": "raven mask strapped to their face with um the headdress behind it. That's"
+    },
+    "u0078": {
+      "before": "Well, um! I'll just describe. I I have a few. I have a few role playing things, but i'll wait till everybody's done the description. But the description of call us he's he's",
+      "after": "Well, um! I'll just describe. I I have a few. I have a few role playing things, but i'll wait till everybody's done the description. But the description of Caulaus he's he's"
+    },
+    "u0080": {
+      "before": "you know, as a well organized camp There's uh, you know, some",
+      "after": "you know, has a well-organized camp There's uh, you know, some"
+    },
+    "u0085": {
+      "before": "and call us is standing in front of the. He stood up as he, as he noticed your approach. Um is standing kind of almost at like a parade rest. He clearly looks like a a soldier. Somebody has been in the army. Um! He's wearing shimmering uh",
+      "after": "and Caulaus is standing in front of the. He stood up as he, as he noticed your approach. Um is standing kind of almost at like a parade rest. He clearly looks like a a soldier. Somebody has been in the army. Um! He's wearing shimmering uh"
+    },
+    "u0088": {
+      "before": "highly polished plate. Armor um in a helm with a with a big red plume coming off the like a horse tail, or some, you know, horse, hair or something. Gloom coming off the back",
+      "after": "highly polished plate armor um in a helm with a with a big red plume coming off the like a horse tail, or some, you know, horse, hair or something. Plume coming off the back"
+    },
+    "u0091": {
+      "before": "he's wearing a tab",
+      "after": "he's wearing a tabard"
+    },
+    "u0092": {
+      "before": "with the Roman numeral three on it. Um, and some writing. Um. Do any of you whenever you recognize, drink, quarry in writing.",
+      "after": "with the Roman numeral three on it. Um, and some writing. Um. Do any of you [[whenever]] you recognize, Drankorian writing."
+    },
+    "u0094": {
+      "before": "My, Id sneaker.",
+      "after": "Might Seeker?"
+    },
+    "u0097": {
+      "before": "you don't need you. You would recognize I did something written in, drank Korean on the underneath the the three um",
+      "after": "you don't need you. You would recognize something written in, Drankorian on the underneath the the three um"
+    },
+    "u0099": {
+      "before": "He walks",
+      "after": "He looks"
+    },
+    "u0102": {
+      "before": "hit",
+      "after": "hint"
+    },
+    "u0104": {
+      "before": "saying at some. I mean, you're looking at his eyes. You can see like looking at him. You can see he's like uh darting around a little bit like he's. He's not um.",
+      "after": "sane [[at some.]] I mean, you're looking at his eyes. You can see like looking at him. You can see he's like uh darting around a little bit like he's. He's not um."
+    },
+    "u0109": {
+      "before": "the seeker is a a dwarf",
+      "after": "the Seeker is a a dwarf"
+    },
+    "u0110": {
+      "before": "in dark red and charcoal colored traveling cloak, and I elaborately breeded",
+      "after": "in dark red and charcoal colored traveling cloak, and an elaborately braided"
+    },
+    "u0111": {
+      "before": "you ever in beard,",
+      "after": "[[you ever in]] beard,"
+    },
+    "u0112": {
+      "before": "and as he walks along he is pro or occupied,",
+      "after": "and as he walks along he is preoccupied,"
+    },
+    "u0116": {
+      "before": "Cereala is a a petite, winged fairy, with a useful appearance, but her insightful gaze. Um means that you know the youth is just her fame. Nature,",
+      "after": "Spirala is a a petite, winged fairy, with a youthful appearance, but her insightful gaze. Um means that you know the youth is just her fey nature,"
+    },
+    "u0121": {
+      "before": "showing off uh tumor song as they walk uh through um having",
+      "after": "showing off uh Shimmersong as they walk uh through um having"
+    },
+    "u0123": {
+      "before": "the seekers",
+      "after": "the Seeker's"
+    },
+    "u0127": {
+      "before": "call us, sort of",
+      "after": "Caulaus, sort of"
+    },
+    "u0130": {
+      "before": "travelers and amberglow!",
+      "after": "travelers in Amberglow!"
+    },
+    "u0134": {
+      "before": "last light",
+      "after": "Lastlight"
+    },
+    "u0135": {
+      "before": "last last night falls.",
+      "after": "Last, Lastlight Falls."
+    },
+    "u0137": {
+      "before": "They portal there, and our frontiers trying to return to the",
+      "after": "A portal there, and our friend here is trying to return to the"
+    },
+    "u0141": {
+      "before": "I am, in fact, I tend to think of this as the other side. How fair is the war,",
+      "after": "I am, in fact, I tend to think of this as the other side. How fares the war,"
+    },
+    "u0149": {
+      "before": "the great War? If that's what you mean to my knowledge, ended",
+      "after": "the Great War? If that's what you mean to my knowledge, ended"
+    },
+    "u0150": {
+      "before": "two hundred years ago. The great war. I",
+      "after": "two hundred years ago. The Great War. I"
+    },
+    "u0151": {
+      "before": "I don't know if i'd call it that. And profession was",
+      "after": "I don't know if i'd call it that. Emperor Vestian was"
+    },
+    "u0152": {
+      "before": "struggling to defeat the um. This",
+      "after": "struggling to defeat the um. [[This]]"
+    },
+    "u0153": {
+      "before": "these are names I do not know. Is that true to him",
+      "after": "these are names I do not know. Is that true, Tim?"
+    },
+    "u0154": {
+      "before": "and not heard of him?",
+      "after": "[[and not]] heard of him?"
+    },
+    "u0159": {
+      "before": "what this up Emperor Vesting, you know Emperor Vestian was an was a Emperor of drank, or around",
+      "after": "what this, uh, Emperor Vestian, you know Emperor Vestian was an was a Emperor of Drankor around"
+    },
+    "u0162": {
+      "before": "Bring quarry in civil war from about that time, but you, Haven't studied it deeply.",
+      "after": "Drankorian civil war from about that time, but you, Haven't studied it deeply."
+    },
+    "u0169": {
+      "before": "by the historical step here more than a few years, my friend,",
+      "after": "[[by the historical step here]] more than a few years, my friend,"
+    },
+    "u0171": {
+      "before": "are you from the kingdom of drink or yourself. Is that your allegiance?",
+      "after": "are you from the kingdom of Drankor yourself. Is that your allegiance?"
+    },
+    "u0175": {
+      "before": "third Celest legion",
+      "after": "third [[Celest]] legion"
+    },
+    "u0178": {
+      "before": "I would welcome your, your your company. I've learned also of this last light falls.",
+      "after": "I would welcome your, your your company. I've learned also of this Lastlight Falls."
+    },
+    "u0185": {
+      "before": "for improvestion.",
+      "after": "for Emperor Vestian."
+    },
+    "u0187": {
+      "before": "excuse an unforgiving winter as followed on this one's, mind",
+      "after": "excuse an unforgiving winter has fallen on this one's mind"
+    },
+    "u0189": {
+      "before": "It is often called in this place.",
+      "after": "It is often cold in this place."
+    },
+    "u0196": {
+      "before": "the long shadow ravine",
+      "after": "the Long Shadow Ravine"
+    },
+    "u0197": {
+      "before": "guarded by vonder one I,",
+      "after": "guarded by Vondar One-Eye,"
+    },
+    "u0207": {
+      "before": "a wait, the lady even tied",
+      "after": "await the Lady Eventide"
+    },
+    "u0209": {
+      "before": "the lady even tied. Yes, the lady even tied uh will help us help us across if we can gain her favor.",
+      "after": "the Lady Eventide. Yes, the Lady Eventide uh will help us help us across if we can gain her favor."
+    },
+    "u0212": {
+      "before": "uh the the the last light falls. I have not yet made it to that place, I",
+      "after": "uh the the the Lastlight Falls. I have not yet made it to that place, I"
+    },
+    "u0213": {
+      "before": "but I've heard tell that it's easy to find if we can find a line of of Cyprus trees, a long line of trees that stretches for miles in a perfectly straight line leading to last light falls",
+      "after": "but I've heard tell that it's easy to find if we can find a line of of cypress trees, a long line of trees that stretches for miles in a perfectly straight line leading to Lastlight Falls"
+    },
+    "u0219": {
+      "before": "Yes, would you what else eat first?",
+      "after": "Yes, would you want to eat first?"
+    },
+    "u0221": {
+      "before": "some year,",
+      "after": "some [[year]],"
+    },
+    "u0223": {
+      "before": "you nice to have company.",
+      "after": "It's nice to have company."
+    },
+    "u0228": {
+      "before": "right. So everything in the Fay wild is driven by emotion. Right? So it depends on whether you want to feel hungry or not, like. If the if the",
+      "after": "right. So everything in the Feywild is driven by emotion. Right? So it depends on whether you want to feel hungry or not, like. If the if the"
+    },
+    "u0230": {
+      "before": "or even literally never eats.",
+      "after": "Raven literally never eats."
+    },
+    "u0231": {
+      "before": "I I was wondering about that whether we ever saw your face into your mask when we were all eating.",
+      "after": "I I was wondering about that whether we ever saw your face under your mask when we were all eating."
+    },
+    "u0232": {
+      "before": "Rah! Raven's like the man the Lori next, if he doesn't have to eat, so she doesn't have to take out from that",
+      "after": "Rah! Raven's like the Mandalorian, except, if he doesn't have to eat, so she doesn't have to take off the mask"
+    },
+    "u0234": {
+      "before": "Ah, on second top",
+      "after": "Ah, on second thought"
+    },
+    "u0235": {
+      "before": "call us,",
+      "after": "Caulaus,"
+    },
+    "u0237": {
+      "before": "be expedient about things and help you strike your camp so that we can be off as even suggested.",
+      "after": "be expedient about things and help you strike your camp so that we can be off as Raven suggested."
+    },
+    "u0246": {
+      "before": "He starts sort of bustling about after he sort of gulps a little bit of food a little bit messly. He starts sort of bustling about and",
+      "after": "He starts sort of bustling about after he sort of gulps a little bit of food a little bit messily. He starts sort of bustling about and"
+    },
+    "u0250": {
+      "before": "Now that the thing about ravines is that one can somehow walk around them.",
+      "after": "Now that the thing about ravines is that one can sometimes walk around them."
+    },
+    "u0254": {
+      "before": "The path to the Golden Hills are",
+      "after": "The paths through the Golden Hills are"
+    },
+    "u0255": {
+      "before": "twisting and and to follow, and",
+      "after": "twisting and hard to follow, and"
+    },
+    "u0272": {
+      "before": "volunteer one. I is a",
+      "after": "Vondar One-Eye is a"
+    },
+    "u0277": {
+      "before": "I think I think the past must be clear.",
+      "after": "I think I think the path must be clear."
+    },
+    "u0282": {
+      "before": "Did I kill von Deer?",
+      "after": "Did I kill Vondar?"
+    },
+    "u0287": {
+      "before": "I do not think Vandeer is",
+      "after": "I do not think Vondar is"
+    },
+    "u0294": {
+      "before": "key or cold. I. It is easy to warm up by the fire if you are called.",
+      "after": "cure cold. I. It is easy to warm up by the fire if you are cold."
+    },
+    "u0299": {
+      "before": "with this your mind is cold lines. Don't get cold bodies, get cold.",
+      "after": "with this your mind is cold. Minds don't get cold; bodies get cold."
+    },
+    "u0304": {
+      "before": "like Carlos looks around for something happy to pick up, find something heavy, and just like, picks it up and hold it with one hand over his head,",
+      "after": "like Caulaus looks around for something heavy to pick up, find something heavy, and just like, picks it up and hold it with one hand over his head,"
+    },
+    "u0320": {
+      "before": "Lightly under his breath, seeing kind of an off-key.",
+      "after": "Lightly under his breath, singing kind of an off-key."
+    },
+    "u0322": {
+      "before": "train Korean marching song.",
+      "after": "Drankorian marching song."
+    },
+    "u0329": {
+      "before": "call us knows the way,",
+      "after": "Caulaus knows the way,"
+    },
+    "u0342": {
+      "before": "that that call us points out as the",
+      "after": "that that Caulaus points out as the"
+    },
+    "u0343": {
+      "before": "um as the Long Shadow Ravine, and you can see where it gets his name, because the whole thing is",
+      "after": "um as the Long Shadow Ravine, and you can see where it gets its name, because the whole thing is"
+    },
+    "u0347": {
+      "before": "what you can see the ravine itself. Meat seems to be maybe fifteen, twenty feet across, at least at the entrance,",
+      "after": "what you can see the ravine itself. It seems to be maybe fifteen, twenty feet across, at least at the entrance,"
+    },
+    "u0351": {
+      "before": "formidable now. You could, of course, attempt it to climb up, and,",
+      "after": "formidable now. You could, of course, attempt to climb up, and,"
+    },
+    "u0353": {
+      "before": "of the in. But",
+      "after": "of the ravine. But"
+    },
+    "u0354": {
+      "before": "from what you know of the fay Wow! That's unlikely to lead actually through the mountains.",
+      "after": "from what you know of the Feywild, That's unlikely to lead actually through the mountains."
+    },
+    "u0356": {
+      "before": "Ah created this valium read?",
+      "after": "Ah created this valley and ravine?"
+    },
+    "u0358": {
+      "before": "seeker would be able to tell that at one point. This was a lake,",
+      "after": "Seeker would be able to tell that at one point. This was a lake,"
+    },
+    "u0359": {
+      "before": "and water flew out of this lake in through the canyon,",
+      "after": "and water flowed out of this lake in through the canyon,"
+    },
+    "u0368": {
+      "before": "We should just continue down moving.",
+      "after": "We should just continue down the ravine."
+    },
+    "u0374": {
+      "before": "We appreciate your creative nature seeker, but",
+      "after": "We appreciate your creative nature Seeker, but"
+    },
+    "u0375": {
+      "before": "from all for the past.",
+      "after": "[[from all for the past.]]"
+    },
+    "u0376": {
+      "before": "If if we do find here,",
+      "after": "If if we do find him,"
+    },
+    "u0380": {
+      "before": "Now you're suggesting to avoid having.",
+      "after": "Now you're suggesting to [[avoid having.]]"
+    },
+    "u0384": {
+      "before": "So I like to arrest",
+      "after": "[[So I like to arrest]]"
+    },
+    "u0385": {
+      "before": "Raven and spar out on the back.",
+      "after": "Raven and Spirala in the back."
+    },
+    "u0398": {
+      "before": "If you're going to scout a head I",
+      "after": "If you're going to scout ahead I"
+    },
+    "u0402": {
+      "before": "not her, under the circumstances,",
+      "after": "[[not her]], under the circumstances,"
+    },
+    "u0412": {
+      "before": "stuff more to",
+      "after": "[[stuff more to]]"
+    },
+    "u0427": {
+      "before": "I sock it. It's not like a central. I it's just like it's not essential. It's just one eye that's like bulging out of its ad",
+      "after": "eye socket. It's not like a central eye it's just like it's not central. It's just one eye that's like bulging out of its head"
+    },
+    "u0428": {
+      "before": "um, he's told he's got this huge club uh I mean he's a giant. He's maybe fifteen twenty feet tall.",
+      "after": "um, he's tall he's got this huge club uh I mean he's a giant. He's maybe fifteen twenty feet tall."
+    },
+    "u0430": {
+      "before": "and He's God has has like arm, his hand up against the",
+      "after": "and he's got, has, has like arm, his hand up against the"
+    },
+    "u0432": {
+      "before": "the I it's kind of looking around, and you can see one of his feet is um",
+      "after": "the eye it's kind of looking around, and you can see one of his feet is um"
+    },
+    "u0437": {
+      "before": "They are staring, and there are",
+      "after": "there, staring, and there are"
+    },
+    "u0446": {
+      "before": "uh they look almost like misshapen statters. You know they have corns, but the horns are all sort of pointing in",
+      "after": "uh they look almost like misshapen satyrs. You know they have horns, but the horns are all sort of pointing in"
+    },
+    "u0448": {
+      "before": "They have that instead of they have clothing hooves, but they've got long like clawed hands.",
+      "after": "They have that instead of they have cloven hooves, but they've got long like clawed hands."
+    },
+    "u0451": {
+      "before": "almost like miss, like silvery mist",
+      "after": "almost like mist, like silvery mist"
+    },
+    "u0452": {
+      "before": "ripping down off the off the uh",
+      "after": "dripping down off the off the uh"
+    },
+    "u0453": {
+      "before": "delayed a little",
+      "after": "the ladle"
+    },
+    "u0454": {
+      "before": "No, dump it back, and and the giant just like kicks the cauldron slightly, and it's",
+      "after": "They'll dump it back, and and the giant just like kicks the cauldron slightly, and it's"
+    },
+    "u0456": {
+      "before": "And they keep stirring and like It's almost like he's looking for something. This twisted sider, like creature, is looking for something in the cauldron.",
+      "after": "And they keep stirring and like It's almost like he's looking for something. This twisted satyr-like creature, is looking for something in the cauldron."
+    },
+    "u0459": {
+      "before": "Is it like actually like missed? Can I tell what it what the material",
+      "after": "Is it like actually like mist? Can I tell what it what the material"
+    },
+    "u0470": {
+      "before": "kind of swirlly misty",
+      "after": "kind of swirly misty"
+    },
+    "u0482": {
+      "before": "what they're cooking up in that calendar.",
+      "after": "what they're cooking up in that cauldron."
+    },
+    "u0483": {
+      "before": "Yeah, And all of the relays of information to the group.",
+      "after": "Yeah, And I'll relay this information to the group."
+    },
+    "u0484": {
+      "before": "Tim, does that sound familiar with respect to any sort of call grin based? Summoning that I know about, or the creature? There are a little out of your depth here. Um,",
+      "after": "Tim, does that sound familiar with respect to any sort of cauldron-based summoning that I know about, or the creature? You're a little out of your depth here. Um,"
+    },
+    "u0485": {
+      "before": "I mean, even with your exceptional skills in investigation in our connot",
+      "after": "I mean, even with your exceptional skills in Investigation and Arcana"
+    },
+    "u0489": {
+      "before": "It was like five hundred feet that Raymond trampled.",
+      "after": "It was like five hundred feet that Raven traveled."
+    },
+    "u0490": {
+      "before": "So maybe I missed further.",
+      "after": "So maybe [[I missed further]]."
+    },
+    "u0502": {
+      "before": "quickly learn any more information before they attack. Thus",
+      "after": "quickly learn any more information before they attack us."
+    },
+    "u0503": {
+      "before": "we just try and run past them. We like to ask them,",
+      "after": "we just try and run past them. We like dash past them,"
+    },
+    "u0504": {
+      "before": "because all we need to do is get past the ruffian,",
+      "after": "because all we need to do is get past the ravine,"
+    },
+    "u0509": {
+      "before": "some sort of diversion of entrance to the giant, and then running around the other way,",
+      "after": "some sort of diversion of interest to the giant, and then running around the other way,"
+    },
+    "u0517": {
+      "before": "offering this, and then, when he tries to kill us like. Hopefully, he says something before he tries to kill us like I said, because it really we just don't know what they're doing like didn't call us. Suggest that we should",
+      "after": "offering this, and then, when he tries to kill us like. Hopefully, he says something before he tries to kill us like I said, because it really we just don't know what they're doing like didn't Caulaus. Suggest that we should"
+    },
+    "u0521": {
+      "before": "it. Say it again. Call us",
+      "after": "it. Say it again. Caulaus"
+    },
+    "u0522": {
+      "before": "it's Glare Had some evilness to it.",
+      "after": "its glare had some evilness to it."
+    },
+    "u0525": {
+      "before": "So I need to avoid being seen as possible.",
+      "after": "So I need to avoid being seen if possible."
+    },
+    "u0526": {
+      "before": "And you know, I wonder if we could sneak up the land and attack that would",
+      "after": "And you know, I wonder if we could sneak up and land an attack that would"
+    },
+    "u0532": {
+      "before": "centers could prove troublesome. But",
+      "after": "Satyrs could prove troublesome. But"
+    },
+    "u0533": {
+      "before": "how to these, for all, what methods, what what methods do we have to blind.",
+      "after": "[[how to these, for all]], what methods, what what methods do we have to blind."
+    },
+    "u0536": {
+      "before": "that fails. Do we have any alternative, or do we just like? Hold up the globe? It's like, Let me hide one of these.",
+      "after": "that fails. Do we have any alternative, or do we just like? [[Hold up the globe? It's like, Let me hide one of these.]]"
+    },
+    "u0537": {
+      "before": "I have darts. Can I just like, throw some darth as I",
+      "after": "I have darts. Can I just like, throw some darts at its eye"
+    },
+    "u0539": {
+      "before": "I'm probably hurt.",
+      "after": "It'd probably hurt."
+    },
+    "u0540": {
+      "before": "It might hurt, but it's not likely to blind in, although you could always try.",
+      "after": "It might hurt, but it's not likely to blind him, although you could always try."
+    },
+    "u0542": {
+      "before": "Just don't hurt very much. They're not very good. I'd rather just hit them",
+      "after": "Darts don't hurt very much. They're not very good. I'd rather just hit them"
+    },
+    "u0547": {
+      "before": "How about the dry spiral of spell. And then, if that doesn't work we do, you do like your backup plan?",
+      "after": "How about we try Spirala's spell. And then, if that doesn't work we do, you do like your backup plan?"
+    },
+    "u0549": {
+      "before": "Quite close? It might be hard to be even seen all the way up to thirty feet.",
+      "after": "Quite close? It might be hard to be unseen all the way up to thirty feet."
+    },
+    "u0551": {
+      "before": "I might be easier. I can. I can make spirits smaller if necessary.",
+      "after": "It might be easier. I can. I can make Spirala smaller if necessary."
+    },
+    "u0552": {
+      "before": "I believe fairies have a casting of the March slash reduce they can use for free.",
+      "after": "I believe fairies have a casting of Enlarge/Reduce they can use for free."
+    },
+    "u0553": {
+      "before": "No, but I have a large reduce in blindness",
+      "after": "No, but I have Enlarge/Reduce and Blindness"
+    },
+    "u0556": {
+      "before": "Why would Secret have it? Because down with this has that Yeah,",
+      "after": "Why would Seeker have it? Because [[down with this]] has that Yeah,"
+    },
+    "u0560": {
+      "before": "I mean. And large reduce on a small creature basically is like,",
+      "after": "I mean. Enlarge/Reduce on a small creature basically is like,"
+    },
+    "u0562": {
+      "before": "can you get and tiny like? What if we use two and large reduce",
+      "after": "can you get and tiny like? What if we use two Enlarge/Reduce"
+    },
+    "u0564": {
+      "before": "if you use them large. Reduce on a small creature. You'd make them tiny when you're using a tiny creature,",
+      "after": "if you use Enlarge/Reduce on a small creature. You'd make them tiny when you're using a tiny creature,"
+    },
+    "u0568": {
+      "before": "But dv mechanics to the same spell doesn't affect like if you guys blight blast. Yeah, you can't cast the same spell twice on the same creature, even if concentration.",
+      "after": "But D&D mechanics to the same spell doesn't affect like [[if you guys blight blast]]. Yeah, you can't cast the same spell twice on the same creature, even if concentration."
+    },
+    "u0581": {
+      "before": "perhaps, like large enough to tie around the giants. I have a bet. I think I have a bed role. I have a bedroom, a a bed roll is an interesting idea. How big did you say that Giant's head was because",
+      "after": "perhaps, like large enough to tie around the giant. I have a bed. I think I have a bedroll. I have a bedroll, a a bedroll is an interesting idea. How big did you say that Giant's head was because"
+    },
+    "u0582": {
+      "before": "I could wake up your bedroom,",
+      "after": "I could wake up your bedroll,"
+    },
+    "u0586": {
+      "before": "Of course the well, or shake it off, but it could work.",
+      "after": "Of course [[the well, or]] shake it off, but it could work."
+    },
+    "u0587": {
+      "before": "We can tie two bed rolls together and then animate them, is the giant. How big is the giant? It's not fifteen feet tall. Yeah, right? Yeah. So a quote is plenty big enough to find it, but right",
+      "after": "We can tie two bedrolls together and then animate them, is the giant. How big is the giant? It's not fifteen feet tall. Yeah, right? Yeah. So a cloak is plenty big enough to blind it, but right"
+    },
+    "u0588": {
+      "before": "for our bedroom. So just something to toss over the head. Yeah,",
+      "after": "or a bedroll. So just something to toss over the head. Yeah,"
+    },
+    "u0591": {
+      "before": "call us. What about your tent? You just packed it up and brought it with you? Didn't it? Yes, so I could animate the entire tenth and have it",
+      "after": "Caulaus. What about your tent? You just packed it up and brought it with you? Didn't it? Yes, so I could animate the entire tent and have it"
+    },
+    "u0592": {
+      "before": "fly up over the giants and drop itself down onto his head.",
+      "after": "fly up over the giant and drop itself down onto his head."
+    },
+    "u0596": {
+      "before": "having something on top of your head seems less effective, but having something tied to your head,",
+      "after": "having something on top of your head seems less effective, than having something tied to your head,"
+    },
+    "u0597": {
+      "before": "canvas tent can like totally get all in its space right? It could wrap around",
+      "after": "canvas tent can like totally get all in its face right? It could wrap around"
+    },
+    "u0602": {
+      "before": "and the sadders kill it.",
+      "after": "and the satyrs kill it."
+    },
+    "u0607": {
+      "before": "It upays your commands.",
+      "after": "It obeys your commands."
+    },
+    "u0608": {
+      "before": "We use attraction as a",
+      "after": "[[We use attraction as a]]"
+    },
+    "u0621": {
+      "before": "with an animated ten or not, with an on. How long does it take you to animate?",
+      "after": "with an animated tent or not, with an on. How long does it take you to animate?"
+    },
+    "u0625": {
+      "before": "You can speak up. Then we can surprise them.",
+      "after": "You can sneak up. Then we can surprise them."
+    },
+    "u0627": {
+      "before": "because that's the most effective, but least like we did. No, probably about the same likely to work with anything else, but also the most effective. Um:",
+      "after": "because that's the most effective, but least likely to. No, probably about the same likely to work with anything else, but also the most effective. Um:"
+    },
+    "u0630": {
+      "before": "we should just go and try and blind them. I think we haven't got three to do it.",
+      "after": "we should just go and try and blind them. [[I think we haven't got three to do it.]]"
+    },
+    "u0632": {
+      "before": "Thanks. I think that makes sense. Yes, how star is your range again, Seeker.",
+      "after": "Thanks. I think that makes sense. Yes, how far is your range again, Seeker."
+    },
+    "u0637": {
+      "before": "I can hear me, even if I can't see it. Well, it's not very selfish. It's like I mean it. Doesn't basically as long as you're not incapacitated or really far away from it.",
+      "after": "It can hear me, even if I can't see it. Well, it's not very stealthy. It's like I mean it. Doesn't basically as long as you're not incapacitated or really far away from it."
+    },
+    "u0641": {
+      "before": "just a flat, baron.",
+      "after": "just a flat, barren."
+    },
+    "u0647": {
+      "before": "something small enough for a reduced ferry to hide behind.",
+      "after": "something small enough for a reduced fairy to hide behind."
+    },
+    "u0649": {
+      "before": "yeah, that there's I mean a tiny creature. Can I find anything?",
+      "after": "yeah, that there's I mean a tiny creature can hide behind anything."
+    },
+    "u0652": {
+      "before": "you know, like big boulders that a medium-size creature could hide behind There's like one that raven was hiding behind",
+      "after": "you know, like big boulders that a medium-size creature could hide behind There's like one that Raven was hiding behind"
+    },
+    "u0660": {
+      "before": "think of an ever smoking bottle?",
+      "after": "I have an Eversmoking Bottle?"
+    },
+    "u0662": {
+      "before": "You took that dragonhide valve.",
+      "after": "You took that Dragonhide Belt."
+    },
+    "u0665": {
+      "before": "oh, you all got a wizard can check.",
+      "after": "oh, you all got a wizard cantrip."
+    },
+    "u0666": {
+      "before": "So you leave the fay wild.",
+      "after": "till you leave the Feywild."
+    },
+    "u0667": {
+      "before": "I took message.",
+      "after": "I took Message."
+    },
+    "u0669": {
+      "before": "I was planning to. I forgot to do this, but I was planning to before the end of success and the session just message someone, and just be really creepy.",
+      "after": "I was planning to. I forgot to do this, but I was planning to before the end of this session just message someone, and just be really creepy."
+    },
+    "u0670": {
+      "before": "Wait! I'm going to pick my in random.",
+      "after": "Wait! I'm going to pick mine at random."
+    },
+    "u0671": {
+      "before": "There's a fair number there's about twenty wizard kin trips. If I roll a d twenty. I'll just get that one",
+      "after": "There's a fair number there's about twenty wizard cantrips. If I roll a d twenty. I'll just get that one"
+    },
+    "u0672": {
+      "before": "we should. I'll take the eleven to one",
+      "after": "we should. I'll take the eleventh one"
+    },
+    "u0674": {
+      "before": "I made myself tell you",
+      "after": "I made myself tiny"
+    },
+    "u0678": {
+      "before": "here call us, takes out his tent and hands it to you.",
+      "after": "here Caulaus, takes out his tent and hands it to you."
+    },
+    "u0681": {
+      "before": "bring honor to this this tent seeker.",
+      "after": "bring honor to this this tent, Seeker."
+    },
+    "u0686": {
+      "before": "as a do I?",
+      "after": "as do I?"
+    },
+    "u0692": {
+      "before": "That's okay. I can make a You'll just be a plane to again. Yeah, I need t tokens to.",
+      "after": "That's okay. I can make a You'll just be a plain token again. Yeah, I need two tokens to."
+    },
+    "u0693": {
+      "before": "We need a tent to from my echo night.",
+      "after": "We need a tent to from my Echo Knight."
+    },
+    "u0694": {
+      "before": "Yes, okay. Ten token. Okay,",
+      "after": "Yes, okay. Tent token. Okay,"
+    },
+    "u0695": {
+      "before": "a token that says C. For call us and the for appetino. I can't move the revenue you put down, but I can move the raven I put down to you. So we the other one.",
+      "after": "a token that says C for Caulaus and A for Aportino. I can't move the Raven you put down, but I can move the Raven I put down to you. So we the other one."
+    },
+    "u0704": {
+      "before": "That sounds like a valuable education experience. Yes,",
+      "after": "That sounds like a valuable educational experience. Yes,"
+    },
+    "u0713": {
+      "before": "Well, How? How far? Okay, I'll make the app with that easy to change. How much space do you want? Wow! The range and Fog cloud is one hundred and twenty feet.",
+      "after": "Well, How? How far? Okay, I'll make the map with that easy to change. How much space do you want? Wow! The range on Fog Cloud is one hundred and twenty feet."
+    },
+    "u0714": {
+      "before": "I I think we and Sparrow both do, though",
+      "after": "I I think we and Spirala both do, though"
+    },
+    "u0717": {
+      "before": "the sneaky warrior and the ferry are going first stealthily. That's twenty-eight for self. By the way,",
+      "after": "the sneaky warrior and the fairy are going first stealthily. That's twenty-eight for Stealth. By the way,"
+    },
+    "u0719": {
+      "before": "Yeah, because, like they, they kind of rather say the nineteen for an attack or a bull like,",
+      "after": "Yeah, because, like they, they kind of rather say the nineteen for an attack or a roll like,"
+    },
+    "u0729": {
+      "before": "but you can immediately through your fog, which goes very from very far away. Right? Yes,",
+      "after": "but you can immediately throw your fog, which goes very from very far away. Right? Yes,"
+    },
+    "u0732": {
+      "before": "everybody everybody needs probably needs to roll, Steve. I did.",
+      "after": "everybody everybody needs probably needs to roll Stealth. I did."
+    },
+    "u0735": {
+      "before": "and I will. I can mess it. So is it going through?",
+      "after": "and I will. [[I can mess it]]. So is it going through?"
+    },
+    "u0737": {
+      "before": "It's just showing up as the dice that rules, and I don't know why it's not connecting to",
+      "after": "It's just showing up as the dice that rolls, and I don't know why it's not connecting to"
+    },
+    "u0742": {
+      "before": "I'll point to Sprella, and then",
+      "after": "I'll point to Spirala, and then"
+    },
+    "u0747": {
+      "before": "Um! The only I can hear um. Just say",
+      "after": "Um! that only I can hear um. Just say"
+    },
+    "u0756": {
+      "before": "straight forward with um",
+      "after": "creep forward with um"
+    },
+    "u0758": {
+      "before": "uh, as a tiny ferry and",
+      "after": "uh, as a tiny fairy and"
+    },
+    "u0759": {
+      "before": "uh raven sneaking along",
+      "after": "uh Raven sneaking along"
+    },
+    "u0763": {
+      "before": "call us",
+      "after": "Caulaus"
+    },
+    "u0767": {
+      "before": "raven and aspirella kind of",
+      "after": "Raven and Spirala kind of"
+    },
+    "u0768": {
+      "before": "raven staying to the shadows umbrella, trying to like flitter like along the sort of edge of the cliff, where she's out of sight, and um",
+      "after": "Raven staying to the shadows Spirala, trying to like flitter like along the sort of edge of the cliff, where she's out of sight, and um"
+    },
+    "u0773": {
+      "before": "um! A whisper to spell a",
+      "after": "um! I whisper to Spirala"
+    },
+    "u0777": {
+      "before": "give you a significant look to be stealthy, and I will remind you, if that gaze that I had said thirty feet long time ago",
+      "after": "give you a significant look to be stealthy, and I will remind you, with that gaze that I had said thirty feet long time ago"
+    },
+    "u0784": {
+      "before": "the sort of twisted satcher walks up and hands that he he takes. He takes his lato, which is very large of the satter, but tiny, for the giant is just holding it like it",
+      "after": "the sort of twisted satyr walks up and hands that he he takes. He takes his ladle, which is very large for the satyr, but tiny, for the giant is just holding it like it"
+    },
+    "u0787": {
+      "before": "proposes, as I for a moment, which is convenient because you are not completely stealthy as you approach.",
+      "after": "closes his eye for a moment, which is convenient because you are not completely stealthy as you approach."
+    },
+    "u0789": {
+      "before": "where did you roll for south? Six,",
+      "after": "what did you roll for Stealth? Six,"
+    },
+    "u0794": {
+      "before": "Yeah, The answer is, no, but couldn't. I just use my twenty-eight self, and just hold scroll in my hands like this",
+      "after": "Yeah, The answer is, no, but couldn't. I just use my twenty-eight Stealth, and just hold Spirala in my hands like this"
+    },
+    "u0805": {
+      "before": "callous and",
+      "after": "Caulaus and"
+    },
+    "u0806": {
+      "before": "and seeker are not totally quiet down one hundred feet away. Hey? I won't change the fact that they suck in it.",
+      "after": "and Seeker are not totally quiet down one hundred feet away. Hey? It won't change the fact that they suck at it."
+    },
+    "u0809": {
+      "before": "satellite creatures, and",
+      "after": "satyr-like creatures, and"
+    },
+    "u0814": {
+      "before": "it. You doesn't seem to have spotted Raven Ors Barella. Yeah, because, you know,",
+      "after": "it. He doesn't seem to have spotted Raven or Spirala. Yeah, because, you know,"
+    },
+    "u0818": {
+      "before": "No, no, no, I'll fix that all done.",
+      "after": "No, no, no, I'll fix that hold on."
+    },
+    "u0824": {
+      "before": "so like, sinks up along the wall.",
+      "after": "so like, sneaks up along the wall."
+    },
+    "u0825": {
+      "before": "Little tiny ferry",
+      "after": "Little tiny fairy"
+    },
+    "u0838": {
+      "before": "raven I got.",
+      "after": "Raven I got."
+    },
+    "u0839": {
+      "before": "We all got a twenty R, then nine",
+      "after": "[[We all got a twenty R, then nine]]"
+    },
+    "u0840": {
+      "before": "seeker",
+      "after": "Seeker"
+    },
+    "u0845": {
+      "before": "yeah, I got an idea. I don't know why it says twelve,",
+      "after": "yeah, I got a nineteen. I don't know why it says twelve,"
+    },
+    "u0846": {
+      "before": "because it took my first role because it doesn't know I have advantage.",
+      "after": "because it took my first roll because it doesn't know I have advantage."
+    },
+    "u0852": {
+      "before": "Sparella and Seeker",
+      "after": "Spirala and Seeker"
+    },
+    "u0853": {
+      "before": "I mean It'sbrella, and uh,",
+      "after": "I mean Spirala, and uh,"
+    },
+    "u0854": {
+      "before": "as far as you can tell, Spiralla and Ah, Raven are hidden, and these two creatures are going to",
+      "after": "as far as you can tell, Spirala and Ah, Raven are hidden, and these two creatures are going to"
+    },
+    "u0860": {
+      "before": "you are what you can, if you want to take an attack for opportunity on them with advantage. But you'll lose your being hidden",
+      "after": "you are what you can, if you want to take an attack of opportunity on them with advantage. But you'll lose your being hidden"
+    },
+    "u0861": {
+      "before": "as I walk past you walking down in this direction,",
+      "after": "as they walk past you walking down in this direction,"
+    },
+    "u0864": {
+      "before": "You have not been noticed. What you like to do?",
+      "after": "You have not been noticed. What would you like to do?"
+    },
+    "u0866": {
+      "before": "Find this deafness",
+      "after": "Blindness/Deafness."
+    },
+    "u0869": {
+      "before": "It needs to make a con safe.",
+      "after": "It needs to make a Con save."
+    },
+    "u0877": {
+      "before": "You already animate the tenth.",
+      "after": "You already animate the tent."
+    },
+    "u0879": {
+      "before": "Oh, yeah, The animated performance lasts an hour, so I have animated",
+      "after": "Oh, yeah, The Animating Performance lasts an hour, so I have animated"
+    },
+    "u0882": {
+      "before": "so I can cast as well, and also command the ten,",
+      "after": "so I can cast as well, and also command the tent,"
+    },
+    "u0884": {
+      "before": "I think you should be able to control the ten. Now",
+      "after": "I think you should be able to control the tent. Now"
+    },
+    "u0885": {
+      "before": "I will cast slow on this date area.",
+      "after": "I will cast slow on [[this date area]]."
+    },
+    "u0887": {
+      "before": "with a forty foot cube wisdom saving through that'll get both of them wisdom save they are not",
+      "after": "with a forty foot cube wisdom saving throw that'll get both of them wisdom save they are not"
+    },
+    "u0888": {
+      "before": "noted for their wisdom. One of them succeeds. One of them fails. So this one here is load.",
+      "after": "noted for their wisdom. One of them succeeds. One of them fails. So this one here is slowed."
+    },
+    "u0897": {
+      "before": "It's not yours",
+      "after": "satyrs"
+    },
+    "u0901": {
+      "before": "Cat palace all right.",
+      "after": "Caulaus all right."
+    },
+    "u0904": {
+      "before": "callous runs up thirty feet,",
+      "after": "Caulaus runs up thirty feet,"
+    },
+    "u0905": {
+      "before": "and then a gray, shimmering echo of callous appears fifteen feet in front of him.",
+      "after": "and then a gray, shimmering echo of Caulaus appears fifteen feet in front of him."
+    },
+    "u0906": {
+      "before": "That's my bonus action. I've used my move in my bonus action. The echo, as a free action can move up to thirty feet. It runs up to there, and then you see, it swings at the seder, but it callouses sword, like briefly appears in the echoes hands",
+      "after": "That's my bonus action. I've used my move and my bonus action. The echo, as a free action can move up to thirty feet. It runs up to there, and then you see, it swings at the satyr, but Caulaus's sword, like briefly appears in the echo's hands"
+    },
+    "u0909": {
+      "before": "that's trippy i'm attacking the seder the non-slowed seder.",
+      "after": "that's trippy i'm attacking the satyr the non-slowed satyr."
+    },
+    "u0914": {
+      "before": "It's going to be more than that because i'm going to do a dreadful strike,",
+      "after": "It's going to be more than that because i'm going to do a Dreadful Strike,"
+    },
+    "u0918": {
+      "before": "um. It needs to make a Dc. Fifteen concentration, say",
+      "after": "um. It needs to make a Dc. Fifteen Constitution save"
+    },
+    "u0919": {
+      "before": "Constitution Constitution fails. Okay. So the situation states are also constitutional.",
+      "after": "Constitution Constitution fails. Okay. So the [[situation states are also constitutional]]."
+    },
+    "u0920": {
+      "before": "So it takes the that four points of image. It actually takes the start of its turn.",
+      "after": "So it takes the that four points of damage. It actually takes the start of its turn."
+    },
+    "u0923": {
+      "before": "that it's, and that does twelve damage.",
+      "after": "that hits, and that does twelve damage."
+    },
+    "u0927": {
+      "before": "Whoa, Now, what was that, Paulus, but that's what we made it here now. Oh, you made a better version of me cool, but he accidentally made it too big. So the month of the battlefield they just like when he was.",
+      "after": "Whoa, Now, what was that, Caulaus, but that's what we made it here now. Oh, you made a better version of me cool, but he accidentally made it too big. So the month of the battlefield they just like when he was."
+    },
+    "u0931": {
+      "before": "I probably should have taken an opportunity to, because I can't get to the giant.",
+      "after": "I probably should have taken an opportunity attack, because I can't get to the giant."
+    },
+    "u0932": {
+      "before": "Well, still being stealthy, Right?",
+      "after": "while still being stealthy, Right?"
+    },
+    "u0934": {
+      "before": "I mean, maybe I should fought quite at the giant, but",
+      "after": "I mean, maybe I should have Fog Clouded the giant, but"
+    },
+    "u0935": {
+      "before": "too late. Make a stop. Make us another stealth check. But with disadvantage,",
+      "after": "too late. Make a Stealth, make another stealth check. But with disadvantage,"
+    },
+    "u0937": {
+      "before": "the shrimp is a nineteen great, great, great.",
+      "after": "the Stealth is a nineteen great, great, great."
+    },
+    "u0938": {
+      "before": "It's like her, all the twenty three.",
+      "after": "It's like I rolled the twenty three."
+    },
+    "u0944": {
+      "before": "what the first one was advantage. Right?",
+      "after": "with the first one with advantage. Right?"
+    },
+    "u0945": {
+      "before": "Yeah. First you just whaling up there. Okay. The first one is seventeen",
+      "after": "Yeah. First you just wailing up there. Okay. The first one is seventeen"
+    },
+    "u0951": {
+      "before": "seven of which is, that is relevant. Okay? And then I will hit it again",
+      "after": "[[seven of which is]], that is relevant. Okay? And then I will hit it again"
+    },
+    "u0954": {
+      "before": "twelve messes,",
+      "after": "twelve misses,"
+    },
+    "u0955": {
+      "before": "and then I will on our",
+      "after": "and then I will unarmed"
+    },
+    "u0957": {
+      "before": "blacked and gloved hand, and just and it",
+      "after": "blackened gloved hand, and just and it"
+    },
+    "u0959": {
+      "before": "I must have been twenty six hits. Yeah,",
+      "after": "I'm assuming twenty six hits. Yeah,"
+    },
+    "u0966": {
+      "before": "Um, that's one key point.",
+      "after": "Um, that's one ki point."
+    },
+    "u0973": {
+      "before": "spread through the giants veins,",
+      "after": "spread through the giant's veins,"
+    },
+    "u0979": {
+      "before": "class",
+      "after": "[[class]]"
+    },
+    "u0980": {
+      "before": "n of giving up memories",
+      "after": "[[n of giving up memories]]"
+    },
+    "u0982": {
+      "before": "work, but we did.",
+      "after": "[[work, but we did.]]"
+    },
+    "u0983": {
+      "before": "Is my bonus action on our strike at some point.",
+      "after": "Is my bonus action unarmed strike at some point."
+    },
+    "u0987": {
+      "before": "That's if you flurry a blow as you can do an extra. No, that you can use a monk weapon.",
+      "after": "That's if you Flurry of Blows you can do an extra. No, that you can use a monk weapon."
+    },
+    "u0991": {
+      "before": "turns its eye and stares it. Raven.",
+      "after": "turns its eye and stares at Raven."
+    },
+    "u0996": {
+      "before": "No, he's imaginable sleep",
+      "after": "No, is it magical sleep?"
+    },
+    "u1002": {
+      "before": "one thousand eight hundred and sixty eight. You take fifteen points of psychic damage, but you are not cursed.",
+      "after": "[[one thousand eight hundred and sixty eight]]. You take fifteen points of psychic damage, but you are not cursed."
+    },
+    "u1003": {
+      "before": "How that hurt any then takes his club. Winters bite, freeze your slams that down on your head just bent eighteen eight hour disadvantage. That's an eighteen to hit. Aha! I have a nineteen ac nerd",
+      "after": "Ow, that hurt. And he then takes his club. Winter's bite, freeze you! slams that down on your head [[just bent eighteen eight hour disadvantage]]. That's an eighteen to hit. Aha! I have a nineteen ac nerd"
+    },
+    "u1014": {
+      "before": "demonically cursed, Satter-like creatures.",
+      "after": "demonically cursed, satyr-like creatures."
+    },
+    "u1016": {
+      "before": "one of the mark of this very slowed. One. Okay, So let's see",
+      "after": "[[one of the mark of this very slowed. One.]] Okay, So let's see"
+    },
+    "u1017": {
+      "before": "um, Eric. Well, at d twenty.",
+      "after": "um, Eric. roll a d20."
+    },
+    "u1018": {
+      "before": "You might if you're a penalty that I see in Texas.",
+      "after": "[[You might if you're a penalty that I see in Texas.]]"
+    },
+    "u1019": {
+      "before": "Okay, what is? Remind me what I I gotta check what sledge I would. It has a minus two penalty to Ac. And decks saves.",
+      "after": "Okay, what is? Remind me what I I gotta check what Slow, yeah. It has a minus two penalty to Ac. And Dex saves."
+    },
+    "u1021": {
+      "before": "and the spell does not take effect until it's next turn. If it's alive.",
+      "after": "and the spell does not take effect until its next turn. If it's alive."
+    },
+    "u1022": {
+      "before": "The onsload one",
+      "after": "The unslowed one"
+    },
+    "u1026": {
+      "before": "at Kias,",
+      "after": "at Caulaus,"
+    },
+    "u1032": {
+      "before": "and then laughing, and you fall prone, and our in capacity then",
+      "after": "and then laughing, and you fall prone, and are incapacitated"
+    },
+    "u1034": {
+      "before": "and that has their turns for all. You're up",
+      "after": "and that is their turns. Spirala. You're up"
+    },
+    "u1040": {
+      "before": "Um, they got the centers down there. We just need to.",
+      "after": "Um, they got the satyrs down there. We just need to."
+    },
+    "u1044": {
+      "before": "i'm. We're a cast-old person. It's not that it's a giant.",
+      "after": "[[i'm. We're a]] cast Hold Person. It's not that it's a giant."
+    },
+    "u1046": {
+      "before": "It's not your legs.",
+      "after": "It's not humanoid."
+    },
+    "u1047": {
+      "before": "Oh, that's why you need to hold monster,",
+      "after": "Oh, that's why you need to Hold Monster,"
+    },
+    "u1049": {
+      "before": "Nobody told me that. All right. Fine you're gonna be next. I just thought cause it had legs. It was he would not. Yeah, no, it's It's no, it's reasonable. Yeah, all right. So I did think about this. I wasn't. I was trying not to slow everything down. That was my plan. But now I didn't get the definition of humanoid. Right? So",
+      "after": "Nobody told me that. All right. Fine you're gonna be next. I just thought cause it had legs. It was humanoid. Yeah, no, it's It's no, it's reasonable. Yeah, all right. So I did think about this. I wasn't. I was trying not to slow everything down. That was my plan. But now I didn't get the definition of humanoid. Right? So"
+    },
+    "u1051": {
+      "before": "i'll just ask your Wizard can trip.",
+      "after": "I'll just cast your wizard cantrip."
+    },
+    "u1055": {
+      "before": "something, Bernie.",
+      "after": "something, burny."
+    },
+    "u1056": {
+      "before": "Something, Bernie. I like it. Protein Ray:",
+      "after": "Something, burny. I like it. Scorching Ray:"
+    },
+    "u1058": {
+      "before": "Uh, what are poison to do? We should probably look at this",
+      "after": "Uh, what does poisoned do? We should probably look at this"
+    },
+    "u1059": {
+      "before": "just disadvantage on the tackles,",
+      "after": "just disadvantage on attack rolls,"
+    },
+    "u1068": {
+      "before": "if it doesn't show up in Talgar one shots I don't. I don't know where it shows up. It shows up in Indy beyond.",
+      "after": "if it doesn't show up in Taelgar one shots I don't. I don't know where it shows up. It shows up in D&D Beyond."
+    },
+    "u1071": {
+      "before": "as long as we're in deem to be out of the exact. I don't see Sparrow as roles anywhere. Are they rolling on your screen?",
+      "after": "as long as we're in [[deem to be out of the exact]]. I don't see Spirala's rolls anywhere. Are they rolling on your screen?"
+    },
+    "u1082": {
+      "before": "and it will. They need to hit first, if you want to pay scorching red. You passed. You",
+      "after": "and it will. They need to hit first, if you want to [[pay]] Scorching Ray. [[You passed.]] You"
+    },
+    "u1083": {
+      "before": "make it a tackle.",
+      "after": "make it an attack roll."
+    },
+    "u1084": {
+      "before": "Ok, scorching rate to hit seven plus nine equals sixteen.",
+      "after": "Ok, Scorching Ray to hit seven plus nine equals sixteen."
+    },
+    "u1092": {
+      "before": "No make another attack or",
+      "after": "No make another attack roll"
+    },
+    "u1093": {
+      "before": "another. Tackle.",
+      "after": "another. attack roll."
+    },
+    "u1096": {
+      "before": "that it",
+      "after": "that hits"
+    },
+    "u1098": {
+      "before": "and i'll roll the tunnel again. Sorry it's taken so long",
+      "after": "and i'll roll the attack roll again. Sorry it's taken so long"
+    },
+    "u1104": {
+      "before": "Yeah, I don't understand. So as three rays fly out from spiral to hit it, you are also not.",
+      "after": "Yeah, I don't understand. So as three rays fly out from Spirala, two hit it, [[you are also not.]]"
+    },
+    "u1106": {
+      "before": "of immunization.",
+      "after": "[[of immunization]]."
+    },
+    "u1117": {
+      "before": "secret one",
+      "after": "Seeker will"
+    },
+    "u1119": {
+      "before": "keeping to the left of the reading more or less.",
+      "after": "keeping to the left of the ravine more or less."
+    },
+    "u1124": {
+      "before": "callous. You're next. You can make another save at the end of your turn,",
+      "after": "Caulaus. You're next. You can make another save at the end of your turn,"
+    },
+    "u1126": {
+      "before": "You can't do anything else. Yeah, And it's my turn. I it's hit things again.",
+      "after": "You can't do anything else. Yeah, And it's my turn. I hit things again."
+    },
+    "u1127": {
+      "before": "I will do an earth and grasp.",
+      "after": "I will do an Earthen Grasp."
+    },
+    "u1128": {
+      "before": "Oh, I can't fix those sadders, can we?",
+      "after": "Oh, I can't [[fix those satyrs]], can we?"
+    },
+    "u1129": {
+      "before": "You pick one? But Earth and grasp is also concentration.",
+      "after": "You pick one? But Earthen Grasp is also concentration."
+    },
+    "u1134": {
+      "before": "Yeah, Slow as useful. Keep slow up.",
+      "after": "Yeah, Slow is useful. Keep slow up."
+    },
+    "u1136": {
+      "before": "I will do interrupt",
+      "after": "I will do Erupting Earth"
+    },
+    "u1140": {
+      "before": "yeah, exactly, it makes that difficult to rain. But",
+      "after": "yeah, exactly, it makes that difficult terrain. But"
+    },
+    "u1141": {
+      "before": "they have minus two to deck. Save this load. One. Okay, one fails. Then the slowed one also fails.",
+      "after": "they have minus two to Dex saves, the slowed one. Okay, one fails. Then the slowed one also fails."
+    },
+    "u1143": {
+      "before": "this one is Dad,",
+      "after": "this one is dead,"
+    },
+    "u1152": {
+      "before": "and this is all difficult to right now. That's unfortunate.",
+      "after": "and this is all difficult terrain now. That's unfortunate."
+    },
+    "u1154": {
+      "before": "I mean, it's better difficult to rain. Then you can't do return so",
+      "after": "I mean, it's better difficult terrain. than you can't do your turn so"
+    },
+    "u1155": {
+      "before": "absolutely. Ah, you just hit the other Saturn.",
+      "after": "absolutely. Ah, you just hit the other satyr."
+    },
+    "u1156": {
+      "before": "Yeah, i'm just gonna i'm gonna Well, i'm gonna do something. I'm: gonna start by making one attack against the center.",
+      "after": "Yeah, i'm just gonna i'm gonna Well, i'm gonna do something. I'm: gonna start by making one attack against the satyr."
+    },
+    "u1161": {
+      "before": "okay. Ah, thirteen down and",
+      "after": "okay. Ah, thirteen damage and"
+    },
+    "u1162": {
+      "before": "thirteen flashing in three psychic damage.",
+      "after": "thirteen slashing and three psychic damage."
+    },
+    "u1167": {
+      "before": "The sixteen hit",
+      "after": "Does sixteen hit?"
+    },
+    "u1179": {
+      "before": "Yeah. Yeah. Happy movement to stand up.",
+      "after": "Yeah. Yeah. Half your movement to stand up."
+    },
+    "u1188": {
+      "before": "Um, go sorry. Go ahead. As to the set, the the the sider also has to take uh make us a con safe",
+      "after": "Um, go sorry. Go ahead. As to the set, the the the satyr also has to take uh make a Con save"
+    },
+    "u1194": {
+      "before": "Crystal Shirt sword first attack misses",
+      "after": "Crystal shortsword first attack misses"
+    },
+    "u1196": {
+      "before": "They can attack",
+      "after": "Second attack"
+    },
+    "u1197": {
+      "before": "also. Mrs. Eleven.",
+      "after": "also. misses. Eleven."
+    },
+    "u1200": {
+      "before": "thanks for looking at the tent. First arm strike. It's twenty, seven. I'm. Seeing hits that is,",
+      "after": "thanks for looking at the tent. First unarmed strike. It's twenty, seven. I'm assuming hits that is,"
+    },
+    "u1211": {
+      "before": "Ah, i'll just free and attack again.",
+      "after": "Ah, i'll just Flurry and attack again."
+    },
+    "u1214": {
+      "before": "Not one.",
+      "after": "Nat one."
+    },
+    "u1215": {
+      "before": "It was a great, too. We did, too. Um lately misses.",
+      "after": "It was a great, too. We did, too. Um completely misses."
+    },
+    "u1216": {
+      "before": "Yeah, that it turns kind of laughing at you, and it First of all, it turns and it looks It's Brella. You need to make a charisma saving throw",
+      "after": "Yeah, that it turns kind of laughing at you, and it First of all, it turns and it looks at Spirala. You need to make a charisma saving throw"
+    },
+    "u1220": {
+      "before": "and then I will swing. I should have wait when it attacks me. Can I do my boarding thing",
+      "after": "and then I will swing. I should have wait when it attacks me. Can I do my warding thing"
+    },
+    "u1221": {
+      "before": "with the reaction. It's not an attack, though, right? That's just forcing you to make it saved.",
+      "after": "with the reaction. It's not an attack, though, right? That's just forcing you to make a save."
+    },
+    "u1226": {
+      "before": "sixteen? Yeah, it misses again. It sucks It's never gonna have me literally, never.",
+      "after": "sixteen? Yeah, it misses again. It sucks It's never gonna hit me literally, never."
+    },
+    "u1227": {
+      "before": "Finally the sniffy picture finishes on the satyr and palace. Your sword begins to glow red hot.",
+      "after": "Finally the [[sniffy picture]] finishes on the satyr and Caulaus. Your sword begins to glow red hot."
+    },
+    "u1231": {
+      "before": "Constitution saving the middle. Everyone's favorite by first. You take",
+      "after": "Constitution saving throw. Everyone's favorite. But first. You take"
+    },
+    "u1232": {
+      "before": "that for twenty for this damage.",
+      "after": "[[that for twenty for this damage]]."
+    },
+    "u1235": {
+      "before": "five points, and then constitution same as well. Con saves them actually d beyond that D. And d Beyond went away. Hold on a second.",
+      "after": "five points, and then Constitution save as well. Con saves them actually D&D Beyond that D. And d Beyond went away. Hold on a second."
+    },
+    "u1239": {
+      "before": "it is till the start of the Saturn.",
+      "after": "it is till the start of the satyr's turn."
+    },
+    "u1241": {
+      "before": "It's brilliant. You're out",
+      "after": "Spirala, you're up"
+    },
+    "u1245": {
+      "before": "the center doesn't seem, or this creature doesn't seem at all bothered by It's the dead body of its friend next to it. Theoretically,",
+      "after": "the satyr doesn't seem, or this creature doesn't seem at all bothered by It's the dead body of its friend next to it. Theoretically,"
+    },
+    "u1246": {
+      "before": "those immunity to poison. Just mean, i'm immune to the poison like damage. We take no damage from poison. But does it also mean i'm immune to the poisoned condition.",
+      "after": "does immunity to poison. Just mean, i'm immune to the poison like damage. We take no damage from poison. But does it also mean i'm immune to the poisoned condition."
+    },
+    "u1249": {
+      "before": "into a lot of things.",
+      "after": "immune to a lot of things."
+    },
+    "u1250": {
+      "before": "I don't know why, because of my mom.",
+      "after": "I don't know why, because of my monk."
+    },
+    "u1252": {
+      "before": "i'm just going to do this scorching ray again.",
+      "after": "i'm just going to do this Scorching Ray again."
+    },
+    "u1256": {
+      "before": "I don't think we for that giant very much.",
+      "after": "I don't think we've hurt that giant very much."
+    },
+    "u1266": {
+      "before": "Okay? So when Ray comes shooting out,",
+      "after": "Okay? So one ray comes shooting out,"
+    },
+    "u1271": {
+      "before": "the way scorching way works. If you read the spell is, it",
+      "after": "the way Scorching Ray works. If you read the spell is, it"
+    },
+    "u1272": {
+      "before": "generates three rays. Uh-huh. Each of which does two D. Six damage if it heads right so, for everywhere you need to make an attack when you cast it at higher levels, it does one extra ray for each extra level. You cast the",
+      "after": "generates three rays. Uh-huh. Each of which does two D. Six damage if it hits right so, for every ray you need to make an attack when you cast it at higher levels, it does one extra ray for each extra level. You cast the"
+    },
+    "u1278": {
+      "before": "Three damage them two more texts. Then, obviously for that, misses.",
+      "after": "Three damage then two more attacks. Then, obviously four, that misses."
+    },
+    "u1286": {
+      "before": "pets",
+      "after": "hits"
+    },
+    "u1288": {
+      "before": "that and sprawl's turn seeker you're up",
+      "after": "That ends Spirala's turn. Seeker you're up"
+    },
+    "u1292": {
+      "before": "ten to. Is that true?",
+      "after": "tent to. Is that true?"
+    },
+    "u1293": {
+      "before": "No, those are are willing to shout.",
+      "after": "No, as long as you are willing to shout."
+    },
+    "u1297": {
+      "before": "basically I wanted to grapple the junk to try to cover its head.",
+      "after": "basically I want it to grapple the giant to try to cover its head."
+    },
+    "u1301": {
+      "before": "So make a roll your athletics, Jack,",
+      "after": "So make a roll your athletics, check,"
+    },
+    "u1304": {
+      "before": "Sorry I roll my own in six.",
+      "after": "Sorry I roll my own Athletics."
+    },
+    "u1307": {
+      "before": "So role, One V. Twenty plus four. It's not a lot of it,",
+      "after": "So roll one d20 plus four. It's not a lot of it,"
+    },
+    "u1310": {
+      "before": "ten flies up into its head and like, tries to, and just like takes his hand and rips it down out of the way",
+      "after": "tent flies up onto its head and like, tries to, and just like takes his hand and rips it down out of the way"
+    },
+    "u1314": {
+      "before": "right? So I can. I was thinking about trying to get in range for a wall of system.",
+      "after": "right? So I can. I was thinking about trying to get in range for a Wall of Stone."
+    },
+    "u1315": {
+      "before": "The wall walking the giant.",
+      "after": "The wall blocking the giant."
+    },
+    "u1320": {
+      "before": "I I mean, I can throw one before damage darts. Okay, I just so. So. A strategy that involves",
+      "after": "I I mean, I can throw 1d4-damage darts. Okay, I just so. So. A strategy that involves"
+    },
+    "u1323": {
+      "before": "you know, if you need to wall me off. Well, no, I was thinking of casting fog cloud right here to block the giants line of sight on this.",
+      "after": "you know, if you need to wall me off. Well, no, I was thinking of casting fog cloud right here to block the giant's line of sight on this."
+    },
+    "u1325": {
+      "before": "okay, well seeker, what are you doing for that?",
+      "after": "okay, well Seeker, what are you doing for that?"
+    },
+    "u1329": {
+      "before": "with Wallace. I don't think so.",
+      "after": "with Wall of Stone. I don't think so."
+    },
+    "u1330": {
+      "before": "I mean you could read this bell just as well as I could read this bell.",
+      "after": "I mean you could read the spell just as well as I could read the spell."
+    },
+    "u1332": {
+      "before": "good phone and crept out.",
+      "after": "[[good phone and crept out]]."
+    },
+    "u1333": {
+      "before": "But it does get a deck saving throw to avoid getting trapped by the wall, if you, if it would be completely enclosed,",
+      "after": "But it does get a Dex saving throw to avoid getting trapped by the wall, if you, if it would be completely enclosed,"
+    },
+    "u1335": {
+      "before": "Oh, no, it can push creatures so you could put it through raven space and have it pushed Raven in or out",
+      "after": "Oh, no, it can push creatures so you could put it through Raven's space and have it pushed Raven in or out"
+    },
+    "u1341": {
+      "before": "Yeah. So it's like I have a hundred feats or yeah, so you could box that that's sixty feet. You'd probably have some box in the tent.",
+      "after": "Yeah. So it's like I have a hundred feet or yeah, so you could box that that's sixty feet. You'd probably have some box in the tent."
+    },
+    "u1344": {
+      "before": "So if you want a box in the giant, I don't think you can box on the giant because you need to go.",
+      "after": "So if you want to box in the giant, I don't think you can box in the giant because you need to go."
+    },
+    "u1345": {
+      "before": "You need a cute. It's too large, i'm.",
+      "after": "You need a cube. It's too large, i'm."
+    },
+    "u1346": {
+      "before": "I mean you could make a little wall around it. It could just take its club and bash, rape it on the head over the ten foot wall. It's not really going to be a problem for it.",
+      "after": "I mean you could make a little wall around it. It could just take its club and bash, Raven on the head over the ten foot wall. It's not really going to be a problem for it."
+    },
+    "u1347": {
+      "before": "No, that's a great point. I wasn't thinking three to three d enough. I don't know why you're saying that keeps missing you. It's true. I have an Ac. Nineteen. It is disadvantage, and i'll never. It'll never have literally, never hit me literally not",
+      "after": "No, that's a great point. I wasn't thinking three, 3D enough. I don't know why you're saying that keeps missing you. It's true. I have an Ac. Nineteen. It is disadvantage, and i'll never. It'll never hit, literally, never hit me literally not"
+    },
+    "u1350": {
+      "before": "I know what I'm doing. I'm not sure what the problem can. You hurt this theater and just try and kill it.",
+      "after": "I know what I'm doing. I'm not sure what the problem can. You hurt this satyr and just try and kill it."
+    },
+    "u1353": {
+      "before": "Is it holding a metal within the three? But it's no, it's not.",
+      "after": "Is it holding [[a metal within the three]]? But it's no, it's not."
+    },
+    "u1354": {
+      "before": "But so far it's just cast spouse. You can't make the D. The the train go away right,",
+      "after": "But so far it's just cast spells. You can't make the D. The the terrain go away right,"
+    },
+    "u1356": {
+      "before": "i'll just erupting earth again.",
+      "after": "i'll just Erupting Earth again."
+    },
+    "u1365": {
+      "before": "Yeah, that's what I was saying. I might be worth it. It's not. I will launch some rocks at it, or I guess a rock.",
+      "after": "Yeah, that's what I was saying. It might be worth it. It's not. I will launch some rocks at it, or I guess a rock."
+    },
+    "u1367": {
+      "before": "Can you watch a rock such that the giant is in its line in case you miss,",
+      "after": "Can you launch a rock such that the giant is in its line in case you miss,"
+    },
+    "u1375": {
+      "before": "not great decks,",
+      "after": "not great Dex,"
+    },
+    "u1382": {
+      "before": "call us. Okay, So should I block the giant so we can't",
+      "after": "Caulaus. Okay, So should I block the giant so he can't"
+    },
+    "u1384": {
+      "before": "I can you command of the this guy to ital like, How does this work?",
+      "after": "[[I can you command of the this guy to ital]] like, How does this work?"
+    },
+    "u1386": {
+      "before": "It's a first travel rangers. It's not that powerful.",
+      "after": "It's a first-level ranger spell. It's not that powerful."
+    },
+    "u1390": {
+      "before": "Is the fog worth both ways. Can I not cast bills that I need to see is my target.",
+      "after": "Does the fog work both ways. Can I not cast spells that I need to see as my target."
+    },
+    "u1393": {
+      "before": "or you could just kill this outer.",
+      "after": "or you could just kill this satyr."
+    },
+    "u1394": {
+      "before": "Yes, it could just kill the Saturn.",
+      "after": "Yes, it could just kill the satyr."
+    },
+    "u1398": {
+      "before": "I keep losing my character. She I don't know why.",
+      "after": "I keep losing my character sheet I don't know why."
+    },
+    "u1399": {
+      "before": "Hey? Why does he have disadvantage because of heat metal? But if you hit it again it's probably bad.",
+      "after": "Hey? Why does he have disadvantage because of heat metal? But if you hit it again it's probably dead."
+    },
+    "u1407": {
+      "before": "does not hit the center",
+      "after": "does not hit the satyr"
+    },
+    "u1411": {
+      "before": "Um, i'm a ranger i'm. Fourth of Ranger,",
+      "after": "Um, i'm a ranger i'm. fourth-level ranger,"
+    },
+    "u1418": {
+      "before": "Raymond.",
+      "after": "Raven."
+    },
+    "u1422": {
+      "before": "Oh, I'm sorry. My daughter is one d four plus five.",
+      "after": "Oh, I'm sorry. My dart is one d four plus five."
+    },
+    "u1425": {
+      "before": "uh seventeen hits. That's going to be eleven was",
+      "after": "uh seventeen hits. That's going to be eleven plus"
+    },
+    "u1429": {
+      "before": "i'll spend. So my book with eleven i'll spend two key points to add,",
+      "after": "i'll spend. So [[my book with eleven]] i'll spend two ki points to add,"
+    },
+    "u1431": {
+      "before": "Yeah, i'll. I'll spend two key points to add four.",
+      "after": "Yeah, i'll. I'll spend two ki points to add four."
+    },
+    "u1433": {
+      "before": "low to fifteen.",
+      "after": "roll to fifteen."
+    },
+    "u1441": {
+      "before": "was",
+      "after": "plus"
+    },
+    "u1442": {
+      "before": "in the hand of harm.",
+      "after": "and the Hand of Harm."
+    },
+    "u1445": {
+      "before": "and it's poison again,",
+      "after": "and it's poisoned again,"
+    },
+    "u1446": {
+      "before": "and then all for your blows.",
+      "after": "and then I'll Flurry of Blows."
+    },
+    "u1447": {
+      "before": "Okay, again, with my unarmed strike that I wall in my mind,",
+      "after": "Okay, again, with my unarmed strike that I roll in my mind,"
+    },
+    "u1448": {
+      "before": "Is it worth spending another key point to focus?",
+      "after": "Is it worth spending another ki point to focus?"
+    },
+    "u1452": {
+      "before": "and it explodes extremely wounded.",
+      "after": "and it looks extremely wounded."
+    },
+    "u1454": {
+      "before": "No, I I will just looks it. It looks at call, and it says",
+      "after": "No, I I will just looks, it. It looks at Caulaus, and it says"
+    },
+    "u1456": {
+      "before": "You've paid the toll, and then looks at Seeker, and you need to make a charisma saving throw.",
+      "after": "if you'd paid the toll, and then looks at Seeker, and you need to make a charisma saving throw."
+    },
+    "u1460": {
+      "before": "Speaker: you take",
+      "after": "Seeker, you take"
+    },
+    "u1461": {
+      "before": "Win flashes out thirty five points of psychic damage, something they can re-roll with.",
+      "after": "[[Win flashes out]] thirty five points of psychic damage, something they can re-roll with."
+    },
+    "u1466": {
+      "before": "you can motivate lets you re-roll",
+      "after": "you can [[motivate]] lets you re-roll"
+    },
+    "u1468": {
+      "before": "Now, I'll take the thirty-five. Okay,",
+      "after": "No, I'll take the thirty-five. Okay,"
+    },
+    "u1479": {
+      "before": "but its second attack is uh seventeen. Yeah, this is.",
+      "after": "but its second attack is uh seventeen. Yeah, this misses."
+    },
+    "u1480": {
+      "before": "Does that snowball, Then, because you can just keep targeting the thing with disadvantage to like dies of like a massive around some psychic image,",
+      "after": "Does that snowball, Then, because you can just keep targeting the thing with disadvantage to like dies of like a massive amounts of psychic damage,"
+    },
+    "u1482": {
+      "before": "One, two, all right, once you make the save, it can't target you again. So yes, it can just keep destroying, absolutely murdering. Why, it's okay. I'm going to It's extremely wounded, and it it looks up and it looks. It looks at Seeker as it's turn ends, and it says,",
+      "after": "One, two, all right, once you make the save, it can't target you again. So yes, it can just keep destroying, absolutely murdering. Why, it's okay. I'm going to It's extremely wounded, and it it looks up and it looks. It looks at Seeker as its turn ends, and it says,"
+    },
+    "u1490": {
+      "before": "the slow sasser is going to use its action to do an extra",
+      "after": "the slowed satyr is going to use its action to do an extra"
+    },
+    "u1491": {
+      "before": "sorry satisfaction response. Section i'll check to do another ten points of fire damage to",
+      "after": "sorry [[satisfaction response. Section]] i'll check to do another ten points of fire damage to"
+    },
+    "u1493": {
+      "before": "It doesn't get to take books, since I know it gets one. So yes, it doesn't get an action",
+      "after": "It doesn't get to take both, since I know it gets one. So yes, it doesn't get an action"
+    },
+    "u1495": {
+      "before": "It doesn't matter if it's a bonus action or an accident, because it can't do something else. Yeah,",
+      "after": "It doesn't matter if it's a bonus action or an action, because it can't do something else. Yeah,"
+    },
+    "u1498": {
+      "before": "that ends its turn so that you're out,",
+      "after": "that ends its turn Spirala, you're up,"
+    },
+    "u1501": {
+      "before": "spell that i'm so good at scorching ray",
+      "after": "spell that i'm so good at Scorching Ray"
+    },
+    "u1505": {
+      "before": "kills the giant, You see, as your scorching red heads, it stumbles back, and it falls over, and the stone begins to grow. The like dirt begins to like,",
+      "after": "kills the giant, You see, as your Scorching Ray hits, it stumbles back, and it falls over, and the stone begins to grow. The like dirt begins to like,"
+    },
+    "u1506": {
+      "before": "grow up and encase its body and grow over it, and it sort of stinks a little bit",
+      "after": "grow up and encase its body and grow over it, and it sort of sinks a little bit"
+    },
+    "u1510": {
+      "before": "so the dirt just ends up, burying this like mostly for those in like freezer quarks.",
+      "after": "so the dirt just ends up, burying this like mostly frozen, like, freezer corpse."
+    },
+    "u1511": {
+      "before": "Ah, you can sign victorily covered by a tent.",
+      "after": "Ah, you can stand victoriously covered by a tent."
+    },
+    "u1512": {
+      "before": "Yes, you can send other rays at the at the um, Mr. Thank you. The statue. It's the first satur, if you want to.",
+      "after": "Yes, you can send other rays at the at the um, Mr. Thank you. The satyr. It's the first satyr, if you want to."
+    },
+    "u1518": {
+      "before": "Oh, and the heat metal ends, you notice. Call it your sword is no longer glowing hot.",
+      "after": "Oh, and the Heat Metal ends, you notice. Caulaus, your sword is no longer glowing hot."
+    },
+    "u1521": {
+      "before": "and that kills that as well. The The Saturn that falls down and the tossed dirt of the canyon floor. Here we seeker disrupted. It also begins to grow and cover both the two bodies of the center.",
+      "after": "and that kills that as well. The The satyr that falls down and the tossed dirt of the canyon floor. here, where Seeker disrupted. It also begins to grow and cover both the two bodies of the satyr."
+    },
+    "u1523": {
+      "before": "self-cleaning ravine. How very fay",
+      "after": "self-cleaning ravine. How very fey"
+    },
+    "u1524": {
+      "before": "Seeker stumbles forward and points to his leg can that a going to help me with this.",
+      "after": "Seeker stumbles forward and points to his leg [[can that a going to]] help me with this."
+    },
+    "u1529": {
+      "before": "Ah, one disease is a disease. It's a curse not not sorry you don't remove curse or greater restoration. I have greater restoration. I just have physicians touch",
+      "after": "Ah, one disease is a disease. It's a curse not not sorry you don't remove curse or greater restoration. I have greater restoration. I just have Physician's Touch"
+    },
+    "u1530": {
+      "before": "You Do think that sure rest. I'm: dying over here.",
+      "after": "You Do think that short rest. I'm: dying over here."
+    },
+    "u1540": {
+      "before": "I mean it's mostly my key points.",
+      "after": "I mean it's mostly my ki points."
+    },
+    "u1542": {
+      "before": "I can. Once per day I can use my dragon out to regain, like basically all my key points.",
+      "after": "I can. Once per day I can use my Dragonhide Belt to regain, like basically all my ki points."
+    },
+    "u1544": {
+      "before": "so that I can see it inside of it.",
+      "after": "so that I can sit inside of it."
+    },
+    "u1545": {
+      "before": "Hey, that come over here. I want to sit in. You",
+      "after": "Hey, tent come over here. I want to sit in. You"
+    },
+    "u1547": {
+      "before": "it's uh it's voice controlled um flaps Also it's great. It will open a close. Can we run it through the cauldron and get Callis's memories back.",
+      "after": "it's uh it's voice controlled um flaps Also it's great. It will open and close. Can we run it through the cauldron and get Caulaus's memories back."
+    },
+    "u1565": {
+      "before": "You know an image of somewhere that goes fast to pass too quickly for you to recognize that, or just a sound or a name.",
+      "after": "You know an image of somewhere that goes past too quickly for you to recognize that, or just a sound or a name."
+    },
+    "u1568": {
+      "before": "the longer you start the the like,",
+      "after": "the longer you stir, the the like,"
+    },
+    "u1572": {
+      "before": "Is it to avoid her and the charmed condition?",
+      "after": "Is it to avoid the charmed condition?"
+    },
+    "u1579": {
+      "before": "I didn't have ring. I don't need no wisdom saving girl",
+      "after": "[[I didn't have ring]]. I don't need no Wisdom saving throw"
+    },
+    "u1585": {
+      "before": "stirring and starting this cauldron and not stopping and just",
+      "after": "stirring and stirring this cauldron and not stopping and just"
+    },
+    "u1586": {
+      "before": "beginning to like their face, is beginning to sort of droop in a little bit into the cauldron as the Yeah. I'm going to just like, Push him up, take the weightle out of his hand, and like well, it was mine. No, you can't have it,",
+      "after": "beginning to like their face, is beginning to sort of droop in a little bit into the cauldron as the Yeah. I'm going to just like, Push him up, take the ladle out of his hand, and like well, it was mine. No, you can't have it,"
+    },
+    "u1587": {
+      "before": "my brash, as",
+      "after": "My precious."
+    },
+    "u1590": {
+      "before": "I can use macrobatics.",
+      "after": "I can use Acrobatics."
+    },
+    "u1594": {
+      "before": "the just grabs the ladle from your hand, and you you start back for a moment.",
+      "after": "he just grabs the ladle from your hand, and you you start back for a moment."
+    },
+    "u1595": {
+      "before": "You mean my label. I'm gonna like toss it off into the hills and say, this is my Elen. All this is not safe. Come on, throw it at me. Brooda means hard as you can. I threw it off as far as I can like up into the rocks in the other direction,",
+      "after": "You mean my ladle. I'm gonna like toss it off into the hills and say, [[this is my Elen. All]] this is not safe. Come on, throw it at me. Throw it at me as hard as you can. I threw it off as far as I can like up into the rocks in the other direction,"
+    },
+    "u1596": {
+      "before": "threw it at me. I'm not throwing it at you or a rock at me.",
+      "after": "threw it at me. I'm not throwing it at you Throw a rock at me."
+    },
+    "u1598": {
+      "before": "So you should know back to yourself. Yeah,",
+      "after": "So you snap back to yourself. Yeah,"
+    },
+    "u1599": {
+      "before": "you are of this place metal, and these things will",
+      "after": "Beware of this place. Meddling in these things will"
+    },
+    "u1602": {
+      "before": "You touched my little,",
+      "after": "You touched my ladle,"
+    },
+    "u1605": {
+      "before": "My legal.",
+      "after": "My ladle."
+    },
+    "u1610": {
+      "before": "The even tide will help us correct. Let's go to the",
+      "after": "Lady Eventide will help us correct. Let's go to the"
+    },
+    "u1611": {
+      "before": "It can be short rest,",
+      "after": "Can we short rest,"
+    },
+    "u1613": {
+      "before": "So, as you take some time to gather your wrath, take a brief breather before you step out onto the plains. Um! You can see, like the the dirt that's been like grown over these um creatures begins to",
+      "after": "So, as you take some time to gather your breath, take a brief breather before you step out onto the plains. Um! You can see, like the the dirt that's been like grown over these um creatures begins to"
+    },
+    "u1619": {
+      "before": "we're crawling to form this kind of pile around these three dead bodies.",
+      "after": "dirt crawling to form this kind of pile around these three dead bodies."
+    },
+    "u1620": {
+      "before": "Oh, twenty, six, That's really good at thyro",
+      "after": "Oh, twenty, six, That's really good [[at thyro]]"
+    },
+    "u1621": {
+      "before": "right? And that's part of my my key. Wait! Oh, I didn't roll the h this",
+      "after": "right? And that's part of my my ki. Wait! Oh, I didn't roll the [[h this]]"
+    },
+    "u1626": {
+      "before": "spend my last two key on",
+      "after": "spend my last two ki on"
+    },
+    "u1627": {
+      "before": "and the field?",
+      "after": "Hand of Healing?"
+    },
+    "u1635": {
+      "before": "four. That's like the worst world, or whatever",
+      "after": "four. That's like the worst roll, or whatever"
+    },
+    "u1636": {
+      "before": "to kill you again. Uh, Oh, that was the wrong one,",
+      "after": "to heal you again. Uh, Oh, that was the wrong one,"
+    },
+    "u1642": {
+      "before": "So as you set out onto these amber planes,",
+      "after": "So as you set out onto these amber plains,"
+    },
+    "u1644": {
+      "before": "clear, flat expanse as far as the I can see. In fact, you can see in the distance this ruined,",
+      "after": "clear, flat expanse as far as the eye can see. In fact, you can see in the distance this ruined,"
+    },
+    "u1650": {
+      "before": "Everything is cracked. One part of it is like twisted and like broken in half like that, so like one part of it is still upright, and another part of it has rotated like thirty degrees with a with a crap. It's hard to judge the distance, although the direction is obvious. Um!",
+      "after": "Everything is cracked. One part of it is like twisted and like broken in half like that, so like one part of it is still upright, and another part of it has rotated like thirty degrees with a with a crack. It's hard to judge the distance, although the direction is obvious. Um!"
+    },
+    "u1651": {
+      "before": "And this is like many places in the fay. Wow! The sort of place where",
+      "after": "And this is like many places in the Feywild, The sort of place where"
+    },
+    "u1655": {
+      "before": "Kallas has traveled his path before and knows the ways to walk on these planes to avoid the",
+      "after": "Caulaus has traveled this path before and knows the ways to walk on these plains to avoid the"
+    },
+    "u1660": {
+      "before": "skip ahead to the palace. Yes, I keep pestering colors about stealing. The little",
+      "after": "skip ahead to the palace. Yes, I keep pestering Caulaus about stealing. The ladle"
+    },
+    "u1661": {
+      "before": "cows will lecture you every once. I always be like you",
+      "after": "Caulaus will lecture you every once in a while be like you"
+    },
+    "u1667": {
+      "before": "Well might do better than he did. But is that the fake you wish?",
+      "after": "Well might do better than he did. But is that the fate you wish?"
+    },
+    "u1669": {
+      "before": "stop complaining obligations. I rather i'd rather have a label",
+      "after": "stop complaining [[obligations]]. I rather i'd rather have a ladle"
+    },
+    "u1671": {
+      "before": "Do you like a ladle?",
+      "after": "Would you like a ladle?"
+    },
+    "u1673": {
+      "before": "Alice will hand you a ladle from his cook, set.",
+      "after": "Caulaus will hand you a ladle from his cook, set."
+    },
+    "u1679": {
+      "before": "everything. Almost everything is gray. It's very little color anywhere in these these planes, so I forgot it. Have a",
+      "after": "everything. Almost everything is gray. It's very little color anywhere in these these plains, so I forgot it. Have a"
+    },
+    "u1689": {
+      "before": "here. There is a Fay woman",
+      "after": "here. There is a fey woman"
+    },
+    "u1706": {
+      "before": "Call us,",
+      "after": "Caulaus,"
+    },
+    "u1710": {
+      "before": "Turn?",
+      "after": "Return?"
+    },
+    "u1713": {
+      "before": "to? The last flight falls,",
+      "after": "to? The Lastlight Falls,"
+    },
+    "u1718": {
+      "before": "She looks it, and you says we will discuss the dwarf later. But you know you cannot leave.",
+      "after": "She looks at you and says we will discuss the dwarf later. But you know you cannot leave."
+    },
+    "u1726": {
+      "before": "The Cloud Spinner is gone",
+      "after": "The Cloudspinner is gone"
+    },
+    "u1733": {
+      "before": "Why do you seek last light Falls Dwarf,",
+      "after": "Why do you seek Lastlight Falls Dwarf,"
+    },
+    "u1734": {
+      "before": "I see, to return",
+      "after": "I seek to return"
+    },
+    "u1739": {
+      "before": "ladies realm?",
+      "after": "lady's realm?"
+    },
+    "u1741": {
+      "before": "father? Those of us who have been abandoned",
+      "after": "bother Those of us who have been abandoned"
+    },
+    "u1743": {
+      "before": "seems to disturb no one.",
+      "after": "I seek to disturb no one."
+    },
+    "u1746": {
+      "before": "free passage.",
+      "after": "for passage."
+    },
+    "u1749": {
+      "before": "clouds been her disappeared.",
+      "after": "Cloudspinner disappeared."
+    },
+    "u1758": {
+      "before": "So intelligence, or with",
+      "after": "So Intelligence or Wisdom,"
+    },
+    "u1766": {
+      "before": "But what we recognize in",
+      "after": "But what you recognize in"
+    },
+    "u1768": {
+      "before": "this Fay woman before you is",
+      "after": "this fey woman before you is"
+    },
+    "u1774": {
+      "before": "Can you not guess? Winter night",
+      "after": "Can you not guess? Winter Knight"
+    },
+    "u1775": {
+      "before": "the dangers that a cell your borders and the light gets are sleeping.",
+      "after": "the dangers that assail your borders when the Lightdancer is sleeping."
+    },
+    "u1778": {
+      "before": "If you could survive that onslaught,",
+      "after": "Few could survive that onslaught,"
+    },
+    "u1784": {
+      "before": "my Queens",
+      "after": "my queen's"
+    },
+    "u1792": {
+      "before": "Has the light dance ever not",
+      "after": "Has the Lightdancer ever not"
+    },
+    "u1795": {
+      "before": "he fun?",
+      "after": "be fun?"
+    },
+    "u1796": {
+      "before": "But the light dancer also",
+      "after": "But the Lightdancer also"
+    },
+    "u1799": {
+      "before": "behind there.",
+      "after": "[[behind there]]."
+    },
+    "u1802": {
+      "before": "What? What was your name? The Cloud Spinner",
+      "after": "What? What was your name? The Cloudspinner"
+    },
+    "u1804": {
+      "before": "No speak, no like Kyle's looks sort of annoyed at raven like",
+      "after": "No speak, no like Caulaus looks sort of annoyed at Raven like"
+    },
+    "u1806": {
+      "before": "any pauses",
+      "after": "and he pauses"
+    },
+    "u1811": {
+      "before": "bows to way to even tide slightly.",
+      "after": "bows to Lady Eventide slightly."
+    },
+    "u1814": {
+      "before": "this travel or forward. Would you consider granting",
+      "after": "this traveler forward. Would you consider granting"
+    },
+    "u1815": {
+      "before": "your favorite to him. I asked nothing for myself.",
+      "after": "your favor to him. I ask nothing for myself."
+    },
+    "u1817": {
+      "before": "Turns and walks over to seeker",
+      "after": "Turns and walks over to Seeker"
+    },
+    "u1844": {
+      "before": "He is the one who wishes to travel, is he not? He could take the color from",
+      "after": "He is the one who wishes to travel, is he not? You could take the color from"
+    },
+    "u1851": {
+      "before": "reaches forward, like towards seeker,",
+      "after": "reaches forward, like towards Seeker,"
+    },
+    "u1854": {
+      "before": "pick? A persuasion check?",
+      "after": "Make a persuasion check?"
+    },
+    "u1856": {
+      "before": "That is a long tail.",
+      "after": "That is a long tale."
+    },
+    "u1862": {
+      "before": "the Cloud Spinner,",
+      "after": "the Cloudspinner,"
+    },
+    "u1865": {
+      "before": "reds of the most",
+      "after": "threads of the most"
+    },
+    "u1879": {
+      "before": "queues of the",
+      "after": "hues of the"
+    },
+    "u1880": {
+      "before": "sky in the grass.",
+      "after": "sky and the grass."
+    },
+    "u1881": {
+      "before": "She looks over at call us.",
+      "after": "She looks over at Caulaus."
+    },
+    "u1889": {
+      "before": "her spinning whale, and",
+      "after": "her spinning wheel, and"
+    },
+    "u1891": {
+      "before": "Anyway, with her a coutureman's gone,",
+      "after": "Anyway, with her accoutrements gone,"
+    },
+    "u1901": {
+      "before": "crossing at last light falls",
+      "after": "crossing at Lastlight Falls"
+    },
+    "u1910": {
+      "before": "I've got deep red here.",
+      "after": "I've got deep red hair."
+    },
+    "u1911": {
+      "before": "Ah, so perhaps it delete my beard as it is,",
+      "after": "Ah, so perhaps you could leave my beard as it is,"
+    },
+    "u1920": {
+      "before": "from the hair. He had white streak down the center of my head. Exactly,",
+      "after": "from the hair. [[He had white streak]] down the center of my head. Exactly,"
+    },
+    "u1923": {
+      "before": "hundreds of Fay in this palace that's floating in the sky, resting on a cloud above a golden sunset.",
+      "after": "hundreds of fey in this palace that's floating in the sky, resting on a cloud above a golden sunset."
+    },
+    "u1925": {
+      "before": "the Queen of sunset or south",
+      "after": "the Queen of Sunsets herself"
+    },
+    "u1928": {
+      "before": "address of this",
+      "after": "a dress of this"
+    },
+    "u1929": {
+      "before": "amazing, like multicolored multi huge thread like hundreds of",
+      "after": "amazing, like multicolored multi-hued thread like hundreds of"
+    },
+    "u1931": {
+      "before": "Hughes all weaving together.",
+      "after": "hues all weaving together."
+    },
+    "u1940": {
+      "before": "um the So there's this one sleeve, that's all. It colored brightly, colored like golden golden",
+      "after": "um the So there's this one sleeve, that's all colored, brightly colored like golden golden"
+    },
+    "u1942": {
+      "before": "And She takes this threat, and she",
+      "after": "And She takes this thread, and she"
+    },
+    "u1945": {
+      "before": "It's light",
+      "after": "Its light"
+    },
+    "u1955": {
+      "before": "last light falls will open, and you may step through to the other side.",
+      "after": "Lastlight Falls will open, and you may step through to the other side."
+    },
+    "u1957": {
+      "before": "I think you need it.",
+      "after": "[[I think you need it]]."
+    },
+    "u1963": {
+      "before": "How do we stay in the mind?",
+      "after": "How do we stay in the light?"
+    },
+    "u1965": {
+      "before": "Sunset is all around. You",
+      "after": "Sunset is all around. It"
+    },
+    "u1969": {
+      "before": "gives about to you.",
+      "after": "gives a bow to you."
+    },
+    "u1971": {
+      "before": "for your gift to our",
+      "after": "for your gift, dwarf"
+    },
+    "u1974": {
+      "before": "it will not say",
+      "after": "I will not say"
+    },
+    "u1977": {
+      "before": "Will your travels be fruitful",
+      "after": "May your travels be fruitful"
+    },
+    "u1980": {
+      "before": "my friends of Shimmer song.",
+      "after": "my friends of Shimmersong."
+    },
+    "u1982": {
+      "before": "and callous.",
+      "after": "and Caulaus."
+    },
+    "u1985": {
+      "before": "without an apology in our plan to undo the wrongs you did.",
+      "after": "without an apology and a plan to undo the wrongs you did."
+    },
+    "u1987": {
+      "before": "my sense, you are",
+      "after": "I sense, you are"
+    },
+    "u1993": {
+      "before": "Cows looks a little",
+      "after": "Caulaus looks a little"
+    },
+    "u2001": {
+      "before": "Amber Glow",
+      "after": "Amberglow"
+    },
+    "u2015": {
+      "before": "to where the Cloud Spinner",
+      "after": "to where the Cloudspinner"
+    },
+    "u2018": {
+      "before": "I stay here. We're living. The past",
+      "after": "I stay here. reliving. The past"
+    },
+    "u2021": {
+      "before": "but I will think I knew where",
+      "after": "but I will think [[I knew where]]"
+    },
+    "u2026": {
+      "before": "in here now.",
+      "after": "in the here and now."
+    },
+    "u2038": {
+      "before": "these planes of",
+      "after": "these plains of"
+    },
+    "u2043": {
+      "before": "low in this. Ah, the sun low in the sky, and you can see now in the distance. Um! This line of trees that callous is leading you towards,",
+      "after": "low in this. Ah, the sun low in the sky, and you can see now in the distance. Um! This line of trees that Caulaus is leading you towards,"
+    },
+    "u2049": {
+      "before": "Okay, yeah, there is grass growing around if they are bad.",
+      "after": "Okay, yeah, there is grass growing around [[if they are bad]]."
+    },
+    "u2065": {
+      "before": "I have a humor to be up in the air.",
+      "after": "[[I have a humor to]] be up in the air."
+    },
+    "u2069": {
+      "before": "you can't automate,",
+      "after": "you can't animate,"
+    },
+    "u2070": {
+      "before": "I can. Yeah, you can. You can spend a total of my stuff out to do it again.",
+      "after": "I can. Yeah, you can. You can spend a third-level spell slot to do it again."
+    },
+    "u2071": {
+      "before": "All right about that. Thank you.",
+      "after": "I forgot about that. Thank you."
+    },
+    "u2075": {
+      "before": "Generally speaking, we've said what well-be and seeker can ride on it, but",
+      "after": "Generally speaking, we've said that Wellby and Seeker can ride on it, but"
+    },
+    "u2076": {
+      "before": "none of you are small. I mean The fairy's spiral is small, but she can already fly right.",
+      "after": "none of you are small. I mean The fairy, Spirala is small, but she can already fly right."
+    },
+    "u2080": {
+      "before": "ball the plunge, but I can't like",
+      "after": "[[ball the plunge]], but I can't like"
+    },
+    "u2081": {
+      "before": "I mean I can make light. We can just sort of keep the hundred shadows. Wait, Yeah, My sword can shed bright light in it like thirty-four radios.",
+      "after": "I mean I can make light. We can just sort of [[keep the hundred shadows]]. Wait, Yeah, My sword can shed bright light in it like thirty-foot radius."
+    },
+    "u2082": {
+      "before": "I could just dimension door to step past the trees.",
+      "after": "I could just Dimension Door to step past the trees."
+    },
+    "u2083": {
+      "before": "We let's see if this Why, don't we just dimension to her. Let me teach it. Okay, you dimension one more than one person.",
+      "after": "We let's see if this Why, don't we just Dimension Door. [[Let me teach it]]. Okay, can you Dimension Door more than one person."
+    },
+    "u2092": {
+      "before": "thirty-foot radius bright light around me. Does that do anything to the shed? Nose?",
+      "after": "thirty-foot radius bright light around me. Does that do anything to the shadows?"
+    },
+    "u2093": {
+      "before": "Um it all away from the one?",
+      "after": "Um [[it all away]] from the one?"
+    },
+    "u2103": {
+      "before": "powerful, so like that cast radiance of the done",
+      "after": "powerful, so like that. I cast Radiance of the Dawn"
+    },
+    "u2112": {
+      "before": "asterdam.",
+      "after": "[[asterdam.]]"
+    },
+    "u2113": {
+      "before": "So it don't so you you uh spell and clothes with this bright light, and like, holds up her hand, and",
+      "after": "So it don't so you you uh Spirala glows with this bright light, and like, holds up her hand, and"
+    },
+    "u2114": {
+      "before": "the the darkness the like shadows. Retreat, scunner, scurry away from",
+      "after": "the the darkness the like shadows. Retreat, scurry, scurry away from"
+    },
+    "u2125": {
+      "before": "So you begin what order. It's fairly narrow. You can, basically after a single file, to walk between the",
+      "after": "So you begin what order. It's fairly narrow. You can, basically have to be single file, to walk between the"
+    },
+    "u2126": {
+      "before": "ready to face, step",
+      "after": "ready to Fey Step"
+    },
+    "u2129": {
+      "before": "he's going. Second,",
+      "after": "Who's going. Second,"
+    },
+    "u2135": {
+      "before": "I only ruled the twelve not cool.",
+      "after": "I only rolled the twelve not cool."
+    },
+    "u2143": {
+      "before": "creep into your mind, and everybody make a wisdom saving throne,",
+      "after": "creep into your mind, and everybody make a wisdom saving throw,"
+    },
+    "u2144": {
+      "before": "Is it to avoid her and the charm condition",
+      "after": "Is it to avoid the charmed condition"
+    },
+    "u2152": {
+      "before": "and you you notice, like about, after about a minute that Callous has",
+      "after": "and you you notice, like about, after about a minute that Caulaus has"
+    },
+    "u2157": {
+      "before": "alright, So i'm channeled to be again.",
+      "after": "alright, So I'm channeling divinity again."
+    },
+    "u2159": {
+      "before": "call for a moment. You feel like The world is like getting cold and dark, and there's no point in continuing.",
+      "after": "Caulaus, for a moment. You feel like The world is like getting cold and dark, and there's no point in continuing."
+    },
+    "u2164": {
+      "before": "uh as the light of Sprella's um blessing surrounds you, and you all make it another one hundred feet to the last one hundred feet uh, and now it almost feels like you're like the darkness you're pushing against,",
+      "after": "uh as the light of Spirala's um blessing surrounds you, and you all make it another one hundred feet to the last one hundred feet uh, and now it almost feels like you're like the darkness you're pushing against,"
+    },
+    "u2168": {
+      "before": "just the better cold of of winter's night. Every make a constitution saving throw raven with advantage, because I have to, because of your character",
+      "after": "just the bitter cold of of winter's night. Everybody make a constitution saving throw Raven with advantage, because I have to, because of your character"
+    },
+    "u2171": {
+      "before": "that's not great. Um! Did you see a role for me, or I didn't see a role for you. Well, again,",
+      "after": "that's not great. Um! Did you see a roll for me, or I didn't see a roll for you. Well, again,"
+    },
+    "u2173": {
+      "before": "I mean, Seeker can give us some Bartic inspiration.",
+      "after": "I mean, Seeker can give us some Bardic inspiration."
+    },
+    "u2176": {
+      "before": "Uh, well, Ravens, our is fine,",
+      "after": "Uh, well, Raven's roll is fine,"
+    },
+    "u2183": {
+      "before": "It was a seven. I Okay. So um raven and umbrella uh shake off the cold. But",
+      "after": "It was a seven. I Okay. So um Raven and Spirala uh shake off the cold. But"
+    },
+    "u2185": {
+      "before": "seeker and and",
+      "after": "Seeker and and"
+    },
+    "u2186": {
+      "before": "callous, You feel like ice beginning to creep up your legs,",
+      "after": "Caulaus, You feel like ice beginning to creep up your legs,"
+    },
+    "u2188": {
+      "before": "It's getting colder and darker, and you're starting to feel, Alan, how far away are we from somewhere not restrained",
+      "after": "It's getting colder and darker, and you're starting to feel, [[Alan]], how far away are we from somewhere not restrained"
+    },
+    "u2201": {
+      "before": "I was going to cast misty step.",
+      "after": "I was going to cast Misty Step."
+    },
+    "u2207": {
+      "before": "Sorry. What were you all saying? What are you going to do? I was going to cast misty step.",
+      "after": "Sorry. What were you all saying? What are you going to do? I was going to cast Misty Step."
+    },
+    "u2208": {
+      "before": "I was not trying to take the ice on seekers legs.",
+      "after": "I was [[not trying to take]] the ice on Seeker's legs."
+    },
+    "u2210": {
+      "before": "My position catches useless. It doesn't end the restrained condition.",
+      "after": "My Physician's Touch is useless. It doesn't end the restrained condition."
+    },
+    "u2211": {
+      "before": "Can you just cast the mention door?",
+      "after": "Can you just cast Dimension Door?"
+    },
+    "u2218": {
+      "before": "I know you don't have to walk through the You don't have to walk through Dimension Door.",
+      "after": "No, you don't have to walk through the You don't have to walk through Dimension Door."
+    },
+    "u2219": {
+      "before": "There's a that's a different spell that's like Arcane Gate or something Dimension George is. Alright, Well, then, I'll just walk forward twenty. Then I'll just walk forward",
+      "after": "There's a that's a different spell that's like Arcane Gate or something Dimension Door is. Alright, Well, then, I'll just walk forward twenty. Then I'll just walk forward"
+    },
+    "u2222": {
+      "before": "you to just magic there yourself, out of your problems.",
+      "after": "you two just magic yourself, out of your problems."
+    },
+    "u2229": {
+      "before": "rolling plane of",
+      "after": "rolling plain of"
+    },
+    "u2246": {
+      "before": "the the um human Panzo at the top of the cliff like waves down to you, and starts to make his way down, as you say, goodbye to your companions,",
+      "after": "the the um human Kenzo at the top of the cliff like waves down to you, and starts to make his way down, as you say, goodbye to your companions,"
+    },
+    "u2248": {
+      "before": "Callous will sort of",
+      "after": "Caulaus will sort of"
+    },
+    "u2253": {
+      "before": "clearly fake creatures, and sort of",
+      "after": "clearly fey creatures, and sort of"
+    },
+    "u2257": {
+      "before": "It is almost time for a spoil to return to the caves and",
+      "after": "It is almost time for [[a spoil]] to return to the caves and"
+    },
+    "u2258": {
+      "before": "the Internet.",
+      "after": "[[the Internet.]]"
+    },
+    "u2260": {
+      "before": "for perhaps you could be a guide for Callus, and he could explore shimmer song.",
+      "after": "for perhaps you could be a guide for Caulaus, and he could explore Shimmersong."
+    },
+    "u2262": {
+      "before": "Raven? Perhaps you could be a guy for callous, and he could explore shimmers on.",
+      "after": "Raven? Perhaps you could be a guide for Caulaus, and he could explore Shimmersong."
+    },
+    "u2265": {
+      "before": "on two island.",
+      "after": "[[on two island.]]"
+    },
+    "u2267": {
+      "before": "Oh, because I want to hang out here for a little while and make sure that a seeker gets through it the right kind of light",
+      "after": "Oh, because I want to hang out here for a little while and make sure that Seeker gets through it the right kind of light"
+    },
+    "u2268": {
+      "before": "that the thread, after all.",
+      "after": "Got the thread, after all."
+    },
+    "u2269": {
+      "before": "Now Sparrell is going to play because Brisbane still outside the fay wild. So Kate's going to play his brella for like the mini fay wild art before you guys all leave so as an aside. We never got that one into the fate wild,",
+      "after": "Now Spirala is going to play because Riswynn still outside the Feywild. So Kate's going to play Spirala for like the mini Feywild arc before you guys all leave so as an aside. We never got that one into the Feywild,"
+    },
+    "u2273": {
+      "before": "i'm going to sort. I will start the editor man. It's the order that deal with is going to be the last to arrive.",
+      "after": "i'm going to sort. I will start [[the editor man]]. It's the order that Delwath is going to be the last to arrive."
+    },
+    "u2275": {
+      "before": "I think, unless well, he manages to get himself killed",
+      "after": "I think, unless Wellby manages to get himself killed"
+    },
+    "u2289": {
+      "before": "so you goes head towards your son. Yes, once right. So they depart. Sprella waits with Seeker",
+      "after": "so you guys head towards Shimmersong. Yes, once right. So they depart. Spirala waits with Seeker"
+    },
+    "u2290": {
+      "before": "for Kenza to come down from the top of the cliffs and greet each other, and then",
+      "after": "for Kenzo to come down from the top of the cliffs and greet each other, and then"
+    },
+    "u2291": {
+      "before": "for well-be and dulleth to arrive eventually and",
+      "after": "for Wellby and Delwath to arrive eventually and"
+    },
+    "u2295": {
+      "before": "as everybody leaves Speaker, you hear a little voice in your head.",
+      "after": "as everybody leaves Seeker, you hear a little voice in your head."
+    },
+    "u2302": {
+      "before": "I have a face girl trapped in a ring.",
+      "after": "I have a fey girl trapped in a ring."
+    },
+    "u2304": {
+      "before": "of a Face Spirit?",
+      "after": "of a fey spirit?"
+    },
+    "u2305": {
+      "before": "Who is my brought back here?",
+      "after": "Who I brought back here?"
+    },
+    "u2306": {
+      "before": "The Cloud Spinner?",
+      "after": "The Cloudspinner?"
+    },
+    "u2308": {
+      "before": "Who instantly",
+      "after": "[[Who instantly]]"
+    },
+    "u2309": {
+      "before": "person.",
+      "after": "[[person.]]"
+    },
+    "u2314": {
+      "before": "Raven? Well, we're we're in. We're in. We' to have a face spirit to guide back somewhere, and maybe recover a few memories.",
+      "after": "Raven? Well, we're we're in. We're in. We' to have a fey spirit to guide back somewhere, and maybe recover a few memories."
+    },
+    "u2321": {
+      "before": "Just give you advantage on saving drugs against being charmed, and",
+      "after": "Just give you advantage on saving throws against being charmed, and"
+    },
+    "u2322": {
+      "before": "yours is probably not powered by a trapped face. Spirit. No, it's powered by Rafi spirit, though",
+      "after": "yours is probably not powered by a trapped fey spirit. No, it's powered by a fey spirit, though"
+    },
+    "u2324": {
+      "before": "it's the advantage on savings for us against being charmed in. Yeah, that's the one",
+      "after": "it's the advantage on saving throws against being charmed in. Yeah, that's the one"
+    },
+    "u2326": {
+      "before": "i'm immune to being put to sleep. So you know my famous is better than your famous. Why, don't you go to sleep then?",
+      "after": "i'm immune to being put to sleep. So you know my feyness is better than your feyness. Why, don't you go to sleep then?"
+    },
+    "u2338": {
+      "before": "uh we could all go free to female. Is that what you're saying? I'm saying you can. You can either. You don't have to decide. Now, if you want to",
+      "after": "uh we could all go free Typhina. Is that what you're saying? I'm saying you can. You can either. You don't have to decide. Now, if you want to"
+    },
+    "u2339": {
+      "before": "give, tell us the ring or not, you can recon it.",
+      "after": "give, Caulaus the ring or not, you can retcon it."
+    },
+    "u2340": {
+      "before": "We can just leave it sort of this weird, ambiguous thing. And then, once you've all discussed it, seeker it can either be like,",
+      "after": "We can just leave it sort of this weird, ambiguous thing. And then, once you've all discussed it, Seeker it can either be like,"
+    },
+    "u2341": {
+      "before": "let's go free, Titina, or",
+      "after": "let's go free, Typhina, or"
+    },
+    "u2343": {
+      "before": "I gave Typhine to call us.",
+      "after": "I gave Typhina to Caulaus."
+    },
+    "u2348": {
+      "before": "I like riffing. I mean, we didn't role play that like the riffing off of uh with him, and I had not made up anything right. I didn't know where the Cloud Spinner was. That was all. Totally",
+      "after": "I like riffing. I mean, we didn't role play that like the riffing off of uh with him, and I had not made up anything right. I didn't know where the Cloudspinner was. That was all. Totally"
+    },
+    "u2349": {
+      "before": "person taken by drank, or who spins threat of. But multicolored dread was obvious enough for you,",
+      "after": "person taken by Drankor who spins thread of. But multicolored thread was obvious enough for you,"
+    },
+    "u2352": {
+      "before": "The person taken by drink, or who's been? Oh, that was in the story that",
+      "after": "The person taken by Drankor who spins? Oh, that was in the story that"
+    },
+    "u2353": {
+      "before": "Oh, Cloud Spinner,",
+      "after": "Oh, Cloudspinner,"
+    },
+    "u2354": {
+      "before": "I'm taking my train car spins multicolored thread.",
+      "after": "taken by Drankor, spins multicolored thread."
+    },
+    "u2358": {
+      "before": "do we know some native multicolored tread that artifacts",
+      "after": "Do we know something made of multicolored thread, that artifact?"
+    },
+    "u2363": {
+      "before": "Do we have something, Drake chorion that's made of multicolored thread. That's magical,",
+      "after": "Do we have something, Drankorian that's made of multicolored thread. That's magical,"
+    },
+    "u2365": {
+      "before": "Just don't don't totally forget about it. I'll write up sessions for all of these one shots. But during good Thanksgiving break So",
+      "after": "Just don't don't totally forget about it. I'll write up sessions for all of these one shots. But during Thanksgiving break So"
+    },
+    "u2367": {
+      "before": "that you guys later.",
+      "after": "See you guys later."
+    }
+  },
+  "incidentalUnclear": {
+    "u0029": "Garbled request repeating the falls name; name is clearly supplied in adjacent turns.",
+    "u0032": "Brief interjection during the same name clarification.",
+    "u0033": "Opening fragment unclear; repeated destination is clear.",
+    "u0073": "Unclear costume detail; cloak and mask description survives.",
+    "u0104": "Clipped descriptive phrase; twitchy, uneasy demeanor is clear in u0106–u0107.",
+    "u0208": "Interrupted fragment during Eventide recollection.",
+    "u0215": "Isolated cross-talk.",
+    "u0218": "Isolated cross-talk.",
+    "u0222": "Isolated cross-talk.",
+    "u0226": "Isolated cross-talk.",
+    "u0233": "Short table interjection.",
+    "u0242": "Clipped filler after stew description.",
+    "u0264": "Fragment preceding clear explanation that Caulaus has passed this way before.",
+    "u0270": "Isolated cross-talk while DM sends note.",
+    "u0280": "Clipped filler during sword description.",
+    "u0302": "Brief interjection.",
+    "u0313": "Brief conversational tail.",
+    "u0317": "Clipped lead-in.",
+    "u0321": "Clipped filler before marching song description.",
+    "u0339": "Isolated filler.",
+    "u0363": "Clipped interjection.",
+    "u0412": "Brief reaction to Raven hiding; no decision rests on this phrase.",
+    "u0440": "Filler during DM description.",
+    "u0490": "Distance clarification fragment; u0489 gives about 500 feet.",
+    "u0494": "Brief table interjection.",
+    "u0533": "Garbled lead-in to the fully repeated blinding-method question.",
+    "u0538": "Clipped interjection during darts discussion.",
+    "u0544": "Garbled interruption before fog proposal.",
+    "u0554": "Cross-talk about spell lists; following turns resolve the plan.",
+    "u0556": "Unclear comparison of another character's spell list.",
+    "u0557": "Clipped table aside.",
+    "u0568": "Garbled comparison left source-faithful; duplicate-spell ruling explicit.",
+    "u0572": "Clipped comparison supplied by next speaker.",
+    "u0600": "Pause while reading ability.",
+    "u0608": "Clipped rules-reading fragment; bonus-action ruling explicit u0618.",
+    "u0612": "Cross-talk.",
+    "u0634": "Clipped reply before DM repeats range.",
+    "u0654": "Isolated fragment.",
+    "u0655": "Abandoned lead-in.",
+    "u0659": "Interrupted question.",
+    "u0679": "Abandoned lead-in.",
+    "u0682": "Garbled interjection during tent joke.",
+    "u0690": "Map-direction joke; last word unclear.",
+    "u0692": "Token setup chatter remains rough.",
+    "u0693": "Garbled Echo Knight token request; resolved u0705–u0708.",
+    "u0695": "Final token-management clause unclear; resolved u0698–u0699.",
+    "u0698": "Token permissions confirmation clipped.",
+    "u0700": "Question completed next turn.",
+    "u0703": "Garbled personal aside about watching The Simpsons.",
+    "u0707": "Abandoned token-editing question.",
+    "u0714": "Rough scout-discussion lead-in; decision clear u0717.",
+    "u0715": "Isolated fragment in scout discussion.",
+    "u0718": "Brief interjection.",
+    "u0719": "Aside about saving a die roll; not an in-world result.",
+    "u0721": "Brief interjection.",
+    "u0724": "Token positioning without recoverable map referent.",
+    "u0725": "Token positioning interjection.",
+    "u0726": "Abandoned range question.",
+    "u0735": "Dice interface question; roll is already supplied.",
+    "u0740": "Abandoned lead-in to Message use.",
+    "u0748": "Cross-talk.",
+    "u0754": "Clipped tail after the signal description.",
+    "u0764": "Isolated interjection.",
+    "u0778": "Abandoned sentence opening.",
+    "u0791": "Clipped phrase during roll check.",
+    "u0799": "Isolated filler.",
+    "u0801": "Isolated filler.",
+    "u0803": "Isolated filler.",
+    "u0810": "Abandoned lead-in.",
+    "u0817": "Computer/map control chatter; solved u0820.",
+    "u0819": "Computer troubleshooting fragment.",
+    "u0821": "Isolated fragment.",
+    "u0826": "Abandoned question.",
+    "u0829": "Interrupted start of initiative instruction.",
+    "u0834": "Brief dice-roll aside.",
+    "u0858": "Token display fragment.",
+    "u0859": "Brief interjection.",
+    "u0863": "Garbled interjection after creature call.",
+    "u0874": "Unattributed question in combat.",
+    "u0875": "Brief action lead-in; Slow explicitly declared later.",
+    "u0885": "Area referent is garbled; two satyr targets and results supplied u0887–u0888.",
+    "u0898": "Map placement referent; DM confirms next unit.",
+    "u0919": "Garbled save aside; Constitution failure clear in same unit.",
+    "u0927": "Personal/map token joke after the attack, not an action result.",
+    "u0938": "Comment about discarded roll; final Stealth 19 and success explicit.",
+    "u0984": "Brief interjection.",
+    "u0985": "Abandoned mechanics question.",
+    "u0988": "Brief reaction to mechanics clarification.",
+    "u0997": "Short reply fragment.",
+    "u1002": "Garbled dice-reading aside; final 15 psychic damage and no curse explicit.",
+    "u1003": "Garbled roll aside; final attack 18 and miss versus AC19 explicit.",
+    "u1008": "Brief reaction before toll revelation.",
+    "u1016": "Slowed-token identification chatter; casting effect explicit in u1020–u1021.",
+    "u1018": "Garbled reminder; AC/Dex penalty explicit in next unit.",
+    "u1033": "Short continuation fragment.",
+    "u1035": "Brief exclamation.",
+    "u1044": "Garbled lead-in to clear Hold Person limitation.",
+    "u1048": "Garbled Hold Monster comparison.",
+    "u1064": "Abandoned interface question.",
+    "u1065": "Abandoned lead-in.",
+    "u1066": "Interface chatter.",
+    "u1071": "Garbled software aside; missing rolls are clear.",
+    "u1077": "Abandoned lead-in.",
+    "u1078": "Clipped filler.",
+    "u1082": "Garbled cast instruction; attack requirement explicit u1083.",
+    "u1087": "Unattributed family interjection.",
+    "u1102": "Isolated fragment.",
+    "u1103": "Interface advice fragment.",
+    "u1104": "Last clause abandoned after rays described.",
+    "u1106": "Garbled mute request; mute action confirmed u1107.",
+    "u1110": "Isolated fragment.",
+    "u1116": "Map positioning referent.",
+    "u1131": "Cross-talk.",
+    "u1132": "Abandoned lead-in.",
+    "u1137": "Isolated fragment.",
+    "u1150": "Isolated filler.",
+    "u1151": "Brief joke during animated-echo movement.",
+    "u1168": "Clipped reply; attack result unambiguously supplied u1169.",
+    "u1183": "Map positioning fragment.",
+    "u1199": "Clipped end of clear tent-turn clarification.",
+    "u1209": "Isolated fragment.",
+    "u1215": "Dice aside before explicit miss.",
+    "u1227": "Delayed spell wording unclear; glowing sword and Con-save effect clear.",
+    "u1228": "Brief interjection.",
+    "u1232": "Damage phrase garbled; Caulaus repeats five and continues with Con save.",
+    "u1248": "Clipped lead-in.",
+    "u1253": "Garbled aside about appearance; no new action.",
+    "u1255": "Brief dice/table comment.",
+    "u1257": "Abandoned comment about damage dealt.",
+    "u1258": "Clipped continuation.",
+    "u1260": "Rough first-ray comment; 11 damage explicit u1263.",
+    "u1261": "Interface question fragment.",
+    "u1262": "Short interface reply.",
+    "u1269": "Button description fragment.",
+    "u1285": "Fragment joined with clear hits next unit.",
+    "u1290": "Brief response to repetitive rolls.",
+    "u1295": "Acoustics aside.",
+    "u1296": "Empty unit in prepared source; preserved exactly.",
+    "u1300": "Reminder about poisoned condition; disadvantage applied later.",
+    "u1303": "Garbled rules-side comment; animated tent stat settled u1305–u1307.",
+    "u1309": "Clipped lead-in.",
+    "u1311": "Abandoned tent question; DM confirms grapple failure immediately after.",
+    "u1317": "Garbled tactical aside; Wall of Stone enclosure discussion continues explicitly.",
+    "u1322": "Brief interjection.",
+    "u1327": "Abandoned comment.",
+    "u1332": "Garbled aside about enclosure; ruling explicit u1333.",
+    "u1337": "Map counting fragment; corrected dimensions explicit u1340.",
+    "u1341": "Closing tent-placement aside rough; giant enclosure ruled insufficient.",
+    "u1349": "Initiative-side comment.",
+    "u1351": "Isolated fragment.",
+    "u1353": "Abandoned metal-weapon question answered no; no spell cast on this basis.",
+    "u1359": "Clipped area remark; discussion continues next units.",
+    "u1360": "Abandoned tactical lead-in.",
+    "u1362": "Abandoned question.",
+    "u1363": "Clipped estimate of enemy health; attack choice explicit u1365.",
+    "u1368": "Rough aside about line geometry.",
+    "u1370": "Map position referent unclear.",
+    "u1371": "Rough acknowledgement of position.",
+    "u1373": "Pointing/map positioning fragment.",
+    "u1376": "Abandoned description lead-in.",
+    "u1380": "Last clause garbled; 21 damage explicit.",
+    "u1384": "Garbled fog command question; ability explained next turn.",
+    "u1387": "Abandoned table comment.",
+    "u1391": "Map positioning fragment.",
+    "u1392": "Map positioning fragment.",
+    "u1404": "Opening filler rough; attack 12 miss clear.",
+    "u1408": "Clipped interjection.",
+    "u1414": "Garbled planning aside before declared movement.",
+    "u1415": "Abandoned action commentary.",
+    "u1429": "Garbled lead-in; roll 11 and ki adjustment explicitly repeated.",
+    "u1450": "Rough add-two remark; final damage explicit next unit.",
+    "u1453": "Abandoned interjection.",
+    "u1458": "Clipped reaction.",
+    "u1461": "Garbled narrative lead-in; 35 psychic damage clear.",
+    "u1464": "Clipped reaction.",
+    "u1465": "Garbled reaction to damage.",
+    "u1478": "Brief damage reaction.",
+    "u1484": "Isolated interjection.",
+    "u1487": "Clipped response to toll price.",
+    "u1488": "Abandoned lead-in.",
+    "u1489": "Garbled description of cauldron contents already established.",
+    "u1491": "Garbled action-economy correction; next turns settle one action only.",
+    "u1499": "Rough action lead-in; spell is declared u1501.",
+    "u1512": "Creature label correction stumble; satyr target explicit.",
+    "u1514": "Garbled aside about damage.",
+    "u1524": "Garbled help request; cursed leg and requested aid are clear.",
+    "u1530": "Rough request for short rest; rest later explicitly taken.",
+    "u1531": "Rest reply contains unclear tail; short rest explicitly taken later.",
+    "u1533": "Clipped leg reaction.",
+    "u1534": "Brief dramatic reaction.",
+    "u1535": "Brief response.",
+    "u1536": "Opening rest-resource question rough; next units explain resource issue.",
+    "u1546": "Short table-side fragment.",
+    "u1564": "Isolated interjection.",
+    "u1571": "Abandoned lead-in.",
+    "u1575": "Garbled aside after failed Wisdom save; fascination effect explicit.",
+    "u1579": "Garbled opening joke; no save revision requested.",
+    "u1584": "Merged reaction to becoming toll keeper; subsequent action explicit.",
+    "u1595": "Garbled admonition; discarded ladle action clearly repeated.",
+    "u1597": "Pronoun remains source wording in throw-a-rock exchange.",
+    "u1603": "Mixed reaction to wearing-off effect; no action changed.",
+    "u1604": "Reaction continuation.",
+    "u1617": "Abandoned lead-in.",
+    "u1618": "Abandoned description lead-in.",
+    "u1620": "Garbled die-roll aside; not a lore statement.",
+    "u1621": "Clipped hit-dice/resource aside.",
+    "u1622": "Abandoned lead-in.",
+    "u1623": "Abandoned lead-in.",
+    "u1624": "Abandoned lead-in; healing request repeated next unit.",
+    "u1631": "Short reply to healing inquiry.",
+    "u1633": "Abandoned lead-in.",
+    "u1637": "Clipped filler.",
+    "u1640": "Brief acknowledgement.",
+    "u1643": "Abandoned description lead-in.",
+    "u1663": "Clipped response.",
+    "u1669": "Garbled complaint aside; ordinary ladle replacement explicit later.",
+    "u1672": "Clipped filler.",
+    "u1679": "Final aside about forgotten display asset.",
+    "u1680": "Clipped asset-display aside.",
+    "u1687": "Isolated filler.",
+    "u1697": "Unfinished ring-pattern description.",
+    "u1710": "Clipped surprised repetition of return.",
+    "u1720": "Table question.",
+    "u1732": "Clipped price question; request clearly repeated u1816.",
+    "u1735": "Abandoned place/home lead-in.",
+    "u1754": "Brief interjection during check choice.",
+    "u1757": "Clipped reply.",
+    "u1758": "Clipped mental-skill explanation completed next turn.",
+    "u1789": "Table interruption.",
+    "u1798": "Isolated continuation fragment.",
+    "u1799": "Garbled wording about Lightdancer departure; interrupted argument, no adopted fact.",
+    "u1800": "Continuation fragment.",
+    "u1804": "Interrupted admonition; following statement complete.",
+    "u1806": "Narrative continuation fragment.",
+    "u1810": "Narrative continuation fragment.",
+    "u1841": "Brief interjection after abandoned thought.",
+    "u1850": "Abandoned lead-in.",
+    "u1853": "Question ends abruptly; loss-of-color question clear.",
+    "u1868": "Isolated filler.",
+    "u1870": "Narrative hesitation.",
+    "u1876": "Brief filler.",
+    "u1882": "False start before stating Caulaus's people took Cloudspinner.",
+    "u1887": "Brief interjection.",
+    "u1890": "Out-of-character word-search for spinning equipment.",
+    "u1895": "Clipped question about colored areas, supplied by following turns.",
+    "u1896": "Continuation filler.",
+    "u1917": "Abandoned lead-in.",
+    "u1920": "Garbled white-streak interjection; outcome explicitly described u1936.",
+    "u1927": "Isolated filler.",
+    "u1932": "Isolated filler.",
+    "u1947": "Thread rule connector omitted but color/time function clear.",
+    "u1956": "Short reaction.",
+    "u1957": "Short thanks/response uncertain.",
+    "u1973": "Unfinished blessing.",
+    "u1999": "Clipped lead-in to atonement request.",
+    "u2006": "Abandoned lead-in.",
+    "u2021": "Garbled tail after agreement to think; no new course chosen.",
+    "u2027": "Isolated filler.",
+    "u2028": "Rough route recap clarified by next turn.",
+    "u2031": "Back-door/tree-chopping joke; no actual destruction.",
+    "u2057": "Rough pointing explanation of shadow direction.",
+    "u2065": "Unclear flying proposal, not enacted.",
+    "u2066": "Map-shadow aside.",
+    "u2080": "Abandoned movement-ability proposal.",
+    "u2081": "Garbled light-plan clause; sword-light action and effect explicit later.",
+    "u2083": "Door-capacity discussion followed by sword alternative.",
+    "u2087": "Abandoned lead-in before invocation.",
+    "u2090": "Isolated filler.",
+    "u2093": "Garbled light-effect follow-up; DM rules effect explicitly u2101.",
+    "u2095": "Clipped rarity aside.",
+    "u2107": "Short use-count question.",
+    "u2109": "Abandoned rules reading.",
+    "u2110": "Unclear action-cost wording; effect and limitations explicitly narrated.",
+    "u2112": "Unclear short continuation of Channel Divinity invocation; named immediately before.",
+    "u2118": "Abandoned darkness-removal description.",
+    "u2130": "Merged marching-order replies; speakers cannot be reassigned from text.",
+    "u2132": "Abandoned save-type question; DM response no.",
+    "u2147": "Clipped lead-in.",
+    "u2148": "Garbled lead-in before DM narrates effects.",
+    "u2149": "Brief interjection.",
+    "u2172": "Short reaction.",
+    "u2179": "Abandoned inspiration lead-in.",
+    "u2180": "Clipped inspiration-die reminder.",
+    "u2181": "Short recipient question.",
+    "u2182": "Short recipient reply.",
+    "u2188": "Garbled connective or interjection before distance question.",
+    "u2196": "Short reply.",
+    "u2199": "Clipped audio-problem comment.",
+    "u2203": "Abandoned question during audio trouble.",
+    "u2204": "Rough escape proposal; subsequent plan supersedes it.",
+    "u2209": "Clipped condition question.",
+    "u2213": "Abandoned rules claim corrected u2218.",
+    "u2221": "Abandoned lead-in.",
+    "u2223": "Rough joke about magic solving problems.",
+    "u2240": "Isolated filler.",
+    "u2244": "Abandoned ending lead-in.",
+    "u2247": "Brief interjection.",
+    "u2261": "Recipient clarification question.",
+    "u2268": "Rough reassurance; thread possession explicit earlier.",
+    "u2273": "Garbled session-order planning; Delwath-last statement clear.",
+    "u2280": "Abandoned session question.",
+    "u2284": "Short session reaction.",
+    "u2286": "Rough old-session reference.",
+    "u2288": "Clipped table aside.",
+    "u2289": "Opening farewell chatter rough; departure/waiting explicit.",
+    "u2299": "Isolated hesitation.",
+    "u2308": "Garbled response to Cloudspinner guess; no identity established by this fragment.",
+    "u2309": "Clipped continuation of same response.",
+    "u2311": "Departure-timing remark rough; retcon option stated later.",
+    "u2323": "Abandoned lead-in.",
+    "u2325": "Isolated filler.",
+    "u2328": "Garbled aside about the voice.",
+    "u2329": "Abandoned arc-closing comment; planning continues.",
+    "u2330": "Clipped timing reply.",
+    "u2344": "Brief acknowledgement.",
+    "u2347": "Rough character-play comment.",
+    "u2350": "Rough reaction to hint.",
+    "u2351": "Short continuation of hint.",
+    "u2358": "Multicolored-thread phrase resolved from same-session repeated wording; artifact-question tail rough.",
+    "u0092": "Garbled filler in writing-recognition question; question and answer clear.",
+    "u0120": "Rough gear-description connector; what gear contains is clear.",
+    "u0154": "Garbled lead-in to recognition question; no affirmative knowledge asserted.",
+    "u0221": "Unclear food/drink fragment during meal invitation; they decline to linger.",
+    "u0375": "Garbled path preference; choice to proceed into ravine explicit u0368–u0373.",
+    "u0380": "Clipped follow-up to evil-glare warning; the warning itself is clear.",
+    "u0381": "Rough marching-order question; subsequent order response clear.",
+    "u0384": "Garbled order reply; Raven and Spirala in back confirmed u0385.",
+    "u0396": "Missing clause connector during scouting proposal; plan clearly repeated.",
+    "u0402": "Garbled assessment of scouting; assent and scouting action clear.",
+    "u0413": "Clipped filler.",
+    "u0426": "Awkward partial phrase; eye-socket description immediately completes it.",
+    "u0492": "Abandoned halfway-point description; approximate range clear u0489.",
+    "u0517": "Abandoned recollection prompt.",
+    "u0579": "Abandoned inventory phrase.",
+    "u0581": "Bedroll/giant phrase has speech restarts; proposed blindfold clear.",
+    "u0586": "Garbled prediction about shaking off blindfold; hypothetical only.",
+    "u0587": "Height phrasing odd; actual size explicitly supplied by DM elsewhere.",
+    "u0593": "Abandoned comparison.",
+    "u0621": "Abandoned correction from animated to unanimated tent, clarified u0631.",
+    "u0626": "Abandoned ordering phrase.",
+    "u0627": "Likelihood self-correction remains rough.",
+    "u0630": "Garbled repetition of three blinding attempts; proposed plan clear.",
+    "u0691": "Abandoned asset-search remark.",
+    "u0712": "Rough map-size complaint; map enlarged.",
+    "u0713": "Map editing aside remains conversationally rough.",
+    "u0716": "Clipped scout lead-in completed next turn.",
+    "u0728": "Rough companion-support phrase.",
+    "u0730": "Unfinished positioning preference.",
+    "u0733": "Brief stealth-roll acknowledgement; 28 elsewhere explicit.",
+    "u0739": "Abandoned interface remark.",
+    "u0796": "Abandoned lead-in.",
+    "u0797": "Isolated fragment.",
+    "u0815": "Abandoned token-movement request.",
+    "u0838": "Initiative query clipped; cannot assign the adjacent ambiguous totals.",
+    "u0848": "Abandoned dice-interface explanation.",
+    "u0916": "Speech restart; second attack explicitly rolled u0922.",
+    "u0917": "Incomplete damage amount later explicitly explained u0921.",
+    "u0945": "Brief aside before 17 attack roll.",
+    "u0965": "Mental-damage tally aside; components previously stated.",
+    "u0989": "Clipped narrative lead-in.",
+    "u1001": "Rough die-roll remark; saving throw 18 already supplied.",
+    "u1004": "Attack-miss taunt; result explicit.",
+    "u1039": "Conditional request incomplete; spell selection follows.",
+    "u1051": "Suggested cantrip cast in plan discussion, not actual action.",
+    "u1075": "Interface explanation trails off.",
+    "u1076": "Abandoned assistance question.",
+    "u1128": "Unclear target-selection question about abandoned Earthen Grasp.",
+    "u1149": "Abandoned lead-in.",
+    "u1172": "Merged turn-order interruption and continuing action; preserved speaker header.",
+    "u1175": "Abandoned swap-places question; next decisions explicit.",
+    "u1177": "Abandoned action lead-in.",
+    "u1188": "Initial timing aside rough; satyr save request clear.",
+    "u1203": "Narration self-correction over dodging; attack misses clear.",
+    "u1231": "Rules narration has speech restart but Con save and damage order clear.",
+    "u1235": "Software switch chatter; save 25 explicit later.",
+    "u1251": "Abandoned lead-in.",
+    "u1259": "Abandoned roll narration.",
+    "u1278": "Third-attack miss narration rough; later rolls explicit.",
+    "u1307": "Closing aside unclear; tent modifier +4 explicit.",
+    "u1334": "Interrupted positioning constraint immediately corrected.",
+    "u1338": "Map-counting start rough; dimensions explicit next units.",
+    "u1347": "Taunting overconfidence about attack misses; no new result.",
+    "u1352": "Abandoned lead-in.",
+    "u1354": "Hesitation before terrain question; content clear.",
+    "u1449": "Rough self-encouragement before spending ki.",
+    "u1454": "Narration restart before clear toll statement.",
+    "u1463": "Rough damage reaction.",
+    "u1500": "Speech restart before explicit spell declaration.",
+    "u1529": "Merged spell-resource conversation; Physician's Touch unavailable for curse clearly stated.",
+    "u1545": "Animated tent request ends as separated sentence; action clear.",
+    "u1560": "Approach lead-in abandoned as DM gives stirring effect.",
+    "u1612": "Merged rest agreement; actual rest explicitly narrated next unit.",
+    "u1648": "Tattered-ruins phrasing rough; crashed state clear.",
+    "u1658": "Possibly abbreviated mislead/dissuade wording; navigation result clear.",
+    "u1674": "Description lead-in rough.",
+    "u1685": "Ruin-description false start.",
+    "u1695": "Unfinished description of silver ring completed next unit.",
+    "u1713": "Destination lead-in stutter.",
+    "u1753": "Final check-choice phrasing conversationally rough.",
+    "u1797": "Abandoned claim about the Lightdancer; no completed lore statement.",
+    "u1840": "Abandoned valuation sentence.",
+    "u1859": "Tense slightly rough in spoken line; no meaning change.",
+    "u1918": "Rough assent; transaction explicitly performed next units.",
+    "u2049": "Garbled tail after agreement grass exists; flower action clear.",
+    "u2056": "Rough head-toward-trees phrase.",
+    "u2084": "Mixed speaker capacity reply and alternative lead-in.",
+    "u2096": "Abandoned qualification.",
+    "u2113": "Action description has rough opening; Spirala light effect clear.",
+    "u2116": "Rough duration explanation; burst-only ruling clear next turn.",
+    "u2131": "Merged light proposal and saving throw instruction; no new action outcome.",
+    "u2134": "Abandoned save-type reply.",
+    "u2171": "Roll-interface chatter.",
+    "u2208": "Garbled proposed ice-removal action; repeated explicitly as breaking ice u2214.",
+    "u2219": "Spell-rule and movement discussion has speech restarts; arrival explicitly narrated later.",
+    "u2239": "Rough robes/staff connector; appearance description clear.",
+    "u2245": "Abandoned departure lead-in.",
+    "u2266": "Rough invitation-timing question, clarified next turn.",
+    "u2267": "Timing connector rough; plan to wait for crossing clear.",
+    "u2269": "Out-of-character scheduling aside; name corrections use glossary and PC context.",
+    "u2281": "Rough earlier-session reply.",
+    "u2282": "Abandoned jungle-session reference.",
+    "u2304": "Rough fey-spirit clarification.",
+    "u2305": "Rough return-here explanation.",
+    "u2314": "Merged proposal with repeated lead-ins; escort idea is hypothetical.",
+    "u2315": "Speech restart; imagined one-shot is conditional.",
+    "u2324": "Final rule connector rough; advantage versus charm explicit.",
+    "u2338": "Decision remains deferred; no future choice adopted.",
+    "u2349": "Thread hint has repeated words/false start; no object identity confirmed.",
+    "u2365": "Rough future write-up timing aside."
+  },
+  "usageSecondPassRemainingPercent": 91,
+  "firstPassChunks": [
+    [
+      1,
+      400
+    ],
+    [
+      401,
+      720
+    ],
+    [
+      721,
+      1040
+    ],
+    [
+      1041,
+      1360
+    ],
+    [
+      1361,
+      1680
+    ],
+    [
+      1681,
+      2367
+    ]
+  ],
+  "secondPassChunks": [
+    [
+      1,
+      480
+    ],
+    [
+      481,
+      960
+    ],
+    [
+      961,
+      1440
+    ],
+    [
+      1441,
+      1920
+    ],
+    [
+      1921,
+      2367
+    ]
+  ],
+  "lineCount": 2367,
+  "changedLineCount": 654,
+  "reviewCounts": {
+    "materialIssueGroups": 11,
+    "materialLines": 15,
+    "materialMarkerSpans": 15,
+    "incidentalMarkedLines": 60,
+    "incidentalMarkerSpans": 61,
+    "supplementalIncidentalContextLines": 369,
+    "supplementalWholeUnitReviewSpans": 369,
+    "totalIncidentalInventoryLines": 429,
+    "totalIncidentalReviewSpansIncludingWholeUnits": 430
+  },
+  "humanAcceptance": false,
+  "usageEndRemainingPercent": 91,
+  "verification": "dunmari-frontier-065-verification.json"
+}

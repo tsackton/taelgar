@@ -1,0 +1,49 @@
+{
+  "firstPassThrough": "u0531",
+  "strictSecondPassThrough": "u0531",
+  "totalUnits": 531,
+  "protectedRoles": [
+    "Delwath",
+    "DM"
+  ],
+  "glossary": "No glossary path provided; no session glossary found. Targeted vault notes used only as secondary spelling confirmation.",
+  "state": "cleanup_complete_review_pending",
+  "strictSecondPassNotes": "Every unit re-read in contiguous blocks u0001-u0181, u0182-u0360, u0361-u0531; protected names, phonetic collisions, spelling drift and semantically implausible phrases checked. Final local amendments rechecked against source and adjacent context.",
+  "humanAcceptanceRecorded": false,
+  "usageStartRemainingPercent": 94,
+  "usageFinalRemainingPercent": 94,
+  "counts": {
+    "material": {
+      "lines": 27,
+      "spans": 28,
+      "markedLines": 27,
+      "markedSpans": 28,
+      "unmarkedLines": 0,
+      "unmarkedSpans": 0
+    },
+    "incidental": {
+      "lines": 26,
+      "spans": 27,
+      "markedLines": 1,
+      "markedSpans": 1,
+      "unmarkedLines": 25,
+      "unmarkedSpans": 26
+    }
+  },
+  "changedUnits": 231,
+  "validation": "passed",
+  "finalArtifacts": [
+    "dunmari-frontier-053-cleanup-assessment.json",
+    "dunmari-frontier-053-cleanup-report.json",
+    "dunmari-frontier-053-cleanup-summary.md",
+    "dunmari-frontier-053-human-transcript.md",
+    "dunmari-frontier-053-input-fingerprints.json",
+    "dunmari-frontier-053-morning-review-inventory.json",
+    "dunmari-frontier-053-morning-review-inventory.md",
+    "dunmari-frontier-053-progress.json",
+    "dunmari-frontier-053-session-corrections.yaml",
+    "dunmari-frontier-053-unit-audit.json",
+    "dunmari-frontier-053-validation.json",
+    "dunmari-frontier-053-working-edits.json"
+  ]
+}

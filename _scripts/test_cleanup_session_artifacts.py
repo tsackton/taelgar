@@ -159,7 +159,7 @@ class CleanupSessionArtifactsTest(unittest.TestCase):
                 })
                 self.assertFalse((cleaned / "cleanup-artifacts").exists())
 
-    def test_missing_or_empty_recap_always_refuses(self) -> None:
+    def test_missing_or_empty_recap_refuses_without_force(self) -> None:
         for content in (None, ""):
             with self.subTest(content=content):
                 bundle = self.bundle()
@@ -178,6 +178,50 @@ class CleanupSessionArtifactsTest(unittest.TestCase):
                 self.assertIn("SKIPPED", output)
                 self.assertIn("session-recap.md", output)
                 self.assertEqual(self.snapshot(), before)
+
+    def test_force_without_required_files_dry_runs_then_executes(self) -> None:
+        for content in (None, ""):
+            with self.subTest(content=content):
+                bundle = self.bundle()
+                cleaned = bundle / "cleaned"
+                for suffix in cleanup.REQUIRED_SUFFIXES:
+                    required = cleaned / f"{bundle.name}-{suffix}"
+                    if content is None:
+                        required.unlink()
+                    else:
+                        required.write_text(content)
+                disposable = self.write(
+                    cleaned / "cleanup-artifacts" / f"{bundle.name}-cleanup-report.json"
+                )
+                self.write(cleaned / "cleanup-artifacts" / "custom.md")
+                before = self.snapshot()
+                paths = set(self.root.rglob("*"))
+                result, output = self.run_cli("folder", "1", "--force")
+                self.assertEqual(result, 0, output)
+                self.assertIn("DRY RUN", output)
+                self.assertIn("Would delete 1 files", output)
+                self.assertEqual(self.snapshot(), before)
+                self.assertEqual(set(self.root.rglob("*")), paths)
+
+                result, output = self.run_cli("folder", "1", "--force", "--execute")
+                self.assertEqual(result, 0, output)
+                self.assertIn("Deleted 1 files", output)
+                self.assertEqual(self.snapshot(), {
+                    path: text for path, text in before.items()
+                    if path != str(disposable.relative_to(self.root))
+                })
+
+    def test_force_preserves_only_annotation_copy_without_retained_file(self) -> None:
+        bundle = self.bundle()
+        cleaned = bundle / "cleaned"
+        (cleaned / f"{bundle.name}-beat-facts.json").unlink()
+        copy = self.write(cleaned / "annotation-artifacts" / f"{bundle.name}-beat-facts.json")
+        disposable = self.write(cleaned / f"{bundle.name}-session-summary-context.json")
+        result, output = self.run_cli("folder", "1", "--force", "--execute", "--include-atypical")
+        self.assertEqual(result, 0, output)
+        self.assertTrue(copy.exists())
+        self.assertFalse(disposable.exists())
+        self.assertIn("no byte-identical retained", output)
 
     def test_missing_retained_file_skips_only_that_bundle(self) -> None:
         first = self.bundle("001")

@@ -1,0 +1,127 @@
+{
+  "status": "completed_with_pending_morning_review",
+  "preparedSourceSha256": "5e7ccf7d3b5d37e45dfb6a04a33f9b9bc3ccb075d48417d60192251ce6e794dd",
+  "transcriptSha256": "bcc76ae2c6dab61eaa40558a52c3deeaee4d78450343a6cfeece6856d1b4090e",
+  "modelRequested": "gpt-6.1-sol/high",
+  "passes": [
+    {
+      "pass": 1,
+      "start": 1,
+      "end": 420,
+      "status": "Every unit inspected individually"
+    },
+    {
+      "pass": 1,
+      "start": 421,
+      "end": 700,
+      "status": "Every unit inspected individually"
+    },
+    {
+      "pass": 1,
+      "start": 701,
+      "end": 980,
+      "status": "Every unit inspected individually"
+    },
+    {
+      "pass": 1,
+      "start": 981,
+      "end": 1260,
+      "status": "Every unit inspected individually"
+    },
+    {
+      "pass": 1,
+      "start": 1261,
+      "end": 1540,
+      "status": "Every unit inspected individually"
+    },
+    {
+      "pass": 1,
+      "start": 1541,
+      "end": 1820,
+      "status": "Every unit inspected individually"
+    },
+    {
+      "pass": 1,
+      "start": 1821,
+      "end": 2100,
+      "status": "Every unit inspected individually"
+    },
+    {
+      "pass": 1,
+      "start": 2101,
+      "end": 2390,
+      "status": "Every unit inspected individually"
+    },
+    {
+      "pass": 2,
+      "start": 1,
+      "end": 420,
+      "status": "Strict second pass: every unit rechecked for missed errors and overreach"
+    },
+    {
+      "pass": 2,
+      "start": 421,
+      "end": 840,
+      "status": "Strict second pass: every unit rechecked for missed errors and overreach"
+    },
+    {
+      "pass": 2,
+      "start": 841,
+      "end": 1260,
+      "status": "Strict second pass: every unit rechecked for missed errors and overreach"
+    },
+    {
+      "pass": 2,
+      "start": 1261,
+      "end": 1680,
+      "status": "Strict second pass: every unit rechecked for missed errors and overreach"
+    },
+    {
+      "pass": 2,
+      "start": 1681,
+      "end": 2100,
+      "status": "Strict second pass: every unit rechecked for missed errors and overreach"
+    },
+    {
+      "pass": 2,
+      "start": 2101,
+      "end": 2390,
+      "status": "Strict second pass: every unit rechecked for missed errors and overreach"
+    },
+    {
+      "pass": "final-mechanical",
+      "status": "Remove incidental-only markers, retain incidental speech; normalize lowercase first-person I after both complete inspections."
+    },
+    {
+      "pass": "final-diff-review",
+      "status": "Reviewed cleanup changes against source; narrowed ambiguous class/slot statement and baby-name recollection; local amendments verified."
+    }
+  ],
+  "counts": {
+    "transcriptUnits": 2390,
+    "changedUnits": 660,
+    "replacementPatterns": 644,
+    "materialLines": 61,
+    "materialSpans": 64,
+    "materialReviewGroups": 47,
+    "incidentalLines": 87,
+    "incidentalSpans": 87,
+    "linesInBothCategories": 1,
+    "humanAcceptedLines": 0
+  },
+  "protectedNames": [
+    "Kenzo",
+    "Izzarak",
+    "DM"
+  ],
+  "primaryEvidence": [
+    "dunmari-frontier-064-session.yaml",
+    "dunmari-frontier-064-source-prepared.md"
+  ],
+  "glossary": "_sessions/campaign-glossary.json",
+  "secondaryEvidence": [],
+  "archivalSourcesUsedAsCorrectionEvidence": false,
+  "rawSourcesHashedOnlyForPreservation": true,
+  "scope": "Session 064 cleaned output and cleanup-artifacts only. No recap, session pipeline, campaign note, shared index, commit, push, or new cleanup chat.",
+  "humanAcceptance": null
+}

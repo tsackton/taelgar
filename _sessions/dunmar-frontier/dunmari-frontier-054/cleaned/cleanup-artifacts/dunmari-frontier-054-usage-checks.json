@@ -1,0 +1,55 @@
+{
+  "initialCheckSucceeded": true,
+  "initialRemainingPercent": 93,
+  "intermediateRemainingPercent": 93,
+  "finalRemainingPercent": 93,
+  "thresholdRemainingPercent": 50,
+  "finalSupportedUsageResult": {
+    "rateLimits": {
+      "limitId": "codex",
+      "limitName": null,
+      "normalModelSlug": null,
+      "primary": {
+        "usedPercent": 7,
+        "windowDurationMins": 10080,
+        "resetsAt": 1793382208
+      },
+      "secondary": null,
+      "credits": {
+        "hasCredits": true,
+        "unlimited": false,
+        "balance": "62500.0000000000"
+      },
+      "individualLimit": null,
+      "spendControlReached": null,
+      "planType": "pro",
+      "rateLimitReachedType": null
+    },
+    "ordinaryUsageAllowed": null,
+    "rateLimitsByLimitId": {
+      "codex": {
+        "limitId": "codex",
+        "limitName": null,
+        "normalModelSlug": null,
+        "primary": {
+          "usedPercent": 7,
+          "windowDurationMins": 10080,
+          "resetsAt": 1793382208
+        },
+        "secondary": null,
+        "credits": {
+          "hasCredits": true,
+          "unlimited": false,
+          "balance": "62500.0000000000"
+        },
+        "individualLimit": null,
+        "spendControlReached": null,
+        "planType": "pro",
+        "rateLimitReachedType": null
+      }
+    },
+    "rateLimitResetCredits": null,
+    "accountId": null,
+    "rateLimitUpsell": null
+  }
+}

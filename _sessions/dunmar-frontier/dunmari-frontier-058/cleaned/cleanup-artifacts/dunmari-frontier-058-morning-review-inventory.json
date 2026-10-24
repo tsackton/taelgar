@@ -1,0 +1,3862 @@
+{
+  "session": 58,
+  "status": "cleanup complete; material uncertainty pending morning human review",
+  "humanAcceptanceRecorded": false,
+  "sourcePolicy": "Prepared-source quotations and context are exact strings from the prepared file. Cleaned wording and cleaned spans are separately labeled. Standard report review context is cleaned wording, not verbatim prepared-source text.",
+  "preparedSourceSha256": "27edc65ecec8674201890038e9f749317476d3b7a8c73a0be0d1445834b8d694",
+  "transcriptSha256": "512cf22bfd0290aaf4b54c23c7b2b23332bafb9d0497598983cec34d1dbfd7f3",
+  "sessionMetadataSha256": "7ebdcbe38c07f50c9c89d590d335a6c123dcc4c12c1d552a469a45599507d3f4",
+  "glossarySha256": "365adb0efd18f9bcb39edb6668a43672b54642fcec6f970cdaa7dd24748443be",
+  "counts": {
+    "units": 3074,
+    "changedUnits": 890,
+    "replacementPatterns": 760,
+    "markedMaterialLines": 111,
+    "markedMaterialSpans": 112,
+    "markedIncidentalLines": 60,
+    "markedIncidentalSpans": 60,
+    "unmarkedIncidentalLines": 31,
+    "unmarkedIncidentalWholeUnitSpans": 31,
+    "acceptedLines": 0
+  },
+  "issues": [
+    {
+      "uid": "u0002",
+      "importance": "material",
+      "reason": "Kingdom name is split across u0002–u0003; canonical form not yet secure.",
+      "marked": true,
+      "cleanedSpans": [
+        "arm"
+      ],
+      "preparedSourceQuotation": "[u0002 | 00:00:17.050-00:00:35.090 | DM] where four adventurers, summoned by the dwarfing gods, have traveled to find the dwarf warrior, pogrim firebrand, who long ago, one hundred, one hundred and fifty years ago, betrayed a bunch of Dorbin refugees from fleeing the falling kingdom of arm",
+      "preparedSourceContextBefore": [
+        "[u0001 | 00:00:03.580-00:00:16.119 | DM] Ok. So our adventure today starts in more Colin, the leak domain of the shadow fowl, a land of ash and mud,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0003 | 00:00:35.100-00:00:35.970 | Unknown] test,",
+        "[u0004 | 00:00:36.840-00:00:40.239 | DM] turning on them and slaughtering them in the midst of the battle."
+      ],
+      "cleanedWording": "[u0002 | 00:00:17.050-00:00:35.090 | DM] where four adventurers, summoned by the dwarven gods, have traveled to find the dwarf warrior, Hagrim Firebrand, who long ago, one hundred, one hundred and fifty years ago, betrayed a bunch of dwarven refugees fleeing the falling kingdom of [[arm]]"
+    },
+    {
+      "uid": "u0003",
+      "importance": "material",
+      "reason": "Continuation of uncertain kingdom name.",
+      "marked": true,
+      "cleanedSpans": [
+        "test"
+      ],
+      "preparedSourceQuotation": "[u0003 | 00:00:35.100-00:00:35.970 | Unknown] test,",
+      "preparedSourceContextBefore": [
+        "[u0001 | 00:00:03.580-00:00:16.119 | DM] Ok. So our adventure today starts in more Colin, the leak domain of the shadow fowl, a land of ash and mud,",
+        "[u0002 | 00:00:17.050-00:00:35.090 | DM] where four adventurers, summoned by the dwarfing gods, have traveled to find the dwarf warrior, pogrim firebrand, who long ago, one hundred, one hundred and fifty years ago, betrayed a bunch of Dorbin refugees from fleeing the falling kingdom of arm"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0004 | 00:00:36.840-00:00:40.239 | DM] turning on them and slaughtering them in the midst of the battle.",
+        "[u0005 | 00:00:41.460-00:00:52.029 | DM] But now you all have come to this dark realm to find him and confront him about his evil deeds."
+      ],
+      "cleanedWording": "[u0003 | 00:00:35.100-00:00:35.970 | Unknown] [[test]],"
+    },
+    {
+      "uid": "u0021",
+      "importance": "material",
+      "reason": "Verb describing the undead breaking through rubble is garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "punk; that"
+      ],
+      "preparedSourceQuotation": "[u0021 | 00:02:32.510-00:02:37.240 | DM] rubble, that the Undead were punk; that for the past few days,",
+      "preparedSourceContextBefore": [
+        "[u0019 | 00:02:22.020-00:02:23.390 | DM] Ah, you!",
+        "[u0020 | 00:02:23.610-00:02:31.950 | DM] I found the young dwarf talk who had been hiding behind in this rock cave behind the"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0022 | 00:02:38.460-00:02:47.270 | DM] and after speaking with him, he agreed to take you to the ghost of Nora sparks over one of the few in this place you might know where hagroom is",
+        "[u0023 | 00:02:49.560-00:02:50.960 | DM] now"
+      ],
+      "cleanedWording": "[u0021 | 00:02:32.510-00:02:37.240 | DM] rubble, that the Undead were [[punk; that]] for the past few days,"
+    },
+    {
+      "uid": "u0070",
+      "importance": "material",
+      "reason": "Physical description of Tak is garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "a man's lot, dusty"
+      ],
+      "preparedSourceQuotation": "[u0070 | 00:06:55.210-00:07:04.560 | DM] it looks like a man's lot, dusty without much of a beard wearing patched and mended clothes that have been",
+      "preparedSourceContextBefore": [
+        "[u0068 | 00:06:45.240-00:06:51.980 | DM] So, as you all walk following talk, who is a youngish dwarf, maybe forty or so,",
+        "[u0069 | 00:06:53.800-00:06:55.110 | DM] for the"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0071 | 00:07:04.930-00:07:09.689 | DM] that have been sewed and mended many, many times over.",
+        "[u0072 | 00:07:09.890-00:07:13.720 | DM] He moves with a sort of nervous energy, seeming"
+      ],
+      "cleanedWording": "[u0070 | 00:06:55.210-00:07:04.560 | DM] it looks like [[a man's lot, dusty]] without much of a beard wearing patched and mended clothes that have been"
+    },
+    {
+      "uid": "u0092",
+      "importance": "material",
+      "reason": "Planning question partly garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "What are we planning on to make"
+      ],
+      "preparedSourceQuotation": "[u0092 | 00:09:10.070-00:09:11.690 | Thror] What are we planning on to make?",
+      "preparedSourceContextBefore": [
+        "[u0090 | 00:09:06.090-00:09:07.150 | Unknown] here.",
+        "[u0091 | 00:09:08.360-00:09:10.060 | Thror] Yeah, it's too funny."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0093 | 00:09:12.170-00:09:14.519 | Riswynn] I think we just want to ask her.",
+        "[u0094 | 00:09:14.740-00:09:16.950 | Riswynn] It's for information about"
+      ],
+      "cleanedWording": "[u0092 | 00:09:10.070-00:09:11.690 | Thror] [[What are we planning on to make]]?"
+    },
+    {
+      "uid": "u0096",
+      "importance": "material",
+      "reason": "Possibly deliberately misremembered name; preserve for review.",
+      "marked": true,
+      "cleanedSpans": [
+        "hold beard"
+      ],
+      "preparedSourceQuotation": "[u0096 | 00:09:21.380-00:09:23.649 | Riswynn] hold beard, or whatever that goes. Name is",
+      "preparedSourceContextBefore": [
+        "[u0094 | 00:09:14.740-00:09:16.950 | Riswynn] It's for information about",
+        "[u0095 | 00:09:17.110-00:09:20.700 | Riswynn] her history with this place, and"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0097 | 00:09:24.450-00:09:25.800 | Rothfis] agriculture.",
+        "[u0098 | 00:09:34.290-00:09:40.349 | Thror] Well, then, the I think probably the three of us subtly glance over at Roosevelt and give up"
+      ],
+      "cleanedWording": "[u0096 | 00:09:21.380-00:09:23.649 | Riswynn] [[hold beard]], or whatever that ghost’s name is"
+    },
+    {
+      "uid": "u0097",
+      "importance": "material",
+      "reason": "Possible supplied name is unrecoverable.",
+      "marked": true,
+      "cleanedSpans": [
+        "agriculture"
+      ],
+      "preparedSourceQuotation": "[u0097 | 00:09:24.450-00:09:25.800 | Rothfis] agriculture.",
+      "preparedSourceContextBefore": [
+        "[u0095 | 00:09:17.110-00:09:20.700 | Riswynn] her history with this place, and",
+        "[u0096 | 00:09:21.380-00:09:23.649 | Riswynn] hold beard, or whatever that goes. Name is"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0098 | 00:09:34.290-00:09:40.349 | Thror] Well, then, the I think probably the three of us subtly glance over at Roosevelt and give up",
+        "[u0099 | 00:09:40.360-00:09:42.349 | Unknown] bye,"
+      ],
+      "cleanedWording": "[u0097 | 00:09:24.450-00:09:25.800 | Rothfis] [[agriculture]]."
+    },
+    {
+      "uid": "u0098",
+      "importance": "material",
+      "reason": "Gesture inviting Riswynn to speak unclear at end.",
+      "marked": true,
+      "cleanedSpans": [
+        "and give up"
+      ],
+      "preparedSourceQuotation": "[u0098 | 00:09:34.290-00:09:40.349 | Thror] Well, then, the I think probably the three of us subtly glance over at Roosevelt and give up",
+      "preparedSourceContextBefore": [
+        "[u0096 | 00:09:21.380-00:09:23.649 | Riswynn] hold beard, or whatever that goes. Name is",
+        "[u0097 | 00:09:24.450-00:09:25.800 | Rothfis] agriculture."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0099 | 00:09:40.360-00:09:42.349 | Unknown] bye,",
+        "[u0100 | 00:09:42.760-00:09:45.129 | Riswynn] I will Yes, go ask her"
+      ],
+      "cleanedWording": "[u0098 | 00:09:34.290-00:09:40.349 | Thror] Well, then, the I think probably the three of us subtly glance over at Riswynn [[and give up]]"
+    },
+    {
+      "uid": "u0099",
+      "importance": "incidental",
+      "reason": "Short overlapping utterance after invitation to speak; no session meaning.",
+      "marked": false,
+      "cleanedSpans": [
+        "bye,"
+      ],
+      "preparedSourceQuotation": "[u0099 | 00:09:40.360-00:09:42.349 | Unknown] bye,",
+      "preparedSourceContextBefore": [
+        "[u0097 | 00:09:24.450-00:09:25.800 | Rothfis] agriculture.",
+        "[u0098 | 00:09:34.290-00:09:40.349 | Thror] Well, then, the I think probably the three of us subtly glance over at Roosevelt and give up"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0100 | 00:09:42.760-00:09:45.129 | Riswynn] I will Yes, go ask her",
+        "[u0101 | 00:09:46.690-00:09:47.700 | Unknown] you,"
+      ],
+      "cleanedWording": "[u0099 | 00:09:40.360-00:09:42.349 | Unknown] bye,"
+    },
+    {
+      "uid": "u0106",
+      "importance": "material",
+      "reason": "Greeting after Nora’s corrected name is unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "by meeting"
+      ],
+      "preparedSourceQuotation": "[u0106 | 00:10:05.180-00:10:07.380 | Riswynn] or a silver start by meeting.",
+      "preparedSourceContextBefore": [
+        "[u0104 | 00:09:57.800-00:10:00.789 | Riswynn] insert name here. I'm really doing badly with names right now.",
+        "[u0105 | 00:10:00.800-00:10:04.449 | DM] Nora's, Nora Silver Spark"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0107 | 00:10:07.610-00:10:11.689 | Riswynn] We are honored to meet you.",
+        "[u0108 | 00:10:12.790-00:10:16.709 | Riswynn] We need to know more about this place where we find ourselves"
+      ],
+      "cleanedWording": "[u0106 | 00:10:05.180-00:10:07.380 | Riswynn] Nora Silverspark, [[by meeting]]."
+    },
+    {
+      "uid": "u0111",
+      "importance": "material",
+      "reason": "Clause about their mission is unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "to show our mission"
+      ],
+      "preparedSourceQuotation": "[u0111 | 00:10:22.430-00:10:24.200 | Riswynn] to show our mission,",
+      "preparedSourceContextBefore": [
+        "[u0109 | 00:10:16.860-00:10:19.090 | Riswynn] and the history of your party.",
+        "[u0110 | 00:10:21.170-00:10:22.390 | Riswynn] I can"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0112 | 00:10:26.960-00:10:30.200 | Riswynn] and so we ask you if you will tell us the tale of",
+        "[u0113 | 00:10:30.320-00:10:32.830 | Riswynn] how you came to this place,"
+      ],
+      "cleanedWording": "[u0111 | 00:10:22.430-00:10:24.200 | Riswynn] [[to show our mission]],"
+    },
+    {
+      "uid": "u0119",
+      "importance": "material",
+      "reason": "Abandoned/restarted request concerning Nora’s travels is unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "We see once your travels, of course"
+      ],
+      "preparedSourceQuotation": "[u0119 | 00:11:08.680-00:11:11.220 | Riswynn] We see once your travels, of course",
+      "preparedSourceContextBefore": [
+        "[u0117 | 00:10:54.770-00:10:58.659 | DM] She looks over you sort of coldly and sense.",
+        "[u0118 | 00:11:00.140-00:11:02.249 | DM] And What is your mission?"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0120 | 00:11:12.410-00:11:14.979 | Riswynn] we seek one who traveled with you",
+        "[u0121 | 00:11:16.120-00:11:18.089 | Riswynn] when you first came here."
+      ],
+      "cleanedWording": "[u0119 | 00:11:08.680-00:11:11.220 | Riswynn] [[We see once your travels, of course]]"
+    },
+    {
+      "uid": "u0123",
+      "importance": "material",
+      "reason": "Ghost’s response fragment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "two"
+      ],
+      "preparedSourceQuotation": "[u0123 | 00:11:28.600-00:11:29.780 | DM] two.",
+      "preparedSourceContextBefore": [
+        "[u0121 | 00:11:16.120-00:11:18.089 | Riswynn] when you first came here.",
+        "[u0122 | 00:11:23.640-00:11:25.060 | DM] She looks"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0124 | 00:11:37.720-00:11:39.180 | Riswynn] Help me out",
+        "[u0125 | 00:11:39.810-00:11:42.340 | Riswynn] that one man a man."
+      ],
+      "cleanedWording": "[u0123 | 00:11:28.600-00:11:29.780 | DM] [[two]]."
+    },
+    {
+      "uid": "u0125",
+      "importance": "material",
+      "reason": "Name-search fragment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "that one man a man"
+      ],
+      "preparedSourceQuotation": "[u0125 | 00:11:39.810-00:11:42.340 | Riswynn] that one man a man.",
+      "preparedSourceContextBefore": [
+        "[u0123 | 00:11:28.600-00:11:29.780 | DM] two.",
+        "[u0124 | 00:11:37.720-00:11:39.180 | Riswynn] Help me out"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0126 | 00:11:44.000-00:11:45.639 | Rothfis] It's a",
+        "[u0127 | 00:11:45.650-00:11:46.630 | Unknown] hey?"
+      ],
+      "cleanedWording": "[u0125 | 00:11:39.810-00:11:42.340 | Riswynn] [[that one man a man]]."
+    },
+    {
+      "uid": "u0129",
+      "importance": "material",
+      "reason": "Attempted explanation interrupted by ghost; fragment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "What we heard in this is, you are all"
+      ],
+      "preparedSourceQuotation": "[u0129 | 00:11:54.890-00:11:57.339 | Rothfis] What we heard in this is, you are all,",
+      "preparedSourceContextBefore": [
+        "[u0127 | 00:11:45.650-00:11:46.630 | Unknown] hey?",
+        "[u0128 | 00:11:46.640-00:11:48.890 | Rothfis] Hi! We're looking for. Hi, Graham!"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0130 | 00:11:58.990-00:12:02.019 | DM] or concern of yours is",
+        "[u0131 | 00:12:02.360-00:12:04.030 | DM] Hagrim and"
+      ],
+      "cleanedWording": "[u0129 | 00:11:54.890-00:11:57.339 | Rothfis] [[What we heard in this is, you are all]],"
+    },
+    {
+      "uid": "u0139",
+      "importance": "material",
+      "reason": "Identity or term for those compelling Rothfis to find Hagrim is unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "barriers. I’ll"
+      ],
+      "preparedSourceQuotation": "[u0139 | 00:12:40.280-00:12:43.719 | Rothfis] the barriers. I'll have me here to find Agram,",
+      "preparedSourceContextBefore": [
+        "[u0137 | 00:12:28.640-00:12:29.890 | DM] It's it",
+        "[u0138 | 00:12:37.050-00:12:40.139 | Rothfis] honestly. I couldn't give two cusses about him, but"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0140 | 00:12:44.660-00:12:46.810 | Rothfis] so I must.",
+        "[u0141 | 00:12:47.340-00:12:50.659 | Rothfis] My understanding that you are the best we can do."
+      ],
+      "cleanedWording": "[u0139 | 00:12:40.280-00:12:43.719 | Rothfis] the [[barriers. I’ll]] have me here to find Hagrim,"
+    },
+    {
+      "uid": "u0145",
+      "importance": "incidental",
+      "reason": "Unclear overlapping fragment before clear “sent by the gods” statement.",
+      "marked": false,
+      "cleanedSpans": [
+        "a lot two."
+      ],
+      "preparedSourceQuotation": "[u0145 | 00:13:00.380-00:13:01.440 | Unknown] a lot two.",
+      "preparedSourceContextBefore": [
+        "[u0143 | 00:12:56.820-00:12:58.370 | Riswynn] and resolution.",
+        "[u0144 | 00:12:59.120-00:13:00.370 | DM] You were"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0146 | 00:13:03.170-00:13:05.420 | DM] You are sent by the gods,",
+        "[u0147 | 00:13:07.490-00:13:08.570 | Rothfis] I"
+      ],
+      "cleanedWording": "[u0145 | 00:13:00.380-00:13:01.440 | Unknown] a lot two."
+    },
+    {
+      "uid": "u0163",
+      "importance": "material",
+      "reason": "Request preceding explanation of what the dwarf did is garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "a to tell"
+      ],
+      "preparedSourceQuotation": "[u0163 | 00:14:34.860-00:14:36.810 | Riswynn] a to tell.",
+      "preparedSourceContextBefore": [
+        "[u0161 | 00:14:31.950-00:14:33.480 | Riswynn] you",
+        "[u0162 | 00:14:33.740-00:14:34.840 | Riswynn] as"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0164 | 00:14:37.060-00:14:38.100 | Riswynn] Oh,",
+        "[u0165 | 00:14:38.570-00:14:41.820 | Riswynn] what this man has done, what this dwarf has done,"
+      ],
+      "cleanedWording": "[u0163 | 00:14:34.860-00:14:36.810 | Riswynn] [[a to tell]]."
+    },
+    {
+      "uid": "u0198",
+      "importance": "material",
+      "reason": "Statement about Tak’s birth and isolation from the gods is fragmented across u0198–u0201.",
+      "marked": true,
+      "cleanedSpans": [
+        "There was born here. I've never,"
+      ],
+      "preparedSourceQuotation": "[u0198 | 00:18:17.150-00:18:19.629 | DM] There was born here. I've never,",
+      "preparedSourceContextBefore": [
+        "[u0196 | 00:18:04.740-00:18:07.330 | DM] Do not know. It's been so long.",
+        "[u0197 | 00:18:11.550-00:18:14.639 | DM] She turns, and she sort of, and she looks at talk."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0199 | 00:18:22.030-00:18:23.630 | DM] or even",
+        "[u0200 | 00:18:24.040-00:18:27.749 | DM] the blessing of the gods of the"
+      ],
+      "cleanedWording": "[u0198 | 00:18:17.150-00:18:19.629 | DM] [[There was born here. I've never,]]"
+    },
+    {
+      "uid": "u0199",
+      "importance": "material",
+      "reason": "Continuation of fragmented statement about isolation from the gods.",
+      "marked": true,
+      "cleanedSpans": [
+        "or even"
+      ],
+      "preparedSourceQuotation": "[u0199 | 00:18:22.030-00:18:23.630 | DM] or even",
+      "preparedSourceContextBefore": [
+        "[u0197 | 00:18:11.550-00:18:14.639 | DM] She turns, and she sort of, and she looks at talk.",
+        "[u0198 | 00:18:17.150-00:18:19.629 | DM] There was born here. I've never,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0200 | 00:18:24.040-00:18:27.749 | DM] the blessing of the gods of the",
+        "[u0201 | 00:18:29.390-00:18:31.120 | DM] their names."
+      ],
+      "cleanedWording": "[u0199 | 00:18:22.030-00:18:23.630 | DM] [[or even]]"
+    },
+    {
+      "uid": "u0200",
+      "importance": "material",
+      "reason": "Continuation of fragmented statement about isolation from the gods.",
+      "marked": true,
+      "cleanedSpans": [
+        "the blessing of the gods of the"
+      ],
+      "preparedSourceQuotation": "[u0200 | 00:18:24.040-00:18:27.749 | DM] the blessing of the gods of the",
+      "preparedSourceContextBefore": [
+        "[u0198 | 00:18:17.150-00:18:19.629 | DM] There was born here. I've never,",
+        "[u0199 | 00:18:22.030-00:18:23.630 | DM] or even"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0201 | 00:18:29.390-00:18:31.120 | DM] their names.",
+        "[u0202 | 00:18:34.530-00:18:36.010 | DM] We have been"
+      ],
+      "cleanedWording": "[u0200 | 00:18:24.040-00:18:27.749 | DM] [[the blessing of the gods of the]]"
+    },
+    {
+      "uid": "u0211",
+      "importance": "incidental",
+      "reason": "Abandoned preamble before ale/chalice comparison.",
+      "marked": false,
+      "cleanedSpans": [
+        "Why, don't I"
+      ],
+      "preparedSourceQuotation": "[u0211 | 00:19:10.240-00:19:11.530 | Rothfis] Why, don't I",
+      "preparedSourceContextBefore": [
+        "[u0209 | 00:18:59.780-00:19:01.840 | DM] Why should I trust you?",
+        "[u0210 | 00:19:06.520-00:19:10.199 | Rothfis] Well, did any of them have a cup like that?"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0212 | 00:19:13.580-00:19:17.710 | Rothfis] you're not interested in ale. Maybe you're interested in whatever she's offering.",
+        "[u0213 | 00:19:19.970-00:19:22.449 | DM] She looks, and she"
+      ],
+      "cleanedWording": "[u0211 | 00:19:10.240-00:19:11.530 | Rothfis] Why, don't I"
+    },
+    {
+      "uid": "u0237",
+      "importance": "incidental",
+      "reason": "Repetition before historical account; no independent meaning.",
+      "marked": false,
+      "cleanedSpans": [
+        "it's, it's it's"
+      ],
+      "preparedSourceQuotation": "[u0237 | 00:21:07.910-00:21:09.620 | Unknown] it's, it's it's",
+      "preparedSourceContextBefore": [
+        "[u0235 | 00:21:01.680-00:21:03.229 | DM] If you bear the",
+        "[u0236 | 00:21:05.180-00:21:07.640 | DM] artifacts of the gods,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0238 | 00:21:10.710-00:21:12.080 | DM] we left.",
+        "[u0239 | 00:21:14.400-00:21:19.849 | DM] I don't know how many years ago. Now time passes strangely in this place,"
+      ],
+      "cleanedWording": "[u0237 | 00:21:07.910-00:21:09.620 | Unknown] it's, it's it's"
+    },
+    {
+      "uid": "u0243",
+      "importance": "material",
+      "reason": "Possible subject/name before account of a veteran is unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "i’m"
+      ],
+      "preparedSourceQuotation": "[u0243 | 00:21:35.400-00:21:36.960 | DM] i'm",
+      "preparedSourceContextBefore": [
+        "[u0241 | 00:21:26.980-00:21:28.600 | DM] looking for",
+        "[u0242 | 00:21:29.700-00:21:33.089 | DM] refugees for those who had survived the great war,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0244 | 00:21:37.260-00:21:39.379 | DM] in those days was a",
+        "[u0245 | 00:21:39.960-00:21:42.189 | DM] seasoned veteran"
+      ],
+      "cleanedWording": "[u0243 | 00:21:35.400-00:21:36.960 | DM] [[i’m]]"
+    },
+    {
+      "uid": "u0250",
+      "importance": "material",
+      "reason": "Subject and connection to veteran’s past unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "happened to him there"
+      ],
+      "preparedSourceQuotation": "[u0250 | 00:21:53.210-00:21:55.669 | Unknown] happened to him there, because",
+      "preparedSourceContextBefore": [
+        "[u0248 | 00:21:46.350-00:21:48.390 | DM] apes underneath",
+        "[u0249 | 00:21:49.300-00:21:50.970 | DM] the mountains"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0251 | 00:21:57.160-00:21:59.220 | DM] well, he didn't want to.",
+        "[u0252 | 00:22:00.260-00:22:06.440 | DM] He didn't want to go. He was reluctant to join our expedition."
+      ],
+      "cleanedWording": "[u0250 | 00:21:53.210-00:21:55.669 | Unknown] [[happened to him there]], because"
+    },
+    {
+      "uid": "u0257",
+      "importance": "material",
+      "reason": "Phrase about refugees and flight is unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "We did, but not to feed It"
+      ],
+      "preparedSourceQuotation": "[u0257 | 00:22:23.120-00:22:25.759 | DM] We did, but not to feed It",
+      "preparedSourceContextBefore": [
+        "[u0255 | 00:22:17.360-00:22:19.150 | Unknown] many refugees",
+        "[u0256 | 00:22:20.170-00:22:22.759 | DM] turn south."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0258 | 00:22:25.830-00:22:27.409 | DM] fled with maybe",
+        "[u0259 | 00:22:27.520-00:22:30.860 | DM] five hundred dwarfs, hoping to lead them to safety."
+      ],
+      "cleanedWording": "[u0257 | 00:22:23.120-00:22:25.759 | DM] [[We did, but not to feed It]]"
+    },
+    {
+      "uid": "u0275",
+      "importance": "incidental",
+      "reason": "Overlapping fragment before battle account.",
+      "marked": false,
+      "cleanedSpans": [
+        "It's a"
+      ],
+      "preparedSourceQuotation": "[u0275 | 00:23:41.080-00:23:41.790 | Unknown] It's a",
+      "preparedSourceContextBefore": [
+        "[u0273 | 00:23:34.210-00:23:36.120 | DM] I was commanding them",
+        "[u0274 | 00:23:37.410-00:23:40.260 | DM] the flank of the war bands."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0276 | 00:23:41.800-00:23:44.839 | DM] holding ground against the Trolls. Well,",
+        "[u0277 | 00:23:45.110-00:23:46.749 | DM] her grammar and"
+      ],
+      "cleanedWording": "[u0275 | 00:23:41.080-00:23:41.790 | Unknown] It's a"
+    },
+    {
+      "uid": "u0280",
+      "importance": "incidental",
+      "reason": "Isolated fragment before Nora’s first-battle statement.",
+      "marked": false,
+      "cleanedSpans": [
+        "You."
+      ],
+      "preparedSourceQuotation": "[u0280 | 00:23:58.430-00:23:59.710 | DM] You.",
+      "preparedSourceContextBefore": [
+        "[u0278 | 00:23:47.480-00:23:52.920 | DM] his elite squad of warriors attempted to take down",
+        "[u0279 | 00:23:53.290-00:23:55.200 | DM] the giant himself."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0281 | 00:24:02.440-00:24:05.299 | DM] I was young. It was my first battle.",
+        "[u0282 | 00:24:09.860-00:24:11.929 | DM] I ordered a retreat"
+      ],
+      "cleanedWording": "[u0280 | 00:23:58.430-00:23:59.710 | DM] You."
+    },
+    {
+      "uid": "u0284",
+      "importance": "material",
+      "reason": "Retreat/slaughter account fragment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "A man"
+      ],
+      "preparedSourceQuotation": "[u0284 | 00:24:15.590-00:24:16.920 | DM] A man!",
+      "preparedSourceContextBefore": [
+        "[u0282 | 00:24:09.860-00:24:11.929 | DM] I ordered a retreat",
+        "[u0283 | 00:24:12.210-00:24:14.469 | DM] which turned into a route."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0285 | 00:24:18.850-00:24:20.240 | DM] My! Fled.",
+        "[u0286 | 00:24:25.100-00:24:27.950 | DM] Something in Hagrim snapped. I think he thought"
+      ],
+      "cleanedWording": "[u0284 | 00:24:15.590-00:24:16.920 | DM] [[A man]]!"
+    },
+    {
+      "uid": "u0285",
+      "importance": "material",
+      "reason": "Retreat/slaughter account fragment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "My! Fled"
+      ],
+      "preparedSourceQuotation": "[u0285 | 00:24:18.850-00:24:20.240 | DM] My! Fled.",
+      "preparedSourceContextBefore": [
+        "[u0283 | 00:24:12.210-00:24:14.469 | DM] which turned into a route.",
+        "[u0284 | 00:24:15.590-00:24:16.920 | DM] A man!"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0286 | 00:24:25.100-00:24:27.950 | DM] Something in Hagrim snapped. I think he thought",
+        "[u0287 | 00:24:28.180-00:24:30.090 | DM] I had turned on"
+      ],
+      "cleanedWording": "[u0285 | 00:24:18.850-00:24:20.240 | DM] [[My! Fled]]."
+    },
+    {
+      "uid": "u0319",
+      "importance": "incidental",
+      "reason": "Restart before clear “Some say” at u0320.",
+      "marked": true,
+      "cleanedSpans": [
+        "Summer"
+      ],
+      "preparedSourceQuotation": "[u0319 | 00:27:02.590-00:27:03.990 | DM] Summer.",
+      "preparedSourceContextBefore": [
+        "[u0317 | 00:26:44.520-00:26:46.609 | DM] at the feet of that statue.",
+        "[u0318 | 00:26:56.020-00:26:58.669 | DM] I don't know if he even remembers anymore,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0320 | 00:27:04.000-00:27:05.570 | DM] Some say that the",
+        "[u0321 | 00:27:05.660-00:27:11.850 | DM] ghosts that haunt the ruined statue are pogrom's. Memory is made spirit."
+      ],
+      "cleanedWording": "[u0319 | 00:27:02.590-00:27:03.990 | DM] [[Summer]]."
+    },
+    {
+      "uid": "u0322",
+      "importance": "incidental",
+      "reason": "Isolated overlap before concluding account.",
+      "marked": false,
+      "cleanedSpans": [
+        "You,"
+      ],
+      "preparedSourceQuotation": "[u0322 | 00:27:18.720-00:27:21.910 | Unknown] You,",
+      "preparedSourceContextBefore": [
+        "[u0320 | 00:27:04.000-00:27:05.570 | DM] Some say that the",
+        "[u0321 | 00:27:05.660-00:27:11.850 | DM] ghosts that haunt the ruined statue are pogrom's. Memory is made spirit."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0323 | 00:27:22.680-00:27:26.600 | DM] you know not what you or the gods will do with this information.",
+        "[u0324 | 00:27:30.600-00:27:32.589 | DM] That is what I can tell you."
+      ],
+      "cleanedWording": "[u0322 | 00:27:18.720-00:27:21.910 | Unknown] You,"
+    },
+    {
+      "uid": "u0386",
+      "importance": "material",
+      "reason": "Prior stories recalled from village are garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "neighborhoods fathers tales"
+      ],
+      "preparedSourceQuotation": "[u0386 | 00:33:12.300-00:33:15.030 | Riswynn] neighborhoods fathers tales,",
+      "preparedSourceContextBefore": [
+        "[u0384 | 00:33:05.960-00:33:09.930 | Riswynn] but he was telling stories of the places you were all from.",
+        "[u0385 | 00:33:10.320-00:33:12.049 | Riswynn] If I recall your"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0387 | 00:33:33.360-00:33:35.989 | Thror] how would you find a person in the wastes?",
+        "[u0388 | 00:33:41.990-00:33:43.730 | DM] Well, um!"
+      ],
+      "cleanedWording": "[u0386 | 00:33:12.300-00:33:15.030 | Riswynn] [[neighborhoods fathers tales]],"
+    },
+    {
+      "uid": "u0414",
+      "importance": "material",
+      "reason": "Statement concerning death and escape is garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "Does he die"
+      ],
+      "preparedSourceQuotation": "[u0414 | 00:35:55.170-00:35:56.870 | DM] Does he die.",
+      "preparedSourceContextBefore": [
+        "[u0412 | 00:35:39.060-00:35:41.410 | Unknown] And you don't hear the gods here, then",
+        "[u0413 | 00:35:44.500-00:35:45.640 | DM] No!"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0415 | 00:35:57.350-00:35:58.509 | DM] Stay!",
+        "[u0416 | 00:36:00.510-00:36:02.729 | DM] Even death is not an escape"
+      ],
+      "cleanedWording": "[u0414 | 00:35:55.170-00:35:56.870 | DM] [[Does he die]]."
+    },
+    {
+      "uid": "u0415",
+      "importance": "material",
+      "reason": "Continuation of statement concerning death.",
+      "marked": true,
+      "cleanedSpans": [
+        "Stay"
+      ],
+      "preparedSourceQuotation": "[u0415 | 00:35:57.350-00:35:58.509 | DM] Stay!",
+      "preparedSourceContextBefore": [
+        "[u0413 | 00:35:44.500-00:35:45.640 | DM] No!",
+        "[u0414 | 00:35:55.170-00:35:56.870 | DM] Does he die."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0416 | 00:36:00.510-00:36:02.729 | DM] Even death is not an escape",
+        "[u0417 | 00:36:11.970-00:36:15.740 | Rothfis] getting your spirit eaten by a troll and escape."
+      ],
+      "cleanedWording": "[u0415 | 00:35:57.350-00:35:58.509 | DM] [[Stay]]!"
+    },
+    {
+      "uid": "u0429",
+      "importance": "incidental",
+      "reason": "Isolated overlap in human discussion.",
+      "marked": false,
+      "cleanedSpans": [
+        "to the"
+      ],
+      "preparedSourceQuotation": "[u0429 | 00:37:15.450-00:37:16.970 | Merash] to the",
+      "preparedSourceContextBefore": [
+        "[u0427 | 00:37:10.710-00:37:12.579 | Riswynn] It's not theirs.",
+        "[u0428 | 00:37:13.090-00:37:15.059 | Riswynn] No pity from me"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0430 | 00:37:20.580-00:37:23.269 | Rothfis] that challenge our ticket home as well,",
+        "[u0431 | 00:37:25.220-00:37:28.170 | Riswynn] I think succeeding in our"
+      ],
+      "cleanedWording": "[u0429 | 00:37:15.450-00:37:16.970 | Merash] to the"
+    },
+    {
+      "uid": "u0457",
+      "importance": "incidental",
+      "reason": "Overlapping table aside about avoiding humans; no recoverable substantive detail.",
+      "marked": true,
+      "cleanedSpans": [
+        "the Iraq"
+      ],
+      "preparedSourceQuotation": "[u0457 | 00:40:11.970-00:40:13.989 | Rothfis] the because when I was in the Iraq,",
+      "preparedSourceContextBefore": [
+        "[u0455 | 00:40:00.980-00:40:03.690 | Thror] I'd rather",
+        "[u0456 | 00:40:03.700-00:40:08.999 | Thror] I agree, because if the humans went looking for the chalice and we have the chalice,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0458 | 00:40:14.000-00:40:18.350 | Thror] Yeah, if we don't want to give it up. It might be a fight.",
+        "[u0459 | 00:40:18.720-00:40:22.009 | Rothfis] I don't know if they've got much to,"
+      ],
+      "cleanedWording": "[u0457 | 00:40:11.970-00:40:13.989 | Rothfis] the because when I was in [[the Iraq]],"
+    },
+    {
+      "uid": "u0476",
+      "importance": "material",
+      "reason": "Route explanation ending unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "get one"
+      ],
+      "preparedSourceQuotation": "[u0476 | 00:42:09.140-00:42:13.669 | DM] so you so it's not. You don't need a sneak. You can just walk in a circle and get one.",
+      "preparedSourceContextBefore": [
+        "[u0474 | 00:41:49.210-00:41:57.159 | DM] The statue itself is only like it's not. I mean. It's big, but it's like sixty feet tall or something like that. It's not",
+        "[u0475 | 00:41:57.370-00:41:59.740 | DM] miles and miles across,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0477 | 00:42:15.510-00:42:21.969 | Rothfis] Is there something that we think the mad priest has we need before we go to the statue.",
+        "[u0478 | 00:42:27.410-00:42:36.539 | Thror] What did the ghost Just tell it? I feel awkward saying this in front of the goes. What are we? Just what's the relationship between the two of them again. The mad priest and Marcon"
+      ],
+      "cleanedWording": "[u0476 | 00:42:09.140-00:42:13.669 | DM] so you so it's not. You don't need a sneak. You can just walk in a circle and [[get one]]."
+    },
+    {
+      "uid": "u0507",
+      "importance": "material",
+      "reason": "Silver return-item activation reference garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "I'm just been in a little silver thing"
+      ],
+      "preparedSourceQuotation": "[u0507 | 00:45:27.390-00:45:33.029 | Rothfis] I mean, i'm going home either way. I'm just been in a little silver thing.",
+      "preparedSourceContextBefore": [
+        "[u0505 | 00:45:04.860-00:45:10.100 | Rothfis] You'd rather maybe bump into a spirits eating troll along the way.",
+        "[u0506 | 00:45:13.480-00:45:22.769 | Riswynn] I'm more worried about facing Hager, i'm unprepared, and not being able to complete our mission than having to fight a troll,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0508 | 00:45:37.650-00:45:43.340 | Rothfis] I'm not gonna go on my own. So if if it's to the waste, i'll go to the wastes.",
+        "[u0509 | 00:45:46.900-00:45:56.490 | Rothfis] If I don't do this right. The iron corns are going to continue to pester me for the rest of time, and i'd rather that this was a proper severed."
+      ],
+      "cleanedWording": "[u0507 | 00:45:27.390-00:45:33.029 | Rothfis] I mean, i'm going home either way. [[I'm just been in a little silver thing]]."
+    },
+    {
+      "uid": "u0517",
+      "importance": "material",
+      "reason": "Intended route into wastes fragment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "into the waste"
+      ],
+      "preparedSourceQuotation": "[u0517 | 00:46:52.060-00:46:54.600 | Merash] into the waste a bit.",
+      "preparedSourceContextBefore": [
+        "[u0515 | 00:46:40.870-00:46:43.860 | DM] You're currently somewhat north of the statue.",
+        "[u0516 | 00:46:45.090-00:46:51.469 | Merash] Sounds like we're going to the statue, but in a roundabout way we kind of"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0518 | 00:46:59.490-00:47:00.750 | DM] Okay,",
+        "[u0519 | 00:47:07.670-00:47:10.579 | DM] uh. So are you heading"
+      ],
+      "cleanedWording": "[u0517 | 00:46:52.060-00:46:54.600 | Merash] [[into the waste]] a bit."
+    },
+    {
+      "uid": "u0550",
+      "importance": "material",
+      "reason": "Proposed route through wastes garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "their creature is the wastelands"
+      ],
+      "preparedSourceQuotation": "[u0550 | 00:49:42.860-00:49:47.709 | Merash] their creature is the wastelands back to the shadow or to the statue,",
+      "preparedSourceContextBefore": [
+        "[u0548 | 00:49:27.040-00:49:29.100 | DM] He's not going to insist on it.",
+        "[u0549 | 00:49:35.470-00:49:42.260 | Merash] I think if we go back to Bleak and then cross, then we at least get like more of a"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0551 | 00:49:48.410-00:49:50.950 | Merash] and then we can also make sure the tax on. Okay.",
+        "[u0552 | 00:49:57.400-00:50:01.299 | Thror] I think we should go looking for the priest first, because,"
+      ],
+      "cleanedWording": "[u0550 | 00:49:42.860-00:49:47.709 | Merash] [[their creature is the wastelands]] back to the shadow or to the statue,"
+    },
+    {
+      "uid": "u0571",
+      "importance": "incidental",
+      "reason": "Abandoned filler before clear statue description.",
+      "marked": true,
+      "cleanedSpans": [
+        "um go"
+      ],
+      "preparedSourceQuotation": "[u0571 | 00:51:24.080-00:51:25.309 | DM] um go.",
+      "preparedSourceContextBefore": [
+        "[u0569 | 00:51:10.160-00:51:16.990 | DM] The land on the far side of the river is so there's a big cliff that runs along the",
+        "[u0570 | 00:51:17.000-00:51:23.969 | DM] left bank of the river, but the right bank is just the sort of flat expanse almost unmarked, except for that"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0572 | 00:51:25.950-00:51:33.939 | DM] Huge legs of the statue ahead, and the sort of broken sort of crumbled, headless body.",
+        "[u0573 | 00:51:34.220-00:51:35.359 | DM] Um!"
+      ],
+      "cleanedWording": "[u0571 | 00:51:24.080-00:51:25.309 | DM] [[um go]]."
+    },
+    {
+      "uid": "u0577",
+      "importance": "material",
+      "reason": "Obscuring dust description unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "fate"
+      ],
+      "preparedSourceQuotation": "[u0577 | 00:51:47.520-00:51:55.309 | DM] Everything is sort of obscured by the dust. There's a fate, even though there's not really. You can't really feel a win. It's like",
+      "preparedSourceContextBefore": [
+        "[u0575 | 00:51:41.920-00:51:42.970 | Unknown] um!",
+        "[u0576 | 00:51:43.120-00:51:45.990 | DM] It's sort of dry and dusty."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0578 | 00:51:55.330-00:52:03.869 | DM] as if there was a wind blowing up dust. So everything was considered lately obscured, so it's hard to see much.",
+        "[u0579 | 00:52:04.250-00:52:05.549 | DM] Um!"
+      ],
+      "cleanedWording": "[u0577 | 00:51:47.520-00:51:55.309 | DM] Everything is sort of obscured by the dust. There's a [[fate]], even though there's not really. You can't really feel a wind. It's like"
+    },
+    {
+      "uid": "u0589",
+      "importance": "incidental",
+      "reason": "Abandoned scouting aside; flying plan clear.",
+      "marked": true,
+      "cleanedSpans": [
+        "opt a little bit"
+      ],
+      "preparedSourceQuotation": "[u0589 | 00:53:13.840-00:53:22.699 | Rothfis] you know, opt a little bit I could. I could also fly up into the air with my boots to get some higher ground.",
+      "preparedSourceContextBefore": [
+        "[u0587 | 00:52:53.540-00:52:54.799 | DM] Um,",
+        "[u0588 | 00:52:55.780-00:53:12.870 | Rothfis] I mean, there's not like signs or trails. There's some,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0590 | 00:53:23.720-00:53:28.579 | Merash] That would that would also give you",
+        "[u0591 | 00:53:29.010-00:53:30.229 | DM] um"
+      ],
+      "cleanedWording": "[u0589 | 00:53:13.840-00:53:22.699 | Rothfis] you know, [[opt a little bit]] I could. I could also fly up into the air with my boots to get some higher ground."
+    },
+    {
+      "uid": "u0595",
+      "importance": "material",
+      "reason": "Stated flight direction may be ASR error; not assumed upward without confirmation.",
+      "marked": true,
+      "cleanedSpans": [
+        "northward"
+      ],
+      "preparedSourceQuotation": "[u0595 | 00:53:45.150-00:53:52.790 | Rothfis] Yeah, all right. See you in an hour or so, and I just start sprinting northward",
+      "preparedSourceContextBefore": [
+        "[u0593 | 00:53:35.970-00:53:40.129 | Rothfis] Certainly it wouldn't be stealthy, but I can. I can go up quite a bit.",
+        "[u0594 | 00:53:42.090-00:53:43.880 | Thror] I think it's a fine idea."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0596 | 00:53:52.800-00:53:58.299 | Rothfis] to the heavens, I suppose. Okay, make it. Make our perception check.",
+        "[u0597 | 00:53:59.190-00:54:01.549 | DM] I'm going to say straight roll"
+      ],
+      "cleanedWording": "[u0595 | 00:53:45.150-00:53:52.790 | Rothfis] Yeah, all right. See you in an hour or so, and I just start sprinting [[northward]]"
+    },
+    {
+      "uid": "u0634",
+      "importance": "incidental",
+      "reason": "Elapsed scouting time fragment; one hour clear at u0633.",
+      "marked": true,
+      "cleanedSpans": [
+        "to show it all"
+      ],
+      "preparedSourceQuotation": "[u0634 | 00:57:08.490-00:57:09.740 | DM] to show it all.",
+      "preparedSourceContextBefore": [
+        "[u0632 | 00:57:00.530-00:57:04.850 | Rothfis] overall at this point. How long would you say I flew for like one or two hours?",
+        "[u0633 | 00:57:05.220-00:57:08.480 | DM] Um, i'd say that was about an hour"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0635 | 00:57:10.110-00:57:13.749 | Rothfis] And you I am. Yeah. Three hours left on the boots.",
+        "[u0636 | 00:57:14.550-00:57:16.250 | Rothfis] Um,"
+      ],
+      "cleanedWording": "[u0634 | 00:57:08.490-00:57:09.740 | DM] [[to show it all]]."
+    },
+    {
+      "uid": "u0635",
+      "importance": "incidental",
+      "reason": "Scouting/time acknowledgment fragment; three hours of boots explicit.",
+      "marked": true,
+      "cleanedSpans": [
+        "And you I am"
+      ],
+      "preparedSourceQuotation": "[u0635 | 00:57:10.110-00:57:13.749 | Rothfis] And you I am. Yeah. Three hours left on the boots.",
+      "preparedSourceContextBefore": [
+        "[u0633 | 00:57:05.220-00:57:08.480 | DM] Um, i'd say that was about an hour",
+        "[u0634 | 00:57:08.490-00:57:09.740 | DM] to show it all."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0636 | 00:57:14.550-00:57:16.250 | Rothfis] Um,",
+        "[u0637 | 00:57:19.850-00:57:21.770 | Rothfis] all right. So"
+      ],
+      "cleanedWording": "[u0635 | 00:57:10.110-00:57:13.749 | Rothfis] [[And you I am]]. Yeah. Three hours left on the boots."
+    },
+    {
+      "uid": "u0638",
+      "importance": "material",
+      "reason": "Scouting report about mad priest/statue unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "the mad priest chile that the statue for sure"
+      ],
+      "preparedSourceQuotation": "[u0638 | 00:57:22.510-00:57:32.209 | Rothfis] Rock Rock Rock, the mad priest chile that the statue for sure.",
+      "preparedSourceContextBefore": [
+        "[u0636 | 00:57:14.550-00:57:16.250 | Rothfis] Um,",
+        "[u0637 | 00:57:19.850-00:57:21.770 | Rothfis] all right. So"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0639 | 00:57:34.400-00:57:37.489 | Rothfis] No, I did. I saw a cave, though",
+        "[u0640 | 00:57:37.980-00:57:47.720 | Rothfis] maybe that's where the trolls live. But maybe that's a refuge sort of the spirits, or maybe it's full of gold,"
+      ],
+      "cleanedWording": "[u0638 | 00:57:22.510-00:57:32.209 | Rothfis] Rock, rock, rock, [[the mad priest chile that the statue for sure]]."
+    },
+    {
+      "uid": "u0641",
+      "importance": "incidental",
+      "reason": "Cave-content joke; contents explicitly unknown.",
+      "marked": true,
+      "cleanedSpans": [
+        "a task available in"
+      ],
+      "preparedSourceQuotation": "[u0641 | 00:57:48.650-00:57:54.760 | Rothfis] a task available in. I've got one of those I don't need that I don't know what's in the cave.",
+      "preparedSourceContextBefore": [
+        "[u0639 | 00:57:34.400-00:57:37.489 | Rothfis] No, I did. I saw a cave, though",
+        "[u0640 | 00:57:37.980-00:57:47.720 | Rothfis] maybe that's where the trolls live. But maybe that's a refuge sort of the spirits, or maybe it's full of gold,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0642 | 00:57:55.710-00:57:56.850 | Rothfis] Um,",
+        "[u0643 | 00:57:57.480-00:58:00.789 | Rothfis] it's pretty bloody bleak out there it."
+      ],
+      "cleanedWording": "[u0641 | 00:57:48.650-00:57:54.760 | Rothfis] [[a task available in]]. I've got one of those I don't need that I don't know what's in the cave."
+    },
+    {
+      "uid": "u0668",
+      "importance": "material",
+      "reason": "Possible perception modifier/roll fragment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "for ten"
+      ],
+      "preparedSourceQuotation": "[u0668 | 01:00:10.620-01:00:11.599 | Riswynn] for ten",
+      "preparedSourceContextBefore": [
+        "[u0666 | 01:00:08.470-01:00:09.589 | DM] Okay,",
+        "[u0667 | 01:00:09.600-01:00:10.609 | Thror] yeah,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0669 | 01:00:12.330-01:00:15.469 | Rothfis] uh make a perception check with disadvantage,",
+        "[u0670 | 01:00:15.910-01:00:17.549 | Merash] with disadvantage."
+      ],
+      "cleanedWording": "[u0668 | 01:00:10.620-01:00:11.599 | Riswynn] [[for ten]]"
+    },
+    {
+      "uid": "u0676",
+      "importance": "incidental",
+      "reason": "Abandoned narrative fragment before rock description.",
+      "marked": false,
+      "cleanedSpans": [
+        "you are."
+      ],
+      "preparedSourceQuotation": "[u0676 | 01:00:39.350-01:00:40.930 | DM] you are.",
+      "preparedSourceContextBefore": [
+        "[u0674 | 01:00:33.200-01:00:34.949 | DM] for another like",
+        "[u0675 | 01:00:35.680-01:00:39.140 | DM] five minutes or so. When um"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0677 | 01:00:42.400-01:00:44.049 | Unknown] Hold on a Sec. Here,",
+        "[u0678 | 01:00:47.590-01:00:50.440 | DM] as you are passing a"
+      ],
+      "cleanedWording": "[u0676 | 01:00:39.350-01:00:40.930 | DM] you are."
+    },
+    {
+      "uid": "u0698",
+      "importance": "incidental",
+      "reason": "Turn-transition fragment; initiative order clear elsewhere.",
+      "marked": false,
+      "cleanedSpans": [
+        "It's now."
+      ],
+      "preparedSourceQuotation": "[u0698 | 01:02:40.350-01:02:41.669 | DM] It's now.",
+      "preparedSourceContextBefore": [
+        "[u0696 | 01:02:32.710-01:02:34.799 | DM] Uh, okay, um",
+        "[u0697 | 01:02:35.070-01:02:39.210 | DM] roar would go first. But you are surprised."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0699 | 01:02:43.400-01:02:46.300 | DM] None of you go until the troll",
+        "[u0700 | 01:02:46.890-01:02:48.939 | DM] takes a swipe at"
+      ],
+      "cleanedWording": "[u0698 | 01:02:40.350-01:02:41.669 | DM] It's now."
+    },
+    {
+      "uid": "u0704",
+      "importance": "incidental",
+      "reason": "Abandoned attack-description preamble; actual effect follows.",
+      "marked": false,
+      "cleanedSpans": [
+        "and I was going to make a"
+      ],
+      "preparedSourceQuotation": "[u0704 | 01:03:01.030-01:03:04.369 | DM] and I was going to make a",
+      "preparedSourceContextBefore": [
+        "[u0702 | 01:02:53.240-01:02:57.490 | DM] The Trolle rushes out, and it's It's like a spirit troll, but it's also got this like",
+        "[u0703 | 01:02:57.500-01:03:00.300 | DM] shadow is kind of pouring off of that,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0705 | 01:03:06.260-01:03:18.270 | DM] it. It sort of reaches towards the shadow, and it kind of slashes out itself, and this black spurting",
+        "[u0706 | 01:03:18.830-01:03:26.929 | DM] like black shadow, just like spews out of it in a fifteen-foot cubes. So one, two, three,"
+      ],
+      "cleanedWording": "[u0704 | 01:03:01.030-01:03:04.369 | DM] and I was going to make a"
+    },
+    {
+      "uid": "u0716",
+      "importance": "material",
+      "reason": "Possible combat declaration unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "i’m sick"
+      ],
+      "preparedSourceQuotation": "[u0716 | 01:04:20.930-01:04:22.279 | Thror] i'm sick.",
+      "preparedSourceContextBefore": [
+        "[u0714 | 01:04:12.190-01:04:14.840 | DM] and now floor is up.",
+        "[u0715 | 01:04:17.750-01:04:19.240 | Thror] Yes,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0717 | 01:04:38.440-01:04:40.680 | DM] Ah, this is next.",
+        "[u0718 | 01:04:42.050-01:04:44.949 | DM] But you are frightened so you cannot approach it."
+      ],
+      "cleanedWording": "[u0716 | 01:04:20.930-01:04:22.279 | Thror] [[i’m sick]]."
+    },
+    {
+      "uid": "u0722",
+      "importance": "material",
+      "reason": "Movement ability reference unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "just of things"
+      ],
+      "preparedSourceQuotation": "[u0722 | 01:04:56.210-01:04:57.970 | Thror] just of things.",
+      "preparedSourceContextBefore": [
+        "[u0720 | 01:04:52.170-01:04:54.490 | Thror] float back away again on my",
+        "[u0721 | 01:04:54.500-01:04:55.509 | DM] okay,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0723 | 01:04:58.100-01:05:03.799 | Thror] So i'm gonna leave myself here because I'm coming right back to the same, actually.",
+        "[u0724 | 01:05:03.840-01:05:06.030 | Thror] But Billy Mcmahon has built her"
+      ],
+      "cleanedWording": "[u0722 | 01:04:56.210-01:04:57.970 | Thror] [[just of things]]."
+    },
+    {
+      "uid": "u0724",
+      "importance": "material",
+      "reason": "Combat fragment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "Billy Mcmahon has built her"
+      ],
+      "preparedSourceQuotation": "[u0724 | 01:05:03.840-01:05:06.030 | Thror] But Billy Mcmahon has built her",
+      "preparedSourceContextBefore": [
+        "[u0722 | 01:04:56.210-01:04:57.970 | Thror] just of things.",
+        "[u0723 | 01:04:58.100-01:05:03.799 | Thror] So i'm gonna leave myself here because I'm coming right back to the same, actually."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0725 | 01:05:09.620-01:05:10.779 | DM] a",
+        "[u0726 | 01:05:11.370-01:05:13.419 | DM] that misses"
+      ],
+      "cleanedWording": "[u0724 | 01:05:03.840-01:05:06.030 | Thror] But [[Billy Mcmahon has built her]]"
+    },
+    {
+      "uid": "u0794",
+      "importance": "incidental",
+      "reason": "Abandoned spell-name start; Spirit Guardians later explicit.",
+      "marked": true,
+      "cleanedSpans": [
+        "Speaker"
+      ],
+      "preparedSourceQuotation": "[u0794 | 01:11:10.080-01:11:11.349 | Riswynn] Speaker:",
+      "preparedSourceContextBefore": [
+        "[u0792 | 01:11:02.430-01:11:04.750 | DM] That end this term is when you're out",
+        "[u0793 | 01:11:06.790-01:11:08.740 | Riswynn] all right. Um"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0795 | 01:11:12.250-01:11:13.570 | Riswynn] A",
+        "[u0796 | 01:11:14.350-01:11:18.330 | Riswynn] spiritual needs, so I know It's a it's. Hold on a sec."
+      ],
+      "cleanedWording": "[u0794 | 01:11:10.080-01:11:11.349 | Riswynn] [[Speaker]]:"
+    },
+    {
+      "uid": "u0796",
+      "importance": "incidental",
+      "reason": "Preamble to spell choice; selected spell explicit later.",
+      "marked": true,
+      "cleanedSpans": [
+        "spiritual needs"
+      ],
+      "preparedSourceQuotation": "[u0796 | 01:11:14.350-01:11:18.330 | Riswynn] spiritual needs, so I know It's a it's. Hold on a sec.",
+      "preparedSourceContextBefore": [
+        "[u0794 | 01:11:10.080-01:11:11.349 | Riswynn] Speaker:",
+        "[u0795 | 01:11:12.250-01:11:13.570 | Riswynn] A"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0797 | 01:11:25.160-01:11:26.359 | DM] Go ahead.",
+        "[u0798 | 01:11:27.530-01:11:28.740 | Riswynn] Um."
+      ],
+      "cleanedWording": "[u0796 | 01:11:14.350-01:11:18.330 | Riswynn] [[spiritual needs]], so I know It's a it's. Hold on a sec."
+    },
+    {
+      "uid": "u0799",
+      "importance": "incidental",
+      "reason": "Preamble to spirit-fighting comment; selected spell explicit later.",
+      "marked": true,
+      "cleanedSpans": [
+        "Theory. Spiritual needs"
+      ],
+      "preparedSourceQuotation": "[u0799 | 01:11:29.560-01:11:34.069 | Riswynn] Theory. Spiritual needs some spirit fighting. So i'm going to cast",
+      "preparedSourceContextBefore": [
+        "[u0797 | 01:11:25.160-01:11:26.359 | DM] Go ahead.",
+        "[u0798 | 01:11:27.530-01:11:28.740 | Riswynn] Um."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0800 | 01:11:38.490-01:11:39.719 | Riswynn] um.",
+        "[u0801 | 01:11:39.770-01:11:44.819 | Riswynn] Does the spirit guardians do an attack, or is it just as expensive thing."
+      ],
+      "cleanedWording": "[u0799 | 01:11:29.560-01:11:34.069 | Riswynn] [[Theory. Spiritual needs]] some spirit fighting. So i'm going to cast"
+    },
+    {
+      "uid": "u0813",
+      "importance": "material",
+      "reason": "Radius descriptor unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "whip"
+      ],
+      "preparedSourceQuotation": "[u0813 | 01:12:39.310-01:12:42.399 | DM] So it's within the whip radius.",
+      "preparedSourceContextBefore": [
+        "[u0811 | 01:12:19.460-01:12:23.759 | Riswynn] You right? You meant to cash spirit guardians, right? Yes, yes.",
+        "[u0812 | 01:12:35.520-01:12:39.150 | DM] So you you want to make sure you move."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0814 | 01:12:42.790-01:12:43.809 | Riswynn] Yeah,",
+        "[u0815 | 01:12:49.290-01:12:50.440 | Unknown] okay."
+      ],
+      "cleanedWording": "[u0813 | 01:12:39.310-01:12:42.399 | DM] So it's within the [[whip]] radius."
+    },
+    {
+      "uid": "u0816",
+      "importance": "material",
+      "reason": "Question about blocking an ally garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "The good to block"
+      ],
+      "preparedSourceQuotation": "[u0816 | 01:12:51.180-01:12:52.550 | Riswynn] The good to block",
+      "preparedSourceContextBefore": [
+        "[u0814 | 01:12:42.790-01:12:43.809 | Riswynn] Yeah,",
+        "[u0815 | 01:12:49.290-01:12:50.440 | Unknown] okay."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0817 | 01:12:53.850-01:12:57.939 | Riswynn] somebody Is that protective, or is that going to hamper somebody's attack?",
+        "[u0818 | 01:13:00.080-01:13:02.159 | Rothfis] Um. I don't see anything"
+      ],
+      "cleanedWording": "[u0816 | 01:12:51.180-01:12:52.550 | Riswynn] [[The good to block]]"
+    },
+    {
+      "uid": "u0825",
+      "importance": "incidental",
+      "reason": "Movement acknowledgment; position and action clear.",
+      "marked": true,
+      "cleanedSpans": [
+        "I’ll scan"
+      ],
+      "preparedSourceQuotation": "[u0825 | 01:13:28.750-01:13:30.729 | Thror] I'll scan,",
+      "preparedSourceContextBefore": [
+        "[u0823 | 01:13:21.680-01:13:23.899 | Riswynn] Am I going to be in throws way?",
+        "[u0824 | 01:13:25.780-01:13:28.739 | Riswynn] You can move around you easily enough."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0826 | 01:13:30.740-01:13:37.530 | Riswynn] I i'll stand there with my armor in case that the troll wants to lash out, and I will do my spirit guardian thing.",
+        "[u0827 | 01:13:38.040-01:13:40.480 | DM] Okay, Maris, you're out"
+      ],
+      "cleanedWording": "[u0825 | 01:13:28.750-01:13:30.729 | Thror] [[I’ll scan]],"
+    },
+    {
+      "uid": "u0908",
+      "importance": "material",
+      "reason": "Spell level/damage question unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "Did you count to the other level"
+      ],
+      "preparedSourceQuotation": "[u0908 | 01:19:58.290-01:20:06.349 | Riswynn] You casted it. Did you count to the other level? So that's forty eight. So just rule for four d, eight,",
+      "preparedSourceContextBefore": [
+        "[u0906 | 01:19:41.900-01:19:55.449 | DM] that is going to be. It's turned now, and it's standing in the spirit Guardian. So it needs to make a wisdom saving throw, which is a six. So how much damage does it take",
+        "[u0907 | 01:19:56.330-01:19:58.209 | Riswynn] from the spirit guardians."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0909 | 01:20:09.370-01:20:11.639 | DM] and that's radiant damage.",
+        "[u0910 | 01:20:11.810-01:20:15.969 | Riswynn] Well, I have a choice of gradient, or, I think, necrotic. But"
+      ],
+      "cleanedWording": "[u0908 | 01:19:58.290-01:20:06.349 | Riswynn] You casted it. [[Did you count to the other level]]? So that's 4d8. So just roll 4d8,"
+    },
+    {
+      "uid": "u0925",
+      "importance": "material",
+      "reason": "Target-selection fragment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "they don’t talk"
+      ],
+      "preparedSourceQuotation": "[u0925 | 01:21:08.620-01:21:10.019 | DM] they don't talk",
+      "preparedSourceContextBefore": [
+        "[u0923 | 01:21:04.550-01:21:06.740 | DM] at office.",
+        "[u0924 | 01:21:07.020-01:21:08.269 | DM] Actually it'll"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0926 | 01:21:10.030-01:21:12.300 | DM] rest of the claw first,",
+        "[u0927 | 01:21:13.040-01:21:15.059 | DM] the whether it can hit her."
+      ],
+      "cleanedWording": "[u0925 | 01:21:08.620-01:21:10.019 | DM] [[they don’t talk]]"
+    },
+    {
+      "uid": "u0926",
+      "importance": "material",
+      "reason": "Target-selection fragment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "rest of the claw first"
+      ],
+      "preparedSourceQuotation": "[u0926 | 01:21:10.030-01:21:12.300 | DM] rest of the claw first,",
+      "preparedSourceContextBefore": [
+        "[u0924 | 01:21:07.020-01:21:08.269 | DM] Actually it'll",
+        "[u0925 | 01:21:08.620-01:21:10.019 | DM] they don't talk"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0927 | 01:21:13.040-01:21:15.059 | DM] the whether it can hit her.",
+        "[u0928 | 01:21:15.230-01:21:21.669 | DM] That's a fifteen that misses so it's going to turn and bite at office."
+      ],
+      "cleanedWording": "[u0926 | 01:21:10.030-01:21:12.300 | DM] [[rest of the claw first]],"
+    },
+    {
+      "uid": "u0938",
+      "importance": "material",
+      "reason": "Aborted target name fragment; Merash clear in next unit.",
+      "marked": true,
+      "cleanedSpans": [
+        "met"
+      ],
+      "preparedSourceQuotation": "[u0938 | 01:21:57.660-01:22:03.169 | DM] So it's floating over you, and then make it second claw attack against met",
+      "preparedSourceContextBefore": [
+        "[u0936 | 01:21:51.830-01:21:53.740 | DM] It's going to",
+        "[u0937 | 01:21:53.820-01:21:56.059 | DM] step on top of you."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0939 | 01:22:03.470-01:22:05.819 | DM] parish, which is a twenty.",
+        "[u0940 | 01:22:06.550-01:22:08.240 | Merash] That is"
+      ],
+      "cleanedWording": "[u0938 | 01:21:57.660-01:22:03.169 | DM] So it's floating over you, and then make its second claw attack against [[met]]"
+    },
+    {
+      "uid": "u0951",
+      "importance": "incidental",
+      "reason": "Attack-opportunity aside garbled, attack proceeds clearly.",
+      "marked": true,
+      "cleanedSpans": [
+        "thank you right at all"
+      ],
+      "preparedSourceQuotation": "[u0951 | 01:22:53.620-01:22:55.479 | Riswynn] thank you right at all.",
+      "preparedSourceContextBefore": [
+        "[u0949 | 01:22:46.310-01:22:50.060 | Riswynn] because I was trying to get outside of this for a spirits.",
+        "[u0950 | 01:22:50.500-01:22:53.450 | Riswynn] Well, I see no reason why I wouldn't want to"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0952 | 01:22:56.490-01:22:58.149 | Riswynn] What kind of attack?",
+        "[u0953 | 01:22:58.560-01:23:01.300 | DM] Ah, just with shattered with your war hammer."
+      ],
+      "cleanedWording": "[u0951 | 01:22:53.620-01:22:55.479 | Riswynn] [[thank you right at all]]."
+    },
+    {
+      "uid": "u0954",
+      "importance": "material",
+      "reason": "Attack result fragment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "God, it’s"
+      ],
+      "preparedSourceQuotation": "[u0954 | 01:23:09.630-01:23:11.160 | DM] God, it's",
+      "preparedSourceContextBefore": [
+        "[u0952 | 01:22:56.490-01:22:58.149 | Riswynn] What kind of attack?",
+        "[u0953 | 01:22:58.560-01:23:01.300 | DM] Ah, just with shattered with your war hammer."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0955 | 01:23:17.330-01:23:19.109 | DM] okay. So eight",
+        "[u0956 | 01:23:19.760-01:23:21.090 | DM] um,"
+      ],
+      "cleanedWording": "[u0954 | 01:23:09.630-01:23:11.160 | DM] [[God, it’s]]"
+    },
+    {
+      "uid": "u0964",
+      "importance": "incidental",
+      "reason": "Abandoned spell/action wording; attack result explicit u0966.",
+      "marked": true,
+      "cleanedSpans": [
+        "remaining"
+      ],
+      "preparedSourceQuotation": "[u0964 | 01:23:55.160-01:23:56.400 | Riswynn] remaining",
+      "preparedSourceContextBefore": [
+        "[u0962 | 01:23:48.820-01:23:50.359 | Riswynn] and um",
+        "[u0963 | 01:23:52.280-01:23:54.619 | Riswynn] and i'm going to do like a"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0965 | 01:23:56.610-01:23:58.600 | Riswynn] some sort of thing If I had",
+        "[u0966 | 01:24:01.320-01:24:04.990 | DM] uh ten misses"
+      ],
+      "cleanedWording": "[u0964 | 01:23:55.160-01:23:56.400 | Riswynn] [[remaining]]"
+    },
+    {
+      "uid": "u0965",
+      "importance": "incidental",
+      "reason": "Abandoned spell/action wording; attack result explicit u0966.",
+      "marked": true,
+      "cleanedSpans": [
+        "some sort of thing If I had"
+      ],
+      "preparedSourceQuotation": "[u0965 | 01:23:56.610-01:23:58.600 | Riswynn] some sort of thing If I had",
+      "preparedSourceContextBefore": [
+        "[u0963 | 01:23:52.280-01:23:54.619 | Riswynn] and i'm going to do like a",
+        "[u0964 | 01:23:55.160-01:23:56.400 | Riswynn] remaining"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0966 | 01:24:01.320-01:24:04.990 | DM] uh ten misses",
+        "[u0967 | 01:24:07.790-01:24:12.409 | DM] um marriage. You're up. It is not currently"
+      ],
+      "cleanedWording": "[u0965 | 01:23:56.610-01:23:58.600 | Riswynn] [[some sort of thing If I had]]"
+    },
+    {
+      "uid": "u0968",
+      "importance": "material",
+      "reason": "Current combat condition unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "started with you"
+      ],
+      "preparedSourceQuotation": "[u0968 | 01:24:12.450-01:24:13.829 | DM] started with you,",
+      "preparedSourceContextBefore": [
+        "[u0966 | 01:24:01.320-01:24:04.990 | DM] uh ten misses",
+        "[u0967 | 01:24:07.790-01:24:12.409 | DM] um marriage. You're up. It is not currently"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0969 | 01:24:14.930-01:24:17.189 | Merash] was great news.",
+        "[u0970 | 01:24:17.200-01:24:20.779 | Merash] Um, I am going to."
+      ],
+      "cleanedWording": "[u0968 | 01:24:12.450-01:24:13.829 | DM] [[started with you]],"
+    },
+    {
+      "uid": "u0981",
+      "importance": "material",
+      "reason": "Attack-count aside unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "the multiply"
+      ],
+      "preparedSourceQuotation": "[u0981 | 01:25:04.000-01:25:07.019 | Merash] I guess I can use. Yeah, I can do the multiply",
+      "preparedSourceContextBefore": [
+        "[u0979 | 01:24:55.770-01:25:00.919 | Merash] I'm going to use my second attack to try to hit it with my handbags as well.",
+        "[u0980 | 01:25:01.620-01:25:03.990 | DM] Why, don't you just hit it with them all the forge again?"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0982 | 01:25:14.200-01:25:18.790 | DM] fifteen hits just for the image. Well, okay, twenty two, all for it.",
+        "[u0983 | 01:25:24.930-01:25:27.240 | Merash] And then"
+      ],
+      "cleanedWording": "[u0981 | 01:25:04.000-01:25:07.019 | Merash] I guess I can use. Yeah, I can do [[the multiply]]"
+    },
+    {
+      "uid": "u0982",
+      "importance": "incidental",
+      "reason": "Trailing damage reaction; 22 damage explicit.",
+      "marked": true,
+      "cleanedSpans": [
+        "all for it"
+      ],
+      "preparedSourceQuotation": "[u0982 | 01:25:14.200-01:25:18.790 | DM] fifteen hits just for the image. Well, okay, twenty two, all for it.",
+      "preparedSourceContextBefore": [
+        "[u0980 | 01:25:01.620-01:25:03.990 | DM] Why, don't you just hit it with them all the forge again?",
+        "[u0981 | 01:25:04.000-01:25:07.019 | Merash] I guess I can use. Yeah, I can do the multiply"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0983 | 01:25:24.930-01:25:27.240 | Merash] And then",
+        "[u0984 | 01:25:27.540-01:25:31.099 | DM] very insubstantial at this point, but not quite dead."
+      ],
+      "cleanedWording": "[u0982 | 01:25:14.200-01:25:18.790 | DM] fifteen hits just roll damage. Well, okay, twenty two, [[all for it]]."
+    },
+    {
+      "uid": "u0997",
+      "importance": "incidental",
+      "reason": "Unclear table fragment before Menacing Attack.",
+      "marked": false,
+      "cleanedSpans": [
+        "this weekend."
+      ],
+      "preparedSourceQuotation": "[u0997 | 01:26:43.420-01:26:44.389 | Unknown] this weekend.",
+      "preparedSourceContextBefore": [
+        "[u0995 | 01:26:36.190-01:26:38.760 | Merash] Yeah, Um,",
+        "[u0996 | 01:26:39.110-01:26:41.799 | Merash] Okay, Actually, I think i'll do the um"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0998 | 01:26:44.400-01:26:45.860 | Merash] Ah,",
+        "[u0999 | 01:26:46.820-01:26:49.600 | Merash] i'll do the um medicine. This app"
+      ],
+      "cleanedWording": "[u0997 | 01:26:43.420-01:26:44.389 | Unknown] this weekend."
+    },
+    {
+      "uid": "u1000",
+      "importance": "incidental",
+      "reason": "Unclear table aside; saving throw resolution clear.",
+      "marked": false,
+      "cleanedSpans": [
+        "bye, guys"
+      ],
+      "preparedSourceQuotation": "[u1000 | 01:26:50.230-01:26:51.260 | DM] bye, guys",
+      "preparedSourceContextBefore": [
+        "[u0998 | 01:26:44.400-01:26:45.860 | Merash] Ah,",
+        "[u0999 | 01:26:46.820-01:26:49.600 | Merash] i'll do the um medicine. This app"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1001 | 01:26:51.640-01:26:52.960 | Merash] um,",
+        "[u1002 | 01:26:57.270-01:27:01.330 | Merash] and that says five to eight. No,"
+      ],
+      "cleanedWording": "[u1000 | 01:26:50.230-01:26:51.260 | DM] bye, guys"
+    },
+    {
+      "uid": "u1026",
+      "importance": "incidental",
+      "reason": "D&D Beyond UI query; death save outcome clear.",
+      "marked": true,
+      "cleanedSpans": [
+        "in your next on beyond"
+      ],
+      "preparedSourceQuotation": "[u1026 | 01:28:51.240-01:28:54.209 | Rothfis] How do I use it in your next on beyond",
+      "preparedSourceContextBefore": [
+        "[u1024 | 01:28:41.450-01:28:44.759 | DM] Shimmers do the thing, and it",
+        "[u1025 | 01:28:45.370-01:28:49.739 | DM] dissipates um. Rafael's role in death saving town."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1027 | 01:28:54.950-01:28:58.119 | Rothfis] it should just pop up like,",
+        "[u1028 | 01:28:58.130-01:28:59.849 | Unknown] Oh, yeah, there is"
+      ],
+      "cleanedWording": "[u1026 | 01:28:51.240-01:28:54.209 | Rothfis] How do I use it [[in your next on beyond]]"
+    },
+    {
+      "uid": "u1031",
+      "importance": "incidental",
+      "reason": "Isolated table utterance after unconsciousness joke.",
+      "marked": false,
+      "cleanedSpans": [
+        "yo,"
+      ],
+      "preparedSourceQuotation": "[u1031 | 01:29:16.120-01:29:17.440 | Rothfis] yo,",
+      "preparedSourceContextBefore": [
+        "[u1029 | 01:29:00.540-01:29:05.889 | Rothfis] not twenty. I have to stabilize myself, and you gain one hit for you.",
+        "[u1030 | 01:29:05.900-01:29:16.010 | Rothfis] Yeah, I look around, and I say, Oh, that's a hangover, all right. It's been a while since I've been unconscious for"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1032 | 01:29:25.900-01:29:31.779 | Rothfis] so I could use a short rest. I don't know for anyone else.",
+        "[u1033 | 01:29:38.170-01:29:45.909 | DM] You want to just take a rest right here in the middle of the Ashlands or continue to the case."
+      ],
+      "cleanedWording": "[u1031 | 01:29:16.120-01:29:17.440 | Rothfis] yo,"
+    },
+    {
+      "uid": "u1034",
+      "importance": "material",
+      "reason": "Comparison of resting in cave/open partly garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "the"
+      ],
+      "preparedSourceQuotation": "[u1034 | 01:29:45.940-01:29:51.940 | Thror] Okay, the way you pose? That question makes the seem like a better.",
+      "preparedSourceContextBefore": [
+        "[u1032 | 01:29:25.900-01:29:31.779 | Rothfis] so I could use a short rest. I don't know for anyone else.",
+        "[u1033 | 01:29:38.170-01:29:45.909 | DM] You want to just take a rest right here in the middle of the Ashlands or continue to the case."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1035 | 01:29:53.590-01:29:55.289 | Rothfis] I've got",
+        "[u1036 | 01:29:55.300-01:29:58.089 | Riswynn] What if you're sitting in the cave?"
+      ],
+      "cleanedWording": "[u1034 | 01:29:45.940-01:29:51.940 | Thror] Okay, the way you pose? That question makes [[the]] seem like a better."
+    },
+    {
+      "uid": "u1060",
+      "importance": "incidental",
+      "reason": "Transition to cave approach description; no distinct scene detail recoverable.",
+      "marked": true,
+      "cleanedSpans": [
+        "yeah and tell you. Here"
+      ],
+      "preparedSourceQuotation": "[u1060 | 01:31:31.900-01:31:36.880 | Rothfis] yeah and tell you. Here",
+      "preparedSourceContextBefore": [
+        "[u1058 | 01:31:13.450-01:31:15.559 | Riswynn] re-roll perception",
+        "[u1059 | 01:31:17.600-01:31:18.930 | Riswynn] it's going to be"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1061 | 01:31:37.060-01:31:41.599 | DM] you begin to approach, and you hear this kind of",
+        "[u1062 | 01:31:41.860-01:31:49.469 | DM] um noise That sounds like rocks falling and something walking in you turn like holding your"
+      ],
+      "cleanedWording": "[u1060 | 01:31:31.900-01:31:36.880 | Rothfis] [[yeah and tell you. Here]]"
+    },
+    {
+      "uid": "u1063",
+      "importance": "material",
+      "reason": "Position or source of cave voice unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "and for a mercy"
+      ],
+      "preparedSourceQuotation": "[u1063 | 01:31:49.480-01:31:52.709 | DM] war hammer until you hear a voice, and for a mercy,",
+      "preparedSourceContextBefore": [
+        "[u1061 | 01:31:37.060-01:31:41.599 | DM] you begin to approach, and you hear this kind of",
+        "[u1062 | 01:31:41.860-01:31:49.469 | DM] um noise That sounds like rocks falling and something walking in you turn like holding your"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1064 | 01:31:53.350-01:31:55.660 | DM] Hey! Who's there?",
+        "[u1065 | 01:32:01.270-01:32:03.710 | Riswynn] I say um"
+      ],
+      "cleanedWording": "[u1063 | 01:31:49.480-01:31:52.709 | DM] war hammer until you hear a voice, [[and for a mercy]],"
+    },
+    {
+      "uid": "u1066",
+      "importance": "incidental",
+      "reason": "Overlapping fragment during restarted introduction.",
+      "marked": false,
+      "cleanedSpans": [
+        "with the outside that"
+      ],
+      "preparedSourceQuotation": "[u1066 | 01:32:06.660-01:32:07.870 | Unknown] with the outside that",
+      "preparedSourceContextBefore": [
+        "[u1064 | 01:31:53.350-01:31:55.660 | DM] Hey! Who's there?",
+        "[u1065 | 01:32:01.270-01:32:03.710 | Riswynn] I say um"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1067 | 01:32:07.940-01:32:09.100 | Unknown] it's a but",
+        "[u1068 | 01:32:09.310-01:32:11.540 | Riswynn] I say that"
+      ],
+      "cleanedWording": "[u1066 | 01:32:06.660-01:32:07.870 | Unknown] with the outside that"
+    },
+    {
+      "uid": "u1067",
+      "importance": "incidental",
+      "reason": "Overlapping fragment during restarted introduction.",
+      "marked": false,
+      "cleanedSpans": [
+        "it's a but"
+      ],
+      "preparedSourceQuotation": "[u1067 | 01:32:07.940-01:32:09.100 | Unknown] it's a but",
+      "preparedSourceContextBefore": [
+        "[u1065 | 01:32:01.270-01:32:03.710 | Riswynn] I say um",
+        "[u1066 | 01:32:06.660-01:32:07.870 | Unknown] with the outside that"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1068 | 01:32:09.310-01:32:11.540 | Riswynn] I say that",
+        "[u1069 | 01:32:15.540-01:32:16.660 | Unknown] sorry,"
+      ],
+      "cleanedWording": "[u1067 | 01:32:07.940-01:32:09.100 | Unknown] it's a but"
+    },
+    {
+      "uid": "u1075",
+      "importance": "material",
+      "reason": "Reply to introduction unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "That’s what you want. Me"
+      ],
+      "preparedSourceQuotation": "[u1075 | 01:32:55.890-01:32:57.890 | Riswynn] indeed! That's what you want. Me.",
+      "preparedSourceContextBefore": [
+        "[u1073 | 01:32:45.520-01:32:50.070 | DM] like walks a little bit forward, and like taps your armor with a stash.",
+        "[u1074 | 01:32:52.510-01:32:53.849 | DM] There's one,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1076 | 01:33:01.280-01:33:03.979 | Riswynn] I'd like to hear some tales of the past.",
+        "[u1077 | 01:33:06.380-01:33:10.329 | DM] Hmm! Isn't it? Ah! Which past"
+      ],
+      "cleanedWording": "[u1075 | 01:32:55.890-01:32:57.890 | Riswynn] indeed! [[That’s what you want. Me]]."
+    },
+    {
+      "uid": "u1083",
+      "importance": "material",
+      "reason": "Fragment before looking at sky unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "sign"
+      ],
+      "preparedSourceQuotation": "[u1083 | 01:33:29.170-01:33:30.700 | DM] sign",
+      "preparedSourceContextBefore": [
+        "[u1081 | 01:33:21.540-01:33:22.559 | Unknown] bleak",
+        "[u1082 | 01:33:23.440-01:33:24.700 | Riswynn] realm"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1084 | 01:33:31.890-01:33:36.210 | DM] walks forward a little bit and kind of peers up into the sky.",
+        "[u1085 | 01:33:36.400-01:33:37.900 | DM] You"
+      ],
+      "cleanedWording": "[u1083 | 01:33:29.170-01:33:30.700 | DM] [[sign]]"
+    },
+    {
+      "uid": "u1094",
+      "importance": "incidental",
+      "reason": "Greeting fragment; cave meeting and offer of ale clear.",
+      "marked": false,
+      "cleanedSpans": [
+        "How's it?"
+      ],
+      "preparedSourceQuotation": "[u1094 | 01:34:10.780-01:34:12.889 | DM] How's it?",
+      "preparedSourceContextBefore": [
+        "[u1092 | 01:34:05.890-01:34:07.340 | Thror] Essentially.",
+        "[u1093 | 01:34:07.730-01:34:08.849 | Unknown] Yes."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1095 | 01:34:14.670-01:34:16.389 | Unknown] Does he Look alive.",
+        "[u1096 | 01:34:16.810-01:34:18.390 | DM] Yeah, he looks alive."
+      ],
+      "cleanedWording": "[u1094 | 01:34:10.780-01:34:12.889 | DM] How's it?"
+    },
+    {
+      "uid": "u1107",
+      "importance": "incidental",
+      "reason": "Isolated overlap while taking ale.",
+      "marked": false,
+      "cleanedSpans": [
+        "to me."
+      ],
+      "preparedSourceQuotation": "[u1107 | 01:35:20.890-01:35:21.940 | Unknown] to me.",
+      "preparedSourceContextBefore": [
+        "[u1105 | 01:35:12.870-01:35:15.329 | DM] and he kind of reaches over any",
+        "[u1106 | 01:35:15.390-01:35:17.350 | DM] he takes a Stephanie"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1108 | 01:35:22.580-01:35:24.439 | DM] I remember the",
+        "[u1109 | 01:35:24.960-01:35:26.530 | DM] brewery"
+      ],
+      "cleanedWording": "[u1107 | 01:35:20.890-01:35:21.940 | Unknown] to me."
+    },
+    {
+      "uid": "u1113",
+      "importance": "material",
+      "reason": "Remembered brewery name unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "stone a they call that"
+      ],
+      "preparedSourceQuotation": "[u1113 | 01:35:39.400-01:35:41.610 | DM] stone a they call that",
+      "preparedSourceContextBefore": [
+        "[u1111 | 01:35:30.320-01:35:34.369 | DM] in the city where I grew up",
+        "[u1112 | 01:35:34.890-01:35:36.550 | Unknown] so"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1114 | 01:35:43.250-01:35:46.869 | Rothfis] Well, actually my, that's my clan",
+        "[u1115 | 01:35:47.340-01:35:49.469 | Rothfis] stone fist."
+      ],
+      "cleanedWording": "[u1113 | 01:35:39.400-01:35:41.610 | DM] [[stone a they call that]]"
+    },
+    {
+      "uid": "u1125",
+      "importance": "incidental",
+      "reason": "Abandoned meal-memory preamble; meal description follows.",
+      "marked": true,
+      "cleanedSpans": [
+        "my hand"
+      ],
+      "preparedSourceQuotation": "[u1125 | 01:36:16.730-01:36:17.889 | DM] my hand",
+      "preparedSourceContextBefore": [
+        "[u1123 | 01:36:07.140-01:36:08.250 | Unknown] and I",
+        "[u1124 | 01:36:09.140-01:36:11.460 | DM] great adventures. We'd have"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1126 | 01:36:18.350-01:36:20.880 | DM] the finest.",
+        "[u1127 | 01:36:24.030-01:36:25.760 | DM] What is that um"
+      ],
+      "cleanedWording": "[u1125 | 01:36:16.730-01:36:17.889 | DM] [[my hand]]"
+    },
+    {
+      "uid": "u1141",
+      "importance": "incidental",
+      "reason": "Confused NPC nickname/address; identities established.",
+      "marked": true,
+      "cleanedSpans": [
+        "Stone, when"
+      ],
+      "preparedSourceQuotation": "[u1141 | 01:37:04.810-01:37:06.570 | DM] Stone, when",
+      "preparedSourceContextBefore": [
+        "[u1139 | 01:36:58.090-01:36:59.770 | DM] this is good.",
+        "[u1140 | 01:37:01.790-01:37:04.419 | Rothfis] Well, I should hope so. I do it myself."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1142 | 01:37:09.850-01:37:11.590 | DM] he looks right. Who are you?",
+        "[u1143 | 01:37:11.600-01:37:13.349 | DM] He looks at tomorrow."
+      ],
+      "cleanedWording": "[u1141 | 01:37:04.810-01:37:06.570 | DM] [[Stone, when]]"
+    },
+    {
+      "uid": "u1146",
+      "importance": "incidental",
+      "reason": "Confused NPC nickname/address following Thror introduction.",
+      "marked": true,
+      "cleanedSpans": [
+        "resign"
+      ],
+      "preparedSourceQuotation": "[u1146 | 01:37:21.380-01:37:23.159 | DM] for our resign.",
+      "preparedSourceContextBefore": [
+        "[u1144 | 01:37:13.450-01:37:15.220 | DM] What? Where did you come from?",
+        "[u1145 | 01:37:15.710-01:37:18.920 | Thror] I came in with the Brisbane some thrower"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1147 | 01:37:23.500-01:37:25.390 | DM] Hmm. Nice to meet you.",
+        "[u1148 | 01:37:25.400-01:37:26.870 | Thror] Good to meet you, too."
+      ],
+      "cleanedWording": "[u1146 | 01:37:21.380-01:37:23.159 | DM] Thror, [[resign]]."
+    },
+    {
+      "uid": "u1153",
+      "importance": "incidental",
+      "reason": "Banter about ale/living dwarf unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "you’re still not the Yale"
+      ],
+      "preparedSourceQuotation": "[u1153 | 01:37:39.780-01:37:42.540 | Rothfis] Okay, you're still not the Yale.",
+      "preparedSourceContextBefore": [
+        "[u1151 | 01:37:33.410-01:37:35.050 | DM] Maybe I am.",
+        "[u1152 | 01:37:37.110-01:37:39.360 | Thror] No, you drink like a live dwarf."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1154 | 01:37:42.720-01:37:44.800 | DM] Maybe maybe",
+        "[u1155 | 01:37:45.290-01:37:47.140 | DM] maybe you're dead, too."
+      ],
+      "cleanedWording": "[u1153 | 01:37:39.780-01:37:42.540 | Rothfis] Okay, [[you’re still not the Yale]]."
+    },
+    {
+      "uid": "u1159",
+      "importance": "incidental",
+      "reason": "Confused NPC nickname/address; poke and claim not dead clear.",
+      "marked": true,
+      "cleanedSpans": [
+        "Stonewind"
+      ],
+      "preparedSourceQuotation": "[u1159 | 01:38:00.990-01:38:03.219 | DM] Stonewind can't be dead",
+      "preparedSourceContextBefore": [
+        "[u1157 | 01:37:57.570-01:37:58.990 | DM] Pokes in you again.",
+        "[u1158 | 01:37:59.000-01:38:00.910 | DM] Ah,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1160 | 01:38:04.640-01:38:05.590 | DM] gaps",
+        "[u1161 | 01:38:05.600-01:38:09.089 | DM] right like tops of this is stick on them,"
+      ],
+      "cleanedWording": "[u1159 | 01:38:00.990-01:38:03.219 | DM] [[Stonewind]] can't be dead"
+    },
+    {
+      "uid": "u1163",
+      "importance": "incidental",
+      "reason": "Transition to bells recollection; bell memory explicit.",
+      "marked": true,
+      "cleanedSpans": [
+        "It takes that this up"
+      ],
+      "preparedSourceQuotation": "[u1163 | 01:38:17.460-01:38:19.629 | DM] It takes that this up",
+      "preparedSourceContextBefore": [
+        "[u1161 | 01:38:05.600-01:38:09.089 | DM] right like tops of this is stick on them,",
+        "[u1162 | 01:38:09.100-01:38:16.970 | DM] marched his armor, and it's like playing, playing playing, and like starts like trying to play a tune on your armor."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1164 | 01:38:19.640-01:38:21.400 | DM] the bells",
+        "[u1165 | 01:38:23.370-01:38:25.740 | DM] the center of the city. We had"
+      ],
+      "cleanedWording": "[u1163 | 01:38:17.460-01:38:19.629 | DM] [[It takes that this up]]"
+    },
+    {
+      "uid": "u1169",
+      "importance": "material",
+      "reason": "Person or phrase associated with bells unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "Mary’s love"
+      ],
+      "preparedSourceQuotation": "[u1169 | 01:38:42.910-01:38:45.090 | DM] Mary's love that sound",
+      "preparedSourceContextBefore": [
+        "[u1167 | 01:38:33.550-01:38:34.920 | DM] last",
+        "[u1168 | 01:38:37.970-01:38:40.259 | DM] must have been a hundred of them."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1170 | 01:38:49.270-01:38:49.889 | DM] we're at.",
+        "[u1171 | 01:38:49.900-01:38:51.020 | DM] How are you?"
+      ],
+      "cleanedWording": "[u1169 | 01:38:42.910-01:38:45.090 | DM] [[Mary’s love]] that sound"
+    },
+    {
+      "uid": "u1171",
+      "importance": "incidental",
+      "reason": "Greeting/identity question fragment; answer identifies Merash.",
+      "marked": true,
+      "cleanedSpans": [
+        "How are you"
+      ],
+      "preparedSourceQuotation": "[u1171 | 01:38:49.900-01:38:51.020 | DM] How are you?",
+      "preparedSourceContextBefore": [
+        "[u1169 | 01:38:42.910-01:38:45.090 | DM] Mary's love that sound",
+        "[u1170 | 01:38:49.270-01:38:49.889 | DM] we're at."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1172 | 01:38:52.470-01:38:58.000 | Merash] I am mirash rizwin of the bells.",
+        "[u1173 | 01:39:00.560-01:39:03.699 | DM] Where Where did Where did you all come from? Where?"
+      ],
+      "cleanedWording": "[u1171 | 01:38:49.900-01:38:51.020 | DM] [[How are you]]?"
+    },
+    {
+      "uid": "u1177",
+      "importance": "incidental",
+      "reason": "Drinking-description ending; sip clear.",
+      "marked": true,
+      "cleanedSpans": [
+        "now"
+      ],
+      "preparedSourceQuotation": "[u1177 | 01:39:24.360-01:39:26.230 | Unknown] Takes another sip of now.",
+      "preparedSourceContextBefore": [
+        "[u1175 | 01:39:13.800-01:39:16.189 | Merash] We came to find you.",
+        "[u1176 | 01:39:18.470-01:39:21.340 | DM] Me, I I thought I was dead."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1178 | 01:39:26.820-01:39:28.629 | DM] Cops on the cask,",
+        "[u1179 | 01:39:30.550-01:39:32.030 | DM] now"
+      ],
+      "cleanedWording": "[u1177 | 01:39:24.360-01:39:26.230 | Unknown] Takes another sip of [[now]]."
+    },
+    {
+      "uid": "u1187",
+      "importance": "material",
+      "reason": "Reply about leaving home unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "Let’s get it"
+      ],
+      "preparedSourceQuotation": "[u1187 | 01:40:12.030-01:40:13.099 | DM] Let's get it.",
+      "preparedSourceContextBefore": [
+        "[u1185 | 01:39:56.950-01:40:00.079 | DM] I should have never. We should have never gone.",
+        "[u1186 | 01:40:07.390-01:40:09.120 | Thror] What did you think would happen?"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1188 | 01:40:15.090-01:40:16.729 | DM] Where did you all come from?",
+        "[u1189 | 01:40:17.160-01:40:18.370 | DM] The"
+      ],
+      "cleanedWording": "[u1187 | 01:40:12.030-01:40:13.099 | DM] [[Let’s get it]]."
+    },
+    {
+      "uid": "u1208",
+      "importance": "material",
+      "reason": "Place described as primitive unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "Thorn teller"
+      ],
+      "preparedSourceQuotation": "[u1208 | 01:41:35.810-01:41:37.849 | Unknown] Thorn teller so",
+      "preparedSourceContextBefore": [
+        "[u1206 | 01:41:24.330-01:41:27.959 | DM] the great halls of our home one more time",
+        "[u1207 | 01:41:31.020-01:41:32.410 | DM] I mean"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1209 | 01:41:38.770-01:41:40.120 | DM] primitive",
+        "[u1210 | 01:41:40.950-01:41:42.820 | DM] almost nothing. There,"
+      ],
+      "cleanedWording": "[u1208 | 01:41:35.810-01:41:37.849 | Unknown] [[Thorn teller]] so"
+    },
+    {
+      "uid": "u1226",
+      "importance": "material",
+      "reason": "Disoriented question fragment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "we are"
+      ],
+      "preparedSourceQuotation": "[u1226 | 01:42:49.140-01:42:50.269 | DM] we are.",
+      "preparedSourceContextBefore": [
+        "[u1224 | 01:42:44.550-01:42:45.820 | DM] what",
+        "[u1225 | 01:42:46.330-01:42:48.400 | DM] looks around what"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1227 | 01:42:51.190-01:42:55.419 | DM] This is Cave doesn't this doesn't? Look right.",
+        "[u1228 | 01:42:58.710-01:43:00.780 | DM] Where are we"
+      ],
+      "cleanedWording": "[u1226 | 01:42:49.140-01:42:50.269 | DM] [[we are]]."
+    },
+    {
+      "uid": "u1229",
+      "importance": "incidental",
+      "reason": "Abandoned NPC disorientation fragment.",
+      "marked": false,
+      "cleanedSpans": [
+        "we have."
+      ],
+      "preparedSourceQuotation": "[u1229 | 01:43:00.790-01:43:01.599 | DM] we have.",
+      "preparedSourceContextBefore": [
+        "[u1227 | 01:42:51.190-01:42:55.419 | DM] This is Cave doesn't this doesn't? Look right.",
+        "[u1228 | 01:42:58.710-01:43:00.780 | DM] Where are we"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1230 | 01:43:01.710-01:43:03.260 | DM] Who are you?",
+        "[u1231 | 01:43:16.020-01:43:17.070 | DM] Where"
+      ],
+      "cleanedWording": "[u1229 | 01:43:00.790-01:43:01.599 | DM] we have."
+    },
+    {
+      "uid": "u1248",
+      "importance": "material",
+      "reason": "Detail of city depopulation/ruin possibly ASR; exact object unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "farmers"
+      ],
+      "preparedSourceQuotation": "[u1248 | 01:44:14.980-01:44:16.850 | DM] The farmers were gone",
+      "preparedSourceContextBefore": [
+        "[u1246 | 01:44:05.800-01:44:07.379 | DM] black, it was",
+        "[u1247 | 01:44:10.500-01:44:13.099 | DM] washed away of all color."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1249 | 01:44:23.050-01:44:24.629 | DM] wasn't the same.",
+        "[u1250 | 01:44:31.580-01:44:36.920 | Riswynn] It was not a home you could go back to. But did you find refugees to take away?"
+      ],
+      "cleanedWording": "[u1248 | 01:44:14.980-01:44:16.850 | DM] The [[farmers]] were gone"
+    },
+    {
+      "uid": "u1252",
+      "importance": "material",
+      "reason": "Clause about Hagrim taking refugees away unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "He asked sight"
+      ],
+      "preparedSourceQuotation": "[u1252 | 01:44:46.650-01:44:49.090 | DM] Hagrim took us away. He asked sight.",
+      "preparedSourceContextBefore": [
+        "[u1250 | 01:44:31.580-01:44:36.920 | Riswynn] It was not a home you could go back to. But did you find refugees to take away?",
+        "[u1251 | 01:44:43.280-01:44:45.030 | DM] They took us away."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1253 | 01:44:49.590-01:44:50.979 | DM] He took us",
+        "[u1254 | 01:44:50.990-01:44:52.670 | DM] somewhere."
+      ],
+      "cleanedWording": "[u1252 | 01:44:46.650-01:44:49.090 | DM] Hagrim took us away. [[He asked sight]]."
+    },
+    {
+      "uid": "u1287",
+      "importance": "material",
+      "reason": "Hagrim/Chardon reference unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "I haven’t talked about Charter"
+      ],
+      "preparedSourceQuotation": "[u1287 | 01:47:15.570-01:47:18.330 | DM] I haven't talked about Charter, and he",
+      "preparedSourceContextBefore": [
+        "[u1285 | 01:47:08.120-01:47:09.730 | Unknown] that city?",
+        "[u1286 | 01:47:12.200-01:47:14.290 | DM] Yes,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1288 | 01:47:18.340-01:47:22.069 | DM] fought with the Mages and the Great war.",
+        "[u1289 | 01:47:24.890-01:47:26.330 | DM] We would."
+      ],
+      "cleanedWording": "[u1287 | 01:47:15.570-01:47:18.330 | DM] [[I haven’t talked about Charter]], and he"
+    },
+    {
+      "uid": "u1295",
+      "importance": "material",
+      "reason": "Place being built after war unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "darn to her"
+      ],
+      "preparedSourceQuotation": "[u1295 | 01:47:45.740-01:47:49.230 | DM] darn to her was being built and",
+      "preparedSourceContextBefore": [
+        "[u1293 | 01:47:41.330-01:47:43.369 | DM] mountains. Ah,",
+        "[u1294 | 01:47:44.110-01:47:45.360 | DM] well,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1296 | 01:47:50.310-01:47:53.209 | DM] look across, and he would talk about",
+        "[u1297 | 01:47:55.900-01:47:57.680 | DM] the magic"
+      ],
+      "cleanedWording": "[u1295 | 01:47:45.740-01:47:49.230 | DM] [[darn to her]] was being built and"
+    },
+    {
+      "uid": "u1298",
+      "importance": "material",
+      "reason": "Phrase describing magic gone bad unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "it’s go down bad"
+      ],
+      "preparedSourceQuotation": "[u1298 | 01:47:57.990-01:47:59.759 | DM] it's go down bad",
+      "preparedSourceContextBefore": [
+        "[u1296 | 01:47:50.310-01:47:53.209 | DM] look across, and he would talk about",
+        "[u1297 | 01:47:55.900-01:47:57.680 | DM] the magic"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1299 | 01:48:04.130-01:48:06.360 | DM] evil that would",
+        "[u1300 | 01:48:07.390-01:48:09.790 | DM] devour your brains"
+      ],
+      "cleanedWording": "[u1298 | 01:47:57.990-01:47:59.759 | DM] [[it’s go down bad]]"
+    },
+    {
+      "uid": "u1310",
+      "importance": "material",
+      "reason": "Description of tentacled creatures’ face/nose unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "no, it’s just tentacles"
+      ],
+      "preparedSourceQuotation": "[u1310 | 01:48:35.340-01:48:38.510 | DM] no, it's just tentacles,",
+      "preparedSourceContextBefore": [
+        "[u1308 | 01:48:31.360-01:48:33.700 | Unknown] like humans, but",
+        "[u1309 | 01:48:34.020-01:48:35.330 | DM] but not"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1311 | 01:48:40.150-01:48:41.899 | DM] He said he saw one",
+        "[u1312 | 01:48:42.160-01:48:47.490 | DM] grab one of the most powerful mages he knew, and just"
+      ],
+      "cleanedWording": "[u1310 | 01:48:35.340-01:48:38.510 | DM] [[no, it’s just tentacles]],"
+    },
+    {
+      "uid": "u1314",
+      "importance": "incidental",
+      "reason": "Unintelligible repeated “it’s” cross-talk, verbatim retained.",
+      "marked": false,
+      "cleanedSpans": [
+        "it's it's, it's, it's it's it's, it's, it's it's it's it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's it's, it's it's it's it's it's it's it's, it's, it's, it's, it's it's, it's, it's, it's, it's, a"
+      ],
+      "preparedSourceQuotation": "[u1314 | 01:48:52.330-01:48:54.469 | Rothfis] it's it's, it's, it's it's it's, it's, it's it's it's it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's it's, it's it's it's it's it's it's it's, it's, it's, it's, it's it's, it's, it's, it's, it's, a",
+      "preparedSourceContextBefore": [
+        "[u1312 | 01:48:42.160-01:48:47.490 | DM] grab one of the most powerful mages he knew, and just",
+        "[u1313 | 01:48:47.590-01:48:49.969 | DM] socket's brain out there"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1315 | 01:48:57.620-01:49:00.620 | DM] they would burn to the fires,",
+        "[u1316 | 01:49:01.350-01:49:03.569 | DM] just like everything"
+      ],
+      "cleanedWording": "[u1314 | 01:48:52.330-01:48:54.469 | Rothfis] it's it's, it's, it's it's it's, it's, it's it's it's it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's it's, it's it's it's it's it's it's it's, it's, it's, it's, it's it's, it's, it's, it's, it's, a"
+    },
+    {
+      "uid": "u1323",
+      "importance": "material",
+      "reason": "Riswynn’s familiarity with mind flayers unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "not being familiar, too"
+      ],
+      "preparedSourceQuotation": "[u1323 | 01:49:36.040-01:49:40.550 | Riswynn] I mean. Brisbane's been some places, and it's not being familiar, too.",
+      "preparedSourceContextBefore": [
+        "[u1321 | 01:49:25.740-01:49:29.300 | DM] You can met again slightly,",
+        "[u1322 | 01:49:30.170-01:49:35.569 | Rothfis] I think, when you, when you're a level eight right like you. You must have heard stories,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1324 | 01:49:44.400-01:49:53.719 | Rothfis] So so Hegram might have met one of these tentacled horrors, and maybe that's why he turned.",
+        "[u1325 | 01:49:56.510-01:50:00.749 | Rothfis] Maybe that's why a great dwarf and hero would do something so foul."
+      ],
+      "cleanedWording": "[u1323 | 01:49:36.040-01:49:40.550 | Riswynn] I mean. Riswynn’s been some places, and it's [[not being familiar, too]]."
+    },
+    {
+      "uid": "u1339",
+      "importance": "material",
+      "reason": "Interjection about being sent/turning on party unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "He turned on the room"
+      ],
+      "preparedSourceQuotation": "[u1339 | 01:51:21.720-01:51:23.919 | Riswynn] We were sent? He turned on the room",
+      "preparedSourceContextBefore": [
+        "[u1337 | 01:51:14.490-01:51:16.230 | DM] What are you doing here?",
+        "[u1338 | 01:51:17.010-01:51:18.750 | DM] Did Hegrim send you?"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1340 | 01:51:25.010-01:51:26.500 | DM] we were",
+        "[u1341 | 01:51:27.460-01:51:33.729 | DM] writing with Nora, and our lion broke. The trolls got through, and he turned on us"
+      ],
+      "cleanedWording": "[u1339 | 01:51:21.720-01:51:23.919 | Riswynn] We were sent? [[He turned on the room]]"
+    },
+    {
+      "uid": "u1373",
+      "importance": "material",
+      "reason": "Possible Hagrim name fragment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "I go"
+      ],
+      "preparedSourceQuotation": "[u1373 | 01:53:26.090-01:53:27.740 | DM] I go. Um!",
+      "preparedSourceContextBefore": [
+        "[u1371 | 01:53:18.800-01:53:19.989 | DM] but they don't.",
+        "[u1372 | 01:53:20.260-01:53:22.290 | DM] They don't come here,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1374 | 01:53:29.720-01:53:31.360 | DM] He he knows me.",
+        "[u1375 | 01:53:32.440-01:53:33.769 | DM] I think"
+      ],
+      "cleanedWording": "[u1373 | 01:53:26.090-01:53:27.740 | DM] [[I go]]. Um!"
+    },
+    {
+      "uid": "u1394",
+      "importance": "material",
+      "reason": "Action to trap creatures in tunnels missing verb.",
+      "marked": true,
+      "cleanedSpans": [
+        "them down there"
+      ],
+      "preparedSourceQuotation": "[u1394 | 01:55:04.180-01:55:05.599 | DM] them down there",
+      "preparedSourceContextBefore": [
+        "[u1392 | 01:54:56.180-01:54:58.150 | DM] could never have killed them all.",
+        "[u1393 | 01:55:00.840-01:55:02.899 | DM] Collapse the tunnels"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1395 | 01:55:10.140-01:55:12.369 | DM] bury the long roads,",
+        "[u1396 | 01:55:13.070-01:55:14.679 | DM] flee. The kingdom"
+      ],
+      "cleanedWording": "[u1394 | 01:55:04.180-01:55:05.599 | DM] [[them down there]]"
+    },
+    {
+      "uid": "u1399",
+      "importance": "material",
+      "reason": "Hagrim’s preference for fighting versus flight fragment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "fighting"
+      ],
+      "preparedSourceQuotation": "[u1399 | 01:55:26.900-01:55:28.210 | DM] fighting,",
+      "preparedSourceContextBefore": [
+        "[u1397 | 01:55:20.110-01:55:21.969 | DM] never wanted to flee,",
+        "[u1398 | 01:55:24.920-01:55:26.139 | DM] could have just"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1400 | 01:55:35.470-01:55:37.340 | DM] but after the war he",
+        "[u1401 | 01:55:40.460-01:55:41.710 | DM] he is different."
+      ],
+      "cleanedWording": "[u1399 | 01:55:26.900-01:55:28.210 | DM] [[fighting]],"
+    },
+    {
+      "uid": "u1426",
+      "importance": "incidental",
+      "reason": "Reaction to sorcery-point recovery garbled; amount clear.",
+      "marked": true,
+      "cleanedSpans": [
+        "get fought"
+      ],
+      "preparedSourceQuotation": "[u1426 | 01:57:32.730-01:57:36.830 | Thror] get fought. You can restore five sorcery points.",
+      "preparedSourceContextBefore": [
+        "[u1424 | 01:57:17.270-01:57:27.149 | DM] sure it's one of the magic items you have. Um! Lets you regain five sorcery points on a when you will hit points to it dice during a short rest.",
+        "[u1425 | 01:57:27.400-01:57:32.290 | DM] So if you want to use sorcery points to get back spells lots you can"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1427 | 01:57:37.140-01:57:39.330 | Thror] Yes, I do. That's amazing. Thank you.",
+        "[u1428 | 01:57:39.910-01:57:43.689 | Rothfis] Him. Does my Max Hp. Return,"
+      ],
+      "cleanedWording": "[u1426 | 01:57:32.730-01:57:36.830 | Thror] [[get fought]]. You can restore five sorcery points."
+    },
+    {
+      "uid": "u1435",
+      "importance": "material",
+      "reason": "Explanation of shadow suppression garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "necropolis"
+      ],
+      "preparedSourceQuotation": "[u1435 | 01:58:30.720-01:58:32.000 | Riswynn] necropolis",
+      "preparedSourceContextBefore": [
+        "[u1433 | 01:58:16.750-01:58:20.939 | Rothfis] the giant. I couldn't I couldn't get close without getting hurt.",
+        "[u1434 | 01:58:25.170-01:58:29.479 | Riswynn] When the spiritual weapon, attacked it with radiant damage. It"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1436 | 01:58:32.160-01:58:33.290 | Riswynn] cloud.",
+        "[u1437 | 01:58:34.430-01:58:38.429 | Rothfis] Well, that would have been lovely. I should have held me action"
+      ],
+      "cleanedWording": "[u1435 | 01:58:30.720-01:58:32.000 | Riswynn] [[necropolis]]"
+    },
+    {
+      "uid": "u1452",
+      "importance": "material",
+      "reason": "Plan to hold action until shadows scatter unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "I can hold Now it’s scatters"
+      ],
+      "preparedSourceQuotation": "[u1452 | 01:59:55.800-01:59:58.750 | Rothfis] Yeah, I can hold Now it's scatters.",
+      "preparedSourceContextBefore": [
+        "[u1450 | 01:59:41.690-01:59:48.920 | Rothfis] It'll be similar to the dar. Yeah, let's see if I've got",
+        "[u1451 | 01:59:50.170-01:59:55.790 | DM] I mean, maybe if you do encounter something else like this, you at least know what to do."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1453 | 02:00:01.430-02:00:02.969 | Rothfis] Yeah, I mean with",
+        "[u1454 | 02:00:04.120-02:00:09.529 | Rothfis] there's I guess there's no harm in making one magic, one magic dark"
+      ],
+      "cleanedWording": "[u1452 | 01:59:55.800-01:59:58.750 | Rothfis] Yeah, [[I can hold Now it’s scatters]]."
+    },
+    {
+      "uid": "u1491",
+      "importance": "material",
+      "reason": "Question about recovery from possession unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "if they’re going back from that"
+      ],
+      "preparedSourceQuotation": "[u1491 | 02:02:59.110-02:03:01.259 | Riswynn] if they're going back from that like, do we",
+      "preparedSourceContextBefore": [
+        "[u1489 | 02:02:45.590-02:02:50.100 | Riswynn] I was ready to try to persuade like a",
+        "[u1490 | 02:02:50.690-02:02:58.530 | Thror] troubled war hero. I'm not really sure how to unpossess somebody of mind playing"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1492 | 02:03:01.920-02:03:02.980 | Unknown] to kill him?",
+        "[u1493 | 02:03:04.940-02:03:11.029 | Riswynn] I don't know It's kind of like handing down the judgment on behalf of the gods instead of"
+      ],
+      "cleanedWording": "[u1491 | 02:02:59.110-02:03:01.259 | Riswynn] [[if they’re going back from that]] like, do we"
+    },
+    {
+      "uid": "u1495",
+      "importance": "material",
+      "reason": "Term for parasite or altered mind unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "mindset"
+      ],
+      "preparedSourceQuotation": "[u1495 | 02:03:13.240-02:03:16.229 | Thror] Well, if the mindset is more like a parasite.",
+      "preparedSourceContextBefore": [
+        "[u1493 | 02:03:04.940-02:03:11.029 | Riswynn] I don't know It's kind of like handing down the judgment on behalf of the gods instead of",
+        "[u1494 | 02:03:11.870-02:03:12.910 | Rothfis] right."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1496 | 02:03:16.330-02:03:22.209 | Thror] We have to kill the parasite, and hopefully the host survives long enough. But",
+        "[u1497 | 02:03:23.000-02:03:25.080 | Thror] maybe there is no host left."
+      ],
+      "cleanedWording": "[u1495 | 02:03:13.240-02:03:16.229 | Thror] Well, if the [[mindset]] is more like a parasite."
+    },
+    {
+      "uid": "u1502",
+      "importance": "incidental",
+      "reason": "Banter about repeated Riswynn name before undead explanation.",
+      "marked": true,
+      "cleanedSpans": [
+        "Father, it is"
+      ],
+      "preparedSourceQuotation": "[u1502 | 02:03:45.300-02:03:47.290 | DM] Father, it is",
+      "preparedSourceContextBefore": [
+        "[u1500 | 02:03:38.380-02:03:41.849 | DM] um, actually probably multiple ones of you right? Is that",
+        "[u1501 | 02:03:41.880-02:03:45.109 | Riswynn] okay? So if this guy's a ghost, all the wrist wins."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1503 | 02:03:47.300-02:03:49.429 | DM] I love. Where's when?",
+        "[u1504 | 02:03:49.440-02:03:51.769 | DM] Um If he's Undead,"
+      ],
+      "cleanedWording": "[u1502 | 02:03:45.300-02:03:47.290 | DM] [[Father, it is]]"
+    },
+    {
+      "uid": "u1503",
+      "importance": "incidental",
+      "reason": "Banter about repeated Riswynn name before undead explanation.",
+      "marked": true,
+      "cleanedSpans": [
+        "I love"
+      ],
+      "preparedSourceQuotation": "[u1503 | 02:03:47.300-02:03:49.429 | DM] I love. Where's when?",
+      "preparedSourceContextBefore": [
+        "[u1501 | 02:03:41.880-02:03:45.109 | Riswynn] okay? So if this guy's a ghost, all the wrist wins.",
+        "[u1502 | 02:03:45.300-02:03:47.290 | DM] Father, it is"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1504 | 02:03:49.440-02:03:51.769 | DM] Um If he's Undead,",
+        "[u1505 | 02:03:52.570-02:03:53.969 | DM] then"
+      ],
+      "cleanedWording": "[u1503 | 02:03:47.300-02:03:49.429 | DM] [[I love]]. Riswynn?"
+    },
+    {
+      "uid": "u1516",
+      "importance": "material",
+      "reason": "Hypothetical ghost possession explanation ending garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "possessing It solves all"
+      ],
+      "preparedSourceQuotation": "[u1516 | 02:04:42.400-02:04:50.150 | DM] Yeah, there's going to be some like thing glommed on to the brain of the ghost like possessing It solves all, or there's not.",
+      "preparedSourceContextBefore": [
+        "[u1514 | 02:04:34.550-02:04:38.179 | DM] In any case it should. It should be clear like if there's a",
+        "[u1515 | 02:04:38.730-02:04:42.389 | DM] there's no way that a parasite can hide in the skull of a ghost. Right?"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1517 | 02:04:50.450-02:04:54.009 | Rothfis] But I I had. I had sort of",
+        "[u1518 | 02:04:55.360-02:05:06.520 | Rothfis] come to the hypothesis that, like the fact that this claim exists, is is somehow related to the possession and the mind player. But"
+      ],
+      "cleanedWording": "[u1516 | 02:04:42.400-02:04:50.150 | DM] Yeah, there's going to be some like thing glommed on to the brain of the ghost like [[possessing It solves all]], or there's not."
+    },
+    {
+      "uid": "u1541",
+      "importance": "material",
+      "reason": "Application of chalice while alive partly garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "while the good"
+      ],
+      "preparedSourceQuotation": "[u1541 | 02:06:59.540-02:07:08.449 | DM] or you give him the chalice, while the good. Pour the chalice on him while he's alive, and the gods take him back, and he's,",
+      "preparedSourceContextBefore": [
+        "[u1539 | 02:06:50.150-02:06:57.549 | Riswynn] you pour the chalice on his dead body, and his soul is dispersed by the gods to",
+        "[u1540 | 02:06:57.820-02:06:59.530 | DM] nowhere,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1542 | 02:07:12.350-02:07:15.590 | DM] you know he's in their hands",
+        "[u1543 | 02:07:16.200-02:07:19.450 | DM] potentially up, presumably on a path to redemption."
+      ],
+      "cleanedWording": "[u1541 | 02:06:59.540-02:07:08.449 | DM] or you give him the chalice, [[while the good]]. Pour the chalice on him while he's alive, and the gods take him back, and he's,"
+    },
+    {
+      "uid": "u1547",
+      "importance": "material",
+      "reason": "Subject of debt repayment sentence missing or garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "Our"
+      ],
+      "preparedSourceQuotation": "[u1547 | 02:07:46.060-02:07:48.010 | Merash] Our",
+      "preparedSourceContextBefore": [
+        "[u1545 | 02:07:28.230-02:07:42.030 | Rothfis] doomed to hell or for Charleston, while he's alive as a ghost, and then he has a chance to be redeemed in the eyes of the god.",
+        "[u1546 | 02:07:43.260-02:07:44.349 | DM] Exactly."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1548 | 02:07:48.660-02:07:53.299 | Merash] get repaid, regardless of how we chat, List him.",
+        "[u1549 | 02:07:53.640-02:07:54.769 | DM] Yes,"
+      ],
+      "cleanedWording": "[u1547 | 02:07:46.060-02:07:48.010 | Merash] [[Our]]"
+    },
+    {
+      "uid": "u1551",
+      "importance": "material",
+      "reason": "Proposal for applying chalice without conversation unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "The Ivo. We run in through it on a"
+      ],
+      "preparedSourceQuotation": "[u1551 | 02:07:59.690-02:08:04.480 | Rothfis] The Ivo. We run in through it on a",
+      "preparedSourceContextBefore": [
+        "[u1549 | 02:07:53.640-02:07:54.769 | DM] Yes,",
+        "[u1550 | 02:07:56.350-02:07:59.439 | DM] it's up to you to decide what his fate is."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1552 | 02:08:06.550-02:08:11.449 | Rothfis] no conversation at this point. We know it wasn't him for sure.",
+        "[u1553 | 02:08:12.700-02:08:14.689 | Merash] It's got the best aim."
+      ],
+      "cleanedWording": "[u1551 | 02:07:59.690-02:08:04.480 | Rothfis] [[The Ivo. We run in through it on a]]"
+    },
+    {
+      "uid": "u1567",
+      "importance": "material",
+      "reason": "Proposed distribution of chalice water garbled in two spans.",
+      "marked": true,
+      "cleanedSpans": [
+        "do certain handing out fail"
+      ],
+      "preparedSourceQuotation": "[u1567 | 02:09:14.200-02:09:20.139 | Riswynn] I mean. I've been wondering about cellos, and people can do certain handing out fail, like I could just",
+      "preparedSourceContextBefore": [
+        "[u1565 | 02:09:02.710-02:09:04.059 | Rothfis] can we?",
+        "[u1566 | 02:09:04.100-02:09:12.609 | Rothfis] He's alive? I was gonna say, can we tell us multiple people? Because i'd like to get the mad priest at it here? But maybe if he's alive, it's different."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1568 | 02:09:20.220-02:09:23.989 | Riswynn] give people sips of water from the chalice and have them. Poof!",
+        "[u1569 | 02:09:24.000-02:09:27.229 | Rothfis] But if they both with the chalice, then we might be"
+      ],
+      "cleanedWording": "[u1567 | 02:09:14.200-02:09:20.139 | Riswynn] I mean. I've been wondering about chalice, and people can [[do certain handing out fail]], like I could just"
+    },
+    {
+      "uid": "u1570",
+      "importance": "material",
+      "reason": "Question about destination after teleportation unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "I. You know where they come to"
+      ],
+      "preparedSourceQuotation": "[u1570 | 02:09:28.820-02:09:31.009 | Merash] I. You know where they come to.",
+      "preparedSourceContextBefore": [
+        "[u1568 | 02:09:20.220-02:09:23.989 | Riswynn] give people sips of water from the chalice and have them. Poof!",
+        "[u1569 | 02:09:24.000-02:09:27.229 | Rothfis] But if they both with the chalice, then we might be"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1571 | 02:09:31.020-02:09:31.929 | Rothfis] Yeah,",
+        "[u1572 | 02:09:34.460-02:09:36.420 | Rothfis] probably better than here,"
+      ],
+      "cleanedWording": "[u1570 | 02:09:28.820-02:09:31.009 | Merash] [[I. You know where they come to]]."
+    },
+    {
+      "uid": "u1587",
+      "importance": "incidental",
+      "reason": "Possibly deliberately wrong name; Del secure elsewhere.",
+      "marked": true,
+      "cleanedSpans": [
+        "Doug"
+      ],
+      "preparedSourceQuotation": "[u1587 | 02:10:34.810-02:10:39.360 | Riswynn] um. I mean, Doug,",
+      "preparedSourceContextBefore": [
+        "[u1585 | 02:10:22.190-02:10:27.630 | Riswynn] probably, but there is a slight hope that he's still in there, because",
+        "[u1586 | 02:10:27.790-02:10:34.750 | Rothfis] I mean as what is this guy's real name? If we're not calling a mad priest, so don't"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1588 | 02:10:39.950-02:10:43.119 | Riswynn] that the Trolls don't come there.",
+        "[u1589 | 02:10:43.410-02:10:45.580 | Riswynn] Not that they don't know where it is."
+      ],
+      "cleanedWording": "[u1587 | 02:10:34.810-02:10:39.360 | Riswynn] um. I mean, [[Doug]],"
+    },
+    {
+      "uid": "u1607",
+      "importance": "incidental",
+      "reason": "Water-balloon modifier unclear; aerial proposal explicit.",
+      "marked": true,
+      "cleanedSpans": [
+        "a flutter"
+      ],
+      "preparedSourceQuotation": "[u1607 | 02:12:11.700-02:12:15.440 | Rothfis] Yeah, a flutter water balloon.",
+      "preparedSourceContextBefore": [
+        "[u1605 | 02:12:04.230-02:12:09.199 | Riswynn] Exactly. But what can we do if they, if he is in there surrounded by drools,",
+        "[u1606 | 02:12:09.250-02:12:11.689 | Riswynn] go back to plan aerial attack."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1608 | 02:12:17.240-02:12:21.290 | Rothfis] Just hope I don't splash any trolls because I don't want them on the path of the",
+        "[u1609 | 02:12:24.860-02:12:27.599 | DM] Okay. Let's take a five minute break."
+      ],
+      "cleanedWording": "[u1607 | 02:12:11.700-02:12:15.440 | Rothfis] Yeah, [[a flutter]] water balloon."
+    },
+    {
+      "uid": "u1636",
+      "importance": "incidental",
+      "reason": "Isolated overlap before play resumes.",
+      "marked": false,
+      "cleanedSpans": [
+        "He's"
+      ],
+      "preparedSourceQuotation": "[u1636 | 02:18:35.500-02:18:36.730 | Riswynn] He's",
+      "preparedSourceContextBefore": [
+        "[u1634 | 02:18:27.690-02:18:30.039 | DM] This is the best I could do",
+        "[u1635 | 02:18:30.700-02:18:35.259 | Rothfis] uh your two hundred iterations are uh are appreciated."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1637 | 02:19:10.559-02:19:12.000 | DM] okay.",
+        "[u1638 | 02:19:12.240-02:19:17.670 | DM] So you leave delves the mad priests cave"
+      ],
+      "cleanedWording": "[u1636 | 02:18:35.500-02:18:36.730 | Riswynn] He's"
+    },
+    {
+      "uid": "u1664",
+      "importance": "material",
+      "reason": "Humanoid ghost’s class/type descriptor unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "a of of some sort"
+      ],
+      "preparedSourceQuotation": "[u1664 | 02:21:42.590-02:21:55.459 | DM] one like almost looks like a human, a of of some sort carrying a staff, and there's like a vague sort of sense of fire around its head.",
+      "preparedSourceContextBefore": [
+        "[u1662 | 02:21:24.520-02:21:27.729 | DM] You can see one that looks like",
+        "[u1663 | 02:21:28.020-02:21:42.419 | DM] that's sort of vaguely humanoid, but has like hanging off of its arms. It almost look like there's waterfalls pouring down off of its arms. There's one that looks"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1665 | 02:21:55.950-02:21:56.980 | Unknown] Um,",
+        "[u1666 | 02:21:57.310-02:22:00.360 | DM] there's one that looks uh"
+      ],
+      "cleanedWording": "[u1664 | 02:21:42.590-02:21:55.459 | DM] one like almost looks like a human, [[a of of some sort]] carrying a staff, and there's like a vague sort of sense of fire around its head."
+    },
+    {
+      "uid": "u1670",
+      "importance": "material",
+      "reason": "Ghost appearance fragment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "found it"
+      ],
+      "preparedSourceQuotation": "[u1670 | 02:22:14.280-02:22:15.369 | DM] found it.",
+      "preparedSourceContextBefore": [
+        "[u1668 | 02:22:02.500-02:22:06.859 | DM] colors like swirling liquid almost.",
+        "[u1669 | 02:22:08.080-02:22:11.880 | DM] There's one that looks like a"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1671 | 02:22:16.560-02:22:32.230 | DM] It almost. It almost looks like it as you gaze into it like there's a tavern in the middle of it, like some massive dwarven city reflected in the in the center of its chest.",
+        "[u1672 | 02:22:36.450-02:22:40.529 | DM] They seem to be moving around kind of aimlessly around,"
+      ],
+      "cleanedWording": "[u1670 | 02:22:14.280-02:22:15.369 | DM] [[found it]]."
+    },
+    {
+      "uid": "u1761",
+      "importance": "material",
+      "reason": "Proposal concerning ghost negotiation unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "Did you sign the ghost cheek"
+      ],
+      "preparedSourceQuotation": "[u1761 | 02:30:39.840-02:30:42.260 | Thror] Did you sign the ghost cheek.",
+      "preparedSourceContextBefore": [
+        "[u1759 | 02:30:31.430-02:30:34.119 | Thror] Maybe we can negotiate with the ghosts",
+        "[u1760 | 02:30:34.780-02:30:37.900 | Rothfis] negotiate. I don't think so."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1762 | 02:30:42.270-02:30:43.619 | Rothfis] I",
+        "[u1763 | 02:30:47.810-02:30:50.050 | Riswynn] all right. I've been,"
+      ],
+      "cleanedWording": "[u1761 | 02:30:39.840-02:30:42.260 | Thror] [[Did you sign the ghost cheek]]."
+    },
+    {
+      "uid": "u1807",
+      "importance": "material",
+      "reason": "Short in-character appeal unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "Don’t blame"
+      ],
+      "preparedSourceQuotation": "[u1807 | 02:34:40.460-02:34:41.979 | Thror] Don't blame",
+      "preparedSourceContextBefore": [
+        "[u1805 | 02:34:29.950-02:34:33.510 | Thror] Okay, let's stop walking",
+        "[u1806 | 02:34:34.030-02:34:38.839 | Thror] and just raise a hand in greeting, and i'll say we seek passage."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1808 | 02:34:42.260-02:34:44.300 | DM] keep approaching.",
+        "[u1809 | 02:34:45.140-02:34:48.079 | DM] They don't seem to respond to your"
+      ],
+      "cleanedWording": "[u1807 | 02:34:40.460-02:34:41.979 | Thror] [[Don’t blame]]"
+    },
+    {
+      "uid": "u1812",
+      "importance": "incidental",
+      "reason": "Overlapping fragment in ghost description.",
+      "marked": false,
+      "cleanedSpans": [
+        "by you"
+      ],
+      "preparedSourceQuotation": "[u1812 | 02:35:01.960-02:35:03.060 | Unknown] by you",
+      "preparedSourceContextBefore": [
+        "[u1810 | 02:34:48.730-02:34:53.700 | DM] but as now as you're close to them, you can see, like",
+        "[u1811 | 02:34:54.300-02:35:01.789 | DM] some of them, like the one that from a distance look like kind of swirling one. Or you can see this is like it's actually like almost"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1813 | 02:35:03.070-02:35:05.909 | DM] shifting form quickly. Um!",
+        "[u1814 | 02:35:06.470-02:35:09.529 | DM] Ah, between sort of"
+      ],
+      "cleanedWording": "[u1812 | 02:35:01.960-02:35:03.060 | Unknown] by you"
+    },
+    {
+      "uid": "u1830",
+      "importance": "incidental",
+      "reason": "Unclear opener; instruction to show chalice clear.",
+      "marked": true,
+      "cleanedSpans": [
+        "this"
+      ],
+      "preparedSourceQuotation": "[u1830 | 02:36:35.780-02:36:38.510 | Thror] this and show the the challenge",
+      "preparedSourceContextBefore": [
+        "[u1828 | 02:36:30.200-02:36:34.089 | Riswynn] The ghost of the ghosts of Dwarves dumb's past.",
+        "[u1829 | 02:36:34.100-02:36:35.470 | Rothfis] Yeah,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1831 | 02:36:40.070-02:36:43.099 | Riswynn] All right. I'm. Sure them the jealous",
+        "[u1832 | 02:36:44.590-02:36:46.199 | DM] Ah,"
+      ],
+      "cleanedWording": "[u1830 | 02:36:35.780-02:36:38.510 | Thror] [[this]] and show the, the chalice"
+    },
+    {
+      "uid": "u1860",
+      "importance": "material",
+      "reason": "Run-to-door declaration opener unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "We check the door"
+      ],
+      "preparedSourceQuotation": "[u1860 | 02:38:40.810-02:38:44.689 | Rothfis] We check the door, and I start",
+      "preparedSourceContextBefore": [
+        "[u1858 | 02:38:20.720-02:38:30.240 | Rothfis] Did they have the same necrotic aura around them. No, Oh, thank goodness, it's a ghost! I can budge",
+        "[u1859 | 02:38:32.550-02:38:40.229 | Rothfis] i'll! I'll yell down from the sky. Looks like they're about to have you surrounded. Perhaps just make a run for it."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1861 | 02:38:44.700-02:38:53.760 | Rothfis] all right. So they they close in. Rizman begins to speak. What is your,",
+        "[u1862 | 02:38:54.140-02:38:55.740 | Unknown] so I can just check."
+      ],
+      "cleanedWording": "[u1860 | 02:38:40.810-02:38:44.689 | Rothfis] [[We check the door]], and I start"
+    },
+    {
+      "uid": "u1869",
+      "importance": "incidental",
+      "reason": "Favorite beer/sweat-ghost banter unclear; remaining warrior description recoverable.",
+      "marked": true,
+      "cleanedSpans": [
+        "my two favorite beer in this twenty one"
+      ],
+      "preparedSourceQuotation": "[u1869 | 02:39:28.510-02:39:39.070 | Rothfis] all right, my two favorite beer in this twenty one that looks like a sort of Bourbon warrior,",
+      "preparedSourceContextBefore": [
+        "[u1867 | 02:39:21.930-02:39:24.390 | DM] Um,",
+        "[u1868 | 02:39:24.400-02:39:28.329 | DM] the the five that remain are the beer. One"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1870 | 02:39:39.480-02:39:44.940 | DM] one that one that's from which you can hear the faint sound of bells.",
+        "[u1871 | 02:39:45.110-02:39:48.400 | DM] Then one that"
+      ],
+      "cleanedWording": "[u1869 | 02:39:28.510-02:39:39.070 | Rothfis] all right, [[my two favorite beer in this twenty one]] that looks like a sort of dwarven warrior,"
+    },
+    {
+      "uid": "u1890",
+      "importance": "incidental",
+      "reason": "Hit-reaction word/name unclear; target and roll clear.",
+      "marked": true,
+      "cleanedSpans": [
+        "everyone"
+      ],
+      "preparedSourceQuotation": "[u1890 | 02:41:17.770-02:41:21.420 | Riswynn] Whoa! Twenty-three It's very hard to hit everyone.",
+      "preparedSourceContextBefore": [
+        "[u1888 | 02:41:09.200-02:41:14.040 | DM] two of them are gonna swing at rizwin.",
+        "[u1889 | 02:41:14.450-02:41:17.380 | DM] Um! One of them hits"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1891 | 02:41:21.970-02:41:25.630 | DM] You take twelve points of the",
+        "[u1892 | 02:41:26.330-02:41:30.470 | DM] the chronic damage, and you have to make any constitution saving. So you,"
+      ],
+      "cleanedWording": "[u1890 | 02:41:17.770-02:41:21.420 | Riswynn] Whoa! Twenty-three It's very hard to hit [[everyone]]."
+    },
+    {
+      "uid": "u1925",
+      "importance": "incidental",
+      "reason": "Attention-getting fragment; next unit addresses Merash.",
+      "marked": true,
+      "cleanedSpans": [
+        "Hey? Loss"
+      ],
+      "preparedSourceQuotation": "[u1925 | 02:44:28.250-02:44:29.599 | Riswynn] Hey? Loss",
+      "preparedSourceContextBefore": [
+        "[u1923 | 02:44:17.790-02:44:18.850 | DM] But",
+        "[u1924 | 02:44:21.340-02:44:23.769 | DM] yeah, there's nothing else to observe."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1926 | 02:44:29.850-02:44:31.959 | Riswynn] How beat up, are you, Marish?",
+        "[u1927 | 02:44:32.690-02:44:39.329 | Merash] I'm. Actually, i'm seventy, five out of eighty, four. So i'm doing. Okay,"
+      ],
+      "cleanedWording": "[u1925 | 02:44:28.250-02:44:29.599 | Riswynn] [[Hey? Loss]]"
+    },
+    {
+      "uid": "u1929",
+      "importance": "incidental",
+      "reason": "Reaction to HP report; figures explicit.",
+      "marked": true,
+      "cleanedSpans": [
+        "He’ll then"
+      ],
+      "preparedSourceQuotation": "[u1929 | 02:44:41.560-02:44:42.830 | Merash] He'll then.",
+      "preparedSourceContextBefore": [
+        "[u1927 | 02:44:32.690-02:44:39.329 | Merash] I'm. Actually, i'm seventy, five out of eighty, four. So i'm doing. Okay,",
+        "[u1928 | 02:44:40.430-02:44:41.550 | Unknown] Eight."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1930 | 02:44:42.880-02:44:43.930 | Unknown] Yeah,",
+        "[u1931 | 02:44:47.640-02:44:52.229 | Riswynn] my new Max hit points of not very high."
+      ],
+      "cleanedWording": "[u1929 | 02:44:41.560-02:44:42.830 | Merash] [[He’ll then]]."
+    },
+    {
+      "uid": "u1932",
+      "importance": "material",
+      "reason": "Possibly missing negation in question about maximum HP; retain uncertainty.",
+      "marked": true,
+      "cleanedSpans": [
+        "I know how"
+      ],
+      "preparedSourceQuotation": "[u1932 | 02:44:53.470-02:45:02.670 | Riswynn] Yeah, I'm doing it. Okay. I have a portion of healing. If that will be helpful. I know how to reverse the Max hit points thing.",
+      "preparedSourceContextBefore": [
+        "[u1930 | 02:44:42.880-02:44:43.930 | Unknown] Yeah,",
+        "[u1931 | 02:44:47.640-02:44:52.229 | Riswynn] my new Max hit points of not very high."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1933 | 02:45:02.680-02:45:09.439 | Riswynn] Yeah, it's gonna take a long rest. That's the only way to do it. Yeah, that's what I thought.",
+        "[u1934 | 02:45:11.610-02:45:14.179 | Riswynn] So let's just go down the stairs."
+      ],
+      "cleanedWording": "[u1932 | 02:44:53.470-02:45:02.670 | Riswynn] Yeah, I'm doing it. Okay. I have a potion of healing. If that will be helpful. [[I know how]] to reverse the Max hit points thing."
+    },
+    {
+      "uid": "u1940",
+      "importance": "incidental",
+      "reason": "Size modifier unclear; enlarged status and duration explicit.",
+      "marked": true,
+      "cleanedSpans": [
+        "at full size"
+      ],
+      "preparedSourceQuotation": "[u1940 | 02:45:43.830-02:45:47.059 | Rothfis] at full size. I have been enlarged",
+      "preparedSourceContextBefore": [
+        "[u1938 | 02:45:21.480-02:45:33.930 | Rothfis] But before we head down the stairs I take out a swirling red potion from my kit, and I pour it into my ale, and my ale starts bubbling, and I go",
+        "[u1939 | 02:45:34.160-02:45:43.799 | Rothfis] Well, I've been waiting a long time to try this out. It's done back, and I just chug this beer, and I grow"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1941 | 02:45:47.250-02:45:51.720 | Rothfis] for one to four hours.",
+        "[u1942 | 02:45:54.110-02:45:58.269 | Rothfis] Four hours of big office. Get ready for it."
+      ],
+      "cleanedWording": "[u1940 | 02:45:43.830-02:45:47.059 | Rothfis] [[at full size]]. I have been enlarged"
+    },
+    {
+      "uid": "u1993",
+      "importance": "material",
+      "reason": "Aside about sending anyone through blocked door unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "colleagues"
+      ],
+      "preparedSourceQuotation": "[u1993 | 02:50:10.290-02:50:14.990 | Merash] I'm not wild about colleagues about anyone going through a door",
+      "preparedSourceContextBefore": [
+        "[u1991 | 02:49:48.910-02:49:50.080 | Thror] another hemp.",
+        "[u1992 | 02:49:50.390-02:49:52.059 | Thror] Maybe there's something in there."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1994 | 02:50:15.000-02:50:15.970 | Merash] that",
+        "[u1995 | 02:50:16.400-02:50:19.830 | Riswynn] they can't do we necessarily access"
+      ],
+      "cleanedWording": "[u1993 | 02:50:10.290-02:50:14.990 | Merash] I'm not wild about [[colleagues]] about anyone going through a door"
+    },
+    {
+      "uid": "u2001",
+      "importance": "incidental",
+      "reason": "Trailing enlarged PC name/joke; Rothfis explicitly enlarged.",
+      "marked": true,
+      "cleanedSpans": [
+        "This"
+      ],
+      "preparedSourceQuotation": "[u2001 | 02:50:40.790-02:50:45.520 | Riswynn] sturdy, dwarven warriors plus ah plus giant. This:",
+      "preparedSourceContextBefore": [
+        "[u1999 | 02:50:32.570-02:50:35.209 | Riswynn] enough strength to just force it?",
+        "[u2000 | 02:50:38.620-02:50:40.779 | Riswynn] Yeah,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2002 | 02:50:45.830-02:50:51.320 | Rothfis] Yeah, I've got the vantage on strength checks. But i'm not very strong to begin with.",
+        "[u2003 | 02:50:53.360-02:50:56.140 | Thror] Got some strength. Yeah,"
+      ],
+      "cleanedWording": "[u2001 | 02:50:40.790-02:50:45.520 | Riswynn] sturdy, dwarven warriors plus ah plus giant [[This]]:"
+    },
+    {
+      "uid": "u2006",
+      "importance": "incidental",
+      "reason": "Strength-attempt joke/prompt; Rothfis volunteers clearly.",
+      "marked": true,
+      "cleanedSpans": [
+        "You’re only big ones"
+      ],
+      "preparedSourceQuotation": "[u2006 | 02:51:04.120-02:51:07.360 | Rothfis] You're only big ones.",
+      "preparedSourceContextBefore": [
+        "[u2004 | 02:50:58.420-02:50:59.550 | DM] okay.",
+        "[u2005 | 02:50:59.710-02:51:01.900 | DM] Who's going to? Who's going to attempt"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2007 | 02:51:11.060-02:51:12.490 | Rothfis] Ah,",
+        "[u2008 | 02:51:13.360-02:51:15.629 | Rothfis] yeah, i'll. I'll try it out."
+      ],
+      "cleanedWording": "[u2006 | 02:51:04.120-02:51:07.360 | Rothfis] [[You’re only big ones]]."
+    },
+    {
+      "uid": "u2045",
+      "importance": "incidental",
+      "reason": "Banter about animated bones; attack explicit.",
+      "marked": true,
+      "cleanedSpans": [
+        "I don’t normally"
+      ],
+      "preparedSourceQuotation": "[u2045 | 02:54:16.210-02:54:19.380 | Thror] I don't normally. Do that.",
+      "preparedSourceContextBefore": [
+        "[u2043 | 02:54:05.490-02:54:07.090 | DM] and just stop",
+        "[u2044 | 02:54:13.530-02:54:15.420 | Rothfis] You'll sell that right."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2046 | 02:54:19.830-02:54:22.450 | Riswynn] Hmm. Attack bones.",
+        "[u2047 | 02:54:23.480-02:54:26.010 | DM] You want to attack the bones. Okay?"
+      ],
+      "cleanedWording": "[u2045 | 02:54:16.210-02:54:19.380 | Thror] [[I don’t normally]]. Do that."
+    },
+    {
+      "uid": "u2066",
+      "importance": "material",
+      "reason": "Strength/door declaration unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "pound or less strength"
+      ],
+      "preparedSourceQuotation": "[u2066 | 02:55:39.400-02:55:43.470 | Riswynn] like pound or less strength. Yes,",
+      "preparedSourceContextBefore": [
+        "[u2064 | 02:55:32.990-02:55:35.040 | Riswynn] Yes, it says twenty one",
+        "[u2065 | 02:55:37.920-02:55:39.389 | DM] you get. So you're going to"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2067 | 02:55:43.480-02:55:47.200 | Riswynn] we're going to. We roll our strength fitting through. Is that how you do it. Ah,",
+        "[u2068 | 02:55:47.480-02:55:51.010 | DM] no, it's well, it's strength check. But yeah, it's the same thing for you."
+      ],
+      "cleanedWording": "[u2066 | 02:55:39.400-02:55:43.470 | Riswynn] like [[pound or less strength]]. Yes,"
+    },
+    {
+      "uid": "u2075",
+      "importance": "incidental",
+      "reason": "Joke about bones hearing unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "real little ones"
+      ],
+      "preparedSourceQuotation": "[u2075 | 02:56:23.640-02:56:31.230 | Rothfis] I was gonna say that that bones probably can't hear, but I think there might be some real little ones in there. So",
+      "preparedSourceContextBefore": [
+        "[u2073 | 02:56:10.190-02:56:14.000 | DM] destroy things easily, but it'll be very loud.",
+        "[u2074 | 02:56:16.620-02:56:22.969 | Riswynn] Well, we're kind of desperate as everybody else just yeah over their ears."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2076 | 02:56:31.840-02:56:34.739 | Rothfis] not so sure.",
+        "[u2077 | 02:56:38.720-02:56:43.850 | DM] So you're using shadow storm. So you're rolling with advantage. Okay,"
+      ],
+      "cleanedWording": "[u2075 | 02:56:23.640-02:56:31.230 | Rothfis] I was gonna say that that bones probably can't hear, but I think there might be some [[real little ones]] in there. So"
+    },
+    {
+      "uid": "u2078",
+      "importance": "incidental",
+      "reason": "Weapon-name preamble; Shatterstorm declaration repeated clearly.",
+      "marked": true,
+      "cleanedSpans": [
+        "maybe you"
+      ],
+      "preparedSourceQuotation": "[u2078 | 02:56:44.020-02:56:46.069 | Riswynn] maybe you shadow, sir.",
+      "preparedSourceContextBefore": [
+        "[u2076 | 02:56:31.840-02:56:34.739 | Rothfis] not so sure.",
+        "[u2077 | 02:56:38.720-02:56:43.850 | DM] So you're using shadow storm. So you're rolling with advantage. Okay,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2079 | 02:56:47.520-02:56:50.420 | Riswynn] So roll another strength check. So",
+        "[u2080 | 02:56:52.550-02:56:54.539 | Riswynn] a little bit less bad"
+      ],
+      "cleanedWording": "[u2078 | 02:56:44.020-02:56:46.069 | Riswynn] [[maybe you]] Shatterstorm."
+    },
+    {
+      "uid": "u2092",
+      "importance": "material",
+      "reason": "Relationship between banging on door and bones’ response garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "They like it being beat upon entirely. Sure"
+      ],
+      "preparedSourceQuotation": "[u2092 | 02:57:39.460-02:57:43.640 | Rothfis] They like it being beat upon entirely. Sure,",
+      "preparedSourceContextBefore": [
+        "[u2090 | 02:57:31.350-02:57:35.529 | Rothfis] when at the moment nothing.",
+        "[u2091 | 02:57:35.960-02:57:39.239 | Rothfis] So they just don't like it, being knocked on loudly."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2093 | 02:57:45.010-02:57:46.250 | DM] I mean",
+        "[u2094 | 02:57:46.570-02:57:49.880 | DM] there are. Does seem to be a little bit more movement around"
+      ],
+      "cleanedWording": "[u2092 | 02:57:39.460-02:57:43.640 | Rothfis] [[They like it being beat upon entirely. Sure]],"
+    },
+    {
+      "uid": "u2141",
+      "importance": "incidental",
+      "reason": "Narration false start; ghost turning explicit.",
+      "marked": true,
+      "cleanedSpans": [
+        "burns"
+      ],
+      "preparedSourceQuotation": "[u2141 | 03:01:24.930-03:01:29.519 | DM] burns this ghost turns, and he floats up into the air slightly",
+      "preparedSourceContextBefore": [
+        "[u2139 | 03:01:12.860-03:01:22.919 | DM] He's, he's looking looking sort of angry, and as you, as the skulls are pulling rizwin down,",
+        "[u2140 | 03:01:23.150-03:01:24.360 | DM] see"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2142 | 03:01:29.970-03:01:31.590 | DM] and",
+        "[u2143 | 03:01:31.630-03:01:35.520 | DM] looks at you as this door bursts open. The"
+      ],
+      "cleanedWording": "[u2141 | 03:01:24.930-03:01:29.519 | DM] [[burns]] this ghost turns, and he floats up into the air slightly"
+    },
+    {
+      "uid": "u2150",
+      "importance": "incidental",
+      "reason": "Isolated overlap while player steps away; Haste request explicit.",
+      "marked": true,
+      "cleanedSpans": [
+        "floor"
+      ],
+      "preparedSourceQuotation": "[u2150 | 03:02:07.190-03:02:08.220 | Unknown] floor.",
+      "preparedSourceContextBefore": [
+        "[u2148 | 03:01:57.620-03:02:04.310 | Thror] if combat starts, the first thing I want to do is to spell haste on the tube fighter,",
+        "[u2149 | 03:02:04.980-03:02:06.340 | DM] I guess. Got it"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2151 | 03:02:12.180-03:02:13.369 | DM] Ah,",
+        "[u2152 | 03:02:14.790-03:02:21.089 | Riswynn] if i'm in danger of being buried. Somebody should like grab the me."
+      ],
+      "cleanedWording": "[u2150 | 03:02:07.190-03:02:08.220 | Unknown] [[floor]]."
+    },
+    {
+      "uid": "u2161",
+      "importance": "incidental",
+      "reason": "Roll-selection aside; strength check and rescue clear.",
+      "marked": true,
+      "cleanedSpans": [
+        "We are wisdom"
+      ],
+      "preparedSourceQuotation": "[u2161 | 03:03:08.340-03:03:09.889 | Merash] We are wisdom. Sorry",
+      "preparedSourceContextBefore": [
+        "[u2159 | 03:02:57.840-03:03:00.600 | DM] That goes kind of laughs",
+        "[u2160 | 03:03:00.870-03:03:03.759 | DM] as you turn, make a strength check."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2162 | 03:03:09.900-03:03:12.189 | DM] you you if you're trying to pull her out.",
+        "[u2163 | 03:03:12.200-03:03:14.039 | Merash] Yeah, I would like to try to pull her out."
+      ],
+      "cleanedWording": "[u2161 | 03:03:08.340-03:03:09.889 | Merash] [[We are wisdom]]. Sorry"
+    },
+    {
+      "uid": "u2165",
+      "importance": "material",
+      "reason": "Description of being pulled from bones garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "some dragon out of the boats"
+      ],
+      "preparedSourceQuotation": "[u2165 | 03:03:17.400-03:03:25.529 | Riswynn] I'm going to pull some dragon out of the boats. They sort of clatter to the ground, kind of still",
+      "preparedSourceContextBefore": [
+        "[u2163 | 03:03:12.200-03:03:14.039 | Merash] Yeah, I would like to try to pull her out.",
+        "[u2164 | 03:03:14.900-03:03:17.389 | Rothfis] Okay, yeah, you pull her out."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2166 | 03:03:25.900-03:03:32.200 | DM] swarming around a little bit. Not completely still, but you yank Rizman into the room.",
+        "[u2167 | 03:03:32.610-03:03:34.290 | DM] So here, let's put."
+      ],
+      "cleanedWording": "[u2165 | 03:03:17.400-03:03:25.529 | Riswynn] I'm going to pull [[some dragon out of the boats]]. They sort of clatter to the ground, kind of still"
+    },
+    {
+      "uid": "u2181",
+      "importance": "material",
+      "reason": "Divine entity or term in summons unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "Parisel"
+      ],
+      "preparedSourceQuotation": "[u2181 | 03:04:29.550-03:04:33.799 | Riswynn] Pilgrim, Firebrand, The Parisel are summoning you",
+      "preparedSourceContextBefore": [
+        "[u2179 | 03:04:24.340-03:04:25.510 | Unknown] Yeah.",
+        "[u2180 | 03:04:25.600-03:04:29.420 | Riswynn] Do we know his last? His family name? Firebrand,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2182 | 03:04:34.930-03:04:37.049 | Riswynn] pulled up the jealous.",
+        "[u2183 | 03:04:39.730-03:04:46.970 | DM] Ah, okay, actually, let's Let's roll initiative to"
+      ],
+      "cleanedWording": "[u2181 | 03:04:29.550-03:04:33.799 | Riswynn] Hagrim, Firebrand, The [[Parisel]] are summoning you"
+    },
+    {
+      "uid": "u2186",
+      "importance": "incidental",
+      "reason": "Banter after enlarged PC trips; no independent event.",
+      "marked": true,
+      "cleanedSpans": [
+        "Thank my aunt, the Dora"
+      ],
+      "preparedSourceQuotation": "[u2186 | 03:05:02.290-03:05:04.490 | Rothfis] Thank my aunt, the Dora coming in.",
+      "preparedSourceContextBefore": [
+        "[u2184 | 03:04:47.020-03:04:48.490 | Merash] It's really terrifying",
+        "[u2185 | 03:04:55.640-03:05:00.920 | Rothfis] trip over my own two big feet. Haven't. Been this large before."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2187 | 03:05:13.920-03:05:15.430 | DM] Ah,",
+        "[u2188 | 03:05:16.020-03:05:18.190 | DM] okay, sorry. Hold on, I get it."
+      ],
+      "cleanedWording": "[u2186 | 03:05:02.290-03:05:04.490 | Rothfis] [[Thank my aunt, the Dora]] coming in."
+    },
+    {
+      "uid": "u2207",
+      "importance": "material",
+      "reason": "Weapon attack/action explanation missing word; preserve gap.",
+      "marked": true,
+      "cleanedSpans": [
+        "make a weapon"
+      ],
+      "preparedSourceQuotation": "[u2207 | 03:06:34.240-03:06:38.100 | DM] use it because you could cast a spell and make a weapon",
+      "preparedSourceContextBefore": [
+        "[u2205 | 03:06:26.490-03:06:31.249 | Rothfis] Do you think, Kate, do you think riz one would want it.",
+        "[u2206 | 03:06:31.620-03:06:34.160 | Rothfis] I mean,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2208 | 03:06:38.870-03:06:40.790 | DM] with your extra string.",
+        "[u2209 | 03:06:40.800-03:06:46.139 | Rothfis] On the other hand, Well, then, you could do the spell as the haste action, and do two attacks with."
+      ],
+      "cleanedWording": "[u2207 | 03:06:34.240-03:06:38.100 | DM] use it because you could cast a spell and [[make a weapon]]"
+    },
+    {
+      "uid": "u2212",
+      "importance": "material",
+      "reason": "Haste/weapon damage comparison unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "main plate attack"
+      ],
+      "preparedSourceQuotation": "[u2212 | 03:06:58.800-03:07:01.689 | Riswynn] I think, the main plate attack with her",
+      "preparedSourceContextBefore": [
+        "[u2210 | 03:06:46.160-03:06:49.490 | Rothfis] She doesn't get to attack,",
+        "[u2211 | 03:06:49.500-03:06:56.740 | DM] and you can't cast a spell with with your haste. Action, anyway. But you could cast a spell with your normal action, and then you,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2213 | 03:07:01.700-03:07:06.890 | Riswynn] shatter storm as far as damage is concerned past the Giz when it's probably better, but",
+        "[u2214 | 03:07:06.900-03:07:14.329 | Rothfis] it gives you a bit more survivability because it gives you the plus the Ac. And resolution already has a really high Ac:"
+      ],
+      "cleanedWording": "[u2212 | 03:06:58.800-03:07:01.689 | Riswynn] I think, the [[main plate attack]] with her"
+    },
+    {
+      "uid": "u2213",
+      "importance": "material",
+      "reason": "Haste/weapon damage comparison unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "past the Giz when"
+      ],
+      "preparedSourceQuotation": "[u2213 | 03:07:01.700-03:07:06.890 | Riswynn] shatter storm as far as damage is concerned past the Giz when it's probably better, but",
+      "preparedSourceContextBefore": [
+        "[u2211 | 03:06:49.500-03:06:56.740 | DM] and you can't cast a spell with with your haste. Action, anyway. But you could cast a spell with your normal action, and then you,",
+        "[u2212 | 03:06:58.800-03:07:01.689 | Riswynn] I think, the main plate attack with her"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2214 | 03:07:06.900-03:07:14.329 | Rothfis] it gives you a bit more survivability because it gives you the plus the Ac. And resolution already has a really high Ac:",
+        "[u2215 | 03:07:16.330-03:07:24.989 | Rothfis] Well, I don't know. I'm like i'm big. So I've got some some new fun thing if i'm big and fast, That's wild."
+      ],
+      "cleanedWording": "[u2213 | 03:07:01.700-03:07:06.890 | Riswynn] Shatterstorm as far as damage is concerned [[past the Giz when]] it's probably better, but"
+    },
+    {
+      "uid": "u2216",
+      "importance": "material",
+      "reason": "Advisors’ action or direction garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "because of his two advisors"
+      ],
+      "preparedSourceQuotation": "[u2216 | 03:07:26.990-03:07:42.520 | Riswynn] Okay? Well at the moment, as Pilgrim gets up and shouts because of his two advisors,",
+      "preparedSourceContextBefore": [
+        "[u2214 | 03:07:06.900-03:07:14.329 | Rothfis] it gives you a bit more survivability because it gives you the plus the Ac. And resolution already has a really high Ac:",
+        "[u2215 | 03:07:16.330-03:07:24.989 | Rothfis] Well, I don't know. I'm like i'm big. So I've got some some new fun thing if i'm big and fast, That's wild."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2217 | 03:07:42.750-03:07:48.440 | Rothfis] i'm down as well from from a previous ghost at the beginning.",
+        "[u2218 | 03:07:49.180-03:07:52.200 | Riswynn] Right five forward,"
+      ],
+      "cleanedWording": "[u2216 | 03:07:26.990-03:07:42.520 | Riswynn] Okay? Well at the moment, as Hagrim gets up and shouts [[because of his two advisors]],"
+    },
+    {
+      "uid": "u2218",
+      "importance": "incidental",
+      "reason": "Short movement/initiative fragment; nearby narration specifies actions.",
+      "marked": true,
+      "cleanedSpans": [
+        "Right five forward"
+      ],
+      "preparedSourceQuotation": "[u2218 | 03:07:49.180-03:07:52.200 | Riswynn] Right five forward,",
+      "preparedSourceContextBefore": [
+        "[u2216 | 03:07:26.990-03:07:42.520 | Riswynn] Okay? Well at the moment, as Pilgrim gets up and shouts because of his two advisors,",
+        "[u2217 | 03:07:42.750-03:07:48.440 | Rothfis] i'm down as well from from a previous ghost at the beginning."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2219 | 03:07:56.220-03:07:57.770 | DM] and",
+        "[u2220 | 03:07:58.610-03:08:00.249 | Riswynn] it's very good."
+      ],
+      "cleanedWording": "[u2218 | 03:07:49.180-03:07:52.200 | Riswynn] [[Right five forward]],"
+    },
+    {
+      "uid": "u2230",
+      "importance": "incidental",
+      "reason": "Extra number before explicit 22 damage, repeated at u2233.",
+      "marked": true,
+      "cleanedSpans": [
+        "ninety"
+      ],
+      "preparedSourceQuotation": "[u2230 | 03:08:40.310-03:08:46.270 | DM] ninety twenty two points of necronic damage and you have to make a Constitution saving throw.",
+      "preparedSourceContextBefore": [
+        "[u2228 | 03:08:33.450-03:08:36.219 | DM] uh which is a twenty-five to head",
+        "[u2229 | 03:08:36.290-03:08:39.980 | Merash] yeah that is that that is"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2231 | 03:08:46.290-03:08:49.150 | Merash] Oh, no,",
+        "[u2232 | 03:08:51.710-03:08:52.860 | Unknown] bye."
+      ],
+      "cleanedWording": "[u2230 | 03:08:40.310-03:08:46.270 | DM] [[ninety]] twenty-two points of necrotic damage and you have to make a Constitution saving throw."
+    },
+    {
+      "uid": "u2261",
+      "importance": "incidental",
+      "reason": "Overlapping preamble; Merash touched by ghost clear.",
+      "marked": true,
+      "cleanedSpans": [
+        "Can’t you?"
+      ],
+      "preparedSourceQuotation": "[u2261 | 03:10:50.190-03:10:54.890 | Rothfis] Can't you? A mirage got touched by a ghost, And it was not nice.",
+      "preparedSourceContextBefore": [
+        "[u2259 | 03:10:41.100-03:10:45.799 | Riswynn] hasn't gone, so we couldn't paste it our point. He didn't miss anything.",
+        "[u2260 | 03:10:45.810-03:10:49.989 | Rothfis] You didn't miss anything."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2262 | 03:10:54.900-03:10:55.390 | Unknown] It's it",
+        "[u2263 | 03:10:55.400-03:10:57.310 | Merash] it was not good, it was bad."
+      ],
+      "cleanedWording": "[u2261 | 03:10:50.190-03:10:54.890 | Rothfis] [[Can’t you?]] Merash got touched by a ghost, And it was not nice."
+    },
+    {
+      "uid": "u2270",
+      "importance": "incidental",
+      "reason": "Spell-lookup aside; chosen Wall of Fire clear.",
+      "marked": true,
+      "cleanedSpans": [
+        "Where is it ready"
+      ],
+      "preparedSourceQuotation": "[u2270 | 03:11:23.140-03:11:24.920 | Riswynn] Where is it ready?",
+      "preparedSourceContextBefore": [
+        "[u2268 | 03:11:12.210-03:11:13.390 | Riswynn] Mm-hmm?",
+        "[u2269 | 03:11:14.610-03:11:16.110 | Riswynn] Um!"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2271 | 03:11:26.510-03:11:28.080 | Riswynn] Um!",
+        "[u2272 | 03:11:33.450-03:11:37.390 | Riswynn] Can I put like a wall of fire around us."
+      ],
+      "cleanedWording": "[u2270 | 03:11:23.140-03:11:24.920 | Riswynn] [[Where is it ready]]?"
+    },
+    {
+      "uid": "u2290",
+      "importance": "material",
+      "reason": "Strategy decision verb unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "guess that strategy"
+      ],
+      "preparedSourceQuotation": "[u2290 | 03:12:57.240-03:12:59.830 | Riswynn] So I can guess that strategy.",
+      "preparedSourceContextBefore": [
+        "[u2288 | 03:12:45.700-03:12:53.049 | Rothfis] we could. We could fight some things first and something second, if the wall was fully blocking.",
+        "[u2289 | 03:12:54.400-03:12:55.530 | DM] Yeah."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2291 | 03:13:00.770-03:13:02.599 | DM] Okay, wow,",
+        "[u2292 | 03:13:03.830-03:13:06.719 | DM] I'm making the wall right now. But"
+      ],
+      "cleanedWording": "[u2290 | 03:12:57.240-03:12:59.830 | Riswynn] So I can [[guess that strategy]]."
+    },
+    {
+      "uid": "u2325",
+      "importance": "material",
+      "reason": "Luck feature applicability clause garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "one for a d like"
+      ],
+      "preparedSourceQuotation": "[u2325 | 03:15:25.290-03:15:29.770 | Merash] It's immediately after you rule A. D twenty. Oh, but that's one for a d like. Yes,",
+      "preparedSourceContextBefore": [
+        "[u2323 | 03:15:19.310-03:15:21.110 | Merash] uh! Can I",
+        "[u2324 | 03:15:21.590-03:15:24.609 | Merash] spend a luck point to"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2326 | 03:15:29.780-03:15:32.089 | DM] can I? That That counts? Yeah,",
+        "[u2327 | 03:15:32.100-03:15:36.970 | DM] that's any time. Okay, twenty. Let me send a left point and we roll that one."
+      ],
+      "cleanedWording": "[u2325 | 03:15:25.290-03:15:29.770 | Merash] It's immediately after you roll a d20. Oh, but that's [[one for a d like]]. Yes,"
+    },
+    {
+      "uid": "u2329",
+      "importance": "incidental",
+      "reason": "Roll-quality aside; fifteen hit confirmed.",
+      "marked": true,
+      "cleanedSpans": [
+        "originally better"
+      ],
+      "preparedSourceQuotation": "[u2329 | 03:15:38.500-03:15:42.080 | Merash] It's originally better. Fifteen hits. Yep.",
+      "preparedSourceContextBefore": [
+        "[u2327 | 03:15:32.100-03:15:36.970 | DM] that's any time. Okay, twenty. Let me send a left point and we roll that one.",
+        "[u2328 | 03:15:36.980-03:15:38.490 | DM] Yup! Go for it."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2330 | 03:15:42.090-03:15:43.569 | Merash] Oh, it's It's it.",
+        "[u2331 | 03:15:46.750-03:15:55.630 | DM] Okay. So as marriage slams into this ghost twice with her Mall. It looks."
+      ],
+      "cleanedWording": "[u2329 | 03:15:38.500-03:15:42.080 | Merash] It's [[originally better]]. Fifteen hits. Yep."
+    },
+    {
+      "uid": "u2346",
+      "importance": "incidental",
+      "reason": "Abandoned table fragment after Haste.",
+      "marked": false,
+      "cleanedSpans": [
+        "there's all the various."
+      ],
+      "preparedSourceQuotation": "[u2346 | 03:16:48.670-03:16:50.389 | Thror] there's all the various.",
+      "preparedSourceContextBefore": [
+        "[u2344 | 03:16:44.520-03:16:46.020 | DM] that. Answer your turn.",
+        "[u2345 | 03:16:46.580-03:16:48.510 | Thror] Yup,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2347 | 03:16:50.400-03:16:51.490 | Merash] Here's our",
+        "[u2348 | 03:16:52.410-03:16:54.249 | Thror] It's A."
+      ],
+      "cleanedWording": "[u2346 | 03:16:48.670-03:16:50.389 | Thror] there's all the various."
+    },
+    {
+      "uid": "u2347",
+      "importance": "incidental",
+      "reason": "Abandoned table fragment after Haste.",
+      "marked": false,
+      "cleanedSpans": [
+        "Here's our"
+      ],
+      "preparedSourceQuotation": "[u2347 | 03:16:50.400-03:16:51.490 | Merash] Here's our",
+      "preparedSourceContextBefore": [
+        "[u2345 | 03:16:46.580-03:16:48.510 | Thror] Yup,",
+        "[u2346 | 03:16:48.670-03:16:50.389 | Thror] there's all the various."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2348 | 03:16:52.410-03:16:54.249 | Thror] It's A.",
+        "[u2349 | 03:16:54.590-03:16:55.989 | DM] You're up"
+      ],
+      "cleanedWording": "[u2347 | 03:16:50.400-03:16:51.490 | Merash] Here's our"
+    },
+    {
+      "uid": "u2348",
+      "importance": "incidental",
+      "reason": "Abandoned table fragment after Haste.",
+      "marked": false,
+      "cleanedSpans": [
+        "It's A."
+      ],
+      "preparedSourceQuotation": "[u2348 | 03:16:52.410-03:16:54.249 | Thror] It's A.",
+      "preparedSourceContextBefore": [
+        "[u2346 | 03:16:48.670-03:16:50.389 | Thror] there's all the various.",
+        "[u2347 | 03:16:50.400-03:16:51.490 | Merash] Here's our"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2349 | 03:16:54.590-03:16:55.989 | DM] You're up",
+        "[u2350 | 03:16:58.410-03:17:00.179 | DM] Giant Rappers"
+      ],
+      "cleanedWording": "[u2348 | 03:16:52.410-03:16:54.249 | Thror] It's A."
+    },
+    {
+      "uid": "u2360",
+      "importance": "material",
+      "reason": "Extra attack declaration garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "regular turns out an attack bad"
+      ],
+      "preparedSourceQuotation": "[u2360 | 03:17:42.720-03:17:53.310 | Rothfis] regular turns out an attack bad with the big, rough fist on top of that, and then i'll do. How's it doing It's still.",
+      "preparedSourceContextBefore": [
+        "[u2358 | 03:17:30.340-03:17:34.539 | Rothfis] and I will do.",
+        "[u2359 | 03:17:35.050-03:17:42.469 | Rothfis] The flurry of blows. To do two more is Oh, no! I actually get more attacks. Let's go"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2361 | 03:17:54.900-03:17:57.260 | Rothfis] I'll do a flurry of blows.",
+        "[u2362 | 03:17:58.020-03:18:00.230 | Rothfis] So there is one,"
+      ],
+      "cleanedWording": "[u2360 | 03:17:42.720-03:17:53.310 | Rothfis] [[regular turns out an attack bad]] with the big, Rothfis on top of that, and then i'll do. How's it doing It's still."
+    },
+    {
+      "uid": "u2385",
+      "importance": "incidental",
+      "reason": "Technical interruption before “Can you hear me”.",
+      "marked": false,
+      "cleanedSpans": [
+        "It was this: Okay,"
+      ],
+      "preparedSourceQuotation": "[u2385 | 03:19:58.150-03:20:00.390 | DM] It was this: Okay,",
+      "preparedSourceContextBefore": [
+        "[u2383 | 03:19:36.410-03:19:38.330 | DM] That is a",
+        "[u2384 | 03:19:47.350-03:19:49.739 | DM] so it does not grab you."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2386 | 03:20:00.400-03:20:02.429 | DM] Um, Can you hear me?",
+        "[u2387 | 03:20:02.890-03:20:05.410 | Riswynn] You've got that for a sec. But yeah, okay,"
+      ],
+      "cleanedWording": "[u2385 | 03:19:58.150-03:20:00.390 | DM] It was this: Okay,"
+    },
+    {
+      "uid": "u2406",
+      "importance": "incidental",
+      "reason": "Table/technical fragment before resumed narration.",
+      "marked": false,
+      "cleanedSpans": [
+        "Oh, it's it Here"
+      ],
+      "preparedSourceQuotation": "[u2406 | 03:21:49.450-03:21:50.789 | Unknown] Oh, it's it Here",
+      "preparedSourceContextBefore": [
+        "[u2404 | 03:21:41.550-03:21:42.710 | DM] um.",
+        "[u2405 | 03:21:43.410-03:21:45.909 | DM] Yeah, you know, through the uh."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2407 | 03:21:53.390-03:21:57.939 | DM] you do Here, I'm yelling through the wall.",
+        "[u2408 | 03:21:59.650-03:22:01.039 | DM] Go!"
+      ],
+      "cleanedWording": "[u2406 | 03:21:49.450-03:21:50.789 | Unknown] Oh, it's it Here"
+    },
+    {
+      "uid": "u2410",
+      "importance": "material",
+      "reason": "Possible in-character utterance unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "She was in a few years"
+      ],
+      "preparedSourceQuotation": "[u2410 | 03:22:04.020-03:22:06.100 | Unknown] She was in a few years,",
+      "preparedSourceContextBefore": [
+        "[u2408 | 03:21:59.650-03:22:01.039 | DM] Go!",
+        "[u2409 | 03:22:01.620-03:22:03.770 | DM] I am through with you."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2411 | 03:22:07.700-03:22:10.789 | DM] but you can't see anything that's happening behind the wrong,",
+        "[u2412 | 03:22:11.290-03:22:13.119 | DM] so resident is up,"
+      ],
+      "cleanedWording": "[u2410 | 03:22:04.020-03:22:06.100 | Unknown] [[She was in a few years]],"
+    },
+    {
+      "uid": "u2420",
+      "importance": "incidental",
+      "reason": "Spell lookup/turn aside; Spiritual Weapon declared next.",
+      "marked": true,
+      "cleanedSpans": [
+        "There’s your next"
+      ],
+      "preparedSourceQuotation": "[u2420 | 03:22:47.450-03:22:51.520 | Riswynn] um. There's your next",
+      "preparedSourceContextBefore": [
+        "[u2418 | 03:22:37.840-03:22:40.490 | Riswynn] do my hammer thing.",
+        "[u2419 | 03:22:41.680-03:22:45.039 | Riswynn] I'm going to cast"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2421 | 03:23:01.640-03:23:03.140 | Riswynn] he's",
+        "[u2422 | 03:23:05.030-03:23:07.689 | Riswynn] going to cast spiritual weapon"
+      ],
+      "cleanedWording": "[u2420 | 03:22:47.450-03:22:51.520 | Riswynn] um. [[There’s your next]]"
+    },
+    {
+      "uid": "u2430",
+      "importance": "material",
+      "reason": "Spiritual Weapon range/name reference unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "criticism"
+      ],
+      "preparedSourceQuotation": "[u2430 | 03:23:42.180-03:23:50.039 | Riswynn] bone. The bones thing because it's within a range of criticism. Right? All right. So that it's gonna roll it. It's thing.",
+      "preparedSourceContextBefore": [
+        "[u2428 | 03:23:34.000-03:23:34.990 | DM] Yeah, it does.",
+        "[u2429 | 03:23:39.090-03:23:41.720 | Riswynn] So I can direct it at the"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2431 | 03:23:53.330-03:23:55.260 | DM] Ah, yep, that",
+        "[u2432 | 03:23:56.810-03:24:00.349 | DM] that hits well, whichever one hits the"
+      ],
+      "cleanedWording": "[u2430 | 03:23:42.180-03:23:50.039 | Riswynn] bone. The bones thing because it's within a range of [[criticism]]. Right? All right. So that it's gonna roll it. its thing."
+    },
+    {
+      "uid": "u2460",
+      "importance": "material",
+      "reason": "Permission about moving through Spiritual Weapon unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "You can do it for us"
+      ],
+      "preparedSourceQuotation": "[u2460 | 03:26:06.770-03:26:08.640 | Riswynn] You can do it for us.",
+      "preparedSourceContextBefore": [
+        "[u2458 | 03:25:54.400-03:25:55.979 | Riswynn] Where is your next?",
+        "[u2459 | 03:26:01.240-03:26:06.700 | Merash] So can I move into what the spiritual weapon currently is, or I have to avoid it."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2461 | 03:26:08.810-03:26:12.879 | Merash] Okay, i'm going to move closer to um the",
+        "[u2462 | 03:26:13.090-03:26:18.449 | Merash] scary purple, glowing dose and swing at it with my mall of the forge."
+      ],
+      "cleanedWording": "[u2460 | 03:26:06.770-03:26:08.640 | Riswynn] [[You can do it for us]]."
+    },
+    {
+      "uid": "u2517",
+      "importance": "material",
+      "reason": "Target count wording unclear; do not assume all targets.",
+      "marked": true,
+      "cleanedSpans": [
+        "any of them"
+      ],
+      "preparedSourceQuotation": "[u2517 | 03:29:27.430-03:29:37.299 | Merash] Everyone in a twenty-foot radius needs to make a Dc. Fifteen deck saving throw. And if I throw it here, it should hit any of them.",
+      "preparedSourceContextBefore": [
+        "[u2515 | 03:29:20.590-03:29:25.939 | Merash] Okay. So for all of the forge when I grow it.",
+        "[u2516 | 03:29:26.250-03:29:27.289 | Merash] A."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2518 | 03:29:40.890-03:29:42.390 | DM] Ah, yeah,",
+        "[u2519 | 03:29:51.290-03:29:52.449 | DM] okay."
+      ],
+      "cleanedWording": "[u2517 | 03:29:27.430-03:29:37.299 | Merash] Everyone in a twenty-foot radius needs to make a DC fifteen Dex saving throw. And if I throw it here, it should hit [[any of them]]."
+    },
+    {
+      "uid": "u2552",
+      "importance": "material",
+      "reason": "Comment about Lightning Bolt/spell interaction unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "lightning for us out"
+      ],
+      "preparedSourceQuotation": "[u2552 | 03:32:12.820-03:32:16.649 | Rothfis] So that was lightning for us out, and um",
+      "preparedSourceContextBefore": [
+        "[u2550 | 03:32:08.770-03:32:10.170 | DM] Okay,",
+        "[u2551 | 03:32:10.440-03:32:12.580 | DM] Um: Roth, P. You're up"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2553 | 03:32:16.970-03:32:18.119 | DM] I come.",
+        "[u2554 | 03:32:18.200-03:32:22.530 | DM] Looks again. Looks around and kind of"
+      ],
+      "cleanedWording": "[u2552 | 03:32:12.820-03:32:16.649 | Rothfis] So that was [[lightning for us out]], and um"
+    },
+    {
+      "uid": "u2555",
+      "importance": "incidental",
+      "reason": "Narrative hesitation before Hagrim’s speech.",
+      "marked": false,
+      "cleanedSpans": [
+        "stack."
+      ],
+      "preparedSourceQuotation": "[u2555 | 03:32:23.090-03:32:23.890 | Unknown] stack.",
+      "preparedSourceContextBefore": [
+        "[u2553 | 03:32:16.970-03:32:18.119 | DM] I come.",
+        "[u2554 | 03:32:18.200-03:32:22.530 | DM] Looks again. Looks around and kind of"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2556 | 03:32:23.900-03:32:29.469 | DM] Why are you fighting? Just leave. Leave me to my pain and misery.",
+        "[u2557 | 03:32:30.730-03:32:32.140 | DM] Rogers."
+      ],
+      "cleanedWording": "[u2555 | 03:32:23.090-03:32:23.890 | Unknown] stack."
+    },
+    {
+      "uid": "u2566",
+      "importance": "material",
+      "reason": "Question about necrotic aura partly garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "correct on him"
+      ],
+      "preparedSourceQuotation": "[u2566 | 03:33:20.120-03:33:22.660 | Rothfis] correct on him,",
+      "preparedSourceContextBefore": [
+        "[u2564 | 03:33:07.360-03:33:12.679 | Rothfis] going to drop down from my twenty feet in the sky",
+        "[u2565 | 03:33:13.240-03:33:20.109 | Rothfis] and and start a punch in this ghost, this one doesn't have a"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2567 | 03:33:23.460-03:33:25.269 | Rothfis] I say, uh,",
+        "[u2568 | 03:33:26.510-03:33:30.519 | Rothfis] I say, is there any of you in there, or is it?"
+      ],
+      "cleanedWording": "[u2566 | 03:33:20.120-03:33:22.660 | Rothfis] [[correct on him]],"
+    },
+    {
+      "uid": "u2592",
+      "importance": "material",
+      "reason": "Range/movement aside garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "historic range"
+      ],
+      "preparedSourceQuotation": "[u2592 | 03:35:21.900-03:35:27.250 | DM] so historic range? Ah, not What's the move?",
+      "preparedSourceContextBefore": [
+        "[u2590 | 03:35:15.310-03:35:19.639 | DM] um Shakespeare's head and sort of points at",
+        "[u2591 | 03:35:19.850-03:35:21.560 | DM] roar. Who"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2593 | 03:35:29.370-03:35:32.569 | DM] That was Sixty foot fly easily a range,",
+        "[u2594 | 03:35:33.220-03:35:35.490 | DM] and he's going to move"
+      ],
+      "cleanedWording": "[u2592 | 03:35:21.900-03:35:27.250 | DM] so [[historic range]]? Ah, not What's the move?"
+    },
+    {
+      "uid": "u2633",
+      "importance": "incidental",
+      "reason": "Saving-throw acknowledgment; no effect and one save clarified.",
+      "marked": true,
+      "cleanedSpans": [
+        "one for your past"
+      ],
+      "preparedSourceQuotation": "[u2633 | 03:38:30.400-03:38:31.690 | Rothfis] one for your past.",
+      "preparedSourceContextBefore": [
+        "[u2631 | 03:38:26.680-03:38:29.389 | Rothfis] Yeah. Oh, sorry. No. He just gets the one. Never mind",
+        "[u2632 | 03:38:29.400-03:38:30.390 | Rothfis] That's fine"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2634 | 03:38:31.700-03:38:33.109 | Rothfis] Yeah, thanks.",
+        "[u2635 | 03:38:33.140-03:38:36.139 | DM] That ends his term Res: when you're up"
+      ],
+      "cleanedWording": "[u2633 | 03:38:30.400-03:38:31.690 | Rothfis] [[one for your past]]."
+    },
+    {
+      "uid": "u2684",
+      "importance": "incidental",
+      "reason": "Attack reaction; hit and movement follow clearly.",
+      "marked": true,
+      "cleanedSpans": [
+        "flash that"
+      ],
+      "preparedSourceQuotation": "[u2684 | 03:41:43.100-03:41:44.719 | Merash] okay flash that",
+      "preparedSourceContextBefore": [
+        "[u2682 | 03:41:40.230-03:41:42.029 | Merash] that, it's not a",
+        "[u2683 | 03:41:42.130-03:41:43.090 | Merash] okay"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2685 | 03:41:45.960-03:41:47.310 | Merash] amazing",
+        "[u2686 | 03:41:47.400-03:41:49.910 | Merash] Um, That was"
+      ],
+      "cleanedWording": "[u2684 | 03:41:43.100-03:41:44.719 | Merash] okay [[flash that]]"
+    },
+    {
+      "uid": "u2688",
+      "importance": "material",
+      "reason": "Sightline through enlarged PC unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "twenty-foot"
+      ],
+      "preparedSourceQuotation": "[u2688 | 03:41:53.310-03:42:02.690 | Merash] and a hit, and then so I can. I'll throw our hand axe at Well, can I see how gr through twenty-foot",
+      "preparedSourceContextBefore": [
+        "[u2686 | 03:41:47.400-03:41:49.910 | Merash] Um, That was",
+        "[u2687 | 03:41:50.430-03:41:52.910 | Merash] movement and haste"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2689 | 03:42:02.700-03:42:05.569 | Merash] you would have? Not really",
+        "[u2690 | 03:42:05.620-03:42:10.110 | Merash] I mean he's not probably half cover behind."
+      ],
+      "cleanedWording": "[u2688 | 03:41:53.310-03:42:02.690 | Merash] and a hit, and then so I can. I'll throw a handaxe at Well, can I see Hagrim through [[twenty-foot]]"
+    },
+    {
+      "uid": "u2690",
+      "importance": "material",
+      "reason": "Cover ruling behind enlarged PC unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "he’s not probably half cover behind"
+      ],
+      "preparedSourceQuotation": "[u2690 | 03:42:05.620-03:42:10.110 | Merash] I mean he's not probably half cover behind.",
+      "preparedSourceContextBefore": [
+        "[u2688 | 03:41:53.310-03:42:02.690 | Merash] and a hit, and then so I can. I'll throw our hand axe at Well, can I see how gr through twenty-foot",
+        "[u2689 | 03:42:02.700-03:42:05.569 | Merash] you would have? Not really"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2691 | 03:42:11.100-03:42:18.589 | Rothfis] Good. Yeah, it's a bit. You might have a bit more movement, too, from your a still.",
+        "[u2692 | 03:42:20.060-03:42:24.089 | DM] Yeah, because remember, he's doubled your movement. So you've got a ton of movement."
+      ],
+      "cleanedWording": "[u2690 | 03:42:05.620-03:42:10.110 | Merash] I mean [[he’s not probably half cover behind]]."
+    },
+    {
+      "uid": "u2702",
+      "importance": "incidental",
+      "reason": "Movement-rule acknowledgment unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "So he says"
+      ],
+      "preparedSourceQuotation": "[u2702 | 03:42:58.710-03:43:01.190 | Merash] Oh, wow, okay. So he says,",
+      "preparedSourceContextBefore": [
+        "[u2700 | 03:42:50.730-03:42:53.490 | DM] So you have haste, doubles your movement,",
+        "[u2701 | 03:42:53.590-03:42:57.470 | DM] so you have fifty, your speed becomes fifty."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2703 | 03:43:01.200-03:43:02.240 | Merash] Okay,",
+        "[u2704 | 03:43:02.390-03:43:04.560 | Merash] Okay, Sorry. I"
+      ],
+      "cleanedWording": "[u2702 | 03:42:58.710-03:43:01.190 | Merash] Oh, wow, okay. [[So he says]],"
+    },
+    {
+      "uid": "u2706",
+      "importance": "incidental",
+      "reason": "End of movement confirmation; enough movement explicitly confirmed.",
+      "marked": true,
+      "cleanedSpans": [
+        "please"
+      ],
+      "preparedSourceQuotation": "[u2706 | 03:43:06.800-03:43:09.890 | Merash] Okay. So I still have, like a decent amount left, please?",
+      "preparedSourceContextBefore": [
+        "[u2704 | 03:43:02.390-03:43:04.560 | Merash] Okay, Sorry. I",
+        "[u2705 | 03:43:04.580-03:43:06.789 | Merash] did not understand how case impacts. My,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2707 | 03:43:09.900-03:43:10.710 | DM] Yeah,",
+        "[u2708 | 03:43:10.720-03:43:11.989 | Rothfis] you can definitely get to him."
+      ],
+      "cleanedWording": "[u2706 | 03:43:06.800-03:43:09.890 | Merash] Okay. So I still have, like a decent amount left, [[please]]?"
+    },
+    {
+      "uid": "u2722",
+      "importance": "incidental",
+      "reason": "Possible movement count; position changed and turn ends, no distinct outcome recoverable.",
+      "marked": true,
+      "cleanedSpans": [
+        "six hundred and sixty"
+      ],
+      "preparedSourceQuotation": "[u2722 | 03:44:20.710-03:44:22.130 | Thror] six hundred and sixty.",
+      "preparedSourceContextBefore": [
+        "[u2720 | 03:44:07.730-03:44:11.169 | Thror] uh here Several damage.",
+        "[u2721 | 03:44:12.810-03:44:13.940 | DM] Okay,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2723 | 03:44:25.160-03:44:26.179 | Thror] That's me.",
+        "[u2724 | 03:44:26.420-03:44:27.680 | DM] Okay,"
+      ],
+      "cleanedWording": "[u2722 | 03:44:20.710-03:44:22.130 | Thror] [[six hundred and sixty]]."
+    },
+    {
+      "uid": "u2737",
+      "importance": "material",
+      "reason": "In-character address/regards while punching Hagrim unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "the blast or a hell similar regards"
+      ],
+      "preparedSourceQuotation": "[u2737 | 03:45:09.770-03:45:16.610 | Rothfis] Why, why, why the blast or a hell similar regards, and I punch him again with the other hand,",
+      "preparedSourceContextBefore": [
+        "[u2735 | 03:45:04.510-03:45:06.119 | DM] Yeah.",
+        "[u2736 | 03:45:06.650-03:45:09.410 | Rothfis] In between, I say."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2738 | 03:45:17.120-03:45:20.440 | Rothfis] and that's only a fifteen that hits",
+        "[u2739 | 03:45:20.470-03:45:25.190 | Rothfis] big first. Now that misses fifteen misses. So fifteen misses. Okay,"
+      ],
+      "cleanedWording": "[u2737 | 03:45:09.770-03:45:16.610 | Rothfis] Why, why, why [[the blast or a hell similar regards]], and I punch him again with the other hand,"
+    },
+    {
+      "uid": "u2753",
+      "importance": "material",
+      "reason": "Stunning Strike/attack-count commentary garbled in two spans.",
+      "marked": true,
+      "cleanedSpans": [
+        "But it did that last time",
+        "Now I’ve done more"
+      ],
+      "preparedSourceQuotation": "[u2753 | 03:46:13.700-03:46:22.559 | Rothfis] It doesn't work. But it did that last time. I'm trying to stun him one final big punch. Now I've done more.",
+      "preparedSourceContextBefore": [
+        "[u2751 | 03:46:05.860-03:46:10.300 | DM] and he's a fighter. So he does have a few uses of indomitable,",
+        "[u2752 | 03:46:12.210-03:46:13.690 | DM] so that does not work."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2754 | 03:46:22.730-03:46:34.830 | Rothfis] That's a mess all right. I've used flurry of blows so I can disengage and move up to fifty for free. I'm gonna disengage and fly up to the ceiling.",
+        "[u2755 | 03:46:35.250-03:46:37.949 | Rothfis] Okay, that's the end of my term."
+      ],
+      "cleanedWording": "[u2753 | 03:46:13.700-03:46:22.559 | Rothfis] It doesn't work. [[But it did that last time]]. I'm trying to stun him one final big punch. [[Now I’ve done more]]."
+    },
+    {
+      "uid": "u2756",
+      "importance": "incidental",
+      "reason": "Brief table reaction after turn ends.",
+      "marked": false,
+      "cleanedSpans": [
+        "Nice. It's for you."
+      ],
+      "preparedSourceQuotation": "[u2756 | 03:46:39.100-03:46:40.390 | Merash] Nice. It's for you.",
+      "preparedSourceContextBefore": [
+        "[u2754 | 03:46:22.730-03:46:34.830 | Rothfis] That's a mess all right. I've used flurry of blows so I can disengage and move up to fifty for free. I'm gonna disengage and fly up to the ceiling.",
+        "[u2755 | 03:46:35.250-03:46:37.949 | Rothfis] Okay, that's the end of my term."
+      ],
+      "preparedSourceContextAfter": [
+        "[u2757 | 03:46:40.400-03:46:44.150 | DM] Okay. He is going to look around",
+        "[u2758 | 03:46:45.100-03:46:46.369 | DM] um"
+      ],
+      "cleanedWording": "[u2756 | 03:46:39.100-03:46:40.390 | Merash] Nice. It's for you."
+    },
+    {
+      "uid": "u2769",
+      "importance": "material",
+      "reason": "Damage calculation contains extra garbled numbers; 27 total explicit.",
+      "marked": true,
+      "cleanedSpans": [
+        "Also two thousand and fourteen"
+      ],
+      "preparedSourceQuotation": "[u2769 | 03:47:26.710-03:47:33.310 | DM] good damage. Also two thousand and fourteen, plus thirteen, twenty, seven points of",
+      "preparedSourceContextBefore": [
+        "[u2767 | 03:47:20.150-03:47:23.510 | Merash] Yeah. So that's a total of",
+        "[u2768 | 03:47:23.790-03:47:26.019 | DM] fourteen, plus"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2770 | 03:47:33.430-03:47:34.490 | DM] damage,",
+        "[u2771 | 03:47:34.500-03:47:37.309 | Riswynn] and make a constitution saving so?"
+      ],
+      "cleanedWording": "[u2769 | 03:47:26.710-03:47:33.310 | DM] good damage. [[Also two thousand and fourteen]], plus thirteen, twenty, seven points of"
+    },
+    {
+      "uid": "u2854",
+      "importance": "incidental",
+      "reason": "Attack-result fragment; no narrated hit/damage and next turn proceeds.",
+      "marked": true,
+      "cleanedSpans": [
+        "progresses"
+      ],
+      "preparedSourceQuotation": "[u2854 | 03:53:41.050-03:53:42.800 | DM] progresses?",
+      "preparedSourceContextBefore": [
+        "[u2852 | 03:53:31.480-03:53:33.260 | Riswynn] guiding bolt",
+        "[u2853 | 03:53:35.480-03:53:37.199 | DM] with disadvantage"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2855 | 03:53:45.550-03:53:49.809 | Thror] Make a wisdom save to see if you can shake the fear. Max, you're up.",
+        "[u2856 | 03:53:52.810-03:53:54.449 | DM] Ah,"
+      ],
+      "cleanedWording": "[u2854 | 03:53:41.050-03:53:42.800 | DM] [[progresses]]?"
+    },
+    {
+      "uid": "u2903",
+      "importance": "incidental",
+      "reason": "Ghost descriptor unclear; prone ruling and later correction explicit.",
+      "marked": true,
+      "cleanedSpans": [
+        "man and ghost"
+      ],
+      "preparedSourceQuotation": "[u2903 | 03:57:44.280-03:57:51.680 | Rothfis] our guy. So you're just sitting on a prone man and ghost.",
+      "preparedSourceContextBefore": [
+        "[u2901 | 03:57:39.920-03:57:40.990 | Unknown] All right.",
+        "[u2902 | 03:57:42.320-03:57:44.229 | Rothfis] That's it for me,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2904 | 03:57:52.670-03:57:54.910 | DM] He he like",
+        "[u2905 | 03:57:54.990-03:57:57.530 | DM] tries to like um."
+      ],
+      "cleanedWording": "[u2903 | 03:57:44.280-03:57:51.680 | Rothfis] All right. So you're just sitting on a prone [[man and ghost]]."
+    },
+    {
+      "uid": "u2933",
+      "importance": "material",
+      "reason": "In-character appeal invoking bells of home unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "how do you drink"
+      ],
+      "preparedSourceQuotation": "[u2933 | 04:00:10.360-04:00:12.980 | Riswynn] how do you drink the bells of home?",
+      "preparedSourceContextBefore": [
+        "[u2931 | 04:00:03.890-04:00:06.149 | Riswynn] Okay, you know.",
+        "[u2932 | 04:00:07.740-04:00:09.020 | DM] So"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2934 | 04:00:17.140-04:00:18.199 | DM] Ah!",
+        "[u2935 | 04:00:18.360-04:00:19.930 | DM] As you"
+      ],
+      "cleanedWording": "[u2933 | 04:00:10.360-04:00:12.980 | Riswynn] [[how do you drink]] the bells of home?"
+    },
+    {
+      "uid": "u2960",
+      "importance": "incidental",
+      "reason": "Subject pronoun unclear; Riswynn’s choice of redemption explicit.",
+      "marked": true,
+      "cleanedSpans": [
+        "believes that"
+      ],
+      "preparedSourceQuotation": "[u2960 | 04:02:13.390-04:02:15.060 | Riswynn] believes that",
+      "preparedSourceContextBefore": [
+        "[u2958 | 04:02:00.040-04:02:01.610 | Riswynn] Witnesses",
+        "[u2959 | 04:02:03.530-04:02:11.710 | Riswynn] both those he killed, and not say he was not himself. There is evidence that he was compelled,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2961 | 04:02:15.990-04:02:19.220 | Riswynn] he yearns for his home, and could be redeemed",
+        "[u2962 | 04:02:26.520-04:02:28.189 | DM] as the water"
+      ],
+      "cleanedWording": "[u2960 | 04:02:13.390-04:02:15.060 | Riswynn] [[believes that]]"
+    },
+    {
+      "uid": "u2988",
+      "importance": "material",
+      "reason": "Tak name recoverable but apparent sighting versus question not secure.",
+      "marked": true,
+      "cleanedSpans": [
+        "there’s Tak"
+      ],
+      "preparedSourceQuotation": "[u2988 | 04:05:01.370-04:05:05.689 | Thror] Yes, yes, there's Cock, I mean, we look around.",
+      "preparedSourceContextBefore": [
+        "[u2986 | 04:04:51.000-04:04:52.119 | Merash] here?",
+        "[u2987 | 04:04:58.940-04:05:01.360 | DM] Well, do you want to look around?"
+      ],
+      "preparedSourceContextAfter": [
+        "[u2989 | 04:05:06.760-04:05:10.400 | Thror] Yeah, with our perception roles. It seems like you see, a tree.",
+        "[u2990 | 04:05:11.070-04:05:13.049 | Riswynn] Yeah, make a perception role."
+      ],
+      "cleanedWording": "[u2988 | 04:05:01.370-04:05:05.689 | Thror] Yes, yes, [[there’s Tak]], I mean, we look around."
+    },
+    {
+      "uid": "u3019",
+      "importance": "material",
+      "reason": "Human group name unclear.",
+      "marked": true,
+      "cleanedSpans": [
+        "Tedarians"
+      ],
+      "preparedSourceQuotation": "[u3019 | 04:07:33.920-04:07:35.990 | DM] Go, kill some Tedarians just for fun.",
+      "preparedSourceContextBefore": [
+        "[u3017 | 04:07:27.340-04:07:28.650 | DM] if they were.",
+        "[u3018 | 04:07:30.910-04:07:33.910 | Riswynn] Do you want to go chase after them?"
+      ],
+      "preparedSourceContextAfter": [
+        "[u3020 | 04:07:36.500-04:07:36.990 | Thror] The",
+        "[u3021 | 04:07:44.550-04:07:48.169 | Riswynn] you can quite distract from the mission of mercy parts"
+      ],
+      "cleanedWording": "[u3019 | 04:07:33.920-04:07:35.990 | DM] Go, kill some [[Tedarians]] just for fun."
+    },
+    {
+      "uid": "u3021",
+      "importance": "material",
+      "reason": "Mission-of-mercy remark partly garbled.",
+      "marked": true,
+      "cleanedSpans": [
+        "you can quite distract"
+      ],
+      "preparedSourceQuotation": "[u3021 | 04:07:44.550-04:07:48.169 | Riswynn] you can quite distract from the mission of mercy parts",
+      "preparedSourceContextBefore": [
+        "[u3019 | 04:07:33.920-04:07:35.990 | DM] Go, kill some Tedarians just for fun.",
+        "[u3020 | 04:07:36.500-04:07:36.990 | Thror] The"
+      ],
+      "preparedSourceContextAfter": [
+        "[u3022 | 04:07:49.850-04:07:51.899 | Unknown] herring off after them.",
+        "[u3023 | 04:07:53.160-04:07:54.500 | DM] So,"
+      ],
+      "cleanedWording": "[u3021 | 04:07:44.550-04:07:48.169 | Riswynn] [[you can quite distract]] from the mission of mercy parts"
+    },
+    {
+      "uid": "u3036",
+      "importance": "incidental",
+      "reason": "Abandoned route/place fragment; Dunmar location and helping refugees clear.",
+      "marked": true,
+      "cleanedSpans": [
+        "from uh to a"
+      ],
+      "preparedSourceQuotation": "[u3036 | 04:08:47.760-04:08:51.829 | Riswynn] It's okay. I know the way from uh to a",
+      "preparedSourceContextBefore": [
+        "[u3034 | 04:08:42.060-04:08:44.770 | DM] it's when you're stocked for these people.",
+        "[u3035 | 04:08:45.060-04:08:46.660 | Riswynn] I got that."
+      ],
+      "preparedSourceContextAfter": [
+        "[u3037 | 04:08:56.610-04:09:00.499 | Rothfis] ruthless shrinks down to normal size and",
+        "[u3038 | 04:09:01.460-04:09:08.189 | Rothfis] looks around to you. You see that you see that he has aged. I don't know that one"
+      ],
+      "cleanedWording": "[u3036 | 04:08:47.760-04:08:51.829 | Riswynn] It's okay. I know the way [[from uh to a]]"
+    },
+    {
+      "uid": "u3038",
+      "importance": "incidental",
+      "reason": "Abandoned age aside; twenty years explicit next unit.",
+      "marked": false,
+      "cleanedSpans": [
+        "looks around to you. You see that you see that he has aged. I don't know that one"
+      ],
+      "preparedSourceQuotation": "[u3038 | 04:09:01.460-04:09:08.189 | Rothfis] looks around to you. You see that you see that he has aged. I don't know that one",
+      "preparedSourceContextBefore": [
+        "[u3036 | 04:08:47.760-04:08:51.829 | Riswynn] It's okay. I know the way from uh to a",
+        "[u3037 | 04:08:56.610-04:09:00.499 | Rothfis] ruthless shrinks down to normal size and"
+      ],
+      "preparedSourceContextAfter": [
+        "[u3039 | 04:09:13.070-04:09:16.010 | Rothfis] see that he's age twenty years,",
+        "[u3040 | 04:09:16.690-04:09:19.549 | Rothfis] and he shakes his head, and he says"
+      ],
+      "cleanedWording": "[u3038 | 04:09:01.460-04:09:08.189 | Rothfis] looks around to you. You see that you see that he has aged. I don't know that one"
+    },
+    {
+      "uid": "u3047",
+      "importance": "incidental",
+      "reason": "Teleport activation aside unclear; departure explicit.",
+      "marked": false,
+      "cleanedSpans": [
+        "chest, tap, or whatever that from that,"
+      ],
+      "preparedSourceQuotation": "[u3047 | 04:09:56.560-04:10:00.940 | Rothfis] chest, tap, or whatever that from that,",
+      "preparedSourceContextBefore": [
+        "[u3045 | 04:09:48.890-04:09:51.639 | Rothfis] and let them know as well.",
+        "[u3046 | 04:09:52.010-04:09:56.429 | Rothfis] But I think if it's like a little"
+      ],
+      "preparedSourceContextAfter": [
+        "[u3048 | 04:10:00.950-04:10:08.939 | Rothfis] if you know, after a quick goodbye he's just going to blink a blink out.",
+        "[u3049 | 04:10:12.880-04:10:14.520 | DM] Have a marsh."
+      ],
+      "cleanedWording": "[u3047 | 04:09:56.560-04:10:00.940 | Rothfis] chest, tap, or whatever that from that,"
+    }
+  ]
+}

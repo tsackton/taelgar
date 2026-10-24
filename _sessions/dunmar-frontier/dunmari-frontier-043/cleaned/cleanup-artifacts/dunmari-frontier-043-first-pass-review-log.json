@@ -1,0 +1,887 @@
+{
+  "2833": {
+    "uid": "u2833",
+    "importance": "material",
+    "reason": "Unclear instruction about where to move the polymorphed creature; retain exact uncertain words.",
+    "span": "was free fire",
+    "text": "let's let's move it [[was free fire]] okay.",
+    "contextBefore": [
+      "[u2831 | 03:53:01.320-03:53:07.320 | DM] right there great so it's still 70 feet below the creature.",
+      "[u2832 | 03:53:10.050-03:53:12.270 | DM] Okay turtle turtle is going to waddle."
+    ],
+    "contextAfter": [
+      "[u2834 | 03:53:21.660-03:53:23.610 | DM] Ah, OK, so now we've got.",
+      "[u2835 | 03:53:23.700-03:53:26.580 | DM] crossbow magic crossbow is."
+    ]
+  },
+  "2882": {
+    "uid": "u2882",
+    "importance": "incidental",
+    "reason": "Fragment of DM damage-status chatter; the next description states the creature is badly hurt.",
+    "span": "Donnelly",
+    "text": "it's Donnelly looking I mean it's.",
+    "contextBefore": [
+      "[u2880 | 03:57:07.020-03:57:07.350 | Riswynn] Already.",
+      "[u2881 | 03:57:08.070-03:57:10.920 | DM] roller do I have to do that yeah 21 damage."
+    ],
+    "contextAfter": [
+      "[u2883 | 03:57:13.710-03:57:18.720 | Riswynn] it's does i'm also going to move the spiritual weapon closer, I think you can only move 15 feet at a.",
+      "[u2884 | 03:57:18.720-03:57:22.050 | DM] Time it can only move at 20 feet, so it can't catch up to it."
+    ]
+  },
+  "2890": {
+    "uid": "u2890",
+    "importance": "material",
+    "reason": "Possible ranged/melee transcription drift across units; previous orders concern bandits without ranged weapons, but wording needs review.",
+    "span": "melee weapons",
+    "text": "[[melee weapons]] for next two of them are now clustered a bunch of horses and are kind of shooing them so that they'll back away from this creature.",
+    "contextBefore": [
+      "[u2888 | 03:57:33.150-03:57:33.690 | DM] The.",
+      "[u2889 | 03:57:35.850-03:57:37.380 | DM] bandits, with no."
+    ],
+    "contextAfter": [
+      "[u2891 | 03:57:52.590-03:57:53.490 | DM] than.",
+      "[u2892 | 03:57:57.780-03:58:01.260 | DM] bandit with crossbow crossbow."
+    ]
+  },
+  "2927": {
+    "uid": "u2927",
+    "importance": "incidental",
+    "reason": "Overlapping short remark during a declared sword attack; no independent action outcome.",
+    "span": "And the soul left",
+    "text": "And the soul left.",
+    "contextBefore": [
+      "[u2925 | 04:00:04.680-04:00:06.390 | Delwath] So i'm just going to go after it.",
+      "[u2926 | 04:00:08.100-04:00:09.240 | Delwath] and whack it with a sword."
+    ],
+    "contextAfter": [
+      "[u2928 | 04:00:18.480-04:00:18.720 | DM] yep.",
+      "[u2929 | 04:00:19.980-04:00:23.070 | DM] Eleven misses, 26 hits."
+    ]
+  },
+  "2932": {
+    "uid": "u2932",
+    "importance": "material",
+    "reason": "Uncertain name of the bonus-action displacement ability; dodging is clear in following unit.",
+    "span": "ray of displacement",
+    "text": "[[ray of displacement]].",
+    "contextBefore": [
+      "[u2930 | 04:00:25.800-04:00:35.310 | Delwath] um hold on a second I do I want to do that I have not used a bonus action i'm gonna bonus action potion before I.",
+      "[u2931 | 04:00:36.090-04:00:46.140 | Delwath] Okay, so that will do oh wait no i'm not going to do that sorry I take that back i'm not going to do that i'm going to bonus actions."
+    ],
+    "contextAfter": [
+      "[u2933 | 04:00:50.040-04:00:51.420 | DM] Okay, so you're dodging.",
+      "[u2934 | 04:00:52.710-04:00:54.360 | Delwath] [[wow It gives me a sentence yeah]]."
+    ]
+  },
+  "2934": {
+    "uid": "u2934",
+    "importance": "material",
+    "reason": "Unclear explanation of displacement mechanics; do not infer the exact effect.",
+    "span": "wow It gives me a sentence yeah",
+    "text": "[[wow It gives me a sentence yeah]].",
+    "contextBefore": [
+      "[u2932 | 04:00:47.820-04:00:48.720 | Delwath] [[ray of displacement]].",
+      "[u2933 | 04:00:50.040-04:00:51.420 | DM] Okay, so you're dodging."
+    ],
+    "contextAfter": [
+      "[u2935 | 04:00:54.600-04:00:56.220 | DM] yeah okay got it.",
+      "[u2936 | 04:00:58.110-04:01:02.790 | DM] That is Delwath's turn. Kenzo, you're up it's about."
+    ]
+  },
+  "2941": {
+    "uid": "u2941",
+    "importance": "incidental",
+    "reason": "Table remark about flight speed; numerical speed and movement are separately clear.",
+    "span": "On this line so fast",
+    "text": "On this line so fast, by the way.",
+    "contextBefore": [
+      "[u2939 | 04:01:16.410-04:01:24.180 | DM] Okay, so you dive down and closer to it with your 90 foot speed, you can get within 30 feet.",
+      "[u2940 | 04:01:25.439-04:01:27.090 | DM] To make another strength save."
+    ],
+    "contextAfter": [
+      "[u2942 | 04:01:30.330-04:01:30.630 | DM] Be.",
+      "[u2943 | 04:01:32.310-04:01:36.360 | DM] [[As well be as]] this time and nine, so you."
+    ]
+  },
+  "2943": {
+    "uid": "u2943",
+    "importance": "material",
+    "reason": "Unclear lead-in to a saving-throw result of nine; result preserved.",
+    "span": "As well be as",
+    "text": "[[As well be as]] this time and nine, so you.",
+    "contextBefore": [
+      "[u2941 | 04:01:27.630-04:01:28.979 | Kenzo] On this line so fast, by the way.",
+      "[u2942 | 04:01:30.330-04:01:30.630 | DM] Be."
+    ],
+    "contextAfter": [
+      "[u2944 | 04:01:37.920-04:01:41.550 | DM] Damage, and you can move it, you can push or pull it.",
+      "[u2945 | 04:01:42.120-04:01:43.320 | Kenzo] Where do you want to do with them."
+    ]
+  },
+  "2960": {
+    "uid": "u2960",
+    "importance": "incidental",
+    "reason": "Map-position adjustment fragment; surrounding instructions establish keeping the creature near Delwath.",
+    "span": "A little bit five move away",
+    "text": "A little bit five move away.",
+    "contextBefore": [
+      "[u2958 | 04:02:25.740-04:02:28.230 | Delwath] Nice yeah like that's that's perfect that it goes.",
+      "[u2959 | 04:02:29.940-04:02:30.720 | Kenzo] What am I really."
+    ],
+    "contextAfter": [
+      "[u2961 | 04:02:32.520-04:02:33.450 | DM] To the sex.",
+      "[u2962 | 04:02:34.740-04:02:35.400 | DM] Like here."
+    ]
+  },
+  "2961": {
+    "uid": "u2961",
+    "importance": "incidental",
+    "reason": "Map-position chatter; exact intended location wording is unclear.",
+    "span": "To the sex",
+    "text": "To the sex.",
+    "contextBefore": [
+      "[u2959 | 04:02:29.940-04:02:30.720 | Kenzo] What am I really.",
+      "[u2960 | 04:02:30.750-04:02:32.490 | Delwath] A little bit five move away."
+    ],
+    "contextAfter": [
+      "[u2962 | 04:02:34.740-04:02:35.400 | DM] Like here.",
+      "[u2963 | 04:02:36.000-04:02:43.770 | Delwath] yeah so that if it's going for Baxter again, I wanted to have to, I want to get an attack and wouldn't necessarily the best."
+    ]
+  },
+  "2980": {
+    "uid": "u2980",
+    "importance": "material",
+    "reason": "Unclear spell/option reference in combat planning; concentration restriction is clear.",
+    "span": "range for open",
+    "text": "[[range for open]] I can't do anything else it's concentration.",
+    "contextBefore": [
+      "[u2978 | 04:03:41.430-04:03:44.250 | Seeker] And how high is the thing up in the air.",
+      "[u2979 | 04:03:45.060-04:03:46.890 | DM] it's about 30 feet."
+    ],
+    "contextAfter": [
+      "[u2981 | 04:03:56.880-04:04:00.960 | Seeker] erupting earth would not affect it because it's too high, above the ground.",
+      "[u2982 | 04:04:01.290-04:04:01.860 | Unknown] Exactly."
+    ]
+  },
+  "3003": {
+    "uid": "u3003",
+    "importance": "incidental",
+    "reason": "Short interjection about the mirror; capture proposal is clear in subsequent dialogue.",
+    "span": "safely go to the mirror",
+    "text": "safely go to the mirror.",
+    "contextBefore": [
+      "[u3001 | 04:05:17.010-04:05:17.340 | Unknown] Okay.",
+      "[u3002 | 04:05:18.930-04:05:21.240 | Seeker] guys oh yeah the."
+    ],
+    "contextAfter": [
+      "[u3004 | 04:05:23.160-04:05:24.090 | DM] Finally, ahead.",
+      "[u3005 | 04:05:26.550-04:05:27.330 | DM] A."
+    ]
+  },
+  "3004": {
+    "uid": "u3004",
+    "importance": "incidental",
+    "reason": "Brief crossbow-roll chatter immediately before a hit/miss sequence.",
+    "span": "Finally, ahead",
+    "text": "Finally, ahead.",
+    "contextBefore": [
+      "[u3002 | 04:05:18.930-04:05:21.240 | Seeker] guys oh yeah the.",
+      "[u3003 | 04:05:21.780-04:05:23.040 | Delwath] safely go to the mirror."
+    ],
+    "contextAfter": [
+      "[u3005 | 04:05:26.550-04:05:27.330 | DM] A.",
+      "[u3006 | 04:05:29.550-04:05:30.330 | DM] miss."
+    ]
+  },
+  "3021": {
+    "uid": "u3021",
+    "importance": "incidental",
+    "reason": "Map movement chatter about the ladder; the next unit resolves its movement.",
+    "span": "tennis",
+    "text": "tennis to move the ladder.",
+    "contextBefore": [
+      "[u3019 | 04:06:15.690-04:06:17.910 | Delwath] All right, and then over rather than just.",
+      "[u3020 | 04:06:19.770-04:06:20.490 | DM] Okay Wellby."
+    ],
+    "contextAfter": [
+      "[u3022 | 04:06:25.950-04:06:31.890 | DM] Ah, oh sorry the ladder will move here so Wellby plants his feet.",
+      "[u3023 | 04:06:33.930-04:06:36.300 | DM] kills it looks at this thing."
+    ]
+  },
+  "3045": {
+    "uid": "u3045",
+    "importance": "material",
+    "reason": "Unclear qualifier on killing the polymorphed creature; preserve rather than infer intent.",
+    "span": "This is also want to kill it",
+    "text": "[[This is also want to kill it]].",
+    "contextBefore": [
+      "[u3043 | 04:08:13.230-04:08:14.910 | Seeker] And then it would be a dead dragon.",
+      "[u3044 | 04:08:16.230-04:08:16.440 | Unknown] yep."
+    ],
+    "contextAfter": [
+      "[u3046 | 04:08:23.760-04:08:24.780 | Seeker] Just imagine.",
+      "[u3047 | 04:08:26.100-04:08:27.060 | Seeker] years from now."
+    ]
+  },
+  "3051": {
+    "uid": "u3051",
+    "importance": "incidental",
+    "reason": "Overlapping response during mirror discussion; no substantive outcome depends on it.",
+    "span": "I bought from your",
+    "text": "I bought from your.",
+    "contextBefore": [
+      "[u3049 | 04:08:32.490-04:08:35.040 | Seeker] to release release the dragon from captivity.",
+      "[u3050 | 04:08:39.990-04:08:41.400 | Delwath] Why would we put it in the mirror."
+    ],
+    "contextAfter": [
+      "[u3052 | 04:08:44.340-04:08:48.030 | Delwath] I mean it might not work, but then we can do something else.",
+      "[u3053 | 04:08:48.750-04:08:51.000 | Seeker] Oh, what could go wrong that's interesting."
+    ]
+  },
+  "3063": {
+    "uid": "u3063",
+    "importance": "material",
+    "reason": "Unclear wording concerning hiding the portable hole/mirror from the bandits; intent to act privately is clear nearby.",
+    "span": "make the whole lower than your",
+    "text": "yeah let's lead the bandits down the road, a little ways, just so they would prefer not to [[make the whole lower than your]].",
+    "contextBefore": [
+      "[u3061 | 04:09:08.910-04:09:12.840 | Riswynn] And then, if it doesn't go into the mirror we kill it right.",
+      "[u3062 | 04:09:13.440-04:09:13.680 | Unknown] yeah."
+    ],
+    "contextAfter": [
+      "[u3064 | 04:09:23.400-04:09:25.500 | Seeker] Public, do this do this in private yes.",
+      "[u3065 | 04:09:25.980-04:09:26.760 | Seeker] or ugly."
+    ]
+  },
+  "3077": {
+    "uid": "u3077",
+    "importance": "incidental",
+    "reason": "Fragment preceding the DM description of survivors gathering.",
+    "span": "I can write all that",
+    "text": "I can write all that sort of gathered around like.",
+    "contextBefore": [
+      "[u3075 | 04:09:57.030-04:09:57.540 | Wellby] yeah yeah.",
+      "[u3076 | 04:09:58.890-04:09:59.190 | Seeker] and"
+    ],
+    "contextAfter": [
+      "[u3078 | 04:10:02.670-04:10:09.900 | DM] One of them is dead one of their horses is dead, but otherwise like actually came through this like remarkably fine.",
+      "[u3079 | 04:10:11.970-04:10:17.220 | DM] overwhelming numbers have some advantages yeah well and Polymorph i'm."
+    ]
+  },
+  "3081": {
+    "uid": "u3081",
+    "importance": "incidental",
+    "reason": "Unclear carry/action fragment; retained verbatim rather than infer the exact handling.",
+    "span": "square itself",
+    "text": "I'll pick up the turtle and the square itself and fly like.",
+    "contextBefore": [
+      "[u3079 | 04:10:11.970-04:10:17.220 | DM] overwhelming numbers have some advantages yeah well and Polymorph i'm.",
+      "[u3080 | 04:10:17.280-04:10:17.490 | Unknown] A."
+    ],
+    "contextAfter": [
+      "[u3082 | 04:10:25.380-04:10:26.430 | Delwath] A couple hundred feet.",
+      "[u3083 | 04:10:27.870-04:10:28.290 | DM] Okay."
+    ]
+  },
+  "3113": {
+    "uid": "u3113",
+    "importance": "incidental",
+    "reason": "Fragment after the instruction not to look at the mirror; stated plan is to show it to the turtle.",
+    "span": "I will look like if",
+    "text": "I will look like if.",
+    "contextBefore": [
+      "[u3111 | 04:12:13.980-04:12:17.040 | Delwath] I will show the turtle the mirror and see what happens.",
+      "[u3112 | 04:12:17.910-04:12:18.570 | Seeker] don't look at it."
+    ],
+    "contextAfter": [
+      "[u3114 | 04:12:21.090-04:12:21.930 | Kenzo] We kill the other dragon.",
+      "[u3115 | 04:12:22.110-04:12:22.980 | DM] yeah yeah."
+    ]
+  },
+  "3122": {
+    "uid": "u3122",
+    "importance": "incidental",
+    "reason": "Overlapping table chatter in healing discussion; healing total is separately stated.",
+    "span": "shot us through isn't make you",
+    "text": "shot us through isn't make you.",
+    "contextBefore": [
+      "[u3120 | 04:12:32.820-04:12:34.410 | Seeker] From wow oh from.",
+      "[u3121 | 04:12:35.100-04:12:35.910 | DM] Healing word."
+    ],
+    "contextAfter": [
+      "[u3123 | 04:12:39.060-04:12:39.930 | Seeker] weaker yeah.",
+      "[u3124 | 04:12:39.960-04:12:40.590 | DM] From Seeker."
+    ]
+  },
+  "3129": {
+    "uid": "u3129",
+    "importance": "incidental",
+    "reason": "Reaction to the magic item; no effect on its saving throw or capture result.",
+    "span": "Such a good at and",
+    "text": "Such a good at and.",
+    "contextBefore": [
+      "[u3127 | 04:12:47.910-04:12:50.040 | DM] So it's our where does it a charisma save.",
+      "[u3128 | 04:12:50.610-04:12:53.430 | Delwath] I don't even know you made up this item."
+    ],
+    "contextAfter": [
+      "[u3130 | 04:12:56.400-04:12:56.730 | Kenzo] it's.",
+      "[u3131 | 04:12:56.940-04:13:02.250 | Delwath] amazing I think it's like a deep some sort of Charisma, a Mirror of Soul Trapping away I do actually have it."
+    ]
+  },
+  "3131": {
+    "uid": "u3131",
+    "importance": "incidental",
+    "reason": "Interrupted recollection while looking up the item; DC and save type are stated next.",
+    "span": "deep some sort of",
+    "text": "amazing I think it's like a deep some sort of Charisma, a Mirror of Soul Trapping away I do actually have it.",
+    "contextBefore": [
+      "[u3129 | 04:12:55.110-04:12:55.980 | Seeker] Such a good at and.",
+      "[u3130 | 04:12:56.400-04:12:56.730 | Kenzo] it's."
+    ],
+    "contextAfter": [
+      "[u3132 | 04:13:02.670-04:13:04.800 | Delwath] DC 15 Charisma save.",
+      "[u3133 | 04:13:05.010-04:13:07.440 | DM] The turtle vanishes."
+    ]
+  },
+  "3134": {
+    "uid": "u3134",
+    "importance": "material",
+    "reason": "Unclear action/item-handling phrase after mirror capture; do not infer exact storage action.",
+    "span": "get my little still pocket",
+    "text": "I will come back with no turtle i'll just [[get my little still pocket]].",
+    "contextBefore": [
+      "[u3132 | 04:13:02.670-04:13:04.800 | Delwath] DC 15 Charisma save.",
+      "[u3133 | 04:13:05.010-04:13:07.440 | DM] The turtle vanishes."
+    ],
+    "contextAfter": [
+      "[u3135 | 04:13:13.770-04:13:17.070 | Delwath] I will just everybody will see what I have returned, that there is no turtle.",
+      "[u3136 | 04:13:18.690-04:13:20.190 | Seeker] Well, that takes care of that doesn't it."
+    ]
+  },
+  "3139": {
+    "uid": "u3139",
+    "importance": "incidental",
+    "reason": "Fragment while explaining flying away with the turtle; full explanation follows.",
+    "span": "Nice slight hurdle",
+    "text": "Nice slight hurdle.",
+    "contextBefore": [
+      "[u3137 | 04:13:20.640-04:13:24.450 | Kenzo] Wait just really quickly what happened and do the other NPCs see what happened.",
+      "[u3138 | 04:13:24.690-04:13:28.710 | Delwath] No, so Delwath has fly, so I just flew off like Nice."
+    ],
+    "contextAfter": [
+      "[u3140 | 04:13:30.330-04:13:35.370 | Delwath] yeah I picked up the turtle so so Seeker polymorphed one of the two dragons into a turtle.",
+      "[u3141 | 04:13:35.640-04:13:35.940 | Kenzo] yeah."
+    ]
+  },
+  "3145": {
+    "uid": "u3145",
+    "importance": "material",
+    "reason": "Unclear explanation of what observers see when Delwath returns without the turtle.",
+    "span": "just kill you with see",
+    "text": "And then [[just kill you with see]] it's coming back with no turtle.",
+    "contextBefore": [
+      "[u3143 | 04:13:38.280-04:13:39.840 | Delwath] yeah way out of sight.",
+      "[u3144 | 04:13:39.870-04:13:41.280 | Kenzo] By country yeah."
+    ],
+    "contextAfter": [
+      "[u3146 | 04:13:44.550-04:13:47.010 | Kenzo] But wait, how did you get the turtle into the hole into the mirror.",
+      "[u3147 | 04:13:47.400-04:13:48.870 | Delwath] I just showed the mirror to the turtle."
+    ]
+  },
+  "3206": {
+    "uid": "u3206",
+    "importance": "incidental",
+    "reason": "Interrupted transition from pay to treasure discussion; next DM narration starts the approach.",
+    "span": "I jerry's",
+    "text": "So I jerry's.",
+    "contextBefore": [
+      "[u3204 | 04:16:29.370-04:16:31.500 | Delwath] All pay out there 10 gold each.",
+      "[u3205 | 04:16:31.890-04:16:32.160 | Unknown] yep."
+    ],
+    "contextAfter": [
+      "[u3207 | 04:16:34.980-04:16:36.900 | Delwath] treasure, so we can recoup our losses.",
+      "[u3208 | 04:16:37.320-04:16:45.690 | DM] As your as you're speaking i'm you hear as Kenzo speaking, maybe 20 minutes after the fight."
+    ]
+  },
+  "3222": {
+    "uid": "u3222",
+    "importance": "material",
+    "reason": "Potential ASR drift in Antonia description (lanky red-haired short woman); leave descriptor uncertain.",
+    "span": "short",
+    "text": "Antonia lanky red haired [[short]] woman in a heavy suit of Armor and as they ride up seeing you on the road i'm.",
+    "contextBefore": [
+      "[u3220 | 04:17:50.190-04:17:59.910 | DM] Wizard full of nervous energy Hektor that huge tall overly muscled guys six feet tall without Armor but with a giant halberd.",
+      "[u3221 | 04:18:01.080-04:18:04.200 | DM] Marcella you've met before and."
+    ],
+    "contextAfter": [
+      "[u3223 | 04:18:17.910-04:18:23.670 | DM] Marcella calls out sort of looks at our companions and calls out says um.",
+      "[u3224 | 04:18:25.740-04:18:26.610 | DM] Do you need some help."
+    ]
+  },
+  "3252": {
+    "uid": "u3252",
+    "importance": "material",
+    "reason": "Unresolved identity in a reference to a previous fight; do not force a name.",
+    "span": "how they're",
+    "text": "The fight with [[how they're]].",
+    "contextBefore": [
+      "[u3250 | 04:20:00.840-04:20:02.250 | Delwath] steal stuff from the dead man.",
+      "[u3251 | 04:20:03.270-04:20:03.630 | Delwath] Remember."
+    ],
+    "contextAfter": [
+      "[u3253 | 04:20:06.450-04:20:17.790 | Wellby] Steal, steal from the Dunmari, they found stuff abandoned in the desert to the east and when [[hubs are]] saw that it was originally Dunmari he claimed we didn't show him this stuff we took from those same forts.",
+      "[u3254 | 04:20:18.270-04:20:22.110 | Delwath] We get we gave it to him, we gave them a super valuable sword from the Dunmari."
+    ]
+  },
+  "3253": {
+    "uid": "u3253",
+    "importance": "material",
+    "reason": "Unresolved person who claimed the recovered Dunmari objects.",
+    "span": "hubs are",
+    "text": "Steal, steal from the Dunmari, they found stuff abandoned in the desert to the east and when [[hubs are]] saw that it was originally Dunmari he claimed we didn't show him this stuff we took from those same forts.",
+    "contextBefore": [
+      "[u3251 | 04:20:03.270-04:20:03.630 | Delwath] Remember.",
+      "[u3252 | 04:20:04.530-04:20:05.670 | Delwath] The fight with [[how they're]]."
+    ],
+    "contextAfter": [
+      "[u3254 | 04:20:18.270-04:20:22.110 | Delwath] We get we gave it to him, we gave them a super valuable sword from the Dunmari.",
+      "[u3255 | 04:20:23.040-04:20:24.570 | Wellby] So that makes everything else okay."
+    ]
+  },
+  "3292": {
+    "uid": "u3292",
+    "importance": "material",
+    "reason": "Garbled exchange immediately before soul-sighting the wizard; exact request/response unclear.",
+    "span": "tomato sauce killer I saw",
+    "text": "[[tomato sauce killer I saw]].",
+    "contextBefore": [
+      "[u3290 | 04:23:11.280-04:23:12.540 | DM] we'll have to discuss.",
+      "[u3291 | 04:23:15.150-04:23:15.810 | DM] There is a."
+    ],
+    "contextAfter": [
+      "[u3293 | 04:23:18.840-04:23:20.850 | Kenzo] I soul-sight this dude hardcore.",
+      "[u3294 | 04:23:22.230-04:23:22.500 | DM] yeah."
+    ]
+  },
+  "3297": {
+    "uid": "u3297",
+    "importance": "incidental",
+    "reason": "Overlapping fragment; next units state the proposed exchange clearly.",
+    "span": "Why it's not even that",
+    "text": "Why it's not even that.",
+    "contextBefore": [
+      "[u3295 | 04:23:22.740-04:23:23.610 | Kenzo] Soul-sighting.",
+      "[u3296 | 04:23:25.110-04:23:32.520 | DM] Ah, so as your soul-sighting i'm he's saying we have a particular interest in items of Drankorian origin."
+    ],
+    "contextAfter": [
+      "[u3298 | 04:23:37.290-04:23:41.280 | DM] Agata possessed a handful of such items.",
+      "[u3299 | 04:23:42.780-04:23:49.140 | DM] And if you are willing to trade those I could trade you items of non Drankorian origin in exchange."
+    ]
+  },
+  "3352": {
+    "uid": "u3352",
+    "importance": "incidental",
+    "reason": "Fragment interrupting party inventory review; no complete item claim.",
+    "span": "Always talks",
+    "text": "Always talks.",
+    "contextBefore": [
+      "[u3350 | 04:27:53.070-04:27:53.850 | Seeker] from Drankor.",
+      "[u3351 | 04:27:54.330-04:27:56.730 | Delwath] Kenzo's ring of jumping is from Drankor."
+    ],
+    "contextAfter": [
+      "[u3353 | 04:27:58.260-04:28:00.360 | Seeker] [[To the top there's a map also]].",
+      "[u3354 | 04:28:01.620-04:28:07.560 | Delwath] yeah but we don't want to give them them that's the werewolf map we don't want to give them the werewolf map the pandemonium."
+    ]
+  },
+  "3353": {
+    "uid": "u3353",
+    "importance": "material",
+    "reason": "Unclear item reference, though a map is discussed in the following unit.",
+    "span": "To the top there's a map also",
+    "text": "[[To the top there's a map also]].",
+    "contextBefore": [
+      "[u3351 | 04:27:54.330-04:27:56.730 | Delwath] Kenzo's ring of jumping is from Drankor.",
+      "[u3352 | 04:27:57.240-04:27:58.200 | Seeker] Always talks."
+    ],
+    "contextAfter": [
+      "[u3354 | 04:28:01.620-04:28:07.560 | Delwath] yeah but we don't want to give them them that's the werewolf map we don't want to give them the werewolf map the pandemonium.",
+      "[u3355 | 04:28:09.030-04:28:16.050 | Delwath] Right, the only stuff we have in here that says Drankorian origin, the message stones, but I think we want to keep."
+    ]
+  },
+  "3372": {
+    "uid": "u3372",
+    "importance": "material",
+    "reason": "Repeated unresolved tower name; compare u3390 and u3499. No canonical spelling confirmed in filename/name searches.",
+    "span": "you don't miss this",
+    "text": "came from the party who traveled north to [[you don't miss this]] Tower not from you.",
+    "contextBefore": [
+      "[u3370 | 04:29:09.450-04:29:13.890 | Wellby] Well, these are powerful and delightful discoveries that you offer us and trade.",
+      "[u3371 | 04:29:16.320-04:29:25.110 | Wellby] And while we're not averse in principle to trading what we may or may not discovered of Drankorian origin, I think what we really want."
+    ],
+    "contextAfter": [
+      "[u3373 | 04:29:32.370-04:29:37.410 | Wellby] And perhaps when we get back to Chardon we could seek them out to make a trade there.",
+      "[u3374 | 04:29:39.600-04:29:44.520 | DM] sort of looks back at the the two that haven't spoke that."
+    ]
+  },
+  "3377": {
+    "uid": "u3377",
+    "importance": "material",
+    "reason": "Unclear wording of the dwarves' commission/funding for recovery of the chalice.",
+    "span": "trade coin that source by the dwarves",
+    "text": "The dwarves are expecting me to [[trade coin that source by the dwarves]] to get back the chalice of the priest the Chardonians took.",
+    "contextBefore": [
+      "[u3375 | 04:29:47.370-04:30:04.080 | DM] The cloaked guy in the sort of unarmored halberd wielding one and then looks back at you, and what do you have of Drankor that may be worthy of a trade.",
+      "[u3376 | 04:30:06.240-04:30:16.710 | Riswynn] Before we finish actually speaking in game, I want to make i've meant to try to tell everyone at one of the inns along the way, that when we're going to Darba."
+    ],
+    "contextAfter": [
+      "[u3378 | 04:30:27.270-04:30:37.560 | Riswynn] So I feel like in case, these people, happen to be carrying around a dwarven chalice I shouldn't ask I assume it's already back in Chardon but i'm gonna bring that up and I don't know just so it doesn't surprise anyone.",
+      "[u3379 | 04:30:40.050-04:30:41.220 | Seeker] reasonable thing to ask about."
+    ]
+  },
+  "3390": {
+    "uid": "u3390",
+    "importance": "material",
+    "reason": "Same unresolved tower name as u3372 and u3499.",
+    "span": "you don't miss this",
+    "text": "As my comrade Wellby just stated, the items that were most interested are from [[you don't miss this]] Tower the things that you listed.",
+    "contextBefore": [
+      "[u3388 | 04:31:07.410-04:31:16.770 | Kenzo] we're very tired we've just killed had a pretty epic battle over here, I understand you're busy, I understand that you're very interested in items.",
+      "[u3389 | 04:31:17.460-04:31:27.150 | Kenzo] We do have items, whether they're Drankorian origin, whether they're not Drankorian origin very interesting historical questions you're posing but."
+    ],
+    "contextAfter": [
+      "[u3391 | 04:31:36.090-04:31:44.370 | Kenzo] that's great but we're in a very different bargaining position where we actually don't have really any interest in any of the things that you have so for us.",
+      "[u3392 | 04:31:45.600-04:31:53.100 | Kenzo] there's not really much else to say here unless you can offer us something that came from that tower which, if you have something here wonderful."
+    ]
+  },
+  "3440": {
+    "uid": "u3440",
+    "importance": "incidental",
+    "reason": "Brief table response about item location; nearby units clarify the portable hole question.",
+    "span": "don't know what the Fed okay",
+    "text": "don't know what the Fed okay.",
+    "contextBefore": [
+      "[u3438 | 04:36:05.010-04:36:05.610 | Unknown] The hole.",
+      "[u3439 | 04:36:08.160-04:36:09.000 | Kenzo] Where is the hole."
+    ],
+    "contextAfter": [
+      "[u3441 | 04:36:11.760-04:36:13.620 | Seeker] yeah just used it a minute ago.",
+      "[u3442 | 04:36:14.400-04:36:24.000 | Kenzo] Tim, there are they are they like you know against Kenzo is kind of soul-sighting all of them like and kind of scanning them all learned everything and attack us are we gonna like have to fight like a bunch of fucking Chardonians."
+    ]
+  },
+  "3478": {
+    "uid": "u3478",
+    "importance": "incidental",
+    "reason": "Repeated conversational fragment following long day; no effect on negotiation.",
+    "span": "one day",
+    "text": "Be so disagreeable here we've had a long day one day it's raining.",
+    "contextBefore": [
+      "[u3476 | 04:38:56.010-04:38:56.430 | Seeker] Just take.",
+      "[u3477 | 04:38:56.490-04:38:57.600 | Delwath] don't think we have to."
+    ],
+    "contextAfter": [
+      "[u3479 | 04:39:09.750-04:39:10.590 | Kenzo] All this is true.",
+      "[u3480 | 04:39:15.930-04:39:20.010 | DM] Well, yes i'm simply asking that you."
+    ]
+  },
+  "3495": {
+    "uid": "u3495",
+    "importance": "incidental",
+    "reason": "Unclear opening fragment; the following no-harm/no-foul farewell is clear.",
+    "span": "Of WiFi",
+    "text": "Of WiFi no harm no foul you go your way we go ours and will seek you out when we get to the city.",
+    "contextBefore": [
+      "[u3493 | 04:40:23.520-04:40:25.260 | Kenzo] Strong I like it.",
+      "[u3494 | 04:40:29.580-04:40:30.930 | Wellby] We'll see you again in Chardon."
+    ],
+    "contextAfter": [
+      "[u3496 | 04:40:39.960-04:40:43.380 | Kenzo] And in true honesty and in true.",
+      "[u3497 | 04:40:45.990-04:40:46.800 | Kenzo] The true."
+    ]
+  },
+  "3499": {
+    "uid": "u3499",
+    "importance": "material",
+    "reason": "Same unresolved tower name as u3372 and u3390.",
+    "span": "you don't this is",
+    "text": "If you do have items for [[you don't this is]] tower will be very interested in discussing a trade at that point.",
+    "contextBefore": [
+      "[u3497 | 04:40:45.990-04:40:46.800 | Kenzo] The true.",
+      "[u3498 | 04:40:48.780-04:40:52.050 | Kenzo] authenticity sincerity sincerity that's the word."
+    ],
+    "contextAfter": [
+      "[u3500 | 04:41:01.080-04:41:01.230 | Riswynn] They.",
+      "[u3501 | 04:41:01.860-04:41:02.610 | Wellby] were another first."
+    ]
+  },
+  "3501": {
+    "uid": "u3501",
+    "importance": "incidental",
+    "reason": "Fragment before Riswynn states the chalice commission.",
+    "span": "were another first",
+    "text": "were another first.",
+    "contextBefore": [
+      "[u3499 | 04:40:54.000-04:40:59.670 | Kenzo] If you do have items for [[you don't this is]] tower will be very interested in discussing a trade at that point.",
+      "[u3500 | 04:41:01.080-04:41:01.230 | Riswynn] They."
+    ],
+    "contextAfter": [
+      "[u3502 | 04:41:02.670-04:41:15.510 | Riswynn] meeting for the chalice of the rune priests, which we hear the great library may have found in your travels and I will be meeting with delegates in Darba to empower me to come bargain at the great library in Chardon.",
+      "[u3503 | 04:41:17.070-04:41:18.540 | Unknown] This is not the time or place."
+    ]
+  },
+  "3519": {
+    "uid": "u3519",
+    "importance": "incidental",
+    "reason": "Overlapping rules chatter; charm saving throws are stated explicitly nearby.",
+    "span": "Exactly we get enough",
+    "text": "Exactly we get enough.",
+    "contextBefore": [
+      "[u3517 | 04:42:18.780-04:42:21.900 | Seeker] So I have the ring of the warded mind.",
+      "[u3518 | 04:42:24.600-04:42:25.470 | DM] What does that do."
+    ],
+    "contextAfter": [
+      "[u3520 | 04:42:34.380-04:42:41.460 | Seeker] you're immune to magic that allows other creatures to read your thoughts determine whether you're lying know your alignment or know your creature type um.",
+      "[u3521 | 04:42:41.940-04:42:44.310 | DM] Does it ever doesn't have anything to do with charms."
+    ]
+  },
+  "3527": {
+    "uid": "u3527",
+    "importance": "incidental",
+    "reason": "Fragment of saving-throw discussion; the ring advantage text is restated next.",
+    "span": "On door usually throws that",
+    "text": "On door usually throws that.",
+    "contextBefore": [
+      "[u3525 | 04:42:48.450-04:42:49.560 | DM] You have advantage.",
+      "[u3526 | 04:42:49.770-04:42:50.640 | Seeker] I have advantage."
+    ],
+    "contextAfter": [
+      "[u3528 | 04:42:53.670-04:42:59.130 | Seeker] Advantage the ring confers advantage on saving throws against being charmed.",
+      "[u3529 | 04:43:00.690-04:43:02.670 | Delwath] My advantage didn't really help."
+    ]
+  },
+  "3549": {
+    "uid": "u3549",
+    "importance": "material",
+    "reason": "Unclear explanation of who recognizes the charm; keep exact words rather than infer awareness for other PCs.",
+    "span": "are aware, I was but not",
+    "text": "That Seeker and Kenzo [[are aware, I was but not]].",
+    "contextBefore": [
+      "[u3547 | 04:44:01.500-04:44:03.810 | Kenzo] yeah fuck them up this is this is.",
+      "[u3548 | 04:44:05.340-04:44:05.880 | Kenzo] activity."
+    ],
+    "contextAfter": [
+      "[u3550 | 04:44:11.520-04:44:12.240 | Kenzo] An eye.",
+      "[u3551 | 04:44:12.720-04:44:13.440 | Kenzo] To eye on."
+    ]
+  },
+  "3553": {
+    "uid": "u3553",
+    "importance": "material",
+    "reason": "Unclear proposed magical response addressed to Seeker; following response says it works on only one target.",
+    "span": "I tested your magic",
+    "text": "[[I tested your magic]] Mr seeker.",
+    "contextBefore": [
+      "[u3551 | 04:44:12.720-04:44:13.440 | Kenzo] To eye on.",
+      "[u3552 | 04:44:13.470-04:44:13.980 | Delwath] I shoot."
+    ],
+    "contextAfter": [
+      "[u3554 | 04:44:17.550-04:44:19.890 | Seeker] That will only work on one of you right.",
+      "[u3555 | 04:44:21.270-04:44:21.870 | Seeker] I didn't yeah."
+    ]
+  },
+  "3564": {
+    "uid": "u3564",
+    "importance": "material",
+    "reason": "Garbled target-count/rules response; number and proposed action uncertain.",
+    "span": "To me, for targets",
+    "text": "[[To me, for targets]].",
+    "contextBefore": [
+      "[u3562 | 04:44:38.040-04:44:39.210 | Delwath] Late man.",
+      "[u3563 | 04:44:39.690-04:44:40.560 | Wellby] knows that they were trying."
+    ],
+    "contextAfter": [
+      "[u3565 | 04:44:46.140-04:44:49.140 | Kenzo] Did I fucking had talked them out i'm gonna fight them what.",
+      "[u3566 | 04:44:49.170-04:44:52.710 | Delwath] I use now, we will die do not attack them."
+    ]
+  },
+  "3591": {
+    "uid": "u3591",
+    "importance": "incidental",
+    "reason": "Heated interjection after charm; no action is resolved from it.",
+    "span": "clairvoyant beat somebody",
+    "text": "clairvoyant beat somebody yeah.",
+    "contextBefore": [
+      "[u3589 | 04:46:07.320-04:46:08.010 | Seeker] guys look.",
+      "[u3590 | 04:46:08.070-04:46:08.700 | Kenzo] pack their."
+    ],
+    "contextAfter": [
+      "[u3592 | 04:46:10.800-04:46:11.190 | Seeker] let's play.",
+      "[u3593 | 04:46:12.420-04:46:12.870 | Seeker] With."
+    ]
+  },
+  "3603": {
+    "uid": "u3603",
+    "importance": "material",
+    "reason": "Uncertain person named in discussion of who knows about the Scepter of Command.",
+    "span": "Chris What",
+    "text": "We told [[Chris What]] about the Scepter of command.",
+    "contextBefore": [
+      "[u3601 | 04:46:39.990-04:46:40.590 | DM] yeah you.",
+      "[u3602 | 04:46:40.650-04:46:42.900 | DM] You don't have to tell them everything right."
+    ],
+    "contextAfter": [
+      "[u3604 | 04:46:46.200-04:46:46.500 | Delwath] No.",
+      "[u3605 | 04:46:46.950-04:46:47.790 | Wellby] I don't think we did."
+    ]
+  },
+  "3606": {
+    "uid": "u3606",
+    "importance": "material",
+    "reason": "Possible protected-name substitution or qualifier about whether someone would have shared information; insufficient evidence for correction.",
+    "span": "deployment",
+    "text": "Good question [[deployment]] would have.",
+    "contextBefore": [
+      "[u3604 | 04:46:46.200-04:46:46.500 | Delwath] No.",
+      "[u3605 | 04:46:46.950-04:46:47.790 | Wellby] I don't think we did."
+    ],
+    "contextAfter": [
+      "[u3607 | 04:46:51.210-04:46:51.570 | Unknown] No.",
+      "[u3608 | 04:46:52.860-04:46:53.490 | Kenzo] very good point."
+    ]
+  },
+  "3610": {
+    "uid": "u3610",
+    "importance": "incidental",
+    "reason": "Unclear adjective in an otherwise explicit statement that the party has not told anyone.",
+    "span": "super passionate",
+    "text": "We have not told anybody, we are super passionate man, we have not told a single person about.",
+    "contextBefore": [
+      "[u3608 | 04:46:52.860-04:46:53.490 | Kenzo] very good point.",
+      "[u3609 | 04:46:53.730-04:46:54.030 | Unknown] Sorry."
+    ],
+    "contextAfter": [
+      "[u3611 | 04:47:02.310-04:47:04.200 | Kenzo] I love this This is great now because.",
+      "[u3612 | 04:47:04.320-04:47:11.100 | Kenzo] Like they fucking tried to charm us into telling them shit This is all act of war, complete act of war."
+    ]
+  },
+  "3616": {
+    "uid": "u3616",
+    "importance": "incidental",
+    "reason": "Scheduling/table fragment before planning the next session.",
+    "span": "Now three hours oh",
+    "text": "Now three hours oh.",
+    "contextBefore": [
+      "[u3614 | 04:47:16.500-04:47:17.100 | Delwath] So.",
+      "[u3615 | 04:47:17.190-04:47:18.750 | Kenzo] lucky in life, my blood pressure is."
+    ],
+    "contextAfter": [
+      "[u3617 | 04:47:21.750-04:47:28.560 | Kenzo] No, but Seriously though it's like everything about fucking Chardon but like like everybody else.",
+      "[u3618 | 04:47:28.590-04:47:32.790 | Delwath] would be totally character, Kenzo made a save right or at least."
+    ]
+  },
+  "3625": {
+    "uid": "u3625",
+    "importance": "incidental",
+    "reason": "Fragment across the discussion of avoiding a battle; no new action declared.",
+    "span": "Weighing in a",
+    "text": "Weighing in a.",
+    "contextBefore": [
+      "[u3623 | 04:47:42.570-04:47:45.030 | Riswynn] Kenzo that you have 10 more hit points because.",
+      "[u3624 | 04:47:45.060-04:47:46.140 | Delwath] You won't and I really."
+    ],
+    "contextAfter": [
+      "[u3626 | 04:47:47.220-04:47:53.070 | Delwath] battle presumably cooler heads will prevail, and we will not end up all dead.",
+      "[u3627 | 04:47:54.780-04:48:01.470 | Kenzo] But somebody's going to take a little bit of damage like this is like it Kenzo not Kenzo Kenzo has no self control this point like knowing what's happening right now, you."
+    ]
+  },
+  "3644": {
+    "uid": "u3644",
+    "importance": "material",
+    "reason": "Unclear account of how Charm Person constrains defending Kenzo; subsequent DM ruling gives further context.",
+    "span": "we can't put not to fight that",
+    "text": "but also a if they attack Kenzo I don't think again charm is not a powerful enough spell to say [[we can't put not to fight that]].",
+    "contextBefore": [
+      "[u3642 | 04:49:00.270-04:49:01.230 | Kenzo] The charm ends.",
+      "[u3643 | 04:49:01.260-04:49:07.350 | Kenzo] But, but what Kenzo was going to do is he's going to fucking hit you guys on like the back of your heads with his fucking staff and just wake you up."
+    ],
+    "contextAfter": [
+      "[u3645 | 04:49:18.300-04:49:19.140 | Seeker] We just gotta.",
+      "[u3646 | 04:49:19.710-04:49:21.030 | Delwath] stand idly by."
+    ]
+  },
+  "3664": {
+    "uid": "u3664",
+    "importance": "incidental",
+    "reason": "Lead-in to Mote of Fate correction; expend/re-roll discussion follows.",
+    "span": "question is",
+    "text": "question is the Mote of Fate I burned my hit dice.",
+    "contextBefore": [
+      "[u3662 | 04:50:11.940-04:50:14.250 | DM] Delwath and Wellby.",
+      "[u3663 | 04:50:16.050-04:50:16.590 | Seeker] I have a."
+    ],
+    "contextAfter": [
+      "[u3665 | 04:50:19.650-04:50:23.010 | DM] Oh that's right, what do you want to use your Mote of Fate now.",
+      "[u3666 | 04:50:24.540-04:50:25.110 | Delwath] yeah."
+    ]
+  },
+  "3672": {
+    "uid": "u3672",
+    "importance": "material",
+    "reason": "Unresolved place or group reference concerning where the scepter story has spread.",
+    "span": "happened",
+    "text": "Like you, the story of the scepter is spreading throughout [[happened]] right like it's not like some deep secret.",
+    "contextBefore": [
+      "[u3670 | 04:50:37.680-04:50:38.100 | Kenzo] yeah.",
+      "[u3671 | 04:50:41.520-04:50:42.120 | DM] I mean."
+    ],
+    "contextAfter": [
+      "[u3673 | 04:50:52.440-04:50:54.000 | DM] Like you did tell people.",
+      "[u3674 | 04:50:57.390-04:50:58.920 | Delwath] Why did you tell people."
+    ]
+  },
+  "3675": {
+    "uid": "u3675",
+    "importance": "material",
+    "reason": "Unclear earlier werewolf-related incident cited as a plot consistency concern.",
+    "span": "wearable affiliation thing",
+    "text": "[[wearable affiliation thing]] to make sense, was a big plot hole.",
+    "contextBefore": [
+      "[u3673 | 04:50:52.440-04:50:54.000 | DM] Like you did tell people.",
+      "[u3674 | 04:50:57.390-04:50:58.920 | Delwath] Why did you tell people."
+    ],
+    "contextAfter": [
+      "[u3676 | 04:51:04.200-04:51:08.610 | DM] And you must have told [[go via]] right because it's crucial to the whole.",
+      "[u3677 | 04:51:10.110-04:51:11.190 | Delwath] that's after know."
+    ]
+  },
+  "3676": {
+    "uid": "u3676",
+    "importance": "material",
+    "reason": "Unresolved person/entity said to know the scepter story; repeated at u3678.",
+    "span": "go via",
+    "text": "And you must have told [[go via]] right because it's crucial to the whole.",
+    "contextBefore": [
+      "[u3674 | 04:50:57.390-04:50:58.920 | Delwath] Why did you tell people.",
+      "[u3675 | 04:51:00.780-04:51:03.360 | Wellby] [[wearable affiliation thing]] to make sense, was a big plot hole."
+    ],
+    "contextAfter": [
+      "[u3677 | 04:51:10.110-04:51:11.190 | Delwath] that's after know.",
+      "[u3678 | 04:51:12.540-04:51:14.190 | DM] So what it [[go via]] think."
+    ]
+  },
+  "3678": {
+    "uid": "u3678",
+    "importance": "material",
+    "reason": "Same unresolved person/entity as u3676, with unclear question about what they thought.",
+    "span": "go via",
+    "text": "So what it [[go via]] think.",
+    "contextBefore": [
+      "[u3676 | 04:51:04.200-04:51:08.610 | DM] And you must have told [[go via]] right because it's crucial to the whole.",
+      "[u3677 | 04:51:10.110-04:51:11.190 | Delwath] that's after know."
+    ],
+    "contextAfter": [
+      "[u3679 | 04:51:15.390-04:51:18.210 | DM] You traded I don't think you are that secret right like.",
+      "[u3680 | 04:51:19.860-04:51:27.120 | DM] What was traded for the whole story of I mean the like the werewolf prisoner told lots of people."
+    ]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "sessionNumber": 33,
+  "status": "passed",
+  "transcriptSha256": "e6e32cf191e27ad01e4e97752d084cfd85d747ae0946060840a1d888940105bc",
+  "preparedSourceSha256": "9bfbaf3b2369fff72ebd5c3387dbdc98974d893869768579e3d82bd62ffb9942",
+  "unitCount": 2198,
+  "changedUnitCount": 876,
+  "allUnitsInspectedInBothPasses": true,
+  "firstPassRanges": [
+    "u0001-u0300",
+    "u0301-u0600",
+    "u0601-u0900",
+    "u0901-u1200",
+    "u1201-u1550",
+    "u1551-u1900",
+    "u1901-u2198"
+  ],
+  "strictSecondPassRanges": [
+    "u0001-u0550",
+    "u0551-u1100",
+    "u1101-u1650",
+    "u1651-u2198"
+  ],
+  "secondPassTruncatedOutputRecovered": [
+    "u1968-u1978"
+  ],
+  "checks": {
+    "exactHeadersAndSeparators": true,
+    "unitIDsAndOrder": true,
+    "lineCounts": true,
+    "lineEndings": true,
+    "reportAndAssessmentFingerprints": true,
+    "preparedMetadataAndSpeakerStatsMatchInitialHashes": true,
+    "sessionYamlParses": true,
+    "correctionsYamlParsesAndMatchesHelper": true,
+    "allStandardArtifactsMatchHelper": true,
+    "inventorySpansAndContextsMatchFinalSource": true,
+    "scopedGitDiffCheck": true,
+    "untrackedOutputsNoIndexDiffCheck": true,
+    "noAcceptanceFabricated": true
+  },
+  "usageGate": {
+    "initialRemainingPercent": 98,
+    "latestRemainingPercent": 97,
+    "reportedWindowDurationMinutes": 10080,
+    "allReportedApplicableWindowsAtLeast50Percent": true
+  },
+  "uncertainty": {
+    "unitCount": 2198,
+    "changedUnitCount": 876,
+    "replacementPatternCount": 990,
+    "markedMaterialLines": 41,
+    "markedMaterialSpans": 43,
+    "markedIncidentalLines": 18,
+    "markedIncidentalSpans": 18,
+    "unmarkedIncidentalLines": 55,
+    "unmarkedIncidentalSpans": 55,
+    "totalIncidentalLines": 73,
+    "totalIncidentalSpans": 73,
+    "materialIssueGroups": 31,
+    "acceptedLines": 0
+  },
+  "untouchedInputHashes": {
+    "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-source-prepared.md": "9bfbaf3b2369fff72ebd5c3387dbdc98974d893869768579e3d82bd62ffb9942",
+    "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-speaker-stats.json": "753f78d7880149dd46b73a8b59de9f830a93242bb4c3de884bb1ecea888a145c",
+    "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-session.yaml": "448b51bed46ec822853f6da9e7f4e1c0adc3d86e696b194505329c28532024c1"
+  },
+  "outputHashes": {
+    "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/dunmari-frontier-033-source-cleaned.md": "e6e32cf191e27ad01e4e97752d084cfd85d747ae0946060840a1d888940105bc",
+    "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/cleanup-artifacts/dunmari-frontier-033-cleanup-assessment.json": "3336c47cf2825c591ec4d1fe0f0cdbae5eda54e46f598f44ef79de4ff7a6f5a6",
+    "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/cleanup-artifacts/dunmari-frontier-033-cleanup-report.json": "ed0d936bc16139f3a6634f12c7f96436e49fb8ab57eb6dc3336457c6506017ae",
+    "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/cleanup-artifacts/dunmari-frontier-033-cleanup-summary.md": "603b5055e6cb21ae61328bdc3a08c44a1b8f8908ddafaedacff661ff44d85de1",
+    "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/cleanup-artifacts/dunmari-frontier-033-human-transcript.md": "a03016d9a13af24511e52c040445b8c5439d090024a91f12106ad1a4a00f32b8",
+    "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/cleanup-artifacts/dunmari-frontier-033-morning-review-inventory.json": "f3b751f1fc0e47a97bee367958974fec822852d07c7e9dd7e61de501bb367954",
+    "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/cleanup-artifacts/dunmari-frontier-033-morning-review-inventory.md": "9448652ca2a9d044e0c464da28fdbccd0e7664e4eebd9329c8b1e0361e08685e",
+    "_sessions/dunmar-frontier/dunmari-frontier-033/cleaned/cleanup-artifacts/dunmari-frontier-033-session-corrections.yaml": "200c05300da5b8f48963dcb2a33c35095a2bbcba3422ddb7acff86dc7c252bd9"
+  },
+  "scope": "Only this session cleaned transcript and cleanup-artifacts were written. No archival input, session YAML, speaker stats, glossary, shared index, skill, campaign note, commit or push was changed."
+}

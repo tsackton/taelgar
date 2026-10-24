@@ -5,6 +5,8 @@ Examples (from the vault root):
     python3 _scripts/cleanup_session_artifacts.py dunmar-frontier 1-6
     python3 _scripts/cleanup_session_artifacts.py lablost 1,3 --execute
     python3 _scripts/cleanup_session_artifacts.py feywild 4 --include-atypical
+    python3 _scripts/cleanup_session_artifacts.py dunmar-frontier 7 --force
+    python3 _scripts/cleanup_session_artifacts.py dunmar-frontier 7 --force --execute
 
 Only --execute writes. --include-atypical widens deletion inside the three
 artifact directories, never directly under cleaned/. Recaps, both sources,
@@ -25,9 +27,10 @@ cleanup may require reassessment. Timeline evidence retains authored chronology
 reasoning, timeline reviews validate it, and scene approvals support resuming
 summary generation without repeating approval of unchanged inputs.
 
-Each bundle must have a nonempty recap, both sources, beats, beat facts, and
-manifest. Incomplete bundles are skipped with a nonzero exit status. No override
-permits cleaning a bundle without its recap. Symbolic links are never followed
+By default, each bundle must have a nonempty recap, both sources, beats, beat
+facts, and manifest. Incomplete bundles are skipped with a nonzero exit status.
+--force bypasses all required-file checks; it remains a dry run unless --execute
+is also supplied. Symbolic links are never followed
 or deleted. Files that changed after planning are refused before that bundle's
 deletions start. Only empty artifact directories are removed.
 
@@ -105,6 +108,7 @@ class Plan:
     protected: list[tuple[Path, str]] = field(default_factory=list)
     deleted_files: list[Candidate] = field(default_factory=list)
     removed_directories: list[Path] = field(default_factory=list)
+    force: bool = False
 
     @property
     def cleaned(self) -> Path:
@@ -144,12 +148,14 @@ def regular_file(path: Path) -> bool:
     return path.is_file() and not path.is_symlink()
 
 
-def check_bundle(bundle: Path, prefix: str) -> None:
+def check_bundle(bundle: Path, prefix: str, *, force: bool = False) -> None:
     if bundle.is_symlink() or not bundle.is_dir():
         raise CleanupError("bundle is missing or is a symbolic link")
     cleaned = bundle / "cleaned"
     if cleaned.is_symlink() or not cleaned.is_dir():
         raise CleanupError("cleaned/ is missing or is a symbolic link")
+    if force:
+        return
     for suffix in REQUIRED_SUFFIXES:
         path = cleaned / f"{prefix}-{suffix}"
         if not regular_file(path) or path.stat().st_size == 0:
@@ -193,10 +199,10 @@ def unique_facts_copy(path: Path, cleaned: Path) -> bool:
     return not regular_file(retained) or path.read_bytes() != retained.read_bytes()
 
 
-def build_plan(bundle: Path, *, include_atypical: bool = False) -> Plan:
+def build_plan(bundle: Path, *, include_atypical: bool = False, force: bool = False) -> Plan:
     prefix = bundle.name
-    check_bundle(bundle, prefix)
-    plan = Plan(bundle=bundle, prefix=prefix)
+    check_bundle(bundle, prefix, force=force)
+    plan = Plan(bundle=bundle, prefix=prefix, force=force)
     delete_names = {f"{prefix}-{suffix}" for suffix in DELETE_SUFFIXES} | {FINDER_METADATA}
     keep_names = {f"{prefix}-{suffix}" for suffix in KEEP_SUFFIXES}
 
@@ -267,7 +273,7 @@ def execute_plan(plan: Plan) -> None:
     for parent in (plan.bundle.parent.parent, plan.bundle.parent):
         if parent.is_symlink() or not parent.is_dir():
             raise CleanupError(f"session parent changed or is linked: {parent}")
-    check_bundle(plan.bundle, plan.prefix)
+    check_bundle(plan.bundle, plan.prefix, force=plan.force)
     for candidate in plan.files:
         for parent in candidate.path.parents:
             if parent == plan.bundle:
@@ -328,6 +334,7 @@ def main(argv: Optional[Sequence[str]] = None, *, vault_root: Optional[Path] = N
     parser.add_argument("campaign", help="Folder under _sessions/, e.g. dunmar-frontier or lablost.")
     parser.add_argument("sessions", type=parse_sessions, help="Single, list, or range: 1; 1,4,7; 1-3. Fractional IDs may be listed explicitly.")
     parser.add_argument("--execute", action="store_true", help="Delete the listed files. Default: dry run.")
+    parser.add_argument("--force", action="store_true", help="Bypass all required-file checks. Still a dry run unless --execute is supplied.")
     parser.add_argument("--include-atypical", action="store_true", help="Also delete atypical regular files inside cleanup-artifacts, annotation-artifacts, and annotation-context only.")
     args = parser.parse_args(argv)
     root = (vault_root if vault_root is not None else VAULT_ROOT).resolve()
@@ -341,7 +348,7 @@ def main(argv: Optional[Sequence[str]] = None, *, vault_root: Optional[Path] = N
     plans: list[Plan] = []
     for bundle in bundles:
         try:
-            plans.append(build_plan(bundle, include_atypical=args.include_atypical))
+            plans.append(build_plan(bundle, include_atypical=args.include_atypical, force=args.force))
         except (CleanupError, OSError) as exc:
             errors.append(f"{display(bundle, root)}: {exc}")
     for error in errors:

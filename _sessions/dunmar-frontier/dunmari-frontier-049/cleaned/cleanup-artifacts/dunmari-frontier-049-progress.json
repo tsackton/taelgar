@@ -1,0 +1,37 @@
+{
+  "status": "complete_pending_human_morning_review",
+  "usage_remaining_percent_start": 94,
+  "protected_names": [
+    "Kenzo",
+    "Wellby",
+    "Delwath",
+    "Seeker",
+    "Riswynn",
+    "DM"
+  ],
+  "glossary": "None provided in delegation or session YAML",
+  "first_pass_through": 4033,
+  "second_pass_through": 4033,
+  "human_acceptance": false,
+  "changed_or_marked_units_so_far": 1440,
+  "changed_units": 1440,
+  "usage_remaining_percent_final": 93,
+  "uncertainty_counts": {
+    "material": {
+      "lines": 328,
+      "spans": 374,
+      "markedLines": 328,
+      "markedSpans": 374,
+      "unmarkedVerbatimLines": 0,
+      "unmarkedFullLineSpans": 0
+    },
+    "incidental": {
+      "lines": 259,
+      "spans": 260,
+      "markedLines": 57,
+      "markedSpans": 58,
+      "unmarkedVerbatimLines": 202,
+      "unmarkedFullLineSpans": 202
+    }
+  }
+}

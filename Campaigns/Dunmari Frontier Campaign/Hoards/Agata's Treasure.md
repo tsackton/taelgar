@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T07:57:56-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint]
+tags: [meta]
 typeOf: hoard
 campaign: Dunmar Frontier
 name: "Agata Dustmother's Treasure"
@@ -31,7 +31,7 @@ These are items carried by Agata, acquired by the party after [[Session 28 (DuFr
 
 - A silver ring, set with an obsidian gem. Could sell for 300-1800gp. %%SECRET[v2:bffbd75048d0ecf7743919ea0734c6e7]%%
 - A diamond of beautiful quality and cut. Carried by [[Agata]]. Could sell for 1000-2400gp. Seen in [[Mirror of the Past]]: [[Extravagant Diamond Vision]]. %%SECRET[v2:f2ab65c36fda68221f8470e294cdcbc2]%%
-- Five uncut gemstones: an amethyst (10-60gp %%SECRET[v2:ada11aa18f367c18c8b93285676615c6]%%), a rose quartz (50-300gp %%SECRET[v2:c979f5deab3c931c23e9fc05bb030f9b]%%), and a topaz (100-600gp %%SECRET[v2:1c094b6a057da7488750f9a2c362a3cb]%%). If cut and polished by a skilled gemcutter, the rubies and topaz could sell for perhaps quadruple; the amethyst and rose quartz could sell for double.
+- Five uncut gemstones: two rubies (100-600gp each %%SECRET[v2:1c094b6a057da7488750f9a2c362a3cb]%%), an amethyst (10-60gp %%SECRET[v2:ada11aa18f367c18c8b93285676615c6]%%), a rose quartz (50-300gp %%SECRET[v2:c979f5deab3c931c23e9fc05bb030f9b]%%), and a topaz (100-600gp %%SECRET[v2:1c094b6a057da7488750f9a2c362a3cb]%%). If cut and polished by a skilled gemcutter, the rubies and topaz could sell for perhaps quadruple; the amethyst and rose quartz could sell for double.
 
 ## Taken from Agata's Lair
 
@@ -83,19 +83,3 @@ These are items recovered from Agata's lair, after it was [[Session 30 (DuFr)|fo
 - Two heavy shields decorated with rearing horses, of average make. 
 - Thousands of coins from more than a dozen different kingdoms     
 - A soapstone figurine, depicting Kotana on a horse
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added the canonical campaign identity and explicit display name, and recorded the inventory’s acquisition-era POV.
-- Corrected objective prose defects: "Each are about the size of halflings' fist, and are marked" → "Each is about the size of a halfling's fist, and is marked"; 'tongues struck on a twisted copper chain' → 'tongues strung on a twisted copper chain'; '### Mudane Items' → '### Mundane Items'; 'An heavy iron ring' → 'A heavy iron ring'; 'made of silver, A battle scene' → 'made of silver. A battle scene'; 'Contains Four vials' → 'Contains four vials'.
-
-### Validated judgments
-- The note is sufficient as a campaign acquisition inventory; later item dispositions are recorded separately in [[Party Treasure - Former]].
-- Reviewed every SECRET annotation without transferring its contents into shared prose.
-
-### Open findings
-
-- [ ] **Warning — consistency.internal_conflict:** The “Five uncut gemstones” entry names only an amethyst, a rose quartz, and a topaz, then discusses polishing “the rubies” although no rubies appear in the inventory. Confirm the actual count and missing identities before selling or distributing them. If the three listed stones are the complete set, the bounded corrections are “Three uncut gemstones” and “the topaz could sell for perhaps quadruple”; otherwise retain the total of five and add the two verified missing stones. No count or identity has been inferred.
-%%^End%%

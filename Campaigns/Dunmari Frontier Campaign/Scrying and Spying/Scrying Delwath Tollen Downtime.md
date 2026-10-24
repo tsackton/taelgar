@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-20T09:08:30-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint]
+tags: [meta]
 campaign: Dunmar Frontier
 name: Scrying Delwath Tollen Downtime
 POV: 1749
@@ -86,7 +86,7 @@ She takes a small vial from a pouch, and hands it to Radomir. 
 
 “Take this, it should at least help with the cough. And it might quiet the nightmares, a little.”
 
-Radomir thanks her, calling her sister, and they talk quietly of his health for a few moments, before the woman tells Radomir she cannot linger for she has business at the border. As she leaves, she turns back to Radomir, saying, “You should know you are being watched. The Rodyna Voknaz trust you enough to leave you your wits and freedom, but not so much as to leave you totally unobserved. Please don’t do anything that would violate the terms of your surrender. You may think I don’t care, but I would not wish to see you dead.”
+Radomir thanks her, calling her sister, and they talk quietly of his health for a few moments, before the woman tells Radomir she cannot linger for she has business at the border. As she leaves, she turns back to Radomir, saying, “You should know you are being watched. The Rodnya Voknaz trust you enough to leave you your wits and freedom, but not so much as to leave you totally unobserved. Please don’t do anything that would violate the terms of your surrender. You may think I don’t care, but I would not wish to see you dead.”
 
 The woman then rides off. ​​
 
@@ -100,18 +100,3 @@ Delwath spends an evening in late February speaking to [[Sura]] via the Dream sp
 - Karnas and Sura have agreed to stand down their armies. Sura is sending the bulk of her troops to join Havdar’s camp along the Chardonian border, while a smaller fraction is heading east to reinforce [[Shakun's Protection]] and patrol the eastern border. 
 - [[Sura]] and [[Nayan Karnas|Karnas]] will remain for some time, while negotiations continue. [[Johar]] will leave soon to ask Speaker [[Lara]] to summon a conclave of the head priests and leaders of the mystai, and [[Nayan Karnas|Karnas]] is sending messages west asking the same. 
 - However, no one is quite sure exactly how to proceed once a conclave is formed, other than to hope the gods have some clear message, but this does not feel urgent as it will take some months for the conclave to gather and thus it feels like there is plenty of time for the gods to make their will known. Current negotiations are largely over the structure of the conclave and what it will be empowered to decide.
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Recorded the explicit document name, canonical `campaign: Dunmar Frontier`, and campaign-observation `POV: 1749`.
-- Corrected 8 objective typo, punctuation, or grammar defects; preserved source voice and uncertainty.
-
-### Validated judgments
-- Reviewed as a bounded campaign record; visionary or scrying uncertainty remains source testimony.
-
-### Open findings
-
-- [ ] **Suggestion — correctness.name_spelling:** The Radomir section first names `[[Rodnya Voknaz]]` but later quotes “The Rodyna Voknaz trust you enough”. [[Rodnya Voknaz]] and [[Philosopher's Information Concerning Rodnya Voknaz]] use “Rodnya Voknaz”. Confirm whether the second spelling is a transcription typo or intentional speech. If it is a typo, replace only “The Rodyna Voknaz trust you enough” with “The Rodnya Voknaz trust you enough”. The source wording remains unchanged pending that decision.
-%%^End%%
