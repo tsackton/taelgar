@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/lint]
+tags: [meta]
 name: Playing an Elf
 dm_owner: joint
 dm_notes: none
@@ -12,16 +12,18 @@ POV: modern
 *See more: [[Elves]], [[Elven Cycle of Generations]], [[Aldanor]], [[Elmerca]]*
 D&D Beyond Link: [Elf](https://www.dndbeyond.com/species/1755491-elf)
 
-[[Elves]] have a deep connection to magic and nature through their connection to their gods, [[Aldanor]], the Living Tree and [[Elmerca]], the Wild Star. They do not die of old age, although many tire of the world, and it is rumored that some of the first elves to exist still walk the earth. The elves of Taelgar have also faced tragedy and loss, suffering and dying in cataclysmic wars that have shaken the world. These days, elves are few in number, and while some still look outward, others have turned inward, disavowing their ancient roles as protectors of Taelgar. Few elves live in the settlements of other species, and many common folk will have never met one.
+[[Elves]] have a deep connection to magic and nature through their connection to their gods, [[Aldanor]], the Living Tree and [[Elmerca]], the Wild Star. They do not die of old age, although many tire of the world, and it is rumored that some of the first elves to exist still walk the earth. The elves of Taelgar have also faced tragedy and loss, suffering and dying in cataclysmic wars that have shaken the world. These days, elves are few in number, and while some still look outward, others have turned inward, disavowing their ancient roles as protectors of Taelgar. Few elves live in the settlements of other species, and though it is a rare person who has not heard of the elves, many common folk will have never met one.
 
-Elven culture and society are strongly shaped by the [[Elven Cycle of Generations]], known as the _ka_, a unique cycle system of non-overlapping generations arising from elves' extremely long lifespans but limited time when they can bear children. Elves can only have children for about a 30 year period, when the roots of Aldanor tie them to the Material Plane, but can live to be hundreds, or even thousands, of years old. This means that each generation is distinct and non-overlapping, and the elves count these, numbering from the first generation of the elves. 
+Elven culture and society are strongly shaped by the [[Elven Cycle of Generations]], known as the _ka_, a unique cycle of generations arising from elves' extremely long lifespans, but limited time when they can bear children. Elves can only have children for a handful of decades, when the roots of Aldanor tie them to the Material Plane, but can live to be hundreds, or even thousands, of years old. This means that each generation is distinct and non-overlapping: the elves count these generations, called the *ka*, numbering from the first generation of the elves. 
 
 ---
 ## Creating Your Elf Character
 
-To create your elf character, consider first your age and your generation, or _ka_. If you were born in the 37th _ka_, you are likely between 120 and 150 years old. Many elves of this age are encouraged to leave their home, travel, explore, so this is a natural choice for an adventurer. If you wish to be older, consider what has made you an adventurer later in life. Consider also where you are from, and your relationship with your kin and other species.
+To create your elf character, consider first your age and your generation, or _ka_. For adventures set in the 1700s, a good default is the 37th _ka_. Elves of this generation were born roughly between 1630 and 1670, and emerged from the Dreaming around 1712. You would then be in your first *leya*, when many are encouraged to leave their home, travel, and explore, so this is a natural choice for an adventurer. 
 
-A simple answer if engaging with the lore of elves is not of interest to you is that you came from an isolated elven kingdom (the kingdom of [[Orenlas]] is a good choice), were born in the 37th _ka_ and are now spending the years of your life before you decide whether to return to your home traveling and adventuring.
+If you wish to be older, consider what has made you an adventurer later in life, what your early life was like, and whether you are a parent or chose not to have children. Elves of the 36th *ka* emerged from their Dreaming into the devastation of the Great War, where many died. Elves of the 35th *ka* awoke from their Dreaming almost 400 years ago (for games set in the 1700s), and saw their generation-mates and children fight and die in the Great War. 
+
+Consider also where you are from, and your relationship with your kin and other species. A simple answer if engaging with the lore of elves is not of interest to you is that you came from an isolated elven kingdom (the kingdom of [[Orenlas]] is a good choice), were born in the 37th _ka_ and are now spending the years of your life before you decide whether to return to your home traveling and adventuring.
 
 ### Elf Names
 
@@ -86,23 +88,4 @@ Firstborn Gift is roughly on par with 2 cantrips; Elven Ritual magic is probably
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern character-creation guidance; the 37th-ka age example requires a campaign-year anchor and does not establish a date for the guide as a whole.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added an explicit page name and broadly modern POV with persistent temporal notes.
-- Corrected six unambiguous public grammar and typographical errors, preserving ages, fertility, rules, and names.
-
-### Validated judgments
-- The guide follows the player-facing structure of [[Playing a Halfling]]; species-article headings from [[Halflings]] are not required.
-- The guide’s thirty-year fertile period is corroborated by [[Elven Cycle of Generations]], but the directly linked [[Elves]] article retains a conflicting account that needs human reconciliation.
-- The design block contains mechanical balance rationale; no private material was promoted.
-
-### Open findings
-
-- [ ] **Warning — temporal.unanchored_age_example:** “If you were born in the 37th ka, you are likely between 120 and 150 years old” lacks a campaign-year anchor. [[Elven Cycle of Generations#The Years of the ka]] begins that ka in DR 1627, and its opening account places births in a roughly thirty-year period, so the age range changes across modern campaigns. Choose a stated campaign year and calculate the matching range, or replace the sentence with: “If you were born in the 37th ka, choose your age using your campaign’s year and the birth period described in [[Elven Cycle of Generations]].” Do not silently narrow the entire guide to an inferred year.
-
-- [ ] **Warning — correctness.cross_note_conflict:** The introduction gives roughly thirty fertile years, matching [[Elven Cycle of Generations]], while [[Elves#The Elven Cycle of Generations]] gives roughly fifty years, with childbearing around ages 150–200 and adulthood around fifty. The Elves note is marked `status/wip` and warns that its account is old. Confirm the intended lifecycle and reconcile the linked article with this guide and the cycle reference; do not treat the old or new account as automatically superseding the other. If retaining this guide’s model, a candidate for the fertility sentence in [[Elves]] is: “Elves can bear children for roughly thirty years during the mela, when Aldanor’s roots bind them to the Material Plane.” The associated childhood and Awakening account needs the same human review.
 %%^End%%

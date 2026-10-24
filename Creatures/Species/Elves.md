@@ -54,17 +54,25 @@ Elves do not die of old age as humans do, and can live for many centuries or eve
 
 Elves usually make their homes in forests and other wild places, shaping their settlements through woodcraft and magic. Towers, halls, and gardens grow among the trees, and their innate magic allows them to grow what they need from the surrounding land without the broad clearings for agriculture and pasture familiar from the settlements of other species. Most settlements, large or small, are hard to find and concealed by magic, so travelers may pass close by without realizing that anyone lives there. Even a great elven city can seem to emerge suddenly from an unbroken forest.
 
-[[Orenlas]], east of the [[Sentinel Range|Sentinels]], is one of the oldest surviving elven forests. Its dreaming trees still echo the song of Aldanor, and its largest settlement, [[Erelion]], is claimed to be the oldest continually occupied city on Taelgar. Beyond such ancient homelands, individual elves travel widely, though relatively few make permanent homes in the cities and towns of other peoples.
+[[Orenlas]], east of the [[Sentinel Range|Sentinels]], is one of the oldest surviving elven forests. Its dreaming trees still echo the song of Aldanor, and its largest settlement, [[Erelion]], is claimed to be the oldest continually occupied city on Taelgar. In the west, the forests of [[Ainumarya]] once held great elven kingdoms, but many died or fled during the [[Great War]], and only scattered small communities of elves still make there home in these forests. 
 
-%%@Mike - probably worth incorporating ideas about (a) [[Ainumarya]] and the lost elves, and (b) the idea that elves grow all they need with magic plants  - hinted at above %%
+Beyond such ancient homelands, individual elves travel widely, though relatively few make permanent homes in the cities and towns of other peoples.
 
----
+%%@Mike - doesn't fully capture the idea that elves grow all they need with magic plants  - hinted at above - but this is also mentioned in Gods and Magic below which might be enough %%
 
 ## Cultural Traits
 
+Elven culture and society is deeply shaped by the *ka*, the rhythm of the generations. Elves too are shaped by this cycle, as each elf moves through life, from a child dreaming with their generation-mates, to a young adult wandering during their first *leya*, to parenthood and tending their communities in their first *mela* and beyond. As the cycle repeats, over and over, the elves that remain are those with a deep attachment to the living world. Many elves feel this attachment as a desire to protect the world of Taelgar, though after the tragedies of the Great War, some feel the desire to protect what remains of their own homes pulling against any broader sense of obligation to the world beyond.
+
 ### Gods and Magic
 
-Elves call Aldanor and Elmerca the Firstborn, and understand their own life and magic through their connection to the pair. Aldanor embodies life, growth, and endurance, anchoring elves to the material world. Elmerca is associated with insight, passion, change, and foresight. Their influence is felt in the rhythm of the generations, in dreams and ritual, and in the magic woven through elven homes.
+Elves call [[Aldanor]] and [[Elmerca]] the Firstborn, and understand their own life and magic through their connection to these deities, the divine creators of their species. Aldanor embodies life and growth, anchoring elves to the material world. It is Aldanor's roots that create the conditions for elves to procreate, and it is Aldanor's pull that anchors elves to the world across each cycle of the *ka*. Elves that cease to feel the connection to Aldanor's anchor pass on from this life. 
+
+---
+
+Elmerca is associated with insight, passion, foresight, and especially magic. It is Elmerca's grace that gives elven homes their....(TO BE CONTINUED)
+
+Their influence is felt in the rhythm of the generations, in dreams and ritual, and in the magic woven through elven homes.
 
 Magic is part of ordinary elven life. It sustains gardens and living buildings, aids crafts and artistic work, and allows communities to provide for their members. Elven settlements often have little need to trade for food or other necessities, although rare materials and unfamiliar creations can still draw their interest.
 
