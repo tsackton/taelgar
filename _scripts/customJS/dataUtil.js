@@ -119,6 +119,15 @@ class DateManager {
             return this.normalizeDate(dateMetadata.pageTargetDate, false);
         }
 
+        if (typeof window.TaelgarverseCalendar?.getCurrentDate === "function") {
+            try {
+                const currentDate = window.TaelgarverseCalendar.getCurrentDate();
+                if (currentDate) return this.normalizeDate(currentDate, false);
+            } catch (e) {
+                // The new calendar may still be loading; use the existing calendars below.
+            }
+        }
+
         if (window.FantasyCalendarAPI == undefined || window.FantasyCalendarAPI.getCalendars().length == 0) {
             const calendarAPI = Calendarium.getAPI("Taelgar");
             const currentDate = calendarAPI.getCurrentDate(); // this is an object { year: number, month: number, day: number }
