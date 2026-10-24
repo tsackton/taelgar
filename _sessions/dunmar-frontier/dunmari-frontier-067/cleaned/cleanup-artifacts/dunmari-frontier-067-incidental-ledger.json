@@ -13,5 +13,19 @@
   "522": "Brief reaction.",
   "550": "Short table fragment.",
   "681": "Marching-order interjection; following units establish middle and rear.",
-  "762": "Ladder anecdote fragment; no current action affected."
+  "762": "Ladder anecdote fragment; no current action affected.",
+  "801": "Dice reroll chatter.",
+  "838": "Fragmentary clarification; subsequent units explicit.",
+  "847": "Broken fragment between unsure character description.",
+  "863": "Filler while identifying PC.",
+  "864": "Short unclear interjection.",
+  "908": "Resource/rest table discussion, no actual rest taken.",
+  "916": "Self-corrected range question; following units establish range.",
+  "996": "Initiative waiting chatter.",
+  "1016": "Broken attack preface.",
+  "1067": "Abandoned attempt to find curse remedy; following units explicit.",
+  "1074": "Dice interface chatter.",
+  "1113": "Damage total question.",
+  "1117": "Overlapping combat interjection; next unit explicit death.",
+  "1186": "Garbled player assent; surrounding units explicitly establish knockout/capture."
 }

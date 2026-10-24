@@ -803,60 +803,60 @@
 [u0803 | 00:49:32.090-00:49:38.929 | DM] and you feel yourself inexorably drawn to run towards these creatures.
 [u0804 | 00:49:39.360-00:49:43.579 | Kenzo] But wait, wait, can't I? can't I? cleanse him?
 [u0805 | 00:49:45.800-00:49:49.609 | DM] Well, at the moment you don't know he's charmed. You. Just see
-[u0806 | 00:49:50.510-00:49:55.169 | DM] seeker turning as the 3 of you as the 4 of you approached the
+[u0806 | 00:49:50.510-00:49:55.169 | DM] Seeker turning as the 3 of you as the 4 of you approached the
 [u0807 | 00:49:55.860-00:49:58.710 | Caulaus] over. I do I know anything about
-[u0808 | 00:49:58.950-00:50:00.739 | Caulaus] fade charms and things.
-[u0809 | 00:50:01.470-00:50:03.419 | Caulaus] What I recognize that
+[u0808 | 00:49:58.950-00:50:00.739 | Caulaus] fey charms and things.
+[u0809 | 00:50:01.470-00:50:03.419 | Caulaus] Would I recognize that
 [u0810 | 00:50:06.090-00:50:08.210 | Caulaus] him stopping is a bad sign.
-[u0811 | 00:50:09.170-00:50:11.519 | Seeker] I have a big memory of that happening before.
+[u0811 | 00:50:09.170-00:50:11.519 | Seeker] I have a vague memory of that happening before.
 [u0812 | 00:50:11.690-00:50:14.110 | DM] I think you had all recognized that
 [u0813 | 00:50:14.370-00:50:19.309 | DM] him stopping and turning to run toward these people. Okay, here's a question.
 [u0814 | 00:50:19.580-00:50:23.030 | Caulaus] Can I charm him to charm him back to our side?
-[u0815 | 00:50:24.210-00:50:28.140 | Kenzo] No, you don't have to do any of that tensor just to touch him, and then he'll be on
+[u0815 | 00:50:24.210-00:50:28.140 | Kenzo] No, you don't have to do any of that Kenzo just to touch him, and then he'll be on
 [u0816 | 00:50:29.120-00:50:29.819 | Seeker] well.
-[u0817 | 00:50:30.090-00:50:33.229 | Seeker] The secret has turned and and is
-[u0818 | 00:50:33.970-00:50:38.609 | DM] open arms. Looking up to this guy, I would let you counter a charm with a charm.
+[u0817 | 00:50:30.090-00:50:33.229 | Seeker] Seeker has turned and and is
+[u0818 | 00:50:33.970-00:50:38.609 | DM] open arms. Looking up to the sky, I would let you counter a charm with a charm.
 [u0819 | 00:50:38.950-00:50:40.099 | Caulaus] I'm gonna try it
 [u0820 | 00:50:40.740-00:50:41.529 | Kenzo] bye.
-[u0821 | 00:50:43.920-00:50:48.610 | DM] The creatures now are starting to swarm down towards seeker Another
-[u0822 | 00:50:48.630-00:50:51.000 | DM] 80 feet seekers one, maybe.
+[u0821 | 00:50:43.920-00:50:48.610 | DM] The creatures now are starting to swarm down towards Seeker Another
+[u0822 | 00:50:48.630-00:50:51.000 | DM] 80 feet Seeker's one, maybe.
 [u0823 | 00:50:51.760-00:50:55.010 | Caulaus] Oh, definitely, Hold on just
 [u0824 | 00:50:55.070-00:50:57.199 | Caulaus] positioning wise like, how
 [u0825 | 00:50:57.680-00:50:59.699 | Caulaus] close are we to the underhang?
-[u0826 | 00:51:00.180-00:51:03.519 | Caulaus] Your app, the underlying okay, and how far out is secret
+[u0826 | 00:51:00.180-00:51:03.519 | Caulaus] You're at the overhang okay, and how far out is Seeker
 [u0827 | 00:51:04.680-00:51:09.110 | DM] Seeker is now just turning to run.
-[u0828 | 00:51:09.600-00:51:16.389 | Caulaus] My echo is still like 30 feet out, not in the under right, standing there defiantly like, come and get right.
-[u0829 | 00:51:16.980-00:51:19.229 | Caulaus] and if seekers turning run.
-[u0830 | 00:51:19.380-00:51:23.179 | Caulaus] I'm going to cast charm on him. Sorry. Go ahead. Were you going to do something to Kenza.
+[u0828 | 00:51:09.600-00:51:16.389 | Caulaus] My echo is still like 30 feet out, not in the overhang, right, standing there defiantly like, come and get right.
+[u0829 | 00:51:16.980-00:51:19.229 | Caulaus] and if Seeker's turning run.
+[u0830 | 00:51:19.380-00:51:23.179 | Caulaus] I'm going to cast charm on him. Sorry. Go ahead. Were you going to do something to Kenzo.
 [u0831 | 00:51:24.200-00:51:25.890 | Kenzo] yeah, When if
 [u0832 | 00:51:26.480-00:51:31.640 | Kenzo] and on the order initiative, everything else to him. Yeah, i'd like to run in cleansing touch
 [u0833 | 00:51:32.120-00:51:34.890 | DM] Seeker. well, let's see if F
-[u0834 | 00:51:34.990-00:51:37.509 | DM] call this thing works first, and then
-[u0835 | 00:51:39.730-00:51:41.269 | DM] Kenza can go next.
-[u0836 | 00:51:41.680-00:51:43.489 | Seeker] I'm probably more of Kansas. I'm just kidding.
+[u0834 | 00:51:34.990-00:51:37.509 | DM] Caulaus's thing works first, and then
+[u0835 | 00:51:39.730-00:51:41.269 | DM] Kenzo can go next.
+[u0836 | 00:51:41.680-00:51:43.489 | Seeker] I'm probably more of Kenzo's. I'm just kidding.
 [u0837 | 00:51:43.780-00:51:49.219 | DM] Well, no, you're You're just drawn to the song, You're not
 [u0838 | 00:51:49.300-00:51:51.649 | DM] tape. You're not like turning on your allies or anything.
 [u0839 | 00:51:51.770-00:51:54.230 | Seeker] I just want to get to these creatures.
-[u0840 | 00:51:54.620-00:52:00.240 | DM] so make another wisdom, save also with advantage to resist Allison's charm
+[u0840 | 00:51:54.620-00:52:00.240 | DM] so make another wisdom, save also with advantage to resist Caulaus's charm
 [u0841 | 00:52:00.580-00:52:02.560 | Seeker] this time. You gotta fail
 [u0842 | 00:52:03.190-00:52:04.589 | Caulaus] so far, so good.
 [u0843 | 00:52:05.670-00:52:09.259 | Caulaus] Yes, You see, 14
-[u0844 | 00:52:11.250-00:52:12.660 | Wellby] strong roles.
+[u0844 | 00:52:11.250-00:52:12.660 | Wellby] strong rolls.
 [u0845 | 00:52:14.360-00:52:16.830 | DM] Yeah.
-[u0846 | 00:52:17.650-00:52:20.489 | Seeker] seeker is not just kind of
+[u0846 | 00:52:17.650-00:52:20.489 | Seeker] Seeker is not just kind of
 [u0847 | 00:52:21.210-00:52:22.160 | DM] hot.
 [u0848 | 00:52:25.670-00:52:30.890 | DM] standing there, I would say, kind of unsure as to what to do at the
 [u0849 | 00:52:32.550-00:52:35.600 | Seeker] that must be a very confusing sensation to be charmed, and then
 [u0850 | 00:52:35.710-00:52:38.689 | DM] we have a
-[u0851 | 00:52:38.810-00:52:43.550 | DM] which are still like plunging down out of the sky, heading for seeker
-[u0852 | 00:52:43.680-00:52:50.289 | DM] and You can hear all of them say, give us. So please
-[u0853 | 00:52:50.890-00:52:57.229 | Caulaus] give us that. So, please. This echo is basically that's the quizzer's got to be to Phineas
+[u0851 | 00:52:38.810-00:52:43.550 | DM] which are still like plunging down out of the sky, heading for Seeker
+[u0852 | 00:52:43.680-00:52:50.289 | DM] and You can hear all of them say, give us. [[So please]]
+[u0853 | 00:52:50.890-00:52:57.229 | Caulaus] give us [[that. So, please]]. This echo is basically [[that's the quizzer's]] got to be Typhina's
 [u0854 | 00:52:57.460-00:53:00.450 | Caulaus] true name, or something like that, or fame, or
-[u0855 | 00:53:01.120-00:53:03.280 | Seeker] maybe it's callous. Who knows
-[u0856 | 00:53:04.540-00:53:09.579 | Caulaus] the we? We have no dest to please, no argument here.
+[u0855 | 00:53:01.120-00:53:03.280 | Seeker] maybe it's Caulaus. Who knows
+[u0856 | 00:53:04.540-00:53:09.579 | Caulaus] the we? We have no [[dest to please]], no argument here.
 [u0857 | 00:53:10.040-00:53:14.469 | Caulaus] the echo is going to come. Stand like next to
-[u0858 | 00:53:15.030-00:53:21.519 | Caulaus] seeker. I mean he he's 30 feet away. He's not more than 30 feet away, presumably. Yeah, Seeker is 30 feet away.
-[u0859 | 00:53:22.300-00:53:26.939 | DM] up, Kenz, or we do you want to do anything
+[u0858 | 00:53:15.030-00:53:21.519 | Caulaus] Seeker. I mean he he's 30 feet away. He's not more than 30 feet away, presumably. Yeah, Seeker is 30 feet away.
+[u0859 | 00:53:22.300-00:53:26.939 | DM] up, Kenzo, we do you want to do anything
 [u0860 | 00:53:27.060-00:53:28.960 | Wellby] I want to get to cover and start shooting?
 [u0861 | 00:53:29.420-00:53:30.710 | Kenzo] is that
 [u0862 | 00:53:31.530-00:53:34.770 | Kenzo] so? So is it obvious now that
@@ -864,21 +864,21 @@
 [u0864 | 00:53:37.270-00:53:38.029 | Caulaus] Tell us
 [u0865 | 00:53:38.280-00:53:41.089 | Kenzo] No, that that see?
 [u0866 | 00:53:41.280-00:53:44.539 | DM] Yeah, I mean, he's standing there confused
-[u0867 | 00:53:44.580-00:53:52.620 | DM] like looking. I turned it back around. Yeah, okay, Turn back around, and he's like looking in, each looking towards callous and looking towards
-[u0868 | 00:53:52.650-00:53:55.889 | DM] these creatures frying out of the sky like sort of
+[u0867 | 00:53:44.580-00:53:52.620 | DM] like looking. I turned it back around. Yeah, okay, Turn back around, and he's like looking in, each looking towards Caulaus and looking towards
+[u0868 | 00:53:52.650-00:53:55.889 | DM] these creatures flying out of the sky like sort of
 [u0869 | 00:53:55.910-00:53:56.959 | DM] what
-[u0870 | 00:53:57.110-00:54:05.049 | Kenzo] Tim it's obvious. He's under some magical effect. He he is still into the magical effect. He he is a charged by 2 people at the moment.
-[u0871 | 00:54:05.070-00:54:18.959 | DM] Okay, which I've stopped him from running. But isn't should I met a game? Should I UN charm him, or should I? Just? I just tell that? Okay. Well, I don't know, but just do it. We're supposed to role, play with our characters and do not met a game.
+[u0870 | 00:53:57.110-00:54:05.049 | Kenzo] Tim it's obvious. He's under some magical effect. He he is still under the magical effect. He he is charmed by 2 people at the moment.
+[u0871 | 00:54:05.070-00:54:18.959 | DM] Okay, which I've stopped him from running. But isn't should I metagame? Should I uncharm him, or should I? Just? I just tell that? Okay. Well, I don't know, but just do it. We're supposed to role-play with our characters and do not metagame.
 [u0872 | 00:54:19.090-00:54:23.549 | Kenzo] Yeah, Tim, what's the how high up are the the the crazy things.
 [u0873 | 00:54:24.160-00:54:28.779 | DM] They're about a 120 feet away from you now, closing in on an angle
 [u0874 | 00:54:28.820-00:54:29.750 | DM] down.
 [u0875 | 00:54:31.800-00:54:36.969 | DM] Down towards the the overhang we're really down towards Seeker and the echo.
 [u0876 | 00:54:37.400-00:54:43.120 | Kenzo] if if he's charmed twice, and I do cleansing touch, does that is that? Do you undo both charms.
-[u0877 | 00:54:43.600-00:54:50.500 | Seeker] It's a good question. I will say in this case it does. Yes, I will do that. I will, I will. I will rush move over to seeker and just
-[u0878 | 00:54:50.550-00:54:52.640 | Kenzo] and you closing touch on him.
-[u0879 | 00:54:52.870-00:55:00.729 | Kenzo] Penzo, thanks. The weirdest thing. Just that. Yeah, we have to kill. I think we're about to get killed right now. So let's
+[u0877 | 00:54:43.600-00:54:50.500 | Seeker] It's a good question. I will say in this case it does. Yes, I will do that. I will, I will. I will rush move over to Seeker and just
+[u0878 | 00:54:50.550-00:54:52.640 | Kenzo] and you Cleansing Touch on him.
+[u0879 | 00:54:52.870-00:55:00.729 | Kenzo] Kenzo, thanks. The weirdest thing. Just that. Yeah, we have to kill. I think we're about to get killed right now. So let's
 [u0880 | 00:55:02.390-00:55:04.390 | Seeker] let's go back over to the yeah.
-[u0881 | 00:55:05.970-00:55:09.940 | Wellby] well, he's over there like month. Mom. Come on
+[u0881 | 00:55:05.970-00:55:09.940 | Wellby] Wellby's over there like, come on. Come on
 [u0882 | 00:55:10.460-00:55:11.200 | DM] that
 [u0883 | 00:55:11.720-00:55:13.919 | DM] diving down. Now they are about
 [u0884 | 00:55:14.060-00:55:16.830 | Wellby] 60 feet away.
@@ -888,9 +888,9 @@
 [u0888 | 00:55:28.190-00:55:30.169 | DM] challenging. But
 [u0889 | 00:55:32.280-00:55:37.699 | DM] So far it seems like only one of them has used its song, and there's 4 more
 [u0890 | 00:55:38.450-00:55:39.939 | Seeker] like now
-[u0891 | 00:55:40.390-00:55:43.589 | Wellby] i'm not going to shoot almost stuff stuff in my ears instead.
+[u0891 | 00:55:40.390-00:55:43.589 | Wellby] i'm not going to shoot I'll stuff stuff in my ears instead.
 [u0892 | 00:55:45.710-00:55:46.779 | DM] Okay.
-[u0893 | 00:55:49.940-00:55:52.180 | DM] Kenzo Callous seeker
+[u0893 | 00:55:49.940-00:55:52.180 | DM] Kenzo Caulaus Seeker
 [u0894 | 00:55:53.210-00:55:56.310 | Caulaus] are they? You said. They're 60 feet away.
 [u0895 | 00:55:56.480-00:55:58.190 | DM] They're 60 feet away. Yeah.
 [u0896 | 00:56:00.020-00:56:01.080 | Caulaus] So
@@ -902,20 +902,20 @@
 [u0902 | 00:56:13.450-00:56:15.079 | Caulaus] taunting them like
 [u0903 | 00:56:18.820-00:56:20.070 | Caulaus] that. They're not that
 [u0904 | 00:56:20.800-00:56:21.399 | Caulaus] All right.
-[u0905 | 00:56:21.430-00:56:23.320 | Caulaus] Okay. Met a game for a minute like.
+[u0905 | 00:56:21.430-00:56:23.320 | Caulaus] Okay. Metagame for a minute like.
 [u0906 | 00:56:23.400-00:56:35.800 | Caulaus] Should I be? No, no, No, no, no, this was for something we said. I don't want to stress about resource usage. But are we likely to get a long rest sometime during the rest of this evening
 [u0907 | 00:56:35.950-00:56:41.190 | DM] I would not count on a long rest any time in Amberglow. Our short rest should be pretty easy.
-[u0908 | 00:56:41.310-00:56:47.849 | DM] I mean my spells are in this house is probably a decent, least a place to rest. But
+[u0908 | 00:56:41.310-00:56:47.849 | DM] I mean [[my spells are in this house]] is probably a decent, least a place to rest. But
 [u0909 | 00:56:48.240-00:56:50.930 | Caulaus] casting a spell then
-[u0910 | 00:56:52.520-00:56:57.660 | Caulaus] No; but amber is not a safe place. It's it's unlikely you would get it. Okay? Yep. Yep.
+[u0910 | 00:56:52.520-00:56:57.660 | Caulaus] No; but Amberglow is not a safe place. It's it's unlikely you would get it. Okay? Yep. Yep.
 [u0911 | 00:56:58.820-00:57:04.170 | Caulaus] I the echo will just basically I'm: i'm readying an action to attack
 [u0912 | 00:57:04.820-00:57:09.240 | Caulaus] as soon as these guys come close enough that it's within range of the echo.
 [u0913 | 00:57:09.300-00:57:10.240 | DM] Okay.
-[u0914 | 00:57:10.350-00:57:13.539 | DM] and kenzo and seeker
-[u0915 | 00:57:14.330-00:57:15.910 | Kenzo] Kansas structure right?
+[u0914 | 00:57:10.350-00:57:13.539 | DM] and Kenzo and Seeker
+[u0915 | 00:57:14.330-00:57:15.910 | Kenzo] Kenzo's turn right?
 [u0916 | 00:57:16.440-00:57:20.860 | Caulaus] Actually sorry. Are they? Only Third, 60 feet away from the 30 feet from the echo.
-[u0917 | 00:57:21.020-00:57:37.169 | Caulaus] 30 feet from the echo. That's good. The echo will run at. Are they close enough that we could? That I could reach them. No, they're in the air. They're coming at a name. Okay, fine. They're going to pass overhead of the echo before they reach the on your head, or they might attack the echo. Yeah, go ahead, Kenza.
-[u0918 | 00:57:37.740-00:57:39.750 | Kenzo] Kansas starts running up the wall.
+[u0917 | 00:57:21.020-00:57:37.169 | Caulaus] 30 feet from the echo. That's good. The echo will run at. Are they close enough that we could? That I could reach them. No, they're in the air. They're coming at an angle. Okay, fine. They're going to pass overhead of the echo before they reach the overhang, or they might attack the echo. Yeah, go ahead, Kenzo.
+[u0918 | 00:57:37.740-00:57:39.750 | Kenzo] Kenzo starts running up the wall.
 [u0919 | 00:57:41.910-00:57:42.979 | DM] Okay.
 [u0920 | 00:57:43.470-00:57:45.640 | Kenzo] how many?
 [u0921 | 00:57:45.670-00:57:48.019 | Kenzo] Actually, it's tough. That's when I run out this wall.
@@ -923,14 +923,14 @@
 [u0923 | 00:57:53.250-00:57:54.850 | Kenzo] I'm just going to run up the wall.
 [u0924 | 00:58:01.850-00:58:04.189 | Kenzo] I just run up the wall as far as I can.
 [u0925 | 00:58:04.520-00:58:05.399 | DM] Okay.
-[u0926 | 00:58:07.170-00:58:08.069 | Seeker] Speaker
-[u0927 | 00:58:08.240-00:58:12.679 | Seeker] Secret looks a little puzzled. Straight up at Kenzo and then down at the ground.
-[u0928 | 00:58:12.750-00:58:15.310 | Seeker] Mexico pile of gravel and catapults it
+[u0926 | 00:58:07.170-00:58:08.069 | Seeker] Seeker
+[u0927 | 00:58:08.240-00:58:12.679 | Seeker] Seeker looks a little puzzled. Straight up at Kenzo and then down at the ground.
+[u0928 | 00:58:12.750-00:58:15.310 | Seeker] makes a pile of gravel and catapults it
 [u0929 | 00:58:15.870-00:58:17.229 | Seeker] at the harpies.
 [u0930 | 00:58:18.010-00:58:18.950 | DM] Okay.
 [u0931 | 00:58:19.340-00:58:21.510 | DM] It's a dexterity saving throw.
-[u0932 | 00:58:22.140-00:58:24.029 | Seeker] Yeah. I PC: 17.
-[u0933 | 00:58:25.080-00:58:26.270 | DM] fell
+[u0932 | 00:58:22.140-00:58:24.029 | Seeker] Yeah. I DC 17.
+[u0933 | 00:58:25.080-00:58:26.270 | DM] Fail.
 [u0934 | 00:58:28.670-00:58:29.379 | Seeker] nice.
 [u0935 | 00:58:29.970-00:58:32.169 | Seeker] One of them.
 [u0936 | 00:58:32.360-00:58:36.950 | DM] Yeah, that hits one of them. It hits the first thing in range the first, the first one is
@@ -946,15 +946,15 @@
 [u0946 | 00:59:13.630-00:59:15.770 | DM] slashing out it with their claws.
 [u0947 | 00:59:16.190-00:59:17.900 | Caulaus] Why, it didn't even take damage.
 [u0948 | 00:59:18.010-00:59:20.079 | Caulaus] That is one hit point a/C. 18.
-[u0949 | 00:59:20.150-00:59:29.170 | DM] I can just recreate one with a bonus action. So who cares if it does? Okay, First one hit the 19. I get an attack first. I read it in action. Yeah. So roll your attack.
+[u0949 | 00:59:20.150-00:59:29.170 | DM] I can just recreate one with a bonus action. So who cares if it dies? Okay, First one hit the 19. I get an attack first. I readied an action. Yeah. So roll your attack.
 [u0950 | 00:59:29.750-00:59:32.749 | Caulaus] I mean it'll disappear after that, because
 [u0951 | 00:59:32.860-00:59:33.790 | Caulaus] that
 [u0952 | 00:59:37.030-00:59:38.499 | Caulaus] is a 17. There
-[u0953 | 00:59:38.630-00:59:46.009 | DM] we have, with 17 hits 8, c. 11. You're not that hard to hit. So for 13 damage. Yep. I got it
-[u0954 | 00:59:46.250-00:59:51.249 | DM] Okay, and then it wipes at the echo manages to hit it with its claws of the echo
+[u0953 | 00:59:38.630-00:59:46.009 | DM] we have, with 17 hits AC 11. You're not that hard to hit. So for 13 damage. Yep. I got it
+[u0954 | 00:59:46.250-00:59:51.249 | DM] Okay, and then it swipes at the echo manages to hit it with its claws of the echo
 [u0955 | 00:59:51.820-00:59:54.220 | DM] flashes out of
-[u0956 | 00:59:54.640-01:00:01.950 | DM] existence, and the second Harvey that was about the the attack, the echo kind of looks around confused. It begins Dot, darting closer to you.
-[u0957 | 01:00:02.110-01:00:05.169 | DM] and then 2 more of them begin singing to seeker.
+[u0956 | 00:59:54.640-01:00:01.950 | DM] existence, and the second harpy that was about the the attack, the echo kind of looks around confused. It begins Dot, darting closer to you.
+[u0957 | 01:00:02.110-01:00:05.169 | DM] and then 2 more of them begin singing to Seeker.
 [u0958 | 01:00:05.520-01:00:07.249 | DM] Come out, come out!
 [u0959 | 01:00:07.420-01:00:10.950 | DM] You want to come out. Make 2 more wisdom saving throws
 [u0960 | 01:00:12.130-01:00:13.160 | Kenzo] with advantage.
@@ -965,16 +965,16 @@
 [u0965 | 01:00:40.790-01:00:43.699 | DM] begins walking out forward again.
 [u0966 | 01:00:43.790-01:00:48.929 | DM] and one of them lands before you, and you the one who's singing it. And you just kind of lands there stopped
 [u0967 | 01:00:49.050-01:00:51.830 | DM] and you see before you this
-[u0968 | 01:00:52.010-01:00:54.690 | DM] fay woman in a shimmering
-[u0969 | 01:00:54.730-01:00:58.999 | DM] grass. long flowing hair that that's like sort of
+[u0968 | 01:00:52.010-01:00:54.690 | DM] fey woman in a shimmering
+[u0969 | 01:00:54.730-01:00:58.999 | DM] dress. long flowing hair that that's like sort of
 [u0970 | 01:00:59.090-01:01:00.640 | DM] dancing with light.
-[u0971 | 01:01:00.790-01:01:03.399 | DM] which is backing you forward, and she's saying.
+[u0971 | 01:01:00.790-01:01:03.399 | DM] which is beckoning you forward, and she's saying.
 [u0972 | 01:01:03.880-01:01:05.290 | DM] come.
-[u0973 | 01:01:05.500-01:01:06.549 | DM] call me!
+[u0973 | 01:01:05.500-01:01:06.549 | DM] Follow me!
 [u0974 | 01:01:06.690-01:01:09.160 | DM] We will take our revenge together.
-[u0975 | 01:01:09.950-01:01:11.689 | Unknown] Vandasa, please.
+[u0975 | 01:01:09.950-01:01:11.689 | Unknown] [[Vandasa, please.]]
 [u0976 | 01:01:13.160-01:01:16.789 | Seeker] yes, revenge on whoever that may be.
-[u0977 | 01:01:17.000-01:01:21.749 | Wellby] so please! Yes, Who is that? Who can I shoot her?
+[u0977 | 01:01:17.000-01:01:21.749 | Wellby] [[so please!]] Yes, Who is that? Who can I shoot her?
 [u0978 | 01:01:22.210-01:01:23.579 | DM] Yeah, you can see her.
 [u0979 | 01:01:23.840-01:01:24.419 | Caulaus] I
 [u0980 | 01:01:25.680-01:01:28.060 | Caulaus] Yeah, I was gonna ask if I can act to.
@@ -983,38 +983,38 @@
 [u0983 | 01:01:40.560-01:01:42.799 | DM] and then there's 2 that are back out.
 [u0984 | 01:01:47.860-01:01:52.819 | DM] okay, there's 2 that are under the underhang. And when you're shooting at the one that's singing
 [u0985 | 01:01:52.840-01:02:04.330 | Wellby] so yes, to to the one that's that's right in front of him. I'll say in Sylvan, hey, lady, and then the instant that her eyes shoot over to me. I'll shoot her.
-[u0986 | 01:02:04.810-01:02:11.800 | DM] Okay, she looks over at you, and you see this like hideous massage like scouts.
-[u0987 | 01:02:11.840-01:02:17.480 | DM] I'm scouring at you. And then this arrow strikes her and seeker. You see
+[u0986 | 01:02:04.810-01:02:11.800 | DM] Okay, she looks over at you, and you see this like hideous visage, like, scowls.
+[u0987 | 01:02:11.840-01:02:17.480 | DM] Scowling at you. And then this arrow strikes her and Seeker. You see
 [u0988 | 01:02:17.830-01:02:21.240 | DM] one of your friends turning on you.
-[u0989 | 01:02:21.980-01:02:37.390 | DM] wounding this like amazing Fay woman who is about to tell you all the secrets of the Fay wild, and also help you deal with whoever this Daso Clees person is, who clearly is somebody who you must take revenge on.
-[u0990 | 01:02:37.820-01:02:47.080 | DM] And there's this bloody wound that starts opening in her chest, and she looks up. She like coughs a little bit, and she sort of grasped. She looks like she's on the edge of dad.
+[u0989 | 01:02:21.980-01:02:37.390 | DM] wounding this like amazing fey woman who is about to tell you all the secrets of the Feywild, and also help you deal with whoever this [[Daso Clees]] person is, who clearly is somebody who you must take revenge on.
+[u0990 | 01:02:37.820-01:02:47.080 | DM] And there's this bloody wound that starts opening in her chest, and she looks up. She like coughs a little bit, and she sort of gasps. She looks like she's on the edge of death.
 [u0991 | 01:02:47.270-01:02:53.220 | DM] and she begins coughing a little bit. Blood trickles out of her mouth, and she looks at you in
 [u0992 | 01:02:53.290-01:02:54.089 | DM] sort of
 [u0993 | 01:02:54.130-01:02:56.299 | DM] terror and fear.
-[u0994 | 01:02:56.650-01:03:02.070 | Caulaus] What's the order here. I'm having a hard time keeping track of whose turn is there?
+[u0994 | 01:02:56.650-01:03:02.070 | Caulaus] What's the order here. I'm having a hard time keeping track of whose turn is it?
 [u0995 | 01:03:02.510-01:03:06.259 | DM] I'm. I'm trying to run things loose here because I don't want to make a battle map.
-[u0996 | 01:03:06.280-01:03:08.530 | DM] that's fine. I just go on and White.
-[u0997 | 01:03:08.940-01:03:12.970 | Caulaus] I don't want to. I don't know if I don't want to skip Kansas next. Okay.
+[u0996 | 01:03:06.280-01:03:08.530 | DM] that's fine. I just don't want to wait.
+[u0997 | 01:03:08.940-01:03:12.970 | Caulaus] I don't want to. I don't know if I don't want to skip Kenzo's next. Okay.
 [u0998 | 01:03:13.270-01:03:14.370 | DM] then.
-[u0999 | 01:03:14.620-01:03:16.659 | DM] seeker. Then you, too.
+[u0999 | 01:03:14.620-01:03:16.659 | DM] Seeker. Then you, too.
 [u1000 | 01:03:17.340-01:03:17.990 | Unknown] to wait.
 [u1001 | 01:03:18.010-01:03:18.629 | DM] What?
 [u1002 | 01:03:20.350-01:03:22.079 | Caulaus] Okay? Did you skip me?
-[u1003 | 01:03:24.460-01:03:27.290 | DM] No, didn't you? You read it? An action?
+[u1003 | 01:03:24.460-01:03:27.290 | DM] No, didn't you? You readied an action?
 [u1004 | 01:03:27.570-01:03:28.680 | Caulaus] Oh, okay.
-[u1005 | 01:03:29.440-01:03:35.470 | DM] Wellbe's a tank was fine. Well, these attack is was the end of the last round basically.
-[u1006 | 01:03:37.170-01:03:44.770 | Kenzo] So, Tim, I've run like 60 feet or so at the wall. are there any? I kind of run up and look! Look behind me. Are there any harpies near me?
-[u1007 | 01:03:46.990-01:03:57.129 | DM] They've all sort of clustered on the ground around? Seeker so there's one wounded. There's there's 2 badly wounded ones, one standing next to seeker sort of gesturing for him
+[u1005 | 01:03:29.440-01:03:35.470 | DM] Wellby's attack was fine. Wellby's attack is—was the end of the last round basically.
+[u1006 | 01:03:37.170-01:03:44.770 | Kenzo] So, Tim, I've run like 60 feet or so up the wall. are there any? I kind of run up and look! Look behind me. Are there any harpies near me?
+[u1007 | 01:03:46.990-01:03:57.129 | DM] They've all sort of clustered on the ground around? Seeker so there's one wounded. There's there's 2 badly wounded ones, one standing next to Seeker sort of gesturing for him
 [u1008 | 01:03:57.310-01:04:00.699 | DM] and one hovering sort of in the back.
 [u1009 | 01:04:00.810-01:04:04.079 | DM] There's 2 that have darted underneath the underhang.
 [u1010 | 01:04:04.120-01:04:08.559 | DM] and then there's a third unwounded one right where the echo used to be.
-[u1011 | 01:04:09.680-01:04:15.649 | DM] but there's like 2 that are close to to the underhand 2 that are middle distance, one far away.
-[u1012 | 01:04:15.800-01:04:26.350 | DM] Okay, yeah, I will. it looks like there's one like actively singing, singing at secret. Yeah, the one that's actually seen to seeker is like badly wounded was just hit by Wellbe's arrow.
+[u1011 | 01:04:09.680-01:04:15.649 | DM] but there's like 2 that are close to to the overhang 2 that are middle distance, one far away.
+[u1012 | 01:04:15.800-01:04:26.350 | DM] Okay, yeah, I will. it looks like there's one like actively singing, singing at Seeker. Yeah, the one that's actually singing to Seeker is like badly wounded was just hit by Wellby's arrow.
 [u1013 | 01:04:26.620-01:04:38.829 | Kenzo] you know, if you kill somebody with I mean, i'm gonna attack them. But it's like, okay. Anyways, it doesn't matter. I'll. I'll I will like I I was. I was trying to see if anybody would follow me up there, but it doesn't look like anybody following me up there, so I will just turn around and
 [u1014 | 01:04:39.000-01:04:40.049 | Kenzo] and
 [u1015 | 01:04:40.120-01:04:42.489 | Kenzo] jump from where I am, and
 [u1016 | 01:04:42.910-01:04:50.209 | DM] my mighty
-[u1017 | 01:04:51.280-01:04:53.089 | DM] make your tax
+[u1017 | 01:04:51.280-01:04:53.089 | DM] make your attacks
 [u1018 | 01:04:56.920-01:04:58.490 | Kenzo] in momento.
 [u1019 | 01:04:59.990-01:05:08.900 | Wellby] I'm imagining like one of those anime scenes where, like the monks fist is leading, and they're perfectly Still, it's just lots of motion lines streaming past.
 [u1020 | 01:05:09.010-01:05:10.250 | Kenzo] That's exactly
@@ -1022,20 +1022,20 @@
 [u1022 | 01:05:13.110-01:05:15.079 | Kenzo] 28.
 [u1023 | 01:05:15.390-01:05:18.839 | Seeker] Oh, yeah, that that probably is.
 [u1024 | 01:05:19.960-01:05:22.919 | Kenzo] and then does
-[u1025 | 01:05:23.750-01:05:28.860 | DM] 11 damage. So the one that's singing to seeker seeker. You see
-[u1026 | 01:05:29.310-01:05:34.540 | DM] Tenzo, a period of nowhere just flying from the sky below, and just
+[u1025 | 01:05:23.750-01:05:28.860 | DM] 11 damage. So the one that's singing to Seeker Seeker. You see
+[u1026 | 01:05:29.310-01:05:34.540 | DM] Kenzo appear out of nowhere just flying from the sky below, and just
 [u1027 | 01:05:34.760-01:05:38.240 | DM] with his staff just knock this creature over, and
 [u1028 | 01:05:38.280-01:05:43.830 | DM] she staggers back, and like, clutches her chest and looks up, throws her hand up and looks up at you like
 [u1029 | 01:05:45.800-01:05:49.319 | DM] help me, and that this is very upsetting.
-[u1030 | 01:05:49.790-01:05:51.620 | Kenzo] Yeah, I didn't kill it. Not that yet.
-[u1031 | 01:05:51.780-01:05:52.850 | DM] Yeah, it's dad
-[u1032 | 01:05:52.890-01:05:54.230 | Caulaus] that break the charm.
+[u1030 | 01:05:49.790-01:05:51.620 | Kenzo] Yeah, I didn't kill it. Not dead yet?
+[u1031 | 01:05:51.780-01:05:52.850 | DM] Yeah, it's dead
+[u1032 | 01:05:52.890-01:05:54.230 | Caulaus] Does that break the charm.
 [u1033 | 01:05:56.600-01:05:57.470 | Seeker] the question.
 [u1034 | 01:05:58.020-01:06:00.240 | DM] Yeah, yes.
-[u1035 | 01:06:01.140-01:06:02.740 | DM] the car is.
+[u1035 | 01:06:01.140-01:06:02.740 | DM] The charm is.
 [u1036 | 01:06:03.060-01:06:06.200 | DM] You are very disoriented because
 [u1037 | 01:06:06.240-01:06:09.090 | Seeker] you think the charm ends. But you see
-[u1038 | 01:06:09.390-01:06:17.229 | DM] this like dead body below you of the same Fay woman that you were just looking at before, and the rest of you as this woman dies.
+[u1038 | 01:06:09.390-01:06:17.229 | DM] this like dead body below you of the same fey woman that you were just looking at before, and the rest of you as this woman dies.
 [u1039 | 01:06:17.330-01:06:18.990 | DM] her form shifts
 [u1040 | 01:06:20.680-01:06:23.239 | DM] out of the harpy form, and into this
 [u1041 | 01:06:23.860-01:06:28.559 | DM] this, like fairy woman with long flowing hair and a shimmering gown.
@@ -1053,9 +1053,9 @@
 [u1053 | 01:07:11.280-01:07:13.840 | DM] There's there's 2, so you can get
 [u1054 | 01:07:14.000-01:07:19.589 | DM] 2. You can get the wounded one that's far away, and you can get the other one that's close in a 40 foot cube.
 [u1055 | 01:07:20.140-01:07:24.739 | Kenzo] Oh, wait! Didn't. After I I got it I got a second attack. Oh, sorry you get another attack. Yeah, yeah.
-[u1056 | 01:07:24.770-01:07:29.239 | Kenzo] can I? can I a soul-size study for my second attack.
+[u1056 | 01:07:24.770-01:07:29.239 | Kenzo] can I? can I a soul-sight study for my second attack.
 [u1057 | 01:07:29.970-01:07:32.370 | DM] yeah, that's a bonus action. So you can do that
-[u1058 | 01:07:32.770-01:07:43.050 | Kenzo] and you can do a second. Tech. Yeah. But i'm gonna do that first. To see what the pupp are attacking like is a, you know, because I can tell. With this I can learn if they're affected by magic poison disease, etc. Yeah.
+[u1058 | 01:07:32.770-01:07:43.050 | Kenzo] and you can do a second attack. Yeah. But i'm gonna do that first. To see what [[the pupp are attacking]] like is a, you know, because I can tell. With this I can learn if they're affected by magic poison disease, etc. Yeah.
 [u1059 | 01:07:43.160-01:07:44.350 | Kenzo] right.
 [u1060 | 01:07:45.890-01:07:47.129 | DM] They are cursed
 [u1061 | 01:07:47.870-01:07:48.710 | Seeker] bye bye.
@@ -1064,90 +1064,90 @@
 [u1064 | 01:07:55.860-01:07:58.759 | Kenzo] but what do we do about that
 [u1065 | 01:07:58.800-01:07:59.600 | Kenzo] shit?
 [u1066 | 01:08:00.690-01:08:02.399 | Kenzo] I can, I?
-[u1067 | 01:08:03.140-01:08:05.060 | Kenzo] Yeah, I can't. I Can' Them
-[u1068 | 01:08:05.820-01:08:07.510 | Kenzo] I cannot encourage them.
-[u1069 | 01:08:08.050-01:08:13.479 | Kenzo] a dispensing person Doesn't: remove curses. Yeah, not
+[u1067 | 01:08:03.140-01:08:05.060 | Kenzo] Yeah, I can't. I can't [[Them]]
+[u1068 | 01:08:05.820-01:08:07.510 | Kenzo] I cannot uncurse them.
+[u1069 | 01:08:08.050-01:08:13.479 | Kenzo] Dispel doesn't remove curses. Yeah, not
 [u1070 | 01:08:14.490-01:08:18.420 | Kenzo] and I so I will use stunning. Strike. I will. I will. Stunning. Strike that. Okay.
-[u1071 | 01:08:19.800-01:08:22.200 | Kenzo] Yeah. Signing strike. Then we'll just knock them out right.
+[u1071 | 01:08:19.800-01:08:22.200 | Kenzo] Yeah. Stunning Strike. Then we'll just knock them out right.
 [u1072 | 01:08:22.640-01:08:26.239 | DM] it stuns them. Yup! Go ahead and make your attack. I will do that.
-[u1073 | 01:08:26.819-01:08:30.690 | Kenzo] I can. I'd be studying. Strike my! I do a sign. Strike with my staff as well as yeah.
+[u1073 | 01:08:26.819-01:08:30.690 | Kenzo] I can. I'd be Stunning Strike my! I do a Stunning Strike with my staff as well as yeah.
 [u1074 | 01:08:30.800-01:08:31.899 | Kenzo] All right for me to see you.
 [u1075 | 01:08:36.490-01:08:40.789 | DM] 13 hits. Yeah, They're pretty easy to hit.
 [u1076 | 01:08:40.880-01:08:42.450 | Kenzo] Okay, Great. And then I will.
 [u1077 | 01:08:42.510-01:08:43.450 | DM] As an
 [u1078 | 01:08:43.979-01:08:45.279 | DM] she is stunned.
 [u1079 | 01:08:45.660-01:08:46.699 | Kenzo] How many are left?
-[u1080 | 01:08:47.700-01:08:51.740 | DM] so there's one, dad. There's one badly wounded that seems to be fleeing.
+[u1080 | 01:08:47.700-01:08:51.740 | DM] so there's one, dead. There's one badly wounded that seems to be fleeing.
 [u1081 | 01:08:52.080-01:08:56.740 | DM] moving away from you. It's like heading to flee the one that got hit by the catapult.
-[u1082 | 01:08:58.279-01:09:02.920 | DM] There is the one you just stunned, and then there's 2 that are underneath the overhanging next to campus.
+[u1082 | 01:08:58.279-01:09:02.920 | DM] There is the one you just stunned, and then there's 2 that are underneath the overhanging next to Caulaus.
 [u1083 | 01:09:03.200-01:09:04.330 | Kenzo] How far away from me!
 [u1084 | 01:09:04.970-01:09:07.669 | DM] Those are like 30 feet away from you!
-[u1085 | 01:09:07.960-01:09:11.500 | Kenzo] Can I spend a key and doing on arms? Strike.
-[u1086 | 01:09:12.240-01:09:18.399 | DM] You already used your bonus action to soul site. So you can't do another book, all right, and then I guess i'm done.
-[u1087 | 01:09:19.050-01:09:21.590 | DM] Okay. So callous. And then well be
+[u1085 | 01:09:07.960-01:09:11.500 | Kenzo] Can I spend a ki and do an unarmed strike.
+[u1086 | 01:09:12.240-01:09:18.399 | DM] You already used your bonus action to soul-sight. So you can't do another bonus action, all right, and then I guess i'm done.
+[u1087 | 01:09:19.050-01:09:21.590 | DM] Okay. So Caulaus. And then Wellby
 [u1088 | 01:09:22.550-01:09:23.819 | DM] i'm sorry.
-[u1089 | 01:09:23.939-01:09:25.819 | DM] seeker than Calistan will be.
-[u1090 | 01:09:27.120-01:09:31.509 | Seeker] Seekers are a little confused. Everything's happening too fast, so it's just going to slow them down
-[u1091 | 01:09:32.200-01:09:33.109 | Unknown] outcast.
+[u1089 | 01:09:23.939-01:09:25.819 | DM] Seeker, then Caulaus and Wellby.
+[u1090 | 01:09:27.120-01:09:31.509 | Seeker] Seeker's a little confused. Everything's happening too fast, so it's just going to slow them down
+[u1091 | 01:09:32.200-01:09:33.109 | Unknown] I'll cast.
 [u1092 | 01:09:33.220-01:09:34.130 | Unknown] One
 [u1093 | 01:09:35.859-01:09:38.190 | Seeker] covering a forty-foot area that gets
 [u1094 | 01:09:38.920-01:09:40.349 | Seeker] the 2 nearby.
-[u1095 | 01:09:43.880-01:09:49.439 | DM] You could either you could actually get the 2 in the other hand, and the one next to you, or you could get
+[u1095 | 01:09:43.880-01:09:49.439 | DM] You could either you could actually get the 2 in the overhang, and the one next to you, or you could get
 [u1096 | 01:09:49.939-01:09:52.490 | DM] the one that's fleeing, and the one next to you
 [u1097 | 01:09:53.279-01:10:00.249 | DM] I'll get the 3 together right, and that's a wisdom save so. Oh, man, there's so! What I was doing! Oh, one roll, the natural 20!
-[u1098 | 01:10:00.860-01:10:08.279 | DM] the one next to you is not slowed. The 2 the one that's done does not slow. The 2 in the underhang are sluttered
+[u1098 | 01:10:00.860-01:10:08.279 | DM] the one next to you is not slowed. The 2 the one that's stunned is not slowed. The 2 in the underhang are slowed
 [u1099 | 01:10:08.450-01:10:10.310 | DM] so that you just see them start to
 [u1100 | 01:10:10.550-01:10:16.489 | DM] like move. Their wings begin to beat slower. They're just like slowing down in general
-[u1101 | 01:10:20.530-01:10:22.360 | DM] so callous than Bobby.
+[u1101 | 01:10:20.530-01:10:22.360 | DM] So Caulaus, then Wellby.
 [u1102 | 01:10:25.320-01:10:27.460 | Caulaus] My echo will reappear
-[u1103 | 01:10:28.360-01:10:36.120 | Caulaus] next to the one next to seeker, basically trying to stand between seeker, and
-[u1104 | 01:10:36.500-01:10:38.000 | Caulaus] and whatever done one.
+[u1103 | 01:10:28.360-01:10:36.120 | Caulaus] next to the one next to Seeker, basically trying to stand between Seeker, and
+[u1104 | 01:10:36.500-01:10:38.000 | Caulaus] and whatever stunned one.
 [u1105 | 01:10:38.680-01:10:40.050 | Caulaus] now that one's stunned.
-[u1106 | 01:10:40.070-01:10:43.730 | DM] So there's one that's done. There's 2 that slowed, and there's one that's fleeing
+[u1106 | 01:10:40.070-01:10:43.730 | DM] So there's one that's stunned. There's 2 that slowed, and there's one that's fleeing
 [u1107 | 01:10:43.860-01:10:50.250 | Caulaus] all right. Well, I won't bother with the stunned one next to the it'll just reappear next to the next to
 [u1108 | 01:10:50.460-01:10:52.320 | DM] one, the ones next to you. Yeah.
 [u1109 | 01:10:52.420-01:10:53.789 | Caulaus] and i'll just attack it
-[u1110 | 01:10:57.420-01:10:58.500 | DM] That it's.
+[u1110 | 01:10:57.420-01:10:58.500 | DM] That hits.
 [u1111 | 01:10:59.140-01:11:01.509 | Caulaus] and then i'll attack it again.
-[u1112 | 01:11:03.960-01:11:05.090 | DM] Not ants
+[u1112 | 01:11:03.960-01:11:05.090 | DM] That hits.
 [u1113 | 01:11:07.530-01:11:09.280 | DM] It's that 30.
 [u1114 | 01:11:12.010-01:11:18.550 | Caulaus] Yeah. And actually it 2 points of damage. Yeah, it also takes one d 4 extra damage
 [u1115 | 01:11:19.380-01:11:22.390 | Caulaus] from my dreadful strike.
 [u1116 | 01:11:24.480-01:11:26.120 | DM] Okay, that one
-[u1117 | 01:11:27.880-01:11:29.440 | Kenzo] inoculate I one
+[u1117 | 01:11:27.880-01:11:29.440 | Kenzo] [[inoculate I one]]
 [u1118 | 01:11:29.660-01:11:30.990 | DM] also dies.
 [u1119 | 01:11:31.230-01:11:33.960 | Kenzo] I yelled out that they're cursed. We're trying to like not kill them right
 [u1120 | 01:11:34.260-01:11:35.040 | Unknown] is that
-[u1121 | 01:11:35.660-01:11:37.739 | Caulaus] I don't know. Call us isn't that smart.
+[u1121 | 01:11:35.660-01:11:37.739 | Caulaus] I don't know. Caulaus isn't that smart.
 [u1122 | 01:11:37.860-01:11:40.469 | Seeker] I don't know if he's really put 2 and 2 together Here
 [u1123 | 01:11:41.140-01:11:45.949 | Caulaus] he looks a little surprised, noticing that they are turning, it turns to a
 [u1124 | 01:11:47.040-01:11:50.420 | DM] this one turns to a shorter
 [u1125 | 01:11:52.110-01:11:56.250 | DM] woman sort of shrinks a bit like maybe
-[u1126 | 01:11:56.500-01:12:02.309 | DM] 4 foot tall, like almost of like more like a fairy sort of like Sparella
+[u1126 | 01:11:56.500-01:12:02.309 | DM] 4 foot tall, like almost of like more like a fairy sort of like Spirala
 [u1127 | 01:12:03.850-01:12:05.410 | DM] as a
-[u1128 | 01:12:06.210-01:12:08.779 | DM] you do See this. Everybody says this
+[u1128 | 01:12:06.210-01:12:08.779 | DM] you do See this. Everybody sees this
 [u1129 | 01:12:11.450-01:12:12.320 | Seeker] change
 [u1130 | 01:12:14.320-01:12:16.680 | DM] one now is turning to flee.
-[u1131 | 01:12:17.060-01:12:21.369 | DM] Go ahead. Well believe there's still one stunned and one slowed
-[u1132 | 01:12:24.380-01:12:26.570 | DM] unless you want to chase down the fleet in one
-[u1133 | 01:12:29.690-01:12:31.590 | DM] playing one is badly wounded.
+[u1131 | 01:12:17.060-01:12:21.369 | DM] Go ahead. Wellby, there's there's still one stunned and one slowed
+[u1132 | 01:12:24.380-01:12:26.570 | DM] unless you want to chase down the fleeing one
+[u1133 | 01:12:29.690-01:12:31.590 | DM] Fleeing one is badly wounded.
 [u1134 | 01:12:33.880-01:12:36.210 | Wellby] Yeah,
 [u1135 | 01:12:36.450-01:12:39.230 | Wellby] I think i'll do this. So
-[u1136 | 01:12:40.020-01:12:43.030 | Wellby] Wellbey takes like 2
-[u1137 | 01:12:44.130-01:12:47.759 | DM] stuff in your ears. So you have no idea that Kenzo shine of these are cursed.
+[u1136 | 01:12:40.020-01:12:43.030 | Wellby] Wellby takes like 2
+[u1137 | 01:12:44.130-01:12:47.759 | DM] stuff in your ears. So you have no idea that Kenzo shouting that these are cursed.
 [u1138 | 01:12:48.050-01:12:48.929 | Seeker] Oh, yeah.
 [u1139 | 01:12:49.820-01:12:53.439 | Wellby] but I saw them change back. You did see them change. Yeah, yeah.
 [u1140 | 01:12:53.730-01:12:54.950 | Seeker] that's a good enough for
 [u1141 | 01:12:54.990-01:12:57.819 | Kenzo] I also just. I can also shout it in my mind, and we
 [u1142 | 01:12:59.840-01:13:00.999 | Kenzo] anyway, it doesn't matter.
-[u1143 | 01:13:01.090-01:13:02.370 | Caulaus] Go ahead lobby.
-[u1144 | 01:13:02.940-01:13:07.209 | Wellby] So Welby takes 2 steps out from underneath the over.
+[u1143 | 01:13:01.090-01:13:02.370 | Caulaus] Go ahead Wellby.
+[u1144 | 01:13:02.940-01:13:07.209 | Wellby] So Wellby takes 2 steps out from underneath the overhang.
 [u1145 | 01:13:07.510-01:13:10.829 | Wellby] and a pair of enormous wings sprout from his back.
-[u1146 | 01:13:11.440-01:13:16.310 | Wellby] and with a few flats he lifts up into the sky and takes off after the fleeing one.
+[u1146 | 01:13:11.440-01:13:16.310 | Wellby] and with a few flaps he lifts up into the sky and takes off after the fleeing one.
 [u1147 | 01:13:16.690-01:13:17.559 | Seeker] What?
 [u1148 | 01:13:17.860-01:13:18.820 | Wellby] So
 [u1149 | 01:13:18.940-01:13:23.180 | Wellby] then, when I get close enough to the fleeing one. I think what I want to do is
-[u1150 | 01:13:23.610-01:13:29.129 | Wellby] like. Try to negotiate, or talk, or parlay, or something like that, so i'll speak to them telepathically in Fay.
+[u1150 | 01:13:23.610-01:13:29.129 | Wellby] like. Try to negotiate, or talk, or parlay, or something like that, so i'll speak to them telepathically in fey.
 [u1151 | 01:13:30.310-01:13:31.000 | Wellby] and
 [u1152 | 01:13:31.080-01:13:33.019 | Wellby] say something like
 [u1153 | 01:13:34.720-01:13:35.920 | Wellby] like
@@ -1157,10 +1157,10 @@
 [u1157 | 01:13:46.150-01:13:47.700 | DM] have very little.
 [u1158 | 01:13:48.580-01:13:53.680 | DM] There's not much they can do. The slowed one is going to attempt to flee
 [u1159 | 01:13:54.630-01:13:56.269 | DM] by
-[u1160 | 01:13:56.980-01:14:01.820 | DM] fully moods half-speed. If anybody wants an opportunity to he. You welcome to take it.
+[u1160 | 01:13:56.980-01:14:01.820 | DM] it moves half-speed. If anybody wants an opportunity attack, you're welcome to take it.
 [u1161 | 01:14:02.650-01:14:06.649 | Caulaus] it's gonna dash so it moves. Its full 40 foot movement
 [u1162 | 01:14:08.960-01:14:09.950 | Caulaus] that.
-[u1163 | 01:14:11.400-01:14:17.080 | Caulaus] But it when it i'll, i'll do. I'll do a stunning strike as an opportunity back again.
+[u1163 | 01:14:11.400-01:14:17.080 | Caulaus] But it when it i'll, i'll do. I'll do a stunning strike as an opportunity attack again.
 [u1164 | 01:14:17.460-01:14:18.230 | DM] Yes.
 [u1165 | 01:14:18.720-01:14:22.059 | Caulaus] that the echo will all. I'll take an opportunity to to
 [u1166 | 01:14:22.620-01:14:23.450 | Caulaus] Oops.
@@ -1170,33 +1170,33 @@
 [u1170 | 01:14:34.260-01:14:37.500 | Caulaus] Can I pull my punch when i'm swinging at it?
 [u1171 | 01:14:38.170-01:14:39.709 | Kenzo] Yeah, you can do.
 [u1172 | 01:14:41.090-01:14:42.469 | Caulaus] Thank you.
-[u1173 | 01:14:42.870-01:14:46.500 | DM] You're doing stunning. Strike. So let me roll it, save just on the strike
-[u1174 | 01:14:47.650-01:14:49.950 | DM] about 5. So it is stunned.
-[u1175 | 01:14:50.480-01:14:55.680 | DM] but yes, you could do not with mainly weapon attacks. You can do not vehicle Deb. Okay.
+[u1173 | 01:14:42.870-01:14:46.500 | DM] You're doing stunning. Strike. So let me roll its save for Stunning Strike
+[u1174 | 01:14:47.650-01:14:49.950 | DM] Got 5. So it is stunned.
+[u1175 | 01:14:50.480-01:14:55.680 | DM] But yes, you could do non—with melee weapon attacks, you can do nonlethal damage. Okay.
 [u1176 | 01:14:56.720-01:14:58.440 | Seeker] i'll do. Non-lethal damage.
 [u1177 | 01:14:59.950-01:15:03.969 | DM] Okay, this one's not wounded at all, though. So it's
 [u1178 | 01:15:06.890-01:15:08.479 | DM] And it's now stunned.
-[u1179 | 01:15:12.330-01:15:20.639 | DM] the other one will be is going to be unstunned at the end of your next term kenzo. So webe is chasing after
+[u1179 | 01:15:12.330-01:15:20.639 | DM] the other one is going to be unstunned at the end of your next turn, Kenzo. So Wellby is chasing after
 [u1180 | 01:15:20.910-01:15:24.699 | DM] These 2 tried to flee and are now both stunned.
 [u1181 | 01:15:24.930-01:15:28.780 | DM] So are you trying to capture them? What is your
-[u1182 | 01:15:28.860-01:15:31.139 | DM] go here outside of captured capture them.
+[u1182 | 01:15:28.860-01:15:31.139 | DM] goal here? Outside of capture—capture them.
 [u1183 | 01:15:31.690-01:15:37.410 | DM] Okay, Given that they're stunned and they were turning to run. Anyway, I think it's relatively simple for you to
 [u1184 | 01:15:38.980-01:15:39.950 | DM] tie them up.
 [u1185 | 01:15:40.190-01:15:43.309 | DM] Restrain them in some way knock them out.
-[u1186 | 01:15:46.450-01:15:51.710 | Kenzo] Pennsylvania's perfectly and just like not just not enough. Yeah.
-[u1187 | 01:15:55.140-01:16:00.310 | DM] So so wellbe as you're chasing after this, when you see behind you that the other 2
-[u1188 | 01:16:00.370-01:16:04.220 | DM] there's 2 that are, dad. The other 2 were attempting to leave, but they've both been
+[u1186 | 01:15:46.450-01:15:51.710 | Kenzo] [[Pennsylvania's perfectly and just like not just not enough.]] Yeah.
+[u1187 | 01:15:55.140-01:16:00.310 | DM] So so Wellby as you're chasing after this, when you see behind you that the other 2
+[u1188 | 01:16:00.370-01:16:04.220 | DM] there's 2 that are, dead. The other 2 were attempting to leave, but they've both been
 [u1189 | 01:16:04.310-01:16:06.380 | DM] stunned, and now are
 [u1190 | 01:16:06.450-01:16:09.419 | DM] of fallen unconscious on the ground, not
 [u1191 | 01:16:09.530-01:16:12.239 | DM] turning form, so presumably not dead.
-[u1192 | 01:16:13.060-01:16:16.499 | DM] But, as you speak telepathically into the mind of the one you're fleeing
+[u1192 | 01:16:13.060-01:16:16.499 | DM] But, as you speak telepathically into the mind of the one you're chasing
 [u1193 | 01:16:17.400-01:16:19.119 | DM] it. it turns.
 [u1194 | 01:16:19.350-01:16:20.979 | DM] and it looks at you.
 [u1195 | 01:16:21.920-01:16:25.199 | DM] It says some. It begins to
 [u1196 | 01:16:25.870-01:16:29.149 | DM] do something, but you can't hear anything because you still
 [u1197 | 01:16:29.580-01:16:33.790 | Wellby] stuff in your ears. I tap my I tap my brain and say again.
 [u1198 | 01:16:34.710-01:16:36.869 | Wellby] Listen, land and talk.
-[u1199 | 01:16:38.360-01:16:40.840 | Wellby] I'll spare your life. So what do we spare those 2?
+[u1199 | 01:16:38.360-01:16:40.840 | Wellby] I'll spare your life. So we spared those 2?
 [u1200 | 01:16:42.500-01:16:46.090 | DM] It hisses and it says.
 [u1201 | 01:16:46.620-01:16:48.290 | DM] in waging for Demo.
 [u1202 | 01:16:48.960-01:16:50.630 | DM] That's a clear

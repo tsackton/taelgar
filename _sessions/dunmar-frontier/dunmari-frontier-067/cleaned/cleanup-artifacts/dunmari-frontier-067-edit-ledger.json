@@ -1400,5 +1400,933 @@
       "after": "But you get advantage on charm because of Typhina",
       "pass": 1
     }
+  ],
+  "u0808": [
+    {
+      "before": "fade charms and things.",
+      "after": "fey charms and things.",
+      "pass": 1
+    }
+  ],
+  "u0809": [
+    {
+      "before": "What I recognize that",
+      "after": "Would I recognize that",
+      "pass": 1
+    }
+  ],
+  "u0811": [
+    {
+      "before": "I have a big memory of that happening before.",
+      "after": "I have a vague memory of that happening before.",
+      "pass": 1
+    }
+  ],
+  "u0815": [
+    {
+      "before": "No, you don't have to do any of that tensor just to touch him, and then he'll be on",
+      "after": "No, you don't have to do any of that Kenzo just to touch him, and then he'll be on",
+      "pass": 1
+    }
+  ],
+  "u0817": [
+    {
+      "before": "The secret has turned and and is",
+      "after": "Seeker has turned and and is",
+      "pass": 1
+    }
+  ],
+  "u0818": [
+    {
+      "before": "open arms. Looking up to this guy, I would let you counter a charm with a charm.",
+      "after": "open arms. Looking up to the sky, I would let you counter a charm with a charm.",
+      "pass": 1
+    }
+  ],
+  "u0826": [
+    {
+      "before": "Your app, the underlying okay, and how far out is secret",
+      "after": "You're at the overhang okay, and how far out is Seeker",
+      "pass": 1
+    }
+  ],
+  "u0828": [
+    {
+      "before": "My echo is still like 30 feet out, not in the under right, standing there defiantly like, come and get right.",
+      "after": "My echo is still like 30 feet out, not in the overhang, right, standing there defiantly like, come and get right.",
+      "pass": 1
+    }
+  ],
+  "u0830": [
+    {
+      "before": "I'm going to cast charm on him. Sorry. Go ahead. Were you going to do something to Kenza.",
+      "after": "I'm going to cast charm on him. Sorry. Go ahead. Were you going to do something to Kenzo.",
+      "pass": 1
+    }
+  ],
+  "u0834": [
+    {
+      "before": "call this thing works first, and then",
+      "after": "Caulaus's thing works first, and then",
+      "pass": 1
+    }
+  ],
+  "u0835": [
+    {
+      "before": "Kenza can go next.",
+      "after": "Kenzo can go next.",
+      "pass": 1
+    }
+  ],
+  "u0836": [
+    {
+      "before": "I'm probably more of Kansas. I'm just kidding.",
+      "after": "I'm probably more of Kenzo's. I'm just kidding.",
+      "pass": 1
+    }
+  ],
+  "u0840": [
+    {
+      "before": "so make another wisdom, save also with advantage to resist Allison's charm",
+      "after": "so make another wisdom, save also with advantage to resist Caulaus's charm",
+      "pass": 1
+    }
+  ],
+  "u0844": [
+    {
+      "before": "strong roles.",
+      "after": "strong rolls.",
+      "pass": 1
+    }
+  ],
+  "u0852": [
+    {
+      "before": "and You can hear all of them say, give us. So please",
+      "after": "and You can hear all of them say, give us. [[So please]]",
+      "pass": 1
+    }
+  ],
+  "u0853": [
+    {
+      "before": "give us that. So, please. This echo is basically that's the quizzer's got to be to Phineas",
+      "after": "give us [[that. So, please]]. This echo is basically [[that's the quizzer's]] got to be Typhina's",
+      "pass": 1
+    }
+  ],
+  "u0855": [
+    {
+      "before": "maybe it's callous. Who knows",
+      "after": "maybe it's Caulaus. Who knows",
+      "pass": 1
+    }
+  ],
+  "u0856": [
+    {
+      "before": "the we? We have no dest to please, no argument here.",
+      "after": "the we? We have no [[dest to please]], no argument here.",
+      "pass": 1
+    }
+  ],
+  "u0859": [
+    {
+      "before": "up, Kenz, or we do you want to do anything",
+      "after": "up, Kenzo, we do you want to do anything",
+      "pass": 1
+    }
+  ],
+  "u0868": [
+    {
+      "before": "these creatures frying out of the sky like sort of",
+      "after": "these creatures flying out of the sky like sort of",
+      "pass": 1
+    }
+  ],
+  "u0870": [
+    {
+      "before": "Tim it's obvious. He's under some magical effect. He he is still into the magical effect. He he is a charged by 2 people at the moment.",
+      "after": "Tim it's obvious. He's under some magical effect. He he is still under the magical effect. He he is charmed by 2 people at the moment.",
+      "pass": 1
+    }
+  ],
+  "u0871": [
+    {
+      "before": "Okay, which I've stopped him from running. But isn't should I met a game? Should I UN charm him, or should I? Just? I just tell that? Okay. Well, I don't know, but just do it. We're supposed to role, play with our characters and do not met a game.",
+      "after": "Okay, which I've stopped him from running. But isn't should I metagame? Should I uncharm him, or should I? Just? I just tell that? Okay. Well, I don't know, but just do it. We're supposed to role-play with our characters and do not metagame.",
+      "pass": 1
+    }
+  ],
+  "u0878": [
+    {
+      "before": "and you closing touch on him.",
+      "after": "and you Cleansing Touch on him.",
+      "pass": 1
+    }
+  ],
+  "u0879": [
+    {
+      "before": "Penzo, thanks. The weirdest thing. Just that. Yeah, we have to kill. I think we're about to get killed right now. So let's",
+      "after": "Kenzo, thanks. The weirdest thing. Just that. Yeah, we have to kill. I think we're about to get killed right now. So let's",
+      "pass": 1
+    }
+  ],
+  "u0881": [
+    {
+      "before": "well, he's over there like month. Mom. Come on",
+      "after": "Wellby's over there like, come on. Come on",
+      "pass": 1
+    }
+  ],
+  "u0891": [
+    {
+      "before": "i'm not going to shoot almost stuff stuff in my ears instead.",
+      "after": "i'm not going to shoot I'll stuff stuff in my ears instead.",
+      "pass": 1
+    }
+  ],
+  "u0893": [
+    {
+      "before": "Kenzo Callous seeker",
+      "after": "Kenzo Caulaus seeker",
+      "pass": 1
+    },
+    {
+      "before": "Kenzo Caulaus seeker",
+      "after": "Kenzo Caulaus Seeker",
+      "pass": 1
+    }
+  ],
+  "u0905": [
+    {
+      "before": "Okay. Met a game for a minute like.",
+      "after": "Okay. Metagame for a minute like.",
+      "pass": 1
+    }
+  ],
+  "u0908": [
+    {
+      "before": "I mean my spells are in this house is probably a decent, least a place to rest. But",
+      "after": "I mean [[my spells are in this house]] is probably a decent, least a place to rest. But",
+      "pass": 1
+    }
+  ],
+  "u0910": [
+    {
+      "before": "No; but amber is not a safe place. It's it's unlikely you would get it. Okay? Yep. Yep.",
+      "after": "No; but Amberglow is not a safe place. It's it's unlikely you would get it. Okay? Yep. Yep.",
+      "pass": 1
+    }
+  ],
+  "u0915": [
+    {
+      "before": "Kansas structure right?",
+      "after": "Kenzo's turn right?",
+      "pass": 1
+    }
+  ],
+  "u0917": [
+    {
+      "before": "30 feet from the echo. That's good. The echo will run at. Are they close enough that we could? That I could reach them. No, they're in the air. They're coming at a name. Okay, fine. They're going to pass overhead of the echo before they reach the on your head, or they might attack the echo. Yeah, go ahead, Kenza.",
+      "after": "30 feet from the echo. That's good. The echo will run at. Are they close enough that we could? That I could reach them. No, they're in the air. They're coming at an angle. Okay, fine. They're going to pass overhead of the echo before they reach the overhang, or they might attack the echo. Yeah, go ahead, Kenzo.",
+      "pass": 1
+    }
+  ],
+  "u0918": [
+    {
+      "before": "Kansas starts running up the wall.",
+      "after": "Kenzo starts running up the wall.",
+      "pass": 1
+    }
+  ],
+  "u0926": [
+    {
+      "before": "Speaker",
+      "after": "Seeker",
+      "pass": 1
+    }
+  ],
+  "u0927": [
+    {
+      "before": "Secret looks a little puzzled. Straight up at Kenzo and then down at the ground.",
+      "after": "Seeker looks a little puzzled. Straight up at Kenzo and then down at the ground.",
+      "pass": 1
+    }
+  ],
+  "u0928": [
+    {
+      "before": "Mexico pile of gravel and catapults it",
+      "after": "makes a pile of gravel and catapults it",
+      "pass": 1
+    }
+  ],
+  "u0932": [
+    {
+      "before": "Yeah. I PC: 17.",
+      "after": "Yeah. I DC 17.",
+      "pass": 1
+    }
+  ],
+  "u0933": [
+    {
+      "before": "fell",
+      "after": "Fail.",
+      "pass": 1
+    }
+  ],
+  "u0949": [
+    {
+      "before": "I can just recreate one with a bonus action. So who cares if it does? Okay, First one hit the 19. I get an attack first. I read it in action. Yeah. So roll your attack.",
+      "after": "I can just recreate one with a bonus action. So who cares if it dies? Okay, First one hit the 19. I get an attack first. I readied an action. Yeah. So roll your attack.",
+      "pass": 1
+    }
+  ],
+  "u0953": [
+    {
+      "before": "we have, with 17 hits 8, c. 11. You're not that hard to hit. So for 13 damage. Yep. I got it",
+      "after": "we have, with 17 hits AC 11. You're not that hard to hit. So for 13 damage. Yep. I got it",
+      "pass": 1
+    }
+  ],
+  "u0954": [
+    {
+      "before": "Okay, and then it wipes at the echo manages to hit it with its claws of the echo",
+      "after": "Okay, and then it swipes at the echo manages to hit it with its claws of the echo",
+      "pass": 1
+    }
+  ],
+  "u0956": [
+    {
+      "before": "existence, and the second Harvey that was about the the attack, the echo kind of looks around confused. It begins Dot, darting closer to you.",
+      "after": "existence, and the second harpy that was about the the attack, the echo kind of looks around confused. It begins Dot, darting closer to you.",
+      "pass": 1
+    }
+  ],
+  "u0969": [
+    {
+      "before": "grass. long flowing hair that that's like sort of",
+      "after": "dress. long flowing hair that that's like sort of",
+      "pass": 1
+    }
+  ],
+  "u0971": [
+    {
+      "before": "which is backing you forward, and she's saying.",
+      "after": "which is beckoning you forward, and she's saying.",
+      "pass": 1
+    }
+  ],
+  "u0973": [
+    {
+      "before": "call me!",
+      "after": "Follow me!",
+      "pass": 1
+    }
+  ],
+  "u0975": [
+    {
+      "before": "Vandasa, please.",
+      "after": "[[Vandasa, please.]]",
+      "pass": 1
+    }
+  ],
+  "u0977": [
+    {
+      "before": "so please! Yes, Who is that? Who can I shoot her?",
+      "after": "[[so please!]] Yes, Who is that? Who can I shoot her?",
+      "pass": 1
+    }
+  ],
+  "u0986": [
+    {
+      "before": "Okay, she looks over at you, and you see this like hideous massage like scouts.",
+      "after": "Okay, she looks over at you, and you see this like hideous visage, like, scowls.",
+      "pass": 1
+    }
+  ],
+  "u0987": [
+    {
+      "before": "I'm scouring at you. And then this arrow strikes her and seeker. You see",
+      "after": "Scowling at you. And then this arrow strikes her and seeker. You see",
+      "pass": 1
+    },
+    {
+      "before": "Scowling at you. And then this arrow strikes her and seeker. You see",
+      "after": "Scowling at you. And then this arrow strikes her and Seeker. You see",
+      "pass": 1
+    }
+  ],
+  "u0989": [
+    {
+      "before": "wounding this like amazing Fay woman who is about to tell you all the secrets of the Fay wild, and also help you deal with whoever this Daso Clees person is, who clearly is somebody who you must take revenge on.",
+      "after": "wounding this like amazing Fay woman who is about to tell you all the secrets of the Fay wild, and also help you deal with whoever this [[Daso Clees]] person is, who clearly is somebody who you must take revenge on.",
+      "pass": 1
+    },
+    {
+      "before": "wounding this like amazing Fay woman who is about to tell you all the secrets of the Fay wild, and also help you deal with whoever this [[Daso Clees]] person is, who clearly is somebody who you must take revenge on.",
+      "after": "wounding this like amazing fey woman who is about to tell you all the secrets of the Feywild, and also help you deal with whoever this [[Daso Clees]] person is, who clearly is somebody who you must take revenge on.",
+      "pass": 1
+    }
+  ],
+  "u0990": [
+    {
+      "before": "And there's this bloody wound that starts opening in her chest, and she looks up. She like coughs a little bit, and she sort of grasped. She looks like she's on the edge of dad.",
+      "after": "And there's this bloody wound that starts opening in her chest, and she looks up. She like coughs a little bit, and she sort of gasps. She looks like she's on the edge of death.",
+      "pass": 1
+    }
+  ],
+  "u0994": [
+    {
+      "before": "What's the order here. I'm having a hard time keeping track of whose turn is there?",
+      "after": "What's the order here. I'm having a hard time keeping track of whose turn is it?",
+      "pass": 1
+    }
+  ],
+  "u0996": [
+    {
+      "before": "that's fine. I just go on and White.",
+      "after": "that's fine. I just don't want to wait.",
+      "pass": 1
+    }
+  ],
+  "u0997": [
+    {
+      "before": "I don't want to. I don't know if I don't want to skip Kansas next. Okay.",
+      "after": "I don't want to. I don't know if I don't want to skip Kenzo's next. Okay.",
+      "pass": 1
+    }
+  ],
+  "u1003": [
+    {
+      "before": "No, didn't you? You read it? An action?",
+      "after": "No, didn't you? You readied an action?",
+      "pass": 1
+    }
+  ],
+  "u1005": [
+    {
+      "before": "Wellbe's a tank was fine. Well, these attack is was the end of the last round basically.",
+      "after": "Wellby's attack was fine. Wellby's attack is—was the end of the last round basically.",
+      "pass": 1
+    }
+  ],
+  "u1006": [
+    {
+      "before": "So, Tim, I've run like 60 feet or so at the wall. are there any? I kind of run up and look! Look behind me. Are there any harpies near me?",
+      "after": "So, Tim, I've run like 60 feet or so up the wall. are there any? I kind of run up and look! Look behind me. Are there any harpies near me?",
+      "pass": 1
+    }
+  ],
+  "u1011": [
+    {
+      "before": "but there's like 2 that are close to to the underhand 2 that are middle distance, one far away.",
+      "after": "but there's like 2 that are close to to the overhang 2 that are middle distance, one far away.",
+      "pass": 1
+    }
+  ],
+  "u1012": [
+    {
+      "before": "Okay, yeah, I will. it looks like there's one like actively singing, singing at secret. Yeah, the one that's actually seen to seeker is like badly wounded was just hit by Wellbe's arrow.",
+      "after": "Okay, yeah, I will. it looks like there's one like actively singing, singing at Seeker. Yeah, the one that's actually singing to seeker is like badly wounded was just hit by Wellbe's arrow.",
+      "pass": 1
+    },
+    {
+      "before": "Okay, yeah, I will. it looks like there's one like actively singing, singing at Seeker. Yeah, the one that's actually singing to seeker is like badly wounded was just hit by Wellbe's arrow.",
+      "after": "Okay, yeah, I will. it looks like there's one like actively singing, singing at Seeker. Yeah, the one that's actually singing to Seeker is like badly wounded was just hit by Wellby's arrow.",
+      "pass": 1
+    }
+  ],
+  "u1017": [
+    {
+      "before": "make your tax",
+      "after": "make your attacks",
+      "pass": 1
+    }
+  ],
+  "u1026": [
+    {
+      "before": "Tenzo, a period of nowhere just flying from the sky below, and just",
+      "after": "Kenzo appear out of nowhere just flying from the sky below, and just",
+      "pass": 1
+    }
+  ],
+  "u1030": [
+    {
+      "before": "Yeah, I didn't kill it. Not that yet.",
+      "after": "Yeah, I didn't kill it. Not dead yet?",
+      "pass": 1
+    }
+  ],
+  "u1031": [
+    {
+      "before": "Yeah, it's dad",
+      "after": "Yeah, it's dead",
+      "pass": 1
+    }
+  ],
+  "u1032": [
+    {
+      "before": "that break the charm.",
+      "after": "Does that break the charm.",
+      "pass": 1
+    }
+  ],
+  "u1035": [
+    {
+      "before": "the car is.",
+      "after": "The charm is.",
+      "pass": 1
+    }
+  ],
+  "u1056": [
+    {
+      "before": "can I? can I a soul-size study for my second attack.",
+      "after": "can I? can I a soul-sight study for my second attack.",
+      "pass": 1
+    }
+  ],
+  "u1058": [
+    {
+      "before": "and you can do a second. Tech. Yeah. But i'm gonna do that first. To see what the pupp are attacking like is a, you know, because I can tell. With this I can learn if they're affected by magic poison disease, etc. Yeah.",
+      "after": "and you can do a second attack. Yeah. But i'm gonna do that first. To see what [[the pupp are attacking]] like is a, you know, because I can tell. With this I can learn if they're affected by magic poison disease, etc. Yeah.",
+      "pass": 1
+    }
+  ],
+  "u1067": [
+    {
+      "before": "Yeah, I can't. I Can' Them",
+      "after": "Yeah, I can't. I can't [[Them]]",
+      "pass": 1
+    }
+  ],
+  "u1068": [
+    {
+      "before": "I cannot encourage them.",
+      "after": "I cannot uncurse them.",
+      "pass": 1
+    }
+  ],
+  "u1069": [
+    {
+      "before": "a dispensing person Doesn't: remove curses. Yeah, not",
+      "after": "Dispel doesn't remove curses. Yeah, not",
+      "pass": 1
+    }
+  ],
+  "u1071": [
+    {
+      "before": "Yeah. Signing strike. Then we'll just knock them out right.",
+      "after": "Yeah. Stunning Strike. Then we'll just knock them out right.",
+      "pass": 1
+    }
+  ],
+  "u1073": [
+    {
+      "before": "I can. I'd be studying. Strike my! I do a sign. Strike with my staff as well as yeah.",
+      "after": "I can. I'd be Stunning Strike my! I do a Stunning Strike with my staff as well as yeah.",
+      "pass": 1
+    }
+  ],
+  "u1080": [
+    {
+      "before": "so there's one, dad. There's one badly wounded that seems to be fleeing.",
+      "after": "so there's one, dead. There's one badly wounded that seems to be fleeing.",
+      "pass": 1
+    }
+  ],
+  "u1082": [
+    {
+      "before": "There is the one you just stunned, and then there's 2 that are underneath the overhanging next to campus.",
+      "after": "There is the one you just stunned, and then there's 2 that are underneath the overhanging next to Caulaus.",
+      "pass": 1
+    }
+  ],
+  "u1085": [
+    {
+      "before": "Can I spend a key and doing on arms? Strike.",
+      "after": "Can I spend a ki and do an unarmed strike.",
+      "pass": 1
+    }
+  ],
+  "u1086": [
+    {
+      "before": "You already used your bonus action to soul site. So you can't do another book, all right, and then I guess i'm done.",
+      "after": "You already used your bonus action to soul-sight. So you can't do another bonus action, all right, and then I guess i'm done.",
+      "pass": 1
+    }
+  ],
+  "u1087": [
+    {
+      "before": "Okay. So callous. And then well be",
+      "after": "Okay. So Caulaus. And then Wellby",
+      "pass": 1
+    }
+  ],
+  "u1089": [
+    {
+      "before": "seeker than Calistan will be.",
+      "after": "Seeker, then Caulaus and Wellby.",
+      "pass": 1
+    }
+  ],
+  "u1090": [
+    {
+      "before": "Seekers are a little confused. Everything's happening too fast, so it's just going to slow them down",
+      "after": "Seeker's a little confused. Everything's happening too fast, so it's just going to slow them down",
+      "pass": 1
+    }
+  ],
+  "u1091": [
+    {
+      "before": "outcast.",
+      "after": "I'll cast.",
+      "pass": 1
+    }
+  ],
+  "u1095": [
+    {
+      "before": "You could either you could actually get the 2 in the other hand, and the one next to you, or you could get",
+      "after": "You could either you could actually get the 2 in the overhang, and the one next to you, or you could get",
+      "pass": 1
+    }
+  ],
+  "u1098": [
+    {
+      "before": "the one next to you is not slowed. The 2 the one that's done does not slow. The 2 in the underhang are sluttered",
+      "after": "the one next to you is not slowed. The 2 the one that's stunned is not slowed. The 2 in the underhang are slowed",
+      "pass": 1
+    }
+  ],
+  "u1101": [
+    {
+      "before": "so callous than Bobby.",
+      "after": "So Caulaus, then Wellby.",
+      "pass": 1
+    }
+  ],
+  "u1104": [
+    {
+      "before": "and whatever done one.",
+      "after": "and whatever stunned one.",
+      "pass": 1
+    }
+  ],
+  "u1106": [
+    {
+      "before": "So there's one that's done. There's 2 that slowed, and there's one that's fleeing",
+      "after": "So there's one that's stunned. There's 2 that slowed, and there's one that's fleeing",
+      "pass": 1
+    }
+  ],
+  "u1110": [
+    {
+      "before": "That it's.",
+      "after": "That hits.",
+      "pass": 1
+    }
+  ],
+  "u1112": [
+    {
+      "before": "Not ants",
+      "after": "That hits.",
+      "pass": 1
+    }
+  ],
+  "u1117": [
+    {
+      "before": "inoculate I one",
+      "after": "[[inoculate I one]]",
+      "pass": 1
+    }
+  ],
+  "u1121": [
+    {
+      "before": "I don't know. Call us isn't that smart.",
+      "after": "I don't know. Caulaus isn't that smart.",
+      "pass": 1
+    }
+  ],
+  "u1126": [
+    {
+      "before": "4 foot tall, like almost of like more like a fairy sort of like Sparella",
+      "after": "4 foot tall, like almost of like more like a fairy sort of like Spirala",
+      "pass": 1
+    }
+  ],
+  "u1128": [
+    {
+      "before": "you do See this. Everybody says this",
+      "after": "you do See this. Everybody sees this",
+      "pass": 1
+    }
+  ],
+  "u1131": [
+    {
+      "before": "Go ahead. Well believe there's still one stunned and one slowed",
+      "after": "Go ahead. Wellby, there's there's still one stunned and one slowed",
+      "pass": 1
+    }
+  ],
+  "u1132": [
+    {
+      "before": "unless you want to chase down the fleet in one",
+      "after": "unless you want to chase down the fleeing one",
+      "pass": 1
+    }
+  ],
+  "u1133": [
+    {
+      "before": "playing one is badly wounded.",
+      "after": "Fleeing one is badly wounded.",
+      "pass": 1
+    }
+  ],
+  "u1136": [
+    {
+      "before": "Wellbey takes like 2",
+      "after": "Wellby takes like 2",
+      "pass": 1
+    }
+  ],
+  "u1137": [
+    {
+      "before": "stuff in your ears. So you have no idea that Kenzo shine of these are cursed.",
+      "after": "stuff in your ears. So you have no idea that Kenzo shouting that these are cursed.",
+      "pass": 1
+    }
+  ],
+  "u1143": [
+    {
+      "before": "Go ahead lobby.",
+      "after": "Go ahead Wellby.",
+      "pass": 1
+    }
+  ],
+  "u1144": [
+    {
+      "before": "So Welby takes 2 steps out from underneath the over.",
+      "after": "So Welby takes 2 steps out from underneath the overhang.",
+      "pass": 1
+    },
+    {
+      "before": "So Welby takes 2 steps out from underneath the overhang.",
+      "after": "So Wellby takes 2 steps out from underneath the overhang.",
+      "pass": 1
+    }
+  ],
+  "u1146": [
+    {
+      "before": "and with a few flats he lifts up into the sky and takes off after the fleeing one.",
+      "after": "and with a few flaps he lifts up into the sky and takes off after the fleeing one.",
+      "pass": 1
+    }
+  ],
+  "u1160": [
+    {
+      "before": "fully moods half-speed. If anybody wants an opportunity to he. You welcome to take it.",
+      "after": "it moves half-speed. If anybody wants an opportunity attack, you're welcome to take it.",
+      "pass": 1
+    }
+  ],
+  "u1163": [
+    {
+      "before": "But it when it i'll, i'll do. I'll do a stunning strike as an opportunity back again.",
+      "after": "But it when it i'll, i'll do. I'll do a stunning strike as an opportunity attack again.",
+      "pass": 1
+    }
+  ],
+  "u1173": [
+    {
+      "before": "You're doing stunning. Strike. So let me roll it, save just on the strike",
+      "after": "You're doing stunning. Strike. So let me roll its save for Stunning Strike",
+      "pass": 1
+    }
+  ],
+  "u1174": [
+    {
+      "before": "about 5. So it is stunned.",
+      "after": "Got 5. So it is stunned.",
+      "pass": 1
+    }
+  ],
+  "u1175": [
+    {
+      "before": "but yes, you could do not with mainly weapon attacks. You can do not vehicle Deb. Okay.",
+      "after": "But yes, you could do non—with melee weapon attacks, you can do nonlethal damage. Okay.",
+      "pass": 1
+    }
+  ],
+  "u1179": [
+    {
+      "before": "the other one will be is going to be unstunned at the end of your next term kenzo. So webe is chasing after",
+      "after": "the other one is going to be unstunned at the end of your next turn, Kenzo. So Wellby is chasing after",
+      "pass": 1
+    }
+  ],
+  "u1182": [
+    {
+      "before": "go here outside of captured capture them.",
+      "after": "goal here? Outside of capture—capture them.",
+      "pass": 1
+    }
+  ],
+  "u1186": [
+    {
+      "before": "Pennsylvania's perfectly and just like not just not enough. Yeah.",
+      "after": "[[Pennsylvania's perfectly and just like not just not enough.]] Yeah.",
+      "pass": 1
+    }
+  ],
+  "u1188": [
+    {
+      "before": "there's 2 that are, dad. The other 2 were attempting to leave, but they've both been",
+      "after": "there's 2 that are, dead. The other 2 were attempting to leave, but they've both been",
+      "pass": 1
+    }
+  ],
+  "u1192": [
+    {
+      "before": "But, as you speak telepathically into the mind of the one you're fleeing",
+      "after": "But, as you speak telepathically into the mind of the one you're chasing",
+      "pass": 1
+    }
+  ],
+  "u1199": [
+    {
+      "before": "I'll spare your life. So what do we spare those 2?",
+      "after": "I'll spare your life. So we spared those 2?",
+      "pass": 1
+    }
+  ],
+  "u0806": [
+    {
+      "before": "seeker turning as the 3 of you as the 4 of you approached the",
+      "after": "Seeker turning as the 3 of you as the 4 of you approached the",
+      "pass": 1
+    }
+  ],
+  "u0821": [
+    {
+      "before": "The creatures now are starting to swarm down towards seeker Another",
+      "after": "The creatures now are starting to swarm down towards Seeker Another",
+      "pass": 1
+    }
+  ],
+  "u0822": [
+    {
+      "before": "80 feet seekers one, maybe.",
+      "after": "80 feet Seeker's one, maybe.",
+      "pass": 1
+    }
+  ],
+  "u0829": [
+    {
+      "before": "and if seekers turning run.",
+      "after": "and if Seeker's turning run.",
+      "pass": 1
+    }
+  ],
+  "u0846": [
+    {
+      "before": "seeker is not just kind of",
+      "after": "Seeker is not just kind of",
+      "pass": 1
+    }
+  ],
+  "u0851": [
+    {
+      "before": "which are still like plunging down out of the sky, heading for seeker",
+      "after": "which are still like plunging down out of the sky, heading for Seeker",
+      "pass": 1
+    }
+  ],
+  "u0858": [
+    {
+      "before": "seeker. I mean he he's 30 feet away. He's not more than 30 feet away, presumably. Yeah, Seeker is 30 feet away.",
+      "after": "Seeker. I mean he he's 30 feet away. He's not more than 30 feet away, presumably. Yeah, Seeker is 30 feet away.",
+      "pass": 1
+    }
+  ],
+  "u0867": [
+    {
+      "before": "like looking. I turned it back around. Yeah, okay, Turn back around, and he's like looking in, each looking towards callous and looking towards",
+      "after": "like looking. I turned it back around. Yeah, okay, Turn back around, and he's like looking in, each looking towards Caulaus and looking towards",
+      "pass": 1
+    }
+  ],
+  "u0877": [
+    {
+      "before": "It's a good question. I will say in this case it does. Yes, I will do that. I will, I will. I will rush move over to seeker and just",
+      "after": "It's a good question. I will say in this case it does. Yes, I will do that. I will, I will. I will rush move over to Seeker and just",
+      "pass": 1
+    }
+  ],
+  "u0914": [
+    {
+      "before": "and kenzo and seeker",
+      "after": "and Kenzo and Seeker",
+      "pass": 1
+    }
+  ],
+  "u0957": [
+    {
+      "before": "and then 2 more of them begin singing to seeker.",
+      "after": "and then 2 more of them begin singing to Seeker.",
+      "pass": 1
+    }
+  ],
+  "u0968": [
+    {
+      "before": "fay woman in a shimmering",
+      "after": "fey woman in a shimmering",
+      "pass": 1
+    }
+  ],
+  "u0999": [
+    {
+      "before": "seeker. Then you, too.",
+      "after": "Seeker. Then you, too.",
+      "pass": 1
+    }
+  ],
+  "u1007": [
+    {
+      "before": "They've all sort of clustered on the ground around? Seeker so there's one wounded. There's there's 2 badly wounded ones, one standing next to seeker sort of gesturing for him",
+      "after": "They've all sort of clustered on the ground around? Seeker so there's one wounded. There's there's 2 badly wounded ones, one standing next to Seeker sort of gesturing for him",
+      "pass": 1
+    }
+  ],
+  "u1025": [
+    {
+      "before": "11 damage. So the one that's singing to seeker seeker. You see",
+      "after": "11 damage. So the one that's singing to Seeker Seeker. You see",
+      "pass": 1
+    }
+  ],
+  "u1038": [
+    {
+      "before": "this like dead body below you of the same Fay woman that you were just looking at before, and the rest of you as this woman dies.",
+      "after": "this like dead body below you of the same fey woman that you were just looking at before, and the rest of you as this woman dies.",
+      "pass": 1
+    }
+  ],
+  "u1103": [
+    {
+      "before": "next to the one next to seeker, basically trying to stand between seeker, and",
+      "after": "next to the one next to Seeker, basically trying to stand between Seeker, and",
+      "pass": 1
+    }
+  ],
+  "u1150": [
+    {
+      "before": "like. Try to negotiate, or talk, or parlay, or something like that, so i'll speak to them telepathically in Fay.",
+      "after": "like. Try to negotiate, or talk, or parlay, or something like that, so i'll speak to them telepathically in fey.",
+      "pass": 1
+    }
+  ],
+  "u1187": [
+    {
+      "before": "So so wellbe as you're chasing after this, when you see behind you that the other 2",
+      "after": "So so Wellby as you're chasing after this, when you see behind you that the other 2",
+      "pass": 1
+    }
   ]
 }
