@@ -24,6 +24,10 @@ The opening sequence is travel → river → open view and optional scouting →
 | [[VBL G02 - The Perfect Reflection]] | Flattering mirror / portrait correcting its guest | Optional guest room |
 | [[VBL G03 - The Patient's Suite]] | Cure in a cabinet / pain kept in crystal | Optional guest room |
 
+## Optional guest-quarter placement
+
+A minimal proposed arrangement keeps the crawl skippable: the viewpoint leads to the shared antechamber, and an ordinary main corridor continues toward the deferred audience area. G01, G02, and G03 branch from the antechamber through individual passages. G01's service door can join G02, and G03's secondary door can rejoin the main corridor. These are suggested connections, not a newly adopted room count or mandatory sequence. Each room works independently; place one, several, or none before the later capstone.
+
 ## Running assumptions
 
 Four level 9–10 PCs; no particular class mix or magic-item inventory is assumed. Mechanics use ordinary fifth-edition actions, attacks, saves, spells, and movement. All compact creature profiles are **original encounter shorthand**, not official monsters or tested CR assignments. Unlisted saving throws use the printed ability modifier; no hidden resistances, legendary actions, or immunities exist. Armor Class is AC, hit points HP, Difficulty Class DC. Damage can be rolled or use its printed average. Native-language communication and telepathy depend on the actual creature and spells, not an automatic universal tongue.
@@ -57,3 +61,7 @@ Each completed encounter draft is sent to a subagent for playability and balance
 - **E06 reviewed:** manageable objective encounter. Fixed hatch dimensions, work accounting, known operators, alarm-conditioned descriptions, mechanism depth, and familiar-operable releases.
 - **E07 reviewed:** light traversal, not an attrition encounter. Added precise plate/lane coordinates, contact and expiry rules, recovery destinations, continuous catching shelf, and a once-per-round gust cap.
 - **E08 reviewed:** earned noncombat payoff. Removed an implied question cap, aligned remains' distance, and added useful information-magic responses while marking undecided eruption facts honestly.
+- **G01 reviewed:** modest utility rewards. Clarified harmless nourishment, the cup's altered-substance targeting, and the source cloth/platform relationship.
+- **G02 reviewed:** modest items and avoidable room hazards. Defined grip range and restraint, safe ranged breaking, removal outcomes, portable curse correction, and full disclosure. Replaced speech censorship with a narrow Intimidation disadvantage so ordinary criticism and tactical speech remain free.
+- **G03 reviewed:** light exploration. Clarified the cabinet save/escape, physical forced movement only, and vessel reaction timing before HP loss with one hand occupied.
+- **Cross-encounter review:** no major route or cumulative-balance blocker. Added explicit watchpost transit and survivor handling so E06 does not silently gain reinforcements, and corrected a guest-room reward's reference to an earlier entrance.
