@@ -14,6 +14,7 @@ tags: [meta, status/check/ai]
 2. [[01 Overview - Vraedhul's Broken Lair]] provides the premise under the adventure-design headings, dynamics, outcomes, pacing, and preparation priorities.
 3. [[02 Backstory - Vraedhul's Broken Lair]] provides the fictional situation, geography, guardian concept, source boundaries, and contextual examples.
 4. [[03 Scenes - Vraedhul's Broken Lair.canvas]] provides the connected structure and first-pass scene cores. The Canvas's cards are not finished encounter scripts or statistics.
+5. [[04 Encounter Packet - Vraedhul's Broken Lair]] now supplies two runnable construction proposals for each of eight opening/entrance encounters and three optional guest rooms. Each was independently reviewed for four level 9–10 PCs. These are alternatives for the DM to critique, not additions silently adopted into the outline. The packet records assumptions, revised mechanics, and review findings.
 
 For the maintained process, read the [adventure-design skill](https://github.com/tsackton/taelgar/blob/main/.agents/skills/adventure-design/SKILL.md), at repository path `.agents/skills/adventure-design/SKILL.md`. Use the live [[01 Overview - Template]], [[02 Backstory - Template]], [[03 Scenes - Instructions]], and [[Scene - Template]]. This guide supplements those instructions; it does not replace current templates or vault rules.
 

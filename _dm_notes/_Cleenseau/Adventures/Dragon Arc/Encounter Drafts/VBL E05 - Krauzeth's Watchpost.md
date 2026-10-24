@@ -41,6 +41,6 @@ The bell hangs in a sound-deadening stone casing. The keyed handle opens a narro
 
 ## Results and balance
 
-Warning prevented: the next passage is intact and the inner defenders are unprepared. Warning delivered: they begin the sealing plan in E06. If the party retreats, the defenders stop once they have sealed their refuge; they do not continue a months-long demolition routine.
+Warning prevented: the next passage is intact and the inner defenders are unprepared. Warning delivered: they begin the sealing plan in E06. A short passage with two rock bends, roughly a minute's careful walk, separates the encounters. Use E06's stated warned or unwarned start after that prompt transit; do not add secret steps for searching bodies or a brief exchange. Escaping outer kobolds withdraw through a separate bolt-hole, and a released beast scatters outside; neither joins E06's listed defenders. Announce any longer chosen rest or unrelated excursion as a risk before advancing to the sealed state. If the party retreats, the defenders stop once they have sealed their refuge; they do not continue a months-long demolition routine.
 
 This is a light-to-moderate fight or a short infiltration/negotiation for four level 9–10 PCs. The beast and three kobolds have 124 total HP, modest damage, and competing nonattack actions. One area spell may settle most of it; preventing a visible warning still makes its timing meaningful. Do not add more bodies to defeat such a success. Strong fresh level 10 option: beast HP 95; all alarm timing unchanged.
