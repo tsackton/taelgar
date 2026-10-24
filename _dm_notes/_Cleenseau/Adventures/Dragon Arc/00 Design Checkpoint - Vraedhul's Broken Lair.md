@@ -80,7 +80,21 @@ The personal lair may be a vast cavern or a mountain-top pavilion; neither is se
 
 ## The opening's adopted flow
 
-Shared dangerous approaches lead to a choice of three entrances. Overcoming the chosen entrance earns access to a single shared discovery location on Vraedhul's mountain. Offspring routes use the kobold network to get there.
+The opening now has an initial playable flow, expanded from the earlier generic dangerous approaches:
+
+1. **Leave Orenlas; skip uneventful wilderness travel.** The party has learned that Vraedhul's guardian exists and takes tribute, but not its present form. They initially know only the formal entrance.
+2. **Cross the unnaturally frozen river.** The lair is beyond it. Water has held its shape, and solid air makes ordinary flight across the affected reach a traversal problem. A charging chaos creature can shatter the solid air: opening a usable crossing is the encounter objective beyond killing. Suitable spells, equipment, and other plans remain useful.
+3. **The landscape opens onto two obvious directions.** A crooked, scrambled but followable grand road leads toward the formal entrance. In roughly the opposite direction, a towering upheaval visibly expels pieces of Zaurmath's devastated lair. The estate road begins here; this does not imply an ordinary road across the preceding wilderness.
+4. **Choose a direction immediately, or scout before committing.** Scouting is one brief reconnaissance pass through the intervening broken country, not a required tour of all entrances or an extended wilderness subsystem.
+5. **Scouting produces actionable clues to all three routes.** It reveals the formal approach's exposed defenses, coherent access beside the architectural upheaval, and small inhabitants' tracks using sheltered gullies toward a third approach. Basic leads follow from deliberately investigating; a check can improve the party's starting position rather than determine whether an entrance exists for them.
+6. **Following the tracks can reveal a hidden, living kobold and its predator.** The NPC requires scouting and close investigation. It is not automatically spotted or heard from the road. If the party intervenes, protect and extract the kobold rather than simply kill the predator. A rescued kobold can clarify Krauzeth's route and warn of guards and an alarm; its survival is not the only source of the route's basic clue.
+7. **Overcome one chosen entrance and earn the shared discovery.** All three alternatives still reach the same view on Vraedhul's mountain; offspring routes use the underground kobold network.
+
+The agreed scouting structure is deliberately light: ask how the party gets an overview and how they look for inhabitants, resolve one short pass, and give three prepared findings. The hidden-kobold investigation can then become a substantial optional encounter. Scouting need not itself occupy much table time. About ten minutes at the table and one lead check around DC 15 were illustrative calibration suggestions, not fixed timing or adopted mechanics.
+
+A good scouting result lets them identify the predator before it reaches the hiding place and prepare an intervention. A poor result brings them to the site as it starts probing the shelter. Neither result withholds the three broad entrance leads. Exact skills, DCs, distances, rescue timing, and the predator's nature remain to be constructed.
+
+The frozen-air crossing and charging creature are selected concepts, not finished statistics. Its visible windup and ability to break air barriers are the important interaction. The towering upheaval's exact form is also open: an upright whirlpool of architectural fragments was a working image, not a settled creature or a new source of the incursion. The original outbreak still began in the central workshops. These distinctions are expanded in [[02 Backstory - Vraedhul's Broken Lair]].
 
 The entrances are alternatives, not three required trials. The PCs can attempt the main entrance immediately. The earlier idea that simpler offspring areas might help before attempting the richer main complex does not create a prerequisite to complete both offspring lairs.
 
@@ -230,7 +244,11 @@ These statuses must not be merged:
 | Different discovery viewpoint at each peak | Not the chosen shared-view structure. |
 | Mandatory viewing-device puzzle | Not adopted. |
 | Simultaneous audience-chamber coordination challenge | Proposed, unadopted, and deferred. |
-| Actual outside encounters, creature rosters, mechanics, or room inventory | Still open; do not infer them from descriptive examples. |
+| Frozen river, solid-air obstacles, and a charging chaos creature that can open gaps | Opening concept adopted; exact geography and mechanics open. |
+| Crooked estate road and distant expulsion of lair fragments in different directions | Adopted landmarks; exact expulsion phenomenon open. |
+| Brief reconnaissance with three entrance leads and a hidden living kobold | Adopted flow; concrete checks, predator, and NPC identity open. |
+| Moving woodland lookout, Air Elemental statistics, and root-tether procedure | Earlier unadopted brainstorming; not part of the chosen river opening. |
+| Actual creature statistics, detailed encounter mechanics, or room inventory | Still open; do not infer them from descriptive examples. |
 
 The general wish for elementals and other dangers in the landscape remains. It does not revive the rejected particular elemental proposal. The user specifically corrected the notes on this point.
 
@@ -258,7 +276,7 @@ After reading the packet and the live skill:
 
 1. Briefly state the current scope and acknowledge the opening's already-set structure.
 2. If the original next game has happened, establish which material was played and what changed.
-3. Continue with concrete outside design: a small coherent approach area, useful reconnaissance for each entrance, actual inhabitants and dangers, and purposeful objectives for any fights. No useful tribute cache and no revived stair-maintaining elemental.
+3. Continue construction from the adopted river → landmarks → optional brief scouting → entrance-choice flow. Finish the crossing's solid-air geometry and charging creature, the three reconnaissance findings, and the optional kobold rescue. Do not restart with generic outside alternatives. No useful tribute cache and no revived stair-maintaining elemental.
 4. Finish the formal keeper's play details: cues, gifts, binding, cooperation, and physical alternatives.
 5. Finish the watchpost-to-demolition encounter and its outcome states.
 6. Finish the environmental chamber's actual hazards and readable rules.
