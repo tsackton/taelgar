@@ -126,6 +126,72 @@ Picture wooded coastal hills, rivers cutting through toward the sea, and wide ag
 These are brainstorming proposals, not additions to the physical model or canonical geography. Local growing-season length and harvest rainfall have not been quantified.
 %%
 
+## Maritime Trade Peninsula — Layout and Terrain Brainstorming
+
+### Writing Reference
+
+- **Overview:** Picture a crowded harbor city climbing green hills, with steep streets, packed waterfronts, shipyards, and ships arriving from every corner of the Green Sea.
+- **People/Settlements:** One major international port anchors the region, with generations of migration and trade shaping its neighborhoods; other ports, inland communities, and local cultures remain open.
+- **Climate/Biome:** Warm subtropical shores and rainy mountain slopes surround a great wetland of flooded forest, shallow lakes, and winding channels, with mangroves along suitable coasts and increasingly dry country toward the desert.
+
+### The Main Port
+
+The Hong Kong/Macau touchstone is a dense, lively maritime city: warehouses beside crowded docks, workshops and markets climbing the hills, and families with connections across the sea. Cultural mixing should feel deeply rooted in the city’s everyday life.
+
+The city provides a strong focal point while leaving plenty of room for players to invent neighborhoods, communities, and places elsewhere on the peninsula. Its government, local language, and exact harbor location remain open.
+
+### The Great Swamp
+
+A broad, low basin east of the mountains could gather water from several rivers before draining toward the coast. Picture flooded woodland, reed beds, shallow lakes, and branching channels, interrupted by wooded islands and low ridges of dry ground.
+
+Summer rain could expand the flooded country, while deeper channels, lakes, and spring-fed forest remain wet through the drier season. Boat routes and overland paths would change with the water level.
+
+The swamp can be explicitly magical, but the magic should strengthen a recognizable physical process. Four possibilities:
+
+- **Rain-catching mountains:** Mountain forests draw in maritime cloud and trigger unusually dependable rain, feeding rivers while the desert receives little moisture.
+- **A vast underground reservoir:** Rain sinks into the mountains and emerges slowly through springs across the lowlands; magic increases storage and sustains the flow through drought.
+- **A forest that spreads the rivers:** Exceptionally vigorous roots dam channels and trap sediment, keeping water spread across the basin instead of letting a single deep river drain it.
+- **Rain that keeps returning:** Magic encourages moisture evaporating from the wetland to fall locally again, producing frequent showers over the swamp while surrounding country stays dry.
+
+These could combine. Rain-catching mountains and unusually persistent springs offer one promising foundation, but no mechanism is chosen.
+
+The wetland’s edge could follow the height of the water table: flooded forest gives way to dry woodland and thorn scrub as the ground rises toward the desert. Older brainstorming also places lizardfolk in this region; their communities and relationship to the wetland remain open.
+
+### Mangrove Shores
+
+Mangroves fit the peninsula’s warm coastal setting wherever shallow, muddy tidal ground has sufficient shelter. Using the numbered reference sketch:
+
+- **3 — western shore:** Mangrove-lined bays and tidal creeks, with firmer wooded ground behind them.
+- **4 — eastern bay:** Mangroves around the shallow inner shore of the bay, with potentially rocky or sandy ground on the projecting point.
+- **1 — southeastern shore:** A possible broad outlet for the inland swamp, with branching freshwater channels meeting mangrove islands and muddy estuaries; shoals or barrier islands could shelter the coast.
+
+These are possible shoreline arrangements, not settled locations or boundaries.
+
+## Medju and the Spice Cities — Regional Brainstorming
+
+### Writing Reference
+
+- **Overview:** Picture sun-baked harbor and oasis cities, shaded markets, caravan courtyards, and merchant houses whose private gardens stay green while the country beyond the walls turns brown.
+- **People/Settlements:** Medju’s wealthy harbor connects a wider world of oasis cities, mountain gateways, smaller ports, and caravan communities scattered along the desert trade routes.
+- **Climate/Biome:** Hot, dry coastal country with milder winters, sparse scrub, and cultivated pockets around dependable water, backed by desert and bare mountain slopes.
+
+### Ports, Oases, and Caravan Routes
+
+The Spice Cities are a network of coastal ports and inland oasis cities, with [[Medju]] as the great coastal meeting point. They need not share a government or a single culture; “the Spice Cities” is how outsiders group places connected by trade. The name describes what passes through their markets, without requiring the spices to grow on this dry coast.
+
+Three useful anchors for the regional feel:
+
+- **Medju:** Caravan courtyards beside harbor warehouses, crowded markets, and the conspicuous wealth of the spice lords.
+- **An inland oasis city:** Dense gardens and orchards behind walls, shaded streets, and caravans gathering before the next desert crossing.
+- **A city near the mountain passes:** Steep roads, crowded inns, and markets where goods arriving from beyond the mountains change hands.
+
+The oasis and mountain cities are possibilities rather than fixed settlements. Other cities, smaller communities, cultures, and the farther destinations of the trade routes remain open for player backstories and later development. No additional city names are needed now.
+
+%% Sources:
+- [[Medju]] — established spice-city and desert-trade anchor; the wider network and settlement imagery above are brainstorming.
+- [[Climate of the Green Sea and Its Shores]] — dry Medju coast and desert-margin climate.
+%%
+
 ## Names
 
 ### Passage Islands
@@ -174,6 +240,45 @@ Cymean exonym candidates for the southern imperial society just west of the moun
 6. **Seressa** (seh-RESS-ah) — softer and more conversational, with the doubled consonant giving it some of Vessara's weight while remaining easy to use at the table.
 7. **Talaris** (tah-LAH-riss) — a compact classical sound with a different ending from the other candidates, useful if the realm takes its name from an old capital.
 8. **Ordelia** (or-DEH-lee-ah) — measured and dignified, fitting a settled regional identity with courts, scholars, and a long civic tradition.
+
+### Maritime Trade Peninsula — Landform Options
+
+Cymean exonyms or a Common geographic name; none chosen.
+
+- **Sarona Peninsula** (*sah-ROH-nah*) — simple and neutral; “the Saronan coast” works naturally.
+- **Calona Peninsula** (*kah-LOH-nah*) — softer, with room to encompass several cultures.
+- **Belora Peninsula** (*beh-LOR-ah*) — compact and distinct from Cymea and Irrla.
+- **Aramora Peninsula** (*ah-rah-MOR-ah*) — could sound like a local name adapted into Cymean.
+- **The Long Cape** — a practical Common name for the land projecting north into the sea.
+
+### Main Port — Local Name Options
+
+The city should have a local name with a sound distinct from Cymean. Eastros-family names were explored first, followed by a more Turkic/Central Asian sound palette. The local language and its relationships remain open; these names have no assigned translations.
+
+**Turkic/Central Asian direction:**
+
+- **Tashan** (*tah-SHAHN*) — straightforward and substantial.
+- **Sayrak** (*SIGH-rak*) — brisk and distinctive, with a strong ending.
+- **Ordan** (*or-DAHN*) — understated, like an old name worn smooth by everyday use.
+- **Talgan** (*tahl-GAHN*) — sturdy, fitting a working city of docks and workshops.
+- **Keshar** (*keh-SHAR*) — softer, fitting a port connected to inland caravans.
+- **Aruk** (*ah-ROOK*) — short and memorable.
+- **Saryan** (*sah-RYAHN*) — flowing and gentler in sound.
+- **Tazhir** (*tah-ZHEER*) — distinctive; *zh* as in “vision.”
+
+**Earlier Balto-Slavic/Eastros options:** Neruva, Vezna, Kelmis, Rasek, Selava, Darsen, Lazava, Varnis, Odrava, Zhelan.
+
+No city name is chosen.
+
+### Great Swamp — Common Name Options
+
+- **The Blackwater Marshes** — dark channels beneath flooded forest.
+- **The Great Morass** — a broad outsider’s name for an enormous wetland.
+- **The Drowned Woods** — emphasizes trees rising from standing water.
+- **The Thousand Channels** — emphasizes travel through branching waterways.
+- **The Spring Marshes** — fits the possibility of abundant groundwater welling up across the basin.
+
+No swamp name is chosen.
 
 ## Links to Gather Around
 

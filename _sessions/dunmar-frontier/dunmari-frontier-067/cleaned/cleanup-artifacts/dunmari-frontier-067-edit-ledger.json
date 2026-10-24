@@ -46,6 +46,11 @@
       "before": "kenza also is just showing up right. It's like a period.",
       "after": "Kenzo also is just showing up right. It's like appeared.",
       "pass": 1
+    },
+    {
+      "before": "Kenzo also is just showing up right. It's like appeared.",
+      "after": "Kenzo also is just showing up right. I just, like, appeared.",
+      "pass": 2
     }
   ],
   "u0021": [
@@ -105,6 +110,11 @@
       "before": "in the empty, desolate realm of amberglow. This remains one of the few places [[all are in safety]]",
       "after": "in the empty, desolate realm of Amberglow. This remains one of the few places [[all are in safety]]",
       "pass": 1
+    },
+    {
+      "before": "in the empty, desolate realm of Amberglow. This remains one of the few places [[all are in safety]]",
+      "after": "in the empty, desolate realm of Amberglow. This remains one of the few places of color and safety",
+      "pass": 2
     }
   ],
   "u0043": [
@@ -112,6 +122,11 @@
       "before": "as a group of travelers gather here, some reunited after long separation, and others Booly, that",
       "after": "as a group of travelers gather here, some reunited after long separation, and others [[Booly, that]]",
       "pass": 1
+    },
+    {
+      "before": "as a group of travelers gather here, some reunited after long separation, and others [[Booly, that]]",
+      "after": "as a group of travelers gather here, some reunited after long separation, and others newly met",
+      "pass": 2
     }
   ],
   "u0044": [
@@ -145,6 +160,11 @@
       "before": "When her car dazzled any who came with her beauty and elegance.",
       "after": "When her court dazzled any who came with its beauty and elegance.",
       "pass": 1
+    },
+    {
+      "before": "When her court dazzled any who came with its beauty and elegance.",
+      "after": "When her court dazzled any who came with her beauty and elegance.",
+      "pass": 2
     }
   ],
   "u0050": [
@@ -330,6 +350,11 @@
       "before": "to the secret.",
       "after": "to Seeker.",
       "pass": 1
+    },
+    {
+      "before": "to Seeker.",
+      "after": "So Seeker.",
+      "pass": 2
     }
   ],
   "u0128": [
@@ -358,6 +383,11 @@
       "before": "glaring it on his hand at the moment it's it.",
       "after": "wearing it on his hand at the moment it's it.",
       "pass": 1
+    },
+    {
+      "before": "wearing it on his hand at the moment it's it.",
+      "after": "wearing it on his hand at the moment it's at",
+      "pass": 2
     }
   ],
   "u0147": [
@@ -449,6 +479,11 @@
       "before": "His staff, the staff, is sitting out, laid across from his they across his lab, and",
       "after": "His staff, the staff, is sitting out, laid across from his—across his lap, and",
       "pass": 1
+    },
+    {
+      "before": "His staff, the staff, is sitting out, laid across from his—across his lap, and",
+      "after": "His staff, the staff, is sitting out, laid across from his—laid across his lap, and",
+      "pass": 2
     }
   ],
   "u0198": [
@@ -470,6 +505,12 @@
       "before": "Robin.",
       "after": "[[Robin.]]",
       "pass": 1
+    },
+    {
+      "before": "[[Robin.]]",
+      "after": "Robin.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
     }
   ],
   "u0214": [
@@ -477,6 +518,12 @@
       "before": "They're ready to you. Speak, Craig?",
       "after": "[[They're ready to you. Speak, Craig?]]",
       "pass": 1
+    },
+    {
+      "before": "[[They're ready to you. Speak, Craig?]]",
+      "after": "They're ready to you. Speak, Craig?",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
     }
   ],
   "u0215": [
@@ -484,6 +531,11 @@
       "before": "Yeah, I do, he he calls out. Just a hello and drink Quarian.",
       "after": "Yeah, I do, he he calls out. Just a hello and Drankorian.",
       "pass": 1
+    },
+    {
+      "before": "Yeah, I do, he he calls out. Just a hello and Drankorian.",
+      "after": "Yeah, I do, he he calls out. Just a hello in Drankorian.",
+      "pass": 2
     }
   ],
   "u0217": [
@@ -547,6 +599,11 @@
       "before": "seeker. Maybe you can shut a little bit more like on.",
       "after": "seeker. Maybe you can shed a little bit more light on.",
       "pass": 1
+    },
+    {
+      "before": "seeker. Maybe you can shed a little bit more light on.",
+      "after": "Seeker. Maybe you can shed a little bit more light on.",
+      "pass": 2
     }
   ],
   "u0256": [
@@ -554,6 +611,11 @@
       "before": "bring it on clear.",
       "after": "[[bring it on clear.]]",
       "pass": 1
+    },
+    {
+      "before": "[[bring it on clear.]]",
+      "after": "really unclear.",
+      "pass": 2
     }
   ],
   "u0257": [
@@ -575,6 +637,12 @@
       "before": "to better that ever.",
       "after": "[[to better that ever.]]",
       "pass": 1
+    },
+    {
+      "before": "[[to better that ever.]]",
+      "after": "to better that ever.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
     }
   ],
   "u0268": [
@@ -603,6 +671,11 @@
       "before": "I I should say I'm grateful to call us for helping to lead. But",
       "after": "I I should say I'm grateful to Caulaus for helping to lead. But",
       "pass": 1
+    },
+    {
+      "before": "I I should say I'm grateful to Caulaus for helping to lead. But",
+      "after": "I I should say I'm grateful to Caulaus for helping to lead the",
+      "pass": 2
     }
   ],
   "u0280": [
@@ -750,6 +823,11 @@
       "before": "Emperor Helena.",
       "after": "Emperor [[Helena]].",
       "pass": 1
+    },
+    {
+      "before": "Emperor [[Helena]].",
+      "after": "Emperor Helea.",
+      "pass": 2
     }
   ],
   "u0429": [
@@ -778,6 +856,12 @@
       "before": "in in High School.",
       "after": "[[in in High School.]]",
       "pass": 1
+    },
+    {
+      "before": "[[in in High School.]]",
+      "after": "in in High School.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
     }
   ],
   "u0436": [
@@ -785,6 +869,11 @@
       "before": "All we know about you don't. Actually You're going to run about them except your your dreams. We know it from the vision of the center of command, and you don't miss smear",
       "after": "All we know about you don't. Actually [[You're going to run about them]] except your your dreams. We know it from the vision of the Scepter of Command, and [[you don't miss smear]]",
       "pass": 1
+    },
+    {
+      "before": "All we know about you don't. Actually [[You're going to run about them]] except your your dreams. We know it from the vision of the Scepter of Command, and [[you don't miss smear]]",
+      "after": "All we know about you don't. Actually you don't know about them except your your dreams. We know it from the vision of the Scepter of Command, and Eudomes's mirror",
+      "pass": 2
     }
   ],
   "u0440": [
@@ -820,6 +909,11 @@
       "before": "We're just deal with the wild.",
       "after": "We're just Delwath the Wild.",
       "pass": 1
+    },
+    {
+      "before": "We're just Delwath the Wild.",
+      "after": "Where's Delwath the Wild.",
+      "pass": 2
     }
   ],
   "u0481": [
@@ -834,6 +928,11 @@
       "before": "Is this the Mon itself?",
       "after": "Is this the monk I saw?",
       "pass": 1
+    },
+    {
+      "before": "Is this the monk I saw?",
+      "after": "Is this the [[Mon itself]]?",
+      "pass": 2
     }
   ],
   "u0485": [
@@ -862,6 +961,11 @@
       "before": "is a lot of things happen. But long story shirt. I found a wizard who was trapped in a mirror dimension and freed him, and then he sent me here.",
       "after": "is a lot of things happen. But long story short. I found a wizard who was trapped in a mirror dimension and freed him, and then he sent me here.",
       "pass": 1
+    },
+    {
+      "before": "is a lot of things happen. But long story short. I found a wizard who was trapped in a mirror dimension and freed him, and then he sent me here.",
+      "after": "a lot of things happened. But long story short. I found a wizard who was trapped in a mirror dimension and freed him, and then he sent me here.",
+      "pass": 2
     }
   ],
   "u0505": [
@@ -1051,6 +1155,11 @@
       "before": "well, 10 just as strong as you are.",
       "after": "Well, Ken just as strong as you are.",
       "pass": 1
+    },
+    {
+      "before": "Well, Ken just as strong as you are.",
+      "after": "Well, Ken, he's just as strong as you are.",
+      "pass": 2
     }
   ],
   "u0674": [
@@ -1196,6 +1305,12 @@
       "before": "300 5,300 feet away.",
       "after": "[[300 5,300]] feet away.",
       "pass": 1
+    },
+    {
+      "before": "[[300 5,300]] feet away.",
+      "after": "300 5,300 feet away.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
     }
   ],
   "u0777": [
@@ -1301,6 +1416,11 @@
       "before": "smiles broadly when the wellbe appears out of nowhere.",
       "after": "smiles broadly when the Wellby appears out of nowhere.",
       "pass": 1
+    },
+    {
+      "before": "smiles broadly when the Wellby appears out of nowhere.",
+      "after": "smiles broadly when Wellby appears out of nowhere.",
+      "pass": 2
     }
   ],
   "u0202": [
@@ -1385,6 +1505,11 @@
       "before": "They will answer your question. They will satisfy your every curiosity about the wonders of the Fay Wild.",
       "after": "They will answer your question. They will satisfy your every curiosity about the wonders of the fey Wild.",
       "pass": 1
+    },
+    {
+      "before": "They will answer your question. They will satisfy your every curiosity about the wonders of the fey Wild.",
+      "after": "They will answer your question. They will satisfy your every curiosity about the wonders of the Feywild.",
+      "pass": 2
     }
   ],
   "u0793": [
@@ -1483,6 +1608,11 @@
       "before": "I'm probably more of Kansas. I'm just kidding.",
       "after": "I'm probably more of Kenzo's. I'm just kidding.",
       "pass": 1
+    },
+    {
+      "before": "I'm probably more of Kenzo's. I'm just kidding.",
+      "after": "I'm probably more of Kenzo's—I'm just kidding.",
+      "pass": 2
     }
   ],
   "u0840": [
@@ -1511,6 +1641,11 @@
       "before": "give us that. So, please. This echo is basically that's the quizzer's got to be to Phineas",
       "after": "give us [[that. So, please]]. This echo is basically [[that's the quizzer's]] got to be Typhina's",
       "pass": 1
+    },
+    {
+      "before": "give us [[that. So, please]]. This echo is basically [[that's the quizzer's]] got to be Typhina's",
+      "after": "give us [[that. So, please]]. This echo is basically that's the quizzer's got to be Typhina's",
+      "pass": 2
     }
   ],
   "u0855": [
@@ -1532,6 +1667,11 @@
       "before": "up, Kenz, or we do you want to do anything",
       "after": "up, Kenzo, we do you want to do anything",
       "pass": 1
+    },
+    {
+      "before": "up, Kenzo, we do you want to do anything",
+      "after": "up, Kenzo, do you want to do anything",
+      "pass": 2
     }
   ],
   "u0868": [
@@ -1607,6 +1747,12 @@
       "before": "I mean my spells are in this house is probably a decent, least a place to rest. But",
       "after": "I mean [[my spells are in this house]] is probably a decent, least a place to rest. But",
       "pass": 1
+    },
+    {
+      "before": "I mean [[my spells are in this house]] is probably a decent, least a place to rest. But",
+      "after": "I mean my spells are in this house is probably a decent, least a place to rest. But",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
     }
   ],
   "u0910": [
@@ -1698,6 +1844,11 @@
       "before": "existence, and the second Harvey that was about the the attack, the echo kind of looks around confused. It begins Dot, darting closer to you.",
       "after": "existence, and the second harpy that was about the the attack, the echo kind of looks around confused. It begins Dot, darting closer to you.",
       "pass": 1
+    },
+    {
+      "before": "existence, and the second harpy that was about the the attack, the echo kind of looks around confused. It begins Dot, darting closer to you.",
+      "after": "existence, and the second harpy that was about the the attack, the echo kind of looks around confused. It begins dart—darting closer to you.",
+      "pass": 2
     }
   ],
   "u0969": [
@@ -1733,6 +1884,11 @@
       "before": "so please! Yes, Who is that? Who can I shoot her?",
       "after": "[[so please!]] Yes, Who is that? Who can I shoot her?",
       "pass": 1
+    },
+    {
+      "before": "[[so please!]] Yes, Who is that? Who can I shoot her?",
+      "after": "[[so please!]] Yes, Who is that? Can I shoot her?",
+      "pass": 2
     }
   ],
   "u0986": [
@@ -1888,6 +2044,12 @@
       "before": "and you can do a second. Tech. Yeah. But i'm gonna do that first. To see what the pupp are attacking like is a, you know, because I can tell. With this I can learn if they're affected by magic poison disease, etc. Yeah.",
       "after": "and you can do a second attack. Yeah. But i'm gonna do that first. To see what [[the pupp are attacking]] like is a, you know, because I can tell. With this I can learn if they're affected by magic poison disease, etc. Yeah.",
       "pass": 1
+    },
+    {
+      "before": "and you can do a second attack. Yeah. But i'm gonna do that first. To see what [[the pupp are attacking]] like is a, you know, because I can tell. With this I can learn if they're affected by magic poison disease, etc. Yeah.",
+      "after": "and you can do a second attack. Yeah. But i'm gonna do that first. To see what the pupp are attacking like is a, you know, because I can tell. With this I can learn if they're affected by magic poison disease, etc. Yeah.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
     }
   ],
   "u1067": [
@@ -1895,6 +2057,12 @@
       "before": "Yeah, I can't. I Can' Them",
       "after": "Yeah, I can't. I can't [[Them]]",
       "pass": 1
+    },
+    {
+      "before": "Yeah, I can't. I can't [[Them]]",
+      "after": "Yeah, I can't. I can't Them",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
     }
   ],
   "u1068": [
@@ -1923,6 +2091,11 @@
       "before": "I can. I'd be studying. Strike my! I do a sign. Strike with my staff as well as yeah.",
       "after": "I can. I'd be Stunning Strike my! I do a Stunning Strike with my staff as well as yeah.",
       "pass": 1
+    },
+    {
+      "before": "I can. I'd be Stunning Strike my! I do a Stunning Strike with my staff as well as yeah.",
+      "after": "Can I do Stunning Strike with my—I do a Stunning Strike with my staff as well as—yeah.",
+      "pass": 2
     }
   ],
   "u1080": [
@@ -1937,6 +2110,11 @@
       "before": "There is the one you just stunned, and then there's 2 that are underneath the overhanging next to campus.",
       "after": "There is the one you just stunned, and then there's 2 that are underneath the overhanging next to Caulaus.",
       "pass": 1
+    },
+    {
+      "before": "There is the one you just stunned, and then there's 2 that are underneath the overhanging next to Caulaus.",
+      "after": "There is the one you just stunned, and then there's 2 that are underneath the overhang next to Caulaus.",
+      "pass": 2
     }
   ],
   "u1085": [
@@ -1972,6 +2150,11 @@
       "before": "Seekers are a little confused. Everything's happening too fast, so it's just going to slow them down",
       "after": "Seeker's a little confused. Everything's happening too fast, so it's just going to slow them down",
       "pass": 1
+    },
+    {
+      "before": "Seeker's a little confused. Everything's happening too fast, so it's just going to slow them down",
+      "after": "Seeker's a little confused. Everything's happening too fast, so he's just going to slow them down",
+      "pass": 2
     }
   ],
   "u1091": [
@@ -2007,6 +2190,11 @@
       "before": "and whatever done one.",
       "after": "and whatever stunned one.",
       "pass": 1
+    },
+    {
+      "before": "and whatever stunned one.",
+      "after": "and whatever—the stunned one.",
+      "pass": 2
     }
   ],
   "u1106": [
@@ -2035,6 +2223,12 @@
       "before": "inoculate I one",
       "after": "[[inoculate I one]]",
       "pass": 1
+    },
+    {
+      "before": "[[inoculate I one]]",
+      "after": "inoculate I one",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
     }
   ],
   "u1121": [
@@ -2063,6 +2257,11 @@
       "before": "Go ahead. Well believe there's still one stunned and one slowed",
       "after": "Go ahead. Wellby, there's there's still one stunned and one slowed",
       "pass": 1
+    },
+    {
+      "before": "Go ahead. Wellby, there's there's still one stunned and one slowed",
+      "after": "Go ahead. Wellby, there's still one stunned and one slowed",
+      "pass": 2
     }
   ],
   "u1132": [
@@ -2138,6 +2337,11 @@
       "before": "You're doing stunning. Strike. So let me roll it, save just on the strike",
       "after": "You're doing stunning. Strike. So let me roll its save for Stunning Strike",
       "pass": 1
+    },
+    {
+      "before": "You're doing stunning. Strike. So let me roll its save for Stunning Strike",
+      "after": "You're doing Stunning Strike. So let me roll its save for Stunning Strike",
+      "pass": 2
     }
   ],
   "u1174": [
@@ -2173,6 +2377,12 @@
       "before": "Pennsylvania's perfectly and just like not just not enough. Yeah.",
       "after": "[[Pennsylvania's perfectly and just like not just not enough.]] Yeah.",
       "pass": 1
+    },
+    {
+      "before": "[[Pennsylvania's perfectly and just like not just not enough.]] Yeah.",
+      "after": "Pennsylvania's perfectly and just like not just not enough. Yeah.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
     }
   ],
   "u1188": [
@@ -2201,6 +2411,11 @@
       "before": "seeker turning as the 3 of you as the 4 of you approached the",
       "after": "Seeker turning as the 3 of you as the 4 of you approached the",
       "pass": 1
+    },
+    {
+      "before": "Seeker turning as the 3 of you as the 4 of you approached the",
+      "after": "Seeker turning as the 3 of you as the 4 of you approach the",
+      "pass": 2
     }
   ],
   "u0821": [
@@ -2215,6 +2430,11 @@
       "before": "80 feet seekers one, maybe.",
       "after": "80 feet Seeker's one, maybe.",
       "pass": 1
+    },
+    {
+      "before": "80 feet Seeker's one, maybe.",
+      "after": "80 feet Seeker's run, maybe.",
+      "pass": 2
     }
   ],
   "u0829": [
@@ -2327,6 +2547,5257 @@
       "before": "So so wellbe as you're chasing after this, when you see behind you that the other 2",
       "after": "So so Wellby as you're chasing after this, when you see behind you that the other 2",
       "pass": 1
+    }
+  ],
+  "u1201": [
+    {
+      "before": "in waging for Demo.",
+      "after": "[[in waging for Demo.]]",
+      "pass": 1
+    }
+  ],
+  "u1202": [
+    {
+      "before": "That's a clear",
+      "after": "[[That's a clear]]",
+      "pass": 1
+    }
+  ],
+  "u1207": [
+    {
+      "before": "all right. Well be a land, too.",
+      "after": "all right. Wellby will land, too.",
+      "pass": 1
+    }
+  ],
+  "u1212": [
+    {
+      "before": "Who are you talking about? Who is Jacob? Why are you waiting? How come those 2 change back into elf fairy people.",
+      "after": "Who are you talking about? Who is [[Jacob]]? Why are you waiting? How come those 2 change back into elf fairy people.",
+      "pass": 1
+    },
+    {
+      "before": "Who are you talking about? Who is [[Jacob]]? Why are you waiting? How come those 2 change back into elf fairy people.",
+      "after": "Who are you talking about? Who is [[Jacob]]? Why are you waiting? How come those 2 changed back into elf fairy people.",
+      "pass": 2
+    }
+  ],
+  "u1216": [
+    {
+      "before": "kisses again at you",
+      "after": "hisses again at you",
+      "pass": 1
+    }
+  ],
+  "u1219": [
+    {
+      "before": "Well, it doesn't flinch even the smallest amount.",
+      "after": "Wellby doesn't flinch even the smallest amount.",
+      "pass": 1
+    }
+  ],
+  "u1220": [
+    {
+      "before": "Nice a deal.",
+      "after": "It's a deal.",
+      "pass": 1
+    }
+  ],
+  "u1222": [
+    {
+      "before": "I said, I tell you that it will be",
+      "after": "[[I said, I tell you that it will be]]",
+      "pass": 1
+    },
+    {
+      "before": "[[I said, I tell you that it will be]]",
+      "after": "I said, I tell you that it will be",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u1244": [
+    {
+      "before": "so i'll i'll sort of open up the telepathic channels here because I don't feel like that's just a webey thing at this moment, like, All right. What what should we ask her? We get 3 questions.",
+      "after": "so i'll i'll sort of open up the telepathic channels here because I don't feel like that's just a Wellby thing at this moment, like, All right. What what should we ask her? We get 3 questions.",
+      "pass": 1
+    }
+  ],
+  "u1246": [
+    {
+      "before": "we want to know who basically it is.",
+      "after": "we want to know who [[basically]] it is.",
+      "pass": 1
+    }
+  ],
+  "u1253": [
+    {
+      "before": "Start with a Jessic with question",
+      "after": "Start with a [[Jessic]] question",
+      "pass": 1
+    },
+    {
+      "before": "Start with a [[Jessic]] question",
+      "after": "Start with a Jessic question",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u1255": [
+    {
+      "before": "what about where a cut is home is in the Fay Wild",
+      "after": "what about where Agata's home is in the Fay Wild",
+      "pass": 1
+    },
+    {
+      "before": "what about where Agata's home is in the Fay Wild",
+      "after": "what about where Agata's home is in the Feywild",
+      "pass": 1
+    }
+  ],
+  "u1256": [
+    {
+      "before": "met a game. I was thinking that, too. I don't. I don't know if they would necessarily know.",
+      "after": "Metagame. I was thinking that, too. I don't. I don't know if they would necessarily know.",
+      "pass": 1
+    }
+  ],
+  "u1260": [
+    {
+      "before": "who is? Tesla has a lot of",
+      "after": "who is? [[Tesla]] has a lot of",
+      "pass": 1
+    }
+  ],
+  "u1262": [
+    {
+      "before": "dasicles.",
+      "after": "[[dasicles.]]",
+      "pass": 1
+    }
+  ],
+  "u1265": [
+    {
+      "before": "there's also a backstop of like I promised. I wouldn't kill them. But not that. Oh, yeah, but but Kalis is fully planning on double dipping. If I mean I I feel like if there's if there's a show of bad faith. We can do this in badly Fair enough. Fair enough.",
+      "after": "there's also a backstop of like I promised. I wouldn't kill them. But not that. Oh, yeah, but but Caulaus is fully planning on double dipping. If I mean I I feel like if there's if there's a show of bad faith. We can do this in Sylvan Fair enough. Fair enough.",
+      "pass": 1
+    }
+  ],
+  "u1272": [
+    {
+      "before": "Who is desecrates?",
+      "after": "Who is [[desecrates]]?",
+      "pass": 1
+    }
+  ],
+  "u1276": [
+    {
+      "before": "who round us.",
+      "after": "who wronged us.",
+      "pass": 1
+    }
+  ],
+  "u1278": [
+    {
+      "before": "i'm pretty sure typhoon is basically here. You should ask.",
+      "after": "i'm pretty sure typhoon is [[basically]] here. You should ask.",
+      "pass": 1
+    },
+    {
+      "before": "i'm pretty sure typhoon is [[basically]] here. You should ask.",
+      "after": "i'm pretty sure Typhina is [[basically]] here. You should ask.",
+      "pass": 1
+    }
+  ],
+  "u1281": [
+    {
+      "before": "Oh, can I do that while this is happening, do we have the appropriate yeah. Call of it telepathy",
+      "after": "Oh, can I do that while this is happening, do we have the appropriate yeah. [[Call of it telepathy]]",
+      "pass": 1
+    },
+    {
+      "before": "Oh, can I do that while this is happening, do we have the appropriate yeah. [[Call of it telepathy]]",
+      "after": "Oh, can I do that while this is happening, do we have the appropriate yeah. all have telepathy",
+      "pass": 2
+    }
+  ],
+  "u1284": [
+    {
+      "before": "as this. Hugh, their actor. Are you?",
+      "after": "as this. [[Hugh, their actor. Are you?]]",
+      "pass": 1
+    },
+    {
+      "before": "as this. [[Hugh, their actor. Are you?]]",
+      "after": "Is this who they're after? Are you?",
+      "pass": 2
+    }
+  ],
+  "u1287": [
+    {
+      "before": "because you don't have any. I mean, I guess you can check to people.",
+      "after": "because you don't have any. I mean, I guess you can chat to people.",
+      "pass": 1
+    }
+  ],
+  "u1296": [
+    {
+      "before": "who pursued this tax.",
+      "after": "who pursued this task.",
+      "pass": 1
+    }
+  ],
+  "u1297": [
+    {
+      "before": "and it's going to be a gata, probably.",
+      "after": "and it's going to be a Agata, probably.",
+      "pass": 1
+    }
+  ],
+  "u1298": [
+    {
+      "before": "who set the defined test at least",
+      "after": "who set the [[defined test]] at least",
+      "pass": 1
+    },
+    {
+      "before": "who set the [[defined test]] at least",
+      "after": "who set the defined test at least",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u1304": [
+    {
+      "before": "Ask what classically, what wrongs the basketballs do?",
+      "after": "Ask telepathically, what wrongs did [[the basketballs]] do?",
+      "pass": 1
+    }
+  ],
+  "u1306": [
+    {
+      "before": "I think Webey is going to ask instead, what will for you from this cursed harpy form",
+      "after": "I think Wellby is going to ask instead, what will free you from this cursed harpy form",
+      "pass": 1
+    }
+  ],
+  "u1307": [
+    {
+      "before": "I will free us.",
+      "after": "What will free us.",
+      "pass": 1
+    }
+  ],
+  "u1310": [
+    {
+      "before": "the river of time, could have turned back the curse.",
+      "after": "the River of Time, could have turned back the curse.",
+      "pass": 1
+    }
+  ],
+  "u1319": [
+    {
+      "before": "Bod Spinner was the queen of this realm",
+      "after": "Cloudspinner was the queen of this realm",
+      "pass": 1
+    }
+  ],
+  "u1321": [
+    {
+      "before": "Wasn't Tim Fan of the Queen. Of this.",
+      "after": "Wasn't Typhina the queen of this?",
+      "pass": 1
+    }
+  ],
+  "u1323": [
+    {
+      "before": "one of the Cloud Spinners",
+      "after": "one of the Cloudspinner's",
+      "pass": 1
+    }
+  ],
+  "u1327": [
+    {
+      "before": "for you. The Cloud Spinner. That's",
+      "after": "Free. The Cloud Spinner. That's",
+      "pass": 1
+    },
+    {
+      "before": "Free. The Cloud Spinner. That's",
+      "after": "Free. The Cloudspinner. That's",
+      "pass": 1
+    }
+  ],
+  "u1328": [
+    {
+      "before": "It's all task.",
+      "after": "It's a tall task.",
+      "pass": 1
+    }
+  ],
+  "u1333": [
+    {
+      "before": "well Trask in a herpan. Where?",
+      "after": "[[well Trask in a herpan. Where?]]",
+      "pass": 1
+    },
+    {
+      "before": "[[well Trask in a herpan. Where?]]",
+      "after": "well Trask in a herpan. Where?",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u1336": [
+    {
+      "before": "Steve. The Harvey begins to.",
+      "after": "The harpy begins to.",
+      "pass": 1
+    }
+  ],
+  "u1337": [
+    {
+      "before": "Why often",
+      "after": "fly off and",
+      "pass": 1
+    }
+  ],
+  "u1339": [
+    {
+      "before": "I will take my leaves.",
+      "after": "I will take my leave.",
+      "pass": 1
+    }
+  ],
+  "u1346": [
+    {
+      "before": "Well, me, I know",
+      "after": "Wellby, I know",
+      "pass": 1
+    }
+  ],
+  "u1354": [
+    {
+      "before": "My sailors clothes are replaced by the Kengu leather armor",
+      "after": "My sailors clothes are replaced by the Kenku leather armor",
+      "pass": 1
+    }
+  ],
+  "u1355": [
+    {
+      "before": "that we found in the dragon sport.",
+      "after": "that we found in the dragon's hoard.",
+      "pass": 1
+    }
+  ],
+  "u1357": [
+    {
+      "before": "that this was actually broken. I ran into some kencoop.",
+      "after": "that this was actually broken. I ran into some Kenku.",
+      "pass": 1
+    }
+  ],
+  "u1364": [
+    {
+      "before": "giant tengu bird wings",
+      "after": "giant Kenku bird wings",
+      "pass": 1
+    }
+  ],
+  "u1365": [
+    {
+      "before": "the burglaries.",
+      "after": "The bird wings.",
+      "pass": 1
+    }
+  ],
+  "u1375": [
+    {
+      "before": "many things in the thing around here or not.",
+      "after": "[[many things in the thing around here or not.]]",
+      "pass": 1
+    },
+    {
+      "before": "[[many things in the thing around here or not.]]",
+      "after": "many things in the thing around here or not.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u1380": [
+    {
+      "before": "So Where is this growth",
+      "after": "So Where is this grove",
+      "pass": 1
+    }
+  ],
+  "u1384": [
+    {
+      "before": "you know you're right. You add some enemies here",
+      "after": "you know you're right. You had some enemies here",
+      "pass": 1
+    }
+  ],
+  "u1386": [
+    {
+      "before": "and they're able to send them on.",
+      "after": "and they're able to send them off.",
+      "pass": 1
+    }
+  ],
+  "u1388": [
+    {
+      "before": "really, when we do the harpies. Yeah, they are the ones we like knocked out. Yeah, what do you do? Just leave them tied up with them. I think we should",
+      "after": "really, what do we do with the harpies. Yeah, they are the ones we like knocked out. Yeah, what do you do? Just leave them tied up with them. I think we should",
+      "pass": 1
+    }
+  ],
+  "u1394": [
+    {
+      "before": "That just feels cheesy for some reason from a matter perspective. But",
+      "after": "That just feels cheesy for some reason from a meta perspective. But",
+      "pass": 1
+    }
+  ],
+  "u1403": [
+    {
+      "before": "about the data",
+      "after": "about the Agata",
+      "pass": 1
+    }
+  ],
+  "u1416": [
+    {
+      "before": "But with the clouds can are gone. Perhaps there is no way that such",
+      "after": "But with the Cloudspinner gone. Perhaps there is no way that such",
+      "pass": 1
+    }
+  ],
+  "u1417": [
+    {
+      "before": "yeah promises could be capped.",
+      "after": "yeah promises could be kept.",
+      "pass": 1
+    }
+  ],
+  "u1421": [
+    {
+      "before": "Why would they be asked after revenge.",
+      "after": "Why would they be after revenge.",
+      "pass": 1
+    }
+  ],
+  "u1434": [
+    {
+      "before": "I have not been in this land for nearly wet long.",
+      "after": "I have not been in this land for nearly that long.",
+      "pass": 1
+    }
+  ],
+  "u1437": [
+    {
+      "before": "based Agata.",
+      "after": "faced Agata.",
+      "pass": 1
+    }
+  ],
+  "u1438": [
+    {
+      "before": "and that which they see prevent more than that",
+      "after": "[[and that which they see prevent more than that]]",
+      "pass": 1
+    }
+  ],
+  "u1441": [
+    {
+      "before": "I didn't",
+      "after": "[[I didn't]]",
+      "pass": 1
+    },
+    {
+      "before": "[[I didn't]]",
+      "after": "They did",
+      "pass": 2
+    }
+  ],
+  "u1443": [
+    {
+      "before": "make their way into love",
+      "after": "make their way into the",
+      "pass": 1
+    }
+  ],
+  "u1460": [
+    {
+      "before": "like off they not break their word if given",
+      "after": "like all fey, not break their word if given",
+      "pass": 1
+    }
+  ],
+  "u1468": [
+    {
+      "before": "let's continue terms of your grade.",
+      "after": "let's continue [[terms of your grade]].",
+      "pass": 1
+    },
+    {
+      "before": "let's continue [[terms of your grade]].",
+      "after": "let's continue towards your grove.",
+      "pass": 2
+    }
+  ],
+  "u1482": [
+    {
+      "before": "you should be able to see the grow from the top of one of those pillars",
+      "after": "you should be able to see the grove from the top of one of those pillars",
+      "pass": 1
+    }
+  ],
+  "u1486": [
+    {
+      "before": "I mean. You see, there's more of the extraction in the horizon. You probably have.",
+      "after": "I mean. You see, there's more of the stretching on the horizon. You probably have.",
+      "pass": 1
+    },
+    {
+      "before": "I mean. You see, there's more of the stretching on the horizon. You probably have.",
+      "after": "I mean. You see, there's more of them stretching on the horizon. You probably have.",
+      "pass": 2
+    }
+  ],
+  "u1497": [
+    {
+      "before": "for those of you who have just gotten to the fay while that takes them. Getting used to that",
+      "after": "for those of you who have just gotten to the Feywild that takes some Getting used to that",
+      "pass": 1
+    }
+  ],
+  "u1499": [
+    {
+      "before": "It's been sunset since you arrived, and it's especially for well-be. This is like your first 8 h in a pretty while then",
+      "after": "It's been sunset since you arrived, and it's especially for Wellby. This is like your first 8 h in a Feywild then",
+      "pass": 1
+    }
+  ],
+  "u1502": [
+    {
+      "before": "rubber and dollar as you get",
+      "after": "drabber and duller as you get",
+      "pass": 1
+    }
+  ],
+  "u1510": [
+    {
+      "before": "you know, amber waves of grain that needs to be",
+      "after": "you know, amber waves of grain that used to be",
+      "pass": 1
+    }
+  ],
+  "u1511": [
+    {
+      "before": "across these these planes. And now everything is sort of",
+      "after": "across these these plains. And now everything is sort of",
+      "pass": 1
+    }
+  ],
+  "u1513": [
+    {
+      "before": "almost sickly, yellowish green color. The stone is all pale, the light is weak, even though it's some sudden. It seems to be getting.",
+      "after": "almost sickly, yellowish green color. The stone is all pale, the light is weak, even though it's sunset. It seems to be getting.",
+      "pass": 1
+    }
+  ],
+  "u1514": [
+    {
+      "before": "if anything, a little bit weaker, as you perceive.",
+      "after": "if anything, a little bit weaker, as you proceed.",
+      "pass": 1
+    }
+  ],
+  "u1523": [
+    {
+      "before": "shall",
+      "after": "shell",
+      "pass": 1
+    }
+  ],
+  "u1525": [
+    {
+      "before": "But now most of the trees have fallen and rotted, and like even stretching down into the dry river banquet reminds you a little bit of the dry river outside of Carson. Actually, it's like that sort of",
+      "after": "But now most of the trees have fallen and rotted, and like even stretching down into the dry riverbank. It reminds you a little bit of the dry river outside of Kharsan. Actually, it's like that sort of",
+      "pass": 1
+    }
+  ],
+  "u1529": [
+    {
+      "before": "Castle kind of look at Kenzo.",
+      "after": "Caulaus will kind of look at Kenzo.",
+      "pass": 1
+    }
+  ],
+  "u1534": [
+    {
+      "before": "I'm going to give this thing a try. Does the ravens will still have charges, or if you, Jesus, whatever you want.",
+      "after": "I'm going to give this thing a try. Does the raven's whistle have charges, or if you, used it, whatever you want.",
+      "pass": 1
+    }
+  ],
+  "u1535": [
+    {
+      "before": "3 charges. Yeah. 3 turret charges",
+      "after": "3 charges. Yeah. 3 charges",
+      "pass": 1
+    }
+  ],
+  "u1539": [
+    {
+      "before": "Tens of like glances get callous classes that i'll be glance at. Call us",
+      "after": "Kenzo, like, glances at Caulaus, glances at Wellby, glances at Caulaus",
+      "pass": 1
+    }
+  ],
+  "u1544": [
+    {
+      "before": "it's easy to run to the top, Kenza, and at the top you can see there's",
+      "after": "it's easy to run to the top, Kenzo, and at the top you can see there's",
+      "pass": 1
+    }
+  ],
+  "u1554": [
+    {
+      "before": "annual",
+      "after": "and you know",
+      "pass": 1
+    }
+  ],
+  "u1562": [
+    {
+      "before": "relatively tall. But you can. You can see the sort of spreading ranches from up here of this huge tree that's in the center from this grove. Not none of them are very tall. These are like thick, like oaks, like",
+      "after": "relatively tall. But you can. You can see the sort of spreading branches from up here of this huge tree that's in the center from this grove. Not none of them are very tall. These are like thick, like oaks, like",
+      "pass": 1
+    }
+  ],
+  "u1564": [
+    {
+      "before": "But there's nothing like it's nothing at all like the god trees of the Jenkai or something, and these aren't like huge trees that stretch up to the sky.",
+      "after": "But there's nothing like it's nothing at all like the god trees of the Deno'qai or something, and these aren't like huge trees that stretch up to the sky.",
+      "pass": 1
+    }
+  ],
+  "u1569": [
+    {
+      "before": "Do I see a side fast?",
+      "after": "Do I see a side quest?",
+      "pass": 1
+    }
+  ],
+  "u1572": [
+    {
+      "before": "brotto of that nymph.",
+      "after": "grotto of that nymph.",
+      "pass": 1
+    }
+  ],
+  "u1574": [
+    {
+      "before": "melody, Melissa, if you",
+      "after": "Melusine, if you",
+      "pass": 1
+    }
+  ],
+  "u1575": [
+    {
+      "before": "I mean you can see the grove, so whether you decide to go to the Nym for noggles entirely up to you.",
+      "after": "I mean you can see the grove, so whether you decide to go to the nymph or not is entirely up to you.",
+      "pass": 1
+    }
+  ],
+  "u1577": [
+    {
+      "before": "that's clearly spawned aside, was one. I thought the minth was on the main quest.",
+      "after": "that's clearly spawned a side quest. I thought the nymph was on the main quest.",
+      "pass": 1
+    }
+  ],
+  "u1578": [
+    {
+      "before": "But typhoon tafina like recommended like",
+      "after": "But Typhina, Typhina like recommended like",
+      "pass": 1
+    }
+  ],
+  "u1580": [
+    {
+      "before": "but we just found the growth",
+      "after": "but we just found the grove",
+      "pass": 1
+    }
+  ],
+  "u1583": [
+    {
+      "before": "gracefully it runs down the the side of actually just jumps off the the engine just, and she gently floats down to the bottom.",
+      "after": "gracefully it runs down the the side of actually just jumps off the the edge and just, and he gently floats down to the bottom.",
+      "pass": 1
+    }
+  ],
+  "u1588": [
+    {
+      "before": "Is that. Would that sound good to type in as well?",
+      "after": "Is that. Would that sound good to Typhina as well?",
+      "pass": 1
+    }
+  ],
+  "u1590": [
+    {
+      "before": "head to the growth or the the",
+      "after": "head to the grove or the the",
+      "pass": 1
+    }
+  ],
+  "u1591": [
+    {
+      "before": "that will for yes.",
+      "after": "[[that will for yes.]]",
+      "pass": 1
+    },
+    {
+      "before": "[[that will for yes.]]",
+      "after": "that will for yes.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u1595": [
+    {
+      "before": "the sort of forest of mushrooms and slime molds and things like that. You sort of start to the edge of that to approach the",
+      "after": "the sort of forest of mushrooms and slime molds and things like that. You sort of skirt the edge of that to approach the",
+      "pass": 1
+    }
+  ],
+  "u1606": [
+    {
+      "before": "sell down at, or sail up at",
+      "after": "sail down it, or sail up it",
+      "pass": 1
+    }
+  ],
+  "u1616": [
+    {
+      "before": "where there is a little pool of water gathered, and in that stand of jed trees.",
+      "after": "where there is a little pool of water gathered, and in that stand of dead trees.",
+      "pass": 1
+    }
+  ],
+  "u1620": [
+    {
+      "before": "you know the occasional sort of sound of like a creek or a You know the branch is moving, or something no real sound of animals or",
+      "after": "you know the occasional sort of sound of like a creak or a You know the branch is moving, or something no real sound of animals or",
+      "pass": 1
+    }
+  ],
+  "u1621": [
+    {
+      "before": "to to me, as as we cross. The driver we read: first.",
+      "after": "Tim, as as we cross. The dry riverbed: first.",
+      "pass": 1
+    }
+  ],
+  "u1625": [
+    {
+      "before": "since ore doesn't really tell me about water flow. What will tell me about any other precious metals or stones?",
+      "after": "Sense Ore doesn't really tell me about water flow. What will tell me about any other precious metals or stones?",
+      "pass": 1
+    },
+    {
+      "before": "Sense Ore doesn't really tell me about water flow. What will tell me about any other precious metals or stones?",
+      "after": "Sense Ore doesn't really tell me about water flow. but will tell me about any other precious metals or stones?",
+      "pass": 2
+    }
+  ],
+  "u1631": [
+    {
+      "before": "but secret is too curious. I forgot about that in the Crystal mine.",
+      "after": "but Seeker is too curious. I forgot about that in the Crystal mine.",
+      "pass": 1
+    }
+  ],
+  "u1643": [
+    {
+      "before": "this is sand. This is like fetamine flown downstream, and then your senses are also telling you. No, this is like",
+      "after": "this is sand. This is like sediment flown downstream, and then your senses are also telling you. No, this is like",
+      "pass": 1
+    },
+    {
+      "before": "this is sand. This is like sediment flown downstream, and then your senses are also telling you. No, this is like",
+      "after": "this is sand. This is like sediment flowing downstream, and then your senses are also telling you. No, this is like",
+      "pass": 2
+    }
+  ],
+  "u1644": [
+    {
+      "before": "crystal. This is like courts from a mountains.",
+      "after": "crystal. This is like quartz from a mountains.",
+      "pass": 1
+    },
+    {
+      "before": "crystal. This is like quartz from a mountains.",
+      "after": "crystal. This is like quartz from a mountain.",
+      "pass": 2
+    }
+  ],
+  "u1648": [
+    {
+      "before": "since, or is being confused by the sort of distorted nature of time. And your",
+      "after": "Sense Ore is being confused by the sort of distorted nature of time. And your",
+      "pass": 1
+    }
+  ],
+  "u1273": [
+    {
+      "before": "An ancient fay",
+      "after": "An ancient fey",
+      "pass": 1
+    }
+  ],
+  "u1277": [
+    {
+      "before": "So we still don't know if Typhoon is specifically or not.",
+      "after": "So we still don't know if Typhina is specifically or not.",
+      "pass": 1
+    },
+    {
+      "before": "So we still don't know if Typhina is specifically or not.",
+      "after": "So we still don't know if Typhina is [[specifically]] or not.",
+      "pass": 2
+    }
+  ],
+  "u1312": [
+    {
+      "before": "I know not. Perhaps the Cloud Spinner.",
+      "after": "I know not. Perhaps the Cloudspinner.",
+      "pass": 1
+    }
+  ],
+  "u1316": [
+    {
+      "before": "Who is the Cloud Spinner.",
+      "after": "Who is the Cloudspinner.",
+      "pass": 1
+    }
+  ],
+  "u1334": [
+    {
+      "before": "Where is the Cloud Spinner?",
+      "after": "Where is the Cloudspinner?",
+      "pass": 1
+    }
+  ],
+  "u1400": [
+    {
+      "before": "Alright, Also, i'll say the typhoon.",
+      "after": "Alright, Also, i'll say the Typhina.",
+      "pass": 1
+    },
+    {
+      "before": "Alright, Also, i'll say the Typhina.",
+      "after": "Alright, Also, i'll say to Typhina.",
+      "pass": 2
+    }
+  ],
+  "u1408": [
+    {
+      "before": "are they correct that the Cloud Spinner is the only one that can",
+      "after": "are they correct that the Cloudspinner is the only one that can",
+      "pass": 1
+    }
+  ],
+  "u1582": [
+    {
+      "before": "you guys. But the nymph might have be able to tell us more about what? The yeah, let's go to the nymph, anyway. Yeah. So he kenzo yells down what he sees, explains what he's got, and then runs down the",
+      "after": "you guys. But the nymph might have be able to tell us more about what? The yeah, let's go to the nymph, anyway. Yeah. So he Kenzo yells down what he sees, explains what he's got, and then runs down the",
+      "pass": 1
+    }
+  ],
+  "u1627": [
+    {
+      "before": "So i'll pause as we cross briefly today in the fey wild.",
+      "after": "So i'll pause as we cross briefly today in the Feywild.",
+      "pass": 1
+    },
+    {
+      "before": "So i'll pause as we cross briefly today in the Feywild.",
+      "after": "So i'll pause as we cross briefly [[today in the Feywild]].",
+      "pass": 2
+    },
+    {
+      "before": "So i'll pause as we cross briefly [[today in the Feywild]].",
+      "after": "So i'll pause as we cross briefly today in the Feywild.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u1663": [
+    {
+      "before": "you have experienced sort of weird time gaps in the Phala like when you first arrived in the Chancellor's Court.",
+      "after": "you have experienced sort of weird time gaps in the Feywild like when you first arrived in the Changeling's Court.",
+      "pass": 1
+    }
+  ],
+  "u1672": [
+    {
+      "before": "unsteady flow of time in this very wild before.",
+      "after": "unsteady flow of time in this Feywild before.",
+      "pass": 1
+    }
+  ],
+  "u1690": [
+    {
+      "before": "tag out right it would. It takes",
+      "after": "Taelgar right it would. It takes",
+      "pass": 1
+    }
+  ],
+  "u1691": [
+    {
+      "before": "time for the to share it right.",
+      "after": "time for [[the to share it]] right.",
+      "pass": 1
+    },
+    {
+      "before": "time for [[the to share it]] right.",
+      "after": "time for it to show it right.",
+      "pass": 2
+    }
+  ],
+  "u1692": [
+    {
+      "before": "It doesn't definitely doesn't seem to be set up.",
+      "after": "It doesn't definitely doesn't seem to be sped up.",
+      "pass": 1
+    }
+  ],
+  "u1696": [
+    {
+      "before": "Some will not. Any time has passed, but it's hard to say exactly how much.",
+      "after": "[[Some will not. Any time has passed]], but it's hard to say exactly how much.",
+      "pass": 1
+    },
+    {
+      "before": "[[Some will not. Any time has passed]], but it's hard to say exactly how much.",
+      "after": "Some will not. Any time has passed, but it's hard to say exactly how much.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u1699": [
+    {
+      "before": "then, what's the Flora on a situation here in the grotto.",
+      "after": "then, what's the flora and fauna situation here in the grotto.",
+      "pass": 1
+    }
+  ],
+  "u1704": [
+    {
+      "before": "there are there are. There is also like some MOS and some",
+      "after": "there are there are. There is also like some moss and some",
+      "pass": 1
+    }
+  ],
+  "u1713": [
+    {
+      "before": "slightly moving the waters below, but it's quite murky, so it's difficult to see much, and sorry I met again. We're here again, because in the Grotto, because",
+      "after": "slightly moving the waters below, but it's quite murky, so it's difficult to see much, and sorry I metagame. We're here again, because in the Grotto, because",
+      "pass": 1
+    }
+  ],
+  "u1714": [
+    {
+      "before": "there's a name.",
+      "after": "there's a nymph.",
+      "pass": 1
+    }
+  ],
+  "u1715": [
+    {
+      "before": "the type thing in the chair.",
+      "after": "that Typhina [[in the chair]].",
+      "pass": 1
+    },
+    {
+      "before": "that Typhina [[in the chair]].",
+      "after": "that Typhina in the chair.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u1717": [
+    {
+      "before": "Is that nymph? The type intervention.",
+      "after": "Is that the nymph that Typhina mentioned?",
+      "pass": 1
+    }
+  ],
+  "u1719": [
+    {
+      "before": "But the nymph that typed in the site could tell you",
+      "after": "But the nymph that Typhina said could tell you",
+      "pass": 1
+    }
+  ],
+  "u1720": [
+    {
+      "before": "how to find the grow.",
+      "after": "how to find the grove.",
+      "pass": 1
+    }
+  ],
+  "u1721": [
+    {
+      "before": "Okay, but I had. But we know how to get to the growth or not",
+      "after": "Okay, but I had. But we know how to get to the grove or not",
+      "pass": 1
+    }
+  ],
+  "u1723": [
+    {
+      "before": "We thank the name for my",
+      "after": "We think the nymph might",
+      "pass": 1
+    }
+  ],
+  "u1726": [
+    {
+      "before": "Any sign of an in.",
+      "after": "Any sign of a nymph.",
+      "pass": 1
+    }
+  ],
+  "u1735": [
+    {
+      "before": "you want to type in you.",
+      "after": "you want to Typhina.",
+      "pass": 1
+    },
+    {
+      "before": "you want to Typhina.",
+      "after": "Do you want to, Typhina.",
+      "pass": 2
+    }
+  ],
+  "u1739": [
+    {
+      "before": "Melissa? A.",
+      "after": "Melusine?",
+      "pass": 1
+    }
+  ],
+  "u1743": [
+    {
+      "before": "all. Poor",
+      "after": "pool.",
+      "pass": 1
+    }
+  ],
+  "u1749": [
+    {
+      "before": "How are your friends of Dasso Queens?",
+      "after": "Call out you're friends of [[Dasso Queens]]?",
+      "pass": 1
+    }
+  ],
+  "u1753": [
+    {
+      "before": "Alice, Well.",
+      "after": "Caulaus? Well.",
+      "pass": 1
+    }
+  ],
+  "u1758": [
+    {
+      "before": "it's like opening a fast, and it gets louder and louder.",
+      "after": "it's like opening a faucet, and it gets louder and louder.",
+      "pass": 1
+    }
+  ],
+  "u1762": [
+    {
+      "before": "the glow of this sort of guotto area.",
+      "after": "the glow of this sort of grotto area.",
+      "pass": 1
+    }
+  ],
+  "u1765": [
+    {
+      "before": "6 bit tall.",
+      "after": "6 feet tall.",
+      "pass": 1
+    }
+  ],
+  "u1768": [
+    {
+      "before": "deep blue gowns like voluminous cloth tons like",
+      "after": "deep blue gowns like voluminous caftans like",
+      "pass": 1
+    }
+  ],
+  "u1770": [
+    {
+      "before": "for entire body",
+      "after": "her entire body",
+      "pass": 1
+    }
+  ],
+  "u1771": [
+    {
+      "before": "in all sorts of colors of blues. but all sort of faded like it's been through the wash hundreds of times in the car has been washed out.",
+      "after": "in all sorts of colors of blues. but all sort of faded like it's been through the wash hundreds of times in the color has been washed out.",
+      "pass": 1
+    },
+    {
+      "before": "in all sorts of colors of blues. but all sort of faded like it's been through the wash hundreds of times in the color has been washed out.",
+      "after": "in all sorts of colors of blues. but all sort of faded like it's been through the wash hundreds of times and the color has been washed out.",
+      "pass": 2
+    }
+  ],
+  "u1776": [
+    {
+      "before": "What are kind of",
+      "after": "Water kind of",
+      "pass": 1
+    }
+  ],
+  "u1777": [
+    {
+      "before": "cools around her feet as she walks",
+      "after": "pools around her feet as she walks",
+      "pass": 1
+    }
+  ],
+  "u1781": [
+    {
+      "before": "Carlos apportino.",
+      "after": "Caulaus [[apportino]].",
+      "pass": 1
+    },
+    {
+      "before": "Caulaus [[apportino]].",
+      "after": "Caulaus [[Apportino]].",
+      "pass": 2
+    }
+  ],
+  "u1784": [
+    {
+      "before": "I I keep want to say democles, but it's not demographically. What is it that's it.",
+      "after": "I I keep want to say Damocles, but it's not Damocles. What is it that's it.",
+      "pass": 1
+    }
+  ],
+  "u1785": [
+    {
+      "before": "Dasicles.",
+      "after": "[[Dasicles.]]",
+      "pass": 1
+    }
+  ],
+  "u1789": [
+    {
+      "before": "friends of Dazakles, and",
+      "after": "friends of [[Dazakles]], and",
+      "pass": 1
+    }
+  ],
+  "u1800": [
+    {
+      "before": "the Hartley growls",
+      "after": "the Heartwood Grove",
+      "pass": 1
+    }
+  ],
+  "u1807": [
+    {
+      "before": "Kows kind of glances at Seeker",
+      "after": "Caulaus kind of glances at Seeker",
+      "pass": 1
+    }
+  ],
+  "u1808": [
+    {
+      "before": "He got up his hand with the ring on it.",
+      "after": "He holds up his hand with the ring on it.",
+      "pass": 1
+    }
+  ],
+  "u1810": [
+    {
+      "before": "to Phoenix it's a",
+      "after": "Typhina's",
+      "pass": 1
+    }
+  ],
+  "u1812": [
+    {
+      "before": "could show that sort of gestures over towards Seeker.",
+      "after": "Caulaus that sort of gestures over towards Seeker.",
+      "pass": 1
+    },
+    {
+      "before": "Caulaus that sort of gestures over towards Seeker.",
+      "after": "Caulaus sort of gestures over towards Seeker.",
+      "pass": 2
+    }
+  ],
+  "u1814": [
+    {
+      "before": "bring your home.",
+      "after": "bring her home.",
+      "pass": 1
+    }
+  ],
+  "u1816": [
+    {
+      "before": "I always suspected that she was not that.",
+      "after": "I always suspected that she was not dead.",
+      "pass": 1
+    }
+  ],
+  "u1818": [
+    {
+      "before": "Gato?",
+      "after": "Agata?",
+      "pass": 1
+    }
+  ],
+  "u1821": [
+    {
+      "before": "This is the fa that trapped her",
+      "after": "This is the fey that trapped her",
+      "pass": 1
+    }
+  ],
+  "u1824": [
+    {
+      "before": "secret. Does Hypinia know a got to by a different name.",
+      "after": "Seeker, does Typhina know Agata by a different name?",
+      "pass": 1
+    }
+  ],
+  "u1837": [
+    {
+      "before": "True identity is safe",
+      "after": "true identities safe",
+      "pass": 1
+    }
+  ],
+  "u1839": [
+    {
+      "before": "done by any name of this creature.",
+      "after": "[[done by any name of this creature.]]",
+      "pass": 1
+    }
+  ],
+  "u1842": [
+    {
+      "before": "that you only need her as I got to.",
+      "after": "that you only knew her as Agata.",
+      "pass": 1
+    }
+  ],
+  "u1844": [
+    {
+      "before": "How did you track you? In the first place.",
+      "after": "How did she trap you? In the first place.",
+      "pass": 1
+    }
+  ],
+  "u1846": [
+    {
+      "before": "This ring was that you bear now was prepared.",
+      "after": "This ring that you bear now was prepared.",
+      "pass": 1
+    }
+  ],
+  "u1854": [
+    {
+      "before": "and I wore it and tell",
+      "after": "and I wore it until",
+      "pass": 1
+    }
+  ],
+  "u1855": [
+    {
+      "before": "I got her",
+      "after": "Agata",
+      "pass": 1
+    }
+  ],
+  "u1858": [
+    {
+      "before": "heartwood, grows",
+      "after": "Heartwood Grove",
+      "pass": 1
+    }
+  ],
+  "u1859": [
+    {
+      "before": "after clouds, been her past or vanished. Whatever happened to her",
+      "after": "after Cloudspinner passed or vanished. Whatever happened to her",
+      "pass": 1
+    }
+  ],
+  "u1861": [
+    {
+      "before": "Ricksters and Leon Cly Fay",
+      "after": "tricksters and the unkind fey",
+      "pass": 1
+    }
+  ],
+  "u1869": [
+    {
+      "before": "round the",
+      "after": "realm the",
+      "pass": 1
+    }
+  ],
+  "u1872": [
+    {
+      "before": "And my father",
+      "after": "And I fought her",
+      "pass": 1
+    }
+  ],
+  "u1890": [
+    {
+      "before": "we killed. I got it.",
+      "after": "we killed. Agata.",
+      "pass": 1
+    }
+  ],
+  "u1891": [
+    {
+      "before": "but we didn't kill. I got it.",
+      "after": "but we didn't kill. Agata.",
+      "pass": 1
+    }
+  ],
+  "u1895": [
+    {
+      "before": "inclusive ways.",
+      "after": "[[inclusive ways]].",
+      "pass": 1
+    },
+    {
+      "before": "[[inclusive ways]].",
+      "after": "conclusive ways.",
+      "pass": 2
+    }
+  ],
+  "u1904": [
+    {
+      "before": "t kettles, and a person that was a hive of wasps on the inside and",
+      "after": "tea kettles, and a person that was a hive of wasps on the inside and",
+      "pass": 1
+    },
+    {
+      "before": "tea kettles, and a person that was a hive of wasps on the inside and",
+      "after": "tea kettles, and a purse that was a hive of wasps on the inside and",
+      "pass": 2
+    }
+  ],
+  "u1906": [
+    {
+      "before": "magical items, and just it helps jump to",
+      "after": "magical items, and just heaps of junk too",
+      "pass": 1
+    }
+  ],
+  "u1910": [
+    {
+      "before": "I have many checks.",
+      "after": "I have many tricks.",
+      "pass": 1
+    },
+    {
+      "before": "I have many tricks.",
+      "after": "Fey have many tricks.",
+      "pass": 2
+    }
+  ],
+  "u1912": [
+    {
+      "before": "prepare eventualities for our own",
+      "after": "prepare for eventualities for our own",
+      "pass": 1
+    }
+  ],
+  "u1921": [
+    {
+      "before": "How do we find a God at home in the day? Well.",
+      "after": "How do we find Agata's home in the Feywild.",
+      "pass": 1
+    }
+  ],
+  "u1929": [
+    {
+      "before": "and it got us home.",
+      "after": "and Agata's home.",
+      "pass": 1
+    },
+    {
+      "before": "and Agata's home.",
+      "after": "in Agata's home.",
+      "pass": 2
+    }
+  ],
+  "u1930": [
+    {
+      "before": "Oh, no, nobody mentioned it. I'm. Here. Why do you ask?",
+      "after": "Oh, no, nobody mentioned a mirror. Why do you ask?",
+      "pass": 1
+    }
+  ],
+  "u1931": [
+    {
+      "before": "Yeah. A mirror of still trying",
+      "after": "Yeah. A mirror of soul trapping",
+      "pass": 1
+    }
+  ],
+  "u1934": [
+    {
+      "before": "so trapping",
+      "after": "soul trapping",
+      "pass": 1
+    }
+  ],
+  "u1942": [
+    {
+      "before": "we did find several fulls.",
+      "after": "we did find several souls.",
+      "pass": 1
+    }
+  ],
+  "u1944": [
+    {
+      "before": "you you found some of the source of of who",
+      "after": "you you found some of the souls of of who",
+      "pass": 1
+    }
+  ],
+  "u1952": [
+    {
+      "before": "i'm goblin mage.",
+      "after": "hobgoblin mage.",
+      "pass": 1
+    }
+  ],
+  "u1953": [
+    {
+      "before": "but she's not I got to.",
+      "after": "but she's not Agata.",
+      "pass": 1
+    }
+  ],
+  "u1954": [
+    {
+      "before": "but i' that totally could have been Sarah.",
+      "after": "but i' that totally could have been Sura.",
+      "pass": 1
+    }
+  ],
+  "u1957": [
+    {
+      "before": "or maybe the the new sura is not the same as the old sera.",
+      "after": "or maybe the the new Sura is not the same as the old Sura.",
+      "pass": 1
+    }
+  ],
+  "u1958": [
+    {
+      "before": "Who is Sarah?",
+      "after": "Who is Sura?",
+      "pass": 1
+    }
+  ],
+  "u1963": [
+    {
+      "before": "But I was the one who mentioned Sarah as my point.",
+      "after": "But I was the one who mentioned Sura as my point.",
+      "pass": 1
+    }
+  ],
+  "u1965": [
+    {
+      "before": "I mean, you can mention Sara.",
+      "after": "I mean, you can mention Sura.",
+      "pass": 1
+    }
+  ],
+  "u1968": [
+    {
+      "before": "If a Gaza were to have",
+      "after": "If Agata were to have",
+      "pass": 1
+    }
+  ],
+  "u1972": [
+    {
+      "before": "There must be some way of knowing that it's still a gata right.",
+      "after": "There must be some way of knowing that it's still Agata right.",
+      "pass": 1
+    }
+  ],
+  "u1974": [
+    {
+      "before": "I wish I knew more about the magic of hacks.",
+      "after": "I wish I knew more about the magic of hags.",
+      "pass": 1
+    }
+  ],
+  "u1975": [
+    {
+      "before": "and we learn more here in the F while",
+      "after": "and we learn more here in the Feywild",
+      "pass": 1
+    },
+    {
+      "before": "and we learn more here in the Feywild",
+      "after": "Can we learn more here in the Feywild",
+      "pass": 2
+    }
+  ],
+  "u1976": [
+    {
+      "before": "got to must",
+      "after": "Agata must",
+      "pass": 1
+    }
+  ],
+  "u1977": [
+    {
+      "before": "how a layer a teacher",
+      "after": "have a lair, a teacher",
+      "pass": 1
+    }
+  ],
+  "u1985": [
+    {
+      "before": "so that abroad can be restored",
+      "after": "so that Amberglow can be restored",
+      "pass": 1
+    }
+  ],
+  "u1986": [
+    {
+      "before": "so that they can all remember what happened, so that they can figure out how I get to I. It does true nature, so that we can figure out who where August is hiding.",
+      "after": "so that they can all remember what happened, so that they can figure out how Agata's true nature, so that we can figure out who where Agata is hiding.",
+      "pass": 1
+    },
+    {
+      "before": "so that they can all remember what happened, so that they can figure out how Agata's true nature, so that we can figure out who where Agata is hiding.",
+      "after": "so that they can all remember what happened, so that they can figure out Agata's true nature, so that we can figure out who where Agata is hiding.",
+      "pass": 2
+    }
+  ],
+  "u1987": [
+    {
+      "before": "no matter what the first step is to grow.",
+      "after": "no matter what the first step is to grove.",
+      "pass": 1
+    },
+    {
+      "before": "no matter what the first step is to grove.",
+      "after": "no matter what the first step is the grove.",
+      "pass": 2
+    }
+  ],
+  "u1991": [
+    {
+      "before": "until we go to the group.",
+      "after": "Shall we go to the grove.",
+      "pass": 1
+    }
+  ],
+  "u1998": [
+    {
+      "before": "well in just in a controlled manner, if you wish, but",
+      "after": "well ingest in a controlled manner, if you wish, but",
+      "pass": 1
+    }
+  ],
+  "u2002": [
+    {
+      "before": "these treaties now, one of the few places here in",
+      "after": "these trees now, one of the few places here in",
+      "pass": 1
+    }
+  ],
+  "u2004": [
+    {
+      "before": "in this realm of ambergl, that there is still life that there is.",
+      "after": "in this realm of Amberglow, that there is still life that there is.",
+      "pass": 1
+    }
+  ],
+  "u2012": [
+    {
+      "before": "or of the forest itself. And you can see this massive",
+      "after": "aura of the forest itself. And you can see this massive",
+      "pass": 1
+    }
+  ],
+  "u2014": [
+    {
+      "before": "the branch of instruction 40 feet",
+      "after": "the branches stretch 40 feet",
+      "pass": 1
+    }
+  ],
+  "u2037": [
+    {
+      "before": "Trapped in the sling? Very little.",
+      "after": "Trapped in the ring? Very little.",
+      "pass": 1
+    }
+  ],
+  "u2041": [
+    {
+      "before": "our primary concern at the moment is to find our way back to last. Light falls",
+      "after": "our primary concern at the moment is to find our way back to Lastlight Falls",
+      "pass": 1
+    }
+  ],
+  "u2044": [
+    {
+      "before": "Can you help us about us?",
+      "after": "Can you help us with that?",
+      "pass": 1
+    }
+  ],
+  "u2047": [
+    {
+      "before": "us to find and rid of rid",
+      "after": "[[us to find and rid of rid]]",
+      "pass": 1
+    },
+    {
+      "before": "[[us to find and rid of rid]]",
+      "after": "help us to find and rid—rid",
+      "pass": 2
+    }
+  ],
+  "u2051": [
+    {
+      "before": "I got his fate.",
+      "after": "Agata's fate.",
+      "pass": 1
+    }
+  ],
+  "u2061": [
+    {
+      "before": "them. As this is going on, or as Eric does this. i'm not going to. i'm not going to speak with plants to communicate with nature yet, but i'm just going to like",
+      "after": "them. As this is going on, or as Eric does this. i'm not going to. i'm not going to speak with plants to Commune with Nature yet, but i'm just going to like",
+      "pass": 1
+    }
+  ],
+  "u2068": [
+    {
+      "before": "you start to here.",
+      "after": "you start to hear.",
+      "pass": 1
+    }
+  ],
+  "u2074": [
+    {
+      "before": "tahini. A hand",
+      "after": "tiny A hand",
+      "pass": 1
+    },
+    {
+      "before": "tiny A hand",
+      "after": "[[tahini.]] A hand",
+      "pass": 2
+    },
+    {
+      "before": "[[tahini.]] A hand",
+      "after": "tahini. A hand",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2077": [
+    {
+      "before": "that any I I need",
+      "after": "[[that any I I need]]",
+      "pass": 1
+    },
+    {
+      "before": "[[that any I I need]]",
+      "after": "that any I I need",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2078": [
+    {
+      "before": "a Gothic emerges.",
+      "after": "Agata emerges.",
+      "pass": 1
+    }
+  ],
+  "u2082": [
+    {
+      "before": "in personalities.",
+      "after": "and personalities.",
+      "pass": 1
+    }
+  ],
+  "u2083": [
+    {
+      "before": "What I told you we always prepare.",
+      "after": "But I told you we always prepare.",
+      "pass": 1
+    }
+  ],
+  "u2085": [
+    {
+      "before": "you. I've learned to got this face.",
+      "after": "you. You've learned Agata's fate.",
+      "pass": 1
+    }
+  ],
+  "u2094": [
+    {
+      "before": "I wellbey does. Didn't hesitate. I lunch.",
+      "after": "I Wellby does. Didn't hesitate. I lunge.",
+      "pass": 1
+    },
+    {
+      "before": "I Wellby does. Didn't hesitate. I lunge.",
+      "after": "I—Wellby doesn't hesitate. I lunge.",
+      "pass": 2
+    }
+  ],
+  "u2096": [
+    {
+      "before": "Okay, that's the role initiative.",
+      "after": "Okay, let's roll initiative.",
+      "pass": 1
+    }
+  ],
+  "u2099": [
+    {
+      "before": "you know. There are so many things there because I I wanted to communicate. I was waiting, Tim for to commute with nature, and also speak with plants, and I was going to talk to the tree",
+      "after": "you know. There are so many things there because I I wanted to Commune. I was waiting, Tim for to Commune with Nature, and also speak with plants, and I was going to talk to the tree",
+      "pass": 1
+    }
+  ],
+  "u2100": [
+    {
+      "before": "when I was like. You know what i'll wait until after Typhine is in the tree to talk with the tree.",
+      "after": "when I was like. You know what i'll wait until after Typhina is in the tree to talk with the tree.",
+      "pass": 1
+    }
+  ],
+  "u1738": [
+    {
+      "before": "Typhoon, how do we get the nymph's attention.",
+      "after": "Typhina, how do we get the nymph's attention.",
+      "pass": 1
+    }
+  ],
+  "u1879": [
+    {
+      "before": "to a place of power in the Fay Wild.",
+      "after": "to a place of power in the Feywild.",
+      "pass": 1
+    }
+  ],
+  "u1980": [
+    {
+      "before": "amberglow.",
+      "after": "Amberglow.",
+      "pass": 1
+    }
+  ],
+  "u1984": [
+    {
+      "before": "free, Free Cloud Spinner.",
+      "after": "free, Free Cloudspinner.",
+      "pass": 1
+    }
+  ],
+  "u2003": [
+    {
+      "before": "the Fay wild up there",
+      "after": "the Feywild up there",
+      "pass": 1
+    },
+    {
+      "before": "the Feywild up there",
+      "after": "the Feywild up—the",
+      "pass": 2
+    }
+  ],
+  "u2020": [
+    {
+      "before": "seeker from Typhina.",
+      "after": "Seeker from Typhina.",
+      "pass": 1
+    }
+  ],
+  "u2106": [
+    {
+      "before": "We I thought this was a we. We were trusting secret. I thought you'd built some relationship with her in the pay. While you were trusting her work. She was like helping us figure out what to do, and",
+      "after": "We I thought this was a we. We were trusting Seeker. I thought you'd built some relationship with her in the Feywild you were trusting her word. She was like helping us figure out what to do, and",
+      "pass": 1
+    }
+  ],
+  "u2109": [
+    {
+      "before": "Calias token. there was one",
+      "after": "Caulaus token. there was one",
+      "pass": 1
+    }
+  ],
+  "u2111": [
+    {
+      "before": "I didn't you didn't have a good hex token.",
+      "after": "I didn't you didn't have a good hag's token.",
+      "pass": 1
+    }
+  ],
+  "u2114": [
+    {
+      "before": "So the heartbeat guys give our allies trying to.",
+      "after": "So the harpy guys were our allies trying to.",
+      "pass": 1
+    }
+  ],
+  "u2118": [
+    {
+      "before": "definitely? That's a please. Oh, yeah.",
+      "after": "definitely? [[That's a please]]. Oh, yeah.",
+      "pass": 1
+    }
+  ],
+  "u2122": [
+    {
+      "before": "well. It just strikes me she knows where we have the fly that answers to her on us",
+      "after": "well. It just strikes me she knows we have the fly that answers to her on us",
+      "pass": 1
+    }
+  ],
+  "u2125": [
+    {
+      "before": "Where is Caius?",
+      "after": "Where is Caulaus?",
+      "pass": 1
+    }
+  ],
+  "u2127": [
+    {
+      "before": "we would have kept Typhinia Aka agata in the ring with us.",
+      "after": "we would have kept Typhina, aka Agata in the ring with us.",
+      "pass": 1
+    }
+  ],
+  "u2138": [
+    {
+      "before": "Robbie is.",
+      "after": "Wellby is.",
+      "pass": 1
+    }
+  ],
+  "u2140": [
+    {
+      "before": "I know you're studying there talking to you. You can get it. I'll give you advantage on initiative.",
+      "after": "I know you're standing there talking to you. You can get it. I'll give you advantage on initiative.",
+      "pass": 1
+    }
+  ],
+  "u2146": [
+    {
+      "before": "I'm on back.",
+      "after": "I'm on Baxter.",
+      "pass": 1
+    }
+  ],
+  "u2148": [
+    {
+      "before": "Kenz, I was like commuting with the tree and shit over here. Probably",
+      "after": "Kenzo was like communing with the tree and shit over here. Probably",
+      "pass": 1
+    }
+  ],
+  "u2151": [
+    {
+      "before": "combat here I got it. Do you have a second",
+      "after": "combat here Agata. Do you have a second",
+      "pass": 1
+    }
+  ],
+  "u2152": [
+    {
+      "before": "token for Callist him?",
+      "after": "token for Caulaus, Tim?",
+      "pass": 1
+    }
+  ],
+  "u2156": [
+    {
+      "before": "Let's not call things chat as if they're not.",
+      "after": "Let's not call things shadows if they're not.",
+      "pass": 1
+    }
+  ],
+  "u2163": [
+    {
+      "before": "I I didn't have a chance to set this all up. So just give me a minute to get Mike's tokens all side of things we we take like a 5 min. Breakfast. Yeah, yeah, let's take a 5 min break.",
+      "after": "I I didn't have a chance to set this all up. So just give me a minute to get Mike's tokens all set up and things we we take like a 5 min. break. Yeah, yeah, let's take a 5 min break.",
+      "pass": 1
+    }
+  ],
+  "u2170": [
+    {
+      "before": "Just f way I, My great sort of wounding hit points lost to this weapons damage can only be regained through rest, not magic.",
+      "after": "Just FYI, My greatsword of wounding hit points lost to this weapon's damage can only be regained through rest, not magic.",
+      "pass": 1
+    }
+  ],
+  "u2182": [
+    {
+      "before": "Was Typhenia always a gota or Was that like like, Did you like like. Add that later.",
+      "after": "Was Typhenia always Agata or Was that like like, Did you like like. Add that later.",
+      "pass": 1
+    },
+    {
+      "before": "Was Typhenia always Agata or Was that like like, Did you like like. Add that later.",
+      "after": "Was Typhina always Agata or Was that like like, Did you like like. Add that later.",
+      "pass": 1
+    }
+  ],
+  "u2183": [
+    {
+      "before": "and it's always been a gata. I've just been waiting for like a year and a half",
+      "after": "and it's always been Agata. I've just been waiting for like a year and a half",
+      "pass": 1
+    }
+  ],
+  "u2184": [
+    {
+      "before": "that must have been so satisfying you totally a 100% goddess.",
+      "after": "that must have been so satisfying you totally a 100% got us.",
+      "pass": 1
+    }
+  ],
+  "u2185": [
+    {
+      "before": "I was afraid when we were doing that text around that you were just going to send. Call us off to do this quest by himself",
+      "after": "I was afraid when we were doing that text around that you were just going to send. Caulaus off to do this quest by himself",
+      "pass": 1
+    }
+  ],
+  "u2187": [
+    {
+      "before": "But I got to a totally beat callous by himself.",
+      "after": "But Agata would totally beat callous by himself.",
+      "pass": 1
+    },
+    {
+      "before": "But Agata would totally beat callous by himself.",
+      "after": "But Agata would totally beat Caulaus by himself.",
+      "pass": 1
+    }
+  ],
+  "u2188": [
+    {
+      "before": "Congress would become a god to servant, and Mike's character could come back as like some evil Npc. Who'd tricked you later.",
+      "after": "Caulaus would become Agata's servant, and Mike's character could come back as like some evil Npc. Who'd tricked you later.",
+      "pass": 1
+    }
+  ],
+  "u2195": [
+    {
+      "before": "in Yodomus's mirror, which you never once did.",
+      "after": "in Eudomes's mirror, which you never once did.",
+      "pass": 1
+    }
+  ],
+  "u2196": [
+    {
+      "before": "because the whole I got this whole story would have been a total lie.",
+      "after": "because the whole Agata's whole story would have been a total lie.",
+      "pass": 1
+    }
+  ],
+  "u2198": [
+    {
+      "before": "Phineas. I was 3.",
+      "after": "[[Phineas. I was 3.]]",
+      "pass": 1
+    },
+    {
+      "before": "[[Phineas. I was 3.]]",
+      "after": "Phineas. I was 3.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2201": [
+    {
+      "before": "like a while ago, but I just got distracted by the new shiny thing we killed the got to once we can kill a got to again.",
+      "after": "like a while ago, but you just got distracted by the new shiny thing we killed Agata once we can kill Agata again.",
+      "pass": 1
+    },
+    {
+      "before": "like a while ago, but you just got distracted by the new shiny thing we killed Agata once we can kill Agata again.",
+      "after": "like a while ago, but I just got distracted by the new shiny thing we killed Agata once we can kill Agata again.",
+      "pass": 2
+    }
+  ],
+  "u2202": [
+    {
+      "before": "We' so many cards in the past year. At the end of it.",
+      "after": "[[We' so many cards in the past year. At the end of it.]]",
+      "pass": 1
+    },
+    {
+      "before": "[[We' so many cards in the past year. At the end of it.]]",
+      "after": "We' so many cards in the past year. At the end of it.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2205": [
+    {
+      "before": "wow! And then, when when well be learned that I got to was still alive. I was like You're totally going to make the connection.",
+      "after": "wow! And then, when when Wellby learned that Agata was still alive. I was like You're totally going to make the connection.",
+      "pass": 1
+    }
+  ],
+  "u2210": [
+    {
+      "before": "Kenzie, you got a role in this? Yeah.",
+      "after": "Kenzo, you got a roll initiative? Yeah.",
+      "pass": 1
+    },
+    {
+      "before": "Kenzo, you got a roll initiative? Yeah.",
+      "after": "Kenzo, you got to roll initiative? Yeah.",
+      "pass": 2
+    }
+  ],
+  "u2217": [
+    {
+      "before": "maybe you're going to have extension very missile to for for to just switch Kenzo, and",
+      "after": "[[maybe you're going to have extension very missile to for for to]] just switch Kenzo, and",
+      "pass": 1
+    },
+    {
+      "before": "[[maybe you're going to have extension very missile to for for to]] just switch Kenzo, and",
+      "after": "maybe you're going to have extension very missile to for for to just switch Kenzo, and",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2218": [
+    {
+      "before": "well be",
+      "after": "Wellby",
+      "pass": 1
+    }
+  ],
+  "u2221": [
+    {
+      "before": "yeah, because there's no reason you both beat Agatha. So",
+      "after": "yeah, because there's no reason you both beat Agata. So",
+      "pass": 1
+    }
+  ],
+  "u2223": [
+    {
+      "before": "I think that so out of the corner of his eye sees well be going for an hour. Okay, so can't I? Actually, we put the jump. It's like, yeah, he he just can cow. That works.",
+      "after": "I think that Kenzo out of the corner of his eye sees Wellby going for her. Okay, so Kenzo? Actually, [[we put the jump]]. It's like, yeah, he he just [[can cow]]. That works.",
+      "pass": 1
+    },
+    {
+      "before": "I think that Kenzo out of the corner of his eye sees Wellby going for her. Okay, so Kenzo? Actually, [[we put the jump]]. It's like, yeah, he he just [[can cow]]. That works.",
+      "after": "I think that Kenzo out of the corner of his eye sees Wellby going for her. Okay, so Kenzo? Actually, we put the jump. It's like, yeah, he he just can cow. That works.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2225": [
+    {
+      "before": "Okay, ken's out. What are you doing?",
+      "after": "Okay, Kenzo. What are you doing?",
+      "pass": 1
+    }
+  ],
+  "u2226": [
+    {
+      "before": "nice soul site.",
+      "after": "I soul-sight.",
+      "pass": 1
+    }
+  ],
+  "u2227": [
+    {
+      "before": "I just want to figure out what the Rica stable, though, is.",
+      "after": "I just want to figure out what the weakest ability, though, is.",
+      "pass": 1
+    }
+  ],
+  "u2233": [
+    {
+      "before": "which one is which one of my attacks is the is there one where the depthsating for",
+      "after": "which one is which one of my attacks is the is there one where the Dex saving throw",
+      "pass": 1
+    }
+  ],
+  "u2239": [
+    {
+      "before": "What's the what's the savings for the sunnings break",
+      "after": "What's the what's the save for the Stunning Strike",
+      "pass": 1
+    }
+  ],
+  "u2242": [
+    {
+      "before": "Okay. So you run up soulsider",
+      "after": "Okay. So you run up soul-sight her",
+      "pass": 1
+    }
+  ],
+  "u2243": [
+    {
+      "before": "an attacker?",
+      "after": "an and attack her?",
+      "pass": 1
+    },
+    {
+      "before": "an and attack her?",
+      "after": "and attack her?",
+      "pass": 2
+    }
+  ],
+  "u2250": [
+    {
+      "before": "and she's got to You've made proposition system.",
+      "after": "and she's got to You've made Constitution save.",
+      "pass": 1
+    },
+    {
+      "before": "and she's got to You've made Constitution save.",
+      "after": "and she's got to to make a Constitution save.",
+      "pass": 2
+    },
+    {
+      "before": "and she's got to to make a Constitution save.",
+      "after": "and she's got to make a Constitution save.",
+      "pass": 2
+    }
+  ],
+  "u2252": [
+    {
+      "before": "you see, as you strike over their staff, she kind of",
+      "after": "you see, as you strike her with your staff, she kind of",
+      "pass": 1
+    }
+  ],
+  "u2253": [
+    {
+      "before": "stagger's back somewhat surprised that you",
+      "after": "staggers back somewhat surprised that you",
+      "pass": 1
+    }
+  ],
+  "u2255": [
+    {
+      "before": "attacker right when she was like thanking you for all the great work that you've done on your back.",
+      "after": "attack her right when she was like thanking you for all the great work that you've done on her behalf.",
+      "pass": 1
+    }
+  ],
+  "u2260": [
+    {
+      "before": "burns a legendary resistance and turns the failure into his success.",
+      "after": "burns a legendary resistance and turns the failure into a success.",
+      "pass": 1
+    }
+  ],
+  "u2261": [
+    {
+      "before": "She's gotten more powerful, too, because she's in her freaking grove. well, I do my second attack. Now. Yeah, anything. It's not a strike again.",
+      "after": "She's gotten more powerful, too, because she's in her freaking grove. well, I do my second attack. Now. Yeah, anything. Stunning Strike again.",
+      "pass": 1
+    },
+    {
+      "before": "She's gotten more powerful, too, because she's in her freaking grove. well, I do my second attack. Now. Yeah, anything. Stunning Strike again.",
+      "after": "She's gotten more powerful, too, because she's in her freaking grove. well, I do my second attack. Now. Yeah, and can you Stunning Strike again.",
+      "pass": 2
+    }
+  ],
+  "u2263": [
+    {
+      "before": "diets.",
+      "after": "That hits.",
+      "pass": 1
+    }
+  ],
+  "u2266": [
+    {
+      "before": "Okay. And another constitution saving so",
+      "after": "Okay. And another constitution saving throw",
+      "pass": 1
+    }
+  ],
+  "u2268": [
+    {
+      "before": "Burns our second legendary resistance. Wow! Well, these times these monsters have 3. Yeah, I was gonna say 3 is the common.",
+      "after": "Burns her second legendary resistance. Wow! Well, these these monsters have 3. Yeah, I was gonna say 3 is the common.",
+      "pass": 1
+    }
+  ],
+  "u2271": [
+    {
+      "before": "all right. Well for you.",
+      "after": "all right. Wellby, you.",
+      "pass": 1
+    }
+  ],
+  "u2273": [
+    {
+      "before": "scooter with",
+      "after": "shoot her with",
+      "pass": 1
+    }
+  ],
+  "u2276": [
+    {
+      "before": "the flaming boats",
+      "after": "the flaming bowstring",
+      "pass": 1
+    }
+  ],
+  "u2281": [
+    {
+      "before": "So Era strikes her.",
+      "after": "So arrow strikes her.",
+      "pass": 1
+    }
+  ],
+  "u2284": [
+    {
+      "before": "shrugs us off a little bit, not looking like",
+      "after": "shrugs this off a little bit, not looking like",
+      "pass": 1
+    }
+  ],
+  "u2285": [
+    {
+      "before": "Duper happy at the moment.",
+      "after": "super happy at the moment.",
+      "pass": 1
+    }
+  ],
+  "u2288": [
+    {
+      "before": "not exactly in surprise, but more. A sort of disappointment lies up into the air.",
+      "after": "not exactly in surprise, but more. A sort of disappointment flies up into the air.",
+      "pass": 1
+    }
+  ],
+  "u2290": [
+    {
+      "before": "She flies up into there about about 30 feet up",
+      "after": "She flies up into the air about about 30 feet up",
+      "pass": 1
+    }
+  ],
+  "u2295": [
+    {
+      "before": "elf and stoneborne with you? Are they dead?",
+      "after": "elf and stoneborn with you? Are they dead?",
+      "pass": 1
+    }
+  ],
+  "u2300": [
+    {
+      "before": "we in the saving. Do we have any way of getting her to the ground?",
+      "after": "Wisdom saving throw. Do we have any way of getting her to the ground?",
+      "pass": 1
+    }
+  ],
+  "u2308": [
+    {
+      "before": "I can't believe we're fighting a got to again right now.",
+      "after": "I can't believe we're fighting Agata again right now.",
+      "pass": 1
+    }
+  ],
+  "u2313": [
+    {
+      "before": "math of yellowish",
+      "after": "mass of yellowish",
+      "pass": 1
+    }
+  ],
+  "u2335": [
+    {
+      "before": "Baxter also needs to make a safe.",
+      "after": "Baxter also needs to make a save.",
+      "pass": 1
+    }
+  ],
+  "u2348": [
+    {
+      "before": "Crawling out of wellbe's.",
+      "after": "Crawling out of Wellby's.",
+      "pass": 1
+    }
+  ],
+  "u2357": [
+    {
+      "before": "hey, Tim, is is she white",
+      "after": "hey, Tim, is is she right",
+      "pass": 1
+    }
+  ],
+  "u2373": [
+    {
+      "before": "does this poison feel like something that's going to hurt us if we stay in it. Yes, definitely. You might want to get out of the poison focus.",
+      "after": "does this poison feel like something that's going to hurt us if we stay in it. Yes, definitely. You might want to get out of the poison fog.",
+      "pass": 1
+    }
+  ],
+  "u2375": [
+    {
+      "before": "not towards the fly. I would run past Cullis.",
+      "after": "not towards the fly. I would run past Caulaus.",
+      "pass": 1
+    }
+  ],
+  "u2380": [
+    {
+      "before": "Okay, cause you're next. Yeah, I know I kept my blue.",
+      "after": "Okay, Caulaus you're next. Yeah, I know [[I kept my blue]].",
+      "pass": 1
+    },
+    {
+      "before": "Okay, Caulaus you're next. Yeah, I know [[I kept my blue]].",
+      "after": "Okay, Caulaus you're next. Yeah, I know I kept my blue.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2384": [
+    {
+      "before": "okay, so so call us is going to run towards the tree.",
+      "after": "okay, so so Caulaus is going to run towards the tree.",
+      "pass": 1
+    }
+  ],
+  "u2391": [
+    {
+      "before": "a few other things are going to happen, though. But let's so. The actor is like right there, about 30 feet off. Yeah.",
+      "after": "a few other things are going to happen, though. But let's so. The echo is like right there, about 30 feet off. Yeah.",
+      "pass": 1
+    }
+  ],
+  "u2395": [
+    {
+      "before": "I assume that heads.",
+      "after": "I assume that hits.",
+      "pass": 1
+    }
+  ],
+  "u2397": [
+    {
+      "before": "That's a T one.",
+      "after": "That's a 21.",
+      "pass": 1
+    }
+  ],
+  "u2399": [
+    {
+      "before": "15 in this?",
+      "after": "15 misses?",
+      "pass": 1
+    }
+  ],
+  "u2403": [
+    {
+      "before": "2D 8 damage, because i'm using a favorite. Oh.",
+      "after": "2D 8 damage, because i'm using a Favored Foe.",
+      "pass": 1
+    }
+  ],
+  "u2405": [
+    {
+      "before": "oh, it so dreadful! Strike one favorite foe, One, this, 2 s rolls shouldn't have happened once per turn. So she takes a extra damage. Okay, I will. Then my echo like, grow. It gets this burst of energy",
+      "after": "oh, it so dreadful! Strike one Favored Foe, One, this, two extra rolls shouldn't have happened once per turn. So she takes a extra damage. Okay, I will. Then my echo like, grow. It gets this burst of energy",
+      "pass": 1
+    }
+  ],
+  "u2408": [
+    {
+      "before": "okay. 17. That hits another 15. Okay, I will then use an accent. Search attack again",
+      "after": "okay. 17. That hits another 15. Okay, I will then use an Action Surge attack again",
+      "pass": 1
+    }
+  ],
+  "u2411": [
+    {
+      "before": "Okay, that is, Can you use your part of inspiration on that 13? Oh, yes.",
+      "after": "Okay, that is, Can you use your Bardic Inspiration on that 13? Oh, yes.",
+      "pass": 1
+    }
+  ],
+  "u2413": [
+    {
+      "before": "as one, the 8 Bartic inspiration.",
+      "after": "That's 1d8 Bardic Inspiration.",
+      "pass": 1
+    }
+  ],
+  "u2418": [
+    {
+      "before": "Fighters are dasty guys. You should get a fighter in your party. Yeah.",
+      "after": "Fighters are nasty guys. You should get a fighter in your party. Yeah.",
+      "pass": 1
+    }
+  ],
+  "u2419": [
+    {
+      "before": "Oh, no. Sorry. 6 attacks 5 Hits all that 6, yes, if downwards are here you could just fly. It wouldn't matter that she was up in the chair.",
+      "after": "Oh, no. Sorry. 6 attacks 5 Hits all that 6, yes, if Delwath are here you could just fly. It wouldn't matter that she was up in the air.",
+      "pass": 1
+    },
+    {
+      "before": "Oh, no. Sorry. 6 attacks 5 Hits all that 6, yes, if Delwath are here you could just fly. It wouldn't matter that she was up in the air.",
+      "after": "Oh, no. Sorry. 6 attacks 5 Hits all that 6, yes, if Delwath were here you could just fly. It wouldn't matter that she was up in the air.",
+      "pass": 2
+    }
+  ],
+  "u2423": [
+    {
+      "before": "So on her next turn she has to roll a d 15 con, save or take, or whatever my first.",
+      "after": "So on her next turn she has to roll a DC 15 Con save or take, or whatever my first.",
+      "pass": 1
+    }
+  ],
+  "u2426": [
+    {
+      "before": "She uses her last raid, and I resistance to maintain concentration.",
+      "after": "She uses her last Legendary Resistance to maintain concentration.",
+      "pass": 1
+    }
+  ],
+  "u2429": [
+    {
+      "before": "Maybe she did. The past 5. Concentration saves. Yeah.",
+      "after": "Maybe she did. passed 5. Concentration saves. Yeah.",
+      "pass": 1
+    },
+    {
+      "before": "Maybe she did. passed 5. Concentration saves. Yeah.",
+      "after": "Maybe she did. Passed 5. Concentration saves. Yeah.",
+      "pass": 2
+    }
+  ],
+  "u2432": [
+    {
+      "before": "She is a gata, she's hopefully bloody by now. Oh, yeah, she is definitely wounded.",
+      "after": "She is Agata, she's hopefully bloody by now. Oh, yeah, she is definitely wounded.",
+      "pass": 1
+    }
+  ],
+  "u2436": [
+    {
+      "before": "as dog do you bite? Well be.",
+      "after": "is going to bite Wellby.",
+      "pass": 1
+    }
+  ],
+  "u2440": [
+    {
+      "before": "Okay. So the first stabbing attack with its proviscus.",
+      "after": "Okay. So the first stabbing attack with its proboscis.",
+      "pass": 1
+    }
+  ],
+  "u2443": [
+    {
+      "before": "Oh, yeah, it doesn't ex just 7 points of thunder damage to that attack. I already.",
+      "after": "Oh, yeah, it does an extra 7 points of thunder damage to that attack. I already.",
+      "pass": 1
+    }
+  ],
+  "u2445": [
+    {
+      "before": "sorry. 22 points of damage from the Pegasus attack a lavoly piercing and 11 necrotic.",
+      "after": "sorry. 22 points of damage from the proboscis attack 11 piercing and 11 necrotic.",
+      "pass": 1
+    }
+  ],
+  "u2449": [
+    {
+      "before": "and i'm as I'm doing it. I say to the like, You don't know this yet, but we're going to be great for it, and lung is at you again.",
+      "after": "and i'm as I'm doing it. I say to the fly, You don't know this yet, but we're going to be great friends, and it lunges at you again.",
+      "pass": 1
+    }
+  ],
+  "u2454": [
+    {
+      "before": "and that will end its turn. Kenza, you're up",
+      "after": "and that will end its turn. Kenzo, you're up",
+      "pass": 1
+    }
+  ],
+  "u2456": [
+    {
+      "before": "It is now a Goth that is now out of saving groves. So yup!",
+      "after": "It is now Agata is now out of saving throws. So yup!",
+      "pass": 1
+    }
+  ],
+  "u2464": [
+    {
+      "before": "a ravens whistle up to her and I a stunning striker with my staff.",
+      "after": "a ravens whistle up to her and I Stunning Strike her with my staff.",
+      "pass": 1
+    },
+    {
+      "before": "a ravens whistle up to her and I Stunning Strike her with my staff.",
+      "after": "I Raven's Whistle up to her and I Stunning Strike her with my staff.",
+      "pass": 2
+    }
+  ],
+  "u2467": [
+    {
+      "before": "That it's",
+      "after": "That hits",
+      "pass": 1
+    }
+  ],
+  "u2468": [
+    {
+      "before": "how many key do you have left? Yeah. 11 damage? I've got 5 Q. Up",
+      "after": "how many ki do you have left? Yeah. 11 damage? I've got 5 ki left",
+      "pass": 1
+    }
+  ],
+  "u2470": [
+    {
+      "before": "She makes that safe",
+      "after": "She makes that save",
+      "pass": 1
+    }
+  ],
+  "u2475": [
+    {
+      "before": "that it's",
+      "after": "that hits",
+      "pass": 1
+    }
+  ],
+  "u2476": [
+    {
+      "before": "13 manage, and that's another stunning strike.",
+      "after": "13 damage, and that's another stunning strike.",
+      "pass": 1
+    }
+  ],
+  "u2484": [
+    {
+      "before": "She's stunned, but she can. Still, she still doesn't Attack her. Okay, all right, then i'll just stack her. I'll attack her, and I don't Frank.",
+      "after": "She's stunned, but she can. Still, she still doesn't Attack her. Okay, all right, then i'll just attack her. I'll attack her, and I don't [[Frank]].",
+      "pass": 1
+    },
+    {
+      "before": "She's stunned, but she can. Still, she still doesn't Attack her. Okay, all right, then i'll just attack her. I'll attack her, and I don't [[Frank]].",
+      "after": "She's stunned, but she can. Still, she still doesn't Attack her. Okay, all right, then i'll just attack her. I'll attack her, and I don't Frank.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2485": [
+    {
+      "before": "Whoa, we we we you could also tire up and give it to the Harpies.",
+      "after": "Whoa, we we we you could also tie her up and give it to the Harpies.",
+      "pass": 1
+    }
+  ],
+  "u2490": [
+    {
+      "before": "So we're all again to see if you",
+      "after": "So roll again to see if you",
+      "pass": 1
+    }
+  ],
+  "u2491": [
+    {
+      "before": "I do not grant that 25 I I did a lot of damage again. I'm: sorry. Okay.",
+      "after": "I do not [[grant that]] 25 I I did a lot of damage again. I'm: sorry. Okay.",
+      "pass": 1
+    },
+    {
+      "before": "I do not [[grant that]] 25 I I did a lot of damage again. I'm: sorry. Okay.",
+      "after": "I do not grant that 25 I I did a lot of damage again. I'm: sorry. Okay.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2492": [
+    {
+      "before": "i'll use one more key for flurry of blows.",
+      "after": "i'll use one more ki for flurry of blows.",
+      "pass": 1
+    }
+  ],
+  "u2494": [
+    {
+      "before": "And I don't. And so I was just bubbling. I got",
+      "after": "And I don't. And so I was just [[bubbling]]. I got",
+      "pass": 1
+    },
+    {
+      "before": "And I don't. And so I was just [[bubbling]]. I got",
+      "after": "And I don't. And so I was just bubbling. I got",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2501": [
+    {
+      "before": "the latter.",
+      "after": "the ladder.",
+      "pass": 1
+    }
+  ],
+  "u2502": [
+    {
+      "before": "Well, it's well-being, and i'll be able to take it down. Oh, nice that's! That's appropriate.",
+      "after": "Well, it's Wellby, and I'll be able to take it down. Oh, nice that's! That's appropriate.",
+      "pass": 1
+    }
+  ],
+  "u2503": [
+    {
+      "before": "well be",
+      "after": "Wellby",
+      "pass": 1
+    }
+  ],
+  "u2504": [
+    {
+      "before": "and then back to her up.",
+      "after": "and then Baxter are up.",
+      "pass": 1
+    }
+  ],
+  "u2510": [
+    {
+      "before": "Is it a strength or dexter's attack?",
+      "after": "Is it a strength or Dex attack?",
+      "pass": 1
+    }
+  ],
+  "u2518": [
+    {
+      "before": "steady AIM and and stab it. I assume i'm in male with it.",
+      "after": "steady AIM and and stab it. I assume i'm in melee with it.",
+      "pass": 1
+    }
+  ],
+  "u2521": [
+    {
+      "before": "the credits for sure",
+      "after": "the crit's for sure",
+      "pass": 1
+    }
+  ],
+  "u2527": [
+    {
+      "before": "Drops to the ground. Not, cannot be used, for I think, a day or 2 I've waited exactly. Which",
+      "after": "Drops to the ground. Not, cannot be used, for I think, a day or 2 I forget exactly. Which",
+      "pass": 1
+    }
+  ],
+  "u2528": [
+    {
+      "before": "was that your credit damage, or did it not roll twice? It's enrolled twice. Yeah, but it doesn't matter because",
+      "after": "was that your crit damage, or did it not roll twice? It's rolled twice. Yeah, but it doesn't matter because",
+      "pass": 1
+    }
+  ],
+  "u2529": [
+    {
+      "before": "it's I was gonna say you should do a lot more damage than that on a credit.",
+      "after": "it's I was gonna say you should do a lot more damage than that on a crit.",
+      "pass": 1
+    }
+  ],
+  "u2530": [
+    {
+      "before": "You needed like 5 more damage to kill it from that toad. So",
+      "after": "You needed like 5 more damage to kill it from that total. So",
+      "pass": 1
+    }
+  ],
+  "u2533": [
+    {
+      "before": "prosecution safe. I'd say, yeah.",
+      "after": "Constitution save. I'd say, yeah.",
+      "pass": 1
+    }
+  ],
+  "u2534": [
+    {
+      "before": "also a DC. 15 con safe for the chronic wire.",
+      "after": "also a DC. 15 con save for the necrotic wound.",
+      "pass": 1
+    }
+  ],
+  "u2537": [
+    {
+      "before": "What? What was my first role? I don't even remember. It was like for 3 extra image. Okay?",
+      "after": "What? What was my first roll? I don't even remember. It was like for 3 extra damage. Okay?",
+      "pass": 1
+    }
+  ],
+  "u2544": [
+    {
+      "before": "secret, pats his pockets and comes up quickly with",
+      "after": "Seeker, pats his pockets and comes up quickly with",
+      "pass": 1
+    }
+  ],
+  "u2546": [
+    {
+      "before": "with a spider trapped inside, that you remember from being one of the things that we booted from her layer.",
+      "after": "with a spider trapped inside, that you remember from being one of the things that we looted from her lair.",
+      "pass": 1
+    }
+  ],
+  "u2549": [
+    {
+      "before": "Are you in a fabric. Are you trapping her into that?",
+      "after": "Are you in a [[fabric]]. Are you trapping her into that?",
+      "pass": 1
+    },
+    {
+      "before": "Are you in a [[fabric]]. Are you trapping her into that?",
+      "after": "Are you in a fabric. Are you trapping her into that?",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2550": [
+    {
+      "before": "Zika's just taking her down?",
+      "after": "Seeker's just taking her down?",
+      "pass": 1
+    }
+  ],
+  "u2105": [
+    {
+      "before": "We were so cautious about Typhoon, and before I would barely even talk to her because it's like oh, she might not be who she says she is. But then we just started to trust her.",
+      "after": "We were so cautious about Typhina, and before I would barely even talk to her because it's like oh, she might not be who she says she is. But then we just started to trust her.",
+      "pass": 1
+    }
+  ],
+  "u2297": [
+    {
+      "before": "seeker.",
+      "after": "Seeker.",
+      "pass": 1
+    }
+  ],
+  "u2345": [
+    {
+      "before": "seeker, we need the ladder.",
+      "after": "Seeker, we need the ladder.",
+      "pass": 1
+    }
+  ],
+  "u2351": [
+    {
+      "before": "seeker you're up.",
+      "after": "Seeker you're up.",
+      "pass": 1
+    }
+  ],
+  "u2414": [
+    {
+      "before": "It's up to seeker to use a reaction.",
+      "after": "It's up to Seeker to use a reaction.",
+      "pass": 1
+    }
+  ],
+  "u2543": [
+    {
+      "before": "seeker. You're up",
+      "after": "Seeker. You're up",
+      "pass": 1
+    }
+  ],
+  "u2551": [
+    {
+      "before": "I'm shooting her with her own amber web. But can I get him out? Don't? We want to like, capture her or something.",
+      "after": "I'm shooting her with her own amber web. But can I get her out? Don't? We want to like, capture her or something.",
+      "pass": 1
+    }
+  ],
+  "u2555": [
+    {
+      "before": "Also, you know, I don't know if i's deck saving through us because she's stunned.",
+      "after": "Also, you know, I don't know if her Dex saving throw because she's stunned.",
+      "pass": 1
+    }
+  ],
+  "u2557": [
+    {
+      "before": "massive, sticky wedding and drafting this massive, sticky web. And now the latter.",
+      "after": "massive, sticky web, entrapped in this massive, sticky web. And now the latter.",
+      "pass": 1
+    },
+    {
+      "before": "massive, sticky web, entrapped in this massive, sticky web. And now the latter.",
+      "after": "massive, sticky web, entrapped in this massive, sticky web. And now the ladder.",
+      "pass": 2
+    }
+  ],
+  "u2559": [
+    {
+      "before": "So it'll just keep her in the shins. I don't know. Yeah, just because we're super advanced adventurers like, how do we just knock her out?",
+      "after": "So it'll just kick her in the shins. I don't know. Yeah, just because we're super advanced adventurers like, how do we just knock her out?",
+      "pass": 1
+    }
+  ],
+  "u2560": [
+    {
+      "before": "I mean you may, lee web any mayly attack you can do non-lethal damage.",
+      "after": "I mean, you—melee, any melee attack you can do nonlethal damage.",
+      "pass": 1
+    }
+  ],
+  "u2561": [
+    {
+      "before": "so the latter Can the water do not weeple damage? Yeah. Yeah, if it's a Mayly attack.",
+      "after": "So the ladder, can the ladder do nonlethal damage? Yeah. Yeah, if it's a melee attack.",
+      "pass": 1
+    }
+  ],
+  "u2563": [
+    {
+      "before": "you could say, don't kill our ladder.",
+      "after": "you could say, don't kill her, ladder.",
+      "pass": 1
+    }
+  ],
+  "u2565": [
+    {
+      "before": "Just kick your in the shins.",
+      "after": "Just kick her in the shins.",
+      "pass": 1
+    }
+  ],
+  "u2567": [
+    {
+      "before": "or the latter to do not legal damage.",
+      "after": "or the latter to do nonlethal damage.",
+      "pass": 1
+    },
+    {
+      "before": "or the latter to do nonlethal damage.",
+      "after": "or the ladder to do nonlethal damage.",
+      "pass": 1
+    }
+  ],
+  "u2568": [
+    {
+      "before": "God! I got that this point all right. This is like a",
+      "after": "God! Agata at this point all right. This is like a",
+      "pass": 1
+    }
+  ],
+  "u2573": [
+    {
+      "before": "you had for sure.",
+      "after": "you hit for sure.",
+      "pass": 1
+    }
+  ],
+  "u2575": [
+    {
+      "before": "kind of swaying on her feet a little bit. actually prone on the ground because she fell covered with the sticky whip. Harvard, with the sticky web restrained.",
+      "after": "kind of swaying on her feet a little bit. actually prone on the ground because she fell covered with the sticky web. Covered, with the sticky web restrained.",
+      "pass": 1
+    }
+  ],
+  "u2576": [
+    {
+      "before": "Call us.",
+      "after": "Caulaus.",
+      "pass": 1
+    }
+  ],
+  "u2586": [
+    {
+      "before": "smacking. Okay, he's on the grad, Cal. It's just kind of",
+      "after": "smacking. Okay, he's on the ground, Caulaus. It's just kind of",
+      "pass": 1
+    }
+  ],
+  "u2597": [
+    {
+      "before": "Oh, no, it's only 30 feet out. My echo can do a 30 food move for free.",
+      "after": "Oh, no, it's only 30 feet out. My echo can do a 30 foot move for free.",
+      "pass": 1
+    }
+  ],
+  "u2604": [
+    {
+      "before": "cloud of like mites and fleas like one that goes taking the death blow. Awesome. That's why I wanted to play it out. But very clever",
+      "after": "cloud of like mites and fleas like on the echo that's taking the death blow. Awesome. That's why I wanted to play it out. But very clever",
+      "pass": 1
+    }
+  ],
+  "u2605": [
+    {
+      "before": "mites and flea is one upper arm, and swarm over the echo like devouring its arm. It vanishes because it only has one hit point.",
+      "after": "mites and fleas run up her arm, and swarm over the echo like devouring its arm. It vanishes because it only has one hit point.",
+      "pass": 1
+    }
+  ],
+  "u2607": [
+    {
+      "before": "Just a spite, I mean. I know she's like conscious, but it's his advantages. I'll just resell it.",
+      "after": "[[Just a spite, I mean. I know she's like conscious, but it's his advantages. I'll just resell it.]]",
+      "pass": 1
+    },
+    {
+      "before": "[[Just a spite, I mean. I know she's like conscious, but it's his advantages. I'll just resell it.]]",
+      "after": "Just a spite, I mean. I know she's like conscious, but it's his advantages. I'll just resell it.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2609": [
+    {
+      "before": "What would it happen to us if one about the day. By taking it you'd have taken a lot of necrotic damage.",
+      "after": "What would have happened to us if [[one about the day. By taking it]] you'd have taken a lot of necrotic damage.",
+      "pass": 1
+    },
+    {
+      "before": "What would have happened to us if [[one about the day. By taking it]] you'd have taken a lot of necrotic damage.",
+      "after": "What would have happened to us if one about the day. By taking it you'd have taken a lot of necrotic damage.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2610": [
+    {
+      "before": "Wow! I it was only because I missed on my first. That was faith",
+      "after": "Wow! I it was only because I missed on my first. That was fate",
+      "pass": 1
+    }
+  ],
+  "u2612": [
+    {
+      "before": "So a god is unconscious on the ground in front of you.",
+      "after": "So Agata is unconscious on the ground in front of you.",
+      "pass": 1
+    }
+  ],
+  "u2615": [
+    {
+      "before": "can also look at all of you and say.",
+      "after": "Kenzo will also look at all of you and say.",
+      "pass": 1
+    }
+  ],
+  "u2619": [
+    {
+      "before": "unarmed strike like studying. Strike is fucking awesome, like great student.",
+      "after": "unarmed strike like Stunning Strike is fucking awesome, like [[great student]].",
+      "pass": 1
+    },
+    {
+      "before": "unarmed strike like Stunning Strike is fucking awesome, like [[great student]].",
+      "after": "unarmed strike like Stunning Strike is fucking awesome, like great student.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2620": [
+    {
+      "before": "but really nice to use that. Yeah, you've gotten a lot stronger since you face the god of the first time. That is true.",
+      "after": "but really nice to use that. Yeah, you've gotten a lot stronger since you faced Agata the first time. That is true.",
+      "pass": 1
+    }
+  ],
+  "u2625": [
+    {
+      "before": "and the couple 5 is really really really good for a positive.",
+      "after": "and the [[couple 5]] is really really really good for a [[positive]].",
+      "pass": 1
+    },
+    {
+      "before": "and the [[couple 5]] is really really really good for a [[positive]].",
+      "after": "and the couple 5 is really really really good for a positive.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2627": [
+    {
+      "before": "Dem. I kenza. You see, Tenzo take his stat and",
+      "after": "Tim, I—Kenzo. You see, Kenzo take his staff and",
+      "pass": 1
+    }
+  ],
+  "u2628": [
+    {
+      "before": "kind of there's in in the the roots, and the the kind of purpose into the roots like, takes his staff and",
+      "after": "kind of there's in in the the roots, and the the kind of puts it into the roots like, takes his staff and",
+      "pass": 1
+    }
+  ],
+  "u2632": [
+    {
+      "before": "can go into the staff.",
+      "after": "kind of go into the staff.",
+      "pass": 1
+    }
+  ],
+  "u2643": [
+    {
+      "before": "onions.",
+      "after": "[[onions.]]",
+      "pass": 1
+    },
+    {
+      "before": "[[onions.]]",
+      "after": "onions.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2646": [
+    {
+      "before": "or what's that? That's a piece.",
+      "after": "or what's that? [[That's a piece.]]",
+      "pass": 1
+    }
+  ],
+  "u2651": [
+    {
+      "before": "stone.",
+      "after": "stole",
+      "pass": 1
+    }
+  ],
+  "u2652": [
+    {
+      "before": "a living wood for me.",
+      "after": "the living wood for me.",
+      "pass": 1
+    },
+    {
+      "before": "the living wood for me.",
+      "after": "the living wood from me.",
+      "pass": 2
+    }
+  ],
+  "u2664": [
+    {
+      "before": "I would come a week of you. Now",
+      "after": "I would ask of you. Now",
+      "pass": 1
+    }
+  ],
+  "u2670": [
+    {
+      "before": "Grove.",
+      "after": "[[Grove.]]",
+      "pass": 1
+    },
+    {
+      "before": "[[Grove.]]",
+      "after": "Grove.",
+      "pass": 2
+    }
+  ],
+  "u2673": [
+    {
+      "before": "It's a new guardian.",
+      "after": "needs a new guardian.",
+      "pass": 1
+    }
+  ],
+  "u2676": [
+    {
+      "before": "attack this place",
+      "after": "protect this place",
+      "pass": 1
+    }
+  ],
+  "u2680": [
+    {
+      "before": "Everybody's looking at callous like here at N. PC.",
+      "after": "Everybody's looking at callous like you're an NPC.",
+      "pass": 1
+    },
+    {
+      "before": "Everybody's looking at callous like you're an NPC.",
+      "after": "Everybody's looking at Caulaus like you're an NPC.",
+      "pass": 1
+    }
+  ],
+  "u2684": [
+    {
+      "before": "typhoid.",
+      "after": "Typhina.",
+      "pass": 1
+    }
+  ],
+  "u2686": [
+    {
+      "before": "with Bella to our dead",
+      "after": "with [[Bella to our]] dead",
+      "pass": 1
+    }
+  ],
+  "u2687": [
+    {
+      "before": "my door.",
+      "after": "[[my door.]]",
+      "pass": 1
+    },
+    {
+      "before": "[[my door.]]",
+      "after": "my door.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2689": [
+    {
+      "before": "the lady even saw even tide",
+      "after": "the Lady Eventide",
+      "pass": 1
+    }
+  ],
+  "u2694": [
+    {
+      "before": "Alice sort of steps forward.",
+      "after": "Caulaus sort of steps forward.",
+      "pass": 1
+    }
+  ],
+  "u2696": [
+    {
+      "before": "I'm. I'm just commuting with the tree. You guys, nobody's talking yet. Kenza will presumably report that I will. I will. I'm sorry I didn't realize that I I thought that right. Continue.",
+      "after": "I'm. I'm just communing with the tree. You guys, nobody's talking yet. Kenza will presumably report that I will. I will. I'm sorry I didn't realize that I I thought that right. Continue.",
+      "pass": 1
+    },
+    {
+      "before": "I'm. I'm just communing with the tree. You guys, nobody's talking yet. Kenza will presumably report that I will. I will. I'm sorry I didn't realize that I I thought that right. Continue.",
+      "after": "I'm. I'm just communing with the tree. You guys, nobody's talking yet. Kenzo will presumably report that I will. I will. I'm sorry I didn't realize that I I thought that right. Continue.",
+      "pass": 1
+    }
+  ],
+  "u2699": [
+    {
+      "before": "was, was was the street, saying anything else.",
+      "after": "was, was was the tree, saying anything else.",
+      "pass": 1
+    }
+  ],
+  "u2702": [
+    {
+      "before": "so Belatore, Dasakles, Trevinia.",
+      "after": "So [[Belatore]], [[Dasakles]], Typhina.",
+      "pass": 1
+    }
+  ],
+  "u2704": [
+    {
+      "before": "these are like all her molten. These are all her different like himc names. No Baltar is from the from the intro that you.",
+      "after": "these are like all her [[molten]]. These are all her different like [[himc]] names. No [[Baltar]] is from the from the intro that you.",
+      "pass": 1
+    },
+    {
+      "before": "these are like all her [[molten]]. These are all her different like [[himc]] names. No [[Baltar]] is from the from the intro that you.",
+      "after": "these are like all her multiple. These are all her different like himc names. No [[Baltar]] is from the from the intro that you.",
+      "pass": 2
+    }
+  ],
+  "u2705": [
+    {
+      "before": "Belter, was a",
+      "after": "[[Belter]] was a",
+      "pass": 1
+    }
+  ],
+  "u2707": [
+    {
+      "before": "protect the ruins of the Cloud Palace, and waving even Star still alive.",
+      "after": "protect the ruins of the Cloud Palace, and Lady Eventide's still alive.",
+      "pass": 1
+    }
+  ],
+  "u2708": [
+    {
+      "before": "Lady: yeah, lady. Even Tad's, or even in the sky",
+      "after": "Lady—yeah, Lady Eventide's, sort of in the sky",
+      "pass": 1
+    }
+  ],
+  "u2709": [
+    {
+      "before": "still alive, Seeker met her right Cows met her.",
+      "after": "still alive, Seeker met her right Caulaus met her.",
+      "pass": 1
+    },
+    {
+      "before": "still alive, Seeker met her right Caulaus met her.",
+      "after": "still alive, Seeker met her right? Caulaus met her.",
+      "pass": 2
+    }
+  ],
+  "u2710": [
+    {
+      "before": "and Typhonia was a real person who actually was killed by Agatha and never survived.",
+      "after": "and Typhina was a real person who actually was killed by Agata and never survived.",
+      "pass": 1
+    }
+  ],
+  "u2712": [
+    {
+      "before": "like there was a place I got to got the personality from",
+      "after": "like there was a place Agata got the personality from",
+      "pass": 1
+    }
+  ],
+  "u2716": [
+    {
+      "before": "The Gp: 2 is right there.",
+      "after": "[[The Gp: 2 is right there.]]",
+      "pass": 1
+    },
+    {
+      "before": "[[The Gp: 2 is right there.]]",
+      "after": "The Gp: 2 is right there.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2718": [
+    {
+      "before": "Gp: 3 is right there.",
+      "after": "[[Gp: 3 is right there.]]",
+      "pass": 1
+    },
+    {
+      "before": "[[Gp: 3 is right there.]]",
+      "after": "Gp: 3 is right there.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2723": [
+    {
+      "before": "Dasakles. Egata.",
+      "after": "[[Dasakles]]. Agata.",
+      "pass": 1
+    }
+  ],
+  "u2738": [
+    {
+      "before": "past judgment over her",
+      "after": "pass judgment over her",
+      "pass": 1
+    }
+  ],
+  "u2740": [
+    {
+      "before": "Are we having to imprison her",
+      "after": "I'd be happy to imprison her",
+      "pass": 1
+    }
+  ],
+  "u2742": [
+    {
+      "before": "and so vows deeply to the tree.",
+      "after": "Kenzo bows deeply to the tree.",
+      "pass": 1
+    }
+  ],
+  "u2748": [
+    {
+      "before": "But Kenza relays to relays the the conversation he has with the tree",
+      "after": "But Kenzo relays to relays the the conversation he has with the tree",
+      "pass": 1
+    }
+  ],
+  "u2750": [
+    {
+      "before": "and does look knowingly. No, he doesn't actually get a slap him, but just kind of looks it in.",
+      "after": "and does look knowingly. No, he doesn't actually go slap him, but just kind of looks at him.",
+      "pass": 1
+    }
+  ],
+  "u2751": [
+    {
+      "before": "call us sort of looks around it.",
+      "after": "Caulaus sort of looks around it.",
+      "pass": 1
+    }
+  ],
+  "u2757": [
+    {
+      "before": "Kenzo goes back under, and just we'll we'll play translator, and he he shared he'll. He'll communicate to the tree with calls the same",
+      "after": "Kenzo goes back under, and just we'll we'll play translator, and he he shared he'll. He'll communicate to the tree with Caulaus saying",
+      "pass": 1
+    },
+    {
+      "before": "Kenzo goes back under, and just we'll we'll play translator, and he he shared he'll. He'll communicate to the tree with Caulaus saying",
+      "after": "Kenzo goes back under, and just we'll we'll play translator, and he he shared he'll. He'll communicate to the tree what Caulaus is saying",
+      "pass": 2
+    }
+  ],
+  "u2766": [
+    {
+      "before": "the clad spinner greatly",
+      "after": "the Cloudspinner greatly",
+      "pass": 1
+    }
+  ],
+  "u2773": [
+    {
+      "before": "takes his tavern",
+      "after": "takes his tabard",
+      "pass": 1
+    }
+  ],
+  "u2777": [
+    {
+      "before": "drank, or may be gone from the world that",
+      "after": "Drankor may be gone from the world that",
+      "pass": 1
+    }
+  ],
+  "u2783": [
+    {
+      "before": "what was best of drain corps.",
+      "after": "what was best of Drankor.",
+      "pass": 1
+    }
+  ],
+  "u2784": [
+    {
+      "before": "Alice, take take this as a reminder.",
+      "after": "[[Alice,]] take take this as a reminder.",
+      "pass": 1
+    },
+    {
+      "before": "[[Alice,]] take take this as a reminder.",
+      "after": "Alice, take take this as a reminder.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2787": [
+    {
+      "before": "because echo kind of is like hearing about like in the branches of the tree. You just, he says something in",
+      "after": "his echo kind of is like peering about like in the branches of the tree. You just, he says something in",
+      "pass": 1
+    }
+  ],
+  "u2788": [
+    {
+      "before": "Jane Cory and herself and her both.",
+      "after": "Drankorian or Sylvan or both.",
+      "pass": 1
+    }
+  ],
+  "u2791": [
+    {
+      "before": "you know. Kendall also says that you know. Call us before we leave.",
+      "after": "you know. Kenzo also says that you know. Caulaus before we leave.",
+      "pass": 1
+    }
+  ],
+  "u2793": [
+    {
+      "before": "restoring this on",
+      "after": "[[restoring this on]]",
+      "pass": 1
+    },
+    {
+      "before": "[[restoring this on]]",
+      "after": "restoring this on",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2794": [
+    {
+      "before": "in that drank course past.",
+      "after": "in that Drankor's past.",
+      "pass": 1
+    }
+  ],
+  "u2802": [
+    {
+      "before": "Well, there's one thing I've learned in my in my short time in the very well a short time in a long time.",
+      "after": "Well, there's one thing I've learned in my in my short time in the Feywild a short time in a long time.",
+      "pass": 1
+    }
+  ],
+  "u2811": [
+    {
+      "before": "being appointed commander of the third Syllabus legion.",
+      "after": "being appointed commander of the third [[Syllabus]] legion.",
+      "pass": 1
+    }
+  ],
+  "u2815": [
+    {
+      "before": "Empire Helia.",
+      "after": "Emperor Helea.",
+      "pass": 1
+    }
+  ],
+  "u2823": [
+    {
+      "before": "kind and private, although in public",
+      "after": "kind in private, although in public",
+      "pass": 1
+    }
+  ],
+  "u2826": [
+    {
+      "before": "she said, while your oath is to me your obligation is to the ideal of drank, or",
+      "after": "she said, while your oath is to me your obligation is to the ideal of Drankor",
+      "pass": 1
+    }
+  ],
+  "u2834": [
+    {
+      "before": "by soldiers standing fast backed by the warm ages, the warm mages of drank, or were a sight to see.",
+      "after": "my soldiers standing fast backed by the war mages, the war mages of Drankor were a sight to see.",
+      "pass": 1
+    }
+  ],
+  "u2841": [
+    {
+      "before": "2030 feet tall.",
+      "after": "20, 30 feet tall.",
+      "pass": 1
+    }
+  ],
+  "u2842": [
+    {
+      "before": "his heads nearly as big as myself.",
+      "after": "his head nearly as big as myself.",
+      "pass": 1
+    }
+  ],
+  "u2844": [
+    {
+      "before": "as I avoided his acts and struck the killing blow.",
+      "after": "as I avoided his axe and struck the killing blow.",
+      "pass": 1
+    }
+  ],
+  "u2851": [
+    {
+      "before": "Helia.",
+      "after": "Helea.",
+      "pass": 1
+    }
+  ],
+  "u2855": [
+    {
+      "before": "rowing from the trees, all golden, white, and elegance",
+      "after": "growing from the trees, all golden, white, and elegance",
+      "pass": 1
+    }
+  ],
+  "u2857": [
+    {
+      "before": "White, stangling",
+      "after": "[[White, stangling]]",
+      "pass": 1
+    },
+    {
+      "before": "[[White, stangling]]",
+      "after": "White, stangling",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2859": [
+    {
+      "before": "a large full of life and song and wine and beauty.",
+      "after": "a world full of life and song and wine and beauty.",
+      "pass": 1
+    }
+  ],
+  "u2866": [
+    {
+      "before": "a messenger coming to my command, her horse nearly written to death.",
+      "after": "a messenger coming to my command, her horse nearly ridden to death.",
+      "pass": 1
+    }
+  ],
+  "u2874": [
+    {
+      "before": "The ominous poorer have struck the first blow.",
+      "after": "The Omnis Pura have struck the first blow.",
+      "pass": 1
+    }
+  ],
+  "u2875": [
+    {
+      "before": "Emperor Helia has been killed, and war is coming.",
+      "after": "Emperor Helea has been killed, and war is coming.",
+      "pass": 1
+    }
+  ],
+  "u2881": [
+    {
+      "before": "red cheese, even some rare Alvin delicacies, a cake made with a rare fruit.",
+      "after": "bread, cheese, even some rare elven delicacies, a cake made with a rare fruit.",
+      "pass": 1
+    }
+  ],
+  "u2882": [
+    {
+      "before": "some tree, the sisla tree. I think",
+      "after": "some tree, the [[sisla]] tree. I think",
+      "pass": 1
+    }
+  ],
+  "u2884": [
+    {
+      "before": "Wine flew freely. The soldiers were happy.",
+      "after": "Wine flowed freely. The soldiers were happy.",
+      "pass": 1
+    }
+  ],
+  "u2885": [
+    {
+      "before": "I remember the songs, they saying, long with the new and progression, Long may he rule.",
+      "after": "I remember the songs, they sang, long live the new Emperor Vestian, Long may he rule.",
+      "pass": 1
+    }
+  ],
+  "u2886": [
+    {
+      "before": "Wang may live, and progressions swiftly may he defeat the traders.",
+      "after": "Long may live Emperor Vestian, swiftly may he defeat the traitors.",
+      "pass": 1
+    }
+  ],
+  "u2887": [
+    {
+      "before": "the elves. Even the Alvin ambassador was there.",
+      "after": "the elves. Even the elven ambassador was there.",
+      "pass": 1
+    }
+  ],
+  "u2892": [
+    {
+      "before": "are some",
+      "after": "[[are some]]",
+      "pass": 1
+    }
+  ],
+  "u2901": [
+    {
+      "before": "this Para and their allies.",
+      "after": "Pura and their allies.",
+      "pass": 1
+    }
+  ],
+  "u2903": [
+    {
+      "before": "only to discover the mages in weight.",
+      "after": "only to discover the mages in wait.",
+      "pass": 1
+    }
+  ],
+  "u2913": [
+    {
+      "before": "a route running, finding the Elven stones, the treaty stones",
+      "after": "a rout running, finding the Elven stones, the treaty stones",
+      "pass": 1
+    }
+  ],
+  "u2927": [
+    {
+      "before": "that. I just here is the first place, I think I can remember clearly since I've been",
+      "after": "[[that. I just here is the first place, I think I can remember clearly since I've been]]",
+      "pass": 1
+    }
+  ],
+  "u2928": [
+    {
+      "before": "done, whatever has happened to the Cloud Spinner",
+      "after": "done whatever has happened to the Cloud Spinner",
+      "pass": 1
+    },
+    {
+      "before": "done whatever has happened to the Cloud Spinner",
+      "after": "done whatever has happened to the Cloudspinner",
+      "pass": 1
+    }
+  ],
+  "u2929": [
+    {
+      "before": "as the entire time. Council speaking, Kenzo is alternating between rapidly etching into the into his staff, which again, it's very strange. You're kind of watching him etching to the staff, and there's definitely Some seems to be some magic, some like kind of glowing light, as he's etching.",
+      "after": "as the entire time. Caulaus speaking, Kenzo is alternating between rapidly etching into the into his staff, which again, it's very strange. You're kind of watching him etching to the staff, and there's definitely Some seems to be some magic, some like kind of glowing light, as he's etching.",
+      "pass": 1
+    },
+    {
+      "before": "as the entire time. Caulaus speaking, Kenzo is alternating between rapidly etching into the into his staff, which again, it's very strange. You're kind of watching him etching to the staff, and there's definitely Some seems to be some magic, some like kind of glowing light, as he's etching.",
+      "after": "the entire time Caulaus is speaking, Kenzo is alternating between rapidly etching into the into his staff, which again, it's very strange. You're kind of watching him etching to the staff, and there's definitely Some seems to be some magic, some like kind of glowing light, as he's etching.",
+      "pass": 2
+    }
+  ],
+  "u2933": [
+    {
+      "before": "and then, after a few moments, hands over to call us",
+      "after": "and then, after a few moments, hands over to Caulaus",
+      "pass": 1
+    }
+  ],
+  "u2941": [
+    {
+      "before": "and he hands it over to to call us.",
+      "after": "and he hands it over to to Caulaus.",
+      "pass": 1
+    }
+  ],
+  "u2942": [
+    {
+      "before": "I've captured your story, so it will not be forgotten. Callous.",
+      "after": "I've captured your story, so it will not be forgotten. Caulaus.",
+      "pass": 1
+    }
+  ],
+  "u2943": [
+    {
+      "before": "When we return to Talgar.",
+      "after": "When we return to Taelgar.",
+      "pass": 1
+    }
+  ],
+  "u2951": [
+    {
+      "before": "when you are back in Talgar.",
+      "after": "when you are back in Taelgar.",
+      "pass": 1
+    }
+  ],
+  "u2952": [
+    {
+      "before": "look for the ominous, poorer",
+      "after": "look for the Omnis Pura",
+      "pass": 1
+    }
+  ],
+  "u2957": [
+    {
+      "before": "not one by the",
+      "after": "not won by the",
+      "pass": 1
+    }
+  ],
+  "u2959": [
+    {
+      "before": "who upheld the ideals of drinker.",
+      "after": "who upheld the ideals of Drankor.",
+      "pass": 1
+    }
+  ],
+  "u2961": [
+    {
+      "before": "part of the omnis fora before",
+      "after": "part of the Omnis Pura before",
+      "pass": 1
+    }
+  ],
+  "u2963": [
+    {
+      "before": "That's what tens of glances at Seeker and well, the",
+      "after": "That's what Kenzo glances at Seeker and Wellby",
+      "pass": 1
+    },
+    {
+      "before": "That's what Kenzo glances at Seeker and Wellby",
+      "after": "That's what—Kenzo glances at Seeker and Wellby",
+      "pass": 2
+    }
+  ],
+  "u2965": [
+    {
+      "before": "with Kendrsa, however, many feels like ages ago.",
+      "after": "with [[Kendrsa]], however, many feels like ages ago.",
+      "pass": 1
+    },
+    {
+      "before": "with [[Kendrsa]], however, many feels like ages ago.",
+      "after": "with [[Kendrsa]], however many—it feels like ages ago.",
+      "pass": 2
+    }
+  ],
+  "u2966": [
+    {
+      "before": "I remember seeing why",
+      "after": "I remember seeing Rai",
+      "pass": 1
+    }
+  ],
+  "u2967": [
+    {
+      "before": "battling it something.",
+      "after": "battling something.",
+      "pass": 1
+    }
+  ],
+  "u2968": [
+    {
+      "before": "probably a poly on the other.",
+      "after": "probably Apollyon the other.",
+      "pass": 1
+    }
+  ],
+  "u2969": [
+    {
+      "before": "and that Apollon stood with a group of mages.",
+      "after": "and that Apollyon stood with a group of mages.",
+      "pass": 1
+    }
+  ],
+  "u2972": [
+    {
+      "before": "ominous.",
+      "after": "Omnis.",
+      "pass": 1
+    }
+  ],
+  "u2973": [
+    {
+      "before": "but they seem as they've been heard of that",
+      "after": "but they seem as they've been part of that",
+      "pass": 1
+    }
+  ],
+  "u2974": [
+    {
+      "before": "Kura p you are at.",
+      "after": "Pura. P-U-R-A.",
+      "pass": 1
+    }
+  ],
+  "u2975": [
+    {
+      "before": "but they seem to even look for just one of circus",
+      "after": "[[but they seem to even look for just one of circus]]",
+      "pass": 1
+    },
+    {
+      "before": "[[but they seem to even look for just one of circus]]",
+      "after": "but they seem to even look for just one of circus",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2979": [
+    {
+      "before": "of a poly. On.",
+      "after": "of Apollyon.",
+      "pass": 1
+    }
+  ],
+  "u2981": [
+    {
+      "before": "It's por up",
+      "after": "It's Pura.",
+      "pass": 1
+    }
+  ],
+  "u2983": [
+    {
+      "before": "Why, purity Tim.",
+      "after": "Right, purity Tim.",
+      "pass": 1
+    }
+  ],
+  "u2987": [
+    {
+      "before": "Yeah, the were lost",
+      "after": "Yeah, the werewolves",
+      "pass": 1
+    }
+  ],
+  "u2991": [
+    {
+      "before": "No, that was foul style.",
+      "after": "No, that was Fausto.",
+      "pass": 1
+    }
+  ],
+  "u2994": [
+    {
+      "before": "bad the i'm just.",
+      "after": "[[bad the i'm just.]]",
+      "pass": 1
+    },
+    {
+      "before": "[[bad the i'm just.]]",
+      "after": "bad the i'm just.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u2995": [
+    {
+      "before": "But and it's totally fast now.",
+      "after": "But and it's totally Fausto now.",
+      "pass": 1
+    }
+  ],
+  "u2998": [
+    {
+      "before": "But he's he's he's one of the ominous Pira. Yeah, he probably is.",
+      "after": "But he's he's he's one of the Omnis Pura. Yeah, he probably is.",
+      "pass": 1
+    }
+  ],
+  "u2999": [
+    {
+      "before": "I work with a bad guy working with a poly on.",
+      "after": "I work with a bad guy working with Apollyon.",
+      "pass": 1
+    }
+  ],
+  "u2558": [
+    {
+      "before": "the latter attacks. oh, no, grapples right, although but she's already restrained. She's already restrained.",
+      "after": "the ladder attacks. oh, no, grapples right, although but she's already restrained. She's already restrained.",
+      "pass": 1
+    }
+  ],
+  "u2677": [
+    {
+      "before": "until the Cloud Spinner returns",
+      "after": "until the Cloudspinner returns",
+      "pass": 1
+    }
+  ],
+  "u2691": [
+    {
+      "before": "There are a precious few who can defend the pockets of amberglow where",
+      "after": "There are a precious few who can defend the pockets of Amberglow where",
+      "pass": 1
+    }
+  ],
+  "u2693": [
+    {
+      "before": "a fay, can still tread safely.",
+      "after": "a fey, can still tread safely.",
+      "pass": 1
+    }
+  ],
+  "u2737": [
+    {
+      "before": "The Cloud Spinner should",
+      "after": "The Cloudspinner should",
+      "pass": 1
+    }
+  ],
+  "u2761": [
+    {
+      "before": "in the clear places in the fay wild like this. I can remember that it was long ago.",
+      "after": "in the clear places in the Feywild like this. I can remember that it was long ago.",
+      "pass": 1
+    }
+  ],
+  "u2917": [
+    {
+      "before": "I remember the Cloud Spinner, but",
+      "after": "I remember the Cloudspinner, but",
+      "pass": 1
+    }
+  ],
+  "u3002": [
+    {
+      "before": "so yeah. So so tell us if you put your hand on the tree, after all, though.",
+      "after": "so yeah. So so Caulaus if you put your hand on the tree, after all, though.",
+      "pass": 1
+    }
+  ],
+  "u3012": [
+    {
+      "before": "Your memories of drank are no different than before. Even the early days of",
+      "after": "Your memories of Drankor are no different than before. Even the early days of",
+      "pass": 1
+    }
+  ],
+  "u3016": [
+    {
+      "before": "it feels like looking through a smeared lens. The image is tough to pierce together.",
+      "after": "it feels like looking through a smeared lens. The image is tough to piece together.",
+      "pass": 1
+    }
+  ],
+  "u3027": [
+    {
+      "before": "and we're looking for safety.",
+      "after": "who were looking for safety.",
+      "pass": 1
+    }
+  ],
+  "u3036": [
+    {
+      "before": "Still, knowing that nobody can send you back to Talgar except the Cloud Spinner, although not sure you even necessarily want to go back with what you've just heard. But",
+      "after": "Still, knowing that nobody can send you back to Taelgar except the Cloud Spinner, although not sure you even necessarily want to go back with what you've just heard. But",
+      "pass": 1
+    },
+    {
+      "before": "Still, knowing that nobody can send you back to Taelgar except the Cloud Spinner, although not sure you even necessarily want to go back with what you've just heard. But",
+      "after": "Still, knowing that nobody can send you back to Taelgar except the Cloudspinner, although not sure you even necessarily want to go back with what you've just heard. But",
+      "pass": 1
+    }
+  ],
+  "u3037": [
+    {
+      "before": "to show up at some point to like help kill a poly on right? Well, maybe not, but maybe.",
+      "after": "to show up at some point to like help kill Apollyon right? Well, maybe not, but maybe.",
+      "pass": 1
+    }
+  ],
+  "u3047": [
+    {
+      "before": "out of order and loss. But something about the",
+      "after": "out of order and lost. But something about the",
+      "pass": 1
+    }
+  ],
+  "u3053": [
+    {
+      "before": "role, play",
+      "after": "role-play",
+      "pass": 1
+    }
+  ],
+  "u3058": [
+    {
+      "before": "Oh, yeah, Kenza relays how the the tree is gonna",
+      "after": "Oh, yeah, Kenzo relays how the the tree is gonna",
+      "pass": 1
+    }
+  ],
+  "u3059": [
+    {
+      "before": "They're going to they're going to imprison the gata for now until the it's been a",
+      "after": "They're going to they're going to imprison Agata for now until [[the it's been a]]",
+      "pass": 1
+    },
+    {
+      "before": "They're going to they're going to imprison Agata for now until [[the it's been a]]",
+      "after": "They're going to they're going to imprison Agata for now until the Cloudspinner",
+      "pass": 2
+    }
+  ],
+  "u3060": [
+    {
+      "before": "since a lot.",
+      "after": "[[since a lot.]]",
+      "pass": 1
+    },
+    {
+      "before": "[[since a lot.]]",
+      "after": "since a lot.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u3061": [
+    {
+      "before": "Yeah. So as you're as you're doing, the seeker, you see, like a crack open up in the sire of this tree.",
+      "after": "Yeah. So as you're as you're doing, the seeker, you see, like a crack open up in the side of this tree.",
+      "pass": 1
+    },
+    {
+      "before": "Yeah. So as you're as you're doing, the seeker, you see, like a crack open up in the side of this tree.",
+      "after": "Yeah. So as you're as you're doing, the Seeker, you see, like a crack open up in the side of this tree.",
+      "pass": 1
+    }
+  ],
+  "u3063": [
+    {
+      "before": "2 roots reach out and sort of grab a gotcha's body and wash it",
+      "after": "2 roots reach out and sort of grab Agata's body and whisk it",
+      "pass": 1
+    }
+  ],
+  "u3064": [
+    {
+      "before": "anchor inside the tree in the",
+      "after": "and her inside the tree in the",
+      "pass": 1
+    },
+    {
+      "before": "and her inside the tree in the",
+      "after": "yank her inside the tree, and the",
+      "pass": 2
+    }
+  ],
+  "u3070": [
+    {
+      "before": "You should do that. By the way secret. You should create little like animations that you can recall that are like little little, you know, like of a, you know.",
+      "after": "You should do that. By the way Seeker. You should create little like animations that you can recall that are like little little, you know, like of a, you know.",
+      "pass": 1
+    }
+  ],
+  "u3072": [
+    {
+      "before": "Yeah, Kenzo Kenzo, you know, Gives gives callous a grateful and shaken.",
+      "after": "Yeah, Kenzo Kenzo, you know, Gives gives callous a grateful handshake.",
+      "pass": 1
+    },
+    {
+      "before": "Yeah, Kenzo Kenzo, you know, Gives gives callous a grateful handshake.",
+      "after": "Yeah, Kenzo Kenzo, you know, Gives gives Caulaus a grateful handshake.",
+      "pass": 1
+    }
+  ],
+  "u3074": [
+    {
+      "before": "and then gives a grateful vow to the tree before departing in.",
+      "after": "and then gives a grateful bow to the tree before departing in.",
+      "pass": 1
+    }
+  ],
+  "u3076": [
+    {
+      "before": "across the Fiji even call us",
+      "after": "across the Feywild, leaving Caulaus",
+      "pass": 1
+    }
+  ],
+  "u3079": [
+    {
+      "before": "get the ring Shakies in here are no voices from the ring, although now secret of you die.",
+      "after": "gives the ring a shake. You hear no voices from the ring, although now Seeker, if you die.",
+      "pass": 1
+    }
+  ],
+  "u3085": [
+    {
+      "before": "the ring of soul traffic!",
+      "after": "the ring of soul trapping!",
+      "pass": 1
+    }
+  ],
+  "u3086": [
+    {
+      "before": "You walk back across the across the Faye wild across these",
+      "after": "You walk back across the across the Feywild across these",
+      "pass": 1
+    }
+  ],
+  "u3090": [
+    {
+      "before": "returning again to last light falls",
+      "after": "returning again to Lastlight Falls",
+      "pass": 1
+    }
+  ],
+  "u3100": [
+    {
+      "before": "leave the fail out.",
+      "after": "leave the Feywild.",
+      "pass": 1
+    }
+  ],
+  "u3104": [
+    {
+      "before": "tacked on Appendix Section to my copy. Of.",
+      "after": "tacked-on appendix section to my copy. Of.",
+      "pass": 1
+    }
+  ],
+  "u3106": [
+    {
+      "before": "more of the fairy Wild.",
+      "after": "The Lore of the Feywild.",
+      "pass": 1
+    }
+  ],
+  "u3112": [
+    {
+      "before": "for the last return to talk our scene.",
+      "after": "for the last return to Taelgar scene.",
+      "pass": 1
+    }
+  ],
+  "u3117": [
+    {
+      "before": "Yeah, that was fun. Fucking rang the whole time.",
+      "after": "Yeah, that was fun. Fucking ring the whole time.",
+      "pass": 1
+    }
+  ],
+  "u3118": [
+    {
+      "before": "Are you wearing the red seeker? Yeah, he's been wearing the ring for this entire time because it's never questioned",
+      "after": "Are you wearing the ring, Seeker? Yeah, he's been wearing the ring for this entire time because it's never questioned",
+      "pass": 1
+    },
+    {
+      "before": "Are you wearing the ring, Seeker? Yeah, he's been wearing the ring for this entire time because it's never questioned",
+      "after": "Are you wearing the ring, Seeker? Yeah, he's been wearing the ring for this entire time because he's never questioned",
+      "pass": 2
+    }
+  ],
+  "u3119": [
+    {
+      "before": "the story of some random fay who just spoke to you after immediately after you killed a daughter.",
+      "after": "the story of some random fay who just spoke to you after immediately after you killed Agata.",
+      "pass": 1
+    },
+    {
+      "before": "the story of some random fay who just spoke to you after immediately after you killed Agata.",
+      "after": "the story of some random fey who just spoke to you after immediately after you killed Agata.",
+      "pass": 1
+    }
+  ],
+  "u3122": [
+    {
+      "before": "Oh, yeah, it's totally safe by just another cap that day, you know.",
+      "after": "Oh, yeah, it's totally safe, just another captive fey, you know.",
+      "pass": 1
+    }
+  ],
+  "u3124": [
+    {
+      "before": "So it to the mirror.",
+      "after": "Show it to the mirror.",
+      "pass": 1
+    }
+  ],
+  "u3130": [
+    {
+      "before": "somebody at the last minute like said, oh, why don't we do this other thing and said.",
+      "after": "somebody at the last minute like said, oh, why don't we do this other thing instead.",
+      "pass": 1
+    }
+  ],
+  "u3132": [
+    {
+      "before": "yeah, other than especially because I got to didn't know you had that mirror, so she wouldn't have been able to prepare a lie about that.",
+      "after": "yeah, other than especially because Agata didn't know you had that mirror, so she wouldn't have been able to prepare a lie about that.",
+      "pass": 1
+    }
+  ],
+  "u3137": [
+    {
+      "before": "Dasakles is Typhinia.",
+      "after": "[[Dasakles]] is Typhina.",
+      "pass": 1
+    }
+  ],
+  "u3142": [
+    {
+      "before": "seekers holding this thread that turns. This burnished red color of the sunset, indicating that",
+      "after": "Seeker's holding this thread that turns. This burnished red color of the sunset, indicating that",
+      "pass": 1
+    }
+  ],
+  "u3143": [
+    {
+      "before": "the portal, the Faye crossing here at last light falls as open.",
+      "after": "the portal, the fey crossing here at Lastlight Falls is open.",
+      "pass": 1
+    }
+  ],
+  "u3148": [
+    {
+      "before": "Is there one other thing I can do with that True, Sam. I can record this with you, sure.",
+      "after": "Is there one other thing I can do with that tree, Tim. I can retcon this with you, sure.",
+      "pass": 1
+    }
+  ],
+  "u3149": [
+    {
+      "before": "Okay. But I I haven't I Haven't. Well, I i'm just gonna ask the the tree for some key.",
+      "after": "Okay. But I I haven't I Haven't. Well, I i'm just gonna ask the the tree for some ki.",
+      "pass": 1
+    }
+  ],
+  "u3150": [
+    {
+      "before": "which, after what we did, they may be out, not on an unworthy thing for it to ignite.",
+      "after": "which, after what we did, they may be [[out, not on an unworthy thing for it to ignite]].",
+      "pass": 1
+    },
+    {
+      "before": "which, after what we did, they may be [[out, not on an unworthy thing for it to ignite]].",
+      "after": "which, after what we did, they may be out, not on an unworthy thing for it to ignite.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u3151": [
+    {
+      "before": "I'll think about that fake, he fay wild. I don't know if there really is like fay-while",
+      "after": "I'll think about that fey ki, Feywild. I don't know if there really is like Feywild",
+      "pass": 1
+    }
+  ],
+  "u3156": [
+    {
+      "before": "ride pieces of jade, some all kinds of things that can store some weird, they well imagine. So.",
+      "after": "Rai pieces of jade, some all kinds of things that can store some weird, Feywild magic. So.",
+      "pass": 1
+    }
+  ],
+  "u3157": [
+    {
+      "before": "come back. So as you step through, step into this pool, you'll switch us back to last night, falls.",
+      "after": "come back. So as you step through, step into this pool, you'll switch us back to Lastlight Falls.",
+      "pass": 1
+    }
+  ],
+  "u3161": [
+    {
+      "before": "on the plans of Dunmar",
+      "after": "on the plains of Dunmar",
+      "pass": 1
+    }
+  ],
+  "u3164": [
+    {
+      "before": "the sun just beginning to sat",
+      "after": "the sun just beginning to set",
+      "pass": 1
+    }
+  ],
+  "u3171": [
+    {
+      "before": "Sharpening, holding a sword, holding an Alvin sword.",
+      "after": "Sharpening, holding a sword, holding an elven sword.",
+      "pass": 1
+    }
+  ],
+  "u3173": [
+    {
+      "before": "you should award be right at whole thing. I have didn't have time to prepare it. okay? Well, we'll do that in January. No, no, no, we could do it now. I just give me 30 s to think. Okay, or 5 s even. I mostly have it ready.",
+      "after": "[[you should award be right at whole thing]]. I have didn't have time to prepare it. okay? Well, we'll do that in January. No, no, no, we could do it now. I just give me 30 s to think. Okay, or 5 s even. I mostly have it ready.",
+      "pass": 1
+    },
+    {
+      "before": "[[you should award be right at whole thing]]. I have didn't have time to prepare it. okay? Well, we'll do that in January. No, no, no, we could do it now. I just give me 30 s to think. Okay, or 5 s even. I mostly have it ready.",
+      "after": "you should award be right at whole thing. I have didn't have time to prepare it. okay? Well, we'll do that in January. No, no, no, we could do it now. I just give me 30 s to think. Okay, or 5 s even. I mostly have it ready.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u3175": [
+    {
+      "before": "you see, an Alf sitting outside the Ted.",
+      "after": "you see, an elf sitting outside the tent.",
+      "pass": 1
+    }
+  ],
+  "u3180": [
+    {
+      "before": "you like? It looks like tell with. But is it like every",
+      "after": "you like? It looks like Delwath. But is it like every",
+      "pass": 1
+    }
+  ],
+  "u3191": [
+    {
+      "before": "tight armor that looks subtle like",
+      "after": "hide armor that looks subtle like",
+      "pass": 1
+    },
+    {
+      "before": "hide armor that looks subtle like",
+      "after": "hide armor that looks supple like",
+      "pass": 2
+    }
+  ],
+  "u3193": [
+    {
+      "before": "props. Next to him is a shield a brightly colored shield.",
+      "after": "Propped Next to him is a shield a brightly colored shield.",
+      "pass": 1
+    },
+    {
+      "before": "Propped Next to him is a shield a brightly colored shield.",
+      "after": "Propped next to him is a shield a brightly colored shield.",
+      "pass": 2
+    }
+  ],
+  "u3194": [
+    {
+      "before": "with 2 Wxes painted on it.",
+      "after": "with 2 lynxes painted on it.",
+      "pass": 1
+    }
+  ],
+  "u3196": [
+    {
+      "before": "link like bobcats. Okay?",
+      "after": "Lynx-like bobcats. Okay?",
+      "pass": 1
+    }
+  ],
+  "u3208": [
+    {
+      "before": "shadowy bobcat that's like not Chatterly at all. No, it's actually very",
+      "after": "shadowy bobcat that's like not shadowy at all. No, it's actually very",
+      "pass": 1
+    }
+  ],
+  "u3212": [
+    {
+      "before": "it doesn't seem like it's not like a shadow. Ghosty sort of thing at all right like it. Just it has the feel of a bump",
+      "after": "it doesn't seem like it's not like a shadow. Ghosty sort of thing at all right like it. Just it has the feel of a [[bump]]",
+      "pass": 1
+    },
+    {
+      "before": "it doesn't seem like it's not like a shadow. Ghosty sort of thing at all right like it. Just it has the feel of a [[bump]]",
+      "after": "it doesn't seem like it's not like a shadow. Ghosty sort of thing at all right like it. Just it has the feel of a bump",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u3220": [
+    {
+      "before": "looks surprise. Well, I so I have no idea what's happened. Honestly, I don't know how della's got it here.",
+      "after": "looks surprise. Well, I so I have no idea what's happened. Honestly, I don't know how Delwath's got it here.",
+      "pass": 1
+    }
+  ],
+  "u3224": [
+    {
+      "before": "morit",
+      "after": "more at",
+      "pass": 1
+    }
+  ],
+  "u3233": [
+    {
+      "before": "Sorry that was for the moment, Mike. I thought it would be a nice way to add. No, no, it was. It was good. Actually, it was perfect. I just 30 s word. It would have helped me for this slide.",
+      "after": "Sorry that was spur of the moment, Mike. I thought it would be a nice way to end. No, no, it was. It was good. Actually, it was perfect. I just 30 seconds' warning. It would have helped me [[for this slide]].",
+      "pass": 1
+    },
+    {
+      "before": "Sorry that was spur of the moment, Mike. I thought it would be a nice way to end. No, no, it was. It was good. Actually, it was perfect. I just 30 seconds' warning. It would have helped me [[for this slide]].",
+      "after": "Sorry that was spur of the moment, Mike. I thought it would be a nice way to end. No, no, it was. It was good. Actually, it was perfect. I just 30 seconds' warning. It would have helped me for this slide.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u3235": [
+    {
+      "before": "now. It's like you saw him. It's real. I don't know. Maybe he's found the the cloak, and it's concealing his true nature from the soul side.",
+      "after": "now. It's like you saw him. It's real. I don't know. Maybe he's found the the cloak, and it's concealing his true nature from the soul-sight.",
+      "pass": 1
+    }
+  ],
+  "u3238": [
+    {
+      "before": "chat? Gbt wrote the nymph",
+      "after": "ChatGPT wrote the nymph",
+      "pass": 1
+    }
+  ],
+  "u3241": [
+    {
+      "before": "yeah, I definitely read the tree",
+      "after": "yeah, I definitely wrote the tree",
+      "pass": 1
+    }
+  ],
+  "u3242": [
+    {
+      "before": "parties are the nymph.",
+      "after": "Harpies are the nymph.",
+      "pass": 1
+    },
+    {
+      "before": "Harpies are the nymph.",
+      "after": "Harpies or the nymph.",
+      "pass": 2
+    }
+  ],
+  "u3244": [
+    {
+      "before": "If the Chappy Gpt wrote the Harpies. That would have been pretty interesting.",
+      "after": "If the ChatGPT wrote the Harpies. That would have been pretty interesting.",
+      "pass": 1
+    }
+  ],
+  "u3249": [
+    {
+      "before": "like a substantial to that.",
+      "after": "like a substantial chunk of that.",
+      "pass": 1
+    }
+  ],
+  "u3253": [
+    {
+      "before": "events. Yeah, like the the whole, the whole, the whole average of the full of hope, free plot with the other fee",
+      "after": "events. Yeah, like the the whole, the whole, the whole [[average of the full of hope, free plot]] with the other fey",
+      "pass": 1
+    },
+    {
+      "before": "events. Yeah, like the the whole, the whole, the whole [[average of the full of hope, free plot]] with the other fey",
+      "after": "events. Yeah, like the the whole, the whole, the whole average of the full of hope, free plot with the other fey",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u3254": [
+    {
+      "before": "like Balimore. And whatever yeah, that's my guess.",
+      "after": "like [[Balimore]]. And whatever yeah, that's my guess.",
+      "pass": 1
+    },
+    {
+      "before": "like [[Balimore]]. And whatever yeah, that's my guess.",
+      "after": "like Balimore. And whatever yeah, that's my guess.",
+      "pass": 2,
+      "reason": "Incidental fragment remains uncorrected; no uncertainty acceptance implied."
+    }
+  ],
+  "u3257": [
+    {
+      "before": "I changed. I added to to Fin there, there, and a few other things. It actually came up with the Harpies. I wanted, like cool allies for a for a tag.",
+      "after": "I changed. I added to Typhina there, there, and a few other things. It actually came up with the Harpies. I wanted, like cool allies for a for a hag.",
+      "pass": 1
+    }
+  ],
+  "u3259": [
+    {
+      "before": "heartbees could attack the adventures as they cross the planes.",
+      "after": "harpies could attack the adventurers as they cross the plains.",
+      "pass": 1
+    }
+  ],
+  "u3260": [
+    {
+      "before": "But that was cool, though, because the heartbees they were trying, they were trying. They were actually on our side. They were trying to get yeah, and we killed them because you didn't understand. But they were. We only told 40 of them. We did. We did. Okay, yeah, you only came 40. That's not horrible.",
+      "after": "But that was cool, though, because the harpies they were trying, they were trying. They were actually on our side. They were trying to get yeah, and we killed them because you didn't understand. But they were. We only killed two of them. We did. We did. Okay, yeah, you only killed two. That's not horrible.",
+      "pass": 1
+    }
+  ],
+  "u3263": [
+    {
+      "before": "And then and then you wrote the name for him.",
+      "after": "And then and then you wrote the nymph, Tim.",
+      "pass": 1
+    }
+  ],
+  "u3264": [
+    {
+      "before": "I at the nymph, and then chat, gpt generated the description of the where the nymph lives, based on my characterization of the nymph and",
+      "after": "I added the nymph, and then chat, gpt generated the description of the where the nymph lives, based on my characterization of the nymph and",
+      "pass": 1
+    },
+    {
+      "before": "I added the nymph, and then chat, gpt generated the description of the where the nymph lives, based on my characterization of the nymph and",
+      "after": "I added the nymph, and then ChatGPT generated the description of the where the nymph lives, based on my characterization of the nymph and",
+      "pass": 2
+    }
+  ],
+  "u3265": [
+    {
+      "before": "mid journey, generated the background from a prompt that Chat Gbp generated",
+      "after": "Midjourney, generated the background from a prompt that ChatGPT generated",
+      "pass": 1
+    }
+  ],
+  "u3266": [
+    {
+      "before": "by the way to them. I know the perfect place that the key from the tree can live",
+      "after": "by the way Tim. I know the perfect place that the ki from the tree can live",
+      "pass": 1
+    }
+  ],
+  "u3268": [
+    {
+      "before": "inside the right.",
+      "after": "inside the ring.",
+      "pass": 1
+    }
+  ],
+  "u3269": [
+    {
+      "before": "the ring does store say energy. Then that's exactly what it does. Fill up that ring with some some tricky.",
+      "after": "the ring does store fey energy. Then that's exactly what it does. Fill up that ring with some some tree ki.",
+      "pass": 1
+    }
+  ],
+  "u3003": [
+    {
+      "before": "Yeah. So as callous as you put your hand on the tree, you",
+      "after": "Yeah. So as Caulaus as you put your hand on the tree, you",
+      "pass": 1
+    }
+  ],
+  "u3010": [
+    {
+      "before": "through amberglow in the past.",
+      "after": "through Amberglow in the past.",
+      "pass": 1
+    }
+  ],
+  "u3014": [
+    {
+      "before": "When amberglow was full of beauty and light",
+      "after": "When Amberglow was full of beauty and light",
+      "pass": 1
+    }
+  ],
+  "u3045": [
+    {
+      "before": "the sense of distortion of time in the Fay Wild is very hard to fight, and",
+      "after": "the sense of distortion of time in the Feywild is very hard to fight, and",
+      "pass": 1
+    }
+  ],
+  "u3054": [
+    {
+      "before": "seeker's been",
+      "after": "Seeker's been",
+      "pass": 1
+    }
+  ],
+  "u0004": [
+    {
+      "before": "are we? Are we good to go?",
+      "after": "Are we? Are we good to go?",
+      "pass": 2
+    }
+  ],
+  "u0039": [
+    {
+      "before": "is hidden among rocky cliffs, a place of calm where water cascades from the rocks above to clear to a clear pool below, the long shadows",
+      "after": "is hidden among rocky cliffs, a place of calm where water cascades from the rocks above to clear—to a clear pool below, the long shadows",
+      "pass": 2
+    }
+  ],
+  "u0054": [
+    {
+      "before": "her magnificent cloud palace fell into disarray.",
+      "after": "her magnificent Cloud Palace fell into disarray.",
+      "pass": 2
+    }
+  ],
+  "u0071": [
+    {
+      "before": "Why, Don't, we introduce",
+      "after": "Why don't we introduce",
+      "pass": 2
+    }
+  ],
+  "u0087": [
+    {
+      "before": "somewhat tattered. Most of his equipment is very good shape. He looks like he knows how to use the sword he looks like he",
+      "after": "somewhat tattered. Most of his equipment is in very good shape. He looks like he knows how to use the sword he looks like he",
+      "pass": 2
+    }
+  ],
+  "u0097": [
+    {
+      "before": "What to say",
+      "after": "What's it say?",
+      "pass": 2
+    }
+  ],
+  "u0098": [
+    {
+      "before": "it? Says,",
+      "after": "It says,",
+      "pass": 2
+    }
+  ],
+  "u0123": [
+    {
+      "before": "twists it around them",
+      "after": "twists it around and",
+      "pass": 2
+    }
+  ],
+  "u0124": [
+    {
+      "before": "it up to the light",
+      "after": "holds it up to the light",
+      "pass": 2
+    }
+  ],
+  "u0136": [
+    {
+      "before": "that",
+      "after": "[[that]]",
+      "pass": 2
+    }
+  ],
+  "u0146": [
+    {
+      "before": "Advice",
+      "after": "[[Advice]]",
+      "pass": 2
+    }
+  ],
+  "u0148": [
+    {
+      "before": "notice it",
+      "after": "you notice it",
+      "pass": 2
+    }
+  ],
+  "u0149": [
+    {
+      "before": "little bit with 2 gemstones.",
+      "after": "a little bit with 2 gemstones.",
+      "pass": 2
+    }
+  ],
+  "u0151": [
+    {
+      "before": "Yeah, this moment.",
+      "after": "at this moment.",
+      "pass": 2
+    }
+  ],
+  "u0179": [
+    {
+      "before": "It's still tied back. But you notice just in general all of them",
+      "after": "It's still tied back. But you notice just in general all of the",
+      "pass": 2
+    }
+  ],
+  "u0223": [
+    {
+      "before": "He he calls out to well be first a greeting in",
+      "after": "He he calls out to Wellby first a greeting in",
+      "pass": 2
+    }
+  ],
+  "u0313": [
+    {
+      "before": "See? Trapped here?",
+      "after": "Is he trapped here?",
+      "pass": 2
+    }
+  ],
+  "u0363": [
+    {
+      "before": "perhaps perhaps I can get some help from the elves or the fay. I don't know what I was thinking.",
+      "after": "perhaps perhaps I can get some help from the elves or the fey. I don't know what I was thinking.",
+      "pass": 2
+    }
+  ],
+  "u0376": [
+    {
+      "before": "and then unusual coloration that I do not",
+      "after": "an unusual coloration that I do not",
+      "pass": 2
+    }
+  ],
+  "u0378": [
+    {
+      "before": "and he was defeated. He said.",
+      "after": "and it was defeated, you said.",
+      "pass": 2
+    }
+  ],
+  "u0465": [
+    {
+      "before": "since he's taken some of yours.",
+      "after": "seems he's taken some of yours.",
+      "pass": 2
+    }
+  ],
+  "u0468": [
+    {
+      "before": "thing. That explains a lot.",
+      "after": "I think That explains a lot.",
+      "pass": 2
+    }
+  ],
+  "u0470": [
+    {
+      "before": "and where is your seeker?",
+      "after": "and where is here, Seeker?",
+      "pass": 2
+    }
+  ],
+  "u0522": [
+    {
+      "before": "i'm strange.",
+      "after": "How strange.",
+      "pass": 2
+    }
+  ],
+  "u0571": [
+    {
+      "before": "Yes, it will head that way.",
+      "after": "Yes, we'll head that way.",
+      "pass": 2
+    }
+  ],
+  "u0579": [
+    {
+      "before": "Across the plane",
+      "after": "Across the plain",
+      "pass": 2
+    }
+  ],
+  "u0581": [
+    {
+      "before": "a river of time",
+      "after": "a River of Time",
+      "pass": 2
+    }
+  ],
+  "u0670": [
+    {
+      "before": "thick layer of sort of this fay",
+      "after": "thick layer of sort of this fey",
+      "pass": 2
+    }
+  ],
+  "u0725": [
+    {
+      "before": "No, i'm just seeker. Aren't you the one that knows this place.",
+      "after": "No, i'm just Seeker. Aren't you the one that knows this place.",
+      "pass": 2
+    },
+    {
+      "before": "No, i'm just Seeker. Aren't you the one that knows this place.",
+      "after": "No, I'm just—Seeker. Aren't you the one that knows this place.",
+      "pass": 2
+    }
+  ],
+  "u0746": [
+    {
+      "before": "I remember, if there would have been a rest between them. And",
+      "after": "I don't remember, if there would have been a rest between them. And",
+      "pass": 2
+    }
+  ],
+  "u0778": [
+    {
+      "before": "and as you hear them about 300 feet away, you hear",
+      "after": "and as you near them about 300 feet away, you hear",
+      "pass": 2
+    }
+  ],
+  "u0782": [
+    {
+      "before": "seeker, you hear this",
+      "after": "Seeker, you hear this",
+      "pass": 2
+    }
+  ],
+  "u0794": [
+    {
+      "before": "and seeker",
+      "after": "and Seeker",
+      "pass": 2
+    }
+  ],
+  "u0796": [
+    {
+      "before": "charms",
+      "after": "charmed",
+      "pass": 2
+    }
+  ],
+  "u0801": [
+    {
+      "before": "So we're all again that",
+      "after": "So roll again that",
+      "pass": 2
+    }
+  ],
+  "u0807": [
+    {
+      "before": "over. I do I know anything about",
+      "after": "overhang. I do I know anything about",
+      "pass": 2
+    }
+  ],
+  "u0854": [
+    {
+      "before": "true name, or something like that, or fame, or",
+      "after": "true name, or something like that, or fey name, or",
+      "pass": 2
+    }
+  ],
+  "u0863": [
+    {
+      "before": "which i'm gonna call it.",
+      "after": "whatchamacallit.",
+      "pass": 2
+    }
+  ],
+  "u0864": [
+    {
+      "before": "Tell us",
+      "after": "Caulaus",
+      "pass": 2
+    }
+  ],
+  "u0865": [
+    {
+      "before": "No, that that see?",
+      "after": "No, that that Seeker",
+      "pass": 2
+    }
+  ],
+  "u0907": [
+    {
+      "before": "I would not count on a long rest any time in Amberglow. Our short rest should be pretty easy.",
+      "after": "I would not count on a long rest any time in Amberglow. A short rest should be pretty easy.",
+      "pass": 2
+    }
+  ],
+  "u0921": [
+    {
+      "before": "Actually, it's tough. That's when I run out this wall.",
+      "after": "Actually, it's tough. That's when I run up this wall.",
+      "pass": 2
+    }
+  ],
+  "u0944": [
+    {
+      "before": "give us. Give us that. So please",
+      "after": "give us. Give us [[that. So please]]",
+      "pass": 2
+    }
+  ],
+  "u0947": [
+    {
+      "before": "Why, it didn't even take damage.",
+      "after": "Wait, it didn't even take damage.",
+      "pass": 2
+    }
+  ],
+  "u0962": [
+    {
+      "before": "and your wisdom saves. Oh, there you go. How that succeeds.",
+      "after": "and your wisdom saves. Oh, there you go. Oh, that succeeds.",
+      "pass": 2
+    }
+  ],
+  "u0966": [
+    {
+      "before": "and one of them lands before you, and you the one who's singing it. And you just kind of lands there stopped",
+      "after": "and one of them lands before you, and the one who's singing, and she just kind of lands there, stops",
+      "pass": 2
+    }
+  ],
+  "u1052": [
+    {
+      "before": "of the new ones",
+      "after": "of the remaining ones",
+      "pass": 2
+    }
+  ],
+  "u1070": [
+    {
+      "before": "and I so I will use stunning. Strike. I will. I will. Stunning. Strike that. Okay.",
+      "after": "and I so I will use Stunning Strike. I will. I will. Stunning Strike that. Okay.",
+      "pass": 2
+    }
+  ],
+  "u1092": [
+    {
+      "before": "One",
+      "after": "Slow.",
+      "pass": 2
+    }
+  ],
+  "u1165": [
+    {
+      "before": "that the echo will all. I'll take an opportunity to to",
+      "after": "the echo will—I'll. I'll take an opportunity to to",
+      "pass": 2
+    }
+  ],
+  "u1228": [
+    {
+      "before": "and anyone i'm with",
+      "after": "on anyone i'm with",
+      "pass": 2
+    }
+  ],
+  "u1292": [
+    {
+      "before": "I' a little derogatory in this context.",
+      "after": "It's a little derogatory in this context.",
+      "pass": 2
+    }
+  ],
+  "u1293": [
+    {
+      "before": "maybe, who some asking the 3 of you now like, maybe, who",
+      "after": "maybe, who so I'm asking the 3 of you now like, maybe, who",
+      "pass": 2
+    }
+  ],
+  "u1322": [
+    {
+      "before": "then, I was a guardian.",
+      "after": "No, I was a guardian.",
+      "pass": 2
+    }
+  ],
+  "u1377": [
+    {
+      "before": "I. I'm pretty sure I me. And",
+      "after": "I. I'm pretty sure I'm me. And",
+      "pass": 2
+    }
+  ],
+  "u1412": [
+    {
+      "before": "What is that",
+      "after": "was that",
+      "pass": 2
+    }
+  ],
+  "u1418": [
+    {
+      "before": "as you know",
+      "after": "Do you know",
+      "pass": 2
+    }
+  ],
+  "u1430": [
+    {
+      "before": "There I am. I am not so old as this. Curse",
+      "after": "I am. I am not so old as this. Curse",
+      "pass": 2
+    }
+  ],
+  "u1457": [
+    {
+      "before": "I I that we should keep you.",
+      "after": "I—I think we should keep moving.",
+      "pass": 2
+    }
+  ],
+  "u1492": [
+    {
+      "before": "so should we head on to work over there. Yeah, yeah, let's do it.",
+      "after": "so should we head on toward over there. Yeah, yeah, let's do it.",
+      "pass": 2
+    }
+  ],
+  "u1494": [
+    {
+      "before": "the land and quiet now. But still.",
+      "after": "the land is quiet now. But still.",
+      "pass": 2
+    }
+  ],
+  "u1528": [
+    {
+      "before": "Is there a pillar nearby that week? Yes.",
+      "after": "Is there a pillar nearby that we—? Yes.",
+      "pass": 2
+    }
+  ],
+  "u1541": [
+    {
+      "before": "he also is kind of standing back. He sort it's like leaning on his sword a little bit kind of looking up admiringly like. It's almost like he's taking notes like scouting you for like a a",
+      "after": "Caulaus is kind of standing back. He sort it's like leaning on his sword a little bit kind of looking up admiringly like. It's almost like he's taking notes like scouting you for like a a",
+      "pass": 2
+    }
+  ],
+  "u1568": [
+    {
+      "before": "should be Western.",
+      "after": "should be west and.",
+      "pass": 2
+    }
+  ],
+  "u1586": [
+    {
+      "before": "seeker. Thank you.",
+      "after": "Seeker. Thank you.",
+      "pass": 2
+    }
+  ],
+  "u1660": [
+    {
+      "before": "this form.",
+      "after": "in this form.",
+      "pass": 2
+    }
+  ],
+  "u1799": [
+    {
+      "before": "a word of",
+      "after": "the wood of",
+      "pass": 2
+    }
+  ],
+  "u1834": [
+    {
+      "before": "false traps.",
+      "after": "false trails.",
+      "pass": 2
+    }
+  ],
+  "u1857": [
+    {
+      "before": "from the festival from the",
+      "after": "from the [[festival]] from the",
+      "pass": 2
+    }
+  ],
+  "u1926": [
+    {
+      "before": "let's take this",
+      "after": "let's thank this",
+      "pass": 2
+    }
+  ],
+  "u2048": [
+    {
+      "before": "this rid all planes of Agata.",
+      "after": "this—rid all planes of Agata.",
+      "pass": 2
+    }
+  ],
+  "u2133": [
+    {
+      "before": "I will not attack us.",
+      "after": "She will not attack us.",
+      "pass": 2
+    }
+  ],
+  "u2136": [
+    {
+      "before": "Okay, Put your get. Put yourselves wherever you want.",
+      "after": "Okay, Put your— Put yourselves wherever you want.",
+      "pass": 2
+    }
+  ],
+  "u2262": [
+    {
+      "before": "First you got it all. I had 21",
+      "after": "First you've got to roll. I had 21",
+      "pass": 2
+    }
+  ],
+  "u2296": [
+    {
+      "before": "And then she will turn her hags. Gaze on",
+      "after": "And then she will turn her hag's gaze on",
+      "pass": 2
+    }
+  ],
+  "u2341": [
+    {
+      "before": "the letter.",
+      "after": "the ladder.",
+      "pass": 2
+    }
+  ],
+  "u2400": [
+    {
+      "before": "Okay, a/C: 17.",
+      "after": "Okay, AC 17.",
+      "pass": 2
+    }
+  ],
+  "u2457": [
+    {
+      "before": "He's about to get stunned.",
+      "after": "She's about to get stunned.",
+      "pass": 2
+    }
+  ],
+  "u2479": [
+    {
+      "before": "and then I bonus attack on the sheet. Wait! Did she stunning strike? She's stunned.",
+      "after": "and then I bonus attack on the—she. Wait! Did she stunning strike? She's stunned.",
+      "pass": 2
+    }
+  ],
+  "u2536": [
+    {
+      "before": "Okay, she fails the necrotic blade. She makes the fire that she takes.",
+      "after": "Okay, she fails the necrotic blade. She makes the fire, but she takes.",
+      "pass": 2
+    }
+  ],
+  "u2570": [
+    {
+      "before": "wait. Oh, no, that's the damage role, for how do I do the attack? Roll this one d 20. Just your spell attack it's like a d 20 plus 7. But with a",
+      "after": "wait. Oh, no, that's the damage roll, for how do I do the attack? Roll this one d 20. Just your spell attack it's like a d 20 plus 7. But with a",
+      "pass": 2
+    }
+  ],
+  "u2579": [
+    {
+      "before": "Need you want to play this out?",
+      "after": "Do you want to play this out?",
+      "pass": 2
+    }
+  ],
+  "u2631": [
+    {
+      "before": "And then you see this kind of shimmering blue light. I kind of start traveling up",
+      "after": "And then you see this kind of shimmering blue light kind of start traveling up",
+      "pass": 2
+    }
+  ],
+  "u2656": [
+    {
+      "before": "We destroy?",
+      "after": "We destroyed it?",
+      "pass": 2
+    }
+  ],
+  "u2657": [
+    {
+      "before": "If we did destroy it.",
+      "after": "We did destroy it.",
+      "pass": 2
+    }
+  ],
+  "u2669": [
+    {
+      "before": "do not place an obligation on you to accept any of us.",
+      "after": "do not place an obligation on you to accept any of this.",
+      "pass": 2
+    }
+  ],
+  "u2692": [
+    {
+      "before": "people still wear",
+      "after": "people still where",
+      "pass": 2
+    }
+  ],
+  "u2706": [
+    {
+      "before": "another Fay, who sacrificed himself to",
+      "after": "another fey, who sacrificed himself to",
+      "pass": 2
+    }
+  ],
+  "u2720": [
+    {
+      "before": "the heartwood tree",
+      "after": "the Heartwood Tree",
+      "pass": 2
+    }
+  ],
+  "u2721": [
+    {
+      "before": "part of a tree. Yeah.",
+      "after": "Heartwood Tree. Yeah.",
+      "pass": 2
+    }
+  ],
+  "u2722": [
+    {
+      "before": "I am called the eternal",
+      "after": "I am called the Eternal",
+      "pass": 2
+    }
+  ],
+  "u2749": [
+    {
+      "before": "with the eternal.",
+      "after": "with the Eternal.",
+      "pass": 2
+    }
+  ],
+  "u2801": [
+    {
+      "before": "not. All I remember is true.",
+      "after": "not all I remember is true.",
+      "pass": 2
+    }
+  ],
+  "u2836": [
+    {
+      "before": "mages firing their spells of the enemy.",
+      "after": "mages firing their spells at the enemy.",
+      "pass": 2
+    }
+  ],
+  "u2869": [
+    {
+      "before": "why this name stands out but the Peregrine fellowship",
+      "after": "why this name stands out but the Peregrine Fellowship",
+      "pass": 2
+    }
+  ],
+  "u2872": [
+    {
+      "before": "She was exhausted. Her horse rode almost to death.",
+      "after": "She was exhausted. Her horse ridden almost to death.",
+      "pass": 2
+    }
+  ],
+  "u2878": [
+    {
+      "before": "you know not how.",
+      "after": "I know not how.",
+      "pass": 2
+    }
+  ],
+  "u3011": [
+    {
+      "before": "It's hard to piece together. The time that the distant past is still fragments.",
+      "after": "It's hard to piece together. The time—the distant past is still fragments.",
+      "pass": 2
+    }
+  ],
+  "u3129": [
+    {
+      "before": "not there weren't that many I mean it wasn't designed for it to be easy to figure out right like, unless you had shown the ring to the mirror. You really couldn't have figured it out. I remember we were about to show the ring of the mirror like, like, yeah, there was like one time where it came up, and it was like, oh, we're gonna do it. And then",
+      "after": "not there weren't that many I mean it wasn't designed for it to be easy to figure out right like, unless you had shown the ring to the mirror. You really couldn't have figured it out. I remember we were about to show the ring to the mirror like, like, yeah, there was like one time where it came up, and it was like, oh, we're gonna do it. And then",
+      "pass": 2
+    }
+  ],
+  "u3192": [
+    {
+      "before": "It's subtle. It doesn't look so armor-like as his as his old shadow armor",
+      "after": "It's supple. It doesn't look so armor-like as his as his old shadow armor",
+      "pass": 2
+    }
+  ],
+  "u3236": [
+    {
+      "before": "So okay, it's time to go to bed. But before we go to bed, okay, what did Chat Gpt write? And what did I write",
+      "after": "So okay, it's time to go to bed. But before we go to bed, okay, what did ChatGPT write? And what did I write",
+      "pass": 2
     }
   ]
 }
