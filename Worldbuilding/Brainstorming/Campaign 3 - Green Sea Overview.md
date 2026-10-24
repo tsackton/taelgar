@@ -149,6 +149,32 @@ The largest island needs a Cymean exonym; its local name can wait. These ten opt
 9. **Ravona** (rah-VOH-nah) — rounded, simple, and easy to use at the table.
 10. **Valdora** (val-DOR-ah) — suggests valleys and a gentler, more pastoral mood, if that direction appeals.
 
+### Middle Coast — Common Name Options
+
+Common exonym candidates for the coast of stone towns and maritime communities; South Cymea remains the name for the northern estate country. These options remain unchosen, and their possible origins are brainstorming rather than established geography or trade.
+
+1. **The Silver Coast** — could come from pale beaches, glittering water, or a commodity merchants once bought there.
+2. **The Ochre Coast** — reddish-yellow cliffs, soils, or plaster on the towns would give it an earthy, specific visual identity.
+3. **The White Coast** — pale stone towns or headlands become the defining sight from offshore, particularly fitting the stone-town imagery.
+4. **The Red Coast** — exposed red earth or cliffs give it a straightforward geographic name that leaves culture open.
+5. **The Pearl Coast** — suggests a coastal pearl fishery alongside the larger trading economy, with small settlements supplying wealthy ports.
+6. **The Coral Coast** — ties the shore to reefs and potentially its building stone, if that geology fits.
+7. **The Chalk Coast** — pale headlands visible from offshore give it a more rugged feel than the town-focused White Coast.
+8. **The Painted Coast** — could refer to brightly plastered waterfronts or bands of colored cliffs, giving an evocative name a concrete origin.
+
+### Southern Imperial Region — Cymean Name Options
+
+Cymean exonym candidates for the southern imperial society just west of the mountains. Valentia, Velastra, and Vessara are the current favorites; no name is chosen yet. Reasons describe sounds and possible associations rather than established translations.
+
+1. **Valentia** (vah-LEN-tee-ah) — a current favorite, strongly classical and confident, carrying a sense of civic and imperial continuity.
+2. **Velastra** (veh-LAS-trah) — a current favorite, firmer and more imposing in sound, suited to ceremonial titles and declarations.
+3. **Vessara** (veh-SAH-rah) — a current favorite, compact but stately, with enough weight for a powerful city and its surrounding territory.
+4. **Aurentia** (ow-REN-tee-ah) — a formal, Latinate sound with a warm opening, suggesting an old provincial name preserved by its successor society.
+5. **Castravia** (kas-TRAH-vee-ah) — harder consonants give it a more martial character, fitting fortified cities and an enduring imperial administration.
+6. **Seressa** (seh-RESS-ah) — softer and more conversational, with the doubled consonant giving it some of Vessara's weight while remaining easy to use at the table.
+7. **Talaris** (tah-LAH-riss) — a compact classical sound with a different ending from the other candidates, useful if the realm takes its name from an old capital.
+8. **Ordelia** (or-DEH-lee-ah) — measured and dignified, fitting a settled regional identity with courts, scholars, and a long civic tradition.
+
 ## Links to Gather Around
 
 ### The Sea and Its Shores
