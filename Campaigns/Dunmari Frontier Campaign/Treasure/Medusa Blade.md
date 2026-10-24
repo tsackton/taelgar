@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
-tags: [object, status/check/lint]
+tags: [object]
 typeOf: sword
 subTypeOf: cursed
 destroyed: 1748-11-20
@@ -30,21 +30,4 @@ It was taken from [[Agata's Lair]] by the [[Dunmar Fellowship]] and gifted to [[
 
 %%^povNotes:v1%%
 Temporal coverage: a broadly modern retrospective account through the sword’s destruction in DR 1748; the undated present-tense description of its appearance and powers preserves an earlier layer requiring human reconciliation.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added an explicit name, `knownTo: [dufr]`, persistent primary name metadata, and `POV: modern` with retrospective temporal coverage; normalized frontmatter order.
-- Corrected “it was cursed sword” to “it was a cursed sword”.
-
-### Validated judgments
-- [[Session 69 (DuFr)]] supports the recorded destruction on DR 1748-11-20 and Havdar’s release from the curse.
-- The ordinary name “Medusa Blade” needs no pronunciation guide; its in-world naming language is not established.
-- Reviewed the SECRET block; any recovery proposal remains confined to the private handoff.
-
-### Open findings
-
-- [ ] **Warning — temporal.mixed_current_state:** The undated opening says the sword “is decorated” and “radiates transmutation magic”, and its power description says it “will turn on the bearer”, while the same article and [[Session 69 (DuFr)]] establish its destruction. Choose a consistently retrospective account, or explicitly retain and date the earlier description. A bounded retrospective candidate is: “This longsword, of unknown make, was decorated with reptilian motifs and radiated transmutation magic.” Replace the powers sentence with: “It granted the bearer the power to turn those they struck to stone, but would turn on the bearer as well, if given the chance.” Retain the supported destruction and release. Any new `Date:*` wrapper remains a human visibility decision.
 %%^End%%

@@ -1,0 +1,1404 @@
+{
+  "u0001": [
+    {
+      "before": "We'll start in the farewell. But If there's any like",
+      "after": "We'll start in the Feywild. But if there's any like",
+      "pass": 1
+    }
+  ],
+  "u0003": [
+    {
+      "before": "Let me now.",
+      "after": "Let me know.",
+      "pass": 1
+    }
+  ],
+  "u0008": [
+    {
+      "before": "So I I mean, I think you're feel free to like discuss",
+      "after": "So I I mean, I think you're free to like discuss",
+      "pass": 1
+    }
+  ],
+  "u0011": [
+    {
+      "before": "There's gonna be time to role, play like both meeting this random guy",
+      "after": "There's gonna be time to role-play like both meeting this random guy",
+      "pass": 1
+    }
+  ],
+  "u0015": [
+    {
+      "before": "and touching up on plot. So we don't need to do a lot of plot 3 caps at the moment",
+      "after": "and touching up on plot. So we don't need to do a lot of plot recaps at the moment",
+      "pass": 1
+    }
+  ],
+  "u0016": [
+    {
+      "before": "A. And just met. It might be better to save too much recapping for.",
+      "after": "And just meta. It might be better to save too much recapping for.",
+      "pass": 1
+    }
+  ],
+  "u0020": [
+    {
+      "before": "kenza also is just showing up right. It's like a period.",
+      "after": "Kenzo also is just showing up right. It's like appeared.",
+      "pass": 1
+    }
+  ],
+  "u0021": [
+    {
+      "before": "You yeah, you've now. So Kento has been here for maybe.",
+      "after": "You yeah, you've now. So Kenzo has been here for maybe.",
+      "pass": 1
+    }
+  ],
+  "u0030": [
+    {
+      "before": "2 of them laughed.",
+      "after": "2 of them left.",
+      "pass": 1
+    }
+  ],
+  "u0031": [
+    {
+      "before": "and one stayed behind, and then we'll be showing up, and that's where we're going to pick up sort of",
+      "after": "and one stayed behind, and then Wellby showing up, and that's where we're going to pick up sort of",
+      "pass": 1
+    }
+  ],
+  "u0032": [
+    {
+      "before": "the moment while they arise",
+      "after": "the moment Wellby arrives",
+      "pass": 1
+    }
+  ],
+  "u0038": [
+    {
+      "before": "last light falls in the Fay realm of amberglow",
+      "after": "Lastlight Falls in the Fay realm of amberglow",
+      "pass": 1
+    },
+    {
+      "before": "Lastlight Falls in the Fay realm of amberglow",
+      "after": "Lastlight Falls in the fey realm of Amberglow",
+      "pass": 1
+    }
+  ],
+  "u0041": [
+    {
+      "before": "the last leg of the day catching the spray and turning it to a glittering rainbow",
+      "after": "the last light of the day catching the spray and turning it to a glittering rainbow",
+      "pass": 1
+    }
+  ],
+  "u0042": [
+    {
+      "before": "in the empty, desolate realm of amberglow. This remains one of the few places all are in safety",
+      "after": "in the empty, desolate realm of amberglow. This remains one of the few places [[all are in safety]]",
+      "pass": 1
+    },
+    {
+      "before": "in the empty, desolate realm of amberglow. This remains one of the few places [[all are in safety]]",
+      "after": "in the empty, desolate realm of Amberglow. This remains one of the few places [[all are in safety]]",
+      "pass": 1
+    }
+  ],
+  "u0043": [
+    {
+      "before": "as a group of travelers gather here, some reunited after long separation, and others Booly, that",
+      "after": "as a group of travelers gather here, some reunited after long separation, and others [[Booly, that]]",
+      "pass": 1
+    }
+  ],
+  "u0044": [
+    {
+      "before": "the cloud spinners feels their presence even from her prison far away, and she drifts in thought.",
+      "after": "the Cloudspinner feels their presence even from her prison far away, and she drifts in thought.",
+      "pass": 1
+    }
+  ],
+  "u0045": [
+    {
+      "before": "He remembers the days of plenty in amberglow",
+      "after": "She remembers the days of plenty in amberglow",
+      "pass": 1
+    },
+    {
+      "before": "She remembers the days of plenty in amberglow",
+      "after": "She remembers the days of plenty in Amberglow",
+      "pass": 1
+    }
+  ],
+  "u0046": [
+    {
+      "before": "when she ruled as the Queen of Sunsets, when the glorious colors of the evening sun turned the sky in the grass",
+      "after": "when she ruled as the Queen of Sunsets, when the glorious colors of the evening sun turned the sky and the grass",
+      "pass": 1
+    }
+  ],
+  "u0049": [
+    {
+      "before": "When her car dazzled any who came with her beauty and elegance.",
+      "after": "When her court dazzled any who came with its beauty and elegance.",
+      "pass": 1
+    }
+  ],
+  "u0050": [
+    {
+      "before": "she remembers the fateful day. She was tricked, bound, and captive. Her tools stole in her life constrained",
+      "after": "she remembers the fateful day. She was tricked, bound, and captive. Her tools stolen, her life constrained",
+      "pass": 1
+    }
+  ],
+  "u0055": [
+    {
+      "before": "Her current. Court and servants fled or lost, save the few who hung on",
+      "after": "Her court and servants fled or lost, save the few who hung on",
+      "pass": 1
+    }
+  ],
+  "u0058": [
+    {
+      "before": "she remembers the darkness that crept over her around them, the cursed ones, the hags and tricksters and malicious spirits",
+      "after": "she remembers the darkness that crept over her realm, the cursed ones, the hags and tricksters and malicious spirits",
+      "pass": 1
+    }
+  ],
+  "u0059": [
+    {
+      "before": "of the unseely cart",
+      "after": "of the Unseelie Court",
+      "pass": 1
+    }
+  ],
+  "u0060": [
+    {
+      "before": "who came after. She was God who conquered and claimed amber Glow as their own.",
+      "after": "who came after she was gone who conquered and claimed amber Glow as their own.",
+      "pass": 1
+    },
+    {
+      "before": "who came after she was gone who conquered and claimed amber Glow as their own.",
+      "after": "who came after she was gone who conquered and claimed Amberglow as their own.",
+      "pass": 1
+    }
+  ],
+  "u0061": [
+    {
+      "before": "who filled the round with darkness and despair.",
+      "after": "who filled the realm with darkness and despair.",
+      "pass": 1
+    }
+  ],
+  "u0062": [
+    {
+      "before": "She remembers how they hunted down her remaining subjects, and how they desecrated the places that had what's held such beauty and light.",
+      "after": "She remembers how they hunted down her remaining subjects, and how they desecrated the places that had once held such beauty and light.",
+      "pass": 1
+    }
+  ],
+  "u0065": [
+    {
+      "before": "Iphina, the protector of the Heartward Grove.",
+      "after": "Typhina, the protector of the Heartwood Grove.",
+      "pass": 1
+    }
+  ],
+  "u0066": [
+    {
+      "before": "Therein the Lady of the Lake, who drained the river of Time",
+      "after": "[[Therein]] the Lady of the Lake, who drained the River of Time",
+      "pass": 1
+    }
+  ],
+  "u0067": [
+    {
+      "before": "ballot, or the changeling King, who sacrificed himself to hide the ruins of the flag palace from those that would mean harm.",
+      "after": "[[ballot, or]] the Changeling King, who sacrificed himself to hide the ruins of the Cloud Palace from those that would mean harm.",
+      "pass": 1
+    }
+  ],
+  "u0070": [
+    {
+      "before": "And as our story fades from the Cloud Spinner and turns now to the travelers, at last light falls you may yet have a small role to play in the story of Amber Globe.",
+      "after": "And as our story fades from the Cloud Spinner and turns now to the travelers, at Lastlight Falls you may yet have a small role to play in the story of Amber Globe.",
+      "pass": 1
+    },
+    {
+      "before": "And as our story fades from the Cloud Spinner and turns now to the travelers, at Lastlight Falls you may yet have a small role to play in the story of Amber Globe.",
+      "after": "And as our story fades from the Cloudspinner and turns now to the travelers, at Lastlight Falls you may yet have a small role to play in the story of Amberglow.",
+      "pass": 1
+    }
+  ],
+  "u0073": [
+    {
+      "before": "What's the start.",
+      "after": "Who wants to start.",
+      "pass": 1
+    }
+  ],
+  "u0074": [
+    {
+      "before": "Alice",
+      "after": "Caulaus",
+      "pass": 1
+    }
+  ],
+  "u0088": [
+    {
+      "before": "as well traveled.",
+      "after": "is well traveled.",
+      "pass": 1
+    }
+  ],
+  "u0090": [
+    {
+      "before": "sort of a he has a tavern which is tattered. It's a bit fallen apart. It's not in very good shape. You can just see",
+      "after": "sort of a he has a tabard which is tattered. It's a bit fallen apart. It's not in very good shape. You can just see",
+      "pass": 1
+    }
+  ],
+  "u0095": [
+    {
+      "before": "kenzel.",
+      "after": "Kenzo.",
+      "pass": 1
+    }
+  ],
+  "u0096": [
+    {
+      "before": "So Kenzo would recognize that some writing and drink Quarian underneath the free.",
+      "after": "So Kenzo would recognize there's some writing in Drankorian underneath the three.",
+      "pass": 1
+    }
+  ],
+  "u0099": [
+    {
+      "before": "Silvas legion.",
+      "after": "[[Silvas]] Legion.",
+      "pass": 1
+    }
+  ],
+  "u0100": [
+    {
+      "before": "and there's a rank insignia on the Talbot, too.",
+      "after": "and there's a rank insignia on the tabard, too.",
+      "pass": 1
+    }
+  ],
+  "u0102": [
+    {
+      "before": "so call it.",
+      "after": "So Caulaus.",
+      "pass": 1
+    }
+  ],
+  "u0105": [
+    {
+      "before": "Seeker White Keys was with Seeker clearly, but not",
+      "after": "Seeker like he was with Seeker clearly, but not",
+      "pass": 1
+    }
+  ],
+  "u0110": [
+    {
+      "before": "he looks deeply lost, and thought",
+      "after": "he looks deeply lost in thought",
+      "pass": 1
+    }
+  ],
+  "u0112": [
+    {
+      "before": "Speaker is more or less the seeker that you know.",
+      "after": "Seeker is more or less the Seeker that you know.",
+      "pass": 1
+    }
+  ],
+  "u0121": [
+    {
+      "before": "a dog r",
+      "after": "[[a dog r]]",
+      "pass": 1
+    }
+  ],
+  "u0122": [
+    {
+      "before": "to the secret.",
+      "after": "to Seeker.",
+      "pass": 1
+    }
+  ],
+  "u0128": [
+    {
+      "before": "beard and me.",
+      "after": "beard and mane.",
+      "pass": 1
+    }
+  ],
+  "u0131": [
+    {
+      "before": "from his. I dwarven forehead",
+      "after": "from his high dwarven forehead",
+      "pass": 1
+    }
+  ],
+  "u0138": [
+    {
+      "before": "as you got the wet.",
+      "after": "[[as you got the wet.]]",
+      "pass": 1
+    }
+  ],
+  "u0145": [
+    {
+      "before": "glaring it on his hand at the moment it's it.",
+      "after": "wearing it on his hand at the moment it's it.",
+      "pass": 1
+    }
+  ],
+  "u0147": [
+    {
+      "before": "firm was built, but",
+      "after": "[[firm was built, but]]",
+      "pass": 1
+    }
+  ],
+  "u0154": [
+    {
+      "before": "elaborate dwarven rune-covered saddle that we recovered from the Dragon's horde on him and his his matching armor looking very",
+      "after": "elaborate dwarven rune-covered saddle that we recovered from the dragon's hoard on him and his his matching armor looking very",
+      "pass": 1
+    }
+  ],
+  "u0156": [
+    {
+      "before": "will be dressed a little incongruously in in sort of sailors clothes. The short pants gathered just below the knee, and barefoot",
+      "after": "Wellby dressed a little incongruously in in sort of sailors clothes. The short pants gathered just below the knee, and barefoot",
+      "pass": 1
+    }
+  ],
+  "u0157": [
+    {
+      "before": "and loose tunic, with the quiver of arrows at his side, sort of the other in a wide straw sailor's hat and a deep deep tan.",
+      "after": "and loose tunic, with the quiver of arrows at his side, sword at the other in a wide straw sailor's hat and a deep deep tan.",
+      "pass": 1
+    }
+  ],
+  "u0158": [
+    {
+      "before": "You never seen a like this before.",
+      "after": "You've never seen him like this before.",
+      "pass": 1
+    }
+  ],
+  "u0162": [
+    {
+      "before": "I i'll give Kenza a chance before I, but",
+      "after": "I i'll give Kenzo a chance before I, but",
+      "pass": 1
+    }
+  ],
+  "u0166": [
+    {
+      "before": "a man and armor start striding towards him like he wants to ask a question.",
+      "after": "a man in armor starts striding towards him like he wants to ask a question.",
+      "pass": 1
+    }
+  ],
+  "u0168": [
+    {
+      "before": "I don't want to take away cogs, so go ahead.",
+      "after": "I don't want to take away Kong's, so go ahead.",
+      "pass": 1
+    }
+  ],
+  "u0169": [
+    {
+      "before": "Well, Bobby doesn't come through a gate. He just appears okay as soon as he appears.",
+      "after": "Wellby doesn't come through a gate. He just appears okay as soon as he appears.",
+      "pass": 1
+    }
+  ],
+  "u0175": [
+    {
+      "before": "He books.",
+      "after": "He looks.",
+      "pass": 1
+    }
+  ],
+  "u0182": [
+    {
+      "before": "and he's got his hair tied back, you know as as it's been before, but you notice it's you know it's tied back with what looks like, you know either either ranching or or some type of like, you know, just living something, you know. It looks like something that came from a jungle, or it came from someplace alive.",
+      "after": "and he's got his hair tied back, you know as as it's been before, but you notice it's you know it's tied back with what looks like, you know either either branching or or some type of like, you know, just living something, you know. It looks like something that came from a jungle, or it came from someplace alive.",
+      "pass": 1
+    }
+  ],
+  "u0183": [
+    {
+      "before": "tied back a few grades back. He's got a couple of your pierces now that you've noticed a little a little",
+      "after": "tied back a few braids back. He's got a couple of ear piercings now that you've noticed a little a little",
+      "pass": 1
+    }
+  ],
+  "u0197": [
+    {
+      "before": "His staff, the staff, is sitting out, laid across from his they across his lab, and",
+      "after": "His staff, the staff, is sitting out, laid across from his—across his lap, and",
+      "pass": 1
+    }
+  ],
+  "u0198": [
+    {
+      "before": "you recognize and definitely can tell that there appear to be more rooms cut into the bottom, that there's been more carvings, and so on. etched into the bottom, and you will also notice at the top of the staff.",
+      "after": "you recognize and definitely can tell that there appear to be more runes cut into the bottom, that there's been more carvings, and so on. etched into the bottom, and you will also notice at the top of the staff.",
+      "pass": 1
+    }
+  ],
+  "u0200": [
+    {
+      "before": "again feels like alive like there's actual like plants like roaming, and some strange berries, and strange kind of colored plants that you have never seen before. Kind of wrapped around the top of the staff around where where the jade is.",
+      "after": "again feels like alive like there's actual like plants like growing, and some strange berries, and strange kind of colored plants that you have never seen before. Kind of wrapped around the top of the staff around where where the jade is.",
+      "pass": 1
+    }
+  ],
+  "u0204": [
+    {
+      "before": "Robin.",
+      "after": "[[Robin.]]",
+      "pass": 1
+    }
+  ],
+  "u0214": [
+    {
+      "before": "They're ready to you. Speak, Craig?",
+      "after": "[[They're ready to you. Speak, Craig?]]",
+      "pass": 1
+    }
+  ],
+  "u0215": [
+    {
+      "before": "Yeah, I do, he he calls out. Just a hello and drink Quarian.",
+      "after": "Yeah, I do, he he calls out. Just a hello and Drankorian.",
+      "pass": 1
+    }
+  ],
+  "u0217": [
+    {
+      "before": "do you secret? And I know who this is.",
+      "after": "do Seeker and I know who this is.",
+      "pass": 1
+    }
+  ],
+  "u0218": [
+    {
+      "before": "Speaker does.",
+      "after": "Seeker does.",
+      "pass": 1
+    }
+  ],
+  "u0224": [
+    {
+      "before": "Drake Korean, and then",
+      "after": "Drankorian, and then",
+      "pass": 1
+    }
+  ],
+  "u0234": [
+    {
+      "before": "Kallas Apportino, captain of the third Syllabus Legion.",
+      "after": "Caulaus [[Apportino]], captain of the third [[Syllabus]] Legion.",
+      "pass": 1
+    }
+  ],
+  "u0235": [
+    {
+      "before": "I'm seeking news of improvestion.",
+      "after": "I'm seeking news of Emperor Vestian.",
+      "pass": 1
+    }
+  ],
+  "u0236": [
+    {
+      "before": "callous your whoever you are, just to just pause for 1 s.",
+      "after": "Caulaus, or whoever you are, just to just pause for 1 s.",
+      "pass": 1
+    }
+  ],
+  "u0237": [
+    {
+      "before": "Well done.",
+      "after": "Wellby.",
+      "pass": 1
+    }
+  ],
+  "u0245": [
+    {
+      "before": "yeah. Baxter. Humans is head down for chin scratches.",
+      "after": "yeah. Baxter. lowers his head down for chin scratches.",
+      "pass": 1
+    }
+  ],
+  "u0250": [
+    {
+      "before": "seeker. Maybe you can shut a little bit more like on.",
+      "after": "seeker. Maybe you can shed a little bit more light on.",
+      "pass": 1
+    }
+  ],
+  "u0256": [
+    {
+      "before": "bring it on clear.",
+      "after": "[[bring it on clear.]]",
+      "pass": 1
+    }
+  ],
+  "u0257": [
+    {
+      "before": "The exact timelines involved reminds me a bit of deal with. Actually, you know what I mean.",
+      "after": "The exact timelines involved reminds me a bit of Delwath. Actually, you know what I mean.",
+      "pass": 1
+    }
+  ],
+  "u0263": [
+    {
+      "before": "and progression",
+      "after": "Emperor Vestian.",
+      "pass": 1
+    }
+  ],
+  "u0264": [
+    {
+      "before": "to better that ever.",
+      "after": "[[to better that ever.]]",
+      "pass": 1
+    }
+  ],
+  "u0268": [
+    {
+      "before": "I'll I to make extra check.",
+      "after": "I'll I to make a history check.",
+      "pass": 1
+    }
+  ],
+  "u0274": [
+    {
+      "before": "studied this long, long list of drink, Orion, and then Chardonian emperors",
+      "after": "studied this long, long list of Drankorian, and then Chardonian emperors",
+      "pass": 1
+    }
+  ],
+  "u0275": [
+    {
+      "before": "at 1 point in with Kaiso, and he was sort of like you don't care about this. I don't care about this. It was like it was like that time I skimmed that J. George, our our Martin book.",
+      "after": "at 1 point in with Kaeso, and he was sort of like you don't care about this. I don't care about this. It was like it was like that time I skimmed that George R. R. Martin book.",
+      "pass": 1
+    }
+  ],
+  "u0278": [
+    {
+      "before": "I I should say I'm grateful to call us for helping to lead. But",
+      "after": "I I should say I'm grateful to Caulaus for helping to lead. But",
+      "pass": 1
+    }
+  ],
+  "u0280": [
+    {
+      "before": "apparently this is our one chance to get on.",
+      "after": "apparently this is our one chance to get home.",
+      "pass": 1
+    }
+  ],
+  "u0284": [
+    {
+      "before": "drink or still stands. Yes.",
+      "after": "Drankor still stands. Yes.",
+      "pass": 1
+    }
+  ],
+  "u0295": [
+    {
+      "before": "Distance, time",
+      "after": "Distant time",
+      "pass": 1
+    }
+  ],
+  "u0300": [
+    {
+      "before": "drank Our can't have been forgotten.",
+      "after": "Drankor can't have been forgotten.",
+      "pass": 1
+    }
+  ],
+  "u0301": [
+    {
+      "before": "We know of drink.",
+      "after": "We know of Drankor.",
+      "pass": 1
+    }
+  ],
+  "u0302": [
+    {
+      "before": "I speak in Jan Cory into him it is not forgotten.",
+      "after": "I speak in Drankorian to him it is not forgotten.",
+      "pass": 1
+    }
+  ],
+  "u0307": [
+    {
+      "before": "You know of the i'm for a paulion.",
+      "after": "You know of the Emperor Apollyon.",
+      "pass": 1
+    }
+  ],
+  "u0312": [
+    {
+      "before": "how did you end up here in the Fay wild again?",
+      "after": "how did you end up here in the Feywild again?",
+      "pass": 1
+    }
+  ],
+  "u0321": [
+    {
+      "before": "Then I believe",
+      "after": "Than I believe",
+      "pass": 1
+    }
+  ],
+  "u0329": [
+    {
+      "before": "trying to hold reinforcements, trying to hold out until reinforcements arrived from drink or an improvestion",
+      "after": "trying to hold reinforcements, trying to hold out until reinforcements arrived from Drankor and Emperor Vestian",
+      "pass": 1
+    }
+  ],
+  "u0338": [
+    {
+      "before": "we're flying overhead. I remember that. Why, that nothing at",
+      "after": "were flying overhead. I remember that. [[Why, that nothing at]]",
+      "pass": 1
+    }
+  ],
+  "u0354": [
+    {
+      "before": "and and and i'll turn to blackness after that.",
+      "after": "and and and all turned to blackness after that.",
+      "pass": 1
+    }
+  ],
+  "u0356": [
+    {
+      "before": "escaping baby",
+      "after": "escaping maybe",
+      "pass": 1
+    }
+  ],
+  "u0361": [
+    {
+      "before": "placed by ancient Alvin Magic.",
+      "after": "placed by ancient elven magic.",
+      "pass": 1
+    }
+  ],
+  "u0377": [
+    {
+      "before": "what we call learning about.",
+      "after": "recall learning about.",
+      "pass": 1
+    }
+  ],
+  "u0387": [
+    {
+      "before": "Tim. This thing, apart from what we've seen with garage, this thing of like raising",
+      "after": "Tim. This thing, apart from what we've seen with [[garage]], this thing of like raising",
+      "pass": 1
+    }
+  ],
+  "u0389": [
+    {
+      "before": "His last name.",
+      "after": "[[His last name.]]",
+      "pass": 1
+    }
+  ],
+  "u0390": [
+    {
+      "before": "You like it.",
+      "after": "[[You like it.]]",
+      "pass": 1
+    }
+  ],
+  "u0394": [
+    {
+      "before": "tails. Right, that",
+      "after": "tales. Right, that",
+      "pass": 1
+    }
+  ],
+  "u0395": [
+    {
+      "before": "necromance, or some sort of necromancer charges under the field. And",
+      "after": "necromancer some sort of necromancer charges onto the field. And",
+      "pass": 1
+    }
+  ],
+  "u0417": [
+    {
+      "before": "Emperor Helena.",
+      "after": "Emperor [[Helena]].",
+      "pass": 1
+    }
+  ],
+  "u0429": [
+    {
+      "before": "if it if the ring along with the cloak sector was made on that island.",
+      "after": "if it if the ring along with the cloak, scepter was made on that island.",
+      "pass": 1
+    }
+  ],
+  "u0431": [
+    {
+      "before": "Better game.",
+      "after": "Metagame.",
+      "pass": 1
+    }
+  ],
+  "u0432": [
+    {
+      "before": "Was that what it was? What was the deal with the Allen",
+      "after": "Was that what it was? What was the deal with the island",
+      "pass": 1
+    }
+  ],
+  "u0433": [
+    {
+      "before": "in in High School.",
+      "after": "[[in in High School.]]",
+      "pass": 1
+    }
+  ],
+  "u0436": [
+    {
+      "before": "All we know about you don't. Actually You're going to run about them except your your dreams. We know it from the vision of the center of command, and you don't miss smear",
+      "after": "All we know about you don't. Actually [[You're going to run about them]] except your your dreams. We know it from the vision of the Scepter of Command, and [[you don't miss smear]]",
+      "pass": 1
+    }
+  ],
+  "u0440": [
+    {
+      "before": "So I'm, looking back at the notes on the receptor of command.",
+      "after": "So I'm, looking back at the notes on the Scepter of Command.",
+      "pass": 1
+    }
+  ],
+  "u0462": [
+    {
+      "before": "all as that giant with the cauldron.",
+      "after": "Caulaus, that giant with the cauldron.",
+      "pass": 1
+    }
+  ],
+  "u0472": [
+    {
+      "before": "to be wild",
+      "after": "to Feywild",
+      "pass": 1
+    }
+  ],
+  "u0476": [
+    {
+      "before": "the the and fluid of transition is.",
+      "after": "[[the the and fluid of transition is.]]",
+      "pass": 1
+    }
+  ],
+  "u0479": [
+    {
+      "before": "We're just deal with the wild.",
+      "after": "We're just Delwath the Wild.",
+      "pass": 1
+    }
+  ],
+  "u0481": [
+    {
+      "before": "who is deal with.",
+      "after": "who is Delwath.",
+      "pass": 1
+    }
+  ],
+  "u0482": [
+    {
+      "before": "Is this the Mon itself?",
+      "after": "Is this the monk I saw?",
+      "pass": 1
+    }
+  ],
+  "u0485": [
+    {
+      "before": "And yet some out, my friend.",
+      "after": "And yet somehow, my friend.",
+      "pass": 1
+    }
+  ],
+  "u0487": [
+    {
+      "before": "That's a great question. Ken.",
+      "after": "That's a great question. Kenzo.",
+      "pass": 1
+    }
+  ],
+  "u0497": [
+    {
+      "before": "I met Kengu. They are great. They're awesome. Oh, those guys",
+      "after": "I met Kenku. They are great. They're awesome. Oh, those guys",
+      "pass": 1
+    }
+  ],
+  "u0501": [
+    {
+      "before": "is a lot of things happen. But long story shirt. I found a wizard who was trapped in a mirror dimension and freed him, and then he sent me here.",
+      "after": "is a lot of things happen. But long story short. I found a wizard who was trapped in a mirror dimension and freed him, and then he sent me here.",
+      "pass": 1
+    }
+  ],
+  "u0505": [
+    {
+      "before": "typhoon, the they spirit trapped in this in this ring that we collected from Gata's layer",
+      "after": "Typhina, the fey spirit trapped in this in this ring that we collected from Agata's lair",
+      "pass": 1
+    }
+  ],
+  "u0508": [
+    {
+      "before": "extremely important, and will be reaches into his back and takes out the little figure of the obsidian fly that we've been. He's been carrying around ever since he got his layer",
+      "after": "extremely important, and Wellby reaches into his bag and takes out the little figure of the obsidian fly that we've been. He's been carrying around ever since Agata's lair",
+      "pass": 1
+    }
+  ],
+  "u0509": [
+    {
+      "before": "to me and fly that won't ever follow directions",
+      "after": "the damn fly that won't ever follow directions",
+      "pass": 1
+    }
+  ],
+  "u0517": [
+    {
+      "before": "and burn the body.",
+      "after": "we burned the body.",
+      "pass": 1
+    }
+  ],
+  "u0520": [
+    {
+      "before": "and Gata once once lived here",
+      "after": "and Agata once once lived here",
+      "pass": 1
+    }
+  ],
+  "u0527": [
+    {
+      "before": "The colors all drained from it. Yes, of course, and and and the lady even tied, gave me this this thread and red, I think, is supposed to",
+      "after": "The colors all drained from it. Yes, of course, and and and the Lady Eventide, gave me this this thread and red, I think, is supposed to",
+      "pass": 1
+    }
+  ],
+  "u0529": [
+    {
+      "before": "of sunset on the other side of the falls where we're trying to get back to",
+      "after": "the Sunset Gate on the other side of the falls where we're trying to get back to",
+      "pass": 1
+    }
+  ],
+  "u0531": [
+    {
+      "before": "to Talgar.",
+      "after": "to Taelgar.",
+      "pass": 1
+    }
+  ],
+  "u0543": [
+    {
+      "before": "Call us draws his sword.",
+      "after": "Caulaus draws his sword.",
+      "pass": 1
+    }
+  ],
+  "u0548": [
+    {
+      "before": "You can see like Dots lobby is the only one who's got good enough perception to actually make out any shape.",
+      "after": "You can see like dots. Wellby is the only one who's got good enough perception to actually make out any shape.",
+      "pass": 1
+    }
+  ],
+  "u0549": [
+    {
+      "before": "didn't we build a telescope for will be",
+      "after": "didn't we build a telescope for Wellby",
+      "pass": 1
+    }
+  ],
+  "u0552": [
+    {
+      "before": "how to spyglass?",
+      "after": "got a spyglass?",
+      "pass": 1
+    }
+  ],
+  "u0555": [
+    {
+      "before": "let us Harry.",
+      "after": "let us hurry.",
+      "pass": 1
+    }
+  ],
+  "u0559": [
+    {
+      "before": "cullis splits off from him.",
+      "after": "Caulaus splits off from him.",
+      "pass": 1
+    }
+  ],
+  "u0587": [
+    {
+      "before": "Melissa!",
+      "after": "Melusine!",
+      "pass": 1
+    }
+  ],
+  "u0593": [
+    {
+      "before": "my Lucine was one of the few",
+      "after": "Melusine was one of the few",
+      "pass": 1
+    }
+  ],
+  "u0594": [
+    {
+      "before": "of the Cloud Spinners",
+      "after": "of the Cloudspinner's",
+      "pass": 1
+    }
+  ],
+  "u0600": [
+    {
+      "before": "the heart would grow.",
+      "after": "the Heartwood Grove.",
+      "pass": 1
+    }
+  ],
+  "u0601": [
+    {
+      "before": "Seeker looks up nervously at this guy. And how do we get you out of this ring?",
+      "after": "Seeker looks up nervously at the sky. And how do we get you out of this ring?",
+      "pass": 1
+    }
+  ],
+  "u0608": [
+    {
+      "before": "in the grow.",
+      "after": "in the grove.",
+      "pass": 1
+    }
+  ],
+  "u0625": [
+    {
+      "before": "Where's the street? I didn't.",
+      "after": "Where's this tree? I didn't.",
+      "pass": 1
+    }
+  ],
+  "u0626": [
+    {
+      "before": "It is in the center of the Hartwood grove",
+      "after": "It is in the center of the Heartwood Grove",
+      "pass": 1
+    }
+  ],
+  "u0637": [
+    {
+      "before": "knows to me, but you never met her. You have a vague sense of where her",
+      "after": "Melusine, but you never met her. You have a vague sense of where her",
+      "pass": 1
+    }
+  ],
+  "u0640": [
+    {
+      "before": "have this vague memory of of this one's vibrant pool.",
+      "after": "have this vague memory of of this once vibrant pool.",
+      "pass": 1
+    }
+  ],
+  "u0644": [
+    {
+      "before": "also sort of set off towards like. He seems like he knows where he's going, at least generally",
+      "after": "I'll sort of set off towards like. He seems like he knows where he's going, at least generally",
+      "pass": 1
+    }
+  ],
+  "u0655": [
+    {
+      "before": "they do seem to be gaining on you a little bit. So my soul slide callous.",
+      "after": "they do seem to be gaining on you a little bit. So I soul-sight Caulaus.",
+      "pass": 1
+    }
+  ],
+  "u0658": [
+    {
+      "before": "well, 10 just as strong as you are.",
+      "after": "Well, Ken just as strong as you are.",
+      "pass": 1
+    }
+  ],
+  "u0674": [
+    {
+      "before": "I mean you've soul cited lots of people in your life right during the past 9, almost 10 months since you",
+      "after": "I mean you've soul-sighted lots of people in your life right during the past 9, almost 10 months since you",
+      "pass": 1
+    }
+  ],
+  "u0678": [
+    {
+      "before": "a tinge on human about him.",
+      "after": "a tinge unhuman about him.",
+      "pass": 1
+    }
+  ],
+  "u0679": [
+    {
+      "before": "perhaps from long exposure to the faint wild.",
+      "after": "perhaps from long exposure to the Feywild.",
+      "pass": 1
+    }
+  ],
+  "u0680": [
+    {
+      "before": "what order are you in as you run. So callous is in the front of the back",
+      "after": "what order are you in as you run. So callous is in the front and the back",
+      "pass": 1
+    },
+    {
+      "before": "what order are you in as you run. So callous is in the front and the back",
+      "after": "what order are you in as you run. So Caulaus is in the front and the back",
+      "pass": 1
+    }
+  ],
+  "u0683": [
+    {
+      "before": "Ken does in the middle.",
+      "after": "Kenzo's in the middle.",
+      "pass": 1
+    }
+  ],
+  "u0696": [
+    {
+      "before": "a more open plane. But there's these occasional like big, jagged",
+      "after": "a more open plain. But there's these occasional like big, jagged",
+      "pass": 1
+    }
+  ],
+  "u0699": [
+    {
+      "before": "yeah, that sort of jot up across the plane. You get the sense that you know it's all despite the fact that it's sunlight. They're all sort of gray flat.",
+      "after": "yeah, that sort of jut up across the plain. You get the sense that you know it's all despite the fact that it's sunlight. They're all sort of gray flat.",
+      "pass": 1
+    }
+  ],
+  "u0701": [
+    {
+      "before": "like all sorts of reds and ochre and orange hues from the color of the sunset sort of like a row of sort of almost like decorative killers",
+      "after": "like all sorts of reds and ochre and orange hues from the color of the sunset sort of like a row of sort of almost like decorative pillars",
+      "pass": 1
+    }
+  ],
+  "u0702": [
+    {
+      "before": "scattered across the plane. But at the moment.",
+      "after": "scattered across the plain. But at the moment.",
+      "pass": 1
+    }
+  ],
+  "u0711": [
+    {
+      "before": "There are few friends in the Amberg oil.",
+      "after": "There are few friends in the Amberglow.",
+      "pass": 1
+    }
+  ],
+  "u0721": [
+    {
+      "before": "We'll be. Where can we find",
+      "after": "Wellby. Where can we find",
+      "pass": 1
+    }
+  ],
+  "u0724": [
+    {
+      "before": "Let's find a defensible position. Kansas.",
+      "after": "Let's find a defensible position. Kenzo.",
+      "pass": 1
+    }
+  ],
+  "u0740": [
+    {
+      "before": "Them? they close enough to start to the cell site.",
+      "after": "Them? they close enough to start to soul-sight.",
+      "pass": 1
+    }
+  ],
+  "u0745": [
+    {
+      "before": "Him. I've used charges of things.",
+      "after": "Tim. I've used charges of things.",
+      "pass": 1
+    }
+  ],
+  "u0751": [
+    {
+      "before": "Let's head for the Castle point to one of the pillars. Let's head there.",
+      "after": "Let's head for the —I'll point to one of the pillars. Let's head there.",
+      "pass": 1
+    }
+  ],
+  "u0760": [
+    {
+      "before": "I think the first letter was destroyed. The trusty matter was destroyed by the",
+      "after": "I think the first ladder was destroyed. The trusty ladder was destroyed by the",
+      "pass": 1
+    }
+  ],
+  "u0761": [
+    {
+      "before": "I have a letter",
+      "after": "I have a ladder",
+      "pass": 1
+    }
+  ],
+  "u0763": [
+    {
+      "before": "I mean 10. These These pillars like the hope is that there's like an underhang or something, so that",
+      "after": "I mean Tim. These These pillars like the hope is that there's like an underhang or something, so that",
+      "pass": 1
+    }
+  ],
+  "u0764": [
+    {
+      "before": "they would have to wind and come at us to come.",
+      "after": "they would have to land and come at us to come.",
+      "pass": 1
+    }
+  ],
+  "u0772": [
+    {
+      "before": "300 5,300 feet away.",
+      "after": "[[300 5,300]] feet away.",
+      "pass": 1
+    }
+  ],
+  "u0777": [
+    {
+      "before": "a crouch with your backs against the wall under this overhang, which makes it but would make it very difficult for something to tack you from above.",
+      "after": "a crouch with your backs against the wall under this overhang, which makes it but would make it very difficult for something to attack you from above.",
+      "pass": 1
+    }
+  ],
+  "u0779": [
+    {
+      "before": "well callous Kenzo, and",
+      "after": "well Caulaus Kenzo, and",
+      "pass": 1
+    }
+  ],
+  "u0780": [
+    {
+      "before": "well be here this like horrible screeching, cackling",
+      "after": "Wellby hear this like horrible screeching, cackling",
+      "pass": 1
+    }
+  ],
+  "u0784": [
+    {
+      "before": "and give them Daso, please.",
+      "after": "and give them [[Daso, please]].",
+      "pass": 1
+    }
+  ],
+  "u0789": [
+    {
+      "before": "If you just come and hand over Dasa cleans to them.",
+      "after": "If you just come and hand over [[Dasa cleans]] to them.",
+      "pass": 1
+    }
+  ],
+  "u0792": [
+    {
+      "before": "The typh in here?",
+      "after": "The Typhina?",
+      "pass": 1
+    }
+  ],
+  "u0799": [
+    {
+      "before": "because of the ring. Oh, yeah, you do get an advantage on saving curs to be charmed.",
+      "after": "because of the ring. Oh, yeah, you do get an advantage on saving throws to be charmed.",
+      "pass": 1
+    }
+  ],
+  "u0005": [
+    {
+      "before": "So we made a decision about the typhenia thing which is governing what will happen next.",
+      "after": "So we made a decision about the Typhina thing which is governing what will happen next.",
+      "pass": 1
+    }
+  ],
+  "u0051": [
+    {
+      "before": "amber glow slowly falling into ruin.",
+      "after": "Amberglow slowly falling into ruin.",
+      "pass": 1
+    }
+  ],
+  "u0053": [
+    {
+      "before": "as the color ran out from amber Glow.",
+      "after": "as the color ran out from Amberglow.",
+      "pass": 1
+    }
+  ],
+  "u0063": [
+    {
+      "before": "She also remembers the resistance, the brave Fay and other creatures who fought back, who formed secret alliances and underground networks.",
+      "after": "She also remembers the resistance, the brave fey and other creatures who fought back, who formed secret alliances and underground networks.",
+      "pass": 1
+    }
+  ],
+  "u0068": [
+    {
+      "before": "So she watches and waits, and she hopes for the day when she will be free, and when amberglow will once again be a realm of beauty and wonder.",
+      "after": "So she watches and waits, and she hopes for the day when she will be free, and when Amberglow will once again be a realm of beauty and wonder.",
+      "pass": 1
+    }
+  ],
+  "u0150": [
+    {
+      "before": "Well, wellbe, I think, is just arriving",
+      "after": "Well, Wellby, I think, is just arriving",
+      "pass": 1
+    }
+  ],
+  "u0164": [
+    {
+      "before": "wellbe comes through the gate.",
+      "after": "Wellby comes through the gate.",
+      "pass": 1
+    }
+  ],
+  "u0195": [
+    {
+      "before": "smiles broadly when the wellbe appears out of nowhere.",
+      "after": "smiles broadly when the Wellby appears out of nowhere.",
+      "pass": 1
+    }
+  ],
+  "u0202": [
+    {
+      "before": "as soon as Welby appears.",
+      "after": "as soon as Wellby appears.",
+      "pass": 1
+    }
+  ],
+  "u0209": [
+    {
+      "before": "Hi, I'm. Welby",
+      "after": "Hi, I'm. Wellby",
+      "pass": 1
+    }
+  ],
+  "u0519": [
+    {
+      "before": "yeah, Typhoon is suggesting to me that Amber Glow is is this place that we're in right now, by the way, is is quite dangerous! And she has enemies here.",
+      "after": "yeah, Typhina is suggesting to me that Amberglow is is this place that we're in right now, by the way, is is quite dangerous! And she has enemies here.",
+      "pass": 1
+    }
+  ],
+  "u0521": [
+    {
+      "before": "after the Cloud Spinner departed.",
+      "after": "after the Cloudspinner departed.",
+      "pass": 1
+    }
+  ],
+  "u0532": [
+    {
+      "before": "maybe I should ask Typhoon for advice. Where should we go?",
+      "after": "maybe I should ask Typhina for advice. Where should we go?",
+      "pass": 1
+    }
+  ],
+  "u0565": [
+    {
+      "before": "Typhoon.",
+      "after": "Typhina.",
+      "pass": 1
+    }
+  ],
+  "u0567": [
+    {
+      "before": "disciple of the of the Cloud Spinner?",
+      "after": "disciple of the of the Cloudspinner?",
+      "pass": 1
+    }
+  ],
+  "u0573": [
+    {
+      "before": "yes, I I knew the Cloud Spinner.",
+      "after": "yes, I I knew the Cloudspinner.",
+      "pass": 1
+    }
+  ],
+  "u0653": [
+    {
+      "before": "Typhenia? Says I,",
+      "after": "Typhina? Says I,",
+      "pass": 1
+    }
+  ],
+  "u0659": [
+    {
+      "before": "I don't know what's 3 words to describe what callous is feeling",
+      "after": "I don't know what's 3 words to describe what Caulaus is feeling",
+      "pass": 1
+    }
+  ],
+  "u0715": [
+    {
+      "before": "I am not from the amber glow, although",
+      "after": "I am not from the Amberglow, although",
+      "pass": 1
+    }
+  ],
+  "u0788": [
+    {
+      "before": "They will answer your question. They will satisfy your every curiosity about the wonders of the Fay Wild.",
+      "after": "They will answer your question. They will satisfy your every curiosity about the wonders of the fey Wild.",
+      "pass": 1
+    }
+  ],
+  "u0793": [
+    {
+      "before": "That's probably Typhinia",
+      "after": "That's probably Typhina",
+      "pass": 1
+    }
+  ],
+  "u0798": [
+    {
+      "before": "But you get advantage on charm because of typhenia",
+      "after": "But you get advantage on charm because of Typhina",
+      "pass": 1
+    }
+  ]
+}

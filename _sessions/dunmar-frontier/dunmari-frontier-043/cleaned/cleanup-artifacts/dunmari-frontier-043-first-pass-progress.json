@@ -1,0 +1,11 @@
+{
+  "completedThrough": "u3706",
+  "totalUnits": 3706,
+  "strictSecondPassStarted": false,
+  "ledgerEntries": 1098,
+  "changedUnits": 1097,
+  "ledgerSha256": "d1911a87cc6f7ec9ea061b7aedebb035098869e8269bfa6660a6c0a095d8dff1",
+  "recordState": "historical_first_pass_checkpoint",
+  "ledgerSha256Scope": "Historical serialized ledger at first-pass completion, before the strict second pass; not the current ledger.",
+  "supersededBy": "dunmari-frontier-043-final-validation.json"
+}

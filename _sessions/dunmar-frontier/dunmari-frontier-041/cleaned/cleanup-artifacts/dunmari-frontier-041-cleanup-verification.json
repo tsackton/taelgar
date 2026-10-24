@@ -1,0 +1,174 @@
+{
+  "session": "dunmari-frontier-041",
+  "status": "cleanup_complete_material_review_logged_no_human_acceptance",
+  "branch": "main",
+  "passes": {
+    "first": {
+      "unitCount": 2261,
+      "individuallyInspected": true,
+      "ranges": [
+        [
+          1,
+          270
+        ],
+        [
+          271,
+          560
+        ],
+        [
+          561,
+          860
+        ],
+        [
+          861,
+          1150
+        ],
+        [
+          1151,
+          1450
+        ],
+        [
+          1451,
+          1740
+        ],
+        [
+          1741,
+          2000
+        ],
+        [
+          2001,
+          2261
+        ]
+      ]
+    },
+    "strictSecond": {
+      "unitCount": 2261,
+      "individuallyInspected": true,
+      "purpose": "find missed errors, protected-name collisions, semantic mistakes, and accidental first-pass changes",
+      "ranges": [
+        [
+          1,
+          400
+        ],
+        [
+          401,
+          800
+        ],
+        [
+          801,
+          1200
+        ],
+        [
+          1201,
+          1600
+        ],
+        [
+          1601,
+          2000
+        ],
+        [
+          2001,
+          2261
+        ]
+      ]
+    }
+  },
+  "counts": {
+    "units": 2261,
+    "changedUnits": 952,
+    "replacementPatterns": 1103,
+    "repeatedReplacementPatterns": 87,
+    "markedUnresolvedLines": 67,
+    "markedUnresolvedSpans": 67,
+    "material": {
+      "lines": 25,
+      "spans": 25,
+      "markedLines": 25,
+      "markedSpans": 25,
+      "unmarkedLines": 0,
+      "unmarkedSpans": 0,
+      "issueGroups": 21
+    },
+    "incidental": {
+      "lines": 102,
+      "spans": 102,
+      "markedLines": 42,
+      "markedSpans": 42,
+      "unmarkedLines": 60,
+      "unmarkedSpans": 60,
+      "issueGroups": 102
+    }
+  },
+  "checks": {
+    "exactHeaderBytes": true,
+    "exactUidSequence": true,
+    "oneInputUnitPerOutputUnit": true,
+    "lineEndingPreservation": true,
+    "standardReportValidationErrors": [],
+    "freshFingerprintAgreement": true,
+    "allMarkersAssessed": true,
+    "inventoryUidTextContextMatches": true,
+    "jsonYamlParse": true,
+    "canonicalStandardArtifactsReproducedInMemory": true,
+    "scopedGitDiffCheck": true,
+    "untrackedDeliverableGitDiffNoIndexCheck": true,
+    "onlyExpectedNewSessionFiles": true,
+    "preexistingSessionAndGlossaryFingerprintsPreserved": true
+  },
+  "usage": {
+    "initialRemainingPercent": 96,
+    "finalRemainingPercent": 96,
+    "reportedWindowDurationMins": 10080,
+    "otherWindows": null,
+    "minimumRequiredRemainingPercent": 50,
+    "checkFailed": false
+  },
+  "preservedFiles": {
+    "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-session.yaml": {
+      "before": "a35138888925e70d023c7976b7eeedead9b70fc96c35fbd93b641e25df047d03",
+      "after": "a35138888925e70d023c7976b7eeedead9b70fc96c35fbd93b641e25df047d03"
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-speaker-stats.json": {
+      "before": "c1bf4e6a113194d198198f9b8ce9b860530528ad4fd7f1e49ab38d9a08e363cf",
+      "after": "c1bf4e6a113194d198198f9b8ce9b860530528ad4fd7f1e49ab38d9a08e363cf"
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-source-prepared.md": {
+      "before": "09a7af4c48f28bca6225b02e7863f8475c8f78e32dee10511ae61182661834a8",
+      "after": "09a7af4c48f28bca6225b02e7863f8475c8f78e32dee10511ae61182661834a8"
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-041/sources/zoom-session-041.speaker_mapping.json": {
+      "before": "ba6a8d89b1b3f16a2d551c1d86651b607665125713feece73e20417f5ca20d9b",
+      "after": "ba6a8d89b1b3f16a2d551c1d86651b607665125713feece73e20417f5ca20d9b"
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-041/sources/dunmar-frontier-core-plus-riswynn-participants.yaml": {
+      "before": "a16baa2c0a3fd194ccb64d86c43e27d1e645c3f82a717443252c3da2c12e00ba",
+      "after": "a16baa2c0a3fd194ccb64d86c43e27d1e645c3f82a717443252c3da2c12e00ba"
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-041/sources/GMT20220304-022156_Recording.transcript.vtt": {
+      "before": "28d62cbdfdd7a5dbe200ba0e2dde22117757390a20e9bb345d39ea69edc6da62",
+      "after": "28d62cbdfdd7a5dbe200ba0e2dde22117757390a20e9bb345d39ea69edc6da62"
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-041/sources/dunmar-frontier-session041.yaml": {
+      "before": "0f5d0634a95f57d6a006db2caf353627be19e6d3b97478b1db6b2eb510cd1309",
+      "after": "0f5d0634a95f57d6a006db2caf353627be19e6d3b97478b1db6b2eb510cd1309"
+    },
+    "_sessions/campaign-glossary.json": {
+      "before": "365adb0efd18f9bcb39edb6668a43672b54642fcec6f970cdaa7dd24748443be",
+      "after": "365adb0efd18f9bcb39edb6668a43672b54642fcec6f970cdaa7dd24748443be"
+    }
+  },
+  "transcriptSha256": "205bb4d311d832a78ab59d4b329c055c856dcb87d53244b57498593c6b38ceab",
+  "artifactSha256": {
+    "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/cleanup-artifacts/dunmari-frontier-041-cleanup-assessment.json": "8ed6305bcbe5a3b62ec84211d80b58c7e4904c719c3c5c06a2aa61642b42b0c5",
+    "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/cleanup-artifacts/dunmari-frontier-041-cleanup-report.json": "9ae92024bbcb3910b667d5948880a4ed36b0b9c0b1dc39caa03b8c4a9b06045f",
+    "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/cleanup-artifacts/dunmari-frontier-041-cleanup-summary.md": "ad468513dd175f28b707c1293ea175e48c15f59bdeb828f27d42d82603d2d257",
+    "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/cleanup-artifacts/dunmari-frontier-041-human-transcript.md": "8e608c69653d4e8552f8b7e3d65c9961d66c520a3e9c347ef62573df80fb7c8d",
+    "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/cleanup-artifacts/dunmari-frontier-041-morning-review-inventory.json": "d64ebd4ebefa31b8a1946a0e4fb8e31f02c7d91aec6508b25232a935ef989cd7",
+    "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/cleanup-artifacts/dunmari-frontier-041-morning-review.md": "433a13ca15aff30484491f9bf3d6e0f5cd7a634c3b5250a819e5df0261d6bbee",
+    "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/cleanup-artifacts/dunmari-frontier-041-session-corrections.yaml": "d66b1b029ee9da56ed33febddf80bd99f067943179f06930a66e667ded96fea7",
+    "_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-source-cleaned.md": "205bb4d311d832a78ab59d4b329c055c856dcb87d53244b57498593c6b38ceab"
+  },
+  "humanAcceptanceRecorded": false,
+  "reviewDisposition": "Questions logged for morning review as explicitly requested. No decisions/acceptance file, audio review page or clips created.",
+  "scope": "Only session 041 cleaned output and cleanup-artifacts. No full pipeline, recap, campaign changes, shared index changes, commits, pushes or cleanup chats."
+}

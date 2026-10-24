@@ -1,0 +1,17 @@
+{
+  "note": "All task outputs except this self-referential manifest. Original inputs have separate input-fingerprints.json.",
+  "files": {
+    "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/dunmari-frontier-058-source-cleaned.md": "512cf22bfd0290aaf4b54c23c7b2b23332bafb9d0497598983cec34d1dbfd7f3",
+    "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/cleanup-artifacts/dunmari-frontier-058-cleanup-assessment.json": "0f395e1d3418a12fb92c431e3ee452f82cbdd5657370d8825144c552a42c0181",
+    "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/cleanup-artifacts/dunmari-frontier-058-cleanup-report.json": "0e560fb9927970a3833c890074db8b94360b3c488f6bc94707781db6a3864ce3",
+    "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/cleanup-artifacts/dunmari-frontier-058-cleanup-summary.md": "6779f8863935948d7006e40785b71144b8254ff3a9b3d3d8c64834f3f664c4f2",
+    "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/cleanup-artifacts/dunmari-frontier-058-human-transcript.md": "e740ad25721a7f48721ab3a752029e502f1b8c2e39f0aa845699ddea3e6b0802",
+    "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/cleanup-artifacts/dunmari-frontier-058-input-fingerprints.json": "bc136a994cbd1709004b5393ee783cd2328f1e185a3bb44ca630588adb5ac06c",
+    "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/cleanup-artifacts/dunmari-frontier-058-morning-review-inventory.json": "db2c15d118b53bcf516649aa30a26e01ce02b8bab213454e8f80f07c9a54a54c",
+    "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/cleanup-artifacts/dunmari-frontier-058-morning-review-inventory.md": "6aa1c74315aa21d19826fff070a8b60b16e67ae28e154f208c467d16f15fbbfd",
+    "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/cleanup-artifacts/dunmari-frontier-058-session-corrections.yaml": "f315ac0ca71ab99de20ab8a97989dc396f7a6f89a93233cb053d426454871953",
+    "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/cleanup-artifacts/dunmari-frontier-058-usage-checks.json": "509f451548b39163449ee0c21c2431220523ae7c2b63df6becf0344510cc37af",
+    "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/cleanup-artifacts/dunmari-frontier-058-verification.json": "8917a0154ffc77b5684dc1ec440659c4e424be6aae6627d9fd13ac90124d0d71",
+    "_sessions/dunmar-frontier/dunmari-frontier-058/cleaned/cleanup-artifacts/dunmari-frontier-058-working-ledger.json": "edc9d06ddc031f28cc619f3cf27daa6b2afe6509406a3699324bdf6b9ce82d33"
+  }
+}

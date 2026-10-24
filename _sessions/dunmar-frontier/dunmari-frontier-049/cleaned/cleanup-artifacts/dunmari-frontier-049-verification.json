@@ -1,0 +1,44 @@
+{
+  "unitCount": 4033,
+  "firstPassUnitsInspected": 4033,
+  "strictSecondPassUnitsInspected": 4033,
+  "changedUnitCount": 1440,
+  "replacementPatternCount": 1946,
+  "repeatedReplacementPatternCount": 175,
+  "exactHeadersSpeakersTimestampsSeparatorsLineEndingsPreserved": true,
+  "exactUnitOrderPreserved": true,
+  "uniqueContiguousUnitIds": true,
+  "preparedAndAllInitialSessionFilesFingerprintsUnchanged": true,
+  "initialSessionFilesChecked": 7,
+  "cleanedTranscriptSha256": "fc69a5bc99bf9857a6af31b94f4d5f26acbbcaded989a8ff7b499150b5321ce6",
+  "artifactFingerprintsMatch": true,
+  "sourceLabeledQuotesAndContextVerified": 587,
+  "assessmentCoversEveryMarkedLine": true,
+  "acceptedUncertaintyCount": 0,
+  "jsonAndYamlParse": true,
+  "expectedArtifactsPresent": true,
+  "scopedGitDiffCheck": "pass",
+  "untrackedNoIndexDiffCheck": "pass (normal new-file difference exit code accepted only with empty check output)",
+  "noCommitOrPush": true,
+  "usageRemainingPercentStart": 94,
+  "usageRemainingPercentFinal": 93,
+  "usageCheckFailure": false,
+  "uncertaintyCounts": {
+    "material": {
+      "lines": 328,
+      "spans": 374,
+      "markedLines": 328,
+      "markedSpans": 374,
+      "unmarkedVerbatimLines": 0,
+      "unmarkedFullLineSpans": 0
+    },
+    "incidental": {
+      "lines": 259,
+      "spans": 260,
+      "markedLines": 57,
+      "markedSpans": 58,
+      "unmarkedVerbatimLines": 202,
+      "unmarkedFullLineSpans": 202
+    }
+  }
+}

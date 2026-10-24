@@ -1,0 +1,54 @@
+{
+  "status": "passed",
+  "units": 2530,
+  "changedUnits": 840,
+  "replacementPatterns": 922,
+  "repeatedReplacementPatterns": 95,
+  "exactHeaderAndTimestampSpeakerOrderPreservation": true,
+  "oneInputUnitPerOutputUnit": true,
+  "uidSequencePreserved": true,
+  "bothPassesInspectedThrough": "u2530",
+  "protectedInputFileCount": 7,
+  "protectedInputFingerprintsUnchanged": true,
+  "yamlAndJsonParse": true,
+  "artifactFingerprintAndContextChecks": true,
+  "generatedHumanAndSummaryMatchHelper": true,
+  "scopedGitDiffCheck": "passed",
+  "newFileNoIndexDiffCheck": "passed",
+  "counts": {
+    "units": 2530,
+    "changedUnits": 840,
+    "materialLines": 24,
+    "materialSpans": 27,
+    "incidentalLines": 257,
+    "incidentalSpans": 270,
+    "markedIncidentalLines": 0,
+    "markedIncidentalSpans": 0,
+    "acceptedLines": 0
+  },
+  "finalTranscriptSha256": "01e73905ebb4e4be0bff7a23b6a4a8debe3e1425962b5a6dd68b51cb5161a73d",
+  "outputFingerprints": {
+    "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-source-cleaned.md": "01e73905ebb4e4be0bff7a23b6a4a8debe3e1425962b5a6dd68b51cb5161a73d",
+    "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/cleanup-artifacts/dunmari-frontier-047-cleanup-assessment.json": "986ed6d4acd4de9f0b1874b23cc03164ec8a38834352131ddc24c77d7df6edaa",
+    "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/cleanup-artifacts/dunmari-frontier-047-cleanup-report.json": "cdc69b53674c8f936bc2eb635aeeab3128f7b680005cf0280db6bc93b7059ee4",
+    "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/cleanup-artifacts/dunmari-frontier-047-cleanup-summary.md": "1ba8c410c4bcd55303d1de7dceb13129637cccb5ac32f3aa56f1d5ba6dd3b235",
+    "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/cleanup-artifacts/dunmari-frontier-047-human-transcript.md": "f9c8f5cbc9fe33e7a136237622dda1f57e30640d77b5a02f98258dc0379a741b",
+    "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/cleanup-artifacts/dunmari-frontier-047-morning-review-inventory.json": "5c61726414152d051e491b8cd47fb657f2ec1a892d7c8fa9401952639e3bc424",
+    "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/cleanup-artifacts/dunmari-frontier-047-morning-review.md": "120ba617be879593eb83d5107260eb033d0282643130eb210baa53d26819478a",
+    "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/cleanup-artifacts/dunmari-frontier-047-progress.json": "3d73be6d439df12a0ee43fcc847e8f69f53b47929e153106b6d38c56ce3e8873",
+    "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/cleanup-artifacts/dunmari-frontier-047-session-corrections.yaml": "1338ce42476bfd5f4bfbd599afcc9fb35313a81e0e4170318d77e7e0636ab6c6"
+  },
+  "remainingReview": "24 material lines / 27 spans remain unaccepted; morning review logged. No execution blocker.",
+  "reviewEvidenceQuotationChecks": {
+    "status": "passed",
+    "inventoryEntries": 281,
+    "preparedAndCleanedMarkdownBlocks": 562,
+    "allPreparedAndCleanedTextAndContextExact": true,
+    "standardReportAndCorrectionsQuotationsExact": true,
+    "transcriptAndUncertaintyDecisionsUnchanged": true,
+    "correctedLabelExamples": [
+      "u1933",
+      "u2319"
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "session": 44,
+  "branch": "main",
+  "counts": {
+    "unitCount": 4280,
+    "changedUnitCount": 1604,
+    "unchangedUnitCount": 2676,
+    "markedMaterialLineCount": 67,
+    "markedMaterialSpanCount": 70,
+    "markedIncidentalLineCount": 77,
+    "markedIncidentalSpanCount": 77,
+    "verbatimIncidentalLineCount": 318,
+    "verbatimIncidentalFullUnitSpanCount": 318,
+    "totalIncidentalLineCount": 395,
+    "totalIncidentalSpanCount": 395,
+    "acceptedLineCount": 0
+  },
+  "checks": {
+    "exactUnitCount": true,
+    "exactHeadersSpeakersTimestampsOrder": true,
+    "uniqueSequentialUids": true,
+    "canonicalReportNoValidationErrors": true,
+    "changedCountMatchesActualDiff": true,
+    "sourcePreparedMetadataStatsAndArchiveFingerprintsUnchanged": true,
+    "inputFileCount": 7,
+    "assessmentAndInventoryFingerprintCurrent": true,
+    "everyMarkedUnitAssessedExactlyOnce": true,
+    "artifactJsonAndYamlParse": true,
+    "scopedGitDiffCheck": true,
+    "untrackedDeliverablesNoIndexDiffCheck": true,
+    "noFabricatedAcceptance": true,
+    "standardArtifactsMatchCanonicalGenerators": true
+  },
+  "inputFingerprints": {
+    "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-speaker-stats.json": "708b856f4ad4dda5e55f3dbe4aefea99eec46958f1605b9b59ffcd67680978fe",
+    "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-source-prepared.md": "7ce09f7af6af20dfbbb550a691b5d340f61eb8298a6a8ca6d1bd04f766d8ed8e",
+    "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-session.yaml": "0eed3bdc936eab8855a3750ac8a3ed33d8ca4ca390bd68ced94391fa067d8b3e",
+    "_sessions/dunmar-frontier/dunmari-frontier-044/sources/zoom-session-044.speaker_mapping.json": "4e0b015bd84c95ad0f94cd7d365da793c2d446382cc66611720704375fb34ad8",
+    "_sessions/dunmar-frontier/dunmari-frontier-044/sources/dunmar-frontier-session044.yaml": "04652e7a72d5756311dbc75221b737ce6457f61d221bb377823ffcefbb862845",
+    "_sessions/dunmar-frontier/dunmari-frontier-044/sources/merged.transcript.vtt": "c2ab53354353abb1e4521282211f58ba9efbe61250d328b17d926bdd90d1c9cd",
+    "_sessions/dunmar-frontier/dunmari-frontier-044/sources/dunmar-frontier-core-plus-riswynn-participants.yaml": "a16baa2c0a3fd194ccb64d86c43e27d1e645c3f82a717443252c3da2c12e00ba"
+  },
+  "cleanedSha256": "1cc0a503bd5a92ce40c0cc3c87d1af1b51c00ae79f4ca54d1b43d1c27e08af6b",
+  "outputFingerprints": {
+    "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/dunmari-frontier-044-source-cleaned.md": "1cc0a503bd5a92ce40c0cc3c87d1af1b51c00ae79f4ca54d1b43d1c27e08af6b",
+    "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/cleanup-artifacts/dunmari-frontier-044-cleanup-assessment.json": "a48966d7a872c12f100b4563ec4cf119aafed0afd6b750e0189a13891c300640",
+    "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/cleanup-artifacts/dunmari-frontier-044-cleanup-report.json": "becab798312e7f0dc14d4fba64159e2cd2afd68bcbf520f9341c173026e8d2e6",
+    "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/cleanup-artifacts/dunmari-frontier-044-cleanup-summary.md": "47471efe9403713a0d17685e68da2e24b961f6ef1e708c43815204838c9388cd",
+    "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/cleanup-artifacts/dunmari-frontier-044-human-transcript.md": "55b500552f92ab6370376502fa01344d71fe97975f8acb8e7f2a13bff9c175a4",
+    "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/cleanup-artifacts/dunmari-frontier-044-morning-review-inventory.json": "04d49d72a1dbed3559f37466fa6bcf367c77ae55ff23524588e15b361bea7be9",
+    "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/cleanup-artifacts/dunmari-frontier-044-morning-review-inventory.md": "5bbb5a3e80bc46527ce492d005fa789f1aad2032cdbe000cc0381806074b0c2f",
+    "_sessions/dunmar-frontier/dunmari-frontier-044/cleaned/cleanup-artifacts/dunmari-frontier-044-session-corrections.yaml": "398c1a82dda7d05e80ee4799933ed7c9dc6f8f4beccf63c8944bd475203fe8fa"
+  },
+  "reviewStatus": "Pending morning review for material uncertainty. Cleanup artifacts are complete; no downstream session work performed.",
+  "usageLimits": {
+    "initialRemainingPercent": 95,
+    "finalRemainingPercent": 95,
+    "reportedWindow": "Codex weekly",
+    "minimumRequiredPercent": 50
+  },
+  "scope": "Only this session cleaned transcript and cleanup-artifacts created. No commits, pushes, metadata, campaign, glossary, shared index or other-session edits."
+}

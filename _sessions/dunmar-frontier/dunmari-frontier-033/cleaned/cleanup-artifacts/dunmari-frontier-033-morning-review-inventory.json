@@ -1,0 +1,2844 @@
+{
+  "schemaVersion": "1.0",
+  "sessionNumber": 33,
+  "reviewState": "deferred_to_morning_review",
+  "humanAcceptanceRecorded": false,
+  "transcriptSha256": "e6e32cf191e27ad01e4e97752d084cfd85d747ae0946060840a1d888940105bc",
+  "preparedSourceSha256": "9bfbaf3b2369fff72ebd5c3387dbdc98974d893869768579e3d82bd62ffb9942",
+  "metrics": {
+    "unitCount": 2198,
+    "changedUnitCount": 876,
+    "replacementPatternCount": 990,
+    "markedMaterialLines": 41,
+    "markedMaterialSpans": 43,
+    "markedIncidentalLines": 18,
+    "markedIncidentalSpans": 18,
+    "unmarkedIncidentalLines": 55,
+    "unmarkedIncidentalSpans": 55,
+    "totalIncidentalLines": 73,
+    "totalIncidentalSpans": 73,
+    "materialIssueGroups": 31,
+    "acceptedLines": 0
+  },
+  "judgment": "Both line-by-line passes are complete. The main travel sequence, ring conversation, aqueduct episode, scorpion destruction and arrival remain legible. Material uncertainty remains in identities, historical geography, a few proposals and mechanical explanations. Review is deferred to the requested morning inventory; no human acceptance or tolerance has been recorded. Do not use unresolved spans as established facts.",
+  "evidencePolicy": {
+    "primary": [
+      "adjacent session YAML",
+      "current prepared transcript"
+    ],
+    "glossary": "No glossary was provided for this run; none was edited.",
+    "secondary": "Vault reference notes consulted only to confirm terms already suggested by this transcript; later lore was not imported into speech.",
+    "archivalSources": "Not used as correction evidence."
+  },
+  "issues": [
+    {
+      "uid": "u0030",
+      "header": "[u0030 | 00:02:59.070-00:03:00.720 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "We have two [[Marjorie]].",
+      "raw": "[u0030 | 00:02:59.070-00:03:00.720 | DM] We have two [[Marjorie]].",
+      "index": 29,
+      "start": 179.07,
+      "end": 180.72,
+      "phrases": [
+        "Marjorie"
+      ],
+      "importance": "incidental",
+      "reason": "Adjacent units already establish two awkwardly sized mirrors; this interrupted noun adds no recoverable additional item.",
+      "before": [
+        "[u0028 | 00:02:50.820-00:02:54.900 | Delwath] But we're not bringing that much of our massive pile of looted goods right, didn't we give it all away.",
+        "[u0029 | 00:02:56.460-00:02:59.010 | DM] you're bringing you're bringing just to."
+      ],
+      "after": [
+        "[u0031 | 00:03:00.840-00:03:02.670 | Delwath] awkwardly sized magic mirrors.",
+        "[u0032 | 00:03:03.570-00:03:05.850 | Seeker] But that's a special compartment right."
+      ],
+      "accepted": false,
+      "group": "mirror-load-fragment",
+      "originalRaw": "[u0030 | 00:02:59.070-00:03:00.720 | DM] We have to Marjorie.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0049",
+      "header": "[u0049 | 00:04:29.850-00:04:34.020 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "We get like a [[Chinchilla]] or any like anybody.",
+      "raw": "[u0049 | 00:04:29.850-00:04:34.020 | Kenzo] We get like a [[Chinchilla]] or any like anybody.",
+      "index": 48,
+      "start": 269.85,
+      "end": 274.02,
+      "phrases": [
+        "Chinchilla"
+      ],
+      "importance": "material",
+      "reason": "Identity of the proposed magical adviser is unclear across repeated variants; no candidate was forced.",
+      "before": [
+        "[u0047 | 00:04:19.710-00:04:27.150 | Kenzo] Should we, like like this wagons totally getting a fucking stolen that's gonna suck like, how do we protect it better this wagon.",
+        "[u0048 | 00:04:28.770-00:04:29.670 | Seeker] Can we get it."
+      ],
+      "after": [
+        "[u0050 | 00:04:35.130-00:04:46.260 | Kenzo] yeah [[Chandra]] would be good for like tasks help like like give us like a little you know abjuration charm or something it's like doesn't look like a wagon or like people that look at it like don't see anything in it, or you know.",
+        "[u0051 | 00:04:49.890-00:04:52.830 | Seeker] There are not a lot of spells that can create like permanent effects like that or they're."
+      ],
+      "accepted": false,
+      "group": "wagon-spellcaster",
+      "originalRaw": "[u0049 | 00:04:29.850-00:04:34.020 | Kenzo] We get like a Chinchilla or any like anybody.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0050",
+      "header": "[u0050 | 00:04:35.130-00:04:46.260 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "yeah [[Chandra]] would be good for like tasks help like like give us like a little you know abjuration charm or something it's like doesn't look like a wagon or like people that look at it like don't see anything in it, or you know.",
+      "raw": "[u0050 | 00:04:35.130-00:04:46.260 | Kenzo] yeah [[Chandra]] would be good for like tasks help like like give us like a little you know abjuration charm or something it's like doesn't look like a wagon or like people that look at it like don't see anything in it, or you know.",
+      "index": 49,
+      "start": 275.13,
+      "end": 286.26,
+      "phrases": [
+        "Chandra"
+      ],
+      "importance": "material",
+      "reason": "Repeated unclear adviser name in a proposal to enchant the wagon.",
+      "before": [
+        "[u0048 | 00:04:28.770-00:04:29.670 | Seeker] Can we get it.",
+        "[u0049 | 00:04:29.850-00:04:34.020 | Kenzo] We get like a [[Chinchilla]] or any like anybody."
+      ],
+      "after": [
+        "[u0051 | 00:04:49.890-00:04:52.830 | Seeker] There are not a lot of spells that can create like permanent effects like that or they're.",
+        "[u0052 | 00:04:53.520-00:04:56.550 | DM] not really I mean not that you have access to."
+      ],
+      "accepted": false,
+      "group": "wagon-spellcaster",
+      "originalRaw": "[u0050 | 00:04:35.130-00:04:46.260 | Kenzo] yeah Chandra would be good for like tasks help like like give us like a little you know adoration charm or something it's like doesn't look like a wagon or like people that look at it like don't see anything in it, or you know.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0053",
+      "header": "[u0053 | 00:04:59.550-00:05:02.160 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Because, not a lot [[central]] could do.",
+      "raw": "[u0053 | 00:04:59.550-00:05:02.160 | DM] Because, not a lot [[central]] could do.",
+      "index": 52,
+      "start": 299.55,
+      "end": 302.16,
+      "phrases": [
+        "central"
+      ],
+      "importance": "material",
+      "reason": "Unclear adviser identity in the DM's response about available protection.",
+      "before": [
+        "[u0051 | 00:04:49.890-00:04:52.830 | Seeker] There are not a lot of spells that can create like permanent effects like that or they're.",
+        "[u0052 | 00:04:53.520-00:04:56.550 | DM] not really I mean not that you have access to."
+      ],
+      "after": [
+        "[u0054 | 00:05:02.460-00:05:10.380 | Seeker] If only the wagon had a finger, we could put that ring on it that makes it so that you're just not that noticeable isn't that one of the one of the ring.",
+        "[u0055 | 00:05:10.380-00:05:11.730 | DM] Well that's just the ring."
+      ],
+      "accepted": false,
+      "group": "wagon-spellcaster",
+      "originalRaw": "[u0053 | 00:04:59.550-00:05:02.160 | DM] Because, not a lot central could do.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0059",
+      "header": "[u0059 | 00:05:19.950-00:05:26.490 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "Can we ask, can we ask [[central]], just like anybody that knows magic stuff in Karawa what for their advice on how to like.",
+      "raw": "[u0059 | 00:05:19.950-00:05:26.490 | Kenzo] Can we ask, can we ask [[central]], just like anybody that knows magic stuff in Karawa what for their advice on how to like.",
+      "index": 58,
+      "start": 319.95,
+      "end": 326.49,
+      "phrases": [
+        "central"
+      ],
+      "importance": "material",
+      "reason": "Unclear identity of the person the party proposes consulting in Karawa.",
+      "before": [
+        "[u0057 | 00:05:14.370-00:05:16.320 | Seeker] The ring itself is not that noticeable.",
+        "[u0058 | 00:05:16.800-00:05:17.760 | Seeker] yeah yeah."
+      ],
+      "after": [
+        "[u0060 | 00:05:27.900-00:05:28.890 | Kenzo] best protect this wagon.",
+        "[u0061 | 00:05:29.220-00:05:31.860 | Seeker] Once you had an extremely valuable vehicle."
+      ],
+      "accepted": false,
+      "group": "wagon-spellcaster",
+      "originalRaw": "[u0059 | 00:05:19.950-00:05:26.490 | Kenzo] Can we asked, can we ask central, just like anybody that's matt knows magic stuff and CARA what for their advice on how to like.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0062",
+      "header": "[u0062 | 00:05:32.580-00:05:37.920 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "haha ah yeah I see if there's anything [[centric]] can do.",
+      "raw": "[u0062 | 00:05:32.580-00:05:37.920 | DM] haha ah yeah I see if there's anything [[centric]] can do.",
+      "index": 61,
+      "start": 332.58,
+      "end": 337.92,
+      "phrases": [
+        "centric"
+      ],
+      "importance": "material",
+      "reason": "Repeated unclear identity of the proposed adviser.",
+      "before": [
+        "[u0060 | 00:05:27.900-00:05:28.890 | Kenzo] best protect this wagon.",
+        "[u0061 | 00:05:29.220-00:05:31.860 | Seeker] Once you had an extremely valuable vehicle."
+      ],
+      "after": [
+        "[u0063 | 00:05:41.850-00:05:43.080 | Kenzo] Right, because this is a good.",
+        "[u0064 | 00:05:43.170-00:05:44.010 | Kenzo] fucking terrible."
+      ],
+      "accepted": false,
+      "group": "wagon-spellcaster",
+      "originalRaw": "[u0062 | 00:05:32.580-00:05:37.920 | DM] haha ah yeah I see if there's anything centric and do.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0133",
+      "header": "[u0133 | 00:10:19.530-00:10:24.210 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "Yes, but it's like [[Where are you fucking Paula Graham is from where we're dealt with holes in]].",
+      "raw": "[u0133 | 00:10:19.530-00:10:24.210 | Kenzo] Yes, but it's like [[Where are you fucking Paula Graham is from where we're dealt with holes in]].",
+      "index": 132,
+      "start": 619.53,
+      "end": 624.21,
+      "phrases": [
+        "Where are you fucking Paula Graham is from where we're dealt with holes in"
+      ],
+      "importance": "incidental",
+      "reason": "Garbled hypothetical aside about portable holes and dimensions; no action or new planar fact is adopted.",
+      "before": [
+        "[u0131 | 00:10:13.710-00:10:17.070 | Delwath] Yes, door to a private dimension.",
+        "[u0132 | 00:10:17.280-00:10:18.540 | DM] But that's what a portable hole."
+      ],
+      "after": [
+        "[u0134 | 00:10:24.240-00:10:24.750 | Delwath] Our own.",
+        "[u0135 | 00:10:24.840-00:10:26.580 | Kenzo] Little shadow dimension right but."
+      ],
+      "accepted": false,
+      "group": "dimensional-banter",
+      "originalRaw": "[u0133 | 00:10:19.530-00:10:24.210 | Kenzo] Yes, but it's like Where are you fucking Paula Graham is from where we're dealt with holes in.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0285",
+      "header": "[u0285 | 00:22:02.820-00:22:07.230 | Seeker]",
+      "separator": " ",
+      "speaker": "Seeker",
+      "text": "What was that place [[was among the effect of]].",
+      "raw": "[u0285 | 00:22:02.820-00:22:07.230 | Seeker] What was that place [[was among the effect of]].",
+      "index": 284,
+      "start": 1322.82,
+      "end": 1327.23,
+      "phrases": [
+        "was among the effect of"
+      ],
+      "importance": "material",
+      "reason": "Unclear description of the location or creature associated with recovering the coin.",
+      "before": [
+        "[u0283 | 00:21:52.890-00:21:56.820 | Seeker] When we we found this in the underground.",
+        "[u0284 | 00:21:58.470-00:21:59.610 | Seeker] lair of some."
+      ],
+      "after": [
+        "[u0286 | 00:22:09.900-00:22:11.700 | Seeker] That turned into stone.",
+        "[u0287 | 00:22:12.090-00:22:15.690 | Seeker] right member of the Society, I think."
+      ],
+      "accepted": false,
+      "group": "coin-lair-recollection",
+      "originalRaw": "[u0285 | 00:22:02.820-00:22:07.230 | Seeker] What was that place was among the effect of.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0313",
+      "header": "[u0313 | 00:24:02.460-00:24:05.070 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "Because this dude has got has got a [[period]] somewhere in there.",
+      "raw": "[u0313 | 00:24:02.460-00:24:05.070 | Kenzo] Because this dude has got has got a [[period]] somewhere in there.",
+      "index": 312,
+      "start": 1442.46,
+      "end": 1445.07,
+      "phrases": [
+        "period"
+      ],
+      "importance": "incidental",
+      "reason": "Rationale for the mirror question is garbled, but the selected question about users is explicitly established later.",
+      "before": [
+        "[u0311 | 00:23:55.710-00:23:57.750 | Seeker] Or the things that it has carried.",
+        "[u0312 | 00:23:57.810-00:23:59.790 | Delwath] I was thinking that it has carried."
+      ],
+      "after": [
+        "[u0314 | 00:24:06.060-00:24:09.090 | Seeker] Maybe or, like us, they found that it wasn't as useful as they thought it was going to be.",
+        "[u0315 | 00:24:12.570-00:24:13.650 | Seeker] We can also ask."
+      ],
+      "accepted": false,
+      "group": "coin-question-banter",
+      "originalRaw": "[u0313 | 00:24:02.460-00:24:05.070 | Kenzo] Because this dude has got has got a period somewhere in there.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0333",
+      "header": "[u0333 | 00:25:09.660-00:25:24.360 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "But but we're most interested, though in like how this coin relates to the Society of the Open Scroll up there either people that had used it objects that it's carried that like maybe the [[people that like in charging wants]].",
+      "raw": "[u0333 | 00:25:09.660-00:25:24.360 | Kenzo] But but we're most interested, though in like how this coin relates to the Society of the Open Scroll up there either people that had used it objects that it's carried that like maybe the [[people that like in charging wants]].",
+      "index": 332,
+      "start": 1509.66,
+      "end": 1524.36,
+      "phrases": [
+        "people that like in charging wants"
+      ],
+      "importance": "incidental",
+      "reason": "The party's wish to learn about the Society and coin users is clear elsewhere; this speculative rationale adds no reliable claim.",
+      "before": [
+        "[u0331 | 00:25:02.400-00:25:03.780 | Kenzo] that's very useful still.",
+        "[u0332 | 00:25:06.240-00:25:08.910 | Seeker] extra 1d8 yeah."
+      ],
+      "after": [
+        "[u0334 | 00:25:24.690-00:25:28.980 | Delwath] right but it's not going to know what the Society of the Open Scroll is right, I think.",
+        "[u0335 | 00:25:30.120-00:25:38.040 | Delwath] I think I think asking about what it's carried, is the best way to get or maybe asking about when it's who its owners when."
+      ],
+      "accepted": false,
+      "group": "coin-question-banter",
+      "originalRaw": "[u0333 | 00:25:09.660-00:25:24.360 | Kenzo] But but we're most interested, though in like how this coin relates to the society gilligan scrolling up there either people that had used it objects that it's Terry that like maybe the people that like in charging wants.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0481",
+      "header": "[u0481 | 00:37:33.750-00:37:37.890 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "[[rock guys Catholic]] used to be flying till it crashed in it.",
+      "raw": "[u0481 | 00:37:33.750-00:37:37.890 | Delwath] [[rock guys Catholic]] used to be flying till it crashed in it.",
+      "index": 480,
+      "start": 2253.75,
+      "end": 2257.89,
+      "phrases": [
+        "rock guys Catholic"
+      ],
+      "importance": "material",
+      "reason": "Unclear identity of the previously flying castle mentioned for comparison with the insignia.",
+      "before": [
+        "[u0479 | 00:37:27.810-00:37:30.270 | Seeker] or any kind of city or other built structures.",
+        "[u0480 | 00:37:31.020-00:37:31.920 | Seeker] Not one in in the cloud."
+      ],
+      "after": [
+        "[u0482 | 00:37:47.700-00:37:48.390 | DM] Yes.",
+        "[u0483 | 00:37:53.520-00:37:55.170 | Delwath] don't know that that's relevant but."
+      ],
+      "accepted": false,
+      "group": "flying-castle",
+      "originalRaw": "[u0481 | 00:37:33.750-00:37:37.890 | Delwath] rock guys Catholic used to be flying till it crashed in it.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0581",
+      "header": "[u0581 | 00:45:40.470-00:45:42.780 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "[[Just spend more time it happens, and I was in charge]] that's for sure.",
+      "raw": "[u0581 | 00:45:40.470-00:45:42.780 | Kenzo] [[Just spend more time it happens, and I was in charge]] that's for sure.",
+      "index": 580,
+      "start": 2740.47,
+      "end": 2742.78,
+      "phrases": [
+        "Just spend more time it happens, and I was in charge"
+      ],
+      "importance": "material",
+      "reason": "Full comparison of Kenzo's past travels or acquaintances is garbled; retain rather than invent biography.",
+      "before": [
+        "[u0579 | 00:45:29.430-00:45:32.130 | DM] Indeed, that would have been funny.",
+        "[u0580 | 00:45:33.840-00:45:35.130 | DM] Maybe it was destiny."
+      ],
+      "after": [
+        "[u0582 | 00:45:43.650-00:45:44.700 | DM] You shut off.",
+        "[u0583 | 00:45:46.140-00:45:49.320 | DM] I cannot, I cannot disagree with that."
+      ],
+      "accepted": false,
+      "group": "kenzo-travel-history",
+      "originalRaw": "[u0581 | 00:45:40.470-00:45:42.780 | Kenzo] Just spend more time it happens, and I was in charge that's for sure.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0666",
+      "header": "[u0666 | 00:52:20.220-00:52:21.300 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "[[can't think of a company]].",
+      "raw": "[u0666 | 00:52:20.220-00:52:21.300 | DM] [[can't think of a company]].",
+      "index": 665,
+      "start": 3140.22,
+      "end": 3141.3,
+      "phrases": [
+        "can't think of a company"
+      ],
+      "importance": "incidental",
+      "reason": "Fragmentary conversational reply; Garret's eventual offer to travel to Darba is clear at u2168.",
+      "before": [
+        "[u0664 | 00:52:13.590-00:52:14.460 | DM] or something to do.",
+        "[u0665 | 00:52:16.440-00:52:17.250 | Kenzo] This sounds appealing."
+      ],
+      "after": [
+        "[u0667 | 00:52:22.050-00:52:23.430 | Kenzo] I don't think i've eaten fish in.",
+        "[u0668 | 00:52:24.900-00:52:27.510 | Kenzo] A long time Have I eaten fish yeah."
+      ],
+      "accepted": false,
+      "group": "darba-invitation",
+      "originalRaw": "[u0666 | 00:52:20.220-00:52:21.300 | DM] can't think of a company.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0669",
+      "header": "[u0669 | 00:52:30.480-00:52:36.960 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So [[August right]] meat and cheese and yeah I got bored of it.",
+      "raw": "[u0669 | 00:52:30.480-00:52:36.960 | DM] So [[August right]] meat and cheese and yeah I got bored of it.",
+      "index": 668,
+      "start": 3150.48,
+      "end": 3156.96,
+      "phrases": [
+        "August right"
+      ],
+      "importance": "incidental",
+      "reason": "Unclear modifier of meat and cheese in casual food chatter; no event or identity depends on it.",
+      "before": [
+        "[u0667 | 00:52:22.050-00:52:23.430 | Kenzo] I don't think i've eaten fish in.",
+        "[u0668 | 00:52:24.900-00:52:27.510 | Kenzo] A long time Have I eaten fish yeah."
+      ],
+      "after": [
+        "[u0670 | 00:52:41.760-00:52:42.840 | DM] yeah the coast.",
+        "[u0671 | 00:52:45.300-00:52:46.020 | DM] that's for me."
+      ],
+      "accepted": false,
+      "group": "travel-food-banter",
+      "originalRaw": "[u0669 | 00:52:30.480-00:52:36.960 | DM] So August right meat and cheese and yeah I got bored of it.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0750",
+      "header": "[u0750 | 00:59:00.780-00:59:03.030 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "[[Outside column that says the opposite got killed]].",
+      "raw": "[u0750 | 00:59:00.780-00:59:03.030 | Delwath] [[Outside column that says the opposite got killed]].",
+      "index": 749,
+      "start": 3540.78,
+      "end": 3543.03,
+      "phrases": [
+        "Outside column that says the opposite got killed"
+      ],
+      "importance": "material",
+      "reason": "Garbled substantive comment may identify a destroyed people or qualify the historical claim about colonizers.",
+      "before": [
+        "[u0748 | 00:58:57.060-00:58:57.780 | Kenzo] I'd say humans.",
+        "[u0749 | 00:58:58.290-00:58:59.850 | Kenzo] Human elves yeah."
+      ],
+      "after": [
+        "[u0751 | 00:59:03.360-00:59:04.380 | DM] The elves were colonizers.",
+        "[u0752 | 00:59:05.400-00:59:05.970 | Seeker] So it makes."
+      ],
+      "accepted": false,
+      "group": "colonizer-history",
+      "originalRaw": "[u0750 | 00:59:00.780-00:59:03.030 | Delwath] Outside column that says the opposite got killed.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0766",
+      "header": "[u0766 | 00:59:54.480-00:59:55.770 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "[[They don't book is out there]].",
+      "raw": "[u0766 | 00:59:54.480-00:59:55.770 | Kenzo] [[They don't book is out there]].",
+      "index": 765,
+      "start": 3594.48,
+      "end": 3595.77,
+      "phrases": [
+        "They don't book is out there"
+      ],
+      "importance": "incidental",
+      "reason": "Repeated conversational assertion after u0765; no specific additional geography can be recovered.",
+      "before": [
+        "[u0764 | 00:59:49.950-00:59:50.460 | Seeker] i'm saying.",
+        "[u0765 | 00:59:50.490-00:59:53.610 | Kenzo] yeah and Chardon is definitely trying to map they know they know what's out there."
+      ],
+      "after": [
+        "[u0767 | 00:59:56.040-00:59:57.810 | DM] You have to go to Chardon and find out.",
+        "[u0768 | 00:59:58.560-00:59:58.890 | Unknown] yeah."
+      ],
+      "accepted": false,
+      "group": "chardon-map-banter",
+      "originalRaw": "[u0766 | 00:59:54.480-00:59:55.770 | Kenzo] They don't book is out there.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0787",
+      "header": "[u0787 | 01:01:04.680-01:01:10.920 | Seeker]",
+      "separator": " ",
+      "speaker": "Seeker",
+      "text": "So he says what was what was in that Plaguelands area now I [[bet works]] or.",
+      "raw": "[u0787 | 01:01:04.680-01:01:10.920 | Seeker] So he says what was what was in that Plaguelands area now I [[bet works]] or.",
+      "index": 786,
+      "start": 3664.68,
+      "end": 3670.92,
+      "phrases": [
+        "bet works"
+      ],
+      "importance": "material",
+      "reason": "Unclear description of who occupied the area; do not guess an entity.",
+      "before": [
+        "[u0785 | 01:01:00.420-01:01:02.070 | DM] No Drankor is much further south.",
+        "[u0786 | 01:01:02.130-01:01:04.590 | Delwath] Yes, Drankor like way down."
+      ],
+      "after": [
+        "[u0788 | 01:01:11.430-01:01:12.840 | Delwath] What what's there now.",
+        "[u0789 | 01:01:12.900-01:01:13.950 | Seeker] What was what was there."
+      ],
+      "accepted": false,
+      "group": "plaguelands-history",
+      "originalRaw": "[u0787 | 01:01:04.680-01:01:10.920 | Seeker] So he says what was what was in that cleveland's area now I bet works or.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0792",
+      "header": "[u0792 | 01:01:18.180-01:01:19.680 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "That was that was [[barrel someone]].",
+      "raw": "[u0792 | 01:01:18.180-01:01:19.680 | Delwath] That was that was [[barrel someone]].",
+      "index": 791,
+      "start": 3678.18,
+      "end": 3679.68,
+      "phrases": [
+        "barrel someone"
+      ],
+      "importance": "material",
+      "reason": "Historical place name or names are garbled.",
+      "before": [
+        "[u0790 | 01:01:15.570-01:01:16.260 | DM] humans.",
+        "[u0791 | 01:01:16.620-01:01:17.340 | Seeker] Humans were there."
+      ],
+      "after": [
+        "[u0793 | 01:01:21.510-01:01:23.430 | Wellby] Oh that's right.",
+        "[u0794 | 01:01:23.520-01:01:25.680 | Kenzo] And the [[buyers]] village was over here somewhere."
+      ],
+      "accepted": false,
+      "group": "plaguelands-place",
+      "originalRaw": "[u0792 | 01:01:18.180-01:01:19.680 | Delwath] That was that was barrel someone.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0794",
+      "header": "[u0794 | 01:01:23.520-01:01:25.680 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "And the [[buyers]] village was over here somewhere.",
+      "raw": "[u0794 | 01:01:23.520-01:01:25.680 | Kenzo] And the [[buyers]] village was over here somewhere.",
+      "index": 793,
+      "start": 3683.52,
+      "end": 3685.68,
+      "phrases": [
+        "buyers"
+      ],
+      "importance": "material",
+      "reason": "Unclear person or village reference during the old-campaign map discussion.",
+      "before": [
+        "[u0792 | 01:01:18.180-01:01:19.680 | Delwath] That was that was [[barrel someone]].",
+        "[u0793 | 01:01:21.510-01:01:23.430 | Wellby] Oh that's right."
+      ],
+      "after": [
+        "[u0795 | 01:01:26.160-01:01:27.000 | Delwath] Oh really wasn't it.",
+        "[u0796 | 01:01:28.260-01:01:28.440 | Seeker] yeah."
+      ],
+      "accepted": false,
+      "group": "old-village",
+      "originalRaw": "[u0794 | 01:01:23.520-01:01:25.680 | Kenzo] And the buyers village was over here somewhere.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0797",
+      "header": "[u0797 | 01:01:28.470-01:01:28.980 | Wellby]",
+      "separator": " ",
+      "speaker": "Wellby",
+      "text": "[[kairos]].",
+      "raw": "[u0797 | 01:01:28.470-01:01:28.980 | Wellby] [[kairos]].",
+      "index": 796,
+      "start": 3688.47,
+      "end": 3688.98,
+      "phrases": [
+        "kairos"
+      ],
+      "importance": "material",
+      "reason": "Short place/person name may identify the village; brevity does not make it incidental.",
+      "before": [
+        "[u0795 | 01:01:26.160-01:01:27.000 | Delwath] Oh really wasn't it.",
+        "[u0796 | 01:01:28.260-01:01:28.440 | Seeker] yeah."
+      ],
+      "after": [
+        "[u0798 | 01:01:29.730-01:01:30.510 | DM] Just right here.",
+        "[u0799 | 01:01:32.190-01:01:33.090 | Seeker] yeah."
+      ],
+      "accepted": false,
+      "group": "old-village",
+      "originalRaw": "[u0797 | 01:01:28.470-01:01:28.980 | Wellby] kairos.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0813",
+      "header": "[u0813 | 01:02:20.280-01:02:21.180 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "[[powers, the first]].",
+      "raw": "[u0813 | 01:02:20.280-01:02:21.180 | DM] [[powers, the first]].",
+      "index": 812,
+      "start": 3740.28,
+      "end": 3741.18,
+      "phrases": [
+        "powers, the first"
+      ],
+      "importance": "material",
+      "reason": "Reply could identify which campaign caused an older plague; chronology remains unclear.",
+      "before": [
+        "[u0811 | 01:02:10.290-01:02:14.610 | Delwath] Although the red mist was spreading badly before, so I he had heard of it but.",
+        "[u0812 | 01:02:15.420-01:02:19.560 | Kenzo] The Drankor a place that's now plague was that also."
+      ],
+      "after": [
+        "[u0814 | 01:02:21.750-01:02:22.710 | Delwath] yeah yeah.",
+        "[u0815 | 01:02:23.070-01:02:23.880 | Kenzo] The red mist."
+      ],
+      "accepted": false,
+      "group": "plague-origin",
+      "originalRaw": "[u0813 | 01:02:20.280-01:02:21.180 | DM] powers, the first.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0819",
+      "header": "[u0819 | 01:02:31.830-01:02:33.990 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "[[She might the strange probably district drink]].",
+      "raw": "[u0819 | 01:02:31.830-01:02:33.990 | Delwath] [[She might the strange probably district drink]].",
+      "index": 818,
+      "start": 3751.83,
+      "end": 3753.99,
+      "phrases": [
+        "She might the strange probably district drink"
+      ],
+      "importance": "material",
+      "reason": "Garbled substantive statement about destruction and Drankor cannot be safely reconstructed.",
+      "before": [
+        "[u0817 | 01:02:27.990-01:02:31.200 | Delwath] Same plague probably right wait.",
+        "[u0818 | 01:02:31.320-01:02:31.800 | Delwath] For it."
+      ],
+      "after": [
+        "[u0820 | 01:02:34.410-01:02:36.000 | Delwath] I don't know if we ever discovered that.",
+        "[u0821 | 01:02:36.090-01:02:37.290 | Seeker] Mist, mist variant."
+      ],
+      "accepted": false,
+      "group": "plague-origin",
+      "originalRaw": "[u0819 | 01:02:31.830-01:02:33.990 | Delwath] She might the strange probably district drink.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0880",
+      "header": "[u0880 | 01:07:31.380-01:07:37.080 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "[[arm could have been the giant was true]] right, possibly because this is what did he tell.",
+      "raw": "[u0880 | 01:07:31.380-01:07:37.080 | Delwath] [[arm could have been the giant was true]] right, possibly because this is what did he tell.",
+      "index": 879,
+      "start": 4051.38,
+      "end": 4057.08,
+      "phrases": [
+        "arm could have been the giant was true"
+      ],
+      "importance": "material",
+      "reason": "Unclear causal statement about the giant and storm, beyond the clear statements that he was losing control.",
+      "before": [
+        "[u0878 | 01:07:25.080-01:07:27.540 | Delwath] The giant was losing control.",
+        "[u0879 | 01:07:30.150-01:07:31.230 | DM] Yes, so the."
+      ],
+      "after": [
+        "[u0881 | 01:07:37.230-01:07:37.410 | Wellby] You.",
+        "[u0882 | 01:07:38.190-01:07:39.420 | Delwath] He was losing control, because this is."
+      ],
+      "accepted": false,
+      "group": "giant-storm-explanation",
+      "originalRaw": "[u0880 | 01:07:31.380-01:07:37.080 | Delwath] arm could have been the giant was true right, possibly because this is what did he tell.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0931",
+      "header": "[u0931 | 01:12:18.270-01:12:21.360 | Wellby]",
+      "separator": " ",
+      "speaker": "Wellby",
+      "text": "I think you should talk to [[a few the Tuesday it]] and it's safe to talk.",
+      "raw": "[u0931 | 01:12:18.270-01:12:21.360 | Wellby] I think you should talk to [[a few the Tuesday it]] and it's safe to talk.",
+      "index": 930,
+      "start": 4338.27,
+      "end": 4341.36,
+      "phrases": [
+        "a few the Tuesday it"
+      ],
+      "importance": "incidental",
+      "reason": "Advice to answer the voice is clear in adjacent sentences; this fragment does not alter the actual reply.",
+      "before": [
+        "[u0929 | 01:12:02.250-01:12:05.070 | Seeker] I start to pat my various pockets and pouches and think.",
+        "[u0930 | 01:12:06.090-01:12:17.190 | Seeker] gosh they're all those figurines at Agata's place, some of which literally contains the trapped bodies and souls of people perhaps there are more than we knew about."
+      ],
+      "after": [
+        "[u0932 | 01:12:22.260-01:12:23.460 | Wellby] And how you doing today.",
+        "[u0933 | 01:12:26.820-01:12:30.690 | Seeker] Okay yeah I I did tell her that Agata is dead."
+      ],
+      "accepted": false,
+      "group": "telepathic-reply-banter",
+      "originalRaw": "[u0931 | 01:12:18.270-01:12:21.360 | Wellby] I think you should talk to a few the Tuesday it and it's safe to talk.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1096",
+      "header": "[u1096 | 01:25:22.290-01:25:24.030 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "[[God why you go find the]].",
+      "raw": "[u1096 | 01:25:22.290-01:25:24.030 | Delwath] [[God why you go find the]].",
+      "index": 1095,
+      "start": 5122.29,
+      "end": 5124.03,
+      "phrases": [
+        "God why you go find the"
+      ],
+      "importance": "material",
+      "reason": "Proposed trip and its beneficiary are unclear; kept together with u1097 for review.",
+      "before": [
+        "[u1094 | 01:25:19.260-01:25:19.590 | Seeker] yeah.",
+        "[u1095 | 01:25:19.860-01:25:21.720 | Kenzo] You know, like only side quests."
+      ],
+      "after": [
+        "[u1097 | 01:25:24.930-01:25:26.820 | Delwath] village that his [[God]] came from.",
+        "[u1098 | 01:25:27.150-01:25:28.080 | Kenzo] i'm into that one too."
+      ],
+      "accepted": false,
+      "group": "village-sidequest",
+      "originalRaw": "[u1096 | 01:25:22.290-01:25:24.030 | Delwath] God why you go find the.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1097",
+      "header": "[u1097 | 01:25:24.930-01:25:26.820 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "village that his [[God]] came from.",
+      "raw": "[u1097 | 01:25:24.930-01:25:26.820 | Delwath] village that his [[God]] came from.",
+      "index": 1096,
+      "start": 5124.93,
+      "end": 5126.82,
+      "phrases": [
+        "God"
+      ],
+      "importance": "material",
+      "reason": "God versus another relationship term could change the purpose of the proposed village search.",
+      "before": [
+        "[u1095 | 01:25:19.860-01:25:21.720 | Kenzo] You know, like only side quests.",
+        "[u1096 | 01:25:22.290-01:25:24.030 | Delwath] [[God why you go find the]]."
+      ],
+      "after": [
+        "[u1098 | 01:25:27.150-01:25:28.080 | Kenzo] i'm into that one too.",
+        "[u1099 | 01:25:28.140-01:25:29.250 | Kenzo] I'd like— I'll support that."
+      ],
+      "accepted": false,
+      "group": "village-sidequest",
+      "originalRaw": "[u1097 | 01:25:24.930-01:25:26.820 | Delwath] village that his God came from.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1107",
+      "header": "[u1107 | 01:25:44.550-01:25:48.600 | Wellby]",
+      "separator": " ",
+      "speaker": "Wellby",
+      "text": "They're east on the far side of the [[segments]] according to dream.",
+      "raw": "[u1107 | 01:25:44.550-01:25:48.600 | Wellby] They're east on the far side of the [[segments]] according to dream.",
+      "index": 1106,
+      "start": 5144.55,
+      "end": 5148.6,
+      "phrases": [
+        "segments"
+      ],
+      "importance": "material",
+      "reason": "Unclear geographic landmark determines the location of the thousand-foot trees.",
+      "before": [
+        "[u1105 | 01:25:38.250-01:25:41.880 | Wellby] Go to the thousand foot trees look that'd be awesome.",
+        "[u1106 | 01:25:42.390-01:25:43.800 | Kenzo] Oh hell yeah I don't know where they are, though."
+      ],
+      "after": [
+        "[u1108 | 01:25:50.700-01:25:53.910 | Seeker] We should probably talk about our dreams and but.",
+        "[u1109 | 01:25:54.210-01:25:57.300 | Wellby] Certainly, like on that thread, kind of like probably seriously like."
+      ],
+      "accepted": false,
+      "group": "giant-tree-location",
+      "originalRaw": "[u1107 | 01:25:44.550-01:25:48.600 | Wellby] Their Easter on the first side of the segments according to dream.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1146",
+      "header": "[u1146 | 01:27:53.820-01:28:01.860 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "yeah [[thought found on one]] yeah was the small pot that turned creatures.",
+      "raw": "[u1146 | 01:27:53.820-01:28:01.860 | Delwath] yeah [[thought found on one]] yeah was the small pot that turned creatures.",
+      "index": 1145,
+      "start": 5273.82,
+      "end": 5281.86,
+      "phrases": [
+        "thought found on one"
+      ],
+      "importance": "incidental",
+      "reason": "The small pot and its destruction are clear in surrounding units; this lead-in adds no distinct event.",
+      "before": [
+        "[u1144 | 01:27:41.700-01:27:47.430 | Seeker] Or is it the grove that she made defending her lair that we did not destroy well I don't remember exactly what we did.",
+        "[u1145 | 01:27:47.910-01:27:52.830 | Delwath] We did not destroy her grove, there were two two things that could be this wood."
+      ],
+      "after": [
+        "[u1147 | 01:28:02.910-01:28:03.240 | Seeker] Right.",
+        "[u1148 | 01:28:04.020-01:28:05.100 | Seeker] We destroyed that stuff."
+      ],
+      "accepted": false,
+      "group": "wood-recap-fragment",
+      "originalRaw": "[u1146 | 01:27:53.820-01:28:01.860 | Delwath] yeah thought found on one yeah was the small pot that turned creatures.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1171",
+      "header": "[u1171 | 01:29:20.490-01:29:22.380 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "I think that's [[for back]] as far as I know.",
+      "raw": "[u1171 | 01:29:20.490-01:29:22.380 | Kenzo] I think that's [[for back]] as far as I know.",
+      "index": 1170,
+      "start": 5360.49,
+      "end": 5362.38,
+      "phrases": [
+        "for back"
+      ],
+      "importance": "material",
+      "reason": "Unclear assertion about whether the scepter was returned or kept.",
+      "before": [
+        "[u1169 | 01:29:17.640-01:29:18.180 | Delwath] it's yeah what.",
+        "[u1170 | 01:29:18.540-01:29:19.830 | Delwath] Did you did you keep it."
+      ],
+      "after": [
+        "[u1172 | 01:29:22.470-01:29:27.780 | Kenzo] Wellby kept it [[pens, and like said better]] where's the is that made out of wood.",
+        "[u1173 | 01:29:28.020-01:29:33.810 | Seeker] We should no that's that's metal we should check on the scepter status every morning at breakfast though because i'm."
+      ],
+      "accepted": false,
+      "group": "scepter-disposition",
+      "originalRaw": "[u1171 | 01:29:20.490-01:29:22.380 | Kenzo] I think that's for back as far as I know.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1172",
+      "header": "[u1172 | 01:29:22.470-01:29:27.780 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "Wellby kept it [[pens, and like said better]] where's the is that made out of wood.",
+      "raw": "[u1172 | 01:29:22.470-01:29:27.780 | Kenzo] Wellby kept it [[pens, and like said better]] where's the is that made out of wood.",
+      "index": 1171,
+      "start": 5362.47,
+      "end": 5367.78,
+      "phrases": [
+        "pens, and like said better"
+      ],
+      "importance": "material",
+      "reason": "Wellby's action or explanation in keeping the scepter is garbled.",
+      "before": [
+        "[u1170 | 01:29:18.540-01:29:19.830 | Delwath] Did you did you keep it.",
+        "[u1171 | 01:29:20.490-01:29:22.380 | Kenzo] I think that's [[for back]] as far as I know."
+      ],
+      "after": [
+        "[u1173 | 01:29:28.020-01:29:33.810 | Seeker] We should no that's that's metal we should check on the scepter status every morning at breakfast though because i'm.",
+        "[u1174 | 01:29:35.370-01:29:38.340 | Seeker] wow we have a friend, this is great."
+      ],
+      "accepted": false,
+      "group": "scepter-disposition",
+      "originalRaw": "[u1172 | 01:29:22.470-01:29:27.780 | Kenzo] Well, the kept it pens, and like said better where's the is that made out of wood.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1176",
+      "header": "[u1176 | 01:29:41.130-01:29:54.420 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "i'm gonna go to the [[center's put]], but I think the whole finding what's going on in Tokra is basically a side quest I think we should make sure not to get involved in the Dunmari civil war.",
+      "raw": "[u1176 | 01:29:41.130-01:29:54.420 | Delwath] i'm gonna go to the [[center's put]], but I think the whole finding what's going on in Tokra is basically a side quest I think we should make sure not to get involved in the Dunmari civil war.",
+      "index": 1175,
+      "start": 5381.13,
+      "end": 5394.42,
+      "phrases": [
+        "center's put"
+      ],
+      "importance": "material",
+      "reason": "Unclear opening action before the otherwise clear discussion of Tokra and avoiding civil war.",
+      "before": [
+        "[u1174 | 01:29:35.370-01:29:38.340 | Seeker] wow we have a friend, this is great.",
+        "[u1175 | 01:29:39.030-01:29:40.590 | Wellby] This fabulous."
+      ],
+      "after": [
+        "[u1177 | 01:29:54.630-01:29:55.020 | Wellby] Agreed.",
+        "[u1178 | 01:29:55.620-01:29:56.460 | Delwath] A great fight."
+      ],
+      "accepted": false,
+      "group": "scepter-action",
+      "originalRaw": "[u1176 | 01:29:41.130-01:29:54.420 | Delwath] i'm gonna go to the center's put, but I think the whole finding what's going on in Tokyo is basically a cyclist I think we should make sure not to get involved in the done Mari civil war.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1184",
+      "header": "[u1184 | 01:30:14.100-01:30:23.880 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "We still have to, we have to understand like what the Fuck happened in [[by when Rai]], and a bunch of Bhishma people try to open up some portal, but maybe they did or not.",
+      "raw": "[u1184 | 01:30:14.100-01:30:23.880 | Kenzo] We still have to, we have to understand like what the Fuck happened in [[by when Rai]], and a bunch of Bhishma people try to open up some portal, but maybe they did or not.",
+      "index": 1183,
+      "start": 5414.1,
+      "end": 5423.88,
+      "phrases": [
+        "by when Rai"
+      ],
+      "importance": "material",
+      "reason": "Unclear connective/location in the substantive recollection of Rai, Bhishma's people and a portal.",
+      "before": [
+        "[u1182 | 01:30:05.310-01:30:08.550 | Delwath] I think we'll learn something in Tokra and then we can sort of.",
+        "[u1183 | 01:30:09.900-01:30:13.080 | Delwath] Try and figure out what the best next move would be but."
+      ],
+      "after": [
+        "[u1185 | 01:30:25.020-01:30:29.670 | Kenzo] yeah that's what we're trying to find that the person that actually knows what the Fuck was going on.",
+        "[u1186 | 01:30:30.030-01:30:32.820 | Seeker] yeah and I still have some awesome."
+      ],
+      "accepted": false,
+      "group": "rai-portal-event",
+      "originalRaw": "[u1184 | 01:30:14.100-01:30:23.880 | Kenzo] We still have to, we have to understand like what the Fuck happened in by when rye, and a bunch of fish mud people try to open up some portal, but maybe they did or not.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1197",
+      "header": "[u1197 | 01:31:14.430-01:31:27.570 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Basically Delwath [[knows enough as far enough]] and knows enough hobgoblin he could take a reasonable guess at what some hobgoblin names might be orcs are tougher none of you have nearly as much experience with orcs.",
+      "raw": "[u1197 | 01:31:14.430-01:31:27.570 | DM] Basically Delwath [[knows enough as far enough]] and knows enough hobgoblin he could take a reasonable guess at what some hobgoblin names might be orcs are tougher none of you have nearly as much experience with orcs.",
+      "index": 1196,
+      "start": 5474.43,
+      "end": 5487.57,
+      "phrases": [
+        "knows enough as far enough"
+      ],
+      "importance": "material",
+      "reason": "A language or competence reference is garbled; no language was inferred from the character's build.",
+      "before": [
+        "[u1195 | 01:31:03.720-01:31:07.950 | DM] guessed her name with some extreme luck right.",
+        "[u1196 | 01:31:08.130-01:31:13.950 | DM] Right you don't know the orc's name and you don't know nearly as much about orc naming."
+      ],
+      "after": [
+        "[u1198 | 01:31:30.390-01:31:36.120 | DM] can always just release them though right because you just need the cell number you don't need their name to release.",
+        "[u1199 | 01:31:39.270-01:31:42.420 | Seeker] Typhina how did you come to be the guardian of the tree."
+      ],
+      "accepted": false,
+      "group": "delwath-language",
+      "originalRaw": "[u1197 | 01:31:14.430-01:31:27.570 | DM] Basically down with knows enough as far enough and knows enough hobgoblin he could take a reasonable gas at what some hop Dublin names might be or acts are tougher none of you have nearly as much experience with orcs.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1217",
+      "header": "[u1217 | 01:33:13.620-01:33:22.200 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So many of so Daruk was from the Kingdom of [[God, where Am I not]].",
+      "raw": "[u1217 | 01:33:13.620-01:33:22.200 | DM] So many of so Daruk was from the Kingdom of [[God, where Am I not]].",
+      "index": 1216,
+      "start": 5593.62,
+      "end": 5602.2,
+      "phrases": [
+        "God, where Am I not"
+      ],
+      "importance": "material",
+      "reason": "Daruk's kingdom is not recoverable; the source includes the DM trying to remember its name.",
+      "before": [
+        "[u1215 | 01:32:59.460-01:33:02.730 | DM] The name, though, is recorded in.",
+        "[u1216 | 01:33:05.340-01:33:09.990 | DM] So, this would have been actually before even the Great War."
+      ],
+      "after": [
+        "[u1218 | 01:33:23.460-01:33:24.720 | DM] Wait which one, are you from.",
+        "[u1219 | 01:33:26.850-01:33:34.860 | DM] Remember their names, but you're from the [[art speaker]] from like that Kingdom that was like once the big old thing that, like most famous one is like now kind of."
+      ],
+      "accepted": false,
+      "group": "daruk-kingdom",
+      "originalRaw": "[u1217 | 01:33:13.620-01:33:22.200 | DM] So many of so sad Derek was from the Kingdom of God, where Am I not.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1219",
+      "header": "[u1219 | 01:33:26.850-01:33:34.860 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Remember their names, but you're from the [[art speaker]] from like that Kingdom that was like once the big old thing that, like most famous one is like now kind of.",
+      "raw": "[u1219 | 01:33:26.850-01:33:34.860 | DM] Remember their names, but you're from the [[art speaker]] from like that Kingdom that was like once the big old thing that, like most famous one is like now kind of.",
+      "index": 1218,
+      "start": 5606.85,
+      "end": 5614.86,
+      "phrases": [
+        "art speaker"
+      ],
+      "importance": "material",
+      "reason": "Seeker's kingdom or another identity reference is unclear in the same discussion.",
+      "before": [
+        "[u1217 | 01:33:13.620-01:33:22.200 | DM] So many of so Daruk was from the Kingdom of [[God, where Am I not]].",
+        "[u1218 | 01:33:23.460-01:33:24.720 | DM] Wait which one, are you from."
+      ],
+      "after": [
+        "[u1220 | 01:33:36.870-01:33:38.430 | Seeker] [[decided this]], but it can.",
+        "[u1221 | 01:33:39.090-01:33:40.260 | DM] Be I can't remember either."
+      ],
+      "accepted": false,
+      "group": "seeker-kingdom",
+      "originalRaw": "[u1219 | 01:33:26.850-01:33:34.860 | DM] Remember their names, but you're from the art speaker from like that Kingdom that was like once the big old think that, like most famous one is like now kind of.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1220",
+      "header": "[u1220 | 01:33:36.870-01:33:38.430 | Seeker]",
+      "separator": " ",
+      "speaker": "Seeker",
+      "text": "[[decided this]], but it can.",
+      "raw": "[u1220 | 01:33:36.870-01:33:38.430 | Seeker] [[decided this]], but it can.",
+      "index": 1219,
+      "start": 5616.87,
+      "end": 5618.43,
+      "phrases": [
+        "decided this"
+      ],
+      "importance": "material",
+      "reason": "Garbled player response may clarify the kingdom; preserve it for joint review.",
+      "before": [
+        "[u1218 | 01:33:23.460-01:33:24.720 | DM] Wait which one, are you from.",
+        "[u1219 | 01:33:26.850-01:33:34.860 | DM] Remember their names, but you're from the [[art speaker]] from like that Kingdom that was like once the big old thing that, like most famous one is like now kind of."
+      ],
+      "after": [
+        "[u1221 | 01:33:39.090-01:33:40.260 | DM] Be I can't remember either.",
+        "[u1222 | 01:33:40.920-01:33:45.210 | DM] Well, anyway, he is from is from the northern Kingdom that was."
+      ],
+      "accepted": false,
+      "group": "seeker-kingdom",
+      "originalRaw": "[u1220 | 01:33:36.870-01:33:38.430 | Seeker] decided this, but it can.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1224",
+      "header": "[u1224 | 01:33:49.170-01:33:58.350 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "That was largely destroyed by the like collapse of [[overage]] monastery and all the devastation [[to list of some bar]] that was once a major dwarven kingdom.",
+      "raw": "[u1224 | 01:33:49.170-01:33:58.350 | DM] That was largely destroyed by the like collapse of [[overage]] monastery and all the devastation [[to list of some bar]] that was once a major dwarven kingdom.",
+      "index": 1223,
+      "start": 5629.17,
+      "end": 5638.35,
+      "phrases": [
+        "overage",
+        "to list of some bar"
+      ],
+      "importance": "material",
+      "reason": "Both the monastery name and geographic devastation reference are unclear.",
+      "before": [
+        "[u1222 | 01:33:40.920-01:33:45.210 | DM] Well, anyway, he is from is from the northern Kingdom that was.",
+        "[u1223 | 01:33:46.920-01:33:47.250 | DM] A."
+      ],
+      "after": [
+        "[u1225 | 01:33:58.650-01:34:02.520 | DM] I see and so not very many records of him have survived.",
+        "[u1226 | 01:34:05.010-01:34:15.150 | DM] So all that you can remember from from what you could you know read when you were studying was that um Yes, he traveled widely and he was."
+      ],
+      "accepted": false,
+      "group": "dwarven-destruction",
+      "originalRaw": "[u1224 | 01:33:49.170-01:33:58.350 | DM] That was largely destroyed by the lake collapse of overage monastery and all the devastation to list of some bar that was once a major Durban kingdom.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1232",
+      "header": "[u1232 | 01:34:50.940-01:35:04.050 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "record of him, that you have had seen was this [[with seat]] was trying to find, seeking after this lost knowledge that the key to unlocking the sort of permanent transformation of things.",
+      "raw": "[u1232 | 01:34:50.940-01:35:04.050 | DM] record of him, that you have had seen was this [[with seat]] was trying to find, seeking after this lost knowledge that the key to unlocking the sort of permanent transformation of things.",
+      "index": 1231,
+      "start": 5690.94,
+      "end": 5704.05,
+      "phrases": [
+        "with seat"
+      ],
+      "importance": "incidental",
+      "reason": "The lost knowledge Daruk sought is clearly described in the rest of this and surrounding units; unclear filler adds no new claim.",
+      "before": [
+        "[u1230 | 01:34:42.180-01:34:46.470 | DM] A rune that you could carve on something to permanently transform its form.",
+        "[u1231 | 01:34:47.400-01:34:49.800 | DM] And this knowledge had been lost, and that was the."
+      ],
+      "after": [
+        "[u1233 | 01:35:04.170-01:35:06.750 | Seeker] And hence the essences of things is what he was after.",
+        "[u1234 | 01:35:07.110-01:35:07.470 | Unknown] Right."
+      ],
+      "accepted": false,
+      "group": "daruk-research-fragment",
+      "originalRaw": "[u1232 | 01:34:50.940-01:35:04.050 | DM] record of him, that you have had seen was this with seat was trying to find seeking after this last knowledge that the key to unlocking the sort of permanent transformation of things.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1300",
+      "header": "[u1300 | 01:41:07.800-01:41:14.070 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "it's its course may have changed, but the the [[cartel]] river that [[Carson]] is on.",
+      "raw": "[u1300 | 01:41:07.800-01:41:14.070 | DM] it's its course may have changed, but the the [[cartel]] river that [[Carson]] is on.",
+      "index": 1299,
+      "start": 6067.8,
+      "end": 6074.07,
+      "phrases": [
+        "cartel",
+        "Carson"
+      ],
+      "importance": "material",
+      "reason": "Both the river and the settlement it serves are uncertain; no map-based substitution was forced.",
+      "before": [
+        "[u1298 | 01:40:59.220-01:41:00.840 | DM] Because that's where.",
+        "[u1299 | 01:41:01.950-01:41:06.540 | DM] That was the River Hara, it may not have still been there may have flowed."
+      ],
+      "after": [
+        "[u1301 | 01:41:15.510-01:41:16.440 | DM] Was.",
+        "[u1302 | 01:41:21.780-01:41:27.120 | DM] Ah no actually because Tokra predate the great war as well right so both of these rivers were still there."
+      ],
+      "accepted": false,
+      "group": "river-geography",
+      "originalRaw": "[u1300 | 01:41:07.800-01:41:14.070 | DM] it's its course may have changed, but the the cartel river that Carson is on.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1315",
+      "header": "[u1315 | 01:42:02.730-01:42:03.690 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "[[worth working for]].",
+      "raw": "[u1315 | 01:42:02.730-01:42:03.690 | Delwath] [[worth working for]].",
+      "index": 1314,
+      "start": 6122.73,
+      "end": 6123.69,
+      "phrases": [
+        "worth working for"
+      ],
+      "importance": "material",
+      "reason": "Short garbled phrase could identify a war or era in the chronology comparison.",
+      "before": [
+        "[u1313 | 01:41:58.080-01:42:00.750 | Kenzo] Like when this— this used to be like fucking huge forest and shit.",
+        "[u1314 | 01:42:02.100-01:42:02.490 | DM] That was."
+      ],
+      "after": [
+        "[u1316 | 01:42:05.040-01:42:06.120 | Seeker] even longer ago.",
+        "[u1317 | 01:42:06.510-01:42:06.840 | Unknown] yeah."
+      ],
+      "accepted": false,
+      "group": "earlier-empire-era",
+      "originalRaw": "[u1315 | 01:42:02.730-01:42:03.690 | Delwath] worth working for.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1323",
+      "header": "[u1323 | 01:42:25.050-01:42:26.160 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "[[semi install cider]].",
+      "raw": "[u1323 | 01:42:25.050-01:42:26.160 | Kenzo] [[semi install cider]].",
+      "index": 1322,
+      "start": 6145.05,
+      "end": 6146.16,
+      "phrases": [
+        "semi install cider"
+      ],
+      "importance": "material",
+      "reason": "Possible request for an Insight check is not sufficiently recoverable to assert an action.",
+      "before": [
+        "[u1321 | 01:42:21.630-01:42:22.290 | Delwath] greetings.",
+        "[u1322 | 01:42:23.370-01:42:24.000 | Kenzo] greetings."
+      ],
+      "after": [
+        "[u1324 | 01:42:28.380-01:42:28.770 | DM] Okay.",
+        "[u1325 | 01:42:31.200-01:42:33.120 | DM] she's you know curious."
+      ],
+      "accepted": false,
+      "group": "insight-request",
+      "originalRaw": "[u1323 | 01:42:25.050-01:42:26.160 | Kenzo] semi install cider.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1416",
+      "header": "[u1416 | 01:48:56.190-01:49:04.410 | Seeker]",
+      "separator": " ",
+      "speaker": "Seeker",
+      "text": "What, Wellby are you saying our endless supply from this tea kettle of water [[drinker]] ketchup and mayonnaise is inadequate to your tastes.",
+      "raw": "[u1416 | 01:48:56.190-01:49:04.410 | Seeker] What, Wellby are you saying our endless supply from this tea kettle of water [[drinker]] ketchup and mayonnaise is inadequate to your tastes.",
+      "index": 1415,
+      "start": 6536.19,
+      "end": 6544.41,
+      "phrases": [
+        "drinker"
+      ],
+      "importance": "incidental",
+      "reason": "Unclear liquid in a joking list of provisions; no quantity or actual use depends on this word.",
+      "before": [
+        "[u1414 | 01:48:49.080-01:48:53.850 | Wellby] Authentic Dunmari pastoralist meal like that's a.",
+        "[u1415 | 01:48:54.420-01:48:55.980 | Wellby] it's a new cultural experience."
+      ],
+      "after": [
+        "[u1417 | 01:49:05.310-01:49:07.530 | DM] Well, you got a quart a day so.",
+        "[u1418 | 01:49:08.910-01:49:10.320 | Delwath] We haven't been eating badly."
+      ],
+      "accepted": false,
+      "group": "teakettle-food-banter",
+      "originalRaw": "[u1416 | 01:48:56.190-01:49:04.410 | Seeker] What will be are you saying are endless supply from this tea kettle of water drinker ketchup and mayonnaise is an adequate to your teeth.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1419",
+      "header": "[u1419 | 01:49:12.930-01:49:15.930 | Wellby]",
+      "separator": " ",
+      "speaker": "Wellby",
+      "text": "I think we should offer them some [[is it]], but they don't get much out here.",
+      "raw": "[u1419 | 01:49:12.930-01:49:15.930 | Wellby] I think we should offer them some [[is it]], but they don't get much out here.",
+      "index": 1418,
+      "start": 6552.93,
+      "end": 6555.93,
+      "phrases": [
+        "is it"
+      ],
+      "importance": "incidental",
+      "reason": "Unclear offered condiment in casual hospitality discussion; no consequential exchange is recorded.",
+      "before": [
+        "[u1417 | 01:49:05.310-01:49:07.530 | DM] Well, you got a quart a day so.",
+        "[u1418 | 01:49:08.910-01:49:10.320 | Delwath] We haven't been eating badly."
+      ],
+      "after": [
+        "[u1420 | 01:49:17.310-01:49:21.180 | Seeker] it's true or maybe we could pour it to the aqueduct I wonder if those runes still work.",
+        "[u1421 | 01:49:25.050-01:49:28.740 | Wellby] Oh, I want to scale the aqueduct how tall is the thing."
+      ],
+      "accepted": false,
+      "group": "food-offer",
+      "originalRaw": "[u1419 | 01:49:12.930-01:49:15.930 | Wellby] I think we should offer them some is it, but they don't get much out here.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1473",
+      "header": "[u1473 | 01:53:25.410-01:53:30.150 | Seeker]",
+      "separator": " ",
+      "speaker": "Seeker",
+      "text": "And I'll shout to [[cigarette cigarette]], there's all sorts of runes up here, you, Wellby, like copy these down or something.",
+      "raw": "[u1473 | 01:53:25.410-01:53:30.150 | Seeker] And I'll shout to [[cigarette cigarette]], there's all sorts of runes up here, you, Wellby, like copy these down or something.",
+      "index": 1472,
+      "start": 6805.41,
+      "end": 6810.15,
+      "phrases": [
+        "cigarette cigarette"
+      ],
+      "importance": "incidental",
+      "reason": "Request to copy the runes is clear; only the addressee is garbled and the recorded speaker header is preserved.",
+      "before": [
+        "[u1471 | 01:53:17.370-01:53:18.840 | Delwath] I'll look over at Seeker, say.",
+        "[u1472 | 01:53:20.760-01:53:25.380 | Delwath] That really what you see up there i'm gonna have to go check for myself."
+      ],
+      "after": [
+        "[u1474 | 01:53:30.420-01:53:32.280 | Seeker] Maybe maybe that would That would be good.",
+        "[u1475 | 01:53:33.600-01:53:36.420 | DM] Right, so you pour your water skin out Wellby and."
+      ],
+      "accepted": false,
+      "group": "rune-copy-addressee",
+      "originalRaw": "[u1473 | 01:53:25.410-01:53:30.150 | Seeker] And i'll show the cigarette cigarette there's all sorts of rooms up here, you will be like copy these down or something.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1489",
+      "header": "[u1489 | 01:54:49.200-01:54:53.550 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "What, now that i'm up here i'm going to use [[sight of America]] to detect if it's magical.",
+      "raw": "[u1489 | 01:54:49.200-01:54:53.550 | Delwath] What, now that i'm up here i'm going to use [[sight of America]] to detect if it's magical.",
+      "index": 1488,
+      "start": 6889.2,
+      "end": 6893.55,
+      "phrases": [
+        "sight of America"
+      ],
+      "importance": "material",
+      "reason": "Detecting magic is explicit, but the name of the ability used is unclear.",
+      "before": [
+        "[u1487 | 01:54:34.740-01:54:41.820 | DM] I know what is happening and then like starts— goes over he's like they're obsessed with magic.",
+        "[u1488 | 01:54:43.470-01:54:45.750 | Delwath] yeah we're totally becoming the people we hate."
+      ],
+      "after": [
+        "[u1490 | 01:54:54.240-01:54:55.860 | DM] There is a faint.",
+        "[u1491 | 01:54:57.270-01:55:01.620 | DM] There is a very faint magic and almost it feels like it's."
+      ],
+      "accepted": false,
+      "group": "detect-magic-feature",
+      "originalRaw": "[u1489 | 01:54:49.200-01:54:53.550 | Delwath] What, now that i'm up here i'm going to use sight of America detect if it's magical.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1510",
+      "header": "[u1510 | 01:56:19.620-01:56:23.220 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "[[We know tried flight all of the earth, for they shouldn't be recreated one]].",
+      "raw": "[u1510 | 01:56:19.620-01:56:23.220 | Delwath] [[We know tried flight all of the earth, for they shouldn't be recreated one]].",
+      "index": 1509,
+      "start": 6979.62,
+      "end": 6983.22,
+      "phrases": [
+        "We know tried flight all of the earth, for they shouldn't be recreated one"
+      ],
+      "importance": "material",
+      "reason": "Garbled full sentence about flooding or water replication; do not infer whether it describes an earlier attempt or a warning.",
+      "before": [
+        "[u1508 | 01:56:15.270-01:56:18.300 | Seeker] You say so but there's still the experiments to be done to.",
+        "[u1509 | 01:56:18.300-01:56:19.020 | Seeker] verify that."
+      ],
+      "after": [
+        "[u1511 | 01:56:23.730-01:56:28.740 | Seeker] So TIM is this feature of the rune that does the doubling part as distinct from the water part.",
+        "[u1512 | 01:56:30.210-01:56:31.410 | Seeker] Like a syntactic."
+      ],
+      "accepted": false,
+      "group": "infinite-water-warning",
+      "originalRaw": "[u1510 | 01:56:19.620-01:56:23.220 | Delwath] We know tried flight all of the earth, for they shouldn't be recreated one.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1600",
+      "header": "[u1600 | 02:03:15.690-02:03:19.980 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "As long as [[you've always]] smiles on us the water will keep coming.",
+      "raw": "[u1600 | 02:03:15.690-02:03:19.980 | DM] As long as [[you've always]] smiles on us the water will keep coming.",
+      "index": 1599,
+      "start": 7395.69,
+      "end": 7399.98,
+      "phrases": [
+        "you've always"
+      ],
+      "importance": "material",
+      "reason": "Unclear divine name in the herder's statement about continuing water.",
+      "before": [
+        "[u1598 | 02:03:07.500-02:03:11.820 | Delwath] cannot tell you how long it will last but hopefully years at least.",
+        "[u1599 | 02:03:12.660-02:03:14.670 | DM] Only the gods can tell us that but."
+      ],
+      "after": [
+        "[u1601 | 02:03:22.350-02:03:27.720 | Seeker] I am also while we're up there in a in a break in a moment of you know resting I.",
+        "[u1602 | 02:03:29.100-02:03:33.390 | Seeker] dig out the kettle and see if it will multiply the content, the quantity of other liquids."
+      ],
+      "accepted": false,
+      "group": "water-deity",
+      "originalRaw": "[u1600 | 02:03:15.690-02:03:19.980 | DM] As long as you've always smiles on us the water will keep coming.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1712",
+      "header": "[u1712 | 02:12:58.350-02:13:05.250 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Okay ah, you want to add your bardic inspiration [[if CRC colby]] your inspiration.",
+      "raw": "[u1712 | 02:12:58.350-02:13:05.250 | DM] Okay ah, you want to add your bardic inspiration [[if CRC colby]] your inspiration.",
+      "index": 1711,
+      "start": 7978.35,
+      "end": 7985.25,
+      "phrases": [
+        "if CRC colby"
+      ],
+      "importance": "incidental",
+      "reason": "Bardic Inspiration is explicitly offered and the next response agrees; intervening roll administration is unclear.",
+      "before": [
+        "[u1710 | 02:12:49.800-02:12:51.840 | Kenzo] yeah it's too far.",
+        "[u1711 | 02:12:55.230-02:12:57.210 | Kenzo] And Kenzo's also ready to attack shit."
+      ],
+      "after": [
+        "[u1713 | 02:13:05.310-02:13:06.360 | Seeker] Oh yeah we do that again.",
+        "[u1714 | 02:13:09.840-02:13:11.100 | DM] can take the highest."
+      ],
+      "accepted": false,
+      "group": "bardic-roll-administration",
+      "originalRaw": "[u1712 | 02:12:58.350-02:13:05.250 | DM] Okay ah, you want to add your bardic inspiration if CRC colby your inspiration.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1791",
+      "header": "[u1791 | 02:18:06.540-02:18:08.160 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "In their [[fight]].",
+      "raw": "[u1791 | 02:18:06.540-02:18:08.160 | Delwath] In their [[fight]].",
+      "index": 1790,
+      "start": 8286.54,
+      "end": 8288.16,
+      "phrases": [
+        "fight"
+      ],
+      "importance": "incidental",
+      "reason": "The scorpions' small form and possible release by Dispel Magic are already clear in adjacent units.",
+      "before": [
+        "[u1789 | 02:17:57.900-02:18:00.060 | Wellby] Just like hit them with a hammer, over and over.",
+        "[u1790 | 02:18:01.860-02:18:06.510 | Seeker] Again, if I dispel magic will that release the thing that's keeping them in their."
+      ],
+      "after": [
+        "[u1792 | 02:18:08.340-02:18:08.940 | Delwath] I will.",
+        "[u1793 | 02:18:09.210-02:18:09.870 | Delwath] I will."
+      ],
+      "accepted": false,
+      "group": "scorpion-form-fragment",
+      "originalRaw": "[u1791 | 02:18:06.540-02:18:08.160 | Delwath] In their fight.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1806",
+      "header": "[u1806 | 02:19:02.580-02:19:05.130 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "[[Joe pivot South America, if]].",
+      "raw": "[u1806 | 02:19:02.580-02:19:05.130 | Delwath] [[Joe pivot South America, if]].",
+      "index": 1805,
+      "start": 8342.58,
+      "end": 8345.13,
+      "phrases": [
+        "Joe pivot South America, if"
+      ],
+      "importance": "incidental",
+      "reason": "Garbled question overlaps the rule explanation, which the DM states clearly at u1807-u1808.",
+      "before": [
+        "[u1804 | 02:18:51.060-02:18:52.620 | Seeker] problem didn't we now.",
+        "[u1805 | 02:18:53.160-02:19:01.530 | Kenzo] Meta game Tim where the Scorpions are you ever going to activate those scorpions at some point that we're gonna do something stupid that caused them to like wake up and kill us all in our sleep."
+      ],
+      "after": [
+        "[u1807 | 02:19:05.520-02:19:12.030 | DM] You touch them or expose them to direct magical effects they reanimated.",
+        "[u1808 | 02:19:14.010-02:19:16.050 | DM] Well non cantrip magical effects."
+      ],
+      "accepted": false,
+      "group": "scorpion-rule-crosstalk",
+      "originalRaw": "[u1806 | 02:19:02.580-02:19:05.130 | Delwath] Joe pivot South America, if.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1809",
+      "header": "[u1809 | 02:19:16.530-02:19:19.440 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "[[So the main chat constantly passion to have a chat with us]].",
+      "raw": "[u1809 | 02:19:16.530-02:19:19.440 | Delwath] [[So the main chat constantly passion to have a chat with us]].",
+      "index": 1808,
+      "start": 8356.53,
+      "end": 8359.44,
+      "phrases": [
+        "So the main chat constantly passion to have a chat with us"
+      ],
+      "importance": "material",
+      "reason": "Unclear follow-up about Mage Hand and cantrips; preserve the DM's explicit non-cantrip rule without inventing the question.",
+      "before": [
+        "[u1807 | 02:19:05.520-02:19:12.030 | DM] You touch them or expose them to direct magical effects they reanimated.",
+        "[u1808 | 02:19:14.010-02:19:16.050 | DM] Well non cantrip magical effects."
+      ],
+      "after": [
+        "[u1810 | 02:19:20.640-02:19:21.330 | DM] Yes.",
+        "[u1811 | 02:19:22.410-02:19:25.470 | Seeker] But casting reduce on them would have caused them to enlarge."
+      ],
+      "accepted": false,
+      "group": "mage-hand-rule",
+      "originalRaw": "[u1809 | 02:19:16.530-02:19:19.440 | Delwath] So the main chat constantly passion to have a chat with us.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1817",
+      "header": "[u1817 | 02:19:41.130-02:19:45.720 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "What other things of that of that we have that we're carrying around with this just adds to [[my dad]].",
+      "raw": "[u1817 | 02:19:41.130-02:19:45.720 | Kenzo] What other things of that of that we have that we're carrying around with this just adds to [[my dad]].",
+      "index": 1816,
+      "start": 8381.13,
+      "end": 8385.72,
+      "phrases": [
+        "my dad"
+      ],
+      "importance": "incidental",
+      "reason": "Unclear ending to a reaction about dangerous items; subsequent item discussion supplies the substantive details.",
+      "before": [
+        "[u1815 | 02:19:33.240-02:19:33.540 | Unknown] Right.",
+        "[u1816 | 02:19:38.970-02:19:40.320 | Wellby] Really horrible man."
+      ],
+      "after": [
+        "[u1818 | 02:19:45.870-02:19:46.410 | DM] likes.",
+        "[u1819 | 02:19:46.860-02:19:48.420 | Delwath] or anything, no."
+      ],
+      "accepted": false,
+      "group": "treasure-concern",
+      "originalRaw": "[u1817 | 02:19:41.130-02:19:45.720 | Kenzo] What other things of that of that we have that we're carrying around with this just adds to my dad.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1866",
+      "header": "[u1866 | 02:22:31.500-02:22:35.100 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "that's actually that's the [[origin know we should mirror year that beer]].",
+      "raw": "[u1866 | 02:22:31.500-02:22:35.100 | Delwath] that's actually that's the [[origin know we should mirror year that beer]].",
+      "index": 1865,
+      "start": 8551.5,
+      "end": 8555.1,
+      "phrases": [
+        "origin know we should mirror year that beer"
+      ],
+      "importance": "material",
+      "reason": "Unclear proposal about showing the dream mirror to another mirror may affect a future investigation choice.",
+      "before": [
+        "[u1864 | 02:22:23.490-02:22:28.080 | Wellby] yeah but that's like when we need to go into the dream world and, like sorry.",
+        "[u1865 | 02:22:29.070-02:22:30.690 | Wellby] super handy yeah."
+      ],
+      "after": [
+        "[u1867 | 02:22:35.730-02:22:36.810 | Wellby] Oh yeah.",
+        "[u1868 | 02:22:37.860-02:22:38.370 | Seeker] it's good."
+      ],
+      "accepted": false,
+      "group": "dream-mirror-proposal",
+      "originalRaw": "[u1866 | 02:22:31.500-02:22:35.100 | Delwath] that's actually that's the origin know we should mirror year that beer.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1914",
+      "header": "[u1914 | 02:26:13.920-02:26:24.270 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "So Tokra is going to be interesting place this is, I mean there's probably like a lot of shit going down in Tokra in general right because, like all the people that are coming from [[eastern terroir]] that went there that you know, then.",
+      "raw": "[u1914 | 02:26:13.920-02:26:24.270 | Kenzo] So Tokra is going to be interesting place this is, I mean there's probably like a lot of shit going down in Tokra in general right because, like all the people that are coming from [[eastern terroir]] that went there that you know, then.",
+      "index": 1913,
+      "start": 8773.92,
+      "end": 8784.27,
+      "phrases": [
+        "eastern terroir"
+      ],
+      "importance": "material",
+      "reason": "The exact eastern area from which refugees came is garbled.",
+      "before": [
+        "[u1912 | 02:25:53.370-02:25:54.060 | DM] and actually.",
+        "[u1913 | 02:25:54.780-02:25:59.340 | Kenzo] and Johar, the one that potentially could be working in the archives now yeah."
+      ],
+      "after": [
+        "[u1915 | 02:26:25.530-02:26:33.660 | Kenzo] Whatever Karnas is like no what the Fuck are you guys doing trying to like to take up you know refuge here and the must been all kinds of unrest during the past like bunch of a bunch of.",
+        "[u1916 | 02:26:33.690-02:26:35.940 | DM] Probably a whole bunch more side quests in Tokra."
+      ],
+      "accepted": false,
+      "group": "refugee-origin",
+      "originalRaw": "[u1914 | 02:26:13.920-02:26:24.270 | Kenzo] So took her is going to be interesting place this is, I mean there's probably like a lot of large ship going down in Tokyo in general right because, like all the people that are coming from eastern terroir that went there that you know, then.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u1952",
+      "header": "[u1952 | 02:29:07.710-02:29:09.690 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "know the place, you know as [[vm off]].",
+      "raw": "[u1952 | 02:29:07.710-02:29:09.690 | DM] know the place, you know as [[vm off]].",
+      "index": 1951,
+      "start": 8947.71,
+      "end": 8949.69,
+      "phrases": [
+        "vm off"
+      ],
+      "importance": "material",
+      "reason": "Kenzo's familiar inn has an unclear name; do not substitute a different inn from the discussion.",
+      "before": [
+        "[u1950 | 02:29:01.710-02:29:04.380 | Seeker] You wouldn't be referring to the Iron Swan would you.",
+        "[u1951 | 02:29:06.480-02:29:06.810 | Kenzo] TIM."
+      ],
+      "after": [
+        "[u1953 | 02:29:09.990-02:29:10.230 | Unknown] You.",
+        "[u1954 | 02:29:11.400-02:29:16.710 | Kenzo] know what you what what's I've heard of the Iron Swan TIM probably right."
+      ],
+      "accepted": false,
+      "group": "kenzo-inn",
+      "originalRaw": "[u1952 | 02:29:07.710-02:29:09.690 | DM] know the place, you know as vm off.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u2081",
+      "header": "[u2081 | 02:40:59.370-02:41:15.930 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "With several gates that you can see from here one river gate one to the South must be more to the north into the West as well um does that scattering of buildings that are outside the walls, mostly in you know there's the [[malls that inn]] that.",
+      "raw": "[u2081 | 02:40:59.370-02:41:15.930 | DM] With several gates that you can see from here one river gate one to the South must be more to the north into the West as well um does that scattering of buildings that are outside the walls, mostly in you know there's the [[malls that inn]] that.",
+      "index": 2080,
+      "start": 9659.37,
+      "end": 9675.93,
+      "phrases": [
+        "malls that inn"
+      ],
+      "importance": "material",
+      "reason": "A second unclear reference to the outlying inn may help identify it.",
+      "before": [
+        "[u2079 | 02:40:38.550-02:40:51.300 | DM] Mostly like watermelon bitter melon kind of things like that that are hot dry fruits and awaiting the harvest that comes with the monsoon rains and in maybe a month or less.",
+        "[u2080 | 02:40:53.370-02:40:58.170 | DM] The city itself is surrounded by a solid thick wall of stone."
+      ],
+      "after": [
+        "[u2082 | 02:41:16.980-02:41:19.920 | DM] That Kenzo knows there's like store houses and sort of.",
+        "[u2083 | 02:41:21.570-02:41:25.110 | DM] stables a few kind of merchant."
+      ],
+      "accepted": false,
+      "group": "kenzo-inn",
+      "originalRaw": "[u2081 | 02:40:59.370-02:41:15.930 | DM] With several gates that you can see from here one river gate one to the South must be more to the north into the West as well um does that scattering of buildings that are outside the walls, mostly in you know there's the malls that in that.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u2134",
+      "header": "[u2134 | 02:47:46.320-02:47:49.050 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "After that we got a wagon [[full ship process doing homeboy]].",
+      "raw": "[u2134 | 02:47:46.320-02:47:49.050 | Kenzo] After that we got a wagon [[full ship process doing homeboy]].",
+      "index": 2133,
+      "start": 10066.32,
+      "end": 10069.05,
+      "phrases": [
+        "full ship process doing homeboy"
+      ],
+      "importance": "incidental",
+      "reason": "Garbled aside about the loaded wagon; the actual choice to cross the bridge is explicitly narrated at u2143.",
+      "before": [
+        "[u2132 | 02:47:40.380-02:47:42.360 | Kenzo] Is there a way to get to the monastery without crossing that bridge.",
+        "[u2133 | 02:47:44.070-02:47:45.540 | DM] you'd have to ford the river."
+      ],
+      "after": [
+        "[u2135 | 02:47:50.370-02:47:54.270 | Kenzo] Well yeah I recommend we drop off our stuff at the monastery before we.",
+        "[u2136 | 02:47:54.930-02:47:59.400 | Kenzo] yeah maybe we're maybe we're you know we're cloaked and we're not obviously elves and we're."
+      ],
+      "accepted": false,
+      "group": "wagon-crossing-banter",
+      "originalRaw": "[u2134 | 02:47:46.320-02:47:49.050 | Kenzo] After that we got a wagon full ship process doing homeboy.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u2148",
+      "header": "[u2148 | 02:48:57.030-02:49:02.760 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "odd company you're keeping [[to our five and a half link]] traveling together.",
+      "raw": "[u2148 | 02:48:57.030-02:49:02.760 | DM] odd company you're keeping [[to our five and a half link]] traveling together.",
+      "index": 2147,
+      "start": 10137.03,
+      "end": 10142.76,
+      "phrases": [
+        "to our five and a half link"
+      ],
+      "importance": "material",
+      "reason": "The guard's exact description of the party's composition is unclear; no headcount or species was invented.",
+      "before": [
+        "[u2146 | 02:48:38.220-02:48:47.820 | DM] contingent here is, you know as basically they're not paying too much attention to everybody who crosses, but they do collect a toll and so when you approach.",
+        "[u2147 | 02:48:49.050-02:48:53.910 | DM] The Dunmari kind of looks up is like yeah kind of looks confused from his."
+      ],
+      "after": [
+        "[u2149 | 02:49:07.320-02:49:08.550 | Kenzo] we're just on the way to city.",
+        "[u2150 | 02:49:10.980-02:49:11.910 | Unknown] Very awful."
+      ],
+      "accepted": false,
+      "group": "guard-group-description",
+      "originalRaw": "[u2148 | 02:48:57.030-02:49:02.760 | DM] odd company you're keeping to our five and a half link traveling together.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u2164",
+      "header": "[u2164 | 02:50:21.240-02:50:24.600 | Kenzo]",
+      "separator": " ",
+      "speaker": "Kenzo",
+      "text": "If you don't tell them the monastery we tell them like [[when Tom the monster were talking]] we tell them the.",
+      "raw": "[u2164 | 02:50:21.240-02:50:24.600 | Kenzo] If you don't tell them the monastery we tell them like [[when Tom the monster were talking]] we tell them the.",
+      "index": 2163,
+      "start": 10221.24,
+      "end": 10224.6,
+      "phrases": [
+        "when Tom the monster were talking"
+      ],
+      "importance": "material",
+      "reason": "Unclear wording in an instruction about where Garret should send messages; retain for review with the following inn references.",
+      "before": [
+        "[u2162 | 02:50:07.110-02:50:11.040 | DM] and her husband Wes so he's gonna go.",
+        "[u2163 | 02:50:13.050-02:50:20.130 | DM] he's gonna go there and hope—, he says he'll be there for a while, if you know he'll he'll send you, asks, where he should send you messages."
+      ],
+      "after": [
+        "[u2165 | 02:50:24.630-02:50:25.290 | Kenzo] The inn.",
+        "[u2166 | 02:50:25.320-02:50:27.420 | DM] The place you're staying yeah okay."
+      ],
+      "accepted": false,
+      "group": "message-destination",
+      "originalRaw": "[u2164 | 02:50:21.240-02:50:24.600 | Kenzo] If you don't tell them the monastery we tell them like when Tom the monster were talking we tell them the.",
+      "markerStatus": "marked"
+    },
+    {
+      "uid": "u0040",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "brought your thing"
+      ],
+      "text": "brought your thing I thought you were bringing everything you didn't leave anything behind it.",
+      "raw": "[u0040 | 00:03:47.880-00:03:52.050 | DM] brought your thing I thought you were bringing everything you didn't leave anything behind it.",
+      "originalRaw": "[u0040 | 00:03:47.880-00:03:52.050 | DM] brought your thing I thought you were bringing everything you didn't leave anything behind it.",
+      "before": [
+        "[u0038 | 00:03:44.220-00:03:46.530 | Kenzo] We bring all that or do we stash some of that in Karawa.",
+        "[u0039 | 00:03:47.580-00:03:47.730 | Delwath] I."
+      ],
+      "after": [
+        "[u0041 | 00:03:53.370-00:03:59.160 | Delwath] But I thought we only kept small portable goods right like I didn't think we really brought.",
+        "[u0042 | 00:04:00.990-00:04:09.030 | DM] yeah I mean you have two paintings from Eudomes's Tower you have you know, a handful of things like that."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0046",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "alone"
+      ],
+      "text": "alone.",
+      "raw": "[u0046 | 00:04:18.000-00:04:18.390 | Kenzo] alone.",
+      "originalRaw": "[u0046 | 00:04:18.000-00:04:18.390 | Kenzo] alone.",
+      "before": [
+        "[u0044 | 00:04:10.710-00:04:15.450 | DM] i'm not you know you don't have a wagon piled high with stuff but like.",
+        "[u0045 | 00:04:16.470-00:04:16.890 | DM] You know."
+      ],
+      "after": [
+        "[u0047 | 00:04:19.710-00:04:27.150 | Kenzo] Should we, like like this wagons totally getting a fucking stolen that's gonna suck like, how do we protect it better this wagon.",
+        "[u0048 | 00:04:28.770-00:04:29.670 | Seeker] Can we get it."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0162",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "less few of"
+      ],
+      "text": "there's less few of.",
+      "raw": "[u0162 | 00:12:50.370-00:12:51.840 | DM] there's less few of.",
+      "originalRaw": "[u0162 | 00:12:50.370-00:12:51.840 | DM] there's less few of.",
+      "before": [
+        "[u0160 | 00:12:38.160-00:12:48.960 | DM] it's been a strange fire season, due to the presence of the giant never ending lightning storm 100 miles to the north, so huge swathes of northern Dunmar have already burned.",
+        "[u0161 | 00:12:49.410-00:12:49.740 | Seeker] Oh, and."
+      ],
+      "after": [
+        "[u0163 | 00:12:54.270-00:13:06.480 | DM] You know there's some large predators, but few will attack even a lone human even fewer will attack a traveling party and you're following a road so it's pretty straightforward.",
+        "[u0164 | 00:13:10.740-00:13:11.850 | Kenzo] we're not know right right."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0164",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "we're not know"
+      ],
+      "text": "we're not know right right.",
+      "raw": "[u0164 | 00:13:10.740-00:13:11.850 | Kenzo] we're not know right right.",
+      "originalRaw": "[u0164 | 00:13:10.740-00:13:11.850 | Kenzo] we're not know right right.",
+      "before": [
+        "[u0162 | 00:12:50.370-00:12:51.840 | DM] there's less few of.",
+        "[u0163 | 00:12:54.270-00:13:06.480 | DM] You know there's some large predators, but few will attack even a lone human even fewer will attack a traveling party and you're following a road so it's pretty straightforward."
+      ],
+      "after": [
+        "[u0165 | 00:13:12.480-00:13:15.540 | Delwath] I don't think we're at a particular rush now.",
+        "[u0166 | 00:13:16.200-00:13:19.440 | Kenzo] Like we're just as always confused and looking for answers."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0186",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "to select 10"
+      ],
+      "text": "to select 10 so.",
+      "raw": "[u0186 | 00:15:00.570-00:15:01.530 | Wellby] to select 10 so.",
+      "originalRaw": "[u0186 | 00:15:00.570-00:15:01.530 | Wellby] to select 10 so.",
+      "before": [
+        "[u0184 | 00:14:49.410-00:14:55.740 | Delwath] I mean it really doesn't whoever's most mobile and can most easily use it to save somebody is probably the best.",
+        "[u0185 | 00:14:58.380-00:14:59.790 | Seeker] I will I have short legs."
+      ],
+      "after": [
+        "[u0187 | 00:15:02.730-00:15:04.320 | Delwath] Maybe you know what I mean I could take it.",
+        "[u0188 | 00:15:04.890-00:15:05.880 | Kenzo] And Delwath can teleport."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0233",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "Just a quarter"
+      ],
+      "text": "Just a quarter we don't know we would we would love to know more about what they've been doing.",
+      "raw": "[u0233 | 00:17:23.400-00:17:27.150 | Seeker] Just a quarter we don't know we would we would love to know more about what they've been doing.",
+      "originalRaw": "[u0233 | 00:17:23.400-00:17:27.150 | Seeker] Just a quarter we don't know we would we would love to know more about what they've been doing.",
+      "before": [
+        "[u0231 | 00:17:11.400-00:17:17.850 | Seeker] Disk that coin was most likely in the possession of the.",
+        "[u0232 | 00:17:20.640-00:17:22.230 | Seeker] Society of the Open Scroll."
+      ],
+      "after": [
+        "[u0234 | 00:17:27.210-00:17:27.570 | Kenzo] Oh.",
+        "[u0235 | 00:17:27.600-00:17:29.970 | Kenzo] I love I love this idea to."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0243",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "On can pick to say"
+      ],
+      "text": "On can pick to say.",
+      "raw": "[u0243 | 00:17:47.220-00:17:48.510 | DM] On can pick to say.",
+      "originalRaw": "[u0243 | 00:17:47.220-00:17:48.510 | DM] On can pick to say.",
+      "before": [
+        "[u0241 | 00:17:39.270-00:17:39.690 | Unknown] Stop.",
+        "[u0242 | 00:17:45.210-00:17:45.750 | Delwath] We agreed."
+      ],
+      "after": [
+        "[u0244 | 00:17:51.120-00:17:51.480 | DM] that's.",
+        "[u0245 | 00:17:51.510-00:17:54.900 | DM] Like narrate a bit of the journey is going forward, because you know Garret."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0245",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "Like narrate a bit of the journey is going forward"
+      ],
+      "text": "Like narrate a bit of the journey is going forward, because you know Garret.",
+      "raw": "[u0245 | 00:17:51.510-00:17:54.900 | DM] Like narrate a bit of the journey is going forward, because you know Garret.",
+      "originalRaw": "[u0245 | 00:17:51.510-00:17:54.900 | DM] Like narrator bit of the journey is going forward, because you know Garrett.",
+      "before": [
+        "[u0243 | 00:17:47.220-00:17:48.510 | DM] On can pick to say.",
+        "[u0244 | 00:17:51.120-00:17:51.480 | DM] that's."
+      ],
+      "after": [
+        "[u0246 | 00:17:55.710-00:17:56.310 | Unknown] comments.",
+        "[u0247 | 00:17:58.590-00:18:10.800 | DM] So the first day passes largely on eventually you're you're traveling now heading heading sort of Northwest basically to connect to the."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0246",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "comments"
+      ],
+      "text": "comments.",
+      "raw": "[u0246 | 00:17:55.710-00:17:56.310 | Unknown] comments.",
+      "originalRaw": "[u0246 | 00:17:55.710-00:17:56.310 | Unknown] comments.",
+      "before": [
+        "[u0244 | 00:17:51.120-00:17:51.480 | DM] that's.",
+        "[u0245 | 00:17:51.510-00:17:54.900 | DM] Like narrate a bit of the journey is going forward, because you know Garret."
+      ],
+      "after": [
+        "[u0247 | 00:17:58.590-00:18:10.800 | DM] So the first day passes largely on eventually you're you're traveling now heading heading sort of Northwest basically to connect to the.",
+        "[u0248 | 00:18:11.910-00:18:19.500 | DM] there's sort of two roads that lead from Karawa one to the Northwest one to the Northeast the one to the Northeast will eventually."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0290",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "budgeting"
+      ],
+      "text": "And so perhaps we'll we'll learn where he got this coin from, or perhaps it was never his in the first place and happened to be there budgeting.",
+      "raw": "[u0290 | 00:22:19.590-00:22:24.930 | Seeker] And so perhaps we'll we'll learn where he got this coin from, or perhaps it was never his in the first place and happened to be there budgeting.",
+      "originalRaw": "[u0290 | 00:22:19.590-00:22:24.930 | Seeker] And so perhaps we'll we'll learn where he got this point from, or perhaps it was never his in the first place and happened to be there budgeting.",
+      "before": [
+        "[u0288 | 00:22:15.810-00:22:17.220 | DM] Arcus you later learned is.",
+        "[u0289 | 00:22:17.220-00:22:17.850 | Unknown] Arcus."
+      ],
+      "after": [
+        "[u0291 | 00:22:26.640-00:22:26.910 | Delwath] yep.",
+        "[u0292 | 00:22:28.740-00:22:30.360 | Seeker] Well let's see what we can learn about it."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0297",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "what's fun"
+      ],
+      "text": "what's fun.",
+      "raw": "[u0297 | 00:22:51.240-00:22:51.900 | Delwath] what's fun.",
+      "originalRaw": "[u0297 | 00:22:51.240-00:22:51.900 | Delwath] what's fun.",
+      "before": [
+        "[u0295 | 00:22:41.970-00:22:43.830 | DM] And then Somebody needs to make a wisdom check.",
+        "[u0296 | 00:22:49.290-00:22:50.250 | Kenzo] got the best wisdom check."
+      ],
+      "after": [
+        "[u0298 | 00:22:52.920-00:22:53.490 | Seeker] Was.",
+        "[u0299 | 00:22:53.640-00:22:55.980 | DM] Kenzo probably going to be you."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0326",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "Your bite at a day"
+      ],
+      "text": "Your bite at a day.",
+      "raw": "[u0326 | 00:24:51.030-00:24:52.680 | Kenzo] Your bite at a day.",
+      "originalRaw": "[u0326 | 00:24:51.030-00:24:52.680 | Kenzo] Your bite at a day.",
+      "before": [
+        "[u0324 | 00:24:48.330-00:24:49.830 | Seeker] Could be applied to.",
+        "[u0325 | 00:24:50.010-00:24:50.580 | Seeker] The wisdom check."
+      ],
+      "after": [
+        "[u0327 | 00:24:54.150-00:24:55.260 | DM] But you don't have advantage.",
+        "[u0328 | 00:24:57.330-00:24:59.160 | Wellby] Oh, what is the extra die from."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0350",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "which might also be set up"
+      ],
+      "text": "which might also be set up.",
+      "raw": "[u0350 | 00:26:20.820-00:26:21.960 | Seeker] which might also be set up.",
+      "originalRaw": "[u0350 | 00:26:20.820-00:26:21.960 | Seeker] which might also be set up.",
+      "before": [
+        "[u0348 | 00:26:13.320-00:26:18.330 | Delwath] Generally magic doesn't like you trying to loophole your way past its limitations.",
+        "[u0349 | 00:26:18.900-00:26:20.670 | Kenzo] Fair alright alright alright."
+      ],
+      "after": [
+        "[u0351 | 00:26:27.090-00:26:35.040 | Kenzo] I mean, but both are very interesting right like because the other items that it's held that's also pretty fucking interesting, although I wouldn't know what they are what they mean.",
+        "[u0352 | 00:26:37.320-00:26:37.830 | Seeker] there."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0363",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "16 plus 310"
+      ],
+      "text": "And this is that i'm clicking the thing at the top that's like 16 plus 310 yep.",
+      "raw": "[u0363 | 00:27:14.190-00:27:18.630 | Kenzo] And this is that i'm clicking the thing at the top that's like 16 plus 310 yep.",
+      "originalRaw": "[u0363 | 00:27:14.190-00:27:18.630 | Kenzo] And this is that i'm clicking the thing at the top that's like 16 plus 310 yep.",
+      "before": [
+        "[u0361 | 00:27:09.870-00:27:12.690 | Kenzo] inspiration seems that means I can add an extra 1d8 to this roll.",
+        "[u0362 | 00:27:12.960-00:27:13.410 | DM] that's yeah."
+      ],
+      "after": [
+        "[u0364 | 00:27:20.850-00:27:21.210 | Kenzo] All right.",
+        "[u0365 | 00:27:25.590-00:27:27.480 | Seeker] And then I added 1d8."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0401",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "Chris"
+      ],
+      "text": "Chris.",
+      "raw": "[u0401 | 00:30:31.770-00:30:32.130 | Seeker] Chris.",
+      "originalRaw": "[u0401 | 00:30:31.770-00:30:32.130 | Seeker] Chris.",
+      "before": [
+        "[u0399 | 00:30:24.840-00:30:26.130 | DM] It's not, he's walking.",
+        "[u0400 | 00:30:26.580-00:30:30.750 | DM] walking in an open area at night, like on a road at night, was what."
+      ],
+      "after": [
+        "[u0402 | 00:30:34.350-00:30:36.300 | DM] You know moon light shining.",
+        "[u0403 | 00:30:37.560-00:30:37.950 | DM] You know."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0446",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "Stat"
+      ],
+      "text": "Like Stat like a straight tower.",
+      "raw": "[u0446 | 00:34:53.910-00:34:56.460 | DM] Like Stat like a straight tower.",
+      "originalRaw": "[u0446 | 00:34:53.910-00:34:56.460 | DM] Like Stat like a straight tower.",
+      "before": [
+        "[u0444 | 00:34:47.580-00:34:50.550 | DM] I will say it's a.",
+        "[u0445 | 00:34:51.690-00:34:52.560 | DM] it's a tower."
+      ],
+      "after": [
+        "[u0447 | 00:34:57.630-00:34:58.410 | DM] With.",
+        "[u0448 | 00:35:02.640-00:35:08.700 | DM] Sun behind it and then like rays coming out from the sun."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0487",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "Who are different"
+      ],
+      "text": "Who are different.",
+      "raw": "[u0487 | 00:38:20.310-00:38:21.450 | Seeker] Who are different.",
+      "originalRaw": "[u0487 | 00:38:20.310-00:38:21.450 | Seeker] Who are different.",
+      "before": [
+        "[u0485 | 00:38:08.400-00:38:08.760 | Kenzo] Wellby.",
+        "[u0486 | 00:38:11.100-00:38:17.760 | Wellby] I say we jot it down and ask people who know actually no no let's show it to them let's show it to him what's his name he's been around."
+      ],
+      "after": [
+        "[u0488 | 00:38:22.050-00:38:32.010 | DM] yeah so actually that's as you're doing this, he you know once once the mirror has gone dark he he looks up at you, and he says.",
+        "[u0489 | 00:38:34.500-00:38:39.090 | DM] he's been he's been quiet for most of the trip like just kind of chatting occasionally."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u0582",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "You shut off"
+      ],
+      "text": "You shut off.",
+      "raw": "[u0582 | 00:45:43.650-00:45:44.700 | DM] You shut off.",
+      "originalRaw": "[u0582 | 00:45:43.650-00:45:44.700 | DM] You shut off.",
+      "before": [
+        "[u0580 | 00:45:33.840-00:45:35.130 | DM] Maybe it was destiny.",
+        "[u0581 | 00:45:40.470-00:45:42.780 | Kenzo] [[Just spend more time it happens, and I was in charge]] that's for sure."
+      ],
+      "after": [
+        "[u0583 | 00:45:46.140-00:45:49.320 | DM] I cannot, I cannot disagree with that.",
+        "[u0584 | 00:45:50.040-00:45:51.690 | Kenzo] Not much for humans these days."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1071",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "The screen"
+      ],
+      "text": "The screen among dwarves.",
+      "raw": "[u1071 | 01:23:49.770-01:23:51.090 | Seeker] The screen among dwarves.",
+      "originalRaw": "[u1071 | 01:23:49.770-01:23:51.090 | Seeker] The screen among dwarves.",
+      "before": [
+        "[u1069 | 01:23:39.420-01:23:45.000 | DM] reminded me of this dwarven friend from ages past coming to seek knowledge from me.",
+        "[u1070 | 01:23:48.750-01:23:49.770 | Seeker] Indeed, there seems to be."
+      ],
+      "after": [
+        "[u1072 | 01:23:56.220-01:23:56.460 | Seeker] and",
+        "[u1073 | 01:23:57.450-01:23:58.650 | DM] I will trust you."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1117",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "same thing or"
+      ],
+      "text": "same thing or.",
+      "raw": "[u1117 | 01:26:20.610-01:26:22.380 | Wellby] same thing or.",
+      "originalRaw": "[u1117 | 01:26:20.610-01:26:22.380 | Wellby] same thing or.",
+      "before": [
+        "[u1115 | 01:26:12.390-01:26:15.960 | Seeker] There is no purpose in life we're just travelers.",
+        "[u1116 | 01:26:16.440-01:26:20.040 | Wellby] Like we've talked a lot of shit about Chardon but I don't feel like we have to go."
+      ],
+      "after": [
+        "[u1118 | 01:26:22.440-01:26:27.720 | Kenzo] I mean the only compelling thing about Chardon is getting those fucking eyes back, which is pretty good like that's like that's like the.",
+        "[u1119 | 01:26:28.020-01:26:28.860 | Kenzo] top priority right now."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1124",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "yeah down"
+      ],
+      "text": "yeah down.",
+      "raw": "[u1124 | 01:26:39.060-01:26:40.050 | Delwath] yeah down.",
+      "originalRaw": "[u1124 | 01:26:39.060-01:26:40.050 | Delwath] yeah down.",
+      "before": [
+        "[u1122 | 01:26:32.730-01:26:34.320 | Wellby] I don't feel like any of the four of us are.",
+        "[u1123 | 01:26:34.320-01:26:38.880 | Wellby] Particularly like committed to politics or like."
+      ],
+      "after": [
+        "[u1125 | 01:26:40.290-01:26:41.220 | Wellby] Things you know.",
+        "[u1126 | 01:26:41.790-01:26:43.140 | Seeker] yeah and."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1142",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "In retrospect yeah"
+      ],
+      "text": "In retrospect yeah.",
+      "raw": "[u1142 | 01:27:37.050-01:27:39.060 | Seeker] In retrospect yeah.",
+      "originalRaw": "[u1142 | 01:27:37.050-01:27:39.060 | Seeker] and respect yeah.",
+      "before": [
+        "[u1140 | 01:27:28.350-01:27:31.800 | Seeker] branch from the tree stolen by Agata. Did she bring it into this world.",
+        "[u1141 | 01:27:33.510-01:27:35.880 | DM] Yes, that's why I came here after her."
+      ],
+      "after": [
+        "[u1143 | 01:27:39.510-01:27:40.950 | Delwath] It was gross wood— wood.",
+        "[u1144 | 01:27:41.700-01:27:47.430 | Seeker] Or is it the grove that she made defending her lair that we did not destroy well I don't remember exactly what we did."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1178",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "A great fight"
+      ],
+      "text": "A great fight.",
+      "raw": "[u1178 | 01:29:55.620-01:29:56.460 | Delwath] A great fight.",
+      "originalRaw": "[u1178 | 01:29:55.620-01:29:56.460 | Delwath] A great fight.",
+      "before": [
+        "[u1176 | 01:29:41.130-01:29:54.420 | Delwath] i'm gonna go to the [[center's put]], but I think the whole finding what's going on in Tokra is basically a side quest I think we should make sure not to get involved in the Dunmari civil war.",
+        "[u1177 | 01:29:54.630-01:29:55.020 | Wellby] Agreed."
+      ],
+      "after": [
+        "[u1179 | 01:29:56.520-01:29:59.790 | Wellby] And we committed to get to Tokra with Garret so.",
+        "[u1180 | 01:29:59.820-01:30:00.630 | Delwath] yeah and."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1246",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "it's me"
+      ],
+      "text": "it's me it's it's been an easy journey.",
+      "raw": "[u1246 | 01:36:08.430-01:36:11.940 | DM] it's me it's it's been an easy journey.",
+      "originalRaw": "[u1246 | 01:36:08.430-01:36:11.940 | DM] it's me it's it's been an easy journey.",
+      "before": [
+        "[u1244 | 01:35:53.130-01:35:54.300 | DM] Pass quietly.",
+        "[u1245 | 01:36:00.900-01:36:02.460 | DM] you're about halfway there."
+      ],
+      "after": [
+        "[u1247 | 01:36:13.500-01:36:25.650 | DM] Again, the road is not crowded, but you never you know clearly this is a people are feeling safe, a lot of people are spreading back out across the plains.",
+        "[u1248 | 01:36:27.000-01:36:29.250 | DM] You know, especially as you begin to."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1267",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "it's great percent"
+      ],
+      "text": "it's great percent.",
+      "raw": "[u1267 | 01:38:06.960-01:38:09.120 | Wellby] it's great percent.",
+      "originalRaw": "[u1267 | 01:38:06.960-01:38:09.120 | Wellby] it's great percent.",
+      "before": [
+        "[u1265 | 01:38:04.620-01:38:05.700 | Kenzo] brief aside question.",
+        "[u1266 | 01:38:06.240-01:38:06.780 | Delwath] yeah."
+      ],
+      "after": [
+        "[u1268 | 01:38:11.370-01:38:13.560 | Seeker] A fractal— side quests within side quests.",
+        "[u1269 | 01:38:15.030-01:38:23.850 | DM] So you ride turn off the road riding North for about a mile and approaching the the aqueduct."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1443",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "Moonlight"
+      ],
+      "text": "yeah Moonlight.",
+      "raw": "[u1443 | 01:51:06.900-01:51:08.370 | Wellby] yeah Moonlight.",
+      "originalRaw": "[u1443 | 01:51:06.900-01:51:08.370 | Wellby] yeah moonlight.",
+      "before": [
+        "[u1441 | 01:51:04.620-01:51:04.920 | Delwath] We.",
+        "[u1442 | 01:51:05.220-01:51:05.580 | Unknown] um."
+      ],
+      "after": [
+        "[u1444 | 01:51:08.400-01:51:09.990 | Wellby] reflects our guests.",
+        "[u1445 | 01:51:11.730-01:51:12.120 | Seeker] Nice."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1444",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "reflects our guests"
+      ],
+      "text": "reflects our guests.",
+      "raw": "[u1444 | 01:51:08.400-01:51:09.990 | Wellby] reflects our guests.",
+      "originalRaw": "[u1444 | 01:51:08.400-01:51:09.990 | Wellby] reflects our guests.",
+      "before": [
+        "[u1442 | 01:51:05.220-01:51:05.580 | Unknown] um.",
+        "[u1443 | 01:51:06.900-01:51:08.370 | Wellby] yeah Moonlight."
+      ],
+      "after": [
+        "[u1445 | 01:51:11.730-01:51:12.120 | Seeker] Nice.",
+        "[u1446 | 01:51:12.270-01:51:13.830 | DM] um so."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1478",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "Someone holds it goes"
+      ],
+      "text": "Someone holds it goes.",
+      "raw": "[u1478 | 01:53:56.460-01:53:57.600 | Delwath] Someone holds it goes.",
+      "originalRaw": "[u1478 | 01:53:56.460-01:53:57.600 | Delwath] Someone holds it goes.",
+      "before": [
+        "[u1476 | 01:53:40.020-01:53:45.450 | DM] there's definitely more water in the aqueduct, than you poured out.",
+        "[u1477 | 01:53:51.060-01:53:52.470 | Seeker] How we're gonna fit this thing on the wagon."
+      ],
+      "after": [
+        "[u1479 | 01:54:04.350-01:54:05.700 | Kenzo] Can we put it in the mirror.",
+        "[u1480 | 01:54:06.480-01:54:08.490 | Delwath] it's it's how it's 20 feet up."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1498",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "a SEC this"
+      ],
+      "text": "sounds a SEC this.",
+      "raw": "[u1498 | 01:55:26.130-01:55:27.090 | Seeker] sounds a SEC this.",
+      "originalRaw": "[u1498 | 01:55:26.130-01:55:27.090 | Seeker] sounds a SEC this.",
+      "before": [
+        "[u1496 | 01:55:22.530-01:55:23.190 | Unknown] whoa.",
+        "[u1497 | 01:55:25.290-01:55:25.530 | Seeker] That."
+      ],
+      "after": [
+        "[u1499 | 01:55:28.590-01:55:30.600 | Delwath] That could be useful to Dunmari, sure.",
+        "[u1500 | 01:55:32.010-01:55:34.590 | Wellby] With with the ladder that could be awesome."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1564",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "sugar"
+      ],
+      "text": "sugar.",
+      "raw": "[u1564 | 02:00:50.730-02:00:51.180 | Unknown] sugar.",
+      "originalRaw": "[u1564 | 02:00:50.730-02:00:51.180 | Unknown] sugar.",
+      "before": [
+        "[u1562 | 02:00:42.030-02:00:47.040 | DM] always come here to graze it's good territory and when it rains the water.",
+        "[u1563 | 02:00:48.300-02:00:50.100 | DM] You know pours down off that thing."
+      ],
+      "after": [
+        "[u1565 | 02:00:54.420-02:00:55.680 | DM] Definitely, a good place.",
+        "[u1566 | 02:00:57.780-02:00:58.320 | Delwath] yeah."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1577",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "magic a clinic that and again"
+      ],
+      "text": "magic a clinic that and again.",
+      "raw": "[u1577 | 02:01:34.380-02:01:36.480 | Wellby] magic a clinic that and again.",
+      "originalRaw": "[u1577 | 02:01:34.380-02:01:36.480 | Wellby] magic a clinic that and again.",
+      "before": [
+        "[u1575 | 02:01:28.200-02:01:31.500 | DM] It does I thought it just I thought there was just a pool up there that.",
+        "[u1576 | 02:01:32.910-02:01:33.810 | DM] gathers water."
+      ],
+      "after": [
+        "[u1578 | 02:01:36.960-02:01:40.020 | Delwath] Any water you pour there will be increased, when it comes off.",
+        "[u1579 | 02:01:41.730-02:01:42.360 | DM] wow."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1627",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "connected"
+      ],
+      "text": "Of course, every single one of them is connected.",
+      "raw": "[u1627 | 02:06:05.250-02:06:07.260 | DM] Of course, every single one of them is connected.",
+      "originalRaw": "[u1627 | 02:06:05.250-02:06:07.260 | DM] Of course, every single one of them is connected.",
+      "before": [
+        "[u1625 | 02:06:01.980-02:06:02.640 | Seeker] don't pee in there.",
+        "[u1626 | 02:06:03.240-02:06:03.720 | Unknown] yeah."
+      ],
+      "after": [
+        "[u1628 | 02:06:14.610-02:06:15.060 | DM] So.",
+        "[u1629 | 02:06:16.050-02:06:19.380 | Wellby] i'll take this opportunity to heat up some dinner but i'm still here and listening."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1650",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "The broken gay duo"
+      ],
+      "text": "The broken gay duo there is actually a ley line that seems to be riding along where this aqueduct is.",
+      "raw": "[u1650 | 02:08:00.780-02:08:07.560 | DM] The broken gay duo there is actually a ley line that seems to be riding along where this aqueduct is.",
+      "originalRaw": "[u1650 | 02:08:00.780-02:08:07.560 | DM] The broken gay duo there is actually a ley line that seems to be riding along where this aqueduct is.",
+      "before": [
+        "[u1648 | 02:07:37.800-02:07:38.760 | DM] that's true.",
+        "[u1649 | 02:07:41.640-02:08:00.570 | Kenzo] Okay let's see layers this is kind of messed up it's like you know, for years, like Dave Kong played Rai as a character and had access to stuff and now it's like I don't play Rai anymore now Rai's like just fucking dude like I don't like cut off, you know."
+      ],
+      "after": [
+        "[u1651 | 02:08:08.400-02:08:13.230 | DM] Well, at the moment there hasn't been one along the road for very long, but as you.",
+        "[u1652 | 02:08:14.400-02:08:22.470 | DM] As you spend a little bit of time looking around right now, it does seem like there's one that that is that is following the course of this aqueduct."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1675",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "withhold"
+      ],
+      "text": "You know a lot of people didn't leave absolutely immediately so there's been a trickle that's now sort of turning more into a flood, as you know, the whole population that spent that sort of lived on these plains more or less withhold was like hiding in Tokra.",
+      "raw": "[u1675 | 02:10:25.470-02:10:41.220 | DM] You know a lot of people didn't leave absolutely immediately so there's been a trickle that's now sort of turning more into a flood, as you know, the whole population that spent that sort of lived on these plains more or less withhold was like hiding in Tokra.",
+      "originalRaw": "[u1675 | 02:10:25.470-02:10:41.220 | DM] You know a lot of people didn't leave absolutely immediately so there's been a trickle that's now sort of turning more into a flat, as you know, the whole population that spent that sort of lived on these planes more or less withhold was like hiding in Tokyo.",
+      "before": [
+        "[u1673 | 02:10:09.030-02:10:09.570 | DM] The.",
+        "[u1674 | 02:10:12.180-02:10:23.460 | DM] You know it's it's definitely the population density has increased as you've gotten closer towards Tokra like you know many, many more families now kind of heading out east."
+      ],
+      "after": [
+        "[u1676 | 02:10:44.070-02:10:48.780 | DM] During the gnoll attacks very crowded like full of people.",
+        "[u1677 | 02:10:49.020-02:10:51.210 | DM] Right now they're all slowly starting to spread out."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1690",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "Again idea"
+      ],
+      "text": "Again idea you're not supposed to keep talking.",
+      "raw": "[u1690 | 02:11:49.020-02:11:51.330 | DM] Again idea you're not supposed to keep talking.",
+      "originalRaw": "[u1690 | 02:11:49.020-02:11:51.330 | DM] Again idea you're not supposed to keep talking.",
+      "before": [
+        "[u1688 | 02:11:42.990-02:11:43.230 | Unknown] yeah.",
+        "[u1689 | 02:11:44.490-02:11:47.850 | Seeker] there's no other ideas in the docket perhaps we can try that."
+      ],
+      "after": [
+        "[u1691 | 02:11:51.480-02:11:52.140 | DM] Correct yes.",
+        "[u1692 | 02:11:52.170-02:11:57.750 | Delwath] So think to me the Scorpions and the vial are good choices, but."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1695",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "me but"
+      ],
+      "text": "me but.",
+      "raw": "[u1695 | 02:11:59.910-02:12:00.360 | Kenzo] me but.",
+      "originalRaw": "[u1695 | 02:11:59.910-02:12:00.360 | Kenzo] me but.",
+      "before": [
+        "[u1693 | 02:11:57.870-02:11:58.590 | Kenzo] I like the scorpions.",
+        "[u1694 | 02:11:59.010-02:11:59.490 | Kenzo] vial too."
+      ],
+      "after": [
+        "[u1696 | 02:12:01.560-02:12:07.410 | Delwath] We could do the vial now or the Scorpions now just i'm still really curious what the Scorpions.",
+        "[u1697 | 02:12:07.980-02:12:11.100 | Wellby] let's do the Scorpions because, like we've carried the vial around for months now."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1719",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "basic"
+      ],
+      "text": "don't change the basic.",
+      "raw": "[u1719 | 02:13:24.840-02:13:25.740 | Seeker] don't change the basic.",
+      "originalRaw": "[u1719 | 02:13:24.840-02:13:25.740 | Seeker] don't change the basic.",
+      "before": [
+        "[u1717 | 02:13:21.030-02:13:22.410 | Kenzo] we're definitely fighting something I don't.",
+        "[u1718 | 02:13:22.410-02:13:24.030 | Wellby] Change the map don't change the map."
+      ],
+      "after": [
+        "[u1720 | 02:13:28.920-02:13:30.270 | Kenzo] tim's gonna ask us where we camping.",
+        "[u1721 | 02:13:32.430-02:13:33.990 | DM] You hold up the scorpion."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1737",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "I didn't"
+      ],
+      "text": "Then turns and looks I didn't.",
+      "raw": "[u1737 | 02:14:50.670-02:14:52.470 | DM] Then turns and looks I didn't.",
+      "originalRaw": "[u1737 | 02:14:50.670-02:14:52.470 | DM] Then turns and looks I didn't.",
+      "before": [
+        "[u1735 | 02:14:46.380-02:14:47.070 | Unknown] Looking.",
+        "[u1736 | 02:14:48.150-02:14:49.140 | DM] back and forth."
+      ],
+      "after": [
+        "[u1738 | 02:14:52.800-02:14:53.550 | Unknown] Shoot an arrow.",
+        "[u1739 | 02:14:54.930-02:14:55.260 | Seeker] know."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1818",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "likes"
+      ],
+      "text": "likes.",
+      "raw": "[u1818 | 02:19:45.870-02:19:46.410 | DM] likes.",
+      "originalRaw": "[u1818 | 02:19:45.870-02:19:46.410 | DM] likes.",
+      "before": [
+        "[u1816 | 02:19:38.970-02:19:40.320 | Wellby] Really horrible man.",
+        "[u1817 | 02:19:41.130-02:19:45.720 | Kenzo] What other things of that of that we have that we're carrying around with this just adds to [[my dad]]."
+      ],
+      "after": [
+        "[u1819 | 02:19:46.860-02:19:48.420 | Delwath] or anything, no.",
+        "[u1820 | 02:19:48.450-02:19:49.830 | Wellby] With the swarm bubble."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1821",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "A way like"
+      ],
+      "text": "A way like.",
+      "raw": "[u1821 | 02:19:50.670-02:19:51.840 | Seeker] A way like.",
+      "originalRaw": "[u1821 | 02:19:50.670-02:19:51.840 | Seeker] A way like.",
+      "before": [
+        "[u1819 | 02:19:46.860-02:19:48.420 | Delwath] or anything, no.",
+        "[u1820 | 02:19:48.450-02:19:49.830 | Wellby] With the swarm bubble."
+      ],
+      "after": [
+        "[u1822 | 02:19:51.990-02:19:54.660 | DM] Most of what you're carrying wasn't was just stuff, so—.",
+        "[u1823 | 02:19:54.660-02:19:59.940 | Delwath] Had we— Delwath was fairly careful so for some reason that I still don't understand."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1830",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "To bottle"
+      ],
+      "text": "To bottle.",
+      "raw": "[u1830 | 02:20:35.130-02:20:36.870 | DM] To bottle.",
+      "originalRaw": "[u1830 | 02:20:35.130-02:20:36.870 | DM] To bottle.",
+      "before": [
+        "[u1828 | 02:20:29.310-02:20:30.840 | Delwath] And then we have a creepy bottle.",
+        "[u1829 | 02:20:31.170-02:20:32.970 | Delwath] I don't know why we're keeping the creepy bottle."
+      ],
+      "after": [
+        "[u1831 | 02:20:37.680-02:20:41.400 | Seeker] Oh yeah and what's this swarm bottle again.",
+        "[u1832 | 02:20:41.670-02:20:44.550 | DM] Wait, did you use that or no, you use the leech, though."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1836",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "42"
+      ],
+      "text": "Yes, 42, this is the this creates the locusts that tore apart one of us.",
+      "raw": "[u1836 | 02:20:51.090-02:20:56.370 | Delwath] Yes, 42, this is the this creates the locusts that tore apart one of us.",
+      "originalRaw": "[u1836 | 02:20:51.090-02:20:56.370 | Delwath] Yes, 42, this is the this case, the locus that tore apart one of us.",
+      "before": [
+        "[u1834 | 02:20:47.100-02:20:48.240 | Delwath] It creates locusts.",
+        "[u1835 | 02:20:48.270-02:20:49.770 | Delwath] She used this against us."
+      ],
+      "after": [
+        "[u1837 | 02:20:58.800-02:21:01.620 | Seeker] yeah it's just you know self Defense.",
+        "[u1838 | 02:21:03.300-02:21:03.510 | Delwath] But."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1859",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "link"
+      ],
+      "text": "link.",
+      "raw": "[u1859 | 02:22:06.870-02:22:07.290 | Delwath] link.",
+      "originalRaw": "[u1859 | 02:22:06.870-02:22:07.290 | Delwath] link.",
+      "before": [
+        "[u1857 | 02:22:03.840-02:22:05.400 | DM] Seeker identified all of these.",
+        "[u1858 | 02:22:06.630-02:22:06.840 | DM] Like."
+      ],
+      "after": [
+        "[u1860 | 02:22:07.320-02:22:15.270 | Delwath] If you want to be so cautious about anything you should really wonder why we're kicking around a mirror that lets you spy on people's dreams.",
+        "[u1861 | 02:22:17.070-02:22:20.190 | DM] it's true using their blood no less."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1881",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "Do you want that"
+      ],
+      "text": "Do you want that, and guys I got maybe like 15.",
+      "raw": "[u1881 | 02:23:48.720-02:23:51.210 | Kenzo] Do you want that, and guys I got maybe like 15.",
+      "originalRaw": "[u1881 | 02:23:48.720-02:23:51.210 | Kenzo] Do you want that, and guys I got maybe like 15.",
+      "before": [
+        "[u1879 | 02:23:24.300-02:23:25.830 | Wellby] yeah we're not arguing with you.",
+        "[u1880 | 02:23:42.990-02:23:47.820 | DM] So continuing on do you have any more conversations tonight."
+      ],
+      "after": [
+        "[u1882 | 02:23:51.300-02:23:53.850 | Kenzo] minutes, yes please 15, 20.",
+        "[u1883 | 02:23:54.210-02:23:56.850 | DM] that's what i'm aiming you'll get we'll stop when we get to Tokra."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1882",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "yes please"
+      ],
+      "text": "minutes, yes please 15, 20.",
+      "raw": "[u1882 | 02:23:51.300-02:23:53.850 | Kenzo] minutes, yes please 15, 20.",
+      "originalRaw": "[u1882 | 02:23:51.300-02:23:53.850 | Kenzo] minutes, yes please 5020.",
+      "before": [
+        "[u1880 | 02:23:42.990-02:23:47.820 | DM] So continuing on do you have any more conversations tonight.",
+        "[u1881 | 02:23:48.720-02:23:51.210 | Kenzo] Do you want that, and guys I got maybe like 15."
+      ],
+      "after": [
+        "[u1883 | 02:23:54.210-02:23:56.850 | DM] that's what i'm aiming you'll get we'll stop when we get to Tokra.",
+        "[u1884 | 02:23:57.480-02:24:00.150 | DM] Nice that should work out perfectly."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1885",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "happy"
+      ],
+      "text": "Actually, I like super duper happy, can we pause for like two minutes.",
+      "raw": "[u1885 | 02:24:00.480-02:24:03.420 | Seeker] Actually, I like super duper happy, can we pause for like two minutes.",
+      "originalRaw": "[u1885 | 02:24:00.480-02:24:03.420 | Seeker] Actually, I like super duper happy, can we pause for like two minutes.",
+      "before": [
+        "[u1883 | 02:23:54.210-02:23:56.850 | DM] that's what i'm aiming you'll get we'll stop when we get to Tokra.",
+        "[u1884 | 02:23:57.480-02:24:00.150 | DM] Nice that should work out perfectly."
+      ],
+      "after": [
+        "[u1886 | 02:24:03.780-02:24:04.890 | Delwath] yeah yeah.",
+        "[u1887 | 02:24:11.070-02:24:15.450 | Kenzo] TIM, what was the name of a did we come up with names for my two friends, we did right."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1897",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "you could assign"
+      ],
+      "text": "Karawa you could assign.",
+      "raw": "[u1897 | 02:24:41.700-02:24:42.750 | DM] Karawa you could assign.",
+      "originalRaw": "[u1897 | 02:24:41.700-02:24:42.750 | DM] Care you could assign.",
+      "before": [
+        "[u1895 | 02:24:36.960-02:24:37.590 | DM] that's true.",
+        "[u1896 | 02:24:37.680-02:24:41.100 | Kenzo] And then we then we were in which we call it the."
+      ],
+      "after": [
+        "[u1898 | 02:24:42.810-02:24:44.670 | DM] You could have sent word ahead if you wanted.",
+        "[u1899 | 02:24:44.970-02:24:51.960 | Kenzo] yeah I think would send word ahead to the monastery and let them know that we were coming so we'd have a place to stay i'd also send word to my friend who runs the inn."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u1946",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "that's easier"
+      ],
+      "text": "that's easier.",
+      "raw": "[u1946 | 02:28:39.930-02:28:41.400 | DM] that's easier.",
+      "originalRaw": "[u1946 | 02:28:39.930-02:28:41.400 | DM] that's easier.",
+      "before": [
+        "[u1944 | 02:28:35.010-02:28:37.830 | Kenzo] I mean TIM it's not going to be as Nice as the Ikram's place right.",
+        "[u1945 | 02:28:37.980-02:28:39.810 | Kenzo] Now, this is a little bit more."
+      ],
+      "after": [
+        "[u1947 | 02:28:41.490-02:28:50.580 | Kenzo] yeah yeah it's it's not the nicest lodgings that we've stayed in we have a lot more money and items.",
+        "[u1948 | 02:28:51.600-02:28:59.520 | Kenzo] That may We may want a little more security for, in which case you know, maybe going to the monastery might be a little bit better it's a little more discreet a little more out of the way."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u2010",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "Temple"
+      ],
+      "text": "Good question Temple.",
+      "raw": "[u2010 | 02:33:49.650-02:33:50.430 | Kenzo] Good question Temple.",
+      "originalRaw": "[u2010 | 02:33:49.650-02:33:50.430 | Kenzo] Good question Paul.",
+      "before": [
+        "[u2008 | 02:33:41.880-02:33:42.330 | Unknown] Exactly.",
+        "[u2009 | 02:33:45.360-02:33:48.600 | Seeker] there's an archive is that affiliated with the temple or the monastery."
+      ],
+      "after": [
+        "[u2011 | 02:33:50.700-02:33:51.270 | Kenzo] Temple yeah.",
+        "[u2012 | 02:33:52.230-02:34:01.170 | DM] But wow the archive is yes, is affiliated with the temple the monastery have its own library, the monastery is not in town monastery it's about three miles."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u2013",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "For the outskirts of"
+      ],
+      "text": "For the outskirts of that's why it's a nice place to.",
+      "raw": "[u2013 | 02:34:01.200-02:34:03.630 | Kenzo] For the outskirts of that's why it's a nice place to.",
+      "originalRaw": "[u2013 | 02:34:01.200-02:34:03.630 | Kenzo] For the outskirts of why it's a nice place to.",
+      "before": [
+        "[u2011 | 02:33:50.700-02:33:51.270 | Kenzo] Temple yeah.",
+        "[u2012 | 02:33:52.230-02:34:01.170 | DM] But wow the archive is yes, is affiliated with the temple the monastery have its own library, the monastery is not in town monastery it's about three miles."
+      ],
+      "after": [
+        "[u2014 | 02:34:03.810-02:34:04.860 | Seeker] We should start there yeah.",
+        "[u2015 | 02:34:05.490-02:34:16.620 | Delwath] My only thought might be, we might not want the monastery to be where people call on us when our names start to spread through town, it may be worth trying to have a place where we're staying that is not."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u2026",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "How it is where we are can be found"
+      ],
+      "text": "How it is where we are can be found.",
+      "raw": "[u2026 | 02:34:47.040-02:34:49.350 | Delwath] How it is where we are can be found.",
+      "originalRaw": "[u2026 | 02:34:47.040-02:34:49.350 | Delwath] How it is where we are can be found.",
+      "before": [
+        "[u2024 | 02:34:42.810-02:34:46.170 | Delwath] not sure that we should give out the monastery when we are.",
+        "[u2025 | 02:34:46.260-02:34:47.010 | Kenzo] yeah yeah."
+      ],
+      "after": [
+        "[u2027 | 02:34:49.770-02:34:53.760 | Kenzo] Kenzo, you know, does know Tokra pretty well or very well.",
+        "[u2028 | 02:34:54.840-02:35:03.150 | Kenzo] Like you know Kenzo thinks about kind of like one of the the more mainstream inns that's like you know nice inn in the heart of the city."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u2030",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "about a complete"
+      ],
+      "text": "You know what I mean it's sort of like the what's the equivalent in Boston not like that it's it's like one of those hotels about a complete or something like that you know I mean it's like it's like in.",
+      "raw": "[u2030 | 02:35:04.080-02:35:12.480 | Kenzo] You know what I mean it's sort of like the what's the equivalent in Boston not like that it's it's like one of those hotels about a complete or something like that you know I mean it's like it's like in.",
+      "originalRaw": "[u2030 | 02:35:04.080-02:35:12.480 | Kenzo] You know what I mean it's sort of like the what's the equivalent in Boston not like that it's it's like one of those hotels about a complete or something like that you know I mean it's like it's like in.",
+      "before": [
+        "[u2028 | 02:34:54.840-02:35:03.150 | Kenzo] Like you know Kenzo thinks about kind of like one of the the more mainstream inns that's like you know nice inn in the heart of the city.",
+        "[u2029 | 02:35:03.390-02:35:03.930 | DM] yeah."
+      ],
+      "after": [
+        "[u2031 | 02:35:12.690-02:35:13.590 | Kenzo] harness it was.",
+        "[u2032 | 02:35:13.800-02:35:14.250 | Delwath] or something."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u2031",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "harness"
+      ],
+      "text": "harness it was.",
+      "raw": "[u2031 | 02:35:12.690-02:35:13.590 | Kenzo] harness it was.",
+      "originalRaw": "[u2031 | 02:35:12.690-02:35:13.590 | Kenzo] harness it was.",
+      "before": [
+        "[u2029 | 02:35:03.390-02:35:03.930 | DM] yeah.",
+        "[u2030 | 02:35:04.080-02:35:12.480 | Kenzo] You know what I mean it's sort of like the what's the equivalent in Boston not like that it's it's like one of those hotels about a complete or something like that you know I mean it's like it's like in."
+      ],
+      "after": [
+        "[u2032 | 02:35:13.800-02:35:14.250 | Delwath] or something.",
+        "[u2033 | 02:35:14.310-02:35:14.550 | DM] Right."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u2074",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "or something that important in the part"
+      ],
+      "text": "But it's no big deal or something that important in the part don't worry about the.",
+      "raw": "[u2074 | 02:39:47.940-02:39:50.400 | Seeker] But it's no big deal or something that important in the part don't worry about the.",
+      "originalRaw": "[u2074 | 02:39:47.940-02:39:50.400 | Seeker] But it's no big deal or something that important in the part don't worry about the.",
+      "before": [
+        "[u2072 | 02:39:25.470-02:39:33.720 | DM] The City of Tokra itself lies just beyond the river, on the other side of a huge arching bridge made of solid greystone that's.",
+        "[u2073 | 02:39:34.500-02:39:47.550 | DM] That is the only crossing of the Hara for miles in either direction although realistically, you could probably ford it fairly easily Oh, I guess, with your wagon it with your cart, it might be trouble um."
+      ],
+      "after": [
+        "[u2075 | 02:39:53.010-02:40:04.170 | DM] bridge is worn and has definitely seen better days. Its old decorative pillars that once lined the crossing like on either side are clearly missing.",
+        "[u2076 | 02:40:05.460-02:40:15.390 | DM] And only on the far side of the River have they been replaced by statues of two rearing horses with like manes flowing down the back, not not no riders just horses."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    },
+    {
+      "uid": "u2150",
+      "importance": "incidental",
+      "group": "unmarked-table-noise",
+      "phrases": [
+        "Very awful"
+      ],
+      "text": "Very awful.",
+      "raw": "[u2150 | 02:49:10.980-02:49:11.910 | Unknown] Very awful.",
+      "originalRaw": "[u2150 | 02:49:10.980-02:49:11.910 | Unknown] Very awful.",
+      "before": [
+        "[u2148 | 02:48:57.030-02:49:02.760 | DM] odd company you're keeping [[to our five and a half link]] traveling together.",
+        "[u2149 | 02:49:07.320-02:49:08.550 | Kenzo] we're just on the way to city."
+      ],
+      "after": [
+        "[u2151 | 02:49:14.130-02:49:15.060 | Kenzo] Just hands over the.",
+        "[u2152 | 02:49:17.040-02:49:18.630 | Kenzo] Whatever the toll is yeah."
+      ],
+      "reason": "Unclear conversational fragment, interjection, repetition, or table banter; the substantive action is clear in surrounding units. Preserved without guessing.",
+      "markerStatus": "unmarked"
+    }
+  ]
+}

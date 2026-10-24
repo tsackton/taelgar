@@ -1,0 +1,21 @@
+{
+  "structuralValidation": "passed",
+  "physicalUnits": 3136,
+  "exactHeadersAndOrder": "passed",
+  "completeSequentialUniqueUidRange": "u0001–u3136",
+  "inputFingerprintsUnchanged": 8,
+  "transcriptSha256": "518d590d2ddcd0f66638897a1994e616d5da48bafab1d519b1981e7573491bab",
+  "reportAssessmentInventoryFingerprints": "passed",
+  "jsonYamlArtifactsParse": "passed",
+  "humanTranscriptAndSummaryMatchGenerator": "passed",
+  "sourceLabelledQuotationsAndContexts": "exactly verified against prepared file",
+  "incrementalEditLedgerReplay": "passed",
+  "scopedGitDiffCheck": "passed",
+  "untrackedOutputDiffCheck": "passed; git no-index exit 1 signifies differences, with no whitespace diagnostics",
+  "humanAcceptanceRecorded": false,
+  "pendingReviewMaterialLines": 30,
+  "pendingReviewMaterialSpans": 31,
+  "incidentalMarkedLines": 115,
+  "incidentalMarkedSpans": 120,
+  "additionalUnmarkedIncidentalLinesAndSpans": 117
+}

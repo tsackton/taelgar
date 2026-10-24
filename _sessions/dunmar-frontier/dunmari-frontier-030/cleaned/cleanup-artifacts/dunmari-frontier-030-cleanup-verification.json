@@ -1,0 +1,136 @@
+{
+  "outcome": "completed-unresolved",
+  "unitCount": 3518,
+  "changedUnitCount": 1359,
+  "replacementPatternCount": 1862,
+  "repeatedReplacementPatternCount": 162,
+  "unresolvedLineCount": 138,
+  "unresolvedSpanCount": 138,
+  "pendingMaterialCount": 71,
+  "incidentalCount": 67,
+  "acceptedCount": 0,
+  "transcriptSha256": "bbc1f8c9172d7d21b37a3f1833d5e5e6a53cfedb82b052f1b52acec58ffbf0d4",
+  "passes": {
+    "firstPass": {
+      "range": "u0001–u3518",
+      "unitsIndividuallyInspected": 3518,
+      "complete": true
+    },
+    "strictSecondPass": {
+      "range": "u0001–u3518",
+      "unitsIndividuallyInspected": 3518,
+      "complete": true,
+      "focus": [
+        "protected names and possessives",
+        "turn language",
+        "phonetic name substitutions",
+        "semantic errors",
+        "repeated spelling drift",
+        "unsupported first-pass repairs"
+      ]
+    },
+    "finalNameCapitalizationAudit": "7 text-only capitalization fixes; changed passages checked"
+  },
+  "checks": {
+    "exactHeaderBytesAndOrder": "passed",
+    "oneInputUnitPerOutputUnit": "passed",
+    "contiguousUnitIDs": "passed",
+    "canonicalReportBuilders": "passed",
+    "assessmentFingerprint": "passed",
+    "completeUniqueAssessmentCoverage": "passed",
+    "reviewInventoryCoverage": "passed",
+    "correctionsYAMLParseAndContent": "passed",
+    "generatedHumanTranscriptAndSummary": "passed",
+    "scopedGitDiffCheck": "passed",
+    "newFileGitNoIndexWhitespaceChecks": "passed",
+    "preservedInputHashes": "passed"
+  },
+  "usage": {
+    "applicableReportedWindow": "codex.primary",
+    "windowDurationMins": 10080,
+    "usedPercentAtStart": 2,
+    "remainingPercentAtStart": 98,
+    "usedPercentAtFinish": 2,
+    "remainingPercentAtFinish": 98,
+    "secondary": "null; no percentage inferred; no second applicable bucket reported"
+  },
+  "preservedInputs": {
+    "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-session.yaml": {
+      "beforeSha256": "fce06c47e7618c1d1f35f3993641d01a5ea7bc8efa23eedd9e024b586592f4c7",
+      "afterSha256": "fce06c47e7618c1d1f35f3993641d01a5ea7bc8efa23eedd9e024b586592f4c7",
+      "unchanged": true
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-source-prepared.md": {
+      "beforeSha256": "1627e64da13b2d20b0acc0b5663b9708bd88912a260948a2307fb3db5ca93a33",
+      "afterSha256": "1627e64da13b2d20b0acc0b5663b9708bd88912a260948a2307fb3db5ca93a33",
+      "unchanged": true
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-speaker-stats.json": {
+      "beforeSha256": "d048d297999507a8c6e81458a677a51ca9c78621a00f57f87b7e23a2efe2d503",
+      "afterSha256": "d048d297999507a8c6e81458a677a51ca9c78621a00f57f87b7e23a2efe2d503",
+      "unchanged": true
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-030/sources/merged.transcript.vtt": {
+      "beforeSha256": "e6ec6856c23476505149e9d9788d5760549c1d6726b7f4cee28280d604e71cfa",
+      "afterSha256": "e6ec6856c23476505149e9d9788d5760549c1d6726b7f4cee28280d604e71cfa",
+      "unchanged": true
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-030/sources/zoom-session-030.speaker_mapping.json": {
+      "beforeSha256": "9906ecd8d383b55b33edfd22621acff54be0f911e216375035e7a641d2c1f30e",
+      "afterSha256": "9906ecd8d383b55b33edfd22621acff54be0f911e216375035e7a641d2c1f30e",
+      "unchanged": true
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-030/sources/dunmar-frontier-session030.yaml": {
+      "beforeSha256": "ba097f25b189bd1e24e962102bf8feb6e70ec7a18d77f874d4f42b6044485ddd",
+      "afterSha256": "ba097f25b189bd1e24e962102bf8feb6e70ec7a18d77f874d4f42b6044485ddd",
+      "unchanged": true
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-030/sources/dunmar-frontier-session030-participants.yaml": {
+      "beforeSha256": "8140983d8d8317d91921344327667c5e93442ac158b9aadabfce89667590976a",
+      "afterSha256": "8140983d8d8317d91921344327667c5e93442ac158b9aadabfce89667590976a",
+      "unchanged": true
+    },
+    "_sessions/campaign-glossary.json": {
+      "beforeSha256": "365adb0efd18f9bcb39edb6668a43672b54642fcec6f970cdaa7dd24748443be",
+      "afterSha256": "365adb0efd18f9bcb39edb6668a43672b54642fcec6f970cdaa7dd24748443be",
+      "unchanged": true
+    }
+  },
+  "sharedQueueObservation": {
+    "beforeSha256": "b3b4c95266cbb52aedc73b8089cee090be0a3f378a0e446cbd30204848ad09d8",
+    "afterSha256": "19a0634f2fb5beccf9e58d24e957816ae75bb3858777f3fa118b05a83d4fc2fb",
+    "unchanged": false,
+    "workerAction": "Read only; not edited by this worker. Hash changed during concurrent queue-owner work; no restoration attempted."
+  },
+  "outputs": {
+    "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-source-cleaned.md": {
+      "sha256": "bbc1f8c9172d7d21b37a3f1833d5e5e6a53cfedb82b052f1b52acec58ffbf0d4",
+      "whitespaceCheck": "passed"
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/cleanup-artifacts/dunmari-frontier-030-cleanup-assessment.json": {
+      "sha256": "791f11a4f9e73e95b9650e27f9b3424eff68e34d380869cc17976b28ceee7f41",
+      "whitespaceCheck": "passed"
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/cleanup-artifacts/dunmari-frontier-030-cleanup-report.json": {
+      "sha256": "17daa571eea74737aef06a082e80e99a14a09dfec3f62c0cc00fc6593e79931a",
+      "whitespaceCheck": "passed"
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/cleanup-artifacts/dunmari-frontier-030-cleanup-review.md": {
+      "sha256": "3ef7392f89a8953108737dfc5fc58729ccb56e05d5788b2d0e8b9d9221338ac6",
+      "whitespaceCheck": "passed"
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/cleanup-artifacts/dunmari-frontier-030-cleanup-summary.md": {
+      "sha256": "345fad934bf12e579a9e7e800c71e8037e3168fed4353cf2e860a6b3d4cba81f",
+      "whitespaceCheck": "passed"
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/cleanup-artifacts/dunmari-frontier-030-human-transcript.md": {
+      "sha256": "f049afa3d92ce705e771b963ea64e38930ecfcdd92b8d7f8301bb48adc017f5f",
+      "whitespaceCheck": "passed"
+    },
+    "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/cleanup-artifacts/dunmari-frontier-030-session-corrections.yaml": {
+      "sha256": "ee03acad3f77ec6ce1e3e96701e852b344b59e8b6393035ee52e8cfa5e1b595b",
+      "whitespaceCheck": "passed"
+    }
+  },
+  "scope": "Only session 030 cleaned transcript and per-session cleanup artifacts created. Shared queue index not edited. No archival source content used as correction evidence. No decisions file, audio review page, full pipeline, recap, campaign edit, commit, push, or worker created."
+}

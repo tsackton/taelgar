@@ -1,0 +1,55 @@
+{
+  "status": "cleanup_complete_morning_review_pending",
+  "usageRemainingAtStart": 94,
+  "protectedNames": [
+    "Kenzo",
+    "Wellby",
+    "Delwath",
+    "Seeker",
+    "Riswynn",
+    "DM"
+  ],
+  "glossary": "_sessions/campaign-glossary.json (read in full, canonical spelling support only)",
+  "inputFingerprints": {
+    "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-source-prepared.md": "1ed34e33db2023f5a4a48a0654fcd1b38e68f59ac7ffcae140174d811171264e",
+    "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-session.yaml": "f63e22c5d75982388eaaa792189104beb7e406c8c1ea62065dd93549b5573bb6",
+    "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-speaker-stats.json": "0618a42170032a83986f43db2ac2d4986d1d801961a1e394be2c4a22e4f152c3"
+  },
+  "firstPassThrough": 3320,
+  "secondPassThrough": 3320,
+  "unitCount": 3320,
+  "changedUnitCount": 1322,
+  "transcriptSha256": "411de9e5d40162b82cdcef023f67b6749280581c8eb23c6e0a79e8e0235f8db3",
+  "usageRemainingAtFinalCheck": 94,
+  "humanAcceptance": false,
+  "uncertaintyCounts": {
+    "material": {
+      "lines": 60,
+      "spans": 65
+    },
+    "incidental": {
+      "lines": 128,
+      "spans": 136
+    },
+    "additionalUnmarkedIncidental": {
+      "lines": 92,
+      "spans": 92
+    },
+    "allIncidental": {
+      "lines": 220,
+      "spans": 228
+    }
+  },
+  "secondaryEvidence": {
+    "Things/Books/On the Lost People of the Forests.md": "Full source read; confirms Gnaeus as the discredited author discussed in current transcript.",
+    "People/Chardonians/Arcus.md": "Full source read; corroborates Arcus in Dee and Dain’s group, subordinate to repeated current-session Arcus variants.",
+    "otherSampledNotes": [
+      "People/Chardonians/Kaeso.md",
+      "People/Chardonians/Casian.md (partial tool display; no additional facts adopted)",
+      "People/Chardonians/Lyra.md (partial tool display; no additional facts adopted)",
+      "People/Chardonians/Roscelia.md",
+      "People/Dwarves/Ulfgar Frostbeard.md"
+    ],
+    "restriction": "No later events, DM secrets, or source-archive text imported into the transcript."
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "firstPassThrough": 800,
+  "strictSecondPassThrough": 0,
+  "complete": false,
+  "protectedNames": [
+    "Seeker",
+    "Caulaus",
+    "Kenzo",
+    "Wellby",
+    "DM"
+  ],
+  "glossary": "_sessions/campaign-glossary.json",
+  "usageRemainingAtStart": 91
+}

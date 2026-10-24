@@ -1,0 +1,73 @@
+{
+  "thresholdRemainingPercent": 50,
+  "checks": [
+    {
+      "phase": "before_cleanup",
+      "remainingPercent": 92,
+      "reportedUsedPercent": 8,
+      "windowDurationMins": 10080,
+      "checkSucceeded": true
+    },
+    {
+      "phase": "during_cleanup",
+      "remainingPercent": 92,
+      "reportedUsedPercent": 8,
+      "windowDurationMins": 10080,
+      "checkSucceeded": true
+    },
+    {
+      "phase": "after_second_pass",
+      "remainingPercent": 91,
+      "checkSucceeded": true,
+      "report": {
+        "rateLimits": {
+          "limitId": "codex",
+          "limitName": null,
+          "normalModelSlug": null,
+          "primary": {
+            "usedPercent": 9,
+            "windowDurationMins": 10080,
+            "resetsAt": 1793382208
+          },
+          "secondary": null,
+          "credits": {
+            "hasCredits": true,
+            "unlimited": false,
+            "balance": "62500.0000000000"
+          },
+          "individualLimit": null,
+          "spendControlReached": null,
+          "planType": "pro",
+          "rateLimitReachedType": null
+        },
+        "ordinaryUsageAllowed": null,
+        "rateLimitsByLimitId": {
+          "codex": {
+            "limitId": "codex",
+            "limitName": null,
+            "normalModelSlug": null,
+            "primary": {
+              "usedPercent": 9,
+              "windowDurationMins": 10080,
+              "resetsAt": 1793382208
+            },
+            "secondary": null,
+            "credits": {
+              "hasCredits": true,
+              "unlimited": false,
+              "balance": "62500.0000000000"
+            },
+            "individualLimit": null,
+            "spendControlReached": null,
+            "planType": "pro",
+            "rateLimitReachedType": null
+          }
+        },
+        "rateLimitResetCredits": null,
+        "accountId": null,
+        "rateLimitUpsell": null
+      }
+    }
+  ],
+  "decision": "All reported applicable windows remained at or above 50%; no failed checks."
+}
