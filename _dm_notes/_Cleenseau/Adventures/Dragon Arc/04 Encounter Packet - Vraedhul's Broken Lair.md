@@ -48,3 +48,7 @@ The official [2014 encounter-building guidance](https://www.dndbeyond.com/source
 ## Review and publication record
 
 Each completed encounter draft is sent to a subagent for playability and balance review before final handoff. Review notes and revisions are recorded here as they arrive. Commits are pushed incrementally; intermediate versions may contain proposals still awaiting review. No material in this packet selects a flavor on the DM's behalf.
+
+- **E01 reviewed:** light objective encounter for this party. Fixed the demonstration accidentally breaking both barriers, placed safe pockets, and clarified charge movement, activation, and committed lanes.
+- **E02 reviewed:** no balance concern. Separated basic reconnaissance from the optional predator approach roll, aligned positions with E03, and added the panorama's spatial frame.
+- **E03 reviewed:** light rescue. Capped all ribbon progress to one stage per round, clarified both scouting starts, NPC extraction, seizure, and pursuit ending.
