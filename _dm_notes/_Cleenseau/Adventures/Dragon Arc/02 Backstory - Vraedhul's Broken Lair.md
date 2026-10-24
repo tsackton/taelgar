@@ -23,6 +23,7 @@ Design and preparation priorities: [[01 Overview - Vraedhul's Broken Lair]]. Con
 - [[Philosopher's Information Concerning Limbo]] and the recent Dunmari Limbo adventures supplied atmosphere and examples of readable warning signs. Their full-plane danger and freedom to reshape reality are not appropriate to this level 9 expedition.
 - [[Arborea]] supplies untamed, overwhelming life and growth. The bound maker of magical wonders is a new adventure-specific being, not an established species from that note.
 - [[Deva]] and [[Elven Arborea Workshop]] offer background precedent for Arborean manifestations and planar craft research. Neither establishes this maker's species or exact craft.
+- [[Plaguelands]] supplies the arid, ashy, rocky regional background and ancient unnatural terrain. [[Orenlas]] is the departure region. [[Climate of Greater Sembara and Aurbez]] supplies a relatively mild lowland winter baseline; [[Magical Climate Departures]] cautions against treating magically altered places as ordinary climate evidence. The precise route and elevation remain open.
 - The earlier split-minded kobold was an unadopted proposal in the previous adventure draft. Its conceptual interest is reused in the maker; that kobold and the scavenger fragment are not imported.
 
 ## Current situation
@@ -113,7 +114,7 @@ Working schematic, not a measured map:
 - Dragons flew between peaks. Underground kobold tunnels connect them; there are no adopted direct surface bridges or corridors between the peaks.
 - The offspring routes reach Vraedhul's mountain through this network, without requiring traversal of the unformed workshops.
 
-The shared outer terrain is dangerous and inhabited. No exact approach map or set of outside encounters is selected.
+The shared outer terrain is dangerous and inhabited. The initial approach now runs from an altered river to a crooked estate road, a distant expulsion of lair fragments, and optional reconnaissance through the intervening country. The physical map and exact distances remain open.
 
 ### Vraedhul's main complex
 
@@ -218,15 +219,57 @@ The partly tamed creature is a distinct current ingredient. It is not the abando
 
 ### Outside inhabitants
 
-The outside should contain chaos, elementals, and other dangers. Some may be remnants of Vraedhul's servants and others may be uncontrolled inhabitants of the changed landscape. No particular creature roster or encounter has been adopted.
+The outside should contain chaos, elementals, and other dangers. Some may be remnants of Vraedhul's servants and others may be uncontrolled inhabitants of the changed landscape. The selected opening ingredients are a charging chaos creature at the river and a hidden living kobold threatened by a predator. These do not yet have final species, names, or statistics.
+
+#### Departure, winter, and the scrambled landscape
+
+The party leaves Orenlas knowing that the dragon's guardian exists and takes tribute, but not its current form. Uneventful wilderness travel is time-skipped. There is no adopted ordinary road across that wilderness. Beyond the river, the old grand approach belongs to Vraedhul's estate: it is broken and twisted in nonsensical ways but remains followable.
+
+The intended season is late December or early January. The Plaguelands are already magically damaged, with arid ash, dust, cracked stone, upthrust cliffs, and sparse thorny growth in sheltered hollows; avoid defaulting to a lush woodland or blanket snow. Relatively mild lowland winters make anomalous river freezing useful. Elevation, ordinary weather, and the Nimrathë's width and seasonal flow are not fixed. Orenlas's enchanted seasons and the dragon's domain are not ordinary climate constraints.
+
+The visual theme is terrain scrambled out of its sensible arrangement: overturned and displaced pieces, with enough continuous landmarks to navigate. The old grand road remains a clear option. Winter frost revealing surfaces or tracks on an impossible orientation is an illustrative detail, not an adopted weather requirement.
+
+#### River crossing and the charging creature
+
+The lair is beyond a river; the original background associates the domain with the Nimrathë. The crossing's exact geography is not yet mapped. At the affected reach, water is unnaturally held in solid form. The opening is not an ordinary winter ice crossing.
+
+The chosen obstacle includes air holding solid shapes above the river, so simply flying straight across does not ignore the problem. Transparent sheets and wedges can have visible tells such as ash stopping or sliding along an invisible plane and frost tracing suspended edges. These tells are working examples; the important requirement is that the party can discover and understand the obstacle. Useful gaps, detours, probing, force, and suitable magic remain possible. This is no blanket prohibition on flight.
+
+The selected chaos-creature interaction is a heavy charging thing that breaks the solid-air barriers. The working image has a wedge-shaped head and forequarters hardening to dark glass before a charge. It visibly winds up, commits to a line, and shatters barriers in its path, leaving usable gaps. The party can bait or reposition it and use its destructive behavior to make a crossing. They may want it alive long enough to do this.
+
+The objective is to establish a usable passage and cross. Killing the creature is neither required nor automatically sufficient; the party can use other effective methods. Exact statistics, charge distances, opening sizes, action timing, damage, and barrier rules have not been adopted. The earlier moving woodland lookout and Air Elemental mechanics are not the selected opening.
+
+#### Two obvious directions after the crossing
+
+Beyond the river the view opens. The crooked grand road leads toward Vraedhul's known formal approach. In roughly the opposite direction, a towering disturbance visibly ejects parts of Zaurmath's lair. It offers an obvious object of investigation without already explaining a second entrance.
+
+An upright whirlpool of architectural fragments was proposed as a concrete image: pieces of chambers, blocks, and arches drawn out, changed, and expelled. The precise phenomenon is still open; no enormous new creature is established. This is spreading unmaking at Zaurmath's peak, not a replacement for the central workshops as the original incursion site. Its intermittent spectacle should suggest a place being lost without imposing a constant immediate countdown.
+
+The party can follow the road, head toward the disturbance, or first scout the intervening broken country. These are choices of approach, not three mandatory stops.
+
+#### Brief reconnaissance and the hidden kobold
+
+The user adopted a single short reconnaissance pass: establish how the party gains an overview and looks for signs of inhabitants, then resolve those activities together. Do not turn each clue into a separate search scene or require a tour of all three entrances. Basic information is the reward for deliberately scouting; there is no useful tribute to collect.
+
+Prepare these three findings:
+
+- **Road/formal route:** the distorted paving remains followable. A colossal constructed presence moves at its destination, and the approach offers little concealment. Together with what they know from Orenlas, this indicates the value of tribute and the difficulty of sneaking past the keeper. The distant observation does not reveal the maker's present form or three perspectives.
+- **Expelling lair/environmental route:** watching reveals some pattern in the upheaval and a lower shelf or opening that remains coherent beside the worst chaos. A usable route may survive; observation and careful traversal matter. Its precise position is a construction detail.
+- **Inhabitant tracks/third route:** small bootprints follow sheltered gullies and gaps between displaced rocks, avoiding the two obvious approaches. This is a trail toward Krauzeth's approach. A fresh deviation can lead to the hidden kobold. The exact track layout and hiding place remain to be mapped.
+
+Finding the kobold requires following this lead and investigating nearby shelter. It is alive, hiding, and threatened with being eaten. It does not automatically call the whole party away from the road. An overturned slab was a proposed hiding place; the adopted requirement is a discoverable concealed refuge and a predator actively searching for its occupant.
+
+A strong reconnaissance result allows the party to notice the predator before it reaches the refuge and prepare. A poor result brings them upon the situation as the predator begins probing it. The roll changes rescue conditions rather than erasing an entrance clue. One lead check near DC 15, with skill chosen by the method, and about ten minutes of table time were suggestions, not settled mechanics or quotas.
+
+If the party intervenes, the additional combat objective is to protect and extract the kobold. Driving off, distracting, trapping, or bypassing the predator can succeed; killing it is not the only outcome. The kobold can explain the third route and warn about the loyalists' guards and alarm. Do not make its survival necessary to discover the route, or assign it an existing NPC identity without a decision. The earlier suggestion that it kept the river creature is not adopted. Its allegiance, motives, knowledge beyond the practical entrance warning, and the predator's identity remain open.
 
 #### What the outside is for
 
 Shared dangerous approaches precede the choice of entrance. Their useful reward is knowledge of the three different challenge structures. The user explicitly said there is nothing useful to gather here as tribute.
 
-The party needs enough information to prefer payment, combat, or environmental traversal for practical reasons. Exact observations and how they are obtained are not chosen. Extra scouting might reveal more useful details, but there is no adopted requirement to inspect every approach in a fixed order.
+The party needs enough information to prefer payment, combat, or environmental traversal for practical reasons. The brief reconnaissance above now supplies the initial observations. The kobold can sharpen the information about opposition, while the basic third-route lead is visible in its tracks. There is no requirement to inspect every approach in a fixed order.
 
-The outside should feel inhabited and dangerous rather than being only an explanatory panorama. Elementals and chaos are part of that direction, but there is no accepted keyed map, monster list, encounter order, or required fight. Any fight constructed here must receive the same additional-objective treatment as the entrance fights.
+The outside should feel inhabited and dangerous rather than being only an explanatory panorama. The opening order is river crossing, open view and choice, then optional reconnaissance and rescue before an entrance. The creature roster, keyed map, and mechanics remain open. Neither the river nor the rescue requires a fight to the death. Any further fight constructed here must receive the same additional-objective treatment as the entrance fights.
 
 The rejected elemental proposal must not be reinstated to fill this gap. The last assistant proposal involving an elemental recycling a relief was not a user-selected encounter. Keep the general inhabited-landscape requirement separate from that specific rejected idea.
 
@@ -306,7 +349,7 @@ The earlier elemental proposal is rejected and superseded by the bound Arborean 
 
 ### Still to establish
 
-- Concrete exterior geography and reconnaissance clues.
+- Concrete exterior map and distances, river/solid-air geometry and reliable tells, charging creature statistics, exact observation positions for the adopted reconnaissance clues, expulsion phenomenon, and hidden-kobold rescue details.
 - The maker's actual original craft, appearance, speech, binding anchors, and possible release.
 - What its truth-aware version knows about Vraedhul and the eruption.
 - The loyalists' identities, motives, creature, alarm equipment, and destruction method.

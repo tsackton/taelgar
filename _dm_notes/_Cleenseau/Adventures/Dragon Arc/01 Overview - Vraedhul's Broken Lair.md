@@ -40,7 +40,7 @@ Exploration, experimentation, worthwhile rewards, and opportunities to interact 
 
 An eruption of [[Limbo]] killed [[Vraedhul]] about three months ago. Residual chaos is progressively consuming her three-peak domain. The workshops at its center are already largely unformed, while enough of the mountains, passages, and creations remain coherent to explore.
 
-The party scouts the dangerous outer grounds and chooses among three entrances: tribute and social interaction at Vraedhul's formal entrance, combat at Krauzeth's abandoned lair, or environmental traversal through Zaurmath's devastated lair. Overcoming any entrance earns access to a shared viewpoint that confirms Vraedhul's death.
+The party crosses a river altered by Limbo and reaches scrambled outer grounds. A crooked grand road points toward the known formal entrance; a distant upheaval expelling lair fragments draws attention in another direction. Optional brief scouting reveals clues to all three entrances and can lead to a hidden kobold in danger. The entrance alternatives are tribute and social interaction at Vraedhul's formal entrance, combat at Krauzeth's abandoned lair, or environmental traversal through Zaurmath's devastated lair. Overcoming any entrance earns access to a shared viewpoint that confirms Vraedhul's death.
 
 Deeper exploration passes through the supplicant quarters, then an audience-chamber and personal-lair capstone. Vraedhul's strange and cruel creations supply both challenges and desirable treasure.
 
@@ -49,6 +49,8 @@ Deeper exploration passes through the supplicant quarters, then an audience-cham
 Rumors leave uncertainty about Vraedhul's death. The PCs have credible reason to believe she is dead from kobolds who traveled with Krauzeth; they have killed him, have relationships with some of those kobolds, and know some of the family's history.
 
 Confirming her death provides the initial objective. Looting a dragon's lair is already a strong motivation. No particular patron or new quest giver has been selected or is required by the current outline.
+
+The immediate departure point is Orenlas, where the party learns that the guardian exists and takes tribute, without learning its current form. Uneventful wilderness travel is narrated briefly. The first playable challenge is the river crossing just before the domain; the party initially knows only the formal entrance.
 
 The shared approaches are dangerous and inhabited by elementals, chaos-altered creatures, and other hazards. Exploring them provides knowledge of the entrances and their relative demands. It does not provide useful tribute.
 
@@ -117,7 +119,7 @@ On Krauzeth's route, the earlier encounter's outcome changes the main encounter.
 
 Environmental mistakes should allow recovery where appropriate, through lost positioning, rescue, equipment, health, or magic. The visibly unforming breach is avoidable; crossing it is not required to complete Zaurmath's route.
 
-Combat outcomes must depend on concrete objectives beyond killing: prevent a warning, preserve or open a passage, interfere with a binding, or accomplish another encounter-specific task. Actual outside fights still need those additional objectives selected.
+Combat outcomes must depend on concrete objectives beyond killing: prevent a warning, preserve or open a passage, interfere with a binding, or accomplish another encounter-specific task. The opening crossing concerns making a usable passage through solid air, potentially by exploiting the chaos creature's charges. The optional outside rescue concerns protecting and extracting a hidden kobold before its predator can consume it.
 
 ## Encounter objectives and player agency
 
@@ -125,7 +127,7 @@ The user introduced the combat rule after recalling another game: protecting a p
 
 For each fight, identify what the PCs are trying to accomplish, what the opposition actively threatens, and how that outcome changes subsequent play. Competing actions should matter during the encounter: intercept a messenger, protect access, operate or disable something, or help a constrained being. Interesting terrain or a complex enemy may support that design, but should not erase the additional objective.
 
-Krauzeth's route is the clearest adopted example. Preventing the warning is useful even before the main fight, and killing all the inner defenders can still be too late if access has been destroyed. At the formal entrance, a fight can concern a binding or an opening rather than the death of the captive. Specific objectives for outside fights are not yet chosen.
+Krauzeth's route is the clearest adopted example. Preventing the warning is useful even before the main fight, and killing all the inner defenders can still be too late if access has been destroyed. At the formal entrance, a fight can concern a binding or an opening rather than the death of the captive. At the river, killing the charging creature need not solve the crossing, while steering its destructive charges can help. The kobold rescue can succeed with the predator still alive.
 
 The three entrance categories are intended emphases, not prohibitions on creative approaches. A combat route can still be scouted, deceived, or negotiated through where the fiction allows. A payment route can still be fought or evaded, at greater difficulty. Environmental skills and magic should produce real advantages rather than being invalidated to force a planned solution.
 
@@ -147,6 +149,16 @@ The actual connected outline is in [[03 Scenes - Vraedhul's Broken Lair.canvas]]
 
 Shared dangerous approaches lead to a choice of three entrances. Solving the chosen entrance earns access to one shared discovery location on Vraedhul's mountain. The offspring routes connect through the kobold tunnel network.
 
+The initial approach now has a selected sequence:
+
+1. Narrated travel from Orenlas, carrying knowledge of tribute and the guardian's existence.
+2. An unnaturally frozen river with solid-air obstacles and a charging chaos creature. The immediate objective is a usable crossing; deliberate baiting can make its charges break barriers.
+3. An open view of the scrambled estate: a crooked grand road toward the formal entrance, and a towering expulsion of pieces of Zaurmath's lair in roughly the opposite direction.
+4. Follow either visible lead, or make a brief reconnaissance pass through the intervening country. Scouting provides clues to all three entrance types and tracks toward the third route. Following those tracks and investigating can reveal a hidden kobold threatened by a predator.
+5. Select and overcome one entrance; the discovery follows as the earned payoff.
+
+The river is the opening situation, not a mandatory combat solution. The scouting pass and kobold rescue are optional. The two visible landmarks do not automatically announce two known doors; reconnaissance turns the spectacle into practical entrance information. Exact local geography, check calibration, and encounter statistics remain open.
+
 - Formal: tribute to a grandiose likeness of Vraedhul, with a bound, Limbo-altered Arborean maker supplying the social element. Loosening its binding is an optional route through; difficult combat or stealth also remain possible.
 - Krauzeth: an outer watchpost where a warning can be prevented, followed by a main fight over access to a passage that loyalist kobolds are beginning to seal.
 - Zaurmath: cross one ruined chamber with graded transformation hazards and a visible onward tunnel.
@@ -163,7 +175,13 @@ The three routes need different structures, not simply different skins on the sa
 - Krauzeth's route asks whether the party can handle opposition while preventing warnings and preserving access. The first encounter changes the second; enemy casualties alone do not determine the outcome.
 - Zaurmath's route asks whether the party can read the environment and devise a crossing. Its main demands are diagnosis, planning, skills, equipment, and magic.
 
-The party should be able to infer these broad differences before committing. The exact reconnaissance clues, safe inspection positions, threat estimates, and additional advantages still need construction. Do not claim that a particular lookout, inscription, abandoned offering, or helpful NPC already exists.
+The agreed reconnaissance is a short overview plus a search for signs of inhabitants, resolved as one pass. Three prepared findings provide the basic route information:
+
+- **Formal:** the road remains followable; a monumental constructed presence moves at its end, and the approach is exposed. Combined with Orenlas's tribute information, this suggests payment is the straightforward route and sneaking is difficult.
+- **Zaurmath:** observe patterns in the expulsion and identify a coherent lower shelf or opening beside the worst chaos. This suggests environmental passage remains possible if they read the danger.
+- **Krauzeth:** small bootprints follow sheltered gullies and displaced-rock gaps, avoiding the two obvious approaches. Following them reveals the third route and can lead to the hidden kobold; rescuing it can supply warnings about guards and an alarm.
+
+Deliberate scouting yields the basic three leads. A roll may determine whether they identify the predator early enough to prepare, or arrive as it starts probing the kobold's shelter. Failed reconnaissance does not make a whole entrance undiscoverable. One lead check around DC 15 is a provisional implementation, not a fixed subsystem. Exact observation points and distances still need construction. The NPC's identity and predator are open; it is not automatically the river creature's handler.
 
 The entrances need not have identical physical distances or perfectly equal costs. The concern about the main entrance being shorter was that it might provide too little play before the revelation. The formal admission encounter, its social option, and the dangerous approach provide room to address that; adding an arbitrary extra discovery puzzle is not the adopted answer.
 
@@ -201,6 +219,9 @@ The proposal that the audience chamber requires coordinating several creations a
 
 - Confirming death is a finishable opening objective with a recognizable, earned payoff.
 - Reconnaissance improves an actual choice between payment, combat, and environment.
+- The opening has a shared river challenge, then visible alternatives with optional reconnaissance; scouting is not a required tour of every route.
+- Scouting success changes preparation for the optional rescue. Basic entrance leads survive a poor roll or the loss of the kobold.
+- The river encounter rewards opening a crossing, while the rescue rewards protecting an NPC. Both can succeed without killing the opposition.
 - Earlier outcomes change later conditions on Krauzeth's route.
 - Attention and learned behavior provide a coherent recurring connection between creations.
 - Accelerating decay threatens opportunity over meaningful absences without imposing constant haste.
@@ -211,7 +232,7 @@ The proposal that the audience chamber requires coordinating several creations a
 
 ## Open design questions and preparation order
 
-1. Finish the outside: concrete terrain, inhabitants, scouting positions and information, hazards, and objectives for any fights.
+1. Finish the selected opening's construction: river geometry and solid-air tells, charging creature, observation positions for the three scouting clues, the architectural expulsion, and the hidden-kobold rescue. Preserve the brief reconnaissance structure rather than expanding it into a mandatory tour.
 2. Finish the formal entrance: the maker's appearance and voice, perspective cues and influences, tribute standard, binding components, extent of possible release, combat and stealth alternatives, and what it actually knows.
 3. Finish Krauzeth's entrance: creature, handlers, warning method, optional alarm traps, demolition mechanism, battlefield, and alarm-dependent starting conditions.
 4. Finish Zaurmath's entrance: exact transformations, reliable precursors, crossing routes, magic interactions, and recoverable consequences.
