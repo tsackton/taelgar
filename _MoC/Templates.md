@@ -1,9 +1,15 @@
 # Templates
-**WARNING: outdated and incomplete**
 
-The metadata utils class  (util via customJS) provides a number of helper functions that make creation of dataview tables simpler. 
+Use the appropriate `_templates/markdown` or
+`_templates/realms-cultures-creatures` source for new subject notes. Person,
+region, and realm templates include an empty `taelgar-header` block; fill their
+frontmatter and write the article below it. The plugin renders the title and
+information from metadata. See [[Native Headers]] and [[Note Categorization]].
 
-Currently these are exposed via a set of templates:
-* members-of-org generates a table that shows the current members of the page
-* members-of-org-historical generates a table that shows the current and historical members of the page
+Species and culture templates use authored headings. Session-note templates
+under `_templates/session-notes` remain part of the session component renderer
+and contain their specialized date, cast, source, and narrative slots.
 
+The remaining query templates insert data tables or native indexes as appropriate.
+For example, `members-of-org` and `members-of-org-historical` select current or
+historical organization members. These queries are independent of note headers.

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [ancestry]
 name: culture name
 aliases: [culture singluar, culture plural]

@@ -38,7 +38,7 @@ Before generating pronunciation, identity metadata, or a header, present the pro
 
 If the search finds insufficient non-campaign-specific information for a useful base page, say precisely what is established and what is missing, describe the bounded search scope, and ask the user for guidance or new facts. This applies even when there is ample campaign recap material: do not substitute a summary of PC interactions for a defining reference fact. A single supported sentence may be enough; do not demand invention merely to lengthen a sparse note. When more information is needed, prompt for the subject's identity, role, relationships, or geographic context as appropriate, and wait for the user's direction before filling the gap. Do not manufacture an identifying paragraph from a filename, infer connective lore, or create speculative facts to satisfy completeness. Human-supplied inventions explicitly adopted for the page can support the draft; requested ideas remain noncanonical until adopted.
 
-Discuss the proposed prose with the user and ask for additional facts, corrections, or clarifications that matter to the page. Incorporate those answers while preserving factual boundaries. Once the wording is settled, present the **final core article text** as a clearly separated readable text block in chat and ask for explicit approval. Do not proceed to pronunciation proposals, metadata generation, or header generation until the core text is approved. Core-text approval does not authorize saving the note; complete-note approval and review-tag selection still follow.
+Discuss the proposed prose with the user and ask for additional facts, corrections, or clarifications that matter to the page. Incorporate those answers while preserving factual boundaries. Once the wording is settled, present the **final core article text** as a clearly separated readable text block in chat and ask for explicit approval. Do not proceed to pronunciation proposals, metadata generation, or native-header preparation until the core text is approved. Core-text approval does not authorize saving the note; complete-note approval and review-tag selection still follow.
 
 Keep routine approval prompts brief and specific to the pending decision: “Approve this core text?” or “Approve this complete page and destination?” Bundle related missing identity choices in one concise question. Preserve both approval stages and all required choices. Explain the workflow gates once when introducing the review; repeat the skill citation and relevant instruction only when a new or unexpected requirement blocks requested work or the user asks why. Do not append the same procedural explanation to every routine approval prompt.
 
@@ -58,7 +58,7 @@ Establish:
 
 Also supply required category metadata such as supported `knownTo` values (use `[]` when no campaign knowledge is known). Do not infer ancestry or language solely from a folder, residence, or spelling. Ask for missing identity facts when sources cannot establish them. If the user explicitly says a fact is unknown, represent that uncertainty according to the metadata specification; never fabricate a value to satisfy the checklist.
 
-The vault prefers `gender` with header-derived default pronouns; add `pronouns` only when the intended pronouns differ from those defaults or need an explicit override. Preserve existing explicit choices. Under this user-adopted workflow, infer `gender: female` from established she/her and `gender: male` from established he/him when the text gives pronouns but no explicit gender; briefly identify that inference in chat and include it in the complete-note preview for human correction. Explicit gender takes precedence over a pronoun-based inference. For other or mixed pronouns, preserve the established pronouns and ask the user for the intended gender value rather than treating them as proof of a particular gender. Do not infer gender or pronouns from a name, portrait, role, species, or other non-gender/non-pronoun clues. If the text establishes neither gender nor pronouns, ask the user. Verify the generated header displays the intended pronouns in the full-note preview; inferred `gender: female` normally generates `(she/her)` without a redundant `pronouns` field.
+The vault prefers `gender` with header-derived default pronouns; add `pronouns` only when the intended pronouns differ from those defaults or need an explicit override. Preserve existing explicit choices. Under this user-adopted workflow, infer `gender: female` from established she/her and `gender: male` from established he/him when the text gives pronouns but no explicit gender; briefly identify that inference in chat and include it in the complete-note preview for human correction. Explicit gender takes precedence over a pronoun-based inference. For other or mixed pronouns, preserve the established pronouns and ask the user for the intended gender value rather than treating them as proof of a particular gender. Do not infer gender or pronouns from a name, portrait, role, species, or other non-gender/non-pronoun clues. If the text establishes neither gender nor pronouns, ask the user. Verify the intended pronouns in metadata and, when available, in the rendered native header; inferred `gender: female` normally generates `(she/her)` without a redundant `pronouns` field.
 
 ### Places
 
@@ -79,23 +79,27 @@ When pronunciation is absent, perform only the linter's contextual name-review s
 
 Unlike ordinary lint's optional pronunciation exemption for obvious names, this completion workflow asks the user to establish an explicit pronunciation even for an ordinary name. Never use placeholders such as `obvious` or `inherited from` as a pronunciation. If the user declines or essential evidence is missing, explain the remaining gap and keep the page in review rather than claiming completion or removing stub status prematurely.
 
-## Generate the Obsidian header
+## Prepare the native header
 
-After settling identity metadata, generate the header before the complete-page preview. Use the Python entry point, which runs the live JavaScript `OutputHandler.generateHeader(..., true)` used by `_scripts/templater/regenerateHeader.js`, with the vault's current metadata and campaign registry:
+After settling identity metadata, keep exactly one empty `taelgar-header` fence
+after frontmatter and any existing authored H1 in the complete-note candidate.
+It generates the title only when no H1 is directly above it; pronunciation and
+the information callout still render. The plugin renders those from metadata
+and the selected in-world context; editing the note does not require a separate
+header-writing step or a date fallback.
 
-```powershell
-python -X utf8 .agents/skills/review-stub-staging/scripts/regenerate_header.py "PATH/TO/CANDIDATE.md"
-```
-
-The default prints the entire candidate without writing. Run it on a temporary draft inside the vault when the proposed metadata differs from the current page; do not save unapproved prose to the live target just to generate a preview. Pass the intended filename unchanged so name fallback is correct. Use the existing `pageTargetDate` when present; otherwise the helper uses the Taelgar calendar's current date from the vault's Calendarium configuration, matching the ordinary Obsidian header default. If no configured calendar date is available, use January 1, 1750 (`1750-01-01`) as the header-preview fallback. This fallback is not written into page metadata. Do not ask the user for an in-world display date or add `pageTargetDate` as part of this workflow. The optional `--date` override is only for an explicitly requested preview date. Never substitute the real-world date or a session date. The adapter excludes dot directories and refuses ambiguous filename links.
-
-Include the generated title, pronunciation line, information callout, dynamic views, and campaign interactions in the full-page preview. Preserve an existing `headerVersion`; the helper deliberately regenerates only the header, rather than rewriting version metadata. For a page lacking `headerVersion`, supply the current template value in the draft. The helper preserves the remaining article, comments, embeds, and persistent blocks. Inspect an unfamiliar header manually rather than widening replacement boundaries.
-
-After approval and tag selection, save the reviewed candidate including its generated header; printing the helper's output does not update the draft file. Preserve intentional Markdown hard-break spaces in generated headers and existing text; do not apply blanket line stripping to the candidate. Review any whitespace-check findings in context and fix only unintended whitespace. `--write` is available to regenerate a live header only within authorized scope; if regeneration materially changes the approved preview, obtain approval of the new complete text before saving it. Do not hand-author a substitute header or port only a subset of name/token/campaign rules.
+Preserve an existing native fence. For a new person or place note, include the
+empty fence in the complete Markdown preview. Check the accepted `name`,
+`pronunciation`, gender/pronouns, relationships, and display defaults in YAML.
+When an Obsidian preview is available, inspect the rendered header there without
+saving unapproved prose to the live note. Preserve an existing authored H1
+directly above the fence; do not add one unless requested. Do not copy rendered
+information back into the note. Preserve article text, comments,
+embeds, and persistent blocks.
 
 ## Full-page approval, tags, and filing
 
-After the readable core text has been approved and identity metadata, pronunciation, and header generation are complete, show the **complete proposed Markdown file** to the user: YAML, title/header, approved article, embeds, comments, name block, and any retained Lint block. Use a fenced code block with enough backticks to preserve embedded fences. This is the second approval stage; do not substitute the earlier readable prose block, a summary, diff, or file link for the complete text.
+After the readable core text has been approved and identity metadata, pronunciation, and native-header preparation are complete, show the **complete proposed Markdown file** to the user: YAML, native header block, approved article, embeds, comments, name block, and any retained Lint block. Use a fenced code block with enough backticks to preserve embedded fences. This is the second approval stage; do not substitute the earlier readable prose block, a summary, diff, or file link for the complete text.
 
 For a Staging page, show the exact proposed destination alongside the preview. Select the appropriate existing canonical directory using species and human ancestry for people, or place type and geographic hierarchy for places, together with similar notes and directory instructions. Places usually belong in `Gazetteer`; use the documented exception for planes in `Cosmology`. Keep the filename unchanged. If classification or destination is ambiguous, settle it with the user before saving or moving. A page outside `Worldbuilding/Staging` stays at its current path.
 

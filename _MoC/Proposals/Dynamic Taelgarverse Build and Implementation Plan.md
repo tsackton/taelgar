@@ -198,16 +198,11 @@ Configuration errors should fail before materialization or export performs destr
 
 ### 2. Materialize a date-aware source corpus
 
-The current materializer regenerates website headers and Dataview output at one target date. Extend it to accept the complete preset registry in one run.
+Native biography headers are rendered at request time from metadata; see [[Native Headers]]. Materialization work in this proposal applies to authored query output.
 
-For each note:
+Preserve the native header block once in each source note. Materialize only date-dependent article queries, passing each configured preset explicitly.
 
-1. Generate its website header at every configured date using the existing date, whereabouts, and affiliation engine.
-2. Group identical rendered headers.
-3. Emit one static header if every date produces the same output.
-4. Otherwise emit the smallest set of date-scoped header variants.
-
-The renderer should receive the target date explicitly rather than relying on ambient Calendarium/Fantasy Calendar state. Existing functions that currently obtain a global target date should accept or propagate the configured date so output is deterministic and testable.
+Query evaluation should receive the target date explicitly rather than relying on ambient Calendarium/Fantasy Calendar state. Existing functions that currently obtain a global target date should accept or propagate the configured date so output is deterministic and testable.
 
 This does not require adding dates to metadata that is correctly timeless. Identical results are intentionally deduplicated.
 
@@ -263,7 +258,7 @@ The parser must:
 - eventually allow cross-type campaign/date nesting as logical AND;
 - remove ordinary comments and `Campaign:none` content before link extraction, search indexing, backlinks, and HTML generation;
 - verify that SECRET content is absent before any GitHub or public-build artifact is created, without copying its contents into shared diagnostics;
-- distinguish generated header variants from authored blocks;
+- distinguish native header blocks from authored article content;
 - preserve Markdown rendering inside public blocks.
 
 Public blocks should become scoped HTML containers or equivalent structured fragments with precomputed visibility metadata. The browser should not need to implement Taelgar date parsing.
@@ -292,7 +287,7 @@ The build should also write a human-readable audit showing declared audience, in
 For each union-corpus note:
 
 - preserve ordinary prose once;
-- insert date-scoped generated header variants;
+- preserve native header blocks;
 - transform authored public campaign/date blocks into scoped fragments;
 - exclude private blocks before transforming links;
 - retain page audience metadata in generated frontmatter or the manifest;
@@ -488,7 +483,7 @@ Blocks:
 
 Date rendering:
 
-- identical-header deduplication;
+- native-header preservation;
 - lifecycle transitions;
 - whereabouts and affiliation changes;
 - partial-date normalization;
@@ -546,13 +541,13 @@ Materialization remains destructive and slow; full materialization must continue
 - Build one site, not the Cartesian product of campaigns and dates.
 - Share assets across every view.
 - Render general prose once.
-- Deduplicate identical date-rendered headers and generated query results.
+- Deduplicate identical generated query results; native biography headers remain dynamic.
 - Repeat only date-sensitive materialization work in one Obsidian runtime.
 - Keep the page/view manifest compact and cacheable.
 - Avoid one complete search index per profile if scoped records can share lexical data.
 - Preserve incremental export behavior by hashing source, registry, view configuration, and variant inputs.
 
-Campaign blocks and audience metadata add little data. Date-rendered header and query variants are the principal new text cost. Search design, not page HTML, is the most likely source of avoidable duplication.
+Campaign blocks and audience metadata add little data. Date-rendered query variants are the principal new text cost; biography headers remain native blocks. Search design, not page HTML, is the most likely source of avoidable duplication.
 
 ## Implementation stages
 
@@ -576,8 +571,8 @@ Deliverable: a union build whose raw generated Markdown/HTML has correct scopes,
 
 ### Stage 2: date-aware materialization
 
-- Pass explicit preset dates through header rendering.
-- Generate and deduplicate header variants.
+- Pass explicit preset dates through date-dependent query evaluation.
+- Preserve native biography headers for request-time rendering.
 - Inventory and classify date-sensitive Dataview output.
 - Add variant rendering for the required date-sensitive queries.
 
@@ -680,7 +675,7 @@ The implementation is complete when:
 - one deployed site supports every approved date and campaign profile;
 - changing campaign selections updates campaign text, page browsing, lists, search, backlinks, TOC, and Campaign Appearances consistently;
 - changing the date updates authored date blocks and all required generated world-state output;
-- unchanging headers and generated output are stored only once where practical;
+- native header source and generated query output are stored only once where practical;
 - selected views persist and can be shared;
 - archived and multi-campaign/player views work without separate builds;
 - direct links handle out-of-view public pages clearly;

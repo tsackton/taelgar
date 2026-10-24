@@ -25,7 +25,7 @@ class ImageFrontmatterTests(unittest.TestCase):
         return path
 
     def note(self, name="People/Person.md", value="portrait.png", tags="tags: [person]\n", body="Body ![[portrait.png]]\n"):
-        return self.put(name, f"---\nheaderVersion: 2023.11.25\n{tags}image: {value}\nname: Person\n---\n{body}")
+        return self.put(name, f"---\n{tags}image: {value}\nname: Person\n---\n{body}")
 
     def scan(self, **kwargs):
         return repair.scan(self.vault, **kwargs)

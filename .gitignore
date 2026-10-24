@@ -41,9 +41,6 @@ assets/generated/
 .obsidian/*
 !.obsidian/plugins
 .obsidian/plugins/*
-!.obsidian/plugins/taelgar-dataview-materializer
-!.obsidian/plugins/taelgar-dataview-materializer/manifest.json
-!.obsidian/plugins/taelgar-dataview-materializer/main.js
 !.obsidian/plugins/taelgar-name-explorer
 !.obsidian/plugins/taelgar-name-explorer/manifest.json
 !.obsidian/plugins/taelgar-name-explorer/main.js

@@ -17,6 +17,8 @@ Metadata is primarily used to control automatic header generation, and allow dat
 
 ## Scripts and Code
 
+[[Native Headers]]: describes native note-header syntax, source ownership, metadata edits, and local export.
+
 [[Taelgarverse Code]]: contains information about Python and JavaScript code associated with header generation, dataviewJS queries, etc. 
 [[Templates]]: describes templates that can be used, both for the Templater plugin and plain Markdown templates that can be copied and filled out. 
 [[Image Callouts]]: describes image roles, named sizes, captions, galleries, session recap image fields, and the Obsidian lightbox.

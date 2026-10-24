@@ -1025,7 +1025,6 @@ def markdown_text(records: Sequence[dict[str, object]]) -> str:
 
     lines = [
         "---",
-        "headerVersion: 2023.11.25",
         "tags: [meta, status/check/ai]",
         "---",
         "# Name Catalog",

@@ -1,1 +1,0 @@
-return customJS.OutputHandler.outputPageDatedValue(dv.current().file.name, dv.current())

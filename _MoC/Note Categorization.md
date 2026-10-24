@@ -29,7 +29,7 @@ Accepts whereabouts: yes
 Accept affiliations: yes
 
 Type-specific displayDefaults? Yes, defined in metadata.json
-Type-specific header code for website? Yes, computed by outputs.js
+Type-specific header code for website? Yes, computed by the maintained shared renderer in taelgarverse-core
 
 ### Classification Requirements
 
@@ -77,7 +77,7 @@ Accepts whereabouts: yes, and places commonly use secondary whereabouts to accou
 Accepts affiliations: yes, but rarely; leader affiliations should be set on the person page, not the place page, and normal associations should be reserved for situations like a guildhall where it is useful to track group ownership of a structure. 
 
 Type-specific displayDefaults? Yes, defined in metadata.json
-Type-specific header code for website? Yes, computed by outputs.js
+Type-specific header code for website? Yes, computed by the maintained shared renderer in taelgarverse-core
 
 ### Classification Requirements
 

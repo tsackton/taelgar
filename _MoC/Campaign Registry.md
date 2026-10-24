@@ -49,4 +49,4 @@ Every campaign entry requires:
 
 ## Compatibility
 
-The older campaign list in `.obsidian/metadata.json` remains a compatibility input for older header and export code. It is not authoritative for linting and must not override the names or codes in `_scripts/session_note_campaigns.json`. Consumers should migrate to the authoritative registry or to generated compatibility data derived from it.
+The campaign list in `.obsidian/metadata.json` is a compatibility copy. `_scripts/session_note_campaigns.json` remains authoritative for queries, session rendering, and linting; consumers must not override its names or codes with compatibility metadata.

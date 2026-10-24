@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [person]
 campaignInfo: [] # [{campaign: , person: (optional), type: , date: YYYY-MM-DD}]
 name:  # Person's full name
@@ -17,6 +16,8 @@ dm_owner: # default to none
 dm_notes:  # default to none
 pronunciation: # optional, only include if available
 ---
+```taelgar-header
+```
 
 `![[<optional-image-file>|right|360]]` A one-sentence, in-world encyclopedia summary stating ancestry/species, titles/roles, and current base of operations. 
 

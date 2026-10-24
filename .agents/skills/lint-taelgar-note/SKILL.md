@@ -145,7 +145,7 @@ For a batch, populate every structured result field required by the workspace sc
 
 ## Apply changes and completion state
 
-Apply only changes allowed by the specification's **Safe fixes and proposals** section. Declare every automatic body edit and its objective basis, keep visibility-changing structures and human attestations proposal-only, and never change `headerVersion`.
+Apply only changes allowed by the specification's **Safe fixes and proposals** section. Declare every automatic body edit and its objective basis, keep visibility-changing structures and human attestations proposal-only. Preserve native header blocks; their rendered output is generated presentation.
 
 Write the validator's exact quoted version and an offset-bearing timestamp only after the full review. Completion state is atomic: an open result has one complete replacement Lint report and `status/check/lint`; a clean result has neither and retains the supported completion and persistent metadata.
 

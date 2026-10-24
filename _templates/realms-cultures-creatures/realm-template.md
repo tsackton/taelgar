@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [place]
 name: name
 aliases: [any common]
@@ -9,7 +8,8 @@ typeOf: realm
 dm_owner: joint
 dm_notes: none
 ---
-# Realm Name
+```taelgar-header
+```
 
 An overview of the major background and vibe of the realm.
 ## Physical Character
