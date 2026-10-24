@@ -249,6 +249,16 @@
       "height": 950,
       "color": "#6b7280",
       "text": "# Optional discovery — hidden kobold in danger\n\nPurpose: reward scouting with interaction, a rescue opportunity, and practical route information.\nEntry: follow the inhabitants' tracks and investigate a concealed refuge.\nSituation: a living kobold hides while a predator searches for it. An overturned slab is a possible shelter, not a fixed map detail.\nObjective if intervening: protect and extract the kobold before it is eaten.\nStarting condition: scouting can allow preparation or place the party at the moment the predator starts probing the shelter.\nEnds when: the kobold is safe, lost, or left behind.\nSuccess: conversation can confirm Krauzeth's route and warn of guards and an alarm. Driving off, distracting, or containing the predator can work.\nFailure: the basic tracks still provide the third-route lead; losing the NPC need not close an entrance.\nOpen: NPC identity, allegiance, knowledge, predator, hiding place, and rescue mechanics.\nNot established as the river creature's handler; not the discarded split-minded kobold."
+    },
+    {
+      "id": "encounter-packet",
+      "type": "file",
+      "file": "_dm_notes/_Cleenseau/Adventures/Dragon Arc/04 Encounter Packet - Vraedhul's Broken Lair.md",
+      "x": 1700,
+      "y": -1300,
+      "width": 1000,
+      "height": 1000,
+      "color": "3"
     }
   ],
   "edges": [

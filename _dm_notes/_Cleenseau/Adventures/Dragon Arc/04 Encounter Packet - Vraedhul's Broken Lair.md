@@ -8,6 +8,8 @@ tags: [meta, status/check/ai]
 
 ## Read in this order
 
+For the short read-and-critique version, start with [[05 Encounter Critique Cards - Vraedhul's Broken Lair]]. Each flavor has a brief block there; use the linked encounter note when you want its running details.
+
 The opening sequence is travel → river → open view and optional scouting → optional kobold rescue → **one** entrance → shared death discovery. Krauzeth's entrance has two linked encounters. The guest-room drafts are optional beginnings for the later crawl.
 
 | Encounter | Two flavors | Use |
