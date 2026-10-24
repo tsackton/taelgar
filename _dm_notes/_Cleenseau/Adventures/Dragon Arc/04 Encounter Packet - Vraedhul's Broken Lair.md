@@ -47,8 +47,13 @@ The official [2014 encounter-building guidance](https://www.dndbeyond.com/source
 
 ## Review and publication record
 
-Each completed encounter draft is sent to a subagent for playability and balance review before final handoff. Review notes and revisions are recorded here as they arrive. Commits are pushed incrementally; intermediate versions may contain proposals still awaiting review. No material in this packet selects a flavor on the DM's behalf.
+Each completed encounter draft is sent to a subagent for playability and balance review before final handoff. Review notes and revisions are recorded here as they arrive. Commits are pushed incrementally; intermediate versions may contain proposals still awaiting review. No material in this packet selects a flavor on the DM's behalf. Creature types assigned in combat shorthand are proposed spell-targeting choices, not canonical species determinations.
 
 - **E01 reviewed:** light objective encounter for this party. Fixed the demonstration accidentally breaking both barriers, placed safe pockets, and clarified charge movement, activation, and committed lanes.
 - **E02 reviewed:** no balance concern. Separated basic reconnaissance from the optional predator approach roll, aligned positions with E03, and added the panorama's spatial frame.
 - **E03 reviewed:** light rescue. Capped all ribbon progress to one stage per round, clarified both scouting starts, NPC extraction, seizure, and pursuit ending.
+- **E04 reviewed:** manageable objective encounter. Added a living-maker targeting profile and control-spell consequences, exact dispelling/door-expiry rules, inside exit, one pending social cancellation, and a reaction limit on failed-check strikes.
+- **E05 reviewed:** light precursor. Added a full response-window marker immune to operator substitutions, interaction costs, creature type/Intelligence, and the bell's legible sound channel.
+- **E06 reviewed:** manageable objective encounter. Fixed hatch dimensions, work accounting, known operators, alarm-conditioned descriptions, mechanism depth, and familiar-operable releases.
+- **E07 reviewed:** light traversal, not an attrition encounter. Added precise plate/lane coordinates, contact and expiry rules, recovery destinations, continuous catching shelf, and a once-per-round gust cap.
+- **E08 reviewed:** earned noncombat payoff. Removed an implied question cap, aligned remains' distance, and added useful information-magic responses while marking undecided eruption facts honestly.
