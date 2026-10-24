@@ -8,7 +8,7 @@
       "width": 2900,
       "height": 300,
       "color": "3",
-      "text": "# Vraedhul's Broken Lair — checkpoint 2026-10-24\n\nCurrent decisions after the reset. Blue = adopted structure; green = start; purple = nested part; gray = recovery; yellow = unresolved; red group = eventual capstone.\nReference: [[01 Overview - Vraedhul's Broken Lair]] and [[02 Backstory - Vraedhul's Broken Lair]].\n\nImmediate priority: finish outside + entrances + discovery; then sketch guest-quarter crawl. Audience and personal lair remain deferred. This is not complete running prep."
+      "text": "# Vraedhul's Broken Lair — checkpoint 2026-10-24\n\nREAD FIRST: [[00 Design Checkpoint - Vraedhul's Broken Lair]].\nThen read [[01 Overview - Vraedhul's Broken Lair]] and [[02 Backstory - Vraedhul's Broken Lair]].\n\nImmediate scope: finish outside + three entrances + discovery; then sketch the crawl. Audience/lair remain deferred.\nBlue = adopted; green = start; purple = nested part; gray = recovery; yellow = unresolved; red group = eventual capstone.\nCards are first-pass cores, not finished running prep."
     },
     {
       "id": "opening-group",
@@ -199,6 +199,16 @@
       "height": 640,
       "color": "3",
       "text": "# Design guardrails\n\nEvery fight has a concrete objective beyond killing.\nAll three entrance choices converge on the earned discovery.\nGood reconnaissance enables a meaningful choice.\nA valuable appropriate gift genuinely simplifies formal admission.\nMaker social interaction is optional; no need to solve three separate judges.\nPermanent effects have clear removal paths.\nDecay accelerates across meaningful delay and absence; patient experiments are welcome.\nDanger levels and warning signs must be readable.\nNo scavenger, feeding clock, or cursed-item portal-fuel plot."
+    },
+    {
+      "id": "resumption-guide",
+      "type": "file",
+      "file": "_dm_notes/_Cleenseau/Adventures/Dragon Arc/00 Design Checkpoint - Vraedhul's Broken Lair.md",
+      "x": 1700,
+      "y": -460,
+      "width": 1000,
+      "height": 300,
+      "color": "3"
     }
   ],
   "edges": [

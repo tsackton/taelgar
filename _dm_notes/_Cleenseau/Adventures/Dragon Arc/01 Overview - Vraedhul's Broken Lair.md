@@ -10,6 +10,18 @@ tags: [meta, status/check/ai]
 
 Fictional background: [[02 Backstory - Vraedhul's Broken Lair]]. Connected structure and first-pass scene cores: [[03 Scenes - Vraedhul's Broken Lair.canvas]].
 
+## Resuming from this checkpoint
+
+Read [[00 Design Checkpoint - Vraedhul's Broken Lair]] first when resuming without the original conversation. It records the reasons behind the choices, the user's preferred collaboration style, the corrections that must survive a model change, and the remaining work in priority order. Read this Overview, the Backstory, and the Canvas together; none of the three is a complete set of encounter running notes by itself.
+
+The premise has been worked through and the opening's connected structure is established. First-pass scene cores exist as Canvas text cards. The unfinished work is concrete outside and entrance design, followed by the beginnings of the guest-room map. Do not restart premise questions or require a new justification for the three entrances.
+
+The last user direction was to stop work on the audience chamber and concentrate on finishing the entrances and outside, then begin sketching the crawl. This supersedes the assistant's attempt to design the capstone by working backward. The attention principle is adopted, but the proposed simultaneous coordination challenge is not.
+
+The user explicitly corrected the checkpoint: the earlier elemental proposal is rejected and the Arborean maker replaces it. Do not reintroduce the stair-maintaining elemental or the relief encounter as live candidates.
+
+At the time of writing, the upcoming game was expected to cover arrival and discovery only. If these notes are used after that game, establish what has actually happened in play before treating all opening material as unplayed. The original scheduling context should not become a permanent deadline.
+
 ## Design context
 
 A level 9 Cleenseau adventure following the party's killing of [[Krauzeth]]. It serves three purposes:
@@ -107,6 +119,18 @@ Environmental mistakes should allow recovery where appropriate, through lost pos
 
 Combat outcomes must depend on concrete objectives beyond killing: prevent a warning, preserve or open a passage, interfere with a binding, or accomplish another encounter-specific task. Actual outside fights still need those additional objectives selected.
 
+## Encounter objectives and player agency
+
+The user introduced the combat rule after recalling another game: protecting a prisoner during a train battle, preventing an alarm in a laboratory, and stopping a warden escaping with keys. These are examples of how an objective changes the battle, not scenes to transplant into this adventure.
+
+For each fight, identify what the PCs are trying to accomplish, what the opposition actively threatens, and how that outcome changes subsequent play. Competing actions should matter during the encounter: intercept a messenger, protect access, operate or disable something, or help a constrained being. Interesting terrain or a complex enemy may support that design, but should not erase the additional objective.
+
+Krauzeth's route is the clearest adopted example. Preventing the warning is useful even before the main fight, and killing all the inner defenders can still be too late if access has been destroyed. At the formal entrance, a fight can concern a binding or an opening rather than the death of the captive. Specific objectives for outside fights are not yet chosen.
+
+The three entrance categories are intended emphases, not prohibitions on creative approaches. A combat route can still be scouted, deceived, or negotiated through where the fiction allows. A payment route can still be fought or evaded, at greater difficulty. Environmental skills and magic should produce real advantages rather than being invalidated to force a planned solution.
+
+The general tone allows costly mistakes and dangerous experiments. It is not constant panic or a new moral crisis in every room. Local combat urgency can coexist with a larger expedition that permits patient exploration.
+
 ## Design statement
 
 The PCs enter Vraedhul's decaying domain to confirm her death and recover magical treasure, but must choose an entrance, understand the dangerous possibilities in her creations, and earn what they can before the place is unmade.
@@ -129,11 +153,43 @@ Shared dangerous approaches lead to a choice of three entrances. Solving the cho
 
 The shared view confirms that Vraedhul is dead and that an eruption from Limbo consumed her. Details and consequences require more exploration. No additional admission challenge is needed to earn this revelation after overcoming an entrance.
 
+#### Why scouting and entrance choice matter
+
+The outside is not a preliminary shopping expedition for the correct tribute. The user specifically rejected that reward. Its payoff is actionable knowledge that lets the party choose the challenge they judge easiest for their abilities and resources.
+
+The three routes need different structures, not simply different skins on the same obstacle:
+
+- The formal route asks whether the party will surrender something valuable to simplify entry. Their reluctance to give up magic items is part of its intended tension. Social interaction and unbinding add a harder alternative, without making payment require solving the NPC's entire condition.
+- Krauzeth's route asks whether the party can handle opposition while preventing warnings and preserving access. The first encounter changes the second; enemy casualties alone do not determine the outcome.
+- Zaurmath's route asks whether the party can read the environment and devise a crossing. Its main demands are diagnosis, planning, skills, equipment, and magic.
+
+The party should be able to infer these broad differences before committing. The exact reconnaissance clues, safe inspection positions, threat estimates, and additional advantages still need construction. Do not claim that a particular lookout, inscription, abandoned offering, or helpful NPC already exists.
+
+The entrances need not have identical physical distances or perfectly equal costs. The concern about the main entrance being shorter was that it might provide too little play before the revelation. The formal admission encounter, its social option, and the dangerous approach provide room to address that; adding an arbitrary extra discovery puzzle is not the adopted answer.
+
+#### Information delivered at the end of the opening
+
+The initial question is whether Vraedhul is really dead. The shared view resolves that question and establishes a Limbo eruption as the immediate catastrophe. The party should still have things to learn: the sequence and nature of the eruption, what its residue is doing, and how this relates in detail to the strange events across the Plaguelands.
+
+Do not turn the opening into a complete cosmological explanation. Equally, do not obscure the essential death confirmation behind another mandatory riddle or a successful check after the party has already earned entry.
+
+The maker's testimony may foreshadow or complicate what they expect to see. Its precise knowledge is unresolved. The shared view remains the planned physical confirmation; the NPC does not need contrived omniscience or contrived amnesia to preserve that structure.
+
 ### Beat 2: the supplicant-quarter crawl
 
 A short main route with optional suites and some connections between routes. The suites grow increasingly elaborate for favored or mocked guests. Exploration provides treasure, experiments, and knowledge.
 
 The original circulation includes a shared antechamber with individual passages to suites and connections to the kobold tunnels. How that plan becomes the exact traversable dungeon remains to be mapped. No room count, room inventory, or complete crawl map has been adopted.
+
+#### What to sketch next, and what is not yet decided
+
+The user wants a recognizable dungeon with rooms to enter and inspect. Begin with a navigable main route and a few meaningful side spaces, using the supplicant suites' increasing elaborateness and favored-or-mocked character as the organizing fiction. Some rooms can contain quick discoveries or accessible rewards; others can support more substantial experiments or dangers.
+
+This is a scope direction, not a selected inventory. No themed suite, particular curse, number of rooms, required set of keys, or fixed lesson sequence has been adopted. The old drawing shows relationships among suites, audience chamber, and lair; its marks should not be converted automatically into a fixed room count.
+
+The attention principle is an available thread for connecting creations. It does not require every room to contain three selves, a social encounter, or the same attention puzzle. Specific objects should have concrete, discoverable behavior. More exploration should improve readiness without forcing completion of every suite.
+
+The user explicitly allows shortening this section if it drags and expanding it if the table enjoys it. A short main route with optional branches serves that purpose. Do not balance the whole adventure around completing a prescribed list of rooms in a prescribed number of hours.
 
 ### Beat 3: audience chamber and personal lair
 
