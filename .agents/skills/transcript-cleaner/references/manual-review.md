@@ -4,7 +4,7 @@ Use the prepared and cleaned transcript as text evidence. The optional page play
 
 ## Assess after the complete cleanup
 
-Run `scripts/report_cleanup_diff.py` normally. Its `review` object contains `transcriptSha256`, one issue per marked line, two source lines before and after, counts, and default material classifications. Structural errors still block; unresolved markers do not change its successful exit status.
+Run `scripts/report_cleanup_diff.py` normally. ASR uncertainty is marked with `{{uncertain wording}}`; legitimate `[[wikilinks]]` and ordinary bracketed annotations are not ASR issues. Retained review files may quote the older marker convention; preserve those historical quotations and verify their fingerprint against the current transcript before reuse. The report's `review` object contains `transcriptSha256`, one issue per marked line, two source lines before and after, counts, and default material classifications. Structural errors still block; unresolved markers do not change its successful exit status.
 
 If there are markers, author `cleanup-artifacts/<prefix>-cleanup-assessment.json`:
 

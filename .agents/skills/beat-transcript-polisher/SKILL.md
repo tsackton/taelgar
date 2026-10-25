@@ -178,8 +178,9 @@ The full highlights summary remains the complete record. The recap sections are 
   Do not make every speaker sound formal.
 - Preserve performance texture where it carries meaning: rhetorical questions, hedges, repeated adjectives, self-corrections, trailing constructions, and deliberate run-on sentences.
 - Do not add narrative descriptions, scene summaries, or stage directions that are not in the transcript.
-- If a phrase remains suspicious but cannot be corrected with high confidence, mark only that phrase with `[[...]]`.
-- If any `[[...]]` markers remain, report them to the user with UID locations before treating the polished transcript as final.
+- If a phrase remains suspicious but cannot be corrected with high confidence, mark only that phrase with `{{...}}`.
+- Preserve unresolved `{{uncertain wording}}` from the cleaned source unless evidence supports a correction. Double curly braces identify ASR uncertainty; legitimate Obsidian `[[wikilinks]]` and ordinary annotations such as `[laughs]` retain their own meaning and must not be blanket-converted.
+- If any `{{...}}` markers remain, report them to the user with UID locations before treating the polished transcript as final.
 
 ### Calibration Examples
 

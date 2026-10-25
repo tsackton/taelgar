@@ -31,6 +31,11 @@ Some potentially relevant brainstorming in:
 - [[Notes on Elven Society]]
 - [[Orenlas Brainstorming]]
 
+Old notes, early creation - might not fit current vibes:
+- Growth but slow and steady and unhurried but unstoppable
+- Nature and shelter and encompassing protection from the ravages and chaos of (some parts) of the wild natural world
+- Compassionate 
+
 %%^End%%
 
 %%^Metadata:names:v1%%

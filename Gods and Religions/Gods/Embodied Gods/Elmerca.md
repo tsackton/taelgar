@@ -22,6 +22,13 @@ Elmerca, the Wild Star, is one of the two deities of the [[Elves]], alongside [[
 - [[_DM_/_Dunmari Frontier/Session 63-65 (Stormcaller Tower)/Stormcaller Tower - DM Version]]
 - [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 76 - DM Notes]]
 - [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 77 - DM Notes]]
+
+Old notes - might not fit current vibes:
+- Distance, cold, analytical    
+- Magical and mysterious - far away and hard to understand
+- A source of great insight and inspiration, but not always straightforward to understand
+- Farseer, known as source of foreknowledge and prophecy
+  
 %%
 
 %%^Metadata:names:v1%%
