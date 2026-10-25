@@ -32,7 +32,7 @@ They want a way out. Discovering the party has a guide prompts demands for passa
 
 Watching and listening from cover reveals the three enemies, their distraction, root damage, equipment, and belongings. Moving closer or taking positions risks detection; call for Stealth when the approach warrants it. Leaving without revealing themselves leaves the hunters here.
 
-**Treasure: **
+**Treasure: A Deck of Illusion (https://www.dndbeyond.com/magic-items/9228420-deck-of-illusions). They are puzzling over it; it is some kind of fey thing.**
 
 ## Combat
 
