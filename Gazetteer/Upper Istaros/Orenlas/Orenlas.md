@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
-tags: [place, status/check/lint]
+tags: [place]
 typeOf: realm
 subTypeOf: null
 typeOfAlias: forest realm
@@ -11,7 +11,7 @@ name: Orenlas
 pronunciation: o-REN-las
 whereabouts: Istaros Watershed
 dm_owner: none
-dm_notes: important
+dm_notes: none
 POV: modern
 ---
 # Orenlas
@@ -28,8 +28,9 @@ Orenlas proper occupies the forest southeast of [[Aldamire]] and southwest of th
 Aldanor watches those who try to enter the forest, and probes their minds to understand their desires and wishes. Those who wish or desire anything that might harm the elves, or Taelgar, are turned away, or led down twisted paths, possibly to their death - not sure
 %%
 
-![[orenlas-dream-paths.jpg]]
-*The twisted paths of Orenlas can lead the unwary or the unwelcome to hidden dangers.*
+> [!image|figure hero]
+> ![[orenlas-dream-paths.jpg]]
+> *The twisted paths of Orenlas can lead the unwary or the unwelcome to hidden dangers.*
 
 Walking through the forest, however, creates a sense of timelessness. The days turn to nights, but hours don't seem to pass at a constant rate, and it is easy for a week to feel like a day, or a day a week. The seasons and the weather are only loosely related to the outside world. There is a faint echo here of the days of creation, before time began, and when the gods still walked the earth. 
 
@@ -43,23 +44,7 @@ While many [[Elves]] live in small settlements in Orenlas, there is one major ci
 Temporal coverage: broadly modern reference prose about the forest realm, its surviving ancient magic, and its settlements; the ancient origins are retrospective background.
 %%^End%%
 
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Normalized frontmatter order and collection formatting while preserving parsed values and headerVersion.
-- Added a documented primary name entry preserving the accepted pronunciation; the name language remains unknown.
-- Recorded a broadly modern POV and persistent temporal coverage.
-- Corrected the image caption from “can led” to “can lead.”
-
-### Validated judgments
-- The positive dm_notes attestation has confirmed local evidence; the human attestation and dm_owner were preserved.
-- The shared comment's uncertain explanation of the forest's intentions remains editorial material and was not promoted into canon.
-
-### Open findings
-
-- [ ] **Warning — correctness.cross_note_conflict:** The opening sentence calls Orenlas “the last remnant” of Alcarinquë's ancient forests, while [[Alcarinque]]'s public second paragraph identifies surviving pockets in both Orenlas and Ainumarya. These accounts disagree about the surviving ancient forest, and the surrounding sources do not settle whether Ainumarya is another remnant or a distinct later forest. Resolve that scope across the two notes. If Ainumarya is a surviving Alcarinquë remnant, a bounded Orenlas replacement is: “The elven forest of Orenlas is one of the surviving remnants of the ancient forests of [[Alcarinque]], once home to the great elven civilizations of the days of myth.” If Orenlas is the sole survivor, retain this article's wording and reconcile Alcarinque instead. No lore choice was applied.
-
+%%
 ### DM evidence
 - [[_DM_/Secret Worldbuilding/History of Dunmar]]
 - [[_DM_/_Dunmari Frontier/Leveling]]
@@ -75,4 +60,4 @@ Temporal coverage: broadly modern reference prose about the forest realm, its su
 - [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 82 - DM Notes]]
 - [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 83 - DM Notes]]
 - [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 84 - DM Notes]]
-%%^End%%
+%%
