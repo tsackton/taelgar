@@ -4,7 +4,7 @@ tags: [meta, status/check/ai]
 
 # Vraedhul's Broken Lair — Encounter Index
 
-%% Runnable drafts for four level 9–10 PCs, not automatic setting canon or tested CR assignments. The 2026-10-25 opening revisions in E01–E03 supersede the river obstacle and three-entrance opening in the earlier [[00 Design Checkpoint - Vraedhul's Broken Lair]], Overview, Backstory, Canvas, and area schematic. E03 uses the selected Cindermaw and E06 the selected steel barricade; choose one A/B version where offered. E07 is an unused earlier draft. %%
+%% Runnable drafts for four level 9–10 PCs, not automatic setting canon or tested CR assignments. The 2026-10-25 opening revisions in E01–E03 supersede the river obstacle and three-entrance opening in the earlier [[00 Design Checkpoint - Vraedhul's Broken Lair]], Overview, Backstory, Canvas, and area schematic. E03 uses the selected Cindermaw, E05 the light signal-lens watchpost, and E06 the steel barricade; choose one A/B version where offered. E07 is an unused earlier draft. %%
 
 ## Route
 
@@ -22,7 +22,7 @@ Allow roughly **20 minutes** for arrival and observation; the optional predator 
 | [[VBL E02 - Scrambled Grounds and Reconnaissance]] | Obvious front entrance; scouting finds the predator and determines rescue conditions. |
 | [[VBL E03 - The Hidden Kobold]] | Cindermaw and spawning cinderlings; rescue the fleeing survivor or recover clues to the back entrance. |
 | [[VBL E04 - The Arborean Gatekeeper]] | Formal entrance: tribute, negotiation, bindings, or stealth. |
-| [[VBL E05 - Krauzeth's Watchpost]] → [[VBL E06 - Save the Passage]] | Guarded entrance: stop the alarm, then get through the chain-driven steel barricade before it locks. |
+| [[VBL E05 - Krauzeth's Watchpost]] → [[VBL E06 - Save the Passage]] | Guarded entrance: light signal-lens watchpost (two kobolds and a hound), then the main fight at the chain-driven steel barricade. |
 | [[VBL E07 - Zaurmath's Broken Hall]] | Unused earlier draft; no prepared third entrance in the current opening. |
 | [[VBL E08 - The Death View]] | Shared discovery of Vraedhul's death. |
 | [[VBL G01 - The Generous Table]] | Optional hospitality puzzle and utility treasure. |

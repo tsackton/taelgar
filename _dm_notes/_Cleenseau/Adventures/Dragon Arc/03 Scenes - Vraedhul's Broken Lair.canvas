@@ -58,7 +58,7 @@
       "width": 900,
       "height": 470,
       "color": "5",
-      "text": "# Outer watchpost — prevent the warning\n\nPurpose: earlier success improves conditions in the main encounter.\nEntry: choose Krauzeth's approach.\nSituation: loyalist kobolds watch a partially tamed creature; alarm traps may supplement it.\nObjective: get past without a warning reaching the inner defenders.\nPressure: the creature occupies intruders while a kobold tries to signal or escape.\nEnds when: the warning is prevented or reaches the defenders.\nApproaches: scouting, evasion, distraction, interaction, or combat.\nIf combat occurs, stopping the warning is the additional objective.\nOpen: creature, handlers, visible interruptible signaling method, optional traps."
+      "text": "# Outer watchpost — prevent the warning\n\nSelected: [[VBL E05 - Krauzeth's Watchpost]].\nOne handler and one signaler (10 HP each); glass-skull hound (32 HP).\nObjective: pass the post without a warning reaching the barricade.\nPressure: lens preparation gives a full response window before transmission.\nApproaches: talk, sneak, distract the hound, block or break the lens.\nPower target: little attrition; E06 is the main combat.\nEnd promptly when the warning is prevented and defenders concede or are bypassed.\nNo survivors reinforce E06. Success earns an open doorway and an extra round there."
     },
     {
       "id": "unwarned",
@@ -178,7 +178,7 @@
       "width": 900,
       "height": 970,
       "color": "3",
-      "text": "# Construction still needed\n\nOutside flow selected: Orenlas travel → altered river → road / expelling lair / optional reconnaissance → one entrance.\nFinish: river geometry and solid-air tells; charging creature; exact scouting observation points; expulsion phenomenon; hidden kobold and predator.\nReconnaissance stays brief. Basic leads are not gated behind a roll or the kobold's survival.\nFormal: gift calibration, maker's body and voice, perspective cues, actual knowledge, binding anchors, release outcome, and physical alternatives.\nKrauzeth: choose watchpost creature/alarm variant. E06 steel barricade, crew, and starting states selected; running numbers remain provisional.\nZaurmath: transformations, signs, route geometry, costs, and skill/magic interactions.\nDiscovery: actual view, evidence, and onward transition.\nCrawl: begin room-and-connection sketch after the opening."
+      "text": "# Construction still needed\n\nOutside flow selected: Orenlas travel → altered river → road / expelling lair / optional reconnaissance → one entrance.\nFinish: river geometry and solid-air tells; charging creature; exact scouting observation points; expulsion phenomenon; hidden kobold and predator.\nReconnaissance stays brief. Basic leads are not gated behind a roll or the kobold's survival.\nFormal: gift calibration, maker's body and voice, perspective cues, actual knowledge, binding anchors, release outcome, and physical alternatives.\nKrauzeth: light E05 signal-lens watchpost and E06 steel barricade selected. NPC identities remain open; running numbers remain provisional.\nZaurmath: transformations, signs, route geometry, costs, and skill/magic interactions.\nDiscovery: actual view, evidence, and onward transition.\nCrawl: begin room-and-connection sketch after the opening."
     },
     {
       "id": "proposal-pool",

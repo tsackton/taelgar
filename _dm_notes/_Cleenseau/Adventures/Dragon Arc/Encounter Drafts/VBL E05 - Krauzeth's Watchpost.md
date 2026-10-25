@@ -4,85 +4,67 @@ tags: [meta, status/check/ai]
 
 # E05 — Krauzeth's Watchpost
 
-%% Choose A or B. Kobolds are unnamed encounter NPCs, not established individuals. %%
+%% Selected revision, 2026-10-25: a light signal-lens encounter with one handler, one signaler, and a manageable glass-skull hound. This replaces the runner/kiln-beast alternative and the tougher hound. The alarm determines the barricade's starting state; E06 carries the route's main combat difficulty. NPCs remain unnamed encounter characters, not established individuals. Statistics are running drafts for four level 9 PCs, not tested CR assignments. %%
 
-## Read aloud — A: Signal Lens and Glass Hound
+## Read aloud
 
 > A hound with a glass-clear skull strains against a chain across the ledge. One kobold rests a hand on its release pin. Farther back, another crouches beside a hooded lens.
->
-> “Stay there. Tell us who sent you.”
-
-## Read aloud — B: Runner and Kiln Beast
-
-> Warm ash drifts from the beast's mouth. Behind it, a kobold fastens a bronze key to its wrist and glances toward a bell at the far end of the ledge.
 >
 > “Stay there. Tell us who sent you.”
 
 ## Run it
 
 - **Goal:** pass the post and prevent a warning. **Next:** [[VBL E06 - Save the Passage]].
-- **Ledge:** 80 feet long, 40 feet wide. Beast at 30 feet; two guards behind waist-high cover at 45; passage at 80.
-- A's signaler/lens starts at 60 feet. B's runner starts at 40 feet; bell is at 100.
-- Side cleft skirts the beast but remains visible to guards. A safe ridge 60 feet from the beast permits observation of the alarm.
-- **Talk:** kobolds fear losing their refuge. Credible offer, lie, authority, or existing kobold contact: **DC 15 Persuasion, Deception, or Intimidation**. Success allows passage without alarm; failure brings a demand to withdraw. Advancing then starts alarm preparations.
+- **Power target:** a brief alarm encounter costing little health, with perhaps one voluntarily spent resource. Ordinary attacks and skills should be sufficient; a spell can simplify it without being required. Total defender HP is **52**.
+- **Ledge:** 80 feet long, 40 feet wide. Hound and handler at 30 feet; signaler at 60 behind waist-high cover; passage at 80. Lens is exposed on the cover, providing a clear target.
+- Side cleft skirts the beast but remains visible to the kobolds. A safe ridge 60 feet from the beast permits observation of the post, chain, and alarm before entering the defended space.
+- **Talk:** kobolds fear losing their refuge. Credible offer, lie, authority, or existing kobold contact: **DC 15 Persuasion, Deception, or Intimidation** when uncertain. Success allows passage without alarm; failure brings a demand to withdraw. Advancing then starts alarm preparations.
 - They do not automatically know the party killed Krauzeth.
-- **Sneak:** group **DC 14 Stealth**, at least half succeed. Effective concealment or control may bypass the check; beasts have no special ability to detect invisibility.
-- Roll initiative when detected intrusion, warning preparations, or an attack starts.
-- **Alarm timing:** the first preparation cannot transmit until the start of that operator's next turn. Everyone gets a full response window. Changing operators or passing the handle cannot shorten it. Ordinary shouting cannot carry through the intervening bends.
+- **Sneak:** group **DC 14 Stealth**, at least half succeed. Effective concealment or control may bypass the check; the hound has no special ability to detect invisibility.
+- Roll initiative when detected intrusion, warning preparations, or an attack starts. Handler releases the hound only when the situation turns hostile.
+- **Alarm timing:** first preparation cannot transmit before the start of that operator's next turn. Everyone gets a full response window. Changing operators cannot shorten it. Ordinary shouting cannot carry through the intervening bends.
 
-## Kobolds — three
+## Kobolds — handler and signaler
 
-*Small humanoids; AC 14; HP 16 each; initiative +2; speed 30 feet; Intelligence 10.*
+*Two Small humanoids; AC 13; HP 10 each; initiative +2; speed 30 feet; Intelligence 10.*
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | +0 | +2 | +1 | +0 | +1 | +0 |
 
-- **Spear or sling:** +4 to hit; reach 5 feet or range 30/120; **5 (1d6 + 2) piercing/bludgeoning** damage.
-- One attack per action. No Pack Tactics or bonus-action disengage.
-- Guards may spend actions releasing the beast, taking cover, or helping the signaler instead.
-- If alarm is stopped and beast is out of the fight, they surrender or retreat. They do not attack downed characters.
+- **Spear or sling:** +4 to hit; reach 5 feet or range 30/120; **5 (1d6 + 2) piercing/bludgeoning**.
+- One attack per action. No Pack Tactics, spells, or bonus-action disengage.
+- **Handler:** manages the hound, releasing it if threatened or calming it when conceding. May spend actions on the beast or helping the signaler rather than attacking.
+- **Signaler:** prioritizes the alarm over dealing damage.
+- Once the warning is prevented and they are clearly outmatched, they surrender or withdraw; the hound backs down with its handler. Do not require the party to clear every remaining hit point. They do not attack downed characters.
 
-## A — Lens alarm
+## Lens alarm
 
 - Hooded magic light-shard and two fixed reflectors; no sunlight required.
 - **First action:** align and uncover. **Later action, after the full response window:** open the shutter to transmit.
-- Adjacent action covers the lens; an operator must spend an action uncovering it.
+- An adjacent action covers the lens; an operator must spend an action uncovering it.
 - **Lens:** AC 13, HP 12, immune poison/psychic. Breaking it or removing its secured shard with an adjacent action stops transmission. Fog or magical darkness across the beam also blocks it.
+- A good ranged hit, a physical obstruction, or reaching and covering the lens can solve the immediate alarm problem. Temporary obstruction lasts only while the beam remains blocked.
 - Shard is apparatus, not treasure.
 
-### Glass-skull hound
+## Glass-skull hound
 
-*Medium beast altered by chaos; AC 15; HP 76; initiative +2; speed 40 feet; Intelligence 4.*
+*Medium beast altered by chaos; AC 13; HP 32; initiative +2; speed 40 feet; Intelligence 4.*
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
 | +3 | +2 | +3 | −3 | +2 | −2 |
 
-- **Bite:** +6 to hit, reach 5 feet; **12 (2d8 + 3) piercing**. May replace damage with a grapple, escape **DC 14**.
-- Chain is 15 feet long; beast threatens the 15–45-foot stretch. **Chain:** AC 16, HP 15. Adjacent action pulls release pin without a check.
+- **Bite:** one attack per action, +5 to hit, reach 5 feet; **7 (1d8 + 3) piercing**. No grapple, breath weapon, or spellcasting.
+- Chain is 15 feet long; beast threatens the 15–45-foot stretch. **Chain:** AC 16, HP 15. An adjacent action pulls the release pin without a check.
 - Ration plus **DC 14 Animal Handling** occupies it for one round. Effective calming magic needs no extra check. Once released, treatment and visible threats determine its target.
-- At **20 HP**, flees if free; cowers if chained. Optional tougher version: **HP 95**.
+- At **10 HP or fewer**, flees if free or cowers if chained. Also backs down when its handler concedes. Preserve its strange appearance and partly tamed behavior without increasing durability.
 
-## B — Runner and bell
+## End and transition
 
-- Before initiative, show a practice seating of the handle into the bell's channel.
-- **First turn:** action to fasten the handle; move 30 feet. **Later turn:** move the remaining 30 feet; action to insert and turn it. No bonus-action Dash.
-- Another kobold can retrieve it, but must observe the full response window before transmitting.
-- Bell is stone-cased and sound-dead except through the keyed channel. Striking it or making ordinary noise does not transmit.
-- **Bell:** AC 15, HP 20, immune poison/psychic. Smash or silence it, block access, restrain the runner, or take the handle to stop warning.
-- Taking a secured handle: adjacent action, **DC 14 Sleight of Hand or Athletics**, unless magic removes it. Dropped handle: normal object interaction.
-
-### Kiln beast
-
-Use glass-skull hound statistics, except **speed 30 feet** and **bludgeoning bite damage**.
-
-- **Ash breath, once per encounter:** replaces bite; 15-foot cone, **DC 14 Con**, **10 (3d6) fire**, half on success.
-- Must visibly inhale and glow at the **end of its preceding turn**. Cannot breathe without that warning. No lingering fire or obscuring cloud.
-
-## To the passage
-
-- About one minute through two bends to E06. Use its **warned** or **unwarned** start.
-- Brief conversation or searching bodies adds no sealing progress. Before a deliberate rest or longer excursion, explain that warned defenders could finish sealing the passage.
-- Surviving watchpost kobolds escape by a separate bolt-hole. Beasts remain outside; neither joins E06.
-- If the party withdraws, defenders seal the route and stop pursuing.
+- **Warning prevented:** when the defenders concede or are bypassed, finish the scene promptly. No compulsory cleanup fight. E06 starts with all assemblies parked and the doorway open.
+- **Warning transmitted:** defenders have accomplished their main task and can withdraw when able. E06 starts with grille closed, wicket open, and plate/frame still parked.
+- Preventing the alarm earns an open doorway and one extra uninterrupted round before full closure; it also delays the plate covering the wicket by a round.
+- About one minute through two bends to E06. Brief conversation or searching bodies adds no sealing progress. Before a deliberate rest or longer excursion, explain that warned defenders could finish sealing.
+- Surviving kobolds can withdraw by a separate bolt-hole; the beast remains outside. **No watchpost survivors reinforce E06.**
+- If the party withdraws after detection, defenders seal the route and stop pursuing.
