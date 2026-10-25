@@ -1,0 +1,67 @@
+Publish vault content from GitHub Actions
+=======================================
+
+The Publish vault content workflow publishes notes, media, homepage/menu, and
+search to taelgar.org. It uses the selected committed vault revision and checks
+out msackton/taelgarverse-core main at the start of every run. The job summary
+records both actual commit IDs. It does not deploy website code or release the
+Obsidian plugin. Node handles materialization; Obsidian does not need to run.
+
+One-time setup
+--------------
+
+Add these in tsackton/taelgar -> Settings -> Secrets and variables -> Actions:
+
+* Secret CLOUDFLARE_PUBLISH_API_TOKEN: a Cloudflare API token with
+  Account -> Workers R2 Storage -> Edit and Account -> D1 -> Edit for the
+  Taelgar account, plus Zone -> Zone WAF -> Edit for taelgar.org.
+* Variable CLOUDFLARE_ACCOUNT_ID: 2328f3621c0a639572c74f537c5854c4.
+
+The publishing token is separate from core's website deployment token. Core is
+public, so its checkout needs no additional GitHub token. Publish the reviewed
+workflow on the vault's default branch before expecting the Run workflow button.
+
+Manual publication
+------------------
+
+Commit and push the desired vault changes. In tsackton/taelgar -> Actions ->
+Publish vault content -> Run workflow, select the branch and start the run.
+GitHub checks out that run's exact vault commit. Ordinary branch pushes do not
+publish content.
+
+Tag publication
+---------------
+
+When authorized to publish, create a unique tag on the desired vault commit and
+push that tag. For example, from the vault repository:
+
+    git tag publish/2026-10-24
+    git push origin refs/tags/publish/2026-10-24
+
+Only tags matching publish/* start publication. Use a fresh label for each run;
+do not move an existing release tag. The tagged commit must contain the workflow.
+Re-running an old run/tag still resolves core main again, so the publisher can
+differ from the original run even though the vault commit remains the same.
+
+Inputs and differences from local publishing
+-------------------------------------------
+
+GitHub can read only committed/pushed files. Local config overrides, ignored
+assets, and the secret filter's local DM recovery fragments are absent. Tracked
+DM placeholders remain placeholders; this workflow does not restore them.
+Filesystem dates reflect the fresh checkout, so Dataview queries using file
+creation/modification dates can differ from a local publication.
+
+The publisher uses shared core config.json and wrangler.json. It reuses stored
+R2 image recipes/assets and verifies search readiness before activation. Runs
+are serialized; the D1 publication lock also protects against local publishers.
+After success, inspect the site. On failure, inspect the log and downloadable
+publication-reports artifact. Reports are retained for seven days; the full vault
+and prepared content are not uploaded as artifacts. Rerun after fixing the cause.
+An activation failure leaves the earlier content active; a retention failure
+after activation can mean the new content is already live. A terminated run can
+leave a D1 lock; follow the core recovery guide after confirming all publishers
+have stopped rather than automatically clearing it.
+
+Publishing commands, configuration, and recovery:
+https://github.com/msackton/taelgarverse-core/blob/main/docs/deploy.md

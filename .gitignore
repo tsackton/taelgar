@@ -29,6 +29,7 @@ assets/generated/
 !.github/workflows/
 .github/workflows/*
 !.github/workflows/secret-filter.yml
+!.github/workflows/publish-content.yml
 
 # Include repo-local agent skills
 !.agents/
