@@ -1,60 +1,96 @@
 ---
 tags: [meta, status/check/ai]
 ---
+
 # E04 — The Arborean Gatekeeper
 
-Two proposed physical realizations of the adopted bound Arborean maker. Read [[04 Encounter Packet - Vraedhul's Broken Lair]] for scope. Choose one flavor; use the shared admission procedure for either. This is the formal entrance, not an additional trial after another entrance.
+%% Draft encounter mechanics. Choose A or B; both use the rules below. The maker's celestial type is a targeting ruling for this encounter, not established cosmology. %%
 
-## Shared admission procedure
+## Read aloud — A: The Maker in the Bronze Dragon
 
-**Goal:** gain passage through the mountain door. **Space:** a 60-foot-square forecourt, entrance at its far side, offerings placed 20 feet from the threshold. The massive eye, mouth, and claw are parts of one representation of Vraedhul. The mountain passage beyond is roofed; this is a gate into rock, not an open wall that a short hop bypasses.
+> A bronze dragon's head projects from the cliff. Beneath it, a claw large enough to crush a wagon rests beside a sealed door. Green shoots force their way between the gold bands around its wrist.
+>
+> “Come closer,” says the head. Its claw twitches. “Not beneath the hand.”
 
-The keeper asks, "What have you brought that should survive you?" It examines without taking. Tell the players what counts **before** an offering is surrendered. Proposed calibration: one permanent uncommon magic item that still has practical value, one rarer permanent item, or an extraordinary crafted treasure worth roughly 3,000 gp. A substantial collection of lesser valuables can meet the same threshold. Weird or cruel craftsmanship can compensate for some cash value, but actual cruelty by the PCs is never required. A sentimental claim alone does not make a worthless pebble payment. No specific inventory item is secretly mandatory.
+## Read aloud — B: The Orchard of Gold
 
-**Fitting payment works:** the claw places it in an unreachable locked recess and opens the door for the whole party for ten minutes. No extra check, curse, binding puzzle, or surprise second fee follows. If an offer is insufficient, the eye explains a concrete defect and returns it. Vraedhul's historical unreliability is expressed in the unnerving performance, not an arbitrary cancellation of the promised straightforward route.
+> Metal bones support branches heavy with golden fruit. One fruit resembles a hand; another, a face. A claw curls around the doorway. A voice speaks from the leaves.
+>
+> “I have made so much for her. Show me what you have made.”
 
-### The three versions
+## Run it
 
-One version dominates at a time. Show the shift; do not run three simultaneous judges. Before any danger, let the keeper slip once into each voice during the inspection.
+- **Goal:** gain admission. **Next:** [[VBL E08 - The Death View]].
+- **Ground:** 60-foot-square forecourt; door in the far wall opens into a roofed mountain passage; offering place 20 feet from the threshold. Defenses reach the threshold and offering place.
+- **Approaches:** pay, bargain with the maker, disable the bindings, sneak through the service hatch, or overcome the apparatus.
+- Establish a shared language before play. The keeper has no automatic universal telepathy.
+- **Admission:** door stays open for 10 minutes and defenses cease, even if temporary suppression ends sooner. The inside handle always permits exit. A later approach from outside faces any surviving defenses.
 
-| Version | Visible cue and line | How PCs can bring it forward |
+### Tribute
+
+> “What have you brought that should survive you?”
+
+- Explain acceptable payment **before taking it**: a useful permanent uncommon magic item; a rarer permanent item; or crafted treasure/combined valuables worth about **3,000 gp**. Strange or cruel workmanship may compensate for lower value; no cruelty by the party is required.
+- Sufficient payment works without a roll. It passes into a locked, unreachable recess; the whole party is admitted.
+- Insufficient payment is returned with an explanation of what is missing.
+
+### Three voices
+
+Show all three before danger. Only one speaks at a time.
+
+| Voice | Read aloud | Respond with |
 | --- | --- | --- |
-| Still the guardian | Claw poised, eyes narrow. "The mistress does not receive disappointments." | Present an offering or discuss admission. |
-| Believes it is in Arborea | The voice gains birdsong; fingers open as though tending growth. "Do not cut that. It has only just learned to flower." | Engage with a visible living or creative possibility: offer water, ask what it is growing, show a seed, suggest an actual change to its work. |
-| Understands the truth | Voice becomes small inside the enormous mouth; claw flinches from its own collar. "That is not my hand. Let me show you where it closes." | Direct attention to a binding, its involuntary movement, or the contradiction between present ruin and its perceptions. |
+| Guardian; claw poised | “The mistress does not receive disappointments.” | Offering, admission, authority. |
+| Arborea; birdsong, growing fingers | “Do not cut that. It has only just learned to flower.” | Water, seeds, creative engagement. |
+| Truth; claw flinches | “That is not my hand. Let me show you where it closes.” | Notice a binding, involuntary movement, or contradiction. |
 
-These are examples, not passwords. A concrete relevant action or conversation shifts it without a Charisma check. Hostile manipulation or a contested demand can require DC 15 Persuasion or another fitting check; failure brings back the guardian, which warns rather than immediately attacks. The maker understands spoken interaction in a language the DM has already established the party can use; choose that language before running, without inventing universal telepathy.
+- A concrete response shifts the voice without a roll. A contested or hostile appeal uses **DC 15 Persuasion** or another fitting check; failure brings a guardian warning, not an immediate attack.
+- **In combat:** shifting to Truth takes an action and cancels the next apparatus attack before that character's next turn. Only one cancellation may be pending; it cannot undo an attack.
+- Truth recalls a workshop, white flash, and impact; believes Vraedhul died. It has not seen her remains and cannot explain the eruption.
 
-**Cooperation:** the truth-aware self can explain and expose two bindings in sequence. It says clearly, "Hold this open; cut that; I can keep the other fingers still." Each exposed binding can be disconnected with an action and DC 15 Arcana or thieves' tools, a physically sound wedge and a DC 15 Athletics check, or sufficient damage. A failed check can trigger one defensive strike using the apparatus's reaction, at most once per round: +8 to hit, 15 bludgeoning. It leaves the binding exposed for another attempt and never resets progress. If that reaction has been spent, no extra strike occurs. The Arborea self can be engaged in imagining an existing hinge as a growing branch, granting advantage on one practical attempt; it does not simply wish the gate away.
+## Free the mechanism
 
-Two disconnected bindings open the gate and stop the admission defenses. A third releases the maker from the gate entirely; it can leave the physical apparatus, but no automatic portal home, wish, or future mission follows. It is capable of gratitude without promising an unchosen magical reward. The gate's binding survives because it is anchored in objects, not Vraedhul's living concentration. This explanation is a proposal within this variant.
+- Truth exposes **two bindings in sequence**. An exposed binding takes an action: **DC 15 Arcana or thieves' tools**, a sound wedge with **DC 15 Athletics**, or damage.
+- Failed practical attempt: apparatus reaction, **+8 to hit, 15 bludgeoning**, at most once per round. Binding remains exposed; progress remains.
+- Engaging the Arborean voice grants advantage on one practical attempt.
+- **Two disconnected bindings:** admission; defenses stop. **All three:** maker freed. Freedom grants no automatic wish or portal home.
 
-**What it knows:** the truth-aware version remembers the workshops flashing white and an immense impact; it has had no direct view of the remains. It thinks the mistress did not survive, but cannot explain the eruption. The guardian version insists admissions continue. Let testimony be useful; the later physical view supplies confirmation.
+| Version | Bindings and access |
+| --- | --- |
+| A | Gold collars at wrist, throat, service recess. Wrist/recess at ground level; throat 15 feet up, reachable by maintenance grips. |
+| B | Wire cages around hand-fruit, claw-root, sounding branch; all within 20 feet of threshold. Fruit 15 feet up, with a ladder. Fruit remains bound machinery, not loose treasure. |
 
-## A — The maker in the bronze dragon
+**Each binding:** AC 16; HP 25; immune poison/psychic. **Dispel Magic:** special 5th-level effect; DC 15 below a 5th-level slot, automatic with 5th or higher. Suppresses one binding for 1 minute. Two suppressed bindings grant admission, not permanent freedom. **Knock** opens only a service cover.
 
-> The bronze dragon's head fills the cliff above the door. Its open claw is large enough to hold a wagon. Between two golden plates at the wrist, something green presses outward and is slowly forced back. "Come closer," says the dragon. Then, much more quietly: "Not beneath the hand."
+### Apparatus
 
-The original maker appears as living growth compressed inside an articulated bronze likeness. Bindings are broad gold collars at the wrist, throat, and a service recess beside the door. Wrist and recess are reachable from the ground; throat requires climbing 15 feet using obvious maintenance grips, flight, or reaching magic. All are visible once pointed out. Each binding: AC 16, HP 25, immunity to poison and psychic damage. The maker can expose them for the practical checks above. For this encounter's special dispelling rule, each binding counts as a fifth-level magical effect: Dispel Magic cast below fifth level requires its normal spellcasting-ability check against DC 15; fifth-level or higher succeeds automatically. Success suppresses one binding for a minute; two suppressed bindings suffice for passage, not permanent release. This is a property of these bindings, not a general rule for dispelling magic items. Knock can open the service cover but does not remove a spiritual binding by itself.
+| AC | HP | Initiative | Movement |
+| --- | --- | --- | --- |
+| 17 | 145 | +0 | Immobile |
 
-**If force is used:** roll initiative. The gate has AC 17, HP 145, initiative +0. It cannot move. On its turn it makes two claw/bronze-tongue attacks, +8 to hit, reach 20 feet from the threshold or offering place, **15 (2d10+4)** bludgeoning each. It may replace one hit's damage with pushing that target 10 feet away; it never pushes into an unseen lethal pit. At initiative 20, it outlines one 10-foot square with white light; at initiative 20 next round, that square flares for **13 (3d8)** force, DC 15 Dexterity half, then outlines a new square. The first outline deals no damage. Leaving the forecourt ends pursuit. Reducing the apparatus to 0 HP disables it for ten minutes without automatically killing the maker; the gate hangs open.
+- **Multiattack:** two strikes, +8 to hit, reach 20 feet from threshold/offering place; **15 (2d10 + 4) bludgeoning** each. One hit may replace damage with a 10-foot push away.
+- **Flare, initiative 20:** mark one 10-foot square. At the next initiative 20 it flares: **DC 15 Dex**, **13 (3d8) force**, half on success; then mark the next square. Initial mark deals no damage.
+- B uses branch strikes and a pollen flare with identical rules.
+- Leaving the forecourt ends pursuit. At 0 HP, apparatus stops for 10 minutes and door opens; maker is unharmed.
+- Optional tougher version: **HP 170**.
 
-Its objective is expulsion. The PCs' objective remains admission or disabling bindings. Destroyed bindings also remove the apparatus's attacks after the second one falls. Social cues can still shift the maker during initiative; doing so takes an action, and the truth-aware version forfeits the next apparatus attack before the start of that PC's next turn. Only one cancellation can be pending; it never cancels an attack already made. There are no legendary resistances. A single restraint spell may not stop a fixed apparatus, but spells aimed at the maker's mind work if their ordinary targeting permits; do not grant construct immunity by implication.
+### Bound maker
 
-**Living maker and spells:** for this draft's targeting only, the maker is a Large celestial, not an official deva species assignment. AC 15, HP 100; speed 0 while bound, 30 when released; STR +3, DEX +1, CON +4, INT +4, WIS +5, CHA +4; saves CON +7, WIS +8, CHA +7. Exposed growth at each collar can be targeted as the creature; bronze and gold apparatus can be targeted as objects. A normal attack hits the declared target, not both. Apply ordinary area-effect targeting. Damage to the apparatus does not damage the maker; direct harm to the maker uses its own HP and ordinary dying rules. Charmed does what the spell says, without automatically granting control. Incapacitating or successfully banishing the maker stops the attacks and pending flare, and releases the door catch. Banishment follows its normal duration and native-plane return rules; do not invalidate an effective higher-level spell to preserve the encounter. The apparatus has no independent mind or construct immunities that shield the maker from targeting.
+*Large celestial; AC 15; HP 100; speed 0 while bound, 30 feet freed.*
 
-**Open door and exit:** once admission is achieved by any method, a mechanical catch holds the entrance open ten minutes even if a one-minute suppression expires. Defenses remain inactive while that catch is open. An obvious inside handle opens it outward thereafter without payment or a new puzzle. Only someone deliberately reapproaching from outside after it closes faces resumed admission; disabled or removed bindings remain so.
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| +3 | +1 | +4 | +4 | +5 | +4 |
 
-**Sneaking:** a rubble seam along the forecourt's left wall reaches a maintenance hatch behind the claw. Two linked tasks, not four party checks: reach the hatch unseen (DC 17 Stealth, advantage with effective concealment) and open it (DC 15 thieves' tools or suitable magic). Success admits the party through a low service passage. Failure reveals that position and starts the gate's first warning outline; retreat or another solution remains possible. The hatch and seam can be found by examining the forecourt without a separate perception gate.
+**Saves:** Con +7, Wis +8, Cha +7.
 
-**Balance:** force is a substantial but manageable objective fight, roughly 1–3 rounds for efficient attacks on bindings, or 3–5 if they divide attention or attack the main apparatus. Payment is intentionally much easier. Fresh powerful level 10 option: apparatus HP 170; binding HP and damage unchanged. Do not also add animated statues.
+- Exposed living growth is the creature; bronze/gold are separate objects. Declare the target; one attack does not hit both. Areas follow their normal text. Apparatus damage does not harm the maker.
+- Normal creature targeting, charm, mortality, and banishment rules apply. No construct immunities or legendary resistance.
+- Incapacitating or banishing the maker stops attacks and pending flare, and opens the catch. Banishment's duration and native-plane rules still apply.
+- B's Truth voice: “She made me give them useful shapes. She kept the ones that hurt.”
 
-## B — The orchard of gold
+### Service hatch
 
-> The dragon is made of branches trained through metal bones. Gold fruit hangs beneath its jaw. Some pieces have the shape of hands, some of faces. A voice comes from every leaf at once: "I have made so much for her. Show me what you have made."
-
-The maker's growth has burst through the likeness rather than remaining hidden. The three bindings are wire cages around a hand-shaped fruit, the great claw's root, and the mouth's sounding branch. Place all within 20 feet of the threshold; the fruit hangs 15 feet high with an accessible tending ladder. Use A's statistics, defenses, practical checks, and alternative routes. Damage is bludgeoning from branches; the square's force flare becomes hardening airborne pollen with identical mechanics, visibly confined to its marked square.
-
-The Arborea self believes it is tending an exuberant grove. Its innocent pleasure sits uneasily beside the cruel forms the dragon demanded. The truth-aware self can explain, "She made me give them useful shapes. She kept the ones that hurt." This is an interpretation of this keeper's captivity, not authorship of all Vraedhul's treasure. Do not make the fruit into valuable free tribute or additional loot. They are bound parts of the apparatus.
-
-Both flavors exit directly toward [[VBL E08 - The Death View]] once entry is earned. Neither requires the PCs to resolve the maker's entire life.
+- Visible rubble seam along the left wall leads behind the claw; no Perception check to find it.
+- **DC 17 Stealth**, advantage with suitable concealment, then **DC 15 thieves' tools** or suitable magic opens a low passage for the party.
+- Failure reveals the intruder. First response is a warning and an outlined target square; retreat remains possible.
