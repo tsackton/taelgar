@@ -8,7 +8,7 @@
       "width": 2900,
       "height": 300,
       "color": "3",
-      "text": "# Vraedhul's Broken Lair — checkpoint 2026-10-24\n\nREAD FIRST: [[00 Design Checkpoint - Vraedhul's Broken Lair]].\nThen read [[01 Overview - Vraedhul's Broken Lair]] and [[02 Backstory - Vraedhul's Broken Lair]].\n\nImmediate scope: finish outside + three entrances + discovery; then sketch the crawl. Audience/lair remain deferred.\nBlue = adopted; green = start; purple = nested part; gray = recovery; yellow = unresolved; red group = eventual capstone.\nCards are first-pass cores, not finished running prep."
+      "text": "# Vraedhul's Broken Lair — checkpoint 2026-10-25\n\nREAD FIRST: [[00 Design Checkpoint - Vraedhul's Broken Lair]].\nThen read [[01 Overview - Vraedhul's Broken Lair]] and [[02 Backstory - Vraedhul's Broken Lair]].\n\nImmediate scope: finish outside + three entrances + discovery; then sketch the crawl. Audience/lair remain deferred.\nBlue = adopted; green = start; purple = nested part; gray = recovery; yellow = unresolved; red group = eventual capstone.\nCards are first-pass cores, not finished running prep."
     },
     {
       "id": "opening-group",
@@ -68,7 +68,7 @@
       "width": 425,
       "height": 250,
       "color": "5",
-      "text": "# No warning\n\nPassage intact.\nInner defenders unprepared.\nDemolition has not begun.\n\nThe party gains better initial conditions for securing access."
+      "text": "# No warning\n\nAll barricade assemblies parked.\nDoorway open; crew unprepared.\n\nThe party gains better initial conditions for reaching the machinery and securing access."
     },
     {
       "id": "warned",
@@ -78,7 +78,7 @@
       "width": 425,
       "height": 250,
       "color": "5",
-      "text": "# Warning received\n\nDefenders begin retreat and demolition.\nDestruction is more advanced when the party arrives.\n\nThe alarm triggers this process; it has not continued for months."
+      "text": "# Warning received\n\nGrille closed; wicket open.\nPlate and locking frame still parked.\n\nGuards retreat through the wicket before the plate covers it. The alarm triggers closure."
     },
     {
       "id": "demolition",
@@ -88,7 +88,7 @@
       "width": 900,
       "height": 480,
       "color": "5",
-      "text": "# Main fight — preserve access\n\nPurpose: combat whose result depends on an objective beyond killing.\nSituation: some kobolds delay the party while others retreat and seal or collapse the passage.\nObjective: secure access and get through before this route is lost.\nPressure: active work on the passage while the rearguard interferes.\nEnds when: access is secured, the party withdraws, or the passage is lost.\nSuccess: reach the shared discovery location through the kobold network.\nFailure: another entrance remains available; retain incurred costs.\nOpen: method, battlefield, meaningful work progress, counteractions, and alarm-dependent starting conditions."
+      "text": "# Main fight — preserve access\n\nSelected: [[VBL E06 - Save the Passage]].\nMachinery: sliding grille → armored plate → locking frame.\nCrew behind barrier: two chain-pullers, director, spellcaster, fire/acid bombardier.\nThree guards withdraw through the grille wicket before the plate covers it; no bypass hatch.\nObjective: get everyone through and secure access.\nPressure: hauling closes the barrier while guards and ranged attackers interfere.\nInterference: jam, reverse, divert, break chains, or seize controls.\nSuccess: underground kobold network to shared discovery.\nFailure: another entrance remains available; retain costs."
     },
     {
       "id": "zaurmath",
@@ -178,7 +178,7 @@
       "width": 900,
       "height": 970,
       "color": "3",
-      "text": "# Construction still needed\n\nOutside flow selected: Orenlas travel → altered river → road / expelling lair / optional reconnaissance → one entrance.\nFinish: river geometry and solid-air tells; charging creature; exact scouting observation points; expulsion phenomenon; hidden kobold and predator.\nReconnaissance stays brief. Basic leads are not gated behind a roll or the kobold's survival.\nFormal: gift calibration, maker's body and voice, perspective cues, actual knowledge, binding anchors, release outcome, and physical alternatives.\nKrauzeth: creature, kobold roles, signal, traps, demolition, battlefield, and starting states.\nZaurmath: transformations, signs, route geometry, costs, and skill/magic interactions.\nDiscovery: actual view, evidence, and onward transition.\nCrawl: begin room-and-connection sketch after the opening."
+      "text": "# Construction still needed\n\nOutside flow selected: Orenlas travel → altered river → road / expelling lair / optional reconnaissance → one entrance.\nFinish: river geometry and solid-air tells; charging creature; exact scouting observation points; expulsion phenomenon; hidden kobold and predator.\nReconnaissance stays brief. Basic leads are not gated behind a roll or the kobold's survival.\nFormal: gift calibration, maker's body and voice, perspective cues, actual knowledge, binding anchors, release outcome, and physical alternatives.\nKrauzeth: choose watchpost creature/alarm variant. E06 steel barricade, crew, and starting states selected; running numbers remain provisional.\nZaurmath: transformations, signs, route geometry, costs, and skill/magic interactions.\nDiscovery: actual view, evidence, and onward transition.\nCrawl: begin room-and-connection sketch after the opening."
     },
     {
       "id": "proposal-pool",
@@ -308,7 +308,7 @@
       "fromSide": "bottom",
       "toNode": "demolition",
       "toSide": "top",
-      "label": "Demolition already underway"
+      "label": "Grille closed; wicket open"
     },
     {
       "id": "formal-success",

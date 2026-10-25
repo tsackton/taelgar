@@ -4,7 +4,7 @@ tags: [meta, status/check/ai]
 # Vraedhul's Broken Lair — Design Resumption Guide
 
 > [!important] Read first when resuming without the chat
-> This packet is intended to let the DM and a different assistant resume the adventure-design skill from the notes alone. It records the state at 2026-10-24. Later user decisions and actual play supersede this checkpoint.
+> This packet is intended to let the DM and a different assistant resume the adventure-design skill from the notes alone. It records the state at 2026-10-24, with the selected E06 barricade and expanded crew updated on 2026-10-25. Later user decisions and actual play supersede this checkpoint.
 >
 > Immediate scope: **finish the outside and three entrances, finish the discovery, then begin sketching the supplicant-quarter crawl.** Audience-chamber and personal-lair design is deferred.
 
@@ -14,7 +14,7 @@ tags: [meta, status/check/ai]
 2. [[01 Overview - Vraedhul's Broken Lair]] provides the premise under the adventure-design headings, dynamics, outcomes, pacing, and preparation priorities.
 3. [[02 Backstory - Vraedhul's Broken Lair]] provides the fictional situation, geography, guardian concept, source boundaries, and contextual examples.
 4. [[03 Scenes - Vraedhul's Broken Lair.canvas]] provides the connected structure and first-pass scene cores. The Canvas's cards are not finished encounter scripts or statistics.
-5. [[04 Encounter Packet - Vraedhul's Broken Lair]] now supplies two runnable construction proposals for each of eight opening/entrance encounters and three optional guest rooms. Each was independently reviewed for four level 9–10 PCs. These are alternatives for the DM to critique, not additions silently adopted into the outline. The packet records assumptions, revised mechanics, and review findings.
+5. [[04 Encounter Packet - Vraedhul's Broken Lair]] supplies runnable construction proposals for eight opening/entrance encounters and three optional guest rooms. E01 has a selected river version; E06 now uses the selected steel barricade with eight defenders. Other A/B choices remain alternatives for critique. Earlier drafts were independently reviewed for four level 9–10 PCs; the E06 redesign and expanded roster have not received that review or playtesting. The packet records assumptions and running mechanics.
 
 For the maintained process, read the [adventure-design skill](https://github.com/tsackton/taelgar/blob/main/.agents/skills/adventure-design/SKILL.md), at repository path `.agents/skills/adventure-design/SKILL.md`. Use the live [[01 Overview - Template]], [[02 Backstory - Template]], [[03 Scenes - Instructions]], and [[Scene - Template]]. This guide supplements those instructions; it does not replace current templates or vault rules.
 
@@ -145,20 +145,20 @@ The truth-aware version recognizes its situation, but what it witnessed of Vraed
 
 The route has two connected parts:
 
-1. An outer watchpost, with loyalist kobolds and a partially tamed creature. Alarm traps may supplement it.
-2. A main encounter in which some kobolds delay intruders while others retreat into the tunnel network and destroy or seal access behind them.
+1. An outer watchpost, with loyalist kobolds and a partially tamed creature. The objective is to prevent an observable, interruptible warning. The watchpost's lens/hound and runner/kiln-beast drafts remain alternatives.
+2. [[VBL E06 - Save the Passage]]: a fighting withdrawal through a chain-driven steel barricade. This selected redesign replaces the counterweighted jaws and cast-stone seal proposals.
 
-The precursor objective is to prevent a warning. It need not be a full battle. The warning method should be observable and interruptible.
+The barricade has three upright assemblies on tracks: a barred grille, a solid armored plate, and a locking frame. Gears, clutches, a reversing mechanism, and a switch to a maintenance siding provide physical ways to interfere. Two strong pullers supply the force; the director operates levers. They stand on the tunnel side of the barrier. Three kobold guards hold the outer chamber and retreat through a small hinged wicket in the grille before the plate covers it. A kobold spellcaster and a fire/acid bombardier attack from behind the grille. There is no independent bypass hatch.
 
-No warning means the passage is intact and the defenders unprepared. A warning means destruction has begun and is more advanced when the party reaches it. Those are outcome-dependent starting conditions, not yet numerical settings.
+No warning means all pieces are parked and the doorway is open. On a prompt warned arrival, the grille is closed, its wicket open, and the plate and frame still parked. The running draft takes four uninterrupted rounds to seal from open, or three from the warned start; the plate covers the wicket one round before the frame locks. One puller can work at half speed. Killing or displacing a crew member buys time; replacement operators remain possible.
 
-The main fight's objective is to secure access and get through before the route is lost. Killing all the kobolds might be too late if the passage is wrecked; success might also be possible with defenders still alive.
+The objective is to get everyone through or stop the machinery while preserving a usable opening. A PC inside can threaten the controls and force a puller or ranged attacker away from its job. Guards and PCs use the same wicket; characters can exploit the defenders' retreat. Bombs can hit allies, fire burns Web, and acid can damage chains. Closing the plate also blocks the defenders' sight and attacks into the outer chamber.
 
-The causal trigger matters. The user objected to monsters supposedly destroying an entrance continuously for three months. The alarm starts the process. Do not replace that with an unexplained permanent demolition scene.
+The alarm or detected intrusion starts closure; the defenders have not been destroying their entrance for three months. Losing this route leaves the other entrances as alternatives. A credible truce can stop the work.
 
-The precise loyalists, creature, handlers, alarm, battlefield, tools, and rate of destruction are not chosen. Existing named kobolds and their relationships to the PCs should not be reassigned casually.
+The pullers' species and all NPC identities remain open; do not reassign existing named kobolds. The E06 note holds the current map, roster, tactics, mechanics, and provisional statistics. Other older passages describing unspecified demolition do not supersede this selected encounter.
 
-The partly tamed creature is a current ingredient and is distinct from the discarded Limbo scavenger. It has no adopted enchantment-eating, feeding clock, or portal function.
+The partly tamed watchpost creature is distinct from the discarded Limbo scavenger. It has no adopted enchantment-eating, feeding clock, or portal function.
 
 ## Zaurmath's entrance: a readable environmental crossing
 
@@ -249,7 +249,7 @@ These statuses must not be merged:
 | Crooked estate road and distant expulsion of lair fragments in different directions | Adopted landmarks; exact expulsion phenomenon open. |
 | Brief reconnaissance with three entrance leads and a hidden living kobold | Adopted flow; concrete checks, predator, and NPC identity open. |
 | Moving woodland lookout, Air Elemental statistics, and root-tether procedure | Earlier unadopted brainstorming; not part of the chosen river opening. |
-| Actual creature statistics, detailed encounter mechanics, or room inventory | Still open; do not infer them from descriptive examples. |
+| Actual creature statistics, detailed encounter mechanics, or room inventory | E06 has a selected machinery/crew design and provisional running statistics. Other unchosen details remain open; do not infer them from examples. |
 
 The general wish for elementals and other dangers in the landscape remains. It does not revive the rejected particular elemental proposal. The user specifically corrected the notes on this point.
 
@@ -279,7 +279,7 @@ After reading the packet and the live skill:
 2. If the original next game has happened, establish which material was played and what changed.
 3. Continue construction from the adopted river → landmarks → optional brief scouting → entrance-choice flow. Finish the crossing's solid-air geometry and charging creature, the three reconnaissance findings, and the optional kobold rescue. Do not restart with generic outside alternatives. No useful tribute cache and no revived stair-maintaining elemental.
 4. Finish the formal keeper's play details: cues, gifts, binding, cooperation, and physical alternatives.
-5. Finish the watchpost-to-demolition encounter and its outcome states.
+5. Use the selected steel-barricade encounter in [[VBL E06 - Save the Passage]]; select the watchpost variant and refine remaining details without reviving the superseded jaws or poured-stone mechanisms.
 6. Finish the environmental chamber's actual hazards and readable rules.
 7. Finish the discovery's physical presentation and transition.
 8. Begin a guest-room map and a few room contents. Keep the main route short enough to bypass optional material when needed.

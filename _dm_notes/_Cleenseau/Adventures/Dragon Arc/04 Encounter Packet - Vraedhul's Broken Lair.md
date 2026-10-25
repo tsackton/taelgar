@@ -4,7 +4,7 @@ tags: [meta, status/check/ai]
 
 # Vraedhul's Broken Lair — Encounter Index
 
-%% Runnable drafts for four level 9–10 PCs, not adopted setting facts or tested CR assignments. E01 uses the selected folded current; choose one A/B version for each other scene. Established outline: [[00 Design Checkpoint - Vraedhul's Broken Lair]] and [[03 Scenes - Vraedhul's Broken Lair.canvas]]. %%
+%% Runnable drafts for four level 9–10 PCs, not adopted setting facts or tested CR assignments. E01 uses the selected folded current and E06 the selected steel barricade; choose one A/B version for each remaining scene. Established outline: [[00 Design Checkpoint - Vraedhul's Broken Lair]] and [[03 Scenes - Vraedhul's Broken Lair.canvas]]. %%
 
 ## Route
 
@@ -16,7 +16,7 @@ tags: [meta, status/check/ai]
 | [[VBL E02 - Scrambled Grounds and Reconnaissance]] | See the three entrances; optional scouting. |
 | [[VBL E03 - The Hidden Kobold]] | Optional rescue. |
 | [[VBL E04 - The Arborean Gatekeeper]] | Formal entrance: tribute, negotiation, bindings, or stealth. |
-| [[VBL E05 - Krauzeth's Watchpost]] → [[VBL E06 - Save the Passage]] | Guarded entrance: stop the alarm, then keep the passage open. |
+| [[VBL E05 - Krauzeth's Watchpost]] → [[VBL E06 - Save the Passage]] | Guarded entrance: stop the alarm, then get through the chain-driven steel barricade before it locks. |
 | [[VBL E07 - Zaurmath's Broken Hall]] | Environmental entrance: changing floor or gusts. |
 | [[VBL E08 - The Death View]] | Shared discovery of Vraedhul's death. |
 | [[VBL G01 - The Generous Table]] | Optional hospitality puzzle and utility treasure. |
