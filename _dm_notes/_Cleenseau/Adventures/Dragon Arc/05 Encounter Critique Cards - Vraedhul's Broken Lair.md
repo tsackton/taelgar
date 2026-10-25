@@ -4,23 +4,24 @@ tags: [meta, status/check/ai]
 
 # Vraedhul's Broken Lair — Variant Choices
 
-E01 and E06 have selected versions; choose one version for each remaining scene. Linked notes contain read-aloud text, running rules, and stats.
+E03 and E06 have selected versions; choose one version where alternatives remain. Linked notes contain read-aloud text, running rules, and stats. The opening was revised on 2026-10-25; E01 is a flyover and E07 is unused.
 
-**River:** [[VBL E01 - River of Solid Air|folded current selected]]; upstream crossing through northern chaos-pack territory remains an alternative route.
+**River:** [[VBL E01 - River of Solid Air|flyover and observation]]; the folded current and ground-crossing mechanics remain fallback material.
+
+**Grounds:** [[VBL E02 - Scrambled Grounds and Reconnaissance|cloud-covered domain]]; the front entrance is obvious. Scouting finds the predator encounter, whose survivor or physical evidence reveals the back entrance. Good, middling, and bad scouting change the rescue's starting conditions; bad begins with a dying kobold.
+
+**Kobold rescue:** [[VBL E03 - The Hidden Kobold|Cindermaw selected]]; a basalt-and-magma predator with two starting cinderlings and two further spawn waves. Four living cinderlings maximum; killing the parent collapses its surviving brood. Replaces the earlier slab-mouth and ribbon alternatives.
 
 | Encounter | A | B |
 | --- | --- | --- |
-| [[VBL E02 - Scrambled Grounds and Reconnaissance|Grounds]] | **Road on its side:** tilted road gives an overlook. | **Interrupted procession:** inert statues and a raised viewing point. |
-| [[VBL E03 - The Hidden Kobold|Kobold rescue]] | **Mouth beneath the slab:** one predator; free a trapped ankle before it reaches the kobold. | **Hunting ribbons:** two aerial hunters; extract and reach cover. |
 | [[VBL E04 - The Arborean Gatekeeper|Formal entrance]] | **Maker in the bronze dragon:** gold collars bind a living maker to the gate. | **Orchard of gold:** wire cages bind living growth into useful shapes. |
 | [[VBL E05 - Krauzeth's Watchpost|Watchpost]] | **Signal lens and glass hound:** block the beam before transmission. | **Runner and kiln beast:** stop the keyed bell. |
 | [[VBL E06 - Save the Passage|Passage]] | **Selected: steel barricade.** Two pullers, director, three guards, spellcaster, and fire/acid bombardier; grille → plate → locking frame. | Earlier jaws and poured-stone proposals superseded. |
-| [[VBL E07 - Zaurmath's Broken Hall|Broken hall]] | **Floor remembers water:** cross cycling plates or stabilize them. | **Rooms becoming wind:** time or suppress gust lanes. |
 | [[VBL E08 - The Death View|Death view]] | **Skull in the wound:** remains amid the broken workshops. | **Spine across workshops:** suspended bones repeatedly change. |
 | [[VBL G01 - The Generous Table|Generous table]] | **Excessive hospitality:** end the service; take the platform-making cloth. | **Borrowed senses:** inspect altered materials; take the distant-tasting cup. |
 | [[VBL G02 - The Perfect Reflection|Perfect reflection]] | **Flattering mirror:** reveal the plain image; take the invisibility-revealing lens. | **Improving portrait:** take the Persuasion brooch; optional disclosed curse. |
 | [[VBL G03 - The Patient's Suite|Patient's suite]] | **Cure in the cabinet:** still the feet; three draughts of sure footing. | **Pain in crystal:** handle safely; three damage-reduction charges. |
 
-**Entrance choice:** E04 **or** E05 → E06 **or** E07. All reach E08. Guest suites are optional.
+**Entrance choice:** E04 **or**, once discovered through E03, E05 → E06. Both reach E08. Guest suites are optional. Zaurmath's lair is the visible heart of destruction; improvise an expedition there rather than offering E07 as a route.
 
-**Still open:** northern chaos-pack mechanics, upstream detour length, aerial-current proposal, and the precise cause of the eruption.
+**Still open:** Cindermaw balance in play, adjustable scouting and rescue mechanics, and the precise cause of the eruption. Northern chaos-pack mechanics and upstream detour length matter only if the ground-crossing fallback is used.
