@@ -4,7 +4,7 @@ tags: [meta, status/check/ai]
 # Vraedhul's Broken Lair — Design Resumption Guide
 
 > [!important] Read first when resuming without the chat
-> This packet is intended to let the DM and a different assistant resume the adventure-design skill from the notes alone. It records the state at 2026-10-24, with the selected E06 barricade and expanded crew updated on 2026-10-25. Later user decisions and actual play supersede this checkpoint.
+> This packet is intended to let the DM and a different assistant resume the adventure-design skill from the notes alone. It records the state at 2026-10-24, with the selected light E05 watchpost and E06 barricade updated on 2026-10-25. Later user decisions and actual play supersede this checkpoint.
 >
 > Immediate scope: **finish the outside and three entrances, finish the discovery, then begin sketching the supplicant-quarter crawl.** Audience-chamber and personal-lair design is deferred.
 
@@ -14,7 +14,7 @@ tags: [meta, status/check/ai]
 2. [[01 Overview - Vraedhul's Broken Lair]] provides the premise under the adventure-design headings, dynamics, outcomes, pacing, and preparation priorities.
 3. [[02 Backstory - Vraedhul's Broken Lair]] provides the fictional situation, geography, guardian concept, source boundaries, and contextual examples.
 4. [[03 Scenes - Vraedhul's Broken Lair.canvas]] provides the connected structure and first-pass scene cores. The Canvas's cards are not finished encounter scripts or statistics.
-5. [[04 Encounter Packet - Vraedhul's Broken Lair]] supplies runnable construction proposals for eight opening/entrance encounters and three optional guest rooms. E01 has a selected river version; E06 now uses the selected steel barricade with eight defenders. Other A/B choices remain alternatives for critique. Earlier drafts were independently reviewed for four level 9–10 PCs; the E06 redesign and expanded roster have not received that review or playtesting. The packet records assumptions and running mechanics.
+5. [[04 Encounter Packet - Vraedhul's Broken Lair]] supplies runnable construction proposals for eight opening/entrance encounters and three optional guest rooms. E01 has a selected river version; E05 uses the light signal-lens watchpost; E06 uses the steel barricade with eight defenders. Other A/B choices remain alternatives for critique. Earlier drafts were independently reviewed for four level 9–10 PCs; the E05/E06 revisions have not received that review or playtesting. The packet records assumptions and running mechanics.
 
 For the maintained process, read the [adventure-design skill](https://github.com/tsackton/taelgar/blob/main/.agents/skills/adventure-design/SKILL.md), at repository path `.agents/skills/adventure-design/SKILL.md`. Use the live [[01 Overview - Template]], [[02 Backstory - Template]], [[03 Scenes - Instructions]], and [[Scene - Template]]. This guide supplements those instructions; it does not replace current templates or vault rules.
 
@@ -145,8 +145,10 @@ The truth-aware version recognizes its situation, but what it witnessed of Vraed
 
 The route has two connected parts:
 
-1. An outer watchpost, with loyalist kobolds and a partially tamed creature. The objective is to prevent an observable, interruptible warning. The watchpost's lens/hound and runner/kiln-beast drafts remain alternatives.
+1. [[VBL E05 - Krauzeth's Watchpost]]: a light outer watchpost with one handler, one signaler, and a partly tamed glass-skull hound. Prevent an observable, interruptible lens signal. This selected version supersedes the runner/kiln-beast alternative and the tougher hound.
 2. [[VBL E06 - Save the Passage]]: a fighting withdrawal through a chain-driven steel barricade. This selected redesign replaces the counterweighted jaws and cast-stone seal proposals.
+
+The watchpost should cost little health and perhaps one voluntarily spent resource; ordinary attacks and skills should suffice. The two kobolds have AC 13 and 10 HP each; the hound has AC 13 and 32 HP, one +5 bite for 1d8 + 3 damage, and retreats or cowers at 10 HP. It has no grapple or breath weapon. The lens remains AC 13, HP 12, with a full response window between preparation and transmission. Once the warning is prevented and the defenders are clearly outmatched, finish without a cleanup fight. No survivors reinforce E06. Preventing the alarm earns an open doorway and an extra round at the barricade; E06 carries the route's main combat difficulty.
 
 The barricade has three upright assemblies on tracks: a barred grille, a solid armored plate, and a locking frame. Gears, clutches, a reversing mechanism, and a switch to a maintenance siding provide physical ways to interfere. Two strong pullers supply the force; the director operates levers. They stand on the tunnel side of the barrier. Three kobold guards hold the outer chamber and retreat through a small hinged wicket in the grille before the plate covers it. A kobold spellcaster and a fire/acid bombardier attack from behind the grille. There is no independent bypass hatch.
 
@@ -249,7 +251,7 @@ These statuses must not be merged:
 | Crooked estate road and distant expulsion of lair fragments in different directions | Adopted landmarks; exact expulsion phenomenon open. |
 | Brief reconnaissance with three entrance leads and a hidden living kobold | Adopted flow; concrete checks, predator, and NPC identity open. |
 | Moving woodland lookout, Air Elemental statistics, and root-tether procedure | Earlier unadopted brainstorming; not part of the chosen river opening. |
-| Actual creature statistics, detailed encounter mechanics, or room inventory | E06 has a selected machinery/crew design and provisional running statistics. Other unchosen details remain open; do not infer them from examples. |
+| Actual creature statistics, detailed encounter mechanics, or room inventory | E05 has a selected light watchpost; E06 has a selected machinery/crew design. Running statistics remain provisional. Other unchosen details remain open; do not infer them from examples. |
 
 The general wish for elementals and other dangers in the landscape remains. It does not revive the rejected particular elemental proposal. The user specifically corrected the notes on this point.
 
@@ -279,7 +281,7 @@ After reading the packet and the live skill:
 2. If the original next game has happened, establish which material was played and what changed.
 3. Continue construction from the adopted river → landmarks → optional brief scouting → entrance-choice flow. Finish the crossing's solid-air geometry and charging creature, the three reconnaissance findings, and the optional kobold rescue. Do not restart with generic outside alternatives. No useful tribute cache and no revived stair-maintaining elemental.
 4. Finish the formal keeper's play details: cues, gifts, binding, cooperation, and physical alternatives.
-5. Use the selected steel-barricade encounter in [[VBL E06 - Save the Passage]]; select the watchpost variant and refine remaining details without reviving the superseded jaws or poured-stone mechanisms.
+5. Use the selected light watchpost in [[VBL E05 - Krauzeth's Watchpost]] and steel barricade in [[VBL E06 - Save the Passage]]. Refine remaining details without reviving the superseded runner/kiln beast, tougher hound, jaws, or poured-stone mechanisms.
 6. Finish the environmental chamber's actual hazards and readable rules.
 7. Finish the discovery's physical presentation and transition.
 8. Begin a guest-room map and a few room contents. Keep the main route short enough to bypass optional material when needed.

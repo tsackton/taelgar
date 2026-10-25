@@ -4,7 +4,7 @@ tags: [meta, status/check/ai]
 
 # Vraedhul's Broken Lair — Variant Choices
 
-E03 and E06 have selected versions; choose one version where alternatives remain. Linked notes contain read-aloud text, running rules, and stats. The opening was revised on 2026-10-25; E01 is a flyover and E07 is unused.
+E03, E05, and E06 have selected versions; choose one version where alternatives remain. Linked notes contain read-aloud text, running rules, and stats. The opening was revised on 2026-10-25; E01 is a flyover and E07 is unused.
 
 **River:** [[VBL E01 - River of Solid Air|flyover and observation]]; the folded current and ground-crossing mechanics remain fallback material.
 
@@ -15,7 +15,7 @@ E03 and E06 have selected versions; choose one version where alternatives remain
 | Encounter | A | B |
 | --- | --- | --- |
 | [[VBL E04 - The Arborean Gatekeeper|Formal entrance]] | **Maker in the bronze dragon:** gold collars bind a living maker to the gate. | **Orchard of gold:** wire cages bind living growth into useful shapes. |
-| [[VBL E05 - Krauzeth's Watchpost|Watchpost]] | **Signal lens and glass hound:** block the beam before transmission. | **Runner and kiln beast:** stop the keyed bell. |
+| [[VBL E05 - Krauzeth's Watchpost|Watchpost]] | **Selected: light signal-lens post.** Handler and signaler (10 HP each), glass-skull hound (32 HP); stop the warning with little attrition. | Runner/kiln-beast alternative and tougher hound superseded. |
 | [[VBL E06 - Save the Passage|Passage]] | **Selected: steel barricade.** Two pullers, director, three guards, spellcaster, and fire/acid bombardier; grille → plate → locking frame. | Earlier jaws and poured-stone proposals superseded. |
 | [[VBL E08 - The Death View|Death view]] | **Skull in the wound:** remains amid the broken workshops. | **Spine across workshops:** suspended bones repeatedly change. |
 | [[VBL G01 - The Generous Table|Generous table]] | **Excessive hospitality:** end the service; take the platform-making cloth. | **Borrowed senses:** inspect altered materials; take the distant-tasting cup. |
