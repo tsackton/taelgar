@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature, status/check/mike]
+tags: [creature, status/check/mike, status/check/ai]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven, elvish]
 dm_owner: joint
@@ -12,6 +12,10 @@ POV: modern
 
 >[!quote] Memories of the First, Elven Oral Tradition
 >*In the dark and the void we awoke, our eyes opened to the stars above, and there was color and light and song in the world for the first time. Behold! For we are alive!*
+
+> [!image|hero]
+> ![[elves-bridge-above-the-mists.webp]]
+> *A living bridge arcs above the forest mists.*
 
 Elves are an ancient people whose lives are entwined with magic, the living world, and their two gods, [[Aldanor]], the Living Tree, and [[Elmerca]], the Wild Star. In their forest homelands, they weave towers and palaces from living wood, cultivate gardens of extraordinary beauty, and preserve songs and stories across centuries. Their long lives follow a shared cycle of generations, drawing them outward into the world and home again, in a cycle known as the [[Elven Cycle of Generations|ka]]. Though they are known across the world from songs and legends, few elves settle among other species: for many people of Taelgar an encounter with an elf is a rare and memorable event.
 ## Appearance
@@ -84,11 +88,19 @@ I removed this as it feels unestablished but can add it back: Body parents nurtu
 
 Elven communities, sustained by magic, are realms of material abundance: elves do not want for food, shelter, or the basic necessities of a good life. The magic of [[Elmerca]] allows elves to grow what they need: elven communities have gardens that grow everything from daily staples to exotic spices and even precious metals. Against this backdrop of material abundance, what elves value and prize is beauty, art, and creativity, which, in elven society, can mean many things. The ways in which elven communities treat material goods, status, and art are often surprising and unexpected to shorter-lived species, shaped by the unusual elven experience of time and abundance.
 
+> [!image|figure standard]
+> ![[elves-gold-bearing-garden.webp]]
+> *Gold grows among the leaves of an elven garden.*
+
 %% @Mike: there is a lot of brainstorming about this but ultimately felt the key thing to communicate in a player doc is the combination of material abundance and just a non-human approach to status and creativity, leaving room for diverse elves and diverse elven cultures/subcultures if desired %%
 
 ### Elves and Other Peoples
 
 Elven myth claims they were the first species to awaken in the world, and many elves see themselves as its caretakers. Their long perspective can bring patience, generosity, and a willingness to protect others, but also a tendency to dismiss the judgment of shorter-lived peoples. Some elves appear aloof or condescending; others devote themselves to friendships and responsibilities beyond their own communities.
+
+> [!image|figure standard]
+> ![[elves-market-encounter.webp]]
+> *An elven traveler draws curious glances at a human market.*
 
 Elves often prefer to wait and watch rather than act hastily. When they believe the balance of the world is threatened, however, they can commit themselves fully to its defense. Since the devastation of the Great War, the choice between withdrawal and engagement has become especially fraught, as the deaths at the hands of Cha'mutte's armies and the destruction of many elven realms have diminished the species and left many elves looking inward.
 
