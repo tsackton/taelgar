@@ -122,7 +122,7 @@ Seeker: Yeah no.
 Unknown: No definitely.
 
 %% u0063-u0064 %%
-Wellby: Definitely. This is sort of thing, and [[no one's]]...
+Wellby: Definitely. This is sort of thing, and {{no one's}}...
 
 %% u0065 %%
 Kenzo: Looking at the map, where Delwath emerged from.
@@ -245,7 +245,7 @@ Wellby: Kenzo, growing up streetwise in Chardon, is much more attuned to all tha
 DM: But let's say Candrosa has finished the story of the Old Woman of the Dusts, and Alesh has pretty much wrapped up her scouting report. Candrosa turns to you and says, "So, what news do you bring of the north? What did you find there?"
 
 %% u0132-u0134 %%
-Kenzo: Actually, sorry, can we roll back? I know we did this, but can Candrosa say once more about the mother? You guys were kind of sleeping... [[once beat one]]. I think we should actually have—this is a major plot point, I think we should...
+Kenzo: Actually, sorry, can we roll back? I know we did this, but can Candrosa say once more about the mother? You guys were kind of sleeping... {{once beat one}}. I think we should actually have—this is a major plot point, I think we should...
 
 %% u0135-u0137 %%
 DM: Wake up. It's all about... Okay, so, yeah.
@@ -341,7 +341,7 @@ Delwath: How long have stories of her been told?
 DM: Many, many years.
 
 %% u0220-u0222 %%
-Delwath: [[Some the shield]]... In your childhood? Has she always been there, and always been old?
+Delwath: {{Some the shield}}... In your childhood? Has she always been there, and always been old?
 
 %% u0223-u0233 %%
 DM: She's not always been there. She... And he stops for a moment. "I don't think I'm revealing any great secrets if I tell you that the Mystai of Shakun have been here in Karawa since before the Great War—some time before the Great War, in fact. As far as the stories and tales and records of our order say, there are no reports, there are no rumors, there is no mention at all of her in any oral or written histories from before the war."
@@ -425,7 +425,7 @@ Wellby: She's in the green dot on the map.
 DM: This is where people say...
 
 %% u0295 %%
-Delwath: The green dot, [[of the darkness]], the...
+Delwath: The green dot, {{of the darkness}}, the...
 
 %% u0296 %%
 DM: Green dot, yeah.
@@ -479,7 +479,7 @@ Delwath: It certainly seemed like they had pens of hyenas and a pile of dead bod
 Kenzo: Wasn't the only strange thing that we saw there. Have you engaged with doppelgangers before? They can change their shape, their...
 
 %% u0340-u0341 %%
-Delwath: [[Printer, out of the room]]... Were they more like were-creatures, turning from jackals? I thought they were jackalweres for some reason.
+Delwath: {{Printer, out of the room}}... Were they more like were-creatures, turning from jackals? I thought they were jackalweres for some reason.
 
 %% u0342 %%
 DM: They were.
@@ -554,7 +554,7 @@ Seeker: Another shape changer.
 Kenzo: So.
 
 %% u0370 %%
-Seeker: [[So we snark]].
+Seeker: {{So we snark}}.
 
 %% u0371 %%
 Delwath: I mean back in character.
@@ -578,7 +578,7 @@ Seeker: We have no idea why the orc and the jackals...
 Kenzo: Exactly, exactly, so...
 
 %% u0392 %%
-DM: Make sure the ritual happened [[with all that full]], but...
+DM: Make sure the ritual happened {{with all that full}}, but...
 
 %% u0393 %%
 Kenzo: No, but they were also looking for items, right? Because that's why they captured Vola.
@@ -587,7 +587,7 @@ Kenzo: No, but they were also looking for items, right? Because that's why they 
 DM: Because they were trying to get her to give them information about what she and other...
 
 %% u0395 %%
-Unknown: [[She had fact]].
+Unknown: {{She had fact}}.
 
 %% u0396-u0401 %%
 Kenzo: They were also looking for items, and they seem to be in service or in some type of parlay with Agata Dustmother, right? So, okay, back in character. "And so, Candrosa, Agata Dustmother feels like a central character in this somehow, that there may be some type of agreement already. The Chardonian was caught up in this because they were looking for items, as the Chardonians do." Kenzo kind of glances at Wellby. "So the nature of Agata Dustmother feels important to this somehow. The other strange thing that we were not able to uncover was the relationship between Agata and the shapeshifters, and then the gnolls and the demon. Are they a faction together? They didn't seem in conflict."
@@ -635,7 +635,7 @@ DM: Sorry, yes. It was inside Shakun's boundaries.
 Wellby: I think we should go talk to the Old Woman of the Dusts, and if the past track record holds, we should go rescue the Chardonian she's captured.
 
 %% u0437 %%
-Seeker: [[Every day remains]].
+Seeker: {{Every day remains}}.
 
 %% u0438-u0439 %%
 Kenzo: Candrosa, with demons, what have you heard? Have you heard of anything like this, some of these rituals? What can you tell us?

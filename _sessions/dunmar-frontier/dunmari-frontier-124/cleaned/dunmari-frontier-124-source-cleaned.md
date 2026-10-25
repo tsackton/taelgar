@@ -81,7 +81,7 @@
 [u0081 | 00:06:28.620-00:06:32.680 | DM] and the rest of the crew, Kethra, the dwarven Smith.
 [u0082 | 00:06:33.020-00:06:41.819 | DM] Nuzkar, and Aygul the Orc twin sisters Jotha, the Deno'qai warrior
 [u0083 | 00:06:42.010-00:06:47.930 | DM] who helps maintain Delwath's tanshi shrines on the ship
-[u0084 | 00:06:48.933-00:06:59.170 | DM] the halflings, Mica and Willow Copperharp, who joined you, as crew of Milo Thistlefoot, and [[Ellie]].
+[u0084 | 00:06:48.933-00:06:59.170 | DM] the halflings, Mica and Willow Copperharp, who joined you, as crew of Milo Thistlefoot, and {{Ellie}}.
 [u0085 | 00:07:02.360-00:07:05.829 | DM] who themselves now are sailing somewhere
 [u0086 | 00:07:06.910-00:07:13.799 | DM] in a strange land, and you have a magic eye implanted in their back that you can check on them whenever you feel like it.
 [u0087 | 00:07:20.000-00:07:25.540 | DM] The ship itself is parked, maybe only 25–30 feet above the house.
@@ -127,7 +127,7 @@
 [u0127 | 00:12:07.080-00:12:17.520 | Delwath] white and tucked around his his clothes. He has a tendency to wear, you know, a nice cloak with it, and is often carrying his his shield with the 2 lynxes on it.
 [u0128 | 00:12:18.000-00:12:27.649 | Delwath] but never a sword unless we're about to fight. You know, he's arriving at.
 [u0129 | 00:12:30.140-00:12:33.110 | Delwath] This is Pava. This is, this is like his.
-[u0130 | 00:12:34.810-00:12:44.440 | Delwath] There's actually a sort of sense of a circle completing right like this is the 1st place he was after he fell from [[Shabbat's]] kingdom right or.
+[u0130 | 00:12:34.810-00:12:44.440 | Delwath] There's actually a sort of sense of a circle completing right like this is the 1st place he was after he fell from {{Shabbat's}} kingdom right or.
 [u0131 | 00:12:44.440-00:12:44.840 | DM] Yep.
 [u0132 | 00:12:44.840-00:12:50.489 | Delwath] The Shadow Realm, and and the last time
 [u0133 | 00:12:52.180-00:13:02.469 | Delwath] he we were here he didn't really remember it. It's not that he remembers it better necessarily, but it's it's like just more confident and cheerful and talking to
@@ -201,7 +201,7 @@
 [u0201 | 00:21:18.380-00:21:20.570 | Delwath] Doesn't Seeker. Also have 9th level spells.
 [u0202 | 00:21:20.570-00:21:22.749 | DM] That's true. Seeker also has ninth.
 [u0203 | 00:21:24.090-00:21:25.680 | Kenzo] Does, does Delwath, not have ninth?
-[u0204 | 00:21:26.290-00:21:28.340 | DM] [[Now I've done them]].
+[u0204 | 00:21:26.290-00:21:28.340 | DM] {{Now I've done them}}.
 [u0205 | 00:21:34.290-00:21:39.430 | DM] Alright! You don't have to pick ninth-level spells. Now you can do that at some much later date.
 [u0206 | 00:21:39.790-00:21:41.140 | Seeker] Okay, that sounds good.
 [u0207 | 00:21:41.500-00:21:44.749 | DM] Because you can pick any 9th level spell in the entire game.
@@ -264,7 +264,7 @@
 [u0264 | 00:25:39.810-00:25:42.570 | DM] Gnaeus, the guy who infiltrated the
 [u0265 | 00:25:42.710-00:25:46.739 | DM] the like historian who wrote the book that got you to the.
 [u0266 | 00:25:46.740-00:25:47.560 | Delwath] Right.
-[u0267 | 00:25:48.050-00:25:56.159 | DM] [[For us]] like you don't. The only person you know for sure has fled.
+[u0267 | 00:25:48.050-00:25:56.159 | DM] {{For us}} like you don't. The only person you know for sure has fled.
 [u0268 | 00:25:56.280-00:25:57.833 | DM] Chardon is
 [u0269 | 00:25:59.790-00:26:05.950 | DM] It is Kaeso, Kenzo's mentor, and the
 [u0270 | 00:26:06.740-00:26:11.309 | DM] Dee Wildcloak, the halfling adventurer who ran from the
@@ -281,7 +281,7 @@
 [u0281 | 00:27:21.770-00:27:24.090 | DM] So you get Sura as she.
 [u0282 | 00:27:25.580-00:27:26.810 | DM] Yes.
 [u0283 | 00:27:29.702-00:27:38.440 | Kenzo] Sura, it's it's Kenzo we are back on this plane
-[u0284 | 00:27:38.610-00:27:46.310 | Kenzo] after after being gone for a little bit, but just calling to [[heard]].
+[u0284 | 00:27:38.610-00:27:46.310 | Kenzo] after after being gone for a little bit, but just calling to {{heard}}.
 [u0285 | 00:27:46.490-00:27:49.859 | Kenzo] Wanted to see how things are going with you, and how
 [u0286 | 00:27:50.568-00:27:57.459 | Kenzo] how things are playing out in Dunmar, and if you had any engagement with Chardon or any Chardon related entities recently.
 [u0287 | 00:28:01.330-00:28:08.300 | DM] I, so much has happened. I don't remember the last news you had.
@@ -431,7 +431,7 @@
 [u0431 | 00:41:43.220-00:41:49.250 | Wellby] Well. Wellby puts his hand over the phone for just a sec. She's definitely escaped by now, right.
 [u0432 | 00:41:49.250-00:41:52.080 | Kenzo] I'm sure she's totally not in captivity.
 [u0433 | 00:41:52.482-00:41:53.690 | Delwath] She hasn't just.
-[u0434 | 00:41:54.070-00:41:56.180 | Delwath] There's no [[trows off]].
+[u0434 | 00:41:54.070-00:41:56.180 | Delwath] There's no {{trows off}}.
 [u0435 | 00:41:56.340-00:41:59.320 | Kenzo] I'm sure it's I'm sure that situation is totally under control.
 [u0436 | 00:42:00.810-00:42:05.559 | Delwath] Hey? Just remind me didn't the Cloudspinner leave us with a way to contact her.
 [u0437 | 00:42:05.560-00:42:09.850 | DM] The Cloudspinner gave Wellby a hat that functions as a.
@@ -478,7 +478,7 @@
 [u0478 | 00:45:56.870-00:45:59.300 | DM] I mean you stayed with Kaeso.
 [u0479 | 00:45:59.300-00:45:59.990 | Kenzo] Yeah.
 [u0480 | 00:46:00.628-00:46:02.920 | DM] But he's since fled, Chardon.
-[u0481 | 00:46:02.920-00:46:05.160 | DM] He has fled, [[but I for now]].
+[u0481 | 00:46:02.920-00:46:05.160 | DM] He has fled, {{but I for now}}.
 [u0482 | 00:46:05.160-00:46:16.349 | Kenzo] I'm forgetting. But I'm assuming that, like Kenzo when he was there, you know, he's got a small, small kind of but you know, loyal network of like a few people that he knows that. Still, he's still in touch with.
 [u0483 | 00:46:16.640-00:46:20.469 | DM] Yeah, I mean, you know, Kenzo grew up there. He was
 [u0484 | 00:46:20.840-00:46:25.710 | DM] certainly like he grew up on the streets in the like, bad neighborhood and
@@ -781,7 +781,7 @@
 [u0781 | 01:12:43.480-01:12:50.790 | DM] There's some new group that sprouted up in Chardon that you heard about from Riswynn via the Crown. That's like rioting against chalyte factories.
 [u0782 | 01:12:51.030-01:12:55.849 | Kenzo] Yeah. Well, what's tell me more about them? I've heard a little bit what's going on with the Eightfold Flame.
 [u0783 | 01:12:56.230-01:13:03.360 | DM] It was the strangest thing, maybe 3 weeks ago, something like that.
-[u0784 | 01:13:04.020-01:13:19.539 | DM] A bunch of bureaucrats in the chalyte trade published manifesto, [[raking the stone]], accusing the
+[u0784 | 01:13:04.020-01:13:19.539 | DM] A bunch of bureaucrats in the chalyte trade published manifesto, {{raking the stone}}, accusing the
 [u0785 | 01:13:20.770-01:13:26.660 | DM] merchants in the Hetaeri Magica, who control the trade of all sorts of things like
 [u0786 | 01:13:27.160-01:13:32.320 | DM] they knew how dangerous it was, and they didn't care, and it was.
 [u0787 | 01:13:35.370-01:13:38.149 | DM] I don't know what happened there, man, I mean.
@@ -819,7 +819,7 @@
 [u0819 | 01:15:43.360-01:15:48.129 | Kenzo] And you know I'm not one to shy from a fight. So hey, I started punching, too.
 [u0820 | 01:15:51.990-01:15:53.840 | Kenzo] and that was a week ago. What's going on now?
 [u0821 | 01:15:56.110-01:15:58.260 | DM] For a minute. There we
-[u0822 | 01:16:01.100-01:16:06.640 | DM] managed to control the whole north bank of the [[Chaucan]] more or less.
+[u0822 | 01:16:01.100-01:16:06.640 | DM] managed to control the whole north bank of the {{Chaucan}} more or less.
 [u0823 | 01:16:08.360-01:16:15.599 | DM] I mean, the factories are all beaten to shreds now nobody could stop that.
 [u0824 | 01:16:15.760-01:16:24.560 | DM] Fires broke out pretty toxic there for a little bit since.
 [u0825 | 01:16:31.171-01:16:35.050 | DM] since the magistros returned a few days ago, and
@@ -870,7 +870,7 @@
 [u0870 | 01:19:56.220-01:19:58.309 | Kenzo] Oh, so I'm still an enemy of the State.
 [u0871 | 01:19:59.410-01:20:01.090 | Wellby] Still work to your advantage.
 [u0872 | 01:20:03.270-01:20:05.980 | DM] I I don't know what to tell you, man. I
-[u0873 | 01:20:06.370-01:20:14.480 | DM] when when rumors were going around that you destroyed the [[Kylos market]] with a portal to pandemonium. I was a bit
+[u0873 | 01:20:06.370-01:20:14.480 | DM] when when rumors were going around that you destroyed the {{Kylos market}} with a portal to pandemonium. I was a bit
 [u0874 | 01:20:14.830-01:20:16.060 | DM] surprised.
 [u0875 | 01:20:16.060-01:20:18.540 | Kenzo] Oh, that wasn't me. Yeah, just so, you know, that totally wasn't me.
 [u0876 | 01:20:18.540-01:20:24.140 | DM] Yeah, there was other rumors that it was all a scam, but I mean, believe those that this is.
@@ -951,7 +951,7 @@
 [u0951 | 01:25:33.370-01:25:40.290 | DM] big chalyte gems to make powder and stuff and ingredients for magic items, and the
 [u0952 | 01:25:41.700-01:25:54.810 | DM] so the legions have sort of begun to infiltrate some parts of this northern neighborhood. The north bank, where Kenzo grew up. But there's plenty of sort of pockets of that neighborhood that are.
 [u0953 | 01:25:54.940-01:25:55.670 | Kenzo] Okay.
-[u0954 | 01:25:55.670-01:25:58.560 | DM] Under that are completely not under [[improvement]].
+[u0954 | 01:25:55.670-01:25:58.560 | DM] Under that are completely not under {{improvement}}.
 [u0955 | 01:25:58.560-01:26:07.429 | Kenzo] Kenzo basically names like a few spots, you know, that is that spot still, is that like, are any of these spots still safe? But he kind of names a few that that you know him and Xavier both know.
 [u0956 | 01:26:07.980-01:26:11.379 | DM] Yeah, that's that's good.
 [u0957 | 01:26:11.900-01:26:16.489 | Kenzo] Perfect. So look! Are you still at names an address.
@@ -1007,7 +1007,7 @@
 [u1007 | 01:30:06.720-01:30:09.649 | DM] the sort of elite Mage guard
 [u1008 | 01:30:10.500-01:30:17.290 | DM] which is a group of maybe 20 or so powerful wizards who served the Emperor.
 [u1009 | 01:30:17.740-01:30:23.800 | DM] Whoever commands their loyalty is functionally the Emperor, because they can destroy anybody else in the city.
-[u1010 | 01:30:24.060-01:30:27.929 | Kenzo] So. Okay. So those are the people that we need to [[take up when]] win over on our side.
+[u1010 | 01:30:24.060-01:30:27.929 | Kenzo] So. Okay. So those are the people that we need to {{take up when}} win over on our side.
 [u1011 | 01:30:29.400-01:30:32.310 | DM] And then you don't know how like.
 [u1012 | 01:30:33.110-01:30:42.249 | DM] Kenzo was already gone from Chardon when Seva Auratan died, and Mitus Auratan became the magistros.
 [u1013 | 01:30:42.480-01:30:52.469 | DM] That that's not like you don't know any of the backstory there, really, and it's not like Kenzo was paying attention. But you definitely would have heard stories about Mitus.
@@ -1057,7 +1057,7 @@
 [u1057 | 01:35:54.440-01:36:00.890 | Riswynn] Did we start provisioning for like standard travel without a
 [u1058 | 01:36:01.630-01:36:06.520 | Riswynn] airship or teleportation, and plan to get going where we're going.
 [u1059 | 01:36:07.970-01:36:08.610 | DM] Yeah.
-[u1060 | 01:36:13.570-01:36:17.670 | Riswynn] Or we could wait around and see [[if wants]] to just drop us off.
+[u1060 | 01:36:13.570-01:36:17.670 | Riswynn] Or we could wait around and see {{if wants}} to just drop us off.
 [u1061 | 01:36:17.890-01:36:18.849 | Riswynn] I don't know.
 [u1062 | 01:36:19.350-01:36:23.230 | Riswynn] I was asking about whether there were any of these threads we wanted to pursue
 [u1063 | 01:36:23.420-01:36:27.110 | Riswynn] as we traveled by foot, but if not.
@@ -1072,7 +1072,7 @@
 [u1072 | 01:37:09.800-01:37:12.120 | Riswynn] Never mind walking or airships.
 [u1073 | 01:37:13.180-01:37:15.679 | Delwath] Yep, teleport's always the best way to go.
 [u1074 | 01:37:17.150-01:37:18.430 | Riswynn] Oh, yeah.
-[u1075 | 01:37:18.680-01:37:23.790 | Delwath] Teleport [[isn't something some sort of successful]] teleport right Word of Recall.
+[u1075 | 01:37:18.680-01:37:23.790 | Delwath] Teleport {{isn't something some sort of successful}} teleport right Word of Recall.
 [u1076 | 01:37:27.060-01:37:35.290 | Riswynn] I'm not, you know. We only have one gifted teleport expert in the party, and the other dwarf.
 [u1077 | 01:37:36.070-01:37:36.660 | Delwath] Yes.
 [u1078 | 01:37:38.010-01:37:44.540 | DM] So. You know you had your party day. You got some information
@@ -1427,7 +1427,7 @@
 [u1427 | 02:02:29.580-02:02:30.330 | Delwath] Right.
 [u1428 | 02:02:33.760-02:02:37.730 | DM] Right. You have the archive. You have the training hall. You have.
 [u1429 | 02:02:40.780-02:02:45.040 | DM] Right? Yeah, Seeker's got an observatory.
-[u1430 | 02:02:52.210-02:02:58.819 | DM] You have [[Mediterranean]] and Meditation Chamber.
+[u1430 | 02:02:52.210-02:02:58.819 | DM] You have {{Mediterranean}} and Meditation Chamber.
 [u1431 | 02:03:00.626-02:03:06.949 | DM] These. I need to update these now that the rules are officially published, but I think they're mostly the same.
 [u1432 | 02:03:06.950-02:03:07.930 | Delwath] Yeah.
 [u1433 | 02:03:13.410-02:03:14.270 | Delwath] No.
@@ -1624,7 +1624,7 @@
 [u1624 | 02:21:16.380-02:21:17.560 | DM] I don't know her.
 [u1625 | 02:21:20.870-02:21:24.669 | Delwath] Her page on Taelgarverse. Says she's particularly friendly with Marcella.
 [u1626 | 02:21:25.180-02:21:32.149 | Delwath] Yeah, that's why I mentioned her. I assumed we knew that because it's on her page on Taelgarverse.
-[u1627 | 02:21:40.120-02:21:44.220 | DM] Oh, hey, yeah, okay. So maybe she [[didn't know]]. Marcella.
+[u1627 | 02:21:40.120-02:21:44.220 | DM] Oh, hey, yeah, okay. So maybe she {{didn't know}}. Marcella.
 [u1628 | 02:21:45.040-02:21:46.900 | DM] I'm just trying to use the notes here.
 [u1629 | 02:21:46.900-02:21:49.330 | DM] Yeah, no, no. I should have checked my notes, too.
 [u1630 | 02:21:49.330-02:21:49.860 | Delwath] Okay.
@@ -1709,7 +1709,7 @@
 [u1709 | 02:29:31.420-02:29:38.228 | DM] you know neither of them are that strong. They're like, you know, mid low, level warriors.
 [u1710 | 02:29:39.890-02:29:42.270 | DM] is grateful and relieved.
 [u1711 | 02:29:42.810-02:29:49.810 | DM] His twin brother Vargus is a bit confused, especially because he never
-[u1712 | 02:29:50.080-02:29:58.980 | DM] like he doesn't remember ever meeting you. You never met him before, [[he went right on]], possessed but
+[u1712 | 02:29:50.080-02:29:58.980 | DM] like he doesn't remember ever meeting you. You never met him before, {{he went right on}}, possessed but
 [u1713 | 02:29:59.680-02:30:06.889 | DM] like is sort of leaning on his brother a little bit, and just kind of looking to him to gauge how he should respond, and
 [u1714 | 02:30:07.050-02:30:08.579 | DM] when his brother is
 [u1715 | 02:30:08.890-02:30:15.759 | DM] like, seems happy and pleased and not scared. He sort of reacts in the same way.
@@ -1757,7 +1757,7 @@
 [u1757 | 02:34:36.190-02:34:43.629 | Delwath] enjoy our hospitality for the evening. We'll talk again. You'll find Vola in the dining area
 [u1758 | 02:34:43.800-02:34:53.010 | Delwath] if you wish to speak with another who went through your who was possessed by Fausto.
 [u1759 | 02:34:54.150-02:34:57.329 | DM] He looks over at Vargus, who sort of shakes his head at.
-[u1760 | 02:34:58.240-02:35:01.920 | DM] We've been talking [[Inc.]]
+[u1760 | 02:34:58.240-02:35:01.920 | DM] We've been talking {{Inc.}}
 [u1761 | 02:35:03.530-02:35:07.149 | DM] I think we just want to put this behind us as quickly as possible.
 [u1762 | 02:35:08.150-02:35:08.760 | Delwath] Of course.
 [u1763 | 02:35:09.000-02:35:19.279 | DM] Maybe go find a nice little inn somewhere where that needs a bartender and a kitchen staff, or something.
@@ -1869,7 +1869,7 @@
 [u1869 | 02:44:47.820-02:44:52.370 | DM] I mean Agon he he saved me from.
 [u1870 | 02:44:52.800-02:44:53.770 | Kenzo] Who's Agon?
 [u1871 | 02:44:53.770-02:44:55.989 | DM] Agon was like her mentor, who
-[u1872 | 02:44:56.670-02:45:02.080 | DM] was turned out to be [[one of the cleansed]] and like, brought her to Fausto to be possessed.
+[u1872 | 02:44:56.670-02:45:02.080 | DM] was turned out to be {{one of the cleansed}} and like, brought her to Fausto to be possessed.
 [u1873 | 02:45:02.080-02:45:06.879 | Kenzo] Oh, shit, fuck! Oh, that's fucked up. Okay, sorry. Go on.
 [u1874 | 02:45:11.410-02:45:16.019 | DM] I spent years looking up to him, and he always
 [u1875 | 02:45:17.280-02:45:21.689 | DM] told me, like, you know, we're doing good here the society is, gonna
@@ -1878,10 +1878,10 @@
 [u1878 | 02:45:31.860-02:45:35.770 | DM] And he was the bad thing I mean, come on, what would you do with that.
 [u1879 | 02:45:36.380-02:45:38.949 | Kenzo] Where's Agon? Is he still alive?
 [u1880 | 02:45:39.150-02:45:39.969 | DM] I don't know.
-[u1881 | 02:45:41.120-02:45:44.460 | Delwath] But if he, [[this client]], cool.
-[u1882 | 02:45:44.790-02:45:47.979 | DM] No, no, he was, he was [[not cleansed himself]]. He was.
+[u1881 | 02:45:41.120-02:45:44.460 | Delwath] But if he, {{this client}}, cool.
+[u1882 | 02:45:44.790-02:45:47.979 | DM] No, no, he was, he was {{not cleansed himself}}. He was.
 [u1883 | 02:45:47.980-02:45:49.050 | Delwath] Ow! He was.
-[u1884 | 02:45:49.050-02:45:49.719 | DM] [[Clan]]. Yeah.
+[u1884 | 02:45:49.050-02:45:49.719 | DM] {{Clan}}. Yeah.
 [u1885 | 02:45:49.720-02:45:51.260 | Delwath] Yay!
 [u1886 | 02:45:53.350-02:45:57.449 | DM] I can't remember anything for what? What day is it today?
 [u1887 | 02:45:57.450-02:45:58.440 | Kenzo] Say the date.
@@ -2011,7 +2011,7 @@
 [u2011 | 02:56:38.290-02:56:42.707 | Delwath] Oh, well, yeah, there's that I didn't. I didn't think of that.
 [u2012 | 02:56:42.960-02:56:43.970 | Kenzo] It's a little secret.
 [u2013 | 02:56:44.840-02:56:46.130 | Delwath] Yay!
-[u2014 | 02:56:46.730-02:56:48.289 | Wellby] Fly on the wyvern, [[Detroit]].
+[u2014 | 02:56:46.730-02:56:48.289 | Wellby] Fly on the wyvern, {{Detroit}}.
 [u2015 | 02:56:48.560-02:56:57.419 | Delwath] But I was just gonna say, what about the idea of landing landing like
 [u2016 | 02:56:58.470-02:57:00.759 | Delwath] a hundred miles away, or whatever?
 [u2017 | 02:57:01.040-02:57:01.820 | Delwath] And.

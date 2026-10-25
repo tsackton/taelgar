@@ -251,7 +251,7 @@ DM: What kind of magic?
 Sculpit: There's kinds of magic?
 
 %% u1180-u1181 %%
-DM: I said, what kind of magic would… I've never heard of—I mean, I'm kind of the old wise shaman guy here, and I don't know of any magic that would create a giant egg and put it in the [[wall]].
+DM: I said, what kind of magic would… I've never heard of—I mean, I'm kind of the old wise shaman guy here, and I don't know of any magic that would create a giant egg and put it in the {{wall}}.
 
 %% u1182 %%
 Heska: Oh, well, it's easy to create a giant egg. Oh, you mean a real giant egg?
@@ -281,7 +281,7 @@ Heska: No.
 Zeno: I don't think so, no.
 
 %% u1191 %%
-Little Tony: [[Was it simple?]]
+Little Tony: {{Was it simple?}}
 
 %% u1192-u1193 %%
 Zeno: Glowed, though.
@@ -590,7 +590,7 @@ Sculpit: It was only, like, 20% non-sarcastic in that sentence. But they really 
 DM: The shaman, Oru, kind of looks over at Sculpit and is like, "Sculpit. You have a gift. Them? They like gifts. We all like gifts. We all love gifts."
 
 %% u1343 %%
-Heska: [[No, we haven't, Jeff.]]
+Heska: {{No, we haven't, Jeff.}}
 
 %% u1344 %%
 Sculpit: Oh.
@@ -599,7 +599,7 @@ Sculpit: Oh.
 DM: I love gifts. And you have one. And I do love restaurants, I will say that. I love restaurants. So I'm super happy, after we finish the other conversation about the island waking up and all the weird… because, like, let's… And as you're all still continuing in this whole back-and-forth…
 
 %% u1349-u1354 %%
-DM: More dragonets burst into the room. And one of them you recognize is Roska. [[Except Rob.]] He's actually still wearing his same festival garb. And they all come in, and then they say, "The Wanderer's eye. It's open again. We should go check it out."
+DM: More dragonets burst into the room. And one of them you recognize is Roska. {{Except Rob.}} He's actually still wearing his same festival garb. And they all come in, and then they say, "The Wanderer's eye. It's open again. We should go check it out."
 
 %% u1355-u1356 %%
 Sculpit: Yeah, probably. What color?
@@ -770,7 +770,7 @@ DM: Well, Tony, as you get closer, within 20 feet—the iris of the eye basicall
 Little Tony: Yo, let's go!
 
 %% u1455 %%
-Zeno: [[Goldust.]]
+Zeno: {{Goldust.}}
 
 %% u1456 %%
 Little Tony: Go!
@@ -791,7 +791,7 @@ Heska: Yeah, I'm flying in.
 DM: Okay, all right.
 
 %% u1464 %%
-Zeno: [[Zoom is. Zoom is.]]
+Zeno: {{Zoom is. Zoom is.}}
 
 %% u1465 %%
 DM: But just—so, Tony, do you rush to the opening of the eye?
@@ -878,7 +878,7 @@ Zeno: Yeah.
 DM: Okay, you notice Roska also. So, just for a little context, Roska is one of the best fighters on the island as well. He's a ripped, buff fighter guy. He's also part of this group and has also been flying with you guys, along with the shaman. So the three that are flying into the iris of the eye, make an Acrobatics check, each of you.
 
 %% u1501-u1502 %%
-Sculpit: I'll be right back, guys, sorry. [[Especially if they're dealing with stuff.]]
+Sculpit: I'll be right back, guys, sorry. {{Especially if they're dealing with stuff.}}
 
 %% u1503 %%
 Heska: 24.
@@ -902,7 +902,7 @@ Little Tony: I mean, I try real hard.
 Zeno: Oh, oh, oh! I have my thing that I can do.
 
 %% u1512 %%
-DM: [[Curse.]]
+DM: {{Curse.}}
 
 %% u1513 %%
 Heska: Wow.

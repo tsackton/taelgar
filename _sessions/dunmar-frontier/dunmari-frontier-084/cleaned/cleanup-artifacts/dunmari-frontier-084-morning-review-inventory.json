@@ -1,0 +1,2707 @@
+{
+  "schemaVersion": 1,
+  "session": 84,
+  "preparedSourcePath": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-source-prepared.md",
+  "preparedSourceSha256": "72924f31758ec22dafcb76c6e86bb9b71681dd983d0a3ece73e8c8a429f65919",
+  "cleanedTranscriptPath": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-source-cleaned.md",
+  "transcriptSha256": "6f1628dcb06e01e1fe7f9f45208e2e6c94433610798fe5ff7fef32a344e548f8",
+  "quotationPolicy": "preparedSourceQuotation and preparedSourceContext fields are exact verbatim lines from the prepared file. cleanedWording and cleanedContext fields are edited transcript text and are never labeled source quotations. Marker contents are cleaned uncertainty spans, not necessarily verbatim source.",
+  "reviewDisposition": "Questions logged for morning review; no human acceptance recorded.",
+  "counts": {
+    "units": 1813,
+    "changedUnits": 543,
+    "replacementPatterns": 582,
+    "repeatedReplacementPatterns": 62,
+    "materialLines": 25,
+    "materialSpans": 25,
+    "materialIssueGroups": 22,
+    "incidentalLines": 69,
+    "incidentalSpans": 72
+  },
+  "material": [
+    {
+      "uid": "u0006",
+      "importance": "material",
+      "issueGroup": "dwarven-calendar",
+      "reason": "The 800 false start may corrupt a year number; the following unit gives 5,880th. Check the wording rather than combine or replace the numbers.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0006 | 00:00:44.560-00:00:49.919 | DM] Few, except the dwarven lorekeepers. Now remember, but this will mark the beginning of the 800,",
+      "cleanedWording": "[u0006 | 00:00:44.560-00:00:49.919 | DM] Few, except the dwarven lorekeepers now remember, but this will mark the beginning of the [[800]],",
+      "preparedSourceContextBefore": [
+        "[u0004 | 00:00:21.900-00:00:32.149 | DM] on the sky. Shift. Ventrast Journal. Most. None of the travelers here would mark. This is the dawning of the new year. Were they not in Tolton?",
+        "[u0005 | 00:00:33.210-00:00:44.090 | DM] The hammers and bells of the dwarven kingdoms of the sentinel? Rage will not ring to mark the New Year for another few months, until March seventeenth. In the human reckoning."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0007 | 00:00:50.180-00:00:56.480 | DM] the 5,880 s year since the planes were pulled apart",
+        "[u0008 | 00:00:58.980-00:01:00.690 | DM] in Dunmar."
+      ],
+      "cleanedContextBefore": [
+        "[u0004 | 00:00:21.900-00:00:32.149 | DM] on the skyship Vindristjarna. Most—none of the travelers here would mark this as the dawning of the new year, were they not in Tollen.",
+        "[u0005 | 00:00:33.210-00:00:44.090 | DM] The hammers and bells of the dwarven kingdoms of the Sentinel Range will not ring to mark the New Year for another few months, until March seventeenth. In the human reckoning."
+      ],
+      "cleanedContextAfter": [
+        "[u0007 | 00:00:50.180-00:00:56.480 | DM] the 5,880th year since the planes were pulled apart",
+        "[u0008 | 00:00:58.980-00:01:00.690 | DM] in Dunmar."
+      ],
+      "cleanedUncertainSpans": [
+        "800"
+      ]
+    },
+    {
+      "uid": "u0093",
+      "importance": "material",
+      "issueGroup": "librarian-relationship",
+      "reason": "Damaged clause about the librarian accompanying Basu may contain a name or a recruitment condition. Kassi is a possible name from secondary evidence, not an adopted correction.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0093 | 00:11:56.260-00:12:01.349 | DM] but he was like together with the librarian. So you don't cosy. So you'd also have to.",
+      "cleanedWording": "[u0093 | 00:11:56.260-00:12:01.349 | DM] but he was like together with the librarian. [[So you don't cosy]]. So you'd also have to.",
+      "preparedSourceContextBefore": [
+        "[u0091 | 00:11:46.700-00:11:51.010 | Seeker] right self reinforcing.",
+        "[u0092 | 00:11:51.330-00:11:55.050 | Seeker] Bassu was his name Basu."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0094 | 00:12:02.410-00:12:12.180 | Kenzo] Totally fine. I mean, we need a library on board, so join fellowship. Just have a huge, you know, a huge retinue of people. Right?",
+        "[u0095 | 00:12:12.260-00:12:14.610 | Kenzo] Alright, we're Seeker's Journal. Let's get a link."
+      ],
+      "cleanedContextBefore": [
+        "[u0091 | 00:11:46.700-00:11:51.010 | Seeker] right self reinforcing.",
+        "[u0092 | 00:11:51.330-00:11:55.050 | Seeker] Basu was his name Basu."
+      ],
+      "cleanedContextAfter": [
+        "[u0094 | 00:12:02.410-00:12:12.180 | Kenzo] Totally fine. I mean, we need a library on board, so join fellowship. Just have a huge, you know, a huge retinue of people. Right?",
+        "[u0095 | 00:12:12.260-00:12:14.610 | Kenzo] Alright, where's Seeker's journal? Let's get a link."
+      ],
+      "cleanedUncertainSpans": [
+        "So you don't cosy"
+      ]
+    },
+    {
+      "uid": "u0121",
+      "importance": "material",
+      "issueGroup": "casian-spellbook",
+      "reason": "The descriptor chalet attached to Casian’s spellbook is unclear. Compare u0276 and u0538; Casian is supported, the descriptor is unresolved.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0121 | 00:14:40.900-00:14:47.090 | Delwath] It seems fairly interesting. Right? We have Cassian's chalet spellbook.",
+      "cleanedWording": "[u0121 | 00:14:40.900-00:14:47.090 | Delwath] It seems fairly interesting. Right? We have Casian's [[chalet]] spellbook.",
+      "preparedSourceContextBefore": [
+        "[u0119 | 00:14:27.010-00:14:38.859 | Delwath] Well, the base is really for people who hate people. We have this spell book of Tauntsi stories and prayers that you can use as an arcane focus",
+        "[u0120 | 00:14:39.450-00:14:40.320 | Delwath] it."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0122 | 00:14:49.160-00:14:53.340 | Delwath] We have the summing greater demon spell gem.",
+        "[u0123 | 00:14:53.840-00:14:54.950 | Seeker] Oh, my God"
+      ],
+      "cleanedContextBefore": [
+        "[u0119 | 00:14:27.010-00:14:38.859 | Delwath] Well, the mace is really for people who hate people. We have this spell book of tanshi stories and prayers that you can use as an arcane focus",
+        "[u0120 | 00:14:39.450-00:14:40.320 | Delwath] it."
+      ],
+      "cleanedContextAfter": [
+        "[u0122 | 00:14:49.160-00:14:53.340 | Delwath] We have the summon greater demon spell gem.",
+        "[u0123 | 00:14:53.840-00:14:54.950 | Seeker] Oh, my God"
+      ],
+      "cleanedUncertainSpans": [
+        "chalet"
+      ]
+    },
+    {
+      "uid": "u0128",
+      "importance": "material",
+      "issueGroup": "summoning-stance",
+      "reason": "No may conceal a name or subject; whose discomfort with summoning greater demons is being described is unclear.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0128 | 00:15:22.280-00:15:26.120 | Delwath] No, it's very uncomfortable with us, summoning greater demons.",
+      "cleanedWording": "[u0128 | 00:15:22.280-00:15:26.120 | Delwath] [[No]], it's very uncomfortable with us, summoning greater demons.",
+      "preparedSourceContextBefore": [
+        "[u0126 | 00:15:09.490-00:15:15.119 | Delwath] doesn't it? Doesn't. It's like a it's like a lawn. It's okay.",
+        "[u0127 | 00:15:15.590-00:15:21.250 | Delwath] bad. Some are greater demon rechargeable. But I don't like the idea of someone greater demons. So I think it's okay to give it to them."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0129 | 00:15:26.950-00:15:28.759 | Seeker] Eager doesn't seem to possibly go up",
+        "[u0130 | 00:15:28.910-00:15:32.580 | Seeker] that the philosophers are"
+      ],
+      "cleanedContextBefore": [
+        "[u0126 | 00:15:09.490-00:15:15.119 | Delwath] doesn't it? Doesn't. It's like a it's like a wand. It's okay.",
+        "[u0127 | 00:15:15.590-00:15:21.250 | Delwath] But Summon Greater Demon rechargeable. But I don't like the idea of summoning greater demons. So I think it's okay to give it to them."
+      ],
+      "cleanedContextAfter": [
+        "[u0129 | 00:15:26.950-00:15:28.759 | Seeker] [[Eager doesn't seem to possibly go up]]",
+        "[u0130 | 00:15:28.910-00:15:32.580 | Seeker] that the philosophers are"
+      ],
+      "cleanedUncertainSpans": [
+        "No"
+      ]
+    },
+    {
+      "uid": "u0129",
+      "importance": "material",
+      "issueGroup": "guild-impression",
+      "reason": "The subject and predicate of the impression of the philosophers are damaged. Do not assume Eager means Seeker; read the unfinished discussion through u0140.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0129 | 00:15:26.950-00:15:28.759 | Seeker] Eager doesn't seem to possibly go up",
+      "cleanedWording": "[u0129 | 00:15:26.950-00:15:28.759 | Seeker] [[Eager doesn't seem to possibly go up]]",
+      "preparedSourceContextBefore": [
+        "[u0127 | 00:15:15.590-00:15:21.250 | Delwath] bad. Some are greater demon rechargeable. But I don't like the idea of someone greater demons. So I think it's okay to give it to them.",
+        "[u0128 | 00:15:22.280-00:15:26.120 | Delwath] No, it's very uncomfortable with us, summoning greater demons."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0130 | 00:15:28.910-00:15:32.580 | Seeker] that the philosophers are",
+        "[u0131 | 00:15:32.830-00:15:33.560 | Seeker] right."
+      ],
+      "cleanedContextBefore": [
+        "[u0127 | 00:15:15.590-00:15:21.250 | Delwath] But Summon Greater Demon rechargeable. But I don't like the idea of summoning greater demons. So I think it's okay to give it to them.",
+        "[u0128 | 00:15:22.280-00:15:26.120 | Delwath] [[No]], it's very uncomfortable with us, summoning greater demons."
+      ],
+      "cleanedContextAfter": [
+        "[u0130 | 00:15:28.910-00:15:32.580 | Seeker] that the philosophers are",
+        "[u0131 | 00:15:32.830-00:15:33.560 | Seeker] right."
+      ],
+      "cleanedUncertainSpans": [
+        "Eager doesn't seem to possibly go up"
+      ]
+    },
+    {
+      "uid": "u0147",
+      "importance": "material",
+      "issueGroup": "armband-pairing",
+      "reason": "45 pairs is implausible in the explanation that the shadow armband is not useful; the quantity or pairing limitation cannot be recovered confidently.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0147 | 00:16:48.840-00:16:53.200 | Seeker] 45 pairs. So it's it's not that useful",
+      "cleanedWording": "[u0147 | 00:16:48.840-00:16:53.200 | Seeker] [[45 pairs]]. So it's it's not that useful",
+      "preparedSourceContextBefore": [
+        "[u0145 | 00:16:36.460-00:16:38.060 | Kenzo] What do we have",
+        "[u0146 | 00:16:38.660-00:16:48.829 | Delwath] that was found in armbands that might was using to travel to the shadow dimensions and transport troops all over the place."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0148 | 00:16:53.510-00:17:02.219 | Kenzo] it? Thi? It's not that useful. But the Philosophers Guild might be interested. We should also think of some things to show the mirror, and it's like just about mirror time.",
+        "[u0149 | 00:17:03.030-00:17:05.199 | Seeker] Oh, is it got it?"
+      ],
+      "cleanedContextBefore": [
+        "[u0145 | 00:16:36.460-00:16:38.060 | Kenzo] What do we have",
+        "[u0146 | 00:16:38.660-00:16:48.829 | Delwath] That was from the armbands Cha'mutte was using to travel to the shadow dimensions and transport troops all over the place."
+      ],
+      "cleanedContextAfter": [
+        "[u0148 | 00:16:53.510-00:17:02.219 | Kenzo] it? Thi? It's not that useful. But the Philosophers Guild might be interested. We should also think of some things to show the mirror, and it's like just about mirror time.",
+        "[u0149 | 00:17:03.030-00:17:05.199 | Seeker] Oh, is it got it?"
+      ],
+      "cleanedUncertainSpans": [
+        "45 pairs"
+      ]
+    },
+    {
+      "uid": "u0208",
+      "importance": "material",
+      "issueGroup": "rai-prison-history",
+      "reason": "The clause connecting Cha’mutte’s death to Rai keeping Apollyon imprisoned is damaged. Preserve the distinction between releasing him and preventing release.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0208 | 00:22:42.650-00:23:11.709 | Delwath] like kept shamut stuff from dying from letting him out right in high school. We released him when we killed Shamat right? Shamat was keeping. I mean, you know, sometime we have to rerun the the high school campaign like, where clearly we're the bad guys right like I mean, obviously Shamat was right. Anyway, play it all work party. Yeah.",
+      "cleanedWording": "[u0208 | 00:22:42.650-00:23:11.709 | Delwath] like kept Cha'mutte [[stuff from dying from letting him out]] right in high school. We released him when we killed Cha'mutte right? Cha'mutte was keeping. I mean, you know, sometime we have to rerun the the high school campaign like, where clearly we're the bad guys right like I mean, obviously Cha'mutte was right. Anyway, play it all-orc party. Yeah.",
+      "preparedSourceContextBefore": [
+        "[u0206 | 00:22:38.330-00:22:40.570 | Delwath] except Rye, kept him imprisoned",
+        "[u0207 | 00:22:40.960-00:22:41.840 | Kenzo] later."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0209 | 00:23:12.290-00:23:13.779 | Delwath] Alt history.",
+        "[u0210 | 00:23:13.820-00:23:16.359 | Delwath] But"
+      ],
+      "cleanedContextBefore": [
+        "[u0206 | 00:22:38.330-00:22:40.570 | Delwath] except Rai, kept him imprisoned",
+        "[u0207 | 00:22:40.960-00:22:41.840 | Kenzo] later."
+      ],
+      "cleanedContextAfter": [
+        "[u0209 | 00:23:12.290-00:23:13.779 | Delwath] Alt history.",
+        "[u0210 | 00:23:13.820-00:23:16.359 | Delwath] But"
+      ],
+      "cleanedUncertainSpans": [
+        "stuff from dying from letting him out"
+      ]
+    },
+    {
+      "uid": "u0255",
+      "importance": "material",
+      "issueGroup": "bombardment-mechanism",
+      "reason": "The proposed action after obtaining boulders is unclear. Later discussion supports a dropping mechanism, but does not establish the exact wording here.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0255 | 00:29:19.140-00:29:23.390 | Seeker] there's no spell for that. We just have to get boulders and then learn how to make all this down.",
+      "cleanedWording": "[u0255 | 00:29:19.140-00:29:23.390 | Seeker] there's no spell for that. We just have to get boulders and then learn how to [[make all this down]].",
+      "preparedSourceContextBefore": [
+        "[u0253 | 00:29:08.860-00:29:17.449 | Seeker] We're hard to track down a little bit. I do want to figure out how to cause massive destruction by dropping things out of the skyship. But",
+        "[u0254 | 00:29:17.690-00:29:18.639 | Kenzo] I agree"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0256 | 00:29:25.090-00:29:30.800 | Delwath] Can I make a wall of stone thing that then drops? Why can't you just make a wall of stone in the air?",
+        "[u0257 | 00:29:31.650-00:29:37.220 | Seeker] Is such that it needs to be supported from underneath. I think, Tim."
+      ],
+      "cleanedContextBefore": [
+        "[u0253 | 00:29:08.860-00:29:17.449 | Seeker] We're hard to track down a little bit. I do want to figure out how to cause massive destruction by dropping things out of the skyship. But",
+        "[u0254 | 00:29:17.690-00:29:18.639 | Kenzo] I agree"
+      ],
+      "cleanedContextAfter": [
+        "[u0256 | 00:29:25.090-00:29:30.800 | Delwath] Can I make a wall of stone thing that then drops? Why can't you just make a wall of stone in the air?",
+        "[u0257 | 00:29:31.650-00:29:37.220 | Seeker] It says that it needs to be supported from underneath. I think, Tim."
+      ],
+      "cleanedUncertainSpans": [
+        "make all this down"
+      ]
+    },
+    {
+      "uid": "u0276",
+      "importance": "material",
+      "issueGroup": "casian-spellbook",
+      "reason": "The chill out descriptor attached to Casian’s spellbook is unclear; group with u0121 and u0538.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0276 | 00:30:57.960-00:31:04.469 | Delwath] Castian's chill out spellbook, the spell gem of Cadmos and the mace of terror.",
+      "cleanedWording": "[u0276 | 00:30:57.960-00:31:04.469 | Delwath] Casian's [[chill out]] spellbook, the spell gem of Kadmos and the mace of terror.",
+      "preparedSourceContextBefore": [
+        "[u0274 | 00:30:45.480-00:30:46.370 | Seeker] Yeah.",
+        "[u0275 | 00:30:46.730-00:30:57.909 | Delwath] the Arcane Grimir. I would give them all 4 of our powerful, not new items, the Arcane Grimir"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0277 | 00:31:05.120-00:31:06.150 | Seeker] I would.",
+        "[u0278 | 00:31:06.230-00:31:24.990 | Seeker] We'll do one at a time. Let's start with. We're giving them to them. For what? For information, for secret and rare information. What kinds of things do they know? I feel like those spell. That spellbook might hold some secrets that Grimoire like who knows what's in there."
+      ],
+      "cleanedContextBefore": [
+        "[u0274 | 00:30:45.480-00:30:46.370 | Seeker] Yeah.",
+        "[u0275 | 00:30:46.730-00:30:57.909 | Delwath] the Arcane Grimoire. I would give them all 4 of our powerful, not new items, the Arcane Grimoire"
+      ],
+      "cleanedContextAfter": [
+        "[u0277 | 00:31:05.120-00:31:06.150 | Seeker] I would.",
+        "[u0278 | 00:31:06.230-00:31:24.990 | Seeker] We'll do one at a time. Let's start with. We're giving them to them. For what? For information, for secret and rare information. What kinds of things do they know? I feel like those spell. That spellbook might hold some secrets that Grimoire like who knows what's in there."
+      ],
+      "cleanedUncertainSpans": [
+        "chill out"
+      ]
+    },
+    {
+      "uid": "u0304",
+      "importance": "material",
+      "issueGroup": "tollen-guild-district",
+      "reason": "Gilgate is an uncertain district name. Guildgate was not retained as a confident correction; Skepwalk refers to a separate location in the same description.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0304 | 00:34:27.070-00:34:40.489 | DM] so. Most of the guilds in Tolin are in the lake sort of fancy parts, like the Dyers Guild was in this Gold Street district, and a lot of them are in Gilgate, which are sort of newer, fancier parts of the city.",
+      "cleanedWording": "[u0304 | 00:34:27.070-00:34:40.489 | DM] so. Most of the guilds in Tollen are in the like sort of fancy parts, like the Dyers Guild was in this Gold Street district, and a lot of them are in [[Gilgate]], which are sort of newer, fancier parts of the city.",
+      "preparedSourceContextBefore": [
+        "[u0302 | 00:34:11.120-00:34:17.430 | DM] This is like a a freeze overnight, and as you all exit. The",
+        "[u0303 | 00:34:18.219-00:34:26.909 | DM] the ship all bundled up the Philosopher's guild. You anybody could tell you this, or you already know, is"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0305 | 00:34:41.000-00:34:44.549 | DM] The Philosopher's Guild itself is in",
+        "[u0306 | 00:34:44.659-00:34:45.690 | DM] the"
+      ],
+      "cleanedContextBefore": [
+        "[u0302 | 00:34:11.120-00:34:17.430 | DM] This is like a a freeze overnight, and as you all exit. The",
+        "[u0303 | 00:34:18.219-00:34:26.909 | DM] the ship all bundled up the Philosopher's guild. You anybody could tell you this, or you already know, is"
+      ],
+      "cleanedContextAfter": [
+        "[u0305 | 00:34:41.000-00:34:44.549 | DM] The Philosopher's Guild itself is in",
+        "[u0306 | 00:34:44.659-00:34:45.690 | DM] the"
+      ],
+      "cleanedUncertainSpans": [
+        "Gilgate"
+      ]
+    },
+    {
+      "uid": "u0396",
+      "importance": "material",
+      "issueGroup": "binding-stone-use",
+      "reason": "Do lines obscures the intended functional use of the binding stones. Do not replace it with an invented goal.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0396 | 00:44:50.340-00:44:59.560 | Seeker] proper control of the powers functionally, so that we can use them to do lines.",
+      "cleanedWording": "[u0396 | 00:44:50.340-00:44:59.560 | Seeker] proper control of the powers functionally, so that we can use them to [[do lines]].",
+      "preparedSourceContextBefore": [
+        "[u0394 | 00:44:40.740-00:44:45.889 | Seeker] They are not to be clear on offer of other things, to exchange what I'd like to know",
+        "[u0395 | 00:44:46.730-00:44:49.000 | Seeker] is about the use of these things, the"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0397 | 00:45:03.250-00:45:06.679 | DM] I could tell you much of those",
+        "[u0398 | 00:45:07.720-00:45:09.969 | DM] it would take some time."
+      ],
+      "cleanedContextBefore": [
+        "[u0394 | 00:44:40.740-00:44:45.889 | Seeker] They are not to be clear on offer. We have other things, to exchange what I'd like to know",
+        "[u0395 | 00:44:46.730-00:44:49.000 | Seeker] is about the use of these things, the"
+      ],
+      "cleanedContextAfter": [
+        "[u0397 | 00:45:03.250-00:45:06.679 | DM] I could tell you much of those",
+        "[u0398 | 00:45:07.720-00:45:09.969 | DM] it would take some time."
+      ],
+      "cleanedUncertainSpans": [
+        "do lines"
+      ]
+    },
+    {
+      "uid": "u0409",
+      "importance": "material",
+      "issueGroup": "bargaining-direction",
+      "reason": "Give us the mace reverses the apparent exchange direction. The eventual mace-for-information trade is clear later; the intended bargaining instruction here is uncertain.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0409 | 00:46:00.610-00:46:11.529 | Kenzo] Metagame? Should we perhaps ask about the thing we like the the the most crazy secret first like. Ask for the rise stuff first, and then see if he'll give us the mace.",
+      "cleanedWording": "[u0409 | 00:46:00.610-00:46:11.529 | Kenzo] Metagame? Should we perhaps ask about the thing we like the the the most crazy secret first like. Ask for the Rai's stuff first, and then see if he'll [[give us the mace]].",
+      "preparedSourceContextBefore": [
+        "[u0407 | 00:45:55.650-00:45:56.700 | Seeker] Ellis",
+        "[u0408 | 00:45:58.880-00:45:59.800 | Seeker] Mace?"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0410 | 00:46:11.780-00:46:19.360 | Delwath] I don't think the maces are most interesting or best thing to offer them. Actually, I think the spellbox will be more compelling to them.",
+        "[u0411 | 00:46:19.660-00:46:21.759 | Kenzo] Okay, alright, let's do it then."
+      ],
+      "cleanedContextBefore": [
+        "[u0407 | 00:45:55.650-00:45:56.700 | Seeker] Ellis",
+        "[u0408 | 00:45:58.880-00:45:59.800 | Seeker] Mace?"
+      ],
+      "cleanedContextAfter": [
+        "[u0410 | 00:46:11.780-00:46:19.360 | Delwath] I don't think the mace is our most interesting or best thing to offer them. Actually, I think the spellbooks will be more compelling to them.",
+        "[u0411 | 00:46:19.660-00:46:21.759 | Kenzo] Okay, alright, let's do it then."
+      ],
+      "cleanedUncertainSpans": [
+        "give us the mace"
+      ]
+    },
+    {
+      "uid": "u0538",
+      "importance": "material",
+      "issueGroup": "casian-spellbook",
+      "reason": "Repeated Jay White descriptor may identify a spellbook type. Casian is recovered from nearby references, but the descriptor remains unresolved.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0538 | 00:57:44.180-00:57:49.709 | Seeker] secrets is making different faces like Jay White Spellbook, Kathy's Jay White Spellbook.",
+      "cleanedWording": "[u0538 | 00:57:44.180-00:57:49.709 | Seeker] Seeker is making different faces like [[Jay White Spellbook, Casian's Jay White Spellbook]].",
+      "preparedSourceContextBefore": [
+        "[u0536 | 00:57:34.950-00:57:38.720 | Delwath] Yeah, okay, I'll take out the spell gem.",
+        "[u0537 | 00:57:38.790-00:57:44.080 | Delwath] Actually, no"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0539 | 00:57:50.560-00:57:53.349 | Delwath] I'll put that next to the Grimware.",
+        "[u0540 | 00:57:54.150-00:57:57.449 | Delwath] 2 books of magic surely better than one."
+      ],
+      "cleanedContextBefore": [
+        "[u0536 | 00:57:34.950-00:57:38.720 | Delwath] Yeah, okay, I'll take out the spell gem.",
+        "[u0537 | 00:57:38.790-00:57:44.080 | Delwath] Actually, no"
+      ],
+      "cleanedContextAfter": [
+        "[u0539 | 00:57:50.560-00:57:53.349 | Delwath] I'll put that next to the Grimoire.",
+        "[u0540 | 00:57:54.150-00:57:57.449 | Delwath] 2 books of magic surely better than one."
+      ],
+      "cleanedUncertainSpans": [
+        "Jay White Spellbook, Casian's Jay White Spellbook"
+      ]
+    },
+    {
+      "uid": "u0569",
+      "importance": "material",
+      "issueGroup": "secret-trade-clause",
+      "reason": "Garbled clause may describe the proposed exchange of secrets and magic or the guild’s business. Preserve the ambiguity.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0569 | 01:00:38.020-01:00:50.430 | Kenzo] Is you traded such secrets, and for us to try to understand the complete story of what we're asking for. We sell secrets for magic.",
+      "cleanedWording": "[u0569 | 01:00:38.020-01:00:50.430 | Kenzo] [[Is you traded such secrets]], and for us to try to understand the complete story of what we're asking for. We sell secrets for magic.",
+      "preparedSourceContextBefore": [
+        "[u0567 | 01:00:27.320-01:00:29.330 | DM] Perhaps I will be in touch.",
+        "[u0568 | 01:00:33.140-01:00:37.540 | Kenzo] Well, it seems that your your guild is"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0570 | 01:00:50.950-01:00:52.990 | Kenzo] correct.",
+        "[u0571 | 01:00:53.660-01:00:55.860 | Delwath] Kenza. Perhaps you could allow"
+      ],
+      "cleanedContextBefore": [
+        "[u0567 | 01:00:27.320-01:00:29.330 | DM] Perhaps I will be in touch.",
+        "[u0568 | 01:00:33.140-01:00:37.540 | Kenzo] Well, it seems that your your guild is"
+      ],
+      "cleanedContextAfter": [
+        "[u0570 | 01:00:50.950-01:00:52.990 | Kenzo] correct.",
+        "[u0571 | 01:00:53.660-01:00:55.860 | Delwath] Kenzo. Perhaps you could allow"
+      ],
+      "cleanedUncertainSpans": [
+        "Is you traded such secrets"
+      ]
+    },
+    {
+      "uid": "u0676",
+      "importance": "material",
+      "issueGroup": "underwater-forest-distance",
+      "reason": "The source 6, 700 could mean six or seven hundred miles or 6,700 miles. A range was not silently adopted. Adjacent 100–150-mile coast offset remains as spoken.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0676 | 01:10:09.440-01:10:12.009 | DM] 6, 700 miles.",
+      "cleanedWording": "[u0676 | 01:10:09.440-01:10:12.009 | DM] [[6, 700]] miles.",
+      "preparedSourceContextBefore": [
+        "[u0674 | 01:09:56.080-01:10:01.969 | DM] It is almost exactly if you go do west from from chartin",
+        "[u0675 | 01:10:03.290-01:10:07.600 | DM] about"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0677 | 01:10:14.740-01:10:15.890 | DM] maybe",
+        "[u0678 | 01:10:16.040-01:10:22.190 | DM] 100 miles 150 miles off the the western coast of that peninsula."
+      ],
+      "cleanedContextBefore": [
+        "[u0674 | 01:09:56.080-01:10:01.969 | DM] It is almost exactly if you go due west from from Chardon",
+        "[u0675 | 01:10:03.290-01:10:07.600 | DM] about"
+      ],
+      "cleanedContextAfter": [
+        "[u0677 | 01:10:14.740-01:10:15.890 | DM] maybe",
+        "[u0678 | 01:10:16.040-01:10:22.190 | DM] 100 miles 150 miles off the the western coast of that peninsula."
+      ],
+      "cleanedUncertainSpans": [
+        "6, 700"
+      ]
+    },
+    {
+      "uid": "u0781",
+      "importance": "material",
+      "issueGroup": "soul-jar-reunion",
+      "reason": "The consequence being asked about if Apollyon reunites with the soul jar is unclear. Super Fox is not an adopted entity or ability.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0781 | 01:20:32.630-01:20:44.950 | Kenzo] that he can return to, and he cannot be destroyed until he cannot be destroyed until that is destroyed. Right is it also like if he gets reunited with it, or like even for Super Fox.",
+      "cleanedWording": "[u0781 | 01:20:32.630-01:20:44.950 | Kenzo] that he can return to, and he cannot be destroyed until he cannot be destroyed until that is destroyed. Right is it also like if he gets reunited with it, or like [[even for Super Fox]].",
+      "preparedSourceContextBefore": [
+        "[u0779 | 01:20:20.320-01:20:28.400 | DM] That is probably what Delivers is talking about right? There's some some he's got some, you know.",
+        "[u0780 | 01:20:30.190-01:20:32.180 | DM] soul jar somewhere where"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0782 | 01:20:46.440-01:20:48.830 | DM] He's our, I mean.",
+        "[u0783 | 01:20:49.180-01:20:56.640 | DM] that's why he's getting stronger, right? He wasn't renated with it 30 years ago. He just was really weak because"
+      ],
+      "cleanedContextBefore": [
+        "[u0779 | 01:20:20.320-01:20:28.400 | DM] That is probably what Delios is talking about right? There's some some he's got some, you know.",
+        "[u0780 | 01:20:30.190-01:20:32.180 | DM] soul jar somewhere where"
+      ],
+      "cleanedContextAfter": [
+        "[u0782 | 01:20:46.440-01:20:48.830 | DM] He's our, I mean.",
+        "[u0783 | 01:20:49.180-01:20:56.640 | DM] that's why he's getting stronger, right? [[He wasn't renated with it]] 30 years ago. He just was really weak because"
+      ],
+      "cleanedUncertainSpans": [
+        "even for Super Fox"
+      ]
+    },
+    {
+      "uid": "u0783",
+      "importance": "material",
+      "issueGroup": "soul-jar-reunion",
+      "reason": "The source negation is uncertain: He wasn’t renated may mean He was reunited, but changing it silently would reverse the statement. Check before using the reunion timing as fact.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0783 | 01:20:49.180-01:20:56.640 | DM] that's why he's getting stronger, right? He wasn't renated with it 30 years ago. He just was really weak because",
+      "cleanedWording": "[u0783 | 01:20:49.180-01:20:56.640 | DM] that's why he's getting stronger, right? [[He wasn't renated with it]] 30 years ago. He just was really weak because",
+      "preparedSourceContextBefore": [
+        "[u0781 | 01:20:32.630-01:20:44.950 | Kenzo] that he can return to, and he cannot be destroyed until he cannot be destroyed until that is destroyed. Right is it also like if he gets reunited with it, or like even for Super Fox.",
+        "[u0782 | 01:20:46.440-01:20:48.830 | DM] He's our, I mean."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0784 | 01:20:57.280-01:21:03.460 | DM] he had been traps unable to access it for",
+        "[u0785 | 01:21:04.920-01:21:07.299 | Kenzo] 1,000 years."
+      ],
+      "cleanedContextBefore": [
+        "[u0781 | 01:20:32.630-01:20:44.950 | Kenzo] that he can return to, and he cannot be destroyed until he cannot be destroyed until that is destroyed. Right is it also like if he gets reunited with it, or like [[even for Super Fox]].",
+        "[u0782 | 01:20:46.440-01:20:48.830 | DM] He's our, I mean."
+      ],
+      "cleanedContextAfter": [
+        "[u0784 | 01:20:57.280-01:21:03.460 | DM] he had been trapped unable to access it for",
+        "[u0785 | 01:21:04.920-01:21:07.299 | Kenzo] 1,000 years."
+      ],
+      "cleanedUncertainSpans": [
+        "He wasn't renated with it"
+      ]
+    },
+    {
+      "uid": "u0788",
+      "importance": "material",
+      "issueGroup": "rai-hand-question",
+      "reason": "The question about what Rai was trying to cleanse remains partly damaged, despite recoverable references to the hand exploding and the Plaguelands.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0788 | 01:21:20.540-01:21:34.979 | Kenzo] Apollon is growing power. He's now able. Do we know what? How? Why, is how? What caused the android's flow? What was did you read that I was trying to clean, to do something about the place to like",
+      "cleanedWording": "[u0788 | 01:21:20.540-01:21:34.979 | Kenzo] Apollyon is growing power. He's now able. Do we know what? How? Why, is how? What caused the hand to explode? What was [[did you read that]] Rai was trying to clean, to do something about the Plaguelands to like",
+      "preparedSourceContextBefore": [
+        "[u0786 | 01:21:09.590-01:21:13.620 | Kenzo] So wait. Just do we still know yet like what?",
+        "[u0787 | 01:21:13.900-01:21:20.509 | Kenzo] Because 30 years ago. Rise, hands, explodes, and then that is his hand. Exploding is what's precipitated."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0789 | 01:21:35.130-01:21:55.600 | Delwath] with with the bishop amongst the Bishop in in the link Tim sent us. It recounts what he was. He was trying to cleanse the play glands from their plagueiness, but it turns out that the abyss or some other dark plane, was like tightly wrapped with the material plane. So his attempt to cleanse it failed.",
+        "[u0790 | 01:21:55.970-01:21:59.209 | Delwath] And then he"
+      ],
+      "cleanedContextBefore": [
+        "[u0786 | 01:21:09.590-01:21:13.620 | Kenzo] So wait. Just do we still know yet like what?",
+        "[u0787 | 01:21:13.900-01:21:20.509 | Kenzo] Because 30 years ago. Rai's hand explodes, and then that is his hand. Exploding is what's precipitated."
+      ],
+      "cleanedContextAfter": [
+        "[u0789 | 01:21:35.130-01:21:55.600 | Delwath] with with the Bhishma monks, the Bhishma in in the link Tim sent us. It recounts what he was. He was trying to cleanse the Plaguelands from their plagueiness, but it turns out that the abyss or some other dark plane, was like tightly wrapped with the material plane. So his attempt to cleanse it failed.",
+        "[u0790 | 01:21:55.970-01:21:59.209 | Delwath] And then he"
+      ],
+      "cleanedUncertainSpans": [
+        "did you read that"
+      ]
+    },
+    {
+      "uid": "u0832",
+      "importance": "material",
+      "issueGroup": "mage-level",
+      "reason": "70 likely represents a level or a restarted number, possibly 17th, but the exact level was not invented. The utterance is explicitly an assumption.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0832 | 01:26:09.380-01:26:16.659 | Delwath] I mean, I assume he's at 18 level mage 70, wizard",
+      "cleanedWording": "[u0832 | 01:26:09.380-01:26:16.659 | Delwath] I mean, I assume he's at 18th-level mage, [[70]], wizard",
+      "preparedSourceContextBefore": [
+        "[u0830 | 01:25:56.720-01:25:58.550 | Seeker] and go drinks all done.",
+        "[u0831 | 01:25:58.830-01:26:09.099 | DM] or you could just use the binding stance to bind to poly on. No, but he can cast lines over the snow. Magic. That's right."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0833 | 01:26:18.710-01:26:27.550 | Delwath] maybe we could use the binding stones on Fausto or what levels. Fasto? Oh, he's definitely not he. We could totally use the binding stuff, that fastow.",
+        "[u0834 | 01:26:27.610-01:26:29.740 | Kenzo] We're crossing the mirror, too."
+      ],
+      "cleanedContextBefore": [
+        "[u0830 | 01:25:56.720-01:25:58.550 | Seeker] and go drinks all done.",
+        "[u0831 | 01:25:58.830-01:26:09.099 | DM] or you could just use the binding stones to bind Apollyon. No, but he can cast ninth-level Dispel Magic. That's right."
+      ],
+      "cleanedContextAfter": [
+        "[u0833 | 01:26:18.710-01:26:27.550 | Delwath] maybe we could use the binding stones on Fausto or what level is Fausto? Oh, he's definitely not he. We could totally use the binding stones on Fausto.",
+        "[u0834 | 01:26:27.610-01:26:29.740 | Kenzo] [[We're crossing the mirror]], too."
+      ],
+      "cleanedUncertainSpans": [
+        "70"
+      ]
+    },
+    {
+      "uid": "u0834",
+      "importance": "material",
+      "issueGroup": "mirror-tactic",
+      "reason": "Unclear proposed tactic involving the mirror; do not infer a specific plan from crossing.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0834 | 01:26:27.610-01:26:29.740 | Kenzo] We're crossing the mirror, too.",
+      "cleanedWording": "[u0834 | 01:26:27.610-01:26:29.740 | Kenzo] [[We're crossing the mirror]], too.",
+      "preparedSourceContextBefore": [
+        "[u0832 | 01:26:09.380-01:26:16.659 | Delwath] I mean, I assume he's at 18 level mage 70, wizard",
+        "[u0833 | 01:26:18.710-01:26:27.550 | Delwath] maybe we could use the binding stones on Fausto or what levels. Fasto? Oh, he's definitely not he. We could totally use the binding stuff, that fastow."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0835 | 01:26:30.080-01:26:34.630 | Delwath] I gosh! We should just kill. But the bindings doesn't foul. So a touch of like",
+        "[u0836 | 01:26:35.350-01:26:36.140 | Delwath] that's"
+      ],
+      "cleanedContextBefore": [
+        "[u0832 | 01:26:09.380-01:26:16.659 | Delwath] I mean, I assume he's at 18th-level mage, [[70]], wizard",
+        "[u0833 | 01:26:18.710-01:26:27.550 | Delwath] maybe we could use the binding stones on Fausto or what level is Fausto? Oh, he's definitely not he. We could totally use the binding stones on Fausto."
+      ],
+      "cleanedContextAfter": [
+        "[u0835 | 01:26:30.080-01:26:34.630 | Delwath] Grash! We should just kill. But the binding stones on Fausto, a touch of like",
+        "[u0836 | 01:26:35.350-01:26:36.140 | Delwath] that's"
+      ],
+      "cleanedUncertainSpans": [
+        "We're crossing the mirror"
+      ]
+    },
+    {
+      "uid": "u0933",
+      "importance": "material",
+      "issueGroup": "frankar-location",
+      "reason": "Anonymous land follows the statement that Frankar is alive somewhere and may qualify his location or plane. Do not convert it to a definite plane.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0933 | 01:35:47.610-01:35:49.340 | DM] Anonymous land",
+      "cleanedWording": "[u0933 | 01:35:47.610-01:35:49.340 | DM] [[Anonymous land]]",
+      "preparedSourceContextBefore": [
+        "[u0931 | 01:35:23.230-01:35:30.430 | Delwath] He didn't say he would tell you nothing for the just go for the foot and give him the coin.",
+        "[u0932 | 01:35:38.460-01:35:47.560 | DM] Okay? So he says. you know, again, he'll need to investigate. What he can tell you is, Frank are definitely alive somewhere."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0934 | 01:35:51.140-01:35:52.160 | Kenzo] that's huge",
+        "[u0935 | 01:35:54.440-01:35:57.069 | Seeker] seekers. Anything else you wish to know?"
+      ],
+      "cleanedContextBefore": [
+        "[u0931 | 01:35:23.230-01:35:30.430 | Delwath] He didn't say he would tell you nothing for the just go for the foot and give him the coin.",
+        "[u0932 | 01:35:38.460-01:35:47.560 | DM] Okay? So he says. you know, again, he'll need to investigate. What he can tell you is, Frankar is definitely alive somewhere."
+      ],
+      "cleanedContextAfter": [
+        "[u0934 | 01:35:51.140-01:35:52.160 | Kenzo] that's huge",
+        "[u0935 | 01:35:54.440-01:35:57.069 | Seeker] Seeker, Anything else you wish to know?"
+      ],
+      "cleanedUncertainSpans": [
+        "Anonymous land"
+      ]
+    },
+    {
+      "uid": "u0984",
+      "importance": "material",
+      "issueGroup": "meal-cultural-source",
+      "reason": "Den may be a truncated cultural name in Delwath’s description of the meal. Deno’qai is a possible reading, not an adopted correction.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0984 | 01:40:14.920-01:40:24.839 | Delwath] The I spent a while with the den right like a little bit of a",
+      "cleanedWording": "[u0984 | 01:40:14.920-01:40:24.839 | Delwath] The I spent a while with the [[den]] right like a little bit of a",
+      "preparedSourceContextBefore": [
+        "[u0982 | 01:39:58.810-01:40:03.379 | Delwath] something from like something from the",
+        "[u0983 | 01:40:04.440-01:40:14.249 | Delwath] whatever I'm actually gonna do like at a collecting mix of human dishes from places we've been right like Denmark and and"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0985 | 01:40:24.940-01:40:30.849 | Delwath] especially if she's an artist seeking new things. This is where you should try and set me up",
+        "[u0986 | 01:40:31.040-01:40:35.370 | Kenzo] are much more like dealt with speed than centers."
+      ],
+      "cleanedContextBefore": [
+        "[u0982 | 01:39:58.810-01:40:03.379 | Delwath] something from like something from the",
+        "[u0983 | 01:40:04.440-01:40:14.249 | Delwath] whatever I'm actually gonna do like an eclectic mix of human dishes from places we've been right like Dunmar and and"
+      ],
+      "cleanedContextAfter": [
+        "[u0985 | 01:40:24.940-01:40:30.849 | Delwath] especially if she's an artist seeking new things. This is where you should try and set me up",
+        "[u0986 | 01:40:31.040-01:40:35.370 | Kenzo] are much more like Delwath's speed than Kenzo's."
+      ],
+      "cleanedUncertainSpans": [
+        "den"
+      ]
+    },
+    {
+      "uid": "u0989",
+      "importance": "material",
+      "issueGroup": "meal-preparation",
+      "reason": "A garbled phrase obscures how Delwath prepares the meal; serving a meal is clear, but the tools, skills or action in this clause are not.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u0989 | 01:40:46.640-01:40:53.319 | Delwath] I'll send my my link set to collect boot to to make a nice meal.",
+      "cleanedWording": "[u0989 | 01:40:46.640-01:40:53.319 | Delwath] I'll send my [[my link set to collect boot]] to to make a nice meal.",
+      "preparedSourceContextBefore": [
+        "[u0987 | 01:40:36.750-01:40:38.889 | Kenzo] Alright cool that.",
+        "[u0988 | 01:40:38.970-01:40:46.570 | Delwath] Yeah. So you know, like top us style like sharing plates and things right like"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0990 | 01:40:57.230-01:40:58.780 | Unknown] You're",
+        "[u0991 | 01:40:59.460-01:41:13.949 | DM] so they Ballinger says, you know compliments you on on the food and They they chat for a bit."
+      ],
+      "cleanedContextBefore": [
+        "[u0987 | 01:40:36.750-01:40:38.889 | Kenzo] Alright cool that.",
+        "[u0988 | 01:40:38.970-01:40:46.570 | Delwath] Yeah. So you know, like tapas style like sharing plates and things right like"
+      ],
+      "cleanedContextAfter": [
+        "[u0990 | 01:40:57.230-01:40:58.780 | Unknown] You're",
+        "[u0991 | 01:40:59.460-01:41:13.949 | DM] so they Melindir says, you know compliments you on on the food and They they chat for a bit."
+      ],
+      "cleanedUncertainSpans": [
+        "my link set to collect boot"
+      ]
+    },
+    {
+      "uid": "u1240",
+      "importance": "material",
+      "issueGroup": "glove-reason-for-journey",
+      "reason": "Garbled description immediately precedes the need for magical tweaking. It may concern Seeker’s glove, but the object and precise condition in this unit are uncertain.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u1240 | 02:03:23.060-02:03:27.610 | DM] As far as we know it's got. You're you're you're you're done our way. Wow!",
+      "cleanedWording": "[u1240 | 02:03:23.060-02:03:27.610 | DM] As far as we know it's got. [[You're you're you're you're done our way]]. Wow!",
+      "preparedSourceContextBefore": [
+        "[u1238 | 02:03:15.870-02:03:18.169 | DM] Of course, I thought.",
+        "[u1239 | 02:03:19.150-02:03:20.889 | DM] didn't you want to go there?"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1241 | 02:03:28.990-02:03:31.770 | DM] Needs a little bit of magical tweaking.",
+        "[u1242 | 02:03:32.980-02:03:34.459 | Seeker] Oh, naturally it does."
+      ],
+      "cleanedContextBefore": [
+        "[u1238 | 02:03:15.870-02:03:18.169 | DM] Of course, I thought.",
+        "[u1239 | 02:03:19.150-02:03:20.889 | DM] didn't you want to go there?"
+      ],
+      "cleanedContextAfter": [
+        "[u1241 | 02:03:28.990-02:03:31.770 | DM] Needs a little bit of magical tweaking.",
+        "[u1242 | 02:03:32.980-02:03:34.459 | Seeker] Oh, naturally it does."
+      ],
+      "cleanedUncertainSpans": [
+        "You're you're you're you're done our way"
+      ]
+    },
+    {
+      "uid": "u1781",
+      "importance": "material",
+      "issueGroup": "iceworm-modality",
+      "reason": "Had to may be a near-miss for ought to or have to in the discussion of future travel. Preserve uncertainty about whether this is a suggestion, requirement or recollection.",
+      "reviewState": "pending_morning_review",
+      "preparedSourceQuotation": "[u1781 | 02:48:44.340-02:48:47.329 | Seeker] we had to catch one of those giant iceworms in the mirror.",
+      "cleanedWording": "[u1781 | 02:48:44.340-02:48:47.329 | Seeker] we [[had to]] catch one of those giant iceworms in the mirror.",
+      "preparedSourceContextBefore": [
+        "[u1779 | 02:48:36.690-02:48:40.020 | DM] and then just do ours next right? Like, you don't have to",
+        "[u1780 | 02:48:41.150-02:48:43.989 | Delwath] do the chart. And yeah."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1782 | 02:48:49.920-02:48:51.479 | Seeker] They're like 200 feet long. Right?",
+        "[u1783 | 02:48:51.750-02:49:03.450 | Kenzo] Well, it it feels like now that we know, like what's going on with the the jade hands. and that after we find all the pieces of the jade hands that the tallinn dudes can help us figure out where the fuck"
+      ],
+      "cleanedContextBefore": [
+        "[u1779 | 02:48:36.690-02:48:40.020 | DM] and then just do Ursk next right? Like, you don't have to",
+        "[u1780 | 02:48:41.150-02:48:43.989 | Delwath] do the Chardon yeah."
+      ],
+      "cleanedContextAfter": [
+        "[u1782 | 02:48:49.920-02:48:51.479 | Seeker] They're like 200 feet long. Right?",
+        "[u1783 | 02:48:51.750-02:49:03.450 | Kenzo] Well, it it feels like now that we know, like what's going on with the the jade hands. and that after we find all the pieces of the jade hands that the Tollen dudes can help us figure out where the fuck"
+      ],
+      "cleanedUncertainSpans": [
+        "had to"
+      ]
+    }
+  ],
+  "incidental": [
+    {
+      "uid": "u0015",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear departure/return fragment; clear follow-up in u0018 says depart.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0015 | 00:02:07.190-00:02:29.229 | DM] today will be a day to rest and recover for the people of Tolen, and it won't be until tomorrow. That will be possible to hire workers to fix the ship or shop for magical tattoos, or visit the philosopher's guild, to trade magic for information, or take care of what other business, what any other business you would like to take care of in Tollen before turning. So",
+      "cleanedWording": "[u0015 | 00:02:07.190-00:02:29.229 | DM] today will be a day to rest and recover for the people of Tollen, and it won't be until tomorrow that it will be possible to hire workers to fix the ship or shop for magical tattoos, or visit the philosopher's guild, to trade magic for information, or take care of what other business, what any other business you would like to take care of in Tollen before turning. So",
+      "preparedSourceContextBefore": [
+        "[u0013 | 00:01:52.680-00:01:54.370 | DM] in Poland, though",
+        "[u0014 | 00:01:54.810-00:02:06.969 | DM] the city is quiet, many Tolanders are just drifting to bed after a night of prayer, and dreaming by the Paravella's bonfires, taking in the mysteries and blessings of the world. Wing"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0016 | 00:02:29.430-00:02:56.959 | DM] so as we begin, I'll start with just asking everybody to describe what their characters describe your character and and what you're doing as the human New Year begins. And then I think it makes sense to skip ahead a little bit. So you have dinner with the elves. Plan for the day after this day. The dwarf is",
+        "[u0017 | 00:02:57.200-00:03:16.679 | DM] presumably gonna show up on Saturday morning for brunch, and possibly to leave for the place he wants to go, at least was not left entirely clear. After the party. And then, whatever kind of downtime or other"
+      ],
+      "cleanedContextBefore": [
+        "[u0013 | 00:01:52.680-00:01:54.370 | DM] in Tollen, though",
+        "[u0014 | 00:01:54.810-00:02:06.969 | DM] the city is quiet, many Tollenders are just drifting to bed after a night of prayer, and dreaming by the Pyravela's bonfires, taking in the mysteries and blessings of the Wyrdling"
+      ],
+      "cleanedContextAfter": [
+        "[u0016 | 00:02:29.430-00:02:56.959 | DM] so as we begin, I'll start with just asking everybody to describe what their characters describe your character and and what you're doing as the human New Year begins. And then I think it makes sense to skip ahead a little bit. So you have dinner with the elves. Plan for the day after this day. The dwarf is",
+        "[u0017 | 00:02:57.200-00:03:16.679 | DM] presumably gonna show up on Saturday morning for brunch, and possibly to leave for the place he wants to go, at least was not left entirely clear. After the party. And then, whatever kind of downtime or other"
+      ],
+      "preparedSourceSpans": [
+        "turning"
+      ]
+    },
+    {
+      "uid": "u0025",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear joke/cross-talk about irresistible forces.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0025 | 00:04:26.050-00:04:37.470 | Delwath] You keep trying. Keep trying. But you know I'm not trying. It's the universe that's irresistible. Forces. Don't you can fight it all you want but",
+      "cleanedWording": "[u0025 | 00:04:26.050-00:04:37.470 | Delwath] You keep trying. Keep trying. But you know I'm not trying. It's the universe that's irresistible. Forces. Don't you can fight it all you want but",
+      "preparedSourceContextBefore": [
+        "[u0023 | 00:04:07.760-00:04:14.450 | DM] I think. Kenzo spent the day with Iscra, and well, we spent the day with half lanes, and",
+        "[u0024 | 00:04:15.810-00:04:23.700 | Delwath] I think, wandered around a little bit."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0026 | 00:04:43.150-00:04:46.590 | Kenzo] would be a soft tar. I smelled",
+        "[u0027 | 00:04:47.940-00:04:49.420 | Kenzo] okay."
+      ],
+      "cleanedContextBefore": [
+        "[u0023 | 00:04:07.760-00:04:14.450 | DM] I think. Kenzo spent the day with Iskra, and Wellby spent the day with halflings, and",
+        "[u0024 | 00:04:15.810-00:04:23.700 | Delwath] I think, wandered around a little bit."
+      ],
+      "cleanedContextAfter": [
+        "[u0026 | 00:04:43.150-00:04:46.590 | Kenzo] would be a soft tar. I smelled",
+        "[u0027 | 00:04:47.940-00:04:49.420 | Kenzo] okay."
+      ],
+      "preparedSourceSpans": [
+        "It's the universe that's irresistible. Forces. Don't"
+      ]
+    },
+    {
+      "uid": "u0026",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Garbled incidental reply before character descriptions.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0026 | 00:04:43.150-00:04:46.590 | Kenzo] would be a soft tar. I smelled",
+      "cleanedWording": "[u0026 | 00:04:43.150-00:04:46.590 | Kenzo] would be a soft tar. I smelled",
+      "preparedSourceContextBefore": [
+        "[u0024 | 00:04:15.810-00:04:23.700 | Delwath] I think, wandered around a little bit.",
+        "[u0025 | 00:04:26.050-00:04:37.470 | Delwath] You keep trying. Keep trying. But you know I'm not trying. It's the universe that's irresistible. Forces. Don't you can fight it all you want but"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0027 | 00:04:47.940-00:04:49.420 | Kenzo] okay.",
+        "[u0028 | 00:04:52.220-00:04:54.030 | DM] so who wants to go first?"
+      ],
+      "cleanedContextBefore": [
+        "[u0024 | 00:04:15.810-00:04:23.700 | Delwath] I think, wandered around a little bit.",
+        "[u0025 | 00:04:26.050-00:04:37.470 | Delwath] You keep trying. Keep trying. But you know I'm not trying. It's the universe that's irresistible. Forces. Don't you can fight it all you want but"
+      ],
+      "cleanedContextAfter": [
+        "[u0027 | 00:04:47.940-00:04:49.420 | Kenzo] okay.",
+        "[u0028 | 00:04:52.220-00:04:54.030 | DM] so who wants to go first?"
+      ],
+      "preparedSourceSpans": [
+        "would be a soft tar. I smelled"
+      ]
+    },
+    {
+      "uid": "u0040",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear incidental wording; surrounding action or topic is explicit. No correction inferred.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0040 | 00:05:46.360-00:05:56.599 | Kenzo] kind of doing little circles around the around the garden, investigating the little, the little plants, and a little various kind of life forms that are that are growing down.",
+      "cleanedWording": "[u0040 | 00:05:46.360-00:05:56.599 | Kenzo] kind of doing little circles around the around the garden, investigating the little, the little plants, and a little various kind of life forms that are that are growing down.",
+      "preparedSourceContextBefore": [
+        "[u0038 | 00:05:33.490-00:05:44.240 | Kenzo] is, normally, hair is normally tied back. But now, currently just kind of long and and flowing, and hasn't cut it for a while, and it's contemplating a shave.",
+        "[u0039 | 00:05:44.530-00:05:45.980 | Kenzo] and he's"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0041 | 00:05:56.620-00:05:58.470 | Kenzo] occasionally bending down.",
+        "[u0042 | 00:05:59.110-00:06:05.920 | Kenzo] sitting, meditating, but just really enjoying the morning and enjoying being alive and enjoying"
+      ],
+      "cleanedContextBefore": [
+        "[u0038 | 00:05:33.490-00:05:44.240 | Kenzo] His, normally, hair is normally tied back. But now, currently just kind of long and and flowing, and hasn't cut it for a while, and he's contemplating a shave.",
+        "[u0039 | 00:05:44.530-00:05:45.980 | Kenzo] and he's"
+      ],
+      "cleanedContextAfter": [
+        "[u0041 | 00:05:56.620-00:05:58.470 | Kenzo] occasionally bending down.",
+        "[u0042 | 00:05:59.110-00:06:05.920 | Kenzo] sitting, meditating, but just really enjoying the morning and enjoying being alive and enjoying"
+      ],
+      "preparedSourceSpans": [
+        "growing down"
+      ]
+    },
+    {
+      "uid": "u0061",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear walking verb; detailed restlessness/route around ship is clear.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0061 | 00:08:20.070-00:08:22.050 | Delwath] hiring around on the",
+      "cleanedWording": "[u0061 | 00:08:20.070-00:08:22.050 | Delwath] hiring around on the",
+      "preparedSourceContextBefore": [
+        "[u0059 | 00:08:15.770-00:08:16.760 | Delwath] check.",
+        "[u0060 | 00:08:17.430-00:08:19.750 | Delwath] Dallas is also sort of"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0062 | 00:08:22.960-00:08:24.729 | Delwath] edges of the of them.",
+        "[u0063 | 00:08:25.790-00:08:29.299 | Delwath] Castle. Not sort of in the center. Just sort of"
+      ],
+      "cleanedContextBefore": [
+        "[u0059 | 00:08:15.770-00:08:16.760 | Delwath] check.",
+        "[u0060 | 00:08:17.430-00:08:19.750 | Delwath] Delwath is also sort of"
+      ],
+      "cleanedContextAfter": [
+        "[u0062 | 00:08:22.960-00:08:24.729 | Delwath] edges of the of the",
+        "[u0063 | 00:08:25.790-00:08:29.299 | Delwath] Castle. Not sort of in the center. Just sort of"
+      ],
+      "preparedSourceSpans": [
+        "hiring"
+      ]
+    },
+    {
+      "uid": "u0068",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear incidental wording; surrounding action or topic is explicit. No correction inferred.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0068 | 00:09:02.940-00:09:09.250 | Delwath] you know, and just kinda over the rocks and sort of look out. Look around the bottom. He's just. He seems",
+      "cleanedWording": "[u0068 | 00:09:02.940-00:09:09.250 | Delwath] you know, and just kinda over the rocks and sort of look out. Look around the bottom. He's just. He seems",
+      "preparedSourceContextBefore": [
+        "[u0066 | 00:08:41.820-00:08:51.659 | Delwath] walking around the edge of the castle kind of looking out south, mostly like stretching his eyes, kinda looking for towards the next",
+        "[u0067 | 00:08:52.200-00:09:02.650 | Delwath] part of our journey. Maybe we go that way. And he's like occasionally he'll like climb down the side of the ship a little bit like he."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0069 | 00:09:10.060-00:09:12.539 | Delwath] restless, but not in a",
+        "[u0070 | 00:09:13.040-00:09:14.550 | Delwath] not in like a"
+      ],
+      "cleanedContextBefore": [
+        "[u0066 | 00:08:41.820-00:08:51.659 | Delwath] walking around the edge of the castle kind of looking out south, mostly like stretching his eyes, kinda looking for towards the next",
+        "[u0067 | 00:08:52.200-00:09:02.650 | Delwath] part of our journey. Maybe we go that way. And he's like occasionally he'll like climb down the side of the ship a little bit like he."
+      ],
+      "cleanedContextAfter": [
+        "[u0069 | 00:09:10.060-00:09:12.539 | Delwath] restless, but not in a",
+        "[u0070 | 00:09:13.040-00:09:14.550 | Delwath] not in like a"
+      ],
+      "preparedSourceSpans": [
+        "and just kinda over the rocks"
+      ]
+    },
+    {
+      "uid": "u0087",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "A locket is an unclear reference in portable-hole artisan discussion; named artisan Basu identified in u0092.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0087 | 00:11:07.490-00:11:31.950 | Kenzo] Kenza's friend who made the made the little? Oh, yeah. A locket from the lock and monastery was that guy's name portable? The portable guy? Yeah, yeah, yeah, we should. We should give him. We should give him a creative residency on the I'd be totally serious. We should give him a creative residency on the ship, and then let him live with us and build like the the we'll be the second resident after we drop off foundry.",
+      "cleanedWording": "[u0087 | 00:11:07.490-00:11:31.950 | Kenzo] Kenzo's friend who made the made the little? Oh, yeah. A locket from the Lakan monastery what's that guy's name? Portable? The portable guy? Yeah, yeah, yeah, we should. We should give him. We should give him a creative residency on the I'd be totally serious. We should give him a creative residency on the ship, and then let him live with us and build like the the we'll be the second resident after we drop off Faldrak.",
+      "preparedSourceContextBefore": [
+        "[u0085 | 00:10:26.980-00:10:40.800 | Kenzo] cause we're gonna have a mirror room. But like, maybe the mirror room is like, like, you know, cause like you, just you start walking down like a hall like a corridor, and it's just like just like there's like way more rooms than you think would possibly be able to fit in a ship.",
+        "[u0086 | 00:10:40.980-00:11:07.090 | Kenzo] you know, that's bigger on the inside. But maybe the mirror is like the like. The the portal room like you. You walk down a hallway that you think is a hallway. But it's like just rooms that go to our sleeping quarters. And it's just like this epic mansion inside. You're like what the fuck. How's this? All inside the ship. Maybe we can get who's who's our? Who's the the guy from"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0088 | 00:11:34.690-00:11:37.929 | Delwath] We can have more than one resident, right? Yeah, we have lots of space.",
+        "[u0089 | 00:11:38.320-00:11:40.570 | Seeker] But it is a fairly big ship, it's"
+      ],
+      "cleanedContextBefore": [
+        "[u0085 | 00:10:26.980-00:10:40.800 | Kenzo] cause we're gonna have a mirror room. But like, maybe the mirror room is like, like, you know, cause like you, just you start walking down like a hall like a corridor, and it's just like just like there's like way more rooms than you think would possibly be able to fit in a ship.",
+        "[u0086 | 00:10:40.980-00:11:07.090 | Kenzo] you know, that's bigger on the inside. But maybe the mirror is like the like. The the portal room like you. You walk down a hallway that you think is a hallway. But it's like just rooms that go to our sleeping quarters. And it's just like this epic mansion inside. You're like what the fuck. How's this? All inside the ship. Maybe we can get who's who's our? Who's the the guy from"
+      ],
+      "cleanedContextAfter": [
+        "[u0088 | 00:11:34.690-00:11:37.929 | Delwath] We can have more than one resident, right? Yeah, we have lots of space.",
+        "[u0089 | 00:11:38.320-00:11:40.570 | Seeker] But it is a fairly big ship, it's"
+      ],
+      "preparedSourceSpans": [
+        "A locket"
+      ]
+    },
+    {
+      "uid": "u0094",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Table joke phrasing about fellowship.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0094 | 00:12:02.410-00:12:12.180 | Kenzo] Totally fine. I mean, we need a library on board, so join fellowship. Just have a huge, you know, a huge retinue of people. Right?",
+      "cleanedWording": "[u0094 | 00:12:02.410-00:12:12.180 | Kenzo] Totally fine. I mean, we need a library on board, so join fellowship. Just have a huge, you know, a huge retinue of people. Right?",
+      "preparedSourceContextBefore": [
+        "[u0092 | 00:11:51.330-00:11:55.050 | Seeker] Bassu was his name Basu.",
+        "[u0093 | 00:11:56.260-00:12:01.349 | DM] but he was like together with the librarian. So you don't cosy. So you'd also have to."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0095 | 00:12:12.260-00:12:14.610 | Kenzo] Alright, we're Seeker's Journal. Let's get a link.",
+        "[u0096 | 00:12:15.550-00:12:16.860 | Kenzo] Oh, yeah, I got it. I got it."
+      ],
+      "cleanedContextBefore": [
+        "[u0092 | 00:11:51.330-00:11:55.050 | Seeker] Basu was his name Basu.",
+        "[u0093 | 00:11:56.260-00:12:01.349 | DM] but he was like together with the librarian. [[So you don't cosy]]. So you'd also have to."
+      ],
+      "cleanedContextAfter": [
+        "[u0095 | 00:12:12.260-00:12:14.610 | Kenzo] Alright, where's Seeker's journal? Let's get a link.",
+        "[u0096 | 00:12:15.550-00:12:16.860 | Kenzo] Oh, yeah, I got it. I got it."
+      ],
+      "preparedSourceSpans": [
+        "so join fellowship"
+      ]
+    },
+    {
+      "uid": "u0132",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear non-decisive connective in philosophical alignment discussion.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0132 | 00:15:35.120-00:15:36.929 | Seeker] but yet like there's now one",
+      "cleanedWording": "[u0132 | 00:15:35.120-00:15:36.929 | Seeker] but yet like there's now one",
+      "preparedSourceContextBefore": [
+        "[u0130 | 00:15:28.910-00:15:32.580 | Seeker] that the philosophers are",
+        "[u0131 | 00:15:32.830-00:15:33.560 | Seeker] right."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0133 | 00:15:38.390-00:15:39.550 | Seeker] like air of",
+        "[u0134 | 00:15:40.180-00:15:44.849 | Delwath] Did you turn the music out of it? Thank you"
+      ],
+      "cleanedContextBefore": [
+        "[u0130 | 00:15:28.910-00:15:32.580 | Seeker] that the philosophers are",
+        "[u0131 | 00:15:32.830-00:15:33.560 | Seeker] right."
+      ],
+      "cleanedContextAfter": [
+        "[u0133 | 00:15:38.390-00:15:39.550 | Seeker] like air of",
+        "[u0134 | 00:15:40.180-00:15:44.849 | Delwath] Did you turn the music down a bit? Thank you"
+      ],
+      "preparedSourceSpans": [
+        "but yet like there's now one"
+      ]
+    },
+    {
+      "uid": "u0133",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unfinished descriptive phrase in same aside.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0133 | 00:15:38.390-00:15:39.550 | Seeker] like air of",
+      "cleanedWording": "[u0133 | 00:15:38.390-00:15:39.550 | Seeker] like air of",
+      "preparedSourceContextBefore": [
+        "[u0131 | 00:15:32.830-00:15:33.560 | Seeker] right.",
+        "[u0132 | 00:15:35.120-00:15:36.929 | Seeker] but yet like there's now one"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0134 | 00:15:40.180-00:15:44.849 | Delwath] Did you turn the music out of it? Thank you",
+        "[u0135 | 00:15:46.220-00:15:48.170 | Seeker] there was. There was no hint of."
+      ],
+      "cleanedContextBefore": [
+        "[u0131 | 00:15:32.830-00:15:33.560 | Seeker] right.",
+        "[u0132 | 00:15:35.120-00:15:36.929 | Seeker] but yet like there's now one"
+      ],
+      "cleanedContextAfter": [
+        "[u0134 | 00:15:40.180-00:15:44.849 | Delwath] Did you turn the music down a bit? Thank you",
+        "[u0135 | 00:15:46.220-00:15:48.170 | Seeker] there was. There was no hint of."
+      ],
+      "preparedSourceSpans": [
+        "like air of"
+      ]
+    },
+    {
+      "uid": "u0136",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Garbled table aside during music adjustment.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0136 | 00:15:48.470-00:15:51.230 | Seeker] It's not going, is there?",
+      "cleanedWording": "[u0136 | 00:15:48.470-00:15:51.230 | Seeker] It's not going, is there?",
+      "preparedSourceContextBefore": [
+        "[u0134 | 00:15:40.180-00:15:44.849 | Delwath] Did you turn the music out of it? Thank you",
+        "[u0135 | 00:15:46.220-00:15:48.170 | Seeker] there was. There was no hint of."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0137 | 00:15:56.180-00:15:58.070 | Seeker] But now",
+        "[u0138 | 00:15:58.480-00:16:00.489 | Seeker] there was"
+      ],
+      "cleanedContextBefore": [
+        "[u0134 | 00:15:40.180-00:15:44.849 | Delwath] Did you turn the music down a bit? Thank you",
+        "[u0135 | 00:15:46.220-00:15:48.170 | Seeker] there was. There was no hint of."
+      ],
+      "cleanedContextAfter": [
+        "[u0137 | 00:15:56.180-00:15:58.070 | Seeker] But now",
+        "[u0138 | 00:15:58.480-00:16:00.489 | Seeker] there was"
+      ],
+      "preparedSourceSpans": [
+        "It's not going, is there?"
+      ]
+    },
+    {
+      "uid": "u0160",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Meta joke about Tim encyclopedia; no lore effect.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0160 | 00:18:02.190-00:18:06.049 | Delwath] They have Tim's version of the toggers.",
+      "cleanedWording": "[u0160 | 00:18:02.190-00:18:06.049 | Delwath] They have Tim's version of the toggers.",
+      "preparedSourceContextBefore": [
+        "[u0158 | 00:17:50.270-00:17:51.919 | Delwath] That's a really good idea.",
+        "[u0159 | 00:17:52.450-00:18:01.160 | Seeker] Well, we don't know what they know. They seem to know a lot, though. What's they can search Wikipedia right? Like, yeah, they do have Telgar Pedia."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0161 | 00:18:06.880-00:18:08.750 | Seeker] N. Kiridian.",
+        "[u0162 | 00:18:09.760-00:18:12.050 | Seeker] the occult Aluden, is that your time up?"
+      ],
+      "cleanedContextBefore": [
+        "[u0158 | 00:17:50.270-00:17:51.919 | Delwath] That's a really good idea.",
+        "[u0159 | 00:17:52.450-00:18:01.160 | Seeker] Well, we don't know what they know. They seem to know a lot, though. What's they can search Wikipedia right? Like, yeah, they do have Taelgarpedia."
+      ],
+      "cleanedContextAfter": [
+        "[u0161 | 00:18:06.880-00:18:08.750 | Seeker] Enchiridion.",
+        "[u0162 | 00:18:09.760-00:18:12.050 | Seeker] the Occulta Ludum, is that what you're talking about?"
+      ],
+      "preparedSourceSpans": [
+        "toggers"
+      ]
+    },
+    {
+      "uid": "u0177",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Possible Wallace and Gromit joke; no narrative effect.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0177 | 00:19:10.040-00:19:11.510 | Kenzo] Oh, awesome. Grab it.",
+      "cleanedWording": "[u0177 | 00:19:10.040-00:19:11.510 | Kenzo] Oh, awesome. Grab it.",
+      "preparedSourceContextBefore": [
+        "[u0175 | 00:19:02.220-00:19:04.200 | Wellby] Okay.",
+        "[u0176 | 00:19:04.640-00:19:07.399 | Seeker] so magic stone pants, that's what I'm gonna get."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0178 | 00:19:11.640-00:19:13.080 | Seeker] Yeah, yeah.",
+        "[u0179 | 00:19:15.370-00:19:17.170 | Seeker] It goes really? Well, basically."
+      ],
+      "cleanedContextBefore": [
+        "[u0175 | 00:19:02.220-00:19:04.200 | Wellby] Okay.",
+        "[u0176 | 00:19:04.640-00:19:07.399 | Seeker] so magic stone pants, that's what I'm gonna get."
+      ],
+      "cleanedContextAfter": [
+        "[u0178 | 00:19:11.640-00:19:13.080 | Seeker] Yeah, yeah.",
+        "[u0179 | 00:19:15.370-00:19:17.170 | Seeker] It goes really? Well, basically."
+      ],
+      "preparedSourceSpans": [
+        "Grab it"
+      ]
+    },
+    {
+      "uid": "u0182",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "On that wrap is unusual phrasing in tour metaphor; no narrative effect.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0182 | 00:19:26.450-00:19:40.419 | Kenzo] See? I'm I'm getting on that wrap, too. I feel like I feel like we're going on tour. You know. I feel like we're like, we're like, you know, we're it's like sex drugs and rock and roll. Yeah, I mean, let's just like, let's just have a good time out there, you know.",
+      "cleanedWording": "[u0182 | 00:19:26.450-00:19:40.419 | Kenzo] See? I'm I'm getting on that wrap, too. I feel like I feel like we're going on tour. You know. I feel like we're like, we're like, you know, we're it's like sex drugs and rock and roll. Yeah, I mean, let's just like, let's just have a good time out there, you know.",
+      "preparedSourceContextBefore": [
+        "[u0180 | 00:19:17.420-00:19:20.169 | Seeker] yeah, it always goes. Well.",
+        "[u0181 | 00:19:20.790-00:19:25.950 | Wellby] I think our goal is to kill grush and then kill Fausto. Just have fun."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0183 | 00:19:41.490-00:19:45.510 | Delwath] Dallas feels certain obligation to",
+        "[u0184 | 00:19:46.270-00:20:05.619 | Delwath] letting getting rid of a poly on. I don't think we could abandon that quest, but taking out some lieutenants along the way is wise, and and Fausto, the human need for revenge and the halfling you lesser you other races. Sorry, Weser, that shouldn't have flipped out."
+      ],
+      "cleanedContextBefore": [
+        "[u0180 | 00:19:17.420-00:19:20.169 | Seeker] yeah, it always goes. Well.",
+        "[u0181 | 00:19:20.790-00:19:25.950 | Wellby] I think our goal is to kill Grash and then kill Fausto. Just have fun."
+      ],
+      "cleanedContextAfter": [
+        "[u0183 | 00:19:41.490-00:19:45.510 | Delwath] Delwath feels certain obligation to",
+        "[u0184 | 00:19:46.270-00:20:05.619 | Delwath] letting—getting rid of Apollyon. I don't think we could abandon that quest, but taking out some lieutenants along the way is wise, and and Fausto, the human need for revenge and the halfling you lesser you other races. Sorry, Lesser, that shouldn't have slipped out."
+      ],
+      "preparedSourceSpans": [
+        "on that wrap"
+      ]
+    },
+    {
+      "uid": "u0212",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear meta timing-lookup clause; explicit answer about 30 years ago remains clear.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0212 | 00:23:29.170-00:23:47.280 | DM] tried to queue tried to do the thing in the desert with the monks of Bishop there was a critical point. Where the Tim. When when did it have? Do we know when it happened when the when the when hit the handle up by timeline it was about. It was just about 30 years ago.",
+      "cleanedWording": "[u0212 | 00:23:29.170-00:23:47.280 | DM] tried to queue tried to do the thing in the desert with the monks of Bhishma there was a critical point. Where the Tim. When when did it have? Do we know when it happened when the when the when hit the handle up by timeline it was about. It was just about 30 years ago.",
+      "preparedSourceContextBefore": [
+        "[u0210 | 00:23:13.820-00:23:16.359 | Delwath] But",
+        "[u0211 | 00:23:16.940-00:23:28.890 | Delwath] When Shamut died Napoleon was freed briefly until er was going to be freed except Rice stopped it. and then it's his. The prison is cracking. Ever since Rye"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0213 | 00:23:48.810-00:23:49.570 | Kenzo] I don't.",
+        "[u0214 | 00:23:50.390-00:23:51.280 | Delwath] It's like"
+      ],
+      "cleanedContextBefore": [
+        "[u0210 | 00:23:13.820-00:23:16.359 | Delwath] But",
+        "[u0211 | 00:23:16.940-00:23:28.890 | Delwath] When Cha'mutte died Apollyon was freed briefly until er was going to be freed except Rai stopped it. and then it's his. The prison is cracking. Ever since Rai"
+      ],
+      "cleanedContextAfter": [
+        "[u0213 | 00:23:48.810-00:23:49.570 | Kenzo] I don't.",
+        "[u0214 | 00:23:50.390-00:23:51.280 | Delwath] It's like"
+      ],
+      "preparedSourceSpans": [
+        "when the when the when hit the handle up by timeline"
+      ]
+    },
+    {
+      "uid": "u0245",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear filler in joking contrast with partying; urgency and target explicit.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0245 | 00:27:43.290-00:27:56.099 | Kenzo] hill fasto. Probably gotta kill grosch sooner than later. Cause riswin, you know she's like, while we're partying and doing like so nominal, we should, you know, probably go and and you know, do that?",
+      "cleanedWording": "[u0245 | 00:27:43.290-00:27:56.099 | Kenzo] kill Fausto. Probably gotta kill Grash sooner than later. Cause Riswynn, you know she's like, while we're partying and doing like so nominal, we should, you know, probably go and and you know, do that?",
+      "preparedSourceContextBefore": [
+        "[u0243 | 00:27:30.870-00:27:33.690 | Delwath] Ryer Chimut would have done it.",
+        "[u0244 | 00:27:37.830-00:27:43.220 | Kenzo] So here's a question alright, so like in terms of like the to do list kilograms"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0246 | 00:27:57.120-00:28:14.490 | Kenzo] We shouldn't tell her very much about the giant party we threw, or yeah, we shouldn't, because we just how we urgently rush over as soon as we decide the scepter without with with, you know.",
+        "[u0247 | 00:28:14.830-00:28:18.920 | Seeker] no dilly dallying it whatsoever, just straight to her."
+      ],
+      "cleanedContextBefore": [
+        "[u0243 | 00:27:30.870-00:27:33.690 | Delwath] Rai or Cha'mutte would have done it.",
+        "[u0244 | 00:27:37.830-00:27:43.220 | Kenzo] So here's a question alright, so like in terms of like the to do list kill Grash"
+      ],
+      "cleanedContextAfter": [
+        "[u0246 | 00:27:57.120-00:28:14.490 | Kenzo] We shouldn't tell her very much about the giant party we threw, or yeah, we shouldn't, because we just how we urgently rush over as soon as we decide the scepter without with with, you know.",
+        "[u0247 | 00:28:14.830-00:28:18.920 | Seeker] no dilly dallying it whatsoever, just straight to her."
+      ],
+      "preparedSourceSpans": [
+        "so nominal"
+      ]
+    },
+    {
+      "uid": "u0246",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear scepter verb in table joke about urgently returning; not a new action.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0246 | 00:27:57.120-00:28:14.490 | Kenzo] We shouldn't tell her very much about the giant party we threw, or yeah, we shouldn't, because we just how we urgently rush over as soon as we decide the scepter without with with, you know.",
+      "cleanedWording": "[u0246 | 00:27:57.120-00:28:14.490 | Kenzo] We shouldn't tell her very much about the giant party we threw, or yeah, we shouldn't, because we just how we urgently rush over as soon as we decide the scepter without with with, you know.",
+      "preparedSourceContextBefore": [
+        "[u0244 | 00:27:37.830-00:27:43.220 | Kenzo] So here's a question alright, so like in terms of like the to do list kilograms",
+        "[u0245 | 00:27:43.290-00:27:56.099 | Kenzo] hill fasto. Probably gotta kill grosch sooner than later. Cause riswin, you know she's like, while we're partying and doing like so nominal, we should, you know, probably go and and you know, do that?"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0247 | 00:28:14.830-00:28:18.920 | Seeker] no dilly dallying it whatsoever, just straight to her.",
+        "[u0248 | 00:28:20.510-00:28:34.100 | Kenzo] But then we do. We? We need to get these pieces of rye right feels like in order for us to like complete the main ultimate inquest, don't we need to get? I think that is a reasonably good thing to focus on"
+      ],
+      "cleanedContextBefore": [
+        "[u0244 | 00:27:37.830-00:27:43.220 | Kenzo] So here's a question alright, so like in terms of like the to do list kill Grash",
+        "[u0245 | 00:27:43.290-00:27:56.099 | Kenzo] kill Fausto. Probably gotta kill Grash sooner than later. Cause Riswynn, you know she's like, while we're partying and doing like so nominal, we should, you know, probably go and and you know, do that?"
+      ],
+      "cleanedContextAfter": [
+        "[u0247 | 00:28:14.830-00:28:18.920 | Seeker] no dilly dallying it whatsoever, just straight to her.",
+        "[u0248 | 00:28:20.510-00:28:34.100 | Kenzo] But then we do. We? We need to get these pieces of Rai right feels like in order for us to like complete the main ultimate quest, don't we need to get? I think that is a reasonably good thing to focus on"
+      ],
+      "preparedSourceSpans": [
+        "decide the scepter"
+      ]
+    },
+    {
+      "uid": "u0291",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Garbled opening restart before clear island-location question.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0291 | 00:32:48.850-00:33:03.060 | Seeker] alright ours. We have to rise hand. Wait, Tim, don't we know the location of the Circle Island? It's like it's like in the sea, like kinda west of",
+      "cleanedWording": "[u0291 | 00:32:48.850-00:33:03.060 | Seeker] alright ours. We have to Rai's hand. Wait, Tim, don't we know the location of the Circle Island? It's like it's like in the sea, like kinda west of",
+      "preparedSourceContextBefore": [
+        "[u0289 | 00:32:40.900-00:32:43.859 | Delwath] I mean, we could also ask about",
+        "[u0290 | 00:32:44.180-00:32:48.770 | Delwath] rise Hand. They might know something about it. We should totally ask about rise hand"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0292 | 00:33:03.680-00:33:14.049 | Delwath] the whole concept of secret knowledge about Ryan, his familiar, his hand. What was he doing before it got destroyed? All the secret knowledge there is about Ryan?",
+        "[u0293 | 00:33:14.430-00:33:16.190 | Seeker] But the first one is"
+      ],
+      "cleanedContextBefore": [
+        "[u0289 | 00:32:40.900-00:32:43.859 | Delwath] I mean, we could also ask about",
+        "[u0290 | 00:32:44.180-00:32:48.770 | Delwath] Rai's hand. They might know something about it. We should totally ask about Rai's hand"
+      ],
+      "cleanedContextAfter": [
+        "[u0292 | 00:33:03.680-00:33:14.049 | Delwath] the whole concept of secret knowledge about Rai, his familiar, his hand. What was he doing before it got destroyed? All the secret knowledge there is about Rai?",
+        "[u0293 | 00:33:14.430-00:33:16.190 | Seeker] But the first one is"
+      ],
+      "preparedSourceSpans": [
+        "alright ours. We have to"
+      ]
+    },
+    {
+      "uid": "u0310",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Initial St fragment is an incidental false start before background comparison.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0310 | 00:35:10.640-00:35:16.819 | DM] St sort of actually like this background I've been using for toll and docs. Right?",
+      "cleanedWording": "[u0310 | 00:35:10.640-00:35:16.819 | DM] St sort of actually like this background I've been using for Tollen docks. Right?",
+      "preparedSourceContextBefore": [
+        "[u0308 | 00:34:49.780-00:35:05.870 | DM] part of the city, the step block. It's now. It's now like where the lumber yards and shipbuilding is, and you know, sailors, taverns, and busy streets.",
+        "[u0309 | 00:35:06.250-00:35:08.480 | DM] It's this"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0311 | 00:35:17.310-00:35:19.160 | DM] and it's",
+        "[u0312 | 00:35:20.080-00:35:30.680 | DM] quite out of place like you, you know, you get directions, and you you come to this sort of minor plaza in Get block surrounded by you know this. These"
+      ],
+      "cleanedContextBefore": [
+        "[u0308 | 00:34:49.780-00:35:05.870 | DM] part of the city, the Skepwalk. It's now. It's now like where the lumber yards and shipbuilding is, and you know, sailors, taverns, and busy streets.",
+        "[u0309 | 00:35:06.250-00:35:08.480 | DM] It's this"
+      ],
+      "cleanedContextAfter": [
+        "[u0311 | 00:35:17.310-00:35:19.160 | DM] and it's",
+        "[u0312 | 00:35:20.080-00:35:30.680 | DM] quite out of place like you, you know, you get directions, and you you come to this sort of minor plaza in Skepwalk surrounded by you know this. These"
+      ],
+      "preparedSourceSpans": [
+        "St"
+      ]
+    },
+    {
+      "uid": "u0387",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Brief incidental interjection.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0387 | 00:44:01.670-00:44:02.500 | Seeker] who",
+      "cleanedWording": "[u0387 | 00:44:01.670-00:44:02.500 | Seeker] who",
+      "preparedSourceContextBefore": [
+        "[u0385 | 00:43:54.370-00:43:55.350 | DM] Hmm!",
+        "[u0386 | 00:43:56.530-00:44:01.559 | DM] If you seek an instruction manual. You may be disappointed"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0388 | 00:44:06.910-00:44:10.720 | Seeker] seeker, looks around. digs deep into a pocket.",
+        "[u0389 | 00:44:12.220-00:44:13.859 | Seeker] What about these?"
+      ],
+      "cleanedContextBefore": [
+        "[u0385 | 00:43:54.370-00:43:55.350 | DM] Hmm!",
+        "[u0386 | 00:43:56.530-00:44:01.559 | DM] If you seek an instruction manual. You may be disappointed"
+      ],
+      "cleanedContextAfter": [
+        "[u0388 | 00:44:06.910-00:44:10.720 | Seeker] Seeker, looks around. digs deep into a pocket.",
+        "[u0389 | 00:44:12.220-00:44:13.859 | Seeker] What about these?"
+      ],
+      "preparedSourceSpans": [
+        "who"
+      ]
+    },
+    {
+      "uid": "u0407",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear address immediately before mace suggestion; selection is explicit in u0413.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0407 | 00:45:55.650-00:45:56.700 | Seeker] Ellis",
+      "cleanedWording": "[u0407 | 00:45:55.650-00:45:56.700 | Seeker] Ellis",
+      "preparedSourceContextBefore": [
+        "[u0405 | 00:45:47.350-00:45:48.310 | Seeker] concern.",
+        "[u0406 | 00:45:51.300-00:45:53.710 | DM] What would you offer for this knowledge."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0408 | 00:45:58.880-00:45:59.800 | Seeker] Mace?",
+        "[u0409 | 00:46:00.610-00:46:11.529 | Kenzo] Metagame? Should we perhaps ask about the thing we like the the the most crazy secret first like. Ask for the rise stuff first, and then see if he'll give us the mace."
+      ],
+      "cleanedContextBefore": [
+        "[u0405 | 00:45:47.350-00:45:48.310 | Seeker] concern.",
+        "[u0406 | 00:45:51.300-00:45:53.710 | DM] What would you offer for this knowledge."
+      ],
+      "cleanedContextAfter": [
+        "[u0408 | 00:45:58.880-00:45:59.800 | Seeker] Mace?",
+        "[u0409 | 00:46:00.610-00:46:11.529 | Kenzo] Metagame? Should we perhaps ask about the thing we like the the the most crazy secret first like. Ask for the Rai's stuff first, and then see if he'll [[give us the mace]]."
+      ],
+      "preparedSourceSpans": [
+        "Ellis"
+      ]
+    },
+    {
+      "uid": "u0428",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Stray number amid narrative action.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0428 | 00:47:48.850-00:47:50.300 | Unknown] 3,",
+      "cleanedWording": "[u0428 | 00:47:48.850-00:47:50.300 | Unknown] 3,",
+      "preparedSourceContextBefore": [
+        "[u0426 | 00:47:41.930-00:47:43.839 | DM] but I will tell you their lore.",
+        "[u0427 | 00:47:45.050-00:47:47.850 | DM] I mean takes the mace"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0429 | 00:47:50.340-00:47:58.089 | DM] and he like sort of holds it up, and it kind of you vaguely think you see like a",
+        "[u0430 | 00:47:58.300-00:48:15.249 | DM] another person in a white robe sort of drift by, and the maze vanishes. And he he takes this scroll out, that's, you know, around his waist, and he unrolls that."
+      ],
+      "cleanedContextBefore": [
+        "[u0426 | 00:47:41.930-00:47:43.839 | DM] but I will tell you their lore.",
+        "[u0427 | 00:47:45.050-00:47:47.850 | DM] And he takes the mace"
+      ],
+      "cleanedContextAfter": [
+        "[u0429 | 00:47:50.340-00:47:58.089 | DM] and he like sort of holds it up, and it kind of you vaguely think you see like a",
+        "[u0430 | 00:47:58.300-00:48:15.249 | DM] another person in a white robe sort of drift by, and the mace vanishes. And he he takes this scroll out, that's, you know, around his waist, and he unrolls that."
+      ],
+      "preparedSourceSpans": [
+        "3,"
+      ]
+    },
+    {
+      "uid": "u0462",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Cross-talk reaction during spell description.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0462 | 00:51:16.430-00:51:17.560 | Unknown] auxiliary.",
+      "cleanedWording": "[u0462 | 00:51:16.430-00:51:17.560 | Unknown] auxiliary.",
+      "preparedSourceContextBefore": [
+        "[u0460 | 00:51:03.540-00:51:04.470 | Unknown] okay.",
+        "[u0461 | 00:51:06.070-00:51:13.929 | DM] they can force the creature into a slumber that cannot be broken"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0463 | 00:51:18.030-00:51:24.209 | DM] or they can in tune the creature far beneath the earth.",
+        "[u0464 | 00:51:24.510-00:51:28.880 | DM] in a impenetrable sphere"
+      ],
+      "cleanedContextBefore": [
+        "[u0460 | 00:51:03.540-00:51:04.470 | Unknown] okay.",
+        "[u0461 | 00:51:06.070-00:51:13.929 | DM] they can force the creature into a slumber that cannot be broken"
+      ],
+      "cleanedContextAfter": [
+        "[u0463 | 00:51:18.030-00:51:24.209 | DM] or they can entomb the creature far beneath the earth.",
+        "[u0464 | 00:51:24.510-00:51:28.880 | DM] in an impenetrable sphere"
+      ],
+      "preparedSourceSpans": [
+        "auxiliary."
+      ]
+    },
+    {
+      "uid": "u0561",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear interjection before another speaker responds.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0561 | 00:59:52.780-00:59:54.090 | DM] me.",
+      "cleanedWording": "[u0561 | 00:59:52.780-00:59:54.090 | DM] me.",
+      "preparedSourceContextBefore": [
+        "[u0559 | 00:59:40.580-00:59:44.610 | Delwath] have you held any of the pieces of raids, rise hands.",
+        "[u0560 | 00:59:47.690-00:59:50.190 | Delwath] and seen his visions"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0562 | 00:59:57.060-01:00:04.229 | Delwath] I am less interested in experiencing these terrorists.",
+        "[u0563 | 01:00:06.260-01:00:10.720 | DM] I would not wish to encounter in Polyon, in the dream world that seems"
+      ],
+      "cleanedContextBefore": [
+        "[u0559 | 00:59:40.580-00:59:44.610 | Delwath] have you held any of the pieces of Rai's, Rai's hand.",
+        "[u0560 | 00:59:47.690-00:59:50.190 | Delwath] and seen his visions"
+      ],
+      "cleanedContextAfter": [
+        "[u0562 | 00:59:57.060-01:00:04.229 | Delwath] I am less interested in experiencing these terrors.",
+        "[u0563 | 01:00:06.260-01:00:10.720 | DM] I would not wish to encounter Apollyon, in the dream world that seems"
+      ],
+      "preparedSourceSpans": [
+        "me."
+      ]
+    },
+    {
+      "uid": "u0617",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Interrupted illustrative reply; no lost instruction.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0617 | 01:05:25.490-01:05:30.860 | Delwath] like they're not gonna tell us how we fix it right? They're not gonna be like, Oh, well, you rep. But they might explain how it works.",
+      "cleanedWording": "[u0617 | 01:05:25.490-01:05:30.860 | Delwath] like they're not gonna tell us how we fix it right? They're not gonna be like, Oh, well, you rep. But they might explain how it works.",
+      "preparedSourceContextBefore": [
+        "[u0615 | 01:05:12.960-01:05:14.150 | Delwath] since",
+        "[u0616 | 01:05:14.670-01:05:25.230 | Delwath] between the the the end of the great War? And now? And how was he keeping a poly on. Of course, I think learning about how he was doing it. It's probably our best bet."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0618 | 01:05:32.780-01:05:37.710 | Delwath] That's only that's only 2 things right. And then we'll reserve",
+        "[u0619 | 01:05:39.300-01:05:41.789 | Delwath] possibilities for more questions. If we have followed."
+      ],
+      "cleanedContextBefore": [
+        "[u0615 | 01:05:12.960-01:05:14.150 | Delwath] since",
+        "[u0616 | 01:05:14.670-01:05:25.230 | Delwath] between the the the end of the great War? And now? And how was he keeping Apollyon. Of course, I think learning about how he was doing it. It's probably our best bet."
+      ],
+      "cleanedContextAfter": [
+        "[u0618 | 01:05:32.780-01:05:37.710 | Delwath] That's only that's only 2 things right. And then we'll reserve",
+        "[u0619 | 01:05:39.300-01:05:41.789 | Delwath] possibilities for more questions. If we have follow-ups."
+      ],
+      "preparedSourceSpans": [
+        "you rep"
+      ]
+    },
+    {
+      "uid": "u0622",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear short agreement after optional Mashtu topic, not an independently identified entity.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0622 | 01:05:48.550-01:05:49.470 | Delwath] ashtrive.",
+      "cleanedWording": "[u0622 | 01:05:48.550-01:05:49.470 | Delwath] ashtrive.",
+      "preparedSourceContextBefore": [
+        "[u0620 | 01:05:43.070-01:05:45.009 | Delwath] and then we can ask about match 2 as well.",
+        "[u0621 | 01:05:46.510-01:05:48.419 | Seeker] It doesn't seem that important actually"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0623 | 01:05:49.610-01:05:53.190 | Seeker] Yeah, kind of a local concern.",
+        "[u0624 | 01:05:54.630-01:05:57.600 | Delwath] But you know there's all these fun places to go"
+      ],
+      "cleanedContextBefore": [
+        "[u0620 | 01:05:43.070-01:05:45.009 | Delwath] and then we can ask about Mashtu as well.",
+        "[u0621 | 01:05:46.510-01:05:48.419 | Seeker] It doesn't seem that important actually"
+      ],
+      "cleanedContextAfter": [
+        "[u0623 | 01:05:49.610-01:05:53.190 | Seeker] Yeah, kind of a local concern.",
+        "[u0624 | 01:05:54.630-01:05:57.600 | Delwath] But you know there's all these fun places to go"
+      ],
+      "preparedSourceSpans": [
+        "ashtrive."
+      ]
+    },
+    {
+      "uid": "u0663",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Trailing unclear word after intelligible sentient-ocean description.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0663 | 01:09:02.390-01:09:06.709 | Delwath] said to have a mind of its own Guido",
+      "cleanedWording": "[u0663 | 01:09:02.390-01:09:06.709 | Delwath] said to have a mind of its own Guido",
+      "preparedSourceContextBefore": [
+        "[u0661 | 01:08:47.240-01:08:52.420 | DM] murfolk, but also other creatures of the sea. And even",
+        "[u0662 | 01:08:53.510-01:09:01.469 | DM] so, the rumor says, although should you wish to learn more. It would be expensive. the ocean itself"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0664 | 01:09:08.390-01:09:10.210 | Kenzo] fancy and ocean.",
+        "[u0665 | 01:09:11.450-01:09:12.550 | DM] but that"
+      ],
+      "cleanedContextBefore": [
+        "[u0661 | 01:08:47.240-01:08:52.420 | DM] merfolk, but also other creatures of the sea. And even",
+        "[u0662 | 01:08:53.510-01:09:01.469 | DM] so, the rumor says, although should you wish to learn more. It would be expensive. the ocean itself"
+      ],
+      "cleanedContextAfter": [
+        "[u0664 | 01:09:08.390-01:09:10.210 | Kenzo] Sentient ocean.",
+        "[u0665 | 01:09:11.450-01:09:12.550 | DM] but that"
+      ],
+      "preparedSourceSpans": [
+        "Guido"
+      ]
+    },
+    {
+      "uid": "u0782",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Interrupted connective before DM answers.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0782 | 01:20:46.440-01:20:48.830 | DM] He's our, I mean.",
+      "cleanedWording": "[u0782 | 01:20:46.440-01:20:48.830 | DM] He's our, I mean.",
+      "preparedSourceContextBefore": [
+        "[u0780 | 01:20:30.190-01:20:32.180 | DM] soul jar somewhere where",
+        "[u0781 | 01:20:32.630-01:20:44.950 | Kenzo] that he can return to, and he cannot be destroyed until he cannot be destroyed until that is destroyed. Right is it also like if he gets reunited with it, or like even for Super Fox."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0783 | 01:20:49.180-01:20:56.640 | DM] that's why he's getting stronger, right? He wasn't renated with it 30 years ago. He just was really weak because",
+        "[u0784 | 01:20:57.280-01:21:03.460 | DM] he had been traps unable to access it for"
+      ],
+      "cleanedContextBefore": [
+        "[u0780 | 01:20:30.190-01:20:32.180 | DM] soul jar somewhere where",
+        "[u0781 | 01:20:32.630-01:20:44.950 | Kenzo] that he can return to, and he cannot be destroyed until he cannot be destroyed until that is destroyed. Right is it also like if he gets reunited with it, or like [[even for Super Fox]]."
+      ],
+      "cleanedContextAfter": [
+        "[u0783 | 01:20:49.180-01:20:56.640 | DM] that's why he's getting stronger, right? [[He wasn't renated with it]] 30 years ago. He just was really weak because",
+        "[u0784 | 01:20:57.280-01:21:03.460 | DM] he had been trapped unable to access it for"
+      ],
+      "preparedSourceSpans": [
+        "He's our"
+      ]
+    },
+    {
+      "uid": "u0820",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear aside praising the PC; no effect on the quest.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0820 | 01:24:41.730-01:24:42.950 | Delwath] Sarah brilliant.",
+      "cleanedWording": "[u0820 | 01:24:41.730-01:24:42.950 | Delwath] Sarah brilliant.",
+      "preparedSourceContextBefore": [
+        "[u0818 | 01:24:21.230-01:24:24.120 | Delwath] give Rya's hand back he can do something cool.",
+        "[u0819 | 01:24:24.390-01:24:41.370 | Kenzo] right."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0821 | 01:24:43.070-01:24:57.710 | DM] totally brilliant player character. You would have finished this campaign in like a week we have shown the pieces of ride to the mirror.",
+        "[u0822 | 01:24:58.030-01:25:11.770 | Delwath] but each piece"
+      ],
+      "cleanedContextBefore": [
+        "[u0818 | 01:24:21.230-01:24:24.120 | Delwath] give Rai his hand back he can do something cool.",
+        "[u0819 | 01:24:24.390-01:24:41.370 | Kenzo] right."
+      ],
+      "cleanedContextAfter": [
+        "[u0821 | 01:24:43.070-01:24:57.710 | DM] totally brilliant player character. You would have finished this campaign in like a week we have shown the pieces of Rai to the mirror.",
+        "[u0822 | 01:24:58.030-01:25:11.770 | Delwath] but each piece"
+      ],
+      "preparedSourceSpans": [
+        "Sarah brilliant"
+      ]
+    },
+    {
+      "uid": "u0830",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Garbled joking interjection after travel planning.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0830 | 01:25:56.720-01:25:58.550 | Seeker] and go drinks all done.",
+      "cleanedWording": "[u0830 | 01:25:56.720-01:25:58.550 | Seeker] and go drinks all done.",
+      "preparedSourceContextBefore": [
+        "[u0828 | 01:25:44.620-01:25:53.400 | Delwath] the other information the philosophers go give us that takes a while right, and then go up to Ersk, and then the jungle, and then back here.",
+        "[u0829 | 01:25:54.950-01:25:56.610 | Delwath] and then we'll go from there"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0831 | 01:25:58.830-01:26:09.099 | DM] or you could just use the binding stance to bind to poly on. No, but he can cast lines over the snow. Magic. That's right.",
+        "[u0832 | 01:26:09.380-01:26:16.659 | Delwath] I mean, I assume he's at 18 level mage 70, wizard"
+      ],
+      "cleanedContextBefore": [
+        "[u0828 | 01:25:44.620-01:25:53.400 | Delwath] the other information the philosophers will give us that takes a while right, and then go up to Ursk, and then the jungle, and then back here.",
+        "[u0829 | 01:25:54.950-01:25:56.610 | Delwath] and then we'll go from there"
+      ],
+      "cleanedContextAfter": [
+        "[u0831 | 01:25:58.830-01:26:09.099 | DM] or you could just use the binding stones to bind Apollyon. No, but he can cast ninth-level Dispel Magic. That's right.",
+        "[u0832 | 01:26:09.380-01:26:16.659 | Delwath] I mean, I assume he's at 18th-level mage, [[70]], wizard"
+      ],
+      "preparedSourceSpans": [
+        "and go drinks all done."
+      ]
+    },
+    {
+      "uid": "u0846",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear incidental reaction on surveying guildhall.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0846 | 01:27:43.440-01:27:50.270 | Seeker] Tikrit looks around. This is sad. strange people. Strange place! It's hard to",
+      "cleanedWording": "[u0846 | 01:27:43.440-01:27:50.270 | Seeker] Seeker looks around. This is sad. strange people. Strange place! It's hard to",
+      "preparedSourceContextBefore": [
+        "[u0844 | 01:27:18.420-01:27:41.029 | Kenzo] That's true. The the main quest is clarified right well, except that when we come back here I want to go deal with match. I want to go find all match to things we we could. We have a",
+        "[u0845 | 01:27:41.150-01:27:43.310 | Delwath] other items we could totally give."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0847 | 01:27:52.030-01:27:54.960 | Seeker] It's disorienting other people?",
+        "[u0848 | 01:27:56.470-01:27:58.690 | Seeker] Are they watching? Are they listening? Are they not?"
+      ],
+      "cleanedContextBefore": [
+        "[u0844 | 01:27:18.420-01:27:41.029 | Kenzo] That's true. The the main quest is clarified right well, except that when we come back here I want to go deal with Mashtu. I want to go find all Mashtu things we we could. We have a",
+        "[u0845 | 01:27:41.150-01:27:43.310 | Delwath] other items we could totally give."
+      ],
+      "cleanedContextAfter": [
+        "[u0847 | 01:27:52.030-01:27:54.960 | Seeker] It's disorienting other people?",
+        "[u0848 | 01:27:56.470-01:27:58.690 | Seeker] Are they watching? Are they listening? Are they not?"
+      ],
+      "preparedSourceSpans": [
+        "This is sad."
+      ]
+    },
+    {
+      "uid": "u0847",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Disfluent privacy question; other people and room privacy established in adjacent units.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0847 | 01:27:52.030-01:27:54.960 | Seeker] It's disorienting other people?",
+      "cleanedWording": "[u0847 | 01:27:52.030-01:27:54.960 | Seeker] It's disorienting other people?",
+      "preparedSourceContextBefore": [
+        "[u0845 | 01:27:41.150-01:27:43.310 | Delwath] other items we could totally give.",
+        "[u0846 | 01:27:43.440-01:27:50.270 | Seeker] Tikrit looks around. This is sad. strange people. Strange place! It's hard to"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0848 | 01:27:56.470-01:27:58.690 | Seeker] Are they watching? Are they listening? Are they not?",
+        "[u0849 | 01:27:59.140-01:28:01.110 | Seeker] Are we truly private? Here?"
+      ],
+      "cleanedContextBefore": [
+        "[u0845 | 01:27:41.150-01:27:43.310 | Delwath] other items we could totally give.",
+        "[u0846 | 01:27:43.440-01:27:50.270 | Seeker] Seeker looks around. This is sad. strange people. Strange place! It's hard to"
+      ],
+      "cleanedContextAfter": [
+        "[u0848 | 01:27:56.470-01:27:58.690 | Seeker] Are they watching? Are they listening? Are they not?",
+        "[u0849 | 01:27:59.140-01:28:01.110 | Seeker] Are we truly private? Here?"
+      ],
+      "preparedSourceSpans": [
+        "It's disorienting other people?"
+      ]
+    },
+    {
+      "uid": "u0895",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unfinished reminiscence about floating disk; present disposition clear.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0895 | 01:31:55.850-01:32:05.550 | Delwath] true. Use it once it was critical for getting. But at this point we're powerful enough that it may not be you could offer that up.",
+      "cleanedWording": "[u0895 | 01:31:55.850-01:32:05.550 | Delwath] true. Use it once it was critical for getting. But at this point we're powerful enough that it may not be you could offer that up.",
+      "preparedSourceContextBefore": [
+        "[u0893 | 01:31:50.170-01:31:52.659 | Delwath] I mean, you could always give up your floating disk.",
+        "[u0894 | 01:31:53.440-01:31:55.769 | Seeker] and we've never used it. Basically"
+      ],
+      "preparedSourceContextAfter": [
+        "[u0896 | 01:32:05.930-01:32:11.290 | Delwath] It's your seekers. It's seekers history you're after.",
+        "[u0897 | 01:32:13.220-01:32:18.549 | Delwath] and the out chemical tea kettle is funny, but has never been useful for anything I don't think."
+      ],
+      "cleanedContextBefore": [
+        "[u0893 | 01:31:50.170-01:31:52.659 | Delwath] I mean, you could always give up your floating disk.",
+        "[u0894 | 01:31:53.440-01:31:55.769 | Seeker] and we've never used it. Basically"
+      ],
+      "cleanedContextAfter": [
+        "[u0896 | 01:32:05.930-01:32:11.290 | Delwath] It's your Seeker's. It's Seeker's history you're after.",
+        "[u0897 | 01:32:13.220-01:32:18.549 | Delwath] and the alchemical tea kettle is funny, but has never been useful for anything I don't think."
+      ],
+      "preparedSourceSpans": [
+        "Use it once it was critical for getting."
+      ]
+    },
+    {
+      "uid": "u0931",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Garbled recommendation to give coin; already offered explicitly in u0903, outcome explicit in u0932.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0931 | 01:35:23.230-01:35:30.430 | Delwath] He didn't say he would tell you nothing for the just go for the foot and give him the coin.",
+      "cleanedWording": "[u0931 | 01:35:23.230-01:35:30.430 | Delwath] He didn't say he would tell you nothing for the just go for the foot and give him the coin.",
+      "preparedSourceContextBefore": [
+        "[u0929 | 01:35:13.150-01:35:15.880 | Seeker] we want to know things.",
+        "[u0930 | 01:35:21.890-01:35:22.990 | DM] I mean."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0932 | 01:35:38.460-01:35:47.560 | DM] Okay? So he says. you know, again, he'll need to investigate. What he can tell you is, Frank are definitely alive somewhere.",
+        "[u0933 | 01:35:47.610-01:35:49.340 | DM] Anonymous land"
+      ],
+      "cleanedContextBefore": [
+        "[u0929 | 01:35:13.150-01:35:15.880 | Seeker] we want to know things.",
+        "[u0930 | 01:35:21.890-01:35:22.990 | DM] I mean."
+      ],
+      "cleanedContextAfter": [
+        "[u0932 | 01:35:38.460-01:35:47.560 | DM] Okay? So he says. you know, again, he'll need to investigate. What he can tell you is, Frankar is definitely alive somewhere.",
+        "[u0933 | 01:35:47.610-01:35:49.340 | DM] [[Anonymous land]]"
+      ],
+      "preparedSourceSpans": [
+        "for the just go for the foot"
+      ]
+    },
+    {
+      "uid": "u0967",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unfinished transition before guest looks around.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u0967 | 01:38:35.990-01:38:42.730 | DM] They're both quite interested in the in the sky shift, and you know, Melinda. have it",
+      "cleanedWording": "[u0967 | 01:38:35.990-01:38:42.730 | DM] They're both quite interested in the in the skyship, and you know, Melindir. have it",
+      "preparedSourceContextBefore": [
+        "[u0965 | 01:38:17.390-01:38:28.989 | DM] So they both come in. She's she's a painter, and she's wearing this like very sort of elegantly colored robes, a cloak.",
+        "[u0966 | 01:38:29.060-01:38:35.679 | DM] the quote toss, toss back with this very intricate sort of painted silk design."
+      ],
+      "preparedSourceContextAfter": [
+        "[u0968 | 01:38:43.760-01:38:52.259 | DM] looks around a bit and kind of you know they both settle in, make small talk that sort of thing.",
+        "[u0969 | 01:38:52.670-01:38:56.479 | DM] The the woman's name is Elvis."
+      ],
+      "cleanedContextBefore": [
+        "[u0965 | 01:38:17.390-01:38:28.989 | DM] So they both come in. She's she's a painter, and she's wearing this like very sort of elegantly colored robes, a cloak.",
+        "[u0966 | 01:38:29.060-01:38:35.679 | DM] the cloak tossed, tossed back with this very intricate sort of painted silk design."
+      ],
+      "cleanedContextAfter": [
+        "[u0968 | 01:38:43.760-01:38:52.259 | DM] looks around a bit and kind of you know they both settle in, make small talk that sort of thing.",
+        "[u0969 | 01:38:52.670-01:38:56.479 | DM] The the woman's name is Elwis."
+      ],
+      "preparedSourceSpans": [
+        "have it"
+      ]
+    },
+    {
+      "uid": "u1084",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Cross-talk before clear intention to travel.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1084 | 01:48:59.660-01:49:01.349 | Delwath] It's been you should go.",
+      "cleanedWording": "[u1084 | 01:48:59.660-01:49:01.349 | Delwath] It's been you should go.",
+      "preparedSourceContextBefore": [
+        "[u1082 | 01:48:52.210-01:48:53.390 | Delwath] my",
+        "[u1083 | 01:48:56.840-01:48:57.790 | Delwath] people."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1085 | 01:49:07.760-01:49:09.220 | Delwath] I intend to.",
+        "[u1086 | 01:49:15.550-01:49:16.899 | Delwath] How'd you like the food?"
+      ],
+      "cleanedContextBefore": [
+        "[u1082 | 01:48:52.210-01:48:53.390 | Delwath] my",
+        "[u1083 | 01:48:56.840-01:48:57.790 | Delwath] people."
+      ],
+      "cleanedContextAfter": [
+        "[u1085 | 01:49:07.760-01:49:09.220 | Delwath] I intend to.",
+        "[u1086 | 01:49:15.550-01:49:16.899 | Delwath] How'd you like the food?"
+      ],
+      "preparedSourceSpans": [
+        "It's been you should go."
+      ]
+    },
+    {
+      "uid": "u1089",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Food-tasting sentence fragment.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1089 | 01:49:27.240-01:49:28.469 | DM] flavor this?",
+      "cleanedWording": "[u1089 | 01:49:27.240-01:49:28.469 | DM] flavor this?",
+      "preparedSourceContextBefore": [
+        "[u1087 | 01:49:20.190-01:49:21.989 | DM] It was quite interesting",
+        "[u1088 | 01:49:23.370-01:49:25.560 | DM] cannot place that"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1090 | 01:49:30.210-01:49:33.430 | DM] Not from the green sea? Maybe.",
+        "[u1091 | 01:49:35.420-01:49:37.009 | DM] So. Western dish."
+      ],
+      "cleanedContextBefore": [
+        "[u1087 | 01:49:20.190-01:49:21.989 | DM] It was quite interesting",
+        "[u1088 | 01:49:23.370-01:49:25.560 | DM] cannot place that"
+      ],
+      "cleanedContextAfter": [
+        "[u1090 | 01:49:30.210-01:49:33.430 | DM] Not from the green sea? Maybe.",
+        "[u1091 | 01:49:35.420-01:49:37.009 | DM] So. Western dish."
+      ],
+      "preparedSourceSpans": [
+        "flavor this?"
+      ]
+    },
+    {
+      "uid": "u1180",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Banter about protecting Baxter; interrupted name/address remains incidental.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1180 | 01:57:38.720-01:57:45.789 | Kenzo] Schwartz, I'll make sure that that we don't sell Baxter. I know that seeker. And well, I'll be here. What they're gonna want to do. But I'm gonna I'll protect Baxter. Don't worry.",
+      "cleanedWording": "[u1180 | 01:57:38.720-01:57:45.789 | Kenzo] Schwartz, I'll make sure that that we don't sell Baxter. I know that Seeker. And well, I'll be here. What they're gonna want to do. But I'm gonna I'll protect Baxter. Don't worry.",
+      "preparedSourceContextBefore": [
+        "[u1178 | 01:57:22.410-01:57:25.560 | DM] So people want like a 5 min break. Now",
+        "[u1179 | 01:57:26.140-01:57:38.490 | Wellby] I gotta call it here and go to bed. I think I can find myself fading, but enjoy. Do the things, find out all the secrets, and then, you know, catch me up on the next. Yep."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1181 | 01:57:46.310-01:57:50.959 | Wellby] Good. Excellent. Thank you. Good night. Feel better.",
+        "[u1182 | 01:57:53.800-01:57:57.879 | DM] Would do you want to just keep going? Or do you want to take a break? What do people want to do"
+      ],
+      "cleanedContextBefore": [
+        "[u1178 | 01:57:22.410-01:57:25.560 | DM] So people want like a 5 min break. Now",
+        "[u1179 | 01:57:26.140-01:57:38.490 | Wellby] I gotta call it here and go to bed. I think I can feel myself fading, but enjoy. Do the things, find out all the secrets, and then, you know, catch me up on the next. Yep."
+      ],
+      "cleanedContextAfter": [
+        "[u1181 | 01:57:46.310-01:57:50.959 | Wellby] Good. Excellent. Thank you. Good night. Feel better.",
+        "[u1182 | 01:57:53.800-01:57:57.879 | DM] Would do you want to just keep going? Or do you want to take a break? What do people want to do"
+      ],
+      "preparedSourceSpans": [
+        "And well, I'll be here. What they're gonna want to do."
+      ]
+    },
+    {
+      "uid": "u1186",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Incidental transition after clear ladder fetch instruction.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1186 | 01:58:27.110-01:58:28.410 | DM] That's pretty Eve",
+      "cleanedWording": "[u1186 | 01:58:27.110-01:58:28.410 | DM] That's pretty Eve",
+      "preparedSourceContextBefore": [
+        "[u1184 | 01:58:07.560-01:58:19.249 | Delwath] I mean, I'm yeah. II have like 45 min left or an hour left in me. So I'd rather just keep going. Okay, so you sleep. You go to sleep the next morning.",
+        "[u1185 | 01:58:19.790-01:58:26.839 | DM] Seeker you had promised you were. Gonna send the ladder to fetch Fuldrich."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1187 | 01:58:28.580-01:58:31.449 | Seeker] to take him back to us.",
+        "[u1188 | 01:58:31.530-01:58:35.499 | DM] So at like I don't know. 10 in the morning"
+      ],
+      "cleanedContextBefore": [
+        "[u1184 | 01:58:07.560-01:58:19.249 | Delwath] I mean, I'm yeah. I have like 45 min left or an hour left in me. So I'd rather just keep going. Okay, so you sleep. You go to sleep the next morning.",
+        "[u1185 | 01:58:19.790-01:58:26.839 | DM] Seeker you had promised you were. Gonna send the ladder to fetch Faldrak."
+      ],
+      "cleanedContextAfter": [
+        "[u1187 | 01:58:28.580-01:58:31.449 | Seeker] to take him back to us.",
+        "[u1188 | 01:58:31.530-01:58:35.499 | DM] So at like I don't know. 10 in the morning"
+      ],
+      "preparedSourceSpans": [
+        "That's pretty Eve"
+      ]
+    },
+    {
+      "uid": "u1209",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear acknowledgement; no additional condition identifiable.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1209 | 02:00:35.710-02:00:37.410 | DM] Figured and tell you.",
+      "cleanedWording": "[u1209 | 02:00:35.710-02:00:37.410 | DM] Figured and tell you.",
+      "preparedSourceContextBefore": [
+        "[u1207 | 02:00:28.130-02:00:30.320 | DM] something hardy for an adventure.",
+        "[u1208 | 02:00:30.360-02:00:34.230 | Delwath] We will not be leaving today."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1210 | 02:00:37.850-02:00:46.709 | Kenzo] Speaker is sadly misinformed. The speaker. You didn't tell us what? What didn't you tell us, seeker?",
+        "[u1211 | 02:00:46.740-02:00:51.350 | Kenzo] We didn't actually agree on anything. We're going to the edge of echoes."
+      ],
+      "cleanedContextBefore": [
+        "[u1207 | 02:00:28.130-02:00:30.320 | DM] something hearty for an adventure.",
+        "[u1208 | 02:00:30.360-02:00:34.230 | Delwath] We will not be leaving today."
+      ],
+      "cleanedContextAfter": [
+        "[u1210 | 02:00:37.850-02:00:46.709 | Kenzo] Seeker is sadly misinformed. The Seeker. You didn't tell us what? What didn't you tell us, Seeker?",
+        "[u1211 | 02:00:46.740-02:00:51.350 | Kenzo] We didn't actually agree on anything. We're going to the edge of echoes."
+      ],
+      "preparedSourceSpans": [
+        "Figured and tell you"
+      ]
+    },
+    {
+      "uid": "u1219",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Merged conversational responses about patience and quarters; accommodation question and later agreement explicit, so wording retained.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1219 | 02:01:32.580-02:01:39.570 | DM] so we'll have to ask you to be a little bit rational. You've done my quarters right.",
+      "cleanedWording": "[u1219 | 02:01:32.580-02:01:39.570 | DM] so we'll have to ask you to be a little bit rational. You've done my quarters right.",
+      "preparedSourceContextBefore": [
+        "[u1217 | 02:01:22.990-02:01:28.070 | Seeker] So the difficult truth of the matter is, we have some some",
+        "[u1218 | 02:01:28.380-02:01:32.249 | Seeker] affairs to settle here in town, including renovations to the ship."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1220 | 02:01:41.030-02:01:42.499 | Seeker] But what do you mean?",
+        "[u1221 | 02:01:43.500-02:01:45.150 | DM] Wait! I'm coming."
+      ],
+      "cleanedContextBefore": [
+        "[u1217 | 02:01:22.990-02:01:28.070 | Seeker] So the difficult truth of the matter is, we have some some",
+        "[u1218 | 02:01:28.380-02:01:32.249 | Seeker] affairs to settle here in town, including renovations to the ship."
+      ],
+      "cleanedContextAfter": [
+        "[u1220 | 02:01:41.030-02:01:42.499 | Seeker] But what do you mean?",
+        "[u1221 | 02:01:43.500-02:01:45.150 | DM] Wait! I'm coming."
+      ],
+      "preparedSourceSpans": [
+        "a little bit rational",
+        "You've done my quarters"
+      ]
+    },
+    {
+      "uid": "u1232",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear acknowledgement of pinball story.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1232 | 02:02:32.360-02:02:37.530 | Kenzo] for Dad. That was fun. Listen, my friend, I greatly respect your skills.",
+      "cleanedWording": "[u1232 | 02:02:32.360-02:02:37.530 | Kenzo] for Dad. That was fun. Listen, my friend, I greatly respect your skills.",
+      "preparedSourceContextBefore": [
+        "[u1230 | 02:02:26.710-02:02:28.610 | DM] did. Did we not discuss this?",
+        "[u1231 | 02:02:29.020-02:02:30.990 | Seeker] I believe we played a lot of pinball"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1233 | 02:02:38.010-02:02:42.420 | Seeker] I've conferred with my crewmates here on the ship, and we agree that",
+        "[u1234 | 02:02:42.530-02:02:43.860 | Seeker] the launch of a"
+      ],
+      "cleanedContextBefore": [
+        "[u1230 | 02:02:26.710-02:02:28.610 | DM] did. Did we not discuss this?",
+        "[u1231 | 02:02:29.020-02:02:30.990 | Seeker] I believe we played a lot of pinball"
+      ],
+      "cleanedContextAfter": [
+        "[u1233 | 02:02:38.010-02:02:42.420 | Seeker] I've conferred with my crewmates here on the ship, and we agree that",
+        "[u1234 | 02:02:42.530-02:02:43.860 | Seeker] the launch of a"
+      ],
+      "preparedSourceSpans": [
+        "for Dad"
+      ]
+    },
+    {
+      "uid": "u1258",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear initial help interjection retained; response on undead is clear.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1258 | 02:04:46.260-02:04:53.380 | Kenzo] help. Bad, too, because otherwise I don't know that I want to travel with you. We may be heading towards large numbers of undead",
+      "cleanedWording": "[u1258 | 02:04:46.260-02:04:53.380 | Kenzo] help. Bad, too, because otherwise I don't know that I want to travel with you. We may be heading towards large numbers of undead",
+      "preparedSourceContextBefore": [
+        "[u1256 | 02:04:37.560-02:04:41.319 | Delwath] How do you feel about large numbers of undead",
+        "[u1257 | 02:04:43.020-02:04:45.879 | DM] bad? How do you feel about them"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1259 | 02:04:54.380-02:04:57.370 | Seeker] well. but just a minute deal with",
+        "[u1260 | 02:04:57.430-02:05:04.960 | Seeker] this destination that our friend wants to get to. It's on the way there, but he doesn't have to take the whole trip, does he? That's up to me."
+      ],
+      "cleanedContextBefore": [
+        "[u1256 | 02:04:37.560-02:04:41.319 | Delwath] How do you feel about large numbers of undead",
+        "[u1257 | 02:04:43.020-02:04:45.879 | DM] bad? How do you feel about them"
+      ],
+      "cleanedContextAfter": [
+        "[u1259 | 02:04:54.380-02:04:57.370 | Seeker] well. but just a minute Delwath",
+        "[u1260 | 02:04:57.430-02:05:04.960 | Seeker] this destination that our friend wants to get to. It's on the way there, but he doesn't have to take the whole trip, does he? That's up to me."
+      ],
+      "preparedSourceSpans": [
+        "help."
+      ]
+    },
+    {
+      "uid": "u1283",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Final foams item in fanciful flying-object list remains unclear.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1283 | 02:06:32.290-02:06:35.569 | DM] cops, mirrors, bowls, foams.",
+      "cleanedWording": "[u1283 | 02:06:32.290-02:06:35.569 | DM] cups, mirrors, bowls, foams.",
+      "preparedSourceContextBefore": [
+        "[u1281 | 02:06:27.340-02:06:29.890 | DM] ladders. You already have a ladder.",
+        "[u1282 | 02:06:30.080-02:06:31.740 | Seeker] We we do have that"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1284 | 02:06:36.360-02:06:37.580 | Seeker] a flying book.",
+        "[u1285 | 02:06:38.720-02:06:43.430 | Seeker] as in a certain way seems perfect. I don't know if I can even explain why."
+      ],
+      "cleanedContextBefore": [
+        "[u1281 | 02:06:27.340-02:06:29.890 | DM] ladders. You already have a ladder.",
+        "[u1282 | 02:06:30.080-02:06:31.740 | Seeker] We we do have that"
+      ],
+      "cleanedContextAfter": [
+        "[u1284 | 02:06:36.360-02:06:37.580 | Seeker] a flying book.",
+        "[u1285 | 02:06:38.720-02:06:43.430 | Seeker] as in a certain way seems perfect. I don't know if I can even explain why."
+      ],
+      "preparedSourceSpans": [
+        "foams."
+      ]
+    },
+    {
+      "uid": "u1311",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Cross-talk after question; no narrative effect.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1311 | 02:08:50.790-02:08:53.440 | Seeker] What else did you learn pretty strong?",
+      "cleanedWording": "[u1311 | 02:08:50.790-02:08:53.440 | Seeker] What else did you learn? Pretty strong?",
+      "preparedSourceContextBefore": [
+        "[u1309 | 02:08:43.540-02:08:47.150 | DM] okay, I'm sure we'll be fine then.",
+        "[u1310 | 02:08:47.710-02:08:50.249 | Kenzo] like, I'm not worried."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1312 | 02:08:54.300-02:08:58.390 | DM] Well, so you go into the cave. There was. Supposedly I don't.",
+        "[u1313 | 02:08:58.540-02:09:04.400 | DM] I assume this is true, because the philosophers told me. Give them a pretty good magic item."
+      ],
+      "cleanedContextBefore": [
+        "[u1309 | 02:08:43.540-02:08:47.150 | DM] okay, I'm sure we'll be fine then.",
+        "[u1310 | 02:08:47.710-02:08:50.249 | Kenzo] like, I'm not worried."
+      ],
+      "cleanedContextAfter": [
+        "[u1312 | 02:08:54.300-02:08:58.390 | DM] Well, so you go into the cave. There was. Supposedly I don't.",
+        "[u1313 | 02:08:58.540-02:09:04.400 | DM] I assume this is true, because the philosophers told me. Give them a pretty good magic item."
+      ],
+      "preparedSourceSpans": [
+        "pretty strong"
+      ]
+    },
+    {
+      "uid": "u1320",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Trailing Segments is unclear incidental chatter, not an identified entity.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1320 | 02:09:41.880-02:09:43.430 | Seeker] in the Fay. Wow! Segments.",
+      "cleanedWording": "[u1320 | 02:09:41.880-02:09:43.430 | Seeker] in the Feywild Segments.",
+      "preparedSourceContextBefore": [
+        "[u1318 | 02:09:30.080-02:09:32.690 | DM] It's like in the twilight I was like.",
+        "[u1319 | 02:09:33.450-02:09:40.240 | DM] that doesn't help me in the twilight. That's not a direction that's a time. And he was like, no, that's a direction"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1321 | 02:09:43.800-02:09:45.340 | DM] Forget you",
+        "[u1322 | 02:09:47.900-02:09:49.350 | Delwath] the twilight"
+      ],
+      "cleanedContextBefore": [
+        "[u1318 | 02:09:30.080-02:09:32.690 | DM] It's like in the twilight I was like.",
+        "[u1319 | 02:09:33.450-02:09:40.240 | DM] that doesn't help me in the twilight. That's not a direction that's a time. And he was like, no, that's a direction"
+      ],
+      "cleanedContextAfter": [
+        "[u1321 | 02:09:43.800-02:09:45.340 | DM] Forget you",
+        "[u1322 | 02:09:47.900-02:09:49.350 | Delwath] the twilight"
+      ],
+      "preparedSourceSpans": [
+        "Segments."
+      ]
+    },
+    {
+      "uid": "u1398",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Connection-cut reply clarified in u1401-u1402.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1398 | 02:14:59.490-02:15:07.120 | Kenzo] not quite safe.",
+      "cleanedWording": "[u1398 | 02:14:59.490-02:15:07.120 | Kenzo] not quite safe.",
+      "preparedSourceContextBefore": [
+        "[u1396 | 02:14:48.430-02:14:52.819 | DM] Oh, well, fine! If you have a ghost, pet, why do you need a stone pet? I get it.",
+        "[u1397 | 02:14:54.260-02:14:58.160 | DM] You probably have like a plant pet or something, ken, though"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1399 | 02:15:07.940-02:15:10.339 | Seeker] we're we're losing you again. Come.",
+        "[u1400 | 02:15:10.540-02:15:11.720 | Seeker] that's your way."
+      ],
+      "cleanedContextBefore": [
+        "[u1396 | 02:14:48.430-02:14:52.819 | DM] Oh, well, fine! If you have a ghost, pet, why do you need a stone pet? I get it.",
+        "[u1397 | 02:14:54.260-02:14:58.160 | DM] You probably have like a plant pet or something, Kenzo"
+      ],
+      "cleanedContextAfter": [
+        "[u1399 | 02:15:07.940-02:15:10.339 | Seeker] we're we're losing you again. Kong.",
+        "[u1400 | 02:15:10.540-02:15:11.720 | Seeker] that's your way."
+      ],
+      "preparedSourceSpans": [
+        "not quite safe."
+      ]
+    },
+    {
+      "uid": "u1400",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Connection troubleshooting.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1400 | 02:15:10.540-02:15:11.720 | Seeker] that's your way.",
+      "cleanedWording": "[u1400 | 02:15:10.540-02:15:11.720 | Seeker] that's your way.",
+      "preparedSourceContextBefore": [
+        "[u1398 | 02:14:59.490-02:15:07.120 | Kenzo] not quite safe.",
+        "[u1399 | 02:15:07.940-02:15:10.339 | Seeker] we're we're losing you again. Come."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1401 | 02:15:11.930-02:15:18.550 | Kenzo] Oh, sorry II was saying. I can. You hear me better now? Yeah, I don't. I don't.",
+        "[u1402 | 02:15:19.190-02:15:24.799 | Kenzo] the plants aren't a pet per se, but I can communicate with them. but they're not quite like pets"
+      ],
+      "cleanedContextBefore": [
+        "[u1398 | 02:14:59.490-02:15:07.120 | Kenzo] not quite safe.",
+        "[u1399 | 02:15:07.940-02:15:10.339 | Seeker] we're we're losing you again. Kong."
+      ],
+      "cleanedContextAfter": [
+        "[u1401 | 02:15:11.930-02:15:18.550 | Kenzo] Oh, sorry I was saying. I—can you hear me better now? Yeah, I don't. I don't.",
+        "[u1402 | 02:15:19.190-02:15:24.799 | Kenzo] the plants aren't a pet per se, but I can communicate with them. but they're not quite like pets"
+      ],
+      "preparedSourceSpans": [
+        "that's your way."
+      ]
+    },
+    {
+      "uid": "u1412",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear work-capacity aside, not a new requirement.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1412 | 02:16:14.570-02:16:16.599 | Seeker] there's a lot to do for one heart",
+      "cleanedWording": "[u1412 | 02:16:14.570-02:16:16.599 | Seeker] there's a lot to do for one heart",
+      "preparedSourceContextBefore": [
+        "[u1410 | 02:16:00.570-02:16:07.879 | DM] Oh, yeah, I can see, like 10 or 15 things that you could have done better already. Oh, yeah, I'd love to know.",
+        "[u1411 | 02:16:11.060-02:16:14.279 | DM] Well, I guess you haven't done much yet, so"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1413 | 02:16:17.500-02:16:20.059 | DM] when you're in that like driving",
+        "[u1414 | 02:16:20.570-02:16:22.590 | DM] from how you see."
+      ],
+      "cleanedContextBefore": [
+        "[u1410 | 02:16:00.570-02:16:07.879 | DM] Oh, yeah, I can see, like 10 or 15 things that you could have done better already. Oh, yeah, I'd love to know.",
+        "[u1411 | 02:16:11.060-02:16:14.279 | DM] Well, I guess you haven't done much yet, so"
+      ],
+      "cleanedContextAfter": [
+        "[u1413 | 02:16:17.500-02:16:20.059 | DM] when you're in that like driving",
+        "[u1414 | 02:16:20.570-02:16:22.590 | DM] room, how do you see?"
+      ],
+      "preparedSourceSpans": [
+        "one heart"
+      ]
+    },
+    {
+      "uid": "u1432",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Narrative false start before clearly narrated cane action.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1432 | 02:17:40.910-02:17:44.390 | DM] means and picks up. He picks up his like his",
+      "cleanedWording": "[u1432 | 02:17:40.910-02:17:44.390 | DM] means and picks up. He picks up his like his",
+      "preparedSourceContextBefore": [
+        "[u1430 | 02:17:33.770-02:17:36.479 | DM] A cannon? Have you heard of these?",
+        "[u1431 | 02:17:37.490-02:17:39.370 | Seeker] I've I've"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1433 | 02:17:44.690-02:17:48.840 | DM] his cane, and he like sort of holds it up and brazes himself. And",
+        "[u1434 | 02:17:49.260-02:17:52.029 | DM] is there anything flammable in here?"
+      ],
+      "cleanedContextBefore": [
+        "[u1430 | 02:17:33.770-02:17:36.479 | DM] A cannon? Have you heard of these?",
+        "[u1431 | 02:17:37.490-02:17:39.370 | Seeker] I've I've"
+      ],
+      "cleanedContextAfter": [
+        "[u1433 | 02:17:44.690-02:17:48.840 | DM] his cane, and he like sort of holds it up and braces himself. And",
+        "[u1434 | 02:17:49.260-02:17:52.029 | DM] is there anything flammable in here?"
+      ],
+      "preparedSourceSpans": [
+        "means and picks up."
+      ]
+    },
+    {
+      "uid": "u1474",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear connective before considering the weapon.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1474 | 02:21:09.720-02:21:12.220 | Seeker] them worth considering.",
+      "cleanedWording": "[u1474 | 02:21:09.720-02:21:12.220 | Seeker] them worth considering.",
+      "preparedSourceContextBefore": [
+        "[u1472 | 02:20:59.450-02:21:01.020 | DM] Well.",
+        "[u1473 | 02:21:01.060-02:21:04.390 | DM] yeah, I we'd have to fiddle"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1475 | 02:21:14.740-02:21:15.510 | Seeker] Okay.",
+        "[u1476 | 02:21:15.870-02:21:18.539 | Seeker] I think we have enough ideas to to"
+      ],
+      "cleanedContextBefore": [
+        "[u1472 | 02:20:59.450-02:21:01.020 | DM] Well.",
+        "[u1473 | 02:21:01.060-02:21:04.390 | DM] yeah, I we'd have to fiddle"
+      ],
+      "cleanedContextAfter": [
+        "[u1475 | 02:21:14.740-02:21:15.510 | Seeker] Okay.",
+        "[u1476 | 02:21:15.870-02:21:18.539 | Seeker] I think we have enough ideas to to"
+      ],
+      "preparedSourceSpans": [
+        "them"
+      ]
+    },
+    {
+      "uid": "u1495",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Garbled social reassurance before how it all works; no decision or lore content.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1495 | 02:23:12.850-02:23:15.280 | Seeker] as you get to know as Maryland",
+      "cleanedWording": "[u1495 | 02:23:12.850-02:23:15.280 | Seeker] as you get to know as Maryland",
+      "preparedSourceContextBefore": [
+        "[u1493 | 02:22:57.740-02:23:07.419 | DM] You're telling me that you have a friend who is holding off an entire undead army by themselves. And you're renovating your ship.",
+        "[u1494 | 02:23:07.950-02:23:12.719 | Kenzo] That's not what's happening. Seeker. How dare you say such things"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1496 | 02:23:15.430-02:23:16.849 | Seeker] how it all works!",
+        "[u1497 | 02:23:17.610-02:23:26.910 | Kenzo] It's true not everyone would understand the situation. That right that could be justified"
+      ],
+      "cleanedContextBefore": [
+        "[u1493 | 02:22:57.740-02:23:07.419 | DM] You're telling me that you have a friend who is holding off an entire undead army by themselves. And you're renovating your ship.",
+        "[u1494 | 02:23:07.950-02:23:12.719 | Kenzo] That's not what's happening. Seeker. How dare you say such things"
+      ],
+      "cleanedContextAfter": [
+        "[u1496 | 02:23:15.430-02:23:16.849 | Seeker] how it all works!",
+        "[u1497 | 02:23:17.610-02:23:26.910 | Kenzo] It's true not everyone would understand the situation. That right that could be justified"
+      ],
+      "preparedSourceSpans": [
+        "as Maryland"
+      ]
+    },
+    {
+      "uid": "u1497",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Garbled incidental response about justifying ship work.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1497 | 02:23:17.610-02:23:26.910 | Kenzo] It's true not everyone would understand the situation. That right that could be justified",
+      "cleanedWording": "[u1497 | 02:23:17.610-02:23:26.910 | Kenzo] It's true not everyone would understand the situation. That right that could be justified",
+      "preparedSourceContextBefore": [
+        "[u1495 | 02:23:12.850-02:23:15.280 | Seeker] as you get to know as Maryland",
+        "[u1496 | 02:23:15.430-02:23:16.849 | Seeker] how it all works!"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1498 | 02:23:29.120-02:23:30.520 | Seeker] if we what sorry",
+        "[u1499 | 02:23:30.610-02:23:52.869 | Seeker] and you're adding weapons to your ship. Now that I can understand which we are which you are doing, you're leading that part of this endeavor. There is another matter of minor bit of damage that we sustain, that we might together want to look into at some point also. Oh, yes, the like weird, acid colony that you're growing inside your ship. How'd you know? Sorry"
+      ],
+      "cleanedContextBefore": [
+        "[u1495 | 02:23:12.850-02:23:15.280 | Seeker] as you get to know as Maryland",
+        "[u1496 | 02:23:15.430-02:23:16.849 | Seeker] how it all works!"
+      ],
+      "cleanedContextAfter": [
+        "[u1498 | 02:23:29.120-02:23:30.520 | Seeker] if we what sorry",
+        "[u1499 | 02:23:30.610-02:23:52.869 | Seeker] and you're adding weapons to your ship. Now that I can understand which we are which you are doing, you're leading that part of this endeavor. There is another matter of minor bit of damage that we sustain, that we might together want to look into at some point also. Oh, yes, the like weird, acid colony that you're growing inside your ship. How'd you know? Sorry"
+      ],
+      "preparedSourceSpans": [
+        "That right that could be justified"
+      ]
+    },
+    {
+      "uid": "u1566",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Brief unclear reaction during age jokes.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1566 | 02:29:17.870-02:29:18.790 | Kenzo] Model.",
+      "cleanedWording": "[u1566 | 02:29:17.870-02:29:18.790 | Kenzo] Model.",
+      "preparedSourceContextBefore": [
+        "[u1564 | 02:29:09.560-02:29:14.230 | Kenzo] No, no deal with is very old, extremely old, older than you could possibly imagine. Actually.",
+        "[u1565 | 02:29:14.470-02:29:17.509 | DM] those don't get old, plus I bet I'm older than him."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1567 | 02:29:20.570-02:29:24.490 | DM] How old are you in like human years?",
+        "[u1568 | 02:29:26.610-02:29:30.380 | Delwath] Well. it's an interesting question."
+      ],
+      "cleanedContextBefore": [
+        "[u1564 | 02:29:09.560-02:29:14.230 | Kenzo] No, no Delwath is very old, extremely old, older than you could possibly imagine. Actually.",
+        "[u1565 | 02:29:14.470-02:29:17.509 | DM] Elves don't get old, plus I bet I'm older than him."
+      ],
+      "cleanedContextAfter": [
+        "[u1567 | 02:29:20.570-02:29:24.490 | DM] How old are you in like human years?",
+        "[u1568 | 02:29:26.610-02:29:30.380 | Delwath] Well. it's an interesting question."
+      ],
+      "preparedSourceSpans": [
+        "Model."
+      ]
+    },
+    {
+      "uid": "u1590",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Stray transition.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1590 | 02:30:55.040-02:30:56.100 | DM] thou",
+      "cleanedWording": "[u1590 | 02:30:55.040-02:30:56.100 | DM] thou",
+      "preparedSourceContextBefore": [
+        "[u1588 | 02:30:46.350-02:30:47.669 | Seeker] I'll build it with you.",
+        "[u1589 | 02:30:47.910-02:30:52.750 | DM] Okay, seeker, come on, let's get to work. Very good."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1591 | 02:30:57.040-02:31:08.670 | DM] seeker, and and him go off so before we, before we wrap up. what do you wanna do in terms of like, how long are you planning on spending in",
+        "[u1592 | 02:31:10.440-02:31:12.600 | DM] toll in where you"
+      ],
+      "cleanedContextBefore": [
+        "[u1588 | 02:30:46.350-02:30:47.669 | Seeker] I'll build it with you.",
+        "[u1589 | 02:30:47.910-02:30:52.750 | DM] Okay, Seeker, come on, let's get to work. Very good."
+      ],
+      "cleanedContextAfter": [
+        "[u1591 | 02:30:57.040-02:31:08.670 | DM] Seeker, and and him go off so before we, before we wrap up. what do you wanna do in terms of like, how long are you planning on spending in",
+        "[u1592 | 02:31:10.440-02:31:12.600 | DM] Tollen where you"
+      ],
+      "preparedSourceSpans": [
+        "thou"
+      ]
+    },
+    {
+      "uid": "u1608",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "False start before carpenter-time explanation.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1608 | 02:32:09.790-02:32:18.700 | Seeker] we never actually blueprinted it out. But for actually that's not super critical, I would say. I mean, if you're willing to pay.",
+      "cleanedWording": "[u1608 | 02:32:09.790-02:32:18.700 | Seeker] we never actually blueprinted it out. But for actually that's not super critical, I would say. I mean, if you're willing to pay.",
+      "preparedSourceContextBefore": [
+        "[u1606 | 02:32:04.060-02:32:05.310 | Seeker] top deck.",
+        "[u1607 | 02:32:05.370-02:32:07.919 | Kenzo] pop deck. you know"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1609 | 02:32:20.100-02:32:20.990 | DM] you know.",
+        "[u1610 | 02:32:21.870-02:32:34.789 | DM] some amount above the going rate you could. You could probably hire, you know, a few 100 people to work on it. Few 100. Jesus. I mean, it's a big ship, right? It's like 200 feet long."
+      ],
+      "cleanedContextBefore": [
+        "[u1606 | 02:32:04.060-02:32:05.310 | Seeker] top deck.",
+        "[u1607 | 02:32:05.370-02:32:07.919 | Kenzo] top deck. you know"
+      ],
+      "cleanedContextAfter": [
+        "[u1609 | 02:32:20.100-02:32:20.990 | DM] you know.",
+        "[u1610 | 02:32:21.870-02:32:34.789 | DM] some amount above the going rate you could. You could probably hire, you know, a few 100 people to work on it. Few 100. Jesus. I mean, it's a big ship, right? It's like 200 feet long."
+      ],
+      "preparedSourceSpans": [
+        "But for actually"
+      ]
+    },
+    {
+      "uid": "u1611",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Trailing value unclear; deconstruction task clear.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1611 | 02:32:35.650-02:32:41.330 | DM] and you need like carpenters to be deconstructing the ship value.",
+      "cleanedWording": "[u1611 | 02:32:35.650-02:32:41.330 | DM] and you need like carpenters to be deconstructing the ship value.",
+      "preparedSourceContextBefore": [
+        "[u1609 | 02:32:20.100-02:32:20.990 | DM] you know.",
+        "[u1610 | 02:32:21.870-02:32:34.789 | DM] some amount above the going rate you could. You could probably hire, you know, a few 100 people to work on it. Few 100. Jesus. I mean, it's a big ship, right? It's like 200 feet long."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1612 | 02:32:42.890-02:32:48.520 | DM] So I mean, if you're willing to shell out money, you could do it pretty quickly.",
+        "[u1613 | 02:32:50.320-02:32:52.460 | Kenzo] Why not? What else do we need that money for?"
+      ],
+      "cleanedContextBefore": [
+        "[u1609 | 02:32:20.100-02:32:20.990 | DM] you know.",
+        "[u1610 | 02:32:21.870-02:32:34.789 | DM] some amount above the going rate you could. You could probably hire, you know, a few 100 people to work on it. Few 100. Jesus. I mean, it's a big ship, right? It's like 200 feet long."
+      ],
+      "cleanedContextAfter": [
+        "[u1612 | 02:32:42.890-02:32:48.520 | DM] So I mean, if you're willing to shell out money, you could do it pretty quickly.",
+        "[u1613 | 02:32:50.320-02:32:52.460 | Kenzo] Why not? What else do we need that money for?"
+      ],
+      "preparedSourceSpans": [
+        "value"
+      ]
+    },
+    {
+      "uid": "u1619",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Cross-talk restates desired priorities; key dropping mechanism request follows.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1619 | 02:33:39.550-02:33:45.709 | Kenzo] here. How about exactly what you want? Then let's make it mission critical for the dropping stuff",
+      "cleanedWording": "[u1619 | 02:33:39.550-02:33:45.709 | Kenzo] here. How about exactly what you want? Then let's make it mission critical for the dropping stuff",
+      "preparedSourceContextBefore": [
+        "[u1617 | 02:33:24.440-02:33:25.979 | Seeker] How long's that going to take?",
+        "[u1618 | 02:33:30.470-02:33:35.010 | DM] It depends on, I mean, that could take some amount of time depending on what you"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1620 | 02:33:46.000-02:33:58.940 | Kenzo] feature on the ship, because we're gonna want to show up with Briswick like in a critical moment in battle, dropping a whole bunch of fucking crazy shit almost like on that army. So let's prioritize that offensive capability for the ship.",
+        "[u1621 | 02:33:59.780-02:34:02.930 | Seeker] So it's not a cannon. It's like fire bombs that drop."
+      ],
+      "cleanedContextBefore": [
+        "[u1617 | 02:33:24.440-02:33:25.979 | Seeker] How long's that going to take?",
+        "[u1618 | 02:33:30.470-02:33:35.010 | DM] It depends on, I mean, that could take some amount of time depending on what you"
+      ],
+      "cleanedContextAfter": [
+        "[u1620 | 02:33:46.000-02:33:58.940 | Kenzo] feature on the ship, because we're gonna want to show up with Riswynn like in a critical moment in battle, dropping a whole bunch of fucking crazy shit almost like on that army. So let's prioritize that offensive capability for the ship.",
+        "[u1621 | 02:33:59.780-02:34:02.930 | Seeker] So it's not a cannon. It's like fire bombs that drop."
+      ],
+      "preparedSourceSpans": [
+        "here. How about exactly what you want?"
+      ]
+    },
+    {
+      "uid": "u1634",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Garbled spell-casting connective; courier proposal and cost clearly stated.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1634 | 02:35:05.330-02:35:19.189 | DM] Well, I'm sure you could pay somebody. That's true past that. Right like you would, Umley, would. You would leave only money. You would pay somebody you would just spell it would teleport to you just makes things more expensive.",
+      "cleanedWording": "[u1634 | 02:35:05.330-02:35:19.189 | DM] Well, I'm sure you could pay somebody. That's true to cast that. Right like you would, Umli, would. You would leave Umli money. You would pay somebody you would just spell it would teleport to you just makes things more expensive.",
+      "preparedSourceContextBefore": [
+        "[u1632 | 02:34:58.720-02:34:59.780 | Delwath] That's true.",
+        "[u1633 | 02:35:02.740-02:35:04.690 | Delwath] But does anybody have that spell?"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1635 | 02:35:21.140-02:35:22.930 | Delwath] Well, that's fine. We could do that",
+        "[u1636 | 02:35:23.230-02:35:25.430 | Delwath] if we could do the"
+      ],
+      "cleanedContextBefore": [
+        "[u1632 | 02:34:58.720-02:34:59.780 | Delwath] That's true.",
+        "[u1633 | 02:35:02.740-02:35:04.690 | Delwath] But does anybody have that spell?"
+      ],
+      "cleanedContextAfter": [
+        "[u1635 | 02:35:21.140-02:35:22.930 | Delwath] Well, that's fine. We could do that",
+        "[u1636 | 02:35:23.230-02:35:25.430 | Delwath] if we could do the"
+      ],
+      "preparedSourceSpans": [
+        "you would just spell"
+      ]
+    },
+    {
+      "uid": "u1655",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Garbled filler in repeated offensive-drop-mechanism brainstorming; priority clear in u1620.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1655 | 02:37:12.630-02:37:21.630 | Kenzo] Guys, I think we really prioritize again, like setting up the offensive web trapdoor things like show up with the gym. We're like dropping, but massive.",
+      "cleanedWording": "[u1655 | 02:37:12.630-02:37:21.630 | Kenzo] Guys, I think we really prioritize again, like setting up the offensive web trapdoor things like show up with the gym. We're like dropping, but massive.",
+      "preparedSourceContextBefore": [
+        "[u1653 | 02:36:58.250-02:37:04.830 | Delwath] I mean it. It seems kind of fun to have all of our stuff set up.",
+        "[u1654 | 02:37:05.030-02:37:11.009 | Delwath] but there's only so much we can justify breaking the reality that we should really be hiring out of here."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1656 | 02:37:22.390-02:37:25.770 | Kenzo] so that that we can do like on the way, basically, because",
+        "[u1657 | 02:37:27.040-02:37:28.420 | Seeker] that's what our friend here."
+      ],
+      "cleanedContextBefore": [
+        "[u1653 | 02:36:58.250-02:37:04.830 | Delwath] I mean it. It seems kind of fun to have all of our stuff set up.",
+        "[u1654 | 02:37:05.030-02:37:11.009 | Delwath] but there's only so much we can justify breaking the reality that we should really be hurrying out of here."
+      ],
+      "cleanedContextAfter": [
+        "[u1656 | 02:37:22.390-02:37:25.770 | Kenzo] so that that we can do like on the way, basically, because",
+        "[u1657 | 02:37:27.040-02:37:28.420 | Seeker] that's what our friend here."
+      ],
+      "preparedSourceSpans": [
+        "web",
+        "the gym",
+        "but massive."
+      ]
+    },
+    {
+      "uid": "u1664",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear wealth question followed by explicit totals; no unresolved numeric answer.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1664 | 02:38:07.170-02:38:09.199 | Seeker] How old are we? Yeah.",
+      "cleanedWording": "[u1664 | 02:38:07.170-02:38:09.199 | Seeker] How old are we? Yeah.",
+      "preparedSourceContextBefore": [
+        "[u1662 | 02:37:54.950-02:38:03.359 | DM] hire a bunch of people. They could start deconstructing the ship and turning it into timber and building stuff for you, and then you could just fly back.",
+        "[u1663 | 02:38:03.700-02:38:04.550 | Delwath] We could."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1665 | 02:38:11.970-02:38:14.400 | DM] you've got. I don't know",
+        "[u1666 | 02:38:14.420-02:38:16.749 | DM] 40,000 gold something like that."
+      ],
+      "cleanedContextBefore": [
+        "[u1662 | 02:37:54.950-02:38:03.359 | DM] hire a bunch of people. They could start deconstructing the ship and turning it into timber and building stuff for you, and then you could just fly back.",
+        "[u1663 | 02:38:03.700-02:38:04.550 | Delwath] We could."
+      ],
+      "cleanedContextAfter": [
+        "[u1665 | 02:38:11.970-02:38:14.400 | DM] you've got. I don't know",
+        "[u1666 | 02:38:14.420-02:38:16.749 | DM] 40,000 gold something like that."
+      ],
+      "preparedSourceSpans": [
+        "How old are we"
+      ]
+    },
+    {
+      "uid": "u1671",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Exact party-treasure document label unclear; no session lore impact.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1671 | 02:38:36.980-02:38:45.070 | Delwath] If anybody's been updating party treasure when we spend money which I don't know if anybody has the party treasure the one that thought Doc X should be updated.",
+      "cleanedWording": "[u1671 | 02:38:36.980-02:38:45.070 | Delwath] If anybody's been updating party treasure when we spend money which I don't know if anybody has the party treasure the one that thought Doc X should be updated.",
+      "preparedSourceContextBefore": [
+        "[u1669 | 02:38:25.230-02:38:33.919 | Delwath] We have 34,000 gold plus 44,000 gold plus 50,000 gold, 57,000 gold.",
+        "[u1670 | 02:38:33.990-02:38:36.549 | Delwath] We have over 60,000 gold in coin."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1672 | 02:38:46.890-02:38:47.700 | Delwath] Yeah.",
+        "[u1673 | 02:38:48.840-02:38:50.610 | Kenzo] But marvelous. Let's do that then."
+      ],
+      "cleanedContextBefore": [
+        "[u1669 | 02:38:25.230-02:38:33.919 | Delwath] We have 34,000 gold plus 44,000 gold plus 50,000 gold, 57,000 gold.",
+        "[u1670 | 02:38:33.990-02:38:36.549 | Delwath] We have over 60,000 gold in coin."
+      ],
+      "cleanedContextAfter": [
+        "[u1672 | 02:38:46.890-02:38:47.700 | Delwath] Yeah.",
+        "[u1673 | 02:38:48.840-02:38:50.610 | Kenzo] But marvelous. Let's do that then."
+      ],
+      "preparedSourceSpans": [
+        "one that thought Doc X"
+      ]
+    },
+    {
+      "uid": "u1682",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Interrupted approval.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1682 | 02:39:22.220-02:39:25.149 | Kenzo] That's okay, like our actual, totally worth it.",
+      "cleanedWording": "[u1682 | 02:39:22.220-02:39:25.149 | Kenzo] That's okay, like our actual, totally worth it.",
+      "preparedSourceContextBefore": [
+        "[u1680 | 02:39:11.930-02:39:16.780 | DM] Now, Welby wants to buy a Welby one needs to get his doctors and tattoo.",
+        "[u1681 | 02:39:17.560-02:39:21.070 | DM] That's a thousand or 2 depending on what he wants."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1683 | 02:39:25.280-02:39:28.580 | Delwath] Our actual goals that we have is.",
+        "[u1684 | 02:39:29.260-02:39:38.270 | DM] and you might want to buy a few more heroes. Feast chalices so you can. so Rizwin can cast some cure as feasts for your"
+      ],
+      "cleanedContextBefore": [
+        "[u1680 | 02:39:11.930-02:39:16.780 | DM] Now, Wellby wants to buy a Wellby one needs to get his darkvision tattoo.",
+        "[u1681 | 02:39:17.560-02:39:21.070 | DM] That's a thousand or 2 depending on what he wants."
+      ],
+      "cleanedContextAfter": [
+        "[u1683 | 02:39:25.280-02:39:28.580 | Delwath] Our actual goals that we have is.",
+        "[u1684 | 02:39:29.260-02:39:38.270 | DM] and you might want to buy a few more Heroes’ Feast chalices so you can. so Riswynn can cast some Heroes’ Feasts for your"
+      ],
+      "preparedSourceSpans": [
+        "like our actual"
+      ]
+    },
+    {
+      "uid": "u1701",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Unclear acknowledgement during crafting-time discussion.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1701 | 02:41:19.550-02:41:20.929 | Kenzo] That's for doing for that.",
+      "cleanedWording": "[u1701 | 02:41:19.550-02:41:20.929 | Kenzo] That's for doing for that.",
+      "preparedSourceContextBefore": [
+        "[u1699 | 02:41:00.940-02:41:14.720 | Delwath] She need a few days with the shield right like you can't do the whole thing. It's it's not actually fun for me to be trying to figure out how I don't have my shield when something happens right like it wouldn't make sense for deal with either. Right? Like either. I'm just gonna give up on it",
+        "[u1700 | 02:41:15.340-02:41:18.420 | Delwath] right, or it has to be something that works right now."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1702 | 02:41:21.510-02:41:26.839 | Unknown] Yeah, that like we could just say, forget it. We got all this stuff from zoomly. But we're not actually gonna make anything with it",
+        "[u1703 | 02:41:27.840-02:41:29.620 | Delwath] right? Like"
+      ],
+      "cleanedContextBefore": [
+        "[u1699 | 02:41:00.940-02:41:14.720 | Delwath] She needs a few days with the shield right like you can't do the whole thing. It's it's not actually fun for me to be trying to figure out how I don't have my shield when something happens right like it wouldn't make sense for Delwath either. Right? Like either. I'm just gonna give up on it",
+        "[u1700 | 02:41:15.340-02:41:18.420 | Delwath] right, or it has to be something that works right now."
+      ],
+      "cleanedContextAfter": [
+        "[u1702 | 02:41:21.510-02:41:26.839 | Unknown] Yeah, that like we could just say, forget it. We got all this stuff from Umli. But we're not actually gonna make anything with it",
+        "[u1703 | 02:41:27.840-02:41:29.620 | Delwath] right? Like"
+      ],
+      "preparedSourceSpans": [
+        "That's for doing for that."
+      ]
+    },
+    {
+      "uid": "u1710",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Garbled argumentative restart, not a new agreement.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1710 | 02:42:21.160-02:42:23.850 | DM] I do not think it does not. Yes.",
+      "cleanedWording": "[u1710 | 02:42:21.160-02:42:23.850 | DM] I do not think it does not. Yes.",
+      "preparedSourceContextBefore": [
+        "[u1708 | 02:42:04.330-02:42:14.089 | Delwath] If if that's where them wants to go. That's fine. I just won't do it at some point in the distant future. Then maybe we'll be back, and it'll make sense.",
+        "[u1709 | 02:42:16.620-02:42:17.670 | DM] I"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1711 | 02:42:25.290-02:42:28.639 | DM] you do need a chunk where you could have some",
+        "[u1712 | 02:42:29.180-02:42:36.660 | DM] like legitimate downtime to deal with these things. I don't see why you couldn't just come back to them after"
+      ],
+      "cleanedContextBefore": [
+        "[u1708 | 02:42:04.330-02:42:14.089 | Delwath] If if that's where Tim wants to go. That's fine. I just won't do it. At some point in the distant future. Then maybe we'll be back, and it'll make sense.",
+        "[u1709 | 02:42:16.620-02:42:17.670 | DM] I"
+      ],
+      "cleanedContextAfter": [
+        "[u1711 | 02:42:25.290-02:42:28.639 | DM] you do need a chunk where you could have some",
+        "[u1712 | 02:42:29.180-02:42:36.660 | DM] like legitimate downtime to deal with these things. I don't see why you couldn't just come back to them after"
+      ],
+      "preparedSourceSpans": [
+        "I do not think it does not. Yes."
+      ]
+    },
+    {
+      "uid": "u1731",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Fragment before out-of-character joke; Riswynn contact described in following units.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1731 | 02:44:29.110-02:44:34.209 | Seeker] touch with the risen. There's one. Would this be playing out differently if she was married to one of the players instead of DM,",
+      "cleanedWording": "[u1731 | 02:44:29.110-02:44:34.209 | Seeker] touch with Riswynn. Would this be playing out differently if she was married to one of the players instead of DM,",
+      "preparedSourceContextBefore": [
+        "[u1729 | 02:44:15.580-02:44:24.290 | DM] there's no reasons you can't begin work on whatever you want, right? Same with the the carpenters and everybody who's gonna work on the",
+        "[u1730 | 02:44:24.700-02:44:25.990 | Kenzo] on the show"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1732 | 02:44:34.680-02:44:37.420 | Kenzo] have we heard from her at all.",
+        "[u1733 | 02:44:38.080-02:44:42.649 | Delwath] Yeah, we scribe her recently. She's she's going fine doing fine."
+      ],
+      "cleanedContextBefore": [
+        "[u1729 | 02:44:15.580-02:44:24.290 | DM] there's no reasons you can't begin work on whatever you want, right? Same with the the carpenters and everybody who's gonna work on the",
+        "[u1730 | 02:44:24.700-02:44:25.990 | Kenzo] on the ship"
+      ],
+      "cleanedContextAfter": [
+        "[u1732 | 02:44:34.680-02:44:37.420 | Kenzo] have we heard from her at all.",
+        "[u1733 | 02:44:38.080-02:44:42.649 | Delwath] Yeah, we scryed her recently. She's she's going fine doing fine."
+      ],
+      "preparedSourceSpans": [
+        "touch with the risen. There's one."
+      ]
+    },
+    {
+      "uid": "u1743",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Garbled off-session shopping coordination; tattoo buyer resolved by repeated Wellby references.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1743 | 02:45:36.910-02:45:50.490 | DM] and Rob, you'll get a tattoo and you'll buy. We can like deal with, like all all links and the text, or something to figure out the like whenever shopping. I don't think we need to deal with that right now.",
+      "cleanedWording": "[u1743 | 02:45:36.910-02:45:50.490 | DM] and Wellby, you'll get a tattoo and you'll buy. We can like deal with, like all all links and the text, or something to figure out the like whatever shopping. I don't think we need to deal with that right now.",
+      "preparedSourceContextBefore": [
+        "[u1741 | 02:45:14.140-02:45:25.010 | DM] carpenters will get started on a bunch of stuff. and when you return like, you know, you can do all the",
+        "[u1742 | 02:45:26.780-02:45:33.519 | DM] all that stuff,"
+      ],
+      "preparedSourceContextAfter": [
+        "[u1744 | 02:45:50.830-02:45:53.879 | DM] but the plan then, would be to leave total in the next.",
+        "[u1745 | 02:45:55.130-02:45:57.479 | DM] like 2 or 3 days. Basically"
+      ],
+      "cleanedContextBefore": [
+        "[u1741 | 02:45:14.140-02:45:25.010 | DM] carpenters will get started on a bunch of stuff. and when you return like, you know, you can do all the",
+        "[u1742 | 02:45:26.780-02:45:33.519 | DM] all that stuff,"
+      ],
+      "cleanedContextAfter": [
+        "[u1744 | 02:45:50.830-02:45:53.879 | DM] but the plan then, would be to leave Tollen in the next.",
+        "[u1745 | 02:45:55.130-02:45:57.479 | DM] like 2 or 3 days. Basically"
+      ],
+      "preparedSourceSpans": [
+        "all all links and the text"
+      ]
+    },
+    {
+      "uid": "u1789",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Garbled hypothetical-order connective; hypothetical direct Drankor route remains clear.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1789 | 02:49:27.670-02:49:36.209 | DM] And you also see the out of order. We just had to drankour right now, just for fun. Just go south from.",
+      "cleanedWording": "[u1789 | 02:49:27.670-02:49:36.209 | DM] And you also see the out of order. We just head to Drankor right now, just for fun. Just go south from.",
+      "preparedSourceContextBefore": [
+        "[u1787 | 02:49:15.330-02:49:21.679 | Kenzo] the the the main quest is now clear. So it does now. Now we can properly enjoy our side quests",
+        "[u1788 | 02:49:21.910-02:49:27.349 | Kenzo] exactly. We can now."
+      ],
+      "preparedSourceContextAfter": [
+        "[u1790 | 02:49:36.550-02:49:40.920 | Kenzo] or you'll get the drink, or in like 3 days.",
+        "[u1791 | 02:49:41.320-02:49:43.679 | Kenzo] Sweet. What could go wrong?"
+      ],
+      "cleanedContextBefore": [
+        "[u1787 | 02:49:15.330-02:49:21.679 | Kenzo] the the the main quest is now clear. So it does now. Now we can properly enjoy our side quests",
+        "[u1788 | 02:49:21.910-02:49:27.349 | Kenzo] exactly. We can now."
+      ],
+      "cleanedContextAfter": [
+        "[u1790 | 02:49:36.550-02:49:40.920 | Kenzo] or you'll get to Drankor in like 3 days.",
+        "[u1791 | 02:49:41.320-02:49:43.679 | Kenzo] Sweet. What could go wrong?"
+      ],
+      "preparedSourceSpans": [
+        "And you also see the out of order."
+      ]
+    },
+    {
+      "uid": "u1813",
+      "importance": "incidental",
+      "issueGroup": null,
+      "reason": "Trailing recording fragment.",
+      "reviewState": "retained_without_material_blocker",
+      "preparedSourceQuotation": "[u1813 | 02:51:09.000-02:51:09.730 | Kenzo] But.",
+      "cleanedWording": "[u1813 | 02:51:09.000-02:51:09.730 | Kenzo] But.",
+      "preparedSourceContextBefore": [
+        "[u1811 | 02:51:02.510-02:51:03.390 | DM] Okay.",
+        "[u1812 | 02:51:03.640-02:51:08.159 | Kenzo] good night, everybody. Alright, thanks, Tim. Good night, guys."
+      ],
+      "preparedSourceContextAfter": [],
+      "cleanedContextBefore": [
+        "[u1811 | 02:51:02.510-02:51:03.390 | DM] Okay.",
+        "[u1812 | 02:51:03.640-02:51:08.159 | Kenzo] good night, everybody. Alright, thanks, Tim. Good night, guys."
+      ],
+      "cleanedContextAfter": [],
+      "preparedSourceSpans": [
+        "But."
+      ]
+    }
+  ],
+  "contextNotes": [
+    {
+      "kind": "preserved_self_correction",
+      "uids": [
+        "u1769",
+        "u1771"
+      ],
+      "reason": "The speakers mix up jade forest and rainforest/jungle, then correct themselves in u1771. Their speech is preserved rather than silently reconciled.",
+      "preparedSourceQuotations": [
+        "[u1769 | 02:47:41.360-02:47:46.100 | Delwath] We'll need to get the Philosophers Guild to tell us what the jade forest is. Right.",
+        "[u1771 | 02:47:48.580-02:48:03.109 | Kenzo] But I thought they told us exactly where the no, no, not the j, the the rainforest. One. J. Sorry. Sorry. Sorry. Sorry. Not the jade forest. No, no. Sorry. Yeah, yeah. I thought you said Rainforest. I missed it. Junk. It's the jungle one that we don't know."
+      ],
+      "cleanedWording": [
+        "[u1769 | 02:47:41.360-02:47:46.100 | Delwath] We'll need to get the Philosophers Guild to tell us what the jade forest is. Right.",
+        "[u1771 | 02:47:48.580-02:48:03.109 | Kenzo] But I thought they told us exactly where the no, no, not the j, the the rainforest. One. J. Sorry. Sorry. Sorry. Sorry. Not the jade forest. No, no. Sorry. Yeah, yeah. I thought you said Rainforest. I missed it. Junk. It's the jungle one that we don't know."
+      ]
+    },
+    {
+      "kind": "preserved_inconsistency",
+      "uids": [
+        "u0971",
+        "u1066"
+      ],
+      "reason": "Four years and five years of travel both appear. Do not reconcile the number from external chronology.",
+      "preparedSourceQuotations": [
+        "[u0971 | 01:39:03.300-01:39:08.560 | DM] for the past 4 years she's been traveling around the green sea",
+        "[u1066 | 01:47:33.350-01:47:42.020 | DM] I have been traveling for 5 years now, and and before I spend most of my time in the."
+      ],
+      "cleanedWording": [
+        "[u0971 | 01:39:03.300-01:39:08.560 | DM] for the past 4 years she's been traveling around the green sea",
+        "[u1066 | 01:47:33.350-01:47:42.020 | DM] I have been traveling for 5 years now, and and before I spent most of my time in the."
+      ]
+    },
+    {
+      "kind": "context_needed",
+      "uids": [
+        "u1726",
+        "u1737",
+        "u1740"
+      ],
+      "reason": "The crafting discussion refers to leaving metal for work and taking the planar metal before departure. Preserve these statements and check referents if a precise crafting chronology is required.",
+      "preparedSourceQuotations": [
+        "[u1726 | 02:43:57.660-02:44:05.580 | DM] Well, you're not taking the medal with you. She can work. That's what I was saying. She can work on stuff.",
+        "[u1737 | 02:44:53.760-02:45:03.389 | DM] Oomi will get started on a bunch of stuff, but nothing will be finished except for the the planner metal, which will be done before you leave.",
+        "[u1740 | 02:45:08.370-02:45:12.210 | DM] the the Enkai, the planner medal"
+      ],
+      "cleanedWording": [
+        "[u1726 | 02:43:57.660-02:44:05.580 | DM] Well, you're not taking the metal with you. She can work. That's what I was saying. She can work on stuff.",
+        "[u1737 | 02:44:53.760-02:45:03.389 | DM] Umli will get started on a bunch of stuff, but nothing will be finished except for the the planar metal, which will be done before you leave.",
+        "[u1740 | 02:45:08.370-02:45:12.210 | DM] the the Inkaye, the planar metal"
+      ]
+    }
+  ]
+}

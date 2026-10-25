@@ -22,7 +22,7 @@
 [u0022 | 00:00:52.080-00:00:52.430 | DM] Oh my god.
 [u0023 | 00:00:52.430-00:00:53.049 | Wellby] That's right there.
 [u0024 | 00:00:53.050-00:00:53.690 | DM] shops.
-[u0025 | 00:00:55.030-00:00:56.570 | Kenzo] Did you get [[a dresser, Ty]]?
+[u0025 | 00:00:55.030-00:00:56.570 | Kenzo] Did you get {{a dresser, Ty}}?
 [u0026 | 00:00:57.660-00:00:59.740 | Wellby] Ra'ghemdros' hoard? Somebody's hoard.
 [u0027 | 00:00:59.740-00:01:02.190 | DM] Yeah, from the… from the circular island.
 [u0028 | 00:01:02.190-00:01:04.910 | Kenzo] Alright, I'm not questioning it, great. Okay.
@@ -67,7 +67,7 @@
 [u0067 | 00:03:55.420-00:04:00.769 | DM] 900, 1,000 feet away, racing towards you at incredible speed.
 [u0068 | 00:04:02.000-00:04:04.659 | DM] Sword in one hand, spear in another.
 [u0069 | 00:04:04.850-00:04:18.840 | DM] The metal of her armor shimmering and almost dripping as she flies. She begins to dive down towards the forest, skimming low over the tops of the trees. When she gets about 600 feet away, she's…
-[u0070 | 00:04:19.010-00:04:27.200 | DM] [[Rose her hands]] in a… Circle in front of her, and as metal strikes three of these trees.
+[u0070 | 00:04:19.010-00:04:27.200 | DM] {{Rose her hands}} in a… Circle in front of her, and as metal strikes three of these trees.
 [u0071 | 00:04:27.550-00:04:34.819 | DM] They burst into… Metallic tornadoes.
 [u0072 | 00:04:37.180-00:04:37.950 | Seeker] Oh, man.
 [u0073 | 00:04:38.650-00:04:39.340 | Delwath] Which trees?
@@ -137,7 +137,7 @@
 [u0137 | 00:08:51.570-00:08:52.140 | DM] Yes.
 [u0138 | 00:08:52.500-00:08:52.880 | Delwath] She's…
 [u0139 | 00:08:52.890-00:08:54.879 | DM] I mean, the metallic.
-[u0140 | 00:08:54.880-00:08:58.430 | Wellby] For the purpose of plus 2 [[scare on our piercing]].
+[u0140 | 00:08:54.880-00:08:58.430 | Wellby] For the purpose of plus 2 {{scare on our piercing}}.
 [u0141 | 00:08:58.430-00:08:59.180 | DM] Yay.
 [u0142 | 00:08:59.180-00:09:06.360 | Wellby] Yeah. Okay, I won't use the super arrow, because she's close enough, so I'll take steady aim.
 [u0143 | 00:09:06.470-00:09:07.680 | Wellby] And shoot her.
@@ -221,7 +221,7 @@
 [u0221 | 00:13:58.740-00:13:59.510 | DM] Actual turn.
 [u0222 | 00:13:59.510-00:14:04.639 | Kenzo] Yeah, Kenzo will, turn into an astral projection, and then activate, Bonus Action Lengau's Claw.
 [u0223 | 00:14:06.240-00:14:08.210 | DM] I think you are already in astral projection.
-[u0224 | 00:14:08.310-00:14:12.629 | Kenzo] Oh yeah, I think I was, you're right, that's an hour. Okay, yeah, I activate [[Endgotling, guys]].
+[u0224 | 00:14:08.310-00:14:12.629 | Kenzo] Oh yeah, I think I was, you're right, that's an hour. Okay, yeah, I activate {{Endgotling, guys}}.
 [u0225 | 00:14:13.130-00:14:13.670 | Audio shared by Tim Sackton] Okay.
 [u0226 | 00:14:13.670-00:14:14.730 | Kenzo] He's still hundreds of feet away, right?
 [u0227 | 00:14:15.170-00:14:16.640 | Audio shared by Tim Sackton] Yeah, she's hundreds of feet away.
@@ -233,7 +233,7 @@
 [u0233 | 00:14:32.850-00:14:36.070 | Delwath] Should the Ladder fly towards her, or at least fly up in the air?
 [u0234 | 00:14:37.950-00:14:45.849 | Seeker] Oh, there's something I forgot to do. When I cast… animating performance I can use…
 [u0235 | 00:14:45.960-00:14:55.490 | Seeker] A Glove of Crystalized Magic to give it… Air… Elemental energy…
-[u0236 | 00:14:56.430-00:14:57.810 | DM] [[It's the anxiety]].
+[u0236 | 00:14:56.430-00:14:57.810 | DM] {{It's the anxiety}}.
 [u0237 | 00:14:58.240-00:14:59.010 | Seeker] by 10.
 [u0238 | 00:14:59.640-00:15:01.389 | DM] So it's 40 foot fly speed.
 [u0239 | 00:15:02.490-00:15:04.640 | Seeker] It's still so… is that even worth doing it so slow?
@@ -241,7 +241,7 @@
 [u0241 | 00:15:08.200-00:15:11.979 | DM] Okay. It's just the Empress of Chaos is… It's really fast.
 [u0242 | 00:15:11.980-00:15:17.270 | Delwath] Before… wait, hold on, before Seeker 5's turn ends, does he have any buff spells?
 [u0243 | 00:15:17.370-00:15:19.320 | Delwath] That would be worth casting on us?
-[u0244 | 00:15:20.020-00:15:21.549 | Delwath] He doesn't have anything that [[makes us bad]].
+[u0244 | 00:15:20.020-00:15:21.549 | Delwath] He doesn't have anything that {{makes us bad}}.
 [u0245 | 00:15:21.550-00:15:25.119 | DM] It's not Seeker 5's turn yet, it's the Metallic Storms' turn, who are racing
 [u0246 | 00:15:25.340-00:15:29.929 | DM] The Empress created them about 100 feet in front of her.
 [u0247 | 00:15:30.720-00:15:38.730 | DM] And they're racing ahead of her, but she will catch them and pass them next turn, because they're moving substantially slower than she does.
@@ -270,7 +270,7 @@
 [u0270 | 00:16:45.520-00:16:48.279 | Seeker] Oh, no, I'll try the ready an action thing.
 [u0271 | 00:16:48.280-00:16:48.900 | DM] Okay.
 [u0272 | 00:16:49.400-00:16:53.880 | DM] So, it's like… What spell slot? With just a fourth level.
-[u0273 | 00:16:55.900-00:17:02.430 | Delwath] I don't think it's worth overcasting it, because the goal is really the… It's really the chance of… [[offset]].
+[u0273 | 00:16:55.900-00:17:02.430 | Delwath] I don't think it's worth overcasting it, because the goal is really the… It's really the chance of… {{offset}}.
 [u0274 | 00:17:02.710-00:17:07.719 | DM] And this is at the Empress or the Metallic Storms, at the Empress?
 [u0275 | 00:17:08.790-00:17:09.959 | Seeker] I think the Empress, yeah.
 [u0276 | 00:17:10.310-00:17:10.849 | DM] Okay.
@@ -281,7 +281,7 @@
 [u0281 | 00:17:23.839-00:17:26.009 | Seeker] Well, what direction is she coming from?
 [u0282 | 00:17:26.690-00:17:27.010 | Delwath] Top left.
 [u0283 | 00:17:27.010-00:17:28.550 | DM] Top left.
-[u0284 | 00:17:29.660-00:17:35.170 | Seeker] So we should all move. Please, so… [[30th]]…
+[u0284 | 00:17:29.660-00:17:35.170 | Seeker] So we should all move. Please, so… {{30th}}…
 [u0285 | 00:17:37.280-00:17:39.040 | Delwath] Actually, I can't believe it for you.
 [u0286 | 00:17:41.510-00:17:42.540 | Seeker] There.
 [u0287 | 00:17:44.400-00:17:45.100 | Audio shared by Tim Sackton] Boom.
@@ -396,7 +396,7 @@
 [u0396 | 00:24:18.480-00:24:19.320 | DM] Nope.
 [u0397 | 00:24:21.560-00:24:22.310 | Audio shared by Tim Sackton] 3.
 [u0398 | 00:24:22.350-00:24:26.450 | Delwath] Ow… I'm, like, 70 feet away from it right now.
-[u0399 | 00:24:27.430-00:24:28.690 | Delwath] Did you say she's [[60 bucks]]?
+[u0399 | 00:24:27.430-00:24:28.690 | Delwath] Did you say she's {{60 bucks}}?
 [u0400 | 00:24:30.820-00:24:32.789 | Delwath] I did not make a strength saving throw.
 [u0401 | 00:24:32.790-00:24:38.270 | DM] Okay, you are both, as this metal wraps around your legs, you are grappled.
 [u0402 | 00:24:38.400-00:24:43.380 | DM] Until the end of your next turn. So that sets your speed to zero.
@@ -416,12 +416,12 @@
 [u0416 | 00:25:36.920-00:25:37.510 | Kenzo] Okay.
 [u0417 | 00:25:37.860-00:25:40.430 | Kenzo] Anybody else need healing?
 [u0418 | 00:25:41.330-00:25:45.390 | Delwath] I mean, I have a few hit points down, if it's free, I'll take it.
-[u0419 | 00:25:46.270-00:25:49.880 | Kenzo] The other thing that I can do, [[just to tell Sharers]], is I can create difficult terrain.
+[u0419 | 00:25:46.270-00:25:49.880 | Kenzo] The other thing that I can do, {{just to tell Sharers}}, is I can create difficult terrain.
 [u0420 | 00:25:52.420-00:25:55.350 | Delwath] I mean, at the moment, I don't see how that would help us that much, but…
 [u0421 | 00:25:55.350-00:26:01.459 | Kenzo] I don't know either, so I feel like healing is probably the best way to go. Wait, are you still… you're still down more hit points, right? Right, Seeker? How many are you down?
 [u0422 | 00:26:01.460-00:26:04.269 | Delwath] Seeker probably could use more, use it, honestly.
 [u0423 | 00:26:04.840-00:26:09.100 | Seeker] I'm at 147, and I'm trying to look inconspicuous directly underneath.
-[u0424 | 00:26:09.100-00:26:10.370 | Kenzo] 147, but [[what's impressive]].
+[u0424 | 00:26:09.100-00:26:10.370 | Kenzo] 147, but {{what's impressive}}.
 [u0425 | 00:26:10.370-00:26:14.620 | Seeker] What's your total? Oh, out of 165, so yeah, I'm down.
 [u0426 | 00:26:14.620-00:26:18.640 | Kenzo] I'm gonna give you another, I'm gonna, give you another, 4d6 of healing.
 [u0427 | 00:26:21.390-00:26:23.200 | Kenzo] Alright, you get 14 more points back.
@@ -436,7 +436,7 @@
 [u0436 | 00:26:44.400-00:26:47.549 | Seeker] A particular damage type would be helpful. No.
 [u0437 | 00:26:48.100-00:26:49.540 | Seeker] So there's no reason to flavor it.
 [u0438 | 00:26:49.950-00:26:51.069 | Seeker] With the glove.
-[u0439 | 00:26:52.410-00:26:54.289 | Seeker] [[Shouldn't telekinesis her]].
+[u0439 | 00:26:52.410-00:26:54.289 | Seeker] {{Shouldn't telekinesis her}}.
 [u0440 | 00:26:56.130-00:27:06.039 | Seeker] Yeah, I'll just try Psychic Disruption again, at… Okay, I'll just go to… A little, 6th level.
 [u0441 | 00:27:10.960-00:27:11.590 | DM] Okay.
 [u0442 | 00:27:11.860-00:27:14.949 | DM] That's a 34 on her intelligence save.
@@ -520,7 +520,7 @@
 [u0520 | 00:32:38.750-00:32:39.940 | Kenzo] Fifth attack.
 [u0521 | 00:32:41.040-00:32:42.880 | Kenzo] 26 hits…
 [u0522 | 00:32:42.880-00:32:43.600 | DM] Yep.
-[u0523 | 00:32:43.600-00:32:51.870 | Kenzo] That does… and… [[26 plus]]… 11 damage.
+[u0523 | 00:32:43.600-00:32:51.870 | Kenzo] That does… and… {{26 plus}}… 11 damage.
 [u0524 | 00:32:52.510-00:32:58.260 | DM] So, as Kenzo launches, hitting with his staff, and then following up with his…
 [u0525 | 00:32:59.020-00:33:05.139 | DM] punches engaging the Empress. These three metallic storms come racing across the battlefield now.
 [u0526 | 00:33:05.630-00:33:12.099 | DM] meeting… the… dashing, so they don't get an action, but meeting the Triceratops.
@@ -566,7 +566,7 @@
 [u0566 | 00:35:37.370-00:35:43.970 | DM] advantage against spells and magical effects. So she straight rolls now until the beginning of her next turn.
 [u0567 | 00:35:44.880-00:35:45.590 | Kenzo] Seeker.
 [u0568 | 00:35:45.590-00:35:50.609 | Seeker] Can Seeker safely and bravely run away a little bit?
-[u0569 | 00:35:51.620-00:35:52.689 | DM] [[She organic]].
+[u0569 | 00:35:51.620-00:35:52.689 | DM] {{She organic}}.
 [u0570 | 00:35:52.690-00:35:53.150 | Seeker] love him.
 [u0571 | 00:35:53.210-00:35:56.320 | DM] Stabbed with a… no, she landed right next to him.
 [u0572 | 00:35:56.580-00:35:58.020 | Seeker] Oh, crap. I wanna…
@@ -613,7 +613,7 @@
 [u0613 | 00:38:20.710-00:38:21.599 | DM] That hits.
 [u0614 | 00:38:22.710-00:38:25.479 | Wellby] Piercing 2D12 plus 6…
 [u0615 | 00:38:26.460-00:38:27.880 | DM] Oh, that does kind of a lot of damage.
-[u0616 | 00:38:28.770-00:38:30.549 | Delwath] Yeah, and if it charges, [[it checks off]].
+[u0616 | 00:38:28.770-00:38:30.549 | Delwath] Yeah, and if it charges, {{it checks off}}.
 [u0617 | 00:38:30.550-00:38:31.769 | DM] It's knowledge.
 [u0618 | 00:38:31.770-00:38:32.470 | Wellby] Yeah.
 [u0619 | 00:38:33.890-00:38:34.490 | Delwath] But that's…
@@ -623,7 +623,7 @@
 [u0623 | 00:38:55.250-00:39:00.489 | DM] And just look at him, look over at the cage, Say it has to go.
 [u0624 | 00:39:01.860-00:39:02.439 | DM] And that's a…
 [u0625 | 00:39:02.440-00:39:02.880 | Delwath] Of course.
-[u0626 | 00:39:03.590-00:39:05.710 | DM] [[When he stabbed]], sorry.
+[u0626 | 00:39:03.590-00:39:05.710 | DM] {{When he stabbed}}, sorry.
 [u0627 | 00:39:05.710-00:39:07.250 | Delwath] Seeker 5's gonna die.
 [u0628 | 00:39:07.250-00:39:07.580 | DM] 5.
 [u0629 | 00:39:07.580-00:39:08.000 | Seeker] Yeah.
@@ -654,8 +654,8 @@
 [u0654 | 00:40:26.530-00:40:28.110 | DM] So, you take…
 [u0655 | 00:40:28.730-00:40:29.130 | Kenzo] I'm.
 [u0656 | 00:40:30.750-00:40:37.250 | DM] I know, let me… let me roll all the damage, and then… and then, you… I'll tell you, it's reduced to half, so…
-[u0657 | 00:40:37.570-00:40:48.790 | DM] That's a total of… 44 plus… [[Two teeth]].
-[u0658 | 00:40:49.440-00:40:54.770 | Delwath] Is Kenzo right after… [[Calvin]]… Kenzo's soon after Delwath, right? I forgot the initiative order.
+[u0657 | 00:40:37.570-00:40:48.790 | DM] That's a total of… 44 plus… {{Two teeth}}.
+[u0658 | 00:40:49.440-00:40:54.770 | Delwath] Is Kenzo right after… {{Calvin}}… Kenzo's soon after Delwath, right? I forgot the initiative order.
 [u0659 | 00:40:57.380-00:41:03.800 | DM] That's a total of… 60 points of damage.
 [u0660 | 00:41:06.110-00:41:07.959 | DM] Reduced to half to 30.
 [u0661 | 00:41:08.610-00:41:10.030 | Kenzo] Which I now will deflect.
@@ -719,12 +719,12 @@
 [u0719 | 00:44:48.120-00:44:52.130 | DM] You've literally just turned level 18. I mean, you haven't fought much since you were level 18.
 [u0720 | 00:44:52.990-00:44:56.289 | DM] Now, lair action. She is definitely within…
 [u0721 | 00:44:56.760-00:44:58.779 | DM] 10 feet of a tree now.
-[u0722 | 00:44:59.090-00:45:00.169 | Kenzo] Sorry, that was [[41]] damage, Tim?
-[u0723 | 00:45:01.000-00:45:02.309 | DM] [[41]] damage, yes.
+[u0722 | 00:44:59.090-00:45:00.169 | Kenzo] Sorry, that was {{41}} damage, Tim?
+[u0723 | 00:45:01.000-00:45:02.309 | DM] {{41}} damage, yes.
 [u0724 | 00:45:03.490-00:45:10.519 | Kenzo] Alright, yeah, the, Heartroot, now bonded and connected to me, and very furious,
 [u0725 | 00:45:10.930-00:45:13.549 | Kenzo] What's that? Is that Tim?
 [u0726 | 00:45:13.990-00:45:15.570 | Audio shared by Tim Sackton] I just said Seeker's next, by the way.
-[u0727 | 00:45:15.570-00:45:24.640 | Kenzo] Okay. Causes the nearby tree, to reach out with a [[mandela]]. And, target mid… target must make a Dex saving throw.
+[u0727 | 00:45:15.570-00:45:24.640 | Kenzo] Okay. Causes the nearby tree, to reach out with a {{mandela}}. And, target mid… target must make a Dex saving throw.
 [u0728 | 00:45:25.700-00:45:29.089 | DM] That's only, 16. I think that fails, right?
 [u0729 | 00:45:29.820-00:45:34.380 | DM] That's your ki, right? So your ki save DC is 18, I believe? Yes, 18.
 [u0730 | 00:45:35.290-00:45:36.790 | DM] Okay, so 16 fails.
@@ -831,13 +831,13 @@
 [u0831 | 00:51:26.370-00:51:27.779 | Delwath] So she's prone.
 [u0832 | 00:51:30.420-00:51:30.740 | DM] Okay.
 [u0833 | 00:51:30.740-00:51:32.629 | Delwath] I get advantage on my other attacks.
-[u0834 | 00:51:32.900-00:51:46.020 | Delwath] And it does… Hold on… [[68… 7]]… Plus… 11…
+[u0834 | 00:51:32.900-00:51:46.020 | Delwath] And it does… Hold on… {{68… 7}}… Plus… 11…
 [u0835 | 00:51:49.400-00:51:56.529 | Delwath] 2d6… So, 49 regular damage and 12 radiant damage.
 [u0836 | 00:51:57.810-00:51:58.680 | DM] Okay.
 [u0837 | 00:52:00.770-00:52:05.430 | Delwath] Second attack… Crits.
 [u0838 | 00:52:06.110-00:52:07.410 | Delwath] With Advantage.
 [u0839 | 00:52:07.940-00:52:18.140 | Delwath] I can't smite, unfortunately, because I already smited, but… Oh, actually… That wasn't a bonus action.
-[u0840 | 00:52:19.840-00:52:28.819 | Delwath] I'm gonna drop this, I'm gonna drop, my… [[Meswati Storm]].
+[u0840 | 00:52:19.840-00:52:28.819 | Delwath] I'm gonna drop this, I'm gonna drop, my… {{Meswati Storm}}.
 [u0841 | 00:52:29.350-00:52:31.179 | Delwath] And do a banishing Smite on her.
 [u0842 | 00:52:32.850-00:52:35.389 | Delwath] Cause I can do that, right? Like, it's the…
 [u0843 | 00:52:35.660-00:52:38.809 | Delwath] Eldritch is not a bonus action, Banishing Smite is a bonus action.
@@ -877,7 +877,7 @@
 [u0877 | 00:54:45.240-00:54:48.840 | Kenzo] So Tim, I was realizing, because I've got her,
 [u0878 | 00:54:48.960-00:54:57.859 | Kenzo] there's this, you know, this Aura Focus, and I… but I do extra damage from Aura Focus, but, it doesn't know… doesn't say what kind of extra damage.
 [u0879 | 00:54:58.860-00:55:00.170 | DM] Oh.
-[u0880 | 00:55:00.540-00:55:03.500 | Kenzo] It says, once at each of your turn, you can deal [[scale value, no level]].
+[u0880 | 00:55:00.540-00:55:03.500 | Kenzo] It says, once at each of your turn, you can deal {{scale value, no level}}.
 [u0881 | 00:55:03.500-00:55:08.410 | DM] Oh, sorry, that's one roll of your martial arts die, so 1D12 extra damage.
 [u0882 | 00:55:09.990-00:55:10.690 | Kenzo] So…
 [u0883 | 00:55:10.690-00:55:14.440 | DM] Sorry, that's an error in D&D Beyond, I'll try and figure out how to fix that.
@@ -1024,7 +1024,7 @@
 [u1024 | 01:04:32.190-01:04:36.180 | DM] She turns around… And flies back to you.
 [u1025 | 01:04:36.500-01:04:37.340 | Kenzo] Whaaat?
 [u1026 | 01:04:38.800-01:04:40.050 | DM] Roll your opportunity attack.
-[u1027 | 01:04:41.080-01:04:47.359 | Kenzo] Can I do, can I do a, A, [[planner]].
+[u1027 | 01:04:41.080-01:04:47.359 | Kenzo] Can I do, can I do a, A, {{planner}}.
 [u1028 | 01:04:48.890-01:04:55.380 | DM] No, you can only do a melee weapon attack, or actually, you can only use your Lengau's Claw, because that's the only thing you've got reach.
 [u1029 | 01:04:55.600-01:04:56.789 | Kenzo] Alright, that's fine, I'll do that.
 [u1030 | 01:04:57.480-01:05:00.740 | Delwath] Man, she just tricked you into using your reaction.
@@ -1080,7 +1080,7 @@
 [u1080 | 01:07:32.510-01:07:35.760 | Wellby] Alright, she's not immune to lightning damage, right?
 [u1081 | 01:07:36.540-01:07:38.539 | DM] She is not immune to lightning damage.
 [u1082 | 01:07:39.010-01:07:43.609 | Wellby] Alright, I will shoot her with the lightning arrow to start, which…
-[u1083 | 01:07:43.610-01:07:44.259 | Kenzo] Is this, like, [[Georgia]]?
+[u1083 | 01:07:43.610-01:07:44.259 | Kenzo] Is this, like, {{Georgia}}?
 [u1084 | 01:07:44.260-01:07:45.280 | Wellby] me an extra 4d6.
 [u1085 | 01:07:45.280-01:07:46.210 | DM] Yeah, yeah, she's bloody.
 [u1086 | 01:07:46.660-01:07:49.580 | Kenzo] We gotta kill- let's kill her. Can you smite her again?
@@ -1131,7 +1131,7 @@
 [u1131 | 01:10:22.340-01:10:23.660 | DM] 20 feet tall, yup.
 [u1132 | 01:10:24.520-01:10:28.299 | Delwath] So how far is it, let's see, from this corner to her?
 [u1133 | 01:10:30.580-01:10:32.000 | Delwath] Like…
-[u1134 | 01:10:32.000-01:10:35.000 | DM] That's [[2010 and 90]].
+[u1134 | 01:10:32.000-01:10:35.000 | DM] That's {{2010 and 90}}.
 [u1135 | 01:10:36.390-01:10:38.569 | Delwath] Now, it would be 70 from the top of the Force Cage.
 [u1136 | 01:10:39.590-01:10:40.640 | DM] 10 and 70.
 [u1137 | 01:10:41.270-01:10:42.829 | Delwath] Yeah, so it'd be…
@@ -1147,7 +1147,7 @@
 [u1147 | 01:11:06.010-01:11:07.650 | Delwath] Right? Because it's… the Raven's Whistle is.
 [u1148 | 01:11:07.650-01:11:09.870 | DM] Yeah, yeah, it doubles, it doubles your speed.
 [u1149 | 01:11:09.870-01:11:14.939 | Delwath] It's 30, and that… Oh, can the Ladder come over here and give me a 10-foot speed boost?
-[u1150 | 01:11:15.750-01:11:17.529 | Seeker] The Ladder was [[35]].
+[u1150 | 01:11:15.750-01:11:17.529 | Seeker] The Ladder was {{35}}.
 [u1151 | 01:11:17.530-01:11:18.750 | DM] Yeah, it's Seeker's turn.
 [u1152 | 01:11:20.800-01:11:21.970 | Seeker] That's true.
 [u1153 | 01:11:21.970-01:11:22.750 | Delwath] Fly over here.
@@ -1168,7 +1168,7 @@
 [u1168 | 01:12:10.060-01:12:10.520 | DM] God.
 [u1169 | 01:12:12.240-01:12:14.280 | Seeker] Do I have a scroll?
 [u1170 | 01:12:16.210-01:12:18.360 | Seeker] Question mark.
-[u1171 | 01:12:20.110-01:12:22.710 | Seeker] Scroll of Cure Wounds. That sounds [[irrelevant]].
+[u1171 | 01:12:20.110-01:12:22.710 | Seeker] Scroll of Cure Wounds. That sounds {{irrelevant}}.
 [u1172 | 01:12:23.710-01:12:26.999 | DM] But you have to… that's touch, unfortunately. Oh, wait, no!
 [u1173 | 01:12:28.780-01:12:33.400 | DM] Can your… no, your glove can only double… it can't make touch spells non-touch, I don't think.
 [u1174 | 01:12:35.230-01:12:36.220 | Seeker] Oh…
@@ -1181,8 +1181,8 @@
 [u1181 | 01:12:46.430-01:12:47.250 | Seeker] So I, I…
 [u1182 | 01:12:47.250-01:12:49.360 | DM] You're gonna have to now double it again.
 [u1183 | 01:12:50.530-01:12:53.270 | DM] Because Kenzo's 90 feet up in the air, so…
-[u1184 | 01:12:54.050-01:12:59.309 | DM] So you're gonna have to… you'd have to spend 3 charges to [[make it touch]], and then double it twice.
-[u1185 | 01:12:59.580-01:13:00.260 | DM] [[To make us third]].
+[u1184 | 01:12:54.050-01:12:59.309 | DM] So you're gonna have to… you'd have to spend 3 charges to {{make it touch}}, and then double it twice.
+[u1185 | 01:12:59.580-01:13:00.260 | DM] {{To make us third}}.
 [u1186 | 01:13:00.260-01:13:01.300 | Seeker] premiums.
 [u1187 | 01:13:03.100-01:13:05.240 | Seeker] What does cure wounds actually do?
 [u1188 | 01:13:05.610-01:13:16.659 | DM] It's probably not worth it, because it's, like, this is the… this is the… one of the first pieces of loot you ever got in this campaign. It's a Cure Wounds, it's level 2, so it does, like, 4d8 plus…
@@ -1274,7 +1274,7 @@
 [u1274 | 01:17:08.930-01:17:12.830 | Delwath] But that actually makes my life a lot easier, because I can go 120 feet with sorcery.
 [u1275 | 01:17:12.830-01:17:15.240 | Kenzo] Are you gonna cast Scatter and rearrange the board right now, or are you gonna get.
 [u1276 | 01:17:15.240-01:17:19.720 | Delwath] Yes. Thank you. I can't get you out of there, I can only do people within 30 feet of me.
-[u1277 | 01:17:20.240-01:17:25.150 | Kenzo] Can you get within [[33]] feet of me and then get me out of there? I mean, I'm getting a bunch of, like, disengage dodge dash shit.
+[u1277 | 01:17:20.240-01:17:25.150 | Kenzo] Can you get within {{33}} feet of me and then get me out of there? I mean, I'm getting a bunch of, like, disengage dodge dash shit.
 [u1278 | 01:17:25.150-01:17:29.089 | Delwath] Oh, wait a minute, hold on, if I fly 70 feet first…
 [u1279 | 01:17:29.090-01:17:30.280 | Seeker] Ha ha ha ha ha ha!
 [u1280 | 01:17:30.530-01:17:32.790 | Delwath] If I plot… fly 70 feet first.
@@ -1353,7 +1353,7 @@
 [u1353 | 01:22:55.660-01:23:00.770 | Delwath] But I still have my action. And Smite doesn't require any sort of action, it just requires hitting.
 [u1354 | 01:23:01.120-01:23:01.870 | Audio shared by Tim Sackton] Yep.
 [u1355 | 01:23:01.870-01:23:04.609 | Delwath] So now, let's see what happens. Attack number one.
-[u1356 | 01:23:10.090-01:23:11.560 | Delwath] [[I keep probably 18s]].
+[u1356 | 01:23:10.090-01:23:11.560 | Delwath] {{I keep probably 18s}}.
 [u1357 | 01:23:13.720-01:23:14.490 | DM] That hits.
 [u1358 | 01:23:14.490-01:23:16.530 | Delwath] I know, I know, but I… but 19…
 [u1359 | 01:23:16.530-01:23:17.919 | DM] Crit on a 19, I know.
@@ -1420,7 +1420,7 @@
 [u1420 | 01:26:33.640-01:26:38.160 | Kenzo] First attack… 29 hits…
 [u1421 | 01:26:38.160-01:26:38.900 | DM] Yep.
 [u1422 | 01:26:39.980-01:26:41.220 | Kenzo] that does…
-[u1423 | 01:26:41.220-01:26:46.349 | DM] She's bloody, but she's not below 25 health. You need another good crit smite [[to be]] Delwath.
+[u1423 | 01:26:41.220-01:26:46.349 | DM] She's bloody, but she's not below 25 health. You need another good crit smite {{to be}} Delwath.
 [u1424 | 01:26:46.350-01:26:53.240 | Kenzo] I need 15 plus, roll 1D6… and then I also get a roll… a D12, right?
 [u1425 | 01:26:53.420-01:26:54.080 | DM] Yep.
 [u1426 | 01:26:54.080-01:26:55.219 | Kenzo] Roll 1D12.
@@ -1433,11 +1433,11 @@
 [u1433 | 01:27:11.670-01:27:16.900 | DM] Shimmer around her, like, almost turning oil slick slightly.
 [u1434 | 01:27:17.860-01:27:22.299 | Kenzo] Alright, 22 hits again, and that does a 7 plus,
 [u1435 | 01:27:22.770-01:27:26.000 | Kenzo] Roll 1D6… 4… that's another 11.
-[u1436 | 01:27:26.630-01:27:30.119 | Kenzo] And then I will disengage and [[dodge]].
+[u1436 | 01:27:26.630-01:27:30.119 | Kenzo] And then I will disengage and {{dodge}}.
 [u1437 | 01:27:30.700-01:27:33.970 | DM] Yeah, so you can get to the ground all the way here.
 [u1438 | 01:27:34.890-01:27:38.330 | Kenzo] Yeah, and I'll get over there, within 60 feet of the Heartroot.
 [u1439 | 01:27:38.620-01:27:39.330 | DM] Yep.
-[u1440 | 01:27:39.560-01:27:41.930 | Kenzo] So, sorry, where am I [[at worst]]?
+[u1440 | 01:27:39.560-01:27:41.930 | Kenzo] So, sorry, where am I {{at worst}}?
 [u1441 | 01:27:42.130-01:27:43.149 | Kenzo] Where's the spot again, Tim?
 [u1442 | 01:27:44.060-01:27:49.589 | DM] So, 60 feet of the Heartroot is, like, right there at the end of that blue arrow.
 [u1443 | 01:27:51.880-01:27:52.770 | Kenzo] And so…
@@ -1568,14 +1568,14 @@
 [u1568 | 01:35:09.550-01:35:10.590 | Delwath] So obnoxious.
 [u1569 | 01:35:10.970-01:35:11.720 | Seeker] Did she just pass?
 [u1570 | 01:35:11.720-01:35:12.240 | DM] No.
-[u1571 | 01:35:12.240-01:35:14.840 | Seeker] Did she pass right by [[midnight]]?
+[u1571 | 01:35:12.240-01:35:14.840 | Seeker] Did she pass right by {{midnight}}?
 [u1572 | 01:35:15.200-01:35:17.920 | Seeker] It's, it's minus 10 because of the Ladder.
 [u1573 | 01:35:18.440-01:35:21.299 | DM] Oh, okay. Within 20 feet of Kenzo.
-[u1574 | 01:35:22.920-01:35:25.030 | DM] [[Until it gets blusted]].
+[u1574 | 01:35:22.920-01:35:25.030 | DM] {{Until it gets blusted}}.
 [u1575 | 01:35:26.280-01:35:30.099 | DM] Yeah, she wouldn't have passed within Wellby's reach.
 [u1576 | 01:35:30.390-01:35:32.510 | DM] Delwath already used his reaction.
 [u1577 | 01:35:33.620-01:35:34.830 | Kenzo] Why is she chasing after me?
-[u1578 | 01:35:35.480-01:35:36.780 | Delwath] [[Is he a connected physiography]].
+[u1578 | 01:35:35.480-01:35:36.780 | Delwath] {{Is he a connected physiography}}.
 [u1579 | 01:35:36.780-01:35:37.860 | DM] Connected to the heart.
 [u1580 | 01:35:38.350-01:35:38.820 | Kenzo] How'd you know that?
 [u1581 | 01:35:40.270-01:35:48.409 | DM] She's obviously been sensing the… tracking the Heartroot. I said at the very beginning, you can tell that she could see where it was, even though she was blinded.
@@ -1588,7 +1588,7 @@
 [u1588 | 01:36:16.780-01:36:19.849 | DM] 140, so add…
 [u1589 | 01:36:20.990-01:36:29.719 | DM] 10, 25, 30… add 25 to whatever you're doing if you want to be next to her.
 [u1590 | 01:36:29.720-01:36:31.879 | Kenzo] What do you mean, add 25?
-[u1591 | 01:36:31.880-01:36:35.110 | DM] So, if you want to be… Sorry, Kenzo's [[curious]].
+[u1591 | 01:36:31.880-01:36:35.110 | DM] So, if you want to be… Sorry, Kenzo's {{curious}}.
 [u1592 | 01:36:35.110-01:36:35.589 | Kenzo] coming to me?
 [u1593 | 01:36:35.590-01:36:40.599 | DM] So she is 25 feet further away from the Heartroot than her position on the board.
 [u1594 | 01:36:44.300-01:36:46.180 | Delwath] because Kenzo's not quite on the board.
@@ -1666,7 +1666,7 @@
 [u1666 | 01:40:49.790-01:40:56.070 | DM] She's used two Legendary Resistances, and she has advantage on saves, because… oh no, she doesn't have advantage, because she used…
 [u1667 | 01:40:57.700-01:41:00.409 | DM] She used the Legendary Resistance to avoid blind.
 [u1668 | 01:41:00.730-01:41:02.619 | DM] From Wellby's last attack.
-[u1669 | 01:41:03.110-01:41:05.849 | Delwath] So she's [[doll 3]]? Er, she's 3 now.
+[u1669 | 01:41:03.110-01:41:05.849 | Delwath] So she's {{doll 3}}? Er, she's 3 now.
 [u1670 | 01:41:06.980-01:41:10.010 | DM] Oh no, she… that was last round, sorry, that wasn't this round.
 [u1671 | 01:41:10.140-01:41:11.080 | DM] She's used two.
 [u1672 | 01:41:14.730-01:41:15.610 | Delwath] polymorph.
@@ -1712,7 +1712,7 @@
 [u1712 | 01:43:30.880-01:43:31.630 | DM] it's safe.
 [u1713 | 01:43:31.630-01:43:32.949 | Delwath] Terwick is safe.
 [u1714 | 01:43:32.950-01:43:34.720 | DM] She has failed multiple…
-[u1715 | 01:43:37.700-01:43:41.780 | Delwath] Wow, she could always use a [[legendary action]] to… get past it, but…
+[u1715 | 01:43:37.700-01:43:41.780 | Delwath] Wow, she could always use a {{legendary action}} to… get past it, but…
 [u1716 | 01:43:44.980-01:43:46.949 | Kenzo] How many legendary actions does she have?
 [u1717 | 01:43:46.950-01:43:49.660 | Delwath] She has 3, most creatures have 3.
 [u1718 | 01:43:50.420-01:43:52.140 | Delwath] Anyway, that's what I did, so…
@@ -1751,7 +1751,7 @@
 [u1751 | 01:46:28.320-01:46:31.449 | Seeker] So the Ladder has strength 18…
 [u1752 | 01:46:33.330-01:46:35.639 | Seeker] So what do I roll? Let's see…
 [u1753 | 01:46:36.940-01:46:40.249 | DM] So I think it's just plus 1D20 plus 4.
-[u1754 | 01:46:45.720-01:46:46.939 | Seeker] Oh, that's pretty good. [[83]].
+[u1754 | 01:46:45.720-01:46:46.939 | Seeker] Oh, that's pretty good. {{83}}.
 [u1755 | 01:46:47.360-01:46:47.940 | Seeker] Good job.
 [u1756 | 01:46:47.940-01:46:51.669 | DM] So… Wellby is grappled but the Ladder is not.
 [u1757 | 01:46:51.960-01:46:54.229 | Seeker] Good job, Ladder.
@@ -1782,7 +1782,7 @@
 [u1782 | 01:48:34.180-01:48:36.690 | Kenzo] Yeah. There's upsides to that, but we can't keep up.
 [u1783 | 01:48:39.090-01:48:44.709 | Delwath] But if she goes another 150 feet away, she'll be out of range of Wellby's arrows, she'll… Delwath, won't be able to…
 [u1784 | 01:48:44.710-01:48:48.210 | DM] No, well, because our… Wellby's still
-[u1785 | 01:48:48.790-01:48:50.819 | DM] [[her out]]. He can hit her from anywhere.
+[u1785 | 01:48:48.790-01:48:50.819 | DM] {{her out}}. He can hit her from anywhere.
 [u1786 | 01:48:50.820-01:48:51.869 | Delwath] tragedy, right?
 [u1787 | 01:48:52.130-01:48:53.140 | DM] He just says her name.
 [u1788 | 01:48:53.440-01:48:54.420 | Audio shared by Tim Sackton] Yeah, yeah.
@@ -1848,11 +1848,11 @@
 [u1848 | 01:52:04.060-01:52:10.599 | DM] I do, so… Sanctuary, first attack, With the sword, that's a…
 [u1849 | 01:52:11.310-01:52:14.800 | DM] 2 on the die, so it's a,
 [u1850 | 01:52:14.980-01:52:17.199 | DM] 9 on the Wisdom save, so…
-[u1851 | 01:52:18.090-01:52:20.930 | Audio shared by Tim Sackton] She's not gonna waste a [[legendary action]] on that.
+[u1851 | 01:52:18.090-01:52:20.930 | Audio shared by Tim Sackton] She's not gonna waste a {{legendary action}} on that.
 [u1852 | 01:52:21.530-01:52:22.270 | Delwath] Okay?
 [u1853 | 01:52:22.270-01:52:28.759 | DM] Not even rolling the disadvantaged, or not even rolling second one. That succeeds past the sanctuary.
 [u1854 | 01:52:29.400-01:52:36.230 | DM] There's an 18 on the die. With disadvantage, That's, 9 plus…
-[u1855 | 01:52:37.290-01:52:40.010 | Delwath] Oh, and 18 on the die. She has more than a plus 2 on this [[device]].
+[u1855 | 01:52:37.290-01:52:40.010 | Delwath] Oh, and 18 on the die. She has more than a plus 2 on this {{device}}.
 [u1856 | 01:52:40.010-01:52:45.589 | DM] Yeah. 9 plus 16, that's a 24.
 [u1857 | 01:52:46.330-01:52:47.340 | DM] With the sword.
 [u1858 | 01:52:47.440-01:52:48.140 | Kenzo] Oh, boy.
@@ -1982,9 +1982,9 @@
 [u1982 | 01:59:10.450-01:59:12.600 | Delwath] As long as I can act. Is it my turn?
 [u1983 | 01:59:12.600-01:59:12.940 | DM] Wait.
 [u1984 | 01:59:14.330-01:59:15.729 | Delwath] Smite is not an action.
-[u1985 | 01:59:16.510-01:59:22.029 | DM] No, but… it's a [[sorce. Sorcerer. It doesn't… That's lot]], yeah, yeah.
+[u1985 | 01:59:16.510-01:59:22.029 | DM] No, but… it's a {{sorce. Sorcerer. It doesn't… That's lot}}, yeah, yeah.
 [u1986 | 01:59:22.030-01:59:27.060 | Delwath] No, no, no, no, Smite is a spell slot, but I can use a Sorcerer spell slot, it's a healing word.
-[u1987 | 01:59:27.960-01:59:29.080 | Delwath] [[I was casting a spell]].
+[u1987 | 01:59:27.960-01:59:29.080 | Delwath] {{I was casting a spell}}.
 [u1988 | 01:59:29.080-01:59:31.630 | DM] But you can't expend two spell slots in one turn.
 [u1989 | 01:59:33.230-01:59:34.660 | Delwath] But Smite, I don't think…
 [u1990 | 01:59:37.270-01:59:40.859 | DM] I'm pretty sure you can't smite and bonus action cast a spell in one turn.
@@ -2134,7 +2134,7 @@
 [u2134 | 02:09:51.820-02:09:59.710 | Kenzo] Alright, let's do that. I'll do Paralyzing Breath first. Okay. So, Kenzo Dragon…
 [u2135 | 02:10:00.070-02:10:03.039 | Kenzo] Shoots out a 60-foot cone of…
 [u2136 | 02:10:04.730-02:10:05.840 | Audio shared by Tim Sackton] Breath weapon.
-[u2137 | 02:10:05.960-02:10:06.810 | DM] [[DC10]].
+[u2137 | 02:10:05.960-02:10:06.810 | DM] {{DC10}}.
 [u2138 | 02:10:08.040-02:10:19.380 | DM] So, as you see this dragon begin to rise up above the trees, silver with, like, a faint sort of greenish glowing lines through it from the Heartroot, it opens its mouth in this…
 [u2139 | 02:10:19.700-02:10:22.160 | Audio shared by Tim Sackton] cone of… .
 [u2140 | 02:10:22.750-02:10:28.779 | DM] of… Energy flies out, targeting this swirling mass.
@@ -2201,7 +2201,7 @@
 [u2201 | 02:14:51.870-02:14:56.180 | DM] Okay, so two bolts of force strike it as it moves 80 feet.
 [u2202 | 02:14:56.330-02:14:58.530 | DM] And then it is going to…
 [u2203 | 02:14:59.590-02:15:02.509 | DM] Dash to move another 80 feet.
-[u2204 | 02:15:02.690-02:15:07.380 | DM] So that puts it, [[160]] away.
+[u2204 | 02:15:02.690-02:15:07.380 | DM] So that puts it, {{160}} away.
 [u2205 | 02:15:09.960-02:15:13.880 | DM] And that is… All it can do.
 [u2206 | 02:15:15.690-02:15:18.040 | DM] That brings up Wellby.
 [u2207 | 02:15:18.860-02:15:22.080 | Wellby] I'm gonna shoot Metallic Storm number 2 first.
@@ -2230,7 +2230,7 @@
 [u2230 | 02:16:50.650-02:16:52.110 | Delwath] And so, how far away is it from me?
 [u2231 | 02:16:52.520-02:16:55.199 | DM] From you, it's a hun… it's 220.
 [u2232 | 02:16:57.879-02:16:58.349 | Kenzo] Let's a day.
-[u2233 | 02:16:58.350-02:17:00.480 | Seeker] [[I should've looked]] bad at int, right?
+[u2233 | 02:16:58.350-02:17:00.480 | Seeker] {{I should've looked}} bad at int, right?
 [u2234 | 02:17:00.480-02:17:02.439 | DM] It's bad at Int, yup.
 [u2235 | 02:17:02.440-02:17:05.160 | Audio shared by Tim Sackton] Alright, so I'll cast another Psychic Disruption.
 [u2236 | 02:17:08.450-02:17:09.899 | DM] That fails.
@@ -2254,7 +2254,7 @@
 [u2254 | 02:18:26.500-02:18:28.180 | Delwath] But that's… I don't have a…
 [u2255 | 02:18:28.510-02:18:31.760 | Delwath] Bonus… I'd have to use a bonus action…
 [u2256 | 02:18:32.040-02:18:36.690 | Delwath] Holding onto this last spell slot is increasingly unclear if it's worth it.
-[u2257 | 02:18:42.180-02:18:46.859 | Kenzo] Tim, can I use my legendary action after anybody's turn, or [[only after turn]]?
+[u2257 | 02:18:42.180-02:18:46.859 | Kenzo] Tim, can I use my legendary action after anybody's turn, or {{only after turn}}?
 [u2258 | 02:18:46.860-02:18:47.200 | Delwath] Yeah.
 [u2259 | 02:18:47.639-02:18:48.109 | Kenzo] Okay.
 [u2260 | 02:18:48.110-02:18:55.789 | DM] So you could use one after… you used one already to move, you can use another one, you can move again if you just want to keep chasing it.
@@ -2298,7 +2298,7 @@
 [u2298 | 02:21:20.210-02:21:24.939 | DM] And that is your turn, so you can move 80 feet on your turn, so you're 20 feet away from it.
 [u2299 | 02:21:25.330-02:21:35.140 | DM] You can… try another… You can try another breath.
 [u2300 | 02:21:35.440-02:21:40.409 | DM] You're not quite in range of its… Of your.
-[u2301 | 02:21:40.410-02:21:41.430 | Kenzo] [[Neil at the rend]].
+[u2301 | 02:21:40.410-02:21:41.430 | Kenzo] {{Neil at the rend}}.
 [u2302 | 02:21:41.590-02:21:43.680 | Delwath] Why don't you cast Hold Monster?
 [u2303 | 02:21:44.160-02:21:45.520 | DM] Yeah, you could cast Hold Monster.
 [u2304 | 02:21:48.040-02:21:51.630 | Kenzo] Choose a creature that you can see within range.
@@ -2532,7 +2532,7 @@
 [u2532 | 02:33:00.180-02:33:07.380 | Kenzo] And then, second attack… Sorry.
 [u2533 | 02:33:08.310-02:33:10.780 | Kenzo] 31 hits…
 [u2534 | 02:33:10.780-02:33:11.220 | DM] Yeah.
-[u2535 | 02:33:11.220-02:33:15.039 | Kenzo] 2d8 plus 8… do I get the [[plus 2]] again, or is that only on that one?
+[u2535 | 02:33:11.220-02:33:15.039 | Kenzo] 2d8 plus 8… do I get the {{plus 2}} again, or is that only on that one?
 [u2536 | 02:33:15.410-02:33:18.049 | DM] No, just the first one, just the one where you used Bardic.
 [u2537 | 02:33:18.050-02:33:19.270 | Kenzo] That does 21.
 [u2538 | 02:33:20.240-02:33:22.260 | Kenzo] And then, last attack…
@@ -2578,8 +2578,8 @@
 [u2578 | 02:35:24.340-02:35:24.730 | Delwath] So…
 [u2579 | 02:35:24.730-02:35:25.829 | Kenzo] Let me hold Monster.
 [u2580 | 02:35:25.830-02:35:27.370 | Delwath] Yeah, do a hold monster.
-[u2581 | 02:35:32.870-02:35:37.399 | DM] it rolled a natural 1, last [[legendary action]] is gone.
-[u2582 | 02:35:38.450-02:35:40.360 | Kenzo] What? It still had [[a little reactions]].
+[u2581 | 02:35:32.870-02:35:37.399 | DM] it rolled a natural 1, last {{legendary action}} is gone.
+[u2582 | 02:35:38.450-02:35:40.360 | Kenzo] What? It still had {{a little reactions}}.
 [u2583 | 02:35:41.380-02:35:42.590 | DM] That was the last one.
 [u2584 | 02:35:42.870-02:35:46.460 | Kenzo] Oh, wait, can I… wait, I should use… I'm gonna use a le- can I… I can use a Legendary Resistance.
 [u2585 | 02:35:46.460-02:35:49.109 | DM] Yes, you can use a legendary Resistance to not…
@@ -2747,7 +2747,7 @@
 [u2747 | 02:47:01.810-02:47:03.150 | DM] That was a great strategy.
 [u2748 | 02:47:03.750-02:47:04.290 | Kenzo] That's great.
 [u2749 | 02:47:05.150-02:47:12.099 | Audio shared by Tim Sackton] I wouldn't have thought of it, I'm glad Mike did. I mostly thought of it because Tim used the spell on us.
-[u2750 | 02:47:12.800-02:47:14.130 | Audio shared by Tim Sackton] And it's the [[same smell of the wicked]].
+[u2750 | 02:47:12.800-02:47:14.130 | Audio shared by Tim Sackton] And it's the {{same smell of the wicked}}.
 [u2751 | 02:47:14.130-02:47:18.860 | DM] Right, so when you were trapped on the ship, when you went to go… Eric wasn't there.
 [u2752 | 02:47:19.680-02:47:20.760 | Kenzo] Eric wasn't there.
 [u2753 | 02:47:20.760-02:47:21.340 | Audio shared by Tim Sackton] Potter.

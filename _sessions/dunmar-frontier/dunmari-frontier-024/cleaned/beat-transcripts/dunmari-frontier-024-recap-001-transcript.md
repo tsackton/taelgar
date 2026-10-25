@@ -38,7 +38,7 @@ Unknown: In the temple.
 DM: Okay, so I have a map up in Roll20. Oh, I—
 
 %% u0028 %%
-Unknown: [[Got a heading.]]
+Unknown: {{Got a heading.}}
 
 %% u0029-u0032 %%
 DM: Heading over to the temple. So it's about maybe half an hour until sunset, maybe more like forty minutes. And it takes you maybe five or ten minutes to approach and start to look around the temple.
@@ -80,7 +80,7 @@ Delwath: And he says, ‘There’s a warning written here. Some sort of a menace
 Kenzo: How can you tell?
 
 %% u0072-u0074 %%
-Delwath: I can see a warning written in the shadows. [[But a menace.]] A menace, I guess, in the temple.
+Delwath: I can see a warning written in the shadows. {{But a menace.}} A menace, I guess, in the temple.
 
 %% u0075-u0077 %%
 Seeker: I step back, pulling my hand away from the wall at the temple. Who's making this warning?
@@ -131,7 +131,7 @@ DM: No, you did not do—
 Delwath: You got—
 
 %% u0099-u0101 %%
-DM: [[Your shirt now.]] The lightning trap. Oh yeah, you tried to open the door to the master's library.
+DM: {{Your shirt now.}} The lightning trap. Oh yeah, you tried to open the door to the master's library.
 
 %% u0102 %%
 Seeker: Kenzo, I'm noticing that you don't look great.
@@ -152,10 +152,10 @@ Unknown: here.
 Seeker: Perhaps I can offer you—
 
 %% u0109 %%
-Delwath: [[Offer us here, right?]]
+Delwath: {{Offer us here, right?}}
 
 %% u0110 %%
-Kenzo: [[Would even before]]—I do need some healing before, if we're sensing anything ominous about this temple, which it seems that we do, and perhaps healing would be in—
+Kenzo: {{Would even before}}—I do need some healing before, if we're sensing anything ominous about this temple, which it seems that we do, and perhaps healing would be in—
 
 %% u0111 %%
 Seeker: Order. It might be more prudent to make use of the potions or healing mud.
@@ -167,10 +167,10 @@ Kenzo: I've got a potion, potion of healing. Is that right? All right, I'll use 
 DM: 2d—2d4, I should say.
 
 %% u0114-u0115 %%
-Delwath: 2d4 plus two. [[Is a huge killing.]]
+Delwath: 2d4 plus two. {{Is a huge killing.}}
 
 %% u0116 %%
-Kenzo: [[Any roll that, yeah.]]
+Kenzo: {{Any roll that, yeah.}}
 
 %% u0117 %%
 Seeker: Oh nailed it.
@@ -179,16 +179,16 @@ Seeker: Oh nailed it.
 Kenzo: Wait, I—
 
 %% u0119-u0120 %%
-Seeker: [[Have been four times.]] That’s a lot. Potions can—
+Seeker: {{Have been four times.}} That’s a lot. Potions can—
 
 %% u0121 %%
 Unknown: looks.
 
 %% u0122 %%
-DM: [[Slick, it has five.]]
+DM: {{Slick, it has five.}}
 
 %% u0123 %%
-Seeker: [[You can keep pretend we're cutting you have.]]
+Seeker: {{You can keep pretend we're cutting you have.}}
 
 %% u0124 %%
 Kenzo: Rolling a potion with advantage. All right, I'll be on eleven. Let's do another one.
@@ -197,7 +197,7 @@ Kenzo: Rolling a potion with advantage. All right, I'll be on eleven. Let's do a
 Seeker: You've definitely brought some color back, Kenzo.
 
 %% u0126-u0127 %%
-Delwath: How many potions of healing do we have as a party? I have one. [[Lead to healing.]]
+Delwath: How many potions of healing do we have as a party? I have one. {{Lead to healing.}}
 
 %% u0128 %%
 Seeker: It looks like I have two healing muds and one potion of healing.
@@ -212,7 +212,7 @@ Delwath: I would use one more.
 Kenzo: I'll use another one. I'll use up my—
 
 %% u0132-u0133 %%
-DM: All right, just click on the 2d4. [[Another step and...]]
+DM: All right, just click on the 2d4. {{Another step and...}}
 
 %% u0134 %%
 Seeker: I also have this Cure Wounds scroll. What does that do exactly, though?
@@ -251,7 +251,7 @@ Unknown: Like—
 DM: It looks like a small chapel or something like that in front of you, and then to your left and right there are stairs up.
 
 %% u0151 %%
-Wellby: [[Sort of the javelin go.]]
+Wellby: {{Sort of the javelin go.}}
 
 %% u0152-u0154 %%
 Delwath: Yeah. Can we make the drift globes as bright as possible? I mean, is it maybe creating light?
@@ -281,7 +281,7 @@ DM: Yeah, I mean, it was.
 Delwath: It still—
 
 %% u0167-u0168 %%
-Kenzo: Kenzo—can I do some stuff, like see if Bhishma’s presence is here, and I, like, you know... [[Business that they can I.]]
+Kenzo: Kenzo—can I do some stuff, like see if Bhishma’s presence is here, and I, like, you know... {{Business that they can I.}}
 
 %% u0169 %%
 Seeker: You’re credentialed now, so.
@@ -290,7 +290,7 @@ Seeker: You’re credentialed now, so.
 Unknown: yeah.
 
 %% u0171 %%
-Delwath: [[Anyway, don't like calif a place]]—it's still holy to a god.
+Delwath: {{Anyway, don't like calif a place}}—it's still holy to a god.
 
 %% u0172 %%
 Unknown: Right.
@@ -305,13 +305,13 @@ Seeker: Can.
 DM: Look at your—remember that thing you can do that you haven't done since, like, the second session?
 
 %% u0176-u0177 %%
-Kenzo: That I have not done since the second session. [[Our focus.]]
+Kenzo: That I have not done since the second session. {{Our focus.}}
 
 %% u0178-u0179 %%
-Seeker: You know, I'm scanning—oh, structural integrity of the... [[I want to hear your...]]
+Seeker: You know, I'm scanning—oh, structural integrity of the... {{I want to hear your...}}
 
 %% u0180 %%
-Delwath: [[Job whatever you his face it.]]
+Delwath: {{Job whatever you his face it.}}
 
 %% u0181 %%
 Seeker: Cracks and flaws in the stone architecture.
@@ -320,7 +320,7 @@ Seeker: Cracks and flaws in the stone architecture.
 DM: So you're gonna take ten minutes for that?
 
 %% u0183 %%
-Delwath: Yeah, I mean, before we go in, I think [[we get caught it]]. Yep.
+Delwath: Yeah, I mean, before we go in, I think {{we get caught it}}. Yep.
 
 %% u0184 %%
 Kenzo: What is the thing I can do, Tim? I don't actually see the thing. Is it an action?
@@ -344,7 +344,7 @@ Unknown: way.
 Delwath: That's a great idea, but maybe if you detect the evil, we should reconsider. We should go quicker. What are we achieving by going into this temple?
 
 %% u0193-u0194 %%
-Wellby: We're finding out what's inside. [[Questions this will be.]]
+Wellby: We're finding out what's inside. {{Questions this will be.}}
 
 %% u0195 %%
 Kenzo: Yeah, Detect Good and Evil.
@@ -401,7 +401,7 @@ DM: That's not quite that—
 Unknown: way.
 
 %% u0215 %%
-Kenzo: [[Like this very, very, very tough on us now.]]
+Kenzo: {{Like this very, very, very tough on us now.}}
 
 %% u0216-u0220 %%
 DM: Okay, so you don't see anything, Delwath. You see nothing with Fey Sight in your immediate vicinity as you go into this first entryway. Your Detect Good and Evil is still running, and you don't sense anything within thirty feet in this first entry chapel.
@@ -461,7 +461,7 @@ Seeker: What if—
 DM: There were just stairs up in the previous hall. I mean, you've only entered into a relatively small part of the temple itself. There could be stairs down somewhere else.
 
 %% u0260 %%
-Kenzo: [[This is to avoid going down to go down]].
+Kenzo: {{This is to avoid going down to go down}}.
 
 %% u0261 %%
 Unknown: So you.
@@ -518,7 +518,7 @@ Unknown: well.
 Wellby: You know, I'm all for, and I would cast my vote to explore this temple from top to bottom and find out who lives in the basement. But it seems like the more sensible course of action might be to leave. What—
 
 %% u0292-u0294 %%
-Kenzo: [[Wow think. Why don't we just look for you and then leave. This for this quarter up there's no me.]]
+Kenzo: {{Wow think. Why don't we just look for you and then leave. This for this quarter up there's no me.}}
 
 %% u0295 %%
 Wellby: Right, that's three votes for exploring.
@@ -530,7 +530,7 @@ Seeker: How do you count that?
 Delwath: I think we should—I've been intrigued as to why I saw a warning.
 
 %% u0299 %%
-Kenzo: [[Wellby’s clearly influenced. Let's finish this as well.]] I—
+Kenzo: {{Wellby’s clearly influenced. Let's finish this as well.}} I—
 
 %% u0300 %%
 Delwath: Think we should be cautious.
@@ -539,7 +539,7 @@ Delwath: Think we should be cautious.
 Kenzo: Let's continue with me.
 
 %% u0302 %%
-Seeker: [[Yes, arena]]—walk softly up the stairs, is that your suggestion?
+Seeker: {{Yes, arena}}—walk softly up the stairs, is that your suggestion?
 
 %% u0303 %%
 Kenzo: Was there anything else on this floor, then?
@@ -635,7 +635,7 @@ Seeker: I think you just signed something to that effect, yes.
 Kenzo: Well, sort of asking, do I feel a compulsion to liberate this temple?
 
 %% u0388-u0392 %%
-DM: I mean, certainly, you know, that wouldn't be—I mean, it's up to you, right? I think you can decide how you—I mean, that's how your character feels about things, right? [[Do you like them emotion]], but—
+DM: I mean, certainly, you know, that wouldn't be—I mean, it's up to you, right? I think you can decide how you—I mean, that's how your character feels about things, right? {{Do you like them emotion}}, but—
 
 %% u0393 %%
 Kenzo: I'm saying, for the order, is it part of the training to feel like that, or is it, you know—

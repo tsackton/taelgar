@@ -14,7 +14,7 @@ DM: We'll pick up in the early evening, as you are sitting together in your smal
 DM: After spending more time in Karawa this afternoon, the damage doesn't seem as bad as it did when you arrived. A lot of it is just cosmetic: the bright colors of the canvas awnings that once lined the narrow streets all burned; the clean-washed stone of the plaza around the oasis dirty with dirt and soot and dried remains of blood; and the shade palms that once sheltered it cut down. But many of the buildings in town seem to remain, with only the outskirts near the caravanserai—sadly, Delwath's apartment also—seeming to have suffered the worst.
 
 %% u0328-u0332 %%
-DM: Still, as you sit and chat with your companions as the sun begins to set, the air quickly cooling without the beating intensity of the midday light, you can't help but think back briefly on how you got to this point. It was just over a month ago, for most of you, that you arrived in Karawa; more like five months [[for…]]. And almost exactly a month ago since you all met in town on that fateful morning when a giant hyena rushed out from the desert and you all leapt into action, starting you down the path [[enough data to try]].
+DM: Still, as you sit and chat with your companions as the sun begins to set, the air quickly cooling without the beating intensity of the midday light, you can't help but think back briefly on how you got to this point. It was just over a month ago, for most of you, that you arrived in Karawa; more like five months {{for…}}. And almost exactly a month ago since you all met in town on that fateful morning when a giant hyena rushed out from the desert and you all leapt into action, starting you down the path {{enough data to try}}.
 
 %% u0333-u0336 %%
 DM: So with that, I think we'll start with a brief description. If you could all go around and give a quick description of your character and, to the extent you want, an update on how your character is processing the events of the past month. We had talked about that briefly last time, but it's up to you how much you've thought about that. At least a description of what you're doing right now.
@@ -23,13 +23,13 @@ DM: So with that, I think we'll start with a brief description. If you could all
 Unknown: As we get into your discussion of your plans.
 
 %% u0338-u0341 %%
-Kenzo: Kenzo is crouched by the fire, eating some rations. [[Is a box]]—what's the weather like, specifically?
+Kenzo: Kenzo is crouched by the fire, eating some rations. {{Is a box}}—what's the weather like, specifically?
 
 %% u0342-u0343 %%
 DM: It's a desert; it's the dry season. It's hot every day, dry every day. It cools off quickly at night, and the sun sets rapidly. There's hardly any twilight. Cooling down.
 
 %% u0344-u0349 %%
-Kenzo: He's crouched, the hood up over his head; you really can't see the expression on his face. He's got some grub that he's absentmindedly, slowly eating, and then kind of playing with his necklace. Looks lost in thought. [[And it's mostly other pump.]]
+Kenzo: He's crouched, the hood up over his head; you really can't see the expression on his face. He's got some grub that he's absentmindedly, slowly eating, and then kind of playing with his necklace. Looks lost in thought. {{And it's mostly other pump.}}
 
 %% u0350 %%
 DM: If you want to share any—at the end of last session we had started talking about how everybody's characters were dealing with the events of the past month.
@@ -41,7 +41,7 @@ Kenzo: So this is more narrative, not the character saying it out loud. Kenzo, a
 Seeker: Seeker is crouched over a little ways away from the fire, surrounded, as he sometimes is, by a scattering of drawings and books and sketches. His journal of unanswered questions, quickly sketched maps of this world and speculations of other ones. What he's crouching over now is in front of him, kind of glowing, like the one he conjured up during the conversation around Tharandros when we were speculating about the different planes of reality.
 
 %% u0370-u0377 %%
-Seeker: He's become a little bit obsessed with this idea now that he knows for sure—or at least according to a centaur—that there exists not just a dream world, the Plane of Magic, but a Shadowfell and a Feywild and the Nightmare Realm, and that these are all not just echoes but maybe [[yearnings]] of the world we're in. In front of him is a tiny glowing disk containing at its center a tiny fire. Crouched around it are tiny figures representing ourselves. It's floating a foot or so from the ground, and surrounding it are these shifting, glowing orbs, perhaps representing mirrors of the world we're in, various kinds of distortions and links. Experimenting with different ways to manipulate and transform them, and perhaps bridge between them. This is how he's dealing with the situation: hyper-cerebral obsession.
+Seeker: He's become a little bit obsessed with this idea now that he knows for sure—or at least according to a centaur—that there exists not just a dream world, the Plane of Magic, but a Shadowfell and a Feywild and the Nightmare Realm, and that these are all not just echoes but maybe {{yearnings}} of the world we're in. In front of him is a tiny glowing disk containing at its center a tiny fire. Crouched around it are tiny figures representing ourselves. It's floating a foot or so from the ground, and surrounding it are these shifting, glowing orbs, perhaps representing mirrors of the world we're in, various kinds of distortions and links. Experimenting with different ways to manipulate and transform them, and perhaps bridge between them. This is how he's dealing with the situation: hyper-cerebral obsession.
 
 %% u0378-u0382 %%
 Delwath: Delwath is sitting by the fire, paging through the book of poems we found in the giant's castle, the book of Elvish poems. But he's currently not really paying attention. He keeps reading part of a page and then looking up, staring away, either towards the east or sometimes back towards Kenzo. So looking somewhat lost in thought, but not daydreaming; more speculating and thinking.
@@ -71,7 +71,7 @@ Seeker: I'm kind of obsessed with the temple. But I can't go inside.
 Unknown: And you can—you ask.
 
 %% u0411-u0413 %%
-Seeker: [[You like this is a tangle this before]]. It's just, yeah, a very secretive area.
+Seeker: {{You like this is a tangle this before}}. It's just, yeah, a very secretive area.
 
 %% u0414 %%
 Wellby: I think we have to wait till we finish the next Arc to unlock that map.
@@ -146,7 +146,7 @@ Kenzo: What am I rolling? Oh yeah, okay. Oh, I'm insightful a lot. I have advant
 Unknown: Yeah.
 
 %% u0455-u0459 %%
-Kenzo: All right, insightful. Experienced. I wouldn't say he's felt shame, but he's definitely felt guilt. There may have been some mistakes that he or his clan or his [[mystai]] made that he feels regretful about.
+Kenzo: All right, insightful. Experienced. I wouldn't say he's felt shame, but he's definitely felt guilt. There may have been some mistakes that he or his clan or his {{mystai}} made that he feels regretful about.
 
 %% u0460-u0461 %%
 Seeker: Well, this great protection they were responsible for has failed, so undoubtedly, as someone in charge of it, he'd feel responsible. The question is whether they're hiding something from us, if they know about something they did.
@@ -242,7 +242,7 @@ Kenzo: Look.
 Delwath: Is there something you were hoping to learn?
 
 %% u0528-u0533 %%
-Kenzo: I am. There is. I think, as you well know, part of why I'm here connects back to—as I've shared with you, you've also had strange visions of places you don't understand. I've had many such dreams and visions over the course of my life. I don't know, it's hard to say, but I think some of these things are connected to the token I've had with me since I was a child. He's just fingering this little necklace that he has. [[Was that.]]
+Kenzo: I am. There is. I think, as you well know, part of why I'm here connects back to—as I've shared with you, you've also had strange visions of places you don't understand. I've had many such dreams and visions over the course of my life. I don't know, it's hard to say, but I think some of these things are connected to the token I've had with me since I was a child. He's just fingering this little necklace that he has. {{Was that.}}
 
 %% u0534-u0539 %%
 Delwath: Is Kenzo's necklace at all interesting via Feysight? Do you know what that necklace is?
@@ -260,7 +260,7 @@ Kenzo: I've always had it.
 Seeker: I put on my purple gemstone goggles and peer over. You can…
 
 %% u0557 %%
-DM: Make an Arcana check, [[whether…]]
+DM: Make an Arcana check, {{whether…}}
 
 %% u0558 %%
 Delwath: It seems quite magical.
@@ -302,7 +302,7 @@ Kenzo: It's it's it's literally like this.
 Seeker: Little piece of jade yeah.
 
 %% u0581 %%
-Kenzo: Kenzo's not going to let you touch it. You can tell he's a little [[PC]] showing it to you. It's literally this…
+Kenzo: Kenzo's not going to let you touch it. You can tell he's a little {{PC}} showing it to you. It's literally this…
 
 %% u0582 %%
 Seeker: I'm like I got my face like up as close as I can get.
@@ -329,7 +329,7 @@ Seeker: But nobody here? Well, nobody is here anymore, right?
 DM: There's nobody here. Probably even you could make it into something that's…
 
 %% u0597-u0601 %%
-Delwath: Right. [[Who used to be here]], but I do think we should find a safe storage spot for our things. I don't think it's worth bringing a giant block of adamantine, and possibly not even the mirror. A lot to carry on an expedition.
+Delwath: Right. {{Who used to be here}}, but I do think we should find a safe storage spot for our things. I don't think it's worth bringing a giant block of adamantine, and possibly not even the mirror. A lot to carry on an expedition.
 
 %% u0602 %%
 Unknown: Good.
@@ -413,7 +413,7 @@ Unknown: Okay.
 DM: So Delwath is gathering up stuff. Anybody else want to do anything?
 
 %% u0648-u0649 %%
-Kenzo: Yeah, so Kenzo takes time meditating. And then [[I let her say when I understand]]—I just want to ask Candrosa some more about this stuff. I kind of want to talk more about all that. Then maybe we should, metagame, not do that right now; that's a longer conversation.
+Kenzo: Yeah, so Kenzo takes time meditating. And then {{I let her say when I understand}}—I just want to ask Candrosa some more about this stuff. I kind of want to talk more about all that. Then maybe we should, metagame, not do that right now; that's a longer conversation.
 
 %% u0650-u0651 %%
 Delwath: Just from a game perspective, I feel like it might be fun to actually do something that isn't just discussing what we're gonna do at some point. In the next session or two.

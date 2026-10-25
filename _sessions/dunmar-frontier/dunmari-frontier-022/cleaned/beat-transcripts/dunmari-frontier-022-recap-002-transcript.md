@@ -47,7 +47,7 @@ Wellby: What's the diameter?
 DM: It's fairly big. It's maybe two and a half feet. Certainly, Wellby, you could almost... You're...
 
 %% u0743 %%
-Unknown: [[Dependence.]]
+Unknown: {{Dependence.}}
 
 %% u0744 %%
 Delwath: Is it dry? Yeah, it's completely dry.
@@ -203,7 +203,7 @@ Delwath: And Wellby is a little bit of stealth...
 DM: And a perception check.
 
 %% u0835-u0836 %%
-Wellby: [[Lee.]] I'm rolling terribly today.
+Wellby: {{Lee.}} I'm rolling terribly today.
 
 %% u0837-u0842 %%
 DM: So, actually, let me just see something there. Okay, you begin to move forward through this path. You're coming up the slope and through this path, and as you get closer you can see that this area back here is probably a kitchen or something like that. From the air it was hard to tell, but from ground level you can see that there's two big archways, and there's a well out here, which is probably connected to those pipes somehow. Through the opening, you can see big hearths and things like that.
@@ -293,10 +293,10 @@ Delwath: On—I'll motion for Kenzo to come nearby, and then I will cast Invisib
 Seeker: Oh.
 
 %% u0891 %%
-Kenzo: Sorry, I see. [[Very...]]
+Kenzo: Sorry, I see. {{Very...}}
 
 %% u0892-u0893 %%
-Delwath: [[Good in too far away.]] And...
+Delwath: {{Good in too far away.}} And...
 
 %% u0894 %%
 Seeker: This is unnecessary, you guys. Oh...
@@ -305,7 +305,7 @@ Seeker: This is unnecessary, you guys. Oh...
 Delwath: I can get my spells back quickly. We just need to rest for an hour in this deadly place where we will die.
 
 %% u0896-u0897 %%
-Seeker: Just try not to get... [[This invalidating.]]
+Seeker: Just try not to get... {{This invalidating.}}
 
 %% u0898 %%
 Unknown: Um.
@@ -335,7 +335,7 @@ Kenzo: Wait, so Wellby's gonna run around...?
 Delwath: You go to Wellby. I will go around the back.
 
 %% u0909-u0910 %%
-Kenzo: All right. [[So terribly]], but let's go ahead.
+Kenzo: All right. {{So terribly}}, but let's go ahead.
 
 %% u0911-u0912 %%
 Seeker: I'll just stay more or less here. You guys good?
@@ -467,7 +467,7 @@ Delwath: The doors are closed?
 DM: The stone doors are closed, yes. So there's the big dining room here. There's stone doors here that lead back this way, and then there's the kitchens you explored. And there was a passageway leading off the kitchen to some pantries and storerooms that you didn't...
 
 %% u0998-u0999 %%
-Kenzo: Explicitly the place that we want to go see, we have to go past the [[crazy watery eyes, the deep, the head to thanks]] guys.
+Kenzo: Explicitly the place that we want to go see, we have to go past the {{crazy watery eyes, the deep, the head to thanks}} guys.
 
 %% u1000 %%
 Wellby: Do we have any idea what these things are, any of us?
@@ -491,7 +491,7 @@ Seeker: But, well...
 DM: I know.
 
 %% u1010 %%
-Seeker: [[Writing it to the...]]
+Seeker: {{Writing it to the...}}
 
 %% u1011-u1016 %%
 DM: Seeker—Delwath, both Delwath and Seeker, you recognize these. These are manticores. Delwath, you've actually heard stories of and fought these before. They are dim-witted but evil, cruel predators who are often found in the service of orcs or ogres or giants. Their notable feature is not only can they fly, but at least the full-grown ones have spikes that they can fire from their tails.

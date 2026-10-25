@@ -428,7 +428,7 @@ Unknown: [laughs]
 Seeker: He just had to absorb a lot of hits over and over again and just barely make it through.
 
 %% u10593-u10595 %%
-Unknown: Exactly. Yeah, that's right. [[Abs, abs, abs]]. It was perfect.
+Unknown: Exactly. Yeah, that's right. {{Abs, abs, abs}}. It was perfect.
 
 %% u10596 %%
 Seeker: Oh, God, never gonna be a dragon again.

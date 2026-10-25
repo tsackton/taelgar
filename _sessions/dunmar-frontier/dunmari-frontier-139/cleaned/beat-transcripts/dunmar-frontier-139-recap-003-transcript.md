@@ -107,7 +107,7 @@ DM: ...like, Darba. The Chardonian Navy basically claimed Darba, and now that th
 Wellby: Like a client state of Chardon.
 
 %% u1388-u1400 %%
-DM: ...it's a client state of Chardon. The part of Dunmar north and east of Darba, so Tokra, the central plains, Songara, Karawa, remains the kingdom of Dunmar or Eastern Dunmar. It's not... In the grand tradition of West Frankia, East Frankia, and Middle Frankia, it's probably just East Dunmar now, ruled by Sura. While the part south of Darba, so the floodplains, the [[nine]] floodplains west of the Yuvanti Mountains, where you never really went—
+DM: ...it's a client state of Chardon. The part of Dunmar north and east of Darba, so Tokra, the central plains, Songara, Karawa, remains the kingdom of Dunmar or Eastern Dunmar. It's not... In the grand tradition of West Frankia, East Frankia, and Middle Frankia, it's probably just East Dunmar now, ruled by Sura. While the part south of Darba, so the floodplains, the {{nine}} floodplains west of the Yuvanti Mountains, where you never really went—
 
 %% u1401 %%
 Wellby: [coughs]
@@ -728,7 +728,7 @@ Unknown: Possibly.
 DM: [coughs] What?
 
 %% u1690 %%
-Unknown: [[Mir town]].
+Unknown: {{Mir town}}.
 
 %% u1691-u1692 %%
 DM: Yeah, that was one of the souls that you rescued—
@@ -1148,7 +1148,7 @@ Unknown: [laughs]
 DM: No.
 
 %% u1905 %%
-Delwath: That you're supposed to tell [[how powerful]] the Dunmari sorcerer?
+Delwath: That you're supposed to tell {{how powerful}} the Dunmari sorcerer?
 
 %% u1906 %%
 Unknown: [coughs]
@@ -1580,7 +1580,7 @@ Kenzo: [laughs] I'm not sure it's in our budget.
 Unknown: [laughs]
 
 %% u2109-u2116 %%
-DM: "That's, like... That's not that much. You can afford that. But why?" And they talk amongst themselves a bit. It's like... [[To Whispers Cry]], "Wait a minute. I only pay you 100 gold a day."
+DM: "That's, like... That's not that much. You can afford that. But why?" And they talk amongst themselves a bit. It's like... {{To Whispers Cry}}, "Wait a minute. I only pay you 100 gold a day."
 
 %% u2117 %%
 Delwath: I'm not very good at math. Sorry. You might be right.
@@ -1598,7 +1598,7 @@ DM: But it has to be a good book.
 Unknown: Can you read?
 
 %% u2122-u2124 %%
-DM: Obviously. I mean, I have [[magical]]. As long as it's in the right language.
+DM: Obviously. I mean, I have {{magical}}. As long as it's in the right language.
 
 %% u2125-u2126 %%
 Unknown: Well, I wrote it.

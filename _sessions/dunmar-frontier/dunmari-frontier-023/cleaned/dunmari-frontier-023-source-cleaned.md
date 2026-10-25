@@ -2,8 +2,8 @@
 [u0002 | 00:00:18.000-00:00:19.830 | DM] About three hours before sunset.
 [u0003 | 00:00:21.390-00:00:30.900 | DM] Wellby and Delwath are sitting in the middle of the main dining hall waiting for Seeker and Kenzo to return from their journey deeper into the mysteries of the Monastery of Bhishma.
 [u0004 | 00:00:32.640-00:00:45.390 | DM] About an hour ago, this is the lair of a manticore family, the bodies of the four dead manticores two adults and two young lie, where you killed them the foul smell of their blood beginning to drift through the large room and the still air.
-[u0005 | 00:00:46.740-00:00:55.170 | DM] Outside the distant banging of the sole survivor of the battle left locked in the bath House has faded [[because dead companions lying with the]].
-[u0006 | 00:00:58.230-00:00:58.920 | DM] [[New heat]].
+[u0005 | 00:00:46.740-00:00:55.170 | DM] Outside the distant banging of the sole survivor of the battle left locked in the bath House has faded {{because dead companions lying with the}}.
+[u0006 | 00:00:58.230-00:00:58.920 | DM] {{New heat}}.
 [u0007 | 00:01:00.180-00:01:05.970 | DM] you've come to the monastery seeking answers, although to which questions is not always entirely clear.
 [u0008 | 00:01:07.920-00:01:08.490 | DM] Here the.
 [u0009 | 00:01:09.750-00:01:24.840 | DM] Mystai have been collecting stories and histories of Dunmar, and perhaps in those stories somewhere the answers to who or what Grash is why the orcs are fighting a civil war, what happened 30 years ago to the Mystai of Bhishma.
@@ -159,7 +159,7 @@
 [u0159 | 00:14:28.350-00:14:28.950 | Seeker] I think.
 [u0160 | 00:14:29.610-00:14:30.480 | Seeker] I did praying.
 [u0161 | 00:14:31.110-00:14:32.910 | Kenzo] I asked, I asked where she was.
-[u0162 | 00:14:33.570-00:14:35.460 | Kenzo] [[last word before beach about was]].
+[u0162 | 00:14:33.570-00:14:35.460 | Kenzo] {{last word before beach about was}}.
 [u0163 | 00:14:37.020-00:14:39.480 | Kenzo] and respond to that she was with me.
 [u0164 | 00:14:39.810-00:14:40.980 | DM] where she was.
 [u0165 | 00:14:41.220-00:14:41.490 | Kenzo] where she.
@@ -195,7 +195,7 @@
 [u0195 | 00:16:42.330-00:16:42.990 | Kenzo] reddish it okay.
 [u0196 | 00:16:43.470-00:16:45.150 | Kenzo] i'm reddish ochre stone.
 [u0197 | 00:16:46.590-00:16:47.190 | Seeker] Men.
-[u0198 | 00:16:47.280-00:16:49.440 | Seeker] A [[shadow stone]] or a rough one.
+[u0198 | 00:16:47.280-00:16:49.440 | Seeker] A {{shadow stone}} or a rough one.
 [u0199 | 00:16:50.850-00:16:52.920 | Seeker] Read us a rough focused on like.
 [u0200 | 00:16:55.500-00:17:05.310 | Seeker] I mean that describes this the sandstone that the Mesa of where the temple of Shakun is carved.
 [u0201 | 00:17:05.970-00:17:07.140 | Kenzo] It is made of.
@@ -2008,7 +2008,7 @@
 [u2008 | 02:49:47.760-02:49:48.540 | Kenzo] And then.
 [u2009 | 02:49:49.890-02:49:51.270 | Kenzo] hold on Let me read you this thing.
 [u2010 | 02:49:52.440-02:49:57.480 | Kenzo] As you place your shard of jade in the gash the hand feels warm to the touch of almost like a person.
-[u2011 | 02:49:58.020-02:50:11.070 | Kenzo] grasping the hand you feel yourself pulled through a vortex you see a brief glimpse of a vast formless expanse filled with pulsing flashing multicolored and vibrantly alive, [[when some color drifting Costa space in the possible ways]] I think it's like transporting through that plane of.
+[u2011 | 02:49:58.020-02:50:11.070 | Kenzo] grasping the hand you feel yourself pulled through a vortex you see a brief glimpse of a vast formless expanse filled with pulsing flashing multicolored and vibrantly alive, {{when some color drifting Costa space in the possible ways}} I think it's like transporting through that plane of.
 [u2012 | 02:50:12.240-02:50:12.630 | Kenzo] You know.
 [u2013 | 02:50:13.770-02:50:20.280 | Kenzo] Something—standing before you is a man, robed and hooded and holding a staff in one hand, his other hand, and seeming all his arm is made of jade
 [u2014 | 02:50:23.010-02:50:28.410 | Kenzo] It looks at you, for a long moment than in the movement so quick seems like teleportation oh yeah Rai could teleport right.

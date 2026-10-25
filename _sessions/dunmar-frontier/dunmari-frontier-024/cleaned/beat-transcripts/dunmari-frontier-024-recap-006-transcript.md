@@ -29,7 +29,7 @@ DM: Dark black metal, possibly metal—from this perspective it’s hard to say.
 Unknown: A skeletal creature.
 
 %% u2019-u2025 %%
-DM: Maybe seven foot tall, wearing chainmail armor. Resting against the back of the throne is a wicked-looking glaive with a blade that's sort of etched in. It almost looks like it's been [[slightly in a way]], so it's got this jagged, jagged edge.
+DM: Maybe seven foot tall, wearing chainmail armor. Resting against the back of the throne is a wicked-looking glaive with a blade that's sort of etched in. It almost looks like it's been {{slightly in a way}}, so it's got this jagged, jagged edge.
 
 %% u2026-u2030 %%
 DM: This skeletal creature is sitting in this throne, looking intently at two orcs that are kneeling on the ground, bowed down entirely on the ground in front of this chair. And he seems to be saying something quietly to them.
@@ -47,13 +47,13 @@ DM: Do you speak Orcish?
 Delwath: We have a scroll of Comprehend Languages, so if you don't, cast it.
 
 %% u2035-u2038 %%
-Seeker: Oh yeah. Okay, so moving quickly here, where's that scroll? Yeah, I just put them in the [[free end]] equipment list. Yes, so it's Tongues.
+Seeker: Oh yeah. Okay, so moving quickly here, where's that scroll? Yeah, I just put them in the {{free end}} equipment list. Yes, so it's Tongues.
 
 %% u2039 %%
 Delwath: Is even better.
 
 %% u2040-u2042 %%
-Seeker: That's what that one's called. Can I—oh man, I probably should [[academy is]].
+Seeker: That's what that one's called. Can I—oh man, I probably should {{academy is}}.
 
 %% u2043 %%
 DM: Is Tongues concentration?
@@ -122,7 +122,7 @@ DM: No, you can't do that.
 Seeker: This couldn’t be, like, Grash Junior, his deputy assistant for the engineers?
 
 %% u2086 %%
-Unknown: [[Are be.]]
+Unknown: {{Are be.}}
 
 %% u2087 %%
 Seeker: Yeah.
@@ -152,7 +152,7 @@ Seeker: Next step: go fight him, definitely.
 Delwath: Yeah, totally. Totally good idea to fight him, maybe once we're tenth level.
 
 %% u2102 %%
-Kenzo: [[Right now]], I'm saying in general.
+Kenzo: {{Right now}}, I'm saying in general.
 
 %% u2103 %%
 Delwath: But absolutely, totally excited to fight him.
@@ -206,7 +206,7 @@ DM: He doesn't care. Then he holds up his fist and points with his wrist, almost
 Delwath: I think it's ten minutes.
 
 %% u2142 %%
-Seeker: That sounds right. [[That's August.]]
+Seeker: That sounds right. {{That's August.}}
 
 %% u2143 %%
 DM: So he then—
@@ -233,7 +233,7 @@ DM: And just drift towards the center of the room. And he leans close to them an
 Delwath: Switch.
 
 %% u2159 %%
-Seeker: [[So as its first.]]
+Seeker: {{So as its first.}}
 
 %% u2160 %%
 Unknown: Switch.
@@ -242,7 +242,7 @@ Unknown: Switch.
 DM: You can hear the sound of him whispering: ‘Go forth. Find these invaders. Drain them. Bring their cursed bodies back.’
 
 %% u2167 %%
-Unknown: [[Trina.]]
+Unknown: {{Trina.}}
 
 %% u2168-u2171 %%
 DM: ‘Go, my friends.’ And he goes and touches each one with his hand that has the ring on it. They shimmer for a moment and then fade back against the wall.
@@ -254,7 +254,7 @@ Kenzo: They look like the same shadows that were in the temple thing?
 DM: They look similar, yeah. Oh man, they drift forth. He then sits with his head in his hands, looking down for a moment, and then reaches behind him and pulls a scroll out from his chair. Starts to pull it down, and the spell ends.
 
 %% u2178 %%
-Kenzo: [[We are more this this is this shit.]]
+Kenzo: {{We are more this this is this shit.}}
 
 %% u2179 %%
 Seeker: Oh, oh.
@@ -299,7 +299,7 @@ Wellby: The open fridge, just kind of shaking.
 Unknown: Oh.
 
 %% u2198-u2199 %%
-Kenzo: [[You like fighter]], he's got, like, just—
+Kenzo: {{You like fighter}}, he's got, like, just—
 
 %% u2200 %%
 DM: Hear stuff.
@@ -323,7 +323,7 @@ Seeker: You’re off adventuring right now.
 Delwath: Yeah, but I'll be back.
 
 %% u2207-u2210 %%
-Seeker: Okay, okay. [[Which move.]] I'm going to move—I had, now I have—oh, wait, no.
+Seeker: Okay, okay. {{Which move.}} I'm going to move—I had, now I have—oh, wait, no.
 
 %% u2211 %%
 DM: That's—once it's in place—
@@ -353,7 +353,7 @@ Wellby: A lot of trouble.
 Delwath: Right, exactly. It’s like, it could get worse.
 
 %% u2223 %%
-Seeker: [[line is six this scroll near Grash’s head]].
+Seeker: {{line is six this scroll near Grash’s head}}.
 
 %% u2224-u2226 %%
 DM: Okay, so given that you've already seen this room, now you can position it anywhere you'd like in the room. Amazing. Clairvoyance is a great spell.
@@ -389,7 +389,7 @@ Seeker: Yeah.
 DM: Another five minutes for this. Okay, so the—
 
 %% u2239 %%
-Seeker: [[Seth away the Grash wraps are.]]
+Seeker: {{Seth away the Grash wraps are.}}
 
 %% u2240 %%
 DM: But Fruity Pebbles is not—
@@ -407,7 +407,7 @@ DM: Well, I know the reference. I'm just saying I'm not sure that's something Gr
 Kenzo: Oh yeah.
 
 %% u2245-u2250 %%
-DM: [[I love working next.]] Okay, so the sensor reappears. You begin trying to jot down what you see on this scroll as fast as you can, but as—
+DM: {{I love working next.}} Okay, so the sensor reappears. You begin trying to jot down what you see on this scroll as fast as you can, but as—
 
 %% u2251-u2252 %%
 Seeker: Inadvertently casting it over here, too.
@@ -437,7 +437,7 @@ Seeker: Wait, hold on, you—
 DM: And you seem to have caught part—you've missed the first five or six words or so. Saying, ‘Report more invaders in the city and continued failure to find more—’
 
 %% u2275 %%
-Seeker: [[Grash work seek.]]
+Seeker: {{Grash work seek.}}
 
 %% u2276-u2277 %%
 DM: ‘The orcs will be ready’—let’s see, I’m not keeping track of words—‘orcs will be ready to strike.’
@@ -455,13 +455,13 @@ Seeker: It's like they know something's there.
 Kenzo: Who’s he sending this to? Is he sending it to his fucking boss?
 
 %% u2285 %%
-Seeker: [[Who is the word for.]]
+Seeker: {{Who is the word for.}}
 
 %% u2286 %%
 Unknown: Sure.
 
 %% u2287 %%
-Kenzo: [[For delegate so.]]
+Kenzo: {{For delegate so.}}
 
 %% u2288 %%
 Seeker: Convenient how Delwath is just not around right at the moment.
@@ -470,7 +470,7 @@ Seeker: Convenient how Delwath is just not around right at the moment.
 DM: And then, all is silence again.
 
 %% u2290 %%
-Seeker: [[Political instance.]]
+Seeker: {{Political instance.}}
 
 %% u2291-u2294 %%
 DM: And you hear the sound of pacing. Switch to visual, and you can see that he is pacing back and forth in this room. Step, step, step.
@@ -533,10 +533,10 @@ Seeker: He's got style, but—
 Wellby: He's got anger management problems.
 
 %% u2321-u2322 %%
-Kenzo: [[Measure problems.]] He's got orcs with bodies that are—heads that are mismatched in his army.
+Kenzo: {{Measure problems.}} He's got orcs with bodies that are—heads that are mismatched in his army.
 
 %% u2323 %%
-Seeker: [[Pretty]], but he's got a good team, you know.
+Seeker: {{Pretty}}, but he's got a good team, you know.
 
 %% u2324-u2325 %%
 DM: And with that, you see nothing else before the spell fades. Just Grash sitting after having cast that spell and received his reply, which apparently angered him.
@@ -545,7 +545,7 @@ DM: And with that, you see nothing else before the spell fades. Just Grash sitti
 Seeker: That was a good use of two spell slots. The suggestion to do it the second time was good, yeah.
 
 %% u2327 %%
-Kenzo: [[So getting mission ever.]]
+Kenzo: {{So getting mission ever.}}
 
 %% u2328-u2332 %%
 DM: Yeah, while this is going on, Delwath, you are scouting through the northern part. You scout quietly towards the edge of the city. On this northern side of the city, the wall is, in most places, completely flattened. Whether it's been taken over the years for stone, or—I mean, some places it looks like it's been smashed by a large boulder or giant-sized club. That gate here that you enter through is mostly destroyed, just part of one tower still stands.
@@ -554,7 +554,7 @@ DM: Yeah, while this is going on, Delwath, you are scouting through the northern
 DM: This northern ruined side of the town seems to be in the worst shape of any of the—this is from Wellby’s bird scouting. So as you enter, you can see there's a road running from the gate. As you continue down, you're passing through a part of town, but it's hard to tell even what this once was, because few of the buildings still have walls, and almost none have roofs. You're basically wandering through foundations. Occasionally you'll see something with a partial roof intact, a few things that might be warehouses or maybe a bakery or homes. But it's difficult to tell much of the city here, as this area has suffered seemingly the most damage. Is there anything in particular you're looking for? What's your goal with this scouting mission?
 
 %% u2343-u2344 %%
-Delwath: Two things. I am going to look for signs of activity, but also I'm going to try and see if I can find anything distinctive that I can pick up and bring back to show [[and you dumb as these mirror]].
+Delwath: Two things. I am going to look for signs of activity, but also I'm going to try and see if I can find anything distinctive that I can pick up and bring back to show {{and you dumb as these mirror}}.
 
 %% u2345 %%
 Kenzo: Oh.
@@ -578,7 +578,7 @@ Unknown: Make—
 DM: An Investigation check.
 
 %% u2357 %%
-Kenzo: [[Who should we have done this for the monastery to know the objects that we needed it should be brought back in the monster]].
+Kenzo: {{Who should we have done this for the monastery to know the objects that we needed it should be brought back in the monster}}.
 
 %% u2358-u2362 %%
 DM: So, yeah, it's really hard to tell about the buildings, given that most of them don't really even have—I mean, these are really ruins. And given that you're moving relatively quickly, and the time pressure on you, you don't have a sense that there's a notable building. Two things that you do note. One is that once you've got about five minutes into the city, five, ten-ish minutes, maybe—
@@ -593,7 +593,7 @@ Delwath: Totally all traps. I'm not following any of that stuff.
 Unknown: The other thing, as you—
 
 %% u2371 %%
-DM: [[Put these boys.]]
+DM: {{Put these boys.}}
 
 %% u2372 %%
 Delwath: Grash trying to get us to all die by saving nonexistent people, I think.
@@ -629,7 +629,7 @@ DM: It was abandoned shortly—
 Delwath: After the Great—
 
 %% u2389-u2391 %%
-DM: War, because the plague front went as far as about ten, fifteen miles west of the Kharja River, of this river. And so anybody who didn’t flee presumably died in the plague, right? So it was abandoned when it was [[written out]]. At that point, it was not ruined, ruined. Nobody really knows when it was, exactly. [[Sure, right, right, okay.]]
+DM: War, because the plague front went as far as about ten, fifteen miles west of the Kharja River, of this river. And so anybody who didn’t flee presumably died in the plague, right? So it was abandoned when it was {{written out}}. At that point, it was not ruined, ruined. Nobody really knows when it was, exactly. {{Sure, right, right, okay.}}
 
 %% u2392 %%
 Unknown: Um.
@@ -683,7 +683,7 @@ Delwath: Coming from a specific—I mean, if I took one minute to walk in the di
 DM: Yeah, they're all coming from specific directions. You could walk in the direction of the voice.
 
 %% u2440-u2441 %%
-Delwath: Is it coming towards the palace? They’re like—[[No, they seem—]]
+Delwath: Is it coming towards the palace? They’re like—{{No, they seem—}}
 
 %% u2442 %%
 DM: To be all different directions.
@@ -725,7 +725,7 @@ Kenzo: We're gonna go party with Grash now. Now that—no, no, we can be—
 Delwath: Freaking haunted.
 
 %% u2470 %%
-Kenzo: [[That's not what you fake]], like we're all friends.
+Kenzo: {{That's not what you fake}}, like we're all friends.
 
 %% u2471-u2472 %%
 Delwath: I think all the dead Dunmari who died horribly are haunting the city.
@@ -734,10 +734,10 @@ Delwath: I think all the dead Dunmari who died horribly are haunting the city.
 Seeker: Mm hmm.
 
 %% u2474-u2475 %%
-Kenzo: [[That is the revenue cycle solution traps.]] I don’t think those were illusions, like—
+Kenzo: {{That is the revenue cycle solution traps.}} I don’t think those were illusions, like—
 
 %% u2476-u2484 %%
-Delwath: I don't think so. I think it sounded a little too much like real Dunmari people who really died horribly. [[Wow.]] And I went towards one, and it didn't trigger any trap. It wasn't luring me in, right? If it was a trap, when you went towards it, it would sound like it would be directing you somewhere, right? If it's just nebulous like that, I think it's truly haunted. I think there's a lot of disturbed souls trapped in that city somewhere.
+Delwath: I don't think so. I think it sounded a little too much like real Dunmari people who really died horribly. {{Wow.}} And I went towards one, and it didn't trigger any trap. It wasn't luring me in, right? If it was a trap, when you went towards it, it would sound like it would be directing you somewhere, right? If it's just nebulous like that, I think it's truly haunted. I think there's a lot of disturbed souls trapped in that city somewhere.
 
 %% u2485-u2486 %%
 Kenzo: So I gotta go, yeah.
@@ -746,7 +746,7 @@ Kenzo: So I gotta go, yeah.
 Delwath: We do.
 
 %% u2488-u2489 %%
-Kenzo: That was awesome. It was awesome. So glad we did that and [[learn saga rush]]. That was epic.
+Kenzo: That was awesome. It was awesome. So glad we did that and {{learn saga rush}}. That was epic.
 
 %% u2490 %%
 Seeker: Really epic. Sounds cool.

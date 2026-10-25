@@ -35,7 +35,7 @@ DM: Yeah, I can give you some tips. I'm not sure I'm prepared to venture out the
 Kenzo: We'll find you, we'll find you. And I was, like, tired, annoyed, looks at the rest of the party.
 
 %% u1022 %%
-Seeker: [[Well, the year]].
+Seeker: {{Well, the year}}.
 
 %% u1023-u1024 %%
 Wellby: Wellby glances up at the sun to judge how much time's left in the day.
@@ -233,7 +233,7 @@ Wellby: Do you think that stealing the eyes is plausibly to be used for some mea
 Kenzo: That.
 
 %% u1145-u1146 %%
-Wellby: The eyes of the giant were just strictly, Tim said, [[giant fancy importance]].
+Wellby: The eyes of the giant were just strictly, Tim said, {{giant fancy importance}}.
 
 %% u1147 %%
 Delwath: I expect the eyes of a frost giant—of a storm giant—are powerfully magical.
@@ -254,7 +254,7 @@ Seeker: Yeah we don't know.
 Unknown: It's an interesting parallel.
 
 %% u1153 %%
-Seeker: [[The elves have]]... Hadn't thought about that.
+Seeker: {{The elves have}}... Hadn't thought about that.
 
 %% u1154-u1156 %%
 Delwath: Foresight is not always a gift. Elven history teaches us that.
@@ -314,7 +314,7 @@ Kenzo: Okay, I'm glad we're talking about this, because this is good to know abo
 Seeker: Not naturally.
 
 %% u1185-u1190 %%
-Kenzo: Okay, oh, right. Fuck. Wait, that's interesting. So, me, human David Kong guy... Okay, so Kenzo spent five years in a monastery and fucking studied a lot of this metaphysical stuff, actually, [[like a call]]. So, what does...? Okay, you just sent me a message.
+Kenzo: Okay, oh, right. Fuck. Wait, that's interesting. So, me, human David Kong guy... Okay, so Kenzo spent five years in a monastery and fucking studied a lot of this metaphysical stuff, actually, {{like a call}}. So, what does...? Okay, you just sent me a message.
 
 %% u1191 %%
 DM: That says, this is what Laka... This is your quantum knowledge that you've never decided what you've learned as your hidden mystery of the...
@@ -347,7 +347,7 @@ Kenzo: Where you woke.
 Delwath: I woke, right. Or this mysterious stone house. Take the mirror to the stone house and say, "Hey, mirror, where did this house come from?"
 
 %% u1212 %%
-Wellby: [[Current entirely]], but they're all on the way to each other. We chat with Old Mother Agata, we stop by the empty house, we go to the city, we loop back again.
+Wellby: {{Current entirely}}, but they're all on the way to each other. We chat with Old Mother Agata, we stop by the empty house, we go to the city, we loop back again.
 
 %% u1213 %%
 Delwath: See I'd do Agata last.
@@ -476,7 +476,7 @@ Delwath: Like Hralgar, it is far.
 Seeker: In my.
 
 %% u1274 %%
-Kenzo: [[Attitude it is Lakan]].
+Kenzo: {{Attitude it is Lakan}}.
 
 %% u1275 %%
 Wellby: The famous Elvish humor.
@@ -488,7 +488,7 @@ Delwath: Yes, a hundred years, guys. Come on, seriously.
 Seeker: Tim, in my...
 
 %% u1278 %%
-Delwath: [[In my schedule]] you'll forget my joke.
+Delwath: {{In my schedule}} you'll forget my joke.
 
 %% u1279 %%
 DM: Yeah.
@@ -578,7 +578,7 @@ Kenzo: We should do a little metagame before the next time, so I can actually kn
 DM: Oh yeah that'd be awesome hey.
 
 %% u1333-u1337 %%
-Kenzo: [[Of things like I should go idea]]. Feels like it's actually pretty relevant to the questions that... Yeah. That probably actually goes... Yes.
+Kenzo: {{Of things like I should go idea}}. Feels like it's actually pretty relevant to the questions that... Yeah. That probably actually goes... Yes.
 
 %% u1338 %%
 DM: I'd be totally happy to do that. That'd be awesome.
@@ -587,7 +587,7 @@ DM: I'd be totally happy to do that. That'd be awesome.
 Unknown: All right, let's.
 
 %% u1340-u1341 %%
-Kenzo: [[Have some part again. Target]].
+Kenzo: {{Have some part again. Target}}.
 
 %% u1342 %%
 DM: Tharandros.
@@ -599,7 +599,7 @@ Unknown: Tharandros.
 Kenzo: How did we convince them again to investigate this?
 
 %% u1345 %%
-Unknown: [[Is that this out]].
+Unknown: {{Is that this out}}.
 
 %% u1346-u1350 %%
 DM: Delwath told them that Candrosa knows about dreams. And also a sort of, people are gonna die thing, right? Oh, and then, wait, Wellby. It was actually Wellby who convinced him in the end, and I forget exactly what he said.
@@ -641,7 +641,7 @@ DM: No, I'm trying to maintain verisimilitude.
 Unknown: Hide.
 
 %% u1374 %%
-Kenzo: [[Or similar]].
+Kenzo: {{Or similar}}.
 
 %% u1375-u1376 %%
 DM: I mean, if you went to Tokra, you could easy-peasy get somebody to fix it up for you.
@@ -725,7 +725,7 @@ Kenzo: How many are there?
 DM: About thirty, thirty or forty.
 
 %% u1422 %%
-Kenzo: And last time we talked to them—I'm glad that you said that Wellby was the one that convinced them to go south. Ultimately, [[go to bed and sleep]].
+Kenzo: And last time we talked to them—I'm glad that you said that Wellby was the one that convinced them to go south. Ultimately, {{go to bed and sleep}}.
 
 %% u1423 %%
 DM: I mean, it was Delwath and Wellby, largely.
@@ -737,7 +737,7 @@ Kenzo: Was it like they wouldn't talk to me? Like, would not talk to...?
 DM: No, no, they were perfectly happy to talk to you. They just had their own plans. They were heading west, just didn't necessarily see the point in turning south.
 
 %% u1427 %%
-Kenzo: [[It's time to little bit. I'm going to source ips dude]].
+Kenzo: {{It's time to little bit. I'm going to source ips dude}}.
 
 %% u1428 %%
 DM: Okay.

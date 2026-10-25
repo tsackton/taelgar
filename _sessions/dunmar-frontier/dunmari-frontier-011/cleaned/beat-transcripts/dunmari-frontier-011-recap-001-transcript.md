@@ -17,7 +17,7 @@ Unknown: And...
 DM: Okay, so we begin tonight as the sun is setting over Raven's Hold.
 
 %% u0005-u0010 %%
-DM: Earlier this afternoon, like five sessions ago, you left your horses and gear in the narrow river valley and made your way by secret passages and wading rivers through the mountains to the abandoned dwarven outpost near that Dunmari stronghold of Raven's Hold. There, after encountering Inakara and her [[wild or the identified Kim]] and obtaining safe passage in exchange for some combat, you found your way to the Brawnanvil vault, where Riswynn recovered her long-sought heirloom shield of her clan, enchanted to preserve the stories of her family's history.
+DM: Earlier this afternoon, like five sessions ago, you left your horses and gear in the narrow river valley and made your way by secret passages and wading rivers through the mountains to the abandoned dwarven outpost near that Dunmari stronghold of Raven's Hold. There, after encountering Inakara and her {{wild or the identified Kim}} and obtaining safe passage in exchange for some combat, you found your way to the Brawnanvil vault, where Riswynn recovered her long-sought heirloom shield of her clan, enchanted to preserve the stories of her family's history.
 
 %% u0011-u0014 %%
 DM: Leaving the dwarven stronghold via an underground passage, seemingly constructed after the dwarves had abandoned their outpost, as neither Riswynn nor her uncle who drew the map had any indication that it existed—or, sorry—you found yourself emerging in a series of storerooms carved into a cliff wall. One of them seemed to have been used as a prison or torture chamber, execution chamber, by hobgoblins, presumably, at some point after the Dunmari had built the stronghold, when they had captured it and occupied it, perhaps during their wars with the Dunmari in the Blood Years.
@@ -41,7 +41,7 @@ DM: Thank you, sir. Not the best I've had, but better than whatever swill that o
 Kenzo: So, what else can you tell us about what's going on here?
 
 %% u0040-u0046 %%
-DM: Here, specifically? Well, can't say I've been able to see much locked up in a tower. It was maybe ten days ago I got here. Those—[[careless error]]—those creatures surprised me and seemed to be quite difficult to hurt.
+DM: Here, specifically? Well, can't say I've been able to see much locked up in a tower. It was maybe ten days ago I got here. Those—{{careless error}}—those creatures surprised me and seemed to be quite difficult to hurt.
 
 %% u0047 %%
 Unknown: Anyway...
@@ -140,7 +140,7 @@ Delwath: But was it only to find out where they're coming from, like...?
 Wellby: Just to stop it if we could. But we also knew from the other halfling who'd been infected by the plant thing when he tried to look inside Raven's Hold. I think the idea was, like, we know that these messed-up creatures are coming from somewhere, and so we'll go and try and figure it out.
 
 %% u0107-u0108 %%
-Delwath: [[First stab at the messed-up halfling]]. We should—okay, right, so...
+Delwath: {{First stab at the messed-up halfling}}. We should—okay, right, so...
 
 %% u0109 %%
 Kenzo: Basically, this is like a reconnaissance, I thought.
@@ -167,7 +167,7 @@ DM: There was a connection to the electrical storm or just Raven's Hold or both 
 Kenzo: So we still have stuff to learn here.
 
 %% u0122 %%
-Unknown: [[Resume so]].
+Unknown: {{Resume so}}.
 
 %% u0123 %%
 Delwath: Yes. Okay. And I...
@@ -293,7 +293,7 @@ Kenzo: I just kind of lean over to all of you. We should be careful with this on
 Wellby: Her aims are different than ours.
 
 %% u0189-u0191 %%
-Kenzo: I'm not sure what her aims are exactly, but if she's an item hunter, you know, the Society of the Open Scroll in Chardon, they're not much, in my view, for the people. They're really trying to take these items, and [[I've never needing]]...
+Kenzo: I'm not sure what her aims are exactly, but if she's an item hunter, you know, the Society of the Open Scroll in Chardon, they're not much, in my view, for the people. They're really trying to take these items, and {{I've never needing}}...
 
 %% u0192 %%
 Riswynn: Power grabbers.
@@ -773,7 +773,7 @@ DM: They grow the thickest closest to the water. I hugged the cliff. If you're d
 Seeker: How did you know the vines were gonna be dangerous in the first place?
 
 %% u0495-u0499 %%
-DM: I looked at them. Like, fucking red, bleeding, horrid, corrupted devil vines. How would you interpret that, oh learned scholar of [[what the more]]?
+DM: I looked at them. Like, fucking red, bleeding, horrid, corrupted devil vines. How would you interpret that, oh learned scholar of {{what the more}}?
 
 %% u0500 %%
 Seeker: Some of the finest food crops look like—well, not like that, I guess.
@@ -872,7 +872,7 @@ Wellby: Water closet.
 Kenzo: Towards...
 
 %% u0537 %%
-Seeker: [[The workplace]] and iron guy.
+Seeker: {{The workplace}} and iron guy.
 
 %% u0538 %%
 Delwath: Lot.
@@ -893,10 +893,10 @@ Delwath: I...
 Seeker: Stay here.
 
 %% u0545 %%
-Delwath: So I think we continue on to the keep. I'll turn back to the party, [[like having to ask for a little bit]]. I think we continue on to the keep, and soon, before they discover what's happened.
+Delwath: So I think we continue on to the keep. I'll turn back to the party, {{like having to ask for a little bit}}. I think we continue on to the keep, and soon, before they discover what's happened.
 
 %% u0546-u0548 %%
-Wellby: Maybe we'll wait. I agree, it's [[ritual]], but I have as much magic in me as I woke up with this morning, and I don't know how prepared you all feel to continue on. How prepared do you feel?
+Wellby: Maybe we'll wait. I agree, it's {{ritual}}, but I have as much magic in me as I woke up with this morning, and I don't know how prepared you all feel to continue on. How prepared do you feel?
 
 %% u0549 %%
 Seeker: I'm feeling pretty drained myself.
@@ -926,7 +926,7 @@ Delwath: Yeah.
 Seeker: How many of us can be made invisible? One at a time?
 
 %% u0570 %%
-Kenzo: Even without invisibility, I think [[while the entire book, please]].
+Kenzo: Even without invisibility, I think {{while the entire book, please}}.
 
 %% u0571 %%
 Wellby: Take a look.

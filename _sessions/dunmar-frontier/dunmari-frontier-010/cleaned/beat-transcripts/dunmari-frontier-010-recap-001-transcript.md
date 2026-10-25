@@ -11,7 +11,7 @@
 DM: Okay. So, go ahead.
 
 %% u0003 %%
-Kenzo: Yeah, I will. As Kenzo is still bad at picking locks, I'll have a look at the lock. What's going on with this [[last revision]]?
+Kenzo: Yeah, I will. As Kenzo is still bad at picking locks, I'll have a look at the lock. What's going on with this {{last revision}}?
 
 %% u0004-u0012 %%
 DM: So it's pretty rusty. The lock itself is—basically it's iron bars with a door that swings open, which itself is not locked at all, but there's a chain running through the bars with a big, fist-sized padlock. But yeah, you could make an attempt if you'd like to try and pick it. Make a Dexterity check and then add two.
@@ -47,7 +47,7 @@ Kenzo: What do you have, Riswynn?
 Riswynn: I have a warhammer. Apparently Delwath has a crowbar.
 
 %% u0035 %%
-Kenzo: [[Like asks]].
+Kenzo: {{Like asks}}.
 
 %% u0036 %%
 DM: Just make a regular attack roll.
@@ -68,7 +68,7 @@ Delwath: Yeah.
 DM: He can catch up with you.
 
 %% u0048-u0058 %%
-DM: So the tunnel is obviously crude construction. To the dwarves, it does not seem very dwarvish at all. It's rough-hewn; it's not particularly smooth or decorated or [[live]] in a way that dwarven construction usually would be. It doesn't have any of the elegance of your people. It heads straight east, sloping slightly down, heading exactly in the direction you want to go.
+DM: So the tunnel is obviously crude construction. To the dwarves, it does not seem very dwarvish at all. It's rough-hewn; it's not particularly smooth or decorated or {{live}} in a way that dwarven construction usually would be. It doesn't have any of the elegance of your people. It heads straight east, sloping slightly down, heading exactly in the direction you want to go.
 
 %% u0059-u0066 %%
 DM: And so, as you begin to pace down this tunnel, traveling maybe 1,000 feet, 1,500 feet, you then find yourself coming to a place where it begins to turn and slope slightly up, curving to the right like a corkscrew, going in a full 360-degree twist.
@@ -203,7 +203,7 @@ Riswynn: Holding.
 DM: Like a rope ladder to be tied onto. They do make it easier for you to climb.
 
 %% u0133 %%
-Riswynn: [[Originated]].
+Riswynn: {{Originated}}.
 
 %% u0134 %%
 DM: Ah, hey Schwartz. Are you there.
@@ -260,7 +260,7 @@ DM: The passageway—sort of southwest.
 Seeker: Southwest? That's back the way we came.
 
 %% u0170-u0172 %%
-Riswynn: All right, well, I will send down Delwath's rope. [[Rope speed, you're applying them when I think when a sufficient I have to go]].
+Riswynn: All right, well, I will send down Delwath's rope. {{Rope speed, you're applying them when I think when a sufficient I have to go}}.
 
 %% u0173 %%
 Delwath: Wow.
@@ -272,7 +272,7 @@ Seeker: While we're waiting, also, I'm just investigating, as per usual, if ther
 DM: Ah…
 
 %% u0177-u0179 %%
-Seeker: Scratching and sniffing at the wall, [[in a rock]] and licking it occasionally.
+Seeker: Scratching and sniffing at the wall, {{in a rock}} and licking it occasionally.
 
 %% u0180-u0191 %%
 DM: Yes, I'm sorry. So yes, interestingly enough, this seems to be something that was—it's definitely been excavated more recently than the main dwarven area, possibly within the last hundred to two hundred years. It doesn't have the sort of ancient feel that the dwarven outpost does, in terms of the age of the construction. I mean, things don't weather fast in small underground areas, but this tunnel definitely seems newer. Make an Intelligence check. Okay, so you also realize, as you're walking past, that…
@@ -293,7 +293,7 @@ Seeker: Found some kind of cavern up there. Seems safe enough.
 Wellby: Well, I've got a few things to update you on. One is I found a barracks area that must have been barracks for hobgoblins. So whenever they came—this is maybe eighty years ago or more—I mean, there was dust over everything. There was a sign there were open fires that they lit in there, so hobgoblins must have camped or stayed there for some amount of time. I found hobgoblin money, I think, and I pull out a handful of small silver discs stamped with the Blackened Claw mark. Silver and copper. Oh, and I found this too. I pull out a book. I think it's a logbook. I think it's hobgoblin, but I don't read it. Do any of us know hobgoblin?
 
 %% u0217 %%
-DM: [[Wonderfully choice, folks]].
+DM: {{Wonderfully choice, folks}}.
 
 %% u0218-u0220 %%
 Wellby: When I look at it—so I open it up and I show you—there are short entries, at the top of which there are some small, sort of repeating words. So I think these are dates. I think these are date entries, if any of us happened to speak—
@@ -386,7 +386,7 @@ Delwath: Is it full, or does it end partway through the book?
 DM: It ends partway through the book.
 
 %% u0278-u0281 %%
-Kenzo: Oh, wait. Let's try to piece this all together, going back a little bit [[of us know mine]]. So at the time of the Great War, what was happening here, two hundred years ago?
+Kenzo: Oh, wait. Let's try to piece this all together, going back a little bit {{of us know mine}}. So at the time of the Great War, what was happening here, two hundred years ago?
 
 %% u0282 %%
 DM: Who has a history proficiency?
@@ -482,7 +482,7 @@ DM: Without your spyglass, you would not have been able to tell that it wasn't j
 Wellby: We have the spyglass.
 
 %% u0353-u0354 %%
-Kenzo: Oh, good, good. I was getting freaked out. There's [[somewhat]] flying demon monsters. So it's—
+Kenzo: Oh, good, good. I was getting freaked out. There's {{somewhat}} flying demon monsters. So it's—
 
 %% u0355 %%
 Wellby: I mean, the picture that Tim sent me super duper looks like a flying demon monster.
@@ -593,7 +593,7 @@ Kenzo: My suggestion is just that maybe we split up right now, and a couple of u
 Seeker: Comes out.
 
 %% u0413-u0415 %%
-Kenzo: About these tunnels under here, be cautious about it. And then a couple of us can just keep an eye on the valley and who is moving on, just get a better picture, because I hate bats. I just—I mean, this whole thing—I'm just—I miss being in a city. This whole situation is just not… Anyways, I'm just—[[I'm not mad at us here]].
+Kenzo: About these tunnels under here, be cautious about it. And then a couple of us can just keep an eye on the valley and who is moving on, just get a better picture, because I hate bats. I just—I mean, this whole thing—I'm just—I miss being in a city. This whole situation is just not… Anyways, I'm just—{{I'm not mad at us here}}.
 
 %% u0416-u0419 %%
 Wellby: I agree. I feel like the more that we've seen, the less confident I am that we have any chance at all of making it through. Speaking of which, the other thing that may be interesting to take a look at down there is there's this mechanical iron man that keeps walking back and forth down one of the side branches.
@@ -632,7 +632,7 @@ Delwath: Did the mechanical iron man have weapons?
 DM: Ah, that's a good question. I will tell you in one moment.
 
 %% u0437 %%
-Wellby: So Tim, I lost the chat thread, but I was [[prefer just the reading my memory]].
+Wellby: So Tim, I lost the chat thread, but I was {{prefer just the reading my memory}}.
 
 %% u0438 %%
 Seeker: Learned a lot. Didn't you say.
@@ -641,7 +641,7 @@ Seeker: Learned a lot. Didn't you say.
 Unknown: I.
 
 %% u0440-u0441 %%
-Wellby: [[It's a really good]]. I was a little stunned because there was a mechanical man made of iron walking around.
+Wellby: {{It's a really good}}. I was a little stunned because there was a mechanical man made of iron walking around.
 
 %% u0442 %%
 Seeker: Wow, that's an unusual sight. Have I heard about anything like this in the dwarven tradition?
@@ -701,7 +701,7 @@ Seeker: They couldn't destroy it; they could only make a barrier for it. Wow, th
 Kenzo: Who's the "they".
 
 %% u0479 %%
-Riswynn: [[Kink]], are you in—
+Riswynn: {{Kink}}, are you in—
 
 %% u0480-u0481 %%
 DM: Are you in the small room with the rope leading up, or are you in the big cave right now?
@@ -851,7 +851,7 @@ Kenzo: Not the—I mean, I guess I can kind of draw, because basically—yeah, o
 Seeker: Okay, so far so good.
 
 %% u0541 %%
-Kenzo: I mean, [[moose a moose things]].
+Kenzo: I mean, {{moose a moose things}}.
 
 %% u0542 %%
 DM: Just out of curiosity, can you still hear the music?
@@ -1061,7 +1061,7 @@ Delwath: But maybe we watch longer before we go through here now.
 Seeker: One other factor we've not discussed is the role, in the past and also now, of the terrifying brain-eating creatures. We've only found one dead one and heard rumor otherwise, but they may have had an important role in the dynamics of change over time with respect to the hobgoblins and the humans. We just don't know.
 
 %% u0644 %%
-Kenzo: I agree, but why can't we do both? Why can't—you know, [[wanted]]—
+Kenzo: I agree, but why can't we do both? Why can't—you know, {{wanted}}—
 
 %% u0645 %%
 Seeker: My sort—

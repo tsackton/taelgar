@@ -1779,7 +1779,7 @@
 [u1779 | 02:11:22.170-02:11:24.660 | Kenzo] Like we were saying, maybe we go talk to Candrosa and call it a night.
 [u1780 | 02:11:29.730-02:11:30.090 | Seeker] Well,
 [u1781 | 02:11:30.690-02:11:32.640 | Delwath] Maybe we should talk to Candrosa in the morning.
-[u1782 | 02:11:34.290-02:11:36.060 | Seeker] [garbled]
+[u1782 | 02:11:34.290-02:11:36.060 | Seeker] {{garbled}}
 [u1783 | 02:11:36.270-02:11:42.390 | DM] Talk to maybe the smith, and go back to the smith, and talk to Candrosa, then end the session.
 [u1784 | 02:11:44.310-02:11:44.550 | Kenzo] Right.
 [u1785 | 02:11:47.460-02:11:48.750 | Kenzo] We can talk to Candrosa in the morning.

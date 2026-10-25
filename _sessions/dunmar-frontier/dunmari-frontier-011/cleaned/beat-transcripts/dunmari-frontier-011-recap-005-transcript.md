@@ -29,7 +29,7 @@ DM: You don't really know. You've never been cursed by a demon tail before.
 Seeker: Whoo hoo.
 
 %% u2106-u2109 %%
-DM: [[Sort of them so far]]. That was nasty. What do you think it was doing?
+DM: {{Sort of them so far}}. That was nasty. What do you think it was doing?
 
 %% u2110-u2111 %%
 Seeker: Yeah, maybe we should poke around for any details that can help us understand this ritual.
@@ -38,7 +38,7 @@ Seeker: Yeah, maybe we should poke around for any details that can help us under
 Delwath: We should.
 
 %% u2113 %%
-Kenzo: Wait, what about the rotting flesh and the flies? [[We want to help you out of here]].
+Kenzo: Wait, what about the rotting flesh and the flies? {{We want to help you out of here}}.
 
 %% u2114 %%
 Seeker: I bet a good night's sleep will help with that.
@@ -176,7 +176,7 @@ Seeker: Yeah.
 DM: From Create Water?
 
 %% u2175-u2176 %%
-Riswynn: Yeah, yeah. [[It's a lot of ways out what]].
+Riswynn: Yeah, yeah. {{It's a lot of ways out what}}.
 
 %% u2177 %%
 DM: That would certainly put it out, unless you don't want to spend the stuff.
@@ -221,7 +221,7 @@ DM: So,.
 Delwath: What are we doing?
 
 %% u2194-u2195 %%
-Kenzo: [[Starting trend]]. Sorry.
+Kenzo: {{Starting trend}}. Sorry.
 
 %% u2196-u2197 %%
 DM: I'll send you a message, Mike. So while you are putting out the fire, Delwath concentrates for a few moments and goes into this trance and then starts looking around.
@@ -299,7 +299,7 @@ Seeker: Well, unfortunately, we don't have any way to heal you right now. And it
 Kenzo: How do you know that? You're not the one that lives in the rotting flesh.
 
 %% u2232 %%
-Seeker: [[I'm having for]].
+Seeker: {{I'm having for}}.
 
 %% u2233 %%
 DM: The past ten minutes that you can see...
@@ -482,7 +482,7 @@ DM: Okay, so you see him sitting in meditation, Vola sitting next to him. The ea
 Seeker: Whoa.
 
 %% u2342 %%
-DM: [[Is this similar that all that]] seems to be talking quietly, like almost whispering.
+DM: {{Is this similar that all that}} seems to be talking quietly, like almost whispering.
 
 %% u2343-u2344 %%
 Delwath: I'll slowly walk towards them.
@@ -503,7 +503,7 @@ Delwath: I mean, can I hear what she's saying?
 DM: Make a perception check.
 
 %% u2350 %%
-Delwath: [[Team]].
+Delwath: {{Team}}.
 
 %% u2351-u2352 %%
 DM: You hear just sort of whispering quietly, and then a pause and no response.
@@ -779,7 +779,7 @@ Wellby: I'll take the first.
 DM: Okay, let's see. Vola is just gonna, as she slowly limps up, she says, "I gotta sleep. It's..."
 
 %% u2515 %%
-Unknown: [[Tough to steer]]. I'm collapsing.
+Unknown: {{Tough to steer}}. I'm collapsing.
 
 %% u2516-u2519 %%
 DM: Hope you don't mind. And I need everybody who is sleeping to make Wisdom saves. Oh, and Kenzo, you need to make a Constitution saving throw as well.
@@ -851,7 +851,7 @@ Seeker: Just like everyone else.
 DM: And you, Seeker. Okay, you gain one level of exhaustion and also recover no hit points.
 
 %% u2569 %%
-Seeker: [[Personally other long rest to fix]].
+Seeker: {{Personally other long rest to fix}}.
 
 %% u2570-u2571 %%
 DM: Everything else, spell slots, all that comes back normal.
@@ -1028,7 +1028,7 @@ Kenzo: And add to the list, Wellby, whatever the fuck that tin man is, if you wa
 Seeker: Definitely the...
 
 %% u2659 %%
-Kenzo: [[Ones that reason]].
+Kenzo: {{Ones that reason}}.
 
 %% u2660 %%
 Riswynn: That's a site on the trip home.
@@ -1118,7 +1118,7 @@ Kenzo: That would make sense.
 DM: When you say that, Vola kind of leans forward. "They've been bringing an awful fucking lot of animals into this place."
 
 %% u2708-u2709 %%
-Seeker: That's what I'm saying. They're trying to ramp up their [[tourism prisons point]]...
+Seeker: That's what I'm saying. They're trying to ramp up their {{tourism prisons point}}...
 
 %% u2710 %%
 Kenzo: But his...
@@ -1208,7 +1208,7 @@ Seeker: Or we could do it instead of...
 Riswynn: Invisible, go talk to animals so the gnolls don't notice.
 
 %% u2755-u2758 %%
-Seeker: [[You point critical floggings plan]]. What if I bring Taster? Taster's not invisible, but I am, so he appears to fly briefly, but no one will notice because it's small. And then when I talk to the animals, they'll think Taster's talking to them. [[Them in our]].
+Seeker: {{You point critical floggings plan}}. What if I bring Taster? Taster's not invisible, but I am, so he appears to fly briefly, but no one will notice because it's small. And then when I talk to the animals, they'll think Taster's talking to them. {{Them in our}}.
 
 %% u2759 %%
 Wellby: Tim, is that little bat demon thing anywhere to be seen?
@@ -1244,7 +1244,7 @@ Seeker: Well, so we don't see a good way for me to go talk to some animals?
 DM: I think you're gonna have to fight some gnolls in order to talk to some animals.
 
 %% u2772-u2773 %%
-Riswynn: Gnolls, and then talk to animals. [[Seventy-two gnolls]]. That's what I was asking.
+Riswynn: Gnolls, and then talk to animals. {{Seventy-two gnolls}}. That's what I was asking.
 
 %% u2774 %%
 Kenzo: I mean, are we so powerful that we can just assume that we're going to kill them? Tim, do you actually want us to fight the gnolls, in which case we'll do that next time?
@@ -1256,7 +1256,7 @@ DM: I think we should fight the gnolls next time, because it could get complicat
 Seeker: How foolishly we decide to do it.
 
 %% u2777 %%
-Wellby: We kill them well and quickly, [[for thirty]].
+Wellby: We kill them well and quickly, {{for thirty}}.
 
 %% u2778 %%
 Seeker: All right, all right. That sounds good.
@@ -1298,7 +1298,7 @@ Wellby: I had the thirteenth for sure, and the sixth pending the world falling a
 Delwath: I don't know if I could do two weeks in a row. I mean, I could do the sixth instead of the thirteenth, but I don't think I can do both.
 
 %% u2793 %%
-Seeker: There's also the [[Kazoo punk]] on the sixth idea.
+Seeker: There's also the {{Kazoo punk}} on the sixth idea.
 
 %% u2794 %%
 Kenzo: Yeah.
@@ -1310,7 +1310,7 @@ Wellby: That's even less likely for me, actually, just because that's a lot more
 Kenzo: I cannot.
 
 %% u2798-u2799 %%
-Delwath: Oh, you mean next week? I can't really do two weekends in a row. That's too tough. [[And data]].
+Delwath: Oh, you mean next week? I can't really do two weekends in a row. That's too tough. {{And data}}.
 
 %% u2800 %%
 Seeker: Okay.
@@ -1331,7 +1331,7 @@ DM: Why don't we—let's do this. Can we do tentatively D&D on the sixth?
 DM: And if the world's falling apart and we're all out protesting instead of D&D, then we'll push it to the thirteenth.
 
 %% u2807 %%
-DM: And if the world's not falling apart, then we can do [[because the little punk]] on the thirteenth.
+DM: And if the world's not falling apart, then we can do {{because the little punk}} on the thirteenth.
 
 %% u2808 %%
 Seeker: Good.

@@ -14,7 +14,7 @@ Kenzo: All right, so we're gonna kill some giants.
 Seeker: The giants.
 
 %% u1550 %%
-Delwath: [[Kill off]], but—
+Delwath: {{Kill off}}, but—
 
 %% u1551 %%
 Riswynn: Depending on what kind of giants they are.
@@ -26,7 +26,7 @@ Seeker: The small kind. Dwarf giants.
 Kenzo: It's true. I wonder if there are dwarf giants, like giants that are dwarves, and that's more like human size.
 
 %% u1555 %%
-Seeker: [[Pencil that]], yeah.
+Seeker: {{Pencil that}}, yeah.
 
 %% u1556-u1558 %%
 DM: Okay, so the footsteps are clearly coming towards you. Boom, tap, boom, tap. You have maybe a minute before whatever it is emerges from whatever this giant hall is.
@@ -41,10 +41,10 @@ DM: You're maybe 300 feet below the summit of the mountain. The entire top of th
 Unknown: Right.
 
 %% u1568-u1569 %%
-DM: You're sort of looking up towards the top of this mountain at this enormous hall. Something making large, booming steps is clearly emerging from it. [[Is there anything done normal steps coming down]].
+DM: You're sort of looking up towards the top of this mountain at this enormous hall. Something making large, booming steps is clearly emerging from it. {{Is there anything done normal steps coming down}}.
 
 %% u1570 %%
-Seeker: [[You please]].
+Seeker: {{You please}}.
 
 %% u1571 %%
 DM: Yeah, I mean, there's rocks strewn around. You could certainly try to hide among the rocks and boulders of the—
@@ -119,7 +119,7 @@ DM: Everybody but Wellby, make a Stealth—
 Unknown: Check.
 
 %% u1604 %%
-DM: So you don't need to make a [[spot check]].
+DM: So you don't need to make a {{spot check}}.
 
 %% u1605 %%
 Kenzo: 26.
@@ -146,7 +146,7 @@ Kenzo: Tim, I Soulsight this dude.
 DM: Okay. So let's see, a number of questions I need to answer here. Hold on one sec.
 
 %% u1625-u1626 %%
-Kenzo: He seems like a peaceable [[magic]]. Do giants have souls?
+Kenzo: He seems like a peaceable {{magic}}. Do giants have souls?
 
 %% u1627 %%
 DM: Yes, so.
@@ -230,7 +230,7 @@ Wellby: Yeah, let's do it.
 DM: "I will judge what your offering is worth."
 
 %% u1669-u1674 %%
-Wellby: All right. Need to think about this. You guys have any suggestions? Help Wellby's storytelling brain, right? I feel like something interesting, something revealing. Okay, [[to read it just]]—
+Wellby: All right. Need to think about this. You guys have any suggestions? Help Wellby's storytelling brain, right? I feel like something interesting, something revealing. Okay, {{to read it just}}—
 
 %% u1675 %%
 Kenzo: One page of Reddit, something up there.
@@ -296,7 +296,7 @@ Wellby: This is a story from after the fall of the Drankorian empire.
 Seeker: Which is about 600 years ago.
 
 %% u1716-u1723 %%
-DM: He says [[seven]]. "The story of Sigga and the dragon? You speak in riddles, my friend. I know a young giant named Sigga, yes, prefers the deep ocean floors. A dragon? No. You must desire some extremely valuable stories to be bringing me these unusual tales."
+DM: He says {{seven}}. "The story of Sigga and the dragon? You speak in riddles, my friend. I know a young giant named Sigga, yes, prefers the deep ocean floors. A dragon? No. You must desire some extremely valuable stories to be bringing me these unusual tales."
 
 %% u1724-u1725 %%
 Wellby: Indeed. Do you have the ending of the Third Age?
@@ -326,7 +326,7 @@ Kenzo: I mean, you could also ask them about the end of our current age current 
 Unknown: Yeah.
 
 %% u1737-u1738 %%
-DM: [[That's not a bad man]]. Ask the story of the Great War and the battle with the—
+DM: {{That's not a bad man}}. Ask the story of the Great War and the battle with the—
 
 %% u1739 %%
 Unknown: Dragon.
@@ -374,7 +374,7 @@ Wellby: Do you know the story of the downfall of Hkar?
 Seeker: That's like 2000 years ago.
 
 %% u1759-u1761 %%
-DM: "Is that what you would like to hear in exchange for these mysteries you have brought me? That is indeed a valuable tale." [[Us pieces of that]].
+DM: "Is that what you would like to hear in exchange for these mysteries you have brought me? That is indeed a valuable tale." {{Us pieces of that}}.
 
 %% u1762-u1763 %%
 Wellby: With respect, elder brother, I'm mostly just trying to figure out what year it is here.
@@ -386,7 +386,7 @@ DM: "What year it is? Well, that I can give away for nothing at all." Oh, wait, 
 Kenzo: I'm kind of with Kate on taking omens over stories, but maybe we can get some omens out of him too.
 
 %% u1768-u1769 %%
-Riswynn: Well, I mean, wait, if you were asking for testing for future [[men]].
+Riswynn: Well, I mean, wait, if you were asking for testing for future {{men}}.
 
 %% u1770 %%
 Seeker: Approximately negative 600 Drankorian era.
@@ -398,7 +398,7 @@ DM: Google Docs is super slow to load for some reason.
 Kenzo: Your computer, man.
 
 %% u1773-u1775 %%
-DM: Yeah, when doing all these things with Zoom, it consumes too much. Wait, I think I have my notes in OneNote here. [[I drew thing]] is super slow. Okay.
+DM: Yeah, when doing all these things with Zoom, it consumes too much. Wait, I think I have my notes in OneNote here. {{I drew thing}} is super slow. Okay.
 
 %% u1776 %%
 Seeker: Drew the bust of the eyeless giant.
@@ -446,7 +446,7 @@ Delwath: Do I have any idea what—
 Wellby: Year that actually is?
 
 %% u1795 %%
-DM: [[One other time. What I reckon]].
+DM: {{One other time. What I reckon}}.
 
 %% u1796 %%
 Seeker: It sounds like it's on the dwarven reckoning.
@@ -587,7 +587,7 @@ Wellby: I came out.
 DM: Can you make Perception checks?
 
 %% u1926 %%
-Riswynn: [[Receive]], you're probably agitating this poor giant. Just let it lie in the sunshine.
+Riswynn: {{Receive}}, you're probably agitating this poor giant. Just let it lie in the sunshine.
 
 %% u1927 %%
 Wellby: You know already, we can clearly perceive the way out.
@@ -602,7 +602,7 @@ DM: He's seeming stressed for a moment. Okay, I sent you a message. "There is no
 Seeker: Well, you can tell him the current year by dwarven reckoning, which is roughly 5881.
 
 %% u1936-u1937 %%
-Riswynn: [[Despite giants. Dr. The dwarfs]]. He may be the one we're trying to help. I don't know if he can help us help him.
+Riswynn: {{Despite giants. Dr. The dwarfs}}. He may be the one we're trying to help. I don't know if he can help us help him.
 
 %% u1938-u1939 %%
 Wellby: What do your eyes look like? They're just kind of regular old eyes, or...?
@@ -677,7 +677,7 @@ Kenzo: Well, he's trapped here right now, probably. This is him where he's still
 Delwath: Does he sound at all like the voice that—
 
 %% u1991 %%
-Unknown: [[Their yard]].
+Unknown: {{Their yard}}.
 
 %% u1992-u1997 %%
 DM: Yeah, yes. I mean, to the extent to which you can tell giant voices apart, he certainly sounds—I mean, that is a loud, booming voice. Whether it's the same person is a little bit hard to judge, or if it's the same person but in a different mood. It definitely sounds similar.
@@ -689,7 +689,7 @@ Delwath: That the person I talked to knew who Agata Dustmother was.
 DM: Oh yes, that is true.
 
 %% u2000-u2001 %%
-Riswynn: The person you talked to might have been the future version of himself, not necessarily this [[man, I'm]] version of themselves.
+Riswynn: The person you talked to might have been the future version of himself, not necessarily this {{man, I'm}} version of themselves.
 
 %% u2002-u2004 %%
 DM: So he's still concentrating on something, and you were asking about the lightning, and he says, "I..." And now he looks terrified. "I cannot find the storm."
@@ -764,7 +764,7 @@ Delwath: It's in your character. It says—
 Kenzo: Under what?
 
 %% u2041 %%
-Delwath: Senses on the left-hand side beneath your [[soldiers]].
+Delwath: Senses on the left-hand side beneath your {{soldiers}}.
 
 %% u2042 %%
 Kenzo: 12, 13. Oh, passive Perception, yeah. 13, 14.
@@ -857,7 +857,7 @@ Unknown: Yes.
 DM: Missed a chunk of time.
 
 %% u2103 %%
-Kenzo: [[Limit]].
+Kenzo: {{Limit}}.
 
 %% u2104 %%
 DM: And only talked to humans since you've returned, or non-elves since you returned.
@@ -884,7 +884,7 @@ Kenzo: So Hralgar, where we came from, we believe the time to be—and then we�
 Delwath: Say current timeline. He would in theory know.
 
 %% u2120 %%
-Seeker: [[It's older you are]].
+Seeker: {{It's older you are}}.
 
 %% u2121 %%
 Delwath: Know, because the wizard was a Drankorian wizard, right?

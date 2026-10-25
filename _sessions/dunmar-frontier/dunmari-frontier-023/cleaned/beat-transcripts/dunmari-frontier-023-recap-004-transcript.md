@@ -140,7 +140,7 @@ Unknown: Oh.
 Seeker: Those numbers could be better, you guys.
 
 %% u2152-u2153 %%
-Delwath: Regardless, I—[[care tina's baby]]. Okay.
+Delwath: Regardless, I—{{care tina's baby}}. Okay.
 
 %% u2154-u2155 %%
 DM: So, um—
@@ -158,7 +158,7 @@ Seeker: Should've looked at the door before.
 DM: And let's see, Kenzo, Seeker, and Delwath each take fourteen points of lightning damage. Fourteen. Wellby takes seven.
 
 %% u2164 %%
-Kenzo: [[Bucks left]].
+Kenzo: {{Bucks left}}.
 
 %% u2165 %%
 Wellby: Great.
@@ -335,7 +335,7 @@ Seeker: All right, so I'm going to just, in free text—okay, I have spell scrol
 DM: Combat.
 
 %% u2247-u2248 %%
-Seeker: Tongues. I have a feeling we might need all these [[members in tonight]].
+Seeker: Tongues. I have a feeling we might need all these {{members in tonight}}.
 
 %% u2249 %%
 Kenzo: When it's time to go to—

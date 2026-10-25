@@ -137,7 +137,7 @@ Delwath: Okay. Then I'll have to hold it up with the Mage Hand, like so. Who wou
 Riswynn: Inventory and label it death water.
 
 %% u1289-u1290 %%
-DM: Yeah. [[Soda and coin]] that's twenty feet behind you.
+DM: Yeah. {{Soda and coin}} that's twenty feet behind you.
 
 %% u1291 %%
 Seeker: There you go.
@@ -209,7 +209,7 @@ Seeker: Mad. Yeah.
 DM: They're not super happy that they can't really get out, so...
 
 %% u1330-u1335 %%
-Riswynn: So the mist wouldn't be what the magic here was working through to transform things into other things. So our best bet is the animal corpses. That's possibly the thing in the valley. [[Well, it's staring it down.]]
+Riswynn: So the mist wouldn't be what the magic here was working through to transform things into other things. So our best bet is the animal corpses. That's possibly the thing in the valley. {{Well, it's staring it down.}}
 
 %% u1336 %%
 Delwath: I think we should go to the thing in the valley.
@@ -317,7 +317,7 @@ Riswynn: Yeah, just gonna say.
 Unknown: Yeah.
 
 %% u1385 %%
-DM: Yeah, [[well bash shell]].
+DM: Yeah, {{well bash shell}}.
 
 %% u1386 %%
 Unknown: Um.
@@ -332,7 +332,7 @@ Delwath: We think there's something near where this road crosses the water, perh
 DM: I'm ready to get the fuck out of here, so...
 
 %% u1394-u1395 %%
-Kenzo: [[Hey sure we're okay.]] We can agree on that.
+Kenzo: {{Hey sure we're okay.}} We can agree on that.
 
 %% u1396-u1401 %%
 DM: I'll come along. So you head down. Raven's Hold itself is set partway up the mountain on a sort of flat area with the cliffy walls of the mountain behind it. And part of the reason why this is such a strong defensive position is this gate complex and then switchback road that leads down in three switchbacks down the side of the mountain, passing through additional gates at each turning. So this is a very strong position to defend from.
@@ -473,7 +473,7 @@ Riswynn: It's only first. Okay.
 DM: It's half your... It should say on your...
 
 %% u1497 %%
-Riswynn: [[Of what you went outside of]], up to level one. It does say.
+Riswynn: {{Of what you went outside of}}, up to level one. It does say.
 
 %% u1498 %%
 Unknown: Okay.
@@ -524,13 +524,13 @@ Wellby: Right.
 DM: Now that's...
 
 %% u1532-u1533 %%
-Wellby: [[That term]], so ten. Yeah, not very attentive.
+Wellby: {{That term}}, so ten. Yeah, not very attentive.
 
 %% u1534-u1535 %%
 DM: So, Wellby, you see faintly on the ground, sort of sketched into the ground, what look like markings in a circle.
 
 %% u1536 %%
-Wellby: [[Click them to see me.]] What is this?
+Wellby: {{Click them to see me.}} What is this?
 
 %% u1537 %%
 Delwath: Is it writing?
@@ -650,7 +650,7 @@ DM: Hold on.
 Kenzo: What did I miss?
 
 %% u1583 %%
-DM: [[On us past.]]
+DM: {{On us past.}}
 
 %% u1584-u1585 %%
 Delwath: The creepy summoning circle that said, "I bind you. I call you. I command you. Enter and obey for a month and a day."
@@ -746,7 +746,7 @@ Seeker: Well.
 Unknown: Sure.
 
 %% u1641 %%
-Kenzo: [[Versus.]]
+Kenzo: {{Versus.}}
 
 %% u1642 %%
 Wellby: Blow the horn.
@@ -764,7 +764,7 @@ Riswynn: I love the horn.
 DM: Ah.
 
 %% u1647 %%
-Seeker: [[Nice new.]]
+Seeker: {{Nice new.}}
 
 %% u1648 %%
 DM: Message, Kong.
@@ -860,7 +860,7 @@ DM: The water in the pool on the far side looks completely clear as far as you c
 Delwath: Now, I mean, Wellby and Delwath are in the front. Who's right next to...? Delwath will look at Wellby and point under the bridge. Do you see anything there?
 
 %% u1690 %%
-Wellby: [[During their.]]
+Wellby: {{During their.}}
 
 %% u1691-u1695 %%
 DM: Shadows. You see what looks like a cattail, like those sort of reedy vines that grow in ponds, kind of clumped there. But it's also kind of dark under the bridge. It's deep shadow.
@@ -932,7 +932,7 @@ Unknown: Know the goddess.
 DM: The staff—in Draconic, down the side of the staff are the words, "I bind you to the black wind. I bind you to my flame. I bind you in my power until the sun fails and the moon is dead."
 
 %% u1728 %%
-Unknown: [[Creaking.]]
+Unknown: {{Creaking.}}
 
 %% u1729 %%
 DM: I didn't...
@@ -947,7 +947,7 @@ Delwath: That was the hobgoblin we killed at the beginning.
 DM: That was before you met up with them. That was from the previous fort.
 
 %% u1735 %%
-Unknown: [[Was mean.]]
+Unknown: {{Was mean.}}
 
 %% u1736-u1737 %%
 Riswynn: I was just gonna say, the non-present but looming bad guy is called Agata Dustmother.
@@ -968,7 +968,7 @@ Riswynn: Maybe he went to actually control stuff.
 Seeker: Or the sleepy...
 
 %% u1746-u1747 %%
-DM: Yes, but [[only anywhere, anywhere he]]...
+DM: Yes, but {{only anywhere, anywhere he}}...
 
 %% u1748 %%
 Unknown: Is.
@@ -989,7 +989,7 @@ Delwath: No, I don't think so.
 Unknown: Okay.
 
 %% u1756 %%
-Seeker: Well, there's also [[a giant store]].
+Seeker: Well, there's also {{a giant store}}.
 
 %% u1757 %%
 Riswynn: So we came, we saw the message in the shadows. We found the circle where the demon probably came from. Any of us have the capacity to safely shut down...?
@@ -1010,7 +1010,7 @@ Seeker: The runes. I'm just gonna step backwards a few yards.
 DM: So, um...
 
 %% u1766 %%
-Kenzo: [[A stir.]]
+Kenzo: {{A stir.}}
 
 %% u1767 %%
 DM: Taster, you...

@@ -26,7 +26,7 @@ Riswynn: Is anybody here particularly elementally or fire aligned? It's not real
 Delwath: Well, show it to me.
 
 %% u0708-u0709 %%
-Seeker: [[Whatever wherever you live in. Where is it would Wesley's it outdoors.]]
+Seeker: {{Whatever wherever you live in. Where is it would Wesley's it outdoors.}}
 
 %% u0710 %%
 Delwath: Delwath would be happy to take it.
@@ -65,7 +65,7 @@ DM: You guys gotta let Mike take a few magic items.
 Kenzo: Just trying it on.
 
 %% u0731 %%
-Delwath: It's true. [[I can play the tip.]] I have no magic items right now.
+Delwath: It's true. {{I can play the tip.}} I have no magic items right now.
 
 %% u0732 %%
 Kenzo: Then does it fit?
@@ -107,7 +107,7 @@ Kenzo: Looks better on him.
 DM: It definitely looks better on him.
 
 %% u0749-u0750 %%
-Seeker: [[Like in tears]], it just works.
+Seeker: {{Like in tears}}, it just works.
 
 %% u0751 %%
 DM: It definitely works with his sort of mysterious look a little bit better than your sort of...
@@ -206,7 +206,7 @@ DM: Exactly.
 Riswynn: Context as such, but...
 
 %% u0794-u0795 %%
-Seeker: [[It's a good too.]] Summoning a fire elemental, that's very interesting. Like, what can you do with that?
+Seeker: {{It's a good too.}} Summoning a fire elemental, that's very interesting. Like, what can you do with that?
 
 %% u0796 %%
 DM: Like Riswynn said you can control it.
@@ -326,13 +326,13 @@ DM: Yeah, I put it there for a reason. And then you didn't bother to figure out 
 Seeker: In.
 
 %% u0842 %%
-Kenzo: [[That smart Tim is understanding]], or no, not that smart because...
+Kenzo: {{That smart Tim is understanding}}, or no, not that smart because...
 
 %% u0843 %%
 Wellby: It's an important point to make.
 
 %% u0844 %%
-Unknown: [[Pretty fast paced UT.]]
+Unknown: {{Pretty fast paced UT.}}
 
 %% u0845 %%
 Wellby: Yeah.
@@ -353,7 +353,7 @@ Riswynn: Will take the scroll of Lesser Restoration, and next time Kenzo jumps d
 Unknown: It.
 
 %% u0855 %%
-Kenzo: [[Just never going to games.]] Again, I think it's part of the role.
+Kenzo: {{Just never going to games.}} Again, I think it's part of the role.
 
 %% u0856-u0859 %%
 Wellby: I feel like that interaction between the two of us is canonical, establishing how polite dwarves are about gift giving. Have you ever seen dwarves trying to split a check at the end of...?
@@ -377,10 +377,10 @@ Wellby: Wellby'll pull out the hobgoblin logbook and hold it up to Delwath and s
 Delwath: Delwath'll start reading it. What does it say? You see his eyes kind of go black when he's reading it.
 
 %% u0869 %%
-Wellby: [[But it's supposed to your eyes, her.]]
+Wellby: {{But it's supposed to your eyes, her.}}
 
 %% u0870-u0871 %%
-Kenzo: Kenzo notices Wellby's astonishment at Delwath's black eyes and then, staring at Wellby, suddenly makes his eyes black. What's the problem, Wellby? [[You look at the one.]]
+Kenzo: Kenzo notices Wellby's astonishment at Delwath's black eyes and then, staring at Wellby, suddenly makes his eyes black. What's the problem, Wellby? {{You look at the one.}}
 
 %% u0872-u0874 %%
 Wellby: Ha ha, Kenzo. So... Which will be inside your brain.
@@ -482,10 +482,10 @@ Delwath: And if there is a suit of half plate that looks salvageable, I'd be tem
 DM: So.
 
 %% u0947 %%
-Riswynn: I mean, [[it couldn't be hijacked]] around the campfire to...
+Riswynn: I mean, {{it couldn't be hijacked}} around the campfire to...
 
 %% u0948 %%
-DM: [[Profitable]], it's...
+DM: {{Profitable}}, it's...
 
 %% u0949 %%
 Riswynn: You know.
@@ -542,7 +542,7 @@ DM: You can use that.
 Seeker: And.
 
 %% u0973 %%
-Riswynn: [[Just waiting for peace and tinkering with right then.]]
+Riswynn: {{Just waiting for peace and tinkering with right then.}}
 
 %% u0974 %%
 Seeker: Right, I take out the coin, hand it to Delwath.
@@ -587,7 +587,7 @@ DM: There's four of those. Yeah.
 Delwath: So does anybody need potions of healing? I mean, I still have one. Do we need more than one potion of healing? It's...
 
 %% u1006 %%
-Wellby: [[Two months in one ocean.]]
+Wellby: {{Two months in one ocean.}}
 
 %% u1007-u1008 %%
 Riswynn: One healing, but I don't get hurt a lot.
@@ -674,7 +674,7 @@ Seeker: Can I just add a random thing? Do you recommend adding...?
 DM: Just do it at that—so, Other Possessions at the bottom. You can just type "two uncut pieces of amber."
 
 %% u1055-u1057 %%
-Riswynn: We're just trying to assign... I'm assuming that Wellby is going to keep the hobbit locket. [[Anglicans mixing in.]]
+Riswynn: We're just trying to assign... I'm assuming that Wellby is going to keep the hobbit locket. {{Anglicans mixing in.}}
 
 %% u1058 %%
 Wellby: Is the gold ring human-sized, or halfling-sized, or something other?
@@ -704,7 +704,7 @@ DM: Okay. The horn.
 Riswynn: I've heard so much about this horn, I would love to carefully...
 
 %% u1071 %%
-Kenzo: [[Read this for you guys on]]...
+Kenzo: {{Read this for you guys on}}...
 
 %% u1072 %%
 Unknown: Praying about it.
@@ -713,7 +713,7 @@ Unknown: Praying about it.
 Kenzo: Oh, you're praying about the horn? Hell yeah. Wait, I feel like we should just blow it and not know the answers.
 
 %% u1075 %%
-DM: [[Right really shy.]]
+DM: {{Right really shy.}}
 
 %% u1076 %%
 Wellby: All right, I'm comfortable with it.
@@ -722,7 +722,7 @@ Wellby: All right, I'm comfortable with it.
 Riswynn: I'll stop praying. Fine.
 
 %% u1078-u1079 %%
-Kenzo: Oh, no, no. Let's finish praying. [[I guy.]] No, it is not wasted.
+Kenzo: Oh, no, no. Let's finish praying. {{I guy.}} No, it is not wasted.
 
 %% u1080 %%
 Riswynn: I could pray and not tell you.
@@ -731,7 +731,7 @@ Riswynn: I could pray and not tell you.
 Kenzo: I like that idea too. What—I'm so sorry, I was gone. I was checking...
 
 %% u1083 %%
-DM: [[My mom.]] Healing potions. How many do you want?
+DM: {{My mom.}} Healing potions. How many do you want?
 
 %% u1084 %%
 Kenzo: All of them because I'm the one that keeps fucking dying.
@@ -800,7 +800,7 @@ Unknown: He did.
 Delwath: I'm.
 
 %% u1113-u1114 %%
-Kenzo: [[Appreciate your show you all.]] How do I add potions of healing? So I go to Potions. I don't see potions of healing.
+Kenzo: {{Appreciate your show you all.}} How do I add potions of healing? So I go to Potions. I don't see potions of healing.
 
 %% u1115 %%
 DM: Click Manage equipment. Yeah.
@@ -953,7 +953,7 @@ Kenzo: Honestly, I just want a fucking tavern and I want some ale, even though m
 Unknown: I want...
 
 %% u1204 %%
-Kenzo: [[I don't want to swim.]] I get the fuck out of here.
+Kenzo: {{I don't want to swim.}} I get the fuck out of here.
 
 %% u1205 %%
 Riswynn: We'll get to go back to the cave soon.
@@ -974,10 +974,10 @@ Unknown: Well.
 Wellby: I don't drink, but I have known monks who do.
 
 %% u1212-u1214 %%
-Kenzo: You don't drink? I thought—I wasn't drunk that other night, now, [[on some daggers at you]].
+Kenzo: You don't drink? I thought—I wasn't drunk that other night, now, {{on some daggers at you}}.
 
 %% u1215 %%
-DM: [[And I'm drunk center.]] Yeah, he wasn't drunk. You were drunk.
+DM: {{And I'm drunk center.}} Yeah, he wasn't drunk. You were drunk.
 
 %% u1216 %%
 Kenzo: I know you were more drunk than I was, Wellby.

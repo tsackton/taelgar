@@ -62,7 +62,7 @@ DM: Anything you learned from him, you could learn from other people coming up s
 Kenzo: All right. So anyways, I was looking at this. Yeah, Order of the Awakened thing—the characters don't know, so let's say that again. And I definitely did not tell anybody else about the... Actually, I was the one that let that slip, to make it even more obvious to you, too. But I actually haven't told anybody about the contents of the dream, the interaction I had with Candrosa, when he went... It sounds like very early in the session.
 
 %% u2595 %%
-DM: Right, [[I was access]], yeah, that was like... I actually didn't tell anybody about that.
+DM: Right, {{I was access}}, yeah, that was like... I actually didn't tell anybody about that.
 
 %% u2596 %%
 Kenzo: The fact that we... So let's keep that one.
@@ -98,7 +98,7 @@ Unknown: Okay.
 Kenzo: So, presumably later in the evening...
 
 %% u2616-u2617 %%
-DM: Yeah, they go off to organize stuff, and you kind of slip away, and we'll pick up [[my]]...
+DM: Yeah, they go off to organize stuff, and you kind of slip away, and we'll pick up {{my}}...
 
 %% u2618 %%
 Unknown: Red.
@@ -278,7 +278,7 @@ DM: Artifact of great power, and even a brief moment with this, even a short exp
 Kenzo: Have you not asked Candrosa to commune with it?
 
 %% u2761-u2768 %%
-DM: I argued for such an approach, yes. The omen seeker the [[omen car]] of our tribe warned against that, saying the curse lay upon Candrosa. And don't mistake me: curse not meaning an evil presence, but this loss, this absence. While it lay upon him, his actions were tainted, his control was tainted, and it would not be wise for us to approach.
+DM: I argued for such an approach, yes. The omen seeker the {{omen car}} of our tribe warned against that, saying the curse lay upon Candrosa. And don't mistake me: curse not meaning an evil presence, but this loss, this absence. While it lay upon him, his actions were tainted, his control was tainted, and it would not be wise for us to approach.
 
 %% u2769 %%
 Kenzo: I had an experience with this staff when I first arrived in this town, not long after I arrived.

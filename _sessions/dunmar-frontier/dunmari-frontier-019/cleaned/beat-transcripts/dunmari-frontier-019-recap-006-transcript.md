@@ -17,7 +17,7 @@ Kenzo: Yeah, we tend to tidy it up so it's not…
 DM: Yeah, right. He then collects all of the little icons of the gods that are around the temple and says he'll bring them back to his masters, and they'll know how to honor them properly. Also, there's not much left in the temple, but anything that is sacred or valuable, he says he will take. He's not going to leave it here for scavengers and looters and…
 
 %% u2049 %%
-Seeker: [[I believe in stuff for scavengers.]]
+Seeker: {{I believe in stuff for scavengers.}}
 
 %% u2050-u2055 %%
 DM: He will take them to his masters, who will know what to do with them as well. So as you leave, you actually leave with a fairly heavily loaded set of horses. After the heat of the midday sun has passed, you're hoping to get a little bit of travel in in the afternoon, and then it's probably a solid day and a half of travel there. So you'll hope to arrive two afternoons from now. The rest of this afternoon is…
@@ -26,7 +26,7 @@ DM: He will take them to his masters, who will know what to do with them as well
 Unknown: …relatively…
 
 %% u2057-u2060 %%
-DM: …quiet, hot, just passing through the desert, heading south-southwest—south-southeast, roughly. The terrain here is lots of open expanses of dry, rocky sand, and then there's the occasional canyon. You find more life and vegetation in these canyons, as there's more shade, and what little moisture there is collects. Hardy trees sometimes grow, and there do seem to be little fingers of underground water that stretch out from Bas Udda, because occasionally you'll find a canyon that has a little bit of a spring in it or something like that. In the evening of the second day, as you're heading towards [[bass]]…
+DM: …quiet, hot, just passing through the desert, heading south-southwest—south-southeast, roughly. The terrain here is lots of open expanses of dry, rocky sand, and then there's the occasional canyon. You find more life and vegetation in these canyons, as there's more shade, and what little moisture there is collects. Hardy trees sometimes grow, and there do seem to be little fingers of underground water that stretch out from Bas Udda, because occasionally you'll find a canyon that has a little bit of a spring in it or something like that. In the evening of the second day, as you're heading towards {{bass}}…
 
 %% u2061-u2066 %%
 DM: You're following the route of one of these canyons, and Wellby, you notice up ahead the exoskeleton of a giant scorpion that's been cracked in half and tossed. You see a few bones of some large bird, relatively freshly cracked and drying in the desert sun. And Amil is starting to look around nervous.
@@ -56,7 +56,7 @@ Delwath: Recently?
 DM: Not too—yeah, relatively recently.
 
 %% u2078 %%
-Wellby: Right, [[the where…]]
+Wellby: Right, {{the where…}}
 
 %% u2079 %%
 Delwath: We spent the night in the village, right?
@@ -131,7 +131,7 @@ DM: Maybe—yes, no, not animal-specific. Make a Nature check. Not an animal. It
 Wellby: So, related information. It looks like these are old wounds, like…
 
 %% u2116 %%
-Unknown: [[Tell.]]
+Unknown: {{Tell.}}
 
 %% u2117 %%
 Delwath: Are there any tracks?
@@ -143,7 +143,7 @@ DM: Make a Survival check. Yeah, there are tracks. It's not great terrain for tr
 Wellby: I'll share all that information too.
 
 %% u2123-u2126 %%
-DM: Should we—[[this is about]]—should we find another way? I don't like how you're acting.
+DM: Should we—{{this is about}}—should we find another way? I don't like how you're acting.
 
 %% u2127 %%
 Kenzo: What did he say? Don't like what?
@@ -188,7 +188,7 @@ Wellby: I'll look up at him, probably about twice my height, and say, 'Just stay
 DM: He looks at you like, 'Oh. Okay.'
 
 %% u2148-u2149 %%
-Wellby: What, do you guys want to see what's up there? [[Let's go to him for us.]]
+Wellby: What, do you guys want to see what's up there? {{Let's go to him for us.}}
 
 %% u2150 %%
 DM: Okay.
@@ -299,7 +299,7 @@ Delwath: Are they visible from here when it stands up?
 DM: No, it's four hundred feet and around a corner from where you are.
 
 %% u2220-u2221 %%
-Kenzo: Scene of Wellby raiding first by himself. [[Let's see, right?]]
+Kenzo: Scene of Wellby raiding first by himself. {{Let's see, right?}}
 
 %% u2222 %%
 Seeker: And then boom boom boom.
@@ -326,4 +326,4 @@ DM: It looks at you, startled for a moment. Looks down at you.
 Kenzo: What are you speaking, Chardonian?
 
 %% u2231-u2232 %%
-Seeker: Well, welcome to why you almost had that axebeak trained. [[Speaking kind of take care of it now.]]
+Seeker: Well, welcome to why you almost had that axebeak trained. {{Speaking kind of take care of it now.}}

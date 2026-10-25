@@ -250,10 +250,10 @@
 [u0250 | 00:24:43.080-00:24:45.030 | Kenzo] Yeah, yeah, yeah, yeah. Okay, yeah.
 [u0251 | 00:24:45.030-00:24:45.969 | Seeker] Being in shape.
 [u0252 | 00:24:45.970-00:24:52.650 | Kenzo] The final… well, the final mission is we need to bring it to the… we need to bring the Heartroot with us and bring it home, basically. That's kind of the…
-[u0253 | 00:24:53.040-00:25:00.420 | Kenzo] And actually, showing the mirror actually is gonna be super interesting, because it will… it will bring us back to some of the history of, like, all the weird shit, [[how it didn't appear]].
+[u0253 | 00:24:53.040-00:25:00.420 | Kenzo] And actually, showing the mirror actually is gonna be super interesting, because it will… it will bring us back to some of the history of, like, all the weird shit, {{how it didn't appear}}.
 [u0254 | 00:25:00.420-00:25:01.010 | Wellby] Yeah.
-[u0255 | 00:25:01.010-00:25:06.720 | Kenzo] to be, it used to be where the, the polluted… [[Who's playing this?]]
-[u0256 | 00:25:06.720-00:25:07.979 | Wellby] [[He's a guy. Isn't he?]]
+[u0255 | 00:25:01.010-00:25:06.720 | Kenzo] to be, it used to be where the, the polluted… {{Who's playing this?}}
+[u0256 | 00:25:06.720-00:25:07.979 | Wellby] {{He's a guy. Isn't he?}}
 [u0257 | 00:25:08.950-00:25:09.520 | DM] Yep.
 [u0258 | 00:25:10.090-00:25:15.279 | Kenzo] Yeah, let's do it. Should we show the… let's do the mirror to the Heartroot, yeah?
 [u0259 | 00:25:16.610-00:25:17.460 | DM] Okay.
@@ -269,7 +269,7 @@
 [u0269 | 00:25:59.440-00:26:04.209 | Delwath] Yeah, I was… We're on the same wavelength, so I was gonna say the same thing. Home.
 [u0270 | 00:26:04.540-00:26:05.220 | Kenzo] Damn.
 [u0271 | 00:26:05.890-00:26:06.960 | Delwath] But also…
-[u0272 | 00:26:07.910-00:26:14.330 | Seeker] being taken from your home, because who knows what this life story was [[in the long heart]]. The thing may be very old.
+[u0272 | 00:26:07.910-00:26:14.330 | Seeker] being taken from your home, because who knows what this life story was {{in the long heart}}. The thing may be very old.
 [u0273 | 00:26:14.680-00:26:19.999 | Kenzo] Yeah, but it's like, tell me, tell the story, tell all aspects of the story of your home.
 [u0274 | 00:26:20.210-00:26:24.039 | Kenzo] Like, where it is, where you long to go, where you were taken from.
 [u0275 | 00:26:25.000-00:26:27.579 | Seeker] Do we want to know, like, from when you were a seed?
@@ -298,7 +298,7 @@
 [u0298 | 00:28:25.900-00:28:28.029 | Kenzo] Is this some, like, beginning of time shit?
 [u0299 | 00:28:28.460-00:28:30.240 | Kenzo] It's like, the Heartroot, like…
 [u0300 | 00:28:30.500-00:28:31.300 | Seeker] Yeah, what was that?
-[u0301 | 00:28:31.300-00:28:34.580 | Kenzo] [[I was]] as old as, like, Creation of the universe?
+[u0301 | 00:28:31.300-00:28:34.580 | Kenzo] {{I was}} as old as, like, Creation of the universe?
 [u0302 | 00:28:34.800-00:28:36.810 | DM] Give me a sec, I wanna…
 [u0303 | 00:28:37.410-00:28:39.480 | DM] I wanna see if Mike rejoins.
 [u0304 | 00:28:39.830-00:28:43.090 | Kenzo] Oh yeah, there's probably… this is some, like, Beryl and the…
@@ -527,7 +527,7 @@
 [u0527 | 00:48:15.450-00:48:15.960 | Kenzo] Oh, snap.
 [u0528 | 00:48:15.960-00:48:16.825 | Seeker] Whoa…
 [u0529 | 00:48:18.660-00:48:19.709 | Seeker] Two weeks ago.
-[u0530 | 00:48:19.710-00:48:21.079 | Delwath] [[It's a barrel to talk to us.]]
+[u0530 | 00:48:19.710-00:48:21.079 | Delwath] {{It's a barrel to talk to us.}}
 [u0531 | 00:48:22.290-00:48:26.550 | Seeker] Wait, did we find all of the, like, jade fingers and stuff?
 [u0532 | 00:48:26.550-00:48:27.230 | DM] Yeah?
 [u0533 | 00:48:27.560-00:48:28.330 | Kenzo] data.
@@ -754,7 +754,7 @@
 [u0754 | 01:04:23.590-01:04:24.329 | Delwath] They were like.
 [u0755 | 01:04:24.330-01:04:24.730 | DM] Wow.
 [u0756 | 01:04:24.730-01:04:25.860 | Delwath] At the beginning, and then we.
-[u0757 | 01:04:25.860-01:04:35.169 | DM] Very early on, I made a… when Seeker got to level 4, I made a homebrew feat to make [[Ley Line's route]], like, actually do stuff, but Eric…
+[u0757 | 01:04:25.860-01:04:35.169 | DM] Very early on, I made a… when Seeker got to level 4, I made a homebrew feat to make {{Ley Line's route}}, like, actually do stuff, but Eric…
 [u0758 | 01:04:35.550-01:04:41.509 | DM] Didn't want to take it, or it didn't seem right for the moment, so then we just kind of dropped it.
 [u0759 | 01:04:41.830-01:04:43.240 | Seeker] Hmm.
 [u0760 | 01:04:43.240-01:04:47.140 | Wellby] Is the Stoneborn metaphysicist Yendalo still living?
@@ -919,7 +919,7 @@
 [u0919 | 01:20:59.400-01:21:00.580 | Kenzo] killed Apollyon?
 [u0920 | 01:21:02.670-01:21:05.309 | DM] Not something you did, it's more something Apollyon did.
 [u0921 | 01:21:07.830-01:21:09.650 | Kenzo] Apollyon…
-[u0922 | 01:21:10.380-01:21:13.379 | Delwath] Apollyon was trying to [[take a crack out of his prison]].
+[u0922 | 01:21:10.380-01:21:13.379 | Delwath] Apollyon was trying to {{take a crack out of his prison}}.
 [u0923 | 01:21:14.210-01:21:20.420 | Delwath] By mucking with the plane of the… by mucking with the… Land of the Dead?
 [u0924 | 01:21:22.910-01:21:25.039 | Delwath] Did you do something else that we're forgetting?
 [u0925 | 01:21:27.680-01:21:31.200 | DM] the… What was the prison made out of?
@@ -936,7 +936,7 @@
 [u0936 | 01:22:33.770-01:22:35.670 | Delwath] Wait, did Cha'mutte's death?
 [u0937 | 01:22:36.790-01:22:42.129 | Delwath] caused this… Cha'mutte's death caused this wound, right? Did it?
 [u0938 | 01:22:42.130-01:22:43.830 | DM] Yes. Yeah, yeah, yeah.
-[u0939 | 01:22:43.830-01:22:49.639 | Delwath] So do we need to go to, like, the [[Ehrlich Modest]]… Urlich Pass, and, like… that's probably…
+[u0939 | 01:22:43.830-01:22:49.639 | Delwath] So do we need to go to, like, the {{Ehrlich Modest}}… Urlich Pass, and, like… that's probably…
 [u0940 | 01:22:50.140-01:22:52.059 | Delwath] That's nearby here, right?
 [u0941 | 01:22:52.970-01:22:53.880 | Wellby] Ish?
 [u0942 | 01:22:56.480-01:22:57.340 | Kenzo] Wait, what?
@@ -1037,7 +1037,7 @@
 [u1037 | 01:30:23.610-01:30:32.079 | DM] I mean, the library… Lets you learn 3 accurate pieces of information.
 [u1038 | 01:30:32.400-01:30:36.179 | DM] The Hall of Stories lets you learn…
 [u1039 | 01:30:37.150-01:30:47.399 | DM] Three accurate pieces of information about a legend, a kind of creature, or a famous object, but… there's probably a way you can make that work.
-[u1040 | 01:30:48.570-01:30:54.150 | DM] [[Everyone]] lets you learn about a location, so Limbo is fine.
+[u1040 | 01:30:48.570-01:30:54.150 | DM] {{Everyone}} lets you learn about a location, so Limbo is fine.
 [u1041 | 01:30:55.560-01:31:01.390 | DM] Observatory lets you cast Contact Other Plane, and Delwath can also ask.
 [u1042 | 01:31:01.770-01:31:05.009 | DM] About, and then you have something else, too.
 [u1043 | 01:31:09.490-01:31:15.249 | Kenzo] Tim, by the way, Kenzo's gonna carve the story of the Heartroot into his staff.
@@ -1065,7 +1065,7 @@
 [u1065 | 01:32:40.270-01:32:43.579 | Delwath] Can we use Contact Other Plane to contact Rai?
 [u1066 | 01:32:45.770-01:32:47.890 | Seeker] If we knew…
 [u1067 | 01:32:48.560-01:32:49.590 | DM] Yes.
-[u1068 | 01:32:49.960-01:32:50.430 | Kenzo] [[Rise of 2.]]
+[u1068 | 01:32:49.960-01:32:50.430 | Kenzo] {{Rise of 2.}}
 [u1069 | 01:32:50.430-01:32:50.930 | Wellby] Great idea.
 [u1070 | 01:32:50.930-01:32:52.810 | Kenzo] With the other monks.
 [u1071 | 01:32:56.580-01:32:57.600 | Seeker] It's worse, right?
@@ -1197,7 +1197,7 @@
 [u1197 | 01:45:18.950-01:45:20.890 | Delwath] Potion of Invulnerability? Yes.
 [u1198 | 01:45:20.890-01:45:23.790 | DM] There's the Potion of Dragon's Majesty.
 [u1199 | 01:45:23.970-01:45:29.979 | DM] Which Kenzo just used. There's the potion of bottled knowledge, which Seeker used.
-[u1200 | 01:45:33.640-01:45:39.050 | DM] Oh, there's Dust of Glibness, which, like, you might not need, because… Yeah, no, [[I could spell that]].
+[u1200 | 01:45:33.640-01:45:39.050 | DM] Oh, there's Dust of Glibness, which, like, you might not need, because… Yeah, no, {{I could spell that}}.
 [u1201 | 01:45:39.050-01:45:41.290 | Delwath] Yep. But, like, the greatsword?
 [u1202 | 01:45:41.460-01:45:49.299 | DM] There's the Greatsword, there's the Triceratops, there's the Wellby's Bow.
 [u1203 | 01:45:49.300-01:45:50.460 | Kenzo] No. There's…
@@ -1319,12 +1319,12 @@
 [u1319 | 01:52:39.720-01:52:43.399 | Delwath] We didn't leave Tollen in… Any bad way.
 [u1320 | 01:52:43.400-01:52:45.630 | DM] No, but people in Tollen like you.
 [u1321 | 01:52:45.910-01:52:46.839 | Delwath] Yeah, and we have, like.
-[u1322 | 01:52:46.840-01:52:50.450 | DM] [[Tom]] can decide if Kenzo wants to reconnect with that.
+[u1322 | 01:52:46.840-01:52:50.450 | DM] {{Tom}} can decide if Kenzo wants to reconnect with that.
 [u1323 | 01:52:52.580-01:52:52.920 | Kenzo] Oh, yeah.
 [u1324 | 01:52:52.920-01:52:53.740 | Delwath] What's her name?
-[u1325 | 01:52:53.740-01:52:57.929 | DM] Kenzo's got a love interest in Tollen. [[Beryl's]] got a love interest in Tollen.
+[u1325 | 01:52:53.740-01:52:57.929 | DM] Kenzo's got a love interest in Tollen. {{Beryl's}} got a love interest in Tollen.
 [u1326 | 01:52:58.910-01:52:59.740 | Delwath] That what you mean?
-[u1327 | 01:52:59.740-01:53:01.550 | Kenzo] [[Delta's 11.]]
+[u1327 | 01:52:59.740-01:53:01.550 | Kenzo] {{Delta's 11.}}
 [u1328 | 01:53:01.550-01:53:05.650 | Delwath] The centaur was never a love interest, except in Kenzo's mind.
 [u1329 | 01:53:05.650-01:53:10.609 | Kenzo] Don't fight it! Don't fight it. Delwath just gotta, just gotta flow with it. Just gotta flow with it.
 [u1330 | 01:53:10.610-01:53:14.560 | Wellby] It hasn't happened yet, like, it's… it can happen,
@@ -1360,7 +1360,7 @@
 [u1360 | 01:56:00.320-01:56:09.009 | Delwath] who fought Apollyon, and be like, dude, we killed him. It's, like, all better now. I mean, it's not really all better, like, he still destroys your home, but, like…
 [u1361 | 01:56:09.250-01:56:11.070 | Delwath] Don't you think she'd want to know?
 [u1362 | 01:56:13.700-01:56:18.840 | Delwath] We never even used her five… our five meta resources of what would she do? We only.
-[u1363 | 01:56:18.840-01:56:20.870 | DM] No, I think [[2 is the one, but I used to.]]
+[u1363 | 01:56:18.840-01:56:20.870 | DM] No, I think {{2 is the one, but I used to.}}
 [u1364 | 01:56:20.870-01:56:21.660 | Delwath] like, two.
 [u1365 | 01:56:21.660-01:56:22.779 | DM] One or two, yeah.
 [u1366 | 01:56:22.780-01:56:23.330 | Delwath] Yeah.

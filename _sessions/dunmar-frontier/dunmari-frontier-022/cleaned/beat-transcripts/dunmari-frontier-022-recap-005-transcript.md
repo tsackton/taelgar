@@ -32,7 +32,7 @@ Kenzo: Yeah.
 DM: Yeah, yeah, Kenzo would certainly know some prayers.
 
 %% u2390 %%
-Kenzo: [[Is that some visual first freestyle beach.]]
+Kenzo: {{Is that some visual first freestyle beach.}}
 
 %% u2391 %%
 Seeker: Okay, yeah, you have to literally kneel too, probably. Yeah, I did...
@@ -323,7 +323,7 @@ Seeker: I think that'll be a fun place to start next time.
 DM: Hey, guys.
 
 %% u2547 %%
-Wellby: I think we should stop here too. I think Wellby's maybe uncharacteristically ambivalent here, because it feels like, are we crashing someone else's [[it intersects them]]? That doesn't feel...
+Wellby: I think we should stop here too. I think Wellby's maybe uncharacteristically ambivalent here, because it feels like, are we crashing someone else's {{it intersects them}}? That doesn't feel...
 
 %% u2548 %%
 Delwath: A little ambivalent too. It feels very human-esque.

@@ -51,7 +51,7 @@ Delwath: Clearly somebody's been here since the attack.
 Seeker: Who would have cleaned up the temple like that?
 
 %% u1090 %%
-Wellby: [[Certainly one side.]]
+Wellby: {{Certainly one side.}}
 
 %% u1091 %%
 DM: Yes, Havdar—hold on one sec.
@@ -180,7 +180,7 @@ Kenzo: And he looks at Wellby.
 Wellby: Wellby is engaged in an intense stare-down with these…
 
 %% u1158 %%
-Unknown: [[Metrics.]]
+Unknown: {{Metrics.}}
 
 %% u1159-u1162 %%
 Wellby: Wellby will say, without losing his staring match with the lead vulture, 'They're bad news. They're not right.'
@@ -207,7 +207,7 @@ Delwath: I'll just blast one.
 Seeker: Hold it, how far outside of town are we still?
 
 %% u1173 %%
-DM: [[Are intact]], I mean…
+DM: {{Are intact}}, I mean…
 
 %% u1174 %%
 Seeker: We're in town.
@@ -216,19 +216,19 @@ Seeker: We're in town.
 DM: It's ruined, right? Except for the temple, there's hardly any buildings with roofs. There's definitely walls around. Okay, it's…
 
 %% u1179 %%
-Seeker: [[Not like what should…]]
+Seeker: {{Not like what should…}}
 
 %% u1180 %%
 Delwath: What if we just attack them?
 
 %% u1181 %%
-DM: Okay, [[down]].
+DM: Okay, {{down}}.
 
 %% u1182-u1184 %%
 Seeker: Oh God. I'm going towards the temple when this happens, hopefully close to it.
 
 %% u1185 %%
-Wellby: Cover in the temple [[wholesome]].
+Wellby: Cover in the temple {{wholesome}}.
 
 %% u1186 %%
 Kenzo: Yeah I'm also gonna go.
@@ -240,7 +240,7 @@ DM: Back.
 Delwath: Yeah, hold on. Wait, wait, wait, wait, wait. Might be Beyond20, or it might be Beyond20.
 
 %% u1190 %%
-Kenzo: [[Knots.]]
+Kenzo: {{Knots.}}
 
 %% u1191 %%
 DM: Ah didn't make a map of the village.
@@ -261,7 +261,7 @@ DM: It misses; that goes flying past. So let's see, we've got…
 Unknown: Oops.
 
 %% u1201-u1202 %%
-DM: [[Ball]], something like that, and some walls.
+DM: {{Ball}}, something like that, and some walls.
 
 %% u1203 %%
 Unknown: Couple buildings.
@@ -291,7 +291,7 @@ Seeker: Where's the entrance to it?
 Unknown: Right there.
 
 %% u1216 %%
-Seeker: Okay, sweet. [[City.]]
+Seeker: Okay, sweet. {{City.}}
 
 %% u1217-u1219 %%
 DM: As the Eldritch Blast flies wide of one of the vultures, they wheel and start to swoop down. Two of them dive for Wellby. Let's see, that's going to be…
@@ -303,7 +303,7 @@ Wellby: Is this an initiative situation?
 Unknown: Ah.
 
 %% u1222-u1224 %%
-Seeker: Let's do some initiative. '[[That's the Jews]] are extremely effective at deterring vultures from an area. To display proper effigies, they need to be hung high enough to be seen from a distance.' Oh my God, you actually hang a dead vulture upside down to deter other vultures.
+Seeker: Let's do some initiative. '{{That's the Jews}} are extremely effective at deterring vultures from an area. To display proper effigies, they need to be hung high enough to be seen from a distance.' Oh my God, you actually hang a dead vulture upside down to deter other vultures.
 
 %% u1225 %%
 DM: Guys.
@@ -321,10 +321,10 @@ Wellby: They're really good at dodging Eldritch Blast.
 Seeker: Hungry for.
 
 %% u1230 %%
-Wellby: They just, you know, [[they just see one time]].
+Wellby: They just, you know, {{they just see one time}}.
 
 %% u1231 %%
-Seeker: We're rolling initiative, [[Jason]]?
+Seeker: We're rolling initiative, {{Jason}}?
 
 %% u1232 %%
 Unknown: Yeah.
@@ -351,7 +351,7 @@ Wellby: Hope that we'll try it out.
 Seeker: 'Loud noises disturb vultures.' That's good. 'Spraying with a garden hose or pyrotechnics.'
 
 %% u1247-u1255 %%
-DM: Okay, there we go. Let's see, Wellby six, Seeker was… So I'm giving the two vultures that dove down towards Wellby—each is going to make an attack with their talons. So [[wanna that happened]]. Sorry, five points of damage as it grasps you with its talons, and the other is going to attempt to grapple you.
+DM: Okay, there we go. Let's see, Wellby six, Seeker was… So I'm giving the two vultures that dove down towards Wellby—each is going to make an attack with their talons. So {{wanna that happened}}. Sorry, five points of damage as it grasps you with its talons, and the other is going to attempt to grapple you.
 
 %% u1256 %%
 Seeker: Would be fine.
@@ -462,7 +462,7 @@ DM: Oh yeah that is dead.
 Kenzo: Oh yeah, Kenzo reels and spins the staff, definitely just smashes its head in.
 
 %% u1305-u1307 %%
-Wellby: Wellby will look over at the smashed one and [[cut it, kind of make public a gesture like a bit]]. Yeah, yeah.
+Wellby: Wellby will look over at the smashed one and {{cut it, kind of make public a gesture like a bit}}. Yeah, yeah.
 
 %% u1308 %%
 Kenzo: Smashes the head, and then whirls in the same motion with a backhand strike to the other vulture currently grappling Wellby.
@@ -486,7 +486,7 @@ DM: They were nearly dead from the Shatter. The other five, seeing two of their 
 Unknown: Let's see who can they grab.
 
 %% u1319 %%
-Seeker: [[Basically, already this.]]
+Seeker: {{Basically, already this.}}
 
 %% u1320-u1322 %%
 DM: This one's going to dive down towards Kenzo, being pissed at him for killing these two. It will go for an attack with its beak, which misses, and then it will also attempt to grapple you.
@@ -522,7 +522,7 @@ Kenzo: This is beautiful. This is exactly what I want.
 Seeker: You're not afraid of heights, right?
 
 %% u1337-u1338 %%
-Kenzo: No, Kenzo can fall from, like… [[not very nice totally be told]].
+Kenzo: No, Kenzo can fall from, like… {{not very nice totally be told}}.
 
 %% u1339 %%
 Seeker: You're a monk, you're good.
@@ -621,7 +621,7 @@ Kenzo: Are you trying to do my shit.
 Seeker: That's it.
 
 %% u1408-u1409 %%
-Delwath: [[It's over the summer day.]]
+Delwath: {{It's over the summer day.}}
 
 %% u1410 %%
 Seeker: I think it's really big enough for…
@@ -639,7 +639,7 @@ Delwath: You don't want it to die?
 Kenzo: I want to fucking ride it. I want to ride it. I want to fucking—I can… I mean, do what you're going to do, but this is actually…
 
 %% u1419 %%
-Delwath: [[A bad forgetting]]—getting you grappled by a vulture.
+Delwath: {{A bad forgetting}}—getting you grappled by a vulture.
 
 %% u1420-u1421 %%
 Kenzo: Exactly where he wants it. Exactly where he wants to be.
@@ -660,7 +660,7 @@ DM: Okay. Ah, so, but you don't add the booming blade damage.
 Delwath: Right um I believe that is correct.
 
 %% u1429 %%
-DM: But you didn't—you didn't [[explain…]]
+DM: But you didn't—you didn't {{explain…}}
 
 %% u1430 %%
 Delwath: Curse it, so you're just doing damage. Yes.
@@ -678,7 +678,7 @@ DM: Okay, they're probably about a hundred feet up.
 Wellby: Right, so I won't move on this turn, and I'll use Steady Aim to cancel out the disadvantage on myself.
 
 %% u1444-u1445 %%
-DM: [[Disappointed]], as it's a bit far away for your shortbow to reach. Seeker?
+DM: {{Disappointed}}, as it's a bit far away for your shortbow to reach. Seeker?
 
 %% u1446-u1450 %%
 Seeker: Oh. I look up at the now two people hanging off of the flying vulture, which is also squirting blood out, and chuckle a little bit and enter the temple.
@@ -690,7 +690,7 @@ DM: Okay. Inside the temple, you see someone cowering from the sounds of battle.
 Kenzo: All right, well, so now Delwath is on top of the vulture also?
 
 %% u1457 %%
-Delwath: Yep, [[that's room for two]].
+Delwath: Yep, {{that's room for two}}.
 
 %% u1458 %%
 Kenzo: Is there room for two?
@@ -708,7 +708,7 @@ DM: Okay, make an Acrobatics check.
 Seeker: Oh.
 
 %% u1463 %%
-Wellby: Slick. [[The only robo lady]]—that's amazing.
+Wellby: Slick. {{The only robo lady}}—that's amazing.
 
 %% u1464 %%
 Kenzo: After breaking free of the grapple, can I flip myself onto the back of the vulture now?
@@ -720,7 +720,7 @@ Unknown: Yeah.
 Kenzo: Another Acrobatics?
 
 %% u1467 %%
-Unknown: [[Rob.]]
+Unknown: {{Rob.}}
 
 %% u1468 %%
 DM: Yeah, another Acrobatics check. It's not very difficult.
@@ -738,10 +738,10 @@ Kenzo: So I just flip out of its claws and land standing on its back. Not using 
 Delwath: It was trying to carry you off.
 
 %% u1478 %%
-Kenzo: [[Because it's locked.]]
+Kenzo: {{Because it's locked.}}
 
 %% u1479 %%
-Delwath: [[Up thankful]], you hadn't broken out of its claws.
+Delwath: {{Up thankful}}, you hadn't broken out of its claws.
 
 %% u1480 %%
 Kenzo: Kenzo is kind of laughing. 'I had it right where I wanted it, and you had to come up here. Jeez.'
@@ -762,7 +762,7 @@ Kenzo: How high up is it?
 DM: It's fifteen feet up, heading off.
 
 %% u1486 %%
-Delwath: [[Thank you]], kill it.
+Delwath: {{Thank you}}, kill it.
 
 %% u1487 %%
 Kenzo: All right, I'll strike it.
@@ -786,10 +786,10 @@ DM: You kill it, and you and Delwath fall. Delwath takes two points of damage. K
 Kenzo: So I flip out of its claws and land standing on the vulture, surfing it. Then, all in one motion, I jump, magically take my elbow and crack its skull, and gracefully land. The vulture lands, and then Delwath—actually, sorry, Kenzo lands last.
 
 %% u1499 %%
-Delwath: First, [[fresh the carcasses of…]]
+Delwath: First, {{fresh the carcasses of…}}
 
 %% u1500-u1501 %%
-Kenzo: …the vulture lands. Then Delwath right there also, and then Kenzo, like, [[Greg]].
+Kenzo: …the vulture lands. Then Delwath right there also, and then Kenzo, like, {{Greg}}.
 
 %% u1502-u1510 %%
 DM: He doesn't even really land. It's like he's walking down a staircase in the air; he steps down out of the sky. Havdar looks around. 'That was interesting.' The rest of his troops unleash their arrows, killing one more of the vultures before the other two are too high up to be targeted. He says, 'Let me go speak with my troops briefly; we'll set a watch. I do not think they'll be returning, and if they do, I do not think they will like the welcome they receive. Give me a moment. I'll meet you inside the temple.' So.

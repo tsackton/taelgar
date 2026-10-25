@@ -62,7 +62,7 @@ DM: "He was, yes. That was many years ago now."
 Kenzo: When did you last speak with him?
 
 %% u2209-u2211 %%
-DM: "I do not know exactly the years I have been trapped here. [[I only a while ago]]."
+DM: "I do not know exactly the years I have been trapped here. {{I only a while ago}}."
 
 %% u2212 %%
 Kenzo: Does that timing make sense for when this weird electrical storm appeared?
@@ -86,7 +86,7 @@ DM: "I cannot see. Was that missing eyes?"
 Wellby: Yeah, looked like you.
 
 %% u2221 %%
-DM: "Perhaps, yes." [[Done]].
+DM: "Perhaps, yes." {{Done}}.
 
 %% u2222 %%
 Delwath: That's about the time that the dead body was from, right?
@@ -116,10 +116,10 @@ Wellby: Yeah, right. The rune circle that we saw in the storm.
 DM: So there were enormous giant runes, like three feet tall, but also in the Giant language, which Seeker and Delwath tried to understand and received different messages. One of which seemed to be asking Seeker what he wanted to know, the other of which seemed to be helping Delwath to go kill people, specifically the dwarf next to him.
 
 %% u2240-u2241 %%
-Seeker: [[Or happy]], perhaps because of recent bad experiences with people seeking knowledge. So that could mean that there's a party of Chardonians out there carrying two gems.
+Seeker: {{Or happy}}, perhaps because of recent bad experiences with people seeking knowledge. So that could mean that there's a party of Chardonians out there carrying two gems.
 
 %% u2242-u2243 %%
-Delwath: [[Seconds]] is probably from the Great Library, or whatever it's called, the order of the—
+Delwath: {{Seconds}} is probably from the Great Library, or whatever it's called, the order of the—
 
 %% u2244 %%
 DM: Society of the Open Scroll. Yes.
@@ -155,10 +155,10 @@ DM: That would be your surmise, yes.
 Delwath: I'll describe it to him. Does he know what—
 
 %% u2257 %%
-Riswynn: [[Sound wizard]].
+Riswynn: {{Sound wizard}}.
 
 %% u2258-u2259 %%
-Delwath: [[Giants though things]]. It was Drankorian, right? Right.
+Delwath: {{Giants though things}}. It was Drankorian, right? Right.
 
 %% u2260-u2261 %%
 DM: Yes, it was Drankorian. "That could be something Eudomes would concoct, yes."
@@ -206,7 +206,7 @@ Riswynn: So is the storm giant bipolar, and sometimes he's lightning that chases
 Delwath: That—
 
 %% u2287-u2289 %%
-Riswynn: [[I think nation]]. Or is Eudomes's spirit the electrical entity? Can Eudomes exist as an electrical spirit?
+Riswynn: {{I think nation}}. Or is Eudomes's spirit the electrical entity? Can Eudomes exist as an electrical spirit?
 
 %% u2290-u2291 %%
 Delwath: I think the storm giant's bipolar, but maybe he's more in control now.
@@ -239,7 +239,7 @@ DM: "If you could break the bonds, I would be free."
 Delwath: But I don't think it's as easy as just breaking the bonds.
 
 %% u2307-u2308 %%
-Riswynn: Yeah, I meant shatter the loop thing that [[was about money]] to smash for a while.
+Riswynn: Yeah, I meant shatter the loop thing that {{was about money}} to smash for a while.
 
 %% u2309-u2311 %%
 Delwath: We could try that, but yeah, let's hit the library quickly first.
@@ -293,7 +293,7 @@ Delwath: Okay.
 Wellby: When are we playing next?
 
 %% u2341-u2344 %%
-Kenzo: Let's figure out that question. So first off, thanks, guys, for being flexible with timing given my current situation. So Schwartz, I was giving everybody the update on my mom's [[ass]] and everything earlier, but my mom's surgery is on the 29th. And after that, honestly, her recovery's supposed to be six to eight weeks, and I'm basically going to be out here in California for the next couple months at least.
+Kenzo: Let's figure out that question. So first off, thanks, guys, for being flexible with timing given my current situation. So Schwartz, I was giving everybody the update on my mom's {{ass}} and everything earlier, but my mom's surgery is on the 29th. And after that, honestly, her recovery's supposed to be six to eight weeks, and I'm basically going to be out here in California for the next couple months at least.
 
 %% u2345-u2347 %%
 Kenzo: But after the surgery is over, I'm pretty flexible, honestly. This timing is pretty good, but actually if my mom's recovery is good and things look well, then our old end time also will be totally fine, actually, right? But I think for the next one, if we did a similar time as this, that could be good. And then after that I think I could potentially go back to just our standard playing times.
@@ -362,7 +362,7 @@ Delwath: Um.
 Wellby: But.
 
 %% u2374-u2375 %%
-Delwath: Maybe. I'd have to [[dr data]]. Maybe not.
+Delwath: Maybe. I'd have to {{dr data}}. Maybe not.
 
 %% u2376 %%
 Kenzo: So next weekend's tough for you, in general?
@@ -377,7 +377,7 @@ Unknown: Yeah.
 Delwath: Okay, let me—what about the week—I mean, the ninth and tenth should be fine.
 
 %% u2380 %%
-Kenzo: [[I'm not doing today]].
+Kenzo: {{I'm not doing today}}.
 
 %% u2381 %%
 DM: Yeah, that's, I mean, that's fine.
@@ -392,7 +392,7 @@ DM: The afternoon, how does that work for you, Schwartz, to do afternoons on a w
 Wellby: Sooner rather than evenings? What time? Let's—
 
 %% u2386 %%
-DM: Say the same time on the [[19th]].
+DM: Say the same time on the {{19th}}.
 
 %% u2387 %%
 Wellby: It's not great for me, actually.
@@ -410,7 +410,7 @@ Riswynn: Tentatively plan for a normal time on the ninth, and a late night—
 DM: East Coast, or Friday night is probably best. If we're doing an evening, Friday night's presumably best for Schwartz.
 
 %% u2395-u2397 %%
-Wellby: Right, the ninth works, but the tenth, actually the service on the tenth is this question-about service. We do it live on Zoom, and people just ask me questions on the spot, so probably better to get a good night's sleep the night before that one. [[He says defense service each year]].
+Wellby: Right, the ninth works, but the tenth, actually the service on the tenth is this question-about service. We do it live on Zoom, and people just ask me questions on the spot, so probably better to get a good night's sleep the night before that one. {{He says defense service each year}}.
 
 %% u2398 %%
 Seeker: That's the ninth.
@@ -422,7 +422,7 @@ Kenzo: Wow. The eighth works.
 Wellby: Is good.
 
 %% u2401-u2402 %%
-Seeker: Okay. All right. Okay. [[Tonight]] the evening time?
+Seeker: Okay. All right. Okay. {{Tonight}} the evening time?
 
 %% u2403-u2404 %%
 Kenzo: Usual kind of 8 p.m. start time?
@@ -437,13 +437,13 @@ Riswynn: 8:30, except for that it's also five.
 Seeker: We're gonna smash that iron ball.
 
 %% u2409 %%
-Kenzo: [[On those eyes]].
+Kenzo: {{On those eyes}}.
 
 %% u2410 %%
 Seeker: We're gonna find those eyes.
 
 %% u2411 %%
-Kenzo: We're going to Chardon, is what we're doing, to fuck with some Open Scroll society [[if you've left stole giant is]].
+Kenzo: We're going to Chardon, is what we're doing, to fuck with some Open Scroll society {{if you've left stole giant is}}.
 
 %% u2412 %%
 Delwath: I was gonna say, we're totally not going to find the eyes.
@@ -461,7 +461,7 @@ Kenzo: Well, I think they're connected, because probably to fix the Dunmar situa
 Delwath: This is totally a side quest.
 
 %% u2417 %%
-Kenzo: [[With the deal]]. You think it's a side quest?
+Kenzo: {{With the deal}}. You think it's a side quest?
 
 %% u2418 %%
 Seeker: Yeah. Oh, interesting. This storm had nothing to do with all the rest of this stuff?
@@ -491,31 +491,31 @@ Seeker: They're messing with the things that shouldn't be messed with. That's ou
 Delwath: Job. That is definitely true.
 
 %% u2427-u2428 %%
-Kenzo: Are you free next weekend? [[Should be acted upon]].
+Kenzo: Are you free next weekend? {{Should be acted upon}}.
 
 %% u2429-u2431 %%
-Wellby: I would love to. Yes. What timing? What works? [[It's about this]].
+Wellby: I would love to. Yes. What timing? What works? {{It's about this}}.
 
 %% u2432-u2433 %%
-Kenzo: Saturday, Sunday next week, first thing in there. I'm pretty—[[I'm showing]].
+Kenzo: Saturday, Sunday next week, first thing in there. I'm pretty—{{I'm showing}}.
 
 %% u2434-u2435 %%
 Seeker: I'm doing a lot of being at my house, like always, during that time, so...
 
 %% u2436-u2438 %%
-DM: If we're going to do [[a little punk]] in the afternoon, let me talk to Kate to see—well, she's right there, obviously—but what day is—
+DM: If we're going to do {{a little punk}} in the afternoon, let me talk to Kate to see—well, she's right there, obviously—but what day is—
 
 %% u2439-u2440 %%
 Wellby: Well, you don't put her on the spot for like, "Oh, hell no."
 
 %% u2441 %%
-DM: You can play [[cuckoo funk]].
+DM: You can play {{cuckoo funk}}.
 
 %% u2442 %%
 Wellby: Yeah.
 
 %% u2443 %%
-Kenzo: [[New all we can]]—
+Kenzo: {{New all we can}}—
 
 %% u2444 %%
 Riswynn: Do. Is that—
@@ -527,7 +527,7 @@ DM: I'm just saying, let's—
 Wellby: Let's see what—
 
 %% u2447-u2448 %%
-DM: We're going up to Alexandria on Monday, and we're coming back Thursday. And then I know Sunday's not going to be good, because the kids have school the next day, and I have work and sort of it. But either Friday or Saturday should be fine. Let me just figure out what the best day is while I try to convince her that [[the little punk]] is also fun.
+DM: We're going up to Alexandria on Monday, and we're coming back Thursday. And then I know Sunday's not going to be good, because the kids have school the next day, and I have work and sort of it. But either Friday or Saturday should be fine. Let me just figure out what the best day is while I try to convince her that {{the little punk}} is also fun.
 
 %% u2449 %%
 Seeker: We—

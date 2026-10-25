@@ -317,7 +317,7 @@ Wellby: Send these back to the side.
 DM: Here, this is the one. Yeah, this one here.
 
 %% u3482 %%
-Unknown: [[Glad you draw the room]].
+Unknown: {{Glad you draw the room}}.
 
 %% u3483-u3485 %%
 DM: Where did my... Sh.
@@ -1169,7 +1169,7 @@ Delwath: Chain lightning.
 DM: So chain lightning goes off.
 
 %% u3885-u3886 %%
-Seeker: Oh, my God. What do I... I haven't cast that before. I actually said... [[What level would I remember it?]]
+Seeker: Oh, my God. What do I... I haven't cast that before. I actually said... {{What level would I remember it?}}
 
 %% u3887 %%
 DM: 6th.
@@ -1367,7 +1367,7 @@ Unknown: The ladder? ... Even called?
 Seeker: I have to look it up.
 
 %% u3966 %%
-Unknown: And it's... [[Orenlas]].
+Unknown: And it's... {{Orenlas}}.
 
 %% u3967 %%
 DM: It's... I think it's—
@@ -1418,7 +1418,7 @@ DM: ... It would, you would be invisible, but it was also the one who saw you fr
 Unknown: Right, right. Right.
 
 %% u3991-u3999 %%
-DM: It is going to... Who is it gonna target? Well, Seeker 6 just cast the lightning bolt, so Seeker 6... Oh, actually let's do the [[burn assertion]] first. Delwath did a ton of damage to it. Delwath, make a Constitution saving throw.
+DM: It is going to... Who is it gonna target? Well, Seeker 6 just cast the lightning bolt, so Seeker 6... Oh, actually let's do the {{burn assertion}} first. Delwath did a ton of damage to it. Delwath, make a Constitution saving throw.
 
 %% u4000 %%
 Delwath: 22.
@@ -1475,7 +1475,7 @@ Unknown: Whoa. [laughs] [laughs]
 DM: So that—
 
 %% u4033 %%
-Delwath: Every time somebody, like, [[we, they actually]]...
+Delwath: Every time somebody, like, {{we, they actually}}...
 
 %% u4034 %%
 Unknown: [laughs]
@@ -1532,7 +1532,7 @@ DM: ... 6 takes 10—
 Wellby: That'd be the thing we remember him for.
 
 %% u4053-u4055 %%
-DM: ... another 16 plus [[40, 12]]. [die rolls]
+DM: ... another 16 plus {{40, 12}}. [die rolls]
 
 %% u4056 %%
 Unknown: Uh-oh.
@@ -2105,7 +2105,7 @@ Wellby: It's unfortunately close to the—
 DM: Kenzo, make a—
 
 %% u4307 %%
-Wellby: ... [[she said so he could run the]], like—
+Wellby: ... {{she said so he could run the}}, like—
 
 %% u4308 %%
 DM: Make a constitution saving throw.
@@ -2189,7 +2189,7 @@ Seeker: Never did it. Oh, well.
 Unknown: Probably.
 
 %% u4346-u4347 %%
-Wellby: That's an idea for the future, though. It's, like, [[you from all the dead]].
+Wellby: That's an idea for the future, though. It's, like, {{you from all the dead}}.
 
 %% u4348 %%
 Delwath: 22 hits, right?
@@ -2270,7 +2270,7 @@ Unknown: Yeah.
 DM: So Delwath slashes at it three times. His sword, again, bending through space to target this creature.
 
 %% u4383-u4384 %%
-Delwath: It seems relatively—it's not... Yeah, I'm not gonna [[roll this action]].
+Delwath: It seems relatively—it's not... Yeah, I'm not gonna {{roll this action}}.
 
 %% u4385 %%
 DM: Okay. Kenzo, make a constitution saving throw.
@@ -2282,7 +2282,7 @@ Unknown: With advantage, right?
 DM: Nope.
 
 %% u4388 %%
-Kenzo: With [[the heals disadvantage]], right?
+Kenzo: With {{the heals disadvantage}}, right?
 
 %% u4389-u4390 %%
 DM: [laughs] If you fail, you can re-roll it with a ki.
@@ -2300,7 +2300,7 @@ Unknown: I'll roll a ki.
 DM: Probably—
 
 %% u4395-u4396 %%
-Kenzo: Or actually, I'll [[hold weapons]]. It'd be better to do bardic with that, right?
+Kenzo: Or actually, I'll {{hold weapons}}. It'd be better to do bardic with that, right?
 
 %% u4397 %%
 Unknown: 16.
@@ -2375,7 +2375,7 @@ DM: You get seven temp HP. Okay. Then it's going to attack the ladder.
 Unknown: [laughs] Naturally.
 
 %% u4429-u4430 %%
-Kenzo: [[So heavy my staff now]].
+Kenzo: {{So heavy my staff now}}.
 
 %% u4431 %%
 DM: [laughs] All of those hit.
@@ -2462,7 +2462,7 @@ Unknown: Oh my God... Like this.
 Delwath: From dumping tea in the harbor—
 
 %% u4476-u4477 %%
-Unknown: What the hell? ... To the [[taxage]]—
+Unknown: What the hell? ... To the {{taxage}}—
 
 %% u4478 %%
 Kenzo: That was crazy. Where the hell did that guy come from?

@@ -1,0 +1,3887 @@
+{
+  "session": 113,
+  "preparedSha256": "525fa460dafe473c66e554cd985816c1cbc855648bcf0b4b28831313391aae20",
+  "transcriptSha256": "6b0995f48e4627c309eda817bcfa3d00ec6d968dd318c54d9b0391f4cc2f6916",
+  "status": "cleanup_complete_review_deferred",
+  "humanAcceptance": false,
+  "counts": {
+    "units": 2578,
+    "changed_units": 563,
+    "material_lines": 15,
+    "material_spans": 16,
+    "material_issue_groups": 14,
+    "incidental_lines": 102,
+    "incidental_spans": 102,
+    "incidental_marked_lines": 3,
+    "incidental_marked_spans": 3,
+    "incidental_unmarked_lines": 99
+  },
+  "span_counting": "One span per retained incidental unit unless explicitly localized; whole-unit boundaries are labeled. Material spans are individual [[...]] spans. Context quotations do not add span counts.",
+  "judgment": "Both passes completed. The recovered dagger, preservation plan, four recovered tokens, courtyard battle outcome, and overnight temple rest are legible. Unresolved material consists of garbled explanatory/questions spans, alternate society name, victim-name introduction, and two variants of the elven victim name. Preserve these markers and defer questions to morning review as explicitly requested. No human acceptance has been given or fabricated.",
+  "quotationVerification": "Every source-labeled field and context was checked against the prepared transcript; every cleaned-labeled field/context was checked against the canonical cleaned transcript.",
+  "items": [
+    {
+      "uid": "u0004",
+      "importance": "incidental",
+      "group": "u0004",
+      "reason": "Opening false start: the debt; jungle description otherwise clear.",
+      "prepared_source_verbatim": "[u0004 | 00:00:26.410-00:00:37.020 | DM] the debt, the jungle below you is seemingly quiet at the moment as the ship hovers above this absolutely massive temple of",
+      "cleaned_wording": "[u0004 | 00:00:26.410-00:00:37.020 | DM] the debt, the jungle below you is seemingly quiet at the moment as the ship hovers above this absolutely massive temple of",
+      "prepared_source_spans": [
+        "the debt"
+      ],
+      "cleaned_spans": [
+        "the debt"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0002 | 00:00:14.050-00:00:17.270 | DM] moments after you have teleported back from",
+        "[u0003 | 00:00:17.800-00:00:23.530 | DM] a long, intense battle with your evil duplicates."
+      ],
+      "prepared_context_after": [
+        "[u0005 | 00:00:37.320-00:00:44.039 | DM] the 8 Divines, the center of the of the Mosnuvement of worship in Drankur.",
+        "[u0006 | 00:00:44.550-00:00:46.640 | DM] with a dome that must stretch"
+      ],
+      "cleaned_context_before": [
+        "[u0002 | 00:00:14.050-00:00:17.270 | DM] moments after you have teleported back from",
+        "[u0003 | 00:00:17.800-00:00:23.530 | DM] a long, intense battle with your evil duplicates."
+      ],
+      "cleaned_context_after": [
+        "[u0005 | 00:00:37.320-00:00:44.039 | DM] the 8 Divines, the center of the of the Mos Numena of worship in Drankor.",
+        "[u0006 | 00:00:44.550-00:00:46.640 | DM] with a dome that must stretch"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0055",
+      "importance": "incidental",
+      "group": "u0055",
+      "reason": "Abandoned spell-slot phrase.",
+      "prepared_source_verbatim": "[u0055 | 00:05:22.450-00:05:27.600 | Seeker] Oh, I can use a 3rd level slot to do the anyway.",
+      "cleaned_wording": "[u0055 | 00:05:22.450-00:05:27.600 | Seeker] Oh, I can use a 3rd level slot to do the anyway.",
+      "prepared_source_spans": [
+        "do the anyway"
+      ],
+      "cleaned_spans": [
+        "do the anyway"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0053 | 00:05:15.310-00:05:17.810 | DM] Catapults and healing words.",
+        "[u0054 | 00:05:17.810-00:05:20.530 | DM] Well, that's all you need to summon the ladder at least."
+      ],
+      "prepared_context_after": [
+        "[u0056 | 00:05:27.960-00:05:29.740 | Kenzo] So how do? How do we find the dagger?",
+        "[u0057 | 00:05:32.630-00:05:37.630 | Seeker] So I can like, since Adamantium had a"
+      ],
+      "cleaned_context_before": [
+        "[u0053 | 00:05:15.310-00:05:17.810 | DM] Catapults and healing words.",
+        "[u0054 | 00:05:17.810-00:05:20.530 | DM] Well, that's all you need to summon the ladder at least."
+      ],
+      "cleaned_context_after": [
+        "[u0056 | 00:05:27.960-00:05:29.740 | Kenzo] So how do? How do we find the dagger?",
+        "[u0057 | 00:05:32.630-00:05:37.630 | Seeker] So I can like, sense adamantine at a"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0062",
+      "importance": "incidental",
+      "group": "u0062",
+      "reason": "Unclear interjection.",
+      "prepared_source_verbatim": "[u0062 | 00:05:47.730-00:05:48.130 | Kenzo] Let me off!",
+      "cleaned_wording": "[u0062 | 00:05:47.730-00:05:48.130 | Kenzo] Let me off!",
+      "prepared_source_spans": [
+        "Let me off!"
+      ],
+      "cleaned_spans": [
+        "Let me off!"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0060 | 00:05:43.230-00:05:45.589 | Seeker] Oh, a thousand! I got better.",
+        "[u0061 | 00:05:45.790-00:05:46.969 | Seeker] I got better at it."
+      ],
+      "prepared_context_after": [
+        "[u0063 | 00:05:48.130-00:05:48.490 | Seeker] Great.",
+        "[u0064 | 00:05:49.080-00:05:53.220 | Kenzo] Can. Can we also do some stuff to like to your glove, to make it like"
+      ],
+      "cleaned_context_before": [
+        "[u0060 | 00:05:43.230-00:05:45.589 | Seeker] Oh, a thousand! I got better.",
+        "[u0061 | 00:05:45.790-00:05:46.969 | Seeker] I got better at it."
+      ],
+      "cleaned_context_after": [
+        "[u0063 | 00:05:48.130-00:05:48.490 | Seeker] Great.",
+        "[u0064 | 00:05:49.080-00:05:53.220 | Kenzo] Can. Can we also do some stuff to like to your glove, to make it like"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0066",
+      "importance": "incidental",
+      "group": "u0066",
+      "reason": "Abandoned metamagic-related fragment.",
+      "prepared_source_verbatim": "[u0066 | 00:05:56.780-00:06:04.439 | Seeker] That would be cool rules-wise, I think stone sense is not a spell, so I don't think the mad the.",
+      "cleaned_wording": "[u0066 | 00:05:56.780-00:06:04.439 | Seeker] That would be cool rules-wise, I think stone sense is not a spell, so I don't think the mad the.",
+      "prepared_source_spans": [
+        "the mad the"
+      ],
+      "cleaned_spans": [
+        "the mad the"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0064 | 00:05:49.080-00:05:53.220 | Kenzo] Can. Can we also do some stuff to like to your glove, to make it like",
+        "[u0065 | 00:05:53.320-00:05:54.939 | Kenzo] a thousand x that."
+      ],
+      "prepared_context_after": [
+        "[u0067 | 00:06:04.440-00:06:06.770 | DM] Yeah, it's like a magic item, basically.",
+        "[u0068 | 00:06:07.080-00:06:07.575 | Seeker] Yeah."
+      ],
+      "cleaned_context_before": [
+        "[u0064 | 00:05:49.080-00:05:53.220 | Kenzo] Can. Can we also do some stuff to like to your glove, to make it like",
+        "[u0065 | 00:05:53.320-00:05:54.939 | Kenzo] a thousand x that."
+      ],
+      "cleaned_context_after": [
+        "[u0067 | 00:06:04.440-00:06:06.770 | DM] Yeah, it's like a magic item, basically.",
+        "[u0068 | 00:06:07.080-00:06:07.575 | Seeker] Yeah."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0092",
+      "importance": "incidental",
+      "group": "u0092",
+      "reason": "Unclear interjection.",
+      "prepared_source_verbatim": "[u0092 | 00:07:37.350-00:07:38.130 | Seeker] I want is this.",
+      "cleaned_wording": "[u0092 | 00:07:37.350-00:07:38.130 | Seeker] I want is this.",
+      "prepared_source_spans": [
+        "I want is this"
+      ],
+      "cleaned_spans": [
+        "I want is this"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0090 | 00:07:28.960-00:07:30.810 | Seeker] It's like toward the horizon, more.",
+        "[u0091 | 00:07:32.210-00:07:36.710 | DM] Well, it's not. It's just a compass direction. It doesn't give you 3D orientation, but."
+      ],
+      "prepared_context_after": [
+        "[u0093 | 00:07:38.130-00:07:42.930 | DM] Not like spinning around confused, because you're right above a portal or anything.",
+        "[u0094 | 00:07:44.170-00:07:46.730 | Seeker] Good just ruling that out."
+      ],
+      "cleaned_context_before": [
+        "[u0090 | 00:07:28.960-00:07:30.810 | Seeker] It's like toward the horizon, more.",
+        "[u0091 | 00:07:32.210-00:07:36.710 | DM] Well, it's not. It's just a compass direction. It doesn't give you 3D orientation, but."
+      ],
+      "cleaned_context_after": [
+        "[u0093 | 00:07:38.130-00:07:42.930 | DM] Not like spinning around confused, because you're right above a portal or anything.",
+        "[u0094 | 00:07:44.170-00:07:46.730 | Seeker] Good just ruling that out."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0108",
+      "importance": "incidental",
+      "group": "u0108",
+      "reason": "Abandoned geometry phrase; intended non-overlapping search is clear.",
+      "prepared_source_verbatim": "[u0108 | 00:08:42.630-00:08:44.860 | Riswynn] It ringed and.",
+      "cleaned_wording": "[u0108 | 00:08:42.630-00:08:44.860 | Riswynn] It ringed and.",
+      "prepared_source_spans": [
+        "It ringed and."
+      ],
+      "cleaned_spans": [
+        "It ringed and."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0106 | 00:08:35.039-00:08:36.649 | Seeker] So we should probably do that.",
+        "[u0107 | 00:08:37.020-00:08:41.960 | Riswynn] Yeah, we can find you 3 different spots that are in non-overlapping 1,000 foot."
+      ],
+      "prepared_context_after": [
+        "[u0109 | 00:08:45.220-00:08:49.489 | Seeker] Do we have any like evidence-based ideas about where it might be?",
+        "[u0110 | 00:08:51.220-00:08:56.589 | DM] Well, as I said in my introduction, its last known location was in the temple right below you."
+      ],
+      "cleaned_context_before": [
+        "[u0106 | 00:08:35.039-00:08:36.649 | Seeker] So we should probably do that.",
+        "[u0107 | 00:08:37.020-00:08:41.960 | Riswynn] Yeah, we can find you 3 different spots that are in non-overlapping 1,000 foot."
+      ],
+      "cleaned_context_after": [
+        "[u0109 | 00:08:45.220-00:08:49.489 | Seeker] Do we have any like evidence-based ideas about where it might be?",
+        "[u0110 | 00:08:51.220-00:08:56.589 | DM] Well, as I said in my introduction, its last known location was in the temple right below you."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0178",
+      "importance": "incidental",
+      "group": "u0178",
+      "reason": "Unclear short acknowledgement.",
+      "prepared_source_verbatim": "[u0178 | 00:13:52.540-00:13:53.160 | Seeker] Standard.",
+      "cleaned_wording": "[u0178 | 00:13:52.540-00:13:53.160 | Seeker] Standard.",
+      "prepared_source_spans": [
+        "Standard."
+      ],
+      "cleaned_spans": [
+        "Standard."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0176 | 00:13:49.970-00:13:50.630 | Delwath] Hmm.",
+        "[u0177 | 00:13:51.900-00:13:52.540 | Kenzo] Hey! Tim!"
+      ],
+      "prepared_context_after": [
+        "[u0179 | 00:13:53.500-00:13:54.190 | DM] Yep.",
+        "[u0180 | 00:13:55.510-00:14:02.840 | Kenzo] So the phylactery, what is actually inside the dagger."
+      ],
+      "cleaned_context_before": [
+        "[u0176 | 00:13:49.970-00:13:50.630 | Delwath] Hmm.",
+        "[u0177 | 00:13:51.900-00:13:52.540 | Kenzo] Hey! Tim!"
+      ],
+      "cleaned_context_after": [
+        "[u0179 | 00:13:53.500-00:13:54.190 | DM] Yep.",
+        "[u0180 | 00:13:55.510-00:14:02.840 | Kenzo] So the phylactery, what is actually inside the dagger."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0222",
+      "importance": "incidental",
+      "group": "u0222",
+      "reason": "Abandoned phrase.",
+      "prepared_source_verbatim": "[u0222 | 00:17:13.279-00:17:14.249 | Kenzo] I don't know what the rest.",
+      "cleaned_wording": "[u0222 | 00:17:13.279-00:17:14.249 | Kenzo] I don't know what the rest.",
+      "prepared_source_spans": [
+        "what the rest"
+      ],
+      "cleaned_spans": [
+        "what the rest"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0220 | 00:17:03.640-00:17:09.849 | DM] There's no I mean there's no I I get the vibe, but like there's no meditate and focus. You don't need to waste.",
+        "[u0221 | 00:17:10.009-00:17:13.049 | Kenzo] Alright! Alright! But I've succeeded, man."
+      ],
+      "prepared_context_after": [
+        "[u0223 | 00:17:15.780-00:17:22.810 | DM] Go ahead and make a wisdom check.",
+        "[u0224 | 00:17:24.829-00:17:26.329 | Kenzo] One second out there."
+      ],
+      "cleaned_context_before": [
+        "[u0220 | 00:17:03.640-00:17:09.849 | DM] There's no I mean there's no I I get the vibe, but like there's no meditate and focus. You don't need to waste.",
+        "[u0221 | 00:17:10.009-00:17:13.049 | Kenzo] Alright! Alright! But I've succeeded, man."
+      ],
+      "cleaned_context_after": [
+        "[u0223 | 00:17:15.780-00:17:22.810 | DM] Go ahead and make a wisdom check.",
+        "[u0224 | 00:17:24.829-00:17:26.329 | Kenzo] One second out there."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0224",
+      "importance": "incidental",
+      "group": "u0224",
+      "reason": "Roll-loading chatter.",
+      "prepared_source_verbatim": "[u0224 | 00:17:24.829-00:17:26.329 | Kenzo] One second out there.",
+      "cleaned_wording": "[u0224 | 00:17:24.829-00:17:26.329 | Kenzo] One second out there.",
+      "prepared_source_spans": [
+        "out there"
+      ],
+      "cleaned_spans": [
+        "out there"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0222 | 00:17:13.279-00:17:14.249 | Kenzo] I don't know what the rest.",
+        "[u0223 | 00:17:15.780-00:17:22.810 | DM] Go ahead and make a wisdom check."
+      ],
+      "prepared_context_after": [
+        "[u0225 | 00:17:27.420-00:17:33.120 | Kenzo] Sorry we can do something. I have to load up role.",
+        "[u0226 | 00:17:37.520-00:17:43.609 | DM] If anybody wants to use hit dice or do any other short rest stuff."
+      ],
+      "cleaned_context_before": [
+        "[u0222 | 00:17:13.279-00:17:14.249 | Kenzo] I don't know what the rest.",
+        "[u0223 | 00:17:15.780-00:17:22.810 | DM] Go ahead and make a wisdom check."
+      ],
+      "cleaned_context_after": [
+        "[u0225 | 00:17:27.420-00:17:33.120 | Kenzo] Sorry we can do something. I have to load up role.",
+        "[u0226 | 00:17:37.520-00:17:43.609 | DM] If anybody wants to use hit dice or do any other short rest stuff."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0228",
+      "importance": "incidental",
+      "group": "u0228",
+      "reason": "Possible I/they pronoun in hit-dice chatter.",
+      "prepared_source_verbatim": "[u0228 | 00:17:47.360-00:17:49.510 | Seeker] They had a million hit dice.",
+      "cleaned_wording": "[u0228 | 00:17:47.360-00:17:49.510 | Seeker] They had a million hit dice.",
+      "prepared_source_spans": [
+        "They had"
+      ],
+      "cleaned_spans": [
+        "They had"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0226 | 00:17:37.520-00:17:43.609 | DM] If anybody wants to use hit dice or do any other short rest stuff.",
+        "[u0227 | 00:17:43.970-00:17:45.559 | Delwath] Yeah, let me look at my."
+      ],
+      "prepared_context_after": [
+        "[u0229 | 00:17:53.420-00:17:54.090 | DM] Oops!",
+        "[u0230 | 00:17:55.420-00:17:58.029 | Kenzo] Tim, you wanted me to do. What a wisdom."
+      ],
+      "cleaned_context_before": [
+        "[u0226 | 00:17:37.520-00:17:43.609 | DM] If anybody wants to use hit dice or do any other short rest stuff.",
+        "[u0227 | 00:17:43.970-00:17:45.559 | Delwath] Yeah, let me look at my."
+      ],
+      "cleaned_context_after": [
+        "[u0229 | 00:17:53.420-00:17:54.090 | DM] Oops!",
+        "[u0230 | 00:17:55.420-00:17:58.029 | Kenzo] Tim, you wanted me to do. What a wisdom."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0284",
+      "importance": "incidental",
+      "group": "u0284",
+      "reason": "Overlapping interjection.",
+      "prepared_source_verbatim": "[u0284 | 00:21:07.430-00:21:07.860 | Kenzo] Ethics.",
+      "cleaned_wording": "[u0284 | 00:21:07.430-00:21:07.860 | Kenzo] Ethics.",
+      "prepared_source_spans": [
+        "Ethics."
+      ],
+      "cleaned_spans": [
+        "Ethics."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0282 | 00:21:03.400-00:21:06.649 | Delwath] It's like a d and d extra planner thing.",
+        "[u0283 | 00:21:06.650-00:21:07.429 | DM] This is like I."
+      ],
+      "prepared_context_after": [
+        "[u0285 | 00:21:07.860-00:21:13.789 | DM] Isaac's running a campaign in spell jammer now and there. It's all like pirates in space. Basically.",
+        "[u0286 | 00:21:14.790-00:21:20.690 | Seeker] Play. That sounds awesome. Okay."
+      ],
+      "cleaned_context_before": [
+        "[u0282 | 00:21:03.400-00:21:06.649 | Delwath] It's like a d and d extraplanar thing.",
+        "[u0283 | 00:21:06.650-00:21:07.429 | DM] This is like I."
+      ],
+      "cleaned_context_after": [
+        "[u0285 | 00:21:07.860-00:21:13.789 | DM] Isaac's running a campaign in Spelljammer now and there. It's all like pirates in space. Basically.",
+        "[u0286 | 00:21:14.790-00:21:20.690 | Seeker] Play. That sounds awesome. Okay."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0307",
+      "importance": "incidental",
+      "group": "u0307",
+      "reason": "Unclear acknowledgement.",
+      "prepared_source_verbatim": "[u0307 | 00:23:05.640-00:23:06.130 | Kenzo] Out of that.",
+      "cleaned_wording": "[u0307 | 00:23:05.640-00:23:06.130 | Kenzo] Out of that.",
+      "prepared_source_spans": [
+        "Out of that."
+      ],
+      "cleaned_spans": [
+        "Out of that."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0305 | 00:22:55.260-00:22:56.080 | Delwath] Great.",
+        "[u0306 | 00:22:59.190-00:23:03.259 | Riswynn] Which would explain him, actually having his lackeys search for it."
+      ],
+      "prepared_context_after": [
+        "[u0308 | 00:23:06.130-00:23:13.379 | Delwath] That's a good point. Actually, I didn't even think of that. But yes, obviously he would have had his lackeys try to find it right.",
+        "[u0309 | 00:23:14.400-00:23:18.270 | Delwath] because if they could have found it, they could have brought it to him and freed him."
+      ],
+      "cleaned_context_before": [
+        "[u0305 | 00:22:55.260-00:22:56.080 | Delwath] Great.",
+        "[u0306 | 00:22:59.190-00:23:03.259 | Riswynn] Which would explain him, actually having his lackeys search for it."
+      ],
+      "cleaned_context_after": [
+        "[u0308 | 00:23:06.130-00:23:13.379 | Delwath] That's a good point. Actually, I didn't even think of that. But yes, obviously he would have had his lackeys try to find it right.",
+        "[u0309 | 00:23:14.400-00:23:18.270 | Delwath] because if they could have found it, they could have brought it to him and freed him."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0310",
+      "importance": "material",
+      "group": "u0310",
+      "reason": "Garbled final phrase of a substantive question about finding the dagger.",
+      "prepared_source_verbatim": "[u0310 | 00:23:19.260-00:23:22.900 | Kenzo] How the fuck are we gonna fight it, those hard?",
+      "cleaned_wording": "[u0310 | 00:23:19.260-00:23:22.900 | Kenzo] How the fuck are we gonna find it, [[those hard]]?",
+      "prepared_source_spans": [
+        "those hard"
+      ],
+      "cleaned_spans": [
+        "those hard"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u0308 | 00:23:06.130-00:23:13.379 | Delwath] That's a good point. Actually, I didn't even think of that. But yes, obviously he would have had his lackeys try to find it right.",
+        "[u0309 | 00:23:14.400-00:23:18.270 | Delwath] because if they could have found it, they could have brought it to him and freed him."
+      ],
+      "prepared_context_after": [
+        "[u0311 | 00:23:23.310-00:23:25.129 | Kenzo] Oh, don't we have like a.",
+        "[u0312 | 00:23:25.130-00:23:26.750 | Riswynn] Better versions of ourselves."
+      ],
+      "cleaned_context_before": [
+        "[u0308 | 00:23:06.130-00:23:13.379 | Delwath] That's a good point. Actually, I didn't even think of that. But yes, obviously he would have had his lackeys try to find it right.",
+        "[u0309 | 00:23:14.400-00:23:18.270 | Delwath] because if they could have found it, they could have brought it to him and freed him."
+      ],
+      "cleaned_context_after": [
+        "[u0311 | 00:23:23.310-00:23:25.129 | Kenzo] Oh, don't we have like a.",
+        "[u0312 | 00:23:25.130-00:23:26.750 | Riswynn] Better versions of ourselves."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0319",
+      "importance": "incidental",
+      "group": "u0319",
+      "reason": "Work interruption chatter.",
+      "prepared_source_verbatim": "[u0319 | 00:23:51.190-00:23:54.929 | Delwath] we're deploying software Thailand tonight. And I'm like.",
+      "cleaned_wording": "[u0319 | 00:23:51.190-00:23:54.929 | Delwath] we're deploying software Thailand tonight. And I'm like.",
+      "prepared_source_spans": [
+        "Thailand"
+      ],
+      "cleaned_spans": [
+        "Thailand"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0317 | 00:23:42.240-00:23:42.990 | Delwath] Yeah, okay?",
+        "[u0318 | 00:23:44.580-00:23:50.920 | Delwath] And then, sorry, I I'm just full disclosure. There's"
+      ],
+      "prepared_context_after": [
+        "[u0320 | 00:23:54.980-00:23:59.470 | Delwath] can't avoid helping answer a few people questions because it's like.",
+        "[u0321 | 00:23:59.490-00:24:03.468 | Delwath] I'm like online. Normally, when I'm not. So, I'm slightly distracted. But."
+      ],
+      "cleaned_context_before": [
+        "[u0317 | 00:23:42.240-00:23:42.990 | Delwath] Yeah, okay?",
+        "[u0318 | 00:23:44.580-00:23:50.920 | Delwath] And then, sorry, I I'm just full disclosure. There's"
+      ],
+      "cleaned_context_after": [
+        "[u0320 | 00:23:54.980-00:23:59.470 | Delwath] can't avoid helping answer a few people questions because it's like.",
+        "[u0321 | 00:23:59.490-00:24:03.468 | Delwath] I'm like online. Normally, when I'm not. So, I'm slightly distracted. But."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0354",
+      "importance": "incidental",
+      "group": "u0354",
+      "reason": "Joking cartoons phrase, no decision.",
+      "prepared_source_verbatim": "[u0354 | 00:26:25.340-00:26:27.450 | Kenzo] Where did we leave our cartoons?",
+      "cleaned_wording": "[u0354 | 00:26:25.340-00:26:27.450 | Kenzo] Where did we leave our cartoons?",
+      "prepared_source_spans": [
+        "cartoons"
+      ],
+      "cleaned_spans": [
+        "cartoons"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0352 | 00:26:16.840-00:26:22.149 | Kenzo] So I think what we all, what we just have to do is we all need to close our eyes.",
+        "[u0353 | 00:26:22.610-00:26:24.660 | Kenzo] Imagine that we are rye."
+      ],
+      "prepared_context_after": [
+        "[u0355 | 00:26:28.290-00:26:29.850 | DM] Maria Kong. This is on you.",
+        "[u0356 | 00:26:30.497-00:26:33.089 | Kenzo] Where did we leave."
+      ],
+      "cleaned_context_before": [
+        "[u0352 | 00:26:16.840-00:26:22.149 | Kenzo] So I think what we all, what we just have to do is we all need to close our eyes.",
+        "[u0353 | 00:26:22.610-00:26:24.660 | Kenzo] Imagine that we are Rai."
+      ],
+      "cleaned_context_after": [
+        "[u0355 | 00:26:28.290-00:26:29.850 | DM] Maria Kong. This is on you.",
+        "[u0356 | 00:26:30.497-00:26:33.089 | Kenzo] Where did we leave."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0355",
+      "importance": "incidental",
+      "group": "u0355",
+      "reason": "Unclear joking address, Kong.",
+      "prepared_source_verbatim": "[u0355 | 00:26:28.290-00:26:29.850 | DM] Maria Kong. This is on you.",
+      "cleaned_wording": "[u0355 | 00:26:28.290-00:26:29.850 | DM] Maria Kong. This is on you.",
+      "prepared_source_spans": [
+        "Maria Kong"
+      ],
+      "cleaned_spans": [
+        "Maria Kong"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0353 | 00:26:22.610-00:26:24.660 | Kenzo] Imagine that we are rye.",
+        "[u0354 | 00:26:25.340-00:26:27.450 | Kenzo] Where did we leave our cartoons?"
+      ],
+      "prepared_context_after": [
+        "[u0356 | 00:26:30.497-00:26:33.089 | Kenzo] Where did we leave.",
+        "[u0357 | 00:26:35.040-00:26:35.800 | Seeker] Where do we put it?"
+      ],
+      "cleaned_context_before": [
+        "[u0353 | 00:26:22.610-00:26:24.660 | Kenzo] Imagine that we are Rai.",
+        "[u0354 | 00:26:25.340-00:26:27.450 | Kenzo] Where did we leave our cartoons?"
+      ],
+      "cleaned_context_after": [
+        "[u0356 | 00:26:30.497-00:26:33.089 | Kenzo] Where did we leave.",
+        "[u0357 | 00:26:35.040-00:26:35.800 | Seeker] Where do we put it?"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0367",
+      "importance": "material",
+      "group": "u0367",
+      "reason": "Unclear reference used to compare constraints on asking questions.",
+      "prepared_source_verbatim": "[u0367 | 00:27:07.790-00:27:13.349 | Delwath] But don't we have to ask? It is the same as your mind. Right? You have to ask like one word or yes, no type questions not.",
+      "cleaned_wording": "[u0367 | 00:27:07.790-00:27:13.349 | Delwath] But don't we have to ask? It is the same as [[your mind]]. Right? You have to ask like one word or yes, no type questions not.",
+      "prepared_source_spans": [
+        "your mind"
+      ],
+      "cleaned_spans": [
+        "your mind"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u0365 | 00:26:58.790-00:27:03.900 | Riswynn] Think the Baharazell have any ideas about? Why, one wouldn't destroy a phylactery.",
+        "[u0366 | 00:27:05.690-00:27:07.789 | DM] I mean, you can always ask."
+      ],
+      "prepared_context_after": [
+        "[u0368 | 00:27:13.350-00:27:15.309 | DM] Say, why didn't he destroy it?",
+        "[u0369 | 00:27:15.490-00:27:16.140 | Delwath] Yeah."
+      ],
+      "cleaned_context_before": [
+        "[u0365 | 00:26:58.790-00:27:03.900 | Riswynn] Think the Bahrazel have any ideas about? Why, one wouldn't destroy a phylactery.",
+        "[u0366 | 00:27:05.690-00:27:07.789 | DM] I mean, you can always ask."
+      ],
+      "cleaned_context_after": [
+        "[u0368 | 00:27:13.350-00:27:15.309 | DM] Say, why didn't he destroy it?",
+        "[u0369 | 00:27:15.490-00:27:16.140 | Delwath] Yeah."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0399",
+      "importance": "incidental",
+      "group": "u0399",
+      "reason": "Overlapping dagger fragment.",
+      "prepared_source_verbatim": "[u0399 | 00:29:19.960-00:29:20.430 | Delwath] The deck.",
+      "cleaned_wording": "[u0399 | 00:29:19.960-00:29:20.430 | Delwath] The deck.",
+      "prepared_source_spans": [
+        "The deck."
+      ],
+      "cleaned_spans": [
+        "The deck."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0397 | 00:29:17.230-00:29:18.000 | Kenzo] Do we.",
+        "[u0398 | 00:29:18.500-00:29:19.809 | Riswynn] Do we know that."
+      ],
+      "prepared_context_after": [
+        "[u0400 | 00:29:23.430-00:29:23.790 | Kenzo] You know.",
+        "[u0401 | 00:29:23.790-00:29:25.199 | Delwath] Where I found it."
+      ],
+      "cleaned_context_before": [
+        "[u0397 | 00:29:17.230-00:29:18.000 | Kenzo] Do we.",
+        "[u0398 | 00:29:18.500-00:29:19.809 | Riswynn] Do we know that."
+      ],
+      "cleaned_context_after": [
+        "[u0400 | 00:29:23.430-00:29:23.790 | Kenzo] You know.",
+        "[u0401 | 00:29:23.790-00:29:25.199 | Delwath] Rai found it."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0447",
+      "importance": "incidental",
+      "group": "u0447",
+      "reason": "Short overlapping acknowledgement.",
+      "prepared_source_verbatim": "[u0447 | 00:33:03.700-00:33:04.270 | Delwath] Dead!",
+      "cleaned_wording": "[u0447 | 00:33:03.700-00:33:04.270 | Delwath] Dead!",
+      "prepared_source_spans": [
+        "Dead!"
+      ],
+      "cleaned_spans": [
+        "Dead!"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0445 | 00:32:56.580-00:33:00.379 | DM] the ritual needed to ensure its complete destruction.",
+        "[u0446 | 00:33:01.560-00:33:03.700 | Seeker] Kind of. We kind of watched it being made, didn't we?"
+      ],
+      "prepared_context_after": [
+        "[u0448 | 00:33:04.270-00:33:06.290 | Kenzo] Only watched it being made.",
+        "[u0449 | 00:33:06.290-00:33:11.519 | DM] Have a Polyon's notes, right? That detailed precise detail, how he made it."
+      ],
+      "cleaned_context_before": [
+        "[u0445 | 00:32:56.580-00:33:00.379 | DM] the ritual needed to ensure its complete destruction.",
+        "[u0446 | 00:33:01.560-00:33:03.700 | Seeker] Kind of. We kind of watched it being made, didn't we?"
+      ],
+      "cleaned_context_after": [
+        "[u0448 | 00:33:04.270-00:33:06.290 | Kenzo] Only watched it being made.",
+        "[u0449 | 00:33:06.290-00:33:11.519 | DM] Have Apollyon's notes, right? That detailed precise detail, how he made it."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0453",
+      "importance": "incidental",
+      "group": "u0453",
+      "reason": "Short overlapping fragment.",
+      "prepared_source_verbatim": "[u0453 | 00:33:23.330-00:33:24.470 | Riswynn] Made.",
+      "cleaned_wording": "[u0453 | 00:33:23.330-00:33:24.470 | Riswynn] Made.",
+      "prepared_source_spans": [
+        "Made."
+      ],
+      "cleaned_spans": [
+        "Made."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0451 | 00:33:15.450-00:33:19.149 | Kenzo] doing something to free the souls that are binding the dagger.",
+        "[u0452 | 00:33:21.940-00:33:23.330 | DM] Very likely."
+      ],
+      "prepared_context_after": [
+        "[u0454 | 00:33:24.470-00:33:27.609 | Kenzo] Did we see more detail about the souls.",
+        "[u0455 | 00:33:28.808-00:33:38.010 | DM] In seekers like when speak seekers spent an afternoon or a day like, or an afternoon reading"
+      ],
+      "cleaned_context_before": [
+        "[u0451 | 00:33:15.450-00:33:19.149 | Kenzo] doing something to free the souls that are binding the dagger.",
+        "[u0452 | 00:33:21.940-00:33:23.330 | DM] Very likely."
+      ],
+      "cleaned_context_after": [
+        "[u0454 | 00:33:24.470-00:33:27.609 | Kenzo] Did we see more detail about the souls.",
+        "[u0455 | 00:33:28.808-00:33:38.010 | DM] In Seeker's, like when Seeker spent an afternoon or a day like, or an afternoon reading"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0467",
+      "importance": "material",
+      "group": "u0467",
+      "reason": "Missing object of the statement about what Rai lacked; later recap suggests notes but this utterance is not reconstructed.",
+      "prepared_source_verbatim": "[u0467 | 00:34:31.389-00:34:34.169 | DM] But Rye, of course, did not have a pie.",
+      "cleaned_wording": "[u0467 | 00:34:31.389-00:34:34.169 | DM] But Rai, of course, did not have [[a pie]].",
+      "prepared_source_spans": [
+        "a pie"
+      ],
+      "cleaned_spans": [
+        "a pie"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u0465 | 00:34:17.530-00:34:24.340 | Kenzo] And like free them they they all those souls need to be like freed from the dagger, and then that'll expose Apollyons.",
+        "[u0466 | 00:34:24.989-00:34:28.420 | Kenzo] blackened, crispy soul for us to eat."
+      ],
+      "prepared_context_after": [
+        "[u0468 | 00:34:34.170-00:34:35.230 | Delwath] Right, right, right, right, right.",
+        "[u0469 | 00:34:35.230-00:34:35.920 | Seeker] Right."
+      ],
+      "cleaned_context_before": [
+        "[u0465 | 00:34:17.530-00:34:24.340 | Kenzo] And like free them they they all those souls need to be like freed from the dagger, and then that'll expose Apollyon's.",
+        "[u0466 | 00:34:24.989-00:34:28.420 | Kenzo] blackened, crispy soul for us to eat."
+      ],
+      "cleaned_context_after": [
+        "[u0468 | 00:34:34.170-00:34:35.230 | Delwath] Right, right, right, right, right.",
+        "[u0469 | 00:34:35.230-00:34:35.920 | Seeker] Right."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0477",
+      "importance": "material",
+      "group": "u0477",
+      "reason": "Garbled negation in speculation about preventing Apollyon from finding the dagger.",
+      "prepared_source_verbatim": "[u0477 | 00:35:10.600-00:35:17.020 | Delwath] Apoll, I mean the his key concern would have been. Apollyon. Can't not finding it right.",
+      "cleaned_wording": "[u0477 | 00:35:10.600-00:35:17.020 | Delwath] Apoll, I mean the his key concern would have been. Apollyon [[Can't not finding it]] right.",
+      "prepared_source_spans": [
+        "Can't not finding it"
+      ],
+      "cleaned_spans": [
+        "Can't not finding it"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u0475 | 00:35:02.690-00:35:05.289 | Delwath] where I would have needed to hide it somewhere.",
+        "[u0476 | 00:35:05.690-00:35:06.520 | Delwath] That"
+      ],
+      "prepared_context_after": [
+        "[u0478 | 00:35:19.200-00:35:20.320 | Delwath] I think.",
+        "[u0479 | 00:35:23.060-00:35:27.890 | Seeker] And it's not a plane himself, but a set of agents that obey him."
+      ],
+      "cleaned_context_before": [
+        "[u0475 | 00:35:02.690-00:35:05.289 | Delwath] Rai would have needed to hide it somewhere.",
+        "[u0476 | 00:35:05.690-00:35:06.520 | Delwath] That"
+      ],
+      "cleaned_context_after": [
+        "[u0478 | 00:35:19.200-00:35:20.320 | Delwath] I think.",
+        "[u0479 | 00:35:23.060-00:35:27.890 | Seeker] And it's not Apollyon himself, but a set of agents that obey him."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0496",
+      "importance": "incidental",
+      "group": "u0496",
+      "reason": "Unclear joking phone-number fragment.",
+      "prepared_source_verbatim": "[u0496 | 00:36:49.290-00:36:50.359 | Riswynn] They're both 9.",
+      "cleaned_wording": "[u0496 | 00:36:49.290-00:36:50.359 | Riswynn] They're both 9.",
+      "prepared_source_spans": [
+        "They're both 9."
+      ],
+      "cleaned_spans": [
+        "They're both 9."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0494 | 00:36:34.720-00:36:40.470 | Seeker] Oh, so like, maybe Rai sought out the protection of one or all of the gods.",
+        "[u0495 | 00:36:42.770-00:36:47.960 | Seeker] Do we know any who's got like the phone number."
+      ],
+      "prepared_context_after": [
+        "[u0497 | 00:36:50.910-00:36:55.850 | Riswynn] Call a god and say, gods around here protecting any pulak trees.",
+        "[u0498 | 00:36:56.610-00:36:57.340 | Seeker] Right."
+      ],
+      "cleaned_context_before": [
+        "[u0494 | 00:36:34.720-00:36:40.470 | Seeker] Oh, so like, maybe Rai sought out the protection of one or all of the gods.",
+        "[u0495 | 00:36:42.770-00:36:47.960 | Seeker] Do we know any who's got like the phone number."
+      ],
+      "cleaned_context_after": [
+        "[u0497 | 00:36:50.910-00:36:55.850 | Riswynn] Call a god and say, gods around here protecting any phylacteries.",
+        "[u0498 | 00:36:56.610-00:36:57.340 | Seeker] Right."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0503",
+      "importance": "material",
+      "group": "u0503",
+      "reason": "Garbled full question about Rai and whether he could move; no reconstruction imposed.",
+      "prepared_source_verbatim": "[u0503 | 00:37:13.990-00:37:17.329 | Delwath] Like. Why was Ryan? Why not well could drive?",
+      "cleaned_wording": "[u0503 | 00:37:13.990-00:37:17.329 | Delwath] Like. Why was [[Ryan? Why not well could drive?]]",
+      "prepared_source_spans": [
+        "Ryan? Why not well could drive?"
+      ],
+      "cleaned_spans": [
+        "Ryan? Why not well could drive?"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u0501 | 00:37:07.620-00:37:11.769 | Delwath] I mean, do you have a choice.",
+        "[u0502 | 00:37:12.530-00:37:13.390 | Kenzo] Maybe not."
+      ],
+      "prepared_context_after": [
+        "[u0504 | 00:37:17.620-00:37:20.299 | Delwath] Could jade statue? Rai actually move around.",
+        "[u0505 | 00:37:21.350-00:37:22.490 | Kenzo] Take a teleport."
+      ],
+      "cleaned_context_before": [
+        "[u0501 | 00:37:07.620-00:37:11.769 | Delwath] I mean, do you have a choice.",
+        "[u0502 | 00:37:12.530-00:37:13.390 | Kenzo] Maybe not."
+      ],
+      "cleaned_context_after": [
+        "[u0504 | 00:37:17.620-00:37:20.299 | Delwath] Could jade statue? Rai actually move around.",
+        "[u0505 | 00:37:21.350-00:37:22.490 | Kenzo] Take a teleport."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0507",
+      "importance": "material",
+      "group": "u0507",
+      "reason": "Two garbled spans in a claim connecting Rai staying here with Apollyon's imprisonment.",
+      "prepared_source_verbatim": "[u0507 | 00:37:26.967-00:37:33.470 | Kenzo] But I think that was nice to keep the keep. Pollyan is prison.",
+      "cleaned_wording": "[u0507 | 00:37:26.967-00:37:33.470 | Kenzo] But I think that was [[nice to keep the keep]]. Apollyon [[is prison]].",
+      "prepared_source_spans": [
+        "nice to keep the keep",
+        "is prison"
+      ],
+      "cleaned_spans": [
+        "nice to keep the keep",
+        "is prison"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u0505 | 00:37:21.350-00:37:22.490 | Kenzo] Take a teleport.",
+        "[u0506 | 00:37:22.940-00:37:26.389 | Delwath] I mean he was, but he was hanging out in this temple for a long time."
+      ],
+      "prepared_context_after": [
+        "[u0508 | 00:37:34.350-00:37:36.560 | Delwath] But he was holding the flak tree, wasn't he?",
+        "[u0509 | 00:37:38.960-00:37:44.240 | Delwath] Wasn't while he was hidden while he was here. Wasn't he like literally holding the flag tray, didn't he only hide it when he left."
+      ],
+      "cleaned_context_before": [
+        "[u0505 | 00:37:21.350-00:37:22.490 | Kenzo] Take a teleport.",
+        "[u0506 | 00:37:22.940-00:37:26.389 | Delwath] I mean he was, but he was hanging out in this temple for a long time."
+      ],
+      "cleaned_context_after": [
+        "[u0508 | 00:37:34.350-00:37:36.560 | Delwath] But he was holding the phylactery, wasn't he?",
+        "[u0509 | 00:37:38.960-00:37:44.240 | Delwath] Wasn't while he was hidden while he was here. Wasn't he like literally holding the phylactery, didn't he only hide it when he left."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0584",
+      "importance": "incidental",
+      "group": "u0584",
+      "reason": "Truncated wording after tremorsense; action and range are independently clear.",
+      "prepared_source_verbatim": "[u0584 | 00:43:24.740-00:43:28.010 | Seeker] tremor sense that was gone.",
+      "cleaned_wording": "[u0584 | 00:43:24.740-00:43:28.010 | Seeker] tremorsense that was gone.",
+      "prepared_source_spans": [
+        "that was gone"
+      ],
+      "cleaned_spans": [
+        "that was gone"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0582 | 00:43:15.180-00:43:15.750 | Riswynn] Yes.",
+        "[u0583 | 00:43:15.750-00:43:24.590 | Seeker] Oh, before we do that I'll just reach down with a palm to the stone cobbles and do"
+      ],
+      "prepared_context_after": [
+        "[u0585 | 00:43:29.210-00:43:34.699 | DM] Nothing is moving within what 30 feet, I think, or 60 feet was the range.",
+        "[u0586 | 00:43:36.110-00:43:37.090 | Seeker] 60 feet."
+      ],
+      "cleaned_context_before": [
+        "[u0582 | 00:43:15.180-00:43:15.750 | Riswynn] Yes.",
+        "[u0583 | 00:43:15.750-00:43:24.590 | Seeker] Oh, before we do that I'll just reach down with a palm to the stone cobbles and do"
+      ],
+      "cleaned_context_after": [
+        "[u0585 | 00:43:29.210-00:43:34.699 | DM] Nothing is moving within what 30 feet, I think, or 60 feet was the range.",
+        "[u0586 | 00:43:36.110-00:43:37.090 | Seeker] 60 feet."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0638",
+      "importance": "incidental",
+      "group": "u0638",
+      "reason": "Joining-video chatter while driving.",
+      "prepared_source_verbatim": "[u0638 | 00:48:20.640-00:48:22.489 | Wellby] hope people join video for a while.",
+      "cleaned_wording": "[u0638 | 00:48:20.640-00:48:22.489 | Wellby] hope people join video for a while.",
+      "prepared_source_spans": [
+        "hope people join video"
+      ],
+      "cleaned_spans": [
+        "hope people join video"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0636 | 00:48:12.163-00:48:14.800 | DM] Hold on, Schwartz, can you, Schwartz? Are you there?",
+        "[u0637 | 00:48:16.920-00:48:19.950 | Wellby] Yeah, I am. I'm driving home right now. So I can"
+      ],
+      "prepared_context_after": [
+        "[u0639 | 00:48:22.490-00:48:29.780 | DM] No, no worries. I was gonna just do a quick recap. The",
+        "[u0640 | 00:48:30.060-00:48:38.049 | DM] information learned so far. Basically somebody jump in. If I forget something is they're looking for the phylactery."
+      ],
+      "cleaned_context_before": [
+        "[u0636 | 00:48:12.163-00:48:14.800 | DM] Hold on, Schwartz, can you, Schwartz? Are you there?",
+        "[u0637 | 00:48:16.920-00:48:19.950 | Wellby] Yeah, I am. I'm driving home right now. So I can"
+      ],
+      "cleaned_context_after": [
+        "[u0639 | 00:48:22.490-00:48:29.780 | DM] No, no worries. I was gonna just do a quick recap. The",
+        "[u0640 | 00:48:30.060-00:48:38.049 | DM] information learned so far. Basically somebody jump in. If I forget something is they're looking for the phylactery."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0655",
+      "importance": "incidental",
+      "group": "u0655",
+      "reason": "Abandoned interjection.",
+      "prepared_source_verbatim": "[u0655 | 00:49:47.100-00:49:47.780 | Delwath] We.",
+      "cleaned_wording": "[u0655 | 00:49:47.100-00:49:47.780 | Delwath] We.",
+      "prepared_source_spans": [
+        "We."
+      ],
+      "cleaned_spans": [
+        "We."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0653 | 00:49:38.990-00:49:42.809 | DM] where we are now, is just entering the interior of the temple.",
+        "[u0654 | 00:49:44.940-00:49:46.590 | Kenzo] How are we on mirror charges."
+      ],
+      "prepared_context_after": [
+        "[u0656 | 00:49:48.180-00:49:50.692 | DM] You use the mirror?",
+        "[u0657 | 00:49:51.320-00:49:52.320 | Kenzo] Factory."
+      ],
+      "cleaned_context_before": [
+        "[u0653 | 00:49:38.990-00:49:42.809 | DM] where we are now, is just entering the interior of the temple.",
+        "[u0654 | 00:49:44.940-00:49:46.590 | Kenzo] How are we on mirror charges."
+      ],
+      "cleaned_context_after": [
+        "[u0656 | 00:49:48.180-00:49:50.692 | DM] You use the mirror?",
+        "[u0657 | 00:49:51.320-00:49:52.320 | Kenzo] Phylactery."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0664",
+      "importance": "material",
+      "group": "u0664",
+      "reason": "Unclear final phrase of a claim about the phylactery's last location.",
+      "prepared_source_verbatim": "[u0664 | 00:50:21.821-00:50:26.149 | Kenzo] This actually was the last place the locker room.",
+      "cleaned_wording": "[u0664 | 00:50:21.821-00:50:26.149 | Kenzo] This actually was the last place the [[locker room]].",
+      "prepared_source_spans": [
+        "locker room"
+      ],
+      "cleaned_spans": [
+        "locker room"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u0662 | 00:50:13.828-00:50:18.740 | DM] No easy mirror uses right now.",
+        "[u0663 | 00:50:18.740-00:50:20.910 | Kenzo] Yeah, that would have been useful to use the mirror in here."
+      ],
+      "prepared_context_after": [
+        "[u0665 | 00:50:27.450-00:50:31.579 | DM] Okay. So as you enter, what do you want to do?",
+        "[u0666 | 00:50:45.023-00:50:46.516 | Delwath] Hold on one second."
+      ],
+      "cleaned_context_before": [
+        "[u0662 | 00:50:13.828-00:50:18.740 | DM] No easy mirror uses right now.",
+        "[u0663 | 00:50:18.740-00:50:20.910 | Kenzo] Yeah, that would have been useful to use the mirror in here."
+      ],
+      "cleaned_context_after": [
+        "[u0665 | 00:50:27.450-00:50:31.579 | DM] Okay. So as you enter, what do you want to do?",
+        "[u0666 | 00:50:45.023-00:50:46.516 | Delwath] Hold on one second."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0690",
+      "importance": "material",
+      "group": "u0690",
+      "reason": "Unclear assertion about whether/how divination would work here.",
+      "prepared_source_verbatim": "[u0690 | 00:52:33.930-00:52:37.610 | Riswynn] I mean, it seems like divination, not a work particular.",
+      "cleaned_wording": "[u0690 | 00:52:33.930-00:52:37.610 | Riswynn] I mean, it seems like divination [[not a work particular]].",
+      "prepared_source_spans": [
+        "not a work particular"
+      ],
+      "cleaned_spans": [
+        "not a work particular"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u0688 | 00:52:20.300-00:52:26.970 | DM] Bobby is searching for any signs of footprints or inhabitation, or anything.",
+        "[u0689 | 00:52:26.990-00:52:33.930 | DM] Kenzo is pacing around just looking okay."
+      ],
+      "prepared_context_after": [
+        "[u0691 | 00:52:37.610-00:52:38.580 | Kenzo] Yeah, we're.",
+        "[u0692 | 00:52:38.580-00:52:47.650 | Riswynn] It's not like him, my divines maybe I should just ass, I mean."
+      ],
+      "cleaned_context_before": [
+        "[u0688 | 00:52:20.300-00:52:26.970 | DM] Wellby is searching for any signs of footprints or inhabitation, or anything.",
+        "[u0689 | 00:52:26.990-00:52:33.930 | DM] Kenzo is pacing around just looking okay."
+      ],
+      "cleaned_context_after": [
+        "[u0691 | 00:52:37.610-00:52:38.580 | Kenzo] Yeah, we're.",
+        "[u0692 | 00:52:38.580-00:52:47.650 | Riswynn] It's not like him, my divines maybe I should just ask, I mean."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0692",
+      "importance": "incidental",
+      "group": "u0692",
+      "reason": "Abandoned thought before asking gods.",
+      "prepared_source_verbatim": "[u0692 | 00:52:38.580-00:52:47.650 | Riswynn] It's not like him, my divines maybe I should just ass, I mean.",
+      "cleaned_wording": "[u0692 | 00:52:38.580-00:52:47.650 | Riswynn] It's not like him, my divines maybe I should just ask, I mean.",
+      "prepared_source_spans": [
+        "It's not like him, my divines"
+      ],
+      "cleaned_spans": [
+        "It's not like him, my divines"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0690 | 00:52:33.930-00:52:37.610 | Riswynn] I mean, it seems like divination, not a work particular.",
+        "[u0691 | 00:52:37.610-00:52:38.580 | Kenzo] Yeah, we're."
+      ],
+      "prepared_context_after": [
+        "[u0693 | 00:52:50.670-00:52:51.730 | Riswynn] I don't know.",
+        "[u0694 | 00:52:52.820-00:52:55.010 | Delwath] Ask if anybody's been here."
+      ],
+      "cleaned_context_before": [
+        "[u0690 | 00:52:33.930-00:52:37.610 | Riswynn] I mean, it seems like divination [[not a work particular]].",
+        "[u0691 | 00:52:37.610-00:52:38.580 | Kenzo] Yeah, we're."
+      ],
+      "cleaned_context_after": [
+        "[u0693 | 00:52:50.670-00:52:51.730 | Riswynn] I don't know.",
+        "[u0694 | 00:52:52.820-00:52:55.010 | Delwath] Ask if anybody's been here."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0728",
+      "importance": "incidental",
+      "group": "u0728",
+      "reason": "Short cheering fragment.",
+      "prepared_source_verbatim": "[u0728 | 00:55:37.120-00:55:38.260 | Seeker] Have a nice.",
+      "cleaned_wording": "[u0728 | 00:55:37.120-00:55:38.260 | Seeker] Have a nice.",
+      "prepared_source_spans": [
+        "Have a nice."
+      ],
+      "cleaned_spans": [
+        "Have a nice."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0726 | 00:55:31.410-00:55:34.710 | DM] and if you roll the one you can reroll at cause. He's a half.",
+        "[u0727 | 00:55:34.930-00:55:36.650 | Kenzo] Alright. Then I'm gonna reroll that one. Yeah."
+      ],
+      "prepared_context_after": [
+        "[u0729 | 00:55:38.990-00:55:39.979 | Kenzo] There we go!",
+        "[u0730 | 00:55:41.020-00:55:41.680 | DM] That's what I'm talking."
+      ],
+      "cleaned_context_before": [
+        "[u0726 | 00:55:31.410-00:55:34.710 | DM] and if you roll the one you can reroll it cause he's a halfling.",
+        "[u0727 | 00:55:34.930-00:55:36.650 | Kenzo] Alright. Then I'm gonna reroll that one. Yeah."
+      ],
+      "cleaned_context_after": [
+        "[u0729 | 00:55:38.990-00:55:39.979 | Kenzo] There we go!",
+        "[u0730 | 00:55:41.020-00:55:41.680 | DM] That's what I'm talking."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0738",
+      "importance": "incidental",
+      "group": "u0738",
+      "reason": "Short ambiguous overlap.",
+      "prepared_source_verbatim": "[u0738 | 00:55:59.590-00:56:00.140 | Riswynn] It will be.",
+      "cleaned_wording": "[u0738 | 00:55:59.590-00:56:00.140 | Riswynn] It will be.",
+      "prepared_source_spans": [
+        "It will be."
+      ],
+      "cleaned_spans": [
+        "It will be."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0736 | 00:55:54.100-00:55:55.000 | Riswynn] Me too.",
+        "[u0737 | 00:55:55.640-00:55:59.589 | DM] No plus 3, rd 19 plus 13 is 32."
+      ],
+      "prepared_context_after": [
+        "[u0739 | 00:56:01.960-00:56:07.840 | DM] Okay. Eric, can you roll an investigation for seeker?",
+        "[u0740 | 00:56:09.044-00:56:12.790 | DM] And Mike roll and a separate perception check for Domin."
+      ],
+      "cleaned_context_before": [
+        "[u0736 | 00:55:54.100-00:55:55.000 | Riswynn] Me too.",
+        "[u0737 | 00:55:55.640-00:55:59.589 | DM] No plus 13 19 plus 13 is 32."
+      ],
+      "cleaned_context_after": [
+        "[u0739 | 00:56:01.960-00:56:07.840 | DM] Okay. Eric, can you roll an investigation for Seeker?",
+        "[u0740 | 00:56:09.044-00:56:12.790 | DM] And Mike roll and a separate perception check for Delwath."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0748",
+      "importance": "incidental",
+      "group": "u0748",
+      "reason": "Roll chatter.",
+      "prepared_source_verbatim": "[u0748 | 00:56:36.580-00:56:37.319 | Delwath] I got it right.",
+      "cleaned_wording": "[u0748 | 00:56:36.580-00:56:37.319 | Delwath] I got it right.",
+      "prepared_source_spans": [
+        "I got it right."
+      ],
+      "cleaned_spans": [
+        "I got it right."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0746 | 00:56:28.330-00:56:28.950 | DM] Okay.",
+        "[u0747 | 00:56:29.850-00:56:33.780 | Delwath] Our D and D beyond is not being. Yeah, perceptions are way better."
+      ],
+      "prepared_context_after": [
+        "[u0749 | 00:56:37.320-00:56:38.610 | Delwath] Terrible role.",
+        "[u0750 | 00:56:40.660-00:56:44.389 | Delwath] I might re. I might use heroic inspiration and reroll that."
+      ],
+      "cleaned_context_before": [
+        "[u0746 | 00:56:28.330-00:56:28.950 | DM] Okay.",
+        "[u0747 | 00:56:29.850-00:56:33.780 | Delwath] Our D&D Beyond is not being. Yeah, perceptions are way better."
+      ],
+      "cleaned_context_after": [
+        "[u0749 | 00:56:37.320-00:56:38.610 | Delwath] Terrible roll.",
+        "[u0750 | 00:56:40.660-00:56:44.389 | Delwath] I might re. I might use heroic inspiration and reroll that."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0752",
+      "importance": "incidental",
+      "group": "u0752",
+      "reason": "Abandoned roll chatter.",
+      "prepared_source_verbatim": "[u0752 | 00:56:50.182-00:56:52.029 | Delwath] What what I'm with.",
+      "cleaned_wording": "[u0752 | 00:56:50.182-00:56:52.029 | Delwath] What what I'm with.",
+      "prepared_source_spans": [
+        "What what I'm with."
+      ],
+      "cleaned_spans": [
+        "What what I'm with."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0750 | 00:56:40.660-00:56:44.389 | Delwath] I might re. I might use heroic inspiration and reroll that.",
+        "[u0751 | 00:56:47.910-00:56:49.219 | DM] Okay, so."
+      ],
+      "prepared_context_after": [
+        "[u0753 | 00:56:52.030-00:56:55.920 | DM] You have not been very inspired today, you guys.",
+        "[u0754 | 00:56:57.590-00:56:58.130 | Delwath] It's."
+      ],
+      "cleaned_context_before": [
+        "[u0750 | 00:56:40.660-00:56:44.389 | Delwath] I might re. I might use heroic inspiration and reroll that.",
+        "[u0751 | 00:56:47.910-00:56:49.219 | DM] Okay, so."
+      ],
+      "cleaned_context_after": [
+        "[u0753 | 00:56:52.030-00:56:55.920 | DM] You have not been very inspired today, you guys.",
+        "[u0754 | 00:56:57.590-00:56:58.130 | Delwath] It's."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0755",
+      "importance": "incidental",
+      "group": "u0755",
+      "reason": "Short unclear roll response.",
+      "prepared_source_verbatim": "[u0755 | 00:56:59.090-00:56:59.639 | DM] I chose.",
+      "cleaned_wording": "[u0755 | 00:56:59.090-00:56:59.639 | DM] I chose.",
+      "prepared_source_spans": [
+        "I chose."
+      ],
+      "cleaned_spans": [
+        "I chose."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0753 | 00:56:52.030-00:56:55.920 | DM] You have not been very inspired today, you guys.",
+        "[u0754 | 00:56:57.590-00:56:58.130 | Delwath] It's."
+      ],
+      "prepared_context_after": [
+        "[u0756 | 00:56:59.640-00:57:01.399 | Delwath] Viciously bad roles.",
+        "[u0757 | 00:57:01.400-00:57:06.107 | DM] So Dawa spends a little while scouting around."
+      ],
+      "cleaned_context_before": [
+        "[u0753 | 00:56:52.030-00:56:55.920 | DM] You have not been very inspired today, you guys.",
+        "[u0754 | 00:56:57.590-00:56:58.130 | Delwath] It's."
+      ],
+      "cleaned_context_after": [
+        "[u0756 | 00:56:59.640-00:57:01.399 | Delwath] Viciously bad rolls.",
+        "[u0757 | 00:57:01.400-00:57:06.107 | DM] So Delwath spends a little while scouting around."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0801",
+      "importance": "incidental",
+      "group": "u0801",
+      "reason": "Awkward syntax retained: quoted concern about Apollyon reading Dimitaur's mind.",
+      "prepared_source_verbatim": "[u0801 | 01:01:48.890-01:01:54.419 | DM] I know not the power of Apollyon when I'm not here to read your mind, and force answers from you",
+      "cleaned_wording": "[u0801 | 01:01:48.890-01:01:54.419 | DM] I know not the power of Apollyon when I'm not here to read your mind, and force answers from you",
+      "prepared_source_spans": [
+        "I know not the power of Apollyon when I'm not here to read your mind, and force answers from you"
+      ],
+      "cleaned_spans": [
+        "I know not the power of Apollyon when I'm not here to read your mind, and force answers from you"
+      ],
+      "span_precision": "whole unit: uncertainty boundary not localized",
+      "prepared_context_before": [
+        "[u0799 | 01:01:39.470-01:01:43.920 | DM] you can all hear this. He seems to be telling Dimitar",
+        "[u0800 | 01:01:45.460-01:01:47.980 | DM] the preparations must be made in secret."
+      ],
+      "prepared_context_after": [
+        "[u0802 | 01:01:54.590-01:01:57.470 | DM] a temple should offer some protection.",
+        "[u0803 | 01:01:57.620-01:02:03.730 | DM] dare not take the dagger outside these walls where Apollyon's minions loom."
+      ],
+      "cleaned_context_before": [
+        "[u0799 | 01:01:39.470-01:01:43.920 | DM] you can all hear this. He seems to be telling Dimitaur",
+        "[u0800 | 01:01:45.460-01:01:47.980 | DM] the preparations must be made in secret."
+      ],
+      "cleaned_context_after": [
+        "[u0802 | 01:01:54.590-01:01:57.470 | DM] a temple should offer some protection.",
+        "[u0803 | 01:01:57.620-01:02:03.730 | DM] dare not take the dagger outside these walls where Apollyon's minions loom."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0816",
+      "importance": "incidental",
+      "group": "u0816",
+      "reason": "Overlapping short response.",
+      "prepared_source_verbatim": "[u0816 | 01:03:07.610-01:03:08.080 | Wellby] Good luck.",
+      "cleaned_wording": "[u0816 | 01:03:07.610-01:03:08.080 | Wellby] Good luck.",
+      "prepared_source_spans": [
+        "Good luck."
+      ],
+      "cleaned_spans": [
+        "Good luck."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0814 | 01:03:01.190-01:03:07.070 | DM] It would prevent locate object. It wouldn't prevent stone zones.",
+        "[u0815 | 01:03:07.070-01:03:07.610 | Seeker] Couldn't we."
+      ],
+      "prepared_context_after": [
+        "[u0817 | 01:03:08.080-01:03:10.729 | Wellby] The chest, though right.",
+        "[u0818 | 01:03:14.210-01:03:15.340 | Seeker] Interesting."
+      ],
+      "cleaned_context_before": [
+        "[u0814 | 01:03:01.190-01:03:07.070 | DM] It would prevent locate object. It wouldn't prevent Stone Sense.",
+        "[u0815 | 01:03:07.070-01:03:07.610 | Seeker] Couldn't we."
+      ],
+      "cleaned_context_after": [
+        "[u0817 | 01:03:08.080-01:03:10.729 | Wellby] The chest, though right.",
+        "[u0818 | 01:03:14.210-01:03:15.340 | Seeker] Interesting."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0853",
+      "importance": "incidental",
+      "group": "u0853",
+      "reason": "Brief interjection.",
+      "prepared_source_verbatim": "[u0853 | 01:06:13.920-01:06:14.420 | DM] Today.",
+      "cleaned_wording": "[u0853 | 01:06:13.920-01:06:14.420 | DM] Today.",
+      "prepared_source_spans": [
+        "Today."
+      ],
+      "cleaned_spans": [
+        "Today."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0851 | 01:06:01.610-01:06:04.710 | DM] Below the altar is like the center of this big room.",
+        "[u0852 | 01:06:04.710-01:06:13.919 | Delwath] Seeing the crypt. I will then, as much as I can just go like crisscrossing diagonals or something to try and just."
+      ],
+      "prepared_context_after": [
+        "[u0854 | 01:06:14.420-01:06:17.119 | Delwath] Get a sense of the space.",
+        "[u0855 | 01:06:17.120-01:06:23.580 | DM] So the crypt is this. The central room that you're looking at is not as big as the"
+      ],
+      "cleaned_context_before": [
+        "[u0851 | 01:06:01.610-01:06:04.710 | DM] Below the altar is like the center of this big room.",
+        "[u0852 | 01:06:04.710-01:06:13.919 | Delwath] Seeing the crypt. I will then, as much as I can just go like crisscrossing diagonals or something to try and just."
+      ],
+      "cleaned_context_after": [
+        "[u0854 | 01:06:14.420-01:06:17.119 | Delwath] Get a sense of the space.",
+        "[u0855 | 01:06:17.120-01:06:23.580 | DM] So the crypt is this. The central room that you're looking at is not as big as the"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0891",
+      "importance": "incidental",
+      "group": "u0891",
+      "reason": "Unclear spell-name fragment fine; divination is explicitly identified in u0900.",
+      "prepared_source_verbatim": "[u0891 | 01:09:50.950-01:09:58.170 | Riswynn] All right. Could I say that I've spent my time like preparing to ritual past my fine?",
+      "cleaned_wording": "[u0891 | 01:09:50.950-01:09:58.170 | Riswynn] All right. Could I say that I've spent my time like preparing to ritual cast my [[fine]]?",
+      "prepared_source_spans": [
+        "fine"
+      ],
+      "cleaned_spans": [
+        "fine"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u0889 | 01:09:42.069-01:09:42.849 | Seeker] Hmm.",
+        "[u0890 | 01:09:42.850-01:09:48.630 | DM] There's no mechanism, there's no, there's no mechanical mechanism that seeker found on the altar."
+      ],
+      "prepared_context_after": [
+        "[u0892 | 01:09:58.520-01:09:59.979 | Riswynn] I think that I should have",
+        "[u0893 | 01:10:00.170-01:10:03.860 | Riswynn] what I think everybody can chime in, but I think that I should ask"
+      ],
+      "cleaned_context_before": [
+        "[u0889 | 01:09:42.069-01:09:42.849 | Seeker] Hmm.",
+        "[u0890 | 01:09:42.850-01:09:48.630 | DM] There's no mechanism, there's no, there's no mechanical mechanism that Seeker found on the altar."
+      ],
+      "cleaned_context_after": [
+        "[u0892 | 01:09:58.520-01:09:59.979 | Riswynn] I think that I should have",
+        "[u0893 | 01:10:00.170-01:10:03.860 | Riswynn] what I think everybody can chime in, but I think that I should ask"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0958",
+      "importance": "incidental",
+      "group": "u0958",
+      "reason": "Overlapping short joke fragment.",
+      "prepared_source_verbatim": "[u0958 | 01:14:46.020-01:14:46.560 | Wellby] Will be.",
+      "cleaned_wording": "[u0958 | 01:14:46.020-01:14:46.560 | Wellby] Will be.",
+      "prepared_source_spans": [
+        "Will be."
+      ],
+      "cleaned_spans": [
+        "Will be."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0956 | 01:14:42.390-01:14:43.949 | Riswynn] Lasts an hour.",
+        "[u0957 | 01:14:45.360-01:14:46.020 | Riswynn] It's part of."
+      ],
+      "prepared_context_after": [
+        "[u0959 | 01:14:46.560-01:14:49.450 | Riswynn] Hurdle of the mountain.",
+        "[u0960 | 01:14:50.800-01:14:53.499 | Riswynn] Sorry! What about my holy symbol?"
+      ],
+      "cleaned_context_before": [
+        "[u0956 | 01:14:42.390-01:14:43.949 | Riswynn] Lasts an hour.",
+        "[u0957 | 01:14:45.360-01:14:46.020 | Riswynn] It's part of."
+      ],
+      "cleaned_context_after": [
+        "[u0959 | 01:14:46.560-01:14:49.450 | Riswynn] Girdle of the mountain.",
+        "[u0960 | 01:14:50.800-01:14:53.499 | Riswynn] Sorry! What about my holy symbol?"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0967",
+      "importance": "incidental",
+      "group": "u0967",
+      "reason": "Garbled lead-in to saving-throw request; mechanics repeated clearly.",
+      "prepared_source_verbatim": "[u0967 | 01:15:10.360-01:15:13.420 | DM] Don't eat but Rickman's like, what are you guys doing? But",
+      "cleaned_wording": "[u0967 | 01:15:10.360-01:15:13.420 | DM] Don't eat but Riswynn's like, what are you guys doing? But",
+      "prepared_source_spans": [
+        "Don't eat but"
+      ],
+      "cleaned_spans": [
+        "Don't eat but"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0965 | 01:15:04.290-01:15:06.480 | Riswynn] Okay. 3rd time's the church.",
+        "[u0966 | 01:15:06.480-01:15:10.359 | DM] Oh, sorry, so we'll be. We'll be."
+      ],
+      "prepared_context_after": [
+        "[u0968 | 01:15:13.480-01:15:15.990 | DM] go ahead and roll wisdom saving throws, anyway.",
+        "[u0969 | 01:15:16.120-01:15:20.109 | DM] seeker and wellbeing, or somebody roll a d. 20 for sure, it says, plus 8."
+      ],
+      "cleaned_context_before": [
+        "[u0965 | 01:15:04.290-01:15:06.480 | Riswynn] Okay. 3rd time's the charm.",
+        "[u0966 | 01:15:06.480-01:15:10.359 | DM] Oh, sorry, so Wellby. Wellby."
+      ],
+      "cleaned_context_after": [
+        "[u0968 | 01:15:13.480-01:15:15.990 | DM] go ahead and roll wisdom saving throws, anyway.",
+        "[u0969 | 01:15:16.120-01:15:20.109 | DM] Seeker and Wellby, or somebody roll a d. 20 for Schwartz, it's, plus 8."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u0997",
+      "importance": "incidental",
+      "group": "u0997",
+      "reason": "Unclear dismissive reaction to concealed area, preserved.",
+      "prepared_source_verbatim": "[u0997 | 01:17:09.250-01:17:14.610 | DM] despite your protestations that the back there's nothing there I was like, yeah.",
+      "cleaned_wording": "[u0997 | 01:17:09.250-01:17:14.610 | DM] despite your protestations that the back there's nothing there I was like, yeah.",
+      "prepared_source_spans": [
+        "I was like"
+      ],
+      "cleaned_spans": [
+        "I was like"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u0995 | 01:16:59.390-01:17:01.712 | Delwath] not go through the tunneling floor.",
+        "[u0996 | 01:17:04.800-01:17:08.539 | DM] So as you all as you follow Welby, like."
+      ],
+      "prepared_context_after": [
+        "[u0998 | 01:17:15.120-01:17:23.999 | DM] And you all just follow him, and as you do, as Kenzo reaches the back of the temple, his staff flares again, and you see another",
+        "[u0999 | 01:17:24.140-01:17:30.299 | DM] faint vision for a moment a sort of glowing."
+      ],
+      "cleaned_context_before": [
+        "[u0995 | 01:16:59.390-01:17:01.712 | Delwath] not go through the tunneling floor.",
+        "[u0996 | 01:17:04.800-01:17:08.539 | DM] So as you all as you follow Wellby, like."
+      ],
+      "cleaned_context_after": [
+        "[u0998 | 01:17:15.120-01:17:23.999 | DM] And you all just follow him, and as you do, as Kenzo reaches the back of the temple, his staff flares again, and you see another",
+        "[u0999 | 01:17:24.140-01:17:30.299 | DM] faint vision for a moment a sort of glowing."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1004",
+      "importance": "incidental",
+      "group": "u1004",
+      "reason": "Abandoned narration lead-in.",
+      "prepared_source_verbatim": "[u1004 | 01:18:05.980-01:18:07.310 | DM] and you say",
+      "cleaned_wording": "[u1004 | 01:18:05.980-01:18:07.310 | DM] and you say",
+      "prepared_source_spans": [
+        "and you say"
+      ],
+      "cleaned_spans": [
+        "and you say"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1002 | 01:17:52.014-01:17:56.090 | DM] A chest floating in the air behind him",
+        "[u1003 | 01:17:56.320-01:17:58.520 | DM] as he passes through the floor."
+      ],
+      "prepared_context_after": [
+        "[u1005 | 01:18:11.156-01:18:12.250 | DM] no worries.",
+        "[u1006 | 01:18:12.250-01:18:14.999 | Seeker] We're on the right track. Approximately."
+      ],
+      "cleaned_context_before": [
+        "[u1002 | 01:17:52.014-01:17:56.090 | DM] A chest floating in the air behind him",
+        "[u1003 | 01:17:56.320-01:17:58.520 | DM] as he passes through the floor."
+      ],
+      "cleaned_context_after": [
+        "[u1005 | 01:18:11.156-01:18:12.250 | DM] no worries.",
+        "[u1006 | 01:18:12.250-01:18:14.999 | Seeker] We're on the right track. Approximately."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1005",
+      "importance": "incidental",
+      "group": "u1005",
+      "reason": "Short interruption.",
+      "prepared_source_verbatim": "[u1005 | 01:18:11.156-01:18:12.250 | DM] no worries.",
+      "cleaned_wording": "[u1005 | 01:18:11.156-01:18:12.250 | DM] no worries.",
+      "prepared_source_spans": [
+        "no worries."
+      ],
+      "cleaned_spans": [
+        "no worries."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1003 | 01:17:56.320-01:17:58.520 | DM] as he passes through the floor.",
+        "[u1004 | 01:18:05.980-01:18:07.310 | DM] and you say"
+      ],
+      "prepared_context_after": [
+        "[u1006 | 01:18:12.250-01:18:14.999 | Seeker] We're on the right track. Approximately.",
+        "[u1007 | 01:18:15.000-01:18:16.590 | DM] As he stepped to the floor."
+      ],
+      "cleaned_context_before": [
+        "[u1003 | 01:17:56.320-01:17:58.520 | DM] as he passes through the floor.",
+        "[u1004 | 01:18:05.980-01:18:07.310 | DM] and you say"
+      ],
+      "cleaned_context_after": [
+        "[u1006 | 01:18:12.250-01:18:14.999 | Seeker] We're on the right track. Approximately.",
+        "[u1007 | 01:18:15.000-01:18:16.590 | DM] As you step through the floor."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1154",
+      "importance": "incidental",
+      "group": "u1154",
+      "reason": "Question/self-correction about doppelgangers; DM explicitly confirms they were people and could enter.",
+      "prepared_source_verbatim": "[u1154 | 01:34:06.400-01:34:12.260 | Riswynn] The constructs the other Us's apparitions. We're just people.",
+      "cleaned_wording": "[u1154 | 01:34:06.400-01:34:12.260 | Riswynn] The constructs the other Us's apparitions. Were just people.",
+      "prepared_source_spans": [
+        "The constructs the other Us's apparitions. We're just people."
+      ],
+      "cleaned_spans": [
+        "The constructs the other Us's apparitions. Were just people."
+      ],
+      "span_precision": "whole unit: uncertainty boundary not localized",
+      "prepared_context_before": [
+        "[u1152 | 01:34:00.610-01:34:00.910 | Seeker] Yeah.",
+        "[u1153 | 01:34:01.680-01:34:05.150 | DM] Beans, aberrations cannot enter."
+      ],
+      "prepared_context_after": [
+        "[u1155 | 01:34:12.470-01:34:14.639 | DM] They were just people they could have entered.",
+        "[u1156 | 01:34:16.710-01:34:23.760 | DM] They probably did, although they probably wouldn't have been very comfortable for them."
+      ],
+      "cleaned_context_before": [
+        "[u1152 | 01:34:00.610-01:34:00.910 | Seeker] Yeah.",
+        "[u1153 | 01:34:01.680-01:34:05.150 | DM] Fiends, aberrations cannot enter."
+      ],
+      "cleaned_context_after": [
+        "[u1155 | 01:34:12.470-01:34:14.639 | DM] They were just people they could have entered.",
+        "[u1156 | 01:34:16.710-01:34:23.760 | DM] They probably did, although they probably wouldn't have been very comfortable for them."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1158",
+      "importance": "incidental",
+      "group": "u1158",
+      "reason": "Incidental interjection.",
+      "prepared_source_verbatim": "[u1158 | 01:34:31.330-01:34:33.059 | Seeker] Good morning!",
+      "cleaned_wording": "[u1158 | 01:34:31.330-01:34:33.059 | Seeker] Good morning!",
+      "prepared_source_spans": [
+        "Good morning!"
+      ],
+      "cleaned_spans": [
+        "Good morning!"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1156 | 01:34:16.710-01:34:23.760 | DM] They probably did, although they probably wouldn't have been very comfortable for them.",
+        "[u1157 | 01:34:26.550-01:34:29.170 | DM] Given their connection to a Polyon, but."
+      ],
+      "prepared_context_after": [
+        "[u1159 | 01:34:33.060-01:34:38.749 | DM] This wouldn't have prevented them. The your double Bizarro doppelgangers from searching the temple.",
+        "[u1160 | 01:34:39.260-01:34:40.230 | DM] Oh."
+      ],
+      "cleaned_context_before": [
+        "[u1156 | 01:34:16.710-01:34:23.760 | DM] They probably did, although they probably wouldn't have been very comfortable for them.",
+        "[u1157 | 01:34:26.550-01:34:29.170 | DM] Given their connection to Apollyon, but."
+      ],
+      "cleaned_context_after": [
+        "[u1159 | 01:34:33.060-01:34:38.749 | DM] This wouldn't have prevented them. The your double Bizarro doppelgangers from searching the temple.",
+        "[u1160 | 01:34:39.260-01:34:40.230 | DM] Oh."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1208",
+      "importance": "material",
+      "group": "u1208",
+      "reason": "Garbled opening about prior familiarity with the encountered celestial creatures.",
+      "prepared_source_verbatim": "[u1208 | 01:39:05.426-01:39:13.150 | DM] The thing anything like those creatures before, but they seem to be beings of the",
+      "cleaned_wording": "[u1208 | 01:39:05.426-01:39:13.150 | DM] [[The thing]] anything like those creatures before, but they seem to be beings of the",
+      "prepared_source_spans": [
+        "The thing"
+      ],
+      "cleaned_spans": [
+        "The thing"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u1206 | 01:38:56.680-01:39:00.049 | Delwath] Right. Whatever Rye summoned.",
+        "[u1207 | 01:39:00.050-01:39:03.950 | Seeker] But just to to my point again, what was that."
+      ],
+      "prepared_context_after": [
+        "[u1209 | 01:39:13.460-01:39:17.449 | DM] realm of the Elven firstborn.",
+        "[u1210 | 01:39:17.960-01:39:20.060 | Seeker] Oh, look! Look!"
+      ],
+      "cleaned_context_before": [
+        "[u1206 | 01:38:56.680-01:39:00.049 | Delwath] Right. Whatever Rai summoned.",
+        "[u1207 | 01:39:00.050-01:39:03.950 | Seeker] But just to to my point again, what was that."
+      ],
+      "cleaned_context_after": [
+        "[u1209 | 01:39:13.460-01:39:17.449 | DM] realm of the Elven firstborn.",
+        "[u1210 | 01:39:17.960-01:39:20.060 | Seeker] Oh, look! Look!"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1241",
+      "importance": "incidental",
+      "group": "u1241",
+      "reason": "Short joke fragment.",
+      "prepared_source_verbatim": "[u1241 | 01:41:43.610-01:41:44.050 | Riswynn] Service.",
+      "cleaned_wording": "[u1241 | 01:41:43.610-01:41:44.050 | Riswynn] Service.",
+      "prepared_source_spans": [
+        "Service."
+      ],
+      "cleaned_spans": [
+        "Service."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1239 | 01:41:38.790-01:41:42.260 | Wellby] Where is that place?",
+        "[u1240 | 01:41:42.260-01:41:43.610 | Kenzo] It's in all of our hearts for."
+      ],
+      "prepared_context_after": [
+        "[u1242 | 01:41:44.487-01:41:47.110 | DM] Well, he's never heard of it.",
+        "[u1243 | 01:41:51.430-01:41:54.195 | DM] That's where I ride, Matt Demitar obviously."
+      ],
+      "cleaned_context_before": [
+        "[u1239 | 01:41:38.790-01:41:42.260 | Wellby] Where is that place?",
+        "[u1240 | 01:41:42.260-01:41:43.610 | Kenzo] It's in all of our hearts for."
+      ],
+      "cleaned_context_after": [
+        "[u1242 | 01:41:44.487-01:41:47.110 | DM] Well, he's never heard of it.",
+        "[u1243 | 01:41:51.430-01:41:54.195 | DM] That's where Rai met Dimitaur obviously."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1260",
+      "importance": "incidental",
+      "group": "u1260",
+      "reason": "Throne-delivery joke; exact final words unresolved.",
+      "prepared_source_verbatim": "[u1260 | 01:42:58.300-01:43:01.940 | Seeker] We literally brought him throughout December.",
+      "cleaned_wording": "[u1260 | 01:42:58.300-01:43:01.940 | Seeker] We literally brought him throughout December.",
+      "prepared_source_spans": [
+        "throughout December"
+      ],
+      "cleaned_spans": [
+        "throughout December"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1258 | 01:42:52.130-01:42:52.920 | Seeker] Well naturally.",
+        "[u1259 | 01:42:54.830-01:42:57.820 | DM] But you did bring him his throne. So that was."
+      ],
+      "prepared_context_after": [
+        "[u1261 | 01:43:01.940-01:43:05.809 | Delwath] Have a magic eye in it, so you can check on him whenever you want.",
+        "[u1262 | 01:43:05.810-01:43:07.209 | Delwath] Talk to him."
+      ],
+      "cleaned_context_before": [
+        "[u1258 | 01:42:52.130-01:42:52.920 | Seeker] Well naturally.",
+        "[u1259 | 01:42:54.830-01:42:57.820 | DM] But you did bring him his throne. So that was."
+      ],
+      "cleaned_context_after": [
+        "[u1261 | 01:43:01.940-01:43:05.809 | Delwath] Have a magic eye in it, so you can check on him whenever you want.",
+        "[u1262 | 01:43:05.810-01:43:07.209 | Delwath] Talk to him."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1326",
+      "importance": "incidental",
+      "group": "u1326",
+      "reason": "Abandoned why-would-Rai question.",
+      "prepared_source_verbatim": "[u1326 | 01:48:12.610-01:48:14.670 | DM] But not why would right?",
+      "cleaned_wording": "[u1326 | 01:48:12.610-01:48:14.670 | DM] But not why would Rai?",
+      "prepared_source_spans": [
+        "But not why would right?"
+      ],
+      "cleaned_spans": [
+        "But not why would Rai?"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1324 | 01:48:06.370-01:48:10.220 | DM] If Apollyon doesn't have it, it's got to be.",
+        "[u1325 | 01:48:10.220-01:48:12.012 | Kenzo] Good to know"
+      ],
+      "prepared_context_after": [
+        "[u1327 | 01:48:14.850-01:48:18.470 | DM] How did you hear? Non tarvanas.",
+        "[u1328 | 01:48:18.470-01:48:22.410 | Kenzo] How do we hear that again, guys? There's the echo."
+      ],
+      "cleaned_context_before": [
+        "[u1324 | 01:48:06.370-01:48:10.220 | DM] If Apollyon doesn't have it, it's got to be.",
+        "[u1325 | 01:48:10.220-01:48:12.012 | Kenzo] Good to know"
+      ],
+      "cleaned_context_after": [
+        "[u1327 | 01:48:14.850-01:48:18.470 | DM] How did you hear? Naun Tarvanos.",
+        "[u1328 | 01:48:18.470-01:48:22.410 | Kenzo] How do we hear that again, guys? There's the echo."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1392",
+      "importance": "incidental",
+      "group": "u1392",
+      "reason": "Unclear short response during familiar conversation.",
+      "prepared_source_verbatim": "[u1392 | 01:52:55.932-01:52:59.100 | Delwath] Okay must have been to see if he was right.",
+      "cleaned_wording": "[u1392 | 01:52:55.932-01:52:59.100 | Delwath] Okay must have been to see if he was right.",
+      "prepared_source_spans": [
+        "Okay must have been to see if he was right."
+      ],
+      "cleaned_spans": [
+        "Okay must have been to see if he was right."
+      ],
+      "span_precision": "whole unit: uncertainty boundary not localized",
+      "prepared_context_before": [
+        "[u1390 | 01:52:47.560-01:52:47.890 | DM] Yeah.",
+        "[u1391 | 01:52:53.640-01:52:55.500 | DM] maybe a thousand times."
+      ],
+      "prepared_context_after": [
+        "[u1393 | 01:53:01.310-01:53:03.110 | Kenzo] And wait. Did you ever take it out of there.",
+        "[u1394 | 01:53:03.490-01:53:06.700 | DM] No cause. He was pretty convincing when he wanted to be."
+      ],
+      "cleaned_context_before": [
+        "[u1390 | 01:52:47.560-01:52:47.890 | DM] Yeah.",
+        "[u1391 | 01:52:53.640-01:52:55.500 | DM] maybe a thousand times."
+      ],
+      "cleaned_context_after": [
+        "[u1393 | 01:53:01.310-01:53:03.110 | Kenzo] And wait. Did you ever take it out of there.",
+        "[u1394 | 01:53:03.490-01:53:06.700 | DM] No cause. He was pretty convincing when he wanted to be."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1405",
+      "importance": "incidental",
+      "group": "u1405",
+      "reason": "Short overlap.",
+      "prepared_source_verbatim": "[u1405 | 01:53:44.190-01:53:44.530 | Wellby] Me.",
+      "cleaned_wording": "[u1405 | 01:53:44.190-01:53:44.530 | Wellby] Me.",
+      "prepared_source_spans": [
+        "Me."
+      ],
+      "cleaned_spans": [
+        "Me."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1403 | 01:53:32.000-01:53:35.600 | Wellby] Do you ever go down to the basement into the.",
+        "[u1404 | 01:53:35.600-01:53:42.519 | DM] Yeah, I once gathered up all of the necklaces and stuff, and then Rye told me to put them back."
+      ],
+      "prepared_context_after": [
+        "[u1406 | 01:53:45.650-01:53:51.550 | Wellby] Was there another level below that, or was there just that one crypt.",
+        "[u1407 | 01:53:51.550-01:53:54.290 | DM] No, there's just the one crypt."
+      ],
+      "cleaned_context_before": [
+        "[u1403 | 01:53:32.000-01:53:35.600 | Wellby] Do you ever go down to the basement into the.",
+        "[u1404 | 01:53:35.600-01:53:42.519 | DM] Yeah, I once gathered up all of the necklaces and stuff, and then Rai told me to put them back."
+      ],
+      "cleaned_context_after": [
+        "[u1406 | 01:53:45.650-01:53:51.550 | Wellby] Was there another level below that, or was there just that one crypt.",
+        "[u1407 | 01:53:51.550-01:53:54.290 | DM] No, there's just the one crypt."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1425",
+      "importance": "incidental",
+      "group": "u1425",
+      "reason": "Incomplete restatement of crypt ward; repeated description is clear.",
+      "prepared_source_verbatim": "[u1425 | 01:55:10.220-01:55:11.790 | Kenzo] The whole, so the whole clip was simply.",
+      "cleaned_wording": "[u1425 | 01:55:10.220-01:55:11.790 | Kenzo] The whole, so the whole crypt was simply.",
+      "prepared_source_spans": [
+        "simply"
+      ],
+      "cleaned_spans": [
+        "simply"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1423 | 01:55:06.560-01:55:09.560 | DM] Where was this safe place correct.",
+        "[u1424 | 01:55:09.750-01:55:10.220 | Seeker] Yeah."
+      ],
+      "prepared_context_after": [
+        "[u1426 | 01:55:11.790-01:55:18.409 | DM] There was like a ward. He said that if anybody tried to find it they'd just be confused and think there was nothing there.",
+        "[u1427 | 01:55:18.410-01:55:19.960 | Kenzo] Yeah, I think we solved that one."
+      ],
+      "cleaned_context_before": [
+        "[u1423 | 01:55:06.560-01:55:09.560 | DM] Where was this safe place crypt.",
+        "[u1424 | 01:55:09.750-01:55:10.220 | Seeker] Yeah."
+      ],
+      "cleaned_context_after": [
+        "[u1426 | 01:55:11.790-01:55:18.409 | DM] There was like a ward. He said that if anybody tried to find it they'd just be confused and think there was nothing there.",
+        "[u1427 | 01:55:18.410-01:55:19.960 | Kenzo] Yeah, I think we solved that one."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1435",
+      "importance": "incidental",
+      "group": "u1435",
+      "reason": "Garbled lead-in to clearly named detection/dispelling spells; subsequent discussion clarifies.",
+      "prepared_source_verbatim": "[u1435 | 01:55:49.320-01:55:53.340 | Wellby] We're really good to tech magic or spell magic.",
+      "cleaned_wording": "[u1435 | 01:55:49.320-01:55:53.340 | Wellby] We're really good Detect Magic or Dispel Magic.",
+      "prepared_source_spans": [
+        "We're really good"
+      ],
+      "cleaned_spans": [
+        "We're really good"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1433 | 01:55:41.370-01:55:47.420 | DM] I don't think he trusted the God energy to hide it kept weaving these spells.",
+        "[u1434 | 01:55:47.420-01:55:48.000 | Kenzo] Hmm."
+      ],
+      "prepared_context_after": [
+        "[u1436 | 01:55:53.340-01:55:57.169 | Delwath] Yeah, I mean, there's no ma. I'm detecting magic. There's no magic down here right.",
+        "[u1437 | 01:55:57.170-01:56:10.490 | Riswynn] And I can't dispel magic. If I don't have a magic to point, dispel magic at, I mean, I guess I could try just short of shouting, dispel magic out in space, and see if"
+      ],
+      "cleaned_context_before": [
+        "[u1433 | 01:55:41.370-01:55:47.420 | DM] I don't think he trusted the God energy to hide it kept weaving these spells.",
+        "[u1434 | 01:55:47.420-01:55:48.000 | Kenzo] Hmm."
+      ],
+      "cleaned_context_after": [
+        "[u1436 | 01:55:53.340-01:55:57.169 | Delwath] Yeah, I mean, there's no ma. I'm detecting magic. There's no magic down here right.",
+        "[u1437 | 01:55:57.170-01:56:10.490 | Riswynn] And I can't dispel magic. If I don't have a magic to point, dispel magic at, I mean, I guess I could try just sort of shouting, dispel magic out in space, and see if"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1446",
+      "importance": "incidental",
+      "group": "u1446",
+      "reason": "Trailing bye interjection.",
+      "prepared_source_verbatim": "[u1446 | 01:56:49.260-01:56:52.495 | Delwath] You have to know. The magical effect exists bye.",
+      "cleaned_wording": "[u1446 | 01:56:49.260-01:56:52.495 | Delwath] You have to know. The magical effect exists bye.",
+      "prepared_source_spans": [
+        "bye"
+      ],
+      "cleaned_spans": [
+        "bye"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1444 | 01:56:40.680-01:56:41.420 | DM] or.",
+        "[u1445 | 01:56:41.420-01:56:49.259 | Delwath] Can you just say the magical effect that's hiding the do you have to know that the magical effect exists to target it?"
+      ],
+      "prepared_context_after": [
+        "[u1447 | 01:56:55.620-01:57:08.219 | Riswynn] So like illusion or interplanar hidey hole, so.",
+        "[u1448 | 01:57:08.220-01:57:11.099 | Delwath] That was just gonna sort of pace back and forth here."
+      ],
+      "cleaned_context_before": [
+        "[u1444 | 01:56:40.680-01:56:41.420 | DM] or.",
+        "[u1445 | 01:56:41.420-01:56:49.259 | Delwath] Can you just say the magical effect that's hiding the do you have to know that the magical effect exists to target it?"
+      ],
+      "cleaned_context_after": [
+        "[u1447 | 01:56:55.620-01:57:08.219 | Riswynn] So like illusion or interplanar hidey hole, so.",
+        "[u1448 | 01:57:08.220-01:57:11.099 | Delwath] Delwath is just gonna sort of pace back and forth here."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1451",
+      "importance": "incidental",
+      "group": "u1451",
+      "reason": "Truncated see-invisibility wording; action clarified next line.",
+      "prepared_source_verbatim": "[u1451 | 01:57:17.520-01:57:24.819 | Delwath] Like feeling for like oh, looking around for something illusion, you know, for something invisible with the invisible",
+      "cleaned_wording": "[u1451 | 01:57:17.520-01:57:24.819 | Delwath] Like feeling for like oh, looking around for something illusion, you know, for something invisible with the invisible",
+      "prepared_source_spans": [
+        "with the invisible"
+      ],
+      "cleaned_spans": [
+        "with the invisible"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1449 | 01:57:11.620-01:57:17.110 | Delwath] like just like trying to walk every inch of the space.",
+        "[u1450 | 01:57:17.110-01:57:17.520 | DM] Just like."
+      ],
+      "prepared_context_after": [
+        "[u1452 | 01:57:25.070-01:57:47.670 | Delwath] feeling like, is there, you know, making sure there isn't a spot where the floor isn't, you know, illusionary, or something like that. Trace his hands along the walls, make sure that there's not a spot where the wall is illusionary. Like. Look at the I mean. Correct me if I'm wrong. The vision we got had rye come into this room with the chest, and leave without it.",
+        "[u1453 | 01:57:47.930-01:57:48.560 | DM] Yes."
+      ],
+      "cleaned_context_before": [
+        "[u1449 | 01:57:11.620-01:57:17.110 | Delwath] like just like trying to walk every inch of the space.",
+        "[u1450 | 01:57:17.110-01:57:17.520 | DM] Just like."
+      ],
+      "cleaned_context_after": [
+        "[u1452 | 01:57:25.070-01:57:47.670 | Delwath] feeling like, is there, you know, making sure there isn't a spot where the floor isn't, you know, illusionary, or something like that. Trace his hands along the walls, make sure that there's not a spot where the wall is illusionary. Like. Look at the I mean. Correct me if I'm wrong. The vision we got had Rai come into this room with the chest, and leave without it.",
+        "[u1453 | 01:57:47.930-01:57:48.560 | DM] Yes."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1462",
+      "importance": "incidental",
+      "group": "u1462",
+      "reason": "Short unclear response.",
+      "prepared_source_verbatim": "[u1462 | 01:58:32.460-01:58:33.020 | Kenzo] We satisfy.",
+      "cleaned_wording": "[u1462 | 01:58:32.460-01:58:33.020 | Kenzo] We satisfy.",
+      "prepared_source_spans": [
+        "We satisfy."
+      ],
+      "cleaned_spans": [
+        "We satisfy."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1460 | 01:58:14.670-01:58:27.610 | DM] So dealt with. The rest of you are kind of standing around talking damage dealt with is pacing around after about 5 min, Ted, maybe a little more. So you've been in here like maybe half an hour.",
+        "[u1461 | 01:58:27.840-01:58:32.459 | DM] maybe a little longer than half an hour by now you stub your toe."
+      ],
+      "prepared_context_after": [
+        "[u1463 | 01:58:34.410-01:58:38.590 | DM] On empty space.",
+        "[u1464 | 01:58:38.590-01:58:39.490 | Delwath] Ow."
+      ],
+      "cleaned_context_before": [
+        "[u1460 | 01:58:14.670-01:58:27.610 | DM] So Delwath. The rest of you are kind of standing around talking Delwath is pacing around after about 5 min, 10, maybe a little more. So you've been in here like maybe half an hour.",
+        "[u1461 | 01:58:27.840-01:58:32.459 | DM] maybe a little longer than half an hour by now you stub your toe."
+      ],
+      "cleaned_context_after": [
+        "[u1463 | 01:58:34.410-01:58:38.590 | DM] On empty space.",
+        "[u1464 | 01:58:38.590-01:58:39.490 | Delwath] Ow."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1482",
+      "importance": "incidental",
+      "group": "u1482",
+      "reason": "Unclear response about opening mechanism; next lines explicitly confirm mechanism.",
+      "prepared_source_verbatim": "[u1482 | 01:59:27.710-01:59:28.510 | DM] Yell along.",
+      "cleaned_wording": "[u1482 | 01:59:27.710-01:59:28.510 | DM] Yell along.",
+      "prepared_source_spans": [
+        "Yell along."
+      ],
+      "cleaned_spans": [
+        "Yell along."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1480 | 01:59:24.934-01:59:26.359 | Wellby] Does it have a mechanism?",
+        "[u1481 | 01:59:26.810-01:59:27.710 | Wellby] So."
+      ],
+      "prepared_context_after": [
+        "[u1483 | 01:59:28.510-01:59:29.359 | Wellby] Yeah, yeah.",
+        "[u1484 | 01:59:29.360-01:59:31.339 | DM] There's a mechanism to open."
+      ],
+      "cleaned_context_before": [
+        "[u1480 | 01:59:24.934-01:59:26.359 | Wellby] Does it have a mechanism?",
+        "[u1481 | 01:59:26.810-01:59:27.710 | Wellby] So."
+      ],
+      "cleaned_context_after": [
+        "[u1483 | 01:59:28.510-01:59:29.359 | Wellby] Yeah, yeah.",
+        "[u1484 | 01:59:29.360-01:59:31.339 | DM] There's a mechanism to open."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1502",
+      "importance": "incidental",
+      "group": "u1502",
+      "reason": "Short overlap.",
+      "prepared_source_verbatim": "[u1502 | 02:01:04.960-02:01:05.826 | Wellby] As well.",
+      "cleaned_wording": "[u1502 | 02:01:04.960-02:01:05.826 | Wellby] As well.",
+      "prepared_source_spans": [
+        "As well."
+      ],
+      "cleaned_spans": [
+        "As well."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1500 | 02:00:58.710-02:01:03.750 | DM] It still has a lock on it.",
+        "[u1501 | 02:01:03.980-02:01:04.959 | Delwath] With the walk is not."
+      ],
+      "prepared_context_after": [
+        "[u1503 | 02:01:06.510-02:01:11.759 | DM] You can try and pick the lock disadvantage because it's invisible.",
+        "[u1504 | 02:01:17.050-02:01:22.149 | Wellby] Oh, give me just a sec."
+      ],
+      "cleaned_context_before": [
+        "[u1500 | 02:00:58.710-02:01:03.750 | DM] It still has a lock on it.",
+        "[u1501 | 02:01:03.980-02:01:04.959 | Delwath] With the lock is not."
+      ],
+      "cleaned_context_after": [
+        "[u1503 | 02:01:06.510-02:01:11.759 | DM] You can try and pick the lock at disadvantage because it's invisible.",
+        "[u1504 | 02:01:17.050-02:01:22.149 | Wellby] Oh, give me just a sec."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1506",
+      "importance": "incidental",
+      "group": "u1506",
+      "reason": "Short roll interjection.",
+      "prepared_source_verbatim": "[u1506 | 02:01:27.780-02:01:28.010 | DM] Dad!",
+      "cleaned_wording": "[u1506 | 02:01:27.780-02:01:28.010 | DM] Dad!",
+      "prepared_source_spans": [
+        "Dad!"
+      ],
+      "cleaned_spans": [
+        "Dad!"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1504 | 02:01:17.050-02:01:22.149 | Wellby] Oh, give me just a sec.",
+        "[u1505 | 02:01:25.020-02:01:26.589 | Wellby] What am I using for that."
+      ],
+      "prepared_context_after": [
+        "[u1507 | 02:01:28.010-02:01:31.359 | Wellby] Buddy, just text dex plus.",
+        "[u1508 | 02:01:31.360-02:01:32.869 | Delwath] Sleight of hand."
+      ],
+      "cleaned_context_before": [
+        "[u1504 | 02:01:17.050-02:01:22.149 | Wellby] Oh, give me just a sec.",
+        "[u1505 | 02:01:25.020-02:01:26.589 | Wellby] What am I using for that."
+      ],
+      "cleaned_context_after": [
+        "[u1507 | 02:01:28.010-02:01:31.359 | Wellby] Buddy, just Dex plus.",
+        "[u1508 | 02:01:31.360-02:01:32.869 | Delwath] Sleight of hand."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1507",
+      "importance": "incidental",
+      "group": "u1507",
+      "reason": "Garbled roll-modifier lead-in; Dex plus proficiency confirmed next.",
+      "prepared_source_verbatim": "[u1507 | 02:01:28.010-02:01:31.359 | Wellby] Buddy, just text dex plus.",
+      "cleaned_wording": "[u1507 | 02:01:28.010-02:01:31.359 | Wellby] Buddy, just Dex plus.",
+      "prepared_source_spans": [
+        "Buddy, just text"
+      ],
+      "cleaned_spans": [
+        "Buddy, just Dex plus."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1505 | 02:01:25.020-02:01:26.589 | Wellby] What am I using for that.",
+        "[u1506 | 02:01:27.780-02:01:28.010 | DM] Dad!"
+      ],
+      "prepared_context_after": [
+        "[u1508 | 02:01:31.360-02:01:32.869 | Delwath] Sleight of hand.",
+        "[u1509 | 02:01:33.790-02:01:38.529 | DM] Slate of hand. But you're proficient in thieves, tools. So just so, dax plus proficiency."
+      ],
+      "cleaned_context_before": [
+        "[u1505 | 02:01:25.020-02:01:26.589 | Wellby] What am I using for that.",
+        "[u1506 | 02:01:27.780-02:01:28.010 | DM] Dad!"
+      ],
+      "cleaned_context_after": [
+        "[u1508 | 02:01:31.360-02:01:32.869 | Delwath] Sleight of hand.",
+        "[u1509 | 02:01:33.790-02:01:38.529 | DM] Sleight of hand. But you're proficient in thieves, tools. So just so, Dex plus proficiency."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1511",
+      "importance": "incidental",
+      "group": "u1511",
+      "reason": "Roll-one remark.",
+      "prepared_source_verbatim": "[u1511 | 02:01:47.540-02:01:48.880 | DM] 0 ones.",
+      "cleaned_wording": "[u1511 | 02:01:47.540-02:01:48.880 | DM] 0 ones.",
+      "prepared_source_spans": [
+        "0 ones."
+      ],
+      "cleaned_spans": [
+        "0 ones."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1509 | 02:01:33.790-02:01:38.529 | DM] Slate of hand. But you're proficient in thieves, tools. So just so, dax plus proficiency.",
+        "[u1510 | 02:01:39.220-02:01:47.540 | Wellby] Alright! So that's the 1st roll it should be plus another 5. There's that's a 1, but I reroll it."
+      ],
+      "prepared_context_after": [
+        "[u1512 | 02:01:50.480-02:01:53.086 | Wellby] So 20.",
+        "[u1513 | 02:01:54.390-02:02:04.200 | DM] 20. Okay, interesting the"
+      ],
+      "cleaned_context_before": [
+        "[u1509 | 02:01:33.790-02:01:38.529 | DM] Sleight of hand. But you're proficient in thieves, tools. So just so, Dex plus proficiency.",
+        "[u1510 | 02:01:39.220-02:01:47.540 | Wellby] Alright! So that's the 1st roll it should be plus another 5. There's that's a 1, but I reroll it."
+      ],
+      "cleaned_context_after": [
+        "[u1512 | 02:01:50.480-02:01:53.086 | Wellby] So 20.",
+        "[u1513 | 02:01:54.390-02:02:04.200 | DM] 20. Okay, interesting the"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1532",
+      "importance": "incidental",
+      "group": "u1532",
+      "reason": "Overlapping dispel request.",
+      "prepared_source_verbatim": "[u1532 | 02:03:03.490-02:03:05.429 | Wellby] Now you might dispel magic.",
+      "cleaned_wording": "[u1532 | 02:03:03.490-02:03:05.429 | Wellby] Now you might dispel magic.",
+      "prepared_source_spans": [
+        "Now you might"
+      ],
+      "cleaned_spans": [
+        "Now you might"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1530 | 02:02:50.390-02:02:56.020 | DM] See the shape of the chest emerging in the flower.",
+        "[u1531 | 02:03:00.550-02:03:03.490 | Wellby] Did we dispel magic and dispel illusions."
+      ],
+      "prepared_context_after": [
+        "[u1533 | 02:03:05.990-02:03:11.699 | Delwath] Right. Can you dispel the thing that's making the chest invisible?",
+        "[u1534 | 02:03:11.700-02:03:18.419 | Riswynn] If we're willing to actually let me try to cast a spell instead of just saying, won't work. I'm perfectly happy to cast."
+      ],
+      "cleaned_context_before": [
+        "[u1530 | 02:02:50.390-02:02:56.020 | DM] See the shape of the chest emerging in the flour.",
+        "[u1531 | 02:03:00.550-02:03:03.490 | Wellby] Did we dispel magic and dispel illusions."
+      ],
+      "cleaned_context_after": [
+        "[u1533 | 02:03:05.990-02:03:11.699 | Delwath] Right. Can you dispel the thing that's making the chest invisible?",
+        "[u1534 | 02:03:11.700-02:03:18.419 | Riswynn] If we're willing to actually let me try to cast a spell instead of just saying, won't work. I'm perfectly happy to cast."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1543",
+      "importance": "incidental",
+      "group": "u1543",
+      "reason": "Self-correction between saving throw and Wisdom check; retained.",
+      "prepared_source_verbatim": "[u1543 | 02:04:01.170-02:04:03.699 | Riswynn] Wisdom, say not wisdom, savings, wisdom, saving.",
+      "cleaned_wording": "[u1543 | 02:04:01.170-02:04:03.699 | Riswynn] Wisdom, say not wisdom, savings, wisdom, saving.",
+      "prepared_source_spans": [
+        "Wisdom, say not wisdom, savings, wisdom, saving."
+      ],
+      "cleaned_spans": [
+        "Wisdom, say not wisdom, savings, wisdom, saving."
+      ],
+      "span_precision": "whole unit: uncertainty boundary not localized",
+      "prepared_context_before": [
+        "[u1541 | 02:03:53.570-02:03:59.930 | Riswynn] All right. I'm casting it as a 3rd level spell, and then I've got to make 4 wisdom checks. Did you say?",
+        "[u1542 | 02:04:00.670-02:04:01.170 | DM] Yup."
+      ],
+      "prepared_context_after": [
+        "[u1544 | 02:04:03.700-02:04:12.380 | DM] It's just wisdom check. So d 20 plus 5.",
+        "[u1545 | 02:04:12.380-02:04:13.619 | Riswynn] 5 of them"
+      ],
+      "cleaned_context_before": [
+        "[u1541 | 02:03:53.570-02:03:59.930 | Riswynn] All right. I'm casting it as a 3rd level spell, and then I've got to make 4 wisdom checks. Did you say?",
+        "[u1542 | 02:04:00.670-02:04:01.170 | DM] Yup."
+      ],
+      "cleaned_context_after": [
+        "[u1544 | 02:04:03.700-02:04:12.380 | DM] It's just wisdom check. So d 20 plus 5.",
+        "[u1545 | 02:04:12.380-02:04:13.619 | Riswynn] 5 of them"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1580",
+      "importance": "incidental",
+      "group": "u1580",
+      "reason": "Garbled joking wish to visit an elven realm; preceding line explicitly identifies destination, and no trip occurs.",
+      "prepared_source_verbatim": "[u1580 | 02:07:16.610-02:07:17.989 | Delwath] But I watch to go to the Elven Device.",
+      "cleaned_wording": "[u1580 | 02:07:16.610-02:07:17.989 | Delwath] But I want to go to the [[Elven Device]].",
+      "prepared_source_spans": [
+        "Elven Device"
+      ],
+      "cleaned_spans": [
+        "Elven Device"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u1578 | 02:07:13.490-02:07:15.590 | DM] you don't have to worry about that.",
+        "[u1579 | 02:07:16.170-02:07:16.610 | Seeker] Oh!"
+      ],
+      "prepared_context_after": [
+        "[u1581 | 02:07:19.020-02:07:22.730 | Seeker] They had to say it's name aloud in.",
+        "[u1582 | 02:07:22.730-02:07:31.180 | DM] You had said its name aloud, you wouldn't have had to dispel all the magic."
+      ],
+      "cleaned_context_before": [
+        "[u1578 | 02:07:13.490-02:07:15.590 | DM] you don't have to worry about that.",
+        "[u1579 | 02:07:16.170-02:07:16.610 | Seeker] Oh!"
+      ],
+      "cleaned_context_after": [
+        "[u1581 | 02:07:19.020-02:07:22.730 | Seeker] They had to say it's name aloud in.",
+        "[u1582 | 02:07:22.730-02:07:31.180 | DM] You had said its name aloud, you wouldn't have had to dispel all the magic."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1593",
+      "importance": "incidental",
+      "group": "u1593",
+      "reason": "Brief unclear exclamation after finding dagger.",
+      "prepared_source_verbatim": "[u1593 | 02:08:23.100-02:08:25.370 | Delwath] Awesome sense.",
+      "cleaned_wording": "[u1593 | 02:08:23.100-02:08:25.370 | Delwath] Awesome sense.",
+      "prepared_source_spans": [
+        "Awesome sense."
+      ],
+      "cleaned_spans": [
+        "Awesome sense."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1591 | 02:08:15.500-02:08:20.667 | Seeker] Oh, and now what.",
+        "[u1592 | 02:08:21.060-02:08:23.010 | Delwath] Now we destroy it."
+      ],
+      "prepared_context_after": [
+        "[u1594 | 02:08:25.370-02:08:26.160 | Seeker] 2.",
+        "[u1595 | 02:08:26.160-02:08:28.119 | Delwath] Do we have a plan on destroying it?"
+      ],
+      "cleaned_context_before": [
+        "[u1591 | 02:08:15.500-02:08:20.667 | Seeker] Oh, and now what.",
+        "[u1592 | 02:08:21.060-02:08:23.010 | Delwath] Now we destroy it."
+      ],
+      "cleaned_context_after": [
+        "[u1594 | 02:08:25.370-02:08:26.160 | Seeker] 2.",
+        "[u1595 | 02:08:26.160-02:08:28.119 | Delwath] Do we have a plan on destroying it?"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1611",
+      "importance": "incidental",
+      "group": "u1611",
+      "reason": "Overlapping readiness fragment.",
+      "prepared_source_verbatim": "[u1611 | 02:10:07.540-02:10:07.900 | Seeker] Are all in.",
+      "cleaned_wording": "[u1611 | 02:10:07.540-02:10:07.900 | Seeker] Are all in.",
+      "prepared_source_spans": [
+        "Are all in."
+      ],
+      "cleaned_spans": [
+        "Are all in."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1609 | 02:09:54.130-02:09:59.129 | DM] with Kenzo's help as well, for like soul sight to like, you know.",
+        "[u1610 | 02:10:00.050-02:10:06.150 | DM] be looking at the dagger and trying to see the souls while you're reading so it's probably gonna take."
+      ],
+      "prepared_context_after": [
+        "[u1612 | 02:10:07.900-02:10:09.260 | DM] Yeah guidance.",
+        "[u1613 | 02:10:10.910-02:10:17.100 | DM] So so if you're gonna just set to work, I think, go ahead and roll arcana."
+      ],
+      "cleaned_context_before": [
+        "[u1609 | 02:09:54.130-02:09:59.129 | DM] with Kenzo's help as well, for like soul sight to like, you know.",
+        "[u1610 | 02:10:00.050-02:10:06.150 | DM] be looking at the dagger and trying to see the souls while you're reading so it's probably gonna take."
+      ],
+      "cleaned_context_after": [
+        "[u1612 | 02:10:07.900-02:10:09.260 | DM] Yeah guidance.",
+        "[u1613 | 02:10:10.910-02:10:17.100 | DM] So so if you're gonna just set to work, I think, go ahead and roll arcana."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1683",
+      "importance": "incidental",
+      "group": "u1683",
+      "reason": "False start before examples of soul-sight clues.",
+      "prepared_source_verbatim": "[u1683 | 02:19:43.080-02:19:47.440 | DM] the fate. You know the place they like to walk or like, you know,",
+      "cleaned_wording": "[u1683 | 02:19:43.080-02:19:47.440 | DM] the fate. You know the place they like to walk or like, you know,",
+      "prepared_source_spans": [
+        "the fate"
+      ],
+      "cleaned_spans": [
+        "the fate"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1681 | 02:19:19.680-02:19:21.435 | DM] Yeah.",
+        "[u1682 | 02:19:23.770-02:19:42.739 | DM] so you can get. I mean, you get some you get some like sort of echoes from the from the dagger of of these 7 individuals. You get a bit of like of of color like you can pick up. Kenzo can pick up things like you know"
+      ],
+      "prepared_context_after": [
+        "[u1684 | 02:19:50.580-02:19:58.440 | DM] not necessarily as specific as where they live, but I mean, for all you know, some of them might be memorialized in this very temple, right like.",
+        "[u1685 | 02:19:58.440-02:19:59.790 | Delwath] Right, right, right."
+      ],
+      "cleaned_context_before": [
+        "[u1681 | 02:19:19.680-02:19:21.435 | DM] Yeah.",
+        "[u1682 | 02:19:23.770-02:19:42.739 | DM] so you can get. I mean, you get some you get some like sort of echoes from the from the dagger of of these 7 individuals. You get a bit of like of of color like you can pick up. Kenzo can pick up things like you know"
+      ],
+      "cleaned_context_after": [
+        "[u1684 | 02:19:50.580-02:19:58.440 | DM] not necessarily as specific as where they live, but I mean, for all you know, some of them might be memorialized in this very temple, right like.",
+        "[u1685 | 02:19:58.440-02:19:59.790 | Delwath] Right, right, right."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1697",
+      "importance": "material",
+      "group": "u1697",
+      "reason": "Unclear burial/token location in a proposal for finding personal artifacts.",
+      "prepared_source_verbatim": "[u1697 | 02:21:12.110-02:21:17.260 | Wellby] Often, though, like tokens of the person are buried with them in a national.",
+      "cleaned_wording": "[u1697 | 02:21:12.110-02:21:17.260 | Wellby] Often, though, like tokens of the person are buried with them in [[a national]].",
+      "prepared_source_spans": [
+        "a national"
+      ],
+      "cleaned_spans": [
+        "a national"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u1695 | 02:20:59.530-02:21:07.799 | Riswynn] I don't know if it would help if they were memorialized here. Just the fact that their name was on a wall wouldn't necessarily give us any additional information.",
+        "[u1696 | 02:21:07.870-02:21:12.109 | Riswynn] unless there was a long descriptive plaque."
+      ],
+      "prepared_context_after": [
+        "[u1698 | 02:21:17.260-02:21:19.490 | DM] Like we've noticed around here.",
+        "[u1699 | 02:21:20.800-02:21:24.350 | Wellby] Okay, so, maybe, yeah."
+      ],
+      "cleaned_context_before": [
+        "[u1695 | 02:20:59.530-02:21:07.799 | Riswynn] I don't know if it would help if they were memorialized here. Just the fact that their name was on a wall wouldn't necessarily give us any additional information.",
+        "[u1696 | 02:21:07.870-02:21:12.109 | Riswynn] unless there was a long descriptive plaque."
+      ],
+      "cleaned_context_after": [
+        "[u1698 | 02:21:17.260-02:21:19.490 | DM] Like we've noticed around here.",
+        "[u1699 | 02:21:20.800-02:21:24.350 | Wellby] Okay, so, maybe, yeah."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1705",
+      "importance": "incidental",
+      "group": "u1705",
+      "reason": "Garbled meta question about church records; answer clarifies cemetery practice.",
+      "prepared_source_verbatim": "[u1705 | 02:21:40.860-02:21:44.880 | DM] You tell me is that common in churches passing so fast.",
+      "cleaned_wording": "[u1705 | 02:21:40.860-02:21:44.880 | DM] You tell me is that common in churches passing so fast.",
+      "prepared_source_spans": [
+        "passing so fast"
+      ],
+      "cleaned_spans": [
+        "passing so fast"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1703 | 02:21:39.900-02:21:40.490 | DM] I don't know is that.",
+        "[u1704 | 02:21:40.490-02:21:40.860 | Wellby] Have, a."
+      ],
+      "prepared_context_after": [
+        "[u1706 | 02:21:44.880-02:21:47.559 | Wellby] Yeah, I mean in cemeteries. Yeah, yeah.",
+        "[u1707 | 02:21:49.260-02:21:59.530 | Wellby] like. Often. Like, if you go to a really big cemetery, there might be like a a reception kind of place where there's a person there, and you're like, I'm looking for so and so, and they tell you oh, they're in."
+      ],
+      "cleaned_context_before": [
+        "[u1703 | 02:21:39.900-02:21:40.490 | DM] I don't know is that.",
+        "[u1704 | 02:21:40.490-02:21:40.860 | Wellby] Have, a."
+      ],
+      "cleaned_context_after": [
+        "[u1706 | 02:21:44.880-02:21:47.559 | Wellby] Yeah, I mean in cemeteries. Yeah, yeah.",
+        "[u1707 | 02:21:49.260-02:21:59.530 | Wellby] like. Often. Like, if you go to a really big cemetery, there might be like a a reception kind of place where there's a person there, and you're like, I'm looking for so and so, and they tell you oh, they're in."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1720",
+      "importance": "incidental",
+      "group": "u1720",
+      "reason": "Short overlap after storage plan.",
+      "prepared_source_verbatim": "[u1720 | 02:23:22.550-02:23:24.250 | Delwath] God see you.",
+      "cleaned_wording": "[u1720 | 02:23:22.550-02:23:24.250 | Delwath] God see you.",
+      "prepared_source_spans": [
+        "God see you."
+      ],
+      "cleaned_spans": [
+        "God see you."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1718 | 02:23:11.620-02:23:20.550 | Delwath] I I think we put it in the portable hole in the in the lead wide locket, and then we've it in, and then somebody stays with the portable hole",
+        "[u1719 | 02:23:20.650-02:23:21.830 | Delwath] in here."
+      ],
+      "prepared_context_after": [
+        "[u1721 | 02:23:24.250-02:23:27.660 | Riswynn] Does that protect it from the sort of magic you're.",
+        "[u1722 | 02:23:27.660-02:23:33.399 | Delwath] Not, as well as Rye's 7th level spell, but better than nothing."
+      ],
+      "cleaned_context_before": [
+        "[u1718 | 02:23:11.620-02:23:20.550 | Delwath] I I think we put it in the portable hole in the in the lead-lined locket, and then leave it in, and then somebody stays with the portable hole",
+        "[u1719 | 02:23:20.650-02:23:21.830 | Delwath] in here."
+      ],
+      "cleaned_context_after": [
+        "[u1721 | 02:23:24.250-02:23:27.660 | Riswynn] Does that protect it from the sort of magic you're.",
+        "[u1722 | 02:23:27.660-02:23:33.399 | Delwath] Not, as well as Rai's 7th level spell, but better than nothing."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1726",
+      "importance": "incidental",
+      "group": "u1726",
+      "reason": "Truncated caveat; surrounding discussion explicitly distinguishes stronger divination.",
+      "prepared_source_verbatim": "[u1726 | 02:23:48.280-02:23:49.470 | DM] Not more.",
+      "cleaned_wording": "[u1726 | 02:23:48.280-02:23:49.470 | DM] Not more.",
+      "prepared_source_spans": [
+        "Not more."
+      ],
+      "cleaned_spans": [
+        "Not more."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1724 | 02:23:39.590-02:23:44.939 | DM] Right. It would protect it from locate object or stone sense, or something like that.",
+        "[u1725 | 02:23:44.940-02:23:47.380 | Delwath] Right, but not divination."
+      ],
+      "prepared_context_after": [
+        "[u1727 | 02:23:49.470-02:23:49.910 | DM] Yeah.",
+        "[u1728 | 02:23:56.190-02:23:57.729 | Delwath] Oh! God! Mercy!"
+      ],
+      "cleaned_context_before": [
+        "[u1724 | 02:23:39.590-02:23:44.939 | DM] Right. It would protect it from locate object or stone sense, or something like that.",
+        "[u1725 | 02:23:44.940-02:23:47.380 | Delwath] Right, but not divination."
+      ],
+      "cleaned_context_after": [
+        "[u1727 | 02:23:49.470-02:23:49.910 | DM] Yeah.",
+        "[u1728 | 02:23:56.190-02:23:57.729 | Delwath] Oh! God! Mercy!"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1728",
+      "importance": "incidental",
+      "group": "u1728",
+      "reason": "Short exclamation.",
+      "prepared_source_verbatim": "[u1728 | 02:23:56.190-02:23:57.729 | Delwath] Oh! God! Mercy!",
+      "cleaned_wording": "[u1728 | 02:23:56.190-02:23:57.729 | Delwath] Oh! God! Mercy!",
+      "prepared_source_spans": [
+        "Oh! God! Mercy!"
+      ],
+      "cleaned_spans": [
+        "Oh! God! Mercy!"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1726 | 02:23:48.280-02:23:49.470 | DM] Not more.",
+        "[u1727 | 02:23:49.470-02:23:49.910 | DM] Yeah."
+      ],
+      "prepared_context_after": [
+        "[u1729 | 02:23:57.730-02:24:06.300 | DM] Okay. So somebody's staying here. It's now about like 3 or 4 like, say, 3, 30 in the afternoon.",
+        "[u1730 | 02:24:07.020-02:24:18.219 | DM] So who's going outside? Who's who's doing what? Let's get some action going."
+      ],
+      "cleaned_context_before": [
+        "[u1726 | 02:23:48.280-02:23:49.470 | DM] Not more.",
+        "[u1727 | 02:23:49.470-02:23:49.910 | DM] Yeah."
+      ],
+      "cleaned_context_after": [
+        "[u1729 | 02:23:57.730-02:24:06.300 | DM] Okay. So somebody's staying here. It's now about like 3 or 4 like, say, 3, 30 in the afternoon.",
+        "[u1730 | 02:24:07.020-02:24:18.219 | DM] So who's going outside? Who's who's doing what? Let's get some action going."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1753",
+      "importance": "incidental",
+      "group": "u1753",
+      "reason": "Password-confirmation wording garbled; verification clearly stated.",
+      "prepared_source_verbatim": "[u1753 | 02:25:56.490-02:26:00.695 | DM] He verified he would. He sent back appropriate services.",
+      "cleaned_wording": "[u1753 | 02:25:56.490-02:26:00.695 | DM] He verified he would. He sent back appropriate services.",
+      "prepared_source_spans": [
+        "services"
+      ],
+      "cleaned_spans": [
+        "services"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1751 | 02:25:53.260-02:25:54.189 | Riswynn] There you go.",
+        "[u1752 | 02:25:54.840-02:25:56.489 | Riswynn] Yeah. But yeah."
+      ],
+      "prepared_context_after": [
+        "[u1754 | 02:26:06.155-02:26:08.610 | DM] but.",
+        "[u1755 | 02:26:08.610-02:26:10.750 | Wellby] Far away. So, yeah, so we search right?"
+      ],
+      "cleaned_context_before": [
+        "[u1751 | 02:25:53.260-02:25:54.189 | Riswynn] There you go.",
+        "[u1752 | 02:25:54.840-02:25:56.489 | Riswynn] Yeah. But yeah."
+      ],
+      "cleaned_context_after": [
+        "[u1754 | 02:26:06.155-02:26:08.610 | DM] but.",
+        "[u1755 | 02:26:08.610-02:26:10.750 | Wellby] Far away. So, yeah, so we search right?"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1779",
+      "importance": "incidental",
+      "group": "u1779",
+      "reason": "Truncated released, completed by next speaker.",
+      "prepared_source_verbatim": "[u1779 | 02:29:35.490-02:29:36.520 | DM] Least.",
+      "cleaned_wording": "[u1779 | 02:29:35.490-02:29:36.520 | DM] Least.",
+      "prepared_source_spans": [
+        "Least."
+      ],
+      "cleaned_spans": [
+        "Least."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1777 | 02:29:31.840-02:29:35.030 | DM] murdered or imprisoned, and never.",
+        "[u1778 | 02:29:35.030-02:29:35.430 | Delwath] Now."
+      ],
+      "prepared_context_after": [
+        "[u1780 | 02:29:36.520-02:29:40.339 | Delwath] These guys were all disappeared, or murdered, or imprisoned, and never released.",
+        "[u1781 | 02:29:40.340-02:29:48.519 | DM] Yeah. And in fact, 3 of their names are on this martyrs of Apollyon sort of secret record."
+      ],
+      "cleaned_context_before": [
+        "[u1777 | 02:29:31.840-02:29:35.030 | DM] murdered or imprisoned, and never.",
+        "[u1778 | 02:29:35.030-02:29:35.430 | Delwath] Now."
+      ],
+      "cleaned_context_after": [
+        "[u1780 | 02:29:36.520-02:29:40.339 | Delwath] These guys were all disappeared, or murdered, or imprisoned, and never released.",
+        "[u1781 | 02:29:40.340-02:29:48.519 | DM] Yeah. And in fact, 3 of their names are on this martyrs of Apollyon sort of secret record."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1787",
+      "importance": "material",
+      "group": "u1787",
+      "reason": "Unresolved alternate name of the Radiant Path; no unattested Latin-like form adopted.",
+      "prepared_source_verbatim": "[u1787 | 02:30:44.630-02:30:55.040 | DM] yeah, and and we're we're sort of known as the radian path, or or auto, Lucas.",
+      "cleaned_wording": "[u1787 | 02:30:44.630-02:30:55.040 | DM] yeah, and and we're we're sort of known as the Radiant Path, or or [[auto, Lucas]].",
+      "prepared_source_spans": [
+        "auto, Lucas"
+      ],
+      "cleaned_spans": [
+        "auto, Lucas"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u1785 | 02:30:21.990-02:30:30.650 | DM] the dead were were part of what seemed to be an order of not just divine magic users, but other",
+        "[u1786 | 02:30:30.760-02:30:41.280 | DM] one of these these secret societies of drankor that was devoted to the father, I think."
+      ],
+      "prepared_context_after": [
+        "[u1788 | 02:30:55.710-02:30:58.319 | Delwath] Wait. Didn't we hear that name before.",
+        "[u1789 | 02:30:58.320-02:31:04.339 | DM] No, you heard the Pyro something."
+      ],
+      "cleaned_context_before": [
+        "[u1785 | 02:30:21.990-02:30:30.650 | DM] the dead were were part of what seemed to be an order of not just divine magic users, but other",
+        "[u1786 | 02:30:30.760-02:30:41.280 | DM] one of these these secret societies of Drankor that was devoted to the father, I think."
+      ],
+      "cleaned_context_after": [
+        "[u1788 | 02:30:55.710-02:30:58.319 | Delwath] Wait. Didn't we hear that name before.",
+        "[u1789 | 02:30:58.320-02:31:04.339 | DM] No, you heard the Pyro something."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1789",
+      "importance": "incidental",
+      "group": "u1789",
+      "reason": "Informal incomplete other-society reference.",
+      "prepared_source_verbatim": "[u1789 | 02:30:58.320-02:31:04.339 | DM] No, you heard the Pyro something.",
+      "cleaned_wording": "[u1789 | 02:30:58.320-02:31:04.339 | DM] No, you heard the Pyro something.",
+      "prepared_source_spans": [
+        "Pyro something"
+      ],
+      "cleaned_spans": [
+        "Pyro something"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1787 | 02:30:44.630-02:30:55.040 | DM] yeah, and and we're we're sort of known as the radian path, or or auto, Lucas.",
+        "[u1788 | 02:30:55.710-02:30:58.319 | Delwath] Wait. Didn't we hear that name before."
+      ],
+      "prepared_context_after": [
+        "[u1790 | 02:31:04.340-02:31:05.410 | Delwath] Now, yeah. Okay.",
+        "[u1791 | 02:31:05.440-02:31:06.893 | DM] Prior one."
+      ],
+      "cleaned_context_before": [
+        "[u1787 | 02:30:44.630-02:30:55.040 | DM] yeah, and and we're we're sort of known as the Radiant Path, or or [[auto, Lucas]].",
+        "[u1788 | 02:30:55.710-02:30:58.319 | Delwath] Wait. Didn't we hear that name before."
+      ],
+      "cleaned_context_after": [
+        "[u1790 | 02:31:04.340-02:31:05.410 | Delwath] Now, yeah. Okay.",
+        "[u1791 | 02:31:05.440-02:31:06.893 | DM] Prior one."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1791",
+      "importance": "incidental",
+      "group": "u1791",
+      "reason": "Incomplete other-society reference.",
+      "prepared_source_verbatim": "[u1791 | 02:31:05.440-02:31:06.893 | DM] Prior one.",
+      "cleaned_wording": "[u1791 | 02:31:05.440-02:31:06.893 | DM] Prior one.",
+      "prepared_source_spans": [
+        "Prior one."
+      ],
+      "cleaned_spans": [
+        "Prior one."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1789 | 02:30:58.320-02:31:04.339 | DM] No, you heard the Pyro something.",
+        "[u1790 | 02:31:04.340-02:31:05.410 | Delwath] Now, yeah. Okay."
+      ],
+      "prepared_context_after": [
+        "[u1792 | 02:31:08.490-02:31:16.960 | DM] So your suspicion is that the the the martyrs of Polyon, would be memorialized somewhere in the",
+        "[u1793 | 02:31:17.180-02:31:21.190 | DM] chapel of the father, that's all."
+      ],
+      "cleaned_context_before": [
+        "[u1789 | 02:30:58.320-02:31:04.339 | DM] No, you heard the Pyro something.",
+        "[u1790 | 02:31:04.340-02:31:05.410 | Delwath] Now, yeah. Okay."
+      ],
+      "cleaned_context_after": [
+        "[u1792 | 02:31:08.490-02:31:16.960 | DM] So your suspicion is that the the the martyrs of Apollyon, would be memorialized somewhere in the",
+        "[u1793 | 02:31:17.180-02:31:21.190 | DM] chapel of the father, that's all."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1812",
+      "importance": "incidental",
+      "group": "u1812",
+      "reason": "Brief interjection.",
+      "prepared_source_verbatim": "[u1812 | 02:33:05.880-02:33:12.540 | DM] A you see.",
+      "cleaned_wording": "[u1812 | 02:33:05.880-02:33:12.540 | DM] A you see.",
+      "prepared_source_spans": [
+        "A you see."
+      ],
+      "cleaned_spans": [
+        "A you see."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1810 | 02:32:51.470-02:32:56.750 | Riswynn] We have left on our heroes feast about 2 h.",
+        "[u1811 | 02:32:57.070-02:32:58.279 | DM] 3 h."
+      ],
+      "prepared_context_after": [
+        "[u1813 | 02:33:12.700-02:33:18.599 | DM] So other things that you find I'm so sorry before I come back to what we'll be searching for",
+        "[u1814 | 02:33:18.840-02:33:22.450 | DM] what's what's everybody else doing in the meantime?"
+      ],
+      "cleaned_context_before": [
+        "[u1810 | 02:32:51.470-02:32:56.750 | Riswynn] We have left on our Heroes' Feast about 2 h.",
+        "[u1811 | 02:32:57.070-02:32:58.279 | DM] 3 h."
+      ],
+      "cleaned_context_after": [
+        "[u1813 | 02:33:12.700-02:33:18.599 | DM] So other things that you find I'm so sorry before I come back to what Wellby's searching for",
+        "[u1814 | 02:33:18.840-02:33:22.450 | DM] what's what's everybody else doing in the meantime?"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1815",
+      "importance": "incidental",
+      "group": "u1815",
+      "reason": "Brief interjection.",
+      "prepared_source_verbatim": "[u1815 | 02:33:24.060-02:33:30.480 | DM] Oh, see E.",
+      "cleaned_wording": "[u1815 | 02:33:24.060-02:33:30.480 | DM] Oh, see E.",
+      "prepared_source_spans": [
+        "Oh, see E."
+      ],
+      "cleaned_spans": [
+        "Oh, see E."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1813 | 02:33:12.700-02:33:18.599 | DM] So other things that you find I'm so sorry before I come back to what we'll be searching for",
+        "[u1814 | 02:33:18.840-02:33:22.450 | DM] what's what's everybody else doing in the meantime?"
+      ],
+      "prepared_context_after": [
+        "[u1816 | 02:33:37.970-02:33:40.092 | Delwath] I don't know.",
+        "[u1817 | 02:33:42.974-02:33:44.402 | Delwath] That's a good question."
+      ],
+      "cleaned_context_before": [
+        "[u1813 | 02:33:12.700-02:33:18.599 | DM] So other things that you find I'm so sorry before I come back to what Wellby's searching for",
+        "[u1814 | 02:33:18.840-02:33:22.450 | DM] what's what's everybody else doing in the meantime?"
+      ],
+      "cleaned_context_after": [
+        "[u1816 | 02:33:37.970-02:33:40.092 | Delwath] I don't know.",
+        "[u1817 | 02:33:42.974-02:33:44.402 | Delwath] That's a good question."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1823",
+      "importance": "incidental",
+      "group": "u1823",
+      "reason": "Unclear readable/trinkets phrasing in question; DM says to look and later masks are recovered.",
+      "prepared_source_verbatim": "[u1823 | 02:34:09.480-02:34:21.150 | Riswynn] or memorialized here? Did it give information about like whether there's readable trinkets, type memorials.",
+      "cleaned_wording": "[u1823 | 02:34:09.480-02:34:21.150 | Riswynn] or memorialized here? Did it give information about like whether there's readable trinkets, type memorials.",
+      "prepared_source_spans": [
+        "or memorialized here? Did it give information about like whether there's readable trinkets, type memorials."
+      ],
+      "cleaned_spans": [
+        "or memorialized here? Did it give information about like whether there's readable trinkets, type memorials."
+      ],
+      "span_precision": "whole unit: uncertainty boundary not localized",
+      "prepared_context_before": [
+        "[u1821 | 02:33:55.730-02:34:02.349 | Riswynn] Well as soon as some of us went with him, because it was a multiple investigative thing.",
+        "[u1822 | 02:34:02.550-02:34:08.509 | Riswynn] And then, as soon as we found some information that some of them were buried here"
+      ],
+      "prepared_context_after": [
+        "[u1824 | 02:34:21.150-02:34:24.419 | DM] You have to go search, you'd have to go look in the.",
+        "[u1825 | 02:34:24.420-02:34:25.090 | Riswynn] The father."
+      ],
+      "cleaned_context_before": [
+        "[u1821 | 02:33:55.730-02:34:02.349 | Riswynn] Well as soon as some of us went with him, because it was a multiple investigative thing.",
+        "[u1822 | 02:34:02.550-02:34:08.509 | Riswynn] And then, as soon as we found some information that some of them were buried here"
+      ],
+      "cleaned_context_after": [
+        "[u1824 | 02:34:21.150-02:34:24.419 | DM] You have to go search, you'd have to go look in the.",
+        "[u1825 | 02:34:24.420-02:34:25.090 | Riswynn] The father."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1836",
+      "importance": "incidental",
+      "group": "u1836",
+      "reason": "Garbled correction immediately after explicit four-name count.",
+      "prepared_source_verbatim": "[u1836 | 02:35:18.990-02:35:22.759 | DM] That's 3 weeks in the book. Sorry.",
+      "cleaned_wording": "[u1836 | 02:35:18.990-02:35:22.759 | DM] That's 3 weeks in the book. Sorry.",
+      "prepared_source_spans": [
+        "3 weeks"
+      ],
+      "cleaned_spans": [
+        "3 weeks"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1834 | 02:35:00.290-02:35:16.219 | DM] 4 names listed in the Book of Martyrs, 3 humans, and one elf. You have enough in the paragraph to find her house or find her neighborhood, but she was not buried in that. She was not memorialized in the Temple because she didn't. She's an elf.",
+        "[u1835 | 02:35:16.220-02:35:16.820 | Delwath] Right."
+      ],
+      "prepared_context_after": [
+        "[u1837 | 02:35:22.760-02:35:26.420 | Riswynn] So like, I said. Some of us are already gone to the.",
+        "[u1838 | 02:35:27.050-02:35:36.550 | Riswynn] So we're looking for tokens there, if anything was buried. But then we'll plan an expedition before our heroes. Feast runs out to go to the north"
+      ],
+      "cleaned_context_before": [
+        "[u1834 | 02:35:00.290-02:35:16.219 | DM] 4 names listed in the Book of Martyrs, 3 humans, and one elf. You have enough in the paragraph to find her house or find her neighborhood, but she was not buried in that. She was not memorialized in the Temple because she didn't. She's an elf.",
+        "[u1835 | 02:35:16.220-02:35:16.820 | Delwath] Right."
+      ],
+      "cleaned_context_after": [
+        "[u1837 | 02:35:22.760-02:35:26.420 | Riswynn] So like, I said. Some of us are already gone to the.",
+        "[u1838 | 02:35:27.050-02:35:36.550 | Riswynn] So we're looking for tokens there, if anything was buried. But then we'll plan an expedition before our Heroes' Feast runs out to go to the north"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1860",
+      "importance": "incidental",
+      "group": "u1860",
+      "reason": "Brief interjection.",
+      "prepared_source_verbatim": "[u1860 | 02:37:59.980-02:38:01.600 | Delwath] bound.",
+      "cleaned_wording": "[u1860 | 02:37:59.980-02:38:01.600 | Delwath] bound.",
+      "prepared_source_spans": [
+        "bound."
+      ],
+      "cleaned_spans": [
+        "bound."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1858 | 02:37:45.890-02:37:50.020 | DM] One more human, one more human who's not listed in the Book of Martyrs.",
+        "[u1859 | 02:37:52.280-02:37:58.549 | Delwath] The halfling, the Elf, the paranor, and 4 humans. Yeah, that's 7. Okay. I was somehow adding 3 and 3 and getting 7"
+      ],
+      "prepared_context_after": [
+        "[u1861 | 02:38:09.200-02:38:10.899 | Delwath] Eric and Kong are fast asleep.",
+        "[u1862 | 02:38:12.110-02:38:12.880 | Riswynn] Yep."
+      ],
+      "cleaned_context_before": [
+        "[u1858 | 02:37:45.890-02:37:50.020 | DM] One more human, one more human who's not listed in the Book of Martyrs.",
+        "[u1859 | 02:37:52.280-02:37:58.549 | Delwath] The halfling, the Elf, the Peronar, and 4 humans. Yeah, that's 7. Okay. I was somehow adding 3 and 3 and getting 7"
+      ],
+      "cleaned_context_after": [
+        "[u1861 | 02:38:09.200-02:38:10.899 | Delwath] Eric and Kong are fast asleep.",
+        "[u1862 | 02:38:12.110-02:38:12.880 | Riswynn] Yep."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1864",
+      "importance": "incidental",
+      "group": "u1864",
+      "reason": "Brief joking reply.",
+      "prepared_source_verbatim": "[u1864 | 02:38:15.440-02:38:16.499 | DM] I don't lie.",
+      "cleaned_wording": "[u1864 | 02:38:15.440-02:38:16.499 | DM] I don't lie.",
+      "prepared_source_spans": [
+        "I don't lie."
+      ],
+      "cleaned_spans": [
+        "I don't lie."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1862 | 02:38:12.110-02:38:12.880 | Riswynn] Yep.",
+        "[u1863 | 02:38:12.880-02:38:14.029 | Kenzo] No, we're not."
+      ],
+      "prepared_context_after": [
+        "[u1865 | 02:38:16.500-02:38:18.210 | Kenzo] We were communicating with each other.",
+        "[u1866 | 02:38:18.210-02:38:19.409 | DM] What just happened?"
+      ],
+      "cleaned_context_before": [
+        "[u1862 | 02:38:12.110-02:38:12.880 | Riswynn] Yep.",
+        "[u1863 | 02:38:12.880-02:38:14.029 | Kenzo] No, we're not."
+      ],
+      "cleaned_context_after": [
+        "[u1865 | 02:38:16.500-02:38:18.210 | Kenzo] We were communicating with each other.",
+        "[u1866 | 02:38:18.210-02:38:19.409 | DM] What just happened?"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1917",
+      "importance": "incidental",
+      "group": "u1917",
+      "reason": "Unclear acknowledgement after tavern lead.",
+      "prepared_source_verbatim": "[u1917 | 02:45:14.590-02:45:17.209 | Wellby] I saw him in.",
+      "cleaned_wording": "[u1917 | 02:45:14.590-02:45:17.209 | Wellby] I saw him in.",
+      "prepared_source_spans": [
+        "I saw him in."
+      ],
+      "cleaned_spans": [
+        "I saw him in."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1915 | 02:44:39.500-02:44:49.320 | DM] You can see. You can sort of see in your memories like glimpses of the people that came through, and",
+        "[u1916 | 02:44:49.970-02:45:11.820 | DM] then the sort of darkness as the tavern closed and was destroyed as Serafina vanished. And and you you could. I mean this, you see enough. You get enough sort of context that you could find the tavern. It's it's near the docks."
+      ],
+      "prepared_context_after": [
+        "[u1918 | 02:45:17.360-02:45:18.949 | Delwath] So one to go.",
+        "[u1919 | 02:45:20.050-02:45:22.947 | DM] Yeah, one human and one partner."
+      ],
+      "cleaned_context_before": [
+        "[u1915 | 02:44:39.500-02:44:49.320 | DM] You can see. You can sort of see in your memories like glimpses of the people that came through, and",
+        "[u1916 | 02:44:49.970-02:45:11.820 | DM] then the sort of darkness as the tavern closed and was destroyed as Seraphina vanished. And and you you could. I mean this, you see enough. You get enough sort of context that you could find the tavern. It's it's near the docks."
+      ],
+      "cleaned_context_after": [
+        "[u1918 | 02:45:17.360-02:45:18.949 | Delwath] So one to go.",
+        "[u1919 | 02:45:20.050-02:45:22.947 | DM] Yeah, one human and one Peronar."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1928",
+      "importance": "material",
+      "group": "u1928",
+      "reason": "Garbled introduction of the foreign human victim's name. Later Kemet instances are corrected to supported Khemut; this introduction remains unresolved.",
+      "prepared_source_verbatim": "[u1928 | 02:45:57.911-02:46:07.216 | DM] their name. Their name is not very it's",
+      "cleaned_wording": "[u1928 | 02:45:57.911-02:46:07.216 | DM] their name. Their name is [[not very it's]]",
+      "prepared_source_spans": [
+        "not very it's"
+      ],
+      "cleaned_spans": [
+        "not very it's"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u1926 | 02:45:41.652-02:45:48.899 | DM] There is there is one human. Now I'm making up all the names. So the human is",
+        "[u1927 | 02:45:49.541-02:45:56.418 | DM] so the one thing about the human, the other the last human who's not in the Book of Martyrs?"
+      ],
+      "prepared_context_after": [
+        "[u1929 | 02:46:15.130-02:46:24.810 | DM] which is, which is definitely not. I mean, that's not. That's not a typical drankorian name. And of course Apollian has not recorded",
+        "[u1930 | 02:46:25.080-02:46:26.999 | DM] details about these people."
+      ],
+      "cleaned_context_before": [
+        "[u1926 | 02:45:41.652-02:45:48.899 | DM] There is there is one human. Now I'm making up all the names. So the human is",
+        "[u1927 | 02:45:49.541-02:45:56.418 | DM] so the one thing about the human, the other the last human who's not in the Book of Martyrs?"
+      ],
+      "cleaned_context_after": [
+        "[u1929 | 02:46:15.130-02:46:24.810 | DM] which is, which is definitely not. I mean, that's not. That's not a typical Drankorian name. And of course Apollyon has not recorded",
+        "[u1930 | 02:46:25.080-02:46:26.999 | DM] details about these people."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1945",
+      "importance": "incidental",
+      "group": "u1945",
+      "reason": "Garbled short phrase after docks/tavern lead; approach clear.",
+      "prepared_source_verbatim": "[u1945 | 02:48:47.050-02:48:50.860 | DM] Gross are close.",
+      "cleaned_wording": "[u1945 | 02:48:47.050-02:48:50.860 | DM] Gross are close.",
+      "prepared_source_spans": [
+        "Gross are close."
+      ],
+      "cleaned_spans": [
+        "Gross are close."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1943 | 02:48:33.280-02:48:35.899 | DM] anywhere where you can find a port or",
+        "[u1944 | 02:48:35.950-02:48:46.989 | DM] places where ships docked, you might be able to find traces of this person. Perhaps they stayed at the laughing wave."
+      ],
+      "prepared_context_after": [
+        "[u1946 | 02:48:52.540-02:48:56.380 | Delwath] Oh!",
+        "[u1947 | 02:48:56.720-02:49:00.800 | Riswynn] I mean, we're going towards ducks, anyway, for the laughing wave. So."
+      ],
+      "cleaned_context_before": [
+        "[u1943 | 02:48:33.280-02:48:35.899 | DM] anywhere where you can find a port or",
+        "[u1944 | 02:48:35.950-02:48:46.989 | DM] places where ships docked, you might be able to find traces of this person. Perhaps they stayed at the Laughing Wave."
+      ],
+      "cleaned_context_after": [
+        "[u1946 | 02:48:52.540-02:48:56.380 | Delwath] Oh!",
+        "[u1947 | 02:48:56.720-02:49:00.800 | Riswynn] I mean, we're going towards docks, anyway, for the Laughing Wave. So."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1955",
+      "importance": "incidental",
+      "group": "u1955",
+      "reason": "Garbled lead-in to addressing Delwath.",
+      "prepared_source_verbatim": "[u1955 | 02:49:52.080-02:49:53.279 | Kenzo] I'm in Darworth now.",
+      "cleaned_wording": "[u1955 | 02:49:52.080-02:49:53.279 | Kenzo] I'm in Delwath now.",
+      "prepared_source_spans": [
+        "I'm in"
+      ],
+      "cleaned_spans": [
+        "I'm in"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1953 | 02:49:46.280-02:49:47.490 | Delwath] Paranore.",
+        "[u1954 | 02:49:48.140-02:49:52.080 | Riswynn] Here, I know so."
+      ],
+      "prepared_context_after": [
+        "[u1956 | 02:49:55.720-02:50:00.639 | Delwath] Like all all elves, know each other. Really, you play that card.",
+        "[u1957 | 02:50:00.640-02:50:02.560 | Kenzo] All halflings know each other."
+      ],
+      "cleaned_context_before": [
+        "[u1953 | 02:49:46.280-02:49:47.490 | Delwath] Peronar.",
+        "[u1954 | 02:49:48.140-02:49:52.080 | Riswynn] Peronar so."
+      ],
+      "cleaned_context_after": [
+        "[u1956 | 02:49:55.720-02:50:00.639 | Delwath] Like all all elves, know each other. Really, you play that card.",
+        "[u1957 | 02:50:00.640-02:50:02.560 | Kenzo] All halflings know each other."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1958",
+      "importance": "incidental",
+      "group": "u1958",
+      "reason": "Table joke fragment.",
+      "prepared_source_verbatim": "[u1958 | 02:50:05.900-02:50:06.500 | Riswynn] It's crossed.",
+      "cleaned_wording": "[u1958 | 02:50:05.900-02:50:06.500 | Riswynn] It's crossed.",
+      "prepared_source_spans": [
+        "It's crossed."
+      ],
+      "cleaned_spans": [
+        "It's crossed."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1956 | 02:49:55.720-02:50:00.639 | Delwath] Like all all elves, know each other. Really, you play that card.",
+        "[u1957 | 02:50:00.640-02:50:02.560 | Kenzo] All halflings know each other."
+      ],
+      "prepared_context_after": [
+        "[u1959 | 02:50:06.500-02:50:07.510 | Riswynn] Simon's face.",
+        "[u1960 | 02:50:07.520-02:50:12.739 | Kenzo] It literally just happened like, just."
+      ],
+      "cleaned_context_before": [
+        "[u1956 | 02:49:55.720-02:50:00.639 | Delwath] Like all all elves, know each other. Really, you play that card.",
+        "[u1957 | 02:50:00.640-02:50:02.560 | Kenzo] All halflings know each other."
+      ],
+      "cleaned_context_after": [
+        "[u1959 | 02:50:06.500-02:50:07.510 | Riswynn] Simon's face.",
+        "[u1960 | 02:50:07.520-02:50:12.739 | Kenzo] It literally just happened like, just."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1959",
+      "importance": "incidental",
+      "group": "u1959",
+      "reason": "Table joke fragment.",
+      "prepared_source_verbatim": "[u1959 | 02:50:06.500-02:50:07.510 | Riswynn] Simon's face.",
+      "cleaned_wording": "[u1959 | 02:50:06.500-02:50:07.510 | Riswynn] Simon's face.",
+      "prepared_source_spans": [
+        "Simon's face."
+      ],
+      "cleaned_spans": [
+        "Simon's face."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1957 | 02:50:00.640-02:50:02.560 | Kenzo] All halflings know each other.",
+        "[u1958 | 02:50:05.900-02:50:06.500 | Riswynn] It's crossed."
+      ],
+      "prepared_context_after": [
+        "[u1960 | 02:50:07.520-02:50:12.739 | Kenzo] It literally just happened like, just.",
+        "[u1961 | 02:50:13.033-02:50:17.180 | Kenzo] You're awesome, superior, and magical, and shit. You don't all know each other like"
+      ],
+      "cleaned_context_before": [
+        "[u1957 | 02:50:00.640-02:50:02.560 | Kenzo] All halflings know each other.",
+        "[u1958 | 02:50:05.900-02:50:06.500 | Riswynn] It's crossed."
+      ],
+      "cleaned_context_after": [
+        "[u1960 | 02:50:07.520-02:50:12.739 | Kenzo] It literally just happened like, just.",
+        "[u1961 | 02:50:13.033-02:50:17.180 | Kenzo] You're awesome, superior, and magical, and shit. You don't all know each other like"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1981",
+      "importance": "incidental",
+      "group": "u1981",
+      "reason": "Joking grape fragment.",
+      "prepared_source_verbatim": "[u1981 | 02:51:59.660-02:52:00.070 | Kenzo] and great.",
+      "cleaned_wording": "[u1981 | 02:51:59.660-02:52:00.070 | Kenzo] and great.",
+      "prepared_source_spans": [
+        "and great."
+      ],
+      "cleaned_spans": [
+        "and great."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u1979 | 02:51:46.910-02:51:51.937 | Delwath] He? He? Yep, he's very purple. Well, not anymore. But.",
+        "[u1980 | 02:51:52.440-02:51:58.039 | Kenzo] Eric, I think you turned into a grape from Willy Wonka and the chocolate. Did you eat like a"
+      ],
+      "prepared_context_after": [
+        "[u1982 | 02:52:00.070-02:52:02.280 | Seeker] Spell, dispel, grape.",
+        "[u1983 | 02:52:02.280-02:52:03.950 | DM] The spell, grape."
+      ],
+      "cleaned_context_before": [
+        "[u1979 | 02:51:46.910-02:51:51.937 | Delwath] He? He? Yep, he's very purple. Well, not anymore. But.",
+        "[u1980 | 02:51:52.440-02:51:58.039 | Kenzo] Eric, I think you turned into a grape from Willy Wonka and the chocolate. Did you eat like a"
+      ],
+      "cleaned_context_after": [
+        "[u1982 | 02:52:00.070-02:52:02.280 | Seeker] Spell, dispel, grape.",
+        "[u1983 | 02:52:02.280-02:52:03.950 | DM] The spell, grape."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u1992",
+      "importance": "incidental",
+      "group": "u1992",
+      "reason": "Garbled recap fragment; victim/phylactery context is clear.",
+      "prepared_source_verbatim": "[u1992 | 02:52:32.130-02:52:35.350 | Delwath] Epic Apollyon's victims. Right, the Guardian.",
+      "cleaned_wording": "[u1992 | 02:52:32.130-02:52:35.350 | Delwath] Epic Apollyon's victims. Right, the Guardian.",
+      "prepared_source_spans": [
+        "Epic Apollyon's victims. Right, the Guardian."
+      ],
+      "cleaned_spans": [
+        "Epic Apollyon's victims. Right, the Guardian."
+      ],
+      "span_precision": "whole unit: uncertainty boundary not localized",
+      "prepared_context_before": [
+        "[u1990 | 02:52:24.410-02:52:27.290 | Delwath] 3 of them are humans.",
+        "[u1991 | 02:52:28.170-02:52:31.819 | Delwath] 3 of them are really not so much less souls, victims."
+      ],
+      "prepared_context_after": [
+        "[u1993 | 02:52:35.350-02:52:35.690 | Seeker] In, the.",
+        "[u1994 | 02:52:35.690-02:52:42.849 | Delwath] They're in the factory. Yeah, 3 of them we rescue. We identified as martyrs."
+      ],
+      "cleaned_context_before": [
+        "[u1990 | 02:52:24.410-02:52:27.290 | Delwath] 3 of them are humans.",
+        "[u1991 | 02:52:28.170-02:52:31.819 | Delwath] 3 of them are really not so much lost souls, victims."
+      ],
+      "cleaned_context_after": [
+        "[u1993 | 02:52:35.350-02:52:35.690 | Seeker] In, the.",
+        "[u1994 | 02:52:35.690-02:52:42.849 | Delwath] They're in the phylactery. Yeah, 3 of them we rescue. We identified as martyrs."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2027",
+      "importance": "incidental",
+      "group": "u2027",
+      "reason": "Short interjection.",
+      "prepared_source_verbatim": "[u2027 | 02:56:12.340-02:56:12.910 | Delwath] Tom.",
+      "cleaned_wording": "[u2027 | 02:56:12.340-02:56:12.910 | Delwath] Tom.",
+      "prepared_source_spans": [
+        "Tom."
+      ],
+      "cleaned_spans": [
+        "Tom."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2025 | 02:56:07.370-02:56:08.338 | Delwath] Or I don't know.",
+        "[u2026 | 02:56:11.340-02:56:12.210 | Kenzo] Cool."
+      ],
+      "prepared_context_after": [
+        "[u2028 | 02:56:12.910-02:56:15.309 | Delwath] I'm gonna do it. I'm gonna contact on the plane.",
+        "[u2029 | 02:56:15.840-02:56:19.459 | Delwath] I get 5 questions I may ask ask about Kemet, too."
+      ],
+      "cleaned_context_before": [
+        "[u2025 | 02:56:07.370-02:56:08.338 | Delwath] Or I don't know.",
+        "[u2026 | 02:56:11.340-02:56:12.210 | Kenzo] Cool."
+      ],
+      "cleaned_context_after": [
+        "[u2028 | 02:56:12.910-02:56:15.309 | Delwath] I'm gonna do it. I'm gonna Contact Other Plane.",
+        "[u2029 | 02:56:15.840-02:56:19.459 | Delwath] I get 5 questions I may ask ask about Khemut, too."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2061",
+      "importance": "incidental",
+      "group": "u2061",
+      "reason": "Undead joke/abandoned remark; no action.",
+      "prepared_source_verbatim": "[u2061 | 02:59:06.420-02:59:10.390 | Riswynn] I'm quite undead. But somebody I think I don't know. I it's",
+      "cleaned_wording": "[u2061 | 02:59:06.420-02:59:10.390 | Riswynn] I'm quite undead. But somebody I think I don't know. I it's",
+      "prepared_source_spans": [
+        "I'm quite undead. But somebody I think I don't know. I it's"
+      ],
+      "cleaned_spans": [
+        "I'm quite undead. But somebody I think I don't know. I it's"
+      ],
+      "span_precision": "whole unit: uncertainty boundary not localized",
+      "prepared_context_before": [
+        "[u2059 | 02:58:57.370-02:58:59.250 | Delwath] But we",
+        "[u2060 | 02:58:59.250-02:59:06.419 | Delwath] yeah, just like like walks outside and smiles, and then all the end dead die right? It's like."
+      ],
+      "prepared_context_after": [
+        "[u2062 | 02:59:10.570-02:59:12.980 | Riswynn] what do we strategically feel about?",
+        "[u2063 | 02:59:13.520-02:59:26.789 | Riswynn] I think we need to leave the secret magical thing that we probably shouldn't be talking about out loud, because we could get scryed. Sort of well, I guess. No, this is hollow. Can you scry."
+      ],
+      "cleaned_context_before": [
+        "[u2059 | 02:58:57.370-02:58:59.250 | Delwath] But we",
+        "[u2060 | 02:58:59.250-02:59:06.419 | Delwath] yeah, just like like walks outside and smiles, and then all the undead die right? It's like."
+      ],
+      "cleaned_context_after": [
+        "[u2062 | 02:59:10.570-02:59:12.980 | Riswynn] what do we strategically feel about?",
+        "[u2063 | 02:59:13.520-02:59:26.789 | Riswynn] I think we need to leave the secret magical thing that we probably shouldn't be talking about out loud, because we could get scryed. Sort of well, I guess. No, this is hallowed. Can you scry."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2121",
+      "importance": "incidental",
+      "group": "u2121",
+      "reason": "Short unclear map fragment.",
+      "prepared_source_verbatim": "[u2121 | 03:03:26.890-03:03:27.800 | Riswynn] 34.",
+      "cleaned_wording": "[u2121 | 03:03:26.890-03:03:27.800 | Riswynn] 34.",
+      "prepared_source_spans": [
+        "34."
+      ],
+      "cleaned_spans": [
+        "34."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2119 | 03:03:10.750-03:03:14.739 | Delwath] Let's go to the Elven House and then regroup.",
+        "[u2120 | 03:03:14.740-03:03:26.419 | Riswynn] All right. So Seeker stays with the temple just to guard the temple, and the rest of us go to the Elven House"
+      ],
+      "prepared_context_after": [
+        "[u2122 | 03:03:27.800-03:03:30.700 | Delwath] Where is the Elven House compared to the Temple? Again?",
+        "[u2123 | 03:03:31.700-03:03:34.280 | Delwath] Okay, the temple is the big Domi thing."
+      ],
+      "cleaned_context_before": [
+        "[u2119 | 03:03:10.750-03:03:14.739 | Delwath] Let's go to the Elven House and then regroup.",
+        "[u2120 | 03:03:14.740-03:03:26.419 | Riswynn] All right. So Seeker stays with the temple just to guard the temple, and the rest of us go to the Elven House"
+      ],
+      "cleaned_context_after": [
+        "[u2122 | 03:03:27.800-03:03:30.700 | Delwath] Where is the Elven House compared to the Temple? Again?",
+        "[u2123 | 03:03:31.700-03:03:34.280 | Delwath] Okay, the temple is the big domey thing."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2133",
+      "importance": "incidental",
+      "group": "u2133",
+      "reason": "Map/image chatter interleaved with narration.",
+      "prepared_source_verbatim": "[u2133 | 03:04:32.430-03:04:41.039 | DM] terrified as you oops. That's a little terrifying. Oh, that's pretty good. As you",
+      "cleaned_wording": "[u2133 | 03:04:32.430-03:04:41.039 | DM] terrified as you oops. That's a little terrifying. Oh, that's pretty good. As you",
+      "prepared_source_spans": [
+        "terrified as you oops. That's a little terrifying. Oh, that's pretty good. As you"
+      ],
+      "cleaned_spans": [
+        "terrified as you oops. That's a little terrifying. Oh, that's pretty good. As you"
+      ],
+      "span_precision": "whole unit: uncertainty boundary not localized",
+      "prepared_context_before": [
+        "[u2131 | 03:04:08.280-03:04:16.390 | DM] Okay. So you leave the temple.",
+        "[u2132 | 03:04:18.360-03:04:31.320 | DM] The 100 or 200 so feet of your journey, you know, are relatively, you know, relatively not"
+      ],
+      "prepared_context_after": [
+        "[u2134 | 03:04:43.534-03:04:52.750 | DM] begin to slowly sort of creep to the north through the forest through the the ruins. Sort of following this road, heading sort of vaguely northwest",
+        "[u2135 | 03:04:55.580-03:04:56.830 | DM] you reach."
+      ],
+      "cleaned_context_before": [
+        "[u2131 | 03:04:08.280-03:04:16.390 | DM] Okay. So you leave the temple.",
+        "[u2132 | 03:04:18.360-03:04:31.320 | DM] The 100 or 200 so feet of your journey, you know, are relatively, you know, relatively not"
+      ],
+      "cleaned_context_after": [
+        "[u2134 | 03:04:43.534-03:04:52.750 | DM] begin to slowly sort of creep to the north through the forest through the the ruins. Sort of following this road, heading sort of vaguely northwest",
+        "[u2135 | 03:04:55.580-03:04:56.830 | DM] you reach."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2160",
+      "importance": "incidental",
+      "group": "u2160",
+      "reason": "False start root in description of courtyard; location and ruins clear.",
+      "prepared_source_verbatim": "[u2160 | 03:07:21.970-03:07:31.089 | DM] and they're sort of growing through what's what's root like the ruined courtyards of what? What used to be like a fairly big sort of",
+      "cleaned_wording": "[u2160 | 03:07:21.970-03:07:31.089 | DM] and they're sort of growing through what's what's root like the ruined courtyards of what? What used to be like a fairly big sort of",
+      "prepared_source_spans": [
+        "root"
+      ],
+      "cleaned_spans": [
+        "root"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2158 | 03:07:08.370-03:07:15.240 | DM] I mean, as you cross this road into this sort of more open area. You see what you're looking at ahead of. You are sort of",
+        "[u2159 | 03:07:17.800-03:07:21.088 | DM] So there's there's these big jungle trees growing."
+      ],
+      "prepared_context_after": [
+        "[u2161 | 03:07:31.230-03:07:33.579 | DM] apartment block or something, but it's",
+        "[u2162 | 03:07:33.590-03:07:36.529 | DM] the art, I mean. It's all. Nothing is above"
+      ],
+      "cleaned_context_before": [
+        "[u2158 | 03:07:08.370-03:07:15.240 | DM] I mean, as you cross this road into this sort of more open area. You see what you're looking at ahead of. You are sort of",
+        "[u2159 | 03:07:17.800-03:07:21.088 | DM] So there's there's these big jungle trees growing."
+      ],
+      "cleaned_context_after": [
+        "[u2161 | 03:07:31.230-03:07:33.579 | DM] apartment block or something, but it's",
+        "[u2162 | 03:07:33.590-03:07:36.529 | DM] the art, I mean. It's all. Nothing is above"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2166",
+      "importance": "material",
+      "group": "elven-victim-name",
+      "reason": "Uncertain elven victim name, variant volanthi; group with u2443.",
+      "prepared_source_verbatim": "[u2166 | 03:08:00.730-03:08:10.030 | DM] echo. Strongest impression of this of this elf volanthi",
+      "cleaned_wording": "[u2166 | 03:08:00.730-03:08:10.030 | DM] echo. Strongest impression of this of this elf [[volanthi]]",
+      "prepared_source_spans": [
+        "volanthi"
+      ],
+      "cleaned_spans": [
+        "volanthi"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u2164 | 03:07:41.070-03:07:48.539 | DM] what it seems to be, I mean, is this sort of very twisting sort of elegant curvy, almost wavy architecture.",
+        "[u2165 | 03:07:50.270-03:08:00.699 | DM] And Kenza, you you sense. You can feel now if you concentrate the the strongest sort of"
+      ],
+      "prepared_context_after": [
+        "[u2167 | 03:08:10.820-03:08:14.019 | DM] is in the courtyard of this building just ahead of you.",
+        "[u2168 | 03:08:19.880-03:08:23.959 | DM] So you step forward into the courtyard."
+      ],
+      "cleaned_context_before": [
+        "[u2164 | 03:07:41.070-03:07:48.539 | DM] what it seems to be, I mean, is this sort of very twisting sort of elegant curvy, almost wavy architecture.",
+        "[u2165 | 03:07:50.270-03:08:00.699 | DM] And Kenzo, you you sense. You can feel now if you concentrate the the strongest sort of"
+      ],
+      "cleaned_context_after": [
+        "[u2167 | 03:08:10.820-03:08:14.019 | DM] is in the courtyard of this building just ahead of you.",
+        "[u2168 | 03:08:19.880-03:08:23.959 | DM] So you step forward into the courtyard."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2175",
+      "importance": "incidental",
+      "group": "u2175",
+      "reason": "Short overlap about marching order; positioning otherwise explicit.",
+      "prepared_source_verbatim": "[u2175 | 03:08:47.440-03:08:47.980 | Wellby] That way.",
+      "cleaned_wording": "[u2175 | 03:08:47.440-03:08:47.980 | Wellby] That way.",
+      "prepared_source_spans": [
+        "That way."
+      ],
+      "cleaned_spans": [
+        "That way."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2173 | 03:08:39.940-03:08:41.200 | Delwath] Daleth will go first.st",
+        "[u2174 | 03:08:41.530-03:08:47.440 | DM] Okay, I mean, you know, expecting trouble. Yeah."
+      ],
+      "prepared_context_after": [
+        "[u2176 | 03:08:47.980-03:08:49.230 | Wellby] Take up the rear rear.",
+        "[u2177 | 03:08:49.580-03:08:50.620 | DM] Well, I'll be in the back."
+      ],
+      "cleaned_context_before": [
+        "[u2173 | 03:08:39.940-03:08:41.200 | Delwath] Delwath will go first",
+        "[u2174 | 03:08:41.530-03:08:47.440 | DM] Okay, I mean, you know, expecting trouble. Yeah."
+      ],
+      "cleaned_context_after": [
+        "[u2176 | 03:08:47.980-03:08:49.230 | Wellby] Take up the rear rear.",
+        "[u2177 | 03:08:49.580-03:08:50.620 | DM] Wellby in the back."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2283",
+      "importance": "incidental",
+      "group": "u2283",
+      "reason": "Unclear adjective during damage narration; action and target explicit.",
+      "prepared_source_verbatim": "[u2283 | 03:17:27.250-03:17:36.179 | DM] So Kenzo rushes forward and pummels this shadow. Lord, who's clustered on your last attack",
+      "cleaned_wording": "[u2283 | 03:17:27.250-03:17:36.179 | DM] So Kenzo rushes forward and pummels this shadow lord, who's clustered on your last attack",
+      "prepared_source_spans": [
+        "clustered"
+      ],
+      "cleaned_spans": [
+        "clustered"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2281 | 03:17:17.340-03:17:20.840 | Kenzo] That's another 10 damage, and then last attack.",
+        "[u2282 | 03:17:22.250-03:17:26.730 | Kenzo] Nice. 29 that hits, and then another 10 damage."
+      ],
+      "prepared_context_after": [
+        "[u2284 | 03:17:36.480-03:17:39.309 | DM] as you strike her with a last attack, she",
+        "[u2285 | 03:17:40.190-03:17:45.630 | DM] inhales out, and this red mist flies out of her mouth, make a constitution, saving, throw."
+      ],
+      "cleaned_context_before": [
+        "[u2281 | 03:17:17.340-03:17:20.840 | Kenzo] That's another 10 damage, and then last attack.",
+        "[u2282 | 03:17:22.250-03:17:26.730 | Kenzo] Nice. 29 that hits, and then another 10 damage."
+      ],
+      "cleaned_context_after": [
+        "[u2284 | 03:17:36.480-03:17:39.309 | DM] as you strike her with a last attack, she",
+        "[u2285 | 03:17:40.190-03:17:45.630 | DM] exhales out, and this red mist flies out of her mouth, make a constitution, saving, throw."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2304",
+      "importance": "incidental",
+      "group": "u2304",
+      "reason": "Garbled exact saving-throw result; explicit restrained outcome in u2305/u2308 is preserved.",
+      "prepared_source_verbatim": "[u2304 | 03:19:07.730-03:19:08.490 | Delwath] Dean.",
+      "cleaned_wording": "[u2304 | 03:19:07.730-03:19:08.490 | Delwath] [[Dean]].",
+      "prepared_source_spans": [
+        "Dean"
+      ],
+      "cleaned_spans": [
+        "Dean"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u2302 | 03:19:05.470-03:19:06.160 | Wellby] At 2.",
+        "[u2303 | 03:19:06.160-03:19:07.100 | DM] He's 17."
+      ],
+      "prepared_context_after": [
+        "[u2305 | 03:19:09.160-03:19:10.889 | DM] Darworth is restrained.",
+        "[u2306 | 03:19:11.210-03:19:12.930 | DM] That's why I didn't know what you rolled."
+      ],
+      "cleaned_context_before": [
+        "[u2302 | 03:19:05.470-03:19:06.160 | Wellby] A 22.",
+        "[u2303 | 03:19:06.160-03:19:07.100 | DM] DC 17."
+      ],
+      "cleaned_context_after": [
+        "[u2305 | 03:19:09.160-03:19:10.889 | DM] Delwath is restrained.",
+        "[u2306 | 03:19:11.210-03:19:12.930 | DM] That's why I didn't know what you rolled."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2374",
+      "importance": "incidental",
+      "group": "u2374",
+      "reason": "Garbled minion-proximity question; next line explicitly confirms minions near the lord.",
+      "prepared_source_verbatim": "[u2374 | 03:24:21.350-03:24:27.790 | Riswynn] And is she the the Lord is surrounded by her 3rd near her right.",
+      "cleaned_wording": "[u2374 | 03:24:21.350-03:24:27.790 | Riswynn] And is she the the Lord is surrounded by her 3rd near her right.",
+      "prepared_source_spans": [
+        "And is she the the Lord is surrounded by her 3rd near her right."
+      ],
+      "cleaned_spans": [
+        "And is she the the Lord is surrounded by her 3rd near her right."
+      ],
+      "span_precision": "whole unit: uncertainty boundary not localized",
+      "prepared_context_before": [
+        "[u2372 | 03:24:10.120-03:24:16.430 | Delwath] Now I can careful spell 5 creatures. So I I you are immune to.",
+        "[u2373 | 03:24:17.320-03:24:19.420 | Riswynn] Thank you for immuning me."
+      ],
+      "prepared_context_after": [
+        "[u2375 | 03:24:27.790-03:24:29.479 | DM] The minions are near her. Yes.",
+        "[u2376 | 03:24:29.900-03:24:32.154 | Riswynn] I guess it doesn't really matter."
+      ],
+      "cleaned_context_before": [
+        "[u2372 | 03:24:10.120-03:24:16.430 | Delwath] No, I can careful spell 5 creatures. So I I you are immune to.",
+        "[u2373 | 03:24:17.320-03:24:19.420 | Riswynn] Thank you for immuning me."
+      ],
+      "cleaned_context_after": [
+        "[u2375 | 03:24:27.790-03:24:29.479 | DM] The minions are near her. Yes.",
+        "[u2376 | 03:24:29.900-03:24:32.154 | Riswynn] I guess it doesn't really matter."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2386",
+      "importance": "incidental",
+      "group": "u2386",
+      "reason": "Unclear attack-roll lead-in.",
+      "prepared_source_verbatim": "[u2386 | 03:25:36.800-03:25:37.579 | Kenzo] Alright tennis.",
+      "cleaned_wording": "[u2386 | 03:25:36.800-03:25:37.579 | Kenzo] Alright tennis.",
+      "prepared_source_spans": [
+        "tennis"
+      ],
+      "cleaned_spans": [
+        "tennis"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2384 | 03:25:10.850-03:25:15.999 | DM] So with that strike, I mean, she's badly wounded at this point.",
+        "[u2385 | 03:25:16.573-03:25:35.640 | DM] Although she does resist the thunder damage. So it doesn't quite do. 32 and is now surrounded by this like glowing energy with Rizwyn's strike of sort of vibrating energy. So if she moves, she'll take more damage, and that brings up Kenzo."
+      ],
+      "prepared_context_after": [
+        "[u2387 | 03:25:37.580-03:25:40.859 | DM] Indians to your left, and you've got the boss to your right.",
+        "[u2388 | 03:25:40.860-03:25:42.699 | Kenzo] I'm gonna finish off the boss. Try to."
+      ],
+      "cleaned_context_before": [
+        "[u2384 | 03:25:10.850-03:25:15.999 | DM] So with that strike, I mean, she's badly wounded at this point.",
+        "[u2385 | 03:25:16.573-03:25:35.640 | DM] Although she does resist the thunder damage. So it doesn't quite do. 32 and is now surrounded by this like glowing energy with Riswynn's strike of sort of vibrating energy. So if she moves, she'll take more damage, and that brings up Kenzo."
+      ],
+      "cleaned_context_after": [
+        "[u2387 | 03:25:37.580-03:25:40.859 | DM] Minions to your left, and you've got the boss to your right.",
+        "[u2388 | 03:25:40.860-03:25:42.699 | Kenzo] I'm gonna finish off the boss. Try to."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2443",
+      "importance": "material",
+      "group": "elven-victim-name",
+      "reason": "Uncertain elven victim name, variant violanthea; group with u2166.",
+      "prepared_source_verbatim": "[u2443 | 03:30:45.130-03:30:48.079 | DM] violanthea. This Elvin woman, was a writer.",
+      "cleaned_wording": "[u2443 | 03:30:45.130-03:30:48.079 | DM] [[violanthea]]. This elven woman, was a writer.",
+      "prepared_source_spans": [
+        "violanthea"
+      ],
+      "cleaned_spans": [
+        "violanthea"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u2441 | 03:30:28.392-03:30:33.769 | DM] It is the not like a",
+        "[u2442 | 03:30:34.360-03:30:44.699 | DM] part of a quill, like the ink, part of a silver quill, I mean Kenza. When you touch this you can. You can sense immediately that"
+      ],
+      "prepared_context_after": [
+        "[u2444 | 03:30:50.650-03:30:54.230 | DM] and this is what's left of her writing.",
+        "[u2445 | 03:30:56.250-03:31:00.159 | Delwath] Tell that seems like success right?"
+      ],
+      "cleaned_context_before": [
+        "[u2441 | 03:30:28.392-03:30:33.769 | DM] It is the not like a",
+        "[u2442 | 03:30:34.360-03:30:44.699 | DM] part of a quill, like the ink part of a silver quill, I mean Kenzo. When you touch this you can. You can sense immediately that"
+      ],
+      "cleaned_context_after": [
+        "[u2444 | 03:30:50.650-03:30:54.230 | DM] and this is what's left of her writing.",
+        "[u2445 | 03:30:56.250-03:31:00.159 | Delwath] Well that seems like success right?"
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2446",
+      "importance": "incidental",
+      "group": "u2446",
+      "reason": "Brief unclear response to recovered token.",
+      "prepared_source_verbatim": "[u2446 | 03:31:01.720-03:31:03.960 | Kenzo] Elected.",
+      "cleaned_wording": "[u2446 | 03:31:01.720-03:31:03.960 | Kenzo] Elected.",
+      "prepared_source_spans": [
+        "Elected."
+      ],
+      "cleaned_spans": [
+        "Elected."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2444 | 03:30:50.650-03:30:54.230 | DM] and this is what's left of her writing.",
+        "[u2445 | 03:30:56.250-03:31:00.159 | Delwath] Tell that seems like success right?"
+      ],
+      "prepared_context_after": [
+        "[u2447 | 03:31:06.970-03:31:09.040 | Riswynn] It will time it back to the temple.",
+        "[u2448 | 03:31:10.020-03:31:10.340 | DM] Thanks."
+      ],
+      "cleaned_context_before": [
+        "[u2444 | 03:30:50.650-03:30:54.230 | DM] and this is what's left of her writing.",
+        "[u2445 | 03:30:56.250-03:31:00.159 | Delwath] Well that seems like success right?"
+      ],
+      "cleaned_context_after": [
+        "[u2447 | 03:31:06.970-03:31:09.040 | Riswynn] Double-time it back to the temple.",
+        "[u2448 | 03:31:10.020-03:31:10.340 | DM] Thanks."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2455",
+      "importance": "incidental",
+      "group": "u2455",
+      "reason": "Threat pronoun left as spoken.",
+      "prepared_source_verbatim": "[u2455 | 03:31:37.040-03:31:40.440 | Riswynn] Well, we keep being threatened, that is, gonna show up at some point. So.",
+      "cleaned_wording": "[u2455 | 03:31:37.040-03:31:40.440 | Riswynn] Well, we keep being threatened, that is, gonna show up at some point. So.",
+      "prepared_source_spans": [
+        "Well, we keep being threatened, that is, gonna show up at some point. So."
+      ],
+      "cleaned_spans": [
+        "Well, we keep being threatened, that is, gonna show up at some point. So."
+      ],
+      "span_precision": "whole unit: uncertainty boundary not localized",
+      "prepared_context_before": [
+        "[u2453 | 03:31:24.800-03:31:26.060 | Kenzo] Is seeker alive.",
+        "[u2454 | 03:31:27.150-03:31:36.686 | DM] Seeker is alive. Nothing has come in the temple, nothing can come in the temple, because everything here is undead, or aberrations, or elementals that are blocked."
+      ],
+      "prepared_context_after": [
+        "[u2456 | 03:31:40.700-03:31:43.030 | DM] Maybe he has.",
+        "[u2457 | 03:31:44.320-03:31:46.650 | Kenzo] How says this should be undead by now, right."
+      ],
+      "cleaned_context_before": [
+        "[u2453 | 03:31:24.800-03:31:26.060 | Kenzo] Is Seeker alive.",
+        "[u2454 | 03:31:27.150-03:31:36.686 | DM] Seeker is alive. Nothing has come in the temple, nothing can come in the temple, because everything here is undead, or aberrations, or elementals that are blocked."
+      ],
+      "cleaned_context_after": [
+        "[u2456 | 03:31:40.700-03:31:43.030 | DM] Maybe he has.",
+        "[u2457 | 03:31:44.320-03:31:46.650 | Kenzo] Fausto should be undead by now, right."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2460",
+      "importance": "incidental",
+      "group": "u2460",
+      "reason": "Garbled question after returning; following line explicitly supplies 6 pm.",
+      "prepared_source_verbatim": "[u2460 | 03:31:53.020-03:31:54.040 | Seeker] How fast it.",
+      "cleaned_wording": "[u2460 | 03:31:53.020-03:31:54.040 | Seeker] How fast it.",
+      "prepared_source_spans": [
+        "How fast it."
+      ],
+      "cleaned_spans": [
+        "How fast it."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2458 | 03:31:47.980-03:31:50.679 | Wellby] Maybe seekers, Foster.",
+        "[u2459 | 03:31:50.680-03:31:52.685 | Seeker] So you returned to the temple?"
+      ],
+      "prepared_context_after": [
+        "[u2461 | 03:31:54.040-03:31:55.950 | DM] About 6 6 Pm.",
+        "[u2462 | 03:31:55.950-03:31:56.770 | Wellby] Yeah, the pilots do."
+      ],
+      "cleaned_context_before": [
+        "[u2458 | 03:31:47.980-03:31:50.679 | Wellby] Maybe Seeker's Fausto.",
+        "[u2459 | 03:31:50.680-03:31:52.685 | Seeker] So you returned to the temple?"
+      ],
+      "cleaned_context_after": [
+        "[u2461 | 03:31:54.040-03:31:55.950 | DM] About 6 6 Pm.",
+        "[u2462 | 03:31:55.950-03:31:56.770 | Wellby] Yeah, the pilots do."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2462",
+      "importance": "incidental",
+      "group": "u2462",
+      "reason": "Unclear joke fragment.",
+      "prepared_source_verbatim": "[u2462 | 03:31:55.950-03:31:56.770 | Wellby] Yeah, the pilots do.",
+      "cleaned_wording": "[u2462 | 03:31:55.950-03:31:56.770 | Wellby] Yeah, the pilots do.",
+      "prepared_source_spans": [
+        "Yeah, the pilots do."
+      ],
+      "cleaned_spans": [
+        "Yeah, the pilots do."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2460 | 03:31:53.020-03:31:54.040 | Seeker] How fast it.",
+        "[u2461 | 03:31:54.040-03:31:55.950 | DM] About 6 6 Pm."
+      ],
+      "prepared_context_after": [
+        "[u2463 | 03:31:56.770-03:32:00.780 | Kenzo] Exactly what Fausto would say. That is exactly what Fausto would say.",
+        "[u2464 | 03:32:00.780-03:32:02.120 | DM] But best, I would say."
+      ],
+      "cleaned_context_before": [
+        "[u2460 | 03:31:53.020-03:31:54.040 | Seeker] How fast it.",
+        "[u2461 | 03:31:54.040-03:31:55.950 | DM] About 6 6 Pm."
+      ],
+      "cleaned_context_after": [
+        "[u2463 | 03:31:56.770-03:32:00.780 | Kenzo] Exactly what Fausto would say. That is exactly what Fausto would say.",
+        "[u2464 | 03:32:00.780-03:32:02.120 | DM] But best, I would say."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2464",
+      "importance": "incidental",
+      "group": "u2464",
+      "reason": "Overlapping Fausto joke fragment, preserved.",
+      "prepared_source_verbatim": "[u2464 | 03:32:00.780-03:32:02.120 | DM] But best, I would say.",
+      "cleaned_wording": "[u2464 | 03:32:00.780-03:32:02.120 | DM] But best, I would say.",
+      "prepared_source_spans": [
+        "best, I"
+      ],
+      "cleaned_spans": [
+        "best, I"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2462 | 03:31:55.950-03:31:56.770 | Wellby] Yeah, the pilots do.",
+        "[u2463 | 03:31:56.770-03:32:00.780 | Kenzo] Exactly what Fausto would say. That is exactly what Fausto would say."
+      ],
+      "prepared_context_after": [
+        "[u2465 | 03:32:07.210-03:32:11.649 | DM] The threat was never festo was going to attack you. It was that he was going to attack your ship.",
+        "[u2466 | 03:32:12.550-03:32:13.620 | Riswynn] Right."
+      ],
+      "cleaned_context_before": [
+        "[u2462 | 03:31:55.950-03:31:56.770 | Wellby] Yeah, the pilots do.",
+        "[u2463 | 03:31:56.770-03:32:00.780 | Kenzo] Exactly what Fausto would say. That is exactly what Fausto would say."
+      ],
+      "cleaned_context_after": [
+        "[u2465 | 03:32:07.210-03:32:11.649 | DM] The threat was never Fausto was going to attack you. It was that he was going to attack your ship.",
+        "[u2466 | 03:32:12.550-03:32:13.620 | Riswynn] Right."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2491",
+      "importance": "incidental",
+      "group": "u2491",
+      "reason": "Garbled joke/rest-place fragment; decision to stay temple clear.",
+      "prepared_source_verbatim": "[u2491 | 03:33:38.520-03:33:39.749 | Kenzo] And we stay and rest in the Metro.",
+      "cleaned_wording": "[u2491 | 03:33:38.520-03:33:39.749 | Kenzo] And we stay and rest in the Metro.",
+      "prepared_source_spans": [
+        "Metro"
+      ],
+      "cleaned_spans": [
+        "Metro"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2489 | 03:33:30.080-03:33:37.830 | Kenzo] Yeah. And also, if we like, show up, go back to the ship where we're all weekend. And then Fausto then just takes the dagger from us, and then we got our.",
+        "[u2490 | 03:33:37.830-03:33:38.520 | Delwath] Right."
+      ],
+      "prepared_context_after": [
+        "[u2492 | 03:33:39.750-03:33:40.210 | Delwath] Some.",
+        "[u2493 | 03:33:40.210-03:33:40.820 | Kenzo] Or if we can't."
+      ],
+      "cleaned_context_before": [
+        "[u2489 | 03:33:30.080-03:33:37.830 | Kenzo] Yeah. And also, if we like, show up, go back to the ship where we're all weakened. And then Fausto then just takes the dagger from us, and then we got our.",
+        "[u2490 | 03:33:37.830-03:33:38.520 | Delwath] Right."
+      ],
+      "cleaned_context_after": [
+        "[u2492 | 03:33:39.750-03:33:40.210 | Delwath] Some.",
+        "[u2493 | 03:33:40.210-03:33:40.820 | Kenzo] Or if we can't."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2497",
+      "importance": "incidental",
+      "group": "u2497",
+      "reason": "Unclear acknowledgement before sending.",
+      "prepared_source_verbatim": "[u2497 | 03:33:46.860-03:33:48.589 | Kenzo] Let's do that last name.",
+      "cleaned_wording": "[u2497 | 03:33:46.860-03:33:48.589 | Kenzo] Let's do that last name.",
+      "prepared_source_spans": [
+        "Let's do that last name."
+      ],
+      "cleaned_spans": [
+        "Let's do that last name."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2495 | 03:33:43.460-03:33:44.070 | Riswynn] Yeah.",
+        "[u2496 | 03:33:44.480-03:33:46.860 | Delwath] Why don't you check in with our ship buddies?"
+      ],
+      "prepared_context_after": [
+        "[u2498 | 03:33:48.590-03:33:51.549 | Wellby] Yeah, and get get like, the exact position.",
+        "[u2499 | 03:33:51.550-03:33:54.809 | Delwath] Yeah, like, where are you? Exactly."
+      ],
+      "cleaned_context_before": [
+        "[u2495 | 03:33:43.460-03:33:44.070 | Riswynn] Yeah.",
+        "[u2496 | 03:33:44.480-03:33:46.860 | Delwath] Why don't you check in with our ship buddies?"
+      ],
+      "cleaned_context_after": [
+        "[u2498 | 03:33:48.590-03:33:51.549 | Wellby] Yeah, and get get like, the exact position.",
+        "[u2499 | 03:33:51.550-03:33:54.809 | Delwath] Yeah, like, where are you? Exactly."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2513",
+      "importance": "material",
+      "group": "u2513",
+      "reason": "Ambiguous negation about authentication; u2516-u2518 explicitly say the sender authenticated. Preserve rather than decide the meaning of this response.",
+      "prepared_source_verbatim": "[u2513 | 03:34:57.950-03:35:00.810 | DM] No no appropriate authentications.",
+      "cleaned_wording": "[u2513 | 03:34:57.950-03:35:00.810 | DM] [[No no appropriate authentications]].",
+      "prepared_source_spans": [
+        "No no appropriate authentications"
+      ],
+      "cleaned_spans": [
+        "No no appropriate authentications"
+      ],
+      "span_precision": "localized",
+      "prepared_context_before": [
+        "[u2511 | 03:34:54.480-03:34:55.230 | Seeker] So.",
+        "[u2512 | 03:34:55.230-03:34:57.949 | Riswynn] There were no appropriate authentication."
+      ],
+      "prepared_context_after": [
+        "[u2514 | 03:35:00.810-03:35:04.440 | Wellby] That's like way more terse than he ever is.",
+        "[u2515 | 03:35:04.440-03:35:08.620 | Delwath] I mean, you only get 25 words with sending, but still you're right."
+      ],
+      "cleaned_context_before": [
+        "[u2511 | 03:34:54.480-03:34:55.230 | Seeker] So.",
+        "[u2512 | 03:34:55.230-03:34:57.949 | Riswynn] There were no appropriate authentication?"
+      ],
+      "cleaned_context_after": [
+        "[u2514 | 03:35:00.810-03:35:04.440 | Wellby] That's like way more terse than he ever is.",
+        "[u2515 | 03:35:04.440-03:35:08.620 | Delwath] I mean, you only get 25 words with sending, but still you're right."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2531",
+      "importance": "incidental",
+      "group": "u2531",
+      "reason": "Garbled introductory phrase before clear resurrection warning.",
+      "prepared_source_verbatim": "[u2531 | 03:35:53.175-03:35:57.599 | DM] Well, I've wondered you're gonna kill yourself to open a portal to the",
+      "cleaned_wording": "[u2531 | 03:35:53.175-03:35:57.599 | DM] Well, I've wondered you're gonna kill yourself to open a portal to the",
+      "prepared_source_spans": [
+        "I've wondered"
+      ],
+      "cleaned_spans": [
+        "I've wondered"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2529 | 03:35:47.300-03:35:48.010 | Delwath] Exactly.",
+        "[u2530 | 03:35:48.010-03:35:52.051 | Kenzo] That's that's a solution. The trolley problem didn't contemplate."
+      ],
+      "prepared_context_after": [
+        "[u2532 | 03:35:57.960-03:36:01.220 | DM] land of the dead. You might you better save some resurrection.",
+        "[u2533 | 03:36:01.220-03:36:05.390 | Delwath] Just say one of us is gonna have to kill ourselves. Somebody's gonna have to die."
+      ],
+      "cleaned_context_before": [
+        "[u2529 | 03:35:47.300-03:35:48.010 | Delwath] Exactly.",
+        "[u2530 | 03:35:48.010-03:35:52.051 | Kenzo] That's that's a solution. The trolley problem didn't contemplate."
+      ],
+      "cleaned_context_after": [
+        "[u2532 | 03:35:57.960-03:36:01.220 | DM] land of the dead. You might you better save some resurrection.",
+        "[u2533 | 03:36:01.220-03:36:05.390 | Delwath] Just say one of us is gonna have to kill ourselves. Somebody's gonna have to die."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2536",
+      "importance": "incidental",
+      "group": "u2536",
+      "reason": "Overlapping volunteering joke.",
+      "prepared_source_verbatim": "[u2536 | 03:36:09.390-03:36:10.109 | Wellby] Kind of myself.",
+      "cleaned_wording": "[u2536 | 03:36:09.390-03:36:10.109 | Wellby] Kind of myself.",
+      "prepared_source_spans": [
+        "Kind of myself."
+      ],
+      "cleaned_spans": [
+        "Kind of myself."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2534 | 03:36:05.390-03:36:06.960 | Kenzo] Kenzo's definitely gonna die.",
+        "[u2535 | 03:36:07.610-03:36:09.180 | Kenzo] Oh, jeez."
+      ],
+      "prepared_context_after": [
+        "[u2537 | 03:36:10.680-03:36:12.239 | Kenzo] That's kind of my job in the party.",
+        "[u2538 | 03:36:12.630-03:36:13.439 | Delwath] That wasn't kill you."
+      ],
+      "cleaned_context_before": [
+        "[u2534 | 03:36:05.390-03:36:06.960 | Kenzo] Kenzo's definitely gonna die.",
+        "[u2535 | 03:36:07.610-03:36:09.180 | Kenzo] Oh, jeez."
+      ],
+      "cleaned_context_after": [
+        "[u2537 | 03:36:10.680-03:36:12.239 | Kenzo] That's kind of my job in the party.",
+        "[u2538 | 03:36:12.630-03:36:13.439 | Delwath] That wasn't kill you."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2538",
+      "importance": "incidental",
+      "group": "u2538",
+      "reason": "Overlapping volunteering joke, preserved.",
+      "prepared_source_verbatim": "[u2538 | 03:36:12.630-03:36:13.439 | Delwath] That wasn't kill you.",
+      "cleaned_wording": "[u2538 | 03:36:12.630-03:36:13.439 | Delwath] That wasn't kill you.",
+      "prepared_source_spans": [
+        "That wasn't kill you."
+      ],
+      "cleaned_spans": [
+        "That wasn't kill you."
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2536 | 03:36:09.390-03:36:10.109 | Wellby] Kind of myself.",
+        "[u2537 | 03:36:10.680-03:36:12.239 | Kenzo] That's kind of my job in the party."
+      ],
+      "prepared_context_after": [
+        "[u2539 | 03:36:15.060-03:36:16.630 | Wellby] Oh, we'll we'll all kill you!",
+        "[u2540 | 03:36:16.916-03:36:17.490 | Kenzo] Oh, yeah."
+      ],
+      "cleaned_context_before": [
+        "[u2536 | 03:36:09.390-03:36:10.109 | Wellby] Kind of myself.",
+        "[u2537 | 03:36:10.680-03:36:12.239 | Kenzo] That's kind of my job in the party."
+      ],
+      "cleaned_context_after": [
+        "[u2539 | 03:36:15.060-03:36:16.630 | Wellby] Oh, we'll we'll all kill you!",
+        "[u2540 | 03:36:16.916-03:36:17.490 | Kenzo] Oh, yeah."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    },
+    {
+      "uid": "u2546",
+      "importance": "incidental",
+      "group": "u2546",
+      "reason": "End-of-session praise/chatter.",
+      "prepared_source_verbatim": "[u2546 | 03:36:32.770-03:36:34.700 | Riswynn] That's great testing.",
+      "cleaned_wording": "[u2546 | 03:36:32.770-03:36:34.700 | Riswynn] That's great testing.",
+      "prepared_source_spans": [
+        "testing"
+      ],
+      "cleaned_spans": [
+        "testing"
+      ],
+      "span_precision": "localized source; cleaned span may be full unit after correction",
+      "prepared_context_before": [
+        "[u2544 | 03:36:29.740-03:36:30.360 | Delwath] Yeah.",
+        "[u2545 | 03:36:30.360-03:36:30.980 | Kenzo] Yeah."
+      ],
+      "prepared_context_after": [
+        "[u2547 | 03:36:34.870-03:36:41.090 | DM] Yeah, so there's nobody. Nobody will interrupt you. In the night you can long rest and resettle.",
+        "[u2548 | 03:36:41.650-03:36:42.330 | Kenzo] Great."
+      ],
+      "cleaned_context_before": [
+        "[u2544 | 03:36:29.740-03:36:30.360 | Delwath] Yeah.",
+        "[u2545 | 03:36:30.360-03:36:30.980 | Kenzo] Yeah."
+      ],
+      "cleaned_context_after": [
+        "[u2547 | 03:36:34.870-03:36:41.090 | DM] Yeah, so there's nobody. Nobody will interrupt you. In the night you can long rest and reset all.",
+        "[u2548 | 03:36:41.650-03:36:42.330 | Kenzo] Great."
+      ],
+      "status": "pending_morning_review",
+      "human_accepted": false
+    }
+  ]
+}

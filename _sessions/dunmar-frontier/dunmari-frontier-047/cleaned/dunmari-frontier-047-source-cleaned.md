@@ -10,7 +10,7 @@
 [u0010 | 00:00:47.910-00:00:48.240 | DM] So.
 [u0011 | 00:00:52.560-00:00:53.340 | Seeker] it's never too late.
 [u0012 | 00:00:54.030-00:00:55.740 | DM] never too late, I guess.
-[u0013 | 00:00:57.480-00:01:00.570 | DM] [[Most would probably beat you to charter that case]] so.
+[u0013 | 00:00:57.480-00:01:00.570 | DM] {{Most would probably beat you to charter that case}} so.
 [u0014 | 00:01:02.160-00:01:03.660 | Wellby] Basic like complicated.
 [u0015 | 00:01:06.840-00:01:08.070 | DM] But it's never too late.
 [u0016 | 00:01:09.210-00:01:17.640 | Kenzo] yeah I liked I liked how the new side quest like this is always getting the giant's eyes back it's always been the main side quest so.
@@ -146,7 +146,7 @@
 [u0146 | 00:14:37.170-00:14:44.040 | Delwath] it's it's partly because he never he has this feeling of because he knows.
 [u0147 | 00:14:45.150-00:14:49.740 | Delwath] Where that is but also it's just he feels like there's.
 [u0148 | 00:14:52.110-00:14:53.790 | Delwath] Something to do like.
-[u0149 | 00:14:55.710-00:15:12.450 | Delwath] understanding this some of the evils in the world and that the but he's convinced that his purpose is to become a hero and prevent the second right, the rise of [[Sherman]] from happening again right like not so much per se but.
+[u0149 | 00:14:55.710-00:15:12.450 | Delwath] understanding this some of the evils in the world and that the but he's convinced that his purpose is to become a hero and prevent the second right, the rise of {{Sherman}} from happening again right like not so much per se but.
 [u0150 | 00:15:13.530-00:15:21.540 | Delwath] But he really believes in in the sort of power of the great man theory of history and he doesn't necessarily not necessarily.
 [u0151 | 00:15:22.350-00:15:31.830 | Delwath] So arrogant to assume, he is in fact the great man, but he feels like he's part of a group of people on a journey that will least influence.
 [u0152 | 00:15:33.120-00:15:33.540 | Delwath] The.
@@ -529,16 +529,16 @@
 [u0529 | 00:48:38.910-00:48:39.870 | Kenzo] Like what what have you heard.
 [u0530 | 00:48:42.030-00:48:42.750 | DM] Some.
 [u0531 | 00:48:43.770-00:48:46.260 | DM] resurrected queen in the East.
-[u0532 | 00:48:48.750-00:48:50.700 | DM] [[backing the dead]] to cause trouble.
+[u0532 | 00:48:48.750-00:48:50.700 | DM] {{backing the dead}} to cause trouble.
 [u0533 | 00:48:52.380-00:48:53.160 | DM] that's the tale.
 [u0534 | 00:48:57.240-00:48:57.870 | Kenzo] Anything else.
 [u0535 | 00:49:03.690-00:49:05.340 | DM] Anything else, well, I mean.
 [u0536 | 00:49:06.600-00:49:07.830 | DM] there's always stories.
 [u0537 | 00:49:09.360-00:49:10.020 | DM] There was a.
 [u0538 | 00:49:14.610-00:49:18.090 | DM] You know there's always tales of strange things coming out of the jungle, to the south.
-[u0539 | 00:49:19.890-00:49:26.250 | DM] Somebody claiming they had just come back from fighting off a horde of zombies on the River [[shroud]].
+[u0539 | 00:49:19.890-00:49:26.250 | DM] Somebody claiming they had just come back from fighting off a horde of zombies on the River {{shroud}}.
 [u0540 | 00:49:28.530-00:49:29.400 | DM] seems plausible.
-[u0541 | 00:49:35.100-00:49:36.690 | DM] [[Nine chernoff]] is always.
+[u0541 | 00:49:35.100-00:49:36.690 | DM] {{Nine chernoff}} is always.
 [u0542 | 00:49:37.560-00:49:38.550 | Unknown] fortifying.
 [u0543 | 00:49:39.720-00:49:41.220 | DM] defenses to the south.
 [u0544 | 00:49:46.500-00:49:47.520 | DM] There was some.
@@ -710,7 +710,7 @@
 [u0710 | 01:02:57.180-01:02:57.600 | Kenzo] Jasmine.
 [u0711 | 01:02:58.170-01:03:08.010 | Kenzo] Kenzo reveals that to Jasmine and and Oswalt, says, you know I am I not too long ago I lost my picture.
 [u0712 | 01:03:09.900-01:03:11.970 | Kenzo] I not long ago I.
-[u0713 | 01:03:13.230-01:03:20.700 | Kenzo] joined the Order of the Awakened Soul, you may have heard of the Bhishma and one of the one of the [[mardi gras]].
+[u0713 | 01:03:13.230-01:03:20.700 | Kenzo] joined the Order of the Awakened Soul, you may have heard of the Bhishma and one of the one of the {{mardi gras}}.
 [u0714 | 01:03:21.810-01:03:27.120 | Kenzo] part of my work within the order is to learn the stories of the people of the land and.
 [u0715 | 01:03:30.000-01:03:36.390 | Kenzo] you're the first couple that i've spoken with but I I love to hear more about how you met and fell in love.
 [u0716 | 01:03:39.780-01:03:40.200 | DM] Are we.
@@ -749,7 +749,7 @@
 [u0749 | 01:06:11.430-01:06:19.140 | DM] I don't I didn't live, but I think my parents just kind of assumed by travel we meant.
 [u0750 | 01:06:20.730-01:06:21.630 | DM] Sail on a ship.
 [u0751 | 01:06:23.010-01:06:25.800 | DM] Maybe go up to catch you know.
-[u0752 | 01:06:27.150-01:06:32.400 | DM] Both from Chardon up to [[bar]] and then back.
+[u0752 | 01:06:27.150-01:06:32.400 | DM] Both from Chardon up to {{bar}} and then back.
 [u0753 | 01:06:34.620-01:06:36.960 | DM] around for a few years that's pretty.
 [u0754 | 01:06:38.430-01:06:39.450 | DM] To a typical.
 [u0755 | 01:06:42.510-01:06:45.510 | DM] will send them messages, though Hello joss.
@@ -1340,9 +1340,9 @@
 [u1340 | 01:52:15.990-01:52:16.710 | DM] A young.
 [u1341 | 01:52:18.780-01:52:20.370 | DM] Ambitious Group and
 [u1342 | 01:52:21.960-01:52:28.020 | DM] I think Harol may be thinking of turning over the ship captaincy to them at some point when he retires.
-[u1343 | 01:52:31.650-01:52:33.420 | DM] For the [[soul our hearts]], it was.
+[u1343 | 01:52:31.650-01:52:33.420 | DM] For the {{soul our hearts}}, it was.
 [u1344 | 01:52:38.250-01:52:38.700 | DM] It was.
-[u1345 | 01:52:45.270-01:52:46.350 | DM] [[A sweat talks]].
+[u1345 | 01:52:45.270-01:52:46.350 | DM] {{A sweat talks}}.
 [u1346 | 01:52:49.290-01:52:52.200 | DM] They were the ones who sailed that across the Sea of Storms.
 [u1347 | 01:52:54.930-01:52:59.070 | DM] sort of puts his hand up against the timbers of the side of.
 [u1348 | 01:53:00.360-01:53:00.900 | DM] The boat.
@@ -1452,7 +1452,7 @@
 [u1452 | 02:01:49.350-02:01:51.930 | DM] every few minutes.
 [u1453 | 02:01:54.390-02:01:57.270 | DM] They would reach up into the sky.
 [u1454 | 02:01:58.290-02:01:59.880 | DM] and pull down the cloud.
-[u1455 | 02:02:01.710-02:02:09.450 | DM] and [[walk away]] and the winds would pick up, and [[how]] would be driven off course.
+[u1455 | 02:02:01.710-02:02:09.450 | DM] and {{walk away}} and the winds would pick up, and {{how}} would be driven off course.
 [u1456 | 02:02:12.120-02:02:13.680 | DM] They were just sit there watching.
 [u1457 | 02:02:18.360-02:02:20.670 | DM] beat away from that as quickly and.
 [u1458 | 02:02:21.900-02:02:23.190 | DM] craft, as we could.
@@ -1537,7 +1537,7 @@
 [u1537 | 02:17:45.210-02:17:46.710 | Wellby] Looking at smaller didn't know.
 [u1538 | 02:17:47.880-02:17:54.780 | Wellby] But so will it denotes a different part, but you can always like we could do a sending to Vola because the two of you met.
 [u1539 | 02:17:55.710-02:18:14.580 | Wellby] and say hey we're in Chardon, and like I I sort of think that stuffing our way into the Society of the Open Scroll like into wherever they keep their most valuable most powerful treasure and stealing like there's nothing in our past experience that suggests we could do that.
-[u1540 | 02:18:16.500-02:18:27.690 | Kenzo] I think this trip we're going to learn a lot get caught people they're going to realize we're here and then we're gonna have to escape into the elven woods and there's [[their tribe]] and we're not actually going to get the eyes.
+[u1540 | 02:18:16.500-02:18:27.690 | Kenzo] I think this trip we're going to learn a lot get caught people they're going to realize we're here and then we're gonna have to escape into the elven woods and there's {{their tribe}} and we're not actually going to get the eyes.
 [u1541 | 02:18:28.320-02:18:30.870 | Kenzo] But will learn about their location and like.
 [u1542 | 02:18:30.930-02:18:31.560 | Kenzo] things about it.
 [u1543 | 02:18:32.610-02:18:36.720 | Wellby] I think we should offer to trade them the Mirror of Soul Trapping for them, I mean that seriously.
@@ -1547,14 +1547,14 @@
 [u1547 | 02:19:05.580-02:19:06.000 | Kenzo] Oh yeah.
 [u1548 | 02:19:06.180-02:19:10.140 | Wellby] You seem to have, like Society of the Open Scroll do all sorts of evil stuff with that person.
 [u1549 | 02:19:11.250-02:19:11.940 | Seeker] Well, interesting point.
-[u1550 | 02:19:12.300-02:19:15.420 | Kenzo] [[Their history]] is a historical figure today isn't it not only [[another name]].
+[u1550 | 02:19:12.300-02:19:15.420 | Kenzo] {{Their history}} is a historical figure today isn't it not only {{another name}}.
 [u1551 | 02:19:16.650-02:19:16.950 | DM] yeah.
 [u1552 | 02:19:17.460-02:19:18.450 | Seeker] We happen to guess.
 [u1553 | 02:19:20.220-02:19:21.450 | Kenzo] it's a historical figure.
 [u1554 | 02:19:23.850-02:19:28.740 | Delwath] that's an interesting idea so be up front like basically go knock on the front door and said, we want to make a trade.
 [u1555 | 02:19:31.590-02:19:36.420 | Kenzo] That feels like a pretty comparable trade honestly Soul Trapping mirror for giant's eyes.
-[u1556 | 02:19:37.260-02:19:44.340 | Wellby] The only thing is, we don't know what the [[chances]] like possible they do nothing or it's possibly like hugely.
-[u1557 | 02:19:45.180-02:19:47.520 | Seeker] Actually [[witnessed]] Delwath the journey.
+[u1556 | 02:19:37.260-02:19:44.340 | Wellby] The only thing is, we don't know what the {{chances}} like possible they do nothing or it's possibly like hugely.
+[u1557 | 02:19:45.180-02:19:47.520 | Seeker] Actually {{witnessed}} Delwath the journey.
 [u1558 | 02:19:47.580-02:19:48.480 | Seeker] about this plan.
 [u1559 | 02:19:49.290-02:19:51.060 | Delwath] The giant was like mostly insane.
 [u1560 | 02:19:52.140-02:19:54.420 | Kenzo] Of the giant was like give me back my eyes, like.
@@ -1562,16 +1562,16 @@
 [u1562 | 02:19:55.980-02:20:07.140 | Kenzo] Like the thing that, like the thing that we know about the giant's eyes is it doesn't matter what powers they have right, even if we get them we're not keeping them were the purpose of getting them is to get the lightning storm giant on our side, like.
 [u1563 | 02:20:09.030-02:20:15.090 | Riswynn] right if it turned their needs, might be less likely to trade them away if they're if they are aware of their immense power.
 [u1564 | 02:20:17.700-02:20:19.770 | Delwath] But the Mirror of Soul Trapping's pretty immensely powerful.
-[u1565 | 02:20:20.220-02:20:27.900 | Kenzo] yeah is incredibly powerful it's got there's a [[women are the women]] in there there's one other, we trapped little animals in there too right there's [[liver]] and and then there's the.
+[u1565 | 02:20:20.220-02:20:27.900 | Kenzo] yeah is incredibly powerful it's got there's a {{women are the women}} in there there's one other, we trapped little animals in there too right there's {{liver}} and and then there's the.
 [u1566 | 02:20:28.650-02:20:31.080 | DM] there's the poison troll and there's.
 [u1567 | 02:20:34.920-02:20:38.280 | Delwath] A poison troll an orc and the mega powerful hobgoblin wizard.
 [u1568 | 02:20:39.270-02:20:39.540 | Unknown] yeah.
 [u1569 | 02:20:41.940-02:20:51.330 | Kenzo] ooh after me skip give the mirror to the Society of the Open Scroll they're going to release the hobgoblin and we're going to fight them as a part of like a big later battle 100%.
 [u1570 | 02:20:51.870-02:20:57.840 | Wellby] Or, like, the hobgoblin it's going to take over the society like that can't go well right.
-[u1571 | 02:21:01.170-02:21:10.440 | Kenzo] But then we're going to have a fucking storm giant on our side who's going to tell us how to destroy the Scepter of Power and or help us use the Scepter of Power and or be our like battle lieutenant when we take [[a return]].
+[u1571 | 02:21:01.170-02:21:10.440 | Kenzo] But then we're going to have a fucking storm giant on our side who's going to tell us how to destroy the Scepter of Power and or help us use the Scepter of Power and or be our like battle lieutenant when we take {{a return}}.
 [u1572 | 02:21:11.430-02:21:22.290 | Wellby] So, David agrees with you 100%, but I think Wellby's assumption is just that we're freeing Hralgar and hopefully they'll do something nice for us but that's not really what random for.
 [u1573 | 02:21:23.280-02:21:28.020 | Kenzo] yeah I mean we're not we're not transactional per se, but we wanted to help we want him to tell us.
-[u1574 | 02:21:29.190-02:21:31.470 | Kenzo] How to [[better]] because we think he's going to know some.
+[u1574 | 02:21:29.190-02:21:31.470 | Kenzo] How to {{better}} because we think he's going to know some.
 [u1575 | 02:21:32.400-02:21:42.120 | Kenzo] Right and then also because we promised that we would and it's good to do it and then yeah like having a storm giant ally for all of our future battles will probably be nice.
 [u1576 | 02:21:42.750-02:21:52.110 | Wellby] I think, also for Wellby knowing that this like that giant conceivably could take us safely across the Sea of Storms which is maybe more accurately the sea of storm giants like.
 [u1577 | 02:21:53.310-02:21:54.990 | Wellby] That would be that is amazing.
@@ -1595,7 +1595,7 @@
 [u1595 | 02:22:57.540-02:23:03.360 | DM] The sailing is the ship is the wind, has been very good and so you are going.
 [u1596 | 02:23:04.530-02:23:06.090 | DM] faster than expected.
 [u1597 | 02:23:08.580-02:23:08.970 | DM] You know.
-[u1598 | 02:23:11.970-02:23:26.010 | DM] conceivably could make the journey in more like two weeks, instead of [[a two days]] at this at this rate, if things keep up and during this time, you, you get a map of Chardon from from Lyle.
+[u1598 | 02:23:11.970-02:23:26.010 | DM] conceivably could make the journey in more like two weeks, instead of {{a two days}} at this at this rate, if things keep up and during this time, you, you get a map of Chardon from from Lyle.
 [u1599 | 02:23:30.960-02:23:32.760 | DM] So this is your rough map of Chardon.
 [u1600 | 02:23:35.040-02:23:35.430 | Seeker] Right.
 [u1601 | 02:23:36.180-02:23:38.940 | DM] He sort of points out like okay here's the.
@@ -1692,14 +1692,14 @@
 [u1692 | 02:32:27.390-02:32:33.030 | DM] Right, nobody really knows how the Praecanti Primis get their power to begin with right like.
 [u1693 | 02:32:33.330-02:32:39.690 | DM] they're separate from the from the great library like there's the whole like.
 [u1694 | 02:32:41.520-02:32:47.400 | DM] Council of mages and stuff that control the Academy, and the library that are not.
-[u1695 | 02:32:49.560-02:32:53.940 | DM] Right so there's this like group of [[thrall]] you know they.
+[u1695 | 02:32:49.560-02:32:53.940 | DM] Right so there's this like group of {{thrall}} you know they.
 [u1696 | 02:32:55.140-02:33:06.600 | DM] You know the Emperor somehow controls the power of the mage guard right like there's no maybe there's some magic item that gets passed down from whenever to the next and that's the source of the you don't.
 [u1697 | 02:33:08.370-02:33:09.390 | DM] Nobody has any.
 [u1698 | 02:33:09.780-02:33:10.800 | Delwath] wasn't was the air and.
 [u1699 | 02:33:10.800-02:33:11.970 | Delwath] Then I know it's.
 [u1700 | 02:33:12.060-02:33:14.490 | Delwath] Crossing streams which wasn't was here, in the mage guard.
 [u1701 | 02:33:15.420-02:33:21.120 | DM] He was in the in that so there's the Praecanti um ah.
-[u1702 | 02:33:24.030-02:33:31.740 | DM] I need a name for them [[regarding the second day]] right like I don't know if that's going to be their permanent name.
+[u1702 | 02:33:24.030-02:33:31.740 | DM] I need a name for them {{regarding the second day}} right like I don't know if that's going to be their permanent name.
 [u1703 | 02:33:32.820-02:33:38.670 | DM] But they're the they're like the city watch their the mage guard of the people.
 [u1704 | 02:33:39.990-02:33:41.100 | DM] was here was in that.
 [u1705 | 02:33:42.480-02:33:47.820 | DM] They are organized much more like an army, right like they have ranks and they have commanders.
@@ -1714,7 +1714,7 @@
 [u1714 | 02:34:49.110-02:34:53.040 | DM] There must be some kind of connection between the.
 [u1715 | 02:34:57.420-02:34:58.830 | DM] You know the the.
 [u1716 | 02:35:01.830-02:35:15.540 | DM] Civil bureaucracy somehow the Emperor keeps the civil bureaucracy, the the Praecanti Primis the you know the emperor's personal, the Magistros's personal mage guard.
-[u1717 | 02:35:16.650-02:35:20.370 | DM] [[down for a second]] is the city watch.
+[u1717 | 02:35:16.650-02:35:20.370 | DM] {{down for a second}} is the city watch.
 [u1718 | 02:35:22.200-02:35:22.620 | DM] The.
 [u1719 | 02:35:24.570-02:35:27.360 | DM] You know that they're there must be a good like there's different.
 [u1720 | 02:35:27.390-02:35:28.740 | Kenzo] Power centers right right.
@@ -2220,11 +2220,11 @@
 [u2220 | 03:16:06.060-03:16:07.260 | DM] Are you traveling alone.
 [u2221 | 03:16:13.440-03:16:15.270 | DM] Though the message.
 [u2222 | 03:16:16.350-03:16:19.950 | DM] comes back in a faint whisper i'm.
-[u2223 | 03:16:23.400-03:16:26.130 | DM] trapped in a cave [[you've]].
+[u2223 | 03:16:23.400-03:16:26.130 | DM] trapped in a cave {{you've}}.
 [u2224 | 03:16:27.930-03:16:28.410 | Kenzo] buck.
 [u2225 | 03:16:28.860-03:16:33.780 | DM] Kadmos thinks i'm a kobold.
 [u2226 | 03:16:36.930-03:16:40.590 | DM] But I don't know how long the.
-[u2227 | 03:16:40.650-03:16:41.670 | Unknown] [[deception]].
+[u2227 | 03:16:40.650-03:16:41.670 | Unknown] {{deception}}.
 [u2228 | 03:16:45.420-03:16:45.660 | Kenzo] said.
 [u2229 | 03:16:45.690-03:16:46.800 | DM] 18 words.
 [u2230 | 03:16:53.970-03:16:54.660 | DM] He.
@@ -2374,7 +2374,7 @@
 [u2374 | 03:29:06.540-03:29:11.160 | Delwath] Use the Vola connection but use somewhat of the same story like.
 [u2375 | 03:29:12.900-03:29:15.840 | Delwath] I don't know, maybe an APP that was could play giant.
 [u2376 | 03:29:18.990-03:29:23.490 | Delwath] giant agent, on behalf of giants I don't know if a dwarf might be more plausible than an elf.
-[u2377 | 03:29:27.870-03:29:31.650 | Wellby] [[programmers]] our ticket across the Sea of Storms like that's a.
+[u2377 | 03:29:27.870-03:29:31.650 | Wellby] {{programmers}} our ticket across the Sea of Storms like that's a.
 [u2378 | 03:29:32.670-03:29:34.800 | Wellby] know if that's compelling but that could be another.
 [u2379 | 03:29:36.390-03:29:37.470 | Seeker] i'm thinking about.
 [u2380 | 03:29:37.650-03:29:42.720 | Seeker] zooming out a little we want to make contact with the Society of the Open Scroll.

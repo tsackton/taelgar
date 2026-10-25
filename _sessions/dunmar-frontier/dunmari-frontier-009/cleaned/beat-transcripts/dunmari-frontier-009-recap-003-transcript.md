@@ -62,7 +62,7 @@ DM: Okay, so as you head north, you're making your way along the edge of this la
 DM: Let's see, Wellby, you hear, as you enter this circular room, some footsteps fading away to the north. There's three exits from this room: one that leads northwest, one that leads northeast and one that leads southeast. The one southeast seems to be sloping down, the one northeast seems to be sloping up, the one to the northwest is on the level.
 
 %% u1065-u1066 %%
-Seeker: Is this a carved statue, or a [[strategy that you—]]?
+Seeker: Is this a carved statue, or a {{strategy that you—}}?
 
 %% u1067-u1069 %%
 DM: No, it's stone. It's clearly weathered. This was probably at one point a central passageway or something. It's kind of a decoration in a public plaza, is the feeling you get.
@@ -113,7 +113,7 @@ Seeker: So that's an important detail. Yeah. You don't want—you only have your
 Kenzo: Creatures of strong psychic magic, these creatures. I don't know if there's one here, but we should be very careful. Have any of you encountered one of these before?
 
 %% u1102 %%
-Seeker: [[Shouldn't the guy have—]]
+Seeker: {{Shouldn't the guy have—}}
 
 %% u1103 %%
 DM: No, what?
@@ -143,7 +143,7 @@ Seeker: Yeah.
 Kenzo: But to use a pun, we should be mindful.
 
 %% u1117-u1119 %%
-Wellby: We should be open-minded, but not so open-minded [[a lot of our heads]].
+Wellby: We should be open-minded, but not so open-minded {{a lot of our heads}}.
 
 %% u1120-u1121 %%
 Kenzo: Actually, I think we should be closed-minded.
@@ -224,7 +224,7 @@ Unknown: So.
 Wellby: I'll say, "Look, whoever you are, wherever you are, we should just talk now. We don't want to go through this whole process. We don't want to find you and track you. Let's just have the conversation."
 
 %% u1177 %%
-DM: [[Oh, Dr.]]
+DM: {{Oh, Dr.}}
 
 %% u1178 %%
 Wellby: And then I hold up a hand for everybody behind me to stop, and just focus on listening as intently as I can.
@@ -359,7 +359,7 @@ DM: Um.
 Kenzo: Going to do amplified perception, you know.
 
 %% u1242-u1244 %%
-DM: [[Really, really though cannot.]] So let's see, Wellby, Investigation. Actually, just everybody give me an Investigation check, everybody.
+DM: {{Really, really though cannot.}} So let's see, Wellby, Investigation. Actually, just everybody give me an Investigation check, everybody.
 
 %% u1245 %%
 Unknown: Wellby.
@@ -416,7 +416,7 @@ Delwath: Can we just use Mage Hand?
 Seeker: Do it. I did great.
 
 %% u1277-u1283 %%
-DM: [[Everything on you.]] You're stepping back and realize, as you're walking backwards towards the statues, staring at the door, that there's a wall there. But you manage to avoid tripping and kind of just step over it at the last minute and get to the statue. You're feeling around. There's definitely something dangling on its neck.
+DM: {{Everything on you.}} You're stepping back and realize, as you're walking backwards towards the statues, staring at the door, that there's a wall there. But you manage to avoid tripping and kind of just step over it at the last minute and get to the statue. You're feeling around. There's definitely something dangling on its neck.
 
 %% u1284-u1286 %%
 Seeker: So I can feel it in my hand? Yep. Oh, that's interesting.
@@ -464,7 +464,7 @@ Seeker: Um.
 Kenzo: I look into the reflection of the doors.
 
 %% u1305 %%
-Wellby: [[To do.]]
+Wellby: {{To do.}}
 
 %% u1306 %%
 DM: Nothing but just the room.
@@ -503,7 +503,7 @@ Riswynn: Perhaps do that.
 Seeker: Synchronized way to maximize the danger.
 
 %% u1323 %%
-Riswynn: [[Perhaps Nikki.]]
+Riswynn: {{Perhaps Nikki.}}
 
 %% u1324 %%
 Seeker: And why are there two keys and three doors? And are those in fact doors? They look like mirrors.
@@ -587,7 +587,7 @@ Seeker: Shall we?
 Delwath: Yeah.
 
 %% u1370-u1371 %%
-Seeker: [[This Riswynn.]]
+Seeker: {{This Riswynn.}}
 
 %% u1372 %%
 Wellby: The rear of the order, and just keep a careful ear out for our personal company. Yes.

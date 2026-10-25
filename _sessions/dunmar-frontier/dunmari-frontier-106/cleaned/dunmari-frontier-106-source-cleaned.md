@@ -250,13 +250,13 @@
 [u0250 | 00:16:19.150-00:16:20.610 | Seeker] well, it's great!
 [u0251 | 00:16:20.610-00:16:21.360 | Wellby] Sickening.
 [u0252 | 00:16:21.360-00:16:27.649 | Delwath] Actually an interesting question I just assumed. But that is a very interesting question.
-[u0253 | 00:16:27.650-00:16:30.969 | Seeker] [[Uncomfortable]] if we can drive it, move away from the tree. Yeah.
+[u0253 | 00:16:27.650-00:16:30.969 | Seeker] {{Uncomfortable}} if we can drive it, move away from the tree. Yeah.
 [u0254 | 00:16:30.970-00:16:32.419 | Wellby] Yeah, exactly.
 [u0255 | 00:16:32.870-00:16:33.730 | Delwath] Oh!
 [u0256 | 00:16:34.940-00:16:35.350 | Seeker] So I can.
 [u0257 | 00:16:35.350-00:16:36.599 | Delwath] Yeah. Hold on.
 [u0258 | 00:16:37.050-00:16:43.429 | Seeker] Catapult and convert that to fire damage. I could hit it with erupting earth and do that as fire damage.
-[u0259 | 00:16:43.850-00:16:47.110 | Seeker] Those are like [[78, 5 to 12]].
+[u0259 | 00:16:43.850-00:16:47.110 | Seeker] Those are like {{78, 5 to 12}}.
 [u0260 | 00:16:47.870-00:16:50.799 | Delwath] Is the tree a creature? Can you soul, sight the tree.
 [u0261 | 00:16:51.610-00:16:52.770 | Seeker] Oh, good idea!
 [u0262 | 00:16:58.020-00:16:59.409 | DM] you can.
@@ -461,7 +461,7 @@
 [u0461 | 00:29:03.420-00:29:04.390 | DM] with
 [u0462 | 00:29:04.810-00:29:05.839 | DM] a plus
 [u0463 | 00:29:06.480-00:29:08.830 | DM] all with plus 10.
-[u0464 | 00:29:10.110-00:29:13.740 | Delwath] [[25, 12, 19, 15, 28]].
+[u0464 | 00:29:10.110-00:29:13.740 | Delwath] {{25, 12, 19, 15, 28}}.
 [u0465 | 00:29:14.750-00:29:17.279 | DM] Only the 12 misses.
 [u0466 | 00:29:17.800-00:29:18.620 | Seeker] Nice.
 [u0467 | 00:29:19.598-00:29:22.109 | DM] Sorry. The 15, the 15 also misses
@@ -480,7 +480,7 @@
 [u0480 | 00:29:57.350-00:29:58.070 | Seeker] Yep.
 [u0481 | 00:29:58.070-00:29:58.460 | Delwath] That hit.
 [u0482 | 00:29:58.460-00:30:02.049 | DM] Okay? So that's another that hits for sure. The 15.
-[u0483 | 00:30:02.050-00:30:03.640 | Seeker] Plus the 9 [[3 strikes]] damage.
+[u0483 | 00:30:02.050-00:30:03.640 | Seeker] Plus the 9 {{3 strikes}} damage.
 [u0484 | 00:30:03.640-00:30:06.310 | DM] Like no save me! And the 3.rd
 [u0485 | 00:30:07.250-00:30:09.359 | Delwath] Kenzo's is always one d. 10. So.
 [u0486 | 00:30:09.360-00:30:11.780 | DM] One d. 10 plus 5 for that one.
@@ -522,7 +522,7 @@
 [u0522 | 00:31:36.020-00:31:36.370 | Delwath] Basic.
 [u0523 | 00:31:36.370-00:31:36.980 | DM] Yeah.
 [u0524 | 00:31:36.980-00:31:38.640 | Delwath] But Seeker like dead center.
-[u0525 | 00:31:39.040-00:31:43.350 | DM] Okay, yeah, that's centered on the point. That's in between Kenzo and [[a]].
+[u0525 | 00:31:39.040-00:31:43.350 | DM] Okay, yeah, that's centered on the point. That's in between Kenzo and {{a}}.
 [u0526 | 00:31:43.350-00:31:46.900 | Delwath] Yeah, yeah. Trying to give Seeker as much chance of
 [u0527 | 00:31:47.230-00:31:48.767 | Delwath] protection as possible.
 [u0528 | 00:31:49.280-00:31:50.090 | Seeker] Thank you.
@@ -875,7 +875,7 @@
 [u0875 | 00:50:44.220-00:50:44.760 | Seeker] Me!
 [u0876 | 00:50:45.930-00:50:51.729 | DM] Everybody else takes half that. So what is that? 22 points of slashing damage.
 [u0877 | 00:50:51.990-00:50:53.110 | Delwath] That's a lot of damage.
-[u0878 | 00:50:53.420-00:50:54.709 | Wellby] [[Will be fixed]].
+[u0878 | 00:50:53.420-00:50:54.709 | Wellby] {{Will be fixed}}.
 [u0879 | 00:50:55.630-00:51:01.959 | DM] And Wellby takes oh, no! Kenzo takes half. Kenzo takes the same because he has evasion as well. So Kenzo takes 22 points of.
 [u0880 | 00:51:02.670-00:51:03.250 | Seeker] And.
 [u0881 | 00:51:03.250-00:51:07.008 | DM] Nobody's tracking Kenzo's health but me. Right? So I'll do that.
@@ -942,7 +942,7 @@
 [u0942 | 00:53:57.550-00:54:01.989 | DM] everybody except Seeker, who. I don't even know where Seeker went, but he's.
 [u0943 | 00:54:01.990-00:54:03.729 | Seeker] Oh, way over to the edge. Here.
 [u0944 | 00:54:03.730-00:54:04.880 | Delwath] As far as he can.
-[u0945 | 00:54:04.880-00:54:07.220 | DM] [[Seen by]] the vines.
+[u0945 | 00:54:04.880-00:54:07.220 | DM] {{Seen by}} the vines.
 [u0946 | 00:54:07.500-00:54:09.629 | DM] That's an 18 on Wellby.
 [u0947 | 00:54:11.484-00:54:14.590 | Wellby] That's miss. I have a 19 AC now.
 [u0948 | 00:54:16.690-00:54:19.090 | DM] That's a 16 on Kenzo. That's a miss.
@@ -971,7 +971,7 @@
 [u0971 | 00:55:30.420-00:55:31.969 | DM] No advantage anymore.
 [u0972 | 00:55:34.300-00:55:35.620 | Delwath] That's okay.
 [u0973 | 00:55:36.290-00:55:40.130 | DM] So everything but the the 1st 3 hit right.
-[u0974 | 00:55:40.130-00:55:44.920 | Delwath] So that's [[40 to want the 1st to crit]]. So that's what 4d10 plus
+[u0974 | 00:55:40.130-00:55:44.920 | Delwath] So that's {{40 to want the 1st to crit}}. So that's what 4d10 plus
 [u0975 | 00:55:45.290-00:55:45.860 | Delwath] plus.
 [u0976 | 00:55:45.860-00:55:47.520 | DM] 12 plus
 [u0977 | 00:55:47.930-00:55:50.080 | DM] 4d10 plus
@@ -1038,7 +1038,7 @@
 [u1038 | 00:59:16.370-00:59:17.210 | Seeker] Yeah.
 [u1039 | 00:59:17.590-00:59:19.659 | DM] And that brings us to.
 [u1040 | 00:59:20.840-00:59:22.530 | Delwath] And spirit shroud goes away.
-[u1041 | 00:59:23.010-00:59:23.880 | DM] Wellby [[Harold]].
+[u1041 | 00:59:23.010-00:59:23.880 | DM] Wellby {{Harold}}.
 [u1042 | 00:59:23.880-00:59:25.010 | Delwath] Tutus.
 [u1043 | 00:59:29.440-00:59:32.959 | Wellby] Can I get all 3 of those minions with shot.
 [u1044 | 00:59:33.903-00:59:38.270 | DM] No cause, Delwath's in the way you could skewer 2 of them.
@@ -1119,7 +1119,7 @@
 [u1119 | 01:03:49.310-01:03:52.300 | DM] 29 points of damage.
 [u1120 | 01:03:52.510-01:03:53.180 | Wellby] Continue down.
 [u1121 | 01:03:53.180-01:03:58.960 | DM] You're also dragged close, and it seems there's now these vines that are wrapping up, you know.
-[u1122 | 01:03:59.697-01:04:06.990 | DM] swirling around Kenzo and [[Delwath]], and it looks like it's trying to like somehow. Pull them into this knot.
+[u1122 | 01:03:59.697-01:04:06.990 | DM] swirling around Kenzo and {{Delwath}}, and it looks like it's trying to like somehow. Pull them into this knot.
 [u1123 | 01:04:07.220-01:04:11.730 | DM] But it's the vines are vulnerable while they're wrapped around you as
 [u1124 | 01:04:12.650-01:04:13.850 | DM] Kenzo.
 [u1125 | 01:04:17.480-01:04:19.300 | DM] Presumably he pummels the vines.
@@ -1352,7 +1352,7 @@
 [u1352 | 01:19:01.420-01:19:09.339 | DM] like, you know that the old elves, who were sort of preparing the troops talked about, was Cha'mutte's connection to the plane of chaos
 [u1353 | 01:19:09.370-01:19:10.919 | DM] known as Limbo.
 [u1354 | 01:19:11.230-01:19:15.229 | DM] And now you have to be prepared on the battlefield, because
-[u1355 | 01:19:15.570-01:19:18.870 | DM] you never knew when things might shift or [[fix]].
+[u1355 | 01:19:15.570-01:19:18.870 | DM] you never knew when things might shift or {{fix}}.
 [u1356 | 01:19:18.970-01:19:22.529 | DM] or elements might crash together or split apart.
 [u1357 | 01:19:22.980-01:19:25.759 | DM] The ground might shift underneath you
 [u1358 | 01:19:26.300-01:19:28.360 | DM] because Cha'mutte.
@@ -1425,7 +1425,7 @@
 [u1425 | 01:23:27.830-01:23:29.730 | Seeker] Obviously, there's some relationship there.
 [u1426 | 01:23:33.790-01:23:35.579 | DM] Yes, this is all stuff that
 [u1427 | 01:23:36.420-01:23:38.330 | DM] you have no idea about, but
-[u1428 | 01:23:38.480-01:23:40.509 | DM] at some point I think [[I was earned]].
+[u1428 | 01:23:38.480-01:23:40.509 | DM] at some point I think {{I was earned}}.
 [u1429 | 01:23:40.680-01:23:41.620 | Delwath] So
 [u1430 | 01:23:43.150-01:23:43.890 | Delwath] I have that, and.
 [u1431 | 01:23:43.890-01:23:45.820 | Seeker] Observatory on the ship, now too.
@@ -1998,7 +1998,7 @@
 [u1998 | 02:01:48.000-02:01:49.060 | DM] Yeah, like.
 [u1999 | 02:01:49.990-02:01:50.879 | DM] you know.
 [u2000 | 02:01:51.830-02:01:54.220 | DM] dozens to hundreds of miles.
-[u2001 | 02:01:55.640-02:02:00.810 | Delwath] So my suggestion is, [[go music]] like, is it? Pitch black.
+[u2001 | 02:01:55.640-02:02:00.810 | Delwath] So my suggestion is, {{go music}} like, is it? Pitch black.
 [u2002 | 02:02:02.113-02:02:02.879 | DM] It's dark, right.
 [u2003 | 02:02:02.880-02:02:05.019 | Delwath] No sign of yeah.
 [u2004 | 02:02:05.020-02:02:07.169 | DM] No lights anywhere.
@@ -2061,7 +2061,7 @@
 [u2061 | 02:04:54.370-02:04:54.900 | Seeker] I'll cast.
 [u2062 | 02:04:54.900-02:04:55.699 | DM] Might only be 20.
 [u2063 | 02:04:55.700-02:04:56.029 | Seeker] What do you.
-[u2064 | 02:04:56.030-02:05:01.629 | DM] [[I'll send you to double check]], but it doesn't matter, for now cast clairvoyance down straight down.
+[u2064 | 02:04:56.030-02:05:01.629 | DM] {{I'll send you to double check}}, but it doesn't matter, for now cast clairvoyance down straight down.
 [u2065 | 02:05:02.290-02:05:03.909 | Seeker] With vision. First yeah.
 [u2066 | 02:05:05.030-02:05:07.320 | DM] Spell fails, nothing happens.
 [u2067 | 02:05:07.860-02:05:10.400 | Seeker] The spell fails. What could cause that?
@@ -2234,7 +2234,7 @@
 [u2234 | 02:14:32.430-02:14:34.889 | Seeker] if it can teleport 30 feet.
 [u2235 | 02:14:37.680-02:14:39.260 | Seeker] make it mirthful.
 [u2236 | 02:14:42.550-02:14:49.729 | DM] So just remind me where exactly is Vindristjarna. Now, are you up like 3,000 feet? Yeah, above the clouds.
-[u2237 | 02:14:49.980-02:14:54.359 | DM] So you fly down to like talk to the birds, and then you fly back up to the to the [[lake]].
+[u2237 | 02:14:49.980-02:14:54.359 | DM] So you fly down to like talk to the birds, and then you fly back up to the to the {{lake}}.
 [u2238 | 02:14:54.360-02:14:55.260 | Delwath] We're wasting a.
 [u2239 | 02:14:55.260-02:14:55.650 | DM] Hold it!
 [u2240 | 02:14:55.650-02:14:56.679 | Delwath] I'm flying around.
@@ -2295,7 +2295,7 @@
 [u2295 | 02:17:13.850-02:17:15.180 | Delwath] He has a cloak of the manta ray,
 [u2296 | 02:17:15.860-02:17:18.519 | Delwath] Yeah, Seeker can polymorph into a whale
 [u2297 | 02:17:19.360-02:17:20.110 | Delwath] right
-[u2298 | 02:17:22.040-02:17:24.230 | Delwath] Delwath can [[acquaint]], can cast.
+[u2298 | 02:17:22.040-02:17:24.230 | Delwath] Delwath can {{acquaint}}, can cast.
 [u2299 | 02:17:24.719-02:17:26.669 | Delwath] alter self to be able to swim.
 [u2300 | 02:17:28.530-02:17:29.979 | Delwath] and Wellby's screwed.
 [u2301 | 02:17:29.980-02:17:32.550 | Wellby] Mostly just a surface phenomena like you.
@@ -2530,7 +2530,7 @@
 [u2530 | 02:30:44.500-02:30:46.269 | DM] How big's the big version?
 [u2531 | 02:30:47.680-02:30:51.860 | Wellby] 20 feet. I want to say undecked single mast. Is that true?
 [u2532 | 02:30:56.660-02:30:57.479 | DM] You kind of
-[u2533 | 02:30:58.000-02:30:59.509 | DM] [[toss us back and stare]].
+[u2533 | 02:30:58.000-02:30:59.509 | DM] {{toss us back and stare}}.
 [u2534 | 02:30:59.610-02:31:01.239 | DM] I'd set out to worse.
 [u2535 | 02:31:08.010-02:31:10.360 | Seeker] To halflings. Like to brag to brag. Okay.
 [u2536 | 02:31:11.810-02:31:12.920 | Seeker] this one does.

@@ -17,7 +17,7 @@ Seeker: Oh geez.
 DM: Not particularly prepared. They've got their armor on, but they seem to have been resting or sleeping, and are grumbling to each other, like, “What are those stupid manticores up to?” Heading in this direction. You have about a minute before they're here.
 
 %% u1746 %%
-Kenzo: [[Have them all.]]
+Kenzo: {{Have them all.}}
 
 %% u1747 %%
 Wellby: I telepathically give that heads-up to everybody.
@@ -41,7 +41,7 @@ Seeker: Our peaceful fact-finding mission. So, well...
 Kenzo: They're always bloodthirsty.
 
 %% u1758 %%
-DM: [[Villager]] could just walk past.
+DM: {{Villager}} could just walk past.
 
 %% u1759-u1760 %%
 Wellby: This is the best possible thing, because it would have been even worse to leave manticores and orcs behind.
@@ -353,7 +353,7 @@ DM: One d4, yeah. It's looking pretty wounded from that blow.
 Delwath: Now punch it.
 
 %% u1907 %%
-Kenzo: [[Pays.]]
+Kenzo: {{Pays.}}
 
 %% u1908 %%
 DM: Off balance from your—you're not quite used to punching...
@@ -398,7 +398,7 @@ Seeker: Oh, I'm totally out of sight and out of range of everything.
 Kenzo: I'm going to check my email.
 
 %% u1929 %%
-Delwath: [[Views are terrible.]]
+Delwath: {{Views are terrible.}}
 
 %% u1930-u1935 %%
 Seeker: So my next move allows me to get not even near the door yet, right? No. Oh man.
@@ -443,7 +443,7 @@ Seeker: What is the line from Princess Bride? Tearing their arms off? Yeah, just
 DM: Okay, Delwath, you're up.
 
 %% u1954-u1960 %%
-Delwath: I'll go there and attack. I will—hold on a second, let me just check the [[target to the day]]. Okay, so I will stab the guy right in front of me, yeah, but my sword, my black-as-night shadow sword, will engulf itself in green flame as I swing at the orc.
+Delwath: I'll go there and attack. I will—hold on a second, let me just check the {{target to the day}}. Okay, so I will stab the guy right in front of me, yeah, but my sword, my black-as-night shadow sword, will engulf itself in green flame as I swing at the orc.
 
 %% u1961-u1963 %%
 Delwath: But that misses. Fourteen misses.
@@ -557,7 +557,7 @@ Delwath: Kill this one first, and then grapple the captain. You're super giant a
 DM: The first quarterstaff hits. Roll the extra d4 for the damage. Oh yeah. The second one misses.
 
 %% u2025 %%
-Seeker: And [[crush on major]], where's your...?
+Seeker: And {{crush on major}}, where's your...?
 
 %% u2026-u2027 %%
 DM: Unarmed strike. Yeah, those extra d4s really add up. That hits.
@@ -647,7 +647,7 @@ Seeker: That is kind of...
 Kenzo: These are nasty.
 
 %% u2069 %%
-Unknown: [[Half well.]]
+Unknown: {{Half well.}}
 
 %% u2070 %%
 Delwath: Rogues can damage.
@@ -662,7 +662,7 @@ Delwath: But you did just as much damage. You did—oh yeah. I mean, we all do a
 Kenzo: Yeah maybe.
 
 %% u2076-u2077 %%
-Wellby: Sneak attack. [[Speaker 4063]] right now.
+Wellby: Sneak attack. {{Speaker 4063}} right now.
 
 %% u2078 %%
 DM: Okay, Seeker, your turn.
@@ -809,10 +809,10 @@ Kenzo: What were you doing here?
 DM: Keeping watch.
 
 %% u2152 %%
-Wellby: [[What he worked for was here.]]
+Wellby: {{What he worked for was here.}}
 
 %% u2153-u2154 %%
-DM: Right, you said those both have the same—damn. [[Swear, I swear you say.]]
+DM: Right, you said those both have the same—damn. {{Swear, I swear you say.}}
 
 %% u2155 %%
 Wellby: Are there other creatures here?
@@ -950,7 +950,7 @@ Wellby: Who's in the city? Have you seen Grash?
 DM: Of course. We all worship him.
 
 %% u2224 %%
-Delwath: [[Let's see it in it.]]
+Delwath: {{Let's see it in it.}}
 
 %% u2225 %%
 Wellby: What does he look like? Is he an orc?
@@ -1028,10 +1028,10 @@ DM: They're not really dead. They only seem dead to those who cannot see.
 Wellby: Are the gnolls your allies or your enemies?
 
 %% u2260 %%
-Unknown: [[In.]]
+Unknown: {{In.}}
 
 %% u2261-u2262 %%
-DM: [[The back there... Enough.]] Interlopers. Spies.
+DM: {{The back there... Enough.}} Interlopers. Spies.
 
 %% u2263 %%
 Seeker: Who do the gnolls work for?
@@ -1064,7 +1064,7 @@ DM: I said I would answer your questions for my life, but not give you informati
 Wellby: Was...
 
 %% u2274-u2275 %%
-DM: [[Not a question risk.]] What?
+DM: {{Not a question risk.}} What?
 
 %% u2276 %%
 Wellby: We want to throw a surprise party for Grash.
@@ -1097,10 +1097,10 @@ DM: I do not know.
 Wellby: Keep interrogating...
 
 %% u2288 %%
-DM: [[Good my.]]
+DM: {{Good my.}}
 
 %% u2289 %%
-Wellby: [[Building we were supposed to be happening]], so...
+Wellby: {{Building we were supposed to be happening}}, so...
 
 %% u2290-u2291 %%
 DM: I have answered your questions. I have surrendered. I have thrown down my weapons.

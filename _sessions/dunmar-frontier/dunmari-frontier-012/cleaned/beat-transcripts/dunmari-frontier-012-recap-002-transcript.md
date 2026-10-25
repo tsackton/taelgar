@@ -74,7 +74,7 @@ DM: Can everybody just roll initiative, just so I have an order?
 Kenzo: You like chaos better: who talks better goes first.
 
 %% u0348 %%
-Unknown: [[Others.]]
+Unknown: {{Others.}}
 
 %% u0349 %%
 Seeker: Didn't work.
@@ -113,7 +113,7 @@ DM: Like for spells and for everything else.
 Seeker: No, no.
 
 %% u0367 %%
-Wellby: [[No, it's a real uncut]] after leveling up.
+Wellby: {{No, it's a real uncut}} after leveling up.
 
 %% u0368 %%
 Delwath: You shouldn't have to, but—
@@ -134,7 +134,7 @@ Riswynn: I'm in the tower window instead of in the guardroom, but there's still 
 DM: Yeah, there's windows in the tower.
 
 %% u0379-u0381 %%
-Seeker: Oh, and it did it twice, but the first one is a natural twenty. [[Yesterday]], because I don't even know what I want to do, but I'm giving Wellby—
+Seeker: Oh, and it did it twice, but the first one is a natural twenty. {{Yesterday}}, because I don't even know what I want to do, but I'm giving Wellby—
 
 %% u0382 %%
 Riswynn: Okay.
@@ -143,7 +143,7 @@ Riswynn: Okay.
 DM: So, and then I need to... Okay, so while these arrows come flying out—that hits, definitely. At the demon.
 
 %% u0389-u0391 %%
-Wellby: That's that. Is this [[woman no to this thing]]? So that should be eleven total.
+Wellby: That's that. Is this {{woman no to this thing}}? So that should be eleven total.
 
 %% u0392-u0393 %%
 Seeker: So you can use the inspiration to make it a thunder attack or something.
@@ -281,7 +281,7 @@ Riswynn: Just right, sort of—
 Unknown: Like—
 
 %% u0472-u0474 %%
-Riswynn: Right in the middle of them, somewhere over here-ish. [[Not worry]]—is that it? Yeah.
+Riswynn: Right in the middle of them, somewhere over here-ish. {{Not worry}}—is that it? Yeah.
 
 %% u0475 %%
 DM: There is better. You can move up.
@@ -350,7 +350,7 @@ Delwath: It's actually way more useful for you—for me—if you don't put the l
 DM: Plus, remember, Sleep is more useful for knocking out lots of weak enemies than trying to get one strong enemy. There's a very good chance it just wouldn't do anything at all.
 
 %% u0514-u0516 %%
-Seeker: All right, so can I get, say, three or four of these by doing it here? What would I get? [[Turner Mickey Mickey.]] If I do it back there, would I potentially get three non-gnoll creatures? I don't know what those are.
+Seeker: All right, so can I get, say, three or four of these by doing it here? What would I get? {{Turner Mickey Mickey.}} If I do it back there, would I potentially get three non-gnoll creatures? I don't know what those are.
 
 %% u0517 %%
 DM: There's hyenas back there. It's a twenty-foot radius.
@@ -386,7 +386,7 @@ Kenzo: How many points do you need to have a—?
 DM: Five d8.
 
 %% u0531 %%
-Seeker: Plus two d8 for a second-level Sleep, so that's seven d8, [[two fifty-six]].
+Seeker: Plus two d8 for a second-level Sleep, so that's seven d8, {{two fifty-six}}.
 
 %% u0532 %%
 Kenzo: The leader's got—
@@ -401,7 +401,7 @@ Seeker: I'm gonna go for the hyenas back here, so I'll put it in such a place th
 DM: Well, it goes from lowest to highest, so assuming that point—
 
 %% u0540-u0544 %%
-Seeker: So I'll try to get all three of them. Get in the center of those hyenas. Okay, go to sleep, hyenas. Oh, that made the spell appear, and then I need to do [[IDA]], an additional two d8.
+Seeker: So I'll try to get all three of them. Get in the center of those hyenas. Okay, go to sleep, hyenas. Oh, that made the spell appear, and then I need to do {{IDA}}, an additional two d8.
 
 %% u0545-u0554 %%
 DM: Thirty-three. Okay, so as this rune flies out—let's see, we'll use that for... Even though they're not technically unconscious. Three hyenas collapse, and then let's see, and that—
@@ -425,7 +425,7 @@ Unknown: Which is—
 DM: That does hit. So one arrow comes flying through this arrow slit and manages to nick her. The second arrow, again, bounces harmlessly off the walls, and then they turn.
 
 %% u0578-u0588 %%
-DM: Okay, and then same with the rest of these gnolls. Arrows come clattering up against the wall. Miss, hitting the wall, not even hitting a wall, bouncing off the wall. One flying towards Wellby, missing. And then also flying towards Wellby, and last one, seventeen. What's your AC? [[Cell.]] And then these all turn and begin to run, abandoning the hyenas.
+DM: Okay, and then same with the rest of these gnolls. Arrows come clattering up against the wall. Miss, hitting the wall, not even hitting a wall, bouncing off the wall. One flying towards Wellby, missing. And then also flying towards Wellby, and last one, seventeen. What's your AC? {{Cell.}} And then these all turn and begin to run, abandoning the hyenas.
 
 %% u0589-u0594 %%
 DM: And then this one, the one carrying the glaive, also takes out his longbow and sends one arrow at Delwath: nineteen.
@@ -500,7 +500,7 @@ Wellby: If.
 Unknown: Somebody could throw you a rope.
 
 %% u0626 %%
-Wellby: You could also jump down on the bottom side of that, [[with respect to run down]], and open the gate.
+Wellby: You could also jump down on the bottom side of that, {{with respect to run down}}, and open the gate.
 
 %% u0627 %%
 Unknown: And go.
@@ -524,7 +524,7 @@ Kenzo: I jump down, and now I'm like, okay... So if and when I jump down, how do
 DM: You have to walk all the way over to the outside of the tower and go up two flights of stairs.
 
 %% u0639-u0642 %%
-Kenzo: [[Of Japan.]] Yes. Yeah, me jumping down here doesn't really do much good, does it? Doesn't feel that useful.
+Kenzo: {{Of Japan.}} Yes. Yeah, me jumping down here doesn't really do much good, does it? Doesn't feel that useful.
 
 %% u0643 %%
 Riswynn: Unless it draws them into the keep, and then we end up in battle inside the keep.
@@ -548,7 +548,7 @@ Wellby: I'm gonna shoot the—where's the leader again?
 Delwath: Right.
 
 %% u0655 %%
-DM: [[Now she's not either]]—the leader is this one.
+DM: {{Now she's not either}}—the leader is this one.
 
 %% u0656 %%
 Delwath: That one. Yeah.
@@ -590,7 +590,7 @@ Delwath: I will Eldritch Blast the leader. So thirteen damage. I assume the twen
 DM: He's looking pretty shaken up at this point. Let's see, Riswynn.
 
 %% u0679 %%
-Riswynn: [[And will wonder.]]
+Riswynn: {{And will wonder.}}
 
 %% u0680 %%
 DM: Ten misses.
@@ -605,7 +605,7 @@ Riswynn: And still get movement, yes.
 DM: It can move twenty feet.
 
 %% u0684 %%
-Riswynn: So it could just go up to the [[camera]].
+Riswynn: So it could just go up to the {{camera}}.
 
 %% u0685 %%
 Delwath: It won't get to him.
@@ -653,7 +653,7 @@ Seeker: OK.
 DM: So the leader is eighty feet away. What's the range of your—?
 
 %% u0716 %%
-Seeker: [[Oh no he me.]]
+Seeker: {{Oh no he me.}}
 
 %% u0717 %%
 DM: So I think disadvantage, or is that—what's your crossbow? The two ranges?
@@ -680,16 +680,16 @@ Unknown: Worked.
 Seeker: So, you guys—
 
 %% u0731 %%
-Kenzo: [[Actually is that we can kill him thirty.]]
+Kenzo: {{Actually is that we can kill him thirty.}}
 
 %% u0732 %%
-Delwath: [[When I turned around.]]
+Delwath: {{When I turned around.}}
 
 %% u0733 %%
 Wellby: Yeah, just close it. Close—
 
 %% u0734-u0737 %%
-Kenzo: I'm probably gonna close the—[[call more of them]]. We're definitely gonna close it, and then you get them back in range and just pummel a bunch more. Then just run out and clean up. But I'm not gonna fight one on nine. That'd be kind of dumb.
+Kenzo: I'm probably gonna close the—{{call more of them}}. We're definitely gonna close it, and then you get them back in range and just pummel a bunch more. Then just run out and clean up. But I'm not gonna fight one on nine. That'd be kind of dumb.
 
 %% u0738 %%
 Riswynn: One on nine with aerial support.
@@ -704,25 +704,25 @@ Kenzo: This is like the legend of Kenzo with the nine tails or whatever.
 Unknown: Yeah.
 
 %% u0745-u0746 %%
-Seeker: Yeah, like [[climbing-fisted]] Kenzo, part one: a choose-your-own-adventure novel.
+Seeker: Yeah, like {{climbing-fisted}} Kenzo, part one: a choose-your-own-adventure novel.
 
 %% u0747-u0748 %%
 Kenzo: Well, it's choose-your-own-adventure novels combined with Hong Kong martial arts movies, right? This is the critical element here.
 
 %% u0749 %%
-Seeker: [[With them.]]
+Seeker: {{With them.}}
 
 %% u0750 %%
-Wellby: [[Just kids. I have a listening.]]
+Wellby: {{Just kids. I have a listening.}}
 
 %% u0751 %%
-Kenzo: [[Now, or not that you guys are, we're—]]
+Kenzo: {{Now, or not that you guys are, we're—}}
 
 %% u0752 %%
 Unknown: Huh.
 
 %% u0753 %%
-Wellby: I feel like it should be [[batch]], like a Kenzo the Monk—
+Wellby: I feel like it should be {{batch}}, like a Kenzo the Monk—
 
 %% u0754-u0755 %%
 Seeker: There's a diagonal "Coming soon," and then there's a preview at the very end, a few pages of the next one.
@@ -734,7 +734,7 @@ DM: Okay, so they all basically just turn and sprint this way. This is—
 Kenzo: Great.
 
 %% u0760 %%
-Delwath: [[This is our places.]] Yeah.
+Delwath: {{This is our places.}} Yeah.
 
 %% u0761 %%
 Kenzo: Incredibly effective. Now they're all—
@@ -752,7 +752,7 @@ Seeker: Again, and you can—
 Kenzo: Literally going to close the door.
 
 %% u0766 %%
-Wellby: Like a game with a really bad AI, [[upload me]].
+Wellby: Like a game with a really bad AI, {{upload me}}.
 
 %% u0767 %%
 Seeker: Exactly.
@@ -797,7 +797,7 @@ Kenzo: Actually, if you guys slow him fast enough, I can probably run really fas
 DM: Okay, Vola's going to move out to get a better angle on these down here, and again put her hand down and launch this glowing blade, which will miss. And then the second one also misses. Which brings us to Kenzo.
 
 %% u0790-u0794 %%
-Kenzo: What do I do? What I really want to do is run after the main guy, but I will not be able to get over to him, [[about always be the faculty]]. Let's see. I guess I could just start trying to kill the guys in front of me, but if I step forward... Yeah, I don't want to do that. That'd be bad. [[I get asked a lot.]] Can I just close the door? Because I really want to be—
+Kenzo: What do I do? What I really want to do is run after the main guy, but I will not be able to get over to him, {{about always be the faculty}}. Let's see. I guess I could just start trying to kill the guys in front of me, but if I step forward... Yeah, I don't want to do that. That'd be bad. {{I get asked a lot.}} Can I just close the door? Because I really want to be—
 
 %% u0795 %%
 Wellby: Right.
@@ -809,7 +809,7 @@ Kenzo: Yeah, I guess I'll close the door. I'm going to close the door, Tim.
 DM: Okay, make a Strength check.
 
 %% u0798-u0799 %%
-Kenzo: No, really? [[Yeah minutes.]]
+Kenzo: No, really? {{Yeah minutes.}}
 
 %% u0800-u0803 %%
 DM: Very good. You do swing the door and try to get the bar in position, but it's awkward. It's unwieldy. It's pretty easy to lift off, but to get it back up and seated where it would bar the door is not trivial, and it's not well closed at this point.
@@ -902,13 +902,13 @@ Seeker: Oh, d6.
 DM: Okay so roll a d6.
 
 %% u0847 %%
-Unknown: [[Ain't that's—]]
+Unknown: {{Ain't that's—}}
 
 %% u0848 %%
 Wellby: Awesome.
 
 %% u0849-u0851 %%
-Seeker: And then there's another [[fourteen to this dizzy or football attack become a Sunday]]. Oh, yes.
+Seeker: And then there's another {{fourteen to this dizzy or football attack become a Sunday}}. Oh, yes.
 
 %% u0852 %%
 DM: Attack, because you don't have advantage.
@@ -941,7 +941,7 @@ Kenzo: No, he's got forty. He's still pretty strong.
 Delwath: No, we hit him a lot.
 
 %% u0862-u0863 %%
-Kenzo: I've been keeping track, I think. Actually, Tim just [[humming, I'm still setting in red]], so—
+Kenzo: I've been keeping track, I think. Actually, Tim just {{humming, I'm still setting in red}}, so—
 
 %% u0864 %%
 DM: He's now out of range of your Soul Sight.
@@ -986,7 +986,7 @@ Delwath: And he got hit twice with my force blast too. I did about twenty damage
 Seeker: I hit him for eight.
 
 %% u0879-u0880 %%
-Kenzo: Oh, sorry, I missed [[rockets]]. Then he's got less than forty. [[Let me start with good.]]
+Kenzo: Oh, sorry, I missed {{rockets}}. Then he's got less than forty. {{Let me start with good.}}
 
 %% u0881-u0882 %%
 DM: Wait, Eric, what does your rune of destruction do?
@@ -1055,7 +1055,7 @@ Riswynn: No matter what? I mean, am I the last chance of anybody doing anything 
 Delwath: I think so.
 
 %% u0925 %%
-Riswynn: Maybe I should try it, [[no disadvantage]].
+Riswynn: Maybe I should try it, {{no disadvantage}}.
 
 %% u0926 %%
 Wellby: But it was worth it.
@@ -1067,7 +1067,7 @@ Riswynn: Yeah, okay. I'm feeling that sort of desperation vibe. All right, so—
 DM: No, that misses.
 
 %% u0930-u0931 %%
-Riswynn: [[Anything wrong.]] I could follow the sequence. It gets even worse.
+Riswynn: {{Anything wrong.}} I could follow the sequence. It gets even worse.
 
 %% u0932-u0933 %%
 DM: So your bolt just flies wide. It's just not as well... It's too far away to get a good sight on it. Seeker.
@@ -1079,13 +1079,13 @@ Riswynn: Hold on, my—
 DM: Still—oh, that's right.
 
 %% u0936 %%
-Riswynn: I'm still trying to [[consume it into like—]]
+Riswynn: I'm still trying to {{consume it into like—}}
 
 %% u0937 %%
 DM: The only one you can get to is—
 
 %% u0938 %%
-Unknown: [[Sad as—]]
+Unknown: {{Sad as—}}
 
 %% u0939 %%
 Riswynn: Can you move it for me, then? The map is jumping all over the place, and I can—
@@ -1094,7 +1094,7 @@ Riswynn: Can you move it for me, then? The map is jumping all over the place, an
 DM: Okay.
 
 %% u0941-u0943 %%
-Riswynn: Thank you. [[Bibles]], just clicking that gets damage, not casting the spell again.
+Riswynn: Thank you. {{Bibles}}, just clicking that gets damage, not casting the spell again.
 
 %% u0944-u0945 %%
 Kenzo: Pretty powerful that you've got a disembodied hammer that just whips around. Yeah, very sweet.
@@ -1148,7 +1148,7 @@ DM: Yes, your turn.
 Seeker: I notice that everyone is shooting at the fleeing leader. I squint off at it in the distance, look down at the crossbow in my hand, pray briefly to my ancestors, correct for the Coriolis force, lick my fingers and stick them in the air, check the wind, hold the crossbow out the arrow slit.
 
 %% u0968 %%
-Unknown: [[Is in school.]] Yes.
+Unknown: {{Is in school.}} Yes.
 
 %% u0969 %%
 Seeker: Oh, no.
@@ -1166,7 +1166,7 @@ DM: And you miscorrected for the Coriolis force. You got the direction—
 Wellby: Southern—
 
 %% u0976 %%
-DM: [[Ontario]], but—
+DM: {{Ontario}}, but—
 
 %% u0977-u0978 %%
 Seeker: I also heard Kenzo's reaction to the gate almost falling on his head, and draw a picture of that in the air and flick it down to him for inspiration. So you have—
@@ -1175,7 +1175,7 @@ Seeker: I also heard Kenzo's reaction to the gate almost falling on his head, an
 DM: Got to move somewhere where you can see him.
 
 %% u0980-u0983 %%
-Seeker: I'll run back there. Oh, so I'm like, [[I couldn't wait out girl]].
+Seeker: I'll run back there. Oh, so I'm like, {{I couldn't wait out girl}}.
 
 %% u0984 %%
 DM: Yeah, okay. From there, you could see him.
@@ -1196,7 +1196,7 @@ DM: Attack or saving throw. So anytime you roll a d20, basically, you can add a 
 Seeker: Yeah.
 
 %% u0991 %%
-Kenzo: One-time operation? [[That for rapid progression]]—how does that—?
+Kenzo: One-time operation? {{That for rapid progression}}—how does that—?
 
 %% u0992 %%
 DM: Lasts for ten minutes.
@@ -1223,10 +1223,10 @@ DM: And that hits. Yeah, she's not—
 Unknown: Two arrows—
 
 %% u1004-u1006 %%
-DM: —slam into her and she staggers back, in bad shape, practically... [[Thank God, or good]], she's bleeding. That was just from one of them. The other is holding its action. Okay, now—
+DM: —slam into her and she staggers back, in bad shape, practically... {{Thank God, or good}}, she's bleeding. That was just from one of them. The other is holding its action. Okay, now—
 
 %% u1007 %%
-DM: Not back, stop it, stop it, stop it. [[Records]] horrible. Okay, so now these two gnolls are just gonna rush forward headlong into this gate.
+DM: Not back, stop it, stop it, stop it. {{Records}} horrible. Okay, so now these two gnolls are just gonna rush forward headlong into this gate.
 
 %% u1008 %%
 Unknown: Don't—
@@ -1301,7 +1301,7 @@ Seeker: Two, three, one, two, three, four.
 DM: —run and slam into the door. So make another Strength check.
 
 %% u1044 %%
-Seeker: [[Nicklaus.]]
+Seeker: {{Nicklaus.}}
 
 %% u1045-u1046 %%
 DM: Tie goes to the current situation, so the door still does not open.
@@ -1313,7 +1313,7 @@ Unknown: Where—?
 DM: And this one is gonna stay sort of underneath. Yeah, actually both of them are gonna stay underneath that. Let's see, and there's one more gnoll. Make one more Strength check.
 
 %% u1052 %%
-Kenzo: [[Is man.]]
+Kenzo: {{Is man.}}
 
 %% u1053 %%
 Seeker: They want to get through there.
@@ -1361,13 +1361,13 @@ Seeker: Wow.
 DM: You can deflect missiles roll a d10.
 
 %% u1077 %%
-Seeker: [[Address.]] Oh my God.
+Seeker: {{Address.}} Oh my God.
 
 %% u1078 %%
 Unknown: Yeah.
 
 %% u1079 %%
-Kenzo: Yeah, I can totally Deflect Missiles. Come on, [[login musky]] mortal arrows. All right, so what—?
+Kenzo: Yeah, I can totally Deflect Missiles. Come on, {{login musky}} mortal arrows. All right, so what—?
 
 %% u1080 %%
 DM: That's an awesome ability.
@@ -1382,7 +1382,7 @@ Kenzo: And have a free hand. Yes, all I have to do is spend a ki, and I can Defl
 DM: You don't even have to spend a ki. You just do it; you use your reaction.
 
 %% u1085 %%
-Kenzo: [[Like it looking]] perfect.
+Kenzo: {{Like it looking}} perfect.
 
 %% u1086 %%
 DM: So you can add your monk—add four.
@@ -1397,7 +1397,7 @@ Delwath: It does that much less damage.
 DM: It reduces the damage by that amount. So now you can spend a ki to throw it back. The damage is zero. You can spend a ki to throw it back.
 
 %% u1093-u1095 %%
-Kenzo: Why am I so awesome? All right. [[We don't see that as a thing.]] Oh my God, yeah: "If you've reduced damage to zero and have a free hand, you can spend one ki point to make a ranged attack." Oh shit, so I can literally take it, deflect it, and then—
+Kenzo: Why am I so awesome? All right. {{We don't see that as a thing.}} Oh my God, yeah: "If you've reduced damage to zero and have a free hand, you can spend one ki point to make a ranged attack." Oh shit, so I can literally take it, deflect it, and then—
 
 %% u1096 %%
 Unknown: Yeah.
@@ -1409,13 +1409,13 @@ Kenzo: All right, so how do I—?
 Seeker: Do—I'm rapidly scribbling notes.
 
 %% u1100-u1101 %%
-DM: [[Are just a book and—]]
+DM: {{Are just a book and—}}
 
 %% u1102 %%
 Unknown: Then.
 
 %% u1103-u1104 %%
-DM: [[It. Good.]] Are you—?
+DM: {{It. Good.}} Are you—?
 
 %% u1105 %%
 Riswynn: Watching out the window, Seeker?
@@ -1490,7 +1490,7 @@ Delwath: What's your max range, crossbow folks?
 DM: Two-forty, I think.
 
 %% u1145-u1146 %%
-Seeker: [[Once we return.]]
+Seeker: {{Once we return.}}
 
 %% u1147 %%
 DM: Three-twenty. Probably still within max range, the leader.
@@ -1505,7 +1505,7 @@ Seeker: Just remember to correct for the Coriolis force in the correct direction
 Kenzo: Remember to keep your eyes open.
 
 %% u1151 %%
-Unknown: [[I was the other—]]
+Unknown: {{I was the other—}}
 
 %% u1152 %%
 Kenzo: Secret, that was, you know—
@@ -1526,7 +1526,7 @@ Kenzo: Fucking hell. All right. Well, I guess like inside here is probably one o
 Delwath: Huh, right. Yep.
 
 %% u1165 %%
-Kenzo: Yep, I'm actually just going to go underneath this now, right? I'm going to go over here and just attack the guy that—[[he did you do I can find it]].
+Kenzo: Yep, I'm actually just going to go underneath this now, right? I'm going to go over here and just attack the guy that—{{he did you do I can find it}}.
 
 %% u1166 %%
 Unknown: Okay.
@@ -1541,7 +1541,7 @@ DM: Yeah, it is a ki. The Soul Sight, so you've used two.
 Delwath: How high up are we?
 
 %% u1171 %%
-Riswynn: [[CP didn't say.]]
+Riswynn: {{CP didn't say.}}
 
 %% u1172-u1173 %%
 DM: Thirty feet. Twenty-five feet.
@@ -1559,7 +1559,7 @@ DM: So your first attack smacks this one, clobbers him. Nearly dead.
 Kenzo: All right, then I'll try to finish him off with a strike. Yep, action.
 
 %% u1181 %%
-Seeker: [[Misses about—]]
+Seeker: {{Misses about—}}
 
 %% u1182-u1183 %%
 DM: The power of your quarterstaff, wham, big overhead two-handed strike, but you cannot quite recover quickly enough. You can spend the ki to Flurry of Blows if you want to get a third strike.
@@ -1586,13 +1586,13 @@ DM: Me. Yeah.
 Wellby: And I—
 
 %% u1194 %%
-Riswynn: [[Know that's is hiding.]]
+Riswynn: {{Know that's is hiding.}}
 
 %% u1195-u1196 %%
 Delwath: Yes, that was hiding.
 
 %% u1197 %%
-Kenzo: [[It allows the arrow.]]
+Kenzo: {{It allows the arrow.}}
 
 %% u1198-u1200 %%
 Wellby: So Wellby will close his eyes, will nock an arrow, will feel the breeze moving, and then open up the shot.
@@ -1622,7 +1622,7 @@ Seeker: From like two hundred feet away.
 DM: From two hundred feet away. Wellby's arrow just slides straight and true, and you see this gnoll in the distance fall over.
 
 %% u1211-u1212 %%
-Seeker: [[But not credible.]] What, there's two?
+Seeker: {{But not credible.}} What, there's two?
 
 %% u1213 %%
 Delwath: Yeah, the leader we got. The other one, I don't think we're gonna—

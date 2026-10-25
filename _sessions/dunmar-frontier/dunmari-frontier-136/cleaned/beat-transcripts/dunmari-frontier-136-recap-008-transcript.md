@@ -26,7 +26,7 @@ Wellby: Use a potion of speed so I'll have an extra action.
 Unknown: ... to make us all immune ... to get fireballs everywhere. I'll just give you... Just take all the beads. And then I gotta... Yeah.
 
 %% u6044 %%
-Kenzo: ... keep track of that. Although I probably have them [[leveraged out]], but...
+Kenzo: ... keep track of that. Although I probably have them {{leveraged out}}, but...
 
 %% u6045 %%
 DM: I don't know. I think you have, like, six left.
@@ -641,7 +641,7 @@ Unknown: Symbolic. It must be plus three. Yeah. I love that.
 Wellby: Yeah, exactly.
 
 %% u6302-u6303 %%
-Unknown: I love that. Just a [[piss one]].
+Unknown: I love that. Just a {{piss one}}.
 
 %% u6304-u6305 %%
 DM: I think it started as a plus two and I gave everybody an extra plus.
@@ -941,7 +941,7 @@ DM: Five creatures.
 Wellby: ... hit.
 
 %% u6417 %%
-Unknown: [[It's might]].
+Unknown: {{It's might}}.
 
 %% u6418 %%
 Wellby: That's a one and a three.
@@ -2207,7 +2207,7 @@ DM: Yeah.
 Seeker: ... through the door in the floor while-
 
 %% u6984 %%
-Unknown: He wishes he was [[no powers]] now.
+Unknown: He wishes he was {{no powers}} now.
 
 %% u6985 %%
 Seeker: ... gesturing vaguely in the air and muttering about dragons.
@@ -2219,7 +2219,7 @@ Unknown: Um-
 DM: And he has a Counterspell.
 
 %% u6988-u6989 %%
-Unknown: Oh, boy. No, [[neither does him]].
+Unknown: Oh, boy. No, {{neither does him}}.
 
 %% u6990 %%
 Seeker: And casts-
@@ -3287,7 +3287,7 @@ Seeker: I can legendary action pounce. The dragon moves up to half its speed and
 Wellby: So, with advantage.
 
 %% u7426 %%
-Seeker: ... [[hit by bowl]]. Why is it with advantage?
+Seeker: ... {{hit by bowl}}. Why is it with advantage?
 
 %% u7427-u7428 %%
 Unknown: 'Cause it's not... See, it's not... It's not...
@@ -3560,7 +3560,7 @@ Unknown: Yeah.
 DM: ... with only one legendary action to break it up.
 
 %% u7542 %%
-Wellby: [[Saving procedure's]] 36.
+Wellby: {{Saving procedure's}} 36.
 
 %% u7543 %%
 Unknown: Oh, wait.
@@ -3719,7 +3719,7 @@ Wellby: ... with my hasted action, ready an action to shoot the queen.
 Unknown: This is like in the journey.
 
 %% u7601-u7602 %%
-Wellby: What are the options for [[heroes]]? Like, as soon as the next—
+Wellby: What are the options for {{heroes}}? Like, as soon as the next—
 
 %% u7603 %%
 Unknown: These situations are, like, too complicated.
@@ -3776,7 +3776,7 @@ Unknown: That didn't...
 Seeker: I was set up right.
 
 %% u7625-u7626 %%
-Unknown: [[18 in the world already]].
+Unknown: {{18 in the world already}}.
 
 %% u7627 %%
 DM: It's now at minus four.
@@ -5999,7 +5999,7 @@ Unknown: Should we do that?
 Wellby: Who was done-
 
 %% u8602 %%
-Delwath: Well, after that [[cleanup and turn]].
+Delwath: Well, after that {{cleanup and turn}}.
 
 %% u8603 %%
 Wellby: ... take away.
@@ -7154,7 +7154,7 @@ DM: And then—
 Seeker: ... reaction. I'm like, shit, I'm just a dwarf.
 
 %% u9084-u9087 %%
-DM: The [[force bounce]] of that 53... The metallic blood is bloodied. That ends Seeker's turn. Kenzo.
+DM: The {{force bounce}} of that 53... The metallic blood is bloodied. That ends Seeker's turn. Kenzo.
 
 %% u9088 %%
 Kenzo: All right. Kenzo will fly 30 feet up through here and land over here.
@@ -7280,7 +7280,7 @@ DM: ... 'cause your staff's a plus two weapon.
 Kenzo: Yeah, okay. That's right. So two D10, two D12 plus 10. No.
 
 %% u9143-u9144 %%
-Unknown: [[A ban]]. 10. 15.
+Unknown: {{A ban}}. 10. 15.
 
 %% u9145 %%
 Kenzo: That's not great.

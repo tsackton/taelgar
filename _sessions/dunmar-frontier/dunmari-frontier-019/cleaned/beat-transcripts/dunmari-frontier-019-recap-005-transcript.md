@@ -29,10 +29,10 @@ Kenzo: You tell us, friend. What happened here? Looking directly at…
 DM: Is Kenzo speaking Dunmari?
 
 %% u1538 %%
-Unknown: [[Your companions, you…]]
+Unknown: {{Your companions, you…}}
 
 %% u1539 %%
-DM: [[Out]], and he's like staring at…
+DM: {{Out}}, and he's like staring at…
 
 %% u1540 %%
 Kenzo: Kenzo stands in front of Delwath.
@@ -47,7 +47,7 @@ Kenzo: Tell us, young one.
 DM: That's a long story.
 
 %% u1544 %%
-Unknown: [[Short, we sat on.]]
+Unknown: {{Short, we sat on.}}
 
 %% u1545-u1551 %%
 DM: He's shaking, and he staggers over to a little seat, a little area that's been cleared out with some water and stuff. He sits down. 'Are those creatures gone? The vultures?'
@@ -98,7 +98,7 @@ Unknown: …duty.
 DM: When we heard of the loss here, of the battle here, I came to see, to make sure that those who died are not forgotten. It is difficult work. It is a learning experience.
 
 %% u1598-u1609 %%
-DM: But I can sense their peace as the bodies burn and their souls go to sit with the gods and with Bhishma, Kotana. But this morning I was preparing the latest batch of bodies I had found, [[partially just arrived]] in houses that had collapsed. I had exposed the bodies out of the rubble and was preparing to burn them this evening when those birds started circling. One of them dove down at me and I ran. I didn't know what else to do. There were a lot of them, and they were very big.
+DM: But I can sense their peace as the bodies burn and their souls go to sit with the gods and with Bhishma, Kotana. But this morning I was preparing the latest batch of bodies I had found, {{partially just arrived}} in houses that had collapsed. I had exposed the bodies out of the rubble and was preparing to burn them this evening when those birds started circling. One of them dove down at me and I ran. I didn't know what else to do. There were a lot of them, and they were very big.
 
 %% u1610 %%
 Kenzo: Have you seen any vultures like that before in the area?
@@ -146,13 +146,13 @@ DM: Amil.
 Unknown: Delwath.
 
 %% u1631 %%
-Wellby: [[Laughing.]]
+Wellby: {{Laughing.}}
 
 %% u1632 %%
 DM: Has seen your kind before.
 
 %% u1633-u1634 %%
-Wellby: Because I felt like there was something—maybe it was for him, and they just [[strict]].
+Wellby: Because I felt like there was something—maybe it was for him, and they just {{strict}}.
 
 %% u1635-u1637 %%
 Delwath: Delwath nods slightly. 'I'm Delwath. I'm a visitor to your lands.'
@@ -170,7 +170,7 @@ DM: All you remember is a shepherd. There was a shepherd…
 Delwath: …taking care of you.
 
 %% u1649-u1652 %%
-DM: You don't have very clear memories. You remember appearing in the desert and seeing this ruined town with a giant arch, a giant monument of a horse, and sort of delirious with thirst and passing in and out of consciousness. Then you remember gradually becoming aware of this shepherd family who's taking care of you. [[Your masters found me about two hundred…]]
+DM: You don't have very clear memories. You remember appearing in the desert and seeing this ruined town with a giant arch, a giant monument of a horse, and sort of delirious with thirst and passing in and out of consciousness. Then you remember gradually becoming aware of this shepherd family who's taking care of you. {{Your masters found me about two hundred…}}
 
 %% u1653-u1655 %%
 Delwath: …miles from here. Where did this event occur, if I may ask? Which event? The finding of the elf.
@@ -179,7 +179,7 @@ Delwath: …miles from here. Where did this event occur, if I may ask? Which eve
 DM: In the desert. I only joined them a few months ago. I came from the north. This was before. This must have been during the rainy season last year. Right in the desert, they said.
 
 %% u1664 %%
-Kenzo: Which god of Dunmar do you serve? [[Although…]]
+Kenzo: Which god of Dunmar do you serve? {{Although…}}
 
 %% u1665-u1670 %%
 DM: We serve all the gods, of course, but I think it is not a forbidden truth for me to say that I am particularly a devotee of the mystery cult of Bhishma.
@@ -194,7 +194,7 @@ Delwath: Your masters—where are they now?
 DM: Still in their house south of here, on the edge of the desert. Southeast of here.
 
 %% u1676-u1677 %%
-Wellby: [[Soon.]] Where?
+Wellby: {{Soon.}} Where?
 
 %% u1678 %%
 DM: So a few days' journey to the east and south, on the edge of the desert.
@@ -203,7 +203,7 @@ DM: So a few days' journey to the east and south, on the edge of the desert.
 Wellby: Can you call up the battle map, so we can see the…?
 
 %% u1680 %%
-Delwath: [[Hour here]]—I mean, is this the stone house?
+Delwath: {{Hour here}}—I mean, is this the stone house?
 
 %% u1681 %%
 DM: It could be.
@@ -278,7 +278,7 @@ DM: She's the founder of Dunmar.
 Seeker: And she is the one who supposedly…
 
 %% u1725 %%
-Delwath: [[To volley back to]]. Right, right, right.
+Delwath: {{To volley back to}}. Right, right, right.
 
 %% u1726-u1727 %%
 DM: Supposedly is the mother of Shakun…
@@ -338,7 +338,7 @@ DM: It definitely looks like battle damage, or a combination of battle damage an
 Kenzo: What's the name again? Amil?
 
 %% u1765 %%
-Unknown: [[Problem.]]
+Unknown: {{Problem.}}
 
 %% u1766 %%
 Kenzo: Amil, do you know what did this? What was the source of all of this chaos here?
@@ -365,7 +365,7 @@ DM: My masters told me that there had been an attack, and that it was west, not 
 Unknown: …well, should be safe.
 
 %% u1788-u1789 %%
-DM: Or safer than heading east. Or south, [[the worst]].
+DM: Or safer than heading east. Or south, {{the worst}}.
 
 %% u1790 %%
 Kenzo: When are you supposed to return to your masters?
@@ -461,7 +461,7 @@ Seeker: I think this goes…
 DM: Right, this goes quite quickly. By evening, he's feeling pretty—you can have a big pyre. He does a big prayer with the sun setting. Probably he would be ready to leave by the next afternoon, after just spending the early part of the morning making sure that he didn't miss anybody. But he's been here a while, and he has a pretty good sense of things. It was just the time it took to clear rubble and get the bodies. That was very labor-intensive for one young guy, even though he looks pretty fit.
 
 %% u1863 %%
-Wellby: [[Logo.]]
+Wellby: {{Logo.}}
 
 %% u1864 %%
 Unknown: A.
@@ -491,7 +491,7 @@ Kenzo: I mean liberate the bodies. Sorry, liberate the bodies of any unwanted it
 DM: Yeah, cough. Recovering history when you do it, and looting when the party rogue does it.
 
 %% u1882 %%
-Unknown: [[Liberty.]]
+Unknown: {{Liberty.}}
 
 %% u1883-u1885 %%
 Wellby: I will say I think of the four of us, Wellby has the deepest respect for customs of the dead. But when you find an abandoned wizard's tower, who are you disrespecting by stealing from it, right?
@@ -581,13 +581,13 @@ DM: He walks off to set his troops' camp and get them prepared for an early depa
 Seeker: I take Kenzo aside in the evening and say, 'This kid seems to have an affinity for you. I'm a bit worried about the association of this place to Agata, who—we don't know quite what type of a person or villain she might be, and who she might be associated with. So it's worth finding out if the kid knows anything about her or…'
 
 %% u1960 %%
-Kenzo: [[Not guys.]]
+Kenzo: {{Not guys.}}
 
 %% u1961 %%
 Seeker: My intentions are pure.
 
 %% u1962-u1966 %%
-Kenzo: [[Leia.]] I don't think that, now that we've met Amil—he's a pretty—Tim, tell me if I'm reading this correctly, but he seems like the Dunmari…
+Kenzo: {{Leia.}} I don't think that, now that we've met Amil—he's a pretty—Tim, tell me if I'm reading this correctly, but he seems like the Dunmari…
 
 %% u1967 %%
 Unknown: Is.
@@ -602,7 +602,7 @@ Kenzo: Exactly.
 DM: How you felt six months after you arrived at the monastery.
 
 %% u1973-u1982 %%
-Kenzo: Exactly. What we know about Agata Dustmother, or what we've heard about her, this boy is a pretty typical young acolyte, basically. I don't sense that his masters are Agata Dustmother. [[I think that they did this—this is masters]]. My guess is, especially if they are the ones that have a relation to finding Delwath, it seems as though this is maybe not connected with Agata. Unless—and then Kenzo looks at Delwath—unless, Delwath, you are somehow involved in the trade.
+Kenzo: Exactly. What we know about Agata Dustmother, or what we've heard about her, this boy is a pretty typical young acolyte, basically. I don't sense that his masters are Agata Dustmother. {{I think that they did this—this is masters}}. My guess is, especially if they are the ones that have a relation to finding Delwath, it seems as though this is maybe not connected with Agata. Unless—and then Kenzo looks at Delwath—unless, Delwath, you are somehow involved in the trade.
 
 %% u1983-u1984 %%
 Seeker: Wow. Isn't that interesting?
@@ -626,7 +626,7 @@ Seeker: Appearances can be deceiving, and I see that you intuitively trust this 
 Kenzo: Tim, I've been Insight-ing him, and he seems just like a totally naive kid, right? He's not…
 
 %% u1991-u1994 %%
-DM: Yeah, what you sense from him, what you pick up from him, is some surprise and [[talk]] a bit, but also your sense of him is he's an eager young…
+DM: Yeah, what you sense from him, what you pick up from him, is some surprise and {{talk}} a bit, but also your sense of him is he's an eager young…
 
 %% u1995 %%
 Kenzo: Totally, totally.
@@ -677,7 +677,7 @@ DM: There's more to people than what's here, they tell me. Part of us resides el
 Unknown: …of that…
 
 %% u2032-u2036 %%
-DM: …part of us. But I cannot see it enough. Maybe if I just prove myself worthy of the gods, if Bhishma would bless me, she would open my eyes to that vision. [[Look at]], they're wise and see far.
+DM: …part of us. But I cannot see it enough. Maybe if I just prove myself worthy of the gods, if Bhishma would bless me, she would open my eyes to that vision. {{Look at}}, they're wise and see far.
 
 %% u2037-u2038 %%
 Kenzo: Thank you. I'll look forward to meeting your masters. Here we go.

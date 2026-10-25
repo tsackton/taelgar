@@ -50,7 +50,7 @@ Delwath: Well, I could rest for an hour. I'm hoping I could find a way to open t
 DM: Okay.
 
 %% u0819 %%
-Seeker: [[Will destroy any to]]…
+Seeker: {{Will destroy any to}}…
 
 %% u0820-u0821 %%
 DM: Rope with you?
@@ -62,7 +62,7 @@ Delwath: Yes, yeah.
 Seeker: He definitely brought the rope with him. Okay.
 
 %% u0824 %%
-Unknown: [[Who does mom]].
+Unknown: {{Who does mom}}.
 
 %% u0825-u0832 %%
 DM: Okay, so this is a surprisingly intact bedchamber. There’s a bed, a wardrobe, a small table and chair, and a chest. There’s a divider that splits the room, with the southern half of the room being a bedroom and the other half being a study. There are tapestries that hang between, and there’s three windows that look out over the plains, or over the granite. That’s one floor down. Oh, but last time when you jumped, you Misty Stepped, which helped you not take a ton of damage. Interesting. There’s tapestries that hang between the windows, and then there’s two paintings hanging on either side of the door on that wall.
@@ -194,7 +194,7 @@ Delwath: I will chuck—you said there’s six bags of silver and gold?
 Unknown: Silver and copper.
 
 %% u0917-u0919 %%
-DM: Yeah, so there’s two pouches of silver and four of copper. The silver’s somewhat lighter. The copper, each one might weigh about ten pounds. The silver, each one might weigh about [[to live]].
+DM: Yeah, so there’s two pouches of silver and four of copper. The silver’s somewhat lighter. The copper, each one might weigh about ten pounds. The silver, each one might weigh about {{to live}}.
 
 %% u0920 %%
 Delwath: Chuck them out the window.
@@ -236,7 +236,7 @@ Delwath: Wow. Pocket the goggles. I’m going to take ten minutes to look again 
 Unknown: Okay.
 
 %% u0936 %%
-Delwath: We can’t hear you, [[towards]].
+Delwath: We can’t hear you, {{towards}}.
 
 %% u0937 %%
 Wellby: This is the basement level of the building, right?
@@ -317,7 +317,7 @@ Delwath: Okay, so can I take the Tenser’s disk? It just activates with the com
 DM: So.
 
 %% u0975-u0977 %%
-Delwath: [[When the whole back of your head]]. Well, I don’t want it to fall on my head, but approximately that, yes.
+Delwath: {{When the whole back of your head}}. Well, I don’t want it to fall on my head, but approximately that, yes.
 
 %% u0978-u0979 %%
 DM: So, nothing.
@@ -368,7 +368,7 @@ DM: So, as you look in the mirror and think about how to open the door, your ref
 Delwath: And instead—like, a one-shot magical item, and I’ve wasted it on the most trivial question.
 
 %% u1002-u1003 %%
-Seeker: [[Thousands of you]] to answer your question.
+Seeker: {{Thousands of you}} to answer your question.
 
 %% u1004-u1009 %%
 DM: You see the room around you fade, and Eudomes—well, what you presume is Eudomes, the person in the painting on the wall—appears, standing, seemingly casting a spell of some sort on the door, and then saying a name in Drankorian, or a word in Drankorian that doesn’t mean anything to you, so you presume it’s a name, and touching it.
@@ -644,4 +644,4 @@ Wellby: Otherwise.
 DM: Yourself. And you wonder why they took all that stuff, as you take all the stuff.
 
 %% u1138 %%
-Kenzo: I don’t feel good. [[We’re gonna go at all]].
+Kenzo: I don’t feel good. {{We’re gonna go at all}}.

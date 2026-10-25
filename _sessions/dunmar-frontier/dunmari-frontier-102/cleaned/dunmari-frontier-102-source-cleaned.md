@@ -81,7 +81,7 @@
 [u0081 | 00:05:40.440-00:05:44.730 | DM] debris, coral, and rock for fragments of ancient history.
 [u0082 | 00:05:45.430-00:05:47.940 | DM] Milo thinks back and tells
 [u0083 | 00:05:48.140-00:05:50.909 | DM] the tale to Wellby of how it all started.
-[u0084 | 00:05:51.510-00:06:03.980 | DM] and it started with a journey, as it always does a journey that had been quite a joy. Actually, the Stormdancer had left [[Sadrano]] early in the spring, over a year ago, now heading south.
+[u0084 | 00:05:51.510-00:06:03.980 | DM] and it started with a journey, as it always does a journey that had been quite a joy. Actually, the Stormdancer had left {{Sadrano}} early in the spring, over a year ago, now heading south.
 [u0085 | 00:06:04.380-00:06:11.280 | DM] In a month they were south of Illoria, in two, sailing through the strange waters of the Sea of Storms.
 [u0086 | 00:06:11.820-00:06:13.130 | DM] dodging
 [u0087 | 00:06:13.440-00:06:18.449 | DM] wind and rain, and passing Arcane islands dotted with ancient ruins.
@@ -108,13 +108,13 @@
 [u0108 | 00:08:04.720-00:08:08.500 | DM] And leaving the Stormdancer under the command of their 1st mate.
 [u0109 | 00:08:08.510-00:08:13.550 | DM] Tilly and Milo took a crew of 18 down beneath the sea to explore.
 [u0110 | 00:08:14.090-00:08:17.640 | DM] Passing through the strange waters and hearing the tale of the merfolk.
-[u0111 | 00:08:17.770-00:08:22.269 | DM] [[The origin in the garbled conflict]] with Gazankoa and Buruli.
+[u0111 | 00:08:17.770-00:08:22.269 | DM] {{The origin in the garbled conflict}} with Gazankoa and Buruli.
 [u0112 | 00:08:22.340-00:08:25.779 | DM] he says, as I'm sure you must have experienced.
 [u0113 | 00:08:26.170-00:08:38.069 | DM] they found the city of Omi beneath them, and sought initially to rescue some merfolk who looked like they were being forced to dig something out from the bottom of this deep canyon through the sea floor.
 [u0114 | 00:08:38.809-00:08:42.490 | DM] and maybe learn from that something about what was going on.
 [u0115 | 00:08:43.470-00:08:44.240 | DM] But.
 [u0116 | 00:08:44.380-00:08:47.620 | DM] alas! He says, we did not expect an army.
-[u0117 | 00:08:48.950-00:08:51.040 | DM] [[I went 15]] merfolk.
+[u0117 | 00:08:48.950-00:08:51.040 | DM] {{I went 15}} merfolk.
 [u0118 | 00:08:51.160-00:08:55.950 | DM] 50 merfolk warriors came streaming out of the kelp forests.
 [u0119 | 00:08:56.390-00:09:01.899 | DM] There was nothing much we could do. It was a valiant fight, of course, but we're outmatched and made prisoner.
 [u0120 | 00:09:02.600-00:09:03.370 | DM] Okay.
@@ -375,7 +375,7 @@
 [u0375 | 00:24:17.580-00:24:21.600 | DM] I am glad to be reunited with it. I
 [u0376 | 00:24:21.620-00:24:24.090 | DM] was afraid it was gone for good
 [u0377 | 00:24:27.450-00:24:31.419 | DM] kind of reaches over as if he's about to grab it from you.
-[u0378 | 00:24:34.410-00:24:37.099 | Wellby] [[Priscilla]], if he takes that one.
+[u0378 | 00:24:34.410-00:24:37.099 | Wellby] {{Priscilla}}, if he takes that one.
 [u0379 | 00:24:37.130-00:24:38.959 | Wellby] Does that mean you're out of swords.
 [u0380 | 00:24:40.320-00:24:42.349 | Delwath] Swords that are useful underwater.
 [u0381 | 00:24:43.150-00:24:44.730 | Delwath] That's okay. Yeah.
@@ -426,7 +426,7 @@
 [u0426 | 00:27:16.620-00:27:22.930 | DM] servant of Gazankoa. Some Kraken creature don't really know for sure.
 [u0427 | 00:27:23.730-00:27:25.229 | DM] Every now and then they'll
 [u0428 | 00:27:26.140-00:27:28.190 | DM] message will come back. Say.
-[u0429 | 00:27:28.210-00:27:31.849 | DM] really wants [[this work. I'm harder]].
+[u0429 | 00:27:28.210-00:27:31.849 | DM] really wants {{this work. I'm harder}}.
 [u0430 | 00:27:33.110-00:27:35.360 | DM] Seems like a pretty bad guy.
 [u0431 | 00:27:36.180-00:27:39.690 | Riswynn] Anything we can do to foil Buruli and Gazankoa’s
 [u0432 | 00:27:40.240-00:27:41.660 | Riswynn] right up our alley.
@@ -912,7 +912,7 @@
 [u0912 | 00:55:50.180-00:56:03.769 | DM] on the edge of down below you, in the depths. There's it feels dark and closed, and there's very little life around. Further up above you. You sense that there's
 [u0913 | 00:56:04.570-00:56:11.799 | DM] elementals, that there's more of these schools of fish that there's just kind of more life above you
 [u0914 | 00:56:11.820-00:56:13.190 | DM] and ahead.
-[u0915 | 00:56:13.350-00:56:28.579 | DM] You feel this sort of impingement on the ocean still some distance away outside the range of the spell, and you can't tell exactly what it is, but some structure is [[done]]. You're definitely heading towards the structure.
+[u0915 | 00:56:13.350-00:56:28.579 | DM] You feel this sort of impingement on the ocean still some distance away outside the range of the spell, and you can't tell exactly what it is, but some structure is {{done}}. You're definitely heading towards the structure.
 [u0916 | 00:56:29.430-00:56:30.870 | Tilly] Okay. Well, I'll just
 [u0917 | 00:56:31.050-00:56:36.519 | Tilly] keep. I mean, it's rich. It's a ritual cast, so I can just keep pinging every like half an hour.
 [u0918 | 00:56:37.779-00:56:38.130 | DM] Okay.
@@ -1104,7 +1104,7 @@
 [u1104 | 01:09:48.740-01:09:58.390 | Kenzo] Yeah, communicate the location. Everyone. Now that we're closer, is there magic or other means that we can use to just cause if I can like. Kind of know pretty precisely where it is in 2 miles. Can we like?
 [u1105 | 01:09:58.470-01:10:03.360 | Kenzo] Do clairvoyance or some other method, just just to see exactly where it is. Take a look.
 [u1106 | 01:10:04.630-01:10:07.280 | Seeker] Clairvoyance has a range of one mile.
-[u1107 | 01:10:07.880-01:10:09.060 | Tilly] If someone was [[cold]].
+[u1107 | 01:10:07.880-01:10:09.060 | Tilly] If someone was {{cold}}.
 [u1108 | 01:10:10.420-01:10:12.510 | Tilly] Peace up! Sorry you you finish.
 [u1109 | 01:10:13.380-01:10:16.933 | Seeker] I could try extending the range with my glove of crystallized magic.
 [u1110 | 01:10:17.230-01:10:18.730 | DM] Could double the range.
@@ -1143,7 +1143,7 @@
 [u1143 | 01:11:56.500-01:11:59.580 | Tilly] Yeah, I was. Gonna say, the couatl can cast scry
 [u1144 | 01:11:59.600-01:12:01.390 | Tilly] if you summon it.
 [u1145 | 01:12:02.170-01:12:04.086 | Seeker] But has it met, anyway?
-[u1146 | 01:12:04.790-01:12:10.699 | DM] I I mean, you can still attempt to scry, even if you just have have [[the best person]]. It just has a higher chance of failing.
+[u1146 | 01:12:04.790-01:12:10.699 | DM] I I mean, you can still attempt to scry, even if you just have have {{the best person}}. It just has a higher chance of failing.
 [u1147 | 01:12:10.700-01:12:13.149 | Tilly] They have like a plus 10 to the save.
 [u1148 | 01:12:13.910-01:12:14.370 | Seeker] Path.
 [u1149 | 01:12:15.190-01:12:16.580 | Delwath] I would guess that was
@@ -1307,7 +1307,7 @@
 [u1307 | 01:22:53.059-01:22:53.820 | DM] Faldrak.
 [u1308 | 01:22:53.820-01:22:55.516 | Riswynn] Faldrak, but I think.
 [u1309 | 01:22:55.940-01:23:00.700 | DM] Faldrak might have dispel magic. Oh, no, he's not strong enough to have dispel magic because he's an.
-[u1310 | 01:23:00.700-01:23:01.099 | Seeker] [[On the moon]].
+[u1310 | 01:23:00.700-01:23:01.099 | Seeker] {{On the moon}}.
 [u1311 | 01:23:01.100-01:23:02.519 | DM] So he doesn't have.
 [u1312 | 01:23:02.700-01:23:03.880 | Riswynn] That's what I thought.
 [u1313 | 01:23:04.770-01:23:08.089 | Seeker] Big pool on the deck.
@@ -1385,7 +1385,7 @@
 [u1385 | 01:26:47.340-01:26:50.100 | Delwath] Surrounded by something right.
 [u1386 | 01:26:52.100-01:26:54.530 | DM] Yeah, there's a clear space
 [u1387 | 01:26:54.810-01:26:56.240 | DM] that's maybe
-[u1388 | 01:26:57.160-01:27:04.769 | DM] 5 to 10. There's like a 10 foot across clear space in the middle of a [[5 foot diameter]] whirlpool.
+[u1388 | 01:26:57.160-01:27:04.769 | DM] 5 to 10. There's like a 10 foot across clear space in the middle of a {{5 foot diameter}} whirlpool.
 [u1389 | 01:27:06.434-01:27:06.910 | Delwath] Okay.
 [u1390 | 01:27:08.230-01:27:10.409 | Delwath] But did the waters seem calm in the middle.
 [u1391 | 01:27:10.650-01:27:13.822 | DM] Yeah, it's calm in the middle.
@@ -1430,7 +1430,7 @@
 [u1430 | 01:29:29.580-01:29:34.150 | Riswynn] desert couatl appears in the plane of water, advise it to
 [u1431 | 01:29:34.690-01:29:36.600 | Riswynn] shift to
 [u1432 | 01:29:37.931-01:29:41.720 | Riswynn] something that breathes water, plesiosaur, or something.
-[u1433 | 01:29:42.080-01:29:46.029 | Seeker] It starts out as a big, colorful bird that [[would have waddled]].
+[u1433 | 01:29:42.080-01:29:46.029 | Seeker] It starts out as a big, colorful bird that {{would have waddled}}.
 [u1434 | 01:29:46.310-01:29:48.030 | Tilly] Yeah, it can turn.
 [u1435 | 01:29:48.290-01:29:50.419 | Tilly] It's like a snake with wings.
 [u1436 | 01:29:51.560-01:29:52.670 | Seeker] Oh, man!
@@ -2075,7 +2075,7 @@
 [u2075 | 02:05:33.400-02:05:36.199 | Tilly] before they have time to do anything.
 [u2076 | 02:05:41.880-02:05:42.410 | Riswynn] This year.
 [u2077 | 02:05:42.410-02:05:43.040 | Tilly] It's.
-[u2078 | 02:05:43.040-02:05:46.459 | Riswynn] [[Humble in]] the door visibly. We'll have to roll initiative, and then.
+[u2078 | 02:05:43.040-02:05:46.459 | Riswynn] {{Humble in}} the door visibly. We'll have to roll initiative, and then.
 [u2079 | 02:05:46.740-02:05:47.670 | Delwath] We should just
 [u2080 | 02:05:48.050-02:05:49.169 | Delwath] well, they don't.
 [u2081 | 02:05:49.170-02:05:51.199 | Tilly] Well, I can hear
@@ -2248,7 +2248,7 @@
 [u2248 | 02:13:56.990-02:13:58.119 | Tilly] So you have your radiance.
 [u2249 | 02:14:00.440-02:14:01.350 | DM] bat
 [u2250 | 02:14:02.015-02:14:07.874 | DM] this is gonna be tough without my normal paper. I'm gonna have to do everything with stupid computers.
-[u2251 | 02:14:09.820-02:14:14.150 | Riswynn] Oh, should the couatl [[bend plus]] cast Shield on you too.
+[u2251 | 02:14:09.820-02:14:14.150 | Riswynn] Oh, should the couatl {{bend plus}} cast Shield on you too.
 [u2252 | 02:14:14.960-02:14:15.559 | Tilly] And the ratio.
 [u2253 | 02:14:15.560-02:14:16.819 | DM] And that's not how she.
 [u2254 | 02:14:16.820-02:14:18.250 | Tilly] That's not how Shield works.
@@ -2370,7 +2370,7 @@
 [u2370 | 02:20:21.970-02:20:28.160 | DM] Oh, I'm gonna I need to roll initiative for your couatl and your couatl needs a token. What is your couatl gonna be.
 [u2371 | 02:20:29.680-02:20:31.904 | Riswynn] I mean, does the plesiosaur?
 [u2372 | 02:20:32.810-02:20:34.530 | Riswynn] Because that was the buddy
-[u2373 | 02:20:35.090-02:20:38.200 | Riswynn] [[by the attacker]] that I was hoping to bring with me? Yeah.
+[u2373 | 02:20:35.090-02:20:38.200 | Riswynn] {{by the attacker}} that I was hoping to bring with me? Yeah.
 [u2374 | 02:20:38.200-02:20:40.710 | Tilly] Headed Plesiosaur, 2 headed Plesiosaur.
 [u2375 | 02:20:41.420-02:20:42.160 | Seeker] Love it.
 [u2376 | 02:20:42.940-02:20:46.700 | Tilly] 2 headed one as a higher, higher challenge, rating and more attacks.
@@ -2775,8 +2775,8 @@
 [u2775 | 02:41:22.080-02:41:24.959 | Kenzo] So can I like
 [u2776 | 02:41:25.510-02:41:27.260 | Kenzo] well first, first I'll.
 [u2777 | 02:41:27.260-02:41:29.490 | DM] It was an 8th level spell. By the way.
-[u2778 | 02:41:30.460-02:41:31.170 | DM] first, I’ll [[soul]].
-[u2779 | 02:41:31.170-02:41:33.250 | Kenzo] [[Play]] Buruli.
+[u2778 | 02:41:30.460-02:41:31.170 | DM] first, I’ll {{soul}}.
+[u2779 | 02:41:31.170-02:41:33.250 | Kenzo] {{Play}} Buruli.
 [u2780 | 02:41:34.040-02:41:35.960 | DM] Okay, he is
 [u2781 | 02:41:36.490-02:41:37.890 | DM] 15th level.
 [u2782 | 02:41:40.640-02:41:44.280 | DM] He is good at constitution and charisma.
@@ -2811,7 +2811,7 @@
 [u2811 | 02:43:02.290-02:43:02.760 | Delwath] Yeah.
 [u2812 | 02:43:02.760-02:43:07.490 | DM] I've only got 55 foot of movement, but you can get to.
 [u2813 | 02:43:08.650-02:43:10.140 | DM] You can get to there.
-[u2814 | 02:43:10.140-02:43:12.509 | Kenzo] Don't I have the manta ray that is, [[don’t have success]].
+[u2814 | 02:43:10.140-02:43:12.509 | Kenzo] Don't I have the manta ray that is, {{don’t have success}}.
 [u2815 | 02:43:12.510-02:43:17.459 | DM] Just gives you a swim speed equal to your regular speed. It doesn't let you move faster than normal.
 [u2816 | 02:43:17.460-02:43:18.330 | Kenzo] Okay.
 [u2817 | 02:43:18.330-02:43:21.339 | Delwath] But that that's okay, can you? You can then, ready an action. Wait.
@@ -2868,7 +2868,7 @@
 [u2868 | 02:46:03.760-02:46:05.170 | Riswynn] I
 [u2869 | 02:46:09.280-02:46:10.715 | Riswynn] shoot
 [u2870 | 02:46:14.010-02:46:15.019 | Riswynn] I guess I
-[u2871 | 02:46:15.110-02:46:19.100 | Riswynn] really decided that my cantrips were better than my aim with [[Camaro]].
+[u2871 | 02:46:15.110-02:46:19.100 | Riswynn] really decided that my cantrips were better than my aim with {{Camaro}}.
 [u2872 | 02:46:22.570-02:46:24.150 | Delwath] You don't have any good spells to cast.
 [u2873 | 02:46:25.708-02:46:26.740 | Delwath] Please, or is it.
 [u2874 | 02:46:30.130-02:46:33.575 | Riswynn] Yeah. Cause. Yeah. I mean, I could Guiding Bolt
@@ -2884,7 +2884,7 @@
 [u2884 | 02:46:57.820-02:46:59.720 | DM] Radiant. It does radiant.
 [u2885 | 02:46:59.720-02:47:03.200 | Riswynn] Water. Okay, yes. So that's I. Sacred flame, the
 [u2886 | 02:47:05.330-02:47:07.270 | Riswynn] Where am I? Sorry?
-[u2887 | 02:47:07.560-02:47:10.880 | Riswynn] [[I, 2060 feet from me]]
+[u2887 | 02:47:07.560-02:47:10.880 | Riswynn] {{I, 2060 feet from me}}
 [u2888 | 02:47:13.670-02:47:15.640 | Riswynn] now is.
 [u2889 | 02:47:15.930-02:47:18.920 | DM] You can get this guy or the Minion.
 [u2890 | 02:47:19.220-02:47:19.846 | Delwath] Go after.
@@ -3056,7 +3056,7 @@
 [u3056 | 02:56:46.140-02:56:47.899 | DM] Yeah. Yeah. Move wherever you want.
 [u3057 | 02:56:47.900-02:56:51.527 | Tilly] And then I I wanted to just activate my water.
 [u3058 | 02:56:51.890-02:56:52.250 | DM] Water.
-[u3059 | 02:56:52.250-02:56:52.879 | Tilly] [[Friend]].
+[u3059 | 02:56:52.250-02:56:52.879 | Tilly] {{Friend}}.
 [u3060 | 02:56:53.150-02:56:54.040 | Tilly] yeah.
 [u3061 | 02:56:55.710-02:56:59.489 | Tilly] But that's it. Won't do anything. Yeah, yeah.
 [u3062 | 02:56:59.600-02:57:01.060 | Tilly] 10. It's 10 feet.
@@ -3450,7 +3450,7 @@
 [u3450 | 03:16:45.400-03:16:45.980 | DM] Got that.
 [u3451 | 03:16:46.330-03:16:46.810 | Kenzo] Like a large.
 [u3452 | 03:16:46.810-03:16:47.310 | Seeker] Amazing.
-[u3453 | 03:16:47.310-03:16:57.929 | DM] [[Thinker]] tosses it, and it just goes flying wild, and Kenzo, despite being restrained, just gets his arm up and loops the amulet around his arm and slips it on his hand.
+[u3453 | 03:16:47.310-03:16:57.929 | DM] {{Thinker}} tosses it, and it just goes flying wild, and Kenzo, despite being restrained, just gets his arm up and loops the amulet around his arm and slips it on his hand.
 [u3454 | 03:16:59.450-03:17:00.250 | DM] and
 [u3455 | 03:17:00.440-03:17:02.100 | DM] the tentacles part.
 [u3456 | 03:17:02.820-03:17:04.640 | DM] and as that happens.
@@ -3501,7 +3501,7 @@
 [u3501 | 03:19:03.440-03:19:06.330 | DM] with just utter rage in his eyes.
 [u3502 | 03:19:10.830-03:19:11.690 | DM] and.
 [u3503 | 03:19:16.470-03:19:17.690 | Delwath] Is he casting a spell.
-[u3504 | 03:19:18.840-03:19:20.390 | Seeker] [[Announces on evil ways]].
+[u3504 | 03:19:18.840-03:19:20.390 | Seeker] {{Announces on evil ways}}.
 [u3505 | 03:19:21.390-03:19:21.989 | Riswynn] Of the.
 [u3506 | 03:19:21.990-03:19:22.889 | Wellby] Is it? Hug.
 [u3507 | 03:19:24.440-03:19:26.889 | Delwath] If he's casting a spell, I'm gonna cast counter spell.
@@ -3593,7 +3593,7 @@
 [u3593 | 03:23:13.100-03:23:13.980 | Delwath] You
 [u3594 | 03:23:14.650-03:23:17.160 | Delwath] should, I think, go right.
 [u3595 | 03:23:17.940-03:23:19.329 | Seeker] Oh, and I step on it. Yes.
-[u3596 | 03:23:19.930-03:23:21.649 | Seeker] okay, [[briefly, that’s the way]].
+[u3596 | 03:23:19.930-03:23:21.649 | Seeker] okay, {{briefly, that’s the way}}.
 [u3597 | 03:23:21.650-03:23:27.140 | DM] Bridge and vanishes suddenly, hit by a wave of heat. As you appear.
 [u3598 | 03:23:28.170-03:23:29.280 | DM] we'll get to that.
 [u3599 | 03:23:30.130-03:23:30.870 | Seeker] God, what.
@@ -3715,7 +3715,7 @@
 [u3715 | 03:28:33.130-03:28:34.530 | Tilly] in the room now.
 [u3716 | 03:28:35.340-03:28:36.080 | Tilly] but.
 [u3717 | 03:28:37.530-03:28:40.321 | Riswynn] Riswynn also sent a telepathic farewell to her.
-[u3718 | 03:28:41.130-03:28:43.070 | Riswynn] yeah, you can pull up [[what they not mean]].
+[u3718 | 03:28:41.130-03:28:43.070 | Riswynn] yeah, you can pull up {{what they not mean}}.
 [u3719 | 03:28:43.494-03:28:43.919 | DM] So
 [u3720 | 03:28:44.280-03:28:45.790 | DM] distract people!
 [u3721 | 03:28:47.583-03:28:49.319 | DM] Tilly goes through.
@@ -3730,7 +3730,7 @@
 [u3730 | 03:29:24.420-03:29:27.785 | Tilly] Well cause it also cause it didn't take an action. Can I just say it.
 [u3731 | 03:29:28.260-03:29:29.260 | DM] Yeah, it can attack.
 [u3732 | 03:29:30.160-03:29:30.960 | Tilly] Okay.
-[u3733 | 03:29:39.300-03:29:42.210 | Delwath] Wait. [[I’m in Memphis also high]].
+[u3733 | 03:29:39.300-03:29:42.210 | Delwath] Wait. {{I’m in Memphis also high}}.
 [u3734 | 03:29:44.504-03:29:46.360 | Tilly] Okay, I'm gonna roll.
 [u3735 | 03:29:46.880-03:29:48.310 | Tilly] It's a
 [u3736 | 03:29:51.330-03:29:54.029 | Tilly] oh, that's not pretty. That's not that good

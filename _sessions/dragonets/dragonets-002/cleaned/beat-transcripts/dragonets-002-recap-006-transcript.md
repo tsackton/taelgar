@@ -11,7 +11,7 @@
 DM: The music's a tiny bit loud. Maybe that's on purpose.
 
 %% u2506 %%
-Zeno: [[Edmonton.]]
+Zeno: {{Edmonton.}}
 
 %% u2507 %%
 Sculpit: This is all set up well. Should I say what I think this is?
@@ -35,7 +35,7 @@ DM: I thought it was… yeah, yeah, that works. Yeah, that actually works. I fly
 Zeno: Nice.
 
 %% u2519-u2528 %%
-DM: I do want to share one thing, hold on. Yes, I think… [[and speed wraps]]. Goodbye. Cool. Okay, here it is. Hold on. Just give me one second here. Did anybody catch this Easter egg of what we're looking at here?
+DM: I do want to share one thing, hold on. Yes, I think… {{and speed wraps}}. Goodbye. Cool. Okay, here it is. Hold on. Just give me one second here. Did anybody catch this Easter egg of what we're looking at here?
 
 %% u2529-u2530 %%
 Little Tony: Yes. Absolutely.
@@ -53,7 +53,7 @@ Sculpit: Yeah, it looks like…
 Little Tony: From Akira.
 
 %% u2535 %%
-Sculpit: [[Saturday.]]
+Sculpit: {{Saturday.}}
 
 %% u2536 %%
 DM: What's that?
@@ -68,7 +68,7 @@ Sculpit: I was gonna say it looks like the Crown of Purity, but that's not what 
 DM: Hold on.
 
 %% u2540 %%
-Little Tony: [[It's a permit.]]
+Little Tony: {{It's a permit.}}
 
 %% u2541 %%
 Zeno: Very familiar.
@@ -149,7 +149,7 @@ Zeno: It is.
 Sculpit: Yeah. Very cool.
 
 %% u2574 %%
-Little Tony: [[When we're the success.]]
+Little Tony: {{When we're the success.}}
 
 %% u2575 %%
 Sculpit: Yes.
@@ -161,13 +161,13 @@ Heska: Okay. I…
 Sculpit: I still have to go finish my… oh, go, go finish. I'm down to pasting in text from our lawyers, so I'm almost done, but…
 
 %% u2580 %%
-Heska: [[Are you watching the mic?]]
+Heska: {{Are you watching the mic?}}
 
 %% u2581 %%
 DM: Yeah, yeah, yeah.
 
 %% u2582 %%
-Sculpit: [[My question for Cox, Eric.]]
+Sculpit: {{My question for Cox, Eric.}}
 
 %% u2583 %%
 DM: Do you want to do that one-on-one?

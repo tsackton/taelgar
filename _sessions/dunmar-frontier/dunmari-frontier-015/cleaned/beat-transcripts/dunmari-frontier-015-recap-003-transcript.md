@@ -26,7 +26,7 @@ Seeker: It's scouring the country, so—
 Delwath: I think we have to go in the tower. At the very top, right?
 
 %% u1110-u1114 %%
-DM: All right, so it looks like there might be one floor above you, underneath the conical roof. [[Was good]]. So this is the top floor that has straight walls.
+DM: All right, so it looks like there might be one floor above you, underneath the conical roof. {{Was good}}. So this is the top floor that has straight walls.
 
 %% u1115 %%
 Kenzo: Awesome. Wait, before you go inside, what happened again, though, to you when you went inside? You got some bad things happening to you, and are they likely to happen to us?
@@ -149,7 +149,7 @@ DM: Like, stars are not quite—especially the stars that are not forming conste
 Delwath: Were there any stars in the Shadow Realm that I was in? No?
 
 %% u1176 %%
-Seeker: [[They're doing it, Stephen]].
+Seeker: {{They're doing it, Stephen}}.
 
 %% u1177-u1178 %%
 DM: I'm getting to you, Schwartz. Sorry. So it's not like this is—
@@ -191,7 +191,7 @@ Wellby: I'm asking the tower what it means.
 Delwath: Is it answering?
 
 %% u1201-u1202 %%
-Wellby: It's wondering who we are. [[Into that]] for a second.
+Wellby: It's wondering who we are. {{Into that}} for a second.
 
 %% u1203-u1205 %%
 Kenzo: Delwath, when you were attacked earlier by the lightning, where did you—and we thought that it felt like the lightning was protecting, that there's something trapped in here. Where do we think that thing is trapped, whatever it is?
@@ -284,7 +284,7 @@ Seeker: Huh. We could suggest that we might try to help it if it could tell us h
 Wellby: Yeah. Was a storm once, wants to become a storm again.
 
 %% u1248 %%
-Seeker: [[Was this to]]—
+Seeker: {{Was this to}}—
 
 %% u1249 %%
 Kenzo: Tim, are there any Arcana legends and stories of giant historic storms? Is there sort of a Noah's Ark, great floods of Taelgar type of thing?
@@ -341,10 +341,10 @@ Kenzo: Can you ask it about the storm outside the tower? What it is, the nature 
 Wellby: Yes. Talk to storms. How would you ask a storm?
 
 %% u1280 %%
-Seeker: [[He was fun to blustery]].
+Seeker: {{He was fun to blustery}}.
 
 %% u1281-u1282 %%
-Kenzo: [[Mask. Walking Dead]]. Is it aware that there's also a storm outside of the tower? Is it aware of that storm?
+Kenzo: {{Mask. Walking Dead}}. Is it aware that there's also a storm outside of the tower? Is it aware of that storm?
 
 %% u1283 %%
 Wellby: Let me ask it where it is.
@@ -353,7 +353,7 @@ Wellby: Let me ask it where it is.
 Delwath: A good idea.
 
 %% u1285-u1286 %%
-DM: Hold on one sec. Sorry, [[I was like, just text me]].
+DM: Hold on one sec. Sorry, {{I was like, just text me}}.
 
 %% u1287-u1288 %%
 Wellby: It's telling me about a giant it knew a long, long time ago called Sigga.
@@ -389,7 +389,7 @@ Kenzo: Say that once more. It said it knows a giant?
 Wellby: A giant who fought alongside halflings. It's an old, old story. A thousand years ago.
 
 %% u1306 %%
-Seeker: [[Julian's]].
+Seeker: {{Julian's}}.
 
 %% u1307 %%
 Riswynn: Wellby, you know the story of the giant who was friends with halflings? Like, you're saying when it happened?
@@ -524,7 +524,7 @@ Wellby: Or destroy the sphere.
 Seeker: We gotta do something.
 
 %% u1373 %%
-DM: [[Just done on the line]].
+DM: {{Just done on the line}}.
 
 %% u1374-u1375 %%
 Delwath: Tim, that sphere was—

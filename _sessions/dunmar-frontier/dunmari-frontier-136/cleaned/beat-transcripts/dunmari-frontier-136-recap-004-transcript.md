@@ -230,7 +230,7 @@ Seeker: Seeker is? We're on the opposite side of the room. Opposite side of the 
 Unknown: Yeah. Oh, shit.
 
 %% u3170 %%
-Kenzo: Dash, duck, [[run of frame]].
+Kenzo: Dash, duck, {{run of frame}}.
 
 %% u3171 %%
 Wellby: Sneak?
@@ -374,7 +374,7 @@ Unknown: Okay.
 DM: You can always use arcana checks to try and identify spells as they're being cast, by the way.
 
 %% u3230 %%
-Seeker: Oh, I used an Arcana check to identify spells [[with me]].
+Seeker: Oh, I used an Arcana check to identify spells {{with me}}.
 
 %% u3231 %%
 DM: [coughs]

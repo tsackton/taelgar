@@ -252,7 +252,7 @@
 [u0252 | 00:21:43.140-00:21:45.270 | DM] They come out right right.
 [u0253 | 00:21:45.330-00:21:46.050 | Delwath] I see.
 [u0254 | 00:21:48.990-00:21:51.540 | DM] is just going to make a bite attack at Seeker.
-[u0255 | 00:21:53.220-00:21:55.050 | DM] is going to be [[at 92]] hits.
+[u0255 | 00:21:53.220-00:21:55.050 | DM] is going to be {{at 92}} hits.
 [u0256 | 00:21:56.970-00:22:04.560 | DM] So you take eight points of piercing damage and a constitution, save just GM roll it secretly to me.
 [u0257 | 00:22:06.150-00:22:07.050 | Seeker] it's slash.
 [u0258 | 00:22:07.500-00:22:09.630 | DM] slash GM roll.
@@ -347,7 +347,7 @@
 [u0347 | 00:27:15.420-00:27:16.410 | DM] take out a.
 [u0348 | 00:27:18.270-00:27:23.580 | DM] she's got a short sword she's sort of pulling out as she shifts she's gonna swing at you Wellby.
 [u0349 | 00:27:29.100-00:27:29.790 | DM] and
-[u0350 | 00:27:32.970-00:27:41.730 | DM] [[has gone through]] hits with this short sword, and then going to lunge down and bite at you the bite as [[a 51]], does that hit.
+[u0350 | 00:27:32.970-00:27:41.730 | DM] {{has gone through}} hits with this short sword, and then going to lunge down and bite at you the bite as {{a 51}}, does that hit.
 [u0351 | 00:27:42.870-00:27:46.650 | Wellby] So i'm gonna Uncanny Dodge the short sword.
 [u0352 | 00:27:47.100-00:27:48.900 | DM] Again, the shortsword, nine.
 [u0353 | 00:27:49.530-00:27:49.860 | Unknown] yeah.
@@ -422,7 +422,7 @@
 [u0422 | 00:33:02.610-00:33:03.150 | Wellby] Is that new.
 [u0423 | 00:33:06.210-00:33:07.530 | DM] We rarely use it.
 [u0424 | 00:33:07.560-00:33:09.240 | DM] On— you barely use it on saving.
-[u0425 | 00:33:10.350-00:33:12.570 | DM] it's [[based on stage]], you get temporary hit points.
+[u0425 | 00:33:10.350-00:33:12.570 | DM] it's {{based on stage}}, you get temporary hit points.
 [u0426 | 00:33:12.840-00:33:13.050 | Unknown] cool.
 [u0427 | 00:33:15.060-00:33:15.570 | Seeker] Nice.
 [u0428 | 00:33:16.980-00:33:21.060 | Seeker] i'm sorry i'm just trying to figure out what to do, because I don't have a lot of.
@@ -1077,7 +1077,7 @@
 [u1077 | 01:16:37.110-01:16:39.930 | DM] And then there's the sheaf of papers.
 [u1078 | 01:16:42.780-01:16:43.650 | DM] So what do you take.
 [u1079 | 01:16:46.410-01:16:50.910 | Delwath] Every thing, I think, does the trap master not have anything on her.
-[u1080 | 01:16:51.900-01:17:01.290 | DM] The trap master is not just the shortsword is not magical and her armor [[is not carrying anything]] but you already looted her chest.
+[u1080 | 01:16:51.900-01:17:01.290 | DM] The trap master is not just the shortsword is not magical and her armor {{is not carrying anything}} but you already looted her chest.
 [u1081 | 01:17:03.060-01:17:03.660 | DM] In the.
 [u1082 | 01:17:05.850-01:17:08.700 | DM] In there like dungeon room before.
 [u1083 | 01:17:09.960-01:17:11.580 | Delwath] But did we find it I don't remember what we found.
@@ -1120,7 +1120,7 @@
 [u1120 | 01:20:08.340-01:20:16.560 | DM] kept it against the robot is about all that you find i'm back to Riswynn and Kenzo um So what is your.
 [u1121 | 01:20:18.360-01:20:25.650 | DM] What is your connection to your life your history that you're using as the focus for this ritual.
 [u1122 | 01:20:27.930-01:20:32.400 | DM] Okay um so Riswynn like holds.
-[u1123 | 01:20:32.880-01:20:34.620 | Kenzo] [[his son good Riley]] can put my hands up.
+[u1123 | 01:20:32.880-01:20:34.620 | Kenzo] {{his son good Riley}} can put my hands up.
 [u1124 | 01:20:36.030-01:20:36.510 | DM] Maybe.
 [u1125 | 01:20:37.680-01:20:38.010 | DM] um.
 [u1126 | 01:20:40.410-01:20:50.190 | DM] You know begins to cast the spell and offers up a prayer to the dwarven gods the traveler the.
@@ -1392,7 +1392,7 @@
 [u1392 | 01:39:59.670-01:40:01.650 | DM] I mean you're pretty full at the moment.
 [u1393 | 01:40:01.950-01:40:02.430 | Riswynn] yeah just.
 [u1394 | 01:40:02.460-01:40:08.790 | DM] You get back Channel Divinity but yeah you know, usually use your channel because it's like.
-[u1395 | 01:40:09.030-01:40:10.530 | Riswynn] Well, I was gonna use one to restore [[tourists]].
+[u1395 | 01:40:09.030-01:40:10.530 | Riswynn] Well, I was gonna use one to restore {{tourists}}.
 [u1396 | 01:40:11.970-01:40:13.500 | DM] yeah you could do that.
 [u1397 | 01:40:19.290-01:40:26.310 | DM] Right so on the top floor Wellby you're like pretty convinced there's nothing I mean you can tell just by the sort of.
 [u1398 | 01:40:28.080-01:40:33.300 | DM] shape of the building and the weight like you can sort of way the walls are set up there's like not.
@@ -1718,7 +1718,7 @@
 [u1718 | 02:02:37.680-02:02:38.400 | Seeker] You would be.
 [u1719 | 02:02:39.420-02:02:42.480 | Kenzo] I stared into your soul Wellby and.
 [u1720 | 02:02:43.200-02:02:47.730 | DM] He does not seem to have any corrupting influence either.
-[u1721 | 02:02:48.180-02:02:50.730 | Kenzo] Unfortunately, it appears that you [[have been infected]].
+[u1721 | 02:02:48.180-02:02:50.730 | Kenzo] Unfortunately, it appears that you {{have been infected}}.
 [u1722 | 02:03:00.900-02:03:01.680 | Kenzo] Alright Seeker.
 [u1723 | 02:03:01.770-02:03:02.730 | Kenzo] let's have a look at you.
 [u1724 | 02:03:06.750-02:03:07.770 | DM] you're rolling really well.
@@ -1962,7 +1962,7 @@
 [u1962 | 02:20:04.740-02:20:05.520 | Delwath] Delwath couldn't.
 [u1963 | 02:20:06.630-02:20:12.990 | Delwath] Cast fly and just fish with the Mage Hand while standing there then put things on.
 [u1964 | 02:20:14.670-02:20:19.890 | Delwath] Right like who cares if it's going to take 20 minutes, I mean well 20 minutes with you on the fly but.
-[u1965 | 02:20:20.940-02:20:31.050 | Delwath] Presumably, if I cast fly and flew in and was four feet above the chest [[I can't see it]] just kept casting Mage Hand and fishing around I could get everything in the chest.
+[u1965 | 02:20:20.940-02:20:31.050 | Delwath] Presumably, if I cast fly and flew in and was four feet above the chest {{I can't see it}} just kept casting Mage Hand and fishing around I could get everything in the chest.
 [u1966 | 02:20:31.890-02:20:32.190 | Unknown] yeah.
 [u1967 | 02:20:33.570-02:20:34.740 | Delwath] yeah let's do it.
 [u1968 | 02:20:35.040-02:20:35.640 | Delwath] let's do it.
@@ -2248,7 +2248,7 @@
 [u2248 | 02:40:50.550-02:40:51.420 | DM] sense.
 [u2249 | 02:40:54.480-02:40:56.280 | DM] you're sure lycanthropes.
 [u2250 | 02:40:57.390-02:41:03.120 | Kenzo] Positive if you'd like to come with me now I can show you or if you'd like to send any of your.
-[u2251 | 02:41:04.710-02:41:16.050 | Kenzo] send anyone because right now the the innkeeper of the dwarven inn happens to be there, keeping the townspeople from entering inside, but I think it'd be wise for the city to [[us in]] that building.
+[u2251 | 02:41:04.710-02:41:16.050 | Kenzo] send anyone because right now the the innkeeper of the dwarven inn happens to be there, keeping the townspeople from entering inside, but I think it'd be wise for the city to {{us in}} that building.
 [u2252 | 02:41:16.080-02:41:17.760 | DM] Or, well, I will speak to.
 [u2253 | 02:41:19.020-02:41:21.630 | DM] Several of the temple guards, we will.
 [u2254 | 02:41:23.700-02:41:25.380 | DM] We will investigate this, but I am.
@@ -2402,7 +2402,7 @@
 [u2402 | 02:52:44.220-02:52:44.730 | DM] The.
 [u2403 | 02:52:46.350-02:53:06.780 | DM] The pages that are the like lacuna on the the scroll the like when the moon rises are easier to understand, although you can't place this language you're not sure what it is um there's like some diagrams that seems similar to the.
 [u2404 | 02:53:08.190-02:53:18.990 | DM] To the drawing you found in the trap masters workshop with 13 spears arranged with a detail of the spear that shows the writing mad one come to us.
-[u2405 | 02:53:19.530-02:53:36.570 | DM] [[By]] Jinnik's howl will be heard. There's a long discussion of the ancient cave of the Mad One's soul and what that might mean and whether it's you know this particular place i'm link to the there seems to be some like different people writing notes.
+[u2405 | 02:53:19.530-02:53:36.570 | DM] {{By}} Jinnik's howl will be heard. There's a long discussion of the ancient cave of the Mad One's soul and what that might mean and whether it's you know this particular place i'm link to the there seems to be some like different people writing notes.
 [u2406 | 02:53:39.000-02:53:43.620 | DM] And then there seems to be at the end of this discussion there's like.
 [u2407 | 02:53:44.820-02:53:46.980 | DM] You know somebody note to themselves.
 [u2408 | 02:53:48.330-02:53:55.560 | DM] We must find a way past the Dunmari's maze we must find a way to get to the Dunmari city without attracting attention.
@@ -2416,7 +2416,7 @@
 [u2416 | 02:54:37.980-02:54:39.480 | Delwath] We have a scroll to speak with the dead.
 [u2417 | 02:54:41.010-02:54:45.060 | Delwath] Take the leaders body save one of the body, so he can speak with Dead.
 [u2418 | 02:54:47.340-02:54:49.590 | Delwath] Of course, nothing forces the dead, to answer your.
-[u2419 | 02:54:49.590-02:54:51.090 | DM] Question [[can compel them]].
+[u2419 | 02:54:49.590-02:54:51.090 | DM] Question {{can compel them}}.
 [u2420 | 02:54:52.380-02:54:52.770 | DM] Ah.
 [u2421 | 02:54:54.720-02:54:58.560 | DM] let's see i'm Riswynn the short sword that.
 [u2422 | 02:54:59.760-02:55:04.950 | DM] That Wellby picked up is a vicious short sword, it is um.
@@ -2468,7 +2468,7 @@
 [u2468 | 02:58:46.740-02:58:48.180 | Seeker] That portal, although.
 [u2469 | 02:58:49.230-02:58:58.230 | Seeker] we'll have to go and find out but, but I think i'd like to go back at some point to the monastery and talk to the artist in there, I forget his name yeah.
 [u2470 | 02:59:00.210-02:59:01.560 | Kenzo] let's not forget that.
-[u2471 | 02:59:02.640-02:59:08.040 | Kenzo] We also are still trying to find the monk from [[reshma]] learn about.
+[u2471 | 02:59:02.640-02:59:08.040 | Kenzo] We also are still trying to find the monk from {{reshma}} learn about.
 [u2472 | 02:59:08.970-02:59:09.180 | Seeker] Because.
 [u2473 | 02:59:09.270-02:59:10.290 | Unknown] that's where we were dying.
 [u2474 | 02:59:11.520-02:59:12.000 | Delwath] Yes.
@@ -2554,7 +2554,7 @@
 [u2554 | 03:04:02.220-03:04:04.920 | Seeker] A different, this is the nature of Shakun's.
 [u2555 | 03:04:05.100-03:04:08.520 | Kenzo] Protection oh right.
 [u2556 | 03:04:08.580-03:04:09.210 | Delwath] Never impact.
-[u2557 | 03:04:09.360-03:04:14.970 | Delwath] You saw Shakun was like [[I prefer]] I will let you through, no matter what people.
+[u2557 | 03:04:09.360-03:04:14.970 | Delwath] You saw Shakun was like {{I prefer}} I will let you through, no matter what people.
 [u2558 | 03:04:15.780-03:04:23.100 | Kenzo] Right, because once the heart was reactivated we can, and so the werewolves could not get through then, you're right.
 [u2559 | 03:04:24.660-03:04:26.850 | Kenzo] yeah um.
 [u2560 | 03:04:28.350-03:04:31.920 | Delwath] Now why they came from the east and where they got these scrolls.
@@ -2569,7 +2569,7 @@
 [u2569 | 03:05:00.900-03:05:13.890 | Delwath] But we don't these werewolves could could easily be new where they didn't have to have come from here they're coming to here to perform their ritual and and spread lycanthropy.
 [u2570 | 03:05:15.930-03:05:19.650 | Wellby] The heart of Shakun gets like.
 [u2571 | 03:05:19.950-03:05:27.690 | Wellby] immobilized the werewolf sneak in so they only been in we think they've only been in the city them for three or four months.
-[u2572 | 03:05:29.190-03:05:33.060 | Delwath] Well, the [[target]] has been it's been like eight months.
+[u2572 | 03:05:29.190-03:05:33.060 | Delwath] Well, the {{target}} has been it's been like eight months.
 [u2573 | 03:05:35.820-03:05:36.000 | Seeker] and
 [u2574 | 03:05:36.960-03:05:42.360 | Kenzo] Kaleha did say that there had to have been there's been no werewolves in the city for a very long time, so.
 [u2575 | 03:05:43.530-03:05:44.850 | Kenzo] She was super surprised.
@@ -2655,7 +2655,7 @@
 [u2655 | 03:10:40.350-03:10:43.050 | DM] Ardan like comes up it's like oh I I.
 [u2656 | 03:10:44.670-03:10:48.570 | DM] You had asked for this, and I know in the um the excitement.
 [u2657 | 03:10:51.720-03:10:54.330 | DM] I forgot, and maybe you forgot as well, but.
-[u2658 | 03:10:56.100-03:11:03.060 | DM] The the scroll that that [[cardone]] and found that sent him off to to Darba.
+[u2658 | 03:10:56.100-03:11:03.060 | DM] The the scroll that that {{cardone}} and found that sent him off to to Darba.
 [u2659 | 03:11:04.110-03:11:05.700 | DM] I had a copy made for you.
 [u2660 | 03:11:06.840-03:11:09.090 | DM] If you would like it to the scroll.
 [u2661 | 03:11:25.980-03:11:29.490 | DM] read it at your at your leisure and I again thank you.
@@ -2665,7 +2665,7 @@
 [u2665 | 03:11:49.860-03:11:50.190 | Delwath] yeah.
 [u2666 | 03:11:51.480-03:11:51.960 | Kenzo] But where's.
 [u2667 | 03:11:52.620-03:11:53.790 | Delwath] The link in the zoom chat.
-[u2668 | 03:12:26.220-03:12:31.380 | Delwath] [[garden Carson]] more than a few treasures of the ancient age magic from Drankor itself.
+[u2668 | 03:12:26.220-03:12:31.380 | Delwath] {{garden Carson}} more than a few treasures of the ancient age magic from Drankor itself.
 [u2669 | 03:12:32.040-03:12:33.210 | Seeker] between two and five.
 [u2670 | 03:12:40.170-03:12:42.330 | Delwath] More than a few certainly sounds like three to me.
 [u2671 | 03:12:55.980-03:12:56.580 | Delwath] When.
@@ -2678,11 +2678,11 @@
 [u2678 | 03:13:17.580-03:13:22.530 | DM] yeah that was that was not the Death Moon clan that was.
 [u2679 | 03:13:23.910-03:13:26.160 | DM] That was when Raven's Hold was reoccupied.
 [u2680 | 03:13:27.450-03:13:29.910 | DM] That was the What were they called.
-[u2681 | 03:13:32.880-03:13:41.040 | DM] Well reserved, but no, because the Death Moon clan was the one that drove [[for family]] out of Raven's Hold to begin with, this is the Great War.
+[u2681 | 03:13:32.880-03:13:41.040 | DM] Well reserved, but no, because the Death Moon clan was the one that drove {{for family}} out of Raven's Hold to begin with, this is the Great War.
 [u2682 | 03:13:45.450-03:13:53.490 | Riswynn] Right, so my excellent memory for dwarven history timelines, which of course I have because i'm a dwarf tells me that.
 [u2683 | 03:13:54.420-03:13:56.250 | DM] there's like 200 years ago.
 [u2684 | 03:13:57.000-03:13:57.390 | Unknown] yeah.
-[u2685 | 03:13:58.440-03:14:01.410 | DM] Like the Great War, the war against [[Jamaat]] all of that stuff.
+[u2685 | 03:13:58.440-03:14:01.410 | DM] Like the Great War, the war against {{Jamaat}} all of that stuff.
 [u2686 | 03:14:01.860-03:14:04.620 | Delwath] So he's the Leader that's right here.
 [u2687 | 03:14:05.130-03:14:06.810 | Delwath] yeah okay.
 [u2688 | 03:14:07.290-03:14:12.000 | DM] I even went back in my old notes to find what the name of the hobgoblin tribe was.
@@ -2692,7 +2692,7 @@
 [u2692 | 03:14:26.190-03:14:29.160 | Seeker] The magic items to Darba for safekeeping during the war.
 [u2693 | 03:14:30.330-03:14:30.960 | Delwath] Apparently.
 [u2694 | 03:14:31.470-03:14:33.600 | Seeker] or or somewhere else.
-[u2695 | 03:14:34.410-03:14:37.110 | Delwath] or probably [[elbow I]].
+[u2695 | 03:14:34.410-03:14:37.110 | Delwath] or probably {{elbow I}}.
 [u2696 | 03:14:38.160-03:14:40.470 | Delwath] My guess is that it went further than Darba.
 [u2697 | 03:14:42.060-03:14:45.450 | Delwath] The Great War was so disruptive i'm sure even.
 [u2698 | 03:14:46.680-03:14:49.170 | DM] I don't know you are trapped in their shadow realm.
@@ -2701,7 +2701,7 @@
 [u2701 | 03:14:59.100-03:15:00.210 | DM] yeah that's true.
 [u2702 | 03:15:00.360-03:15:02.370 | Delwath] i'm just i'm just out of game just.
 [u2703 | 03:15:02.400-03:15:03.360 | DM] Say okay.
-[u2704 | 03:15:03.540-03:15:14.700 | Delwath] The Great War I mean I seem to recall undead armies sweeping across Dunmar and some sort of group of adventurers accidentally killing the the [[horse]] or something like that.
+[u2704 | 03:15:03.540-03:15:14.700 | Delwath] The Great War I mean I seem to recall undead armies sweeping across Dunmar and some sort of group of adventurers accidentally killing the the {{horse}} or something like that.
 [u2705 | 03:15:22.890-03:15:23.400 | DM] So.
 [u2706 | 03:15:24.300-03:15:27.120 | Delwath] tim's always wanted to do stuff in a warrior I think.
 [u2707 | 03:15:31.620-03:15:32.250 | Unknown] let's go.
@@ -2797,14 +2797,14 @@
 [u2797 | 03:22:14.880-03:22:19.650 | Delwath] I think that place was their goal, I think it's holy to them in some way.
 [u2798 | 03:22:21.090-03:22:21.540 | DM] Or was.
 [u2799 | 03:22:25.530-03:22:26.640 | DM] rumors of.
-[u2800 | 03:22:27.870-03:22:38.400 | DM] I was telling your companion Kenzo of rumors the last time, there were lycanthropes in the city and I asked my [[ad varney]] to.
+[u2800 | 03:22:27.870-03:22:38.400 | DM] I was telling your companion Kenzo of rumors the last time, there were lycanthropes in the city and I asked my {{ad varney}} to.
 [u2801 | 03:22:39.780-03:22:48.660 | DM] look up some records, while you were gone and it is indeed the case that, at least according to the records, we have that.
 [u2802 | 03:22:50.700-03:22:52.230 | DM] Some hundred and.
 [u2803 | 03:22:53.580-03:22:56.040 | DM] hundred odd or more years ago.
 [u2804 | 03:22:57.810-03:23:06.480 | DM] She would tell you the exact date I just don't remember it in my notes um, but it was like before it was like during the second hobgoblin war right after.
 [u2805 | 03:23:08.010-03:23:15.840 | DM] There was a battle against some group called the Fraternity of the Empty Moon or associated with.
 [u2806 | 03:23:18.090-03:23:21.210 | DM] Lycanthropy and they were driven off.
-[u2807 | 03:23:23.790-03:23:25.470 | DM] And the fort [[marked]].
+[u2807 | 03:23:23.790-03:23:25.470 | DM] And the fort {{marked}}.
 [u2808 | 03:23:27.360-03:23:28.500 | DM] and protected.
 [u2809 | 03:23:31.080-03:23:32.550 | DM] But, over time, I guess that.
 [u2810 | 03:23:34.950-03:23:37.410 | DM] The importance of such Defense fell into.
@@ -2909,7 +2909,7 @@
 [u2909 | 03:32:52.110-03:32:54.450 | Wellby] it's really too bad we can't interrogate the hag.
 [u2910 | 03:33:02.040-03:33:02.910 | DM] you're muted.
 [u2911 | 03:33:03.000-03:33:04.770 | Delwath] We can't hear you Kong, you're muted.
-[u2912 | 03:33:06.810-03:33:07.650 | Kenzo] I was [[was brain]].
+[u2912 | 03:33:06.810-03:33:07.650 | Kenzo] I was {{was brain}}.
 [u2913 | 03:33:09.690-03:33:10.230 | Unknown] dead.
 [u2914 | 03:33:11.400-03:33:12.180 | DM] body, though.
 [u2915 | 03:33:12.270-03:33:12.960 | Seeker] We yeah.
@@ -2968,7 +2968,7 @@
 [u2968 | 03:37:21.750-03:37:24.810 | Kenzo] After we get some rest go patrol the city.
 [u2969 | 03:37:25.890-03:37:26.370 | Kenzo] Good evening.
 [u2970 | 03:37:29.670-03:37:32.700 | Wellby] I think so, and tomorrow, good looking for something.
-[u2971 | 03:37:34.140-03:37:35.580 | Kenzo] Tomorrow we go look for [[soccer]].
+[u2971 | 03:37:34.140-03:37:35.580 | Kenzo] Tomorrow we go look for {{soccer}}.
 [u2972 | 03:37:37.200-03:37:38.700 | Seeker] Stop at the monastery first.
 [u2973 | 03:37:40.590-03:37:41.220 | Kenzo] We can do that.
 [u2974 | 03:37:43.800-03:37:50.730 | Kenzo] Kaleha I think it would be most wise for us to finish our meal and get some rest, so that we can.

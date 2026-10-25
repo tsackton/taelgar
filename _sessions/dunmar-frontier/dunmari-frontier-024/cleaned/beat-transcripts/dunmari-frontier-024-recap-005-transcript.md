@@ -62,7 +62,7 @@ DM: So you break camp, pack up your dwindling supply of water, head north about 
 DM: And this is the old—no, this is not the old trade road, that Drankorian trade road that runs east-west north of here. This is a Dunmari road. At this point in time, no paving stones, nothing, just a flat place in the desert that's been cleared of debris and that cuts through this rocky terrain in a straight path east. So are you following the road east to about here?
 
 %% u1696-u1700 %%
-Delwath: [[Is that your plan, what’s]]—yeah, basically. Somewhere in the cliffs here we’d like to set up a shelter for the horses, and then we’ll go. Well, I mean, that’s only a mile, right?
+Delwath: {{Is that your plan, what’s}}—yeah, basically. Somewhere in the cliffs here we’d like to set up a shelter for the horses, and then we’ll go. Well, I mean, that’s only a mile, right?
 
 %% u1701-u1702 %%
 DM: That's one point five miles from—yes, I mean, it's like one point five, one point six miles along the road to this point or somewhere, right?
@@ -107,7 +107,7 @@ Delwath: Overfly the palace. How big are the orc patrols?
 DM: Each one is typically six orcs.
 
 %% u1742 %%
-Unknown: [[Better double checked with us correct.]]
+Unknown: {{Better double checked with us correct.}}
 
 %% u1743 %%
 DM: Yeah, they range between five and eight orcs, but most of them average six.
@@ -146,7 +146,7 @@ DM: Yeah, so make just a straight Intelligence check. It's probably like a hundr
 Wellby: Well.
 
 %% u1767 %%
-DM: It's not [[like dread]], but it's in the low hundreds, you would guess.
+DM: It's not {{like dread}}, but it's in the low hundreds, you would guess.
 
 %% u1768-u1769 %%
 Wellby: I'll update my map of the city and notes, and confirm that the previous sketch works. Otherwise, I'll relay the info.
@@ -161,7 +161,7 @@ Seeker: This is to hide the horses. Yeah, right, and my creation ability doesn't
 DM: Well, I don't know. How long are you going to scout for? Lasts for—
 
 %% u1780-u1782 %%
-Seeker: A few hours. [[Doesn't create three hours here]], I think. I could make a strategically placed ridge. [[They're not going to—so just to block one of—so from the east. Can really make total concealment.]]
+Seeker: A few hours. {{Doesn't create three hours here}}, I think. I could make a strategically placed ridge. {{They're not going to—so just to block one of—so from the east. Can really make total concealment.}}
 
 %% u1783 %%
 Kenzo: I wonder if you can make a trap. You make some earth that looks stable but it's not stable, and then the orcs walk on it and they fall, die.
@@ -236,7 +236,7 @@ Wellby: Let's do it. I think we should move quick. Bathroom before we start.
 Seeker: Spoken like a dad.
 
 %% u1814-u1815 %%
-Kenzo: So we're all going to the city. [[We're just hitting the ball.]]
+Kenzo: So we're all going to the city. {{We're just hitting the ball.}}
 
 %% u1816-u1817 %%
 Seeker: Well, if I can get a little closer, I can just look into it.
@@ -257,7 +257,7 @@ DM: Right, although remember—well, let me double-check. I don't think you can 
 Seeker: So we'll have to have a look at the palace in some way so that I can position myself relative to it. Is there a landmark that you saw, Wellby, in the palace that might be worth looking at? No, it was all just from above in shadow, right?
 
 %% u1829-u1833 %%
-DM: So the first time you scouted, the main landmark—the palace itself is like an inner city where there's walls like this, [[antagonists]]. Like half the space is a big open garden courtyard area, and then the other half of the space is a large building. But as you flew over this time, that was all deep in shadow, and you couldn't really see through the darkness.
+DM: So the first time you scouted, the main landmark—the palace itself is like an inner city where there's walls like this, {{antagonists}}. Like half the space is a big open garden courtyard area, and then the other half of the space is a large building. But as you flew over this time, that was all deep in shadow, and you couldn't really see through the darkness.
 
 %% u1834 %%
 Wellby: So not the case yesterday?
@@ -305,10 +305,10 @@ DM: Then, of course, he couldn't see beyond the door. Your guess from your basic
 Seeker: Whatever, as—
 
 %% u1855 %%
-DM: Long as you can describe, as long as you can specify a unique location that you can describe with reference to things that you know where they are. [[It’s facing.]]
+DM: Long as you can describe, as long as you can specify a unique location that you can describe with reference to things that you know where they are. {{It’s facing.}}
 
 %% u1856 %%
-Seeker: Still want to end up in the room, or the [[Madrid]], or whatever.
+Seeker: Still want to end up in the room, or the {{Madrid}}, or whatever.
 
 %% u1857-u1858 %%
 DM: Right, well, it's a bit of a gamble, right, because you don't know exactly what the layout of the palace is.
@@ -401,19 +401,19 @@ Delwath: Yeah.
 DM: Okay, at this distance sound is irrelevant, so pretty much you're automatically stealthy if you're invisible. If orcs are closer, they might be able to hear you.
 
 %% u1904 %%
-Delwath: [[Answered, but—]]
+Delwath: {{Answered, but—}}
 
 %% u1905 %%
 DM: However, Wellby and Kenzo, I need Stealth checks from you.
 
 %% u1906 %%
-Kenzo: [[Us healthy.]]
+Kenzo: {{Us healthy.}}
 
 %% u1907-u1910 %%
 DM: So you just dart along the shadows, taking advantage here of the fact that the sun, now higher in the sky but still in the east before noon, is casting some shadows along the edge. Until you get to this final quarter-mile distance, basically, where you're creeping low on the ground, using little rocks or whatever you can find, until eventually there's about a hundred yards that's just straight open terrain. You've got no choice but to just run and hope nobody sees you.
 
 %% u1911 %%
-Seeker: I'm just [[sterling]], windmilling arms.
+Seeker: I'm just {{sterling}}, windmilling arms.
 
 %% u1912 %%
 Unknown: Yeah.
@@ -437,13 +437,13 @@ DM: For.
 Seeker: That's incredible.
 
 %% u1926 %%
-DM: [[Should not reload your reload.]]
+DM: {{Should not reload your reload.}}
 
 %% u1927 %%
 Kenzo: Oh, it's because of my—
 
 %% u1928 %%
-Unknown: [[Religion.]]
+Unknown: {{Religion.}}
 
 %% u1929-u1930 %%
 DM: It should be minus two.
@@ -452,7 +452,7 @@ DM: It should be minus two.
 Seeker: Okay, generally he's only mostly dead, right?
 
 %% u1932 %%
-Kenzo: [[Now it's got all again.]]
+Kenzo: {{Now it's got all again.}}
 
 %% u1933-u1934 %%
 DM: Okay. Well, advantage, you can roll once more.
@@ -470,10 +470,10 @@ Seeker: Place.
 DM: And you are now all crouched in the shadow of this bridge. As you approach the bridge, you can see that this is a stone bridge made of hard sandstone. But it's kind of pointless, as the river is just a dry wash. So it's this big bridge spanning nothing. It's early Dunmari construction, not Drankorian, but solidly built, only crumbling in a few places.
 
 %% u1949 %%
-Seeker: Who knows, maybe [[herself]] crossed this bridge.
+Seeker: Who knows, maybe {{herself}} crossed this bridge.
 
 %% u1950 %%
-DM: [[Fat]], now go ahead.
+DM: {{Fat}}, now go ahead.
 
 %% u1951 %%
 Wellby: Are there sewer pipes emptying into the river that are visible?
@@ -497,10 +497,10 @@ Delwath: An hour.
 DM: Like ten minutes.
 
 %% u1964-u1965 %%
-Seeker: Okay, I'm gonna cast my Clairvoyance, [[Amy]].
+Seeker: Okay, I'm gonna cast my Clairvoyance, {{Amy}}.
 
 %% u1966 %%
-DM: [[Translating it.]]
+DM: {{Translating it.}}
 
 %% u1967-u1968 %%
 Seeker: Invisible sensor in the center point of the palace structure, aiming for the throne room. Okay, let's see what the center point would be. Oh God.
@@ -512,7 +512,7 @@ Kenzo: As Seeker’s—
 DM: And seeing as I do have a map, I know exactly what you're going to—
 
 %% u1972 %%
-Seeker: [[Fish get.]]
+Seeker: {{Fish get.}}
 
 %% u1973-u1974 %%
 Kenzo: As Seeker is doing all this, Kenzo looks at Delwath. We’re kind of at the bridge. Are you feeling—

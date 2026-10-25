@@ -29,16 +29,16 @@ DM: No, I mean, it's not something that you are going to remember. You're not pa
 Kenzo: Whatever. You want to try to remember the thing about the mirror?
 
 %% u1258-u1259 %%
-Delwath: [[Shaft. Well as that.]] That's my...
+Delwath: {{Shaft. Well as that.}} That's my...
 
 %% u1260-u1261 %%
-DM: Perception. Yeah. You also, it's just lost. Yeah, [[I'm ready]].
+DM: Perception. Yeah. You also, it's just lost. Yeah, {{I'm ready}}.
 
 %% u1262 %%
 Kenzo: Is it charged?
 
 %% u1263-u1265 %%
-DM: Good question. Ha-ha. Let's see, let me count how many days has it been. [[Said no because you're used at...]]
+DM: Good question. Ha-ha. Let's see, let me count how many days has it been. {{Said no because you're used at...}}
 
 %% u1266 %%
 Seeker: Okay, we can pawn it in Karawa.
@@ -164,7 +164,7 @@ Kenzo: Hold on, let's just—we had a week. So let's just pull all of our items 
 DM: Awesome. It might charge faster in Karawa because there's a lot of ley lines there.
 
 %% u1333-u1334 %%
-Kenzo: Either way, let's gather up... What other interesting, what other weird items do we have? You have a bunch [[of my character sheet]].
+Kenzo: Either way, let's gather up... What other interesting, what other weird items do we have? You have a bunch {{of my character sheet}}.
 
 %% u1335-u1336 %%
 Seeker: We can learn the true backstory of Taster. His adventures before me.
@@ -185,7 +185,7 @@ Seeker: What was that, yeah?
 DM: That was around the neck of one of the gnolls you killed in Raven’s Hold.
 
 %% u1345 %%
-Kenzo: [[On. So I basically smear.]]
+Kenzo: {{On. So I basically smear.}}
 
 %% u1346-u1349 %%
 Seeker: And I have the fire elemental gem thing. It's like, what object is closest to the storyline of Agata? If any. None, maybe.
@@ -215,7 +215,7 @@ Kenzo: What do you all think? I feel it's pretty interesting.
 Wellby: I think it's worth it.
 
 %% u1361-u1362 %%
-Seeker: Yeah, I get my journal out. [[And you]] get some answers today.
+Seeker: Yeah, I get my journal out. {{And you}} get some answers today.
 
 %% u1363 %%
 Kenzo: As he gets out whatever the equivalent of Taelgar popcorn is.
@@ -248,7 +248,7 @@ Wellby: Not an object. The hell is this?
 Kenzo: Or like, what's the story of this? Where did this come from? Who cast this? Or...
 
 %% u1376 %%
-Seeker: [[Why you need to know.]]
+Seeker: {{Why you need to know.}}
 
 %% u1377 %%
 Delwath: Why was this cast?
@@ -266,7 +266,7 @@ Wellby: Where's the person who used this now?
 Seeker: Oh, snap.
 
 %% u1383 %%
-Delwath: [[Am I getting ready for it?]]
+Delwath: {{Am I getting ready for it?}}
 
 %% u1384 %%
 Wellby: Yeah.
@@ -275,10 +275,10 @@ Wellby: Yeah.
 Delwath: I might be breaking the rules.
 
 %% u1386 %%
-Seeker: [[We don't be a person.]]
+Seeker: {{We don't be a person.}}
 
 %% u1387 %%
-Delwath: We don't really know if it's [[realistic air]], like...
+Delwath: We don't really know if it's {{realistic air}}, like...
 
 %% u1388 %%
 Unknown: Yeah.
@@ -341,7 +341,7 @@ Delwath: Yeah, okay.
 Kenzo: Let's do that. Do you...?
 
 %% u1417-u1419 %%
-DM: [[Know that]] the history of the ivory scroll cap, [[for your return]].
+DM: {{Know that}} the history of the ivory scroll cap, {{for your return}}.
 
 %% u1420 %%
 Seeker: The history of the ivory scroll. Well...
@@ -416,7 +416,7 @@ Delwath: My two questions, but is there enough detail that if we found the works
 DM: Yeah, maybe. It was dark, right?
 
 %% u1490 %%
-Delwath: [[That darkness and helps the the dark.]]
+Delwath: {{That darkness and helps the the dark.}}
 
 %% u1491 %%
 DM: The mirror doesn't have...
@@ -455,7 +455,7 @@ DM: If somebody is projecting a movie of a dark room and you shine a flashlight 
 Delwath: If it's magical.
 
 %% u1516-u1519 %%
-Seeker: Not an LCD screen. It's [[crazy Whitefield]], presumably. Like a mirror, if you turn your head, if you move to different sides and see different stuff, right? Over here is...
+Seeker: Not an LCD screen. It's {{crazy Whitefield}}, presumably. Like a mirror, if you turn your head, if you move to different sides and see different stuff, right? Over here is...
 
 %% u1520-u1523 %%
 Delwath: The other question is, is there any hint? I'm going to give up on trying to see in the dark in the mirror, because I think that's a dead end. But is there any information we might know through, I don't know, an Arcana check or a Religion check that would give some context to human scrolls, you know, spells created on human scrolls?
@@ -494,10 +494,10 @@ Kenzo: Say...
 Seeker: Let's not go there.
 
 %% u1554-u1556 %%
-Kenzo: There must be people, like, [[must let's see years doing an...]]
+Kenzo: There must be people, like, {{must let's see years doing an...}}
 
 %% u1557 %%
-Unknown: [[Artist like...]]
+Unknown: {{Artist like...}}
 
 %% u1558 %%
 Kenzo: There must be like...
@@ -509,7 +509,7 @@ Delwath: Like real places that you can map? They're the imaginings of humanity. 
 Seeker: But then there's also the dream world and the Plane of Magic, also to really, you know...
 
 %% u1562 %%
-Delwath: [[What does change all the time today.]] Okay.
+Delwath: {{What does change all the time today.}} Okay.
 
 %% u1563-u1564 %%
 Kenzo: Yeah, but think about even given our occult tradition, right? Like, there are always people trying to map the ways that heaven intersects with hell.
@@ -536,7 +536,7 @@ DM: A deep secret of the universe from your background that you haven't used. Yo
 Seeker: Another quantum character. That's awesome. I...
 
 %% u1577 %%
-Kenzo: Forgot about that. I like having a quantum [[terror]].
+Kenzo: Forgot about that. I like having a quantum {{terror}}.
 
 %% u1578 %%
 Unknown: But wait.
@@ -590,7 +590,7 @@ Unknown: Oh,
 Seeker: It'd be like casting a spell with a rune, but just directly forcing the energy from one plane into another. Seems dangerous.
 
 %% u1620 %%
-Kenzo: [[You take that route. And it got its course.]]
+Kenzo: {{You take that route. And it got its course.}}
 
 %% u1621-u1623 %%
 Seeker: Well, all that was just torn to pieces, torn to pieces millennia ago by the giants that invented all this stuff, as far as we know, in the runes.
@@ -623,10 +623,10 @@ Kenzo: There must be historical stories and occult history and shit about demons
 DM: Like, yeah, so...
 
 %% u1650 %%
-Kenzo: So what do we know about historical—what kinds of [[mine is some some shit]] about that? Like, what do we know about weird humans and the Abyss and Nine Hells and stuff like that? And are there other instances of demons crossing over and stuff?
+Kenzo: So what do we know about historical—what kinds of {{mine is some some shit}} about that? Like, what do we know about weird humans and the Abyss and Nine Hells and stuff like that? And are there other instances of demons crossing over and stuff?
 
 %% u1651 %%
-Seeker: [[But it's all Charlton's full moon.]]
+Seeker: {{But it's all Charlton's full moon.}}
 
 %% u1652-u1657 %%
 DM: So yeah, I mean, there are stories. There are two kinds of stories. So one kind of story that's quite common is people who want power and who trade something, oftentimes their soul but sometimes something else, to some extradimensional entity, usually a...
@@ -665,7 +665,7 @@ Seeker: Perhaps there was some great act of evil that can be...
 Unknown: This...
 
 %% u1687 %%
-Seeker: Corruption can be [[told to]].
+Seeker: Corruption can be {{told to}}.
 
 %% u1688-u1690 %%
 DM: Right. And then there's—sorry, there's a third kind of story, which is mages, wizards, usually wizards but sometimes anybody who can manipulate magic, who summon beings from other planes to do their bidding. And that's risky and dangerous and doesn't always go the way you expect it to. But stories of demon summoning, of a wizard who desired to rule a kingdom and summoned a demon to aid him, that sort of thing.
@@ -686,7 +686,7 @@ Kenzo: This may be the largest-scale manifestation of this phenomenon in recorde
 DM: Well, I mean, there are certainly other recorded instances of gnoll attacks, right? This is certainly not the largest gnoll rampage that's ever been recorded.
 
 %% u1701 %%
-Seeker: [[I shouldn't do this. I'll just tease.]]
+Seeker: {{I shouldn't do this. I'll just tease.}}
 
 %% u1702 %%
 Unknown: Yeah.
@@ -713,7 +713,7 @@ Kenzo: I am indeed.
 Seeker: How's your spot there?
 
 %% u1710-u1711 %%
-Kenzo: All right. Now I'm in my sister's place, kind of in her room. But yeah, I think as we shift into [[Cuba there]] and I get my own place... Looking at some Airbnbs not too far from here, so...
+Kenzo: All right. Now I'm in my sister's place, kind of in her room. But yeah, I think as we shift into {{Cuba there}} and I get my own place... Looking at some Airbnbs not too far from here, so...
 
 %% u1712-u1713 %%
 Seeker: Nice, nice. Yeah.
@@ -725,13 +725,13 @@ Kenzo: You've been to Oakland?
 Seeker: A little bit. What were we doing there? So, in January of last year, like exactly a year ago, I was there for one day. We were in Oakland. I did a consulting gig talking to Facebook about their VR stuff with Jay, but we visited some folks in Oakland.
 
 %% u1722-u1723 %%
-Kenzo: [[He has been to America before they open know.]] Right, that's like the—I'm looking at places near that, like I can go for a nice walk each day.
+Kenzo: {{He has been to America before they open know.}} Right, that's like the—I'm looking at places near that, like I can go for a nice walk each day.
 
 %% u1724 %%
 Seeker: I think it was in San Francisco proper, actually. Went to one of the best mini-golf experiences. There was crazy indoor, like steampunk mini-golf. It was super-elaborate mechanical contraptions.
 
 %% u1725-u1726 %%
-Kenzo: Wow, that sounds awesome. [[We didn't]] shut down during the pandemic?
+Kenzo: Wow, that sounds awesome. {{We didn't}} shut down during the pandemic?
 
 %% u1727 %%
 Seeker: It was a pretty small, closed-in space, so that'd be tricky, but who knows.
@@ -773,7 +773,7 @@ Delwath: I don't have any.
 DM: I haven't. Honestly, I have sort of not followed politics super much in the last three days.
 
 %% u1742 %%
-Unknown: [[After the America.]]
+Unknown: {{After the America.}}
 
 %% u1743 %%
 Seeker: It's just a renewed...
@@ -785,7 +785,7 @@ DM: Yeah. No, I mean, it's not over. I still have to pay attention, but I just n
 Seeker: It's not over yet. No, that's the feeling. Like...
 
 %% u1748-u1749 %%
-Kenzo: [[Forces back.]] So...
+Kenzo: {{Forces back.}} So...
 
 %% u1750 %%
 Seeker: Close to just figuring everything out, I'm sure.
@@ -797,10 +797,10 @@ Delwath: Yeah.
 Kenzo: Yeah.
 
 %% u1753-u1757 %%
-DM: So, hold on one sec here. I just... [[My gate.]] I think this would work if you... I don't know who has the mirror, but if you search that in D&D Beyond, you should be able to add that.
+DM: So, hold on one sec here. I just... {{My gate.}} I think this would work if you... I don't know who has the mirror, but if you search that in D&D Beyond, you should be able to add that.
 
 %% u1758 %%
-Unknown: [[Done this year.]]
+Unknown: {{Done this year.}}
 
 %% u1759 %%
 Delwath: Yep. Cool.
@@ -827,7 +827,7 @@ DM: Okay.
 Seeker: I like how you're thinking there. I think that's...
 
 %% u1768-u1769 %%
-Kenzo: It does, it does. I forget how fun it is to be kind of semi-demigods in the end, but we've been so... We're still [[creating still]], right? But it does happen. You're right.
+Kenzo: It does, it does. I forget how fun it is to be kind of semi-demigods in the end, but we've been so... We're still {{creating still}}, right? But it does happen. You're right.
 
 %% u1770 %%
 Seeker: When...
@@ -839,4 +839,4 @@ Kenzo: You actually have like access to flying castles and fucking giants like t
 Seeker: We'll get there.
 
 %% u1773-u1774 %%
-DM: So, [[five, four years]] morning.
+DM: So, {{five, four years}} morning.

@@ -53,7 +53,7 @@ Seeker: Uh-oh. Kenzo, I don't think that worked.
 Wellby: [laughs]
 
 %% u1044 %%
-Kenzo: Kenzo... [[the astral plane's astral]].
+Kenzo: Kenzo... {{the astral plane's astral}}.
 
 %% u1045 %%
 Delwath: Can we tell... Is his telepathy gone?
@@ -305,7 +305,7 @@ Unknown: Please.
 DM: I want some more.
 
 %% u1179 %%
-Wellby: There's more [[aruba]] if anybody wants [[aruba]].
+Wellby: There's more {{aruba}} if anybody wants {{aruba}}.
 
 %% u1180 %%
 Unknown: That was—
@@ -578,7 +578,7 @@ Delwath: Yes. Fourth.
 DM: Sorry, a fourth-level spell. So one seven—
 
 %% u1289 %%
-Delwath: [[Two, seven Dimension Door]].
+Delwath: {{Two, seven Dimension Door}}.
 
 %% u1290-u1293 %%
 DM: So you are not surprised, because you have truesight, as these 20 things emerge up from the floor to come swarm and attack you. You notice that the door... So, like, on one side of the room is the violet sphere.
@@ -740,7 +740,7 @@ Unknown: Yeah. What's your move? Oh, your move.
 Delwath: 60. Delwath is all of a sudden super fast.
 
 %% u1367 %%
-Wellby: [[Can See the Blind]] could even go around.
+Wellby: {{Can See the Blind}} could even go around.
 
 %% u1368 %%
 Kenzo: Yeah. One, two, three, four, five, six, seven, eight, nine.
@@ -797,7 +797,7 @@ Kenzo: I think we try to just be really charming.
 Unknown: All right, all right. Let's do charming. All right.
 
 %% u1387 %%
-Seeker: Do you have any [[areas under 12]]?
+Seeker: Do you have any {{areas under 12}}?
 
 %% u1388 %%
 Wellby: Not really.
@@ -1814,7 +1814,7 @@ Delwath: Sounds pleasant.
 DM: "The other one—"
 
 %% u1860 %%
-Unknown: [[Shrike from Japan]].
+Unknown: {{Shrike from Japan}}.
 
 %% u1861-u1869 %%
 DM: "... the other one is... It looks, like, weird. It's all, like, shiny dark, but there's, like, jagged lines of light and lightning that drift through it and it has a head that looks like a mini sun."
@@ -2057,7 +2057,7 @@ Unknown: No, I wouldn't.
 DM: So that—
 
 %% u1972 %%
-Unknown: [[I'm only renewable]].
+Unknown: {{I'm only renewable}}.
 
 %% u1973-u1974 %%
 DM: ... that one, the one that's silvery, I'm calling that one Centaur One. The one that's more gold-y and bigger, I'm calling Centaur Two.
@@ -2393,7 +2393,7 @@ Unknown: Thank you, yep.
 Delwath: All right. [sighs] Minions.
 
 %% u2120 %%
-Unknown: [[Bob is asleep. So bad]].
+Unknown: {{Bob is asleep. So bad}}.
 
 %% u2121-u2124 %%
 DM: Yeah. Hold on. Oh, wait. Sorry. You were both attacking Bob, right?
@@ -2405,7 +2405,7 @@ Delwath: Everybody was attacking Bob.
 DM: Okay. I put that down on Goldie, not Bob. But I'll change it.
 
 %% u2128-u2129 %%
-Unknown: Why didn't they put a little sleep or something like that? [[It's so Dad]] and I was like, "Kill them."
+Unknown: Why didn't they put a little sleep or something like that? {{It's so Dad}} and I was like, "Kill them."
 
 %% u2130 %%
 DM: Um—
@@ -2447,7 +2447,7 @@ Kenzo: Seriously, man.
 DM: Ah.
 
 %% u2144 %%
-Kenzo: [[Train is where they blame]], not the management, you know?
+Kenzo: {{Train is where they blame}}, not the management, you know?
 
 %% u2145 %%
 Unknown: That's right. [laughs]
@@ -2726,7 +2726,7 @@ DM: To hit the minion.
 Unknown: Yeah.
 
 %% u2272 %%
-Kenzo: [[That would have been impossible five years in]].
+Kenzo: {{That would have been impossible five years in}}.
 
 %% u2273 %%
 DM: That misses the minions.
@@ -3179,7 +3179,7 @@ Unknown: He has to make a save, too.
 DM: Yeah.
 
 %% u2467-u2468 %%
-Wellby: [[Bob talks and you]], "I heard something." [laughs]
+Wellby: {{Bob talks and you}}, "I heard something." [laughs]
 
 %% u2469 %%
 DM: Uh, he fails.
@@ -4124,7 +4124,7 @@ DM: I mean, very wounded, not like you're gonna kill him in one hit.
 Unknown: Yeah.
 
 %% u2866 %%
-DM: But [[pot-bloodied]].
+DM: But {{pot-bloodied}}.
 
 %% u2867 %%
 Delwath: But he has Sickening Radiance next turn.

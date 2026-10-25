@@ -53,7 +53,7 @@ Kenzo: The gross monster that was poisoning the water.
 Unknown: Yeah.
 
 %% u2146-u2148 %%
-Riswynn: Is there a separate summoning circle that they used to summon the animal-carcass-[[postulating]] demon? Like, should we look around for another circle to destroy, or...?
+Riswynn: Is there a separate summoning circle that they used to summon the animal-carcass-{{postulating}} demon? Like, should we look around for another circle to destroy, or...?
 
 %% u2149 %%
 Delwath: I mean, is this...?
@@ -77,7 +77,7 @@ Riswynn: I noticed that.
 DM: She should have been in the combat. She would have been fighting with you. Because I didn't have it set up, I wasn't running it as an encounter because I wanted to get through it quickly. So I just forgot about her, but pretend she was fighting with you. She wasn't secretly not wanting to hurt this thing or anything.
 
 %% u2159 %%
-Wellby: [[That's already Vola.]]
+Wellby: {{That's already Vola.}}
 
 %% u2160-u2161 %%
 Kenzo: Should we move now?
@@ -134,7 +134,7 @@ DM: Okay. So yes, not every one has been washed away, but the water has definite
 Riswynn: Is it still powerful ash? Like, is there still the menacing presence in a pile of ash, even though Delwath has moved the ivory cap of the scroll?
 
 %% u2198 %%
-DM: Yeah, I mean, there's a little pile of ash just kind of sitting on the ground. Yes, it doesn't disappear when you... It seems like perfectly mundane [[that just have fun]].
+DM: Yeah, I mean, there's a little pile of ash just kind of sitting on the ground. Yes, it doesn't disappear when you... It seems like perfectly mundane {{that just have fun}}.
 
 %% u2199 %%
 Delwath: It's just, I mean, it's the right amount of ash to be a burned-up scroll?
@@ -434,7 +434,7 @@ DM: Okay. So as you are speaking this, sort of chanting in this low series of gr
 Wellby: I'm standing next to Seeker like pointing at him and giving like a thumbs up.
 
 %% u2380-u2382 %%
-Seeker: Good work. Wellby, we have to set to work releasing animals from their bonds. Now, I neglected to specify contractually that they wouldn't eat us while we do this, but presumably [[this lobby]].
+Seeker: Good work. Wellby, we have to set to work releasing animals from their bonds. Now, I neglected to specify contractually that they wouldn't eat us while we do this, but presumably {{this lobby}}.
 
 %% u2383 %%
 Wellby: I think we're cool.
@@ -482,7 +482,7 @@ DM: Yeah, exactly like that. "Sup, dude." Then he climbs on and they ride off.
 Kenzo: Or.
 
 %% u2407 %%
-Wellby: [[An XP with mixed results.]]
+Wellby: {{An XP with mixed results.}}
 
 %% u2408 %%
 Unknown: Yeah.

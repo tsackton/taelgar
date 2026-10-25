@@ -110,7 +110,7 @@ Riswynn: And these are reasonably intact?
 DM: Yes, there are no ground-floor entrances to these towers. They're like the corners of buildings more than actual freestanding towers, and there are stairs that go up to the second floor. The entrances are on the second floor.
 
 %% u2198-u2201 %%
-Wellby: [[Doesn't work.]] Wellby's not confident enough that we're alone in the place yet. I think he's gonna try to move pretty quickly and get up into the tower-looking building. Really just trying to get the lay of the land and see if there's any other signs of more enemies, more than really investigating.
+Wellby: {{Doesn't work.}} Wellby's not confident enough that we're alone in the place yet. I think he's gonna try to move pretty quickly and get up into the tower-looking building. Really just trying to get the lay of the land and see if there's any other signs of more enemies, more than really investigating.
 
 %% u2202 %%
 DM: Okay.
@@ -149,7 +149,7 @@ DM: The stables and the gate towers on the outer wall are the only things that h
 Delwath: Destroyed. So is there a reasonable vantage point amongst the ruins that would be reasonable to keep watch? I just want to keep a lookout for another bat demon or gnolls on the plains, in the—
 
 %% u2222-u2225 %%
-DM: Yes, there are. You can definitely climb up among the rubble and get a spot where you can get a good look out across the plains. Okay, so Perception check for you as well. [[Tell us admins one.]] Right.
+DM: Yes, there are. You can definitely climb up among the rubble and get a spot where you can get a good look out across the plains. Okay, so Perception check for you as well. {{Tell us admins one.}} Right.
 
 %% u2226 %%
 Delwath: There. Yep.
@@ -173,7 +173,7 @@ Seeker: Huh, Kenzo, maybe we can offer them something to eat if they give us som
 Kenzo: Sure, I think absolutely. I mean, well, there's Taster, but I—
 
 %% u2246-u2247 %%
-DM: He's just [[simply]] back in the tower. I mean—
+DM: He's just {{simply}} back in the tower. I mean—
 
 %% u2248 %%
 Kenzo: I pull out a bit of dried rations.
@@ -215,7 +215,7 @@ Unknown: Yeah.
 Seeker: Yeah.
 
 %% u2269-u2270 %%
-DM: [[That's I was just kind of standing their ground at this.]]
+DM: {{That's I was just kind of standing their ground at this.}}
 
 %% u2271 %%
 Kenzo: Okay, and I am just sitting there meditating, really just trying to soak it all in.
@@ -242,7 +242,7 @@ Seeker: How many days' travel from here?
 DM: Several suns.
 
 %% u2282-u2284 %%
-Seeker: Kenzo, can you—[[might be able to answer]].
+Seeker: Kenzo, can you—{{might be able to answer}}.
 
 %% u2285 %%
 Kenzo: If they know what's happening to them.
@@ -293,7 +293,7 @@ Unknown: Rope. Nothing.
 Seeker: The whole thing is such a puzzle, though. They're collecting these creatures. Do they turn into gnolls, or are they just using them for this ritual? Is that about summoning?
 
 %% u2309 %%
-Unknown: [[Feels like learns.]]
+Unknown: {{Feels like learns.}}
 
 %% u2310-u2312 %%
 Kenzo: Feels like the gnolls are either being transmuted from these hyenas, or the gnolls are coming directly from whatever portal.
@@ -305,7 +305,7 @@ Seeker: We just don't have the answers. And all those terrible creatures that we
 Kenzo: Next time we should not kill all the gnolls. We should try to keep one for interrogation, now that I think about it. That way we—
 
 %% u2319 %%
-Unknown: [[Could quite a few.]]
+Unknown: {{Could quite a few.}}
 
 %% u2320 %%
 Kenzo: I mean, I've been a little caught up in the bloodlust myself, so I apologize on my own behalf, but—
@@ -323,7 +323,7 @@ Unknown: When all this is over.
 Seeker: You're going to be—
 
 %% u2326 %%
-Kenzo: Close the abyss from hell. This is going to be [[a scan of the great—]]
+Kenzo: Close the abyss from hell. This is going to be {{a scan of the great—}}
 
 %% u2327 %%
 Seeker: Golden Hour.
@@ -434,13 +434,13 @@ DM: Yes, there's liquid inside that's kind of boiling, giving off vapors a littl
 Wellby: Close it back up again. Okay.
 
 %% u2414-u2416 %%
-Kenzo: [[Privacy of]] a locket full of noxious gas, acrid flesh in his—who carries lots of burning flesh?
+Kenzo: {{Privacy of}} a locket full of noxious gas, acrid flesh in his—who carries lots of burning flesh?
 
 %% u2417-u2418 %%
 Seeker: Could be part of the ritual, or it could just be a weapon, and a leader—
 
 %% u2419 %%
-Wellby: [[The money thing.]]
+Wellby: {{The money thing.}}
 
 %% u2420 %%
 Kenzo: Or maybe it's a suicide thing, you know.
@@ -470,7 +470,7 @@ Wellby: I think the animals have to get out of the valley, though, without drink
 Unknown: Um...
 
 %% u2435-u2437 %%
-Seeker: I've got this whole list of unanswered questions, and I think, tallying up the number of them that we've answered just today, there's none. That's the total number. [[Granted also same as that—]]
+Seeker: I've got this whole list of unanswered questions, and I think, tallying up the number of them that we've answered just today, there's none. That's the total number. {{Granted also same as that—}}
 
 %% u2438 %%
 Unknown: Of the questions.
@@ -500,13 +500,13 @@ Seeker: Actually, so Riswynn, you were suggesting a way that we might release th
 Unknown: Oh.
 
 %% u2453-u2456 %%
-Riswynn: Does anybody have any [[money]]? I guess we can either manually or magically release the door. It would involve having someone who could release the door, or the pen—
+Riswynn: Does anybody have any {{money}}? I guess we can either manually or magically release the door. It would involve having someone who could release the door, or the pen—
 
 %% u2457 %%
 Unknown: From a distance.
 
 %% u2458 %%
-Riswynn: [[They're colliding.]]
+Riswynn: {{They're colliding.}}
 
 %% u2459 %%
 Seeker: They're individually bound, though, the animals, right?
@@ -554,7 +554,7 @@ DM: You could easily get yourself up against the wall or on top of some rubble o
 Delwath: And we're thinking that if we let them free, then they'll go run to the meat of the gnolls, but how does that—?
 
 %% u2479-u2483 %%
-Riswynn: I don't know. It just seems better than leaving them in the pen. [[I will be going back to where we're coming.]] Just leaving them penned up untended, they're going to expire. They have a slightly better chance if they can run, get a little bit of food and water, and get out of here.
+Riswynn: I don't know. It just seems better than leaving them in the pen. {{I will be going back to where we're coming.}} Just leaving them penned up untended, they're going to expire. They have a slightly better chance if they can run, get a little bit of food and water, and get out of here.
 
 %% u2484-u2485 %%
 Seeker: But to Wellby's point, the nearby water supply is poisoned. They must be drinking something that doesn't kill them, though.
@@ -569,7 +569,7 @@ Kenzo: Do we know what the water is going to do to them if they drink? Because i
 Seeker: I don't think we've learned anything about it aside from what the centaur said about it, and we—
 
 %% u2492 %%
-Kenzo: [[Believe what how you flew.]]
+Kenzo: {{Believe what how you flew.}}
 
 %% u2493 %%
 Seeker: What the centaur said, so—
@@ -635,16 +635,16 @@ Seeker: Yeah, yeah, I—
 Kenzo: Mean, weren't they?
 
 %% u2516-u2517 %%
-Wellby: [[Rounding is like the most]]—bringing the animals here to transform them, sending them out. In retrospect, we should have asked these questions before killing every—
+Wellby: {{Rounding is like the most}}—bringing the animals here to transform them, sending them out. In retrospect, we should have asked these questions before killing every—
 
 %% u2518 %%
-DM: [[Site that was not for you.]]
+DM: {{Site that was not for you.}}
 
 %% u2519 %%
 Kenzo: That was—
 
 %% u2520 %%
-DM: [[A sports.]]
+DM: {{A sports.}}
 
 %% u2521 %%
 Unknown: Okay.
@@ -686,13 +686,13 @@ DM: Let's see, you can make an Arcana check.
 Kenzo: Alright.
 
 %% u2542-u2543 %%
-Seeker: [[Cool chick.]] Make an Arcana check.
+Seeker: {{Cool chick.}} Make an Arcana check.
 
 %% u2544 %%
 Kenzo: Seeker's Arcana is strong.
 
 %% u2545-u2549 %%
-DM: Seeker, yes, Seeker studied extensively, [[Torben]]. Except Seeker has not read of gnolls. However, Delwath has.
+DM: Seeker, yes, Seeker studied extensively, {{Torben}}. Except Seeker has not read of gnolls. However, Delwath has.
 
 %% u2550-u2564 %%
 DM: Delwath, you haven't studied this extensively, but just thinking through everything that's happened, you do remember a story or a sort of legend from long ago, back even in your childhood, that demonic corruption, the sort of abyssal energy, is like a virus that transforms what it touches. Its presence can infect the land with its corruption. It can infect flesh, and it can infect—
@@ -743,7 +743,7 @@ DM: Yes, yes.
 Seeker: Oh yeah, those are nearby.
 
 %% u2587 %%
-Unknown: [[Triclosan.]]
+Unknown: {{Triclosan.}}
 
 %% u2588 %%
 Seeker: Let's check those out.
@@ -752,7 +752,7 @@ Seeker: Let's check those out.
 Delwath: Is it worth taking a short rest before we go further, just to—?
 
 %% u2590-u2591 %%
-Riswynn: [[Practice the line]] on this whole theory: if all they need to do is give the animals water to drink that would make them transform, then why would they need a demon that did the whole claw-ripping fingernail thing?
+Riswynn: {{Practice the line}} on this whole theory: if all they need to do is give the animals water to drink that would make them transform, then why would they need a demon that did the whole claw-ripping fingernail thing?
 
 %% u2592 %%
 Seeker: Fingernail thing. Good question, Riswynn.
@@ -791,13 +791,13 @@ Riswynn: So experiment with feeding these poor animals poisoned antelope or pois
 Seeker: Then finally we could ask them those questions.
 
 %% u2612 %%
-Riswynn: [[For Nolan, the insects.]]
+Riswynn: {{For Nolan, the insects.}}
 
 %% u2613 %%
 Delwath: Maybe they have racial memory or something.
 
 %% u2614-u2615 %%
-Seeker: Oh my gosh. [[No anything.]]
+Seeker: Oh my gosh. {{No anything.}}
 
 %% u2616 %%
 Kenzo: Shit. Well, I think we're getting close to understanding.
@@ -872,7 +872,7 @@ Wellby: I am super, super curious, but I feel like we should turn in. I got very
 Unknown: Yeah.
 
 %% u2651 %%
-Seeker: Well, good to end on a [[winner]] cliffhanger, I guess.
+Seeker: Well, good to end on a {{winner}} cliffhanger, I guess.
 
 %% u2652-u2654 %%
 DM: Yes, that was a good spot. If everybody's getting tired, I think it makes sense to investigate clues when you are awake rather than falling asleep.
@@ -887,4 +887,4 @@ Kenzo: All right, what are we—?
 DM: Okay, so—
 
 %% u2658 %%
-Unknown: [[Freddie.]]
+Unknown: {{Freddie.}}

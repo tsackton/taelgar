@@ -35,7 +35,7 @@ Kenzo: That's what I'm saying. There's clearly activity. I think we can learn a 
 Seeker: What could possibly go wrong?
 
 %% u1574-u1575 %%
-Wellby: I agree. Let me [[click]] not to go through the door until we're ready to.
+Wellby: I agree. Let me {{click}} not to go through the door until we're ready to.
 
 %% u1576-u1577 %%
 Kenzo: Yeah, I like that. I think if Delwath is able to just—can you—
@@ -95,7 +95,7 @@ Seeker: Might have been a fluke, just one of those migratory bat demons passing 
 Kenzo: No, but you can step through the door. You don't have to open it wide. You can just open it a crack and slip through, especially if you're—
 
 %% u1602-u1607 %%
-Delwath: Yeah, I just wanted to see if it was locked. I wasn't even going to open it. I was just gonna open it a tenth of an inch, just turn the handle. Is there a handle? [[Like I played five I played with to take one session. And you guys had to take five sessions]]. What is wrong with you?
+Delwath: Yeah, I just wanted to see if it was locked. I wasn't even going to open it. I was just gonna open it a tenth of an inch, just turn the handle. Is there a handle? {{Like I played five I played with to take one session. And you guys had to take five sessions}}. What is wrong with you?
 
 %% u1608-u1609 %%
 Wellby: I mean, I'm inclined just to go in as a team. But do we need to rest? We need to rest more before we do?
@@ -176,13 +176,13 @@ DM: So you're going to slip inside the tower, in the door? Yeah, okay. You enter
 Unknown: Pretty good.
 
 %% u1646 %%
-DM: [[Music mass]]—roll twice, see if you do better.
+DM: {{Music mass}}—roll twice, see if you do better.
 
 %% u1647 %%
 Kenzo: Oh…
 
 %% u1648-u1654 %%
-DM: No, yeah, so a good roll when you need it. Okay, the entryway that you step into in this tower is empty, bare, with stairs going up and down, and there's a wall with a door leading into another room beyond. So you can either go up, down, or in the room. [[Y'all go first]]. Okay.
+DM: No, yeah, so a good roll when you need it. Okay, the entryway that you step into in this tower is empty, bare, with stairs going up and down, and there's a wall with a door leading into another room beyond. So you can either go up, down, or in the room. {{Y'all go first}}. Okay.
 
 %% u1655 %%
 Kenzo: We're gonna see if I can find some windows, get a better view.
@@ -197,7 +197,7 @@ Kenzo: Just as I go in the keep, I'll look out of all of them. Any creatures any
 DM: Looking out, you notice a few things. First of all, looking out the opposite side, right? So you were on the east side of the tower. In the tunnel, you were looking west. You're looking at the east side of the tower. To the south of the tower is the keep; to the north is the cliff. To the west of the tower, you're looking out over what looks like it used to be some sort of cultivated gardens or courtyard area, but very pretty. There's two large pools of water.
 
 %% u1666-u1669 %%
-DM: [[Through me right now]]—no, you're imagining what it looked like in the past. Got it, got it. The pools of water are sickly and green at the moment. Trees that used to line these pools and, you can imagine, provide nice shade in the heat of summer, are now largely dead. The ones that are not dead, their leaves are yellowing and dying.
+DM: {{Through me right now}}—no, you're imagining what it looked like in the past. Got it, got it. The pools of water are sickly and green at the moment. Trees that used to line these pools and, you can imagine, provide nice shade in the heat of summer, are now largely dead. The ones that are not dead, their leaves are yellowing and dying.
 
 %% u1670-u1671 %%
 DM: And moving across this courtyard area are several more of those hobgoblin undead creatures that you saw.
@@ -302,7 +302,7 @@ Kenzo: Basically, the tower's clear. There's only one way in this tower and one 
 DM: Ah. Well, presumably there's a way out on the bottom floor.
 
 %% u1734 %%
-Kenzo: Right, [[the data that goes]]—
+Kenzo: Right, {{the data that goes}}—
 
 %% u1735-u1736 %%
 DM: To the bottom. And then the other possible way in or out would be the door that might lead across the top of the gatehouse to the second tower. Other than that door and the way you came in, there's no other entrance or exit.
@@ -350,7 +350,7 @@ Seeker: Yeah yeah.
 DM: So basically the two places to search would be the apartment and the room that Kenzo didn't really look into, that was on the entry floor where you come in. There's a room that he did the—
 
 %% u1759-u1760 %%
-Unknown: [[Hardware]]. Okay.
+Unknown: {{Hardware}}. Okay.
 
 %% u1761-u1762 %%
 Seeker: I will sit cross-legged in the center of the floor and become one with my obsession with precious stones.
@@ -368,7 +368,7 @@ DM: Okay, so let's see. Let me just see what you would be in range of for Stone 
 DM: The ruined armory, the place north on the other side of the outer courtyard. But it's nothing that strikes you as massively valuable. You just get a tingling of precious metals. Delwath, in the apartment, basically there's still the same things that I described to Kenzo. There's the silver goblet—or not goblet, sorry, silver—
 
 %% u1785 %%
-Delwath: [[Are you space]].
+Delwath: {{Are you space}}.
 
 %% u1786-u1788 %%
 DM: Okay, so there's the silver goblet with red gems.
@@ -383,7 +383,7 @@ DM: It's fairly old, yeah. And then there's armor and weapons, what seems like w
 Delwath: I'm going to take the.
 
 %% u1797 %%
-Kenzo: [[Knowledge around here in this place]].
+Kenzo: {{Knowledge around here in this place}}.
 
 %% u1798-u1803 %%
 DM: Sorry, let me see. I need to see if this is—not the scroll. So you sense that this scroll is magical, but you don't recognize whatever spell it might contain. Okay, so that's searching. Kenzo, you want to head across to the other tower?
@@ -398,7 +398,7 @@ DM: Okay, so actually, give me a Perception check as you push open the door into
 Kenzo: Excellent. As I'm very perceptive.
 
 %% u1809-u1812 %%
-DM: [[Exam]]. Okay, so you push open the door, and you come into here. Let me see.
+DM: {{Exam}}. Okay, so you push open the door, and you come into here. Let me see.
 
 %% u1813-u1819 %%
 DM: Too many windows open here. Okay, so again, this is an entryway room similar to the other room, with stairs going up and going down. You come across into basically a bare entry, and then there's a door that leads to some other room on the other side of the door.
@@ -425,7 +425,7 @@ DM: No.
 Kenzo: Here.
 
 %% u1827 %%
-DM: [[About us]].
+DM: {{About us}}.
 
 %% u1828 %%
 Kenzo: Okay, it's fine. This is good.
@@ -500,7 +500,7 @@ DM: The orc definitely seemed like it was heading towards its home. Well, quarte
 Unknown: Nice.
 
 %% u1890-u1893 %%
-DM: So you should have moans coming from somewhere in here. [[It's all done]]. Oh, right.
+DM: So you should have moans coming from somewhere in here. {{It's all done}}. Oh, right.
 
 %% u1894-u1897 %%
 Kenzo: Let's do this fast. I'm trying to get back to the crew. I just want to figure out—oh, here we go. Jeez, nice. So the moaning, can I go to the room where the moaning is coming from?
@@ -596,7 +596,7 @@ DM: Her hands are tied. Yeah, okay.
 Kenzo: I'm going to untie you, okay? I untie her.
 
 %% u1946 %%
-DM: She shakes her hands, [[like web services]].
+DM: She shakes her hands, {{like web services}}.
 
 %% u1947-u1951 %%
 Kenzo: Okay, I'm with friends. We're in the other tower. We're not trying to be detected by whatever the hell is going on here, and we need to talk to you to understand what's going on about this place. It's very important that we understand what's going on here. But I'm going to try to help get you out of this situation. Do you know if they're leaving this whole tower? Are they still downstairs? Do you know if they stay down here?
@@ -626,7 +626,7 @@ DM: A week. How did you get here?
 Kenzo: I'll explain. I'll explain. But my friends and I were trying to figure out what the hell is going on here, because whatever's going on here is not right and we need to get down to the bottom of this.
 
 %% u1964-u1967 %%
-DM: Who are your friends? Did the Society send more people? [[Which decide]]. I have not met you before. I don't think I've met you before.
+DM: Who are your friends? Did the Society send more people? {{Which decide}}. I have not met you before. I don't think I've met you before.
 
 %% u1968-u1969 %%
 Kenzo: I'm going to Insight her now, now that we're actually talking. Can I do this?
@@ -755,7 +755,7 @@ DM: One was sitting by the steps. The other you didn't see. Maybe it went into t
 Delwath: Okay, one went in with the—one went in with—
 
 %% u2034 %%
-Wellby: [[Like you really quick]].
+Wellby: {{Like you really quick}}.
 
 %% u2035 %%
 DM: Orc, and one was.
@@ -857,7 +857,7 @@ Kenzo: Also, you can do it from the top of the stairs, probably.
 Wellby: Like being second.
 
 %% u2082-u2084 %%
-Seeker: [[I'm bored. I'm invisible]]. So what you're saying, I'm first? You're first.
+Seeker: {{I'm bored. I'm invisible}}. So what you're saying, I'm first? You're first.
 
 %% u2085 %%
 Kenzo: Oh, I thought that oh yeah yeah.
@@ -866,7 +866,7 @@ Kenzo: Oh, I thought that oh yeah yeah.
 Unknown: Sleeping.
 
 %% u2087 %%
-Kenzo: Well, first I go up to him, since I'm invisible. [[Like, we're not them where they are]].
+Kenzo: Well, first I go up to him, since I'm invisible. {{Like, we're not them where they are}}.
 
 %% u2088-u2089 %%
 DM: So yeah, that's what I'm doing right now. Oh, that's not a good—sorry, I got them on.
@@ -887,7 +887,7 @@ Seeker: And I begin drawing a complex sleepy drawing in the air, which wafts ove
 DM: Okay.
 
 %% u2098 %%
-Kenzo: [[Stars code to aerosol just shifting]].
+Kenzo: {{Stars code to aerosol just shifting}}.
 
 %% u2099 %%
 DM: You got to actually roll 5d8.
@@ -929,7 +929,7 @@ DM: Well, you presume the orc and the other guard are in—
 Kenzo: I'm gonna drag my character. Drag my dude.
 
 %% u2116 %%
-Wellby: [[Kip Dre]] into the tower for some reason.
+Wellby: {{Kip Dre}} into the tower for some reason.
 
 %% u2117 %%
 Unknown: Other.
@@ -977,7 +977,7 @@ DM: Hold on one second. Almost ready. Okay, so Delwath is first. But I'm gonna s
 DM: Yeah, okay, so they hear the noise and come running out. Kenzo, you're of course still invisible and hidden, but with the thump, you're not necessarily going to get surprise, but you will get advantage. Delwath is up first.
 
 %% u2145 %%
-Delwath: Is somebody moving somewhere? [[We went away]]. What's visible?
+Delwath: Is somebody moving somewhere? {{We went away}}. What's visible?
 
 %% u2146-u2147 %%
 DM: Nothing's visible. I mean—
@@ -1124,7 +1124,7 @@ Delwath: Next to the.
 DM: Other things. Okay, so it makes its save. Oh.
 
 %% u2224-u2226 %%
-DM: Let me see what—[[ass, too many visit]]—I'm trying to read the description of the spell.
+DM: Let me see what—{{ass, too many visit}}—I'm trying to read the description of the spell.
 
 %% u2227-u2230 %%
 DM: Okay, so as you cause the object to glow, it gets hot, and it's searing its hand. It doesn't drop the object, but it does have disadvantage on attack rolls until the start of your next turn.
@@ -1184,7 +1184,7 @@ Wellby: We have to use them, but we can undo it, at least as an action.
 DM: So it's a fifteen-foot radius. Oh, that's basically that. Well, that's gonna be pretty annoying because you can't actually move anything. Let me just try it.
 
 %% u2261-u2263 %%
-DM: Basically, that is all in darkness. You cannot see anything. [[Even if you cannot see anything]].
+DM: Basically, that is all in darkness. You cannot see anything. {{Even if you cannot see anything}}.
 
 %% u2264 %%
 Seeker: Nice.
@@ -1271,7 +1271,7 @@ Kenzo: Oh, really? Yeah.
 DM: But at disadvantage because of the Heat Metal.
 
 %% u2298 %%
-Kenzo: All right, fine. [[Us, man]]. I should just stay there.
+Kenzo: All right, fine. {{Us, man}}. I should just stay there.
 
 %% u2299 %%
 Delwath: Yeah, just stay there.
@@ -1322,10 +1322,10 @@ DM: And then swings its scimitar at Seeker, which hits for eight points of damag
 Seeker: So how do I do that? Just roll Constitution?
 
 %% u2325-u2326 %%
-Delwath: Click on the Con saving throw section. [[Ready strength you like]].
+Delwath: Click on the Con saving throw section. {{Ready strength you like}}.
 
 %% u2327-u2330 %%
-DM: As it slashes into you, you lose your concentration on the Heat Metal spell. [[Ah, fans]]. Okay, Riswynn, you're up.
+DM: As it slashes into you, you lose your concentration on the Heat Metal spell. {{Ah, fans}}. Okay, Riswynn, you're up.
 
 %% u2331 %%
 Unknown: Damn.
@@ -1337,7 +1337,7 @@ Kenzo: Uh-oh. Well, so much for quiet, stealthy, whatever. Now we just gotta fuc
 Riswynn: Yes, it's a.
 
 %% u2334-u2336 %%
-Kenzo: Magical doppelganger, fucking magic monster. [[Guitar guys]].
+Kenzo: Magical doppelganger, fucking magic monster. {{Guitar guys}}.
 
 %% u2337 %%
 Wellby: These were all the creatures in the tower, though, right?
@@ -1346,7 +1346,7 @@ Wellby: These were all the creatures in the tower, though, right?
 DM: You never went to the first floor, but yes.
 
 %% u2340-u2341 %%
-Seeker: As far as you [[all the]]. Great.
+Seeker: As far as you {{all the}}. Great.
 
 %% u2342 %%
 Riswynn: Mean, I guess.
@@ -1364,7 +1364,7 @@ Seeker: I could cast as many as two Thunderwaves.
 DM: That would make a lot of.
 
 %% u2347-u2349 %%
-Riswynn: All right, well, the guy near me is the one who didn't really care when he got hit. I'm not sure a warhammer—change my plan, and even though he [[fell]]—
+Riswynn: All right, well, the guy near me is the one who didn't really care when he got hit. I'm not sure a warhammer—change my plan, and even though he {{fell}}—
 
 %% u2350 %%
 Delwath: Well, your Warhammer is magic. It might matter.
@@ -1439,7 +1439,7 @@ Seeker: Wait, it is gonna make a Thunderwave-level amount of sound.
 DM: Well, it won't do it unless you do that.
 
 %% u2380 %%
-Riswynn: Right, I have to choose to, [[whereas mice]].
+Riswynn: Right, I have to choose to, {{whereas mice}}.
 
 %% u2381 %%
 Kenzo: So you can just use it to attack with it?
@@ -1598,7 +1598,7 @@ DM: Looks around again, snarling, and points that scimitar at you and is like, "
 Kenzo: And he's gonna miss.
 
 %% u2475-u2480 %%
-DM: And it's gonna miss. Swinging again: miss. And then it's looking around, feeling trapped, and will disengage as a bonus action and then run. One, two, three, four. [[Cry]].
+DM: And it's gonna miss. Swinging again: miss. And then it's looking around, feeling trapped, and will disengage as a bonus action and then run. One, two, three, four. {{Cry}}.
 
 %% u2481 %%
 Kenzo: Can he run past? Doesn't Seeker get an attack then?
@@ -1643,7 +1643,7 @@ Wellby: It doesn't really help, but I'll move there at least.
 DM: Okay Ah that ends his turn, Kenzo, you're up.
 
 %% u2497 %%
-Kenzo: All right, I get over here, and thirty [[battery here here]].
+Kenzo: All right, I get over here, and thirty {{battery here here}}.
 
 %% u2498 %%
 Delwath: Here, just—I'd run after him.

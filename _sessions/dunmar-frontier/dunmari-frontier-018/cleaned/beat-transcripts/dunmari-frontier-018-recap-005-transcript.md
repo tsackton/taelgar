@@ -62,7 +62,7 @@ DM: The closest is north and east of here, beyond Raven's Hold—east of Raven's
 Seeker: East of Raven's Hold?
 
 %% u1954-u1957 %%
-DM: Close to the source of the Kharja River, [[which is less... likely more like they're]].
+DM: Close to the source of the Kharja River, {{which is less... likely more like they're}}.
 
 %% u1958-u1959 %%
 Kenzo: Add to the map. Now that we know that there's a physical location where there's an entrance to another plane of existence.
@@ -86,7 +86,7 @@ Delwath: River Styx.
 Kenzo: Yeah yes.
 
 %% u1968 %%
-Seeker: Exactly, and what's at the end? [[Chipotle point]] from that purple? Okay.
+Seeker: Exactly, and what's at the end? {{Chipotle point}} from that purple? Okay.
 
 %% u1969 %%
 DM: The endless ocean.
@@ -194,7 +194,7 @@ Seeker: And you're suggesting that that evil might be here now, inside the templ
 DM: I do not know what is the source. I am saying, until we know for sure there is not some evil, some force here that could spread from this town to dampen the ancient song of the earth elsewhere, we will not leave. The earth, this song, this reverberation, it is where we came from. It is our soul, so to speak. The earth breathes life to us, and it is our duty to protect that. You said...
 
 %% u2050 %%
-Kenzo: You said that you would stay until you learn more. Is there a way in which you think [[is true can be can be as you]]—we can help somehow in trying to unravel this truth?
+Kenzo: You said that you would stay until you learn more. Is there a way in which you think {{is true can be can be as you}}—we can help somehow in trying to unravel this truth?
 
 %% u2051-u2052 %%
 DM: Find out what the Shakun Mystai are hiding.
@@ -443,7 +443,7 @@ Wellby: We have a plan, though.
 Delwath: Do we? We're all on board with this plan?
 
 %% u2215 %%
-Seeker: [[Is exactly I was gonna go to]].
+Seeker: {{Is exactly I was gonna go to}}.
 
 %% u2216 %%
 Kenzo: I am so much more confused now.
@@ -461,7 +461,7 @@ Seeker: What do the centaurs fight with?
 DM: Spears and swords and bows. Sometimes by just charging people down with their hooves, but mostly spears.
 
 %% u2224-u2226 %%
-Seeker: [[Pilots that]]. They've got a whole crew. Yeah, and a couple...
+Seeker: {{Pilots that}}. They've got a whole crew. Yeah, and a couple...
 
 %% u2227 %%
 DM: South of the road, I think they're reluctant to go.
@@ -647,7 +647,7 @@ Delwath: Okay, so I think that there's something trying to do something, and I d
 Kenzo: I'm with you on that.
 
 %% u2301-u2304 %%
-Delwath: I'm with you on the category. That's a great question so far. But what if [[the either eat]] somehow it has created this...?
+Delwath: I'm with you on the category. That's a great question so far. But what if {{the either eat}} somehow it has created this...?
 
 %% u2305 %%
 Kenzo: Yes, somehow, something is trying to do something.
@@ -767,7 +767,7 @@ DM: This was a while ago. This is more than ten sessions ago.
 Kenzo: I don't think I told the party about this, Tim.
 
 %% u2368 %%
-Delwath: [[Can spell it can]].
+Delwath: {{Can spell it can}}.
 
 %% u2369 %%
 DM: Sorry, I'm gonna stop spilling your secrets.
@@ -824,13 +824,13 @@ Delwath: I could not do the twelfth, but I could do the thirteenth or fourteenth
 Seeker: Oh.
 
 %% u2393 %%
-Delwath: Yeah, well, [[Dan]] is going to Florida to visit her parents. Now that she's been vaccinated and her parents have been vaccinated, she's going to Florida to see her parents.
+Delwath: Yeah, well, {{Dan}} is going to Florida to visit her parents. Now that she's been vaccinated and her parents have been vaccinated, she's going to Florida to see her parents.
 
 %% u2394 %%
 Seeker: Oh wow that's great.
 
 %% u2395-u2397 %%
-Delwath: For the first time in a long time. Her dad's not actually doing that well, and she is very anxious about seeing him. But me and [[exactly]] aren't going, just because of COVID. She's leaving on the thirteenth, but I don't want to game the night before she's...
+Delwath: For the first time in a long time. Her dad's not actually doing that well, and she is very anxious about seeing him. But me and {{exactly}} aren't going, just because of COVID. She's leaving on the thirteenth, but I don't want to game the night before she's...
 
 %% u2398 %%
 Seeker: Yeah.
@@ -860,7 +860,7 @@ Wellby: You like being partnered with your spouse.
 DM: I would prefer to... It would be nice to play sooner rather than wait three weeks, in my opinion.
 
 %% u2413 %%
-Wellby: If we can [[all of the friends again]].
+Wellby: If we can {{all of the friends again}}.
 
 %% u2414 %%
 Kenzo: Exactly. There's a lot going on. There's a lot of fucking shit going on right now.
@@ -938,7 +938,7 @@ Seeker: The reverberations.
 Kenzo: That's what I'm saying. I think where Kenzo is, it's like, we gotta go to fucking Chardon or the Great Library or some fucking place, or somebody that can talk to us, so we can understand what the fuck is going on. Because we can go chase around orcs, but that's just going to be us being like...
 
 %% u2455 %%
-Delwath: [[Us plenty]], I...
+Delwath: {{Us plenty}}, I...
 
 %% u2456 %%
 Kenzo: Think.
@@ -962,7 +962,7 @@ Wellby: I think it'd be really good to start off next session talking a little b
 Kenzo: I agree, that sounds very good. So anyways, I think Kenzo ultimately may just be down to go east because he can't think of anything better to do, and going to Chardon is really fucking far right now. We might learn some stuff going east. I don't think that's what he thinks is ultimately going to help reveal the deeper mystery of what the fuck is happening right now.
 
 %% u2470-u2473 %%
-Seeker: Just one other detail related to Seeker's spatial-temporal mapping thinking: if these other planes have a folding or warping of space, we could use them like wormholes, basically, to go a super-long [[before]].
+Seeker: Just one other detail related to Seeker's spatial-temporal mapping thinking: if these other planes have a folding or warping of space, we could use them like wormholes, basically, to go a super-long {{before}}.
 
 %% u2474-u2475 %%
 Delwath: Yes, the elves knew that long ago.
@@ -1013,16 +1013,16 @@ DM: It wasn't until, like...
 Kenzo: You know your your.
 
 %% u2494-u2496 %%
-DM: Senior year. You spent the first three years of the campaign basically doing a giant loop from what's now the Plaguelands, north to Sembara, further north to the hidden valley in the mountains, across the mountains, fighting a bunch of evil guys around [[schmutz empire near Panda]], then sailing down the river when [[Kairo]] burned up and Aaron started going mad.
+DM: Senior year. You spent the first three years of the campaign basically doing a giant loop from what's now the Plaguelands, north to Sembara, further north to the hidden valley in the mountains, across the mountains, fighting a bunch of evil guys around {{schmutz empire near Panda}}, then sailing down the river when {{Kairo}} burned up and Aaron started going mad.
 
 %% u2497 %%
 Delwath: What was the thing with the stone boat? Does anybody remember?
 
 %% u2498-u2500 %%
-Wellby: Yes, we had no materials to build a boat, so one of us had Shape Stone. So we made a boat out of stone, which [[I thought]] was absurd, and I continue to think is a perfectly reasonable approach to making your boats.
+Wellby: Yes, we had no materials to build a boat, so one of us had Shape Stone. So we made a boat out of stone, which {{I thought}} was absurd, and I continue to think is a perfectly reasonable approach to making your boats.
 
 %% u2501-u2502 %%
-DM: I mean, you can make boats out of steel. What's wrong with stone? It just needs to be big enough to displace enough water to float. Yeah, [[higher]] had Shape Stone. He had all of those...
+DM: I mean, you can make boats out of steel. What's wrong with stone? It just needs to be big enough to displace enough water to float. Yeah, {{higher}} had Shape Stone. He had all of those...
 
 %% u2503-u2504 %%
 Delwath: The reason you don't make boats out of stone in the actual world is because stone isn't strong enough if you make it big enough so that it doesn't sink, right? It cracks.
@@ -1109,10 +1109,10 @@ DM: Well, it was never really clear.
 Delwath: Not very clear, but conceptually, he went back in time and created his own race, yes.
 
 %% u2539-u2540 %%
-Wellby: In my recollection, which could be very much wrong, we went back in time and met this god [[Forstall]], who in the present was Aaron's god. But in the past, [[wasn't unfortunate]], was just very favorably impressed and was like, "I'm going to pattern my life after you from here on out and make [[cuz you]] look cool."
+Wellby: In my recollection, which could be very much wrong, we went back in time and met this god {{Forstall}}, who in the present was Aaron's god. But in the past, {{wasn't unfortunate}}, was just very favorably impressed and was like, "I'm going to pattern my life after you from here on out and make {{cuz you}} look cool."
 
 %% u2541-u2542 %%
-DM: Right. It wasn't entirely clear if you became the god, or if you just turned the god into the [[Ken Ken]] god somehow.
+DM: Right. It wasn't entirely clear if you became the god, or if you just turned the god into the {{Ken Ken}} god somehow.
 
 %% u2543 %%
 Kenzo: Oh, my God.

@@ -59,7 +59,7 @@ DM: None.
 Seeker: Oh boy.
 
 %% u1728 %%
-Unknown: Yeah, [[we're not to plan]].
+Unknown: Yeah, {{we're not to plan}}.
 
 %% u1729 %%
 Delwath: We're not wearing armor, are we?
@@ -113,7 +113,7 @@ Kenzo: One second.
 DM: Yeah, I'm ready. Okay, so let's see what else we got. Well, we got...
 
 %% u1757 %%
-Unknown: But I think I'm actually [[fourteen ninety-two fourteen]].
+Unknown: But I think I'm actually {{fourteen ninety-two fourteen}}.
 
 %% u1758 %%
 DM: Okay, sorry, Seeker, what did you get?
@@ -284,7 +284,7 @@ Wellby: Kenzo, I kept my underwear on under the robe. I hope you did too. Were w
 DM: So that's the first shot.
 
 %% u1844 %%
-Kenzo: [[Open up the cows]], and that's what I did.
+Kenzo: {{Open up the cows}}, and that's what I did.
 
 %% u1845-u1850 %%
 DM: Six is gonna rush towards this mystai and will hit him. And this mystai is not in good shape, and he staggers back as another shadow swarms and...
@@ -452,7 +452,7 @@ DM: Okay, Kenzo, you're up.
 Kenzo: All right, Kenzo will pop up over here, staying within fifteen—thirty feet of Delwath, yep, and will... Oh, actually, yeah, I'll just focus.
 
 %% u1960 %%
-Delwath: Wellby, can you use your move to come over to me and then [[we'll direction]]?
+Delwath: Wellby, can you use your move to come over to me and then {{we'll direction}}?
 
 %% u1961 %%
 DM: Yeah, you can do that.
@@ -476,7 +476,7 @@ Delwath: You should fist—you should use one of your magic ki abilities.
 DM: You also have your planar power blaster.
 
 %% u1970-u1975 %%
-Kenzo: Yeah, I was gonna do that. Then I popped out of the pool to engage this guy, so I'm going to fight this guy. I'll do it next round. Yeah, I guess, can I do three and then do the [[advocacy if I want younger]]? All right, so I'll try to hook this up with some unarmed attacks. Okay, first one.
+Kenzo: Yeah, I was gonna do that. Then I popped out of the pool to engage this guy, so I'm going to fight this guy. I'll do it next round. Yeah, I guess, can I do three and then do the {{advocacy if I want younger}}? All right, so I'll try to hook this up with some unarmed attacks. Okay, first one.
 
 %% u1976-u1977 %%
 DM: That just barely misses, but you can use your d4 on this attack if you want.
@@ -737,7 +737,7 @@ Wellby: So, Tim, on that last one, I'm going to use my reaction because I have a
 DM: Oh yeah.
 
 %% u2103 %%
-Wellby: To move here with a [[promotion]].
+Wellby: To move here with a {{promotion}}.
 
 %% u2104 %%
 Drikod: Okay.
@@ -968,7 +968,7 @@ DM: No, wait a minute. Isn't Improved Pact Weapon a plus one?
 Delwath: No, Improved Pact Weapon means I can—oh yeah, plus one damage. Yes, it is plus one. You're right.
 
 %% u2245-u2246 %%
-DM: [[Even game sort of death]]. Yeah.
+DM: {{Even game sort of death}}. Yeah.
 
 %% u2247 %%
 Kenzo: Is the shadow that I'm engaged with—that one's pretty wounded, right?
@@ -1475,7 +1475,7 @@ Delwath: Go. Coming up.
 DM: Just enough.
 
 %% u2487-u2491 %%
-Kenzo: This was a pretty cool moment. So again, draw out an energetic [[claim market]]. It's really fucking vibrant, given all the pool that we're in, all the shit. Punches through, and you see this light blue hand reach out, grab the shadow thing, pull him closer, and then Kenzo punches his actual fist through the thing, and, you know...
+Kenzo: This was a pretty cool moment. So again, draw out an energetic {{claim market}}. It's really fucking vibrant, given all the pool that we're in, all the shit. Punches through, and you see this light blue hand reach out, grab the shadow thing, pull him closer, and then Kenzo punches his actual fist through the thing, and, you know...
 
 %% u2492 %%
 DM: Just kind of dissipates in this flash of blue light.

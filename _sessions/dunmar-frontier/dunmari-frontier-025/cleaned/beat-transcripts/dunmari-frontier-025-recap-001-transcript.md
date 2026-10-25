@@ -59,13 +59,13 @@ DM: Right. I didn’t say that was true. I said it seemed to be based in truth.
 Seeker: So we saw… Well, maybe do it in character, actually, because I want to ask about the shadow things that are now set to chase us.
 
 %% u0043-u0046 %%
-Kenzo: [[Will wake up]], but also we’re mainly on the shadow… Oh, yeah, you wouldn’t know, actually, Delwath, but only Seeker saw the stuff, right? You were communicating with us what you saw and heard, because you were going back and forth between hearing and seeing things, yes?
+Kenzo: {{Will wake up}}, but also we’re mainly on the shadow… Oh, yeah, you wouldn’t know, actually, Delwath, but only Seeker saw the stuff, right? You were communicating with us what you saw and heard, because you were going back and forth between hearing and seeing things, yes?
 
 %% u0047 %%
 Seeker: Yep, right.
 
 %% u0048-u0049 %%
-Kenzo: And just again, just to make sure that it’s in terms of what you communicated to us: chopped off some heads, switched bodies, or resurrected them. And then he was also clearly upset that there were [[all that you want to find more shorter]]—there was more treasure to be found that had not been found yet in the city.
+Kenzo: And just again, just to make sure that it’s in terms of what you communicated to us: chopped off some heads, switched bodies, or resurrected them. And then he was also clearly upset that there were {{all that you want to find more shorter}}—there was more treasure to be found that had not been found yet in the city.
 
 %% u0050-u0051 %%
 Seeker: So he has a wraith-like lieutenant who’s reporting that they haven’t found the treasure.
@@ -146,7 +146,7 @@ Delwath: Good plan.
 Wellby: So we should try and sneak back across the open ground into the canyon.
 
 %% u0093 %%
-Kenzo: What time is it right now? Let’s have a [[date and the name]].
+Kenzo: What time is it right now? Let’s have a {{date and the name}}.
 
 %% u0094 %%
 DM: Just before noon.
@@ -176,7 +176,7 @@ Seeker: I may be able to construct a kind of blind. I don’t know how effective
 Kenzo: Well…
 
 %% u0105 %%
-Seeker: [[That would be an actually keeping other people from seeing us]]. They might…
+Seeker: {{That would be an actually keeping other people from seeing us}}. They might…
 
 %% u0106-u0108 %%
 Kenzo: Well, Seeker, just to be a little blunt, I think Wellby and I will be able to sneak through fine. I think you may need to worry about yourself and your ability not to be seen.
@@ -203,7 +203,7 @@ DM: Well, you don’t really know what happened. Delwath, you’re invisible. Th
 Seeker: Tim, just some quick questions. The ground: is it just open, sandy desert, rippling dunes, or is there scrub?
 
 %% u0120-u0121 %%
-DM: No, it’s more like… This is the dry riverbed, so there’s the [[route that plasters lay off]], but there’s a stretch of area that used to be basically the river bottom.
+DM: No, it’s more like… This is the dry riverbed, so there’s the {{route that plasters lay off}}, but there’s a stretch of area that used to be basically the river bottom.
 
 %% u0122 %%
 Seeker: Mm-hmm.
@@ -212,7 +212,7 @@ Seeker: Mm-hmm.
 DM: Or river coastline, essentially. At one point there were probably marshes or reeds going along the side of the river, right? And now it’s basically just open cracks. Once you get to the cliffs, there’s rocks, rubble, scrub, that sort of thing, but the area that’s kind of the river’s edge is like the bottom of the Grand Canyon, but if you just killed all the plants.
 
 %% u0126-u0127 %%
-Seeker: And are there lizards scuttling around, or any animals that we could look to as… [[because flush]]?
+Seeker: And are there lizards scuttling around, or any animals that we could look to as… {{because flush}}?
 
 %% u0128-u0130 %%
 DM: There are. Make a—yeah, I mean, there’s definitely some. If you stop and watch for a moment, there’s some life here. Not a ton, because it’s hot, but there are definitely a few lizards around.
@@ -275,7 +275,7 @@ Unknown: Yeah.
 Delwath: I’d wait for these distractions until we have some idea if we need them, right?
 
 %% u0156 %%
-Kenzo: [[Oh, like sense danger]], and it sounds good to me, but [[like it says]]…
+Kenzo: {{Oh, like sense danger}}, and it sounds good to me, but {{like it says}}…
 
 %% u0157 %%
 DM: I mean, you can see danger. It’s pretty obvious. The orc fort is maybe…
@@ -293,7 +293,7 @@ Wellby: And you can see a different half mile away.
 DM: The dead god is a different half mile away, yeah. That part of the city is covered in darkness at the moment.
 
 %% u0164-u0166 %%
-Seeker: Yeah. Oh, so those shadows that Grash is sending after us may be able to [[try out]]. We should—let’s go, let’s go. Let’s get moving now.
+Seeker: Yeah. Oh, so those shadows that Grash is sending after us may be able to {{try out}}. We should—let’s go, let’s go. Let’s get moving now.
 
 %% u0167-u0168 %%
 DM: Okay, so you just straight-up sprint. Two of you, invisible, are fine, easily make it to the cliffs. Those of you who are sprinting, give me an Athletics check with advantage, because you’re both fast.
@@ -386,7 +386,7 @@ Seeker: So now we’re in the canyon?
 DM: Now you’re right…
 
 %% u0210 %%
-Unknown: [[Oops work]].
+Unknown: {{Oops work}}.
 
 %% u0211 %%
 DM: You’re right there.
@@ -428,7 +428,7 @@ Kenzo: Yep. I sprint to the horses. Yep, all right.
 DM: So you take off for the horses. You have a good half a mile-ish, even a little more than half a mile, head start on the orcs. As you sprint, keeping an eye over your shoulder, you do see that somebody on watch seems to have spotted the movement in the cliffs, and a group has broken off from the fort, has exited, coming out around here and around here, and starting to head for this canyon to investigate what they saw. It’s not entirely clear whether they know it was you or not, but clearly a group of orcs is moving out from this fort, coming to investigate the movement they saw in the canyon. As you turn to sprint, sprinting is making it kind of obvious as you’re running up the road. They can clearly see the four sprinting—well, they can clearly see the two of you sprinting, Delwath and Seeker remaining invisible.
 
 %% u0241-u0242 %%
-DM: And this party, you know, [[chef. To have the interaction]], but it doesn’t seem to be closing particularly fast at the moment. You’re able to keep pace with them, basically, as you run for your horses.
+DM: And this party, you know, {{chef. To have the interaction}}, but it doesn’t seem to be closing particularly fast at the moment. You’re able to keep pace with them, basically, as you run for your horses.
 
 %% u0243 %%
 Kenzo: I wonder if we can collapse the canyon or something.
@@ -449,7 +449,7 @@ DM: Five hundred, six hundred feet across. It’s not a narrow…
 Kenzo: What level does Seeker have to be before you can collapse a canyon like that?
 
 %% u0251-u0252 %%
-Seeker: [[Is that just me? It’s the canyon too]]. Are there any overhangs that look precarious that I could knock down?
+Seeker: {{Is that just me? It’s the canyon too}}. Are there any overhangs that look precarious that I could knock down?
 
 %% u0253-u0255 %%
 DM: There’s definitely—I mean, certainly the area where you hid your horses was an area where you created a little wall to shelter them, but there’s an overhang here, right? So the road comes to this narrow stretch.

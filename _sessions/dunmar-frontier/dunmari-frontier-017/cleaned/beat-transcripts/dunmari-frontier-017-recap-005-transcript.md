@@ -44,7 +44,7 @@ DM: Okay, um,
 Kenzo: And then whenever I can after that, I Soul Sight the centaur.
 
 %% u1824-u1830 %%
-DM: Okay. So as you are turning to focus on Havdar’s aura and concentrate on him, he speaks, and he says, ‘Welcome back. You've been expected. I'm sure Candrosa and Alesh will be quite eager to... It's not all been stars and roses here in Karawa, but thanks for [[having me intervention]].’
+DM: Okay. So as you are turning to focus on Havdar’s aura and concentrate on him, he speaks, and he says, ‘Welcome back. You've been expected. I'm sure Candrosa and Alesh will be quite eager to... It's not all been stars and roses here in Karawa, but thanks for {{having me intervention}}.’
 
 %% u1831 %%
 Unknown: Sorry.
@@ -62,7 +62,7 @@ Kenzo: Havdar, I thought you were supposed to be in Tokra.
 DM: I've been to Tokra and back. You've been gone a long time, friends.
 
 %% u1839 %%
-Delwath: [[Which actor?]]
+Delwath: {{Which actor?}}
 
 %% u1840 %%
 Wellby: How long have we been gone?
@@ -80,7 +80,7 @@ Seeker: You...
 DM: No, I mean, sort of confirmed that for you when you came out of the storm.
 
 %% u1849 %%
-Unknown: [[Brittany.]]
+Unknown: {{Brittany.}}
 
 %% u1850 %%
 DM: So will you come?
@@ -104,7 +104,7 @@ DM: The whole second floor, the roof of the side of that block with the tea hous
 DM: And Havdar leaves you and says, ‘I will return shortly, but I must go back, make sure that Tharandros has everything he needs, and to check on the rest of the patrols around town before I return to speak with you. Alesh and Candrosa are waiting within.’
 
 %% u1884-u1892 %%
-DM: So as you step inside the Temple of Shakun, [[there was a likeness]]. The temple itself is carved into the cliff of the mesa, but extending out from the cliff there's a small set of outbuildings and open rooms and things like that. And one of these is the chamber in which you spoke to Candrosa, now almost a month ago, when you first met him after returning from dealing with the rampaging hyenas. And it's a medium-sized conference room, almost, right? A council room or something. There's a table in the middle, there's a series of chairs, a pitcher of water.
+DM: So as you step inside the Temple of Shakun, {{there was a likeness}}. The temple itself is carved into the cliff of the mesa, but extending out from the cliff there's a small set of outbuildings and open rooms and things like that. And one of these is the chamber in which you spoke to Candrosa, now almost a month ago, when you first met him after returning from dealing with the rampaging hyenas. And it's a medium-sized conference room, almost, right? A council room or something. There's a table in the middle, there's a series of chairs, a pitcher of water.
 
 %% u1893-u1907 %%
 DM: And Candrosa and Alesh seem like they were in the middle of conversation when you came over the ridge, and hearing the commotion and the noise of your approach have risen to greet you. Sorry, so Candrosa looks old and tired. I mean, he is not himself old. He's a young, middle-aged, imposing man with curly black hair, a striking figure, but he looks worn out. He's hunched over, bags around his eyes, looks like he hasn't slept in a week or more. And everywhere he looks, he's looking around nervously, and his hands are shaking, and he seems to be jumping at the lightest noises.
@@ -173,7 +173,7 @@ Seeker: Yeah, that's...
 Kenzo: Awesome. Right.
 
 %% u1991 %%
-Unknown: [[Fit.]]
+Unknown: {{Fit.}}
 
 %% u1992 %%
 Delwath: Yeah.
@@ -197,10 +197,10 @@ DM: From you? No. They said... What were his exact words? Tharandros seems to be
 DM: He would not say more other than to say that in these times... What was it he said, though? It was some metaphor, like the chance fall of a pebble can start an avalanche, and speaking to strangers on the road was a mixed blessing.
 
 %% u2018-u2020 %%
-Kenzo: Kenzo kind of laughs and [[like it says like we can add the companions]]. I think the centaurs may have left out some key parts about the strangers that he met. Kind of laughs a little bit.
+Kenzo: Kenzo kind of laughs and {{like it says like we can add the companions}}. I think the centaurs may have left out some key parts about the strangers that he met. Kind of laughs a little bit.
 
 %% u2021 %%
-DM: [[Looking at key parts.]]
+DM: {{Looking at key parts.}}
 
 %% u2022 %%
 Kenzo: Well, you know, making an obvious joke that we were the strangers, right?

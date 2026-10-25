@@ -389,7 +389,7 @@ Unknown: Mm.
 Kenzo: Metagame, if they are really dragons, you now have been a dragon, so.
 
 %% u0608-u0610 %%
-Unknown: That's right. [[It'll buy them]], so pretty good.
+Unknown: That's right. {{It'll buy them}}, so pretty good.
 
 %% u0611 %%
 Wellby: To Tollen then for you?
@@ -662,7 +662,7 @@ Kenzo: You know, Kenzo kind of looks at his staff where he's been—
 Unknown: Mm-hmm
 
 %% u0755-u0757 %%
-Kenzo: ...writing these stories. And also Vindristjarna itself has got, like, a bunch of [[merrily]] places where he's been when he's had time. Oh, and he's had his own—
+Kenzo: ...writing these stories. And also Vindristjarna itself has got, like, a bunch of {{merrily}} places where he's been when he's had time. Oh, and he's had his own—
 
 %% u0758 %%
 Unknown: Apprentice
@@ -761,7 +761,7 @@ Unknown: Mm.
 Delwath: But he kind of takes out the fruit, the sisila fruit he took from the—
 
 %% u0817-u0819 %%
-Unknown: Mm, mm... [[unclear; possibly "chaos"]] tree.
+Unknown: Mm, mm... {{unclear; possibly "chaos"}} tree.
 
 %% u0820 %%
 Kenzo: Which he never really said what was in it.
@@ -974,7 +974,7 @@ Unknown: Shape change.
 Wellby: [laughs]
 
 %% u0937 %%
-Delwath: As I said, we do [[YTV]] halfway.
+Delwath: As I said, we do {{YTV}} halfway.
 
 %% u0938 %%
 Wellby: Look, I'll ask.
@@ -1055,7 +1055,7 @@ Unknown: [laughs]
 Wellby: [laughs]
 
 %% u0977 %%
-Delwath: [[Can't do completing]] your quest sometime next February.
+Delwath: {{Can't do completing}} your quest sometime next February.
 
 %% u0978-u0979 %%
 Wellby: Absolutely. And if you ever need a guide or need something found, and I'm not off singing at a private party—[laughs]
@@ -1085,7 +1085,7 @@ Wellby: No. Come on.
 Kenzo: Well, this is Delwath's raison d'être now, is finding lost souls, so...
 
 %% u0989-u0990 %%
-Unknown: [[qua ce fa]]. That's right.
+Unknown: {{qua ce fa}}. That's right.
 
 %% u0991 %%
 Delwath: I mean, what are we doing with Vindristjarna?
@@ -1118,7 +1118,7 @@ Wellby: Who's gonna die in your place if not us?
 Kenzo: Seeker, though, you know, your courage and your bravery... You know, when you were that leviathan—
 
 %% u1002 %%
-Wellby: It truly is [[with measure]]. [laughs]
+Wellby: It truly is {{with measure}}. [laughs]
 
 %% u1003 %%
 Unknown: Yeah.

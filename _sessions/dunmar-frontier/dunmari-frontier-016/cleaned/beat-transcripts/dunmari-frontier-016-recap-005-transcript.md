@@ -278,7 +278,7 @@ Kenzo: Until it feels not safe to do so.
 DM: The rest of you are getting out?
 
 %% u1779-u1781 %%
-Wellby: [[By the curtains]]… Oh, I’ll glance over to Seeker, then, and we’ll let the two of them go down first. Then maybe, when the two of us are the only ones left, I sort of gesture over to the ball, like…
+Wellby: {{By the curtains}}… Oh, I’ll glance over to Seeker, then, and we’ll let the two of them go down first. Then maybe, when the two of us are the only ones left, I sort of gesture over to the ball, like…
 
 %% u1782-u1783 %%
 Seeker: You want to just shove it over the edge a little bit? Just kind of give it a little soccer move?
@@ -311,7 +311,7 @@ Riswynn: Could we tie one end of the rope to an arrow and shoot it through a sec
 Seeker: Or I could just belay down on the rope.
 
 %% u1798 %%
-Wellby: [[About sounded a little bit]]…
+Wellby: {{About sounded a little bit}}…
 
 %% u1799 %%
 Seeker: Get killed.
@@ -332,7 +332,7 @@ Riswynn: Wellby, am I helping you carry heavy stuff out the door? We’re just g
 Delwath: We’re just going to take the…
 
 %% u1805 %%
-DM: Disk, [[routing on the coin]].
+DM: Disk, {{routing on the coin}}.
 
 %% u1806-u1807 %%
 Delwath: Yeah, we should go collect all the coins.
@@ -380,7 +380,7 @@ Seeker: But you can have a mega giant pool cue and kind of push it.
 Wellby: Well, to wedge it in underneath, and then we can just kind of…
 
 %% u1825-u1826 %%
-Seeker: I need to make more like a spatula, basically. Like a twenty-foot-long, thirty-foot-long spatula. [[Brain]].
+Seeker: I need to make more like a spatula, basically. Like a twenty-foot-long, thirty-foot-long spatula. {{Brain}}.
 
 %% u1827 %%
 Wellby: value less than 80 gold.
@@ -437,7 +437,7 @@ Kenzo: Exactly like storming the Capitol, and what those…
 Seeker: Much more sophisticated. Yeah, let’s get out of here.
 
 %% u1855 %%
-DM: [[Yesterday I was]]… I haven’t been sharing my music this entire time.
+DM: {{Yesterday I was}}… I haven’t been sharing my music this entire time.
 
 %% u1856 %%
 Seeker: We were getting music but.
@@ -539,7 +539,7 @@ Delwath: I don’t think we should try and get out through the storm this instan
 Kenzo: Yes, unless we want to be trapped inside his nightmare.
 
 %% u1901 %%
-Delwath: [[Everybody, but he were here for a day]].
+Delwath: {{Everybody, but he were here for a day}}.
 
 %% u1902 %%
 Seeker: The rope, though. Grab the rope right now. We’re gonna come through, okay.
@@ -587,7 +587,7 @@ Seeker: Work is done here. Let’s get out of here.
 Riswynn: All right, I need to take a healing potion or something.
 
 %% u1927 %%
-Seeker: [[I saw a shake well]].
+Seeker: {{I saw a shake well}}.
 
 %% u1928 %%
 Wellby: I'm glad we did it.
@@ -602,7 +602,7 @@ Riswynn: We had this whole plan for levers and the correct angles, and then Kenz
 DM: Are you heading out of the storm right now?
 
 %% u1932 %%
-Wellby: [[Wellby respects people that property]].
+Wellby: {{Wellby respects people that property}}.
 
 %% u1933 %%
 DM: You have a lot in common with the Chardonians, I see.

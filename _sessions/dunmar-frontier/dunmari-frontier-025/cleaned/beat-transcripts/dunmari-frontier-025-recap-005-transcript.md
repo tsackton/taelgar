@@ -77,7 +77,7 @@ DM: So they know what you’re talking about. Pava’s like, “It is a place li
 Kenzo: A lot, a lot. The orcs that are now throughout the area, though, we’ve learned more about their activities. Share what we learned about the orcs. But do you know what treasure Grash seeks, and do you think that this has anything to do with what happened at the temple thirty years ago, or before?
 
 %% u1979-u1987 %%
-DM: Maybe. I know little of treasure. Avaras, you know… There were those [[of rest times]], and there were those adventurers that passed through like a month ago now, heading east. They were looking for something. Like, yeah, they seemed determined. Wouldn’t say unfriendly, but the vibe we got from them was not one that you would want to reveal yourself to.
+DM: Maybe. I know little of treasure. Avaras, you know… There were those {{of rest times}}, and there were those adventurers that passed through like a month ago now, heading east. They were looking for something. Like, yeah, they seemed determined. Wouldn’t say unfriendly, but the vibe we got from them was not one that you would want to reveal yourself to.
 
 %% u1988-u1989 %%
 Kenzo: Do you have any idea what everybody’s looking for, and where they’re looking?
@@ -119,7 +119,7 @@ Delwath: Some of my people still tell of the days when you could walk from one e
 DM: So much history, indeed. The elves, Drankor…
 
 %% u2022 %%
-Kenzo: [[Ancient larger]].
+Kenzo: {{Ancient larger}}.
 
 %% u2023 %%
 Unknown: Now…
@@ -215,7 +215,7 @@ Delwath: Yes, yeah.
 Wellby: Descriptions of the treasure explorers. So, don’t need them now, but yeah.
 
 %% u2103-u2104 %%
-Kenzo: Yeah. Detailed [[the screen]].
+Kenzo: Yeah. Detailed {{the screen}}.
 
 %% u2105-u2106 %%
 Delwath: I assume they’re clearly people, but not anybody we know? It’s not like—
@@ -242,7 +242,7 @@ Delwath: I’ve heard that said.
 Wellby: Once you know that they’re not polite.
 
 %% u2116-u2117 %%
-DM: [[Routing end]].
+DM: {{Routing end}}.
 
 %% u2118 %%
 Wellby: He says, probably not many more.
@@ -311,7 +311,7 @@ Delwath: Oh right, they called—yeah, yeah, yeah. Right, right, right, right.
 Kenzo: Perfect. That’s right on our way to Chardon.
 
 %% u2148-u2149 %%
-Seeker: [[Pitch]]. Nice.
+Seeker: {{Pitch}}. Nice.
 
 %% u2150 %%
 Kenzo: Fucking hell.
@@ -344,7 +344,7 @@ Kenzo: All the way to fucking Chardon to figure out what they’re looking for i
 DM: But we need, like, our—
 
 %% u2164 %%
-Seeker: [[Like our fun]], or at least—
+Seeker: {{Like our fun}}, or at least—
 
 %% u2165-u2166 %%
 Delwath: Feywild portal was not so far.
@@ -386,7 +386,7 @@ DM: And then you can go back to a different spot.
 Kenzo: Oh, that’s nice.
 
 %% u2181 %%
-DM: [[Katha Wednesday]].
+DM: {{Katha Wednesday}}.
 
 %% u2182 %%
 Wellby: Well, eager to get on to Karawa. I’m gonna step outside and scan the horizon in all directions, and—
@@ -398,13 +398,13 @@ Seeker: Feed…
 Wellby: To keep an eye on… Feed Baxter and see if there’s anything out there.
 
 %% u2186 %%
-Seeker: [[See where the tokens to better]].
+Seeker: {{See where the tokens to better}}.
 
 %% u2187 %%
-Wellby: [[Versus]], yeah.
+Wellby: {{Versus}}, yeah.
 
 %% u2188-u2190 %%
-Kenzo: I guess the last minute with Pava and Avaras is just warning them, telling them about Grash, talking about the battle thing, like we saw [[roshan]]. Just to be aware of the feud with the orcs, and especially if they’re still looking for this treasure, whatever that treasure is, that the orcs are likely to still be marauding around. Do they have any reaction to that? Are they like, “Oh shit, that’s scary,” or are they like, “Oh, this is not…”?
+Kenzo: I guess the last minute with Pava and Avaras is just warning them, telling them about Grash, talking about the battle thing, like we saw {{roshan}}. Just to be aware of the feud with the orcs, and especially if they’re still looking for this treasure, whatever that treasure is, that the orcs are likely to still be marauding around. Do they have any reaction to that? Are they like, “Oh shit, that’s scary,” or are they like, “Oh, this is not…”?
 
 %% u2191-u2193 %%
 DM: I mean, they’ve seen orcs around before, right? They told us—
@@ -425,7 +425,7 @@ DM: They’re a bit taken aback by your description of Grash. Seems like a scary
 Kenzo: And this…
 
 %% u2204 %%
-DM: [[Amount of time]] these missions by himself anymore.
+DM: {{Amount of time}} these missions by himself anymore.
 
 %% u2205 %%
 Kenzo: And any reaction to Grash himself? Do they know anything about who Grash might be, or who Grash’s master is? That’s a big fucking question. No?
@@ -440,7 +440,7 @@ Kenzo: If I…
 DM: But they don’t have any information about Grash in particular.
 
 %% u2209 %%
-Kenzo: Anything else you want to share with us? [[Accomplish that the men]]. I mean, I think warning them was the biggest thing I wanted to—
+Kenzo: Anything else you want to share with us? {{Accomplish that the men}}. I mean, I think warning them was the biggest thing I wanted to—
 
 %% u2210-u2211 %%
 Delwath: Do. Yeah, I think that’s good. I think we should head back to Karawa.
@@ -455,7 +455,7 @@ DM: Yeah, you’ve—
 Kenzo: Spent the night. So, Tim, I just spend the night really sitting with Pava and Avaras, now that I’m one of the order. Do some bonding, you know, you said.
 
 %% u2215-u2216 %%
-DM: Yeah, you have a nice [[vacation session]].
+DM: Yeah, you have a nice {{vacation session}}.
 
 %% u2217 %%
 Kenzo: Yeah, do some Bhishma theology, you know.

@@ -56,7 +56,7 @@ Seeker: I begin drawing a pair of spectral goggles in front of my eyes, fling th
 DM: Arguing as you're…
 
 %% u1430-u1431 %%
-Seeker: [[Fluent]]. I did it twice, I think. Oops.
+Seeker: {{Fluent}}. I did it twice, I think. Oops.
 
 %% u1432 %%
 Unknown: Um.
@@ -83,7 +83,7 @@ Seeker: Agathys.
 Delwath: Agathys. So you see white frost appear on Delwath's armor. Should we…?
 
 %% u1443 %%
-Seeker: Oh, sorry, I didn't see the message, [[to them]], and…
+Seeker: Oh, sorry, I didn't see the message, {{to them}}, and…
 
 %% u1444-u1445 %%
 DM: Seeker's sort of tuned out of the world, but…
@@ -131,7 +131,7 @@ Wellby: Nice.
 Unknown: Awesome. Where'd…?
 
 %% u1466 %%
-DM: Nice [[bow]].
+DM: Nice {{bow}}.
 
 %% u1467 %%
 Seeker: Yeah, the new one. I use it right away. It's great.
@@ -188,7 +188,7 @@ Unknown: Yeah.
 Seeker: What would we do as a surprise attack to take out a whole lot of them at once? That is to say, punching individual orcs may not work that well when there's twenty to thirty of them, or twenty-two, who knows? Nobody knows anything about orcs and their inherent weaknesses?
 
 %% u1497 %%
-Kenzo: [[Thank you]], set them on fire, stab them with sharp weapons.
+Kenzo: {{Thank you}}, set them on fire, stab them with sharp weapons.
 
 %% u1498 %%
 Wellby: If you put holes in them their blood will come out.
@@ -224,7 +224,7 @@ Seeker: That's what—they're trying to flank them.
 DM: Where Havdar and about six of his group have set up. Four of them, shields up in front. The rest, the other four shooting arrows. Havdar looks like he's aiming with a spear, looking for a particularly big or vicious orc to throw at.
 
 %% u1515 %%
-Seeker: [[Sorry, Sir]], all right.
+Seeker: {{Sorry, Sir}}, all right.
 
 %% u1516 %%
 DM: Yeah, everybody seems upright at the moment. There's boulders here that they're trying to shelter behind.
@@ -233,7 +233,7 @@ DM: Yeah, everybody seems upright at the moment. There's boulders here that they
 Seeker: Over there. Okay.
 
 %% u1518-u1519 %%
-DM: So they're in this [[air]], and some of them seem to be moving this way. The troop here with Havdar seems to be trying to keep the orcs' attention on them, whereas the other half of the band is moving this way, presumably to try and…
+DM: So they're in this {{air}}, and some of them seem to be moving this way. The troop here with Havdar seems to be trying to keep the orcs' attention on them, whereas the other half of the band is moving this way, presumably to try and…
 
 %% u1520-u1522 %%
 Delwath: I think just flanking from here, from…
@@ -245,7 +245,7 @@ Seeker: From the other side, yeah.
 Delwath: Here is the best we can do.
 
 %% u1525-u1526 %%
-Kenzo: We're going to [[look them up]], start shooting arrows…
+Kenzo: We're going to {{look them up}}, start shooting arrows…
 
 %% u1527 %%
 Wellby: Yeah let's get in there.
@@ -254,10 +254,10 @@ Wellby: Yeah let's get in there.
 DM: As you're starting to leave, you suddenly see an enormous explosion erupt around Havdar and his men, the ones down here. A giant ball of fire explodes, seemingly coming from one of the orcs, and two of his men…
 
 %% u1530-u1531 %%
-Kenzo: [[Either that]].
+Kenzo: {{Either that}}.
 
 %% u1532-u1533 %%
-Delwath: [[Parents, so it's fine]]. To kill the spellcasters.
+Delwath: {{Parents, so it's fine}}. To kill the spellcasters.
 
 %% u1534 %%
 Kenzo: You know they say the same thing about us, right?
@@ -296,10 +296,10 @@ DM: Yeah, something like that to get there. But if there's anything you want to 
 Unknown: Right.
 
 %% u1557-u1559 %%
-Delwath: I'm just debating whether [[why]] would be better, but I don't think so. So I want three spell slots.
+Delwath: I'm just debating whether {{why}} would be better, but I don't think so. So I want three spell slots.
 
 %% u1560-u1561 %%
-DM: Right, then all your spells. [[I'm just gonna eat off of a warlock]].
+DM: Right, then all your spells. {{I'm just gonna eat off of a warlock}}.
 
 %% u1562-u1563 %%
 Seeker: I'm just gonna be watching the orcs as much as I can to try to identify a spellcaster, and look how many of these guys there are wearing metal.
@@ -335,7 +335,7 @@ Delwath: Um.
 DM: So what order do you want to run in? Who's in front? You can just put it wherever you want. It's what…
 
 %% u1590 %%
-Kenzo: I mean, it's pretty—[[kinda doesn't have a lot, well, let's go to people should grow our]]—actually, that is pretty useful.
+Kenzo: I mean, it's pretty—{{kinda doesn't have a lot, well, let's go to people should grow our}}—actually, that is pretty useful.
 
 %% u1591 %%
 Delwath: So when we're close-ish, Tim, I'm going to cast…
@@ -365,7 +365,7 @@ DM: And for simplicity, I'm not going to put absolutely every token on the board
 DM: For some reason, Roll20 is being a giant pain at the moment.
 
 %% u1613 %%
-Kenzo: [[Invested a lot more work]].
+Kenzo: {{Invested a lot more work}}.
 
 %% u1614-u1615 %%
 DM: It's something about the website more than my computer, it seems like. Just placing tokens is super slow.
@@ -377,7 +377,7 @@ Kenzo: Yeah, I got the double-laptop situation, and it's great.
 DM: Yeah that's the way to go.
 
 %% u1618-u1619 %%
-Kenzo: [[Next, up to laptops]]. Who else is using a laptop?
+Kenzo: {{Next, up to laptops}}. Who else is using a laptop?
 
 %% u1620 %%
 Delwath: I have two screens.
@@ -386,13 +386,13 @@ Delwath: I have two screens.
 DM: I've got two screens.
 
 %% u1622 %%
-Seeker: [[I didn't get the woman]].
+Seeker: {{I didn't get the woman}}.
 
 %% u1623 %%
 DM: Come on.
 
 %% u1624-u1626 %%
-Kenzo: So okay, while Tim is figuring this out, let's have a better conversation when we fight, right? Wellby's far away, you're [[super PAC]], and they'll shoot arrows. Right? That's asking me—when Kenzo's far away, he has darts basically as a ranged weapon, but [[kind of nodded and garth silicon far away. In Arizona, and I could…]]
+Kenzo: So okay, while Tim is figuring this out, let's have a better conversation when we fight, right? Wellby's far away, you're {{super PAC}}, and they'll shoot arrows. Right? That's asking me—when Kenzo's far away, he has darts basically as a ranged weapon, but {{kind of nodded and garth silicon far away. In Arizona, and I could…}}
 
 %% u1627 %%
 DM: Yep sorry.
@@ -554,7 +554,7 @@ Kenzo: That's it?
 Seeker: Yeah.
 
 %% u1697 %%
-DM: [[Now for thirteen]], and…
+DM: {{Now for thirteen}}, and…
 
 %% u1698 %%
 Unknown: Yeah.
@@ -626,7 +626,7 @@ DM: Two points of slashing damage. This one will run towards Kenzo, swinging wit
 DM: This one will also run towards Kenzo, swinging with his greataxe, which will miss.
 
 %% u1746-u1748 %%
-DM: Kenzo's just dodging like crazy. This one standing next to Kenzo will swing his greataxe, which will miss, as Kenzo's just standing there weaving, bobbing, and dodging out of the way of everything. And [[I tell]]—this orc spellcaster looks around, and looks over at the three of you.
+DM: Kenzo's just dodging like crazy. This one standing next to Kenzo will swing his greataxe, which will miss, as Kenzo's just standing there weaving, bobbing, and dodging out of the way of everything. And {{I tell}}—this orc spellcaster looks around, and looks over at the three of you.
 
 %% u1749-u1754 %%
 DM: And suddenly, I need everybody to make a Dexterity saving throw as a blast of fire explodes around you. Not Kenzo. Wellby, Seeker, and the three of you in this cluster over here.
@@ -656,7 +656,7 @@ Unknown: Thirteen, thirteen.
 DM: And now it's Seeker's turn.
 
 %% u1768 %%
-Seeker: How tall is the pillar? [[Standalone bowman's book yesterday]].
+Seeker: How tall is the pillar? {{Standalone bowman's book yesterday}}.
 
 %% u1769 %%
 DM: It's like 20 feet tall.
@@ -695,13 +695,13 @@ DM: Yeah if you put it right there you can get all three of them.
 Unknown: And this.
 
 %% u1786-u1788 %%
-Seeker: And this, and who knows what direction it's going down. If I—come on, yeah, all right, it's good. I hope it has to roll [[ship saving]]. I will just Shatter.
+Seeker: And this, and who knows what direction it's going down. If I—come on, yeah, all right, it's good. I hope it has to roll {{ship saving}}. I will just Shatter.
 
 %% u1789-u1793 %%
 DM: And that's a Constitution saving throw, yeah? Okay. Spellcaster fails. Second spellcaster succeeds. Leader fails.
 
 %% u1794-u1800 %%
-DM: So as this sound rings out, everybody looks up as this thunder just cracks across the desert. And the pillar does not crack, but sand gets thrown up everywhere. This tree, this palm tree right here, cracks and begins to topple over towards the oasis [[on these]]. But you do quite a solid amount of damage…
+DM: So as this sound rings out, everybody looks up as this thunder just cracks across the desert. And the pillar does not crack, but sand gets thrown up everywhere. This tree, this palm tree right here, cracks and begins to topple over towards the oasis {{on these}}. But you do quite a solid amount of damage…
 
 %% u1801 %%
 DM: Casting that. Okay, Delwath, you're up.
@@ -776,7 +776,7 @@ Kenzo: Too charming.
 Seeker: Plus seven.
 
 %% u1835 %%
-Delwath: Right, Delwath is way—I have high Charisma, but Delwath is way more charming than [[if you…]]
+Delwath: Right, Delwath is way—I have high Charisma, but Delwath is way more charming than {{if you…}}
 
 %% u1836 %%
 Seeker: Mean.
@@ -842,7 +842,7 @@ DM: Rather than attacking himself, he will yell to these three orcs that are sur
 Seeker: They need really specific instructions, or…?
 
 %% u1871 %%
-DM: [[Dead]], but this is the leader's special ability.
+DM: {{Dead}}, but this is the leader's special ability.
 
 %% u1872 %%
 Kenzo: Again.
@@ -908,7 +908,7 @@ DM: You should try and kill one, though, because they'll keep swinging at you.
 Unknown: Strike.
 
 %% u1900 %%
-Kenzo: [[It gives them that way]], or I didn't…
+Kenzo: {{It gives them that way}}, or I didn't…
 
 %% u1901 %%
 DM: No, it doesn't matter. What are you doing?
@@ -1004,7 +1004,7 @@ Kenzo: Fucking shadow warrior for sure. He's a fucking secret shadow…
 Seeker: We catch you drinking or something. So Wellby is visibly almost dead, right?
 
 %% u1950-u1953 %%
-DM: Oh, Wellby and [[Kenzo]] are visibly almost dead. On the other hand, [[the other hand]] has nearly wiped you out single-handedly and is also almost completely dead.
+DM: Oh, Wellby and {{Kenzo}} are visibly almost dead. On the other hand, {{the other hand}} has nearly wiped you out single-handedly and is also almost completely dead.
 
 %% u1954-u1955 %%
 Seeker: All right, so I have a really important question. How tall is the tree that is already falling down?
@@ -1073,7 +1073,7 @@ Seeker: Okay.
 DM: That uses three of your charges for your… And he rolled a two on his Strength saving throw, so the hand reaches up and crushes this orc to death.
 
 %% u1993 %%
-Seeker: [[Then, after that fire]].
+Seeker: {{Then, after that fire}}.
 
 %% u1994 %%
 DM: And the hand lasts as long as you maintain concentration, so you can move it and use it to grab somebody else.
@@ -1115,10 +1115,10 @@ Delwath: That's so unfortunate.
 DM: Both this one and the leader are wearing chain armor.
 
 %% u2018-u2019 %%
-Delwath: [[My gas plus]].
+Delwath: {{My gas plus}}.
 
 %% u2020-u2021 %%
-DM: [[You get there]], though.
+DM: {{You get there}}, though.
 
 %% u2022-u2023 %%
 Delwath: Oh no, you don't. Not Green-Flame Blade. Although does Green-Flame Blade—hold on, I still do damage from the… Oh, on a hit.
@@ -1160,22 +1160,22 @@ Seeker: Related pause.
 Delwath: Yeah.
 
 %% u2043-u2044 %%
-Kenzo: Giant dogs. [[Vs dog]] is really good.
+Kenzo: Giant dogs. {{Vs dog}} is really good.
 
 %% u2045 %%
 Seeker: Yeah just kind of excessively.
 
 %% u2046 %%
-Kenzo: Wellby could totally ride [[towards his dog]] in real life as a steed.
+Kenzo: Wellby could totally ride {{towards his dog}} in real life as a steed.
 
 %% u2047-u2050 %%
-DM: Yes. [[Choices dog]] is probably three times the size of—wait, what is Gnocchi?
+DM: Yes. {{Choices dog}} is probably three times the size of—wait, what is Gnocchi?
 
 %% u2051 %%
-Kenzo: How tall is Wellby? [[Next review tell]].
+Kenzo: How tall is Wellby? {{Next review tell}}.
 
 %% u2052-u2054 %%
-DM: Yeah, about three, three and a half feet. That's pretty good. [[If I can find eating]].
+DM: Yeah, about three, three and a half feet. That's pretty good. {{If I can find eating}}.
 
 %% u2055-u2056 %%
 Wellby: Sorry about that. There were people in the building, and I was trying to figure out if they were supposed to be there or not. Nice to have a big dog.
@@ -1184,10 +1184,10 @@ Wellby: Sorry about that. There were people in the building, and I was trying to
 Unknown: Haha.
 
 %% u2058 %%
-Wellby: They are supposed to be there. It's a group who hasn't been here for a few months who's back [[in NASA]].
+Wellby: They are supposed to be there. It's a group who hasn't been here for a few months who's back {{in NASA}}.
 
 %% u2059 %%
-DM: There you go. [[I can't]] give you a hand.
+DM: There you go. {{I can't}} give you a hand.
 
 %% u2060 %%
 Delwath: In hand.
@@ -1205,7 +1205,7 @@ DM: Yeah, awesome. You can try. That hits. That kills that. So yes, you can.
 Seeker: Work with. Now.
 
 %% u2070-u2071 %%
-Wellby: Awesome. I think after Wellby puts the shortsword all the way through its sternum or something, he takes off his hat, which is still on fire, and [[stanton]] tosses it down.
+Wellby: Awesome. I think after Wellby puts the shortsword all the way through its sternum or something, he takes off his hat, which is still on fire, and {{stanton}} tosses it down.
 
 %% u2072-u2076 %%
 DM: So that will bring us to the leader, who is going to turn to Delwath and swing with his longsword. First attack missing. Second attack hitting.
@@ -1271,13 +1271,13 @@ Kenzo: Okay, and now I'm going to go over to here, and I'm going to spend a ki, 
 Unknown: Sure.
 
 %% u2104-u2105 %%
-Kenzo: So I can do another quarterstaff and another unarmed strike? Yep. Yeah, fucking [[ass]]. All right, I'm gonna quarterstaff strike this dude.
+Kenzo: So I can do another quarterstaff and another unarmed strike? Yep. Yeah, fucking {{ass}}. All right, I'm gonna quarterstaff strike this dude.
 
 %% u2106 %%
 DM: That misses.
 
 %% u2107-u2108 %%
-Kenzo: I have a plus seven? Yes. [[Yeah, happen]].
+Kenzo: I have a plus seven? Yes. {{Yeah, happen}}.
 
 %% u2109 %%
 Delwath: When you level up.
@@ -1313,7 +1313,7 @@ DM: The end of your next turn. Okay.
 Kenzo: So he's stunned now and then I got.
 
 %% u2125-u2127 %%
-DM: He'll miss his entire turn, and then he'll be stunned all the way through the end of your turn. [[I get to attack]], then he'll be okay.
+DM: He'll miss his entire turn, and then he'll be stunned all the way through the end of your turn. {{I get to attack}}, then he'll be okay.
 
 %% u2128 %%
 Kenzo: But I could attack him and stun him again?
@@ -1370,7 +1370,7 @@ DM: It goes and also.
 Unknown: You.
 
 %% u2154-u2156 %%
-Seeker: Go into the light, though, [[is it is not the]] dark, please. Don't go there again.
+Seeker: Go into the light, though, {{is it is not the}} dark, please. Don't go there again.
 
 %% u2157 %%
 DM: Sorry Delwath.
@@ -1418,10 +1418,10 @@ DM: No, it doesn't add your modifier to the damage. It's just 1d8 to the…
 Delwath: The second creature is 1d8 plus my spellcasting ability. Okay, the second creature takes six, and the main guy takes twenty.
 
 %% u2184-u2186 %%
-DM: So [[we're both of them]]. Delwath does not blink away.
+DM: So {{we're both of them}}. Delwath does not blink away.
 
 %% u2187 %%
-Delwath: This is the most [[useful]] spell in the world. I'm just debating whether I use my inspiration to blink.
+Delwath: This is the most {{useful}} spell in the world. I'm just debating whether I use my inspiration to blink.
 
 %% u2188 %%
 DM: Because.
@@ -1442,7 +1442,7 @@ DM: Okay, so.
 Delwath: Finally, Delwath vanishes.
 
 %% u2197 %%
-Kenzo: [[Tricky and shadow we have]].
+Kenzo: {{Tricky and shadow we have}}.
 
 %% u2198 %%
 Seeker: Oh.
@@ -1460,7 +1460,7 @@ Unknown: In it, so.
 DM: Just as this large hand of Seeker's is floating around, a large hand rises up around you and starts grasping and pummeling you.
 
 %% u2205 %%
-Seeker: [[They may be really big summaries]]. Okay.
+Seeker: {{They may be really big summaries}}. Okay.
 
 %% u2206 %%
 DM: Ah, you take.
@@ -1475,13 +1475,13 @@ Kenzo: Two giant metal hands floating around right now?
 Seeker: They're made of stone. Is this one also made of…?
 
 %% u2211-u2214 %%
-Kenzo: Made of [[greens]]. Eurythmics. Or is it—no, “these dreams are made of these.”
+Kenzo: Made of {{greens}}. Eurythmics. Or is it—no, “these dreams are made of these.”
 
 %% u2215-u2217 %%
 DM: Sorry, Kenzo, the hand that is crushing you does three points of damage.
 
 %% u2218 %%
-Kenzo: [[To shot]].
+Kenzo: {{To shot}}.
 
 %% u2219 %%
 DM: And you are trapped by it. You're not restrained, you can move around and attack, but you can't move from your square. It's surrounding your legs to keep you from leaving this place. Okay, Wellby, you're up.
@@ -1493,7 +1493,7 @@ Kenzo: Shoot some arrows, dude. Get advantage.
 Wellby: Kenzo, what are you doing? Why are you wiggling like that, man?
 
 %% u2225-u2226 %%
-Kenzo: I'm stuck. [[What the orcs]], Jesus Christ.
+Kenzo: I'm stuck. {{What the orcs}}, Jesus Christ.
 
 %% u2227 %%
 Wellby: Stuck by what?
@@ -1517,7 +1517,7 @@ DM: Ah, he is behind a row of people and you're short.
 Seeker: I would say he has cover for.
 
 %% u2237-u2239 %%
-DM: [[Him, but he has, here, and have had cover]].
+DM: {{Him, but he has, here, and have had cover}}.
 
 %% u2240 %%
 Kenzo: You're in danger of shooting me.
@@ -1535,7 +1535,7 @@ Wellby: All right, well, let's shoot first and ask questions, but…
 DM: No, that misses.
 
 %% u2247 %%
-Kenzo: [[Episode spellcaster with a small chance of…]]
+Kenzo: {{Episode spellcaster with a small chance of…}}
 
 %% u2248-u2249 %%
 DM: You're distracted by your conversation with Kenzo, and the arrow goes wide. Okay, that orc leader is wiggling back and forth…
@@ -1580,7 +1580,7 @@ Kenzo: All right, I'll just unarmed strike him. I'm not going to spend a ki righ
 DM: You got another quarter staff as well.
 
 %% u2268-u2269 %%
-Kenzo: Yes, I get three. Yeah, so [[that's the item of course again]].
+Kenzo: Yes, I get three. Yeah, so {{that's the item of course again}}.
 
 %% u2270 %%
 DM: With—do I get advantage? But…
@@ -1619,7 +1619,7 @@ Kenzo: Level five, all right. Huge. And then I know I still have an attack, so I
 DM: Yeah no advantage on this.
 
 %% u2283-u2284 %%
-Kenzo: I don't need advantage. [[It says]].
+Kenzo: I don't need advantage. {{It says}}.
 
 %% u2285 %%
 DM: Wow that hits.
@@ -1637,7 +1637,7 @@ Kenzo: Well, adding a whole additional attack a round, that's really significant
 DM: Okay Seeker.
 
 %% u2292 %%
-Seeker: [[Poem]].
+Seeker: {{Poem}}.
 
 %% u2293 %%
 Kenzo: Single handedly.
@@ -1646,10 +1646,10 @@ Kenzo: Single handedly.
 DM: You want to try and crush him?
 
 %% u2295 %%
-Delwath: Well, I didn't [[quit]] the damage.
+Delwath: Well, I didn't {{quit}} the damage.
 
 %% u2296 %%
-Kenzo: [[Single him]].
+Kenzo: {{Single him}}.
 
 %% u2297 %%
 Unknown: And.
@@ -1682,13 +1682,13 @@ DM: Okay, your plan is to just kill him off?
 Kenzo: Oh yeah. Oh no, we don't want to interrogate him?
 
 %% u2311 %%
-Delwath: [[I see my twenty-five minutes]].
+Delwath: {{I see my twenty-five minutes}}.
 
 %% u2312 %%
 DM: We have.
 
 %% u2313 %%
-Delwath: [[Orcs now]], thirteen damage.
+Delwath: {{Orcs now}}, thirteen damage.
 
 %% u2314 %%
 Seeker: Being peaceful.
@@ -1700,7 +1700,7 @@ Kenzo: Is he dead? Let's capture him.
 Wellby: Because he.
 
 %% u2317 %%
-Kenzo: [[Would just say, don't you, don't live]].
+Kenzo: {{Would just say, don't you, don't live}}.
 
 %% u2318-u2319 %%
 Delwath: No, I can only read all languages. I assume that you missed.
@@ -1712,7 +1712,7 @@ Seeker: But do we want to kill him, or do you want to knock him out?
 Kenzo: Knock him out.
 
 %% u2322-u2324 %%
-Delwath: Capture—[[bad does]]—I don't think I did… Did I do enough damage on the thirteen? Yeah. Oh, why am I still rolling then? Fine, we can knock him out.
+Delwath: Capture—{{bad does}}—I don't think I did… Did I do enough damage on the thirteen? Yeah. Oh, why am I still rolling then? Fine, we can knock him out.
 
 %% u2325-u2329 %%
 DM: Jeez, finally. Okay, so Delwath reappears and just whacks this—I mean, he's restrained. He's not going anywhere. He's held, sticking out of this giant hand. And you just whack him along the side of the head. He slumps over in the clutches of this stone hand that Seeker has produced out of the earth.

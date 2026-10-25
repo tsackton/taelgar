@@ -105,7 +105,7 @@
 [u0105 | 00:08:44.110-00:08:47.160 | Seeker] this this creature to release her?
 [u0106 | 00:08:47.270-00:08:51.559 | DM] I don't remember. I mean you had a while ago you had talked
 [u0107 | 00:08:52.550-00:08:58.160 | DM] about. She had said that if you took her to this forest, then she could
-[u0108 | 00:08:58.510-00:09:01.009 | DM] be resurrected out of the [[threat]].
+[u0108 | 00:08:58.510-00:09:01.009 | DM] be resurrected out of the {{threat}}.
 [u0109 | 00:09:01.530-00:09:03.620 | Seeker] Oh, I see she's sort of trapped in there,
 [u0110 | 00:09:04.020-00:09:08.969 | Seeker] but needs access to a particular tree or wood, or something like that.
 [u0111 | 00:09:09.590-00:09:10.520 | DM] Right?
@@ -162,7 +162,7 @@
 [u0162 | 00:13:30.100-00:13:32.959 | DM] Prince of Luck around the
 [u0163 | 00:13:33.020-00:13:34.700 | DM] Crystal Mountains,
 [u0164 | 00:13:35.720-00:13:37.920 | Seeker] or whether that's, you know,
-[u0165 | 00:13:38.040-00:13:46.719 | Seeker] [[Just can your weather check whether that's just chance or it says this this map actually is like, consistent, is]]
+[u0165 | 00:13:38.040-00:13:46.719 | Seeker] {{Just can your weather check whether that's just chance or it says this this map actually is like, consistent, is}}
 [u0166 | 00:13:46.760-00:13:47.840 | DM] um
 [u0167 | 00:13:48.420-00:13:49.910 | DM] unclear?
 [u0168 | 00:13:52.200-00:13:53.410 | DM] Um,
@@ -227,7 +227,7 @@
 [u0227 | 00:18:22.670-00:18:26.290 | DM] Ah, I mean you can hear something flying around
 [u0228 | 00:18:26.960-00:18:29.999 | DM] uh, whatever it is, seems to be invisible.
 [u0229 | 00:18:30.110-00:18:31.230 | Seeker] The
-[u0230 | 00:18:32.200-00:18:37.830 | Seeker] do I have any? See Invisibility spells? Does magic even work here the way it does [[not really about man]]?
+[u0230 | 00:18:32.200-00:18:37.830 | Seeker] do I have any? See Invisibility spells? Does magic even work here the way it does {{not really about man}}?
 [u0231 | 00:18:42.040-00:18:43.610 | Seeker] I will.
 [u0232 | 00:18:55.570-00:18:56.540 | DM] Huh!
 [u0233 | 00:18:57.350-00:19:02.549 | DM] You hear uh! The laughter goes quiet for a minute, and you see,
@@ -481,7 +481,7 @@
 [u0481 | 00:38:11.360-00:38:13.089 | Seeker] What numbers does it show?
 [u0482 | 00:38:14.060-00:38:15.250 | DM] um
 [u0483 | 00:38:16.040-00:38:17.679 | DM] keeps changing,
-[u0484 | 00:38:28.890-00:38:30.359 | Seeker] and so there is no [[ourcon]] on that
+[u0484 | 00:38:28.890-00:38:30.359 | Seeker] and so there is no {{ourcon}} on that
 [u0485 | 00:38:30.400-00:38:31.439 | Unknown] that I
 [u0486 | 00:38:32.270-00:38:35.990 | Seeker] We can draw no connections that I can make
 [u0487 | 00:38:36.640-00:38:38.500 | DM] it's, I mean.
@@ -521,7 +521,7 @@
 [u0521 | 00:41:10.040-00:41:13.730 | Seeker] bound up here. Are you willingly? Or
 [u0522 | 00:41:20.020-00:41:22.160 | Seeker] could you leave if you so choose?
 [u0523 | 00:41:31.620-00:41:34.409 | DM] You ask many questions,
-[u0524 | 00:41:39.110-00:41:42.229 | DM] [[hands you like a like a]]
+[u0524 | 00:41:39.110-00:41:42.229 | DM] {{hands you like a like a}}
 [u0525 | 00:41:44.380-00:41:46.100 | DM] you will find
 [u0526 | 00:41:46.640-00:41:48.309 | DM] Master Stone,
 [u0527 | 00:41:49.080-00:41:50.840 | DM] that in this place
@@ -646,15 +646,15 @@
 [u0646 | 00:51:00.330-00:51:02.779 | DM] She seems to be very confident,
 [u0647 | 00:51:03.010-00:51:09.519 | DM] like she seemed to be. She was raising. She was like playing very aggressively
 [u0648 | 00:51:09.620-00:51:13.679 | DM] Um, the the man. The shaggy man seemed desperate,
-[u0649 | 00:51:16.750-00:51:21.659 | Seeker] and [[you can see that a new sensation each time]], or there are some tokens.
+[u0649 | 00:51:16.750-00:51:21.659 | Seeker] and {{you can see that a new sensation each time}}, or there are some tokens.
 [u0650 | 00:51:22.770-00:51:24.180 | DM] Ah,
 [u0651 | 00:51:24.690-00:51:28.270 | Seeker] well, you only saw the end of the round.
 [u0652 | 00:51:30.410-00:51:31.399 | Seeker] Um
 [u0653 | 00:51:31.730-00:51:33.399 | Seeker] A.
 [u0654 | 00:51:35.210-00:51:38.030 | Seeker] Well, this is all very interesting.
 [u0655 | 00:51:41.160-00:51:43.540 | Seeker] I I would love to be able to to
-[u0656 | 00:51:49.560-00:51:51.799 | Seeker] [[cheating, or something like that happening]],
-[u0657 | 00:51:52.650-00:51:57.779 | Seeker] but I don't know if I have a way to do that. I have a scroll of [[detectivity, which is, if i'm out with you]]
+[u0656 | 00:51:49.560-00:51:51.799 | Seeker] {{cheating, or something like that happening}},
+[u0657 | 00:51:52.650-00:51:57.779 | Seeker] but I don't know if I have a way to do that. I have a scroll of {{detectivity, which is, if i'm out with you}}
 [u0658 | 00:51:58.050-00:52:01.160 | Seeker] here. I don't have a spell that does that. I don't think
 [u0659 | 00:52:02.400-00:52:07.190 | DM] you have the Wand of Detect Magic that you just got from the dragon's hoard.
 [u0660 | 00:52:07.330-00:52:09.080 | Seeker] Ah, chief,
@@ -693,8 +693,8 @@
 [u0693 | 00:54:22.140-00:54:26.730 | DM] Taster. Taster must be long gone by now, and
 [u0694 | 00:54:26.850-00:54:29.209 | Seeker] we've been through
 [u0695 | 00:54:29.350-00:54:39.819 | Seeker] so many miles, I mean when you ran from Chardon I don't think there was a way you could have brought. Taster.
-[u0696 | 00:54:41.030-00:54:45.930 | Seeker] Taster is probably roaming free somewhere in the [[chaos and River valley]].
-[u0697 | 00:54:46.410-00:54:47.770 | Unknown] [[The total range]]
+[u0696 | 00:54:41.030-00:54:45.930 | Seeker] Taster is probably roaming free somewhere in the {{chaos and River valley}}.
+[u0697 | 00:54:46.410-00:54:47.770 | Unknown] {{The total range}}
 [u0698 | 00:54:48.960-00:54:50.470 | Seeker] would be
 [u0699 | 00:54:52.090-00:54:54.470 | Seeker] magical food to to find out what it does,
 [u0700 | 00:54:57.870-00:54:58.939 | Seeker] and
@@ -915,7 +915,7 @@
 [u0915 | 01:13:20.720-01:13:22.089 | Seeker] I'm not sure I understand that.
 [u0916 | 01:13:22.920-01:13:24.419 | Seeker] Uh, it just
 [u0917 | 01:13:24.790-01:13:33.299 | DM] affects whether or not you have to roll based on that. Yes, so you always get a chance to dispel something. But if you cast it,
-[u0918 | 01:13:33.970-01:13:42.369 | DM] if you is like, if the spell is, if the effect is at a level equal to or lower than [[the level you cast as dominant]]. You don't need to.
+[u0918 | 01:13:33.970-01:13:42.369 | DM] if you is like, if the spell is, if the effect is at a level equal to or lower than {{the level you cast as dominant}}. You don't need to.
 [u0919 | 01:13:42.520-01:13:43.480 | Seeker] I see
 [u0920 | 01:13:43.740-01:13:46.869 | Seeker] Well, I'll try it at a third level.
 [u0921 | 01:13:49.030-01:13:50.099 | DM] Okay,
@@ -977,7 +977,7 @@
 [u0977 | 01:17:34.210-01:17:36.320 | DM] band begins to play again.
 [u0978 | 01:17:38.740-01:17:40.599 | Unknown] You are out of your depth,
 [u0979 | 01:17:40.670-01:17:42.070 | DM] Seeker.
-[u0980 | 01:17:44.140-01:17:45.939 | Seeker] [[You no need to see that]]
+[u0980 | 01:17:44.140-01:17:45.939 | Seeker] {{You no need to see that}}
 [u0981 | 01:17:49.640-01:17:54.130 | DM] only fools touch things that Don't belong to them,
 [u0982 | 01:17:54.230-01:17:56.940 | DM] or meddle with the magic of fairies,
 [u0983 | 01:17:57.120-01:18:00.360 | DM] or tell the fairies their names unprompted
@@ -1052,7 +1052,7 @@
 [u1052 | 01:23:01.200-01:23:03.329 | Seeker] Well, I am just passing through.
 [u1053 | 01:23:04.150-01:23:10.930 | Seeker] There's a particular place in Taelgar that I'd like to return to. Well, I will decide. Should you pass or not,
 [u1054 | 01:23:12.120-01:23:16.910 | Seeker] the sequence of high views. Who gives you? Who grants you that power?
-[u1055 | 01:23:17.300-01:23:18.570 | Seeker] [[Footprints]]?
+[u1055 | 01:23:17.300-01:23:18.570 | Seeker] {{Footprints}}?
 [u1056 | 01:23:21.330-01:23:22.380 | DM] He?
 [u1057 | 01:23:22.490-01:23:24.340 | DM] He lifts his hand up,
 [u1058 | 01:23:24.430-01:23:25.630 | DM] and he like
@@ -1075,7 +1075,7 @@
 [u1075 | 01:24:27.950-01:24:30.269 | DM] why don't we roll for it
 [u1076 | 01:24:31.180-01:24:34.670 | Seeker] Roll for it? Oh, I love to roll the dice,
 [u1077 | 01:24:35.180-01:24:37.980 | Seeker] and if I roll my own
-[u1078 | 01:24:38.090-01:24:39.370 | Seeker] [[admin]]
+[u1078 | 01:24:38.090-01:24:39.370 | Seeker] {{admin}}
 [u1079 | 01:24:39.830-01:24:41.170 | Unknown] stone dice.
 [u1080 | 01:24:44.420-01:24:46.699 | DM] We will each roll our own.
 [u1081 | 01:24:48.020-01:24:49.280 | Seeker] Yeah. Um.
@@ -1151,7 +1151,7 @@
 [u1151 | 01:29:42.680-01:29:43.740 | DM] um
 [u1152 | 01:29:44.750-01:29:48.189 | DM] magic is sort of unmoored, and
 [u1153 | 01:29:50.210-01:29:53.989 | DM] it's it's it's it's almost like ley lines sort of
-[u1154 | 01:29:54.040-01:30:05.189 | DM] [[on to chaos]]. If you cast a spell it'll, it'll usually do what you intended. But then other things will happen like you might. You might cast a spell, and then
+[u1154 | 01:29:54.040-01:30:05.189 | DM] {{on to chaos}}. If you cast a spell it'll, it'll usually do what you intended. But then other things will happen like you might. You might cast a spell, and then
 [u1155 | 01:30:05.590-01:30:06.620 | DM] ah!
 [u1156 | 01:30:06.720-01:30:07.670 | DM] In our
 [u1157 | 01:30:07.810-01:30:10.999 | DM] do whatever you are hoping to do, and then also
@@ -1168,7 +1168,7 @@
 [u1168 | 01:30:55.330-01:31:00.630 | DM] normally you think of magic as sort of running in neat channels through the world,
 [u1169 | 01:31:00.670-01:31:04.910 | DM] but when it overflows those channels it
 [u1170 | 01:31:05.400-01:31:07.849 | DM] you get this sort of wild magic,
-[u1171 | 01:31:10.050-01:31:14.089 | Seeker] and [[is unrelated]] to Delwath's Magic, which is like
+[u1171 | 01:31:10.050-01:31:14.089 | Seeker] and {{is unrelated}} to Delwath's Magic, which is like
 [u1172 | 01:31:15.200-01:31:18.480 | Seeker] connected to
 [u1173 | 01:31:20.130-01:31:26.590 | Seeker] But I Haven't necessarily seen it in practice. But I read about it right. You've read. This would be something you read about. Not
 [u1174 | 01:31:29.110-01:31:40.839 | Seeker] you like Oskar sort of scornful of it. It's like that's not even worth paying attention to my room. Oh, yeah, no, he would never write about. Something as like prosaic as wild magic

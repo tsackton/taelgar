@@ -87,7 +87,7 @@
 [u0087 | 00:07:20.900-00:07:21.459 | DM] They decided…
 [u0088 | 00:07:21.460-00:07:27.159 | Wellby] Not to have the battle there, though. Like, what if the giant centipede thing just keeps going?
 [u0089 | 00:07:28.320-00:07:30.160 | Delwath] Like, along the cliff to somewhere else.
-[u0090 | 00:07:31.270-00:07:37.449 | Wellby] You know, or straight… I mean, straight onwards, like, why… [[Then I'll just… There to fight]], you know?
+[u0090 | 00:07:31.270-00:07:37.449 | Wellby] You know, or straight… I mean, straight onwards, like, why… {{Then I'll just… There to fight}}, you know?
 [u0091 | 00:07:38.780-00:07:42.849 | Delwath] You mean just plow through the… plows through the army, and just…
 [u0092 | 00:07:44.350-00:07:46.699 | Wellby] Yeah, like, if they're sort of on a train that's just going.
 [u0093 | 00:07:47.380-00:07:53.129 | Wellby] They don't have to stop the train for the fight. Like, if they don't care about leaving an army behind them, right?
@@ -126,7 +126,7 @@
 [u0126 | 00:10:13.180-00:10:15.240 | Delwath] Vindristjarna will be here tonight.
 [u0127 | 00:10:15.980-00:10:17.179 | DM] Tomorrow morning.
 [u0128 | 00:10:17.180-00:10:17.860 | Delwath] Tomorrow morning.
-[u0129 | 00:10:18.270-00:10:21.270 | Delwath] And [[there, in theory, between the escarpments]] sometime.
+[u0129 | 00:10:18.270-00:10:21.270 | Delwath] And {{there, in theory, between the escarpments}} sometime.
 [u0130 | 00:10:21.840-00:10:24.960 | DM] Sometime tomorrow, probably late in the day or overnight.
 [u0131 | 00:10:29.520-00:10:31.490 | Delwath] So it's… hold on, hold on. So it's…
 [u0132 | 00:10:32.340-00:10:37.540 | Delwath] It's like, what, 4 in the afternoon, or 3 in the afternoon, sometime in the mid-afternoon, right? No, it's like… Dusk. Dusk?
@@ -147,7 +147,7 @@
 [u0147 | 00:11:38.980-00:11:41.829 | Delwath] we can use Vindristjarna on the attack, on the escarp.
 [u0148 | 00:11:42.460-00:11:52.000 | Delwath] Right? And then as soon as we're done, we, whatever we do, we'll have to plan that in a second, but then as soon as we're done planning that, we fly Vindristjarna back to the Heartroot.
 [u0149 | 00:11:52.400-00:11:53.310 | Delwath] Rest.
-[u0150 | 00:11:53.700-00:12:00.530 | Delwath] And then prepare defenses, and they would very… be very, very unlikely to [[catch us in… Bye]].
+[u0150 | 00:11:53.700-00:12:00.530 | Delwath] And then prepare defenses, and they would very… be very, very unlikely to {{catch us in… Bye}}.
 [u0151 | 00:12:01.450-00:12:05.330 | Delwath] Right? They'd have to move 40 miles in 8 hours to…
 [u0152 | 00:12:10.220-00:12:13.830 | Delwath] Which, if you could go the speed of a horse, could, right?
 [u0153 | 00:12:19.450-00:12:26.389 | Delwath] But also, it's been a week. It's been a long time since Vindristjarna's been here, right? So in theory, anything that we can do with…
@@ -269,7 +269,7 @@
 [u0269 | 00:22:56.220-00:22:59.289 | Kenzo] Is the Chaos Metal, what's the deal with the Chaos Metal and Ice?
 [u0270 | 00:22:59.470-00:23:00.220 | Kenzo] Tim?
 [u0271 | 00:23:07.040-00:23:07.569 | DM] Hold on.
-[u0272 | 00:23:08.220-00:23:10.350 | Delwath] We could cast the [[Icicle Shield at the rabbit]].
+[u0272 | 00:23:08.220-00:23:10.350 | Delwath] We could cast the {{Icicle Shield at the rabbit}}.
 [u0273 | 00:23:13.920-00:23:18.870 | DM] So, the Empress of Chaos is immune to fire necrotic poison.
 [u0274 | 00:23:19.010-00:23:21.329 | DM] Resistant to cold and radiant.
 [u0275 | 00:23:22.470-00:23:23.210 | Kenzo] Okay.
@@ -294,7 +294,7 @@
 [u0294 | 00:24:56.490-00:24:57.100 | DM] Yeah.
 [u0295 | 00:24:58.100-00:25:01.120 | Delwath] Do we have, like, horses?
 [u0296 | 00:25:01.900-00:25:02.830 | Kenzo] We fly?
-[u0297 | 00:25:04.140-00:25:05.489 | Delwath] None of us have [[5 of them]].
+[u0297 | 00:25:04.140-00:25:05.489 | Delwath] None of us have {{5 of them}}.
 [u0298 | 00:25:05.960-00:25:06.340 | Wellby] Twiggin'.
 [u0299 | 00:25:06.340-00:25:06.950 | Delwath] If we don't have.
 [u0300 | 00:25:06.950-00:25:08.540 | Wellby] Teleport?
@@ -421,7 +421,7 @@
 [u0421 | 00:34:38.960-00:34:45.009 | DM] 24 hours after that. So the plan is… Guerrilla attack, On the cliff tomorrow night.
 [u0422 | 00:34:45.449-00:34:49.969 | DM] Take a long rest on Vindristjarna as you fly back to the Heartroot.
 [u0423 | 00:34:50.869-00:34:53.559 | DM] Or teleport and take a long rest.
-[u0424 | 00:34:53.709-00:34:57.379 | DM] And then, by… The battle [[at the apartment]].
+[u0424 | 00:34:53.709-00:34:57.379 | DM] And then, by… The battle {{at the apartment}}.
 [u0425 | 00:34:57.380-00:34:59.239 | Delwath] Okay, here's a crazy idea.
 [u0426 | 00:34:59.570-00:35:01.110 | Delwath] Tomorrow morning.
 [u0427 | 00:35:02.070-00:35:10.250 | Delwath] Seeker casts Simulacrum using a slot. Sorry, we're basically… our entire goal here is to optimize the number of wishes that Seeker can cast.
@@ -462,7 +462,7 @@
 [u0462 | 00:37:29.300-00:37:31.519 | DM] This is a Seeker, we're up to Seeker 5, yes.
 [u0463 | 00:37:31.520-00:37:39.010 | Delwath] Right, and this Seeker will come into being without a 7th level spell, but with an 8th level spell. So if we wanted…
 [u0464 | 00:37:39.120-00:37:41.519 | Delwath] This seeker could.
-[u0465 | 00:37:41.520-00:37:42.860 | DM] [[animal shape of these dummy]].
+[u0465 | 00:37:41.520-00:37:42.860 | DM] {{animal shape of these dummy}}.
 [u0466 | 00:37:42.860-00:37:49.849 | Delwath] You could do two animal shapes to get twice as many people, and you could have a beast army of, like, 500.
 [u0467 | 00:37:52.360-00:37:54.639 | Seeker] So we're not trying diplomacy, is what you're saying.
 [u0468 | 00:37:55.910-00:37:59.370 | Delwath] We did! We… we tried!
@@ -644,7 +644,7 @@
 [u0644 | 00:53:33.860-00:53:38.510 | Delwath] Or… It trades the wish during the battle.
 [u0645 | 00:53:38.730-00:53:39.530 | Kenzo] No, they're…
 [u0646 | 00:53:39.530-00:53:40.390 | Seeker] Yeah, we don't want that.
-[u0647 | 00:53:40.390-00:53:44.630 | Kenzo] There are two wishes that we would have in the battle, because [[the also]] has a wish.
+[u0647 | 00:53:40.390-00:53:44.630 | Kenzo] There are two wishes that we would have in the battle, because {{the also}} has a wish.
 [u0648 | 00:53:44.630-00:53:45.010 | Delwath] Correct.
 [u0649 | 00:53:45.010-00:53:51.369 | Kenzo] So, let's… I mean, this… I don't know, feels like a pretty good time to use a tsunami to try to, like, knock off, like…
 [u0650 | 00:53:51.910-00:53:52.420 | Audio shared by Tim Sackton] Right?
@@ -673,7 +673,7 @@
 [u0673 | 00:55:17.530-00:55:21.139 | Delwath] So that's still, like, 2,000 feet of cliff, or something like that.
 [u0674 | 00:55:21.800-00:55:22.890 | Delwath] So, it's a long…
 [u0675 | 00:55:22.890-00:55:26.220 | DM] Yes, it's a long line like this.
-[u0676 | 00:55:27.800-00:55:30.269 | Seeker] But [[they're not all kinds, or how are they opulence]]?
+[u0676 | 00:55:27.800-00:55:30.269 | Seeker] But {{they're not all kinds, or how are they opulence}}?
 [u0677 | 00:55:30.270-00:55:31.160 | DM] the same…
 [u0678 | 00:55:31.310-00:55:35.330 | Delwath] How are they moving? Are they… Are they…
 [u0679 | 00:55:36.000-00:55:37.890 | Delwath] Do they appear to be climbing?
@@ -725,7 +725,7 @@
 [u0725 | 00:58:39.740-00:58:40.390 | Delwath] Yeah.
 [u0726 | 00:58:41.070-00:58:51.399 | Delwath] What's the range? Let's… let's do that. Let's… let's… let's… let's, so I'm gonna… I'm gonna… here's the plan. Let's do this. Let's… let's fly… so…
 [u0727 | 00:58:52.050-00:58:57.239 | Delwath] Wellby and Kenzo and Faldrak are on Keep the Flying Things Off Us.
-[u0728 | 00:58:58.600-00:59:01.690 | Delwath] Right, ice turret, Faldrak, [[because I keep]] the flying things off us.
+[u0728 | 00:58:58.600-00:59:01.690 | Delwath] Right, ice turret, Faldrak, {{because I keep}} the flying things off us.
 [u0729 | 00:59:02.800-00:59:03.640 | Delwath] M…
 [u0730 | 00:59:03.880-00:59:10.459 | Delwath] Delwath will throw an ice storm at one of the centipedes to try and clear the Hobgoblins off it.
 [u0731 | 00:59:10.580-00:59:14.010 | Delwath] And then Seeker should throw a telekinesis to try and grab the centipede.
@@ -798,7 +798,7 @@
 [u0798 | 01:02:27.200-01:02:29.710 | Kenzo] Like, why don't I go, like, 140 feet?
 [u0799 | 01:02:32.410-01:02:32.970 | DM] Okay.
 [u0800 | 01:02:32.970-01:02:33.530 | Delwath] Nope.
-[u0801 | 01:02:33.860-01:02:35.160 | Kenzo] [[How about for the Fox movie]]?
+[u0801 | 01:02:33.860-01:02:35.160 | Kenzo] {{How about for the Fox movie}}?
 [u0802 | 01:02:35.890-01:02:36.560 | Delwath] they're probably…
 [u0803 | 01:02:36.560-01:02:37.019 | DM] They were scream.
 [u0804 | 01:02:37.020-01:02:39.780 | Delwath] Last time, they probably can go 100 feet.
@@ -813,7 +813,7 @@
 [u0813 | 01:03:02.700-01:03:03.710 | Delwath] Ice Storm?
 [u0814 | 01:03:03.960-01:03:04.690 | DM] Okay.
 [u0815 | 01:03:06.220-01:03:11.220 | Delwath] 2D10 bludgeoning and 4d6 cold, DC20 Dex save for half.
-[u0816 | 01:03:11.990-01:03:26.210 | DM] Okay, so, Kenzo… flies out from Vindristjarna as Faldrak [[reigns for]] four turret attacks.
+[u0816 | 01:03:11.990-01:03:26.210 | DM] Okay, so, Kenzo… flies out from Vindristjarna as Faldrak {{reigns for}} four turret attacks.
 [u0817 | 01:03:27.010-01:03:30.350 | DM] those are not great rolls.
 [u0818 | 01:03:30.960-01:03:32.779 | DM] What is their AC.
 [u0819 | 01:03:34.320-01:03:37.270 | DM] Oh, their AC's not that high. That hits.
@@ -995,7 +995,7 @@
 [u0995 | 01:16:20.510-01:16:20.860 | DM] Yeah, you could…
 [u0996 | 01:16:20.860-01:16:22.089 | Seeker] Thanks to the ice.
 [u0997 | 01:16:25.160-01:16:28.650 | Delwath] Like, there's gotta be a way that we could just fly up to it and, like…
-[u0998 | 01:16:29.780-01:16:31.390 | Delwath] [[Are we reduced to frozen]]?
+[u0998 | 01:16:29.780-01:16:31.390 | Delwath] {{Are we reduced to frozen}}?
 [u0999 | 01:16:31.390-01:16:32.190 | Seeker] The deck of the ship.
 [u1000 | 01:16:32.740-01:16:36.889 | Delwath] drop it onto the deck of the ship, right? And then throw up our ice shield.
 [u1001 | 01:16:40.050-01:16:40.870 | Seeker] Trapping it on.
@@ -1207,7 +1207,7 @@
 [u1207 | 01:29:43.740-01:29:45.470 | DM] There's a tree.
 [u1208 | 01:29:45.470-01:29:47.579 | Delwath] Giant tree, right?
 [u1209 | 01:29:47.830-01:29:49.149 | Seeker] There's a greenhouse.
-[u1210 | 01:29:49.150-01:29:53.249 | Delwath] There's a [[Shetanshi]] sanctuary, there's lots of things, right?
+[u1210 | 01:29:49.150-01:29:53.249 | Delwath] There's a {{Shetanshi}} sanctuary, there's lots of things, right?
 [u1211 | 01:29:53.250-01:29:54.620 | Seeker] Observatory.
 [u1212 | 01:29:55.080-01:29:55.950 | Delwath] open…
 [u1213 | 01:29:58.050-01:30:04.229 | DM] Yeah, you can have half cover, but it is definitely easier to shoot when you're below them than when you're above them.
@@ -1289,7 +1289,7 @@
 [u1289 | 01:34:49.660-01:34:53.330 | DM] Faldrak fires a few more ice bolts at a… at a bird.
 [u1290 | 01:34:53.500-01:34:54.480 | DM] That's gonna kill one.
 [u1291 | 01:34:54.480-01:34:55.119 | Seeker] Yeah, yeah.
-[u1292 | 01:34:55.380-01:34:57.610 | DM] Because a lot of them are dead. [[We're turning this point]].
+[u1292 | 01:34:55.380-01:34:57.610 | DM] Because a lot of them are dead. {{We're turning this point}}.
 [u1293 | 01:34:58.930-01:35:00.049 | Seeker] Gone up and away.
 [u1294 | 01:35:00.050-01:35:02.340 | Delwath] Wait, can we see through the ice shield?
 [u1295 | 01:35:03.390-01:35:05.430 | DM] Seeker can, the rest of you can't.
@@ -1362,7 +1362,7 @@
 [u1362 | 01:39:39.660-01:39:46.220 | DM] this is after maybe 5 minutes. There doesn't seem to be any… like, it's not… you can… use…
 [u1363 | 01:39:48.730-01:39:53.160 | DM] I don't know what you use, but you can poke, you know, pokers or whatever.
 [u1364 | 01:39:53.160-01:39:54.569 | Delwath] Mage Hand, can I pick up?
-[u1365 | 01:39:54.570-01:39:56.520 | DM] A mage hand just… [[Predit]].
+[u1365 | 01:39:54.570-01:39:56.520 | DM] A mage hand just… {{Predit}}.
 [u1366 | 01:39:56.990-01:39:58.280 | DM] Well, it's not.
 [u1367 | 01:39:58.580-01:40:05.100 | DM] It's almost rubbery when you try and pick it up with mage hand. Like, it stretches, then it snaps back.
 [u1368 | 01:40:06.340-01:40:08.130 | Seeker] Let's try to store some in a container.
@@ -1479,7 +1479,7 @@
 [u1479 | 01:47:42.150-01:47:44.820 | DM] Like, madness, or the mind, or anything like that.
 [u1480 | 01:47:45.560-01:47:54.270 | DM] pandemonium is not so much chaos, it's… it's madness. It's associated with, like… lycanthropy and werewolves and…
 [u1481 | 01:47:55.110-01:48:00.700 | DM] insanity. It's known for… Pandemonium is known for the howling winds that…
-[u1482 | 01:48:00.990-01:48:09.020 | DM] make it almost impossible to think on the plane. Limbo is just… Complete chaos [[enters]]
+[u1482 | 01:48:00.990-01:48:09.020 | DM] make it almost impossible to think on the plane. Limbo is just… Complete chaos {{enters}}
 [u1483 | 01:48:09.020-01:48:13.220 | Delwath] It's more like elemental chaos, and Pandemonium is more like directed chaos.
 [u1484 | 01:48:13.510-01:48:15.219 | DM] Yeah, yeah.
 [u1485 | 01:48:16.090-01:48:16.990 | DM] I mean, they're.
@@ -1641,7 +1641,7 @@
 [u1641 | 01:57:45.060-01:57:49.429 | DM] Yeah, yeah, Seeker's is free, but Seeker 5 cannot restore spell slots.
 [u1642 | 01:57:49.430-01:57:52.580 | Delwath] I know. But Seeker could do one today and one tomorrow.
 [u1643 | 01:57:56.450-01:57:57.550 | Kenzo] Hell yeah.
-[u1644 | 01:57:58.170-01:58:00.359 | Delwath] Let's [[build that free]]. So, Seeker, get to it!
+[u1644 | 01:57:58.170-01:58:00.359 | Delwath] Let's {{build that free}}. So, Seeker, get to it!
 [u1645 | 01:58:00.360-01:58:04.210 | DM] No, wait, I don't think you can cast animal shapes twice.
 [u1646 | 01:58:04.210-01:58:07.519 | Delwath] Oh, no, it ends when you cast it a second time, that is correct.
 [u1647 | 01:58:08.700-01:58:10.740 | DM] That seems like it would be…
@@ -1735,8 +1735,8 @@
 [u1735 | 02:04:14.920-02:04:17.040 | Audio shared by Tim Sackton] Crest over the mountains to the…
 [u1736 | 02:04:18.540-02:04:24.259 | DM] Sound of the scouts coming back to report that the… Hobgoblins have been sighted.
 [u1737 | 02:04:25.760-02:04:32.880 | Audio shared by Tim Sackton] about… At the… at the base of this… of this stream that flows out of the valley, so maybe…
-[u1738 | 02:04:33.070-02:04:34.320 | Audio shared by Tim Sackton] [[5 miles of that]].
-[u1739 | 02:04:34.560-02:04:35.940 | Audio shared by Tim Sackton] [[8 miles apart is something]].
+[u1738 | 02:04:33.070-02:04:34.320 | Audio shared by Tim Sackton] {{5 miles of that}}.
+[u1739 | 02:04:34.560-02:04:35.940 | Audio shared by Tim Sackton] {{8 miles apart is something}}.
 [u1740 | 02:04:37.490-02:04:38.929 | Delwath] as part of the long rest.
 [u1741 | 02:04:38.930-02:04:39.979 | DM] hour to prepare.
 [u1742 | 02:04:40.230-02:04:45.290 | Delwath] I'm gonna… I'm gonna make a meal, so everybody gets… Heroic inspiration.
@@ -1774,7 +1774,7 @@
 [u1774 | 02:06:58.600-02:07:00.469 | DM] And their weapons are shimmering.
 [u1775 | 02:07:01.310-02:07:02.290 | DM] With a silver…
 [u1776 | 02:07:06.210-02:07:07.230 | Audio shared by Tim Sackton] Yeah, I mean…
-[u1777 | 02:07:07.230-02:07:09.569 | Delwath] [[Everybody who can't will distribute]].
+[u1777 | 02:07:07.230-02:07:09.569 | Delwath] {{Everybody who can't will distribute}}.
 [u1778 | 02:07:09.870-02:07:13.410 | Audio shared by Tim Sackton] I don't know how many people we can distribute the pub special to, but…
 [u1779 | 02:07:13.790-02:07:16.519 | Audio shared by Tim Sackton] Immune to Frightened is worthwhile. Yeah.
 [u1780 | 02:07:18.500-02:07:20.380 | Audio shared by Tim Sackton] Is there anything else we can do with ours?
@@ -1784,7 +1784,7 @@
 [u1784 | 02:07:35.220-02:07:36.830 | Audio shared by Tim Sackton] So, what is that?
 [u1785 | 02:07:37.200-02:07:37.810 | DM] 20.
 [u1786 | 02:07:37.810-02:07:38.710 | Audio shared by Tim Sackton] the extra, yeah.
-[u1787 | 02:07:45.170-02:07:46.459 | DM] I'll do that [[for constants]].
+[u1787 | 02:07:45.170-02:07:46.459 | DM] I'll do that {{for constants}}.
 [u1788 | 02:07:46.480-02:07:48.189 | Audio shared by Tim Sackton] I'm here.
 [u1789 | 02:07:49.200-02:07:52.230 | Audio shared by Tim Sackton] Yeah, but I'm just adding the 20 HP that…
 [u1790 | 02:07:52.620-02:07:53.599 | DM] Delwath gave you.
@@ -1870,7 +1870,7 @@
 [u1870 | 02:13:58.520-02:13:59.029 | Audio shared by Tim Sackton] You know.
 [u1871 | 02:14:00.460-02:14:11.250 | Audio shared by Tim Sackton] Like, if the whole army is there just to distract and whatever, and her whole thing is to get to that specific spot as close as possible, we definitely need to be…
 [u1872 | 02:14:11.390-02:14:12.450 | Audio shared by Tim Sackton] Closer to it.
-[u1873 | 02:14:14.330-02:14:17.680 | Audio shared by Tim Sackton] Like, if she darts past us somehow, then, you know, the [[holding is fine]].
+[u1873 | 02:14:14.330-02:14:17.680 | Audio shared by Tim Sackton] Like, if she darts past us somehow, then, you know, the {{holding is fine}}.
 [u1874 | 02:14:19.720-02:14:20.839 | Audio shared by Tim Sackton] What goes around behind?
 [u1875 | 02:14:23.560-02:14:26.019 | Audio shared by Tim Sackton] I mean, I guess we could… we could…
 [u1876 | 02:14:28.150-02:14:32.320 | Delwath] But if we… if we position ourselves by the Heartroot, we're basically…
@@ -1888,7 +1888,7 @@
 [u1888 | 02:15:16.260-02:15:16.670 | DM] from the.
 [u1889 | 02:15:16.670-02:15:17.879 | Audio shared by Tim Sackton] Battlefield to the heart.
 [u1890 | 02:15:18.110-02:15:18.820 | DM] Yeah.
-[u1891 | 02:15:19.240-02:15:22.360 | Audio shared by Tim Sackton] That's how we could [[get dimension to that]]. I mean, Seeker could.
+[u1891 | 02:15:19.240-02:15:22.360 | Audio shared by Tim Sackton] That's how we could {{get dimension to that}}. I mean, Seeker could.
 [u1892 | 02:15:24.950-02:15:25.360 | DM] From the.
 [u1893 | 02:15:25.360-02:15:25.830 | Delwath] Double this.
 [u1894 | 02:15:25.830-02:15:27.390 | DM] From the entrance, from the, like…
@@ -2095,7 +2095,7 @@
 [u2095 | 02:30:39.330-02:30:41.530 | Delwath] Right? And turn them into giant eagles.
 [u2096 | 02:30:42.690-02:30:46.480 | Delwath] And have them… have the 100 giant eagles go swarm the attackers.
 [u2097 | 02:30:50.870-02:30:51.230 | Seeker] Seems good.
-[u2098 | 02:30:53.070-02:30:55.569 | Delwath] Because that's just a magic action. You could just [[sink your hands]] do that.
+[u2098 | 02:30:53.070-02:30:55.569 | Delwath] Because that's just a magic action. You could just {{sink your hands}} do that.
 [u2099 | 02:30:55.830-02:30:56.889 | Audio shared by Tim Sackton] I love it.
 [u2100 | 02:30:56.890-02:30:58.969 | DM] Giant eagles are not beasts.
 [u2101 | 02:31:01.110-02:31:03.220 | Audio shared by Tim Sackton] It says, watch… oh, are they not in…
@@ -2209,7 +2209,7 @@
 [u2209 | 02:38:46.350-02:38:49.080 | Audio shared by Tim Sackton] Kenzo is first.
 [u2210 | 02:38:50.790-02:38:57.619 | DM] But you're not doing anything from 300 feet away. Just anybody who's doing something from 300 feet away, just do it now. All together, quicker.
 [u2211 | 02:38:58.980-02:38:59.410 | Seeker] Weird.
-[u2212 | 02:38:59.410-02:39:00.579 | Delwath] [[Let's rolling]] for Faldrak.
+[u2212 | 02:38:59.410-02:39:00.579 | Delwath] {{Let's rolling}} for Faldrak.
 [u2213 | 02:39:02.620-02:39:06.940 | Seeker] Oh, I'll do it, but we're just gonna launch some, icicle turret shots, right?
 [u2214 | 02:39:07.260-02:39:07.940 | Delwath] Yep.
 [u2215 | 02:39:11.520-02:39:13.460 | Seeker] That we fire the icicle turrets.
@@ -2268,7 +2268,7 @@
 [u2268 | 02:42:08.130-02:42:09.700 | DM] Anybody doing anything at range?
 [u2269 | 02:42:10.190-02:42:11.480 | Delwath] Eldritch Blast!
 [u2270 | 02:42:11.530-02:42:12.260 | DM] Okay.
-[u2271 | 02:42:15.910-02:42:20.460 | Audio shared by Tim Sackton] So, on the sorcerer, [[Let's arrange browser]].
+[u2271 | 02:42:15.910-02:42:20.460 | Audio shared by Tim Sackton] So, on the sorcerer, {{Let's arrange browser}}.
 [u2272 | 02:42:21.340-02:42:22.100 | Delwath] 120 feet.
 [u2273 | 02:42:22.710-02:42:23.570 | Audio shared by Tim Sackton] That was cool.
 [u2274 | 02:42:23.940-02:42:27.930 | Audio shared by Tim Sackton] Oh, actually, sorry, 120 feet, let's go in initiative order. So, Kenzo.
@@ -2277,8 +2277,8 @@
 [u2277 | 02:42:33.210-02:42:34.320 | DM] Okay, Wellby?
 [u2278 | 02:42:34.730-02:42:37.189 | Wellby] Same two spellcasters.
 [u2279 | 02:42:40.570-02:42:42.090 | Delwath] Now you have sneak attack, right?
-[u2280 | 02:42:42.090-02:42:44.810 | Wellby] That's right, so [[that's 30 seconds]]. So that's both hits?
-[u2281 | 02:42:45.300-02:42:47.380 | Wellby] The, [[MS37]] on both of them.
+[u2280 | 02:42:42.090-02:42:44.810 | Wellby] That's right, so {{that's 30 seconds}}. So that's both hits?
+[u2281 | 02:42:45.300-02:42:47.380 | Wellby] The, {{MS37}} on both of them.
 [u2282 | 02:42:51.120-02:42:52.320 | Audio shared by Tim Sackton] Okay?
 [u2283 | 02:42:52.610-02:42:58.250 | DM] Then it is going to be…
 [u2284 | 02:42:59.910-02:43:04.770 | DM] One of the… the… the birds on… God, D&D…
@@ -2311,7 +2311,7 @@
 [u2311 | 02:44:42.120-02:44:44.150 | Delwath] Delwath rolled a…
 [u2312 | 02:44:44.560-02:44:49.229 | Delwath] What did I roll? It wasn't very good, it was like a 13, I think? I can't remember.
 [u2313 | 02:44:49.230-02:44:53.100 | DM] So, Delwath, you take 12 points of fire damage.
-[u2314 | 02:44:53.370-02:45:06.920 | DM] [[Kenzo and Seeker]] take no damage from evasion. However, the deck begins to sort of glow, and anybody who is now standing in this 40-foot radius square is now vulnerable to fire damage while you stand in that square.
+[u2314 | 02:44:53.370-02:45:06.920 | DM] {{Kenzo and Seeker}} take no damage from evasion. However, the deck begins to sort of glow, and anybody who is now standing in this 40-foot radius square is now vulnerable to fire damage while you stand in that square.
 [u2315 | 02:45:08.510-02:45:09.940 | DM] Delwath, you're up.
 [u2316 | 02:45:10.700-02:45:22.320 | Delwath] sorry, I meant to, last turn, cast… Font of, Font of Moonlight.
 [u2317 | 02:45:22.320-02:45:22.760 | DM] Okay.
@@ -2411,7 +2411,7 @@
 [u2411 | 02:51:20.710-02:51:21.580 | Kenzo] I deflect that.
 [u2412 | 02:51:22.120-02:51:23.570 | DM] Which is deflected.
 [u2413 | 02:51:24.120-02:51:30.679 | DM] The second hit is also 14 points of damage, and reduces your speed by 10 feet.
-[u2414 | 02:51:31.620-02:51:35.999 | Audio shared by Tim Sackton] Sorry, I was wrong. Doesn't reduce your speed by 10 feet, that's his [[jack point]].
+[u2414 | 02:51:31.620-02:51:35.999 | Audio shared by Tim Sackton] Sorry, I was wrong. Doesn't reduce your speed by 10 feet, that's his {{jack point}}.
 [u2415 | 02:51:41.510-02:51:43.540 | DM] That ends the Warlord's turn.
 [u2416 | 02:51:43.820-02:51:44.969 | Kenzo] So I take 14 damage?
 [u2417 | 02:51:45.240-02:51:46.389 | DM] So you take 14 damage.
@@ -2649,9 +2649,9 @@
 [u2649 | 03:05:14.530-03:05:18.570 | Audio shared by Tim Sackton] 10 feet, yeah. 10 feet range. Creatures you can see within range.
 [u2650 | 03:05:22.070-03:05:23.470 | Kenzo] Wait.
 [u2651 | 03:05:23.670-03:05:26.820 | Audio shared by Tim Sackton] Despite what I said earlier, how confident are we that you can teleport them?
-[u2652 | 03:05:29.080-03:05:30.020 | Seeker] [[Huge look]].
+[u2652 | 03:05:29.080-03:05:30.020 | Seeker] {{Huge look}}.
 [u2653 | 03:05:30.020-03:05:31.560 | Audio shared by Tim Sackton] Usually.
-[u2654 | 03:05:31.710-03:05:33.110 | Audio shared by Tim Sackton] [[Overwhelming cup]].
+[u2654 | 03:05:31.710-03:05:33.110 | Audio shared by Tim Sackton] {{Overwhelming cup}}.
 [u2655 | 03:05:34.420-03:05:36.530 | Seeker] Have I been there before?
 [u2656 | 03:05:39.840-03:05:42.130 | DM] No, this is…
 [u2657 | 03:05:42.450-03:05:49.919 | DM] This is seen casually. Oh, actually, no, you can see it when you cast the spell, so it's very familiar.
@@ -2711,7 +2711,7 @@
 [u2711 | 03:08:48.410-03:08:57.379 | Audio shared by Tim Sackton] So that's… For 7 points of damage to Seeker 5, I'll track Seeker 5 damage.
 [u2712 | 03:08:58.490-03:08:58.840 | Audio shared by Tim Sackton] Thank you.
 [u2713 | 03:08:59.340-03:09:05.940 | Audio shared by Tim Sackton] And, 9, 10, 11, 12 points of damage on Seeker, and make a con save for the slow.
-[u2714 | 03:09:06.470-03:09:14.649 | Audio shared by Tim Sackton] That ends there, Delwath is up next, and then Seeker 5, and then the Warlord, and then the Archers, and then [[Seeker 5]].
+[u2714 | 03:09:06.470-03:09:14.649 | Audio shared by Tim Sackton] That ends there, Delwath is up next, and then Seeker 5, and then the Warlord, and then the Archers, and then {{Seeker 5}}.
 [u2715 | 03:09:18.170-03:09:18.930 | Seeker] save.
 [u2716 | 03:09:18.930-03:09:21.199 | Kenzo] Are we teleporting?
 [u2717 | 03:09:21.380-03:09:23.449 | Delwath] Yeah, but we have to wait for Seeker's turn.
@@ -2736,14 +2736,14 @@
 [u2736 | 03:10:37.550-03:10:40.519 | Delwath] My shield is… oh, no, my shield went away, but anyway, it's fine.
 [u2737 | 03:10:40.860-03:10:45.340 | DM] that ends Delwath's turn, Seeker 5.
 [u2738 | 03:10:48.350-03:10:50.460 | Delwath] Wait, why isn't Seeker 5 doing the teleport?
-[u2739 | 03:10:51.780-03:10:52.509 | Audio shared by Tim Sackton] Oh. [[Have to eat]].
+[u2739 | 03:10:51.780-03:10:52.509 | Audio shared by Tim Sackton] Oh. {{Have to eat}}.
 [u2740 | 03:10:52.510-03:10:59.839 | DM] use 8th level spells. But that's fine. Seeker 5 can use… I mean, Seeker doesn't have a lot of 8th level spells.
 [u2741 | 03:11:02.720-03:11:04.460 | Delwath] I have Seeker 5 do the teleport.
 [u2742 | 03:11:04.460-03:11:06.099 | DM] I mean, do you trust Seeker 5? Yeah.
 [u2743 | 03:11:06.180-03:11:06.990 | Audio shared by Tim Sackton] No.
 [u2744 | 03:11:07.760-03:11:10.799 | Audio shared by Tim Sackton] Well, Seeker 5 doesn't have the track record?
 [u2745 | 03:11:10.800-03:11:11.280 | Seeker] But…
-[u2746 | 03:11:11.280-03:11:11.889 | Delwath] No, no, no, Seeker [[shop]].
+[u2746 | 03:11:11.280-03:11:11.889 | Delwath] No, no, no, Seeker {{shop}}.
 [u2747 | 03:11:11.890-03:11:13.199 | Seeker] It's a guaranteed success.
 [u2748 | 03:11:14.660-03:11:15.859 | Seeker] I think Seeker 5 can do it.
 [u2749 | 03:11:17.250-03:11:17.700 | Audio shared by Tim Sackton] Okay.
@@ -2767,7 +2767,7 @@
 [u2767 | 03:11:59.700-03:12:01.389 | Audio shared by Tim Sackton] If it was… if it was…
 [u2768 | 03:12:01.770-03:12:04.159 | Delwath] If it was not very familiar, right?
 [u2769 | 03:12:04.870-03:12:10.389 | Audio shared by Tim Sackton] It would be similar. If it was only… it's a good thing you can see it, because if it was just seen casually, that would be…
-[u2770 | 03:12:10.740-03:12:12.049 | DM] [[There's an possible outcome]].
+[u2770 | 03:12:10.740-03:12:12.049 | DM] {{There's an possible outcome}}.
 [u2771 | 03:12:12.520-03:12:12.890 | Delwath] Yes.
 [u2772 | 03:12:14.330-03:12:15.690 | Audio shared by Tim Sackton] But… Yeah.
 [u2773 | 03:12:15.690-03:12:20.600 | DM] Seeker 5, as long as he can see where he's trying to teleport to, he's all set.
@@ -2835,7 +2835,7 @@
 [u2835 | 03:17:03.650-03:17:07.140 | Audio shared by Tim Sackton] Right? So, we will pick up next time.
 [u2836 | 03:17:07.900-03:17:11.950 | Audio shared by Tim Sackton] With the Empress of Chaos 600 feet away from you?
 [u2837 | 03:17:13.320-03:17:17.190 | Audio shared by Tim Sackton] 8 rounds having passed from the moment you appeared.
-[u2838 | 03:17:18.190-03:17:22.619 | DM] [[Hearthstone]], or the Heartroot, and we'll re-roll initiatives so any.
+[u2838 | 03:17:18.190-03:17:22.619 | DM] {{Hearthstone}}, or the Heartroot, and we'll re-roll initiatives so any.
 [u2839 | 03:17:22.750-03:17:25.049 | Audio shared by Tim Sackton] Abilities that trigger on initiative.
 [u2840 | 03:17:25.260-03:17:26.600 | Audio shared by Tim Sackton] can restart?
 [u2841 | 03:17:27.320-03:17:31.369 | Audio shared by Tim Sackton] But, and whatever you want to do with those 8 rounds, like, you have some time.
@@ -2851,10 +2851,10 @@
 [u2851 | 03:18:11.490-03:18:13.269 | Kenzo] So, like, yeah.
 [u2852 | 03:18:13.440-03:18:15.999 | Delwath] Like, a healing spell is not worthwhile.
 [u2853 | 03:18:18.680-03:18:20.250 | Delwath] Nobody really needs healing.
-[u2854 | 03:18:20.250-03:18:21.640 | DM] [[They don't want to take damage]].
+[u2854 | 03:18:20.250-03:18:21.640 | DM] {{They don't want to take damage}}.
 [u2855 | 03:18:21.990-03:18:25.900 | DM] You took a bunch of damage. Yeah, Seeker took some damage, Kenzo took some damage.
 [u2856 | 03:18:25.900-03:18:27.010 | Kenzo] Take a little damage.
-[u2857 | 03:18:27.660-03:18:29.550 | DM] [[It's on the leg, you know]].
+[u2857 | 03:18:27.660-03:18:29.550 | DM] {{It's on the leg, you know}}.
 [u2858 | 03:18:30.560-03:18:31.599 | DM] Plenty of time.
 [u2859 | 03:18:32.340-03:18:37.570 | Delwath] the challenge is, with 8 rounds, I can get back, two spell slots.
 [u2860 | 03:18:37.990-03:18:42.019 | Delwath] I could cast a healing spell, and then get back the two spell slots I've used.
@@ -2874,7 +2874,7 @@
 [u2874 | 03:19:27.910-03:19:30.369 | Seeker] The construct came with us, presumably.
 [u2875 | 03:19:30.370-03:19:31.959 | DM] Construct came with you, yup.
 [u2876 | 03:19:32.160-03:19:32.800 | Wellby] I'll activate.
-[u2877 | 03:19:32.800-03:19:33.840 | Seeker] I can [[bring to Adam]].
+[u2877 | 03:19:32.800-03:19:33.840 | Seeker] I can {{bring to Adam}}.
 [u2878 | 03:19:35.730-03:19:38.500 | Wellby] So, construct, ladder, Triceratops…
 [u2879 | 03:19:40.860-03:19:42.129 | Seeker] It's a little army.
 [u2880 | 03:19:42.880-03:19:43.570 | Delwath] Yep.

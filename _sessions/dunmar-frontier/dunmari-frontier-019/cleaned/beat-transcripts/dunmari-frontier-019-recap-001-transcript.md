@@ -26,19 +26,19 @@ Kenzo: I was also literally imagining, you know, an Animal Crossing, or these ot
 Seeker: Gather Town is one of these. I think this is one instance of a whole genre. Maybe you know about this, or did we talk about this one time? I forget. So imagine NES Legend of Zelda: it's a top-down view of an eight-bit map. You have a little character, you press the arrow keys and move them around. There are now conferencing tools that do this. There's a map and you drive your character around on it, and depending who you're near, that's who you can talk to. Have you seen this?
 
 %% u0017-u0018 %%
-Kenzo: Start that one more time. I was typing something. Say that again—[[rebels are scattered town]].
+Kenzo: Start that one more time. I was typing something. Say that again—{{rebels are scattered town}}.
 
 %% u0019 %%
 Seeker: Yeah, it's a top-down 2D bitmap, like an NES game, where you have a character and you move them around using your arrow keys. Depending who you're close to, that's who you can talk to.
 
 %% u0020 %%
-Kenzo: [[Me a little ways before.]]
+Kenzo: {{Me a little ways before.}}
 
 %% u0021 %%
 Seeker: Nope, or…
 
 %% u0022 %%
-Kenzo: [[Height of]]—yes, actually, I…
+Kenzo: {{Height of}}—yes, actually, I…
 
 %% u0023 %%
 Seeker: Did you use that for Bio Summit?
@@ -71,7 +71,7 @@ Unknown: I love that.
 Seeker: It would be such a mess. We're like, okay, guys, just trying to suggest that you cast a spell.
 
 %% u0038-u0041 %%
-Kenzo: It could only be symbolic representations. You can't write words, but it's like… you know, and maybe it's like… [[what is it that are with that]].
+Kenzo: It could only be symbolic representations. You can't write words, but it's like… you know, and maybe it's like… {{what is it that are with that}}.
 
 %% u0042 %%
 Seeker: We're all gonna die yeah.
@@ -107,19 +107,19 @@ Wellby: I got Eric saying it's like an entirely different mechanic.
 Unknown: What's.
 
 %% u0062 %%
-Wellby: [[Up no DM or…]]
+Wellby: {{Up no DM or…}}
 
 %% u0063 %%
 DM: Yes, yes.
 
 %% u0064 %%
-Seeker: Well, [[how many is it]]? Oh my God.
+Seeker: Well, {{how many is it}}? Oh my God.
 
 %% u0065 %%
-DM: I guess [[how there's…]]
+DM: I guess {{how there's…}}
 
 %% u0066 %%
-Seeker: [[These kinds of us]], right? So…
+Seeker: {{These kinds of us}}, right? So…
 
 %% u0067-u0068 %%
 DM: Here's an idea that's worth thinking about. Another way you could think about this: for some places it makes sense to do something like that, but of course nobody would want to sit through three sessions where you could only communicate by drawing on a shared Jamboard.
@@ -152,7 +152,7 @@ Seeker: Like what I was experimenting with.
 DM: Yeah, sort of like Eric's game, but maybe with a little bit more constraint, in terms of a mechanism for success and failure. Right.
 
 %% u0093 %%
-Seeker: Yeah, so [[the one]] I was using is just 1d6.
+Seeker: Yeah, so {{the one}} I was using is just 1d6.
 
 %% u0094-u0098 %%
 DM: Yeah, but something that lets you have character skill, basically, right? Instead of just a flat 1d6 roll for everything, which is just random—it's not really success or failure, it's just two paths, and it goes one way or the other randomly—there's some ability for your character to be good at things and bad at things. But otherwise they're much more freeform, in the sense it's not classes with spells and fixed abilities. Which makes a lot of sense for some of these other planes, right? If you're in the Plane of Souls, maybe Seeker can't do anything, but Kenzo is a super big thing.
@@ -182,7 +182,7 @@ Kenzo: And that can be judged pretty, pretty qualitatively by you, based on what
 Unknown: I think like.
 
 %% u0113-u0119 %%
-Wellby: Say, with something else—hey, Mike. A similar kind of thing I'm thinking about: the way reflections of our characters in other planes might be derivatives of ourselves. They share certain kinds of features but not others. In church, actually, we talk about your soul. So this is more concretely [[met on in this work]] metaphysics. But being that deepest, most essential part of yourself, which is both a quality of who you are right now, but also, in some sense, a quality of yourself that you're in the process of growing.
+Wellby: Say, with something else—hey, Mike. A similar kind of thing I'm thinking about: the way reflections of our characters in other planes might be derivatives of ourselves. They share certain kinds of features but not others. In church, actually, we talk about your soul. So this is more concretely {{met on in this work}} metaphysics. But being that deepest, most essential part of yourself, which is both a quality of who you are right now, but also, in some sense, a quality of yourself that you're in the process of growing.
 
 %% u0120 %%
 Seeker: Indeed.
@@ -206,13 +206,13 @@ Kenzo: Okay.
 Wellby: This is, as far as I've gotten.
 
 %% u0130-u0133 %%
-Kenzo: Let's just update Mike a little bit. So Mike, Tim and I are having this pre-meeting to figure out what Kenzo understands about the cosmology of Taelgar. He was a monk for five years out at a [[restaurant talking about]]. Now I, Dave Kong, actually understand some of this cosmology, which Kenzo will now be able to roleplay. But basically: Material Plane, Plane of Magic, Plane of Souls, and all kinds of weird in-between.
+Kenzo: Let's just update Mike a little bit. So Mike, Tim and I are having this pre-meeting to figure out what Kenzo understands about the cosmology of Taelgar. He was a monk for five years out at a {{restaurant talking about}}. Now I, Dave Kong, actually understand some of this cosmology, which Kenzo will now be able to roleplay. But basically: Material Plane, Plane of Magic, Plane of Souls, and all kinds of weird in-between.
 
 %% u0134-u0137 %%
 Kenzo: I was saying it would be amazing in terms of game mechanics. Material Plane is basically D&D Beyond, Roll20, the system we're familiar with. But hopefully, if our characters survive and don't do stupid shit, we'll start to interplay more deeply with these other planes that are not material-world planes, and we'd have totally different game mechanics within each of those. So when we're transporting there, because Kenzo has more affinity in the Plane of Souls, there might be an abstract iteration: a couple of objects are there and we don't know what to do with them, but Kenzo can actually move them around.
 
 %% u0138-u0141 %%
-Kenzo: But Seeker is just paralyzed because he has no power in the Plane of Souls, right? Once you get to a certain plane, it could be much more narrative-driven, like we were doing in high school. Or it could be mediated by some other digital tools that are different and more abstract, like us drawing on a Miro board together with [[rice and…]]
+Kenzo: But Seeker is just paralyzed because he has no power in the Plane of Souls, right? Once you get to a certain plane, it could be much more narrative-driven, like we were doing in high school. Or it could be mediated by some other digital tools that are different and more abstract, like us drawing on a Miro board together with {{rice and…}}
 
 %% u0142 %%
 Seeker: We literally can't verbalize. We're getting…
@@ -227,7 +227,7 @@ Seeker: Or in another one we can only write, but we send it to Tim, and he disto
 Kenzo: Right.
 
 %% u0146-u0147 %%
-Seeker: You can say [[Trent they get there's a little bit]], or maybe the words get scrambled. I was just thinking, Roll20, you could probably use it for things it's not intended for by messing with it, like using maps that aren't maps, but we still have tokens we can move around. So… no.
+Seeker: You can say {{Trent they get there's a little bit}}, or maybe the words get scrambled. I was just thinking, Roll20, you could probably use it for things it's not intended for by messing with it, like using maps that aren't maps, but we still have tokens we can move around. So… no.
 
 %% u0148 %%
 Kenzo: That's cool.
@@ -248,7 +248,7 @@ Wellby: Exactly emotional states, for example.
 DM: You can also.
 
 %% u0154-u0155 %%
-Seeker: And you can actually [[run them]]. I love that.
+Seeker: And you can actually {{run them}}. I love that.
 
 %% u0156-u0157 %%
 DM: You can use animated GIFs as maps as well. So if I can figure out a good way to make an animated one that was constantly changing, that would be perfect for the Feywild or something.
@@ -299,7 +299,7 @@ Kenzo: I love—actually, as we're exploring what we think is a map, we're explo
 Seeker: You know, it could be both, too, and we didn't even know it. Yes, it could represent a physical space and higher-order space. I'm happy to be here with you guys. Into it.
 
 %% u0180-u0182 %%
-Kenzo: Well, Eric, it's funny, right as you popped in I was explicitly—[[I think I contribute because I'll send that out]]. There were going to be some cool digital tools we could use to represent these abstract roleplaying elements, and I was like, Eric! Then you basically conjured and appeared right as we started talking about it. Awesome. Yeah, I think this is very exciting. Actually, Tim, do any of the other characters—I guess Seeker would probably know about Plane of Magic stuff pretty well, right?
+Kenzo: Well, Eric, it's funny, right as you popped in I was explicitly—{{I think I contribute because I'll send that out}}. There were going to be some cool digital tools we could use to represent these abstract roleplaying elements, and I was like, Eric! Then you basically conjured and appeared right as we started talking about it. Awesome. Yeah, I think this is very exciting. Actually, Tim, do any of the other characters—I guess Seeker would probably know about Plane of Magic stuff pretty well, right?
 
 %% u0183 %%
 Seeker: That's a whole other—no.
@@ -341,13 +341,13 @@ Seeker: I don't really remember that well. Also, I watched most, I think, of the
 Delwath: Me.
 
 %% u0206 %%
-Seeker: [[Other teams later]], and it was pretty good, but also totally distorts my memory of the actual novel.
+Seeker: {{Other teams later}}, and it was pretty good, but also totally distorts my memory of the actual novel.
 
 %% u0207 %%
 Wellby: Sure.
 
 %% u0208-u0209 %%
-Seeker: The novel was too long, I think. [[Yes, it's doing]]—I enjoyed it, and it was, I think, completely different.
+Seeker: The novel was too long, I think. {{Yes, it's doing}}—I enjoyed it, and it was, I think, completely different.
 
 %% u0210-u0212 %%
 DM: I enjoyed it, but it was long, much longer than it needed to be. It was one of those books that I enjoyed, that I read quickly.
@@ -359,7 +359,7 @@ Seeker: But yeah, Piranesi is fun, cleverly constructed, and has a nice take on 
 Kenzo: So I think, in conclusion, we need to get powerful enough or like find enough cool items to actually start doing this Tim.
 
 %% u0215-u0216 %%
-DM: Yeah. [[Lanes]]—there'll be some things that might happen in the not too, too, too distant future.
+DM: Yeah. {{Lanes}}—there'll be some things that might happen in the not too, too, too distant future.
 
 %% u0217-u0218 %%
 Delwath: But going to the Plane of Magic or the Plane of Souls is kind of dangerous.
@@ -371,7 +371,7 @@ DM: Yeah. So you probably don't want to do it right away.
 Seeker: Oh I'm still in.
 
 %% u0222-u0223 %%
-DM: [[Level up]], probably this session or next session. So you're getting there.
+DM: {{Level up}}, probably this session or next session. So you're getting there.
 
 %% u0224 %%
 Seeker: Well, I didn't I didn't even look at the.
@@ -392,13 +392,13 @@ Wellby: …the case for all species in Taelgar, all sentient species, that there
 DM: Ah.
 
 %% u0231-u0233 %%
-Delwath: Yeah, [[these species don't have]]—according to all the things we made up. In our various… Tim and I have been making up lots of things.
+Delwath: Yeah, {{these species don't have}}—according to all the things we made up. In our various… Tim and I have been making up lots of things.
 
 %% u0234-u0238 %%
 DM: So it's complicated, but yes, many species have no afterlife. Everybody, when they die, their soul goes—every single creature who has any sort of consciousness at all, their soul goes somewhere. But for many of them it just fades away into the fabric of the universe. Awesome, right? Whereas unless a god or demon comes to collect your soul, then it just fades away.
 
 %% u0239 %%
-Wellby: I'm writing this down partly as David the human trying to make sense of Wellby's bloodthirstiness, and some explanation for it which is more than just David the human's [[blip there]].
+Wellby: I'm writing this down partly as David the human trying to make sense of Wellby's bloodthirstiness, and some explanation for it which is more than just David the human's {{blip there}}.
 
 %% u0240 %%
 Delwath: And I.
@@ -446,19 +446,19 @@ Unknown: Very cool.
 DM: Ah, I was just trying to do one last minute thing, but we should probably get started.
 
 %% u0266 %%
-Seeker: You can take your time, [[Tim, it'll…]]
+Seeker: You can take your time, {{Tim, it'll…}}
 
 %% u0267-u0268 %%
 Kenzo: Yeah, you can do it, you can take your time. I think we can hang out for a second. So…
 
 %% u0269-u0272 %%
-Wellby: [[Next, I think, having this week]]—I fractured my skull. So I had the trunk of my car open and the dog in, and I leaned forward to adjust something on the dog. But it was just a couple inches lower than I expected because of snow, and that little latchy thing, the thing that goes in [[our lip]], smashed into my frontal sinus bone.
+Wellby: {{Next, I think, having this week}}—I fractured my skull. So I had the trunk of my car open and the dog in, and I leaned forward to adjust something on the dog. But it was just a couple inches lower than I expected because of snow, and that little latchy thing, the thing that goes in {{our lip}}, smashed into my frontal sinus bone.
 
 %% u0273 %%
 Seeker: That's awful.
 
 %% u0274-u0278 %%
-Wellby: Luckily slash unluckily, there's this hollow bone right above your eye, with your sinus inside. So I dented the front, the world side of this bone, and I didn't, luckily, break the brain side of it. [[Like head injury side effects]], but I've been out of it all weekend. It's really strange too, because after a week on some heavy-duty pain meds, there's part of me that's like, well, do I feel really out of it right now because I seriously injured my brain or because I've been taking lots of drugs?
+Wellby: Luckily slash unluckily, there's this hollow bone right above your eye, with your sinus inside. So I dented the front, the world side of this bone, and I didn't, luckily, break the brain side of it. {{Like head injury side effects}}, but I've been out of it all weekend. It's really strange too, because after a week on some heavy-duty pain meds, there's part of me that's like, well, do I feel really out of it right now because I seriously injured my brain or because I've been taking lots of drugs?
 
 %% u0279 %%
 Seeker: Oh man.
@@ -482,7 +482,7 @@ Wellby: Yeah, okay. Mostly now it just feels like an occasional headache—occas
 Unknown: Concussion.
 
 %% u0287 %%
-Wellby: Yeah, probably not, but that's good. Maybe. [[And I know.]]
+Wellby: Yeah, probably not, but that's good. Maybe. {{And I know.}}
 
 %% u0288 %%
 Kenzo: It doesn't look like you have a wound.
@@ -515,7 +515,7 @@ Delwath: Yeah.
 Wellby: Yes, it is weird.
 
 %% u0298 %%
-Delwath: [[Cause a weird]], okay.
+Delwath: {{Cause a weird}}, okay.
 
 %% u0299 %%
 Kenzo: Wow.

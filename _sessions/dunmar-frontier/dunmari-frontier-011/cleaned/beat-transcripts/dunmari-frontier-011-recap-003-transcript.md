@@ -140,7 +140,7 @@ Kenzo: Can you collapse part of the keep on him?
 Seeker: Only if part of it is structurally compromised pretty severely already, which doesn't seem to be the case, right?
 
 %% u1031-u1035 %%
-DM: [[Just got bad]]—no, the second floor seems completely intact. The third floor, the roof, is maybe not structurally completely sound, but it certainly doesn't look like there's, at least from a distance in the dark, major structural weaknesses of the second floor or third floor.
+DM: {{Just got bad}}—no, the second floor seems completely intact. The third floor, the roof, is maybe not structurally completely sound, but it certainly doesn't look like there's, at least from a distance in the dark, major structural weaknesses of the second floor or third floor.
 
 %% u1036-u1037 %%
 Kenzo: We've got a couple options here. Either we wait and see what it does, or we go in now.
@@ -155,7 +155,7 @@ Kenzo: Oh yeah, wait, I know that.
 DM: No, I can explain.
 
 %% u1043 %%
-Kenzo: [[These points for the party was popular magic the target speculating poisoned three leaders for the resistance communities.]]
+Kenzo: {{These points for the party was popular magic the target speculating poisoned three leaders for the resistance communities.}}
 
 %% u1044 %%
 DM: You can't learn its attacks. Yes, you can learn its resistances and immunities if you want to spend a ki point. I'll say you could have done that.
@@ -176,7 +176,7 @@ Delwath: Do you get those back on a short rest? I do, yes. I mean, I wonder if a
 Kenzo: I wouldn't mind getting a short rest to get some modalities back. That'd be...
 
 %% u1051 %%
-DM: [[Under acids. Dr.]]
+DM: {{Under acids. Dr.}}
 
 %% u1052 %%
 Kenzo: Jeez. So this thing, it's resistant to fire, cold, lightning, and is immune to poison.
@@ -335,7 +335,7 @@ DM: Yes, except that after a certain point, it will get dark, and Wellby won't b
 Delwath: Well...
 
 %% u1141-u1142 %%
-Kenzo: I mean, or Wellby, you could just stay in—oh wait, because it's dark, and you can't see because [[the night dinner]].
+Kenzo: I mean, or Wellby, you could just stay in—oh wait, because it's dark, and you can't see because {{the night dinner}}.
 
 %% u1143 %%
 DM: Yeah, it's getting dark. Neither you nor Wellby have night vision.
@@ -404,7 +404,7 @@ DM: So over the course of an hour, as the sun sets and full darkness takes hold,
 DM: On the way, it smacks another one of these gnoll zombie creatures out of the way, which seem to just be following it around, almost like large versions of flies. It doesn't seem to be paying that much attention, and it grabs two dead carcasses of antelopes and drags them into the center of the room. Actually, now at this point, make a Stealth check.
 
 %% u1177 %%
-Kenzo: [[12 years invisible]].
+Kenzo: {{12 years invisible}}.
 
 %% u1178 %%
 Unknown: Now, as well.
@@ -440,7 +440,7 @@ Wellby: Pick up and take somewhere else.
 DM: More like for somebody to pick up and take somewhere else. How long do you want to keep watching?
 
 %% u1205-u1208 %%
-Wellby: I want to go right back. Okay, so I'll relate everything that I saw and just really emphasize the grossness. [[Reading]].
+Wellby: I want to go right back. Okay, so I'll relate everything that I saw and just really emphasize the grossness. {{Reading}}.
 
 %% u1209 %%
 Unknown: During...
@@ -554,7 +554,7 @@ Delwath: These are full-grown antelopes, right? They're not like...?
 DM: Yeah.
 
 %% u1274-u1275 %%
-Kenzo: I appreciate Seeker—Eric's [[hierarchy]] here, but I think we might just have to hit this with our sticks.
+Kenzo: I appreciate Seeker—Eric's {{hierarchy}} here, but I think we might just have to hit this with our sticks.
 
 %% u1276 %%
 Delwath: I think so, too.
@@ -653,7 +653,7 @@ Seeker: One other point: it obviously draws some of its power from heat, because
 Unknown: Yeah.
 
 %% u1332-u1333 %%
-Kenzo: The room that we were looking at, you know, [[how many were there from heaven]]?
+Kenzo: The room that we were looking at, you know, {{how many were there from heaven}}?
 
 %% u1334-u1339 %%
 DM: So there is the entrance to the chapel. There's the main hallway, and then you could see, as you came around the corner, there's another room that's like an antechamber or something, or a kitchen or a pantry. And there's another door there. So...

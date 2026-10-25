@@ -107,7 +107,7 @@ D3: Guardian.
 
 Iron golem with a glowing red key in its chest stands under a lava waterfall. Giant flaming metal bull beside it. 
 
-He heals 6d10 HP every turn, from the lava, unless pushed out. There is a lever on the wall next to the waterfall that lowers a volcanic glass shunt, for maintenance. This stops the flow of lava for 10 minutes, but then the shunt melts. Stuck and slightly melted, requires a DC 20 Athletics check to move (requires an Action). 
+He heals 6d10 HP every turn, from the lava, unless pushed out. There is a lever on the wall next to the waterfall that lowers a volcanic glass shunt, for maintenance. This stops the flow of lava immediately but the room and the rest of the lava takes ~10-15 minutes to drain. Stuck and slightly melted, requires a DC 20 Athletics check to move (requires an Action). Once the lava drains the magma guys will leave. 
 
 [Iron golem](https://www.dndbeyond.com/monsters/5195090-iron-golem)
 [Blaze gorgon](https://www.dndbeyond.com/monsters/5194932-brazen-gorgon)

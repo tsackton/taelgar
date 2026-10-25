@@ -14,7 +14,7 @@
 [u0014 | 00:01:03.899-00:01:13.599 | DM] Who casts a spell, and as he drifts off to sleep, He speaks with… Sorry, Tiberius. He speaks with…
 [u0015 | 00:01:14.599-00:01:16.699 | DM] I'm just forgetting all the names here.
 [u0016 | 00:01:17.479-00:01:21.919 | DM] He speaks with Tristan Brighteyes, the Windcaller who is traveling with you.
-[u0017 | 00:01:24.049-00:01:29.919 | DM] who tells him that you are moving quickly across the [[Iran River Basin]].
+[u0017 | 00:01:24.049-00:01:29.919 | DM] who tells him that you are moving quickly across the {{Iran River Basin}}.
 [u0018 | 00:01:30.269-00:01:33.889 | DM] And should be arriving in the Chataan Mountains shortly.
 [u0019 | 00:01:34.689-00:01:40.419 | DM] And from everything he's seen, He's never seen a… more…
 [u0020 | 00:01:40.879-00:01:44.359 | DM] Confident and put-together group of adventurers.
@@ -55,7 +55,7 @@
 [u0055 | 00:05:02.229-00:05:08.199 | DM] Having allowed Fausto to possess and control large quantities of unlicensed chaos.
 [u0056 | 00:05:09.329-00:05:15.869 | DM] And that, from now on, processed chalyte will only be produced.
 [u0057 | 00:05:16.009-00:05:17.179 | DM] By the Windcallers.
-[u0058 | 00:05:18.779-00:05:20.479 | DM] [[Or buyers that they license.]]
+[u0058 | 00:05:18.779-00:05:20.479 | DM] {{Or buyers that they license.}}
 [u0059 | 00:05:21.309-00:05:26.819 | DM] Anyone found in possession of Chalyte without A Windcaller license.
 [u0060 | 00:05:27.059-00:05:28.129 | DM] would be exiled.
 [u0061 | 00:05:31.949-00:05:37.289 | DM] As these runners… Travel across the city.
@@ -223,7 +223,7 @@
 [u0223 | 00:22:36.780-00:22:48.729 | Kenzo] Anyways, Tim, this plot part is just, like, it's very simple for Kenzo, he just wants to feel like there's more assurances that what was promised is gonna be delivered upon. This is all getting a little hand-wavy and a little weird right now, so….
 [u0224 | 00:22:49.300-00:22:50.570 | Kenzo] If it's, ….
 [u0225 | 00:22:50.570-00:22:59.899 | DM] Yeah, I mean, the Magistros likes you guys, he's not trying to downplay you, he's just trying to, you know, explain that he is not…
-[u0226 | 00:23:00.400-00:23:04.500 | DM] the absolute divine… he does not own all the land in Chardon, and [[he is not land]]….
+[u0226 | 00:23:00.400-00:23:04.500 | DM] the absolute divine… he does not own all the land in Chardon, and {{he is not land}}….
 [u0227 | 00:23:04.500-00:23:10.430 | Kenzo] What is his estimate… what is his time estimate on, on just when this will start tightening up a little bit more?
 [u0228 | 00:23:10.960-00:23:17.089 | Kenzo] Because we don't have a calendar, so if everybody's down here, just stay up here for, like, a week or two or whatever while we just, like, wait for the politics to play out.
 [u0229 | 00:23:17.290-00:23:24.339 | Kenzo] Like, Kenzo just doesn't want to leave this unguarded chalyte mine for whoever the fuck right now. You know, we've done a lot of work here.
@@ -292,8 +292,8 @@
 [u0292 | 00:29:07.050-00:29:13.480 | DM] I mean, these are… this is all… Almost everything along this… Stretch of the river is…
 [u0293 | 00:29:16.370-00:29:21.000 | DM] Low-quality housing. It's, you know, this is like the…
 [u0294 | 00:29:21.130-00:29:28.870 | DM] even worse area. This is, like, the part of the city that doesn't see any benefit from chalyte. It's much worse than where Kenzo grew up.
-[u0295 | 00:29:29.300-00:29:34.199 | DM] … [[Unclear exactly how we use…]]
-[u0296 | 00:29:34.370-00:29:37.880 | DM] [[Is getting the land he wants to trade for you]], but, …
+[u0295 | 00:29:29.300-00:29:34.199 | DM] … {{Unclear exactly how we use…}}
+[u0296 | 00:29:34.370-00:29:37.880 | DM] {{Is getting the land he wants to trade for you}}, but, …
 [u0297 | 00:29:39.840-00:29:45.819 | DM] I don't think Kenzo has particular moral qualms about however he might go passing it on.
 [u0298 | 00:29:47.080-00:29:51.710 | Kenzo] I'm sorry, this is, in exchange for… he's getting this land in exchange for what?
 [u0299 | 00:29:51.710-00:29:56.759 | DM] He wants you to turn over the two best refineries to the Windcallers.
@@ -339,7 +339,7 @@
 [u0339 | 00:33:07.540-00:33:21.790 | Kenzo] Totally, but right now, if the Emperor has the deciding vote, he… they can just, at any point, decide to crush the workers. They could just be like, oh, well, actually, we're gonna take over control of all of the chalyte refinery operations. Now the Windcallers are gonna run the whole thing, right?
 [u0340 | 00:33:21.790-00:33:30.779 | Wellby] I think so, but, like, that's where the labor organizing side of it comes through. Like, if they decide to do that, and labor's really well organized, then they can just stop working.
 [u0341 | 00:33:32.360-00:33:36.680 | Kenzo] But what about all of the, AI, you know, chalyte?
-[u0342 | 00:33:36.820-00:33:39.859 | DM] [[Natural capabilities]] that are taking over the whole thing, you know?
+[u0342 | 00:33:36.820-00:33:39.859 | DM] {{Natural capabilities}} that are taking over the whole thing, you know?
 [u0343 | 00:33:41.960-00:33:44.930 | Seeker] Right, the workers get replaced by Chalyte.
 [u0344 | 00:33:45.080-00:33:46.560 | Seeker] Zombies, yeah, exactly.
 [u0345 | 00:33:47.800-00:33:49.859 | Kenzo] This still feels like a weird deal, y'all.
@@ -617,7 +617,7 @@
 [u0617 | 00:57:56.080-00:57:57.469 | Kenzo] Land is….
 [u0618 | 00:57:58.060-00:58:05.470 | DM] Right, most of this land is… is slums right now. It's like slum apartments. Or it's rubble, because it was destroyed in the fighting.
 [u0619 | 00:58:05.470-00:58:12.669 | Kenzo] Yeah. Kenzo, the first, like, bunch of years of his retirement, is gonna come here, and he's just gonna live here, and make this awesome. That's what he's gonna do.
-[u0620 | 00:58:13.300-00:58:17.039 | Kenzo] And then he's gonna go to the [[inside place]] and work with that dude that he said he was gonna train.
+[u0620 | 00:58:13.300-00:58:17.039 | Kenzo] And then he's gonna go to the {{inside place}} and work with that dude that he said he was gonna train.
 [u0621 | 00:58:17.040-00:58:19.310 | DM] Whoa, you gotta do that. He's gotta….
 [u0622 | 00:58:19.350-00:58:24.879 | Kenzo] he's gonna come looking for you if you don't do something in, like, 6 to 10 months. Yeah, that's gonna happen.
 [u0623 | 00:58:24.880-00:58:29.479 | DM] And plus, whatever happened to Kenzo's girlfriend in Tollen, you just forgot about her, I guess?
@@ -641,7 +641,7 @@
 [u0641 | 01:00:05.730-01:00:13.840 | Wellby] We're going to the Plane of Fire next? I think… If there's any, like, …
 [u0642 | 01:00:14.630-01:00:17.639 | Wellby] You understand, like, what are we gonna find there?
 [u0643 | 01:00:18.280-01:00:20.759 | Wellby] So, trying to research any of that, or…
-[u0644 | 01:00:21.310-01:00:25.289 | Wellby] talk to people at the [[University of Bend]], or find maps of….
+[u0644 | 01:00:21.310-01:00:25.289 | Wellby] talk to people at the {{University of Bend}}, or find maps of….
 [u0645 | 01:00:25.290-01:00:27.650 | Seeker] how to get around, but….
 [u0646 | 01:00:27.650-01:00:28.140 | Wellby] just what.
 [u0647 | 01:00:28.140-01:00:29.280 | Seeker] Extremely charred maps.
@@ -686,7 +686,7 @@
 [u0686 | 01:05:10.310-01:05:11.820 | DM] things in Chardon…
 [u0687 | 01:05:12.550-01:05:19.290 | DM] you know, are seeming to calm down a little. Kenzo's pretty happy with the state of the negotiations here.
 [u0688 | 01:05:19.410-01:05:29.830 | DM] … the… boards, the board of the refining Corporation has been appointed, and there's been negotiations about investments, and…
-[u0689 | 01:05:30.630-01:05:37.160 | DM] a lot of conversation between the board and [[chart and Kenzo]] about Invest, you know, essentially.
+[u0689 | 01:05:30.630-01:05:37.160 | DM] a lot of conversation between the board and {{chart and Kenzo}} about Invest, you know, essentially.
 [u0690 | 01:05:37.850-01:05:42.569 | DM] Buying back some of the properties that you now technically own, and using the…
 [u0691 | 01:05:43.280-01:05:49.360 | DM] Proceeds, rather than giving you wealth to Rebuild a bunch of apartments.
 [u0692 | 01:05:49.600-01:05:51.550 | DM] That are basically collapsed.
@@ -827,7 +827,7 @@
 [u0827 | 01:18:29.100-01:18:29.560 | DM] Quickly.
 [u0828 | 01:18:31.210-01:18:37.550 | Delwath] … At current pace, it'll be 5 more days until we arrive.
 [u0829 | 01:18:44.990-01:18:47.770 | DM] I… I hope that is in time.
-[u0830 | 01:18:48.380-01:18:52.600 | DM] It's difficult to get reliable estimates of the [[Plaguands]].
+[u0830 | 01:18:48.380-01:18:52.600 | DM] It's difficult to get reliable estimates of the {{Plaguands}}.
 [u0831 | 01:18:53.710-01:18:54.840 | DM] Pace.
 [u0832 | 01:18:55.640-01:18:58.670 | DM] But the last Scouts that I heard of, anyway.
 [u0833 | 01:19:02.940-01:19:04.440 | DM] Well, it's hard to say.
@@ -1026,7 +1026,7 @@
 [u1026 | 01:32:10.490-01:32:11.540 | Seeker] But, I mean….
 [u1027 | 01:32:11.540-01:32:15.539 | DM] The odds of you actually dying from a mishap are really low.
 [u1028 | 01:32:15.840-01:32:16.870 | Seeker] Really low, yeah.
-[u1029 | 01:32:17.030-01:32:23.840 | Seeker] We rested in our sanctum, right? [[Kit, Eric, and I, both Kit,]] Seeker, and Delwath both get our 85 temporary hit points?
+[u1029 | 01:32:17.030-01:32:23.840 | Seeker] We rested in our sanctum, right? {{Kit, Eric, and I, both Kit,}} Seeker, and Delwath both get our 85 temporary hit points?
 [u1030 | 01:32:24.590-01:32:25.450 | DM] Sure.
 [u1031 | 01:32:26.280-01:32:27.510 | Seeker] Nice, nice.
 [u1032 | 01:32:27.980-01:32:30.600 | Delwath] And then, I'll cast Aid, just in case.
@@ -1116,7 +1116,7 @@
 [u1116 | 01:37:24.520-01:37:33.009 | DM] So… so it… when it's… when it's created, the bridge lasts for… for 7 days.
 [u1117 | 01:37:33.860-01:37:38.060 | DM] But the ends cannot move once it's been created.
 [u1118 | 01:37:39.640-01:37:41.570 | DM] But also remember that
-[u1119 | 01:37:41.850-01:38:00.719 | DM] There's a note, the intention is to allow some [[teleportation planeship projects]], but not create a mechanism to, e.g, teleport an army by opening a bridge, flying Vindristjarna elsewhere, and having thousands of people walk across the bridge. I haven't quite figured out the right mechanical way to limit, but want to be careful.
+[u1119 | 01:37:41.850-01:38:00.719 | DM] There's a note, the intention is to allow some {{teleportation planeship projects}}, but not create a mechanism to, e.g, teleport an army by opening a bridge, flying Vindristjarna elsewhere, and having thousands of people walk across the bridge. I haven't quite figured out the right mechanical way to limit, but want to be careful.
 [u1120 | 01:38:01.110-01:38:04.829 | Delwath] We won't try and teleport an army with the Rainbow Bridge.
 [u1121 | 01:38:04.830-01:38:14.170 | Seeker] There's some kind of, like, unknown, but clearly limited, like, load-bearing capacity where you just… everyone falls through if there's too many people on it, or something.
 [u1122 | 01:38:17.210-01:38:24.320 | Delwath] Okay, well, I had forgotten about that note, so I was literally trying to think of a way to teleport an army, but let's, let's teleport there.
@@ -1211,7 +1211,7 @@
 [u1211 | 01:44:04.290-01:44:10.180 | DM] Plateau is… stretches for a few hundred miles north… South.
 [u1212 | 01:44:11.760-01:44:14.470 | DM] Could be aiming for anywhere.
 [u1213 | 01:44:17.180-01:44:17.610 | Seeker] Oh, so….
-[u1214 | 01:44:17.610-01:44:19.600 | DM] We know [[we crossed]] the Istaros.
+[u1214 | 01:44:17.610-01:44:19.600 | DM] We know {{we crossed}} the Istaros.
 [u1215 | 01:44:21.180-01:44:25.450 | Seeker] There's a route up onto the plateau, Like a road.
 [u1216 | 01:44:27.720-01:44:29.860 | DM] It's not… many.
 [u1217 | 01:44:30.240-01:44:32.670 | DM] There's a few cart tracks that… that…
@@ -1273,7 +1273,7 @@
 [u1273 | 01:48:32.240-01:48:35.499 | Delwath] How far is it from here to the… to the edge of the…
 [u1274 | 01:48:35.730-01:48:38.280 | Delwath] No Man's Land, it's the edge of the Plaguelands.
 [u1275 | 01:48:40.930-01:48:49.960 | DM] Oh, that, that's… That's not far, that's… … …
-[u1276 | 01:48:51.400-01:48:57.580 | DM] Hardly anyone goes beyond the course of the [[DORA]], and that's… 40 miles from here.
+[u1276 | 01:48:51.400-01:48:57.580 | DM] Hardly anyone goes beyond the course of the {{DORA}}, and that's… 40 miles from here.
 [u1277 | 01:48:59.900-01:49:01.110 | DM] Give or take.
 [u1278 | 01:49:02.730-01:49:08.610 | DM] It's a hard river to cross, runs through a gorge for a good portion of its course, and…
 [u1279 | 01:49:09.530-01:49:13.910 | DM] beyond there, Definitely not safe lands.
@@ -1403,7 +1403,7 @@
 [u1403 | 01:58:10.490-01:58:12.220 | Wellby] Like, maybe they're, like, the….
 [u1404 | 01:58:12.220-01:58:15.410 | Seeker] Magical rainbow hobgoblins that are the peaceful kind.
 [u1405 | 01:58:15.410-01:58:16.900 | Delwath] No, those are the orcs. They just….
-[u1406 | 01:58:17.600-01:58:19.100 | Seeker] But they could be [[white]], then.
+[u1406 | 01:58:17.600-01:58:19.100 | Seeker] But they could be {{white}}, then.
 [u1407 | 01:58:19.100-01:58:29.439 | Delwath] Yeah, yeah, I see what you mean. Like, like, the same kind. Or, they could be terrified of a giant creature that has awoken and doesn't really care that they're hobgoblins and is still trying to eat them.
 [u1408 | 01:58:30.160-01:58:34.049 | Seeker] And in some cases, the enemy of our enemy is also our enemy, so we should be careful.
 [u1409 | 01:58:34.050-01:58:35.850 | Wellby] Also true, yes.
@@ -1664,7 +1664,7 @@
 [u1664 | 02:21:40.550-02:21:48.189 | DM] … moving at an angle to sort of approach this cloud from the side. It's maybe…
 [u1665 | 02:21:49.510-02:21:57.970 | DM] 400 or 500 feet long, maybe two, three hundred… probably a little bigger than that. It's like… …
 [u1666 | 02:22:00.070-02:22:07.320 | DM] No, it's probably more like a hundred… and 20… feet wide, and…
-[u1667 | 02:22:10.880-02:22:19.290 | DM] … 100 and, like, 250 feet long, something like that. Like, it's like [[Vincent's size]], the ash cloud.
+[u1667 | 02:22:10.880-02:22:19.290 | DM] … 100 and, like, 250 feet long, something like that. Like, it's like {{Vincent's size}}, the ash cloud.
 [u1668 | 02:22:20.130-02:22:20.970 | DM] …
 [u1669 | 02:22:24.040-02:22:31.020 | DM] As you approach… … You also begin to smell this… Stench.
 [u1670 | 02:22:32.150-02:22:42.909 | DM] It's like… A mix of… Ash, like, cigarette smoke, and smoke. Like, wood smoke.
@@ -1716,7 +1716,7 @@
 [u1716 | 02:26:04.450-02:26:06.689 | DM] Animals, but you couldn't… you can't.
 [u1717 | 02:26:06.690-02:26:07.290 | Wellby] Thank you.
 [u1718 | 02:26:07.290-02:26:09.110 | DM] Beast Sense ability.
-[u1719 | 02:26:09.290-02:26:11.820 | DM] [[That must be transport into their mind.]]
+[u1719 | 02:26:09.290-02:26:11.820 | DM] {{That must be transport into their mind.}}
 [u1720 | 02:26:21.820-02:26:24.150 | Wellby] I don't know, in that case, why don't I…
 [u1721 | 02:26:28.970-02:26:32.640 | Wellby] If I use the Beast Sense ability, I stop being invisible.
 [u1722 | 02:26:33.350-02:26:37.619 | DM] Nope, because it's neither a spell, nor an attack, nor….
@@ -2076,7 +2076,7 @@
 [u2076 | 02:52:12.900-02:52:13.930 | DM] for sleep.
 [u2077 | 02:52:14.750-02:52:15.750 | DM] I don't know.
 [u2078 | 02:52:16.130-02:52:17.299 | Delwath] I'm just looking.
-[u2079 | 02:52:19.610-02:52:25.120 | Delwath] Each creature of your choice in a 5-foot radius sphere centered in a point within range [[must exceed most of them]].
+[u2079 | 02:52:19.610-02:52:25.120 | Delwath] Each creature of your choice in a 5-foot radius sphere centered in a point within range {{must exceed most of them}}.
 [u2080 | 02:52:25.570-02:52:26.290 | Delwath] Now.
 [u2081 | 02:52:29.820-02:52:35.000 | Delwath] And it's a 5-foot radius, so I could do… I mean, should I do everybody within a 5-foot radius?
 [u2082 | 02:52:36.290-02:52:37.769 | Seeker] Try to get one.
@@ -2185,7 +2185,7 @@
 [u2185 | 02:58:09.930-02:58:11.480 | DM] Well, you're still visible.
 [u2186 | 02:58:11.980-02:58:14.749 | Kenzo] Oh, then I go fucking merge into a rock or something.
 [u2187 | 02:58:14.750-02:58:15.600 | Delwath] But we're hidden, though.
-[u2188 | 02:58:16.240-02:58:18.409 | Wellby] [[Can possibly do with stealth is 27.]]
+[u2188 | 02:58:16.240-02:58:18.409 | Wellby] {{Can possibly do with stealth is 27.}}
 [u2189 | 02:58:18.410-02:58:23.400 | Delwath] That's true. No, you know what? Wellby will be hidden. Yeah. I'll be… Wellby is hidden.
 [u2190 | 02:58:23.400-02:58:26.279 | DM] Well, he hides behind some rocks.
 [u2191 | 02:58:26.510-02:58:31.380 | DM] And as the screech goes up, you see, shooting into the air.
@@ -2203,7 +2203,7 @@
 [u2203 | 02:59:00.670-02:59:01.999 | Wellby] Soul Sight's a good idea.
 [u2204 | 02:59:02.000-02:59:02.420 | Kenzo] Soul Sight.
 [u2205 | 02:59:02.420-02:59:04.800 | DM] What's the range in SoulSight?
-[u2206 | 02:59:05.120-02:59:06.090 | Kenzo] [[Spell the CM.]]
+[u2206 | 02:59:05.120-02:59:06.090 | Kenzo] {{Spell the CM.}}
 [u2207 | 02:59:07.530-02:59:10.040 | DM] No, I mean… It has a range.
 [u2208 | 02:59:11.020-02:59:12.009 | Kenzo] Let's see….
 [u2209 | 02:59:17.740-02:59:21.190 | DM] I can double check. I think it's probably too far away at the moment.
@@ -2392,7 +2392,7 @@
 [u2392 | 03:10:37.690-03:10:40.539 | Delwath] I'm gonna… I'm gonna… I'm gonna cast Suggestion on this guy.
 [u2393 | 03:10:42.980-03:10:43.770 | DM] Okay.
 [u2394 | 03:10:44.100-03:10:47.679 | DM] So you all briefly flash visible.
-[u2395 | 03:10:49.630-03:10:51.070 | Kenzo] [[Kind of still astral planning.]]
+[u2395 | 03:10:49.630-03:10:51.070 | Kenzo] {{Kind of still astral planning.}}
 [u2396 | 03:10:51.330-03:10:54.070 | Delwath] We're still hidden. We're, like, hidden behind rocks.
 [u2397 | 03:10:54.380-03:10:55.130 | DM] Yup.
 [u2398 | 03:10:58.850-03:11:00.629 | DM] Well, the suggestion.
@@ -2580,9 +2580,9 @@
 [u2580 | 03:23:21.590-03:23:24.959 | DM] A few days after Apollyon died, when his prison unraveled.
 [u2581 | 03:23:26.830-03:23:33.459 | Kenzo] I think we'd be really scared to learn… share stories about that ooze. That ooze sounds really scary.
 [u2582 | 03:23:33.730-03:23:36.230 | Wellby] Yeah, I'm so scared I can't even ask a question.
-[u2583 | 03:23:36.770-03:23:38.060 | DM] [[We do not.]]
+[u2583 | 03:23:36.770-03:23:38.060 | DM] {{We do not.}}
 [u2584 | 03:23:38.060-03:23:38.769 | Delwath] I do need to know….
-[u2585 | 03:23:38.770-03:23:39.870 | DM] [[near that city.]]
+[u2585 | 03:23:38.770-03:23:39.870 | DM] {{near that city.}}
 [u2586 | 03:23:40.600-03:23:44.850 | DM] But… Once the Empress of Chaos.
 [u2587 | 03:23:45.980-03:23:49.399 | DM] takes control of the magic. We will control everything!
 [u2588 | 03:23:50.010-03:23:54.860 | DM] She will control everything. We are but her humble servants, as will you be.

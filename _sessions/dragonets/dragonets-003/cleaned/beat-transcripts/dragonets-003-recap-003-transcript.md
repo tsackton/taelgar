@@ -284,7 +284,7 @@ DM: That's the—I got it. Little Tony, you are up, and after you are up, the Wa
 Little Tony: Awesome, so Little Tony takes a deep breath and uses his Starry Form ability, which in this context, a starry glowing constellation of a wise old hermit crab wearing a crown appears on his chest, giving him advantage on all concentration checks.
 
 %% u1880-u1881 %%
-DM: Hell yeah. [[Restaurant.]]
+DM: Hell yeah. {{Restaurant.}}
 
 %% u1882-u1888 %%
 Little Tony: That's a bonus action, and then I am going to try Dispel Magic on the laser beam part of the dreadnought, specifically. And for Little Tony, the way Dispel Magic works is everything in the world talks to him, but magic things don't talk to him, and he's deeply offended by this because magical things think they're too good for him. And so he…
@@ -299,7 +299,7 @@ Zeno: Okay.
 Little Tony: He's going to use that.
 
 %% u1892 %%
-DM: [[Good Friday.]]
+DM: {{Good Friday.}}
 
 %% u1893 %%
 Zeno: 10.
@@ -422,7 +422,7 @@ Heska: Let's shoot the laser.
 Sculpit: Yeah.
 
 %% u1956 %%
-DM: [[At least I’ve been open.]]
+DM: {{At least I’ve been open.}}
 
 %% u1957 %%
 Sculpit: Yeah, that engine thing.
@@ -446,7 +446,7 @@ Little Tony: Flying without wings.
 Sculpit: Why do they…? Totally sacrilegious.
 
 %% u1964 %%
-Zeno: [[plastic.]]
+Zeno: {{plastic.}}
 
 %% u1965 %%
 DM: Nature and Nature's God. Okay.
@@ -509,7 +509,7 @@ DM: You can totally take Steady Aim with a laser beam. 100% you can. You can do 
 Heska: Okay, that's a… that's 15…
 
 %% u1995 %%
-Zeno: [[stood.]]
+Zeno: {{stood.}}
 
 %% u1996 %%
 DM: 15 attack roll.
@@ -674,10 +674,10 @@ DM: Oh, yeah, yeah, yeah, totally. Okay, but make an Arcana check to try to succ
 Sculpit: 29.
 
 %% u2083-u2087 %%
-DM: All right. So, Sculpit, as you sit in your super comfortable favorite chair—God, you wish you could take this throne home with you—the Wanderer, giant fucking statue, still has his arm stretched out. Laser beam shot out of the eyeball, but now he's with a fingertip pointed out after saying ‘Fuck you.’ And then you see shimmering, shimmering, shimmering. And then two giant fucking replica Wanderers appear on either side of the main Wanderer, all pointed at the [[Chaelite]]—or at the dreadnought—saying, ‘Fuck you.’ So you have succeeded. There's now three Wanderers on the shore.
+DM: All right. So, Sculpit, as you sit in your super comfortable favorite chair—God, you wish you could take this throne home with you—the Wanderer, giant fucking statue, still has his arm stretched out. Laser beam shot out of the eyeball, but now he's with a fingertip pointed out after saying ‘Fuck you.’ And then you see shimmering, shimmering, shimmering. And then two giant fucking replica Wanderers appear on either side of the main Wanderer, all pointed at the {{Chaelite}}—or at the dreadnought—saying, ‘Fuck you.’ So you have succeeded. There's now three Wanderers on the shore.
 
 %% u2088-u2092 %%
-Sculpit: Then, with my bonus action, I will crush the ship that is grappled. [[Strong.]] Let's see, hold on, I can… While it's grappled, you can take a bonus action to crush it. Another 4d6 damage. Crappy roll, but…
+Sculpit: Then, with my bonus action, I will crush the ship that is grappled. {{Strong.}} Let's see, hold on, I can… While it's grappled, you can take a bonus action to crush it. Another 4d6 damage. Crappy roll, but…
 
 %% u2093 %%
 Sculpit: 15 damage.
@@ -695,7 +695,7 @@ DM: Does it fall? It falls. It falls and crashes beneath the sea. Well done. Alr
 Zeno: Ahem.
 
 %% u2101-u2102 %%
-DM: [[She… Not even a bunch.]]
+DM: {{She… Not even a bunch.}}
 
 %% u2103-u2104 %%
 Zeno: How close is the closest of the ships?
@@ -887,7 +887,7 @@ Little Tony: Yeah, I'll do that. Here's what I'm thinking…
 Little Tony: I've got Wall of Stone, and if I can just wrap that around, like, all of their windows, and effectively blind them…
 
 %% u2223 %%
-Zeno: [[12.30.]]
+Zeno: {{12.30.}}
 
 %% u2224-u2228 %%
 DM: Nice. Okay, but if you want, you can spend your entire action on trying to find consciousness on the ship. Is that what you're trying to do? But what are you trying to—how are you trying to figure out the location of the bridge or the…?
@@ -977,7 +977,7 @@ DM: Okay, but not, not, you know, god statue to, like, double god statue? Yeah, 
 Sculpit: 18.
 
 %% u2277 %%
-Little Tony: [[Team]] for me.
+Little Tony: {{Team}} for me.
 
 %% u2278 %%
 Heska: Oh, Zeno got a 26. That's sick.
@@ -1022,7 +1022,7 @@ Heska: Whoops. I did 26d12. I don't know. Oh, there.
 DM: That's fine, that's fine.
 
 %% u2298 %%
-Heska: [[Tommy.]]
+Heska: {{Tommy.}}
 
 %% u2299 %%
 DM: How much damage?
@@ -1166,7 +1166,7 @@ Zeno: Sound is a concentration spell.
 Zeno: So, I was thinking about using my Sick Burn, but the problem is, how can I do that? Because I'm inside the… Can we make the statue, like…?
 
 %% u2374 %%
-Zeno: [[E.]]
+Zeno: {{E.}}
 
 %% u2375 %%
 Heska: You gotta. You gotta get the.
@@ -1445,7 +1445,7 @@ DM: Also, too, remember, as a spellcaster, you can kind of cast spells through t
 Sculpit: I mean… There's something to be said for just how many lasers does it have?
 
 %% u2505-u2506 %%
-DM: How many lasers? [[Just does that.]]
+DM: How many lasers? {{Just does that.}}
 
 %% u2507 %%
 Sculpit: I've tried that.
@@ -1484,7 +1484,7 @@ DM: idea.
 Little Tony: I don't think I can even, like…
 
 %% u2521-u2525 %%
-DM: Yeah, get there. Don't rescue that. [[Our little friends.]] Good effort. Everybody, what are you doing with the Wanderer?
+DM: Yeah, get there. Don't rescue that. {{Our little friends.}} Good effort. Everybody, what are you doing with the Wanderer?
 
 %% u2526 %%
 Heska: I think we should just punch the cockpit. Those shields are down, right?
@@ -1550,7 +1550,7 @@ Sculpit: smash through and like grab anything inside the cockpit, pull it out, l
 DM: Wow.
 
 %% u2553 %%
-Little Tony: [[Looks.]]
+Little Tony: {{Looks.}}
 
 %% u2554 %%
 Heska: I know, okay, okay, okay. Can we use… So, my…
@@ -1568,7 +1568,7 @@ DM: Oh my god.
 Heska: If we use Hunter's Pounce.
 
 %% u2559-u2561 %%
-DM: Let's go. [[Two. Tube.]]
+DM: Let's go. {{Two. Tube.}}
 
 %% u2562 %%
 Heska: Hunter's Pounce the pilot out of the ship, because I'm supposed to be able to grab and…
@@ -1781,7 +1781,7 @@ DM: So it is grappled. Okay.
 Sculpit: And it takes… 12, 12 damage.
 
 %% u2668 %%
-DM: [[Called it. Or,]] Zeno.
+DM: {{Called it. Or,}} Zeno.
 
 %% u2669 %%
 Sculpit: And then I'm gonna shoot a lightning bolt.
@@ -1943,7 +1943,7 @@ DM: Yes. So the dreadnought is fucking—if it could be pissed, it is. It still 
 Sculpit: Yeah.
 
 %% u2733-u2734 %%
-Heska: No, no, because you're still call and response. You failed the save again. [[adjust.]]
+Heska: No, no, because you're still call and response. You failed the save again. {{adjust.}}
 
 %% u2735 %%
 DM: Yeah, so that laser… okay, so that laser,
@@ -1973,7 +1973,7 @@ Sculpit: Another one goes away. I have one left.
 Heska: One mirror left.
 
 %% u2747 %%
-DM: [[Fucking drunk.]]
+DM: {{Fucking drunk.}}
 
 %% u2748 %%
 Heska: So we've got one. We've got one shot at jumping on it. Then I think we need that. We should activate the shields.
@@ -2027,7 +2027,7 @@ DM: Okay?
 Little Tony: 22.
 
 %% u2780-u2783 %%
-DM: 20. All right, this is the first time you have all—okay, so all three of you successfully hit. You haven't had a perfect sync attack yet, but this may be it. Yeah, that's… [[can successfully…]]
+DM: 20. All right, this is the first time you have all—okay, so all three of you successfully hit. You haven't had a perfect sync attack yet, but this may be it. Yeah, that's… {{can successfully…}}
 
 %% u2784 %%
 Zeno: Awesome.

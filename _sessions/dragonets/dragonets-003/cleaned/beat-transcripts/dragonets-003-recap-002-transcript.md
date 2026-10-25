@@ -50,7 +50,7 @@ Little Tony: 15.
 Sculpit: Oh, no.
 
 %% u0909 %%
-Zeno: [[Summit.]]
+Zeno: {{Summit.}}
 
 %% u0910 %%
 Sculpit: I rolled a one.
@@ -242,7 +242,7 @@ Little Tony: We'll walk over and squat down next to everybody, give a thumbs up,
 Zeno: Yeah, I think that.
 
 %% u1011 %%
-Heska: [[Sky.]]
+Heska: {{Sky.}}
 
 %% u1012 %%
 Little Tony: No.
@@ -341,7 +341,7 @@ DM: So you fly out of the eyeball, and of course there are other dragonets hangi
 Little Tony: Oh, guys, that's not gonna work. The stuff in there is gonna kill you. It's gonna zap them.
 
 %% u1055 %%
-DM: Are you trying to stop anybody, or…? Because they're actively [[dragging]].
+DM: Are you trying to stop anybody, or…? Because they're actively {{dragging}}.
 
 %% u1056 %%
 Sculpit: I will, like, shout, like, there's danger below!
@@ -374,7 +374,7 @@ DM: D20?
 Little Tony: Here goes. That's a 26. What do you say? Like, ‘No, the last guy who got in there, I barely got out with his life. And it was just the lasers shooting down and the big giant statues. You know, be smart.’
 
 %% u1068-u1071 %%
-DM: 26. Even though you kind of feel like you're babbling and saying a bunch of random stuff—okay. It stops. Stops. It's like, ‘Okay, all right.’ And as you all fully get within a certain radius away from the eyeball, it… [[Let's look at it.]] Now what do you do?
+DM: 26. Even though you kind of feel like you're babbling and saying a bunch of random stuff—okay. It stops. Stops. It's like, ‘Okay, all right.’ And as you all fully get within a certain radius away from the eyeball, it… {{Let's look at it.}} Now what do you do?
 
 %% u1072 %%
 Heska: I mean, the shaman wants to talk to us.
@@ -473,7 +473,7 @@ Little Tony: Hello again? I'll say.
 DM: They both turn and snap their necks and look over. And for everybody else, again, it feels like this telepathic audience. It's like you're all in a room together, and you can see Tony talking to the two of them, and you're all kind of watching. And you can all talk to Tony, but you can't necessarily talk to them. But you're all starting to figure out how you might actually have a conversation now.
 
 %% u1131 %%
-Little Tony: [[I said it is.]] I think they're sentient. They seem to be thinking and communicating on their own.
+Little Tony: {{I said it is.}} I think they're sentient. They seem to be thinking and communicating on their own.
 
 %% u1132-u1134 %%
 DM: The two humanoids, now that it feels like actually it's possible to communicate, one of them—you sense and kind of can feel just a sense of weeping and relief. One of the humanoids just starts kind of shuddering, crying. And then the other one's kind of embracing it. And then…
@@ -635,7 +635,7 @@ Player: Yeah, why would you want to find us? Yeah. What?
 Heska: There's nothing interesting about the island, really. I mean, there is, it's great, it's our home.
 
 %% u1241-u1242 %%
-Sculpit: Wait, yeah, does—I mean, there's the performances, there's the [[track… does…]] Best singers and acrobats. There's a lot of interesting things.
+Sculpit: Wait, yeah, does—I mean, there's the performances, there's the {{track… does…}} Best singers and acrobats. There's a lot of interesting things.
 
 %% u1243 %%
 Little Tony: There is gonna be a restaurant!
@@ -653,7 +653,7 @@ Heska: In the hand?
 Zeno: You just think of a food…
 
 %% u1248-u1249 %%
-Heska: [[screen.]] We can make a moving restaurant.
+Heska: {{screen.}} We can make a moving restaurant.
 
 %% u1250 %%
 Little Tony: Awesome.
@@ -704,16 +704,16 @@ Zeno: Shaman.
 DM: Shai and Aksha are just staring at each other, just incredulous.
 
 %% u1276 %%
-Sculpit: [[Bye.]]
+Sculpit: {{Bye.}}
 
 %% u1277-u1278 %%
-DM: [[Bye. Howie,]] were you here when the clutch hatched?
+DM: {{Bye. Howie,}} were you here when the clutch hatched?
 
 %% u1279-u1280 %%
 Sculpit: Why would you say such silly things? Are you okay? Are you, like, addled a little bit?
 
 %% u1281 %%
-Little Tony: [[Beseth.]]
+Little Tony: {{Beseth.}}
 
 %% u1282 %%
 DM: the.
@@ -884,7 +884,7 @@ DM: Very hungry.
 Sculpit: It could be, like, a tourist trap restaurant that, like… like… Okay, maybe if more of these people come from…
 
 %% u1346 %%
-Little Tony: [[Press in recorded history.]] That’s true.
+Little Tony: {{Press in recorded history.}} That’s true.
 
 %% u1347 %%
 Heska: This trap restaurant is not gonna work.
@@ -911,10 +911,10 @@ Sculpit: …vision.
 DM: From…?
 
 %% u1356 %%
-Sculpit: It, like… [[Neat.]]
+Sculpit: It, like… {{Neat.}}
 
 %% u1357 %%
-Little Tony: Sky. [[Stop it.]]
+Little Tony: Sky. {{Stop it.}}
 
 %% u1358 %%
 Sculpit: …there, somewhere?
@@ -944,7 +944,7 @@ Zeno: Oh!
 Sculpit: Sort of.
 
 %% u1367-u1368 %%
-Zeno: [[minutes.]] Did it?
+Zeno: {{minutes.}} Did it?
 
 %% u1369-u1370 %%
 Sculpit: I like that.
@@ -1049,7 +1049,7 @@ DM: Huh. And then… and then what happened?
 Sculpit: We.
 
 %% u1405 %%
-Zeno: [[We'll have enough of that.]]
+Zeno: {{We'll have enough of that.}}
 
 %% u1406 %%
 Sculpit: We woke up.
@@ -1229,7 +1229,7 @@ Heska: I mean, they've had a hard…
 Sculpit: That wasn't the right choice.
 
 %% u1508 %%
-Heska: …[[road crashed.]]
+Heska: …{{road crashed.}}
 
 %% u1509 %%
 Little Tony: Are they supposed to smell like that though?
@@ -1361,7 +1361,7 @@ Heska: We don't know. Something about these…
 DM: The two of them.
 
 %% u1590 %%
-Heska: [[Cheers!]]
+Heska: {{Cheers!}}
 
 %% u1591-u1597 %%
 DM: They're like, ‘Look, we don't know exactly what's coming. It's gonna come. I think they're gonna breach the storm. We need to be ready. Everyone needs to go to safety. We're gonna try and do our best to fight it off the best that we can. We need your help, if you can—whatever you can do—but make sure everyone is safe. You don't understand the danger that's coming, and it's hard to describe it, but everybody needs to hide. You need to get everyone to safety now. There's no time.’ And you sense the gravity and the urgency. This is not a game. The few kind of sacred, serious things that have ever happened in dragonet history, of which there are very few—you feel like this is one where, if you don't do this the right way, there will be death. There will be… clutchlings… eggs… Something horrible is gonna happen. What do you do?
@@ -1415,7 +1415,7 @@ Zeno: The Groundlings Cave, that monastery that I remember from childhood…
 DM: Okay, that's a good place.
 
 %% u1619 %%
-Zeno: [[newsletter.]]
+Zeno: {{newsletter.}}
 
 %% u1620 %%
 DM: the.
@@ -1475,7 +1475,7 @@ Little Tony: Yeah.
 DM: Sure. As you start to fly back to the statue, you see something emerging from the storm. It's honestly indescribable to you in its size, and the energy that it is emanating, which reminds you of that vision of a place of no hope. Something full of despair, and terror, and horror. And you see emerging through the storm a massive…
 
 %% u1665 %%
-Zeno: [[words.]]
+Zeno: {{words.}}
 
 %% u1666-u1669 %%
 DM: You hear Shai and Aksha's voices in your heads: ‘It's a fucking dreadnought.’ Are you inside the Wanderer? Where are you? Yeah.

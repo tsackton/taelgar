@@ -89,10 +89,10 @@ Seeker: That's very helpful. Thank you.
 DM: Kenzo, are you going to run, or what are you doing?
 
 %% u1860 %%
-Kenzo: [[Am I Maria?]] Didn't anybody heal me? All right.
+Kenzo: {{Am I Maria?}} Didn't anybody heal me? All right.
 
 %% u1861-u1862 %%
-Seeker: Hey, I was about to heal you. [[Can you tell me—]]
+Seeker: Hey, I was about to heal you. {{Can you tell me—}}
 
 %% u1863 %%
 Kenzo: Oh yeah, I'll do that. I'll just drink my potion.
@@ -278,7 +278,7 @@ Delwath: 120 feet.
 DM: So yes, they would be in range of your Eldritch Blast. Okay, Kenzo.
 
 %% u1979-u1981 %%
-Kenzo: All right, [[this guy up]], man. I'm gonna go right here and quarterstaff him. Thank goodness, finally starting to roll well.
+Kenzo: All right, {{this guy up}}, man. I'm gonna go right here and quarterstaff him. Thank goodness, finally starting to roll well.
 
 %% u1982 %%
 DM: That hits.
@@ -299,7 +299,7 @@ Unknown: No.
 Kenzo: Come on, man.
 
 %% u1988-u1989 %%
-DM: You're probably—[[have honey, I'll put you at them]]. You're probably a hundred feet away.
+DM: You're probably—{{have honey, I'll put you at them}}. You're probably a hundred feet away.
 
 %% u1990-u1992 %%
 Delwath: Okay, so I'm going to move thirty. Yeah, so I'll be within ninety. I'll Hex the guy with my bonus action, then blast. Twelve.
@@ -326,7 +326,7 @@ Wellby: The normal way. Yay, and I get the Sneak—
 DM: Sneak Attack because you've got an ally there. That kills him. So Wellby's arrow strikes, this gnoll falls as it's running forward yelling.
 
 %% u2006 %%
-Wellby: [[Really when I lift my hand to Kenzo run. Oh look, I thought.]]
+Wellby: {{Really when I lift my hand to Kenzo run. Oh look, I thought.}}
 
 %% u2007-u2008 %%
 Kenzo: Oh yeah, definitely. This is the legend of Kenzo and Wellby right here.
@@ -380,7 +380,7 @@ Kenzo: All right, I will do that. I will throw it back. Do I have to roll anythi
 DM: A strike.
 
 %% u2031-u2033 %%
-Kenzo: Yeah, I fucking love this. [[Ever happens, give me.]]
+Kenzo: Yeah, I fucking love this. {{Ever happens, give me.}}
 
 %% u2034-u2037 %%
 DM: Five misses. Okay, so then this last one is going to fire a longbow at you. Wow. What's your AC?
@@ -392,7 +392,7 @@ Wellby: Fifteen. Okay, misses.
 DM: Okay, that brings us back to the top of the round. Kenzo. Riswynn, now you're within—Seeker as well, if you have anything long-range.
 
 %% u2042-u2045 %%
-Kenzo: All right. [[You guys as well, there's definitely an admin by them.]] These are both uninjured, right? Yep. All right, I will quarterstaff the dude directly in front of me.
+Kenzo: All right. {{You guys as well, there's definitely an admin by them.}} These are both uninjured, right? Yep. All right, I will quarterstaff the dude directly in front of me.
 
 %% u2046 %%
 DM: That hits.
@@ -497,7 +497,7 @@ Seeker: Thank you.
 DM: This one has gone one, two, three, four, five, six, moved to here, and now within spear range, gonna hurl a spear at Kenzo, which misses. So that brings us to the top of the round, which is Kenzo.
 
 %% u2103-u2105 %%
-Kenzo: All right, this thing is dead. [[I was just saying even gonna survive.]] All right, attack him.
+Kenzo: All right, this thing is dead. {{I was just saying even gonna survive.}} All right, attack him.
 
 %% u2106 %%
 DM: Fifteen points of damage. He has nearly died with one blow from your staff.

@@ -11,7 +11,7 @@
 DM: As the dawn rises, realizing that you are still within striking distance of Havdar’s camp, but now without your pack horses, it’s gonna be slower going. You won’t be able to switch mounts. You’re gonna have to… Although, I guess now your Strength goes back. The color comes back into Delwath as he wakes up. He’s not hobbling along under the weight of his armor anymore, just his normal weak self.
 
 %% u1708 %%
-Kenzo: [[Esteem]].
+Kenzo: {{Esteem}}.
 
 %% u1709-u1715 %%
 DM: It’s gonna be a bit of a stretch to get to Havdar’s camp today with your reduced mounts. Did you want to say something? So you can all take a long rest and heal up and everything, get your spells and everything back. But if you’re willing to ride partly into the night, you certainly can still make it there today.
@@ -155,7 +155,7 @@ Seeker: Must be.
 DM: As morning dawns, it’s clear that Havdar left not too long ago. Wellby, you’re skilled enough at tracking and survival that spending a few moments, half an hour, scouting the tracks and investigating while Delwath is preparing breakfast—certainly less than a week, probably more like two or three days ago, and headed west towards Kharsan—or, sorry, not towards Kharsan, back towards Karawa. He was never planning on staying out in the desert for more than a couple of weeks anyway, so this doesn’t come as a big shock, and potentially, having learned about the orcs, he wanted to return relatively quickly.
 
 %% u1794-u1797 %%
-DM: So you’re in the desert now, about fifty miles from the stone house, a hundred fifty miles from Agata Dustmother, or [[a hundred fifty miles and another two hundred sixty miles from]]… Eating breakfast, deciding where you’re going to head next.
+DM: So you’re in the desert now, about fifty miles from the stone house, a hundred fifty miles from Agata Dustmother, or {{a hundred fifty miles and another two hundred sixty miles from}}… Eating breakfast, deciding where you’re going to head next.
 
 %% u1798 %%
 Seeker: Hmm.
@@ -185,7 +185,7 @@ Delwath: In Karawa, yes.
 Kenzo: I see what you did there. So…
 
 %% u1810-u1811 %%
-Wellby: [[There’s an institute]], and I don’t like it.
+Wellby: {{There’s an institute}}, and I don’t like it.
 
 %% u1812-u1813 %%
 Kenzo: But orcs are not a threat to Karawa or the stone house. It’s pretty clear that Grash is focused on finding whatever treasure is in Kharsan, is he not?
@@ -254,7 +254,7 @@ Kenzo: I would say this: I do feel, personally, a bit of a sense of duty to shar
 Seeker: And you’ve joined their order too.
 
 %% u1850-u1853 %%
-Kenzo: And I have joined their order. [[I love her]]. That doesn’t have to happen now. We could return to Karawa, but I think, just for all of your awareness, I do feel a bit of an obligation to return and share with them what we saw. If it’s…
+Kenzo: And I have joined their order. {{I love her}}. That doesn’t have to happen now. We could return to Karawa, but I think, just for all of your awareness, I do feel a bit of an obligation to return and share with them what we saw. If it’s…
 
 %% u1854 %%
 Wellby: Two days to their house?
@@ -302,7 +302,7 @@ Kenzo: I also feel as though perhaps we’ll be in a… Are there still civilian
 DM: I mean, there’s Mystai. There’s not really just regular people.
 
 %% u1877 %%
-Unknown: [[Is everybody felt]].
+Unknown: {{Is everybody felt}}.
 
 %% u1878 %%
 Delwath: I guess they’re all soldiers, Havdar’s people.

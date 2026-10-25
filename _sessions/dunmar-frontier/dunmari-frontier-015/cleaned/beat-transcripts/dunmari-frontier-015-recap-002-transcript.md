@@ -41,7 +41,7 @@ Unknown: Yes.
 Seeker: Kenzo, before you ascend, let me just give you one of my floating runes in case you need it.
 
 %% u0471-u0473 %%
-DM: Casts out the inspiration. [[Driving I thought]], if you fall, you're very unlikely to be hurt.
+DM: Casts out the inspiration. {{Driving I thought}}, if you fall, you're very unlikely to be hurt.
 
 %% u0474 %%
 Unknown: Yeah.
@@ -68,7 +68,7 @@ Kenzo: Oh, I do have inspiration.
 Seeker: I just gave it to you. So what does that let him do exactly?
 
 %% u0486 %%
-DM: So you don't get [[the only advice]].
+DM: So you don't get {{the only advice}}.
 
 %% u0487 %%
 Seeker: No, it doesn't let you roll again. You—
@@ -104,7 +104,7 @@ DM: Yeah, like a rubber band ball, but hollow in the middle. It's just the outsi
 Kenzo: Guys, there is—
 
 %% u0524-u0525 %%
-DM: [[Some pretty]]—nobody can hear you. You're way out at the top. Okay.
+DM: {{Some pretty}}—nobody can hear you. You're way out at the top. Okay.
 
 %% u0526 %%
 Kenzo: I throw some rope down. I throw the rope down.
@@ -236,7 +236,7 @@ DM: That is a good question, because as you begin to approach the tower itself�
 Unknown: And.
 
 %% u0596 %%
-Wellby: [[So your US will stick around]].
+Wellby: {{So your US will stick around}}.
 
 %% u0597-u0598 %%
 DM: You dodge back out of the way as it sinks down into the water, into the pool itself.
@@ -440,7 +440,7 @@ Seeker: Anybody bring their spear or their long stick?
 Kenzo: Yeah, of course I have one.
 
 %% u0697 %%
-DM: [[Of those got]]—
+DM: {{Of those got}}—
 
 %% u0698 %%
 Unknown: A quarterstaff and two spears.
@@ -455,7 +455,7 @@ Seeker: Hook the ball on the end of it and—
 Kenzo: Yeah, I'm not poking that ball with my stick.
 
 %% u0702-u0705 %%
-DM: It's about five feet in diameter. It's perched on a pedestal, sort of [[his note]], right? It's centered in the middle of the... Big. It's—
+DM: It's about five feet in diameter. It's perched on a pedestal, sort of {{his note}}, right? It's centered in the middle of the... Big. It's—
 
 %% u0706-u0707 %%
 Unknown: Big. Here.
@@ -518,7 +518,7 @@ Unknown: Yeah.
 Delwath: But the water is—
 
 %% u0740-u0743 %%
-DM: You can part water, right? The only reason it didn't work in the flooded tunnel is because there's more water flowing down. So if there's more water magically appearing on the surface here, whatever you do will get [[well]]. But if there's not, then you can, right?
+DM: You can part water, right? The only reason it didn't work in the flooded tunnel is because there's more water flowing down. So if there's more water magically appearing on the surface here, whatever you do will get {{well}}. But if there's not, then you can, right?
 
 %% u0744 %%
 Delwath: Wait, is this water pouring off the side, or is it just—
@@ -530,13 +530,13 @@ DM: A pool? This is pouring off the side.
 Delwath: But it's not diminishing. Right, right, right.
 
 %% u0748-u0752 %%
-Riswynn: Magically self-renewing water, but there's a question of whether it can still magically self-renew in 75% of the area and I can clear 25%, right? Or it can counteract my attempt to clear it; it can clearly make more water and try to fill in what I'm doing, but I don't know [[whose felt]]. So I can try. And we could know that it couldn't get into that space if your Mage Hand materialized in the space that I cleared out and it couldn't grab at it.
+Riswynn: Magically self-renewing water, but there's a question of whether it can still magically self-renew in 75% of the area and I can clear 25%, right? Or it can counteract my attempt to clear it; it can clearly make more water and try to fill in what I'm doing, but I don't know {{whose felt}}. So I can try. And we could know that it couldn't get into that space if your Mage Hand materialized in the space that I cleared out and it couldn't grab at it.
 
 %% u0753 %%
 Riswynn: Or we could just send Kenzo in to try and see if he can get grabbed at.
 
 %% u0754 %%
-Kenzo: [[Blood]].
+Kenzo: {{Blood}}.
 
 %% u0755-u0756 %%
 Riswynn: If you can get grabbed at, we could test it with the Mage Hand first. Well, let me see if I can move the water out of the way anyway. I mean, what is the benefit of touching this thing or looking closely at it?
@@ -581,7 +581,7 @@ Unknown: Land.
 Kenzo: Are there runes on the globe? Are there writings on it? Is the globe moving, or is it just kind of still?
 
 %% u0783-u0785 %%
-DM: No, it's just out. [[I'm data]].
+DM: No, it's just out. {{I'm data}}.
 
 %% u0786 %%
 Riswynn: So there's writing on it. It's—
@@ -620,7 +620,7 @@ Unknown: Ah.
 DM: Yeah, so yes, you can shape water, but it doesn't last, right? I guess you can animate it at your direction, right? So you can basically take a five-foot cube and animate it however you want, which could involve walls.
 
 %% u0811 %%
-Seeker: [[And brewery]].
+Seeker: {{And brewery}}.
 
 %% u0812 %%
 DM: So you can take this initial five-foot cube and clear it out.
@@ -644,7 +644,7 @@ Seeker: Spell. So let's—okay, but—
 DM: But as you begin to approach, stepping there, the snake again erupts, basically as soon as you get within 10 feet of the globe. And what's your AC?
 
 %% u0828 %%
-Seeker: [[You there]].
+Seeker: {{You there}}.
 
 %% u0829-u0830 %%
 DM: Okay, so again you manage to duck out of the way as the water snake whirls past you, slightly misjudging your height. And again you dodge back. I mean, I guess you could keep going forward if you want to.
@@ -704,7 +704,7 @@ Seeker: Visibly magical, right?
 DM: So, I mean, the—
 
 %% u0868 %%
-Seeker: [[Water is the kids]].
+Seeker: {{Water is the kids}}.
 
 %% u0869 %%
 Delwath: Well, I don't know. The water could be enchanted, or there could be a creature living in it.
@@ -740,7 +740,7 @@ Delwath: But it's too hard to see from far away, right?
 DM: Yeah, you would need to be right next to it to read it; it's small.
 
 %% u0882-u0883 %%
-Riswynn: [[All right, that's better better eyesight then seeker. That wasn't had magic vision or anything]].
+Riswynn: {{All right, that's better better eyesight then seeker. That wasn't had magic vision or anything}}.
 
 %% u0884-u0885 %%
 Delwath: Wow. Oh, yeah, does somebody have a telescope?
@@ -764,7 +764,7 @@ DM: Make a perception check.
 Seeker: Like a focal-distance kind of question here, but it's—
 
 %% u0893 %%
-Riswynn: [[Got going on today]].
+Riswynn: {{Got going on today}}.
 
 %% u0894-u0901 %%
 DM: That's not a great telescope. But, yeah, it's curved around the sort of central band, and you can read the one part that's facing directly at you, but as it begins to curve it's getting harder to detect. So it's in Drankorian, and it seems to be the fragment of a spell or some kind of ritual incantation. The words themselves don't particularly have meaning to you, but that's your sense as to what it is.
@@ -797,7 +797,7 @@ DM: It was squeezing—it was grappling the hand, yes.
 Seeker: Is that weird? Because the hand is noncorporeal.
 
 %% u0915 %%
-Delwath: [[Thought that we're done with our hands]].
+Delwath: {{Thought that we're done with our hands}}.
 
 %% u0916 %%
 DM: That's why I asked, right? I mean, it's glowing, it's not—
@@ -815,13 +815,13 @@ Riswynn: Open a chest or something, so it—
 Seeker: Has to be grabbed.
 
 %% u0922 %%
-DM: By water creatures. [[Kong]].
+DM: By water creatures. {{Kong}}.
 
 %% u0923 %%
 Seeker: It was—
 
 %% u0924-u0927 %%
-DM: It was [[mechanic]] that Kenzo speaks, not Drankorian. You still have two unknown languages, some languages you haven't picked.
+DM: It was {{mechanic}} that Kenzo speaks, not Drankorian. You still have two unknown languages, some languages you haven't picked.
 
 %% u0928 %%
 Kenzo: Right, right, right. Okay, cool.
@@ -908,7 +908,7 @@ Kenzo: All right.
 Delwath: That might be a bad idea.
 
 %% u0962-u0966 %%
-Kenzo: I call the water creature [[and it's the gold gloves]]. And I get kind of, you know, not too close, but close enough to be within shouting distance—I mean, we're already within shouting distance.
+Kenzo: I call the water creature {{and it's the gold gloves}}. And I get kind of, you know, not too close, but close enough to be within shouting distance—I mean, we're already within shouting distance.
 
 %% u0967-u0969 %%
 Kenzo: Yeah, I ask it in Drankorian, "Who are you? What's your name?"
@@ -962,7 +962,7 @@ DM: I mean, it's—
 Delwath: Like a 300 pound iron sphere.
 
 %% u0987-u0989 %%
-Seeker: I mean, it's [[nobody's heavy]]. It's—
+Seeker: I mean, it's {{nobody's heavy}}. It's—
 
 %% u0990 %%
 DM: Could be quite heavy. I mean, it's five feet across.
@@ -980,7 +980,7 @@ Seeker: We have—
 Riswynn: I have a potion of Hill Giant Strength if we want to get really strong.
 
 %% u0995 %%
-Seeker: Or I can make anybody twice their size. Also, we have [[the cooling]].
+Seeker: Or I can make anybody twice their size. Also, we have {{the cooling}}.
 
 %% u0996 %%
 Kenzo: Wait, but to do what? Just to move the globe?
@@ -998,7 +998,7 @@ Kenzo: Do it.
 Seeker: I love it.
 
 %% u1001-u1003 %%
-Riswynn: To read it, you're not going to try to move it? Move it, I'll give you my potion [[to kill time]]. Sorry.
+Riswynn: To read it, you're not going to try to move it? Move it, I'll give you my potion {{to kill time}}. Sorry.
 
 %% u1004-u1005 %%
 Delwath: No, I'm not trying to move it. So I'm going to use the Oil of Slipperiness. Okay, then I'm going to summon a Mage Hand.
@@ -1019,7 +1019,7 @@ Kenzo: Yes. Should we put a rope around you so we can pull you out if something 
 Seeker: Sure, take your clothes off first.
 
 %% u1011 %%
-Wellby: [[We just dry cleaning]].
+Wellby: {{We just dry cleaning}}.
 
 %% u1012 %%
 Delwath: It just goes on all your armor. It's like magical.

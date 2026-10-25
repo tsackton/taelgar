@@ -89,7 +89,7 @@ Seeker: Yeah. Oof. I took—
 Unknown: Seeker took like 300 damage.
 
 %% u9832-u9833 %%
-Unknown: 200, almost 300 damage. [[I don’t play it]].
+Unknown: 200, almost 300 damage. {{I don’t play it}}.
 
 %% u9834 %%
 Kenzo: I took 200.
@@ -818,7 +818,7 @@ Delwath: Can you just expend one spell slot, or as many as you want?
 DM: Up to three people can each expend one spell slot. But you get—
 
 %% u10152-u10154 %%
-Unknown: [[And you got not Seeker]]. Including me.
+Unknown: {{And you got not Seeker}}. Including me.
 
 %% u10155 %%
 DM: Including Seeker.
@@ -1184,7 +1184,7 @@ Wellby: We're gonna load them all across the rainbow bridge with us.
 Seeker: Oh, there you go. Right?
 
 %% u10317 %%
-DM: [[Five, we a-]] Yeah.
+DM: {{Five, we a-}} Yeah.
 
 %% u10318 %%
 Wellby: We call the bridge and just march everybody back.

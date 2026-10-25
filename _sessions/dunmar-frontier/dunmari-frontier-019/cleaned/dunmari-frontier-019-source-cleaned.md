@@ -2057,7 +2057,7 @@
 [u2057 | 03:03:31.560-03:03:40.770 | DM] Quiet hot just passing through the desert heading sort of South Southwest roughly South southeast roughly.
 [u2058 | 03:03:43.710-03:04:03.030 | DM] The terrain here is very you know it's lots of open expanses of just dry rocky sand and then there's the occasional Canyon and you find more life and vegetation in this canyons as there's more shade, and what little moisture there is collects.
 [u2059 | 03:04:04.620-03:04:20.610 | DM] You know hardy trees, sometimes grow and There does seem to be some little lakes, you know fingers of underground water that stretch out from Bas Udda because occasionally you'll find a canyon that has a little bit of a spring in it, or something like that i'm.
-[u2060 | 03:04:23.370-03:04:30.180 | DM] In the evening of the second day as you're approaching towards heading towards [[bass]].
+[u2060 | 03:04:23.370-03:04:30.180 | DM] In the evening of the second day as you're approaching towards heading towards {{bass}}.
 [u2061 | 03:04:32.640-03:04:37.290 | DM] you're following the the route of one of these of these canyons and.
 [u2062 | 03:04:39.270-03:04:41.820 | DM] Wellby you notice up ahead that there are.
 [u2063 | 03:04:44.790-03:04:53.790 | DM] Like the exoskeleton of a giant scorpion that's been cracked in half and tossed and you know the.

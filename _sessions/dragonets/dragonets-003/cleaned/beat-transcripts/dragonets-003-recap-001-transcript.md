@@ -8,7 +8,7 @@
 ## Transcript
 
 %% u0001-u0012 %%
-DM: Okay. Everyone, why don't we just take a quick moment before we begin? Yeah. Close our eyes. Take a deep breath. [[Shit. And Tick.]] Two more breaths at your own pace, and just release whatever was going on in your day. Just release whatever…
+DM: Okay. Everyone, why don't we just take a quick moment before we begin? Yeah. Close our eyes. Take a deep breath. {{Shit. And Tick.}} Two more breaths at your own pace, and just release whatever was going on in your day. Just release whatever…
 
 %% u0013-u0025 %%
 DM: Take one… Go into some emptiness. And hopefully now, you're starting to be in an empty place. Take one more breath. Just really feel the emptiness of the space around me. And keep your eyes closed as you start to enter your character. Start to imagine yourself inside your dragonet. Feel your wings. Feel your fingers and your claws.
@@ -23,7 +23,7 @@ DM: And we begin with a scene again outside of the storm, with these two humanoi
 DM: And as we exit this vessel and cross through the barriers of the storm, back into the circular island, we encounter, honestly, a pretty different scene. As we shift, we encounter, inside of the ship—or inside the statue of the Wanderer—this scene of the four of you…
 
 %% u0052 %%
-Zeno: [[can.]]
+Zeno: {{can.}}
 
 %% u0053-u0064 %%
 DM: …sitting inside a cockpit. Which, again, as you kind of just step back for a second on how awesome this day has been—I think for all of you, probably the coolest day of your entire lives. Maybe, maybe not; we'll see. You can all reflect on that in a moment. But each of you sitting in a seat that, by the way, to re-emphasize, is custom made for dragonets. Like, it's perfectly your size. And it was like that when you showed up. There's other kind of features in this hall and this other space that are not made for dragonets, but these are made for dragonets. And these seats feel good again. Very, very much the old chair, the old familiar chair that you've loved to sit in your whole lives.
@@ -71,7 +71,7 @@ Zeno: And sing some tunes to them.
 Little Tony: Yeah. He also thinks if he can get rocks from the bottom of the ocean, like way out there, the value—it's going to blow the whole market out of the water. He sees the business opportunity.
 
 %% u0137 %%
-Heska: [[You're in two.]]
+Heska: {{You're in two.}}
 
 %% u0138 %%
 Zeno: Could be.
@@ -98,7 +98,7 @@ Zeno: internal.
 DM: …selves as having expanded somehow. And this idea of control and precision and power is really coursing through you in a pretty awesome way. But then again, you're also sitting in cockpits in the heart of the Wanderer right now, and you kinda got it to sorta move a little bit by just thinking about it together? So maybe that's also pretty cool. There's kind of a lot of things to consider right now, what you wanna do. So, what do you want to do?
 
 %% u0151-u0152 %%
-Heska: Let's go for a walk. [[That's the size.]]
+Heska: Let's go for a walk. {{That's the size.}}
 
 %% u0153 %%
 Zeno: Lift the right foot.
@@ -128,7 +128,7 @@ Zeno: With your eyes open so you can see what I'm doing. Ready? Okay. One…
 Heska: No, Heska's…
 
 %% u0162 %%
-Zeno: [[Stay tuned.]]
+Zeno: {{Stay tuned.}}
 
 %% u0163 %%
 Heska: …got his eyes closed.
@@ -239,7 +239,7 @@ Zeno: Oh…
 DM: At least currently, you have not figured out any way to, like.
 
 %% u0212 %%
-Zeno: [[Under Muni.]]
+Zeno: {{Under Muni.}}
 
 %% u0213 %%
 Sculpit: So, I think we all…
@@ -401,7 +401,7 @@ Sculpit: Yeah, but it was like… It was like…
 Little Tony: Someone else's. Yeah, that's true.
 
 %% u0284 %%
-Sculpit: [[RTS.]]
+Sculpit: {{RTS.}}
 
 %% u0285-u0286 %%
 Heska: Wait, wait, wait, wait, wait. Heska has an idea. Can we… Do we have to be sitting in these chairs to move the statue?
@@ -782,7 +782,7 @@ Zeno: Nice, nice. What is the…
 Little Tony: What if… Let's see out of its eyes. I'm gonna close my eyes and look.
 
 %% u0433 %%
-Zeno: [[Credit, credit.]]
+Zeno: {{Credit, credit.}}
 
 %% u0434 %%
 Little Tony: Seeing out of the Wanderer's eyes while I'm in the chair.
@@ -812,13 +812,13 @@ Zeno: Yes.
 Little Tony: Hum while we concentrate, okay?
 
 %% u0443 %%
-Zeno: [[I'm in the game, I'm in the game, the kingdom is…]]
+Zeno: {{I'm in the game, I'm in the game, the kingdom is…}}
 
 %% u0444 %%
 Heska: Heska cannot like match a tune to save his life, so everybody else.
 
 %% u0445 %%
-Zeno: He's like, [[can burn in the kitchen.]]
+Zeno: He's like, {{can burn in the kitchen.}}
 
 %% u0446 %%
 Heska: Is that working?
@@ -860,7 +860,7 @@ DM: So this is for everybody that's not Sculpit right now. Each of you—Heska, 
 Zeno: the.
 
 %% u0471-u0475 %%
-DM: [[Thanks for opening.]] And what you see in front of you is a giant stone outstretched palm, and you see, in the distance, a storm. And amazing clouds. And you're looking through the eyes of the Wanderer.
+DM: {{Thanks for opening.}} And what you see in front of you is a giant stone outstretched palm, and you see, in the distance, a storm. And amazing clouds. And you're looking through the eyes of the Wanderer.
 
 %% u0476 %%
 Little Tony: And.
@@ -965,7 +965,7 @@ Zeno: Is the ground flat up ahead, or what?
 DM: Yeah, I mean, ignore this a little bit. I mean, it is, like, a drop-off on the other side, but there's, like, flat area in front of you, yeah.
 
 %% u0520 %%
-Zeno: [[And dish.]]
+Zeno: {{And dish.}}
 
 %% u0521 %%
 DM: I mean, relative to your size, which is, like, you know, hundreds of feet tall.
@@ -1115,7 +1115,7 @@ Heska: I don't think walking in a statue is something any of us have done before
 Zeno: Alright. You know what? Let's not try to just shuffle spin again. We are going to put all the weight on a ball of one foot, and then, like, spin, spin. You know what I'm saying?
 
 %% u0579-u0581 %%
-Sculpit: And actually, let's just think about this for a little bit. Who's been rolling the worst? [[And nine.]]
+Sculpit: And actually, let's just think about this for a little bit. Who's been rolling the worst? {{And nine.}}
 
 %% u0582 %%
 Heska: Me, I'm totally into the vibe here.
@@ -1238,7 +1238,7 @@ Little Tony: Right?
 Zeno: Is there a way to set the advantage directly on the roll?
 
 %% u0627-u0628 %%
-Heska: If you right-click, you can… [[I don't know what you can say.]]
+Heska: If you right-click, you can… {{I don't know what you can say.}}
 
 %% u0629-u0630 %%
 Sculpit: Roll with advantage. Dude!
@@ -1463,7 +1463,7 @@ Sculpit: 30.
 DM: Oh, nice. Oh, wow.
 
 %% u0737-u0738 %%
-Zeno: What just happened? Oh, I see, that was that. [[Ash.]]
+Zeno: What just happened? Oh, I see, that was that. {{Ash.}}
 
 %% u0739 %%
 DM: Eric, what did you roll?
@@ -1484,7 +1484,7 @@ Heska: Oh, you probably… nope, there.
 Zeno: Yeah. How do I tell if the advantage thing worked?
 
 %% u0749 %%
-Heska: [[That didn't meet you guys.]]
+Heska: {{That didn't meet you guys.}}
 
 %% u0750 %%
 Zeno: It only rolled one.
@@ -1586,7 +1586,7 @@ Sculpit: Yeah.
 Heska: We're all good at things.
 
 %% u0792-u0795 %%
-DM: But no, [[we imposed ourselves]]. It's amazing. Well, part of this also, let's just roll out. Like, you all feel locked in. You feel like, ‘Holy shit.’ This is a massive, unimaginably massive fucking statue, and it's feeling—it's starting to feel, just as you kind of experiment and do stuff, more and more comfortable. Yeah, you're able to reach down, you pull out a giant, massive fucking volume of rock and sand from the bottom, and it kind of crumbles down between your fingers, down and smashing into the ocean. All the fucking rocks and things just landing and smashing. What else do you try to do? Just two more things that are whatever you want to do in the statue. And guys, this is…
+DM: But no, {{we imposed ourselves}}. It's amazing. Well, part of this also, let's just roll out. Like, you all feel locked in. You feel like, ‘Holy shit.’ This is a massive, unimaginably massive fucking statue, and it's feeling—it's starting to feel, just as you kind of experiment and do stuff, more and more comfortable. Yeah, you're able to reach down, you pull out a giant, massive fucking volume of rock and sand from the bottom, and it kind of crumbles down between your fingers, down and smashing into the ocean. All the fucking rocks and things just landing and smashing. What else do you try to do? Just two more things that are whatever you want to do in the statue. And guys, this is…
 
 %% u0796 %%
 Sculpit: And underwater, right?
@@ -1604,7 +1604,7 @@ DM: Okay, and try to look around? Yeah, yeah. Alright, go ahead, roll.
 Heska: That would be another 23.
 
 %% u0802 %%
-Sculpit: [[Quarterly…]] and…
+Sculpit: {{Quarterly…}} and…
 
 %% u0803 %%
 DM: 20.
@@ -1679,7 +1679,7 @@ Heska: See how far we can throw something like towards the storm, not.
 Sculpit: Yeah, yeah, yeah, yeah, of course.
 
 %% u0829-u0832 %%
-Zeno: Oh, like, try to pick something up between two fingers. Like grab a rock. No, we'll try to pinch a seabird, like a seagull, out of the air. Okay. [[Maybe they clapped.]]
+Zeno: Oh, like, try to pick something up between two fingers. Like grab a rock. No, we'll try to pinch a seabird, like a seagull, out of the air. Okay. {{Maybe they clapped.}}
 
 %% u0833 %%
 Little Tony: Don't look, Glenda. Don't look.
@@ -1766,7 +1766,7 @@ Heska: Yeah, Yeah.
 DM: Okay, so all of you, you successfully pick up the boulder, you successfully pick up the rock. And then, Heska—you know, again, part of what's happening here, and part of why you're rolling the way that you're rolling, okay? Over the course of this now, this is at least an hour or so that you've been just doing all of this, talking, experimenting, and so on. What you're starting to appreciate about how you're actually controlling this whole thing…
 
 %% u0867-u0869 %%
-DM: Tony, you're having this insight into, like, ‘I have this thing that we collectively want to do,’ and it's this thought about what it is that you're trying to do, translating into the system, this whole giant mechanical system. It's like you're almost kind of helping this coordination around the connection between the idea and then the translation into the [[format itself at all]]. And it's almost like, if your shit doesn't work, everybody could be like, ‘Let's fucking do this thing,’ and then the whole system is just getting weird, confused messages about what to do.
+DM: Tony, you're having this insight into, like, ‘I have this thing that we collectively want to do,’ and it's this thought about what it is that you're trying to do, translating into the system, this whole giant mechanical system. It's like you're almost kind of helping this coordination around the connection between the idea and then the translation into the {{format itself at all}}. And it's almost like, if your shit doesn't work, everybody could be like, ‘Let's fucking do this thing,’ and then the whole system is just getting weird, confused messages about what to do.
 
 %% u0870-u0874 %%
 DM: Heska, you're starting to feel like, if all of the other systems are aligned and rock and roll, it's the physical attributes of what's happening with the system. It's like, if everything else is locked in, you are actually the Wanderer. It's like you are able to throw shit, and you're Heska, now tenth level, and it's like, ‘Oh, fuck.’ It's insane—as crazy as this day has felt and how you have personally felt about yourself, the fact that you now almost feel like you've got this fucking massive, hundreds-of-feet-tall avatar that is approximating some level of what you feel like you can do. You process that however you want to process that.

@@ -44,7 +44,7 @@ Kenzo: And then.
 DM: You—yes, you killed... Well, yes.
 
 %% u0558 %%
-Kenzo: You can at least [[read]].
+Kenzo: You can at least {{read}}.
 
 %% u0559 %%
 DM: All the ones that you saw.
@@ -56,7 +56,7 @@ Kenzo: And then, when we left to go to the storm, in that interim time, there we
 Delwath: But they could have already been traveling. The timing works for them to have already left. We were leaving Raven's Hold about when the siege started, right? Okay, right.
 
 %% u0564-u0565 %%
-DM: Then, yes. No, I mean they would have [[built]]...
+DM: Then, yes. No, I mean they would have {{built}}...
 
 %% u0566 %%
 Kenzo: So it was.
@@ -137,7 +137,7 @@ Kenzo: Can I just take a vacation?
 Unknown: Well.
 
 %% u0614-u0615 %%
-Seeker: But there... [[wouldn't be good news]].
+Seeker: But there... {{wouldn't be good news}}.
 
 %% u0616 %%
 Delwath: But are we sure that when they waste away, they die?
@@ -335,7 +335,7 @@ Delwath: You age into it. Give yourself a hundred years; it'll be much clearer t
 Kenzo: My point being, Candrosa, if we keep our discussion on this plane, we're ignoring the source of all of this. Wherever...
 
 %% u0757-u0758 %%
-Seeker: Perhaps the patterns and the interconnections become clear [[while you hold them to give you a picture]].
+Seeker: Perhaps the patterns and the interconnections become clear {{while you hold them to give you a picture}}.
 
 %% u0759-u0766 %%
 Kenzo: Please allow me to finish my metaphor. Looking at his companions. "The other planes that we need to contemplate—Shakun is clearly connected to all of this, for sure. Her power has now evaporated, and for this line, this source of protection, to be gone is clearly a critical factor in all this. The source of the demons, if they are in fact being summoned from another plane, where is this plane in relation to this Material Plane? I have no fucking idea, but some great power, probably. In relation to Shakun, some other set of powers or entities beyond this plane. It feels like—again, this is my limited Chardonian brain here—this shit matters. This feels kind of fundamental to what's happening here."
@@ -512,7 +512,7 @@ DM: Those are not Dunmari. What did you find? Wait, can I see those?
 Seeker: I look around at the party. "Here you are. Yeah, you can, just briefly..."
 
 %% u0947 %%
-Unknown: [[Right amount]].
+Unknown: {{Right amount}}.
 
 %% u0948-u0949 %%
 DM: Let's look. Oh, did...?
@@ -575,7 +575,7 @@ Kenzo: Was he—when I saw him, was he annoyed, or is he just tired?
 Unknown: I'm.
 
 %% u0982 %%
-DM: [[I'm gonna mess with you]].
+DM: {{I'm gonna mess with you}}.
 
 %% u0983 %%
 Wellby: Can be.

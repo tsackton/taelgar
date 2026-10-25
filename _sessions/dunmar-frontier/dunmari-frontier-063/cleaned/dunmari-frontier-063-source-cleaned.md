@@ -22,7 +22,7 @@
 [u0022 | 00:02:19.460-00:02:23.880 | DM] animatedly, betting on races of brightly colored lizards.
 [u0023 | 00:02:24.280-00:02:36.850 | DM] Many of them are fey, but some are small winged fairies, and there's the occasional satyr. Other creature like harengon, the rabbit folk.
 [u0024 | 00:02:36.980-00:02:41.660 | DM] Um the you know, a centaur wandering at the edge of the crowd
-[u0025 | 00:02:42.540-00:02:53.180 | DM] a band of satyr fiddlers keeps a lively tune, and in the center of [[Baba’s]] activity there's an oasis of calm formal gardens which surround a grand palace,
+[u0025 | 00:02:42.540-00:02:53.180 | DM] a band of satyr fiddlers keeps a lively tune, and in the center of {{Baba’s}} activity there's an oasis of calm formal gardens which surround a grand palace,
 [u0026 | 00:02:53.330-00:03:00.190 | DM] the lowest floor open to the air, and spiraling towers stretching above into the sky.
 [u0027 | 00:03:00.550-00:03:07.090 | DM] This is the court, the inner palace, the sanctum of the Prince of Luck himself.
 [u0028 | 00:03:08.220-00:03:18.829 | DM] The Chance Weaver is an ethereal, beautiful man, ageless, with bright green eyes, short blonde hair, and a thin silver circlet around his brow,
@@ -435,7 +435,7 @@
 [u0435 | 00:36:35.720-00:36:40.939 | DM] It's it's pretty similar in shape to the thing that's in the background here.
 [u0436 | 00:36:41.050-00:36:50.560 | Raven] Kind of sheer enough that you'd have to actually climb at parts, and actually climb it. You couldn't just like It's not the kind of mountain you can just hike up
 [u0437 | 00:36:50.750-00:36:57.379 | Raven] right like on odd bits you'd have to climb. But no, there is like a
-[u0438 | 00:36:57.580-00:36:58.870 | Raven] [[being from it]].
+[u0438 | 00:36:57.580-00:36:58.870 | Raven] {{being from it}}.
 [u0439 | 00:36:58.900-00:37:00.209 | Mikasa] Yeah,
 [u0440 | 00:37:00.430-00:37:01.459 | Unknown] Dwarf,
 [u0441 | 00:37:01.900-00:37:03.369 | Mikasa] You can't shape that.
@@ -473,7 +473,7 @@
 [u0473 | 00:39:03.630-00:39:04.640 | Raven] though
 [u0474 | 00:39:05.490-00:39:09.260 | Raven] Spirala is obviously also
 [u0475 | 00:39:10.490-00:39:11.580 | Unknown] wait a minute,
-[u0476 | 00:39:11.910-00:39:17.009 | Raven] so maybe it would be wise to send a small [[possibly]],
+[u0476 | 00:39:11.910-00:39:17.009 | Raven] so maybe it would be wise to send a small {{possibly}},
 [u0477 | 00:39:17.640-00:39:20.559 | Raven] or I mean, how well can you
 [u0478 | 00:39:22.010-00:39:31.429 | Raven] So Is it worth finding a method around like an alternate method up the mountain? Or would it be easiest to just climb it?
 [u0479 | 00:39:31.740-00:39:39.189 | Seeker] I could turn myself into a dragonfly or some kind of bird, and fly up there to see what's going on? But
@@ -488,8 +488,8 @@
 [u0488 | 00:40:13.290-00:40:29.759 | DM] I don't know how far I can fly carrying someone not at all fairies are small, not really at all carrying somebody who is wearing plate armor, and it's like three times your size and bulk. What? How do you transform
 [u0489 | 00:40:31.900-00:40:36.209 | Raven] Seeker, is there a chance you could transform into something I could carry.
 [u0490 | 00:40:36.400-00:40:37.390 | Unknown] Um!
-[u0491 | 00:40:40.450-00:40:45.869 | Seeker] I might be able to carry one other creature [[as to correct him]]. If i'm a large
-[u0492 | 00:40:46.210-00:40:48.529 | Seeker] [[currently, you see the measures that you]]
+[u0491 | 00:40:40.450-00:40:45.869 | Seeker] I might be able to carry one other creature {{as to correct him}}. If i'm a large
+[u0492 | 00:40:46.210-00:40:48.529 | Seeker] {{currently, you see the measures that you}}
 [u0493 | 00:40:51.970-00:40:53.660 | Mikasa] Oh, okay,
 [u0494 | 00:40:53.740-00:41:02.899 | Mikasa] I actually uh sorry. Take all that back, Mikasa says, I have my own ways. Don't worry about me. Well, then, it seems we are all
 [u0495 | 00:41:03.010-00:41:05.119 | Raven] have methods to
@@ -681,7 +681,7 @@
 [u0681 | 00:58:55.250-00:58:58.240 | Raven] I can jump off like halfway down,
 [u0682 | 00:58:58.740-00:58:59.759 | Raven] like
 [u0683 | 00:59:01.300-00:59:06.980 | Spirala] I mean, obviously. But as Raven said, we would like to also be able to leave, and if
-[u0684 | 00:59:07.410-00:59:15.969 | Raven] [[our dwarfs on the dragonfly incapacitated]], we could, we could [[get down the a dragon, because I]] But
+[u0684 | 00:59:07.410-00:59:15.969 | Raven] {{our dwarfs on the dragonfly incapacitated}}, we could, we could {{get down the a dragon, because I}} But
 [u0685 | 00:59:16.060-00:59:23.610 | Raven] I think yeah, if we're going down we should probably have at least rope like hanging down from the ceiling, because
 [u0686 | 00:59:23.910-00:59:28.629 | Raven] and on a you'll probably have to revert to the Seeker to
 [u0687 | 00:59:28.730-00:59:29.839 | Raven] form.
@@ -745,7 +745,7 @@
 [u0745 | 01:03:23.290-01:03:24.679 | DM] What's your AC
 [u0746 | 01:03:24.790-01:03:26.669 | Raven] uh nineteen,
 [u0747 | 01:03:27.020-01:03:30.360 | DM] twenty-one to hit. They hit you
-[u0748 | 01:03:30.690-01:03:44.249 | Raven] um doing [[feels bad]] uh okay, Eight points of damage to you. And eight points of damage to the rope, which is now frayed and almost [[alright]], um eight to me.
+[u0748 | 01:03:30.690-01:03:44.249 | Raven] um doing {{feels bad}} uh okay, Eight points of damage to you. And eight points of damage to the rope, which is now frayed and almost {{alright}}, um eight to me.
 [u0749 | 01:03:44.390-01:03:45.270 | Unknown] Yeah,
 [u0750 | 01:03:48.270-01:03:49.439 | Raven] is.
 [u0751 | 01:03:51.920-01:03:54.189 | Raven] Can I shout
@@ -764,7 +764,7 @@
 [u0764 | 01:05:07.070-01:05:18.100 | DM] their range and like kind of swing, and like, pull yourself up. I mean you've got fifty feet of movement. So even if you're going half speed climbing, you can just climb up the rope.
 [u0765 | 01:05:18.320-01:05:21.229 | Raven] Yeah, for. But I want to attack them.
 [u0766 | 01:05:21.460-01:05:25.619 | Raven] I that's your movement. You can make an attack as well.
-[u0767 | 01:05:25.950-01:05:35.619 | Raven] I'm gonna pull out my [[fifth]] sword, and it's a like a glowing silver, like a faintly glowing
+[u0767 | 01:05:25.950-01:05:35.619 | Raven] I'm gonna pull out my {{fifth}} sword, and it's a like a glowing silver, like a faintly glowing
 [u0768 | 01:05:35.740-01:05:45.720 | Raven] silver blade, with like black petal designs all over it. Um! And i'll slice twice
 [u0769 | 01:05:46.140-01:05:54.959 | Raven] i'll. I'll slice once and see if it does anything that just like the general swarm surrounding me. Go, roll an attack Nineteen
 [u0770 | 01:05:55.360-01:05:56.770 | DM] got it.
@@ -928,20 +928,20 @@
 [u0928 | 01:18:52.640-01:18:58.289 | DM] crystals like more crystals shattering it's. Now this swarm is now mostly gone,
 [u0929 | 01:18:58.450-01:19:04.339 | DM] and unarmed strike I I I can't. If unarmed strike
 [u0930 | 01:19:04.450-01:19:05.930 | Raven] That's okay. Um!
-[u0931 | 01:19:06.490-01:19:19.880 | DM] And then you're gonna just jump off the wall, and then i'll just jump down like once. I'm on [[seven hundred]] feet down.
+[u0931 | 01:19:06.490-01:19:19.880 | DM] And then you're gonna just jump off the wall, and then i'll just jump down like once. I'm on {{seven hundred}} feet down.
 [u0932 | 01:19:20.460-01:19:24.910 | DM] Well, I rolled a thirty-eight and you can prevent fifty points of damage. So
 [u0933 | 01:19:25.020-01:19:26.030 | Seeker] wow!
 [u0934 | 01:19:27.090-01:19:28.170 | DM] Ah,
 [u0935 | 01:19:28.530-01:19:35.910 | DM] Seeker, giant dragonfly, as Raven lands on the bottom of this crystal globe,
 [u0936 | 01:19:37.770-01:19:39.519 | DM] flying straight down,
 [u0937 | 01:19:40.090-01:19:42.630 | Seeker] and I just make like a dodge action as a
-[u0938 | 01:19:43.150-01:19:49.699 | Mikasa] hey? Can you uh [[see your draft off of where um we’re in a group group]]?
+[u0938 | 01:19:43.150-01:19:49.699 | Mikasa] hey? Can you uh {{see your draft off of where um we’re in a group group}}?
 [u0939 | 01:19:50.300-01:19:57.859 | DM] Uh: yeah, And you can also dodge if you want to as your action, so you can fly sixty feet down and then dodge!
 [u0940 | 01:19:58.110-01:20:01.359 | Raven] What's your movement? How's the dragonfly?
 [u0941 | 01:20:03.310-01:20:07.749 | Raven] I mean you could also dash right like but the other option
 [u0942 | 01:20:08.190-01:20:11.530 | Raven] It's either you're either going to dash or dodge. Probably
 [u0943 | 01:20:12.430-01:20:20.139 | Seeker] I think i'm i'm the more dragon-fly thing could be to to dodge like a super erratic.
-[u0944 | 01:20:20.850-01:20:26.119 | Raven] Also, I think it's probably smarter because two of the swarms will [[get hit]].
+[u0944 | 01:20:20.850-01:20:26.119 | Raven] Also, I think it's probably smarter because two of the swarms will {{get hit}}.
 [u0945 | 01:20:27.880-01:20:31.680 | DM] We've been around you um
 [u0946 | 01:20:31.940-01:20:38.790 | DM] crystals. You're dodging through the first one almost strikes, almost surrounds you, but you dodge under them
 [u0947 | 01:20:39.160-01:20:40.939 | DM] the second one
@@ -1015,7 +1015,7 @@
 [u1015 | 01:25:44.160-01:25:46.539 | DM] Where the dragonfly is.
 [u1016 | 01:25:47.690-01:25:58.880 | DM] I guess there's one that's like maybe eighty feet up, because there's one that's dropping down to get to you
 [u1017 | 01:25:59.050-01:26:00.410 | Raven] um
-[u1018 | 01:26:04.530-01:26:08.990 | Raven] I’ll turn to Mikasa, and i'll say, Oh, [[I’m thrilled to slow]],
+[u1018 | 01:26:04.530-01:26:08.990 | Raven] I’ll turn to Mikasa, and i'll say, Oh, {{I’m thrilled to slow}},
 [u1019 | 01:26:09.190-01:26:16.999 | Raven] you know, like gonna start walking back up the wall to so like uh jump out at. I think I
 [u1020 | 01:26:17.770-01:26:20.420 | Raven] if I want to hit again
 [u1021 | 01:26:21.800-01:26:24.419 | Raven] Actually, is Mikasa injured at all?
@@ -1068,7 +1068,7 @@
 [u1068 | 01:30:12.480-01:30:18.970 | DM] you as you fly away, one does sixteen points of damage.
 [u1069 | 01:30:19.220-01:30:29.200 | DM] One does fourteen points of damage. So make to make two constitution saving throws. Oh, gosh!
 [u1070 | 01:30:29.270-01:30:30.250 | Seeker] Oh,
-[u1071 | 01:30:31.520-01:30:38.369 | Mikasa] okay, I must have something that I can help. I've got some [[failing]], and I can help.
+[u1071 | 01:30:31.520-01:30:38.369 | Mikasa] okay, I must have something that I can help. I've got some {{failing}}, and I can help.
 [u1072 | 01:30:38.800-01:30:42.460 | Mikasa] I can help you do something with saving throw, as I know.
 [u1073 | 01:30:42.610-01:30:49.829 | DM] Then what can I do to help you? You can help yourself with saving. You can't help other people
 [u1074 | 01:30:50.090-01:30:51.269 | Unknown] save
@@ -1100,7 +1100,7 @@
 [u1100 | 01:33:06.800-01:33:09.329 | DM] So that's going to be
 [u1101 | 01:33:09.420-01:33:15.660 | Raven] twenty points of piercing damage. Ah, so okay, we're fine
 [u1102 | 01:33:16.200-01:33:19.449 | Raven] that it is now Spirala’s turn,
-[u1103 | 01:33:20.540-01:33:25.490 | Raven] and then [[you will be consumed because we just ice]]
+[u1103 | 01:33:20.540-01:33:25.490 | Raven] and then {{you will be consumed because we just ice}}
 [u1104 | 01:33:28.370-01:33:29.200 | Unknown] time.
 [u1105 | 01:33:29.820-01:33:32.770 | Raven] Wait. So it's Spirala then Mikasa then me.
 [u1106 | 01:33:33.550-01:33:34.380 | DM] Yeah,
@@ -1338,8 +1338,8 @@
 [u1338 | 01:52:45.230-01:52:46.350 | Seeker] Give it back.
 [u1339 | 01:52:49.600-01:52:53.120 | DM] You just pick stuff up. What if they're not yours?
 [u1340 | 01:52:53.990-01:52:55.940 | Seeker] I am a
-[u1341 | 01:52:56.970-01:52:59.139 | Seeker] [[and worse off of that]]
-[u1342 | 01:52:59.510-01:53:02.380 | Seeker] [[natural philosophic reading]]. I
+[u1341 | 01:52:56.970-01:52:59.139 | Seeker] {{and worse off of that}}
+[u1342 | 01:52:59.510-01:53:02.380 | Seeker] {{natural philosophic reading}}. I
 [u1343 | 01:53:02.550-01:53:05.799 | Seeker] investigate the world. I follow my curiosity.
 [u1344 | 01:53:06.510-01:53:07.500 | DM] Ha!
 [u1345 | 01:53:09.390-01:53:13.979 | Seeker] You took something of mine. I'll take something of yours, you dear?
@@ -1357,7 +1357,7 @@
 [u1357 | 01:54:29.550-01:54:32.760 | Seeker] and we'll go back to the room above. Now. Okay,
 [u1358 | 01:54:35.190-01:54:37.090 | Raven] there are.
 [u1359 | 01:54:37.210-01:54:50.950 | DM] Where are you? Okay, you Everybody hears this now, and he,
-[u1360 | 01:54:51.380-01:54:54.829 | DM] This creature hears it and you hear. [[I didn’t like]],
+[u1360 | 01:54:51.380-01:54:54.829 | DM] This creature hears it and you hear. {{I didn’t like}},
 [u1361 | 01:54:58.000-01:55:02.520 | DM] you know. You know that commotion upstairs.
 [u1362 | 01:55:02.910-01:55:03.860 | Unknown] Oh,
 [u1363 | 01:55:03.980-01:55:05.679 | Seeker] traveling companions of
@@ -1366,7 +1366,7 @@
 [u1366 | 01:55:12.180-01:55:19.630 | Mikasa] their actions. You're the one who’s stealing stuff. Yeah, what do we do? Just you’re Seeker
 [u1367 | 01:55:19.750-01:55:22.070 | Seeker] that I am,
 [u1368 | 01:55:22.090-01:55:24.949 | Seeker] and my,
-[u1369 | 01:55:27.510-01:55:29.899 | DM] you may call me [[a Lauren]].
+[u1369 | 01:55:27.510-01:55:29.899 | DM] you may call me {{a Lauren}}.
 [u1370 | 01:55:32.920-01:55:34.160 | DM] I'll be back.
 [u1371 | 01:55:34.960-01:55:38.390 | DM] He like walks into the wall and vanishes,
 [u1372 | 01:55:38.590-01:55:42.100 | DM] and the rest of you see a head pop out of the floor
@@ -1424,7 +1424,7 @@
 [u1424 | 01:59:34.860-01:59:36.849 | DM] yes, magic is strong.
 [u1425 | 01:59:37.510-01:59:39.299 | DM] It is very powerful.
 [u1426 | 01:59:39.460-01:59:40.380 | Unknown] Okay,
-[u1427 | 01:59:41.190-01:59:50.570 | Seeker] is the sense that he might be lying about this, that it just happened. But [[it didn’t pause its attention]].
+[u1427 | 01:59:41.190-01:59:50.570 | Seeker] is the sense that he might be lying about this, that it just happened. But {{it didn’t pause its attention}}.
 [u1428 | 01:59:50.670-01:59:53.959 | DM] Um, make an insight check.
 [u1429 | 02:00:00.420-02:00:02.479 | DM] Ah, I mean
 [u1430 | 02:00:03.790-02:00:07.060 | DM] he is definitely a little squirrelly.
@@ -1442,7 +1442,7 @@
 [u1442 | 02:00:55.630-02:00:57.929 | DM] ever been. No,
 [u1443 | 02:01:00.430-02:01:01.980 | Seeker] that's where I live. Right?
 [u1444 | 02:01:03.140-02:01:06.570 | DM] Ah, the elemental plane of earth.
-[u1445 | 02:01:07.630-02:01:12.339 | Seeker] Oh, I see I live on the plane of [[Tel Aviv]].
+[u1445 | 02:01:07.630-02:01:12.339 | Seeker] Oh, I see I live on the plane of {{Tel Aviv}}.
 [u1446 | 02:01:15.900-02:01:22.230 | Raven] Well, what exactly happened? Did he take it? Yeah, I bet he took it.
 [u1447 | 02:01:23.340-02:01:24.879 | DM] Uh he ate it.
 [u1448 | 02:01:26.570-02:01:30.490 | Seeker] I guess I was kind of right when you think about it right Like
@@ -1558,7 +1558,7 @@
 [u1558 | 02:09:19.430-02:09:20.440 | DM] that
 [u1559 | 02:09:20.570-02:09:23.709 | DM] lightning bolt and a few other spells
 [u1560 | 02:09:24.910-02:09:27.160 | DM] bolt of chaotic energy
-[u1561 | 02:09:27.580-02:09:29.090 | Seeker] [[cleaning both the same]].
+[u1561 | 02:09:27.580-02:09:29.090 | Seeker] {{cleaning both the same}}.
 [u1562 | 02:09:29.320-02:09:32.769 | DM] And and when that didn't work I um
 [u1563 | 02:09:32.930-02:09:33.910 | Unknown] Hmm.
 [u1564 | 02:09:34.850-02:09:43.590 | DM] Summoned a big hand of force to protect me. So it wouldn't
@@ -1566,11 +1566,11 @@
 [u1566 | 02:09:46.280-02:09:47.880 | Seeker] Uh-huh! Big Hand.
 [u1567 | 02:09:48.320-02:09:49.560 | Unknown] They can
 [u1568 | 02:09:49.610-02:09:50.469 | DM] so
-[u1569 | 02:09:51.130-02:09:56.740 | DM] [[what about those things by beat]] down there, and I don't know what other spells you’ve cast
+[u1569 | 02:09:51.130-02:09:56.740 | DM] {{what about those things by beat}} down there, and I don't know what other spells you’ve cast
 [u1570 | 02:09:57.520-02:10:03.060 | Mikasa] you. the other spells cast are down there,
 [u1571 | 02:10:03.090-02:10:11.430 | Mikasa] and we will have to face them in some format.
 [u1572 | 02:10:11.960-02:10:15.259 | Seeker] That was the Polymorph spell that made me into it,
-[u1573 | 02:10:15.750-02:10:19.879 | Seeker] dragonfly. [[A lot of they become wide at]] that fireball.
+[u1573 | 02:10:15.750-02:10:19.879 | Seeker] dragonfly. {{A lot of they become wide at}} that fireball.
 [u1574 | 02:10:20.350-02:10:31.329 | Raven] I don't know. That's probably that was just like random, wild magic. It seemed like maybe they'll Also, it'll also be a living spell.
 [u1575 | 02:10:31.920-02:10:43.929 | Raven] There's there. There. Seems like there's like wild magic that happens when you cast a spell and like living spells. But I don't know if every spell becomes a living spell, or if there's some sort of like
 [u1576 | 02:10:43.960-02:10:48.290 | Seeker] we haven't actually seen the evidence of the living spell on them yet, either.
@@ -1588,11 +1588,11 @@
 [u1588 | 02:11:52.500-02:11:55.659 | Raven] who needs healing
 [u1589 | 02:11:55.830-02:12:05.129 | Raven] like at any healing at all I need twelve twelve points of healing because we should do my healing before we do hit die, because my healing is like before we rest.
 [u1590 | 02:12:06.600-02:12:08.309 | Spirala] Okay? Well, I
-[u1591 | 02:12:08.900-02:12:11.219 | Seeker] i'm below [[Hamilton]].
+[u1591 | 02:12:08.900-02:12:11.219 | Seeker] i'm below {{Hamilton}}.
 [u1592 | 02:12:11.910-02:12:15.509 | Raven] I have eight d4 plus
 [u1593 | 02:12:15.860-02:12:17.500 | Raven] twenty four
 [u1594 | 02:12:17.840-02:12:19.230 | Raven] hit points,
-[u1595 | 02:12:19.570-02:12:27.220 | Raven] so i'll give i'll give Spirala 2d6 plus, so [[I d six]], so as you get back. Fourteen,
+[u1595 | 02:12:19.570-02:12:27.220 | Raven] so i'll give i'll give Spirala 2d6 plus, so {{I d six}}, so as you get back. Fourteen,
 [u1596 | 02:12:29.760-02:12:32.719 | Raven] how much more hit points do you need to be a full?
 [u1597 | 02:12:33.020-02:12:36.920 | Spirala] But I I am very good with hit dice. I'll be fine. I do the rest.
 [u1598 | 02:12:37.070-02:12:40.359 | Raven] I'll give you also two.
@@ -1691,9 +1691,9 @@
 [u1691 | 02:22:01.990-02:22:03.020 | Raven] um,
 [u1692 | 02:22:03.120-02:22:05.220 | Seeker] or maybe
 [u1693 | 02:22:05.540-02:22:11.060 | Raven] so Let's just go to the Hall of Mirrors. Let's follow the that guy What's his name again?
-[u1694 | 02:22:11.700-02:22:13.370 | DM] Ah, [[Lauren]],
-[u1695 | 02:22:13.960-02:22:16.939 | Seeker] Yeah, or follow [[a Lauren]].
-[u1696 | 02:22:17.430-02:22:21.159 | DM] So [[a Lauren]] takes you down.
+[u1694 | 02:22:11.700-02:22:13.370 | DM] Ah, {{Lauren}},
+[u1695 | 02:22:13.960-02:22:16.939 | Seeker] Yeah, or follow {{a Lauren}}.
+[u1696 | 02:22:17.430-02:22:21.159 | DM] So {{a Lauren}} takes you down.
 [u1697 | 02:22:21.450-02:22:22.569 | DM] He like
 [u1698 | 02:22:22.840-02:22:27.370 | DM] pulls a hole into the floor, and he takes you. He like
 [u1699 | 02:22:27.460-02:22:31.160 | DM] takes you down to like a chamber that's
@@ -1776,7 +1776,7 @@
 [u1776 | 02:30:20.270-02:30:25.959 | DM] So it's. You. Don't know how long it takes a spell to be to
 [u1777 | 02:30:26.170-02:30:28.140 | DM] at least
 [u1778 | 02:30:29.600-02:30:31.650 | DM] minimum time
-[u1779 | 02:30:32.520-02:30:36.359 | DM] it could take [[as long a matter]] for spells to show up.
+[u1779 | 02:30:32.520-02:30:36.359 | DM] it could take {{as long a matter}} for spells to show up.
 [u1780 | 02:30:36.440-02:30:48.460 | Raven] But minimum times like a minute, because we didn't see it. Yeah, we do, because there's a time period where we oh, cause they appear here. So we don't know what the minimum time is.
 [u1781 | 02:30:48.810-02:30:54.770 | Raven] You should try and just cast a spell. It's. Really, you should just cast a weakish spell
 [u1782 | 02:30:54.940-02:31:00.310 | Raven] like any first-level spell that could be useful. And just see if it appears instantly
@@ -1809,7 +1809,7 @@
 [u1809 | 02:33:12.370-02:33:16.840 | Spirala] I was trying to measure, to see if this like vaguely threatening looking lightning bolt
 [u1810 | 02:33:17.090-02:33:18.609 | Spirala] was any.
 [u1811 | 02:33:18.870-02:33:22.730 | Spirala] Yeah, I'm going to cast it on this thing that's further away. Just so
-[u1812 | 02:33:22.880-02:33:27.250 | Spirala] big lightning bolt. Yeah, I can get to the [[White House]], I think.
+[u1812 | 02:33:22.880-02:33:27.250 | Spirala] big lightning bolt. Yeah, I can get to the {{White House}}, I think.
 [u1813 | 02:33:27.600-02:33:33.069 | Raven] Yeah, I I can. But but i'd rather have you whack a hands than
 [u1814 | 02:33:33.260-02:33:36.220 | Spirala] so i'm casting. Why, i'm on the lightning.
 [u1815 | 02:33:36.550-02:33:38.860 | Raven] I'm probably going to buy that statue.
@@ -1854,7 +1854,7 @@
 [u1854 | 02:36:47.510-02:36:49.800 | Mikasa] Strange! What?
 [u1855 | 02:36:50.800-02:36:59.209 | Seeker] Ah, it's just a the wild magic it doesn't have the magic effect that has random. Alright, So this this this: looks like. It's absorbing energy.
 [u1856 | 02:36:59.530-02:37:02.540 | DM] It looks like It's blinking or
-[u1857 | 02:37:02.960-02:37:08.119 | DM] doing something, [[and string a spell]], dash up to it,
+[u1857 | 02:37:02.960-02:37:08.119 | DM] doing something, {{and string a spell}}, dash up to it,
 [u1858 | 02:37:08.830-02:37:10.810 | Raven] and I will
 [u1859 | 02:37:11.140-02:37:20.860 | Raven] like the statue is moving and doing something or the thing in the No, No, the light that's pulsing inside of it. All right. I'm just going to try and break the statue.
 [u1860 | 02:37:21.230-02:37:22.270 | DM] Okay,
@@ -1936,7 +1936,7 @@
 [u1936 | 02:42:49.350-02:42:51.409 | Raven] but that is going to be
 [u1937 | 02:42:54.850-02:42:57.049 | Mikasa] so. Twenty three,
 [u1938 | 02:42:57.760-02:43:00.569 | Mikasa] like all of our
-[u1939 | 02:43:01.520-02:43:04.680 | DM] [[fifty, One, Miss I’ve been Venice]]
+[u1939 | 02:43:01.520-02:43:04.680 | DM] {{fifty, One, Miss I’ve been Venice}}
 [u1940 | 02:43:05.670-02:43:07.130 | DM] and a twenty
 [u1941 | 02:43:07.340-02:43:08.420 | Raven] to hit.
 [u1942 | 02:43:09.300-02:43:10.680 | DM] Ah,
@@ -1954,7 +1954,7 @@
 [u1954 | 02:44:16.150-02:44:20.939 | Raven] four hit points. Yeah, I dropped very fast. I took like
 [u1955 | 02:44:21.250-02:44:26.960 | Raven] I'm at my. My Max is sixty-three. They just it's so much.
 [u1956 | 02:44:27.680-02:44:29.070 | Mikasa] How do we heal you
-[u1957 | 02:44:29.770-02:44:42.249 | Raven] [[by getting you myself]]. I have a bunch of is your best way to heal,
+[u1957 | 02:44:29.770-02:44:42.249 | Raven] {{by getting you myself}}. I have a bunch of is your best way to heal,
 [u1958 | 02:44:42.290-02:44:53.380 | Raven] so I just haven't used it yet. So I basically I can heal myself. But it's a problem. If I don't get to my next turn, it's a problem.
 [u1959 | 02:44:53.470-02:44:57.269 | DM] This thing is going to dash fifty feet. My God!
 [u1960 | 02:44:57.720-02:45:01.280 | DM] But it's dashing. So that's all I can do. Seeker you're up.
@@ -1968,12 +1968,12 @@
 [u1968 | 02:45:57.740-02:45:58.810 | Unknown] Oops
 [u1969 | 02:46:00.980-02:46:06.910 | Raven] Seeker. You and Mikasa should coordinate what you're attacking to try and get something dead,
 [u1970 | 02:46:08.840-02:46:11.529 | DM] and remember you have all your fancy
-[u1971 | 02:46:11.810-02:46:22.419 | Mikasa] abilities, [[armies]], all of them. But I feel I feel like I feel like I should like. Run up and try to attack like the giant crystal dude thing in the middle. So that's like the fucking, like the guy that needs to go to [[Emily]].
+[u1971 | 02:46:11.810-02:46:22.419 | Mikasa] abilities, {{armies}}, all of them. But I feel I feel like I feel like I should like. Run up and try to attack like the giant crystal dude thing in the middle. So that's like the fucking, like the guy that needs to go to {{Emily}}.
 [u1972 | 02:46:22.990-02:46:25.899 | Raven] I mean he hasn't done anything yet. Actually,
 [u1973 | 02:46:26.310-02:46:30.600 | Mikasa] that's like
 [u1974 | 02:46:31.620-02:46:32.940 | DM] That's possible.
 [u1975 | 02:46:33.070-02:46:35.440 | Raven] I mean. He also is a really high AC.
-[u1976 | 02:46:36.130-02:46:40.270 | DM] Well, [[Obama]] Sixteen. This is really high
+[u1976 | 02:46:36.130-02:46:40.270 | DM] Well, {{Obama}} Sixteen. This is really high
 [u1977 | 02:46:41.980-02:46:43.869 | DM] Eric, Do you know what you're gonna do?
 [u1978 | 02:46:46.490-02:46:48.519 | DM] You are having Wi-fi issues?
 [u1979 | 02:46:49.110-02:46:58.339 | Raven] Yeah, it looks like why don't you do your turn because you're next after.
@@ -2199,7 +2199,7 @@
 [u2199 | 03:04:34.400-03:04:36.960 | Raven] eleven plus
 [u2200 | 03:04:37.180-03:04:38.979 | Raven] eight extra damage.
 [u2201 | 03:04:39.230-03:04:40.840 | DM] Ah, that kills that,
-[u2202 | 03:04:41.040-03:04:48.069 | Raven] and then I remember I [[had to stop poisoned]], I guess, and then I will heal. I will use my last flurry attack to heal five
+[u2202 | 03:04:41.040-03:04:48.069 | Raven] and then I remember I {{had to stop poisoned}}, I guess, and then I will heal. I will use my last flurry attack to heal five
 [u2203 | 03:04:48.190-03:04:58.540 | DM] you punch through the so effective you punch through the hand, and it vanishes in this like puff of
 [u2204 | 03:04:58.960-03:04:59.960 | DM] of
 [u2205 | 03:04:59.990-03:05:13.530 | DM] energy dissipating um, the catapult is going to smash into you two again, so both make Dex saves doesn't have very much momentum here, so it's going to be less damage,
@@ -2300,7 +2300,7 @@
 [u2300 | 03:13:38.960-03:13:42.970 | DM] Ah, both you and Raven take
 [u2301 | 03:13:47.220-03:13:53.250 | DM] one point of damage from the shards that fly out of it. Oh, and the dragonfly too
 [u2302 | 03:13:53.450-03:13:58.740 | DM] what I take! What one point of damage! Oh, no,
-[u2303 | 03:13:59.130-03:14:12.589 | DM] you're still alive. [[It’s one night, and my hit points the there’s shot]]. The statue splits open, you can see like in the center of it, where its stomach would be This sort of bluish green
+[u2303 | 03:13:59.130-03:14:12.589 | DM] you're still alive. {{It’s one night, and my hit points the there’s shot}}. The statue splits open, you can see like in the center of it, where its stomach would be This sort of bluish green
 [u2304 | 03:14:13.710-03:14:19.920 | DM] orb of it's sort of a bit of a like a writhing mass. It looks like almost a
 [u2305 | 03:14:20.320-03:14:22.990 | DM] giant collection of
 [u2306 | 03:14:23.590-03:14:24.789 | DM] Ah, like
@@ -2364,7 +2364,7 @@
 [u2364 | 03:19:04.700-03:19:12.820 | DM] Cracks in half, and the whole room begins to vibrate for a second, fireworks like, shoot out um
 [u2365 | 03:19:13.250-03:19:18.659 | Raven] almost like raising sword, and just your your your skin
 [u2366 | 03:19:19.150-03:19:38.039 | DM] Raven turns a vibrant shade of blue. Oh, no one can see my skin, anyway. No one, No one realizes anything happens, and eight snakes shoot out of your fingertips. Oh, gosh! As you destroy it! Just tiny little snakes,
-[u2367 | 03:19:38.110-03:19:46.349 | DM] But permanently attached snakes, or like [[for you right now]]? like like like fireworks. Snakes that shoot out. Um!
+[u2367 | 03:19:38.110-03:19:46.349 | DM] But permanently attached snakes, or like {{for you right now}}? like like like fireworks. Snakes that shoot out. Um!
 [u2368 | 03:19:46.700-03:19:48.940 | DM] Ah, Seeker,
 [u2369 | 03:19:49.060-03:19:56.030 | DM] your fingers fuse together, and your hands temporarily turn into sharp spikes that you can
 [u2370 | 03:19:56.620-03:20:01.799 | DM] dig through stuff with. But you cannot manipulate objects,
@@ -2380,7 +2380,7 @@
 [u2380 | 03:20:40.420-03:20:42.150 | DM] and
 [u2381 | 03:20:43.080-03:20:44.530 | Mikasa] ah!
 [u2382 | 03:20:52.800-03:20:57.030 | Mikasa] I I stab myself in the throat.
-[u2383 | 03:21:01.480-03:21:07.519 | Mikasa] Ah, you you [[gain of you know your lowest]]
+[u2383 | 03:21:01.480-03:21:07.519 | Mikasa] Ah, you you {{gain of you know your lowest}}
 [u2384 | 03:21:10.100-03:21:13.480 | Mikasa] um, and
 [u2385 | 03:21:15.110-03:21:25.470 | Mikasa] well, you use the whole access tin. Do you have like a random spell generator thing over there, or you just like, Yeah, that's fun.
 [u2386 | 03:21:37.200-03:21:38.800 | Mikasa] All the spells vanish.
@@ -2395,7 +2395,7 @@
 [u2395 | 03:22:29.170-03:22:30.320 | DM] It's like
 [u2396 | 03:22:32.160-03:22:39.719 | DM] who takes takes like a takes like a geode out of his pocket, and like walks over and hands it to you, and says,
 [u2397 | 03:22:39.980-03:22:42.260 | DM] I hope you got better.
-[u2398 | 03:22:42.340-03:22:49.270 | Seeker] [[I think it’s you]]. You can keep this.
+[u2398 | 03:22:42.340-03:22:49.270 | Seeker] {{I think it’s you}}. You can keep this.
 [u2399 | 03:22:50.260-03:22:54.670 | DM] Thank you. I I I think you I think you fixed it.
 [u2400 | 03:22:54.930-03:22:56.010 | Seeker] How good!
 [u2401 | 03:22:56.980-03:22:58.220 | DM] Hmm

@@ -11,7 +11,7 @@
 DM: And now, Zeno, your question about the restaurant.
 
 %% u0314-u0316 %%
-Heska: So Heska says to Little Tony—or sorry, to Zeno—as he wakes up, "So you want to start a band?" [[Robbing us.]]
+Heska: So Heska says to Little Tony—or sorry, to Zeno—as he wakes up, "So you want to start a band?" {{Robbing us.}}
 
 %% u0317 %%
 Zeno: Yeah, man.
@@ -56,13 +56,13 @@ Zeno: People just hanging around doing their…
 Little Tony: Hanging around. Guys, what if instead of chairs at the restaurant, everybody sits on swings?
 
 %% u0333 %%
-Zeno: [[You're dumb.]] Love it.
+Zeno: {{You're dumb.}} Love it.
 
 %% u0334-u0335 %%
 DM: Love it.
 
 %% u0336 %%
-Zeno: [[Mukhali.]]
+Zeno: {{Mukhali.}}
 
 %% u0337 %%
 Little Tony: And when you come in, you can just go to any of them.
@@ -245,7 +245,7 @@ Zeno: Zeno makes a beeline for the liquids, just searching out the most interest
 Heska: I'm…
 
 %% u0439-u0442 %%
-DM: Hold on, I just wanted to… So, Zeno, you're flying towards this whole scene. Okay. Yeah, yeah. Cool. [[What are your names?]]
+DM: Hold on, I just wanted to… So, Zeno, you're flying towards this whole scene. Okay. Yeah, yeah. Cool. {{What are your names?}}
 
 %% u0443 %%
 Heska: Heska's definitely not flying towards the scene. I'm going to look for somewhere not far—not, like, I don't know, 20, 30 feet away—where I can hide. And then I'll just send my invisible Mage Hand out to sample some food and bring it back.
@@ -359,7 +359,7 @@ Zeno: Zeno's kind of locked in. Find the… lock into the pitch, maybe harmonize
 DM: Oh, with the tone?
 
 %% u0502 %%
-Zeno: [[Leon, Leon Claus.]] Oh yeah, oh yeah.
+Zeno: {{Leon, Leon Claus.}} Oh yeah, oh yeah.
 
 %% u0503 %%
 DM: How are you harmonizing?
@@ -407,7 +407,7 @@ DM: Yeah, super new. Yeah, add a d4.
 Zeno: So that's another 2.
 
 %% u0521-u0524 %%
-DM: 15? Okay. As you start humming, and you're doing some serious overtone, tritone shit, you know, some [[Jean Shinizaki]] shit—there's kind of the bass frequency, and then you just lock into this really pleasant, just like, oh… You just dial in with it right above and below. Like, you're hugging the frequency it's giving you with the tones that you give it.
+DM: 15? Okay. As you start humming, and you're doing some serious overtone, tritone shit, you know, some {{Jean Shinizaki}} shit—there's kind of the bass frequency, and then you just lock into this really pleasant, just like, oh… You just dial in with it right above and below. Like, you're hugging the frequency it's giving you with the tones that you give it.
 
 %% u0525-u0527 %%
 Zeno: In my mind, I'm picturing actually a really delicious type of blue fish. But it's been prepared in such a way that inside of it is another slightly smaller blue fish, and inside of that one is an even smaller, delicious blue fish, each marinated slightly differently. Okay.
@@ -797,7 +797,7 @@ Little Tony: Yeah. I once…
 Heska: I once caught this fish that was…
 
 %% u0732 %%
-Sculpit: [[Scalpers.]]
+Sculpit: {{Scalpers.}}
 
 %% u0733 %%
 Little Tony: We know you once caught this fish, Heska.
@@ -809,7 +809,7 @@ DM: Oh.
 Zeno: That was it.
 
 %% u0736 %%
-Little Tony: No, no, no, no, please, please, please. [[That was an insight.]]
+Little Tony: No, no, no, no, please, please, please. {{That was an insight.}}
 
 %% u0737 %%
 Heska: He's just gonna skulk off. It was very tasty. Yeah, just…
@@ -920,7 +920,7 @@ Zeno: For a total of 3.
 DM: Okay, and Sculpit, what are you thinking of? Ha ha.
 
 %% u0792 %%
-Zeno: [[Public.]]
+Zeno: {{Public.}}
 
 %% u0793-u0795 %%
 Sculpit: He kind of looks around at the three people who completely ignored his plan. Wow! What's the strangest thing my Unseen Servant has created—has found so far?
@@ -1025,7 +1025,7 @@ Heska: Sticks.
 Little Tony: Is everything…
 
 %% u0847 %%
-Heska: [[It eats at my swings!]]
+Heska: {{It eats at my swings!}}
 
 %% u0848 %%
 Little Tony: Everything is reversed.
@@ -1130,7 +1130,7 @@ Sculpit: Explain. Wow. Hmm.
 DM: I think you should speak with Shaman Oru about this. He will want to know that this is happening. I think this will be good, because maybe you can make more food for everybody.
 
 %% u0905-u0908 %%
-Sculpit: Sculpit kind of points at the cauldron. [[Why I got the grid?]] The food is a bit of a work in progress.
+Sculpit: Sculpit kind of points at the cauldron. {{Why I got the grid?}} The food is a bit of a work in progress.
 
 %% u0909 %%
 DM: But the…
@@ -1187,7 +1187,7 @@ Zeno: Very welcoming, collaborative.
 Heska: Yeah, of course.
 
 %% u0939 %%
-Little Tony: [[Brooks.]]
+Little Tony: {{Brooks.}}
 
 %% u0940-u0941 %%
 Zeno: So… so…

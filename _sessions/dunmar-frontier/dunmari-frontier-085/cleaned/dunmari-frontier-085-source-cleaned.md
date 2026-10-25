@@ -30,9 +30,9 @@
 [u0030 | 00:04:04.730-00:04:09.460 | Seeker] again. Is that a way to stop time?
 [u0031 | 00:04:12.410-00:04:24.009 | Seeker] At any rate, thinking about time, also got Seeker thinking about his family. And so he's written a letter updating his parents on his travels.
 [u0032 | 00:04:24.040-00:04:26.600 | Seeker] occasionally amazed by his own
-[u0033 | 00:04:28.750-00:04:38.090 | Seeker] densely packed adventures. and also asking for any. [[Were there details that you recall about brother was disappears.]]
-[u0034 | 00:04:38.670-00:04:41.000 | Seeker] [[We are hopefully doing investigative.]]
-[u0035 | 00:04:45.530-00:04:55.850 | Seeker] The rest of the time has been spent [[raping]] around the skyship with Faldrak. and planning for the opening of our ship's inaugural artist in residence
+[u0033 | 00:04:28.750-00:04:38.090 | Seeker] densely packed adventures. and also asking for any. {{Were there details that you recall about brother was disappears.}}
+[u0034 | 00:04:38.670-00:04:41.000 | Seeker] {{We are hopefully doing investigative.}}
+[u0035 | 00:04:45.530-00:04:55.850 | Seeker] The rest of the time has been spent {{raping}} around the skyship with Faldrak. and planning for the opening of our ship's inaugural artist in residence
 [u0036 | 00:04:56.980-00:05:02.590 | Seeker] program. Perhaps with an introductory seminar
 [u0037 | 00:05:03.070-00:05:06.890 | Seeker] or lecture that Faldrak will give once we are underway
 [u0038 | 00:05:08.040-00:05:09.750 | Unknown] you
@@ -158,7 +158,7 @@
 [u0158 | 00:23:05.930-00:23:06.760 | Seeker] Hmm!
 [u0159 | 00:23:07.120-00:23:16.880 | Seeker] And just wha what are you hoping to gain again?
 [u0160 | 00:23:19.300-00:23:25.750 | Kenzo] Kenzo's like looking at Faldrak, but then looking really hard at at Seeker like
-[u0161 | 00:23:26.060-00:23:33.130 | Kenzo] what are cause we're we're doing. We're trusting you with the thing, and [[that they get is gain]].
+[u0161 | 00:23:26.060-00:23:33.130 | Kenzo] what are cause we're we're doing. We're trusting you with the thing, and {{that they get is gain}}.
 [u0162 | 00:23:33.600-00:23:34.970 | DM] Well, I mean.
 [u0163 | 00:23:35.480-00:23:38.500 | DM] did did we discuss this?
 [u0164 | 00:23:39.360-00:23:45.359 | Seeker] Surely we did. But there was a party.
@@ -186,7 +186,7 @@
 [u0186 | 00:25:31.370-00:25:32.300 | DM] done.
 [u0187 | 00:25:33.590-00:25:35.320 | Seeker] That sounds worthwhile to me.
 [u0188 | 00:25:36.140-00:25:39.250 | Kenzo] So so we're here to upgrade the offensive
-[u0189 | 00:25:39.590-00:25:44.190 | DM] capabilities. [[can learn to fly]]. Yeah, you don't you
+[u0189 | 00:25:39.590-00:25:44.190 | DM] capabilities. {{can learn to fly}}. Yeah, you don't you
 [u0190 | 00:25:44.480-00:25:45.850 | Delwath] remember his bird?
 [u0191 | 00:25:46.060-00:25:50.080 | Kenzo] Sure, the bird? But if you keep me alive
 [u0192 | 00:25:50.320-00:25:59.120 | DM] and my bird learns to fly, then yes, I'm upgrading the offensive capabilities of your ship and also your glove.
@@ -194,7 +194,7 @@
 [u0194 | 00:26:00.780-00:26:06.809 | DM] and I think that's it. Unless you have some hidden sources of elemental metal, I can enchant
 [u0195 | 00:26:08.570-00:26:12.830 | Seeker] what was the metal called? We do have a
 [u0196 | 00:26:12.920-00:26:16.879 | Seeker] yes, I'd like to add that to my glove now.
-[u0197 | 00:26:17.870-00:26:22.070 | DM] Oh, no, we don't need to add anything to your glove. The [[entire]] is for the
+[u0197 | 00:26:17.870-00:26:22.070 | DM] Oh, no, we don't need to add anything to your glove. The {{entire}} is for the
 [u0198 | 00:26:23.200-00:26:27.019 | DM] the the ship cannon. Your glove is magical enough.
 [u0199 | 00:26:27.220-00:26:28.879 | Seeker] Good, very good.
 [u0200 | 00:26:30.350-00:26:33.730 | Seeker] And or or maybe you don't want a cannon, and maybe you wanna
@@ -265,7 +265,7 @@
 [u0265 | 00:31:34.120-00:31:42.430 | DM] unrolls itself, unfolds itself into a piece of paper. Air mail. It is. It is a letter. It's the Philosophers’ Guild.
 [u0266 | 00:31:42.640-00:31:44.270 | DM] and it says.
 [u0267 | 00:31:45.450-00:31:51.430 | DM] There are words. It says.
-[u0268 | 00:31:52.050-00:31:55.150 | DM] dear Seeker of [[hiking]], brother to Frankar.
+[u0268 | 00:31:52.050-00:31:55.150 | DM] dear Seeker of {{hiking}}, brother to Frankar.
 [u0269 | 00:31:55.390-00:32:10.170 | Seeker] Your gift, though generously given, is a common trinket device made in great numbers during the age of Drankor to facilitate logistical support for the armies of the Empire. The trick of their easy construction has been lost, but many 100 still survive.
 [u0270 | 00:32:10.920-00:32:13.510 | DM] and there's little new to learn from this trinket.
 [u0271 | 00:32:13.710-00:32:14.450 | Seeker] Hmm!
@@ -278,7 +278,7 @@
 [u0278 | 00:33:00.340-00:33:10.489 | DM] while the efreeti are often cruel, they do greatly value those who possess rare talent, so perhaps one can hope. He was travelling as a trusted advisor and not a slave.
 [u0279 | 00:33:11.540-00:33:20.600 | DM] They were heading, according to those who saw them, towards the Cinder Wastes some claim they sought knowledge of the Oracle's Pyre, though
 [u0280 | 00:33:20.610-00:33:24.169 | DM] what such a thing was or is, is not known to me
-[u0281 | 00:33:24.230-00:33:28.459 | DM] beyond the obvious link from the name with both fire and divination. [[Object.]]
+[u0281 | 00:33:24.230-00:33:28.459 | DM] beyond the obvious link from the name with both fire and divination. {{Object.}}
 [u0282 | 00:33:29.540-00:33:34.120 | DM] More than this I cannot say. Perhaps those who saw him in particular.
 [u0283 | 00:33:34.160-00:33:42.929 | DM] the Azer may have more to report. Should you wish to travel to the elemental plane of fire in the city of Bronzehall, and question them yourself.
 [u0284 | 00:33:43.510-00:33:49.190 | DM] signed a Flame Warden, on behalf of the Ancient and Honorable Guild of Philosophers.
@@ -341,7 +341,7 @@
 [u0341 | 00:37:19.430-00:37:22.419 | Seeker] but different elementals. I mean.
 [u0342 | 00:37:23.630-00:37:28.120 | Unknown] it's not gonna if you don't use it in the Edge of Echoes. It's only gonna be.
 [u0343 | 00:37:28.150-00:37:32.590 | DM] you know, at at most a day later, right? There's no harm in
-[u0344 | 00:37:32.860-00:37:37.959 | DM] saving it to see if you need it, and then using it, [[maybe emerge]]. I support that idea.
+[u0344 | 00:37:32.860-00:37:37.959 | DM] saving it to see if you need it, and then using it, {{maybe emerge}}. I support that idea.
 [u0345 | 00:37:38.130-00:37:40.040 | Kenzo] Wait. But what else are we gonna show to
 [u0346 | 00:37:40.290-00:37:49.679 | Kenzo] find a Drankorian forge. Maybe there will be something you need to look at in the mirror.
 [u0347 | 00:37:49.810-00:37:50.880 | Kenzo] and
@@ -384,7 +384,7 @@
 [u0384 | 00:41:14.020-00:41:20.119 | Wellby] yeah, II got my armor fixed, and and it can fly, but but it's only a certain number of times. I mean, it's
 [u0385 | 00:41:20.510-00:41:22.649 | Wellby] better to float down than fly up.
 [u0386 | 00:41:23.000-00:41:30.690 | Delwath] If we can manage like a certain number of times a day, or like finite charges. Period no, a certain number of times per day.
-[u0387 | 00:41:31.120-00:41:36.129 | Seeker] We need to [[best]] bring anything with us, because,
+[u0387 | 00:41:31.120-00:41:36.129 | Seeker] We need to {{best}} bring anything with us, because,
 [u0388 | 00:41:37.050-00:41:43.950 | Seeker] I don't know. Drankorian forge it's probably just not sitting there unprotected. I may be
 [u0389 | 00:41:44.130-00:41:46.459 | Seeker] it's gonna be super easy.
 [u0390 | 00:41:47.880-00:41:54.510 | Delwath] You you you don't travel with all of your things that you need. Don't! Don't we have a folding boat?
@@ -399,7 +399,7 @@
 [u0399 | 00:43:00.500-00:43:02.720 | Seeker] Saves you the spell.
 [u0400 | 00:43:03.010-00:43:04.090 | Delwath] Yeah.
 [u0401 | 00:43:04.300-00:43:08.140 | Seeker] let's jump, so we'll give Faldrak some brief instructions.
-[u0402 | 00:43:08.320-00:43:10.789 | Seeker] and then [[Paul died]] and push him off the edge.
+[u0402 | 00:43:08.320-00:43:10.789 | Seeker] and then {{Paul died}} and push him off the edge.
 [u0403 | 00:43:11.290-00:43:14.730 | Kenzo] Wait when we featherfall with you? Do we have to be touching you, or do we just like
 [u0404 | 00:43:14.950-00:43:16.760 | Seeker] within
 [u0405 | 00:43:16.840-00:43:20.939 | DM] it's within 60 feet or 30 feet, or something like that.
@@ -453,7 +453,7 @@
 [u0453 | 00:47:41.630-00:47:43.779 | Wellby] and just keep following the river.
 [u0454 | 00:47:43.940-00:47:47.530 | DM] What's what are Kenzo and Delwath doing?
 [u0455 | 00:47:48.100-00:47:54.569 | Kenzo] Kenzo’s going to Commune with Nature, Tim, and just get a little diagnostic on
-[u0456 | 00:47:54.970-00:47:58.729 | Kenzo] what's going on in this cave? What's living in here? [[Let's divide]]
+[u0456 | 00:47:54.970-00:47:58.729 | Kenzo] what's going on in this cave? What's living in here? {{Let's divide}}
 [u0457 | 00:48:01.330-00:48:10.759 | Delwath] So the river. Sorry I trying to picture the cave. The river is going
 [u0458 | 00:48:11.630-00:48:15.160 | Delwath] out like we're at the bottom. So the river is.
 [u0459 | 00:48:16.240-00:48:24.510 | DM] You might have said it, and I kind of missed it. I mean, it's flowing somewhere. Obviously it doesn't. Just it's not, doesn't just stop. Water is continuing to flow.
@@ -468,7 +468,7 @@
 [u0468 | 00:49:13.860-00:49:14.710 | DM] Okay.
 [u0469 | 00:49:15.090-00:49:18.859 | Seeker] I'm confused about the flow of the river. So on the map.
 [u0470 | 00:49:19.830-00:49:22.130 | Seeker] it looks like it's done. Sorry. Do we have a
-[u0471 | 00:49:22.640-00:49:26.439 | Delwath] I don't have. [[I should social 20. We have a role.]] There's no
+[u0471 | 00:49:22.640-00:49:26.439 | Delwath] I don't have. {{I should social 20. We have a role.}} There's no
 [u0472 | 00:49:28.320-00:49:29.230 | Delwath] which map
 [u0473 | 00:49:30.280-00:49:32.669 | Seeker] the world map on the world map.
 [u0474 | 00:49:33.300-00:49:35.570 | Seeker] this little stub of river that we're on.
@@ -550,7 +550,7 @@
 [u0550 | 00:55:42.480-00:55:46.910 | DM] It's not that it's unnatural. It's not of this world.
 [u0551 | 00:55:49.830-00:55:52.110 | DM] Extraplanar energy.
 [u0552 | 00:55:52.170-00:56:01.479 | Kenzo] downriver. yeah, definitely feels like there's an elemental forge down there. And, or
-[u0553 | 00:56:02.530-00:56:06.790 | Kenzo] powerful elemental [[as it is.]] magic
+[u0553 | 00:56:02.530-00:56:06.790 | Kenzo] powerful elemental {{as it is.}} magic
 [u0554 | 00:56:09.640-00:56:12.440 | Wellby] downriver. Not off the side passage.
 [u0555 | 00:56:13.460-00:56:19.970 | DM] Downriver is where you're feeling it. And and it's also like the further downriver you go, the more
 [u0556 | 00:56:22.010-00:56:30.930 | DM] almost lonely it feels it. Almost you almost get the feeling like as you extend your senses for a mile downstream.
@@ -610,7 +610,7 @@
 [u0610 | 01:01:35.120-01:01:40.469 | Wellby] Yeah. I wanna send it back down the passages and probably then call it a day with the bat.
 [u0611 | 01:01:41.230-01:01:46.449 | DM] The the passages on the right, the eastern passages actually connect.
 [u0612 | 01:01:46.600-01:01:55.270 | DM] It's like one tunnel that goes up like this above the river goes through the rock and then comes back down. So the 2 passages that branch out.
-[u0613 | 01:01:55.280-01:01:59.380 | DM] and there doesn't seem to be any other [[with a question]].
+[u0613 | 01:01:55.280-01:01:59.380 | DM] and there doesn't seem to be any other {{with a question}}.
 [u0614 | 01:01:59.790-01:02:02.670 | DM] Passages that branch out from there.
 [u0615 | 01:02:03.500-01:02:05.270 | DM] the
 [u0616 | 01:02:05.480-01:02:16.920 | DM] left hand passage close to the river or close to the rapids. continues getting narrower and starting to slope down for some some distance
@@ -699,7 +699,7 @@
 [u0699 | 01:09:23.470-01:09:27.599 | DM] So you set sail. Faldrak is. Faldrak is like tapping on the boat. He's like.
 [u0700 | 01:09:28.029-01:09:33.279 | DM] that's that's a good trick. Where'd you get that? Who made that for you?
 [u0701 | 01:09:35.060-01:09:36.240 | Kenzo] Slain enemies?
-[u0702 | 01:09:37.300-01:09:44.369 | Wellby] Yeah, [[take take an f that bodies of our farmers]] so back by the tiller.
+[u0702 | 01:09:37.300-01:09:44.369 | Wellby] Yeah, {{take take an f that bodies of our farmers}} so back by the tiller.
 [u0703 | 01:09:46.330-01:09:53.510 | DM] So you set sail. or I guess you're I mean there's no wind here. Right? So you're presumably it has oars as well.
 [u0704 | 01:09:53.710-01:10:00.170 | DM] And actually, you don't even really need oars or sail. The current is fast enough. You just need to steer
 [u0705 | 01:10:01.230-01:10:07.310 | DM] so I'll be sitting back by the tiller.
@@ -718,7 +718,7 @@
 [u0718 | 01:11:33.720-01:11:37.049 | DM] Alright, cause you cannot roll lower than a 10
 [u0719 | 01:11:38.820-01:11:42.640 | DM] so you begin to you
 [u0720 | 01:11:43.570-01:11:45.480 | DM] while we're steering.
-[u0721 | 01:11:47.040-01:11:55.650 | DM] catch catch the sort of, oar that you're, you know the tiller briefly on a rock, and the boat begins to sort of [[help]] like this slightly, but you
+[u0721 | 01:11:47.040-01:11:55.650 | DM] catch catch the sort of, oar that you're, you know the tiller briefly on a rock, and the boat begins to sort of {{help}} like this slightly, but you
 [u0722 | 01:11:55.770-01:11:57.769 | DM] you catch it again.
 [u0723 | 01:11:58.250-01:11:59.280 | DM] and
 [u0724 | 01:12:01.010-01:12:06.490 | DM] continue. Get past this this one rapid stretch.
@@ -729,7 +729,7 @@
 [u0729 | 01:12:17.770-01:12:19.680 | DM] brief patch of calm.
 [u0730 | 01:12:21.230-01:12:23.360 | DM] you hear this faint
 [u0731 | 01:12:26.190-01:12:31.689 | DM] roaring noise in the distance, like an echoing sort of roar.
-[u0732 | 01:12:32.870-01:12:40.270 | Kenzo] like dying in pain, roar, or like a waterfall roar. or [[a home like a month]], or
+[u0732 | 01:12:32.870-01:12:40.270 | Kenzo] like dying in pain, roar, or like a waterfall roar. or {{a home like a month}}, or
 [u0733 | 01:12:40.310-01:12:43.940 | Wellby] like wanting to eat something roar so real quick.
 [u0734 | 01:12:44.140-01:12:49.999 | Wellby] I grab the immovable rod. I slip a line over it, and I have it. Stop in place.
 [u0735 | 01:12:50.720-01:12:55.250 | Seeker] Brilliant anchoring. Okay. that wow!
@@ -759,7 +759,7 @@
 [u0759 | 01:14:28.090-01:14:34.250 | Wellby] Does that affect the boat, though. No, if we timed this perfectly, this would be pretty magical timing
 [u0760 | 01:14:34.410-01:14:35.360 | Wellby] the boat.
 [u0761 | 01:14:35.560-01:14:44.670 | Wellby] but we we jump as the boat goes over the waterfall. We have the boat fold up, we featherfall. We unfold the boat again, and we land in the boat at the bottom.
-[u0762 | 01:14:46.990-01:15:00.679 | Kenzo] Very interesting idea! That sounds! Actually. II think, I think if Kenzo takes the lead on the boat, folding and unfolding part as that's acrobatics. And then we just fall and [[got]] ourselves right in. I think that's
+[u0762 | 01:14:46.990-01:15:00.679 | Kenzo] Very interesting idea! That sounds! Actually. II think, I think if Kenzo takes the lead on the boat, folding and unfolding part as that's acrobatics. And then we just fall and {{got}} ourselves right in. I think that's
 [u0763 | 01:15:01.940-01:15:03.760 | Seeker] we can always. These are.
 [u0764 | 01:15:05.070-01:15:08.039 | Delwath] Let's try it. I mean, what could go wrong?
 [u0765 | 01:15:08.130-01:15:10.909 | Seeker] Is it literally like a vertical waterfall, or like
@@ -769,8 +769,8 @@
 [u0769 | 01:15:28.130-01:15:30.970 | Seeker] Can I animate the boat.
 [u0770 | 01:15:31.520-01:15:39.209 | Delwath] or is it too far? No, it's magical. You can't, and you can only animate non magical. Yeah, but you can animate like a normal boat.
 [u0771 | 01:15:40.420-01:15:41.880 | Delwath] I can send a scout.
-[u0772 | 01:15:42.170-01:15:53.059 | Kenzo] because then it could fly, as all. Then the scout, but also, I think I think. You know we're 12th-level adventurers, I think, [[thought]] jumping out of the I'm feather falling out of the
-[u0773 | 01:15:53.070-01:15:56.900 | Kenzo] the the boat, refolding it at the [[but]] feels like we should be able to.
+[u0772 | 01:15:42.170-01:15:53.059 | Kenzo] because then it could fly, as all. Then the scout, but also, I think I think. You know we're 12th-level adventurers, I think, {{thought}} jumping out of the I'm feather falling out of the
+[u0773 | 01:15:53.070-01:15:56.900 | Kenzo] the the boat, refolding it at the {{but}} feels like we should be able to.
 [u0774 | 01:15:56.980-01:16:07.789 | Seeker] That's like a you know. I mean, it's an amazing mental image. It's it's a little more elegant than what I proposed of going funk, but that would also work.
 [u0775 | 01:16:10.470-01:16:15.419 | Delwath] I mean, I can. I can send my little insect creature out to scout, and it'll come back right.
 [u0776 | 01:16:15.880-01:16:24.300 | Kenzo] That'll make it more successful. Cause then, if we know how far down it is all that you know, what's an insect that can.
@@ -810,7 +810,7 @@
 [u0810 | 01:18:55.640-01:18:58.330 | Unknown] Was there any danger? Did you sense any danger
 [u0811 | 01:18:58.820-01:19:00.700 | Delwath] there anything that scared you down there
 [u0812 | 01:19:02.010-01:19:02.820 | DM] No
-[u0813 | 01:19:03.600-01:19:05.329 | Seeker] [[thing that 8 months was done]].
+[u0813 | 01:19:03.600-01:19:05.329 | Seeker] {{thing that 8 months was done}}.
 [u0814 | 01:19:05.410-01:19:07.130 | Wellby] feeling calm at the bottom
 [u0815 | 01:19:12.670-01:19:13.800 | DM] mostly
 [u0816 | 01:19:14.680-01:19:22.730 | Seeker] would notice if there was light to fly towards.
@@ -844,7 +844,7 @@
 [u0844 | 01:21:14.860-01:21:18.690 | Delwath] Delwath is on backup plan. Cast fly
 [u0845 | 01:21:20.670-01:21:22.940 | Seeker] while we're in the air. But
 [u0846 | 01:21:24.000-01:21:25.610 | Delwath] I mean, as long as we
-[u0847 | 01:21:28.770-01:21:31.730 | DM] [[as well as the]] you’re featherfalling
+[u0847 | 01:21:28.770-01:21:31.730 | DM] {{as well as the}} you’re featherfalling
 [u0848 | 01:21:31.990-01:21:34.640 | Delwath] like. Yeah. The plan is to featherfall correct.
 [u0849 | 01:21:35.900-01:21:38.910 | Kenzo] Kenzo is gonna fold up the boat and unfold it
 [u0850 | 01:21:40.210-01:21:41.400 | Kenzo] acrobatically.
@@ -854,8 +854,8 @@
 [u0854 | 01:21:54.480-01:21:58.130 | DM] Yeah, that's not a great. That's that's not a great sign.
 [u0855 | 01:21:58.250-01:22:06.710 | Kenzo] Well, you said, hold on for a minute, so that one roll doesn't count. That totally doesn't count.
 [u0856 | 01:22:08.430-01:22:09.750 | Delwath] Wait!
-[u0857 | 01:22:09.830-01:22:13.690 | Delwath] [[Nobody out]] he rolled an
-[u0858 | 01:22:14.980-01:22:24.750 | Kenzo] acrobatics check! [[Go, kids]]! No, but that didn't. That didn't count, he said. Hold on a minute, so
+[u0857 | 01:22:09.830-01:22:13.690 | Delwath] {{Nobody out}} he rolled an
+[u0858 | 01:22:14.980-01:22:24.750 | Kenzo] acrobatics check! {{Go, kids}}! No, but that didn't. That didn't count, he said. Hold on a minute, so
 [u0859 | 01:22:25.670-01:22:28.140 | DM] it takes about 10 min
 [u0860 | 01:22:28.740-01:22:29.910 | DM] for the boat.
 [u0861 | 01:22:30.110-01:22:31.660 | DM] To.
@@ -882,7 +882,7 @@
 [u0882 | 01:24:17.050-01:24:17.800 | Seeker] yeah.
 [u0883 | 01:24:20.940-01:24:28.749 | Kenzo] alright. Alright, alright, alright. We just work whatever's happening now for sure. Okay, we can always go back to planning.
 [u0884 | 01:24:28.770-01:24:31.109 | Seeker] We're we're we're committed.
-[u0885 | 01:24:33.390-01:24:37.420 | Delwath] [[Is it worth escaping? And whether you guys fall down?]]
+[u0885 | 01:24:33.390-01:24:37.420 | Delwath] {{Is it worth escaping? And whether you guys fall down?}}
 [u0886 | 01:24:37.800-01:24:41.550 | Wellby] No, no, I think we're okay. I activated the rod. It was just too late.
 [u0887 | 01:24:41.820-01:24:43.880 | DM] So you're you're like.
 [u0888 | 01:24:44.060-01:24:53.379 | DM] you know, you're you see this sort of open area to the left, just as you're speeding up to shoot over the waterfall. And Wellby like jams the oar into the
@@ -908,12 +908,12 @@
 [u0908 | 01:26:57.340-01:26:58.730 | DM] beneath your feet
 [u0909 | 01:26:59.300-01:27:04.230 | DM] everybody make an acrobatics check, including Faldrak
 [u0910 | 01:27:04.860-01:27:10.750 | DM] Yup. This might go poorly. He does have a minus one to acrobatics. Yeah.
-[u0911 | 01:27:18.810-01:27:20.930 | DM] wait. Where did Faldrak’s [[exhale]]? Go?
+[u0911 | 01:27:18.810-01:27:20.930 | DM] wait. Where did Faldrak’s {{exhale}}? Go?
 [u0912 | 01:27:24.470-01:27:28.020 | DM] Oops. Okay. He rolled. A one
 [u0913 | 01:27:28.130-01:27:32.939 | Kenzo] inspire him. Or is that not even worth doing? Because he rolled a one.
 [u0914 | 01:27:35.080-01:27:39.650 | DM] It's like, how bad is it? That's pretty bad, I mean, he's like he's like
 [u0915 | 01:27:39.940-01:27:42.980 | DM] falling like 10 feet away from the boat.
-[u0916 | 01:27:43.680-01:27:46.309 | Wellby] [[less to him]] or something, or
+[u0916 | 01:27:43.680-01:27:46.309 | Wellby] {{less to him}} or something, or
 [u0917 | 01:27:46.680-01:27:49.950 | Seeker] I don't think I can grab him. He's going in the water.
 [u0918 | 01:27:50.450-01:27:53.189 | DM] Seeker is also missing the boat.
 [u0919 | 01:27:53.740-01:27:54.540 | Seeker] Oh.
@@ -932,7 +932,7 @@
 [u0932 | 01:29:14.350-01:29:18.319 | DM] I mean, when you're featherfalling, you're moving, moving pretty slowly right? So it's
 [u0933 | 01:29:18.600-01:29:22.850 | DM] it's not even like a big splash from a dive. It's more like kind of
 [u0934 | 01:29:23.350-01:29:29.799 | DM] gently sliding into the water. The plop as the 2 dwarves go in the lake?
-[u0935 | 01:29:29.950-01:29:44.459 | DM] [[12. Do we need to spend]] Seeker, Seeker? Maybe. you know, 5 feet from the boat. Faldrak maybe 15 feet from the boat.
+[u0935 | 01:29:29.950-01:29:44.459 | DM] {{12. Do we need to spend}} Seeker, Seeker? Maybe. you know, 5 feet from the boat. Faldrak maybe 15 feet from the boat.
 [u0936 | 01:29:45.630-01:29:52.730 | DM] And as you watch this you see
 [u0937 | 01:29:54.370-01:29:57.030 | Kenzo] forming in the water but
 [u0938 | 01:29:57.190-01:30:02.850 | DM] beginning to sort of emerge out from the water. two creatures that look like
@@ -991,7 +991,7 @@
 [u0991 | 01:36:01.610-01:36:05.529 | DM] Seeker is
 [u0992 | 01:36:07.290-01:36:09.550 | DM] 5 feet away from the boat.
 [u0993 | 01:36:11.400-01:36:13.430 | DM] and oh.
-[u0994 | 01:36:14.010-01:36:16.199 | DM] Faldrak, where is [[contract]].
+[u0994 | 01:36:14.010-01:36:16.199 | DM] Faldrak, where is {{contract}}.
 [u0995 | 01:36:59.110-01:37:02.480 | DM] Okay, Faldrak is 10 feet away from Seeker.
 [u0996 | 01:37:04.150-01:37:07.610 | DM] I think it would be. And then the boat.
 [u0997 | 01:37:09.020-01:37:24.120 | DM] yes.
@@ -1071,7 +1071,7 @@
 [u1071 | 01:46:13.420-01:46:14.230 | DM] Okay.
 [u1072 | 01:46:17.830-01:46:19.000 | Wellby] that
 [u1073 | 01:46:20.330-01:46:21.020 | Wellby] I'm good.
-[u1074 | 01:46:23.090-01:46:31.109 | Seeker] I picture that the the rod is vertical, and you sort of like, pull yourself up and kind of double click it [[while misses on it]].
+[u1074 | 01:46:23.090-01:46:31.109 | Seeker] I picture that the the rod is vertical, and you sort of like, pull yourself up and kind of double click it {{while misses on it}}.
 [u1075 | 01:46:35.430-01:46:38.669 | Wellby] and I guess that is all I'm doing this round.
 [u1076 | 01:46:39.000-01:46:40.550 | Seeker] Okay.
 [u1077 | 01:46:40.690-01:46:45.150 | DM] But now the rest of you
@@ -1084,9 +1084,9 @@
 [u1084 | 01:47:29.880-01:47:31.740 | Kenzo] What's why.
 [u1085 | 01:47:32.860-01:47:35.810 | DM] from blistering steam
 [u1086 | 01:47:36.200-01:47:40.789 | Seeker] Seeker. You take 9 points of damage Delwath. You take 9 points of damage.
-[u1087 | 01:47:41.570-01:47:50.939 | Kenzo] Kenzo. 9. You take 18 points of damage, and the steam splashes into your eyes, temporarily blinding, you Rude. [[plus]].
+[u1087 | 01:47:41.570-01:47:50.939 | Kenzo] Kenzo. 9. You take 18 points of damage, and the steam splashes into your eyes, temporarily blinding, you Rude. {{plus}}.
 [u1088 | 01:47:51.580-01:47:58.049 | DM] and Faldrak takes 18 points of damage and is also temporarily blinded.
-[u1089 | 01:47:59.760-01:48:02.630 | Kenzo] We're being punished for going on a side [[walk]]
+[u1089 | 01:47:59.760-01:48:02.630 | Kenzo] We're being punished for going on a side {{walk}}
 [u1090 | 01:48:03.140-01:48:07.610 | DM] and then it is going to
 [u1091 | 01:48:09.740-01:48:17.849 | DM] still flying. Come here and whip its tail around striking twice at
 [u1092 | 01:48:18.280-01:48:20.379 | DM] Kenzo.
@@ -1110,7 +1110,7 @@
 [u1110 | 01:49:48.400-01:49:54.670 | DM] The wat- this water elemental now swims up
 [u1111 | 01:49:54.890-01:49:57.230 | Seeker] and surrounding Seeker
 [u1112 | 01:49:59.060-01:50:00.070 | Unknown] and
-[u1113 | 01:50:00.650-01:50:07.730 | DM] tries to [[oat]]—tries to just overwhelm you. Seeker, you have to make a strength saving throw.
+[u1113 | 01:50:00.650-01:50:07.730 | DM] tries to {{oat}}—tries to just overwhelm you. Seeker, you have to make a strength saving throw.
 [u1114 | 01:50:08.490-01:50:12.989 | Seeker] That's totally my. This is where I shine with my minus one. Here.
 [u1115 | 01:50:13.250-01:50:14.060 | Wellby] Umhm.
 [u1116 | 01:50:15.560-01:50:17.480 | DM] you are
@@ -1139,14 +1139,14 @@
 [u1139 | 01:51:59.420-01:52:01.500 | Kenzo] Hey? I'm gonna
 [u1140 | 01:52:01.710-01:52:04.449 | Kenzo] Cloak of the Manta Ray myself and
 [u1141 | 01:52:06.500-01:52:14.490 | Kenzo] which I think if I were smart I would have put that on at some point earlier, since we're on a river.
-[u1142 | 01:52:14.780-01:52:22.030 | Kenzo] and I'm going to go and attack [[bucket man]]. I'll come and attack the watermelon water elemental.
+[u1142 | 01:52:14.780-01:52:22.030 | Kenzo] and I'm going to go and attack {{bucket man}}. I'll come and attack the watermelon water elemental.
 [u1143 | 01:52:22.980-01:52:26.950 | Kenzo] Slide up over here. So let's get disadvantage on my attacks.
 [u1144 | 01:52:27.560-01:52:28.590 | DM] Yup
 [u1145 | 01:52:29.260-01:52:29.970 | Seeker] hope!
 [u1146 | 01:52:31.330-01:52:34.730 | Kenzo] Oh, interesting! I can't Soul Sight while I'm blind. Huh?
 [u1147 | 01:52:36.540-01:52:39.330 | DM] A no.
 [u1148 | 01:52:40.920-01:52:48.489 | Kenzo] Is Soul Sight like an aura based thing, or is it like a but it's a creature you can see, and you can't see any creatures right now.
-[u1149 | 01:52:48.710-01:52:52.939 | Kenzo] Then, I'm gonna do [[shoot through]] like monk style and
+[u1149 | 01:52:48.710-01:52:52.939 | Kenzo] Then, I'm gonna do {{shoot through}} like monk style and
 [u1150 | 01:52:53.210-01:52:56.630 | Kenzo] attacking with my staff. but without any
 [u1151 | 01:52:58.070-01:53:00.499 | Kenzo] any vision at disadvantage. Right?
 [u1152 | 01:53:01.040-01:53:01.750 | DM] Yup.
@@ -1224,7 +1224,7 @@
 [u1224 | 01:58:36.070-01:58:37.400 | DM] natural one.
 [u1225 | 01:58:39.480-01:58:41.870 | DM] and that brings us to Delwath.
 [u1226 | 01:58:43.490-01:58:47.719 | Delwath] Seeker, you’re next. Then, Faldrak.
-[u1227 | 01:58:48.670-01:58:52.419 | Seeker] [[I even do.]] I'm under water. Jesus. I can cast a spell, I guess.
+[u1227 | 01:58:48.670-01:58:52.419 | Seeker] {{I even do.}} I'm under water. Jesus. I can cast a spell, I guess.
 [u1228 | 01:58:53.260-01:58:56.299 | Delwath] Do you have? Any way you can cast us?
 [u1229 | 01:58:56.610-01:58:58.259 | DM] You can cast a spell.
 [u1230 | 01:58:58.600-01:59:02.610 | DM] you currently can't breathe, and you're holding your breath.
@@ -1300,7 +1300,7 @@
 [u1300 | 02:04:19.300-02:04:29.869 | DM] He's gonna vanish. He reappears right there and then he like steps on to land, and then he turns around and takes his his silver cane, and he like holds it up.
 [u1301 | 02:04:30.240-02:04:36.580 | DM] He points it at one of these sparks and this, like bolt of fire, comes flying out of that.
 [u1302 | 02:04:36.630-02:04:46.839 | DM] and you can see as a bolt of fire comes flying out there, these, like runes carved at the end of his cane. That light up as it comes flying out of the end.
-[u1303 | 02:04:47.620-02:04:49.859 | Seeker] So those beads are [[in sections]]. Wow!
+[u1303 | 02:04:47.620-02:04:49.859 | Seeker] So those beads are {{in sections}}. Wow!
 [u1304 | 02:04:50.950-02:04:52.080 | DM] He
 [u1305 | 02:04:53.840-02:04:55.590 | DM] blows that one up.
 [u1306 | 02:04:57.650-02:04:59.820 | DM] and that ends Faldrak's turn.
@@ -1371,7 +1371,7 @@
 [u1371 | 02:11:22.000-02:11:23.049 | DM] Oh, okay.
 [u1372 | 02:11:23.120-02:11:29.070 | Delwath] yeah. So that hits plus more than it's more than that. I just don't know how to make it work
 [u1373 | 02:11:31.280-02:11:32.620 | DM] Seeker, you're next.
-[u1374 | 02:11:33.590-02:11:34.770 | Delwath] it's actually [[60]]. Yeah.
+[u1374 | 02:11:33.590-02:11:34.770 | Delwath] it's actually {{60}}. Yeah.
 [u1375 | 02:11:36.630-02:11:37.360 | DM] okay.
 [u1376 | 02:11:38.910-02:11:40.200 | DM] that also hits.
 [u1377 | 02:11:46.100-02:11:47.819 | Delwath] So plus 14,
@@ -1401,7 +1401,7 @@
 [u1401 | 02:13:25.940-02:13:39.090 | DM] it can't take actions or reactions. oh, no, it just means it can't take actions or reactions. It's not stunned. Stunned also gives disadvantage or advantage on
 [u1402 | 02:13:39.560-02:13:44.350 | DM] attacks. But it can't do anything until the end of your next turn.
 [u1403 | 02:13:44.550-02:13:48.859 | DM] Faldrak, still seeing his opportunity, is going to
-[u1404 | 02:13:50.170-02:13:53.680 | DM] take a [[to]] blast away at
+[u1404 | 02:13:50.170-02:13:53.680 | DM] take a {{to}} blast away at
 [u1405 | 02:13:53.970-02:14:00.119 | DM] the water elemental with his wand, his
 [u1406 | 02:14:02.480-02:14:04.920 | DM] fire cane
 [u1407 | 02:14:05.110-02:14:08.419 | DM] which is going to do?
@@ -1410,7 +1410,7 @@
 [u1410 | 02:14:23.370-02:14:27.270 | DM] 23 points of damage.
 [u1411 | 02:14:30.460-02:14:40.800 | DM] And that brings us to Kenzo.
 [u1412 | 02:14:43.800-02:14:46.180 | Kenzo] Alright, then finish this dude off
-[u1413 | 02:14:48.810-02:14:50.240 | Kenzo] [[these tests]].
+[u1413 | 02:14:48.810-02:14:50.240 | Kenzo] {{these tests}}.
 [u1414 | 02:14:55.640-02:14:57.030 | Kenzo] 14.
 [u1415 | 02:14:57.210-02:15:00.390 | DM] 14. Just hits.
 [u1416 | 02:15:00.420-02:15:01.520 | Kenzo] Oh, no way.
@@ -1446,7 +1446,7 @@
 [u1446 | 02:17:25.809-02:17:27.070 | DM] Got it?
 [u1447 | 02:17:31.639-02:17:33.149 | Delwath] Is that close to that?
 [u1448 | 02:17:33.330-02:17:34.480 | Delwath] Yeah.
-[u1449 | 02:17:35.770-02:17:39.739 | DM] [[Where do you]] 13? Kill it.
+[u1449 | 02:17:35.770-02:17:39.739 | DM] {{Where do you}} 13? Kill it.
 [u1450 | 02:17:40.030-02:17:40.730 | DM] Yes.
 [u1451 | 02:17:41.000-02:17:42.699 | Delwath] okay. Then I will
 [u1452 | 02:17:43.020-02:17:45.189 | Delwath] go attack the minions
@@ -1462,7 +1462,7 @@
 [u1462 | 02:18:25.840-02:18:28.310 | Kenzo] how many points
 [u1463 | 02:18:28.580-02:18:30.120 | Delwath] 30 hit points left?
 [u1464 | 02:18:30.389-02:18:33.119 | Seeker] It took 50 points of damage.
-[u1465 | 02:18:33.459-02:18:36.090 | Kenzo] [[apparently an is pointless]].
+[u1465 | 02:18:33.459-02:18:36.090 | Kenzo] {{apparently an is pointless}}.
 [u1466 | 02:18:43.940-02:18:47.459 | Delwath] I mean, I be okay. There's nothing left but like
 [u1467 | 02:18:48.420-02:18:52.919 | Kenzo] you get
 [u1468 | 02:18:54.809-02:19:00.679 | DM] Faldrak will again take between Faldrak Kenzo and
@@ -1498,7 +1498,7 @@
 [u1498 | 02:21:32.950-02:21:36.540 | DM] that's like a big carved arch
 [u1499 | 02:21:37.710-02:21:39.359 | DM] cut out of the stone.
 [u1500 | 02:21:39.520-02:21:41.240 | Seeker] What's the carving style
-[u1501 | 02:21:43.780-02:21:44.700 | Seeker] [[we're then]]?
+[u1501 | 02:21:43.780-02:21:44.700 | Seeker] {{we're then}}?
 [u1502 | 02:21:45.650-02:21:54.119 | DM] II mean, it's like it's like a. It's like, you know, rough hewn rock. II don't know that there's a well, I mean, go ahead and make
 [u1503 | 02:21:56.250-02:21:57.830 | DM] I guess a history check.
 [u1504 | 02:22:04.550-02:22:09.970 | DM] Yeah, it's it's sort of hard. I mean, it's not. There's not a lot of detail here, right? It's
@@ -1506,7 +1506,7 @@
 [u1506 | 02:22:14.110-02:22:18.210 | DM] You know, looking, seeing like there's a pretty.
 [u1507 | 02:22:19.460-02:22:28.930 | DM] The lake itself is pretty big, and this sort of stone sloping shore that goes up to the wall is pretty long, and you're just kind of looking at this
 [u1508 | 02:22:30.890-02:22:36.540 | DM] hole. This passageway sort of carved into the into the wall of the cavern.
-[u1509 | 02:22:43.830-02:22:48.050 | Kenzo] Kenzo gives gives Faldrak a tap with his [[app]].
+[u1509 | 02:22:43.830-02:22:48.050 | Kenzo] Kenzo gives gives Faldrak a tap with his {{app}}.
 [u1510 | 02:22:48.940-02:22:52.040 | Kenzo] How are you feeling about adventuring so far. Faldrak?
 [u1511 | 02:22:54.910-02:22:56.430 | DM] That was pretty good.
 [u1512 | 02:22:56.580-02:23:01.809 | DM] should have brought some healing potions.
@@ -1631,7 +1631,7 @@
 [u1631 | 02:33:21.690-02:33:24.150 | Seeker] We investigate the pillars.
 [u1632 | 02:33:28.430-02:33:34.100 | DM] Sure. So Seeker is going into the room and sort of trying to
 [u1633 | 02:33:35.820-02:33:37.410 | DM] investigate the
-[u1634 | 02:33:40.390-02:33:44.419 | Seeker] the sort of row of pillars. [[So I’ll just keeping]] a lookout
+[u1634 | 02:33:40.390-02:33:44.419 | Seeker] the sort of row of pillars. {{So I’ll just keeping}} a lookout
 [u1635 | 02:33:44.620-02:33:47.199 | Seeker] I’ll ask Delwath to come and look at them with.
 [u1636 | 02:33:47.480-02:33:48.400 | Unknown] He could read.
 [u1637 | 02:33:49.870-02:33:51.740 | DM] Kenzo, what are you doing?
@@ -1670,7 +1670,7 @@
 [u1670 | 02:36:37.340-02:36:40.740 | DM] you swear that you saw it move
 [u1671 | 02:36:41.400-02:36:44.740 | DM] just like a fraction of an inch, so which move
 [u1672 | 02:36:45.010-02:36:47.900 | Seeker] the flowstone, the flowstone
-[u1673 | 02:36:48.120-02:36:52.499 | Kenzo] [[stations]], or whatever the reverse.
+[u1673 | 02:36:48.120-02:36:52.499 | Kenzo] {{stations}}, or whatever the reverse.
 [u1674 | 02:36:55.730-02:36:56.510 | Seeker] Yeah.
 [u1675 | 02:37:01.660-02:37:07.819 | DM] you can also. Now, standing in the middle of the room, you can see the room itself is maybe 30 feet
 [u1676 | 02:37:08.560-02:37:11.929 | DM] deep, like from entrance to door.
@@ -1681,7 +1681,7 @@
 [u1681 | 02:37:38.920-02:37:45.700 | DM] like like, like almost like Moguls, or something like undulating patterns.
 [u1682 | 02:37:46.300-02:37:51.369 | DM] and then the door itself. This sort of entrance, this passageway that you would
 [u1683 | 02:37:51.990-02:37:56.429 | DM] pass through has like completely crusted over now, where it's
-[u1684 | 02:37:56.980-02:38:18.079 | DM] it, fully kind of encased by this weird limestone growth. You can still see the frame of the door, and you can see that like [[if the pair is]] a double door made of stone, that would, you know, push open, or maybe pull open, and you can still see the like top of the seam, like the very top of the door. But most of the door is now crusted over by this
+[u1684 | 02:37:56.980-02:38:18.079 | DM] it, fully kind of encased by this weird limestone growth. You can still see the frame of the door, and you can see that like {{if the pair is}} a double door made of stone, that would, you know, push open, or maybe pull open, and you can still see the like top of the seam, like the very top of the door. But most of the door is now crusted over by this
 [u1685 | 02:38:19.620-02:38:21.630 | DM] weird stone growth.
 [u1686 | 02:38:27.650-02:38:29.039 | Kenzo] Not a lot, huh?
 [u1687 | 02:38:35.600-02:38:37.130 | Kenzo] Still, nothing living. Huh?
@@ -1691,7 +1691,7 @@
 [u1691 | 02:38:48.030-02:38:55.609 | DM] He's kind of poking around sort of like, you know, investigating things a little bit sort of.
 [u1692 | 02:38:55.910-02:38:59.329 | DM] you know, tapping away slightly.
 [u1693 | 02:39:04.310-02:39:07.270 | Kenzo] looking at looking at the stone.
-[u1694 | 02:39:07.290-02:39:10.360 | Kenzo] Faldrak, what do you think of this stone? [[Ken’s alright]]
+[u1694 | 02:39:07.290-02:39:10.360 | Kenzo] Faldrak, what do you think of this stone? {{Ken’s alright}}
 [u1695 | 02:39:10.400-02:39:16.040 | Kenzo] Seeker! What do you like? What? What's your dwarven instinct tell you about all this.
 [u1696 | 02:39:17.190-02:39:18.670 | Seeker] but we expected
 [u1697 | 02:39:20.930-02:39:24.780 | Seeker] the plane of stone to be close here.
@@ -1705,14 +1705,14 @@
 [u1705 | 02:40:03.680-02:40:11.640 | Seeker] yeah, I mean, in the sense that there's clearly a lot of like elemental energy here. Sure it's not. Doesn't have the same.
 [u1706 | 02:40:11.930-02:40:13.159 | DM] I know. I mean.
 [u1707 | 02:40:16.370-02:40:19.119 | DM] yeah, the I don't know the like, you know.
-[u1708 | 02:40:19.220-02:40:22.820 | DM] Well, roll a [[Roland, I check]] roll a
+[u1708 | 02:40:19.220-02:40:22.820 | DM] Well, roll a {{Roland, I check}} roll a
 [u1709 | 02:40:23.500-02:40:25.480 | DM] just a straight wisdom check.
 [u1710 | 02:40:31.890-02:40:33.630 | Kenzo] So 5,
 [u1711 | 02:40:34.340-02:40:35.749 | DM] yeah, I mean.
 [u1712 | 02:40:36.780-02:40:45.629 | DM] it's hard to tell. Really like the the the vibe doesn't seem to quite match, but like that was fire. This is stone. Maybe it's the same thing, but they
 [u1713 | 02:40:45.750-02:40:49.720 | DM] behave differently, or maybe it something different.
 [u1714 | 02:40:52.350-02:41:00.250 | DM] the the sort of constant sort of hum you've been getting from like your nature sense and things like that. It's just how.
-[u1715 | 02:41:01.150-02:41:14.919 | DM] long it has been that this has been undisturbed by anything living right like it's I you keep getting these like vibes of like isolation and nothing alive. [[Nowhere has you ever been anything alive]].
+[u1715 | 02:41:01.150-02:41:14.919 | DM] long it has been that this has been undisturbed by anything living right like it's I you keep getting these like vibes of like isolation and nothing alive. {{Nowhere has you ever been anything alive}}.
 [u1716 | 02:41:15.100-02:41:16.040 | Kenzo] Hmm!
 [u1717 | 02:41:16.150-02:41:22.640 | DM] Obviously the jungle was super different than that, right? But you know again, it's hard to really directly compare them
 [u1718 | 02:41:23.190-02:41:26.030 | Kenzo] Wellby you missed it, but the columns are Drankorian.
@@ -1727,9 +1727,9 @@
 [u1727 | 02:41:57.700-02:42:01.370 | DM] Well, I mean, it's completely overgrown with stone. It doesn't open.
 [u1728 | 02:42:01.830-02:42:02.770 | Seeker] Hmm!
 [u1729 | 02:42:04.210-02:42:07.819 | Seeker] I am. Seeker you've got to have a way of dealing with this right
-[u1730 | 02:42:09.320-02:42:12.960 | Kenzo] like, just [[since you assume Sis dwarfs]] and stones. That's just like a
+[u1730 | 02:42:09.320-02:42:12.960 | Kenzo] like, just {{since you assume Sis dwarfs}} and stones. That's just like a
 [u1731 | 02:42:13.040-02:42:21.520 | Kenzo] oh, cause Seeker loves stone very personalized recommendation.
-[u1732 | 02:42:22.800-02:42:29.090 | Kenzo] nothing to do but make jokes when you're in a deep cavern in the middle of [[local plan]].
+[u1732 | 02:42:22.800-02:42:29.090 | Kenzo] nothing to do but make jokes when you're in a deep cavern in the middle of {{local plan}}.
 [u1733 | 02:42:29.120-02:42:30.280 | Seeker] pitch black.
 [u1734 | 02:42:30.630-02:42:35.480 | Seeker] Make light of the discrimination dwarves face in the world, you know.
 [u1735 | 02:42:35.670-02:42:38.989 | Kenzo] I'm not the one making generalizations about all dwarves.
@@ -1828,7 +1828,7 @@
 [u1828 | 02:50:14.970-02:50:22.209 | DM] Make a I don't know. Do you have any right? You must have some relevant tool proficiency like Mason's tools or something.
 [u1829 | 02:50:22.380-02:50:26.840 | Seeker] I don't think I've ever gotten a chance to actually roll against them. But yes, I have. Excellent.
 [u1830 | 02:50:27.800-02:50:31.830 | DM] Okay, so make II would make this a
-[u1831 | 02:50:33.080-02:50:38.060 | DM] dexterity, but add your proficiency. [[They were so Wendy]] d20 plus 5.
+[u1831 | 02:50:33.080-02:50:38.060 | DM] dexterity, but add your proficiency. {{They were so Wendy}} d20 plus 5.
 [u1832 | 02:50:47.300-02:50:58.320 | DM] So you're chipping away. It takes you taken like maybe 10 or 15 min, and you you're sort of trying to find the like seam. where you can split this and you you hit it slightly and you crack it.
 [u1833 | 02:50:58.610-02:51:13.609 | DM] 2 things happen almost immediately. One is, you see a big crack that shoots up the wall where the the door where the where the stone is sort of sealing the door. It looks like you're getting close, like you might be able to pry the door apart
 [u1834 | 02:51:14.190-02:51:26.320 | DM] at the same time that this, like underlying hum. turns to this like sharp, discordant pitch. and suddenly the floor beneath your feet turns to mud. Make a
@@ -1849,7 +1849,7 @@
 [u1849 | 02:52:19.180-02:52:23.190 | Delwath] this is where it would be useful if one of us had higher than 8 strength
 [u1850 | 02:52:25.910-02:52:28.240 | DM] risen.
 [u1851 | 02:52:29.310-02:52:30.460 | Seeker] Is that maybe
-[u1852 | 02:52:30.580-02:52:41.299 | Seeker] [[dawdling? 8?]] You okay, Seeker. Well, are you like actively sinking? Or you just stop
+[u1852 | 02:52:30.580-02:52:41.299 | Seeker] {{dawdling? 8?}} You okay, Seeker. Well, are you like actively sinking? Or you just stop
 [u1853 | 02:52:41.850-02:52:48.920 | Delwath] feel the you can't feel the bottom with your feet.
 [u1854 | 02:52:49.760-02:52:55.270 | DM] Well, that's not good. Does feel like you're maybe actively sinking.
 [u1855 | 02:52:55.610-02:52:57.770 | Seeker] I try to
@@ -1876,7 +1876,7 @@
 [u1876 | 02:54:38.010-02:54:39.600 | DM] Let's see.
 [u1877 | 02:54:39.820-02:54:47.600 | DM] both of you make a Strength check. Well, Kenzo glances at at Kenzo, glances at at
 [u1878 | 02:54:47.610-02:54:51.010 | Kenzo] Delwath and Faldrak to come and give me a hand to pull him out.
-[u1879 | 02:54:51.430-02:54:55.580 | DM] Yeah. Faldrak’s tottering his way over. [[I'll come out]].
+[u1879 | 02:54:51.430-02:54:55.580 | DM] Yeah. Faldrak’s tottering his way over. {{I'll come out}}.
 [u1880 | 02:54:57.640-02:54:59.540 | DM] Okay, make a strength check
 [u1881 | 02:54:59.840-02:55:01.280 | Kenzo] all of us together.
 [u1882 | 02:55:02.380-02:55:04.929 | Kenzo] Can we do it? Does this mean we add all of our strengths together?
@@ -1922,7 +1922,7 @@
 [u1922 | 02:58:22.050-02:58:30.729 | DM] Yeah, I was just gonna say, Mage Hand. No, it's still. There's still stone coating the door. There's just a crack running down the center of this
 [u1923 | 02:58:30.870-02:58:32.290 | DM] limestone. That's
 [u1924 | 02:58:32.370-02:58:37.799 | Delwath] okay. Well, how about this? Do we have? We have a thing of creating water, don't we?
-[u1925 | 02:58:39.900-02:58:47.679 | Delwath] We have, do we? Do? We have a way to create water, can we? Can we? I'll take [[patient]]. I will pour water in the crack.
+[u1925 | 02:58:39.900-02:58:47.679 | Delwath] We have, do we? Do? We have a way to create water, can we? Can we? I'll take {{patient}}. I will pour water in the crack.
 [u1926 | 02:58:48.090-02:58:49.400 | Delwath] and then I will freeze it.
 [u1927 | 02:58:56.300-02:58:57.840 | DM] Yeah, you can do that.
 [u1928 | 02:58:58.340-02:59:00.190 | Delwath] Should make the crack bigger. Right?
@@ -1958,12 +1958,12 @@
 [u1958 | 03:01:57.480-03:02:00.820 | Seeker] Wait! Hold on! the tea kettle can make acid.
 [u1959 | 03:02:02.800-03:02:06.139 | Kenzo] Tea kettle can make acid, that's true.
 [u1960 | 03:02:06.340-03:02:09.299 | Seeker] Doesn't that dissolve one? Kenzo also has a wand of acid
-[u1961 | 03:02:10.500-03:02:13.300 | Kenzo] tea, kettles, [[teacows]]. Good
+[u1961 | 03:02:10.500-03:02:13.300 | Kenzo] tea, kettles, {{teacows}}. Good
 [u1962 | 03:02:15.480-03:02:17.439 | Kenzo] this kid does have. There's no way this doesn't work
 [u1963 | 03:02:19.160-03:02:20.430 | Seeker] over millennia
 [u1964 | 03:02:20.790-03:02:23.550 | Delwath] right 10 years later.
 [u1965 | 03:02:24.320-03:02:28.490 | Seeker] is dead.
-[u1966 | 03:02:30.660-03:02:34.459 | DM] or [[Lisbon]] is like a twentieth level super. D&D.
+[u1966 | 03:02:30.660-03:02:34.459 | DM] or {{Lisbon}} is like a twentieth level super. D&D.
 [u1967 | 03:02:40.320-03:02:44.230 | DM] so what are you doing? Faldrak's kind of pacing around, looking like.
 [u1968 | 03:02:46.300-03:02:47.689 | DM] like, you know.
 [u1969 | 03:02:48.280-03:02:54.460 | Kenzo] thinking like staring at the sort of wall and thinking a little bit. You have any thoughts, Faldrak.
@@ -1975,7 +1975,7 @@
 [u1975 | 03:03:11.090-03:03:21.809 | DM] top the top of the door. You like, you hold what you're holding with Mage Hand or something. The tea kettle. Yeah. Dumping acid. It doesn't make a ton of acid as my recollection right now, I mean.
 [u1976 | 03:03:22.220-03:03:23.250 | Seeker] oh, yeah.
 [u1977 | 03:03:23.990-03:03:25.820 | Seeker] I was. Yeah.
-[u1978 | 03:03:28.170-03:03:35.320 | DM] the acid. But the acid definitely like it oozes down into the crack that's already been widened by this water [[ounces]].
+[u1978 | 03:03:28.170-03:03:35.320 | DM] the acid. But the acid definitely like it oozes down into the crack that's already been widened by this water {{ounces}}.
 [u1979 | 03:03:36.820-03:03:45.770 | DM] It's not gonna eat away like an entire doors worth of stone, but it's certainly making the crack bigger like you hear, like a 3 more like.
 [u1980 | 03:03:46.800-03:03:54.599 | DM] but just like another bigger. You're now all like watching out for this right? Kenzo, make a dexterity saving throw.
 [u1981 | 03:03:55.270-03:03:56.010 | Kenzo] Why?
@@ -2253,7 +2253,7 @@
 [u2253 | 03:27:41.160-03:27:43.320 | DM] Kenzo reaches out his hand.
 [u2254 | 03:27:46.100-03:27:47.639 | DM] Let me just check this.
 [u2255 | 03:27:52.800-03:27:54.630 | DM] Yeah. Make a wisdom check
-[u2256 | 03:27:55.370-03:27:56.779 | Kenzo] [[beer or a]]
+[u2256 | 03:27:55.370-03:27:56.779 | Kenzo] {{beer or a}}
 [u2257 | 03:27:57.120-03:27:57.940 | DM] you
 [u2258 | 03:28:00.390-03:28:03.450 | DM] so Seeker touches Kenzo touches Seeker.
 [u2259 | 03:28:05.770-03:28:07.439 | Kenzo] So 9,
@@ -2289,7 +2289,7 @@
 [u2289 | 03:31:07.410-03:31:10.820 | DM] like it's just mist. There was nothing there.
 [u2290 | 03:31:12.240-03:31:14.930 | DM] There's just this slight echo of like.
 [u2291 | 03:31:15.520-03:31:18.189 | DM] Was that what the plane of air is really like?
-[u2292 | 03:31:19.060-03:31:21.190 | Seeker] [[Every colors]]?
+[u2292 | 03:31:19.060-03:31:21.190 | Seeker] {{Every colors}}?
 [u2293 | 03:31:23.910-03:31:24.570 | Seeker] Wow!
 [u2294 | 03:31:28.320-03:31:31.359 | DM] And you walk forward to the door
 [u2295 | 03:31:33.240-03:31:36.720 | DM] Seeker, you rec- you actually recognize like these runes are

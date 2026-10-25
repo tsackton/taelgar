@@ -140,7 +140,7 @@ DM: She left before they left, before they turned east. Most went east. A few st
 Kenzo: Any more questions for the last master of Bhishma, who was not there at the moment that we needed somebody to be there to witness whatever the fuck we don't understand?
 
 %% u2460-u2465 %%
-Wellby: What he's gonna say—that's true. [[Reshma]]. We send our gratitude for welcome and conversation. What's it like being a ghost?
+Wellby: What he's gonna say—that's true. {{Reshma}}. We send our gratitude for welcome and conversation. What's it like being a ghost?
 
 %% u2466-u2471 %%
 DM: It is different. It is hard to think of things that are not defending the tower, defending the Hall. It is hard to force my mind to remember the past. My purpose is all now.
@@ -392,7 +392,7 @@ Delwath: So my take is thirty years ago—well, forty years ago—these monks so
 Kenzo: Worst part.
 
 %% u2666-u2667 %%
-DM: Yeah, I was busy with something else. In my other campaign, I have a mysterious disappearing lizardfolk plotline that is eventually going to involve [[Kiner]].
+DM: Yeah, I was busy with something else. In my other campaign, I have a mysterious disappearing lizardfolk plotline that is eventually going to involve {{Kiner}}.
 
 %% u2668 %%
 Unknown: Wow.
@@ -527,7 +527,7 @@ Wellby: But this is what you're advocating for our next course of action?
 Kenzo: I'm just playing this out, right? Geographically, it would be one way to do it since we're so close. I think we're so close, scouting makes sense. We can totally have Wellby get a fucking—you know—
 
 %% u2753-u2754 %%
-Delwath: We can scout, and then scout with some swords and kill some manticores as we're scouting, right? And be very quiet and use Thunderbolt to [[jog tomorrow]], right?
+Delwath: We can scout, and then scout with some swords and kill some manticores as we're scouting, right? And be very quiet and use Thunderbolt to {{jog tomorrow}}, right?
 
 %% u2755 %%
 Kenzo: Yes.
@@ -611,7 +611,7 @@ Seeker: Well, all that stuff is super foreign, and it was never part of the cosm
 Kenzo: Yeah.
 
 %% u2785-u2788 %%
-Seeker: Yeah, and so finding the heart would probably be the top thing for Seeker. Grash is just weird stuff. Who cares about that? Just blow them up if we have to, but [[it was built into waistline]].
+Seeker: Yeah, and so finding the heart would probably be the top thing for Seeker. Grash is just weird stuff. Who cares about that? Just blow them up if we have to, but {{it was built into waistline}}.
 
 %% u2789-u2791 %%
 Kenzo: Yeah, I think Kenzo feels similar. The Grash part, we should go check it out just because it feels important and learn more, and also to support Delwath in trying to understand more about his history. But then after that, let's get back to Karawa, maybe stop by Dust Mother on the way back, and try to get the heart.
@@ -632,7 +632,7 @@ Delwath: Good idea.
 Wellby: Probably a switch or something.
 
 %% u2800 %%
-Seeker: That can [[razaleigh route in ocean]], like just unplug an ocean bottom into the Feywild portal so it flows out there.
+Seeker: That can {{razaleigh route in ocean}}, like just unplug an ocean bottom into the Feywild portal so it flows out there.
 
 %% u2801 %%
 DM: So.

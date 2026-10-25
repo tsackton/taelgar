@@ -4,12 +4,12 @@
 [u0004 | 00:00:11.370-00:00:12.890 | DM] We begin
 [u0005 | 00:00:14.480-00:00:20.079 | DM] on the skyship. Vindristjarna, hovering above the rocky foothills of central Cymea.
 [u0006 | 00:00:20.590-00:00:32.780 | DM] As the ship begins to drift into the sky, heading south for the elven kingdom of Orenlas. An old dwarf sits in his cabin writing at a small desk in cramped dwarven runes
-[u0007 | 00:00:32.980-00:00:45.779 | DM] for [[Barkhom. 5, 5, 8, one]], he writes. my first adventure in more than a decade succeeded beyond my wildest imagination. That Seeker fellow sure knows how to pick his friends.
-[u0008 | 00:00:46.720-00:01:01.089 | DM] I was not sure what to think. When I first met them. They seemed rather prone to excessive chatter and terminal indecision, I was afraid it would be like being back on my travels with [[Lyell]] and her friends. So much time sitting around debating, so little time doing.
+[u0007 | 00:00:32.980-00:00:45.779 | DM] for {{Barkhom. 5, 5, 8, one}}, he writes. my first adventure in more than a decade succeeded beyond my wildest imagination. That Seeker fellow sure knows how to pick his friends.
+[u0008 | 00:00:46.720-00:01:01.089 | DM] I was not sure what to think. When I first met them. They seemed rather prone to excessive chatter and terminal indecision, I was afraid it would be like being back on my travels with {{Lyell}} and her friends. So much time sitting around debating, so little time doing.
 [u0009 | 00:01:01.110-00:01:13.279 | DM] although I guess it was in one of those rambling discourses that she told me about the idea of echoes. In the first place. once we got moving, I couldn't help but wonder at the powerful oddities they carried, and their skill at using them.
 [u0010 | 00:01:13.650-00:01:27.530 | DM] A folding boat, I've seen, sure, but a mirror that reveals the history of things. That was a sight. and old Seeker's friends proved quite adept at battle. I think I would have been drowned by water elementals if they had not leapt to my defense.
 [u0011 | 00:01:29.180-00:01:36.860 | DM] Oh, and flight. To fly again! It was nothing like the flying carpet we borrowed back in the day.
-[u0012 | 00:01:37.040-00:01:44.890 | DM] To be able to think and just go, where you wish, truly something else. Somehow the fey step trick I learned from [[Bleario]]
+[u0012 | 00:01:37.040-00:01:44.890 | DM] To be able to think and just go, where you wish, truly something else. Somehow the fey step trick I learned from {{Bleario}}
 [u0013 | 00:01:44.910-00:01:47.659 | DM] feels cheap in comparison. Now.
 [u0014 | 00:01:48.480-00:01:54.090 | DM] of course, my goal was to make my dear Pebble, Peep, fly, and I can't believe how successful I was
 [u0015 | 00:01:54.210-00:01:56.860 | DM] surprised even myself sometimes. Aha!
@@ -133,14 +133,14 @@
 [u0133 | 00:13:16.830-00:13:20.020 | Seeker] Can we use bastion rules for this? Like to have like a
 [u0134 | 00:13:20.590-00:13:36.310 | Kenzo] corresponding research library on the ship where we're always just like sending out little messages. And I think this is I think this is yes, like absolutely. I'm sure you could convince a librarian to come join you right.
 [u0135 | 00:13:36.520-00:13:44.359 | Seeker] This this is essential. It's built our wide web, you know. Multiverse, wide web, I guess. Technically.
-[u0136 | 00:13:44.460-00:14:02.549 | Kenzo] No. But but I think I think just to structure it better. Right? Like on the ship, we develop like a little, you know, a communication methodology. or how we, you know, cause like right now, we do the thing where it's like [[bellwether]] will will us will scry, or whatever. And then, [[sitting there will then sit]] like
+[u0136 | 00:13:44.460-00:14:02.549 | Kenzo] No. But but I think I think just to structure it better. Right? Like on the ship, we develop like a little, you know, a communication methodology. or how we, you know, cause like right now, we do the thing where it's like {{bellwether}} will will us will scry, or whatever. And then, {{sitting there will then sit}} like
 [u0137 | 00:14:02.800-00:14:14.169 | Kenzo] we just gotta figure out a slightly more like, yeah, like less manual, more automated, like, way to like, get information around. But we've got like between.
 [u0138 | 00:14:14.350-00:14:20.780 | Kenzo] But is it because who are the other guys that we have in Tokra right? There's like that librarian guy that's helping us in the
 [u0139 | 00:14:21.400-00:14:25.750 | DM] well, there's the Tokra archivist is your main center, although. Remember that
 [u0140 | 00:14:26.130-00:14:29.209 | DM] there was just a giant battle in Tokra between Sura.
 [u0141 | 00:14:29.250-00:14:37.430 | DM] Sura, on one side and Chardon and Karnas on the other. Yeah, it's like 2 weeks ago.
 [u0142 | 00:14:37.620-00:14:38.540 | Kenzo] Oh, fuck
-[u0143 | 00:14:38.780-00:14:42.770 | Seeker] [[telecom]] might not be quite as useful. How that turned out
+[u0143 | 00:14:38.780-00:14:42.770 | Seeker] {{telecom}} might not be quite as useful. How that turned out
 [u0144 | 00:14:43.370-00:14:44.480 | DM] Sura won
 [u0145 | 00:14:45.700-00:14:49.599 | Seeker] that's good, I guess. I mean. Well, I don't remember this is that, wasn't it?
 [u0146 | 00:14:49.930-00:15:00.480 | Kenzo] It was just dropped in the intro of something. Yeah. Oh, my God, you scryed! It was just scrying information. It wasn't anything. Oh, but we should talk to Sura with our sending stone.
@@ -178,7 +178,7 @@
 [u0178 | 00:17:11.790-00:17:16.420 | Seeker] Who's that? Referring to that mace of terror that we had, we gave them. For this
 [u0179 | 00:17:17.170-00:17:21.279 | Delwath] the mace of the Mace of terror was, we stole from Fausto.
 [u0180 | 00:17:21.520-00:17:25.749 | Delwath] The Warlord is one of the 8 divines of
-[u0181 | 00:17:26.349-00:17:29.100 | Seeker] [[Moss Newman at that]]
+[u0181 | 00:17:26.349-00:17:29.100 | Seeker] {{Moss Newman at that}}
 [u0182 | 00:17:29.110-00:17:42.110 | Seeker] the Chardonian religion also? Well, that makes sense, because the magic of the divine is the most challenging to unravel and the most mysterious to us. We've endeavored to provide a worthwhile value for such gift, which is good because we really wanted to know what these binding stones were about.
 [u0183 | 00:17:42.310-00:17:55.650 | Seeker] The stones you speak of, known as the binding stones of Amloch are a unique item. From what we've been able to learn. They are also an ancient item created more than 3,000 years ago.
 [u0184 | 00:17:56.230-00:17:59.740 | Seeker] before the downfall in the land of Hkar.
@@ -207,23 +207,23 @@
 [u0207 | 00:19:55.640-00:20:07.040 | Seeker] It is no simple matter to imprison a god. An extraplanar prison was constructed, an entire plane, where Sarqon and the souls of slavers could torment each other for eternity
 [u0208 | 00:20:07.180-00:20:09.759 | Seeker] forever unable to influence the material plane.
 [u0209 | 00:20:10.270-00:20:14.080 | Seeker] The creation of a new plane is a powerful event.
-[u0210 | 00:20:14.150-00:20:30.939 | Seeker] and the wizard Amloch was waiting. He captured some of the energy of the prison dimension and forged stones which you now possess. Afterward Amloch became [[of the stones]], and there are many tales of his exploits that hint of the power of the stones.
+[u0210 | 00:20:14.150-00:20:30.939 | Seeker] and the wizard Amloch was waiting. He captured some of the energy of the prison dimension and forged stones which you now possess. Afterward Amloch became {{of the stones}}, and there are many tales of his exploits that hint of the power of the stones.
 [u0211 | 00:20:31.040-00:20:32.969 | Seeker] I would like to know those tales
 [u0212 | 00:20:33.250-00:20:44.189 | Seeker] most famous tell the stories of true imprisonment when all 5 stones are combined to permanently bind a creature.
-[u0213 | 00:20:45.370-00:20:48.339 | Seeker] [[Agreedelius]] has already spoken to you of this power.
+[u0213 | 00:20:45.370-00:20:48.339 | Seeker] {{Agreedelius}} has already spoken to you of this power.
 [u0214 | 00:20:49.550-00:20:58.440 | Seeker] this is how we have the stone giant guy. Yeah, all 5. Yeah. All 5 are used to bind him right? Yes.
 [u0215 | 00:20:58.470-00:21:07.960 | Seeker] also famous are the tales of Amloch's many servants among the extraplanar powers, elementals, fiends, fey, even celestials.
 [u0216 | 00:21:09.110-00:21:14.609 | Seeker] Goodness. We believe that he used the stones to bind these creatures to his service.
 [u0217 | 00:21:15.050-00:21:19.690 | Seeker] using different combinations of stones for different types of creatures. How interesting!
 [u0218 | 00:21:20.310-00:21:36.139 | Seeker] We believe that within the power of the stones is also the ability to temporarily entrap planar, extraplanar creatures. Each resonance of extraplanar creature and form of binding must be connected to a particular combination of stones. Just as I suspected.
 [u0219 | 00:21:36.470-00:21:44.139 | Seeker] But we do not yet fully understand the key, and it is difficult to learn without experimentation with the item itself.
-[u0220 | 00:21:44.510-00:21:52.409 | Seeker] Good thing! That is just what we intend to do, but we include some notes on [[a harpoon]] hypotheses. Finally, it is said that Amloch was a master of traps
+[u0220 | 00:21:44.510-00:21:52.409 | Seeker] Good thing! That is just what we intend to do, but we include some notes on {{a harpoon}} hypotheses. Finally, it is said that Amloch was a master of traps
 [u0221 | 00:21:52.590-00:21:59.490 | Seeker] and snares, which we believe in part to be the result of the magic of these stones. Traps and snares
 [u0222 | 00:22:02.640-00:22:03.750 | Seeker] wound.
 [u0223 | 00:22:04.040-00:22:09.490 | Seeker] Oh, yes, no, go ahead. no, that's most of it's
 [u0224 | 00:22:09.590-00:22:13.550 | Delwath] there wasn't an actual story of any of his exploits in there, was there?
 [u0225 | 00:22:14.880-00:22:18.100 | Seeker] There? There is a bit more to the letter
-[u0226 | 00:22:18.530-00:22:29.090 | Seeker] [[the item is risk effects]]. That's not that important
+[u0226 | 00:22:18.530-00:22:29.090 | Seeker] {{the item is risk effects}}. That's not that important
 [u0227 | 00:22:29.920-00:22:35.479 | Delwath] Is that the part where it says the item, as is quite dangerous to use and could potentially cause
 [u0228 | 00:22:35.520-00:22:37.550 | Delwath] problems for the user.
 [u0229 | 00:22:37.630-00:22:58.620 | Seeker] It seems extremely unlikely. I surely they're simply warning us that of hypothetical possibilities about the wrong combination of stones, which I promise not to combine them in, may very well risk effects you don't intend.
@@ -240,17 +240,17 @@
 [u0240 | 00:23:51.540-00:23:55.029 | Seeker] Here are some possible ill effects.
 [u0241 | 00:23:56.270-00:23:57.510 | Seeker] A.
 [u0242 | 00:23:59.830-00:24:03.709 | Seeker] The list of ill effects are examples
-[u0243 | 00:24:05.730-00:24:11.930 | Seeker] suggesting to me that they are a bit unpredictable. but they are [[some whitstones]].
+[u0243 | 00:24:05.730-00:24:11.930 | Seeker] suggesting to me that they are a bit unpredictable. but they are {{some whitstones}}.
 [u0244 | 00:24:13.810-00:24:24.490 | Seeker] So there's the 5 stones, and they're used in combination to create different effects. That's the big picture that this letter is telling us. There's a a bit more about each of the stones, which is quite interesting on this next page. But.
 [u0245 | 00:24:24.620-00:24:32.250 | Seeker] The first part of the letter to describe that there are different ways to use them, to
 [u0246 | 00:24:32.320-00:24:35.950 | Seeker] bind. trap. imprison.
 [u0247 | 00:24:37.090-00:24:41.109 | Seeker] etc., extraplanar creatures, but that
 [u0248 | 00:24:41.250-00:24:43.319 | Seeker] also we might accidentally
 [u0249 | 00:24:44.740-00:24:51.150 | Seeker] summon them, summon a servant of such a creature, or create a brief
-[u0250 | 00:24:51.640-00:25:05.909 | Seeker] representation of. for example, the plane of fire. If we're [[sending them]] fire elemental in our world. It does sound a bit unpleasant, actually, now that I think about it. an infinitely deep pool of water.
+[u0250 | 00:24:51.640-00:25:05.909 | Seeker] representation of. for example, the plane of fire. If we're {{sending them}} fire elemental in our world. It does sound a bit unpleasant, actually, now that I think about it. an infinitely deep pool of water.
 [u0251 | 00:25:07.180-00:25:13.499 | Seeker] Hmm, yeah, that you might want to be—sorry, we're in possession of these stones.
-[u0252 | 00:25:13.960-00:25:18.360 | Seeker] These are the binding stones. Yeah, these are [[the chrome]]. Yeah, I mean
-[u0253 | 00:25:18.760-00:25:22.609 | Delwath] the magic item that was used to bind [[Taraga]]. So okay?
+[u0252 | 00:25:13.960-00:25:18.360 | Seeker] These are the binding stones. Yeah, these are {{the chrome}}. Yeah, I mean
+[u0253 | 00:25:18.760-00:25:22.609 | Delwath] the magic item that was used to bind {{Taraga}}. So okay?
 [u0254 | 00:25:24.410-00:25:30.529 | Delwath] Oh, no, we didn't. Fausto wait. Did Fausto have the? He didn't have these right now. I can't remember. You took them from Fausto.
 [u0255 | 00:25:30.710-00:25:32.270 | Unknown] I'm feeling quite
 [u0256 | 00:25:33.220-00:25:35.860 | Delwath] happy that we got these from Fausto.
@@ -271,7 +271,7 @@
 [u0271 | 00:26:47.810-00:26:57.120 | Seeker] little bit more detail about each stone. How lovely we've given names to each stone, based on our research and our whim for ease of communication.
 [u0272 | 00:26:57.660-00:27:07.250 | Seeker] There are 5. As you know, a mirror stone, silvery, silvery, highly reflective stone seems associated with reflecting, mirroring energy
 [u0273 | 00:27:08.220-00:27:14.920 | Seeker] seems relevant to some of Kenzo's earlier ideas about bouncing the Rainbow Bridge around the Chaos Stone.
-[u0274 | 00:27:15.340-00:27:26.679 | Seeker] a [[street]] stone of swirling colors that seem to shift when you're not looking at it primarily. Reds, blues, whites, and browns, perhaps associated with disorder chaos, or raw elemental energy.
+[u0274 | 00:27:15.340-00:27:26.679 | Seeker] a {{street}} stone of swirling colors that seem to shift when you're not looking at it primarily. Reds, blues, whites, and browns, perhaps associated with disorder chaos, or raw elemental energy.
 [u0275 | 00:27:27.430-00:27:28.619 | Seeker] At this point
 [u0276 | 00:27:30.000-00:27:34.839 | Seeker] Seeker has brought the stones out up out of a little pouch. I know we probably keep them in the
 [u0277 | 00:27:35.330-00:27:36.540 | Unknown] hole inside.
@@ -374,7 +374,7 @@
 [u0374 | 00:35:55.440-00:36:06.030 | Seeker] the star on the wind. That's what it means, you know Vindristjarna. I wonder if it's meant to light up?
 [u0375 | 00:36:08.000-00:36:11.199 | Seeker] Why would it be called that, anyway? The star on the wind.
 [u0376 | 00:36:12.920-00:36:16.549 | Seeker] There's things about this ship that we have
-[u0377 | 00:36:16.710-00:36:20.030 | Kenzo] have we [[saw the nerve to the ship, to the moon]].
+[u0377 | 00:36:16.710-00:36:20.030 | Kenzo] have we {{saw the nerve to the ship, to the moon}}.
 [u0378 | 00:36:20.240-00:36:29.520 | Seeker] That's an interesting question, Kenzo. I don't think that we have. It's a bit big to fit into the, you know Frame, but perhaps we could arrange it.
 [u0379 | 00:36:29.890-00:36:32.599 | Kenzo] I would just land the ship, and then we hit the mirror and point it at that.
 [u0380 | 00:36:33.100-00:36:34.030 | Delwath] Yeah.
@@ -456,14 +456,14 @@
 [u0456 | 00:43:38.970-00:43:47.490 | Seeker] Oh, I don't think we need to travel completely. We just have to make ourselves our presence known like, in an elvishly
 [u0457 | 00:43:48.170-00:43:49.569 | Seeker] idiomatic way.
 [u0458 | 00:43:51.540-00:43:52.800 | Delwath] Yeah.
-[u0459 | 00:43:53.830-00:43:57.659 | Seeker] I mean, you're [[in person]] from Melindir with you. Just
+[u0459 | 00:43:53.830-00:43:57.659 | Seeker] I mean, you're {{in person}} from Melindir with you. Just
 [u0460 | 00:43:57.750-00:44:14.040 | Delwath] walk into the forest right? But I'm just saying, lead you to the city. But let's just let's just land, I mean, why not try out the Rainbow Bridge not to like. Try to bypass the pass or the but
 [u0461 | 00:44:14.590-00:44:16.979 | Seeker] just go to the front door.
 [u0462 | 00:44:17.000-00:44:35.249 | Delwath] We could just use it to get from the ship. Yeah, to Park thoughtfully. Exactly. That's what I mean, right? Like it doesn't. It's just 12 miles. We can park 2 miles up in the sky, right? Or whatever. Are you not worried that this is like, you know, gonna be too ostentatious of of an entrance?
 [u0463 | 00:44:35.500-00:44:37.150 | Delwath] No, I'm not.
 [u0464 | 00:44:37.240-00:44:42.630 | Seeker] And then, just to be clear. We can't Rainbow Bridge ourselves back to the ship.
 [u0465 | 00:44:42.780-00:44:44.369 | Delwath] Yeah, we didn't take it.
-[u0466 | 00:44:44.660-00:44:54.740 | Seeker] The bridge lasts. Yeah. We [[just walk around disappear]]. It's a bridge, it appears it just sits there so we can go back within 24 h.
+[u0466 | 00:44:44.660-00:44:54.740 | Seeker] The bridge lasts. Yeah. We {{just walk around disappear}}. It's a bridge, it appears it just sits there so we can go back within 24 h.
 [u0467 | 00:44:55.160-00:45:07.250 | Delwath] But can we also take the thing with us? You could also take it with you. Yes, and then the bridge is still there, right? But when it recharges in 24 h we could then make another.
 [u0468 | 00:45:07.790-00:45:08.540 | DM] Right?
 [u0469 | 00:45:09.060-00:45:09.760 | Unknown] Okay.
@@ -482,7 +482,7 @@
 [u0482 | 00:46:33.410-00:46:36.990 | DM] 5,000 feet is probably pretty good.
 [u0483 | 00:46:38.600-00:46:39.610 | Seeker] and
 [u0484 | 00:46:42.190-00:46:43.750 | Seeker] and then
-[u0485 | 00:46:44.870-00:46:51.020 | Seeker] I'll say, Okay, [[Frederick]], let's try this thing out.
+[u0485 | 00:46:44.870-00:46:51.020 | Seeker] I'll say, Okay, {{Frederick}}, let's try this thing out.
 [u0486 | 00:46:52.280-00:46:54.570 | Seeker] Quite anxious to see
 [u0487 | 00:46:54.680-00:47:07.929 | Seeker] it literally gonna look like a rainbow. I'm so curious, puts his hand on the fine hollow sphere made of wires, inside of which the shimmering
 [u0488 | 00:47:09.340-00:47:18.960 | Seeker] crystal prism is mounted. and looks down to the shore where Delwath. Where do you think we should
@@ -656,7 +656,7 @@
 [u0656 | 01:05:19.550-01:05:22.540 | DM] Delwath putting his sword away.
 [u0657 | 01:05:23.650-01:05:30.019 | DM] standing floating, not really standing on a cloud
 [u0658 | 01:05:31.590-01:05:34.130 | DM] talking to a djinn
-[u0659 | 01:05:35.010-01:05:44.520 | DM] he looks like he's collected many more of these [[punchy]] symbols that
+[u0659 | 01:05:35.010-01:05:44.520 | DM] he looks like he's collected many more of these {{punchy}} symbols that
 [u0660 | 01:05:44.800-01:05:49.720 | DM] decorate his sword and his mail, and
 [u0661 | 01:05:51.650-01:06:06.150 | DM] as he glances back through the portal at Seeker. He then looks in the other direction, and you can see Vindristjarna flying in the plane of air
 [u0662 | 01:06:09.220-01:06:16.280 | DM] as Delwath, having seemingly solved some
@@ -699,7 +699,7 @@
 [u0699 | 01:09:14.569-01:09:18.059 | Delwath] I'll introduce. you know. Wellby
 [u0700 | 01:09:18.100-01:09:23.420 | Delwath] where all the halfling traveler, you know, Kenzo the Dunmari.
 [u0701 | 01:09:24.120-01:09:26.670 | Delwath] and so on. Right Seeker
-[u0702 | 01:09:26.750-01:09:32.340 | Delwath] of [[high keep]] [[high keep]]. Is that right? Seeker of [[High? Keep]] the
+[u0702 | 01:09:26.750-01:09:32.340 | Delwath] of {{high keep}} {{high keep}}. Is that right? Seeker of {{High? Keep}} the
 [u0703 | 01:09:32.470-01:09:37.090 | Delwath] my dwarven companion. Yeah, I'll I'll sort of introduce everybody with a
 [u0704 | 01:09:37.390-01:09:41.099 | Delwath] and say, sort of translate for the party
 [u0705 | 01:09:41.200-01:09:43.290 | Delwath] what I'm saying?
@@ -749,7 +749,7 @@
 [u0749 | 01:15:15.200-01:15:20.010 | Kenzo] like he, he! He's like as we're as we're walking. It's just completely like
 [u0750 | 01:15:20.070-01:15:45.070 | Kenzo] like putting putting his consciousness out into this larger network of woods, and is in particular with, like the big huge ass tree. In part also just thinking, this is like a little metagame, but it's like we gotta bring some fucking cool like elven wood stuff back on our ship, you know. I mean, there's gonna be like a big ass like cool tree in the middle of our ship, right? So it's like, you know. So anyway. So so Kenzo's just spending like, is obsessive.
 [u0751 | 01:15:45.070-01:15:52.969 | Kenzo] like like trying to communicate and talk and vibe with the whole forest energy. Here
-[u0752 | 01:15:54.110-01:16:13.179 | Delwath] Delwath almost seems the opposite, like a little bit uncomfortable. with the forest energy not uncomfortable exactly, but just very. He seems very hesitant, like not sure like looking at the tree. You kind of notice him fingering the ear like his necklace, for example, as one of the [[Taji]] symbols. Right like
+[u0752 | 01:15:54.110-01:16:13.179 | Delwath] Delwath almost seems the opposite, like a little bit uncomfortable. with the forest energy not uncomfortable exactly, but just very. He seems very hesitant, like not sure like looking at the tree. You kind of notice him fingering the ear like his necklace, for example, as one of the {{Taji}} symbols. Right like
 [u0753 | 01:16:13.650-01:16:18.030 | Delwath] kind of. He looks very introspective, like he's muttering like
 [u0754 | 01:16:18.350-01:16:23.390 | Delwath] sort of he. He occasionally mutters something in elvish to himself.
 [u0755 | 01:16:24.210-01:16:36.279 | Wellby] Wellby's like a a tourist who has finally gotten to a place he's waited his entire life to get to, and is just like soaking every everything up, just
@@ -815,7 +815,7 @@
 [u0815 | 01:24:11.770-01:24:16.929 | DM] There are few now left who lived in those days, much less remembered them.
 [u0816 | 01:24:19.950-01:24:24.219 | DM] But I would suggest
 [u0817 | 01:24:24.670-01:24:27.379 | DM] you speak with Vahaiya
-[u0818 | 01:24:30.260-01:24:32.530 | DM] [[there of your Ca]].
+[u0818 | 01:24:30.260-01:24:32.530 | DM] {{there of your Ca}}.
 [u0819 | 01:24:33.810-01:24:37.670 | DM] They fought in the Great War as well.
 [u0820 | 01:24:39.190-01:24:43.549 | DM] Did you fight in the battle of Urlich Pass.
 [u0821 | 01:24:44.430-01:24:45.890 | Delwath] I did not
@@ -1015,7 +1015,7 @@
 [u1015 | 01:46:38.590-01:46:43.320 | Delwath] but he doesn't seem unhappy. He's just sort of hanging on the edge like
 [u1016 | 01:46:44.690-01:46:46.199 | Delwath] kind of thinking.
 [u1017 | 01:46:49.710-01:46:54.629 | DM] After maybe 10 min he starts to smell vanilla in the air.
-[u1018 | 01:46:55.330-01:47:11.009 | DM] in the [[tollen]] tree's blossoms smell like vanilla, and you see a flower begin to bloom on the top of Kenzo's staff.
+[u1018 | 01:46:55.330-01:47:11.009 | DM] in the {{tollen}} tree's blossoms smell like vanilla, and you see a flower begin to bloom on the top of Kenzo's staff.
 [u1019 | 01:47:11.050-01:47:15.710 | Seeker] That ain't.
 [u1020 | 01:47:22.150-01:47:25.280 | DM] Are you set
 [u1021 | 01:47:30.140-01:47:32.860 | DM] at some point? You'll have to
@@ -1187,15 +1187,15 @@
 [u1187 | 02:06:06.610-02:06:07.660 | Unknown] you.
 [u1188 | 02:06:09.330-02:06:10.380 | DM] I
 [u1189 | 02:06:12.360-02:06:18.910 | DM] it was never after the war cause I was out of out of sync.
-[u1190 | 02:06:19.400-02:06:33.559 | DM] I was traveling, and could not bring myself to come home during my first [[Nella]] then blew like the wind across the lands of
-[u1191 | 02:06:34.820-02:06:36.230 | DM] [[Tamara]].
+[u1190 | 02:06:19.400-02:06:33.559 | DM] I was traveling, and could not bring myself to come home during my first {{Nella}} then blew like the wind across the lands of
+[u1191 | 02:06:34.820-02:06:36.230 | DM] {{Tamara}}.
 [u1192 | 02:06:37.930-02:06:39.189 | DM] and then.
 [u1193 | 02:06:41.100-02:06:42.280 | DM] when
 [u1194 | 02:06:43.640-02:06:45.150 | DM] normally
 [u1195 | 02:06:45.920-02:06:52.859 | DM] I would travel, I wanted to come home and feel Aldanor's roots, tying me to the land.
 [u1196 | 02:06:54.450-02:07:02.140 | DM] And so when this laya started, I came here backwards.
 [u1197 | 02:07:03.990-02:07:09.540 | DM] tired, feeling out of touch.
-[u1198 | 02:07:12.340-02:07:20.910 | DM] wanting the strength of Aldanor's roots, just as Elmerca's winds were scattering all the newly awakened of the 37th [[cough]].
+[u1198 | 02:07:12.340-02:07:20.910 | DM] wanting the strength of Aldanor's roots, just as Elmerca's winds were scattering all the newly awakened of the 37th {{cough}}.
 [u1199 | 02:07:23.370-02:07:27.460 | DM] But what brought me back
 [u1200 | 02:07:28.470-02:07:35.489 | DM] at that point? I had achieved some fame among the people of Southern Sembara.
 [u1201 | 02:07:36.020-02:07:36.910 | Unknown] the
@@ -1225,7 +1225,7 @@
 [u1225 | 02:09:35.050-02:09:36.550 | Delwath] it
 [u1226 | 02:09:37.690-02:09:38.900 | Delwath] I was
 [u1227 | 02:09:40.170-02:09:43.090 | Delwath] in a place far, far away
-[u1228 | 02:09:43.970-02:09:53.369 | Delwath] during the 30 Sixth, [[No]]. 30, seventh, 30, sixth, 30, Seventh [[Noah]] and I did not notice it.
+[u1228 | 02:09:43.970-02:09:53.369 | Delwath] during the 30 Sixth, {{No}}. 30, seventh, 30, sixth, 30, Seventh {{Noah}} and I did not notice it.
 [u1229 | 02:09:56.750-02:10:01.850 | Delwath] I don't know what that means. Right. Don't know if I want to find out yet.
 [u1230 | 02:10:06.220-02:10:06.970 | Delwath] but
 [u1231 | 02:10:09.880-02:10:11.170 | Delwath] you are
@@ -1240,7 +1240,7 @@
 [u1240 | 02:11:06.690-02:11:13.490 | DM] not everybody is. feels the cycles of the gods in the same way.
 [u1241 | 02:11:17.680-02:11:22.260 | Delwath] Delwath kind of think on it, though? Did you know, as
 [u1242 | 02:11:22.670-02:11:28.390 | Delwath] as an aside, or or as the next part of the conversation, did you know Rai at all?
-[u1243 | 02:11:30.570-02:11:59.149 | DM] I never met any of the heroes of the war not personally heard stories. Of course. I saw the kenku [[Aaron]] up close once a whole army of kenku fire bombers to drop flames on the in the pass.
+[u1243 | 02:11:30.570-02:11:59.149 | DM] I never met any of the heroes of the war not personally heard stories. Of course. I saw the kenku {{Aaron}} up close once a whole army of kenku fire bombers to drop flames on the in the pass.
 [u1244 | 02:12:02.070-02:12:09.090 | Delwath] That's sort of not some. Well.
 [u1245 | 02:12:09.430-02:12:34.110 | DM] so let's we'll continue the conversation away from that conversation, Pan, into who else wants to be talking to somebody, and I mean, this is like you don't have to if you don't want to. But I thought it would be nice to give everybody a chance. Kenzo will have just like a we don't have to role-play it out. But Kenzo is like very curious to talk to the gardener. Yeah, just to learn about
 [u1246 | 02:12:34.660-02:12:39.199 | Kenzo] how the fuck elves grow. Things get some gardening tips for the you know.
@@ -1295,8 +1295,8 @@
 [u1295 | 02:18:03.030-02:18:07.980 | Delwath] 21.
 [u1296 | 02:18:08.190-02:18:13.989 | DM] She's actually quite interested by this idea.
 [u1297 | 02:18:14.230-02:18:17.439 | DM] Ealwen, and
-[u1298 | 02:18:19.080-02:18:35.870 | DM] curious like, you know, if you'd be willing to try it. I'll take you to her in the morning. Great. So I've got this [[Hutsu]] ki
-[u1299 | 02:18:35.959-02:18:45.420 | Kenzo] [[rich. You can join this full]] to grasp one departing spirit, and I sent you the I just. I sent you the the one that heals people.
+[u1298 | 02:18:19.080-02:18:35.870 | DM] curious like, you know, if you'd be willing to try it. I'll take you to her in the morning. Great. So I've got this {{Hutsu}} ki
+[u1299 | 02:18:35.959-02:18:45.420 | Kenzo] {{rich. You can join this full}} to grasp one departing spirit, and I sent you the I just. I sent you the the one that heals people.
 [u1300 | 02:18:46.500-02:18:49.150 | Kenzo] Okay, I got it.
 [u1301 | 02:18:52.219-02:19:01.010 | DM] this is from this is from the Lizard. Folk right? Probably have not tried
 [u1302 | 02:19:01.709-02:19:05.510 | Delwath] the elves. Honestly, these elves probably haven't tried anything except elf magic
@@ -1319,7 +1319,7 @@
 [u1319 | 02:20:42.180-02:20:48.040 | DM] That's fine. I mean Wellby and Cirdore chat for a bit, and
 [u1320 | 02:20:48.460-02:21:00.439 | DM] You hear some elven poetry? share some halfling stories.
 [u1321 | 02:21:01.510-02:21:02.230 | DM] and
-[u1322 | 02:21:04.510-02:21:15.309 | DM] he's he's was. He's of the of this generation of the 37th [[cost]]. So he was. He's only been sort of awake.
+[u1322 | 02:21:04.510-02:21:15.309 | DM] he's he's was. He's of the of this generation of the 37th {{cost}}. So he was. He's only been sort of awake.
 [u1323 | 02:21:15.640-02:21:19.669 | DM] for the past.
 [u1324 | 02:21:19.780-02:21:28.329 | DM] I don't know. 30 years like he's not. He doesn't have really that much more experience than you do, so he's
 [u1325 | 02:21:28.440-02:21:36.660 | DM] so it's quite fascinating, he said. You know he didn't. He didn't want to leave. He wasn't ready to leave, because
@@ -1371,7 +1371,7 @@
 [u1371 | 02:25:53.750-02:25:55.650 | DM] Rostaurë,
 [u1372 | 02:25:57.160-02:25:58.390 | Unknown] the
 [u1373 | 02:25:58.510-02:26:00.140 | DM] the city of
-[u1374 | 02:26:00.310-02:26:03.469 | DM] [[Stmr]]. City of Peace.
+[u1374 | 02:26:00.310-02:26:03.469 | DM] {{Stmr}}. City of Peace.
 [u1375 | 02:26:06.700-02:26:07.950 | DM] But
 [u1376 | 02:26:10.520-02:26:13.029 | DM] my craft is not good enough yet.
 [u1377 | 02:26:15.410-02:26:16.819 | Wellby] thank you
@@ -1453,7 +1453,7 @@
 [u1453 | 02:34:15.870-02:34:17.510 | DM] four whole cycles?
 [u1454 | 02:34:19.670-02:34:22.599 | Kenzo] You know what? What caused it? How did it begin?
 [u1455 | 02:34:23.910-02:34:27.100 | DM] She like closes her eyes, and she says.
-[u1456 | 02:34:28.270-02:34:30.900 | DM] [[cost a lot]]. I
+[u1456 | 02:34:28.270-02:34:30.900 | DM] {{cost a lot}}. I
 [u1457 | 02:34:32.540-02:34:34.389 | DM] she looks again at your staff.
 [u1458 | 02:34:35.960-02:34:38.150 | DM] You deserve the full story
 [u1459 | 02:34:44.040-02:34:47.929 | DM] must rest for a moment.
@@ -1464,7 +1464,7 @@
 [u1464 | 02:35:15.250-02:35:19.050 | Kenzo] and then Kenzo, as she presumably does that
 [u1465 | 02:35:19.140-02:35:29.179 | Kenzo] takes his hands and kind of puts them on the other side either either side of her, her hands and sits there with his eyes closed, and then starts to
 [u1466 | 02:35:29.250-02:35:30.730 | Kenzo] speak to
-[u1467 | 02:35:31.040-02:35:37.320 | Kenzo] starts to speak to [[Ordaro]].
+[u1467 | 02:35:31.040-02:35:37.320 | Kenzo] starts to speak to {{Ordaro}}.
 [u1468 | 02:35:37.610-02:35:42.159 | Kenzo] and starts to speak to the plants. And you see, Kenzo.
 [u1469 | 02:35:42.390-02:35:55.379 | Kenzo] he's murmuring, and also kind of singing like you haven't really heard Kenzo sing before. This is a little weird, but he's like kind of kind of chanting and saying some things and like it's
 [u1470 | 02:35:55.900-02:36:10.480 | Kenzo] it's not any kind of language you've ever heard, or it's it's even hard to like. Think about it in the context of a language cause. It's just like kind of weird noises and sounds. But you do get a sense that is like a song like there's something about it that feels like singing.
@@ -1502,37 +1502,37 @@
 [u1502 | 02:40:04.460-02:40:10.330 | Kenzo] By the way, Tim, this is like hardcore Vishava story mode for this this one. It's like we're getting. We're gonna
 [u1503 | 02:40:10.580-02:40:12.659 | Kenzo] it's the epic. One
 [u1504 | 02:40:13.040-02:40:14.200 | DM] city
-[u1505 | 02:40:15.980-02:40:19.349 | DM] city of my birth was called [[S. Top estim a]]
-[u1506 | 02:40:20.870-02:40:23.170 | Unknown] [[estimar]] city of Peace.
-[u1507 | 02:40:23.700-02:40:26.720 | DM] But humans and elves and [[parano]] lived together.
-[u1508 | 02:40:30.480-02:40:40.589 | DM] I spent my first laya in the court of the Drankorian emperors advising [[Aglir]], and then the twins, [[pillows]] and
-[u1509 | 02:40:40.860-02:40:44.989 | DM] [[Sakios]], who ruled together.
+[u1505 | 02:40:15.980-02:40:19.349 | DM] city of my birth was called {{S. Top estim a}}
+[u1506 | 02:40:20.870-02:40:23.170 | Unknown] {{estimar}} city of Peace.
+[u1507 | 02:40:23.700-02:40:26.720 | DM] But humans and elves and {{parano}} lived together.
+[u1508 | 02:40:30.480-02:40:40.589 | DM] I spent my first laya in the court of the Drankorian emperors advising {{Aglir}}, and then the twins, {{pillows}} and
+[u1509 | 02:40:40.860-02:40:44.989 | DM] {{Sakios}}, who ruled together.
 [u1510 | 02:40:46.400-02:40:48.039 | DM] It was a good time.
 [u1511 | 02:40:49.500-02:40:50.989 | DM] There was peace.
 [u1512 | 02:40:53.990-02:41:02.940 | DM] The land was healthy. there were battles. Yes. I rode to fight with them
 [u1513 | 02:41:04.000-02:41:09.259 | DM] Drankorian armies against the spreading fire, an alliance of
 [u1514 | 02:41:09.590-02:41:20.090 | DM] efreet and fire elementals and giants, led by an ancient red dragon dragon that sought to claim the wealth and power of Drankor itself.
-[u1515 | 02:41:22.360-02:41:30.940 | DM] I saw [[Elias]] and [[Sekius]]. the twin emperors, die in dragon fire, but we prevailed
+[u1515 | 02:41:22.360-02:41:30.940 | DM] I saw {{Elias}} and {{Sekius}}. the twin emperors, die in dragon fire, but we prevailed
 [u1516 | 02:41:33.110-02:41:37.030 | DM] and Drankor was saved, and it was worth saving in those days.
-[u1517 | 02:41:42.060-02:41:53.449 | DM] During my first [[meal]] I returned to Rostaurë. where my son and my daughter were born. and they followed in my footsteps, traveling to Drankor and
-[u1518 | 02:41:53.510-02:41:55.920 | DM] serving in the court of [[Emerdow]].
+[u1517 | 02:41:42.060-02:41:53.449 | DM] During my first {{meal}} I returned to Rostaurë. where my son and my daughter were born. and they followed in my footsteps, traveling to Drankor and
+[u1518 | 02:41:53.510-02:41:55.920 | DM] serving in the court of {{Emerdow}}.
 [u1519 | 02:41:59.160-02:42:02.560 | DM] It was then that things started to go wrong.
-[u1520 | 02:42:05.790-02:42:11.990 | DM] The Emperor [[Halaya]]. She was assassinated by the Omnis Pura, and started starting a Civil war.
+[u1520 | 02:42:05.790-02:42:11.990 | DM] The Emperor {{Halaya}}. She was assassinated by the Omnis Pura, and started starting a Civil war.
 [u1521 | 02:42:13.510-02:42:24.549 | DM] My son was killed in the fighting in Drankor my daughter fled with a small group hiding out in the hills to the west of the city.
-[u1522 | 02:42:26.690-02:42:34.330 | DM] keeping a guerrilla resistance alive in [[Helia's]] name. but later she was killed as well
+[u1522 | 02:42:26.690-02:42:34.330 | DM] keeping a guerrilla resistance alive in {{Helia's}} name. but later she was killed as well
 [u1523 | 02:42:35.970-02:42:39.969 | DM] protected as many as I could in the Rostaurë
 [u1524 | 02:42:40.320-02:42:41.430 | Unknown] you.
-[u1525 | 02:42:41.700-02:42:47.509 | DM] especially the [[paranar]], the elves who had lived with humans since the days of Hkar, and
+[u1525 | 02:42:41.700-02:42:47.509 | DM] especially the {{paranar}}, the elves who had lived with humans since the days of Hkar, and
 [u1526 | 02:42:47.760-02:42:53.649 | DM] were seen as particularly insidious and vile by the Omnis Pura.
 [u1527 | 02:42:56.430-02:43:00.199 | Kenzo] The humans can be racist, too.
 [u1528 | 02:43:03.800-02:43:07.419 | DM] that is, when things started to go from bad to worse.
-[u1529 | 02:43:11.040-02:43:13.690 | DM] During the 33rd [[Mellah]].
+[u1529 | 02:43:11.040-02:43:13.690 | DM] During the 33rd {{Mellah}}.
 [u1530 | 02:43:16.160-02:43:21.800 | DM] when the next generation. were singing and dreaming in the great trees of
 [u1531 | 02:43:23.760-02:43:25.110 | DM] Rostaurë.
 [u1532 | 02:43:26.900-02:43:30.620 | DM] The Emperors of Drankor launched the Dominion Wars, fighting.
 [u1533 | 02:43:32.250-02:43:36.160 | DM] claiming land to the East as much land as they could eat up.
 [u1534 | 02:43:37.180-02:43:41.849 | DM] We defended Rostaurë as best we could through deception and trickery.
-[u1535 | 02:43:43.700-02:43:49.919 | DM] working with other groups of rebels and dissidents. [[The Friday sleep costs]].
+[u1535 | 02:43:43.700-02:43:49.919 | DM] working with other groups of rebels and dissidents. {{The Friday sleep costs}}.
 [u1536 | 02:43:51.000-02:43:52.610 | Delwath] but hey! We know them.
 [u1537 | 02:43:56.800-02:43:57.950 | DM] but
 [u1538 | 02:43:59.230-02:44:02.290 | DM] we were always protected by Aldanor's grace.
@@ -1545,7 +1545,7 @@
 [u1545 | 02:44:46.390-02:44:50.200 | DM] Apollyon sliced through the defenders of
 [u1546 | 02:44:50.870-02:44:55.440 | DM] Rostaurë like a hot knife.
 [u1547 | 02:44:56.110-02:44:59.909 | DM] Everywhere he strode, the power of Aldanor was quelled.
-[u1548 | 02:45:00.130-02:45:07.139 | DM] The tricks that protected us ceased to matter. The city of [[Estimar]] was sacked.
+[u1548 | 02:45:00.130-02:45:07.139 | DM] The tricks that protected us ceased to matter. The city of {{Estimar}} was sacked.
 [u1549 | 02:45:07.420-02:45:13.529 | DM] Rostaurë burned. the elder trees cut, sleeping children inside
 [u1550 | 02:45:13.770-02:45:16.660 | Unknown] you.
 [u1551 | 02:45:18.680-02:45:23.369 | DM] She pauses for a minute, clearly overwhelmed by an emotion.
@@ -1555,7 +1555,7 @@
 [u1555 | 02:45:38.650-02:45:43.920 | Delwath] I mean doesn't say that aloud, but like he looks like angrier than he ever has before.
 [u1556 | 02:45:45.920-02:45:46.790 | DM] This
 [u1557 | 02:45:51.770-02:45:56.560 | DM] this disaster was worse, because it was totally unforeseen by Elmerca.
-[u1558 | 02:45:57.950-02:46:01.720 | DM] The [[Mellah]] did not. The [[lad]] did not come early. The children were not
+[u1558 | 02:45:57.950-02:46:01.720 | DM] The {{Mellah}} did not. The {{lad}} did not come early. The children were not
 [u1559 | 02:46:02.770-02:46:10.329 | DM] awakened. I think. because Elmerca's foresight was blinded by the cloak as well.
 [u1560 | 02:46:11.650-02:46:15.929 | DM] and none of the gods are able to perceive Apollyon's actions or do anything.
 [u1561 | 02:46:16.980-02:46:19.290 | DM] Foresee the danger he brought.
@@ -1573,28 +1573,28 @@
 [u1573 | 02:47:14.910-02:47:15.840 | Kenzo] man
 [u1574 | 02:47:17.270-02:47:18.520 | Kenzo] unfair.
 [u1575 | 02:47:22.550-02:47:24.639 | DM] I was defeated and taken
-[u1576 | 02:47:25.350-02:47:33.479 | DM] with a handful of warriors of mine who had survived except in the [[paranar]], who were all slaughtered to Drankor
+[u1576 | 02:47:25.350-02:47:33.479 | DM] with a handful of warriors of mine who had survived except in the {{paranar}}, who were all slaughtered to Drankor
 [u1577 | 02:47:35.150-02:47:42.820 | DM] I don't know why he kept us alive. We watched as he turned the city into his personal domain.
 [u1578 | 02:47:44.480-02:47:50.539 | DM] Using a sceptre of great power to create adoring, loyal legions.
 [u1579 | 02:47:53.130-02:47:54.120 | DM] he would
-[u1580 | 02:47:54.440-02:47:56.730 | DM] round up the [[paranoia]].
+[u1580 | 02:47:54.440-02:47:56.730 | DM] round up the {{paranoia}}.
 [u1581 | 02:47:58.090-02:48:06.949 | DM] create bigger and bigger spectacles. He would summon thousands, tens of thousands of his followers to giant rallies.
 [u1582 | 02:48:08.360-02:48:13.029 | DM] where he would declare himself a god.
 [u1583 | 02:48:17.740-02:48:23.990 | DM] Now we're about to get to the like crucial plot, reveal of the entire high school campaign.
 [u1584 | 02:48:24.100-02:48:46.909 | DM] but I might have to wait till Schwartz comes back. Yeah. Wait Tim, when when she's talking about like the sacking of the city, she talking about this city like where we are right now? No, no, this is so. This was. She's talking about your all. Wait! What's the crucial.
 [u1585 | 02:49:11.790-02:49:19.419 | Kenzo] He, like his species, was completely extinct. He was like the last of his kind. Yes, yeah, he was a good.
-[u1586 | 02:49:20.470-02:49:24.080 | DM] That's the [[paranoia]] that Apollyon was killing.
-[u1587 | 02:49:24.480-02:49:37.430 | Kenzo] Oh, fuck, wait! So remember [[talesian]] like Rai's, Rai's Father was like some kind of powerful dude was was Wait. Was [[Telesia]] remember the the traveler.
-[u1588 | 02:49:37.680-02:49:44.180 | Kenzo] the traveler, and [[tales, and]] were different people. They were different. Who the fuck was, the traveler again. The traveler was traveler was a dragon.
+[u1586 | 02:49:20.470-02:49:24.080 | DM] That's the {{paranoia}} that Apollyon was killing.
+[u1587 | 02:49:24.480-02:49:37.430 | Kenzo] Oh, fuck, wait! So remember {{talesian}} like Rai's, Rai's Father was like some kind of powerful dude was was Wait. Was {{Telesia}} remember the the traveler.
+[u1588 | 02:49:37.680-02:49:44.180 | Kenzo] the traveler, and {{tales, and}} were different people. They were different. Who the fuck was, the traveler again. The traveler was traveler was a dragon.
 [u1589 | 02:49:44.190-02:49:45.340 | Delwath] good dragon.
-[u1590 | 02:49:45.470-02:49:47.059 | DM] [[without a good dragon]].
+[u1590 | 02:49:45.470-02:49:47.059 | DM] {{without a good dragon}}.
 [u1591 | 02:49:49.930-02:49:51.379 | Kenzo] That was a cool character.
 [u1592 | 02:49:51.470-02:49:54.100 | Seeker] Wait! What species was Rai? That
 [u1593 | 02:49:54.220-02:50:00.720 | DM] he was an elf? What what we made up, and we know, you know, originally he was a weird elf. Originally he was an elf
 [u1594 | 02:50:01.300-02:50:08.870 | DM] like when Kong first made up the character. But then there was that whole like weird thing in the jungle, the forest in the north.
 [u1595 | 02:50:08.980-02:50:17.370 | DM] where we did like solo adventures with everybody. Yes, and Kong and I made up some like crazy backstory for Rai that he was like the
 [u1596 | 02:50:17.570-02:50:19.529 | DM] descendant of, like the
-[u1597 | 02:50:20.090-02:50:30.159 | DM] this like weird race of high elves, I think we called them. I forget what we called yeah, yeah. Yeah. [[White dress]], right? Oh, [[totally dress]]. Holy fuck, right?
+[u1597 | 02:50:20.090-02:50:30.159 | DM] this like weird race of high elves, I think we called them. I forget what we called yeah, yeah. Yeah. {{White dress}}, right? Oh, {{totally dress}}. Holy fuck, right?
 [u1598 | 02:50:30.290-02:50:45.479 | Kenzo] They were like the high elves who ruled, Drankor with the humans. Oh, shit! I totally forgot, but they had all been sort of wiped out. There was almost none of the left except for this, like weird place in the forest, which is where
 [u1599 | 02:50:45.490-02:51:11.409 | DM] Rai got Dimitaur, and then I Rai got like special did like special training there, and came back like superpower right well, and that was when like we like stopped doing spells, and like we would all just like, alright. What's Rai gonna do right now? He would like, make up some create like we would all come up with some crazy
 [u1600 | 02:51:11.960-02:51:14.489 | Seeker] is the alliance of humans, and elves
@@ -1611,7 +1611,7 @@
 [u1611 | 02:52:18.990-02:52:19.890 | DM] so like
 [u1612 | 02:52:20.160-02:52:24.480 | DM] the last 100 years of like the. And then.
 [u1613 | 02:52:26.460-02:52:33.059 | DM] So there was like this golden age. And then there was a civil war. The Omnis Pura assassinated the Emperor.
-[u1614 | 02:52:33.380-02:52:41.699 | DM] [[Hello]]! And and they installed their own. They won the Civil War
+[u1614 | 02:52:33.380-02:52:41.699 | DM] {{Hello}}! And and they installed their own. They won the Civil War
 [u1615 | 02:52:41.810-02:53:02.929 | Kenzo] and Omnis Pura were, yeah, but they were they humans, or elves, yeah, yes, yes, they're they're Fausto. And the yeah, right? Right? Right. Isn't Fausto human?
 [u1616 | 02:53:03.070-02:53:04.000 | Kenzo] Yes.
 [u1617 | 02:53:04.590-02:53:13.830 | Kenzo] all the omni no Omnis Pura. I think humans are the only they're very pro human. Why did they support Cha'mutte?
@@ -1629,12 +1629,12 @@
 [u1629 | 02:54:38.560-02:54:41.399 | Kenzo] And then what happens to the elves. They start
 [u1630 | 02:54:42.230-02:54:53.660 | Delwath] and they'll get murdered all start getting killed. They get exterminated. That's why Rai was the last of them. Genocide. Essentially. Yeah.
 [u1631 | 02:54:54.530-02:54:55.939 | DM] Well, now, the
-[u1632 | 02:54:55.970-02:54:59.390 | DM] the [[paranoia]], the [[paranoia]] are like the sort of
+[u1632 | 02:54:55.970-02:54:59.390 | DM] the {{paranoia}}, the {{paranoia}} are like the sort of
 [u1633 | 02:54:59.990-02:55:08.120 | DM] it's never entirely clear, metaphysically what they are. But they're basically elves who move to Hkar and became sort of human-ish.
 [u1634 | 02:55:09.540-02:55:15.890 | DM] I think I think back in the day they were basically half-elves right? Like.
 [u1635 | 02:55:15.970-02:55:22.960 | Delwath] right? Got more sophisticated. But
 [u1636 | 02:55:23.490-02:55:24.390 | Delwath] there.
-[u1637 | 02:55:24.570-02:55:34.200 | Kenzo] they're like the human elf, right? Like the the L, they're like that, the part human. Yeah, the elves have sort of given up their sort of elven heritage and [[liberty]].
+[u1637 | 02:55:24.570-02:55:34.200 | Kenzo] they're like the human elf, right? Like the the L, they're like that, the part human. Yeah, the elves have sort of given up their sort of elven heritage and {{liberty}}.
 [u1638 | 02:55:34.360-02:55:39.969 | Kenzo] I think that was probably also loosely inspired by Tanis, half-alven from the Dragonlance Series, which I was like very into
 [u1639 | 02:55:40.160-02:55:41.680 | Delwath] probably
 [u1640 | 02:55:41.700-02:55:49.939 | Kenzo] Schwartz. Tim's about to do, like Major, reveal like 30 year reveal that we've been waiting for. So we we waited for you to come back to have this moment right now.
@@ -1695,7 +1695,7 @@
 [u1695 | 03:02:10.840-03:02:18.330 | DM] Apollyon had made himself forever Cha'mutte's enemy. At that moment he declared himself a god. Think it went
 [u1696 | 03:02:18.710-03:02:20.050 | Unknown] before that, even
 [u1697 | 03:02:22.030-03:02:23.020 | DM] for Cha'mutte
-[u1698 | 03:02:24.030-03:02:31.379 | DM] had helped the Orcs find the cloak. In the first place. [[Cha'mutte]] took it from them.
+[u1698 | 03:02:24.030-03:02:31.379 | DM] had helped the Orcs find the cloak. In the first place. {{Cha'mutte}} took it from them.
 [u1699 | 03:02:32.460-03:02:36.960 | DM] binding them again to their gods. evil ministrations.
 [u1700 | 03:02:39.900-03:02:41.990 | DM] But it was really in that moment
 [u1701 | 03:02:43.380-03:02:45.320 | DM] that Cha'mutte turned on him.
@@ -1708,17 +1708,17 @@
 [u1708 | 03:03:21.820-03:03:25.140 | DM] I knew still that Cha'mutte's bindings
 [u1709 | 03:03:25.370-03:03:27.909 | DM] that have been placed on Apollyon
 [u1710 | 03:03:29.560-03:03:30.640 | DM] must hold.
-[u1711 | 03:03:32.550-03:03:38.210 | DM] I gave information to [[called there]] and [[Telesian]]
+[u1711 | 03:03:32.550-03:03:38.210 | DM] I gave information to {{called there}} and {{Telesian}}
 [u1712 | 03:03:41.340-03:03:44.979 | DM] whispered secrets to Rai.
 [u1713 | 03:03:46.430-03:03:49.750 | DM] and know that after shuts Cha'mutte's demean defeat.
 [u1714 | 03:03:50.800-03:03:54.319 | DM] the traveller warned Rai of Apollyon.
-[u1715 | 03:03:58.410-03:04:08.329 | DM] know that Rai was among the last alive of [[Imr Dell's]] line. [[Imradel]], the last [[parent or]] Emperor of Drankor
+[u1715 | 03:03:58.410-03:04:08.329 | DM] know that Rai was among the last alive of {{Imr Dell's}} line. {{Imradel}}, the last {{parent or}} Emperor of Drankor
 [u1716 | 03:04:09.190-03:04:12.750 | DM] I think he took his responsibility to protect the world from
 [u1717 | 03:04:12.840-03:04:15.060 | DM] Apollyon seriously.
 [u1718 | 03:04:17.870-03:04:21.859 | DM] But as this Laya began. Something changed.
 [u1719 | 03:04:25.720-03:04:27.500 | DM] The bindings broke
 [u1720 | 03:04:28.740-03:04:29.660 | DM] somehow.
-[u1721 | 03:04:33.960-03:04:37.519 | DM] and I think I can survive another [[car]].
+[u1721 | 03:04:33.960-03:04:37.519 | DM] and I think I can survive another {{car}}.
 [u1722 | 03:04:40.240-03:04:44.069 | DM] But I hope that Apollyon will be dead before I must depart.
 [u1723 | 03:04:49.650-03:04:55.990 | DM] No, that is not simple. To kill him because destroying his body will not crush his soul.
 [u1724 | 03:04:58.430-03:05:00.989 | DM] To kill him, one must find
@@ -1823,8 +1823,8 @@
 [u1823 | 03:17:03.250-03:17:06.200 | Delwath] Does she know anything about the ring of undying?
 [u1824 | 03:17:07.820-03:17:19.630 | DM] No, that was never like her the way she tells it. He had the cloak, scepter, and crown like that. Seems like it's maybe not connected to like the artifacts and Apollyon's power
 [u1825 | 03:17:19.800-03:17:29.049 | Delwath] Right, who has the crown.
-[u1826 | 03:17:29.150-03:17:30.450 | Kenzo] [[Mr. Kandu]].
-[u1827 | 03:17:31.060-03:17:37.920 | Kenzo] It makes the [[cleanse]] it it like turn it turns people into zombies.
+[u1826 | 03:17:29.150-03:17:30.450 | Kenzo] {{Mr. Kandu}}.
+[u1827 | 03:17:31.060-03:17:37.920 | Kenzo] It makes the {{cleanse}} it it like turn it turns people into zombies.
 [u1828 | 03:17:38.530-03:17:40.970 | Delwath] We should maybe we should go get the crown
 [u1829 | 03:17:43.660-03:17:44.960 | Unknown] you're
 [u1830 | 03:17:45.260-03:17:54.650 | Kenzo] I mean. Now, it kind of feels like you know what we gotta do? Right? It's like, we gotta get the pieces. See the vision vision
@@ -1836,12 +1836,12 @@
 [u1836 | 03:18:21.100-03:18:22.140 | Wellby] No.
 [u1837 | 03:18:24.920-03:18:31.519 | Wellby] I mean, it's almost like, what would he expect us to do next? And then how do we subvert that expectation.
 [u1838 | 03:18:33.320-03:18:47.870 | Kenzo] I don't know if that's compelling, though I'm stop. I'm talking pure with main quest right now, like pure main quest that feels like well, I think. Rai's hand is next, and Rai's hand. Then
-[u1839 | 03:18:48.220-03:19:04.320 | Delwath] we could go after Fausto. I mean, we gotta take out Fausto at some point, of course. Well, Fausto is probably, I mean he's he's searching for us, too, so it's like at some point. Maybe he'll he'll catch up with us a little bit, and if we take out Fausto, we may as well take the crown and [[spray it]]
+[u1839 | 03:18:48.220-03:19:04.320 | Delwath] we could go after Fausto. I mean, we gotta take out Fausto at some point, of course. Well, Fausto is probably, I mean he's he's searching for us, too, so it's like at some point. Maybe he'll he'll catch up with us a little bit, and if we take out Fausto, we may as well take the crown and {{spray it}}
 [u1840 | 03:19:04.570-03:19:05.430 | Wellby] for sure.
 [u1841 | 03:19:05.540-03:19:06.340 | Kenzo] Yeah.
 [u1842 | 03:19:06.520-03:19:13.219 | Delwath] But maybe we go to Apollyon before we take it. Maybe we we could figure that out once we get Rai's hand.
 [u1843 | 03:19:13.400-03:19:15.420 | Kenzo] Yeah. yeah.
-[u1844 | 03:19:15.600-03:19:21.629 | Delwath] how many other pieces are there again? And we still have to go back and investigate that [[strange use]] from
+[u1844 | 03:19:15.600-03:19:21.629 | Delwath] how many other pieces are there again? And we still have to go back and investigate that {{strange use}} from
 [u1845 | 03:19:21.860-03:19:33.109 | Delwath] you can do all sorts. There's 3 pieces of Rai's hand, left, right.
 [u1846 | 03:19:33.170-03:19:38.840 | Delwath] one in Ursk, one in the Mermaid garden. the Murf, the merfolk garden
 [u1847 | 03:19:39.050-03:19:44.109 | Delwath] out, or the place where the sorry. We don't know this merfolk. There we just assume it's the place where the J.
@@ -1879,7 +1879,7 @@
 [u1879 | 03:23:02.060-03:23:12.070 | Kenzo] we have such solid clues for 2 of them. It's a worthy. It's a worthy set, but so wait. But just like, so we. What we just learned was that
 [u1880 | 03:23:12.610-03:23:19.060 | Kenzo] the the the Cha'mutte-Apollyon, like civil war?
 [u1881 | 03:23:19.350-03:23:25.549 | Kenzo] So Cha'mutte started the plague to prevent Apollyon from becoming a god.
-[u1882 | 03:23:25.610-03:23:47.280 | Kenzo] but right about to like become like like a human god, and then he comes in, unleashes the plague, wipes out Drankor, and then he imprisons Apollyon, and then, when we in the last campaign [[kill the Polyga]], killed Cha'mutte. That actually started the process through which Apollyon could then escape exactly
+[u1882 | 03:23:25.610-03:23:47.280 | Kenzo] but right about to like become like like a human god, and then he comes in, unleashes the plague, wipes out Drankor, and then he imprisons Apollyon, and then, when we in the last campaign {{kill the Polyga}}, killed Cha'mutte. That actually started the process through which Apollyon could then escape exactly
 [u1883 | 03:23:47.520-03:24:00.360 | Wellby] suggesting that killing Apollyon in this campaign is Gonna trigger some unforeseen disaster resolution in another 20 years.
 [u1884 | 03:24:02.350-03:24:09.270 | DM] No, the next campaign is, gonna be a slice of life campaign. no big quests, only side quests.
 [u1885 | 03:24:10.490-03:24:21.440 | DM] Or maybe I'll maybe it'll be a big quest for one that's really not very important. So you never feel like you have to do it, but it's always there so that you
@@ -1931,7 +1931,7 @@
 [u1931 | 03:30:11.840-03:30:16.130 | Wellby] That's okay. You have the cloud stealth thing. We could have snuck up on it undetected.
 [u1932 | 03:30:17.840-03:30:39.130 | Delwath] or we can just use the Rainbow bridge we can be like on the horizon, and then bridge over to the thing, and that teleported us to. We could Rainbow Bridge literally to the exact spot of the trebuchet right, and then knock out one of the sides or destroy it with, like any one of our numerous spells.
 [u1933 | 03:30:39.510-03:30:40.610 | Delwath] of which
-[u1934 | 03:30:40.710-03:30:48.000 | Wellby] Delwath has none that would be helpful [[to throw a trio]] like literally 0. But I'm sure Seeker has something. I could shoot it with an arrow.
+[u1934 | 03:30:40.710-03:30:48.000 | Wellby] Delwath has none that would be helpful {{to throw a trio}} like literally 0. But I'm sure Seeker has something. I could shoot it with an arrow.
 [u1935 | 03:30:48.690-03:30:50.319 | Kenzo] I could punch it.
 [u1936 | 03:30:50.870-03:31:05.779 | DM] You can punch pretty hard. This is next session. I will give you a little bit of planning time on your before on the, you know, beginning of next session, because obviously you're flying for like 3 days.
 [u1937 | 03:31:07.050-03:31:13.240 | Wellby] How how long has it been since we left Riswynn. Do you have that handy?

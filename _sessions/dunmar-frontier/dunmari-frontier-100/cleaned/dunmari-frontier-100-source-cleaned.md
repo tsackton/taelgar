@@ -9,7 +9,7 @@
 [u0009 | 00:00:33.930-00:00:36.119 | DM] short term transform.
 [u0010 | 00:00:36.210-00:00:42.409 | DM] But for the rest of you it's a strange experience as you begin to sink into the ocean.
 [u0011 | 00:00:44.460-00:00:52.189 | DM] and having dived off the folding boat and quickly folded it up in this strange
-[u0012 | 00:00:52.410-00:00:53.410 | DM] [[5,]]
+[u0012 | 00:00:52.410-00:00:53.410 | DM] {{5,}}
 [u0013 | 00:00:55.190-00:01:00.400 | DM] not exactly a dead zone, but a a zone where there is
 [u0014 | 00:01:00.970-00:01:04.723 | DM] or there was no wind, no waves.
 [u0015 | 00:01:06.350-00:01:13.249 | DM] a place where Kenzo could sense the jade, both close and far away, indicating to you that it was probably
@@ -72,7 +72,7 @@
 [u0072 | 00:05:39.990-00:05:41.649 | Wellby] Think. Wellby's also sort of
 [u0073 | 00:05:42.680-00:05:47.340 | Wellby] stowed a lot of the gear that might otherwise be carried, or might have been.
 [u0074 | 00:05:47.690-00:05:48.930 | Wellby] as the
-[u0075 | 00:05:49.480-00:06:03.009 | Wellby] short sword and bow and arrows strapped tight and close [[in a few things in this fashioned Kenku armor]] to
+[u0075 | 00:05:49.480-00:06:03.009 | Wellby] short sword and bow and arrows strapped tight and close {{in a few things in this fashioned Kenku armor}} to
 [u0076 | 00:06:03.500-00:06:08.170 | Wellby] look to be like emerald green, and
 [u0077 | 00:06:08.190-00:06:11.370 | Wellby] covered in sort of worked motifs of
 [u0078 | 00:06:11.980-00:06:17.329 | Wellby] ocean scenes and fish, and all these the
@@ -167,7 +167,7 @@
 [u0167 | 00:12:56.580-00:12:58.609 | DM] and and there's you know.
 [u0168 | 00:13:03.870-00:13:09.679 | DM] I I mean, you know that at least a little bit of the backstory of, you know. There was a
 [u0169 | 00:13:11.500-00:13:12.570 | DM] there was a
-[u0170 | 00:13:13.610-00:13:14.380 | DM] [[path]]
+[u0170 | 00:13:13.610-00:13:14.380 | DM] {{path}}
 [u0171 | 00:13:15.130-00:13:18.079 | DM] split among the merfolk. There was a war.
 [u0172 | 00:13:18.600-00:13:21.140 | DM] There was this mention of Gazankoa.
 [u0173 | 00:13:21.320-00:13:27.870 | DM] who you don't know, but the name sounds pretty bad, just, you know, based on the sound of the name and the fact that
@@ -293,10 +293,10 @@
 [u0293 | 00:20:19.800-00:20:22.440 | Wellby] he sailed in for years and years.
 [u0294 | 00:20:23.460-00:20:26.840 | Wellby] The sound of the gulls over the water. The
 [u0295 | 00:20:27.820-00:20:29.540 | Wellby] wagon homes
-[u0296 | 00:20:29.690-00:20:31.429 | Wellby] [[a little vibe.]]
+[u0296 | 00:20:29.690-00:20:31.429 | Wellby] {{a little vibe.}}
 [u0297 | 00:20:31.550-00:20:35.039 | Wellby] you know, cabins along with the wagons filled with trade goods.
 [u0298 | 00:20:39.100-00:20:41.490 | Wellby] but also thinks and says.
-[u0299 | 00:20:45.090-00:20:47.530 | Wellby] beyond all of those [[this was my fault]].
+[u0299 | 00:20:45.090-00:20:47.530 | Wellby] beyond all of those {{this was my fault}}.
 [u0300 | 00:20:47.780-00:20:50.130 | Wellby] and remembers thinking back
 [u0301 | 00:20:50.790-00:20:51.820 | Wellby] to
 [u0302 | 00:20:51.880-00:20:56.460 | Wellby] all the different times, with a map spread out on the table in front of him
@@ -355,7 +355,7 @@
 [u0355 | 00:24:28.080-00:24:30.009 | Delwath] where he would run and
 [u0356 | 00:24:30.380-00:24:33.260 | Delwath] talk and play and
 [u0357 | 00:24:33.830-00:24:36.840 | Delwath] explore and experience with his
-[u0358 | 00:24:37.630-00:24:42.850 | Delwath] his age, mates, [[his car]], his generation, all the things that
+[u0358 | 00:24:37.630-00:24:42.850 | Delwath] his age, mates, {{his car}}, his generation, all the things that
 [u0359 | 00:24:43.440-00:24:49.919 | Delwath] humans experience in dreams that elves no longer do. Once they awaken
 [u0360 | 00:24:50.130-00:24:51.580 | Delwath] from their childhood.
 [u0361 | 00:24:51.890-00:24:52.720 | Delwath] and
@@ -386,11 +386,11 @@
 [u0386 | 00:26:29.130-00:26:36.139 | Delwath] stay in the safety of his, the elven forests. From the moment he was awakened
 [u0387 | 00:26:36.260-00:26:39.810 | Delwath] he he knew he would march.
 [u0388 | 00:26:40.330-00:26:42.830 | Delwath] So it's I guess the the
-[u0389 | 00:26:43.950-00:26:46.510 | Delwath] he almost feels. [[The question is hint]]
+[u0389 | 00:26:43.950-00:26:46.510 | Delwath] he almost feels. {{The question is hint}}
 [u0390 | 00:26:47.250-00:26:48.410 | Delwath] it's just not.
 [u0391 | 00:26:49.360-00:26:51.890 | Delwath] He had to. There was no choice.
 [u0392 | 00:26:54.290-00:26:59.630 | Delwath] and sometimes he wonders, you know, why did I do that.
-[u0393 | 00:27:00.310-00:27:02.799 | Delwath] but it never felt like [[the raw, the right]].
+[u0393 | 00:27:00.310-00:27:02.799 | Delwath] but it never felt like {{the raw, the right}}.
 [u0394 | 00:27:02.920-00:27:04.889 | Delwath] It always felt like the right decision.
 [u0395 | 00:27:04.910-00:27:06.860 | Delwath] despite everything that happened.
 [u0396 | 00:27:09.000-00:27:10.489 | Delwath] He's never regretted it.
@@ -449,7 +449,7 @@
 [u0449 | 00:30:44.250-00:30:52.649 | DM] beginning to stretch, and their forms shift, growing legs, long legs with long
 [u0450 | 00:30:53.280-00:30:57.380 | DM] toes, with broad webbing between them, spread out.
 [u0451 | 00:30:57.860-00:31:03.919 | DM] beginning to grow arms, with long hands, with webbing spread out in this, and like.
-[u0452 | 00:31:03.990-00:31:05.040 | DM] [[Got me]]
+[u0452 | 00:31:03.990-00:31:05.040 | DM] {{Got me}}
 [u0453 | 00:31:05.710-00:31:09.220 | DM] fins that run down the sides of their arms.
 [u0454 | 00:31:10.130-00:31:11.919 | DM] beginning to grow
 [u0455 | 00:31:13.800-00:31:15.030 | DM] faces.
@@ -469,10 +469,10 @@
 [u0469 | 00:32:20.250-00:32:22.989 | Delwath] scattered planar. Weakness thing
 [u0470 | 00:32:23.960-00:32:30.016 | Delwath] before. But maybe that was a misinterpretation. The the the whole thing that caused the
 [u0471 | 00:32:31.080-00:32:35.650 | Delwath] scattered planar weaknesses that Rai was trying to solve right?
-[u0472 | 00:32:36.530-00:32:42.310 | Delwath] Or was it [[in pro]]? Was the impression long, long, long like do we have? Let me put it? If we do, we have any sense of time, or is it.
+[u0472 | 00:32:36.530-00:32:42.310 | Delwath] Or was it {{in pro}}? Was the impression long, long, long like do we have? Let me put it? If we do, we have any sense of time, or is it.
 [u0473 | 00:32:42.310-00:32:44.940 | DM] Oh, yeah, this is all like, like.
 [u0474 | 00:32:45.260-00:32:46.140 | Delwath] Super wild.
-[u0475 | 00:32:46.140-00:32:47.020 | DM] [[Of your employees.]]
+[u0475 | 00:32:46.140-00:32:47.020 | DM] {{Of your employees.}}
 [u0476 | 00:32:47.020-00:32:47.630 | Delwath] Everything.
 [u0477 | 00:32:47.883-00:32:48.390 | DM] Long ago.
 [u0478 | 00:32:48.390-00:32:50.280 | Delwath] Everything they've been hinting at is from
@@ -497,7 +497,7 @@
 [u0497 | 00:33:40.900-00:33:42.538 | DM] passes between them.
 [u0498 | 00:33:48.320-00:33:50.649 | DM] Understanding a bond
 [u0499 | 00:33:52.540-00:33:53.880 | DM] and the ocean
-[u0500 | 00:33:54.160-00:33:55.310 | DM] [[friends]]
+[u0500 | 00:33:54.160-00:33:55.310 | DM] {{friends}}
 [u0501 | 00:33:56.740-00:33:58.410 | DM] and drifts.
 [u0502 | 00:33:59.310-00:34:00.990 | DM] and as they do.
 [u0503 | 00:34:01.710-00:34:03.529 | DM] the merfolk follow.
@@ -571,7 +571,7 @@
 [u0571 | 00:38:09.855-00:38:10.560 | DM] times.
 [u0572 | 00:38:11.260-00:38:14.380 | DM] Why do? Why did you keep going Wellby you were
 [u0573 | 00:38:15.040-00:38:16.320 | DM] held by
-[u0574 | 00:38:16.620-00:38:18.230 | DM] [[grotes Blade]], and
+[u0574 | 00:38:16.620-00:38:18.230 | DM] {{grotes Blade}}, and
 [u0575 | 00:38:18.940-00:38:20.919 | DM] could have stayed
 [u0576 | 00:38:21.480-00:38:25.370 | DM] in the memory of your people or turned to safer journeys. Yet
 [u0577 | 00:38:25.890-00:38:27.219 | DM] you came back
@@ -582,7 +582,7 @@
 [u0582 | 00:38:40.970-00:38:42.530 | DM] their gods, and yet
 [u0583 | 00:38:44.550-00:38:45.819 | DM] you didn't stop
 [u0584 | 00:38:46.600-00:38:51.419 | DM] Riswynn. You are twice renowned among the dwarves for recovering
-[u0585 | 00:38:51.430-00:38:57.790 | DM] Chalice of the Runepriest among the Orcs for saving [[sarcast]] among the most famous of all
+[u0585 | 00:38:51.430-00:38:57.790 | DM] Chalice of the Runepriest among the Orcs for saving {{sarcast}} among the most famous of all
 [u0586 | 00:38:58.290-00:39:00.670 | DM] dwarves in the current age, and yet.
 [u0587 | 00:39:00.930-00:39:05.099 | DM] and none could doubt that you had served the duty of your gods. And yet
 [u0588 | 00:39:05.470-00:39:06.330 | DM] and yet
@@ -590,7 +590,7 @@
 [u0590 | 00:39:09.890-00:39:14.070 | DM] you are offered a chance to join the ancient scholars of Tollen
 [u0591 | 00:39:14.310-00:39:17.980 | DM] and learn the answers to every mystery of the universe.
 [u0592 | 00:39:18.820-00:39:21.880 | DM] and would only cost 5 years of your life. And yet.
-[u0593 | 00:39:24.420-00:39:26.490 | DM] and [[questioning fingers]].
+[u0593 | 00:39:24.420-00:39:26.490 | DM] and {{questioning fingers}}.
 [u0594 | 00:39:26.660-00:39:27.080 | Delwath] Seeker.
 [u0595 | 00:39:27.080-00:39:29.119 | DM] Seeker maybe regrets that decision.
 [u0596 | 00:39:29.160-00:39:33.949 | Delwath] I wanted to know why Seeker didn't join the Philosophers' Guild, Seeker.
@@ -631,7 +631,7 @@
 [u0631 | 00:42:22.400-00:42:24.770 | Seeker] Who needs spell slots in a philosopher's guild, you know.
 [u0632 | 00:42:24.770-00:42:25.300 | Delwath] True, but.
 [u0633 | 00:42:25.300-00:42:26.060 | DM] That's true.
-[u0634 | 00:42:26.060-00:42:31.060 | Delwath] Seeker would never be able to learn [[what duplicate Seeker would you can't eat its memories]].
+[u0634 | 00:42:26.060-00:42:31.060 | Delwath] Seeker would never be able to learn {{what duplicate Seeker would you can't eat its memories}}.
 [u0635 | 00:42:31.850-00:42:32.460 | Seeker] A weekend.
 [u0636 | 00:42:32.460-00:42:34.300 | DM] Have to be on the event.
 [u0637 | 00:42:34.300-00:42:34.680 | Seeker] Just.
@@ -742,7 +742,7 @@
 [u0742 | 00:48:01.080-00:48:04.500 | DM] to speak in the third person. Talk about we.
 [u0743 | 00:48:07.730-00:48:08.500 | DM] but
 [u0744 | 00:48:09.580-00:48:12.660 | DM] there is no sense of
-[u0745 | 00:48:13.860-00:48:15.060 | DM] [[Pan yet.]]
+[u0745 | 00:48:13.860-00:48:15.060 | DM] {{Pan yet.}}
 [u0746 | 00:48:15.980-00:48:18.540 | DM] This isn't a bunch of different
 [u0747 | 00:48:18.710-00:48:19.740 | DM] people
 [u0748 | 00:48:20.090-00:48:21.230 | DM] together.
@@ -763,7 +763,7 @@
 [u0763 | 00:49:26.030-00:49:30.769 | DM] So so it definitely was quite in tune to Delwath talking about
 [u0764 | 00:49:31.120-00:49:33.760 | DM] feeling called to
 [u0765 | 00:49:35.568-00:49:41.309 | DM] go to, instead of like the idea that he awoke with this.
-[u0766 | 00:49:41.970-00:49:43.129 | DM] [[What was that them]]
+[u0766 | 00:49:41.970-00:49:43.129 | DM] {{What was that them}}
 [u0767 | 00:49:43.170-00:49:50.670 | DM] foretelling? Yeah, mandate, to go to war to protect like you couldn't just stay home and let
 [u0768 | 00:49:51.050-00:49:52.900 | DM] all your.
 [u0769 | 00:49:54.220-00:50:03.299 | DM] You know generation mates, go to war without you, and it that triggered it to show you images and talk about creating the
@@ -916,7 +916,7 @@
 [u0916 | 00:59:58.600-01:00:00.710 | DM] there's this kind of
 [u0917 | 01:00:03.310-01:00:06.050 | DM] opening up this kind of of
 [u0918 | 01:00:07.340-01:00:09.630 | DM] query, this kind of
-[u0919 | 01:00:11.010-01:00:12.270 | DM] [[stands]]
+[u0919 | 01:00:11.010-01:00:12.270 | DM] {{stands}}
 [u0920 | 01:00:12.840-01:00:20.379 | DM] as it's just kind of trying to look at each of you. And and and yeah, to try and understand. Like.
 [u0921 | 01:00:22.400-01:00:24.480 | DM] would you be loyal
 [u0922 | 01:00:24.780-01:00:25.820 | DM] to it?
@@ -1150,7 +1150,7 @@
 [u1150 | 01:13:59.480-01:14:02.730 | DM] leaving only a small number to
 [u1151 | 01:14:02.950-01:14:05.330 | DM] watch on this side.
 [u1152 | 01:14:08.280-01:14:09.650 | DM] and now
-[u1153 | 01:14:10.280-01:14:12.320 | DM] [[lives, dwells]]
+[u1153 | 01:14:10.280-01:14:12.320 | DM] {{lives, dwells}}
 [u1154 | 01:14:12.570-01:14:14.200 | DM] the way is sealed.
 [u1155 | 01:14:16.340-01:14:17.810 | DM] the the.
 [u1156 | 01:14:17.860-01:14:19.929 | DM] the the portal is sealed
@@ -1213,7 +1213,7 @@
 [u1213 | 01:17:52.640-01:17:58.060 | DM] and you see now the city of the ruined city of Omi below you.
 [u1214 | 01:17:58.730-01:17:59.550 | DM] That
 [u1215 | 01:18:05.730-01:18:06.710 | DM] the
-[u1216 | 01:18:08.010-01:18:10.479 | DM] rotted bits of [[Jane]], the
+[u1216 | 01:18:08.010-01:18:10.479 | DM] rotted bits of {{Jane}}, the
 [u1217 | 01:18:10.910-01:18:15.939 | DM] cracked foundations, this this rift, this you're still
 [u1218 | 01:18:16.280-01:18:20.350 | DM] high enough up, you sense that you're not quite through.
 [u1219 | 01:18:20.850-01:18:23.429 | DM] But you see, what is there now?
@@ -1249,7 +1249,7 @@
 [u1249 | 01:20:26.420-01:20:26.960 | Delwath] Anecdotally.
 [u1250 | 01:20:27.930-01:20:29.419 | Seeker] And the end. Oh, there's a
 [u1251 | 01:20:29.890-01:20:31.430 | Seeker] entity named
-[u1252 | 01:20:34.110-01:20:35.690 | Seeker] [[10,000 employees.]]
+[u1252 | 01:20:34.110-01:20:35.690 | Seeker] {{10,000 employees.}}
 [u1253 | 01:20:35.880-01:20:37.049 | Kenzo] Yeah, yeah, yeah, but.
 [u1254 | 01:20:37.450-01:20:41.179 | DM] That that doesn't really matter. That's just the source of the warlocks power
 [u1255 | 01:20:42.900-01:20:45.100 | DM] warlocks, the the.
@@ -1266,9 +1266,9 @@
 [u1266 | 01:21:09.605-01:21:10.139 | Delwath] True.
 [u1267 | 01:21:10.140-01:21:10.630 | Seeker] It's first.
 [u1268 | 01:21:10.630-01:21:12.560 | Kenzo] Okay, okay, good. Alright. So, so.
-[u1269 | 01:21:12.560-01:21:15.869 | Delwath] [[There's a let's be the B guy.]] But but.
+[u1269 | 01:21:12.560-01:21:15.869 | Delwath] {{There's a let's be the B guy.}} But but.
 [u1270 | 01:21:15.870-01:21:17.100 | DM] Buruli.
-[u1271 | 01:21:17.100-01:21:19.120 | Seeker] [[Totally as Amanda.]] And
+[u1271 | 01:21:17.100-01:21:19.120 | Seeker] {{Totally as Amanda.}} And
 [u1272 | 01:21:19.180-01:21:20.440 | Seeker] right, yeah, okay.
 [u1273 | 01:21:20.440-01:21:22.039 | Delwath] Yeah. Got the jade
 [u1274 | 01:21:23.420-01:21:25.970 | Delwath] he got the jade. He
@@ -1281,7 +1281,7 @@
 [u1281 | 01:21:44.800-01:21:47.279 | DM] the city so that nobody could
 [u1282 | 01:21:47.320-01:21:49.109 | DM] come in or out of the city.
 [u1283 | 01:21:49.360-01:21:51.389 | DM] And so he retreated to the Plane of.
-[u1284 | 01:21:51.390-01:21:56.669 | Delwath] Okay. So [[he pulled the city to the Plane of Water]] because he was
+[u1284 | 01:21:51.390-01:21:56.669 | Delwath] Okay. So {{he pulled the city to the Plane of Water}} because he was
 [u1285 | 01:21:57.270-01:21:59.029 | Delwath] trapped. And now
 [u1286 | 01:21:59.400-01:22:08.429 | Delwath] there's this stalemate. The ocean doesn't dare go after him, because if he gets any bit of the ocean he gets all of it and is basically afraid of
 [u1287 | 01:22:08.790-01:22:09.560 | Delwath] of.
@@ -1295,7 +1295,7 @@
 [u1295 | 01:22:48.610-01:22:49.150 | Delwath] Yeah, yeah.
 [u1296 | 01:22:49.594-01:22:50.039 | Riswynn] It.
 [u1297 | 01:22:50.040-01:22:50.570 | Delwath] Fine.
-[u1298 | 01:22:51.390-01:22:53.510 | Seeker] Sentient Ocean is [[an exile problem.]]
+[u1298 | 01:22:51.390-01:22:53.510 | Seeker] Sentient Ocean is {{an exile problem.}}
 [u1299 | 01:22:53.720-01:22:54.140 | Delwath] The point of.
 [u1300 | 01:22:54.140-01:22:55.219 | Seeker] Waiting for her.
 [u1301 | 01:22:56.140-01:23:00.399 | Seeker] Yes, and there are a bunch of merfolk cities all across it. But.
@@ -1305,12 +1305,12 @@
 [u1305 | 01:23:14.390-01:23:14.810 | Seeker] Yeah. Awesome.
 [u1306 | 01:23:14.810-01:23:18.480 | Delwath] Better way of being a god than Apollyon. Right like.
 [u1307 | 01:23:18.630-01:23:22.320 | Seeker] And the merfolk are essentially a single hive mind, with
-[u1308 | 01:23:22.690-01:23:24.320 | Seeker] [[not communication.]]
-[u1309 | 01:23:24.320-01:23:25.450 | DM] [[Single is essential.]]
+[u1308 | 01:23:22.690-01:23:24.320 | Seeker] {{not communication.}}
+[u1309 | 01:23:24.320-01:23:25.450 | DM] {{Single is essential.}}
 [u1310 | 01:23:25.450-01:23:25.990 | Delwath] And ocean.
 [u1311 | 01:23:25.990-01:23:28.579 | DM] Is a single hive mind, but.
 [u1312 | 01:23:28.580-01:23:30.270 | Seeker] So. The merfolk are not.
-[u1313 | 01:23:30.840-01:23:31.280 | DM] [[Program.]]
+[u1313 | 01:23:30.840-01:23:31.280 | DM] {{Program.}}
 [u1314 | 01:23:31.280-01:23:33.840 | Seeker] One mind with it.
 [u1315 | 01:23:34.130-01:23:34.790 | DM] No.
 [u1316 | 01:23:35.220-01:23:35.720 | Seeker] Okay.
@@ -1335,7 +1335,7 @@
 [u1335 | 01:24:38.200-01:24:40.780 | Kenzo] We we just like, stand there and then we're like, Ha, ha!
 [u1336 | 01:24:41.080-01:24:44.559 | Kenzo] 3 greater than one. And then it's over. Right?
 [u1337 | 01:24:45.620-01:24:46.360 | Kenzo] Okay.
-[u1338 | 01:24:46.360-01:24:56.563 | DM] I mean, if you didn't want the piece of jade you could just try and close the portal. [[At least you could trapped on the other side.]] That's certainly the case, but but jade would then be trapped on the other side with them.
+[u1338 | 01:24:46.360-01:24:56.563 | DM] I mean, if you didn't want the piece of jade you could just try and close the portal. {{At least you could trapped on the other side.}} That's certainly the case, but but jade would then be trapped on the other side with them.
 [u1339 | 01:24:56.940-01:24:57.600 | Kenzo] Hmm
 [u1340 | 01:24:58.060-01:24:58.850 | Kenzo] son.
 [u1341 | 01:24:59.860-01:25:00.520 | Wellby] So
@@ -1362,7 +1362,7 @@
 [u1362 | 01:26:05.320-01:26:06.679 | Riswynn] And the plane of water. People.
 [u1363 | 01:26:06.680-01:26:07.250 | Seeker] Wow!
 [u1364 | 01:26:07.250-01:26:10.070 | Riswynn] The other plane, and then
-[u1365 | 01:26:10.080-01:26:14.269 | Riswynn] [[tried to annihilate the plaintive water, the sentient ocean.]]
+[u1365 | 01:26:10.080-01:26:14.269 | Riswynn] {{tried to annihilate the plaintive water, the sentient ocean.}}
 [u1366 | 01:26:15.000-01:26:16.909 | Riswynn] Who knows the.
 [u1367 | 01:26:17.050-01:26:19.219 | Delwath] Wait. The one thing I didn't get is okay. So the
 [u1368 | 01:26:19.860-01:26:21.620 | Delwath] Plane of Water.
@@ -1386,12 +1386,12 @@
 [u1386 | 01:27:20.200-01:27:20.680 | Kenzo] Oh, yeah.
 [u1387 | 01:27:20.680-01:27:24.359 | DM] Using Azar as his. That's right.
 [u1388 | 01:27:24.360-01:27:24.974 | Delwath] And we don't.
-[u1389 | 01:27:25.180-01:27:28.185 | Kenzo] [[Mile and a sample of it]], and then, like came chasing after it.
+[u1389 | 01:27:25.180-01:27:28.185 | Kenzo] {{Mile and a sample of it}}, and then, like came chasing after it.
 [u1390 | 01:27:28.400-01:27:28.890 | Delwath] Don't know.
 [u1391 | 01:27:28.890-01:27:29.240 | DM] He's.
 [u1392 | 01:27:29.240-01:27:30.690 | Delwath] Gazankoa, is.
 [u1393 | 01:27:30.910-01:27:32.909 | DM] Gazankoa is some like
-[u1394 | 01:27:33.020-01:27:36.924 | DM] [[Alder and L]], some Warlock patron on the plane of water.
+[u1394 | 01:27:33.020-01:27:36.924 | DM] {{Alder and L}}, some Warlock patron on the plane of water.
 [u1395 | 01:27:38.400-01:27:39.050 | DM] who.
 [u1396 | 01:27:39.050-01:27:39.590 | Riswynn] So.
 [u1397 | 01:27:39.590-01:27:45.379 | DM] Obviously controls a faction who wants to mess with the sentient ocean. But that's like probably a pretty minor.
@@ -1406,7 +1406,7 @@
 [u1406 | 01:28:11.270-01:28:13.920 | Riswynn] because Buruli started this whole like
 [u1407 | 01:28:14.660-01:28:16.189 | Riswynn] so. But
 [u1408 | 01:28:17.030-01:28:22.169 | Riswynn] I wondered whether the enemy of the enemy is my friend. Sort of thing has happened like whether Buruli knows that
-[u1409 | 01:28:22.340-01:28:27.599 | Riswynn] there's like other [[anti sentientations]], and has, like allied with them. But that's sort of
+[u1409 | 01:28:22.340-01:28:27.599 | Riswynn] there's like other {{anti sentientations}}, and has, like allied with them. But that's sort of
 [u1410 | 01:28:27.930-01:28:32.259 | Riswynn] cart before the horse horse before the cart because he became a warlock because of
 [u1411 | 01:28:32.500-01:28:34.749 | Riswynn] Gazankoa. So yes, he does.
 [u1412 | 01:28:34.750-01:28:38.650 | DM] Yeah, yeah, it's all supposed to be the one Gazankoa faction is the.
@@ -1466,8 +1466,8 @@
 [u1466 | 01:31:59.000-01:32:03.540 | Delwath] associated with Gazankoa as a source of his power.
 [u1467 | 01:32:03.690-01:32:04.710 | Delwath] got into a
 [u1468 | 01:32:04.970-01:32:08.570 | Delwath] who does? warlock got into a fight, basically with the Sentient Ocean
-[u1469 | 01:32:08.960-01:32:15.500 | Delwath] [[couldn't win without out like]] the Sentient Ocean on it, like Buruli versus ocean. Not a fair fight.
-[u1470 | 01:32:16.088-01:32:21.950 | Delwath] [[Buruli versus the Gazankoa]] pulling in the Gazankoa to help
+[u1469 | 01:32:08.960-01:32:15.500 | Delwath] {{couldn't win without out like}} the Sentient Ocean on it, like Buruli versus ocean. Not a fair fight.
+[u1470 | 01:32:16.088-01:32:21.950 | Delwath] {{Buruli versus the Gazankoa}} pulling in the Gazankoa to help
 [u1471 | 01:32:22.000-01:32:24.770 | Delwath] becomes a fair fight, but nonetheless.
 [u1472 | 01:32:24.780-01:32:26.320 | Delwath] the sentient ocean
 [u1473 | 01:32:27.260-01:32:29.160 | Delwath] trapped Buruli
@@ -1506,7 +1506,7 @@
 [u1506 | 01:34:19.520-01:34:20.390 | DM] Okay.
 [u1507 | 01:34:20.680-01:34:21.180 | DM] you to.
 [u1508 | 01:34:21.970-01:34:22.300 | Kenzo] Alright.
-[u1509 | 01:34:22.580-01:34:24.579 | Riswynn] So all [[for really needs to]]
+[u1509 | 01:34:22.580-01:34:24.579 | Riswynn] So all {{for really needs to}}
 [u1510 | 01:34:25.490-01:34:30.469 | Riswynn] speaking as a like understander of warlocks. Delwath
 [u1511 | 01:34:30.600-01:34:32.329 | Riswynn] all we need to do to
 [u1512 | 01:34:32.920-01:34:39.239 | Riswynn] to sort of heal this problem in this neighborhood for the more the benefit of the merfolk and the
@@ -1578,7 +1578,7 @@
 [u1578 | 01:39:21.822-01:39:23.630 | DM] there's like a a
 [u1579 | 01:39:24.410-01:39:29.049 | DM] in the sort of center. Looking down from where you are, there's
 [u1580 | 01:39:29.960-01:39:34.899 | DM] basically sort of a ruined structure that looks maybe like this background image like
-[u1581 | 01:39:35.010-01:39:43.780 | DM] this used to be some sort of town city center, or whatever, and it's been ruined. And there's this, like [[all of the jade]], all of the
+[u1581 | 01:39:35.010-01:39:43.780 | DM] this used to be some sort of town city center, or whatever, and it's been ruined. And there's this, like {{all of the jade}}, all of the
 [u1582 | 01:39:43.920-01:39:45.420 | DM] kelp is sort of
 [u1583 | 01:39:46.523-01:39:47.950 | DM] rotted and
 [u1584 | 01:39:48.570-01:39:50.030 | DM] collapsed
@@ -1661,12 +1661,12 @@
 [u1661 | 01:45:37.960-01:45:39.200 | Wellby] try and get jade.
 [u1662 | 01:45:44.500-01:45:46.030 | Kenzo] I like the I like this thread.
 [u1663 | 01:45:47.170-01:45:49.360 | Seeker] The jade is on the far side. Right
-[u1664 | 01:45:49.710-01:45:51.080 | Seeker] [[jade is Anson.]]
+[u1664 | 01:45:49.710-01:45:51.080 | Seeker] {{jade is Anson.}}
 [u1665 | 01:45:51.280-01:45:54.669 | Kenzo] Where? Oh, I I still can't sense it right. It's still, it's still in the other dimension.
 [u1666 | 01:45:55.040-01:45:58.250 | DM] It's in the other dimension, so you can't sense its location.
 [u1667 | 01:45:58.250-01:45:59.599 | Kenzo] Do we know where the portal is.
 [u1668 | 01:45:59.830-01:46:00.389 | Kenzo] or how far.
-[u1669 | 01:46:00.700-01:46:01.319 | DM] [[Is not.]]
+[u1669 | 01:46:00.700-01:46:01.319 | DM] {{Is not.}}
 [u1670 | 01:46:01.490-01:46:02.210 | Seeker] Why? Why are we.
 [u1671 | 01:46:02.437-01:46:06.989 | DM] So I seem to recall. If Seeker looked at his magic items, he might see something that could be useful.
 [u1672 | 01:46:06.990-01:46:08.179 | Seeker] Oh, my gosh!
@@ -1718,7 +1718,7 @@
 [u1718 | 01:48:19.060-01:48:20.920 | Delwath] Any of us know how to swim.
 [u1719 | 01:48:21.950-01:48:22.630 | Delwath] Yeah.
 [u1720 | 01:48:23.590-01:48:25.340 | Kenzo] I'm wearing a magic cloak, lets me swim.
-[u1721 | 01:48:25.340-01:48:27.629 | DM] [[I'll be in.]] Wellby and Kenzo.
+[u1721 | 01:48:25.340-01:48:27.629 | DM] {{I'll be in.}} Wellby and Kenzo.
 [u1722 | 01:48:28.010-01:48:30.539 | DM] Kenzo has a magic cloak, Wellby knows how to swim.
 [u1723 | 01:48:31.520-01:48:34.160 | Seeker] Can. I can animate a ladder that knows how to swim and ride it?
 [u1724 | 01:48:35.080-01:48:36.240 | Seeker] I so.
@@ -1726,9 +1726,9 @@
 [u1726 | 01:48:42.010-01:48:45.749 | Riswynn] So like a 90 foot dash is still too far.
 [u1727 | 01:48:47.160-01:48:50.100 | Seeker] Polymorph into something fast in the water.
 [u1728 | 01:48:50.100-01:48:53.569 | Kenzo] Had you? Yeah, polymorph into like a like a, you know, a whale kind of whale.
-[u1729 | 01:48:53.570-01:48:54.430 | Seeker] [[Absolutely sure.]]
+[u1729 | 01:48:53.570-01:48:54.430 | Seeker] {{Absolutely sure.}}
 [u1730 | 01:48:54.640-01:48:55.050 | Delwath] Oh!
-[u1731 | 01:48:55.050-01:48:57.040 | Seeker] [[And minute. 10 min, though but.]]
+[u1731 | 01:48:55.050-01:48:57.040 | Seeker] {{And minute. 10 min, though but.}}
 [u1732 | 01:48:57.590-01:49:00.660 | Delwath] Polymorph's a great way to sneak past somebody
 [u1733 | 01:49:01.580-01:49:04.029 | Delwath] who would bother a little fishy.
 [u1734 | 01:49:04.590-01:49:05.899 | Seeker] Holding a magic wand.
@@ -1751,7 +1751,7 @@
 [u1751 | 01:50:13.900-01:50:17.530 | Riswynn] visible is my like, like, we could just go
 [u1752 | 01:50:17.800-01:50:19.600 | Riswynn] in the plane that we're in.
 [u1753 | 01:50:19.600-01:50:20.270 | Delwath] Right? Okay.
-[u1754 | 01:50:20.270-01:50:21.290 | Riswynn] [[Great of home. Unfortunately.]]
+[u1754 | 01:50:20.270-01:50:21.290 | Riswynn] {{Great of home. Unfortunately.}}
 [u1755 | 01:50:21.290-01:50:22.130 | Seeker] An hour.
 [u1756 | 01:50:25.010-01:50:25.510 | Delwath] Ask.
 [u1757 | 01:50:25.730-01:50:33.519 | Seeker] What's the what's the shape of the boundary between the Sentient Ocean and the region inside? Is it like a sort of dome or.
@@ -1815,7 +1815,7 @@
 [u1815 | 01:53:23.290-01:53:23.700 | DM] 2.
 [u1816 | 01:53:26.400-01:53:27.859 | Seeker] Deal. Okay.
 [u1817 | 01:53:28.770-01:53:29.220 | Delwath] Okay. But.
-[u1818 | 01:53:29.220-01:53:32.230 | DM] [[Designed for operating in an undersea environment.]]
+[u1818 | 01:53:29.220-01:53:32.230 | DM] {{Designed for operating in an undersea environment.}}
 [u1819 | 01:53:32.230-01:53:33.637 | Delwath] It is magical, anyway.
 [u1820 | 01:53:36.240-01:53:41.060 | Delwath] but that's okay. 2 doesn't really limit us that much. We can go on along the dome and
 [u1821 | 01:53:41.360-01:53:45.569 | Delwath] keep it point? I mean, how would it point if you were directly above something.
@@ -1832,14 +1832,14 @@
 [u1832 | 01:54:13.050-01:54:17.730 | Seeker] Can I also get ready my polymorph spell? I guess that's not my thing. But anyway, I'm thinking.
 [u1833 | 01:54:17.730-01:54:18.939 | DM] Yeah, you can't really.
 [u1834 | 01:54:19.350-01:54:25.936 | DM] I mean, I mean, think about it. You could be prepared to cast it, but you can't ready actions outside of.
-[u1835 | 01:54:26.250-01:54:27.160 | Delwath] [[4 session.]]
+[u1835 | 01:54:26.250-01:54:27.160 | Delwath] {{4 session.}}
 [u1836 | 01:54:27.680-01:54:29.910 | Delwath] Relatively.
 [u1837 | 01:54:31.060-01:54:36.149 | Delwath] I mean, we feel relatively comfortable that we can't be seen in the Sentient Ocean bubbles.
 [u1838 | 01:54:36.590-01:54:38.619 | DM] As long as you're within this
 [u1839 | 01:54:39.290-01:54:43.769 | DM] you're still being protected by the sentient until you move 10 feet out.
 [u1840 | 01:54:44.170-01:54:44.570 | Delwath] Okay.
 [u1841 | 01:54:45.020-01:54:46.129 | Delwath] So we should be able to.
-[u1842 | 01:54:46.130-01:54:46.700 | DM] [[Already accomplished.]]
+[u1842 | 01:54:46.130-01:54:46.700 | DM] {{Already accomplished.}}
 [u1843 | 01:54:46.700-01:54:50.109 | Delwath] Okay. So we should be able to find the
 [u1844 | 01:54:50.230-01:54:52.860 | Delwath] portal without risk.
 [u1845 | 01:54:54.485-01:54:54.900 | DM] Yes.
@@ -1860,8 +1860,8 @@
 [u1860 | 01:55:51.430-01:55:55.549 | DM] They're circling. So I mean, this whole thing is like a thousand
 [u1861 | 01:55:56.010-01:55:57.820 | DM] feet across. So
 [u1862 | 01:55:58.450-01:55:59.460 | DM] you know.
-[u1863 | 01:55:59.730-01:56:01.300 | DM] [[one foot is.]]
-[u1864 | 01:56:02.040-01:56:09.979 | DM] yeah. Say, it's like, [[roughly 10 feet]]. They're circling, basically just as far, essentially as this edge of the
+[u1863 | 01:55:59.730-01:56:01.300 | DM] {{one foot is.}}
+[u1864 | 01:56:02.040-01:56:09.979 | DM] yeah. Say, it's like, {{roughly 10 feet}}. They're circling, basically just as far, essentially as this edge of the
 [u1865 | 01:56:10.200-01:56:14.729 | DM] pool sort of in a circle like this. But they're not going over the pool.
 [u1866 | 01:56:14.830-01:56:16.550 | DM] and they're not going.
 [u1867 | 01:56:16.910-01:56:25.348 | DM] They're not crossing. What again, as you're drifting over, it seems to be some pretty strong currents that are flowing
@@ -2007,7 +2007,7 @@
 [u2007 | 02:05:01.530-02:05:03.349 | Wellby] Oh, that's right. Yeah.
 [u2008 | 02:05:03.730-02:05:05.540 | Delwath] I mean, I assume we can all
 [u2009 | 02:05:05.560-02:05:07.829 | Delwath] swim in the sense that
-[u2010 | 02:05:09.930-02:05:10.769 | Delwath] [[we can't.]] Yeah.
+[u2010 | 02:05:09.930-02:05:10.769 | Delwath] {{we can't.}} Yeah.
 [u2011 | 02:05:11.020-02:05:13.540 | Riswynn] Propel ourselves kind of amateurly, but.
 [u2012 | 02:05:13.955-02:05:14.370 | DM] Right.
 [u2013 | 02:05:14.540-02:05:18.120 | DM] but swimming against a strong current is not.
@@ -2019,12 +2019,12 @@
 [u2019 | 02:05:35.670-02:05:39.230 | Seeker] What if I was a manta ray of like a small size?
 [u2020 | 02:05:39.450-02:05:41.480 | Seeker] Because there's other rays around.
 [u2021 | 02:05:42.971-02:05:48.879 | DM] The only other rays you have seen are being—are giant manta rays being used as mounts by the merfolk.
-[u2022 | 02:05:48.880-02:05:50.839 | Seeker] Right. [[I'm an escape. I'm a Juke.]]
+[u2022 | 02:05:48.880-02:05:50.839 | Seeker] Right. {{I'm an escape. I'm a Juke.}}
 [u2023 | 02:05:50.840-02:05:52.770 | Delwath] Hold on step. One
 [u2024 | 02:05:53.110-02:05:56.160 | Delwath] clairvoyance to the inside of the building.
 [u2025 | 02:05:58.160-02:06:02.460 | Seeker] Oh, it's so funny! I didn't even think of that for underwater. It's just weird
-[u2026 | 02:06:02.900-02:06:06.140 | Seeker] [[integration]]. But yes, absolutely. I should do that. You're right.
-[u2027 | 02:06:06.822-02:06:10.637 | Kenzo] Kenzo also wants to is communing with nature [[to zoom setting]], and so.
+[u2026 | 02:06:02.900-02:06:06.140 | Seeker] {{integration}}. But yes, absolutely. I should do that. You're right.
+[u2027 | 02:06:06.822-02:06:10.637 | Kenzo] Kenzo also wants to is communing with nature {{to zoom setting}}, and so.
 [u2028 | 02:06:12.844-02:06:16.410 | DM] I think the casting time on clairvoyance is 10 min. Is that right?
 [u2029 | 02:06:17.430-02:06:17.770 | Delwath] Is it.
 [u2030 | 02:06:17.770-02:06:19.529 | Seeker] Oh, that's sounds right.
@@ -2124,7 +2124,7 @@
 [u2124 | 02:11:58.540-02:12:01.270 | DM] That's where it lives in in this green.
 [u2125 | 02:12:01.790-02:12:04.349 | DM] This green part up here.
 [u2126 | 02:12:06.980-02:12:11.009 | Wellby] I'm trying to figure out like, what are there places closer to the building that are
-[u2127 | 02:12:11.190-02:12:15.517 | Wellby] undisturbed, or like [[a way that we can get is]]
+[u2127 | 02:12:11.190-02:12:15.517 | Wellby] undisturbed, or like {{a way that we can get is}}
 [u2128 | 02:12:16.390-02:12:19.810 | Wellby] So I'm wondering that I'm also wondering. Is there anywhere that the current? Isn't
 [u2129 | 02:12:20.600-02:12:22.280 | Wellby] that the scalding isn't.
 [u2130 | 02:12:24.740-02:12:29.209 | DM] So you sense that this fish has a very relatively limited
@@ -2139,7 +2139,7 @@
 [u2139 | 02:12:51.180-02:12:53.640 | DM] snacks or whatever can scrounge.
 [u2140 | 02:12:53.860-02:12:56.110 | DM] but not for long, because of
 [u2141 | 02:12:56.160-02:12:59.730 | DM] bad danger. Thinks it's food inside.
-[u2142 | 02:13:00.076-02:13:04.819 | DM] and then it'll duck back down to you get a sense that [[it's repeat]] that's like
+[u2142 | 02:13:00.076-02:13:04.819 | DM] and then it'll duck back down to you get a sense that {{it's repeat}} that's like
 [u2143 | 02:13:05.150-02:13:08.860 | DM] spends most of its time down in the kelp, like there's some
 [u2144 | 02:13:09.020-02:13:11.759 | DM] some life there still.
 [u2145 | 02:13:11.980-02:13:17.610 | DM] it's never even crossed this open space to this other kelp over here.
@@ -2248,7 +2248,7 @@
 [u2248 | 02:20:20.240-02:20:21.150 | Seeker] Hey, go!
 [u2249 | 02:20:22.410-02:20:28.819 | Seeker] I could also, just like performance of creation, a big ball of kelp for you to hide inside.
 [u2250 | 02:20:30.040-02:20:31.210 | Seeker] That would be noticeable.
-[u2251 | 02:20:31.210-02:20:32.070 | Delwath] The other thing [[isn't right]].
+[u2251 | 02:20:31.210-02:20:32.070 | Delwath] The other thing {{isn't right}}.
 [u2252 | 02:20:32.070-02:20:32.850 | Seeker] And.
 [u2253 | 02:20:32.880-02:20:36.583 | Delwath] I I don't think I have any way of making a hole in the ceiling.
 [u2254 | 02:20:38.980-02:20:41.419 | Seeker] Oh, we also don't know if the
@@ -2375,15 +2375,15 @@
 [u2375 | 02:28:02.510-02:28:03.020 | DM] Is this like.
 [u2376 | 02:28:03.020-02:28:07.389 | Kenzo] Like a. Is this like a strength thing? Or is this like an acrobatics, dexterity thing to like.
 [u2377 | 02:28:07.390-02:28:08.460 | DM] It's a strength.
-[u2378 | 02:28:08.660-02:28:11.579 | DM] I mean. Alright. [[This is like unique.]]
+[u2378 | 02:28:08.660-02:28:11.579 | DM] I mean. Alright. {{This is like unique.}}
 [u2379 | 02:28:11.580-02:28:18.119 | Kenzo] I was about to. Yeah. Kenzo was about to like, look at. Wellby and be like want to swim for it. But maybe not.
 [u2380 | 02:28:19.100-02:28:20.070 | Kenzo] Maybe it's not gonna.
 [u2381 | 02:28:20.070-02:28:24.070 | DM] Now Kenzo would have advantage. Because you have a, your Cloak of the Manta Ray.
 [u2382 | 02:28:24.640-02:28:26.609 | Kenzo] And if it's a strength thing
-[u2383 | 02:28:28.000-02:28:28.890 | Kenzo] [[that's wrong.]]
+[u2383 | 02:28:28.000-02:28:28.890 | Kenzo] {{that's wrong.}}
 [u2384 | 02:28:32.980-02:28:33.790 | Seeker] I don't know.
 [u2385 | 02:28:34.500-02:28:41.750 | Riswynn] Mean Delwath mentioned shape water. I have control water, which is like a stronger version of that. Like I can make.
-[u2386 | 02:28:42.430-02:28:48.160 | Riswynn] [[What waves and stuff 300 foot area of.]]
+[u2386 | 02:28:42.430-02:28:48.160 | Riswynn] {{What waves and stuff 300 foot area of.}}
 [u2387 | 02:28:49.070-02:28:50.920 | Kenzo] And you create calm passage.
 [u2388 | 02:28:50.970-02:28:52.649 | Kenzo] like counterforces to.
 [u2389 | 02:28:54.140-02:28:57.470 | Riswynn] I'm asking like, how strong is
@@ -2489,7 +2489,7 @@
 [u2489 | 02:33:51.050-02:33:54.109 | DM] Teeny fish that Wellby talked to did say.
 [u2490 | 02:33:54.660-02:33:58.379 | DM] it's a bad creature that likes to eat teeny fish for food.
 [u2491 | 02:33:59.260-02:34:00.680 | Seeker] Oh, yeah. Yeah.
-[u2492 | 02:34:00.870-02:34:13.689 | Kenzo] Hey, Tim? When I do my my Commune with Nature, I can also sense like beings, you know, like in the range. Were there any other beings other than [[the 2 mayor of the]] the merfolk guards? Are there other merfolk nearby?
+[u2492 | 02:34:00.870-02:34:13.689 | Kenzo] Hey, Tim? When I do my my Commune with Nature, I can also sense like beings, you know, like in the range. Were there any other beings other than {{the 2 mayor of the}} the merfolk guards? Are there other merfolk nearby?
 [u2493 | 02:34:14.315-02:34:14.940 | DM] So.
 [u2494 | 02:34:15.100-02:34:15.580 | Kenzo] On the map.
 [u2495 | 02:34:16.264-02:34:18.999 | DM] Yes, so there's there's
@@ -2655,7 +2655,7 @@
 [u2655 | 02:44:13.920-02:44:15.960 | Riswynn] Seeker can Dimension Door.
 [u2656 | 02:44:17.250-02:44:19.600 | Seeker] Yeah, I'll wait. I'll wait for your
 [u2657 | 02:44:19.740-02:44:21.670 | Seeker] signal. to Dimension Door myself.
-[u2658 | 02:44:21.670-02:44:22.830 | DM] [[Our side.]] Oh, wait!
+[u2658 | 02:44:21.670-02:44:22.830 | DM] {{Our side.}} Oh, wait!
 [u2659 | 02:44:22.830-02:44:29.059 | Delwath] Are you coming with us Riswynn, trying to swim down with us as well? Are you staying up with Seeker.
 [u2660 | 02:44:31.980-02:44:33.710 | Riswynn] How much
 [u2661 | 02:44:34.150-02:44:36.900 | Riswynn] controlling water am I doing from.
@@ -2674,7 +2674,7 @@
 [u2674 | 02:45:22.690-02:45:27.069 | DM] towards the which entrance which side of the building is it drifting down.
 [u2675 | 02:45:27.070-02:45:28.790 | Seeker] This sort of like North
 [u2676 | 02:45:28.900-02:45:31.900 | Seeker] West. I was thinking of putting it here
-[u2677 | 02:45:32.530-02:45:33.250 | Seeker] [[5 min like.]]
+[u2677 | 02:45:32.530-02:45:33.250 | Seeker] {{5 min like.}}
 [u2678 | 02:45:33.250-02:45:33.710 | DM] The north.
 [u2679 | 02:45:34.235-02:45:34.760 | Seeker] Around.
 [u2680 | 02:45:34.760-02:45:36.439 | DM] The northwest corner.
@@ -2692,7 +2692,7 @@
 [u2692 | 02:46:05.930-02:46:06.700 | DM] Okay.
 [u2693 | 02:46:07.440-02:46:08.979 | DM] so top left corner crab.
 [u2694 | 02:46:08.980-02:46:09.960 | Kenzo] And.
-[u2695 | 02:46:10.340-02:46:12.149 | Seeker] And [[it's gonna fall out to kelp on.]]
+[u2695 | 02:46:10.340-02:46:12.149 | Seeker] And {{it's gonna fall out to kelp on.}}
 [u2696 | 02:46:13.140-02:46:13.470 | DM] Yeah.
 [u2697 | 02:46:13.630-02:46:15.859 | DM] with streaming out behind that.
 [u2698 | 02:46:16.010-02:46:16.820 | DM] Thank you.
@@ -2715,7 +2715,7 @@
 [u2715 | 02:47:43.010-02:47:47.039 | DM] You could part the water. So then the water fills in with the
 [u2716 | 02:47:47.590-02:47:49.119 | DM] cold ocean around you.
 [u2717 | 02:47:49.120-02:47:50.040 | Delwath] Yeah, yeah.
-[u2718 | 02:47:50.040-02:47:56.250 | DM] [[You can, only you can't redirect you.]] Just all the current in the cube has to be flowing in the same direction, right?
+[u2718 | 02:47:50.040-02:47:56.250 | DM] {{You can, only you can't redirect you.}} Just all the current in the cube has to be flowing in the same direction, right?
 [u2719 | 02:47:56.420-02:47:59.420 | DM] So you can't make it go this or something, but you could.
 [u2720 | 02:47:59.420-02:48:04.869 | Riswynn] I think here, where's the like? Little I can draw some, but.
 [u2721 | 02:48:04.870-02:48:11.289 | Delwath] The hot is coming from one direction, right? If you just push against the hot, presumably it'll work as well.
@@ -2734,7 +2734,7 @@
 [u2734 | 02:48:43.820-02:48:45.439 | DM] I I got what you're trying to do.
 [u2735 | 02:48:45.440-02:48:46.860 | Riswynn] That I'm pretty happy with that.
 [u2736 | 02:48:47.350-02:48:48.690 | DM] Powerful spell here.
-[u2737 | 02:48:50.300-02:49:07.360 | DM] So the current shifts. And this is this is fairly. All of this, so far, is fairly subtle, even to a certain extent the falling crab, which is, you know, [[3, 4, 350 feet]] from the closest patrol.
+[u2737 | 02:48:50.300-02:49:07.360 | DM] So the current shifts. And this is this is fairly. All of this, so far, is fairly subtle, even to a certain extent the falling crab, which is, you know, {{3, 4, 350 feet}} from the closest patrol.
 [u2738 | 02:49:11.132-02:49:21.999 | DM] the 3 of you who are beginning to swim down now stealthily. So Kenzo Wellby, and Delwath make stealth checks with advantage
 [u2739 | 02:49:27.290-02:49:28.210 | DM] all the.
 [u2740 | 02:49:28.210-02:49:29.120 | Delwath] 19.
@@ -2756,7 +2756,7 @@
 [u2756 | 02:50:33.260-02:50:43.249 | DM] these guards. If Kenzo Kenzo's sense isn't continuous, so you can't sense him. But somebody's definitely swimming around in the kelp below.
 [u2757 | 02:50:43.250-02:50:48.820 | Delwath] Do we want the crab to be even more obvious? Should I? Minor illusion? A roar, or something like that?
 [u2758 | 02:50:52.230-02:50:55.090 | Wellby] Or have it like whack the ground with the claws.
-[u2759 | 02:50:55.090-02:50:58.889 | DM] I mean the crab is perfectly capable of making noise [[if Seeker's so]].
+[u2759 | 02:50:55.090-02:50:58.889 | DM] I mean the crab is perfectly capable of making noise {{if Seeker's so}}.
 [u2760 | 02:50:58.890-02:51:00.299 | Delwath] Now that's.
 [u2761 | 02:51:00.300-02:51:00.750 | Seeker] Yeah.
 [u2762 | 02:51:00.951-02:51:02.160 | Delwath] I wasn't sure if it could.
@@ -2817,7 +2817,7 @@
 [u2817 | 02:54:11.040-02:54:11.710 | Delwath] Okay.
 [u2818 | 02:54:12.460-02:54:14.020 | DM] And it takes effort to like.
 [u2819 | 02:54:14.020-02:54:14.680 | Delwath] Right, right, right, right.
-[u2820 | 02:54:14.680-02:54:16.080 | DM] [[Part of this is.]]
+[u2820 | 02:54:14.680-02:54:16.080 | DM] {{Part of this is.}}
 [u2821 | 02:54:17.440-02:54:19.870 | Delwath] So it's it's functionally a roof.
 [u2822 | 02:54:20.985-02:54:21.400 | DM] Yes.
 [u2823 | 02:54:21.650-02:54:23.080 | Delwath] There's it's not like.
@@ -2896,7 +2896,7 @@
 [u2896 | 02:58:30.680-02:58:31.150 | DM] Exactly
 [u2897 | 02:58:33.470-02:58:46.813 | DM] You now hear sounds of as Wellby's peeking over the side. You can also see the kelp sort of moving violently to the northwest, and sounds of what seem like
 [u2898 | 02:58:47.960-02:58:48.980 | DM] crab.
-[u2899 | 02:58:49.940-02:58:51.120 | DM] and [[serves]]
+[u2899 | 02:58:49.940-02:58:51.120 | DM] and {{serves}}
 [u2900 | 02:58:51.410-02:58:53.720 | DM] clashing against spears.
 [u2901 | 02:58:53.720-02:58:57.600 | Delwath] We should go now, I think, when we have a distraction.
 [u2902 | 02:59:01.010-02:59:03.669 | Seeker] That's actually the whole point of diversion.
@@ -2944,7 +2944,7 @@
 [u2944 | 03:01:44.830-03:01:48.790 | Delwath] And is there a door on the other side?
 [u2945 | 03:01:50.810-03:01:51.450 | Delwath] But.
 [u2946 | 03:01:51.798-03:01:57.380 | DM] Yeah. So right? So inside the room there's door. There's no door on the back wall.
-[u2947 | 03:01:57.700-03:02:01.710 | DM] [[So the south wall is a door to the east, in the west.]]
+[u2947 | 03:01:57.700-03:02:01.710 | DM] {{So the south wall is a door to the east, in the west.}}
 [u2948 | 03:02:06.189-03:02:06.570 | Riswynn] Bummer.
 [u2949 | 03:02:09.630-03:02:11.060 | DM] So you enter this room.
 [u2950 | 03:02:13.070-03:02:13.450 | Delwath] Yeah.
@@ -2981,7 +2981,7 @@
 [u2981 | 03:04:17.310-03:04:19.110 | DM] No
 [u2982 | 03:04:19.970-03:04:21.820 | DM] no advantage here.
 [u2983 | 03:04:21.980-03:04:22.730 | Kenzo] 25.
-[u2984 | 03:04:23.680-03:04:24.450 | Delwath] [[Daven.]]
+[u2984 | 03:04:23.680-03:04:24.450 | Delwath] {{Daven.}}
 [u2985 | 03:04:26.010-03:04:26.680 | Kenzo] Yeah.
 [u2986 | 03:04:27.680-03:04:28.500 | DM] So
 [u2987 | 03:04:29.950-03:04:32.110 | DM] as you step into this room.
@@ -3103,7 +3103,7 @@
 [u3103 | 03:11:22.750-03:11:23.800 | Riswynn] Yeah. But then.
 [u3104 | 03:11:24.250-03:11:26.480 | Riswynn] going through the muck would make it.
 [u3105 | 03:11:27.910-03:11:30.580 | Riswynn] It would know that I was there, cause I'm
-[u3106 | 03:11:30.700-03:11:31.759 | Riswynn] [[but not.]]
+[u3106 | 03:11:30.700-03:11:31.759 | Riswynn] {{but not.}}
 [u3107 | 03:11:32.180-03:11:33.120 | Seeker] Okay, okay.
 [u3108 | 03:11:33.530-03:11:36.150 | Seeker] Riswynn, as always. You're probably right.
 [u3109 | 03:11:37.058-03:11:37.850 | Seeker] We should, we should
@@ -3115,7 +3115,7 @@
 [u3115 | 03:11:55.580-03:11:56.410 | Seeker] But but yeah.
 [u3116 | 03:11:56.818-03:12:00.090 | Riswynn] Notice them, because they'll move the muck so.
 [u3117 | 03:12:00.090-03:12:02.170 | Delwath] Not, does, I mean not necessarily. If.
-[u3118 | 03:12:02.170-03:12:03.979 | DM] [[And my own other ways to do.]]
+[u3118 | 03:12:02.170-03:12:03.979 | DM] {{And my own other ways to do.}}
 [u3119 | 03:12:03.980-03:12:05.650 | Delwath] I mean on how we go through.
 [u3120 | 03:12:06.460-03:12:07.240 | Delwath] Right?
 [u3121 | 03:12:07.880-03:12:12.530 | Delwath] The question is, what's the best option in terms of
@@ -3148,7 +3148,7 @@
 [u3148 | 03:14:03.030-03:14:04.910 | DM] this looks like a corner room.
 [u3149 | 03:14:07.390-03:14:08.839 | DM] it's a big room.
 [u3150 | 03:14:09.290-03:14:12.479 | DM] It looks like possibly a
-[u3151 | 03:14:16.100-03:14:18.570 | DM] meeting room, [[hard like]]
+[u3151 | 03:14:16.100-03:14:18.570 | DM] meeting room, {{hard like}}
 [u3152 | 03:14:19.362-03:14:23.169 | DM] it's all. None of it's very intact. But you can see that there's
 [u3153 | 03:14:23.860-03:14:26.540 | DM] maybe what would have been, not
 [u3154 | 03:14:26.800-03:14:29.354 | DM] tables, but it's almost like there's
@@ -3201,15 +3201,15 @@
 [u3201 | 03:17:50.690-03:17:54.720 | Delwath] new tactic. I'm still gonna cast Sickening Radiance. Guess what I know how to do now
 [u3202 | 03:17:55.840-03:17:58.209 | Delwath] I could make the 5 of us immune to it.
 [u3203 | 03:17:58.890-03:17:59.410 | Delwath] What else.
-[u3204 | 03:17:59.410-03:18:00.199 | Kenzo] [[I'm already even doing it.]]
+[u3204 | 03:17:59.410-03:18:00.199 | Kenzo] {{I'm already even doing it.}}
 [u3205 | 03:18:00.200-03:18:01.220 | Wellby] Dude.
 [u3206 | 03:18:01.220-03:18:04.589 | Delwath] So new plan, Sickening Radiance centered on the portal.
 [u3207 | 03:18:04.670-03:18:10.059 | Delwath] Get to the portal as quick as possible. If it wants to fight us, it's gotta go in the sickening radiance.
 [u3208 | 03:18:12.570-03:18:13.070 | Wellby] Sneaky.
 [u3209 | 03:18:13.070-03:18:14.170 | Kenzo] Checkmate.
-[u3210 | 03:18:16.070-03:18:16.750 | Seeker] [[Acting.]]
+[u3210 | 03:18:16.070-03:18:16.750 | Seeker] {{Acting.}}
 [u3211 | 03:18:16.890-03:18:17.510 | Seeker] yeah.
-[u3212 | 03:18:17.510-03:18:19.770 | Riswynn] Alright, [[if we're attending]], that's awesome.
+[u3212 | 03:18:17.510-03:18:19.770 | Riswynn] Alright, {{if we're attending}}, that's awesome.
 [u3213 | 03:18:20.070-03:18:27.989 | Delwath] That will drop the invisibility. So if anybody wants to make a move with invisibility first, you gotta do it before I do that.
 [u3214 | 03:18:28.440-03:18:30.370 | Wellby] Let's get in the courtyard.
 [u3215 | 03:18:30.710-03:18:33.950 | Delwath] I mean. My plan was to cast a spell from outside.
@@ -3238,9 +3238,9 @@
 [u3238 | 03:19:50.220-03:19:52.960 | DM] from the plane of water you could
 [u3239 | 03:19:53.230-03:19:57.589 | DM] rainbow Bridge, but Seeker's teleport spell only works on the same plane.
 [u3240 | 03:19:58.730-03:20:00.090 | Kenzo] But we could Rainbow Bridge.
-[u3241 | 03:20:00.440-03:20:05.052 | Delwath] Only that's that's the like. We failed and are about to die. [[What's Rainbow Bridge?]]
+[u3241 | 03:20:00.440-03:20:05.052 | Delwath] Only that's that's the like. We failed and are about to die. {{What's Rainbow Bridge?}}
 [u3242 | 03:20:05.360-03:20:08.190 | Kenzo] Why, why? Why can't we get the jade and then Rainbow Bridge.
-[u3243 | 03:20:08.190-03:20:15.184 | Delwath] [[Oh, we can't]], but the jade is presumably not just sitting in a box on the other side of the Plane of Water [[is a little jade]]. Here, please take me.
+[u3243 | 03:20:08.190-03:20:15.184 | Delwath] {{Oh, we can't}}, but the jade is presumably not just sitting in a box on the other side of the Plane of Water {{is a little jade}}. Here, please take me.
 [u3244 | 03:20:15.410-03:20:18.640 | Kenzo] I'm just saying like the whole like worried about the monster on the other side.
 [u3245 | 03:20:18.640-03:20:26.610 | Delwath] I'm not worried about the monster. No, no, we're not coming back through here. Once we get the jade, we're absolutely rainbow bridging. I'm worried about it coming through after us.
 [u3246 | 03:20:26.610-03:20:27.400 | DM] Chase you.

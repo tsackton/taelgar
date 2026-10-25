@@ -8,7 +8,7 @@
 ## Transcript
 
 %% u0001-u0006 %%
-DM: So, for the moment, all is quiet in the late afternoon sun at the Monastery of Bhishma. About three hours before sunset. Wellby and Delwath are sitting in the middle of the main dining hall, waiting for Seeker and Kenzo to return from their journey deeper into the mysteries of the Monastery of Bhishma. About an hour ago, this was the lair of a manticore family. The bodies of the four dead manticores—two adults and two young—lie where you killed them, the foul smell of their blood beginning to drift through the large room in the still air. Outside, the distant banging of the sole survivor of the battle, left locked in the bathhouse, has faded. [[Because dead companions lying with the]]. [[New heat]].
+DM: So, for the moment, all is quiet in the late afternoon sun at the Monastery of Bhishma. About three hours before sunset. Wellby and Delwath are sitting in the middle of the main dining hall, waiting for Seeker and Kenzo to return from their journey deeper into the mysteries of the Monastery of Bhishma. About an hour ago, this was the lair of a manticore family. The bodies of the four dead manticores—two adults and two young—lie where you killed them, the foul smell of their blood beginning to drift through the large room in the still air. Outside, the distant banging of the sole survivor of the battle, left locked in the bathhouse, has faded. {{Because dead companions lying with the}}. {{New heat}}.
 
 %% u0007-u0010 %%
 DM: You've come to the monastery seeking answers, although to which questions is not always entirely clear. Here the Mystai have been collecting stories and histories of Dunmar, and perhaps in those stories somewhere are the answers to who or what Grash is, why the orcs are fighting a civil war, what happened thirty years ago to the Mystai of Bhishma, why everybody is hunting for lost artifacts, what, if anything, Agata Dust Mother is doing, what happened to the protections that Dunmar has relied on for generations, and why Chardonian agents are everywhere you go.
@@ -161,7 +161,7 @@ Seeker: Just don't accidentally throw the flaming pistachio.
 Delwath: Those are in a bag.
 
 %% u0103 %%
-Seeker: [[Or LDC well we]] flaming hot.
+Seeker: {{Or LDC well we}} flaming hot.
 
 %% u0104 %%
 DM: You got it.
@@ -227,7 +227,7 @@ Kenzo: What is reality but a relative set of—I think that's an important quest
 Seeker: Oh, I remember you asking a question. You were talking, I think. Praying.
 
 %% u0161-u0163 %%
-Kenzo: I asked where she was. [[Last word before beach about was]]. And responded that she was with me.
+Kenzo: I asked where she was. {{Last word before beach about was}}. And responded that she was with me.
 
 %% u0164 %%
 DM: Where she was.
@@ -275,7 +275,7 @@ Kenzo: Oh, she starts as human, see.
 DM: Well, I mean—
 
 %% u0181-u0182 %%
-Delwath: Born to Laka and Bhishma, right? So starts as [[a bit big]]—
+Delwath: Born to Laka and Bhishma, right? So starts as {{a bit big}}—
 
 %% u0183 %%
 DM: Right, right.
@@ -302,7 +302,7 @@ DM: You're not a—reddish, reddish.
 Kenzo: Reddish, okay. Reddish ochre stone.
 
 %% u0197-u0200 %%
-Seeker: A [[shadow stone]] or a rough one? Reddish, rough-focused stone? I mean, that describes the sandstone that the mesa where the temple of Shakun is carved—
+Seeker: A {{shadow stone}} or a rough one? Reddish, rough-focused stone? I mean, that describes the sandstone that the mesa where the temple of Shakun is carved—
 
 %% u0201 %%
 Kenzo: Is made of.
