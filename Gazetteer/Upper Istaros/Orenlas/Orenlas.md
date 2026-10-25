@@ -36,7 +36,7 @@ Walking through the forest, however, creates a sense of timelessness. The days t
 While many [[Elves]] live in small settlements in Orenlas, there is one major city, called [[Erelion]], that is claimed to be the oldest continually occupied settlement on Taelgar.
 
 %%^Metadata:names:v1%%
-- {name: Orenlas, language: unknown, pronunciation: o-REN-las, status: documented}
+- {name: Orenlas, language: Elvish, pronunciation: o-REN-las, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
-tags: [background, status/check/lint]
+tags: [background, status/check/mike]
 name: Elven Cycle of Generations
 aliases: [ka]
 dm_owner: joint
@@ -11,123 +11,102 @@ POV: modern
 ---
 # Elven Cycle of Generations
 
+%% @check/mike: review for clarity and ease of understanding. anything obvious missing? %%
+
 The elven cycle of generations, known as the *ka*, is the result of elves’ very long lifespans, but limited time when they can bear children. Elves are only fertile for a handful of decades, often about thirty years, when the roots of Aldanor tie them to the [[Material Plane]]. But, they can live to be hundreds, or even thousands, of years old. This means that each generation is distinct and non-overlapping: the elves count these, numbering from [[Riving|when the planes were separated]] and Taelgar was created.
 ## *Mela and Leya*
 
-Each new *ka* begins with the *mela*, when the Living Tree, [[Aldanor]], puts roots into the material world. All elves feel the pull of this connection to Taelgar, as it grows over the first few years of the *mela*. An elf experiencing their first *mela* feels a particularly strong pull towards Aldanor, and those who accept this connection are able to bear children, until the *mela* ends. Elven children are born only during the *mela*, and as it ends they enter the Dreaming, the 50 year childhood of dreams and magic during which elves sleep for the only time in their lives.
+Each new *ka* begins with the *mela*, when the Living Tree, [[Aldanor]], puts roots into the material world. All elves feel the pull of this connection to Taelgar, as it grows over the first few years of the *mela*. An elf experiencing their first *mela* feels a particularly strong pull towards Aldanor, and those who accept this connection are able to bear children, until the *mela* ends. Elven children are born only during the *mela*; during their childhood, they enter the Dreaming, the 50-year childhood of dreams and magic during which elves sleep for the only time in their lives.
 
 The Dreaming ends with the Rite of Awakening, which marks the beginning of the *leya*, the time when [[Elmerca]], the Wild Star, is dominant, and elves feel a pull to disperse, to journey. Children are considered adults when they experience their first Awakening, and those new adults are encouraged to travel, until the *mela* and the Rite of Return pull them back, and the cycle repeats.
 ## Aging and Leaving
 
-The pull of the *mela* gets fainter and fainter as elves age. Elves in their first *mela* feel the pull most strongly, and many become parents. In their second, and third mela, many elves take on roles as nurturers of children and elven society, or caretakers of the world. By their fourth *mela*, some elves begin to stop feeling the roots of Aldanor, the pull of Taelgar, and many begin to forget the past, or even pass on entirely. Elves of this age and older are considered elders. By their fifth *mela*, many elves begin to depart, and only those who have a strong reason to stay connected to the world remain for their 6th *mela* and beyond to become ancients.
+The pull of the *mela* gets fainter and fainter as elves age. Adult elves in their first *mela* feel the pull most strongly, and many become parents. In their second, and third *mela*, many elves take on roles as nurturers of children and elven society, or caretakers of the world. By their fourth *mela*, some elves begin to stop feeling the roots of Aldanor, the pull of Taelgar, and many begin to forget the past, or even pass on entirely. Elves of this age and older are considered elders. By their fifth *mela*, many elves begin to depart, and only those who have a strong reason to stay connected to the world remain for their 6th *mela* and beyond to become ancients.
 
-%% Note on older elves
+## Recent Generations
 
-Very few elves stay on Taelgar for more than 6 ka (960 years) - that is, by the end of their 5th ka, most elves have departed. This means that in the current (~1700s) time, elves of the 31st ka and older are quite rare and the 32nd ka is relatively rare.
+Each *ka* begins with the *mela*, during which a new generation is born. The beginning of the *leya* marks that generation’s Awakening into adulthood.
 
-Elves in their fourth and later ka are usually in the "age of forgetting" and often don't remember their earliest years very well. That means that the core memories of most elves are approximately the 400 years. 
+| Generation | *Mela* begins | *Leya* begins | Notes                                                                                         |
+| ---------- | ------------- | ------------- | --------------------------------------------------------------------------------------------- |
+| 34th       | DR 1147       | DR 1227       | The elves who came of age in the aftermath of the [[Fall of Drankor]].                        |
+| 35th       | DR 1307       | DR 1387       |                                                                                               |
+| 36th       | DR 1467       | DR 1532       | An early Awakening, marked by dreams of war. These elves came of age during the [[Great War]] |
+| 37th       | DR 1627       | DR 1712       | A delayed Awakening, following a long Dreaming of healing and rest                            |
+| 38th       | DR 1787       | DR 1867       | The anticipated next generation                                                               |
 
-Quick table of memories:
+## Elves in the 1700s
 
-* 37th ka, remember ~80 years ago
-* 36th ka, remember ~240 years (back to before the Great War)
-* 35th ka, remember ~400 years, starting to be considered "an elder"
-* 34th ka, remember ~560 years, age of forgetting beginning, the first couple hundred years hazy
-* 33rd ka, remember ~720 years, but quite likely to be deep in the age of forgetting and many older memories might be hazy
-* 32nd ka or older is quite rare
+These approximate ages use DR 1750 as a reference point. Individual ages vary within each generation. Years since the first *leya* give a rough measure of adult life.
 
-%%
-## The Years of the *ka*
-
-Elves do not usually concern themselves with the passing of mere years, focusing instead on the cycle of *ka*, *mela*, and *leya*. Still, for those who must translate the elves into the history of other species, the dates of each *ka* in the Dwarven Count of Years (CY) and in Drankorian Reckoning (DR) are provided. 
-
-| ka  | period | CY   | DR       | nurturer ka | caretaker ka | elders/unifiers | ancients |
-| --- | ------ | ---- | -------- | ---------- | ------------ | --------------- | -------- |
-| 1   | mela   | 0    | -4133    | 0          | 0            | 0               | 0        |
-| 1   | leya   | 80   | -4053    | 0          | 0            | 0               | 0        |
-| 2   | mela   | 160  | -3973    | 1          | 0            | 0               | 0        |
-| 2   | leya   | 240  | -3893    | 0          | 1            | 0               | 0        |
-| 3   | mela   | 320  | -3813    | 2          | 1            | 0               | 0        |
-| 3   | leya   | 400  | -3733    | 1          | 2            | 0               | 0        |
-| 4   | mela   | 480  | -3653    | 3          | 2            | 1               | 0        |
-| 4   | leya   | 560  | -3573    | 2          | 3            | 1               | 0        |
-| 5   | mela   | 640  | -3493    | 4          | 3            | 2               | 0        |
-| 5   | leya   | 720  | -3413    | 3          | 4            | 2               | 0        |
-| 6   | mela   | 800  | -3333    | 5          | 4            | 3               | 0        |
-| 6   | leya   | 880  | -3253    | 4          | 5            | 3               | 0        |
-| 7   | mela   | 960  | -3173    | 6          | 5            | 4               | 1        |
-| 7   | leya   | 1040 | -3093    | 5          | 6            | 4               | 1        |
-| 8   | mela   | 1120 | -3013    | 7          | 6            | 5               | 2        |
-| 8   | leya   | 1200 | -2933    | 6          | 7            | 5               | 2        |
-| 9   | mela   | 1280 | -2853    | 8          | 7            | 6               | 3        |
-| 9   | leya   | 1360 | -2773    | 7          | 8            | 6               | 3        |
-| 10  | mela   | 1440 | -2693    | 9          | 8            | 7               | 4        |
-| 10  | leya   | 1520 | -2613    | 8          | 9            | 7               | 4        |
-| 11  | mela   | 1600 | -2533    | 10         | 9            | 8               | 5        |
-| 11  | leya   | 1680 | -2453    | 9          | 10           | 8               | 5        |
-| 12  | mela   | 1760 | -2373    | 11         | 10           | 9               | 6        |
-| 12  | leya   | 1840 | -2293    | 10         | 11           | 9               | 6        |
-| 13  | mela   | 1920 | -2213    | 12         | 11           | 10              | 7        |
-| 13  | leya   | 2000 | -2133    | 11         | 12           | 10              | 7        |
-| 14  | mela   | 2080 | -2053    | 13         | 12           | 11              | 8        |
-| 14  | leya   | 2160 | -1973    | 12         | 13           | 11              | 8        |
-| 15  | mela   | 2240 | -1893    | 14         | 13           | 12              | 9        |
-| 15  | leya   | 2320 | -1813    | 13         | 14           | 12              | 9        |
-| 16  | mela   | 2400 | -1733    | 15         | 14           | 13              | 10       |
-| 16  | leya   | 2480 | -1653    | 14         | 15           | 13              | 10       |
-| 17  | mela   | 2560 | -1573    | 16         | 15           | 14              | 11       |
-| 17  | leya   | 2640 | -1493    | 15         | 16           | 14              | 11       |
-| 18  | mela   | 2720 | -1413    | 17         | 16           | 15              | 12       |
-| 18  | leya   | 2800 | -1333    | 16         | 17           | 15              | 12       |
-| 19  | mela   | 2880 | -1253    | 18         | 17           | 16              | 13       |
-| 19  | leya   | 2960 | -1173    | 17         | 18           | 16              | 13       |
-| 20  | mela   | 3040 | -1093    | 19         | 18           | 17              | 14       |
-| 20  | leya   | 3120 | -1013    | 18         | 19           | 17              | 14       |
-| 21  | mela   | 3200 | -933     | 20         | 19           | 18              | 15       |
-| 21  | leya   | 3280 | -853     | 19         | 20           | 18              | 15       |
-| 22  | mela   | 3360 | -773     | 21         | 20           | 19              | 16       |
-| 22  | leya   | 3440 | -693     | 20         | 21           | 19              | 16       |
-| 23  | mela   | 3520 | -613     | 22         | 21           | 20              | 17       |
-| 23  | leya   | 3600 | -533     | 21         | 22           | 20              | 17       |
-| 24  | mela   | 3680 | -453     | 23         | 22           | 21              | 18       |
-| 24  | leya   | 3760 | -373     | 22         | 23           | 21              | 18       |
-| 25  | mela   | 3840 | -293     | 24         | 23           | 22              | 19       |
-| 25  | leya   | 3920 | -213     | 23         | 24           | 22              | 19       |
-| 26  | mela   | 4000 | -133     | 25         | 24           | 23              | 20       |
-| 26  | leya   | 4080 | -53      | 24         | 25           | 23              | 20       |
-| 27  | mela   | 4160 | 27       | 26         | 25           | 24              | 21       |
-| 27  | leya   | 4240 | 107      | 25         | 26           | 24              | 21       |
-| 28  | mela   | 4320 | 187      | 27         | 26           | 25              | 22       |
-| 28  | leya   | 4400 | 267      | 26         | 27           | 25              | 22       |
-| 29  | mela   | 4480 | 347      | 28         | 27           | 26              | 23       |
-| 29  | leya   | 4560 | 427      | 27         | 28           | 26              | 23       |
-| 30  | mela   | 4640 | 507      | 29         | 28           | 27              | 24       |
-| 30  | leya   | 4720 | 587      | 28         | 29           | 27              | 24       |
-| 31  | mela   | 4800 | 667      | 30         | 29           | 28              | 25       |
-| 31  | leya   | 4880 | 747      | 29         | 30           | 28              | 25       |
-| 32  | mela   | 4960 | 827      | 31         | 30           | 29              | 26       |
-| 32  | leya   | 5040 | 907      | 30         | 31           | 29              | 26       |
-| 33  | mela   | 5120 | 987      | 32         | 31           | 30              | 27       |
-| 33  | leya   | 5200 | 1067     | 31         | 32           | 30              | 27       |
-| 34  | mela   | 5280 | 1147     | 33         | 32           | 31              | 28       |
-| 34  | leya   | 5360 | 1227     | 32         | 33           | 31              | 28       |
-| 35  | mela   | 5440 | 1307     | 34         | 33           | 32              | 29       |
-| 35  | leya   | 5520 | 1387     | 33         | 34           | 32              | 29       |
-| 36  | mela   | 5600 | 1467     | 35         | 34           | 33              | 30       |
-| 36  | leya   | 5680 | 1532 (1) | 34         | 35           | 33              | 30       |
-| 37  | mela   | 5760 | 1627     | 36         | 35           | 34              | 31       |
-| 37  | leya   | 5840 | 1712 (2) | 35         | 36           | 34              | 31       |
-| 38  | mela   | 5920 | 1787     | 37         | 36           | 35              | 32       |
-| 38  | leya   | 6000 | 1867     | 36         | 37           | 35              | 32       |
-| 39  | mela   | 6080 | 1947     | 38         | 37           | 36              | 33       |
-| 39  | leya   | 6160 | 2027     | 37         | 38           | 36              | 33       |
-| 40  | mela   | 6240 | 2107     | 39         | 38           | 37              | 34       |
-| 40  | leya   | 6320 | 2187     | 38         | 39           | 37              | 34       |
-
-(1) an early leya, marked by dreams of war, and an abrupt awakening
-(2) a slightly delayed leya, marked by a long dreaming of healing rest
+| Generation | Approximate age | Years since first *leya* | Perspective |
+| --- | --- | --- | --- |
+| 37th | 80–120 | About 40 | Young adults in their first *leya*, exploring and finding their place in the world |
+| 36th | 240–280 | About 220 | The generation whose Awakening was marked by the coming of the Great War |
+| 35th | 400–440 | About 360 | Elves who knew the world before the Great War and saw their children fight in it |
+| 34th | 560–600 | About 520 | Elders whose earliest memories may be growing hazy |
+| 33rd | 720–760 | About 680 | Older elves often turning inward, with much of their early life distant or forgotten |
+| 32nd | 880–920 | About 840 | An uncommon surviving generation |
+| 31st and earlier | Around 1,000 or older | About 1,000 or more | Rare survivors with a strong reason to remain |
 
 %%^Campaign:none%%
+## DM Guidance on Older Elves
+
+Very few elves stay on Taelgar for more than 6 ka (960 years) - that is, by the end of their 5th ka as adults, most elves have departed. This means that in the current (~1700s) time, elves of the 31st ka and older are quite rare and the 32nd ka is relatively rare.
+
+Elves in their fourth and later ka are usually in the "age of forgetting" and often don't remember their earliest years very well. That means that the core memories of most elves are approximately the 400 years.
+
+### Full Generational Calendar
+
+Each row covers one *ka*, with the start of both phases and the generations filling each role during that cycle. Dates are given in Drankorian Reckoning (DR) and the Dwarven Count of Years (CY). Role columns identify birth generations; a dash means no earlier generation exists to fill that role.
+
+The two generations preceding the youngest share responsibility for tending their communities and engaging with the wider world. How they divide these responsibilities varies by community and over the cycle.
+
+| *Ka* | *Mela* begins | *Leya* begins | Nurturers and caretakers | Elders/unifiers | Ancients |
+| --- | --- | --- | --- | --- | --- |
+| 1st | DR -4133<br>CY 0 | DR -4053<br>CY 80 | — | — | — |
+| 2nd | DR -3973<br>CY 160 | DR -3893<br>CY 240 | 1st | — | — |
+| 3rd | DR -3813<br>CY 320 | DR -3733<br>CY 400 | 1st–2nd | — | — |
+| 4th | DR -3653<br>CY 480 | DR -3573<br>CY 560 | 2nd–3rd | 1st | — |
+| 5th | DR -3493<br>CY 640 | DR -3413<br>CY 720 | 3rd–4th | 2nd | — |
+| 6th | DR -3333<br>CY 800 | DR -3253<br>CY 880 | 4th–5th | 3rd | — |
+| 7th | DR -3173<br>CY 960 | DR -3093<br>CY 1040 | 5th–6th | 4th | 1st |
+| 8th | DR -3013<br>CY 1120 | DR -2933<br>CY 1200 | 6th–7th | 5th | 2nd |
+| 9th | DR -2853<br>CY 1280 | DR -2773<br>CY 1360 | 7th–8th | 6th | 3rd |
+| 10th | DR -2693<br>CY 1440 | DR -2613<br>CY 1520 | 8th–9th | 7th | 4th |
+| 11th | DR -2533<br>CY 1600 | DR -2453<br>CY 1680 | 9th–10th | 8th | 5th |
+| 12th | DR -2373<br>CY 1760 | DR -2293<br>CY 1840 | 10th–11th | 9th | 6th |
+| 13th | DR -2213<br>CY 1920 | DR -2133<br>CY 2000 | 11th–12th | 10th | 7th |
+| 14th | DR -2053<br>CY 2080 | DR -1973<br>CY 2160 | 12th–13th | 11th | 8th |
+| 15th | DR -1893<br>CY 2240 | DR -1813<br>CY 2320 | 13th–14th | 12th | 9th |
+| 16th | DR -1733<br>CY 2400 | DR -1653<br>CY 2480 | 14th–15th | 13th | 10th |
+| 17th | DR -1573<br>CY 2560 | DR -1493<br>CY 2640 | 15th–16th | 14th | 11th |
+| 18th | DR -1413<br>CY 2720 | DR -1333<br>CY 2800 | 16th–17th | 15th | 12th |
+| 19th | DR -1253<br>CY 2880 | DR -1173<br>CY 2960 | 17th–18th | 16th | 13th |
+| 20th | DR -1093<br>CY 3040 | DR -1013<br>CY 3120 | 18th–19th | 17th | 14th |
+| 21st | DR -933<br>CY 3200 | DR -853<br>CY 3280 | 19th–20th | 18th | 15th |
+| 22nd | DR -773<br>CY 3360 | DR -693<br>CY 3440 | 20th–21st | 19th | 16th |
+| 23rd | DR -613<br>CY 3520 | DR -533<br>CY 3600 | 21st–22nd | 20th | 17th |
+| 24th | DR -453<br>CY 3680 | DR -373<br>CY 3760 | 22nd–23rd | 21st | 18th |
+| 25th | DR -293<br>CY 3840 | DR -213<br>CY 3920 | 23rd–24th | 22nd | 19th |
+| 26th | DR -133<br>CY 4000 | DR -53<br>CY 4080 | 24th–25th | 23rd | 20th |
+| 27th | DR 27<br>CY 4160 | DR 107<br>CY 4240 | 25th–26th | 24th | 21st |
+| 28th | DR 187<br>CY 4320 | DR 267<br>CY 4400 | 26th–27th | 25th | 22nd |
+| 29th | DR 347<br>CY 4480 | DR 427<br>CY 4560 | 27th–28th | 26th | 23rd |
+| 30th | DR 507<br>CY 4640 | DR 587<br>CY 4720 | 28th–29th | 27th | 24th |
+| 31st | DR 667<br>CY 4800 | DR 747<br>CY 4880 | 29th–30th | 28th | 25th |
+| 32nd | DR 827<br>CY 4960 | DR 907<br>CY 5040 | 30th–31st | 29th | 26th |
+| 33rd | DR 987<br>CY 5120 | DR 1067<br>CY 5200 | 31st–32nd | 30th | 27th |
+| 34th | DR 1147<br>CY 5280 | DR 1227<br>CY 5360 | 32nd–33rd | 31st | 28th |
+| 35th | DR 1307<br>CY 5440 | DR 1387<br>CY 5520 | 33rd–34th | 32nd | 29th |
+| 36th | DR 1467<br>CY 5600 | DR 1532¹<br>CY 5665 | 34th–35th | 33rd | 30th |
+| 37th | DR 1627<br>CY 5760 | DR 1712²<br>CY 5845 | 35th–36th | 34th | 31st |
+| 38th | DR 1787<br>CY 5920 | DR 1867<br>CY 6000 | 36th–37th | 35th | 32nd |
+| 39th | DR 1947<br>CY 6080 | DR 2027<br>CY 6160 | 37th–38th | 36th | 33rd |
+| 40th | DR 2107<br>CY 6240 | DR 2187<br>CY 6320 | 38th–39th | 37th | 34th |
+
+¹ An early *leya*, marked by dreams of war and an abrupt Awakening.  
+² A slightly delayed *leya*, marked by a long Dreaming of healing rest.
 
 Notes, discussion, and relevant brainstorming:
 - [[2023-10-30 - Elves]]; [[2023-11-03 - Elves]]; [[2023-11-05 - Elves]]; [[2024-02-01 - Souls]]; [[2024-11-19 - Elves]]
@@ -138,25 +117,4 @@ Notes, discussion, and relevant brainstorming:
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern reference to the recurring elven lifecycle, with a historical and prospective ka table; the hidden cohort-memory examples use an approximate DR 1700s frame.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added a broadly modern POV and persistent temporal notes.
-- Corrected objective typos, the repeated “the,” possessive and subject–verb grammar, and the “nurturer” table heading; preserved lifecycle dates and all qualifications.
-
-### Validated judgments
-- This background article explains a generational mechanism rather than naming a separate in-world work; no name block is applicable.
-- Reviewed the local evidence without changing the human dm_notes attestation; no local-only contents were promoted.
-
-### Open findings
-
-- [ ] **Warning — correctness.cross_note_conflict:** The opening and “Mela and Leya” describe approximately thirty fertile years, followed by a fifty-year Dreaming and a communal Rite of Awakening. [[Elves#The Elven Cycle of Generations]] instead describes fertility around ages 150–200 and individual adulthood around fifty. [[Playing an Elf]] corroborates the thirty-year fertile period. These competing accounts require a human choice; preserve the present cycle model until that choice is made. If retaining it, a copy-ready core replacement for the Elves lifecycle section is: “Elves can bear children during the roughly thirty fertile years associated with their first *mela*, when Aldanor’s roots tie them to the Material Plane. At the end of the *mela*, the children enter the fifty-year Dreaming, which ends with the Rite of Awakening and the beginning of their first *leya*.” Review the individual ages and body-parent/soul-parent details separately; this timing choice does not settle them.
-
-- [ ] **Suggestion — editorial.public_material_candidate:** The shared comment “Note on older elves” contains a developed memory-horizon detail not stated in “Aging and Leaving”: “the core memories of most elves are approximately the 400 years,” followed by a cohort table. Consider adopting this bounded clarification: “During the age of forgetting, many elves retain their clearest memories of roughly the previous four hundred years, while earlier memories become hazy.” This makes the existing loss-of-memory account useful without publishing the comment’s date-sensitive cohort estimates. If adopted, shorten the comment’s repeated departure/rarity claims and retain the cohort table separately as approximate DM reference; the comment itself does not establish that the new sentence is already canon.
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 81 - DM Notes]]
 %%^End%%

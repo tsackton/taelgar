@@ -15,11 +15,12 @@ POV: modern
 >[!info]+ Information  
 > An [[Embodied Gods|embodied god]]
 
-Aldanor, the Living Tree, is one of the two deities of the [[Elves]], alongside [[Elmerca]], the Wild Star. In elven lore the pair are called the Firstborn, [[Embodied Gods]] through whom the [[Divine Presence]] gave rise to elves. Aldanor embodies life, growth, and endurance, the body and breath of the people, and creates the pull of the *mela* that anchors elves to the material world, underlying the elven [[Elven Cycle of Generations|cycle of generations]].
+Aldanor, the Living Tree, is one of the two deities of the [[Elves]], alongside [[Elmerca]], the Wild Star. In elven lore the pair are called the Firstborn, [[Embodied Gods]] through whom the [[Divine Presence]] gave rise to elves. Aldanor embodies life, growth, and endurance, the body and breath of the people, and creates the pull of the *mela* that anchors elves to the material world. In the elven conception of the gods, it is Aldanor's roots that connect elves to the [[Material Plane]], and it is this rooted presence that enables and supports elven child-bearing and the cycle of the [[Elven Cycle of Generations|ka]]. 
+
+Many elven forests support massive trees that are reminiscent of and connected to the power of Aldanor. 
 
 %%^Campaign:none%%
-
-There is very little that has been definitively established, other than a "tree vibe" and the idea that Aldanor is the elven connection to Taelgar in a way, and perhaps the source of the mela and the fertility of elves. (see [[Elven Cycle of Generations]])
+There is very little that has been definitively established, other than a "tree vibe" and the idea that Aldanor is the elven connection to Taelgar in a way, and the source of the mela and the fertility of elves. (see [[Elven Cycle of Generations]])
 
 The large trees in the elven forest are reminiscent of Aldanor in a way. If gendered, probably he. 
 
@@ -39,7 +40,7 @@ Old notes, early creation - might not fit current vibes:
 %%^End%%
 
 %%^Metadata:names:v1%%
-- {"name": "Aldanor", "language": "Elvish", "pronunciation": "AHL-dah-nohr", "notes": "Proposed from the Tolkien Elvish analogue in [[Languages]] for the elven cultural context: open ah vowels, a clear oh vowel, sounded l/d/n/r, and tentative first-syllable stress. The name language and exact in-world phonology are not established.", "status": "documented"}
+- {"name": "Aldanor", "language": "Elvish", "pronunciation": "AHL-dah-nohr", "status": "documented"}
 - {"name": "Living Tree", "role": "epithet", "language": "Common", "status": "documented"}
 %%^End%%
 

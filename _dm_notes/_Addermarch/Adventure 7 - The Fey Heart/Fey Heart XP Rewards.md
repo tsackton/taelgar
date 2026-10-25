@@ -19,12 +19,12 @@ total: 800 XP
 ## Session 22
 
 1 major: cross the river
-1 major: find the guide
+1 major: secure Gwydren's help
 1 minor: get past the beast
 
 total: 1150 XP
 
-## Minor milestones — 200 XP each
+## Minor milestones — 150 XP each
 
 ### Required
 
@@ -36,15 +36,15 @@ total: 1150 XP
 
 - [ ] **Learn more precise details about where to search for Gwydren.** Narrow the search to the biggest, oldest trees and learn that the trees can lead the party to him. See [[Exploration Success - Guide Clue]].
 - [x] **Get Past the Beast.** Find a way into the badgers tunnels
-- [ ] **Defeat Umbraeth's Hunters in the tunnels.** Kill the hunters, rescue the treasure. 
-- [ ] **Rescue the Leprechaun's house.** Defeat the trees and save the house. 
+- [ ] **Resolve the lost-hunters encounter in the tunnels.** Deal with the band and recover its treasure. See [[Fey Heart Scene - Race to Tree 3]].
+- [ ] **Save Rumplewick’s household.** Defeat the trees attacking the refuge and save the house. This reward does not require securing Rumplewick’s blessing. See [[Fey Heart Scene - Race to Tree 2]].
 
 ## Major milestones — 500 XP each
 
 ### Required
 
 - [x] **Get the party across the river.** Complete [[Fey Heart Scene - The River Crossing|the crossing]] by any workable method, reaching the part of the forest where Gwydren can be found.
-- [x] **Convince Gwydren to help.** Secure his cooperation as the party’s guide. Finding him is part of reaching this milestone, not a separate reward. The interaction is still to be developed; see [[Finding the Guide]] and [[Fey Heart Scene - Getting Gwydren to Help]]
+- [x] **Convince Gwydren to help.** Secure his cooperation as the party’s guide. Finding him is part of reaching this milestone, not a separate reward. See [[Finding the Guide]] and [[Fey Heart Scene - Getting Gwydren to Help]]
 
 ### Optional
 
@@ -61,18 +61,14 @@ Award each milestone once, whichever scene supplies it. The [[Fey Heart Scene - 
 
 Sweetwillow’s story and learning what Gwydren cares about form one major milestone. Do not award a separate minor for the same discovery. Opportunities after the river and before meeting Gwydren can supply missed milestones; they do not add new rewards to this list. Those second opportunities remain to be designed.
 
-Combat earns no separate XP. Defeating Umbraeth’s hunters or the optional displacer beasts is not a milestone. Reward the information or quest progress obtained, whether the party uses combat, conversation, stealth, or another approach.
+Combat earns no separate XP. Defeating pursuing hunters during exploration or the optional displacer beasts is not a milestone. Resolving the specific lost-hunters encounter in the tunnels and recovering its treasure earns the listed minor milestone. Reward the information or quest progress obtained, whether the party uses combat, conversation, stealth, or another approach.
 
 ## Level 6 timing
 
-Each PC currently needs **2,700 XP** to reach level 6. The required route supplies four minor and two major milestones before the tree. Optional progress adds Sweetwillow’s story (one major) and up to three minors.
+The party reaches level 6 after returning the heart, with no level-up before the final encounter.
 
-| Progress | XP gained per PC | Level 6? |
-| --- | ---: | --- |
-| Required route before the tree: 4 minor + 2 major | 1,800 | No |
-| Required route plus returning the heart | 2,800 | Yes |
-| All 7 minors, without Sweetwillow: 7 minor + 2 major | 2,400 | No |
-| Required route + Sweetwillow + 2 optional minors: 6 minor + 3 major | 2,700 | Yes |
-| All milestones before the tree: 7 minor + 3 major | 2,900 | Yes |
+At the start of the adventure, each PC needed **2,700 XP** to reach level 6. Sessions 21 and 22 awarded **800 + 1,150 = 1,950 XP per PC**, leaving **750 XP** to go.
 
-Learning Sweetwillow’s story is necessary to reach level 6 before the final encounter. With that story, the party also needs two of the three optional minors. Otherwise, returning the heart puts even the required-only route over the threshold.
+The upcoming milestones are resolving the lost-hunters encounter, clearing the boar and stirges from the path, and saving Rumplewick’s household: **150 XP each**, or **450 XP** for all three. That would bring each PC to **2,400 XP earned**, still **300 XP short**. Even all seven minor milestones plus the three major milestones would total only **2,550 XP** before returning the heart.
+
+Returning the heart awards **1,000 XP per PC**, enough to reach level 6 regardless of which remaining minor milestones the party completes.

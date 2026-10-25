@@ -13,7 +13,7 @@ A small, misshapen sapling grows from the old root bed, about **60 feet from the
 Use initiative to track turns and end-of-turn saves.
 
 - **Entering the clearing:** Each PC who can hear the song makes a **DC 15 Wisdom saving throw**.
-- **Failure:** On each of their turns, the affected PC must spend their action making **one weapon attack or casting one damaging cantrip** against a randomly selected other PC they can legally target. Choose the attack or cantrip before rolling the target. They retain control of their movement, bonus actions, and reactions.
+- **Failure:** On each of their turns, the affected PC must spend their action making **one weapon attack or casting one damaging cantrip** against a randomly selected other PC they can legally target. Choose the attack or cantrip before rolling the target. If needed they must move into range, and they must use the most damaging option possible.
 - **End of each affected turn:** Repeat the **DC 15 Wisdom save**, ending the effect on a success.
 - **Successful initial or repeat save:** The PC is free of the song for the remainder of this encounter.
 

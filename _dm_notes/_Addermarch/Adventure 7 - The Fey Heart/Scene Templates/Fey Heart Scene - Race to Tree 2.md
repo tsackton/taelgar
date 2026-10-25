@@ -1,6 +1,6 @@
 # Tree Attack
 
-Required forest combat, after [[Fey Heart Scene - Race to Tree 1|the sleeping beast]] and the opportunity to investigate [[Fey Heart Scene - Race to Tree 3|the hunters]]. This is the second required journey obstacle.
+Required forest combat, after [[Fey Heart Scene - Race to Tree 1|the sleeping beast]] and the opportunity to investigate [[Fey Heart Scene - Race to Tree 3|the hunters]]. This obstacle blocks the onward path to the Singing Tree.
 
 ## Setup
 
@@ -30,7 +30,7 @@ The trees concentrate on destroying the refuge unless the party intervenes. The 
 
 ## Exits and XP
 
-Overcoming the forest obstacle earns the second required journey milestone: **200 XP per PC**, under [[Fey Heart XP Rewards]].
+Defeating the boar and stirges to clear the path earns **150 XP per PC**, under [[Fey Heart XP Rewards]].
 
 - **Boar and stirges defeated; refuge abandoned:** Leave the trees attacking the refuge and proceed to [[Fey Heart Scene - The Singing Tree Encounter|the Singing Tree]].
-- **All enemies defeated:** A door opens in the hollow trunk and its inhabitant invites the party into [[Fey Heart Scene - Race to Tree 4|the optional refuge and social challenge]], before continuing to the Singing Tree. Access and hospitality earn no additional XP; the optional milestone requires the later social success.
+- **All enemies defeated:** A door opens in the hollow trunk and its inhabitant invites the party into [[Fey Heart Scene - Race to Tree 4|the optional refuge and social challenge]], before continuing to the Singing Tree. Saving the household earns an additional **150 XP per PC** under [[Fey Heart XP Rewards]], whether or not the party later secures Rumplewick’s blessing.
