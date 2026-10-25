@@ -23,7 +23,7 @@ Seeker: Well,
 Delwath: Maybe we should talk to Candrosa in the morning.
 
 %% u1782 %%
-Seeker: [[garbled]]
+Seeker: {{garbled}}
 
 %% u1783 %%
 DM: Maybe talk to the smith, go back to the smith, talk to Candrosa, then end the session.
@@ -470,7 +470,7 @@ DM: I got
 Wellby: I like to think you threw it squarely in the chest where a human-sized person would be.
 
 %% u2035 %%
-Kenzo: [[COC.]]
+Kenzo: {{COC.}}
 
 %% u2036 %%
 Seeker: Ah,
@@ -572,7 +572,7 @@ Kenzo: Do you recognize these runes, these writings, Candrosa?
 DM: I do not.
 
 %% u2107-u2109 %%
-Delwath: The creature—the reanimated dead that was wielding this—was clearly a follower of [[...]].
+Delwath: The creature—the reanimated dead that was wielding this—was clearly a follower of {{...}}.
 
 %% u2110 %%
 DM: He looks a bit taken aback.

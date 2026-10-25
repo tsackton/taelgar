@@ -3,7 +3,7 @@
 [u0003 | 00:00:11.969-00:00:12.809 | DM] OK, so
 [u0004 | 00:00:14.130-00:00:17.609 | DM] We begin tonight as the sun is setting over Raven's Hold
 [u0005 | 00:00:19.980-00:00:38.760 | DM] You earlier this afternoon, like five sessions ago you left your horses and gear in the narrow River Valley and made your way by secret passages and wading rivers through the mountains to the abandoned dwarven outpost.
-[u0006 | 00:00:40.410-00:00:48.840 | DM] Near that Dunmari stronghold of Raven's Hold there after encountering Inakara and her [[wild or the identified Kim]].
+[u0006 | 00:00:40.410-00:00:48.840 | DM] Near that Dunmari stronghold of Raven's Hold there after encountering Inakara and her {{wild or the identified Kim}}.
 [u0007 | 00:00:50.880-00:00:55.200 | DM] And obtaining safe passage in exchange for some combat.
 [u0008 | 00:00:56.430-00:00:57.000 | DM] You
 [u0009 | 00:00:58.290-00:01:08.460 | DM] found your way to the Brawnanvil vault where Riswynn recovered her long-sought heirloom shield of her clan enchanted to preserve the stories of her
@@ -1040,7 +1040,7 @@
 [u1040 | 01:24:50.940-01:24:53.220 | Kenzo] Oh yeah wait audience. I know that.
 [u1041 | 01:24:56.280-01:24:56.670 | DM] Know,
 [u1042 | 01:24:58.410-01:24:59.190 | DM] I can explain.
-[u1043 | 01:24:59.280-01:25:06.480 | Kenzo] [[These points for the party was popular magic the target speculating poisoned three leaders for the resistance communities.]]
+[u1043 | 01:24:59.280-01:25:06.480 | Kenzo] {{These points for the party was popular magic the target speculating poisoned three leaders for the resistance communities.}}
 [u1044 | 01:25:09.330-01:25:17.580 | DM] You can't learn it's attacks yes you can learn its resistances and immunities. If you want to spend a ki point you I'll say you could have done that.
 [u1045 | 01:25:18.840-01:25:19.320 | Kenzo] Let's do that.
 [u1046 | 01:25:22.470-01:25:23.100 | DM] Okay.
@@ -2706,7 +2706,7 @@
 [u2706 | 03:32:48.810-03:32:49.710 | Kenzo] That would make sense.
 [u2707 | 03:32:52.320-03:33:00.510 | DM] Um, when you say that Vola kind of leans forward have been bringing an awful fucking lot of animals into this place.
 [u2708 | 03:33:01.260-03:33:02.160 | Seeker] That's what I'm saying.
-[u2709 | 03:33:03.810-03:33:07.890 | Seeker] They're like trying to ramp up their [[tourism prisons point]]
+[u2709 | 03:33:03.810-03:33:07.890 | Seeker] They're like trying to ramp up their {{tourism prisons point}}
 [u2710 | 03:33:08.700-03:33:09.180 | Kenzo] But his
 [u2711 | 03:33:09.240-03:33:10.260 | Seeker] Production of an army.
 [u2712 | 03:33:10.800-03:33:15.480 | Kenzo] But it is, but who's food. How do they do it. What's the process we that's something we need to understand

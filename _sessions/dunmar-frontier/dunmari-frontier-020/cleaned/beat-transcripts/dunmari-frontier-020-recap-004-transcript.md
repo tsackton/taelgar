@@ -20,7 +20,7 @@ Kenzo: Aren't I strong in the Force, though? Don't I have…?
 DM: You are strong in the Force.
 
 %% u1223-u1226 %%
-Kenzo: Hold on. I never had D&D Beyond open. I pulled up the… [[mdm]]. Uno momento. I always have a hard time finding my shit from here. Where's our characters? What am I doing? What kind of roll am I making?
+Kenzo: Hold on. I never had D&D Beyond open. I pulled up the… {{mdm}}. Uno momento. I always have a hard time finding my shit from here. Where's our characters? What am I doing? What kind of roll am I making?
 
 %% u1227 %%
 DM: Constitution saving throw. All right.
@@ -35,7 +35,7 @@ DM: You feel him almost trying to stun you, and you manage to shake it off. And 
 Kenzo: Should I do this to Wellby now? I think this…
 
 %% u1239 %%
-DM: [[Morning for my training]], so make an attack roll.
+DM: {{Morning for my training}}, so make an attack roll.
 
 %% u1240 %%
 Kenzo: What kind of attack roll?
@@ -122,7 +122,7 @@ Kenzo: You, Wellby Goodbarrel, you just said that you might not want to do somet
 Wellby: Some humans never learn.
 
 %% u1279-u1280 %%
-Kenzo: [[I'll not sure all of our lives]]. But that's it.
+Kenzo: {{I'll not sure all of our lives}}. But that's it.
 
 %% u1281 %%
 DM: Now.
@@ -152,7 +152,7 @@ DM: And you are heading where exactly?
 Seeker: Right.
 
 %% u1299-u1303 %%
-DM: Okay, so you're heading sort of northeast, away from the deepest part of the desert, back into the broken canyon lands and rugged plains, the blasted plains north of [[the intensity of]] the Garamjala desert. Let me just see the distance here. So that's probably a three-day journey, roughly counting this as a day, so two more days.
+DM: Okay, so you're heading sort of northeast, away from the deepest part of the desert, back into the broken canyon lands and rugged plains, the blasted plains north of {{the intensity of}} the Garamjala desert. Let me just see the distance here. So that's probably a three-day journey, roughly counting this as a day, so two more days.
 
 %% u1304-u1308 %%
 DM: The next day—and so you camp. Hold on, sorry, guys. Need a place to take notes. Here we go. Okay, so you head north through the desert.
@@ -224,7 +224,7 @@ DM: Right you brought Taster into the desert.
 Seeker: I mean there's a slight extra encumbrance cost of the necessary water and food, but yeah.
 
 %% u1351 %%
-DM: [[I guy]], um…
+DM: {{I guy}}, um…
 
 %% u1352 %%
 Kenzo: A Taster and tamer.
@@ -233,7 +233,7 @@ Kenzo: A Taster and tamer.
 DM: So, the next day…
 
 %% u1355-u1356 %%
-Seeker: [[It's something be]], I think. Axebeak.
+Seeker: {{It's something be}}, I think. Axebeak.
 
 %% u1357-u1358 %%
 DM: Axebeak, axebeak. Beaky.
@@ -242,13 +242,13 @@ DM: Axebeak, axebeak. Beaky.
 Kenzo: Baxter the axebeak.
 
 %% u1360-u1361 %%
-Wellby: [[Extra]]. Maybe Baxter. All right, that's the strongest contender so far.
+Wellby: {{Extra}}. Maybe Baxter. All right, that's the strongest contender so far.
 
 %% u1362 %%
 DM: It's.
 
 %% u1363 %%
-Kenzo: [[A good in a freestyle]] to Baxter the axebeak.
+Kenzo: {{A good in a freestyle}} to Baxter the axebeak.
 
 %% u1364 %%
 Seeker: Yeah.
@@ -275,7 +275,7 @@ Kenzo: Wouldn't it be Wellby's instinct to engage it, and ask it for passage or 
 Wellby: Scorpions have no concept of politeness.
 
 %% u1389 %%
-Seeker: [[To double it inside]], right?
+Seeker: {{To double it inside}}, right?
 
 %% u1390 %%
 Unknown: Um.
@@ -284,7 +284,7 @@ Unknown: Um.
 Wellby: Well, the creatures with politeness, creatures…
 
 %% u1393 %%
-Kenzo: [[Like to scrolls]].
+Kenzo: {{Like to scrolls}}.
 
 %% u1394-u1398 %%
 DM: So you rest during the hottest part of the day again. You're in an area now where it's easier to find shade. There's little canyons and gullies. It's kind of like the terrain you first set out on when you first left Karawa almost two months ago now—six weeks ago now. Little gullies and canyons that lead nowhere.

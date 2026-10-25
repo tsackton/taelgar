@@ -80,7 +80,7 @@ DM: Okay, so you head down, and about halfway down the stairs—so there's a set
 Wellby: We're having a...
 
 %% u0652 %%
-Unknown: [[Tower guys have an extra yes]].
+Unknown: {{Tower guys have an extra yes}}.
 
 %% u0653 %%
 DM: You can go across the top of the gate and down the other tower if you want. Yeah.
@@ -263,7 +263,7 @@ Seeker: In the movie version, I'm playing...
 DM: Nice, twenty-three.
 
 %% u0769 %%
-Seeker: In the safety of the tower, [[goal in my days]].
+Seeker: In the safety of the tower, {{goal in my days}}.
 
 %% u0770-u0772 %%
 DM: Wellby, you're completely unseen. Now, twenty-one, I see it. Yes. Okay, so Kenzo, you're up first. You both manage to react before it can turn and head into the building.
@@ -311,7 +311,7 @@ Unknown: Yep.
 DM: So that spends one ki point to do that. That also hits. So, okay, Kenzo steps, kicks this rock, and this thing turns and looks, and he's just like, "Nope," runs forward, and swings with your staff, which misses. But then, wham, wham, two quick punches, and the thing slumps against the wall. The first strike nearly knocking it out, and then the second follow-up being just enough to kill it.
 
 %% u0792-u0793 %%
-Kenzo: All right, we got lucky with that one, Wellby. [[Place to crash]].
+Kenzo: All right, we got lucky with that one, Wellby. {{Place to crash}}.
 
 %% u0794 %%
 Wellby: Nicely done.
@@ -395,7 +395,7 @@ DM: Quick, and the claws look pretty nasty. Barbed tail moving around sort of in
 Kenzo: Does he have any weapons?
 
 %% u0852 %%
-DM: [[Or is he like weapons?]]
+DM: {{Or is he like weapons?}}
 
 %% u0853 %%
 Kenzo: I see. So, okay.
@@ -473,7 +473,7 @@ Kenzo: Hell yes, Soul Sight. Yoga demon, you are mine. Oh my God.
 Delwath: A hundred points.
 
 %% u0892 %%
-Kenzo: [[At zero points]].
+Kenzo: {{At zero points}}.
 
 %% u0893 %%
 Delwath: You know, that's not so bad.

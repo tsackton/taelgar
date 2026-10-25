@@ -71,7 +71,7 @@ Seeker: Metagame for a second: do we have any reason to hide anything from Havda
 Delwath: I don't think we have any specific reason to hide anything directly. I just think he might be a little—he might think that's foolish, and why are we bringing these people to their deaths?
 
 %% u0721-u0723 %%
-Seeker: [[Mine.]] So our prudent course of action, then, is to not let him know about the danger we're going to, so he can leave and we can go into it.
+Seeker: {{Mine.}} So our prudent course of action, then, is to not let him know about the danger we're going to, so he can leave and we can go into it.
 
 %% u0724-u0725 %%
 Delwath: Right. Something like that.
@@ -98,7 +98,7 @@ Seeker: Karawa, Bas Udda, and then the red X in the blue.
 Unknown: So.
 
 %% u0743-u0745 %%
-DM: Yeah, so from Karawa southeast to Bas Udda. [[Su the west that.]]
+DM: Yeah, so from Karawa southeast to Bas Udda. {{Su the west that.}}
 
 %% u0746-u0747 %%
 Kenzo: Bas Udda is where we think that Agata Dustmother…?
@@ -116,7 +116,7 @@ DM: It's expected to be deserted, yes. Nobody has been back there since the ramp
 Seeker: See what happened there.
 
 %% u0755 %%
-Kenzo: And Agata Dustmother is supposed to be around where the green is, yeah? And then the weird cottage-house thing is where the red thing is, yep, and Delwath's tower is right on the edge of the [[library]] here.
+Kenzo: And Agata Dustmother is supposed to be around where the green is, yeah? And then the weird cottage-house thing is where the red thing is, yep, and Delwath's tower is right on the edge of the {{library}} here.
 
 %% u0756 %%
 Unknown: Yes.
@@ -158,7 +158,7 @@ Delwath: I thought we were going to look for the orcs with him, and then once we
 Kenzo: Okay cool.
 
 %% u0770 %%
-Seeker: [[I didn't make sense.]]
+Seeker: {{I didn't make sense.}}
 
 %% u0771 %%
 Kenzo: Kenzo's not totally disinterested, but also is sort of like, all right, whatever you guys want to do in the desert.
@@ -179,7 +179,7 @@ Kenzo: Yeah, he does that. He explains what's going on with Shakun and the overa
 DM: So now, a few days later. Are you taking the mirror with you?
 
 %% u0790 %%
-Delwath: Well, [[is it a great…]]
+Delwath: Well, {{is it a great…}}
 
 %% u0791 %%
 DM: It's like a wall mirror yeah pretty big.
@@ -194,7 +194,7 @@ Delwath: I assume it is not yet charged.
 DM: No, because Kong really wants that to be charged.
 
 %% u0796 %%
-Kenzo: [[For it's…]]
+Kenzo: {{For it's…}}
 
 %% u0797-u0798 %%
 DM: No, it's charged. I'll just metagame it. Have your moment.
@@ -248,7 +248,7 @@ Seeker: Hover over the thing at the top right of it. It says 'Join' when you hov
 Wellby: When you're.
 
 %% u0836 %%
-DM: [[At the breakout room and not invite myself to this.]]
+DM: {{At the breakout room and not invite myself to this.}}
 
 %% u0837-u0838 %%
 Wellby: While they're doing that, can we recap the plot threads again just for a second? I was trying to think of this earlier today. The things we know are: there's the Chardonian secret-society people running around, there's something summoning demons, there's something building, presumably, an orc army that is at a minimum allied to the demon-summoning people.
@@ -314,7 +314,7 @@ Delwath: Yeah.
 Unknown: Agata.
 
 %% u0871-u0873 %%
-Delwath: Yeah, Tharandros knew her and had made a deal with her to keep her south of [[different what's below]], or some various people.
+Delwath: Yeah, Tharandros knew her and had made a deal with her to keep her south of {{different what's below}}, or some various people.
 
 %% u0874-u0875 %%
 Wellby: So what I'm hearing, though, is there's also the possibility—if we think of all the powers, the players, Agata is one, but we still don't exactly know Agata's relationship with the demon-summoning people or the orcs.
@@ -329,7 +329,7 @@ Seeker: Too much.
 Delwath: Well, sure, but she might be not really that bad. He was trying to free the Firstborn from their ghetto enslavement.
 
 %% u0882 %%
-Seeker: So, like a centrist [[too much]].
+Seeker: So, like a centrist {{too much}}.
 
 %% u0883 %%
 Delwath: Well, more specifically, we don't know. We learned there's some dark, evil hole, blackness thing here in the temple.
@@ -365,7 +365,7 @@ Seeker: Session notes.
 Delwath: In the session, it's 'the party learned that Agata…' All right, there's the silence. No, he did write it. Then it says, 'There's something wrong here, a silence where there should be echoes and reverberations.' Something's missing, right? There's something wrong with the land. There's supposed to be these echoes; the centaurs are supposed to be hearing these echoes of the land. We don't know what exactly, but they can feel something. There's something missing, like a void, a silence where there should be light, where there should be…
 
 %% u0901-u0902 %%
-Seeker: Oh, and Seeker's speculation was that it's an artifact, a planar-energy antenna, some kind of [[place to go]] reflector.
+Seeker: Oh, and Seeker's speculation was that it's an artifact, a planar-energy antenna, some kind of {{place to go}} reflector.
 
 %% u0903-u0904 %%
 Delwath: Somehow, right. So we think this thing the centaurs are worried about is related to the collapse of the illusion wall that was keeping this part of Dunmar safe.
@@ -392,7 +392,7 @@ Delwath: Well, he doesn't know much about it right, but.
 Seeker: Is that good? Is it bad?
 
 %% u0915-u0916 %%
-Delwath: We had a whole—well, I think Kenzo [[right up and the idea was totally with us]]. We know…
+Delwath: We had a whole—well, I think Kenzo {{right up and the idea was totally with us}}. We know…
 
 %% u0917 %%
 Wellby: …out of game that this character isn't evil, because this was Mike's out-of-game requirement of Tim, that his patron isn't secretly evil.
@@ -458,7 +458,7 @@ Unknown: Yeah.
 Delwath: Sorry, this is slightly annoying. Delwath is going to excuse—We don't need to do this in a breakout room, Tim, I'll just…
 
 %% u0944 %%
-DM: [[Today, but…]]
+DM: {{Today, but…}}
 
 %% u0945-u0950 %%
 Delwath: When Delwath wakes up, he's going to walk a little bit. There's clearly something on his mind, and he's going to tell everybody else there's a question he has to ask Tharandros. Keep getting ready. The centaur, Tharandros—just combined two people. And that he's…
@@ -515,7 +515,7 @@ DM: Havdar and roughly twenty people now ride up. They have about thirty-five, f
 Unknown: You know.
 
 %% u0999-u1003 %%
-DM: Clearly used to being in command, and clearly trusted and respected by his warriors, who are prepared to trust him with their lives and expect him to [[have their lives]]. They're obviously also ready to move quickly across the land, being all skilled riders and familiar with…
+DM: Clearly used to being in command, and clearly trusted and respected by his warriors, who are prepared to trust him with their lives and expect him to {{have their lives}}. They're obviously also ready to move quickly across the land, being all skilled riders and familiar with…
 
 %% u1004 %%
 Unknown: With the land.

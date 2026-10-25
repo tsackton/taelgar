@@ -38,7 +38,7 @@ Kenzo: Vola’s already left, though.
 Delwath: No, she was waiting for a day. She’s guarding our horses.
 
 %% u1152 %%
-Wellby: [[Deserted left]].
+Wellby: {{Deserted left}}.
 
 %% u1153 %%
 Delwath: Or she’s already left, yes, but now we all have horses.
@@ -128,7 +128,7 @@ Seeker: I also have that Shatter spell.
 Riswynn: Booming blade.
 
 %% u1195-u1201 %%
-Seeker: And nonmagical objects take damage. Huh. Well, let’s try the heating, cooling, and pulling sequence while we’re here, [[Kelly]].
+Seeker: And nonmagical objects take damage. Huh. Well, let’s try the heating, cooling, and pulling sequence while we’re here, {{Kelly}}.
 
 %% u1202 %%
 DM: Okay.
@@ -137,7 +137,7 @@ DM: Okay.
 Seeker: So I stand at a perfectly safe distance.
 
 %% u1204 %%
-DM: [[Erica]].
+DM: {{Erica}}.
 
 %% u1205-u1207 %%
 Seeker: Riswynn, get in position. I cast Heat Metal.
@@ -191,7 +191,7 @@ DM: With Riswynn in front of you.
 Unknown: Mm hmm.
 
 %% u1241 %%
-Kenzo: All right, [[said a minute ago]]. Continue.
+Kenzo: All right, {{said a minute ago}}. Continue.
 
 %% u1242 %%
 Riswynn: Cycles.
@@ -536,7 +536,7 @@ Riswynn: Weapon bonus attack.
 DM: Yeah.
 
 %% u1426-u1427 %%
-Seeker: [[Doc]] Spiritual Weapon. But what’s that?
+Seeker: {{Doc}} Spiritual Weapon. But what’s that?
 
 %% u1428 %%
 Delwath: It's summoning more stuff. This could be an endless fight we might be in trouble.
@@ -734,7 +734,7 @@ Seeker: Like, what do you use to defeat dust? So I’ll take a step back, put my
 DM: I mean, they’re creatures made out of dust, and they’re not that big, but they look sort of like little imps, right? I mean, they’re not…
 
 %% u1551 %%
-Wellby: If they were rabbits, [[if you have a system that just be just]]…
+Wellby: If they were rabbits, {{if you have a system that just be just}}…
 
 %% u1552 %%
 Delwath: They.
@@ -806,7 +806,7 @@ DM: Axe, whatever you have. Yeah, Shatterstorm, your warhammer.
 Riswynn: We’ll just call it Shatterstorm, though. Know what sort of bludgeoning…
 
 %% u1593 %%
-Unknown: [[Hats]].
+Unknown: {{Hats}}.
 
 %% u1594 %%
 Delwath: Just click on the word Shatterstorm. It'll roll your damage.

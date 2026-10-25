@@ -101,7 +101,7 @@ Unknown: Condition.
 Seeker: Interesting.
 
 %% u2080-u2081 %%
-DM: To make reasonable decisions… [[don’t happen]].
+DM: To make reasonable decisions… {{don’t happen}}.
 
 %% u2082 %%
 Riswynn: You don’t humor your friends.
@@ -128,7 +128,7 @@ Kenzo: Are horses still there? This is the question.
 DM: So, on your way around—actually, hold on a sec.
 
 %% u2093-u2094 %%
-Riswynn: On the way around, do we see any friendly birds or [[ravenous got]]…?
+Riswynn: On the way around, do we see any friendly birds or {{ravenous got}}…?
 
 %% u2095 %%
 Seeker: Closer. But we’ve got the floating disk laden heavily with some insane collection of objects also.
@@ -176,7 +176,7 @@ Unknown: Ah.
 DM: No, you can have the disk. That’s too mean.
 
 %% u2115 %%
-Kenzo: [[Is that fucking this scary shit]].
+Kenzo: {{Is that fucking this scary shit}}.
 
 %% u2116 %%
 Seeker: That's the one legacy of Arcus.
@@ -212,10 +212,10 @@ Kenzo: Because we’re adventurers and we’re moral.
 Seeker: Huh.
 
 %% u2131 %%
-Riswynn: [[No Lindsay]].
+Riswynn: {{No Lindsay}}.
 
 %% u2132-u2133 %%
-Wellby: We’re doing it to free an imprisoned creature, [[an action that sure they will happen either]].
+Wellby: We’re doing it to free an imprisoned creature, {{an action that sure they will happen either}}.
 
 %% u2134 %%
 Kenzo: Quit stealing the paintings and the money and ransacking the items.
@@ -503,7 +503,7 @@ Kenzo: Yeah, so I think we should be—we should, just because we don’t know t
 Seeker: Then again, do a…
 
 %% u2280-u2281 %%
-Riswynn: [[Lot to the]]… After they got the eyes…
+Riswynn: {{Lot to the}}… After they got the eyes…
 
 %% u2282 %%
 Kenzo: What’s that, Riswynn?
@@ -662,7 +662,7 @@ Kenzo: And Riswynn, you’re heading west as well?
 Riswynn: Yes, I need to go west to the Yuvanti Mountains to return my family heirlooms to their rightful clan.
 
 %% u2377 %%
-Kenzo: And what about you, after you return them? What’s your [[faith on]]…?
+Kenzo: And what about you, after you return them? What’s your {{faith on}}…?
 
 %% u2378-u2382 %%
 Riswynn: Well, I can consult with my clan and see what service I can be to my people. If there’s some honorable claim on my actions that would call me back to interact with you, maybe we can figure out a way for you to reach me or me to reach you.
@@ -680,7 +680,7 @@ DM: It’s definitely closer, considerably closer.
 Riswynn: Or their stuff.
 
 %% u2391-u2392 %%
-Kenzo: Is there anything else before we part ways? [[And started bouncing around it everyday]].
+Kenzo: Is there anything else before we part ways? {{And started bouncing around it everyday}}.
 
 %% u2393 %%
 Wellby: Riswynn, do you have any people in Chardon?
@@ -695,7 +695,7 @@ Unknown: There's.
 DM: So, yeah, there’s nobody who’s—it’s really up to you, but for sure there are Brawnanvils in Chardon. A lot of the dwarves from the Yuvanti Mountains who have spread, who haven’t stayed in the mountains, have tended to move north and west towards Chardon. So you’d very likely have distant relations there, but you don’t have close contacts.
 
 %% u2401-u2402 %%
-Riswynn: [[I know some work soon as the doors]]. That might be an avenue by which we could be contacted if you are in Chardon. Is that what you were looking for, Wellby, or…?
+Riswynn: {{I know some work soon as the doors}}. That might be an avenue by which we could be contacted if you are in Chardon. Is that what you were looking for, Wellby, or…?
 
 %% u2403 %%
 Wellby: Here.
@@ -725,7 +725,7 @@ DM: And so this is one of those, but it’s not something that you’ve specific
 DM: So Vola says, “It’s a clear morning. The day is young. I’m gonna ride for Chardon. I should leave as quickly as I can, although it might be safer if we traveled together for some ways. Anyway, there is safety in numbers.”
 
 %% u2436-u2440 %%
-Kenzo: Vola, I’m sure this is not the last time our paths will cross. I have a feeling, I have a feeling, I have a feeling we’ll meet again sooner than later. Drive safely. We probably will. I have a feeling we’ll see [[the start of this year in the later]]. Feels like our paths will cross again.
+Kenzo: Vola, I’m sure this is not the last time our paths will cross. I have a feeling, I have a feeling, I have a feeling we’ll meet again sooner than later. Drive safely. We probably will. I have a feeling we’ll see {{the start of this year in the later}}. Feels like our paths will cross again.
 
 %% u2441-u2442 %%
 DM: “What was in the storm, by the way? You were gone a long time.”
@@ -734,7 +734,7 @@ DM: “What was in the storm, by the way? You were gone a long time.”
 Kenzo: We were lost a long time inside that storm.
 
 %% u2444 %%
-Riswynn: Dark, disorienting, [[with which to]] try to kill us.
+Riswynn: Dark, disorienting, {{with which to}} try to kill us.
 
 %% u2445-u2446 %%
 Kenzo: It’s not safe to return inside that storm.
@@ -782,16 +782,16 @@ DM: “Indeed.”
 Kenzo: Riswynn, we hope our paths cross again soon as well.
 
 %% u2472-u2473 %%
-Riswynn: Aye, yeah, I have enjoyed traveling with you. It will be good to return to my people, let them know [[data]] and what we’ve learned.
+Riswynn: Aye, yeah, I have enjoyed traveling with you. It will be good to return to my people, let them know {{data}} and what we’ve learned.
 
 %% u2474 %%
 Kenzo: You.
 
 %% u2475 %%
-Wellby: [[Say, oh, this one]].
+Wellby: {{Say, oh, this one}}.
 
 %% u2476 %%
-Delwath: [[Is looked at Chinese]].
+Delwath: {{Is looked at Chinese}}.
 
 %% u2477 %%
 Seeker: Good luck to you in your travels.
@@ -800,7 +800,7 @@ Seeker: Good luck to you in your travels.
 Riswynn: I hope you find your warrior allies and plan your next steps wisely.
 
 %% u2481 %%
-Wellby: [[Filling that role more falls off ledges]].
+Wellby: {{Filling that role more falls off ledges}}.
 
 %% u2482 %%
 Riswynn: Be careful when you don’t have my hard head to take them for you.

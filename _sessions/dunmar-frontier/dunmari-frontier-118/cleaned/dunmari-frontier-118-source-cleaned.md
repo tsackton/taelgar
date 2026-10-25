@@ -16,12 +16,12 @@
 [u0016 | 00:01:23.740-00:01:26.534 | DM] on watch, tending the great tree,
 [u0017 | 00:01:27.430-00:01:30.310 | DM] tending the lanterns that light the ship
 [u0018 | 00:01:31.660-00:01:34.880 | DM] pacing around the garden and watching the stars.
-[u0019 | 00:01:36.970-00:01:43.949 | DM] It's been 30 days since Kenzo 1st started having dreams of Apollyon's [[estate]]
-[u0020 | 00:01:45.880-00:01:53.440 | DM] while you were still in the far cold [[go averse]], having just killed a vampire.
+[u0019 | 00:01:36.970-00:01:43.949 | DM] It's been 30 days since Kenzo 1st started having dreams of Apollyon's {{estate}}
+[u0020 | 00:01:45.880-00:01:53.440 | DM] while you were still in the far cold {{go averse}}, having just killed a vampire.
 [u0021 | 00:01:54.630-00:02:02.100 | DM] It's been 20 some odd days since he returned from the water with the
-[u0022 | 00:02:02.680-00:02:11.600 | DM] 4th of the 5 3rd of the 5 fragments, the 5 fragments of [[Jane]] that you were seeking.
-[u0023 | 00:02:13.050-00:02:24.150 | DM] It's been 10 days since [[Gladstorm]] was recovered from a Cha'mutte's prison on the [[Seaflora Island]], defeated.
-[u0024 | 00:02:24.320-00:02:27.670 | DM] Cha'mutte's spawn the Black Dragon [[redempters]]
+[u0022 | 00:02:02.680-00:02:11.600 | DM] 4th of the 5 3rd of the 5 fragments, the 5 fragments of {{Jane}} that you were seeking.
+[u0023 | 00:02:13.050-00:02:24.150 | DM] It's been 10 days since {{Gladstorm}} was recovered from a Cha'mutte's prison on the {{Seaflora Island}}, defeated.
+[u0024 | 00:02:24.320-00:02:27.670 | DM] Cha'mutte's spawn the Black Dragon {{redempters}}
 [u0025 | 00:02:27.970-00:02:30.569 | DM] and put a new Emperor in charge
 [u0026 | 00:02:30.800-00:02:34.510 | DM] of the refuge of humans from Hkar.
 [u0027 | 00:02:36.240-00:02:40.809 | DM] It's been 8 days since you reached Drankor for the 1st time.
@@ -49,7 +49,7 @@
 [u0049 | 00:05:09.280-00:05:20.420 | DM] A Crown of Purity that when you faced Fausto, took the form of a dark iron crown, shadowed gemstone
 [u0050 | 00:05:21.970-00:05:23.160 | DM] points.
 [u0051 | 00:05:23.410-00:05:28.490 | DM] But since Riswynn has bound herself to it and attuned to it
-[u0052 | 00:05:29.960-00:05:39.490 | DM] as of this evening. Its form has shifted now to a [[silver iron]] adorned with
+[u0052 | 00:05:29.960-00:05:39.490 | DM] as of this evening. Its form has shifted now to a {{silver iron}} adorned with
 [u0053 | 00:05:39.930-00:05:43.630 | DM] rubies and points that resemble hammers.
 [u0054 | 00:05:44.150-00:05:45.429 | DM] Oh, they didn't work.
 [u0055 | 00:05:48.500-00:05:53.979 | DM] So now, as you sit in the main dining hall on the upper deck of Vindristjarna.
@@ -70,7 +70,7 @@
 [u0070 | 00:07:34.670-00:07:40.019 | Delwath] and sort of pacing around while doing that. He's a pretty compelling
 [u0071 | 00:07:40.150-00:07:53.670 | Delwath] speaker, right like. So so he sort of draws the attention. When he's doing these. His shield is off somewhere, right? No weapons probably only wearing probably still wearing his. He tends to wear his armor because it's
 [u0072 | 00:07:53.780-00:07:56.970 | Delwath] it fits nicely under his cloak, right like it's sort of.
-[u0073 | 00:07:57.560-00:08:10.490 | Delwath] It's not like armor armor, right like it's sort of colorful and [[itchy]] under his cloak. But you know there's probably some some food remains, and like he's occasionally gesturing with his wine glass and and
+[u0073 | 00:07:57.560-00:08:10.490 | Delwath] It's not like armor armor, right like it's sort of colorful and {{itchy}} under his cloak. But you know there's probably some some food remains, and like he's occasionally gesturing with his wine glass and and
 [u0074 | 00:08:11.190-00:08:13.519 | Delwath] you know his hair is pulled back, and
 [u0075 | 00:08:14.281-00:08:23.949 | Delwath] he seems quite animated and sort of alive with possibilities and conversation.
 [u0076 | 00:08:28.320-00:08:44.820 | Kenzo] In contrast, Kenzo looks like just super annoyed at at Delwath's, like, you know, sudden enthusiasm about the crown and all the things that he wants to do with it. And like it's, it's just like it's just like, you know.
@@ -104,7 +104,7 @@
 [u0104 | 00:12:39.150-00:12:41.269 | Wellby] and the discovery of that is sort of
 [u0105 | 00:12:42.170-00:12:44.169 | Wellby] I don't know. It's given him a lot to think about.
 [u0106 | 00:12:45.410-00:12:51.309 | Wellby] But I think he's not putting up too much of a fight. He's mostly just letting Delwath wear himself out.
-[u0107 | 00:12:55.930-00:13:03.399 | Riswynn] Riswynn has been grateful to be back on Vindristjarna and in her shrine to the [[Biharazal]], and
+[u0107 | 00:12:55.930-00:13:03.399 | Riswynn] Riswynn has been grateful to be back on Vindristjarna and in her shrine to the {{Biharazal}}, and
 [u0108 | 00:13:03.560-00:13:17.120 | Riswynn] feel that she is in a place of strength and support, to learn and and grow, to keep this
 [u0109 | 00:13:17.400-00:13:23.800 | Riswynn] power safe, to get advice from her gods, to.
 [u0110 | 00:13:24.550-00:13:30.340 | Riswynn] you know, rest and focus that you know we can together
@@ -218,11 +218,11 @@
 [u0218 | 00:24:34.890-00:24:40.700 | Delwath] but this last prison of hers we have not unraveled yet.
 [u0219 | 00:24:43.720-00:24:48.090 | Delwath] Who are you I Delwath will sort of turn back Wellby's question.
 [u0220 | 00:24:48.370-00:24:54.429 | Delwath] We would not wish to bring any dangers into her presence.
-[u0221 | 00:24:56.930-00:25:01.430 | Delwath] [[Who are you to show us? Who?]]
+[u0221 | 00:24:56.930-00:25:01.430 | Delwath] {{Who are you to show us? Who?}}
 [u0222 | 00:25:01.610-00:25:06.609 | Delwath] How can we trust you that you are not a spy or another?
 [u0223 | 00:25:07.120-00:25:11.260 | Delwath] One of her enemies, trying to seek her whereabouts.
 [u0224 | 00:25:12.840-00:25:20.088 | DM] She kind of draws herself up sort of offended a little bit at this, and stands tall and and
-[u0225 | 00:25:20.880-00:25:28.949 | DM] almost indignant, and she says, how dare you? I am [[Illyrian]] lantern keeper of Redsun Watch.
+[u0225 | 00:25:20.880-00:25:28.949 | DM] almost indignant, and she says, how dare you? I am {{Illyrian}} lantern keeper of Redsun Watch.
 [u0226 | 00:25:29.090-00:25:37.450 | DM] bearer of, as far as I know, the last Amberlight not captured by the evils on our borders by
 [u0227 | 00:25:38.540-00:25:44.100 | DM] the Gloomshaper by Harrow or Wend, and I will have you know
 [u0228 | 00:25:45.770-00:25:48.380 | DM] I have come to free the Cloudspinner.
@@ -247,7 +247,7 @@
 [u0247 | 00:27:08.000-00:27:08.500 | Delwath] M.
 [u0248 | 00:27:08.500-00:27:15.240 | DM] The entire vibe is like she's putting herself in what she thinks is basically a impossible situation.
 [u0249 | 00:27:16.340-00:27:19.169 | Delwath] What did she say? Heard what was her 1st title that she said.
-[u0250 | 00:27:19.170-00:27:23.209 | DM] [[Arian]], the lantern keeper of Redsun Watch.
+[u0250 | 00:27:19.170-00:27:23.209 | DM] {{Arian}}, the lantern keeper of Redsun Watch.
 [u0251 | 00:27:23.800-00:27:24.380 | Delwath] Okay.
 [u0252 | 00:27:25.840-00:27:28.209 | DM] Bearer of the last Amberlight.
 [u0253 | 00:27:32.160-00:27:38.115 | Delwath] Delwath will sort of nod to her and sort of open his hand Lantern Keeper.
@@ -350,7 +350,7 @@
 [u0350 | 00:35:41.363-00:35:43.530 | Delwath] Bright color, maybe this time.
 [u0351 | 00:35:43.530-00:35:47.869 | Kenzo] No, no, but in all seriousness I do. I can. I can like, sit with Seeker and and like, you know.
 [u0352 | 00:35:48.140-00:35:48.915 | Kenzo] like
-[u0353 | 00:35:50.040-00:35:56.559 | DM] So [[it's amazing]], not yet completely desaturated. There's still color in his beard and parts of his coat.
+[u0353 | 00:35:50.040-00:35:56.559 | DM] So {{it's amazing}}, not yet completely desaturated. There's still color in his beard and parts of his coat.
 [u0354 | 00:35:56.840-00:35:58.779 | Kenzo] Tim, can I? Can I, Cleansing Touch him.
 [u0355 | 00:36:01.960-00:36:06.209 | Riswynn] Throw our Healy, blessie things at him, and see if we can.
 [u0356 | 00:36:06.410-00:36:08.820 | Kenzo] I mean Cleansing Touch. Tim. How do? How does that go.
@@ -362,7 +362,7 @@
 [u0362 | 00:36:45.300-00:36:47.689 | DM] both of which seem a little bit panicked.
 [u0363 | 00:36:49.150-00:36:50.319 | Kenzo] Both seem a little what.
 [u0364 | 00:36:50.540-00:36:53.720 | DM] Panicked. Both auras seem a little bit panicked.
-[u0365 | 00:36:54.070-00:36:56.430 | Kenzo] But it's Seeker's aura and the [[panic order]].
+[u0365 | 00:36:54.070-00:36:56.430 | Kenzo] But it's Seeker's aura and the {{panic order}}.
 [u0366 | 00:36:56.940-00:37:00.059 | DM] Yeah, let's let's pause for a sec.
 [u0367 | 00:37:01.530-00:37:03.270 | Delwath] Oh, hey! Eric!
 [u0368 | 00:37:03.640-00:37:05.220 | Seeker] Hey! Everybody!
@@ -370,14 +370,14 @@
 [u0370 | 00:37:09.350-00:37:10.160 | Seeker] Hi!
 [u0371 | 00:37:10.670-00:37:11.839 | Kenzo] How are you?
 [u0372 | 00:37:22.220-00:37:30.479 | DM] Okay, so let's return to Taelgar as Kenzo leads the
-[u0373 | 00:37:30.920-00:37:45.830 | DM] quickly fading, quickly desaturating Seeker off. Well, Wellby, Riswynn, and Delwath lead [[Lyrian]]
+[u0373 | 00:37:30.920-00:37:45.830 | DM] quickly fading, quickly desaturating Seeker off. Well, Wellby, Riswynn, and Delwath lead {{Lyrian}}
 [u0374 | 00:37:48.590-00:37:54.429 | DM] lantern keeper of red—Redsun Keep—of Redsun Watch
 [u0375 | 00:37:54.530-00:37:59.050 | DM] into the storage room in the basement of
 [u0376 | 00:37:59.200-00:38:04.189 | DM] Vindristjarna, where, still encased in her crystal.
 [u0377 | 00:38:04.480-00:38:08.360 | DM] is, or crystal prison is the Cloudspinner
 [u0378 | 00:38:10.607-00:38:24.569 | DM] translucent, cannot like really clearly see her features, except the hair, that is the sort of brilliant golden hued, multicolored orange, red, yellow
-[u0379 | 00:38:24.700-00:38:39.349 | DM] hair, sort of long and kind of almost wrapped around her naked body. And this light that [[leery]], is carrying flares, and it's even brighter as she steps into the hold.
-[u0380 | 00:38:39.460-00:38:42.520 | DM] and she, [[Learyan]], falls to her knees.
+[u0379 | 00:38:24.700-00:38:39.349 | DM] hair, sort of long and kind of almost wrapped around her naked body. And this light that {{leery}}, is carrying flares, and it's even brighter as she steps into the hold.
+[u0380 | 00:38:39.460-00:38:42.520 | DM] and she, {{Learyan}}, falls to her knees.
 [u0381 | 00:38:44.470-00:38:46.850 | DM] and she looks up sort of in awe.
 [u0382 | 00:38:50.600-00:38:51.610 | DM] It is
 [u0383 | 00:38:57.430-00:39:04.319 | DM] blink. She sort of she's not dead.
@@ -404,7 +404,7 @@
 [u0404 | 00:41:03.510-00:41:10.350 | DM] I fled sort of starts sobbing quietly.
 [u0405 | 00:41:14.140-00:41:19.180 | DM] I don't know if anyone got out.
 [u0406 | 00:41:24.160-00:41:33.460 | DM] I was not even important. Just one of the lantern keepers wasn't like
-[u0407 | 00:41:34.280-00:41:40.320 | DM] [[Therian Duskward]], or anybody who could fight the darkness.
+[u0407 | 00:41:34.280-00:41:40.320 | DM] {{Therian Duskward}}, or anybody who could fight the darkness.
 [u0408 | 00:41:43.750-00:41:50.179 | DM] but I didn't know what else to do. I had the Amberlight and I
 [u0409 | 00:41:50.500-00:41:53.229 | DM] ran when the keep was swallowed.
 [u0410 | 00:41:56.070-00:42:02.140 | Riswynn] And you've not had time to find any allies or other survivors.
@@ -429,7 +429,7 @@
 [u0429 | 00:43:57.860-00:44:01.440 | Delwath] How did you come to be riding a stag through the sky.
 [u0430 | 00:44:03.930-00:44:12.300 | DM] I crossed over the Bitterwine Oak in Emberwine.
 [u0431 | 00:44:15.060-00:44:17.479 | DM] because the light had flared and led me here.
-[u0432 | 00:44:20.750-00:44:28.939 | DM] [[Yours or she]], I should say, was still for a long time, days, as you measure time.
+[u0432 | 00:44:20.750-00:44:28.939 | DM] {{Yours or she}}, I should say, was still for a long time, days, as you measure time.
 [u0433 | 00:44:40.140-00:44:41.510 | Delwath] Delwath will sort of look at.
 [u0434 | 00:44:44.460-00:44:45.200 | Delwath] We don't.
 [u0435 | 00:44:55.300-00:45:00.359 | Delwath] I don't know what this changes unless others come looking.
@@ -451,7 +451,7 @@
 [u0451 | 00:46:45.118-00:46:54.780 | Delwath] I think my fear would be that now that
 [u0452 | 00:47:01.190-00:47:13.180 | Delwath] that, we have evidence standing before us, pointing it, pointing at this woman, that Cloudspinner has awoken something
 [u0453 | 00:47:13.770-00:47:15.210 | Delwath] out in the world.
-[u0454 | 00:47:15.490-00:47:18.340 | Riswynn] [[Face, something yes]].
+[u0454 | 00:47:15.490-00:47:18.340 | Riswynn] {{Face, something yes}}.
 [u0455 | 00:47:18.340-00:47:23.350 | Delwath] And for many, many years I think her location must have been hidden
 [u0456 | 00:47:23.460-00:47:31.190 | Delwath] right. The circular, the the magic wards around the island, would have stopped anything coming in or out.
 [u0457 | 00:47:32.060-00:47:36.259 | Delwath] And wasn't she like in some extra dimensional prison on top of that.
@@ -523,7 +523,7 @@
 [u0523 | 00:53:10.330-00:53:13.360 | DM] Everybody gets into the room right now.
 [u0524 | 00:53:13.360-00:53:17.439 | Delwath] Well, hold on! Hold on! I want to tell the I wanna tell the person.
 [u0525 | 00:53:17.780-00:53:21.140 | DM] What's your name?
-[u0526 | 00:53:21.140-00:53:21.730 | Riswynn] [[Lorenne]].
+[u0526 | 00:53:21.140-00:53:21.730 | Riswynn] {{Lorenne}}.
 [u0527 | 00:53:21.730-00:53:22.505 | Delwath] That
 [u0528 | 00:53:24.840-00:53:25.730 | Riswynn] Have another fey.
 [u0529 | 00:53:25.730-00:53:30.569 | Delwath] We have a another presence seeking the Cloudspinner.
@@ -539,7 +539,7 @@
 [u0539 | 00:54:29.880-00:54:33.170 | DM] Who are you to dare? Keep me from my queen?
 [u0540 | 00:54:34.750-00:54:37.439 | DM] I insist we must go immediately.
 [u0541 | 00:54:38.620-00:54:40.599 | DM] My place is by her side.
-[u0542 | 00:54:43.000-00:54:51.409 | DM] and [[Lyrian]] just looks confused. The light, the Amberlight shining from her crystal lantern shows
+[u0542 | 00:54:43.000-00:54:51.409 | DM] and {{Lyrian}} just looks confused. The light, the Amberlight shining from her crystal lantern shows
 [u0543 | 00:54:53.010-00:55:01.900 | DM] 2 people superimposed Seeker, and then on top, like superimposed on top of Seeker. There is a
 [u0544 | 00:55:02.746-00:55:05.030 | DM] sort of call
 [u0545 | 00:55:13.715-00:55:21.549 | DM] A tall, courtly woman, wearing like flowing gowns, with
@@ -550,14 +550,14 @@
 [u0550 | 00:55:55.120-00:56:01.430 | Riswynn] You have come to our home and your lady's name, we know, but yours. We do not.
 [u0551 | 00:56:02.860-00:56:08.309 | DM] I am Lady Eventide, and I demand to speak with the Cloudspinner immediately.
 [u0552 | 00:56:12.110-00:56:14.360 | DM] Don't just stand there.
-[u0553 | 00:56:14.780-00:56:19.090 | Riswynn] Does that ring a bell for [[Marianne]] at all.
+[u0553 | 00:56:14.780-00:56:19.090 | Riswynn] Does that ring a bell for {{Marianne}} at all.
 [u0554 | 00:56:21.364-00:56:23.636 | DM] Doesn't ring a bell for any of you.
 [u0555 | 00:56:26.140-00:56:29.109 | Delwath] Is it cheating to read the session notes about Lady Eventide.
 [u0556 | 00:56:29.840-00:56:32.340 | DM] Slightly. Yes, you're there.
 [u0557 | 00:56:33.030-00:56:36.687 | Wellby] Seeker's, the only one who would actually, who's actually there. Right?
 [u0558 | 00:56:37.020-00:56:41.839 | Wellby] I don't know what's the worst thing that can happen when they see each other. Let's see how it goes.
-[u0559 | 00:56:43.480-00:56:46.910 | Delwath] I'll look over at [[Larry]] and Lady Eventide.
-[u0560 | 00:56:48.580-00:56:55.940 | Delwath] I'll introduce. I'll introduce Lady Eventide to [[Larian]], the keeper of the [[Fred]].
+[u0559 | 00:56:43.480-00:56:46.910 | Delwath] I'll look over at {{Larry}} and Lady Eventide.
+[u0560 | 00:56:48.580-00:56:55.940 | Delwath] I'll introduce. I'll introduce Lady Eventide to {{Larian}}, the keeper of the {{Fred}}.
 [u0561 | 00:56:56.560-00:57:01.520 | Delwath] I remember her titles, but I've forgotten them in in Redsun Watch, Redsun.
 [u0562 | 00:57:01.520-00:57:04.590 | DM] And watch lantern lantern, keeper of Redsun Watch.
 [u0563 | 00:57:05.000-00:57:09.349 | Delwath] Are you familiar with Redsun Watch, too, Lady Eventide?
@@ -569,7 +569,7 @@
 [u0569 | 00:57:32.720-00:57:33.989 | Delwath] but the 3rd one's a bit.
 [u0570 | 00:57:33.990-00:57:36.200 | DM] And you left her in the 3rd
 [u0571 | 00:57:37.140-00:57:39.870 | Delwath] Well, do you know how to break free? Break her out of that.
-[u0572 | 00:57:39.960-00:57:41.470 | DM] [[Me, her]].
+[u0572 | 00:57:39.960-00:57:41.470 | DM] {{Me, her}}.
 [u0573 | 00:57:44.650-00:57:48.749 | Delwath] Okay, but you're not very nice about this. Try try, honey, next time.
 [u0574 | 00:57:53.420-00:57:55.790 | DM] Seeker, Seeker holds up his hand.
 [u0575 | 00:57:57.940-00:58:03.969 | DM] I would love the beautiful golden color of straw.
@@ -586,18 +586,18 @@
 [u0586 | 00:59:05.590-00:59:08.052 | Delwath] or has it taken you some time to
 [u0587 | 00:59:09.270-00:59:11.320 | Delwath] worm your way into our friend?
 [u0588 | 00:59:15.000-00:59:16.700 | DM] Minutes ago
-[u0589 | 00:59:26.620-00:59:38.309 | DM] she turns and she looks you, [[Lyrian]], you said. Your name is where is where is [[Thyron]]? Where is
-[u0590 | 00:59:41.280-00:59:42.730 | DM] [[hilarious]]?
+[u0589 | 00:59:26.620-00:59:38.309 | DM] she turns and she looks you, {{Lyrian}}, you said. Your name is where is where is {{Thyron}}? Where is
+[u0590 | 00:59:41.280-00:59:42.730 | DM] {{hilarious}}?
 [u0591 | 00:59:44.240-00:59:47.500 | DM] You have an Amberlight.
 [u0592 | 00:59:48.670-00:59:50.100 | DM] Where are the rest?
-[u0593 | 00:59:57.400-01:00:04.360 | DM] She turns [[Lyrian]] turns, and like breaking down in tears, I I think they're all dead.
+[u0593 | 00:59:57.400-01:00:04.360 | DM] She turns {{Lyrian}} turns, and like breaking down in tears, I I think they're all dead.
 [u0594 | 01:00:05.440-01:00:10.970 | DM] Taken Gloomshaper took the Refuges
 [u0595 | 01:00:12.120-01:00:15.230 | DM] Harrow and Wend broke through the Sunset Gate
 [u0596 | 01:00:17.280-01:00:20.979 | DM] I fled. It's all falling apart, she says, in tears.
 [u0597 | 01:00:21.840-01:00:25.629 | Delwath] Delwath, like, you know, whisper to her like, you know
 [u0598 | 01:00:26.760-01:00:40.149 | Delwath] we can. We can fix this, you know. Don't don't I know it's that—like, a little encouraging like, you know. Don't, don't, don't despair, and you know, don't. Don't take this personally. She's just not, you know. She's just expressing her grief in her own way.
 [u0599 | 01:00:46.210-01:00:50.060 | DM] So 2 things happen at once. Again.
-[u0600 | 01:00:56.010-01:01:01.310 | DM] First, [[Lyrian]] yells in terror.
+[u0600 | 01:00:56.010-01:01:01.310 | DM] First, {{Lyrian}} yells in terror.
 [u0601 | 01:01:02.600-01:01:04.480 | DM] My steed is in danger.
 [u0602 | 01:01:07.490-01:01:11.543 | DM] and begins running up the stairs, and then
 [u0603 | 01:01:12.310-01:01:15.119 | Delwath] We wake up Faldrak and get him to shoot the ice cannon at people
@@ -659,7 +659,7 @@
 [u0659 | 01:05:31.220-01:05:32.429 | DM] Oops! Where is.
 [u0660 | 01:05:33.120-01:05:34.719 | Delwath] And this is a hundred feet away.
 [u0661 | 01:05:36.337-01:05:37.992 | DM] Yes, but
-[u0662 | 01:05:38.980-01:05:44.449 | DM] let me try and draw quickly a Vindristjarna [[battles]]. How big is Vindristjarna? It's like 200 feet.
+[u0662 | 01:05:38.980-01:05:44.449 | DM] let me try and draw quickly a Vindristjarna {{battles}}. How big is Vindristjarna? It's like 200 feet.
 [u0663 | 01:05:44.450-01:05:45.539 | Wellby] 2 or 300 feet.
 [u0664 | 01:05:50.310-01:05:53.039 | DM] Think about what you're gonna do to fight darkness.
 [u0665 | 01:05:54.020-01:05:55.009 | DM] Give me a sec.
@@ -700,8 +700,8 @@
 [u0700 | 01:09:02.620-01:09:05.080 | Wellby] That was good that looks less friendly.
 [u0701 | 01:09:05.080-01:09:06.540 | DM] That's not all there is.
 [u0702 | 01:09:13.100-01:09:14.520 | Wellby] Trees growing nicely.
-[u0703 | 01:09:16.090-01:09:21.700 | DM] So then here's [[Marion]]. Here's amber stag.
-[u0704 | 01:09:22.010-01:09:29.249 | DM] [[No worries all Jack]], running towards running from his
+[u0703 | 01:09:16.090-01:09:21.700 | DM] So then here's {{Marion}}. Here's amber stag.
+[u0704 | 01:09:22.010-01:09:29.249 | DM] {{No worries all Jack}}, running towards running from his
 [u0705 | 01:09:32.750-01:09:38.449 | DM] running towards the control tower at the moment.
 [u0706 | 01:09:46.840-01:09:54.460 | DM] Okay, go ahead and roll initiative. Well, I in this.
 [u0707 | 01:09:59.990-01:10:00.890 | Kenzo] What?
@@ -745,7 +745,7 @@
 [u0745 | 01:13:44.920-01:13:47.219 | Wellby] Just confirm it. Hit the big bad.
 [u0746 | 01:13:48.030-01:13:49.760 | Wellby] Yeah, sure.
 [u0747 | 01:13:50.640-01:13:52.520 | Delwath] I don't have a better idea.
-[u0748 | 01:13:52.630-01:13:56.899 | Delwath] I don't know if the big bad is [[honor]]. I mean, it's just darkness right? We don't even.
+[u0748 | 01:13:52.630-01:13:56.899 | Delwath] I don't know if the big bad is {{honor}}. I mean, it's just darkness right? We don't even.
 [u0749 | 01:13:56.900-01:14:06.809 | DM] Now all you can really see is darkness, although, you see you can see the shape of this claws beginning to form in this flying creature that seems to be
 [u0750 | 01:14:07.540-01:14:14.340 | DM] face and arms emerging out of what looks like a Gargantuan cloud of darkness.
 [u0751 | 01:14:16.290-01:14:17.150 | Delwath] Right.
@@ -781,12 +781,12 @@
 [u0781 | 01:17:09.580-01:17:21.220 | DM] half of that. So 18 points of necrotic damage. Kenzo takes 0 points of necrotic damage as he ducks out of the way entirely. Faldrak is just beyond the edge of the
 [u0782 | 01:17:21.590-01:17:22.800 | DM] of the shape.
 [u0783 | 01:17:24.050-01:17:32.820 | DM] However, as the darkness swirls around the bodies of this golden Stag and
-[u0784 | 01:17:34.360-01:17:38.319 | DM] [[Lyrian]], the shadows begin to climb over them, and as they
+[u0784 | 01:17:34.360-01:17:38.319 | DM] {{Lyrian}}, the shadows begin to climb over them, and as they
 [u0785 | 01:17:38.920-01:17:45.299 | DM] both fall to the ground, their bodies disintegrate, and shades rise from their corpses.
 [u0786 | 01:17:50.420-01:17:51.350 | Riswynn] Okay.
 [u0787 | 01:17:52.810-01:17:53.880 | DM] Must have this.
 [u0788 | 01:18:02.100-01:18:08.269 | DM] and then the shades will immediately rush
-[u0789 | 01:18:09.430-01:18:13.029 | DM] [[risens]], wearing armor will immediately rush to attack. Faldrak
+[u0789 | 01:18:09.430-01:18:13.029 | DM] {{risens}}, wearing armor will immediately rush to attack. Faldrak
 [u0790 | 01:18:16.920-01:18:22.070 | DM] is looking at you like, why did you call me out here.
 [u0791 | 01:18:23.300-01:18:25.840 | Delwath] Where is the where is the.
 [u0792 | 01:18:25.840-01:18:27.590 | DM] This is the control room. Here.
@@ -850,7 +850,7 @@
 [u0850 | 01:22:40.140-01:22:40.880 | Kenzo] 22.
 [u0851 | 01:22:41.490-01:22:42.060 | DM] Okay,
 [u0852 | 01:22:45.010-01:22:46.589 | DM] I'll just draw an X.
-[u0853 | 01:22:48.530-01:22:58.020 | DM] Oh, and the the Amberlight went out when the darkness hit [[Lyrian]].
+[u0853 | 01:22:48.530-01:22:58.020 | DM] Oh, and the the Amberlight went out when the darkness hit {{Lyrian}}.
 [u0854 | 01:22:58.310-01:22:59.729 | Riswynn] That was very upsetting.
 [u0855 | 01:22:59.980-01:23:01.710 | DM] This light source is gone.
 [u0856 | 01:23:06.910-01:23:12.699 | DM] Okay, yeah, nothing. You succeed on your constitution saving throw nothing happens. Go ahead.
@@ -1061,7 +1061,7 @@
 [u1061 | 01:35:48.100-01:35:48.600 | Delwath] Riswynn.
 [u1062 | 01:35:48.600-01:35:54.206 | DM] Creature that's attacking Wellby as it swings its blade at you, hitting you 3 times,
 [u1063 | 01:35:54.980-01:36:04.490 | DM] says. And you can see now that in inside the interior of this shadowy cloud there's the same sort of thing that
-[u1064 | 01:36:05.070-01:36:17.029 | DM] the the same sort of golden lantern, like thing that the [[Lyrion]] was holding before she was destroyed and turned into a shadow. But it's all twisted with black.
+[u1064 | 01:36:05.070-01:36:17.029 | DM] the the same sort of golden lantern, like thing that the {{Lyrion}} was holding before she was destroyed and turned into a shadow. But it's all twisted with black.
 [u1065 | 01:36:17.030-01:36:17.680 | Wellby] Oh, yeah.
 [u1066 | 01:36:18.760-01:36:25.820 | DM] With black tendrils of shadow, and the light is out, but it's it's thumping almost like a heart.
 [u1067 | 01:36:26.140-01:36:30.769 | DM] and he says the Cloudspinner will not be allowed to return.
@@ -1102,7 +1102,7 @@
 [u1102 | 01:38:32.300-01:38:35.909 | DM] He he does. He's got his like wooden wand.
 [u1103 | 01:38:36.310-01:38:45.379 | Delwath] Attack something else, Faldrak, and stay within 30 come toward. If he wants. Actually, he doesn't even have to disengage, kill some just hurt something that isn't a shade.
 [u1104 | 01:38:47.550-01:38:50.260 | DM] Bye, okay.
-[u1105 | 01:38:50.260-01:38:56.650 | Delwath] And get prepared. How long does it take him to [[target the ice]] if he's in the thing? Can he fire the ice turret the next turn.
+[u1105 | 01:38:50.260-01:38:56.650 | Delwath] And get prepared. How long does it take him to {{target the ice}} if he's in the thing? Can he fire the ice turret the next turn.
 [u1106 | 01:38:59.052-01:39:04.110 | DM] It. It takes him one round to turn it on, and then he can fire at the turn. After that.
 [u1107 | 01:39:04.960-01:39:05.550 | Delwath] Okay.
 [u1108 | 01:39:06.809-01:39:07.209 | DM] So.
@@ -1135,7 +1135,7 @@
 [u1135 | 01:40:48.480-01:40:56.500 | Delwath] Well, if you but can't you? If you have an air, I mean these big, scary black things haven't moved. Do you have an area of effect that would get 4 of them.
 [u1136 | 01:40:57.710-01:41:03.629 | Riswynn] I but 4 of them, and Kenzo, and Seeker, and like.
 [u1137 | 01:41:03.840-01:41:08.959 | Delwath] Now any area of effect that's going off the ship can't. Wouldn't get us right.
-[u1138 | 01:41:10.400-01:41:15.840 | Riswynn] It just wouldn't get any of the [[likes]], either of the 2 swords. I'd really like to get
+[u1138 | 01:41:10.400-01:41:15.840 | Riswynn] It just wouldn't get any of the {{likes}}, either of the 2 swords. I'd really like to get
 [u1139 | 01:41:16.680-01:41:20.559 | Riswynn] big, bad guy and the sword guys. But I can't, because.
 [u1140 | 01:41:20.910-01:41:22.640 | Riswynn] Way Kenzo and.
 [u1141 | 01:41:22.640-01:41:23.999 | Delwath] Put something. Here.
@@ -1217,7 +1217,7 @@
 [u1217 | 01:47:57.580-01:48:05.120 | DM] right? But this corner where Kenzo and Delwath are fairly dark at this point.
 [u1218 | 01:48:06.320-01:48:07.700 | DM] I would say.
 [u1219 | 01:48:08.590-01:48:12.300 | DM] Kenzo's Kenzo's just at the edge of the light.
-[u1220 | 01:48:12.970-01:48:16.339 | DM] Delwath is still in the light of this of this [[little John]].
+[u1220 | 01:48:12.970-01:48:16.339 | DM] Delwath is still in the light of this of this {{little John}}.
 [u1221 | 01:48:18.750-01:48:26.950 | DM] It is going to make 2 attacks against Kenzo.
 [u1222 | 01:48:28.590-01:48:32.750 | DM] That's a 18 and a 15. So they both miss
 [u1223 | 01:48:34.810-01:48:38.310 | DM] this one will also fly in this cloud
@@ -1332,7 +1332,7 @@
 [u1332 | 01:55:46.740-01:55:48.930 | Delwath] Yeah, I don't want to put them at
 [u1333 | 01:55:49.210-01:55:52.220 | Delwath] like up here, like on top of the
 [u1334 | 01:55:52.690-01:55:54.419 | Delwath] on top of the building up here.
-[u1335 | 01:55:55.920-01:55:58.149 | Delwath] [[Why, well did the other like I make it safe]].
+[u1335 | 01:55:55.920-01:55:58.149 | Delwath] {{Why, well did the other like I make it safe}}.
 [u1336 | 01:55:59.170-01:56:00.250 | DM] And.
 [u1337 | 01:56:00.600-01:56:02.100 | Delwath] Where do you think I should put him.
 [u1338 | 01:56:02.630-01:56:05.250 | Riswynn] I was just thinking, I don't want to put them right next to Seeker.
@@ -1366,7 +1366,7 @@
 [u1366 | 01:57:58.500-01:57:59.800 | Kenzo] How do we survive this.
 [u1367 | 01:58:00.820-01:58:02.719 | Delwath] Faldrak is going to ice, storm them to death.
 [u1368 | 01:58:03.520-01:58:05.250 | Kenzo] Oh, yeah, that's right.
-[u1369 | 01:58:05.250-01:58:11.519 | DM] And I'm about to bring out my pillar of [[while we make it]].
+[u1369 | 01:58:05.250-01:58:11.519 | DM] And I'm about to bring out my pillar of {{while we make it}}.
 [u1370 | 01:58:11.520-01:58:12.480 | Riswynn] Burning.
 [u1371 | 01:58:12.640-01:58:15.730 | Wellby] Yeah. Death saving throw.
 [u1372 | 01:58:17.336-01:58:19.970 | Wellby] Is this just a straight D 20.
@@ -1415,7 +1415,7 @@
 [u1415 | 02:01:02.540-02:01:05.229 | DM] 2 attacks missed. The 3rd attack hits.
 [u1416 | 02:01:05.640-02:01:08.279 | Wellby] Good you mean that's good is what you mean.
 [u1417 | 02:01:08.280-02:01:11.610 | DM] Wait! Wait! I don't get my reaction back until my turn.
-[u1418 | 02:01:12.350-02:01:20.359 | DM] That's another 13, 18 points of damage to Kenzo, and that ends the [[wind shades]] turn
+[u1418 | 02:01:12.350-02:01:20.359 | DM] That's another 13, 18 points of damage to Kenzo, and that ends the {{wind shades}} turn
 [u1419 | 02:01:21.912-02:01:27.650 | DM] the shades now will run towards.
 [u1420 | 02:01:28.870-02:01:31.650 | DM] You're not gonna be able to do anything against this one.
 [u1421 | 02:01:32.120-02:01:34.250 | Delwath] But they're mindless creatures.
@@ -1446,7 +1446,7 @@
 [u1446 | 02:03:04.310-02:03:09.760 | DM] Yeah, it's I mean, it's not quite bloody, but it's I mean, you've barely hit it right. Nobody has been.
 [u1447 | 02:03:10.150-02:03:10.969 | Kenzo] I mean other than me.
 [u1448 | 02:03:10.970-02:03:13.800 | Delwath] I haven't even gotten an attack, and nobody's well, Riswynn, it's.
-[u1449 | 02:03:13.800-02:03:16.600 | Wellby] Things, but not it. I did [[look. You had points]] of damage to it.
+[u1449 | 02:03:13.800-02:03:16.600 | Wellby] Things, but not it. I did {{look. You had points}} of damage to it.
 [u1450 | 02:03:16.600-02:03:17.120 | DM] Yeah.
 [u1451 | 02:03:17.370-02:03:19.358 | DM] Wellby hit it when it was
 [u1452 | 02:03:19.690-02:03:20.579 | Delwath] And Kenzo hit it.
@@ -1527,7 +1527,7 @@
 [u1527 | 02:07:19.880-02:07:23.409 | DM] There it is. It is a constitution saving.
 [u1528 | 02:07:23.410-02:07:24.040 | Delwath] Yep.
 [u1529 | 02:07:25.120-02:07:26.609 | Delwath] I rolled a wisdom save.
-[u1530 | 02:07:26.610-02:07:30.039 | DM] Okay? Well, you still didn't succeed. [[Whether it was direct]].
+[u1530 | 02:07:26.610-02:07:30.039 | DM] Okay? Well, you still didn't succeed. {{Whether it was direct}}.
 [u1531 | 02:07:32.330-02:07:37.800 | DM] You take 15 points of necrotic damage and you are blinded until the start of your turn.
 [u1532 | 02:07:38.950-02:07:40.730 | DM] and these 2 lights go out.
 [u1533 | 02:07:47.220-02:07:49.300 | DM] but that's its action.
@@ -1608,7 +1608,7 @@
 [u1608 | 02:13:14.730-02:13:16.750 | Riswynn] So he takes 6d12.
 [u1609 | 02:13:19.450-02:13:21.140 | DM] Yeah, it rolled it for you.
 [u1610 | 02:13:21.530-02:13:22.140 | Riswynn] Yeah.
-[u1611 | 02:13:22.540-02:13:23.640 | DM] Okay? [[30 seconds]].
+[u1611 | 02:13:22.540-02:13:23.640 | DM] Okay? {{30 seconds}}.
 [u1612 | 02:13:23.960-02:13:28.639 | Delwath] How much was the healing your your rolls are set to Private Kate. We can't see what you roll.
 [u1613 | 02:13:29.090-02:13:31.360 | Riswynn] Oh, I thought Tim's could see this.
 [u1614 | 02:13:31.360-02:13:32.210 | DM] I can.
@@ -1625,7 +1625,7 @@
 [u1625 | 02:14:02.540-02:14:07.119 | DM] massive how big is it. Maybe it's not massive. It's only medium.
 [u1626 | 02:14:08.440-02:14:14.760 | DM] An iron construct is going to appear and start pummeling this blinded shadow creature with advantage.
 [u1627 | 02:14:16.331-02:14:28.190 | DM] That is going to be 4 attacks, all with spell attack so plus 10 now.
-[u1628 | 02:14:31.040-02:14:38.150 | DM] [[but it will turn so that's 1820]].
+[u1628 | 02:14:31.040-02:14:38.150 | DM] {{but it will turn so that's 1820}}.
 [u1629 | 02:14:41.365-02:14:49.579 | DM] Hit, hit, hit, hit all 4 of the attacks hit as Seeker's metal construct, begins pummeling on this
 [u1630 | 02:14:49.880-02:14:52.890 | DM] this cloud, this shade of darkness.
 [u1631 | 02:14:53.360-02:15:03.530 | DM] and all 4 of those attacks do a total of 48, plus 12—48, plus 48
@@ -1650,7 +1650,7 @@
 [u1650 | 02:16:33.171-02:16:37.840 | DM] But I think there's something that happens when gets hit.
 [u1651 | 02:16:40.290-02:16:43.280 | DM] Oh, and Seeker will also give inspiration to
 [u1652 | 02:16:44.959-02:16:48.510 | DM] Wellby still has it to.
-[u1653 | 02:16:50.240-02:16:56.360 | DM] Yeah, we're the [[closest woman construct]].
+[u1653 | 02:16:50.240-02:16:56.360 | DM] Yeah, we're the {{closest woman construct}}.
 [u1654 | 02:16:59.757-02:17:04.919 | DM] So this thing that hits the construct takes 6 points of fire damage
 [u1655 | 02:17:05.080-02:17:09.840 | DM] and screeches as the construct. Yeah, it's hit.
 [u1656 | 02:17:10.120-02:17:18.230 | DM] and that ends Seeker's now that ends these ones. But these 3 0, they get to roll, to resist blindness
@@ -1728,13 +1728,13 @@
 [u1728 | 02:22:04.070-02:22:10.350 | DM] make 2 constitution saving throws.
 [u1729 | 02:22:15.590-02:22:16.720 | Delwath] 17.
 [u1730 | 02:22:16.720-02:22:17.520 | DM] Succeeds.
-[u1731 | 02:22:19.230-02:22:20.900 | Delwath] [[And no weapon]].
+[u1731 | 02:22:19.230-02:22:20.900 | Delwath] {{And no weapon}}.
 [u1732 | 02:22:21.090-02:22:22.320 | DM] 11 fails.
 [u1733 | 02:22:26.540-02:22:32.850 | DM] You take 14 points of necrotic damage, and you're blinded till the start of your next turn.
 [u1734 | 02:22:35.070-02:22:37.180 | Delwath] Are these guys badly hurt at all?
 [u1735 | 02:22:37.700-02:22:42.510 | DM] One of them's almost dead. The other one has only been hit by.
 [u1736 | 02:22:45.440-02:22:47.149 | DM] has it? What's it been hit by.
-[u1737 | 02:22:47.150-02:22:49.410 | Delwath] Wow! Half damage from this [[desk]].
+[u1737 | 02:22:47.150-02:22:49.410 | Delwath] Wow! Half damage from this {{desk}}.
 [u1738 | 02:22:49.410-02:22:52.859 | DM] That's it. The only thing has been hit by is half damage from.
 [u1739 | 02:22:53.450-02:22:54.110 | Delwath] All right.
 [u1740 | 02:22:56.385-02:22:56.870 | Delwath] Okay.
@@ -1783,7 +1783,7 @@
 [u1783 | 02:25:35.560-02:25:37.187 | DM] 55. Okay?
 [u1784 | 02:25:41.900-02:25:42.600 | DM] okay.
 [u1785 | 02:25:45.690-02:25:46.840 | DM] okay.
-[u1786 | 02:25:47.490-02:25:55.570 | DM] And then I think they don't have great Dex. Oh, that's a natural 20. That's [[60 owl Dow]].
+[u1786 | 02:25:47.490-02:25:55.570 | DM] And then I think they don't have great Dex. Oh, that's a natural 20. That's {{60 owl Dow}}.
 [u1787 | 02:25:56.090-02:26:01.030 | DM] So closest one succeeds fail, fail, fail.
 [u1788 | 02:26:01.200-02:26:05.370 | DM] and then the last one doesn't get a Dex save it just gets hit right, or does. It gets save.
 [u1789 | 02:26:05.370-02:26:07.320 | Wellby] No, no, save just takes it.
@@ -1821,7 +1821,7 @@
 [u1821 | 02:28:12.610-02:28:15.519 | Kenzo] All right. What's what's their what's their weaknesses?
 [u1822 | 02:28:15.800-02:28:18.829 | DM] You never soul sighted one of these shadow clouds.
 [u1823 | 02:28:18.830-02:28:19.820 | Kenzo] I'll Soul Sight him.
-[u1824 | 02:28:20.683-02:28:30.250 | DM] They are immune to charmed exhaustion, frightened, paralyzed, petrified, poisoned, stunned, unconscious, and poison damage and resist necrotic [[insanity]].
+[u1824 | 02:28:20.683-02:28:30.250 | DM] They are immune to charmed exhaustion, frightened, paralyzed, petrified, poisoned, stunned, unconscious, and poison damage and resist necrotic {{insanity}}.
 [u1825 | 02:28:31.120-02:28:32.050 | Kenzo] What about charm?
 [u1826 | 02:28:32.770-02:28:33.420 | DM] Yeah. Charmed.
 [u1827 | 02:28:33.420-02:28:34.340 | Delwath] Need to trim.
@@ -1959,7 +1959,7 @@
 [u1959 | 02:38:19.120-02:38:20.010 | Delwath] Hi, next.
 [u1960 | 02:38:20.830-02:38:22.979 | DM] You know the shades are next, which.
 [u1961 | 02:38:22.980-02:38:24.079 | Delwath] The shades are next.
-[u1962 | 02:38:24.200-02:38:32.079 | DM] Which fails, so, as Seeker calls out the name of this shade. [[Revenant]] says.
+[u1962 | 02:38:24.200-02:38:32.079 | DM] Which fails, so, as Seeker calls out the name of this shade. {{Revenant}} says.
 [u1963 | 02:38:32.360-02:38:41.920 | DM] Take that he takes 35 points of damage and is incapacitated until the start of
 [u1964 | 02:38:44.960-02:38:50.360 | DM] Seeker's next turn, so that will knock him out from his next turn.
 [u1965 | 02:38:52.190-02:38:55.040 | DM] I'm not going to use an X for that. I'm going to use
@@ -2049,7 +2049,7 @@
 [u2049 | 02:44:58.420-02:45:03.020 | DM] Currently, definitely the one that Delwath just did a ton of damage to.
 [u2050 | 02:45:03.220-02:45:05.940 | Delwath] I'm also gonna move over here to put more people in the light.
 [u2051 | 02:45:07.910-02:45:17.649 | DM] The other 2 are have not been that hurt, but this one here is both blinded and static, so has a really hard time hitting anybody.
-[u2052 | 02:45:17.800-02:45:23.770 | DM] [[and so exceeded on its acts against anything it saves, it gets to defeat them]].
+[u2052 | 02:45:17.800-02:45:23.770 | DM] {{and so exceeded on its acts against anything it saves, it gets to defeat them}}.
 [u2053 | 02:45:26.810-02:45:29.590 | Wellby] Oh, wait! So the blinded one is more or less damaged.
 [u2054 | 02:45:29.590-02:45:31.769 | DM] Blinded one is more damaged, but.
 [u2055 | 02:45:31.770-02:45:35.759 | Delwath] It's also prone, Tim. Not that it super matters, but.
@@ -2060,7 +2060,7 @@
 [u2060 | 02:45:43.530-02:45:45.980 | DM] Okay, it's up to me whether I get yes, it's
 [u2061 | 02:45:45.980-02:45:58.629 | DM] this one here is not, that is, more wounded, but is also blind and confused by synaptic static. So it's really hard for it to do anything, because it rolls with disadvantage and minus 1d6
 [u2062 | 02:45:58.630-02:45:59.820 | DM] awesome.
-[u2063 | 02:46:00.860-02:46:02.190 | Wellby] [[Let's like one has to deal with]].
+[u2063 | 02:46:00.860-02:46:02.190 | Wellby] {{Let's like one has to deal with}}.
 [u2064 | 02:46:02.190-02:46:04.410 | Delwath] Shoot the one I just did 70 points of damage on.
 [u2065 | 02:46:07.760-02:46:08.730 | DM] Now it's.
 [u2066 | 02:46:10.440-02:46:11.250 | Wellby] Some.
@@ -2079,7 +2079,7 @@
 [u2079 | 02:47:14.220-02:47:23.670 | DM] That's 47 points of damage on Seeker and Seeker needs to make 3 Con saves with advantage
 [u2080 | 02:47:25.920-02:47:29.879 | DM] just barely succeeds to keep his constructs alive.
 [u2081 | 02:47:32.650-02:47:42.890 | DM] And how much damage was that 47 but falls unconscious.
-[u2082 | 02:47:45.140-02:47:45.859 | DM] So [[other kinds]].
+[u2082 | 02:47:45.140-02:47:45.859 | DM] So {{other kinds}}.
 [u2083 | 02:47:45.860-02:47:46.600 | Delwath] Yikes.
 [u2084 | 02:47:46.600-02:47:47.240 | DM] That's.
 [u2085 | 02:47:47.840-02:47:52.021 | Delwath] So like falls unconscious like is needs to be healed because he's making death saves.
@@ -2093,7 +2093,7 @@
 [u2093 | 02:47:59.670-02:48:02.889 | Kenzo] Seeker is now like killed more than me. I think I think Seeker.
 [u2094 | 02:48:05.170-02:48:06.520 | DM] Kenzo's up.
 [u2095 | 02:48:08.060-02:48:15.030 | Kenzo] This is the longest combat we've like ever had ever this for like hours. How is this still going on?
-[u2096 | 02:48:15.820-02:48:18.530 | Delwath] [[They all to our damage]].
+[u2096 | 02:48:15.820-02:48:18.530 | Delwath] {{They all to our damage}}.
 [u2097 | 02:48:18.530-02:48:23.870 | DM] This is only the. This is only the beginning of the 4th round.
 [u2098 | 02:48:24.620-02:48:31.100 | DM] and you've mostly cleared them. It's just the big guy was hiding for a while to deal with Kenzo's fright.
 [u2099 | 02:48:31.500-02:48:36.060 | Kenzo] Which which one is is weakest next to me right now.
@@ -2166,7 +2166,7 @@
 [u2166 | 02:52:35.440-02:52:41.120 | DM] and 8 icicle blasts are gonna come flying down on the shadow monster's head.
 [u2167 | 02:52:41.760-02:52:48.560 | DM] Natural, 20 natural one only the natural 20 hits on that one.
 [u2168 | 02:52:49.466-02:52:54.829 | DM] Hit hit natural one so actually just exactly the same as before.
-[u2169 | 02:52:57.300-02:53:02.710 | DM] This one is not resistant to cold damage. So that's [[90 sex]].
+[u2169 | 02:52:57.300-02:53:02.710 | DM] This one is not resistant to cold damage. So that's {{90 sex}}.
 [u2170 | 02:53:05.040-02:53:07.159 | DM] that's a that's a terrible roll.
 [u2171 | 02:53:07.930-02:53:09.569 | DM] I don't got you Seeker.
 [u2172 | 02:53:11.360-02:53:15.720 | DM] Somebody get Seeker Riswynn. You're up.
@@ -2306,7 +2306,7 @@
 [u2306 | 03:03:14.210-03:03:20.780 | DM] the same ones who attacked the Redsun Watch and
 [u2307 | 03:03:21.150-03:03:27.060 | DM] sent rivers of darkness oozing through the cracks in the Sunset Gate are defeated.
 [u2308 | 03:03:29.200-03:03:38.840 | DM] Seeker turns back from a giant ape into the Lady Eventide, distraught
-[u2309 | 03:03:39.180-03:03:46.369 | DM] both by the seemingly irreversible death of [[Lyrian]] and her stag, and by the
+[u2309 | 03:03:39.180-03:03:46.369 | DM] both by the seemingly irreversible death of {{Lyrian}} and her stag, and by the
 [u2310 | 03:03:52.830-03:03:59.360 | DM] and as it is 1220, in the interest of time rather than role playing it out, she in her distraught.
 [u2311 | 03:03:59.760-03:04:07.380 | DM] high-pitched, semi-Seeker voice seems very agitated and basically says
 [u2312 | 03:04:07.970-03:04:10.030 | DM] they will keep coming. We have to
@@ -2323,8 +2323,8 @@
 [u2323 | 03:04:38.540-03:04:39.739 | Delwath] Can we recover it?
 [u2324 | 03:04:40.710-03:04:43.118 | DM] No, it's not gone, it is
 [u2325 | 03:04:44.580-03:04:50.500 | DM] It went out when she died, and it's now like a banked fire.
-[u2326 | 03:04:51.710-03:04:57.540 | DM] Somebody would have to attune to it, to [[watch it into light]] again, and nobody has attunement slots as far as.
-[u2327 | 03:04:58.890-03:05:01.009 | Riswynn] [[I've just done the tune from this crown]].
+[u2326 | 03:04:51.710-03:04:57.540 | DM] Somebody would have to attune to it, to {{watch it into light}} again, and nobody has attunement slots as far as.
+[u2327 | 03:04:58.890-03:05:01.009 | Riswynn] {{I've just done the tune from this crown}}.
 [u2328 | 03:05:02.230-03:05:02.940 | DM] Yeah,
 [u2329 | 03:05:05.330-03:05:13.409 | DM] right. Riswynn can't actually die as long as you're willing to sacrifice people so you can never actually lose a combat as long as Riswynn's letting other people die.
 [u2330 | 03:05:13.750-03:05:16.070 | Riswynn] Riswynn's not doing that.
@@ -2348,7 +2348,7 @@
 [u2348 | 03:07:11.980-03:07:14.855 | DM] The elder trees of the
 [u2349 | 03:07:16.130-03:07:23.250 | DM] of the elves, of of the Elderwood, the god trees, but big like
 [u2350 | 03:07:23.740-03:07:27.899 | DM] a hundred 50 feet tall, taller than an oak normally should be.
-[u2351 | 03:07:29.600-03:07:39.759 | DM] [[Just put it on some more things]], and despite this being totally parched, dry desert.
+[u2351 | 03:07:29.600-03:07:39.759 | DM] {{Just put it on some more things}}, and despite this being totally parched, dry desert.
 [u2352 | 03:07:39.960-03:07:48.320 | DM] you can see white blossoms growing around the oak, although there's no leaves and a pool
 [u2353 | 03:07:49.380-03:07:55.960 | DM] of some dark red, not blood. It looks like wine, liquid.
 [u2354 | 03:07:57.510-03:07:58.000 | Delwath] Hmm.

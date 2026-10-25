@@ -95,7 +95,7 @@ Delwath: Presumably this is where—yeah, go ahead, Kate. Presumably that is whe
 Seeker: Right. That was my first thought.
 
 %% u1750-u1752 %%
-Riswynn: Monster hunting, or if we think that it might have some sort of connection to the other place, because monsters like to go back and forth—I mean, [[all the purpose is being monsters]]. I'm wondering if it can be a useful route. I don't think we're just monster-hunting.
+Riswynn: Monster hunting, or if we think that it might have some sort of connection to the other place, because monsters like to go back and forth—I mean, {{all the purpose is being monsters}}. I'm wondering if it can be a useful route. I don't think we're just monster-hunting.
 
 %% u1753 %%
 Seeker: What cardinal direction does that tunnel head away in?
@@ -131,7 +131,7 @@ Seeker: Well, if you insist, I'll just have a quick—
 Kenzo: I mean, we don't know.
 
 %% u1770 %%
-Seeker: [[Bring to.]]
+Seeker: {{Bring to.}}
 
 %% u1771 %%
 Kenzo: You know, we don't know. We know something is not right here, right, in this area. We don't know exactly what we're looking for.
@@ -254,7 +254,7 @@ Seeker: Oh, earlier I used stone sense while we were in the marketplace, and 300
 DM: You haven't found any stone here at all.
 
 %% u1841-u1842 %%
-Seeker: Well, [[Emerald]], and the hammer is not made of iron?
+Seeker: Well, {{Emerald}}, and the hammer is not made of iron?
 
 %% u1843-u1847 %%
 DM: It's made of steel. It's a warhammer, right? But your stone sense doesn't detect magic. It detects valuable stone, or potentially gems, or things like that.
@@ -302,10 +302,10 @@ Kenzo: Is there any way to get—can any one of us sense further down this tunne
 Seeker: We'll just send Taster down. We—
 
 %% u1864 %%
-Kenzo: [[Were case, there.]]
+Kenzo: {{Were case, there.}}
 
 %% u1865 %%
-Riswynn: [[I'm the rocks.]]
+Riswynn: {{I'm the rocks.}}
 
 %% u1866 %%
 Delwath: I could scout invisibly.
@@ -317,7 +317,7 @@ Seeker: Sure, yeah, it sounds great.
 Unknown: Or somebody else.
 
 %% u1869 %%
-Wellby: [[Is good play.]]
+Wellby: {{Is good play.}}
 
 %% u1870 %%
 Unknown: Very supportive bunch.
@@ -446,7 +446,7 @@ Delwath: And wait, did you say I saw something?
 DM: Like a metal, some sort of very dull, almost grayish silver, across the way from you.
 
 %% u1957-u1958 %%
-Delwath: Is it possible to chip off a piece, [[or a prospect]]?
+Delwath: Is it possible to chip off a piece, {{or a prospect}}?
 
 %% u1959 %%
 DM: It's across the gap from you.
@@ -512,13 +512,13 @@ Kenzo: This is some Lord of the Rings shit.
 Delwath: It's totally the Balrog from Lord of the Rings.
 
 %% u1986 %%
-Kenzo: [[And why don't we don't not safe.]] We just have to do this.
+Kenzo: {{And why don't we don't not safe.}} We just have to do this.
 
 %% u1987-u1990 %%
 DM: You don't hear anything of the hammer falling back. You have a dull piece of metal now.
 
 %% u1991 %%
-Kenzo: [[Our so far.]]
+Kenzo: {{Our so far.}}
 
 %% u1992 %%
 Delwath: I'll go back.
@@ -554,7 +554,7 @@ Delwath: I mean, it's obviously mithril.
 Unknown: That.
 
 %% u2007 %%
-Wellby: [[He's really tonight.]]
+Wellby: {{He's really tonight.}}
 
 %% u2008 %%
 DM: Oh yeah, it is not mithril.

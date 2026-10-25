@@ -65,13 +65,13 @@ Delwath: So I'm gonna guess—
 Riswynn: Pretty much labeled, like—
 
 %% u2066-u2067 %%
-Seeker: Yeah. [[Right reason no.]]
+Seeker: Yeah. {{Right reason no.}}
 
 %% u2068 %%
 Unknown: I'm not—
 
 %% u2069-u2070 %%
-Kenzo: The only one charge [[me courage is—]]
+Kenzo: The only one charge {{me courage is—}}
 
 %% u2071-u2073 %%
 DM: It lets you cast Light on command, but once per day you can cast Daylight, which is much more light.
@@ -224,7 +224,7 @@ Kenzo: For us, you want to negotiate if—
 Seeker: You want payment on delivery.
 
 %% u2151 %%
-Kenzo: Yeah, payment on delivery, very good. [[The show show show will give]], and then—
+Kenzo: Yeah, payment on delivery, very good. {{The show show show will give}}, and then—
 
 %% u2152 %%
 Seeker: We'll give it to you once we're there. That's what I'm talking about.
@@ -260,7 +260,7 @@ Kenzo: Oh yeah, I soul sensed her. Yeah.
 Riswynn: Well, you would advise us then with the wisdom that you use to protect your people about what we should be wary of down that tunnel.
 
 %% u2171-u2172 %%
-Unknown: [[During]] your three pieces of silver.
+Unknown: {{During}} your three pieces of silver.
 
 %% u2173 %%
 Kenzo: I whisper to Riswynn, "She's happy with the silver."
@@ -275,7 +275,7 @@ Riswynn: And advise us as well as you can.
 DM: Come.
 
 %% u2178 %%
-Kenzo: [[Sis color that talks about]]—we'll give her two more silver if she takes us all the way there. See if she'll take us there for two more.
+Kenzo: {{Sis color that talks about}}—we'll give her two more silver if she takes us all the way there. See if she'll take us there for two more.
 
 %% u2179 %%
 Unknown: She's gonna take us to that.
@@ -320,7 +320,7 @@ Seeker: We don't know.
 Unknown: You don't know.
 
 %% u2204 %%
-Riswynn: [[The other notes.]] Yeah.
+Riswynn: {{The other notes.}} Yeah.
 
 %% u2205 %%
 DM: No idea.
@@ -347,7 +347,7 @@ Kenzo: Yeah, can we ask more questions about when they're coming?
 Wellby: What route they might take?
 
 %% u2222 %%
-Seeker: [[Would critical.]]
+Seeker: {{Would critical.}}
 
 %% u2223-u2234 %%
 DM: As you're talking, she's starting to lead you back down the corridor that you came in, back out, now coming back up to the room with the statue. Remember there were three exits from this room with the statue. She takes you to the one heading northwest a little bit, just a short corridor that then leads into a larger corridor which cuts the edge around a large circular room, which is also pitch black. Those of you who have dark—I guess you have torches, right?
@@ -374,7 +374,7 @@ DM: And just says, "Quickly, quickly now. Follow." Takes you down to a passagewa
 DM: As the passageway slopes down a little bit, she stops after about 40 feet, and you see here, now heading directly east, a set of rusty iron bars with a rusty padlock and chain locking them shut, and beyond them a tunnel leading to the east.
 
 %% u2268 %%
-Kenzo: [[And it's just all often that we like long more]]—we just went down Long North Road for a while, though?
+Kenzo: {{And it's just all often that we like long more}}—we just went down Long North Road for a while, though?
 
 %% u2269 %%
 Seeker: Well, that's the dwarven highway to the north. I think we passed that. That was a gate, an archway, and I think we went to the right. So we're underneath the entrance at ground level, I think.
@@ -428,7 +428,7 @@ Seeker: First I point out to them?
 Riswynn: For more silver?
 
 %% u2290 %%
-DM: [[It didn't know]]—she waits for you to give her the silver.
+DM: {{It didn't know}}—she waits for you to give her the silver.
 
 %% u2291 %%
 Seeker: We had a deal.
@@ -467,10 +467,10 @@ Seeker: Perhaps they're creatures corrupted by the mind flayers.
 Kenzo: Where are the mind flayers?
 
 %% u2310-u2311 %%
-DM: You say that, "Where are the mind flayers?" [[Enterprise.]]
+DM: You say that, "Where are the mind flayers?" {{Enterprise.}}
 
 %% u2312 %%
-Kenzo: [[There's our indoors shimmy you're doing.]]
+Kenzo: {{There's our indoors shimmy you're doing.}}
 
 %% u2313-u2316 %%
 DM: Right. Her eyes kind of go wide, and she says, "You know? Coming. They're coming."
@@ -527,7 +527,7 @@ DM: Go and see what happens to your precious world.
 Kenzo: She's scared of the mind flayers.
 
 %% u2347-u2351 %%
-DM: [[Now have you—]] Go. Hide in your cities. See what happens. Go.
+DM: {{Now have you—}} Go. Hide in your cities. See what happens. Go.
 
 %% u2352 %%
 Kenzo: Okay.
@@ -653,7 +653,7 @@ Kenzo: That's right. But, I mean—
 Riswynn: If she wasn't describing—
 
 %% u2404-u2405 %%
-Kenzo: [[True. So tangents.]] Or connected to the quiet.
+Kenzo: {{True. So tangents.}} Or connected to the quiet.
 
 %% u2406 %%
 Seeker: Last piece: how does she and her people, how do they benefit from helping the mind flayers?
@@ -674,19 +674,19 @@ Unknown: You know.
 Kenzo: Whatever the hell these things are, I feel like there's got to be some connection between this mind flayer army that's massing someplace and whatever the fuck it is that's going on with this interdimensional portal. Feels—
 
 %% u2414 %%
-Riswynn: [[I need to mention a portal in I'm raising.]]
+Riswynn: {{I need to mention a portal in I'm raising.}}
 
 %% u2415-u2416 %%
-Seeker: [[That we sold them.]] It's totally, it's—
+Seeker: {{That we sold them.}} It's totally, it's—
 
 %% u2417 %%
-Kenzo: [[Not going away 2020 Algar.]]
+Kenzo: {{Not going away 2020 Algar.}}
 
 %% u2418 %%
 Seeker: However, the mind flayer army might be fake news because David just made that up.
 
 %% u2419-u2420 %%
-Delwath: That's true. [[To it on conspiracy]] about the mind flayer.
+Delwath: That's true. {{To it on conspiracy}} about the mind flayer.
 
 %% u2421 %%
 Kenzo: No, no, that's—
@@ -695,7 +695,7 @@ Kenzo: No, no, that's—
 Delwath: Mockers are spreading the word that the mind flayer army's coming.
 
 %% u2423 %%
-Kenzo: Oh, that's true. [[You could carry is.]] What's her name again?
+Kenzo: Oh, that's true. {{You could carry is.}} What's her name again?
 
 %% u2424 %%
 DM: Inakara.
@@ -704,10 +704,10 @@ DM: Inakara.
 Delwath: Inakara.
 
 %% u2426-u2427 %%
-Kenzo: Inakara. [[2020 and tell our tag or 2027 2020.]]
+Kenzo: Inakara. {{2020 and tell our tag or 2027 2020.}}
 
 %% u2428-u2432 %%
-Wellby: It's not until right now just how ridiculous it strikes me our plan is. Our plan is five people sneak underground into a castle. We have no idea what's in here, [[remotely equipped to handle]]. It didn't cross my mind earlier. This is a terrible plan.
+Wellby: It's not until right now just how ridiculous it strikes me our plan is. Our plan is five people sneak underground into a castle. We have no idea what's in here, {{remotely equipped to handle}}. It didn't cross my mind earlier. This is a terrible plan.
 
 %% u2433 %%
 Delwath: Confidence. Yep.

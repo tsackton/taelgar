@@ -53,7 +53,7 @@ Wellby: There's a camp by the spring ahead. We could rest.
 DM: I was hoping to rest there, yes.
 
 %% u3147 %%
-Wellby: [[Seeking a privacy cooking.]]
+Wellby: {{Seeking a privacy cooking.}}
 
 %% u3148-u3153 %%
 DM: As you head up the canyon, you see the ogres' camp. There's a giant vulture with a javelin sticking out of it, dead, rotting, drying in the sun. There's a large hide curtain hanging incompletely down, casting some shade under an overhang. There is a spring, which seems like it would be nice except for the refuse pile that's inexplicably placed directly next to the water source, and the whole place smells awful. There's nothing really to find here. There's just dead animals and trash. Doesn't seem like this camp has encountered any humanoids anytime recently. Amil looks shocked and disgusted, and he's like, 'It's only another few hours. Maybe we just press on.'
@@ -158,13 +158,13 @@ DM: My preference generally is not Sundays.
 Unknown: Because.
 
 %% u3224-u3227 %%
-Delwath: [[Twice]] is probably fine too. I just—normally we do something on Saturday night. Like, let's do the…
+Delwath: {{Twice}} is probably fine too. I just—normally we do something on Saturday night. Like, let's do the…
 
 %% u3228 %%
 DM: …twenty-seventh, with a backup of the twenty-eighth. Does that work for everybody?
 
 %% u3229-u3230 %%
-Kenzo: Any of those nights is fine for me. First, you should let us know when we're going to do the [[punk]].
+Kenzo: Any of those nights is fine for me. First, you should let us know when we're going to do the {{punk}}.
 
 %% u3231 %%
 Seeker: Yeah.

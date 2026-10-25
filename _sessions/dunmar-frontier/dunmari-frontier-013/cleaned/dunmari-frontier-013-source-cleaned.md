@@ -2000,7 +2000,7 @@
 [u2000 | 02:35:36.540-02:35:43.200 | DM] See here, it's it's flesh and it staggers back with that hit now clearly
 [u2001 | 02:35:45.240-02:35:49.590 | DM] Clearly visibly damaged and looking like it's hurting
 [u2002 | 02:35:50.760-02:35:52.320 | DM] As seeker.
-[u2003 | 02:35:55.020-02:36:05.250 | Seeker] Draws glowing images of giant hedge clippers mortal enemy of this creature, in the air and [[enlarges it before it's them]] in vicious mockery.
+[u2003 | 02:35:55.020-02:36:05.250 | Seeker] Draws glowing images of giant hedge clippers mortal enemy of this creature, in the air and {{enlarges it before it's them}} in vicious mockery.
 [u2004 | 02:36:07.440-02:36:08.820 | DM] That's wisdom.
 [u2005 | 02:36:10.530-02:36:10.860 | Seeker] Saving
 [u2006 | 02:36:11.490-02:36:12.030 | Unknown] Fails.
@@ -2028,7 +2028,7 @@
 [u2028 | 02:37:57.630-02:37:59.880 | DM] Why you don't get the crit, you take the lower but
 [u2029 | 02:38:00.360-02:38:02.160 | DM] All of those still hit so like
 [u2030 | 02:38:02.670-02:38:05.760 | DM] I'm staggering, through the sort of pain of your
-[u2031 | 02:38:07.500-02:38:14.100 | Kenzo] [[Of the slurry isn't her stuff blow. Isn't this]] and flurry of poison spores flying everywhere.
+[u2031 | 02:38:07.500-02:38:14.100 | Kenzo] {{Of the slurry isn't her stuff blow. Isn't this}} and flurry of poison spores flying everywhere.
 [u2032 | 02:38:15.120-02:38:26.070 | DM] Um, and again it staggers back and it's like bits of it are starting to slump off and the mud is kind of dripping down and fragments of vines are
 [u2033 | 02:38:27.570-02:38:29.040 | DM] Are sort of cracking as
 [u2034 | 02:38:33.390-02:38:34.920 | Delwath] Wait, it gets to go before we go.
@@ -2101,7 +2101,7 @@
 [u2101 | 02:43:30.090-02:43:31.740 | Delwath] As it falls dead.
 [u2102 | 02:43:32.640-02:43:37.110 | Delwath] You see like a thin stream of
 [u2103 | 02:43:38.340-02:43:40.350 | Delwath] Of like pale gray, white
-[u2104 | 02:43:41.790-02:43:44.730 | Delwath] Come from the shadow thing, and [[by one have]] Delwath.
+[u2104 | 02:43:41.790-02:43:44.730 | Delwath] Come from the shadow thing, and {{by one have}} Delwath.
 [u2105 | 02:43:51.120-02:43:51.660 | Seeker] Come from where
 [u2106 | 02:43:52.380-02:43:53.250 | Delwath] The thing we killed
 [u2107 | 02:43:57.000-02:43:57.420 | DM] And
@@ -2144,7 +2144,7 @@
 [u2144 | 02:47:12.600-02:47:14.370 | Kenzo] The gross monster. that was poisoning the water.
 [u2145 | 02:47:14.610-02:47:15.060 | Unknown] Yeah.
 [u2146 | 02:47:17.520-02:47:20.700 | Riswynn] There's a separate summoning circle that they use to summon the
-[u2147 | 02:47:21.960-02:47:25.170 | Riswynn] Animal carcass [[postulating]] demon or
+[u2147 | 02:47:21.960-02:47:25.170 | Riswynn] Animal carcass {{postulating}} demon or
 [u2148 | 02:47:26.250-02:47:30.480 | Riswynn] Like, should we look around for another circle to destroy or
 [u2149 | 02:47:30.630-02:47:31.590 | Delwath] I mean, is this
 [u2150 | 02:47:32.130-02:47:33.930 | Riswynn] Two different things came through that circle.

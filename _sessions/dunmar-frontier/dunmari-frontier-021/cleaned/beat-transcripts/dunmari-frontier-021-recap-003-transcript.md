@@ -80,7 +80,7 @@ Kenzo: Horizontally, yeah.
 DM: And the bowstring is, I think I called it, flaming... Let me make sure I can find it here.
 
 %% u1146 %%
-Seeker: [[We get a comeback weeks to for those games again.]]
+Seeker: {{We get a comeback weeks to for those games again.}}
 
 %% u1147 %%
 Kenzo: Yeah, well, what's the name of the ring again, Tim? Sorry, Ring of...?
@@ -152,7 +152,7 @@ DM: That seems like the one that's the most practically useful.
 Kenzo: Okay, all right. So let's just start. At night, you guys see—it's like...
 
 %% u1191-u1192 %%
-DM: [[Starting you]]—flaming arrows go up into the sky and then swing around.
+DM: {{Starting you}}—flaming arrows go up into the sky and then swing around.
 
 %% u1193 %%
 Kenzo: How quickly can you shoot?
@@ -191,7 +191,7 @@ Kenzo: Per turn. Per turn, okay. Can I redirect an arrow and then still do other
 DM: Yeah, yeah. If you redirect Wellby's arrow and then somebody else shoots you, an enemy shoots at you, you can't block their attack.
 
 %% u1222-u1223 %%
-Kenzo: There's gonna be—okay, we're gonna really have to [[clear]] some interesting geometries in D&D Beyond. I'm just imagining situations where, Wellby, you're far away, and I'm in melee combat, and you shoot an arrow at me that I then deflect to kill a guy that's behind your head or something.
+Kenzo: There's gonna be—okay, we're gonna really have to {{clear}} some interesting geometries in D&D Beyond. I'm just imagining situations where, Wellby, you're far away, and I'm in melee combat, and you shoot an arrow at me that I then deflect to kill a guy that's behind your head or something.
 
 %% u1224 %%
 Wellby: That's amazing. Huh, like to...
@@ -230,7 +230,7 @@ Wellby: I'll be back in a sec.
 Unknown: Send you a message.
 
 %% u1241 %%
-Seeker: [[Justin, stepbrother.]]
+Seeker: {{Justin, stepbrother.}}
 
 %% u1242 %%
 DM: Okay.

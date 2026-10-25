@@ -143,7 +143,7 @@ Seeker: But I also like the—
 Kenzo: We might like what's in the vault even more.
 
 %% u0821 %%
-Unknown: I mean, unless [[it was when there's like some member of their group was going by the dropper and so they know the gripper had to throw in one stone]].
+Unknown: I mean, unless {{it was when there's like some member of their group was going by the dropper and so they know the gripper had to throw in one stone}}.
 
 %% u0822 %%
 Kenzo: I mean, we could try showing it to her and see if she responds, and then perhaps barter.
@@ -170,10 +170,10 @@ Unknown: I don't—
 DM: Know. There's no way you know that.
 
 %% u0834-u0835 %%
-Unknown: [[Process thousand she can replace but she wanted to refer guns and she can place]]. But.
+Unknown: {{Process thousand she can replace but she wanted to refer guns and she can place}}. But.
 
 %% u0836-u0837 %%
-Riswynn: We don't know what we're giving up if we haven't found anything other than the pearl. But I don't really care, [[unless I'm really wanting it to them]].
+Riswynn: We don't know what we're giving up if we haven't found anything other than the pearl. But I don't really care, {{unless I'm really wanting it to them}}.
 
 %% u0838-u0839 %%
 Seeker: We do have a fair amount of highly flammable oils that were brought up.
@@ -245,7 +245,7 @@ Kenzo: Yeah, what's going on with the four of them?
 Wellby: Really bloodthirsty, Kenzo.
 
 %% u0875-u0877 %%
-Kenzo: No, no. Actually, I'll explain in a moment. [[One beginning about.]] You can say it out loud, Tim. I'll just tell them.
+Kenzo: No, no. Actually, I'll explain in a moment. {{One beginning about.}} You can say it out loud, Tim. I'll just tell them.
 
 %% u0878-u0888 %%
 DM: Okay. So three of them just seem kind of almost flat, like they have almost no emotional aspect at all. They're just kind of obedient. The other one—there's one who looks better equipped, has a weapon in addition to a spear—seems kind of paranoid, concerned. A mix of anxious and angry.
@@ -326,7 +326,7 @@ Kenzo: That's so—
 Unknown: Happy.
 
 %% u0930 %%
-Seeker: [[This week Seeker. Should I should be—]]
+Seeker: {{This week Seeker. Should I should be—}}
 
 %% u0931 %%
 Unknown: Over there.
@@ -335,7 +335,7 @@ Unknown: Over there.
 Seeker: Let's sort that out. I don't mind giving it a shot, but if you feel like you have to go for it, be my guest.
 
 %% u0936 %%
-Unknown: [[Coming on]], you do have the next stage of politics ready.
+Unknown: {{Coming on}}, you do have the next stage of politics ready.
 
 %% u0937-u0938 %%
 Kenzo: Well, before we do that, I'll just say I can make us a little bit more imposing and fearful in a few ways. I don't know if any of you have some tricks that way as well. They don't seem to like light very much.
@@ -449,13 +449,13 @@ Kenzo: For us, okay.
 Seeker: Now, now, friends, I think these folks mean us no harm themselves. As far as we know.
 
 %% u1000-u1007 %%
-DM: [[I'm fingers.]] As the two of you—I mean, she's been talking to Riswynn and looks excited about the prospect of treasure. And then as you do this, she takes four steps back, and it's just like, "Go, go, but we will watch." And then she's fading back. "We will watch, and you will bring us something, yes. Or maybe you will not find the exit so easy to find again. But go." She sort of spits in your direction, and she says, now muttering under her breath, [[As I'm reading a come]], "Maybe, maybe they'll eat your brains and toss your bodies to the blind ones." She sort of backs away.
+DM: {{I'm fingers.}} As the two of you—I mean, she's been talking to Riswynn and looks excited about the prospect of treasure. And then as you do this, she takes four steps back, and it's just like, "Go, go, but we will watch." And then she's fading back. "We will watch, and you will bring us something, yes. Or maybe you will not find the exit so easy to find again. But go." She sort of spits in your direction, and she says, now muttering under her breath, {{As I'm reading a come}}, "Maybe, maybe they'll eat your brains and toss your bodies to the blind ones." She sort of backs away.
 
 %% u1008 %%
 Seeker: Well, that went well.
 
 %% u1009-u1010 %%
-Wellby: As Wellby, he just kind of [[dislike it]].
+Wellby: As Wellby, he just kind of {{dislike it}}.
 
 %% u1011 %%
 DM: She hisses at you.

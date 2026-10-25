@@ -17,7 +17,7 @@ Kenzo: Wait, wait, wait. What about what's on the other side of that room? Can w
 Delwath: We could try to draw the kids out, but I think we go to the tower first anyway.
 
 %% u1049 %%
-Unknown: [[Know.]]
+Unknown: {{Know.}}
 
 %% u1050-u1051 %%
 Wellby: If we're still up here exploring when dusk falls, they're going to go get our horses. And if we're back with our horses when dusk falls, they're going to come eat our horses with us on them.
@@ -86,7 +86,7 @@ Delwath: Yeah, the...
 DM: Dunmari temple architecture is typically five-sided.
 
 %% u1087 %%
-Kenzo: [[Up for that wants.]]
+Kenzo: {{Up for that wants.}}
 
 %% u1088 %%
 Unknown: So.
@@ -176,7 +176,7 @@ Delwath: We could murder the children first. That's probably a better idea.
 Seeker: On what terrain or in what situation would it be most beneficial to fight a...
 
 %% u1122 %%
-Delwath: [[Sense zapped.]]
+Delwath: {{Sense zapped.}}
 
 %% u1123 %%
 Seeker: Flying lion? You want...
@@ -206,13 +206,13 @@ Delwath: But I think the children will probably not be difficult to... I doubt t
 DM: Like, I mean...
 
 %% u1138 %%
-Kenzo: [[Owl]] size, I thought.
+Kenzo: {{Owl}} size, I thought.
 
 %% u1139 %%
 Unknown: It.
 
 %% u1140-u1141 %%
-Delwath: Was... [[A great.]]
+Delwath: Was... {{A great.}}
 
 %% u1142-u1144 %%
 DM: The adult ones are, you know, bigger than horse size, right? The young ones are maybe decent pony size.
@@ -326,7 +326,7 @@ Seeker: Midair hand-to-hand combat.
 Delwath: I can wait and see what happens before I use up a spell, though, to see if we need to make them fly. That's...
 
 %% u1195 %%
-Kenzo: I could do that, yes. That'd be useful, because then I had like—[[no, you can take that offline attack mission]]—and I'll be pretty badass.
+Kenzo: I could do that, yes. That'd be useful, because then I had like—{{no, you can take that offline attack mission}}—and I'll be pretty badass.
 
 %% u1196 %%
 Unknown: Yep.
@@ -524,7 +524,7 @@ Delwath: I mean, your best bet is almost to hide at the edge of the corner or so
 Seeker: Vicious Mockery is sixty.
 
 %% u1283-u1284 %%
-Wellby: [[Record should meet]] up and over the building, so that landing on the far side would clatter, but...
+Wellby: {{Record should meet}} up and over the building, so that landing on the far side would clatter, but...
 
 %% u1285-u1289 %%
 Delwath: Hold on, Invisibility. Let me just check something. It ends if the target attacks or casts a spell. I can kind of run...
@@ -563,7 +563,7 @@ Kenzo: That's how I do my, you know, normally...
 Delwath: Wellby, do you have any spells that would be useful here?
 
 %% u1302-u1303 %%
-Wellby: No, but I mean, depending how much [[salary]], just chuck a rock over so it lands on the other side.
+Wellby: No, but I mean, depending how much {{salary}}, just chuck a rock over so it lands on the other side.
 
 %% u1304-u1306 %%
 Delwath: Yeah, why don't we just do that? Except I'd be worried that they... They heard a sound and didn't see anything. They did...
@@ -689,7 +689,7 @@ Kenzo: Yeah, so I'm going to eventually come...
 Delwath: And then you, Kenzo, you're gonna come in right there.
 
 %% u1363-u1366 %%
-Seeker: Right. I'm gonna stand safely right here. [[Thanks. For me.]] Yeah, I'll do it.
+Seeker: Right. I'm gonna stand safely right here. {{Thanks. For me.}} Yeah, I'll do it.
 
 %% u1367 %%
 DM: Wellby, where are you? So Kenzo, right now, at the start, you're next to the...
@@ -728,7 +728,7 @@ Wellby: Man, on a flightless bird? That would fuck with it.
 DM: Okay, so.
 
 %% u1379 %%
-Seeker: [[Don't want back to normal.]] Be good. Okay.
+Seeker: {{Don't want back to normal.}} Be good. Okay.
 
 %% u1380 %%
 DM: Can everybody...?
@@ -851,7 +851,7 @@ DM: The one in front of you, or...?
 Delwath: The one in front of me. Okay, then I am going to attack. Let me just... That's why. I'm going to attack it with advantage. Let me again just see if I...
 
 %% u1443 %%
-Unknown: [[Know.]]
+Unknown: {{Know.}}
 
 %% u1444 %%
 DM: That hits, yeah.
@@ -896,13 +896,13 @@ Wellby: You roll to hit with advantage? What?
 Seeker: You got eight both times. That's brutal.
 
 %% u1464 %%
-Wellby: [[Rose rose]] above ten.
+Wellby: {{Rose rose}} above ten.
 
 %% u1465 %%
 Delwath: Why? Because we're all rolling terribly.
 
 %% u1466 %%
-Seeker: [[Just your shoes.]]
+Seeker: {{Just your shoes.}}
 
 %% u1467-u1469 %%
 DM: Your flaming arrow flies wide, crashing into the wall, missing the manticore.
@@ -929,7 +929,7 @@ Seeker: What part of the manticore is it on?
 DM: It was sort of curled up sleeping, so it's draped over part of its left wing.
 
 %% u1477-u1478 %%
-Seeker: All right, good enough. I send spectral fire into my [[first time]].
+Seeker: All right, good enough. I send spectral fire into my {{first time}}.
 
 %% u1479 %%
 DM: Right, did you mean to cast that at third level?
@@ -980,7 +980,7 @@ Unknown: Yeah.
 DM: Which, it's pretty dumb. It may or may not realize that it can get out of it. Okay, but it only took four damage, so...
 
 %% u1502 %%
-Kenzo: [[Worrying for data from.]]
+Kenzo: {{Worrying for data from.}}
 
 %% u1503 %%
 Delwath: He's being nice and giving the three and one...
@@ -989,7 +989,7 @@ Delwath: He's being nice and giving the three and one...
 DM: From the third-level cast instead of his second-level.
 
 %% u1506 %%
-Seeker: But it shows [[size to the...]]
+Seeker: But it shows {{size to the...}}
 
 %% u1507 %%
 DM: But you cast it at third level. I'm just taking away the last die.
@@ -1022,13 +1022,13 @@ Seeker: Man.
 DM: And it just kind of looks sleepily up and roars in pain and surprise as it...
 
 %% u1519 %%
-Wellby: [[French.]]
+Wellby: {{French.}}
 
 %% u1520-u1523 %%
 DM: ...lunges at you with its bite, which hits for eight points of piercing damage. And then it rears up on its hind legs and swings with both of its claws as you dodge back from those attacks, as they both miss. And as you turn to retaliate...
 
 %% u1524-u1528 %%
-Kenzo: I do [[Ali's blaster guy]]. All right, I do my quarterstaff at him again.
+Kenzo: I do {{Ali's blaster guy}}. All right, I do my quarterstaff at him again.
 
 %% u1529 %%
 Unknown: My guy.
@@ -1040,7 +1040,7 @@ Kenzo: Guy.
 Unknown: Oh.
 
 %% u1532-u1534 %%
-Kenzo: [[Hi. This is like thing.]] And I'll use a ki, two unarmed strikes again.
+Kenzo: {{Hi. This is like thing.}} And I'll use a ki, two unarmed strikes again.
 
 %% u1535-u1536 %%
 Seeker: Want to punch the manticores to death.
@@ -1151,7 +1151,7 @@ Unknown: Right.
 Kenzo: Channel your inner Wellby.
 
 %% u1592-u1593 %%
-Delwath: Wellby said maybe we should do it. [[Still chatted a Wellby.]]
+Delwath: Wellby said maybe we should do it. {{Still chatted a Wellby.}}
 
 %% u1594 %%
 DM: So, let's see. Con saves.
@@ -1253,7 +1253,7 @@ DM: You need to use a ki.
 Kenzo: But now once I engage it, though, if it tries to escape again, I get another free attack at it? Yep, okay. All right, I'll engage it. I'll use an extra ki. So you see Kenzo fucking moving very fast, parkours over a bunch of terrain, gets over to the manticore and attacks it...
 
 %% u1653-u1655 %%
-Kenzo: ...and then attacks again. But I did twelve [[presidential]].
+Kenzo: ...and then attacks again. But I did twelve {{presidential}}.
 
 %% u1656 %%
 Unknown: Yep.
@@ -1382,7 +1382,7 @@ Seeker: Gnolls? They ate gnolls?
 Kenzo: Our friends, and we killed them.
 
 %% u1717 %%
-Delwath: [[Me.]]
+Delwath: {{Me.}}
 
 %% u1718-u1719 %%
 Wellby: The enemy of our enemy. Does that explain why the orcs have been leaving this area alone? We didn't see any gnolls, though, right, in the...?

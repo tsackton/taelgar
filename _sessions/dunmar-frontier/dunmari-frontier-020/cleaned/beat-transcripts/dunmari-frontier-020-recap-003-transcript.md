@@ -14,7 +14,7 @@ DM: Really dinner time. Perhaps we should eat.
 Kenzo: Yeah, haha. Perhaps before we eat, our companions—we can… Thank you so much for the information that you've shared. I think we need to discuss a little bit, to think about what our next move should be, but you've certainly given us a great deal to think about.
 
 %% u0908-u0912 %%
-DM: Avaras and Pava look at each other, and Avaras says, “I think that's our cue to leave.” And Pava says, “Oh. Well, we can help you cook. [[I'll help us]] in the kitchen. Your dinner will be ready shortly.”
+DM: Avaras and Pava look at each other, and Avaras says, “I think that's our cue to leave.” And Pava says, “Oh. Well, we can help you cook. {{I'll help us}} in the kitchen. Your dinner will be ready shortly.”
 
 %% u0913 %%
 Kenzo: Appreciate your hospitality.
@@ -44,7 +44,7 @@ Kenzo: When did you see?
 Delwath: I touched the armor.
 
 %% u0931-u0934 %%
-Seeker: [[Or you work a way now]], yep. Is this a powerful creature from another plane, like…?
+Seeker: {{Or you work a way now}}, yep. Is this a powerful creature from another plane, like…?
 
 %% u0935-u0940 %%
 Delwath: A god? I don't know. Powerful enough to… Powerful, yes, it must be. Or how could I summon its energy to do what I do?
@@ -68,7 +68,7 @@ Seeker: Um.
 Delwath: Not even a warrior, though of course, like all of my brethren at the time, I had some skill with a bow and a blade.
 
 %% u0953-u0954 %%
-Seeker: [[See you]]. No magic?
+Seeker: {{See you}}. No magic?
 
 %% u0955 %%
 Delwath: Beyond that of my people.
@@ -155,7 +155,7 @@ DM: Which is in itself pretty weird. And in the past year, they have started fig
 Delwath: Pava and Avaras think. There's some sort of malevolent creature in Kharsan who's been there for a long time, and was held at bay by the—this is all just a made-up theory—and was held at bay by the monks of… what's her name? Bhishma. And then when they all died, it slowly grew in strength. And now, a year ago, it finally got strong enough to attack Bhishma's child, Shakun.
 
 %% u1006 %%
-Wellby: [[Child soon]], that's interesting.
+Wellby: {{Child soon}}, that's interesting.
 
 %% u1007 %%
 Seeker: Bhishma's child, Shakun. Yes, it's all connected.
@@ -182,7 +182,7 @@ DM: Metagame, I promised Mike he would not be possessed by a demon. But yeah, I 
 Wellby: I like so much this idea that from time to time, Kenzo just prepares himself to murder evil.
 
 %% u1016-u1017 %%
-Kenzo: [[Number two]]. You did explicitly try to kill us when we were inside the storm giant's consciousness.
+Kenzo: {{Number two}}. You did explicitly try to kill us when we were inside the storm giant's consciousness.
 
 %% u1018 %%
 Unknown: Is.
@@ -194,7 +194,7 @@ Seeker: Only a little bit.
 Kenzo: It was a lot. He tried to kill us.
 
 %% u1021 %%
-Delwath: Oh, it was a lot, but [[I felt my safe]], in my defense.
+Delwath: Oh, it was a lot, but {{I felt my safe}}, in my defense.
 
 %% u1022 %%
 Kenzo: I mean you tried.
@@ -236,13 +236,13 @@ Wellby: Think she's an ally, though, because the starving jackal things were goi
 Delwath: I think she's just benefiting. I think she's a red herring Tim put in place to send us down the wrong path.
 
 %% u1037 %%
-Seeker: Oh, he's drinking to hide his [[even a small]].
+Seeker: Oh, he's drinking to hide his {{even a small}}.
 
 %% u1038-u1042 %%
-Delwath: [[But cheat, sheet for a face, we… Agata, centaurs did not pay]]. She's a fey.
+Delwath: {{But cheat, sheet for a face, we… Agata, centaurs did not pay}}. She's a fey.
 
 %% u1043-u1045 %%
-Kenzo: Right, yeah. Right, she looks like an [[nfc collector]].
+Kenzo: Right, yeah. Right, she looks like an {{nfc collector}}.
 
 %% u1046 %%
 DM: She is a collector. She likes to make bargains and get things.
@@ -251,7 +251,7 @@ DM: She is a collector. She likes to make bargains and get things.
 Delwath: Have been.
 
 %% u1048 %%
-Kenzo: Like an [[empty collector]].
+Kenzo: Like an {{empty collector}}.
 
 %% u1049-u1052 %%
 Delwath: My impression—I don't know, Tim, does Delwath know a little bit about the fey just from being an elf? Yeah, I mean, my impression is that they're not like evil masterminds. They don't have that scope of desire. They're tied to more… I don't know if that's quite true, but you don't imagine the fey as wanting to rule the world.
@@ -266,13 +266,13 @@ Delwath: They just want to cause trouble. They're tied to emotions, they're tied
 Kenzo: Yeah.
 
 %% u1058-u1059 %%
-Delwath: [[Well, have like their own life to be the source of]]. The fey don't go on a killing spree and destroy civilization. They…
+Delwath: {{Well, have like their own life to be the source of}}. The fey don't go on a killing spree and destroy civilization. They…
 
 %% u1060-u1061 %%
 Wellby: Don't go to planning meetings either, coordinate…
 
 %% u1062-u1063 %%
-Seeker: With others, yeah. Leaving open the question of why those guys were gonna bring Vola to Agata, right? That's the one concrete thing that we've heard about her, [[like of our men]].
+Seeker: With others, yeah. Leaving open the question of why those guys were gonna bring Vola to Agata, right? That's the one concrete thing that we've heard about her, {{like of our men}}.
 
 %% u1064 %%
 Delwath: Agata's scholarly.
@@ -296,7 +296,7 @@ DM: Well, and also Vola is convinced that Agata also wanted to find whatever los
 Seeker: The desert. Right, right.
 
 %% u1072-u1074 %%
-Delwath: Why everybody's trying to find the lost artifacts may be a bigger mystery. But are they preparing for some second Great War that we don't know about? Who knows? Put that aside. [[To all the, for all the, for calling…]] Tim's actually just listening to this, deciding what's going to happen based…
+Delwath: Why everybody's trying to find the lost artifacts may be a bigger mystery. But are they preparing for some second Great War that we don't know about? Who knows? Put that aside. {{To all the, for all the, for calling…}} Tim's actually just listening to this, deciding what's going to happen based…
 
 %% u1075 %%
 DM: No, I planned this one out.
@@ -305,7 +305,7 @@ DM: No, I planned this one out.
 Delwath: All right.
 
 %% u1077-u1079 %%
-DM: This is even more fun when I know what's gonna happen. [[How far from here]]—I mean, I don't know what's gonna happen. You could screw everything, and the next campaign could be rescuing the world from some dark shadow overlord, but…
+DM: This is even more fun when I know what's gonna happen. {{How far from here}}—I mean, I don't know what's gonna happen. You could screw everything, and the next campaign could be rescuing the world from some dark shadow overlord, but…
 
 %% u1080 %%
 Wellby: Don't.
@@ -329,7 +329,7 @@ DM: But if you draw a line from Agata to Kharsan, you're about one third of the 
 Kenzo: That's on the way to Kharsan, or…?
 
 %% u1091-u1092 %%
-DM: Other direction. [[God has the game]].
+DM: Other direction. {{God has the game}}.
 
 %% u1093 %%
 Kenzo: The red splotch. Got it, got it, got it. Okay.
@@ -338,7 +338,7 @@ Kenzo: The red splotch. Got it, got it, got it. Okay.
 Delwath: My one thought is, is Havdar really the kind of person who'd investigate peaceful orcs, or will he just ride them all down and kill them?
 
 %% u1095 %%
-Kenzo: [[All he did that]].
+Kenzo: {{All he did that}}.
 
 %% u1096 %%
 Delwath: So I wonder if we should catch up to him before it's too late to investigate, learn more about what these orcs have been doing.
@@ -389,7 +389,7 @@ Kenzo: Oh, sorry. Y'all hear me? Yep, yep.
 DM: You're good.
 
 %% u1119-u1120 %%
-Kenzo: I just got some dinner, so I'm going to eat dinner, and [[you dinner]].
+Kenzo: I just got some dinner, so I'm going to eat dinner, and {{you dinner}}.
 
 %% u1121-u1122 %%
 DM: Yes, so do you have anything else you want to discuss before they return?
@@ -416,7 +416,7 @@ Wellby: Yeah, I think Wellby would have preferred to stop in on the way out. But
 Delwath: Well, we left a problem in the middle of Karawa.
 
 %% u1133 %%
-Wellby: [[As if we want to worry about what's by death]]—yeah, say that again?
+Wellby: {{As if we want to worry about what's by death}}—yeah, say that again?
 
 %% u1134-u1135 %%
 Delwath: Karawa had a giant missing void where Shakun is supposed to be, and the temple of Shakun is inhabited by some… Who knows what? Something bad. The centaurs will leave because they think terrible evil is going to break out from it.
@@ -431,7 +431,7 @@ DM: I spent a lot of time making up the Dunmari gods, so they're…
 Delwath: Definitely important.
 
 %% u1141 %%
-Kenzo: Yeah, I think you're [[onto the cloud]], man.
+Kenzo: Yeah, I think you're {{onto the cloud}}, man.
 
 %% u1142 %%
 Seeker: But it's also possible you have that all backwards in some way, like…
@@ -464,7 +464,7 @@ Seeker: We could go straight for that library. Less dangerous.
 Delwath: Yeah let's go to the monastery.
 
 %% u1155 %%
-Seeker: [[Library view many]].
+Seeker: {{Library view many}}.
 
 %% u1156-u1157 %%
 DM: The library is rumors of something, but it's… You probably don't have supplies to get to the library.
@@ -488,7 +488,7 @@ DM: You can obviously restock here. You should be fine to get to the monastery, 
 Delwath: Then we go to the monastery first, and then there we'll find the thing that tells us how to survive in the desert.
 
 %% u1171 %%
-Seeker: We'll become undead [[prison]].
+Seeker: We'll become undead {{prison}}.
 
 %% u1172-u1173 %%
 Delwath: Then we'll be fine, because once we're dead, we won't care about the heat of the desert.
@@ -512,13 +512,13 @@ DM: Chaos agents run this party.
 Kenzo: They totally do. All of our major decisions are chaos-driven.
 
 %% u1181 %%
-Seeker: Interesting, and Wellby, as always, [[weeding out]] that Delwath could be the evil one guiding, or…
+Seeker: Interesting, and Wellby, as always, {{weeding out}} that Delwath could be the evil one guiding, or…
 
 %% u1182 %%
 Unknown: Actually.
 
 %% u1183 %%
-DM: [[Nobody ever Mr]].
+DM: {{Nobody ever Mr}}.
 
 %% u1184-u1185 %%
 Wellby: I will say, from a metagame perspective, don't put it on Wellby that “we haven't been there before” carries the day on what our next…
@@ -527,7 +527,7 @@ Wellby: I will say, from a metagame perspective, don't put it on Wellby that “
 Kenzo: Well, we still don't understand the plot yet to actually know what the fuck we're doing. So we just go to the place we haven't been yet, which isn't a totally unreasonable thing to do.
 
 %% u1187-u1189 %%
-Wellby: [[I feel, I think there's no Wellby with]]—well, maybe. So I think it makes sense to stop by Havdar first, because if we go to the monastery, it's backtracking again to go back to his camp first. We also told him we'd meet up with him at his camp, so I feel like we sort of made a commitment. I think reluctantly Wellby would want to honor that.
+Wellby: {{I feel, I think there's no Wellby with}}—well, maybe. So I think it makes sense to stop by Havdar first, because if we go to the monastery, it's backtracking again to go back to his camp first. We also told him we'd meet up with him at his camp, so I feel like we sort of made a commitment. I think reluctantly Wellby would want to honor that.
 
 %% u1190 %%
 Seeker: Straight over.

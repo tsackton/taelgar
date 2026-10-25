@@ -11,7 +11,7 @@
 [u0011 | 00:00:45.396-00:00:46.970 | DM] amazing. Okay.
 [u0012 | 00:00:47.120-00:00:49.339 | DM] The sun beats down.
 [u0013 | 00:00:51.590-00:00:57.869 | DM] this high up the winds keep you cool, but the endless expanse of sand and rock below
-[u0014 | 00:00:57.890-00:00:59.480 | DM] [[slowly]] in the heat
+[u0014 | 00:00:57.890-00:00:59.480 | DM] {{slowly}} in the heat
 [u0015 | 00:01:01.930-00:01:03.730 | DM] we'll switch to other phones.
 [u0016 | 00:01:10.330-00:01:11.510 | DM] you.
 [u0017 | 00:01:11.860-00:01:13.309 | DM] So as we begin.
@@ -60,11 +60,11 @@
 [u0060 | 00:03:33.280-00:03:35.840 | DM] You also learn from Sura that a
 [u0061 | 00:03:36.180-00:03:38.020 | DM] another clone of
 [u0062 | 00:03:38.420-00:03:39.570 | DM] Wellby
-[u0063 | 00:03:39.680-00:03:44.530 | DM] rampaging across the [[Nebo Sea]] as a pirate, killing indiscriminately.
+[u0063 | 00:03:39.680-00:03:44.530 | DM] rampaging across the {{Nebo Sea}} as a pirate, killing indiscriminately.
 [u0064 | 00:03:44.910-00:03:46.659 | DM] and a clone of Rizwind
-[u0065 | 00:03:47.020-00:03:51.099 | DM] you learned from the dwarves of [[Darren. Toader]]
+[u0065 | 00:03:47.020-00:03:51.099 | DM] you learned from the dwarves of {{Darren. Toader}}
 [u0066 | 00:03:51.680-00:03:54.189 | DM] was a was a had come
-[u0067 | 00:03:54.420-00:04:00.680 | DM] into [[Tharntoder]], the main dwarven city, apparently recruiting dwarves for some mission to the depths
+[u0067 | 00:03:54.420-00:04:00.680 | DM] into {{Tharntoder}}, the main dwarven city, apparently recruiting dwarves for some mission to the depths
 [u0068 | 00:04:01.200-00:04:02.320 | DM] which you
 [u0069 | 00:04:02.550-00:04:05.270 | DM] inferred was a suicide mission.
 [u0070 | 00:04:07.740-00:04:13.669 | DM] and the common thread between all of these that you, Delwath, I think, pieced together from
@@ -112,7 +112,7 @@
 [u0112 | 00:06:48.810-00:06:50.080 | DM] So
 [u0113 | 00:06:50.440-00:06:52.029 | DM] as we begin.
 [u0114 | 00:06:52.880-00:06:58.309 | DM] you've got maybe 50 h of travel to go to the place where Kenzo sensed the jade.
-[u0115 | 00:06:58.440-00:07:07.080 | DM] Rizwind is gone. Having teleported to join the dwarves of [[Thorntoder]] and help deal with the Rizwind Doppelganger making trouble there.
+[u0115 | 00:06:58.440-00:07:07.080 | DM] Rizwind is gone. Having teleported to join the dwarves of {{Thorntoder}} and help deal with the Rizwind Doppelganger making trouble there.
 [u0116 | 00:07:08.210-00:07:10.190 | DM] and Delwath is
 [u0117 | 00:07:10.250-00:07:12.589 | DM] now taking out his
 [u0118 | 00:07:12.830-00:07:14.840 | DM] scrying focus, his
@@ -415,7 +415,7 @@
 [u0415 | 00:25:32.570-00:25:32.980 | DM] Well, he can.
 [u0416 | 00:25:32.980-00:25:36.150 | Seeker] Is there anything he could, anything he could say to.
 [u0417 | 00:25:36.150-00:25:38.869 | DM] You have no idea where he is, because you used
-[u0418 | 00:25:39.040-00:25:45.339 | DM] magic Chanceweaver dice to place them in the correct location. He's in the [[Neva Sea]] somewhere.
+[u0418 | 00:25:39.040-00:25:45.339 | DM] magic Chanceweaver dice to place them in the correct location. He's in the {{Neva Sea}} somewhere.
 [u0419 | 00:25:46.400-00:25:49.439 | Seeker] We'll see what's that like?
 [u0420 | 00:25:49.760-00:25:51.630 | Seeker] Was he one of the Chardon.
 [u0421 | 00:25:51.940-00:25:55.410 | Wellby] Who the attack in Chardon itself was pinned on.
@@ -458,7 +458,7 @@
 [u0458 | 00:28:01.090-00:28:02.560 | Seeker] Alright, that's your job.
 [u0459 | 00:28:02.760-00:28:04.039 | Kenzo] What else? What else?
 [u0460 | 00:28:04.660-00:28:08.310 | Wellby] Was there something? Was there something in Eloria we were looking for or wanted?
-[u0461 | 00:28:09.620-00:28:11.040 | Wellby] Island of the [[Nova Sea]]?
+[u0461 | 00:28:09.620-00:28:11.040 | Wellby] Island of the {{Nova Sea}}?
 [u0462 | 00:28:11.440-00:28:12.770 | Seeker] Didn't we think the cloak was there?
 [u0463 | 00:28:12.770-00:28:13.820 | Delwath] Thought at 1 point.
 [u0464 | 00:28:13.820-00:28:14.990 | DM] Cloak was there.
@@ -587,7 +587,7 @@
 [u0587 | 00:34:43.949-00:34:47.849 | DM] Heading to like here, which is where Kenzo sensed the jade.
 [u0588 | 00:34:48.085-00:34:49.029 | Kenzo] Hold on! I can't.
 [u0589 | 00:34:49.030-00:34:51.440 | Seeker] Coast, beyond Drankor.
-[u0590 | 00:34:52.469-00:34:54.079 | DM] The coast [[last of]] Drankor.
+[u0590 | 00:34:52.469-00:34:54.079 | DM] The coast {{last of}} Drankor.
 [u0591 | 00:34:54.080-00:34:55.819 | Delwath] Okay, so like, we're
 [u0592 | 00:34:56.060-00:34:56.790 | Delwath] okay.
 [u0593 | 00:34:59.090-00:35:02.110 | DM] You're you're somewhere here now. You've got
@@ -834,7 +834,7 @@
 [u0834 | 00:49:10.840-00:49:11.610 | Seeker] There might be.
 [u0835 | 00:49:11.610-00:49:14.299 | DM] Some potential complications.
 [u0836 | 00:49:15.050-00:49:17.210 | Seeker] What about the associated object thing?
-[u0837 | 00:49:19.060-00:49:21.729 | DM] Yeah, you could bring a [[vendor service]] down.
+[u0837 | 00:49:19.060-00:49:21.729 | DM] Yeah, you could bring a {{vendor service}} down.
 [u0838 | 00:49:22.470-00:49:25.539 | Seeker] Yeah. Yeah. And then that locks it in.
 [u0839 | 00:49:26.070-00:49:26.650 | DM] Right.
 [u0840 | 00:49:30.830-00:49:32.519 | Seeker] So how do we get down? We just.
@@ -1068,7 +1068,7 @@
 [u1068 | 01:02:44.840-01:02:48.689 | Wellby] Like stronger than the dragons. We killed strong.
 [u1069 | 01:02:49.800-01:02:50.410 | Seeker] Yeah.
 [u1070 | 01:02:51.980-01:02:52.500 | Seeker] 20.
-[u1071 | 01:02:52.500-01:02:53.770 | Delwath] 5 is like [[Shamu]].
+[u1071 | 01:02:52.500-01:02:53.770 | Delwath] 5 is like {{Shamu}}.
 [u1072 | 01:02:54.930-01:02:56.360 | DM] No, it's not quite.
 [u1073 | 01:02:56.360-01:02:57.850 | Delwath] Quite, but.
 [u1074 | 01:02:59.100-01:03:01.439 | Seeker] Why is it trapped? Then.
@@ -1101,7 +1101,7 @@
 [u1101 | 01:04:39.970-01:04:43.409 | Delwath] And there's no head right just an arm sticking up so it's like.
 [u1102 | 01:04:43.410-01:04:44.799 | DM] Only the arm is sticking out.
 [u1103 | 01:04:44.800-01:04:48.489 | Delwath] So it like. Looks like it's reaching above its head like banging.
-[u1104 | 01:04:48.490-01:04:49.130 | DM] [[Forest, line]].
+[u1104 | 01:04:48.490-01:04:49.130 | DM] {{Forest, line}}.
 [u1105 | 01:04:49.130-01:04:49.520 | Seeker] Past.
 [u1106 | 01:04:49.520-01:04:50.270 | DM] Side.
 [u1107 | 01:04:50.640-01:04:52.070 | Seeker] Is it possible? It's
@@ -1300,7 +1300,7 @@
 [u1300 | 01:15:41.190-01:15:43.459 | DM] you know, since this was desert
 [u1301 | 01:15:43.600-01:15:45.640 | DM] clearly, which dates to
 [u1302 | 01:15:47.650-01:15:48.630 | DM] the
-[u1303 | 01:15:48.980-01:15:52.926 | DM] the end of the Great War, the [[Florida Desert]] for 200 years.
+[u1303 | 01:15:48.980-01:15:52.926 | DM] the end of the Great War, the {{Florida Desert}} for 200 years.
 [u1304 | 01:15:55.360-01:15:56.420 | DM] The
 [u1305 | 01:16:00.540-01:16:02.256 | DM] What else can you learn?
 [u1306 | 01:16:03.490-01:16:05.990 | DM] so it's constructed. Probably
@@ -1326,8 +1326,8 @@
 [u1326 | 01:17:46.200-01:17:47.729 | DM] of the Tower itself.
 [u1327 | 01:17:49.710-01:17:51.270 | DM] you can feel
 [u1328 | 01:17:51.600-01:17:52.900 | DM] the pounding
-[u1329 | 01:17:53.690-01:17:54.530 | DM] [[of doubt]].
-[u1330 | 01:17:54.990-01:17:56.479 | DM] [[part of the fang]]
+[u1329 | 01:17:53.690-01:17:54.530 | DM] {{of doubt}}.
+[u1330 | 01:17:54.990-01:17:56.479 | DM] {{part of the fang}}
 [u1331 | 01:18:00.520-01:18:02.429 | DM] an irregular beating.
 [u1332 | 01:18:09.280-01:18:10.989 | DM] but nobody dared
 [u1333 | 01:18:12.430-01:18:17.409 | DM] enter, or at least there are no stories of anybody who entered the tower and returned.
@@ -1404,7 +1404,7 @@
 [u1404 | 01:22:48.160-01:22:53.350 | DM] rubble, like cascading off the back of something that's trying to stand up, or something like that.
 [u1405 | 01:22:54.920-01:22:56.219 | Wellby] I'll try again in
 [u1406 | 01:22:56.980-01:22:58.800 | Wellby] the rest of my languages.
-[u1407 | 01:23:00.692-01:23:03.280 | Wellby] Dunmari, [[Estros]], [[Erskine]].
+[u1407 | 01:23:00.692-01:23:03.280 | Wellby] Dunmari, {{Estros}}, {{Erskine}}.
 [u1408 | 01:23:06.610-01:23:08.439 | DM] Doesn't seem to
 [u1409 | 01:23:11.660-01:23:12.860 | DM] be
 [u1410 | 01:23:13.480-01:23:14.820 | DM] able to
@@ -1567,7 +1567,7 @@
 [u1567 | 01:33:29.700-01:33:31.710 | Delwath] I mean, I can Banish.
 [u1568 | 01:33:31.820-01:33:32.510 | Delwath] Oh.
 [u1569 | 01:33:32.990-01:33:37.549 | Delwath] massive Downside, except that I have to, I think, probably get in range of its creepy eye.
-[u1570 | 01:33:38.250-01:33:38.969 | Delwath] How many [[bands]].
+[u1570 | 01:33:38.250-01:33:38.969 | Delwath] How many {{bands}}.
 [u1571 | 01:33:38.970-01:33:39.770 | Kenzo] You get
 [u1572 | 01:33:39.960-01:33:40.650 | Kenzo] 2.
 [u1573 | 01:33:42.000-01:33:44.589 | Kenzo] So what if it has 2 legendary resistances?
@@ -1586,7 +1586,7 @@
 [u1586 | 01:34:11.340-01:34:12.299 | Seeker] Yeah, I think.
 [u1587 | 01:34:16.520-01:34:17.049 | Delwath] So like I can't.
 [u1588 | 01:34:17.050-01:34:17.470 | Kenzo] Cool.
-[u1589 | 01:34:17.470-01:34:18.909 | Delwath] [[It from here]] right.
+[u1589 | 01:34:17.470-01:34:18.909 | Delwath] {{It from here}} right.
 [u1590 | 01:34:19.080-01:34:21.020 | Kenzo] Is protecting something cool.
 [u1591 | 01:34:22.470-01:34:23.370 | Seeker] Hmm.
 [u1592 | 01:34:25.080-01:34:27.879 | Wellby] It's probably like Staff of God killing.
@@ -1647,7 +1647,7 @@
 [u1647 | 01:37:36.470-01:37:37.280 | Seeker] Alright.
 [u1648 | 01:37:37.280-01:37:38.950 | Wellby] Do we have gaseous forms still.
 [u1649 | 01:37:39.740-01:37:41.689 | Seeker] No, I think we use that.
-[u1650 | 01:37:41.690-01:37:43.940 | DM] [[Jersey]] is the gaseous form person.
+[u1650 | 01:37:41.690-01:37:43.940 | DM] {{Jersey}} is the gaseous form person.
 [u1651 | 01:37:43.940-01:37:45.960 | Wellby] That would be super handy.
 [u1652 | 01:37:46.590-01:37:48.540 | Delwath] That would be handy, actually.
 [u1653 | 01:37:51.460-01:37:54.779 | Seeker] we could put the immovable rod in place and show it how to use it.
@@ -1908,7 +1908,7 @@
 [u1908 | 01:52:53.510-01:52:59.029 | DM] I mean, it seems like it's taking some damage. It's immune to exhaustion.
 [u1909 | 01:52:59.200-01:53:01.660 | DM] It's hard to judge how much damage is taken.
 [u1910 | 01:53:01.660-01:53:02.290 | Delwath] It doesn't.
-[u1911 | 01:53:02.290-01:53:04.689 | DM] Thrashing around does not [[count that]].
+[u1911 | 01:53:02.290-01:53:04.689 | DM] Thrashing around does not {{count that}}.
 [u1912 | 01:53:08.180-01:53:08.880 | Seeker] And.
 [u1913 | 01:53:10.220-01:53:11.849 | Wellby] Do you have another spell? Slot.
 [u1914 | 01:53:12.100-01:53:13.890 | Delwath] Yeah, I could. I mean.
@@ -2331,7 +2331,7 @@
 [u2331 | 02:16:05.440-02:16:09.179 | Seeker] so probably can't. There's probably not a way to open the door.
 [u2332 | 02:16:14.960-02:16:15.990 | Seeker] and I can't.
 [u2333 | 02:16:16.350-02:16:19.450 | Seeker] Well, if I release Polymorph right now.
-[u2334 | 02:16:21.680-02:16:22.989 | Seeker] [[You're on down there]].
+[u2334 | 02:16:21.680-02:16:22.989 | Seeker] {{You're on down there}}.
 [u2335 | 02:16:22.990-02:16:24.680 | DM] Surrounded by
 [u2336 | 02:16:25.030-02:16:26.010 | DM] sand.
 [u2337 | 02:16:26.360-02:16:28.250 | Seeker] And then I could dimension door
@@ -3177,7 +3177,7 @@
 [u3177 | 03:00:00.090-03:00:01.850 | DM] no title on the cover
 [u3178 | 03:00:01.990-03:00:03.200 | DM] unmarked.
 [u3179 | 03:00:04.430-03:00:05.270 | DM] But
-[u3180 | 03:00:06.470-03:00:07.720 | DM] [[rapture]]!
+[u3180 | 03:00:06.470-03:00:07.720 | DM] {{rapture}}!
 [u3181 | 03:00:07.980-03:00:10.440 | DM] It's magical. It's definitely magical.
 [u3182 | 03:00:10.510-03:00:13.650 | DM] and it's it's locked like it's got, you know, a
 [u3183 | 03:00:14.070-03:00:19.900 | DM] like metal bindings over some elaborate cover that's then locked so that
@@ -3367,7 +3367,7 @@
 [u3367 | 03:09:31.900-03:09:33.869 | Delwath] Wait, wait, wait, wait! Wait! Hold on!
 [u3368 | 03:09:34.360-03:09:41.140 | Delwath] Couldn't! Oh, he can't cast spells. Polymorph! Never mind, I was gonna say, oh, wait could Seeker polymorph, one of us.
 [u3369 | 03:09:41.220-03:09:43.920 | Delwath] into a super strong something.
-[u3370 | 03:09:44.260-03:09:51.829 | Delwath] and then pick up the chest. The super strong person would pick up the chest, and then we teleport back to the ship as the [[follow dwarf]].
+[u3370 | 03:09:44.260-03:09:51.829 | Delwath] and then pick up the chest. The super strong person would pick up the chest, and then we teleport back to the ship as the {{follow dwarf}}.
 [u3371 | 03:09:52.320-03:09:55.720 | Wellby] I am very good at opening chests and disarming chests. I.
 [u3372 | 03:09:55.720-03:09:58.000 | Delwath] Kenzo volunteered to take the blast.
 [u3373 | 03:09:58.100-03:10:00.809 | Delwath] That one will stay far away.
@@ -3540,7 +3540,7 @@
 [u3540 | 03:17:39.810-03:17:40.480 | Seeker] Longer!
 [u3541 | 03:17:41.740-03:17:42.260 | Seeker] Oh!
 [u3542 | 03:17:42.260-03:17:46.079 | DM] Is like pacing back and forth, having an argument with
-[u3543 | 03:17:48.200-03:17:56.750 | DM] No, I guess [[Heather]] is gone, so he's like he's like standing like. Yes, give him. He's like saying, Give him 30 more minutes, I know they'll be back
+[u3543 | 03:17:48.200-03:17:56.750 | DM] No, I guess {{Heather}} is gone, so he's like he's like standing like. Yes, give him. He's like saying, Give him 30 more minutes, I know they'll be back
 [u3544 | 03:17:57.710-03:17:58.390 | DM] to
 [u3545 | 03:17:59.397-03:18:01.909 | DM] to Amel like.
 [u3546 | 03:18:02.110-03:18:03.439 | DM] are you sure?

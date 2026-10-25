@@ -80,7 +80,7 @@ Seeker: Oh, and then…
 DM: You’ve got your drift globes. I added—
 
 %% u0833 %%
-Unknown: [[Basketball]] Baxter.
+Unknown: {{Basketball}} Baxter.
 
 %% u0834 %%
 Seeker: Baxter’s line of fire, looks like.
@@ -98,7 +98,7 @@ Wellby: Sleeping with Baxter, okay.
 Unknown: Um…
 
 %% u0840-u0847 %%
-DM: And then all of you hear, in the distance, a [[breaking]] sound of something howling in the night. Everybody wakes up, and I need you all to make Wisdom saving throws and then roll initiative.
+DM: And then all of you hear, in the distance, a {{breaking}} sound of something howling in the night. Everybody wakes up, and I need you all to make Wisdom saving throws and then roll initiative.
 
 %% u0848 %%
 Unknown: Let’s see.
@@ -134,7 +134,7 @@ Unknown: What?
 Delwath: What is the source of Delwath’s fear?
 
 %% u0865-u0876 %%
-DM: That’s the howl. Okay, so first up is the shadows. One of them moves in. Come on, [[all twenty-one of that]]. Moves in to attack Delwath again. You can see it now. It misses, as despite your momentary fear and terror, you are able to bring your shield to bear before it can strike you.
+DM: That’s the howl. Okay, so first up is the shadows. One of them moves in. Come on, {{all twenty-one of that}}. Moves in to attack Delwath again. You can see it now. It misses, as despite your momentary fear and terror, you are able to bring your shield to bear before it can strike you.
 
 %% u0877-u0878 %%
 DM: The second one slips into this tent.
@@ -152,7 +152,7 @@ Unknown: You.
 DM: And, man, they’re rolling terribly. It swings at you, and you just quickly roll out of the way, and now it’s your turn to act.
 
 %% u0885-u0888 %%
-Kenzo: Yeah, I grab my staff and try to swing at it, hopefully making contact with him and hurting him. But first, [[before giving not the goal]]. Who the hell knows what they have?
+Kenzo: Yeah, I grab my staff and try to swing at it, hopefully making contact with him and hurting him. But first, {{before giving not the goal}}. Who the hell knows what they have?
 
 %% u0889-u0892 %%
 DM: That hits. So as you swing your staff out, you make contact with something, but the shadow seems to part around your blow. You seem to have damaged it, but not very badly. You still get a second attack and your bonus action.
@@ -329,7 +329,7 @@ Wellby: Foot radius.
 DM: So the entire campsite just flares into light. Just bright light everywhere. Not inside the tents, but otherwise just everything lit up entirely. The creatures certainly don’t seem pleased by this development. And that ends your turn?
 
 %% u0980 %%
-Wellby: Yeah, although I think [[on these tools]].
+Wellby: Yeah, although I think {{on these tools}}.
 
 %% u0981 %%
 Unknown: Okay.
@@ -389,7 +389,7 @@ Delwath: All right. Well, I’m probably gonna miss. Well, I guess if that’s g
 DM: It is good enough.
 
 %% u1020-u1024 %%
-Delwath: Okay, let me roll again, but that was a three as my roll, so unlikely that I will do that. Okay, yeah. So then I will do [[one day]] to the guy next to me, to the shadow.
+Delwath: Okay, let me roll again, but that was a three as my roll, so unlikely that I will do that. Okay, yeah. So then I will do {{one day}} to the guy next to me, to the shadow.
 
 %% u1025 %%
 Unknown: Yes.
@@ -419,7 +419,7 @@ DM: Yes, this one is bigger.
 Delwath: Okay, I’m gonna curse that guy.
 
 %% u1045 %%
-Wellby: [[With my tears]].
+Wellby: {{With my tears}}.
 
 %% u1046 %%
 DM: That’s your turn?
@@ -467,7 +467,7 @@ Unknown: Its Wisdom is not great.
 Delwath: I assume it’s my—I don’t have a save DC. It’s fifteen, same thing.
 
 %% u1089 %%
-DM: It’s [[at thousand said]], but as it touches you, you feel cold, and the strength drains out of your body. You take eight points of necrotic damage, and your Strength score is reduced by three.
+DM: It’s {{at thousand said}}, but as it touches you, you feel cold, and the strength drains out of your body. You take eight points of necrotic damage, and your Strength score is reduced by three.
 
 %% u1090 %%
 Kenzo: Oh yeah.
@@ -614,7 +614,7 @@ DM: Okay. He’s sixteen HP.
 Unknown: Sixteen HP.
 
 %% u1157-u1158 %%
-Kenzo: I will use my—yeah, [[Allah Allah Allah Boston]].
+Kenzo: I will use my—yeah, {{Allah Allah Allah Boston}}.
 
 %% u1159 %%
 Delwath: This one should be almost dead.
@@ -665,7 +665,7 @@ Kenzo: And I still—
 DM: Your fist punches through it.
 
 %% u1179 %%
-Kenzo: [[What doesn’t and I’m a little edit button]]… Can I sense the thread to which it’s connected to whatever nether realm?
+Kenzo: {{What doesn’t and I’m a little edit button}}… Can I sense the thread to which it’s connected to whatever nether realm?
 
 %% u1180-u1181 %%
 DM: Not in combat. You need more time to study it in order to be able to do that.
@@ -680,10 +680,10 @@ Kenzo: Well, I was going to do a cool move where I snap the thread, but if I can
 DM: I mean, you could do that. Okay, yeah, you could do that. You just can’t really sense anything about it.
 
 %% u1186-u1189 %%
-Kenzo: No, that’s fine, that’s fine. So I think what Kenzo’s becoming more and more aware of is the connections between various sentient beings in the Material Plane with the Plane of Consciousness, by these weird little threads or whatever they might be. So Kenzo figures out where it is, total concentration and focus, and then reaches out and basically cuts the thread with his bare palm. [[We discussed it]].
+Kenzo: No, that’s fine, that’s fine. So I think what Kenzo’s becoming more and more aware of is the connections between various sentient beings in the Material Plane with the Plane of Consciousness, by these weird little threads or whatever they might be. So Kenzo figures out where it is, total concentration and focus, and then reaches out and basically cuts the thread with his bare palm. {{We discussed it}}.
 
 %% u1190-u1191 %%
-Kenzo: But all of you outside, just watching the tent, are just like, “What the fuck is going on there?” Because it’s staff rattling noises, and then the shadow just—there’s a massive explosion, and then the shadow [[bursts out of its natural]]… How does it die? What happens to it?
+Kenzo: But all of you outside, just watching the tent, are just like, “What the fuck is going on there?” Because it’s staff rattling noises, and then the shadow just—there’s a massive explosion, and then the shadow {{bursts out of its natural}}… How does it die? What happens to it?
 
 %% u1192-u1193 %%
 DM: It just bursts out of the tent, and it sort of stumbles back into the light for a moment, and it just gets lighter and lighter and lighter until it vanishes. The light starts shining through it, and then it looks like it’s been consumed by magnesium fire, basically, from your perspective.
@@ -713,7 +713,7 @@ Seeker: Clench my fingers into a fist as a hand made of earth rises from the gro
 DM: We can do… I thought I had one, but I don’t see where it is. Hold on.
 
 %% u1206-u1207 %%
-Seeker: [[To take away all my]]… Sure.
+Seeker: {{To take away all my}}… Sure.
 
 %% u1208 %%
 Delwath: I keep trying to look at my Strength, and it accidentally rolls. Ignore that Strength roll.
@@ -725,13 +725,13 @@ DM: I’ll have to wait. Hold on, I think…
 Unknown: Yeah.
 
 %% u1211-u1212 %%
-Kenzo: Oh, I don’t have to do… Oh yeah, I’m realizing I’m roleplaying [[heads around me]], just doing acrobatics.
+Kenzo: Oh, I don’t have to do… Oh yeah, I’m realizing I’m roleplaying {{heads around me}}, just doing acrobatics.
 
 %% u1213 %%
 Seeker: Gonna leap in the air, man.
 
 %% u1214 %%
-Kenzo: That’s what I’m saying. I need to jump from where I am onto some horses and [[rubbing Logan]], fucking crazy shit.
+Kenzo: That’s what I’m saying. I need to jump from where I am onto some horses and {{rubbing Logan}}, fucking crazy shit.
 
 %% u1215 %%
 DM: Okay, so the hand appears, grasping the shadow.
@@ -743,7 +743,7 @@ Seeker: Crushing the shadow.
 DM: Okay.
 
 %% u1218 %%
-Seeker: [[See your moronically]].
+Seeker: {{See your moronically}}.
 
 %% u1219-u1222 %%
 DM: Yeah, it works. So how much damage does that do?
@@ -797,13 +797,13 @@ DM: Twenty, twenty, so you’re still gonna hit. And it has only one hit point l
 DM: That is going to bring us to the shadow dogs. So the horses are going to start to run towards the light.
 
 %% u1262-u1268 %%
-DM: And as they do, just out of nowhere, this leaping… [[climbing on dog one]]. Two horses get clean away into the light, these two down here, and Baxter runs right up to you. One…
+DM: And as they do, just out of nowhere, this leaping… {{climbing on dog one}}. Two horses get clean away into the light, these two down here, and Baxter runs right up to you. One…
 
 %% u1269 %%
 Wellby: Baxter should be defending the horses.
 
 %% u1270-u1277 %%
-DM: Okay, Baxter’s here, standing at the edge of the light, getting big, hissing at the [[horses]]. One horse, you see just this flicker as these two dogs appear and both just tear into this horse, who falls dead. And then, as this one is running, also dead. But the other three manage to get into the light, and these two dogs now converge just on the edge, in the dim light at the edge of the radius of the sunlight, and again vanish into the shadows that are cast at the edge of this sunlight.
+DM: Okay, Baxter’s here, standing at the edge of the light, getting big, hissing at the {{horses}}. One horse, you see just this flicker as these two dogs appear and both just tear into this horse, who falls dead. And then, as this one is running, also dead. But the other three manage to get into the light, and these two dogs now converge just on the edge, in the dim light at the edge of the radius of the sunlight, and again vanish into the shadows that are cast at the edge of this sunlight.
 
 %% u1278 %%
 Seeker: Baxter’s shadow.
@@ -827,7 +827,7 @@ Seeker: Whoa.
 Delwath: So did that already roll my—
 
 %% u1291 %%
-DM: It’s not rolling max. [[A real today’s]].
+DM: It’s not rolling max. {{A real today’s}}.
 
 %% u1292-u1293 %%
 Delwath: Yes, for the Hex. The Hex has 2d6 in it.
@@ -911,7 +911,7 @@ Kenzo: Was moving the drift globe, you just have to—
 DM: You have to go pick it up to move it.
 
 %% u1332-u1336 %%
-Kenzo: All right, I’m gonna go. I’m not going to move the drift globe. [[I feel this for a while]]. I will go here. And how does this thing look?
+Kenzo: All right, I’m gonna go. I’m not going to move the drift globe. {{I feel this for a while}}. I will go here. And how does this thing look?
 
 %% u1337-u1338 %%
 DM: It’s pretty wounded.
@@ -941,7 +941,7 @@ Seeker: Throws off your game.
 Kenzo: Yeah.
 
 %% u1351-u1354 %%
-Seeker: [[Too much laker game]]. Still squinting away from the light, holding one hand to protect my face from the glow of the magnesium, I use my other to guide the earthen hand to grip the dog.
+Seeker: {{Too much laker game}}. Still squinting away from the light, holding one hand to protect my face from the glow of the magnesium, I use my other to guide the earthen hand to grip the dog.
 
 %% u1355 %%
 Unknown: Let’s see.
@@ -983,7 +983,7 @@ DM: Wellby.
 Wellby: I’m gonna shoot the lower and leftmost of the two dogs.
 
 %% u1374-u1376 %%
-DM: These two, they are invisible. You cannot see them. I mean, they vanished from sight. You can guess and aim at a square if you want. [[The rumors are]]…
+DM: These two, they are invisible. You cannot see them. I mean, they vanished from sight. You can guess and aim at a square if you want. {{The rumors are}}…
 
 %% u1377 %%
 Seeker: The horses are casting shadows, I guess.
@@ -1085,7 +1085,7 @@ Wellby: Know, so…
 DM: He says…
 
 %% u1421-u1422 %%
-Wellby: [[To bed]], and then I’m… So…
+Wellby: {{To bed}}, and then I’m… So…
 
 %% u1423-u1430 %%
 DM: That hits, and they are in bright light. As you bring the light to be covering them, they seem to solidify a little bit, and your arrow as it strikes them—I guess your arrows are magical anyway—as it strikes them, does a lot of damage. He’s pretty badly hurt now. But now it is their turn, and they are going to both attack. This one is going to attack Baxter.
@@ -1211,10 +1211,10 @@ DM: No, you don’t have to spend a ki to Soul Sight, only if you want to learn 
 Kenzo: All right, so I just dashed over there. I’ll just attack it with…
 
 %% u1503-u1504 %%
-DM: [[Meg]]. So you don’t get your unarmed strike. You just get two staff attacks.
+DM: {{Meg}}. So you don’t get your unarmed strike. You just get two staff attacks.
 
 %% u1505-u1506 %%
-Kenzo: [[Speckled alone. Nineteen, thirty-two hands]].
+Kenzo: {{Speckled alone. Nineteen, thirty-two hands}}.
 
 %% u1507-u1513 %%
 DM: Bloody… Let’s see, this was the one that was not damaged. Okay, go ahead, next attack. Nice, hits as well. Another six damage. So as you run up and start smacking it, as these creatures are in the light now, they seem more substantial, and your hits are striking them—these dogs, anyway—harder. Okay, Seeker.
@@ -1256,7 +1256,7 @@ Seeker: Okay, and so I will send the hand. I reach up over my head and make a ki
 DM: Again, the dogs, unlike the shadow creatures, the dogs are beefy, and it again shrugged off your hand. Yeah, but you can give Inspiration.
 
 %% u1535-u1537 %%
-Seeker: Oh yeah. [[I’ve been asked if you want]]. I will send a glowing headlamp of Inspiration to… Who needs it more? Kenzo.
+Seeker: Oh yeah. {{I’ve been asked if you want}}. I will send a glowing headlamp of Inspiration to… Who needs it more? Kenzo.
 
 %% u1538 %%
 DM: Okay, Wellby, you’re up.
@@ -1322,10 +1322,10 @@ Delwath: Six.
 Seeker: I thought I saw Grash send eight.
 
 %% u1574 %%
-Kenzo: A little too Lord of the Rings [[of these]].
+Kenzo: A little too Lord of the Rings {{of these}}.
 
 %% u1575-u1576 %%
-Delwath: Unless these shadow dogs turn to and from shadow creatures as they… [[del]].
+Delwath: Unless these shadow dogs turn to and from shadow creatures as they… {{del}}.
 
 %% u1577 %%
 Wellby: Nor are we certain that all eight of them came in this direction.
@@ -1340,7 +1340,7 @@ Delwath: Yes.
 Kenzo: How are you able to draw energy from those shadows?
 
 %% u1581-u1582 %%
-Delwath: The connection I have to—I forget that creature’s name, Tim. [[What’s up with you]]?
+Delwath: The connection I have to—I forget that creature’s name, Tim. {{What’s up with you}}?
 
 %% u1583 %%
 Unknown: Anyway.
@@ -1364,7 +1364,7 @@ Kenzo: No judgment here, Delwath. We’ve killed a lot of things over the past c
 Delwath: It feels more like gaining some respite from my wounds from myself, rather than gaining the life of the creature I kill. Like a gratitude for defeat, or power I get from defeating an enemy. It’s not sucking the life from the creature.
 
 %% u1606 %%
-Wellby: Wellby makes tiny, subtle eye contact with Kenzo and [[justice]].
+Wellby: Wellby makes tiny, subtle eye contact with Kenzo and {{justice}}.
 
 %% u1607-u1608 %%
 Kenzo: Is now a good time to take a little five-minute break?
@@ -1412,7 +1412,7 @@ Kenzo: Yeah, I’m gonna send three and four right now. There’s only four of t
 Seeker: That’s cool.
 
 %% u1624 %%
-Kenzo: [[So I knew]] introduced me to this.
+Kenzo: {{So I knew}} introduced me to this.
 
 %% u1625 %%
 Unknown: Okay.
@@ -1427,7 +1427,7 @@ Kenzo: Yes, graphic novel. Okay, awesome. Because it’s basically about us.
 Unknown: But…
 
 %% u1633-u1638 %%
-Kenzo: Basically something happens. Several months later in human time, because six of them disappear, right, and then only five of them come back, and one of them doesn’t have an arm. What happens? And then, yeah, literally, there’s not a fucking arm. [[I forgotten even realize that her]]. And then eighteen years later, when they’re all adults, something else happens, and then other things happen from there.
+Kenzo: Basically something happens. Several months later in human time, because six of them disappear, right, and then only five of them come back, and one of them doesn’t have an arm. What happens? And then, yeah, literally, there’s not a fucking arm. {{I forgotten even realize that her}}. And then eighteen years later, when they’re all adults, something else happens, and then other things happen from there.
 
 %% u1639 %%
 Seeker: What was the year of the start? Ninety-one, I think it said.
@@ -1442,7 +1442,7 @@ Unknown: Our shit.
 Kenzo: I think we—I mean, that’s when I started. I think you guys started playing a little earlier than I did.
 
 %% u1643-u1644 %%
-DM: We got [[one the basics for like car]].
+DM: We got {{one the basics for like car}}.
 
 %% u1645 %%
 Delwath: I think it was fourth grade. Fourth grade, right?
@@ -1457,7 +1457,7 @@ DM: Yeah, it was fourth grade, but we mostly played with our neighbors down the 
 Seeker: For school, but…
 
 %% u1649-u1650 %%
-Delwath: No, because in fifth grade, me and [[John Bay Har]], and maybe [[Shorts]] was there too, used to skip recess to read the Monster Manual in [[Mr. Happy]]…
+Delwath: No, because in fifth grade, me and {{John Bay Har}}, and maybe {{Shorts}} was there too, used to skip recess to read the Monster Manual in {{Mr. Happy}}…
 
 %% u1651 %%
 DM: That’s right.
@@ -1478,28 +1478,28 @@ Delwath: Were you part of the skip-recess-to-read-the-Monster-Manual?
 DM: Yeah, every one of you except for me was part of that. Me and Keegan were doing serious—we were doing that solar car race and actual academic stuff. I was just constantly annoyed that you spent your recess goofing off reading the Monster Manual and I had to do work. That’s funny.
 
 %% u1658 %%
-Kenzo: I do remember that. I really do remember that. Yeah, [[Mr. Hathaway]] was just chaos, like, “Whatever the fuck you guys want to do.”
+Kenzo: I do remember that. I really do remember that. Yeah, {{Mr. Hathaway}} was just chaos, like, “Whatever the fuck you guys want to do.”
 
 %% u1659-u1660 %%
 Delwath: Yeah, he was just like, “Here’s a D&D module. Go play.”
 
 %% u1661 %%
-Seeker: That was around the time that [[Ellen]] and I were inventing our own [[taste-based]] games as well.
+Seeker: That was around the time that {{Ellen}} and I were inventing our own {{taste-based}} games as well.
 
 %% u1662 %%
 Delwath: Yes, we were. You were definitely in serious game invention mode at that point.
 
 %% u1663 %%
-Kenzo: [[Shorts]], did you get the text messages?
+Kenzo: {{Shorts}}, did you get the text messages?
 
 %% u1664 %%
 Unknown: Yeah.
 
 %% u1665-u1667 %%
-Kenzo: Dude, so I actually was contemplating just sending them all to you, because they’re such a great—it’s a graphic novel. There’s three volumes that I’ve gotten so far. And yeah, Eric, [[I knew like lemons]], and he was like, “Dude, nice,” and was giving it to me. But it’s great, it’s great. [[Shorts]], you guys should definitely check it out, because it’s semi-autobiographical. But actually, if you map it a little too much to us, it gets a little creepy, so…
+Kenzo: Dude, so I actually was contemplating just sending them all to you, because they’re such a great—it’s a graphic novel. There’s three volumes that I’ve gotten so far. And yeah, Eric, {{I knew like lemons}}, and he was like, “Dude, nice,” and was giving it to me. But it’s great, it’s great. {{Shorts}}, you guys should definitely check it out, because it’s semi-autobiographical. But actually, if you map it a little too much to us, it gets a little creepy, so…
 
 %% u1668 %%
-Wellby: [[Many of us sleep would be trouble]].
+Wellby: {{Many of us sleep would be trouble}}.
 
 %% u1669-u1670 %%
 Kenzo: That happens, actually, as far as I can tell. But yeah, I was telling these guys that when the six characters disappear, and then only five of them come back, and then one of them is missing an arm, right? Very, very… Right, so…
@@ -1508,7 +1508,7 @@ Kenzo: That happens, actually, as far as I can tell. But yeah, I was telling the
 Seeker: Nice.
 
 %% u1672 %%
-Kenzo: Nice, nice. [[Spread]], not even thought about.
+Kenzo: Nice, nice. {{Spread}}, not even thought about.
 
 %% u1673 %%
 DM: So…
@@ -1562,7 +1562,7 @@ Wellby: Yeah, I’m gonna bandage up Baxter.
 Unknown: Okay.
 
 %% u1697 %%
-Wellby: Tell him that he’s very, very good. [[XP]].
+Wellby: Tell him that he’s very, very good. {{XP}}.
 
 %% u1698-u1700 %%
 DM: Okay. The rest of the night passes uneventfully, and…

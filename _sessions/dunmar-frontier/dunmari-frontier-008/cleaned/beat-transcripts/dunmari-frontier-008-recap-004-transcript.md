@@ -1943,7 +1943,7 @@ DM: You can't see that far away. I mean, she's pointing across the darkness to t
 Wellby: We know based on the map.
 
 %% u2834 %%
-Delwath: Yeah, [[for someone or market]].
+Delwath: Yeah, {{for someone or market}}.
 
 %% u2835 %%
 DM: Yeah.
@@ -2102,7 +2102,7 @@ Seeker: Puts air quotes. 'Cyberpunk.' Exactly, yeah.
 DM: More yeah.
 
 %% u2898 %%
-Kenzo: It's more—what would you say our [[charts]]...?
+Kenzo: It's more—what would you say our {{charts}}...?
 
 %% u2899 %%
 DM: Right.
@@ -2114,13 +2114,13 @@ Kenzo: Oh, yeah, yeah.
 Unknown: Yeah.
 
 %% u2902 %%
-Kenzo: Oh, and Eric and I are hanging out with my friend [[I knew]], who's this science-fiction writer guy, on Sunday. And we're going to recruit him to be an NPC for one of these things. We'll figure out what.
+Kenzo: Oh, and Eric and I are hanging out with my friend {{I knew}}, who's this science-fiction writer guy, on Sunday. And we're going to recruit him to be an NPC for one of these things. We'll figure out what.
 
 %% u2903 %%
 Delwath: Cool.
 
 %% u2904-u2906 %%
-Kenzo: Or for both. Yeah, yeah. We'll discuss with—so much experience doing role-playing games. You need to read his book [[summer lands]], because it directly...
+Kenzo: Or for both. Yeah, yeah. We'll discuss with—so much experience doing role-playing games. You need to read his book {{summer lands}}, because it directly...
 
 %% u2907 %%
 DM: I need to read it. I put them on my list, not...

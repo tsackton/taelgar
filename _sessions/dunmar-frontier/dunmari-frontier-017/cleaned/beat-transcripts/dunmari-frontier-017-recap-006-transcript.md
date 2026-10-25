@@ -71,7 +71,7 @@ DM: Just moving slowly, but moving.
 Wellby: Which direction were they moving?
 
 %% u2109-u2113 %%
-DM: Like southwest into the desert itself. Not having supplies or time or water to venture deep into the wastelands of the Garamjala, we skirted the northern boundary and came about as far west as [[as bad as it]], so right to a bit here before we started cutting back east, heading for the central plain here before turning west again.
+DM: Like southwest into the desert itself. Not having supplies or time or water to venture deep into the wastelands of the Garamjala, we skirted the northern boundary and came about as far west as {{as bad as it}}, so right to a bit here before we started cutting back east, heading for the central plain here before turning west again.
 
 %% u2114-u2123 %%
 DM: One odd thing, scouting around the north side of the Garamjala, it seemed like we were not perhaps the only ones watching. While we were tracking them, the gnolls I mean, I noticed there was a large raven that was not acting the way I would expect a bird to act. It seemed to be soaring high above the gnolls and following them. Seemed out of place, like it was keeping watch or something. It stuck with them for two, three hours before falling back, and then a few hours later came out of the northeast again, caught up with the previous position, and then headed southwest into the desert.
@@ -104,7 +104,7 @@ Delwath: So how close is where she's talking about to where I arrived at the beg
 DM: I mean, Kharsan is the same place.
 
 %% u2143-u2144 %%
-Delwath: Okay, right, right, right. I forgot [[I read]].
+Delwath: Okay, right, right, right. I forgot {{I read}}.
 
 %% u2145-u2146 %%
 Kenzo: So, Seeker, I think you've got some skills in visual cartography. Can you give us a visual here?
@@ -134,7 +134,7 @@ DM: She starts...
 Seeker: Looking for space-time gnoll vectors.
 
 %% u2156 %%
-Kenzo: Yes, exactly. And I would love to [[them]] over time so that we can adjust and see what the movements have been, based on what we know, when they were on what day.
+Kenzo: Yes, exactly. And I would love to {{them}} over time so that we can adjust and see what the movements have been, based on what we know, when they were on what day.
 
 %% u2157 %%
 Seeker: So I can use Minor Illusion to make an animated...
@@ -143,7 +143,7 @@ Seeker: So I can use Minor Illusion to make an animated...
 DM: Yeah.
 
 %% u2159 %%
-Seeker: Band of tiny gnolls in each place, but [[it was already drawing it]]. There was also...
+Seeker: Band of tiny gnolls in each place, but {{it was already drawing it}}. There was also...
 
 %% u2160 %%
 DM: So...
@@ -155,7 +155,7 @@ Seeker: So they're like an inch high, little tiny...
 Kenzo: But I figured we need more panache, like some really cool, animated, the gnolls running and decaying as they're walking and stuff.
 
 %% u2163-u2164 %%
-Seeker: Yeah, [[sibling skillful]]. Love it.
+Seeker: Yeah, {{sibling skillful}}. Love it.
 
 %% u2165-u2166 %%
 DM: So this is about everything that you've seen, plus the group at Raven’s Hold, right? There was the first attack, a small band towards Karawa, right here. Then there was the attack at Bas Udda, and if Alesh is right that that same band moved on to attack Karawa, then this arrow would continue...
@@ -194,7 +194,7 @@ Unknown: Oh, yeah.
 DM: I mean, you cannot draw where it was on the map. You do happen to have a Speaker of Shakun standing right here, if you would like to ask him.
 
 %% u2182 %%
-Seeker: Oh yeah, you know that. [[I can you...]]
+Seeker: Oh yeah, you know that. {{I can you...}}
 
 %% u2183-u2184 %%
 DM: Know that it ran through this. All you know is that it ran through this canyon, the giant canyon, the crack in the earth.
@@ -248,7 +248,7 @@ Kenzo: But Candrosa, I mean for you, when did you notice it? The reason why I as
 DM: There are some secrets of my order I cannot reveal, but I can say that Shakun’s power... Well, I first noticed Shakun’s power waning some time ago. Months. Early this year. And then he sort of... Actually, make a Persuasion check.
 
 %% u2228 %%
-Kenzo: [[Early not statements.]]
+Kenzo: {{Early not statements.}}
 
 %% u2229-u2235 %%
 DM: He looks around and looks at Delwath, and he says, ‘I couldn't date it precisely. There are some things that... Shakun ceased to speak to me, and... But when the borders fell, it was a gradual... This is a gradual thing.’
@@ -260,7 +260,7 @@ Kenzo: Okay, that's just what I'm trying to understand. Was there a moment that 
 Unknown: Trying to understand.
 
 %% u2238-u2239 %%
-DM: Well, in that silence, [[you're]] speaks up and says, ‘Oh wait, I didn't tell you about the stone house.’
+DM: Well, in that silence, {{you're}} speaks up and says, ‘Oh wait, I didn't tell you about the stone house.’
 
 %% u2240 %%
 Kenzo: Just going to ask you what else you saw.
@@ -275,7 +275,7 @@ Unknown: Oops.
 DM: Head south a hundred and twenty miles, and there's nothing but sands and wastes as far as the eye can see. None of these sheltered rocks, none of these oases. We don't go there. Nobody goes there. How could anybody survive there? But incongruously perched with a little retaining wall sheltering it from the sand, a courtyard, a well with water in it, a sandstone house with a garden, goats, chickens, and hay and seed to feed them, just sitting there. I tried the water. It wasn't an illusion. I could chase down a chicken and pick it up, and it squawked at me and pecked at my hand.
 
 %% u2263-u2265 %%
-DM: But nobody was there [[to eat it and...]]
+DM: But nobody was there {{to eat it and...}}
 
 %% u2266 %%
 Kenzo: Yeah, somebody had been there.
@@ -296,7 +296,7 @@ Delwath: I'm not a looter, you...
 Kenzo: Kenzo stands in front of the horse, blocking the view.
 
 %% u2274 %%
-Seeker: [[Well pat our pocket.]]
+Seeker: {{Well pat our pocket.}}
 
 %% u2275-u2276 %%
 DM: Yes, some historical artifacts have great value and are worth recovering and understanding, but just taking something from somebody's house...?
@@ -389,7 +389,7 @@ DM: Possibly.
 Kenzo: There's that elvish humor again.
 
 %% u2351-u2357 %%
-DM: Hard to know. [[Sort of us.]] Anyway, the mother of the—what did I just call her? The Old Woman of the Dusts. I have it written down somewhere. The Old Woman of the Dusts, she's the sort of person you go to when you need something and don't quite know how to get it, but somehow it never goes right for you. People say supposedly the Old Mother of the Dusts lives about a day's journey south of Bas Udda, on the edge of the Garamjala Desert. I guess that would be roughly...
+DM: Hard to know. {{Sort of us.}} Anyway, the mother of the—what did I just call her? The Old Woman of the Dusts. I have it written down somewhere. The Old Woman of the Dusts, she's the sort of person you go to when you need something and don't quite know how to get it, but somehow it never goes right for you. People say supposedly the Old Mother of the Dusts lives about a day's journey south of Bas Udda, on the edge of the Garamjala Desert. I guess that would be roughly...
 
 %% u2358 %%
 Kenzo: Where that happens.
@@ -422,7 +422,7 @@ Delwath: Yeah, I was just gonna say it's getting a bit late.
 DM: I think that's a good ending note as well.
 
 %% u2392 %%
-Seeker: Let's think about [[him]]. That was interesting. Thank you.
+Seeker: Let's think about {{him}}. That was interesting. Thank you.
 
 %% u2393 %%
 Unknown: Yeah.

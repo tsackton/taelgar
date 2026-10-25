@@ -143,7 +143,7 @@ Unknown: No, I'll just... You can just... I'll—
 DM: But it's basically like a—
 
 %% u0070 %%
-Unknown: [[I'm dad]], but just one minute.
+Unknown: {{I'm dad}}, but just one minute.
 
 %% u0071 %%
 DM: ... it's like a burst out of combat.
@@ -170,7 +170,7 @@ Kenzo: Any turn.
 DM: ... any turn, yeah.
 
 %% u0079 %%
-Unknown: [[Tollen]], was I supposed to do something?
+Unknown: {{Tollen}}, was I supposed to do something?
 
 %% u0080 %%
 Delwath: 20, not 30.
@@ -488,7 +488,7 @@ Unknown: Mm-hmm. It's a little—
 Seeker: That doesn't quite make sense.
 
 %% u0243-u0244 %%
-Delwath: [[The widdle confused]]. It's missed the fact that Dunmar is a plain.
+Delwath: {{The widdle confused}}. It's missed the fact that Dunmar is a plain.
 
 %% u0245-u0246 %%
 Unknown: There's no east. Yeah, [laughs] No east.
@@ -713,7 +713,7 @@ DM: He's multitasking. And so he can make... Showing up just through the threads
 Unknown: Oh, question.
 
 %% u0364 %%
-Kenzo: Wait, is he bringing us to [[TC Trevor]]?
+Kenzo: Wait, is he bringing us to {{TC Trevor}}?
 
 %% u0365 %%
 DM: He's bringing you close.
@@ -1094,7 +1094,7 @@ Unknown: [laughs] There's a little...
 Seeker: Damn it, you're right. [laughs] There's something I need to confront here about my treatment of my own simulacrum.
 
 %% u0552-u0553 %%
-Delwath: Wow, 'cause you know it's [[not a good lie]]... 'Cause Seeker's like, "You're not real."
+Delwath: Wow, 'cause you know it's {{not a good lie}}... 'Cause Seeker's like, "You're not real."
 
 %% u0554 %%
 Unknown: "You're just a—"

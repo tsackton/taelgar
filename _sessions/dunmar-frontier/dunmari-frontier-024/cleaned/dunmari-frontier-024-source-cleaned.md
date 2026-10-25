@@ -96,7 +96,7 @@
 [u0096 | 00:10:51.480-00:10:52.320 | Delwath] As far as I know.
 [u0097 | 00:10:52.440-00:10:54.360 | DM] No, you did not do.
 [u0098 | 00:10:54.510-00:10:55.230 | Delwath] You got.
-[u0099 | 00:10:57.390-00:10:58.800 | DM] [[Your shirt now]].
+[u0099 | 00:10:57.390-00:10:58.800 | DM] {{Your shirt now}}.
 [u0100 | 00:11:00.000-00:11:00.840 | DM] The lightning trap.
 [u0101 | 00:11:01.290-00:11:04.890 | DM] Oh yeah you tried to open the door to the Masters library.
 [u0102 | 00:11:05.730-00:11:08.280 | Seeker] Kenzo I'm noticing that you don't look great.
@@ -257,7 +257,7 @@
 [u0257 | 00:22:59.340-00:23:03.120 | Kenzo] TIM, are there any stairs down any place any any visible ways to go.
 [u0258 | 00:23:03.150-00:23:05.310 | Seeker] What What if.
 [u0259 | 00:23:06.120-00:23:18.060 | DM] There were just stairs up in the previous hall there, I mean you've you've only come that you've entered into a relatively small part of the temple itself, there could be stairs down somewhere else.
-[u0260 | 00:23:19.680-00:23:21.900 | Kenzo] [[This is to avoid going down to go down]].
+[u0260 | 00:23:19.680-00:23:21.900 | Kenzo] {{This is to avoid going down to go down}}.
 [u0261 | 00:23:24.540-00:23:25.470 | Unknown] So you.
 [u0262 | 00:23:29.400-00:23:30.150 | Kenzo] let's move quickly.
 [u0263 | 00:23:31.470-00:23:35.730 | Seeker] We might learn things in ways other than.
@@ -389,7 +389,7 @@
 [u0389 | 00:36:18.990-00:36:20.850 | DM] Certainly, you know.
 [u0390 | 00:36:22.920-00:36:24.000 | DM] That wouldn't be.
 [u0391 | 00:36:25.770-00:36:28.260 | DM] I mean it's up to you right I you know, I think.
-[u0392 | 00:36:31.230-00:36:38.670 | DM] You can decide how you I mean that's like how your character feels about things right like [[do you like them emotion]], but.
+[u0392 | 00:36:31.230-00:36:38.670 | DM] You can decide how you I mean that's like how your character feels about things right like {{do you like them emotion}}, but.
 [u0393 | 00:36:39.060-00:36:45.630 | Kenzo] they're saying it's like there's no like for the order it's not is it like part of the training to feel like to be like that, or is it like you know.
 [u0394 | 00:36:46.410-00:36:53.400 | DM] No, because lots of I mean many monks don't have any class levels right, like most of them could not fight off undead.
 [u0395 | 00:36:54.000-00:36:57.750 | DM] Right there's no sense that, like it's not an order of.
@@ -447,7 +447,7 @@
 [u0447 | 00:40:42.390-00:40:48.660 | Wellby] Can I put myself in that entry Chapel so that I can see where they are in the main room but also see the door.
 [u0448 | 00:40:49.170-00:40:51.450 | Wellby] yep I think I'm gonna post myself.
 [u0449 | 00:40:51.600-00:40:53.550 | Seeker] Oh, oh oh God there yeah.
-[u0450 | 00:40:54.210-00:40:57.930 | Delwath] All right, [[well guess what the cat is out turn invisible]].
+[u0450 | 00:40:54.210-00:40:57.930 | Delwath] All right, {{well guess what the cat is out turn invisible}}.
 [u0451 | 00:41:01.770-00:41:02.280 | DM] Okay.
 [u0452 | 00:41:05.550-00:41:10.770 | Kenzo] TIM Kenzo’s gonna sneak over sneakily very sneakily because he's so sneaky.
 [u0453 | 00:41:12.870-00:41:18.690 | Kenzo] To get a closer to where he sensed the undead evil and yeah just see what's over there.
@@ -577,7 +577,7 @@
 [u0577 | 00:50:30.990-00:50:32.100 | DM] towards the sound.
 [u0578 | 00:50:32.730-00:50:35.100 | Kenzo] All right, I can I try Soul Sight, the shadow.
 [u0579 | 00:50:35.910-00:50:36.420 | DM] sure.
-[u0580 | 00:50:37.230-00:50:38.820 | Kenzo] I will, I will [[send the shadow]].
+[u0580 | 00:50:37.230-00:50:38.820 | Kenzo] I will, I will {{send the shadow}}.
 [u0581 | 00:50:40.980-00:50:41.790 | DM] So.
 [u0582 | 00:50:42.840-00:50:43.260 | DM] I'm.
 [u0583 | 00:50:44.880-00:50:45.750 | Unknown] interesting.
@@ -636,7 +636,7 @@
 [u0636 | 00:55:12.990-00:55:13.350 | DM] Okay.
 [u0637 | 00:55:14.160-00:55:14.760 | Delwath] And you're back.
 [u0638 | 00:55:14.850-00:55:15.510 | DM] to China and Hong.
-[u0639 | 00:55:15.810-00:55:17.370 | Delwath] [[Paul can thank]] keep an eye on it.
+[u0639 | 00:55:15.810-00:55:17.370 | Delwath] {{Paul can thank}} keep an eye on it.
 [u0640 | 00:55:19.470-00:55:25.800 | Kenzo] I wanna I'm still invisible, but I want to stand into just like move into a place where there's more light okay.
 [u0641 | 00:55:27.840-00:55:31.980 | Kenzo] I'm watching it because it has to pass through life at light at some point, once he followed me right.
 [u0642 | 00:55:33.060-00:55:34.470 | DM] yep okay.
@@ -669,7 +669,7 @@
 [u0669 | 00:57:35.220-00:57:45.480 | Delwath] nevermind I I thought it was if it if it goes past me into the sunlight such that the dark area where it is it's not in anymore, I want to go explore that dark area.
 [u0670 | 00:57:45.510-00:57:51.750 | DM] Well, it seems to have stopped at the edge of the sunlight and kind of like faded back against the wall.
 [u0671 | 00:57:53.790-00:57:55.890 | Kenzo] How much more, how many more minutes to be had before the sun goes down.
-[u0672 | 00:57:57.720-00:57:58.680 | DM] hmm [[can]].
+[u0672 | 00:57:57.720-00:57:58.680 | DM] hmm {{can}}.
 [u0673 | 00:57:59.910-00:58:09.630 | Kenzo] Great yeah I'll I'll kind of walk forward a little bit more with the drift globe getting kind of closer to it and see if it if it continues, if it reacts in any way to drift globe.
 [u0674 | 00:58:11.160-00:58:11.940 | DM] retreats.
 [u0675 | 00:58:14.880-00:58:15.300 | Kenzo] Okay.
@@ -1290,7 +1290,7 @@
 [u1290 | 01:51:21.600-01:51:22.290 | Delwath] In Kharsan.
 [u1291 | 01:51:24.240-01:51:24.930 | Seeker] about what.
 [u1292 | 01:51:30.450-01:51:36.060 | Delwath] Grash the orcs what what is happening here, why is this.
-[u1293 | 01:51:39.990-01:51:45.120 | Delwath] Why are all these orcs [[curing]] what is what is disrupting this part of the world.
+[u1293 | 01:51:39.990-01:51:45.120 | Delwath] Why are all these orcs {{curing}} what is what is disrupting this part of the world.
 [u1294 | 01:51:47.130-01:51:47.790 | Delwath] But it's.
 [u1295 | 01:51:49.710-01:51:50.850 | Delwath] it's clearly.
 [u1296 | 01:51:55.290-01:51:56.850 | Delwath] That there is obviously risky.
@@ -1946,7 +1946,7 @@
 [u1946 | 02:46:14.730-02:46:30.750 | DM] This is a stone bridge made of made of hard sandstone but it's kind of pointless as the river is just a dry wash so it's this big bridge spanning nothing it's early Dunmari construction not not Drankorian.
 [u1947 | 02:46:33.810-02:46:34.050 | DM] But.
 [u1948 | 02:46:36.000-02:46:38.790 | DM] solidly built only crumbling in a few places.
-[u1949 | 02:46:40.590-02:46:42.870 | Seeker] Who knows, maybe [[herself]] cross this bridge.
+[u1949 | 02:46:40.590-02:46:42.870 | Seeker] Who knows, maybe {{herself}} cross this bridge.
 [u1950 | 02:46:47.940-02:46:48.960 | DM] fat now go ahead.
 [u1951 | 02:46:49.410-02:46:52.590 | Wellby] or their sewer pipes emptying into the river that are visible.
 [u1952 | 02:46:53.640-02:46:54.330 | DM] I'm.
@@ -2021,7 +2021,7 @@
 [u2021 | 02:52:44.700-02:52:46.470 | DM] Resting against the.
 [u2022 | 02:52:48.090-02:52:55.830 | DM] Against the back of the throne is a wicked looking glaive with a blade that sort of etched in.
 [u2023 | 02:52:57.660-02:52:58.140 | DM] with like.
-[u2024 | 02:53:01.230-02:53:07.530 | DM] Like it almost looks like it's been sort of [[slightly in a way]], so it's got this jagged, jagged edge.
+[u2024 | 02:53:01.230-02:53:07.530 | DM] Like it almost looks like it's been sort of {{slightly in a way}}, so it's got this jagged, jagged edge.
 [u2025 | 02:53:09.210-02:53:11.130 | DM] This skeletal creature is.
 [u2026 | 02:53:12.480-02:53:18.600 | DM] sitting in this throne looking intently at two orcs that are kneeling on the ground.
 [u2027 | 02:53:20.190-02:53:22.860 | DM] Like bow down entirely.
@@ -2220,7 +2220,7 @@
 [u2220 | 03:06:51.150-03:06:59.280 | Delwath] can see invisibility we’re in a lot of trouble, but whatever I mean what's going to happen, he finds out, he already knows we're around.
 [u2221 | 03:07:00.000-03:07:00.600 | Wellby] A lot of trouble.
 [u2222 | 03:07:00.720-03:07:02.760 | Delwath] Right exactly it's like it get worse.
-[u2223 | 03:07:03.150-03:07:05.970 | Seeker] [[line is six this scroll near Grash’s head]].
+[u2223 | 03:07:03.150-03:07:05.970 | Seeker] {{line is six this scroll near Grash’s head}}.
 [u2224 | 03:07:06.240-03:07:11.610 | DM] Okay, so given that you've already seen this room Now you can position it anywhere you'd like in the room.
 [u2225 | 03:07:11.850-03:07:13.050 | DM] amazing um.
 [u2226 | 03:07:14.130-03:07:15.630 | DM] clairvoyance is a great spell.
@@ -2341,7 +2341,7 @@
 [u2341 | 03:15:30.720-03:15:39.150 | DM] You know, maybe a bakery or or homes but it's difficult to to tell much of the city here, as this.
 [u2342 | 03:15:42.360-03:15:53.130 | DM] As this area has has suffered the seemingly the most damage um is there anything in particular you're looking for like what's your goal with this scouting mission.
 [u2343 | 03:15:53.490-03:15:55.620 | Delwath] um two things.
-[u2344 | 03:15:56.940-03:16:09.540 | Delwath] I am going to look for just signs of activity, but also I'm going to try and see if I can find anything distinctive that I can pick up and bring back to show, [[and you dumb as these mirror]].
+[u2344 | 03:15:56.940-03:16:09.540 | Delwath] I am going to look for just signs of activity, but also I'm going to try and see if I can find anything distinctive that I can pick up and bring back to show, {{and you dumb as these mirror}}.
 [u2345 | 03:16:10.800-03:16:11.970 | Kenzo] Oh.
 [u2346 | 03:16:12.030-03:16:12.600 | Seeker] Good call.
 [u2347 | 03:16:12.930-03:16:13.320 | Unknown] yeah.
@@ -2354,7 +2354,7 @@
 [u2354 | 03:16:47.640-03:16:49.380 | Delwath] seem more notable than others.
 [u2355 | 03:16:50.340-03:16:50.580 | Unknown] Make.
 [u2356 | 03:16:51.780-03:16:52.980 | DM] Investigation check.
-[u2357 | 03:16:53.730-03:16:58.110 | Kenzo] [[Who should we have done this for the monastery to know the objects that we needed it should be brought back in the monster]].
+[u2357 | 03:16:53.730-03:16:58.110 | Kenzo] {{Who should we have done this for the monastery to know the objects that we needed it should be brought back in the monster}}.
 [u2358 | 03:17:03.690-03:17:04.590 | DM] So.
 [u2359 | 03:17:07.260-03:17:12.930 | DM] yeah I mean it's hard to it's really hard to tell about the the the buildings, given that.
 [u2360 | 03:17:14.040-03:17:25.410 | DM] Most of them don't really even have I mean, these are real, these are really ruins and you're not given that you're moving relatively quickly, in the time pressure on.
@@ -2471,7 +2471,7 @@
 [u2471 | 03:28:13.980-03:28:16.350 | Delwath] I think all the dead Dunmari are you know.
 [u2472 | 03:28:16.800-03:28:18.960 | Delwath] who died horribly are haunting the city.
 [u2473 | 03:28:19.320-03:28:20.130 | Seeker] mm hmm.
-[u2474 | 03:28:20.280-03:28:22.230 | Kenzo] [[That is the revenue cycle solution traps]].
+[u2474 | 03:28:20.280-03:28:22.230 | Kenzo] {{That is the revenue cycle solution traps}}.
 [u2475 | 03:28:22.290-03:28:24.060 | Kenzo] I don't think those were like illusions like.
 [u2476 | 03:28:25.140-03:28:26.490 | Delwath] I don't think so, I think.
 [u2477 | 03:28:26.850-03:28:28.350 | Delwath] sounded a little too.
@@ -2486,7 +2486,7 @@
 [u2486 | 03:29:06.630-03:29:08.010 | Kenzo] I gotta go yeah.
 [u2487 | 03:29:08.310-03:29:08.670 | Delwath] We do.
 [u2488 | 03:29:08.850-03:29:10.050 | Kenzo] That was that was awesome.
-[u2489 | 03:29:10.320-03:29:15.240 | Kenzo] It was awesome so glad we did that and learn [[saga rush]] that was epic.
+[u2489 | 03:29:10.320-03:29:15.240 | Kenzo] It was awesome so glad we did that and learn {{saga rush}} that was epic.
 [u2490 | 03:29:16.260-03:29:17.910 | Seeker] It really epic sounds cool.
 [u2491 | 03:29:17.910-03:29:19.170 | DM] Before everybody goes.
 [u2492 | 03:29:20.820-03:29:22.080 | Wellby] Well, pick up with you.

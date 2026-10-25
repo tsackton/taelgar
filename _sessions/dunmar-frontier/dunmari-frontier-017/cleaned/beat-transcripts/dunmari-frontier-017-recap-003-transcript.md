@@ -11,7 +11,7 @@
 DM: Okay, so you set off heading south across the plains. It is...
 
 %% u0765 %%
-Seeker: [[A the goggles on, lonely.]] Right.
+Seeker: {{A the goggles on, lonely.}} Right.
 
 %% u0766-u0777 %%
 DM: Okay, your horse is leading you at this point because with the goggles on, you can't really see more than ten feet in front of you, right? Like, the landscape is all blurry. So you head south. You are extremely tired and going is slow, and it's hard to make a ton of progress. Every brief little rise of the land feels like hiking up a mountain. And so by after lunchtime, you've only made it a handful of miles. And as you press on into the afternoon, you come over a rise and see in the distance, maybe a few hundred feet away, a cloud of dust. Somebody traveling on the plains.
@@ -29,7 +29,7 @@ DM: Straight roll, no disadvantage. So as you crouch down and look through the s
 DM: They don't seem to have noticed you at the moment.
 
 %% u0796-u0797 %%
-Delwath: Does it look like it's tracking food, or tracking...? [[Is it Santa's gonna say]] it's not like following a specific trail, is it?
+Delwath: Does it look like it's tracking food, or tracking...? {{Is it Santa's gonna say}} it's not like following a specific trail, is it?
 
 %% u0798-u0799 %%
 DM: No. Well, it's hard to tell, but that's not your immediate impression.
@@ -89,7 +89,7 @@ Seeker: So they're on foot.
 DM: They’re on foot. Yes.
 
 %% u0828 %%
-Seeker: They could no doubt chase us down. [[Is an escape from them.]]
+Seeker: They could no doubt chase us down. {{Is an escape from them.}}
 
 %% u0829 %%
 DM: They could easily chase you down because all your movement is halved because you're exhausted.
@@ -119,10 +119,10 @@ Delwath: Yeah. They're not gonna get close to us.
 Kenzo: Weapons.
 
 %% u0841-u0842 %%
-Delwath: [[What could you guys catch their eye was brother back.]]
+Delwath: {{What could you guys catch their eye was brother back.}}
 
 %% u0843 %%
-Kenzo: [[I got especially from this.]] This is easy.
+Kenzo: {{I got especially from this.}} This is easy.
 
 %% u0844-u0852 %%
 DM: So as they... Let's see, where was this? So as you're just standing here, not making any attempt to get back behind the... I mean, I have been—okay, Seeker's hiding, ducking back. They notice you at this point standing on the top of the ridge. The one on the front points, and they all begin running in your direction. But they do not seem to... Nobody's shot a missile at you yet. Can you all roll initiative with disadvantage because you're exhausted?
@@ -140,7 +140,7 @@ Delwath: I rolled two twenties and a four, but I'm gonna drop my four. I rolled 
 DM: Oh yes, I see that. So you get...
 
 %% u0858-u0859 %%
-Seeker: [[Easy.]] And I am at...
+Seeker: {{Easy.}} And I am at...
 
 %% u0860 %%
 Wellby: At sixteen.
@@ -209,7 +209,7 @@ Kenzo: And I...
 DM: Yeah. And if you wanted to roll Hit Dice, that's fine too.
 
 %% u0887 %%
-Seeker: So, oops, I did it twice [[backs]]. And actually, that's good. I'll take two. That's fourteen.
+Seeker: So, oops, I did it twice {{backs}}. And actually, that's good. I'll take two. That's fourteen.
 
 %% u0888 %%
 Kenzo: So I add four points back?
@@ -230,7 +230,7 @@ Unknown: Okay.
 Seeker: Yeah.
 
 %% u0896-u0902 %%
-DM: That misses as your bolt flies wide. And the one in the front now looks around. This one, although emaciated and damaged and seems to have not eaten for some time, is certainly more put together than the skeletal ones following it, and pulls out this large glaive and then charges sixty feet, half the distance to you. Let's see, Wellby. And as it's running forward, Wellby [[our hopes up to...]]
+DM: That misses as your bolt flies wide. And the one in the front now looks around. This one, although emaciated and damaged and seems to have not eaten for some time, is certainly more put together than the skeletal ones following it, and pulls out this large glaive and then charges sixty feet, half the distance to you. Let's see, Wellby. And as it's running forward, Wellby {{our hopes up to...}}
 
 %% u0903 %%
 Wellby: That's the only one within eighty feet, is that right?
@@ -269,7 +269,7 @@ Wellby: But for...
 DM: Fourteen. So Wellby, taking a moment to just carefully position himself, snickering at his companions who are shooting wildly, places an arrow directly in between the links of this gnoll’s chain shirt, and it snarls and rears back. Then, coming up behind, the five emaciated skeletal gnolls all also charge sixty feet. Arriving at... So now everybody is within sixty feet of you, bringing us to Kenzo.
 
 %% u0924 %%
-Kenzo: I will look for my darts. [[Are plenty.]]
+Kenzo: I will look for my darts. {{Are plenty.}}
 
 %% u0925 %%
 DM: Okay. So that means sixty feet has disadvantage. You can shoot up to twenty, up to sixty feet, but you have disadvantage. All right.
@@ -281,7 +281,7 @@ Kenzo: I’ll shoot a dart at the...
 DM: Okay.
 
 %% u0928 %%
-Kenzo: The disadvantage, [[is that the role of us]]?
+Kenzo: The disadvantage, {{is that the role of us}}?
 
 %% u0929-u0932 %%
 DM: Yeah, if you just hold down—I forget which button—you can auto-disadvantage. So twelve. No, sorry, your dart also flies wide. Well, other than Wellby’s carefully aimed arrow, these creatures are weaving and dodging, and because of that it's quite difficult to...
@@ -311,7 +311,7 @@ Delwath: But I only did two damage. You know, I think... I'm going to Hex the gu
 Unknown: Okay.
 
 %% u0942 %%
-Delwath: [[No ad for...]]
+Delwath: {{No ad for...}}
 
 %% u0943 %%
 Unknown: So...
@@ -368,7 +368,7 @@ Kenzo: You know,
 DM: So now with two arrows sticking out of it, the other non-shattered gnoll skeletal creatures rush forward now, two standing next to Delwath, one next to Kenzo, as they're beginning to surround you. And now it's Kenzo’s turn.
 
 %% u0995 %%
-Kenzo: So how far...? Oh, actually, oh man. I do the thing where I can tell how many points [[out]].
+Kenzo: So how far...? Oh, actually, oh man. I do the thing where I can tell how many points {{out}}.
 
 %% u0996 %%
 DM: So that takes an action, I believe.
@@ -407,7 +407,7 @@ Kenzo: Yeah.
 Unknown: Um,
 
 %% u1012 %%
-Kenzo: The moment this happens, [[was was tips]], even though there are no guns.
+Kenzo: The moment this happens, {{was was tips}}, even though there are no guns.
 
 %% u1013-u1021 %%
 DM: The skeletal gnoll that's closest to you just rears up and lunges at you with its bite, Kenzo, doing six points of damage. In reaction to your strike, it just tears into you. Delwath, the one that's next to you does the same thing, ripping to bite into you as you just dodge back out of the way. And then the other one that's next to you, Delwath, swings with its club, which—what's your AC? Seventeen—which you catch on the edge of your shield, as they all sort of rear up in reaction to the death of their...
@@ -455,7 +455,7 @@ Wellby: I will kill the next thing that there is to kill.
 DM: That's...
 
 %% u1055 %%
-Kenzo: [[Is so advantages.]]
+Kenzo: {{Is so advantages.}}
 
 %% u1056-u1057 %%
 DM: And that kills that. This...
@@ -479,7 +479,7 @@ Unknown: Nasty.
 Kenzo: Nasty.
 
 %% u1066-u1067 %%
-DM: Although you just did eighteen points of damage in one blow. [[Oh, who may true]], yeah.
+DM: Although you just did eighteen points of damage in one blow. {{Oh, who may true}}, yeah.
 
 %% u1068 %%
 Kenzo: Yeah, that was pretty, pretty badass, but...
@@ -623,7 +623,7 @@ DM: More in the ‘we are slowly turning into undead’ sense, not ‘we don't h
 Unknown: Kept us from dying.
 
 %% u1160-u1162 %%
-Delwath: [[Jeremy. Oh, totally timber topic]], Tim, but Mom and Dad are getting vaccines a week from tomorrow through the New Hampshire hack. Well, because we have a house in New Hampshire, and New Hampshire's apparently more functional than...
+Delwath: {{Jeremy. Oh, totally timber topic}}, Tim, but Mom and Dad are getting vaccines a week from tomorrow through the New Hampshire hack. Well, because we have a house in New Hampshire, and New Hampshire's apparently more functional than...
 
 %% u1163 %%
 Unknown: Massachusetts
@@ -638,16 +638,16 @@ DM: They put that as their address?
 Delwath: Is already vaccinating sixty-five, yeah. Because Mass is like the worst vaccine rollout in many places, except for...
 
 %% u1169 %%
-Unknown: Well, yeah, [[forty]] is apparently...
+Unknown: Well, yeah, {{forty}} is apparently...
 
 %% u1170 %%
-Delwath: [[Glasses off.]]
+Delwath: {{Glasses off.}}
 
 %% u1171 %%
 Kenzo: Her first shot two days ago.
 
 %% u1172-u1173 %%
-Seeker: Oh, that's great. [[Books]] are both, you know, health workers, so they're actually both getting the vaccine soon.
+Seeker: Oh, that's great. {{Books}} are both, you know, health workers, so they're actually both getting the vaccine soon.
 
 %% u1174 %%
 Unknown: Right.
@@ -659,7 +659,7 @@ Seeker: Yeah, it's great. Yeah.
 DM: Okay. So as you set up camp here, sleep for the night... So, long rests. That will cure one level of exhaustion. You'll need to sleep again before you get back to completely no negative effects.
 
 %% u1180 %%
-Kenzo: [[For they will]], I am already...
+Kenzo: {{For they will}}, I am already...
 
 %% u1181 %%
 DM: You're fine. Yeah, Kenzo’s fine.
@@ -719,7 +719,7 @@ DM: Here meaning here where you are camped. Okay, right. So along the way... Thi
 Unknown: Who
 
 %% u1245 %%
-Seeker: [[Knew]], but there isn't one leading towards Karawa?
+Seeker: {{Knew}}, but there isn't one leading towards Karawa?
 
 %% u1246 %%
 DM: Well, you know that there are several that cross in Karawa. There’s a node under the Red Mesa there, but they must come up from underground or come from another direction because you don't see one here leading to Karawa. That's, yeah.

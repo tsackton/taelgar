@@ -14,7 +14,7 @@ DM: Okay, so we begin tonight as the morning sun rises over Raven's Hold. It was
 DM: Yesterday, after traveling through the dwarven strongholds, finding your way into Raven's Hold underneath the valley, and rescuing the Chardonian adventurer Vola Forena, you began to uncover the secrets of this place. A small group of gnolls seems to have made this a base where they're herding and keeping animals—wild dogs, jackals, hyenas, lions, and more—for some apparent ritual.
 
 %% u0006-u0009 %%
-DM: Investigating the inner keep of Raven's Hold, you found a demon occupying it and patiently waiting for something, and beginning to corrupt the dead bodies of antelope and other prey for some unknown purpose. Not really wanting to wait and see where this was leading, you attacked. Despite the dangerous poison stinger on its [[BB]] tail and the disease its poison caused, you prevailed, watching the demon's body disintegrate after Kenzo's killing blow.
+DM: Investigating the inner keep of Raven's Hold, you found a demon occupying it and patiently waiting for something, and beginning to corrupt the dead bodies of antelope and other prey for some unknown purpose. Not really wanting to wait and see where this was leading, you attacked. Despite the dangerous poison stinger on its {{BB}} tail and the disease its poison caused, you prevailed, watching the demon's body disintegrate after Kenzo's killing blow.
 
 %% u0010-u0014 %%
 DM: Thinking back a month ago in Karawa, you are surprised to realize that it was only a short time ago that... And the fact that you are now destroying actual demons seems sometimes hard to believe. Despite the fitful and restless night filled with unwanted dreams of violence, you awake with a renewed sense of confidence and purpose, and a better sense of your capabilities and strengths.
@@ -65,7 +65,7 @@ Kenzo: And how big is the room that we're in?
 DM: It's about maybe forty feet across, a circle.
 
 %% u0052-u0055 %%
-Kenzo: Okay, small room. Yeah. So Kenzo's about a six-foot-tall human wearing a light tunic, actually probably not too dissimilar to what I'm wearing right now. A light tunic, a smaller pack with his staff—two staffs. I'm still carrying around that other... [[I pledge]] that other staff. Anyways, two large, large staffs next to the pack on the ground. Longer hair tied back into a bit of a topknot.
+Kenzo: Okay, small room. Yeah. So Kenzo's about a six-foot-tall human wearing a light tunic, actually probably not too dissimilar to what I'm wearing right now. A light tunic, a smaller pack with his staff—two staffs. I'm still carrying around that other... {{I pledge}} that other staff. Anyways, two large, large staffs next to the pack on the ground. Longer hair tied back into a bit of a topknot.
 
 %% u0056-u0058 %%
 Kenzo: Kenzo's kind of splitting his consciousness, occasionally looking over at Seeker and his maps with some curiosity at what Seeker's doing, and then also spending most of his consciousness just peering carefully outside of the window, really trying to observe and see what is going on out there. What is the vibe outside? Really trying to sense the energetics of the moment.
@@ -89,13 +89,13 @@ DM: Back here is the inner courtyard, where the keep is and the dead demon. Out 
 Seeker: Is—
 
 %% u0081 %%
-Riswynn: [[Not seamless.]]
+Riswynn: {{Not seamless.}}
 
 %% u0082 %%
-Delwath: [[Only Better basket see whatever your—]]
+Delwath: {{Only Better basket see whatever your—}}
 
 %% u0083-u0087 %%
-Seeker: Oh wait, there's something way at the bottom of that black area. There's a circular tower thing. I mean, [[what some]] green and weird.
+Seeker: Oh wait, there's something way at the bottom of that black area. There's a circular tower thing. I mean, {{what some}} green and weird.
 
 %% u0088-u0091 %%
 DM: So, looking out over this courtyard, you can see in the distance—what?
@@ -140,7 +140,7 @@ DM: Three hyenas.
 Riswynn: Like actual wild-animal hyenas that are following them? Yes, actual wild animals.
 
 %% u0114-u0116 %%
-Kenzo: Wellby, you shoot those with your bow. [[Once it was a shot.]] Can you shoot one of those things out of the sky? Yeah.
+Kenzo: Wellby, you shoot those with your bow. {{Once it was a shot.}} Can you shoot one of those things out of the sky? Yeah.
 
 %% u0117 %%
 Wellby: Let's get rid of that demon.
@@ -233,7 +233,7 @@ DM: That's the direction that they're coming from. Yes. Okay.
 Seeker: And then do we know anything about the area where the weird green stuff is happening?
 
 %% u0150 %%
-DM: Nope. [[Me, which is—]]
+DM: Nope. {{Me, which is—}}
 
 %% u0151 %%
 Delwath: The weird green stuff is these things?
@@ -272,7 +272,7 @@ Seeker: I pensively stroke Taster, the bunny.
 Delwath: So, I mean, presumably there's an opportunity to ambush the gnolls here from the arrow slits. We're in a defensive gatehouse on the walls of the castle, right?
 
 %% u0169 %%
-Wellby: Definitely. Just let them get close [[from them]].
+Wellby: Definitely. Just let them get close {{from them}}.
 
 %% u0170-u0171 %%
 Seeker: Or see what they're doing.
@@ -329,7 +329,7 @@ Kenzo: So Tim, you see this spot over here? Is this kind of out in the air?
 DM: Got it. So you have two towers, and these towers go up one more floor, and this is a crenellated wall. Yes, you are exposed to the air, but you have partial cover from—
 
 %% u0199 %%
-Kenzo: Got it, but my point being, now that I can Slow Fall, I could literally jump off of this wall and land on the other side, [[by melee combat]].
+Kenzo: Got it, but my point being, now that I can Slow Fall, I could literally jump off of this wall and land on the other side, {{by melee combat}}.
 
 %% u0200 %%
 Unknown: Um...
@@ -338,7 +338,7 @@ Unknown: Um...
 Seeker: That's a lot of guys down there.
 
 %% u0202-u0204 %%
-Kenzo: There's a lot of us. There's seven of us, [[the White House]].
+Kenzo: There's a lot of us. There's seven of us, {{the White House}}.
 
 %% u0205-u0210 %%
 DM: The one out at the front stops and signals, says something in some yapping language to two of the ones on the side, who then move forward and approach the gate.
@@ -359,7 +359,7 @@ Unknown: What did you swap?
 Delwath: Hellish Rebuke. Okay.
 
 %% u0217 %%
-DM: That's a good spell. [[Rebecca test.]]
+DM: That's a good spell. {{Rebecca test.}}
 
 %% u0218-u0219 %%
 Delwath: Okay, so I'm also gonna drink a healing potion, not having regained any—
@@ -434,7 +434,7 @@ Unknown: At once.
 Delwath: I think we should see what they do if nobody opens the gate.
 
 %% u0250 %%
-Riswynn: We're gonna see that in just a minute, but we're ready to [[cut them off to that]].
+Riswynn: We're gonna see that in just a minute, but we're ready to {{cut them off to that}}.
 
 %% u0251-u0252 %%
 Kenzo: As far as you guys want to get—well, because you have long-range weapons, right? All of you do. Maybe you should get into these arrow slits with us. Now they're moving away.
@@ -467,13 +467,13 @@ Kenzo: I'm gonna be there, but hidden.
 DM: Okay, make a Stealth check.
 
 %% u0266-u0269 %%
-Delwath: I am readying an action if the demon creature comes close enough. Basically, if it comes within about—let's see—if it comes within this radius, like twenty feet, [[without needed that]], I'm going to shoot it.
+Delwath: I am readying an action if the demon creature comes close enough. Basically, if it comes within about—let's see—if it comes within this radius, like twenty feet, {{without needed that}}, I'm going to shoot it.
 
 %% u0270 %%
 Wellby: I am this far from just taking the shot right now.
 
 %% u0271 %%
-Kenzo: Tim, do I have plus two Dexterity? [[You're saying for trace.]]
+Kenzo: Tim, do I have plus two Dexterity? {{You're saying for trace.}}
 
 %% u0272 %%
 DM: Ah, yeah.
@@ -491,7 +491,7 @@ Kenzo: But how do I give myself more Dexterity?
 Unknown: Ah...
 
 %% u0278 %%
-DM: Okay, so that would be a [[twelve oh two]]. All right.
+DM: Okay, so that would be a {{twelve oh two}}. All right.
 
 %% u0279 %%
 Delwath: If you click on the little builder, little hammer, the—
@@ -536,10 +536,10 @@ Riswynn: Probably didn't do it right, so—
 Seeker: I didn't do anything like this. What, do I have something to do here?
 
 %% u0294-u0295 %%
-Delwath: Yeah. [[Game quarter to do it ability]], you can—
+Delwath: Yeah. {{Game quarter to do it ability}}, you can—
 
 %% u0296-u0300 %%
-DM: Get plus two Charisma, so that makes all your spells better and gets you an extra Bardic Inspiration. Yeah, you didn't. Okay, so both of you click... [[And fall.]]
+DM: Get plus two Charisma, so that makes all your spells better and gets you an extra Bardic Inspiration. Yeah, you didn't. Okay, so both of you click... {{And fall.}}
 
 %% u0301 %%
 Seeker: Okay, I'm doing it.

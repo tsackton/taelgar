@@ -38,7 +38,7 @@ DM: The one on the left.
 Delwath: You can't see out, I assume, from the arrow slit?
 
 %% u1229-u1230 %%
-DM: You don't have a very wide angle of view from an arrow slit. [[Maybe you slay him.]]
+DM: You don't have a very wide angle of view from an arrow slit. {{Maybe you slay him.}}
 
 %% u1231 %%
 Delwath: Well, what if I move over one?
@@ -56,7 +56,7 @@ Delwath: So he takes 14 damage.
 DM: Okay, that will kill him, as Wellby's—sorry, Delwath's blast of force knocks him back. So now Riswynn.
 
 %% u1239-u1243 %%
-Riswynn: I am going to [[throw an action]]. I mean, she's kind of useful.
+Riswynn: I am going to {{throw an action}}. I mean, she's kind of useful.
 
 %% u1244-u1245 %%
 DM: You don't have to. Just go hide out in the tower. Nobody can really hurt her.
@@ -71,7 +71,7 @@ Delwath: There are.
 Seeker: It's a bit of a situation.
 
 %% u1249 %%
-Riswynn: Maybe I better [[painting]].
+Riswynn: Maybe I better {{painting}}.
 
 %% u1250 %%
 Kenzo: I think that would be helpful. I personally appreciate that, because I think five of them are about to attack me.
@@ -83,7 +83,7 @@ Unknown: Um...
 Delwath: Yeah, you don't have—
 
 %% u1253 %%
-Riswynn: Should I just [[with anything]] and rope down there?
+Riswynn: Should I just {{with anything}} and rope down there?
 
 %% u1254 %%
 Delwath: What's your move?
@@ -203,7 +203,7 @@ Seeker: Nice.
 Riswynn: I'm gonna do that just to practice something. Thanks, Mike.
 
 %% u1322 %%
-DM: [[Style by.]]
+DM: {{Style by.}}
 
 %% u1323 %%
 Riswynn: The technical—yeah.
@@ -245,7 +245,7 @@ Unknown: —is through scat-based—
 Seeker: And so I'm going to send a vicious, glowing, illusory scat message insulting his leadership and fighting ability, not to mention his gnoll sexual prowess and ancestry, all packed into one really stinky, glowing scat. That is my new—actually, oh wait, can I use that, my new cantrip? Yeah, okay.
 
 %% u1347 %%
-Wellby: Is this a glowing poop, or [[you like to eat]]?
+Wellby: Is this a glowing poop, or {{you like to eat}}?
 
 %% u1348-u1349 %%
 Seeker: Poop. But it only does one psychic.
@@ -308,10 +308,10 @@ Unknown: Ah...
 DM: Disadvantage made him miss, but that is—
 
 %% u1376 %%
-Kenzo: [[Guys to hit.]] Now this is pretty exciting.
+Kenzo: {{Guys to hit.}} Now this is pretty exciting.
 
 %% u1377 %%
-Delwath: [[Knowing that]], yeah.
+Delwath: {{Knowing that}}, yeah.
 
 %% u1378-u1380 %%
 DM: The second arrow does strike true. Well, possibly strike true. Nine points of damage.
@@ -350,19 +350,19 @@ Seeker: Did the arrow just give you a hit point?
 DM: Zero. It doesn't do anything.
 
 %% u1392-u1393 %%
-Kenzo: Okay, yeah. [[Robin at—]]
+Kenzo: Okay, yeah. {{Robin at—}}
 
 %% u1394-u1395 %%
 DM: That. So as you, again—
 
 %% u1396 %%
-Seeker: They're gonna learn [[their race]] at some point.
+Seeker: They're gonna learn {{their race}} at some point.
 
 %% u1397-u1398 %%
-DM: And now it strikes him again in the leg, [[there as our BB]], and it's just hanging there, bleeding, as he is now nearly, nearly dead from his own weapon.
+DM: And now it strikes him again in the leg, {{there as our BB}}, and it's just hanging there, bleeding, as he is now nearly, nearly dead from his own weapon.
 
 %% u1399-u1400 %%
-Kenzo: Wait, so in all seriousness, metagame, what we should do in situations like this when they're far away, I should just go out by myself. [[Oh yeah actually x]], so I can—
+Kenzo: Wait, so in all seriousness, metagame, what we should do in situations like this when they're far away, I should just go out by myself. {{Oh yeah actually x}}, so I can—
 
 %% u1401-u1402 %%
 DM: Look, you can only go once a turn, right? You've only got one reaction a turn, is the thing.
@@ -419,7 +419,7 @@ DM: So that hits for fourteen points of damage.
 Kenzo: Okay, now—
 
 %% u1425 %%
-Seeker: [[That center point.]]
+Seeker: {{That center point.}}
 
 %% u1426-u1427 %%
 Kenzo: That's a lot, but they're not—
@@ -434,7 +434,7 @@ Unknown: For—
 DM: Thirteen points of damage.
 
 %% u1439 %%
-Unknown: [[Takes notes much.]]
+Unknown: {{Takes notes much.}}
 
 %% u1440-u1442 %%
 DM: As they just got the perfect aim. And then this one will also run back, one, two, three, four, five, six, and try to line up a shot on Wellby, which misses, clanging off the wall. That ends the gnoll barrage.
@@ -455,7 +455,7 @@ Seeker: I like how it just says Kenzo's turn like 17 times in a row.
 DM: I know, it's something weird about the way this—
 
 %% u1451 %%
-Kenzo: [[Trap Turner]], because I'm about to hopefully kill all three.
+Kenzo: {{Trap Turner}}, because I'm about to hopefully kill all three.
 
 %% u1452-u1458 %%
 DM: Vola first, Vola first. So she's also going to send a psychic blade at this wounded one, which misses. Misses. And then she's gonna bonus-action hide. Okay, so she's hiding. Wellby.
@@ -551,7 +551,7 @@ DM: Yeah, he's gonna now get into this—
 Seeker: Still got a line of sight on him.
 
 %% u1501 %%
-Kenzo: [[Yes, you're sixty feet.]]
+Kenzo: {{Yes, you're sixty feet.}}
 
 %% u1502 %%
 Wellby: Good heaven.
@@ -581,7 +581,7 @@ Delwath: Wellby, yeah, yeah.
 Wellby: Yeah, that's fair. All right, are either of the two guys down in front of us wounded?
 
 %% u1511 %%
-DM: Yes, the one closest to the tower, the one right near Delwath, [[it's been dead]]. Great.
+DM: Yes, the one closest to the tower, the one right near Delwath, {{it's been dead}}. Great.
 
 %% u1512 %%
 Unknown: Well—
@@ -638,10 +638,10 @@ DM: It can get in between them. He made his Dex save anyway, so it does no damag
 Riswynn: And then I get to try again with the Spiritual Weapon.
 
 %% u1550 %%
-Unknown: [[Like the goals.]]
+Unknown: {{Like the goals.}}
 
 %% u1551-u1553 %%
-DM: So this glowing hammer comes flying across the field and just cracks this gnoll on the head, and it collapses on the ground. That was Riswynn. Okay, [[so our three degree as well]]. So now it's Seeker.
+DM: So this glowing hammer comes flying across the field and just cracks this gnoll on the head, and it collapses on the ground. That was Riswynn. Okay, {{so our three degree as well}}. So now it's Seeker.
 
 %% u1554 %%
 Seeker: So is there any way I can get a line of sight on Kenzo, or is he totally hidden?
@@ -662,7 +662,7 @@ Unknown: Mm hmm.
 Seeker: And that long shot that Wellby didn't take, I guess I will also not take. Following up on the success of my devastating scat-based critique of the other gnoll, I will hit this one with illusory gnoll urine carrying a deeply insulting message, doing four psychic damage.
 
 %% u1564-u1571 %%
-DM: Let's see. So he takes four damage and has disadvantage on his next attack. Okay, so that is going to bring us to these—yeah, what just happened there? [[I'll use us.]] Okay, so that's going to bring us to the gnolls. This one will take its spear and stab at Kenzo, which misses. Then the second one will take its spear and stab at Kenzo, which is an eighteen.
+DM: Let's see. So he takes four damage and has disadvantage on his next attack. Okay, so that is going to bring us to these—yeah, what just happened there? {{I'll use us.}} Okay, so that's going to bring us to the gnolls. This one will take its spear and stab at Kenzo, which misses. Then the second one will take its spear and stab at Kenzo, which is an eighteen.
 
 %% u1572 %%
 Kenzo: Oh, no.
@@ -671,7 +671,7 @@ Kenzo: Oh, no.
 DM: Which hits for four points of damage. He's got—
 
 %% u1574 %%
-Kenzo: [[Two points of damage to have one is left.]]
+Kenzo: {{Two points of damage to have one is left.}}
 
 %% u1575 %%
 Unknown: Off.
@@ -695,13 +695,13 @@ Unknown: Yeah, let's see, can she get—she has to jump.
 DM: She is just gonna run here above, and—
 
 %% u1592 %%
-Riswynn: We said at the end of my turn that I started moving forward, [[Stella]].
+Riswynn: We said at the end of my turn that I started moving forward, {{Stella}}.
 
 %% u1593 %%
 Unknown: Yes.
 
 %% u1594-u1596 %%
-DM: And she will get a rope. Over here by [[our capsule]], grab a rope and a grappling hook, hook the rope onto the crenellations here, and drop it down. That will end her turn. Kenzo, you're up.
+DM: And she will get a rope. Over here by {{our capsule}}, grab a rope and a grappling hook, hook the rope onto the crenellations here, and drop it down. That will end her turn. Kenzo, you're up.
 
 %% u1597 %%
 Kenzo: Riswynn, can you heal me, even if I'm not—can you heal me from being above me?
@@ -749,7 +749,7 @@ Kenzo: The guy directly to my left is still not injured at all, right?
 Unknown: Correct.
 
 %% u1616-u1618 %%
-Kenzo: Let's see. Well, I can use a planar power. That seems pretty powerful. [[Doesn't have to do.]] Oh, I actually have—oh, I only have two ki left. Yeah, but Soul Sight does not require ki.
+Kenzo: Let's see. Well, I can use a planar power. That seems pretty powerful. {{Doesn't have to do.}} Oh, I actually have—oh, I only have two ki left. Yeah, but Soul Sight does not require ki.
 
 %% u1619 %%
 DM: It only—right.
@@ -773,7 +773,7 @@ Kenzo: Man, what do you guys think? Should I be reckless and try to kill them al
 Delwath: I don't think you can kill them all in one, but there's time before their—I mean, we all get to go before them.
 
 %% u1628 %%
-Kenzo: Correct. Can you guys do anything other than try to [[hunt down]]?
+Kenzo: Correct. Can you guys do anything other than try to {{hunt down}}?
 
 %% u1629 %%
 Delwath: I mean—
@@ -785,7 +785,7 @@ Seeker: We're pretty far away.
 Delwath: I think I can get down there.
 
 %% u1632 %%
-Kenzo: You know, [[me I cure potions]] and shit like that.
+Kenzo: You know, {{me I cure potions}} and shit like that.
 
 %% u1633 %%
 Delwath: Yeah, just go for it.
@@ -800,10 +800,10 @@ Riswynn: Bring you back from death.
 Kenzo: Well, Kenzo is actually learning quite a bit from his near-death experiences. Now it's—
 
 %% u1637 %%
-Delwath: [[A cow.]]
+Delwath: {{A cow.}}
 
 %% u1638-u1639 %%
-Kenzo: It's actually very useful for spiritual development as well, nearly dying. So I'm gonna bash the uninjured one directly to my left with my staff. [[You happen to their—]]
+Kenzo: It's actually very useful for spiritual development as well, nearly dying. So I'm gonna bash the uninjured one directly to my left with my staff. {{You happen to their—}}
 
 %% u1640 %%
 DM: That misses.
@@ -935,7 +935,7 @@ Delwath: I presume as soon as I'm over the lip, I have line of sight.
 DM: Yeah, you could do that.
 
 %% u1702 %%
-Kenzo: [[As pretty big last find.]]
+Kenzo: {{As pretty big last find.}}
 
 %% u1703-u1706 %%
 Delwath: Then I'll do that. I'll take that instead of here. I'll go over the lip, use a bonus action to move the Hex to this guy, and I shoot him.
@@ -968,7 +968,7 @@ DM: These guys are underneath the stones, so you cannot see them unless you... T
 Riswynn: All right, well, why don't I just dash to try to get to the stairs at this point, since Delwath and Wellby are clogging up the rope space?
 
 %% u1719 %%
-Kenzo: And Riswynn, use the—[[users]].
+Kenzo: And Riswynn, use the—{{users}}.
 
 %% u1720 %%
 Riswynn: Like, I mean, I have my own rope, I guess.
@@ -986,7 +986,7 @@ DM: So you could dash to get to here or here and drop another rope as your turn.
 Riswynn: Sure. That's what I'm doing.
 
 %% u1725-u1726 %%
-Kenzo: Can she use her staff, the spiritual floating staff thing, to attack a gnoll, [[like record revenue]]?
+Kenzo: Can she use her staff, the spiritual floating staff thing, to attack a gnoll, {{like record revenue}}?
 
 %% u1727 %%
 Unknown: Ah...
@@ -1061,7 +1061,7 @@ Unknown: Yeah.
 Seeker: I will just provide some good old-fashioned verbal encouragement of the nonmagical: "You got this, guys. Maybe close the gate again, or something."
 
 %% u1768-u1769 %%
-Wellby: [[We sort of looked like or]]—did that help?
+Wellby: {{We sort of looked like or}}—did that help?
 
 %% u1770 %%
 Seeker: That's—
@@ -1091,13 +1091,13 @@ DM: Which one are you hitting? The left or the one—?
 Kenzo: Which one? I thought the one was—which one's badly wounded?
 
 %% u1789-u1790 %%
-DM: Neither one is badly wounded. [[In time]], the one in front of you is more wounded.
+DM: Neither one is badly wounded. {{In time}}, the one in front of you is more wounded.
 
 %% u1791 %%
 Kenzo: I'll kill the one in front of me, since—
 
 %% u1792 %%
-DM: Actually, that [[doesn’t]] kill it. So your quarterstaff, wham, smacks down on this gnoll.
+DM: Actually, that {{doesn’t}} kill it. So your quarterstaff, wham, smacks down on this gnoll.
 
 %% u1793 %%
 Kenzo: Excellent. And then I Flurry of Blows the—
@@ -1112,7 +1112,7 @@ Kenzo: I'll do an unarmed strike first.
 DM: That hits.
 
 %% u1797-u1799 %%
-Kenzo: [[Like tell them know]], and let somebody else go—actually, no. Now I'm going to use a ki, and I'm going to Flurry on.
+Kenzo: {{Like tell them know}}, and let somebody else go—actually, no. Now I'm going to use a ki, and I'm going to Flurry on.
 
 %% u1800 %%
 Unknown: Okay.
@@ -1130,7 +1130,7 @@ Kenzo: That was more difficult than I thought it would be.
 Seeker: Materials.
 
 %% u1813 %%
-Delwath: I'll be right back. [[I see that.]]
+Delwath: I'll be right back. {{I see that.}}
 
 %% u1814 %%
 Seeker: The book, there's—
@@ -1148,7 +1148,7 @@ Kenzo: Was pretty cool.
 Seeker: And also kind of ridiculous as a sequence of decisions that we collectively—
 
 %% u1819 %%
-DM: Yeah, that jumping down [[was really going to go well]] for you, but it went better than I thought.
+DM: Yeah, that jumping down {{was really going to go well}} for you, but it went better than I thought.
 
 %% u1820 %%
 Seeker: And also, one of the gnolls made it back to warn everybody else. Not great.

@@ -335,13 +335,13 @@ Zeno: All…
 Sculpit: Wait, wait, no, this is a place of calmness, peace. Right? I'll think very calming thoughts to the statue. We're here to observe…
 
 %% u2397 %%
-Heska: [[Walk past.]]
+Heska: {{Walk past.}}
 
 %% u2398 %%
 Sculpit: …day.
 
 %% u2399 %%
-Heska: [[Warm!]]
+Heska: {{Warm!}}
 
 %% u2400 %%
 Zeno: Wanderer's gonna wander.
@@ -353,7 +353,7 @@ Heska: Yeah, come on.
 Zeno: It'll be…
 
 %% u2403 %%
-Sculpit: [[We don't want to watch.]]
+Sculpit: {{We don't want to watch.}}
 
 %% u2404 %%
 DM: Okay, wait, wait, wait, wait. So we've got Sculpit advocating peace. We now have Zeno on board with walking. Tony, what's going on for you in this situation? What is your vibe here?
@@ -389,7 +389,7 @@ DM: And the dragonets on the outside of the Wanderer are like, "Holy shit." I me
 DM: And as everybody is in awe, looking at this scene, looking at this incredible awakening—that's the only way to describe it—and this beating heart of this massive, massive statue staring outwards…
 
 %% u2441-u2453 %%
-DM: We zoom out from the island and start looking out, and again at this pulsing statue, seemingly awakening after a long, long slumber. And we zoom out through the endless storm—the endless sea leading into the endless storm that surrounds the island. And we pass through the storm, and there's so much strange electricity and magic. No dragonet has ever passed through the storm. Nobody ever does. [[Sign up to school.]] And the storm is thick, and it's dangerous. It has a very, very frightening energy. "Go away." That's what the energy of the storm says. "Go away."
+DM: We zoom out from the island and start looking out, and again at this pulsing statue, seemingly awakening after a long, long slumber. And we zoom out through the endless storm—the endless sea leading into the endless storm that surrounds the island. And we pass through the storm, and there's so much strange electricity and magic. No dragonet has ever passed through the storm. Nobody ever does. {{Sign up to school.}} And the storm is thick, and it's dangerous. It has a very, very frightening energy. "Go away." That's what the energy of the storm says. "Go away."
 
 %% u2454-u2472 %%
 DM: But as we pass through the storm, and outside to the periphery of the storm, there's something there. There's a vessel hovering in the sky. And inside the vessel we zoom in, and you can see two figures inside a room, inside this vessel hovering in the sky on the outskirts of the storm. And there's two humanoids standing. And they're standing around some type of device or artifact, system, with glowing psychedelic lights tracing these crazy—I mean, it's just bouncing everywhere, these light signatures. And as we look at this scene of these two humanoids, you zoom in now just to hear some of their voices in their conversation.
@@ -401,4 +401,4 @@ DM: And as they stand over this artifact, these glowing lights moving, shifting 
 DM: One of them, you can tell, is emotional, like, in tears. "We've been searching for so long. How is it possible that we could find—see divine energy like this? This is impossible. Do you know what this means? What this is gonna mean for the resistance? This is gonna change everything."
 
 %% u2494-u2503 %%
-DM: "And look," they say, "these signatures, there's something special about them. [[Whole… is… crazy.]] Four signatures here, in particular. Unmistakable. Impossible. How is this possible? It can only mean… Firstborn."
+DM: "And look," they say, "these signatures, there's something special about them. {{Whole… is… crazy.}} Four signatures here, in particular. Unmistakable. Impossible. How is this possible? It can only mean… Firstborn."

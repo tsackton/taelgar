@@ -164,7 +164,7 @@ Sculpit: And thinking… he would probably tell this story if anybody asked, act
 Sculpit: And at one point there was some thing out in the ocean, a floating stick or something that was really far away from shore, and the question was, well, who could go get it the first or the fastest? And Sculpit flew off, but unbeknownst to him—or unexpectedly, rather—the storm shifted, as it does sometimes, right? And he wasn't intending to fly near the storm, but all of a sudden he found himself surrounded by thunder and lightning, and these crashing winds and crashing waves, and didn't know which way was up or down, and didn't know where to go.
 
 %% u0267-u0274 %%
-Sculpit: And he tried fighting against it for a long time, and felt like he was probably gonna die. And then, at the end of his sort of energy, he just let go, and let whatever energy was in the storm take over, and he felt something sort of move through him. And he appeared back on the Wanderer's hand. [[Apart. You know how he got there.]] And from that day, he started to experience… that's when he started casting spells.
+Sculpit: And he tried fighting against it for a long time, and felt like he was probably gonna die. And then, at the end of his sort of energy, he just let go, and let whatever energy was in the storm take over, and he felt something sort of move through him. And he appeared back on the Wanderer's hand. {{Apart. You know how he got there.}} And from that day, he started to experience… that's when he started casting spells.
 
 %% u0275-u0279 %%
 Sculpit: But he was always a little afraid of this thing that he assumes gave him the power to cast spells. It was always a little scary, and he was always a little bit afraid of his own magic. And he feels less afraid now.
@@ -182,7 +182,7 @@ Little Tony: And especially because, as a small child, like, you know, as a thre
 Little Tony: So one day, deeply annoyed by this—and I should say that this is the point now where his vision in the egg was remembering what for a long time he thought was a dream. And now he wonders…
 
 %% u0288 %%
-Zeno: [[Relationship.]]
+Zeno: {{Relationship.}}
 
 %% u0289-u0291 %%
 Little Tony: It wasn't a dream. It's this that happened next. So, sitting in the tide pools one day at this age, when he couldn't go to the other swing sets, when he couldn't fly, in the littoral zone—am I saying that right? The zone between high tide and low tide? Littoral, yeah. He's eating hermit crabs one at a time and singing a little song and humming his tunes to himself, like, getting deep into his tunes. And then he picks up a hermit crab of enormous size, you know, maybe an inch and a half across.

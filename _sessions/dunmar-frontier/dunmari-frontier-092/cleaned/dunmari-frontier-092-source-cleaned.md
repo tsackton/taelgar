@@ -97,7 +97,7 @@
 [u0097 | 00:09:24.420-00:09:25.410 | Riswynn] Thank you.
 [u0098 | 00:09:26.480-00:09:37.140 | Delwath] Yeah. The work takes 7 days. Right. All of them are basically the work library, the work that yeah, fine. So the idea is that you give it an order on 7 days later.
 [u0099 | 00:09:37.460-00:09:38.150 | Unknown] Yes.
-[u0100 | 00:09:39.380-00:09:47.179 | DM] so you can have them start researching. [[Not now]], but it won't help you. For 7 days. It might be better to wait till you find out something about it.
+[u0100 | 00:09:39.380-00:09:47.179 | DM] so you can have them start researching. {{Not now}}, but it won't help you. For 7 days. It might be better to wait till you find out something about it.
 [u0101 | 00:09:48.190-00:09:52.130 | DM] What's coming up in the future and then have it start researching.
 [u0102 | 00:09:54.320-00:09:55.770 | Kenzo] I mean.
 [u0103 | 00:09:56.570-00:09:59.329 | DM] you know. there's no
@@ -118,7 +118,7 @@
 [u0118 | 00:12:00.150-00:12:04.670 | DM] Yeah. I mean, they're the ones that live underground, right? They tend to like.
 [u0119 | 00:12:05.190-00:12:08.360 | DM] I don't know meld with stone. And things like that.
 [u0120 | 00:12:08.610-00:12:11.410 | Seeker] Do they have any relationship to dwarfs? That's interesting.
-[u0121 | 00:12:11.880-00:12:13.170 | Kenzo] [[Lister Cod]].
+[u0121 | 00:12:11.880-00:12:13.170 | Kenzo] {{Lister Cod}}.
 [u0122 | 00:12:13.970-00:12:17.680 | DM] Not a giant.
 [u0123 | 00:12:22.560-00:12:30.759 | DM] Yeah, maybe. I mean, I don't know. I haven't. mapped it out much more. Maybe stone giants are like somehow connected to rune magic
 [u0124 | 00:12:31.090-00:12:33.650 | Kenzo] that might make sense.
@@ -329,7 +329,7 @@
 [u0329 | 00:31:51.500-00:32:07.329 | Delwath] I was debating whether, by the way, do we know enough about giants to know whether they would like gems? Is it worth making the eyes. Gems
 [u0330 | 00:32:07.900-00:32:09.190 | DM] you?
 [u0331 | 00:32:09.220-00:32:23.469 | DM] Yeah, you would have no real way of knowing that. I mean. let me rephrase that. There isn't any sort of stereotype of Gi. They're not like dragons. They don't like hoard shiny things or anything. There's no like stereotype that would suggest
-[u0332 | 00:32:23.650-00:32:33.940 | DM] [[most dragons appreciate acts]] so it would be very much an individual like does this king like that sort of thing? And you'd really have no way of knowing that.
+[u0332 | 00:32:23.650-00:32:33.940 | DM] {{most dragons appreciate acts}} so it would be very much an individual like does this king like that sort of thing? And you'd really have no way of knowing that.
 [u0333 | 00:32:35.540-00:32:40.739 | Delwath] the, I mean.
 [u0334 | 00:32:41.300-00:32:43.310 | Delwath] we can decide when it comes up. But
 [u0335 | 00:32:43.410-00:32:50.719 | Delwath] yeah, party folks tell me if you think it would make when it when we present it to him. Tell me you think putting some money into the eyes would be worthwhile.
@@ -426,7 +426,7 @@
 [u0426 | 00:41:13.840-00:41:16.980 | Delwath] We can. We can afford the 400 to 600 gold
 [u0427 | 00:41:18.710-00:41:21.880 | Seeker] scrimshawed mammoth tusk. Yep.
 [u0428 | 00:41:22.690-00:41:29.999 | Delwath] So I was gonna have the horn around its neck right and present this and and like. Tell them we have come.
-[u0429 | 00:41:30.380-00:41:37.940 | Delwath] [[Barry, and obviously to this is fetched with our guide, with my guy]]. The whole point of this is that I'll get advantage during Charisma checks.
+[u0429 | 00:41:30.380-00:41:37.940 | Delwath] {{Barry, and obviously to this is fetched with our guide, with my guy}}. The whole point of this is that I'll get advantage during Charisma checks.
 [u0430 | 00:41:38.180-00:41:44.600 | Delwath] and also to have a gift. And and say, we've come. We are travelers.
 [u0431 | 00:41:45.320-00:41:52.449 | Delwath] we are heading east. We have come to seek his advice on the dangers of the land, and hear his stories and pay our respects
 [u0432 | 00:41:54.250-00:41:57.549 | DM] he kind of smiles and and claps his hands, and
@@ -480,7 +480,7 @@
 [u0480 | 00:45:46.880-00:45:49.070 | Delwath] Oh, there was that! Wasn't! Wasn't there a shhhh!
 [u0481 | 00:45:50.010-00:45:53.219 | Delwath] Wasn't there a giant involved in that somehow?
 [u0482 | 00:45:54.170-00:45:58.950 | DM] Yeah, there was, in fact, it was a ghost of a frost giant who had fought for Cha'mutte
-[u0483 | 00:45:59.150-00:46:02.020 | Seeker] Zegron. But we worked with [[zoom]].
+[u0483 | 00:45:59.150-00:46:02.020 | Seeker] Zegron. But we worked with {{zoom}}.
 [u0484 | 00:46:02.140-00:46:14.500 | Delwath] Yeah, yeah, yeah. I'll actually tell the story of Zegron, too, while I'm at it right and how Zegron was betrayed he was betray. I am. I remember this correctly. He was betrayed by betrayed by
 [u0485 | 00:46:14.530-00:46:19.190 | DM] he was betrayed by hobgoblins, who are too cowardly to come and fight the Deno'qai.
 [u0486 | 00:46:20.000-00:46:22.700 | Delwath] And and
@@ -488,7 +488,7 @@
 [u0488 | 00:46:28.410-00:46:32.179 | Delwath] just weren't we killed I get. Don't remember what what we did.
 [u0489 | 00:46:32.210-00:46:33.810 | Delwath] I should go back.
 [u0490 | 00:46:34.000-00:46:36.430 | DM] I don't remember if you I don't think you
-[u0491 | 00:46:39.320-00:46:49.030 | DM] he told you where the [[armbed]] was that right find? And you went and you killed some hobgoblins he was pissed at. But then you had this whole crazy plan to like
+[u0491 | 00:46:39.320-00:46:49.030 | DM] he told you where the {{armbed}} was that right find? And you went and you killed some hobgoblins he was pissed at. But then you had this whole crazy plan to like
 [u0492 | 00:46:49.090-00:46:52.899 | DM] drop the entire army and all of those banishing stuff. And
 [u0493 | 00:46:53.240-00:46:54.120 | Delwath] alrighty.
 [u0494 | 00:46:54.750-00:47:03.279 | Delwath] But I'll mention that right, and also the devil that That was a pretty big devil is another.
@@ -692,7 +692,7 @@
 [u0692 | 01:06:27.350-01:06:28.120 | DM] yeah.
 [u0693 | 01:06:29.130-01:06:30.170 | DM] The Ket
 [u0694 | 01:06:36.480-01:06:38.570 | DM] in the
-[u0695 | 01:06:39.360-01:06:41.660 | DM] [[Yokoscar]] mountains
+[u0695 | 01:06:39.360-01:06:41.660 | DM] {{Yokoscar}} mountains
 [u0696 | 01:06:43.670-01:06:46.919 | DM] covered in glaciers buried in snow.
 [u0697 | 01:06:49.040-01:06:51.079 | DM] Vimfrost was.
 [u0698 | 01:06:54.320-01:06:59.099 | DM] the rumors are that he was one of the most powerful of his kind.
@@ -751,11 +751,11 @@
 [u0751 | 01:11:54.620-01:11:59.539 | DM] possibly even shaped with magic. But there doesn't seem to be anything particularly
 [u0752 | 01:12:02.210-01:12:02.950 | Seeker] okay.
 [u0753 | 01:12:05.600-01:12:11.590 | Seeker] I wouldn't get too close to the giant's face. Yeah, he's sort of looking down at you.
-[u0754 | 01:12:11.620-01:12:19.349 | DM] He is still talking about about white dragons. After I killed Grimwinter. There was [[Eskanyar]].
+[u0754 | 01:12:11.620-01:12:19.349 | DM] He is still talking about about white dragons. After I killed Grimwinter. There was {{Eskanyar}}.
 [u0755 | 01:12:20.870-01:12:26.370 | DM] I had to go find his lair. I smashed that ice cave like it was nothing
 [u0756 | 01:12:29.570-01:12:31.830 | DM] keeps going still talking.
 [u0757 | 01:12:32.300-01:12:32.980 | Seeker] Hmm.
-[u0758 | 01:12:37.910-01:12:52.239 | DM] At this point, as he's like halfway into the story of how he killed [[Eskanyar]]. The the woman Vetrdis comes back with
+[u0758 | 01:12:37.910-01:12:52.239 | DM] At this point, as he's like halfway into the story of how he killed {{Eskanyar}}. The the woman Vetrdis comes back with
 [u0759 | 01:12:52.350-01:12:55.699 | DM] like a trail of 5 or 6
 [u0760 | 01:12:56.040-01:13:02.439 | DM] I'd say, 6 stoneborn, 2 stoneborn and 4 dwarven servants
 [u0761 | 01:13:02.620-01:13:05.999 | DM] who are kind of following her, and she is carrying
@@ -826,7 +826,7 @@
 [u0826 | 01:18:50.460-01:18:54.850 | Delwath] protected by Brimskarda right.
 [u0827 | 01:18:54.900-01:19:01.050 | Delwath] but only to the extent that doing so isn't gonna be like obviously asking questions right? Like, only to the extent I can
 [u0828 | 01:19:02.380-01:19:11.100 | Delwath] weave it into a story, or like, listen to somebody who's talking and like, ask them a non, a question that would naturally cause them to.
-[u0829 | 01:19:11.550-01:19:14.630 | Delwath] [[I want to appear curious]] about the dwarfs. It's just
+[u0829 | 01:19:11.550-01:19:14.630 | Delwath] {{I want to appear curious}} about the dwarfs. It's just
 [u0830 | 01:19:15.630-01:19:20.569 | Delwath] if I can get them to talk a little bit about, you know, hey? Are there dwarves who are not
 [u0831 | 01:19:21.750-01:19:27.220 | Delwath] not actually protected? And are they all dead? Or what right?
 [u0832 | 01:19:28.320-01:19:33.070 | Delwath] The other question would be, What was the old Guy Kit again. Don't wanna ask any direct questions. But
@@ -1106,7 +1106,7 @@
 [u1106 | 01:45:05.080-01:45:05.890 | Seeker] Umhm
 [u1107 | 01:45:06.530-01:45:12.320 | DM] is definitely weaker than you like, significantly weaker than you are.
 [u1108 | 01:45:18.230-01:45:20.620 | Kenzo] Wasn't there another scholar that was like him that we met
-[u1109 | 01:45:21.260-01:45:23.380 | Kenzo] from? [[Toe intel crap]]
+[u1109 | 01:45:21.260-01:45:23.380 | Kenzo] from? {{Toe intel crap}}
 [u1110 | 01:45:27.100-01:45:31.790 | Kenzo] like I wrote books that nobody read and was like anyways.
 [u1111 | 01:45:34.830-01:45:36.920 | DM] Govir was writing a book, but
 [u1112 | 01:45:36.980-01:45:40.390 | Delwath] nobody read it, cause he got kidnapped by werewolves.
@@ -1269,8 +1269,8 @@
 [u1269 | 01:58:27.370-01:58:29.450 | Delwath] I don't know the kenku told us to go north.
 [u1270 | 01:58:29.620-01:58:30.610 | Wellby] That's true.
 [u1271 | 01:58:30.830-01:58:32.310 | Seeker] that's true.
-[u1272 | 01:58:32.720-01:58:35.590 | Delwath] Tim didn't want to make up [[Erawa]], this island
-[u1273 | 01:58:35.710-01:58:45.709 | Delwath] you wanted to make up the north. No, because the kenku that's what the kenku knows, right? He's never been to [[Airla]]. He can guide you through the yes.
+[u1272 | 01:58:32.720-01:58:35.590 | Delwath] Tim didn't want to make up {{Erawa}}, this island
+[u1273 | 01:58:35.710-01:58:45.709 | Delwath] you wanted to make up the north. No, because the kenku that's what the kenku knows, right? He's never been to {{Airla}}. He can guide you through the yes.
 [u1274 | 01:58:47.840-01:58:50.020 | DM] So it takes, you
 [u1275 | 01:58:51.270-01:58:54.710 | DM] see, that's like a hundred miles. And then that's
 [u1276 | 01:58:57.120-01:58:58.730 | DM] to
@@ -1469,7 +1469,7 @@
 [u1469 | 02:16:41.389-02:16:44.279 | DM] Two elk. Look at you!
 [u1470 | 02:16:44.510-02:16:47.520 | DM] in surprise.
 [u1471 | 02:16:48.200-02:16:53.949 | DM] Kind of look back at each other and Wellby gets the jump
-[u1472 | 02:16:54.610-02:17:05.520 | Wellby] right. I am going to take steady aim. Use a [[honed scare]] arrow. So I'm gonna add one to this roll and use all 4 charges of the fire and just hit it with everything I have.
+[u1472 | 02:16:54.610-02:17:05.520 | Wellby] right. I am going to take steady aim. Use a {{honed scare}} arrow. So I'm gonna add one to this roll and use all 4 charges of the fire and just hit it with everything I have.
 [u1473 | 02:17:05.549-02:17:13.999 | DM] Okay, you're 70 feet away. So you're still outside of your oh, no, it's 80 feet. Is your long range. Okay, perfect.
 [u1474 | 02:17:15.680-02:17:16.750 | DM] Go for it.
 [u1475 | 02:17:18.360-02:17:20.220 | Delwath] And where do we say for our hats?
@@ -1703,7 +1703,7 @@
 [u1703 | 02:36:19.460-02:36:20.400 | DM] Okay.
 [u1704 | 02:36:20.890-02:36:24.719 | Delwath] where are you standing? Are you taking Steady Aim flying?
 [u1705 | 02:36:24.840-02:36:26.450 | Wellby] Yeah. Okay.
-[u1706 | 02:36:29.190-02:36:35.870 | Wellby] as 20, actually, because I'm using [[scare]] 20 hits. Yep. So
+[u1706 | 02:36:29.190-02:36:35.870 | Wellby] as 20, actually, because I'm using {{scare}} 20 hits. Yep. So
 [u1707 | 02:36:36.330-02:36:40.960 | Delwath] Did Kenzo say whether it was immune to being blinded?
 [u1708 | 02:36:42.280-02:36:51.149 | DM] 30. It is not immune to the blinded condition. It does spend a lot of time burrowing underground
 [u1709 | 02:36:53.170-02:36:57.499 | Seeker] sunbeam, it would have been blinded.
@@ -1714,7 +1714,7 @@
 [u1714 | 02:37:15.460-02:37:17.479 | DM] standing at the bottom of this.
 [u1715 | 02:37:18.450-02:37:21.149 | Delwath] I'm like 30 feet up
 [u1716 | 02:37:21.230-02:37:23.690 | Delwath] in the air. But right next to it
-[u1717 | 02:37:24.090-02:37:26.759 | Wellby] I'm [[23]]. Also.
+[u1717 | 02:37:24.090-02:37:26.759 | Wellby] I'm {{23}}. Also.
 [u1718 | 02:37:26.830-02:37:29.230 | Seeker] I came down to about 10 feet.
 [u1719 | 02:37:30.300-02:37:33.489 | Kenzo] Yeah, get closer to the elk. I was punching it from above.
 [u1720 | 02:37:34.410-02:37:38.130 | Seeker] and the ladder is the ladder's at ice level
@@ -1823,7 +1823,7 @@
 [u1823 | 02:46:08.280-02:46:12.140 | Kenzo] 13 on this probably no more advantage. Right?
 [u1824 | 02:46:12.400-02:46:14.950 | DM] No more advantage. Only the first round.
 [u1825 | 02:46:15.430-02:46:18.540 | Kenzo] Alright. Third attack. 26. That is
-[u1826 | 02:46:19.430-02:46:23.320 | Kenzo] [[ball]] damage. Okay, just enough it. lets go of Seeker as well.
+[u1826 | 02:46:19.430-02:46:23.320 | Kenzo] {{ball}} damage. Okay, just enough it. lets go of Seeker as well.
 [u1827 | 02:46:23.330-02:46:24.500 | Seeker] Thanks.
 [u1828 | 02:46:25.840-02:46:27.980 | Kenzo] I'm an anti grappling machine.
 [u1829 | 02:46:28.020-02:46:30.899 | Kenzo] Yeah, and that ends Kenzo's turn seeker. You're up.
@@ -1874,7 +1874,7 @@
 [u1874 | 02:50:36.480-02:50:37.250 | Riswynn] Hmm!
 [u1875 | 02:50:38.450-02:50:39.789 | Kenzo] How many hit points do you have left?
 [u1876 | 02:50:40.020-02:50:50.159 | Riswynn] 30? So if it doesn't roll as well in its acidness or something. Maybe I'll only take 29 next time Wellby's up, maybe. Wellby'll kill it.
-[u1877 | 02:50:52.520-02:50:57.359 | Wellby] Yeah, maybe. I'll take steady aim with the another [[scary]] arrow, and
+[u1877 | 02:50:52.520-02:50:57.359 | Wellby] Yeah, maybe. I'll take steady aim with the another {{scary}} arrow, and
 [u1878 | 02:50:59.190-02:51:02.689 | Wellby] and 21 that hits 21 hits. Yep.
 [u1879 | 02:51:05.590-02:51:10.570 | Wellby] that's 40. That's pretty good, but not quite enough to kill it.
 [u1880 | 02:51:10.820-02:51:15.219 | DM] But as you as you hit it, what is that damage total?
@@ -1896,9 +1896,9 @@
 [u1896 | 02:52:29.450-02:52:32.420 | Wellby] can I Uncanny Dodge this whole thing as a batch.
 [u1897 | 02:52:32.470-02:52:38.920 | DM] I think you can. only Uncanny Dodge attack rolls? But you have Evasion, so you only take half damage.
 [u1898 | 02:52:39.120-02:52:42.770 | Wellby] So that's
-[u1899 | 02:52:43.620-02:52:57.299 | DM] what was that? 23, plus 24, that's 47. So you take half of 47. Riswynn, however, takes the full [[24]] points of bludgeoning damage. and is ejected prone.
+[u1899 | 02:52:43.620-02:52:57.299 | DM] what was that? 23, plus 24, that's 47. So you take half of 47. Riswynn, however, takes the full {{24}} points of bludgeoning damage. and is ejected prone.
 [u1900 | 02:52:58.080-02:53:00.990 | DM] actually falls into the water.
-[u1901 | 02:53:02.090-02:53:05.609 | DM] [[As Wellbe is]]
+[u1901 | 02:53:02.090-02:53:05.609 | DM] {{As Wellbe is}}
 [u1902 | 02:53:05.820-02:53:08.400 | DM] next to Wellby. Delwath is up.
 [u1903 | 02:53:08.490-02:53:13.120 | Delwath] Hold on, can you actually be prone if you can fly. Don't you like hover when you're flying?
 [u1904 | 02:53:15.900-02:53:19.060 | DM] Oh, that's probably right, actually, right? Cause

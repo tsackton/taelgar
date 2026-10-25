@@ -197,7 +197,7 @@ Unknown: Yes.
 Seeker: This is the very big book?
 
 %% u0369 %%
-Riswynn: [[At myself]].
+Riswynn: {{At myself}}.
 
 %% u0370 %%
 DM: Um.
@@ -242,7 +242,7 @@ Unknown: What?
 Kenzo: They were…
 
 %% u0403 %%
-Delwath: [[What they found one month]]—they were the half-elves, the wraiths.
+Delwath: {{What they found one month}}—they were the half-elves, the wraiths.
 
 %% u0404 %%
 DM: Yes, the half-elves.
@@ -362,13 +362,13 @@ Seeker: A fellow Cummings.
 DM: Yeah, basically.
 
 %% u0476 %%
-Wellby: [[What it means to us for]]…
+Wellby: {{What it means to us for}}…
 
 %% u0477 %%
 Delwath: Free…
 
 %% u0478-u0479 %%
-DM: [[It’s actually coming just]]… But it seems to just be a book of poetry. You don’t know anything about this person, like when he…
+DM: {{It’s actually coming just}}… But it seems to just be a book of poetry. You don’t know anything about this person, like when he…
 
 %% u0480 %%
 Delwath: …lived, or anything like that.
@@ -473,7 +473,7 @@ DM: Delwath didn’t have much time. Okay, so Delwath’s reading, Riswynn’s g
 Seeker: Second floor. Yeah.
 
 %% u0540 %%
-Wellby: Exactly. [[What up for another]].
+Wellby: Exactly. {{What up for another}}.
 
 %% u0541-u0543 %%
 DM: Okay, so let’s see here.
@@ -614,7 +614,7 @@ Seeker: Yes.
 Unknown: Okay.
 
 %% u0625-u0631 %%
-DM: The third room seems to actually have been by far the smallest, but seems to be the most intact because it has no windows, and so it was better protected from the elements. There’s a small [[here]] and a small open desk against one wall. Which one did—this was a twenty-six, okay. So, while like the other rooms it seems to have been searched recently, a few scraps of paper seem to have been left behind in the desk. There was a cursory search that was done, but the stuff that was wedged into a corner of the desk was not taken. These are three notes, all written in Drankorian on relatively good-quality paper to have survived. Can you—neither of you can read Drankorian? No? Okay.
+DM: The third room seems to actually have been by far the smallest, but seems to be the most intact because it has no windows, and so it was better protected from the elements. There’s a small {{here}} and a small open desk against one wall. Which one did—this was a twenty-six, okay. So, while like the other rooms it seems to have been searched recently, a few scraps of paper seem to have been left behind in the desk. There was a cursory search that was done, but the stuff that was wedged into a corner of the desk was not taken. These are three notes, all written in Drankorian on relatively good-quality paper to have survived. Can you—neither of you can read Drankorian? No? Okay.
 
 %% u0632 %%
 Kenzo: I…
@@ -722,7 +722,7 @@ Seeker: You're doing good.
 DM: I gotta do Riswynn before, and then we’ll reconvene on the library floor. But first I have to send a message to Kenzo.
 
 %% u0680-u0684 %%
-Kenzo: So, do we think that… I think that we have to go to Chardon eventually. [[Chunks]]—okay, just abandon Dunmar. I mean, yes, you’re right.
+Kenzo: So, do we think that… I think that we have to go to Chardon eventually. {{Chunks}}—okay, just abandon Dunmar. I mean, yes, you’re right.
 
 %% u0685 %%
 Delwath: We’re supposed to meet—what’s her name? Alesh…
@@ -749,7 +749,7 @@ Delwath: They were a month ahead of us.
 Wellby: We walk this…
 
 %% u0693 %%
-Kenzo: What’s the deal with the grave? [[Murders have a grave]].
+Kenzo: What’s the deal with the grave? {{Murders have a grave}}.
 
 %% u0694-u0695 %%
 Delwath: Yeah, one of them died, right? I think there was three of them, and one of them was probably killed by the giant, but the evil—you know, by the fact that they woke this giant.
@@ -767,7 +767,7 @@ Kenzo: Right, but we should grab—whether they’ve got, like, a…
 Delwath: We should see if there’s the dog tags or something.
 
 %% u0700 %%
-Kenzo: Exactly, [[where the Packers lessons]].
+Kenzo: Exactly, {{where the Packers lessons}}.
 
 %% u0701-u0707 %%
 DM: So, Riswynn, on the first floor, you make a Perception check. I mean, this floor is a mess. What you can tell is that this seems like it was once the main hall. There’s a large hearth on the floor. There were tapestries, table and chairs that have been smashed, but now it looks like just scattered rubble, scattered bits of wood, bits of stone. Almost like a tornado has blasted through this place.

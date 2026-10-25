@@ -59,13 +59,13 @@ Seeker: Only very slightly taller than Wellby is Seeker, a dwarf wearing a very 
 Delwath: Delwath is an elf. He is wearing an elaborate set of armor that looks quite, quite old and out of place. I don't know if you would know any history, but it's clearly not modern armor, right? It looks unusual. The armor is somewhat shrouded in shadow, and the first thing you probably notice about Delwath is just that it's almost harder to focus on the armor than maybe it should be. There's a big blackness in the center of it that is emanating a small bit of shadow that kind of clings to the armor. He's also wearing another sort of ancient-looking helm with a small little winglet coming out. And slung over his back is a large shield along with the pack, but you can see no other weapons, no sword or any other weapon.
 
 %% u0555-u0559 %%
-Delwath: With his sort of pale silver hair that's fairly short-cropped, but a little bit you can see under the helmet, copper skin and somewhat distant-looking golden eyes. So [[you can know must she's]] almost—always seems to be looking past you or off into the distance just a little bit. He's clearly seen some things in his time. But he kind of bows slightly, inclines his head slightly and says...
+Delwath: With his sort of pale silver hair that's fairly short-cropped, but a little bit you can see under the helmet, copper skin and somewhat distant-looking golden eyes. So {{you can know must she's}} almost—always seems to be looking past you or off into the distance just a little bit. He's clearly seen some things in his time. But he kind of bows slightly, inclines his head slightly and says...
 
 %% u0560-u0562 %%
 Delwath: In Common, “It is a pleasure to meet one of your race. It has been many years since I last had the pleasure of the company of a stoneborn. Welcome to Karawa.”
 
 %% u0563 %%
-Kenzo: And standing next to Delwath—also normal humanoids [[haha calls]], though it sounds like six feet tall?
+Kenzo: And standing next to Delwath—also normal humanoids {{haha calls}}, though it sounds like six feet tall?
 
 %% u0564 %%
 Delwath: Not even. I mean, he's probably 5'8", 5'9", something like that. Elves aren't super tall.
@@ -77,7 +77,7 @@ Kenzo: And yeah, so standing next to Delwath, similar height, maybe a touch tall
 Kenzo: And Kenzo is very lightly dressed other than his cloak, and just a quarterstaff that he's walking with. Really sharp eyes. Look at him, you can see that he's very, very keen and very kind of insightful. And Kenzo, you can also tell just by how he moves, he's got a grace about him. You can tell that he could probably do some damage with that staff and can move around quite well.
 
 %% u0573-u0576 %%
-Kenzo: And so Kenzo again sees you and nods, says, “Greetings. Looking forward to learning more about you, stoneborn. Kenzo [[on Canada]]. What is your name?”
+Kenzo: And so Kenzo again sees you and nods, says, “Greetings. Looking forward to learning more about you, stoneborn. Kenzo {{on Canada}}. What is your name?”
 
 %% u0577-u0580 %%
 Drikod: Drikod. He kind of acknowledges, views how much stuff some of you are carrying compared to his more minimal packing and utilitarian clothing. “Did you find what you were looking for?” Drikod asks broadly to the group.
@@ -158,7 +158,7 @@ Kenzo: You can't spar with that?
 Drikod: There's no need to spar.
 
 %% u0622-u0624 %%
-Kenzo: If you change your mind. Always need sparring partners, especially ones—now that [[I didn't dig myself]].
+Kenzo: If you change your mind. Always need sparring partners, especially ones—now that {{I didn't dig myself}}.
 
 %% u0625 %%
 DM: You've been even bigger than...

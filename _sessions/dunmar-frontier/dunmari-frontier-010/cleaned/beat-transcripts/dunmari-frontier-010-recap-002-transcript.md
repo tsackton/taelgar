@@ -14,7 +14,7 @@ Wellby: Whoa, something's moving to the south.
 Seeker: I think roll the die again.
 
 %% u0676 %%
-Wellby: [[I make I do that, I just, you're lucky]], listen, that direction thing.
+Wellby: {{I make I do that, I just, you're lucky}}, listen, that direction thing.
 
 %% u0677 %%
 Delwath: Tim's tired of us dithering.
@@ -92,7 +92,7 @@ Delwath: We should get out of the doorway. I motion for everybody to—
 Wellby: If it was forty feet away, it one hundred percent saw our light and all of us.
 
 %% u0713 %%
-Delwath: Right, that's [[what's coming out of bed]].
+Delwath: Right, that's {{what's coming out of bed}}.
 
 %% u0714 %%
 Seeker: Depends on the geometry of the space.
@@ -152,7 +152,7 @@ DM: No, you're in a corridor. You can either go to the right or the left, or go 
 Delwath: So it's like a step down?
 
 %% u0746 %%
-Riswynn: [[Cambridge love]].
+Riswynn: {{Cambridge love}}.
 
 %% u0747 %%
 DM: It's not down it's offset.
@@ -203,7 +203,7 @@ Kenzo: You see in the dark?
 Delwath: I'll cast Invisibility and go sneak.
 
 %% u0765-u0766 %%
-DM: Okay, make a Stealth check. I'll say with advantage because you're invisible and [[work]].
+DM: Okay, make a Stealth check. I'll say with advantage because you're invisible and {{work}}.
 
 %% u0767 %%
 Delwath: I'm gonna keep that roll. I can't roll better.
@@ -251,7 +251,7 @@ Delwath: Okay, anything else in this? So I'm just gonna walk around for a minute
 DM: There are, set on the walls, iron manacles dangling. There are some messages in Dunmari written like "Cleanse the Dunmari pestilence with fire and steel" and "Die, Dunmari scum" and things like that, written around the walls. There is a stone platform near where the skeletons and bodies are piled, but otherwise it seems to be relatively empty.
 
 %% u0815-u0817 %%
-Riswynn: Single room, [[like the engines in the way that human]]. Anyway, there's not an exit in the room?
+Riswynn: Single room, {{like the engines in the way that human}}. Anyway, there's not an exit in the room?
 
 %% u0818 %%
 DM: No exit from this room.
@@ -278,7 +278,7 @@ DM: Not the one the creatures were in, the one that you entered in. Like storero
 Delwath: It sounds right.
 
 %% u0846 %%
-DM: A fair number, from where the light is coming from, [[the other side of them]].
+DM: A fair number, from where the light is coming from, {{the other side of them}}.
 
 %% u0847 %%
 Delwath: So I'm just trying to envision the rubble situation. The rubble on the floor—how is the rubble? Is it like a—
@@ -401,7 +401,7 @@ Seeker: You know, I rolled the dice and it said we should go back. So we're gonn
 Kenzo: We're going back to the tavern.
 
 %% u0910 %%
-Seeker: Have a nice meal [[the bag]].
+Seeker: Have a nice meal {{the bag}}.
 
 %% u0911 %%
 Delwath: What's to the south?
@@ -506,10 +506,10 @@ Delwath: An hour.
 Kenzo: I feel like, if we take the wrong step, the closer we get to this keep—whatever the hell is going on with these animals and the gnolls, there's something in here. There's something happening. I feel like if we start making too much noise, I don't think we're in a situation where we're going to pull out our weapons and fight everything that's in there and win. I don't think this is our mode here.
 
 %% u0979 %%
-Seeker: [[Belen you]].
+Seeker: {{Belen you}}.
 
 %% u0980-u0983 %%
-Kenzo: If you are able to be invisible—Wellby's pretty stealthy, [[Mr at that too]]—I don't know, I feel like we need to scout. We need to scout and just see more about what we're up against. Because if we wander in the wrong place and we start getting into a fight, the closer to that thing—I don't know. I feel like we need to learn more. We gotta be really quiet. Yeah, to learn more.
+Kenzo: If you are able to be invisible—Wellby's pretty stealthy, {{Mr at that too}}—I don't know, I feel like we need to scout. We need to scout and just see more about what we're up against. Because if we wander in the wrong place and we start getting into a fight, the closer to that thing—I don't know. I feel like we need to learn more. We gotta be really quiet. Yeah, to learn more.
 
 %% u0984 %%
 Delwath: Yeah, I felt like waiting by that door invisible and watching would have been a good move.
@@ -587,7 +587,7 @@ Seeker: Ah, yeah.
 Unknown: Make.
 
 %% u1019 %%
-Kenzo: [[Some iconic it]].
+Kenzo: {{Some iconic it}}.
 
 %% u1020 %%
 DM: I guess this would be more Religion. Who has Religion?
@@ -710,7 +710,7 @@ Delwath: Force damage. It's not—wait.
 DM: Unless a spell explicitly says that it causes noise, it isn't any louder than an arrow or a normal—
 
 %% u1083 %%
-Seeker: [[Rate who]].
+Seeker: {{Rate who}}.
 
 %% u1084 %%
 DM: Cool. I wouldn't recommend Thunderwave, for example.
@@ -773,7 +773,7 @@ Seeker: Kenzo.
 DM: Did you roll Stealth, Kong?
 
 %% u1112-u1114 %%
-Kenzo: Sorry, yeah, I got [[it a lot]] when I was moving rooms. Stealth check.
+Kenzo: Sorry, yeah, I got {{it a lot}} when I was moving rooms. Stealth check.
 
 %% u1115 %%
 Unknown: Yep.
@@ -800,7 +800,7 @@ DM: How close do you want them to be?
 Wellby: 30 feet.
 
 %% u1128 %%
-Kenzo: [[Ultra distance]].
+Kenzo: {{Ultra distance}}.
 
 %% u1129 %%
 Delwath: Eldritch Blast is super long.
@@ -818,7 +818,7 @@ DM: Yeah, okay, so Seeker, you're first.
 Seeker: I'm.
 
 %% u1135-u1136 %%
-Delwath: [[Already asked my class]]. That's your first, so—
+Delwath: {{Already asked my class}}. That's your first, so—
 
 %% u1137-u1138 %%
 DM: It doesn't matter. All three of you go first. I mean, this is a surprise round, and everybody can go.
@@ -866,7 +866,7 @@ DM: Okay, so everybody hits. Are you all aiming for the same one?
 Delwath: Wow.
 
 %% u1158 %%
-Seeker: [[Really discussion]].
+Seeker: {{Really discussion}}.
 
 %% u1159 %%
 Delwath: Yes, yeah.
@@ -899,7 +899,7 @@ DM: Channel Divinity is a short-rest power, if you want to. Is that—
 Riswynn: Well, I'm either going to do that or just cast a cantrip.
 
 %% u1179 %%
-Seeker: [[To new literature]].
+Seeker: {{To new literature}}.
 
 %% u1180 %%
 Riswynn: I'm not sure I understand. Metagame, I don't understand whether I should do it or shouldn't do it now.
@@ -1007,7 +1007,7 @@ Kenzo: So just want to know, did I—did seven, did I do seven, eight or nine da
 DM: Nine. Okay, so, I presume you always use your quarterstaff two-handed because it does more damage on average.
 
 %% u1229-u1230 %%
-Kenzo: Of course. All right, and then I'm unarmed striking as my additional way. And I'm also [[hearing]].
+Kenzo: Of course. All right, and then I'm unarmed striking as my additional way. And I'm also {{hearing}}.
 
 %% u1231-u1232 %%
 DM: That hits, and as you swing again, with your fist connecting, this one also falls to the ground dead.
@@ -1019,7 +1019,7 @@ Kenzo: So we've killed them both.
 Riswynn: Quietly.
 
 %% u1235 %%
-Kenzo: [[Bad]].
+Kenzo: {{Bad}}.
 
 %% u1236 %%
 Seeker: Nice work, guys.
@@ -1049,7 +1049,7 @@ Delwath: Yeah, that seems a little weird to me.
 Seeker: Not hobgoblins, right? They wouldn't be able to write in—
 
 %% u1252 %%
-Unknown: [[A card]].
+Unknown: {{A card}}.
 
 %% u1253 %%
 Seeker: And they are literate, we know now.
@@ -1493,7 +1493,7 @@ Kenzo: And we're looking through—is it just a window, or what are we looking t
 DM: No, it's a door. It's iron bars that swing.
 
 %% u1491-u1492 %%
-Kenzo: Does it swing, or does it open? Is it locked? [[Is it by consuming I saw]]?
+Kenzo: Does it swing, or does it open? Is it locked? {{Is it by consuming I saw}}?
 
 %% u1493 %%
 DM: Somebody just walked through.

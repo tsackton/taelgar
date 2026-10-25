@@ -83,7 +83,7 @@ Unknown: Um.
 DM: Yeah, it's trying to, but it can't quite get itself in position to block you. You could...
 
 %% u2494 %%
-Unknown: [[Lags.]]
+Unknown: {{Lags.}}
 
 %% u2495-u2497 %%
 Riswynn: Seeker, do you think that you could hold its attention? I could move a little bit to one side or the other and see if I can figure out how to just inactivate it, because it's not that menacing.
@@ -113,7 +113,7 @@ Seeker: Is it a creature or an object?
 Kenzo: Makes it work.
 
 %% u2512-u2514 %%
-Seeker: It can make a Constitution saving throw if it's unwilling. [[You're hearing it carrying she just does.]]
+Seeker: It can make a Constitution saving throw if it's unwilling. {{You're hearing it carrying she just does.}}
 
 %% u2515-u2518 %%
 DM: So I'm not... Yeah. That's very interesting. So as you begin to... Let's see.
@@ -131,7 +131,7 @@ Delwath: What are we trying to achieve exactly?
 Wellby: We're trying to...
 
 %% u2525-u2526 %%
-Riswynn: Playing with the golem. Yeah, [[that's the one before]].
+Riswynn: Playing with the golem. Yeah, {{that's the one before}}.
 
 %% u2527 %%
 Seeker: Now it's gonna be a pocket-sized golem.
@@ -164,7 +164,7 @@ Seeker: Well done, Riswynn.
 Riswynn: Didn't want to start with the shield in case it smashed it, since that was the whole point to make last...
 
 %% u2554 %%
-Wellby: [[In the last five minutes of your question.]]
+Wellby: {{In the last five minutes of your question.}}
 
 %% u2555 %%
 Seeker: Well, let's go ahead and see what you...
@@ -191,7 +191,7 @@ Unknown: Yes.
 Kenzo: Can we make claws out of it and stick it into our bones and...?
 
 %% u2579-u2580 %%
-DM: You could potentially make armor out of it. [[So can campaigns over to my players come out of the mines know.]]
+DM: You could potentially make armor out of it. {{So can campaigns over to my players come out of the mines know.}}
 
 %% u2581 %%
 Seeker: Can we do anything else to see here? We look down into the pit.
@@ -293,7 +293,7 @@ Kenzo: There's the tavern.
 DM: You'll have to make your own tavern. Back with your horses in your camp, you can have some beer or something from your supplies.
 
 %% u2651-u2652 %%
-Kenzo: [[Be currently, we don't have any rugs with me.]] Wait, wait, wait. But we were in a giant dwarven stronghold. I mean, there was no ale? There were no giant barrels full of bourbon, you know?
+Kenzo: {{Be currently, we don't have any rugs with me.}} Wait, wait, wait. But we were in a giant dwarven stronghold. I mean, there was no ale? There were no giant barrels full of bourbon, you know?
 
 %% u2653 %%
 Riswynn: Two-hundred-year-old spirits.
@@ -314,7 +314,7 @@ Kenzo: That's a tragedy.
 Unknown: Tragedy.
 
 %% u2659-u2661 %%
-DM: Wow, I'm impressed. I wasn't sure you would ever finish. [[Job. You made]]...
+DM: Wow, I'm impressed. I wasn't sure you would ever finish. {{Job. You made}}...
 
 %% u2662 %%
 Seeker: And we rescued all the animals.

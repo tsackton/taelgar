@@ -5,9 +5,9 @@
 [u0005 | 00:00:41.660-00:01:00.060 | Kenzo] or do things, he's basically been like thus far drawing ki just in a non, you know, in like a an an ambiguous way from from the the uh, the plane of souls, and what he is now beginning to learn through this, this, this kind of individual quest
 [u0006 | 00:01:00.120-00:01:21.210 | Kenzo] are all the different types of ki that are out there. And there's like fucking so many different types of ki that are associated with different types of life. Okay, And the Lizard folk are like fucking the the They're like the, you know, like the indigenous peoples of Taelgar. Right like they are like super super in tune with all of the life in the jungle. And just wherever you know, wherever they inhabit.
 [u0007 | 00:01:21.240-00:01:40.409 | Kenzo] And so they're able to like work with ki That like is from all of these different sources, right? And so they're basically able to like kind of like shift from the material plane into the the plane of souls like way more fluidly, and the plane of souls and Tim correct me if i'm remembering the cosmology here,
-[u0008 | 00:01:40.600-00:02:01.429 | Kenzo] there's also like a um. There's also the plane of dreams, right so like there's a dream world. And then there's like the plane of souls. And then there's all of these other kind of dimensions that are like [[in Z Z]], and that maybe not even, you know, [[Zoom anyone out of the right play]] which is like outside of the exactly like whatever whatever kind of realms that kind of are higher realms and lower realms right?
+[u0008 | 00:01:40.600-00:02:01.429 | Kenzo] there's also like a um. There's also the plane of dreams, right so like there's a dream world. And then there's like the plane of souls. And then there's all of these other kind of dimensions that are like {{in Z Z}}, and that maybe not even, you know, {{Zoom anyone out of the right play}} which is like outside of the exactly like whatever whatever kind of realms that kind of are higher realms and lower realms right?
 [u0009 | 00:02:01.440-00:02:18.619 | Kenzo] And so there's also a weird way in which these souls kind of like the plane of souls like, enables these sort of passageways between these different, like realms and planes. And so what Kenzo is like starting to like, Learn from his lizardfolk like Quest is like
-[u0010 | 00:02:19.090-00:02:31.810 | Kenzo] [[mit ctl]], and different types of specific like plants that are in this jungle that he's learning to commune with. And then he's learning to basically like pull ki from those plants to like, then do different things right
+[u0010 | 00:02:19.090-00:02:31.810 | Kenzo] {{mit ctl}}, and different types of specific like plants that are in this jungle that he's learning to commune with. And then he's learning to basically like pull ki from those plants to like, then do different things right
 [u0011 | 00:02:31.820-00:02:53.559 | Kenzo] and actually over time. As he grows in his power, he'll be able to get ki from, like all kinds of like. weird living things, and they are. They're almost like charges of magic items, you know, like some of the weird like, you know. Imagine getting like a ki from like a super crazy like ancient forest like super ancient tree, and he's got a couple of those ki, and they're like charges of magic items right that let him do super crazy things, but only like once, you know.
 [u0012 | 00:02:54.440-00:02:59.510 | DM] So yeah, the two extra points. Um, one is that uh?
 [u0013 | 00:03:00.390-00:03:06.420 | DM] So this is all connected to the original sort of metaphysics of Taelgar where,
@@ -17,10 +17,10 @@
 [u0017 | 00:03:27.040-00:03:28.809 | DM] And then, when they were,
 [u0018 | 00:03:29.100-00:03:33.830 | DM] there was a there was the moment in time where everything was kind of
 [u0019 | 00:03:34.090-00:03:37.829 | DM] stretched like that, like pulled apart by
-[u0020 | 00:03:38.900-00:03:45.260 | DM] [[bar on and mollet]] by the two sort of Creator gods which created the multiverse
+[u0020 | 00:03:38.900-00:03:45.260 | DM] {{bar on and mollet}} by the two sort of Creator gods which created the multiverse
 [u0021 | 00:03:45.600-00:03:51.329 | DM] But there's like, but it's like pulling like Silly Putty, or something like these little strings
 [u0022 | 00:03:51.580-00:03:55.710 | DM] that connect to Taelgar. So that's like when you
-[u0023 | 00:03:56.120-00:04:02.379 | DM] you know, outside of [[Tokra]], when there's like a weak point to pandemonium or a weak point to
+[u0023 | 00:03:56.120-00:04:02.379 | DM] you know, outside of {{Tokra}}, when there's like a weak point to pandemonium or a weak point to
 [u0024 | 00:04:03.450-00:04:04.590 | DM] um
 [u0025 | 00:04:04.950-00:04:09.589 | DM] the Arborea. That's like the remnants of these strings. But of course,
 [u0026 | 00:04:10.090-00:04:16.930 | DM] the plane of souls, these like strings, Don't necessarily connect to physical locations. They connect to
@@ -37,7 +37,7 @@
 [u0037 | 00:05:11.890-00:05:18.330 | DM] four different types of ki. I This is all I put this all in your in this Kenzo.
 [u0038 | 00:05:19.420-00:05:25.349 | DM] Uh Here, let me in this Kenzo document. I'll i'll text you a link.
 [u0039 | 00:05:27.540-00:05:32.310 | Izzarak] Well, right, there's this thing about the spirit realms balance
-[u0040 | 00:05:32.330-00:05:37.490 | Izzarak] the magical realms to these kind of two poles of [[the rights]].
+[u0040 | 00:05:32.330-00:05:37.490 | Izzarak] the magical realms to these kind of two poles of {{the rights}}.
 [u0041 | 00:05:39.230-00:05:43.280 | DM] So the four plants that Kenzo has learned about
 [u0042 | 00:05:44.000-00:05:45.350 | DM] are
 [u0043 | 00:05:46.250-00:05:49.710 | DM] are that sort of are the connection? Are the
@@ -73,9 +73,9 @@
 [u0073 | 00:08:23.940-00:08:28.240 | DM] But this is connected. This is the same kind of ki that
 [u0074 | 00:08:28.280-00:08:29.550 | DM] the sort of
 [u0075 | 00:08:29.840-00:08:31.380 | DM] ki, um
-[u0076 | 00:08:31.660-00:08:40.569 | DM] the primal forces of nature and abundance, is what Kenzo has already kind of experienced with the god trees of [[something like I]].
+[u0076 | 00:08:31.660-00:08:40.569 | DM] the primal forces of nature and abundance, is what Kenzo has already kind of experienced with the god trees of {{something like I}}.
 [u0077 | 00:08:40.610-00:08:43.949 | DM] So that's connected to your staff, and the last one is
-[u0078 | 00:08:44.740-00:08:50.039 | DM] [[Bertara]], which is the name for a water lily that's
+[u0078 | 00:08:44.740-00:08:50.039 | DM] {{Bertara}}, which is the name for a water lily that's
 [u0079 | 00:08:50.110-00:08:52.460 | DM] cultivated by lizard folk,
 [u0080 | 00:08:53.010-00:08:56.140 | DM] and is known as like permanence ki,
 [u0081 | 00:08:56.370-00:09:02.480 | DM] and as sort of the counterpoint to Ohana, it's the sort of solid foundations on which,
@@ -86,7 +86,7 @@
 [u0086 | 00:09:17.000-00:09:19.639 | DM] so the Lizard folk will, like, you know,
 [u0087 | 00:09:19.800-00:09:27.220 | DM] dry the flowers, the purple flowers when they bloom in just the right time and place, and use that
 [u0088 | 00:09:27.260-00:09:28.409 | DM] as a
-[u0089 | 00:09:28.650-00:09:46.269 | DM] as a sort of source of this kind of ki, and obviously, like [[Goths]], is probably connected to the same thing totally. That's it. Ten thousand percent like So [[Goth]] is like, you know, probably collects the ki of the land of the dead right? So it's another way of getting spirit ki.
+[u0089 | 00:09:28.650-00:09:46.269 | DM] as a sort of source of this kind of ki, and obviously, like {{Goths}}, is probably connected to the same thing totally. That's it. Ten thousand percent like So {{Goth}} is like, you know, probably collects the ki of the land of the dead right? So it's another way of getting spirit ki.
 [u0090 | 00:09:46.870-00:10:01.840 | DM] So these these kinds of and there's probably other kinds of ki that Kenzo Hasn't discovered yet. Right? Oh, there's there! There's some. There's infinite different kinds of ki that are out there; that because there's effectively infinite dimensions to these,
 [u0091 | 00:10:01.970-00:10:05.519 | DM] I mean the the way that um
 [u0092 | 00:10:06.690-00:10:11.369 | DM] the way that the lizard folk would have taught Kenzo about it is that it's sort of
@@ -111,7 +111,7 @@
 [u0111 | 00:13:04.240-00:13:10.600 | Kenzo] what's his name? Elazar? Yeah, Elazar the the lizardfolk guy. So
 [u0112 | 00:13:10.670-00:13:11.780 | Kenzo] um.
 [u0113 | 00:13:12.090-00:13:24.840 | Kenzo] So, anyways, I guess. Because yeah, the other thing, Tim is like what I was trying to remember from all of our other past conversations. It's like like after Kenzo leaves this place I can, leaves the lizardfolk right like. Part of my thought was that,
-[u0114 | 00:13:25.000-00:13:43.459 | Kenzo] you know, because the the spirit world or the the the plane of souls. This is like, you know. [[You can nominally act.]] How do you get back here through like specific locations in the material plane? Is that right? Or can you kind of meditate and get back there, or like touch it? It's I mean, you don't you don't really know It's
+[u0114 | 00:13:25.000-00:13:43.459 | Kenzo] you know, because the the spirit world or the the the plane of souls. This is like, you know. {{You can nominally act.}} How do you get back here through like specific locations in the material plane? Is that right? Or can you kind of meditate and get back there, or like touch it? It's I mean, you don't you don't really know It's
 [u0115 | 00:13:43.470-00:13:50.339 | DM] the the only time that Kenzo has ever experienced the plane of souls is through sort of specific rituals right via the
 [u0116 | 00:13:51.160-00:13:57.919 | DM] uh. The other time you were there was Candrosa's dream Staff. Exactly. Yeah, it's a like Candrosa's dream staff.
 [u0117 | 00:13:57.940-00:14:02.350 | DM] This thing with the Lizard folk. The ritual with Shakun,
@@ -120,12 +120,12 @@
 [u0120 | 00:14:28.790-00:14:58.759 | Kenzo] He's like dieting on the plants he's like, you know, in ceremony with the plants, and he's developing like a connection with these plants. That's kind of beyond. You know that's both that's both, you know, physical, but also like he's, he's engaging with the plane of like the plane of souls through these plants. Right so, and I for and i'm forgetting now, too, from the last time. It's like that I remember there were some plants actually growing on his staff. Was that true? Like a couple of like the dreamberries in the in the plane of souls. The spiritual representation
 [u0121 | 00:14:58.770-00:15:00.200 | DM] of his staff
 [u0122 | 00:15:00.210-00:15:26.060 | Kenzo] got it. Okay, So so that could be a part of it, too, is that he learns some ritual, so that, like mediated, you know, through his relationship with these plants he can like access, not the full on plane, but maybe he can access like the the the the spirits of these plants, and these plants are indigenous to this jungle. So it's like by having that connection with these plants
-[u0123 | 00:15:26.320-00:15:40.309 | Kenzo] anywhere, you know, [[because they're not part of him]]. It's like he can. Then he can. Then you know, kind of commune again with his lizard folk like mentors and family. Um, but you know, mediated through this like relationship. Now that he can like, kind of you know, draw this ki.
+[u0123 | 00:15:26.320-00:15:40.309 | Kenzo] anywhere, you know, {{because they're not part of him}}. It's like he can. Then he can. Then you know, kind of commune again with his lizard folk like mentors and family. Um, but you know, mediated through this like relationship. Now that he can like, kind of you know, draw this ki.
 [u0124 | 00:15:41.760-00:15:53.339 | DM] Yeah. So I think I mean, I I Um, yeah, we can figure that out. I want to. I want to get to some. But but I I would say I would just add, The one thing is that? Um,
 [u0125 | 00:15:54.500-00:15:56.510 | DM] Uh: So
 [u0126 | 00:15:56.810-00:16:15.179 | DM] yeah. So this what we're looking at now the like plane of souls itself is kind of, I mean Kenzo was already kind of looking into the plane of souls whenever you use your soul sight right like that. This is the like base layer that's relatively easy to trans transition into. But
 [u0127 | 00:16:15.520-00:16:17.839 | DM] um! But you know,
-[u0128 | 00:16:17.960-00:16:37.020 | DM] moving around and like [[finding all the doorways to other navigating, it was something]] is much trickier, right right? And Of course you can navigate that. You can navigate into the dream world that way. That's how how Kenzo has gotten to the dream world in the past is through the plane of souls
+[u0128 | 00:16:17.960-00:16:37.020 | DM] moving around and like {{finding all the doorways to other navigating, it was something}} is much trickier, right right? And Of course you can navigate that. You can navigate into the dream world that way. That's how how Kenzo has gotten to the dream world in the past is through the plane of souls
 [u0129 | 00:16:37.030-00:16:44.300 | DM] right. But then there's obviously other places you can navigate, and you can eventually learn to navigate to the
 [u0130 | 00:16:44.680-00:16:47.800 | DM] the land of the dead, or even beyond,
 [u0131 | 00:16:49.510-00:16:54.279 | DM] which, of course, gets much riskier, because then you're like venturing off into like,
@@ -223,11 +223,11 @@
 [u0223 | 00:25:44.630-00:25:51.139 | DM] Orekatu joining you. But for now you find yourself, though I had a scene for this
 [u0224 | 00:25:55.850-00:25:59.529 | DM] you find yourself at the at the edge of the river,
 [u0225 | 00:25:59.730-00:26:01.849 | DM] as the sun is sinking,
-[u0226 | 00:26:01.910-00:26:08.550 | DM] gazing across the cultivated plots of [[Heritaro]] floating in the peaceful evening light,
+[u0226 | 00:26:01.910-00:26:08.550 | DM] gazing across the cultivated plots of {{Heritaro}} floating in the peaceful evening light,
 [u0227 | 00:26:08.870-00:26:20.770 | DM] when the quiet is broken by sounds of footsteps and the loud gurgle of a baby lizard folk marking the approach of the first of the champions chosen to accompany you on your journey.
 [u0228 | 00:26:22.760-00:26:25.719 | DM] Sorry. Do you want to introduce your character?
 [u0229 | 00:26:27.740-00:26:29.930 | Izzarak] You see that
-[u0230 | 00:26:30.090-00:26:31.900 | Izzarak] a tall [[Don't]]
+[u0230 | 00:26:30.090-00:26:31.900 | Izzarak] a tall {{Don't}}
 [u0231 | 00:26:32.830-00:26:34.090 | Izzarak] lizard
 [u0232 | 00:26:34.360-00:26:35.610 | Izzarak] priest,
 [u0233 | 00:26:36.060-00:26:37.360 | Izzarak] wearing
@@ -690,7 +690,7 @@
 [u0690 | 01:05:24.160-01:05:26.109 | Izzarak] attack by fire breathing creatures.
 [u0691 | 01:05:26.690-01:05:36.229 | Izzarak] Ah, that's such a it's too specific the question, I don't I haven't thought about how to use this divination thing. It's like. What what type of danger? Maybe that's all i'll say.
 [u0692 | 01:05:37.620-01:05:43.919 | Izzarak] What type of danger will we will we be exposed to on our quest to restore the balance to the footprint of the gods. That's my question.
-[u0693 | 01:05:45.740-01:05:57.540 | DM] Okay. So you you meditate, and you you sort of reach into the sort of spirit of the jungle and the Tharzen Anzinakoa that the [[Advent]] firstborn,
+[u0693 | 01:05:45.740-01:05:57.540 | DM] Okay. So you you meditate, and you you sort of reach into the sort of spirit of the jungle and the Tharzen Anzinakoa that the {{Advent}} firstborn,
 [u0694 | 01:05:57.730-01:05:59.009 | DM] and you
 [u0695 | 01:05:59.960-01:06:02.030 | DM] sort of reach out asking them,
 [u0696 | 01:06:02.090-01:06:05.579 | DM] What are we going to face. What is the danger that's coming?
@@ -790,7 +790,7 @@
 [u0790 | 01:14:10.430-01:14:13.059 | DM] cast commune with nature once a day.
 [u0791 | 01:14:13.310-01:14:18.799 | DM] Yeah, which effectively is what you want. Right? That gives you that kind of
 [u0792 | 01:14:19.110-01:14:33.489 | Kenzo] Well, I i'm. I'm just imagining like like like there's stuff happening in the material world related to whatever sucking the energy away. But then, in the actual like plane of souls. There's stuff, so it's like being able to like more.
-[u0793 | 01:14:33.500-01:14:44.000 | Kenzo] That in greater detail would be cool. [[I don't know what I mean this very it, you know midnight when the you're like, you know once a day]]
+[u0793 | 01:14:33.500-01:14:44.000 | Kenzo] That in greater detail would be cool. {{I don't know what I mean this very it, you know midnight when the you're like, you know once a day}}
 [u0794 | 01:14:44.210-01:14:50.640 | DM] commune with ki power from your staff can be quite flexible to give you right
 [u0795 | 01:14:50.990-01:14:54.830 | DM] that sort of perspective as well perfect
 [u0796 | 01:15:05.020-01:15:08.039 | DM] back to
@@ -839,7 +839,7 @@
 [u0839 | 01:18:12.650-01:18:16.419 | DM] um. Your stories of
 [u0840 | 01:18:17.330-01:18:21.820 | DM] the West Kenzo, and especially anything that you're willing to share, but
 [u0841 | 01:18:21.980-01:18:23.230 | DM] and that
-[u0842 | 01:18:23.320-01:18:27.779 | DM] elven forests in the [[dentistry]], and where your staff came from,
+[u0842 | 01:18:23.320-01:18:27.779 | DM] elven forests in the {{dentistry}}, and where your staff came from,
 [u0843 | 01:18:28.510-01:18:45.840 | Kenzo] Yeah, actually Kenzo, uh, Kenzo's super fucking. Curious, I mean, has been all month to about like. Where the fuck are we like? How big is the Lizard folk kingdom, like, you know. Has anybody here ever interacted with, like you know, non-lizard folk have other elves, humans or dwarves, or anybody else ever ended up out here.
 [u0844 | 01:18:46.890-01:18:59.459 | DM] So yeah, so he he can tell you a few stories about that. So So Enari is He's never actually. I mean, he's met humans. You're not the first human he's met. He's met. He's met lizard folk. He's not met a dwarf
 [u0845 | 01:18:59.600-01:19:02.569 | DM] um. He tells you that
@@ -912,7 +912,7 @@
 [u0912 | 01:25:01.790-01:25:06.340 | DM] Ah, but the so the Feywild is an echo of the material plane.
 [u0913 | 01:25:06.460-01:25:11.869 | DM] So there's no fey ki, but all the ki I mean there, is fey ki in the sense that,
 [u0914 | 01:25:12.800-01:25:14.570 | DM] just like
-[u0915 | 01:25:17.200-01:25:28.520 | DM] just like from the material plane, you can go like up in the Z-axis to get to all these great realms. You can do the same thing from the Feywild, and get to like [[fame and use the spirit realms]].
+[u0915 | 01:25:17.200-01:25:28.520 | DM] just like from the material plane, you can go like up in the Z-axis to get to all these great realms. You can do the same thing from the Feywild, and get to like {{fame and use the spirit realms}}.
 [u0916 | 01:25:28.650-01:25:31.839 | DM] But the Feywild is not itself the spirit realm,
 [u0917 | 01:25:33.440-01:25:34.349 | Izzarak] he
 [u0918 | 01:25:37.200-01:25:39.809 | DM] so, as you proceed,
@@ -934,7 +934,7 @@
 [u0934 | 01:27:05.970-01:27:08.210 | Izzarak] tree branch, strung with
 [u0935 | 01:27:08.270-01:27:09.910 | Izzarak] tiny bells,
 [u0936 | 01:27:10.400-01:27:12.219 | Izzarak] and uh
-[u0937 | 01:27:12.990-01:27:16.219 | Izzarak] expend a charge to [[detect the presence of]]
+[u0937 | 01:27:12.990-01:27:16.219 | Izzarak] expend a charge to {{detect the presence of}}
 [u0938 | 01:27:17.650-01:27:19.959 | Izzarak] it's within sixty feet.
 [u0939 | 01:27:22.700-01:27:23.590 | Unknown] And
 [u0940 | 01:27:24.550-01:27:27.319 | Izzarak] does it sound like it? Would be that close Whatever we're hearing,
@@ -1289,7 +1289,7 @@
 [u1289 | 02:03:38.440-02:03:40.330 | Unknown] and
 [u1290 | 02:03:41.940-02:03:42.940 | Izzarak] one,
 [u1291 | 02:03:43.310-02:03:44.370 | Izzarak] and
-[u1292 | 02:03:45.040-02:03:48.970 | DM] the fire the magma dancer rolls [[or site]] um
+[u1292 | 02:03:45.040-02:03:48.970 | DM] the fire the magma dancer rolls {{or site}} um
 [u1293 | 02:03:49.760-02:03:51.939 | DM] Enari rolls, the three
 [u1294 | 02:03:56.860-02:04:03.539 | DM] uh Okay. So Kenzo. You're up first. If there's anything you want to do in particular.
 [u1295 | 02:04:03.570-02:04:11.420 | DM] Um, you get the you get the feeling just by watching that these two flame wasps have seen Enari at least,
@@ -1304,7 +1304,7 @@
 [u1304 | 02:04:52.110-02:04:59.000 | DM] so I I also. So learning all this stuff on each one of them, I believe, takes a ki for each one right,
 [u1305 | 02:04:59.590-02:05:02.850 | Kenzo] I think it's only for if I do Soul Study
 [u1306 | 02:05:05.550-02:05:07.470 | DM] Oh, that's right. Um!
-[u1307 | 02:05:08.500-02:05:20.619 | DM] This is all right. That gives you It's resistances and immunities, and that sort of stuff. And this is just [[a whole thing. Focus]]. This is just right, right? Right? Right? I got it. Uh okay, So they are. Um,
+[u1307 | 02:05:08.500-02:05:20.619 | DM] This is all right. That gives you It's resistances and immunities, and that sort of stuff. And this is just {{a whole thing. Focus}}. This is just right, right? Right? Right? I got it. Uh okay, So they are. Um,
 [u1308 | 02:05:22.780-02:05:26.139 | DM] Ah, they are also strong,
 [u1309 | 02:05:26.910-02:05:32.400 | DM] their lowest. Their strongest ability is strength. Their lowest is charisma, and they are about level. Five
 [u1310 | 02:05:32.910-02:05:34.679 | Kenzo] cool, and what's their intent?
@@ -1622,7 +1622,7 @@
 [u1622 | 02:29:55.940-02:30:07.470 | DM] Ah, in the new the new version of the D&D Which actually I really like rather than giving people Bardic inspiration in advance, you can use it as a reaction when somebody fails a roll.
 [u1623 | 02:30:08.220-02:30:09.780 | Izzarak] That's better, Jack,
 [u1624 | 02:30:09.850-02:30:23.560 | DM] which I actually might just switch to doing that. So nobody has to remember that you gave them inspiration. You can just decide. Oh, you get I'm gonna do it from that way. Better as much. That makes sense. Yeah,
-[u1625 | 02:30:24.350-02:30:27.610 | Kenzo] Um. But I can [[be in touch]] on myself. Right, Tim,
+[u1625 | 02:30:24.350-02:30:27.610 | Kenzo] Um. But I can {{be in touch}} on myself. Right, Tim,
 [u1626 | 02:30:27.920-02:30:32.889 | DM] uh it doesn't help you with It's just charmed and
 [u1627 | 02:30:33.420-02:30:36.000 | Kenzo] no
 [u1628 | 02:30:37.090-02:30:40.930 | DM] Ah, this is poison. Does it help with this? Ah, no,
@@ -1771,7 +1771,7 @@
 [u1771 | 02:40:14.930-02:40:17.369 | Izzarak] that is forward again.
 [u1772 | 02:40:21.680-02:40:24.489 | DM] My name you may call me
 [u1773 | 02:40:27.260-02:40:30.520 | DM] Ember. It translates into your tongue,
-[u1774 | 02:40:30.590-02:40:32.319 | DM] [[Sony, nigh]].
+[u1774 | 02:40:30.590-02:40:32.319 | DM] {{Sony, nigh}}.
 [u1775 | 02:40:37.860-02:40:38.820 | DM] Hmm.
 [u1776 | 02:40:40.080-02:40:41.369 | DM] And you
 [u1777 | 02:40:42.070-02:40:44.369 | DM] looks at you, Kenzo.
@@ -1797,14 +1797,14 @@
 [u1797 | 02:42:17.730-02:42:20.659 | DM] What if the land doesn't want to be fixed.
 [u1798 | 02:42:21.540-02:42:23.150 | Kenzo] Then there's nothing to be done.
 [u1799 | 02:42:27.720-02:42:28.650 | Unknown] Hmm.
-[u1800 | 02:42:29.680-02:42:35.230 | DM] Well, the land does want to be fixed. At least my land, [[the palace of your land]].
+[u1800 | 02:42:29.680-02:42:35.230 | DM] Well, the land does want to be fixed. At least my land, {{the palace of your land}}.
 [u1801 | 02:42:38.740-02:42:41.290 | DM] He looks up at them
 [u1802 | 02:42:41.700-02:42:44.840 | DM] at the uh volcano.
-[u1803 | 02:42:48.150-02:42:49.890 | DM] [[So me and I]]
+[u1803 | 02:42:48.150-02:42:49.890 | DM] {{So me and I}}
 [u1804 | 02:42:50.840-02:42:53.670 | DM] that is me. That is my home,
 [u1805 | 02:42:56.620-02:42:58.259 | DM] the Lizard folk
 [u1806 | 02:42:58.410-02:42:59.520 | DM] um
-[u1807 | 02:43:00.700-02:43:03.830 | DM] call it [[sugar]].
+[u1807 | 02:43:00.700-02:43:03.830 | DM] call it {{sugar}}.
 [u1808 | 02:43:06.120-02:43:08.140 | DM] But that is not its name.
 [u1809 | 02:43:08.310-02:43:10.160 | DM] It's not my name.
 [u1810 | 02:43:17.470-02:43:20.650 | DM] Fire is good,
@@ -1821,7 +1821,7 @@
 [u1821 | 02:44:00.460-02:44:06.349 | DM] it like runs up towards you like holding to like pile, you know handfuls of lava.
 [u1822 | 02:44:08.560-02:44:10.910 | DM] This is what's been wrought, not
 [u1823 | 02:44:12.280-02:44:14.929 | DM] the natural order of things,
-[u1824 | 02:44:17.060-02:44:19.470 | DM] [[cigars]] ruined,
+[u1824 | 02:44:17.060-02:44:19.470 | DM] {{cigars}} ruined,
 [u1825 | 02:44:22.460-02:44:23.830 | DM] collapsing
 [u1826 | 02:44:24.260-02:44:25.810 | DM] into some.
 [u1827 | 02:44:28.490-02:44:34.270 | DM] Wherever this lava goes, whatever is at the bottom of this is consuming my mountain,
@@ -1858,7 +1858,7 @@
 [u1858 | 02:46:51.840-02:46:53.110 | DM] beast.
 [u1859 | 02:47:00.580-02:47:02.590 | Unknown] I don't know the word in
 [u1860 | 02:47:04.640-02:47:06.849 | DM] any tongue but my own
-[u1861 | 02:47:06.880-02:47:10.810 | DM] [[Ramanaka, Palmer, Kazoo]]
+[u1861 | 02:47:06.880-02:47:10.810 | DM] {{Ramanaka, Palmer, Kazoo}}
 [u1862 | 02:47:11.490-02:47:12.330 | DM] Up,
 [u1863 | 02:47:13.810-02:47:15.390 | DM] creature of the
 [u1864 | 02:47:17.560-02:47:19.090 | DM] the veil,
@@ -1893,7 +1893,7 @@
 [u1893 | 02:49:10.590-02:49:11.870 | Izzarak] you know. Not
 [u1894 | 02:49:13.820-02:49:14.750 | DM] on a
 [u1895 | 02:49:15.770-02:49:17.440 | DM] rampage,
-[u1896 | 02:49:17.840-02:49:19.270 | DM] [[one dead]],
+[u1896 | 02:49:17.840-02:49:19.270 | DM] {{one dead}},
 [u1897 | 02:49:19.380-02:49:20.800 | DM] angry,
 [u1898 | 02:49:21.000-02:49:22.240 | DM] lost,
 [u1899 | 02:49:25.190-02:49:26.449 | DM] Trapped!
@@ -1913,7 +1913,7 @@
 [u1913 | 02:50:15.480-02:50:17.310 | Izzarak] Can I see something there?
 [u1914 | 02:50:18.490-02:50:23.370 | DM] It's a pretty thick jungle right so like you could see,
 [u1915 | 02:50:24.430-02:50:34.399 | DM] you know, maybe a hundred feet. There's I mean they're talking like miles away, you could, you know, climb up to the top of the volcano. You might get a better view, although it might be dangerous,
-[u1916 | 02:50:34.620-02:50:38.000 | Izzarak] but it's not at the location of [[all humanoids immortals]].
+[u1916 | 02:50:34.620-02:50:38.000 | Izzarak] but it's not at the location of {{all humanoids immortals}}.
 [u1917 | 02:50:38.350-02:50:44.559 | DM] No, no, No, it's not, it's. It's like towards the center of the footprint of the gods
 [u1918 | 02:50:44.600-02:50:45.560 | Izzarak] I see,
 [u1919 | 02:50:47.390-02:50:51.320 | DM] so like the volcano is sort of north of here,
@@ -1929,7 +1929,7 @@
 [u1929 | 02:51:31.500-02:51:32.949 | Kenzo] for its
 [u1930 | 02:51:36.830-02:51:38.629 | Izzarak] Are you familiar with such?
 [u1931 | 02:51:39.130-02:51:40.080 | Unknown] No
-[u1932 | 02:51:45.430-02:51:47.330 | Izzarak] [[serpent into one]]?
+[u1932 | 02:51:45.430-02:51:47.330 | Izzarak] {{serpent into one}}?
 [u1933 | 02:51:52.360-02:51:53.659 | Kenzo] If we
 [u1934 | 02:51:54.730-02:51:57.990 | Kenzo] cause Motua to calm down or return home,
 [u1935 | 02:51:58.590-02:51:59.710 | Kenzo] Then
@@ -1970,7 +1970,7 @@
 [u1970 | 02:54:50.640-02:54:52.839 | DM] It's destroyed my home,
 [u1971 | 02:54:54.320-02:54:56.160 | DM] I would have it killed.
 [u1972 | 02:54:59.170-02:55:02.030 | DM] I will not quarrel if that is not your way. But
-[u1973 | 02:55:03.980-02:55:06.269 | Kenzo] [[and where is that the thing we reasoned with]]?
+[u1973 | 02:55:03.980-02:55:06.269 | Kenzo] {{and where is that the thing we reasoned with}}?
 [u1974 | 02:55:06.580-02:55:09.119 | Kenzo] Where is its home. Can we trap it somehow?
 [u1975 | 02:55:10.980-02:55:13.389 | DM] Its home, as I said, is the land of the dead
 [u1976 | 02:55:15.870-02:55:17.720 | DM] cannot go to this.
@@ -2041,7 +2041,7 @@
 [u2041 | 03:00:25.560-03:00:27.780 | DM] life and death of
 [u2042 | 03:00:30.110-03:00:32.659 | DM] Ohana, of the
 [u2043 | 03:00:33.270-03:00:34.890 | DM] not just the
-[u2044 | 03:00:42.650-03:00:46.110 | DM] [[Simon I.]] The volcano. My home is
+[u2044 | 03:00:42.650-03:00:46.110 | DM] {{Simon I.}} The volcano. My home is
 [u2045 | 03:00:48.980-03:00:50.770 | DM] life and death,
 [u2046 | 03:00:52.090-03:00:54.209 | DM] fertility and destruction,
 [u2047 | 03:00:55.770-03:00:57.100 | DM] speed,

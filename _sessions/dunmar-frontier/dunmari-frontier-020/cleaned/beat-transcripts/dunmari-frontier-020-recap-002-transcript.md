@@ -62,7 +62,7 @@ DM: "And not six—no, maybe two months ago, a month ago—more adventurers. Not
 Seeker: The Chardonians didn't come back this way, did they?
 
 %% u0707-u0710 %%
-DM: We were suspicious and did not speak to them, but listened from a distance. I do not believe they were aware of us, and they have not returned. [[You saw or five of them, you saw that]].
+DM: We were suspicious and did not speak to them, but listened from a distance. I do not believe they were aware of us, and they have not returned. {{You saw or five of them, you saw that}}.
 
 %% u0711 %%
 Kenzo: You said that you saw them heading east?
@@ -71,7 +71,7 @@ Kenzo: You said that you saw them heading east?
 Unknown: East.
 
 %% u0713-u0723 %%
-DM: They, I believe, were heading towards the river, now dry, the Kharja River which Kharsan sits on. There are many treasures, perhaps, hidden south along the river that leads to Drankor, including the monastery of our order that is now too dangerous to approach on the outskirts of Kharsan. [[Which one, some say]]… A lost library from the days of Drankor, somewhere in the desert to the south.
+DM: They, I believe, were heading towards the river, now dry, the Kharja River which Kharsan sits on. There are many treasures, perhaps, hidden south along the river that leads to Drankor, including the monastery of our order that is now too dangerous to approach on the outskirts of Kharsan. {{Which one, some say}}… A lost library from the days of Drankor, somewhere in the desert to the south.
 
 %% u0724 %%
 Seeker: Along the river.
@@ -98,7 +98,7 @@ Kenzo: And you're saying this was documented in the library?
 DM: Perhaps. Perhaps the library had information about what they were seeking. Perhaps there was something they hoped to find there itself. We could not listen for too long, for fear of being found. Two old men against five adventurers, if they decided to…
 
 %% u0739-u0741 %%
-Kenzo: [[Hobbit]]. Kenzo describes Vola, and then also the dead guy that we found.
+Kenzo: {{Hobbit}}. Kenzo describes Vola, and then also the dead guy that we found.
 
 %% u0742 %%
 DM: Arcus.
@@ -110,7 +110,7 @@ Unknown: Right.
 Kenzo: Yeah, did any of them match this description? Describes to the best of his ability.
 
 %% u0745-u0749 %%
-DM: No, I mean, the timeline wouldn't work, because if this was two months ago… [[I got it, so he's ready to go with, was like when you are in]]… It's been about six weeks since you met in Karawa, so Arcus would have been just about being turned to stone, and Vola would have been heading north towards Raven's Hold.
+DM: No, I mean, the timeline wouldn't work, because if this was two months ago… {{I got it, so he's ready to go with, was like when you are in}}… It's been about six weeks since you met in Karawa, so Arcus would have been just about being turned to stone, and Vola would have been heading north towards Raven's Hold.
 
 %% u0750 %%
 Kenzo: Five different Chardonians.
@@ -131,7 +131,7 @@ Wellby: Do you have maps of the monastery? Can you describe it?
 DM: "I have never been." He looks over at Avaras, and Avaras shakes his head. Avaras speaks now: "Even when I was young…" And Pava kind of cuts him off. "Yes, even when we were young, it was dangerous. Kharsan has never been a—I don't know how much of the history of Dunmar you know."
 
 %% u0760-u0767 %%
-DM: "But the River Kharja, just south of where Kharsan was founded, is the place where Dunmar, the country of Dunmar, was founded, when Bhishma—[[when Jeevali wept and cleaned the land and prayed and brought her back to life]]. Our monastery is founded, our head of our order was there at that site, at the very temple that Bhishma herself had built."
+DM: "But the River Kharja, just south of where Kharsan was founded, is the place where Dunmar, the country of Dunmar, was founded, when Bhishma—{{when Jeevali wept and cleaned the land and prayed and brought her back to life}}. Our monastery is founded, our head of our order was there at that site, at the very temple that Bhishma herself had built."
 
 %% u0768-u0776 %%
 DM: "But when the red mist came and many died, it was overrun. And now nightmares linger there. There are few left in our order who are strong enough to return. Thirty years ago, there were many who could venture there and brought knowledge back and forth. But after so many died thirty years ago, there are few left now to make the journey, and even fewer who would risk it, as many of us who maybe once could do it are now old."
@@ -152,7 +152,7 @@ Kenzo: Is that when it was abandoned?
 DM: Well, that's when none have returned, since the breaking of our order, when many—most, almost all of our strongest, all of the most advanced initiates—died.
 
 %% u0793 %%
-Kenzo: Is what he's talking about common knowledge? [[I haven't obviously know about this]], right?
+Kenzo: Is what he's talking about common knowledge? {{I haven't obviously know about this}}, right?
 
 %% u0794 %%
 DM: No, no, not at all common knowledge.
@@ -206,7 +206,7 @@ Kenzo: Say on the map where they think the monastery is.
 DM: Yeah, so it's like ten miles south of Kharsan. It's right here, yeah.
 
 %% u0839 %%
-Kenzo: Miles south, yeah. [[No, we have to go]].
+Kenzo: Miles south, yeah. {{No, we have to go}}.
 
 %% u0840-u0843 %%
 DM: Yeah, it's just south of Kharsan, in this area. Let's see—hello. Something like there.
@@ -251,7 +251,7 @@ DM: But the Charles has dried up, yes. And if you try and sleep there, you have 
 Wellby: And now all these people from L.A. have traveled across the country to steal stuff from there.
 
 %% u0869-u0870 %%
-Seeker: [[I think we're at it. Because of course that's arrives]].
+Seeker: {{I think we're at it. Because of course that's arrives}}.
 
 %% u0871-u0872 %%
 Wellby: Is there anything that makes the place dangerous besides orcs? What should we watch out for?

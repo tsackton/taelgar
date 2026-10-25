@@ -33,7 +33,7 @@
 [u0033 | 00:03:34.500-00:03:36.240 | DM] A mix of applause cackling
 [u0034 | 00:03:36.240-00:03:36.840 | Seeker] Laughter
 [u0035 | 00:03:37.380-00:03:43.920 | DM] And someone choking on a sip of water that went down the wrong way. The woman you met before, who led you to this cavern.
-[u0036 | 00:03:44.850-00:03:57.450 | DM] Telling you to fight, fight in her broken Dwarvish, is standing with five [[for teaching]] people watching you. With surprise, glee and perhaps a bit of terror and constantly glancing over at the dead creature
+[u0036 | 00:03:44.850-00:03:57.450 | DM] Telling you to fight, fight in her broken Dwarvish, is standing with five {{for teaching}} people watching you. With surprise, glee and perhaps a bit of terror and constantly glancing over at the dead creature
 [u0037 | 00:03:59.250-00:04:00.420 | DM] What would you like to do
 [u0038 | 00:04:06.240-00:04:09.750 | Seeker] Good. And I want to investigate the stalagmites, a little bit.
 [u0039 | 00:04:13.050-00:04:13.290 | DM] Okay.
@@ -220,7 +220,7 @@
 [u0220 | 00:15:51.930-00:15:57.330 | DM] Anything like this, but you can tell just from looking at it, it must be clearly something that is native to the
 [u0221 | 00:15:58.350-00:16:18.540 | DM] dark places under the world. It doesn't seem to have eyes or any way of obviously sensing. It does seem like it must be sort of you know you're figuring out, it must be kind of an ambush predator, you do see something sort of white and shiny kind of glinting a little bit
 [u0222 | 00:16:20.070-00:16:22.290 | DM] Like in its body.
-[u0223 | 00:16:24.630-00:16:34.860 | DM] Like just catching off the light of the torch something's reflecting and there's a bit of like sort of hissing sound as it's [[perfect]].
+[u0223 | 00:16:24.630-00:16:34.860 | DM] Like just catching off the light of the torch something's reflecting and there's a bit of like sort of hissing sound as it's {{perfect}}.
 [u0224 | 00:16:35.310-00:16:45.570 | Kenzo] I think, I think the I take the, the staff, the old mage's staff, which I'm still carrying around me and I poke and I can I go and kind of poke over at it.
 [u0225 | 00:16:47.760-00:16:48.960 | DM] Sure, um,
 [u0226 | 00:16:50.010-00:16:51.750 | DM] The staff begins to dissolve.
@@ -474,7 +474,7 @@
 [u0474 | 00:37:55.290-00:37:55.710 | DM] Dad.
 [u0475 | 00:37:58.080-00:37:58.440 | Riswynn] I'm
 [u0476 | 00:37:58.980-00:38:00.420 | Seeker] Just weird us
-[u0477 | 00:38:00.810-00:38:05.940 | Riswynn] Going back to the hobgoblins [[during his can never said anything about like]]
+[u0477 | 00:38:00.810-00:38:05.940 | Riswynn] Going back to the hobgoblins {{during his can never said anything about like}}
 [u0478 | 00:38:08.580-00:38:09.540 | Unknown] Dinner so
 [u0479 | 00:38:12.510-00:38:13.500 | DM] Know,
 [u0480 | 00:38:13.890-00:38:15.600 | DM] That they fled maybe
@@ -818,7 +818,7 @@
 [u0818 | 01:08:10.920-01:08:11.880 | Kenzo] She might like that, pearl.
 [u0819 | 01:08:13.440-01:08:15.690 | Seeker] But the but but I also like the
 [u0820 | 01:08:17.610-01:08:19.320 | Kenzo] We might like what's in the vault even more.
-[u0821 | 01:08:25.980-01:08:34.500 | Unknown] I mean, unless [[it was when there's like some member of their group was going by the dropper and so they know the gripper had to throw in one stone]].
+[u0821 | 01:08:25.980-01:08:34.500 | Unknown] I mean, unless {{it was when there's like some member of their group was going by the dropper and so they know the gripper had to throw in one stone}}.
 [u0822 | 01:08:35.520-01:08:42.090 | Kenzo] It. I mean, we could try showing it to her and see if she she responds and then perhaps barter.
 [u0823 | 01:08:43.560-01:08:50.370 | Seeker] My guess is, regardless of whether she even knew it existed before she would insist that it was hers, and that should, we should give it back to her.
 [u0824 | 01:08:51.150-01:08:52.560 | Kenzo] While she doesn't know that we found it there.
@@ -831,7 +831,7 @@
 [u0831 | 01:09:27.090-01:09:28.770 | Delwath] Or was it more
 [u0832 | 01:09:32.340-01:09:32.580 | Unknown] I don't
 [u0833 | 01:09:36.060-01:09:38.100 | DM] Know there's no I you know that
-[u0834 | 01:09:39.240-01:09:44.010 | Unknown] [[Process thousand she can replace but she wanted to refer guns and she can place]].
+[u0834 | 01:09:39.240-01:09:44.010 | Unknown] {{Process thousand she can replace but she wanted to refer guns and she can place}}.
 [u0835 | 01:09:45.090-01:09:45.420 | Unknown] But
 [u0836 | 01:09:46.710-01:09:50.490 | Riswynn] We don't know we're giving up if we haven't found anything other than the pearl.
 [u0837 | 01:09:51.750-01:09:55.980 | Riswynn] But I don't really care. Unless I'm really wanting it to them.

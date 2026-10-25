@@ -329,7 +329,7 @@ Delwath: Now, I hate to be the voice of reason, but do we really want to bring c
 Seeker: That's just a hypothesis.
 
 %% u0174-u0177 %%
-Delwath: That they turn people to stone? [[These terms here, just something.]]
+Delwath: That they turn people to stone? {{These terms here, just something.}}
 
 %% u0178 %%
 Seeker: You have a point. Oh, and we did see them turning the lion into stone.

@@ -32,7 +32,7 @@ Kenzo: She's a human woman?
 Delwath: How do we know that? How?
 
 %% u0250 %%
-Seeker: [[Many times that]] I wrote it down. It's right here in the notebook.
+Seeker: {{Many times that}} I wrote it down. It's right here in the notebook.
 
 %% u0251 %%
 Delwath: And if it's written down, it must be true.
@@ -80,7 +80,7 @@ Delwath: Well, I remember I asked the voice that spoke to us inside the storm. Y
 Kenzo: And what was the reply?
 
 %% u0276-u0278 %%
-Delwath: I'm trying to find it. It's not easily accessible in Tim's notes. I'm trying to find [[you]].
+Delwath: I'm trying to find it. It's not easily accessible in Tim's notes. I'm trying to find {{you}}.
 
 %% u0279-u0280 %%
 DM: Asked that. You asked it...
@@ -131,13 +131,13 @@ Seeker: Right, right, right. There were those letters.
 Kenzo: Yeah.
 
 %% u0306-u0310 %%
-Seeker: Did we figure out everything in the letters? Perhaps we should puzzle over those a little bit. Who is the Occulta Ludum? [[Noodle on Instagram.]] Just kidding.
+Seeker: Did we figure out everything in the letters? Perhaps we should puzzle over those a little bit. Who is the Occulta Ludum? {{Noodle on Instagram.}} Just kidding.
 
 %% u0311-u0312 %%
 DM: Let's see. I gotta pull up your character sheets.
 
 %% u0313 %%
-Seeker: [[Luna. LUNA Miss players]] comes up like ‘secret players.’
+Seeker: {{Luna. LUNA Miss players}} comes up like ‘secret players.’
 
 %% u0314-u0316 %%
 DM: So, let's see. Anybody who's proficient in History can make a History check if you'd like.
@@ -158,7 +158,7 @@ DM: Yeah, you've not heard of the Occulta Ludum. The name does not ring any bell
 Seeker: And that letter is addressed to Eudomes. No, not addressed to him. That says, ‘Tell Eudomes.’ This is addressed to someone else. An assistant to Eudomes, perhaps? How do you read it?
 
 %% u0326-u0328 %%
-Wellby: [[Every time.]] Someone at the tower. I read it as being from someone in Drankor.
+Wellby: {{Every time.}} Someone at the tower. I read it as being from someone in Drankor.
 
 %% u0329 %%
 Seeker: Right, yeah.
@@ -206,7 +206,7 @@ DM: Ha-ha. That's an interesting question. So you're already reading this in Dra
 DM: And this is not being translated. Your mind is interpreting it as a name, not as words that have meaning. Does anybody actually know Drankorian?
 
 %% u0368 %%
-Kenzo: [[Some other to pick it.]]
+Kenzo: {{Some other to pick it.}}
 
 %% u0369 %%
 DM: Did you...? Wait, do you have a...?
@@ -230,13 +230,13 @@ Unknown: Amazing.
 DM: Do it. Okay, so, Kenzo, make an Intelligence check.
 
 %% u0377 %%
-Seeker: Ah, [[kids, kids]].
+Seeker: Ah, {{kids, kids}}.
 
 %% u0378 %%
 DM: Check with disadvantage because you're exhausted.
 
 %% u0379-u0380 %%
-Seeker: Tired. Oh, that's even worse. [[Here is...]]
+Seeker: Tired. Oh, that's even worse. {{Here is...}}
 
 %% u0381-u0385 %%
 DM: You're very tired. You feel like maybe... You know, these words have... You're trying to remember your Drankorian and what the root forms of words are. Seems something to do with magic, maybe, is the best you can get.
@@ -263,7 +263,7 @@ Delwath: So we should, at some point, I think, head that way.
 Kenzo: I agree.
 
 %% u0400 %%
-Delwath: [[Boom.]] Now, right?
+Delwath: {{Boom.}} Now, right?
 
 %% u0401-u0403 %%
 Seeker: All this talk of up and down the mountains and west to Chardon and south to the desert has got me thinking about the big picture and wondering what is really over there to the east, the place you can go, you can hardly speak of.
@@ -341,16 +341,16 @@ Kenzo: What worked?
 Delwath: Trying to escape. It was not... It was not a... It was an act of will.
 
 %% u0453 %%
-Unknown: You see, [[what have you learned]]?
+Unknown: You see, {{what have you learned}}?
 
 %% u0454 %%
-Seeker: Where did you land, [[what agenda]]?
+Seeker: Where did you land, {{what agenda}}?
 
 %% u0455-u0458 %%
 Delwath: Near... So, Tim, I forget that. Hold on, let me... It was a city called Kharsan. It was on the edge of the—let me look at our little map here—it was on the edge of the Garamjala Desert. Garamjala, Garamjala Desert. No, it's...
 
 %% u0459 %%
-DM: [[Not I'm down there that...]]
+DM: {{Not I'm down there that...}}
 
 %% u0460-u0461 %%
 Delwath: Garamjala. But it was like right... It was like there. Yeah, it's like right here.
@@ -368,7 +368,7 @@ Unknown: Mm hmm.
 Delwath: There are, of course. My last memory of this plane before the Shadow Realm was nowhere near here. I mean, the battle, Tim—I assume the battle I was fighting in would have been...
 
 %% u0470 %%
-DM: [[Another city or homeland]] too far to the north.
+DM: {{Another city or homeland}} too far to the north.
 
 %% u0471 %%
 Delwath: Like way up here somewhere, like way up in the north, you know, in one of those poor desolate places that were surrounded by the army of half a million hobgoblins she must summon from a pocket dimension.
@@ -428,13 +428,13 @@ DM: Well, you did. I mean,
 Kenzo: We stopped it from killing everybody, but we didn't make it go away.
 
 %% u0518-u0520 %%
-DM: We didn't [[clean. Why]], but you were all, like, dead in various ways. Dead or gods, that's true. So, you know, possibly...
+DM: We didn't {{clean. Why}}, but you were all, like, dead in various ways. Dead or gods, that's true. So, you know, possibly...
 
 %% u0521 %%
-Wellby: The gods. [[Barrel]] dead.
+Wellby: The gods. {{Barrel}} dead.
 
 %% u0522-u0523 %%
-DM: That's right. We dropped in the little bits of Sembaran history where [[Barrel]] spends his time.
+DM: That's right. We dropped in the little bits of Sembaran history where {{Barrel}} spends his time.
 
 %% u0524-u0525 %%
 Delwath: That's true. That's true, that's true.
@@ -479,7 +479,7 @@ Kenzo: Let's talk about the mirror. What the fuck does this thing do again?
 Unknown: Wow.
 
 %% u0552-u0554 %%
-Delwath: When I asked it... Hold on a second. [[In]] apparently was bored and made some sort of molten chocolate cake, just brought me a serving.
+Delwath: When I asked it... Hold on a second. {{In}} apparently was bored and made some sort of molten chocolate cake, just brought me a serving.
 
 %% u0555 %%
 Seeker: That's amazing.
@@ -521,13 +521,13 @@ Kenzo: Maybe you can tell us something about Agata Dustmother.
 Seeker: Yeah. Or like, what did I do with my left sock.
 
 %% u0573 %%
-Wellby: [[Which made your keys.]]
+Wellby: {{Which made your keys.}}
 
 %% u0574 %%
-Kenzo: Yeah, [[don't have you're wearing it bigger]]. I would not... You can ask me those types of questions, but...
+Kenzo: Yeah, {{don't have you're wearing it bigger}}. I would not... You can ask me those types of questions, but...
 
 %% u0575 %%
-Seeker: [[Human error]], Kenzo.
+Seeker: {{Human error}}, Kenzo.
 
 %% u0576 %%
 Kenzo: Anything to do with socks, at least, I understand.
@@ -581,7 +581,7 @@ Kenzo: But I wonder, it only showed you images that the mirror itself had seen. 
 Seeker: That's an interesting point.
 
 %% u0603 %%
-Delwath: [[Or Dr. Tao.]]
+Delwath: {{Or Dr. Tao.}}
 
 %% u0604 %%
 Kenzo: Did it only show you images from its vantage point?
@@ -698,13 +698,13 @@ Seeker: We're traveling south right along one of those ley lines, or near it?
 DM: Yeah, it doesn't run directly north-south, so you'd be traveling a little west of that.
 
 %% u0671 %%
-Kenzo: Do you have a ley line map, Tim, like your own [[Lou Adler]]?
+Kenzo: Do you have a ley line map, Tim, like your own {{Lou Adler}}?
 
 %% u0672 %%
 DM: I probably should make one instead of just having a pile of notes.
 
 %% u0673 %%
-Delwath: [[There you're getting something up]] that contradicts with what you've made up...
+Delwath: {{There you're getting something up}} that contradicts with what you've made up...
 
 %% u0674 %%
 DM: Before. Yeah, well, but they also don't run... I mean, they go down into the surface of the earth and they come back up. So it's not like when a ley line runs, it runs straight across the entire place, right?
@@ -743,7 +743,7 @@ Seeker: I look on down into the earth.
 DM: The earth itself is also blurry, but you do notice that your boots are in sharp focus.
 
 %% u0701-u0702 %%
-Seeker: Boots. [[Read about a magical...]]
+Seeker: Boots. {{Read about a magical...}}
 
 %% u0703-u0707 %%
 DM: No, there's nothing weird about your boots, but you notice all the little details. Like, you notice that your left boot has worn slightly more than your right. In the leather and the leather bindings and the metal rivets that you lace them with, there's something that's cracked that you're probably going to want to fix at some point in the next few months before it wears through.
@@ -755,7 +755,7 @@ Kenzo: Think I’m gonna try this on.
 Seeker: Sure. I take them off and...
 
 %% u0712 %%
-Kenzo: Tim, what do I see? Like, look around. [[They've got down]] to look around.
+Kenzo: Tim, what do I see? Like, look around. {{They've got down}} to look around.
 
 %% u0713-u0715 %%
 DM: Same thing. It's sort of this fuzzy purple background, except when you happen to catch the sleeve of your robe or the end of your staff, and then it seems to be hyper-focused.
@@ -791,7 +791,7 @@ DM: So the horn, like the mirror, when you look at the horn you can see these fi
 DM: You can see that the way that the shape of the horn has been carved would amplify the sound. And so the tune that it would produce is, you can sort of imagine, particularly unique based on this design. Sorry, I'm looking something else up while I'm talking about this.
 
 %% u0747-u0749 %%
-DM: Basically, you get this... [[Can it help you know your...]] It lets you pick out fine detail. So, I mean, the basic fact is, if you're wearing the goggles and you make any Intelligence (Arcana) checks to figure something out, you can do so with advantage.
+DM: Basically, you get this... {{Can it help you know your...}} It lets you pick out fine detail. So, I mean, the basic fact is, if you're wearing the goggles and you make any Intelligence (Arcana) checks to figure something out, you can do so with advantage.
 
 %% u0750 %%
 Kenzo: Cool.
@@ -812,7 +812,7 @@ Kenzo: Yeah, are we still all fucking tired and stuff?
 DM: No, you haven't even left yet. You're still... Yeah, we...
 
 %% u0758-u0759 %%
-Seeker: We're, like, wearing weird glasses and staring at the [[back]].
+Seeker: We're, like, wearing weird glasses and staring at the {{back}}.
 
 %% u0760-u0761 %%
 Delwath: Why don't we advance the time quickly so that we get rid of our disadvantage and...

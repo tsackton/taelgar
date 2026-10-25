@@ -21,10 +21,10 @@
 [u0021 | 00:02:04.870-00:02:10.430 | DM] who had been raiding shipping, and more recently the coast of the Vermillion Isles,
 [u0022 | 00:02:10.449-00:02:14.959 | DM] presumably to kidnap more victims for this creature's growing army.
 [u0023 | 00:02:17.130-00:02:24.440 | DM] Now with the aboleth dead at your hand the enslaved minions beginning to come to their senses again.
-[u0024 | 00:02:24.660-00:02:27.949 | DM] [[We survey the scenes of description around you.]]
+[u0024 | 00:02:24.660-00:02:27.949 | DM] {{We survey the scenes of description around you.}}
 [u0025 | 00:02:28.110-00:02:32.170 | DM] And why don't you each describe your characters at this moment?
 [u0026 | 00:02:40.100-00:02:41.540 | DM] Let's go first
-[u0027 | 00:02:42.910-00:02:45.640 | DM] [[two members of the character look like]]
+[u0027 | 00:02:42.910-00:02:45.640 | DM] {{two members of the character look like}}
 [u0028 | 00:02:45.990-00:02:55.780 | Alimash] um. I guess i'll go first. Alimash is a tall middle aged
 [u0029 | 00:02:55.920-00:02:58.050 | Alimash] um human fighter.
 [u0030 | 00:02:58.300-00:03:02.339 | Alimash] His armor is nice. Well made, but
@@ -60,7 +60,7 @@
 [u0060 | 00:05:42.600-00:05:50.830 | Shoal] the heart of the crystalline heart, and also in um checking on the sea elves that he was able to save and free.
 [u0061 | 00:05:50.980-00:05:57.930 | Shoal] So he'd probably be torn about what to do first depending on what was closer. He's a bit of a
 [u0062 | 00:05:58.150-00:06:03.310 | Shoal] little flighty. So whatever grabs his attention,
-[u0063 | 00:06:04.180-00:06:16.720 | Alimash] actually, I just was also possessed briefly at the very end. So he's [[we play at the very end]]. Yeah. Yeah. So he's probably a little dazed as well like kind of shaking back in
+[u0063 | 00:06:04.180-00:06:16.720 | Alimash] actually, I just was also possessed briefly at the very end. So he's {{we play at the very end}}. Yeah. Yeah. So he's probably a little dazed as well like kind of shaking back in
 [u0064 | 00:06:16.850-00:06:23.709 | Alimash] he holds his spear, and he's like he's still has, like, you know, control over himself.
 [u0065 | 00:06:25.710-00:06:26.640 | DM] Uh.
 [u0066 | 00:06:26.670-00:06:29.250 | DM] So there's also,
@@ -112,7 +112,7 @@
 [u0112 | 00:10:21.170-00:10:23.420 | DM] that is a long tale.
 [u0113 | 00:10:24.770-00:10:26.980 | DM] Uh to say,
 [u0114 | 00:10:28.080-00:10:29.900 | DM] Yeah, hold on!
-[u0115 | 00:10:30.150-00:10:36.189 | DM] Does my character? I need to find my notes for a Sec. I [[to]] open them in advance.
+[u0115 | 00:10:30.150-00:10:36.189 | DM] Does my character? I need to find my notes for a Sec. I {{to}} open them in advance.
 [u0116 | 00:10:52.290-00:10:55.259 | DM] Ah! Suffice to say that if you ever
 [u0117 | 00:10:55.920-00:10:57.800 | DM] find yourself
 [u0118 | 00:10:58.850-00:11:01.260 | DM] in the in Ursk,
@@ -175,7 +175,7 @@
 [u0175 | 00:15:17.480-00:15:19.900 | DM] get these people back to
 [u0176 | 00:15:20.220-00:15:24.390 | DM] safety, but then I must flee South as quickly as I can,
 [u0177 | 00:15:25.810-00:15:28.180 | DM] and he scoops up the
-[u0178 | 00:15:28.340-00:15:29.699 | DM] the heart. [[Only me.]]
+[u0178 | 00:15:28.340-00:15:29.699 | DM] the heart. {{Only me.}}
 [u0179 | 00:15:32.880-00:15:42.450 | Wellby] I'll pose that same question to the rest of the people gathered, gesturing towards the big eye prison thing. Just say, what is this?
 [u0180 | 00:15:43.950-00:15:49.749 | DM] The the mage, this sort of bedraggled, looking woman?
 [u0181 | 00:15:50.480-00:15:54.100 | DM] Ah, kind of drifts down, and she says,
@@ -233,7 +233,7 @@
 [u0233 | 00:19:20.550-00:19:25.470 | DM] extremely lucky that you came. What brings you here?
 [u0234 | 00:19:26.130-00:19:32.900 | DM] Such a unusual collection of people? You He looks over it. Shoal, I can understand coming to
 [u0235 | 00:19:34.240-00:19:36.269 | DM] find your people, I guess, but
-[u0236 | 00:19:39.420-00:19:41.180 | DM] [[Center and]]
+[u0236 | 00:19:39.420-00:19:41.180 | DM] {{Center and}}
 [u0237 | 00:19:41.240-00:19:43.770 | DM] a wizard of the of
 [u0238 | 00:19:44.900-00:19:46.480 | DM] a strange group.
 [u0239 | 00:19:46.670-00:19:49.490 | DM] I am fortunate, indeed, that
@@ -426,7 +426,7 @@
 [u0426 | 00:33:47.480-00:33:48.650 | DM] all of the
 [u0427 | 00:33:48.690-00:34:04.410 | DM] after, maybe, you know, climbing out into your boat and starting to sail. Ah, you can see you see, like um, Resenna start to like um rub her hands, and her skin is starting to like dry out and become like scaly and cracked,
 [u0428 | 00:34:04.480-00:34:06.839 | DM] and she she's like Ah,
-[u0429 | 00:34:07.970-00:34:19.870 | DM] um! And you see everybody else who is enslaved by this creature for more than a few seconds is like starting. Her skin is starting to crack. She like [[jeps it]] in the water in the water.
+[u0429 | 00:34:07.970-00:34:19.870 | DM] um! And you see everybody else who is enslaved by this creature for more than a few seconds is like starting. Her skin is starting to crack. She like {{jeps it}} in the water in the water.
 [u0430 | 00:34:20.610-00:34:21.860 | DM] It's nice.
 [u0431 | 00:34:22.790-00:34:24.020 | Unknown] Uh-huh,
 [u0432 | 00:34:25.310-00:34:26.149 | Wellby] Huh!
@@ -539,7 +539,7 @@
 [u0539 | 00:43:44.120-00:43:47.450 | DM] three thousand miles from north to south.
 [u0540 | 00:43:48.080-00:43:53.209 | DM] The weather turns, and you are, you know, you get to the sort of bitter,
 [u0541 | 00:43:53.240-00:43:56.439 | DM] occasional bitter cold nights, as the
-[u0542 | 00:43:56.610-00:44:06.300 | DM] you know. Cold winds come out of the the [[earth]] in this huge expanse of dry polar land to your north.
+[u0542 | 00:43:56.610-00:44:06.300 | DM] you know. Cold winds come out of the the {{earth}} in this huge expanse of dry polar land to your north.
 [u0543 | 00:44:07.120-00:44:12.529 | DM] The days are still sunny, though, and the journey is fairly pleasant as you
 [u0544 | 00:44:12.700-00:44:14.509 | DM] as you pass there's,
 [u0545 | 00:44:14.560-00:44:20.320 | DM] you know, the occasional school of dolphins dancing on your prow.
@@ -781,7 +781,7 @@
 [u0781 | 01:04:49.530-01:04:51.299 | DM] and
 [u0782 | 01:04:51.500-01:04:52.740 | DM] a
 [u0783 | 01:04:54.550-01:04:55.910 | DM] I guess
-[u0784 | 01:04:56.240-01:04:58.269 | DM] you should roll [[on this]].
+[u0784 | 01:04:56.240-01:04:58.269 | DM] you should roll {{on this}}.
 [u0785 | 01:05:06.420-01:05:10.109 | DM] Ah, here, let me let me! I can Um,
 [u0786 | 01:05:10.290-01:05:16.190 | DM] I didn't. I didn't. I was super busy this week. I didn't have a chance to actually make any battle maps, but I can
 [u0787 | 01:05:18.330-01:05:20.619 | DM] just draw something quickly.
@@ -887,7 +887,7 @@
 [u0887 | 01:13:49.520-01:13:52.860 | DM] uh backslash, not forward. Slash!
 [u0888 | 01:13:57.600-01:13:59.299 | Wellby] What's the in the box?
 [u0889 | 01:13:59.370-01:14:01.059 | Wellby] Real poor showing
-[u0890 | 01:14:01.100-01:14:15.739 | DM] you? You. You think you actually think you can. You might be able to figure it out like [[one year lock gets]] It's not a super I mean it is a fairly complicated lock. It's like an elaborate um uh design,
+[u0890 | 01:14:01.100-01:14:15.739 | DM] you? You. You think you actually think you can. You might be able to figure it out like {{one year lock gets}} It's not a super I mean it is a fairly complicated lock. It's like an elaborate um uh design,
 [u0891 | 01:14:16.310-01:14:25.680 | DM] like you know, this is within your capabilities. But at the moment your lockpick is kind of stuck, and you've got to fiddle with it and try again alright, alright, Alimash.
 [u0892 | 01:14:26.040-01:14:27.990 | Alimash] So
 [u0893 | 01:14:28.660-01:14:29.950 | Alimash] um.
@@ -959,7 +959,7 @@
 [u0959 | 01:20:06.830-01:20:09.239 | Shoal] Okay, Can you use your short sword. Yes,
 [u0960 | 01:20:09.690-01:20:13.010 | Alimash] it probably doesn't have like sunglasses or something.
 [u0961 | 01:20:13.090-01:20:28.260 | DM] It is that this is No, no, A little pieces of glass flying away, they dart out of the way of your of your sword just again. It's like every time you're swinging. They kind of not that you can see this because you're blind. They kind of
-[u0962 | 01:20:28.690-01:20:34.659 | Wellby] part out of the way. Uh, I think i'm getting [[the my call out]].
+[u0962 | 01:20:28.690-01:20:34.659 | Wellby] part out of the way. Uh, I think i'm getting {{the my call out}}.
 [u0963 | 01:20:35.270-01:20:36.900 | DM] Ah, yeah, making it a Con save
 [u0964 | 01:20:38.120-01:20:39.480 | DM] still blinds.
 [u0965 | 01:20:39.820-01:20:40.740 | Unknown] Thanks.
@@ -978,7 +978,7 @@
 [u0978 | 01:21:39.960-01:21:42.099 | DM] can I move?
 [u0979 | 01:21:42.920-01:21:44.520 | DM] Yeah, yeah, you can move.
 [u0980 | 01:21:45.550-01:21:47.940 | Alimash] So i'm going to
-[u0981 | 01:21:48.790-01:21:51.330 | Alimash] [[a goods shield. Master Kind of]]
+[u0981 | 01:21:48.790-01:21:51.330 | Alimash] {{a goods shield. Master Kind of}}
 [u0982 | 01:21:52.730-01:21:56.759 | DM] Okay, make a wisdom saving throw.
 [u0983 | 01:22:01.600-01:22:08.320 | DM] Okay. You as you try and leave a leave from this swarm like the reflections in this mirror are
 [u0984 | 01:22:08.340-01:22:09.370 | DM] are
@@ -1013,7 +1013,7 @@
 [u1013 | 01:24:36.850-01:24:43.130 | Shoal] I can. Of course i'm going to force it to attack its buddy instead of Wellby for that attack.
 [u1014 | 01:24:44.060-01:24:45.780 | DM] I've got. Okay,
 [u1015 | 01:24:46.290-01:25:00.270 | DM] Tim, we can see your rolls, which may be fine, but just that that's fine. But that was a 1d20 underscore six. So i'm rolling that one again. So this is the cloud the Cloud Rune. So what does it have to make?
-[u1016 | 01:25:00.280-01:25:14.610 | Shoal] Uh, it just says, when you see a creature within thirty feet is hit or sorry when you or a creature, you see, within thirty feet is hit by an attack roll. You can use the reaction to choose a different creature other than the attacker within [[even]] it becomes the target same roll.
+[u1016 | 01:25:00.280-01:25:14.610 | Shoal] Uh, it just says, when you see a creature within thirty feet is hit or sorry when you or a creature, you see, within thirty feet is hit by an attack roll. You can use the reaction to choose a different creature other than the attacker within {{even}} it becomes the target same roll.
 [u1017 | 01:25:15.590-01:25:18.399 | DM] Okay. So uh
 [u1018 | 01:25:18.720-01:25:30.560 | DM] you, you just redirect this swirling um mass of of blades that then crash into its its ally instead of Wellby um
 [u1019 | 01:25:31.570-01:25:32.610 | DM] ah
@@ -1087,7 +1087,7 @@
 [u1087 | 01:32:03.820-01:32:06.609 | DM] which means you can't get sneak attack
 [u1088 | 01:32:06.800-01:32:08.010 | DM] still. hit.
 [u1089 | 01:32:09.110-01:32:10.349 | DM] Ah,
-[u1090 | 01:32:10.770-01:32:14.759 | DM] but because it is disadvantaged, you don't do sneak, attack [[to him and John Aven]].
+[u1090 | 01:32:10.770-01:32:14.759 | DM] but because it is disadvantaged, you don't do sneak, attack {{to him and John Aven}}.
 [u1091 | 01:32:15.900-01:32:17.459 | Wellby] So just five then.
 [u1092 | 01:32:17.530-01:32:18.380 | DM] Yeah,
 [u1093 | 01:32:19.110-01:32:20.500 | DM] Alimash,
@@ -1110,7 +1110,7 @@
 [u1110 | 01:34:42.440-01:34:43.429 | Alimash] Yeah, yeah,
 [u1111 | 01:34:45.280-01:34:47.750 | DM] sure, like.
 [u1112 | 01:34:49.440-01:34:50.769 | DM] So
-[u1113 | 01:34:50.810-01:34:59.959 | Wellby] Ah, there wasn't a separate divinity school until one thousand eight hundred and sixteen before that it was just Harvard College, and you go through the college and get that [[debate]].
+[u1113 | 01:34:50.810-01:34:59.959 | Wellby] Ah, there wasn't a separate divinity school until one thousand eight hundred and sixteen before that it was just Harvard College, and you go through the college and get that {{debate}}.
 [u1114 | 01:35:05.340-01:35:09.319 | DM] So the door to the tower swings open
 [u1115 | 01:35:10.030-01:35:12.019 | DM] as Wellby unlocks it,
 [u1116 | 01:35:12.110-01:35:17.369 | DM] and the the entry way. The first floor is I mean it's a fairly grand.
@@ -1133,7 +1133,7 @@
 [u1133 | 01:37:03.670-01:37:04.889 | Shoal] I mean
 [u1134 | 01:37:06.100-01:37:08.760 | Shoal] doesn't sound like anything's coming right now.
 [u1135 | 01:37:09.150-01:37:14.439 | Wellby] I think we should rest and just go in fresh.
-[u1136 | 01:37:15.500-01:37:19.170 | Alimash] Alimash takes off [[office]] and enjoys
+[u1136 | 01:37:15.500-01:37:19.170 | Alimash] Alimash takes off {{office}} and enjoys
 [u1137 | 01:37:19.420-01:37:23.889 | Shoal] a refreshing breeze.
 [u1138 | 01:37:27.420-01:37:30.400 | Alimash] So how do we determine our Hp.
 [u1139 | 01:37:31.350-01:37:37.789 | DM] For a short rest. Do we roll a hit die so you can roll hit dice. Yeah,
@@ -1169,7 +1169,7 @@
 [u1169 | 01:39:56.340-01:39:59.449 | DM] the entry way and see what I just described.
 [u1170 | 01:40:04.660-01:40:06.389 | DM] So where do you want to go?
 [u1171 | 01:40:10.520-01:40:21.120 | Alimash] I imagine Alimash is like walking in like shield, and like the spear, like you know, like a methodical defensive. Um!
-[u1172 | 01:40:21.470-01:40:37.880 | Alimash] I imagine he kind of moves like a um like line backers do where it's like big, but like really surprisingly graceful footwork, like like like very technically efficient movement, the the medieval clone of clearing a room like you see, like a [[or something]]
+[u1172 | 01:40:21.470-01:40:37.880 | Alimash] I imagine he kind of moves like a um like line backers do where it's like big, but like really surprisingly graceful footwork, like like like very technically efficient movement, the the medieval clone of clearing a room like you see, like a {{or something}}
 [u1173 | 01:40:38.480-01:40:48.470 | Shoal] I would like to take a look around for any signs of mirror-like substances on the floor or on the walls;
 [u1174 | 01:40:48.490-01:40:57.339 | Shoal] or if if the chandelier is made out of mirrors instead of crystal pieces, I want to know that i'm just like
 [u1175 | 01:40:57.440-01:40:59.310 | Shoal] i'm cautious now.
@@ -1235,7 +1235,7 @@
 [u1235 | 01:46:10.210-01:46:12.720 | Shoal] Oh, it doesn't want me to.
 [u1236 | 01:46:14.630-01:46:20.509 | Shoal] No, man. I'm, i'm not into this, and I just like Push the puddle across the floor and smear it out.
 [u1237 | 01:46:21.140-01:46:30.809 | Wellby] It vanishes.
-[u1238 | 01:46:30.930-01:46:42.940 | Shoal] It's like [[Mickey]].
+[u1238 | 01:46:30.930-01:46:42.940 | Shoal] It's like {{Mickey}}.
 [u1239 | 01:46:47.140-01:46:48.510 | Shoal] Um!
 [u1240 | 01:46:49.380-01:46:50.639 | Shoal] I
 [u1241 | 01:46:50.980-01:46:53.439 | Shoal] I take a look at my glaive
@@ -1346,7 +1346,7 @@
 [u1346 | 01:55:30.680-01:55:35.140 | Wellby] So there's some aspect of ourself in these reflections,
 [u1347 | 01:55:36.170-01:55:37.240 | Alimash] Mhm
 [u1348 | 01:55:38.040-01:55:40.449 | Alimash] or at least the self we project
-[u1349 | 01:55:40.510-01:55:50.030 | Shoal] just as a quick aside. I'm curious whether the webcam will do that old school trick with the with video. If I turn it on itself, does it do [[the Internet]]
+[u1349 | 01:55:40.510-01:55:50.030 | Shoal] just as a quick aside. I'm curious whether the webcam will do that old school trick with the with video. If I turn it on itself, does it do {{the Internet}}
 [u1350 | 01:55:50.040-01:56:00.619 | Shoal] Yeah, Not quite. I tried to turn off my background. But it I think Jen has got it program to
 [u1351 | 01:56:00.640-01:56:04.090 | DM] let me. I got it. Well, now, hold on!
 [u1352 | 01:56:05.470-01:56:08.379 | DM] Ah, how do I?
@@ -1435,7 +1435,7 @@
 [u1435 | 02:03:48.520-02:03:53.699 | DM] There's a small table with a chair that's been recently knocked over.
 [u1436 | 02:03:54.460-02:04:01.409 | DM] There's a and then there's a like what looks like the servants quarters like a bed chamber in the door to that.
 [u1437 | 02:04:01.440-02:04:02.450 | DM] Why, you
-[u1438 | 02:04:02.530-02:04:19.509 | DM] You just know from the [[sign of description]] that there's bed chambers, the door there is shut, and then across the way. There's stairs that continue up um. The The sort of kitchen hearth area is a scene of like complete disarray. There's um
+[u1438 | 02:04:02.530-02:04:19.509 | DM] You just know from the {{sign of description}} that there's bed chambers, the door there is shut, and then across the way. There's stairs that continue up um. The The sort of kitchen hearth area is a scene of like complete disarray. There's um
 [u1439 | 02:04:20.320-02:04:21.160 | DM] that
 [u1440 | 02:04:21.620-02:04:30.980 | DM] there's actually very little in what in the sort of what you would think of as like normal kitchens right There's There's food there's, you know. There's uh
 [u1441 | 02:04:31.490-02:04:36.330 | DM] a barrel of fat. There's like barrels of flour and and
@@ -1476,7 +1476,7 @@
 [u1476 | 02:07:52.850-02:07:53.849 | Unknown] that
 [u1477 | 02:07:54.930-02:07:57.550 | DM] what? Yeah,
 [u1478 | 02:08:00.020-02:08:02.879 | DM] go ahead and and roll Intimidation
-[u1479 | 02:08:04.880-02:08:08.090 | DM] [[restorations]]. It wasn't bad uh it.
+[u1479 | 02:08:04.880-02:08:08.090 | DM] {{restorations}}. It wasn't bad uh it.
 [u1480 | 02:08:10.430-02:08:12.850 | DM] Keep Keep him away.
 [u1481 | 02:08:14.750-02:08:26.719 | Wellby] I loudly stomp walking away so he knows i'm not at the door. Get out of here, water, man! Don't be mean like that?
 [u1482 | 02:08:27.740-02:08:33.989 | DM] Um the door like slowly creaks open, and you see this um
@@ -1488,7 +1488,7 @@
 [u1488 | 02:08:58.910-02:09:08.140 | DM] sort of brown brownish dark brown hair, but it's like just completely wild. It's got like a bushy beard that's out of control um,
 [u1489 | 02:09:08.760-02:09:13.159 | DM] and kind of wide-eyed and and
 [u1490 | 02:09:14.170-02:09:15.110 | DM] uh,
-[u1491 | 02:09:16.220-02:09:32.060 | DM] exhausted, looking like bags under his eyes. Um peeks out from the door. Um sees, sees you, and and and immediately like points at the shiniest object which is Shoal's [[scholarship]] is like.
+[u1491 | 02:09:16.220-02:09:32.060 | DM] exhausted, looking like bags under his eyes. Um peeks out from the door. Um sees, sees you, and and and immediately like points at the shiniest object which is Shoal's {{scholarship}} is like.
 [u1492 | 02:09:32.970-02:09:35.629 | DM] Get it out! Get it out!
 [u1493 | 02:09:38.500-02:09:42.950 | Shoal] I mean It's fine man, and I like. Hold it up to my face, and nothing happens.
 [u1494 | 02:09:46.820-02:09:49.350 | DM] What are you? What are you doing here?
@@ -1583,7 +1583,7 @@
 [u1583 | 02:16:49.570-02:16:50.400 | DM] It's it.
 [u1584 | 02:16:50.719-02:16:52.339 | DM] Is it safe,
 [u1585 | 02:16:52.430-02:16:53.719 | DM] you sure
-[u1586 | 02:16:54.600-02:16:57.140 | Alimash] [[safer than it really is a swim]]?
+[u1586 | 02:16:54.600-02:16:57.140 | Alimash] {{safer than it really is a swim}}?
 [u1587 | 02:17:00.180-02:17:09.529 | Wellby] I I mean Yes, we think it's safe. But it it I don't know if you may want to wait here till we are back on our way out again,
 [u1588 | 02:17:10.639-02:17:14.790 | Shoal] and I mean we didn't check the ocean.
 [u1589 | 02:17:15.260-02:17:18.799 | Shoal] It It has a reflection, is it only this house
@@ -1608,7 +1608,7 @@
 [u1608 | 02:18:41.860-02:18:44.680 | DM] Um some ritual. I
 [u1609 | 02:18:45.180-02:18:47.610 | DM] prepared chalk and
 [u1610 | 02:18:47.750-02:18:49.670 | DM] powdered silver, and
-[u1611 | 02:18:50.530-02:18:52.199 | DM] [[why]], and then
+[u1611 | 02:18:50.530-02:18:52.199 | DM] {{why}}, and then
 [u1612 | 02:18:56.190-02:18:57.479 | DM] took 'em up
 [u1613 | 02:18:58.270-02:19:00.049 | DM] something,
 [u1614 | 02:19:00.190-02:19:02.359 | DM] some magic he was doing.
@@ -1765,7 +1765,7 @@
 [u1765 | 02:30:12.640-02:30:15.430 | DM] like, I said. The out. The inside is
 [u1766 | 02:30:16.040-02:30:32.890 | DM] especially the first one is quite elegant, but it's a very plain stone tower from the outside. It's not like, you know, smooth marble, or anything. It's like rough stone blocks like it's like a castle tower. It certainly is climbable. Yeah,
 [u1767 | 02:30:33.260-02:30:39.580 | Shoal] and with a rope is especially
-[u1768 | 02:30:39.660-02:30:43.050 | Alimash] [[to a plus eight]].
+[u1768 | 02:30:39.660-02:30:43.050 | Alimash] {{to a plus eight}}.
 [u1769 | 02:30:46.160-02:30:51.539 | Wellby] All right, well let's go out. I'll activate the wings, flap to the top and drop a rope down.
 [u1770 | 02:30:52.860-02:30:56.829 | DM] Okay, uh both of you make athletics checks with advantage.
 [u1771 | 02:31:07.110-02:31:13.029 | DM] Yeah, no, No problem, either. One of you.
@@ -1803,7 +1803,7 @@
 [u1803 | 02:33:40.880-02:33:45.620 | Shoal] I don't think I actually give myself any potions, so i'm going to assume I don't have one of those, but
 [u1804 | 02:33:45.900-02:33:48.200 | Alimash] I can. I can open it.
 [u1805 | 02:33:50.420-02:33:51.340 | Alimash] I
-[u1806 | 02:33:52.440-02:33:58.550 | Alimash] move over okay, with defensive crouch, [[foot by sealed]], and I slowly,
+[u1806 | 02:33:52.440-02:33:58.550 | Alimash] move over okay, with defensive crouch, {{foot by sealed}}, and I slowly,
 [u1807 | 02:33:59.330-02:34:02.839 | Alimash] quietly, delicately, open up the door.
 [u1808 | 02:34:06.110-02:34:07.589 | DM] It's heavy.
 [u1809 | 02:34:08.050-02:34:11.739 | DM] It takes like most of your strength to lift it up.
@@ -1887,7 +1887,7 @@
 [u1887 | 02:41:15.420-02:41:19.299 | Alimash] I I assume there's bugs and mice and rats.
 [u1888 | 02:41:22.370-02:41:28.999 | DM] Yeah, I mean, there's there's plenty of yeah, there's plenty of life on this island. It's a fairly,
 [u1889 | 02:41:29.070-02:41:33.380 | DM] but there could be some rats scurrying around like
-[u1890 | 02:41:35.630-02:41:46.780 | Alimash] it would be. Uh, wait, wait, wait! When you warg into an animal? Do you have some sense of that animal like it's memories. It's past it's [[colleges]],
+[u1890 | 02:41:35.630-02:41:46.780 | Alimash] it would be. Uh, wait, wait, wait! When you warg into an animal? Do you have some sense of that animal like it's memories. It's past it's {{colleges}},
 [u1891 | 02:41:47.510-02:41:49.850 | Alimash] or is it a tabula rasa for you?
 [u1892 | 02:41:50.080-02:41:51.619 | Wellby] Uh!
 [u1893 | 02:41:52.070-02:42:04.790 | Wellby] I can talk with it to ask for those things, but I don't have access to its knowledge. I only see through its sight and other senses.
@@ -1917,7 +1917,7 @@
 [u1917 | 02:44:03.340-02:44:10.369 | DM] and it's a fairly curious creature. It's perfectly happy to do this. You don't have to all as long as you give it.
 [u1918 | 02:44:10.440-02:44:12.280 | DM] You know some nice food.
 [u1919 | 02:44:12.610-02:44:17.740 | Wellby] We're only the fanciest of fish, but it's only the fancy fish for this right here.
-[u1920 | 02:44:19.010-02:44:23.579 | Wellby] Uh yeah, Okay. So i'll fly the [[track]] back up to the top of the tower,
+[u1920 | 02:44:19.010-02:44:23.579 | Wellby] Uh yeah, Okay. So i'll fly the {{track}} back up to the top of the tower,
 [u1921 | 02:44:23.730-02:44:29.019 | Wellby] I think, but I still think we should tie a little rope around this
 [u1922 | 02:44:29.650-02:44:35.789 | Wellby] in case we got to pull. You know the extraction and and send it in, and i'll Beast Sense into it.
 [u1923 | 02:44:36.030-02:44:40.689 | Wellby] Um the duration's an hour. So I think we've got plenty of time to
@@ -1984,7 +1984,7 @@
 [u1984 | 02:50:11.070-02:50:20.480 | Wellby] All right, team. I think we do a couple of things We could try and have this raccoon read, or I could try and read the notes through the raccoon's eyes to see if that's useful,
 [u1985 | 02:50:20.680-02:50:25.250 | Wellby] we could have it try and like, knock over all the mirrors in the room
 [u1986 | 02:50:25.520-02:50:29.700 | Wellby] um to kind of clear a path. If we were going to come up from below,
-[u1987 | 02:50:30.000-02:50:40.719 | Wellby] or we could try dipping the raccoon, we could haul it back up by the rope and try lowering it down into the pool to see what we could see on the other side of that. [[What possibly would I]]?
+[u1987 | 02:50:30.000-02:50:40.719 | Wellby] or we could try dipping the raccoon, we could haul it back up by the rope and try lowering it down into the pool to see what we could see on the other side of that. {{What possibly would I}}?
 [u1988 | 02:50:41.470-02:50:44.240 | Alimash] But it's just a raccoon?
 [u1989 | 02:50:45.560-02:50:47.500 | Wellby] It is a raccoon who is
 [u1990 | 02:50:47.690-02:50:56.920 | Wellby] given its life into my hands. I can't. I can't. wouldn't send it to its death? We could lower you into the pool,
@@ -2142,7 +2142,7 @@
 [u2142 | 03:03:42.820-03:03:43.670 | Wellby] No,
 [u2143 | 03:03:45.200-03:03:47.600 | DM] and the raccoon keeps running down
 [u2144 | 03:03:48.590-03:03:56.129 | DM] the second floor completely empty. No people, no reflections, nobody.
-[u2145 | 03:03:57.060-03:04:01.609 | Wellby] [[It's a success from the steward on, presumably]],
+[u2145 | 03:03:57.060-03:04:01.609 | Wellby] {{It's a success from the steward on, presumably}},
 [u2146 | 03:04:02.670-03:04:05.159 | DM] and then the raccoon runs out
 [u2147 | 03:04:05.900-03:04:08.550 | DM] into this like
 [u2148 | 03:04:09.130-03:04:10.910 | DM] like
@@ -2180,7 +2180,7 @@
 [u2180 | 03:06:36.820-03:06:38.870 | DM] No, not attached to a rope.
 [u2181 | 03:06:39.150-03:06:40.880 | Wellby] Are any of the windows open?
 [u2182 | 03:06:44.320-03:06:47.780 | DM] Uh, there's no windows in the top floor.
-[u2183 | 03:06:49.780-03:06:56.359 | Wellby] Well, it's a raccoon [[that will Let's drop the remains]]. I will just tell it like, Grab the rope. We'll haul you out.
+[u2183 | 03:06:49.780-03:06:56.359 | Wellby] Well, it's a raccoon {{that will Let's drop the remains}}. I will just tell it like, Grab the rope. We'll haul you out.
 [u2184 | 03:06:56.440-03:07:04.729 | DM] Oh, yeah, yeah, the rope is right. The rope is still there. It was just gnawed off at the very end. Yeah. So yes, it grabs the rope and you haul it out.
 [u2185 | 03:07:06.720-03:07:09.450 | Alimash] Hmm. How many wizards were there?
 [u2186 | 03:07:10.700-03:07:14.299 | Wellby] Two wizards, a raccoon saw two wizards.
@@ -2208,7 +2208,7 @@
 [u2208 | 03:09:13.140-03:09:23.719 | Wellby] and I can only Beast Sense once today. Uh I mean, we can come back tomorrow. But yeah, we could just sleep on this roof for a week while we raccoon a million.
 [u2209 | 03:09:26.160-03:09:30.309 | Wellby] I think the word's going to get around to the other raccoons.
 [u2210 | 03:09:30.610-03:09:31.619 | DM] Yeah,
-[u2211 | 03:09:31.690-03:09:35.200 | Alimash] Well, you just [[for the same recruit]] every time. If I had a good time.
+[u2211 | 03:09:31.690-03:09:35.200 | Alimash] Well, you just {{for the same recruit}} every time. If I had a good time.
 [u2212 | 03:09:36.130-03:09:38.369 | Alimash] Um, do we?
 [u2213 | 03:09:40.010-03:09:41.879 | Alimash] So we don't know if we need.
 [u2214 | 03:09:42.530-03:09:44.590 | Alimash] There's two things going on.
@@ -2258,7 +2258,7 @@
 [u2258 | 03:14:02.370-03:14:07.749 | Wellby] and you have to kill it in the mirror realm in order to get back to that again. Or
 [u2259 | 03:14:07.850-03:14:19.009 | Alimash] imagine this. The Wizard wants to enter the mirror, a reflection of the Wizard is created, and that reflection has the exact same motivation which is, get into the mirror
 [u2260 | 03:14:22.380-03:14:23.949 | Alimash] right like.
-[u2261 | 03:14:24.900-03:14:31.170 | Alimash] I hope this isn't like a recursive problem. It was just more and more of him jumping in there, because each one wants to [[me around]], but like
+[u2261 | 03:14:24.900-03:14:31.170 | Alimash] I hope this isn't like a recursive problem. It was just more and more of him jumping in there, because each one wants to {{me around}}, but like
 [u2262 | 03:14:31.400-03:14:37.300 | DM] it's these mirror— with the raccoon. You did observe there was only ever
 [u2263 | 03:14:38.700-03:14:49.169 | DM] there was only ever one mirror image of the raccoon at a time. Okay, it was never like three or four or ten or a million right? There was only ever one at a time.
 [u2264 | 03:14:50.620-03:14:51.550 | Unknown] Hmm.
@@ -2298,7 +2298,7 @@
 [u2298 | 03:17:36.640-03:17:40.479 | Shoal] If we can't get them out we can't get them out.
 [u2299 | 03:17:40.740-03:17:42.940 | Shoal] We know where he is. He's fine.
 [u2300 | 03:17:44.320-03:17:48.279 | Shoal] We can make some more mirrors with the right resources, and
-[u2301 | 03:17:48.340-03:17:50.239 | Wellby] well, [[let's take a pool]],
+[u2301 | 03:17:48.340-03:17:50.239 | Wellby] well, {{let's take a pool}},
 [u2302 | 03:17:50.730-03:17:52.720 | Alimash] and we can have his notes.
 [u2303 | 03:17:52.800-03:17:55.400 | Alimash] We'll more easily be able to go down and get the notes.
 [u2304 | 03:17:55.940-03:17:57.000 | Shoal] Yeah,
@@ -2331,7 +2331,7 @@
 [u2331 | 03:20:18.660-03:20:29.720 | Shoal] we smash them, We smash them, and we and we cover the floor with with with tablecloths.
 [u2332 | 03:20:29.790-03:20:31.790 | Wellby] You don't have to.
 [u2333 | 03:20:32.060-03:20:43.380 | DM] Uh you. Could you could like, if you cut up the tapestry or something that's doable. We can drape things and bed linens. And yeah,
-[u2334 | 03:20:44.170-03:20:49.489 | Alimash] I like that idea. The worst is just getting up there, but we can just have [[like time to the open]]
+[u2334 | 03:20:44.170-03:20:49.489 | Alimash] I like that idea. The worst is just getting up there, but we can just have {{like time to the open}}
 [u2335 | 03:20:49.710-03:20:50.760 | Alimash] pull up.
 [u2336 | 03:20:53.260-03:20:54.180 | Unknown] Yeah.
 [u2337 | 03:20:54.510-03:20:59.360 | Alimash] So actually, it's fast as Wellby can just fly down there, gather them, and then we can
@@ -2340,7 +2340,7 @@
 [u2340 | 03:21:03.960-03:21:08.630 | Shoal] and we while he's doing that. We can be throwing them down in front of the mirrors that we wanna
 [u2341 | 03:21:10.380-03:21:15.289 | Alimash] like. Oh, yeah, I have a like prepared to like we can. That's a good point. Okay, yeah,
 [u2342 | 03:21:16.390-03:21:18.269 | Alimash] Can we? Um, just
-[u2343 | 03:21:18.310-03:21:21.079 | Alimash] [[magic, Rah]]: all of those actions.
+[u2343 | 03:21:18.310-03:21:21.079 | Alimash] {{magic, Rah}}: all of those actions.
 [u2344 | 03:21:21.360-03:21:31.329 | DM] Yes, yeah, yeah, that's a that that should definitely work. Um. There is plenty of linen to be gathered. If you spend ten minutes gathering.
 [u2345 | 03:21:32.190-03:21:35.870 | DM] Gyles was happy to give you his his like
 [u2346 | 03:21:36.150-03:21:42.060 | DM] bed, linens, and stuff. Given your plans. So you don't even have to venture into the
@@ -2389,7 +2389,7 @@
 [u2389 | 03:24:41.670-03:24:44.199 | Shoal] shouldn't disturb those if we can wait, It
 [u2390 | 03:24:45.890-03:24:47.130 | Alimash] agreed.
 [u2391 | 03:24:48.690-03:24:52.939 | Alimash] I would also suggest, like really should brought this; but, like
-[u2392 | 03:24:53.380-03:25:08.469 | Alimash] one of us should smear the paint over these. [[I am not a breeze, a fight, a battle]], and these cloths fall off so like can we like, secure them with rope, or put the lard one at a time like, really fast.
+[u2392 | 03:24:53.380-03:25:08.469 | Alimash] one of us should smear the paint over these. {{I am not a breeze, a fight, a battle}}, and these cloths fall off so like can we like, secure them with rope, or put the lard one at a time like, really fast.
 [u2393 | 03:25:08.480-03:25:13.550 | Wellby] Yeah, or just reach underneath and start covering it that way. Yeah,
 [u2394 | 03:25:14.050-03:25:17.769 | DM] yeah, Once you've got the cloths hanging. It's not that hard to,
 [u2395 | 03:25:18.770-03:25:29.299 | DM] you know. Go, do it slowly, one by one, like Smear sooty lard over each one, just just like reaching underneath the cloth. So we're
@@ -2569,7 +2569,7 @@
 [u2569 | 03:40:44.060-03:40:45.820 | Wellby] Wear this guy down a little bit
 [u2570 | 03:40:47.980-03:40:49.130 | DM] right? Yeah,
 [u2571 | 03:40:50.470-03:40:55.479 | Wellby] all right, well take steady aim and attack them. Here we go,
-[u2572 | 03:40:57.960-03:40:59.350 | DM] [[Barrett]].
+[u2572 | 03:40:57.960-03:40:59.350 | DM] {{Barrett}}.
 [u2573 | 03:40:59.990-03:41:01.890 | DM] The arrow strikes,
 [u2574 | 03:41:02.040-03:41:03.839 | DM] Alimash
 [u2575 | 03:41:04.010-03:41:07.039 | DM] mirror, Alimash, piercing through his armor,
@@ -2580,7 +2580,7 @@
 [u2580 | 03:41:28.120-03:41:35.230 | DM] cool. Right? Okay. So Alimash in the mirror realm real, Alimash sees
 [u2581 | 03:41:35.880-03:41:37.900 | DM] the Wizard, who just said,
 [u2582 | 03:41:38.480-03:41:40.480 | DM] Who are you? This can't be good.
-[u2583 | 03:41:41.450-03:41:42.810 | Alimash] [[I'm, I shouldn't]].
+[u2583 | 03:41:41.450-03:41:42.810 | Alimash] {{I'm, I shouldn't}}.
 [u2584 | 03:41:43.070-03:41:44.749 | Alimash] We have to save you
 [u2585 | 03:41:45.970-03:41:47.640 | Alimash] what the other You
 [u2586 | 03:41:48.950-03:41:51.949 | DM] save me from what
@@ -2604,7 +2604,7 @@
 [u2604 | 03:43:15.170-03:43:17.510 | DM] where did? Where did you come from?
 [u2605 | 03:43:18.800-03:43:20.419 | Alimash] The real realm?
 [u2606 | 03:43:21.150-03:43:30.470 | DM] Something is clearly wrong, and at that moment Alimash. One, two, three, four, but charges Forward,
-[u2607 | 03:43:33.350-03:43:41.210 | Alimash] Hey! [[Overch]], hey? So if i'm this Alimash, I will enraged,
+[u2607 | 03:43:33.350-03:43:41.210 | Alimash] Hey! {{Overch}}, hey? So if i'm this Alimash, I will enraged,
 [u2608 | 03:43:41.630-03:43:45.290 | Alimash] pissed off do disarming attack.
 [u2609 | 03:43:45.990-03:43:53.300 | Alimash] So the weapon expand one die, add it to the damage. Disarm. Okay, make your attack.
 [u2610 | 03:43:56.580-03:43:58.909 | DM] Yeah, that's a hit that that hits.
@@ -2630,7 +2630,7 @@
 [u2630 | 03:45:58.160-03:46:03.020 | DM] Wisdom save. Yeah. Whenever you got lucky and indomitable.
 [u2631 | 03:46:03.770-03:46:06.280 | Alimash] So I will. Yeah, I will use
 [u2632 | 03:46:06.840-03:46:09.909 | Alimash] indomitable this time, right? That the
-[u2633 | 03:46:10.040-03:46:17.749 | Alimash] Yeah. So you can roll it again. But you can use lucky to roll it again with advantage. Oh, yeah, i'll [[keep an on on You's lucky]].
+[u2633 | 03:46:10.040-03:46:17.749 | Alimash] Yeah. So you can roll it again. But you can use lucky to roll it again with advantage. Oh, yeah, i'll {{keep an on on You's lucky}}.
 [u2634 | 03:46:18.130-03:46:20.290 | Alimash] So I roll again with wisdom.
 [u2635 | 03:46:23.220-03:46:24.500 | Shoal] Success?
 [u2636 | 03:46:24.880-03:46:27.139 | Shoal] Well, he's not going to be charmed.
@@ -2669,7 +2669,7 @@
 [u2669 | 03:49:54.420-03:49:59.329 | Wellby] I feel like at a certain point we have to just like restrain him right.
 [u2670 | 03:50:02.930-03:50:05.009 | Wellby] Ah, Shoal! Do you think?
 [u2671 | 03:50:05.610-03:50:06.869 | Shoal] Um,
-[u2672 | 03:50:07.490-03:50:17.350 | Shoal] Maybe I've I've done my one thing that I could try to do to not just [[keep my big]]. You can always grapple him.
+[u2672 | 03:50:07.490-03:50:17.350 | Shoal] Maybe I've I've done my one thing that I could try to do to not just {{keep my big}}. You can always grapple him.
 [u2673 | 03:50:20.670-03:50:22.270 | Wellby] Uh
 [u2674 | 03:50:22.750-03:50:34.209 | Wellby] I mean I could grapple him, too. Why, don't you take one more turn hitting them, and i'll grapple them next? It sounds good. I'll take Steady Aim and shoot.
 [u2675 | 03:50:36.860-03:50:38.650 | DM] Ah, yep, that hits
@@ -2830,7 +2830,7 @@
 [u2830 | 04:04:24.330-04:04:26.320 | DM] So I get a roll again. Yeah,
 [u2831 | 04:04:28.000-04:04:34.189 | DM] I'm going to make you roll. I'm going to make you roll again with Runic shield. Okay? Well, once more
 [u2832 | 04:04:36.570-04:04:46.709 | DM] that is failed to work in two separate uses. So that's eleven points of damage,
-[u2833 | 04:04:46.890-04:04:51.869 | Alimash] and I just imagine he just like just everything he got [[with resisted arm]], and he's just
+[u2833 | 04:04:46.890-04:04:51.869 | Alimash] and I just imagine he just like just everything he got {{with resisted arm}}, and he's just
 [u2834 | 04:04:52.450-04:04:58.999 | DM] sees the person that's hurt him is just, and now Shoal's up as the Wizard is beginning to form.
 [u2835 | 04:05:00.380-04:05:08.180 | Shoal] Yeah, I'm just gonna triple attack the restrained guy. Do I have advantage on them? You have advantage? Yep, All right. So it's gonna be
 [u2836 | 04:05:12.420-04:05:21.050 | DM] bonus action. The first one hits second. One misses bonus action hits and that's
@@ -2849,7 +2849,7 @@
 [u2849 | 04:06:23.280-04:06:24.940 | DM] that was a mistake.
 [u2850 | 04:06:25.320-04:06:26.690 | DM] Thank you.
 [u2851 | 04:06:27.180-04:06:30.499 | DM] I owe you much. It seems.
-[u2852 | 04:06:33.530-04:06:39.660 | Alimash] Yes, you do. [[That's like like reform. You]]
+[u2852 | 04:06:33.530-04:06:39.660 | Alimash] Yes, you do. {{That's like like reform. You}}
 [u2853 | 04:06:39.900-04:06:41.000 | Wellby] yes,
 [u2854 | 04:06:41.630-04:06:45.839 | Wellby] Wellby's taking the excess blood off of him.
 [u2855 | 04:06:46.390-04:06:47.260 | DM] What
@@ -2883,7 +2883,7 @@
 [u2883 | 04:09:17.380-04:09:18.280 | Unknown] Hmm
 [u2884 | 04:09:20.870-04:09:23.500 | DM] may have something that would uh
 [u2885 | 04:09:24.340-04:09:25.969 | DM] appeal to you.
-[u2886 | 04:09:26.710-04:09:28.309 | Alimash] I take it to the [[shell]].
+[u2886 | 04:09:26.710-04:09:28.309 | Alimash] I take it to the {{shell}}.
 [u2887 | 04:09:28.340-04:09:29.370 | Alimash] Okay,
 [u2888 | 04:09:29.790-04:09:33.679 | Alimash] I could have been trapped in that fucking Mirror Realm.
 [u2889 | 04:09:38.510-04:09:40.650 | DM] I don't like people, either.
@@ -2938,7 +2938,7 @@
 [u2938 | 04:13:48.910-04:13:52.650 | Wellby] the exit near Eudomes' tower, to the east of there
 [u2939 | 04:13:53.550-04:13:55.600 | DM] Lastlight Falls
 [u2940 | 04:13:58.820-04:14:01.030 | DM] Lastlight Falls
-[u2941 | 04:14:01.210-04:14:02.890 | Wellby] [[last one for life]].
+[u2941 | 04:14:01.210-04:14:02.890 | Wellby] {{last one for life}}.
 [u2942 | 04:14:05.150-04:14:11.410 | Wellby] If I could ask your indulgence, I reach into a pouch at my waist
 [u2943 | 04:14:11.550-04:14:15.900 | Wellby] and pull out a small carved ebony fly.
 [u2944 | 04:14:16.240-04:14:24.519 | Wellby] I've carried this with me for months now, ever since I took it from Agata, who we killed in the deserts to the east of Dunmar.
@@ -2946,7 +2946,7 @@
 [u2946 | 04:14:33.440-04:14:39.400 | Wellby] I've yet to meet someone with the skill to understand how to control this creature. Do you know,
 [u2947 | 04:14:42.100-04:14:43.210 | DM] may I
 [u2948 | 04:14:43.350-04:14:44.340 | Wellby] please?
-[u2949 | 04:14:45.280-04:14:46.650 | DM] [[He's up at him]],
+[u2949 | 04:14:45.280-04:14:46.650 | DM] {{He's up at him}},
 [u2950 | 04:14:48.760-04:14:50.610 | DM] investigates,
 [u2951 | 04:14:52.310-04:14:54.410 | Unknown] cast a spell over it
 [u2952 | 04:14:55.630-04:14:56.710 | DM] that is
@@ -2956,7 +2956,7 @@
 [u2956 | 04:15:11.780-04:15:19.999 | Wellby] No, No, no, no, no, no! Is what I'm saying out loud right now. No, What do you mean? It's old master is dead. We
 [u2957 | 04:15:30.980-04:15:32.380 | Unknown] well shit
 [u2958 | 04:15:41.010-04:15:44.779 | Alimash] some of my other character just woke up and feels unsettled.
-[u2959 | 04:15:47.910-04:15:53.899 | Wellby] Hold on! [[I don't care your Tim]]. Do we see it? Agata or [[a sandwich]] riding That thing
+[u2959 | 04:15:47.910-04:15:53.899 | Wellby] Hold on! {{I don't care your Tim}}. Do we see it? Agata or {{a sandwich}} riding That thing
 [u2960 | 04:15:54.720-04:15:58.170 | Wellby] like. Is it known that Agata was its master?
 [u2961 | 04:15:59.420-04:16:02.500 | DM] You never! You never saw Agata ride it?
 [u2962 | 04:16:05.610-04:16:07.499 | Wellby] Well, then, honestly,
@@ -2998,7 +2998,7 @@
 [u2998 | 04:18:38.900-04:18:41.050 | DM] looking at Alimash
 [u2999 | 04:18:43.780-04:18:48.840 | DM] attempts to find peace. Wizard slaying!
 [u3000 | 04:18:49.290-04:18:57.210 | Alimash] He has a Do you have a taste for it? Now? If you wish to slay wizards? No, I
-[u3001 | 04:18:58.370-04:19:04.670 | Alimash] I wish [[that this has got some enemies he wants like]]. I wish to have steady work and honor.
+[u3001 | 04:18:58.370-04:19:04.670 | Alimash] I wish {{that this has got some enemies he wants like}}. I wish to have steady work and honor.
 [u3002 | 04:19:06.360-04:19:07.830 | DM] I do have
 [u3003 | 04:19:08.530-04:19:12.570 | DM] work. A man of your talent could help with
 [u3004 | 04:19:14.460-04:19:15.370 | Alimash] Hmm.

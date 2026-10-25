@@ -53,7 +53,7 @@ DM: So Havdar's concerned mostly with his troops, but has noticed you and waved 
 Unknown: I...
 
 %% u0047-u0048 %%
-Seeker: [[Didn't do my...]] My hand will recede back to the earth soon. We should bind this orc, I think.
+Seeker: {{Didn't do my...}} My hand will recede back to the earth soon. We should bind this orc, I think.
 
 %% u0049 %%
 Delwath: Yes.
@@ -74,7 +74,7 @@ Wellby: It's tough, because the tongue doesn't extend very far. It sort of looks
 Kenzo: Kenzo goes over, slightly alarmed that the axe beak might be eating your face, and takes a staff and pokes the axe beak away. Is the name actually—what was the name?
 
 %% u0058 %%
-Wellby: [[Did—what was that?]]
+Wellby: {{Did—what was that?}}
 
 %% u0059 %%
 Kenzo: It was like...
@@ -119,7 +119,7 @@ Seeker: So we set about binding the...
 DM: He's unconscious, so it's easy to get him tied up.
 
 %% u0095 %%
-Kenzo: Okay, as a start—maybe, Delwath, are you helping? [[Like I can see from the office.]]
+Kenzo: Okay, as a start—maybe, Delwath, are you helping? {{Like I can see from the office.}}
 
 %% u0096 %%
 Delwath: And Delwath is helping.
@@ -146,10 +146,10 @@ Kenzo: But it wasn't shadow armor? It was just normal armor, right? It didn't ha
 Delwath: No, I could not...
 
 %% u0108-u0112 %%
-Seeker: And is all darkness evil? Is all evil to be found in darkness? Maybe, but maybe there's more to the world than we know. Or, conversely, perhaps this prediction [[what can happen still with]], even though it seems unlikely...
+Seeker: And is all darkness evil? Is all evil to be found in darkness? Maybe, but maybe there's more to the world than we know. Or, conversely, perhaps this prediction {{what can happen still with}}, even though it seems unlikely...
 
 %% u0113-u0115 %%
-Kenzo: I feel like it's within the spectrum of possible. Now, I don't hold it against you, just to be clear about that, though. It's not something—I have no personal, you know, interactions. You're actually a liberator of the Great War, so I don't really... [[do, but serious.]]
+Kenzo: I feel like it's within the spectrum of possible. Now, I don't hold it against you, just to be clear about that, though. It's not something—I have no personal, you know, interactions. You're actually a liberator of the Great War, so I don't really... {{do, but serious.}}
 
 %% u0116-u0118 %%
 Seeker: What are some associations? Now, I've already purple-gem-goggle-inspected the armor without any further insight, but I'm curious if we knew anything about the lore of shadows suggesting that there are—oh yeah, actually, turning to you—cultures, traditions, gods that are somehow connected to shadows?
@@ -170,7 +170,7 @@ DM: I mean...
 Kenzo: And I do not know.
 
 %% u0126 %%
-Kenzo: Apparently, [[all this topic]].
+Kenzo: Apparently, {{all this topic}}.
 
 %% u0127 %%
 Wellby: You're prettier.
@@ -191,10 +191,10 @@ DM: I mean, this is not your—you know, since you've met Kaeso. I mean, you wer
 Kenzo: And then you...
 
 %% u0141-u0142 %%
-DM: [[Guys know, but...]] You would know these things, right? And so...
+DM: {{Guys know, but...}} You would know these things, right? And so...
 
 %% u0143-u0146 %%
-Kenzo: Kenzo has no particular prejudice or anything like that, obviously. Delwath has been killing things with weird demonic swords—not demonic swords, [[machine or we're going to be evil]]. Evil energy. Evil—what? There's the energy, but anyways, Kenzo's just, you know...
+Kenzo: Kenzo has no particular prejudice or anything like that, obviously. Delwath has been killing things with weird demonic swords—not demonic swords, {{machine or we're going to be evil}}. Evil energy. Evil—what? There's the energy, but anyways, Kenzo's just, you know...
 
 %% u0147-u0151 %%
 Seeker: I like how we're having this casual conversation about good and evil while tying up an orc. I pull the little notebook out of a deeply buried pocket among my things and pull it open and say, "I did one time write down the word Shadowfell. I think that might have been, Delwath, where you said you were imprisoned, but I don't know much more about what it is. Is that the place you were held?"
@@ -311,13 +311,13 @@ DM: It's sort of like that, except a little stretched out and more stylized. So 
 DM: Not carrying much. Not much rations or anything. They must either have some magical way of getting food, or they must have a camp somewhere and have left from that camp to come here, or somebody else was carrying the food. These are obviously a battle party, relatively light in gear other than their weapons and armor. But you don't really find much else or notice much else.
 
 %% u0209 %%
-Seeker: [[To search the eyes open next.]]
+Seeker: {{To search the eyes open next.}}
 
 %% u0210 %%
 Delwath: Let's, um...
 
 %% u0211 %%
-Kenzo: [[Outdoor]]—bring the orc.
+Kenzo: {{Outdoor}}—bring the orc.
 
 %% u0212 %%
 Wellby: Yeah, bring the orc.
@@ -416,13 +416,13 @@ Seeker: Used to be this palm tree up there, but...
 DM: Several of my scouts are still out riding. I anticipate they'll be back sometime tomorrow anyway. Is this all the orcs? Are there more? I don't know.
 
 %% u0290 %%
-Kenzo: [[Especially the other ones that we were dealing with]]—at least, this is the only one we captured.
+Kenzo: {{Especially the other ones that we were dealing with}}—at least, this is the only one we captured.
 
 %% u0291-u0292 %%
 DM: That's good. I saw you fought well up there.
 
 %% u0293 %%
-Seeker: [[Some still some book ideas.]]
+Seeker: {{Some still some book ideas.}}
 
 %% u0294 %%
 Unknown: Greatly.
@@ -482,7 +482,7 @@ Delwath: Yeah, that's right. A new clan, perhaps, attacking the peaceful ones.
 Seeker: Hmm.
 
 %% u0320 %%
-Kenzo: These markings, the rising sun—[[what is a clerk]]—does that mean anything to you?
+Kenzo: These markings, the rising sun—{{what is a clerk}}—does that mean anything to you?
 
 %% u0321 %%
 DM: As I said, they always have marks. Screaming face, the burning sun, call themselves things like this, but...

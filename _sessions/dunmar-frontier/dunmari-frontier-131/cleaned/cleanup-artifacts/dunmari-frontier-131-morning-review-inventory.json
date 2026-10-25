@@ -1,0 +1,4011 @@
+{
+  "schemaVersion": 1,
+  "session": 131,
+  "preparedSource": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-source-prepared.md",
+  "cleanedSource": "_sessions/dunmar-frontier/dunmari-frontier-131/cleaned/dunmari-frontier-131-source-cleaned.md",
+  "preparedSha256": "f1e272f362eabc6a791b63bfe545ac3ab7188757d4ef2447f5547f9ce1f31807",
+  "cleanedSha256": "086cf55d1ff82ee2da8afbf94f518a77208bab3becee778c3b65a0addd860454",
+  "reviewDisposition": "Deferred to morning review by explicit user instruction. No human acceptance recorded.",
+  "counts": {
+    "materialLines": 18,
+    "materialSpans": 18,
+    "incidentalLines": 75,
+    "incidentalSpans": 75,
+    "markedMaterialLines": 18,
+    "markedIncidentalLines": 6,
+    "allMarkedSpans": 24,
+    "acceptedLines": 0
+  },
+  "material": [
+    {
+      "uid": "u0060",
+      "header": "[u0060 | 00:06:40.400-00:06:42.290 | Delwath]",
+      "preparedText": "Control that is engaged.",
+      "cleanedText": "Control [[that is engaged]].",
+      "spans": [
+        {
+          "text": "that is engaged",
+          "importance": "material",
+          "reason": "Unclear target or mechanism of the Empress controlling something.",
+          "question": "What is the object of control in this sentence?",
+          "marked": true,
+          "preparedStart": 8,
+          "preparedEnd": 23,
+          "cleanedStart": 10,
+          "cleanedEnd": 25
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0058",
+          "prepared": "[u0058 | 00:06:23.280-00:06:31.959 | Delwath] All I remember… I don't think we know anything beyond…",
+          "cleaned": "[u0058 | 00:06:23.280-00:06:31.959 | Delwath] All I remember… I don't think we know anything beyond…"
+        },
+        {
+          "uid": "u0059",
+          "prepared": "[u0059 | 00:06:32.280-00:06:39.869 | Delwath] that this… this Empress of Chaos, or whatever she's calling herself, Thinks that it'll somehow help.",
+          "cleaned": "[u0059 | 00:06:32.280-00:06:39.869 | Delwath] that this… this Empress of Chaos, or whatever she's calling herself, Thinks that it'll somehow help."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0061",
+          "prepared": "[u0061 | 00:06:44.070-00:06:48.019 | Kenzo] But, like, what, though? Like, a specific tree? Is it, like, a…",
+          "cleaned": "[u0061 | 00:06:44.070-00:06:48.019 | Kenzo] But, like, what, though? Like, a specific tree? Is it, like, a…"
+        },
+        {
+          "uid": "u0062",
+          "prepared": "[u0062 | 00:06:48.270-00:06:50.999 | Kenzo] Are they trying to kill… you know what I mean? Like, what are they…",
+          "cleaned": "[u0062 | 00:06:48.270-00:06:50.999 | Kenzo] Are they trying to kill… you know what I mean? Like, what are they…"
+        }
+      ]
+    },
+    {
+      "uid": "u0269",
+      "header": "[u0269 | 00:26:31.280-00:26:37.509 | Delwath]",
+      "preparedText": "you know, alamandas was here, you know.",
+      "cleanedText": "you know, [[alamandas]] was here, you know.",
+      "spans": [
+        {
+          "text": "alamandas",
+          "importance": "material",
+          "reason": "Unresolved general identity; glossary and local repetition do not establish a safe correction.",
+          "question": "Which general is named?",
+          "marked": true,
+          "preparedStart": 10,
+          "preparedEnd": 19,
+          "cleanedStart": 12,
+          "cleanedEnd": 21
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0267",
+          "prepared": "[u0267 | 00:26:17.470-00:26:18.330 | Delwath] So…",
+          "cleaned": "[u0267 | 00:26:17.470-00:26:18.330 | Delwath] So…"
+        },
+        {
+          "uid": "u0268",
+          "prepared": "[u0268 | 00:26:21.160-00:26:30.990 | Delwath] That one's been, like, sort of sketching, like, little maps and the little things in the earth, and, like, scratching them out, and, like, sort of muttering about, like, if only general",
+          "cleaned": "[u0268 | 00:26:21.160-00:26:30.990 | Delwath] Delwath's been, like, sort of sketching, like, little maps and the little things in the earth, and, like, scratching them out, and, like, sort of muttering about, like, if only general"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0270",
+          "prepared": "[u0270 | 00:26:38.180-00:26:48.900 | Delwath] she would really know what to do. But I think…",
+          "cleaned": "[u0270 | 00:26:38.180-00:26:48.900 | Delwath] she would really know what to do. But I think…"
+        },
+        {
+          "uid": "u0271",
+          "prepared": "[u0271 | 00:26:50.480-00:26:56.959 | Delwath] if we use the right… if we use Seeker's vast knowledge of every spell in D&D,",
+          "cleaned": "[u0271 | 00:26:50.480-00:26:56.959 | Delwath] if we use the right… if we use Seeker's vast knowledge of every spell in D&D,"
+        }
+      ]
+    },
+    {
+      "uid": "u0407",
+      "header": "[u0407 | 00:37:14.380-00:37:16.139 | Seeker]",
+      "preparedText": "That was the special armor of the Corps.",
+      "cleanedText": "That was the special armor of the [[Corps]].",
+      "spans": [
+        {
+          "text": "Corps",
+          "importance": "material",
+          "reason": "Armor owner or group is unclear.",
+          "question": "Whose special armor is being distinguished from the centipede?",
+          "marked": true,
+          "preparedStart": 34,
+          "preparedEnd": 39,
+          "cleanedStart": 36,
+          "cleanedEnd": 41
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0405",
+          "prepared": "[u0405 | 00:37:01.230-00:37:07.930 | Seeker] or something, and then it will stop moving, or it has some other control mechanism that you could take over and steer it into the ocean or whatever.",
+          "cleaned": "[u0405 | 00:37:01.230-00:37:07.930 | Seeker] or something, and then it will stop moving, or it has some other control mechanism that you could take over and steer it into the ocean or whatever."
+        },
+        {
+          "uid": "u0406",
+          "prepared": "[u0406 | 00:37:07.930-00:37:12.700 | Delwath] I bet you it's, like, sentient metal. Wasn't it very Terminator 2 vibey?",
+          "cleaned": "[u0406 | 00:37:07.930-00:37:12.700 | Delwath] I bet you it's, like, sentient metal. Wasn't it very Terminator 2 vibey?"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0408",
+          "prepared": "[u0408 | 00:37:16.140-00:37:16.520 | Wellby] Jesus.",
+          "cleaned": "[u0408 | 00:37:16.140-00:37:16.520 | Wellby] Jesus."
+        },
+        {
+          "uid": "u0409",
+          "prepared": "[u0409 | 00:37:17.190-00:37:17.910 | Wellby] Yeah.",
+          "cleaned": "[u0409 | 00:37:17.190-00:37:17.910 | Wellby] Yeah."
+        }
+      ]
+    },
+    {
+      "uid": "u0483",
+      "header": "[u0483 | 00:44:30.080-00:44:31.050 | Delwath]",
+      "preparedText": "cards.",
+      "cleanedText": "[[cards]].",
+      "spans": [
+        {
+          "text": "cards",
+          "importance": "material",
+          "reason": "Unclear final object of the religious question.",
+          "question": "What does Mos Numena say about which subject?",
+          "marked": true,
+          "preparedStart": 0,
+          "preparedEnd": 5,
+          "cleanedStart": 2,
+          "cleanedEnd": 7
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0481",
+          "prepared": "[u0481 | 00:44:27.670-00:44:29.680 | Delwath] What does, like, Moss Numina say about.",
+          "cleaned": "[u0481 | 00:44:27.670-00:44:29.680 | Delwath] What does, like, Mos Numena say about."
+        },
+        {
+          "uid": "u0482",
+          "prepared": "[u0482 | 00:44:29.680-00:44:30.080 | DM] Right.",
+          "cleaned": "[u0482 | 00:44:29.680-00:44:30.080 | DM] Right."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0484",
+          "prepared": "[u0484 | 00:44:31.050-00:44:36.920 | DM] I mean, again, there's, like, a pre-Shemut, and there's a post-Schamut, and it's a little bit…",
+          "cleaned": "[u0484 | 00:44:31.050-00:44:36.920 | DM] I mean, again, there's, like, a pre-Cha'mutte, and there's a post-Cha'mutte, and it's a little bit…"
+        },
+        {
+          "uid": "u0485",
+          "prepared": "[u0485 | 00:44:37.920-00:44:42.720 | DM] It's a little bit difficult to disentangle the schmut aspect from the Hobgoblin aspect.",
+          "cleaned": "[u0485 | 00:44:37.920-00:44:42.720 | DM] It's a little bit difficult to disentangle the Cha'mutte aspect from the Hobgoblin aspect."
+        }
+      ]
+    },
+    {
+      "uid": "u0574",
+      "header": "[u0574 | 00:51:38.540-00:51:41.910 | Delwath]",
+      "preparedText": "But it could flash a wall… I mean, it could be 5 feet from that, right?",
+      "cleanedText": "But it could [[flash a wall]]… I mean, it could be 5 feet from that, right?",
+      "spans": [
+        {
+          "text": "flash a wall",
+          "importance": "material",
+          "reason": "Proposed illusion tactic contains an unclear action.",
+          "question": "What could the illusion do near the troops?",
+          "marked": true,
+          "preparedStart": 13,
+          "preparedEnd": 25,
+          "cleanedStart": 15,
+          "cleanedEnd": 27
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0572",
+          "prepared": "[u0572 | 00:51:34.570-00:51:37.300 | Wellby] Like, depending how far you can see from within the cloud.",
+          "cleaned": "[u0572 | 00:51:34.570-00:51:37.300 | Wellby] Like, depending how far you can see from within the cloud."
+        },
+        {
+          "uid": "u0573",
+          "prepared": "[u0573 | 00:51:37.300-00:51:37.970 | Delwath] Yes.",
+          "cleaned": "[u0573 | 00:51:37.300-00:51:37.970 | Delwath] Yes."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0575",
+          "prepared": "[u0575 | 00:51:44.100-00:51:44.620 | Wellby] Yep.",
+          "cleaned": "[u0575 | 00:51:44.100-00:51:44.620 | Wellby] Yep."
+        },
+        {
+          "uid": "u0576",
+          "prepared": "[u0576 | 00:51:44.880-00:51:45.420 | Delwath] Yeah.",
+          "cleaned": "[u0576 | 00:51:44.880-00:51:45.420 | Delwath] Yeah."
+        }
+      ]
+    },
+    {
+      "uid": "u0690",
+      "header": "[u0690 | 00:58:40.510-00:58:43.949 | Delwath]",
+      "preparedText": "Oh, I know, we're setting her up to be in even worse chaos, of course.",
+      "cleanedText": "Oh, I know, we're setting her up to be an even worse [[chaos, of course]].",
+      "spans": [
+        {
+          "text": "chaos, of course",
+          "importance": "material",
+          "reason": "Unclear comparison when discussing installing Revaka as a leader.",
+          "question": "What future antagonist or title is used in the comparison?",
+          "marked": true,
+          "preparedStart": 53,
+          "preparedEnd": 69,
+          "cleanedStart": 55,
+          "cleanedEnd": 71
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0688",
+          "prepared": "[u0688 | 00:58:33.630-00:58:36.650 | Delwath] That… Can become foreshadowing for her.",
+          "cleaned": "[u0688 | 00:58:33.630-00:58:36.650 | Delwath] That… Can become foreshadowing for her."
+        },
+        {
+          "uid": "u0689",
+          "prepared": "[u0689 | 00:58:37.270-00:58:40.509 | Kenzo] This is totally gonna bite us in the ass later, but yeah, I think this is.",
+          "cleaned": "[u0689 | 00:58:37.270-00:58:40.509 | Kenzo] This is totally gonna bite us in the ass later, but yeah, I think this is."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0691",
+          "prepared": "[u0691 | 00:58:43.950-00:58:52.449 | Kenzo] But the Chaos Empress is a false god. You know, she's a false god, you know, and, and yeah, and then whatever remix.",
+          "cleaned": "[u0691 | 00:58:43.950-00:58:52.449 | Kenzo] But the Chaos Empress is a false god. You know, she's a false god, you know, and, and yeah, and then whatever remix."
+        },
+        {
+          "uid": "u0692",
+          "prepared": "[u0692 | 00:58:53.140-00:58:53.740 | DM] Yo!",
+          "cleaned": "[u0692 | 00:58:53.140-00:58:53.740 | DM] Yo!"
+        }
+      ]
+    },
+    {
+      "uid": "u1036",
+      "header": "[u1036 | 01:23:58.430-01:24:00.679 | DM]",
+      "preparedText": "Generally rolled a 30.",
+      "cleanedText": "[[Generally]] rolled a 30.",
+      "spans": [
+        {
+          "text": "Generally",
+          "importance": "material",
+          "reason": "Unclear word naming or describing the actor with initiative 30.",
+          "question": "Who or what is named before rolled a 30?",
+          "marked": true,
+          "preparedStart": 0,
+          "preparedEnd": 9,
+          "cleanedStart": 2,
+          "cleanedEnd": 11
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1034",
+          "prepared": "[u1034 | 01:23:51.070-01:23:53.249 | Seeker] Now that Robbie's in trouble.",
+          "cleaned": "[u1034 | 01:23:51.070-01:23:53.249 | Seeker] Now that Wellby's in trouble."
+        },
+        {
+          "uid": "u1035",
+          "prepared": "[u1035 | 01:23:54.510-01:23:58.000 | Wellby] I rolled, 20, so that's a 31 altogether.",
+          "cleaned": "[u1035 | 01:23:54.510-01:23:58.000 | Wellby] I rolled, 20, so that's a 31 altogether."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1037",
+          "prepared": "[u1037 | 01:24:02.070-01:24:03.260 | Wellby] Oh, shit.",
+          "cleaned": "[u1037 | 01:24:02.070-01:24:03.260 | Wellby] Oh, shit."
+        },
+        {
+          "uid": "u1038",
+          "prepared": "[u1038 | 01:24:03.260-01:24:06.250 | Delwath] We're all at 18, so it's a 20 altogether.",
+          "cleaned": "[u1038 | 01:24:03.260-01:24:06.250 | Delwath] I rolled an 18, so it's a 20 altogether."
+        }
+      ]
+    },
+    {
+      "uid": "u1068",
+      "header": "[u1068 | 01:25:55.780-01:25:58.030 | DM]",
+      "preparedText": "He's trying to strive her. He's trying her.",
+      "cleanedText": "[[He's trying to strive her. He's trying her.]]",
+      "spans": [
+        {
+          "text": "He's trying to strive her. He's trying her.",
+          "importance": "material",
+          "reason": "Garbled substantive reference to an earlier scrying attempt.",
+          "question": "What previous scrying attempt or target is described?",
+          "marked": true,
+          "preparedStart": 0,
+          "preparedEnd": 43,
+          "cleanedStart": 2,
+          "cleanedEnd": 45
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1066",
+          "prepared": "[u1066 | 01:25:45.690-01:25:51.340 | DM] So, Wild V8 is… 45 feet away from her now.",
+          "cleaned": "[u1066 | 01:25:45.690-01:25:51.340 | DM] So, Wellby is… 45 feet away from her now."
+        },
+        {
+          "uid": "u1067",
+          "prepared": "[u1067 | 01:25:53.250-01:25:55.780 | Delwath] What did I scry last time? Did I scry…",
+          "cleaned": "[u1067 | 01:25:53.250-01:25:55.780 | Delwath] What did I scry last time? Did I scry…"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1069",
+          "prepared": "[u1069 | 01:25:58.030-01:25:58.470 | Delwath] Yeah.",
+          "cleaned": "[u1069 | 01:25:58.030-01:25:58.470 | Delwath] Yeah."
+        },
+        {
+          "uid": "u1070",
+          "prepared": "[u1070 | 01:25:58.470-01:26:02.700 | Kenzo] she saw it, she caught it. We just want to scry the battlefield, just to see the results of the tsunami.",
+          "cleaned": "[u1070 | 01:25:58.470-01:26:02.700 | Kenzo] she saw it, she caught it. We just want to scry the battlefield, just to see the results of the tsunami."
+        }
+      ]
+    },
+    {
+      "uid": "u1374",
+      "header": "[u1374 | 01:45:17.800-01:45:20.289 | DM]",
+      "preparedText": "But I'm thinking more resistant to lightning.",
+      "cleanedText": "But I'm thinking more [[resistant to lightning]].",
+      "spans": [
+        {
+          "text": "resistant to lightning",
+          "importance": "material",
+          "reason": "Unclear assertion or interrupted question about lightning resistance; nearby lines do not support silently choosing one reading.",
+          "question": "Is this a resistance claim, question, or cross-talk?",
+          "marked": true,
+          "preparedStart": 22,
+          "preparedEnd": 44,
+          "cleanedStart": 24,
+          "cleanedEnd": 46
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1372",
+          "prepared": "[u1372 | 01:45:11.640-01:45:14.830 | DM] And resistance to cold and radiant.",
+          "cleaned": "[u1372 | 01:45:11.640-01:45:14.830 | DM] And resistance to cold and radiant."
+        },
+        {
+          "uid": "u1373",
+          "prepared": "[u1373 | 01:45:15.180-01:45:16.499 | Kenzo] Not lightning.",
+          "cleaned": "[u1373 | 01:45:15.180-01:45:16.499 | Kenzo] Not lightning."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1375",
+          "prepared": "[u1375 | 01:45:20.290-01:45:27.430 | Wellby] the big construct thing itself, but then that also means, like, maybe Wall of Fire is not actually gonna heat the metal of the thing, like, it's not conductive, so…",
+          "cleaned": "[u1375 | 01:45:20.290-01:45:27.430 | Wellby] the big construct thing itself, but then that also means, like, maybe Wall of Fire is not actually gonna heat the metal of the thing, like, it's not conductive, so…"
+        },
+        {
+          "uid": "u1376",
+          "prepared": "[u1376 | 01:45:27.430-01:45:28.619 | Kenzo] It's not. It's not.",
+          "cleaned": "[u1376 | 01:45:27.430-01:45:28.619 | Kenzo] It's not. It's not."
+        }
+      ]
+    },
+    {
+      "uid": "u1381",
+      "header": "[u1381 | 01:45:44.410-01:45:45.660 | Seeker]",
+      "preparedText": "Stand on the ground, though.",
+      "cleanedText": "[[Stand on the ground]], though.",
+      "spans": [
+        {
+          "text": "Stand on the ground",
+          "importance": "material",
+          "reason": "Possible missing negation about contact with the ground affects the Earthquake argument.",
+          "question": "What is said about standing or not standing on the ground?",
+          "marked": true,
+          "preparedStart": 0,
+          "preparedEnd": 19,
+          "cleanedStart": 2,
+          "cleanedEnd": 21
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1379",
+          "prepared": "[u1379 | 01:45:39.280-01:45:43.989 | Delwath] So… In theory.",
+          "cleaned": "[u1379 | 01:45:39.280-01:45:43.989 | Delwath] So… In theory."
+        },
+        {
+          "uid": "u1380",
+          "prepared": "[u1380 | 01:45:43.990-01:45:44.410 | DM] But they're.",
+          "cleaned": "[u1380 | 01:45:43.990-01:45:44.410 | DM] But they're."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1382",
+          "prepared": "[u1382 | 01:45:45.660-01:45:46.210 | DM] Why?",
+          "cleaned": "[u1382 | 01:45:45.660-01:45:46.210 | DM] Why?"
+        },
+        {
+          "uid": "u1383",
+          "prepared": "[u1383 | 01:45:46.210-01:45:46.730 | Wellby] Shoot.",
+          "cleaned": "[u1383 | 01:45:46.210-01:45:46.730 | Wellby] Shoot."
+        }
+      ]
+    },
+    {
+      "uid": "u1621",
+      "header": "[u1621 | 02:02:46.860-02:02:48.550 | Delwath]",
+      "preparedText": "Dude, we can't attack.",
+      "cleanedText": "[[Dude, we can't attack.]]",
+      "spans": [
+        {
+          "text": "Dude, we can't attack.",
+          "importance": "material",
+          "reason": "Unclear tactical statement may reverse the ability or intention to attack.",
+          "question": "What is the intended attack or waiting statement?",
+          "marked": true,
+          "preparedStart": 0,
+          "preparedEnd": 22,
+          "cleanedStart": 2,
+          "cleanedEnd": 24
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1619",
+          "prepared": "[u1619 | 02:02:37.570-02:02:40.959 | Delwath] If she comes out, I mean, you know what?",
+          "cleaned": "[u1619 | 02:02:37.570-02:02:40.959 | Delwath] If she comes out, I mean, you know what?"
+        },
+        {
+          "uid": "u1620",
+          "prepared": "[u1620 | 02:02:41.260-02:02:45.550 | Delwath] Maybe we hang out here? Like, does it look like they've been camped for a long time?",
+          "cleaned": "[u1620 | 02:02:41.260-02:02:45.550 | Delwath] Maybe we hang out here? Like, does it look like they've been camped for a long time?"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1622",
+          "prepared": "[u1622 | 02:02:48.680-02:02:50.709 | DM] It's hard to… I mean, you can't really…",
+          "cleaned": "[u1622 | 02:02:48.680-02:02:50.709 | DM] It's hard to… I mean, you can't really…"
+        },
+        {
+          "uid": "u1623",
+          "prepared": "[u1623 | 02:02:50.890-02:02:52.110 | Audio shared by Tim Sackton] Hell, but like…",
+          "cleaned": "[u1623 | 02:02:50.890-02:02:52.110 | Audio shared by Tim Sackton] Hell, but like…"
+        }
+      ]
+    },
+    {
+      "uid": "u1866",
+      "header": "[u1866 | 02:19:34.150-02:19:36.090 | Kenzo]",
+      "preparedText": "They're… it's resistant. They're resistant to me.",
+      "cleanedText": "They're… it's resistant. They're resistant to [[me]].",
+      "spans": [
+        {
+          "text": "me",
+          "importance": "material",
+          "reason": "Unclear resistance reference in Heat Metal planning.",
+          "question": "Which damage type, target, or pronoun is intended?",
+          "marked": true,
+          "preparedStart": 46,
+          "preparedEnd": 48,
+          "cleanedStart": 48,
+          "cleanedEnd": 50
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1864",
+          "prepared": "[u1864 | 02:19:23.090-02:19:29.179 | Seeker] We slingshot Seeker 4 over top of it, and while in the air, he casts the heat metal.",
+          "cleaned": "[u1864 | 02:19:23.090-02:19:29.179 | Seeker] We slingshot Seeker forward over top of it, and while in the air, he casts the heat metal."
+        },
+        {
+          "uid": "u1865",
+          "prepared": "[u1865 | 02:19:30.959-02:19:33.699 | Kenzo] Heat metal's not gonna… I mean, we could try heat metal, right?",
+          "cleaned": "[u1865 | 02:19:30.959-02:19:33.699 | Kenzo] Heat metal's not gonna… I mean, we could try heat metal, right?"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1867",
+          "prepared": "[u1867 | 02:19:36.090-02:19:38.450 | Delwath] But it's probably… we're pretty sure it's not gonna work.",
+          "cleaned": "[u1867 | 02:19:36.090-02:19:38.450 | Delwath] But it's probably… we're pretty sure it's not gonna work."
+        },
+        {
+          "uid": "u1868",
+          "prepared": "[u1868 | 02:19:39.180-02:19:41.209 | DM] He's immune to fire damage.",
+          "cleaned": "[u1868 | 02:19:39.180-02:19:41.209 | DM] She's immune to fire damage."
+        }
+      ]
+    },
+    {
+      "uid": "u1870",
+      "header": "[u1870 | 02:19:42.180-02:19:48.010 | DM]",
+      "preparedText": "correlates with chaos metal properties. It's very unlikely fire is gonna heat.",
+      "cleanedText": "correlates with chaos metal properties. It's very unlikely fire is gonna [[heat]].",
+      "spans": [
+        {
+          "text": "heat",
+          "importance": "material",
+          "reason": "Unclear verb about fire affecting Chaos Metal.",
+          "question": "What is fire unlikely to do?",
+          "marked": true,
+          "preparedStart": 73,
+          "preparedEnd": 77,
+          "cleanedStart": 75,
+          "cleanedEnd": 79
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1868",
+          "prepared": "[u1868 | 02:19:39.180-02:19:41.209 | DM] He's immune to fire damage.",
+          "cleaned": "[u1868 | 02:19:39.180-02:19:41.209 | DM] She's immune to fire damage."
+        },
+        {
+          "uid": "u1869",
+          "prepared": "[u1869 | 02:19:41.219-02:19:42.179 | Delwath] So we assumed…",
+          "cleaned": "[u1869 | 02:19:41.219-02:19:42.179 | Delwath] So we assumed…"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1871",
+          "prepared": "[u1871 | 02:19:48.160-02:19:53.200 | Kenzo] We just said, we just said thunder, Lightning, Acid, Psychic, Regular, Bludgeon Piercing.",
+          "cleaned": "[u1871 | 02:19:48.160-02:19:53.200 | Kenzo] We just said, we just said thunder, Lightning, Acid, Psychic, Regular, Bludgeon Piercing."
+        },
+        {
+          "uid": "u1872",
+          "prepared": "[u1872 | 02:19:54.050-02:19:54.959 | Kenzo] That's what we got to work with.",
+          "cleaned": "[u1872 | 02:19:54.050-02:19:54.959 | Kenzo] That's what we got to work with."
+        }
+      ]
+    },
+    {
+      "uid": "u1883",
+      "header": "[u1883 | 02:20:50.550-02:20:51.950 | Delwath]",
+      "preparedText": "Any waging effects?",
+      "cleanedText": "[[Any waging effects?]]",
+      "spans": [
+        {
+          "text": "Any waging effects?",
+          "importance": "material",
+          "reason": "Unclear criterion in a discussion of possible lightning spells.",
+          "question": "What spell effect or property is requested?",
+          "marked": true,
+          "preparedStart": 0,
+          "preparedEnd": 19,
+          "cleanedStart": 2,
+          "cleanedEnd": 21
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1881",
+          "prepared": "[u1881 | 02:20:26.780-02:20:28.490 | Seeker] We're definitely gonna drop rocks.",
+          "cleaned": "[u1881 | 02:20:26.780-02:20:28.490 | Seeker] We're definitely gonna drop rocks."
+        },
+        {
+          "uid": "u1882",
+          "prepared": "[u1882 | 02:20:38.680-02:20:47.470 | Seeker] So, what's the story with Lightning? Could I do… Anything with my… Wish ability.",
+          "cleaned": "[u1882 | 02:20:38.680-02:20:47.470 | Seeker] So, what's the story with Lightning? Could I do… Anything with my… Wish ability."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1884",
+          "prepared": "[u1884 | 02:20:52.630-02:20:54.229 | Seeker] That's the nastiest lightning spell.",
+          "cleaned": "[u1884 | 02:20:52.630-02:20:54.229 | Seeker] That's the nastiest lightning spell."
+        },
+        {
+          "uid": "u1885",
+          "prepared": "[u1885 | 02:20:59.820-02:21:00.760 | Delwath] Good question.",
+          "cleaned": "[u1885 | 02:20:59.820-02:21:00.760 | Delwath] Good question."
+        }
+      ]
+    },
+    {
+      "uid": "u2501",
+      "header": "[u2501 | 03:02:35.180-03:02:38.280 | Kenzo]",
+      "preparedText": "Yeah. We put Seeker and Seeker in the middle, I'm sure.",
+      "cleanedText": "Yeah. We put Seeker and [[Seeker]] in the middle, I'm sure.",
+      "spans": [
+        {
+          "text": "Seeker",
+          "importance": "material",
+          "reason": "Repeated Seeker obscures the identity of the second PC in the middle of the formation.",
+          "question": "Which second PC is in the middle?",
+          "marked": true,
+          "preparedStart": 13,
+          "preparedEnd": 19,
+          "cleanedStart": 26,
+          "cleanedEnd": 32
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2499",
+          "prepared": "[u2499 | 03:02:26.760-03:02:32.869 | DM] I guess… I don't really know what order you're all in, but I guess Seeker or…",
+          "cleaned": "[u2499 | 03:02:26.760-03:02:32.869 | DM] I guess… I don't really know what order you're all in, but I guess Seeker or…"
+        },
+        {
+          "uid": "u2500",
+          "prepared": "[u2500 | 03:02:33.370-03:02:35.179 | DM] Kenzo is in the front.",
+          "cleaned": "[u2500 | 03:02:33.370-03:02:35.179 | DM] Kenzo is in the front."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2502",
+          "prepared": "[u2502 | 03:02:39.040-03:02:46.190 | DM] So… Oof, that's… Two natural 20s against Kenzo.",
+          "cleaned": "[u2502 | 03:02:39.040-03:02:46.190 | DM] So… Oof, that's… Two natural 20s against Kenzo."
+        },
+        {
+          "uid": "u2503",
+          "prepared": "[u2503 | 03:02:47.980-03:02:52.619 | DM] So that each one is gonna deal…",
+          "cleaned": "[u2503 | 03:02:47.980-03:02:52.619 | DM] So that each one is gonna deal…"
+        }
+      ]
+    },
+    {
+      "uid": "u2821",
+      "header": "[u2821 | 03:22:25.440-03:22:30.139 | DM]",
+      "preparedText": "What's done so far has seemed to affect the… Chaos medal in any way.",
+      "cleanedText": "[[What's done so far has seemed]] to affect the… Chaos Metal in any way.",
+      "spans": [
+        {
+          "text": "What's done so far has seemed",
+          "importance": "material",
+          "reason": "Prepared wording appears inconsistent with the surrounding no-demonstrated-damage discussion; possible dropped negation retained for review.",
+          "question": "Is a negative word missing from the prepared statement?",
+          "marked": true,
+          "preparedStart": 0,
+          "preparedEnd": 29,
+          "cleanedStart": 2,
+          "cleanedEnd": 31
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2819",
+          "prepared": "[u2819 | 03:22:16.050-03:22:18.890 | Delwath] So we actually have no evidence that it's possible to knock down.",
+          "cleaned": "[u2819 | 03:22:16.050-03:22:18.890 | Delwath] So we actually have no evidence that it's possible to knock down."
+        },
+        {
+          "uid": "u2820",
+          "prepared": "[u2820 | 03:22:21.750-03:22:25.099 | DM] You don't know, one way or the other, what is possible to do.",
+          "cleaned": "[u2820 | 03:22:21.750-03:22:25.099 | DM] You don't know, one way or the other, what is possible to do."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2822",
+          "prepared": "[u2822 | 03:22:36.630-03:22:46.670 | Delwath] So, I mean… The idea would be… You know, how can we… I think the next plan…",
+          "cleaned": "[u2822 | 03:22:36.630-03:22:46.670 | Delwath] So, I mean… The idea would be… You know, how can we… I think the next plan…"
+        },
+        {
+          "uid": "u2823",
+          "prepared": "[u2823 | 03:22:47.940-03:22:50.449 | Delwath] Is, it's gonna reach the cliff tomorrow.",
+          "cleaned": "[u2823 | 03:22:47.940-03:22:50.449 | Delwath] Is, it's gonna reach the cliff tomorrow."
+        }
+      ]
+    },
+    {
+      "uid": "u2848",
+      "header": "[u2848 | 03:24:39.060-03:24:39.390 | Delwath]",
+      "preparedText": "It's incredible.",
+      "cleanedText": "[[It's incredible.]]",
+      "spans": [
+        {
+          "text": "It's incredible.",
+          "importance": "material",
+          "reason": "Unclear word completing the statement about metal vulnerability.",
+          "question": "What word completes the statement about the metal itself?",
+          "marked": true,
+          "preparedStart": 0,
+          "preparedEnd": 16,
+          "cleanedStart": 2,
+          "cleanedEnd": 18
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2846",
+          "prepared": "[u2846 | 03:24:34.540-03:24:36.739 | Delwath] It doesn't mean that the metal is itself.",
+          "cleaned": "[u2846 | 03:24:34.540-03:24:36.739 | Delwath] It doesn't mean that the metal is itself."
+        },
+        {
+          "uid": "u2847",
+          "prepared": "[u2847 | 03:24:38.410-03:24:39.060 | DM] No, it's true.",
+          "cleaned": "[u2847 | 03:24:38.410-03:24:39.060 | DM] No, it's true."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2849",
+          "prepared": "[u2849 | 03:24:39.390-03:24:47.230 | DM] What you've cast so far seems to have… affected the… Chaos Metal structure directly.",
+          "cleaned": "[u2849 | 03:24:39.390-03:24:47.230 | DM] [[What you've cast so far seems]] to have… affected the… Chaos Metal structure directly."
+        },
+        {
+          "uid": "u2850",
+          "prepared": "[u2850 | 03:24:47.690-03:24:48.209 | Kenzo] But we haven't tried.",
+          "cleaned": "[u2850 | 03:24:47.690-03:24:48.209 | Kenzo] But we haven't tried."
+        }
+      ]
+    },
+    {
+      "uid": "u2849",
+      "header": "[u2849 | 03:24:39.390-03:24:47.230 | DM]",
+      "preparedText": "What you've cast so far seems to have… affected the… Chaos Metal structure directly.",
+      "cleanedText": "[[What you've cast so far seems]] to have… affected the… Chaos Metal structure directly.",
+      "spans": [
+        {
+          "text": "What you've cast so far seems",
+          "importance": "material",
+          "reason": "Prepared wording may omit a negative, as in u2821; no reversal is asserted without review.",
+          "question": "Is a negative word missing here as well?",
+          "marked": true,
+          "preparedStart": 0,
+          "preparedEnd": 29,
+          "cleanedStart": 2,
+          "cleanedEnd": 31
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2847",
+          "prepared": "[u2847 | 03:24:38.410-03:24:39.060 | DM] No, it's true.",
+          "cleaned": "[u2847 | 03:24:38.410-03:24:39.060 | DM] No, it's true."
+        },
+        {
+          "uid": "u2848",
+          "prepared": "[u2848 | 03:24:39.060-03:24:39.390 | Delwath] It's incredible.",
+          "cleaned": "[u2848 | 03:24:39.060-03:24:39.390 | Delwath] [[It's incredible.]]"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2850",
+          "prepared": "[u2850 | 03:24:47.690-03:24:48.209 | Kenzo] But we haven't tried.",
+          "cleaned": "[u2850 | 03:24:47.690-03:24:48.209 | Kenzo] But we haven't tried."
+        },
+        {
+          "uid": "u2851",
+          "prepared": "[u2851 | 03:24:48.210-03:24:49.080 | DM] Obviously doesn't…",
+          "cleaned": "[u2851 | 03:24:48.210-03:24:49.080 | DM] Obviously doesn't…"
+        }
+      ]
+    }
+  ],
+  "incidental": [
+    {
+      "uid": "u0041",
+      "header": "[u0041 | 00:04:19.820-00:04:21.530 | DM]",
+      "preparedText": "The load, little 20.",
+      "cleanedText": "The load, little 20.",
+      "spans": [
+        {
+          "text": "The load, little 20.",
+          "importance": "incidental",
+          "reason": "Unclear tabletop loading aside; Roll20 context, no session action obscured.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 20,
+          "cleanedStart": 0,
+          "cleanedEnd": 20
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0039",
+          "prepared": "[u0039 | 00:04:02.130-00:04:09.240 | DM] muster the forces to protect the Heart Route itself, the Hidden Valley, some…",
+          "cleaned": "[u0039 | 00:04:02.130-00:04:09.240 | DM] muster the forces to protect the Heartroot itself, the Hidden Valley, some…"
+        },
+        {
+          "uid": "u0040",
+          "prepared": "[u0040 | 00:04:11.130-00:04:17.169 | DM] I have a map in Rule 20. I think it's, like, 60, 70 miles from here.",
+          "cleaned": "[u0040 | 00:04:11.130-00:04:17.169 | DM] I have a map in Roll20. I think it's, like, 60, 70 miles from here."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0042",
+          "prepared": "[u0042 | 00:04:22.540-00:04:30.630 | DM] Meanwhile, as you awake, to, Breakfast in the camp.",
+          "cleaned": "[u0042 | 00:04:22.540-00:04:30.630 | DM] Meanwhile, as you awake, to, Breakfast in the camp."
+        },
+        {
+          "uid": "u0043",
+          "prepared": "[u0043 | 00:04:31.590-00:04:33.319 | DM] Let's see…",
+          "cleaned": "[u0043 | 00:04:31.590-00:04:33.319 | DM] Let's see…"
+        }
+      ]
+    },
+    {
+      "uid": "u0195",
+      "header": "[u0195 | 00:19:19.460-00:19:20.310 | Kenzo]",
+      "preparedText": "wig.",
+      "cleanedText": "wig.",
+      "spans": [
+        {
+          "text": "wig.",
+          "importance": "incidental",
+          "reason": "Unclear brief reaction to description.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 4,
+          "cleanedStart": 0,
+          "cleanedEnd": 4
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0193",
+          "prepared": "[u0193 | 00:19:16.140-00:19:16.990 | Kenzo] Also, what?",
+          "cleaned": "[u0193 | 00:19:16.140-00:19:16.990 | Kenzo] Also, what?"
+        },
+        {
+          "uid": "u0194",
+          "prepared": "[u0194 | 00:19:16.990-00:19:19.459 | DM] Bent. Bent. Bent out of shape.",
+          "cleaned": "[u0194 | 00:19:16.990-00:19:19.459 | DM] Bent. Bent. Bent out of shape."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0196",
+          "prepared": "[u0196 | 00:19:20.310-00:19:24.049 | DM] This… thing does not fit where it is.",
+          "cleaned": "[u0196 | 00:19:20.310-00:19:24.049 | DM] This… thing does not fit where it is."
+        },
+        {
+          "uid": "u0197",
+          "prepared": "[u0197 | 00:19:24.860-00:19:31.130 | DM] It's… there's something wrong about how it… how it lies. It's trying to stretch.",
+          "cleaned": "[u0197 | 00:19:24.860-00:19:31.130 | DM] It's… there's something wrong about how it… how it lies. It's trying to stretch."
+        }
+      ]
+    },
+    {
+      "uid": "u0253",
+      "header": "[u0253 | 00:24:54.020-00:24:58.110 | Delwath]",
+      "preparedText": "The rules don't apply to anybody with a checkpoint. But if you're…",
+      "cleanedText": "The rules don't apply to anybody with a checkpoint. But if you're…",
+      "spans": [
+        {
+          "text": "checkpoint",
+          "importance": "incidental",
+          "reason": "Unclear joke about exemptions for parents.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 40,
+          "preparedEnd": 50,
+          "cleanedStart": 40,
+          "cleanedEnd": 50
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0251",
+          "prepared": "[u0251 | 00:24:43.970-00:24:49.069 | Kenzo] You can get, like, an additional Bardic inspiration as a part of the thing.",
+          "cleaned": "[u0251 | 00:24:43.970-00:24:49.069 | Kenzo] You can get, like, an additional Bardic inspiration as a part of the thing."
+        },
+        {
+          "uid": "u0252",
+          "prepared": "[u0252 | 00:24:49.490-00:24:54.019 | Kenzo] And if you're late, if you're, like, extra… you have fraternity exemptions, so not for you.",
+          "cleaned": "[u0252 | 00:24:49.490-00:24:54.019 | Kenzo] And if you're late, if you're, like, extra… you have paternity exemptions, so not for you."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0254",
+          "prepared": "[u0254 | 00:24:58.110-00:24:59.939 | Kenzo] Customer's, like, really late.",
+          "cleaned": "[u0254 | 00:24:58.110-00:24:59.939 | Kenzo] Customer's, like, really late."
+        },
+        {
+          "uid": "u0255",
+          "prepared": "[u0255 | 00:25:00.190-00:25:02.349 | Delwath] Once your children are both over 2, they start applying.",
+          "cleaned": "[u0255 | 00:25:00.190-00:25:02.349 | Delwath] Once your children are both over 2, they start applying."
+        }
+      ]
+    },
+    {
+      "uid": "u0254",
+      "header": "[u0254 | 00:24:58.110-00:24:59.939 | Kenzo]",
+      "preparedText": "Customer's, like, really late.",
+      "cleanedText": "Customer's, like, really late.",
+      "spans": [
+        {
+          "text": "Customer's",
+          "importance": "incidental",
+          "reason": "Unclear table policy banter.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 10,
+          "cleanedStart": 0,
+          "cleanedEnd": 10
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0252",
+          "prepared": "[u0252 | 00:24:49.490-00:24:54.019 | Kenzo] And if you're late, if you're, like, extra… you have fraternity exemptions, so not for you.",
+          "cleaned": "[u0252 | 00:24:49.490-00:24:54.019 | Kenzo] And if you're late, if you're, like, extra… you have paternity exemptions, so not for you."
+        },
+        {
+          "uid": "u0253",
+          "prepared": "[u0253 | 00:24:54.020-00:24:58.110 | Delwath] The rules don't apply to anybody with a checkpoint. But if you're…",
+          "cleaned": "[u0253 | 00:24:54.020-00:24:58.110 | Delwath] The rules don't apply to anybody with a checkpoint. But if you're…"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0255",
+          "prepared": "[u0255 | 00:25:00.190-00:25:02.349 | Delwath] Once your children are both over 2, they start applying.",
+          "cleaned": "[u0255 | 00:25:00.190-00:25:02.349 | Delwath] Once your children are both over 2, they start applying."
+        },
+        {
+          "uid": "u0256",
+          "prepared": "[u0256 | 00:25:02.350-00:25:20.409 | Kenzo] Yeah, yeah, then the one. But then you get disadvantage on your first initiative in battle, if you're, like, really late, so we're doing a little incentivization of, right, so I'll just say, the first time Kong was ever early, he came up with this rule.",
+          "cleaned": "[u0256 | 00:25:02.350-00:25:20.409 | Kenzo] Yeah, yeah, then the one. But then you get disadvantage on your first initiative in battle, if you're, like, really late, so we're doing a little incentivization of, right, so I'll just say, the first time Kong was ever early, he came up with this rule."
+        }
+      ]
+    },
+    {
+      "uid": "u0288",
+      "header": "[u0288 | 00:28:41.410-00:28:41.960 | Delwath]",
+      "preparedText": "8.",
+      "cleanedText": "8.",
+      "spans": [
+        {
+          "text": "8.",
+          "importance": "incidental",
+          "reason": "Short interjection in planning speech.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 2,
+          "cleanedStart": 0,
+          "cleanedEnd": 2
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0286",
+          "prepared": "[u0286 | 00:28:29.150-00:28:41.029 | Delwath] doom coming to kill you. Here is the, like, 10 plagues of Egypt style, like, you know, the first plague will be water, the second plague will be fire, the third plague will be wind.",
+          "cleaned": "[u0286 | 00:28:29.150-00:28:41.029 | Delwath] doom coming to kill you. Here is the, like, 10 plagues of Egypt style, like, you know, the first plague will be water, the second plague will be fire, the third plague will be wind."
+        },
+        {
+          "uid": "u0287",
+          "prepared": "[u0287 | 00:28:41.030-00:28:41.410 | Kenzo] Yes.",
+          "cleaned": "[u0287 | 00:28:41.030-00:28:41.410 | Kenzo] Yes."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0289",
+          "prepared": "[u0289 | 00:28:42.180-00:28:54.980 | Delwath] And, like, unleash godly plagues on this person. Be like, how dare you… you dare to attack, you know, this place? Well, we are going to strike you down with…",
+          "cleaned": "[u0289 | 00:28:42.180-00:28:54.980 | Delwath] And, like, unleash godly plagues on this person. Be like, how dare you… you dare to attack, you know, this place? Well, we are going to strike you down with…"
+        },
+        {
+          "uid": "u0290",
+          "prepared": "[u0290 | 00:28:55.710-00:29:00.110 | Delwath] you know… The power of the sun, and the power of fire, the power of water.",
+          "cleaned": "[u0290 | 00:28:55.710-00:29:00.110 | Delwath] you know… The power of the sun, and the power of fire, the power of water."
+        }
+      ]
+    },
+    {
+      "uid": "u0307",
+      "header": "[u0307 | 00:30:12.440-00:30:13.810 | Delwath]",
+      "preparedText": "I was a kiddos.",
+      "cleanedText": "I was a kiddos.",
+      "spans": [
+        {
+          "text": "I was a kiddos.",
+          "importance": "incidental",
+          "reason": "Overlapping fragment in dimension discussion; dimensions stated clearly nearby.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 15,
+          "cleanedStart": 0,
+          "cleanedEnd": 15
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0305",
+          "prepared": "[u0305 | 00:30:04.940-00:30:05.770 | Delwath] Along.",
+          "cleaned": "[u0305 | 00:30:04.940-00:30:05.770 | Delwath] Along."
+        },
+        {
+          "uid": "u0306",
+          "prepared": "[u0306 | 00:30:06.050-00:30:11.230 | Wellby] Yeah, although if we did… if this is the thing, when we do it, like, at an angle, we can probably…",
+          "cleaned": "[u0306 | 00:30:06.050-00:30:11.230 | Wellby] Yeah, although if we did… if this is the thing, when we do it, like, at an angle, we can probably…"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0308",
+          "prepared": "[u0308 | 00:30:13.810-00:30:14.330 | Wellby] Yeah.",
+          "cleaned": "[u0308 | 00:30:13.810-00:30:14.330 | Wellby] Yeah."
+        },
+        {
+          "uid": "u0309",
+          "prepared": "[u0309 | 00:30:14.330-00:30:18.069 | Delwath] It's 200 feet wide and 450 feet long.",
+          "cleaned": "[u0309 | 00:30:14.330-00:30:18.069 | Delwath] It's 200 feet wide and 450 feet long."
+        }
+      ]
+    },
+    {
+      "uid": "u0318",
+      "header": "[u0318 | 00:30:54.910-00:30:55.560 | Wellby]",
+      "preparedText": "Evie?",
+      "cleanedText": "Evie?",
+      "spans": [
+        {
+          "text": "Evie?",
+          "importance": "incidental",
+          "reason": "Unclear brief acknowledgment.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 5,
+          "cleanedStart": 0,
+          "cleanedEnd": 5
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0316",
+          "prepared": "[u0316 | 00:30:41.220-00:30:49.010 | Delwath] Gets 50 feet… it starts 300 feet tall and 300 feet wide, but it gets 50 feet shorter each round.",
+          "cleaned": "[u0316 | 00:30:41.220-00:30:49.010 | Delwath] Gets 50 feet… it starts 300 feet tall and 300 feet wide, but it gets 50 feet shorter each round."
+        },
+        {
+          "uid": "u0317",
+          "prepared": "[u0317 | 00:30:49.210-00:30:54.570 | Delwath] But it does… It's cumulative damage, so anybody who gets in it is stuck in it and pushed along.",
+          "cleaned": "[u0317 | 00:30:49.210-00:30:54.570 | Delwath] But it does… It's cumulative damage, so anybody who gets in it is stuck in it and pushed along."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0319",
+          "prepared": "[u0319 | 00:30:55.890-00:31:01.179 | Delwath] So, in theory, it should kill everybody in the front rank, right? Because…",
+          "cleaned": "[u0319 | 00:30:55.890-00:31:01.179 | Delwath] So, in theory, it should kill everybody in the front rank, right? Because…"
+        },
+        {
+          "uid": "u0320",
+          "prepared": "[u0320 | 00:31:01.320-00:31:08.439 | Delwath] they're gonna get carried along for multiple rounds. There's no way they're gonna survive. But then it'll kill only half of the second rank.",
+          "cleaned": "[u0320 | 00:31:01.320-00:31:08.439 | Delwath] they're gonna get carried along for multiple rounds. There's no way they're gonna survive. But then it'll kill only half of the second rank."
+        }
+      ]
+    },
+    {
+      "uid": "u0349",
+      "header": "[u0349 | 00:33:47.560-00:33:47.940 | Delwath]",
+      "preparedText": "when it.",
+      "cleanedText": "when it.",
+      "spans": [
+        {
+          "text": "when it.",
+          "importance": "incidental",
+          "reason": "Unclear short answer; one-a-day limit explicit next line.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 8,
+          "cleanedStart": 0,
+          "cleanedEnd": 8
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0347",
+          "prepared": "[u0347 | 00:33:44.700-00:33:45.450 | Delwath] Right?",
+          "cleaned": "[u0347 | 00:33:44.700-00:33:45.450 | Delwath] Right?"
+        },
+        {
+          "uid": "u0348",
+          "prepared": "[u0348 | 00:33:45.990-00:33:47.149 | Wellby] How many can we test?",
+          "cleaned": "[u0348 | 00:33:45.990-00:33:47.149 | Wellby] How many can we cast?"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0350",
+          "prepared": "[u0350 | 00:33:47.940-00:33:49.280 | Wellby] One a day.",
+          "cleaned": "[u0350 | 00:33:47.940-00:33:49.280 | Wellby] One a day."
+        },
+        {
+          "uid": "u0351",
+          "prepared": "[u0351 | 00:33:49.280-00:33:55.469 | Delwath] It takes Seeker's wish, right? The only way Seeker can cast it… Is via Wish, because…",
+          "cleaned": "[u0351 | 00:33:49.280-00:33:55.469 | Delwath] It takes Seeker's wish, right? The only way Seeker can cast it… Is via Wish, because…"
+        }
+      ]
+    },
+    {
+      "uid": "u0432",
+      "header": "[u0432 | 00:39:26.690-00:39:27.050 | Wellby]",
+      "preparedText": "Hi.",
+      "cleanedText": "Hi.",
+      "spans": [
+        {
+          "text": "Hi.",
+          "importance": "incidental",
+          "reason": "Short reaction.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 3,
+          "cleanedStart": 0,
+          "cleanedEnd": 3
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0430",
+          "prepared": "[u0430 | 00:39:16.350-00:39:17.300 | DM] No.",
+          "cleaned": "[u0430 | 00:39:16.350-00:39:17.300 | DM] No."
+        },
+        {
+          "uid": "u0431",
+          "prepared": "[u0431 | 00:39:18.080-00:39:26.459 | DM] It's a… it's a abomination slash creature. And as far as you could tell, it actually was not even touching the ground.",
+          "cleaned": "[u0431 | 00:39:18.080-00:39:26.459 | DM] It's a… it's a abomination slash creature. And as far as you could tell, it actually was not even touching the ground."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0433",
+          "prepared": "[u0433 | 00:39:27.050-00:39:32.400 | Delwath] I mean, if it's a creature, heat metal might not work on it. Although, I don't know, does heat metal work on golems?",
+          "cleaned": "[u0433 | 00:39:27.050-00:39:32.400 | Delwath] I mean, if it's a creature, heat metal might not work on it. Although, I don't know, does heat metal work on golems?"
+        },
+        {
+          "uid": "u0434",
+          "prepared": "[u0434 | 00:39:37.420-00:39:45.239 | Delwath] So, I think that the actual more interesting challenge is, how are we getting there? Are we using animal shapes, flying?",
+          "cleaned": "[u0434 | 00:39:37.420-00:39:45.239 | Delwath] So, I think that the actual more interesting challenge is, how are we getting there? Are we using animal shapes, flying?"
+        }
+      ]
+    },
+    {
+      "uid": "u0448",
+      "header": "[u0448 | 00:40:53.910-00:40:54.560 | DM]",
+      "preparedText": "Jen.",
+      "cleanedText": "Jen.",
+      "spans": [
+        {
+          "text": "Jen.",
+          "importance": "incidental",
+          "reason": "Short aside.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 4,
+          "cleanedStart": 0,
+          "cleanedEnd": 4
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0446",
+          "prepared": "[u0446 | 00:40:48.470-00:40:51.220 | Kenzo] The parents tell their kids to be, like, you know what I mean?",
+          "cleaned": "[u0446 | 00:40:48.470-00:40:51.220 | Kenzo] The parents tell their kids to be, like, you know what I mean?"
+        },
+        {
+          "uid": "u0447",
+          "prepared": "[u0447 | 00:40:52.900-00:40:53.909 | Delwath] Yeah, that's a good question.",
+          "cleaned": "[u0447 | 00:40:52.900-00:40:53.909 | Delwath] Yeah, that's a good question."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0449",
+          "prepared": "[u0449 | 00:40:54.560-00:40:54.950 | Seeker] like…",
+          "cleaned": "[u0449 | 00:40:54.560-00:40:54.950 | Seeker] like…"
+        },
+        {
+          "uid": "u0450",
+          "prepared": "[u0450 | 00:40:54.950-00:41:00.719 | Delwath] What… what is the, like… I mean, we should… between us, we should have some Hobgoblin War, right? We could ask around, too.",
+          "cleaned": "[u0450 | 00:40:54.950-00:41:00.719 | Delwath] What… what is the, like… I mean, we should… between us, we should have some hobgoblin lore, right? We could ask around, too."
+        }
+      ]
+    },
+    {
+      "uid": "u0452",
+      "header": "[u0452 | 00:41:07.350-00:41:07.790 | Kenzo]",
+      "preparedText": "As soon.",
+      "cleanedText": "As soon.",
+      "spans": [
+        {
+          "text": "As soon.",
+          "importance": "incidental",
+          "reason": "Fragment after identifying ally wizard.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 8,
+          "cleanedStart": 0,
+          "cleanedEnd": 8
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0450",
+          "prepared": "[u0450 | 00:40:54.950-00:41:00.719 | Delwath] What… what is the, like… I mean, we should… between us, we should have some Hobgoblin War, right? We could ask around, too.",
+          "cleaned": "[u0450 | 00:40:54.950-00:41:00.719 | Delwath] What… what is the, like… I mean, we should… between us, we should have some hobgoblin lore, right? We could ask around, too."
+        },
+        {
+          "uid": "u0451",
+          "prepared": "[u0451 | 00:41:00.720-00:41:06.159 | Kenzo] Well, we can know… I'm sure we can know it, and then we can also ask our ally, our real ally wizard guy.",
+          "cleaned": "[u0451 | 00:41:00.720-00:41:06.159 | Kenzo] Well, we can know… I'm sure we can know it, and then we can also ask our ally, our real ally wizard guy."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0453",
+          "prepared": "[u0453 | 00:41:07.790-00:41:08.429 | DM] I mean…",
+          "cleaned": "[u0453 | 00:41:07.790-00:41:08.429 | DM] I mean…"
+        },
+        {
+          "uid": "u0454",
+          "prepared": "[u0454 | 00:41:08.430-00:41:08.920 | Kenzo] That's everything.",
+          "cleaned": "[u0454 | 00:41:08.430-00:41:08.920 | Kenzo] That's everything."
+        }
+      ]
+    },
+    {
+      "uid": "u0509",
+      "header": "[u0509 | 00:46:17.830-00:46:19.210 | DM]",
+      "preparedText": "We should use.",
+      "cleanedText": "We should use.",
+      "spans": [
+        {
+          "text": "We should use.",
+          "importance": "incidental",
+          "reason": "Incomplete interrupted turn, no recoverable proposition.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 14,
+          "cleanedStart": 0,
+          "cleanedEnd": 14
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0507",
+          "prepared": "[u0507 | 00:46:06.580-00:46:10.140 | DM] I don't think you have any idea, and again, I don't think that there's…",
+          "cleaned": "[u0507 | 00:46:06.580-00:46:10.140 | DM] I don't think you have any idea, and again, I don't think that there's…"
+        },
+        {
+          "uid": "u0508",
+          "prepared": "[u0508 | 00:46:10.370-00:46:17.420 | DM] There's not any clear reason to believe that this was a… that there was any sort of universal belief, even among",
+          "cleaned": "[u0508 | 00:46:10.370-00:46:17.420 | DM] There's not any clear reason to believe that this was a… that there was any sort of universal belief, even among"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0510",
+          "prepared": "[u0510 | 00:46:19.210-00:46:21.330 | Delwath] We should ask the weird wizard woman.",
+          "cleaned": "[u0510 | 00:46:19.210-00:46:21.330 | Delwath] We should ask the weird wizard woman."
+        },
+        {
+          "uid": "u0511",
+          "prepared": "[u0511 | 00:46:21.330-00:46:28.629 | Kenzo] Exactly, yeah. Can we just ask it, like… like, we can tell him our plan, and just be like, hey, like, is there… should we invoke something here, or just, like, you know, just to see if he's…",
+          "cleaned": "[u0511 | 00:46:21.330-00:46:28.629 | Kenzo] Exactly, yeah. Can we just ask it, like… like, we can tell him our plan, and just be like, hey, like, is there… should we invoke something here, or just, like, you know, just to see if he's…"
+        }
+      ]
+    },
+    {
+      "uid": "u0583",
+      "header": "[u0583 | 00:52:11.000-00:52:11.990 | Wellby]",
+      "preparedText": "And food…",
+      "cleanedText": "And food…",
+      "spans": [
+        {
+          "text": "And food…",
+          "importance": "incidental",
+          "reason": "Unclear trailing overlap in spell discussion.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 9,
+          "cleanedStart": 0,
+          "cleanedEnd": 9
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0581",
+          "prepared": "[u0581 | 00:52:02.560-00:52:06.560 | Delwath] Right. I mean, it could blast them with cones of… cones of fire.",
+          "cleaned": "[u0581 | 00:52:02.560-00:52:06.560 | Delwath] Right. I mean, it could blast them with cones of… cones of fire."
+        },
+        {
+          "uid": "u0582",
+          "prepared": "[u0582 | 00:52:06.890-00:52:10.060 | Delwath] We could… it could, right? But.",
+          "cleaned": "[u0582 | 00:52:06.890-00:52:10.060 | Delwath] We could… it could, right? But."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0584",
+          "prepared": "[u0584 | 00:52:12.370-00:52:14.529 | Seeker] prefers gravity.",
+          "cleaned": "[u0584 | 00:52:12.370-00:52:14.529 | Seeker] Reverse Gravity."
+        },
+        {
+          "uid": "u0585",
+          "prepared": "[u0585 | 00:52:15.250-00:52:16.810 | Delwath] That doesn't go up high enough.",
+          "cleaned": "[u0585 | 00:52:15.250-00:52:16.810 | Delwath] That doesn't go up high enough."
+        }
+      ]
+    },
+    {
+      "uid": "u0632",
+      "header": "[u0632 | 00:55:26.850-00:55:27.710 | Kenzo]",
+      "preparedText": "That's wrong, that sounds great.",
+      "cleanedText": "That's wrong, that sounds great.",
+      "spans": [
+        {
+          "text": "That's wrong",
+          "importance": "incidental",
+          "reason": "Broken acknowledgment immediately followed by approval.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 12,
+          "cleanedStart": 0,
+          "cleanedEnd": 12
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0630",
+          "prepared": "[u0630 | 00:55:24.890-00:55:25.470 | Kenzo] Yeah.",
+          "cleaned": "[u0630 | 00:55:24.890-00:55:25.470 | Kenzo] Yeah."
+        },
+        {
+          "uid": "u0631",
+          "prepared": "[u0631 | 00:55:26.070-00:55:26.690 | Delwath] Right?",
+          "cleaned": "[u0631 | 00:55:26.070-00:55:26.690 | Delwath] Right?"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0633",
+          "prepared": "[u0633 | 00:55:29.860-00:55:37.809 | Wellby] Yeah, and for that matter, if we can animal shape, like, a hundred other people that we pack in at the same time, like, why don't a flock of us fly there?",
+          "cleaned": "[u0633 | 00:55:29.860-00:55:37.809 | Wellby] Yeah, and for that matter, if we can animal shape, like, a hundred other people that we pack in at the same time, like, why don't a flock of us fly there?"
+        },
+        {
+          "uid": "u0634",
+          "prepared": "[u0634 | 00:55:38.110-00:55:39.170 | Delwath] We can't teleport.",
+          "cleaned": "[u0634 | 00:55:38.110-00:55:39.170 | Delwath] We can't teleport."
+        }
+      ]
+    },
+    {
+      "uid": "u0651",
+      "header": "[u0651 | 00:56:48.250-00:56:48.940 | Kenzo]",
+      "preparedText": "Nami.",
+      "cleanedText": "Nami.",
+      "spans": [
+        {
+          "text": "Nami.",
+          "importance": "incidental",
+          "reason": "Clipped echo of tsunami.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 5,
+          "cleanedStart": 0,
+          "cleanedEnd": 5
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0649",
+          "prepared": "[u0649 | 00:56:40.880-00:56:44.910 | Wellby] But if it's a tsunami that we're hitting with, we're a mile away, right?",
+          "cleaned": "[u0649 | 00:56:40.880-00:56:44.910 | Wellby] But if it's a tsunami that we're hitting with, we're a mile away, right?"
+        },
+        {
+          "uid": "u0650",
+          "prepared": "[u0650 | 00:56:44.910-00:56:48.250 | Delwath] Yeah, the tsunami bit is not a big deal. We're a mile away.",
+          "cleaned": "[u0650 | 00:56:44.910-00:56:48.250 | Delwath] Yeah, the tsunami bit is not a big deal. We're a mile away."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0652",
+          "prepared": "[u0652 | 00:56:48.940-00:56:51.080 | Delwath] Why don't we just start with the tsunami, right?",
+          "cleaned": "[u0652 | 00:56:48.940-00:56:51.080 | Delwath] Why don't we just start with the tsunami, right?"
+        },
+        {
+          "uid": "u0653",
+          "prepared": "[u0653 | 00:56:51.080-00:56:57.659 | Kenzo] We'll start with that one, and then we'll get a feel for their reaction, and learn a little bit more about how it'll go for day one, because we're going to do, like, five of these, right?",
+          "cleaned": "[u0653 | 00:56:51.080-00:56:57.659 | Kenzo] We'll start with that one, and then we'll get a feel for their reaction, and learn a little bit more about how it'll go for day one, because we're going to do, like, five of these, right?"
+        }
+      ]
+    },
+    {
+      "uid": "u0671",
+      "header": "[u0671 | 00:57:40.660-00:57:41.469 | DM]",
+      "preparedText": "Thank you for yourself.",
+      "cleanedText": "Thank you for yourself.",
+      "spans": [
+        {
+          "text": "Thank you for yourself.",
+          "importance": "incidental",
+          "reason": "Unclear table banter.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 23,
+          "cleanedStart": 0,
+          "cleanedEnd": 23
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0669",
+          "prepared": "[u0669 | 00:57:30.880-00:57:35.949 | Kenzo] Yeah, like, Rizmin saved the orcs, you're, like, single-handedly, like, destroying the hot goblins right now, so…",
+          "cleaned": "[u0669 | 00:57:30.880-00:57:35.949 | Kenzo] Yeah, like, Riswynn saved the orcs, you're, like, single-handedly, like, destroying the hobgoblins right now, so…"
+        },
+        {
+          "uid": "u0670",
+          "prepared": "[u0670 | 00:57:35.950-00:57:40.660 | Seeker] I mean, it's… it's a single tsunami, we'll see what happens, but thank you.",
+          "cleaned": "[u0670 | 00:57:35.950-00:57:40.660 | Seeker] I mean, it's… it's a single tsunami, we'll see what happens, but thank you."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0672",
+          "prepared": "[u0672 | 00:57:41.470-00:57:42.949 | Kenzo] Today, load of confidence.",
+          "cleaned": "[u0672 | 00:57:41.470-00:57:42.949 | Kenzo] Today, load of confidence."
+        },
+        {
+          "uid": "u0673",
+          "prepared": "[u0673 | 00:57:42.950-00:57:45.940 | DM] Do you have any other questions for, Revaca?",
+          "cleaned": "[u0673 | 00:57:42.950-00:57:45.940 | DM] Do you have any other questions for, Revaka?"
+        }
+      ]
+    },
+    {
+      "uid": "u0672",
+      "header": "[u0672 | 00:57:41.470-00:57:42.949 | Kenzo]",
+      "preparedText": "Today, load of confidence.",
+      "cleanedText": "Today, load of confidence.",
+      "spans": [
+        {
+          "text": "Today, load of confidence.",
+          "importance": "incidental",
+          "reason": "Unclear table banter responding to thanks; guessed correction withdrawn.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 26,
+          "cleanedStart": 0,
+          "cleanedEnd": 26
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0670",
+          "prepared": "[u0670 | 00:57:35.950-00:57:40.660 | Seeker] I mean, it's… it's a single tsunami, we'll see what happens, but thank you.",
+          "cleaned": "[u0670 | 00:57:35.950-00:57:40.660 | Seeker] I mean, it's… it's a single tsunami, we'll see what happens, but thank you."
+        },
+        {
+          "uid": "u0671",
+          "prepared": "[u0671 | 00:57:40.660-00:57:41.469 | DM] Thank you for yourself.",
+          "cleaned": "[u0671 | 00:57:40.660-00:57:41.469 | DM] Thank you for yourself."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0673",
+          "prepared": "[u0673 | 00:57:42.950-00:57:45.940 | DM] Do you have any other questions for, Revaca?",
+          "cleaned": "[u0673 | 00:57:42.950-00:57:45.940 | DM] Do you have any other questions for, Revaka?"
+        },
+        {
+          "uid": "u0674",
+          "prepared": "[u0674 | 00:57:45.940-00:57:47.299 | Delwath] Well, did she answer our question?",
+          "cleaned": "[u0674 | 00:57:45.940-00:57:47.299 | Delwath] Well, did she answer our question?"
+        }
+      ]
+    },
+    {
+      "uid": "u0737",
+      "header": "[u0737 | 01:02:43.850-01:02:44.670 | Audio shared by Tim Sackton]",
+      "preparedText": "Wes?",
+      "cleanedText": "Wes?",
+      "spans": [
+        {
+          "text": "Wes?",
+          "importance": "incidental",
+          "reason": "Short interruption.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 4,
+          "cleanedStart": 0,
+          "cleanedEnd": 4
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0735",
+          "prepared": "[u0735 | 01:02:35.660-01:02:36.330 | DM] Right.",
+          "cleaned": "[u0735 | 01:02:35.660-01:02:36.330 | DM] Right."
+        },
+        {
+          "uid": "u0736",
+          "prepared": "[u0736 | 01:02:36.330-01:02:43.849 | Delwath] okay, but let's, so, I think…",
+          "cleaned": "[u0736 | 01:02:36.330-01:02:43.849 | Delwath] okay, but let's, so, I think…"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0738",
+          "prepared": "[u0738 | 01:02:44.670-01:02:46.639 | Delwath] Let's ask for some volunteers.",
+          "cleaned": "[u0738 | 01:02:44.670-01:02:46.639 | Delwath] Let's ask for some volunteers."
+        },
+        {
+          "uid": "u0739",
+          "prepared": "[u0739 | 01:02:47.210-01:02:48.200 | Delwath] Right.",
+          "cleaned": "[u0739 | 01:02:47.210-01:02:48.200 | Delwath] Right."
+        }
+      ]
+    },
+    {
+      "uid": "u0764",
+      "header": "[u0764 | 01:04:57.090-01:04:59.020 | DM]",
+      "preparedText": "Yeah, our press… our.",
+      "cleanedText": "Yeah, our press… our.",
+      "spans": [
+        {
+          "text": "our press… our.",
+          "importance": "incidental",
+          "reason": "Aborted aside before spell identification.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 6,
+          "preparedEnd": 21,
+          "cleanedStart": 6,
+          "cleanedEnd": 21
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0762",
+          "prepared": "[u0762 | 01:04:42.130-01:04:54.380 | Kenzo] well, we can all fly, you know? Let's just… let's just literally… I mean, the only thing is, is there a way… like, what's… what's, like, the magic version of, like, a, like, a megaphone? That's actually all we need. We don't even need… like, the fact that we're flying is already kind of interesting.",
+          "cleaned": "[u0762 | 01:04:42.130-01:04:54.380 | Kenzo] well, we can all fly, you know? Let's just… let's just literally… I mean, the only thing is, is there a way… like, what's… what's, like, the magic version of, like, a, like, a megaphone? That's actually all we need. We don't even need… like, the fact that we're flying is already kind of interesting."
+        },
+        {
+          "uid": "u0763",
+          "prepared": "[u0763 | 01:04:54.380-01:04:57.090 | Delwath] Minor Illusion will do a Megaphone. I can cast Megaphone.",
+          "cleaned": "[u0763 | 01:04:54.380-01:04:57.090 | Delwath] Minor Illusion will do a Megaphone. I can cast Megaphone."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0765",
+          "prepared": "[u0765 | 01:04:59.020-01:05:00.610 | Delwath] Sorry, it's minor illusions.",
+          "cleaned": "[u0765 | 01:04:59.020-01:05:00.610 | Delwath] Sorry, it's minor illusions."
+        },
+        {
+          "uid": "u0766",
+          "prepared": "[u0766 | 01:05:00.610-01:05:02.280 | DM] Kenzo's thing.",
+          "cleaned": "[u0766 | 01:05:00.610-01:05:02.280 | DM] Kenzo's thing."
+        }
+      ]
+    },
+    {
+      "uid": "u0783",
+      "header": "[u0783 | 01:06:22.460-01:06:22.900 | Kenzo]",
+      "preparedText": "Spy.",
+      "cleanedText": "Spy.",
+      "spans": [
+        {
+          "text": "Spy.",
+          "importance": "incidental",
+          "reason": "Short interjection.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 4,
+          "cleanedStart": 0,
+          "cleanedEnd": 4
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0781",
+          "prepared": "[u0781 | 01:06:19.390-01:06:20.010 | Kenzo] Yeah.",
+          "cleaned": "[u0781 | 01:06:19.390-01:06:20.010 | Kenzo] Yeah."
+        },
+        {
+          "uid": "u0782",
+          "prepared": "[u0782 | 01:06:20.010-01:06:21.669 | Delwath] Right? We won't be invisible.",
+          "cleaned": "[u0782 | 01:06:20.010-01:06:21.669 | Delwath] Right? We won't be invisible."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0784",
+          "prepared": "[u0784 | 01:06:23.950-01:06:35.200 | Delwath] Then, maybe when we're 500 feet away, we cast tsunami, right? Or 1,000 feet away, we cast tsunami. And then after the tsunami goes through, we do a booming voice to say.",
+          "cleaned": "[u0784 | 01:06:23.950-01:06:35.200 | Delwath] Then, maybe when we're 500 feet away, we cast tsunami, right? Or 1,000 feet away, we cast tsunami. And then after the tsunami goes through, we do a booming voice to say."
+        },
+        {
+          "uid": "u0785",
+          "prepared": "[u0785 | 01:06:35.320-01:06:39.660 | Delwath] That was punishment, you know, for following the false god.",
+          "cleaned": "[u0785 | 01:06:35.320-01:06:39.660 | Delwath] That was punishment, you know, for following the false god."
+        }
+      ]
+    },
+    {
+      "uid": "u0796",
+      "header": "[u0796 | 01:07:15.090-01:07:16.080 | Kenzo]",
+      "preparedText": "on its hotel.",
+      "cleanedText": "[[on its hotel.]]",
+      "spans": [
+        {
+          "text": "on its hotel.",
+          "importance": "incidental",
+          "reason": "Overlapping fragment; Wellby immediately restates the complete attack proposal and Kenzo agrees.",
+          "question": "What was the overlapping fragment?",
+          "marked": true,
+          "preparedStart": 0,
+          "preparedEnd": 13,
+          "cleanedStart": 2,
+          "cleanedEnd": 15
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0794",
+          "prepared": "[u0794 | 01:07:13.450-01:07:13.939 | Delwath] That stuff like that.",
+          "cleaned": "[u0794 | 01:07:13.450-01:07:13.939 | Delwath] That stuff like that."
+        },
+        {
+          "uid": "u0795",
+          "prepared": "[u0795 | 01:07:14.410-01:07:15.089 | Wellby] Do we want to attack?",
+          "cleaned": "[u0795 | 01:07:14.410-01:07:15.089 | Wellby] Do we want to attack?"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0797",
+          "prepared": "[u0797 | 01:07:16.080-01:07:20.670 | Wellby] Do we want to attack her in the process, too? Like, I can shoot her from 300 or 400 feet away.",
+          "cleaned": "[u0797 | 01:07:16.080-01:07:20.670 | Wellby] Do we want to attack her in the process, too? Like, I can shoot her from 300 or 400 feet away."
+        },
+        {
+          "uid": "u0798",
+          "prepared": "[u0798 | 01:07:21.500-01:07:22.520 | Kenzo] Yeah, why not?",
+          "cleaned": "[u0798 | 01:07:21.500-01:07:22.520 | Kenzo] Yeah, why not?"
+        }
+      ]
+    },
+    {
+      "uid": "u0827",
+      "header": "[u0827 | 01:09:10.240-01:09:10.920 | Audio shared by Tim Sackton]",
+      "preparedText": "trash, yeah.",
+      "cleanedText": "trash, yeah.",
+      "spans": [
+        {
+          "text": "trash",
+          "importance": "incidental",
+          "reason": "Clipped table overlap following rest discussion.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 5,
+          "cleanedStart": 0,
+          "cleanedEnd": 5
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0825",
+          "prepared": "[u0825 | 01:09:03.510-01:09:07.480 | DM] I mean, if you're… if you're a mile or two away, you know, it's not gonna make…",
+          "cleaned": "[u0825 | 01:09:03.510-01:09:07.480 | DM] I mean, if you're… if you're a mile or two away, you know, it's not gonna make…"
+        },
+        {
+          "uid": "u0826",
+          "prepared": "[u0826 | 01:09:07.660-01:09:10.239 | DM] You don't have to hide from them, by the way.",
+          "cleaned": "[u0826 | 01:09:07.660-01:09:10.239 | DM] You don't have to hide from them, by the way."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0828",
+          "prepared": "[u0828 | 01:09:12.560-01:09:14.060 | DM] So you wait.",
+          "cleaned": "[u0828 | 01:09:12.560-01:09:14.060 | DM] So you wait."
+        },
+        {
+          "uid": "u0829",
+          "prepared": "[u0829 | 01:09:14.060-01:09:15.960 | Kenzo] Why don't we want to attack them while they're at camp?",
+          "cleaned": "[u0829 | 01:09:14.060-01:09:15.960 | Kenzo] Why don't we want to attack them while they're at camp?"
+        }
+      ]
+    },
+    {
+      "uid": "u0888",
+      "header": "[u0888 | 01:13:14.590-01:13:15.389 | DM]",
+      "preparedText": "Can't catch that.",
+      "cleanedText": "[[Can't catch that.]]",
+      "spans": [
+        {
+          "text": "Can't catch that.",
+          "importance": "incidental",
+          "reason": "Clipped continuation; the verbal-component restriction is explicit in u0881 and u0887.",
+          "question": "What was the clipped continuation?",
+          "marked": true,
+          "preparedStart": 0,
+          "preparedEnd": 17,
+          "cleanedStart": 2,
+          "cleanedEnd": 19
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0886",
+          "prepared": "[u0886 | 01:12:59.990-01:13:03.800 | Delwath] Although smite isn't a spell, it doesn't have a verbal component.",
+          "cleaned": "[u0886 | 01:12:59.990-01:13:03.800 | Delwath] Although smite isn't a spell, it doesn't have a verbal component."
+        },
+        {
+          "uid": "u0887",
+          "prepared": "[u0887 | 01:13:06.280-01:13:14.110 | DM] Yeah, any spell that just has… that has… does not have a verbal… anything you have to do that doesn't have a verbal component, it doesn't matter. You just…",
+          "cleaned": "[u0887 | 01:13:06.280-01:13:14.110 | DM] Yeah, any spell that just has… that has… does not have a verbal… anything you have to do that doesn't have a verbal component, it doesn't matter. You just…"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0889",
+          "prepared": "[u0889 | 01:13:15.390-01:13:15.860 | Delwath] Yeah, absolutely.",
+          "cleaned": "[u0889 | 01:13:15.390-01:13:15.860 | Delwath] Yeah, absolutely."
+        },
+        {
+          "uid": "u0890",
+          "prepared": "[u0890 | 01:13:15.860-01:13:16.410 | DM] components.",
+          "cleaned": "[u0890 | 01:13:15.860-01:13:16.410 | DM] components."
+        }
+      ]
+    },
+    {
+      "uid": "u0971",
+      "header": "[u0971 | 01:19:17.790-01:19:19.440 | Kenzo]",
+      "preparedText": "I already saw… Right, Tim?",
+      "cleanedText": "[[I already saw]]… Right, Tim?",
+      "spans": [
+        {
+          "text": "I already saw",
+          "importance": "incidental",
+          "reason": "Broken initial action prompt; the soul-sight proposal is rejected for range and aura tracking is then explicitly chosen.",
+          "question": "What was the initial prompt?",
+          "marked": true,
+          "preparedStart": 0,
+          "preparedEnd": 13,
+          "cleanedStart": 2,
+          "cleanedEnd": 15
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u0969",
+          "prepared": "[u0969 | 01:19:01.350-01:19:08.269 | DM] Not running this in initiative, so what's everybody else doing this round? This is… this is round two, the way it's moving another 50 feet.",
+          "cleaned": "[u0969 | 01:19:01.350-01:19:08.269 | DM] Not running this in initiative, so what's everybody else doing this round? This is… this is round two, the wave's moving another 50 feet."
+        },
+        {
+          "uid": "u0970",
+          "prepared": "[u0970 | 01:19:09.360-01:19:13.580 | Seeker] I'm making a really big, like, sound with my mouth.",
+          "cleaned": "[u0970 | 01:19:09.360-01:19:13.580 | Seeker] I'm making a really big, like, sound with my mouth."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u0972",
+          "prepared": "[u0972 | 01:19:19.930-01:19:20.370 | Delwath] Yeah.",
+          "cleaned": "[u0972 | 01:19:19.930-01:19:20.370 | Delwath] Yeah."
+        },
+        {
+          "uid": "u0973",
+          "prepared": "[u0973 | 01:19:20.370-01:19:21.490 | DM] Yup.",
+          "cleaned": "[u0973 | 01:19:20.370-01:19:21.490 | DM] Yup."
+        }
+      ]
+    },
+    {
+      "uid": "u1040",
+      "header": "[u1040 | 01:24:09.850-01:24:14.680 | DM]",
+      "preparedText": "Well, just assume everybody else is… it's well be her, everybody else. Your order does.",
+      "cleanedText": "Well, just assume everybody else is… it's Wellby, her, everybody else. Your order does.",
+      "spans": [
+        {
+          "text": "Your order does.",
+          "importance": "incidental",
+          "reason": "Interrupted initiative-order aside; later rolls settle order.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 71,
+          "preparedEnd": 87,
+          "cleanedStart": 71,
+          "cleanedEnd": 87
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1038",
+          "prepared": "[u1038 | 01:24:03.260-01:24:06.250 | Delwath] We're all at 18, so it's a 20 altogether.",
+          "cleaned": "[u1038 | 01:24:03.260-01:24:06.250 | Delwath] I rolled an 18, so it's a 20 altogether."
+        },
+        {
+          "uid": "u1039",
+          "prepared": "[u1039 | 01:24:08.370-01:24:09.849 | Seeker] Big Five over here.",
+          "cleaned": "[u1039 | 01:24:08.370-01:24:09.849 | Seeker] Big Five over here."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1041",
+          "prepared": "[u1041 | 01:24:14.680-01:24:16.399 | Kenzo] Wait, wait, wait, no, no, no, no.",
+          "cleaned": "[u1041 | 01:24:14.680-01:24:16.399 | Kenzo] Wait, wait, wait, no, no, no, no."
+        },
+        {
+          "uid": "u1042",
+          "prepared": "[u1042 | 01:24:16.400-01:24:17.050 | DM] Oh, maybe…",
+          "cleaned": "[u1042 | 01:24:16.400-01:24:17.050 | DM] Oh, maybe…"
+        }
+      ]
+    },
+    {
+      "uid": "u1107",
+      "header": "[u1107 | 01:29:04.390-01:29:07.350 | Delwath]",
+      "preparedText": "Yeah, it's good. Do I have a flash daylight?",
+      "cleanedText": "Yeah, it's good. Do I have a flash daylight?",
+      "spans": [
+        {
+          "text": "Do I have a flash daylight?",
+          "importance": "incidental",
+          "reason": "Unclear spell suggestion; Daylight is clearly chosen afterward.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 17,
+          "preparedEnd": 44,
+          "cleanedStart": 17,
+          "cleanedEnd": 44
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1105",
+          "prepared": "[u1105 | 01:29:01.800-01:29:02.360 | Delwath] Ow.",
+          "cleaned": "[u1105 | 01:29:01.800-01:29:02.360 | Delwath] Ow."
+        },
+        {
+          "uid": "u1106",
+          "prepared": "[u1106 | 01:29:03.350-01:29:04.389 | Kenzo] Yeah, that's good.",
+          "cleaned": "[u1106 | 01:29:03.350-01:29:04.389 | Kenzo] Yeah, that's good."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1108",
+          "prepared": "[u1108 | 01:29:07.870-01:29:09.130 | Seeker] Do you have…",
+          "cleaned": "[u1108 | 01:29:07.870-01:29:09.130 | Seeker] Do you have…"
+        },
+        {
+          "uid": "u1109",
+          "prepared": "[u1109 | 01:29:11.410-01:29:13.820 | Delwath] Does it take an action? Did you already use… you didn't use…",
+          "cleaned": "[u1109 | 01:29:11.410-01:29:13.820 | Delwath] Does it take an action? Did you already use… you didn't use…"
+        }
+      ]
+    },
+    {
+      "uid": "u1123",
+      "header": "[u1123 | 01:30:03.320-01:30:03.760 | Delwath]",
+      "preparedText": "thousands.",
+      "cleanedText": "thousands.",
+      "spans": [
+        {
+          "text": "thousands.",
+          "importance": "incidental",
+          "reason": "Short clipped fragment before speech joke.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 10,
+          "cleanedStart": 0,
+          "cleanedEnd": 10
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1121",
+          "prepared": "[u1121 | 01:29:54.590-01:29:57.799 | Delwath] Ravka's feedback as well, right? Right, yeah.",
+          "cleaned": "[u1121 | 01:29:54.590-01:29:57.799 | Delwath] Revaka's feedback as well, right? Right, yeah."
+        },
+        {
+          "uid": "u1122",
+          "prepared": "[u1122 | 01:29:57.930-01:30:03.160 | Delwath] So, try and really make the speech good. From that perspective.",
+          "cleaned": "[u1122 | 01:29:57.930-01:30:03.160 | Delwath] So, try and really make the speech good. From that perspective."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1124",
+          "prepared": "[u1124 | 01:30:03.760-01:30:07.590 | Kenzo] Probably gonna be 5 words. Blood. Wound. Orb.",
+          "cleaned": "[u1124 | 01:30:03.760-01:30:07.590 | Kenzo] Probably gonna be 5 words. Blood. Wound. Orb."
+        },
+        {
+          "uid": "u1125",
+          "prepared": "[u1125 | 01:30:08.900-01:30:15.059 | DM] As you're making the speech, the tsunami now crashes. It goes for 6… 6 strands total? Correct.",
+          "cleaned": "[u1125 | 01:30:08.900-01:30:15.059 | DM] As you're making the speech, the tsunami now crashes. It goes for 6… 6 rounds total? Correct."
+        }
+      ]
+    },
+    {
+      "uid": "u1163",
+      "header": "[u1163 | 01:32:06.850-01:32:10.070 | DM]",
+      "preparedText": "Yeah, it actually makes so, for sure, but I think that makes the most sense.",
+      "cleanedText": "Yeah, it actually makes so, for sure, but I think that makes the most sense.",
+      "spans": [
+        {
+          "text": "it actually makes so, for sure",
+          "importance": "incidental",
+          "reason": "Unclear rules aside; final ruling is clear in following turns.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 6,
+          "preparedEnd": 36,
+          "cleanedStart": 6,
+          "cleanedEnd": 36
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1161",
+          "prepared": "[u1161 | 01:31:57.480-01:32:04.430 | DM] Bardic doesn't add to glibness. If your Bardic plus your D20 is less than 15, it becomes a 15.",
+          "cleaned": "[u1161 | 01:31:57.480-01:32:04.430 | DM] Bardic doesn't add to glibness. If your Bardic plus your D20 is less than 15, it becomes a 15."
+        },
+        {
+          "uid": "u1162",
+          "prepared": "[u1162 | 01:32:05.240-01:32:06.709 | DM] I, I assume.",
+          "cleaned": "[u1162 | 01:32:05.240-01:32:06.709 | DM] I, I assume."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1164",
+          "prepared": "[u1164 | 01:32:10.070-01:32:12.419 | Delwath] No, that does make sense, right?",
+          "cleaned": "[u1164 | 01:32:10.070-01:32:12.419 | Delwath] No, that does make sense, right?"
+        },
+        {
+          "uid": "u1165",
+          "prepared": "[u1165 | 01:32:14.130-01:32:17.560 | Delwath] And now, you can replace the number you roll with a 15.",
+          "cleaned": "[u1165 | 01:32:14.130-01:32:17.560 | Delwath] And now, you can replace the number you roll with a 15."
+        }
+      ]
+    },
+    {
+      "uid": "u1209",
+      "header": "[u1209 | 01:34:36.630-01:34:38.030 | DM]",
+      "preparedText": "Yeah, of course they can win.",
+      "cleanedText": "Yeah, of course they can win.",
+      "spans": [
+        {
+          "text": "of course they can win",
+          "importance": "incidental",
+          "reason": "Unclear table banter about pebbles.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 6,
+          "preparedEnd": 28,
+          "cleanedStart": 6,
+          "cleanedEnd": 28
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1207",
+          "prepared": "[u1207 | 01:34:29.580-01:34:30.240 | Kenzo] Oh my god.",
+          "cleaned": "[u1207 | 01:34:29.580-01:34:30.240 | Kenzo] Oh my god."
+        },
+        {
+          "uid": "u1208",
+          "prepared": "[u1208 | 01:34:33.840-01:34:36.590 | Kenzo] Yeah, Seeger keeps them all in the same bag.",
+          "cleaned": "[u1208 | 01:34:33.840-01:34:36.590 | Kenzo] Yeah, Seeker keeps them all in the same bag."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1210",
+          "prepared": "[u1210 | 01:34:38.350-01:34:42.489 | Delwath] You can tell the difference between different stones, though. Seeker knows the stones well.",
+          "cleaned": "[u1210 | 01:34:38.350-01:34:42.489 | Delwath] You can tell the difference between different stones, though. Seeker knows the stones well."
+        },
+        {
+          "uid": "u1211",
+          "prepared": "[u1211 | 01:34:43.020-01:34:43.700 | Kenzo] Yeah.",
+          "cleaned": "[u1211 | 01:34:43.020-01:34:43.700 | Kenzo] Yeah."
+        }
+      ]
+    },
+    {
+      "uid": "u1264",
+      "header": "[u1264 | 01:37:51.610-01:37:52.620 | Kenzo]",
+      "preparedText": "No wish.",
+      "cleanedText": "No wish.",
+      "spans": [
+        {
+          "text": "No wish.",
+          "importance": "incidental",
+          "reason": "Brief unclear congratulatory aside.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 8,
+          "cleanedStart": 0,
+          "cleanedEnd": 8
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1262",
+          "prepared": "[u1262 | 01:37:49.920-01:37:50.520 | Wellby] Wow.",
+          "cleaned": "[u1262 | 01:37:49.920-01:37:50.520 | Wellby] Wow."
+        },
+        {
+          "uid": "u1263",
+          "prepared": "[u1263 | 01:37:50.520-01:37:51.439 | Kenzo] Go seeker!",
+          "cleaned": "[u1263 | 01:37:50.520-01:37:51.439 | Kenzo] Go Seeker!"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1265",
+          "prepared": "[u1265 | 01:37:53.380-01:37:54.040 | Seeker] Easy.",
+          "cleaned": "[u1265 | 01:37:53.380-01:37:54.040 | Seeker] Easy."
+        },
+        {
+          "uid": "u1266",
+          "prepared": "[u1266 | 01:37:54.700-01:37:57.620 | Kenzo] Wow. You just killed a thousand hobgoblins, that's pretty crazy.",
+          "cleaned": "[u1266 | 01:37:54.700-01:37:57.620 | Kenzo] Wow. You just killed a thousand hobgoblins, that's pretty crazy."
+        }
+      ]
+    },
+    {
+      "uid": "u1309",
+      "header": "[u1309 | 01:40:29.120-01:40:35.980 | DM]",
+      "preparedText": "her sleeping. You've tried this before, and you stayed up all night, and as far as you're aware, she never sleeps.",
+      "cleanedText": "her sleeping. You've tried this before, and you stayed up all night, and as far as you're aware, she never sleeps.",
+      "spans": [
+        {
+          "text": "her sleeping",
+          "importance": "incidental",
+          "reason": "Clipped opening; same line clearly restates previous failed Dream attempt.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 12,
+          "cleanedStart": 0,
+          "cleanedEnd": 12
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1307",
+          "prepared": "[u1307 | 01:40:23.980-01:40:27.660 | DM] So, in the past, you have…",
+          "cleaned": "[u1307 | 01:40:23.980-01:40:27.660 | DM] So, in the past, you have…"
+        },
+        {
+          "uid": "u1308",
+          "prepared": "[u1308 | 01:40:28.690-01:40:29.120 | Delwath] That was weird.",
+          "cleaned": "[u1308 | 01:40:28.690-01:40:29.120 | Delwath] That was weird."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1310",
+          "prepared": "[u1310 | 01:40:35.980-01:40:37.939 | Delwath] Yeah, yeah, yeah, yeah, nevermind.",
+          "cleaned": "[u1310 | 01:40:35.980-01:40:37.939 | Delwath] Yeah, yeah, yeah, yeah, nevermind."
+        },
+        {
+          "uid": "u1311",
+          "prepared": "[u1311 | 01:40:38.800-01:40:41.960 | Kenzo] Why is she never sleeping? She's, like, she's not undead, right?",
+          "cleaned": "[u1311 | 01:40:38.800-01:40:41.960 | Kenzo] Why is she never sleeping? She's, like, she's not undead, right?"
+        }
+      ]
+    },
+    {
+      "uid": "u1333",
+      "header": "[u1333 | 01:42:19.780-01:42:33.640 | DM]",
+      "preparedText": "Do you, Seeker does, like, some kind of… like, can you do, like, Arcana, like, on that? Like, what the hell is this thing? This is… Yeah, you try… I mean, you try. The Chaos Medal is nothing anybody's heard of, although I guess Seeker is quite, I mean, intra… like…",
+      "cleanedText": "Do you, Seeker does, like, some kind of… like, can you do, like, Arcana, like, on that? Like, what the hell is this thing? This is… Yeah, you try… I mean, you try. The Chaos Metal is nothing anybody's heard of, although I guess Seeker is quite, I mean, intra… like…",
+      "spans": [
+        {
+          "text": "intra…",
+          "importance": "incidental",
+          "reason": "Aborted thought before speculation about Chaos Metal.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 253,
+          "preparedEnd": 259,
+          "cleanedStart": 253,
+          "cleanedEnd": 259
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1331",
+          "prepared": "[u1331 | 01:42:14.970-01:42:17.599 | DM] Oh, yeah, yeah, yeah, it's deeply magic.",
+          "cleaned": "[u1331 | 01:42:14.970-01:42:17.599 | DM] Oh, yeah, yeah, yeah, it's deeply magic."
+        },
+        {
+          "uid": "u1332",
+          "prepared": "[u1332 | 01:42:17.790-01:42:18.420 | Kenzo] Cool.",
+          "cleaned": "[u1332 | 01:42:17.790-01:42:18.420 | Kenzo] Cool."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1334",
+          "prepared": "[u1334 | 01:42:33.840-01:42:36.970 | DM] Maybe Seeker should… parasitically bond to.",
+          "cleaned": "[u1334 | 01:42:33.840-01:42:36.970 | DM] Maybe Seeker should… parasitically bond to."
+        },
+        {
+          "uid": "u1335",
+          "prepared": "[u1335 | 01:42:37.110-01:42:37.970 | DM] Some chaos.",
+          "cleaned": "[u1335 | 01:42:37.110-01:42:37.970 | DM] Some chaos."
+        }
+      ]
+    },
+    {
+      "uid": "u1341",
+      "header": "[u1341 | 01:43:01.020-01:43:05.590 | Kenzo]",
+      "preparedText": "I mean… I don't think that's powerful to be the archenemy of the next campaign.",
+      "cleanedText": "I mean… I don't think that's powerful to be the archenemy of the next campaign.",
+      "spans": [
+        {
+          "text": "powerful",
+          "importance": "incidental",
+          "reason": "Unclear word in speculative epilogue banter.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 29,
+          "preparedEnd": 37,
+          "cleanedStart": 29,
+          "cleanedEnd": 37
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1339",
+          "prepared": "[u1339 | 01:42:48.420-01:42:54.849 | Kenzo] Yeah, no, no, no, no. Actually, actually, this would truly be the ultimate for Seeker to be the villain of the next campaign.",
+          "cleaned": "[u1339 | 01:42:48.420-01:42:54.849 | Kenzo] Yeah, no, no, no, no. Actually, actually, this would truly be the ultimate for Seeker to be the villain of the next campaign."
+        },
+        {
+          "uid": "u1340",
+          "prepared": "[u1340 | 01:42:54.850-01:42:59.999 | DM] No, Caesar has to join the… isn't Seeger gonna join the Philosopher's Guild?",
+          "cleaned": "[u1340 | 01:42:54.850-01:42:59.999 | DM] No, Seeker has to join the… isn't Seeker gonna join the Philosopher's Guild?"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1342",
+          "prepared": "[u1342 | 01:43:06.530-01:43:12.790 | Kenzo] We talked about this, right? Where it's like, where it's like, you know, at some point, our character, like, shifts into being an NPC, and then, you know…",
+          "cleaned": "[u1342 | 01:43:06.530-01:43:12.790 | Kenzo] We talked about this, right? Where it's like, where it's like, you know, at some point, our character, like, shifts into being an NPC, and then, you know…"
+        },
+        {
+          "uid": "u1343",
+          "prepared": "[u1343 | 01:43:12.790-01:43:13.510 | Seeker] Right.",
+          "cleaned": "[u1343 | 01:43:12.790-01:43:13.510 | Seeker] Right."
+        }
+      ]
+    },
+    {
+      "uid": "u1396",
+      "header": "[u1396 | 01:46:28.990-01:46:29.359 | DM]",
+      "preparedText": "I have to do.",
+      "cleanedText": "I have to do.",
+      "spans": [
+        {
+          "text": "I have to do.",
+          "importance": "incidental",
+          "reason": "Clipped DM aside in movement-speed answer.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 13,
+          "cleanedStart": 0,
+          "cleanedEnd": 13
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1394",
+          "prepared": "[u1394 | 01:46:24.790-01:46:27.950 | DM] It's not super fast, it's moving, like… like…",
+          "cleaned": "[u1394 | 01:46:24.790-01:46:27.950 | DM] It's not super fast, it's moving, like… like…"
+        },
+        {
+          "uid": "u1395",
+          "prepared": "[u1395 | 01:46:28.200-01:46:28.990 | Wellby] Not fast enough.",
+          "cleaned": "[u1395 | 01:46:28.200-01:46:28.990 | Wellby] Not fast enough."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1397",
+          "prepared": "[u1397 | 01:46:29.360-01:46:32.579 | Wellby] If it hit a wall, it would… be a problem.",
+          "cleaned": "[u1397 | 01:46:29.360-01:46:32.579 | Wellby] If it hit a wall, it would… be a problem."
+        },
+        {
+          "uid": "u1398",
+          "prepared": "[u1398 | 01:46:33.110-01:46:40.389 | DM] You saw it climb straight up a wall. And it's moving at, like, 3 miles an hour, like, you're not at a…",
+          "cleaned": "[u1398 | 01:46:33.110-01:46:40.389 | DM] You saw it climb straight up a wall. And it's moving at, like, 3 miles an hour, like, you're not at a…"
+        }
+      ]
+    },
+    {
+      "uid": "u1412",
+      "header": "[u1412 | 01:47:52.430-01:47:52.990 | Delwath]",
+      "preparedText": "If they knew.",
+      "cleanedText": "If they knew.",
+      "spans": [
+        {
+          "text": "If they knew.",
+          "importance": "incidental",
+          "reason": "Broken conditional; next line supplies never stop for a whole day.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 13,
+          "cleanedStart": 0,
+          "cleanedEnd": 13
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1410",
+          "prepared": "[u1410 | 01:47:39.880-01:47:43.000 | Delwath] just see if they… I mean, we could be birds again, and…",
+          "cleaned": "[u1410 | 01:47:39.880-01:47:43.000 | Delwath] just see if they… I mean, we could be birds again, and…"
+        },
+        {
+          "uid": "u1411",
+          "prepared": "[u1411 | 01:47:44.180-01:47:49.369 | Delwath] Stay away, and see what happens, and see if they… stop at all.",
+          "cleaned": "[u1411 | 01:47:44.180-01:47:49.369 | Delwath] Stay away, and see what happens, and see if they… stop at all."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1413",
+          "prepared": "[u1413 | 01:47:52.990-01:47:54.790 | Audio shared by Tim Sackton] Never stop for a whole day.",
+          "cleaned": "[u1413 | 01:47:52.990-01:47:54.790 | Audio shared by Tim Sackton] Never stop for a whole day."
+        },
+        {
+          "uid": "u1414",
+          "prepared": "[u1414 | 01:47:55.500-01:47:56.610 | Delwath] then…",
+          "cleaned": "[u1414 | 01:47:55.500-01:47:56.610 | Delwath] then…"
+        }
+      ]
+    },
+    {
+      "uid": "u1488",
+      "header": "[u1488 | 01:54:14.350-01:54:15.700 | Seeker]",
+      "preparedText": "Work there, Lance.",
+      "cleanedText": "Work there, Lance.",
+      "spans": [
+        {
+          "text": "Work there, Lance.",
+          "importance": "incidental",
+          "reason": "Unclear suggestion; later clear Clairvoyance discussion covers plan.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 18,
+          "cleanedStart": 0,
+          "cleanedEnd": 18
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1486",
+          "prepared": "[u1486 | 01:54:06.230-01:54:09.549 | Wellby] What about trying to put a scrying sensor, like, in the middle of the camp?",
+          "cleaned": "[u1486 | 01:54:06.230-01:54:09.549 | Wellby] What about trying to put a scrying sensor, like, in the middle of the camp?"
+        },
+        {
+          "uid": "u1487",
+          "prepared": "[u1487 | 01:54:09.700-01:54:11.710 | Wellby] To see what the configuration is.",
+          "cleaned": "[u1487 | 01:54:09.700-01:54:11.710 | Wellby] To see what the configuration is."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1489",
+          "prepared": "[u1489 | 01:54:16.160-01:54:16.490 | Wellby] Bye.",
+          "cleaned": "[u1489 | 01:54:16.160-01:54:16.490 | Wellby] Bye."
+        },
+        {
+          "uid": "u1490",
+          "prepared": "[u1490 | 01:54:16.490-01:54:17.270 | Delwath] annoyance.",
+          "cleaned": "[u1490 | 01:54:16.490-01:54:17.270 | Delwath] annoyance."
+        }
+      ]
+    },
+    {
+      "uid": "u1490",
+      "header": "[u1490 | 01:54:16.490-01:54:17.270 | Delwath]",
+      "preparedText": "annoyance.",
+      "cleanedText": "annoyance.",
+      "spans": [
+        {
+          "text": "annoyance.",
+          "importance": "incidental",
+          "reason": "Clipped spell discussion overlap.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 10,
+          "cleanedStart": 0,
+          "cleanedEnd": 10
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1488",
+          "prepared": "[u1488 | 01:54:14.350-01:54:15.700 | Seeker] Work there, Lance.",
+          "cleaned": "[u1488 | 01:54:14.350-01:54:15.700 | Seeker] Work there, Lance."
+        },
+        {
+          "uid": "u1489",
+          "prepared": "[u1489 | 01:54:16.160-01:54:16.490 | Wellby] Bye.",
+          "cleaned": "[u1489 | 01:54:16.160-01:54:16.490 | Wellby] Bye."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1491",
+          "prepared": "[u1491 | 01:54:17.380-01:54:18.410 | Wellby] They're better.",
+          "cleaned": "[u1491 | 01:54:17.380-01:54:18.410 | Wellby] They're better."
+        },
+        {
+          "uid": "u1492",
+          "prepared": "[u1492 | 01:54:18.670-01:54:20.330 | DM] Brian, you couldn't.",
+          "cleaned": "[u1492 | 01:54:18.670-01:54:20.330 | DM] Scrying, you couldn't."
+        }
+      ]
+    },
+    {
+      "uid": "u1503",
+      "header": "[u1503 | 01:55:02.250-01:55:03.469 | Wellby]",
+      "preparedText": "You can see this out there.",
+      "cleanedText": "You can see this out there.",
+      "spans": [
+        {
+          "text": "You can see this out there.",
+          "importance": "incidental",
+          "reason": "Unclear table aside; concealment choice clear nearby.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 27,
+          "cleanedStart": 0,
+          "cleanedEnd": 27
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1501",
+          "prepared": "[u1501 | 01:54:55.370-01:54:57.729 | Delwath] Although, I could also cast Allucidary Terrain.",
+          "cleaned": "[u1501 | 01:54:55.370-01:54:57.729 | Delwath] Although, I could also cast Hallucinatory Terrain."
+        },
+        {
+          "uid": "u1502",
+          "prepared": "[u1502 | 01:54:58.550-01:55:00.560 | Delwath] Which gives us a good base.",
+          "cleaned": "[u1502 | 01:54:58.550-01:55:00.560 | Delwath] Which gives us a good base."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1504",
+          "prepared": "[u1504 | 01:55:03.750-01:55:04.340 | Delwath] Yeah.",
+          "cleaned": "[u1504 | 01:55:03.750-01:55:04.340 | Delwath] Yeah."
+        },
+        {
+          "uid": "u1505",
+          "prepared": "[u1505 | 01:55:04.840-01:55:05.350 | Wellby] Sure.",
+          "cleaned": "[u1505 | 01:55:04.840-01:55:05.350 | Wellby] Sure."
+        }
+      ]
+    },
+    {
+      "uid": "u1538",
+      "header": "[u1538 | 01:57:16.110-01:57:16.640 | Delwath]",
+      "preparedText": "More weather.",
+      "cleanedText": "More weather.",
+      "spans": [
+        {
+          "text": "More weather.",
+          "importance": "incidental",
+          "reason": "Short interrupted fragment during roof description.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 13,
+          "cleanedStart": 0,
+          "cleanedEnd": 13
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1536",
+          "prepared": "[u1536 | 01:57:02.140-01:57:06.400 | DM] No, no, no, no, it's… yeah, I mean… You can see…",
+          "cleaned": "[u1536 | 01:57:02.140-01:57:06.400 | DM] No, no, no, no, it's… yeah, I mean… You can see…"
+        },
+        {
+          "uid": "u1537",
+          "prepared": "[u1537 | 01:57:07.130-01:57:15.289 | DM] No, there's not, like, there's, like, maybe dappled light passing through, right? Like, it's not completely opaque to…",
+          "cleaned": "[u1537 | 01:57:07.130-01:57:15.289 | DM] No, there's not, like, there's, like, maybe dappled light passing through, right? Like, it's not completely opaque to…"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1539",
+          "prepared": "[u1539 | 01:57:16.640-01:57:17.800 | DM] Dark underneath.",
+          "cleaned": "[u1539 | 01:57:16.640-01:57:17.800 | DM] Dark underneath."
+        },
+        {
+          "uid": "u1540",
+          "prepared": "[u1540 | 01:57:17.930-01:57:19.270 | Delwath] Is it enough?",
+          "cleaned": "[u1540 | 01:57:17.930-01:57:19.270 | Delwath] Is it enough?"
+        }
+      ]
+    },
+    {
+      "uid": "u1548",
+      "header": "[u1548 | 01:58:00.980-01:58:01.520 | Wellby]",
+      "preparedText": "Sooner.",
+      "cleanedText": "Sooner.",
+      "spans": [
+        {
+          "text": "Sooner.",
+          "importance": "incidental",
+          "reason": "Short interrupted spell suggestion; Sunburst identified next line.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 7,
+          "cleanedStart": 0,
+          "cleanedEnd": 7
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1546",
+          "prepared": "[u1546 | 01:57:52.270-01:57:55.400 | DM] I guess it would provide at least 3 quarters cover.",
+          "cleaned": "[u1546 | 01:57:52.270-01:57:55.400 | DM] I guess it would provide at least 3 quarters cover."
+        },
+        {
+          "uid": "u1547",
+          "prepared": "[u1547 | 01:57:56.080-01:58:00.620 | Delwath] But, like, a lot of spells are, like, a point within range that you don't have to see.",
+          "cleaned": "[u1547 | 01:57:56.080-01:58:00.620 | Delwath] But, like, a lot of spells are, like, a point within range that you don't have to see."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1549",
+          "prepared": "[u1549 | 01:58:01.520-01:58:09.249 | Delwath] There's a point within range. Yeah, or, or, Sunburst, which is a 60-foot radius sphere, so it would be…",
+          "cleaned": "[u1549 | 01:58:01.520-01:58:09.249 | Delwath] There's a point within range. Yeah, or, or, Sunburst, which is a 60-foot radius sphere, so it would be…"
+        },
+        {
+          "uid": "u1550",
+          "prepared": "[u1550 | 01:58:09.510-01:58:11.429 | Delwath] Half of these people.",
+          "cleaned": "[u1550 | 01:58:09.510-01:58:11.429 | Delwath] Half of these people."
+        }
+      ]
+    },
+    {
+      "uid": "u1583",
+      "header": "[u1583 | 02:00:27.190-02:00:27.770 | DM]",
+      "preparedText": "100 feet.",
+      "cleanedText": "100 feet.",
+      "spans": [
+        {
+          "text": "100 feet.",
+          "importance": "incidental",
+          "reason": "Possible spoken slip in range; preserved because following turns explicitly correct to 500 feet before doubling.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 9,
+          "cleanedStart": 0,
+          "cleanedEnd": 9
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1581",
+          "prepared": "[u1581 | 02:00:14.970-02:00:23.340 | Delwath] I mean, we'd have to… we'd have to take a little risk and have some twi- have, I mean, have some of the Hobgoblins come towards us and stuff like that.",
+          "cleaned": "[u1581 | 02:00:14.970-02:00:23.340 | Delwath] I mean, we'd have to… we'd have to take a little risk and have some twi- have, I mean, have some of the Hobgoblins come towards us and stuff like that."
+        },
+        {
+          "uid": "u1582",
+          "prepared": "[u1582 | 02:00:24.420-02:00:25.709 | Delwath] What's the range of earthquake?",
+          "cleaned": "[u1582 | 02:00:24.420-02:00:25.709 | Delwath] What's the range of earthquake?"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1584",
+          "prepared": "[u1584 | 02:00:28.590-02:00:31.689 | Delwath] So you could… Seeker could double that to 1,000 feet.",
+          "cleaned": "[u1584 | 02:00:28.590-02:00:31.689 | Delwath] So you could… Seeker could double that to 1,000 feet."
+        },
+        {
+          "uid": "u1585",
+          "prepared": "[u1585 | 02:00:33.610-02:00:36.900 | Seeker] I can only double 3 times. Oh, oh.",
+          "cleaned": "[u1585 | 02:00:33.610-02:00:36.900 | Seeker] I can only double 3 times. Oh, oh."
+        }
+      ]
+    },
+    {
+      "uid": "u1594",
+      "header": "[u1594 | 02:00:58.860-02:01:02.689 | DM]",
+      "preparedText": "I like Earthlink. Nothing's ever gone wrong when Seeker's done anything, so…",
+      "cleanedText": "[[I like Earthlink.]] Nothing's ever gone wrong when Seeker's done anything, so…",
+      "spans": [
+        {
+          "text": "I like Earthlink.",
+          "importance": "incidental",
+          "reason": "Broken lead-in to a joke about Seeker risk; Earthquake is selected explicitly afterward.",
+          "question": "What was the joke lead-in?",
+          "marked": true,
+          "preparedStart": 0,
+          "preparedEnd": 17,
+          "cleanedStart": 2,
+          "cleanedEnd": 19
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1592",
+          "prepared": "[u1592 | 02:00:51.740-02:00:56.239 | DM] Right. The more you double, the higher the risk that something goes wrong.",
+          "cleaned": "[u1592 | 02:00:51.740-02:00:56.239 | DM] Right. The more you double, the higher the risk that something goes wrong."
+        },
+        {
+          "uid": "u1593",
+          "prepared": "[u1593 | 02:00:56.240-02:00:58.620 | Delwath] Yeah, yeah. But, but hold on, so…",
+          "cleaned": "[u1593 | 02:00:56.240-02:00:58.620 | Delwath] Yeah, yeah. But, but hold on, so…"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1595",
+          "prepared": "[u1595 | 02:01:02.690-02:01:06.170 | Delwath] I like Earthquake from a terrorizing standpoint, though.",
+          "cleaned": "[u1595 | 02:01:02.690-02:01:06.170 | Delwath] I like Earthquake from a terrorizing standpoint, though."
+        },
+        {
+          "uid": "u1596",
+          "prepared": "[u1596 | 02:01:06.350-02:01:07.230 | Delwath] Right?",
+          "cleaned": "[u1596 | 02:01:06.350-02:01:07.230 | Delwath] Right?"
+        }
+      ]
+    },
+    {
+      "uid": "u1599",
+      "header": "[u1599 | 02:01:11.730-02:01:12.370 | Wellby]",
+      "preparedText": "Heritage.",
+      "cleanedText": "Heritage.",
+      "spans": [
+        {
+          "text": "Heritage.",
+          "importance": "incidental",
+          "reason": "Clipped interruption in damage discussion.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 9,
+          "cleanedStart": 0,
+          "cleanedEnd": 9
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1597",
+          "prepared": "[u1597 | 02:01:07.930-02:01:10.610 | Wellby] Falling in fissure, I mean, depending on the depth of the fissure.",
+          "cleaned": "[u1597 | 02:01:07.930-02:01:10.610 | Wellby] Falling in fissure, I mean, depending on the depth of the fissure."
+        },
+        {
+          "uid": "u1598",
+          "prepared": "[u1598 | 02:01:10.610-02:01:11.729 | Delwath] Yeah, yeah, yeah.",
+          "cleaned": "[u1598 | 02:01:10.610-02:01:11.729 | Delwath] Yeah, yeah, yeah."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1600",
+          "prepared": "[u1600 | 02:01:12.370-02:01:21.779 | Delwath] You take some damage if you fall into fissures. If… the other thing is, if the structure shakes or collapses or partially breaks, it may make it easier to send another spell in.",
+          "cleaned": "[u1600 | 02:01:12.370-02:01:21.779 | Delwath] You take some damage if you fall into fissures. If… the other thing is, if the structure shakes or collapses or partially breaks, it may make it easier to send another spell in."
+        },
+        {
+          "uid": "u1601",
+          "prepared": "[u1601 | 02:01:22.430-02:01:23.210 | Delwath] Right?",
+          "cleaned": "[u1601 | 02:01:22.430-02:01:23.210 | Delwath] Right?"
+        }
+      ]
+    },
+    {
+      "uid": "u1611",
+      "header": "[u1611 | 02:02:05.430-02:02:05.910 | DM]",
+      "preparedText": "Debbie.",
+      "cleanedText": "Debbie.",
+      "spans": [
+        {
+          "text": "Debbie.",
+          "importance": "incidental",
+          "reason": "Short interruption; patrol size restated next line.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 7,
+          "cleanedStart": 0,
+          "cleanedEnd": 7
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1609",
+          "prepared": "[u1609 | 02:02:03.650-02:02:04.789 | DM] ash. Correct.",
+          "cleaned": "[u1609 | 02:02:03.650-02:02:04.789 | DM] ash. Correct."
+        },
+        {
+          "uid": "u1610",
+          "prepared": "[u1610 | 02:02:04.790-02:02:05.430 | Delwath] We just…",
+          "cleaned": "[u1610 | 02:02:04.790-02:02:05.430 | Delwath] We just…"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1612",
+          "prepared": "[u1612 | 02:02:06.570-02:02:12.160 | Delwath] It'd be 20… Tobgoblins, potentially. But we would be invisible, so…",
+          "cleaned": "[u1612 | 02:02:06.570-02:02:12.160 | Delwath] It'd be 20… hobgoblins, potentially. But we would be invisible, so…"
+        },
+        {
+          "uid": "u1613",
+          "prepared": "[u1613 | 02:02:12.430-02:02:14.609 | Delwath] Conceptually, maybe they wouldn't see us.",
+          "cleaned": "[u1613 | 02:02:12.430-02:02:14.609 | Delwath] Conceptually, maybe they wouldn't see us."
+        }
+      ]
+    },
+    {
+      "uid": "u1638",
+      "header": "[u1638 | 02:03:51.540-02:03:52.200 | Delwath]",
+      "preparedText": "phrase.",
+      "cleanedText": "phrase.",
+      "spans": [
+        {
+          "text": "phrase.",
+          "importance": "incidental",
+          "reason": "Clipped fragment in retreat discussion.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 7,
+          "cleanedStart": 0,
+          "cleanedEnd": 7
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1636",
+          "prepared": "[u1636 | 02:03:48.280-02:03:49.819 | Delwath] And then getting out of fear.",
+          "cleaned": "[u1636 | 02:03:48.280-02:03:49.819 | Delwath] And then getting out of here."
+        },
+        {
+          "uid": "u1637",
+          "prepared": "[u1637 | 02:03:50.160-02:03:50.830 | Seeker] Yes.",
+          "cleaned": "[u1637 | 02:03:50.160-02:03:50.830 | Seeker] Yes."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1639",
+          "prepared": "[u1639 | 02:03:55.870-02:03:56.360 | Kenzo] No speech?",
+          "cleaned": "[u1639 | 02:03:55.870-02:03:56.360 | Kenzo] No speech?"
+        },
+        {
+          "uid": "u1640",
+          "prepared": "[u1640 | 02:03:56.360-02:03:57.130 | Delwath] I'll bet.",
+          "cleaned": "[u1640 | 02:03:56.360-02:03:57.130 | Delwath] I'll bet."
+        }
+      ]
+    },
+    {
+      "uid": "u1640",
+      "header": "[u1640 | 02:03:56.360-02:03:57.130 | Delwath]",
+      "preparedText": "I'll bet.",
+      "cleanedText": "I'll bet.",
+      "spans": [
+        {
+          "text": "I'll bet.",
+          "importance": "incidental",
+          "reason": "Short unclear fragment; next line confirms another speech.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 9,
+          "cleanedStart": 0,
+          "cleanedEnd": 9
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1638",
+          "prepared": "[u1638 | 02:03:51.540-02:03:52.200 | Delwath] phrase.",
+          "cleaned": "[u1638 | 02:03:51.540-02:03:52.200 | Delwath] phrase."
+        },
+        {
+          "uid": "u1639",
+          "prepared": "[u1639 | 02:03:55.870-02:03:56.360 | Kenzo] No speech?",
+          "cleaned": "[u1639 | 02:03:55.870-02:03:56.360 | Kenzo] No speech?"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1641",
+          "prepared": "[u1641 | 02:03:57.330-02:03:58.739 | Delwath] No, no, no, with another speech.",
+          "cleaned": "[u1641 | 02:03:57.330-02:03:58.739 | Delwath] No, no, no, with another speech."
+        },
+        {
+          "uid": "u1642",
+          "prepared": "[u1642 | 02:03:58.740-02:03:59.879 | Kenzo] Oh yeah, okay, good.",
+          "cleaned": "[u1642 | 02:03:58.740-02:03:59.879 | Kenzo] Oh yeah, okay, good."
+        }
+      ]
+    },
+    {
+      "uid": "u1662",
+      "header": "[u1662 | 02:05:19.130-02:05:19.890 | Delwath]",
+      "preparedText": "Toshi.",
+      "cleanedText": "Toshi.",
+      "spans": [
+        {
+          "text": "Toshi.",
+          "importance": "incidental",
+          "reason": "Clipped interruption in challenge planning.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 6,
+          "cleanedStart": 0,
+          "cleanedEnd": 6
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1660",
+          "prepared": "[u1660 | 02:05:13.060-02:05:17.319 | Delwath] You know, until we defeat… blah blah blah, something like that, right?",
+          "cleaned": "[u1660 | 02:05:13.060-02:05:17.319 | Delwath] You know, until we defeat… blah blah blah, something like that, right?"
+        },
+        {
+          "uid": "u1661",
+          "prepared": "[u1661 | 02:05:17.570-02:05:18.300 | DM] She likes it.",
+          "cleaned": "[u1661 | 02:05:17.570-02:05:18.300 | DM] She likes it."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1663",
+          "prepared": "[u1663 | 02:05:19.950-02:05:23.120 | Kenzo] She has her minimal… courage to…",
+          "cleaned": "[u1663 | 02:05:19.950-02:05:23.120 | Kenzo] She has her minimal… courage to…"
+        },
+        {
+          "uid": "u1664",
+          "prepared": "[u1664 | 02:05:23.120-02:05:25.469 | Delwath] But, I mean, are we prepared to just, like, fight her tomorrow?",
+          "cleaned": "[u1664 | 02:05:23.120-02:05:25.469 | Delwath] But, I mean, are we prepared to just, like, fight her tomorrow?"
+        }
+      ]
+    },
+    {
+      "uid": "u1663",
+      "header": "[u1663 | 02:05:19.950-02:05:23.120 | Kenzo]",
+      "preparedText": "She has her minimal… courage to…",
+      "cleanedText": "She has her minimal… courage to…",
+      "spans": [
+        {
+          "text": "She has her minimal… courage to…",
+          "importance": "incidental",
+          "reason": "Unfinished taunt fragment; challenge clear around it.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 32,
+          "cleanedStart": 0,
+          "cleanedEnd": 32
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1661",
+          "prepared": "[u1661 | 02:05:17.570-02:05:18.300 | DM] She likes it.",
+          "cleaned": "[u1661 | 02:05:17.570-02:05:18.300 | DM] She likes it."
+        },
+        {
+          "uid": "u1662",
+          "prepared": "[u1662 | 02:05:19.130-02:05:19.890 | Delwath] Toshi.",
+          "cleaned": "[u1662 | 02:05:19.130-02:05:19.890 | Delwath] Toshi."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1664",
+          "prepared": "[u1664 | 02:05:23.120-02:05:25.469 | Delwath] But, I mean, are we prepared to just, like, fight her tomorrow?",
+          "cleaned": "[u1664 | 02:05:23.120-02:05:25.469 | Delwath] But, I mean, are we prepared to just, like, fight her tomorrow?"
+        },
+        {
+          "uid": "u1665",
+          "prepared": "[u1665 | 02:05:25.470-02:05:26.170 | Kenzo] Hell yeah.",
+          "cleaned": "[u1665 | 02:05:25.470-02:05:26.170 | Kenzo] Hell yeah."
+        }
+      ]
+    },
+    {
+      "uid": "u1752",
+      "header": "[u1752 | 02:11:25.190-02:11:26.630 | Seeker]",
+      "preparedText": "Yeah, seek.",
+      "cleanedText": "Yeah, seek.",
+      "spans": [
+        {
+          "text": "Yeah, seek.",
+          "importance": "incidental",
+          "reason": "Interrupted character joke.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 11,
+          "cleanedStart": 0,
+          "cleanedEnd": 11
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1750",
+          "prepared": "[u1750 | 02:11:15.790-02:11:16.580 | DM] Okay?",
+          "cleaned": "[u1750 | 02:11:15.790-02:11:16.580 | DM] Okay?"
+        },
+        {
+          "uid": "u1751",
+          "prepared": "[u1751 | 02:11:17.340-02:11:25.189 | Delwath] This time, Delwith carefully marked the right rock with a little star, and watches over Seeker's shoulder.",
+          "cleaned": "[u1751 | 02:11:17.340-02:11:25.189 | Delwath] This time, Delwath carefully marked the right rock with a little star, and watches over Seeker's shoulder."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1753",
+          "prepared": "[u1753 | 02:11:26.630-02:11:32.479 | Wellby] Seeker 100% does not look at it, though. Like, he's doing it by touch. He's like, oh, this feels like a…",
+          "cleaned": "[u1753 | 02:11:26.630-02:11:32.479 | Wellby] Seeker 100% does not look at it, though. Like, he's doing it by touch. He's like, oh, this feels like a…"
+        },
+        {
+          "uid": "u1754",
+          "prepared": "[u1754 | 02:11:34.370-02:11:36.740 | Seeker] Guys, I know, I know my rocks.",
+          "cleaned": "[u1754 | 02:11:34.370-02:11:36.740 | Seeker] Guys, I know, I know my rocks."
+        }
+      ]
+    },
+    {
+      "uid": "u1762",
+      "header": "[u1762 | 02:12:03.540-02:12:05.650 | Delwath]",
+      "preparedText": "There's… There's a theme from Baby.",
+      "cleanedText": "There's… There's a theme from Baby.",
+      "spans": [
+        {
+          "text": "There's a theme from Baby.",
+          "importance": "incidental",
+          "reason": "Unclear table joke about teleport rocks.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 9,
+          "preparedEnd": 35,
+          "cleanedStart": 9,
+          "cleanedEnd": 35
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1760",
+          "prepared": "[u1760 | 02:11:55.750-02:11:59.520 | Kenzo] Isn't there one, like, directly from the Plaguands? Like, right in the middle of, like, the…",
+          "cleaned": "[u1760 | 02:11:55.750-02:11:59.520 | Kenzo] Isn't there one, like, directly from the Plaguelands? Like, right in the middle of, like, the…"
+        },
+        {
+          "uid": "u1761",
+          "prepared": "[u1761 | 02:12:01.320-02:12:02.719 | Kenzo] You probably… There you go.",
+          "cleaned": "[u1761 | 02:12:01.320-02:12:02.719 | Kenzo] You probably… There you go."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1763",
+          "prepared": "[u1763 | 02:12:05.650-02:12:08.119 | DM] Who knows where Secret Collective rocks from?",
+          "cleaned": "[u1763 | 02:12:05.650-02:12:08.119 | DM] Who knows where Seeker collected rocks from?"
+        },
+        {
+          "uid": "u1764",
+          "prepared": "[u1764 | 02:12:08.120-02:12:08.679 | Delwath] Well, they're good.",
+          "cleaned": "[u1764 | 02:12:08.120-02:12:08.679 | Delwath] Well, they're good."
+        }
+      ]
+    },
+    {
+      "uid": "u1776",
+      "header": "[u1776 | 02:13:03.110-02:13:07.120 | DM]",
+      "preparedText": "So, about… Enroll.",
+      "cleanedText": "So, about… Enroll.",
+      "spans": [
+        {
+          "text": "Enroll.",
+          "importance": "incidental",
+          "reason": "Brief DM dice-rolling aside.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 11,
+          "preparedEnd": 18,
+          "cleanedStart": 11,
+          "cleanedEnd": 18
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1774",
+          "prepared": "[u1774 | 02:12:53.540-02:12:56.450 | Delwath] So maybe, like, wait half an hour, and then cast Gray?",
+          "cleaned": "[u1774 | 02:12:53.540-02:12:56.450 | Delwath] So maybe, like, wait half an hour, and then cast Scry?"
+        },
+        {
+          "uid": "u1775",
+          "prepared": "[u1775 | 02:12:59.280-02:13:00.120 | DM] Okay.",
+          "cleaned": "[u1775 | 02:12:59.280-02:13:00.120 | DM] Okay."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1777",
+          "prepared": "[u1777 | 02:13:08.710-02:13:10.959 | DM] Yeah, okay, so about half an hour.",
+          "cleaned": "[u1777 | 02:13:08.710-02:13:10.959 | DM] Yeah, okay, so about half an hour."
+        },
+        {
+          "uid": "u1778",
+          "prepared": "[u1778 | 02:13:11.140-02:13:20.000 | DM] Later, you actually… when you cast Scry, again, just at this location, right? Yep. What you see is…",
+          "cleaned": "[u1778 | 02:13:11.140-02:13:20.000 | DM] Later, you actually… when you cast Scry, again, just at this location, right? Yep. What you see is…"
+        }
+      ]
+    },
+    {
+      "uid": "u1899",
+      "header": "[u1899 | 02:21:42.010-02:21:45.400 | Seeker]",
+      "preparedText": "Wait, so I can… No, miss.",
+      "cleanedText": "Wait, so I can… No, miss.",
+      "spans": [
+        {
+          "text": "No, miss.",
+          "importance": "incidental",
+          "reason": "Interrupted interjection before glove explanation.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 16,
+          "preparedEnd": 25,
+          "cleanedStart": 16,
+          "cleanedEnd": 25
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1897",
+          "prepared": "[u1897 | 02:21:31.360-02:21:34.189 | DM] Okay. But it's a fixed area, you can't move it.",
+          "cleaned": "[u1897 | 02:21:31.360-02:21:34.189 | DM] Okay. But it's a fixed area, you can't move it."
+        },
+        {
+          "uid": "u1898",
+          "prepared": "[u1898 | 02:21:35.210-02:21:37.179 | Wellby] Oh, that's true. 60 foot radius.",
+          "cleaned": "[u1898 | 02:21:35.210-02:21:37.179 | Wellby] Oh, that's true. 60 foot radius."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1900",
+          "prepared": "[u1900 | 02:21:45.970-02:21:51.479 | DM] You can… Convert any spell to acid, cold, fire, lightning, or thunder.",
+          "cleaned": "[u1900 | 02:21:45.970-02:21:51.479 | DM] You can… Convert any spell to acid, cold, fire, lightning, or thunder."
+        },
+        {
+          "uid": "u1901",
+          "prepared": "[u1901 | 02:21:59.120-02:22:04.670 | Seeker] So can I make… Could be like an acid tsunami.",
+          "cleaned": "[u1901 | 02:21:59.120-02:22:04.670 | Seeker] So can I make… Could be like an acid tsunami."
+        }
+      ]
+    },
+    {
+      "uid": "u1937",
+      "header": "[u1937 | 02:25:22.080-02:25:23.099 | Wellby]",
+      "preparedText": "Eat the rest of it.",
+      "cleanedText": "Eat the rest of it.",
+      "spans": [
+        {
+          "text": "Eat the rest of it.",
+          "importance": "incidental",
+          "reason": "Interrupted fragment about spell area; following turns restate issue.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 19,
+          "cleanedStart": 0,
+          "cleanedEnd": 19
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1935",
+          "prepared": "[u1935 | 02:25:13.630-02:25:19.270 | Wellby] like… Just because we can't see… Like, one particular…",
+          "cleaned": "[u1935 | 02:25:13.630-02:25:19.270 | Wellby] like… Just because we can't see… Like, one particular…"
+        },
+        {
+          "uid": "u1936",
+          "prepared": "[u1936 | 02:25:20.000-02:25:21.750 | Delwath] No, but they're… we already.",
+          "cleaned": "[u1936 | 02:25:20.000-02:25:21.750 | Delwath] No, but they're… we already."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1938",
+          "prepared": "[u1938 | 02:25:23.100-02:25:32.340 | DM] They already protected themselves from a tsunami by climbing inside It… it's like… Y-you know.",
+          "cleaned": "[u1938 | 02:25:23.100-02:25:32.340 | DM] They already protected themselves from a tsunami by climbing inside It… it's like… Y-you know."
+        },
+        {
+          "uid": "u1939",
+          "prepared": "[u1939 | 02:25:33.270-02:25:34.980 | DM] If you were in a…",
+          "cleaned": "[u1939 | 02:25:33.270-02:25:34.980 | DM] If you were in a…"
+        }
+      ]
+    },
+    {
+      "uid": "u1946",
+      "header": "[u1946 | 02:25:53.690-02:25:54.380 | Wellby]",
+      "preparedText": "Start iron.",
+      "cleanedText": "Start iron.",
+      "spans": [
+        {
+          "text": "Start iron.",
+          "importance": "incidental",
+          "reason": "Brief unclear response to tactical clarification.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 11,
+          "cleanedStart": 0,
+          "cleanedEnd": 11
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1944",
+          "prepared": "[u1944 | 02:25:48.470-02:25:53.059 | DM] Oh, yes. Theoretically, maybe you could have tried Tsunami instead of Earthquake yesterday.",
+          "cleaned": "[u1944 | 02:25:48.470-02:25:53.059 | DM] Oh, yes. Theoretically, maybe you could have tried Tsunami instead of Earthquake yesterday."
+        },
+        {
+          "uid": "u1945",
+          "prepared": "[u1945 | 02:25:53.060-02:25:53.690 | Delwath] Yes, yes.",
+          "cleaned": "[u1945 | 02:25:53.060-02:25:53.690 | Delwath] Yes, yes."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1947",
+          "prepared": "[u1947 | 02:25:54.380-02:25:55.060 | Seeker] Cool.",
+          "cleaned": "[u1947 | 02:25:54.380-02:25:55.060 | Seeker] Cool."
+        },
+        {
+          "uid": "u1948",
+          "prepared": "[u1948 | 02:25:55.510-02:25:59.100 | Delwath] We were just trying to not repeat our tricks. Maybe that was a mistake.",
+          "cleaned": "[u1948 | 02:25:55.510-02:25:59.100 | Delwath] We were just trying to not repeat our tricks. Maybe that was a mistake."
+        }
+      ]
+    },
+    {
+      "uid": "u1960",
+      "header": "[u1960 | 02:26:45.980-02:26:46.520 | Delwath]",
+      "preparedText": "separate.",
+      "cleanedText": "separate.",
+      "spans": [
+        {
+          "text": "separate.",
+          "importance": "incidental",
+          "reason": "Clipped end of overlapping statement.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 9,
+          "cleanedStart": 0,
+          "cleanedEnd": 9
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1958",
+          "prepared": "[u1958 | 02:26:36.410-02:26:42.089 | Delwath] Like, you can't… just even inside a closed room, if you're in a closed room, you can't cast spells on the other side of the…",
+          "cleaned": "[u1958 | 02:26:36.410-02:26:42.089 | Delwath] Like, you can't… just even inside a closed room, if you're in a closed room, you can't cast spells on the other side of the…"
+        },
+        {
+          "uid": "u1959",
+          "prepared": "[u1959 | 02:26:42.640-02:26:45.979 | DM] Right, there are some… I mean, clairvoyance is an exception, for example, but…",
+          "cleaned": "[u1959 | 02:26:42.640-02:26:45.979 | DM] Right, there are some… I mean, clairvoyance is an exception, for example, but…"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1961",
+          "prepared": "[u1961 | 02:26:46.520-02:26:48.050 | DM] Generally speaking, that's true.",
+          "cleaned": "[u1961 | 02:26:46.520-02:26:48.050 | DM] Generally speaking, that's true."
+        },
+        {
+          "uid": "u1962",
+          "prepared": "[u1962 | 02:26:55.790-02:27:01.070 | Delwath] So, it becomes difficult. I mean, I think… I think we rest, right?",
+          "cleaned": "[u1962 | 02:26:55.790-02:27:01.070 | Delwath] So, it becomes difficult. I mean, I think… I think we rest, right?"
+        }
+      ]
+    },
+    {
+      "uid": "u1989",
+      "header": "[u1989 | 02:29:13.660-02:29:18.379 | Seeker]",
+      "preparedText": "Delete, so we don't have any effective attacks while they're inside the thing.",
+      "cleanedText": "Delete, so we don't have any effective attacks while they're inside the thing.",
+      "spans": [
+        {
+          "text": "Delete",
+          "importance": "incidental",
+          "reason": "Unclear lead-in; substantive sentence following is intact.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 6,
+          "cleanedStart": 0,
+          "cleanedEnd": 6
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u1987",
+          "prepared": "[u1987 | 02:28:54.840-02:28:56.720 | Delwath] I just don't know how much good it would do.",
+          "cleaned": "[u1987 | 02:28:54.840-02:28:56.720 | Delwath] I just don't know how much good it would do."
+        },
+        {
+          "uid": "u1988",
+          "prepared": "[u1988 | 02:29:04.160-02:29:06.719 | DM] Well, make a decision about what you want to do.",
+          "cleaned": "[u1988 | 02:29:04.160-02:29:06.719 | DM] Well, make a decision about what you want to do."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u1990",
+          "prepared": "[u1990 | 02:29:19.640-02:29:20.400 | Seeker] I could…",
+          "cleaned": "[u1990 | 02:29:19.640-02:29:20.400 | Seeker] I could…"
+        },
+        {
+          "uid": "u1991",
+          "prepared": "[u1991 | 02:29:23.650-02:29:25.620 | Seeker] We're gonna go, anyway.",
+          "cleaned": "[u1991 | 02:29:23.650-02:29:25.620 | Seeker] We're gonna go, anyway."
+        }
+      ]
+    },
+    {
+      "uid": "u2113",
+      "header": "[u2113 | 02:38:09.320-02:38:09.849 | Delwath]",
+      "preparedText": "Into it.",
+      "cleanedText": "Into it.",
+      "spans": [
+        {
+          "text": "Into it.",
+          "importance": "incidental",
+          "reason": "Short interruption in map measurement aside.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 8,
+          "cleanedStart": 0,
+          "cleanedEnd": 8
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2111",
+          "prepared": "[u2111 | 02:38:06.740-02:38:08.790 | Delwath] Oh, it's… it's squares.",
+          "cleaned": "[u2111 | 02:38:06.740-02:38:08.790 | Delwath] Oh, it's… it's squares."
+        },
+        {
+          "uid": "u2112",
+          "prepared": "[u2112 | 02:38:08.790-02:38:09.320 | DM] Yeah, I don't.",
+          "cleaned": "[u2112 | 02:38:08.790-02:38:09.320 | DM] Yeah, I don't."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2114",
+          "prepared": "[u2114 | 02:38:09.850-02:38:10.470 | DM] Yeah.",
+          "cleaned": "[u2114 | 02:38:09.850-02:38:10.470 | DM] Yeah."
+        },
+        {
+          "uid": "u2115",
+          "prepared": "[u2115 | 02:38:11.170-02:38:16.619 | Delwath] Each square is 16 miles, but it's doing square maps, so things are very different.",
+          "cleaned": "[u2115 | 02:38:11.170-02:38:16.619 | Delwath] Each square is 16 miles, but it's doing square math, so things are very different."
+        }
+      ]
+    },
+    {
+      "uid": "u2276",
+      "header": "[u2276 | 02:48:58.840-02:49:00.180 | Delwath]",
+      "preparedText": "No, we want him to go ask his parents.",
+      "cleanedText": "No, we want him to go ask his parents.",
+      "spans": [
+        {
+          "text": "ask his parents",
+          "importance": "incidental",
+          "reason": "Unclear turn-order aside; initiative swaps explicitly settled afterward.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 22,
+          "preparedEnd": 37,
+          "cleanedStart": 22,
+          "cleanedEnd": 37
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2274",
+          "prepared": "[u2274 | 02:48:55.170-02:48:56.850 | Delwath] 4!",
+          "cleaned": "[u2274 | 02:48:55.170-02:48:56.850 | Delwath] 4!"
+        },
+        {
+          "uid": "u2275",
+          "prepared": "[u2275 | 02:48:57.860-02:48:58.839 | Kenzo] It's okay, we wanted to go last.",
+          "cleaned": "[u2275 | 02:48:57.860-02:48:58.839 | Kenzo] It's okay, we wanted to go last."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2277",
+          "prepared": "[u2277 | 02:49:00.180-02:49:01.769 | Kenzo] Yeah, it's perfect, it's perfect.",
+          "cleaned": "[u2277 | 02:49:00.180-02:49:01.769 | Kenzo] Yeah, it's perfect, it's perfect."
+        },
+        {
+          "uid": "u2278",
+          "prepared": "[u2278 | 02:49:02.330-02:49:03.600 | DM] Frank.",
+          "cleaned": "[u2278 | 02:49:02.330-02:49:03.600 | DM] Frank."
+        }
+      ]
+    },
+    {
+      "uid": "u2278",
+      "header": "[u2278 | 02:49:02.330-02:49:03.600 | DM]",
+      "preparedText": "Frank.",
+      "cleanedText": "Frank.",
+      "spans": [
+        {
+          "text": "Frank.",
+          "importance": "incidental",
+          "reason": "Short table interjection.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 6,
+          "cleanedStart": 0,
+          "cleanedEnd": 6
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2276",
+          "prepared": "[u2276 | 02:48:58.840-02:49:00.180 | Delwath] No, we want him to go ask his parents.",
+          "cleaned": "[u2276 | 02:48:58.840-02:49:00.180 | Delwath] No, we want him to go ask his parents."
+        },
+        {
+          "uid": "u2277",
+          "prepared": "[u2277 | 02:49:00.180-02:49:01.769 | Kenzo] Yeah, it's perfect, it's perfect.",
+          "cleaned": "[u2277 | 02:49:00.180-02:49:01.769 | Kenzo] Yeah, it's perfect, it's perfect."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2279",
+          "prepared": "[u2279 | 02:49:03.830-02:49:05.289 | DM] Schwartz, where did Welby get?",
+          "cleaned": "[u2279 | 02:49:03.830-02:49:05.289 | DM] Schwartz, what did Wellby get?"
+        },
+        {
+          "uid": "u2280",
+          "prepared": "[u2280 | 02:49:05.290-02:49:06.220 | Wellby] 23…",
+          "cleaned": "[u2280 | 02:49:05.290-02:49:06.220 | Wellby] 23…"
+        }
+      ]
+    },
+    {
+      "uid": "u2281",
+      "header": "[u2281 | 02:49:06.450-02:49:07.140 | Kenzo]",
+      "preparedText": "That's certain.",
+      "cleanedText": "That's certain.",
+      "spans": [
+        {
+          "text": "That's certain.",
+          "importance": "incidental",
+          "reason": "Short table acknowledgment.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 15,
+          "cleanedStart": 0,
+          "cleanedEnd": 15
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2279",
+          "prepared": "[u2279 | 02:49:03.830-02:49:05.289 | DM] Schwartz, where did Welby get?",
+          "cleaned": "[u2279 | 02:49:03.830-02:49:05.289 | DM] Schwartz, what did Wellby get?"
+        },
+        {
+          "uid": "u2280",
+          "prepared": "[u2280 | 02:49:05.290-02:49:06.220 | Wellby] 23…",
+          "cleaned": "[u2280 | 02:49:05.290-02:49:06.220 | Wellby] 23…"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2282",
+          "prepared": "[u2282 | 02:49:07.140-02:49:09.120 | Delwath] 4 plus whatever Seekers pluses.",
+          "cleaned": "[u2282 | 02:49:07.140-02:49:09.120 | Delwath] 4 plus whatever Seeker's pluses."
+        },
+        {
+          "uid": "u2283",
+          "prepared": "[u2283 | 02:49:09.120-02:49:11.979 | Kenzo] Maybe, maybe,",
+          "cleaned": "[u2283 | 02:49:09.120-02:49:11.979 | Kenzo] Maybe, maybe,"
+        }
+      ]
+    },
+    {
+      "uid": "u2294",
+      "header": "[u2294 | 02:49:42.740-02:49:50.500 | Kenzo]",
+      "preparedText": "That's perfect, that's great, yeah. So it's a little bit safer. Seeker goes first and casts the daylight right away. Cast the thing, exactly, exactly. Okay, perfect, perfect.",
+      "cleanedText": "That's perfect, that's great, yeah. So it's a little bit safer. Seeker goes first and casts the daylight right away. Cast the thing, exactly, exactly. Okay, perfect, perfect.",
+      "spans": [
+        {
+          "text": "casts the daylight",
+          "importance": "incidental",
+          "reason": "Possible spoken spell-name slip; Sunburst is explicitly selected and cast later.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 86,
+          "preparedEnd": 104,
+          "cleanedStart": 86,
+          "cleanedEnd": 104
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2292",
+          "prepared": "[u2292 | 02:49:37.760-02:49:38.800 | Kenzo] Perfect. Okay, great.",
+          "cleaned": "[u2292 | 02:49:37.760-02:49:38.800 | Kenzo] Perfect. Okay, great."
+        },
+        {
+          "uid": "u2293",
+          "prepared": "[u2293 | 02:49:38.800-02:49:42.740 | Delwath] Seeker's at the top of the second round, and everybody gets one action, and he gets…",
+          "cleaned": "[u2293 | 02:49:38.800-02:49:42.740 | Delwath] Seeker's at the top of the second round, and everybody gets one action, and he gets…"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2295",
+          "prepared": "[u2295 | 02:49:50.500-02:49:52.890 | DM] Okay, so sorry. Seeker…",
+          "cleaned": "[u2295 | 02:49:50.500-02:49:52.890 | DM] Okay, so sorry. Seeker…"
+        },
+        {
+          "uid": "u2296",
+          "prepared": "[u2296 | 02:49:52.890-02:49:54.009 | Kenzo] So here's 30.",
+          "cleaned": "[u2296 | 02:49:52.890-02:49:54.009 | Kenzo] Seeker's 30."
+        }
+      ]
+    },
+    {
+      "uid": "u2301",
+      "header": "[u2301 | 02:50:01.620-02:50:03.490 | Delwath]",
+      "preparedText": "I got a 21, so 27.",
+      "cleanedText": "I got a 21, so 27.",
+      "spans": [
+        {
+          "text": "so 27",
+          "importance": "incidental",
+          "reason": "Unclear trailing roll fragment; initiative is explicitly 21 in preceding and following lines.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 12,
+          "preparedEnd": 17,
+          "cleanedStart": 12,
+          "cleanedEnd": 17
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2299",
+          "prepared": "[u2299 | 02:49:58.070-02:49:59.250 | DM] We're staying 23.",
+          "cleaned": "[u2299 | 02:49:58.070-02:49:59.250 | DM] Wellby's staying 23."
+        },
+        {
+          "uid": "u2300",
+          "prepared": "[u2300 | 02:49:59.250-02:50:01.620 | Kenzo] Do we want, do we want, Sickening Radiance?",
+          "cleaned": "[u2300 | 02:49:59.250-02:50:01.620 | Kenzo] Do we want, do we want, Sickening Radiance?"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2302",
+          "prepared": "[u2302 | 02:50:03.490-02:50:06.999 | DM] Shawworth is 21, and then Kenzo is last.",
+          "cleaned": "[u2302 | 02:50:03.490-02:50:06.999 | DM] Delwath is 21, and then Kenzo is last."
+        },
+        {
+          "uid": "u2303",
+          "prepared": "[u2303 | 02:50:07.340-02:50:07.730 | Kenzo] Yeah.",
+          "cleaned": "[u2303 | 02:50:07.340-02:50:07.730 | Kenzo] Yeah."
+        }
+      ]
+    },
+    {
+      "uid": "u2334",
+      "header": "[u2334 | 02:51:44.950-02:51:45.480 | Kenzo]",
+      "preparedText": "Wait, tomorrow?",
+      "cleanedText": "Wait, tomorrow?",
+      "spans": [
+        {
+          "text": "Wait, tomorrow?",
+          "importance": "incidental",
+          "reason": "Unclear buff-number question; bonus corrected explicitly in next turns.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 15,
+          "cleanedStart": 0,
+          "cleanedEnd": 15
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2332",
+          "prepared": "[u2332 | 02:51:41.890-02:51:42.730 | Wellby] 3-0?",
+          "cleaned": "[u2332 | 02:51:41.890-02:51:42.730 | Wellby] 3-0?"
+        },
+        {
+          "uid": "u2333",
+          "prepared": "[u2333 | 02:51:43.490-02:51:44.390 | Delwath] 3-0.",
+          "cleaned": "[u2333 | 02:51:43.490-02:51:44.390 | Delwath] 3-0."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2335",
+          "prepared": "[u2335 | 02:51:45.480-02:51:49.819 | Delwath] Oh, wait, 3-0 or 2-0? Hold on, let me double-check. No, 2-0. Sorry, 2-0.",
+          "cleaned": "[u2335 | 02:51:45.480-02:51:49.819 | Delwath] Oh, wait, 3-0 or 2-0? Hold on, let me double-check. No, 2-0. Sorry, 2-0."
+        },
+        {
+          "uid": "u2336",
+          "prepared": "[u2336 | 02:51:49.820-02:51:52.000 | Kenzo] Oh, so that is 149. Okay, so I have 149.",
+          "cleaned": "[u2336 | 02:51:49.820-02:51:52.000 | Kenzo] Oh, so that is 149. Okay, so I have 149."
+        }
+      ]
+    },
+    {
+      "uid": "u2342",
+      "header": "[u2342 | 02:52:01.470-02:52:05.929 | Delwath]",
+      "preparedText": "Oh, so we all have the exact same hit points, except that I took 3 levels of sorcerer, so I have 3 hit points.",
+      "cleanedText": "Oh, so we all have the exact same hit points, except that I took 3 levels of sorcerer, so I have 3 hit points.",
+      "spans": [
+        {
+          "text": "so I have 3 hit points",
+          "importance": "incidental",
+          "reason": "Possible spoken omission of fewer; exact HP totals are established nearby.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 87,
+          "preparedEnd": 109,
+          "cleanedStart": 87,
+          "cleanedEnd": 109
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2340",
+          "prepared": "[u2340 | 02:51:59.320-02:52:00.830 | Kenzo] Yeah, yeah, I got it, I got that already.",
+          "cleaned": "[u2340 | 02:51:59.320-02:52:00.830 | Kenzo] Yeah, yeah, I got it, I got that already."
+        },
+        {
+          "uid": "u2341",
+          "prepared": "[u2341 | 02:52:00.830-02:52:01.470 | Wellby] Welcome.",
+          "cleaned": "[u2341 | 02:52:00.830-02:52:01.470 | Wellby] Welcome."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2343",
+          "prepared": "[u2343 | 02:52:05.930-02:52:10.119 | DM] And Seeker took tough, so… So he has a lot more.",
+          "cleaned": "[u2343 | 02:52:05.930-02:52:10.119 | DM] And Seeker took tough, so… So he has a lot more."
+        },
+        {
+          "uid": "u2344",
+          "prepared": "[u2344 | 02:52:12.920-02:52:17.910 | DM] Okay, sorry, give me one sec, I just need to pull up my army stat blocks.",
+          "cleaned": "[u2344 | 02:52:12.920-02:52:17.910 | DM] Okay, sorry, give me one sec, I just need to pull up my army stat blocks."
+        }
+      ]
+    },
+    {
+      "uid": "u2364",
+      "header": "[u2364 | 02:54:10.420-02:54:10.800 | Wellby]",
+      "preparedText": "zoom.",
+      "cleanedText": "zoom.",
+      "spans": [
+        {
+          "text": "zoom.",
+          "importance": "incidental",
+          "reason": "Short table interjection.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 5,
+          "cleanedStart": 0,
+          "cleanedEnd": 5
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2362",
+          "prepared": "[u2362 | 02:54:03.970-02:54:09.280 | Wellby] What was the plan for Secret of Cast? Because it strikes me as Tsunami from the inside would be pretty amazing.",
+          "cleaned": "[u2362 | 02:54:03.970-02:54:09.280 | Wellby] What was the plan for Seeker to cast? Because it strikes me as Tsunami from the inside would be pretty amazing."
+        },
+        {
+          "uid": "u2363",
+          "prepared": "[u2363 | 02:54:09.280-02:54:09.850 | Kenzo] What?",
+          "cleaned": "[u2363 | 02:54:09.280-02:54:09.850 | Kenzo] What?"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2365",
+          "prepared": "[u2365 | 02:54:10.800-02:54:13.160 | Delwath] No, Tsunami… tsunami takes a minute to cast, he can't cast.",
+          "cleaned": "[u2365 | 02:54:10.800-02:54:13.160 | Delwath] No, Tsunami… tsunami takes a minute to cast, he can't cast."
+        },
+        {
+          "uid": "u2366",
+          "prepared": "[u2366 | 02:54:13.160-02:54:14.770 | Wellby] Oh, that's right, that's right. Okay, never mind.",
+          "cleaned": "[u2366 | 02:54:13.160-02:54:14.770 | Wellby] Oh, that's right, that's right. Okay, never mind."
+        }
+      ]
+    },
+    {
+      "uid": "u2401",
+      "header": "[u2401 | 02:56:37.810-02:56:38.390 | Kenzo]",
+      "preparedText": "I'm kind of confusion.",
+      "cleanedText": "I'm kind of confusion.",
+      "spans": [
+        {
+          "text": "I'm kind of confusion.",
+          "importance": "incidental",
+          "reason": "Short interrupted player aside during vision discussion.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 22,
+          "cleanedStart": 0,
+          "cleanedEnd": 22
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2399",
+          "prepared": "[u2399 | 02:56:28.310-02:56:33.460 | DM] suddenly, in darkness, none of you… oh, deal with? You might have a 120-foot darkvision?",
+          "cleaned": "[u2399 | 02:56:28.310-02:56:33.460 | DM] suddenly, in darkness, none of you… oh, Delwath? You might have a 120-foot darkvision?"
+        },
+        {
+          "uid": "u2400",
+          "prepared": "[u2400 | 02:56:33.760-02:56:37.809 | Delwath] I have True Sight to 30 feet, and Dark Vision to 120 feet.",
+          "cleaned": "[u2400 | 02:56:33.760-02:56:37.809 | Delwath] I have True Sight to 30 feet, and Dark Vision to 120 feet."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2402",
+          "prepared": "[u2402 | 02:56:38.390-02:56:40.589 | Delwath] Or 60 feet, no, darkvision to 60 feet.",
+          "cleaned": "[u2402 | 02:56:38.390-02:56:40.589 | Delwath] Or 60 feet, no, darkvision to 60 feet."
+        },
+        {
+          "uid": "u2403",
+          "prepared": "[u2403 | 02:56:40.860-02:56:46.890 | DM] But I'll also darkvision to 60 feet, so there's this blinding flash of light, and then…",
+          "cleaned": "[u2403 | 02:56:40.860-02:56:46.890 | DM] But all have darkvision to 60 feet, so there's this blinding flash of light, and then…"
+        }
+      ]
+    },
+    {
+      "uid": "u2531",
+      "header": "[u2531 | 03:04:33.740-03:04:34.640 | Delwath]",
+      "preparedText": "next day.",
+      "cleanedText": "next day.",
+      "spans": [
+        {
+          "text": "next day.",
+          "importance": "incidental",
+          "reason": "Unclear save-number fragment; eight confirmed in u2533–u2534.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 9,
+          "cleanedStart": 0,
+          "cleanedEnd": 9
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2529",
+          "prepared": "[u2529 | 03:04:32.240-03:04:33.010 | Kenzo] 28.",
+          "cleaned": "[u2529 | 03:04:32.240-03:04:33.010 | Kenzo] 28."
+        },
+        {
+          "uid": "u2530",
+          "prepared": "[u2530 | 03:04:33.180-03:04:33.740 | Wellby] 21.",
+          "cleaned": "[u2530 | 03:04:33.180-03:04:33.740 | Wellby] 21."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2532",
+          "prepared": "[u2532 | 03:04:36.700-03:04:38.159 | Kenzo] I'll roll for, Seeker.",
+          "cleaned": "[u2532 | 03:04:36.700-03:04:38.159 | Kenzo] I'll roll for, Seeker."
+        },
+        {
+          "uid": "u2533",
+          "prepared": "[u2533 | 03:04:38.840-03:04:39.960 | DM] 8, you said?",
+          "cleaned": "[u2533 | 03:04:38.840-03:04:39.960 | DM] 8, you said?"
+        }
+      ]
+    },
+    {
+      "uid": "u2545",
+      "header": "[u2545 | 03:05:11.210-03:05:12.489 | Wellby]",
+      "preparedText": "Try for the spiked helmet.",
+      "cleanedText": "Try for the spiked helmet.",
+      "spans": [
+        {
+          "text": "Try for the spiked helmet.",
+          "importance": "incidental",
+          "reason": "Unclear table comment after failed saving throw.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 26,
+          "cleanedStart": 0,
+          "cleanedEnd": 26
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2543",
+          "prepared": "[u2543 | 03:05:08.180-03:05:09.340 | Delwath] Dealt with.",
+          "cleaned": "[u2543 | 03:05:08.180-03:05:09.340 | Delwath] Delwath."
+        },
+        {
+          "uid": "u2544",
+          "prepared": "[u2544 | 03:05:09.460-03:05:11.210 | DM] Which does…",
+          "cleaned": "[u2544 | 03:05:09.460-03:05:11.210 | DM] Which does…"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2546",
+          "prepared": "[u2546 | 03:05:12.780-03:05:14.870 | Kenzo] Wait, you can't do it, you use your heroic?",
+          "cleaned": "[u2546 | 03:05:12.780-03:05:14.870 | Kenzo] Wait, you can't do it, you use your heroic?"
+        },
+        {
+          "uid": "u2547",
+          "prepared": "[u2547 | 03:05:15.430-03:05:16.730 | Delwath] I did last time.",
+          "cleaned": "[u2547 | 03:05:15.430-03:05:16.730 | Delwath] I did last time."
+        }
+      ]
+    },
+    {
+      "uid": "u2577",
+      "header": "[u2577 | 03:06:34.290-03:06:40.450 | Delwath]",
+      "preparedText": "Oh, you know what I forgot about, Debit? I could roll 2D4 and add it to a… Save.",
+      "cleanedText": "Oh, you know what I forgot about, [[Debit]]? I could roll 2D4 and add it to a… Save.",
+      "spans": [
+        {
+          "text": "Debit",
+          "importance": "incidental",
+          "reason": "Unclear exclamation or ability label; adding 2d4 and the resulting saving-throw discussion are explicit.",
+          "question": "Is Debit an exclamation or a named source of the extra dice?",
+          "marked": true,
+          "preparedStart": 34,
+          "preparedEnd": 39,
+          "cleanedStart": 36,
+          "cleanedEnd": 41
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2575",
+          "prepared": "[u2575 | 03:06:28.070-03:06:30.480 | Delwath] Well?",
+          "cleaned": "[u2575 | 03:06:28.070-03:06:30.480 | Delwath] Well?"
+        },
+        {
+          "uid": "u2576",
+          "prepared": "[u2576 | 03:06:31.780-03:06:32.360 | DM] Nope.",
+          "cleaned": "[u2576 | 03:06:31.780-03:06:32.360 | DM] Nope."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2578",
+          "prepared": "[u2578 | 03:06:40.780-03:06:43.420 | DM] Seeker's fine, so it's only dealt with.",
+          "cleaned": "[u2578 | 03:06:40.780-03:06:43.420 | DM] Seeker's fine, so it's only Delwath."
+        },
+        {
+          "uid": "u2579",
+          "prepared": "[u2579 | 03:06:43.420-03:06:46.000 | Delwath] Well, I'm gonna… I'm gonna add 2D4 here.",
+          "cleaned": "[u2579 | 03:06:43.420-03:06:46.000 | Delwath] Well, I'm gonna… I'm gonna add 2D4 here."
+        }
+      ]
+    },
+    {
+      "uid": "u2662",
+      "header": "[u2662 | 03:11:36.840-03:11:45.830 | Delwath]",
+      "preparedText": "Darren, you know, demand she… demand she surrender, you know, you know, we will… we will…",
+      "cleanedText": "Darren, you know, demand she… demand she surrender, you know, you know, we will… we will…",
+      "spans": [
+        {
+          "text": "Darren",
+          "importance": "incidental",
+          "reason": "Broken opening to taunt; actual surrender demand follows.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 6,
+          "cleanedStart": 0,
+          "cleanedEnd": 6
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2660",
+          "prepared": "[u2660 | 03:11:30.110-03:11:36.000 | Delwath] I mean, Daleth was shouting the whole time, like, your Empress brought this upon you.",
+          "cleaned": "[u2660 | 03:11:30.110-03:11:36.000 | Delwath] I mean, Delwath was shouting the whole time, like, your Empress brought this upon you."
+        },
+        {
+          "uid": "u2661",
+          "prepared": "[u2661 | 03:11:36.010-03:11:36.840 | Kenzo] Yeah.",
+          "cleaned": "[u2661 | 03:11:36.010-03:11:36.840 | Kenzo] Yeah."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2663",
+          "prepared": "[u2663 | 03:11:46.160-03:11:47.009 | Kenzo] We will spare you.",
+          "cleaned": "[u2663 | 03:11:46.160-03:11:47.009 | Kenzo] We will spare you."
+        },
+        {
+          "uid": "u2664",
+          "prepared": "[u2664 | 03:11:47.220-03:11:48.259 | Delwath] We will spare…",
+          "cleaned": "[u2664 | 03:11:47.220-03:11:48.259 | Delwath] We will spare…"
+        }
+      ]
+    },
+    {
+      "uid": "u2675",
+      "header": "[u2675 | 03:12:14.520-03:12:16.919 | Delwath]",
+      "preparedText": "Yeah, as soon as we wait, I'm scrying this guy.",
+      "cleanedText": "Yeah, [[as soon as we wait]], I'm scrying this guy.",
+      "spans": [
+        {
+          "text": "as soon as we wait",
+          "importance": "incidental",
+          "reason": "Broken timing lead-in; the scrying action and its target are explicit. No exact interval is inferred.",
+          "question": "What was the timing lead-in?",
+          "marked": true,
+          "preparedStart": 6,
+          "preparedEnd": 24,
+          "cleanedStart": 8,
+          "cleanedEnd": 26
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2673",
+          "prepared": "[u2673 | 03:12:10.350-03:12:11.230 | Delwath] And then vanish.",
+          "cleaned": "[u2673 | 03:12:10.350-03:12:11.230 | Delwath] And then vanish."
+        },
+        {
+          "uid": "u2674",
+          "prepared": "[u2674 | 03:12:11.700-03:12:14.310 | Kenzo] Yeah, now let's cry. What's going on? What's going on?",
+          "cleaned": "[u2674 | 03:12:11.700-03:12:14.310 | Kenzo] Yeah, now let's scry. What's going on? What's going on?"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2676",
+          "prepared": "[u2676 | 03:12:21.050-03:12:30.140 | DM] The… Creature is still moving.",
+          "cleaned": "[u2676 | 03:12:21.050-03:12:30.140 | DM] The… Creature is still moving."
+        },
+        {
+          "uid": "u2677",
+          "prepared": "[u2677 | 03:12:30.410-03:12:37.010 | DM] There's, people moving up and down, tending to the… tending to the wounded.",
+          "cleaned": "[u2677 | 03:12:30.410-03:12:37.010 | DM] There's, people moving up and down, tending to the… tending to the wounded."
+        }
+      ]
+    },
+    {
+      "uid": "u2812",
+      "header": "[u2812 | 03:21:46.940-03:21:47.329 | Kenzo]",
+      "preparedText": "We go.",
+      "cleanedText": "We go.",
+      "spans": [
+        {
+          "text": "We go.",
+          "importance": "incidental",
+          "reason": "Brief interrupted fragment.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 6,
+          "cleanedStart": 0,
+          "cleanedEnd": 6
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2810",
+          "prepared": "[u2810 | 03:21:37.080-03:21:42.579 | DM] I mean, you were, you were, like, a mile or two away, you couldn't tell what was happening.",
+          "cleaned": "[u2810 | 03:21:37.080-03:21:42.579 | DM] I mean, you were, you were, like, a mile or two away, you couldn't tell what was happening."
+        },
+        {
+          "uid": "u2811",
+          "prepared": "[u2811 | 03:21:43.370-03:21:46.940 | DM] But you never… it doesn't have any gears, it doesn't have any…",
+          "cleaned": "[u2811 | 03:21:43.370-03:21:46.940 | DM] But you never… it doesn't have any gears, it doesn't have any…"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2813",
+          "prepared": "[u2813 | 03:21:47.330-03:21:48.030 | Delwath] I mean…",
+          "cleaned": "[u2813 | 03:21:47.330-03:21:48.030 | Delwath] I mean…"
+        },
+        {
+          "uid": "u2814",
+          "prepared": "[u2814 | 03:21:48.640-03:21:51.899 | DM] It clearly can reshape itself quite dramatically, right?",
+          "cleaned": "[u2814 | 03:21:48.640-03:21:51.899 | DM] It clearly can reshape itself quite dramatically, right?"
+        }
+      ]
+    },
+    {
+      "uid": "u2863",
+      "header": "[u2863 | 03:25:26.000-03:25:26.500 | Delwath]",
+      "preparedText": "spotlight.",
+      "cleanedText": "spotlight.",
+      "spans": [
+        {
+          "text": "spotlight.",
+          "importance": "incidental",
+          "reason": "Clipped interruption in object attack planning.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 10,
+          "cleanedStart": 0,
+          "cleanedEnd": 10
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2861",
+          "prepared": "[u2861 | 03:25:19.450-03:25:20.810 | Kenzo] Yeah. Yeah.",
+          "cleaned": "[u2861 | 03:25:19.450-03:25:20.810 | Kenzo] Yeah. Yeah."
+        },
+        {
+          "uid": "u2862",
+          "prepared": "[u2862 | 03:25:21.370-03:25:25.999 | Kenzo] I like the idea of just ballistic attacks, of just, like, objects, you know.",
+          "cleaned": "[u2862 | 03:25:21.370-03:25:25.999 | Kenzo] I like the idea of just ballistic attacks, of just, like, objects, you know."
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2864",
+          "prepared": "[u2864 | 03:25:26.500-03:25:27.360 | Kenzo] Fuckin' boulders.",
+          "cleaned": "[u2864 | 03:25:26.500-03:25:27.360 | Kenzo] Fuckin' boulders."
+        },
+        {
+          "uid": "u2865",
+          "prepared": "[u2865 | 03:25:27.360-03:25:30.399 | Delwath] How big can Seeker Performance of Creation something?",
+          "cleaned": "[u2865 | 03:25:27.360-03:25:30.399 | Delwath] How big can Seeker Performance of Creation something?"
+        }
+      ]
+    },
+    {
+      "uid": "u2921",
+      "header": "[u2921 | 03:28:58.790-03:29:02.790 | DM]",
+      "preparedText": "the 25th, 2 weeks from today, on it, I'm… So…",
+      "cleanedText": "the 25th, 2 weeks from today, on it, I'm… So…",
+      "spans": [
+        {
+          "text": "on it, I'm…",
+          "importance": "incidental",
+          "reason": "Trailing scheduling fragment; date clear.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 30,
+          "preparedEnd": 41,
+          "cleanedStart": 30,
+          "cleanedEnd": 41
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2919",
+          "prepared": "[u2919 | 03:28:50.960-03:28:57.030 | DM] So, we'll pick up, our next, our next, game is scheduled on…",
+          "cleaned": "[u2919 | 03:28:50.960-03:28:57.030 | DM] So, we'll pick up, our next, our next, game is scheduled on…"
+        },
+        {
+          "uid": "u2920",
+          "prepared": "[u2920 | 03:28:57.630-03:28:58.560 | Wellby] 25th?",
+          "cleaned": "[u2920 | 03:28:57.630-03:28:58.560 | Wellby] 25th?"
+        }
+      ],
+      "contextAfter": [
+        {
+          "uid": "u2922",
+          "prepared": "[u2922 | 03:29:02.900-03:29:06.039 | DM] We'll talk then, but I… we might…",
+          "cleaned": "[u2922 | 03:29:02.900-03:29:06.039 | DM] We'll talk then, but I… we might…"
+        },
+        {
+          "uid": "u2923",
+          "prepared": "[u2923 | 03:29:06.370-03:29:10.599 | DM] Given that this has taken a bit longer than I anticipated, we might need to use that.",
+          "cleaned": "[u2923 | 03:29:06.370-03:29:10.599 | DM] Given that this has taken a bit longer than I anticipated, we might need to use that."
+        }
+      ]
+    },
+    {
+      "uid": "u2928",
+      "header": "[u2928 | 03:29:18.720-03:29:19.300 | DM]",
+      "preparedText": "run.",
+      "cleanedText": "run.",
+      "spans": [
+        {
+          "text": "run.",
+          "importance": "incidental",
+          "reason": "Final clipped sign-off.",
+          "question": "Optional clarification of incidental speech; no substantive correction inferred.",
+          "marked": false,
+          "preparedStart": 0,
+          "preparedEnd": 4,
+          "cleanedStart": 0,
+          "cleanedEnd": 4
+        }
+      ],
+      "contextBefore": [
+        {
+          "uid": "u2926",
+          "prepared": "[u2926 | 03:29:13.290-03:29:16.339 | DM] But we'll discuss next time. We'll see you all on the 25th.",
+          "cleaned": "[u2926 | 03:29:13.290-03:29:16.339 | DM] But we'll discuss next time. We'll see you all on the 25th."
+        },
+        {
+          "uid": "u2927",
+          "prepared": "[u2927 | 03:29:16.340-03:29:18.149 | Wellby] Alright, guys.",
+          "cleaned": "[u2927 | 03:29:16.340-03:29:18.149 | Wellby] Alright, guys."
+        }
+      ],
+      "contextAfter": []
+    }
+  ]
+}

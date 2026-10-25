@@ -80,7 +80,7 @@ Kenzo: Wait, is the daughter the Heart, or is the daughter—Heart a physical ob
 DM: The Heart's a physical object. The daughter was just a person who can do magic.
 
 %% u0783 %%
-Seeker: Will be the next Supreme Oracle and [[infuriatingly]] powerful.
+Seeker: Will be the next Supreme Oracle and {{infuriatingly}} powerful.
 
 %% u0784-u0785 %%
 Kenzo: Yes, right. And so they took this Heart with them. Yes, so...
@@ -164,7 +164,7 @@ Kenzo: Candrosa, like four months. Traveling hundreds of miles in the desert, fi
 Kenzo: But the protection of Dunmar through Shakun and the Heart, these feel like primary issues of critical importance that, if solved first, could have potentially prevented or helped to address so many of the urgent issues. Why have the centaurs not been rallied to this cause? Why have we not been talking about this the moment that we arrived? This is just what we've been wandering around the desert for hundreds of miles for.
 
 %% u0828 %%
-Kenzo: Sorry if I'm a little agitated right now, but you're talking to us after being gone ourselves for a month and having to learn about the disappearance of the Heart from Bhishma directly. I mean, I'm just a little frustrated, and [[I slept]].
+Kenzo: Sorry if I'm a little agitated right now, but you're talking to us after being gone ourselves for a month and having to learn about the disappearance of the Heart from Bhishma directly. I mean, I'm just a little frustrated, and {{I slept}}.
 
 %% u0829 %%
 Wellby: Wellby would say, “And don't get us wrong, all of that has been...”
@@ -470,7 +470,7 @@ DM: You could definitely ask some hawks and see if they...
 Delwath: Can. I also think we should tell the centaurs about the Heart.
 
 %% u1055-u1057 %%
-Kenzo: I'm feeling that as well, but I'm also feeling like that's Candrosa's political mistake, not ours. It's like, I mean, [[I got it awesome]].
+Kenzo: I'm feeling that as well, but I'm also feeling like that's Candrosa's political mistake, not ours. It's like, I mean, {{I got it awesome}}.
 
 %% u1058 %%
 Wellby: David thinks both of you are right, but Wellby thinks that it's not our news to tell.
@@ -521,7 +521,7 @@ Wellby: I think Wellby left Sembara about the same time, though.
 DM: Yeah, about four months ago. Sort of a funny...
 
 %% u1081-u1082 %%
-Wellby: That makes him a little... Who's the owner of the centaurs again? [[Turmeric]]?
+Wellby: That makes him a little... Who's the owner of the centaurs again? {{Turmeric}}?
 
 %% u1083 %%
 DM: Tharandros.

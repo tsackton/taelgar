@@ -35,7 +35,7 @@ Kenzo: And this is actually probably the first cooked food we've eaten in a very
 DM: Yeah, I mean, Vola cooked some chicken, some...
 
 %% u1455 %%
-Delwath: [[To cooking]].
+Delwath: {{To cooking}}.
 
 %% u1456 %%
 Seeker: I mean that's true.
@@ -50,7 +50,7 @@ DM: I would think on the journey south you would probably have taken some time t
 Delwath: Delwath was a quartermaster in the army, who was a good cook.
 
 %% u1462 %%
-Kenzo: Oh, nice. I see. So Delwath [[hearing us]].
+Kenzo: Oh, nice. I see. So Delwath {{hearing us}}.
 
 %% u1463-u1468 %%
 DM: Yeah, I think he probably would have. Really, the northern plains—the last three days you've probably been pretty much on cold rations, dried meat and stuff like that. But the plains around the tower were pretty decent hunting. You could have rabbits and chickens and the occasional antelope, that sort of stuff. It's pretty decent game. But for the past three days, you've probably been just dried meat, pretty much.
@@ -125,7 +125,7 @@ DM: Many, many years. My father's father's time, maybe. Two hundred years ago, a
 Kenzo: Do you know of her origin?
 
 %% u1515-u1517 %%
-DM: [[Motivator]] is a... There is a fey spirit in her, or of her, part of her. She's not entirely of this plane.
+DM: {{Motivator}} is a... There is a fey spirit in her, or of her, part of her. She's not entirely of this plane.
 
 %% u1518 %%
 Seeker: Fey spirit, what does that mean?
@@ -227,7 +227,7 @@ Wellby: He's going to ask him, "Is this map drawn correctly? What should be at t
 DM: I don't know quite how to explain it in this clumsy tongue, Dunmari. The...
 
 %% u1659 %%
-Kenzo: [[Trends not]].
+Kenzo: {{Trends not}}.
 
 %% u1660 %%
 DM: See.
@@ -320,7 +320,7 @@ DM: This is not my kind of magic. We do not traffic with the gods. We are of the
 Wellby: Did you talk to Candrosa?
 
 %% u1745-u1746 %%
-DM: I will not speak with him while a curse hangs over him. [[Our car]] has said so.
+DM: I will not speak with him while a curse hangs over him. {{Our car}} has said so.
 
 %% u1747 %%
 Kenzo: What do you.

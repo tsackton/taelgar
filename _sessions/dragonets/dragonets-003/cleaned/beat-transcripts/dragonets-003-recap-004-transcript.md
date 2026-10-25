@@ -170,7 +170,7 @@ Sculpit: Run away.
 DM: Grab something interesting or shiny and run away, yes.
 
 %% u2933 %%
-Zeno: Everybody grab [[a skin.]]
+Zeno: Everybody grab {{a skin.}}
 
 %% u2934 %%
 Little Tony: Speak with Animals.
@@ -269,7 +269,7 @@ Little Tony: I'm gonna cast Summon Draconic Spirit, but why don't you…
 DM: What are you doing?
 
 %% u2972 %%
-Little Tony: [[The expert.]]
+Little Tony: {{The expert.}}
 
 %% u2973 %%
 DM: Can you, and Sculpit, don't forget that you have like teleportation abilities.
@@ -317,7 +317,7 @@ Sculpit: Back to the Wanderer.
 DM: You can make it there. Roll—actually, roll an Insight check?
 
 %% u2990 %%
-Sculpit: [[thing.]]
+Sculpit: {{thing.}}
 
 %% u2991-u2993 %%
 DM: Yeah, you can do it. You're able to take some eggs or whatever you want to grab.
@@ -386,7 +386,7 @@ Little Tony: …he convinces all of the bits and pieces and random stuff of the 
 DM: Nice.
 
 %% u3024-u3034 %%
-Little Tony: And so he climbs up on top of one of the barrels that's flipped over, and he turns around to face the whole room, and he says, ‘Pebbles! Railings! Light bulbs! You don't know me, and I don't know you. But in our greatest hour of need, we will come together! We will work together. We will rescue our animal friends, despite all of the disgusting fur that covers some of them. [[Change.]] We will set them free nonetheless.’
+Little Tony: And so he climbs up on top of one of the barrels that's flipped over, and he turns around to face the whole room, and he says, ‘Pebbles! Railings! Light bulbs! You don't know me, and I don't know you. But in our greatest hour of need, we will come together! We will work together. We will rescue our animal friends, despite all of the disgusting fur that covers some of them. {{Change.}} We will set them free nonetheless.’
 
 %% u3035-u3038 %%
 Little Tony: And you see all the bits of rubble and the metal pipes and the sections of gantry and walkway that have kind of dislodged, and the portions of the roof that have fallen down, all start to wiggle over and very quickly take the form of this enormous dragonet that just goes from cage to cage, in a single swipe of its paw, breaking off a dozen cages at once. And then whatever's in it starts to scamper away out the holes in the side of the ship.
@@ -404,10 +404,10 @@ DM: Perfect.
 Zeno: Zeno's like, okay, yeah, it's cool. He's got the egg situation under control. So I go back to the now-open cage of the one cutest entity, and I'm like, ‘I'll help you. You individually. Now come here.’ And I boop it out, have a little football carry, and fly out, rescuing my little friend.
 
 %% u3056-u3067 %%
-DM: So you all successfully, through these methods, have definitely saved a lot of beings. You definitely don't save everybody, but there's many that are freed. And you're able to pull out some twenty or so of these weird eggs that look kind of like… I'm not sure exactly what they are. [[Ring.]]
+DM: So you all successfully, through these methods, have definitely saved a lot of beings. You definitely don't save everybody, but there's many that are freed. And you're able to pull out some twenty or so of these weird eggs that look kind of like… I'm not sure exactly what they are. {{Ring.}}
 
 %% u3068-u3071 %%
-DM: [[And sit into the water.]] And as all of this is happening, the ship is pulsing, and you all literally did a giant maul through the center of the thing. There's a giant reactor on the ship. The thing has been smoking and billowing, and as you make your final escape, the entire massive ship explodes and just burns in this huge, fiery wreckage.
+DM: {{And sit into the water.}} And as all of this is happening, the ship is pulsing, and you all literally did a giant maul through the center of the thing. There's a giant reactor on the ship. The thing has been smoking and billowing, and as you make your final escape, the entire massive ship explodes and just burns in this huge, fiery wreckage.
 
 %% u3072-u3081 %%
 DM: And as the ship explodes, and as you escape with whatever these beings are—who knows exactly what was going on in the ship, and whatever is happening in this space—you fly out now, just kind of feeling through, ‘What the hell is going on with this giant ship and these beings?’

@@ -32,7 +32,7 @@ Delwath: Fire. So Delwath is kind of sitting by the fire, kind of lost in though
 Wellby: So Wellby is either methodically or obsessively unpacking and repackaging all of his stuff, taking out each arrow one by one, checking the point. He's checking the edges there; he occasionally straightens a feather in the fletching, but just methodically, one piece of equipment after another, like that.
 
 %% u0025-u0027 %%
-Riswynn: Yeah, given the windy conditions battering us as we got here, I also had to rebraid my hair and sort of collect myself, checking through my gear, reminding myself what I was smart enough to carry with me before my stupid horse ran off. [[My court]].
+Riswynn: Yeah, given the windy conditions battering us as we got here, I also had to rebraid my hair and sort of collect myself, checking through my gear, reminding myself what I was smart enough to carry with me before my stupid horse ran off. {{My court}}.
 
 %% u0028-u0029 %%
 DM: And yes, and Kenzo?
@@ -113,13 +113,13 @@ Unknown: Several.
 Kenzo: Right, there are Taelgarian astronomers? There must be an astronomy department of the Great Library or something like that, where they—
 
 %% u0107 %%
-DM: [[Set]]. Yeah.
+DM: {{Set}}. Yeah.
 
 %% u0108 %%
-Kenzo: [[Relations]] and all that stuff.
+Kenzo: {{Relations}} and all that stuff.
 
 %% u0109 %%
-Wellby: [[Hump]]. Like it's—
+Wellby: {{Hump}}. Like it's—
 
 %% u0110 %%
 DM: No. Yeah, definitely.
@@ -128,7 +128,7 @@ DM: No. Yeah, definitely.
 Wellby: It's an Earth-centered—it's a Taelgar-centered universe. We're at the center of an armillary sphere, and there are just whatever arbitrary things around us that could be put there.
 
 %% u0112 %%
-Seeker: Spherical shells, [[misty]].
+Seeker: Spherical shells, {{misty}}.
 
 %% u0113-u0116 %%
 DM: That each turn in different orders and speeds. That could be it. There's definitely people who track it, and there's a number of plausible hypotheses, including that the world rotates. But, you know, there's seasons, so something's obviously... Seasons are caused by the tilt of the axis relative to the sun, right? So, of course, whether Taelgar is orbiting the sun or not is difficult to establish.
@@ -194,13 +194,13 @@ Seeker: What's on the other side of the rock? So we're kind of underneath this o
 DM: Just the bare earth of the grass of the plains. So there's a clear circle that's maybe 400 feet in diameter, where you passed through that wall of wind and you came out into this clear area, which is roughly maybe 400 feet in diameter. In the center, there's this prow of rock jutting out, which goes up maybe 50–60 feet. You're sheltered under that prow of rock, and then sort of halfway up the prow of rock, the tower comes off the blue granite. But otherwise, surrounding it is pretty much featureless.
 
 %% u0154-u0156 %%
-Seeker: [[We're pleased for tower]]. Except for the obvious utility access.
+Seeker: {{We're pleased for tower}}. Except for the obvious utility access.
 
 %% u0157 %%
 Unknown: Right.
 
 %% u0158-u0161 %%
-Riswynn: We're here. [[Whatever happened to them survived it laughs. You didn't advance their needs to linger here. Does it and vampires]]. Do we have a duty to help whatever is trapped? Do we have a duty to keep trapped whatever is trapped?
+Riswynn: We're here. {{Whatever happened to them survived it laughs. You didn't advance their needs to linger here. Does it and vampires}}. Do we have a duty to help whatever is trapped? Do we have a duty to keep trapped whatever is trapped?
 
 %% u0162 %%
 Seeker: Personally, I'd like to find out more.
@@ -338,7 +338,7 @@ Seeker: But never in reverse, right, Schwartz?
 DM: As far as you know. As far as you know, there is nothing in your reading about time running in reverse, and whether it would be possible to somehow use these other planes to manipulate the timeline of Taelgar itself. There are legends that this has been done. In fact, there's legends that this was supposedly crucial to the war against Cha'mutte.
 
 %% u0257 %%
-Unknown: [[That was crucified]].
+Unknown: {{That was crucified}}.
 
 %% u0258 %%
 DM: Going back in time to—
@@ -347,7 +347,7 @@ DM: Going back in time to—
 Unknown: Create.
 
 %% u0260 %%
-DM: [[Kinky firstborn]].
+DM: {{Kinky firstborn}}.
 
 %% u0261 %%
 Kenzo: How do—
@@ -425,7 +425,7 @@ Delwath: Vola stayed behind with the horses.
 DM: No, she said, "I want no part in this," and stayed behind in your camp with the horses and said she'd wait for a day, see if you made it out.
 
 %% u0306 %%
-Seeker: So it's been hundreds of years since [[did]].
+Seeker: So it's been hundreds of years since {{did}}.
 
 %% u0307-u0310 %%
 Delwath: Knowing that time has changed, can we reinvestigate the remains of the camp and the body? Remind me, there was a body, right?
@@ -470,7 +470,7 @@ Delwath: But we don't know. Maybe it was a halfling.
 DM: None of the major—
 
 %% u0332 %%
-Wellby: [[Done Meyer was done for]].
+Wellby: {{Done Meyer was done for}}.
 
 %% u0333-u0340 %%
 DM: No, none of the major religions of the world that you know have any sort of theology about people's bodies being important or coming back in some way, right? So graves are more of a memorial or a marker, less of, like, dead bodies are of religious importance. It might not be looked upon pleasantly, but that would be more because people are terrified and angry about necromancers and undead, and so digging up a grave would be seen as an evil act in the sense you're trying to—are you doing this because you're trying to create a zombie army to do evil things? I mean, necromancy is very much seen as pure evil. There's not helpful zombies walking around the world under the control of your friendly neighborhood necromancer.
@@ -482,7 +482,7 @@ Kenzo: That, by the way, would be a great name for something—album, whatever. 
 Unknown: Zombie.
 
 %% u0343 %%
-Kenzo: [[In that]].
+Kenzo: {{In that}}.
 
 %% u0344 %%
 Unknown: Um.
@@ -524,7 +524,7 @@ DM: As you begin to do this, Wellby has been sort of meditating for a moment. An
 Wellby: Oh yes, I do.
 
 %% u0376-u0385 %%
-DM: Okay. Wellby has been meditating for a moment, and as he's doing this, as you go to start to dig up the grave, you see little sparks of lightning start to collect on him, sort of running up, glowing dimly. And there's little sparks kind of seeming to gather from the air around Wellby's body. And as you see what I sent you... So lightning is now starting to gather a little bit. Okay, [[I've got a project]] coming out of the air, sort of collecting on Wellby.
+DM: Okay. Wellby has been meditating for a moment, and as he's doing this, as you go to start to dig up the grave, you see little sparks of lightning start to collect on him, sort of running up, glowing dimly. And there's little sparks kind of seeming to gather from the air around Wellby's body. And as you see what I sent you... So lightning is now starting to gather a little bit. Okay, {{I've got a project}} coming out of the air, sort of collecting on Wellby.
 
 %% u0386 %%
 Kenzo: Wellby, are you okay? Why are you—
@@ -572,7 +572,7 @@ DM: 1774. There's a dry-cleaning receipt with a date.
 Unknown: And.
 
 %% u0414-u0415 %%
-Riswynn: [[It's crossed would love to hear from your Nana in 30]].
+Riswynn: {{It's crossed would love to hear from your Nana in 30}}.
 
 %% u0416-u0427 %%
 DM: Yeah, there's nothing very distinctive about this. It's reasonably well-made fabric ripped into strips, like a robe, and it's bits and pieces of different things mixed together. Things are starting to decompose a little bit, right? This body's bloated and features are all distorted, and some of the early stages of decomposition have set in, so it's not simple to tell much. But the best sense you can get is, this person is wearing boots, for example, that look familiar. It doesn't strike you as some radically different style of what you see every day, or used to see every day when you spent time with people. I guess for Delwath it would be a little bit different, but for Kenzo in particular, this is sort of a generic modern style of clothing. But whether it's, I mean, it's—
@@ -614,7 +614,7 @@ Unknown: What color?
 Seeker: Oh, whoo.
 
 %% u0449 %%
-DM: [[Turn up]].
+DM: {{Turn up}}.
 
 %% u0450 %%
 Delwath: How many—

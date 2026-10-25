@@ -12,15 +12,15 @@
 [u0012 | 00:00:57.860-00:01:01.390 | DM] forests of the elves stretched across these lands.
 [u0013 | 00:01:01.780-00:01:04.760 | DM] a tower stood here, perched on a cliff.
 [u0014 | 00:01:05.740-00:01:11.460 | DM] The cliff was less weathered then, its former form as a skyship of the storm giants clearer.
-[u0015 | 00:01:11.840-00:01:20.320 | DM] Then the winds brought news from across the vast kingdom of [[Akar in K]]. And for those who cared to hear it, even tidings of the humans
-[u0016 | 00:01:20.510-00:01:22.599 | DM] on the distant island of [[Car]].
-[u0017 | 00:01:24.380-00:01:29.919 | DM] For many years after the fall of [[our car]], and the winds blew still, though there was no one to hear them
-[u0018 | 00:01:30.320-00:01:35.610 | DM] until the people of [[drank or]] spread across the land and discovered the magic of this place.
+[u0015 | 00:01:11.840-00:01:20.320 | DM] Then the winds brought news from across the vast kingdom of {{Akar in K}}. And for those who cared to hear it, even tidings of the humans
+[u0016 | 00:01:20.510-00:01:22.599 | DM] on the distant island of {{Car}}.
+[u0017 | 00:01:24.380-00:01:29.919 | DM] For many years after the fall of {{our car}}, and the winds blew still, though there was no one to hear them
+[u0018 | 00:01:30.320-00:01:35.610 | DM] until the people of {{drank or}} spread across the land and discovered the magic of this place.
 [u0019 | 00:01:36.240-00:01:40.440 | DM] Storm Caller Tower passed through many hands until it came to be the home
-[u0020 | 00:01:40.550-00:01:42.610 | DM] of the wizard [[You dome]].
+[u0020 | 00:01:40.550-00:01:42.610 | DM] of the wizard {{You dome}}.
 [u0021 | 00:01:43.450-00:01:47.889 | DM] A man possessed with great power and skill and magic.
-[u0022 | 00:01:48.360-00:01:53.469 | DM] He heard the winds and caught them, ensnaring the Storm Giant [[Hall guard]] in his spells.
-[u0023 | 00:01:55.030-00:01:59.050 | DM] but [[drank or]] fell, and the knowledge of Storm Caller Tower was lost.
+[u0022 | 00:01:48.360-00:01:53.469 | DM] He heard the winds and caught them, ensnaring the Storm Giant {{Hall guard}} in his spells.
+[u0023 | 00:01:55.030-00:01:59.050 | DM] but {{drank or}} fell, and the knowledge of Storm Caller Tower was lost.
 [u0024 | 00:01:59.480-00:02:06.709 | DM] though the giants are few now almost never seen on the settled lowlands of Dunmar. The winds still still speak, and carry news.
 [u0025 | 00:02:07.490-00:02:13.899 | DM] The north wind blows cold from the mountains Camped to our travelers' camp near Storm Caller Tower.
 [u0026 | 00:02:14.530-00:02:20.920 | DM] It speaks of the snow and winter that has already come to the passes, closing the roads to Sabara until spring.
@@ -33,7 +33,7 @@
 [u0033 | 00:02:52.220-00:02:57.170 | DM] A metallic tang in the air. The eagerness of these warriors for blood and glory.
 [u0034 | 00:02:58.640-00:03:10.999 | DM] The south wind blows from the oceans, carrying the last of the rains to the plains of Dunmar. And yet within the life-giving monsoons is a seed of doubt, of suspicion, for the south wind blows from Daihar.
 [u0035 | 00:03:11.110-00:03:13.500 | DM] from the savannahs of Western Dunmar.
-[u0036 | 00:03:14.000-00:03:17.030 | DM] where the [[Somrat]] king broods over hags
+[u0036 | 00:03:14.000-00:03:17.030 | DM] where the {{Somrat}} king broods over hags
 [u0037 | 00:03:17.630-00:03:21.050 | DM] and fears of mind control and plots.
 [u0038 | 00:03:21.310-00:03:22.749 | DM] and his sister.
 [u0039 | 00:03:25.180-00:03:32.110 | DM] The west wind races from Chardon blowing swiftly across the open lands of Dunmar and the river valleys of Chardon.
@@ -96,7 +96,7 @@
 [u0096 | 00:07:17.760-00:07:18.590 | Seeker] A.
 [u0097 | 00:07:18.680-00:07:19.310 | Seeker] The
 [u0098 | 00:07:20.060-00:07:21.320 | Seeker] who speaks to us
-[u0099 | 00:07:26.080-00:07:27.760 | Seeker] is that is that [[rather]]?
+[u0099 | 00:07:26.080-00:07:27.760 | Seeker] is that is that {{rather}}?
 [u0100 | 00:07:29.590-00:07:32.199 | DM] The Kenzo turns around
 [u0101 | 00:07:33.310-00:07:35.150 | DM] and holds his hands up
 [u0102 | 00:07:35.450-00:07:36.990 | DM] in front of his face.
@@ -134,7 +134,7 @@
 [u0134 | 00:09:52.880-00:10:05.280 | Seeker] No, I I think we can. We can persuade him that that we have his eyes. But we'll need to show him the eyes. So so similarly we need to do that whole process to get the eyes out before Kenzo walks into the storm. So
 [u0135 | 00:10:05.420-00:10:06.100 | Seeker] I
 [u0136 | 00:10:06.330-00:10:13.179 | Riswynn] But so there was a moment in some amount of dream information that we got from clairvoyance or something where
-[u0137 | 00:10:13.290-00:10:15.929 | Riswynn] [[Carl Guard]] didn't realize about
+[u0137 | 00:10:13.290-00:10:15.929 | Riswynn] {{Carl Guard}} didn't realize about
 [u0138 | 00:10:16.260-00:10:22.310 | Riswynn] his state in this world, and he was like entirely existing in the dream in his other universe, and
 [u0139 | 00:10:22.410-00:10:24.789 | Riswynn] didn't know he couldn't see, and didn't
 [u0140 | 00:10:24.810-00:10:29.120 | Riswynn] have the whole like missing eyes thing. But his reaction just now does suggest
@@ -164,14 +164,14 @@
 [u0164 | 00:12:00.960-00:12:04.110 | DM] you know he's getting close enough now that there's some.
 [u0165 | 00:12:04.330-00:12:07.140 | DM] you know, water splashing on him and stuff, and
 [u0166 | 00:12:07.480-00:12:12.169 | DM] you know he almost stops for a minute just to stare up at the sky.
-[u0167 | 00:12:15.780-00:12:16.770 | Seeker] [[Raulgar]].
+[u0167 | 00:12:15.780-00:12:16.770 | Seeker] {{Raulgar}}.
 [u0168 | 00:12:17.020-00:12:17.710 | Seeker] We've
 [u0169 | 00:12:18.230-00:12:22.060 | Seeker] we've brought, we've we've found your eyes and brought them back.
 [u0170 | 00:12:22.310-00:12:25.229 | Seeker] but but you'll need to help us get to your body.
 [u0171 | 00:12:27.780-00:12:30.020 | Seeker] It's in the storm, and that's dangerous for us.
-[u0172 | 00:12:34.160-00:12:36.690 | Riswynn] While Seeker is talking to [[Heralgar]].
+[u0172 | 00:12:34.160-00:12:36.690 | Riswynn] While Seeker is talking to {{Heralgar}}.
 [u0173 | 00:12:36.920-00:12:39.140 | Riswynn] Wellby and I are like wrangling.
-[u0174 | 00:12:39.310-00:12:53.430 | Riswynn] storm-panicked horses and [[some beacon of axe, beak]], and stuff, and getting them like I don't know in the mirror and the hole, and the something like the plan that we had like if we were going in the storm. We weren't going to bring panicked animals
+[u0174 | 00:12:39.310-00:12:53.430 | Riswynn] storm-panicked horses and {{some beacon of axe, beak}}, and stuff, and getting them like I don't know in the mirror and the hole, and the something like the plan that we had like if we were going in the storm. We weren't going to bring panicked animals
 [u0175 | 00:12:53.520-00:12:54.560 | Seeker] all right.
 [u0176 | 00:12:54.980-00:12:56.259 | Riswynn] so we're gonna
 [u0177 | 00:12:56.790-00:12:58.120 | Delwath] Did we have a plan?
@@ -187,13 +187,13 @@
 [u0187 | 00:13:47.450-00:13:51.679 | DM] trust Baxter to like. Keep keep track of the animals
 [u0188 | 00:13:52.250-00:13:53.030 | Riswynn] all right.
 [u0189 | 00:14:00.830-00:14:04.219 | DM] But yes, it takes a little bit of effort to like.
-[u0190 | 00:14:05.390-00:14:07.039 | DM] [[Thank your pony]], and
+[u0190 | 00:14:05.390-00:14:07.039 | DM] {{Thank your pony}}, and
 [u0191 | 00:14:07.500-00:14:10.460 | DM] Wellby to talk to Baxter, and, you know
 [u0192 | 00:14:11.270-00:14:15.390 | DM] telepathically explain to him the situation like Don't run off.
 [u0193 | 00:14:15.510-00:14:17.179 | DM] Keep an eye on the pony.
 [u0194 | 00:14:22.750-00:14:24.589 | DM] and Delwath and
 [u0195 | 00:14:24.760-00:14:28.130 | DM] Seeker are running towards Kenzo now with the eyes.
-[u0196 | 00:14:29.540-00:14:31.540 | Seeker] Yeah, [[with each that one]]. Okay.
+[u0196 | 00:14:29.540-00:14:31.540 | Seeker] Yeah, {{with each that one}}. Okay.
 [u0197 | 00:14:31.770-00:14:33.639 | Seeker] why not? That is yes.
 [u0198 | 00:14:34.850-00:14:35.650 | DM] power.
 [u0199 | 00:14:36.390-00:14:38.120 | DM] So Kenzo turns
@@ -267,7 +267,7 @@
 [u0267 | 00:18:54.100-00:18:56.200 | Seeker] so we've we've quite a quite a walk.
 [u0268 | 00:18:56.670-00:19:02.390 | DM] So you've got yeah, you've got, and it's not easy going. It's muddy. It's
 [u0269 | 00:19:03.420-00:19:07.099 | DM] like as you step into the storm.
-[u0270 | 00:19:08.350-00:19:09.830 | Seeker] You have any [[brain sense]].
+[u0270 | 00:19:08.350-00:19:09.830 | Seeker] You have any {{brain sense}}.
 [u0271 | 00:19:11.040-00:19:12.490 | Unknown] Yes.
 [u0272 | 00:19:14.820-00:19:16.869 | DM] I got something for this here.
 [u0273 | 00:19:29.520-00:19:30.230 | DM] Oh, wait!
@@ -296,7 +296,7 @@
 [u0296 | 00:20:44.380-00:20:48.170 | DM] still moving in that slow, clumsy way. Right? Not.
 [u0297 | 00:20:50.450-00:20:52.389 | DM] you know. Not particularly.
 [u0298 | 00:21:06.960-00:21:08.340 | Riswynn] Not particularly
-[u0299 | 00:21:09.410-00:21:12.420 | Riswynn] do people facing magical challenges make [[craving curs]].
+[u0299 | 00:21:09.410-00:21:12.420 | Riswynn] do people facing magical challenges make {{craving curs}}.
 [u0300 | 00:21:16.330-00:21:17.349 | Riswynn] Yes, right.
 [u0301 | 00:21:17.850-00:21:19.080 | DM] yes.
 [u0302 | 00:21:20.000-00:21:25.550 | Riswynn] Riswynn says a quick prayer as we're all marching along, holding the ladder, and reaches out to bless
@@ -704,7 +704,7 @@
 [u0704 | 00:49:22.650-00:49:23.980 | Wellby] It's further east.
 [u0705 | 00:49:24.470-00:49:27.320 | Delwath] Yeah, yeah, if you look at the
 [u0706 | 00:49:28.340-00:49:35.789 | Delwath] it's it's it's: yeah, yeah, yeah, See where it says orcs. Little X. It's there.
-[u0707 | 00:49:36.120-00:49:44.279 | Wellby] But that also answers Why, there's an army marching east from [[Carson]]. Well, you can't just send a team of people East. You need an army
+[u0707 | 00:49:36.120-00:49:44.279 | Wellby] But that also answers Why, there's an army marching east from {{Carson}}. Well, you can't just send a team of people East. You need an army
 [u0708 | 00:49:44.330-00:49:46.280 | Wellby] because the leader of the Orcs is going to.
 [u0709 | 00:49:46.540-00:49:50.049 | Wellby] That also makes our task a lot more complicated.
 [u0710 | 00:49:51.400-00:49:52.339 | Seeker] Why?
@@ -729,7 +729,7 @@
 [u0729 | 00:50:45.440-00:50:47.759 | Seeker] 5 bedroom castle.
 [u0730 | 00:50:52.550-00:50:53.669 | Seeker] Now. I mean.
 [u0731 | 00:50:58.610-00:51:02.559 | Seeker] it does complicate things that is amazing, though.
-[u0732 | 00:51:02.920-00:51:06.760 | Seeker] Wellby! What else should we have him [[in]]?
+[u0732 | 00:51:02.920-00:51:06.760 | Seeker] Wellby! What else should we have him {{in}}?
 [u0733 | 00:51:08.090-00:51:15.409 | DM] Oh, that's it now. Wellby's got a splitting headache and is clutching his head as he was suddenly dislocated back into his body.
 [u0734 | 00:51:15.720-00:51:17.839 | Wellby] I mean Wow!
 [u0735 | 00:51:18.750-00:51:22.589 | DM] That was right, but conveniently not driven mad by the experience
@@ -854,7 +854,7 @@
 [u0854 | 00:58:55.810-00:58:58.790 | DM] cure wounds as one d 8 plus 5,
 [u0855 | 00:58:59.220-00:59:02.489 | DM] and it gives an extra d8 for every level above
 [u0856 | 00:59:04.860-00:59:06.789 | DM] above. First, that you cast that
-[u0857 | 00:59:08.810-00:59:11.270 | Riswynn] [[the second calendar we use any]]
+[u0857 | 00:59:08.810-00:59:11.270 | Riswynn] {{the second calendar we use any}}
 [u0858 | 00:59:11.480-00:59:19.249 | DM] spell slots yet. So yeah, the second-level heal. We also have a couple of dates, and maybe fine. Okay. So 2D 8, plus 5.
 [u0859 | 00:59:33.800-00:59:37.330 | DM] So as Riswynn stops a moment to
 [u0860 | 00:59:38.820-00:59:44.000 | DM] Oh, here. I got your I got your character on my phone. I can mark off the spell slot for you.
@@ -1015,7 +1015,7 @@
 [u1015 | 01:09:35.439-01:09:38.559 | Seeker] So what's my mod here.
 [u1016 | 01:09:41.410-01:09:42.559 | DM] plus one
 [u1017 | 01:09:45.930-01:09:46.960 | Seeker] is.
-[u1018 | 01:09:48.569-01:09:52.959 | Riswynn] I don't have a plus to my initiative. [[Those just 2 h of straight]].
+[u1018 | 01:09:48.569-01:09:52.959 | Riswynn] I don't have a plus to my initiative. {{Those just 2 h of straight}}.
 [u1019 | 01:09:53.189-01:09:53.899 | DM] Yeah.
 [u1020 | 01:09:58.260-01:10:04.109 | DM] Okay. Now, the question is all these fancy homebrew monsters I made? Oh, no.
 [u1021 | 01:10:04.530-01:10:10.219 | DM] or I should say ChatGPT made I'm going to have to go back to that
@@ -1062,7 +1062,7 @@
 [u1062 | 01:12:42.960-01:12:45.050 | Wellby] Yeah. Then me and Riswynn last.
 [u1063 | 01:12:46.080-01:12:48.899 | DM] Okay. So Riswynn is out of range. So 2
 [u1064 | 01:12:50.160-01:12:53.170 | DM] to come for Delwath both miss.
-[u1065 | 01:12:53.890-01:12:55.629 | DM] one for [[resident]]
+[u1065 | 01:12:53.890-01:12:55.629 | DM] one for {{resident}}
 [u1066 | 01:12:55.650-01:12:57.219 | DM] That'll miss.
 [u1067 | 01:12:57.340-01:13:01.009 | DM] One for Seeker, misses. wow, a 2, a 3, and 2 fours.
 [u1068 | 01:13:01.100-01:13:02.500 | Seeker] What were they?
@@ -1094,7 +1094,7 @@
 [u1094 | 01:14:28.740-01:14:30.579 | DM] now, like here? No, no.
 [u1095 | 01:14:30.790-01:14:33.030 | Delwath] I see. Yeah, yeah. Yeah. Yeah, yeah. Yeah.
 [u1096 | 01:14:36.510-01:14:37.719 | DM] So it's
-[u1097 | 01:14:37.790-01:14:40.719 | DM] [[none of the fog has cleared it's longer than you]].
+[u1097 | 01:14:37.790-01:14:40.719 | DM] {{none of the fog has cleared it's longer than you}}.
 [u1098 | 01:14:41.600-01:14:47.690 | DM] I mean. So the pack the path doesn't go straight up right. The path curves so, even though it's 40 feet up.
 [u1099 | 01:14:47.760-01:14:53.110 | DM] the actual distance that the path travels is longer. But this is a slant right. This is the
 [u1100 | 01:14:53.130-01:14:54.770 | DM] hypotenuse. So
@@ -1162,7 +1162,7 @@
 [u1162 | 01:19:04.060-01:19:05.200 | Riswynn] Yeah, okay.
 [u1163 | 01:19:09.210-01:19:11.120 | Riswynn] right. So
 [u1164 | 01:19:11.460-01:19:15.169 | Riswynn] sure. But then everybody's flying to be
-[u1165 | 01:19:15.480-01:19:18.620 | Riswynn] sort of near the [[nourish them]] right like, so
+[u1165 | 01:19:15.480-01:19:18.620 | Riswynn] sort of near the {{nourish them}} right like, so
 [u1166 | 01:19:18.960-01:19:20.789 | Riswynn] I can do the same distance.
 [u1167 | 01:19:25.380-01:19:26.139 | Unknown] Yeah.
 [u1168 | 01:19:36.610-01:19:39.430 | DM] I mean, you can fly 60 feet right?
@@ -1368,7 +1368,7 @@
 [u1368 | 01:32:40.820-01:32:46.129 | DM] I mean you can see the door. You can see the first floor. The inside of the tower is fairly clear.
 [u1369 | 01:32:46.410-01:32:47.190 | DM] I mean
 [u1370 | 01:32:47.430-01:32:52.269 | DM] clear in the sense that the visibility is not there's always to be a lot of
-[u1371 | 01:32:52.570-01:32:54.409 | Delwath] [[i'll find her on debris]].
+[u1371 | 01:32:52.570-01:32:54.409 | Delwath] {{i'll find her on debris}}.
 [u1372 | 01:32:56.720-01:32:58.610 | Delwath] What's what's 60 feet up
 [u1373 | 01:33:00.320-01:33:01.559 | Unknown] The top of the tower
 [u1374 | 01:33:02.550-01:33:06.569 | Delwath] Is that platform that we? The platform is still there? Yeah.
@@ -1405,8 +1405,8 @@
 [u1405 | 01:35:15.140-01:35:16.539 | DM] So what are you all doing
 [u1406 | 01:35:19.000-01:35:22.199 | Riswynn] so. What I remember is that that platform was like
 [u1407 | 01:35:22.240-01:35:23.769 | Riswynn] outside this top
-[u1408 | 01:35:23.970-01:35:27.549 | Riswynn] chamber room, and that was where [[Rogers]] eyes
-[u1409 | 01:35:27.780-01:35:29.580 | Riswynn] [[to be, or for our]]
+[u1408 | 01:35:23.970-01:35:27.549 | Riswynn] chamber room, and that was where {{Rogers}} eyes
+[u1409 | 01:35:27.780-01:35:29.580 | Riswynn] {{to be, or for our}}
 [u1410 | 01:35:29.700-01:35:31.719 | Riswynn] was tied up, or something like that, like.
 [u1411 | 01:35:31.820-01:35:33.570 | Delwath] Yeah, I think we should fly up.
 [u1412 | 01:35:33.680-01:35:40.060 | Riswynn] We've done the top level or the second, the highest level, right that you're raising. Yes, yeah.
@@ -1515,7 +1515,7 @@
 [u1515 | 01:42:32.360-01:42:33.630 | Riswynn] It's Still, I
 [u1516 | 01:42:34.890-01:42:36.010 | Riswynn] I First
 [u1517 | 01:42:36.290-01:42:37.330 | Delwath] I yeah.
-[u1518 | 01:42:37.760-01:42:51.039 | Seeker] The the the binding stones are a bit of a research project that I'm working on. I I believe that those were used to keep [[raw gar]] in the statue form, and so if we simply leave them off, then perhaps he'll be able to go free.
+[u1518 | 01:42:37.760-01:42:51.039 | Seeker] The the the binding stones are a bit of a research project that I'm working on. I I believe that those were used to keep {{raw gar}} in the statue form, and so if we simply leave them off, then perhaps he'll be able to go free.
 [u1519 | 01:42:52.270-01:42:56.219 | Wellby] Yes, and it seems like there's a case to be made, though, that
 [u1520 | 01:42:58.150-01:42:59.099 | Wellby] that he's
 [u1521 | 01:42:59.200-01:43:01.410 | Wellby] like totally insane right now.
@@ -1658,7 +1658,7 @@
 [u1658 | 01:51:01.120-01:51:01.830 | DM] I don't
 [u1659 | 01:51:02.230-01:51:03.460 | DM] my friend.
 [u1660 | 01:51:06.930-01:51:07.610 | DM] Hmm.
-[u1661 | 01:51:08.490-01:51:09.910 | DM] [[Had I lived alone]].
+[u1661 | 01:51:08.490-01:51:09.910 | DM] {{Had I lived alone}}.
 [u1662 | 01:51:13.640-01:51:14.469 | DM] Come.
 [u1663 | 01:51:14.850-01:51:18.090 | DM] and he looks. He's like looking way way over your heads.
 [u1664 | 01:51:21.500-01:51:23.080 | DM] He he will guide you.
@@ -1670,7 +1670,7 @@
 [u1670 | 01:51:45.740-01:51:49.309 | DM] he sort of gives you a slight bow. He doesn't recognize any of you.
 [u1671 | 01:51:51.410-01:51:52.490 | DM] and says.
 [u1672 | 01:51:54.200-01:51:55.330 | DM] Please come.
-[u1673 | 01:51:58.490-01:52:02.520 | DM] [[Craigar]] would be pleased to speak with you and hear your stories
+[u1673 | 01:51:58.490-01:52:02.520 | DM] {{Craigar}} would be pleased to speak with you and hear your stories
 [u1674 | 01:52:05.930-01:52:07.370 | DM] I have guided him for
 [u1675 | 01:52:12.180-01:52:14.110 | DM] has it been years already?
 [u1676 | 01:52:19.970-01:52:22.580 | DM] He sometimes gets confused, but
@@ -1725,9 +1725,9 @@
 [u1725 | 01:55:49.720-01:55:50.660 | DM] Odd. You
 [u1726 | 01:55:51.010-01:55:52.570 | DM] speak in my mind.
 [u1727 | 01:55:55.180-01:55:56.100 | DM] I am
-[u1728 | 01:55:56.390-01:55:57.469 | DM] [[joined. Her]].
+[u1728 | 01:55:56.390-01:55:57.469 | DM] {{joined. Her}}.
 [u1729 | 01:56:04.930-01:56:05.750 | DM] Been a
-[u1730 | 01:56:06.940-01:56:09.010 | DM] friend to [[Hogg, I]] for
+[u1730 | 01:56:06.940-01:56:09.010 | DM] friend to {{Hogg, I}} for
 [u1731 | 01:56:09.130-01:56:10.519 | DM] several years now
 [u1732 | 01:56:12.590-01:56:14.940 | Delwath] do we have any idea who that name is?
 [u1733 | 01:56:17.380-01:56:20.700 | DM] I mean, it sounds giantish.
@@ -1736,25 +1736,25 @@
 [u1736 | 01:56:42.800-01:56:43.660 | Unknown] Yeah, no.
 [u1737 | 01:56:44.580-01:56:45.360 | DM] Nope.
 [u1738 | 01:56:47.230-01:56:48.609 | Wellby] I'll say.
-[u1739 | 01:56:48.830-01:56:50.590 | Wellby] well met [[Tontar]].
+[u1739 | 01:56:48.830-01:56:50.590 | Wellby] well met {{Tontar}}.
 [u1740 | 01:56:52.590-01:56:57.270 | Seeker] I want to do it, too. I'm just it's just getting the David. But
 [u1741 | 01:56:58.050-01:57:03.979 | Seeker] the fact that it's locked out of his house. What's my history? Modifier
 [u1742 | 01:57:04.380-01:57:08.330 | Unknown] history is plus 13
 [u1743 | 01:57:08.680-01:57:12.939 | Seeker] D&D Beyond appears to be back up. It's bad. D&D Beyond is is back now
 [u1744 | 01:57:15.220-01:57:16.759 | Seeker] for all the you
 [u1745 | 01:57:17.610-01:57:18.690 | DM] Now
-[u1746 | 01:57:19.680-01:57:22.289 | DM] none of you have heard the name, [[John dear]].
+[u1746 | 01:57:19.680-01:57:22.289 | DM] none of you have heard the name, {{John dear}}.
 [u1747 | 01:57:26.390-01:57:27.740 | Wellby] going to you. Well met.
 [u1748 | 01:57:27.970-01:57:33.050 | Wellby] I'm. Wellby Goodbarrel, and my home is on the western edge of the Green Sea. Where's yours.
 [u1749 | 01:57:38.590-01:57:40.000 | DM] Green Sea?
 [u1750 | 01:57:40.950-01:57:42.350 | Unknown] Not too far from here.
 [u1751 | 01:57:44.930-01:57:45.849 | Unknown] up in the
 [u1752 | 01:57:47.340-01:57:48.670 | DM] mountains.
-[u1753 | 01:57:57.760-01:58:00.159 | DM] I have lived here with [[Hulgar]] for
+[u1753 | 01:57:57.760-01:58:00.159 | DM] I have lived here with {{Hulgar}} for
 [u1754 | 01:58:04.880-01:58:06.240 | DM] 5 years now.
 [u1755 | 01:58:07.220-01:58:09.289 | DM] Not so much time, and the
 [u1756 | 01:58:09.460-01:58:11.089 | DM] reckoning of our people
-[u1757 | 01:58:14.200-01:58:15.679 | Seeker] with [[Roger]].
+[u1757 | 01:58:14.200-01:58:15.679 | Seeker] with {{Roger}}.
 [u1758 | 01:58:21.810-01:58:24.320 | Wellby] I'm his apprentice, you could say.
 [u1759 | 01:58:36.720-01:58:37.930 | Wellby] What are you learning
 [u1760 | 01:58:45.530-01:58:47.120 | DM] for a moment?
@@ -1781,10 +1781,10 @@
 [u1781 | 01:59:55.280-02:00:00.859 | DM] you know the table is is like far too grand for any of you to sit. It's like, you know.
 [u1782 | 02:00:01.520-02:00:06.350 | DM] 15 feet off the ground, and the chairs going 10 feet up.
 [u1783 | 02:00:08.410-02:00:09.150 | Seeker] But
-[u1784 | 02:00:09.270-02:00:12.960 | DM] [[her allgar]] turns, and he he stops for a moment. He, like
+[u1784 | 02:00:09.270-02:00:12.960 | DM] {{her allgar}} turns, and he he stops for a moment. He, like
 [u1785 | 02:00:13.080-02:00:16.310 | DM] puts his hand out and reaches around, and Kenzo runs up.
 [u1786 | 02:00:16.580-02:00:21.149 | DM] runs up to him, and and and like grabs him by the finger
-[u1787 | 02:00:21.470-02:00:25.239 | DM] reaching up above his head to grab [[brother his]] finger
+[u1787 | 02:00:21.470-02:00:25.239 | DM] reaching up above his head to grab {{brother his}} finger
 [u1788 | 02:00:26.020-02:00:27.740 | DM] and sort of
 [u1789 | 02:00:27.920-02:00:29.990 | DM] leads him, and he sits
 [u1790 | 02:00:30.040-02:00:33.169 | DM] there's like a a huge like hearth
@@ -1796,8 +1796,8 @@
 [u1796 | 02:00:48.520-02:00:49.629 | Delwath] right?
 [u1797 | 02:00:50.190-02:00:51.030 | DM] And
 [u1798 | 02:00:51.430-02:00:53.070 | DM] Kenzo slash
-[u1799 | 02:00:54.380-02:00:58.949 | DM] [[gender]] seems to have like pushed or moved a couple of these
-[u1800 | 02:00:59.540-02:01:06.199 | DM] like footstool couches into a position so that he can sit and [[hog are]] sitting in his chair like looking way up.
+[u1799 | 02:00:54.380-02:00:58.949 | DM] {{gender}} seems to have like pushed or moved a couple of these
+[u1800 | 02:00:59.540-02:01:06.199 | DM] like footstool couches into a position so that he can sit and {{hog are}} sitting in his chair like looking way up.
 [u1801 | 02:01:06.500-02:01:09.390 | DM] But there's a few of these
 [u1802 | 02:01:10.340-02:01:13.410 | DM] footstools couches that you can sit on it
 [u1803 | 02:01:13.770-02:01:18.120 | DM] made of hard stone. But when you sit down it actually somehow feels
@@ -1809,7 +1809,7 @@
 [u1809 | 02:01:34.660-02:01:39.100 | DM] imagine, as you sit down, you're like. Oh, it'd be so nice to be sitting on it right soft.
 [u1810 | 02:01:40.100-02:01:41.990 | DM] Suddenly it's soft.
 [u1811 | 02:01:42.960-02:01:45.159 | DM] almost as if you're sitting on a cloud.
-[u1812 | 02:01:50.060-02:01:51.800 | DM] [[Prag are]] then sort of
+[u1812 | 02:01:50.060-02:01:51.800 | DM] {{Prag are}} then sort of
 [u1813 | 02:01:53.200-02:01:53.760 | Unknown] who
 [u1814 | 02:01:53.800-02:01:58.870 | DM] glances around and and looks down at You can see now clearly in the sunlight, filtering
 [u1815 | 02:01:59.040-02:02:00.690 | DM] into the palace like
@@ -1834,7 +1834,7 @@
 [u1834 | 02:03:00.990-02:03:01.950 | Delwath] Delwath
 [u1835 | 02:03:04.560-02:03:05.389 | Delwath] the elf
 [u1836 | 02:03:06.760-02:03:08.000 | Delwath] lately
-[u1837 | 02:03:08.790-02:03:10.660 | Delwath] adopted at the [[dinner. Kwai]]
+[u1837 | 02:03:08.790-02:03:10.660 | Delwath] adopted at the {{dinner. Kwai}}
 [u1838 | 02:03:18.580-02:03:20.230 | DM] nods for a moment.
 [u1839 | 02:03:24.390-02:03:26.070 | DM] Yes, your
 [u1840 | 02:03:26.380-02:03:28.580 | DM] people have a long history together.
@@ -1852,34 +1852,34 @@
 [u1852 | 02:04:19.940-02:04:21.469 | DM] Nods slowly.
 [u1853 | 02:04:31.310-02:04:36.559 | Seeker] and I am Seeker of High Keep north of here in the mountains a dwarf.
 [u1854 | 02:04:38.520-02:04:40.589 | Seeker] With stories of my own, of course.
-[u1855 | 02:04:44.510-02:04:48.339 | Riswynn] and Riswynn [[Brawn and Bull]], also a dwarf of the mountains.
+[u1855 | 02:04:44.510-02:04:48.339 | Riswynn] and Riswynn {{Brawn and Bull}}, also a dwarf of the mountains.
 [u1856 | 02:04:50.400-02:04:51.529 | Riswynn] more to the west.
 [u1857 | 02:04:56.650-02:04:58.119 | DM] Mountains to the west.
 [u1858 | 02:05:00.910-02:05:03.729 | DM] There are not so many mountains west of here
 [u1859 | 02:05:05.820-02:05:06.450 | Unknown] Right?
 [u1860 | 02:05:10.720-02:05:11.780 | DM] Not no
-[u1861 | 02:05:12.430-02:05:13.449 | Unknown] [[your content]]
+[u1861 | 02:05:12.430-02:05:13.449 | Unknown] {{your content}}
 [u1862 | 02:05:15.170-02:05:16.309 | DM] that all the
-[u1863 | 02:05:16.950-02:05:18.670 | DM] [[Frank Korean]] frontier.
+[u1863 | 02:05:16.950-02:05:18.670 | DM] {{Frank Korean}} frontier.
 [u1864 | 02:05:20.600-02:05:22.269 | DM] but it is good to hear.
 [u1865 | 02:05:23.540-02:05:24.620 | DM] should not let
 [u1866 | 02:05:26.730-02:05:28.530 | Seeker] humans claim
 [u1867 | 02:05:30.860-02:05:33.549 | DM] the lands all the land.
 [u1868 | 02:05:37.390-02:05:39.280 | DM] Well, as you seem to know, I am
-[u1869 | 02:05:40.380-02:05:43.380 | DM] [[Pragar]], master of these mountains, and the
+[u1869 | 02:05:40.380-02:05:43.380 | DM] {{Pragar}}, master of these mountains, and the
 [u1870 | 02:05:44.320-02:05:45.900 | DM] plains below
 [u1871 | 02:05:47.560-02:05:49.969 | DM] Visitor. Sometimes
-[u1872 | 02:05:51.010-02:05:53.410 | DM] the wizards of [[drink are]]
+[u1872 | 02:05:51.010-02:05:53.410 | DM] the wizards of {{drink are}}
 [u1873 | 02:05:56.400-02:05:58.090 | DM] keeper of the winds.
 [u1874 | 02:06:01.360-02:06:03.000 | DM] Welcome to my home.
 [u1875 | 02:06:04.360-02:06:05.769 | Delwath] Who is the Emperor.
-[u1876 | 02:06:07.960-02:06:09.269 | Delwath] in [[drink for]] today
+[u1876 | 02:06:07.960-02:06:09.269 | Delwath] in {{drink for}} today
 [u1877 | 02:06:09.780-02:06:10.630 | Delwath] to now
 [u1878 | 02:06:16.360-02:06:17.840 | DM] Care little for
 [u1879 | 02:06:18.650-02:06:19.490 | DM] such
 [u1880 | 02:06:23.140-02:06:25.920 | DM] petty human concerns, I believe.
 [u1881 | 02:06:29.560-02:06:31.360 | DM] Man named
-[u1882 | 02:06:32.710-02:06:34.099 | DM] [[Pakistan]].
+[u1882 | 02:06:32.710-02:06:34.099 | DM] {{Pakistan}}.
 [u1883 | 02:06:43.320-02:06:44.430 | Seeker] Do we know this name?
 [u1884 | 02:06:46.940-02:06:50.919 | DM] Make it to check. Then let's take like a 5 min break before we
 [u1885 | 02:06:51.400-02:06:54.490 | DM] go on to stories in the last hour of the session.
@@ -1887,7 +1887,7 @@
 [u1887 | 02:06:58.300-02:07:02.789 | Seeker] couple of minutes for that.
 [u1888 | 02:07:03.570-02:07:04.500 | DM] No
 [u1889 | 02:07:05.230-02:07:07.270 | DM] name is not familiar to you.
-[u1890 | 02:07:09.150-02:07:13.110 | DM] One of those [[drink Korean]] emperors that you are going to ask
+[u1890 | 02:07:09.150-02:07:13.110 | DM] One of those {{drink Korean}} emperors that you are going to ask
 [u1891 | 02:07:13.150-02:07:16.190 | DM] Nias to send you a list of that. You never did
 [u1892 | 02:07:16.270-02:07:17.050 | Seeker] right
 [u1893 | 02:07:22.240-02:07:25.659 | Riswynn] that we'll just take a note of this guy's name and
@@ -1904,7 +1904,7 @@
 [u1904 | 02:07:58.830-02:08:00.520 | Seeker] I was just guys.
 [u1905 | 02:08:01.630-02:08:02.660 | DM] So
 [u1906 | 02:08:07.810-02:08:09.610 | DM] as we return
-[u1907 | 02:08:10.620-02:08:13.219 | DM] to [[Ralgar]]'s palace.
+[u1907 | 02:08:10.620-02:08:13.219 | DM] to {{Ralgar}}'s palace.
 [u1908 | 02:08:15.890-02:08:18.420 | DM] Delwath was about to speak, I believe.
 [u1909 | 02:08:20.040-02:08:21.820 | Delwath] Yeah.
 [u1910 | 02:08:22.980-02:08:23.820 | Delwath] So
@@ -1912,7 +1912,7 @@
 [u1912 | 02:08:32.340-02:08:34.250 | Unknown] Just give me a second to get back in a
 [u1913 | 02:08:38.430-02:08:39.980 | Delwath] Delwath will
 [u1914 | 02:08:40.830-02:08:42.080 | Delwath] start
-[u1915 | 02:08:47.050-02:08:48.160 | Delwath] [[Raulgar]].
+[u1915 | 02:08:47.050-02:08:48.160 | Delwath] {{Raulgar}}.
 [u1916 | 02:08:48.380-02:08:49.110 | Unknown] that
 [u1917 | 02:08:54.550-02:08:56.390 | Delwath] this story begins
 [u1918 | 02:08:57.660-02:08:59.939 | Delwath] when I was imprisoned in a
@@ -1947,8 +1947,8 @@
 [u1947 | 02:10:45.800-02:10:49.849 | Delwath] place, and I also spend some a little time describing the like
 [u1948 | 02:10:50.100-02:10:51.810 | Delwath] dimension he was trapped in.
 [u1949 | 02:10:53.530-02:10:54.599 | Delwath] Was that
-[u1950 | 02:10:56.660-02:10:59.159 | Delwath] was a [[tanshi]] of the [[denoquay]].
-[u1951 | 02:11:00.920-02:11:02.920 | Delwath] They called themselves [[Yavoi]].
+[u1950 | 02:10:56.660-02:10:59.159 | Delwath] was a {{tanshi}} of the {{denoquay}}.
+[u1951 | 02:11:00.920-02:11:02.920 | Delwath] They called themselves {{Yavoi}}.
 [u1952 | 02:11:05.600-02:11:06.320 | Delwath] but I
 [u1953 | 02:11:06.390-02:11:07.630 | Delwath] at the time
 [u1954 | 02:11:08.240-02:11:09.370 | Delwath] knew it not.
@@ -1959,7 +1959,7 @@
 [u1959 | 02:11:20.470-02:11:21.719 | Delwath] demons
 [u1960 | 02:11:22.980-02:11:24.219 | Delwath] hunt my
 [u1961 | 02:11:24.580-02:11:26.330 | Delwath] fellows down
-[u1962 | 02:11:26.350-02:11:28.980 | Delwath] over and over again in [[the world's crack]]
+[u1962 | 02:11:26.350-02:11:28.980 | Delwath] over and over again in {{the world's crack}}
 [u1963 | 02:11:30.530-02:11:31.860 | Delwath] as it should not.
 [u1964 | 02:11:36.030-02:11:37.860 | Delwath] I was freed
 [u1965 | 02:11:39.780-02:11:43.679 | Delwath] by the actions of someone I knew not at the time.
@@ -1971,11 +1971,11 @@
 [u1971 | 02:11:57.890-02:12:02.079 | Delwath] Why I was freed, or where I was imprisoned, or even
 [u1972 | 02:12:02.120-02:12:03.929 | Delwath] who I was imprisoned with.
 [u1973 | 02:12:05.070-02:12:06.250 | Delwath] till I
-[u1974 | 02:12:06.720-02:12:09.879 | Delwath] went north to the forests of the [[Denakai]].
+[u1974 | 02:12:06.720-02:12:09.879 | Delwath] went north to the forests of the {{Denakai}}.
 [u1975 | 02:12:10.480-02:12:12.199 | Delwath] where I learned of
 [u1976 | 02:12:12.280-02:12:13.670 | Delwath] many other
 [u1977 | 02:12:13.880-02:12:15.300 | Delwath] 6 other
-[u1978 | 02:12:16.010-02:12:17.080 | Delwath] [[Tashi]]
+[u1978 | 02:12:16.010-02:12:17.080 | Delwath] {{Tashi}}
 [u1979 | 02:12:17.670-02:12:19.450 | Delwath] who had been imprisoned.
 [u1980 | 02:12:20.520-02:12:23.080 | Delwath] I just open my and
 [u1981 | 02:12:24.160-02:12:25.160 | Delwath] and I
@@ -1987,29 +1987,29 @@
 [u1987 | 02:12:41.500-02:12:43.080 | Delwath] found ways to free them.
 [u1988 | 02:12:43.710-02:12:44.960 | Delwath] There was
 [u1989 | 02:12:49.070-02:12:49.820 | Unknown] Hold on.
-[u1990 | 02:12:51.260-02:12:53.729 | Unknown] Where's my list of [[Tunchy]]?
+[u1990 | 02:12:51.260-02:12:53.729 | Unknown] Where's my list of {{Tunchy}}?
 [u1991 | 02:13:04.470-02:13:05.309 | Unknown] A.
 [u1992 | 02:13:07.310-02:13:08.610 | Delwath] There was
-[u1993 | 02:13:09.730-02:13:11.200 | Delwath] [[Kanasati]]
+[u1993 | 02:13:09.730-02:13:11.200 | Delwath] {{Kanasati}}
 [u1994 | 02:13:12.920-02:13:15.979 | Delwath] of the of ice and cold.
-[u1995 | 02:13:17.100-02:13:19.990 | Delwath] [[You call it a now Consati]] of
+[u1995 | 02:13:17.100-02:13:19.990 | Delwath] {{You call it a now Consati}} of
 [u1996 | 02:13:20.940-02:13:24.809 | Delwath] I'm going to go to Taelgar first. There's a list of these guys in Taelgarverse, they.
-[u1997 | 02:13:34.590-02:13:36.219 | Delwath] It was [[Connosati]]
+[u1997 | 02:13:34.590-02:13:36.219 | Delwath] It was {{Connosati}}
 [u1998 | 02:13:37.520-02:13:38.320 | Delwath] at
 [u1999 | 02:13:38.680-02:13:42.790 | Delwath] the lover of butterflies and colorful insects that we freed
 [u2000 | 02:13:43.170-02:13:44.260 | Delwath] from a
 [u2001 | 02:13:44.320-02:13:45.889 | Delwath] imaginary from a
 [u2002 | 02:13:46.430-02:13:48.679 | Delwath] trapped dark dimension.
-[u2003 | 02:13:49.760-02:13:51.160 | Delwath] It was [[midri]] that
-[u2004 | 02:13:51.560-02:13:54.089 | Delwath] [[taunchy]] of soil and dirt, and
+[u2003 | 02:13:49.760-02:13:51.160 | Delwath] It was {{midri}} that
+[u2004 | 02:13:51.560-02:13:54.089 | Delwath] {{taunchy}} of soil and dirt, and
 [u2005 | 02:13:54.250-02:13:57.169 | Delwath] the seeker of connections. Among all things
-[u2006 | 02:13:58.160-02:13:59.590 | Delwath] there was [[this year]]
+[u2006 | 02:13:58.160-02:13:59.590 | Delwath] there was {{this year}}
 [u2007 | 02:13:59.760-02:14:00.490 | Delwath] that
 [u2008 | 02:14:01.060-02:14:05.860 | Delwath] protector and watcher over hawks and eagles and birds of prey.
 [u2009 | 02:14:06.050-02:14:09.080 | Delwath] of sight, and those who can see far.
-[u2010 | 02:14:10.220-02:14:14.739 | Delwath] There was Taraka, the [[Taji]] of campfires and hospitality
+[u2010 | 02:14:10.220-02:14:14.739 | Delwath] There was Taraka, the {{Taji}} of campfires and hospitality
 [u2011 | 02:14:15.220-02:14:19.269 | Delwath] tales and stories, and the warmth of a hearth on a cold night.
-[u2012 | 02:14:23.820-02:14:26.070 | Delwath] and Of course there was [[a Yazali]].
+[u2012 | 02:14:23.820-02:14:26.070 | Delwath] and Of course there was {{a Yazali}}.
 [u2013 | 02:14:26.150-02:14:28.279 | Delwath] the spirit of the hunt and the moon
 [u2014 | 02:14:30.800-02:14:32.179 | Delwath] trapped with me.
 [u2015 | 02:14:32.350-02:14:33.990 | Unknown] unbeknownst to me.
@@ -2017,7 +2017,7 @@
 [u2017 | 02:14:37.190-02:14:39.989 | Delwath] some companions we we freed them all
 [u2018 | 02:14:40.060-02:14:42.069 | Delwath] Released them back to the world
 [u2019 | 02:14:43.860-02:14:47.379 | Delwath] and Delwath will expound. I mean the started project's an hour, I'm not going to
-[u2020 | 02:14:47.670-02:14:53.009 | Delwath] each of the sort of experiences of each of these [[tons, she]] being freed.
+[u2020 | 02:14:47.670-02:14:53.009 | Delwath] each of the sort of experiences of each of these {{tons, she}} being freed.
 [u2021 | 02:14:54.250-02:14:56.349 | Delwath] and he'll drop little hints like
 [u2022 | 02:14:56.800-02:14:59.610 | Delwath] Oh, a lot of them didn't know they were in prisons.
 [u2023 | 02:14:59.800-02:15:00.620 | Unknown] you know.
@@ -2026,10 +2026,10 @@
 [u2026 | 02:15:11.070-02:15:12.379 | Delwath] and I have been
 [u2027 | 02:15:14.520-02:15:17.660 | Delwath] seeking those who might need
 [u2028 | 02:15:17.910-02:15:20.520 | Delwath] assistance might be trapped in
-[u2029 | 02:15:21.580-02:15:23.859 | Delwath] places like the [[ta she]]
+[u2029 | 02:15:21.580-02:15:23.859 | Delwath] places like the {{ta she}}
 [u2030 | 02:15:29.340-02:15:32.249 | Delwath] Have you heard? Any stories of imprisoned people
 [u2031 | 02:15:32.980-02:15:34.350 | Unknown] need to be freed.
-[u2032 | 02:15:37.660-02:15:40.109 | DM] [[All our]] turns towards your voice.
+[u2032 | 02:15:37.660-02:15:40.109 | DM] {{All our}} turns towards your voice.
 [u2033 | 02:15:42.970-02:15:43.719 | DM] and
 [u2034 | 02:15:44.550-02:15:46.649 | DM] Furrows his brow again
 [u2035 | 02:15:53.740-02:15:57.240 | DM] looks intently sort of in your direction.
@@ -2073,7 +2073,7 @@
 [u2073 | 02:19:23.510-02:19:24.449 | Wellby] and
 [u2074 | 02:19:24.540-02:19:27.850 | Wellby] he draws himself up to his full and very small height.
 [u2075 | 02:19:28.480-02:19:30.010 | Wellby] and we can.
-[u2076 | 02:19:34.900-02:19:37.789 | Wellby] [[Brother]], you know my people are storytellers.
+[u2076 | 02:19:34.900-02:19:37.789 | Wellby] {{Brother}}, you know my people are storytellers.
 [u2077 | 02:19:41.020-02:19:42.569 | Wellby] and what we do.
 [u2078 | 02:19:43.910-02:19:46.599 | Wellby] As we cross from one end of the ocean
 [u2079 | 02:19:46.620-02:19:48.720 | Wellby] and one side of the mountains to the other
@@ -2157,7 +2157,7 @@
 [u2157 | 02:26:14.670-02:26:18.730 | Wellby] he needs a story that that brings him back like to
 [u2158 | 02:26:19.100-02:26:20.600 | Wellby] pride and power.
 [u2159 | 02:26:20.740-02:26:25.170 | Seeker] Oh, I have an idea
-[u2160 | 02:26:28.220-02:26:29.899 | Seeker] [[we're all going]], if I may.
+[u2160 | 02:26:28.220-02:26:29.899 | Seeker] {{we're all going}}, if I may.
 [u2161 | 02:26:32.220-02:26:34.320 | Seeker] There is a story
 [u2162 | 02:26:34.880-02:26:41.059 | Seeker] I encountered one night late in an ancient library in a dusty tome that.
 [u2163 | 02:26:41.540-02:26:44.950 | Seeker] for all I knew could be the stories of a
@@ -2230,11 +2230,11 @@
 [u2230 | 02:32:05.010-02:32:07.080 | Seeker] There was a storm of wild magic.
 [u2231 | 02:32:09.350-02:32:12.050 | Seeker] but we put it down the Feywild. Of course
 [u2232 | 02:32:24.810-02:32:27.170 | DM] some of the great sky ships were
-[u2233 | 02:32:29.190-02:32:31.220 | DM] lost during the [[breathing]]
+[u2233 | 02:32:29.190-02:32:31.220 | DM] lost during the {{breathing}}
 [u2234 | 02:32:31.960-02:32:34.039 | Seeker] we met one
 [u2235 | 02:32:34.340-02:32:36.309 | Seeker] long since crashed there
 [u2236 | 02:32:37.740-02:32:39.030 | Seeker] in the realm of
-[u2237 | 02:32:41.360-02:32:43.999 | Seeker] [[it was that a name of glow]] or Shimmersong
+[u2237 | 02:32:41.360-02:32:43.999 | Seeker] {{it was that a name of glow}} or Shimmersong
 [u2238 | 02:32:45.740-02:32:51.110 | DM] that was in the the boundary between Shimmersong and Fortune's Rest
 [u2239 | 02:32:55.820-02:32:56.560 | Unknown] here.
 [u2240 | 02:32:59.560-02:33:01.650 | DM] Well, should anyone bear it.
@@ -2244,7 +2244,7 @@
 [u2244 | 02:33:16.700-02:33:19.119 | DM] he looks sort of relaxed, and
 [u2245 | 02:33:22.380-02:33:23.710 | DM] there was one
 [u2246 | 02:33:25.090-02:33:26.249 | DM] crashed on the
-[u2247 | 02:33:26.630-02:33:29.750 | DM] plains below too in northern [[drink, or]]
+[u2247 | 02:33:26.630-02:33:29.750 | DM] plains below too in northern {{drink, or}}
 [u2248 | 02:33:31.380-02:33:32.010 | Unknown] and
 [u2249 | 02:33:32.190-02:33:33.050 | Seeker] really
 [u2250 | 02:33:35.950-02:33:37.399 | Delwath] was it? Perhaps
@@ -2253,7 +2253,7 @@
 [u2253 | 02:33:41.480-02:33:43.140 | Unknown] know of what it looked like.
 [u2254 | 02:33:45.630-02:33:48.459 | DM] Yes, the elves built a tower there.
 [u2255 | 02:33:51.040-02:33:51.960 | DM] some
-[u2256 | 02:33:52.240-02:33:54.390 | DM] [[from Korean]] Mages, I think.
+[u2256 | 02:33:52.240-02:33:54.390 | DM] {{from Korean}} Mages, I think.
 [u2257 | 02:33:55.300-02:33:56.930 | DM] live there. Once
 [u2258 | 02:33:57.330-02:33:59.430 | DM] I spoke to them occasionally.
 [u2259 | 02:34:05.000-02:34:06.579 | DM] Wonder what's happened to it?
@@ -2276,7 +2276,7 @@
 [u2276 | 02:35:05.300-02:35:06.609 | DM] He looks down at
 [u2277 | 02:35:07.200-02:35:08.240 | DM] Kenzo.
 [u2278 | 02:35:19.560-02:35:20.460 | DM] After
-[u2279 | 02:35:21.230-02:35:22.740 | DM] [[drawn there]] came. I.
+[u2279 | 02:35:21.230-02:35:22.740 | DM] {{drawn there}} came. I.
 [u2280 | 02:35:26.340-02:35:28.130 | DM] I woke up, and it was dark.
 [u2281 | 02:35:37.350-02:35:38.820 | DM] Strangest thing
 [u2282 | 02:35:43.590-02:35:46.900 | DM] can feel the sun, and as he says that it suddenly
@@ -2379,7 +2379,7 @@
 [u2379 | 02:41:13.500-02:41:16.149 | Delwath] to realize that's what was happening.
 [u2380 | 02:41:16.840-02:41:18.509 | Delwath] Of course it was quite
 [u2381 | 02:41:19.010-02:41:21.030 | Delwath] even harder, I think, for
-[u2382 | 02:41:21.520-02:41:23.209 | Delwath] [[is Ali]] the [[Tashi]]
+[u2382 | 02:41:21.520-02:41:23.209 | Delwath] {{is Ali}} the {{Tashi}}
 [u2383 | 02:41:23.670-02:41:24.630 | Delwath] for the
 [u2384 | 02:41:25.120-02:41:29.589 | Delwath] more power one has, the harder it is to imagine. You might be trapped.
 [u2385 | 02:41:30.560-02:41:31.520 | Delwath] of course.
@@ -2518,7 +2518,7 @@
 [u2518 | 02:51:01.240-02:51:02.550 | DM] I remember
 [u2519 | 02:51:03.280-02:51:04.760 | DM] the elven
 [u2520 | 02:51:05.040-02:51:06.289 | DM] kingdom.
-[u2521 | 02:51:06.800-02:51:08.510 | DM] [[the car, and K]].
+[u2521 | 02:51:06.800-02:51:08.510 | DM] {{the car, and K}}.
 [u2522 | 02:51:10.490-02:51:11.900 | DM] Stretching
 [u2523 | 02:51:11.940-02:51:14.970 | DM] as far as the eye could see, the great trees
 [u2524 | 02:51:15.410-02:51:17.079 | DM] reaching the sky
@@ -2538,7 +2538,7 @@
 [u2538 | 02:52:11.170-02:52:12.530 | DM] did I care.
 [u2539 | 02:52:14.450-02:52:15.980 | DM] And why should I?
 [u2540 | 02:52:19.000-02:52:22.729 | DM] Stone born? Maybe, yes, they had tales to tell
-[u2541 | 02:52:24.130-02:52:25.849 | DM] the dwarves of [[our death]]
+[u2541 | 02:52:24.130-02:52:25.849 | DM] the dwarves of {{our death}}
 [u2542 | 02:52:27.750-02:52:29.350 | DM] far below here
 [u2543 | 02:52:30.240-02:52:33.420 | DM] their passageways, and long roads in the deep.
 [u2544 | 02:52:35.670-02:52:37.450 | DM] Some would come, yes.
@@ -2550,10 +2550,10 @@
 [u2550 | 02:52:58.820-02:53:02.560 | DM] The dwarves stopped coming. They didn't want to hear about the fall of their kingdom.
 [u2551 | 02:53:05.700-02:53:07.710 | DM] I know not now whether that is
 [u2552 | 02:53:10.310-02:53:12.909 | DM] yet to come, or has already been.
-[u2553 | 02:53:14.960-02:53:17.529 | DM] Don't know if either of you are from [[our death]]
+[u2553 | 02:53:14.960-02:53:17.529 | DM] Don't know if either of you are from {{our death}}
 [u2554 | 02:53:20.900-02:53:21.860 | Unknown] has been
 [u2555 | 02:53:27.140-02:53:28.470 | DM] he.
-[u2556 | 02:53:28.790-02:53:31.009 | DM] but the wizards of [[drank Are]]
+[u2556 | 02:53:28.790-02:53:31.009 | DM] but the wizards of {{drank Are}}
 [u2557 | 02:53:33.050-02:53:36.240 | DM] I the promise of secrets that even
 [u2558 | 02:53:38.810-02:53:44.779 | DM] even the strongest of my people knew not all the secrets unlocked by the magic of those
 [u2559 | 02:53:44.930-02:53:47.200 | DM] arcanists and artificers.
@@ -2582,7 +2582,7 @@
 [u2582 | 02:55:46.360-02:55:47.199 | DM] And yet
 [u2583 | 02:55:50.920-02:55:53.180 | DM] he like, tries to move His other hand
 [u2584 | 02:55:53.480-02:55:56.000 | DM] cannot see what holds me here.
-[u2585 | 02:55:57.240-02:55:59.630 | DM] [[Let's see]] how to break these bonds.
+[u2585 | 02:55:57.240-02:55:59.630 | DM] {{Let's see}} how to break these bonds.
 [u2586 | 02:56:11.390-02:56:16.110 | DM] You say you are honorable. You have gone to great lengths
 [u2587 | 02:56:16.150-02:56:17.300 | DM] to save
 [u2588 | 02:56:18.570-02:56:20.180 | DM] to save me. And yet
@@ -2698,7 +2698,7 @@
 [u2698 | 03:04:06.700-03:04:08.970 | DM] so Kenzo.
 [u2699 | 03:04:11.610-03:04:13.950 | DM] Oh, my God, this is so perfect!
 [u2700 | 03:04:14.030-03:04:18.079 | DM] So as he turns.
-[u2701 | 03:04:19.730-03:04:22.439 | DM] [[Hagar]] turns and says
+[u2701 | 03:04:19.730-03:04:22.439 | DM] {{Hagar}} turns and says
 [u2702 | 03:04:23.130-03:04:25.920 | DM] again, If I could see I could aid you.
 [u2703 | 03:04:26.210-03:04:28.530 | DM] and he reaches forward, and he says
 [u2704 | 03:04:29.110-03:04:31.379 | DM] he like, closes his eyes and
@@ -2717,10 +2717,10 @@
 [u2717 | 03:05:15.430-03:05:17.259 | DM] totally thrown off.
 [u2718 | 03:05:19.050-03:05:22.940 | DM] and this rush of memories comes back to you.
 [u2719 | 03:05:26.000-03:05:27.150 | DM] I,
-[u2720 | 03:05:27.440-03:05:32.300 | DM] studying with [[Raulgar]] as a as a giant up in the mountains.
+[u2720 | 03:05:27.440-03:05:32.300 | DM] studying with {{Raulgar}} as a as a giant up in the mountains.
 [u2721 | 03:05:32.520-03:05:37.870 | DM] leaving saying goodbye to him, and then, hearing later that
 [u2722 | 03:05:39.520-03:05:40.969 | DM] he was captured.
-[u2723 | 03:05:41.780-03:05:43.539 | DM] that the [[drank Orions]] had
+[u2723 | 03:05:41.780-03:05:43.539 | DM] that the {{drank Orions}} had
 [u2724 | 03:05:43.910-03:05:46.060 | DM] taken him, had done something.
 [u2725 | 03:05:47.190-03:05:49.110 | DM] Whether it was
 [u2726 | 03:05:51.590-03:05:54.860 | DM] in aid of Apollon, or some desperate
@@ -2729,7 +2729,7 @@
 [u2729 | 03:06:07.120-03:06:08.450 | DM] But as you.
 [u2730 | 03:06:10.880-03:06:12.890 | DM] as you set out
 [u2731 | 03:06:13.020-03:06:14.030 | DM] across
-[u2732 | 03:06:14.170-03:06:15.879 | DM] the plains of [[drank are]]
+[u2732 | 03:06:14.170-03:06:15.879 | DM] the plains of {{drank are}}
 [u2733 | 03:06:16.590-03:06:19.270 | DM] the farms and the river valleys to
 [u2734 | 03:06:20.390-03:06:22.460 | DM] come. Find your mentor.
 [u2735 | 03:06:24.550-03:06:26.420 | DM] See what was done to him.
@@ -2744,17 +2744,17 @@
 [u2744 | 03:06:56.360-03:06:58.309 | DM] don't know how you got here
 [u2745 | 03:06:59.140-03:07:00.770 | Kenzo] perfect for that.
 [u2746 | 03:07:01.400-03:07:06.800 | DM] You know you're You remember this place. This is like the dream world vision of
-[u2747 | 03:07:06.920-03:07:12.119 | DM] [[broad ours]] Mountain palace that you've been in once before long ago.
+[u2747 | 03:07:06.920-03:07:12.119 | DM] {{broad ours}} Mountain palace that you've been in once before long ago.
 [u2748 | 03:07:15.790-03:07:18.890 | DM] and you have these like scattered flashes
 [u2749 | 03:07:18.940-03:07:19.850 | DM] out
 [u2750 | 03:07:23.260-03:07:28.609 | DM] of chains growing out of the wall of powerful magic, of
 [u2751 | 03:07:29.570-03:07:32.010 | DM] an incantation being
 [u2752 | 03:07:32.530-03:07:33.830 | DM] chanted
-[u2753 | 03:07:34.120-03:07:35.849 | DM] in [[drink our in]]
+[u2753 | 03:07:34.120-03:07:35.849 | DM] in {{drink our in}}
 [u2754 | 03:07:42.270-03:07:47.360 | DM] the words, I bind you now forever here with chains unbreakable
 [u2755 | 03:07:47.660-03:07:49.710 | DM] until magic falls.
 [u2756 | 03:07:51.340-03:07:52.679 | DM] or until
-[u2757 | 03:07:52.850-03:08:00.909 | DM] the first words of [[now is]] the Lament for Lost Thunder are spoken by a human of these lands to free you from your imprisonment.
+[u2757 | 03:07:52.850-03:08:00.909 | DM] the first words of {{now is}} the Lament for Lost Thunder are spoken by a human of these lands to free you from your imprisonment.
 [u2758 | 03:08:05.020-03:08:06.510 | DM] and then you feel
 [u2759 | 03:08:07.230-03:08:10.510 | DM] you have a memory of your mind being split.
 [u2760 | 03:08:12.730-03:08:14.660 | DM] Retreating here
@@ -2775,16 +2775,16 @@
 [u2775 | 03:09:03.610-03:09:04.440 | DM] shot
 [u2776 | 03:09:05.430-03:09:09.559 | DM] all this like comes back in a rush as Kenzo returns to
 [u2777 | 03:09:10.390-03:09:11.549 | DM] the world.
-[u2778 | 03:09:12.490-03:09:15.599 | DM] And you see now, [[Craigar]], looking up at you.
-[u2779 | 03:09:17.120-03:09:19.890 | DM] looking down at you. Sorry you're looking up [[enroll there]]
+[u2778 | 03:09:12.490-03:09:15.599 | DM] And you see now, {{Craigar}}, looking up at you.
+[u2779 | 03:09:17.120-03:09:19.890 | DM] looking down at you. Sorry you're looking up {{enroll there}}
 [u2780 | 03:09:20.860-03:09:24.409 | Kenzo] all in the dream we're all in this this. This the dreamscape.
 [u2781 | 03:09:25.300-03:09:25.920 | Unknown] Yeah.
 [u2782 | 03:09:26.310-03:09:28.469 | Kenzo] are. Where are the Where is the party?
-[u2783 | 03:09:29.710-03:09:33.140 | DM] Wellby is standing on [[Raulgar]]'s hand.
+[u2783 | 03:09:29.710-03:09:33.140 | DM] Wellby is standing on {{Raulgar}}'s hand.
 [u2784 | 03:09:34.600-03:09:36.489 | DM] about 30 feet in the sky.
 [u2785 | 03:09:37.100-03:09:40.950 | DM] Seeker, Riswynn, and Delwath are
 [u2786 | 03:09:40.970-03:09:44.049 | DM] like seated, or like standing around
-[u2787 | 03:09:44.550-03:09:46.169 | DM] by [[Harvard]]'s feet.
+[u2787 | 03:09:44.550-03:09:46.169 | DM] by {{Harvard}}'s feet.
 [u2788 | 03:09:47.370-03:09:48.309 | Kenzo] And where am I?
 [u2789 | 03:09:49.430-03:09:51.520 | DM] You are sitting on a
 [u2790 | 03:09:51.860-03:09:55.320 | DM] footstool that was equivalent to a human couch.
@@ -2798,7 +2798,7 @@
 [u2798 | 03:10:45.710-03:10:47.160 | Wellby] negotiating
 [u2799 | 03:10:50.330-03:10:51.800 | Delwath] successfully?
 [u2800 | 03:10:52.260-03:10:53.430 | Delwath] So far.
-[u2801 | 03:10:54.770-03:10:58.240 | DM] Kenzo, [[Pragar]] is still at this moment kind of
+[u2801 | 03:10:54.770-03:10:58.240 | DM] Kenzo, {{Pragar}} is still at this moment kind of
 [u2802 | 03:10:58.820-03:11:00.170 | DM] meditating
 [u2803 | 03:11:00.770-03:11:01.340 | Unknown] at.
 [u2804 | 03:11:01.880-03:11:03.489 | Delwath] Does it look like there's a way out.
@@ -2807,12 +2807,12 @@
 [u2807 | 03:11:23.420-03:11:26.169 | Wellby] Whoa! What are those words? Again? What are those from
 [u2808 | 03:11:26.380-03:11:31.200 | Seeker] Lament of the Lost Thunder or something
 [u2809 | 03:11:31.370-03:11:32.340 | Riswynn] teen?
-[u2810 | 03:11:32.610-03:11:35.800 | Wellby] That's not in the book of poetry that we sold in [[Darpa]]. Is it
+[u2810 | 03:11:32.610-03:11:35.800 | Wellby] That's not in the book of poetry that we sold in {{Darpa}}. Is it
 [u2811 | 03:11:36.280-03:11:38.410 | Unknown] probably
 [u2812 | 03:11:39.350-03:11:41.840 | Seeker] Tim. Is that a familiar work
-[u2813 | 03:11:42.340-03:11:44.970 | Wellby] to any? Yes, [[now ways]]
+[u2813 | 03:11:42.340-03:11:44.970 | Wellby] to any? Yes, {{now ways}}
 [u2814 | 03:11:45.140-03:11:45.930 | DM] that
-[u2815 | 03:11:45.960-03:11:51.169 | DM] that is definitely one of the poems in [[Noah]]'s Lyrics of a New Age
+[u2815 | 03:11:45.960-03:11:51.169 | DM] that is definitely one of the poems in {{Noah}}'s Lyrics of a New Age
 [u2816 | 03:11:52.380-03:11:53.969 | Seeker] that we no longer have.
 [u2817 | 03:11:55.000-03:12:03.390 | Delwath] But we have a sending spell, and we know people who work in libraries out. We probably are. But I mean Delwath read that book a fair bit. I bet you he remembers it.
 [u2818 | 03:12:04.640-03:12:06.539 | Delwath] It's just the first line, right
@@ -2844,12 +2844,12 @@
 [u2844 | 03:13:40.700-03:13:43.119 | Delwath] there's sockets to put the eyes in right
 [u2845 | 03:13:43.540-03:13:45.220 | Riswynn] right shouldn't like
 [u2846 | 03:13:45.630-03:13:47.829 | DM] sort of I mean.
-[u2847 | 03:13:48.290-03:13:56.590 | Riswynn] it's a stone statue we're dwarves. Dwarves shouldn't. we be able to [[say anything]]? Yeah, do we need to put the
-[u2848 | 03:13:57.280-03:14:01.109 | Kenzo] back in the statue or back in [[progar]] in the statue.
+[u2847 | 03:13:48.290-03:13:56.590 | Riswynn] it's a stone statue we're dwarves. Dwarves shouldn't. we be able to {{say anything}}? Yeah, do we need to put the
+[u2848 | 03:13:57.280-03:14:01.109 | Kenzo] back in the statue or back in {{progar}} in the statue.
 [u2849 | 03:14:01.320-03:14:06.829 | Kenzo] They're meant for the because they're not they go, and they they're for the statue right
-[u2850 | 03:14:07.260-03:14:15.410 | Wellby] When [[Hagar]] Wasn't, projecting himself into the dreamscape when he was just there at this time and last—chained on the wall. Did he have eyes in his head
+[u2850 | 03:14:07.260-03:14:15.410 | Wellby] When {{Hagar}} Wasn't, projecting himself into the dreamscape when he was just there at this time and last—chained on the wall. Did he have eyes in his head
 [u2851 | 03:14:16.560-03:14:17.340 | Unknown] No
-[u2852 | 03:14:17.620-03:14:23.769 | Kenzo] these eyes look like eyes for [[Allgar]], or eyes for the statue that should be a little more obvious. Right
+[u2852 | 03:14:17.620-03:14:23.769 | Kenzo] these eyes look like eyes for {{Allgar}}, or eyes for the statue that should be a little more obvious. Right
 [u2853 | 03:14:24.200-03:14:25.320 | DM] in
 [u2854 | 03:14:25.680-03:14:26.590 | DM] in
 [u2855 | 03:14:26.970-03:14:30.010 | DM] Taelgar they look like eyes for the statue
@@ -2901,7 +2901,7 @@
 [u2901 | 03:17:36.240-03:17:38.730 | DM] so you begin to like, try, and like, you know.
 [u2902 | 03:17:40.900-03:17:41.619 | DM] I
 [u2903 | 03:17:42.040-03:17:43.960 | DM] shake the eyes.
-[u2904 | 03:17:44.190-03:17:46.970 | Seeker] and we have not [[in with]] the binding stones at this point
+[u2904 | 03:17:44.190-03:17:46.970 | Seeker] and we have not {{in with}} the binding stones at this point
 [u2905 | 03:17:48.390-03:17:53.520 | DM] begin to like, try and figure out. It's like clear like they don't really quite fit like
 [u2906 | 03:17:53.840-03:17:54.859 | DM] sort of
 [u2907 | 03:17:54.920-03:17:57.369 | DM] I don't know. Take your hammer and like, try and
@@ -2921,8 +2921,8 @@
 [u2921 | 03:18:41.230-03:18:45.760 | DM] appearing back in the cloudscape, and you can see that
 [u2922 | 03:18:46.630-03:18:47.550 | DM] the
 [u2923 | 03:18:48.300-03:18:50.209 | DM] ghostly figure
-[u2924 | 03:18:51.290-03:18:55.609 | DM] there's like a ghostly version of [[frog are]] that is like separated from him.
-[u2925 | 03:18:55.630-03:19:01.800 | DM] and has his hands around. The ghost has his hands around, [[for Allgar]]'s neck and [[hawker]] is like
+[u2924 | 03:18:51.290-03:18:55.609 | DM] there's like a ghostly version of {{frog are}} that is like separated from him.
+[u2925 | 03:18:55.630-03:19:01.800 | DM] and has his hands around. The ghost has his hands around, {{for Allgar}}'s neck and {{hawker}} is like
 [u2926 | 03:19:02.400-03:19:06.050 | DM] so cannot struggling, looking around.
 [u2927 | 03:19:06.860-03:19:10.040 | DM] trying to like, find a weapon or something. But
 [u2928 | 03:19:10.220-03:19:11.830 | DM] can't see
@@ -2933,11 +2933,11 @@
 [u2933 | 03:19:25.770-03:19:27.249 | Seeker] Riswynn, let's go
 [u2934 | 03:19:27.470-03:19:29.870 | Riswynn] all right. We run into the dream world.
 [u2935 | 03:19:31.140-03:19:35.340 | Wellby] Try and attack the ghost version of him in the
-[u2936 | 03:19:36.460-03:19:38.049 | Riswynn] [[save the stick]].
+[u2936 | 03:19:36.460-03:19:38.049 | Riswynn] {{save the stick}}.
 [u2937 | 03:19:40.910-03:19:43.500 | DM] As you run up into the dream world
 [u2938 | 03:19:43.640-03:19:45.339 | DM] carrying the eyes.
 [u2939 | 03:19:46.040-03:19:48.810 | DM] they begin to pulse with life.
-[u2940 | 03:19:50.470-03:19:54.410 | DM] and as you run forwards towards [[Pragar]].
+[u2940 | 03:19:50.470-03:19:54.410 | DM] and as you run forwards towards {{Pragar}}.
 [u2941 | 03:19:55.090-03:19:58.240 | DM] trying to get the eyes to him as Delwath, and
 [u2942 | 03:19:58.770-03:19:59.920 | DM] Wellby
 [u2943 | 03:20:00.200-03:20:08.029 | DM] begin to attack the ghost version. I'm going to probably stop there. Okay, that's a good point we maybe should stop there.

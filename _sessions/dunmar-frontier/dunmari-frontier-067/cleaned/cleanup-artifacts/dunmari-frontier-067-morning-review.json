@@ -1,0 +1,3318 @@
+{
+  "session": 67,
+  "preparedSourceSha256": "ce184e90cf9e1a66b30510f075f947ed360070a1486c939d6dd861322dbb4bdc",
+  "cleanedTranscriptSha256": "885ac710ee682fed22e3d2cdb19bbefd926b54f0a1065ed623f62613fd940bdd",
+  "quotePolicy": "preparedSourceQuote and preparedContextBefore/After are exact prepared-file lines, verified programmatically. cleanedWording and uncertainSpansInCleanedWording are cleaned text, not verbatim prepared-source quotations. Whole-unit incidental spans are conservative inventory ranges, not assertions that every word is erroneous.",
+  "reviewStatus": "pending morning review; no acceptance recorded",
+  "counts": {
+    "units": 3278,
+    "changedUnits": 954,
+    "materialLines": 54,
+    "materialSpans": 56,
+    "materialIssueGroups": 19,
+    "incidentalLines": 93,
+    "incidentalSpans": 95,
+    "acceptedMaterialLines": 0
+  },
+  "materialGroups": [
+    {
+      "id": "lady-lake",
+      "title": "Lady of the Lake name",
+      "uids": [
+        "u0066"
+      ],
+      "question": "What is the exact name before Lady of the Lake?"
+    },
+    {
+      "id": "changeling-king",
+      "title": "Changeling King name",
+      "uids": [
+        "u0067",
+        "u2686",
+        "u2702",
+        "u2704",
+        "u2705"
+      ],
+      "question": "Confirm the Changeling King name across these variants."
+    },
+    {
+      "id": "legion",
+      "title": "Caulaus legion name",
+      "uids": [
+        "u0099",
+        "u0234",
+        "u2811"
+      ],
+      "question": "Confirm Silvas / Syllabus legion spelling."
+    },
+    {
+      "id": "surname",
+      "title": "Caulaus surname",
+      "uids": [
+        "u0234",
+        "u1781"
+      ],
+      "question": "Confirm Apportino spelling."
+    },
+    {
+      "id": "thread-color",
+      "title": "Initial thread color",
+      "uids": [
+        "u0121"
+      ],
+      "question": "What color does the DM state?"
+    },
+    {
+      "id": "equipment",
+      "title": "Seeker equipment description",
+      "uids": [
+        "u0136",
+        "u0138",
+        "u0146",
+        "u0147"
+      ],
+      "question": "Identify the described item and clarify the fragmented equipment description."
+    },
+    {
+      "id": "griffins",
+      "title": "Griffin recollection fragment",
+      "uids": [
+        "u0338"
+      ],
+      "question": "Clarify the phrase after the recollection of griffins flying overhead."
+    },
+    {
+      "id": "necromancy",
+      "title": "Necromancy reference and question",
+      "uids": [
+        "u0387",
+        "u0389",
+        "u0390"
+      ],
+      "question": "Confirm the referenced name and the garbled question about raising the dead."
+    },
+    {
+      "id": "transition",
+      "title": "Planar transition comment",
+      "uids": [
+        "u0476"
+      ],
+      "question": "Clarify the comment about planar transition."
+    },
+    {
+      "id": "delwath-reference",
+      "title": "Delwath question fragment",
+      "uids": [
+        "u0482"
+      ],
+      "question": "Clarify Mon itself in the question about Delwath."
+    },
+    {
+      "id": "old-alias",
+      "title": "Old fey alias and repeated variants",
+      "uids": [
+        "u0784",
+        "u0789",
+        "u0852",
+        "u0853",
+        "u0856",
+        "u0944",
+        "u0975",
+        "u0977",
+        "u0989",
+        "u1202",
+        "u1212",
+        "u1246",
+        "u1260",
+        "u1262",
+        "u1272",
+        "u1277",
+        "u1278",
+        "u1304",
+        "u1749",
+        "u1785",
+        "u1789",
+        "u2118",
+        "u2646",
+        "u2702",
+        "u2723",
+        "u3137"
+      ],
+      "question": "Confirm the old fey alias. Current text suggests a Dasakles / Dasicles sound; no exact spelling has been adopted."
+    },
+    {
+      "id": "harpy-wait",
+      "title": "Harpy opening response",
+      "uids": [
+        "u1201"
+      ],
+      "question": "Clarify the opening reply before many, many years."
+    },
+    {
+      "id": "revenge",
+      "title": "Explanation of harpy revenge",
+      "uids": [
+        "u1438"
+      ],
+      "question": "Clarify the garbled revenge explanation; preserve the speaker's uncertainty."
+    },
+    {
+      "id": "name-question",
+      "title": "Question about names",
+      "uids": [
+        "u1839"
+      ],
+      "question": "Clarify the sentence about this creature's names."
+    },
+    {
+      "id": "theft",
+      "title": "Theft from the grove",
+      "uids": [
+        "u1857"
+      ],
+      "question": "Clarify festival in the description of what was stolen; later tree testimony must not silently replace this utterance."
+    },
+    {
+      "id": "fruit-tree",
+      "title": "Elven fruit/tree term",
+      "uids": [
+        "u2882"
+      ],
+      "question": "Confirm the tree term sisla; it may be a new name."
+    },
+    {
+      "id": "town",
+      "title": "Town in Caulaus recollection",
+      "uids": [
+        "u2892"
+      ],
+      "question": "Confirm the town name rendered are some."
+    },
+    {
+      "id": "memory-scope",
+      "title": "Scope of Caulaus memory",
+      "uids": [
+        "u2927"
+      ],
+      "question": "Clarify the long fragmented sentence about remembering since arriving."
+    },
+    {
+      "id": "dream-companion",
+      "title": "Dream-world companion",
+      "uids": [
+        "u2965"
+      ],
+      "question": "Confirm the name rendered Kendrsa."
+    }
+  ],
+  "entries": [
+    {
+      "uid": "u0009",
+      "importance": "incidental",
+      "reason": "Broken table setup fragment.",
+      "preparedSourceQuote": "[u0009 | 00:00:33.160-00:00:34.360 | DM] you. I mean.",
+      "preparedContextBefore": [
+        "[u0007 | 00:00:27.220-00:00:27.930 | Unknown] okay.",
+        "[u0008 | 00:00:28.470-00:00:32.590 | DM] So I I mean, I think you're feel free to like discuss"
+      ],
+      "preparedContextAfter": [
+        "[u0010 | 00:00:34.930-00:00:35.670 | DM] I am",
+        "[u0011 | 00:00:35.790-00:00:40.589 | DM] There's gonna be time to role, play like both meeting this random guy"
+      ],
+      "cleanedWording": "[u0009 | 00:00:33.160-00:00:34.360 | DM] you. I mean.",
+      "uncertainSpansInCleanedWording": [
+        "you. I mean."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u0066",
+      "importance": "material",
+      "issueGroupIds": [
+        "lady-lake"
+      ],
+      "reason": "Lady of the Lake name. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0066 | 00:04:38.090-00:04:41.770 | DM] Therein the Lady of the Lake, who drained the river of Time",
+      "preparedContextBefore": [
+        "[u0064 | 00:04:30.480-00:04:34.569 | DM] who kept the spark of hope alive even in Amberglow's darkest days.",
+        "[u0065 | 00:04:34.900-00:04:37.880 | DM] Iphina, the protector of the Heartward Grove."
+      ],
+      "preparedContextAfter": [
+        "[u0067 | 00:04:42.240-00:04:48.810 | DM] ballot, or the changeling King, who sacrificed himself to hide the ruins of the flag palace from those that would mean harm.",
+        "[u0068 | 00:04:49.970-00:04:57.210 | DM] So she watches and waits, and she hopes for the day when she will be free, and when amberglow will once again be a realm of beauty and wonder."
+      ],
+      "cleanedWording": "[u0066 | 00:04:38.090-00:04:41.770 | DM] [[Therein]] the Lady of the Lake, who drained the River of Time",
+      "uncertainSpansInCleanedWording": [
+        "Therein"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0067",
+      "importance": "material",
+      "issueGroupIds": [
+        "changeling-king"
+      ],
+      "reason": "Changeling King name. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0067 | 00:04:42.240-00:04:48.810 | DM] ballot, or the changeling King, who sacrificed himself to hide the ruins of the flag palace from those that would mean harm.",
+      "preparedContextBefore": [
+        "[u0065 | 00:04:34.900-00:04:37.880 | DM] Iphina, the protector of the Heartward Grove.",
+        "[u0066 | 00:04:38.090-00:04:41.770 | DM] Therein the Lady of the Lake, who drained the river of Time"
+      ],
+      "preparedContextAfter": [
+        "[u0068 | 00:04:49.970-00:04:57.210 | DM] So she watches and waits, and she hopes for the day when she will be free, and when amberglow will once again be a realm of beauty and wonder.",
+        "[u0069 | 00:04:57.740-00:05:03.479 | DM] Until then she will continue to dream and hold on to the memory of what once was and what could be again."
+      ],
+      "cleanedWording": "[u0067 | 00:04:42.240-00:04:48.810 | DM] [[ballot, or]] the Changeling King, who sacrificed himself to hide the ruins of the Cloud Palace from those that would mean harm.",
+      "uncertainSpansInCleanedWording": [
+        "ballot, or"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0099",
+      "importance": "material",
+      "issueGroupIds": [
+        "legion"
+      ],
+      "reason": "Caulaus legion name. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0099 | 00:06:54.650-00:06:56.189 | Caulaus] Silvas legion.",
+      "preparedContextBefore": [
+        "[u0097 | 00:06:49.440-00:06:50.390 | Kenzo] What to say",
+        "[u0098 | 00:06:51.330-00:06:53.970 | Caulaus] it? Says,"
+      ],
+      "preparedContextAfter": [
+        "[u0100 | 00:06:57.760-00:07:01.609 | Caulaus] and there's a rank insignia on the Talbot, too.",
+        "[u0101 | 00:07:01.960-00:07:04.880 | Caulaus] like you say, like some symbol right?"
+      ],
+      "cleanedWording": "[u0099 | 00:06:54.650-00:06:56.189 | Caulaus] [[Silvas]] Legion.",
+      "uncertainSpansInCleanedWording": [
+        "Silvas"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0121",
+      "importance": "material",
+      "issueGroupIds": [
+        "thread-color"
+      ],
+      "reason": "Initial thread color. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0121 | 00:08:06.310-00:08:07.810 | DM] a dog r",
+      "preparedContextBefore": [
+        "[u0119 | 00:07:59.850-00:08:02.460 | Seeker] what color it is right now, because Tim will have to say",
+        "[u0120 | 00:08:04.180-00:08:05.960 | DM] it's"
+      ],
+      "preparedContextAfter": [
+        "[u0122 | 00:08:12.380-00:08:13.290 | Unknown] to the secret.",
+        "[u0123 | 00:08:13.460-00:08:14.610 | Seeker] twists it around them"
+      ],
+      "cleanedWording": "[u0121 | 00:08:06.310-00:08:07.810 | DM] [[a dog r]]",
+      "uncertainSpansInCleanedWording": [
+        "a dog r"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0136",
+      "importance": "material",
+      "issueGroupIds": [
+        "equipment"
+      ],
+      "reason": "Seeker equipment description. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0136 | 00:08:49.320-00:08:50.320 | Seeker] that",
+      "preparedContextBefore": [
+        "[u0134 | 00:08:45.990-00:08:47.219 | Seeker] And he's also got",
+        "[u0135 | 00:08:48.030-00:08:49.180 | Seeker] the strange"
+      ],
+      "preparedContextAfter": [
+        "[u0137 | 00:08:50.940-00:08:52.060 | Seeker] but just one",
+        "[u0138 | 00:08:53.540-00:08:55.360 | Kenzo] as you got the wet."
+      ],
+      "cleanedWording": "[u0136 | 00:08:49.320-00:08:50.320 | Seeker] [[that]]",
+      "uncertainSpansInCleanedWording": [
+        "that"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0138",
+      "importance": "material",
+      "issueGroupIds": [
+        "equipment"
+      ],
+      "reason": "Seeker equipment description. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0138 | 00:08:53.540-00:08:55.360 | Kenzo] as you got the wet.",
+      "preparedContextBefore": [
+        "[u0136 | 00:08:49.320-00:08:50.320 | Seeker] that",
+        "[u0137 | 00:08:50.940-00:08:52.060 | Seeker] but just one"
+      ],
+      "preparedContextAfter": [
+        "[u0139 | 00:08:55.400-00:08:56.269 | Seeker] but just one",
+        "[u0140 | 00:08:57.580-00:08:58.709 | Wellby] which hand is it?"
+      ],
+      "cleanedWording": "[u0138 | 00:08:53.540-00:08:55.360 | Kenzo] [[as you got the wet.]]",
+      "uncertainSpansInCleanedWording": [
+        "as you got the wet."
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0146",
+      "importance": "material",
+      "issueGroupIds": [
+        "equipment"
+      ],
+      "reason": "Seeker equipment description. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0146 | 00:09:17.270-00:09:18.110 | Unknown] Advice",
+      "preparedContextBefore": [
+        "[u0144 | 00:09:12.380-00:09:13.629 | Seeker] He's he's not",
+        "[u0145 | 00:09:14.610-00:09:16.779 | Seeker] glaring it on his hand at the moment it's it."
+      ],
+      "preparedContextAfter": [
+        "[u0147 | 00:09:18.270-00:09:19.839 | Seeker] firm was built, but",
+        "[u0148 | 00:09:20.260-00:09:21.550 | Seeker] notice it"
+      ],
+      "cleanedWording": "[u0146 | 00:09:17.270-00:09:18.110 | Unknown] [[Advice]]",
+      "uncertainSpansInCleanedWording": [
+        "Advice"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0147",
+      "importance": "material",
+      "issueGroupIds": [
+        "equipment"
+      ],
+      "reason": "Seeker equipment description. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0147 | 00:09:18.270-00:09:19.839 | Seeker] firm was built, but",
+      "preparedContextBefore": [
+        "[u0145 | 00:09:14.610-00:09:16.779 | Seeker] glaring it on his hand at the moment it's it.",
+        "[u0146 | 00:09:17.270-00:09:18.110 | Unknown] Advice"
+      ],
+      "preparedContextAfter": [
+        "[u0148 | 00:09:20.260-00:09:21.550 | Seeker] notice it",
+        "[u0149 | 00:09:21.600-00:09:23.480 | Seeker] little bit with 2 gemstones."
+      ],
+      "cleanedWording": "[u0147 | 00:09:18.270-00:09:19.839 | Seeker] [[firm was built, but]]",
+      "uncertainSpansInCleanedWording": [
+        "firm was built, but"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0204",
+      "importance": "incidental",
+      "reason": "Brief unclear greeting.",
+      "preparedSourceQuote": "[u0204 | 00:14:07.800-00:14:08.630 | Kenzo] Robin.",
+      "preparedContextBefore": [
+        "[u0202 | 00:13:57.500-00:13:59.779 | Caulaus] as soon as Welby appears.",
+        "[u0203 | 00:14:01.350-00:14:06.289 | Caulaus] This this man strides towards him briskly."
+      ],
+      "preparedContextAfter": [
+        "[u0205 | 00:14:09.430-00:14:13.890 | Wellby] Hey, hey, hey?",
+        "[u0206 | 00:14:14.510-00:14:16.170 | Wellby] But I"
+      ],
+      "cleanedWording": "[u0204 | 00:14:07.800-00:14:08.630 | Kenzo] Robin.",
+      "uncertainSpansInCleanedWording": [
+        "Robin."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u0214",
+      "importance": "incidental",
+      "reason": "Unclear incidental fragment; surrounding explicit actions preserve the session record.",
+      "preparedSourceQuote": "[u0214 | 00:14:29.990-00:14:31.960 | Caulaus] They're ready to you. Speak, Craig?",
+      "preparedContextBefore": [
+        "[u0212 | 00:14:27.180-00:14:27.980 | Caulaus] at",
+        "[u0213 | 00:14:28.210-00:14:29.160 | Caulaus] in."
+      ],
+      "preparedContextAfter": [
+        "[u0215 | 00:14:33.830-00:14:40.770 | Caulaus] Yeah, I do, he he calls out. Just a hello and drink Quarian.",
+        "[u0216 | 00:14:40.940-00:14:41.870 | Caulaus] And then"
+      ],
+      "cleanedWording": "[u0214 | 00:14:29.990-00:14:31.960 | Caulaus] They're ready to you. Speak, Craig?",
+      "uncertainSpansInCleanedWording": [
+        "They're ready to you. Speak, Craig?"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u0234",
+      "importance": "material",
+      "issueGroupIds": [
+        "legion",
+        "surname"
+      ],
+      "reason": "Caulaus legion name; Caulaus surname. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0234 | 00:15:34.210-00:15:37.609 | Caulaus] Kallas Apportino, captain of the third Syllabus Legion.",
+      "preparedContextBefore": [
+        "[u0232 | 00:15:29.770-00:15:31.619 | Wellby] It depends on the war.",
+        "[u0233 | 00:15:32.670-00:15:34.170 | Caulaus] I I am"
+      ],
+      "preparedContextAfter": [
+        "[u0235 | 00:15:38.460-00:15:40.820 | Caulaus] I'm seeking news of improvestion.",
+        "[u0236 | 00:15:42.330-00:15:47.059 | Kenzo] callous your whoever you are, just to just pause for 1 s."
+      ],
+      "cleanedWording": "[u0234 | 00:15:34.210-00:15:37.609 | Caulaus] Caulaus [[Apportino]], captain of the third [[Syllabus]] Legion.",
+      "uncertainSpansInCleanedWording": [
+        "Apportino",
+        "Syllabus"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0264",
+      "importance": "incidental",
+      "reason": "Brief garbled table exchange during history check.",
+      "preparedSourceQuote": "[u0264 | 00:17:33.060-00:17:34.289 | Kenzo] to better that ever.",
+      "preparedContextBefore": [
+        "[u0262 | 00:17:27.339-00:17:30.249 | Seeker] different war. Yes, friend, what Emperor again.",
+        "[u0263 | 00:17:31.350-00:17:32.709 | Caulaus] and progression"
+      ],
+      "preparedContextAfter": [
+        "[u0265 | 00:17:36.230-00:17:38.270 | Kenzo] if you check",
+        "[u0266 | 00:17:38.500-00:17:39.960 | DM] yeah, make a history check."
+      ],
+      "cleanedWording": "[u0264 | 00:17:33.060-00:17:34.289 | Kenzo] to better that ever.",
+      "uncertainSpansInCleanedWording": [
+        "to better that ever."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u0338",
+      "importance": "material",
+      "issueGroupIds": [
+        "griffins"
+      ],
+      "reason": "Griffin recollection fragment. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0338 | 00:21:35.510-00:21:39.459 | Caulaus] we're flying overhead. I remember that. Why, that nothing at",
+      "preparedContextBefore": [
+        "[u0336 | 00:21:33.020-00:21:33.760 | Caulaus] and",
+        "[u0337 | 00:21:33.900-00:21:35.320 | Caulaus] the griffins"
+      ],
+      "preparedContextAfter": [
+        "[u0339 | 00:21:41.960-00:21:43.070 | Caulaus] But there was a",
+        "[u0340 | 00:21:43.090-00:21:45.000 | Caulaus] there was a there was a dragon"
+      ],
+      "cleanedWording": "[u0338 | 00:21:35.510-00:21:39.459 | Caulaus] were flying overhead. I remember that. [[Why, that nothing at]]",
+      "uncertainSpansInCleanedWording": [
+        "Why, that nothing at"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0387",
+      "importance": "material",
+      "issueGroupIds": [
+        "necromancy"
+      ],
+      "reason": "Necromancy reference and question. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0387 | 00:24:23.160-00:24:27.879 | Seeker] Tim. This thing, apart from what we've seen with garage, this thing of like raising",
+      "preparedContextBefore": [
+        "[u0385 | 00:24:17.030-00:24:18.779 | Caulaus] and it flew into the sky.",
+        "[u0386 | 00:24:19.120-00:24:22.749 | Caulaus] I do not remember more, but I assume it was not killed."
+      ],
+      "preparedContextAfter": [
+        "[u0388 | 00:24:28.220-00:24:29.609 | Seeker] the dead in battle.",
+        "[u0389 | 00:24:29.830-00:24:30.900 | Seeker] His last name."
+      ],
+      "cleanedWording": "[u0387 | 00:24:23.160-00:24:27.879 | Seeker] Tim. This thing, apart from what we've seen with [[garage]], this thing of like raising",
+      "uncertainSpansInCleanedWording": [
+        "garage"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0389",
+      "importance": "material",
+      "issueGroupIds": [
+        "necromancy"
+      ],
+      "reason": "Necromancy reference and question. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0389 | 00:24:29.830-00:24:30.900 | Seeker] His last name.",
+      "preparedContextBefore": [
+        "[u0387 | 00:24:23.160-00:24:27.879 | Seeker] Tim. This thing, apart from what we've seen with garage, this thing of like raising",
+        "[u0388 | 00:24:28.220-00:24:29.609 | Seeker] the dead in battle."
+      ],
+      "preparedContextAfter": [
+        "[u0390 | 00:24:31.560-00:24:32.360 | Seeker] You like it.",
+        "[u0391 | 00:24:32.840-00:24:35.450 | Seeker] or is it extremely rare?"
+      ],
+      "cleanedWording": "[u0389 | 00:24:29.830-00:24:30.900 | Seeker] [[His last name.]]",
+      "uncertainSpansInCleanedWording": [
+        "His last name."
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0390",
+      "importance": "material",
+      "issueGroupIds": [
+        "necromancy"
+      ],
+      "reason": "Necromancy reference and question. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0390 | 00:24:31.560-00:24:32.360 | Seeker] You like it.",
+      "preparedContextBefore": [
+        "[u0388 | 00:24:28.220-00:24:29.609 | Seeker] the dead in battle.",
+        "[u0389 | 00:24:29.830-00:24:30.900 | Seeker] His last name."
+      ],
+      "preparedContextAfter": [
+        "[u0391 | 00:24:32.840-00:24:35.450 | Seeker] or is it extremely rare?",
+        "[u0392 | 00:24:36.910-00:24:41.160 | DM] It would require powerful magic to the best of your knowledge. But it's"
+      ],
+      "cleanedWording": "[u0390 | 00:24:31.560-00:24:32.360 | Seeker] [[You like it.]]",
+      "uncertainSpansInCleanedWording": [
+        "You like it."
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0403",
+      "importance": "incidental",
+      "reason": "Fragmentary rules chatter.",
+      "preparedSourceQuote": "[u0403 | 00:25:19.500-00:25:20.710 | Seeker] It's not like just at the end of it.",
+      "preparedContextBefore": [
+        "[u0401 | 00:25:15.710-00:25:18.110 | DM] battle magic and things like that.",
+        "[u0402 | 00:25:18.330-00:25:18.890 | Unknown] Right?"
+      ],
+      "preparedContextAfter": [
+        "[u0404 | 00:25:20.860-00:25:21.450 | Unknown] Possible",
+        "[u0405 | 00:25:22.810-00:25:28.939 | DM] powerful. But I mean it's the sort it's sort of like dragons right? It's like there's plenty of tales of it, but"
+      ],
+      "cleanedWording": "[u0403 | 00:25:19.500-00:25:20.710 | Seeker] It's not like just at the end of it.",
+      "uncertainSpansInCleanedWording": [
+        "It's not like just at the end of it."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u0407",
+      "importance": "incidental",
+      "reason": "Fragmentary story frequency exchange.",
+      "preparedSourceQuote": "[u0407 | 00:25:33.070-00:25:35.729 | Seeker] most people with them to have.",
+      "preparedContextBefore": [
+        "[u0405 | 00:25:22.810-00:25:28.939 | DM] powerful. But I mean it's the sort it's sort of like dragons right? It's like there's plenty of tales of it, but",
+        "[u0406 | 00:25:29.120-00:25:30.010 | DM] you know"
+      ],
+      "preparedContextAfter": [
+        "[u0408 | 00:25:36.000-00:25:37.439 | DM] Yeah, exactly.",
+        "[u0409 | 00:25:40.740-00:25:45.259 | Wellby] Do you know of a black tower on a perfectly circular island in the sea."
+      ],
+      "cleanedWording": "[u0407 | 00:25:33.070-00:25:35.729 | Seeker] most people with them to have.",
+      "uncertainSpansInCleanedWording": [
+        "most people with them to have."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u0411",
+      "importance": "incidental",
+      "reason": "Out-of-character memory-list chatter.",
+      "preparedSourceQuote": "[u0411 | 00:25:53.140-00:25:56.720 | Caulaus] do you? It was it in the list of things I thought. You remember. That's",
+      "preparedContextBefore": [
+        "[u0409 | 00:25:40.740-00:25:45.259 | Wellby] Do you know of a black tower on a perfectly circular island in the sea.",
+        "[u0410 | 00:25:50.210-00:25:53.009 | Caulaus] I'm looking at Tim here."
+      ],
+      "preparedContextAfter": [
+        "[u0412 | 00:25:57.090-00:25:59.469 | DM] a black.",
+        "[u0413 | 00:25:59.610-00:26:07.479 | Caulaus] Yes, I. My memories are so fragmented I I cannot recall. To be honest."
+      ],
+      "cleanedWording": "[u0411 | 00:25:53.140-00:25:56.720 | Caulaus] do you? It was it in the list of things I thought. You remember. That's",
+      "uncertainSpansInCleanedWording": [
+        "do you? It was it in the list of things I thought. You remember. That's"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u0433",
+      "importance": "incidental",
+      "reason": "Out-of-character clarification fragment.",
+      "preparedSourceQuote": "[u0433 | 00:27:09.560-00:27:11.539 | DM] in in High School.",
+      "preparedContextBefore": [
+        "[u0431 | 00:27:03.550-00:27:04.430 | Kenzo] Better game.",
+        "[u0432 | 00:27:04.950-00:27:07.330 | Kenzo] Was that what it was? What was the deal with the Allen"
+      ],
+      "preparedContextAfter": [
+        "[u0434 | 00:27:12.730-00:27:14.240 | Wellby] No island.",
+        "[u0435 | 00:27:15.660-00:27:17.300 | Caulaus] the Black tower in the circular."
+      ],
+      "cleanedWording": "[u0433 | 00:27:09.560-00:27:11.539 | DM] in in High School.",
+      "uncertainSpansInCleanedWording": [
+        "in in High School."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u0443",
+      "importance": "incidental",
+      "reason": "False starts while consulting notes.",
+      "preparedSourceQuote": "[u0443 | 00:27:54.150-00:27:59.049 | Wellby] got that, you know that's no there. There's a bunch of other assumptions in the question, but it",
+      "preparedContextBefore": [
+        "[u0441 | 00:27:40.640-00:27:44.290 | DM] it's possible the scepter was created there.",
+        "[u0442 | 00:27:44.460-00:27:52.539 | Wellby] Yeah, the oldest vision that we had of the scepter was newly made, holding it, looking out the window of that tower on that island."
+      ],
+      "preparedContextAfter": [
+        "[u0444 | 00:27:59.290-00:28:00.530 | Wellby] fruitless. Anyway.",
+        "[u0445 | 00:28:01.760-00:28:04.319 | Caulaus] I was on the frontier more than anywhere else."
+      ],
+      "cleanedWording": "[u0443 | 00:27:54.150-00:27:59.049 | Wellby] got that, you know that's no there. There's a bunch of other assumptions in the question, but it",
+      "uncertainSpansInCleanedWording": [
+        "got that, you know that's no there. There's a bunch of other assumptions in the question, but it"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u0476",
+      "importance": "material",
+      "issueGroupIds": [
+        "transition"
+      ],
+      "reason": "Planar transition comment. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0476 | 00:29:38.810-00:29:41.279 | Seeker] the the and fluid of transition is.",
+      "preparedContextBefore": [
+        "[u0474 | 00:29:31.170-00:29:33.220 | Seeker] You're traveling between the planes.",
+        "[u0475 | 00:29:33.390-00:29:37.850 | Seeker] What I at least I've always dreamed to do. It's not so"
+      ],
+      "preparedContextAfter": [
+        "[u0477 | 00:29:41.570-00:29:42.990 | Seeker] I hope, but we're learning",
+        "[u0478 | 00:29:45.150-00:29:46.770 | Seeker] This is a strange place."
+      ],
+      "cleanedWording": "[u0476 | 00:29:38.810-00:29:41.279 | Seeker] [[the the and fluid of transition is.]]",
+      "uncertainSpansInCleanedWording": [
+        "the the and fluid of transition is."
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0482",
+      "importance": "material",
+      "issueGroupIds": [
+        "delwath-reference"
+      ],
+      "reason": "Delwath question fragment. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0482 | 00:29:56.060-00:29:57.720 | Kenzo] Is this the Mon itself?",
+      "preparedContextBefore": [
+        "[u0480 | 00:29:49.430-00:29:51.319 | Seeker] I don't know you haven't seen him",
+        "[u0481 | 00:29:53.050-00:29:54.180 | Caulaus] who is deal with."
+      ],
+      "preparedContextAfter": [
+        "[u0483 | 00:29:57.830-00:30:00.890 | Kenzo] Don't worry about him. Yeah. Bent on destroying the world is fine.",
+        "[u0484 | 00:30:00.930-00:30:02.300 | Kenzo] very shadowy, dark."
+      ],
+      "cleanedWording": "[u0482 | 00:29:56.060-00:29:57.720 | Kenzo] Is this the [[Mon itself]]?",
+      "uncertainSpansInCleanedWording": [
+        "Mon itself"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0503",
+      "importance": "incidental",
+      "reason": "Garbled interjection about story brevity.",
+      "preparedSourceQuote": "[u0503 | 00:31:24.330-00:31:26.100 | Seeker] It's the thing to put. But",
+      "preparedContextBefore": [
+        "[u0501 | 00:31:09.170-00:31:19.409 | Wellby] is a lot of things happen. But long story shirt. I found a wizard who was trapped in a mirror dimension and freed him, and then he sent me here.",
+        "[u0502 | 00:31:20.020-00:31:24.220 | Seeker] I I hate to cut your story short. Apparently I didn't. It was very."
+      ],
+      "preparedContextAfter": [
+        "[u0504 | 00:31:28.440-00:31:29.840 | Seeker] i'm hearing from",
+        "[u0505 | 00:31:30.550-00:31:36.499 | Seeker] typhoon, the they spirit trapped in this in this ring that we collected from Gata's layer"
+      ],
+      "cleanedWording": "[u0503 | 00:31:24.330-00:31:26.100 | Seeker] It's the thing to put. But",
+      "uncertainSpansInCleanedWording": [
+        "It's the thing to put. But"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u0550",
+      "importance": "incidental",
+      "reason": "Short table fragment.",
+      "preparedSourceQuote": "[u0550 | 00:34:45.560-00:34:47.040 | Seeker] so here. So",
+      "preparedContextBefore": [
+        "[u0548 | 00:34:32.900-00:34:39.280 | DM] You can see like Dots lobby is the only one who's got good enough perception to actually make out any shape.",
+        "[u0549 | 00:34:41.650-00:34:44.669 | Seeker] didn't we build a telescope for will be"
+      ],
+      "preparedContextAfter": [
+        "[u0551 | 00:34:47.210-00:34:49.270 | Seeker] yeah, I still got a little",
+        "[u0552 | 00:34:49.449-00:34:52.090 | Wellby] how to spyglass?"
+      ],
+      "cleanedWording": "[u0550 | 00:34:45.560-00:34:47.040 | Seeker] so here. So",
+      "uncertainSpansInCleanedWording": [
+        "so here. So"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u0681",
+      "importance": "incidental",
+      "reason": "Marching-order interjection; following units establish middle and rear.",
+      "preparedSourceQuote": "[u0681 | 00:41:45.280-00:41:46.359 | Seeker] again. Next.",
+      "preparedContextBefore": [
+        "[u0679 | 00:41:32.960-00:41:35.850 | DM] perhaps from long exposure to the faint wild.",
+        "[u0680 | 00:41:39.100-00:41:44.219 | DM] what order are you in as you run. So callous is in the front of the back"
+      ],
+      "preparedContextAfter": [
+        "[u0682 | 00:41:46.740-00:41:48.339 | Wellby] I'll take the second from the back.",
+        "[u0683 | 00:41:49.300-00:41:50.700 | DM] Ken does in the middle."
+      ],
+      "cleanedWording": "[u0681 | 00:41:45.280-00:41:46.359 | Seeker] again. Next.",
+      "uncertainSpansInCleanedWording": [
+        "again. Next."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u0762",
+      "importance": "incidental",
+      "reason": "Ladder anecdote fragment; no current action affected.",
+      "preparedSourceQuote": "[u0762 | 00:47:13.820-00:47:14.890 | Seeker] or somebody desks.",
+      "preparedContextBefore": [
+        "[u0760 | 00:47:07.550-00:47:11.780 | Seeker] I think the first letter was destroyed. The trusty matter was destroyed by the",
+        "[u0761 | 00:47:11.930-00:47:12.930 | Seeker] I have a letter"
+      ],
+      "preparedContextAfter": [
+        "[u0763 | 00:47:14.940-00:47:19.960 | Caulaus] I mean 10. These These pillars like the hope is that there's like an underhang or something, so that",
+        "[u0764 | 00:47:20.360-00:47:22.520 | Caulaus] they would have to wind and come at us to come."
+      ],
+      "cleanedWording": "[u0762 | 00:47:13.820-00:47:14.890 | Seeker] or somebody desks.",
+      "uncertainSpansInCleanedWording": [
+        "or somebody desks."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u0772",
+      "importance": "incidental",
+      "reason": "Range false start; u0778 explicitly fixes current distance at about 300 feet.",
+      "preparedSourceQuote": "[u0772 | 00:47:43.390-00:47:46.479 | DM] 300 5,300 feet away.",
+      "preparedContextBefore": [
+        "[u0770 | 00:47:36.400-00:47:41.890 | DM] You as you land as you sort of approach the pillar, they've now gotten to be about",
+        "[u0771 | 00:47:42.140-00:47:42.899 | DM] and out"
+      ],
+      "preparedContextAfter": [
+        "[u0773 | 00:47:46.830-00:47:51.360 | DM] And you find so so this giant pillar of rock there is a",
+        "[u0774 | 00:47:51.550-00:47:55.010 | DM] there's an overhang that stretches out maybe"
+      ],
+      "cleanedWording": "[u0772 | 00:47:43.390-00:47:46.479 | DM] 300 5,300 feet away.",
+      "uncertainSpansInCleanedWording": [
+        "300 5,300"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u0784",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0784 | 00:48:35.510-00:48:38.329 | DM] and give them Daso, please.",
+      "preparedContextBefore": [
+        "[u0782 | 00:48:26.920-00:48:28.670 | DM] seeker, you hear this",
+        "[u0783 | 00:48:28.820-00:48:35.469 | Kenzo] amazing melody calling for you to come to them"
+      ],
+      "preparedContextAfter": [
+        "[u0785 | 00:48:38.850-00:48:40.120 | DM] They will.",
+        "[u0786 | 00:48:40.870-00:48:41.520 | Unknown] Yeah."
+      ],
+      "cleanedWording": "[u0784 | 00:48:35.510-00:48:38.329 | DM] and give them [[Daso, please]].",
+      "uncertainSpansInCleanedWording": [
+        "Daso, please"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0789",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0789 | 00:48:52.360-00:48:55.959 | DM] If you just come and hand over Dasa cleans to them.",
+      "preparedContextBefore": [
+        "[u0787 | 00:48:42.040-00:48:44.609 | DM] they will come, and they will.",
+        "[u0788 | 00:48:45.820-00:48:52.019 | DM] They will answer your question. They will satisfy your every curiosity about the wonders of the Fay Wild."
+      ],
+      "preparedContextAfter": [
+        "[u0790 | 00:48:56.160-00:49:00.130 | DM] and you need to make a wisdom saving throw.",
+        "[u0791 | 00:49:00.340-00:49:01.930 | Seeker] What is that?"
+      ],
+      "cleanedWording": "[u0789 | 00:48:52.360-00:48:55.959 | DM] If you just come and hand over [[Dasa cleans]] to them.",
+      "uncertainSpansInCleanedWording": [
+        "Dasa cleans"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0838",
+      "importance": "incidental",
+      "reason": "Fragmentary clarification; subsequent units explicit.",
+      "preparedSourceQuote": "[u0838 | 00:51:49.300-00:51:51.649 | DM] tape. You're not like turning on your allies or anything.",
+      "preparedContextBefore": [
+        "[u0836 | 00:51:41.680-00:51:43.489 | Seeker] I'm probably more of Kansas. I'm just kidding.",
+        "[u0837 | 00:51:43.780-00:51:49.219 | DM] Well, no, you're You're just drawn to the song, You're not"
+      ],
+      "preparedContextAfter": [
+        "[u0839 | 00:51:51.770-00:51:54.230 | Seeker] I just want to get to these creatures.",
+        "[u0840 | 00:51:54.620-00:52:00.240 | DM] so make another wisdom, save also with advantage to resist Allison's charm"
+      ],
+      "cleanedWording": "[u0838 | 00:51:49.300-00:51:51.649 | DM] tape. You're not like turning on your allies or anything.",
+      "uncertainSpansInCleanedWording": [
+        "tape. You're not like turning on your allies or anything."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u0847",
+      "importance": "incidental",
+      "reason": "Broken fragment between unsure character description.",
+      "preparedSourceQuote": "[u0847 | 00:52:21.210-00:52:22.160 | DM] hot.",
+      "preparedContextBefore": [
+        "[u0845 | 00:52:14.360-00:52:16.830 | DM] Yeah.",
+        "[u0846 | 00:52:17.650-00:52:20.489 | Seeker] seeker is not just kind of"
+      ],
+      "preparedContextAfter": [
+        "[u0848 | 00:52:25.670-00:52:30.890 | DM] standing there, I would say, kind of unsure as to what to do at the",
+        "[u0849 | 00:52:32.550-00:52:35.600 | Seeker] that must be a very confusing sensation to be charmed, and then"
+      ],
+      "cleanedWording": "[u0847 | 00:52:21.210-00:52:22.160 | DM] hot.",
+      "uncertainSpansInCleanedWording": [
+        "hot."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u0852",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0852 | 00:52:43.680-00:52:50.289 | DM] and You can hear all of them say, give us. So please",
+      "preparedContextBefore": [
+        "[u0850 | 00:52:35.710-00:52:38.689 | DM] we have a",
+        "[u0851 | 00:52:38.810-00:52:43.550 | DM] which are still like plunging down out of the sky, heading for seeker"
+      ],
+      "preparedContextAfter": [
+        "[u0853 | 00:52:50.890-00:52:57.229 | Caulaus] give us that. So, please. This echo is basically that's the quizzer's got to be to Phineas",
+        "[u0854 | 00:52:57.460-00:53:00.450 | Caulaus] true name, or something like that, or fame, or"
+      ],
+      "cleanedWording": "[u0852 | 00:52:43.680-00:52:50.289 | DM] and You can hear all of them say, give us. [[So please]]",
+      "uncertainSpansInCleanedWording": [
+        "So please"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0853",
+      "importance": "incidental",
+      "reason": "Brief garbled aside within alias discussion; alias itself remains material.",
+      "preparedSourceQuote": "[u0853 | 00:52:50.890-00:52:57.229 | Caulaus] give us that. So, please. This echo is basically that's the quizzer's got to be to Phineas",
+      "preparedContextBefore": [
+        "[u0851 | 00:52:38.810-00:52:43.550 | DM] which are still like plunging down out of the sky, heading for seeker",
+        "[u0852 | 00:52:43.680-00:52:50.289 | DM] and You can hear all of them say, give us. So please"
+      ],
+      "preparedContextAfter": [
+        "[u0854 | 00:52:57.460-00:53:00.450 | Caulaus] true name, or something like that, or fame, or",
+        "[u0855 | 00:53:01.120-00:53:03.280 | Seeker] maybe it's callous. Who knows"
+      ],
+      "cleanedWording": "[u0853 | 00:52:50.890-00:52:57.229 | Caulaus] give us [[that. So, please]]. This echo is basically that's the quizzer's got to be Typhina's",
+      "uncertainSpansInCleanedWording": [
+        "that's the quizzer's"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u0853",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0853 | 00:52:50.890-00:52:57.229 | Caulaus] give us that. So, please. This echo is basically that's the quizzer's got to be to Phineas",
+      "preparedContextBefore": [
+        "[u0851 | 00:52:38.810-00:52:43.550 | DM] which are still like plunging down out of the sky, heading for seeker",
+        "[u0852 | 00:52:43.680-00:52:50.289 | DM] and You can hear all of them say, give us. So please"
+      ],
+      "preparedContextAfter": [
+        "[u0854 | 00:52:57.460-00:53:00.450 | Caulaus] true name, or something like that, or fame, or",
+        "[u0855 | 00:53:01.120-00:53:03.280 | Seeker] maybe it's callous. Who knows"
+      ],
+      "cleanedWording": "[u0853 | 00:52:50.890-00:52:57.229 | Caulaus] give us [[that. So, please]]. This echo is basically that's the quizzer's got to be Typhina's",
+      "uncertainSpansInCleanedWording": [
+        "that. So, please"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0856",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0856 | 00:53:04.540-00:53:09.579 | Caulaus] the we? We have no dest to please, no argument here.",
+      "preparedContextBefore": [
+        "[u0854 | 00:52:57.460-00:53:00.450 | Caulaus] true name, or something like that, or fame, or",
+        "[u0855 | 00:53:01.120-00:53:03.280 | Seeker] maybe it's callous. Who knows"
+      ],
+      "preparedContextAfter": [
+        "[u0857 | 00:53:10.040-00:53:14.469 | Caulaus] the echo is going to come. Stand like next to",
+        "[u0858 | 00:53:15.030-00:53:21.519 | Caulaus] seeker. I mean he he's 30 feet away. He's not more than 30 feet away, presumably. Yeah, Seeker is 30 feet away."
+      ],
+      "cleanedWording": "[u0856 | 00:53:04.540-00:53:09.579 | Caulaus] the we? We have no [[dest to please]], no argument here.",
+      "uncertainSpansInCleanedWording": [
+        "dest to please"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0908",
+      "importance": "incidental",
+      "reason": "Resource/rest table discussion, no actual rest taken.",
+      "preparedSourceQuote": "[u0908 | 00:56:41.310-00:56:47.849 | DM] I mean my spells are in this house is probably a decent, least a place to rest. But",
+      "preparedContextBefore": [
+        "[u0906 | 00:56:23.400-00:56:35.800 | Caulaus] Should I be? No, no, No, no, no, this was for something we said. I don't want to stress about resource usage. But are we likely to get a long rest sometime during the rest of this evening",
+        "[u0907 | 00:56:35.950-00:56:41.190 | DM] I would not count on a long rest any time in Amberglow. Our short rest should be pretty easy."
+      ],
+      "preparedContextAfter": [
+        "[u0909 | 00:56:48.240-00:56:50.930 | Caulaus] casting a spell then",
+        "[u0910 | 00:56:52.520-00:56:57.660 | Caulaus] No; but amber is not a safe place. It's it's unlikely you would get it. Okay? Yep. Yep."
+      ],
+      "cleanedWording": "[u0908 | 00:56:41.310-00:56:47.849 | DM] I mean my spells are in this house is probably a decent, least a place to rest. But",
+      "uncertainSpansInCleanedWording": [
+        "my spells are in this house"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u0916",
+      "importance": "incidental",
+      "reason": "Self-corrected range question; following units establish range.",
+      "preparedSourceQuote": "[u0916 | 00:57:16.440-00:57:20.860 | Caulaus] Actually sorry. Are they? Only Third, 60 feet away from the 30 feet from the echo.",
+      "preparedContextBefore": [
+        "[u0914 | 00:57:10.350-00:57:13.539 | DM] and kenzo and seeker",
+        "[u0915 | 00:57:14.330-00:57:15.910 | Kenzo] Kansas structure right?"
+      ],
+      "preparedContextAfter": [
+        "[u0917 | 00:57:21.020-00:57:37.169 | Caulaus] 30 feet from the echo. That's good. The echo will run at. Are they close enough that we could? That I could reach them. No, they're in the air. They're coming at a name. Okay, fine. They're going to pass overhead of the echo before they reach the on your head, or they might attack the echo. Yeah, go ahead, Kenza.",
+        "[u0918 | 00:57:37.740-00:57:39.750 | Kenzo] Kansas starts running up the wall."
+      ],
+      "cleanedWording": "[u0916 | 00:57:16.440-00:57:20.860 | Caulaus] Actually sorry. Are they? Only Third, 60 feet away from the 30 feet from the echo.",
+      "uncertainSpansInCleanedWording": [
+        "Actually sorry. Are they? Only Third, 60 feet away from the 30 feet from the echo."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u0944",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0944 | 00:59:03.790-00:59:07.019 | DM] give us. Give us that. So please",
+      "preparedContextBefore": [
+        "[u0942 | 00:58:53.000-00:58:57.410 | DM] The other 4 now dive down there, and they're screeching. Now you hear",
+        "[u0943 | 00:58:59.830-00:59:02.389 | DM] this still this name again."
+      ],
+      "preparedContextAfter": [
+        "[u0945 | 00:59:08.430-00:59:13.399 | DM] and 2 more of them. Well, 2 of them dive towards the echo.",
+        "[u0946 | 00:59:13.630-00:59:15.770 | DM] slashing out it with their claws."
+      ],
+      "cleanedWording": "[u0944 | 00:59:03.790-00:59:07.019 | DM] give us. Give us [[that. So please]]",
+      "uncertainSpansInCleanedWording": [
+        "that. So please"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0975",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0975 | 01:01:09.950-01:01:11.689 | Unknown] Vandasa, please.",
+      "preparedContextBefore": [
+        "[u0973 | 01:01:05.500-01:01:06.549 | DM] call me!",
+        "[u0974 | 01:01:06.690-01:01:09.160 | DM] We will take our revenge together."
+      ],
+      "preparedContextAfter": [
+        "[u0976 | 01:01:13.160-01:01:16.789 | Seeker] yes, revenge on whoever that may be.",
+        "[u0977 | 01:01:17.000-01:01:21.749 | Wellby] so please! Yes, Who is that? Who can I shoot her?"
+      ],
+      "cleanedWording": "[u0975 | 01:01:09.950-01:01:11.689 | Unknown] [[Vandasa, please.]]",
+      "uncertainSpansInCleanedWording": [
+        "Vandasa, please."
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0977",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0977 | 01:01:17.000-01:01:21.749 | Wellby] so please! Yes, Who is that? Who can I shoot her?",
+      "preparedContextBefore": [
+        "[u0975 | 01:01:09.950-01:01:11.689 | Unknown] Vandasa, please.",
+        "[u0976 | 01:01:13.160-01:01:16.789 | Seeker] yes, revenge on whoever that may be."
+      ],
+      "preparedContextAfter": [
+        "[u0978 | 01:01:22.210-01:01:23.579 | DM] Yeah, you can see her.",
+        "[u0979 | 01:01:23.840-01:01:24.419 | Caulaus] I"
+      ],
+      "cleanedWording": "[u0977 | 01:01:17.000-01:01:21.749 | Wellby] [[so please!]] Yes, Who is that? Can I shoot her?",
+      "uncertainSpansInCleanedWording": [
+        "so please!"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u0989",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u0989 | 01:02:21.980-01:02:37.390 | DM] wounding this like amazing Fay woman who is about to tell you all the secrets of the Fay wild, and also help you deal with whoever this Daso Clees person is, who clearly is somebody who you must take revenge on.",
+      "preparedContextBefore": [
+        "[u0987 | 01:02:11.840-01:02:17.480 | DM] I'm scouring at you. And then this arrow strikes her and seeker. You see",
+        "[u0988 | 01:02:17.830-01:02:21.240 | DM] one of your friends turning on you."
+      ],
+      "preparedContextAfter": [
+        "[u0990 | 01:02:37.820-01:02:47.080 | DM] And there's this bloody wound that starts opening in her chest, and she looks up. She like coughs a little bit, and she sort of grasped. She looks like she's on the edge of dad.",
+        "[u0991 | 01:02:47.270-01:02:53.220 | DM] and she begins coughing a little bit. Blood trickles out of her mouth, and she looks at you in"
+      ],
+      "cleanedWording": "[u0989 | 01:02:21.980-01:02:37.390 | DM] wounding this like amazing fey woman who is about to tell you all the secrets of the Feywild, and also help you deal with whoever this [[Daso Clees]] person is, who clearly is somebody who you must take revenge on.",
+      "uncertainSpansInCleanedWording": [
+        "Daso Clees"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1016",
+      "importance": "incidental",
+      "reason": "Broken attack preface.",
+      "preparedSourceQuote": "[u1016 | 01:04:42.910-01:04:50.209 | DM] my mighty",
+      "preparedContextBefore": [
+        "[u1014 | 01:04:39.000-01:04:40.049 | Kenzo] and",
+        "[u1015 | 01:04:40.120-01:04:42.489 | Kenzo] jump from where I am, and"
+      ],
+      "preparedContextAfter": [
+        "[u1017 | 01:04:51.280-01:04:53.089 | DM] make your tax",
+        "[u1018 | 01:04:56.920-01:04:58.490 | Kenzo] in momento."
+      ],
+      "cleanedWording": "[u1016 | 01:04:42.910-01:04:50.209 | DM] my mighty",
+      "uncertainSpansInCleanedWording": [
+        "my mighty"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u1058",
+      "importance": "incidental",
+      "reason": "Garbled target-analysis phrase; material context is studying harpies for curses, stated clearly nearby.",
+      "preparedSourceQuote": "[u1058 | 01:07:32.770-01:07:43.050 | Kenzo] and you can do a second. Tech. Yeah. But i'm gonna do that first. To see what the pupp are attacking like is a, you know, because I can tell. With this I can learn if they're affected by magic poison disease, etc. Yeah.",
+      "preparedContextBefore": [
+        "[u1056 | 01:07:24.770-01:07:29.239 | Kenzo] can I? can I a soul-size study for my second attack.",
+        "[u1057 | 01:07:29.970-01:07:32.370 | DM] yeah, that's a bonus action. So you can do that"
+      ],
+      "preparedContextAfter": [
+        "[u1059 | 01:07:43.160-01:07:44.350 | Kenzo] right.",
+        "[u1060 | 01:07:45.890-01:07:47.129 | DM] They are cursed"
+      ],
+      "cleanedWording": "[u1058 | 01:07:32.770-01:07:43.050 | Kenzo] and you can do a second attack. Yeah. But i'm gonna do that first. To see what the pupp are attacking like is a, you know, because I can tell. With this I can learn if they're affected by magic poison disease, etc. Yeah.",
+      "uncertainSpansInCleanedWording": [
+        "the pupp are attacking"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u1067",
+      "importance": "incidental",
+      "reason": "Abandoned attempt to find curse remedy; following units explicit.",
+      "preparedSourceQuote": "[u1067 | 01:08:03.140-01:08:05.060 | Kenzo] Yeah, I can't. I Can' Them",
+      "preparedContextBefore": [
+        "[u1065 | 01:07:58.800-01:07:59.600 | Kenzo] shit?",
+        "[u1066 | 01:08:00.690-01:08:02.399 | Kenzo] I can, I?"
+      ],
+      "preparedContextAfter": [
+        "[u1068 | 01:08:05.820-01:08:07.510 | Kenzo] I cannot encourage them.",
+        "[u1069 | 01:08:08.050-01:08:13.479 | Kenzo] a dispensing person Doesn't: remove curses. Yeah, not"
+      ],
+      "cleanedWording": "[u1067 | 01:08:03.140-01:08:05.060 | Kenzo] Yeah, I can't. I can't Them",
+      "uncertainSpansInCleanedWording": [
+        "Them"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u1074",
+      "importance": "incidental",
+      "reason": "Dice interface chatter.",
+      "preparedSourceQuote": "[u1074 | 01:08:30.800-01:08:31.899 | Kenzo] All right for me to see you.",
+      "preparedContextBefore": [
+        "[u1072 | 01:08:22.640-01:08:26.239 | DM] it stuns them. Yup! Go ahead and make your attack. I will do that.",
+        "[u1073 | 01:08:26.819-01:08:30.690 | Kenzo] I can. I'd be studying. Strike my! I do a sign. Strike with my staff as well as yeah."
+      ],
+      "preparedContextAfter": [
+        "[u1075 | 01:08:36.490-01:08:40.789 | DM] 13 hits. Yeah, They're pretty easy to hit.",
+        "[u1076 | 01:08:40.880-01:08:42.450 | Kenzo] Okay, Great. And then I will."
+      ],
+      "cleanedWording": "[u1074 | 01:08:30.800-01:08:31.899 | Kenzo] All right for me to see you.",
+      "uncertainSpansInCleanedWording": [
+        "All right for me to see you."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u1113",
+      "importance": "incidental",
+      "reason": "Damage total question.",
+      "preparedSourceQuote": "[u1113 | 01:11:07.530-01:11:09.280 | DM] It's that 30.",
+      "preparedContextBefore": [
+        "[u1111 | 01:10:59.140-01:11:01.509 | Caulaus] and then i'll attack it again.",
+        "[u1112 | 01:11:03.960-01:11:05.090 | DM] Not ants"
+      ],
+      "preparedContextAfter": [
+        "[u1114 | 01:11:12.010-01:11:18.550 | Caulaus] Yeah. And actually it 2 points of damage. Yeah, it also takes one d 4 extra damage",
+        "[u1115 | 01:11:19.380-01:11:22.390 | Caulaus] from my dreadful strike."
+      ],
+      "cleanedWording": "[u1113 | 01:11:07.530-01:11:09.280 | DM] It's that 30.",
+      "uncertainSpansInCleanedWording": [
+        "It's that 30."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u1117",
+      "importance": "incidental",
+      "reason": "Overlapping combat interjection; next unit explicit death.",
+      "preparedSourceQuote": "[u1117 | 01:11:27.880-01:11:29.440 | Kenzo] inoculate I one",
+      "preparedContextBefore": [
+        "[u1115 | 01:11:19.380-01:11:22.390 | Caulaus] from my dreadful strike.",
+        "[u1116 | 01:11:24.480-01:11:26.120 | DM] Okay, that one"
+      ],
+      "preparedContextAfter": [
+        "[u1118 | 01:11:29.660-01:11:30.990 | DM] also dies.",
+        "[u1119 | 01:11:31.230-01:11:33.960 | Kenzo] I yelled out that they're cursed. We're trying to like not kill them right"
+      ],
+      "cleanedWording": "[u1117 | 01:11:27.880-01:11:29.440 | Kenzo] inoculate I one",
+      "uncertainSpansInCleanedWording": [
+        "inoculate I one"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u1186",
+      "importance": "incidental",
+      "reason": "Garbled player assent; surrounding units explicitly establish knockout/capture.",
+      "preparedSourceQuote": "[u1186 | 01:15:46.450-01:15:51.710 | Kenzo] Pennsylvania's perfectly and just like not just not enough. Yeah.",
+      "preparedContextBefore": [
+        "[u1184 | 01:15:38.980-01:15:39.950 | DM] tie them up.",
+        "[u1185 | 01:15:40.190-01:15:43.309 | DM] Restrain them in some way knock them out."
+      ],
+      "preparedContextAfter": [
+        "[u1187 | 01:15:55.140-01:16:00.310 | DM] So so wellbe as you're chasing after this, when you see behind you that the other 2",
+        "[u1188 | 01:16:00.370-01:16:04.220 | DM] there's 2 that are, dad. The other 2 were attempting to leave, but they've both been"
+      ],
+      "cleanedWording": "[u1186 | 01:15:46.450-01:15:51.710 | Kenzo] Pennsylvania's perfectly and just like not just not enough. Yeah.",
+      "uncertainSpansInCleanedWording": [
+        "Pennsylvania's perfectly and just like not just not enough."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u1201",
+      "importance": "material",
+      "issueGroupIds": [
+        "harpy-wait"
+      ],
+      "reason": "Harpy opening response. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1201 | 01:16:46.620-01:16:48.290 | DM] in waging for Demo.",
+      "preparedContextBefore": [
+        "[u1199 | 01:16:38.360-01:16:40.840 | Wellby] I'll spare your life. So what do we spare those 2?",
+        "[u1200 | 01:16:42.500-01:16:46.090 | DM] It hisses and it says."
+      ],
+      "preparedContextAfter": [
+        "[u1202 | 01:16:48.960-01:16:50.630 | DM] That's a clear",
+        "[u1203 | 01:16:51.770-01:16:53.800 | DM] many, many years."
+      ],
+      "cleanedWording": "[u1201 | 01:16:46.620-01:16:48.290 | DM] [[in waging for Demo.]]",
+      "uncertainSpansInCleanedWording": [
+        "in waging for Demo."
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1202",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1202 | 01:16:48.960-01:16:50.630 | DM] That's a clear",
+      "preparedContextBefore": [
+        "[u1200 | 01:16:42.500-01:16:46.090 | DM] It hisses and it says.",
+        "[u1201 | 01:16:46.620-01:16:48.290 | DM] in waging for Demo."
+      ],
+      "preparedContextAfter": [
+        "[u1203 | 01:16:51.770-01:16:53.800 | DM] many, many years.",
+        "[u1204 | 01:16:55.230-01:16:57.089 | Wellby] So it sounds like you're not in a hurry."
+      ],
+      "cleanedWording": "[u1202 | 01:16:48.960-01:16:50.630 | DM] [[That's a clear]]",
+      "uncertainSpansInCleanedWording": [
+        "That's a clear"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1212",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1212 | 01:17:23.310-01:17:30.929 | Wellby] Who are you talking about? Who is Jacob? Why are you waiting? How come those 2 change back into elf fairy people.",
+      "preparedContextBefore": [
+        "[u1210 | 01:17:20.340-01:17:21.080 | Unknown] all right.",
+        "[u1211 | 01:17:21.110-01:17:23.010 | Wellby] so i'll raise my hand."
+      ],
+      "preparedContextAfter": [
+        "[u1213 | 01:17:31.160-01:17:32.420 | Wellby] What's going on here?",
+        "[u1214 | 01:17:38.200-01:17:40.440 | DM] So many questions"
+      ],
+      "cleanedWording": "[u1212 | 01:17:23.310-01:17:30.929 | Wellby] Who are you talking about? Who is [[Jacob]]? Why are you waiting? How come those 2 changed back into elf fairy people.",
+      "uncertainSpansInCleanedWording": [
+        "Jacob"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1222",
+      "importance": "incidental",
+      "reason": "Overlapping PC/table exchange.",
+      "preparedSourceQuote": "[u1222 | 01:18:12.870-01:18:15.480 | Kenzo] I said, I tell you that it will be",
+      "preparedContextBefore": [
+        "[u1220 | 01:17:57.000-01:17:58.950 | Seeker] Nice a deal.",
+        "[u1221 | 01:18:00.270-01:18:03.160 | DM] 3 questions for my life."
+      ],
+      "preparedContextAfter": [
+        "[u1223 | 01:18:16.440-01:18:18.640 | Kenzo] Can you teach me how to do that thing with the wings.",
+        "[u1224 | 01:18:21.380-01:18:25.080 | Wellby] no! But I've got a spare ravens. Whistle if you want one."
+      ],
+      "cleanedWording": "[u1222 | 01:18:12.870-01:18:15.480 | Kenzo] I said, I tell you that it will be",
+      "uncertainSpansInCleanedWording": [
+        "I said, I tell you that it will be"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u1239",
+      "importance": "incidental",
+      "reason": "Calendar/day-definition interjection.",
+      "preparedSourceQuote": "[u1239 | 01:19:15.200-01:19:17.829 | Seeker] It's a it's a day in the same of",
+      "preparedContextBefore": [
+        "[u1237 | 01:19:09.500-01:19:10.300 | Wellby] Very good.",
+        "[u1238 | 01:19:11.290-01:19:13.040 | Wellby] I put out a hand to shake"
+      ],
+      "preparedContextAfter": [
+        "[u1240 | 01:19:17.860-01:19:20.160 | DM] yeah, she kind of",
+        "[u1241 | 01:19:20.290-01:19:24.199 | DM] like bows slightly to you and says we have a deal"
+      ],
+      "cleanedWording": "[u1239 | 01:19:15.200-01:19:17.829 | Seeker] It's a it's a day in the same of",
+      "uncertainSpansInCleanedWording": [
+        "It's a it's a day in the same of"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u1246",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1246 | 01:19:44.800-01:19:46.660 | Seeker] we want to know who basically it is.",
+      "preparedContextBefore": [
+        "[u1244 | 01:19:29.440-01:19:38.440 | Wellby] so i'll i'll sort of open up the telepathic channels here because I don't feel like that's just a webey thing at this moment, like, All right. What what should we ask her? We get 3 questions.",
+        "[u1245 | 01:19:43.560-01:19:44.519 | Seeker] maybe like"
+      ],
+      "preparedContextAfter": [
+        "[u1247 | 01:19:48.090-01:19:50.630 | Seeker] but also why they're interested in",
+        "[u1248 | 01:19:51.180-01:19:51.920 | Seeker] them."
+      ],
+      "cleanedWording": "[u1246 | 01:19:44.800-01:19:46.660 | Seeker] we want to know who [[basically]] it is.",
+      "uncertainSpansInCleanedWording": [
+        "basically"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1253",
+      "importance": "incidental",
+      "reason": "Question-selection chatter; actual question repeated later.",
+      "preparedSourceQuote": "[u1253 | 01:20:04.860-01:20:06.470 | Seeker] Start with a Jessic with question",
+      "preparedContextBefore": [
+        "[u1251 | 01:19:58.690-01:20:00.740 | Seeker] and everything that they know about that.",
+        "[u1252 | 01:20:01.820-01:20:02.599 | Unknown] See?"
+      ],
+      "preparedContextAfter": [
+        "[u1254 | 01:20:06.830-01:20:07.880 | Seeker] and definitely.",
+        "[u1255 | 01:20:12.740-01:20:16.130 | Wellby] what about where a cut is home is in the Fay Wild"
+      ],
+      "cleanedWording": "[u1253 | 01:20:04.860-01:20:06.470 | Seeker] Start with a Jessic question",
+      "uncertainSpansInCleanedWording": [
+        "Jessic"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u1260",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1260 | 01:20:35.000-01:20:36.930 | Caulaus] who is? Tesla has a lot of",
+      "preparedContextBefore": [
+        "[u1258 | 01:20:27.490-01:20:28.550 | Caulaus] who",
+        "[u1259 | 01:20:33.090-01:20:34.940 | Caulaus] who is, yeah."
+      ],
+      "preparedContextAfter": [
+        "[u1261 | 01:20:37.900-01:20:39.410 | Caulaus] check. The answers like",
+        "[u1262 | 01:20:39.560-01:20:40.730 | Caulaus] dasicles."
+      ],
+      "cleanedWording": "[u1260 | 01:20:35.000-01:20:36.930 | Caulaus] who is? [[Tesla]] has a lot of",
+      "uncertainSpansInCleanedWording": [
+        "Tesla"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1261",
+      "importance": "incidental",
+      "reason": "Fragment preceding repeated name.",
+      "preparedSourceQuote": "[u1261 | 01:20:37.900-01:20:39.410 | Caulaus] check. The answers like",
+      "preparedContextBefore": [
+        "[u1259 | 01:20:33.090-01:20:34.940 | Caulaus] who is, yeah.",
+        "[u1260 | 01:20:35.000-01:20:36.930 | Caulaus] who is? Tesla has a lot of"
+      ],
+      "preparedContextAfter": [
+        "[u1262 | 01:20:39.560-01:20:40.730 | Caulaus] dasicles.",
+        "[u1263 | 01:20:42.150-01:20:42.940 | Seeker] Right?"
+      ],
+      "cleanedWording": "[u1261 | 01:20:37.900-01:20:39.410 | Caulaus] check. The answers like",
+      "uncertainSpansInCleanedWording": [
+        "check. The answers like"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u1262",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1262 | 01:20:39.560-01:20:40.730 | Caulaus] dasicles.",
+      "preparedContextBefore": [
+        "[u1260 | 01:20:35.000-01:20:36.930 | Caulaus] who is? Tesla has a lot of",
+        "[u1261 | 01:20:37.900-01:20:39.410 | Caulaus] check. The answers like"
+      ],
+      "preparedContextAfter": [
+        "[u1263 | 01:20:42.150-01:20:42.940 | Seeker] Right?",
+        "[u1264 | 01:20:43.710-01:20:45.850 | Seeker] Yeah. But also"
+      ],
+      "cleanedWording": "[u1262 | 01:20:39.560-01:20:40.730 | Caulaus] [[dasicles.]]",
+      "uncertainSpansInCleanedWording": [
+        "dasicles."
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1272",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1272 | 01:21:12.810-01:21:14.180 | Wellby] Who is desecrates?",
+      "preparedContextBefore": [
+        "[u1270 | 01:21:08.180-01:21:08.910 | Seeker] yeah?",
+        "[u1271 | 01:21:09.490-01:21:10.210 | Seeker] Keep it in?"
+      ],
+      "preparedContextAfter": [
+        "[u1273 | 01:21:17.500-01:21:19.290 | DM] An ancient fay",
+        "[u1274 | 01:21:20.410-01:21:22.289 | DM] once of these parts."
+      ],
+      "cleanedWording": "[u1272 | 01:21:12.810-01:21:14.180 | Wellby] Who is [[desecrates]]?",
+      "uncertainSpansInCleanedWording": [
+        "desecrates"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1277",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1277 | 01:21:36.930-01:21:39.550 | Seeker] So we still don't know if Typhoon is specifically or not.",
+      "preparedContextBefore": [
+        "[u1275 | 01:21:24.960-01:21:28.179 | DM] claimed to be a guardian of this realm.",
+        "[u1276 | 01:21:29.050-01:21:30.570 | DM] who round us."
+      ],
+      "preparedContextAfter": [
+        "[u1278 | 01:21:39.870-01:21:45.329 | Caulaus] i'm pretty sure typhoon is basically here. You should ask.",
+        "[u1279 | 01:21:50.350-01:21:51.330 | Wellby] Wait Second."
+      ],
+      "cleanedWording": "[u1277 | 01:21:36.930-01:21:39.550 | Seeker] So we still don't know if Typhina is [[specifically]] or not.",
+      "uncertainSpansInCleanedWording": [
+        "specifically"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1278",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1278 | 01:21:39.870-01:21:45.329 | Caulaus] i'm pretty sure typhoon is basically here. You should ask.",
+      "preparedContextBefore": [
+        "[u1276 | 01:21:29.050-01:21:30.570 | DM] who round us.",
+        "[u1277 | 01:21:36.930-01:21:39.550 | Seeker] So we still don't know if Typhoon is specifically or not."
+      ],
+      "preparedContextAfter": [
+        "[u1279 | 01:21:50.350-01:21:51.330 | Wellby] Wait Second.",
+        "[u1280 | 01:21:51.980-01:21:53.850 | Seeker] i'm gonna ask you, you know."
+      ],
+      "cleanedWording": "[u1278 | 01:21:39.870-01:21:45.329 | Caulaus] i'm pretty sure Typhina is [[basically]] here. You should ask.",
+      "uncertainSpansInCleanedWording": [
+        "basically"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1298",
+      "importance": "incidental",
+      "reason": "Fragment while choosing question; actual question explicit in u1301.",
+      "preparedSourceQuote": "[u1298 | 01:23:06.610-01:23:08.940 | Caulaus] who set the defined test at least",
+      "preparedContextBefore": [
+        "[u1296 | 01:22:59.090-01:23:01.199 | Wellby] who pursued this tax.",
+        "[u1297 | 01:23:01.450-01:23:03.130 | Seeker] and it's going to be a gata, probably."
+      ],
+      "preparedContextAfter": [
+        "[u1299 | 01:23:09.210-01:23:12.310 | Wellby] maybe a third one, too, if, like, what will free you from the curse to",
+        "[u1300 | 01:23:15.900-01:23:18.840 | Wellby] okay for a second question. Second question, then, is,"
+      ],
+      "cleanedWording": "[u1298 | 01:23:06.610-01:23:08.940 | Caulaus] who set the defined test at least",
+      "uncertainSpansInCleanedWording": [
+        "defined test"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u1304",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1304 | 01:23:42.520-01:23:46.209 | Caulaus] Ask what classically, what wrongs the basketballs do?",
+      "preparedContextBefore": [
+        "[u1302 | 01:23:27.870-01:23:31.480 | DM] No one set us to this task. We seek revenge.",
+        "[u1303 | 01:23:34.210-01:23:37.369 | DM] seek revenge for the wrongs done to our people."
+      ],
+      "preparedContextAfter": [
+        "[u1305 | 01:23:49.160-01:23:50.580 | Wellby] Hmm.",
+        "[u1306 | 01:23:54.240-01:23:58.229 | Wellby] I think Webey is going to ask instead, what will for you from this cursed harpy form"
+      ],
+      "cleanedWording": "[u1304 | 01:23:42.520-01:23:46.209 | Caulaus] Ask telepathically, what wrongs did [[the basketballs]] do?",
+      "uncertainSpansInCleanedWording": [
+        "the basketballs"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1333",
+      "importance": "incidental",
+      "reason": "Cross-talk about Cloudspinner task; next question repeated clearly.",
+      "preparedSourceQuote": "[u1333 | 01:25:49.950-01:25:52.019 | Wellby] well Trask in a herpan. Where?",
+      "preparedContextBefore": [
+        "[u1331 | 01:25:41.660-01:25:42.809 | Caulaus] I did.",
+        "[u1332 | 01:25:43.620-01:25:45.210 | Caulaus] Maybe i'd remember"
+      ],
+      "preparedContextAfter": [
+        "[u1334 | 01:25:52.240-01:25:53.849 | Wellby] Where is the Cloud Spinner?",
+        "[u1335 | 01:25:56.030-01:25:57.979 | Wellby] We've got some time. We'll go for you."
+      ],
+      "cleanedWording": "[u1333 | 01:25:49.950-01:25:52.019 | Wellby] well Trask in a herpan. Where?",
+      "uncertainSpansInCleanedWording": [
+        "well Trask in a herpan. Where?"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u1375",
+      "importance": "incidental",
+      "reason": "Garbled identity suspicion aside; preceding and following units establish concern.",
+      "preparedSourceQuote": "[u1375 | 01:27:51.730-01:27:53.399 | Seeker] many things in the thing around here or not.",
+      "preparedContextBefore": [
+        "[u1373 | 01:27:47.970-01:27:49.119 | Seeker] good. I was",
+        "[u1374 | 01:27:49.140-01:27:51.240 | Seeker] concerned there for a second that the"
+      ],
+      "preparedContextAfter": [
+        "[u1376 | 01:27:54.470-01:27:56.089 | Seeker] That's not",
+        "[u1377 | 01:27:56.440-01:27:58.519 | Seeker] I. I'm pretty sure I me. And"
+      ],
+      "cleanedWording": "[u1375 | 01:27:51.730-01:27:53.399 | Seeker] many things in the thing around here or not.",
+      "uncertainSpansInCleanedWording": [
+        "many things in the thing around here or not."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u1438",
+      "importance": "material",
+      "issueGroupIds": [
+        "revenge"
+      ],
+      "reason": "Explanation of harpy revenge. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1438 | 01:31:40.910-01:31:43.850 | Seeker] and that which they see prevent more than that",
+      "preparedContextBefore": [
+        "[u1436 | 01:31:34.910-01:31:37.099 | DM] took on the guardianship and",
+        "[u1437 | 01:31:38.090-01:31:40.250 | DM] based Agata."
+      ],
+      "preparedContextAfter": [
+        "[u1439 | 01:31:44.360-01:31:45.500 | Seeker] since. Because",
+        "[u1440 | 01:31:47.150-01:31:47.719 | Unknown] yeah."
+      ],
+      "cleanedWording": "[u1438 | 01:31:40.910-01:31:43.850 | Seeker] [[and that which they see prevent more than that]]",
+      "uncertainSpansInCleanedWording": [
+        "and that which they see prevent more than that"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1472",
+      "importance": "incidental",
+      "reason": "Abandoned sentence fragment.",
+      "preparedSourceQuote": "[u1472 | 01:34:02.410-01:34:03.350 | DM] the last.",
+      "preparedContextBefore": [
+        "[u1470 | 01:33:49.980-01:33:51.400 | DM] Yes,",
+        "[u1471 | 01:33:55.000-01:33:59.980 | DM] it is still some ways East. It should be visible soon from"
+      ],
+      "preparedContextAfter": [
+        "[u1473 | 01:34:03.850-01:34:04.809 | DM] There are.",
+        "[u1474 | 01:34:05.150-01:34:08.670 | DM] as you approach to the river, there are a line of"
+      ],
+      "cleanedWording": "[u1472 | 01:34:02.410-01:34:03.350 | DM] the last.",
+      "uncertainSpansInCleanedWording": [
+        "the last."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u1591",
+      "importance": "incidental",
+      "reason": "Garbled transition after decision to visit pool.",
+      "preparedSourceQuote": "[u1591 | 01:43:21.060-01:43:22.989 | Seeker] that will for yes.",
+      "preparedContextBefore": [
+        "[u1589 | 01:43:08.780-01:43:10.380 | Seeker] we'll leave her. Be for the moment",
+        "[u1590 | 01:43:16.170-01:43:18.960 | Kenzo] head to the growth or the the"
+      ],
+      "preparedContextAfter": [
+        "[u1592 | 01:43:28.030-01:43:28.950 | Seeker] Oh.",
+        "[u1593 | 01:43:30.060-01:43:30.880 | DM] so"
+      ],
+      "cleanedWording": "[u1591 | 01:43:21.060-01:43:22.989 | Seeker] that will for yes.",
+      "uncertainSpansInCleanedWording": [
+        "that will for yes."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u1613",
+      "importance": "incidental",
+      "reason": "Virtual background discussion.",
+      "preparedSourceQuote": "[u1613 | 01:44:50.170-01:45:03.059 | DM] Yeah, it's completely dry. There's no water. But you still sort of feel that vibration, and we are like, so this picture is our. This immersive background is an accurate there's no water. Yeah, yeah, this is You're on your way to this immersive.",
+      "preparedContextBefore": [
+        "[u1611 | 01:44:44.720-01:44:47.019 | Seeker] It flows towards the past, and it's interesting.",
+        "[u1612 | 01:44:48.580-01:44:49.730 | Kenzo] There's no water there."
+      ],
+      "preparedContextAfter": [
+        "[u1614 | 01:45:03.120-01:45:04.669 | DM] You're crossing the river. But",
+        "[u1615 | 01:45:06.190-01:45:11.090 | DM] But then, on the other side of the river there's a stand of dead trees."
+      ],
+      "cleanedWording": "[u1613 | 01:44:50.170-01:45:03.059 | DM] Yeah, it's completely dry. There's no water. But you still sort of feel that vibration, and we are like, so this picture is our. This immersive background is an accurate there's no water. Yeah, yeah, this is You're on your way to this immersive.",
+      "uncertainSpansInCleanedWording": [
+        "Yeah, it's completely dry. There's no water. But you still sort of feel that vibration, and we are like, so this picture is our. This immersive background is an accurate there's no water. Yeah, yeah, this is You're on your way to this immersive."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u1627",
+      "importance": "incidental",
+      "reason": "Brief interrupted declaration of using Sense Ore; surrounding units establish the action.",
+      "preparedSourceQuote": "[u1627 | 01:46:12.950-01:46:19.019 | Seeker] So i'll pause as we cross briefly today in the fey wild.",
+      "preparedContextBefore": [
+        "[u1625 | 01:46:04.650-01:46:10.709 | Seeker] since ore doesn't really tell me about water flow. What will tell me about any other precious metals or stones?",
+        "[u1626 | 01:46:11.380-01:46:12.139 | DM] Yeah."
+      ],
+      "preparedContextAfter": [
+        "[u1628 | 01:46:20.320-01:46:22.350 | DM] That's an interesting question.",
+        "[u1629 | 01:46:23.800-01:46:27.069 | Seeker] I tried to once, oh, actually, and it was disastrous"
+      ],
+      "cleanedWording": "[u1627 | 01:46:12.950-01:46:19.019 | Seeker] So i'll pause as we cross briefly today in the Feywild.",
+      "uncertainSpansInCleanedWording": [
+        "today in the Feywild"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u1657",
+      "importance": "incidental",
+      "reason": "Abandoned enumeration of planar forces.",
+      "preparedSourceQuote": "[u1657 | 01:48:11.780-01:48:13.680 | Seeker] and if I can enumerate them. But anyway.",
+      "preparedContextBefore": [
+        "[u1655 | 01:48:03.370-01:48:06.309 | Seeker] fundamental forces that we know about that govern",
+        "[u1656 | 01:48:06.470-01:48:08.450 | Seeker] the interactions of planes, the"
+      ],
+      "preparedContextAfter": [
+        "[u1658 | 01:48:13.860-01:48:15.170 | Seeker] I don't think we've encountered like",
+        "[u1659 | 01:48:15.590-01:48:16.850 | Seeker] slowing time."
+      ],
+      "cleanedWording": "[u1657 | 01:48:11.780-01:48:13.680 | Seeker] and if I can enumerate them. But anyway.",
+      "uncertainSpansInCleanedWording": [
+        "and if I can enumerate them. But anyway."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u1696",
+      "importance": "incidental",
+      "reason": "Unclear time estimate with no precise duration asserted.",
+      "preparedSourceQuote": "[u1696 | 01:50:21.490-01:50:24.650 | DM] Some will not. Any time has passed, but it's hard to say exactly how much.",
+      "preparedContextBefore": [
+        "[u1694 | 01:50:13.290-01:50:14.690 | DM] but it's hard to tell",
+        "[u1695 | 01:50:15.630-01:50:20.870 | DM] like it's not like, you know. Oh, 3 days has passed since you got here right."
+      ],
+      "preparedContextAfter": [
+        "[u1697 | 01:50:25.720-01:50:28.840 | DM] but not in not a week or not, you know.",
+        "[u1698 | 01:50:31.760-01:50:32.420 | Wellby] Okay."
+      ],
+      "cleanedWording": "[u1696 | 01:50:21.490-01:50:24.650 | DM] Some will not. Any time has passed, but it's hard to say exactly how much.",
+      "uncertainSpansInCleanedWording": [
+        "Some will not. Any time has passed"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u1702",
+      "importance": "incidental",
+      "reason": "Grotto description false start.",
+      "preparedSourceQuote": "[u1702 | 01:50:46.840-01:50:51.230 | DM] growing on the stone that makes up the this lake sort of",
+      "preparedContextBefore": [
+        "[u1700 | 01:50:40.610-01:50:43.370 | DM] Sorry, very little, like all the trees are dead.",
+        "[u1701 | 01:50:43.820-01:50:46.619 | DM] there is some like moss"
+      ],
+      "preparedContextAfter": [
+        "[u1703 | 01:50:52.730-01:50:55.459 | DM] house hut sort of thing",
+        "[u1704 | 01:50:55.570-01:51:00.720 | DM] there are there are. There is also like some MOS and some"
+      ],
+      "cleanedWording": "[u1702 | 01:50:46.840-01:50:51.230 | DM] growing on the stone that makes up the this lake sort of",
+      "uncertainSpansInCleanedWording": [
+        "growing on the stone that makes up the this lake sort of"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u1715",
+      "importance": "incidental",
+      "reason": "Fragment naming reason for grotto visit; next turns clarify.",
+      "preparedSourceQuote": "[u1715 | 01:51:37.420-01:51:38.979 | Seeker] the type thing in the chair.",
+      "preparedContextBefore": [
+        "[u1713 | 01:51:26.410-01:51:34.929 | DM] slightly moving the waters below, but it's quite murky, so it's difficult to see much, and sorry I met again. We're here again, because in the Grotto, because",
+        "[u1714 | 01:51:35.720-01:51:36.500 | Seeker] there's a name."
+      ],
+      "preparedContextAfter": [
+        "[u1716 | 01:51:40.140-01:51:40.929 | Kenzo] What's that?",
+        "[u1717 | 01:51:41.130-01:51:42.890 | Kenzo] Is that nymph? The type intervention."
+      ],
+      "cleanedWording": "[u1715 | 01:51:37.420-01:51:38.979 | Seeker] that Typhina in the chair.",
+      "uncertainSpansInCleanedWording": [
+        "in the chair"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u1734",
+      "importance": "incidental",
+      "reason": "Unclear address fragment.",
+      "preparedSourceQuote": "[u1734 | 01:52:45.660-01:52:46.760 | Seeker] Some residents",
+      "preparedContextBefore": [
+        "[u1732 | 01:52:40.490-01:52:42.449 | DM] There's no doors or anything but",
+        "[u1733 | 01:52:44.160-01:52:45.580 | Seeker] well, I just want to."
+      ],
+      "preparedContextAfter": [
+        "[u1735 | 01:52:50.410-01:52:51.610 | Kenzo] you want to type in you.",
+        "[u1736 | 01:52:56.130-01:52:57.139 | Seeker] and"
+      ],
+      "cleanedWording": "[u1734 | 01:52:45.660-01:52:46.760 | Seeker] Some residents",
+      "uncertainSpansInCleanedWording": [
+        "Some residents"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u1747",
+      "importance": "incidental",
+      "reason": "Garbled politeness interjection.",
+      "preparedSourceQuote": "[u1747 | 01:53:29.610-01:53:30.650 | Seeker] That's it, I?",
+      "preparedContextBefore": [
+        "[u1745 | 01:53:21.110-01:53:22.710 | DM] be! Be polite",
+        "[u1746 | 01:53:24.370-01:53:25.550 | DM] for her."
+      ],
+      "preparedContextAfter": [
+        "[u1748 | 01:53:31.090-01:53:32.399 | DM] How are you?",
+        "[u1749 | 01:53:35.950-01:53:38.150 | DM] How are your friends of Dasso Queens?"
+      ],
+      "cleanedWording": "[u1747 | 01:53:29.610-01:53:30.650 | Seeker] That's it, I?",
+      "uncertainSpansInCleanedWording": [
+        "That's it, I?"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u1749",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1749 | 01:53:35.950-01:53:38.150 | DM] How are your friends of Dasso Queens?",
+      "preparedContextBefore": [
+        "[u1747 | 01:53:29.610-01:53:30.650 | Seeker] That's it, I?",
+        "[u1748 | 01:53:31.090-01:53:32.399 | DM] How are you?"
+      ],
+      "preparedContextAfter": [
+        "[u1750 | 01:53:44.050-01:53:46.430 | Seeker] Well, i'm i'm a little hesitant, having",
+        "[u1751 | 01:53:46.680-01:53:49.530 | Unknown] been susceptible surprisingly to"
+      ],
+      "cleanedWording": "[u1749 | 01:53:35.950-01:53:38.150 | DM] Call out you're friends of [[Dasso Queens]]?",
+      "uncertainSpansInCleanedWording": [
+        "Dasso Queens"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1781",
+      "importance": "material",
+      "issueGroupIds": [
+        "surname"
+      ],
+      "reason": "Caulaus surname. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1781 | 01:55:47.720-01:55:49.849 | Caulaus] Carlos apportino.",
+      "preparedContextBefore": [
+        "[u1779 | 01:55:40.680-01:55:42.070 | DM] who calls?",
+        "[u1780 | 01:55:44.960-01:55:47.059 | Caulaus] I am, who bothers me?"
+      ],
+      "preparedContextAfter": [
+        "[u1782 | 01:55:50.500-01:55:51.929 | Caulaus] We are here",
+        "[u1783 | 01:55:52.040-01:55:54.929 | Caulaus] seeking your wisdom and advice."
+      ],
+      "cleanedWording": "[u1781 | 01:55:47.720-01:55:49.849 | Caulaus] Caulaus [[Apportino]].",
+      "uncertainSpansInCleanedWording": [
+        "Apportino"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1785",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1785 | 01:56:02.040-01:56:03.559 | Caulaus] Dasicles.",
+      "preparedContextBefore": [
+        "[u1783 | 01:55:52.040-01:55:54.929 | Caulaus] seeking your wisdom and advice.",
+        "[u1784 | 01:55:56.110-01:56:01.920 | Caulaus] I I keep want to say democles, but it's not demographically. What is it that's it."
+      ],
+      "preparedContextAfter": [
+        "[u1786 | 01:56:04.010-01:56:04.840 | Caulaus] That",
+        "[u1787 | 01:56:06.130-01:56:07.059 | Caulaus] we are."
+      ],
+      "cleanedWording": "[u1785 | 01:56:02.040-01:56:03.559 | Caulaus] [[Dasicles.]]",
+      "uncertainSpansInCleanedWording": [
+        "Dasicles."
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1789",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1789 | 01:56:08.870-01:56:11.950 | Caulaus] friends of Dazakles, and",
+      "preparedContextBefore": [
+        "[u1787 | 01:56:06.130-01:56:07.059 | Caulaus] we are.",
+        "[u1788 | 01:56:07.630-01:56:08.570 | Caulaus] We are"
+      ],
+      "preparedContextAfter": [
+        "[u1790 | 01:56:12.110-01:56:13.940 | Caulaus] we were told you",
+        "[u1791 | 01:56:14.170-01:56:15.829 | Caulaus] may be able to help"
+      ],
+      "cleanedWording": "[u1789 | 01:56:08.870-01:56:11.950 | Caulaus] friends of [[Dazakles]], and",
+      "uncertainSpansInCleanedWording": [
+        "Dazakles"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1838",
+      "importance": "incidental",
+      "reason": "Abandoned clause.",
+      "preparedSourceQuote": "[u1838 | 01:59:09.870-01:59:11.540 | Seeker] that I was",
+      "preparedContextBefore": [
+        "[u1836 | 01:59:03.430-01:59:06.649 | DM] mislead the unwary and keep there.",
+        "[u1837 | 01:59:07.040-01:59:08.860 | DM] True identity is safe"
+      ],
+      "preparedContextAfter": [
+        "[u1839 | 01:59:12.180-01:59:15.060 | DM] done by any name of this creature.",
+        "[u1840 | 01:59:18.150-01:59:20.520 | DM] I doubt Agata was her true name."
+      ],
+      "cleanedWording": "[u1838 | 01:59:09.870-01:59:11.540 | Seeker] that I was",
+      "uncertainSpansInCleanedWording": [
+        "that I was"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u1839",
+      "importance": "material",
+      "issueGroupIds": [
+        "name-question"
+      ],
+      "reason": "Question about names. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1839 | 01:59:12.180-01:59:15.060 | DM] done by any name of this creature.",
+      "preparedContextBefore": [
+        "[u1837 | 01:59:07.040-01:59:08.860 | DM] True identity is safe",
+        "[u1838 | 01:59:09.870-01:59:11.540 | Seeker] that I was"
+      ],
+      "preparedContextAfter": [
+        "[u1840 | 01:59:18.150-01:59:20.520 | DM] I doubt Agata was her true name.",
+        "[u1841 | 01:59:23.200-01:59:24.269 | Seeker] Fair enough"
+      ],
+      "cleanedWording": "[u1839 | 01:59:12.180-01:59:15.060 | DM] [[done by any name of this creature.]]",
+      "uncertainSpansInCleanedWording": [
+        "done by any name of this creature."
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u1857",
+      "importance": "material",
+      "issueGroupIds": [
+        "theft"
+      ],
+      "reason": "Theft from the grove. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u1857 | 02:00:20.430-02:00:22.430 | DM] from the festival from the",
+      "preparedContextBefore": [
+        "[u1855 | 02:00:16.120-02:00:17.090 | DM] I got her",
+        "[u1856 | 02:00:17.890-02:00:18.960 | DM] stole"
+      ],
+      "preparedContextAfter": [
+        "[u1858 | 02:00:22.980-02:00:24.340 | DM] heartwood, grows",
+        "[u1859 | 02:00:26.770-02:00:30.959 | DM] after clouds, been her past or vanished. Whatever happened to her"
+      ],
+      "cleanedWording": "[u1857 | 02:00:20.430-02:00:22.430 | DM] from the [[festival]] from the",
+      "uncertainSpansInCleanedWording": [
+        "festival"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u2074",
+      "importance": "incidental",
+      "reason": "Unclear overlapping interjection before narrated emerging hand; Agata identified u2078.",
+      "preparedSourceQuote": "[u2074 | 02:13:39.270-02:13:41.080 | Kenzo] tahini. A hand",
+      "preparedContextBefore": [
+        "[u2072 | 02:13:36.970-02:13:37.599 | Caulaus] no!",
+        "[u2073 | 02:13:38.000-02:13:39.050 | Caulaus] It's a"
+      ],
+      "preparedContextAfter": [
+        "[u2075 | 02:13:41.860-02:13:45.019 | DM] white and wrinkled, starts to reach out of the tree.",
+        "[u2076 | 02:13:45.320-02:13:46.150 | Seeker] we"
+      ],
+      "cleanedWording": "[u2074 | 02:13:39.270-02:13:41.080 | Kenzo] tahini. A hand",
+      "uncertainSpansInCleanedWording": [
+        "tahini."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2077",
+      "importance": "incidental",
+      "reason": "Overlapping reaction as hand emerges; Agata reveal explicit next unit.",
+      "preparedSourceQuote": "[u2077 | 02:13:46.360-02:13:48.520 | Kenzo] that any I I need",
+      "preparedContextBefore": [
+        "[u2075 | 02:13:41.860-02:13:45.019 | DM] white and wrinkled, starts to reach out of the tree.",
+        "[u2076 | 02:13:45.320-02:13:46.150 | Seeker] we"
+      ],
+      "preparedContextAfter": [
+        "[u2078 | 02:13:50.140-02:13:52.719 | DM] a Gothic emerges.",
+        "[u2079 | 02:13:53.060-02:13:54.679 | DM] and she says."
+      ],
+      "cleanedWording": "[u2077 | 02:13:46.360-02:13:48.520 | Kenzo] that any I I need",
+      "uncertainSpansInCleanedWording": [
+        "that any I I need"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2110",
+      "importance": "incidental",
+      "reason": "Prior token/table setup mention of Isaac; not campaign evidence.",
+      "preparedSourceQuote": "[u2110 | 02:16:28.470-02:16:30.989 | Caulaus] because we had a combat with a token with Isaac.",
+      "preparedContextBefore": [
+        "[u2108 | 02:16:22.610-02:16:23.660 | DM] I haven't",
+        "[u2109 | 02:16:24.480-02:16:27.919 | Caulaus] Calias token. there was one"
+      ],
+      "preparedContextAfter": [
+        "[u2111 | 02:16:32.040-02:16:34.399 | Caulaus] I didn't you didn't have a good hex token.",
+        "[u2112 | 02:16:35.879-02:16:39.550 | DM] Oh, but I think I hold on. Did you get rid of it somehow?"
+      ],
+      "cleanedWording": "[u2110 | 02:16:28.470-02:16:30.989 | Caulaus] because we had a combat with a token with Isaac.",
+      "uncertainSpansInCleanedWording": [
+        "because we had a combat with a token with Isaac."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u2116",
+      "importance": "incidental",
+      "reason": "Abandoned name recollection; subsequent name issue logged.",
+      "preparedSourceQuote": "[u2116 | 02:16:52.790-02:16:54.789 | Kenzo] was I",
+      "preparedContextBefore": [
+        "[u2114 | 02:16:44.760-02:16:47.900 | Kenzo] So the heartbeat guys give our allies trying to.",
+        "[u2115 | 02:16:49.730-02:16:52.760 | Kenzo] And Agata's previous name"
+      ],
+      "preparedContextAfter": [
+        "[u2117 | 02:16:56.330-02:16:57.449 | Kenzo] something",
+        "[u2118 | 02:16:58.330-02:17:01.359 | Seeker] definitely? That's a please. Oh, yeah."
+      ],
+      "cleanedWording": "[u2116 | 02:16:52.790-02:16:54.789 | Kenzo] was I",
+      "uncertainSpansInCleanedWording": [
+        "was I"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u2118",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u2118 | 02:16:58.330-02:17:01.359 | Seeker] definitely? That's a please. Oh, yeah.",
+      "preparedContextBefore": [
+        "[u2116 | 02:16:52.790-02:16:54.789 | Kenzo] was I",
+        "[u2117 | 02:16:56.330-02:16:57.449 | Kenzo] something"
+      ],
+      "preparedContextAfter": [
+        "[u2119 | 02:17:04.150-02:17:05.540 | Seeker] Oh, my gosh.",
+        "[u2120 | 02:17:09.170-02:17:10.530 | Wellby] Oh, shit! She"
+      ],
+      "cleanedWording": "[u2118 | 02:16:58.330-02:17:01.359 | Seeker] definitely? [[That's a please]]. Oh, yeah.",
+      "uncertainSpansInCleanedWording": [
+        "That's a please"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u2167",
+      "importance": "incidental",
+      "reason": "Break chatter fragment.",
+      "preparedSourceQuote": "[u2167 | 02:20:06.390-02:20:07.449 | Unknown] We were 7",
+      "preparedContextBefore": [
+        "[u2165 | 02:20:00.080-02:20:01.840 | Kenzo] fucking. Walked right into that one.",
+        "[u2166 | 02:20:02.200-02:20:04.160 | Seeker] Yeah, good job guys whoops."
+      ],
+      "preparedContextAfter": [
+        "[u2168 | 02:20:08.360-02:20:09.580 | DM] over there.",
+        "[u2169 | 02:23:14.450-02:23:15.350 | Caulaus] Hey, Tim!"
+      ],
+      "cleanedWording": "[u2167 | 02:20:06.390-02:20:07.449 | Unknown] We were 7",
+      "uncertainSpansInCleanedWording": [
+        "We were 7"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u2176",
+      "importance": "incidental",
+      "reason": "Audio troubleshooting.",
+      "preparedSourceQuote": "[u2176 | 02:29:29.940-02:29:31.050 | Unknown] come? Not them.",
+      "preparedContextBefore": [
+        "[u2174 | 02:29:25.080-02:29:27.920 | Caulaus] Yeah, I can't. I can't hear you either. Okay.",
+        "[u2175 | 02:29:28.250-02:29:29.740 | Caulaus] we can hear. I can hear you"
+      ],
+      "preparedContextAfter": [
+        "[u2177 | 02:29:38.960-02:29:39.850 | Kenzo] Can I hear you",
+        "[u2178 | 02:29:45.770-02:29:46.679 | DM] right now?"
+      ],
+      "cleanedWording": "[u2176 | 02:29:29.940-02:29:31.050 | Unknown] come? Not them.",
+      "uncertainSpansInCleanedWording": [
+        "come? Not them."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u2191",
+      "importance": "incidental",
+      "reason": "Player reaction fragment.",
+      "preparedSourceQuote": "[u2191 | 02:30:42.490-02:30:43.759 | Kenzo] what the fun?",
+      "preparedContextBefore": [
+        "[u2189 | 02:30:35.420-02:30:36.170 | Seeker] Right?",
+        "[u2190 | 02:30:36.360-02:30:42.039 | Kenzo] Other question. If I had actually talked to the tree, would it have said anything like Don't? Yeah."
+      ],
+      "preparedContextAfter": [
+        "[u2192 | 02:30:44.890-02:30:47.200 | Seeker] Or if any one of you",
+        "[u2193 | 02:30:47.380-02:30:49.329 | DM] I've been waiting for like"
+      ],
+      "cleanedWording": "[u2191 | 02:30:42.490-02:30:43.759 | Kenzo] what the fun?",
+      "uncertainSpansInCleanedWording": [
+        "what the fun?"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u2198",
+      "importance": "incidental",
+      "reason": "Overlapping reaction about missed checks.",
+      "preparedSourceQuote": "[u2198 | 02:31:03.930-02:31:07.950 | Seeker] Phineas. I was 3.",
+      "preparedContextBefore": [
+        "[u2196 | 02:30:58.190-02:31:01.789 | DM] because the whole I got this whole story would have been a total lie.",
+        "[u2197 | 02:31:02.000-02:31:03.769 | Seeker] I yeah, I do."
+      ],
+      "preparedContextAfter": [
+        "[u2199 | 02:31:07.990-02:31:13.379 | Kenzo] only we had done that it was on our list, wasn't it?",
+        "[u2200 | 02:31:13.610-02:31:16.589 | DM] Yeah, it was on your list. You almost did like"
+      ],
+      "cleanedWording": "[u2198 | 02:31:03.930-02:31:07.950 | Seeker] Phineas. I was 3.",
+      "uncertainSpansInCleanedWording": [
+        "Phineas. I was 3."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2202",
+      "importance": "incidental",
+      "reason": "Out-of-character retrospective fragment.",
+      "preparedSourceQuote": "[u2202 | 02:31:26.220-02:31:29.620 | Wellby] We' so many cards in the past year. At the end of it.",
+      "preparedContextBefore": [
+        "[u2200 | 02:31:13.610-02:31:16.589 | DM] Yeah, it was on your list. You almost did like",
+        "[u2201 | 02:31:16.680-02:31:25.209 | DM] like a while ago, but I just got distracted by the new shiny thing we killed the got to once we can kill a got to again."
+      ],
+      "preparedContextAfter": [
+        "[u2203 | 02:31:30.980-02:31:34.540 | DM] It's like, oh, they're going to figure it out. Then what are they going to do?",
+        "[u2204 | 02:31:36.440-02:31:37.380 | DM] But no"
+      ],
+      "cleanedWording": "[u2202 | 02:31:26.220-02:31:29.620 | Wellby] We' so many cards in the past year. At the end of it.",
+      "uncertainSpansInCleanedWording": [
+        "We' so many cards in the past year. At the end of it."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2211",
+      "importance": "incidental",
+      "reason": "Initiative interface question.",
+      "preparedSourceQuote": "[u2211 | 02:32:08.270-02:32:11.960 | DM] Are you in about 24?",
+      "preparedContextBefore": [
+        "[u2209 | 02:31:56.520-02:31:57.530 | Kenzo] Talking now.",
+        "[u2210 | 02:31:59.760-02:32:02.500 | Caulaus] Kenzie, you got a role in this? Yeah."
+      ],
+      "preparedContextAfter": [
+        "[u2212 | 02:32:12.180-02:32:13.090 | Unknown] Oh.",
+        "[u2213 | 02:32:14.070-02:32:17.610 | Kenzo] why did my rolls not show up here? I don't understand me, too? That's fine."
+      ],
+      "cleanedWording": "[u2211 | 02:32:08.270-02:32:11.960 | DM] Are you in about 24?",
+      "uncertainSpansInCleanedWording": [
+        "Are you in about 24?"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u2217",
+      "importance": "incidental",
+      "reason": "Browser extension troubleshooting; initiative switch explicit afterward.",
+      "preparedSourceQuote": "[u2217 | 02:32:25.180-02:32:30.620 | Caulaus] maybe you're going to have extension very missile to for for to just switch Kenzo, and",
+      "preparedContextBefore": [
+        "[u2215 | 02:32:20.450-02:32:21.270 | Kenzo] I'll let it.",
+        "[u2216 | 02:32:23.170-02:32:24.260 | DM] yeah."
+      ],
+      "preparedContextAfter": [
+        "[u2218 | 02:32:30.790-02:32:31.519 | Caulaus] well be",
+        "[u2219 | 02:32:34.180-02:32:37.420 | Caulaus] as well. Yeah, he's making the first. Yeah, yeah, let's do that."
+      ],
+      "cleanedWording": "[u2217 | 02:32:25.180-02:32:30.620 | Caulaus] maybe you're going to have extension very missile to for for to just switch Kenzo, and",
+      "uncertainSpansInCleanedWording": [
+        "maybe you're going to have extension very missile to for for to"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2223",
+      "importance": "incidental",
+      "reason": "Initiative narration contains garbled movement description; next units establish Kenzo acts first.",
+      "preparedSourceQuote": "[u2223 | 02:32:47.400-02:32:58.059 | Caulaus] I think that so out of the corner of his eye sees well be going for an hour. Okay, so can't I? Actually, we put the jump. It's like, yeah, he he just can cow. That works.",
+      "preparedContextBefore": [
+        "[u2221 | 02:32:39.150-02:32:42.349 | DM] yeah, because there's no reason you both beat Agatha. So",
+        "[u2222 | 02:32:43.180-02:32:47.030 | Wellby] I I like it actually, because I think"
+      ],
+      "preparedContextAfter": [
+        "[u2224 | 02:32:58.160-02:33:01.129 | Kenzo] Yeah, yeah, I like, I like that a lot, too. Good.",
+        "[u2225 | 02:33:04.580-02:33:06.610 | DM] Okay, ken's out. What are you doing?"
+      ],
+      "cleanedWording": "[u2223 | 02:32:47.400-02:32:58.059 | Caulaus] I think that Kenzo out of the corner of his eye sees Wellby going for her. Okay, so Kenzo? Actually, we put the jump. It's like, yeah, he he just can cow. That works.",
+      "uncertainSpansInCleanedWording": [
+        "we put the jump",
+        "can cow"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2238",
+      "importance": "incidental",
+      "reason": "Attack-selection fragment.",
+      "preparedSourceQuote": "[u2238 | 02:33:50.940-02:33:51.640 | Unknown] the thought.",
+      "preparedContextBefore": [
+        "[u2236 | 02:33:41.720-02:33:45.620 | Kenzo] I'll I'll I'll still go with i'll see if I can stop you stunning",
+        "[u2237 | 02:33:48.690-02:33:49.830 | Kenzo] stunning. Okay."
+      ],
+      "preparedContextAfter": [
+        "[u2239 | 02:33:53.750-02:33:55.740 | Kenzo] What's the what's the savings for the sunnings break",
+        "[u2240 | 02:33:56.030-02:33:57.110 | DM] Constitution?"
+      ],
+      "cleanedWording": "[u2238 | 02:33:50.940-02:33:51.640 | Unknown] the thought.",
+      "uncertainSpansInCleanedWording": [
+        "the thought."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u2249",
+      "importance": "incidental",
+      "reason": "Token interface fragment.",
+      "preparedSourceQuote": "[u2249 | 02:34:23.670-02:34:25.619 | Unknown] what happens on the token.",
+      "preparedContextBefore": [
+        "[u2247 | 02:34:19.230-02:34:21.110 | DM] okay.",
+        "[u2248 | 02:34:22.030-02:34:23.540 | DM] yeah, hold on. I need a"
+      ],
+      "preparedContextAfter": [
+        "[u2250 | 02:34:27.130-02:34:29.440 | Kenzo] and she's got to You've made proposition system.",
+        "[u2251 | 02:34:30.660-02:34:32.990 | DM] Yep, She."
+      ],
+      "cleanedWording": "[u2249 | 02:34:23.670-02:34:25.619 | Unknown] what happens on the token.",
+      "uncertainSpansInCleanedWording": [
+        "what happens on the token."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u2256",
+      "importance": "incidental",
+      "reason": "Abandoned sentence preceding narrated stunning attempt.",
+      "preparedSourceQuote": "[u2256 | 02:34:52.420-02:34:56.800 | DM] and as you strike like you, you feel like her.",
+      "preparedContextBefore": [
+        "[u2254 | 02:34:41.120-02:34:45.950 | DM] that you leaned in, and that you ran in, and and, you know, attempted to",
+        "[u2255 | 02:34:46.180-02:34:51.010 | DM] attacker right when she was like thanking you for all the great work that you've done on your back."
+      ],
+      "preparedContextAfter": [
+        "[u2257 | 02:34:57.190-02:35:02.879 | DM] You reach out through your staff, and and you begin to like close down her",
+        "[u2258 | 02:35:03.130-02:35:04.310 | DM] her."
+      ],
+      "cleanedWording": "[u2256 | 02:34:52.420-02:34:56.800 | DM] and as you strike like you, you feel like her.",
+      "uncertainSpansInCleanedWording": [
+        "and as you strike like you, you feel like her."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u2340",
+      "importance": "incidental",
+      "reason": "Reaction to damage.",
+      "preparedSourceQuote": "[u2340 | 02:40:17.930-02:40:19.439 | Seeker] great off! Thanks",
+      "preparedContextBefore": [
+        "[u2338 | 02:40:08.160-02:40:08.920 | Kenzo] but",
+        "[u2339 | 02:40:14.440-02:40:17.789 | Kenzo] Baxter also takes 22 points of poison damage"
+      ],
+      "preparedContextAfter": [
+        "[u2341 | 02:40:19.860-02:40:20.909 | Kenzo] the letter.",
+        "[u2342 | 02:40:25.210-02:40:26.930 | DM] and then she whistles."
+      ],
+      "cleanedWording": "[u2340 | 02:40:17.930-02:40:19.439 | Seeker] great off! Thanks",
+      "uncertainSpansInCleanedWording": [
+        "great off! Thanks"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u2380",
+      "importance": "incidental",
+      "reason": "Turn handoff/resource interface fragment.",
+      "preparedSourceQuote": "[u2380 | 02:42:58.770-02:43:02.230 | Caulaus] Okay, cause you're next. Yeah, I know I kept my blue.",
+      "preparedContextBefore": [
+        "[u2378 | 02:42:53.330-02:42:55.890 | Caulaus] So I'm going to have to go",
+        "[u2379 | 02:42:56.590-02:42:58.160 | Caulaus] towards the tree, I think."
+      ],
+      "preparedContextAfter": [
+        "[u2381 | 02:43:04.070-02:43:06.509 | Caulaus] I'm going to do a lot of things.",
+        "[u2382 | 02:43:07.390-02:43:08.439 | Unknown] It will be fun"
+      ],
+      "cleanedWording": "[u2380 | 02:42:58.770-02:43:02.230 | Caulaus] Okay, Caulaus you're next. Yeah, I know I kept my blue.",
+      "uncertainSpansInCleanedWording": [
+        "I kept my blue"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2405",
+      "importance": "incidental",
+      "reason": "Self-correction of extra damage rolls; maintains original distinction.",
+      "preparedSourceQuote": "[u2405 | 02:44:19.060-02:44:30.890 | Caulaus] oh, it so dreadful! Strike one favorite foe, One, this, 2 s rolls shouldn't have happened once per turn. So she takes a extra damage. Okay, I will. Then my echo like, grow. It gets this burst of energy",
+      "preparedContextBefore": [
+        "[u2403 | 02:44:13.750-02:44:17.490 | Caulaus] 2D 8 damage, because i'm using a favorite. Oh.",
+        "[u2404 | 02:44:17.790-02:44:18.390 | Kenzo] one."
+      ],
+      "preparedContextAfter": [
+        "[u2406 | 02:44:31.000-02:44:33.209 | Caulaus] and attacks again. Third attack.",
+        "[u2407 | 02:44:35.260-02:44:38.779 | Caulaus] okay, that goes"
+      ],
+      "cleanedWording": "[u2405 | 02:44:19.060-02:44:30.890 | Caulaus] oh, it so dreadful! Strike one Favored Foe, One, this, two extra rolls shouldn't have happened once per turn. So she takes a extra damage. Okay, I will. Then my echo like, grow. It gets this burst of energy",
+      "uncertainSpansInCleanedWording": [
+        "oh, it so dreadful! Strike one Favored Foe, One, this, two extra rolls shouldn't have happened once per turn. So she takes a extra damage. Okay, I will. Then my echo like, grow. It gets this burst of energy"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u2433",
+      "importance": "incidental",
+      "reason": "Resource counter aside.",
+      "preparedSourceQuote": "[u2433 | 02:46:23.840-02:46:25.699 | Caulaus] these 2 of those okay.",
+      "preparedContextBefore": [
+        "[u2431 | 02:46:15.060-02:46:16.619 | Caulaus] anyway. That was my",
+        "[u2432 | 02:46:16.990-02:46:22.770 | Wellby] She is a gata, she's hopefully bloody by now. Oh, yeah, she is definitely wounded."
+      ],
+      "preparedContextAfter": [
+        "[u2434 | 02:46:26.160-02:46:27.020 | Caulaus] Okay.",
+        "[u2435 | 02:46:27.050-02:46:28.859 | DM] Okay. Now the fly"
+      ],
+      "cleanedWording": "[u2433 | 02:46:23.840-02:46:25.699 | Caulaus] these 2 of those okay.",
+      "uncertainSpansInCleanedWording": [
+        "these 2 of those okay."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u2484",
+      "importance": "incidental",
+      "reason": "Attack roll preface; actual rolls following.",
+      "preparedSourceQuote": "[u2484 | 02:49:42.780-02:49:49.630 | Caulaus] She's stunned, but she can. Still, she still doesn't Attack her. Okay, all right, then i'll just stack her. I'll attack her, and I don't Frank.",
+      "preparedContextBefore": [
+        "[u2482 | 02:49:28.470-02:49:38.279 | Kenzo] I mean you can fall 60. You can fall 30 feet without taking any damage right. I know. I'm just saying, because I have a bonus action like for my bonus action, can I? Can. I just like knock her out?",
+        "[u2483 | 02:49:40.390-02:49:42.580 | DM] I mean she's not."
+      ],
+      "preparedContextAfter": [
+        "[u2485 | 02:49:51.780-02:49:56.060 | Wellby] Whoa, we we we you could also tire up and give it to the Harpies.",
+        "[u2486 | 02:49:57.350-02:50:00.380 | Kenzo] We've got to knock her out for it. She's not."
+      ],
+      "cleanedWording": "[u2484 | 02:49:42.780-02:49:49.630 | Caulaus] She's stunned, but she can. Still, she still doesn't Attack her. Okay, all right, then i'll just attack her. I'll attack her, and I don't Frank.",
+      "uncertainSpansInCleanedWording": [
+        "Frank"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2491",
+      "importance": "incidental",
+      "reason": "Dice chatter; rolled value preserved.",
+      "preparedSourceQuote": "[u2491 | 02:50:17.980-02:50:22.539 | Kenzo] I do not grant that 25 I I did a lot of damage again. I'm: sorry. Okay.",
+      "preparedContextBefore": [
+        "[u2489 | 02:50:07.270-02:50:11.690 | DM] She's stunned. So you should have a I think you have advantage on these. Yeah, you do.",
+        "[u2490 | 02:50:11.920-02:50:13.609 | Caulaus] So we're all again to see if you"
+      ],
+      "preparedContextAfter": [
+        "[u2492 | 02:50:22.930-02:50:25.749 | Kenzo] i'll use one more key for flurry of blows.",
+        "[u2493 | 02:50:25.940-02:50:26.789 | DM] Okay."
+      ],
+      "cleanedWording": "[u2491 | 02:50:17.980-02:50:22.539 | Kenzo] I do not grant that 25 I I did a lot of damage again. I'm: sorry. Okay.",
+      "uncertainSpansInCleanedWording": [
+        "grant that"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2494",
+      "importance": "incidental",
+      "reason": "Dice chatter; later damage preserved.",
+      "preparedSourceQuote": "[u2494 | 02:50:27.160-02:50:31.060 | DM] And I don't. And so I was just bubbling. I got",
+      "preparedContextBefore": [
+        "[u2492 | 02:50:22.930-02:50:25.749 | Kenzo] i'll use one more key for flurry of blows.",
+        "[u2493 | 02:50:25.940-02:50:26.789 | DM] Okay."
+      ],
+      "preparedContextAfter": [
+        "[u2495 | 02:50:31.120-02:50:31.820 | Unknown] Oh.",
+        "[u2496 | 02:50:32.240-02:50:33.820 | Kenzo] nasty 27,"
+      ],
+      "cleanedWording": "[u2494 | 02:50:27.160-02:50:31.060 | DM] And I don't. And so I was just bubbling. I got",
+      "uncertainSpansInCleanedWording": [
+        "bubbling"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2517",
+      "importance": "incidental",
+      "reason": "Abandoned combat aside.",
+      "preparedSourceQuote": "[u2517 | 02:51:37.320-02:51:38.740 | Kenzo] doesn't want to take one",
+      "preparedContextBefore": [
+        "[u2515 | 02:51:31.120-02:51:33.229 | DM] that misses on the fly.",
+        "[u2516 | 02:51:33.470-02:51:37.130 | Wellby] and then I will"
+      ],
+      "preparedContextAfter": [
+        "[u2518 | 02:51:39.620-02:51:43.029 | Wellby] steady AIM and and stab it. I assume i'm in male with it.",
+        "[u2519 | 02:51:43.810-02:51:44.430 | DM] Yeah."
+      ],
+      "cleanedWording": "[u2517 | 02:51:37.320-02:51:38.740 | Kenzo] doesn't want to take one",
+      "uncertainSpansInCleanedWording": [
+        "doesn't want to take one"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u2542",
+      "importance": "incidental",
+      "reason": "Short aside; no distinct event asserted.",
+      "preparedSourceQuote": "[u2542 | 02:53:25.700-02:53:26.880 | Seeker] She did",
+      "preparedContextBefore": [
+        "[u2540 | 02:53:14.450-02:53:16.700 | DM] There's so much, I can tell you.",
+        "[u2541 | 02:53:21.710-02:53:24.009 | DM] It doesn't need to end like this."
+      ],
+      "preparedContextAfter": [
+        "[u2543 | 02:53:27.140-02:53:28.580 | DM] seeker. You're up",
+        "[u2544 | 02:53:29.180-02:53:32.199 | Seeker] secret, pats his pockets and comes up quickly with"
+      ],
+      "cleanedWording": "[u2542 | 02:53:25.700-02:53:26.880 | Seeker] She did",
+      "uncertainSpansInCleanedWording": [
+        "She did"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u2549",
+      "importance": "incidental",
+      "reason": "Speculation about spell; actual spell named next chunk.",
+      "preparedSourceQuote": "[u2549 | 02:53:48.960-02:53:51.890 | Kenzo] Are you in a fabric. Are you trapping her into that?",
+      "preparedContextBefore": [
+        "[u2547 | 02:53:41.380-02:53:44.899 | Seeker] and he quickly weaves a spell that launches it straight towards her.",
+        "[u2548 | 02:53:45.380-02:53:47.510 | Seeker] casting."
+      ],
+      "preparedContextAfter": [
+        "[u2550 | 02:53:51.990-02:53:54.140 | Caulaus] Zika's just taking her down?",
+        "[u2551 | 02:53:54.420-02:54:01.180 | Seeker] I'm shooting her with her own amber web. But can I get him out? Don't? We want to like, capture her or something."
+      ],
+      "cleanedWording": "[u2549 | 02:53:48.960-02:53:51.890 | Kenzo] Are you in a fabric. Are you trapping her into that?",
+      "uncertainSpansInCleanedWording": [
+        "fabric"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2607",
+      "importance": "incidental",
+      "reason": "Garbled attack/interface aside after unconsciousness; no new action established.",
+      "preparedSourceQuote": "[u2607 | 02:58:15.470-02:58:19.460 | Caulaus] Just a spite, I mean. I know she's like conscious, but it's his advantages. I'll just resell it.",
+      "preparedContextBefore": [
+        "[u2605 | 02:58:02.600-02:58:12.069 | DM] mites and flea is one upper arm, and swarm over the echo like devouring its arm. It vanishes because it only has one hit point.",
+        "[u2606 | 02:58:13.160-02:58:15.190 | DM] and she is unconscious on the ground."
+      ],
+      "preparedContextAfter": [
+        "[u2608 | 02:58:20.810-02:58:25.310 | DM] Just stand next to it. Say, that was very good, that the echo took the death blow.",
+        "[u2609 | 02:58:26.240-02:58:31.189 | Kenzo] What would it happen to us if one about the day. By taking it you'd have taken a lot of necrotic damage."
+      ],
+      "cleanedWording": "[u2607 | 02:58:15.470-02:58:19.460 | Caulaus] Just a spite, I mean. I know she's like conscious, but it's his advantages. I'll just resell it.",
+      "uncertainSpansInCleanedWording": [
+        "Just a spite, I mean. I know she's like conscious, but it's his advantages. I'll just resell it."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2609",
+      "importance": "incidental",
+      "reason": "Hypothetical death-blow discussion; necrotic consequence explicit afterward.",
+      "preparedSourceQuote": "[u2609 | 02:58:26.240-02:58:31.189 | Kenzo] What would it happen to us if one about the day. By taking it you'd have taken a lot of necrotic damage.",
+      "preparedContextBefore": [
+        "[u2607 | 02:58:15.470-02:58:19.460 | Caulaus] Just a spite, I mean. I know she's like conscious, but it's his advantages. I'll just resell it.",
+        "[u2608 | 02:58:20.810-02:58:25.310 | DM] Just stand next to it. Say, that was very good, that the echo took the death blow."
+      ],
+      "preparedContextAfter": [
+        "[u2610 | 02:58:32.520-02:58:36.880 | Caulaus] Wow! I it was only because I missed on my first. That was faith",
+        "[u2611 | 02:58:36.930-02:58:43.069 | Caulaus] that was fate, because my echo is the only one that can take the third attack right?"
+      ],
+      "cleanedWording": "[u2609 | 02:58:26.240-02:58:31.189 | Kenzo] What would have happened to us if one about the day. By taking it you'd have taken a lot of necrotic damage.",
+      "uncertainSpansInCleanedWording": [
+        "one about the day. By taking it"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2619",
+      "importance": "incidental",
+      "reason": "Combat praise aside.",
+      "preparedSourceQuote": "[u2619 | 02:59:19.560-02:59:24.180 | Kenzo] unarmed strike like studying. Strike is fucking awesome, like great student.",
+      "preparedContextBefore": [
+        "[u2617 | 02:59:09.050-02:59:10.449 | Seeker] clearly. Yeah.",
+        "[u2618 | 02:59:16.150-02:59:17.970 | Seeker] I got a"
+      ],
+      "preparedContextAfter": [
+        "[u2620 | 02:59:24.240-02:59:32.679 | Kenzo] but really nice to use that. Yeah, you've gotten a lot stronger since you face the god of the first time. That is true.",
+        "[u2621 | 02:59:33.350-02:59:34.710 | Seeker] Would I say."
+      ],
+      "cleanedWording": "[u2619 | 02:59:19.560-02:59:24.180 | Kenzo] unarmed strike like Stunning Strike is fucking awesome, like great student.",
+      "uncertainSpansInCleanedWording": [
+        "great student"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2625",
+      "importance": "incidental",
+      "reason": "Out-of-character mechanics praise.",
+      "preparedSourceQuote": "[u2625 | 02:59:41.420-02:59:45.369 | Wellby] and the couple 5 is really really really good for a positive.",
+      "preparedContextBefore": [
+        "[u2623 | 02:59:38.190-02:59:39.300 | Unknown] to the",
+        "[u2624 | 02:59:39.860-02:59:40.630 | Seeker] that. That"
+      ],
+      "preparedContextAfter": [
+        "[u2626 | 02:59:45.490-02:59:48.219 | Caulaus] But now, what are you going to do with her?",
+        "[u2627 | 02:59:48.240-02:59:53.150 | Kenzo] Dem. I kenza. You see, Tenzo take his stat and"
+      ],
+      "cleanedWording": "[u2625 | 02:59:41.420-02:59:45.369 | Wellby] and the couple 5 is really really really good for a positive.",
+      "uncertainSpansInCleanedWording": [
+        "couple 5",
+        "positive"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2643",
+      "importance": "incidental",
+      "reason": "Truncated introduction to tree; following question clear.",
+      "preparedSourceQuote": "[u2643 | 03:00:54.270-03:00:55.240 | Kenzo] onions.",
+      "preparedContextBefore": [
+        "[u2641 | 03:00:49.830-03:00:51.260 | Kenzo] My name is Kenzo.",
+        "[u2642 | 03:00:51.590-03:00:52.889 | Kenzo] I'm here with friends"
+      ],
+      "preparedContextAfter": [
+        "[u2644 | 03:00:58.720-03:01:00.240 | Kenzo] What is your relationship with",
+        "[u2645 | 03:01:00.350-03:01:01.160 | Kenzo] to."
+      ],
+      "cleanedWording": "[u2643 | 03:00:54.270-03:00:55.240 | Kenzo] onions.",
+      "uncertainSpansInCleanedWording": [
+        "onions."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2646",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u2646 | 03:01:01.650-03:01:03.630 | Kenzo] or what's that? That's a piece.",
+      "preparedContextBefore": [
+        "[u2644 | 03:00:58.720-03:01:00.240 | Kenzo] What is your relationship with",
+        "[u2645 | 03:01:00.350-03:01:01.160 | Kenzo] to."
+      ],
+      "preparedContextAfter": [
+        "[u2647 | 03:01:04.230-03:01:06.550 | DM] do you?",
+        "[u2648 | 03:01:06.590-03:01:08.520 | Unknown] Or do you?"
+      ],
+      "cleanedWording": "[u2646 | 03:01:01.650-03:01:03.630 | Kenzo] or what's that? [[That's a piece.]]",
+      "uncertainSpansInCleanedWording": [
+        "That's a piece."
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u2686",
+      "importance": "material",
+      "issueGroupIds": [
+        "changeling-king"
+      ],
+      "reason": "Changeling King name. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u2686 | 03:04:20.150-03:04:23.180 | Kenzo] with Bella to our dead",
+      "preparedContextBefore": [
+        "[u2684 | 03:04:10.320-03:04:11.760 | DM] typhoid.",
+        "[u2685 | 03:04:13.850-03:04:14.810 | DM] with"
+      ],
+      "preparedContextAfter": [
+        "[u2687 | 03:04:28.360-03:04:29.159 | Unknown] my door.",
+        "[u2688 | 03:04:29.260-03:04:30.650 | DM] The lady of"
+      ],
+      "cleanedWording": "[u2686 | 03:04:20.150-03:04:23.180 | Kenzo] with [[Bella to our]] dead",
+      "uncertainSpansInCleanedWording": [
+        "Bella to our"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u2687",
+      "importance": "incidental",
+      "reason": "Fragment before Lady Eventide mention.",
+      "preparedSourceQuote": "[u2687 | 03:04:28.360-03:04:29.159 | Unknown] my door.",
+      "preparedContextBefore": [
+        "[u2685 | 03:04:13.850-03:04:14.810 | DM] with",
+        "[u2686 | 03:04:20.150-03:04:23.180 | Kenzo] with Bella to our dead"
+      ],
+      "preparedContextAfter": [
+        "[u2688 | 03:04:29.260-03:04:30.650 | DM] The lady of",
+        "[u2689 | 03:04:32.770-03:04:35.290 | DM] the lady even saw even tide"
+      ],
+      "cleanedWording": "[u2687 | 03:04:28.360-03:04:29.159 | Unknown] my door.",
+      "uncertainSpansInCleanedWording": [
+        "my door."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2702",
+      "importance": "material",
+      "issueGroupIds": [
+        "changeling-king",
+        "old-alias"
+      ],
+      "reason": "Changeling King name; Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u2702 | 03:05:40.290-03:05:44.360 | Kenzo] so Belatore, Dasakles, Trevinia.",
+      "preparedContextBefore": [
+        "[u2700 | 03:05:36.950-03:05:38.389 | DM] Now the tree is done",
+        "[u2701 | 03:05:38.750-03:05:40.010 | Kenzo] on"
+      ],
+      "preparedContextAfter": [
+        "[u2703 | 03:05:44.470-03:05:45.480 | Kenzo] Agata.",
+        "[u2704 | 03:05:45.560-03:05:52.089 | DM] these are like all her molten. These are all her different like himc names. No Baltar is from the from the intro that you."
+      ],
+      "cleanedWording": "[u2702 | 03:05:40.290-03:05:44.360 | Kenzo] So [[Belatore]], [[Dasakles]], Typhina.",
+      "uncertainSpansInCleanedWording": [
+        "Belatore",
+        "Dasakles"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u2704",
+      "importance": "incidental",
+      "reason": "Garbled player clarification of aliases; actual identities are answered in following DM turns.",
+      "preparedSourceQuote": "[u2704 | 03:05:45.560-03:05:52.089 | DM] these are like all her molten. These are all her different like himc names. No Baltar is from the from the intro that you.",
+      "preparedContextBefore": [
+        "[u2702 | 03:05:40.290-03:05:44.360 | Kenzo] so Belatore, Dasakles, Trevinia.",
+        "[u2703 | 03:05:44.470-03:05:45.480 | Kenzo] Agata."
+      ],
+      "preparedContextAfter": [
+        "[u2705 | 03:05:52.300-03:05:53.809 | DM] Belter, was a",
+        "[u2706 | 03:05:53.840-03:05:56.709 | DM] another Fay, who sacrificed himself to"
+      ],
+      "cleanedWording": "[u2704 | 03:05:45.560-03:05:52.089 | DM] these are like all her multiple. These are all her different like himc names. No [[Baltar]] is from the from the intro that you.",
+      "uncertainSpansInCleanedWording": [
+        "himc"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2704",
+      "importance": "material",
+      "issueGroupIds": [
+        "changeling-king"
+      ],
+      "reason": "Changeling King name. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u2704 | 03:05:45.560-03:05:52.089 | DM] these are like all her molten. These are all her different like himc names. No Baltar is from the from the intro that you.",
+      "preparedContextBefore": [
+        "[u2702 | 03:05:40.290-03:05:44.360 | Kenzo] so Belatore, Dasakles, Trevinia.",
+        "[u2703 | 03:05:44.470-03:05:45.480 | Kenzo] Agata."
+      ],
+      "preparedContextAfter": [
+        "[u2705 | 03:05:52.300-03:05:53.809 | DM] Belter, was a",
+        "[u2706 | 03:05:53.840-03:05:56.709 | DM] another Fay, who sacrificed himself to"
+      ],
+      "cleanedWording": "[u2704 | 03:05:45.560-03:05:52.089 | DM] these are like all her multiple. These are all her different like himc names. No [[Baltar]] is from the from the intro that you.",
+      "uncertainSpansInCleanedWording": [
+        "Baltar"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u2705",
+      "importance": "material",
+      "issueGroupIds": [
+        "changeling-king"
+      ],
+      "reason": "Changeling King name. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u2705 | 03:05:52.300-03:05:53.809 | DM] Belter, was a",
+      "preparedContextBefore": [
+        "[u2703 | 03:05:44.470-03:05:45.480 | Kenzo] Agata.",
+        "[u2704 | 03:05:45.560-03:05:52.089 | DM] these are like all her molten. These are all her different like himc names. No Baltar is from the from the intro that you."
+      ],
+      "preparedContextAfter": [
+        "[u2706 | 03:05:53.840-03:05:56.709 | DM] another Fay, who sacrificed himself to",
+        "[u2707 | 03:05:56.740-03:06:01.330 | DM] protect the ruins of the Cloud Palace, and waving even Star still alive."
+      ],
+      "cleanedWording": "[u2705 | 03:05:52.300-03:05:53.809 | DM] [[Belter]] was a",
+      "uncertainSpansInCleanedWording": [
+        "Belter"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u2716",
+      "importance": "incidental",
+      "reason": "Unclear table interjection, no named action.",
+      "preparedSourceQuote": "[u2716 | 03:06:39.470-03:06:41.020 | Kenzo] The Gp: 2 is right there.",
+      "preparedContextBefore": [
+        "[u2714 | 03:06:30.270-03:06:31.109 | Kenzo] to the tree?",
+        "[u2715 | 03:06:35.940-03:06:36.940 | DM] I"
+      ],
+      "preparedContextAfter": [
+        "[u2717 | 03:06:41.340-03:06:42.110 | DM] What?",
+        "[u2718 | 03:06:42.190-03:06:43.599 | Kenzo] Gp: 3 is right there."
+      ],
+      "cleanedWording": "[u2716 | 03:06:39.470-03:06:41.020 | Kenzo] The Gp: 2 is right there.",
+      "uncertainSpansInCleanedWording": [
+        "The Gp: 2 is right there."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2718",
+      "importance": "incidental",
+      "reason": "Unclear table interjection, no named action.",
+      "preparedSourceQuote": "[u2718 | 03:06:42.190-03:06:43.599 | Kenzo] Gp: 3 is right there.",
+      "preparedContextBefore": [
+        "[u2716 | 03:06:39.470-03:06:41.020 | Kenzo] The Gp: 2 is right there.",
+        "[u2717 | 03:06:41.340-03:06:42.110 | DM] What?"
+      ],
+      "preparedContextAfter": [
+        "[u2719 | 03:06:44.140-03:06:45.360 | Seeker] Nice",
+        "[u2720 | 03:06:58.110-03:07:00.449 | DM] the heartwood tree"
+      ],
+      "cleanedWording": "[u2718 | 03:06:42.190-03:06:43.599 | Kenzo] Gp: 3 is right there.",
+      "uncertainSpansInCleanedWording": [
+        "Gp: 3 is right there."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2723",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u2723 | 03:07:10.870-03:07:12.860 | Kenzo] Dasakles. Egata.",
+      "preparedContextBefore": [
+        "[u2721 | 03:07:02.710-03:07:03.979 | Kenzo] part of a tree. Yeah.",
+        "[u2722 | 03:07:05.290-03:07:07.489 | Kenzo] I am called the eternal"
+      ],
+      "preparedContextAfter": [
+        "[u2724 | 03:07:13.180-03:07:14.420 | Kenzo] They're not dead yet.",
+        "[u2725 | 03:07:15.290-03:07:16.720 | Kenzo] She's unconscious."
+      ],
+      "cleanedWording": "[u2723 | 03:07:10.870-03:07:12.860 | Kenzo] [[Dasakles]]. Agata.",
+      "uncertainSpansInCleanedWording": [
+        "Dasakles"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u2784",
+      "importance": "incidental",
+      "reason": "Unclear address preceding tabard gift; gift explicit nearby.",
+      "preparedSourceQuote": "[u2784 | 03:11:21.300-03:11:24.159 | Caulaus] Alice, take take this as a reminder.",
+      "preparedContextBefore": [
+        "[u2782 | 03:11:12.800-03:11:15.969 | Caulaus] still like it, I would have you remember",
+        "[u2783 | 03:11:16.090-03:11:18.159 | Caulaus] what was best of drain corps."
+      ],
+      "preparedContextAfter": [
+        "[u2785 | 03:11:27.060-03:11:29.429 | Caulaus] and then he, like he reaches out to the tree.",
+        "[u2786 | 03:11:29.570-03:11:31.180 | Caulaus] just puts his hand on the tree."
+      ],
+      "cleanedWording": "[u2784 | 03:11:21.300-03:11:24.159 | Caulaus] Alice, take take this as a reminder.",
+      "uncertainSpansInCleanedWording": [
+        "Alice,"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2793",
+      "importance": "incidental",
+      "reason": "Garbled promise fragment; preserving story explicit u2792 and u2942.",
+      "preparedSourceQuote": "[u2793 | 03:11:53.660-03:11:54.920 | Kenzo] restoring this on",
+      "preparedContextBefore": [
+        "[u2791 | 03:11:46.390-03:11:49.280 | Kenzo] you know. Kendall also says that you know. Call us before we leave.",
+        "[u2792 | 03:11:50.320-03:11:52.719 | Kenzo] Tell me your story, and i'll be sure that."
+      ],
+      "preparedContextAfter": [
+        "[u2794 | 03:11:55.240-03:11:57.430 | Kenzo] in that drank course past.",
+        "[u2795 | 03:11:57.970-03:11:59.639 | Kenzo] and the goodness of the"
+      ],
+      "cleanedWording": "[u2793 | 03:11:53.660-03:11:54.920 | Kenzo] restoring this on",
+      "uncertainSpansInCleanedWording": [
+        "restoring this on"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2811",
+      "importance": "material",
+      "issueGroupIds": [
+        "legion"
+      ],
+      "reason": "Caulaus legion name. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u2811 | 03:12:59.500-03:13:02.769 | Caulaus] being appointed commander of the third Syllabus legion.",
+      "preparedContextBefore": [
+        "[u2809 | 03:12:51.400-03:12:56.390 | Caulaus] and I don't remember much of my childhood schooling, military training.",
+        "[u2810 | 03:12:56.850-03:12:59.020 | Caulaus] My first clear memory"
+      ],
+      "preparedContextAfter": [
+        "[u2812 | 03:13:06.230-03:13:07.060 | Caulaus] I",
+        "[u2813 | 03:13:07.940-03:13:11.879 | Caulaus] swore allegiance personally to the Emperor. I remember the"
+      ],
+      "cleanedWording": "[u2811 | 03:12:59.500-03:13:02.769 | Caulaus] being appointed commander of the third [[Syllabus]] legion.",
+      "uncertainSpansInCleanedWording": [
+        "Syllabus"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u2857",
+      "importance": "incidental",
+      "reason": "Elven city descriptive fragment; no new entity or action.",
+      "preparedSourceQuote": "[u2857 | 03:15:35.230-03:15:36.949 | Caulaus] White, stangling",
+      "preparedContextBefore": [
+        "[u2855 | 03:15:27.430-03:15:31.409 | Caulaus] rowing from the trees, all golden, white, and elegance",
+        "[u2856 | 03:15:31.480-03:15:35.019 | Caulaus] spiraling in the branches. It was like nothing you would ever have seen."
+      ],
+      "preparedContextAfter": [
+        "[u2858 | 03:15:37.300-03:15:41.389 | Caulaus] elves everywhere. Many more than I usually would have seen",
+        "[u2859 | 03:15:41.910-03:15:46.100 | Caulaus] a large full of life and song and wine and beauty."
+      ],
+      "cleanedWording": "[u2857 | 03:15:35.230-03:15:36.949 | Caulaus] White, stangling",
+      "uncertainSpansInCleanedWording": [
+        "White, stangling"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2882",
+      "importance": "material",
+      "issueGroupIds": [
+        "fruit-tree"
+      ],
+      "reason": "Elven fruit/tree term. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u2882 | 03:17:13.510-03:17:16.129 | Caulaus] some tree, the sisla tree. I think",
+      "preparedContextBefore": [
+        "[u2880 | 03:17:03.220-03:17:07.490 | Caulaus] There was tables heaped with delicacies, meat pies, a roast pig.",
+        "[u2881 | 03:17:07.580-03:17:13.440 | Caulaus] red cheese, even some rare Alvin delicacies, a cake made with a rare fruit."
+      ],
+      "preparedContextAfter": [
+        "[u2883 | 03:17:16.420-03:17:20.360 | Caulaus] I don't remember what that means, but it was a big deal. The elves were sharing it.",
+        "[u2884 | 03:17:20.820-03:17:23.729 | Caulaus] Wine flew freely. The soldiers were happy."
+      ],
+      "cleanedWording": "[u2882 | 03:17:13.510-03:17:16.129 | Caulaus] some tree, the [[sisla]] tree. I think",
+      "uncertainSpansInCleanedWording": [
+        "sisla"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u2892",
+      "importance": "material",
+      "issueGroupIds": [
+        "town"
+      ],
+      "reason": "Town in Caulaus recollection. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u2892 | 03:18:00.710-03:18:01.949 | Caulaus] are some",
+      "preparedContextBefore": [
+        "[u2890 | 03:17:49.470-03:17:55.179 | Caulaus] arrayed for war, leaving my camp after several victories against the allies of the Omnis.",
+        "[u2891 | 03:17:55.290-03:18:00.459 | Caulaus] we're marching towards a town. The name sticks in my mind. I do not know. Why"
+      ],
+      "preparedContextAfter": [
+        "[u2893 | 03:18:02.460-03:18:03.710 | Caulaus] I was hoping",
+        "[u2894 | 03:18:03.890-03:18:07.670 | Caulaus] not to fight for. We were going to destroy the teleportation circle there."
+      ],
+      "cleanedWording": "[u2892 | 03:18:00.710-03:18:01.949 | Caulaus] [[are some]]",
+      "uncertainSpansInCleanedWording": [
+        "are some"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u2927",
+      "importance": "material",
+      "issueGroupIds": [
+        "memory-scope"
+      ],
+      "reason": "Scope of Caulaus memory. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u2927 | 03:20:00.610-03:20:05.570 | Caulaus] that. I just here is the first place, I think I can remember clearly since I've been",
+      "preparedContextBefore": [
+        "[u2925 | 03:19:48.440-03:19:56.600 | Caulaus] something happened i'd forget again. Go back to that day that I had just come through believing that there was still a war to win",
+        "[u2926 | 03:19:58.090-03:19:59.240 | Kenzo] as a"
+      ],
+      "preparedContextAfter": [
+        "[u2928 | 03:20:07.510-03:20:10.140 | Caulaus] done, whatever has happened to the Cloud Spinner",
+        "[u2929 | 03:20:11.730-03:20:27.309 | Kenzo] as the entire time. Council speaking, Kenzo is alternating between rapidly etching into the into his staff, which again, it's very strange. You're kind of watching him etching to the staff, and there's definitely Some seems to be some magic, some like kind of glowing light, as he's etching."
+      ],
+      "cleanedWording": "[u2927 | 03:20:00.610-03:20:05.570 | Caulaus] [[that. I just here is the first place, I think I can remember clearly since I've been]]",
+      "uncertainSpansInCleanedWording": [
+        "that. I just here is the first place, I think I can remember clearly since I've been"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u2965",
+      "importance": "material",
+      "issueGroupIds": [
+        "dream-companion"
+      ],
+      "reason": "Dream-world companion. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u2965 | 03:22:23.380-03:22:26.879 | Kenzo] with Kendrsa, however, many feels like ages ago.",
+      "preparedContextBefore": [
+        "[u2963 | 03:22:15.390-03:22:18.929 | Kenzo] That's what tens of glances at Seeker and well, the",
+        "[u2964 | 03:22:20.760-03:22:23.109 | Kenzo] When I was in the dream world"
+      ],
+      "preparedContextAfter": [
+        "[u2966 | 03:22:27.890-03:22:30.420 | Kenzo] I remember seeing why",
+        "[u2967 | 03:22:30.880-03:22:32.350 | Kenzo] battling it something."
+      ],
+      "cleanedWording": "[u2965 | 03:22:23.380-03:22:26.879 | Kenzo] with [[Kendrsa]], however many—it feels like ages ago.",
+      "uncertainSpansInCleanedWording": [
+        "Kendrsa"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u2975",
+      "importance": "incidental",
+      "reason": "Cross-talk during organization discussion.",
+      "preparedSourceQuote": "[u2975 | 03:22:55.180-03:22:57.690 | Kenzo] but they seem to even look for just one of circus",
+      "preparedContextBefore": [
+        "[u2973 | 03:22:49.320-03:22:51.110 | Seeker] but they seem as they've been heard of that",
+        "[u2974 | 03:22:51.300-03:22:53.770 | Kenzo] Kura p you are at."
+      ],
+      "preparedContextAfter": [
+        "[u2976 | 03:22:57.980-03:22:59.109 | Wellby] you should keep rolling.",
+        "[u2977 | 03:23:00.920-03:23:03.110 | Kenzo] They seem to be allies or"
+      ],
+      "cleanedWording": "[u2975 | 03:22:55.180-03:22:57.690 | Kenzo] but they seem to even look for just one of circus",
+      "uncertainSpansInCleanedWording": [
+        "but they seem to even look for just one of circus"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u2976",
+      "importance": "incidental",
+      "reason": "Dice/interface aside.",
+      "preparedSourceQuote": "[u2976 | 03:22:57.980-03:22:59.109 | Wellby] you should keep rolling.",
+      "preparedContextBefore": [
+        "[u2974 | 03:22:51.300-03:22:53.770 | Kenzo] Kura p you are at.",
+        "[u2975 | 03:22:55.180-03:22:57.690 | Kenzo] but they seem to even look for just one of circus"
+      ],
+      "preparedContextAfter": [
+        "[u2977 | 03:23:00.920-03:23:03.110 | Kenzo] They seem to be allies or",
+        "[u2978 | 03:23:03.380-03:23:04.550 | Kenzo] minions"
+      ],
+      "cleanedWording": "[u2976 | 03:22:57.980-03:22:59.109 | Wellby] you should keep rolling.",
+      "uncertainSpansInCleanedWording": [
+        "you should keep rolling."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u2994",
+      "importance": "incidental",
+      "reason": "Short interrupted side discussion.",
+      "preparedSourceQuote": "[u2994 | 03:23:43.480-03:23:46.029 | Caulaus] bad the i'm just.",
+      "preparedContextBefore": [
+        "[u2992 | 03:23:38.740-03:23:40.599 | Seeker] Oh, Fausto, I just remember.",
+        "[u2993 | 03:23:40.800-03:23:42.969 | Kenzo] Talking about the impure."
+      ],
+      "preparedContextAfter": [
+        "[u2995 | 03:23:48.380-03:23:50.609 | Kenzo] But and it's totally fast now.",
+        "[u2996 | 03:23:52.530-03:23:54.570 | Kenzo] They are. No, no, no, he's just a henchman."
+      ],
+      "cleanedWording": "[u2994 | 03:23:43.480-03:23:46.029 | Caulaus] bad the i'm just.",
+      "uncertainSpansInCleanedWording": [
+        "bad the i'm just."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u3060",
+      "importance": "incidental",
+      "reason": "Reaction to imprisonment plan; plan explicit adjoining units.",
+      "preparedSourceQuote": "[u3060 | 03:28:10.010-03:28:10.910 | Seeker] since a lot.",
+      "preparedContextBefore": [
+        "[u3058 | 03:28:00.820-03:28:04.550 | Kenzo] Oh, yeah, Kenza relays how the the tree is gonna",
+        "[u3059 | 03:28:05.340-03:28:09.539 | Kenzo] They're going to they're going to imprison the gata for now until the it's been a"
+      ],
+      "preparedContextAfter": [
+        "[u3061 | 03:28:12.870-03:28:18.749 | DM] Yeah. So as you're as you're doing, the seeker, you see, like a crack open up in the sire of this tree.",
+        "[u3062 | 03:28:19.420-03:28:20.390 | Seeker] and"
+      ],
+      "cleanedWording": "[u3060 | 03:28:10.010-03:28:10.910 | Seeker] since a lot.",
+      "uncertainSpansInCleanedWording": [
+        "since a lot."
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u3114",
+      "importance": "incidental",
+      "reason": "Brief praise aside.",
+      "preparedSourceQuote": "[u3114 | 03:31:44.840-03:31:45.929 | Kenzo] I's good to him.",
+      "preparedContextBefore": [
+        "[u3112 | 03:31:37.450-03:31:40.100 | DM] for the last return to talk our scene.",
+        "[u3113 | 03:31:41.220-03:31:42.560 | Kenzo] and"
+      ],
+      "preparedContextAfter": [
+        "[u3115 | 03:31:46.510-03:31:48.670 | Caulaus] Did not see that coming.",
+        "[u3116 | 03:31:49.170-03:31:51.140 | Seeker] Yeah, you you got us?"
+      ],
+      "cleanedWording": "[u3114 | 03:31:44.840-03:31:45.929 | Kenzo] I's good to him.",
+      "uncertainSpansInCleanedWording": [
+        "I's good to him."
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u3128",
+      "importance": "incidental",
+      "reason": "Brief table interjection.",
+      "preparedSourceQuote": "[u3128 | 03:32:45.250-03:32:46.250 | Seeker] It's messy",
+      "preparedContextBefore": [
+        "[u3126 | 03:32:37.240-03:32:41.380 | Seeker] it's so close. So there were subtle clues that we missed that you were saying.",
+        "[u3127 | 03:32:42.940-03:32:44.860 | Kenzo] I don't really know harpies."
+      ],
+      "preparedContextAfter": [
+        "[u3129 | 03:32:46.460-03:33:03.660 | DM] not there weren't that many I mean it wasn't designed for it to be easy to figure out right like, unless you had shown the ring to the mirror. You really couldn't have figured it out. I remember we were about to show the ring of the mirror like, like, yeah, there was like one time where it came up, and it was like, oh, we're gonna do it. And then",
+        "[u3130 | 03:33:03.670-03:33:09.040 | Kenzo] somebody at the last minute like said, oh, why don't we do this other thing and said."
+      ],
+      "cleanedWording": "[u3128 | 03:32:45.250-03:32:46.250 | Seeker] It's messy",
+      "uncertainSpansInCleanedWording": [
+        "It's messy"
+      ],
+      "spanScope": "whole unit conservatively inventoried as one residual span",
+      "accepted": false
+    },
+    {
+      "uid": "u3137",
+      "importance": "material",
+      "issueGroupIds": [
+        "old-alias"
+      ],
+      "reason": "Old fey alias and repeated variants. Unresolved wording could affect an identity or substantive meaning.",
+      "preparedSourceQuote": "[u3137 | 03:33:32.180-03:33:34.439 | DM] Dasakles is Typhinia.",
+      "preparedContextBefore": [
+        "[u3135 | 03:33:27.010-03:33:29.920 | DM] everybody was very unclear. Exactly who",
+        "[u3136 | 03:33:30.260-03:33:31.819 | DM] nobody ever said"
+      ],
+      "preparedContextAfter": [
+        "[u3138 | 03:33:38.390-03:33:39.500 | DM] So",
+        "[u3139 | 03:33:40.320-03:33:41.470 | Kenzo] it's really good. Tim."
+      ],
+      "cleanedWording": "[u3137 | 03:33:32.180-03:33:34.439 | DM] [[Dasakles]] is Typhina.",
+      "uncertainSpansInCleanedWording": [
+        "Dasakles"
+      ],
+      "spanScope": "marked text",
+      "accepted": false
+    },
+    {
+      "uid": "u3150",
+      "importance": "incidental",
+      "reason": "Request for tree ki; no grant is made, DM explicitly defers u3151/u3270.",
+      "preparedSourceQuote": "[u3150 | 03:34:16.040-03:34:21.420 | Kenzo] which, after what we did, they may be out, not on an unworthy thing for it to ignite.",
+      "preparedContextBefore": [
+        "[u3148 | 03:34:03.550-03:34:07.369 | Kenzo] Is there one other thing I can do with that True, Sam. I can record this with you, sure.",
+        "[u3149 | 03:34:07.450-03:34:12.789 | Kenzo] Okay. But I I haven't I Haven't. Well, I i'm just gonna ask the the tree for some key."
+      ],
+      "preparedContextAfter": [
+        "[u3151 | 03:34:21.600-03:34:28.950 | DM] I'll think about that fake, he fay wild. I don't know if there really is like fay-while",
+        "[u3152 | 03:34:29.280-03:34:31.410 | DM] right? It's a very different kind of magic."
+      ],
+      "cleanedWording": "[u3150 | 03:34:16.040-03:34:21.420 | Kenzo] which, after what we did, they may be out, not on an unworthy thing for it to ignite.",
+      "uncertainSpansInCleanedWording": [
+        "out, not on an unworthy thing for it to ignite"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u3173",
+      "importance": "incidental",
+      "reason": "Player request for advance warning; description immediately resumes.",
+      "preparedSourceQuote": "[u3173 | 03:35:40.760-03:35:55.329 | Caulaus] you should award be right at whole thing. I have didn't have time to prepare it. okay? Well, we'll do that in January. No, no, no, we could do it now. I just give me 30 s to think. Okay, or 5 s even. I mostly have it ready.",
+      "preparedContextBefore": [
+        "[u3171 | 03:35:34.050-03:35:37.450 | DM] Sharpening, holding a sword, holding an Alvin sword.",
+        "[u3172 | 03:35:37.840-03:35:39.069 | DM] You see."
+      ],
+      "preparedContextAfter": [
+        "[u3174 | 03:35:56.270-03:35:56.970 | Caulaus] So",
+        "[u3175 | 03:35:58.590-03:36:00.830 | Caulaus] you see, an Alf sitting outside the Ted."
+      ],
+      "cleanedWording": "[u3173 | 03:35:40.760-03:35:55.329 | Caulaus] you should award be right at whole thing. I have didn't have time to prepare it. okay? Well, we'll do that in January. No, no, no, we could do it now. I just give me 30 s to think. Okay, or 5 s even. I mostly have it ready.",
+      "uncertainSpansInCleanedWording": [
+        "you should award be right at whole thing"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u3212",
+      "importance": "incidental",
+      "reason": "Description comparison fragment, following unit clarifies sense of cat presence.",
+      "preparedSourceQuote": "[u3212 | 03:38:02.000-03:38:09.020 | Caulaus] it doesn't seem like it's not like a shadow. Ghosty sort of thing at all right like it. Just it has the feel of a bump",
+      "preparedContextBefore": [
+        "[u3210 | 03:37:58.720-03:38:01.009 | Caulaus] natural like it doesn't it. It.",
+        "[u3211 | 03:38:01.130-03:38:01.720 | Unknown] It"
+      ],
+      "preparedContextAfter": [
+        "[u3213 | 03:38:09.320-03:38:15.679 | Caulaus] right like it. You don't quite see it. You just feel like there was a a cat like Presence moving",
+        "[u3214 | 03:38:15.860-03:38:17.030 | Caulaus] moving around"
+      ],
+      "cleanedWording": "[u3212 | 03:38:02.000-03:38:09.020 | Caulaus] it doesn't seem like it's not like a shadow. Ghosty sort of thing at all right like it. Just it has the feel of a bump",
+      "uncertainSpansInCleanedWording": [
+        "bump"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u3233",
+      "importance": "incidental",
+      "reason": "Out-of-character warning/discussion after scene.",
+      "preparedSourceQuote": "[u3233 | 03:39:23.120-03:39:32.160 | Caulaus] Sorry that was for the moment, Mike. I thought it would be a nice way to add. No, no, it was. It was good. Actually, it was perfect. I just 30 s word. It would have helped me for this slide.",
+      "preparedContextBefore": [
+        "[u3231 | 03:39:16.890-03:39:17.740 | Seeker] But.",
+        "[u3232 | 03:39:20.040-03:39:20.949 | Wellby] wow!"
+      ],
+      "preparedContextAfter": [
+        "[u3234 | 03:39:32.280-03:39:33.749 | Kenzo] I'm not buying any of that",
+        "[u3235 | 03:39:34.520-03:39:46.530 | Wellby] now. It's like you saw him. It's real. I don't know. Maybe he's found the the cloak, and it's concealing his true nature from the soul side."
+      ],
+      "cleanedWording": "[u3233 | 03:39:23.120-03:39:32.160 | Caulaus] Sorry that was spur of the moment, Mike. I thought it would be a nice way to end. No, no, it was. It was good. Actually, it was perfect. I just 30 seconds' warning. It would have helped me for this slide.",
+      "uncertainSpansInCleanedWording": [
+        "for this slide"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u3253",
+      "importance": "incidental",
+      "reason": "Discussion of writing provenance.",
+      "preparedSourceQuote": "[u3253 | 03:40:53.160-03:41:03.149 | Wellby] events. Yeah, like the the whole, the whole, the whole average of the full of hope, free plot with the other fee",
+      "preparedContextBefore": [
+        "[u3251 | 03:40:49.150-03:40:52.060 | Wellby] the level of detail and names",
+        "[u3252 | 03:40:52.290-03:40:53.070 | Unknown] and"
+      ],
+      "preparedContextAfter": [
+        "[u3254 | 03:41:03.460-03:41:08.990 | Kenzo] like Balimore. And whatever yeah, that's my guess.",
+        "[u3255 | 03:41:09.080-03:41:09.980 | Unknown] I'm with that."
+      ],
+      "cleanedWording": "[u3253 | 03:40:53.160-03:41:03.149 | Wellby] events. Yeah, like the the whole, the whole, the whole average of the full of hope, free plot with the other fey",
+      "uncertainSpansInCleanedWording": [
+        "average of the full of hope, free plot"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    },
+    {
+      "uid": "u3254",
+      "importance": "incidental",
+      "reason": "Retrospective name recollection; earlier name group separately logged.",
+      "preparedSourceQuote": "[u3254 | 03:41:03.460-03:41:08.990 | Kenzo] like Balimore. And whatever yeah, that's my guess.",
+      "preparedContextBefore": [
+        "[u3252 | 03:40:52.290-03:40:53.070 | Unknown] and",
+        "[u3253 | 03:40:53.160-03:41:03.149 | Wellby] events. Yeah, like the the whole, the whole, the whole average of the full of hope, free plot with the other fee"
+      ],
+      "preparedContextAfter": [
+        "[u3255 | 03:41:09.080-03:41:09.980 | Unknown] I'm with that.",
+        "[u3256 | 03:41:10.730-03:41:15.960 | DM] That's I wrote the first 2 paragraphs, and it filled in the rest."
+      ],
+      "cleanedWording": "[u3254 | 03:41:03.460-03:41:08.990 | Kenzo] like Balimore. And whatever yeah, that's my guess.",
+      "uncertainSpansInCleanedWording": [
+        "Balimore"
+      ],
+      "spanScope": "specific residual text",
+      "accepted": false
+    }
+  ]
+}

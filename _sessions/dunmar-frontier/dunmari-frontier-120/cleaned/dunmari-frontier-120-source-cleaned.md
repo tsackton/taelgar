@@ -4,16 +4,16 @@
 [u0004 | 00:00:25.020-00:00:28.660 | Kenzo] Oh, I definitely ate pie.
 [u0005 | 00:00:28.660-00:00:30.520 | Wellby] Don't think Wellby did.
 [u0006 | 00:00:30.520-00:00:31.720 | Delwath] Delwath didn't.
-[u0007 | 00:00:32.030-00:00:32.859 | Riswynn] [[No, it was.]]
+[u0007 | 00:00:32.030-00:00:32.859 | Riswynn] {{No, it was.}}
 [u0008 | 00:00:32.860-00:00:39.600 | Delwath] But I think everybody who ate the pie is gonna have, like a bonus on their their ability to interact.
 [u0009 | 00:00:39.600-00:00:46.630 | Wellby] I think so too. I think. Like I think I went about that entirely the opposite way from what we should have last time.
 [u0010 | 00:00:48.330-00:00:50.709 | Riswynn] When in Feyland, do what the fey do.
 [u0011 | 00:00:53.580-00:01:00.600 | DM] So we start as you find yourself walking.
 [u0012 | 00:01:00.820-00:01:10.119 | DM] almost dancing, following the whistle of the small flute that Auntie Mulberry gave you.
 [u0013 | 00:01:11.160-00:01:14.790 | DM] heading south towards Sunwine Hall, where
-[u0014 | 00:01:15.570-00:01:25.280 | DM] the [[Lord Sorven]], the Master of Revels and ruler of Emberwine, holds his never-ending fey revel.
+[u0014 | 00:01:15.570-00:01:25.280 | DM] the {{Lord Sorven}}, the Master of Revels and ruler of Emberwine, holds his never-ending fey revel.
 [u0015 | 00:01:27.550-00:01:36.210 | DM] From Auntie Mulberry you learned that there is potentially a refugee from Amberglow.
-[u0016 | 00:01:36.490-00:01:42.510 | DM] who has been hanging around [[Lord Sorven]]'s court for a while, which is
+[u0016 | 00:01:36.490-00:01:42.510 | DM] who has been hanging around {{Lord Sorven}}'s court for a while, which is
 [u0017 | 00:01:42.770-00:01:52.640 | DM] potentially your primary motivation for traveling in this direction as you walk.
 [u0018 | 00:01:54.043-00:01:58.120 | DM] Your feet, your footsteps light your
 [u0019 | 00:02:00.010-00:02:13.720 | DM] the sort of passage, easy as you're almost drawn to the distant sounds of music and dance that seem to be traveling an impossibly long distance across the rolling fields and vineyards of
@@ -28,7 +28,7 @@
 [u0028 | 00:02:54.020-00:02:54.510 | Kenzo] Bye.
 [u0029 | 00:02:56.920-00:03:01.140 | DM] But you feel light on your feet as you as you travel, and
 [u0030 | 00:03:01.990-00:03:06.681 | DM] Lady Eventide, currently possessing Seeker
-[u0031 | 00:03:07.730-00:03:14.420 | DM] is talking and babbling a little bit telling you about [[Lord Sorven]]. Oh, he
+[u0031 | 00:03:07.730-00:03:14.420 | DM] is talking and babbling a little bit telling you about {{Lord Sorven}}. Oh, he
 [u0032 | 00:03:15.810-00:03:24.740 | DM] he came. He danced with me at the Cloud Palace once, long ago, quite a striking man.
 [u0033 | 00:03:25.550-00:03:40.690 | DM] tall and handsome and an excellent dancer, cheerful, always full of
 [u0034 | 00:03:42.070-00:03:45.180 | DM] joy and music when he came.
@@ -55,7 +55,7 @@
 [u0055 | 00:06:33.170-00:06:33.860 | Delwath] It's just.
 [u0056 | 00:06:33.860-00:06:36.760 | DM] What what would you like to do.
 [u0057 | 00:06:39.630-00:06:42.990 | Delwath] Is there like a obvious
-[u0058 | 00:06:46.810-00:06:52.580 | Delwath] host or like herald? Or [[why]].
+[u0058 | 00:06:46.810-00:06:52.580 | Delwath] host or like herald? Or {{why}}.
 [u0059 | 00:06:52.580-00:06:58.652 | DM] But so there's this big stone pavilion, which has like vines growing on the roof, and sort of
 [u0060 | 00:06:59.410-00:07:12.800 | DM] very big, probably hundreds of feet across, a big open dance floor in the middle. And this seems to be what like, you know, people are sort of drifting in and out of that almost certainly, where
 [u0061 | 00:07:12.930-00:07:15.740 | DM] the Master of the Revels sort of
@@ -69,9 +69,9 @@
 [u0069 | 00:07:54.660-00:07:55.330 | Delwath] 8.
 [u0070 | 00:07:55.520-00:07:56.650 | Riswynn] So entreat.
 [u0071 | 00:08:02.860-00:08:04.449 | Delwath] yeah, I mean, I think.
-[u0072 | 00:08:09.170-00:08:11.050 | Delwath] make our way towards the [[simpling]].
+[u0072 | 00:08:09.170-00:08:11.050 | Delwath] make our way towards the {{simpling}}.
 [u0073 | 00:08:11.050-00:08:13.740 | Wellby] So and go and like, join the party for a little bit.
-[u0074 | 00:08:15.930-00:08:18.740 | Wellby] But yeah, let's get the lay of the land [[of the 1,000,000,001.st]]
+[u0074 | 00:08:15.930-00:08:18.740 | Wellby] But yeah, let's get the lay of the land {{of the 1,000,000,001.st}}
 [u0075 | 00:08:22.610-00:08:23.449 | DM] Yeah, I mean, let's.
 [u0076 | 00:08:23.450-00:08:35.059 | Delwath] Walk. Yeah. Walk towards the party, the edge, the edge of the edge of the party, and just like, Is there food tables? Is there drink? Are there people singing like
 [u0077 | 00:08:35.380-00:08:40.609 | Delwath] just sort of vibe on the edge of the party for a few minutes, and and
@@ -87,7 +87,7 @@
 [u0087 | 00:09:40.450-00:09:41.710 | Wellby] Yes.
 [u0088 | 00:09:43.069-00:09:43.740 | Wellby] Yeah.
 [u0089 | 00:09:43.740-00:09:45.669 | DM] So d 20 plus 10.
-[u0090 | 00:09:47.660-00:09:49.293 | Wellby] [[And at least a welcome.]]
+[u0090 | 00:09:47.660-00:09:49.293 | Wellby] {{And at least a welcome.}}
 [u0091 | 00:09:51.480-00:09:55.860 | DM] You can just roll in D and D beyond, I think.
 [u0092 | 00:09:56.480-00:09:57.050 | Wellby] Yes.
 [u0093 | 00:10:07.380-00:10:10.060 | Wellby] it's funny I haven't ever actually done that before.
@@ -165,7 +165,7 @@
 [u0165 | 00:18:08.270-00:18:10.160 | Kenzo] You rolled a 7.
 [u0166 | 00:18:10.160-00:18:10.820 | Delwath] Yeah.
 [u0167 | 00:18:10.820-00:18:12.470 | Delwath] You're fired.
-[u0168 | 00:18:12.470-00:18:14.769 | DM] [[Not an insight]]. So that's a.
+[u0168 | 00:18:12.470-00:18:14.769 | DM] {{Not an insight}}. So that's a.
 [u0169 | 00:18:14.770-00:18:15.150 | Delwath] Cool.
 [u0170 | 00:18:15.150-00:18:16.740 | DM] It's not terrible.
 [u0171 | 00:18:20.680-00:18:23.030 | DM] I mean the vibe is.
@@ -187,10 +187,10 @@
 [u0187 | 00:20:14.890-00:20:15.730 | Kenzo] Interesting.
 [u0188 | 00:20:15.860-00:20:17.200 | Kenzo] Thank you.
 [u0189 | 00:20:17.200-00:20:19.590 | Wellby] Paris in, 1939. Kind of vibes.
-[u0190 | 00:20:20.160-00:20:24.439 | DM] Not. It's not quite, you know. Paris [[night]]. It's not that. It's not
+[u0190 | 00:20:20.160-00:20:24.439 | DM] Not. It's not quite, you know. Paris {{night}}. It's not that. It's not
 [u0191 | 00:20:24.590-00:20:28.660 | DM] on that like edge of the brink of disaster, right? But
 [u0192 | 00:20:29.060-00:20:31.350 | DM] a little bit of that undercurrent.
-[u0193 | 00:20:31.350-00:20:33.030 | Kenzo] I was gonna say, Chardon [[3rd time]]
+[u0193 | 00:20:31.350-00:20:33.030 | Kenzo] I was gonna say, Chardon {{3rd time}}
 [u0194 | 00:20:33.030-00:20:35.680 | Kenzo] Chardon in whatever whatever the year is right now.
 [u0195 | 00:20:36.310-00:20:36.655 | DM] Right.
 [u0196 | 00:20:37.190-00:20:39.229 | Delwath] Chardon 3 months ago.
@@ -210,7 +210,7 @@
 [u0210 | 00:21:53.670-00:21:55.770 | DM] There's a a
 [u0211 | 00:21:55.910-00:22:05.510 | DM] many people. There's a big dance floor in the middle of this hall, and while there's people who are kind of joyfully leaping through the party outside.
 [u0212 | 00:22:06.400-00:22:14.510 | DM] you know there's a there's a band of satyrs playing. There's like people who are not quite courtly dance, right? It's not so
-[u0213 | 00:22:15.077-00:22:28.102 | DM] sedate as that. But you know clearly there's like a dance happening here. At the far end of the hall. There's a you see, what must be [[Lord Sorven]].
+[u0213 | 00:22:15.077-00:22:28.102 | DM] sedate as that. But you know clearly there's like a dance happening here. At the far end of the hall. There's a you see, what must be {{Lord Sorven}}.
 [u0214 | 00:22:28.800-00:22:33.109 | DM] 7 foot tall man with
 [u0215 | 00:22:33.330-00:22:49.059 | DM] antlers, human face, human body, but antlers growing from its head, which are laden with vines, that kind of drip down off of them, and ribbons that kind of come down off of it, red ribbons that come down off his antlers, and kind of
 [u0216 | 00:22:49.310-00:23:00.699 | DM] in constant motion, sort of dancing around him. But other than that, he's not wearing that much. He's got an open vest with a bare chest, and then he's wearing sort of a skirt.
@@ -222,8 +222,8 @@
 [u0222 | 00:23:43.680-00:24:06.750 | DM] you know, going around, you know, touching people, dancing a little bit, smiling sort of greeting. People he knows obviously looks over at you as you enter, notices you, but doesn't make any effort to approach. Just kind of waiting to see what you do.
 [u0223 | 00:24:06.960-00:24:19.629 | Riswynn] This was the lord of that we knew this was a noteworthy person in general, or that we knew this was the guy from the other part of the Fae? Or did you say this is a guy, the Lord of the Revels.
 [u0224 | 00:24:20.060-00:24:21.350 | DM] The Lord of the Revels.
-[u0225 | 00:24:21.350-00:24:25.480 | Riswynn] Okay. I thought you said it was [[load. So good]].
-[u0226 | 00:24:25.480-00:24:27.180 | DM] His name, [[Lord, so let me know]].
+[u0225 | 00:24:21.350-00:24:25.480 | Riswynn] Okay. I thought you said it was {{load. So good}}.
+[u0226 | 00:24:25.480-00:24:27.180 | DM] His name, {{Lord, so let me know}}.
 [u0227 | 00:24:27.180-00:24:32.069 | Riswynn] Sorry, the guy we think we know the refugee guy.
 [u0228 | 00:24:32.070-00:24:33.330 | DM] I do. You know his name?
 [u0229 | 00:24:33.330-00:24:35.880 | Delwath] Don't know anything about him other than that he exists.
@@ -240,7 +240,7 @@
 [u0240 | 00:25:40.790-00:25:50.860 | Delwath] And so that leaves us a little bit at scratching our heads. Okay. So our next strategy was, well, let's let's see if we can find some allies.
 [u0241 | 00:25:50.960-00:25:53.739 | Delwath] Let's see if we can find some people who would, you know.
 [u0242 | 00:25:54.870-00:25:56.709 | Delwath] help us find the Prismwell.
-[u0243 | 00:25:56.710-00:26:02.380 | Kenzo] Does Cloudspinner have like a like a colloquial name? Or is that like their name [[Pottsburg]]?
+[u0243 | 00:25:56.710-00:26:02.380 | Kenzo] Does Cloudspinner have like a like a colloquial name? Or is that like their name {{Pottsburg}}?
 [u0244 | 00:26:02.850-00:26:10.179 | Kenzo] Actually, people who don't know Cloudspinner? This is like, what's what's what's Cloudspinner's relationship with everybody here like, are they friends, enemies.
 [u0245 | 00:26:10.310-00:26:12.150 | Kenzo] not even unrelated?
 [u0246 | 00:26:13.500-00:26:14.419 | Kenzo] Do we know.
@@ -270,18 +270,18 @@
 [u0270 | 00:27:57.800-00:27:58.740 | Kenzo] E-M-B-E-R.
 [u0271 | 00:27:58.740-00:27:59.250 | DM] Yeah. Yeah.
 [u0272 | 00:27:59.250-00:27:59.780 | DM] Back.
-[u0273 | 00:27:59.780-00:28:07.550 | Delwath] But but as best we can tell our whole, [[man]], people might not want her back. The
+[u0273 | 00:27:59.780-00:28:07.550 | Delwath] But but as best we can tell our whole, {{man}}, people might not want her back. The
 [u0274 | 00:28:07.650-00:28:23.740 | Delwath] but what's what's her name? The rabbit fey last time, basically slapped us around the head and said, You guys are idiots. If you think if you have a way to restore Cloudspinner, of course, every single fey around here would think that is great, because it turns out some sort of nasty evil thing. From
-[u0275 | 00:28:24.050-00:28:31.800 | Delwath] what was it? [[Shadow in wend]] and Harrow and Wend.
+[u0275 | 00:28:24.050-00:28:31.800 | Delwath] what was it? {{Shadow in wend}} and Harrow and Wend.
 [u0276 | 00:28:32.710-00:28:33.380 | Riswynn] Yeah.
 [u0277 | 00:28:34.570-00:28:54.259 | Delwath] Every. Everybody's terrorized by these nasty things that almost killed us, coming from Harrow and Wend which are coming through because Cloudspinner, who's super powerful is not around to say, no, you can't pour through my kingdom and cause trouble.
 [u0278 | 00:28:54.530-00:29:15.019 | Delwath] Right? So so our theory now is that Harrow and Wend. That's it, Harrow and Wend. Our theory now is that really anybody who thought there might be reasons to be somewhat circumspect about Cloudspinner, because
 [u0279 | 00:29:15.800-00:29:36.979 | Delwath] the more people who know. The more likely it is a spy for Harrow and Wend would find out, or whatever. But we also think that probably we should be pretty upfront about, hey? We're trying to restore Cloudspinner. Can you help us find the Prismwell, if we're talking to the right people, because people might not be like. Sure. I know where it is. Take 3 lefts and jump in
 [u0280 | 00:29:37.350-00:29:44.070 | Delwath] barrel of wine, but we don't think we think everybody would be pro this move, and so
-[u0281 | 00:29:44.500-00:29:50.850 | Delwath] here we presumably want to talk to Lord [[Sarah]].
-[u0282 | 00:29:50.850-00:29:51.430 | Riswynn] [[Sorven]].
-[u0283 | 00:29:51.430-00:29:52.010 | Wellby] [[Sorven]].
-[u0284 | 00:29:52.010-00:29:58.349 | Delwath] [[Lord Sorven]], who's the lord right? And then also this mysterious refugee from Amberglow.
+[u0281 | 00:29:44.500-00:29:50.850 | Delwath] here we presumably want to talk to Lord {{Sarah}}.
+[u0282 | 00:29:50.850-00:29:51.430 | Riswynn] {{Sorven}}.
+[u0283 | 00:29:51.430-00:29:52.010 | Wellby] {{Sorven}}.
+[u0284 | 00:29:52.010-00:29:58.349 | Delwath] {{Lord Sorven}}, who's the lord right? And then also this mysterious refugee from Amberglow.
 [u0285 | 00:29:59.130-00:30:02.689 | Delwath] ideally, in some relatively private situation.
 [u0286 | 00:30:02.960-00:30:07.089 | Delwath] because we're still presumably a little bit concerned about spies, because
 [u0287 | 00:30:08.050-00:30:15.909 | Delwath] we've had this problem where everybody seems to find out that she was free and come to try and kill us. Right? So I mean.
@@ -297,7 +297,7 @@
 [u0297 | 00:31:30.260-00:31:31.879 | DM] any minion of
 [u0298 | 00:31:32.110-00:31:40.699 | DM] Harrow and Wend, who has one of these, managed to capture an Amberlight, will always know exactly where Cloudspinner is.
 [u0299 | 00:31:42.280-00:31:46.680 | Delwath] Now, do we know if we don't actually know if that works through dimensions, though right.
-[u0300 | 00:31:46.890-00:31:48.760 | Wellby] We do, though [[big? Well]].
+[u0300 | 00:31:46.890-00:31:48.760 | Wellby] We do, though {{big? Well}}.
 [u0301 | 00:31:49.100-00:31:50.040 | Delwath] Was out.
 [u0302 | 00:31:50.040-00:31:51.489 | Wellby] She was out. That's right.
 [u0303 | 00:31:51.620-00:31:55.890 | DM] You. You don't, but it's probably not. It's probably risky to assume it doesn't.
@@ -320,12 +320,12 @@
 [u0320 | 00:33:09.570-00:33:21.119 | Delwath] say what we're doing. We just might. I'm just saying we probably shouldn't, you know, stand on the roof of the stone pavilion and shout out to the crowd, we are here to free Cloudspinner, who wants to help us.
 [u0321 | 00:33:21.530-00:33:23.130 | Riswynn] Recruiting, now.
 [u0322 | 00:33:23.130-00:33:24.919 | Delwath] Although actually, honestly.
-[u0323 | 00:33:24.920-00:33:26.350 | Riswynn] [[It deserves Irving]].
+[u0323 | 00:33:24.920-00:33:26.350 | Riswynn] {{It deserves Irving}}.
 [u0324 | 00:33:26.350-00:33:30.530 | Delwath] Having said, that is it actually a terrible idea.
 [u0325 | 00:33:31.160-00:33:39.389 | Delwath] But I think I think we want to try and talk to the try and like, drift into the orbit of more important person first, and introduce ourselves.
 [u0326 | 00:33:45.710-00:33:47.210 | Wellby] Yeah, let's do that. Let's try.
 [u0327 | 00:33:47.210-00:33:54.228 | DM] So you find yourself drifting through this feast hall.
-[u0328 | 00:33:55.350-00:34:15.980 | DM] you know, dancing, moving to the music a little bit, but inevitably and slowly make your way towards [[Lord Sorven]], and when you get within, you know, when you get like sort of halfway across the hall, or something when you're obviously sort of slowly making your way in his direction. He turns and he looks over at you.
+[u0328 | 00:33:55.350-00:34:15.980 | DM] you know, dancing, moving to the music a little bit, but inevitably and slowly make your way towards {{Lord Sorven}}, and when you get within, you know, when you get like sort of halfway across the hall, or something when you're obviously sort of slowly making your way in his direction. He turns and he looks over at you.
 [u0329 | 00:34:16.080-00:34:45.179 | DM] and he sort of nods and gives a little bow, and as he does, like the ribbons stream back, and you can. You can almost hear the sound of flutes coming from his. The antlers and the ribbons that are streaming out, you know, off of his off of his head, and he sort of nods his head and smiles at you, and and sort of beckons you forward, and the sort of space opens up around in front of him
 [u0330 | 00:34:45.639-00:34:50.773 | DM] as you approach. You know he smiles, and he greets you.
 [u0331 | 00:34:51.940-00:35:06.320 | DM] You as when you're near him you can. You can hear the sort of there's like a faint melody that's coming off of his body somehow, and he he reaches for you and gives a bow. He's towering over all of you.
@@ -343,7 +343,7 @@
 [u0343 | 00:37:11.680-00:37:12.520 | Delwath] Now.
 [u0344 | 00:37:12.520-00:37:13.070 | Riswynn] Picnics.
 [u0345 | 00:37:13.070-00:37:34.340 | Delwath] Delwath was going with something like our burdens are. Although, honestly, do we? Do we have any sense of time pressure? It actually doesn't matter. We're just so used to time pressure. See?
-[u0346 | 00:37:34.340-00:37:36.860 | Delwath] [[Let's say, wild]] talking to you. That's it.
+[u0346 | 00:37:34.340-00:37:36.860 | Delwath] {{Let's say, wild}} talking to you. That's it.
 [u0347 | 00:37:40.712-00:37:43.880 | Delwath] we are. Yeah.
 [u0348 | 00:37:44.040-00:37:51.577 | Delwath] Delwath will say something like talk a little bit about how our burdens are urgent and
 [u0349 | 00:37:52.930-00:37:55.400 | Delwath] sort of I mean, presumably there's a lot of people milling.
@@ -354,7 +354,7 @@
 [u0354 | 00:38:15.130-00:38:32.359 | Delwath] you know, Delwath’ll say something about our burdens are urgent, you know, compliment some of the food specifically based on what I sampled. That was particularly good, you know. It's a good party, right like do not, but but and close with some. You know
 [u0355 | 00:38:32.850-00:38:41.770 | Delwath] the burdens, the the things that brought us here. The burden that brings us here might be of
 [u0356 | 00:38:43.030-00:38:45.540 | Delwath] quite some interest to you.
-[u0357 | 00:38:48.360-00:38:50.430 | DM] [[Of well, Nibbles.]]
+[u0357 | 00:38:48.360-00:38:50.430 | DM] {{Of well, Nibbles.}}
 [u0358 | 00:38:51.240-00:38:51.820 | DM] Hello!
 [u0359 | 00:38:52.150-00:39:00.569 | Wellby] Apologetically and half jokingly, nodding towards Delwath so much time traveling with mortals has
 [u0360 | 00:39:01.290-00:39:04.080 | Wellby] given him a sense of urgency. I'm afraid.
@@ -373,7 +373,7 @@
 [u0373 | 00:40:25.880-00:40:26.540 | Delwath] Right.
 [u0374 | 00:40:29.180-00:40:30.460 | Delwath] I will tell him.
 [u0375 | 00:40:31.270-00:40:32.867 | Delwath] I'll tell him.
-[u0376 | 00:40:34.910-00:40:46.049 | Delwath] [[It helps you know of]]. I'll start by asking, you know of Cloudspinner's imprisonment.
+[u0376 | 00:40:34.910-00:40:46.049 | Delwath] {{It helps you know of}}. I'll start by asking, you know of Cloudspinner's imprisonment.
 [u0377 | 00:40:48.080-00:40:51.370 | DM] He kind of frowns
 [u0378 | 00:40:51.550-00:41:05.370 | DM] briefly, and there's a slight discordant note in the song like the this melody that's layered on top of the of the Satyrs song. This the sort of complex harmonies just break for a moment.
 [u0379 | 00:41:05.982-00:41:08.709 | DM] And he he kind of looks down at you.
@@ -390,8 +390,8 @@
 [u0390 | 00:42:48.130-00:42:52.260 | Delwath] a prism, a crystal of some kind that she is trapped within.
 [u0391 | 00:42:52.570-00:42:55.120 | Delwath] We do not know how to break.
 [u0392 | 00:42:56.210-00:43:02.259 | Delwath] We've come to the Feywild seeking knowledge and allies
-[u0393 | 00:43:02.580-00:43:09.570 | Delwath] who might be able to help us [[but break such]].
-[u0394 | 00:43:13.170-00:43:22.230 | Delwath] [[What is the blood of our enemies?]]
+[u0393 | 00:43:02.580-00:43:09.570 | Delwath] who might be able to help us {{but break such}}.
+[u0394 | 00:43:13.170-00:43:22.230 | Delwath] {{What is the blood of our enemies?}}
 [u0395 | 00:43:22.230-00:43:25.330 | DM] Delwath’s as good at this stuff. You tell it better than Mike.
 [u0396 | 00:43:25.330-00:43:26.110 | Delwath] Yeah, yeah, yeah.
 [u0397 | 00:43:28.078-00:43:29.572 | Wellby] You're doing fine.
@@ -405,7 +405,7 @@
 [u0405 | 00:44:05.260-00:44:07.420 | Delwath] And we were up.
 [u0406 | 00:44:07.860-00:44:17.230 | Delwath] That was, we'll finish that. The story was something like we were unsure of our next move
 [u0407 | 00:44:17.390-00:44:20.060 | Delwath] when Harrow and Wend forced our hand.
-[u0408 | 00:44:21.390-00:44:38.003 | Delwath] and their minions appeared on our flying castle like kind of a cool flying castle. [[Double]], you know. You'd like it right? You could have a good party there. We threw a party there once, not as good as this party, but it was not a bad party going a little diversion about our party at [[Dolan]]. Right?
+[u0408 | 00:44:21.390-00:44:38.003 | Delwath] and their minions appeared on our flying castle like kind of a cool flying castle. {{Double}}, you know. You'd like it right? You could have a good party there. We threw a party there once, not as good as this party, but it was not a bad party going a little diversion about our party at {{Dolan}}. Right?
 [u0409 | 00:44:38.970-00:44:39.490 | Delwath] But
 [u0410 | 00:44:41.040-00:44:54.139 | Delwath] Their minions appeared on our ship, chasing Lirien, the bearer of one of the the amber Amberlights
 [u0411 | 00:44:54.360-00:45:01.509 | Delwath] I'll get, I'll get it right. Eventually. The bearer of one of the Amberlights who told us to seek the Prismwell.
@@ -452,7 +452,7 @@
 [u0452 | 00:49:35.600-00:49:41.379 | DM] There are not many who would leave my
 [u0453 | 00:49:42.760-00:49:48.799 | DM] who would leave the party, for you know the party
 [u0454 | 00:49:49.110-00:49:56.110 | DM] we come to the party to dance and to enjoy
-[u0455 | 00:49:56.350-00:49:59.110 | DM] [[are the revel in our time]].
+[u0455 | 00:49:56.350-00:49:59.110 | DM] {{are the revel in our time}}.
 [u0456 | 00:50:00.660-00:50:06.410 | DM] But if you're looking for a guide, and you.
 [u0457 | 00:50:06.520-00:50:11.789 | DM] you know, says I, would not recommend attempting to find the Shrouded Archive on your own.
 [u0458 | 00:50:13.490-00:50:15.530 | DM] If you're looking for a guide.
@@ -511,7 +511,7 @@
 [u0511 | 00:56:27.890-00:56:32.839 | DM] Eric's had extended bedtime trouble, but he's hopefully joining soon.
 [u0512 | 00:56:35.410-00:56:43.950 | DM] Back to you all looking over it at the now faintly blushing
 [u0513 | 00:56:44.330-00:56:51.880 | DM] yet desaturated dwarf, who has not been willing to introduce herself to
-[u0514 | 00:56:52.870-00:57:11.359 | DM] [[Lord Sorven]]. Afraid that he will think less of her, remembering her as she was, and as she is now, and but gives a sort of graceful bow, and says, Enjoy, eat, drink, be merry, dance, sing.
+[u0514 | 00:56:52.870-00:57:11.359 | DM] {{Lord Sorven}}. Afraid that he will think less of her, remembering her as she was, and as she is now, and but gives a sort of graceful bow, and says, Enjoy, eat, drink, be merry, dance, sing.
 [u0515 | 00:57:12.880-00:57:22.800 | DM] even though your burdens may demand. You follow your own path.
 [u0516 | 00:57:24.340-00:57:27.140 | DM] Don't forget to enjoy the dance.
 [u0517 | 00:57:30.630-00:57:34.269 | DM] and he sort of dances off, leaving you to
@@ -547,7 +547,7 @@
 [u0547 | 01:00:53.650-01:01:03.770 | Kenzo] So he's gonna go up on the side. But he he actually is gonna do like a commune with nature, but, like you know, do his like large scale, like, you know, extend out as far as he can.
 [u0548 | 01:01:03.900-01:01:12.080 | Kenzo] just to feel like what is going on out here. And you know, because again, you know, if our ultimate goal is this Prismwell, right?
 [u0549 | 01:01:13.368-01:01:21.519 | Kenzo] Yeah, he's just. He's just kind of extending outwards as far as he can out, and just feel for any weird
-[u0550 | 01:01:22.150-01:01:27.580 | Kenzo] like anomalies like any like kind of weird points out there. [[That’s as extensively throughout]].
+[u0550 | 01:01:22.150-01:01:27.580 | Kenzo] like anomalies like any like kind of weird points out there. {{That’s as extensively throughout}}.
 [u0551 | 01:01:28.180-01:01:30.930 | Kenzo] I'll just out in every direction.
 [u0552 | 01:01:34.320-01:01:35.620 | DM] What's Riswynn doing.
 [u0553 | 01:01:38.560-01:01:44.170 | Riswynn] I think, being friendly and dancing and talking to people about.
@@ -632,7 +632,7 @@
 [u0632 | 01:11:16.240-01:11:19.599 | DM] You can't live in Emberwine without enjoying the revel.
 [u0633 | 01:11:27.320-01:11:30.119 | DM] One time I came here.
 [u0634 | 01:11:32.470-01:11:35.139 | DM] And well, there was this woman.
-[u0635 | 01:11:37.750-01:11:53.039 | DM] [[Sara the Golden]]. She was beautiful, aloof, radiant. She wasn't. She wasn't from here. She was from Everlight's Bloom. I don't think she should have ever left Everlight's Bloom to be honest like. What was she doing here? I mean, she didn't fit in.
+[u0635 | 01:11:37.750-01:11:53.039 | DM] {{Sara the Golden}}. She was beautiful, aloof, radiant. She wasn't. She wasn't from here. She was from Everlight's Bloom. I don't think she should have ever left Everlight's Bloom to be honest like. What was she doing here? I mean, she didn't fit in.
 [u0636 | 01:11:54.520-01:12:01.289 | DM] She walked through the world as if it was a story she was only half aware of. She danced, she liked to dance.
 [u0637 | 01:12:01.430-01:12:09.100 | DM] and she made these extravagant promises that never seemed to cost her anything, but
 [u0638 | 01:12:10.570-01:12:18.410 | DM] one shouldn't swear oaths in the Feywild one does not intend to keep, so
@@ -641,7 +641,7 @@
 [u0641 | 01:12:30.910-01:12:41.159 | DM] I don't know why I thought, I'm gonna step in. I think you know, I was arrogant.
 [u0642 | 01:12:41.320-01:12:46.449 | DM] Sure it was a challenge. Could I tell a story that would bend fate itself?
 [u0643 | 01:12:47.170-01:12:49.519 | DM] Maybe I felt sorry for her.
-[u0644 | 01:12:50.800-01:13:02.000 | DM] I didn't really do it for her. If I'm being honest, which I have to be honest, I really did it because I wanted to prove that I could twist Fate myself, you know, [[who wouldn't gambler]] who can
+[u0644 | 01:12:50.800-01:13:02.000 | DM] I didn't really do it for her. If I'm being honest, which I have to be honest, I really did it because I wanted to prove that I could twist Fate myself, you know, {{who wouldn't gambler}} who can
 [u0645 | 01:13:02.180-01:13:09.420 | DM] change reality with your stories, I mean. Come on! Isn't that the best thing you could tell of yourself and I
 [u0646 | 01:13:09.940-01:13:12.480 | DM] to be brutally honest? I did it.
 [u0647 | 01:13:13.770-01:13:17.910 | DM] I told a tale so compelling and strong
@@ -678,7 +678,7 @@
 [u0678 | 01:15:48.580-01:15:53.179 | Wellby] Although if I'm being honest, I can't say I'm actually the best dressed here.
 [u0679 | 01:15:53.310-01:15:57.669 | DM] There are many others who have better fashion sense than me.
 [u0680 | 01:15:59.170-01:16:01.250 | DM] Don't even boast anymore.
-[u0681 | 01:16:01.640-01:16:05.880 | Wellby] Someone told me there was a duelist here. Is there [[some doodle]].
+[u0681 | 01:16:01.640-01:16:05.880 | Wellby] Someone told me there was a duelist here. Is there {{some doodle}}.
 [u0682 | 01:16:05.880-01:16:09.009 | DM] Oh, yeah, Arendel, this is fine.
 [u0683 | 01:16:09.010-01:16:09.800 | DM] If you want to fight.
 [u0684 | 01:16:10.210-01:16:14.959 | Wellby] Not really, but like what he's just like a likes fighting kind of guy.
@@ -716,7 +716,7 @@
 [u0716 | 01:18:41.820-01:18:43.990 | DM] I've been to Everlight’s Bloom.
 [u0717 | 01:18:46.330-01:18:47.240 | Delwath] Ask him about that.
 [u0718 | 01:18:47.240-01:18:47.860 | DM] Okay.
-[u0719 | 01:18:48.300-01:18:56.580 | DM] [[Secrets, I know, like phase]], and I'm not gonna lie to you or mislead you.
+[u0719 | 01:18:48.300-01:18:56.580 | DM] {{Secrets, I know, like phase}}, and I'm not gonna lie to you or mislead you.
 [u0720 | 01:18:56.910-01:18:59.228 | Wellby] That's fair. Do you know where the
 [u0721 | 01:19:00.890-01:19:04.399 | Wellby] Where's the place where all the secrets of the whole Feywild are kept.
 [u0722 | 01:19:04.890-01:19:06.480 | DM] The Shrouded Archive.
@@ -737,18 +737,18 @@
 [u0737 | 01:20:26.800-01:20:28.579 | DM] It is very tedious.
 [u0738 | 01:20:28.780-01:20:32.800 | DM] Trust me, I've recited this list like a hundred times.
 [u0739 | 01:20:33.050-01:20:37.719 | DM] and everybody says, Oh, it's so great! But I can tell they're actually bored
-[u0740 | 01:20:37.960-01:20:40.099 | DM] [[wouldn't quest word out of their mind]].
+[u0740 | 01:20:37.960-01:20:40.099 | DM] {{wouldn't quest word out of their mind}}.
 [u0741 | 01:20:40.100-01:20:42.460 | Wellby] What question does nobody ever ask
 [u0742 | 01:20:42.780-01:20:45.010 | Wellby] a man compelled to tell the truth?
 [u0743 | 01:20:45.370-01:20:49.730 | Wellby] But they should. What's the question that you're waiting to be asked.
 [u0744 | 01:20:55.680-01:20:57.510 | DM] Nobody's ever asked me that.
 [u0745 | 01:20:59.720-01:21:02.119 | Wellby] Yeah, that seems like a cop out of an answer, though.
-[u0746 | 01:21:06.290-01:21:11.770 | DM] Well, [[I'm I'm not huge]].
+[u0746 | 01:21:06.290-01:21:11.770 | DM] Well, {{I'm I'm not huge}}.
 [u0747 | 01:21:12.550-01:21:14.279 | DM] I have to think about that.
 [u0748 | 01:21:18.080-01:21:19.100 | Wellby] Hmm.
-[u0749 | 01:21:19.100-01:21:38.969 | DM] I mean, people ask me all sorts of things. I think I've gotten more like. Do you regret it? Well, yes, of course you know whatever happened to [[Yasara]]. Nobody knows. She went back to Everlight’s Bloom and she hid away. Did she ever thank you? No. Could you have gotten away with it. Yes, if she'd been smarter about the whole thing.
+[u0749 | 01:21:19.100-01:21:38.969 | DM] I mean, people ask me all sorts of things. I think I've gotten more like. Do you regret it? Well, yes, of course you know whatever happened to {{Yasara}}. Nobody knows. She went back to Everlight’s Bloom and she hid away. Did she ever thank you? No. Could you have gotten away with it. Yes, if she'd been smarter about the whole thing.
 [u0750 | 01:21:41.150-01:21:44.219 | DM] I don't know that they tend to sort of obsess about
-[u0751 | 01:21:46.480-01:21:51.489 | DM] [[to highlight]]. Nobody ever asks like, well, what do you do all day.
+[u0751 | 01:21:46.480-01:21:51.489 | DM] {{to highlight}}. Nobody ever asks like, well, what do you do all day.
 [u0752 | 01:21:52.850-01:21:54.000 | Wellby] Yeah.
 [u0753 | 01:21:57.570-01:22:00.389 | DM] To be honest, it's kind of boring.
 [u0754 | 01:22:00.630-01:22:03.509 | DM] Can't play any of their fun. Little games.
@@ -761,7 +761,7 @@
 [u0761 | 01:22:37.150-01:22:41.679 | DM] most people don't actually lead very interesting lives since you mortals stopped coming through.
 [u0762 | 01:22:45.500-01:22:47.770 | Wellby] Want to hear an interesting story. That's all true.
 [u0763 | 01:22:48.510-01:22:49.803 | DM] I do?
-[u0764 | 01:22:50.450-01:23:02.900 | Wellby] And I'll I'll start to tell him the the story of stopping [[Emperor]] from becoming a god, and I think the the camera probably moves on to the next.
+[u0764 | 01:22:50.450-01:23:02.900 | Wellby] And I'll I'll start to tell him the the story of stopping {{Emperor}} from becoming a god, and I think the the camera probably moves on to the next.
 [u0765 | 01:23:02.900-01:23:17.569 | DM] Yes, we will cut to Delwath, who over, you know, wandering around sort of talking a little, I mean, you're visibly well, no, you're not visibly carrying a sword, but you could be visibly carrying a sword if you wanted to be.
 [u0766 | 01:23:17.570-01:23:18.939 | Delwath] No, but I'm not.
 [u0767 | 01:23:19.090-01:23:19.995 | DM] Okay,
@@ -788,7 +788,7 @@
 [u0788 | 01:25:27.140-01:25:29.809 | Delwath] in many places, not just here.
 [u0789 | 01:25:32.530-01:25:37.929 | DM] His. His face sort of goes blank for a minute.
 [u0790 | 01:25:38.710-01:25:41.659 | DM] The most interesting tales are the fights here.
-[u0791 | 01:25:42.270-01:25:47.490 | DM] I've dueled all the best warriors who have come to [[Lord Sorven]]'s court.
+[u0791 | 01:25:42.270-01:25:47.490 | DM] I've dueled all the best warriors who have come to {{Lord Sorven}}'s court.
 [u0792 | 01:25:49.416-01:25:51.270 | DM] Fine bladesmen!
 [u0793 | 01:25:54.800-01:25:57.360 | DM] Artful thieves!
 [u0794 | 01:25:58.020-01:25:59.869 | DM] Even once a giant.
@@ -892,7 +892,7 @@
 [u0892 | 01:36:04.820-01:36:09.460 | DM] A dwarf in Emberwine, unheard of.
 [u0893 | 01:36:13.130-01:36:14.929 | DM] Tell me, where did you come from?
 [u0894 | 01:36:16.230-01:36:17.400 | DM] I must know.
-[u0895 | 01:36:19.600-01:36:29.320 | Riswynn] There was a a tree in the desert [[wanted a space]], and
+[u0895 | 01:36:19.600-01:36:29.320 | Riswynn] There was a a tree in the desert {{wanted a space}}, and
 [u0896 | 01:36:29.480-01:36:32.469 | Riswynn] music calling to us from its roots.
 [u0897 | 01:36:35.240-01:36:36.120 | Riswynn] Seems the way it.
 [u0898 | 01:36:36.120-01:36:40.719 | DM] She opens her book. She sort of waves her fingers Bitterwine Oak. Yes.
@@ -968,7 +968,7 @@
 [u0968 | 01:42:23.330-01:42:28.910 | DM] you know, to my fans, to the fans over. Then he looks over, and he what was your name
 [u0969 | 01:42:29.140-01:42:30.170 | DM] to Delwath.
 [u0970 | 01:42:33.420-01:42:35.330 | DM] who presumably so have Delwath.
-[u0971 | 01:42:35.670-01:42:40.460 | DM] says to the fans of Delwath, [[We'll be here a good sport]].
+[u0971 | 01:42:35.670-01:42:40.460 | DM] says to the fans of Delwath, {{We'll be here a good sport}}.
 [u0972 | 01:42:40.460-01:42:41.600 | Wellby] And hollers, and.
 [u0973 | 01:42:41.600-01:42:44.200 | Delwath] I didn't realize I was muted. Sorry I said, Delwath.
 [u0974 | 01:42:44.200-01:42:44.609 | Riswynn] It was like.
@@ -993,7 +993,7 @@
 [u0993 | 01:44:32.440-01:44:33.640 | DM] That's fair.
 [u0994 | 01:44:41.550-01:44:47.250 | Delwath] and I'm saying the gods thing, I assume my non-spell magic is allowed.
 [u0995 | 01:44:48.940-01:44:50.310 | DM] Like Eldritch Smite.
-[u0996 | 01:44:51.020-01:45:07.309 | Delwath] Or just the fact that I can use my charisma or the [[curse of the can]]. Actually, when I say the gods thing, can that be? Can I like? Do a little blessing, giving him a little blessing, and have that actually mechanically be marking him with the hunter's mark?
+[u0996 | 01:44:51.020-01:45:07.309 | Delwath] Or just the fact that I can use my charisma or the {{curse of the can}}. Actually, when I say the gods thing, can that be? Can I like? Do a little blessing, giving him a little blessing, and have that actually mechanically be marking him with the hunter's mark?
 [u0997 | 01:45:07.820-01:45:08.610 | DM] Sure.
 [u0998 | 01:45:08.970-01:45:14.770 | Delwath] Okay I am. I am flipping up my spell if it's maximal damage.
 [u0999 | 01:45:15.110-01:45:20.449 | Delwath] Good luck, plus lots of moonlight is more is more cinematic.
@@ -1006,7 +1006,7 @@
 [u1006 | 01:46:04.750-01:46:07.759 | Delwath] that's my reaction as always.
 [u1007 | 01:46:08.630-01:46:12.549 | Delwath] Yeah. Okay, hold on. That may be hit. Just give me one second
 [u1008 | 01:46:18.360-01:46:21.770 | Delwath] that misses using.
-[u1009 | 01:46:22.330-01:46:26.750 | Delwath] So he hits, and then, using his [[olive shield]], he misses instead.
+[u1009 | 01:46:22.330-01:46:26.750 | Delwath] So he hits, and then, using his {{olive shield}}, he misses instead.
 [u1010 | 01:46:29.318-01:46:31.950 | DM] He looks! He sort of laughs at you.
 [u1011 | 01:46:33.320-01:46:38.579 | DM] A strong one as he swings again. That's a 20.
 [u1012 | 01:46:38.580-01:46:39.440 | Delwath] Misses.
@@ -1137,7 +1137,7 @@
 [u1137 | 01:55:57.700-01:56:14.199 | DM] Yeah. So he goes off to get some food. I'll be back. Give me after such a performance I must rest and and take some refreshment, and I wouldn't want to take up all of your time. Give you a chance to catch your breath and think of your next brilliant story.
 [u1138 | 01:56:14.780-01:56:17.040 | DM] please.
 [u1139 | 01:56:20.770-01:56:26.001 | DM] as he sort of drifts off a little bit, intending to come back relatively soon.
-[u1140 | 01:56:36.540-01:56:39.789 | Riswynn] [[Fish companion]] taking notes during Delwath’s story.
+[u1140 | 01:56:36.540-01:56:39.789 | Riswynn] {{Fish companion}} taking notes during Delwath’s story.
 [u1141 | 01:56:40.650-01:56:50.289 | DM] Yes, ashara is quite interested. You know, clearly interested in kind of sticking around for a little bit to hear all these tales.
 [u1142 | 01:56:50.770-01:56:55.330 | DM] Sorry, Ismara. She's so she's still there, and Valeris is still there.
 [u1143 | 01:56:55.765-01:57:03.144 | DM] And the all of you are. Are there kind of in a little corner on the sort of side of the party a little bit.
@@ -1176,7 +1176,7 @@
 [u1176 | 02:00:05.510-02:00:06.890 | DM] But there are.
 [u1177 | 02:00:10.870-02:00:18.820 | DM] Amberglow is not devoid of information, I mean, what do you seek to know about Amberglow? She sort of flips through her book again.
 [u1178 | 02:00:19.280-02:00:24.480 | DM] I mean just stories, tales, something in particular.
-[u1179 | 02:00:28.060-02:00:31.239 | Riswynn] [[Add]], was held in such great regard.
+[u1179 | 02:00:28.060-02:00:31.239 | Riswynn] {{Add}}, was held in such great regard.
 [u1180 | 02:00:31.550-02:00:41.030 | DM] Runs her fingers along one of the pages of her book, and sort of pulls pulls on the book a little bit.
 [u1181 | 02:00:41.619-02:00:47.069 | DM] The sort of almost like the ink kind of comes out in forms of sort of floating image above the page.
 [u1182 | 02:00:49.230-02:00:56.370 | DM] showing a flying like a cloud, a massive cloud. that’s got, you know.
@@ -1215,7 +1215,7 @@
 [u1215 | 02:04:53.740-02:04:57.319 | Delwath] No, I was playing the.
 [u1216 | 02:04:57.320-02:05:00.690 | DM] Wasn't there for that adventure, and Mike was playing.
 [u1217 | 02:05:01.530-02:05:02.140 | Wellby] Got it. Got it.
-[u1218 | 02:05:02.140-02:05:04.160 | DM] His [[Bay. Character]].
+[u1218 | 02:05:02.140-02:05:04.160 | DM] His {{Bay. Character}}.
 [u1219 | 02:05:04.160-02:05:05.389 | Delwath] The Drankor, Guy.
 [u1220 | 02:05:05.390-02:05:05.860 | DM] There!
 [u1221 | 02:05:05.860-02:05:11.400 | Delwath] There guarding the Agata and her imprisonment, and.
@@ -1231,7 +1231,7 @@
 [u1231 | 02:05:50.240-02:05:54.290 | Riswynn] Yeah, she she doesn't have to tell us the truth. So I'm a little nervous about her.
 [u1232 | 02:05:55.160-02:05:59.169 | Riswynn] I know we said we were done being paranoid, but.
 [u1233 | 02:06:02.520-02:06:08.559 | Delwath] I mean, I don't know, is there? I would say. We have our next destination, which is
-[u1234 | 02:06:10.260-02:06:17.729 | Delwath] [[Ember Light Falls]]. Is there anything more to find anything more to do. I mean, I guess we could talk to Count Vashan.
+[u1234 | 02:06:10.260-02:06:17.729 | Delwath] {{Ember Light Falls}}. Is there anything more to find anything more to do. I mean, I guess we could talk to Count Vashan.
 [u1235 | 02:06:21.330-02:06:28.630 | Riswynn] Yeah, I mean, I think we should talk to the one other person from Amberglow before we leave, or, yeah, Amberglow before we leave.
 [u1236 | 02:06:31.740-02:06:36.070 | Riswynn] Oh, I should ask her if she knows him if she's talked to him about Amberglow.
 [u1237 | 02:06:36.630-02:06:37.850 | Riswynn] That's what I do.
@@ -1250,7 +1250,7 @@
 [u1250 | 02:08:00.440-02:08:04.640 | DM] And of course there are fey who collect tales of your world.
 [u1251 | 02:08:06.750-02:08:11.229 | DM] I consider myself one of them.
 [u1252 | 02:08:12.820-02:08:21.109 | DM] There is much to learn about the strangeness of a place where everything is so changeable and yet
-[u1253 | 02:08:21.950-02:08:27.260 | DM] static at the same time, how must it be to live where [[it said]].
+[u1253 | 02:08:21.950-02:08:27.260 | DM] static at the same time, how must it be to live where {{it said}}.
 [u1254 | 02:08:27.260-02:08:27.810 | Kenzo] Book.
 [u1255 | 02:08:29.490-02:08:39.720 | DM] Night follows, day follows, night follows day, and yet things decay so quickly
 [u1256 | 02:08:41.630-02:08:46.210 | DM] and yet simply smiling, cannot make fruit blossom.
@@ -1274,8 +1274,8 @@
 [u1274 | 02:10:03.060-02:10:06.249 | DM] At least we'll travel as far as the Sunset Gate.
 [u1275 | 02:10:08.940-02:10:16.979 | DM] It is something I have not seen myself, and it is said to be quite a sight.
 [u1276 | 02:10:21.100-02:10:23.270 | DM] I dare not pass beyond.
-[u1277 | 02:10:28.000-02:10:30.510 | DM] perhaps, [[Dimmerstone]].
-[u1278 | 02:10:31.200-02:10:38.849 | DM] Yes, that is [[not as a place]] that might be interesting.
+[u1277 | 02:10:28.000-02:10:30.510 | DM] perhaps, {{Dimmerstone}}.
+[u1278 | 02:10:31.200-02:10:38.849 | DM] Yes, that is {{not as a place}} that might be interesting.
 [u1279 | 02:10:41.300-02:10:47.000 | Riswynn] There are gates from my world into Shimmersong. Right with that.
 [u1280 | 02:10:47.000-02:10:49.300 | DM] None that you know of.
 [u1281 | 02:10:49.300-02:10:51.109 | Riswynn] Oh, okay, I just heard of.
@@ -1293,7 +1293,7 @@
 [u1293 | 02:12:03.320-02:12:04.650 | DM] Yes, it is.
 [u1294 | 02:12:06.640-02:12:10.640 | DM] Yes, hard to travel sometimes these days.
 [u1295 | 02:12:11.160-02:12:19.299 | DM] There are a few of us who do it now used to be more, I'm told, anyway.
-[u1296 | 02:12:20.510-02:12:27.239 | Riswynn] We thought that Arendel might tell some tales of his travels. [[Evan Durr, Evan Dale]].
+[u1296 | 02:12:20.510-02:12:27.239 | Riswynn] We thought that Arendel might tell some tales of his travels. {{Evan Durr, Evan Dale}}.
 [u1297 | 02:12:27.240-02:12:27.810 | DM] Arendel.
 [u1298 | 02:12:27.810-02:12:28.340 | Riswynn] Kind of.
 [u1299 | 02:12:28.340-02:12:30.240 | DM] He doesn't travel.
@@ -1307,7 +1307,7 @@
 [u1307 | 02:13:25.120-02:13:27.430 | Riswynn] Does anybody else want to come with me and look for
 [u1308 | 02:13:28.950-02:13:31.220 | Riswynn] Riswynn will tell the others that I'm
 [u1309 | 02:13:31.450-02:13:33.939 | Riswynn] not necessarily gonna listen to Delwath, and
-[u1310 | 02:13:34.240-02:13:37.470 | Riswynn] [[you got my]] keep seeking for this guy, unless.
+[u1310 | 02:13:34.240-02:13:37.470 | Riswynn] {{you got my}} keep seeking for this guy, unless.
 [u1311 | 02:13:37.470-02:13:44.130 | DM] I mean, you've got a little bit of time. If, like Arendel went to basically go, have some wine and take a nap. So.
 [u1312 | 02:13:44.130-02:13:44.990 | Delwath] Well, Delwath will go.
 [u1313 | 02:13:44.990-02:13:45.309 | DM] Got it.
@@ -1345,13 +1345,13 @@
 [u1345 | 02:16:56.110-02:16:58.539 | DM] but now I'd have to follow up with
 [u1346 | 02:16:58.730-02:17:08.760 | DM] one of them. One of the least interesting of them, or something like that, which I assume is what you're thinking about me. But actually, if you stop to think about it.
 [u1347 | 02:17:09.190-02:17:11.040 | DM] I'm pretty interesting.
-[u1348 | 02:17:12.219-02:17:16.990 | DM] I think you have a how often do you [[yourself, Bay?]] cursed people.
+[u1348 | 02:17:12.219-02:17:16.990 | DM] I think you have a how often do you {{yourself, Bay?}} cursed people.
 [u1349 | 02:17:18.326-02:17:19.479 | Wellby] That's good.
 [u1350 | 02:17:19.700-02:17:21.730 | Wellby] Yeah, it's unusual.
 [u1351 | 02:17:23.010-02:17:24.280 | DM] Different. Right?
 [u1352 | 02:17:24.660-02:17:25.410 | Wellby] Yeah.
 [u1353 | 02:17:25.879-02:17:30.519 | DM] Go! Go! Go! I'll be here when you wanna leave. Where else am I? Gonna go.
-[u1354 | 02:17:32.309-02:17:36.399 | Wellby] Alright. I'll go circle back to find the rest of you and [[some of this exercise]].
+[u1354 | 02:17:32.309-02:17:36.399 | Wellby] Alright. I'll go circle back to find the rest of you and {{some of this exercise}}.
 [u1355 | 02:17:36.400-02:17:37.370 | DM] So it's I mean.
 [u1356 | 02:17:37.379-02:17:38.179 | Wellby] I'll be back in a minute.
 [u1357 | 02:17:38.180-02:17:41.429 | DM] Not that hard once you know what you're looking for to find.
@@ -1411,7 +1411,7 @@
 [u1411 | 02:23:52.870-02:23:56.289 | Delwath] freed from a prison, but still trapped.
 [u1412 | 02:24:01.260-02:24:03.769 | DM] And what concern of this is yours?
 [u1413 | 02:24:05.730-02:24:06.110 | Delwath] I freed.
-[u1414 | 02:24:06.110-02:24:10.149 | DM] [[I'm meddling the bay]]. You freed her.
+[u1414 | 02:24:06.110-02:24:10.149 | DM] {{I'm meddling the bay}}. You freed her.
 [u1415 | 02:24:10.560-02:24:15.029 | Delwath] I'll have you not heard the stories? Well, no, I haven't told that one yet.
 [u1416 | 02:24:15.597-02:24:20.510 | Delwath] I'll gesture to point sort of to my companions with help. Of course.
 [u1417 | 02:24:25.440-02:24:26.590 | DM] He kind of.
@@ -1420,7 +1420,7 @@
 [u1420 | 02:24:42.720-02:24:53.430 | Delwath] I thought, perhaps you still wish to serve her.
 [u1421 | 02:24:58.630-02:25:02.690 | Delwath] I'm mistaken my apologies.
 [u1422 | 02:25:02.840-02:25:09.629 | Delwath] We will leave you to your misery.
-[u1423 | 02:25:09.630-02:25:19.390 | DM] He sort of sighs. [[Do you not think]] she would want my service?
+[u1423 | 02:25:09.630-02:25:19.390 | DM] He sort of sighs. {{Do you not think}} she would want my service?
 [u1424 | 02:25:19.720-02:25:21.529 | DM] Flick some other grape.
 [u1425 | 02:25:30.110-02:25:35.080 | Delwath] And why is that? May I ask?
 [u1426 | 02:25:36.060-02:25:42.969 | Delwath] Any great sin of the past can be redeemed great deeds of the now.
@@ -1489,7 +1489,7 @@
 [u1489 | 02:30:20.610-02:30:29.719 | Wellby] How would he have died like what he must have been dead? What does that mean? How do you know that.
 [u1490 | 02:30:29.720-02:30:40.659 | DM] Well, I just assumed I mean
 [u1491 | 02:30:42.050-02:30:45.420 | DM] there were so few of us who stayed. Why would he have?
-[u1492 | 02:30:47.450-02:30:56.210 | DM] I didn't. I never thought he would have fled [[just from the engine]].
+[u1492 | 02:30:47.450-02:30:56.210 | DM] I didn't. I never thought he would have fled {{just from the engine}}.
 [u1493 | 02:30:56.210-02:31:05.640 | Wellby] Do we have some way like to remove that magically, or like monkly, like the wine makes the people here forget
 [u1494 | 02:31:05.810-02:31:12.289 | Wellby] like? Is there a way for us to remove that effect, and maybe try to unlock that memory for him.
 [u1495 | 02:31:13.450-02:31:20.920 | Delwath] I don't think it's the wine it does. Do you know.
@@ -1628,13 +1628,13 @@
 [u1628 | 02:42:15.570-02:42:17.249 | DM] He slumps down.
 [u1629 | 02:42:17.790-02:42:19.400 | Wellby] I close it back, up again.
 [u1630 | 02:42:20.280-02:42:22.470 | DM] I can't. I can't.
-[u1631 | 02:42:25.610-02:42:30.440 | DM] Whatever you're doing isn't gonna last long. Anyway, [[we need to find]]
+[u1631 | 02:42:25.610-02:42:30.440 | DM] Whatever you're doing isn't gonna last long. Anyway, {{we need to find}}
 [u1632 | 02:42:30.440-02:42:33.029 | DM] use to you. I'm of no use to anybody.
 [u1633 | 02:42:35.130-02:42:37.840 | Wellby] How do we find the Prismwell, to free her.
 [u1634 | 02:42:48.090-02:42:55.680 | Delwath] Any hints that you could give us any thoughts, any recollections, anything.
 [u1635 | 02:43:00.650-02:43:05.799 | Wellby] We want to be able to tell her how it was your doing that made it possible for her to be free.
 [u1636 | 02:43:09.820-02:43:10.270 | Delwath] And.
-[u1637 | 02:43:10.270-02:43:11.270 | DM] [[I'll lose to]].
+[u1637 | 02:43:10.270-02:43:11.270 | DM] {{I'll lose to}}.
 [u1638 | 02:43:13.050-02:43:13.870 | Delwath] No go ahead!
 [u1639 | 02:43:14.060-02:43:22.590 | DM] Keeps all of her outposts along the Sunset Gate.
 [u1640 | 02:43:25.390-02:43:28.340 | DM] Yeah, they had Amberlights, but it was more.
@@ -1648,7 +1648,7 @@
 [u1648 | 02:44:36.310-02:44:37.680 | DM] could lead you there.
 [u1649 | 02:44:39.300-02:44:41.999 | DM] It was always, she said. It was
 [u1650 | 02:44:47.240-02:44:49.390 | DM] at last need.
-[u1651 | 02:44:51.400-02:45:07.279 | DM] If the Sunset Gate, if the any of the keeps on the eastern border [[fell needed her]].
+[u1651 | 02:44:51.400-02:45:07.279 | DM] If the Sunset Gate, if the any of the keeps on the eastern border {{fell needed her}}.
 [u1652 | 02:45:09.080-02:45:17.460 | DM] They could use this to summon her power from the Prismwell itself.
 [u1653 | 02:45:22.720-02:45:26.780 | DM] But I don't think any of the keeps survive.
 [u1654 | 02:45:31.330-02:45:32.529 | DM] You could look.
@@ -1684,7 +1684,7 @@
 [u1684 | 02:48:34.480-02:48:38.440 | Delwath] Does does Emberwine, border the Sunset Gate.
 [u1685 | 02:48:39.230-02:48:40.230 | DM] Yeah.
 [u1686 | 02:48:44.000-02:48:45.459 | DM] Just go east.
-[u1687 | 02:48:45.900-02:48:47.750 | Delwath] [[All went north]] from here.
+[u1687 | 02:48:45.900-02:48:47.750 | Delwath] {{All went north}} from here.
 [u1688 | 02:48:52.750-02:48:53.660 | DM] You could.
 [u1689 | 02:49:07.540-02:49:11.999 | Delwath] I don't have anything else to ask him.
 [u1690 | 02:49:12.000-02:49:20.020 | DM] Tell that he's slowly fading. His, you know, his.
@@ -1771,9 +1771,9 @@
 [u1771 | 02:56:39.570-02:56:44.869 | Delwath] Can't leave yet, because Delwath’s stuck and then beg
 [u1772 | 02:56:45.430-02:56:48.749 | Delwath] mount transport. We need a way to move faster.
 [u1773 | 02:56:48.750-02:56:49.510 | Riswynn] Yeah.
-[u1774 | 02:56:49.510-02:56:52.250 | Delwath] Right. I want to ask [[Lord Sorven]]
+[u1774 | 02:56:49.510-02:56:52.250 | Delwath] Right. I want to ask {{Lord Sorven}}
 [u1775 | 02:56:53.720-02:56:58.379 | Delwath] if he can spare. I don't know. Flying horses would be great.
-[u1776 | 02:57:02.390-02:57:07.500 | Riswynn] Really big grapes that [[weren't juiced]] out of one end and create hydropower.
+[u1776 | 02:57:02.390-02:57:07.500 | Riswynn] Really big grapes that {{weren't juiced}} out of one end and create hydropower.
 [u1777 | 02:57:07.500-02:57:12.180 | Delwath] I mean, Lirien had like a flying golden stag, right like I mean.
 [u1778 | 02:57:12.180-02:57:12.720 | Wellby] Do we.
 [u1779 | 02:57:12.720-02:57:15.999 | Delwath] If not, at least something that's a little faster than.
@@ -1806,10 +1806,10 @@
 [u1806 | 02:58:30.590-02:58:33.060 | Wellby] I'm your future problems.
 [u1807 | 02:58:33.060-02:58:35.472 | DM] And you have
 [u1808 | 02:58:38.080-02:58:38.640 | Delwath] Homecoming.
-[u1809 | 02:58:38.640-02:58:43.419 | DM] Mage, [[when you gotta have got an]] Ursk, an Urskan mage.
+[u1809 | 02:58:38.640-02:58:43.419 | DM] Mage, {{when you gotta have got an}} Ursk, an Urskan mage.
 [u1810 | 02:58:43.420-02:58:45.200 | Delwath] Wait. We have an Urskan mage.
 [u1811 | 02:58:45.200-02:58:45.610 | DM] Yeah.
-[u1812 | 02:58:46.130-02:58:47.110 | Wellby] Who's the [[earth]]?
+[u1812 | 02:58:46.130-02:58:47.110 | Wellby] Who's the {{earth}}?
 [u1813 | 02:58:47.110-02:58:48.699 | Delwath] Who's the Urskan mage.
 [u1814 | 02:58:48.700-02:58:52.410 | DM] A Kinzal, mage and messenger trapped right right right in 96.
 [u1815 | 02:58:52.410-02:58:55.829 | Delwath] Right? Right? Right? Right? Right? When we were when we were
@@ -1841,7 +1841,7 @@
 [u1841 | 03:00:40.520-03:00:47.020 | Wellby] This would be a this would be a a chill party for them.
 [u1842 | 03:00:47.020-03:00:49.869 | Riswynn] Yeah, well, you do. Wellby.
 [u1843 | 03:00:50.330-03:01:00.970 | DM] Wyverns are only large, so they could at best carry, you know Wellby, and 2 Dwarves, or Wellby, and one other person.
-[u1844 | 03:01:00.970-03:01:04.520 | Delwath] Yeah, we need other mounts. I'm still gonna ask [[Lord Sorven]] for a mount. But.
+[u1844 | 03:01:00.970-03:01:04.520 | Delwath] Yeah, we need other mounts. I'm still gonna ask {{Lord Sorven}} for a mount. But.
 [u1845 | 03:01:04.520-03:01:05.090 | DM] Okay.
 [u1846 | 03:01:05.660-03:01:11.080 | Delwath] Or several like when there's.
 [u1847 | 03:01:11.080-03:01:11.410 | DM] Okay.
@@ -1882,7 +1882,7 @@
 [u1882 | 03:04:41.380-03:04:50.150 | DM] scholar from Gleamwater would turn out to be a spy from Hollowdark, or something like that.
 [u1883 | 03:04:53.675-03:04:55.630 | Kenzo] I can also sense the truth.
 [u1884 | 03:04:56.170-03:04:57.270 | DM] Oh, yeah.
-[u1885 | 03:04:58.410-03:05:04.739 | DM] from your [[beast. My initiation]]. Yeah. I mean, certainly telling the truth about where she comes from. Right? Like
+[u1885 | 03:04:58.410-03:05:04.739 | DM] from your {{beast. My initiation}}. Yeah. I mean, certainly telling the truth about where she comes from. Right? Like
 [u1886 | 03:05:05.170-03:05:06.950 | DM] this story.
 [u1887 | 03:05:06.950-03:05:12.090 | Kenzo] I can tell exactly which parts were embellished or false in anything she's talking about. So what's the.
 [u1888 | 03:05:12.370-03:05:17.139 | DM] She's pretty. She's pretty straight, actually she doesn't. She doesn't embellish much. She's
@@ -1898,7 +1898,7 @@
 [u1898 | 03:06:11.220-03:06:13.220 | DM] Okay, so
 [u1899 | 03:06:19.130-03:06:24.399 | DM] okay, so what do we? What do we still want to do? I want to end the session when you leave the party.
 [u1900 | 03:06:27.060-03:06:28.030 | Delwath] I think
-[u1901 | 03:06:28.530-03:06:34.100 | Delwath] the only thing I still have to do I still want to do is just resolve that conversation with [[Lord Sorven]].
+[u1901 | 03:06:28.530-03:06:34.100 | Delwath] the only thing I still have to do I still want to do is just resolve that conversation with {{Lord Sorven}}.
 [u1902 | 03:06:35.320-03:06:38.720 | DM] What do you wanna are you gonna try and convince
 [u1903 | 03:06:39.490-03:06:43.760 | DM] Valeris, the satyr to come? Are you going to invite Ismara to come?
 [u1904 | 03:06:45.060-03:06:47.440 | DM] You want both of them traveling with you.
@@ -1950,14 +1950,14 @@
 [u1950 | 03:11:02.670-03:11:05.549 | DM] get to the Sunset Gate.
 [u1951 | 03:11:08.650-03:11:12.119 | DM] Although again you know distance.
 [u1952 | 03:11:13.960-03:11:18.480 | DM] distance in the Feywild. It's strange, right? But yes, mounts would be useful.
-[u1953 | 03:11:23.820-03:11:26.909 | DM] So you talk to [[Lord Sorven]].
+[u1953 | 03:11:23.820-03:11:26.909 | DM] So you talk to {{Lord Sorven}}.
 [u1954 | 03:11:28.890-03:11:32.930 | DM] He, you know he's.
 [u1955 | 03:11:37.530-03:11:44.670 | DM] you know. He doesn't say it's a terrible idea, he, you know. He says you came close to beating Arendel, which you have done.
 [u1956 | 03:11:45.210-03:11:50.559 | DM] You know you're quite skilled, and you know he's looking over it.
 [u1957 | 03:11:50.840-03:11:58.640 | DM] Wellby's succeeded or failed. Attempt to train a wyvern, and we'll find out in a moment. But either way it was impressive.
 [u1958 | 03:11:58.870-03:11:59.270 | Delwath] Right.
 [u1959 | 03:12:03.650-03:12:09.800 | DM] and then he looks over at at Riswynn, and you carry
-[u1960 | 03:12:10.930-03:12:19.610 | DM] quite a lot of power with you, so [[I doubt]]
+[u1960 | 03:12:10.930-03:12:19.610 | DM] quite a lot of power with you, so {{I doubt}}
 [u1961 | 03:12:20.130-03:12:22.890 | DM] you are more prepared for such a journey than
 [u1962 | 03:12:23.310-03:12:26.600 | DM] most others who have ever passed through my court.
 [u1963 | 03:12:28.920-03:12:32.089 | DM] Tis not to say it will be simple or easy.
@@ -1977,12 +1977,12 @@
 [u1977 | 03:13:30.410-03:13:38.370 | Wellby] We got animal telepathy, too, so I can be talking with this animal as as well as trying to train it.
 [u1978 | 03:13:38.720-03:13:44.370 | Kenzo] Oh, and Schwartz, or Wellby. Kenzo is also there, but just to watch.
 [u1979 | 03:13:45.150-03:13:47.400 | Wellby] That's not not gonna help just.
-[u1980 | 03:13:47.400-03:13:48.789 | Kenzo] [[Bring it all of this through state one]].
+[u1980 | 03:13:47.400-03:13:48.789 | Kenzo] {{Bring it all of this through state one}}.
 [u1981 | 03:13:48.970-03:13:56.019 | Wellby] I can. You do like some, like some monkish, like calming the spirit of the animal.
 [u1982 | 03:13:56.020-03:13:58.520 | Kenzo] Maybe. Yeah, I could potentially do that. But I'm not going to.
 [u1983 | 03:13:58.520-03:14:01.199 | Delwath] It would take away from Wellby's journey.
 [u1984 | 03:14:01.780-03:14:02.530 | Wellby] I think.
-[u1985 | 03:14:02.530-03:14:06.880 | Riswynn] [[Will there be any savings, though, did I? Less]] Wellby.
+[u1985 | 03:14:02.530-03:14:06.880 | Riswynn] {{Will there be any savings, though, did I? Less}} Wellby.
 [u1986 | 03:14:07.180-03:14:11.660 | Wellby] It's really this is like a gift to me not to not to involve yourself.
 [u1987 | 03:14:11.660-03:14:15.430 | Delwath] It. It really is. Yeah, like, I mean, we wouldn't want to.
 [u1988 | 03:14:15.450-03:14:22.819 | Kenzo] If things go really off the rails. Kenzo's there, but he's there primarily for entertainment, secondarily, to be of use.
@@ -2047,7 +2047,7 @@
 [u2047 | 03:20:09.250-03:20:12.940 | DM] and while it's distracted you manage to sneak up and
 [u2048 | 03:20:13.410-03:20:17.649 | DM] grab its neck and pull yourself up, and it bucks.
 [u2049 | 03:20:18.470-03:20:22.610 | DM] tries to throw you off. Make a dexterity, saving, throw.
-[u2050 | 03:20:25.680-03:20:28.400 | Wellby] [[Eric said, what]] 28.
+[u2050 | 03:20:25.680-03:20:28.400 | Wellby] {{Eric said, what}} 28.
 [u2051 | 03:20:29.050-03:20:32.270 | DM] Hold on for a couple of minutes.
 [u2052 | 03:20:32.570-03:20:43.029 | DM] as it realizes, and then slowly begins to calm down, and everybody looks and sees this tiny halfling
 [u2053 | 03:20:43.240-03:20:48.399 | DM] on the neck of a 15 foot long, Wyvern, with a 20 foot wingspan.
@@ -2089,7 +2089,7 @@
 [u2089 | 03:23:52.710-03:23:54.520 | Wellby] One thing that needed doing.
 [u2090 | 03:23:54.520-03:23:57.680 | Kenzo] We've had a pretty packed calendar. You make a good point.
 [u2091 | 03:23:57.880-03:24:04.030 | Kenzo] Good point. It's been pretty relentless Orcs undead liches.
-[u2092 | 03:24:04.750-03:24:06.589 | Kenzo] A lot of things on the [[on the computer]].
+[u2092 | 03:24:04.750-03:24:06.589 | Kenzo] A lot of things on the {{on the computer}}.
 [u2093 | 03:24:06.590-03:24:07.240 | Delwath] Yeah.
 [u2094 | 03:24:07.470-03:24:09.789 | Wellby] Artifacts of unimaginable power.
 [u2095 | 03:24:09.990-03:24:11.879 | Wellby] Hidden islands. Yeah.
@@ -2159,15 +2159,15 @@
 [u2159 | 03:28:55.670-03:29:03.540 | Delwath] Last story Delwath tells is going to be an epic tale of Wellby taming a Wyvern.
 [u2160 | 03:29:04.180-03:29:04.820 | Riswynn] But.
 [u2161 | 03:29:07.080-03:29:20.260 | DM] You leave Sunwine Hall Wellby and Kenzo mounted on a wyvern the rest of you on
-[u2162 | 03:29:21.160-03:29:35.600 | DM] griffins lent by grace of [[Lord Sorven]]
+[u2162 | 03:29:21.160-03:29:35.600 | DM] griffins lent by grace of {{Lord Sorven}}
 [u2163 | 03:29:36.617-03:29:52.370 | DM] and up to them, if they want to follow you beyond the borders of Emberwine, but they are charged by
-[u2164 | 03:29:52.610-03:30:05.899 | DM] [[Lord Sorven]] to fly at least as far as the edge of his realm bearing you. They are. So I mean, Griffin's
+[u2164 | 03:29:52.610-03:30:05.899 | DM] {{Lord Sorven}} to fly at least as far as the edge of his realm bearing you. They are. So I mean, Griffin's
 [u2165 | 03:30:10.750-03:30:12.209 | DM] just double check.
 [u2166 | 03:30:16.390-03:30:44.219 | DM] they're not particularly bigger than horses. So it's basically one per person and while I describe these as griffins, they're sort of not typical of the way you might, people typically imagine griffins right? I mean, they're griffins, are people, you know, griffins are not uncommon on the material plane like.
 [u2167 | 03:30:44.460-03:31:08.510 | DM] and they're not necessarily fey creatures right like they're these these, though, are, you know, perhaps slightly more intelligent than the average griffin. Not pure beasts. They've got like a, you know, maybe on the same level as the Wyvern. Right? And they are
-[u2168 | 03:31:08.760-03:31:33.768 | DM] rather than you know. Normally you think of a [[Wyvern]] as something like a cross between an eagle and a lion or something like this, but these are, they guess, like a bird of paradise, or a peacock, or something like that? Right? They have long streaming feathers.
+[u2168 | 03:31:08.760-03:31:33.768 | DM] rather than you know. Normally you think of a {{Wyvern}} as something like a cross between an eagle and a lion or something like this, but these are, they guess, like a bird of paradise, or a peacock, or something like that? Right? They have long streaming feathers.
 [u2169 | 03:31:34.430-03:31:41.310 | DM] yeah, multicolored. You know, patterns in there.
-[u2170 | 03:31:42.000-03:31:54.890 | DM] in their in their wings and their feathers much more ornamented than you would typically think of a [[Wyvern]] as being right like they're almost like.
+[u2170 | 03:31:42.000-03:31:54.890 | DM] in their in their wings and their feathers much more ornamented than you would typically think of a {{Wyvern}} as being right like they're almost like.
 [u2171 | 03:31:54.890-03:31:56.450 | Riswynn] Pretty griffins.
 [u2172 | 03:31:57.530-03:32:06.820 | DM] Yeah, they're pretty, and they're sort of less fearsome looking, maybe. Although still have. You know, the the
 [u2173 | 03:32:11.599-03:32:33.380 | DM] the sort of lower body of a big cat and the sort of claws. But again, it's like, you know, a tiger, not a lion, right? It's like patterned or leopards like spots, and patterned fur, much more sort of colorful and pretty, and lots of sort of reds and golds and greens in their in their color pattern.
@@ -2177,5 +2177,5 @@
 [u2177 | 03:32:57.440-03:33:07.660 | DM] and 5 of these colorful griffins flying after with Riswynn, Seeker, Delwath, Valeris of
 [u2178 | 03:33:07.840-03:33:19.790 | DM] Emberwine and Ismara of Gleamwater, and we will pick up on the journey to Amberglow. Next time.
 [u2179 | 03:33:22.110-03:33:22.760 | Wellby] We'll see.
-[u2180 | 03:33:22.760-03:33:24.539 | Kenzo] What's our next [[merge thing]]?
+[u2180 | 03:33:22.760-03:33:24.539 | Kenzo] What's our next {{merge thing}}?
 [u2181 | 03:33:24.540-03:33:25.510 | DM] Yeah, so let's.

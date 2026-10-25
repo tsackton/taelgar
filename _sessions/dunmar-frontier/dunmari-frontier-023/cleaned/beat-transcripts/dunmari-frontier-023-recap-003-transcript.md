@@ -272,7 +272,7 @@ Kenzo: I mean.
 Seeker: Oh, did Rai switch sides? Oh.
 
 %% u1193 %%
-Kenzo: Maybe Rai's—[[to about history month army]].
+Kenzo: Maybe Rai's—{{to about history month army}}.
 
 %% u1194 %%
 Delwath: Arrogant enough to think they could succeed when, in fact, maybe they couldn't.
@@ -797,7 +797,7 @@ Unknown: Exactly.
 DM: Okay, make it.
 
 %% u1659-u1663 %%
-Kenzo: Okay, how—is it that [[tender line]]? Yes! Yes! Detail, HD.
+Kenzo: Okay, how—is it that {{tender line}}? Yes! Yes! Detail, HD.
 
 %% u1664 %%
 Unknown: Yeah.
@@ -890,7 +890,7 @@ Seeker: I mean, we have basically part of Rai. That's almost as good. We're powe
 Wellby: But it'd be interesting to—
 
 %% u1764-u1766 %%
-Seeker: See. Here, it's beautiful in [[Samir]]. Hall of Stories.
+Seeker: See. Here, it's beautiful in {{Samir}}. Hall of Stories.
 
 %% u1767 %%
 Kenzo: Okay, all right. So when Kenzo took the piece of jade and put it in front of the mirror—remember? Because the mirror—
@@ -1139,7 +1139,7 @@ Kenzo: By the way, whenever we get back to Karawa, Kenzo definitely needs to do 
 Delwath: Any chance your parents were Mystai of Bhishma?
 
 %% u1884-u1885 %%
-Kenzo: Fucking possible. That'd be interesting to know. They're probably, though, [[and for a property]].
+Kenzo: Fucking possible. That'd be interesting to know. They're probably, though, {{and for a property}}.
 
 %% u1886 %%
 DM: Kenzo is actually a clone of Rai.
@@ -1361,7 +1361,7 @@ Seeker: Right, there's a portal, a tether somewhere else, or maybe it's the same
 Delwath: Well, the—how the traditional demons and devils work, I don't really know. Delwath would probably know.
 
 %% u2006-u2015 %%
-Kenzo: Okay, look. When Kenzo first met Candrosa, he experienced a crazy dream, where Candrosa was having a recurring dream of the jade hand reaching out to him with a gash. So Kenzo, in the dream, puts the piece of jade in and fills the gash, and then gets pulled into the dream world. Hold on, let me read you this thing. "As you place your shard of jade in the gash, the hand feels warm to the touch, almost like a person. Grasping the hand, you feel yourself pulled through a vortex. You see a brief glimpse of a vast formless expanse filled with pulsing, flashing, multicolored and vibrantly alive, [[when some color drifting Costa space in the possible ways]]." I think it's transporting through that plane of—something. "Standing before you is a man, robed and hooded and holding a staff in one hand. His other hand, and seemingly all his arm, is made of jade. He looks at you for a long moment, then in a movement so quick it seems like teleportation—" Oh yeah, Rai could teleport, right? Yep, fuck.
+Kenzo: Okay, look. When Kenzo first met Candrosa, he experienced a crazy dream, where Candrosa was having a recurring dream of the jade hand reaching out to him with a gash. So Kenzo, in the dream, puts the piece of jade in and fills the gash, and then gets pulled into the dream world. Hold on, let me read you this thing. "As you place your shard of jade in the gash, the hand feels warm to the touch, almost like a person. Grasping the hand, you feel yourself pulled through a vortex. You see a brief glimpse of a vast formless expanse filled with pulsing, flashing, multicolored and vibrantly alive, {{when some color drifting Costa space in the possible ways}}." I think it's transporting through that plane of—something. "Standing before you is a man, robed and hooded and holding a staff in one hand. His other hand, and seemingly all his arm, is made of jade. He looks at you for a long moment, then in a movement so quick it seems like teleportation—" Oh yeah, Rai could teleport, right? Yep, fuck.
 
 %% u2016 %%
 Delwath: I mean, he could—
@@ -1403,7 +1403,7 @@ Delwath: Well, they're not above a little opportunistic looting, right? I mean, 
 Seeker: Okay.
 
 %% u2031-u2032 %%
-Unknown: Well, these are—[[are cheap]].
+Unknown: Well, these are—{{are cheap}}.
 
 %% u2033 %%
 Kenzo: We're so close to figuring out what we think we need to do.

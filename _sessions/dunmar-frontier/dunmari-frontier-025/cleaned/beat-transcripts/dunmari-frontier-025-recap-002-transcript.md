@@ -140,7 +140,7 @@ Kenzo: Out there. Yeah, actually, we could go there. In fact, we should go there
 Seeker: Like…
 
 %% u0340 %%
-Kenzo: [[A man and dudes]] and all that stuff. They’ll know who those people are, and maybe—
+Kenzo: {{A man and dudes}} and all that stuff. They’ll know who those people are, and maybe—
 
 %% u0341 %%
 Delwath: Plug in some holes and gaps. We could go to the oasis and then back to the stone house.
@@ -161,7 +161,7 @@ Delwath: If they’re still there, yeah. I agree. I think we owe Havdar a warnin
 Wellby: Also that there are…
 
 %% u0351-u0352 %%
-Delwath: Also that there are Kharsan orcs, and that Grash the evil—yeah, with a [[grave can]].
+Delwath: Also that there are Kharsan orcs, and that Grash the evil—yeah, with a {{grave can}}.
 
 %% u0353 %%
 Kenzo: Battle information.
@@ -170,7 +170,7 @@ Kenzo: Battle information.
 Unknown: Yeah.
 
 %% u0355-u0356 %%
-Seeker: I know how to… [[lead]].
+Seeker: I know how to… {{lead}}.
 
 %% u0357 %%
 DM: I’m sorry, go ahead.
@@ -209,7 +209,7 @@ Kenzo: Could we send a message to Rai?
 DM: You could try.
 
 %% u0370 %%
-Kenzo: [[Patients]] for sending a message…
+Kenzo: {{Patients}} for sending a message…
 
 %% u0371 %%
 DM: Just needs to be somebody that you have seen.
@@ -284,7 +284,7 @@ Unknown: Just out of interest.
 Kenzo: Out of interest? But does that mean you—
 
 %% u0411-u0415 %%
-DM: No, Wellby’s good at this. Just to see if you get lost and twisted around. [[Inside a straight course]], riding across the desert, managing to cover maybe fifteen, twenty miles in the rest of this day. Covering maybe about—what is it, like fifty, seventy-five miles? So you probably have basically two days’ riding, a day and a half, two days from now, and you’ve got about a day and a half of water left at this point.
+DM: No, Wellby’s good at this. Just to see if you get lost and twisted around. {{Inside a straight course}}, riding across the desert, managing to cover maybe fifteen, twenty miles in the rest of this day. Covering maybe about—what is it, like fifty, seventy-five miles? So you probably have basically two days’ riding, a day and a half, two days from now, and you’ve got about a day and a half of water left at this point.
 
 %% u0416-u0419 %%
 DM: So you’re riding fast and just trying to make all speed. You don’t have a good sense of whether anything’s behind you. I’m assuming you occasionally take a look around and see, but you don’t particularly notice anything. There’s nobody riding fast after you. Whether there’s someone moving more slowly and trying to track you, you can’t easily tell.
@@ -311,7 +311,7 @@ Kenzo: That would probably be wise.
 Seeker: Or, I wonder… I saw Grash pretty clearly send some shadows off to find us and suck our souls out of our heads or something. I wonder if those were the same kinds of things that we saw in the temple at the monastery.
 
 %% u0436-u0437 %%
-Kenzo: Possibly. Exactly what I was wondering. But the ones in the monastery were not too strong. I think we could have defeated those [[files]].
+Kenzo: Possibly. Exactly what I was wondering. But the ones in the monastery were not too strong. I think we could have defeated those {{files}}.
 
 %% u0438 %%
 Seeker: But how do you even hit them? Yeah.
@@ -338,7 +338,7 @@ Seeker: I mean, jumping is so…
 DM: I mean, the Ring of Jumping is pretty awesome on a monk, because if you use one ki, you can jump like forty feet straight into the air.
 
 %% u0451 %%
-Kenzo: [[Then the cause you think]].
+Kenzo: {{Then the cause you think}}.
 
 %% u0452 %%
 Seeker: You should land on your opponent.
@@ -356,7 +356,7 @@ Wellby: If we put ourselves inside a box overnight?
 Seeker: Like an earthen… I don’t know that much would stop those things.
 
 %% u0462-u0465 %%
-Delwath: [[I think sealed ourselves in]]… We set up our drift globes in the perimeter as best we can, ideally around those of us who are asleep as much as possible.
+Delwath: {{I think sealed ourselves in}}… We set up our drift globes in the perimeter as best we can, ideally around those of us who are asleep as much as possible.
 
 %% u0466 %%
 Wellby: Give away our position to anything within miles and miles and miles and miles.
@@ -380,7 +380,7 @@ Seeker: I didn’t know that.
 DM: So if you have pretty jewels, you need light to actually see the colors.
 
 %% u0480 %%
-Seeker: [[Ethical]].
+Seeker: {{Ethical}}.
 
 %% u0481-u0482 %%
 Delwath: Are we more worried about the orcs finding us or the shadows? Pick your poison.
@@ -407,7 +407,7 @@ DM: Set in camp.
 Seeker: We just know so little about these things that may or may not be chasing us. We don’t know how fast they can travel, but presumably, if the orcs knew which direction we’re going, these things will as well.
 
 %% u0494-u0495 %%
-Delwath: Would it be a fair guess that we’ve outrun the orcs? I mean, based on everything, say, Delwath knows about traditional orcish military tactics, do they have rapid scouts? How likely is it that they have a hunting party that can move as fast as us galloping [[over them]]?
+Delwath: Would it be a fair guess that we’ve outrun the orcs? I mean, based on everything, say, Delwath knows about traditional orcish military tactics, do they have rapid scouts? How likely is it that they have a hunting party that can move as fast as us galloping {{over them}}?
 
 %% u0496-u0500 %%
 DM: That’s very unlikely, especially with the benefit of being able to move people around mounts and pushing all day. They’re not disciplined like hobgoblins. They wouldn’t likely have… Although the one thing that gives you pause is that these are clearly…
@@ -569,7 +569,7 @@ Wellby: I’m last.
 Seeker: I’ll take the first one.
 
 %% u0591-u0592 %%
-Kenzo: [[Ever. Fellow who possible]].
+Kenzo: {{Ever. Fellow who possible}}.
 
 %% u0593-u0594 %%
 Delwath: I can in the middle of the night. I mean, Delwath watches for half the night, since I don’t really sleep. I’d rather be first or last, actually, so that I get a nice chunk of my four-hour meditation. I need my beauty meditation. I don’t want to split it up.
@@ -587,7 +587,7 @@ Delwath: Yeah, we can forgive Kenzo. He doesn’t need to take a watch.
 Seeker: Yeah, you can…
 
 %% u0599 %%
-Delwath: [[Love them]].
+Delwath: {{Love them}}.
 
 %% u0600 %%
 DM: Okay, so let’s see. I need—
@@ -767,7 +767,7 @@ DM: After about ten minutes, five minutes of this conversation, you’re just no
 Seeker: That’s fantastic. Somebody feed this bird a treat. Who’s got something delicious for it? Who’s got treats?
 
 %% u0727 %%
-DM: [[That play out food]].
+DM: {{That play out food}}.
 
 %% u0728 %%
 Delwath: I’ll feed it some treats.

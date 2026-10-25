@@ -41,7 +41,7 @@ Delwath: Is this a human?
 DM: Ah…
 
 %% u2530 %%
-Delwath: You mean, [[ask]]—
+Delwath: You mean, {{ask}}—
 
 %% u2531 %%
 Seeker: You then.
@@ -122,7 +122,7 @@ Seeker: Not carrying anything. And they look just like a normal adult human?
 DM: Yep, sort of nondescript features.
 
 %% u2573 %%
-Kenzo: Society, man. [[Mr]].
+Kenzo: Society, man. {{Mr}}.
 
 %% u2574 %%
 Riswynn: Boxes and barrel, anything on this?
@@ -236,7 +236,7 @@ Kenzo: Yeah, says the DM. Vola, I just wanted to call it. Should we kill this gu
 Delwath: Yeah, that's.
 
 %% u2633-u2635 %%
-Kenzo: [[That old saying]]. Oh, yeah. Oh, Tim the DM. I was like, this is the most pointed advice we've ever gotten.
+Kenzo: {{That old saying}}. Oh, yeah. Oh, Tim the DM. I was like, this is the most pointed advice we've ever gotten.
 
 %% u2636 %%
 Seeker: A direct question so.
@@ -269,7 +269,7 @@ Delwath: Delwath will summon a dagger.
 Delwath: And just, like, a shadowy black dagger appears in his hand.
 
 %% u2650-u2653 %%
-DM: Vola watches this with interest and notes what's happening, but doesn't say anything. [[Lies]].
+DM: Vola watches this with interest and notes what's happening, but doesn't say anything. {{Lies}}.
 
 %% u2654 %%
 Kenzo: Now I'm doing some Insight, Tim. What's going on with Vola? Is she scared of us, amused by us, curious, grateful?
@@ -287,7 +287,7 @@ Seeker: Rolling.
 Unknown: Only.
 
 %% u2660 %%
-Kenzo: [[Part of the game and will rip the old nice]].
+Kenzo: {{Part of the game and will rip the old nice}}.
 
 %% u2661 %%
 Unknown: Really.
@@ -305,7 +305,7 @@ Kenzo: She trusts us?
 DM: No, you don't get the sense that she's—I mean, yes, right? She's not actively suspicious of you. She's not super friendly. You get the sense she's a bit of a—
 
 %% u2671 %%
-Kenzo: [[Red]], but she's happy.
+Kenzo: {{Red}}, but she's happy.
 
 %% u2672 %%
 DM: Yeah, she's definitely happier, there.
@@ -452,7 +452,7 @@ Kenzo: In our mission of reconnaissance, having found you and hopefully given yo
 Seeker: How's it all connected?
 
 %% u2746-u2750 %%
-DM: How's it connected? Can't say I know that a lot [[a well liked to]]. What's going on? Well, what do you know of what's been happening? It seems like maybe you don't know very much.
+DM: How's it connected? Can't say I know that a lot {{a well liked to}}. What's going on? Well, what do you know of what's been happening? It seems like maybe you don't know very much.
 
 %% u2751 %%
 Wellby: Enlighten us.
@@ -494,7 +494,7 @@ Kenzo: Have I heard of the Society in Chardon?
 DM: You've heard of the Great Library. So the Great Library, this is one of the major institutions in Chardon, right? And you know—
 
 %% u2799 %%
-Kenzo: [[Your story with library]].
+Kenzo: {{Your story with library}}.
 
 %% u2800 %%
 DM: Yeah, and there's always been rumors about secret societies associated with the library and hidden mystical orders and things like that, but you've not specifically heard of the Society of the Open Scroll.

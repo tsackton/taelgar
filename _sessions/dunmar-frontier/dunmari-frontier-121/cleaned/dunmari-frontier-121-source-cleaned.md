@@ -17,7 +17,7 @@
 [u0017 | 00:01:48.460-00:01:54.719 | DM] the Sunwine Hall, the court of Lord Sovin, the master of revels.
 [u0018 | 00:01:56.390-00:02:06.119 | DM] although you're not quite sure exactly how much time passed. The days seem a bit fuzzy. You seem to remember eating at least a few times and sleeping at least once.
 [u0019 | 00:02:08.530-00:02:11.280 | DM] But it was also busy. Delwath, was
-[u0020 | 00:02:11.500-00:02:20.839 | DM] telling stories [[while he]] spent his time training the Wyvern successfully, miraculously.
+[u0020 | 00:02:11.500-00:02:20.839 | DM] telling stories {{while he}} spent his time training the Wyvern successfully, miraculously.
 [u0021 | 00:02:21.010-00:02:25.040 | DM] and now is riding on a giant Wyvern across the Feywild.
 [u0022 | 00:02:26.920-00:02:34.850 | DM] The rest of you are riding on griffins, but, unlike the sort of stereotypical griffin of an eagle
 [u0023 | 00:02:35.070-00:02:41.390 | DM] with the body of a lion, these are more like peacocks or parrots, they have brightly colored
@@ -63,7 +63,7 @@
 [u0063 | 00:06:33.220-00:06:37.700 | DM] rolling fields, heading east towards the Sunset Gate.
 [u0064 | 00:06:38.799-00:06:43.669 | DM] and then turning north to seek Red Sun Watch
 [u0065 | 00:06:43.830-00:06:50.850 | DM] where, according to the stories you heard in Lord Sovin's court,
-[u0066 | 00:06:52.690-00:06:56.949 | DM] The secret to finding the [[prison well still]] can be found.
+[u0066 | 00:06:52.690-00:06:56.949 | DM] The secret to finding the {{prison well still}} can be found.
 [u0067 | 00:06:57.850-00:07:08.190 | DM] It just requires breaking the darkness with true sunlight, in order to illuminate the path, although exactly
 [u0068 | 00:07:08.360-00:07:14.360 | DM] how to illuminate the path, and where the darkness must be broken, is not immediately clear.
 [u0069 | 00:07:14.360-00:07:15.130 | Kenzo] So.
@@ -95,7 +95,7 @@
 [u0095 | 00:09:52.270-00:10:00.920 | DM] There's no fighting in anywhere in Chardon or anywhere in Dunmar. But Sura effectively won because of
 [u0096 | 00:10:01.430-00:10:01.920 | Delwath] Right.
 [u0097 | 00:10:01.920-00:10:11.600 | DM] You're saying to the general, turn around now, whereas Karnas effectively lost because the Chardon navy is quite well.
-[u0098 | 00:10:11.780-00:10:19.680 | DM] equipped to defeat [[darkness]], Dunmar, I mean, Dunmar doesn't even really have a navy. So
+[u0098 | 00:10:11.780-00:10:19.680 | DM] equipped to defeat {{darkness}}, Dunmar, I mean, Dunmar doesn't even really have a navy. So
 [u0099 | 00:10:24.990-00:10:28.890 | DM] on the Crown, I mean, you've several Faye have also mentioned, like
 [u0100 | 00:10:29.780-00:10:33.159 | DM] you have to learn how to use it before it decides to
 [u0101 | 00:10:34.120-00:10:39.399 | DM] just keep going. How Fausto controlled it, right like Riswynn hasn't figured out how to
@@ -132,7 +132,7 @@
 [u0132 | 00:15:04.260-00:15:20.269 | Wellby] I think it'd be useful like just to get as much of the lay of the land of the Feywild as possible, like trying to understand the different courts, and where things are. And this is just sort of Wellby's curiosity. I don't think we need to role play through it all, but just kind of understanding
 [u0133 | 00:15:21.230-00:15:28.360 | Wellby] the Feywild, understanding that against like what we know already, and trying to put together like a rough map of the place, almost
 [u0134 | 00:15:35.600-00:15:36.970 | DM] Anybody else.
-[u0135 | 00:15:40.290-00:15:47.820 | Riswynn] Send vibes of justice and charity and consideration to my [[Draconian]] contacts
+[u0135 | 00:15:40.290-00:15:47.820 | Riswynn] Send vibes of justice and charity and consideration to my {{Draconian}} contacts
 [u0136 | 00:16:03.545-00:16:04.510 | DM] So
 [u0137 | 00:16:05.950-00:16:10.330 | Riswynn] Oh, over the course
 [u0138 | 00:16:10.790-00:16:11.730 | DM] Go ahead!
@@ -150,12 +150,12 @@
 [u0150 | 00:17:23.240-00:17:28.110 | Seeker] Oh, so yeah, I'll learn about that when I can.
 [u0151 | 00:17:30.030-00:17:35.870 | Seeker] And for example, is there any kind of connection to chelite that crosses planes.
 [u0152 | 00:17:36.340-00:17:38.350 | Seeker] Is there a chelite analog here?
-[u0153 | 00:17:43.320-00:17:45.330 | Seeker] There are [[an orphan kins]] out here
+[u0153 | 00:17:43.320-00:17:45.330 | Seeker] There are {{an orphan kins}} out here
 [u0154 | 00:17:46.370-00:17:46.830 | Riswynn] Thank you.
 [u0155 | 00:17:48.260-00:17:49.629 | DM] So over the course
 [u0156 | 00:17:49.630-00:17:50.909 | Seeker] Of tower.
 [u0157 | 00:17:50.910-00:17:51.350 | DM] Hey!
-[u0158 | 00:17:51.350-00:17:56.820 | Seeker] [[10 university fei]] are there, fey universities? There must be
+[u0158 | 00:17:51.350-00:17:56.820 | Seeker] {{10 university fei}} are there, fey universities? There must be
 [u0159 | 00:17:58.760-00:18:08.769 | DM] Yeah, so she's she's very curious about Seeker as you're flying next to each other, kind of talking as the as the
 [u0160 | 00:18:09.865-00:18:14.759 | DM] no, no, Chelite is a very much, not a fey thing.
 [u0161 | 00:18:17.300-00:18:21.350 | DM] As as you're talking and sort of flying. She's.
@@ -204,7 +204,7 @@
 [u0204 | 00:23:01.070-00:23:05.459 | DM] heard it's a place bleached of color.
 [u0205 | 00:23:05.880-00:23:06.690 | Seeker] Oh!
 [u0206 | 00:23:08.120-00:23:12.609 | DM] Even though the afternoon golden light still shines, it's
-[u0207 | 00:23:13.900-00:23:16.890 | DM] [[Blott and Wayne]]. And of course.
+[u0207 | 00:23:13.900-00:23:16.890 | DM] {{Blott and Wayne}}. And of course.
 [u0208 | 00:23:17.130-00:23:21.370 | DM] should the Cloud Spinner return, so would the color that lights up her realm.
 [u0209 | 00:23:26.960-00:23:28.039 | DM] So many reasons
 [u0210 | 00:23:28.040-00:23:30.840 | Wellby] Would be bad for the Cloud Spinner to return.
@@ -220,9 +220,9 @@
 [u0220 | 00:24:08.050-00:24:17.840 | DM] she was very strong, right? And everybody carving up her realm has been, you know, unhappy.
 [u0221 | 00:24:21.300-00:24:25.510 | DM] There are places, of course, where things are more
 [u0222 | 00:24:31.190-00:24:34.619 | DM] I don't know less chaos. I haven't been to them, but
-[u0223 | 00:24:34.850-00:24:38.649 | DM] I mean [[harrow and wind]] are about as nasty as they come.
-[u0224 | 00:24:40.000-00:24:43.810 | DM] and it's not like the Gloom Shaper [[isn't pretty]].
-[u0225 | 00:24:44.230-00:24:46.559 | DM] [[It's like a friendly guy]].
+[u0223 | 00:24:34.850-00:24:38.649 | DM] I mean {{harrow and wind}} are about as nasty as they come.
+[u0224 | 00:24:40.000-00:24:43.810 | DM] and it's not like the Gloom Shaper {{isn't pretty}}.
+[u0225 | 00:24:44.230-00:24:46.559 | DM] {{It's like a friendly guy}}.
 [u0226 | 00:24:47.240-00:24:51.409 | DM] So no, I mean, nothing bad would happen.
 [u0227 | 00:24:54.570-00:24:55.260 | DM] Great.
 [u0228 | 00:24:56.450-00:24:59.490 | DM] Not sure why you have to ask such foolish questions.
@@ -326,7 +326,7 @@
 [u0326 | 00:35:44.310-00:35:46.240 | DM] This has always been here.
 [u0327 | 00:35:46.530-00:35:47.030 | Seeker] Oh!
 [u0328 | 00:35:47.419-00:35:53.260 | DM] In to the north, where Red Sun Watch is, which is where you're going. The
-[u0329 | 00:35:53.400-00:36:01.320 | DM] fey realm of Hollow Dark, which is ruled by the Archfey [[wend me]].
+[u0329 | 00:35:53.400-00:36:01.320 | DM] fey realm of Hollow Dark, which is ruled by the Archfey {{wend me}}.
 [u0330 | 00:36:01.440-00:36:11.030 | DM] the Silence That Follows has crashed through the Sunset Gate, and darkness is spreading, in rivers into Amberglow.
 [u0331 | 00:36:12.460-00:36:17.479 | DM] but the Sunset Gate's always been there. It stretches well, as far as anybody knows.
 [u0332 | 00:36:21.650-00:36:27.570 | Seeker] Is it just a gate between light and darkness?
@@ -444,7 +444,7 @@
 [u0444 | 00:44:12.050-00:44:16.719 | Delwath] Won't we be next to the Sunset, I guess I guess we don't really want to go into Hollow.
 [u0445 | 00:44:17.140-00:44:19.630 | Delwath] Halloween! Whence? What was it? What was it
 [u0446 | 00:44:19.920-00:44:20.910 | DM] Hollow Dark.
-[u0447 | 00:44:20.910-00:44:25.110 | Delwath] Hollow Dark wait are [[hollow and wend]] 2 different people
+[u0447 | 00:44:20.910-00:44:25.110 | Delwath] Hollow Dark wait are {{hollow and wend}} 2 different people
 [u0448 | 00:44:25.930-00:44:27.370 | DM] Nobody is really sure
 [u0449 | 00:44:27.700-00:44:28.380 | Delwath] Okay.
 [u0450 | 00:44:34.500-00:44:36.749 | DM] So. Yes, we head north
@@ -541,7 +541,7 @@
 [u0541 | 00:52:54.490-00:52:56.329 | Delwath] No, I I is there!
 [u0542 | 00:52:56.330-00:52:59.609 | Seeker] Documented knowledge of the use of blood in the Feywild
 [u0543 | 00:52:59.610-00:53:04.210 | Delwath] It. There is nothing good that comes of giving giving a fey your blood just nothing
-[u0544 | 00:53:04.210-00:53:10.209 | DM] When he says that [[with that]] was like, I'm not doing that
+[u0544 | 00:53:04.210-00:53:10.209 | DM] When he says that {{with that}} was like, I'm not doing that
 [u0545 | 00:53:10.210-00:53:12.170 | Delwath] Yeah. Nothing good comes of this.
 [u0546 | 00:53:12.170-00:53:12.630 | Riswynn] Firefight.
 [u0547 | 00:53:12.630-00:53:12.960 | Seeker] Yeah.
@@ -773,7 +773,7 @@
 [u0773 | 01:11:09.490-01:11:09.924 | Delwath] Okay.
 [u0774 | 01:11:11.530-01:11:13.990 | DM] So you turn and you begin to fly away.
 [u0775 | 01:11:14.310-01:11:17.390 | DM] and they they like clearly wheel to follow you.
-[u0776 | 01:11:21.770-01:11:33.100 | DM] You know these giant wolves are, you know, running pretty fast. I mean, they're they've got quite the [[down]]
+[u0776 | 01:11:21.770-01:11:33.100 | DM] You know these giant wolves are, you know, running pretty fast. I mean, they're they've got quite the {{down}}
 [u0777 | 01:11:33.680-01:11:34.715 | DM] stride.
 [u0778 | 01:11:38.860-01:11:39.250 | Delwath] Yeah.
 [u0779 | 01:11:39.250-01:11:45.389 | DM] Probably moving a little bit faster than them. But but you know your mounts are
@@ -793,7 +793,7 @@
 [u0793 | 01:12:38.730-01:12:39.620 | Seeker] Good call, and
 [u0794 | 01:12:39.620-01:12:41.390 | Delwath] Does a fair bit of damage
 [u0795 | 01:12:41.740-01:12:42.550 | Seeker] I'll just
-[u0796 | 01:12:42.550-01:12:44.310 | Delwath] [[3, 3, 10 plus slirty deck]].
+[u0796 | 01:12:42.550-01:12:44.310 | Delwath] {{3, 3, 10 plus slirty deck}}.
 [u0797 | 01:12:44.310-01:12:51.380 | Delwath] right? So like hail. I could cast it multiple times, too, to stack right as they enter right
 [u0798 | 01:12:52.460-01:12:59.880 | Riswynn] But nothing we can do like inspiration, or guidance, or bless, or anything, will energize our mounts. That's
 [u0799 | 01:13:00.000-01:13:03.870 | Riswynn] Spells have—those have, like, increasing stamina properties.
@@ -1151,7 +1151,7 @@
 [u1151 | 01:35:03.160-01:35:09.320 | Kenzo] Actually, maybe maybe it makes sense. to swap initiative
 [u1152 | 01:35:09.897-01:35:16.739 | Kenzo] so Kenzo's farther back in order. Because, like I, I can't do any long range, anything useful, long range for now. So
 [u1153 | 01:35:16.740-01:35:18.469 | Delwath] I could take your initiative, or even
-[u1154 | 01:35:18.470-01:35:19.070 | Kenzo] [[How long does it take mine]]
+[u1154 | 01:35:18.470-01:35:19.070 | Kenzo] {{How long does it take mine}}
 [u1155 | 01:35:19.070-01:35:19.939 | Delwath] Yeah, okay.
 [u1156 | 01:35:19.940-01:35:21.219 | Kenzo] I'm second right now. I think
 [u1157 | 01:35:21.220-01:35:21.910 | Delwath] Yes.
@@ -1303,7 +1303,7 @@
 [u1303 | 01:45:13.672-01:45:16.410 | DM] I'm gonna switch the. This is too annoying
 [u1304 | 01:45:16.410-01:45:16.920 | Delwath] Yeah, yeah.
 [u1305 | 01:45:17.960-01:45:21.299 | DM] Distance be, I'm gonna switch it back to 5.
-[u1306 | 01:45:24.620-01:45:33.500 | DM] Okay, that's the aura. Anybody in that aura gets [[the advantage]] on on fear.
+[u1306 | 01:45:24.620-01:45:33.500 | DM] Okay, that's the aura. Anybody in that aura gets {{the advantage}} on on fear.
 [u1307 | 01:45:38.773-01:45:41.089 | DM] okay, so that does nothing.
 [u1308 | 01:45:41.400-01:45:45.920 | DM] However, that
 [u1309 | 01:45:46.070-01:45:51.929 | DM] lash of psychic depth. Oh, no. Sorry. That doesn't happen. Swinging at you with its great sword.
@@ -1398,7 +1398,7 @@
 [u1398 | 01:51:38.710-01:51:39.610 | Delwath] Yeah.
 [u1399 | 01:51:39.610-01:51:40.810 | DM] Back here.
 [u1400 | 01:51:42.145-01:51:43.840 | DM] Okay, that ends.
-[u1401 | 01:51:43.990-01:51:45.790 | DM] [[Secretzone]] is up
+[u1401 | 01:51:43.990-01:51:45.790 | DM] {{Secretzone}} is up
 [u1402 | 01:51:46.550-01:51:46.990 | Riswynn] Yes, sir.
 [u1403 | 01:51:46.990-01:51:48.219 | DM] Wellby's, next
 [u1404 | 01:51:48.220-01:51:54.779 | Riswynn] What is the move of the griffin that I'm riding? Because obviously it's probably not the same as my walking speed. But
@@ -1473,7 +1473,7 @@
 [u1473 | 01:56:08.890-01:56:11.830 | DM] Let's see, 2 of the how much damage does it do?
 [u1474 | 01:56:11.830-01:56:12.290 | DM] It's
 [u1475 | 01:56:12.290-01:56:12.870 | Delwath] Why not? We'll have
-[u1476 | 01:56:12.870-01:56:14.900 | DM] [[Thin]], bludgeoning.
+[u1476 | 01:56:12.870-01:56:14.900 | DM] {{Thin}}, bludgeoning.
 [u1477 | 01:56:15.510-01:56:21.199 | Delwath] And 13. So 20,
 [u1478 | 01:56:21.200-01:56:21.730 | DM] Oh, wait!
 [u1479 | 01:56:21.730-01:56:22.460 | Delwath] 4.
@@ -1851,7 +1851,7 @@
 [u1851 | 02:20:46.050-02:20:47.500 | Delwath] It's Wellby right
 [u1852 | 02:20:47.500-02:20:51.640 | DM] Wellby, Delwath, and then monsters
 [u1853 | 02:20:52.650-02:20:55.590 | Riswynn] I'm just readying Cure Wounds, because the pillar of doom is
-[u1854 | 02:20:55.720-02:21:04.090 | Riswynn] great as a ranged thing when somebody needs like something, Major. But if [[everyone]] can accomplish the same thing, I don't want to waste a 7th-level spell slot on those
+[u1854 | 02:20:55.720-02:21:04.090 | Riswynn] great as a ranged thing when somebody needs like something, Major. But if {{everyone}} can accomplish the same thing, I don't want to waste a 7th-level spell slot on those
 [u1855 | 02:21:04.620-02:21:06.309 | Delwath] Right? Doesn't it just damage them
 [u1856 | 02:21:08.030-02:21:08.680 | Riswynn] Wedding
 [u1857 | 02:21:08.940-02:21:11.699 | Delwath] Does it damage the bad guys as well as heal the good guys
@@ -1957,7 +1957,7 @@
 [u1957 | 02:27:34.040-02:27:34.850 | Riswynn] One.
 [u1958 | 02:27:38.770-02:27:44.430 | DM] Everybody, except for Riswynn, takes 35 points of psychic damage
 [u1959 | 02:27:44.970-02:27:46.220 | Kenzo] Wait? Why
-[u1960 | 02:27:46.480-02:27:47.480 | DM] [[It has felt the same]]
+[u1960 | 02:27:46.480-02:27:47.480 | DM] {{It has felt the same}}
 [u1961 | 02:27:47.480-02:27:48.569 | Delwath] We failed the save
 [u1962 | 02:27:48.570-02:27:50.499 | DM] You can roll it again, spend another ki.
 [u1963 | 02:27:50.680-02:27:51.720 | Kenzo] I'll definitely do that.
@@ -2284,7 +2284,7 @@
 [u2284 | 02:52:50.430-02:52:52.329 | DM] Okay, that wolf is dead.
 [u2285 | 02:52:53.086-02:52:56.650 | Wellby] Plus let me double check. I think it's 4d6
 [u2286 | 02:52:56.650-02:53:01.810 | DM] Yeah, it's 4d6 lightning also on the restrained wolf. But it doesn't matter, because he's already dead.
-[u2287 | 02:53:02.490-02:53:05.329 | Wellby] 4d6 [[to the]] DC 15 Dex save
+[u2287 | 02:53:02.490-02:53:05.329 | Wellby] 4d6 {{to the}} DC 15 Dex save
 [u2288 | 02:53:10.000-02:53:10.950 | Wellby] 14,
 [u2289 | 02:53:17.780-02:53:27.290 | DM] This guy succeeds, so take 7. The wolf fails. So it takes 14 that ends Wellby's turn
 [u2290 | 02:53:28.020-02:53:36.599 | Delwath] Okay, I'm going to turn into a cloud of butterflies, go flying.
@@ -2471,7 +2471,7 @@
 [u2471 | 03:05:08.980-03:05:09.800 | Delwath] Okay.
 [u2472 | 03:05:11.770-03:05:12.530 | DM] Miss
 [u2473 | 03:05:16.080-03:05:17.170 | DM] that hits
-[u2474 | 03:05:20.600-03:05:30.120 | Delwath] 8 plus 10, [[19]] damage that came up as a 19 and then flipped over to a 1
+[u2474 | 03:05:20.600-03:05:30.120 | Delwath] 8 plus 10, {{19}} damage that came up as a 19 and then flipped over to a 1
 [u2475 | 03:05:31.190-03:05:34.150 | DM] That misses that ends Delwath's turn
 [u2476 | 03:05:34.370-03:05:36.290 | Delwath] Pathetic, damage.
 [u2477 | 03:05:39.604-03:05:42.119 | DM] And then, when you sorry when you hit
@@ -2518,7 +2518,7 @@
 [u2518 | 03:08:14.830-03:08:16.699 | Delwath] Be more complicated than it's worth
 [u2519 | 03:08:16.700-03:08:20.499 | Kenzo] Attack roll. I see a ability check attack roll. Oh, attack roll. Okay, yeah.
 [u2520 | 03:08:20.500-03:08:21.129 | DM] Yeah, yeah.
-[u2521 | 03:08:23.110-03:08:24.270 | Kenzo] [[Dough]], 2.
+[u2521 | 03:08:23.110-03:08:24.270 | Kenzo] {{Dough}}, 2.
 [u2522 | 03:08:26.040-03:08:28.360 | Kenzo] So 16
 [u2523 | 03:08:28.840-03:08:30.249 | DM] 16 hits
 [u2524 | 03:08:30.730-03:08:33.699 | Kenzo] Sweet he's good at Con, right?

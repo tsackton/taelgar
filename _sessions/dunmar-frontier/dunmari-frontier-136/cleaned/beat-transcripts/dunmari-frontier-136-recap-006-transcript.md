@@ -371,7 +371,7 @@ Wellby: I'll pass those off to Seeker.
 DM: Okay.
 
 %% u4722-u4723 %%
-Kenzo: Mm-hmm. Mm-hmm. I thought you said you opened up the desk drawer and there was a door inside. I was like, "Whoa, that's cool," like you could step into the drawer and it'd [[buy you someplace]].
+Kenzo: Mm-hmm. Mm-hmm. I thought you said you opened up the desk drawer and there was a door inside. I was like, "Whoa, that's cool," like you could step into the drawer and it'd {{buy you someplace}}.
 
 %% u4724-u4726 %%
 DM: But there was a key. Okay, so as the rest finishes—
@@ -1049,7 +1049,7 @@ Wellby: No, I send the bat in.
 Delwath: We got bat, time to die.
 
 %% u5008-u5019 %%
-DM: [laughs] The bat vanishes. I assume you're looking through its eye. Yes, [[he's sense it]]. The bat emerges into a room that has another circle, like... Let's see. Let's just say what's everything in the room. There's another circle.
+DM: [laughs] The bat vanishes. I assume you're looking through its eye. Yes, {{he's sense it}}. The bat emerges into a room that has another circle, like... Let's see. Let's just say what's everything in the room. There's another circle.
 
 %% u5020-u5029 %%
 DM: At the far end across from where you appear, where the bat appears, there are two statues. One... How to describe it? A humanoid made of flames that seem to clump and blend together like mud, becoming darker as they become denser, so the interior of the statue is barely visible, but the outside is illuminated, like, in flames.
@@ -1583,7 +1583,7 @@ DM: Arcane eyes cannot go through the walls or floors of the tower.
 Wellby: 26.
 
 %% u5250 %%
-Delwath: Yeah, right, because of divination [[antis]].
+Delwath: Yeah, right, because of divination {{antis}}.
 
 %% u5251-u5255 %%
 DM: Yep. 26? You notice, sort of etched into the side of where the lock mechanism is, there's a small rune.

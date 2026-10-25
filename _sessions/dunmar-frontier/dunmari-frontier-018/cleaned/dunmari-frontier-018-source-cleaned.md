@@ -1743,7 +1743,7 @@
 [u1743 | 02:28:41.370-02:28:42.270 | DM] So I do not know.
 [u1744 | 02:28:43.650-02:28:45.330 | Wellby] get to talk to Candrosa.
 [u1745 | 02:28:47.100-02:28:49.710 | DM] I will not speak with him, while a curse hangs over him.
-[u1746 | 02:28:52.350-02:28:53.580 | DM] [[Our car]] has said so.
+[u1746 | 02:28:52.350-02:28:53.580 | DM] {{Our car}} has said so.
 [u1747 | 02:28:55.200-02:28:55.470 | Kenzo] What do you.
 [u1748 | 02:28:55.530-02:28:57.510 | Seeker] A curse hangs over.
 [u1749 | 02:28:58.860-02:28:59.580 | Unknown] A shadow.
@@ -2759,7 +2759,7 @@
 [u2759 | 03:51:15.600-03:51:16.590 | DM] very valuable.
 [u2760 | 03:51:18.060-03:51:21.270 | Kenzo] Have you not asked Candrosa to commune with it.
 [u2761 | 03:51:24.750-03:51:27.000 | DM] I argued for such an approach, yes.
-[u2762 | 03:51:30.120-03:51:35.880 | DM] The omen seeker the [[omen car]] of our tribe warned against that.
+[u2762 | 03:51:30.120-03:51:35.880 | DM] The omen seeker the {{omen car}} of our tribe warned against that.
 [u2763 | 03:51:38.040-03:51:38.790 | DM] Saying.
 [u2764 | 03:51:42.420-03:51:44.760 | DM] The curse lay upon Candrosa the.
 [u2765 | 03:51:46.170-03:51:51.120 | DM] And don't mistake me curse not meaning an evil presence, but this.

@@ -11,14 +11,14 @@
 [u0011 | 00:01:19.920-00:01:27.680 | DM] since the Cloud Spinner's departure, imprisonment, slowly encroached on the
 [u0012 | 00:01:28.360-00:01:32.019 | DM] border kingdoms and even parts of Amberglow itself.
 [u0013 | 00:01:34.470-00:01:39.289 | DM] crossing a river, and then coming brief, coming and stopping
-[u0014 | 00:01:39.420-00:01:47.639 | DM] at the edge of the river of darkness that flows out from the Sunset Gate from [[Dark Hollow]].
+[u0014 | 00:01:39.420-00:01:47.639 | DM] at the edge of the river of darkness that flows out from the Sunset Gate from {{Dark Hollow}}.
 [u0015 | 00:01:48.930-00:01:52.900 | DM] the realm of Harrow and Wend, the
 [u0016 | 00:01:55.500-00:02:02.529 | DM] fey rulers, or maybe one ruler. Nobody's ever quite sure if these are one or two people
 [u0017 | 00:02:03.800-00:02:15.160 | DM] of the realm to the east, across the Sunset Gate, a place, from what you've gathered, of terror, of the
 [u0018 | 00:02:15.440-00:02:21.829 | DM] creeping dark, of the footsteps sneaking up behind you in the night.
 [u0019 | 00:02:23.040-00:02:28.819 | DM] and here, where Red Sun Keep once—Red Sun Watch once stood
-[u0020 | 00:02:30.430-00:02:35.010 | DM] guard watching over the borders of [[Amberglade]].
-[u0021 | 00:02:35.600-00:02:46.460 | DM] the darkness of [[hollow dark]] has crashed through the Sunset Gate and spread, forming what seems like an impenetrable river.
+[u0020 | 00:02:30.430-00:02:35.010 | DM] guard watching over the borders of {{Amberglade}}.
+[u0021 | 00:02:35.600-00:02:46.460 | DM] the darkness of {{hollow dark}} has crashed through the Sunset Gate and spread, forming what seems like an impenetrable river.
 [u0022 | 00:02:47.850-00:02:54.610 | DM] The only flicker of light that you see looking across the landscape is one lit tower
 [u0023 | 00:02:55.697-00:02:59.679 | DM] where some sunset ember still seems to glow.
 [u0024 | 00:03:00.240-00:03:08.040 | DM] About a mile in the distance you have stopped, paused, rested.
@@ -129,7 +129,7 @@
 [u0129 | 00:13:27.530-00:13:29.730 | Delwath] Yeah, let's just see what happens.
 [u0130 | 00:13:29.990-00:13:32.350 | Delwath] I mean, I think we go quietly.
 [u0131 | 00:13:32.740-00:13:36.380 | Delwath] I don't know if invisibility is worth it, but we could
-[u0132 | 00:13:48.640-00:13:53.180 | Wellby] Let's, let's send a bat ahead. It's like, yeah, it's [[for chat per month]], and then
+[u0132 | 00:13:48.640-00:13:53.180 | Wellby] Let's, let's send a bat ahead. It's like, yeah, it's {{for chat per month}}, and then
 [u0133 | 00:13:53.330-00:13:55.509 | Wellby] we'll know what's what
 [u0134 | 00:13:56.000-00:13:57.110 | Delwath] No, that's that's fine.
 [u0135 | 00:13:57.110-00:14:03.660 | Wellby] Recording this stuff, so I'll pull a bat out of the hat and Beast Sense it and
@@ -195,7 +195,7 @@
 [u0195 | 00:20:06.010-00:20:06.760 | Kenzo] Probably
 [u0196 | 00:20:08.160-00:20:09.970 | DM] So I mean you've heard
 [u0197 | 00:20:09.970-00:20:10.470 | Kenzo] Are you from
-[u0198 | 00:20:10.470-00:20:15.850 | DM] Both Lady Eventide and [[linearian]]. These were made by the Cloud Spinner
+[u0198 | 00:20:10.470-00:20:15.850 | DM] Both Lady Eventide and {{linearian}}. These were made by the Cloud Spinner
 [u0199 | 00:20:16.030-00:20:24.839 | DM] as sort of fragments of her power that she could hand off to trusted advisors so they'd be able to act in her name when she was
 [u0200 | 00:20:25.570-00:20:26.940 | DM] not able to.
 [u0201 | 00:20:27.250-00:20:33.130 | DM] You know she couldn't be everywhere across her realm at once, and so she would create.
@@ -224,7 +224,7 @@
 [u0224 | 00:22:26.910-00:22:28.510 | DM] The next tower over
 [u0225 | 00:22:28.510-00:22:30.380 | Kenzo] Oh, the next tower over. Yeah. Okay.
 [u0226 | 00:22:31.360-00:22:35.269 | Seeker] Next door. So let's not start with that one.
-[u0227 | 00:22:36.860-00:22:41.560 | Seeker] Okay. Well, well, I might [[all reset here]], probably.
+[u0227 | 00:22:36.860-00:22:41.560 | Seeker] Okay. Well, well, I might {{all reset here}}, probably.
 [u0228 | 00:22:41.560-00:22:50.730 | Riswynn] I mean, the shiny tower is either a tool that they're just keeping around so that they can find Cloud Spinner and her allies.
 [u0229 | 00:22:51.280-00:22:55.870 | Riswynn] Some tiny little pocket of resistance that somehow held out this entire time.
 [u0230 | 00:22:56.170-00:23:03.870 | Riswynn] Or, I mean, those are the two ideas that I have. Feel free to name other ones, but I'm, I'm leaning towards, it's a trap.
@@ -320,7 +320,7 @@
 [u0320 | 00:29:54.420-00:29:55.920 | Riswynn] Big, glowing room
 [u0321 | 00:29:55.920-00:29:59.499 | Delwath] I would start. I mean, this glowing room seems like
 [u0322 | 00:29:59.500-00:30:00.440 | Wellby] Yeah, right.
-[u0323 | 00:30:00.440-00:30:08.620 | Delwath] The right place to start, right? Like, it's the last remains of Amberglow, right? So [[be some seen]]
+[u0323 | 00:30:00.440-00:30:08.620 | Delwath] The right place to start, right? Like, it's the last remains of Amberglow, right? So {{be some seen}}
 [u0324 | 00:30:08.620-00:30:10.550 | Seeker] Else is protecting it.
 [u0325 | 00:30:10.550-00:30:14.660 | Delwath] Yeah. So it seems like a good place to start. Let's
 [u0326 | 00:30:14.660-00:30:16.140 | Seeker] Let's just all fly up there
@@ -370,7 +370,7 @@
 [u0370 | 00:33:13.460-00:33:14.529 | DM] You know.
 [u0371 | 00:33:14.650-00:33:23.010 | DM] Your darkvision still works right. You can see, it's you do. It's like you step from day to night when you step into the darkness. It's not
 [u0372 | 00:33:23.722-00:33:30.930 | DM] like looking back, you can see the sunlight in the distance, but the sunlight doesn't shine at all
-[u0373 | 00:33:31.810-00:33:36.299 | DM] like it doesn't—the sunlight from [[Amberglade]] doesn't penetrate the darkness at all.
+[u0373 | 00:33:31.810-00:33:36.299 | DM] like it doesn't—the sunlight from {{Amberglade}} doesn't penetrate the darkness at all.
 [u0374 | 00:33:37.920-00:33:42.749 | DM] and you begin walking sort of moving the the land around you. You can only see like
 [u0375 | 00:33:43.660-00:33:46.789 | DM] 60 to 120 feet, depending on who you are.
 [u0376 | 00:33:48.660-00:33:55.060 | DM] Sort of barren. Every now and then there's a dead bush, but generally
@@ -575,7 +575,7 @@
 [u0575 | 00:48:11.756-00:48:18.990 | DM] Yes, there is a there is a trapdoor right there
 [u0576 | 00:48:18.990-00:48:22.170 | Delwath] Okay, I'll actually use Ghostly Gaze instead of Detect Thoughts.
 [u0577 | 00:48:22.860-00:48:23.570 | DM] All right.
-[u0578 | 00:48:23.710-00:48:32.180 | DM] All right. Okay, so as Delwath goes to look down at the trapdoor, which Seeker is also there [[meeting]],
+[u0578 | 00:48:23.710-00:48:32.180 | DM] All right. Okay, so as Delwath goes to look down at the trapdoor, which Seeker is also there {{meeting}},
 [u0579 | 00:48:33.520-00:48:36.250 | Delwath] Is there something we should be seeing when you said right there or no?
 [u0580 | 00:48:38.590-00:48:42.170 | DM] I didn't put you on the map now. There's something you should be seeing
 [u0581 | 00:48:42.170-00:48:43.479 | Delwath] Okay. Yeah.
@@ -621,13 +621,13 @@
 [u0621 | 00:53:04.080-00:53:13.319 | DM] 2 smaller creatures clinging to its back. It seems to be almost a combination of like a Wyvern and a mounted rider, but all made of shadow
 [u0622 | 00:53:22.030-00:53:23.499 | Delwath] Does anybody else see it?
 [u0623 | 00:53:25.430-00:53:27.740 | DM] Oh, Kenzo would see it!
-[u0624 | 00:53:30.650-00:53:37.390 | DM] Everybody—Riswynn, [[Delwath]] and Seeker are, like, you're enjoying the warmth and safety of the light.
+[u0624 | 00:53:30.650-00:53:37.390 | DM] Everybody—Riswynn, {{Delwath}} and Seeker are, like, you're enjoying the warmth and safety of the light.
 [u0625 | 00:53:38.010-00:53:40.540 | Wellby] And Wellby says, finally, this is
 [u0626 | 00:53:40.995-00:53:44.029 | Wellby] it's just such a relief to have a minute to relax
 [u0627 | 00:53:44.170-00:53:57.520 | Delwath] Yeah. I will point out the terrible thing coming towards us.
 [u0628 | 00:53:58.420-00:54:01.010 | Delwath] and we should probably do something about this
 [u0629 | 00:54:02.960-00:54:06.589 | Wellby] No, but there's always some terrible thing coming towards us.
-[u0630 | 00:54:06.790-00:54:09.079 | Riswynn] The way the light shines on these rocks, [[Bellwood]].
+[u0630 | 00:54:06.790-00:54:09.079 | Riswynn] The way the light shines on these rocks, {{Bellwood}}.
 [u0631 | 00:54:10.980-00:54:11.400 | Delwath] Yeah.
 [u0632 | 00:54:11.400-00:54:12.360 | Seeker] Tell you that
 [u0633 | 00:54:17.780-00:54:24.809 | Delwath] yeah. So you guys are being difficult. Hold on a second. Hold on. I'm looking at a
@@ -640,7 +640,7 @@
 [u0640 | 00:54:55.640-00:54:59.860 | Delwath] Well, okay, I mean, yeah. So
 [u0641 | 00:55:02.630-00:55:05.999 | DM] Most charm effects end when somebody takes damage
 [u0642 | 00:55:06.750-00:55:07.649 | Delwath] Yeah. Oh, it's a lot
-[u0643 | 00:55:07.650-00:55:09.620 | Seeker] [[Marmoth at them]].
+[u0643 | 00:55:07.650-00:55:09.620 | Seeker] {{Marmoth at them}}.
 [u0644 | 00:55:09.620-00:55:12.210 | Seeker] I thought I had a feature about that
 [u0645 | 00:55:13.440-00:55:15.110 | DM] Oh, right are you
 [u0646 | 00:55:15.110-00:55:16.240 | Seeker] Counter, charm.
@@ -666,7 +666,7 @@
 [u0666 | 00:56:18.280-00:56:19.679 | Seeker] I mean, I also should have realized that.
 [u0667 | 00:56:20.720-00:56:28.150 | Kenzo] Fyi. I got a I gotta hop in like a few minutes or a minute. Yeah. Okay, but if we get into combat
 [u0668 | 00:56:28.820-00:56:31.710 | Kenzo] You know Kenzo likes fighting so just
-[u0669 | 00:56:31.850-00:56:39.280 | Kenzo] Kenzo, Kenzo, Kenzo will fight if necessary. You know, [[Langow's claw]] him. You know my tricks, you know. Stun, etcetera.
+[u0669 | 00:56:31.850-00:56:39.280 | Kenzo] Kenzo, Kenzo, Kenzo will fight if necessary. You know, {{Langow's claw}} him. You know my tricks, you know. Stun, etcetera.
 [u0670 | 00:56:39.440-00:56:40.930 | Kenzo] So if it happens
 [u0671 | 00:56:40.930-00:56:42.632 | Delwath] Well, okay. So,
 [u0672 | 00:56:44.010-00:56:54.570 | Kenzo] Hold on just because I got I gotta go. And I'm actually on text. So if anything, if you guys need any weird thing, just just message me, too. I'm I'm doing this work for this virtual workshop. And I'm actually, I'll be checking my phone so feel free to message me. There
@@ -685,7 +685,7 @@
 [u0685 | 00:57:14.810-00:57:15.480 | Riswynn] Is.
 [u0686 | 00:57:15.790-00:57:17.940 | Delwath] Am I the only uncharmed person now that
 [u0687 | 00:57:17.940-00:57:26.310 | DM] Kenzo's not charmed. Kenzo will run—oh, Kenzo will run over to Wellby and attempt to uncharm him, using
-[u0688 | 00:57:27.740-00:57:28.780 | Wellby] [[And across wellbeing]].
+[u0688 | 00:57:27.740-00:57:28.780 | Wellby] {{And across wellbeing}}.
 [u0689 | 00:57:28.780-00:57:29.740 | DM] Using, his
 [u0690 | 00:57:29.740-00:57:30.710 | Wellby] Probably
 [u0691 | 00:57:31.170-00:57:33.470 | DM] No using his cleansing touch
@@ -716,7 +716,7 @@
 [u0716 | 00:59:18.440-00:59:21.990 | DM] You are uncharmed. I just gotta mark off the 2.
 [u0717 | 00:59:24.752-00:59:26.409 | Riswynn] Forgot to promote.
 [u0718 | 00:59:26.700-00:59:28.160 | DM] I gotta mark off the 2.
-[u0719 | 00:59:28.160-00:59:30.970 | DM] [[Yes points for down]].
+[u0719 | 00:59:28.160-00:59:30.970 | DM] {{Yes points for down}}.
 [u0720 | 00:59:31.220-00:59:32.160 | Riswynn] Yeah.
 [u0721 | 00:59:39.590-00:59:42.050 | DM] Okay, so sorry. What did everybody roll?
 [u0722 | 00:59:43.300-00:59:44.450 | Delwath] 14,
@@ -775,7 +775,7 @@
 [u0775 | 01:03:18.710-01:03:20.649 | Delwath] Can Kenzo Soul Sight the big guy?
 [u0776 | 01:03:21.080-01:03:21.860 | Seeker] Yeah.
 [u0777 | 01:03:22.340-01:03:23.559 | Seeker] Seems like the move
-[u0778 | 01:03:25.030-01:03:27.880 | Delwath] And then he can [[Wingo's claw]] if he goes to the edge, right?
+[u0778 | 01:03:25.030-01:03:27.880 | Delwath] And then he can {{Wingo's claw}} if he goes to the edge, right?
 [u0779 | 01:03:30.330-01:03:33.309 | DM] Yup, Kenzo is going to Soul Sight the big guy.
 [u0780 | 01:03:33.450-01:03:41.110 | DM] He is immune to poison necrotic exhaustion and poisoned
 [u0781 | 01:03:42.414-01:03:48.640 | DM] Good at Dex, bad at Charisma. CR 12.
@@ -787,11 +787,11 @@
 [u0787 | 01:04:08.260-01:04:09.060 | DM] out.
 [u0788 | 01:04:09.410-01:04:10.230 | DM] Okay?
 [u0789 | 01:04:14.080-01:04:20.349 | DM] so that ends your turn. So Kenzo is now going to run 2, 3, 4, 5,
-[u0790 | 01:04:21.040-01:04:26.419 | DM] six, go there, and he will [[lend out his claw]] from there.
-[u0791 | 01:04:28.059-01:04:34.690 | DM] So that's a bonus action to activate [[Langa's claw]]. So he's only gonna get to make his two attacks.
+[u0790 | 01:04:21.040-01:04:26.419 | DM] six, go there, and he will {{lend out his claw}} from there.
+[u0791 | 01:04:28.059-01:04:34.690 | DM] So that's a bonus action to activate {{Langa's claw}}. So he's only gonna get to make his two attacks.
 [u0792 | 01:04:35.281-01:04:38.025 | DM] So Kenzo runs forward in his, his
 [u0793 | 01:04:40.600-01:04:49.559 | DM] His action, his tattoo animates, and he's going to swing out now with unarmed strike.
-[u0794 | 01:04:50.150-01:04:55.849 | DM] The first one hits for seven [[plus his advantage]].
+[u0794 | 01:04:50.150-01:04:55.849 | DM] The first one hits for seven {{plus his advantage}}.
 [u0795 | 01:04:55.850-01:05:01.959 | DM] Points of damage he has advantage.
 [u0796 | 01:05:02.230-01:05:03.920 | DM] Yeah, on on all of them.
 [u0797 | 01:05:05.090-01:05:07.109 | DM] The next one's a critical hit
@@ -808,7 +808,7 @@
 [u0808 | 01:06:22.430-01:06:26.130 | DM] Anybody within 30 feet of these.
 [u0809 | 01:06:26.910-01:06:31.710 | DM] So anybody in these auras cannot speak
 [u0810 | 01:06:32.220-01:06:33.709 | Wellby] Don't see auras.
-[u0811 | 01:06:34.620-01:06:40.249 | DM] Oh, I'll let you see them in a sec. Sorry, [[Claire can see]].
+[u0811 | 01:06:34.620-01:06:40.249 | DM] Oh, I'll let you see them in a sec. Sorry, {{Claire can see}}.
 [u0812 | 01:06:40.840-01:06:44.840 | DM] as you feel as these things drop off the ground. They're
 [u0813 | 01:06:45.130-01:06:45.510 | Seeker] Well.
 [u0814 | 01:06:48.300-01:06:55.700 | DM] It's like the very air itself is being yanked from your lungs.
@@ -860,7 +860,7 @@
 [u0860 | 01:10:10.350-01:10:11.709 | DM] Oh, wisdom. Okay.
 [u0861 | 01:10:14.400-01:10:15.980 | Delwath] But hold on!
 [u0862 | 01:10:17.400-01:10:19.000 | Delwath] Sorry with the
-[u0863 | 01:10:20.450-01:10:29.889 | Delwath] what was this? What was the Eldritch [[America's]] thing? I can know if it succeeds or fails its save before I cast the spell, right?
+[u0863 | 01:10:20.450-01:10:29.889 | Delwath] what was this? What was the Eldritch {{America's}} thing? I can know if it succeeds or fails its save before I cast the spell, right?
 [u0864 | 01:10:31.165-01:10:31.660 | DM] Yes!
 [u0865 | 01:10:31.660-01:10:33.099 | Delwath] Okay. So I'm gonna use that
 [u0866 | 01:10:33.100-01:10:35.419 | DM] Targeting. You're targeting both of the
@@ -1002,7 +1002,7 @@
 [u1002 | 01:21:06.870-01:21:09.500 | Wellby] up 20 feet. I'll add my height.
 [u1003 | 01:21:10.560-01:21:23.769 | DM] Okay Kenzo will rush forward to attack the big guy.
 [u1004 | 01:21:25.770-01:21:31.840 | DM] Actually, no point in getting that close because God
-[u1005 | 01:21:32.240-01:21:35.920 | DM] he's got [[Lingo's claw]] active, so we'll stay.
+[u1005 | 01:21:32.240-01:21:35.920 | DM] he's got {{Lingo's claw}} active, so we'll stay.
 [u1006 | 01:21:37.000-01:21:40.539 | DM] We'll stay back there, and he will
 [u1007 | 01:21:41.070-01:21:45.540 | DM] flurry of blows and make his 5 attacks
 [u1008 | 01:21:46.540-01:22:00.379 | DM] as he runs forward. The first—the first one's at advantage from, from Guiding Bolt. That hits
@@ -1092,7 +1092,7 @@
 [u1092 | 01:29:56.793-01:29:59.620 | Delwath] Wait! Are we in the silent zone now?
 [u1093 | 01:30:01.011-01:30:02.820 | Seeker] Yes, you're in the silence.
 [u1094 | 01:30:02.820-01:30:04.169 | Delwath] Not gonna burn.
-[u1095 | 01:30:05.260-01:30:12.050 | Delwath] Should I burn? You know what? I will cast—I'll cast Shield, whatever. [[Burnabs]].
+[u1095 | 01:30:05.260-01:30:12.050 | Delwath] Should I burn? You know what? I will cast—I'll cast Shield, whatever. {{Burnabs}}.
 [u1096 | 01:30:12.050-01:30:13.010 | DM] That misses
 [u1097 | 01:30:13.010-01:30:13.640 | Delwath] Yeah.
 [u1098 | 01:30:14.190-01:30:20.180 | DM] So the attack blasts against the wall of force, deflecting
@@ -1115,7 +1115,7 @@
 [u1115 | 01:31:17.670-01:31:18.789 | Delwath] Ranged attacks.
 [u1116 | 01:31:20.670-01:31:28.050 | Seeker] I could do Psychic Disruption. It's an Int save for 9d6.
 [u1117 | 01:31:28.050-01:31:31.439 | Delwath] Yeah, see, that would be pretty good. That's probably overkill. You could probably use something
-[u1118 | 01:31:31.440-01:31:41.080 | DM] Yeah, [[don't]] use it at the lowest level, because it's very low on hit points. So it's gonna—it's auto dies if you hit it with Psychic Disruption, because, even if it succeeds its save, it takes half damage.
+[u1118 | 01:31:31.440-01:31:41.080 | DM] Yeah, {{don't}} use it at the lowest level, because it's very low on hit points. So it's gonna—it's auto dies if you hit it with Psychic Disruption, because, even if it succeeds its save, it takes half damage.
 [u1119 | 01:31:41.080-01:31:41.630 | Delwath] Right
 [u1120 | 01:31:42.560-01:31:50.559 | Delwath] then I can move over here and fight this guy, which seems like protecting Wellby seems like a good move. So I'm gonna do that. I'm going to go over.
 [u1121 | 01:31:52.190-01:31:54.140 | Seeker] Construct was doing so. Good, though. Okay.
@@ -1136,7 +1136,7 @@
 [u1136 | 01:32:48.980-01:32:50.260 | Delwath] 14 damage.
 [u1137 | 01:32:55.040-01:33:03.649 | Delwath] So that guy got caught. That guy got caught on the side of my screen between a 19 and a 3. But it doesn't matter, because it still hits.
 [u1138 | 01:33:04.550-01:33:07.619 | Delwath] It's like they graphically had it wedge against the table.
-[u1139 | 01:33:07.790-01:33:13.280 | Delwath] 13 damage. Man, I'm rolling like the [[bike cursed]].
+[u1139 | 01:33:07.790-01:33:13.280 | Delwath] 13 damage. Man, I'm rolling like the {{bike cursed}}.
 [u1140 | 01:33:15.860-01:33:17.049 | DM] 23 hits.
 [u1141 | 01:33:20.070-01:33:24.239 | Delwath] Okay, that's better that. Much damage. 21 plus
 [u1142 | 01:33:24.240-01:33:33.539 | DM] That one's bloodied as it shrieks and sort of tries to stagger back slightly from you.
@@ -1146,7 +1146,7 @@
 [u1146 | 01:33:50.110-01:33:51.100 | Delwath] A spell.
 [u1147 | 01:33:51.550-01:33:53.020 | Delwath] I forgot about that
 [u1148 | 01:33:53.430-01:33:54.209 | Seeker] Oh, man!
-[u1149 | 01:33:54.210-01:33:59.580 | DM] I mean, you can [[jody, spouse]], move.
+[u1149 | 01:33:54.210-01:33:59.580 | DM] I mean, you can {{jody, spouse}}, move.
 [u1150 | 01:34:00.040-01:34:05.700 | Seeker] I do have catapult which does not have a verbal component
 [u1151 | 01:34:06.380-01:34:06.909 | DM] There you go!
 [u1152 | 01:34:06.910-01:34:07.920 | Delwath] Catapult him.
@@ -1309,11 +1309,11 @@
 [u1309 | 01:45:11.830-01:45:15.039 | Delwath] Kate, you should really cast Spare the Dying on Wellby.
 [u1310 | 01:45:15.510-01:45:16.889 | Riswynn] But it's not a Bonus Act
 [u1311 | 01:45:17.470-01:45:18.529 | Delwath] Know, I know, I know.
-[u1312 | 01:45:18.700-01:45:23.910 | Riswynn] I'm going to as soon as—[[that. It just seemed that I was gonna spend like making the world a better place]].
+[u1312 | 01:45:18.700-01:45:23.910 | Riswynn] I'm going to as soon as—{{that. It just seemed that I was gonna spend like making the world a better place}}.
 [u1313 | 01:45:23.910-01:45:24.260 | Delwath] Oh no!
 [u1314 | 01:45:24.500-01:45:24.980 | DM] Well.
 [u1315 | 01:45:24.980-01:45:25.330 | Delwath] Now
-[u1316 | 01:45:25.330-01:45:26.790 | DM] [[Well, the guys bad]].
+[u1316 | 01:45:25.330-01:45:26.790 | DM] {{Well, the guys bad}}.
 [u1317 | 01:45:27.870-01:45:28.430 | Seeker] Wait, what
 [u1318 | 01:45:29.330-01:45:31.070 | Delwath] Critically failed. His saving throw
 [u1319 | 01:45:31.110-01:45:33.950 | Wellby] What about the Bardic inspiration I have
@@ -1393,7 +1393,7 @@
 [u1393 | 01:50:13.420-01:50:14.370 | DM] That kills them.
 [u1394 | 01:50:14.970-01:50:15.640 | DM] It's good
 [u1395 | 01:50:18.860-01:50:19.949 | Delwath] Okay with? Well, so then.
-[u1396 | 01:50:19.950-01:50:21.399 | DM] [[We can and attack you]].
+[u1396 | 01:50:19.950-01:50:21.399 | DM] {{We can and attack you}}.
 [u1397 | 01:50:22.100-01:50:22.770 | DM] Wow.
 [u1398 | 01:50:22.770-01:50:23.149 | Delwath] No go ahead!
 [u1399 | 01:50:23.150-01:50:28.169 | DM] Somebody runs over to heal Wellby.
@@ -1612,7 +1612,7 @@
 [u1612 | 02:04:46.900-02:04:52.060 | Delwath] I mean, if the darkness is impenetrable in the whole space, we're not going to find anything.
 [u1613 | 02:04:52.290-02:04:54.840 | Delwath] I'm more curious if it actually is
 [u1614 | 02:04:58.460-02:04:58.820 | Wellby] Is that right?
-[u1615 | 02:04:59.080-02:05:01.600 | Riswynn] [[Tenner scroll everywhere, outside]].
+[u1615 | 02:04:59.080-02:05:01.600 | Riswynn] {{Tenner scroll everywhere, outside}}.
 [u1616 | 02:05:02.760-02:05:04.039 | Seeker] What's the name of the thing?
 [u1617 | 02:05:04.270-02:05:06.170 | Riswynn] Some parts of this building
 [u1618 | 02:05:07.950-02:05:10.060 | Seeker] What's the name of the thing we're looking for again
@@ -1638,7 +1638,7 @@
 [u1638 | 02:06:48.320-02:06:50.509 | Seeker] Is that even worth doing, though
 [u1639 | 02:06:50.510-02:06:53.000 | Wellby] Fixing it in the right like, because presumably
 [u1640 | 02:06:53.000-02:06:57.910 | Delwath] From—where would you put the mirror? What would you be reflecting, though?
-[u1641 | 02:06:57.910-02:07:04.890 | Seeker] [[Amberg]]. It would be a, a giant lens up in the trapdoor, and a mirror underneath it to that
+[u1641 | 02:06:57.910-02:07:04.890 | Seeker] {{Amberg}}. It would be a, a giant lens up in the trapdoor, and a mirror underneath it to that
 [u1642 | 02:07:04.890-02:07:06.020 | Delwath] Light that we had
 [u1643 | 02:07:06.290-02:07:06.990 | Wellby] Yeah.
 [u1644 | 02:07:06.990-02:07:08.790 | Delwath] Amber light that the woman had
@@ -1693,7 +1693,7 @@
 [u1693 | 02:10:00.940-02:10:03.649 | Wellby] Do we have a bowl with augury, or a mirror with augury
 [u1694 | 02:10:03.650-02:10:09.700 | DM] You have a mirror with Augury, but Kenzo can also do it at will from his Staff of the Forest Soul.
 [u1695 | 02:10:12.550-02:10:14.219 | DM] So what do you want to ask
-[u1696 | 02:10:17.430-02:10:18.070 | Riswynn] Does he have [[images]]?
+[u1696 | 02:10:17.430-02:10:18.070 | Riswynn] Does he have {{images}}?
 [u1697 | 02:10:18.070-02:10:20.280 | DM] Basically, here's what we're gonna do.
 [u1698 | 02:10:20.550-02:10:23.830 | DM] Will the results be good, bad, both or neither?
 [u1699 | 02:10:27.610-02:10:32.449 | Riswynn] So we're going to go fight the big bad. Will the results be good, bad, both or neither?
@@ -1732,21 +1732,21 @@
 [u1732 | 02:12:37.850-02:12:39.510 | DM] You can start attuning to it.
 [u1733 | 02:12:41.260-02:12:41.890 | Seeker] Sure.
 [u1734 | 02:12:44.630-02:12:47.820 | DM] You might get interrupted if you wait here for a full hour, but
-[u1735 | 02:12:48.675-02:12:57.510 | DM] you would have to unattune to, I guess, the [[bye]].
+[u1735 | 02:12:48.675-02:12:57.510 | DM] you would have to unattune to, I guess, the {{bye}}.
 [u1736 | 02:12:58.530-02:12:59.590 | DM] Wait. I don't.
 [u1737 | 02:13:00.300-02:13:05.830 | DM] I don't know what your are. You attuned to the binding stones?
 [u1738 | 02:13:06.800-02:13:09.149 | DM] It only says you're attuned to two things.
 [u1739 | 02:13:09.370-02:13:14.970 | Seeker] Right the binding stones. I've not found a use for so
 [u1740 | 02:13:16.090-02:13:19.489 | Delwath] I don't know why you're not attuned to the binding stones. They seem super cool
 [u1741 | 02:13:21.470-02:13:23.690 | Seeker] I literally haven't come up with a situation where I want
-[u1742 | 02:13:23.690-02:13:26.490 | Delwath] Weren't you attuned? [[Bells I could use them for]].
+[u1742 | 02:13:23.690-02:13:26.490 | Delwath] Weren't you attuned? {{Bells I could use them for}}.
 [u1743 | 02:13:29.110-02:13:31.720 | DM] Riswynn's attuned to the crown, which isn't on her
 [u1744 | 02:13:32.560-02:13:36.329 | DM] D&D Beyond sheet. That's why she only has two, like, two attunement slots.
 [u1745 | 02:13:36.590-02:13:39.730 | DM] I'm not sure why, Seeker only has 2 attunement slots
 [u1746 | 02:13:41.200-02:13:41.990 | Seeker] Hmm!
 [u1747 | 02:13:43.190-02:13:44.650 | Seeker] So something else.
 [u1748 | 02:13:47.370-02:13:49.439 | Seeker] Oh, it's the phasing stone
-[u1749 | 02:13:49.440-02:13:55.329 | Delwath] It was probably just—and then you unattuned from [[Vindicarda]] recently, and never attuned
+[u1749 | 02:13:49.440-02:13:55.329 | Delwath] It was probably just—and then you unattuned from {{Vindicarda}} recently, and never attuned
 [u1750 | 02:13:55.330-02:13:58.209 | DM] So you actually do probably have a spare attunement
 [u1751 | 02:13:58.210-02:13:59.630 | Seeker] Yeah, yeah.
 [u1752 | 02:13:59.790-02:14:00.820 | Seeker] So I could do it.
@@ -1774,7 +1774,7 @@
 [u1774 | 02:15:25.070-02:15:28.540 | Wellby] We could augury about searching through this tower
 [u1775 | 02:15:28.540-02:15:29.150 | Delwath] Okay.
 [u1776 | 02:15:29.760-02:15:33.190 | Riswynn] Yeah. So I ask in my ritual
-[u1777 | 02:15:35.880-02:15:45.370 | Riswynn] As we seek through this tower blindly, will what we seek be perceptible by its own [[race]]?
+[u1777 | 02:15:35.880-02:15:45.370 | Riswynn] As we seek through this tower blindly, will what we seek be perceptible by its own {{race}}?
 [u1778 | 02:15:47.290-02:15:51.280 | Riswynn] Is there hope to find something
 [u1779 | 02:15:51.720-02:15:54.830 | Riswynn] connecting us to the Cloud Spinner in this tower?
 [u1780 | 02:16:00.990-02:16:04.589 | DM] So that takes 10 min.
@@ -2191,7 +2191,7 @@
 [u2191 | 02:49:51.440-02:49:59.089 | DM] The but you do also sense from your tapping. You can tell that in the middle
 [u2192 | 02:49:59.360-02:50:05.648 | DM] of the floor the sort of central
 [u2193 | 02:50:07.720-02:50:11.330 | DM] 15 feet. It almost seems like there's a there's a
-[u2194 | 02:50:12.440-02:50:21.519 | DM] passageway that's about 15 feet wide [[underneath this tunnel]]. There's, like, a—from the middle, leading in towards the courtyard.
+[u2194 | 02:50:12.440-02:50:21.519 | DM] passageway that's about 15 feet wide {{underneath this tunnel}}. There's, like, a—from the middle, leading in towards the courtyard.
 [u2195 | 02:50:22.096-02:50:38.043 | DM] Though definitely, you can you catch a few places where the floor is clear. And you can, you know, just because of the quality of your investigation check, and with the scorpion being able to guide you and navigate you around all the boulders and stuff.
 [u2196 | 02:50:38.800-02:50:45.669 | DM] you can definitely get at least a few places that you're maybe 90% confident are
 [u2197 | 02:50:46.320-02:50:50.330 | DM] not dirt beneath you, but some kind of floor
@@ -2407,7 +2407,7 @@
 [u2407 | 03:07:19.120-03:07:23.050 | Delwath] Is there any? It's not like particularly difficult climbing. Right? Can I just climb down?
 [u2408 | 03:07:23.330-03:07:25.120 | Delwath] Given? I have a climb speed
 [u2409 | 03:07:25.120-03:07:27.200 | Wellby] Can I get bardic inspiration on that
-[u2410 | 03:07:27.980-03:07:35.610 | DM] Sure, 2d12, take the highest, I think. [[Mark offense]].
+[u2410 | 03:07:27.980-03:07:35.610 | DM] Sure, 2d12, take the highest, I think. {{Mark offense}}.
 [u2411 | 03:07:35.940-03:07:37.870 | Wellby] All right. That's 31,
 [u2412 | 03:07:39.082-03:07:42.390 | DM] Let's see, that's two that Seeker's used.
 [u2413 | 03:07:45.870-03:07:47.670 | DM] Yeah, I mean, you see.
@@ -2509,7 +2509,7 @@
 [u2509 | 03:18:49.350-03:18:50.460 | Wellby] Yeah.
 [u2510 | 03:18:50.460-03:18:51.529 | Riswynn] Let's give it a shot.
 [u2511 | 03:18:54.370-03:18:55.550 | Wellby] We're getting the shake
-[u2512 | 03:18:55.910-03:19:10.330 | DM] And the light of the driftglobe, even the Daylight spell, flickers briefly, weakly, and then [[flows]] and stops.
+[u2512 | 03:18:55.910-03:19:10.330 | DM] And the light of the driftglobe, even the Daylight spell, flickers briefly, weakly, and then {{flows}} and stops.
 [u2513 | 03:19:13.870-03:19:19.640 | Riswynn] Okay. So either take the time down here in the tunnel, the tunnel furthest from
 [u2514 | 03:19:20.900-03:19:26.730 | Riswynn] any. I mean, I think our tunnel, our original tunnel is the safest, because the other 2 are sort of leaky.
 [u2515 | 03:19:28.500-03:19:35.729 | Riswynn] Halfway down the tunnel in between the center, and we just take a whole short rest and attune to the
@@ -2555,7 +2555,7 @@
 [u2555 | 03:23:14.600-03:23:22.969 | Delwath] What's the what's the story we heard? So wait! Tell us again how we what we know about the
 [u2556 | 03:23:25.200-03:23:30.290 | Delwath] Prism Well? There was some story or something about
 [u2557 | 03:23:30.980-03:23:36.020 | Delwath] why—wasn't there a whole story about why there was these connections to the Prism Well, something about
-[u2558 | 03:23:36.680-03:23:46.160 | Delwath] getting help or seeking power, or [[wet amber and wet]] Cloud Spinner do something?
+[u2558 | 03:23:36.680-03:23:46.160 | Delwath] getting help or seeking power, or {{wet amber and wet}} Cloud Spinner do something?
 [u2559 | 03:23:48.680-03:23:57.899 | DM] the connections to the Prism Well? I mean, I don't, I don't remember if you ever got a super clear explanation, because it was all from Count Vashen, who was a bit
 [u2560 | 03:23:57.900-03:23:58.420 | Delwath] Right.
 [u2561 | 03:23:58.740-03:24:01.830 | DM] But I mean, yeah, it was basically part of
@@ -2576,7 +2576,7 @@
 [u2576 | 03:25:30.970-03:25:31.300 | Riswynn] Hey!
 [u2577 | 03:25:31.300-03:25:32.619 | Kenzo] Alive? Did Kenzo die?
 [u2578 | 03:25:32.820-03:25:34.210 | Delwath] No! Wellby did.
-[u2579 | 03:25:34.210-03:25:39.629 | DM] [[Five currently]], so killed the—killed the monsters.
+[u2579 | 03:25:34.210-03:25:39.629 | DM] {{Five currently}}, so killed the—killed the monsters.
 [u2580 | 03:25:39.970-03:25:43.869 | DM] Kenzo took no damage again. Wellby almost died.
 [u2581 | 03:25:44.590-03:25:46.769 | DM] Kenzo took 3 points of damage.
 [u2582 | 03:25:49.160-03:25:55.440 | DM] Yeah. But they made it down to the tower, avoided
@@ -2639,7 +2639,7 @@
 [u2639 | 03:30:05.290-03:30:06.969 | Riswynn] It would probably come down too
 [u2640 | 03:30:07.860-03:30:12.639 | Wellby] Maybe we need to do the opposite like, can we push this darkness out
 [u2641 | 03:30:13.210-03:30:19.609 | Wellby] somewhere else? Can we, these patchy, wispy, foggy bits of darkness. Can we move or manipulate them like, if if we like.
-[u2642 | 03:30:20.180-03:30:21.420 | Wellby] [[now shed it]]?
+[u2642 | 03:30:20.180-03:30:21.420 | Wellby] {{now shed it}}?
 [u2643 | 03:30:23.940-03:30:27.030 | Wellby] Do they move towards or away from light, like if they're
 [u2644 | 03:30:27.030-03:30:27.610 | Kenzo] Hello!
 [u2645 | 03:30:29.590-03:30:37.870 | DM] There's so far you have not been able to get any light to stick in this entire castle, except

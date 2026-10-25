@@ -50,7 +50,7 @@ Kenzo: How many years has it been since you've seen him?
 Seeker: Shoot, I don’t have the timeline in my head, Tim. It's like...
 
 %% u0057-u0060 %%
-DM: Ah, so... Hold on. Yeah. How old did you decide you were? I'm sure I have [[ready notes]].
+DM: Ah, so... Hold on. Yeah. How old did you decide you were? I'm sure I have {{ready notes}}.
 
 %% u0061-u0064 %%
 Seeker: I'm pretty young. See, there's the entire timeline. Where's my life story timeline?
@@ -80,7 +80,7 @@ Unknown: What?
 Delwath: Elves don't really have big families, I assume. No, yeah, like there would be very few elven kids at any given time, I assume. Yeah. Baking for the elders of our home was one of my favorite activities. They would... Children were rare. I was the only young one of my age in the town, you know, in our community.
 
 %% u0093-u0099 %%
-Delwath: [[You elves.]] At that time, it was a dark time. The rumors of hobgoblins and orcs were moving across the land, and this great darkness that she brought was starting to spread. Few were interested in the old traditions and the old foods and keeping to our ways. Everybody talked of the outside world and the change that's coming, and the end of an age is near. And all I wanted to do is cook for those folks who... I listened to the stories they told and appreciated their wisdom.
+Delwath: {{You elves.}} At that time, it was a dark time. The rumors of hobgoblins and orcs were moving across the land, and this great darkness that she brought was starting to spread. Few were interested in the old traditions and the old foods and keeping to our ways. Everybody talked of the outside world and the change that's coming, and the end of an age is near. And all I wanted to do is cook for those folks who... I listened to the stories they told and appreciated their wisdom.
 
 %% u0100-u0102 %%
 Delwath: I remember learning how to cook the sisila tree, which, not being elves yourselves, none of you have tasted it, but the fruit itself takes years to mature. And so usually you only get a few opportunities every couple decades to cook one of these cakes. And the honor and importance I felt as a youngster being allowed to take the fruit and bake one of the cakes for our celebration was a feeling I miss, a feeling of home that really I have not felt in many, many years. Delwath kind of crumbles the food. This is not the same as the food at home.
@@ -107,7 +107,7 @@ Kenzo: Well, I have a feeling we're going to be heading north at some point befo
 Delwath: Sometimes I think the memory of home would be tarnished if I found what it is now. I fear it's a different place or gone. I'd almost rather live in exile than discover that there's no home to return to.
 
 %% u0121-u0125 %%
-Kenzo: I feel similarly about Chardon. It was not a good place for a kid like me in a place like that. A lot of magic, but not for everyone, only for folks like this, [[is it opens for open scroll]], and I think... I have a feeling we're going to end up there at some point before long, but...
+Kenzo: I feel similarly about Chardon. It was not a good place for a kid like me in a place like that. A lot of magic, but not for everyone, only for folks like this, {{is it opens for open scroll}}, and I think... I have a feeling we're going to end up there at some point before long, but...
 
 %% u0126-u0133 %%
 Kenzo: If you were of the right lineage and from the right family, Chardon can be a very, very special place. But I think for young people like myself, my friends, you know, the idea of magic, I think, was much more dealing with the toxic waste from the chalyte refineries. Seeing what magic for the elites meant for us and the strange aftereffects from all the experiments that we would see in our neighborhood. So I feel like I've got a lot of mixed feelings about Chardon and potentially journeying there. But something about it calls to me still, I think.
@@ -128,7 +128,7 @@ Delwath: Yeah. The memory sustains me at times.
 Kenzo: It's beautiful.
 
 %% u0155-u0156 %%
-Seeker: Hey, [[I was good, said I]], apparently I stopped in Chardon before Karawa. We didn't make anything about that, so we should figure that out. It's important, what I did there.
+Seeker: Hey, {{I was good, said I}}, apparently I stopped in Chardon before Karawa. We didn't make anything about that, so we should figure that out. It's important, what I did there.
 
 %% u0157-u0158 %%
 DM: And yeah. Yeah.

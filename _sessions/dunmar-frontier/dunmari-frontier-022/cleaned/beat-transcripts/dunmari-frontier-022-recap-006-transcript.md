@@ -11,7 +11,7 @@
 Wellby: I think Wellby's gonna turn around. I think he's gonna say, “You know, I've been uncomfortable ever since we came through that door, because I feel like I just kind of surfed in behind you, Kenzo, and I'm not a devotee of...”
 
 %% u2556 %%
-Kenzo: [[Humility, what happens.]]
+Kenzo: {{Humility, what happens.}}
 
 %% u2557 %%
 Delwath: Yeah, Delwath is gonna go with Wellby.
@@ -68,10 +68,10 @@ Kenzo: Awesome. Should we do the one after that too?
 DM: Yeah, so we're doing a little Punk the thirtieth, right?
 
 %% u2579 %%
-Kenzo: [[Smells are.]]
+Kenzo: {{Smells are.}}
 
 %% u2580 %%
-Unknown: [[Slicer.]]
+Unknown: {{Slicer.}}
 
 %% u2581 %%
 DM: The seventh?
@@ -158,7 +158,7 @@ Delwath: So Thursday.
 Kenzo: I got it.
 
 %% u2614-u2615 %%
-DM: So you've got the twenty-third, Friday, and the thirtieth, Kung Fu Punk, and then the sixth, [[Talk gun]].
+DM: So you've got the twenty-third, Friday, and the thirtieth, Kung Fu Punk, and then the sixth, {{Talk gun}}.
 
 %% u2616 %%
 Unknown: Yep.
@@ -491,7 +491,7 @@ Seeker: Do you have to stay here and live here? No?
 Kenzo: No.
 
 %% u2852-u2853 %%
-Seeker: No. I mean, you've given your life to [[traditional]], right?
+Seeker: No. I mean, you've given your life to {{traditional}}, right?
 
 %% u2854 %%
 Kenzo: I think I already had.
@@ -596,7 +596,7 @@ Kenzo: So I hope you're saving all the notes in the chat. There's a lot of good 
 Kenzo: I do wonder about the nature of time.
 
 %% u2930 %%
-Seeker: [[A trip time.]]
+Seeker: {{A trip time.}}
 
 %% u2931-u2934 %%
 Kenzo: I used to dream of flowers like these. Never actually seen these flowers before until now, even though I remember them so vividly in my dreams. I wonder if somehow I've always known these flowers.
@@ -611,16 +611,16 @@ Seeker: Are there any clues as to the state of the grand scheme of the Mystai of
 Kenzo: Right question. Sorry, I think I just died right now, so forgive me if I'm a little out of it.
 
 %% u2941 %%
-Seeker: [[In the Balkans.]]
+Seeker: {{In the Balkans.}}
 
 %% u2942 %%
-Kenzo: [[Good washing.]]
+Kenzo: {{Good washing.}}
 
 %% u2943 %%
 Seeker: It's been a big day.
 
 %% u2944-u2946 %%
-Kenzo: And that's actually a really sensational question. Now kind of gathering, right, [[with adobe]]—are any of the paintings, is there anything suggestive of a story or something unfolding, not prophecy, like anything? Because I can recognize stories of stuff that's happened before, [[yeah icicle]], or you know what I mean. That stuff I can be like, “Oh, I think this painting is representing the story,” or whatever. Are there any weird, unusual paintings of things that I don't recognize at all?
+Kenzo: And that's actually a really sensational question. Now kind of gathering, right, {{with adobe}}—are any of the paintings, is there anything suggestive of a story or something unfolding, not prophecy, like anything? Because I can recognize stories of stuff that's happened before, {{yeah icicle}}, or you know what I mean. That stuff I can be like, “Oh, I think this painting is representing the story,” or whatever. Are there any weird, unusual paintings of things that I don't recognize at all?
 
 %% u2947 %%
 DM: Um.
@@ -665,7 +665,7 @@ Seeker: This is the actual inner sacred area.
 DM: Yeah, so there's always a public temple that anybody is welcome to go to, and it's usually devoted to, in this case, Bhishma or Shakun. You've been into the chapel of Shakun at the Shakun monastery in Karawa. Similarly, the monastery of Laka has a big temple for Laka, which is also part library, but public, that anybody can go to. Then the rest of the monastery is closed off only to acolytes and initiates.
 
 %% u2969 %%
-Seeker: [[The lady into this]], you can have three PhDs, Kong. That'd be amazing.
+Seeker: {{The lady into this}}, you can have three PhDs, Kong. That'd be amazing.
 
 %% u2970 %%
 Kenzo: Then I've already got two.
@@ -686,10 +686,10 @@ Kenzo: Well, Shakun is back in Karawa, right?
 DM: Shakun is missing.
 
 %% u2977-u2978 %%
-Kenzo: Right, right, right, oh yeah. So can I ask Bhishma where Shakun is? [[Around that right now.]]
+Kenzo: Right, right, right, oh yeah. So can I ask Bhishma where Shakun is? {{Around that right now.}}
 
 %% u2979 %%
-Seeker: [[I'm low.]]
+Seeker: {{I'm low.}}
 
 %% u2980 %%
 DM: Make a Religion check with advantage.
@@ -803,13 +803,13 @@ DM: I was like, wait, you're like, “Oh, I'm actually gonna die,” turns back.
 Seeker: It's not actually cool, yeah. Will step through an interdimensional portal, but not die, yeah.
 
 %% u3066-u3067 %%
-Kenzo: Well, I think it's also not dying, but it's also, you know, it would be like if the roles were reversed, and I could become [[I borbon Jim]].
+Kenzo: Well, I think it's also not dying, but it's also, you know, it would be like if the roles were reversed, and I could become {{I borbon Jim}}.
 
 %% u3068-u3069 %%
 DM: It doesn't make sense, right? It'd be a little weird.
 
 %% u3070 %%
-Kenzo: It'd just be a little like, you know, I might be really curious, but then once it got down to it, with my life—I'd give my life to become [[an adorable like Jim]]?
+Kenzo: It'd just be a little like, you know, I might be really curious, but then once it got down to it, with my life—I'd give my life to become {{an adorable like Jim}}?
 
 %% u3071 %%
 Seeker: I wanted to do it.
@@ -860,7 +860,7 @@ Seeker: That was amazing, Tim.
 Kenzo: This is—yeah, sessions. Wow, wow. And, Tim, do they even know any of this should happen, or is that Mike...?
 
 %% u3089 %%
-DM: [[Mike is worse]], yeah.
+DM: {{Mike is worse}}, yeah.
 
 %% u3090 %%
 Seeker: Yeah.
@@ -938,7 +938,7 @@ Kenzo: Souls well in order to...
 DM: Find your way back, or something like that.
 
 %% u3133-u3134 %%
-Kenzo: And you know, you should, though. I think our party should go through some trial by fire that forges, like, yeah, so we can get some built-in telepathy, and we can all just, you know, we kind of have to [[blow up with you]] now, but then actually have telepathy.
+Kenzo: And you know, you should, though. I think our party should go through some trial by fire that forges, like, yeah, so we can get some built-in telepathy, and we can all just, you know, we kind of have to {{blow up with you}} now, but then actually have telepathy.
 
 %% u3135 %%
 DM: In our char—yeah.
@@ -974,7 +974,7 @@ Kenzo: But my point is just that when we are ultra, ultra powerful, Kenzo is mas
 Seeker: Some technology that we use in the interdimensional iPhone.
 
 %% u3152 %%
-DM: In the [[Alexandria and talk are too]].
+DM: In the {{Alexandria and talk are too}}.
 
 %% u3153 %%
 Seeker: Yeah, yeah, that's good.
@@ -1022,7 +1022,7 @@ DM: One day, one of the treasures you're gonna run into is gonna be exactly the 
 Seeker: Unintended consequences, yeah.
 
 %% u3174 %%
-Kenzo: That'd be really good, Tim, because right now I feel like it's just, you know, [[I was just two of us]]—family of manticores, like, yeah, let's just take all the stuff.
+Kenzo: That'd be really good, Tim, because right now I feel like it's just, you know, {{I was just two of us}}—family of manticores, like, yeah, let's just take all the stuff.
 
 %% u3175-u3176 %%
 DM: Well, killing a family of manticores, I can kind of sympathize with. It's either them or the horses.

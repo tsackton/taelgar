@@ -1,6 +1,6 @@
 [u0001 | 00:00:03.580-00:00:16.119 | DM] Okay. So our adventure today starts in Morkalan, the bleak domain of the Shadowfell, a land of ash and mud,
-[u0002 | 00:00:17.050-00:00:35.090 | DM] where four adventurers, summoned by the dwarven gods, have traveled to find the dwarf warrior, Hagrim Firebrand, who long ago, one hundred, one hundred and fifty years ago, betrayed a bunch of dwarven refugees fleeing the falling kingdom of [[arm]]
-[u0003 | 00:00:35.100-00:00:35.970 | Unknown] [[test]],
+[u0002 | 00:00:17.050-00:00:35.090 | DM] where four adventurers, summoned by the dwarven gods, have traveled to find the dwarf warrior, Hagrim Firebrand, who long ago, one hundred, one hundred and fifty years ago, betrayed a bunch of dwarven refugees fleeing the falling kingdom of {{arm}}
+[u0003 | 00:00:35.100-00:00:35.970 | Unknown] {{test}},
 [u0004 | 00:00:36.840-00:00:40.239 | DM] turning on them and slaughtering them in the midst of the battle.
 [u0005 | 00:00:41.460-00:00:52.029 | DM] But now you all have come to this dark realm to find him and confront him about his evil deeds.
 [u0006 | 00:00:53.320-00:01:04.050 | DM] And you use the Chalice of the Runepriest to send him from this domain, either to judgment or forgiveness, depending on what you decide
@@ -18,7 +18,7 @@
 [u0018 | 00:02:19.710-00:02:21.980 | DM] after defeating those undead.
 [u0019 | 00:02:22.020-00:02:23.390 | DM] Ah, you
 [u0020 | 00:02:23.610-00:02:31.950 | DM] found the young dwarf Tak who had been hiding behind in this rock cave behind the
-[u0021 | 00:02:32.510-00:02:37.240 | DM] rubble, that the Undead were [[punk; that]] for the past few days,
+[u0021 | 00:02:32.510-00:02:37.240 | DM] rubble, that the Undead were {{punk; that}} for the past few days,
 [u0022 | 00:02:38.460-00:02:47.270 | DM] and after speaking with him, he agreed to take you to the ghost of Nora Silverspark one of the few in this place who might know where Hagrim is
 [u0023 | 00:02:49.560-00:02:50.960 | DM] now
 [u0024 | 00:02:51.510-00:02:53.299 | DM] walking along, the
@@ -67,7 +67,7 @@
 [u0067 | 00:06:36.190-00:06:41.929 | Merash] not begrudgingly, but a little upset at having to come back and pay their price.
 [u0068 | 00:06:45.240-00:06:51.980 | DM] So, as you all walk following Tak, who is a youngish dwarf, maybe forty or so,
 [u0069 | 00:06:53.800-00:06:55.110 | DM] for the
-[u0070 | 00:06:55.210-00:07:04.560 | DM] it looks like [[a man's lot, dusty]] without much of a beard wearing patched and mended clothes that have been
+[u0070 | 00:06:55.210-00:07:04.560 | DM] it looks like {{a man's lot, dusty}} without much of a beard wearing patched and mended clothes that have been
 [u0071 | 00:07:04.930-00:07:09.689 | DM] that have been sewed and mended many, many times over.
 [u0072 | 00:07:09.890-00:07:13.720 | DM] He moves with a sort of nervous energy, seeming
 [u0073 | 00:07:13.860-00:07:25.520 | DM] almost younger than he looks, never still never comfortable as he walks along the cliff, constantly glancing back to make sure you're following,
@@ -89,13 +89,13 @@
 [u0089 | 00:09:00.740-00:09:05.930 | DM] Do you want to discuss what you're planning on doing out of character first
 [u0090 | 00:09:06.090-00:09:07.150 | Unknown] here.
 [u0091 | 00:09:08.360-00:09:10.060 | Thror] Yeah, it's too funny.
-[u0092 | 00:09:10.070-00:09:11.690 | Thror] [[What are we planning on to make]]?
+[u0092 | 00:09:10.070-00:09:11.690 | Thror] {{What are we planning on to make}}?
 [u0093 | 00:09:12.170-00:09:14.519 | Riswynn] I think we just want to ask her.
 [u0094 | 00:09:14.740-00:09:16.950 | Riswynn] It's for information about
 [u0095 | 00:09:17.110-00:09:20.700 | Riswynn] her history with this place, and
-[u0096 | 00:09:21.380-00:09:23.649 | Riswynn] [[hold beard]], or whatever that ghost’s name is
-[u0097 | 00:09:24.450-00:09:25.800 | Rothfis] [[agriculture]].
-[u0098 | 00:09:34.290-00:09:40.349 | Thror] Well, then, the I think probably the three of us subtly glance over at Riswynn [[and give up]]
+[u0096 | 00:09:21.380-00:09:23.649 | Riswynn] {{hold beard}}, or whatever that ghost’s name is
+[u0097 | 00:09:24.450-00:09:25.800 | Rothfis] {{agriculture}}.
+[u0098 | 00:09:34.290-00:09:40.349 | Thror] Well, then, the I think probably the three of us subtly glance over at Riswynn {{and give up}}
 [u0099 | 00:09:40.360-00:09:42.349 | Unknown] bye,
 [u0100 | 00:09:42.760-00:09:45.129 | Riswynn] I will Yes, go ask her
 [u0101 | 00:09:46.690-00:09:47.700 | Unknown] you,
@@ -103,12 +103,12 @@
 [u0103 | 00:09:51.000-00:09:57.069 | Riswynn] we greet you. Tak has told us that we are in the presence of
 [u0104 | 00:09:57.800-00:10:00.789 | Riswynn] insert name here. I'm really doing badly with names right now.
 [u0105 | 00:10:00.800-00:10:04.449 | DM] Nora, Nora Silverspark
-[u0106 | 00:10:05.180-00:10:07.380 | Riswynn] Nora Silverspark, [[by meeting]].
+[u0106 | 00:10:05.180-00:10:07.380 | Riswynn] Nora Silverspark, {{by meeting}}.
 [u0107 | 00:10:07.610-00:10:11.689 | Riswynn] We are honored to meet you.
 [u0108 | 00:10:12.790-00:10:16.709 | Riswynn] We need to know more about this place where we find ourselves
 [u0109 | 00:10:16.860-00:10:19.090 | Riswynn] and the history of your party.
 [u0110 | 00:10:21.170-00:10:22.390 | Riswynn] I can
-[u0111 | 00:10:22.430-00:10:24.200 | Riswynn] [[to show our mission]],
+[u0111 | 00:10:22.430-00:10:24.200 | Riswynn] {{to show our mission}},
 [u0112 | 00:10:26.960-00:10:30.200 | Riswynn] and so we ask you if you will tell us the tale of
 [u0113 | 00:10:30.320-00:10:32.830 | Riswynn] how you came to this place,
 [u0114 | 00:10:34.530-00:10:36.480 | Riswynn] and what does it mean
@@ -116,17 +116,17 @@
 [u0116 | 00:10:46.300-00:10:50.299 | Riswynn] Everyone is trapped in the village of Bleakhold.
 [u0117 | 00:10:54.770-00:10:58.659 | DM] She looks over you sort of coldly and says.
 [u0118 | 00:11:00.140-00:11:02.249 | DM] And What is your mission?
-[u0119 | 00:11:08.680-00:11:11.220 | Riswynn] [[We see once your travels, of course]]
+[u0119 | 00:11:08.680-00:11:11.220 | Riswynn] {{We see once your travels, of course}}
 [u0120 | 00:11:12.410-00:11:14.979 | Riswynn] we seek one who traveled with you
 [u0121 | 00:11:16.120-00:11:18.089 | Riswynn] when you first came here.
 [u0122 | 00:11:23.640-00:11:25.060 | DM] She looks
-[u0123 | 00:11:28.600-00:11:29.780 | DM] [[two]].
+[u0123 | 00:11:28.600-00:11:29.780 | DM] {{two}}.
 [u0124 | 00:11:37.720-00:11:39.180 | Riswynn] Help me out
-[u0125 | 00:11:39.810-00:11:42.340 | Riswynn] [[that one man a man]].
+[u0125 | 00:11:39.810-00:11:42.340 | Riswynn] {{that one man a man}}.
 [u0126 | 00:11:44.000-00:11:45.639 | Rothfis] It's a
 [u0127 | 00:11:45.650-00:11:46.630 | Unknown] hey?
 [u0128 | 00:11:46.640-00:11:48.890 | Rothfis] Hi! We're looking for Hagrim!
-[u0129 | 00:11:54.890-00:11:57.339 | Rothfis] [[What we heard in this is, you are all]],
+[u0129 | 00:11:54.890-00:11:57.339 | Rothfis] {{What we heard in this is, you are all}},
 [u0130 | 00:11:58.990-00:12:02.019 | DM] What concern of yours is
 [u0131 | 00:12:02.360-00:12:04.030 | DM] Hagrim and
 [u0132 | 00:12:05.430-00:12:07.690 | DM] the ghosts of this place.
@@ -136,7 +136,7 @@
 [u0136 | 00:12:21.900-00:12:28.000 | DM] What business is of yours? What business is it of mine to aid you in this?
 [u0137 | 00:12:28.640-00:12:29.890 | DM] It's it
 [u0138 | 00:12:37.050-00:12:40.139 | Rothfis] honestly. I couldn't give two cusses about him, but
-[u0139 | 00:12:40.280-00:12:43.719 | Rothfis] the [[barriers. I’ll]] have me here to find Hagrim,
+[u0139 | 00:12:40.280-00:12:43.719 | Rothfis] the {{barriers. I’ll}} have me here to find Hagrim,
 [u0140 | 00:12:44.660-00:12:46.810 | Rothfis] so I must.
 [u0141 | 00:12:47.340-00:12:50.659 | Rothfis] My understanding is that you are the best we can do.
 [u0142 | 00:12:54.300-00:12:56.539 | Riswynn] It is in the interest of justice
@@ -160,7 +160,7 @@
 [u0160 | 00:14:26.040-00:14:31.540 | Riswynn] We cannot judge what we don't understand. We cannot serve justice to one. We cannot find
 [u0161 | 00:14:31.950-00:14:33.480 | Riswynn] you
 [u0162 | 00:14:33.740-00:14:34.840 | Riswynn] as
-[u0163 | 00:14:34.860-00:14:36.810 | Riswynn] [[a to tell]].
+[u0163 | 00:14:34.860-00:14:36.810 | Riswynn] {{a to tell}}.
 [u0164 | 00:14:37.060-00:14:38.100 | Riswynn] Oh,
 [u0165 | 00:14:38.570-00:14:41.820 | Riswynn] what this man has done, what this dwarf has done,
 [u0166 | 00:14:42.240-00:14:43.860 | Riswynn] or an
@@ -195,9 +195,9 @@
 [u0195 | 00:17:56.600-00:17:58.630 | Thror] What do you mean, this place?
 [u0196 | 00:18:04.740-00:18:07.330 | DM] Do not know. It's been so long.
 [u0197 | 00:18:11.550-00:18:14.639 | DM] She turns, and she sort of, and she looks at Tak.
-[u0198 | 00:18:17.150-00:18:19.629 | DM] [[There was born here. I've never,]]
-[u0199 | 00:18:22.030-00:18:23.630 | DM] [[or even]]
-[u0200 | 00:18:24.040-00:18:27.749 | DM] [[the blessing of the gods of the]]
+[u0198 | 00:18:17.150-00:18:19.629 | DM] {{There was born here. I've never,}}
+[u0199 | 00:18:22.030-00:18:23.630 | DM] {{or even}}
+[u0200 | 00:18:24.040-00:18:27.749 | DM] {{the blessing of the gods of the}}
 [u0201 | 00:18:29.390-00:18:31.120 | DM] their names.
 [u0202 | 00:18:34.530-00:18:36.010 | DM] We have been
 [u0203 | 00:18:36.040-00:18:37.500 | DM] cut off
@@ -240,21 +240,21 @@
 [u0240 | 00:21:21.590-00:21:24.450 | DM] traveling with that very chalice,
 [u0241 | 00:21:26.980-00:21:28.600 | DM] looking for
 [u0242 | 00:21:29.700-00:21:33.089 | DM] refugees for those who had survived the great war,
-[u0243 | 00:21:35.400-00:21:36.960 | DM] [[i’m]]
+[u0243 | 00:21:35.400-00:21:36.960 | DM] {{i’m}}
 [u0244 | 00:21:37.260-00:21:39.379 | DM] in those days was a
 [u0245 | 00:21:39.960-00:21:42.189 | DM] seasoned veteran
 [u0246 | 00:21:42.490-00:21:43.570 | DM] fought.
 [u0247 | 00:21:43.620-00:21:46.339 | DM] mind flayers and worse, and the
 [u0248 | 00:21:46.350-00:21:48.390 | DM] the deeps underneath
 [u0249 | 00:21:49.300-00:21:50.970 | DM] the mountains
-[u0250 | 00:21:53.210-00:21:55.669 | Unknown] [[happened to him there]], because
+[u0250 | 00:21:53.210-00:21:55.669 | Unknown] {{happened to him there}}, because
 [u0251 | 00:21:57.160-00:21:59.220 | DM] well, he didn't want to.
 [u0252 | 00:22:00.260-00:22:06.440 | DM] He didn't want to go. He was reluctant to join our expedition.
 [u0253 | 00:22:08.110-00:22:11.640 | DM] I think he was hoping maybe, for a heroic death.
 [u0254 | 00:22:15.430-00:22:17.350 | DM] We found
 [u0255 | 00:22:17.360-00:22:19.150 | Unknown] many refugees
 [u0256 | 00:22:20.170-00:22:22.759 | DM] turned south.
-[u0257 | 00:22:23.120-00:22:25.759 | DM] [[We did, but not to feed It]]
+[u0257 | 00:22:23.120-00:22:25.759 | DM] {{We did, but not to feed It}}
 [u0258 | 00:22:25.830-00:22:27.409 | DM] fled with maybe
 [u0259 | 00:22:27.520-00:22:30.860 | DM] five hundred dwarfs, hoping to lead them to safety.
 [u0260 | 00:22:34.180-00:22:37.860 | DM] North of the human city of Tokra we encountered
@@ -281,8 +281,8 @@
 [u0281 | 00:24:02.440-00:24:05.299 | DM] I was young. It was my first battle.
 [u0282 | 00:24:09.860-00:24:11.929 | DM] I ordered a retreat
 [u0283 | 00:24:12.210-00:24:14.469 | DM] which turned into a rout.
-[u0284 | 00:24:15.590-00:24:16.920 | DM] [[A man]]!
-[u0285 | 00:24:18.850-00:24:20.240 | DM] [[My! Fled]].
+[u0284 | 00:24:15.590-00:24:16.920 | DM] {{A man}}!
+[u0285 | 00:24:18.850-00:24:20.240 | DM] {{My! Fled}}.
 [u0286 | 00:24:25.100-00:24:27.950 | DM] Something in Hagrim snapped. I think he thought
 [u0287 | 00:24:28.180-00:24:30.090 | DM] I had turned on
 [u0288 | 00:24:30.390-00:24:31.860 | DM] the dwarfs,
@@ -316,7 +316,7 @@
 [u0316 | 00:26:41.300-00:26:43.790 | DM] the site of his last battle, either
 [u0317 | 00:26:44.520-00:26:46.609 | DM] at the feet of that statue.
 [u0318 | 00:26:56.020-00:26:58.669 | DM] I don't know if he even remembers anymore,
-[u0319 | 00:27:02.590-00:27:03.990 | DM] [[Summer]].
+[u0319 | 00:27:02.590-00:27:03.990 | DM] {{Summer}}.
 [u0320 | 00:27:04.000-00:27:05.570 | DM] Some say that the
 [u0321 | 00:27:05.660-00:27:11.850 | DM] ghosts that haunt the ruined statue are Hagrim's memories made spirit.
 [u0322 | 00:27:18.720-00:27:21.910 | Unknown] You,
@@ -383,7 +383,7 @@
 [u0383 | 00:33:02.910-00:33:05.360 | DM] Nobody knows if he's alive or dead,
 [u0384 | 00:33:05.960-00:33:09.930 | Riswynn] but he was telling stories of the places you were all from.
 [u0385 | 00:33:10.320-00:33:12.049 | Riswynn] If I recall your
-[u0386 | 00:33:12.300-00:33:15.030 | Riswynn] [[neighborhoods fathers tales]],
+[u0386 | 00:33:12.300-00:33:15.030 | Riswynn] {{neighborhoods fathers tales}},
 [u0387 | 00:33:33.360-00:33:35.989 | Thror] how would you find a person in the wastes?
 [u0388 | 00:33:41.990-00:33:43.730 | DM] Well, um!
 [u0389 | 00:33:44.760-00:33:47.259 | DM] This is Tak speaking. I
@@ -411,8 +411,8 @@
 [u0411 | 00:35:27.400-00:35:30.230 | DM] perhaps with powerful magic.
 [u0412 | 00:35:39.060-00:35:41.410 | Unknown] And you don't hear the gods here, then
 [u0413 | 00:35:44.500-00:35:45.640 | DM] No!
-[u0414 | 00:35:55.170-00:35:56.870 | DM] [[Does he die]].
-[u0415 | 00:35:57.350-00:35:58.509 | DM] [[Stay]]!
+[u0414 | 00:35:55.170-00:35:56.870 | DM] {{Does he die}}.
+[u0415 | 00:35:57.350-00:35:58.509 | DM] {{Stay}}!
 [u0416 | 00:36:00.510-00:36:02.729 | DM] Even death is not an escape
 [u0417 | 00:36:11.970-00:36:15.740 | Rothfis] getting your spirit eaten by a troll an escape.
 [u0418 | 00:36:20.030-00:36:21.259 | DM] Maybe
@@ -454,7 +454,7 @@
 [u0454 | 00:39:53.860-00:39:59.019 | Rothfis] so, are we contemplating going to see the humans? Then
 [u0455 | 00:40:00.980-00:40:03.690 | Thror] I'd rather
 [u0456 | 00:40:03.700-00:40:08.999 | Thror] I agree, because if the humans went looking for the chalice and we have the chalice,
-[u0457 | 00:40:11.970-00:40:13.989 | Rothfis] the because when I was in [[the Iraq]],
+[u0457 | 00:40:11.970-00:40:13.989 | Rothfis] the because when I was in {{the Iraq}},
 [u0458 | 00:40:14.000-00:40:18.350 | Thror] Yeah, if we don't want to give it up. It might be a fight.
 [u0459 | 00:40:18.720-00:40:22.009 | Rothfis] I don't know if they've got much to,
 [u0460 | 00:40:23.140-00:40:27.569 | Riswynn] they can sit where they're sitting and sit some more
@@ -473,7 +473,7 @@
 [u0473 | 00:41:40.420-00:41:48.020 | DM] so you could easily go south to Bleakhold, and then cross or go north a little bit further, and then cross.
 [u0474 | 00:41:49.210-00:41:57.159 | DM] The statue itself is only like it's not. I mean. It's big, but it's like sixty feet tall or something like that. It's not
 [u0475 | 00:41:57.370-00:41:59.740 | DM] miles and miles across,
-[u0476 | 00:42:09.140-00:42:13.669 | DM] so you so it's not. You don't need a sneak. You can just walk in a circle and [[get one]].
+[u0476 | 00:42:09.140-00:42:13.669 | DM] so you so it's not. You don't need a sneak. You can just walk in a circle and {{get one}}.
 [u0477 | 00:42:15.510-00:42:21.969 | Rothfis] Is there something that we think the mad priest has we need before we go to the statue.
 [u0478 | 00:42:27.410-00:42:36.539 | Thror] What did the ghost just tell us? I feel awkward saying this in front of the ghost. What are we? Just what's the relationship between the two of them again. The mad priest and Morkalan
 [u0479 | 00:42:36.820-00:42:38.350 | Riswynn] cousins.
@@ -504,7 +504,7 @@
 [u0504 | 00:44:58.030-00:45:01.800 | Riswynn] i'd rather do that than make a bee line for the battle.
 [u0505 | 00:45:04.860-00:45:10.100 | Rothfis] You'd rather maybe bump into a spirits eating troll along the way.
 [u0506 | 00:45:13.480-00:45:22.769 | Riswynn] I'm more worried about facing Hagrim unprepared, and not being able to complete our mission than having to fight a troll,
-[u0507 | 00:45:27.390-00:45:33.029 | Rothfis] I mean, i'm going home either way. [[I'm just been in a little silver thing]].
+[u0507 | 00:45:27.390-00:45:33.029 | Rothfis] I mean, i'm going home either way. {{I'm just been in a little silver thing}}.
 [u0508 | 00:45:37.650-00:45:43.340 | Rothfis] I'm not gonna go on my own. So if if it's to the waste, i'll go to the wastes.
 [u0509 | 00:45:46.900-00:45:56.490 | Rothfis] If I don't do this right. The Ironhorns are going to continue to pester me for the rest of time, and i'd rather that this was properly severed.
 [u0510 | 00:45:59.050-00:46:03.299 | Rothfis] I don't want any more. Oh, but can we just talk about this? No.
@@ -514,7 +514,7 @@
 [u0514 | 00:46:36.590-00:46:39.050 | DM] Somebody has just got to make a decision.
 [u0515 | 00:46:40.870-00:46:43.860 | DM] You're currently somewhat north of the statue.
 [u0516 | 00:46:45.090-00:46:51.469 | Merash] Sounds like we're going to the statue, but in a roundabout way we kind of
-[u0517 | 00:46:52.060-00:46:54.600 | Merash] [[into the waste]] a bit.
+[u0517 | 00:46:52.060-00:46:54.600 | Merash] {{into the waste}} a bit.
 [u0518 | 00:46:59.490-00:47:00.750 | DM] Okay,
 [u0519 | 00:47:07.670-00:47:10.579 | DM] uh. So are you heading
 [u0520 | 00:47:13.010-00:47:20.740 | DM] like straight across the river and then turn south, or you're gonna circle back to Bleakhold and then cross and head north
@@ -547,7 +547,7 @@
 [u0547 | 00:49:25.300-00:49:26.679 | DM] Bleakhold.
 [u0548 | 00:49:27.040-00:49:29.100 | DM] He's not going to insist on it.
 [u0549 | 00:49:35.470-00:49:42.260 | Merash] I think if we go back to Bleak and then cross, then we at least get like more of a
-[u0550 | 00:49:42.860-00:49:47.709 | Merash] [[their creature is the wastelands]] back to the shadow or to the statue,
+[u0550 | 00:49:42.860-00:49:47.709 | Merash] {{their creature is the wastelands}} back to the shadow or to the statue,
 [u0551 | 00:49:48.410-00:49:50.950 | Merash] and then we can also make sure that Tak’s home okay.
 [u0552 | 00:49:57.400-00:50:01.299 | Thror] I think we should go looking for the priest first, because,
 [u0553 | 00:50:02.030-00:50:06.319 | Thror] you know, even if things go badly at the statue and we're sent off to the wastes,
@@ -568,13 +568,13 @@
 [u0568 | 00:51:05.740-00:51:08.700 | DM] and find your way across the river.
 [u0569 | 00:51:10.160-00:51:16.990 | DM] The land on the far side of the river is so there's a big cliff that runs along the
 [u0570 | 00:51:17.000-00:51:23.969 | DM] left bank of the river, but the right bank is just the sort of flat expanse almost unmarked, except for that
-[u0571 | 00:51:24.080-00:51:25.309 | DM] [[um go]].
+[u0571 | 00:51:24.080-00:51:25.309 | DM] {{um go}}.
 [u0572 | 00:51:25.950-00:51:33.939 | DM] Huge legs of the statue ahead, and the sort of broken sort of crumbled, headless body.
 [u0573 | 00:51:34.220-00:51:35.359 | DM] Um!
 [u0574 | 00:51:35.450-00:51:41.739 | DM] You see a there's like occasional like clouds of dust blowing across, and it's
 [u0575 | 00:51:41.920-00:51:42.970 | Unknown] um!
 [u0576 | 00:51:43.120-00:51:45.990 | DM] It's sort of dry and dusty.
-[u0577 | 00:51:47.520-00:51:55.309 | DM] Everything is sort of obscured by the dust. There's a [[fate]], even though there's not really. You can't really feel a wind. It's like
+[u0577 | 00:51:47.520-00:51:55.309 | DM] Everything is sort of obscured by the dust. There's a {{fate}}, even though there's not really. You can't really feel a wind. It's like
 [u0578 | 00:51:55.330-00:52:03.869 | DM] as if there was a wind blowing up dust. So everything was considered lightly obscured, so it's hard to see much.
 [u0579 | 00:52:04.250-00:52:05.549 | DM] Um!
 [u0580 | 00:52:06.670-00:52:14.479 | DM] What is your you're just gonna like wander around. You have direction you want to head
@@ -586,13 +586,13 @@
 [u0586 | 00:52:51.370-00:52:53.080 | DM] there. Okay,
 [u0587 | 00:52:53.540-00:52:54.799 | DM] Um,
 [u0588 | 00:52:55.780-00:53:12.870 | Rothfis] I mean, there's not like signs or trails. There's some,
-[u0589 | 00:53:13.840-00:53:22.699 | Rothfis] you know, [[opt a little bit]] I could. I could also fly up into the air with my boots to get some higher ground.
+[u0589 | 00:53:13.840-00:53:22.699 | Rothfis] you know, {{opt a little bit}} I could. I could also fly up into the air with my boots to get some higher ground.
 [u0590 | 00:53:23.720-00:53:28.579 | Merash] That would that would also give you
 [u0591 | 00:53:29.010-00:53:30.229 | DM] um
 [u0592 | 00:53:31.670-00:53:34.309 | DM] uh give you some.
 [u0593 | 00:53:35.970-00:53:40.129 | Rothfis] Certainly it wouldn't be stealthy, but I can. I can go up quite a bit.
 [u0594 | 00:53:42.090-00:53:43.880 | Thror] I think it's a fine idea.
-[u0595 | 00:53:45.150-00:53:52.790 | Rothfis] Yeah, all right. See you in an hour or so, and I just start sprinting [[northward]]
+[u0595 | 00:53:45.150-00:53:52.790 | Rothfis] Yeah, all right. See you in an hour or so, and I just start sprinting {{northward}}
 [u0596 | 00:53:52.800-00:53:58.299 | Rothfis] to the heavens, I suppose. Okay, make it. Make a perception check.
 [u0597 | 00:53:59.190-00:54:01.549 | DM] I'm going to say straight roll
 [u0598 | 00:54:03.280-00:54:10.040 | DM] advantage for being, for your your perspective being cancelled by the disadvantage from the obscurement.
@@ -631,14 +631,14 @@
 [u0631 | 00:56:53.520-00:56:57.629 | Rothfis] Ok. Well, I will fly back down to the group
 [u0632 | 00:57:00.530-00:57:04.850 | Rothfis] overall at this point. How long would you say I flew for like one or two hours?
 [u0633 | 00:57:05.220-00:57:08.480 | DM] Um, i'd say that was about an hour
-[u0634 | 00:57:08.490-00:57:09.740 | DM] [[to show it all]].
-[u0635 | 00:57:10.110-00:57:13.749 | Rothfis] [[And you I am]]. Yeah. Three hours left on the boots.
+[u0634 | 00:57:08.490-00:57:09.740 | DM] {{to show it all}}.
+[u0635 | 00:57:10.110-00:57:13.749 | Rothfis] {{And you I am}}. Yeah. Three hours left on the boots.
 [u0636 | 00:57:14.550-00:57:16.250 | Rothfis] Um,
 [u0637 | 00:57:19.850-00:57:21.770 | Rothfis] all right. So
-[u0638 | 00:57:22.510-00:57:32.209 | Rothfis] Rock, rock, rock, [[the mad priest chile that the statue for sure]].
+[u0638 | 00:57:22.510-00:57:32.209 | Rothfis] Rock, rock, rock, {{the mad priest chile that the statue for sure}}.
 [u0639 | 00:57:34.400-00:57:37.489 | Rothfis] No, I did. I saw a cave, though
 [u0640 | 00:57:37.980-00:57:47.720 | Rothfis] maybe that's where the trolls live. But maybe that's a refuge for the spirits, or maybe it's full of gold,
-[u0641 | 00:57:48.650-00:57:54.760 | Rothfis] [[a task available in]]. I've got one of those I don't need that I don't know what's in the cave.
+[u0641 | 00:57:48.650-00:57:54.760 | Rothfis] {{a task available in}}. I've got one of those I don't need that I don't know what's in the cave.
 [u0642 | 00:57:55.710-00:57:56.850 | Rothfis] Um,
 [u0643 | 00:57:57.480-00:58:00.789 | Rothfis] it's pretty bloody bleak out there it.
 [u0644 | 00:58:03.260-00:58:09.410 | Thror] I think the cave sounds good, and if it's the priest we talk to him, and if it's the trolls, we ask them where the priests are
@@ -665,7 +665,7 @@
 [u0665 | 01:00:02.700-01:00:06.850 | Rothfis] So maybe you're up front. I could. I could keep watch up front.
 [u0666 | 01:00:08.470-01:00:09.589 | DM] Okay,
 [u0667 | 01:00:09.600-01:00:10.609 | Thror] yeah,
-[u0668 | 01:00:10.620-01:00:11.599 | Riswynn] [[for ten]]
+[u0668 | 01:00:10.620-01:00:11.599 | Riswynn] {{for ten}}
 [u0669 | 01:00:12.330-01:00:15.469 | Rothfis] uh make a perception check with disadvantage,
 [u0670 | 01:00:15.910-01:00:17.549 | Merash] with disadvantage.
 [u0671 | 01:00:17.760-01:00:20.529 | DM] Because you're walking through dust clouds.
@@ -713,15 +713,15 @@
 [u0713 | 01:04:01.550-01:04:10.250 | DM] Twenty points of necrotic damage to Merash, and you are frightened. Ten points of necrotic damage to Thror, and you are not frightened,
 [u0714 | 01:04:12.190-01:04:14.840 | DM] and now Thror is up.
 [u0715 | 01:04:17.750-01:04:19.240 | Thror] Yes,
-[u0716 | 01:04:20.930-01:04:22.279 | Thror] [[i’m sick]].
+[u0716 | 01:04:20.930-01:04:22.279 | Thror] {{i’m sick}}.
 [u0717 | 01:04:38.440-01:04:40.680 | DM] Rothfis is next.
 [u0718 | 01:04:42.050-01:04:44.949 | DM] But you are frightened so you cannot approach it.
 [u0719 | 01:04:46.380-01:04:51.570 | Thror] All right. I'm going to come in and um Shocking Grasp it and then
 [u0720 | 01:04:52.170-01:04:54.490 | Thror] float back away again on my
 [u0721 | 01:04:54.500-01:04:55.509 | DM] okay,
-[u0722 | 01:04:56.210-01:04:57.970 | Thror] [[just of things]].
+[u0722 | 01:04:56.210-01:04:57.970 | Thror] {{just of things}}.
 [u0723 | 01:04:58.100-01:05:03.799 | Thror] So i'm gonna leave myself here because I'm coming right back to the same, actually.
-[u0724 | 01:05:03.840-01:05:06.030 | Thror] But [[Billy Mcmahon has built her]]
+[u0724 | 01:05:03.840-01:05:06.030 | Thror] But {{Billy Mcmahon has built her}}
 [u0725 | 01:05:09.620-01:05:10.779 | DM] a
 [u0726 | 01:05:11.370-01:05:13.419 | DM] that misses
 [u0727 | 01:05:15.730-01:05:22.739 | Thror] Oh, no that wasn't your attack? That's the damage you got to roll an attack.
@@ -791,12 +791,12 @@
 [u0791 | 01:10:57.610-01:11:01.730 | DM] It's two natural ones. Awesome.
 [u0792 | 01:11:02.430-01:11:04.750 | DM] That ends its turn. Riswynn, you’re up
 [u0793 | 01:11:06.790-01:11:08.740 | Riswynn] all right. Um
-[u0794 | 01:11:10.080-01:11:11.349 | Riswynn] [[Speaker]]:
+[u0794 | 01:11:10.080-01:11:11.349 | Riswynn] {{Speaker}}:
 [u0795 | 01:11:12.250-01:11:13.570 | Riswynn] A
-[u0796 | 01:11:14.350-01:11:18.330 | Riswynn] [[spiritual needs]], so I know It's a it's. Hold on a sec.
+[u0796 | 01:11:14.350-01:11:18.330 | Riswynn] {{spiritual needs}}, so I know It's a it's. Hold on a sec.
 [u0797 | 01:11:25.160-01:11:26.359 | DM] Go ahead.
 [u0798 | 01:11:27.530-01:11:28.740 | Riswynn] Um.
-[u0799 | 01:11:29.560-01:11:34.069 | Riswynn] [[Theory. Spiritual needs]] some spirit fighting. So i'm going to cast
+[u0799 | 01:11:29.560-01:11:34.069 | Riswynn] {{Theory. Spiritual needs}} some spirit fighting. So i'm going to cast
 [u0800 | 01:11:38.490-01:11:39.719 | Riswynn] um.
 [u0801 | 01:11:39.770-01:11:44.819 | Riswynn] Does the spirit guardians do an attack, or is it just as a defensive thing.
 [u0802 | 01:11:44.890-01:11:50.879 | DM] Spirit guardians. When when enemy starts its turn within fifteen feet of you.
@@ -810,10 +810,10 @@
 [u0810 | 01:12:15.990-01:12:18.459 | Riswynn] No, I hit Spiritual Weapon. Didn't I?
 [u0811 | 01:12:19.460-01:12:23.759 | Riswynn] You right? You meant to cast Spirit Guardians, right? Yes, yes.
 [u0812 | 01:12:35.520-01:12:39.150 | DM] So you you want to make sure you move.
-[u0813 | 01:12:39.310-01:12:42.399 | DM] So it's within the [[whip]] radius.
+[u0813 | 01:12:39.310-01:12:42.399 | DM] So it's within the {{whip}} radius.
 [u0814 | 01:12:42.790-01:12:43.809 | Riswynn] Yeah,
 [u0815 | 01:12:49.290-01:12:50.440 | Unknown] okay.
-[u0816 | 01:12:51.180-01:12:52.550 | Riswynn] [[The good to block]]
+[u0816 | 01:12:51.180-01:12:52.550 | Riswynn] {{The good to block}}
 [u0817 | 01:12:53.850-01:12:57.939 | Riswynn] somebody Is that protective, or is that going to hamper somebody's attack?
 [u0818 | 01:13:00.080-01:13:02.159 | Rothfis] Um. I don't see anything
 [u0819 | 01:13:08.450-01:13:11.819 | Riswynn] i'm trying to figure out whose token is
@@ -822,7 +822,7 @@
 [u0822 | 01:13:17.920-01:13:20.500 | DM] That's um. That's Thror.
 [u0823 | 01:13:21.680-01:13:23.899 | Riswynn] Am I going to be in Thror’s way?
 [u0824 | 01:13:25.780-01:13:28.739 | Riswynn] He can move around you easily enough.
-[u0825 | 01:13:28.750-01:13:30.729 | Thror] [[I’ll scan]],
+[u0825 | 01:13:28.750-01:13:30.729 | Thror] {{I’ll scan}},
 [u0826 | 01:13:30.740-01:13:37.530 | Riswynn] I i'll stand there with my armor in case that the troll wants to lash out, and I will do my spirit guardian thing.
 [u0827 | 01:13:38.040-01:13:40.480 | DM] Okay, Merash, you’re up
 [u0828 | 01:13:42.090-01:13:46.189 | Merash] uh, okay, I am going to.
@@ -905,7 +905,7 @@
 [u0905 | 01:19:36.130-01:19:41.389 | Rothfis] I say, don’t punch it unless you're looking to die
 [u0906 | 01:19:41.900-01:19:55.449 | DM] that is going to be. its turn now, and it's standing in the spirit Guardian. So it needs to make a wisdom saving throw, which is a six. So how much damage does it take
 [u0907 | 01:19:56.330-01:19:58.209 | Riswynn] from the spirit guardians.
-[u0908 | 01:19:58.290-01:20:06.349 | Riswynn] You casted it. [[Did you count to the other level]]? So that's 4d8. So just roll 4d8,
+[u0908 | 01:19:58.290-01:20:06.349 | Riswynn] You casted it. {{Did you count to the other level}}? So that's 4d8. So just roll 4d8,
 [u0909 | 01:20:09.370-01:20:11.639 | DM] and that's radiant damage.
 [u0910 | 01:20:11.810-01:20:15.969 | Riswynn] Well, I have a choice of radiant, or, I think, necrotic. But
 [u0911 | 01:20:16.380-01:20:18.169 | Riswynn] I was going for radiance.
@@ -922,8 +922,8 @@
 [u0922 | 01:21:02.700-01:21:03.969 | DM] ah
 [u0923 | 01:21:04.550-01:21:06.740 | DM] at Rothfis.
 [u0924 | 01:21:07.020-01:21:08.269 | DM] Actually it'll
-[u0925 | 01:21:08.620-01:21:10.019 | DM] [[they don’t talk]]
-[u0926 | 01:21:10.030-01:21:12.300 | DM] [[rest of the claw first]],
+[u0925 | 01:21:08.620-01:21:10.019 | DM] {{they don’t talk}}
+[u0926 | 01:21:10.030-01:21:12.300 | DM] {{rest of the claw first}},
 [u0927 | 01:21:13.040-01:21:15.059 | DM] see whether it can hit her.
 [u0928 | 01:21:15.230-01:21:21.669 | DM] That's a fifteen that misses so it's going to turn and bite at Rothfis.
 [u0929 | 01:21:22.450-01:21:24.309 | DM] That is a
@@ -935,7 +935,7 @@
 [u0935 | 01:21:46.990-01:21:48.570 | DM] Let's see
 [u0936 | 01:21:51.830-01:21:53.740 | DM] It's going to
 [u0937 | 01:21:53.820-01:21:56.059 | DM] step on top of you.
-[u0938 | 01:21:57.660-01:22:03.169 | DM] So it's floating over you, and then make its second claw attack against [[met]]
+[u0938 | 01:21:57.660-01:22:03.169 | DM] So it's floating over you, and then make its second claw attack against {{met}}
 [u0939 | 01:22:03.470-01:22:05.819 | DM] Merash, which is a twenty.
 [u0940 | 01:22:06.550-01:22:08.240 | Merash] That is
 [u0941 | 01:22:09.700-01:22:12.209 | DM] so. That's going to be.
@@ -948,10 +948,10 @@
 [u0948 | 01:22:41.230-01:22:45.270 | DM] so Riswynn. You can make an attack of opportunity against them if you want to,
 [u0949 | 01:22:46.310-01:22:50.060 | Riswynn] because it was trying to get outside of the Spirit Guardians.
 [u0950 | 01:22:50.500-01:22:53.450 | Riswynn] Well, I see no reason why I wouldn't want to
-[u0951 | 01:22:53.620-01:22:55.479 | Riswynn] [[thank you right at all]].
+[u0951 | 01:22:53.620-01:22:55.479 | Riswynn] {{thank you right at all}}.
 [u0952 | 01:22:56.490-01:22:58.149 | Riswynn] What kind of attack?
 [u0953 | 01:22:58.560-01:23:01.300 | DM] Ah, just with Shatterstorm with your war hammer.
-[u0954 | 01:23:09.630-01:23:11.160 | DM] [[God, it’s]]
+[u0954 | 01:23:09.630-01:23:11.160 | DM] {{God, it’s}}
 [u0955 | 01:23:17.330-01:23:19.109 | DM] okay. So eight
 [u0956 | 01:23:19.760-01:23:21.090 | DM] um,
 [u0957 | 01:23:23.030-01:23:30.310 | DM] and the shadows are at least temporarily gone. So no necrotic damage for you.
@@ -961,11 +961,11 @@
 [u0961 | 01:23:43.260-01:23:46.000 | Riswynn] So I guess I have to move closer
 [u0962 | 01:23:48.820-01:23:50.359 | Riswynn] and um
 [u0963 | 01:23:52.280-01:23:54.619 | Riswynn] and i'm going to do like a
-[u0964 | 01:23:55.160-01:23:56.400 | Riswynn] [[remaining]]
-[u0965 | 01:23:56.610-01:23:58.600 | Riswynn] [[some sort of thing If I had]]
+[u0964 | 01:23:55.160-01:23:56.400 | Riswynn] {{remaining}}
+[u0965 | 01:23:56.610-01:23:58.600 | Riswynn] {{some sort of thing If I had}}
 [u0966 | 01:24:01.320-01:24:04.990 | DM] uh ten misses
 [u0967 | 01:24:07.790-01:24:12.409 | DM] um Merash. You're up. It is not currently
-[u0968 | 01:24:12.450-01:24:13.829 | DM] [[started with you]],
+[u0968 | 01:24:12.450-01:24:13.829 | DM] {{started with you}},
 [u0969 | 01:24:14.930-01:24:17.189 | Merash] That’s great news.
 [u0970 | 01:24:17.200-01:24:20.779 | Merash] Um, I am going to.
 [u0971 | 01:24:21.630-01:24:26.020 | Merash] I tried to hit it again with my Maul of the Forge.
@@ -978,8 +978,8 @@
 [u0978 | 01:24:54.710-01:24:55.760 | Unknown] good.
 [u0979 | 01:24:55.770-01:25:00.919 | Merash] I'm going to use my second attack to try to hit it with my handaxe as well.
 [u0980 | 01:25:01.620-01:25:03.990 | DM] Why, don't you just hit it with the Maul of the Forge again?
-[u0981 | 01:25:04.000-01:25:07.019 | Merash] I guess I can use. Yeah, I can do [[the multiply]]
-[u0982 | 01:25:14.200-01:25:18.790 | DM] fifteen hits just roll damage. Well, okay, twenty two, [[all for it]].
+[u0981 | 01:25:04.000-01:25:07.019 | Merash] I guess I can use. Yeah, I can do {{the multiply}}
+[u0982 | 01:25:14.200-01:25:18.790 | DM] fifteen hits just roll damage. Well, okay, twenty two, {{all for it}}.
 [u0983 | 01:25:24.930-01:25:27.240 | Merash] And then
 [u0984 | 01:25:27.540-01:25:31.099 | DM] very insubstantial at this point, but not quite dead.
 [u0985 | 01:25:31.500-01:25:39.819 | Merash] Okay? And then I wanted to use. I'm not super familiar with the maneuvers of a fighter,
@@ -1023,7 +1023,7 @@
 [u1023 | 01:28:30.800-01:28:40.929 | Thror] Oh, that's right. But ten is enough to kill it. So, as you reach out, you grasp the spirit and the lightning coursing through your hand.
 [u1024 | 01:28:41.450-01:28:44.759 | DM] Shimmers through the thing, and it
 [u1025 | 01:28:45.370-01:28:49.739 | DM] dissipates um. Rothfis, roll a death saving throw.
-[u1026 | 01:28:51.240-01:28:54.209 | Rothfis] How do I use it [[in your next on beyond]]
+[u1026 | 01:28:51.240-01:28:54.209 | Rothfis] How do I use it {{in your next on beyond}}
 [u1027 | 01:28:54.950-01:28:58.119 | Rothfis] it should just pop up like,
 [u1028 | 01:28:58.130-01:28:59.849 | Unknown] Oh, yeah, there is
 [u1029 | 01:29:00.540-01:29:05.889 | Rothfis] Nat twenty. I auto-stabilize myself, and you gain one hit point.
@@ -1031,7 +1031,7 @@
 [u1031 | 01:29:16.120-01:29:17.440 | Rothfis] yo,
 [u1032 | 01:29:25.900-01:29:31.779 | Rothfis] so I could use a short rest. I don't know for anyone else.
 [u1033 | 01:29:38.170-01:29:45.909 | DM] You want to just take a rest right here in the middle of the Ashlands or continue to the cave.
-[u1034 | 01:29:45.940-01:29:51.940 | Thror] Okay, the way you pose? That question makes [[the]] seem like a better.
+[u1034 | 01:29:45.940-01:29:51.940 | Thror] Okay, the way you pose? That question makes {{the}} seem like a better.
 [u1035 | 01:29:53.590-01:29:55.289 | Rothfis] I've got
 [u1036 | 01:29:55.300-01:29:58.089 | Riswynn] What if you're sitting in the cave?
 [u1037 | 01:29:58.100-01:29:59.360 | Rothfis] Right?
@@ -1057,10 +1057,10 @@
 [u1057 | 01:31:11.100-01:31:12.929 | Riswynn] right now. I'm going to
 [u1058 | 01:31:13.450-01:31:15.559 | Riswynn] re-roll perception
 [u1059 | 01:31:17.600-01:31:18.930 | Riswynn] it's going to be
-[u1060 | 01:31:31.900-01:31:36.880 | Rothfis] [[yeah and tell you. Here]]
+[u1060 | 01:31:31.900-01:31:36.880 | Rothfis] {{yeah and tell you. Here}}
 [u1061 | 01:31:37.060-01:31:41.599 | DM] you begin to approach, and you hear this kind of
 [u1062 | 01:31:41.860-01:31:49.469 | DM] um noise That sounds like rocks falling and something walking in you turn like holding your
-[u1063 | 01:31:49.480-01:31:52.709 | DM] war hammer until you hear a voice, [[and for a mercy]],
+[u1063 | 01:31:49.480-01:31:52.709 | DM] war hammer until you hear a voice, {{and for a mercy}},
 [u1064 | 01:31:53.350-01:31:55.660 | DM] Hey! Who's there?
 [u1065 | 01:32:01.270-01:32:03.710 | Riswynn] I say um
 [u1066 | 01:32:06.660-01:32:07.870 | Unknown] with the outside that
@@ -1072,7 +1072,7 @@
 [u1072 | 01:32:31.610-01:32:44.820 | DM] you see, like kind of beginning, like peering out from the cave. This, like old dwarf, like leaning on a staff um long, dusty, unkempt white beard, kind of squinting a little bit
 [u1073 | 01:32:45.520-01:32:50.070 | DM] like walks a little bit forward, and like taps your armor with his staff.
 [u1074 | 01:32:52.510-01:32:53.849 | DM] There's one,
-[u1075 | 01:32:55.890-01:32:57.890 | Riswynn] indeed! [[That’s what you want. Me]].
+[u1075 | 01:32:55.890-01:32:57.890 | Riswynn] indeed! {{That’s what you want. Me}}.
 [u1076 | 01:33:01.280-01:33:03.979 | Riswynn] I'd like to hear some tales of the past.
 [u1077 | 01:33:06.380-01:33:10.329 | DM] Hmm! Isn't it? Ah! Which past
 [u1078 | 01:33:13.780-01:33:15.139 | Riswynn] your past
@@ -1080,7 +1080,7 @@
 [u1080 | 01:33:19.840-01:33:21.260 | Riswynn] before this
 [u1081 | 01:33:21.540-01:33:22.559 | Unknown] bleak
 [u1082 | 01:33:23.440-01:33:24.700 | Riswynn] realm
-[u1083 | 01:33:29.170-01:33:30.700 | DM] [[sign]]
+[u1083 | 01:33:29.170-01:33:30.700 | DM] {{sign}}
 [u1084 | 01:33:31.890-01:33:36.210 | DM] walks forward a little bit and kind of peers up into the sky.
 [u1085 | 01:33:36.400-01:33:37.900 | DM] You
 [u1086 | 01:33:37.980-01:33:39.999 | DM] not out today? No,
@@ -1110,7 +1110,7 @@
 [u1110 | 01:35:27.020-01:35:28.639 | DM] i'm in there
 [u1111 | 01:35:30.320-01:35:34.369 | DM] in the city where I grew up
 [u1112 | 01:35:34.890-01:35:36.550 | Unknown] so
-[u1113 | 01:35:39.400-01:35:41.610 | DM] [[stone a they call that]]
+[u1113 | 01:35:39.400-01:35:41.610 | DM] {{stone a they call that}}
 [u1114 | 01:35:43.250-01:35:46.869 | Rothfis] Well, actually my, that's my clan
 [u1115 | 01:35:47.340-01:35:49.469 | Rothfis] Stonefist.
 [u1116 | 01:35:52.120-01:35:54.009 | DM] It is um
@@ -1122,7 +1122,7 @@
 [u1122 | 01:36:03.790-01:36:06.319 | DM] sit there and talk about,
 [u1123 | 01:36:07.140-01:36:08.250 | Unknown] and I
 [u1124 | 01:36:09.140-01:36:11.460 | DM] great adventures. We'd have
-[u1125 | 01:36:16.730-01:36:17.889 | DM] [[my hand]]
+[u1125 | 01:36:16.730-01:36:17.889 | DM] {{my hand}}
 [u1126 | 01:36:18.350-01:36:20.880 | DM] the finest.
 [u1127 | 01:36:24.030-01:36:25.760 | DM] What is that um
 [u1128 | 01:36:28.480-01:36:30.109 | DM] bone with?
@@ -1138,43 +1138,43 @@
 [u1138 | 01:36:54.580-01:36:55.939 | DM] says, Ah,
 [u1139 | 01:36:58.090-01:36:59.770 | DM] this is good.
 [u1140 | 01:37:01.790-01:37:04.419 | Rothfis] Well, I should hope so. I brew it myself.
-[u1141 | 01:37:04.810-01:37:06.570 | DM] [[Stone, when]]
+[u1141 | 01:37:04.810-01:37:06.570 | DM] {{Stone, when}}
 [u1142 | 01:37:09.850-01:37:11.590 | DM] he looks right. Who are you?
 [u1143 | 01:37:11.600-01:37:13.349 | DM] He looks at Thror.
 [u1144 | 01:37:13.450-01:37:15.220 | DM] What? Where did you come from?
 [u1145 | 01:37:15.710-01:37:18.920 | Thror] I came in with the Riswynns. I’m Thror
-[u1146 | 01:37:21.380-01:37:23.159 | DM] Thror, [[resign]].
+[u1146 | 01:37:21.380-01:37:23.159 | DM] Thror, {{resign}}.
 [u1147 | 01:37:23.500-01:37:25.390 | DM] Hmm. Nice to meet you.
 [u1148 | 01:37:25.400-01:37:26.870 | Thror] Good to meet you, too.
 [u1149 | 01:37:26.880-01:37:29.089 | Thror] Someone told me you were dead
 [u1150 | 01:37:30.660-01:37:31.710 | Thror] right.
 [u1151 | 01:37:33.410-01:37:35.050 | DM] Maybe I am.
 [u1152 | 01:37:37.110-01:37:39.360 | Thror] No, you drink like a live dwarf.
-[u1153 | 01:37:39.780-01:37:42.540 | Rothfis] Okay, [[you’re still not the Yale]].
+[u1153 | 01:37:39.780-01:37:42.540 | Rothfis] Okay, {{you’re still not the Yale}}.
 [u1154 | 01:37:42.720-01:37:44.800 | DM] Maybe maybe
 [u1155 | 01:37:45.290-01:37:47.140 | DM] maybe you're dead, too.
 [u1156 | 01:37:51.140-01:37:56.150 | Rothfis] I think I was nearly dead about five minutes ago.
 [u1157 | 01:37:57.570-01:37:58.990 | DM] Pokes at you again.
 [u1158 | 01:37:59.000-01:38:00.910 | DM] Ah,
-[u1159 | 01:38:00.990-01:38:03.219 | DM] [[Stonewind]] can't be dead
+[u1159 | 01:38:00.990-01:38:03.219 | DM] {{Stonewind}} can't be dead
 [u1160 | 01:38:04.640-01:38:05.590 | DM] Taps
 [u1161 | 01:38:05.600-01:38:09.089 | DM] right like taps with his stick on,
 [u1162 | 01:38:09.100-01:38:16.970 | DM] Merash’s armor, and it's like pling, pling, pling, and like starts like trying to play a tune on your armor.
-[u1163 | 01:38:17.460-01:38:19.629 | DM] [[It takes that this up]]
+[u1163 | 01:38:17.460-01:38:19.629 | DM] {{It takes that this up}}
 [u1164 | 01:38:19.640-01:38:21.400 | DM] the bells
 [u1165 | 01:38:23.370-01:38:25.740 | DM] the center of the city. We had
 [u1166 | 01:38:28.660-01:38:32.110 | DM] the bells that would play in the morning, and the night
 [u1167 | 01:38:33.550-01:38:34.920 | DM] last
 [u1168 | 01:38:37.970-01:38:40.259 | DM] must have been a hundred of them.
-[u1169 | 01:38:42.910-01:38:45.090 | DM] [[Mary’s love]] that sound
+[u1169 | 01:38:42.910-01:38:45.090 | DM] {{Mary’s love}} that sound
 [u1170 | 01:38:49.270-01:38:49.889 | DM] we're at.
-[u1171 | 01:38:49.900-01:38:51.020 | DM] [[How are you]]?
+[u1171 | 01:38:49.900-01:38:51.020 | DM] {{How are you}}?
 [u1172 | 01:38:52.470-01:38:58.000 | Merash] I am Merash, Riswynn of the bells.
 [u1173 | 01:39:00.560-01:39:03.699 | DM] Where Where did Where did you all come from? Where?
 [u1174 | 01:39:05.400-01:39:07.250 | DM] What are you doing here?
 [u1175 | 01:39:13.800-01:39:16.189 | Merash] We came to find you.
 [u1176 | 01:39:18.470-01:39:21.340 | DM] Me, I I thought I was dead.
-[u1177 | 01:39:24.360-01:39:26.230 | Unknown] Takes another sip of [[now]].
+[u1177 | 01:39:24.360-01:39:26.230 | Unknown] Takes another sip of {{now}}.
 [u1178 | 01:39:26.820-01:39:28.629 | DM] Taps on the cask,
 [u1179 | 01:39:30.550-01:39:32.030 | DM] now
 [u1180 | 01:39:32.760-01:39:34.480 | DM] taps on the stone,
@@ -1184,7 +1184,7 @@
 [u1184 | 01:39:50.630-01:39:53.250 | DM] Takes another sip.
 [u1185 | 01:39:56.950-01:40:00.079 | DM] I should have never. We should have never gone.
 [u1186 | 01:40:07.390-01:40:09.120 | Thror] What did you think would happen?
-[u1187 | 01:40:12.030-01:40:13.099 | DM] [[Let’s get it]].
+[u1187 | 01:40:12.030-01:40:13.099 | DM] {{Let’s get it}}.
 [u1188 | 01:40:15.090-01:40:16.729 | DM] Where did you all come from?
 [u1189 | 01:40:17.160-01:40:18.370 | DM] The
 [u1190 | 01:40:21.210-01:40:24.460 | DM] Where's where's Hagrim? Where's
@@ -1205,7 +1205,7 @@
 [u1205 | 01:41:21.290-01:41:23.410 | DM] maybe, if we could see
 [u1206 | 01:41:24.330-01:41:27.959 | DM] the great halls of our home one more time
 [u1207 | 01:41:31.020-01:41:32.410 | DM] I mean
-[u1208 | 01:41:35.810-01:41:37.849 | Unknown] [[Thorn teller]] so
+[u1208 | 01:41:35.810-01:41:37.849 | Unknown] {{Thorn teller}} so
 [u1209 | 01:41:38.770-01:41:40.120 | DM] primitive
 [u1210 | 01:41:40.950-01:41:42.820 | DM] almost nothing. There,
 [u1211 | 01:41:45.290-01:41:47.749 | DM] I don't know. Maybe it's changed now.
@@ -1223,7 +1223,7 @@
 [u1223 | 01:42:37.660-01:42:39.199 | DM] all dry
 [u1224 | 01:42:44.550-01:42:45.820 | DM] what
 [u1225 | 01:42:46.330-01:42:48.400 | DM] looks around what
-[u1226 | 01:42:49.140-01:42:50.269 | DM] [[we are]].
+[u1226 | 01:42:49.140-01:42:50.269 | DM] {{we are}}.
 [u1227 | 01:42:51.190-01:42:55.419 | DM] This cave doesn't this doesn't? Look right.
 [u1228 | 01:42:58.710-01:43:00.780 | DM] Where are we
 [u1229 | 01:43:00.790-01:43:01.599 | DM] we have.
@@ -1245,11 +1245,11 @@
 [u1245 | 01:44:03.960-01:44:05.790 | DM] it was dark, it was
 [u1246 | 01:44:05.800-01:44:07.379 | DM] black, it was
 [u1247 | 01:44:10.500-01:44:13.099 | DM] washed away of all color.
-[u1248 | 01:44:14.980-01:44:16.850 | DM] The [[farmers]] were gone
+[u1248 | 01:44:14.980-01:44:16.850 | DM] The {{farmers}} were gone
 [u1249 | 01:44:23.050-01:44:24.629 | DM] wasn't the same.
 [u1250 | 01:44:31.580-01:44:36.920 | Riswynn] It was not a home you could go back to. But did you find refugees to take away?
 [u1251 | 01:44:43.280-01:44:45.030 | DM] They took us away.
-[u1252 | 01:44:46.650-01:44:49.090 | DM] Hagrim took us away. [[He asked sight]].
+[u1252 | 01:44:46.650-01:44:49.090 | DM] Hagrim took us away. {{He asked sight}}.
 [u1253 | 01:44:49.590-01:44:50.979 | DM] He took us
 [u1254 | 01:44:50.990-01:44:52.670 | DM] somewhere.
 [u1255 | 01:44:53.250-01:44:54.330 | DM] Where did it?
@@ -1284,7 +1284,7 @@
 [u1284 | 01:47:05.910-01:47:07.749 | Rothfis] You remember that town,
 [u1285 | 01:47:08.120-01:47:09.730 | Unknown] that city?
 [u1286 | 01:47:12.200-01:47:14.290 | DM] Yes,
-[u1287 | 01:47:15.570-01:47:18.330 | DM] [[I haven’t talked about Charter]], and he
+[u1287 | 01:47:15.570-01:47:18.330 | DM] {{I haven’t talked about Charter}}, and he
 [u1288 | 01:47:18.340-01:47:22.069 | DM] fought with the Mages in the Great War.
 [u1289 | 01:47:24.890-01:47:26.330 | DM] We would.
 [u1290 | 01:47:29.530-01:47:33.449 | DM] After the war we would sit sometimes in the
@@ -1292,10 +1292,10 @@
 [u1292 | 01:47:38.710-01:47:41.310 | DM] looking out over the plains up in the
 [u1293 | 01:47:41.330-01:47:43.369 | DM] mountains. Ah,
 [u1294 | 01:47:44.110-01:47:45.360 | DM] well,
-[u1295 | 01:47:45.740-01:47:49.230 | DM] [[darn to her]] was being built and
+[u1295 | 01:47:45.740-01:47:49.230 | DM] {{darn to her}} was being built and
 [u1296 | 01:47:50.310-01:47:53.209 | DM] look across, and he would talk about
 [u1297 | 01:47:55.900-01:47:57.680 | DM] the magic
-[u1298 | 01:47:57.990-01:47:59.759 | DM] [[it’s go down bad]]
+[u1298 | 01:47:57.990-01:47:59.759 | DM] {{it’s go down bad}}
 [u1299 | 01:48:04.130-01:48:06.360 | DM] evil that would
 [u1300 | 01:48:07.390-01:48:09.790 | DM] devour your brains
 [u1301 | 01:48:11.260-01:48:12.540 | Unknown] and
@@ -1307,7 +1307,7 @@
 [u1307 | 01:48:28.170-01:48:30.510 | DM] tentacled horrors
 [u1308 | 01:48:31.360-01:48:33.700 | Unknown] like humans, but
 [u1309 | 01:48:34.020-01:48:35.330 | DM] but not
-[u1310 | 01:48:35.340-01:48:38.510 | DM] [[no, it’s just tentacles]],
+[u1310 | 01:48:35.340-01:48:38.510 | DM] {{no, it’s just tentacles}},
 [u1311 | 01:48:40.150-01:48:41.899 | DM] He said he saw one
 [u1312 | 01:48:42.160-01:48:47.490 | DM] grab one of the most powerful mages he knew, and just
 [u1313 | 01:48:47.590-01:48:49.969 | DM] suck its brain out
@@ -1320,7 +1320,7 @@
 [u1320 | 01:49:22.810-01:49:25.609 | DM] you've been around the world, you can.
 [u1321 | 01:49:25.740-01:49:29.300 | DM] You can metagame slightly,
 [u1322 | 01:49:30.170-01:49:35.569 | Rothfis] I think, when you, when you're a level eight right like you. You must have heard stories,
-[u1323 | 01:49:36.040-01:49:40.550 | Riswynn] I mean. Riswynn’s been some places, and it's [[not being familiar, too]].
+[u1323 | 01:49:36.040-01:49:40.550 | Riswynn] I mean. Riswynn’s been some places, and it's {{not being familiar, too}}.
 [u1324 | 01:49:44.400-01:49:53.719 | Rothfis] So so Hagrim might have met one of these tentacled horrors, and maybe that's why he turned.
 [u1325 | 01:49:56.510-01:50:00.749 | Rothfis] Maybe that's why a great dwarf and hero would do something so foul.
 [u1326 | 01:50:06.040-01:50:08.949 | DM] He kind of goes still for a moment.
@@ -1336,7 +1336,7 @@
 [u1336 | 01:51:09.700-01:51:11.540 | DM] Where did you come from? What
 [u1337 | 01:51:14.490-01:51:16.230 | DM] What are you doing here?
 [u1338 | 01:51:17.010-01:51:18.750 | DM] Did Hagrim send you?
-[u1339 | 01:51:21.720-01:51:23.919 | Riswynn] We were sent? [[He turned on the room]]
+[u1339 | 01:51:21.720-01:51:23.919 | Riswynn] We were sent? {{He turned on the room}}
 [u1340 | 01:51:25.010-01:51:26.500 | DM] we were
 [u1341 | 01:51:27.460-01:51:33.729 | DM] fighting with Nora, and our line broke. The trolls got through, and he turned on us
 [u1342 | 01:51:34.270-01:51:35.920 | DM] right At the moment
@@ -1370,7 +1370,7 @@
 [u1370 | 01:53:17.520-01:53:18.719 | DM] trolls,
 [u1371 | 01:53:18.800-01:53:19.989 | DM] but they don't.
 [u1372 | 01:53:20.260-01:53:22.290 | DM] They don't come here,
-[u1373 | 01:53:26.090-01:53:27.740 | DM] [[I go]]. Um!
+[u1373 | 01:53:26.090-01:53:27.740 | DM] {{I go}}. Um!
 [u1374 | 01:53:29.720-01:53:31.360 | DM] He he knows me.
 [u1375 | 01:53:32.440-01:53:33.769 | DM] I think
 [u1376 | 01:53:34.900-01:53:37.139 | DM] we were friends once
@@ -1391,12 +1391,12 @@
 [u1391 | 01:54:54.260-01:54:55.520 | DM] wasn't safe
 [u1392 | 01:54:56.180-01:54:58.150 | DM] could never have killed them all.
 [u1393 | 01:55:00.840-01:55:02.899 | DM] Collapse the tunnels
-[u1394 | 01:55:04.180-01:55:05.599 | DM] [[them down there]]
+[u1394 | 01:55:04.180-01:55:05.599 | DM] {{them down there}}
 [u1395 | 01:55:10.140-01:55:12.369 | DM] bury the long roads,
 [u1396 | 01:55:13.070-01:55:14.679 | DM] flee. The kingdom
 [u1397 | 01:55:20.110-01:55:21.969 | DM] never wanted to flee,
 [u1398 | 01:55:24.920-01:55:26.139 | DM] could have just
-[u1399 | 01:55:26.900-01:55:28.210 | DM] [[fighting]],
+[u1399 | 01:55:26.900-01:55:28.210 | DM] {{fighting}},
 [u1400 | 01:55:35.470-01:55:37.340 | DM] but after the war he
 [u1401 | 01:55:40.460-01:55:41.710 | DM] he was different.
 [u1402 | 01:55:53.190-01:55:55.330 | Unknown] What
@@ -1423,7 +1423,7 @@
 [u1423 | 01:57:15.970-01:57:17.130 | DM] ah, what
 [u1424 | 01:57:17.270-01:57:27.149 | DM] Thror, it’s one of the magic items you have. Um! Lets you regain five sorcery points on a when you roll hit points with hit dice during a short rest.
 [u1425 | 01:57:27.400-01:57:32.290 | DM] So if you want to use sorcery points to get back spell slots you can
-[u1426 | 01:57:32.730-01:57:36.830 | Thror] [[get fought]]. You can restore five sorcery points.
+[u1426 | 01:57:32.730-01:57:36.830 | Thror] {{get fought}}. You can restore five sorcery points.
 [u1427 | 01:57:37.140-01:57:39.330 | Thror] Yes, I do. That's amazing. Thank you.
 [u1428 | 01:57:39.910-01:57:43.689 | Rothfis] Tim, Does my Max Hp. Return,
 [u1429 | 01:57:44.400-01:57:48.059 | Rothfis] or is that a long rest? You need a long rest.
@@ -1432,7 +1432,7 @@
 [u1432 | 01:58:11.640-01:58:15.150 | Rothfis] once I went down, how’d you all take the, the
 [u1433 | 01:58:16.750-01:58:20.939 | Rothfis] the giant. I couldn't I couldn't get close without getting hurt.
 [u1434 | 01:58:25.170-01:58:29.479 | Riswynn] When the spiritual weapon, attacked it with radiant damage. It
-[u1435 | 01:58:30.720-01:58:32.000 | Riswynn] [[necropolis]]
+[u1435 | 01:58:30.720-01:58:32.000 | Riswynn] {{necropolis}}
 [u1436 | 01:58:32.160-01:58:33.290 | Riswynn] cloud.
 [u1437 | 01:58:34.430-01:58:38.429 | Rothfis] Well, that would have been lovely. I should have held me action
 [u1438 | 01:58:42.140-01:58:44.030 | Rothfis] hopefully. The uh,
@@ -1449,7 +1449,7 @@
 [u1449 | 01:59:34.700-01:59:41.399 | Merash] I have some hand axes. If you want to take one or two of them, they can be thrown.
 [u1450 | 01:59:41.690-01:59:48.920 | Rothfis] It'll be similar to the dart. Yeah, let's see if I've got
 [u1451 | 01:59:50.170-01:59:55.790 | DM] I mean, maybe if you do encounter something else like this, you at least know what to do.
-[u1452 | 01:59:55.800-01:59:58.750 | Rothfis] Yeah, [[I can hold Now it’s scatters]].
+[u1452 | 01:59:55.800-01:59:58.750 | Rothfis] Yeah, {{I can hold Now it’s scatters}}.
 [u1453 | 02:00:01.430-02:00:02.969 | Rothfis] Yeah, I mean with
 [u1454 | 02:00:04.120-02:00:09.529 | Rothfis] there's I guess there's no harm in making one magic, one magic dart
 [u1455 | 02:00:09.740-02:00:18.599 | Riswynn] at four, and you would have to you would have to. You lose one Ac. Because right now you're making your armor magic. But you can't do both.
@@ -1488,19 +1488,19 @@
 [u1488 | 02:02:41.880-02:02:44.609 | Riswynn] my my main concern is
 [u1489 | 02:02:45.590-02:02:50.100 | Riswynn] I was ready to try to persuade like a
 [u1490 | 02:02:50.690-02:02:58.530 | Thror] troubled war hero. I'm not really sure how to unpossess somebody of a mind flayer
-[u1491 | 02:02:59.110-02:03:01.259 | Riswynn] [[if they’re going back from that]] like, do we
+[u1491 | 02:02:59.110-02:03:01.259 | Riswynn] {{if they’re going back from that}} like, do we
 [u1492 | 02:03:01.920-02:03:02.980 | Unknown] to kill him?
 [u1493 | 02:03:04.940-02:03:11.029 | Riswynn] I don't know It's kind of like handing down the judgment on behalf of the gods instead of
 [u1494 | 02:03:11.870-02:03:12.910 | Rothfis] right.
-[u1495 | 02:03:13.240-02:03:16.229 | Thror] Well, if the [[mindset]] is more like a parasite.
+[u1495 | 02:03:13.240-02:03:16.229 | Thror] Well, if the {{mindset}} is more like a parasite.
 [u1496 | 02:03:16.330-02:03:22.209 | Thror] We have to kill the parasite, and hopefully the host survives long enough. But
 [u1497 | 02:03:23.000-02:03:25.080 | Thror] maybe there is no host left.
 [u1498 | 02:03:26.100-02:03:28.689 | Rothfis] Yeah, it's just a parasite at this point.
 [u1499 | 02:03:30.440-02:03:37.939 | DM] So one thing that I think you probably at least Riswynn would know is that
 [u1500 | 02:03:38.380-02:03:41.849 | DM] um, actually probably multiple ones of you right? Is that
 [u1501 | 02:03:41.880-02:03:45.109 | Riswynn] okay? So if this guy's a ghost, all the Riswynns.
-[u1502 | 02:03:45.300-02:03:47.290 | DM] [[Father, it is]]
-[u1503 | 02:03:47.300-02:03:49.429 | DM] [[I love]]. Riswynn?
+[u1502 | 02:03:45.300-02:03:47.290 | DM] {{Father, it is}}
+[u1503 | 02:03:47.300-02:03:49.429 | DM] {{I love}}. Riswynn?
 [u1504 | 02:03:49.440-02:03:51.769 | DM] Um If he's Undead,
 [u1505 | 02:03:52.570-02:03:53.969 | DM] then
 [u1506 | 02:03:56.450-02:03:59.030 | DM] whatever happened
@@ -1513,7 +1513,7 @@
 [u1513 | 02:04:31.080-02:04:32.799 | DM] I I mean it's.
 [u1514 | 02:04:34.550-02:04:38.179 | DM] In any case it should. It should be clear like if there's a
 [u1515 | 02:04:38.730-02:04:42.389 | DM] there's no way that a parasite can hide in the skull of a ghost. Right?
-[u1516 | 02:04:42.400-02:04:50.150 | DM] Yeah, there's going to be some like thing glommed on to the brain of the ghost like [[possessing It solves all]], or there's not.
+[u1516 | 02:04:42.400-02:04:50.150 | DM] Yeah, there's going to be some like thing glommed on to the brain of the ghost like {{possessing It solves all}}, or there's not.
 [u1517 | 02:04:50.450-02:04:54.009 | Rothfis] But I I had. I had sort of
 [u1518 | 02:04:55.360-02:05:06.520 | Rothfis] come to the hypothesis that, like the fact that this plane exists, is is somehow related to the possession and the mind flayer. But
 [u1519 | 02:05:06.640-02:05:08.040 | Rothfis] perhaps
@@ -1538,17 +1538,17 @@
 [u1538 | 02:06:43.290-02:06:49.949 | DM] you pour the one I don't know It doesn't matter exactly how it works right, but either he's dead, and you
 [u1539 | 02:06:50.150-02:06:57.549 | Riswynn] you pour the chalice on his dead body, and his soul is dispersed by the gods to
 [u1540 | 02:06:57.820-02:06:59.530 | DM] nowhere,
-[u1541 | 02:06:59.540-02:07:08.449 | DM] or you give him the chalice, [[while the good]]. Pour the chalice on him while he's alive, and the gods take him back, and he's,
+[u1541 | 02:06:59.540-02:07:08.449 | DM] or you give him the chalice, {{while the good}}. Pour the chalice on him while he's alive, and the gods take him back, and he's,
 [u1542 | 02:07:12.350-02:07:15.590 | DM] you know he's in their hands
 [u1543 | 02:07:16.200-02:07:19.450 | DM] potentially up, presumably on a path to redemption.
 [u1544 | 02:07:19.910-02:07:27.939 | Rothfis] Okay, so we can sorry. Go ahead so either kill him and chalice him, and then he is like,
 [u1545 | 02:07:28.230-02:07:42.030 | Rothfis] doomed to hell or pour the chalice on him, while he's alive as a ghost, and then he has a chance to be redeemed in the eyes of the god.
 [u1546 | 02:07:43.260-02:07:44.349 | DM] Exactly.
-[u1547 | 02:07:46.060-02:07:48.010 | Merash] [[Our]]
+[u1547 | 02:07:46.060-02:07:48.010 | Merash] {{Our}}
 [u1548 | 02:07:48.660-02:07:53.299 | Merash] get repaid, regardless of how we chalice him.
 [u1549 | 02:07:53.640-02:07:54.769 | DM] Yes,
 [u1550 | 02:07:56.350-02:07:59.439 | DM] it's up to you to decide what his fate is.
-[u1551 | 02:07:59.690-02:08:04.480 | Rothfis] [[The Ivo. We run in through it on a]]
+[u1551 | 02:07:59.690-02:08:04.480 | Rothfis] {{The Ivo. We run in through it on a}}
 [u1552 | 02:08:06.550-02:08:11.449 | Rothfis] no conversation at this point. We know it wasn't him for sure.
 [u1553 | 02:08:12.700-02:08:14.689 | Merash] Who’s got the best aim.
 [u1554 | 02:08:14.700-02:08:17.790 | Riswynn] You look at chalice. The chalice water balloon.
@@ -1564,10 +1564,10 @@
 [u1564 | 02:09:01.200-02:09:02.290 | Riswynn] but
 [u1565 | 02:09:02.710-02:09:04.059 | Rothfis] can we?
 [u1566 | 02:09:04.100-02:09:12.609 | Rothfis] He's alive? I was gonna say, can we chalice multiple people? Because i'd like to get the mad priest out of here? But maybe if he's alive, it's different.
-[u1567 | 02:09:14.200-02:09:20.139 | Riswynn] I mean. I've been wondering about chalice, and people can [[do certain handing out fail]], like I could just
+[u1567 | 02:09:14.200-02:09:20.139 | Riswynn] I mean. I've been wondering about chalice, and people can {{do certain handing out fail}}, like I could just
 [u1568 | 02:09:20.220-02:09:23.989 | Riswynn] give people sips of water from the chalice and have them. Poof!
 [u1569 | 02:09:24.000-02:09:27.229 | Rothfis] But if they poof with the chalice, then we might be
-[u1570 | 02:09:28.820-02:09:31.009 | Merash] [[I. You know where they come to]].
+[u1570 | 02:09:28.820-02:09:31.009 | Merash] {{I. You know where they come to}}.
 [u1571 | 02:09:31.020-02:09:31.929 | Rothfis] Yeah,
 [u1572 | 02:09:34.460-02:09:36.420 | Rothfis] probably better than here,
 [u1573 | 02:09:39.520-02:09:41.429 | Merash] probably.
@@ -1584,7 +1584,7 @@
 [u1584 | 02:10:18.360-02:10:20.500 | Thror] You hit him until he falls down,
 [u1585 | 02:10:22.190-02:10:27.630 | Riswynn] probably, but there is a slight hope that he's still in there, because
 [u1586 | 02:10:27.790-02:10:34.750 | Rothfis] I mean as what is this guy's real name? If we're not calling a mad priest, so, Del
-[u1587 | 02:10:34.810-02:10:39.360 | Riswynn] um. I mean, [[Doug]],
+[u1587 | 02:10:34.810-02:10:39.360 | Riswynn] um. I mean, {{Doug}},
 [u1588 | 02:10:39.950-02:10:43.119 | Riswynn] that the Trolls don't come there.
 [u1589 | 02:10:43.410-02:10:45.580 | Riswynn] Not that they don't know where it is.
 [u1590 | 02:10:45.920-02:10:49.220 | Rothfis] That's the cave. I think not. The not the statue.
@@ -1604,7 +1604,7 @@
 [u1604 | 02:11:59.140-02:12:04.220 | Rothfis] I would prefer to. Not after that one troll
 [u1605 | 02:12:04.230-02:12:09.199 | Riswynn] Exactly. But what can we do if they, if he is in there surrounded by trolls,
 [u1606 | 02:12:09.250-02:12:11.689 | Riswynn] go back to plan aerial attack.
-[u1607 | 02:12:11.700-02:12:15.440 | Rothfis] Yeah, [[a flutter]] water balloon.
+[u1607 | 02:12:11.700-02:12:15.440 | Rothfis] Yeah, {{a flutter}} water balloon.
 [u1608 | 02:12:17.240-02:12:21.290 | Rothfis] Just hope I don't splash any trolls because I don't want them on the path of the
 [u1609 | 02:12:24.860-02:12:27.599 | DM] Okay. Let's take a five minute break.
 [u1610 | 02:12:28.890-02:12:30.420 | Riswynn] Hey? We got a plan,
@@ -1661,13 +1661,13 @@
 [u1661 | 02:21:21.490-02:21:23.500 | DM] dwarven warrior.
 [u1662 | 02:21:24.520-02:21:27.729 | DM] You can see one that looks like
 [u1663 | 02:21:28.020-02:21:42.419 | DM] that's sort of vaguely humanoid, but has like hanging off of its arms. It almost look like there's waterfalls pouring down off of its arms. There's one that looks
-[u1664 | 02:21:42.590-02:21:55.459 | DM] one like almost looks like a human, [[a of of some sort]] carrying a staff, and there's like a vague sort of sense of fire around its head.
+[u1664 | 02:21:42.590-02:21:55.459 | DM] one like almost looks like a human, {{a of of some sort}} carrying a staff, and there's like a vague sort of sense of fire around its head.
 [u1665 | 02:21:55.950-02:21:56.980 | Unknown] Um,
 [u1666 | 02:21:57.310-02:22:00.360 | DM] there's one that looks uh
 [u1667 | 02:22:01.080-02:22:02.119 | DM] just
 [u1668 | 02:22:02.500-02:22:06.859 | DM] colors like swirling liquid almost.
 [u1669 | 02:22:08.080-02:22:11.880 | DM] There's one that looks like a
-[u1670 | 02:22:14.280-02:22:15.369 | DM] [[found it]].
+[u1670 | 02:22:14.280-02:22:15.369 | DM] {{found it}}.
 [u1671 | 02:22:16.560-02:22:32.230 | DM] It almost. It almost looks like it as you gaze into it like there's a tavern in the middle of it, like some massive dwarven city reflected in the in the center of its chest.
 [u1672 | 02:22:36.450-02:22:40.529 | DM] They seem to be moving around kind of aimlessly around,
 [u1673 | 02:22:40.600-02:22:42.770 | DM] guarding or
@@ -1758,7 +1758,7 @@
 [u1758 | 02:30:21.520-02:30:23.460 | Merash] What could go wrong?
 [u1759 | 02:30:31.430-02:30:34.119 | Thror] Maybe we can negotiate with the ghosts
 [u1760 | 02:30:34.780-02:30:37.900 | Rothfis] negotiate. I don't think so.
-[u1761 | 02:30:39.840-02:30:42.260 | Thror] [[Did you sign the ghost cheek]].
+[u1761 | 02:30:39.840-02:30:42.260 | Thror] {{Did you sign the ghost cheek}}.
 [u1762 | 02:30:42.270-02:30:43.619 | Rothfis] I
 [u1763 | 02:30:47.810-02:30:50.050 | Riswynn] all right. I've been,
 [u1764 | 02:30:55.430-02:31:02.850 | Rothfis] although I am curious about the one who seems to be sweating a lot, and I pointed the one that's got waterfall arms.
@@ -1804,7 +1804,7 @@
 [u1804 | 02:34:26.000-02:34:29.299 | Thror] I'll come up to stand next to Riswynn.
 [u1805 | 02:34:29.950-02:34:33.510 | Thror] Okay, let's stop walking
 [u1806 | 02:34:34.030-02:34:38.839 | Thror] and just raise a hand in greeting, and i'll say we seek passage.
-[u1807 | 02:34:40.460-02:34:41.979 | Thror] [[Don’t blame]]
+[u1807 | 02:34:40.460-02:34:41.979 | Thror] {{Don’t blame}}
 [u1808 | 02:34:42.260-02:34:44.300 | DM] keep approaching.
 [u1809 | 02:34:45.140-02:34:48.079 | DM] They don't seem to respond to your
 [u1810 | 02:34:48.730-02:34:53.700 | DM] but as now as you're close to them, you can see, like
@@ -1827,7 +1827,7 @@
 [u1827 | 02:36:15.590-02:36:22.380 | Rothfis] I point at this. I point at the beer one, and I say, leave that one for me. If we go, let's take a moment.
 [u1828 | 02:36:30.200-02:36:34.089 | Riswynn] The ghost of the ghosts of dwarvendom’s past.
 [u1829 | 02:36:34.100-02:36:35.470 | Rothfis] Yeah,
-[u1830 | 02:36:35.780-02:36:38.510 | Thror] [[this]] and show the, the chalice
+[u1830 | 02:36:35.780-02:36:38.510 | Thror] {{this}} and show the, the chalice
 [u1831 | 02:36:40.070-02:36:43.099 | Riswynn] All right. I’ll show them the chalice
 [u1832 | 02:36:44.590-02:36:46.199 | DM] Ah,
 [u1833 | 02:36:47.970-02:36:50.480 | DM] just like holding it up.
@@ -1857,7 +1857,7 @@
 [u1857 | 02:38:18.870-02:38:20.640 | DM] Um!
 [u1858 | 02:38:20.720-02:38:30.240 | Rothfis] Did they have the same necrotic aura around them. No, Oh, thank goodness, it's a ghost! I can punch
 [u1859 | 02:38:32.550-02:38:40.229 | Rothfis] i'll! I'll yell down from the sky. Looks like they're about to have you surrounded. Perhaps just make a run for it.
-[u1860 | 02:38:40.810-02:38:44.689 | Rothfis] [[We check the door]], and I start
+[u1860 | 02:38:40.810-02:38:44.689 | Rothfis] {{We check the door}}, and I start
 [u1861 | 02:38:44.700-02:38:53.760 | Rothfis] all right. So they they close in. Riswynn begins to speak. What is your,
 [u1862 | 02:38:54.140-02:38:55.740 | Unknown] so I can just check.
 [u1863 | 02:38:56.360-02:39:09.379 | Riswynn] So I assume you're using a Channel Divinity? I am channeling divinity to pray. Nice, loud prayer as we run through the door, so let's see one
@@ -1866,7 +1866,7 @@
 [u1866 | 02:39:19.790-02:39:21.530 | Rothfis] Is the beer one gone?
 [u1867 | 02:39:21.930-02:39:24.390 | DM] Um,
 [u1868 | 02:39:24.400-02:39:28.329 | DM] the the five that remain are the beer. One
-[u1869 | 02:39:28.510-02:39:39.070 | Rothfis] all right, [[my two favorite beer in this twenty one]] that looks like a sort of dwarven warrior,
+[u1869 | 02:39:28.510-02:39:39.070 | Rothfis] all right, {{my two favorite beer in this twenty one}} that looks like a sort of dwarven warrior,
 [u1870 | 02:39:39.480-02:39:44.940 | DM] one that one that's from which you can hear the faint sound of bells.
 [u1871 | 02:39:45.110-02:39:48.400 | DM] Then one that
 [u1872 | 02:39:48.670-02:40:02.180 | DM] Ah, but it almost It's like shifting between two dwarves like back and forth like a man and a woman sort of flickering form, uncertain, but it doesn't seem to have weapons or anything.
@@ -1887,7 +1887,7 @@
 [u1887 | 02:41:07.640-02:41:09.070 | Riswynn] is this over with
 [u1888 | 02:41:09.200-02:41:14.040 | DM] two of them are gonna swing at Riswynn.
 [u1889 | 02:41:14.450-02:41:17.380 | DM] Um! One of them hits
-[u1890 | 02:41:17.770-02:41:21.420 | Riswynn] Whoa! Twenty-three It's very hard to hit [[everyone]].
+[u1890 | 02:41:17.770-02:41:21.420 | Riswynn] Whoa! Twenty-three It's very hard to hit {{everyone}}.
 [u1891 | 02:41:21.970-02:41:25.630 | DM] You take twelve points of the
 [u1892 | 02:41:26.330-02:41:30.470 | DM] necrotic damage, and you have to make a Constitution saving throw,
 [u1893 | 02:41:34.390-02:41:39.280 | Riswynn] Your maximum, is also reduced by twelve.
@@ -1922,14 +1922,14 @@
 [u1922 | 02:44:13.440-02:44:16.989 | DM] you know, crudely built and kind of falling apart.
 [u1923 | 02:44:17.790-02:44:18.850 | DM] But
 [u1924 | 02:44:21.340-02:44:23.769 | DM] yeah, there's nothing else to observe.
-[u1925 | 02:44:28.250-02:44:29.599 | Riswynn] [[Hey? Loss]]
+[u1925 | 02:44:28.250-02:44:29.599 | Riswynn] {{Hey? Loss}}
 [u1926 | 02:44:29.850-02:44:31.959 | Riswynn] How beat up, are you, Merash?
 [u1927 | 02:44:32.690-02:44:39.329 | Merash] I'm. Actually, i'm seventy, five out of eighty, four. So i'm doing. Okay,
 [u1928 | 02:44:40.430-02:44:41.550 | Unknown] Eight.
-[u1929 | 02:44:41.560-02:44:42.830 | Merash] [[He’ll then]].
+[u1929 | 02:44:41.560-02:44:42.830 | Merash] {{He’ll then}}.
 [u1930 | 02:44:42.880-02:44:43.930 | Unknown] Yeah,
 [u1931 | 02:44:47.640-02:44:52.229 | Riswynn] my new Max hit points are not very high.
-[u1932 | 02:44:53.470-02:45:02.670 | Riswynn] Yeah, I'm doing it. Okay. I have a potion of healing. If that will be helpful. [[I know how]] to reverse the Max hit points thing.
+[u1932 | 02:44:53.470-02:45:02.670 | Riswynn] Yeah, I'm doing it. Okay. I have a potion of healing. If that will be helpful. {{I know how}} to reverse the Max hit points thing.
 [u1933 | 02:45:02.680-02:45:09.439 | Riswynn] Yeah, it's gonna take a long rest. That's the only way to do it. Yeah, that's what I thought.
 [u1934 | 02:45:11.610-02:45:14.179 | Riswynn] So let's just go down the stairs.
 [u1935 | 02:45:14.610-02:45:16.590 | Riswynn] But maybe I won't go first.
@@ -1937,7 +1937,7 @@
 [u1937 | 02:45:19.860-02:45:21.470 | DM] Ah, okay.
 [u1938 | 02:45:21.480-02:45:33.930 | Rothfis] But before we head down the stairs I take out a swirling red potion from my kit, and I pour it into my ale, and my ale starts bubbling, and I go
 [u1939 | 02:45:34.160-02:45:43.799 | Rothfis] Well, I've been waiting a long time to try this out. Stand back, and I just chug this beer, and I grow
-[u1940 | 02:45:43.830-02:45:47.059 | Rothfis] [[at full size]]. I have been enlarged
+[u1940 | 02:45:43.830-02:45:47.059 | Rothfis] {{at full size}}. I have been enlarged
 [u1941 | 02:45:47.250-02:45:51.720 | Rothfis] for one to four hours.
 [u1942 | 02:45:54.110-02:45:58.269 | Rothfis] Four hours of big Rothfis. Get ready for it.
 [u1943 | 02:46:01.580-02:46:04.349 | Rothfis] Well, it feels great
@@ -1990,7 +1990,7 @@
 [u1990 | 02:49:46.270-02:49:48.899 | Thror] undo the wedges and open it for us. The
 [u1991 | 02:49:48.910-02:49:50.080 | Thror] On the other hand.
 [u1992 | 02:49:50.390-02:49:52.059 | Thror] Maybe there's something in there.
-[u1993 | 02:50:10.290-02:50:14.990 | Merash] I'm not wild about [[colleagues]] about anyone going through a door
+[u1993 | 02:50:10.290-02:50:14.990 | Merash] I'm not wild about {{colleagues}} about anyone going through a door
 [u1994 | 02:50:15.000-02:50:15.970 | Merash] that
 [u1995 | 02:50:16.400-02:50:19.830 | Riswynn] they can't necessarily access
 [u1996 | 02:50:19.870-02:50:21.640 | Merash] the rest of the party?
@@ -1998,12 +1998,12 @@
 [u1998 | 02:50:29.790-02:50:32.460 | Riswynn] I mean, do we have
 [u1999 | 02:50:32.570-02:50:35.209 | Riswynn] enough strength to just force it?
 [u2000 | 02:50:38.620-02:50:40.779 | Riswynn] Yeah,
-[u2001 | 02:50:40.790-02:50:45.520 | Riswynn] sturdy, dwarven warriors plus ah plus giant [[This]]:
+[u2001 | 02:50:40.790-02:50:45.520 | Riswynn] sturdy, dwarven warriors plus ah plus giant {{This}}:
 [u2002 | 02:50:45.830-02:50:51.320 | Rothfis] Yeah, I've got advantage on strength checks. But i'm not very strong to begin with.
 [u2003 | 02:50:53.360-02:50:56.140 | Thror] Got some strength. Yeah,
 [u2004 | 02:50:58.420-02:50:59.550 | DM] okay.
 [u2005 | 02:50:59.710-02:51:01.900 | DM] Who's going to? Who's going to attempt
-[u2006 | 02:51:04.120-02:51:07.360 | Rothfis] [[You’re only big ones]].
+[u2006 | 02:51:04.120-02:51:07.360 | Rothfis] {{You’re only big ones}}.
 [u2007 | 02:51:11.060-02:51:12.490 | Rothfis] Ah,
 [u2008 | 02:51:13.360-02:51:15.629 | Rothfis] yeah, i'll. I'll try it out.
 [u2009 | 02:51:15.640-02:51:25.459 | Rothfis] Okay. So there's one, and there's the other seventeen. Okay. So you you go and you like pound on the door. That's like
@@ -2042,7 +2042,7 @@
 [u2042 | 02:54:03.060-02:54:04.770 | DM] next to the door
 [u2043 | 02:54:05.490-02:54:07.090 | DM] and just stop
 [u2044 | 02:54:13.530-02:54:15.420 | Rothfis] You all saw that, right?
-[u2045 | 02:54:16.210-02:54:19.380 | Thror] [[I don’t normally]]. Do that.
+[u2045 | 02:54:16.210-02:54:19.380 | Thror] {{I don’t normally}}. Do that.
 [u2046 | 02:54:19.830-02:54:22.450 | Riswynn] Hmm. Attack bones.
 [u2047 | 02:54:23.480-02:54:26.010 | DM] You want to attack the bones. Okay?
 [u2048 | 02:54:26.020-02:54:30.890 | Rothfis] No, no, no, no. They are attack.
@@ -2063,7 +2063,7 @@
 [u2063 | 02:55:27.330-02:55:29.279 | DM] just reload the page.
 [u2064 | 02:55:32.990-02:55:35.040 | Riswynn] Yes, it says twenty one
 [u2065 | 02:55:37.920-02:55:39.389 | DM] you get. So you're going to
-[u2066 | 02:55:39.400-02:55:43.470 | Riswynn] like [[pound or less strength]]. Yes,
+[u2066 | 02:55:39.400-02:55:43.470 | Riswynn] like {{pound or less strength}}. Yes,
 [u2067 | 02:55:43.480-02:55:47.200 | Riswynn] we're going to. We roll our Strength saving throw. Is that how you do it. Ah,
 [u2068 | 02:55:47.480-02:55:51.010 | DM] no, it's well, it's strength check. But yeah, it's the same thing for you.
 [u2069 | 02:55:51.290-02:55:52.440 | DM] Um,
@@ -2072,10 +2072,10 @@
 [u2072 | 02:56:01.170-02:56:09.230 | DM] if you're if you're gonna. If you're gonna hit it with Shatterstorm, you can roll with advantage because Shatterstorm, like, lets. You
 [u2073 | 02:56:10.190-02:56:14.000 | DM] destroy things easily, but it'll be very loud.
 [u2074 | 02:56:16.620-02:56:22.969 | Riswynn] Well, we're kind of desperate as everybody else just, yeah, cover their ears.
-[u2075 | 02:56:23.640-02:56:31.230 | Rothfis] I was gonna say that that bones probably can't hear, but I think there might be some [[real little ones]] in there. So
+[u2075 | 02:56:23.640-02:56:31.230 | Rothfis] I was gonna say that that bones probably can't hear, but I think there might be some {{real little ones}} in there. So
 [u2076 | 02:56:31.840-02:56:34.739 | Rothfis] not so sure.
 [u2077 | 02:56:38.720-02:56:43.850 | DM] So you're using Shatterstorm. So you're rolling with advantage. Okay,
-[u2078 | 02:56:44.020-02:56:46.069 | Riswynn] [[maybe you]] Shatterstorm.
+[u2078 | 02:56:44.020-02:56:46.069 | Riswynn] {{maybe you}} Shatterstorm.
 [u2079 | 02:56:47.520-02:56:50.420 | Riswynn] So roll another strength check. So
 [u2080 | 02:56:52.550-02:56:54.539 | Riswynn] a little bit less bad
 [u2081 | 02:56:54.550-02:56:56.789 | DM] shakes again.
@@ -2089,7 +2089,7 @@
 [u2089 | 02:57:27.530-02:57:29.629 | Rothfis] What did the bones do when
 [u2090 | 02:57:31.350-02:57:35.529 | Rothfis] when at the moment nothing.
 [u2091 | 02:57:35.960-02:57:39.239 | Rothfis] So they just don't like it, being knocked on loudly.
-[u2092 | 02:57:39.460-02:57:43.640 | Rothfis] [[They like it being beat upon entirely. Sure]],
+[u2092 | 02:57:39.460-02:57:43.640 | Rothfis] {{They like it being beat upon entirely. Sure}},
 [u2093 | 02:57:45.010-02:57:46.250 | DM] I mean
 [u2094 | 02:57:46.570-02:57:49.880 | DM] there are. Does seem to be a little bit more movement around
 [u2095 | 02:57:52.280-02:57:56.570 | Riswynn] so too much banging on the door can make the bone problem Worse
@@ -2138,7 +2138,7 @@
 [u2138 | 03:01:04.790-03:01:08.050 | DM] commanders or something.
 [u2139 | 03:01:12.860-03:01:22.919 | DM] He's, he's looking looking sort of angry, and as you, as the skulls are pulling Riswynn down,
 [u2140 | 03:01:23.150-03:01:24.360 | DM] see
-[u2141 | 03:01:24.930-03:01:29.519 | DM] [[burns]] this ghost turns, and he floats up into the air slightly
+[u2141 | 03:01:24.930-03:01:29.519 | DM] {{burns}} this ghost turns, and he floats up into the air slightly
 [u2142 | 03:01:29.970-03:01:31.590 | DM] and
 [u2143 | 03:01:31.630-03:01:35.520 | DM] looks at you as this door bursts open. The
 [u2144 | 03:01:37.020-03:01:40.840 | DM] he says, in a kind of screeching voice,
@@ -2147,7 +2147,7 @@
 [u2147 | 03:01:55.170-03:01:56.220 | DM] Okay,
 [u2148 | 03:01:57.620-03:02:04.310 | Thror] if combat starts, the first thing I want to do is twin-spell Haste on the two fighters,
 [u2149 | 03:02:04.980-03:02:06.340 | DM] I guess. Got it
-[u2150 | 03:02:07.190-03:02:08.220 | Unknown] [[floor]].
+[u2150 | 03:02:07.190-03:02:08.220 | Unknown] {{floor}}.
 [u2151 | 03:02:12.180-03:02:13.369 | DM] Ah,
 [u2152 | 03:02:14.790-03:02:21.089 | Riswynn] if i'm in danger of being buried. Somebody should like grab the me.
 [u2153 | 03:02:25.310-03:02:27.420 | DM] Another strength, save
@@ -2158,11 +2158,11 @@
 [u2158 | 03:02:54.940-03:02:57.360 | DM] and um!
 [u2159 | 03:02:57.840-03:03:00.600 | DM] That ghost kind of laughs
 [u2160 | 03:03:00.870-03:03:03.759 | DM] as you turn, make a strength check.
-[u2161 | 03:03:08.340-03:03:09.889 | Merash] [[We are wisdom]]. Sorry
+[u2161 | 03:03:08.340-03:03:09.889 | Merash] {{We are wisdom}}. Sorry
 [u2162 | 03:03:09.900-03:03:12.189 | DM] you you if you're trying to pull her out.
 [u2163 | 03:03:12.200-03:03:14.039 | Merash] Yeah, I would like to try to pull her out.
 [u2164 | 03:03:14.900-03:03:17.389 | Rothfis] Okay, yeah, you pull her out.
-[u2165 | 03:03:17.400-03:03:25.529 | Riswynn] I'm going to pull [[some dragon out of the boats]]. They sort of clatter to the ground, kind of still
+[u2165 | 03:03:17.400-03:03:25.529 | Riswynn] I'm going to pull {{some dragon out of the boats}}. They sort of clatter to the ground, kind of still
 [u2166 | 03:03:25.900-03:03:32.200 | DM] swarming around a little bit. Not completely still, but you yank Riswynn into the room.
 [u2167 | 03:03:32.610-03:03:34.290 | DM] So here, let's put.
 [u2168 | 03:03:34.300-03:03:37.729 | Unknown] Can I stamp on them like they’re cockroaches as we go?
@@ -2178,12 +2178,12 @@
 [u2178 | 03:04:23.140-03:04:24.330 | Merash] Hagrim?
 [u2179 | 03:04:24.340-03:04:25.510 | Unknown] Yeah.
 [u2180 | 03:04:25.600-03:04:29.420 | Riswynn] Do we know his last? His family name? Firebrand,
-[u2181 | 03:04:29.550-03:04:33.799 | Riswynn] Hagrim, Firebrand, The [[Parisel]] are summoning you
+[u2181 | 03:04:29.550-03:04:33.799 | Riswynn] Hagrim, Firebrand, The {{Parisel}} are summoning you
 [u2182 | 03:04:34.930-03:04:37.049 | Riswynn] hold up the chalice.
 [u2183 | 03:04:39.730-03:04:46.970 | DM] Ah, okay, actually, let's Let's roll initiative to
 [u2184 | 03:04:47.020-03:04:48.490 | Merash] It's really terrifying
 [u2185 | 03:04:55.640-03:05:00.920 | Rothfis] trip over my own two big feet. Haven't. Been this large before.
-[u2186 | 03:05:02.290-03:05:04.490 | Rothfis] [[Thank my aunt, the Dora]] coming in.
+[u2186 | 03:05:02.290-03:05:04.490 | Rothfis] {{Thank my aunt, the Dora}} coming in.
 [u2187 | 03:05:13.920-03:05:15.430 | DM] Ah,
 [u2188 | 03:05:16.020-03:05:18.190 | DM] okay, sorry. Hold on, I get it.
 [u2189 | 03:05:18.200-03:05:19.340 | Unknown] Get this.
@@ -2204,18 +2204,18 @@
 [u2204 | 03:06:22.160-03:06:23.510 | DM] ten.
 [u2205 | 03:06:26.490-03:06:31.249 | Rothfis] Do you think, Kate, do you think Riswynn would want it.
 [u2206 | 03:06:31.620-03:06:34.160 | Rothfis] I mean,
-[u2207 | 03:06:34.240-03:06:38.100 | DM] use it because you could cast a spell and [[make a weapon]]
+[u2207 | 03:06:34.240-03:06:38.100 | DM] use it because you could cast a spell and {{make a weapon}}
 [u2208 | 03:06:38.870-03:06:40.790 | DM] with your extra strength.
 [u2209 | 03:06:40.800-03:06:46.139 | Rothfis] On the other hand, Well, then, you could do the spell as the haste action, and do two attacks with.
 [u2210 | 03:06:46.160-03:06:49.490 | Rothfis] She doesn't get two attacks,
 [u2211 | 03:06:49.500-03:06:56.740 | DM] and you can't cast a spell with with your haste. Action, anyway. But you could cast a spell with your normal action, and then you,
-[u2212 | 03:06:58.800-03:07:01.689 | Riswynn] I think, the [[main plate attack]] with her
-[u2213 | 03:07:01.700-03:07:06.890 | Riswynn] Shatterstorm as far as damage is concerned [[past the Giz when]] it's probably better, but
+[u2212 | 03:06:58.800-03:07:01.689 | Riswynn] I think, the {{main plate attack}} with her
+[u2213 | 03:07:01.700-03:07:06.890 | Riswynn] Shatterstorm as far as damage is concerned {{past the Giz when}} it's probably better, but
 [u2214 | 03:07:06.900-03:07:14.329 | Rothfis] it gives you a bit more survivability because it gives you the plus the Ac. And Riswynn already has a really high Ac:
 [u2215 | 03:07:16.330-03:07:24.989 | Rothfis] Well, I don't know. I'm like i'm big. So I've got some some new fun thing if i'm big and fast, That's wild.
-[u2216 | 03:07:26.990-03:07:42.520 | Riswynn] Okay? Well at the moment, as Hagrim gets up and shouts [[because of his two advisors]],
+[u2216 | 03:07:26.990-03:07:42.520 | Riswynn] Okay? Well at the moment, as Hagrim gets up and shouts {{because of his two advisors}},
 [u2217 | 03:07:42.750-03:07:48.440 | Rothfis] i'm down as well from from a previous ghost at the beginning.
-[u2218 | 03:07:49.180-03:07:52.200 | Riswynn] [[Right five forward]],
+[u2218 | 03:07:49.180-03:07:52.200 | Riswynn] {{Right five forward}},
 [u2219 | 03:07:56.220-03:07:57.770 | DM] and
 [u2220 | 03:07:58.610-03:08:00.249 | Riswynn] it's very good.
 [u2221 | 03:08:00.990-03:08:06.510 | DM] Yeah, there goes. Actually, this one's gonna hang back here, and it's going to
@@ -2227,7 +2227,7 @@
 [u2227 | 03:08:29.240-03:08:31.199 | DM] Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 [u2228 | 03:08:33.450-03:08:36.219 | DM] uh which is a twenty-five to hit
 [u2229 | 03:08:36.290-03:08:39.980 | Merash] yeah that is that that is
-[u2230 | 03:08:40.310-03:08:46.270 | DM] [[ninety]] twenty-two points of necrotic damage and you have to make a Constitution saving throw.
+[u2230 | 03:08:40.310-03:08:46.270 | DM] {{ninety}} twenty-two points of necrotic damage and you have to make a Constitution saving throw.
 [u2231 | 03:08:46.290-03:08:49.150 | Merash] Oh, no,
 [u2232 | 03:08:51.710-03:08:52.860 | Unknown] bye.
 [u2233 | 03:08:52.870-03:09:03.040 | Riswynn] Okay. So that's you. Just take the twenty two points of damage
@@ -2258,7 +2258,7 @@
 [u2258 | 03:10:39.700-03:10:41.090 | Riswynn] because it's not yet
 [u2259 | 03:10:41.100-03:10:45.799 | Riswynn] hasn't gone, so we couldn’t haste at that point. He didn't miss anything.
 [u2260 | 03:10:45.810-03:10:49.989 | Rothfis] You didn't miss anything.
-[u2261 | 03:10:50.190-03:10:54.890 | Rothfis] [[Can’t you?]] Merash got touched by a ghost, And it was not nice.
+[u2261 | 03:10:50.190-03:10:54.890 | Rothfis] {{Can’t you?}} Merash got touched by a ghost, And it was not nice.
 [u2262 | 03:10:54.900-03:10:55.390 | Unknown] It's it
 [u2263 | 03:10:55.400-03:10:57.310 | Merash] it was not good, it was bad.
 [u2264 | 03:10:57.320-03:10:59.490 | Riswynn] It's really good,
@@ -2267,7 +2267,7 @@
 [u2267 | 03:11:06.080-03:11:11.889 | DM] Everything was fine until you came here. Now I have all these. You made me remember all these horrible things.
 [u2268 | 03:11:12.210-03:11:13.390 | Riswynn] Mm-hmm?
 [u2269 | 03:11:14.610-03:11:16.110 | Riswynn] Um!
-[u2270 | 03:11:23.140-03:11:24.920 | Riswynn] [[Where is it ready]]?
+[u2270 | 03:11:23.140-03:11:24.920 | Riswynn] {{Where is it ready}}?
 [u2271 | 03:11:26.510-03:11:28.080 | Riswynn] Um!
 [u2272 | 03:11:33.450-03:11:37.390 | Riswynn] Can I put like a wall of fire around us.
 [u2273 | 03:11:38.300-03:11:39.750 | DM] Yeah,
@@ -2287,7 +2287,7 @@
 [u2287 | 03:12:42.670-03:12:45.690 | Merash] not very useful in any other regard
 [u2288 | 03:12:45.700-03:12:53.049 | Rothfis] we could. We could fight some things first and something second, if the wall was fully blocking.
 [u2289 | 03:12:54.400-03:12:55.530 | DM] Yeah.
-[u2290 | 03:12:57.240-03:12:59.830 | Riswynn] So I can [[guess that strategy]].
+[u2290 | 03:12:57.240-03:12:59.830 | Riswynn] So I can {{guess that strategy}}.
 [u2291 | 03:13:00.770-03:13:02.599 | DM] Okay, wow,
 [u2292 | 03:13:03.830-03:13:06.719 | DM] I'm making the wall right now. But
 [u2293 | 03:13:07.020-03:13:10.289 | Rothfis] i'll be making the wall right now.
@@ -2322,11 +2322,11 @@
 [u2322 | 03:15:14.250-03:15:15.880 | Merash] Oh, no,
 [u2323 | 03:15:19.310-03:15:21.110 | Merash] uh! Can I
 [u2324 | 03:15:21.590-03:15:24.609 | Merash] spend a luck point to
-[u2325 | 03:15:25.290-03:15:29.770 | Merash] It's immediately after you roll a d20. Oh, but that's [[one for a d like]]. Yes,
+[u2325 | 03:15:25.290-03:15:29.770 | Merash] It's immediately after you roll a d20. Oh, but that's {{one for a d like}}. Yes,
 [u2326 | 03:15:29.780-03:15:32.089 | DM] can I? That That counts? Yeah,
 [u2327 | 03:15:32.100-03:15:36.970 | DM] that's any time. Okay, twenty. Let me spend a luck point and reroll that one.
 [u2328 | 03:15:36.980-03:15:38.490 | DM] Yup! Go for it.
-[u2329 | 03:15:38.500-03:15:42.080 | Merash] It's [[originally better]]. Fifteen hits. Yep.
+[u2329 | 03:15:38.500-03:15:42.080 | Merash] It's {{originally better}}. Fifteen hits. Yep.
 [u2330 | 03:15:42.090-03:15:43.569 | Merash] Oh, it's It's it.
 [u2331 | 03:15:46.750-03:15:55.630 | DM] Okay. So as Merash slams into this ghost twice with her maul. It looks.
 [u2332 | 03:15:55.980-03:16:00.510 | DM] It definitely looks hurt, right. It's taking some damage.
@@ -2357,7 +2357,7 @@
 [u2357 | 03:17:25.500-03:17:28.689 | Rothfis] big Rothfis come down from the heavens,
 [u2358 | 03:17:30.340-03:17:34.539 | Rothfis] and I will do.
 [u2359 | 03:17:35.050-03:17:42.469 | Rothfis] The flurry of blows. To do two more is Oh, no! I actually get more attacks. Let's go
-[u2360 | 03:17:42.720-03:17:53.310 | Rothfis] [[regular turns out an attack bad]] with the big, Rothfis on top of that, and then i'll do. How's it doing It's still.
+[u2360 | 03:17:42.720-03:17:53.310 | Rothfis] {{regular turns out an attack bad}} with the big, Rothfis on top of that, and then i'll do. How's it doing It's still.
 [u2361 | 03:17:54.900-03:17:57.260 | Rothfis] I'll do a flurry of blows.
 [u2362 | 03:17:58.020-03:18:00.230 | Rothfis] So there is one,
 [u2363 | 03:18:00.240-03:18:01.430 | DM] Okay,
@@ -2407,7 +2407,7 @@
 [u2407 | 03:21:53.390-03:21:57.939 | DM] you do hear him yelling through the wall.
 [u2408 | 03:21:59.650-03:22:01.039 | DM] Go!
 [u2409 | 03:22:01.620-03:22:03.770 | DM] I am through with you.
-[u2410 | 03:22:04.020-03:22:06.100 | Unknown] [[She was in a few years]],
+[u2410 | 03:22:04.020-03:22:06.100 | Unknown] {{She was in a few years}},
 [u2411 | 03:22:07.700-03:22:10.789 | DM] but you can't see anything that's happening behind the wall,
 [u2412 | 03:22:11.290-03:22:13.119 | DM] so Riswynn is up,
 [u2413 | 03:22:14.820-03:22:16.289 | Riswynn] hurried
@@ -2417,7 +2417,7 @@
 [u2417 | 03:22:35.240-03:22:37.329 | Riswynn] as an action. Also
 [u2418 | 03:22:37.840-03:22:40.490 | Riswynn] do my hammer thing.
 [u2419 | 03:22:41.680-03:22:45.039 | Riswynn] I'm going to cast
-[u2420 | 03:22:47.450-03:22:51.520 | Riswynn] um. [[There’s your next]]
+[u2420 | 03:22:47.450-03:22:51.520 | Riswynn] um. {{There’s your next}}
 [u2421 | 03:23:01.640-03:23:03.140 | Riswynn] he's
 [u2422 | 03:23:05.030-03:23:07.689 | Riswynn] going to cast spiritual weapon
 [u2423 | 03:23:15.230-03:23:17.020 | Riswynn] for it
@@ -2427,7 +2427,7 @@
 [u2427 | 03:23:31.430-03:23:33.990 | Riswynn] but it doesn't do anything the first time around.
 [u2428 | 03:23:34.000-03:23:34.990 | DM] Yeah, it does.
 [u2429 | 03:23:39.090-03:23:41.720 | Riswynn] So I can direct it at the
-[u2430 | 03:23:42.180-03:23:50.039 | Riswynn] bone. The bones thing because it's within a range of [[criticism]]. Right? All right. So that it's gonna roll it. its thing.
+[u2430 | 03:23:42.180-03:23:50.039 | Riswynn] bone. The bones thing because it's within a range of {{criticism}}. Right? All right. So that it's gonna roll it. its thing.
 [u2431 | 03:23:53.330-03:23:55.260 | DM] Ah, yep, that
 [u2432 | 03:23:56.810-03:24:00.349 | DM] that hits well, whichever one hits the
 [u2433 | 03:24:01.070-03:24:02.380 | Riswynn] whichever one
@@ -2457,7 +2457,7 @@
 [u2457 | 03:25:51.540-03:25:54.169 | DM] And that ends your turn unless you want to move.
 [u2458 | 03:25:54.400-03:25:55.979 | Riswynn] Merash, you’re next?
 [u2459 | 03:26:01.240-03:26:06.700 | Merash] So can I move into where the spiritual weapon currently is, or I have to avoid it.
-[u2460 | 03:26:06.770-03:26:08.640 | Riswynn] [[You can do it for us]].
+[u2460 | 03:26:06.770-03:26:08.640 | Riswynn] {{You can do it for us}}.
 [u2461 | 03:26:08.810-03:26:12.879 | Merash] Okay, i'm going to move closer to um the
 [u2462 | 03:26:13.090-03:26:18.449 | Merash] scary purple, glowing ghost and swing at it with my Maul of the Forge.
 [u2463 | 03:26:19.300-03:26:20.330 | DM] Okay,
@@ -2514,7 +2514,7 @@
 [u2514 | 03:29:18.240-03:29:20.139 | Merash] I really hope this works
 [u2515 | 03:29:20.590-03:29:25.939 | Merash] Okay. So for Maul of the Forge when I throw it.
 [u2516 | 03:29:26.250-03:29:27.289 | Merash] A.
-[u2517 | 03:29:27.430-03:29:37.299 | Merash] Everyone in a twenty-foot radius needs to make a DC fifteen Dex saving throw. And if I throw it here, it should hit [[any of them]].
+[u2517 | 03:29:27.430-03:29:37.299 | Merash] Everyone in a twenty-foot radius needs to make a DC fifteen Dex saving throw. And if I throw it here, it should hit {{any of them}}.
 [u2518 | 03:29:40.890-03:29:42.390 | DM] Ah, yeah,
 [u2519 | 03:29:51.290-03:29:52.449 | DM] okay.
 [u2520 | 03:29:53.760-03:29:55.550 | Merash] So for a
@@ -2549,7 +2549,7 @@
 [u2549 | 03:32:05.320-03:32:08.730 | Thror] awesome. And just for flavor. I'll move myself. Over here
 [u2550 | 03:32:08.770-03:32:10.170 | DM] Okay,
 [u2551 | 03:32:10.440-03:32:12.580 | DM] Um: Rothfis, You're up
-[u2552 | 03:32:12.820-03:32:16.649 | Rothfis] So that was [[lightning for us out]], and um
+[u2552 | 03:32:12.820-03:32:16.649 | Rothfis] So that was {{lightning for us out}}, and um
 [u2553 | 03:32:16.970-03:32:18.119 | DM] Hagrim.
 [u2554 | 03:32:18.200-03:32:22.530 | DM] Looks again. Looks around and kind of
 [u2555 | 03:32:23.090-03:32:23.890 | Unknown] stack.
@@ -2563,7 +2563,7 @@
 [u2563 | 03:33:04.810-03:33:06.580 | Rothfis] Hagrim Hagrim
 [u2564 | 03:33:07.360-03:33:12.679 | Rothfis] going to drop down from my twenty feet in the sky
 [u2565 | 03:33:13.240-03:33:20.109 | Rothfis] and and start punching this ghost, this one doesn't have a
-[u2566 | 03:33:20.120-03:33:22.660 | Rothfis] [[correct on him]],
+[u2566 | 03:33:20.120-03:33:22.660 | Rothfis] {{correct on him}},
 [u2567 | 03:33:23.460-03:33:25.269 | Rothfis] I say, uh,
 [u2568 | 03:33:26.510-03:33:30.519 | Rothfis] I say, is there any of you in there, or is it?
 [u2569 | 03:33:31.790-03:33:33.260 | Rothfis] Is it all?
@@ -2589,7 +2589,7 @@
 [u2589 | 03:35:12.520-03:35:14.990 | DM] at Hagrim, who kind of like
 [u2590 | 03:35:15.310-03:35:19.639 | DM] um shakes his head and sort of points at
 [u2591 | 03:35:19.850-03:35:21.560 | DM] Thror. Who
-[u2592 | 03:35:21.900-03:35:27.250 | DM] so [[historic range]]? Ah, not What's the move?
+[u2592 | 03:35:21.900-03:35:27.250 | DM] so {{historic range}}? Ah, not What's the move?
 [u2593 | 03:35:29.370-03:35:32.569 | DM] That was Sixty foot fly easily in range,
 [u2594 | 03:35:33.220-03:35:35.490 | DM] and he's going to move
 [u2595 | 03:35:35.840-03:35:37.190 | DM] there,
@@ -2630,7 +2630,7 @@
 [u2630 | 03:38:24.910-03:38:26.540 | DM] Hit you twice.
 [u2631 | 03:38:26.680-03:38:29.389 | Rothfis] Yeah. Oh, sorry. No. He just gets the one. Never mind
 [u2632 | 03:38:29.400-03:38:30.390 | Rothfis] That's fine
-[u2633 | 03:38:30.400-03:38:31.690 | Rothfis] [[one for your past]].
+[u2633 | 03:38:30.400-03:38:31.690 | Rothfis] {{one for your past}}.
 [u2634 | 03:38:31.700-03:38:33.109 | Rothfis] Yeah, thanks.
 [u2635 | 03:38:33.140-03:38:36.139 | DM] That ends his turn. Riswynn, you're up
 [u2636 | 03:38:36.830-03:38:39.849 | Riswynn] all right, I move um
@@ -2681,13 +2681,13 @@
 [u2681 | 03:41:37.370-03:41:40.169 | Merash] And then uh
 [u2682 | 03:41:40.230-03:41:42.029 | Merash] that, it's not a
 [u2683 | 03:41:42.130-03:41:43.090 | Merash] okay
-[u2684 | 03:41:43.100-03:41:44.719 | Merash] okay [[flash that]]
+[u2684 | 03:41:43.100-03:41:44.719 | Merash] okay {{flash that}}
 [u2685 | 03:41:45.960-03:41:47.310 | Merash] amazing
 [u2686 | 03:41:47.400-03:41:49.910 | Merash] Um, That was
 [u2687 | 03:41:50.430-03:41:52.910 | Merash] movement and haste
-[u2688 | 03:41:53.310-03:42:02.690 | Merash] and a hit, and then so I can. I'll throw a handaxe at Well, can I see Hagrim through [[twenty-foot]]
+[u2688 | 03:41:53.310-03:42:02.690 | Merash] and a hit, and then so I can. I'll throw a handaxe at Well, can I see Hagrim through {{twenty-foot}}
 [u2689 | 03:42:02.700-03:42:05.569 | Merash] you would have? Not really
-[u2690 | 03:42:05.620-03:42:10.110 | Merash] I mean [[he’s not probably half cover behind]].
+[u2690 | 03:42:05.620-03:42:10.110 | Merash] I mean {{he’s not probably half cover behind}}.
 [u2691 | 03:42:11.100-03:42:18.589 | Rothfis] Good. Yeah, it's a bit. You might have a bit more movement, too, from your Haste still.
 [u2692 | 03:42:20.060-03:42:24.089 | DM] Yeah, because remember, Haste doubled your movement. So you've got a ton of movement.
 [u2693 | 03:42:24.360-03:42:27.590 | Merash] I I should have.
@@ -2699,11 +2699,11 @@
 [u2699 | 03:42:45.640-03:42:50.660 | Merash] Dash works. Then Dash just gives you your whole movement again.
 [u2700 | 03:42:50.730-03:42:53.490 | DM] So you have haste, doubles your movement,
 [u2701 | 03:42:53.590-03:42:57.470 | DM] so you have fifty, your speed becomes fifty.
-[u2702 | 03:42:58.710-03:43:01.190 | Merash] Oh, wow, okay. [[So he says]],
+[u2702 | 03:42:58.710-03:43:01.190 | Merash] Oh, wow, okay. {{So he says}},
 [u2703 | 03:43:01.200-03:43:02.240 | Merash] Okay,
 [u2704 | 03:43:02.390-03:43:04.560 | Merash] Okay, Sorry. I
 [u2705 | 03:43:04.580-03:43:06.789 | Merash] did not understand how Haste impacts. My,
-[u2706 | 03:43:06.800-03:43:09.890 | Merash] Okay. So I still have, like a decent amount left, [[please]]?
+[u2706 | 03:43:06.800-03:43:09.890 | Merash] Okay. So I still have, like a decent amount left, {{please}}?
 [u2707 | 03:43:09.900-03:43:10.710 | DM] Yeah,
 [u2708 | 03:43:10.720-03:43:11.989 | Rothfis] you can definitely get to him.
 [u2709 | 03:43:12.000-03:43:15.359 | Merash] So I could. I could get to Hagrim.
@@ -2719,7 +2719,7 @@
 [u2719 | 03:44:05.540-03:44:07.449 | DM] That hits
 [u2720 | 03:44:07.730-03:44:11.169 | Thror] uh here’s a roll of damage.
 [u2721 | 03:44:12.810-03:44:13.940 | DM] Okay,
-[u2722 | 03:44:20.710-03:44:22.130 | Thror] [[six hundred and sixty]].
+[u2722 | 03:44:20.710-03:44:22.130 | Thror] {{six hundred and sixty}}.
 [u2723 | 03:44:25.160-03:44:26.179 | Thror] That's me.
 [u2724 | 03:44:26.420-03:44:27.680 | DM] Okay,
 [u2725 | 03:44:28.320-03:44:29.799 | DM] Rothfis you're up
@@ -2734,7 +2734,7 @@
 [u2734 | 03:45:00.370-03:45:04.500 | Rothfis] So five more on that that's first attack.
 [u2735 | 03:45:04.510-03:45:06.119 | DM] Yeah.
 [u2736 | 03:45:06.650-03:45:09.410 | Rothfis] In between, I say.
-[u2737 | 03:45:09.770-03:45:16.610 | Rothfis] Why, why, why [[the blast or a hell similar regards]], and I punch him again with the other hand,
+[u2737 | 03:45:09.770-03:45:16.610 | Rothfis] Why, why, why {{the blast or a hell similar regards}}, and I punch him again with the other hand,
 [u2738 | 03:45:17.120-03:45:20.440 | Rothfis] and that's only a fifteen that hits
 [u2739 | 03:45:20.470-03:45:25.190 | Rothfis] big fist. Now that misses fifteen misses. So fifteen misses. Okay,
 [u2740 | 03:45:25.200-03:45:26.789 | Unknown] Um,
@@ -2750,7 +2750,7 @@
 [u2750 | 03:46:02.100-03:46:04.190 | Rothfis] I figured he probably did,
 [u2751 | 03:46:05.860-03:46:10.300 | DM] and he's a fighter. So he does have a few uses of indomitable,
 [u2752 | 03:46:12.210-03:46:13.690 | DM] so that does not work.
-[u2753 | 03:46:13.700-03:46:22.559 | Rothfis] It doesn't work. [[But it did that last time]]. I'm trying to stun him one final big punch. [[Now I’ve done more]].
+[u2753 | 03:46:13.700-03:46:22.559 | Rothfis] It doesn't work. {{But it did that last time}}. I'm trying to stun him one final big punch. {{Now I’ve done more}}.
 [u2754 | 03:46:22.730-03:46:34.830 | Rothfis] That's a miss all right. I've used flurry of blows so I can disengage and move up to fifty for free. I'm gonna disengage and fly up to the ceiling.
 [u2755 | 03:46:35.250-03:46:37.949 | Rothfis] Okay, that's the end of my turn.
 [u2756 | 03:46:39.100-03:46:40.390 | Merash] Nice. It's for you.
@@ -2766,7 +2766,7 @@
 [u2766 | 03:47:18.300-03:47:20.139 | Merash] Yeah, that misses right.
 [u2767 | 03:47:20.150-03:47:23.510 | Merash] Yeah. So that's a total of
 [u2768 | 03:47:23.790-03:47:26.019 | DM] fourteen, plus
-[u2769 | 03:47:26.710-03:47:33.310 | DM] good damage. [[Also two thousand and fourteen]], plus thirteen, twenty, seven points of
+[u2769 | 03:47:26.710-03:47:33.310 | DM] good damage. {{Also two thousand and fourteen}}, plus thirteen, twenty, seven points of
 [u2770 | 03:47:33.430-03:47:34.490 | DM] damage,
 [u2771 | 03:47:34.500-03:47:37.309 | Riswynn] and make a Constitution saving throw?
 [u2772 | 03:47:39.690-03:47:45.119 | Merash] Oh, no, no, no! Can I use a luck point on that.
@@ -2851,7 +2851,7 @@
 [u2851 | 03:53:16.730-03:53:18.440 | Riswynn] how about
 [u2852 | 03:53:31.480-03:53:33.260 | Riswynn] guiding bolt
 [u2853 | 03:53:35.480-03:53:37.199 | DM] with disadvantage
-[u2854 | 03:53:41.050-03:53:42.800 | DM] [[progresses]]?
+[u2854 | 03:53:41.050-03:53:42.800 | DM] {{progresses}}?
 [u2855 | 03:53:45.550-03:53:49.809 | Thror] Make a wisdom save to see if you can shake the fear. Merash, you're up.
 [u2856 | 03:53:52.810-03:53:54.449 | DM] Ah,
 [u2857 | 03:53:58.760-03:54:02.399 | DM] um, yes, that you are now no longer afraid.
@@ -2900,7 +2900,7 @@
 [u2900 | 03:57:37.200-03:57:39.859 | DM] uh you don't You don't take any damage.
 [u2901 | 03:57:39.920-03:57:40.990 | Unknown] All right.
 [u2902 | 03:57:42.320-03:57:44.229 | Rothfis] That's it for me,
-[u2903 | 03:57:44.280-03:57:51.680 | Rothfis] All right. So you're just sitting on a prone [[man and ghost]].
+[u2903 | 03:57:44.280-03:57:51.680 | Rothfis] All right. So you're just sitting on a prone {{man and ghost}}.
 [u2904 | 03:57:52.670-03:57:54.910 | DM] He he like
 [u2905 | 03:57:54.990-03:57:57.530 | DM] tries to like um.
 [u2906 | 03:57:59.200-03:58:03.789 | Riswynn] I guess he's actually technically immune to prone, but
@@ -2930,7 +2930,7 @@
 [u2930 | 03:59:59.290-04:00:03.810 | Riswynn] and I splash it in the direction of his head, face, mouth.
 [u2931 | 04:00:03.890-04:00:06.149 | Riswynn] Okay, you know.
 [u2932 | 04:00:07.740-04:00:09.020 | DM] So
-[u2933 | 04:00:10.360-04:00:12.980 | Riswynn] [[how do you drink]] the bells of home?
+[u2933 | 04:00:10.360-04:00:12.980 | Riswynn] {{how do you drink}} the bells of home?
 [u2934 | 04:00:17.140-04:00:18.199 | DM] Ah!
 [u2935 | 04:00:18.360-04:00:19.930 | DM] As you
 [u2936 | 04:00:20.060-04:00:28.690 | DM] splash him as you like, take out, run forward and sort of take out this chalice and begin to pour it on him.
@@ -2957,7 +2957,7 @@
 [u2957 | 04:01:57.470-04:01:58.940 | Riswynn] I say?
 [u2958 | 04:02:00.040-04:02:01.610 | Riswynn] Witnesses
 [u2959 | 04:02:03.530-04:02:11.710 | Riswynn] both those he killed, and not say he was not himself. There is evidence that he was compelled,
-[u2960 | 04:02:13.390-04:02:15.060 | Riswynn] [[believes that]]
+[u2960 | 04:02:13.390-04:02:15.060 | Riswynn] {{believes that}}
 [u2961 | 04:02:15.990-04:02:19.220 | Riswynn] he yearns for his home, and could be redeemed
 [u2962 | 04:02:26.520-04:02:28.189 | DM] as the water
 [u2963 | 04:02:29.320-04:02:31.220 | DM] water pours out
@@ -2985,7 +2985,7 @@
 [u2985 | 04:04:49.470-04:04:50.800 | Thror] Where's everybody
 [u2986 | 04:04:51.000-04:04:52.119 | Merash] here?
 [u2987 | 04:04:58.940-04:05:01.360 | DM] Well, do you want to look around?
-[u2988 | 04:05:01.370-04:05:05.689 | Thror] Yes, yes, [[there’s Tak]], I mean, we look around.
+[u2988 | 04:05:01.370-04:05:05.689 | Thror] Yes, yes, {{there’s Tak}}, I mean, we look around.
 [u2989 | 04:05:06.760-04:05:10.400 | Thror] Yeah, with our perception rolls. It seems like you see, a tree.
 [u2990 | 04:05:11.070-04:05:13.049 | Riswynn] Yeah, make a perception roll.
 [u2991 | 04:05:20.360-04:05:22.000 | DM] It's not bad. Actually.
@@ -3016,9 +3016,9 @@
 [u3016 | 04:07:20.960-04:07:27.169 | DM] I mean you might. They'd be up on the cliff and set back away. You wouldn't be able to see them from down below here
 [u3017 | 04:07:27.340-04:07:28.650 | DM] if they were.
 [u3018 | 04:07:30.910-04:07:33.910 | Riswynn] Do you want to go chase after them?
-[u3019 | 04:07:33.920-04:07:35.990 | DM] Go, kill some [[Tedarians]] just for fun.
+[u3019 | 04:07:33.920-04:07:35.990 | DM] Go, kill some {{Tedarians}} just for fun.
 [u3020 | 04:07:36.500-04:07:36.990 | Thror] The
-[u3021 | 04:07:44.550-04:07:48.169 | Riswynn] [[you can quite distract]] from the mission of mercy parts
+[u3021 | 04:07:44.550-04:07:48.169 | Riswynn] {{you can quite distract}} from the mission of mercy parts
 [u3022 | 04:07:49.850-04:07:51.899 | Unknown] haring off after them.
 [u3023 | 04:07:53.160-04:07:54.500 | DM] So,
 [u3024 | 04:07:54.520-04:07:59.630 | DM] as you all sort of gather to explain what's happened,
@@ -3033,7 +3033,7 @@
 [u3033 | 04:08:39.970-04:08:42.049 | DM] I guess, except Riswynn
 [u3034 | 04:08:42.060-04:08:44.770 | DM] Riswynn, you’re stuck with these people.
 [u3035 | 04:08:45.060-04:08:46.660 | Riswynn] I got that.
-[u3036 | 04:08:47.760-04:08:51.829 | Riswynn] It's okay. I know the way [[from uh to a]]
+[u3036 | 04:08:47.760-04:08:51.829 | Riswynn] It's okay. I know the way {{from uh to a}}
 [u3037 | 04:08:56.610-04:09:00.499 | Rothfis] Rothfis shrinks down to normal size and
 [u3038 | 04:09:01.460-04:09:08.189 | Rothfis] looks around to you. You see that you see that he has aged. I don't know that one
 [u3039 | 04:09:13.070-04:09:16.010 | Rothfis] see that he’s aged twenty years,

@@ -47,7 +47,7 @@ Seeker: So.
 DM: I'll get back to the shield in a minute. I'm just—
 
 %% u1419 %%
-Seeker: [[Uploaded to]]—the mind flayer was significantly reduced in its capacity by the time we got to it.
+Seeker: {{Uploaded to}}—the mind flayer was significantly reduced in its capacity by the time we got to it.
 
 %% u1420-u1421 %%
 DM: No, you actually fought two mind flayers; one was badly wounded.
@@ -59,7 +59,7 @@ Seeker: Okay, so.
 DM: Okay, so.
 
 %% u1424-u1425 %%
-Riswynn: [[I'm like an open door thing.]] This is a place that hasn't been—
+Riswynn: {{I'm like an open door thing.}} This is a place that hasn't been—
 
 %% u1426 %%
 Delwath: Yeah.
@@ -71,7 +71,7 @@ Riswynn: For a long time.
 DM: So here's the shield. It should have popped up.
 
 %% u1429 %%
-Seeker: [[In real training.]] Now we haven't seen any mind flayer yet.
+Seeker: {{In real training.}} Now we haven't seen any mind flayer yet.
 
 %% u1430-u1431 %%
 Delwath: Nothing appeared in Roll20. Oh, there we go. Now it is.
@@ -80,22 +80,22 @@ Delwath: Nothing appeared in Roll20. Oh, there we go. Now it is.
 DM: Against the far wall, two large iron doors stand shut. In front of the doors, there's the dead body of some sort of humanoid creature, but definitely not a human. Somewhat taller than a normal human, maybe seven or eight feet tall, with an elongated, almost cone-like head, with claws instead of hands, with large sharp fingers and a gaping hole where the mouth should be, the skull smashed open. In the middle of the room, piles of dry and crumbling wood seem to hint at the remains of shelving or storage, something like that at one point. Whether time or violence or something else destroyed that, it's not entirely clear. On the right-hand wall, eight large stone chests stand. Six are open and empty; the other two are shut.
 
 %% u1437 %%
-Kenzo: Tim, [[was there a role play enough]]?
+Kenzo: Tim, {{was there a role play enough}}?
 
 %% u1438 %%
-DM: [[It's not enough. It's a pain.]]
+DM: {{It's not enough. It's a pain.}}
 
 %% u1439 %%
 Delwath: In the window, yeah.
 
 %% u1440 %%
-Wellby: [[Then what the newspaper.]]
+Wellby: {{Then what the newspaper.}}
 
 %% u1441 %%
 Seeker: Newspaper. Oh, okay. I didn't—
 
 %% u1442 %%
-Kenzo: Whoa, what the heck, [[off of all of—]]
+Kenzo: Whoa, what the heck, {{off of all of—}}
 
 %% u1443-u1447 %%
 Riswynn: This is what I came here for. We cannot barter with this, cannot give a token of my family's most precious relic. We have been fearful that others would reach it before us and sell it off, as has been happening with other dwarvish treasures.
@@ -104,13 +104,13 @@ Riswynn: This is what I came here for. We cannot barter with this, cannot give a
 Riswynn: Its power is not for battle, but for our history. It tells the stories of our ancestors.
 
 %% u1449 %%
-Kenzo: [[We're really really found this way.]]
+Kenzo: {{We're really really found this way.}}
 
 %% u1450 %%
 Seeker: And.
 
 %% u1451 %%
-Riswynn: [[Our]]—until I can bring it home to my people.
+Riswynn: {{Our}}—until I can bring it home to my people.
 
 %% u1452 %%
 Seeker: And I'm hoping what we're seeing here also indicates that the blind one's days of eating your brain have come to an end.
@@ -239,7 +239,7 @@ Kenzo: If we—
 Unknown: Can tell me more about it.
 
 %% u1543-u1545 %%
-Kenzo: Yeah. Let's do what we have to do and get out of this room. I don't like it here. And, you know, [[in mind]], let's get the hell out of this cave soon [[to began]].
+Kenzo: Yeah. Let's do what we have to do and get out of this room. I don't like it here. And, you know, {{in mind}}, let's get the hell out of this cave soon {{to began}}.
 
 %% u1546-u1547 %%
 Wellby: Right, here's the first Dex plus proficiency.
@@ -248,7 +248,7 @@ Wellby: Right, here's the first Dex plus proficiency.
 DM: Okay. You just manage to do—it's not the main defense, the main part of this—
 
 %% u1550-u1551 %%
-Seeker: [[Festival.]] It's not the locks on these chests. It's that—
+Seeker: {{Festival.}} It's not the locks on these chests. It's that—
 
 %% u1552-u1553 %%
 DM: Door that requires two dwarves to open. So you just manage to fiddle the first one open.
@@ -269,10 +269,10 @@ Kenzo: Maybe what's written on them, Seeker.
 Seeker: Life and health.
 
 %% u1562-u1563 %%
-Kenzo: Maybe this one, [[after we passed in Venice back]], I don't know, maybe—
+Kenzo: Maybe this one, {{after we passed in Venice back}}, I don't know, maybe—
 
 %% u1564 %%
-Unknown: [[Wow help that one of your friends help you.]]
+Unknown: {{Wow help that one of your friends help you.}}
 
 %% u1565 %%
 Riswynn: Bring back your life.
@@ -512,7 +512,7 @@ Seeker: Well, I'm curious about this iron door.
 Kenzo: I'm still looking around for the invisible dwarf thing. I do pride myself on Perception. Well, hopefully Delwath, or—
 
 %% u1675-u1676 %%
-Riswynn: [[On the floor. Additional.]]
+Riswynn: {{On the floor. Additional.}}
 
 %% u1677 %%
 Seeker: Right, that's a good place to watch.
@@ -524,7 +524,7 @@ DM: Right.
 Kenzo: You're really quiet, by the way. I don't know if there's a way to bump your—yeah. Is there any—I'm having a hard time hearing you. A little bit soft.
 
 %% u1682-u1683 %%
-Riswynn: [[Wisely.]] Okay, I'll just project.
+Riswynn: {{Wisely.}} Okay, I'll just project.
 
 %% u1684 %%
 Kenzo: Yes.

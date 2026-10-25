@@ -17,7 +17,7 @@ DM: Candrosa is looking haggard and runs over to the two who are dead. But they'
 Delwath: They followed us.
 
 %% u2522-u2523 %%
-DM: From [[our first place]]?
+DM: From {{our first place}}?
 
 %% u2524 %%
 Unknown: Kharsan.
@@ -38,7 +38,7 @@ DM: Yes, you've now actually killed nine, because this one that killed one of th
 Delwath: We don't believe so.
 
 %% u2531-u2536 %%
-Kenzo: Well, there are more, Candrosa. There are many more. We still haven't had a chance to explain everything that we've seen, but there is great evil in Kharsan now. We're so sorry. Whatever tradition is appropriate here to [[lesser]]...
+Kenzo: Well, there are more, Candrosa. There are many more. We still haven't had a chance to explain everything that we've seen, but there is great evil in Kharsan now. We're so sorry. Whatever tradition is appropriate here to {{lesser}}...
 
 %% u2537-u2541 %%
 DM: Every cut now hurts all the more. You have seen why we need the mystai of Shakun, why we need these people. Yes.
@@ -182,7 +182,7 @@ Kenzo: Oh yeah, but then again, it was because of the shit that we did the day b
 Delwath: Yeah, it was.
 
 %% u2652-u2653 %%
-Kenzo: Pulling the manticore on the orcs and the orcs finding all that stuff that made him [[a shot]].
+Kenzo: Pulling the manticore on the orcs and the orcs finding all that stuff that made him {{a shot}}.
 
 %% u2654 %%
 Seeker: He knew we were there.
@@ -281,7 +281,7 @@ Kenzo: Maybe the Heart's in the Feywild, so we get to go into that portal.
 Delwath: Oh yeah, totally, that different plane.
 
 %% u2702 %%
-Seeker: [[Early]].
+Seeker: {{Early}}.
 
 %% u2703 %%
 Wellby: On this plane necessarily.
@@ -296,13 +296,13 @@ Unknown: The mirror.
 Kenzo: We should bring the mirror with us.
 
 %% u2709 %%
-Drikod: I know I could carry the mirror. I'm [[drinking]].
+Drikod: I know I could carry the mirror. I'm {{drinking}}.
 
 %% u2710-u2714 %%
-Delwath: [[The beer for]]. You actually can only use it once a week, so it's not like you can just walk around pointing it and...
+Delwath: {{The beer for}}. You actually can only use it once a week, so it's not like you can just walk around pointing it and...
 
 %% u2715-u2716 %%
-Kenzo: Can we make a magical—not the big-ass huge one, but a little [[animal]] that we can...?
+Kenzo: Can we make a magical—not the big-ass huge one, but a little {{animal}} that we can...?
 
 %% u2717 %%
 Delwath: It only works once a week.
@@ -338,13 +338,13 @@ Seeker: It was a mess, yeah.
 Delwath: It was awesome.
 
 %% u2732-u2735 %%
-Kenzo: Yeah, the mirror is a game changer. And whenever we finish talking, Kenzo will [[how well well]]...
+Kenzo: Yeah, the mirror is a game changer. And whenever we finish talking, Kenzo will {{how well well}}...
 
 %% u2736 %%
 DM: Yeah, go.
 
 %% u2737 %%
-Drikod: [[Nine in]].
+Drikod: {{Nine in}}.
 
 %% u2738 %%
 Kenzo: The mystai with them and help.

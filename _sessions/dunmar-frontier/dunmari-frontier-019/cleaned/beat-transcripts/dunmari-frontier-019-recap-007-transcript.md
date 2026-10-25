@@ -17,7 +17,7 @@ Unknown: So I.
 Wellby: This is not good for you right now, but I'm seeking safe passage for myself and my companions. We just want to cut through, if you… Yep, you get really chapped in the dry heat out here.
 
 %% u2240-u2241 %%
-DM: [[Back.]] Snack.
+DM: {{Back.}} Snack.
 
 %% u2242 %%
 Wellby: You know, the last time I met—I feel like we had a much more elevated level of discourse.
@@ -71,7 +71,7 @@ Wellby: I have plenty of space to make it to them and still not be within ten fe
 Delwath: He gains five every six seconds…
 
 %% u2264-u2265 %%
-DM: Take you to go three hundred feet. [[Every five by three hundred…]]
+DM: Take you to go three hundred feet. {{Every five by three hundred…}}
 
 %% u2266 %%
 Unknown: …turns.
@@ -140,7 +140,7 @@ DM: Okay, you have definitely time to cast that before Wellby comes around the c
 Seeker: I also, as soon as I see Wellby, will make a very steep speed bump, like knee—well, it's more like…
 
 %% u2295 %%
-Kenzo: [[Recent.]]
+Kenzo: {{Recent.}}
 
 %% u2296 %%
 DM: It is ten feet tall.
@@ -167,7 +167,7 @@ Delwath: You still don't have us as being able to move ourselves.
 DM: I don't know how that got broken. Twenty-three for Kenzo. Delwath is sixteen.
 
 %% u2310-u2311 %%
-Kenzo: Man, Eric, I think you need to draw the image of [[a cuz this]], and then behind it, like this.
+Kenzo: Man, Eric, I think you need to draw the image of {{a cuz this}}, and then behind it, like this.
 
 %% u2312 %%
 DM: Oh, I know why.
@@ -215,7 +215,7 @@ DM: Yeah, that's your action, but you can do that, yep.
 Kenzo: Actually, hold on. Before I do that, I'm going to use Acrobatics and try to get some height. Can I climb up on these rocks?
 
 %% u2330 %%
-DM: [[Like yet, or…]]
+DM: {{Like yet, or…}}
 
 %% u2331 %%
 Kenzo: I'm going to start climbing up these rocks. How much movement do I have? I don't know what my movement…
@@ -236,7 +236,7 @@ Kenzo: Again, can I do something like cool acrobatic monk…
 DM: …bullshit? So if you want to climb straight up, you can go straight up, but you can only move twenty.
 
 %% u2337 %%
-Kenzo: That's fine. I want to get some height. [[Like it might go down.]]
+Kenzo: That's fine. I want to get some height. {{Like it might go down.}}
 
 %% u2338 %%
 DM: Okay, so there's canyon walls on either side of you that you can climb up.
@@ -257,7 +257,7 @@ DM: That is too far for you to move in one turn.
 Kenzo: Okay, fine, over here.
 
 %% u2347 %%
-DM: Yeah, right there is good. That's about [[fifty]]—that's about twenty feet up.
+DM: Yeah, right there is good. That's about {{fifty}}—that's about twenty feet up.
 
 %% u2348 %%
 Kenzo: So I'm twenty feet up. How tall is this thing again?
@@ -299,7 +299,7 @@ Seeker: Basically, the same situation.
 Wellby: I think Wellby's headcanon is that if he hadn't woken up from the nap, things might have gone differently.
 
 %% u2362-u2364 %%
-Kenzo: Remember when we were in the keep, and Kenzo went scouting first? Kenzo stealthily looked in. [[Got it, got it back.]]
+Kenzo: Remember when we were in the keep, and Kenzo went scouting first? Kenzo stealthily looked in. {{Got it, got it back.}}
 
 %% u2365 %%
 Unknown: Anyways.
@@ -398,7 +398,7 @@ Kenzo: Don't worry, I'm going to fight it. I'm just trying to get…
 DM: Actually, right here, before he gets right next to you, the chain is swinging, and wham! It comes smashing down on…
 
 %% u2412 %%
-Unknown: [[Do.]]
+Unknown: {{Do.}}
 
 %% u2413-u2414 %%
 DM: …Wellby. Seventeen. What's your AC?
@@ -416,13 +416,13 @@ Wellby: I'm happy to do all of these things. It's just that by moving into initi
 Unknown: Ah.
 
 %% u2421 %%
-Kenzo: [[Ah, words.]]
+Kenzo: {{Ah, words.}}
 
 %% u2422-u2423 %%
 Wellby: If the party hadn't been there right now, this isn't what would have happened. I'm happy to be told no and take the…
 
 %% u2424 %%
-DM: [[Gamble, downside of you…]]
+DM: {{Gamble, downside of you…}}
 
 %% u2425-u2426 %%
 Wellby: Or we can extend the distance, so that this is the…
@@ -446,7 +446,7 @@ Seeker: Silver tongue. Oh.
 DM: As you're flat-out sprinting, the chain catches you, doing twelve points of damage. But it avoids your head, and you are not knocked unconscious by it. You manage to dodge out of the way, stumble slightly as it catches up to you, whams this chain down. But your momentum carries you far enough that it just catches your legs, and you stumble slightly without being knocked flat unconscious. So twelve.
 
 %% u2439-u2440 %%
-Kenzo: [[Judged.]] This is like [[metallic]], our version of impeachment-and-conviction-based accountability. You don't actually get convicted by the Senate, but [[live your…]]
+Kenzo: {{Judged.}} This is like {{metallic}}, our version of impeachment-and-conviction-based accountability. You don't actually get convicted by the Senate, but {{live your…}}
 
 %% u2441 %%
 DM: Seeker you're up.
@@ -509,7 +509,7 @@ Seeker: If I double Wellby in size, how big will he be?
 DM: He will be six feet tall.
 
 %% u2463 %%
-Delwath: [[Dodgeball.]]
+Delwath: {{Dodgeball.}}
 
 %% u2464 %%
 DM: You should double Delwath or Kenzo.
@@ -545,7 +545,7 @@ Seeker: He's got the chain. He's…
 DM: …not wearing metal armor, but you could heat the chain, for sure.
 
 %% u2475 %%
-Kenzo: [[That my boss must]]—he can hold on to the chain, in which case he has a hot, scalding chain to hit us with.
+Kenzo: {{That my boss must}}—he can hold on to the chain, in which case he has a hot, scalding chain to hit us with.
 
 %% u2476 %%
 Wellby: But then we make a fire chain.
@@ -575,7 +575,7 @@ DM: If you enlarge Kenzo, he has an extra 1d4 with every attack. Giant Kenzo is 
 Seeker: We're talking about this too much, and I just have to do something.
 
 %% u2490-u2492 %%
-DM: You have to do something. Yeah, or you could Heat Metal the chain. [[It's definitely the top.]]
+DM: You have to do something. Yeah, or you could Heat Metal the chain. {{It's definitely the top.}}
 
 %% u2493 %%
 Seeker: Right, where was I before? I'm going to undo my move here.
@@ -605,7 +605,7 @@ DM: The metal begins to sizzle. You can see his hands start to smoke, but he is 
 Seeker: Oh, I also want to do inspiration for Wellby, to make him believe that he is enormous and powerful. Okay, you yourself are a giant, Wellby.
 
 %% u2508 %%
-Wellby: [[Wellby, mate.]]
+Wellby: {{Wellby, mate.}}
 
 %% u2509-u2510 %%
 Seeker: That gets the living rune that orbits your head, and then you can make an exploding attack, or…
@@ -683,7 +683,7 @@ DM: Each of these squares is five feet.
 Kenzo: Far away.
 
 %% u2542 %%
-Seeker: [[That's the force.]]
+Seeker: {{That's the force.}}
 
 %% u2543 %%
 Delwath: The little ruler.
@@ -737,7 +737,7 @@ DM: After you, immediately after you.
 Delwath: Oh, okay, I see. It's that little ogre token. So Wellby's visible, right?
 
 %% u2566-u2567 %%
-DM: Yeah, Wellby's standing out from the [[pack defended]], having just shot an arrow at him.
+DM: Yeah, Wellby's standing out from the {{pack defended}}, having just shot an arrow at him.
 
 %% u2568-u2571 %%
 Delwath: Okay, I will move up. Well, hello, what's my speed? Thirty. That was four. You can ready an action, right?
@@ -806,10 +806,10 @@ Delwath: Yep.
 Seeker: Do I need to roll that, or…?
 
 %% u2616-u2617 %%
-DM: Yeah, so roll [[today]].
+DM: Yeah, so roll {{today}}.
 
 %% u2618-u2619 %%
-Seeker: Oh, nice. [[Living.]]
+Seeker: Oh, nice. {{Living.}}
 
 %% u2620 %%
 DM: Okay, so he takes eleven fire damage as he is grabbing this chain that's searing into his flesh.
@@ -878,7 +878,7 @@ Seeker: I'm.
 DM: So, sorry, it says—yeah, we should go discuss this later to figure it out. It says whenever it targets you with an attack.
 
 %% u2654-u2657 %%
-Seeker: [[Certain.]] Yep, so I drew in where I'm going to make my wall, at that choke point. Nice. I will also shout out to Kenzo, 'Get them to look up so they'll trip.'
+Seeker: {{Certain.}} Yep, so I drew in where I'm going to make my wall, at that choke point. Nice. I will also shout out to Kenzo, 'Get them to look up so they'll trip.'
 
 %% u2658 %%
 Kenzo: Kenzo nods, like, 'I'll do my best.'
@@ -905,7 +905,7 @@ DM: I'm having trouble with your…
 Unknown: Yeah.
 
 %% u2672-u2675 %%
-Delwath: [[I lost the shorts.]] Tim, I just think it breaks Mirror Image and makes it a crap spell if there's no way that the bad guy can't destroy a mirror image.
+Delwath: {{I lost the shorts.}} Tim, I just think it breaks Mirror Image and makes it a crap spell if there's no way that the bad guy can't destroy a mirror image.
 
 %% u2676 %%
 DM: Ah.
@@ -965,13 +965,13 @@ Kenzo: I go twenty feet over here. Now I'm within… Soulsight is a full action,
 DM: Soulsight is a full action, yes.
 
 %% u2704 %%
-Kenzo: I'll Soulsight this. [[Is this beautiful.]]
+Kenzo: I'll Soulsight this. {{Is this beautiful.}}
 
 %% u2705 %%
 Seeker: Right, and all, you're just checking their sincerity?
 
 %% u2706 %%
-Delwath: Yeah, why don't you—[[why card]]?
+Delwath: Yeah, why don't you—{{why card}}?
 
 %% u2707 %%
 Seeker: Oh, it's their hit points.
@@ -986,7 +986,7 @@ Kenzo: So I will, I guess, Soulsight the first one. Oh, actually, maybe I don't 
 DM: This is the wall. This is a five-foot-high barrier.
 
 %% u2713-u2715 %%
-Kenzo: Right, so I'll be over… [[You ever want to be super…]]
+Kenzo: Right, so I'll be over… {{You ever want to be super…}}
 
 %% u2716-u2717 %%
 Seeker: Right, think about their line of sight. You want them to be running full speed through there to try to get to us.
@@ -1004,7 +1004,7 @@ Wellby: Wellby will shout up, 'Oh, also watch out, because they have javelins.'
 Kenzo: Oh God. Yeah, they've got javelins. Throw your deadly missile weapons, daddy.
 
 %% u2723 %%
-Seeker: What, are you going to catch that? [[Routine is…]]
+Seeker: What, are you going to catch that? {{Routine is…}}
 
 %% u2724-u2725 %%
 Kenzo: Better, yeah. So I guess right here starts to—is the one in front the one with the javelin?
@@ -1082,13 +1082,13 @@ Kenzo: Why don't I get the chance to do the thing? Deflect Missiles.
 DM: Yep, so it does damage. Roll your—spend a ki, and then I forget, I think it's you roll…
 
 %% u2759-u2761 %%
-Kenzo: [[Use your…]] 'When you do so, the damage you take from the attack is reduced by 1d10.' Damage to zero and have a free hand…
+Kenzo: {{Use your…}} 'When you do so, the damage you take from the attack is reduced by 1d10.' Damage to zero and have a free hand…
 
 %% u2762 %%
 DM: So you need to roll at least a two on the 1d10 to reduce it to zero, and then you can make that attack against it.
 
 %% u2763-u2764 %%
-Kenzo: No. Brutal. [[Fish.]]
+Kenzo: No. Brutal. {{Fish.}}
 
 %% u2765-u2768 %%
 DM: So you don't spend any ki. You try and knock it back at them, but you only take one point of damage. You don't quite reduce it to nothing, and it just clatters on the side next to you. Now the second one—he's the one in back—the next one runs up here and also hurls a javelin at you.
@@ -1100,7 +1100,7 @@ Unknown: Good.
 DM: But you only get one reaction so you can't do anything about this one.
 
 %% u2771-u2772 %%
-Kenzo: Oh shit. [[Hey, I'm shorts]], we…
+Kenzo: Oh shit. {{Hey, I'm shorts}}, we…
 
 %% u2773 %%
 DM: Thirteen, which misses.
@@ -1118,7 +1118,7 @@ Kenzo: This would have been a situation where you're running full, and you shoot
 Delwath: One, two, three. Is this difficult terrain here?
 
 %% u2778-u2780 %%
-DM: [[When to]] the overhang?
+DM: {{When to}} the overhang?
 
 %% u2781 %%
 Unknown: 123456.
@@ -1145,7 +1145,7 @@ Seeker: Yeah well.
 Delwath: Then I won't go anywhere. I'll just stand here. I will use a bonus action to—neither of these guys is damaged, right? Neither one of them is damaged. I will curse this one, the one in front. Okay, then I will Eldritch Blast it.
 
 %% u2794-u2795 %%
-DM: Okay. [[Seven day, I have.]]
+DM: Okay. {{Seven day, I have.}}
 
 %% u2796 %%
 Delwath: And then I will.
@@ -1250,7 +1250,7 @@ DM: …two in a row.
 Seeker: Wow. Happens one in four hundred times.
 
 %% u2850 %%
-Kenzo: [[Are asked us.]]
+Kenzo: {{Are asked us.}}
 
 %% u2851 %%
 Unknown: Army.
@@ -1268,7 +1268,7 @@ Delwath: If you hover over it.
 DM: If you hover over it, you can see the first one is…
 
 %% u2856 %%
-Wellby: [[No me]]. Wow.
+Wellby: {{No me}}. Wow.
 
 %% u2857 %%
 Unknown: Yeah.
@@ -1277,7 +1277,7 @@ Unknown: Yeah.
 DM: It's set up so that any time you roll a d20, Beyond20 already knows about Halfling Luck.
 
 %% u2859-u2860 %%
-Wellby: [[Through this]], very disappointed in himself.
+Wellby: {{Through this}}, very disappointed in himself.
 
 %% u2861 %%
 Kenzo: Seriously, an army of halflings has to be…
@@ -1286,7 +1286,7 @@ Kenzo: Seriously, an army of halflings has to be…
 DM: Yeah, halfling rogues who can take careful aim and Sneak Attack. Yeah, definitely.
 
 %% u2863-u2865 %%
-Kenzo: I mean, it's literally, that would be like—[[asked me like]]—that paired with my people, high-level…
+Kenzo: I mean, it's literally, that would be like—{{asked me like}}—that paired with my people, high-level…
 
 %% u2866 %%
 DM: Kenzo, it's your turn as Wellby shakes his head, arrow clanging to the ground.
@@ -1328,7 +1328,7 @@ DM: Because you were standing up there yelling, 'Hey, look at me.'
 Seeker: What we should have done is timed it a little better, although with the way turn order works, I don't know if that would even be possible.
 
 %% u2879 %%
-Wellby: [[What's not that much to leap through.]]
+Wellby: {{What's not that much to leap through.}}
 
 %% u2880-u2882 %%
 Kenzo: I kind of want—like, do I have an advantage if I attack it, having posted up here?
@@ -1343,7 +1343,7 @@ Kenzo: But if I'm twenty feet up, I can smash it with my staff. I have a higher�
 Delwath: So wait, are we going to end up with a clever situation where you've trapped Delwath to not actually be able to engage them?
 
 %% u2888-u2889 %%
-DM: [[When building]], it traps Delwath.
+DM: {{When building}}, it traps Delwath.
 
 %% u2890 %%
 Unknown: Yeah.
@@ -1364,7 +1364,7 @@ Seeker: Hmm.
 Delwath: If you just jump on top of them right now, you're going to be by yourself.
 
 %% u2896-u2897 %%
-Kenzo: That's what I'm saying. That's why I don't want to jump down there. I wanted to stay up here and attack from up here, and [[I'm going to sit my stomach]] and throw javelins back. I'm going to attack, so I'm going to start at it here.
+Kenzo: That's what I'm saying. That's why I don't want to jump down there. I wanted to stay up here and attack from up here, and {{I'm going to sit my stomach}} and throw javelins back. I'm going to attack, so I'm going to start at it here.
 
 %% u2898-u2899 %%
 DM: Okay. That misses. It's…
@@ -1373,7 +1373,7 @@ DM: Okay. That misses. It's…
 Kenzo: I'm going to stay here.
 
 %% u2901-u2908 %%
-DM: Okay, so this one now will—[[fat out with you]]—it only has one more javelin anyway. It's going to run. Three, four. And I will give it—because they're big, he's just trying to charge through it. He's running through this dirt. The first one actually sees the wall and barrels straight through it, thinks that's just a pile of sand, doesn't realize how solid it is, and trips and falls, stopping his forward movement.
+DM: Okay, so this one now will—{{fat out with you}}—it only has one more javelin anyway. It's going to run. Three, four. And I will give it—because they're big, he's just trying to charge through it. He's running through this dirt. The first one actually sees the wall and barrels straight through it, thinks that's just a pile of sand, doesn't realize how solid it is, and trips and falls, stopping his forward movement.
 
 %% u2909 %%
 Kenzo: Nice and.
@@ -1394,7 +1394,7 @@ Seeker: And you've got the inspiration.
 DM: That you haven't.
 
 %% u2917 %%
-Kenzo: [[Raced on this one]], doesn't…?
+Kenzo: {{Raced on this one}}, doesn't…?
 
 %% u2918 %%
 Unknown: Know.
@@ -1403,7 +1403,7 @@ Unknown: Know.
 DM: Now you can spend the ki to make an attack roll.
 
 %% u2920-u2921 %%
-Kenzo: [[Up the idea]]. All right. So what kind of attack roll is…?
+Kenzo: {{Up the idea}}. All right. So what kind of attack roll is…?
 
 %% u2922-u2923 %%
 DM: Just unarmed strike. It counts as a strike.
@@ -1436,7 +1436,7 @@ DM: But his knockdown is blocking the path for this one to move forward, who wil
 Delwath: Does he have…?
 
 %% u2936 %%
-DM: …misses. Okay, [[you tend to javelins]].
+DM: …misses. Okay, {{you tend to javelins}}.
 
 %% u2937 %%
 Delwath: I was just going to say, does he have line of sight? I guess he does.
@@ -1457,7 +1457,7 @@ Delwath: Yeah, okay, so Green-Flame Blade—it says five feet of my target. It d
 DM: No.
 
 %% u2949-u2957 %%
-Delwath: All right, so green fire starts burning on Delwath's shadow blade, and I attack. What happened? Okay, an attack without rolling. Let me actually attack. Okay, [[class]]. Green-Flame does… I assume that hits.
+Delwath: All right, so green fire starts burning on Delwath's shadow blade, and I attack. What happened? Okay, an attack without rolling. Let me actually attack. Okay, {{class}}. Green-Flame does… I assume that hits.
 
 %% u2958 %%
 DM: Yeah, it's because Green-Flame—it doesn't do any damage to…
@@ -1523,13 +1523,13 @@ Seeker: Okay, so I cast my ringing explosion of Shatter, basically right there.
 DM: Okay, so they've both got to make Con saves, and they both fail miserably.
 
 %% u2993 %%
-Seeker: [[My soon.]]
+Seeker: {{My soon.}}
 
 %% u2994 %%
 DM: As this.
 
 %% u2995 %%
-Seeker: [[Enormous self]] has to fail saves. Okay.
+Seeker: {{Enormous self}} has to fail saves. Okay.
 
 %% u2996-u3003 %%
 DM: Now make a—well, you'll auto-beat that. I'm going to do a contested spellcasting ability, but I rolled only a four, so you're going to beat that no matter what because you have a plus four. So with the Shatter effect ringing out, you do see the canyon wall across here start to shift slightly, and the rocks begin to tumble down…
@@ -1610,7 +1610,7 @@ DM: Go behind it, so Delwath… Very…
 Unknown: Nice.
 
 %% u3040 %%
-Kenzo: Actually, so I'm going to do my first attack, [[something my blog]], like…
+Kenzo: Actually, so I'm going to do my first attack, {{something my blog}}, like…
 
 %% u3041-u3042 %%
 DM: Okay, I'll give you a choice. You can either have disadvantage, but do double damage if you hit, or have advantage but do normal…
@@ -1646,7 +1646,7 @@ DM: Okay. You still can make your unarmed attack.
 Unknown: Is.
 
 %% u3057 %%
-Kenzo: An attack, and that is [[marked]].
+Kenzo: An attack, and that is {{marked}}.
 
 %% u3058-u3060 %%
 DM: That also hits. Now it's its turn, and it's going to look around and see you standing behind it, angrily turn to face you, and take a greatclub and just swing it down on your head. What's your AC?
@@ -1712,7 +1712,7 @@ DM: Okay Wellby you're up.
 Seeker: Almost half? Oh my God, I'm glad I did that.
 
 %% u3093-u3095 %%
-Wellby: Wellby will move over. He's feeling emboldened by all this, up real close [[to a picture]].
+Wellby: Wellby will move over. He's feeling emboldened by all this, up real close {{to a picture}}.
 
 %% u3096 %%
 DM: Okay.
@@ -1760,7 +1760,7 @@ Seeker: Come on, take a third one.
 DM: That hits. Wellby is feeling…
 
 %% u3113 %%
-Unknown: [[For, for.]]
+Unknown: {{For, for.}}
 
 %% u3114-u3115 %%
 DM: Wellby is feeling overconfident, but fortunately Seeker's rune corrects. Not only does your arrow hit the ogre, but the rune flying along the arrow explodes, doing an extra five points of damage…

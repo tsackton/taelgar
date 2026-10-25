@@ -26,11 +26,11 @@
 [u0026 | 00:02:28.000-00:02:31.730 | Wellby] Not like evil crystal ball of like soul entrapment, or I don't know something.
 [u0027 | 00:02:31.730-00:02:35.790 | DM] I mean, nobody has tried to use it. So you know, it might have like.
 [u0028 | 00:02:35.920-00:02:41.370 | DM] you know, Apollyon's dead hands and flames burning whenever you try and look into it?
-[u0029 | 00:02:45.030-00:02:55.499 | DM] you know. Maybe it has some hidden features. It's probably not just a regular crystal ball, but from the point of view of an identify spell. It's [[a right]]
+[u0029 | 00:02:45.030-00:02:55.499 | DM] you know. Maybe it has some hidden features. It's probably not just a regular crystal ball, but from the point of view of an identify spell. It's {{a right}}
 [u0030 | 00:02:57.300-00:03:08.439 | DM] which isn't that useful? Because I mean, normally, you know, a crystal ball is very useful because you can cast scry as many times as you want, but you can already scry as many times as you want, so.
 [u0031 | 00:03:08.440-00:03:09.050 | Wellby] Day.
 [u0032 | 00:03:13.410-00:03:18.770 | Delwath] Is it crystal, crystal ball? like just as a scry focus or crystal ball as a magic item.
-[u0033 | 00:03:18.770-00:03:20.180 | DM] No, it's a magic [[get is a link]].
+[u0033 | 00:03:18.770-00:03:20.180 | DM] No, it's a magic {{get is a link}}.
 [u0034 | 00:03:20.180-00:03:20.550 | Delwath] Exactly.
 [u0035 | 00:03:20.600-00:03:24.120 | DM] It lets you cast scry an unlimited number of times.
 [u0036 | 00:03:24.120-00:03:24.770 | Delwath] Yeah.
@@ -65,7 +65,7 @@
 [u0065 | 00:06:49.980-00:06:52.729 | DM] putting out some feelers to purchase
 [u0066 | 00:06:53.820-00:07:00.579 | DM] some magic items useful for the eventual travel to the plane of fire. That Seeker has been asking for
 [u0067 | 00:07:03.580-00:07:07.840 | DM] There's not, like, you know, a magic item shop. So this is probably something when you're
-[u0068 | 00:07:08.110-00:07:12.290 | DM] presumably back in a week or so people would be [[eating]].
+[u0068 | 00:07:08.110-00:07:12.290 | DM] presumably back in a week or so people would be {{eating}}.
 [u0069 | 00:07:12.470-00:07:15.220 | DM] discuss. But you start putting out feelers.
 [u0070 | 00:07:17.914-00:07:21.959 | DM] And it is, you know, on the
 [u0071 | 00:07:22.890-00:07:34.460 | DM] evening tide, a couple days later that you set sail with Tiberius the windcaller, and
@@ -83,7 +83,7 @@
 [u0083 | 00:08:28.610-00:08:35.690 | Kenzo] you know, life is life be lifing my mom has been out of the hospital for what you know.
 [u0084 | 00:08:36.929-00:08:52.230 | Kenzo] Oh, out of the hospital, maybe like a little bit about a week and a half, maybe. But yeah, she's doing a lot better now. And you know, my mom wasn't really like walk was not, you know required, like 2 people moving around before she broke her hip. So but we had to like install.
 [u0085 | 00:08:52.230-00:08:52.810 | DM] Wait.
-[u0086 | 00:08:54.370-00:09:02.529 | DM] Okay. So we pick up as you sail to Vindristjarna on one of the [[navy up]].
+[u0086 | 00:08:54.370-00:09:02.529 | DM] Okay. So we pick up as you sail to Vindristjarna on one of the {{navy up}}.
 [u0087 | 00:09:02.650-00:09:04.469 | DM] And now we'll talk to Eric.
 [u0088 | 00:09:06.170-00:09:06.810 | Delwath] Hey, Eric.
 [u0089 | 00:09:06.810-00:09:07.470 | DM] Hi.
@@ -146,8 +146,8 @@
 [u0146 | 00:14:04.410-00:14:07.519 | Kenzo] Any results, to report insights.
 [u0147 | 00:14:09.350-00:14:23.719 | Seeker] We've discovered several distinct formations of pressure, sealed, globular, magically suspended ice formations that do not
 [u0148 | 00:14:24.424-00:14:25.920 | Seeker] support their own weight.
-[u0149 | 00:14:27.790-00:14:33.240 | DM] There is one out there that does [[Baldrick Johnson]]. We will find out.
-[u0150 | 00:14:35.080-00:14:36.790 | Kenzo] Wait, [[neither collapsing]].
+[u0149 | 00:14:27.790-00:14:33.240 | DM] There is one out there that does {{Baldrick Johnson}}. We will find out.
+[u0150 | 00:14:35.080-00:14:36.790 | Kenzo] Wait, {{neither collapsing}}.
 [u0151 | 00:14:39.550-00:14:42.099 | Kenzo] Sorry, am I in the ocean now or.
 [u0152 | 00:14:42.490-00:14:44.469 | DM] No, they're floating like icebergs.
 [u0153 | 00:14:44.870-00:14:45.350 | Kenzo] Okay.
@@ -172,7 +172,7 @@
 [u0172 | 00:15:54.640-00:15:56.490 | Kenzo] No really worried about the death ray.
 [u0173 | 00:15:58.160-00:16:00.900 | Seeker] And our concern is how we'll mount it on the ship. But.
 [u0174 | 00:16:03.110-00:16:03.785 | DM] Oh,
-[u0175 | 00:16:06.520-00:16:14.200 | DM] Faldrak looks curious [[that as long as you can]].
+[u0175 | 00:16:06.520-00:16:14.200 | DM] Faldrak looks curious {{that as long as you can}}.
 [u0176 | 00:16:14.580-00:16:18.080 | DM] let's not get too close Seeker
 [u0177 | 00:16:18.540-00:16:21.100 | DM] like maybe we can do research from afar.
 [u0178 | 00:16:28.220-00:16:30.079 | DM] Where are we going? By the way.
@@ -242,7 +242,7 @@
 [u0242 | 00:22:54.080-00:22:56.119 | Wellby] Beneath the Thundercrown.
 [u0243 | 00:22:56.720-00:23:02.300 | Seeker] Concentrates the the highest concentration of the chalyte is near the ridge.
 [u0244 | 00:23:02.530-00:23:09.389 | DM] No, it's the it was in the caves beneath the
-[u0245 | 00:23:10.914-00:23:33.399 | DM] I took. I took a draft and I gave it to Chatgpt. And I said, make this sound like a sort of medieval arcane geologer. And it actually did a really nice job taking my draft into arcane Arcane geology. The [[R. Grasilian]] galleries beneath the large outcropping the locals call Thundercrown, supposed to be like
+[u0245 | 00:23:10.914-00:23:33.399 | DM] I took. I took a draft and I gave it to Chatgpt. And I said, make this sound like a sort of medieval arcane geologer. And it actually did a really nice job taking my draft into arcane Arcane geology. The {{R. Grasilian}} galleries beneath the large outcropping the locals call Thundercrown, supposed to be like
 [u0246 | 00:23:33.720-00:23:35.660 | DM] caves underneath Thundercrown.
 [u0247 | 00:23:38.250-00:23:44.170 | Wellby] So does that suggest like another way in that does not involve going past a death ray cuddle beam.
 [u0248 | 00:23:44.170-00:23:47.090 | Delwath] The density of these inclusions increases with.
@@ -264,9 +264,9 @@
 [u0264 | 00:24:58.240-00:25:00.149 | Delwath] Do we have any trophy room person? Other.
 [u0265 | 00:25:00.150-00:25:00.800 | DM] Yeah.
 [u0266 | 00:25:00.800-00:25:01.720 | Delwath] Kenzo.
-[u0267 | 00:25:01.720-00:25:03.050 | DM] Kenzo, or [[Omo]].
-[u0268 | 00:25:03.050-00:25:03.740 | Delwath] [[Ammo]].
-[u0269 | 00:25:04.210-00:25:10.859 | Delwath] Oh, yeah, because it's called the Hall of Stories. Okay? The. I think we should have [[Amel]] Research Stone Giants in general
+[u0267 | 00:25:01.720-00:25:03.050 | DM] Kenzo, or {{Omo}}.
+[u0268 | 00:25:03.050-00:25:03.740 | Delwath] {{Ammo}}.
+[u0269 | 00:25:04.210-00:25:10.859 | Delwath] Oh, yeah, because it's called the Hall of Stories. Okay? The. I think we should have {{Amel}} Research Stone Giants in general
 [u0270 | 00:25:11.460-00:25:12.130 | Delwath] from the in the.
 [u0271 | 00:25:12.130-00:25:12.570 | DM] Okay.
 [u0272 | 00:25:12.570-00:25:15.370 | Delwath] Hall of Stories, and then I think we should have
@@ -631,7 +631,7 @@
 [u0631 | 00:54:10.420-00:54:13.519 | DM] Well, augury is only something you're doing in the next 30 min.
 [u0632 | 00:54:13.520-00:54:14.110 | Delwath] Ow.
 [u0633 | 00:54:15.260-00:54:20.109 | Kenzo] What I thought I had some yes or no questions that are more like.
-[u0634 | 00:54:20.290-00:54:24.069 | Delwath] Well, that's that was can contact other plane. I can. I can ask [[botanji]].
+[u0634 | 00:54:20.290-00:54:24.069 | Delwath] Well, that's that was can contact other plane. I can. I can ask {{botanji}}.
 [u0635 | 00:54:26.210-00:54:27.200 | Delwath] That's fine.
 [u0636 | 00:54:27.200-00:54:31.549 | DM] That's but that doesn't. That's not divination. It doesn't give you information about the future.
 [u0637 | 00:54:31.890-00:54:32.420 | Delwath] Right.
@@ -647,7 +647,7 @@
 [u0647 | 00:54:58.240-00:55:09.560 | DM] The point is, you can't use it to get information so far in advance that you can then make plans based on that information. It's more of a like we're here now. Is this a bad idea?
 [u0648 | 00:55:10.680-00:55:14.230 | Kenzo] And and what was but but the Contact Other Plane? We can ask more along.
 [u0649 | 00:55:14.230-00:55:15.140 | Delwath] That's yes.
-[u0650 | 00:55:15.140-00:55:19.839 | DM] You can ask 5 yes or no questions, but but they [[the time. She]] cannot see the future.
+[u0650 | 00:55:15.140-00:55:19.839 | DM] You can ask 5 yes or no questions, but but they {{the time. She}} cannot see the future.
 [u0651 | 00:55:20.050-00:55:23.119 | DM] So you can't ask about something that's going to happen.
 [u0652 | 00:55:26.340-00:55:31.359 | Wellby] Who, we could ask like, is it is it reasonable to
 [u0653 | 00:55:31.640-00:55:38.269 | Wellby] kill the giant without disabling the death ray like? Is that a question about the future.
@@ -660,7 +660,7 @@
 [u0660 | 00:56:02.980-00:56:08.279 | DM] I know that you're all like more powerful and smarter than me.
 [u0661 | 00:56:08.790-00:56:15.030 | DM] But when has it ever made sense to go into battle with a death ray hanging above you.
 [u0662 | 00:56:16.910-00:56:17.600 | Kenzo] So you're.
-[u0663 | 00:56:17.600-00:56:21.663 | DM] Why are we trying to not destroy [[about this for a minute]]?
+[u0663 | 00:56:17.600-00:56:21.663 | DM] Why are we trying to not destroy {{about this for a minute}}?
 [u0664 | 00:56:23.160-00:56:27.719 | Wellby] Because it would be simpler if we didn't have to. But it sounds like we have to.
 [u0665 | 00:56:27.720-00:56:30.710 | DM] But but it's a that.
 [u0666 | 00:56:33.090-00:56:41.250 | Delwath] What's wrong with the plan of starting a revolution amongst the giants and having them break free from their entrapment with the death ray. So it doesn't have any power anymore.
@@ -1197,7 +1197,7 @@
 [u1197 | 01:40:48.970-01:40:49.560 | Kenzo] Yeah.
 [u1198 | 01:40:49.740-01:40:51.910 | Delwath] Right. I can cast suggestion.
 [u1199 | 01:40:52.600-01:40:53.140 | Kenzo] Right.
-[u1200 | 01:40:53.980-01:40:57.060 | Delwath] Not gonna [[fail]]. A DC 20. Wisdom save.
+[u1200 | 01:40:53.980-01:40:57.060 | Delwath] Not gonna {{fail}}. A DC 20. Wisdom save.
 [u1201 | 01:40:57.370-01:40:57.840 | Kenzo] Yeah.
 [u1202 | 01:40:57.840-01:41:02.599 | DM] Literally impossible for them to succeed with their minus 2 wisdom modifier.
 [u1203 | 01:41:03.340-01:41:03.950 | Delwath] And.
@@ -1298,7 +1298,7 @@
 [u1298 | 01:48:44.580-01:48:47.089 | Kenzo] Do we have like identify? Can we? Can we identify the thing.
 [u1299 | 01:48:47.710-01:48:49.989 | DM] You have to touch things to identify them.
 [u1300 | 01:48:51.730-01:48:54.129 | Kenzo] What if we touch them with our good intentions?
-[u1301 | 01:48:55.080-01:48:57.859 | Delwath] Yeah, 1 min. It's 1 min. [[It doesn't work]].
+[u1301 | 01:48:55.080-01:48:57.859 | Delwath] Yeah, 1 min. It's 1 min. {{It doesn't work}}.
 [u1302 | 01:48:58.332-01:49:02.110 | DM] There is divination, magic coming from this gemstone.
 [u1303 | 01:49:02.110-01:49:03.759 | Delwath] How far away is the gemstone.
 [u1304 | 01:49:04.670-01:49:07.170 | DM] Well, presumably 30 feet. If you.
@@ -1499,7 +1499,7 @@
 [u1499 | 02:05:00.910-02:05:05.069 | Kenzo] Well, you're hidden behind. You're hidden in between a wall and a rock. You can't see any.
 [u1500 | 02:05:05.070-02:05:09.639 | Kenzo] I know, but like, were we able to like see out like into.
 [u1501 | 02:05:09.640-02:05:13.640 | DM] You'd be looking sort of towards the rim of the giant pit with the
-[u1502 | 02:05:13.950-02:05:21.709 | DM] lightning [[statue]] above it, and then the sort of giant village extends in a circle around the pit, and you're on the edge of the village.
+[u1502 | 02:05:13.950-02:05:21.709 | DM] lightning {{statue}} above it, and then the sort of giant village extends in a circle around the pit, and you're on the edge of the village.
 [u1503 | 02:05:21.710-02:05:24.019 | Kenzo] Can we see any any giants right now.
 [u1504 | 02:05:24.350-02:05:25.660 | DM] Yeah, they're well.
 [u1505 | 02:05:26.560-02:05:31.460 | DM] I mean again, not from where you are. But there's presumably some around like the vulture saw.
@@ -1953,7 +1953,7 @@
 [u1953 | 02:35:58.810-02:36:05.149 | DM] I can't quite figure out if you're asking them to ally with you and fight, or for information, or both.
 [u1954 | 02:36:05.360-02:36:06.059 | Kenzo] Both ideally.
 [u1955 | 02:36:06.060-02:36:10.110 | Delwath] I think we're we're we're saying that.
-[u1956 | 02:36:11.700-02:36:16.029 | DM] He's clearly warmed up to you, but he's not necessarily [[like a bad]].
+[u1956 | 02:36:11.700-02:36:16.029 | DM] He's clearly warmed up to you, but he's not necessarily {{like a bad}}.
 [u1957 | 02:36:16.030-02:36:17.460 | DM] I kind of like jump into.
 [u1958 | 02:36:17.460-02:36:18.349 | Kenzo] Okay, so.
 [u1959 | 02:36:18.350-02:36:20.269 | Delwath] No. No. Okay, so.
@@ -2024,7 +2024,7 @@
 [u2024 | 02:42:04.360-02:42:10.359 | DM] he can target you anywhere within a day's walk.
 [u2025 | 02:42:14.850-02:42:15.610 | Wellby] Oh!
 [u2026 | 02:42:18.010-02:42:22.790 | DM] My brother Snuck out at night many years ago.
-[u2027 | 02:42:25.940-02:42:31.540 | DM] after a sculpture carved into the side of the mountain he had worked, [[was getting mad]]
+[u2027 | 02:42:25.940-02:42:31.540 | DM] after a sculpture carved into the side of the mountain he had worked, {{was getting mad}}
 [u2028 | 02:42:32.290-02:42:38.100 | DM] for a hundred years to produce, was carelessly smashed to power. That thing that
 [u2029 | 02:42:43.860-02:42:48.830 | DM] but 2 days later they carried his ashes back, must have gotten
 [u2030 | 02:42:49.190-02:42:52.510 | DM] 15 miles away. In the night at least.
@@ -2061,7 +2061,7 @@
 [u2061 | 02:44:53.150-02:44:54.429 | DM] He looks up.
 [u2062 | 02:44:54.430-02:44:56.520 | Kenzo] Can you make a penny roll in arcana, or something like that?
 [u2063 | 02:44:56.520-02:44:58.710 | Wellby] Why would we want to destroy it? Says.
-[u2064 | 02:44:58.710-02:45:07.909 | DM] Yeah, exactly. Why wait what you're suggesting? No, he means like, if you're actually looking at the [[back]] Seeker will be able to figure out so he can see how it's put together.
+[u2064 | 02:44:58.710-02:45:07.909 | DM] Yeah, exactly. Why wait what you're suggesting? No, he means like, if you're actually looking at the {{back}} Seeker will be able to figure out so he can see how it's put together.
 [u2065 | 02:45:08.650-02:45:12.309 | Delwath] Wait. Hold on, but we can also carry stuff on the Rainbow Bridge right.
 [u2066 | 02:45:13.060-02:45:13.670 | DM] Yeah.
 [u2067 | 02:45:13.670-02:45:15.190 | Delwath] Wait. Why are we stealing it?
@@ -2075,7 +2075,7 @@
 [u2075 | 02:45:40.530-02:45:44.039 | DM] Tower that seems to be the crucial, and the tower itself is
 [u2076 | 02:45:44.220-02:45:46.060 | DM] like the size of Vindristjarna.
 [u2077 | 02:45:46.060-02:45:47.240 | Kenzo] Yeah, so what's the.
-[u2078 | 02:45:47.240-02:45:48.379 | DM] Bigger than [[Peterson]].
+[u2078 | 02:45:47.240-02:45:48.379 | DM] Bigger than {{Peterson}}.
 [u2079 | 02:45:48.380-02:45:49.660 | Kenzo] How do we think this thing works?
 [u2080 | 02:45:50.840-02:46:05.470 | DM] Chalyte in the mountain sends these bolts of purple lightning to the tower, which both holds it suspended, and then forms this core that runs down to the center of the tower to some kind of focusing ray, and you don't know what the thing at the bottom is, because you haven't seen it.
 [u2081 | 02:46:05.770-02:46:09.640 | DM] But the giant is suggesting it. He just somehow yeah.

@@ -38,7 +38,7 @@ DM: As long as they're attacking other orcs and not Dunmari, no, not particularl
 DM: But beyond the next week, he's not planning on spending his entire time tramping around the desert or camped here. He's going to wait another week and then return, but leave patrols in Bas Udda, leave guards in Bas Udda, and aim to set up a system of regular patrols, probably as far east as this canyon area. So that's his take. If there's any conversation you want to have with him, happy to roleplay that.
 
 %% u1291-u1292 %%
-Kenzo: Where do we go from here? [[He wants to go...]]
+Kenzo: Where do we go from here? {{He wants to go...}}
 
 %% u1293 %%
 DM: Here, yeah.
@@ -56,7 +56,7 @@ Wellby: I think we should go south to the monastery first. That lets us skirt th
 Kenzo: Let's recap. What do we know about the monastery?
 
 %% u1300-u1301 %%
-Seeker: Well, this is the place that an attempt was made thirty years ago to [[something something, blade of she might]].
+Seeker: Well, this is the place that an attempt was made thirty years ago to {{something something, blade of she might}}.
 
 %% u1302 %%
 DM: Not necessarily at this monastery, but it's associated with the group of monks who made that attempt.
@@ -89,7 +89,7 @@ Delwath: No. I think we should not go into the other planes just yet.
 Unknown: Yeah.
 
 %% u1319 %%
-Seeker: [[There's me, right?]]
+Seeker: {{There's me, right?}}
 
 %% u1320 %%
 Unknown: Where?
@@ -98,7 +98,7 @@ Unknown: Where?
 Delwath: There were no signs of other orcs, right? Basically, was the...
 
 %% u1322 %%
-Seeker: [[Towers again, those are fitness scouts.]]
+Seeker: {{Towers again, those are fitness scouts.}}
 
 %% u1323-u1325 %%
 Delwath: So we're going to try and find—so that suggests the Uzgash are either further east, or...
@@ -194,13 +194,13 @@ Delwath: I would go quickly.
 Seeker: We can pause a mile outside of the monastery and have a look also.
 
 %% u1383-u1384 %%
-Kenzo: Yes. [[Are many there are...]]
+Kenzo: Yes. {{Are many there are...}}
 
 %% u1385 %%
 DM: Plenty of scouting you can do, yeah.
 
 %% u1386-u1389 %%
-Kenzo: There should be, because we have no idea what is there, right? Just as we're traveling there, what we'd like to see there—[[do we are there is]]—or should we, once we get closer, be a little bit more stealthy about how we head into the city or head to the monastery?
+Kenzo: There should be, because we have no idea what is there, right? Just as we're traveling there, what we'd like to see there—{{do we are there is}}—or should we, once we get closer, be a little bit more stealthy about how we head into the city or head to the monastery?
 
 %% u1390 %%
 Wellby: I think so, because it's not impossible that we may have to swing widely around the city and come up from the south.
@@ -215,7 +215,7 @@ Wellby: Maybe travel fast the first couple of days, and then, yeah, okay.
 Delwath: Very cool.
 
 %% u1394-u1396 %%
-DM: Yeah, so you cover maybe sixty miles [[between the rest of the]]... Leaving after the hottest part of the day, so getting in three, four hours of travel into the night here. Saying farewell to Havdar. He'll be here for another week, so if you are back, he'd be happy to travel west with you. If not, he expects to see you back in Kharsan.
+DM: Yeah, so you cover maybe sixty miles {{between the rest of the}}... Leaving after the hottest part of the day, so getting in three, four hours of travel into the night here. Saying farewell to Havdar. He'll be here for another week, so if you are back, he'd be happy to travel west with you. If not, he expects to see you back in Kharsan.
 
 %% u1397 %%
 Kenzo: Back in Karawa.
@@ -227,7 +227,7 @@ DM: Sorry, back in Karawa, yeah. Aram gives you Aagir's blessing as you leave, a
 DM: Right here is basically the northern edge of the really barren, sandy desert, as opposed to these canyonlands where there's still some water and scrub and things. I actually...
 
 %% u1404-u1407 %%
-Delwath: Should we go—I mean, we could go really wide and actually go significantly south, and then come back to the monastery, because that would also let us scout around the southern river. The monastery's right here, right? It's right there where that little [[bodice]]...
+Delwath: Should we go—I mean, we could go really wide and actually go significantly south, and then come back to the monastery, because that would also let us scout around the southern river. The monastery's right here, right? It's right there where that little {{bodice}}...
 
 %% u1408 %%
 DM: Yeah, it's based—I mean...
@@ -284,7 +284,7 @@ Kenzo: I'm also very careful that as we get closer to Kharsan, there may be an i
 Delwath: I also want to keep an eye out for signs of water, like trees on the horizon or things like that, that would suggest that maybe there's water somewhere right here.
 
 %% u1435 %%
-Seeker: Okay, and then [[looking on the ones]].
+Seeker: Okay, and then {{looking on the ones}}.
 
 %% u1436 %%
 Wellby: And Tim, can I finish training Baxter in these last few days, before we start sneaking?
@@ -302,13 +302,13 @@ DM: Yeah, you can train him to improve. Right now he's pretty skittish in combat
 Wellby: But the next thing for him is comfortable shooting from while mounted.
 
 %% u1444 %%
-Seeker: Okay, so just [[let it]] flaming arrows.
+Seeker: Okay, so just {{let it}} flaming arrows.
 
 %% u1445 %%
 DM: Right, get him used to fire.
 
 %% u1446 %%
-Unknown: [[Playing.]]
+Unknown: {{Playing.}}
 
 %% u1447 %%
 DM: Yeah, I would say at the moment you'd have a chance of spooking him if you tried to shoot, but you could certainly try. But yes, you can continue to train him to get better at that.
@@ -356,7 +356,7 @@ DM: So you spend the afternoon that you leave camp and then the next two days tr
 DM: The terrain is the same sort of canyonlands. There's the occasional small spring you can refill your water at, scrub, dry and hot. All the vegetation is pretty much dead. A lot of the springs are dried up. Very little animal life, mostly just vultures and the occasional desert hawk soaring high in the sky. Every now and then you'll see the dried, bleached bones of a large lizard or something like that. But you're now coming in May to the hottest, driest part of the year before the summer thunderstorms arrive, and so everything is brown and dormant.
 
 %% u1477-u1478 %%
-DM: So after traveling nearly sixty miles, [[kind of scoop session with that]]—actually, we don't really need that [[please square because the exodus there]], but... So after traveling...
+DM: So after traveling nearly sixty miles, {{kind of scoop session with that}}—actually, we don't really need that {{please square because the exodus there}}, but... So after traveling...
 
 %% u1479 %%
 Unknown: Come on.
@@ -383,7 +383,7 @@ Wellby: Yes, he...
 Kenzo: Sees all.
 
 %% u1505-u1507 %%
-Wellby: Wellby without his hat, really, it's just thrown [[sizes is]]. Not good.
+Wellby: Wellby without his hat, really, it's just thrown {{sizes is}}. Not good.
 
 %% u1508-u1514 %%
 DM: So it's late in the day as you reach the river. The western side seems to be higher than the eastern side, and you come up on the banks of this dry riverbed, looking around north, south. As the sun is beginning to get low in the sky and the heat of the day is beginning to pass, the haze clears a little bit, and you do see far to the south what seems like it could be trees. Just that little patch of something, something dark that's not...
@@ -446,7 +446,7 @@ Seeker: Let's stick to the plan to...
 Wellby: Continue to the monastery, yeah.
 
 %% u1563-u1564 %%
-Delwath: I think that's a [[lot of start]].
+Delwath: I think that's a {{lot of start}}.
 
 %% u1565 %%
 DM: Okay.

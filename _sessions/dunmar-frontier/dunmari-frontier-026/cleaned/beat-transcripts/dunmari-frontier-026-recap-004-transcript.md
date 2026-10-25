@@ -113,7 +113,7 @@ Drikod: Yeah, same.
 DM: Well, just roll in the...
 
 %% u1236 %%
-Delwath: [[Ball how that]].
+Delwath: {{Ball how that}}.
 
 %% u1237-u1238 %%
 DM: Just go grab a d20. Okay, there you go.
@@ -251,7 +251,7 @@ Kenzo: Now, I do remember that there's a story about, after the Great War, a fir
 Delwath: Do we know when Kharsan was destroyed? We don't have a specific date, right?
 
 %% u1318-u1320 %%
-DM: You know it was after the Great War, but shortly. It couldn't have been very long after the Great War because [[within an invite it]]. Conceivably could have been the same fire giant.
+DM: You know it was after the Great War, but shortly. It couldn't have been very long after the Great War because {{within an invite it}}. Conceivably could have been the same fire giant.
 
 %% u1321 %%
 Seeker: Isn't there a connection between fire giants and magic and the dwarves?
@@ -476,7 +476,7 @@ DM: Tharandros.
 Delwath: Tharandros.
 
 %% u1434 %%
-Drikod: [[The second car]], yeah.
+Drikod: {{The second car}}, yeah.
 
 %% u1435 %%
 Unknown: Yeah.
@@ -671,7 +671,7 @@ Kenzo: Jumping parkour. Parkour, jumping up.
 DM: Yeah, there's enough handholds and things. Make an Acrobatics check. Yes, with advantage because of your ring of jumping.
 
 %% u1527-u1528 %%
-Kenzo: The one skill that I actually have a plus seven at that I don't use enough. I'm going to do fighting. I rolled twenty-five, or higher—[[ticket seven twenty-five]].
+Kenzo: The one skill that I actually have a plus seven at that I don't use enough. I'm going to do fighting. I rolled twenty-five, or higher—{{ticket seven twenty-five}}.
 
 %% u1529-u1532 %%
 DM: Yeah, you're not quite good enough to run up straight walls. You'll get that power later. But when there's footholds, ledges and cliffs and things, and you can jump pretty far, especially with your ring, you can make it up in three or four big bounds, maybe a few more than that. But yeah, okay, looks pretty impressive.

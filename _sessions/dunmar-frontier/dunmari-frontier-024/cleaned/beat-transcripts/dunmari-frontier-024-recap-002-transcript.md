@@ -32,7 +32,7 @@ Unknown: Die, so perhaps—
 Seeker: Trapped here. Is there any other hypothesis anyone would like to offer?
 
 %% u0410 %%
-Kenzo: What kind of undead attacked here, [[for the guy that said]]?
+Kenzo: What kind of undead attacked here, {{for the guy that said}}?
 
 %% u0411 %%
 Seeker: That was what we saw in the stories, yeah.
@@ -98,10 +98,10 @@ Delwath: So we can see back to the altar and the wall, not all the way out.
 Wellby: Can I put myself in that entry chapel so that I can see where they are in the main room, but also see the door? Yep, I think I'm gonna post myself.
 
 %% u0449 %%
-Seeker: [[Oh, oh God there, yeah.]]
+Seeker: {{Oh, oh God there, yeah.}}
 
 %% u0450 %%
-Delwath: All right, [[well guess what the cat is out turn invisible]].
+Delwath: All right, {{well guess what the cat is out turn invisible}}.
 
 %% u0451 %%
 DM: Okay.
@@ -125,7 +125,7 @@ Delwath: But he's going around the corner. I want to be able to see where he's g
 DM: Okay. So, Kenzo, make a Stealth check.
 
 %% u0462-u0463 %%
-Kenzo: Ha ha. No, but I'm invisible, [[that all]].
+Kenzo: Ha ha. No, but I'm invisible, {{that all}}.
 
 %% u0464-u0466 %%
 DM: Right, you're invisible, just not super quiet. And make a Perception check.
@@ -179,7 +179,7 @@ Unknown: I'm.
 DM: Sort of in this direction, probably in the patch of darkness ahead of you, in between, or maybe a little bit further on.
 
 %% u0499 %%
-Kenzo: [[Imagining us.]]
+Kenzo: {{Imagining us.}}
 
 %% u0500-u0501 %%
 Delwath: Was there an archway in front of the alcove that Kenzo went through? I thought it was to the left.
@@ -218,7 +218,7 @@ Unknown: Like—
 DM: A patch of darker darkness kind of move for a moment, just out of the corner of your eye. You're not entirely sure.
 
 %% u0526-u0527 %%
-Kenzo: Kenzo... This is to the right? [[There’s a lot, yeah.]]
+Kenzo: Kenzo... This is to the right? {{There’s a lot, yeah.}}
 
 %% u0528 %%
 DM: You at the moment haven't seen any, Kenzo, but this is to the right, but—
@@ -278,7 +278,7 @@ Kenzo: A little bit, to see if I can see—I'm trying to see what the fuck this 
 DM: As you turn down the hallway and slowly head into the shadowy area, keeping your eyes peeled, moving as quietly as you can—although with nervousness and tiredness from your recent death, plus the sand and other bits of debris on the floor, you're not being particularly quiet. Make another Perception check.
 
 %% u0559-u0561 %%
-Kenzo: All right, [[moving to start running soon]]. You keep reminding me that I just died. Yeah, why do you do that? Ha ha.
+Kenzo: All right, {{moving to start running soon}}. You keep reminding me that I just died. Yeah, why do you do that? Ha ha.
 
 %% u0562 %%
 DM: With disadvantage because it's dark.
@@ -308,7 +308,7 @@ Kenzo: All right, can I try Soul Sight on the shadow?
 DM: Sure.
 
 %% u0580 %%
-Kenzo: I will [[send the shadow]].
+Kenzo: I will {{send the shadow}}.
 
 %% u0581-u0582 %%
 DM: So, um...
@@ -425,10 +425,10 @@ DM: Okay.
 Delwath: And you're back—
 
 %% u0638 %%
-DM: [[To China and Hong.]]
+DM: {{To China and Hong.}}
 
 %% u0639 %%
-Delwath: [[Paul can thank]]—keep an eye on it.
+Delwath: {{Paul can thank}}—keep an eye on it.
 
 %% u0640-u0641 %%
 Kenzo: I'm still invisible, but I want to move into a place where there's more light, okay? I'm watching it, because it has to pass through light at some point if it wants to follow me, right?
@@ -479,7 +479,7 @@ DM: Well, it seems to have stopped at the edge of the sunlight and kind of like 
 Kenzo: How many more minutes do we have before the sun goes down?
 
 %% u0672 %%
-DM: Hmm, [[can]].
+DM: Hmm, {{can}}.
 
 %% u0673 %%
 Kenzo: Great, yeah. I'll walk forward a little bit more with the drift globe, getting closer to it, and see if it reacts in any way to the drift globe.
@@ -491,25 +491,25 @@ DM: It retreats.
 Kenzo: Okay. So I kind of walk to, I guess, where—I don't know where Delwath is exactly, but I am walking forward with the drift globe more. The shadow continues to retreat as I walk forward. Why are you guys gambling on my death?
 
 %% u0679 %%
-Seeker: [[Better to do.]]
+Seeker: {{Better to do.}}
 
 %% u0680 %%
 Table: DM: So you're holding the drift globe in front of you, but you're still invisible? Kenzo: Yeah, I'm walking forward, yeah.
 
 %% u0681-u0685 %%
-DM: So you see, then, Delwath, as the light from the drift globe—now, as soon as you step into the hallway with the drift globe, it extends like twenty feet in every direction, right? It immediately illuminates the hallway all the way down through this patch of darkness, and you see now, as the shadows are cast away, two more dark forms in the hallway. [[Great.]] And all of them now kind of faded up against the walls, looking basically like some sort of deformed shadows of people on the wall, just kind of eyeing this light.
+DM: So you see, then, Delwath, as the light from the drift globe—now, as soon as you step into the hallway with the drift globe, it extends like twenty feet in every direction, right? It immediately illuminates the hallway all the way down through this patch of darkness, and you see now, as the shadows are cast away, two more dark forms in the hallway. {{Great.}} And all of them now kind of faded up against the walls, looking basically like some sort of deformed shadows of people on the wall, just kind of eyeing this light.
 
 %% u0686 %%
 Kenzo: Kenzo whispers.
 
 %% u0687-u0689 %%
-Delwath: [[Now it makes, just like a very envoy, like very soft voice almost like sighs that you can tell them was around that really okay.]] Delwath will sort of whisper very softly, ‘I think yes.’
+Delwath: {{Now it makes, just like a very envoy, like very soft voice almost like sighs that you can tell them was around that really okay.}} Delwath will sort of whisper very softly, ‘I think yes.’
 
 %% u0690 %%
 Kenzo: All right, Kenzo starts backing away with the drift globe, still invisible, and backs into the main room, the main temple area. And wait, so Wellby and Seeker, you guys have your globes as well? Wellby has a drift globe.
 
 %% u0691-u0692 %%
-Wellby: I've got mine, but it's not [[right now]]. Okay.
+Wellby: I've got mine, but it's not {{right now}}. Okay.
 
 %% u0693 %%
 Unknown: Okay.
@@ -575,7 +575,7 @@ Seeker: It's been quite a day. I recall that the whole reason we killed that fam
 Kenzo: Let's go back to the horses, so—
 
 %% u0730 %%
-Seeker: [[We shouldn’t horses]], yeah.
+Seeker: {{We shouldn’t horses}}, yeah.
 
 %% u0731 %%
 Kenzo: We need a rest.
@@ -584,7 +584,7 @@ Kenzo: We need a rest.
 Unknown: Probably.
 
 %% u0733 %%
-DM: [[Tao.]]
+DM: {{Tao.}}
 
 %% u0734 %%
 Unknown: Seeker.
@@ -626,7 +626,7 @@ Table: Unknown: Oh, really? DM: Oh, Timeless Body.
 Kenzo: That's. wow.
 
 %% u0752-u0753 %%
-DM: So you might [[see is that wager]], or—
+DM: So you might {{see is that wager}}, or—
 
 %% u0754 %%
 Kenzo: Are there.
@@ -683,7 +683,7 @@ Seeker: So there was more beyond those three that you saw, at the very least bel
 Kenzo: Well yeah, I have to say, this is the most prudent avoidance of bloodshed that I've been seeing since I've been around you fools.
 
 %% u0794 %%
-Wellby: It's all [[in risk]].
+Wellby: It's all {{in risk}}.
 
 %% u0795 %%
 Kenzo: Wellby, are you okay?
@@ -704,7 +704,7 @@ Kenzo: I mean we did kill an undead demon.
 Wellby: Yeah that was pretty clear.
 
 %% u0807-u0809 %%
-Kenzo: I do remember you being the instigator of that particular engagement as well. I remember an arrow. [[It as often holds.]]
+Kenzo: I do remember you being the instigator of that particular engagement as well. I remember an arrow. {{It as often holds.}}
 
 %% u0810 %%
 Seeker: But we did sense that that temple of Bhishma was no longer consecrated to—
@@ -770,7 +770,7 @@ DM: Just out of curiosity, who is taking the—
 Unknown: First watch, and—
 
 %% u0836-u0838 %%
-DM: The first chunk and then go to sleep [[it]]. Yeah, 2 a.m., yeah, yeah. Okay.
+DM: The first chunk and then go to sleep {{it}}. Yeah, 2 a.m., yeah, yeah. Okay.
 
 %% u0839 %%
 Wellby: Wellby usually takes the last before dawn.
@@ -800,7 +800,7 @@ Seeker: Wow.
 DM: So.
 
 %% u0851 %%
-Kenzo: [[Well, that sound.]]
+Kenzo: {{Well, that sound.}}
 
 %% u0852 %%
 Seeker: My cat has entered play mode.
@@ -812,7 +812,7 @@ Kenzo: Which cat?
 Seeker: That's Silver.
 
 %% u0855 %%
-Wellby: Baxter sleeps just sitting down, sitting on his legs, but with his neck curled around, and Wellby snuggles up in the crook of Baxter’s neck. [[Thanks.]]
+Wellby: Baxter sleeps just sitting down, sitting on his legs, but with his neck curled around, and Wellby snuggles up in the crook of Baxter’s neck. {{Thanks.}}
 
 %% u0856 %%
 Kenzo: Very cute.
@@ -857,7 +857,7 @@ Delwath: As a scout.
 Kenzo: Seeker sees all.
 
 %% u0878 %%
-Seeker: Who's next on the watch list? [[Awake, I'm...]]
+Seeker: Who's next on the watch list? {{Awake, I'm...}}
 
 %% u0879 %%
 Unknown: Wellby.
@@ -866,7 +866,7 @@ Unknown: Wellby.
 Seeker: I give Wellby a gentle pat on the shoulder. ‘Hey. It’s all been quiet on my watch. But Delwath said he saw something, so keep your eyes open. I'm going back to sleep.’
 
 %% u0885-u0887 %%
-DM: Right, give me a Perception check, Wellby. [[As it were, well now.]]
+DM: Right, give me a Perception check, Wellby. {{As it were, well now.}}
 
 %% u0888 %%
 Seeker: So good at this.

@@ -50,9 +50,9 @@
 [u0050 | 00:03:05.350-00:03:11.439 | DM] The merf swims and takes and reaps, the merfolk gloats over the waves of the elemental sea.
 [u0051 | 00:03:11.520-00:03:13.780 | DM] the echoes of water eternal.
 [u0052 | 00:03:15.040-00:03:19.199 | DM] The merf commands, the jade resists, but is overwhelmed.
-[u0053 | 00:03:19.520-00:03:31.790 | DM] The merfolk [[is a merf]] at peace among kelp forests, singing to the jade, watching the light change to the vast undersea forests. The merf [[is a merfolk]] slaughtering. Taking the jade.
+[u0053 | 00:03:19.520-00:03:31.790 | DM] The merfolk {{is a merf}} at peace among kelp forests, singing to the jade, watching the light change to the vast undersea forests. The merf {{is a merfolk}} slaughtering. Taking the jade.
 [u0054 | 00:03:33.160-00:03:37.569 | DM] You also recall the story you learned from Thomas Hawke in in Tollen.
-[u0055 | 00:03:38.260-00:03:41.289 | DM] who you talk to at a [[parabola party]].
+[u0055 | 00:03:38.260-00:03:41.289 | DM] who you talk to at a {{parabola party}}.
 [u0056 | 00:03:41.370-00:03:45.599 | DM] and he told you the story he had heard from the West the inspiration
 [u0057 | 00:03:45.620-00:03:47.489 | DM] for one of his plays.
 [u0058 | 00:03:47.920-00:04:00.400 | DM] The play itself. Luminastra’s Gift is the story of a magic whale who rescues a sailor and takes him to a strange world beneath the ocean. But the inspiration supposedly was a real story
@@ -382,7 +382,7 @@
 [u0382 | 00:23:18.380-00:23:20.880 | DM] Possibly there's a you know, there's a
 [u0383 | 00:23:21.300-00:23:25.619 | DM] governor appointed by Chardon. But in a lot of cases these are
 [u0384 | 00:23:26.340-00:23:29.310 | DM] the more distant provinces are not. Really.
-[u0385 | 00:23:32.300-00:23:37.710 | DM] It's not like. They're directly under control of the [[turnover]]. Right? Like they're sort of.
+[u0385 | 00:23:32.300-00:23:37.710 | DM] It's not like. They're directly under control of the {{turnover}}. Right? Like they're sort of.
 [u0386 | 00:23:39.890-00:23:44.439 | DM] you know. They're in the Empire in the sense that, like, you know.
 [u0387 | 00:23:46.640-00:23:51.940 | DM] Britain was part of the Roman Empire, not so much in the sense that Italy was part of the
 [u0388 | 00:23:51.960-00:23:53.180 | DM] right.
@@ -391,7 +391,7 @@
 [u0391 | 00:24:02.990-00:24:05.269 | DM] only because there's not really like a
 [u0392 | 00:24:06.550-00:24:08.909 | DM] Imperial presence. To begin with.
 [u0393 | 00:24:09.570-00:24:13.369 | DM] probably a tax ship that comes 3 times a year or something.
-[u0394 | 00:24:14.380-00:24:20.280 | Kenzo] Alright. So I mean the likelihood we can find, like sympathetic people like [[Nick one charter]]. It's it's high.
+[u0394 | 00:24:14.380-00:24:20.280 | Kenzo] Alright. So I mean the likelihood we can find, like sympathetic people like {{Nick one charter}}. It's it's high.
 [u0395 | 00:24:20.890-00:24:22.339 | Kenzo] like as we get farther away.
 [u0396 | 00:24:22.580-00:24:24.470 | DM] I mean whether they.
 [u0397 | 00:24:24.770-00:24:28.120 | DM] what their attitudes towards Chardon are you don't know
@@ -467,7 +467,7 @@
 [u0467 | 00:27:44.549-00:27:52.790 | DM] There's a fort at the entrance to the canal. The canal. This northern end of the canal is basically a dredged channel through a massive
 [u0468 | 00:27:53.220-00:27:55.400 | DM] river delta. Salt marsh.
 [u0469 | 00:27:56.520-00:27:58.060 | DM] So it's
-[u0470 | 00:28:01.000-00:28:10.110 | DM] you know it's there's all these like little passageways that cut through the marsh, and then on an island, [[starting the entrance]] to the canal. There's this Chardonian fort.
+[u0470 | 00:28:01.000-00:28:10.110 | DM] you know it's there's all these like little passageways that cut through the marsh, and then on an island, {{starting the entrance}} to the canal. There's this Chardonian fort.
 [u0471 | 00:28:11.050-00:28:14.380 | DM] I presume you're steering away from
 [u0472 | 00:28:15.948-00:28:21.800 | DM] and there's some. You can see that there's ship traffic now sort of piling up to go into the canal. So.
 [u0473 | 00:28:21.970-00:28:22.650 | DM] Bada.
@@ -692,14 +692,14 @@
 [u0692 | 00:41:49.420-00:41:50.090 | DM] When you spare.
 [u0693 | 00:41:50.090-00:41:54.170 | Delwath] It's not that much fun to be focused around
 [u0694 | 00:41:54.800-00:41:58.460 | Delwath] interactions that I have to cast tongues every hour constantly
-[u0695 | 00:41:58.930-00:42:03.550 | Delwath] right. And you made me take [[shadow car]] which I've never once used in the entire game.
+[u0695 | 00:41:58.930-00:42:03.550 | Delwath] right. And you made me take {{shadow car}} which I've never once used in the entire game.
 [u0696 | 00:42:05.410-00:42:06.000 | DM] Listen.
 [u0697 | 00:42:06.000-00:42:07.619 | Delwath] And probably never will.
 [u0698 | 00:42:08.108-00:42:14.719 | Delwath] So I would argue, it's perfectly reasonable that Delwath would speak Chardonian I actually don't. I think
-[u0699 | 00:42:14.790-00:42:17.740 | Delwath] I actually don't think that I think Delwath would speak [[sugar]].
+[u0699 | 00:42:14.790-00:42:17.740 | Delwath] I actually don't think that I think Delwath would speak {{sugar}}.
 [u0700 | 00:42:18.170-00:42:18.920 | Delwath] He fought with.
 [u0701 | 00:42:18.920-00:42:19.290 | DM] From.
-[u0702 | 00:42:19.290-00:42:20.240 | Delwath] [[So needs]].
+[u0702 | 00:42:19.290-00:42:20.240 | Delwath] {{So needs}}.
 [u0703 | 00:42:20.410-00:42:21.740 | DM] Back in the day.
 [u0704 | 00:42:21.740-00:42:23.812 | Delwath] I've just lost them
 [u0705 | 00:42:25.170-00:42:26.790 | Delwath] now, but.
@@ -971,7 +971,7 @@
 [u0971 | 00:58:04.040-00:58:04.920 | Delwath] beach look
 [u0972 | 00:58:07.930-00:58:11.579 | Delwath] like a beach honestly. Just cast Hallucinatory Terrain to just make it look.
 [u0973 | 00:58:11.580-00:58:12.100 | DM] Like it's.
-[u0974 | 00:58:12.100-00:58:13.610 | Delwath] [[Deliberate]] right, but.
+[u0974 | 00:58:12.100-00:58:13.610 | Delwath] {{Deliberate}} right, but.
 [u0975 | 00:58:13.610-00:58:14.070 | DM] Right.
 [u0976 | 00:58:14.070-00:58:15.000 | Delwath] So hide us.
 [u0977 | 00:58:18.480-00:58:19.410 | Seeker] That's helpful.
@@ -1095,9 +1095,9 @@
 [u1095 | 01:04:46.470-01:04:49.489 | Seeker] Wait, wait! Wait! That's an issue. We don't have a ton of rubies.
 [u1096 | 01:04:49.760-01:04:53.130 | DM] I believe you, in fact, did get 3 rubies from.
 [u1097 | 01:04:54.450-01:04:55.140 | Riswynn] Speed.
-[u1098 | 01:04:55.140-01:04:56.180 | DM] [[Voter or vinegar]].
+[u1098 | 01:04:55.140-01:04:56.180 | DM] {{Voter or vinegar}}.
 [u1099 | 01:04:56.180-01:04:56.860 | Riswynn] 7, of.
-[u1100 | 01:04:56.860-01:04:58.200 | DM] [[Kevin]], yeah.
+[u1100 | 01:04:56.860-01:04:58.200 | DM] {{Kevin}}, yeah.
 [u1101 | 01:04:58.585-01:04:58.970 | Delwath] True.
 [u1102 | 01:04:59.300-01:05:01.769 | Seeker] So we'll grind that sure. Yeah, perfect.
 [u1103 | 01:05:02.780-01:05:04.849 | Delwath] I mean, I'm not against this plan. Do we actually.
@@ -1293,7 +1293,7 @@
 [u1293 | 01:16:07.420-01:16:08.110 | DM] Okay.
 [u1294 | 01:16:08.630-01:16:08.825 | Delwath] That.
 [u1295 | 01:16:09.020-01:16:11.759 | DM] Basically your buildings are, you can go to the
-[u1296 | 01:16:12.160-01:16:13.910 | DM] there's a [[mass, Numa temple]]
+[u1296 | 01:16:12.160-01:16:13.910 | DM] there's a {{mass, Numa temple}}
 [u1297 | 01:16:14.310-01:16:15.620 | DM] there's an inn.
 [u1298 | 01:16:16.180-01:16:18.659 | DM] There's like bothering the dock hands.
 [u1299 | 01:16:20.870-01:16:26.260 | DM] there's people's houses. There's like a main square that has like a little bit of a market.
@@ -1461,7 +1461,7 @@
 [u1461 | 01:26:09.000-01:26:09.550 | Riswynn] myself.
 [u1462 | 01:26:09.550-01:26:12.240 | DM] Or at least just rowing. If you're all just rowing.
 [u1463 | 01:26:14.180-01:26:16.429 | DM] you can travel 2 miles in about
-[u1464 | 01:26:16.830-01:26:17.320 | DM] [[for half]].
+[u1464 | 01:26:16.830-01:26:17.320 | DM] {{for half}}.
 [u1465 | 01:26:17.320-01:26:20.199 | Riswynn] Tell me whether I'm spending a second level spell slot or not.
 [u1466 | 01:26:20.730-01:26:23.449 | DM] I you could just row if you want right.
 [u1467 | 01:26:23.450-01:26:30.570 | Delwath] Did I see any sign of Chardonian legions? By the way, you said I saw them last night, but are they not around this morning or.
@@ -1509,7 +1509,7 @@
 [u1509 | 01:29:31.630-01:29:35.466 | Wellby] I’ll climb aboard, and like we’ll tie a little ship against theirs and
 [u1510 | 01:29:35.740-01:29:36.850 | DM] Yeah, yeah.
 [u1511 | 01:29:37.300-01:29:40.649 | DM] She gives you a little bow with her hat. She introduces herself.
-[u1512 | 01:29:40.970-01:29:43.429 | DM] [[have agreed, though]] at your service.
+[u1512 | 01:29:40.970-01:29:43.429 | DM] {{have agreed, though}} at your service.
 [u1513 | 01:29:44.710-01:29:48.580 | Wellby] Wellby Goodbarrel. It is a pleasure I'm
 [u1514 | 01:29:49.786-01:29:50.243 | Wellby] heading
 [u1515 | 01:29:50.820-01:29:55.280 | Wellby] around the Cape with my friends here, who have proven to be really
@@ -1528,7 +1528,7 @@
 [u1528 | 01:30:38.320-01:30:40.720 | DM] not really sure, I guess.
 [u1529 | 01:30:41.460-01:30:44.060 | DM] I guess. Probably Castrella is next
 [u1530 | 01:30:44.860-01:30:46.850 | DM] from there, we'll see. Might go
-[u1531 | 01:30:49.380-01:30:53.200 | DM] further north up to [[Anticus]], or somewhere like that.
+[u1531 | 01:30:49.380-01:30:53.200 | DM] further north up to {{Anticus}}, or somewhere like that.
 [u1532 | 01:30:55.940-01:30:58.710 | DM] See what you know. The winds and the
 [u1533 | 01:30:59.490-01:31:01.350 | DM] feel in the air takes us.
 [u1534 | 01:31:02.670-01:31:03.869 | DM] This town is a bit
@@ -1556,7 +1556,7 @@
 [u1556 | 01:32:11.940-01:32:13.080 | DM] the bay
 [u1557 | 01:32:13.620-01:32:15.310 | DM] north up the coast.
 [u1558 | 01:32:16.050-01:32:16.780 | Seeker] I say.
-[u1559 | 01:32:16.780-01:32:19.859 | DM] [[Angela]] is the next town. It's like I don't know here or so.
+[u1559 | 01:32:16.780-01:32:19.859 | DM] {{Angela}} is the next town. It's like I don't know here or so.
 [u1560 | 01:32:19.860-01:32:22.110 | Delwath] So, and I I get it. I get it. I get it.
 [u1561 | 01:32:23.130-01:32:24.060 | Wellby] Like we're
 [u1562 | 01:32:24.220-01:32:28.329 | Wellby] we're looking for some sort of like a mermaid garden in a
@@ -1567,7 +1567,7 @@
 [u1567 | 01:32:47.010-01:32:48.700 | DM] interesting.
 [u1568 | 01:32:51.180-01:32:54.439 | DM] I can definitely take you as far as Castrella.
 [u1569 | 01:32:56.490-01:33:00.279 | DM] I guess I just gotta see when you get there. I mean.
-[u1570 | 01:33:05.860-01:33:08.190 | DM] [[Rajana]]'s an interesting city.
+[u1570 | 01:33:05.860-01:33:08.190 | DM] {{Rajana}}'s an interesting city.
 [u1571 | 01:33:14.310-01:33:15.090 | DM] Hmm.
 [u1572 | 01:33:20.708-01:33:23.580 | Wellby] Hell of a story! And you know.
 [u1573 | 01:33:24.700-01:33:29.220 | Wellby] the only thing is we're in a bit of a rush, and I I don't know if that works with your schedule.
@@ -1602,7 +1602,7 @@
 [u1602 | 01:34:58.550-01:34:59.520 | DM] Milo?
 [u1603 | 01:35:01.030-01:35:03.059 | DM] Wonder where he is these days?
 [u1604 | 01:35:03.060-01:35:04.649 | Wellby] I was just gonna say that.
-[u1605 | 01:35:09.150-01:35:15.239 | DM] Might be out around [[Rochana]], or somewhere like there he's often.
+[u1605 | 01:35:09.150-01:35:15.239 | DM] Might be out around {{Rochana}}, or somewhere like there he's often.
 [u1606 | 01:35:17.670-01:35:19.330 | DM] Last I heard he was
 [u1607 | 01:35:19.600-01:35:22.929 | DM] trying to sail south of the Sea of Storms.
 [u1608 | 01:35:23.740-01:35:26.390 | DM] That was a year ago. So either he's
@@ -1689,7 +1689,7 @@
 [u1689 | 01:40:15.930-01:40:17.070 | Delwath] Do you know the songs.
 [u1690 | 01:40:17.910-01:40:18.550 | Seeker] Hmm.
 [u1691 | 01:40:19.850-01:40:21.289 | DM] I don't sing.
-[u1692 | 01:40:22.600-01:40:24.610 | DM] That's [[garage done in bell]]
+[u1692 | 01:40:22.600-01:40:24.610 | DM] That's {{garage done in bell}}
 [u1693 | 01:40:30.760-01:40:32.650 | DM] don't quite know what I think of them.
 [u1694 | 01:40:37.960-01:40:39.120 | Delwath] What are your opinions?
 [u1695 | 01:40:42.900-01:40:45.179 | DM] Drag you to the bottom of the ocean and eat you.
@@ -1738,7 +1738,7 @@
 [u1738 | 01:43:14.900-01:43:17.050 | Delwath] to get you back here.
 [u1739 | 01:43:21.290-01:43:24.420 | Delwath] If we abandon you. I could double the offer
 [u1740 | 01:43:30.960-01:43:32.249 | Delwath] should be able to get back here.
-[u1741 | 01:43:32.250-01:43:33.060 | DM] [[Nervous of that]].
+[u1741 | 01:43:32.250-01:43:33.060 | DM] {{Nervous of that}}.
 [u1742 | 01:43:33.060-01:43:39.312 | Delwath] 25 gold somewhere safe in Castrella or one of the other villages. We might just have to
 [u1743 | 01:43:40.193-01:43:41.209 | DM] Where are you from?
 [u1744 | 01:43:44.758-01:43:46.700 | Delwath] Wow! That's a funny story
@@ -1914,11 +1914,11 @@
 [u1914 | 01:53:18.640-01:53:20.190 | DM] Just sing a song.
 [u1915 | 01:53:22.890-01:53:23.780 | DM] Alice.
 [u1916 | 01:53:24.890-01:53:26.180 | DM] Oh, yes.
-[u1917 | 01:53:26.180-01:53:54.050 | Kenzo] Sailors, brave and true, [[voiceless]]. When the north winds blow up strong, they sing their songs. A ship sail by.
+[u1917 | 01:53:26.180-01:53:54.050 | Kenzo] Sailors, brave and true, {{voiceless}}. When the north winds blow up strong, they sing their songs. A ship sail by.
 [u1918 | 01:53:54.650-01:54:18.049 | DM] Oops. Sorry. These blow up strong, steer clear of the sirens.
-[u1919 | 01:54:18.050-01:54:40.979 | DM] draw you near. Many ships [[sail to me surface charm]], and [[found all within them. Dangerous sail high, you near]]
-[u1920 | 01:54:41.160-01:54:55.690 | DM] brave the waves, but [[God you sail]], or the merfolk spell will be your jail. A sailor's tale is [[sold in grand]] respect the sea, and he
-[u1921 | 01:54:55.690-01:55:14.620 | DM] I watch where [[kelp beds license clear]] as the merfolk draw you near, brave the waves, but [[God, you sail]], or the merfolk spell be your jail. A sailor's tale is [[so end to]] respect the sea and safely land.
+[u1919 | 01:54:18.050-01:54:40.979 | DM] draw you near. Many ships {{sail to me surface charm}}, and {{found all within them. Dangerous sail high, you near}}
+[u1920 | 01:54:41.160-01:54:55.690 | DM] brave the waves, but {{God you sail}}, or the merfolk spell will be your jail. A sailor's tale is {{sold in grand}} respect the sea, and he
+[u1921 | 01:54:55.690-01:55:14.620 | DM] I watch where {{kelp beds license clear}} as the merfolk draw you near, brave the waves, but {{God, you sail}}, or the merfolk spell be your jail. A sailor's tale is {{so end to}} respect the sea and safely land.
 [u1922 | 01:55:16.560-01:55:18.930 | DM] and as they finish their song they
 [u1923 | 01:55:18.990-01:55:21.000 | DM] bring up some food and set
 [u1924 | 01:55:21.090-01:55:22.590 | DM] lunch for you.
@@ -2034,9 +2034,9 @@
 [u2034 | 02:02:38.520-02:02:39.480 | DM] Okay.
 [u2035 | 02:02:39.760-02:02:42.490 | DM] anything anybody else is doing before dawn.
 [u2036 | 02:02:53.930-02:03:01.653 | DM] Okay? So day breaks. And you see the city of Castrella before you. This is a much bigger city than
-[u2037 | 02:03:02.983-02:03:10.429 | DM] what the one you were in before, which which never actually got the name. It was [[artifice]].
+[u2037 | 02:03:02.983-02:03:10.429 | DM] what the one you were in before, which which never actually got the name. It was {{artifice}}.
 [u2038 | 02:03:10.480-02:03:13.909 | DM] Castrella is also set like
-[u2039 | 02:03:14.140-02:03:18.780 | DM] [[artifice]] on a hill on a sort of flat ground
+[u2039 | 02:03:14.140-02:03:18.780 | DM] {{artifice}} on a hill on a sort of flat ground
 [u2040 | 02:03:19.248-02:03:21.139 | DM] below the hills. But it's
 [u2041 | 02:03:22.696-02:03:24.270 | DM] it's easily
 [u2042 | 02:03:25.850-02:03:37.162 | DM] 5 times the size, right? It's at least. There's gotta be 3, 4,000 5,000 people that live here. This is a substantial town. The harbor is full.
@@ -2084,7 +2084,7 @@
 [u2084 | 02:06:57.200-02:06:59.150 | DM] the occasional lizard folk
 [u2085 | 02:07:03.010-02:07:05.780 | DM] humans of all kinds.
 [u2086 | 02:07:07.640-02:07:19.597 | DM] it's a it's a pretty bustling place, I mean. So I mean, there's a market. Obviously, there's a big central market. There's old merchant houses that look like they're sort of manors wealthy.
-[u2087 | 02:07:20.880-02:07:29.079 | DM] there is a castle that's set on a slight rise, and there's a a reasonably substantial temple. Of [[MOS Numa]].
+[u2087 | 02:07:20.880-02:07:29.079 | DM] there is a castle that's set on a slight rise, and there's a a reasonably substantial temple. Of {{MOS Numa}}.
 [u2088 | 02:07:29.310-02:07:35.369 | DM] and then there's a number like along the docks. There's a number of sailors inns
 [u2089 | 02:07:37.640-02:07:39.130 | DM] so where do you want to head.
 [u2090 | 02:07:41.450-02:07:44.900 | Delwath] I mean, does Martino know this person.
@@ -2751,10 +2751,10 @@
 [u2751 | 02:55:17.950-02:55:19.250 | Riswynn] Right. I
 [u2752 | 02:55:20.840-02:55:21.700 | Riswynn] have
 [u2753 | 02:55:22.110-02:55:27.540 | Riswynn] been searching for that sort of magical knowledge, but it's not something that my gods have blessed me with. So.
-[u2754 | 02:55:28.930-02:55:32.549 | Kenzo] Doesn't Kenzo have like a [[someone under someone under the water clock]]? Now.
+[u2754 | 02:55:28.930-02:55:32.549 | Kenzo] Doesn't Kenzo have like a {{someone under someone under the water clock}}? Now.
 [u2755 | 02:55:32.550-02:55:34.350 | DM] Kenzo does.
 [u2756 | 02:55:34.460-02:55:37.820 | DM] but Kenzo is the only one, unless you're gonna go by yourself.
-[u2757 | 02:55:38.650-02:55:41.700 | Seeker] Well, we planned out a whole [[Frost hill]].
+[u2757 | 02:55:38.650-02:55:41.700 | Seeker] Well, we planned out a whole {{Frost hill}}.
 [u2758 | 02:55:41.960-02:55:43.140 | Seeker] a
 [u2759 | 02:55:43.190-02:55:44.800 | Seeker] environment pod
 [u2760 | 02:55:44.920-02:55:45.900 | Seeker] plan.
@@ -2769,7 +2769,7 @@
 [u2769 | 02:56:14.670-02:56:15.520 | Seeker] me.
 [u2770 | 02:56:17.950-02:56:19.850 | DM] So, okay.
 [u2771 | 02:56:20.120-02:56:23.010 | DM] what does? What do you all? What does everybody want to do.
-[u2772 | 02:56:23.720-02:56:25.839 | Kenzo] [[It’s gonna picture, my, my lowest crime. I.]]
+[u2772 | 02:56:23.720-02:56:25.839 | Kenzo] {{It’s gonna picture, my, my lowest crime. I.}}
 [u2773 | 02:56:25.840-02:56:29.369 | Delwath] I think our plan should be. But
 [u2774 | 02:56:30.595-02:56:30.950 | Delwath] at
 [u2775 | 02:56:32.032-02:56:36.390 | Delwath] I really do need to go to bed in a few minutes, but our plan should be to
@@ -2790,11 +2790,11 @@
 [u2790 | 02:57:33.470-02:57:36.030 | Riswynn] merfolk’s net, or whatever. But.
 [u2791 | 02:57:36.030-02:57:43.400 | Kenzo] Actually, I I can sense if we’re a few miles away. So pretty pretty good, like we get in a couple of miles. I'll know where it is.
 [u2792 | 02:57:44.370-02:57:45.230 | Seeker] Oh!
-[u2793 | 02:57:45.690-02:57:51.200 | Riswynn] [[If it’s a detect further from it, then from itself, then you can sense.]]
+[u2793 | 02:57:45.690-02:57:51.200 | Riswynn] {{If it’s a detect further from it, then from itself, then you can sense.}}
 [u2794 | 02:57:51.250-02:57:53.480 | Riswynn] and we can get caught in some sort of
 [u2795 | 02:57:55.520-02:58:00.240 | Riswynn] what it's possible to get trapped by merfolk instead of finding the jade, is what I'm.
 [u2796 | 02:58:00.630-02:58:01.020 | Seeker] Way.
-[u2797 | 02:58:03.682-02:58:05.410 | Kenzo] Let's scry [[either]].
+[u2797 | 02:58:03.682-02:58:05.410 | Kenzo] Let's scry {{either}}.
 [u2798 | 02:58:07.610-02:58:07.950 | Seeker] Her.
 [u2799 | 02:58:07.950-02:58:09.390 | Kenzo] That seems like a great idea.
 [u2800 | 02:58:11.884-02:58:12.309 | DM] Okay.
@@ -2927,7 +2927,7 @@
 [u2927 | 03:04:20.945-03:04:21.250 | Wellby] Ed.
 [u2928 | 03:04:21.250-03:04:21.790 | Kenzo] Would be dead.
 [u2929 | 03:04:21.790-03:04:22.420 | Seeker] And.
-[u2930 | 03:04:22.780-03:04:25.419 | DM] [[Right as it is referencing]]. People who are dead.
+[u2930 | 03:04:22.780-03:04:25.419 | DM] {{Right as it is referencing}}. People who are dead.
 [u2931 | 03:04:25.420-03:04:27.280 | Kenzo] But we'll find out about that from the scry.
 [u2932 | 03:04:28.700-03:04:30.590 | Delwath] Dead, the scry will never succeed.
 [u2933 | 03:04:30.590-03:04:32.859 | DM] It would just fail. It would just always fail.
@@ -3123,10 +3123,10 @@
 [u3123 | 03:16:00.640-03:16:10.199 | DM] maybe also this guy, Dorian Almare, who is obsessed with with merfolk, and you also have Kazuro, the stoneborn alchemist.
 [u3124 | 03:16:11.837-03:16:19.579 | DM] Who lives in a cave in this, like rocky stretch of coast northwest of of the city you're in.
 [u3125 | 03:16:19.990-03:16:22.259 | DM] and as you wander you hear the
-[u3126 | 03:16:25.730-03:16:42.090 | DM] in a shroud of mists so thick and gray, a lone ship sailed the old bay [[lost to the stars]], no light to guide its [[camped instead]], at the turning tide. Then from the [[Texas off]] light shone a mystic guide through waters unknown.
-[u3127 | 03:16:42.260-03:17:05.899 | DM] Oh, the merfolk sing beneath the moon, the merfolk sing a haunting tune, the merfolk sing ’twixt wave and dune the merfolk sing a sailor’s boon! The captain’s heart filled with dread, a swirling fog around him [[sweat]] [[but fears danced]] across the foam, singing songs of light and [[grace and foam]]
-[u3128 | 03:17:05.900-03:17:29.699 | DM] with guiding hands so fair and bright, they led his vessel through fog and night. Oh, the merfolk sing beneath the moon [[sailors!]] When morning broke, the shores near the fog had lifted, the sky was clear.
-[u3129 | 03:17:29.700-03:17:53.689 | DM] grateful tears. The captain wept by merfolk’s graces. Life was kept [[back to board]] with tales to tell of magic that saved him. Well, the merfolk sing beneath the moon, the merfolk sing a haunting tune, the merfolk sing ’twixt wave and dune the merfolk [[singer sailors]].
+[u3126 | 03:16:25.730-03:16:42.090 | DM] in a shroud of mists so thick and gray, a lone ship sailed the old bay {{lost to the stars}}, no light to guide its {{camped instead}}, at the turning tide. Then from the {{Texas off}} light shone a mystic guide through waters unknown.
+[u3127 | 03:16:42.260-03:17:05.899 | DM] Oh, the merfolk sing beneath the moon, the merfolk sing a haunting tune, the merfolk sing ’twixt wave and dune the merfolk sing a sailor’s boon! The captain’s heart filled with dread, a swirling fog around him {{sweat}} {{but fears danced}} across the foam, singing songs of light and {{grace and foam}}
+[u3128 | 03:17:05.900-03:17:29.699 | DM] with guiding hands so fair and bright, they led his vessel through fog and night. Oh, the merfolk sing beneath the moon {{sailors!}} When morning broke, the shores near the fog had lifted, the sky was clear.
+[u3129 | 03:17:29.700-03:17:53.689 | DM] grateful tears. The captain wept by merfolk’s graces. Life was kept {{back to board}} with tales to tell of magic that saved him. Well, the merfolk sing beneath the moon, the merfolk sing a haunting tune, the merfolk sing ’twixt wave and dune the merfolk {{singer sailors}}.
 [u3130 | 03:17:57.760-03:17:58.210 | Seeker] I learned this.
 [u3131 | 03:17:58.210-03:18:00.030 | DM] Some people seem to like the merfolk.
 [u3132 | 03:18:01.470-03:18:03.110 | Kenzo] Well, they did sing a hot tune.
@@ -3148,16 +3148,16 @@
 [u3148 | 03:18:39.800-03:18:48.439 | DM] You hear one more song, a woman who seems to have drawn quite a crowd, who's like playing on on pan pipes and and singing a ballad
 [u3149 | 03:18:48.830-03:18:50.073 | DM] echoing from
 [u3150 | 03:18:52.270-03:18:57.329 | DM] from a tavern that's like people are spilling out like. She seems to be very popular
-[u3151 | 03:19:00.330-03:19:22.220 | DM] in the depths [[with the neat storm and oceans of garden lush]] when merfolk’s secrets [[do apply]], Oh, sing of the kelp, so green, rich jade lies deep and still unseen.
+[u3151 | 03:19:00.330-03:19:22.220 | DM] in the depths {{with the neat storm and oceans of garden lush}} when merfolk’s secrets {{do apply}}, Oh, sing of the kelp, so green, rich jade lies deep and still unseen.
 [u3152 | 03:19:22.220-03:19:33.850 | Seeker] 100 leagues secret sleep, neath waves of gray.
 [u3153 | 03:19:35.590-03:19:36.840 | Seeker] a.
 [u3154 | 03:19:38.150-03:20:02.840 | Seeker] The merfolk dance with silken fins among the kelp. They tend the jade with gentle care each name a whisper soft as air Oh, sing of the kelp, so green, rich jade lies deep and still unseen, a hundred
-[u3155 | 03:20:02.840-03:20:13.619 | Seeker] west, [[a 10 bay]] where secret sleep neath waves of gray.
+[u3155 | 03:20:02.840-03:20:13.619 | Seeker] west, {{a 10 bay}} where secret sleep neath waves of gray.
 [u3156 | 03:20:15.350-03:20:16.600 | Seeker] a.
 [u3157 | 03:20:17.050-03:20:22.360 | Seeker] A.
 [u3158 | 03:20:24.180-03:20:25.360 | Seeker] A.
-[u3159 | 03:20:27.431-03:20:51.669 | Seeker] From the deep. The jade does grow glowing faint with mystic [[show]], names of old names and new [[strong gardens]], deep and blue, Oh, sing of the kelp, so green, rich jade lies deep and still unseen. A 100
-[u3160 | 03:20:51.670-03:21:13.689 | Seeker] sleep neath waves of grey Tales are told of those who find the garden left behind. merfolk’s whispers, [[call in the J names of all]].
+[u3159 | 03:20:27.431-03:20:51.669 | Seeker] From the deep. The jade does grow glowing faint with mystic {{show}}, names of old names and new {{strong gardens}}, deep and blue, Oh, sing of the kelp, so green, rich jade lies deep and still unseen. A 100
+[u3160 | 03:20:51.670-03:21:13.689 | Seeker] sleep neath waves of grey Tales are told of those who find the garden left behind. merfolk’s whispers, {{call in the J names of all}}.
 [u3161 | 03:21:15.560-03:21:17.000 | Seeker] O.
 [u3162 | 03:21:19.750-03:21:25.060 | Seeker] Cool! That's interesting.
 [u3163 | 03:21:26.270-03:21:26.950 | Seeker] Up
@@ -3179,7 +3179,7 @@
 [u3179 | 03:22:09.330-03:22:11.389 | DM] No, you'll have to go and find out.
 [u3180 | 03:22:13.450-03:22:14.569 | Riswynn] Yeah, I was all.
 [u3181 | 03:22:14.570-03:22:14.980 | Seeker] Or a bit.
-[u3182 | 03:22:14.980-03:22:16.649 | Riswynn] [[Board with]] Tamaro Bay
+[u3182 | 03:22:14.980-03:22:16.649 | Riswynn] {{Board with}} Tamaro Bay
 [u3183 | 03:22:17.770-03:22:19.050 | Riswynn] definitely what I heard.
 [u3184 | 03:22:20.780-03:22:22.670 | Kenzo] Awesome. I thought I heard of, too. Tomorrow.
 [u3185 | 03:22:24.450-03:22:24.940 | DM] Well.
@@ -3208,7 +3208,7 @@
 [u3208 | 03:23:19.050-03:23:25.979 | Riswynn] There was a fog bank. We're not really sure whether that was because of the merfolk, or that was the problem. merfolk solved.
 [u3209 | 03:23:26.310-03:23:29.080 | Seeker] I'm guessing they use magical fog, though. Yeah.
 [u3210 | 03:23:30.250-03:23:33.220 | Riswynn] Except that was the song where they were. The good guys. So why would they make.
-[u3211 | 03:23:33.220-03:23:34.890 | DM] The song, [[Internet]], good guys.
+[u3211 | 03:23:33.220-03:23:34.890 | DM] The song, {{Internet}}, good guys.
 [u3212 | 03:23:34.890-03:23:36.669 | Riswynn] Rescue people from the fog.
 [u3213 | 03:23:37.010-03:23:39.910 | Seeker] Yeah, but it's an account of someone who nearly
 [u3214 | 03:23:40.640-03:23:43.940 | Seeker] died. So who knows what actually happened, or anything.
@@ -3335,7 +3335,7 @@
 [u3335 | 03:30:34.140-03:30:35.170 | DM] we'll do it
 [u3336 | 03:30:37.360-03:30:38.999 | DM] a week of hard sailing.
 [u3337 | 03:30:42.280-03:30:45.670 | DM] That's about all I can ask of the crew. And you guys gotta help.
-[u3338 | 03:30:46.450-03:30:48.119 | DM] [[Probably wait around here]].
+[u3338 | 03:30:46.450-03:30:48.119 | DM] {{Probably wait around here}}.
 [u3339 | 03:30:48.600-03:30:52.080 | Kenzo] So a week out there feels like a lot of time. Guys.
 [u3340 | 03:30:53.150-03:30:54.010 | Kenzo] Yeah. But we got.
 [u3341 | 03:30:54.010-03:30:54.739 | DM] Not at all. Yeah.
@@ -3353,7 +3353,7 @@
 [u3353 | 03:31:14.750-03:31:16.439 | DM] There we go! There's the rave.
 [u3354 | 03:31:20.713-03:31:21.820 | Seeker] Monster! Dj.
 [u3355 | 03:31:22.980-03:31:24.450 | DM] So.
-[u3356 | 03:31:25.640-03:31:29.919 | Riswynn] Does anyone know that Kenzo is dating a stoneborn who lives up in the [[Twist]]?
+[u3356 | 03:31:25.640-03:31:29.919 | Riswynn] Does anyone know that Kenzo is dating a stoneborn who lives up in the {{Twist}}?
 [u3357 | 03:31:30.988-03:31:36.260 | Riswynn] It’s great potions and very good music taste.
 [u3358 | 03:31:39.310-03:31:40.010 | DM] e.
 [u3359 | 03:31:42.660-03:31:46.719 | DM] yeah. Izkir will somehow have to morph into a musician.

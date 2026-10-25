@@ -113,7 +113,7 @@ DM: Misses.
 Delwath: One. That's not that useful.
 
 %% u1829-u1830 %%
-DM: [[Your office.]] Who else is doing something?
+DM: {{Your office.}} Who else is doing something?
 
 %% u1831-u1833 %%
 Wellby: So I'm going to shout to Seeker, "Can you get rid of that circle? Can you, like, dirt it away or stone it out or something?"
@@ -122,7 +122,7 @@ Wellby: So I'm going to shout to Seeker, "Can you get rid of that circle? Can yo
 Seeker: Oh, I didn't think of that. That's a very interesting idea.
 
 %% u1835 %%
-Kenzo: [[Like a job for yourself]], you have...
+Kenzo: {{Like a job for yourself}}, you have...
 
 %% u1836-u1838 %%
 Wellby: Well, I was thinking of that. But then I feel like if you can just move it, like if you can just bury it or something...
@@ -203,7 +203,7 @@ DM: So Booming Blade doesn't do anything unless it moves.
 Riswynn: Okay.
 
 %% u1883-u1885 %%
-DM: So if it moves, it does extra damage, but just roll the normal damage from Shatterstorm. So if you click on Shatterstorm, [[steam at well well]] damage.
+DM: So if it moves, it does extra damage, but just roll the normal damage from Shatterstorm. So if you click on Shatterstorm, {{steam at well well}} damage.
 
 %% u1886 %%
 Unknown: Just.
@@ -212,7 +212,7 @@ Unknown: Just.
 Riswynn: Did that go through?
 
 %% u1888 %%
-DM: No, I see that [[good box]] in Roll20. Yeah, there you go.
+DM: No, I see that {{good box}} in Roll20. Yeah, there you go.
 
 %% u1889 %%
 Unknown: Mike.
@@ -320,7 +320,7 @@ Wellby: Oh, sorry.
 DM: Okay, Kenzo. So as this cloud is lingering, Delwath and Riswynn, you kind of shake the effect off.
 
 %% u1949-u1950 %%
-Delwath: [[Who has that's]] not dying from poison.
+Delwath: {{Who has that's}} not dying from poison.
 
 %% u1951-u1962 %%
 DM: Kenzo, as it turns out, you are poisoned, and you begin to hear echoes of something howling and barking in the back of your mind. Worse. And then it will turn around and make a slam attack at Delwath, which is a twelve, so I assume misses. Yeah. And at Riswynn, which is a six. Misses. Okay, who's doing something?
@@ -371,7 +371,7 @@ Seeker: Yesterday.
 DM: That hits. So again, as you touch it, it begins to blacken and dehydrate, and the water sort of crackles as it begins to dry out, as you sear its flesh. And it staggers back with that hit, now clearly, visibly damaged and looking like it's hurting. As Seeker...
 
 %% u2003 %%
-Seeker: Draws glowing images of giant hedge clippers, mortal enemy of this creature, in the air and [[enlarges it before it's them]] in Vicious Mockery.
+Seeker: Draws glowing images of giant hedge clippers, mortal enemy of this creature, in the air and {{enlarges it before it's them}} in Vicious Mockery.
 
 %% u2004 %%
 DM: That's Wisdom.
@@ -401,7 +401,7 @@ Riswynn: Nice. Sweet.
 Kenzo: Quarterstaff of awesomeness.
 
 %% u2013 %%
-Delwath: [[That ice.]]
+Delwath: {{That ice.}}
 
 %% u2014 %%
 Kenzo: Is he dead?
@@ -410,7 +410,7 @@ Kenzo: Is he dead?
 DM: No, but as you strike it with your staff, it again staggers back for a second. You can see that it's starting to become incoherent a little bit. That also hits. Are you going to spend a ki?
 
 %% u2018-u2019 %%
-Kenzo: What? Sure, why not? Okay, I'll flurry and [[all three]] and hit it again.
+Kenzo: What? Sure, why not? Okay, I'll flurry and {{all three}} and hit it again.
 
 %% u2020-u2021 %%
 DM: Oh, actually, because you're poisoned, you have disadvantage on all of the ones. So your unarmed strike hits. Roll two more d20s.
@@ -428,7 +428,7 @@ Seeker: Well.
 DM: Well, you don't get the crit, you take the lower. But all of those still hit, so staggering through the sort of pain of your...
 
 %% u2031 %%
-Kenzo: [[Of the slurry isn't her stuff blow. Isn't this]] and flurry of poison spores flying everywhere.
+Kenzo: {{Of the slurry isn't her stuff blow. Isn't this}} and flurry of poison spores flying everywhere.
 
 %% u2032-u2033 %%
 DM: And again it staggers back, and bits of it are starting to slump off, and the mud is kind of dripping down, and fragments of vines are sort of cracking as...
@@ -443,19 +443,19 @@ DM: I...
 Delwath: Wasn't sure if it had already gone.
 
 %% u2037-u2044 %%
-DM: As it turns and slams into Kenzo. What's your AC? [[35 603]] seventeen. As you just step out of the way, as it's staggered back by the power of your strikes, it doesn't get a good hit. And then its second slam strikes at Delwath. Seventeen. What's your AC?
+DM: As it turns and slams into Kenzo. What's your AC? {{35 603}} seventeen. As you just step out of the way, as it's staggered back by the power of your strikes, it doesn't get a good hit. And then its second slam strikes at Delwath. Seventeen. What's your AC?
 
 %% u2045 %%
 Delwath: 17.
 
 %% u2046-u2052 %%
-DM: Doing nine points of bludgeoning damage, as it then staggers again, and another explosion of spores erupts from it. So I need you to all make Con saves again. [[But no mere]], Riswynn, and Kenzo.
+DM: Doing nine points of bludgeoning damage, as it then staggers again, and another explosion of spores erupts from it. So I need you to all make Con saves again. {{But no mere}}, Riswynn, and Kenzo.
 
 %% u2053 %%
 Kenzo: Let me do it again.
 
 %% u2054-u2061 %%
-DM: You're already poisoned, but it may get worse. [[I'm wearing my]]—no, it doesn't get worse. You're fine. Well, you're not fine, but you don't have this... Is it? Okay. Okay, so that was ten damage from your side? Eleven, eleven.
+DM: You're already poisoned, but it may get worse. {{I'm wearing my}}—no, it doesn't get worse. You're fine. Well, you're not fine, but you don't have this... Is it? Okay. Okay, so that was ten damage from your side? Eleven, eleven.
 
 %% u2062 %%
 Unknown: Okay.
@@ -491,7 +491,7 @@ DM: Okay, immediately behind that. Yeah. Wellby?
 Wellby: I'm gonna do the same. So Wellby sort of pauses and glances to look at everyone else, and then sort of shrugs to himself and takes the next steady shot without moving. I think we'll take that.
 
 %% u2085-u2086 %%
-DM: Job. You didn't roll the crit damage, [[you build up]].
+DM: Job. You didn't roll the crit damage, {{you build up}}.
 
 %% u2087 %%
 Wellby: I rolled for the crit.
@@ -503,7 +503,7 @@ DM: Click on the red shortbow right underneath the twenty-five for the crit. If 
 DM: So Wellby pauses for a moment in the sort of chaos as it's staggering back, takes aim at this sort of blackened area where Riswynn and Delwath have both, with their curses, blackened it. Spots, aims carefully, takes a shot, and your arrow flies true. Strikes it, hits with enough force to just drive it back half a step as it then slips on the mud, collapsing into the river. You hear a cracking sound, and this flood of water just cascades down, sweeping it past, as the vines and mud and energy that was holding this flow of water back is swept away.
 
 %% u2101-u2104 %%
-Delwath: As it falls dead, you see a thin stream of pale gray-white come from the shadow thing and [[by one have]] Delwath.
+Delwath: As it falls dead, you see a thin stream of pale gray-white come from the shadow thing and {{by one have}} Delwath.
 
 %% u2105 %%
 Seeker: Come from where?

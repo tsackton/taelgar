@@ -26,7 +26,7 @@ Seeker: Carved in stone or something?
 DM: Yeah, carved in stone. The features are somewhat indistinct: a flat nose, no hair, sort of long, stretched-out face, almost. A grim, flat mouth, closed. Where the eyes should be, there are empty sockets. The mouth itself is etched in silver, with silver lips, and more gold and silver decorates the pedestal on which this bust is standing—a considerable amount, sort of elaborately done.
 
 %% u1399-u1405 %%
-DM: A crown of stone is carved into the head, of a darker... So this is all in sort of gray marble, and then the crown of stone is carved in darker stone, sort of set on the head. Also with five points, right? So it's like a band with five triangles that come up, each of which also has a metal setting on the top where something has been removed. The eyes are just [[echoes of wind]].
+DM: A crown of stone is carved into the head, of a darker... So this is all in sort of gray marble, and then the crown of stone is carved in darker stone, sort of set on the head. Also with five points, right? So it's like a band with five triangles that come up, each of which also has a metal setting on the top where something has been removed. The eyes are just {{echoes of wind}}.
 
 %% u1406 %%
 DM: They're just missing. Yeah, they're sockets, just empty sockets carved into the stone. Clearly something was once there.
@@ -68,7 +68,7 @@ Riswynn: Does this lightning crackling on the outside, where I'm still standing,
 DM: No, it reduces. Something is following them in.
 
 %% u1422 %%
-Seeker: Does the statue look like the one of [[our kisses]], that is, a being that had been turned to stone, or a carving?
+Seeker: Does the statue look like the one of {{our kisses}}, that is, a being that had been turned to stone, or a carving?
 
 %% u1423-u1426 %%
 DM: No, this is definitely a carving. I mean, clearly somebody carved this, and it was once set with something, no longer.
@@ -128,7 +128,7 @@ DM: And as you begin to come up to the exit of the tower, you come out onto a ro
 Delwath: A.
 
 %% u1462 %%
-Riswynn: [[While after]] a dimensional portal or something.
+Riswynn: {{While after}} a dimensional portal or something.
 
 %% u1463 %%
 Kenzo: What?
@@ -170,7 +170,7 @@ DM: No, definitely not. Five times bigger than the kind of place normal people w
 Seeker: Mere normal size.
 
 %% u1481-u1484 %%
-DM: [[Or me magic]]. There are steps, there's columns maybe 40–50 feet tall running in rows down the sides of this hall, and there's enormous steps, each step itself about 10 feet tall, leading up to the wide entrance.
+DM: {{Or me magic}}. There are steps, there's columns maybe 40–50 feet tall running in rows down the sides of this hall, and there's enormous steps, each step itself about 10 feet tall, leading up to the wide entrance.
 
 %% u1485-u1487 %%
 DM: And as you stand around gazing, you hear like tap, tap, tap, tap, as something seems to be walking slowly out of the hall. Large footsteps and then something quieter tapping, then a large footstep and something quieter tapping.
@@ -197,7 +197,7 @@ Riswynn: Look.
 DM: Look in your—you're on the Google—
 
 %% u1495-u1498 %%
-Seeker: [[Guy]]. You should have some stuff. Looking down the stairs, can I see back into the tower that we were just in, or no? Yeah? But there's no tower there?
+Seeker: {{Guy}}. You should have some stuff. Looking down the stairs, can I see back into the tower that we were just in, or no? Yeah? But there's no tower there?
 
 %% u1499 %%
 DM: There's no tower there, and there's just stairs that lead into a tower.
@@ -254,7 +254,7 @@ Kenzo: And what am I looking at? I'm looking at the Kenzo doc. Here we go.
 DM: I'll be right back. That's interesting.
 
 %% u1526 %%
-Delwath: How are you doing all that, [[keep]]?
+Delwath: How are you doing all that, {{keep}}?
 
 %% u1527 %%
 DM: New video filters in Zoom. It has all these video filters now.
@@ -284,7 +284,7 @@ Seeker: There's a cat. Cat. There's a thing with both cats and dogs, they're alw
 DM: Yes.
 
 %% u1539 %%
-Seeker: [[Beating]].
+Seeker: {{Beating}}.
 
 %% u1540 %%
 Unknown: Mike.

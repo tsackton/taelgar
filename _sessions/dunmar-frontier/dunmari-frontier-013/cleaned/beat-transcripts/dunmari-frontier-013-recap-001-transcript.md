@@ -92,7 +92,7 @@ Unknown: That we killed...
 Seeker: Well, if we let them loose and track them—what are you suggesting?
 
 %% u0052 %%
-Riswynn: I mean, are they, like, sort of thinking monster hyenas? They're not just [[taking three]]...
+Riswynn: I mean, are they, like, sort of thinking monster hyenas? They're not just {{taking three}}...
 
 %% u0053 %%
 DM: They're just...
@@ -119,7 +119,7 @@ Wellby: Transformation process.
 Kenzo: We didn't really get to watch it complete whatever it was doing, so...
 
 %% u0068 %%
-Seeker: [[There was exactly what it was.]]
+Seeker: {{There was exactly what it was.}}
 
 %% u0069-u0071 %%
 Riswynn: So there's all sorts of tainted stuff. There's tainted meat, there's tainted water, and there's tainted mist. If any one of them is sufficient to turn these pent-up animals into army monsters... I mean, we're the crew of adventurers who brought along a rabbit named Taster for Delwath's experiments on animals. Let's just feed some of these creatures these three different elements, alone or in combination, and see what happens.
@@ -155,7 +155,7 @@ Unknown: No.
 Delwath: No.
 
 %% u0084 %%
-Kenzo: We [[understand why not]] with the fog, whatever, this crazy mist and fog.
+Kenzo: We {{understand why not}} with the fog, whatever, this crazy mist and fog.
 
 %% u0085 %%
 Seeker: I'm sorry. Let's go explore the fog.
@@ -254,7 +254,7 @@ Seeker: There might be some microscopic marine fossils there, and I get my face 
 DM: However, Riswynn and Kenzo, looking around, you find—so, rocks. It almost looks like some of these rocks and rubble were piled up into a nest, like a large, fifteen-foot-wide sort of circle, clear area, that then has a little bit of rubble around it. And sort of hidden among rocks and this sort of strata and rubble, in this almost nest sort of area, are a handful of things. So you find a golden ring set with small red gems. A silver locket that has a faded, painted halfling inside it. Two small pieces of amber. A small ruby that almost seems to glow with an inner light. And what looks like an old helm. Elaborate, elaborate design, sort of made of silver, with wings on the side, a little pointed spike on the top.
 
 %% u0160 %%
-Seeker: I'm, like, scratching the wall and [[likely]]...
+Seeker: I'm, like, scratching the wall and {{likely}}...
 
 %% u0161-u0162 %%
 Kenzo: Riswynn, I have found nothing. There's nothing over here at all, just chocolate.
@@ -377,7 +377,7 @@ Seeker: Right, yeah, we should...
 Riswynn: Thinking about the magic-y things that we found back in my family's treasure.
 
 %% u0228-u0229 %%
-Delwath: Right, I forgot what those were. [[There's a medieval things.]] I don't think Delwath got any of the...
+Delwath: Right, I forgot what those were. {{There's a medieval things.}} I don't think Delwath got any of the...
 
 %% u0230 %%
 DM: Delwath didn't get any of them.
@@ -452,7 +452,7 @@ Wellby: Down in the tunnels. Near the—oh, actually, in the hobgoblin barracks 
 Seeker: Did you tell us about it?
 
 %% u0301-u0302 %%
-Wellby: I did, I'm pretty sure. [[Don't if you have mending I do.]]
+Wellby: I did, I'm pretty sure. {{Don't if you have mending I do.}}
 
 %% u0303 %%
 Kenzo: All right, I thought...
@@ -536,7 +536,7 @@ Riswynn: I'd also be glad to sit down and cast some prayerful rituals over these
 Delwath: I would be...
 
 %% u0348 %%
-DM: [[If that guy.]]
+DM: {{If that guy.}}
 
 %% u0349-u0351 %%
 Wellby: I was saying, Wellby reaches deep into a pocket, struck by an idea, and pulls out a broken key. Fix this.
@@ -560,13 +560,13 @@ Kenzo: Can't hurt to have confidence.
 DM: So, okay, roll a Dex check, just straight Dex, and then add plus two. A...
 
 %% u0360-u0361 %%
-Riswynn: [[Rare versus not thinking.]]
+Riswynn: {{Rare versus not thinking.}}
 
 %% u0362-u0366 %%
 DM: Oh, I guess that's the same. That would be... You know, it would, because he's proficient—you're proficient as well. So it's the same roll. So it's a nineteen plus three plus two. So that's a twenty-four. No, plus four plus two would be twenty-five, but...
 
 %% u0367 %%
-Kenzo: [[Dancing.]] Okay.
+Kenzo: {{Dancing.}} Okay.
 
 %% u0368 %%
 Unknown: Ah.
@@ -629,7 +629,7 @@ DM: Okay.
 Delwath: Is there any—like, I just... Is this a place of connection to anywhere? Is there anything here?
 
 %% u0398 %%
-Wellby: [[Is the said hell no.]]
+Wellby: {{Is the said hell no.}}
 
 %% u0399-u0400 %%
 DM: Good question. And...
@@ -683,7 +683,7 @@ Delwath: Just, I'm suspicious of all—I mean, I don't say this out loud, but...
 Kenzo: Yeah, yeah, I share that as well. I kind of...
 
 %% u0423 %%
-Riswynn: [[Y'all can settle]], but I am also...
+Riswynn: {{Y'all can settle}}, but I am also...
 
 %% u0424-u0428 %%
 Kenzo: Well, you know, growing up in Chardon, there were kind of the haves and the have-nots. I was definitely one of the have-nots. Some in Chardon, though, like to collect items and keep them for themselves and not share with the people, which I wasn't a huge fan of. But Vola assures me that either things have changed, or that there's a different perspective that I should be thinking about. But Chardon wasn't exactly the best place to grow up, I'd say.
@@ -710,7 +710,7 @@ Kenzo: Wellby was... He didn't say that this is a relative. Do you have kids we 
 Wellby: Wellby all of a sudden freezes, double-checking himself that he doesn't have kids. He doesn't. Certainly no one has told me that I have kids, and I feel like they would have.
 
 %% u0442 %%
-Kenzo: [[Found a break your grammar here.]] Certainly no one has told you that you have kids. So you could have kids.
+Kenzo: {{Found a break your grammar here.}} Certainly no one has told you that you have kids. So you could have kids.
 
 %% u0443 %%
 Wellby: So the locket.
@@ -842,7 +842,7 @@ Delwath: Wandered outside.
 DM: I was just wondering...
 
 %% u0523 %%
-Delwath: [[And you would always get]]...
+Delwath: {{And you would always get}}...
 
 %% u0524 %%
 DM: A little while. Kenzo also went to go pick the lock on the...
@@ -965,7 +965,7 @@ Riswynn: Going to that, yeah. We're all in the magic hobgoblin storeroom except 
 DM: While you're kind of finishing up Identify, Vola is also kind of just lingering near there, looking at the items.
 
 %% u0587 %%
-Riswynn: [[One person first.]]
+Riswynn: {{One person first.}}
 
 %% u0588 %%
 Unknown: I'm...
@@ -1055,7 +1055,7 @@ Delwath: It is too quiet.
 Wellby: I mean, obviously don't touch anything or eat anything.
 
 %% u0643-u0644 %%
-Delwath: Don't—careful about looking at things. [[Go out of the gates just yet]]...
+Delwath: Don't—careful about looking at things. {{Go out of the gates just yet}}...
 
 %% u0645 %%
 Unknown: Perhaps.
@@ -1100,7 +1100,7 @@ Delwath: The thing we went under.
 Riswynn: Is there anything in the mists that echoes that, or...?
 
 %% u0668-u0670 %%
-Delwath: Very faint. It's an echo of [[interests at first]], but that's not the source.
+Delwath: Very faint. It's an echo of {{interests at first}}, but that's not the source.
 
 %% u0671 %%
 Seeker: Did you go up high to get a line of sight down?
@@ -1121,7 +1121,7 @@ Seeker: Is this a new phenomenon? Do you think it's been that way for a while?
 Delwath: Haven't looked with the right eyes since we've been here, no.
 
 %% u0678 %%
-Kenzo: Tim, do any of us [[still keeping]] when we look out in the valley?
+Kenzo: Tim, do any of us {{still keeping}} when we look out in the valley?
 
 %% u0679 %%
 Seeker: Yes, there...
@@ -1151,10 +1151,10 @@ Seeker: The ley lines, possibly at the dwarven fort.
 DM: If you—so Seeker spends a minute sort of concentrating and doing a little bit of trigonometry in his head. Based on the way that they're crossing here, you would think they would probably cross each other and create a node where the dwarven fort is.
 
 %% u0696 %%
-Seeker: [[Wisdom movie insurance]], they knew where to go and...
+Seeker: {{Wisdom movie insurance}}, they knew where to go and...
 
 %% u0697 %%
-Kenzo: [[You know where the other fort were there.]]
+Kenzo: {{You know where the other fort were there.}}
 
 %% u0698 %%
 Seeker: Funny, I never would have thought while we were over there, but...

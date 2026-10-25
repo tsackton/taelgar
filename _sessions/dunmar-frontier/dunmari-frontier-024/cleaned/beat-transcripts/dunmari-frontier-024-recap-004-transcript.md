@@ -74,7 +74,7 @@ Delwath: That's kind of what I was suggesting, yeah.
 Kenzo: How many days’ ride are we away from Karawa?
 
 %% u1351-u1354 %%
-DM: Karawa’s pretty far. Yeah, it's something like two hundred thirty miles. [[Whoa]], maybe.
+DM: Karawa’s pretty far. Yeah, it's something like two hundred thirty miles. {{Whoa}}, maybe.
 
 %% u1355 %%
 Kenzo: Maybe, yeah, ten days, yeah. I—
@@ -152,7 +152,7 @@ Kenzo: Yeah.
 Delwath: To get there, right? So fine, you can go three miles in an hour pretty easily. I can go three miles an hour, I’m sure.
 
 %% u1402-u1404 %%
-DM: You could go four miles an hour. It's about a mile and a half from where you are. [[To my father.]]
+DM: You could go four miles an hour. It's about a mile and a half from where you are. {{To my father.}}
 
 %% u1405-u1410 %%
 Delwath: We wouldn’t have very much time there, right? Because the three miles will take, let's say, thirty minutes, forty minutes, let's say. So we have twenty minutes there. Flying is another option. Unfortunately, stupid D&D rules mean I can't both fly and be invisible.
@@ -203,7 +203,7 @@ DM: You probably have about fifteen minutes until they get to the monastery, and
 Unknown: Then.
 
 %% u1446 %%
-DM: [[It was what past that]], but—
+DM: {{It was what past that}}, but—
 
 %% u1447-u1448 %%
 Delwath: My impression is our belief was there wasn't a ton of activity in Kharsan. Why did we think we could go? Presumably we weren't crazy to think we could go close to Kharsan. It's not bristling with guards. Is that—
@@ -251,7 +251,7 @@ Kenzo: You know what, I'm game either way. Want to kill some orcs, kill some orc
 Wellby: We can always ride south after we kill the orcs.
 
 %% u1491-u1492 %%
-Seeker: There you go. [[It is, I don't normally to accomplish]]—
+Seeker: There you go. {{It is, I don't normally to accomplish}}—
 
 %% u1493 %%
 Unknown: Everything.
@@ -266,7 +266,7 @@ Unknown: That's.
 Seeker: A clue that does change the situation in an important way, Wellby. That's a great point.
 
 %% u1497-u1499 %%
-Kenzo: We should burn them if we kill them this time. [[This is not so lucky.]] What do you think?
+Kenzo: We should burn them if we kill them this time. {{This is not so lucky.}} What do you think?
 
 %% u1500 %%
 Delwath: Does anyone have an illusion spell?
@@ -323,7 +323,7 @@ Seeker: And then go west, and then come north again.
 Kenzo: To the West.
 
 %% u1520-u1521 %%
-Delwath: [[We go. Please.]]
+Delwath: {{We go. Please.}}
 
 %% u1522 %%
 Unknown: And then we.
@@ -335,7 +335,7 @@ Kenzo: Go south around the cliff and then go north, but up along the cliffs, hav
 Seeker: Yeah.
 
 %% u1526-u1527 %%
-Kenzo: I can do that. [[I know that.]] I like this plan.
+Kenzo: I can do that. {{I know that.}} I like this plan.
 
 %% u1528-u1529 %%
 Seeker: Unfortunately, it makes more sense than most of the things that we've discussed, much as I like the hiding and deception and sending Baxter and everything.
@@ -359,7 +359,7 @@ Wellby: Yes.
 Kenzo: I like that idea.
 
 %% u1537 %%
-DM: All right, [[back to carry their resumes]] is probably a great place to hang glide off.
+DM: All right, {{back to carry their resumes}} is probably a great place to hang glide off.
 
 %% u1538 %%
 Seeker: Just recreationally.
@@ -374,7 +374,7 @@ Seeker: We'll never make it.
 Wellby: All right, so let's flee south and loop around.
 
 %% u1542-u1543 %%
-Seeker: [[The next, your hands in the form of a while, yeah.]]
+Seeker: {{The next, your hands in the form of a while, yeah.}}
 
 %% u1544 %%
 DM: Okay.
@@ -404,7 +404,7 @@ DM: While you’re talking, you are packing up.
 Unknown: Yeah.
 
 %% u1555 %%
-Kenzo: [[There was no mistakes.]]
+Kenzo: {{There was no mistakes.}}
 
 %% u1556-u1559 %%
 DM: Still have about ten minutes till the orcs are likely at the monastery. And after that, you're about a mile south, so even if they discover that you're gone from the monastery and sprint in this direction, you still have, say, thirty minutes before they’ll be at camp.
@@ -431,10 +431,10 @@ Wellby: Is there a way to not leave tracks? I mean, is there rock to go on as op
 DM: Not unless you have a way to get up the cliff.
 
 %% u1568 %%
-Unknown: [[Note.]]
+Unknown: {{Note.}}
 
 %% u1569 %%
-Kenzo: How far south do we have to go before we get to where the cliff turns, where we can kind of turn up on the [[look of it]]?
+Kenzo: How far south do we have to go before we get to where the cliff turns, where we can kind of turn up on the {{look of it}}?
 
 %% u1570-u1571 %%
 DM: That's about twenty miles. It's like a day. If you're riding hard, I would say two-thirds of a day.
@@ -449,7 +449,7 @@ Delwath: I think we want to find out. Our hope is they're not gonna catch up to 
 DM: We're riding south. Now you have about twenty-five minutes before they reach you.
 
 %% u1576-u1577 %%
-Kenzo: [[Read examples myself.]] Or you want to kill them now?
+Kenzo: {{Read examples myself.}} Or you want to kill them now?
 
 %% u1578-u1579 %%
 Delwath: No, I think we ride south fast, and we assume we can outrun them. If they actually are undead and go all night, we're gonna learn something before we kill them. Cool.
@@ -491,7 +491,7 @@ DM: At the moment, you're maybe ten miles south of the road and about three, fou
 Delwath: I think we can camp here.
 
 %% u1630 %%
-Wellby: [[Group.]]
+Wellby: {{Group.}}
 
 %% u1631-u1633 %%
 Delwath: Get up early, just before dawn. We should be able to cover ten—I mean, if we can cover five miles an hour, if we break camp at 7 a.m., we could be at the bridge by eleven easily.

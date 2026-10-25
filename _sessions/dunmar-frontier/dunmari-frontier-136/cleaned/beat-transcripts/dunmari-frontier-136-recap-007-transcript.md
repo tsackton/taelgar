@@ -200,7 +200,7 @@ Wellby: Yeah.
 DM: No, you, like—
 
 %% u5438 %%
-Wellby: It was [[Wizard]] too, right?
+Wellby: It was {{Wizard}} too, right?
 
 %% u5439-u5441 %%
 DM: You managed to make your way almost through the entire giant—stone giant chalyte lair without fighting much.
@@ -419,7 +419,7 @@ Delwath: Wait, what's the deal? Potion's a bonus action?
 DM: Potion's a bonus action.
 
 %% u5534 %%
-Unknown: Are these glasses a [[time piece]]?
+Unknown: Are these glasses a {{time piece}}?
 
 %% u5535 %%
 Kenzo: Potions a bonus... Yeah.
@@ -728,7 +728,7 @@ Wellby: Yeah.
 DM: So I'm gonna actually do green, red, and, like, bluish purple. Perfect.
 
 %% u5698 %%
-Unknown: Is this the [[epithet]] thing?
+Unknown: Is this the {{epithet}} thing?
 
 %% u5699 %%
 DM: No. Which one?
@@ -1073,7 +1073,7 @@ DM: It's pretty good. Yeah.
 Unknown: ... Is actually pretty good every turn.
 
 %% u5840 %%
-Delwath: Plus, it should hopefully be [[off of immune]].
+Delwath: Plus, it should hopefully be {{off of immune}}.
 
 %% u5841 %%
 DM: If you get out two thirds of the minions, that'll make a big difference.
@@ -1463,7 +1463,7 @@ DM: I don't know if there is a gold one.
 Delwath: Like, is there any advantage to actually flying?
 
 %% u6004 %%
-DM: I don't know what that [[outright]] is. There's a little gold on it.
+DM: I don't know what that {{outright}} is. There's a little gold on it.
 
 %% u6005 %%
 Unknown: Yeah.

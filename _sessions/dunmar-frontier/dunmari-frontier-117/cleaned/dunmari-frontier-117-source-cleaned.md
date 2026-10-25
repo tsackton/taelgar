@@ -36,7 +36,7 @@
 [u0036 | 00:02:32.550-00:02:41.010 | DM] Apollyon's tomb, slash temple. Moments ago Apollyon, in a
 [u0037 | 00:02:41.380-00:02:47.299 | DM] fit of rage and hatred against elves unwilling to let one
 [u0038 | 00:02:48.060-00:02:56.330 | DM] survive in his presence, which maybe wasn't as clear as I intended it to be last night, turned to
-[u0039 | 00:02:56.460-00:03:07.350 | DM] Delwath, and commanded him to die, and then fled in the face of [[well laughed]].
+[u0039 | 00:02:56.460-00:03:07.350 | DM] Delwath, and commanded him to die, and then fled in the face of {{well laughed}}.
 [u0040 | 00:03:10.410-00:03:11.380 | Riswynn] Dorm dolphin.
 [u0041 | 00:03:11.790-00:03:12.550 | Riswynn] Yeah.
 [u0042 | 00:03:13.060-00:03:25.230 | DM] Turning into a gray mist, black mist, and disappearing through the floor, leaving you to resuscitate Delwath.
@@ -70,10 +70,10 @@
 [u0070 | 00:06:03.750-00:06:08.289 | Riswynn] Have we actually had a chance to poke around the side chapels and see if there's any stairwells going down.
 [u0071 | 00:06:08.460-00:06:10.010 | Seeker] What did we resurrect?
 [u0072 | 00:06:10.360-00:06:11.490 | Seeker] The elf.
-[u0073 | 00:06:11.490-00:06:13.940 | Riswynn] [[We rather have to]] Delwath, or
+[u0073 | 00:06:11.490-00:06:13.940 | Riswynn] {{We rather have to}} Delwath, or
 [u0074 | 00:06:14.260-00:06:17.270 | Riswynn] Riswynn is offering Cure Wounds if he's.
 [u0075 | 00:06:17.460-00:06:18.350 | Delwath] So.
-[u0076 | 00:06:18.350-00:06:24.019 | Riswynn] [[Rest that brings some sort of restoration]]. I can still top that up with Cure Wounds. Let me know.
+[u0076 | 00:06:18.350-00:06:24.019 | Riswynn] {{Rest that brings some sort of restoration}}. I can still top that up with Cure Wounds. Let me know.
 [u0077 | 00:06:24.860-00:06:31.589 | Delwath] Yeah. So Delwath comes back from the dead, looking quite shaken, not having ever died before.
 [u0078 | 00:06:31.850-00:06:33.259 | Delwath] Unlike some of you.
 [u0079 | 00:06:33.370-00:06:35.729 | Kenzo] It didn't stop 1st time. 1st time's always.
@@ -82,7 +82,7 @@
 [u0082 | 00:06:48.950-00:06:56.719 | Delwath] yeah, he's he just seems sort of a little like distant, like he's still processing.
 [u0083 | 00:06:57.200-00:06:57.810 | Delwath] What?
 [u0084 | 00:06:59.230-00:07:08.030 | Delwath] But he's also badly hurt. The spell you cast, Revivify? Right? So I come back with one hit point but so he immediately starts
-[u0085 | 00:07:08.300-00:07:14.960 | Delwath] right, summoning this sort of [[Denequi]] magic and starts casting this Prayer of Healing, and anybody who stays within 30 feet
+[u0085 | 00:07:08.300-00:07:14.960 | Delwath] right, summoning this sort of {{Denequi}} magic and starts casting this Prayer of Healing, and anybody who stays within 30 feet
 [u0086 | 00:07:15.560-00:07:26.679 | Delwath] of me for the next 10 min. So he's like casting a sort of doing a healing ritual to try and recenter himself after dying, and anybody who stays within 30 feet of me
 [u0087 | 00:07:26.920-00:07:32.590 | Delwath] for the entire, for the next 10 min, gets the benefit of a short rest.
 [u0088 | 00:07:34.100-00:07:36.760 | Kenzo] Oh, yeah, I will do that. I have to get my ki back.
@@ -263,7 +263,7 @@
 [u0263 | 00:20:51.760-00:20:53.310 | DM] where is Roll20.
 [u0264 | 00:21:01.350-00:21:02.920 | DM] Just sent you a message. Schwartz.
 [u0265 | 00:21:05.290-00:21:16.810 | Delwath] Also during the short rest, I mean Delwath is praying. This spell is like a Prayer of Healing. It goes on for 10 min. Usually, when Delwath casts these like religious spells, he's mostly kind of
-[u0266 | 00:21:17.770-00:21:25.189 | Delwath] not very religious about it, like he's asking the [[Denekwai]] spirits that he gets magic from to help.
+[u0266 | 00:21:17.770-00:21:25.189 | Delwath] not very religious about it, like he's asking the {{Denekwai}} spirits that he gets magic from to help.
 [u0267 | 00:21:25.500-00:21:39.879 | Delwath] But it comes across as actually like, we're asking an ally for like, Hey, can you help out with this problem as opposed to prayer, but he's actually, during this prayer for healing like, was praying to
 [u0268 | 00:21:40.560-00:21:49.029 | Delwath] Almerica, the elven god, who you've never heard him pray to before, but like he seems very
 [u0269 | 00:21:50.420-00:21:58.110 | Delwath] sort of lost in some degree of thought, and asking the elvish God for guidance.
@@ -290,8 +290,8 @@
 [u0290 | 00:25:05.530-00:25:13.590 | DM] triumphant rise to power. There is a mural that's unfinished that you know, depicts
 [u0291 | 00:25:14.340-00:25:19.259 | DM] Apollyon, leading his army with the Scepter of Command.
 [u0292 | 00:25:20.152-00:25:27.080 | DM] There's a mural that is mostly finished that depicts Apollyon standing in the
-[u0293 | 00:25:27.480-00:25:40.364 | DM] the large arena, the amphitheater, that you could see when you flew your ship, overflew [[Vendestarna]] over Drankor, raising his hand as
-[u0294 | 00:25:41.480-00:25:46.820 | DM] a few hundred [[paranor]] are executed in a mass execution.
+[u0293 | 00:25:27.480-00:25:40.364 | DM] the large arena, the amphitheater, that you could see when you flew your ship, overflew {{Vendestarna}} over Drankor, raising his hand as
+[u0294 | 00:25:41.480-00:25:46.820 | DM] a few hundred {{paranor}} are executed in a mass execution.
 [u0295 | 00:25:48.480-00:25:55.130 | DM] There are other depictions of Apollyon
 [u0296 | 00:25:55.700-00:26:08.600 | DM] standing above the 8 divines. The 8 divines bowing to him as the temple is, as you know Temple is dismantled, which you know didn't happen, perhaps more aspirational than
 [u0297 | 00:26:09.370-00:26:10.350 | DM] in truth.
@@ -363,7 +363,7 @@
 [u0363 | 00:31:34.890-00:31:41.839 | DM] something being shouted loudly in Drankorian over and over, and over and over and over again.
 [u0364 | 00:31:42.070-00:31:46.009 | DM] It's like shaking its head and having a hard time concentrating.
 [u0365 | 00:31:50.660-00:31:51.430 | Seeker] Hmm.
-[u0366 | 00:31:51.860-00:32:02.250 | Riswynn] That there's a magic effect on the stairs, and [[need to bring paper 26]].
+[u0366 | 00:31:51.860-00:32:02.250 | Riswynn] That there's a magic effect on the stairs, and {{need to bring paper 26}}.
 [u0367 | 00:32:05.050-00:32:07.170 | Wellby] Dispel Magic.
 [u0368 | 00:32:11.840-00:32:12.730 | Riswynn] Good.
 [u0369 | 00:32:17.700-00:32:19.419 | Riswynn] Guess if we have to go through here.
@@ -387,7 +387,7 @@
 [u0387 | 00:33:50.990-00:33:51.949 | DM] Yeah, yeah, okay.
 [u0388 | 00:33:52.520-00:33:57.839 | DM] You think you've managed to dispel whatever the trap is. But the ongoing effect is not ended.
 [u0389 | 00:33:59.490-00:34:00.130 | Riswynn] Yeah.
-[u0390 | 00:34:01.010-00:34:05.839 | Seeker] Does that make sense? It kind of does. It's a condition now. It's not a [[measure]].
+[u0390 | 00:34:01.010-00:34:05.839 | Seeker] Does that make sense? It kind of does. It's a condition now. It's not a {{measure}}.
 [u0391 | 00:34:05.840-00:34:07.819 | Delwath] Yeah, yeah, that makes sense.
 [u0392 | 00:34:08.090-00:34:08.760 | Seeker] All right.
 [u0393 | 00:34:10.590-00:34:11.400 | Seeker] Okay.
@@ -555,7 +555,7 @@
 [u0555 | 00:45:55.830-00:46:00.260 | Seeker] Does that do anything else again? I don't know where the description is of that ability.
 [u0556 | 00:46:03.620-00:46:09.649 | Seeker] It looks like it's just automatically pinpoint the location of anything that is in contact with the ground.
 [u0557 | 00:46:10.000-00:46:14.660 | Delwath] Yeah, it doesn't have to be moving. It's anything that's standing or moving.
-[u0558 | 00:46:15.970-00:46:17.690 | Seeker] [[160]]-foot range.
+[u0558 | 00:46:15.970-00:46:17.690 | Seeker] {{160}}-foot range.
 [u0559 | 00:46:21.290-00:46:22.490 | DM] Yup, nothing, though.
 [u0560 | 00:46:34.380-00:46:40.170 | DM] So you proceed.
 [u0561 | 00:46:40.170-00:46:46.790 | Riswynn] I mean fucking like we're already at foot of the stairs, about to enter this tiny room full of
@@ -640,7 +640,7 @@
 [u0640 | 00:51:39.680-00:51:44.290 | DM] Oh, no! He like shakes it off, and stands up.
 [u0641 | 00:51:44.859-00:51:45.429 | Seeker] Nice.
 [u0642 | 00:51:46.020-00:51:49.350 | DM] And begins walking forward.
-[u0643 | 00:51:52.220-00:51:57.499 | Riswynn] We didn't dispel whatever it was [[to get people together]].
+[u0643 | 00:51:52.220-00:51:57.499 | Riswynn] We didn't dispel whatever it was {{to get people together}}.
 [u0644 | 00:51:58.000-00:51:58.690 | Delwath] Yeah.
 [u0645 | 00:51:59.920-00:52:02.619 | Riswynn] So should I have Dispel Magic?
 [u0646 | 00:52:05.030-00:52:08.810 | Delwath] I mean, do we do we? Can I sense a source of magic here?
@@ -685,7 +685,7 @@
 [u0685 | 00:54:23.830-00:54:25.459 | Delwath] And make a wisdom saving, throw.
 [u0686 | 00:54:26.740-00:54:27.610 | Riswynn] Fine.
 [u0687 | 00:54:37.700-00:54:38.750 | Riswynn] 25.
-[u0688 | 00:54:39.210-00:54:46.580 | Kenzo] 25. Nice, Riswynn is far too committed to the [[Barazal]] to ever worship Apollyon.
+[u0688 | 00:54:39.210-00:54:46.580 | Kenzo] 25. Nice, Riswynn is far too committed to the {{Barazal}} to ever worship Apollyon.
 [u0689 | 00:54:48.460-00:54:52.110 | DM] Steps forward and presents her holy symbol.
 [u0690 | 00:54:53.290-00:54:57.180 | Riswynn] So that's everything within 30 feet.
 [u0691 | 00:54:58.660-00:55:01.220 | DM] Everything, within 30 feet wisdom save.
@@ -903,8 +903,8 @@
 [u0903 | 01:09:41.310-01:09:46.929 | Riswynn] Nice nice shirt, the global center.
 [u0904 | 01:09:47.340-01:09:47.880 | Riswynn] You guys.
 [u0905 | 01:09:47.880-01:09:51.750 | DM] I can't tell what you're sorry. What are you trying to? I can't hear you for some reason.
-[u0906 | 01:09:52.700-01:10:02.160 | Riswynn] My Turn Undead Channel Divinity is to censure the undead [[plans]].
-[u0907 | 01:10:05.170-01:10:08.460 | Riswynn] But I can just [[have more humor]].
+[u0906 | 01:09:52.700-01:10:02.160 | Riswynn] My Turn Undead Channel Divinity is to censure the undead {{plans}}.
+[u0907 | 01:10:05.170-01:10:08.460 | Riswynn] But I can just {{have more humor}}.
 [u0908 | 01:10:16.710-01:10:23.579 | DM] No, I don't think it required. It doesn't say it requires a verbal component, although I don't know censure.
 [u0909 | 01:10:26.380-01:10:30.210 | DM] I guess I guess that's probably a verb. You probably have to say a prayer.
 [u0910 | 01:10:30.470-01:10:31.790 | DM] so you can't do that.
@@ -1225,7 +1225,7 @@
 [u1225 | 01:31:54.460-01:31:55.913 | Kenzo] And then
 [u1226 | 01:31:58.620-01:32:02.630 | Kenzo] I guess I, we already soul-sighted him, so I just don't really need to do that again.
 [u1227 | 01:32:04.240-01:32:07.312 | Kenzo] And well, I guess.
-[u1228 | 01:32:08.940-01:32:12.149 | Kenzo] So I'm just gonna go and [[mimic my parents]].
+[u1228 | 01:32:08.940-01:32:12.149 | Kenzo] So I'm just gonna go and {{mimic my parents}}.
 [u1229 | 01:32:13.242-01:32:18.340 | Kenzo] I'm just gonna see. So is there any advantage to being able to like pull him, or or anything like that.
 [u1230 | 01:32:19.300-01:32:23.150 | Delwath] I don't. I mean getting him closer to us. Can't
 [u1231 | 01:32:23.490-01:32:26.720 | Delwath] I don't think would hurt, but I don't think there's a big advantage.
@@ -1237,11 +1237,11 @@
 [u1237 | 01:32:40.480-01:32:41.670 | Delwath] Give advantage.
 [u1238 | 01:32:42.770-01:32:44.611 | Kenzo] Yeah, not really. I I
 [u1239 | 01:32:45.330-01:32:48.090 | Kenzo] I have 15 foot range. If I want.
-[u1240 | 01:32:48.270-01:32:52.119 | Kenzo] Oh, yeah, you know what I'll do. I'll use [[Langal's Claw]], too.
+[u1240 | 01:32:48.270-01:32:52.119 | Kenzo] Oh, yeah, you know what I'll do. I'll use {{Langal's Claw}}, too.
 [u1241 | 01:32:52.440-01:32:56.490 | DM] I mean. Now is the time to use every single one of your consumables.
 [u1242 | 01:32:56.690-01:33:01.489 | Kenzo] Yeah, I'll use that cause that gives me an extra one d 6 of force damage
 [u1243 | 01:33:02.630-01:33:05.620 | Kenzo] per hit. Right. That's an additional D 6. Right, Tim. Yep.
-[u1244 | 01:33:08.110-01:33:13.189 | Kenzo] Okay. All right. Cool. Yeah. I will activate [[Langau's Claw]].
+[u1244 | 01:33:08.110-01:33:13.189 | Kenzo] Okay. All right. Cool. Yeah. I will activate {{Langau's Claw}}.
 [u1245 | 01:33:14.230-01:33:18.850 | Kenzo] and I will get into melee and attack him. Where is he?
 [u1246 | 01:33:19.960-01:33:22.119 | Kenzo] There he is alright. Boom!
 [u1247 | 01:33:22.710-01:33:28.780 | Kenzo] Kenzo rushes the throne and begins to attack.
@@ -1254,7 +1254,7 @@
 [u1254 | 01:33:48.440-01:33:51.670 | Delwath] Can I also drink my Potion of Invulnerability on my way in?
 [u1255 | 01:33:51.880-01:33:52.620 | DM] Yep.
 [u1256 | 01:33:54.321-01:34:01.280 | Kenzo] Can I also do that really cool, useful thing that's gonna make the battle battle better for me.
-[u1257 | 01:34:02.073-01:34:05.599 | DM] Do you have—I mean, [[Lenga's Claw]]. What else do you have?
+[u1257 | 01:34:02.073-01:34:05.599 | DM] Do you have—I mean, {{Lenga's Claw}}. What else do you have?
 [u1258 | 01:34:06.708-01:34:10.539 | Kenzo] I don't know. I think that's about it.
 [u1259 | 01:34:11.250-01:34:15.879 | Kenzo] Let me see. Hold on! If there's if there's anything on my staff that I can eat.
 [u1260 | 01:34:17.425-01:34:20.790 | Kenzo] I don't hold on. Hold on! Hold on, really quick. Sorry.
@@ -1446,7 +1446,7 @@
 [u1446 | 01:45:45.790-01:45:53.430 | DM] and then, now that you've lost hit points, he will use his villain action to yell at you.
 [u1447 | 01:45:53.670-01:45:55.410 | DM] Die, elf!
 [u1448 | 01:45:57.250-01:45:59.779 | Delwath] I do not die because I'm deathwarded.
-[u1449 | 01:45:59.780-01:46:03.260 | DM] And the [[Barzal]] flash in front of Delwath.
+[u1449 | 01:45:59.780-01:46:03.260 | DM] And the {{Barzal}} flash in front of Delwath.
 [u1450 | 01:46:03.260-01:46:05.469 | Kenzo] Wow! Nice.
 [u1451 | 01:46:06.310-01:46:09.519 | DM] And there is a flash of holy, radiant light.
 [u1452 | 01:46:09.870-01:46:23.750 | DM] The Death Ward goes away, and for the first time Apollyon looks shaken. That ends his turn.
@@ -1590,7 +1590,7 @@
 [u1590 | 01:54:49.620-01:54:53.740 | DM] Oh, there's a Dex save, yeah. Oh, no. He rolled very high.
 [u1591 | 01:54:53.740-01:54:55.020 | Riswynn] Oh no!
 [u1592 | 01:54:55.020-01:55:01.609 | DM] He rolled a 17. So even his plus 2 so it's still half damage.
-[u1593 | 01:55:03.360-01:55:08.789 | Delwath] I'm back to full health, though. That's nice. Thank you. I'm really digging the [[Barzal]] right now.
+[u1593 | 01:55:03.360-01:55:08.789 | Delwath] I'm back to full health, though. That's nice. Thank you. I'm really digging the {{Barzal}} right now.
 [u1594 | 01:55:09.920-01:55:10.890 | Seeker] Amazing.
 [u1595 | 01:55:11.690-01:55:13.999 | DM] So he takes 21 points of damage.
 [u1596 | 01:55:16.080-01:55:19.469 | DM] Okay, that ends Riswynn's turn unless you want to move.
@@ -1763,7 +1763,7 @@
 [u1763 | 02:05:00.210-02:05:06.380 | DM] Kenzo shakes off the humming noise from the pillar that was about to
 [u1764 | 02:05:07.072-02:05:10.929 | DM] force him to make attacks against somebody else.
 [u1765 | 02:05:10.930-02:05:15.180 | Kenzo] Thank God! Thank God! Strong use of Bardic. Seeker, you're on.
-[u1766 | 02:05:15.180-02:05:24.850 | DM] Remember, you cannot cast a spell of level 3 or higher, and you can also not command your construct to do anything, but the ladder still [[are order]].
+[u1766 | 02:05:15.180-02:05:24.850 | DM] Remember, you cannot cast a spell of level 3 or higher, and you can also not command your construct to do anything, but the ladder still {{are order}}.
 [u1767 | 02:05:24.850-02:05:26.800 | Seeker] I can't command the construct.
 [u1768 | 02:05:26.800-02:05:28.959 | Delwath] Because it's an 8th-level spell.
 [u1769 | 02:05:29.170-02:05:31.000 | Delwath] It's yeah. It's paused.
@@ -1798,7 +1798,7 @@
 [u1798 | 02:07:28.548-02:07:32.320 | DM] And then and refreshes his reactions.
 [u1799 | 02:07:35.510-02:07:36.140 | DM] Oh,
 [u1800 | 02:07:36.590-02:07:38.029 | Kenzo] I was able to do that.
-[u1801 | 02:07:38.030-02:07:44.299 | Delwath] He, he used his lair thingy to give himself a [[second way out of magic]].
+[u1801 | 02:07:38.030-02:07:44.299 | Delwath] He, he used his lair thingy to give himself a {{second way out of magic}}.
 [u1802 | 02:07:45.100-02:07:45.990 | Seeker] Yeah.
 [u1803 | 02:07:46.190-02:07:48.240 | Kenzo] How many times do you think? How many times can you do that?
 [u1804 | 02:07:48.430-02:07:49.100 | Delwath] Probably just one.
@@ -1897,7 +1897,7 @@
 [u1897 | 02:12:57.220-02:12:58.330 | DM] DC. 20.
 [u1898 | 02:12:58.580-02:13:04.169 | Delwath] Okay, I will use my my roll. 2D. 4.
 [u1899 | 02:13:04.580-02:13:10.120 | DM] Automatic. Yeah, so Delwath, the spirit begins to fly to Delwath, and
-[u1900 | 02:13:10.531-02:13:21.110 | DM] one of the [[Taunji]] spirits, I forget which one is associated with this ability, but one of the [[taunchy]] gods pops up and wrestles the spirit out of Delwath's way, allowing him to attack.
+[u1900 | 02:13:10.531-02:13:21.110 | DM] one of the {{Taunji}} spirits, I forget which one is associated with this ability, but one of the {{taunchy}} gods pops up and wrestles the spirit out of Delwath's way, allowing him to attack.
 [u1901 | 02:13:22.410-02:13:24.110 | Delwath] I do not have advantage, though right.
 [u1902 | 02:13:24.130-02:13:26.050 | DM] Do not have advantage anymore.
 [u1903 | 02:13:27.200-02:13:29.389 | Delwath] Oh! I crit. I'm smiting him.
@@ -1906,7 +1906,7 @@
 [u1906 | 02:13:32.800-02:13:33.600 | Wellby] Whoa!
 [u1907 | 02:13:34.550-02:13:38.560 | Delwath] So that is, let me figure out my d 8.
 [u1908 | 02:13:38.710-02:13:41.419 | Delwath] So I need to take off a smite.
-[u1909 | 02:13:41.760-02:13:47.900 | Delwath] The [[taunchy]] really don't like him. He should have attacked me, I say, as I like, do.
+[u1909 | 02:13:41.760-02:13:47.900 | Delwath] The {{taunchy}} really don't like him. He should have attacked me, I say, as I like, do.
 [u1910 | 02:13:49.296-02:13:54.834 | Delwath] What is it? It's I should know how much. D 8 this is.
 [u1911 | 02:13:56.920-02:14:02.729 | Delwath] 1d8 plus another 1d8 per level. So that's 6d8. So that's 12d8
 [u1912 | 02:14:02.890-02:14:06.164 | Delwath] plus 2D 8. So
@@ -2043,7 +2043,7 @@
 [u2043 | 02:22:33.110-02:22:36.160 | Wellby] Yeah, yeah, and just trying them
 [u2044 | 02:22:36.290-02:22:38.050 | Wellby] try and draw, draw them up.
 [u2045 | 02:22:38.360-02:22:43.930 | Delwath] I'm fine. I I have. I took a potion of invulnerability. I only take half damage on for literally everything.
-[u2046 | 02:22:44.080-02:22:47.699 | Delwath] And then the [[Barrazole]] healed me 36. I'm like back at full.
+[u2046 | 02:22:44.080-02:22:47.699 | Delwath] And then the {{Barrazole}} healed me 36. I'm like back at full.
 [u2047 | 02:22:48.080-02:22:49.970 | Delwath] You can let him keep killing me.
 [u2048 | 02:22:50.920-02:22:51.680 | Riswynn] Yeah, I'm fine, too.
 [u2049 | 02:22:52.325-02:22:52.970 | Riswynn] Okay.
@@ -2055,7 +2055,7 @@
 [u2055 | 02:23:12.890-02:23:13.650 | DM] Kenzo.
 [u2056 | 02:23:13.650-02:23:16.719 | Wellby] Wait! Wait! Wait! Wait! Wait! Wait! No! No! No! Hold up! Hold up!
 [u2057 | 02:23:16.720-02:23:17.439 | DM] Okay, go ahead.
-[u2058 | 02:23:17.440-02:23:23.269 | Wellby] I'm using the [[scare arrows]], [[scare arrows]]. So I have a plus one. So it's 21.
+[u2058 | 02:23:17.440-02:23:23.269 | Wellby] I'm using the {{scare arrows}}, {{scare arrows}}. So I have a plus one. So it's 21.
 [u2059 | 02:23:23.460-02:23:24.350 | DM] Oh, that hits!
 [u2060 | 02:23:25.157-02:23:27.579 | Seeker] There we go!
 [u2061 | 02:23:27.990-02:23:29.280 | Wellby] All right.
@@ -2465,7 +2465,7 @@
 [u2465 | 02:45:44.040-02:45:47.770 | DM] And you did not hit last time, so you don't have advantage, or wait.
 [u2466 | 02:45:47.930-02:45:49.290 | Wellby] But did you hit last time?
 [u2467 | 02:45:49.290-02:45:50.549 | Kenzo] We did hit it last time.
-[u2468 | 02:45:50.660-02:45:52.779 | Kenzo] Yes, cause he used that, he had the [[scar arrows]].
+[u2468 | 02:45:50.660-02:45:52.779 | Kenzo] Yes, cause he used that, he had the {{scar arrows}}.
 [u2469 | 02:45:52.780-02:45:53.569 | DM] All right, right.
 [u2470 | 02:45:53.855-02:45:55.569 | Kenzo] And then he did hit. Yeah.
 [u2471 | 02:45:56.570-02:45:59.480 | Wellby] Wisdom, saving, throw 17.
@@ -2561,7 +2561,7 @@
 [u2561 | 02:50:48.630-02:50:51.089 | Delwath] Where's Roll20? I'll just roll in.
 [u2562 | 02:50:56.640-02:50:57.680 | Delwath] Hi, guys.
 [u2563 | 02:50:58.865-02:50:59.690 | DM] Yeah.
-[u2564 | 02:51:00.120-02:51:04.599 | DM] [[Crunchy]] leap in front of the bolt of fire
+[u2564 | 02:51:00.120-02:51:04.599 | DM] {{Crunchy}} leap in front of the bolt of fire
 [u2565 | 02:51:05.040-02:51:05.770 | Seeker] Oh, man!
 [u2566 | 02:51:06.260-02:51:08.220 | DM] flashing towards Delwath.
 [u2567 | 02:51:08.660-02:51:15.070 | DM] and he screams in frustration as you can see this red patch on his face growing bigger and bigger.
@@ -2663,13 +2663,13 @@
 [u2663 | 02:57:02.514-02:57:04.090 | Delwath] Sorry. I don't know.
 [u2664 | 02:57:04.920-02:57:06.330 | Riswynn] My technicality.
 [u2665 | 02:57:06.330-02:57:09.920 | Delwath] Technicality. I forgot about my ability.
-[u2666 | 02:57:10.590-02:57:14.070 | DM] So the [[tachi]] comes swooping in. That was.
+[u2666 | 02:57:10.590-02:57:14.070 | DM] So the {{tachi}} comes swooping in. That was.
 [u2667 | 02:57:14.070-02:57:14.460 | Delwath] 8 o'clock.
 [u2668 | 02:57:14.460-02:57:15.090 | Delwath] Fast.
 [u2669 | 02:57:15.090-02:57:19.139 | DM] On the last blast. I'll put all the 15 points of damage exactly.
 [u2670 | 02:57:20.740-02:57:23.680 | DM] The last shot that Delwath fires.
 [u2671 | 02:57:24.453-02:57:25.639 | Delwath] You see.
-[u2672 | 02:57:26.262-02:57:36.266 | DM] The spirits of the [[Tanji]] riding along with this blast of force, and as the, as the
+[u2672 | 02:57:26.262-02:57:36.266 | DM] The spirits of the {{Tanji}} riding along with this blast of force, and as the, as the
 [u2673 | 02:57:37.180-02:57:40.419 | DM] blast hits Apollyon
 [u2674 | 02:57:43.440-02:57:51.100 | DM] He stumbles, and you see, for you hear for a moment the
 [u2675 | 02:57:52.390-02:58:01.289 | DM] The quiet whisper of of wind in the woods and moonlight begins to shine.
@@ -2770,15 +2770,15 @@
 [u2770 | 03:03:20.650-03:03:21.650 | Seeker] Oh!
 [u2771 | 03:03:23.840-03:03:24.899 | Kenzo] Can we use it?
 [u2772 | 03:03:26.720-03:03:29.229 | DM] Somebody could attune to it if they wanted to.
-[u2773 | 03:03:30.810-03:03:32.620 | Kenzo] Does our [[measured stone]] work in here?
-[u2774 | 03:03:33.370-03:03:34.149 | Kenzo] Can we talk to [[Sarah]]?
+[u2773 | 03:03:30.810-03:03:32.620 | Kenzo] Does our {{measured stone}} work in here?
+[u2774 | 03:03:33.370-03:03:34.149 | Kenzo] Can we talk to {{Sarah}}?
 [u2775 | 03:03:34.150-03:03:34.680 | Wellby] Yeah.
-[u2776 | 03:03:34.680-03:03:36.250 | DM] Your [[Methestone]] works. Yep.
-[u2777 | 03:03:36.980-03:03:40.030 | Wellby] What's happening with [[Sarah]]?
+[u2776 | 03:03:34.680-03:03:36.250 | DM] Your {{Methestone}} works. Yep.
+[u2777 | 03:03:36.980-03:03:40.030 | Wellby] What's happening with {{Sarah}}?
 [u2778 | 03:03:40.360-03:03:41.440 | Kenzo] Yeah, let's check in.
-[u2779 | 03:03:41.550-03:03:42.829 | Kenzo] How's, how's [[Tokara]]?
-[u2780 | 03:03:44.270-03:03:45.750 | DM] [[Toka]] is safe.
-[u2781 | 03:03:46.830-03:03:54.580 | DM] She has received scouting reports that the Stoneborn have reached [[Tokra]] and have driven the Chelite assassins out of the city.
+[u2779 | 03:03:41.550-03:03:42.829 | Kenzo] How's, how's {{Tokara}}?
+[u2780 | 03:03:44.270-03:03:45.750 | DM] {{Toka}} is safe.
+[u2781 | 03:03:46.830-03:03:54.580 | DM] She has received scouting reports that the Stoneborn have reached {{Tokra}} and have driven the Chelite assassins out of the city.
 [u2782 | 03:03:56.980-03:04:01.370 | DM] The Chardonians are marching back to Chardon.
 [u2783 | 03:04:03.050-03:04:09.660 | DM] Some splinter group fled to the north and is hiding in the wilderness, but
 [u2784 | 03:04:10.680-03:04:13.670 | DM] at the moment everybody is a bit too.
@@ -2797,7 +2797,7 @@
 [u2797 | 03:05:39.360-03:05:43.630 | Kenzo] there's nothing, nothing, and nothing has occurred that would that would alter that.
 [u2798 | 03:05:44.390-03:05:45.169 | Kenzo] That's fine.
 [u2799 | 03:05:45.170-03:05:50.330 | DM] Riswynn is still attuned to the crown, and still asserting the
-[u2800 | 03:06:00.300-03:06:15.920 | DM] asserting the immorality of chelite, and its [[anti moss numina]] anti-divine feeling, and
+[u2800 | 03:06:00.300-03:06:15.920 | DM] asserting the immorality of chelite, and its {{anti moss numina}} anti-divine feeling, and
 [u2801 | 03:06:16.180-03:06:20.520 | DM] various people within the sort of Chelite bureaucracy are
 [u2802 | 03:06:21.740-03:06:28.950 | DM] strategizing and planning, but nothing, you know, has immediately changed. Within 36 h.
 [u2803 | 03:06:33.890-03:06:35.200 | Delwath] Are we?
@@ -2816,7 +2816,7 @@
 [u2816 | 03:07:51.120-03:07:54.959 | DM] No form of teleportation or plane shift works.
 [u2817 | 03:07:55.650-03:07:56.320 | Seeker] Wow!
 [u2818 | 03:07:59.420-03:08:00.020 | Wellby] Okay.
-[u2819 | 03:08:00.450-03:08:02.329 | Seeker] Can we contact [[Vindestrana]]?
+[u2819 | 03:08:00.450-03:08:02.329 | Seeker] Can we contact {{Vindestrana}}?
 [u2820 | 03:08:02.800-03:08:05.930 | Riswynn] Yeah, I can Sending anybody.
 [u2821 | 03:08:06.450-03:08:07.829 | DM] Yeah sending works.
 [u2822 | 03:08:09.970-03:08:11.119 | Riswynn] Check in on.
@@ -2869,7 +2869,7 @@
 [u2869 | 03:11:48.300-03:11:49.480 | Kenzo] You rest.
 [u2870 | 03:11:49.480-03:11:49.825 | Delwath] Yeah.
 [u2871 | 03:11:51.880-03:11:52.910 | DM] Recover
-[u2872 | 03:11:57.500-03:12:01.510 | DM] in the morning you hear the news from [[Sarah]] that
+[u2872 | 03:11:57.500-03:12:01.510 | DM] in the morning you hear the news from {{Sarah}} that
 [u2873 | 03:12:02.095-03:12:04.224 | DM] she has received word that
 [u2874 | 03:12:05.600-03:12:13.299 | DM] Magistros Midas, the, the ruler of Chardon, at the head of the Chardonian navy,
 [u2875 | 03:12:13.730-03:12:19.420 | DM] has won a great naval victory outside of Darba, and has entered the city.
@@ -2891,7 +2891,7 @@
 [u2891 | 03:13:56.030-03:13:59.300 | DM] pressing in the barriers of the
 [u2892 | 03:13:59.900-03:14:02.769 | DM] prison that hold you here growing thin.
 [u2893 | 03:14:05.740-03:14:14.880 | DM] You hear news that negotiations are continuing between Karnas and Midas.
-[u2894 | 03:14:15.780-03:14:19.839 | DM] but that [[Sura]] has refused to have any part to do with whatever.
+[u2894 | 03:14:15.780-03:14:19.839 | DM] but that {{Sura}} has refused to have any part to do with whatever.
 [u2895 | 03:14:20.070-03:14:23.719 | Riswynn] Karnas may negotiate for whatever.
 [u2896 | 03:14:24.640-03:14:29.200 | DM] Status Darba and Niahar may have with respect to Chardon.
 [u2897 | 03:14:30.110-03:14:32.989 | DM] and the people of Central Dunmar are behind her.
@@ -2904,7 +2904,7 @@
 [u2904 | 03:15:14.330-03:15:18.010 | Riswynn] It's not the people of the pandemic.
 [u2905 | 03:15:18.010-03:15:20.030 | DM] Saying, The
 [u2906 | 03:15:23.030-03:15:26.830 | DM] the god Apollyon, who will return in glory.
-[u2907 | 03:15:28.830-03:15:38.510 | DM] driven out of the city, and in the chaos several [[merchant back]] and
+[u2907 | 03:15:28.830-03:15:38.510 | DM] driven out of the city, and in the chaos several {{merchant back}} and
 [u2908 | 03:15:38.930-03:15:47.640 | DM] convoys with news racing north to the chelite mines near Voltara of the unrest in Chardon destroyed.
 [u2909 | 03:15:47.920-03:15:51.979 | DM] Although messengers got away, and news will soon reach the
 [u2910 | 03:15:54.260-03:15:54.904 | DM] The
@@ -2914,17 +2914,17 @@
 [u2914 | 03:16:27.690-03:16:33.310 | DM] The 30th of May dawns, and you feel crack.
 [u2915 | 03:16:34.430-03:16:39.880 | DM] and then another, and then another, as the prison ends.
 [u2916 | 03:16:51.150-03:16:51.820 | Delwath] Let's
-[u2917 | 03:16:57.350-03:16:58.640 | Delwath] go to [[Vidya, Sharna]].
+[u2917 | 03:16:57.350-03:16:58.640 | Delwath] go to {{Vidya, Sharna}}.
 [u2918 | 03:16:58.640-03:16:58.980 | Wellby] Yeah.
 [u2919 | 03:16:58.980-03:16:59.530 | Delwath] Right.
 [u2920 | 03:16:59.530-03:17:00.120 | Wellby] Let's get out of here.
-[u2921 | 03:17:01.660-03:17:09.690 | DM] A rainbow bridge appears, and you walk to [[Vendrasharna]].
+[u2921 | 03:17:01.660-03:17:09.690 | DM] A rainbow bridge appears, and you walk to {{Vendrasharna}}.
 [u2922 | 03:17:13.440-03:17:17.730 | DM] parked about 5 miles outside of the city, hovering over the river
 [u2923 | 03:17:21.860-03:17:25.139 | DM] as you walk and shift on the Rainbow bridge.
 [u2924 | 03:17:27.115-03:17:29.070 | DM] You see that the red mist
 [u2925 | 03:17:29.260-03:17:32.139 | DM] around this temple is beginning to dissipate.
 [u2926 | 03:17:36.680-03:17:39.220 | DM] The temple itself still stands.
-[u2927 | 03:17:47.870-03:17:58.229 | DM] You arrive on [[Vindisharna]], accept the congratulations and thanks and cheer of your followers.
+[u2927 | 03:17:47.870-03:17:58.229 | DM] You arrive on {{Vindisharna}}, accept the congratulations and thanks and cheer of your followers.
 [u2928 | 03:18:02.790-03:18:09.330 | DM] Faldrick says, Yeah, I think even I wouldn't have gone in after you.
 [u2929 | 03:18:09.690-03:18:11.379 | DM] I'm glad you made it out.
 [u2930 | 03:18:16.190-03:18:18.010 | Riswynn] Glad you kept the ship safe.
@@ -2950,7 +2950,7 @@
 [u2950 | 03:19:29.480-03:19:37.000 | DM] The holy symbol of the dwarvish runes around the.
 [u2951 | 03:19:37.000-03:19:37.530 | Wellby] Well.
 [u2952 | 03:19:37.770-03:19:40.559 | DM] The base of the crown.
-[u2953 | 03:19:42.350-03:19:54.509 | DM] the 7 points for the 7 [[barzelle]] arrayed in a, in a row, each with a different-colored, subtly set but sparkling gemstone
+[u2953 | 03:19:42.350-03:19:54.509 | DM] the 7 points for the 7 {{barzelle}} arrayed in a, in a row, each with a different-colored, subtly set but sparkling gemstone
 [u2954 | 03:19:57.690-03:20:03.359 | DM] running throughout it, motifs of hammers and forges.
 [u2955 | 03:20:04.310-03:20:05.820 | Wellby] That's so cool.
 [u2956 | 03:20:06.150-03:20:10.430 | Riswynn] Oh, just chirping man.
@@ -3146,7 +3146,7 @@
 [u3146 | 03:35:50.060-03:35:51.140 | Wellby] I think.
 [u3147 | 03:35:51.140-03:35:55.340 | DM] So from a Meta point of view, if you keep the crown, you become an Npc.
 [u3148 | 03:35:55.340-03:35:56.080 | Delwath] Yeah.
-[u3149 | 03:35:56.080-03:35:59.759 | DM] You cannot hold the crown and still be a [[cleric]].
+[u3149 | 03:35:56.080-03:35:59.759 | DM] You cannot hold the crown and still be a {{cleric}}.
 [u3150 | 03:35:59.760-03:36:06.289 | Delwath] That's kind of what I meant. We can't keep it as a it's not like something an adventuring party can use right.
 [u3151 | 03:36:06.440-03:36:10.709 | Wellby] Like, I think Delwath struggling with that is like a really interesting story point.
 [u3152 | 03:36:11.370-03:36:20.379 | Wellby] But I also think, like any of us struggling with that like, we'll have that same struggle. But then, I also think, like trying to figure out what to do with it like
@@ -3260,7 +3260,7 @@
 [u3260 | 03:44:36.390-03:44:47.760 | Riswynn] We have just averted the worst case in our time frame, and the next noble quest of like
 [u3261 | 03:44:48.420-03:44:53.800 | Riswynn] some number of months to years of like cleanup of like hench people
 [u3262 | 03:44:54.120-03:44:57.520 | Riswynn] is not the noble quest that this crown must.
-[u3263 | 03:44:57.720-03:45:04.579 | Riswynn] or else [[vanity fail]], like it's just like it'll take us months, or take us 4 months.
+[u3263 | 03:44:57.720-03:45:04.579 | Riswynn] or else {{vanity fail}}, like it's just like it'll take us months, or take us 4 months.
 [u3264 | 03:45:05.560-03:45:09.259 | Delwath] Undervalues the lives of everybody who will die.
 [u3265 | 03:45:12.620-03:45:19.500 | Kenzo] Yeah, but I think we can do it without the crown.
 [u3266 | 03:45:19.890-03:45:20.550 | Wellby] Yeah.
@@ -3342,7 +3342,7 @@
 [u3342 | 03:51:07.790-03:51:11.730 | Delwath] Save all of human civilization.
 [u3343 | 03:51:14.130-03:51:17.329 | Riswynn] Wasn't a wow. But whatever.
 [u3344 | 03:51:17.330-03:51:23.769 | Delwath] Well, no, no, no, no! It was like the vast majority, I mean Hakar was, that was like the circular island that
-[u3345 | 03:51:24.300-03:51:38.649 | Delwath] that we went to in [[Colorado]], and that was the lifeboat for basically all Chardonians, Sambarans, Drankorians, all like a big swath of humanity, right? Millions and millions of people.
+[u3345 | 03:51:24.300-03:51:38.649 | Delwath] that we went to in {{Colorado}}, and that was the lifeboat for basically all Chardonians, Sambarans, Drankorians, all like a big swath of humanity, right? Millions and millions of people.
 [u3346 | 03:51:39.880-03:51:44.699 | Delwath] I I don't think we can dismiss this as evil.
 [u3347 | 03:51:45.210-03:51:47.599 | Wellby] No, I don't think it's you. I.
 [u3348 | 03:51:47.600-03:51:49.869 | Seeker] I don't think it's evil either. I don't think
@@ -3396,9 +3396,9 @@
 [u3396 | 03:55:17.530-03:55:18.490 | DM] No, no, no.
 [u3397 | 03:55:18.490-03:55:22.749 | Riswynn] There's 1 person attuned, but like I'm currently carrying out
 [u3398 | 03:55:22.980-03:55:30.560 | Riswynn] Kenzo's will in Chardon, like I am balancing the like.
-[u3399 | 03:55:30.840-03:55:41.579 | Riswynn] If it, if I don't give it any directions, and it just tries to guess, it's like, Oh, you want everybody to be followers of the [[Bahara Zel]], like, zap. Everybody's like
+[u3399 | 03:55:30.840-03:55:41.579 | Riswynn] If it, if I don't give it any directions, and it just tries to guess, it's like, Oh, you want everybody to be followers of the {{Bahara Zel}}, like, zap. Everybody's like
 [u3400 | 03:55:41.860-03:55:57.289 | Riswynn] vehemently religious like, though if I pay attention I can do other things with it. If I were part of a committee, if I were the Npc. Running this artifact I could
-[u3401 | 03:55:57.400-03:56:12.910 | Riswynn] work with the [[Misti]] of various countries, and whoever we decide is like supposed to guide whatever is the great good this is meant to work in the world that Delwath wants to work, that everybody. But I don't think—I don't know what that need is
+[u3401 | 03:55:57.400-03:56:12.910 | Riswynn] work with the {{Misti}} of various countries, and whoever we decide is like supposed to guide whatever is the great good this is meant to work in the world that Delwath wants to work, that everybody. But I don't think—I don't know what that need is
 [u3402 | 03:56:13.650-03:56:15.690 | Riswynn] like. Make everybody.
 [u3403 | 03:56:15.690-03:56:23.570 | Kenzo] Riswynn's making an interesting proposal, which is to act as an instrument at the behest of a larger democratic order.
 [u3404 | 03:56:23.930-03:56:28.150 | Seeker] Or a secret world government that we install.
@@ -3561,7 +3561,7 @@
 [u3561 | 04:11:14.110-04:11:15.260 | Seeker] Oh!
 [u3562 | 04:11:15.260-04:11:16.320 | Kenzo] Whoa!
 [u3563 | 04:11:16.320-04:11:18.449 | Seeker] Oh, that's an interesting idea!
-[u3564 | 04:11:19.380-04:11:23.120 | DM] Gone. You have to go track him down in [[isn't gay]].
+[u3564 | 04:11:19.380-04:11:23.120 | DM] Gone. You have to go track him down in {{isn't gay}}.
 [u3565 | 04:11:23.900-04:11:27.120 | Kenzo] Well, that's what we're going. That's that's 1 of the side quests we're going to. Anyways.
 [u3566 | 04:11:27.120-04:11:29.690 | DM] Oh, yeah, that's your level. 20 adventure.
 [u3567 | 04:11:30.460-04:11:35.970 | Seeker] Idea, though we better hold on to the Crown until.
@@ -3653,16 +3653,16 @@
 [u3653 | 04:18:21.090-04:18:28.430 | Kenzo] It's still, it's still Riswynn enacting like the will. It's sort of like the 12, the Council, you know. It's like you got, there's still like a larger, a larger body.
 [u3654 | 04:18:29.400-04:18:30.120 | Kenzo] you know.
 [u3655 | 04:18:30.120-04:18:38.799 | DM] If Riswynn does want to take it, an interesting quest from a meta worldbuilding perspective would be to
-[u3656 | 04:18:39.200-04:18:44.050 | DM] [[mess with Thark, Freemore]] orcs.
+[u3656 | 04:18:39.200-04:18:44.050 | DM] {{mess with Thark, Freemore}} orcs.
 [u3657 | 04:18:45.570-04:18:46.279 | Kenzo] May work.
-[u3658 | 04:18:46.950-04:18:49.750 | DM] Into a, into a real [[non]].
+[u3658 | 04:18:46.950-04:18:49.750 | DM] Into a, into a real {{non}}.
 [u3659 | 04:18:49.750-04:18:50.520 | Delwath] Honestly.
 [u3660 | 04:18:50.840-04:18:52.560 | Kenzo] That's pretty cool. That would really.
 [u3661 | 04:18:52.560-04:18:55.299 | Delwath] I mean, if Riswynn came up with that, that would totally sell Delwath.
 [u3662 | 04:18:55.300-04:18:55.950 | Kenzo] That's pretty dope.
 [u3663 | 04:18:55.950-04:19:03.810 | Delwath] If Riswynn was like, Okay, actually, I've thought about it, and I would like to go try to like turn
 [u3664 | 04:19:03.810-04:19:04.540 | Kenzo] The rainbow.
-[u3665 | 04:19:04.540-04:19:08.790 | Delwath] Orcs into the [[main]] orcs, like.
+[u3665 | 04:19:04.540-04:19:08.790 | Delwath] Orcs into the {{main}} orcs, like.
 [u3666 | 04:19:08.790-04:19:09.460 | Kenzo] That's pretty dope.
 [u3667 | 04:19:09.520-04:19:14.559 | Delwath] That's a compelling—that's a something that Riswynn's—Delwath would never feel comfortable, like he's not.
 [u3668 | 04:19:15.240-04:19:22.480 | Delwath] He's not in the right place, like that's Riswynn's quest. Not like—she's all related to the orcs from all the heroics and all the stuff she did, right.

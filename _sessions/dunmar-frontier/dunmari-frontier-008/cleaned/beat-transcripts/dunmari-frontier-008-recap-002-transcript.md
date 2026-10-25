@@ -119,7 +119,7 @@ Unknown: Money.
 Kenzo: What time of day is it?
 
 %% u0656 %%
-DM: [[Your god, for]]...
+DM: {{Your god, for}}...
 
 %% u0657 %%
 Kenzo: Yeah, exactly. I mean, you said it's like noon?
@@ -521,13 +521,13 @@ Seeker: Tastes.
 Riswynn: Go ahead and try, and if you think that it's not obvious, then we can all go.
 
 %% u0886 %%
-Wellby: [[I hoped slightly more moon]]...
+Wellby: {{I hoped slightly more moon}}...
 
 %% u0887 %%
 Delwath: With the...
 
 %% u0888 %%
-Wellby: Rope-cutting action, but [[I'm not that sort of the game]]. I'm not keen. If you're excited to swim up an underground, water-filled tunnel to an unknown danger...
+Wellby: Rope-cutting action, but {{I'm not that sort of the game}}. I'm not keen. If you're excited to swim up an underground, water-filled tunnel to an unknown danger...
 
 %% u0889-u0890 %%
 Delwath: Well, excited is not the right word, but it just seems like the thing to do.

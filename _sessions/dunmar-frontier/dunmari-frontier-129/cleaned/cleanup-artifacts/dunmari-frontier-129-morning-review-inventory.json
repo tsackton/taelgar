@@ -1,0 +1,4138 @@
+{
+  "schemaVersion": 1,
+  "sessionNumber": 129,
+  "preparedPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-source-prepared.md",
+  "preparedSha256": "19aadaf4290c6d0e98c4d9b9bb925ce4f6319e9ce98485d1cfd1abcd3981ba27",
+  "cleanedPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-source-cleaned.md",
+  "cleanedSha256": "fd5c6739a2b6038f15a652009fc8598d2f2fcf23e2c7b50078dbffbef1d8ddc2",
+  "counts": {
+    "materialLines": 23,
+    "incidentalLines": 102,
+    "materialSpans": 23,
+    "incidentalSpans": 102,
+    "materialIssueGroups": 21
+  },
+  "reviewStatus": "pending_morning_review",
+  "humanAcceptance": null,
+  "material": [
+    {
+      "uid": "u0017",
+      "importance": "material",
+      "span": "Iran River Basin",
+      "reason": "Uncertain basin name in travel report; not confirmed by current context or glossary.",
+      "reviewId": "M01",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0017 | 00:01:24.049-00:01:29.919 | DM] who tells him that you are moving quickly across the Iran River Basin.",
+        "before": [
+          "[u0015 | 00:01:14.599-00:01:16.699 | DM] I'm just forgetting all the names here.",
+          "[u0016 | 00:01:17.479-00:01:21.919 | DM] He speaks with Tristan Bright Eyes, the Windcaller who is traveling with you."
+        ],
+        "after": [
+          "[u0018 | 00:01:30.269-00:01:33.889 | DM] And should be arriving in the Chaten Mountains shortly.",
+          "[u0019 | 00:01:34.689-00:01:40.419 | DM] And from everything he's seen, He's never seen a… more…"
+        ]
+      },
+      "cleaned": {
+        "line": "[u0017 | 00:01:24.049-00:01:29.919 | DM] who tells him that you are moving quickly across the [[Iran River Basin]].",
+        "before": [
+          "[u0015 | 00:01:14.599-00:01:16.699 | DM] I'm just forgetting all the names here.",
+          "[u0016 | 00:01:17.479-00:01:21.919 | DM] He speaks with Tristan Brighteyes, the Windcaller who is traveling with you."
+        ],
+        "after": [
+          "[u0018 | 00:01:30.269-00:01:33.889 | DM] And should be arriving in the Chataan Mountains shortly.",
+          "[u0019 | 00:01:34.689-00:01:40.419 | DM] And from everything he's seen, He's never seen a… more…"
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0058",
+      "importance": "material",
+      "span": "Or buyers that they license.",
+      "reason": "Unclear licensed-producer phrase following Windcallers monopoly.",
+      "reviewId": "M02",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0058 | 00:05:18.779-00:05:20.479 | DM] Or buyers that they license.",
+        "before": [
+          "[u0056 | 00:05:09.329-00:05:15.869 | DM] And that, from now on, processed chele light only be Produced.",
+          "[u0057 | 00:05:16.009-00:05:17.179 | DM] By the wind pump."
+        ],
+        "after": [
+          "[u0059 | 00:05:21.309-00:05:26.819 | DM] Anyone found in possession of Chalite without A wind collar license.",
+          "[u0060 | 00:05:27.059-00:05:28.129 | DM] would be exiled."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0058 | 00:05:18.779-00:05:20.479 | DM] [[Or buyers that they license.]]",
+        "before": [
+          "[u0056 | 00:05:09.329-00:05:15.869 | DM] And that, from now on, processed chalyte will only be produced.",
+          "[u0057 | 00:05:16.009-00:05:17.179 | DM] By the Windcallers."
+        ],
+        "after": [
+          "[u0059 | 00:05:21.309-00:05:26.819 | DM] Anyone found in possession of Chalyte without A Windcaller license.",
+          "[u0060 | 00:05:27.059-00:05:28.129 | DM] would be exiled."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0226",
+      "importance": "material",
+      "span": "he is not land",
+      "reason": "Unclear truncated description of the emperor's relation to land.",
+      "reviewId": "M03",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0226 | 00:23:00.400-00:23:04.500 | DM] the absolute divine… he does not own all the land in chart, and he is not land….",
+        "before": [
+          "[u0224 | 00:22:49.300-00:22:50.570 | Kenzo] If it's, ….",
+          "[u0225 | 00:22:50.570-00:22:59.899 | DM] Yeah, I mean, the magistrates likes you guys, he's not trying to downplay you, he's just trying to, you know, explain that he is not…"
+        ],
+        "after": [
+          "[u0227 | 00:23:04.500-00:23:10.430 | Kenzo] What is his estimate… what is his time estimate on, on just when this will start tightening up a little bit more?",
+          "[u0228 | 00:23:10.960-00:23:17.089 | Kenzo] Because we don't have a calendar, so if everybody's down here, just stay up here for, like, a week or two or whatever while we just, like, wait for the politics to play out."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0226 | 00:23:00.400-00:23:04.500 | DM] the absolute divine… he does not own all the land in Chardon, and [[he is not land]]….",
+        "before": [
+          "[u0224 | 00:22:49.300-00:22:50.570 | Kenzo] If it's, ….",
+          "[u0225 | 00:22:50.570-00:22:59.899 | DM] Yeah, I mean, the Magistros likes you guys, he's not trying to downplay you, he's just trying to, you know, explain that he is not…"
+        ],
+        "after": [
+          "[u0227 | 00:23:04.500-00:23:10.430 | Kenzo] What is his estimate… what is his time estimate on, on just when this will start tightening up a little bit more?",
+          "[u0228 | 00:23:10.960-00:23:17.089 | Kenzo] Because we don't have a calendar, so if everybody's down here, just stay up here for, like, a week or two or whatever while we just, like, wait for the politics to play out."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0295",
+      "importance": "material",
+      "span": "Unclear exactly how we use…",
+      "reason": "Unclear land-acquisition explanation.",
+      "reviewId": "M04",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0295 | 00:29:29.300-00:29:34.199 | DM] … Unclear exactly how we use…",
+        "before": [
+          "[u0293 | 00:29:16.370-00:29:21.000 | DM] Low-quality housing. It's, you know, this is like the…",
+          "[u0294 | 00:29:21.130-00:29:28.870 | DM] even worse area. This is, like, the part of the city that doesn't see any benefit from chelite. It's much worse than where Kenzo grew up."
+        ],
+        "after": [
+          "[u0296 | 00:29:34.370-00:29:37.880 | DM] Is getting the land he wants to trade for you, but, …",
+          "[u0297 | 00:29:39.840-00:29:45.819 | DM] I don't think Kenzo has particular moral qualms about however he might go passing it on."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0295 | 00:29:29.300-00:29:34.199 | DM] … [[Unclear exactly how we use…]]",
+        "before": [
+          "[u0293 | 00:29:16.370-00:29:21.000 | DM] Low-quality housing. It's, you know, this is like the…",
+          "[u0294 | 00:29:21.130-00:29:28.870 | DM] even worse area. This is, like, the part of the city that doesn't see any benefit from chalyte. It's much worse than where Kenzo grew up."
+        ],
+        "after": [
+          "[u0296 | 00:29:34.370-00:29:37.880 | DM] [[Is getting the land he wants to trade for you]], but, …",
+          "[u0297 | 00:29:39.840-00:29:45.819 | DM] I don't think Kenzo has particular moral qualms about however he might go passing it on."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0296",
+      "importance": "material",
+      "span": "Is getting the land he wants to trade for you",
+      "reason": "Unclear continuation explaining how the emperor obtains the exchange land.",
+      "reviewId": "M04",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0296 | 00:29:34.370-00:29:37.880 | DM] Is getting the land he wants to trade for you, but, …",
+        "before": [
+          "[u0294 | 00:29:21.130-00:29:28.870 | DM] even worse area. This is, like, the part of the city that doesn't see any benefit from chelite. It's much worse than where Kenzo grew up.",
+          "[u0295 | 00:29:29.300-00:29:34.199 | DM] … Unclear exactly how we use…"
+        ],
+        "after": [
+          "[u0297 | 00:29:39.840-00:29:45.819 | DM] I don't think Kenzo has particular moral qualms about however he might go passing it on.",
+          "[u0298 | 00:29:47.080-00:29:51.710 | Kenzo] I'm sorry, this is, in exchange for… he's getting this land in exchange for what?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u0296 | 00:29:34.370-00:29:37.880 | DM] [[Is getting the land he wants to trade for you]], but, …",
+        "before": [
+          "[u0294 | 00:29:21.130-00:29:28.870 | DM] even worse area. This is, like, the part of the city that doesn't see any benefit from chalyte. It's much worse than where Kenzo grew up.",
+          "[u0295 | 00:29:29.300-00:29:34.199 | DM] … [[Unclear exactly how we use…]]"
+        ],
+        "after": [
+          "[u0297 | 00:29:39.840-00:29:45.819 | DM] I don't think Kenzo has particular moral qualms about however he might go passing it on.",
+          "[u0298 | 00:29:47.080-00:29:51.710 | Kenzo] I'm sorry, this is, in exchange for… he's getting this land in exchange for what?"
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0342",
+      "importance": "material",
+      "span": "Natural capabilities",
+      "reason": "Uncertain intended word for capabilities replacing refinery workers.",
+      "reviewId": "M05",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0342 | 00:33:36.820-00:33:39.859 | DM] Natural capabilities that are taking over the whole thing, you know?",
+        "before": [
+          "[u0340 | 00:33:21.790-00:33:30.779 | Wellby] I think so, but, like, that's where the labor organizing side of it comes through. Like, if they decide to do that, and labor's really well organized, then they can just stop working.",
+          "[u0341 | 00:33:32.360-00:33:36.680 | Kenzo] But what about all of the, AI, you know, daylight?"
+        ],
+        "after": [
+          "[u0343 | 00:33:41.960-00:33:44.930 | Seeker] Right, the workers get replaced by Chile.",
+          "[u0344 | 00:33:45.080-00:33:46.560 | Seeker] Zombies, yeah, exactly."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0342 | 00:33:36.820-00:33:39.859 | DM] [[Natural capabilities]] that are taking over the whole thing, you know?",
+        "before": [
+          "[u0340 | 00:33:21.790-00:33:30.779 | Wellby] I think so, but, like, that's where the labor organizing side of it comes through. Like, if they decide to do that, and labor's really well organized, then they can just stop working.",
+          "[u0341 | 00:33:32.360-00:33:36.680 | Kenzo] But what about all of the, AI, you know, chalyte?"
+        ],
+        "after": [
+          "[u0343 | 00:33:41.960-00:33:44.930 | Seeker] Right, the workers get replaced by Chalyte.",
+          "[u0344 | 00:33:45.080-00:33:46.560 | Seeker] Zombies, yeah, exactly."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0620",
+      "importance": "material",
+      "span": "inside place",
+      "reason": "Unclear destination for Kenzo's promised training.",
+      "reviewId": "M06",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0620 | 00:58:13.300-00:58:17.039 | Kenzo] And then he's gonna go to the inside place and work with that dude that he said he was gonna train.",
+        "before": [
+          "[u0618 | 00:57:58.060-00:58:05.470 | DM] Right, most of this land is… is slums right now. It's like slum apartments. Or it's rubble, because it was destroyed in the fighting.",
+          "[u0619 | 00:58:05.470-00:58:12.669 | Kenzo] Yeah. Kenzo, the first, like, bunch of years of his retirement, is gonna come here, and he's just gonna live here, and make this awesome. That's what he's gonna do."
+        ],
+        "after": [
+          "[u0621 | 00:58:17.040-00:58:19.310 | DM] Whoa, you gotta do that. He's gotta….",
+          "[u0622 | 00:58:19.350-00:58:24.879 | Kenzo] he's gonna come looking for you if you don't do something in, like, 6 to 10 months. Yeah, that's gonna happen."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0620 | 00:58:13.300-00:58:17.039 | Kenzo] And then he's gonna go to the [[inside place]] and work with that dude that he said he was gonna train.",
+        "before": [
+          "[u0618 | 00:57:58.060-00:58:05.470 | DM] Right, most of this land is… is slums right now. It's like slum apartments. Or it's rubble, because it was destroyed in the fighting.",
+          "[u0619 | 00:58:05.470-00:58:12.669 | Kenzo] Yeah. Kenzo, the first, like, bunch of years of his retirement, is gonna come here, and he's just gonna live here, and make this awesome. That's what he's gonna do."
+        ],
+        "after": [
+          "[u0621 | 00:58:17.040-00:58:19.310 | DM] Whoa, you gotta do that. He's gotta….",
+          "[u0622 | 00:58:19.350-00:58:24.879 | Kenzo] he's gonna come looking for you if you don't do something in, like, 6 to 10 months. Yeah, that's gonna happen."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0644",
+      "importance": "material",
+      "span": "University of Bend",
+      "reason": "Uncertain institution named in research plan.",
+      "reviewId": "M07",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0644 | 01:00:21.310-01:00:25.289 | Wellby] talk to people at the University of Bend, or find maps of….",
+        "before": [
+          "[u0642 | 01:00:14.630-01:00:17.639 | Wellby] You understand, like, what are we gonna find there?",
+          "[u0643 | 01:00:18.280-01:00:20.759 | Wellby] So, trying to research any of that, or…"
+        ],
+        "after": [
+          "[u0645 | 01:00:25.290-01:00:27.650 | Seeker] how to get around, but….",
+          "[u0646 | 01:00:27.650-01:00:28.140 | Wellby] just what."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0644 | 01:00:21.310-01:00:25.289 | Wellby] talk to people at the [[University of Bend]], or find maps of….",
+        "before": [
+          "[u0642 | 01:00:14.630-01:00:17.639 | Wellby] You understand, like, what are we gonna find there?",
+          "[u0643 | 01:00:18.280-01:00:20.759 | Wellby] So, trying to research any of that, or…"
+        ],
+        "after": [
+          "[u0645 | 01:00:25.290-01:00:27.650 | Seeker] how to get around, but….",
+          "[u0646 | 01:00:27.650-01:00:28.140 | Wellby] just what."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0689",
+      "importance": "material",
+      "span": "chart and Kenzo",
+      "reason": "Unclear conjunction/preposition connecting the board, Chardon, and Kenzo.",
+      "reviewId": "M08",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0689 | 01:05:30.630-01:05:37.160 | DM] a lot of conversation between the board and chart and Kenzo about Invest, you know, essentially.",
+        "before": [
+          "[u0687 | 01:05:12.550-01:05:19.290 | DM] you know, are seeming to calm down a little. Kenza's pretty happy with the state of the negotiations here.",
+          "[u0688 | 01:05:19.410-01:05:29.830 | DM] … the… boards, the board of the refining Corporation has been appointed, and there's been negotiations about investments, and…"
+        ],
+        "after": [
+          "[u0690 | 01:05:37.850-01:05:42.569 | DM] Buying back some of the properties that you now technically own, and using the…",
+          "[u0691 | 01:05:43.280-01:05:49.360 | DM] Proceeds, rather than giving you wealth to Rebuild a bunch of apartments."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0689 | 01:05:30.630-01:05:37.160 | DM] a lot of conversation between the board and [[chart and Kenzo]] about Invest, you know, essentially.",
+        "before": [
+          "[u0687 | 01:05:12.550-01:05:19.290 | DM] you know, are seeming to calm down a little. Kenzo's pretty happy with the state of the negotiations here.",
+          "[u0688 | 01:05:19.410-01:05:29.830 | DM] … the… boards, the board of the refining Corporation has been appointed, and there's been negotiations about investments, and…"
+        ],
+        "after": [
+          "[u0690 | 01:05:37.850-01:05:42.569 | DM] Buying back some of the properties that you now technically own, and using the…",
+          "[u0691 | 01:05:43.280-01:05:49.360 | DM] Proceeds, rather than giving you wealth to Rebuild a bunch of apartments."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0830",
+      "importance": "material",
+      "span": "Plaguands",
+      "reason": "Unclear intended subject of pace estimate; Plaguelands does not fit semantically.",
+      "reviewId": "M09",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0830 | 01:18:48.380-01:18:52.600 | DM] It's difficult to get reliable estimates of the Plaguands.",
+        "before": [
+          "[u0828 | 01:18:31.210-01:18:37.550 | Delwath] … At current pace, it'll be 5 more days until we arrive.",
+          "[u0829 | 01:18:44.990-01:18:47.770 | DM] I… I hope that isn't time."
+        ],
+        "after": [
+          "[u0831 | 01:18:53.710-01:18:54.840 | DM] Pace.",
+          "[u0832 | 01:18:55.640-01:18:58.670 | DM] But the last Scouts that I heard of, anyway."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0830 | 01:18:48.380-01:18:52.600 | DM] It's difficult to get reliable estimates of the [[Plaguands]].",
+        "before": [
+          "[u0828 | 01:18:31.210-01:18:37.550 | Delwath] … At current pace, it'll be 5 more days until we arrive.",
+          "[u0829 | 01:18:44.990-01:18:47.770 | DM] I… I hope that is in time."
+        ],
+        "after": [
+          "[u0831 | 01:18:53.710-01:18:54.840 | DM] Pace.",
+          "[u0832 | 01:18:55.640-01:18:58.670 | DM] But the last Scouts that I heard of, anyway."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1029",
+      "importance": "material",
+      "span": "Kit, Eric, and I, both Kit,",
+      "reason": "Unclear list before Seeker and Delwath temporary-hit-point recipients.",
+      "reviewId": "M10",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1029 | 01:32:17.030-01:32:23.840 | Seeker] We rested in our sanctum, right? Kit, Eric, and I, both Kit, Seeker, and Delwith both get our 85 temporary hit points?",
+        "before": [
+          "[u1027 | 01:32:11.540-01:32:15.539 | DM] The odds of you actually dying from a mishap are really low.",
+          "[u1028 | 01:32:15.840-01:32:16.870 | Seeker] Really low, yeah."
+        ],
+        "after": [
+          "[u1030 | 01:32:24.590-01:32:25.450 | DM] Sure.",
+          "[u1031 | 01:32:26.280-01:32:27.510 | Seeker] Nice, nice."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1029 | 01:32:17.030-01:32:23.840 | Seeker] We rested in our sanctum, right? [[Kit, Eric, and I, both Kit,]] Seeker, and Delwath both get our 85 temporary hit points?",
+        "before": [
+          "[u1027 | 01:32:11.540-01:32:15.539 | DM] The odds of you actually dying from a mishap are really low.",
+          "[u1028 | 01:32:15.840-01:32:16.870 | Seeker] Really low, yeah."
+        ],
+        "after": [
+          "[u1030 | 01:32:24.590-01:32:25.450 | DM] Sure.",
+          "[u1031 | 01:32:26.280-01:32:27.510 | Seeker] Nice, nice."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1119",
+      "importance": "material",
+      "span": "teleportation planeship projects",
+      "reason": "Unclear quoted description of intended teleportation/plane-shifting function.",
+      "reviewId": "M11",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1119 | 01:37:41.850-01:38:00.719 | DM] There's a note, the intention is to allow some teleportation planeship projects, but not create a mechanism to, e.g, teleport an army by opening a bridge, flying Vinjasharna elsewhere, and having thousands of people walk across the bridge. I haven't quite figured out the right mechanical way to limit, but want to be careful.",
+        "before": [
+          "[u1117 | 01:37:33.860-01:37:38.060 | DM] But the ends cannot move once it's been created.",
+          "[u1118 | 01:37:39.640-01:37:41.570 | DM] But also remember that"
+        ],
+        "after": [
+          "[u1120 | 01:38:01.110-01:38:04.829 | Delwath] We won't try and dogboard an army with the Rainbow Bridge.",
+          "[u1121 | 01:38:04.830-01:38:14.170 | Seeker] There's some kind of, like, unknown, but clearly limited, like, load-bearing capacity where you just… everyone falls through if there's too many people on it, or something."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1119 | 01:37:41.850-01:38:00.719 | DM] There's a note, the intention is to allow some [[teleportation planeship projects]], but not create a mechanism to, e.g, teleport an army by opening a bridge, flying Vindristjarna elsewhere, and having thousands of people walk across the bridge. I haven't quite figured out the right mechanical way to limit, but want to be careful.",
+        "before": [
+          "[u1117 | 01:37:33.860-01:37:38.060 | DM] But the ends cannot move once it's been created.",
+          "[u1118 | 01:37:39.640-01:37:41.570 | DM] But also remember that"
+        ],
+        "after": [
+          "[u1120 | 01:38:01.110-01:38:04.829 | Delwath] We won't try and teleport an army with the Rainbow Bridge.",
+          "[u1121 | 01:38:04.830-01:38:14.170 | Seeker] There's some kind of, like, unknown, but clearly limited, like, load-bearing capacity where you just… everyone falls through if there's too many people on it, or something."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1214",
+      "importance": "material",
+      "span": "we crossed",
+      "reason": "Uncertain pronoun: discussion concerns the army's reported river crossing.",
+      "reviewId": "M12",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1214 | 01:44:17.610-01:44:19.600 | DM] We know we crossed the Istaros.",
+        "before": [
+          "[u1212 | 01:44:11.760-01:44:14.470 | DM] Could be aiming for anywhere.",
+          "[u1213 | 01:44:17.180-01:44:17.610 | Seeker] Oh, so…."
+        ],
+        "after": [
+          "[u1215 | 01:44:21.180-01:44:25.450 | Seeker] There's a route up onto the plateau, Like a road.",
+          "[u1216 | 01:44:27.720-01:44:29.860 | DM] It's not… many."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1214 | 01:44:17.610-01:44:19.600 | DM] We know [[we crossed]] the Istaros.",
+        "before": [
+          "[u1212 | 01:44:11.760-01:44:14.470 | DM] Could be aiming for anywhere.",
+          "[u1213 | 01:44:17.180-01:44:17.610 | Seeker] Oh, so…."
+        ],
+        "after": [
+          "[u1215 | 01:44:21.180-01:44:25.450 | Seeker] There's a route up onto the plateau, Like a road.",
+          "[u1216 | 01:44:27.720-01:44:29.860 | DM] It's not… many."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1276",
+      "importance": "material",
+      "span": "DORA",
+      "reason": "Uncertain river name marking the boundary of safer territory.",
+      "reviewId": "M13",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1276 | 01:48:51.400-01:48:57.580 | DM] Hardly anyone goes beyond the course of the DORA, and that's… 40 miles from here.",
+        "before": [
+          "[u1274 | 01:48:35.730-01:48:38.280 | Delwath] No Man's Land, it's the edge of the Plaguelands.",
+          "[u1275 | 01:48:40.930-01:48:49.960 | DM] Oh, that, that's… That's not far, that's… … …"
+        ],
+        "after": [
+          "[u1277 | 01:48:59.900-01:49:01.110 | DM] Give or take.",
+          "[u1278 | 01:49:02.730-01:49:08.610 | DM] It's a hard river to cross, runs through a gorge for a good portion of its course, and…"
+        ]
+      },
+      "cleaned": {
+        "line": "[u1276 | 01:48:51.400-01:48:57.580 | DM] Hardly anyone goes beyond the course of the [[DORA]], and that's… 40 miles from here.",
+        "before": [
+          "[u1274 | 01:48:35.730-01:48:38.280 | Delwath] No Man's Land, it's the edge of the Plaguelands.",
+          "[u1275 | 01:48:40.930-01:48:49.960 | DM] Oh, that, that's… That's not far, that's… … …"
+        ],
+        "after": [
+          "[u1277 | 01:48:59.900-01:49:01.110 | DM] Give or take.",
+          "[u1278 | 01:49:02.730-01:49:08.610 | DM] It's a hard river to cross, runs through a gorge for a good portion of its course, and…"
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1406",
+      "importance": "material",
+      "span": "white",
+      "reason": "Unclear intended description of the hobgoblins in speculation about refugees.",
+      "reviewId": "M14",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1406 | 01:58:17.600-01:58:19.100 | Seeker] But they could be white, then.",
+        "before": [
+          "[u1404 | 01:58:12.220-01:58:15.410 | Seeker] Magical rainbow hobgoblins that are the peaceful kind.",
+          "[u1405 | 01:58:15.410-01:58:16.900 | Delwath] No, those are the orcs. They just…."
+        ],
+        "after": [
+          "[u1407 | 01:58:19.100-01:58:29.439 | Delwath] Yeah, yeah, I see what you mean. Like, like, the same kind. Or, they could be terrified of a giant creature that has awoken and doesn't really care that they're hobgoblins and is still trying to eat them.",
+          "[u1408 | 01:58:30.160-01:58:34.049 | Seeker] And in some cases, the enemy of our enemy is also our enemy, so we should be careful."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1406 | 01:58:17.600-01:58:19.100 | Seeker] But they could be [[white]], then.",
+        "before": [
+          "[u1404 | 01:58:12.220-01:58:15.410 | Seeker] Magical rainbow hobgoblins that are the peaceful kind.",
+          "[u1405 | 01:58:15.410-01:58:16.900 | Delwath] No, those are the orcs. They just…."
+        ],
+        "after": [
+          "[u1407 | 01:58:19.100-01:58:29.439 | Delwath] Yeah, yeah, I see what you mean. Like, like, the same kind. Or, they could be terrified of a giant creature that has awoken and doesn't really care that they're hobgoblins and is still trying to eat them.",
+          "[u1408 | 01:58:30.160-01:58:34.049 | Seeker] And in some cases, the enemy of our enemy is also our enemy, so we should be careful."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1667",
+      "importance": "material",
+      "span": "Vincent's size",
+      "reason": "Unclear size comparison for the ash cloud.",
+      "reviewId": "M15",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1667 | 02:22:10.880-02:22:19.290 | DM] … 100 and, like, 250 feet long, something like that. Like, it's like Vincent's size, the ash cloud.",
+        "before": [
+          "[u1665 | 02:21:49.510-02:21:57.970 | DM] 400 or 500 feet long, maybe two, three hundred… probably a little bigger than that. It's like… …",
+          "[u1666 | 02:22:00.070-02:22:07.320 | DM] No, it's probably more like a hundred… and 20… feet wide, and…"
+        ],
+        "after": [
+          "[u1668 | 02:22:20.130-02:22:20.970 | DM] …",
+          "[u1669 | 02:22:24.040-02:22:31.020 | DM] As you approach… … You also begin to smell this… Dench."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1667 | 02:22:10.880-02:22:19.290 | DM] … 100 and, like, 250 feet long, something like that. Like, it's like [[Vincent's size]], the ash cloud.",
+        "before": [
+          "[u1665 | 02:21:49.510-02:21:57.970 | DM] 400 or 500 feet long, maybe two, three hundred… probably a little bigger than that. It's like… …",
+          "[u1666 | 02:22:00.070-02:22:07.320 | DM] No, it's probably more like a hundred… and 20… feet wide, and…"
+        ],
+        "after": [
+          "[u1668 | 02:22:20.130-02:22:20.970 | DM] …",
+          "[u1669 | 02:22:24.040-02:22:31.020 | DM] As you approach… … You also begin to smell this… Stench."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1719",
+      "importance": "material",
+      "span": "That must be transport into their mind.",
+      "reason": "Unclear explanation of retained Beast Sense ability.",
+      "reviewId": "M16",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1719 | 02:26:09.290-02:26:11.820 | DM] That must be transport into their mind.",
+        "before": [
+          "[u1717 | 02:26:06.690-02:26:07.290 | Wellby] Thank you.",
+          "[u1718 | 02:26:07.290-02:26:09.110 | DM] Beast Sense ability."
+        ],
+        "after": [
+          "[u1720 | 02:26:21.820-02:26:24.150 | Wellby] I don't know, in that case, why don't I…",
+          "[u1721 | 02:26:28.970-02:26:32.640 | Wellby] If I use the be sensible, I stop being invisible."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1719 | 02:26:09.290-02:26:11.820 | DM] [[That must be transport into their mind.]]",
+        "before": [
+          "[u1717 | 02:26:06.690-02:26:07.290 | Wellby] Thank you.",
+          "[u1718 | 02:26:07.290-02:26:09.110 | DM] Beast Sense ability."
+        ],
+        "after": [
+          "[u1720 | 02:26:21.820-02:26:24.150 | Wellby] I don't know, in that case, why don't I…",
+          "[u1721 | 02:26:28.970-02:26:32.640 | Wellby] If I use the Beast Sense ability, I stop being invisible."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2079",
+      "importance": "material",
+      "span": "must exceed most of them",
+      "reason": "Garbled quotation of Sleep spell resolution; no exact save wording recoverable here.",
+      "reviewId": "M17",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2079 | 02:52:19.610-02:52:25.120 | Delwath] Each creature of your choice in a 5-foot radius sphere centered in a point within range must exceed most of them.",
+        "before": [
+          "[u2077 | 02:52:14.750-02:52:15.750 | DM] I don't know.",
+          "[u2078 | 02:52:16.130-02:52:17.299 | Delwath] I'm just looking."
+        ],
+        "after": [
+          "[u2080 | 02:52:25.570-02:52:26.290 | Delwath] Now.",
+          "[u2081 | 02:52:29.820-02:52:35.000 | Delwath] And it's a 5-foot radius, so I could do… I mean, should I do everybody within a 5-foot radius?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u2079 | 02:52:19.610-02:52:25.120 | Delwath] Each creature of your choice in a 5-foot radius sphere centered in a point within range [[must exceed most of them]].",
+        "before": [
+          "[u2077 | 02:52:14.750-02:52:15.750 | DM] I don't know.",
+          "[u2078 | 02:52:16.130-02:52:17.299 | Delwath] I'm just looking."
+        ],
+        "after": [
+          "[u2080 | 02:52:25.570-02:52:26.290 | Delwath] Now.",
+          "[u2081 | 02:52:29.820-02:52:35.000 | Delwath] And it's a 5-foot radius, so I could do… I mean, should I do everybody within a 5-foot radius?"
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2188",
+      "importance": "material",
+      "span": "Can possibly do with stealth is 27.",
+      "reason": "Missing beginning makes the stealth minimum/maximum unclear.",
+      "reviewId": "M18",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2188 | 02:58:16.240-02:58:18.409 | Wellby] Can possibly do with stealth is 27.",
+        "before": [
+          "[u2186 | 02:58:11.980-02:58:14.749 | Kenzo] Oh, then I go fucking merge into a rock or something.",
+          "[u2187 | 02:58:14.750-02:58:15.600 | Delwath] But we're hitting it, though."
+        ],
+        "after": [
+          "[u2189 | 02:58:18.410-02:58:23.400 | Delwath] That's true. No, you know what? Welby will be hidden. Yeah. I'll be… Welby is hidden.",
+          "[u2190 | 02:58:23.400-02:58:26.279 | DM] Well, he hides behind some rocks."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2188 | 02:58:16.240-02:58:18.409 | Wellby] [[Can possibly do with stealth is 27.]]",
+        "before": [
+          "[u2186 | 02:58:11.980-02:58:14.749 | Kenzo] Oh, then I go fucking merge into a rock or something.",
+          "[u2187 | 02:58:14.750-02:58:15.600 | Delwath] But we're hidden, though."
+        ],
+        "after": [
+          "[u2189 | 02:58:18.410-02:58:23.400 | Delwath] That's true. No, you know what? Wellby will be hidden. Yeah. I'll be… Wellby is hidden.",
+          "[u2190 | 02:58:23.400-02:58:26.279 | DM] Well, he hides behind some rocks."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2206",
+      "importance": "material",
+      "span": "Spell the CM.",
+      "reason": "Unclear assertion about Soul Sight targeting/visibility requirement.",
+      "reviewId": "M19",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2206 | 02:59:05.120-02:59:06.090 | Kenzo] Spell the CM.",
+        "before": [
+          "[u2204 | 02:59:02.000-02:59:02.420 | Kenzo] Salsa.",
+          "[u2205 | 02:59:02.420-02:59:04.800 | DM] What's the range in SoulSight?"
+        ],
+        "after": [
+          "[u2207 | 02:59:07.530-02:59:10.040 | DM] No, I mean… It has a range.",
+          "[u2208 | 02:59:11.020-02:59:12.009 | Kenzo] Let's see…."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2206 | 02:59:05.120-02:59:06.090 | Kenzo] [[Spell the CM.]]",
+        "before": [
+          "[u2204 | 02:59:02.000-02:59:02.420 | Kenzo] Soul Sight.",
+          "[u2205 | 02:59:02.420-02:59:04.800 | DM] What's the range in SoulSight?"
+        ],
+        "after": [
+          "[u2207 | 02:59:07.530-02:59:10.040 | DM] No, I mean… It has a range.",
+          "[u2208 | 02:59:11.020-02:59:12.009 | Kenzo] Let's see…."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2395",
+      "importance": "material",
+      "span": "Kind of still astral planning.",
+      "reason": "Unclear character/state assertion during the escape plan.",
+      "reviewId": "M20",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2395 | 03:10:49.630-03:10:51.070 | Kenzo] Kind of still astral planning.",
+        "before": [
+          "[u2393 | 03:10:42.980-03:10:43.770 | DM] Okay.",
+          "[u2394 | 03:10:44.100-03:10:47.679 | DM] So you all briefly flash visible."
+        ],
+        "after": [
+          "[u2396 | 03:10:51.330-03:10:54.070 | Delwath] We're still hidden. We're, like, hidden behind rocks.",
+          "[u2397 | 03:10:54.380-03:10:55.130 | DM] Yup."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2395 | 03:10:49.630-03:10:51.070 | Kenzo] [[Kind of still astral planning.]]",
+        "before": [
+          "[u2393 | 03:10:42.980-03:10:43.770 | DM] Okay.",
+          "[u2394 | 03:10:44.100-03:10:47.679 | DM] So you all briefly flash visible."
+        ],
+        "after": [
+          "[u2396 | 03:10:51.330-03:10:54.070 | Delwath] We're still hidden. We're, like, hidden behind rocks.",
+          "[u2397 | 03:10:54.380-03:10:55.130 | DM] Yup."
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2583",
+      "importance": "material",
+      "span": "We do not.",
+      "reason": "Unfinished hobgoblin statement before a separate speaker interrupts.",
+      "reviewId": "M21",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2583 | 03:23:36.770-03:23:38.060 | DM] We do not.",
+        "before": [
+          "[u2581 | 03:23:26.830-03:23:33.459 | Kenzo] I think we'd be really scared to learn… share stories about that ooze. That ooze sounds really scary.",
+          "[u2582 | 03:23:33.730-03:23:36.230 | Wellby] Yeah, I'm so scared I can't even ask a question."
+        ],
+        "after": [
+          "[u2584 | 03:23:38.060-03:23:38.769 | Delwath] I do need to know….",
+          "[u2585 | 03:23:38.770-03:23:39.870 | DM] near that city."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2583 | 03:23:36.770-03:23:38.060 | DM] [[We do not.]]",
+        "before": [
+          "[u2581 | 03:23:26.830-03:23:33.459 | Kenzo] I think we'd be really scared to learn… share stories about that ooze. That ooze sounds really scary.",
+          "[u2582 | 03:23:33.730-03:23:36.230 | Wellby] Yeah, I'm so scared I can't even ask a question."
+        ],
+        "after": [
+          "[u2584 | 03:23:38.060-03:23:38.769 | Delwath] I do need to know….",
+          "[u2585 | 03:23:38.770-03:23:39.870 | DM] [[near that city.]]"
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2585",
+      "importance": "material",
+      "span": "near that city.",
+      "reason": "Continuation lacks verb/action; likely refers to Isingue but exact claim is unclear.",
+      "reviewId": "M21",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2585 | 03:23:38.770-03:23:39.870 | DM] near that city.",
+        "before": [
+          "[u2583 | 03:23:36.770-03:23:38.060 | DM] We do not.",
+          "[u2584 | 03:23:38.060-03:23:38.769 | Delwath] I do need to know…."
+        ],
+        "after": [
+          "[u2586 | 03:23:40.600-03:23:44.850 | DM] But… Once the Empress of Chaos.",
+          "[u2587 | 03:23:45.980-03:23:49.399 | DM] takes control of the magic. We will control everything!"
+        ]
+      },
+      "cleaned": {
+        "line": "[u2585 | 03:23:38.770-03:23:39.870 | DM] [[near that city.]]",
+        "before": [
+          "[u2583 | 03:23:36.770-03:23:38.060 | DM] [[We do not.]]",
+          "[u2584 | 03:23:38.060-03:23:38.769 | Delwath] I do need to know…."
+        ],
+        "after": [
+          "[u2586 | 03:23:40.600-03:23:44.850 | DM] But… Once the Empress of Chaos.",
+          "[u2587 | 03:23:45.980-03:23:49.399 | DM] takes control of the magic. We will control everything!"
+        ]
+      },
+      "question": "What was intended by the flagged wording?",
+      "decision": null,
+      "accepted": false
+    }
+  ],
+  "incidental": [
+    {
+      "uid": "u0001",
+      "importance": "incidental",
+      "span": "get….",
+      "reason": "Cut-off opening table fragment.",
+      "reviewId": "I001",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0001 | 00:00:00.000-00:00:00.740 | Delwath] get….",
+        "before": [],
+        "after": [
+          "[u0002 | 00:00:02.530-00:00:04.570 | DM] Serious landlord mode going.",
+          "[u0003 | 00:00:07.429-00:00:08.829 | DM] Okay."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0001 | 00:00:00.000-00:00:00.740 | Delwath] get….",
+        "before": [],
+        "after": [
+          "[u0002 | 00:00:02.530-00:00:04.570 | DM] Serious landlord mode going.",
+          "[u0003 | 00:00:07.429-00:00:08.829 | DM] Okay."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0131",
+      "importance": "incidental",
+      "span": "Wait, is there, is there hesitate, is there… what's, what's, what's the pop?",
+      "reason": "Overlapping clarification fragment; surrounding discussion preserves the political point.",
+      "reviewId": "I002",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0131 | 00:12:56.260-00:12:59.599 | Kenzo] Wait, is there, is there hesitate, is there… what's, what's, what's the pop?",
+        "before": [
+          "[u0129 | 00:12:49.480-00:12:52.310 | DM] I mean, there's a lot of politics.",
+          "[u0130 | 00:12:52.670-00:12:55.600 | DM] happening here, and…."
+        ],
+        "after": [
+          "[u0132 | 00:12:59.600-00:13:03.170 | DM] No, no, no, just, like… You know, he's not…",
+          "[u0133 | 00:13:03.760-00:13:13.540 | DM] the magister… he's not… he's not… this is not, like, a, you know, absolute monarchy, divine right of kings, like, you know."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0131 | 00:12:56.260-00:12:59.599 | Kenzo] Wait, is there, is there hesitate, is there… what's, what's, what's the pop?",
+        "before": [
+          "[u0129 | 00:12:49.480-00:12:52.310 | DM] I mean, there's a lot of politics.",
+          "[u0130 | 00:12:52.670-00:12:55.600 | DM] happening here, and…."
+        ],
+        "after": [
+          "[u0132 | 00:12:59.600-00:13:03.170 | DM] No, no, no, just, like… You know, he's not…",
+          "[u0133 | 00:13:03.760-00:13:13.540 | DM] the Magistros… he's not… he's not… this is not, like, a, you know, absolute monarchy, divine right of kings, like, you know."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0159",
+      "importance": "incidental",
+      "span": "Magistros shows",
+      "reason": "Unclear start of an assurance clause; the same unit explicitly asks how the emperor is upholding the deal.",
+      "reviewId": "I003",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0159 | 00:15:57.410-00:16:10.039 | Kenzo] Great. We don't have to roleplay this, but the essence of this is Kendra just wants… wants assurances that the mattress shows… we've done our part of the deal, and how is the mattress demonstrating that he is now upholding his part of the deal?",
+        "before": [
+          "[u0157 | 00:15:44.360-00:15:50.180 | DM] And as night falls, you… dealt with Cost's dream.",
+          "[u0158 | 00:15:52.070-00:15:57.200 | DM] on Kenzo, allowing you to speak with… The Magistress."
+        ],
+        "after": [
+          "[u0160 | 00:16:11.690-00:16:21.380 | DM] So, he tells you… you know, what… what you heard in the intro, right? He accuses the…",
+          "[u0161 | 00:16:21.550-00:16:27.050 | DM] Chalite families of… Corruption, and announces they're in…"
+        ]
+      },
+      "cleaned": {
+        "line": "[u0159 | 00:15:57.410-00:16:10.039 | Kenzo] Great. We don't have to roleplay this, but the essence of this is Kenzo just wants… wants assurances that the Magistros shows… we've done our part of the deal, and how is the Magistros demonstrating that he is now upholding his part of the deal?",
+        "before": [
+          "[u0157 | 00:15:44.360-00:15:50.180 | DM] And as night falls, you… Delwath casts Dream.",
+          "[u0158 | 00:15:52.070-00:15:57.200 | DM] on Kenzo, allowing you to speak with… The Magistros."
+        ],
+        "after": [
+          "[u0160 | 00:16:11.690-00:16:21.380 | DM] So, he tells you… you know, what… what you heard in the intro, right? He accuses the…",
+          "[u0161 | 00:16:21.550-00:16:27.050 | DM] Chalyte families of… Corruption, and announces they're in…"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0258",
+      "importance": "incidental",
+      "span": "Yeah, it forced.",
+      "reason": "Unclear brief cross-talk in hypothetical Wish discussion.",
+      "reviewId": "I004",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0258 | 00:25:34.050-00:25:34.879 | Seeker] Yeah, it forced.",
+        "before": [
+          "[u0256 | 00:25:22.440-00:25:25.860 | Delwath] Well, I mean, probably not.",
+          "[u0257 | 00:25:26.420-00:25:34.050 | Kenzo] It'd be more like transport all of the Chelight to, like, some location that we control, and that we can then do stuff with, so…."
+        ],
+        "after": [
+          "[u0259 | 00:25:34.880-00:25:35.560 | Delwath] I mean, or….",
+          "[u0260 | 00:25:35.560-00:25:37.960 | Seeker] a new taillight skyship, yeah."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0258 | 00:25:34.050-00:25:34.879 | Seeker] Yeah, it forced.",
+        "before": [
+          "[u0256 | 00:25:22.440-00:25:25.860 | Delwath] Well, I mean, probably not.",
+          "[u0257 | 00:25:26.420-00:25:34.050 | Kenzo] It'd be more like transport all of the Chalyte to, like, some location that we control, and that we can then do stuff with, so…."
+        ],
+        "after": [
+          "[u0259 | 00:25:34.880-00:25:35.560 | Delwath] I mean, or….",
+          "[u0260 | 00:25:35.560-00:25:37.960 | Seeker] a new chalyte skyship, yeah."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0349",
+      "importance": "incidental",
+      "span": "Sitting ourselves.",
+      "reason": "Unclear continuation to the city-planning question.",
+      "reviewId": "I005",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0349 | 00:33:56.720-00:33:57.410 | Seeker] Sitting ourselves.",
+        "before": [
+          "[u0347 | 00:33:52.040-00:33:56.330 | Seeker] Well, since when are we city planners? Like, what's our goal here? Do we want to rebuild?",
+          "[u0348 | 00:33:56.330-00:33:56.720 | Kenzo] Oh, no, no."
+        ],
+        "after": [
+          "[u0350 | 00:33:57.410-00:34:08.200 | Kenzo] Kenzo is, I mean, like, remember for Seeker, this is… this is like the neighborhood Kenzo grew up in, with all of his, like, you know, this is like the… this is like the proletariat, you know, these are, like, the people that have been fucked over by all the Chalite.",
+          "[u0351 | 00:34:08.239-00:34:10.659 | Kenzo] So, the whole point of us going to, like."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0349 | 00:33:56.720-00:33:57.410 | Seeker] Sitting ourselves.",
+        "before": [
+          "[u0347 | 00:33:52.040-00:33:56.330 | Seeker] Well, since when are we city planners? Like, what's our goal here? Do we want to rebuild?",
+          "[u0348 | 00:33:56.330-00:33:56.720 | Kenzo] Oh, no, no."
+        ],
+        "after": [
+          "[u0350 | 00:33:57.410-00:34:08.200 | Kenzo] Kenzo is, I mean, like, remember for Seeker, this is… this is like the neighborhood Kenzo grew up in, with all of his, like, you know, this is like the… this is like the proletariat, you know, these are, like, the people that have been fucked over by all the Chalyte.",
+          "[u0351 | 00:34:08.239-00:34:10.659 | Kenzo] So, the whole point of us going to, like."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0354",
+      "importance": "incidental",
+      "span": "tear.",
+      "reason": "Isolated cross-talk.",
+      "reviewId": "I006",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0354 | 00:34:36.770-00:34:37.480 | Seeker] tear.",
+        "before": [
+          "[u0352 | 00:34:10.659-00:34:28.859 | Kenzo] kill the Chalite Giant was to bring, you know, power and dignity back to this neighborhood. And so, if now we're saying, okay, the two biggest employers in that area are gonna be these chelite refineries, but the, the, … they are not… they don't have a deciding vote? That doesn't feel….",
+          "[u0353 | 00:34:28.860-00:34:31.469 | Seeker] You skipped the part about our building a superweapon."
+        ],
+        "after": [
+          "[u0355 | 00:34:40.650-00:34:42.150 | Delwath] Doweth….",
+          "[u0356 | 00:34:42.150-00:34:43.440 | Kenzo] What does Dala think?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u0354 | 00:34:36.770-00:34:37.480 | Seeker] tear.",
+        "before": [
+          "[u0352 | 00:34:10.659-00:34:28.859 | Kenzo] kill the Chalyte Giant was to bring, you know, power and dignity back to this neighborhood. And so, if now we're saying, okay, the two biggest employers in that area are gonna be these chalyte refineries, but the, the, … they are not… they don't have a deciding vote? That doesn't feel….",
+          "[u0353 | 00:34:28.860-00:34:31.469 | Seeker] You skipped the part about our building a superweapon."
+        ],
+        "after": [
+          "[u0355 | 00:34:40.650-00:34:42.150 | Delwath] Delwath….",
+          "[u0356 | 00:34:42.150-00:34:43.440 | Kenzo] What does Delwath think?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0373",
+      "importance": "incidental",
+      "span": "Okay, this is, this is much.",
+      "reason": "Broken table interjection.",
+      "reviewId": "I007",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0373 | 00:35:56.510-00:35:58.210 | Kenzo] Okay, this is, this is much.",
+        "before": [
+          "[u0371 | 00:35:44.010-00:35:52.949 | DM] it'll take some time to, like, go through each one. He needs to… he needs you to hook… connect him with some of the workers. The wind collar's gonna go in some number, 2 or 3 of the…",
+          "[u0372 | 00:35:53.090-00:35:56.510 | DM] However many are actually safe to operate and, you know."
+        ],
+        "after": [
+          "[u0374 | 00:35:58.210-00:35:59.970 | DM] Solid foundation.",
+          "[u0375 | 00:35:59.970-00:36:06.279 | Kenzo] basically that this is how it's gonna work, okay? Any… the refineries that come online, okay?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u0373 | 00:35:56.510-00:35:58.210 | Kenzo] Okay, this is, this is much.",
+        "before": [
+          "[u0371 | 00:35:44.010-00:35:52.949 | DM] it'll take some time to, like, go through each one. He needs to… he needs you to hook… connect him with some of the workers. The Windcaller's gonna go in some number, 2 or 3 of the…",
+          "[u0372 | 00:35:53.090-00:35:56.510 | DM] However many are actually safe to operate and, you know."
+        ],
+        "after": [
+          "[u0374 | 00:35:58.210-00:35:59.970 | DM] Solid foundation.",
+          "[u0375 | 00:35:59.970-00:36:06.279 | Kenzo] basically that this is how it's gonna work, okay? Any… the refineries that come online, okay?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0399",
+      "importance": "incidental",
+      "span": "Meh.",
+      "reason": "Brief interjection.",
+      "reviewId": "I008",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0399 | 00:38:19.620-00:38:20.410 | Kenzo] Meh.",
+        "before": [
+          "[u0397 | 00:38:10.200-00:38:11.230 | Delwath] …",
+          "[u0398 | 00:38:12.250-00:38:19.129 | Delwath] somebody from outside the industry, right, who doesn't have a direct stake in the industry at all, somebody who represents Charta in itself."
+        ],
+        "after": [
+          "[u0400 | 00:38:21.370-00:38:24.060 | Seeker] The Thalmeturgical Responsibility Officer.",
+          "[u0401 | 00:38:24.060-00:38:32.820 | Delwath] Yeah, exactly. The thaumaturgical responsible, the AI safety officer, right? And somebody who's gonna represent Chardon itself."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0399 | 00:38:19.620-00:38:20.410 | Kenzo] Meh.",
+        "before": [
+          "[u0397 | 00:38:10.200-00:38:11.230 | Delwath] …",
+          "[u0398 | 00:38:12.250-00:38:19.129 | Delwath] somebody from outside the industry, right, who doesn't have a direct stake in the industry at all, somebody who represents Chardon in itself."
+        ],
+        "after": [
+          "[u0400 | 00:38:21.370-00:38:24.060 | Seeker] The Thaumaturgical Responsibility Officer.",
+          "[u0401 | 00:38:24.060-00:38:32.820 | Delwath] Yeah, exactly. The thaumaturgical responsible, the AI safety officer, right? And somebody who's gonna represent Chardon itself."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0427",
+      "importance": "incidental",
+      "span": "What's Kenzo?",
+      "reason": "Fragment during joking about retirement.",
+      "reviewId": "I009",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0427 | 00:40:42.720-00:40:44.610 | Delwath] What's Kendall?",
+        "before": [
+          "[u0425 | 00:40:36.070-00:40:37.250 | DM] Kento's gotta retire.",
+          "[u0426 | 00:40:37.250-00:40:42.720 | Kenzo] There's no, there's no, there's no chainlight safety officer."
+        ],
+        "after": [
+          "[u0428 | 00:40:45.040-00:40:54.090 | Kenzo] Wait, wait, hold on, wait, no, no. Kenzo's gonna be, Kenzo's gonna be, chairman emeritus when he, when he retires, when he comes back, which is gonna be in, like.",
+          "[u0429 | 00:40:54.260-00:40:57.450 | Kenzo] A year? Like, how much longer… like, we're in the last…"
+        ]
+      },
+      "cleaned": {
+        "line": "[u0427 | 00:40:42.720-00:40:44.610 | Delwath] What's Kenzo?",
+        "before": [
+          "[u0425 | 00:40:36.070-00:40:37.250 | DM] Kenzo's gotta retire.",
+          "[u0426 | 00:40:37.250-00:40:42.720 | Kenzo] There's no, there's no, there's no chalyte safety officer."
+        ],
+        "after": [
+          "[u0428 | 00:40:45.040-00:40:54.090 | Kenzo] Wait, wait, hold on, wait, no, no. Kenzo's gonna be, Kenzo's gonna be, chairman emeritus when he, when he retires, when he comes back, which is gonna be in, like.",
+          "[u0429 | 00:40:54.260-00:40:57.450 | Kenzo] A year? Like, how much longer… like, we're in the last…"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0478",
+      "importance": "incidental",
+      "span": "Enjoy the effort.",
+      "reason": "Unclear interrupted fragment; following discussion restates the substantive choices.",
+      "reviewId": "I010",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0478 | 00:46:23.050-00:46:23.520 | Kenzo] Enjoy the effort.",
+        "before": [
+          "[u0476 | 00:46:14.960-00:46:20.360 | DM] Organization that will be impervious to that destruction.",
+          "[u0477 | 00:46:20.680-00:46:23.049 | DM] The only thing that we can do is…."
+        ],
+        "after": [
+          "[u0479 | 00:46:23.520-00:46:24.040 | DM] as they're.",
+          "[u0480 | 00:46:24.040-00:46:28.540 | Kenzo] We destroy the monarchy, and we end your rule. That's like that. That's one thing we can do."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0478 | 00:46:23.050-00:46:23.520 | Kenzo] Enjoy the effort.",
+        "before": [
+          "[u0476 | 00:46:14.960-00:46:20.360 | DM] Organization that will be impervious to that destruction.",
+          "[u0477 | 00:46:20.680-00:46:23.049 | DM] The only thing that we can do is…."
+        ],
+        "after": [
+          "[u0479 | 00:46:23.520-00:46:24.040 | DM] as they're.",
+          "[u0480 | 00:46:24.040-00:46:28.540 | Kenzo] We destroy the monarchy, and we end your rule. That's like that. That's one thing we can do."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0479",
+      "importance": "incidental",
+      "span": "as they're.",
+      "reason": "Interrupted fragment.",
+      "reviewId": "I011",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0479 | 00:46:23.520-00:46:24.040 | DM] as they're.",
+        "before": [
+          "[u0477 | 00:46:20.680-00:46:23.049 | DM] The only thing that we can do is….",
+          "[u0478 | 00:46:23.050-00:46:23.520 | Kenzo] Enjoy the effort."
+        ],
+        "after": [
+          "[u0480 | 00:46:24.040-00:46:28.540 | Kenzo] We destroy the monarchy, and we end your rule. That's like that. That's one thing we can do.",
+          "[u0481 | 00:46:28.540-00:46:29.999 | Wellby] Well, I… I think, though."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0479 | 00:46:23.520-00:46:24.040 | DM] as they're.",
+        "before": [
+          "[u0477 | 00:46:20.680-00:46:23.049 | DM] The only thing that we can do is….",
+          "[u0478 | 00:46:23.050-00:46:23.520 | Kenzo] Enjoy the effort."
+        ],
+        "after": [
+          "[u0480 | 00:46:24.040-00:46:28.540 | Kenzo] We destroy the monarchy, and we end your rule. That's like that. That's one thing we can do.",
+          "[u0481 | 00:46:28.540-00:46:29.999 | Wellby] Well, I… I think, though."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0507",
+      "importance": "incidental",
+      "span": "Not just mix.",
+      "reason": "Cross-talk fragment in question about magical regulation.",
+      "reviewId": "I012",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0507 | 00:48:26.470-00:48:28.009 | DM] Not just mix.",
+        "before": [
+          "[u0505 | 00:48:15.780-00:48:19.490 | DM] only licensed users can use ChainLite.",
+          "[u0506 | 00:48:19.890-00:48:25.930 | Delwath] So, who, like, who, like, controls magical power in Charted, right? Like, presumably there's some…."
+        ],
+        "after": [
+          "[u0508 | 00:48:28.360-00:48:41.789 | DM] The Emperor's Legion, the Mage Guard, the magical legions of the Emperor are the primary, but also the Hetteri Magica, who are currently heavily discredited because they were deeply infiltrated by",
+          "[u0509 | 00:48:41.950-00:48:47.749 | DM] Fasto. And then the Windcallers separately control magic in the Navy."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0507 | 00:48:26.470-00:48:28.009 | DM] Not just mix.",
+        "before": [
+          "[u0505 | 00:48:15.780-00:48:19.490 | DM] only licensed users can use Chalyte.",
+          "[u0506 | 00:48:19.890-00:48:25.930 | Delwath] So, who, like, who, like, controls magical power in Chardon, right? Like, presumably there's some…."
+        ],
+        "after": [
+          "[u0508 | 00:48:28.360-00:48:41.789 | DM] The Emperor's Legion, the Mage Guard, the magical legions of the Emperor are the primary, but also the Hetaeri Magica, who are currently heavily discredited because they were deeply infiltrated by",
+          "[u0509 | 00:48:41.950-00:48:47.749 | DM] Fausto. And then the Windcallers separately control magic in the Navy."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0526",
+      "importance": "incidental",
+      "span": "Kat, what's the…",
+      "reason": "Unclear interjection before substantive wizard-regulation question.",
+      "reviewId": "I013",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0526 | 00:50:17.380-00:50:22.859 | Delwath] Kat, what's the… Like, what's stopping a group of…",
+        "before": [
+          "[u0524 | 00:50:03.260-00:50:08.679 | DM] And there's just, like, people who patrol with the tech magic up and are like, got you.",
+          "[u0525 | 00:50:08.680-00:50:16.869 | Delwath] Right, but that's more law enforcement, right? Like, you don't necessarily want to say, well, you're allowed to just go cheat people, but, like…"
+        ],
+        "after": [
+          "[u0527 | 00:50:23.450-00:50:27.180 | Delwath] 20 wizards getting together and being like.",
+          "[u0528 | 00:50:29.030-00:50:33.539 | Delwath] I don't know what, exactly, right? Like, what's, like, is there an actual…"
+        ]
+      },
+      "cleaned": {
+        "line": "[u0526 | 00:50:17.380-00:50:22.859 | Delwath] Kat, what's the… Like, what's stopping a group of…",
+        "before": [
+          "[u0524 | 00:50:03.260-00:50:08.679 | DM] And there's just, like, people who patrol with Detect Magic up and are like, got you.",
+          "[u0525 | 00:50:08.680-00:50:16.869 | Delwath] Right, but that's more law enforcement, right? Like, you don't necessarily want to say, well, you're allowed to just go cheat people, but, like…"
+        ],
+        "after": [
+          "[u0527 | 00:50:23.450-00:50:27.180 | Delwath] 20 wizards getting together and being like.",
+          "[u0528 | 00:50:29.030-00:50:33.539 | Delwath] I don't know what, exactly, right? Like, what's, like, is there an actual…"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0556",
+      "importance": "incidental",
+      "span": "Field.",
+      "reason": "Isolated cross-talk.",
+      "reviewId": "I014",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0556 | 00:52:31.860-00:52:32.180 | Kenzo] Field.",
+        "before": [
+          "[u0554 | 00:52:26.310-00:52:28.689 | Kenzo] Yeah. The Magistress is gonna appoint.",
+          "[u0555 | 00:52:28.690-00:52:31.479 | DM] The three workers who you tell them to appoint."
+        ],
+        "after": [
+          "[u0557 | 00:52:32.180-00:52:34.989 | DM] board. And what do they want? So, I don't know, like, I don't….",
+          "[u0558 | 00:52:35.250-00:52:43.670 | Kenzo] It's a simple thing, like, is the vibe, like, something like a 50-50 split between the workers and the wind callers, like, feel like it's on the table? Something like that?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u0556 | 00:52:31.860-00:52:32.180 | Kenzo] Field.",
+        "before": [
+          "[u0554 | 00:52:26.310-00:52:28.689 | Kenzo] Yeah. The Magistros is gonna appoint.",
+          "[u0555 | 00:52:28.690-00:52:31.479 | DM] The three workers who you tell them to appoint."
+        ],
+        "after": [
+          "[u0557 | 00:52:32.180-00:52:34.989 | DM] board. And what do they want? So, I don't know, like, I don't….",
+          "[u0558 | 00:52:35.250-00:52:43.670 | Kenzo] It's a simple thing, like, is the vibe, like, something like a 50-50 split between the workers and the Windcallers, like, feel like it's on the table? Something like that?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0614",
+      "importance": "incidental",
+      "span": "A strolling community center",
+      "reason": "Uncertain adjective; the proposed community center is clear.",
+      "reviewId": "I015",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0614 | 00:57:51.220-00:57:54.269 | Seeker] A strolling community center with a, like, a.",
+        "before": [
+          "[u0612 | 00:57:38.490-00:57:45.179 | Kenzo] Oh, there's even more than a bookstore. We're doing… we're doing all the things. This is gonna be a totally, you know…",
+          "[u0613 | 00:57:45.560-00:57:50.050 | Kenzo] Artist cooperatives, it's gonna be, it's gonna be the, the, the, the, the dream."
+        ],
+        "after": [
+          "[u0615 | 00:57:54.270-00:57:54.650 | DM] I mean.",
+          "[u0616 | 00:57:54.650-00:57:56.080 | Seeker] I lied to like that."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0614 | 00:57:51.220-00:57:54.269 | Seeker] A strolling community center with a, like, a.",
+        "before": [
+          "[u0612 | 00:57:38.490-00:57:45.179 | Kenzo] Oh, there's even more than a bookstore. We're doing… we're doing all the things. This is gonna be a totally, you know…",
+          "[u0613 | 00:57:45.560-00:57:50.050 | Kenzo] Artist cooperatives, it's gonna be, it's gonna be the, the, the, the, the dream."
+        ],
+        "after": [
+          "[u0615 | 00:57:54.270-00:57:54.650 | DM] I mean.",
+          "[u0616 | 00:57:54.650-00:57:56.080 | Seeker] I lied to like that."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0616",
+      "importance": "incidental",
+      "span": "I lied to like that.",
+      "reason": "Unclear brief reaction to community-center suggestion.",
+      "reviewId": "I016",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0616 | 00:57:54.650-00:57:56.080 | Seeker] I lied to like that.",
+        "before": [
+          "[u0614 | 00:57:51.220-00:57:54.269 | Seeker] A strolling community center with a, like, a.",
+          "[u0615 | 00:57:54.270-00:57:54.650 | DM] I mean."
+        ],
+        "after": [
+          "[u0617 | 00:57:56.080-00:57:57.469 | Kenzo] Land is….",
+          "[u0618 | 00:57:58.060-00:58:05.470 | DM] Right, most of this land is… is slums right now. It's like slum apartments. Or it's rubble, because it was destroyed in the fighting."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0616 | 00:57:54.650-00:57:56.080 | Seeker] I lied to like that.",
+        "before": [
+          "[u0614 | 00:57:51.220-00:57:54.269 | Seeker] A strolling community center with a, like, a.",
+          "[u0615 | 00:57:54.270-00:57:54.650 | DM] I mean."
+        ],
+        "after": [
+          "[u0617 | 00:57:56.080-00:57:57.469 | Kenzo] Land is….",
+          "[u0618 | 00:57:58.060-00:58:05.470 | DM] Right, most of this land is… is slums right now. It's like slum apartments. Or it's rubble, because it was destroyed in the fighting."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0630",
+      "importance": "incidental",
+      "span": "abundance.",
+      "reason": "Isolated cross-talk.",
+      "reviewId": "I017",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0630 | 00:59:17.490-00:59:18.630 | Seeker] abundance.",
+        "before": [
+          "[u0628 | 00:58:57.960-00:59:03.790 | Seeker] I think we'll study, chelate engineering and refinery processes.",
+          "[u0629 | 00:59:05.150-00:59:12.420 | Delwath] But actually, Delith has a second goal, which is… ask her, I want to find out what hap- we sort of dropped the whole thread of finding out what happened to the elves."
+        ],
+        "after": [
+          "[u0631 | 00:59:19.120-00:59:21.430 | Delwath] Well, Delic's gotten a little curious.",
+          "[u0632 | 00:59:24.430-00:59:24.960 | Seeker] Hmm."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0630 | 00:59:17.490-00:59:18.630 | Seeker] abundance.",
+        "before": [
+          "[u0628 | 00:58:57.960-00:59:03.790 | Seeker] I think we'll study, chalyte engineering and refinery processes.",
+          "[u0629 | 00:59:05.150-00:59:12.420 | Delwath] But actually, Delwath has a second goal, which is… ask her, I want to find out what hap- we sort of dropped the whole thread of finding out what happened to the elves."
+        ],
+        "after": [
+          "[u0631 | 00:59:19.120-00:59:21.430 | Delwath] Well, Delwath's gotten a little curious.",
+          "[u0632 | 00:59:24.430-00:59:24.960 | Seeker] Hmm."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0709",
+      "importance": "incidental",
+      "span": "air.",
+      "reason": "Isolated fragment after greeting.",
+      "reviewId": "I018",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0709 | 01:07:28.450-01:07:29.000 | DM] air.",
+        "before": [
+          "[u0707 | 01:07:27.390-01:07:28.130 | DM] Anybody?",
+          "[u0708 | 01:07:28.130-01:07:28.450 | Wellby] Yes, sir."
+        ],
+        "after": [
+          "[u0710 | 01:07:30.000-01:07:31.080 | Wellby] Yeah, what's up?",
+          "[u0711 | 01:07:34.790-01:07:36.179 | DM] I'm glad I reached you."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0709 | 01:07:28.450-01:07:29.000 | DM] air.",
+        "before": [
+          "[u0707 | 01:07:27.390-01:07:28.130 | DM] Anybody?",
+          "[u0708 | 01:07:28.130-01:07:28.450 | Wellby] Yes, sir."
+        ],
+        "after": [
+          "[u0710 | 01:07:30.000-01:07:31.080 | Wellby] Yeah, what's up?",
+          "[u0711 | 01:07:34.790-01:07:36.179 | DM] I'm glad I reached you."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0787",
+      "importance": "incidental",
+      "span": "Is crossing over done?",
+      "reason": "Unclear short fragment; next line explicitly gives route over the mountains.",
+      "reviewId": "I019",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0787 | 01:15:05.640-01:15:09.270 | Delwath] And that's crossing over… Is crossing over done?",
+        "before": [
+          "[u0785 | 01:14:56.940-01:15:01.959 | Delwath] to Marseille. We should get going. Like, sorry, how long did you say it would take for Disharna to get there?",
+          "[u0786 | 01:15:03.470-01:15:05.200 | DM] Almost 5 days."
+        ],
+        "after": [
+          "[u0788 | 01:15:09.270-01:15:10.770 | DM] Straight over the mountains.",
+          "[u0789 | 01:15:10.770-01:15:11.480 | Delwath] Okay."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0787 | 01:15:05.640-01:15:09.270 | Delwath] And that's crossing over… Is crossing over done?",
+        "before": [
+          "[u0785 | 01:14:56.940-01:15:01.959 | Delwath] to Marcella. We should get going. Like, sorry, how long did you say it would take for Vindristjarna to get there?",
+          "[u0786 | 01:15:03.470-01:15:05.200 | DM] Almost 5 days."
+        ],
+        "after": [
+          "[u0788 | 01:15:09.270-01:15:10.770 | DM] Straight over the mountains.",
+          "[u0789 | 01:15:10.770-01:15:11.480 | Delwath] Okay."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0812",
+      "importance": "incidental",
+      "span": "That was Chad.",
+      "reason": "Cross-talk fragment between Dream casting and spell question.",
+      "reviewId": "I020",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0812 | 01:17:17.010-01:17:17.720 | Delwath] That was Chad.",
+        "before": [
+          "[u0810 | 01:17:02.460-01:17:09.140 | DM] As the sun begins to set, And as you… Press into the night, you…",
+          "[u0811 | 01:17:10.830-01:17:13.540 | DM] Kastrin, who's gonna speak to Marcella."
+        ],
+        "after": [
+          "[u0813 | 01:17:17.720-01:17:18.320 | DM] with it.",
+          "[u0814 | 01:17:20.360-01:17:20.900 | Delwath] Yeah."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0812 | 01:17:17.010-01:17:17.720 | Delwath] That was Chad.",
+        "before": [
+          "[u0810 | 01:17:02.460-01:17:09.140 | DM] As the sun begins to set, And as you… Press into the night, you…",
+          "[u0811 | 01:17:10.830-01:17:13.540 | DM] Cast Dream, who's gonna speak to Marcella?"
+        ],
+        "after": [
+          "[u0813 | 01:17:17.720-01:17:18.320 | DM] with it.",
+          "[u0814 | 01:17:20.360-01:17:20.900 | Delwath] Yeah."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0813",
+      "importance": "incidental",
+      "span": "with it.",
+      "reason": "Cross-talk fragment.",
+      "reviewId": "I021",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0813 | 01:17:17.720-01:17:18.320 | DM] with it.",
+        "before": [
+          "[u0811 | 01:17:10.830-01:17:13.540 | DM] Kastrin, who's gonna speak to Marcella.",
+          "[u0812 | 01:17:17.010-01:17:17.720 | Delwath] That was Chad."
+        ],
+        "after": [
+          "[u0814 | 01:17:20.360-01:17:20.900 | Delwath] Yeah.",
+          "[u0815 | 01:17:22.200-01:17:23.620 | Kenzo] Can you soul slide in a dream?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u0813 | 01:17:17.720-01:17:18.320 | DM] with it.",
+        "before": [
+          "[u0811 | 01:17:10.830-01:17:13.540 | DM] Cast Dream, who's gonna speak to Marcella?",
+          "[u0812 | 01:17:17.010-01:17:17.720 | Delwath] That was Chad."
+        ],
+        "after": [
+          "[u0814 | 01:17:20.360-01:17:20.900 | Delwath] Yeah.",
+          "[u0815 | 01:17:22.200-01:17:23.620 | Kenzo] Can you Soul Sight in a dream?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0824",
+      "importance": "incidental",
+      "span": "R, and…",
+      "reason": "Interjection before request for help.",
+      "reviewId": "I022",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0824 | 01:18:08.310-01:18:13.749 | DM] R, and… Dare I ask, is there anything you can do?",
+        "before": [
+          "[u0822 | 01:17:58.140-01:17:59.759 | Delwath] We received your letter.",
+          "[u0823 | 01:18:03.830-01:18:05.099 | DM] Thank the gods."
+        ],
+        "after": [
+          "[u0825 | 01:18:17.520-01:18:20.640 | Delwath] We are on our way.",
+          "[u0826 | 01:18:24.510-01:18:29.100 | Delwath] what we can… Go be…."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0824 | 01:18:08.310-01:18:13.749 | DM] R, and… Dare I ask, is there anything you can do?",
+        "before": [
+          "[u0822 | 01:17:58.140-01:17:59.759 | Delwath] We received your letter.",
+          "[u0823 | 01:18:03.830-01:18:05.099 | DM] Thank the gods."
+        ],
+        "after": [
+          "[u0825 | 01:18:17.520-01:18:20.640 | Delwath] We are on our way.",
+          "[u0826 | 01:18:24.510-01:18:29.100 | Delwath] what we can… Go be…."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0826",
+      "importance": "incidental",
+      "span": "what we can… Go be….",
+      "reason": "Interrupted assent; travel plan is clear in nearby lines.",
+      "reviewId": "I023",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0826 | 01:18:24.510-01:18:29.100 | Delwath] what we can… Go be….",
+        "before": [
+          "[u0824 | 01:18:08.310-01:18:13.749 | DM] R, and… Dare I ask, is there anything you can do?",
+          "[u0825 | 01:18:17.520-01:18:20.640 | Delwath] We are on our way."
+        ],
+        "after": [
+          "[u0827 | 01:18:29.100-01:18:29.560 | DM] Quickly.",
+          "[u0828 | 01:18:31.210-01:18:37.550 | Delwath] … At current pace, it'll be 5 more days until we arrive."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0826 | 01:18:24.510-01:18:29.100 | Delwath] what we can… Go be….",
+        "before": [
+          "[u0824 | 01:18:08.310-01:18:13.749 | DM] R, and… Dare I ask, is there anything you can do?",
+          "[u0825 | 01:18:17.520-01:18:20.640 | Delwath] We are on our way."
+        ],
+        "after": [
+          "[u0827 | 01:18:29.100-01:18:29.560 | DM] Quickly.",
+          "[u0828 | 01:18:31.210-01:18:37.550 | Delwath] … At current pace, it'll be 5 more days until we arrive."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0881",
+      "importance": "incidental",
+      "span": "data type thing, Sharna, or that….",
+      "reason": "Cross-talk about the prior ooze encounter, not a new event.",
+      "reviewId": "I024",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0881 | 01:22:14.660-01:22:16.449 | DM] data type thing, Sharna, or that….",
+        "before": [
+          "[u0879 | 01:22:06.110-01:22:10.040 | DM] Like, where, you know, the is and gay, who's is, and all those things.",
+          "[u0880 | 01:22:10.040-01:22:13.819 | Delwath] You know the giant acidic ooze that almost attacked Vintoshone?"
+        ],
+        "after": [
+          "[u0882 | 01:22:16.450-01:22:16.889 | Delwath] I did, it's.",
+          "[u0883 | 01:22:16.890-01:22:17.840 | DM] Right, adventure, sir."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0881 | 01:22:14.660-01:22:16.449 | DM] data type thing, Sharna, or that….",
+        "before": [
+          "[u0879 | 01:22:06.110-01:22:10.040 | DM] Like, where, you know, the Isingue oozes, and all those things.",
+          "[u0880 | 01:22:10.040-01:22:13.819 | Delwath] You know the giant acidic ooze that almost attacked Vindristjarna?"
+        ],
+        "after": [
+          "[u0882 | 01:22:16.450-01:22:16.889 | Delwath] I did, it's.",
+          "[u0883 | 01:22:16.890-01:22:17.840 | DM] Right, adventure, sir."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0882",
+      "importance": "incidental",
+      "span": "I did, it's.",
+      "reason": "Cross-talk fragment.",
+      "reviewId": "I025",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0882 | 01:22:16.450-01:22:16.889 | Delwath] I did, it's.",
+        "before": [
+          "[u0880 | 01:22:10.040-01:22:13.819 | Delwath] You know the giant acidic ooze that almost attacked Vintoshone?",
+          "[u0881 | 01:22:14.660-01:22:16.449 | DM] data type thing, Sharna, or that…."
+        ],
+        "after": [
+          "[u0883 | 01:22:16.890-01:22:17.840 | DM] Right, adventure, sir.",
+          "[u0884 | 01:22:19.350-01:22:20.319 | Delwath] It wasn't twice."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0882 | 01:22:16.450-01:22:16.889 | Delwath] I did, it's.",
+        "before": [
+          "[u0880 | 01:22:10.040-01:22:13.819 | Delwath] You know the giant acidic ooze that almost attacked Vindristjarna?",
+          "[u0881 | 01:22:14.660-01:22:16.449 | DM] data type thing, Sharna, or that…."
+        ],
+        "after": [
+          "[u0883 | 01:22:16.890-01:22:17.840 | DM] Right, adventure, sir.",
+          "[u0884 | 01:22:19.350-01:22:20.319 | Delwath] It wasn't twice."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0883",
+      "importance": "incidental",
+      "span": "Right, adventure, sir.",
+      "reason": "Cross-talk fragment.",
+      "reviewId": "I026",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0883 | 01:22:16.890-01:22:17.840 | DM] Right, adventure, sir.",
+        "before": [
+          "[u0881 | 01:22:14.660-01:22:16.449 | DM] data type thing, Sharna, or that….",
+          "[u0882 | 01:22:16.450-01:22:16.889 | Delwath] I did, it's."
+        ],
+        "after": [
+          "[u0884 | 01:22:19.350-01:22:20.319 | Delwath] It wasn't twice.",
+          "[u0885 | 01:22:20.320-01:22:21.020 | Seeker] hole."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0883 | 01:22:16.890-01:22:17.840 | DM] Right, adventure, sir.",
+        "before": [
+          "[u0881 | 01:22:14.660-01:22:16.449 | DM] data type thing, Sharna, or that….",
+          "[u0882 | 01:22:16.450-01:22:16.889 | Delwath] I did, it's."
+        ],
+        "after": [
+          "[u0884 | 01:22:19.350-01:22:20.319 | Delwath] It wasn't twice.",
+          "[u0885 | 01:22:20.320-01:22:21.020 | Seeker] hole."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0886",
+      "importance": "incidental",
+      "span": "It wasn't that cold.",
+      "reason": "Joke about a past hole in the ship; response restates it.",
+      "reviewId": "I027",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0886 | 01:22:21.020-01:22:21.860 | Delwath] It wasn't that cold.",
+        "before": [
+          "[u0884 | 01:22:19.350-01:22:20.319 | Delwath] It wasn't twice.",
+          "[u0885 | 01:22:20.320-01:22:21.020 | Seeker] hole."
+        ],
+        "after": [
+          "[u0887 | 01:22:21.860-01:22:24.380 | DM] It was just one small hole, I mean….",
+          "[u0888 | 01:22:24.380-01:22:27.370 | Delwath] Yeah, we patched it up, yeah. Yeah, that's fine."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0886 | 01:22:21.020-01:22:21.860 | Delwath] It wasn't that cold.",
+        "before": [
+          "[u0884 | 01:22:19.350-01:22:20.319 | Delwath] It wasn't twice.",
+          "[u0885 | 01:22:20.320-01:22:21.020 | Seeker] hole."
+        ],
+        "after": [
+          "[u0887 | 01:22:21.860-01:22:24.380 | DM] It was just one small hole, I mean….",
+          "[u0888 | 01:22:24.380-01:22:27.370 | Delwath] Yeah, we patched it up, yeah. Yeah, that's fine."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0907",
+      "importance": "incidental",
+      "span": "It'd be nice to be able to run a long-running… What?",
+      "reason": "Abandoned table suggestion.",
+      "reviewId": "I028",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0907 | 01:24:03.180-01:24:07.940 | Seeker] … It'd be nice to be able to run a long-running… What?",
+        "before": [
+          "[u0905 | 01:23:52.730-01:24:00.259 | DM] But every other scout that's gone to try to learn more about the actual numbers or identities of these hobgoblins has not returned.",
+          "[u0906 | 01:24:01.740-01:24:02.390 | Seeker] Hmm."
+        ],
+        "after": [
+          "[u0908 | 01:24:08.010-01:24:09.710 | Delwath] Does Marcella…",
+          "[u0909 | 01:24:11.330-01:24:16.500 | Delwath] I mean, I guess we've done a lot of different things. I'm not quite gonna ask her what she hopes we're gonna do."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0907 | 01:24:03.180-01:24:07.940 | Seeker] … It'd be nice to be able to run a long-running… What?",
+        "before": [
+          "[u0905 | 01:23:52.730-01:24:00.259 | DM] But every other scout that's gone to try to learn more about the actual numbers or identities of these hobgoblins has not returned.",
+          "[u0906 | 01:24:01.740-01:24:02.390 | Seeker] Hmm."
+        ],
+        "after": [
+          "[u0908 | 01:24:08.010-01:24:09.710 | Delwath] Does Marcella…",
+          "[u0909 | 01:24:11.330-01:24:16.500 | Delwath] I mean, I guess we've done a lot of different things. I'm not quite gonna ask her what she hopes we're gonna do."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0916",
+      "importance": "incidental",
+      "span": "Bambo.",
+      "reason": "Isolated interruption in militia description.",
+      "reviewId": "I029",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0916 | 01:24:51.590-01:24:52.300 | DM] Bambo.",
+        "before": [
+          "[u0914 | 01:24:44.050-01:24:46.359 | DM] We just couldn't do nothing.",
+          "[u0915 | 01:24:48.660-01:24:50.949 | DM] I mean, we are not defenseless."
+        ],
+        "after": [
+          "[u0917 | 01:24:52.740-01:24:58.020 | DM] Our militias, but… I've seen them train.",
+          "[u0918 | 01:25:00.240-01:25:02.500 | DM] And I've heard stories of hobgoblins."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0916 | 01:24:51.590-01:24:52.300 | DM] Bambo.",
+        "before": [
+          "[u0914 | 01:24:44.050-01:24:46.359 | DM] We just couldn't do nothing.",
+          "[u0915 | 01:24:48.660-01:24:50.949 | DM] I mean, we are not defenseless."
+        ],
+        "after": [
+          "[u0917 | 01:24:52.740-01:24:58.020 | DM] Our militias, but… I've seen them train.",
+          "[u0918 | 01:25:00.240-01:25:02.500 | DM] And I've heard stories of hobgoblins."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0931",
+      "importance": "incidental",
+      "span": "Looking on with it.",
+      "reason": "Fragment in joking about absent companion.",
+      "reviewId": "I030",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0931 | 01:26:08.770-01:26:09.470 | Seeker] Looking on with it.",
+        "before": [
+          "[u0929 | 01:25:56.000-01:25:57.340 | Seeker] He's with us in spirit.",
+          "[u0930 | 01:25:58.390-01:25:59.340 | Delwath] …."
+        ],
+        "after": [
+          "[u0932 | 01:26:09.470-01:26:10.430 | Delwath] Is there….",
+          "[u0933 | 01:26:10.430-01:26:12.619 | Seeker] As we make the wrong decisions."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0931 | 01:26:08.770-01:26:09.470 | Seeker] Looking on with it.",
+        "before": [
+          "[u0929 | 01:25:56.000-01:25:57.340 | Seeker] He's with us in spirit.",
+          "[u0930 | 01:25:58.390-01:25:59.340 | Delwath] …."
+        ],
+        "after": [
+          "[u0932 | 01:26:09.470-01:26:10.430 | Delwath] Is there….",
+          "[u0933 | 01:26:10.430-01:26:12.619 | Seeker] As we make the wrong decisions."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0935",
+      "importance": "incidental",
+      "span": "What's the seat?",
+      "reason": "Fragment during checking spell table; later spell discussion is explicit.",
+      "reviewId": "I031",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0935 | 01:26:18.520-01:26:25.870 | Delwath] It's pretty risky to teleport, right? Seen once is kind of a… What's the seat?",
+        "before": [
+          "[u0933 | 01:26:10.430-01:26:12.619 | Seeker] As we make the wrong decisions.",
+          "[u0934 | 01:26:13.010-01:26:17.790 | Delwath] Is there a way that we could get there faster?"
+        ],
+        "after": [
+          "[u0936 | 01:26:26.290-01:26:29.119 | Wellby] It's not risky at all.",
+          "[u0937 | 01:26:29.120-01:26:29.570 | DM] Never."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0935 | 01:26:18.520-01:26:25.870 | Delwath] It's pretty risky to teleport, right? Seen once is kind of a… What's the seat?",
+        "before": [
+          "[u0933 | 01:26:10.430-01:26:12.619 | Seeker] As we make the wrong decisions.",
+          "[u0934 | 01:26:13.010-01:26:17.790 | Delwath] Is there a way that we could get there faster?"
+        ],
+        "after": [
+          "[u0936 | 01:26:26.290-01:26:29.119 | Wellby] It's not risky at all.",
+          "[u0937 | 01:26:29.120-01:26:29.570 | DM] Never."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0950",
+      "importance": "incidental",
+      "span": "Hmm….",
+      "reason": "Interjection.",
+      "reviewId": "I032",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0950 | 01:27:18.030-01:27:19.110 | Seeker] Hmm….",
+        "before": [
+          "[u0948 | 01:27:06.330-01:27:09.319 | Seeker] On the way down to Karowa from home.",
+          "[u0949 | 01:27:12.440-01:27:17.079 | DM] … Yeah, let me… let me look."
+        ],
+        "after": [
+          "[u0951 | 01:27:24.720-01:27:26.250 | DM] Yeah, cause, like, how did you….",
+          "[u0952 | 01:27:32.290-01:27:33.089 | Seeker] Oh, I should long wrap."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0950 | 01:27:18.030-01:27:19.110 | Seeker] Hmm….",
+        "before": [
+          "[u0948 | 01:27:06.330-01:27:09.319 | Seeker] On the way down to Karawa from home.",
+          "[u0949 | 01:27:12.440-01:27:17.079 | DM] … Yeah, let me… let me look."
+        ],
+        "after": [
+          "[u0951 | 01:27:24.720-01:27:26.250 | DM] Yeah, cause, like, how did you….",
+          "[u0952 | 01:27:32.290-01:27:33.089 | Seeker] Oh, I should long rest."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0957",
+      "importance": "incidental",
+      "span": "Not in.",
+      "reason": "Cross-talk fragment.",
+      "reviewId": "I033",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0957 | 01:27:42.280-01:27:43.070 | Seeker] Not in.",
+        "before": [
+          "[u0955 | 01:27:34.960-01:27:38.040 | DM] Yeah. I… I think Seeker went…",
+          "[u0956 | 01:27:38.780-01:27:42.280 | DM] Under the mountains, up north, and then…."
+        ],
+        "after": [
+          "[u0958 | 01:27:43.070-01:27:47.459 | DM] to chart in, because remember, you spent… you knew OFGAR from…",
+          "[u0959 | 01:27:47.580-01:27:50.830 | DM] being in charge, and so Wellbe's been here, but Seeker hasn't."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0957 | 01:27:42.280-01:27:43.070 | Seeker] Not in.",
+        "before": [
+          "[u0955 | 01:27:34.960-01:27:38.040 | DM] Yeah. I… I think Seeker went…",
+          "[u0956 | 01:27:38.780-01:27:42.280 | DM] Under the mountains, up north, and then…."
+        ],
+        "after": [
+          "[u0958 | 01:27:43.070-01:27:47.459 | DM] to Chardon, because remember, you spent… you knew Ulfgar from…",
+          "[u0959 | 01:27:47.580-01:27:50.830 | DM] being in Chardon, and so Wellby's been here, but Seeker hasn't."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0968",
+      "importance": "incidental",
+      "span": "Listen?",
+      "reason": "Interjection.",
+      "reviewId": "I034",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0968 | 01:28:15.310-01:28:15.980 | Wellby] Listen?",
+        "before": [
+          "[u0966 | 01:28:13.220-01:28:13.630 | Wellby] I think it was.",
+          "[u0967 | 01:28:13.630-01:28:15.310 | DM] That was…."
+        ],
+        "after": [
+          "[u0969 | 01:28:18.350-01:28:20.450 | DM] So that would… that was, like…",
+          "[u0970 | 01:28:29.380-01:28:36.109 | DM] … that's… I mean, that's… that's, like, up in the… that's, like, in the mountains."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0968 | 01:28:15.310-01:28:15.980 | Wellby] Listen?",
+        "before": [
+          "[u0966 | 01:28:13.220-01:28:13.630 | Wellby] I think it was.",
+          "[u0967 | 01:28:13.630-01:28:15.310 | DM] That was…."
+        ],
+        "after": [
+          "[u0969 | 01:28:18.350-01:28:20.450 | DM] So that would… that was, like…",
+          "[u0970 | 01:28:29.380-01:28:36.109 | DM] … that's… I mean, that's… that's, like, up in the… that's, like, in the mountains."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u0981",
+      "importance": "incidental",
+      "span": "Tell, tell….",
+      "reason": "Unfinished fragment.",
+      "reviewId": "I035",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u0981 | 01:29:15.850-01:29:16.820 | Seeker] Tell, tell….",
+        "before": [
+          "[u0979 | 01:29:03.150-01:29:08.530 | Seeker] Animal shapes could get us another leg of the journey pretty fast, that's true. We travel light.",
+          "[u0980 | 01:29:12.920-01:29:15.849 | Delwath] Do we have any other fast-moving spells?"
+        ],
+        "after": [
+          "[u0982 | 01:29:16.820-01:29:17.290 | Wellby] Any chance?",
+          "[u0983 | 01:29:17.290-01:29:19.959 | Seeker] That's an entire army, though."
+        ]
+      },
+      "cleaned": {
+        "line": "[u0981 | 01:29:15.850-01:29:16.820 | Seeker] Tell, tell….",
+        "before": [
+          "[u0979 | 01:29:03.150-01:29:08.530 | Seeker] Animal shapes could get us another leg of the journey pretty fast, that's true. We travel light.",
+          "[u0980 | 01:29:12.920-01:29:15.849 | Delwath] Do we have any other fast-moving spells?"
+        ],
+        "after": [
+          "[u0982 | 01:29:16.820-01:29:17.290 | Wellby] Any chance?",
+          "[u0983 | 01:29:17.290-01:29:19.959 | Seeker] That's an entire army, though."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1046",
+      "importance": "incidental",
+      "span": "See, it would teleport, you know.",
+      "reason": "Fragment while describing a proposed teleport.",
+      "reviewId": "I036",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1046 | 01:33:08.470-01:33:10.030 | Seeker] See, it would teleport, you know.",
+        "before": [
+          "[u1044 | 01:33:03.560-01:33:07.360 | Seeker] And if there's a different place with a waterfall and a bridge, that would be a nice place to go to, also.",
+          "[u1045 | 01:33:07.360-01:33:08.470 | Delwath] True."
+        ],
+        "after": [
+          "[u1047 | 01:33:10.030-01:33:13.419 | Wellby] Willoughby has great Mac. I'm gonna be able to figure out from local landmarks where.",
+          "[u1048 | 01:33:13.420-01:33:17.230 | Delwath] Yeah, we don't need anything more for it. We… we will… we will be there in a few minutes."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1046 | 01:33:08.470-01:33:10.030 | Seeker] See, it would teleport, you know.",
+        "before": [
+          "[u1044 | 01:33:03.560-01:33:07.360 | Seeker] And if there's a different place with a waterfall and a bridge, that would be a nice place to go to, also.",
+          "[u1045 | 01:33:07.360-01:33:08.470 | Delwath] True."
+        ],
+        "after": [
+          "[u1047 | 01:33:10.030-01:33:13.419 | Wellby] Wellby has a great map. I'm gonna be able to figure out from local landmarks where.",
+          "[u1048 | 01:33:13.420-01:33:17.230 | Delwath] Yeah, we don't need anything more for it. We… we will… we will be there in a few minutes."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1050",
+      "importance": "incidental",
+      "span": "Nothing with it.",
+      "reason": "Cross-talk.",
+      "reviewId": "I037",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1050 | 01:33:19.250-01:33:19.969 | Seeker] Nothing with it.",
+        "before": [
+          "[u1048 | 01:33:13.420-01:33:17.230 | Delwath] Yeah, we don't need anything more for it. We… we will… we will be there in a few minutes.",
+          "[u1049 | 01:33:18.530-01:33:19.250 | Delwath] Okay."
+        ],
+        "after": [
+          "[u1051 | 01:33:19.970-01:33:23.489 | Delwath] Without our fine castle, but we can scout and stuff, and our castle will come.",
+          "[u1052 | 01:33:23.490-01:33:24.390 | Wellby] It'll catch up."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1050 | 01:33:19.250-01:33:19.969 | Seeker] Nothing with it.",
+        "before": [
+          "[u1048 | 01:33:13.420-01:33:17.230 | Delwath] Yeah, we don't need anything more for it. We… we will… we will be there in a few minutes.",
+          "[u1049 | 01:33:18.530-01:33:19.250 | Delwath] Okay."
+        ],
+        "after": [
+          "[u1051 | 01:33:19.970-01:33:23.489 | Delwath] Without our fine castle, but we can scout and stuff, and our castle will come.",
+          "[u1052 | 01:33:23.490-01:33:24.390 | Wellby] It'll catch up."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1077",
+      "importance": "incidental",
+      "span": "else.",
+      "reason": "Cross-talk fragment.",
+      "reviewId": "I038",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1077 | 01:35:05.830-01:35:06.180 | Wellby] else.",
+        "before": [
+          "[u1075 | 01:34:57.970-01:34:58.440 | Seeker] Oh, man.",
+          "[u1076 | 01:34:58.440-01:35:04.859 | DM] That's what's cool about Wish, is you can cast an 8th level or lower level spell with no material components."
+        ],
+        "after": [
+          "[u1078 | 01:35:06.180-01:35:07.200 | Seeker] situation.",
+          "[u1079 | 01:35:07.380-01:35:13.720 | Delwath] Yeah, so we should always have a Seeker. We should have a Seeker 4, really. I mean, why would we not have a Seeker?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u1077 | 01:35:05.830-01:35:06.180 | Wellby] else.",
+        "before": [
+          "[u1075 | 01:34:57.970-01:34:58.440 | Seeker] Oh, man.",
+          "[u1076 | 01:34:58.440-01:35:04.859 | DM] That's what's cool about Wish, is you can cast an 8th level or lower level spell with no material components."
+        ],
+        "after": [
+          "[u1078 | 01:35:06.180-01:35:07.200 | Seeker] situation.",
+          "[u1079 | 01:35:07.380-01:35:13.720 | Delwath] Yeah, so we should always have a Seeker. We should have a Seeker 4, really. I mean, why would we not have a Seeker?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1078",
+      "importance": "incidental",
+      "span": "situation.",
+      "reason": "Cross-talk fragment.",
+      "reviewId": "I039",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1078 | 01:35:06.180-01:35:07.200 | Seeker] situation.",
+        "before": [
+          "[u1076 | 01:34:58.440-01:35:04.859 | DM] That's what's cool about Wish, is you can cast an 8th level or lower level spell with no material components.",
+          "[u1077 | 01:35:05.830-01:35:06.180 | Wellby] else."
+        ],
+        "after": [
+          "[u1079 | 01:35:07.380-01:35:13.720 | Delwath] Yeah, so we should always have a Seeker. We should have a Seeker 4, really. I mean, why would we not have a Seeker?",
+          "[u1080 | 01:35:13.720-01:35:19.960 | DM] Well, just thinking, if you have Seeker 4, then you can actually cast Teleport 5 times."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1078 | 01:35:06.180-01:35:07.200 | Seeker] situation.",
+        "before": [
+          "[u1076 | 01:34:58.440-01:35:04.859 | DM] That's what's cool about Wish, is you can cast an 8th level or lower level spell with no material components.",
+          "[u1077 | 01:35:05.830-01:35:06.180 | Wellby] else."
+        ],
+        "after": [
+          "[u1079 | 01:35:07.380-01:35:13.720 | Delwath] Yeah, so we should always have a Seeker. We should have a Seeker 4, really. I mean, why would we not have a Seeker?",
+          "[u1080 | 01:35:13.720-01:35:19.960 | DM] Well, just thinking, if you have Seeker 4, then you can actually cast Teleport 5 times."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1104",
+      "importance": "incidental",
+      "span": "He's casted.",
+      "reason": "Overlapping fragment.",
+      "reviewId": "I040",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1104 | 01:36:37.230-01:36:38.410 | DM] He's casted.",
+        "before": [
+          "[u1102 | 01:36:32.260-01:36:33.040 | DM] Wow.",
+          "[u1103 | 01:36:33.770-01:36:36.219 | DM] Yeah, you could bring… you could bring a small one."
+        ],
+        "after": [
+          "[u1105 | 01:36:38.620-01:36:41.720 | Delwath] Although, honestly, the Rainbow Bridge is a giant rainbow, right?",
+          "[u1106 | 01:36:42.270-01:36:42.720 | DM] Yep."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1104 | 01:36:37.230-01:36:38.410 | DM] He's casted.",
+        "before": [
+          "[u1102 | 01:36:32.260-01:36:33.040 | DM] Wow.",
+          "[u1103 | 01:36:33.770-01:36:36.219 | DM] Yeah, you could bring… you could bring a small one."
+        ],
+        "after": [
+          "[u1105 | 01:36:38.620-01:36:41.720 | Delwath] Although, honestly, the Rainbow Bridge is a giant rainbow, right?",
+          "[u1106 | 01:36:42.270-01:36:42.720 | DM] Yep."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1126",
+      "importance": "incidental",
+      "span": "Like, you want to uncut.",
+      "reason": "Unclear interface chatter before rolling in Roll20.",
+      "reviewId": "I041",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1126 | 01:38:33.610-01:38:37.930 | Seeker] … so wait, I don't… Like, you want to uncut.",
+        "before": [
+          "[u1124 | 01:38:26.160-01:38:28.029 | DM] Go ahead and roll your teleport.",
+          "[u1125 | 01:38:28.810-01:38:32.599 | Seeker] Oh my god, we're gonna end up in the middle of a giant ash storm. …"
+        ],
+        "after": [
+          "[u1127 | 01:38:39.000-01:38:43.060 | Seeker] Oh, oh, just do it directly in, … Roll 20.",
+          "[u1128 | 01:38:43.420-01:38:44.350 | DM] Yeah, yeah, yeah."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1126 | 01:38:33.610-01:38:37.930 | Seeker] … so wait, I don't… Like, you want to uncut.",
+        "before": [
+          "[u1124 | 01:38:26.160-01:38:28.029 | DM] Go ahead and roll your teleport.",
+          "[u1125 | 01:38:28.810-01:38:32.599 | Seeker] Oh my god, we're gonna end up in the middle of a giant ash storm. …"
+        ],
+        "after": [
+          "[u1127 | 01:38:39.000-01:38:43.060 | Seeker] Oh, oh, just do it directly in, … Roll 20.",
+          "[u1128 | 01:38:43.420-01:38:44.350 | DM] Yeah, yeah, yeah."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1134",
+      "importance": "incidental",
+      "span": "But thinkers have never seen me.",
+      "reason": "Unclear cross-talk during die roll.",
+      "reviewId": "I042",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1134 | 01:39:03.100-01:39:04.660 | DM] But thinkers have never seen me.",
+        "before": [
+          "[u1132 | 01:38:50.710-01:38:54.200 | Delwath] Just tell me what you roll, in case I don't get in there in time.",
+          "[u1133 | 01:38:54.420-01:39:03.100 | Seeker] Oh, let me pull up the chart. So, this is… the viewed ones are described. 1 to 43 is mishap, 44 and 53 is a similar area."
+        ],
+        "after": [
+          "[u1135 | 01:39:04.660-01:39:05.590 | Seeker] The tree is off.",
+          "[u1136 | 01:39:05.590-01:39:06.790 | DM] So…."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1134 | 01:39:03.100-01:39:04.660 | DM] But thinkers have never seen me.",
+        "before": [
+          "[u1132 | 01:38:50.710-01:38:54.200 | Delwath] Just tell me what you roll, in case I don't get in there in time.",
+          "[u1133 | 01:38:54.420-01:39:03.100 | Seeker] Oh, let me pull up the chart. So, this is… the viewed once or described. 1 to 43 is mishap, 44 to 53 is a similar area."
+        ],
+        "after": [
+          "[u1135 | 01:39:04.660-01:39:05.590 | Seeker] The tree is off.",
+          "[u1136 | 01:39:05.590-01:39:06.790 | DM] So…."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1135",
+      "importance": "incidental",
+      "span": "The tree is off.",
+      "reason": "Interface/roll cross-talk.",
+      "reviewId": "I043",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1135 | 01:39:04.660-01:39:05.590 | Seeker] The tree is off.",
+        "before": [
+          "[u1133 | 01:38:54.420-01:39:03.100 | Seeker] Oh, let me pull up the chart. So, this is… the viewed ones are described. 1 to 43 is mishap, 44 and 53 is a similar area.",
+          "[u1134 | 01:39:03.100-01:39:04.660 | DM] But thinkers have never seen me."
+        ],
+        "after": [
+          "[u1136 | 01:39:05.590-01:39:06.790 | DM] So….",
+          "[u1137 | 01:39:06.790-01:39:10.940 | Seeker] The 74-100 is on target. Okay, and… But you also…."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1135 | 01:39:04.660-01:39:05.590 | Seeker] The tree is off.",
+        "before": [
+          "[u1133 | 01:38:54.420-01:39:03.100 | Seeker] Oh, let me pull up the chart. So, this is… the viewed once or described. 1 to 43 is mishap, 44 to 53 is a similar area.",
+          "[u1134 | 01:39:03.100-01:39:04.660 | DM] But thinkers have never seen me."
+        ],
+        "after": [
+          "[u1136 | 01:39:05.590-01:39:06.790 | DM] So….",
+          "[u1137 | 01:39:06.790-01:39:10.940 | Seeker] The 74-100 is on target. Okay, and… But you also…."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1147",
+      "importance": "incidental",
+      "span": "Okay, socean.",
+      "reason": "Unclear reaction to reroll.",
+      "reviewId": "I044",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1147 | 01:39:36.530-01:39:38.010 | Delwath] Okay, socean.",
+        "before": [
+          "[u1145 | 01:39:32.970-01:39:33.410 | DM] So I'm….",
+          "[u1146 | 01:39:33.410-01:39:35.850 | Seeker] Use heroic inspiration."
+        ],
+        "after": [
+          "[u1148 | 01:39:38.010-01:39:39.710 | DM] Nevermind, that doesn't happen then.",
+          "[u1149 | 01:39:40.490-01:39:41.960 | Seeker] So I re-roll."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1147 | 01:39:36.530-01:39:38.010 | Delwath] Okay, socean.",
+        "before": [
+          "[u1145 | 01:39:32.970-01:39:33.410 | DM] So I'm….",
+          "[u1146 | 01:39:33.410-01:39:35.850 | Seeker] Use heroic inspiration."
+        ],
+        "after": [
+          "[u1148 | 01:39:38.010-01:39:39.710 | DM] Nevermind, that doesn't happen then.",
+          "[u1149 | 01:39:40.490-01:39:41.960 | Seeker] So I re-roll."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1153",
+      "importance": "incidental",
+      "span": "It's sort of adjustment.",
+      "reason": "Unclear reaction after successful teleport.",
+      "reviewId": "I045",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1153 | 01:39:55.110-01:39:56.110 | Seeker] It's sort of adjustment.",
+        "before": [
+          "[u1151 | 01:39:48.950-01:39:49.900 | Seeker] There you go!",
+          "[u1152 | 01:39:49.900-01:39:54.800 | DM] And Seeker continues to never fail at teleportation."
+        ],
+        "after": [
+          "[u1154 | 01:39:56.110-01:40:00.859 | Delwath] Like, Delwood's cookies to encourage you to, like, do it right, right?",
+          "[u1155 | 01:40:01.390-01:40:02.410 | Seeker] Oh, delicious."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1153 | 01:39:55.110-01:39:56.110 | Seeker] It's sort of adjustment.",
+        "before": [
+          "[u1151 | 01:39:48.950-01:39:49.900 | Seeker] There you go!",
+          "[u1152 | 01:39:49.900-01:39:54.800 | DM] And Seeker continues to never fail at teleportation."
+        ],
+        "after": [
+          "[u1154 | 01:39:56.110-01:40:00.859 | Delwath] Like, Delwath's cookies to encourage you to, like, do it right, right?",
+          "[u1155 | 01:40:01.390-01:40:02.410 | Seeker] Oh, delicious."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1184",
+      "importance": "incidental",
+      "span": "See you, dude.",
+      "reason": "Brief reaction to successful teleport.",
+      "reviewId": "I046",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1184 | 01:42:23.900-01:42:24.299 | Seeker] See you, dude.",
+        "before": [
+          "[u1182 | 01:42:18.510-01:42:19.879 | Seeker] Right, right on target.",
+          "[u1183 | 01:42:21.160-01:42:22.160 | Wellby] 100% of the time."
+        ],
+        "after": [
+          "[u1185 | 01:42:26.050-01:42:28.790 | DM] Let's walk a little ways, I…",
+          "[u1186 | 01:42:29.370-01:42:32.540 | DM] We should obviously talk, but I don't want to wake the children."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1184 | 01:42:23.900-01:42:24.299 | Seeker] See you, dude.",
+        "before": [
+          "[u1182 | 01:42:18.510-01:42:19.879 | Seeker] Right, right on target.",
+          "[u1183 | 01:42:21.160-01:42:22.160 | Wellby] 100% of the time."
+        ],
+        "after": [
+          "[u1185 | 01:42:26.050-01:42:28.790 | DM] Let's walk a little ways, I…",
+          "[u1186 | 01:42:29.370-01:42:32.540 | DM] We should obviously talk, but I don't want to wake the children."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1240",
+      "importance": "incidental",
+      "span": "Often the Plaguelands.",
+      "reason": "Broken restatement of the army's origin, explicitly established in nearby discussion.",
+      "reviewId": "I047",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1240 | 01:46:27.570-01:46:29.489 | DM] Often the plague lands.",
+        "before": [
+          "[u1238 | 01:46:23.060-01:46:24.849 | Wellby] Where would they have come from?",
+          "[u1239 | 01:46:27.030-01:46:27.570 | Delwath] I think…."
+        ],
+        "after": [
+          "[u1241 | 01:46:30.360-01:46:36.220 | Wellby] Yeah, but I mean, I thought the idea of the Plaguelands was nothing… lives there.",
+          "[u1242 | 01:46:37.090-01:46:39.379 | DM] It's more complicated than that."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1240 | 01:46:27.570-01:46:29.489 | DM] Often the Plaguelands.",
+        "before": [
+          "[u1238 | 01:46:23.060-01:46:24.849 | Wellby] Where would they have come from?",
+          "[u1239 | 01:46:27.030-01:46:27.570 | Delwath] I think…."
+        ],
+        "after": [
+          "[u1241 | 01:46:30.360-01:46:36.220 | Wellby] Yeah, but I mean, I thought the idea of the Plaguelands was nothing… lives there.",
+          "[u1242 | 01:46:37.090-01:46:39.379 | DM] It's more complicated than that."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1312",
+      "importance": "incidental",
+      "span": "spot.",
+      "reason": "Isolated interjection.",
+      "reviewId": "I048",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1312 | 01:52:02.600-01:52:03.210 | Seeker] spot.",
+        "before": [
+          "[u1310 | 01:51:58.490-01:51:59.260 | Delwath] Hell yeah.",
+          "[u1311 | 01:52:01.160-01:52:02.600 | DM] That's 24 hours."
+        ],
+        "after": [
+          "[u1313 | 01:52:03.530-01:52:05.429 | DM] Right, right, right, it lasts 24 hours.",
+          "[u1314 | 01:52:07.090-01:52:11.580 | Delwath] So in theory, you could fly out there, do some scouting, find a place to hide, rest."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1312 | 01:52:02.600-01:52:03.210 | Seeker] spot.",
+        "before": [
+          "[u1310 | 01:51:58.490-01:51:59.260 | Delwath] Hell yeah.",
+          "[u1311 | 01:52:01.160-01:52:02.600 | DM] That's 24 hours."
+        ],
+        "after": [
+          "[u1313 | 01:52:03.530-01:52:05.429 | DM] Right, right, right, it lasts 24 hours.",
+          "[u1314 | 01:52:07.090-01:52:11.580 | Delwath] So in theory, you could fly out there, do some scouting, find a place to hide, rest."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1324",
+      "importance": "incidental",
+      "span": "Julie.",
+      "reason": "Isolated cross-talk in teleport discussion.",
+      "reviewId": "I049",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1324 | 01:52:48.370-01:52:48.730 | Seeker] Julie.",
+        "before": [
+          "[u1322 | 01:52:46.320-01:52:46.940 | Delwath] Yep.",
+          "[u1323 | 01:52:47.430-01:52:48.369 | Delwath] Because isn't…."
+        ],
+        "after": [
+          "[u1325 | 01:52:48.730-01:52:50.819 | Delwath] You need to teleport to anywhere that you have.",
+          "[u1326 | 01:52:50.820-01:52:53.980 | DM] Yes, if you have an object, it's automatic success."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1324 | 01:52:48.370-01:52:48.730 | Seeker] Julie.",
+        "before": [
+          "[u1322 | 01:52:46.320-01:52:46.940 | Delwath] Yep.",
+          "[u1323 | 01:52:47.430-01:52:48.369 | Delwath] Because isn't…."
+        ],
+        "after": [
+          "[u1325 | 01:52:48.730-01:52:50.819 | Delwath] You need to teleport to anywhere that you have.",
+          "[u1326 | 01:52:50.820-01:52:53.980 | DM] Yes, if you have an object, it's automatic success."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1325",
+      "importance": "incidental",
+      "span": "You need to teleport to anywhere that you have.",
+      "reason": "Truncated spell-condition phrase immediately clarified in next line.",
+      "reviewId": "I050",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1325 | 01:52:48.730-01:52:50.819 | Delwath] You need to teleport to anywhere that you have.",
+        "before": [
+          "[u1323 | 01:52:47.430-01:52:48.369 | Delwath] Because isn't….",
+          "[u1324 | 01:52:48.370-01:52:48.730 | Seeker] Julie."
+        ],
+        "after": [
+          "[u1326 | 01:52:50.820-01:52:53.980 | DM] Yes, if you have an object, it's automatic success.",
+          "[u1327 | 01:52:54.710-01:53:04.199 | Seeker] Iker goes to put some dirt into a pocket and notices that he has already collected rocks from this location here in his usual unconscious process of collecting rocks from all locations."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1325 | 01:52:48.730-01:52:50.819 | Delwath] You need to teleport to anywhere that you have.",
+        "before": [
+          "[u1323 | 01:52:47.430-01:52:48.369 | Delwath] Because isn't….",
+          "[u1324 | 01:52:48.370-01:52:48.730 | Seeker] Julie."
+        ],
+        "after": [
+          "[u1326 | 01:52:50.820-01:52:53.980 | DM] Yes, if you have an object, it's automatic success.",
+          "[u1327 | 01:52:54.710-01:53:04.199 | Seeker] Seeker goes to put some dirt into a pocket and notices that he has already collected rocks from this location here in his usual unconscious process of collecting rocks from all locations."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1376",
+      "importance": "incidental",
+      "span": "Style.",
+      "reason": "Brief cross-talk.",
+      "reviewId": "I051",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1376 | 01:56:19.570-01:56:20.510 | DM] Style.",
+        "before": [
+          "[u1374 | 01:56:12.710-01:56:13.630 | DM] A minute.",
+          "[u1375 | 01:56:13.790-01:56:15.200 | Delwath] Oh yeah, that's pretty short."
+        ],
+        "after": [
+          "[u1377 | 01:56:22.200-01:56:23.870 | Wellby] Carcella, like….",
+          "[u1378 | 01:56:23.940-01:56:31.240 | DM] Smiles again. … I guess I will try and get a little more rest."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1376 | 01:56:19.570-01:56:20.510 | DM] Style.",
+        "before": [
+          "[u1374 | 01:56:12.710-01:56:13.630 | DM] A minute.",
+          "[u1375 | 01:56:13.790-01:56:15.200 | Delwath] Oh yeah, that's pretty short."
+        ],
+        "after": [
+          "[u1377 | 01:56:22.200-01:56:23.870 | Wellby] Marcella, like….",
+          "[u1378 | 01:56:23.940-01:56:31.240 | DM] Smiles again. … I guess I will try and get a little more rest."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1413",
+      "importance": "incidental",
+      "span": "altered? What?",
+      "reason": "Overlapping reaction.",
+      "reviewId": "I052",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1413 | 01:58:51.660-01:58:52.299 | Wellby] altered? What?",
+        "before": [
+          "[u1411 | 01:58:42.230-01:58:44.479 | DM] Would dearly like to speak to you.",
+          "[u1412 | 01:58:45.990-01:58:49.449 | DM] That is a holy site to the cult of Beryl."
+        ],
+        "after": [
+          "[u1414 | 01:58:52.300-01:58:52.910 | Seeker] terrible.",
+          "[u1415 | 01:58:54.220-01:58:54.640 | DM] the…."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1413 | 01:58:51.660-01:58:52.299 | Wellby] altered? What?",
+        "before": [
+          "[u1411 | 01:58:42.230-01:58:44.479 | DM] Would dearly like to speak to you.",
+          "[u1412 | 01:58:45.990-01:58:49.449 | DM] That is a holy site to the cult of Beryl."
+        ],
+        "after": [
+          "[u1414 | 01:58:52.300-01:58:52.910 | Seeker] terrible.",
+          "[u1415 | 01:58:54.220-01:58:54.640 | DM] the…."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1414",
+      "importance": "incidental",
+      "span": "terrible.",
+      "reason": "Overlapping reaction.",
+      "reviewId": "I053",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1414 | 01:58:52.300-01:58:52.910 | Seeker] terrible.",
+        "before": [
+          "[u1412 | 01:58:45.990-01:58:49.449 | DM] That is a holy site to the cult of Beryl.",
+          "[u1413 | 01:58:51.660-01:58:52.299 | Wellby] altered? What?"
+        ],
+        "after": [
+          "[u1415 | 01:58:54.220-01:58:54.640 | DM] the….",
+          "[u1416 | 01:58:54.640-01:58:56.460 | Wellby] Is that one of these new human gods?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u1414 | 01:58:52.300-01:58:52.910 | Seeker] terrible.",
+        "before": [
+          "[u1412 | 01:58:45.990-01:58:49.449 | DM] That is a holy site to the cult of Beryl.",
+          "[u1413 | 01:58:51.660-01:58:52.299 | Wellby] altered? What?"
+        ],
+        "after": [
+          "[u1415 | 01:58:54.220-01:58:54.640 | DM] the….",
+          "[u1416 | 01:58:54.640-01:58:56.460 | Wellby] Is that one of these new human gods?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1418",
+      "importance": "incidental",
+      "span": "Sit.",
+      "reason": "Short unclear fragment before constellation explanation.",
+      "reviewId": "I054",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1418 | 01:58:59.640-01:59:00.450 | Wellby] Sit.",
+        "before": [
+          "[u1416 | 01:58:54.640-01:58:56.460 | Wellby] Is that one of these new human gods?",
+          "[u1417 | 01:58:56.870-01:58:57.830 | DM] Hunter?"
+        ],
+        "after": [
+          "[u1419 | 01:59:00.670-01:59:04.419 | DM] Constellation that appeared in the sky a few hundred years ago.",
+          "[u1420 | 01:59:05.300-01:59:10.729 | DM] Apparently… Is a demigod of sorts?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u1418 | 01:58:59.640-01:59:00.450 | Wellby] Sit.",
+        "before": [
+          "[u1416 | 01:58:54.640-01:58:56.460 | Wellby] Is that one of these new human gods?",
+          "[u1417 | 01:58:56.870-01:58:57.830 | DM] Hunter?"
+        ],
+        "after": [
+          "[u1419 | 01:59:00.670-01:59:04.419 | DM] Constellation that appeared in the sky a few hundred years ago.",
+          "[u1420 | 01:59:05.300-01:59:10.729 | DM] Apparently… Is a demigod of sorts?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1473",
+      "importance": "incidental",
+      "span": "Bobby… Bobby got?",
+      "reason": "Table chatter about waking participant.",
+      "reviewId": "I055",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1473 | 02:03:31.050-02:03:32.790 | Delwath] Bobby… Bobby got?",
+        "before": [
+          "[u1471 | 02:03:28.210-02:03:29.260 | DM] Not really.",
+          "[u1472 | 02:03:30.420-02:03:31.050 | DM] That's okay."
+        ],
+        "after": [
+          "[u1474 | 02:03:33.180-02:03:34.590 | Delwath] Kenzo the Eagle?",
+          "[u1475 | 02:03:36.220-02:03:41.129 | DM] Kong can only really, you know, keep himself awake for workers' rights."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1473 | 02:03:31.050-02:03:32.790 | Delwath] Bobby… Bobby got?",
+        "before": [
+          "[u1471 | 02:03:28.210-02:03:29.260 | DM] Not really.",
+          "[u1472 | 02:03:30.420-02:03:31.050 | DM] That's okay."
+        ],
+        "after": [
+          "[u1474 | 02:03:33.180-02:03:34.590 | Delwath] Kenzo the Eagle?",
+          "[u1475 | 02:03:36.220-02:03:41.129 | DM] Kong can only really, you know, keep himself awake for workers' rights."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1479",
+      "importance": "incidental",
+      "span": "Yeah, don't lose.",
+      "reason": "Short table response.",
+      "reviewId": "I056",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1479 | 02:03:50.360-02:03:51.549 | Delwath] Yeah, don't lose.",
+        "before": [
+          "[u1477 | 02:03:45.610-02:03:49.219 | Delwath] We're turning into eagles to go investigate the Hobgoblin army.",
+          "[u1478 | 02:03:49.360-02:03:50.250 | Kenzo] Oh, that's good."
+        ],
+        "after": [
+          "[u1480 | 02:03:53.770-02:03:54.150 | DM] Ow.",
+          "[u1481 | 02:03:54.150-02:03:56.229 | Delwath] Wait, you were there for Seekers."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1479 | 02:03:50.360-02:03:51.549 | Delwath] Yeah, don't lose.",
+        "before": [
+          "[u1477 | 02:03:45.610-02:03:49.219 | Delwath] We're turning into eagles to go investigate the Hobgoblin army.",
+          "[u1478 | 02:03:49.360-02:03:50.250 | Kenzo] Oh, that's good."
+        ],
+        "after": [
+          "[u1480 | 02:03:53.770-02:03:54.150 | DM] Ow.",
+          "[u1481 | 02:03:54.150-02:03:56.229 | Delwath] Wait, you were there for Seeker's."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1485",
+      "importance": "incidental",
+      "span": "That's the other bit we weren't.",
+      "reason": "Abandoned aside after explicit statement about Beryl.",
+      "reviewId": "I057",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1485 | 02:04:04.130-02:04:07.609 | Delwath] Apparently, these people worship Beryl. That's the other bit we weren't.",
+        "before": [
+          "[u1483 | 02:03:58.180-02:03:59.470 | Kenzo] I did. I caught that, yes.",
+          "[u1484 | 02:03:59.470-02:04:03.029 | Delwath] You got that, so… Now we're off."
+        ],
+        "after": [
+          "[u1486 | 02:04:08.090-02:04:08.980 | Kenzo] What?",
+          "[u1487 | 02:04:08.980-02:04:10.700 | Delwath] Some of these people worship Beryl."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1485 | 02:04:04.130-02:04:07.609 | Delwath] Apparently, these people worship Beryl. That's the other bit we weren't.",
+        "before": [
+          "[u1483 | 02:03:58.180-02:03:59.470 | Kenzo] I did. I caught that, yes.",
+          "[u1484 | 02:03:59.470-02:04:03.029 | Delwath] You got that, so… Now we're off."
+        ],
+        "after": [
+          "[u1486 | 02:04:08.090-02:04:08.980 | Kenzo] What?",
+          "[u1487 | 02:04:08.980-02:04:10.700 | Delwath] Some of these people worship Beryl."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1544",
+      "importance": "incidental",
+      "span": "P.",
+      "reason": "Trailing interjection.",
+      "reviewId": "I058",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1544 | 02:10:11.910-02:10:20.540 | Delwath] So, I think we should… Should we land before… P.",
+        "before": [
+          "[u1542 | 02:09:47.740-02:09:52.949 | DM] You know, about that much, … You know, twice as long.",
+          "[u1543 | 02:10:00.210-02:10:04.489 | DM] And it's maybe 20 miles ahead of you on this broken terrain."
+        ],
+        "after": [
+          "[u1545 | 02:10:21.100-02:10:25.139 | Delwath] I don't know if we should try and fly over it, or if we should, like, land and…",
+          "[u1546 | 02:10:25.820-02:10:27.460 | Delwath] There's probably not a lot of, like."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1544 | 02:10:11.910-02:10:20.540 | Delwath] So, I think we should… Should we land before… P.",
+        "before": [
+          "[u1542 | 02:09:47.740-02:09:52.949 | DM] You know, about that much, … You know, twice as long.",
+          "[u1543 | 02:10:00.210-02:10:04.489 | DM] And it's maybe 20 miles ahead of you on this broken terrain."
+        ],
+        "after": [
+          "[u1545 | 02:10:21.100-02:10:25.139 | Delwath] I don't know if we should try and fly over it, or if we should, like, land and…",
+          "[u1546 | 02:10:25.820-02:10:27.460 | Delwath] There's probably not a lot of, like."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1561",
+      "importance": "incidental",
+      "span": "Are there other ends?",
+      "reason": "Unclear aside followed by explicit question about nearby birds.",
+      "reviewId": "I059",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1561 | 02:11:25.200-02:11:28.340 | Delwath] … Are there other ends?",
+        "before": [
+          "[u1559 | 02:11:15.910-02:11:18.010 | DM] You have to transform out.",
+          "[u1560 | 02:11:20.640-02:11:22.689 | Wellby] Do I… well, yeah, fair."
+        ],
+        "after": [
+          "[u1562 | 02:11:32.120-02:11:36.320 | DM] There's not just, like, other hawks flying around or anything.",
+          "[u1563 | 02:11:36.520-02:11:40.799 | DM] Maybe there's… there's not… there does not seem to be a lot of bird life here."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1561 | 02:11:25.200-02:11:28.340 | Delwath] … Are there other ends?",
+        "before": [
+          "[u1559 | 02:11:15.910-02:11:18.010 | DM] You have to transform out.",
+          "[u1560 | 02:11:20.640-02:11:22.689 | Wellby] Do I… well, yeah, fair."
+        ],
+        "after": [
+          "[u1562 | 02:11:32.120-02:11:36.320 | DM] There's not just, like, other hawks flying around or anything.",
+          "[u1563 | 02:11:36.520-02:11:40.799 | DM] Maybe there's… there's not… there does not seem to be a lot of bird life here."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1582",
+      "importance": "incidental",
+      "span": "Thus…",
+      "reason": "Trailing fragment.",
+      "reviewId": "I060",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1582 | 02:13:26.550-02:13:29.730 | Delwath] I mean, what's the… what, like… Thus…",
+        "before": [
+          "[u1580 | 02:13:17.570-02:13:19.700 | Delwath] Turn invisible and go scout.",
+          "[u1581 | 02:13:19.930-02:13:23.249 | Delwath] Have some of us go scout invisibly, and some people just hang back."
+        ],
+        "after": [
+          "[u1583 | 02:13:30.050-02:13:33.849 | Delwath] What's the sight distance of seeing if a human is standing on a flat plane?",
+          "[u1584 | 02:13:34.390-02:13:38.020 | Delwath] How close do you have to be to actually see… make out that it's a person?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u1582 | 02:13:26.550-02:13:29.730 | Delwath] I mean, what's the… what, like… Thus…",
+        "before": [
+          "[u1580 | 02:13:17.570-02:13:19.700 | Delwath] Turn invisible and go scout.",
+          "[u1581 | 02:13:19.930-02:13:23.249 | Delwath] Have some of us go scout invisibly, and some people just hang back."
+        ],
+        "after": [
+          "[u1583 | 02:13:30.050-02:13:33.849 | Delwath] What's the sight distance of seeing if a human is standing on a flat plain?",
+          "[u1584 | 02:13:34.390-02:13:38.020 | Delwath] How close do you have to be to actually see… make out that it's a person?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1586",
+      "importance": "incidental",
+      "span": "it's very crap",
+      "reason": "Unclear brief terrain description; adjacent units explicitly establish rough, broken terrain.",
+      "reviewId": "I061",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1586 | 02:13:48.050-02:13:48.919 | Delwath] Right, it's very crap.",
+        "before": [
+          "[u1584 | 02:13:34.390-02:13:38.020 | Delwath] How close do you have to be to actually see… make out that it's a person?",
+          "[u1585 | 02:13:39.800-02:13:45.010 | DM] Pretty close, but… and also, this is not a… this is nothing like a flat plain."
+        ],
+        "after": [
+          "[u1587 | 02:13:50.560-02:13:53.529 | Wellby] If I was invisible, too, I could fly out there.",
+          "[u1588 | 02:13:53.530-02:13:53.930 | Delwath] Yeah."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1586 | 02:13:48.050-02:13:48.919 | Delwath] Right, it's very crap.",
+        "before": [
+          "[u1584 | 02:13:34.390-02:13:38.020 | Delwath] How close do you have to be to actually see… make out that it's a person?",
+          "[u1585 | 02:13:39.800-02:13:45.010 | DM] Pretty close, but… and also, this is not a… this is nothing like a flat plain."
+        ],
+        "after": [
+          "[u1587 | 02:13:50.560-02:13:53.529 | Wellby] If I was invisible, too, I could fly out there.",
+          "[u1588 | 02:13:53.530-02:13:53.930 | Delwath] Yeah."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1597",
+      "importance": "incidental",
+      "span": "doubt.",
+      "reason": "Isolated fragment.",
+      "reviewId": "I062",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1597 | 02:14:32.930-02:14:33.540 | Delwath] doubt.",
+        "before": [
+          "[u1595 | 02:14:26.470-02:14:27.000 | Wellby] Yeah.",
+          "[u1596 | 02:14:27.340-02:14:29.220 | DM] The usual Scouts."
+        ],
+        "after": [
+          "[u1598 | 02:14:35.230-02:14:39.589 | DM] Right now, the column seems to be marching, like…",
+          "[u1599 | 02:14:40.150-02:14:45.789 | DM] you know, along… like, you see them basically in a valley. They're, like, following up A."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1597 | 02:14:32.930-02:14:33.540 | Delwath] doubt.",
+        "before": [
+          "[u1595 | 02:14:26.470-02:14:27.000 | Wellby] Yeah.",
+          "[u1596 | 02:14:27.340-02:14:29.220 | DM] The usual Scouts."
+        ],
+        "after": [
+          "[u1598 | 02:14:35.230-02:14:39.589 | DM] Right now, the column seems to be marching, like…",
+          "[u1599 | 02:14:40.150-02:14:45.789 | DM] you know, along… like, you see them basically in a valley. They're, like, following up A."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1662",
+      "importance": "incidental",
+      "span": "About one bit.",
+      "reason": "Cross-talk before scouting narration.",
+      "reviewId": "I063",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1662 | 02:21:33.900-02:21:34.760 | Delwath] About one bit.",
+        "before": [
+          "[u1660 | 02:21:29.870-02:21:31.620 | Delwath] or anything is pretty close.",
+          "[u1661 | 02:21:31.620-02:21:32.779 | Wellby] Let's take a look in there."
+        ],
+        "after": [
+          "[u1663 | 02:21:35.620-02:21:38.289 | DM] Invisible, you begin to move closer.",
+          "[u1664 | 02:21:40.550-02:21:48.189 | DM] … moving at an angle to sort of approach this cloud from the side. It's maybe…"
+        ]
+      },
+      "cleaned": {
+        "line": "[u1662 | 02:21:33.900-02:21:34.760 | Delwath] About one bit.",
+        "before": [
+          "[u1660 | 02:21:29.870-02:21:31.620 | Delwath] or anything is pretty close.",
+          "[u1661 | 02:21:31.620-02:21:32.779 | Wellby] Let's take a look in there."
+        ],
+        "after": [
+          "[u1663 | 02:21:35.620-02:21:38.289 | DM] Invisible, you begin to move closer.",
+          "[u1664 | 02:21:40.550-02:21:48.189 | DM] … moving at an angle to sort of approach this cloud from the side. It's maybe…"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1678",
+      "importance": "incidental",
+      "span": "dope.",
+      "reason": "Interjection during description.",
+      "reviewId": "I064",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1678 | 02:23:21.340-02:23:26.730 | DM] As you get within a mile, … dope.",
+        "before": [
+          "[u1676 | 02:23:13.730-02:23:15.700 | DM] Within about a mile.",
+          "[u1677 | 02:23:18.260-02:23:20.969 | DM] And you can… you can see now, actually."
+        ],
+        "after": [
+          "[u1679 | 02:23:27.080-02:23:30.999 | DM] The ash is almost… is, like, almost, …",
+          "[u1680 | 02:23:32.710-02:23:39.639 | DM] It's like spilling off the top of something, and then, like, flowing down along the ground, and forming this sort of…"
+        ]
+      },
+      "cleaned": {
+        "line": "[u1678 | 02:23:21.340-02:23:26.730 | DM] As you get within a mile, … dope.",
+        "before": [
+          "[u1676 | 02:23:13.730-02:23:15.700 | DM] Within about a mile.",
+          "[u1677 | 02:23:18.260-02:23:20.969 | DM] And you can… you can see now, actually."
+        ],
+        "after": [
+          "[u1679 | 02:23:27.080-02:23:30.999 | DM] The ash is almost… is, like, almost, …",
+          "[u1680 | 02:23:32.710-02:23:39.639 | DM] It's like spilling off the top of something, and then, like, flowing down along the ground, and forming this sort of…"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1731",
+      "importance": "incidental",
+      "span": "Different things to the bat to itself.",
+      "reason": "Joke/cross-talk about the bat's thoughts.",
+      "reviewId": "I065",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1731 | 02:27:05.290-02:27:07.529 | Wellby] Different things to the bat to itself.",
+        "before": [
+          "[u1729 | 02:27:04.380-02:27:04.750 | Wellby] This time.",
+          "[u1730 | 02:27:04.750-02:27:05.290 | DM] I'm looking out."
+        ],
+        "after": [
+          "[u1732 | 02:27:07.530-02:27:09.280 | DM] Yeah. Thanks.",
+          "[u1733 | 02:27:10.490-02:27:14.039 | DM] There's no way this is gonna be different. Where is he sending me?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u1731 | 02:27:05.290-02:27:07.529 | Wellby] Different things to the bat to itself.",
+        "before": [
+          "[u1729 | 02:27:04.380-02:27:04.750 | Wellby] This time.",
+          "[u1730 | 02:27:04.750-02:27:05.290 | DM] I'm looking out."
+        ],
+        "after": [
+          "[u1732 | 02:27:07.530-02:27:09.280 | DM] Yeah. Thanks.",
+          "[u1733 | 02:27:10.490-02:27:14.039 | DM] There's no way this is gonna be different. Where is he sending me?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1763",
+      "importance": "incidental",
+      "span": "Pete?",
+      "reason": "Brief reaction.",
+      "reviewId": "I066",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1763 | 02:29:40.200-02:29:40.800 | Delwath] Pete?",
+        "before": [
+          "[u1761 | 02:29:33.690-02:29:36.859 | DM] feet, that are, like, appearing and disappearing, and…",
+          "[u1762 | 02:29:37.110-02:29:40.199 | DM] slowly pulling… So it's a meca sentiment."
+        ],
+        "after": [
+          "[u1764 | 02:29:43.960-02:29:49.720 | Wellby] Does the… just out of curiosity, is the size… if this is one thing that…",
+          "[u1765 | 02:29:49.890-02:30:03.400 | Wellby] thousands are riding on. Does the size of that thing match the size of the thing that shot its pseudopod, or tentacle, or whatever? Like, could that conceivably be the same thing that we ran into in Innocent Gay?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u1763 | 02:29:40.200-02:29:40.800 | Delwath] Pete?",
+        "before": [
+          "[u1761 | 02:29:33.690-02:29:36.859 | DM] feet, that are, like, appearing and disappearing, and…",
+          "[u1762 | 02:29:37.110-02:29:40.199 | DM] slowly pulling… So it's a mecha centipede."
+        ],
+        "after": [
+          "[u1764 | 02:29:43.960-02:29:49.720 | Wellby] Does the… just out of curiosity, is the size… if this is one thing that…",
+          "[u1765 | 02:29:49.890-02:30:03.400 | Wellby] thousands are riding on. Does the size of that thing match the size of the thing that shot its pseudopod, or tentacle, or whatever? Like, could that conceivably be the same thing that we ran into in Isingue?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1829",
+      "importance": "incidental",
+      "span": "None of that.",
+      "reason": "Short cross-talk.",
+      "reviewId": "I067",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1829 | 02:35:10.210-02:35:10.640 | Kenzo] None of that.",
+        "before": [
+          "[u1827 | 02:35:02.590-02:35:07.130 | Kenzo] Well, now that I'm level, there's a… there's a whole thing… can't I… can't I turn myself invisible now?",
+          "[u1828 | 02:35:08.270-02:35:10.009 | Delwath] You are currently invisible."
+        ],
+        "after": [
+          "[u1830 | 02:35:10.640-02:35:12.080 | DM] You are currently invisible.",
+          "[u1831 | 02:35:12.080-02:35:16.160 | Kenzo] No, no, no, no, but I remember reading something like, … 18th floor."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1829 | 02:35:10.210-02:35:10.640 | Kenzo] None of that.",
+        "before": [
+          "[u1827 | 02:35:02.590-02:35:07.130 | Kenzo] Well, now that I'm level, there's a… there's a whole thing… can't I… can't I turn myself invisible now?",
+          "[u1828 | 02:35:08.270-02:35:10.009 | Delwath] You are currently invisible."
+        ],
+        "after": [
+          "[u1830 | 02:35:10.640-02:35:12.080 | DM] You are currently invisible.",
+          "[u1831 | 02:35:12.080-02:35:16.160 | Kenzo] No, no, no, no, but I remember reading something like, … 18th level."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1836",
+      "importance": "incidental",
+      "span": "I thought I'm.",
+      "reason": "Cut-off response about character feature.",
+      "reviewId": "I068",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1836 | 02:35:33.650-02:35:34.149 | Kenzo] I thought I'm.",
+        "before": [
+          "[u1834 | 02:35:24.030-02:35:25.700 | DM] at 18th level.",
+          "[u1835 | 02:35:29.320-02:35:32.019 | DM] … you got…."
+        ],
+        "after": [
+          "[u1837 | 02:35:34.150-02:35:41.230 | DM] At the start of your turn, you can spend 3 focus points to have resistance to all damage except force for the next minute.",
+          "[u1838 | 02:35:44.220-02:35:45.459 | Kenzo] Where, where is that?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u1836 | 02:35:33.650-02:35:34.149 | Kenzo] I thought I'm.",
+        "before": [
+          "[u1834 | 02:35:24.030-02:35:25.700 | DM] at 18th level.",
+          "[u1835 | 02:35:29.320-02:35:32.019 | DM] … you got…."
+        ],
+        "after": [
+          "[u1837 | 02:35:34.150-02:35:41.230 | DM] At the start of your turn, you can spend 3 focus points to have resistance to all damage except force for the next minute.",
+          "[u1838 | 02:35:44.220-02:35:45.459 | Kenzo] Where, where is that?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1911",
+      "importance": "incidental",
+      "span": "Knock it off of one. Socks.",
+      "reason": "Unclear start of repeated suggestion to shoot a rider off the centipede.",
+      "reviewId": "I069",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1911 | 02:41:29.880-02:41:36.420 | Kenzo] Knock it off of one. Socks. I like that one. Let's shoot it. Let's shoot, let's shoot it in the back. Let's shoot it in the butt.",
+        "before": [
+          "[u1909 | 02:41:16.430-02:41:21.119 | Delwath] I mean… What else are we gonna… we're probably not gonna learn anything else.",
+          "[u1910 | 02:41:24.840-02:41:29.679 | Kenzo] This is weird. They're all on a giant, magical, moving, mechanical centipede. We have to, like."
+        ],
+        "after": [
+          "[u1912 | 02:41:36.720-02:41:37.390 | Seeker] What the heck?",
+          "[u1913 | 02:41:37.390-02:41:40.360 | Delwath] Iraq needs a briefing on the magical centipede."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1911 | 02:41:29.880-02:41:36.420 | Kenzo] Knock it off of one. Socks. I like that one. Let's shoot it. Let's shoot, let's shoot it in the back. Let's shoot it in the butt.",
+        "before": [
+          "[u1909 | 02:41:16.430-02:41:21.119 | Delwath] I mean… What else are we gonna… we're probably not gonna learn anything else.",
+          "[u1910 | 02:41:24.840-02:41:29.679 | Kenzo] This is weird. They're all on a giant, magical, moving, mechanical centipede. We have to, like."
+        ],
+        "after": [
+          "[u1912 | 02:41:36.720-02:41:37.390 | Seeker] What the heck?",
+          "[u1913 | 02:41:37.390-02:41:40.360 | Delwath] Eric needs a briefing on the magical centipede."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1919",
+      "importance": "incidental",
+      "span": "Not the only.",
+      "reason": "Interruption within description already stated in surrounding lines.",
+      "reviewId": "I070",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1919 | 02:42:01.660-02:42:02.100 | Kenzo] Not the only.",
+        "before": [
+          "[u1917 | 02:41:47.730-02:41:51.490 | DM] 300 foot… No, 1800 times 2. 1,800 on each side.",
+          "[u1918 | 02:41:51.490-02:42:01.660 | Delwath] There's, like… there's, like… 4,000 hobgoblins, well, 3,600 hopgoblins, clinging to, like, a 400-foot-long mechanical centipede that seems."
+        ],
+        "after": [
+          "[u1920 | 02:42:02.100-02:42:08.069 | Delwath] Almost magical centipede that seems to be almost teleporting through the ash.",
+          "[u1921 | 02:42:08.900-02:42:10.300 | Kenzo] It's like gliding over the ground."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1919 | 02:42:01.660-02:42:02.100 | Kenzo] Not the only.",
+        "before": [
+          "[u1917 | 02:41:47.730-02:41:51.490 | DM] 300 foot… No, 1800 times 2. 1,800 on each side.",
+          "[u1918 | 02:41:51.490-02:42:01.660 | Delwath] There's, like… there's, like… 4,000 hobgoblins, well, 3,600 hobgoblins, clinging to, like, a 400-foot-long mechanical centipede that seems."
+        ],
+        "after": [
+          "[u1920 | 02:42:02.100-02:42:08.069 | Delwath] Almost magical centipede that seems to be almost teleporting through the ash.",
+          "[u1921 | 02:42:08.900-02:42:10.300 | Kenzo] It's like gliding over the ground."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1930",
+      "importance": "incidental",
+      "span": "Chatasticity.",
+      "reason": "Unclear interjection.",
+      "reviewId": "I071",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1930 | 02:43:02.990-02:43:04.310 | Seeker] Chatasticity.",
+        "before": [
+          "[u1928 | 02:42:52.630-02:42:55.390 | Kenzo] What do y'all? I think that's a pretty good… I think that's a pretty good plan.",
+          "[u1929 | 02:42:55.960-02:42:57.509 | Seeker] Yeah, dude, definitely."
+        ],
+        "after": [
+          "[u1931 | 02:43:04.420-02:43:16.899 | Kenzo] I mean, the danger here is, of course, that they stop, and they're like, wait, where did that arrow come from? Let's stop what we're doing, and send all 4,000, like, you know, this is like, they're all on the same mission here, it's not like they can, like, branch off, you know? It's like….",
+          "[u1932 | 02:43:17.740-02:43:18.080 | Delwath] Why?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u1930 | 02:43:02.990-02:43:04.310 | Seeker] Chatasticity.",
+        "before": [
+          "[u1928 | 02:42:52.630-02:42:55.390 | Kenzo] What do y'all? I think that's a pretty good… I think that's a pretty good plan.",
+          "[u1929 | 02:42:55.960-02:42:57.509 | Seeker] Yeah, dude, definitely."
+        ],
+        "after": [
+          "[u1931 | 02:43:04.420-02:43:16.899 | Kenzo] I mean, the danger here is, of course, that they stop, and they're like, wait, where did that arrow come from? Let's stop what we're doing, and send all 4,000, like, you know, this is like, they're all on the same mission here, it's not like they can, like, branch off, you know? It's like….",
+          "[u1932 | 02:43:17.740-02:43:18.080 | Delwath] Why?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1952",
+      "importance": "incidental",
+      "span": "I'm, like, clinging to the side of it, and like, whys.",
+      "reason": "Unclear cross-talk paraphrasing the riders' positions; adjacent narration is explicit.",
+      "reviewId": "I072",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1952 | 02:44:16.920-02:44:19.769 | Delwath] I'm, like, clinging to the side of it, and like, whys.",
+        "before": [
+          "[u1950 | 02:44:12.630-02:44:15.730 | Seeker] And also carrying 3,600 hobgoblins.",
+          "[u1951 | 02:44:15.910-02:44:16.480 | Kenzo] Yeah."
+        ],
+        "after": [
+          "[u1953 | 02:44:21.850-02:44:25.520 | Delwath] And it's billowing ash out of its back, ash billowy things.",
+          "[u1954 | 02:44:26.720-02:44:27.660 | Wellby] What's that?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u1952 | 02:44:16.920-02:44:19.769 | Delwath] I'm, like, clinging to the side of it, and like, whys.",
+        "before": [
+          "[u1950 | 02:44:12.630-02:44:15.730 | Seeker] And also carrying 3,600 hobgoblins.",
+          "[u1951 | 02:44:15.910-02:44:16.480 | Kenzo] Yeah."
+        ],
+        "after": [
+          "[u1953 | 02:44:21.850-02:44:25.520 | Delwath] And it's billowing ash out of its back, ash billowy things.",
+          "[u1954 | 02:44:26.720-02:44:27.660 | Wellby] What's that?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1962",
+      "importance": "incidental",
+      "span": "Bringing them to legs?",
+      "reason": "Unclear fragment before explicit description of rings and platforms.",
+      "reviewId": "I073",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1962 | 02:44:56.650-02:44:58.129 | Seeker] Bringing them to legs?",
+        "before": [
+          "[u1960 | 02:44:51.220-02:44:54.440 | Wellby] You know, maybe if we're quick enough, they don't notice?",
+          "[u1961 | 02:44:56.150-02:44:56.649 | Kenzo] Yeah, I think…."
+        ],
+        "after": [
+          "[u1963 | 02:44:59.830-02:45:02.420 | Delwath] I don't think we quite know what they're hating, too.",
+          "[u1964 | 02:45:03.230-02:45:04.219 | Kenzo] I like this plan."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1962 | 02:44:56.650-02:44:58.129 | Seeker] Bringing them to legs?",
+        "before": [
+          "[u1960 | 02:44:51.220-02:44:54.440 | Wellby] You know, maybe if we're quick enough, they don't notice?",
+          "[u1961 | 02:44:56.150-02:44:56.649 | Kenzo] Yeah, I think…."
+        ],
+        "after": [
+          "[u1963 | 02:44:59.830-02:45:02.420 | Delwath] I don't think we quite know what they're hanging to.",
+          "[u1964 | 02:45:03.230-02:45:04.219 | Kenzo] I like this plan."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u1980",
+      "importance": "incidental",
+      "span": "Hundreds,",
+      "reason": "Short fragment before explicit spell range.",
+      "reviewId": "I074",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u1980 | 02:45:54.900-02:45:58.670 | Delwath] Hundreds, I have to be… 120 feet.",
+        "before": [
+          "[u1978 | 02:45:49.990-02:45:50.470 | Wellby] That's awesome.",
+          "[u1979 | 02:45:50.470-02:45:54.390 | Kenzo] on its own, there's no arrows involved. Hell yeah. Sleep is great. Let's do that."
+        ],
+        "after": [
+          "[u1981 | 02:45:59.090-02:46:01.360 | Wellby] Will you become uninvisible when you do that?",
+          "[u1982 | 02:46:01.760-02:46:03.190 | DM] become uninvisible."
+        ]
+      },
+      "cleaned": {
+        "line": "[u1980 | 02:45:54.900-02:45:58.670 | Delwath] Hundreds, I have to be… 120 feet.",
+        "before": [
+          "[u1978 | 02:45:49.990-02:45:50.470 | Wellby] That's awesome.",
+          "[u1979 | 02:45:50.470-02:45:54.390 | Kenzo] on its own, there's no arrows involved. Hell yeah. Sleep is great. Let's do that."
+        ],
+        "after": [
+          "[u1981 | 02:45:59.090-02:46:01.360 | Wellby] Will you become uninvisible when you do that?",
+          "[u1982 | 02:46:01.760-02:46:03.190 | DM] become uninvisible."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2023",
+      "importance": "incidental",
+      "span": "Frank, what's the….",
+      "reason": "Unclear interjection before explicit terrain question.",
+      "reviewId": "I075",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2023 | 02:48:32.440-02:48:33.670 | Seeker] Frank, what's the….",
+        "before": [
+          "[u2021 | 02:48:20.120-02:48:26.159 | Delwath] 60 feet? Like, if we… is there, like, a spot we could hide where it'll pass within 60 feet of us?",
+          "[u2022 | 02:48:27.080-02:48:29.540 | Seeker] We'll have to go directly underneath it, basically."
+        ],
+        "after": [
+          "[u2024 | 02:48:33.670-02:48:38.560 | Delwath] What's the… what's the train? Can we, like, be half-buried in the… can we, like, set up…",
+          "[u2025 | 02:48:39.520-02:48:44.959 | Delwath] I know it's relatively close, we don't have long, but can you, like, take 10 minutes and, like, set up a little…"
+        ]
+      },
+      "cleaned": {
+        "line": "[u2023 | 02:48:32.440-02:48:33.670 | Seeker] Frank, what's the….",
+        "before": [
+          "[u2021 | 02:48:20.120-02:48:26.159 | Delwath] 60 feet? Like, if we… is there, like, a spot we could hide where it'll pass within 60 feet of us?",
+          "[u2022 | 02:48:27.080-02:48:29.540 | Seeker] We'll have to go directly underneath it, basically."
+        ],
+        "after": [
+          "[u2024 | 02:48:33.670-02:48:38.560 | Delwath] What's the… what's the terrain? Can we, like, be half-buried in the… can we, like, set up…",
+          "[u2025 | 02:48:39.520-02:48:44.959 | Delwath] I know it's relatively close, we don't have long, but can you, like, take 10 minutes and, like, set up a little…"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2051",
+      "importance": "incidental",
+      "span": "I do doubling to get the.",
+      "reason": "Abandoned range-calculation fragment; range is restated.",
+      "reviewId": "I076",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2051 | 02:50:44.230-02:50:46.089 | Seeker] I do doubling to get the.",
+        "before": [
+          "[u2049 | 02:50:37.600-02:50:38.980 | Delwath] So it makes it harder for them to….",
+          "[u2050 | 02:50:38.980-02:50:44.230 | DM] Eric could also, let's see, 120, 240, Fuck it."
+        ],
+        "after": [
+          "[u2052 | 02:50:46.090-02:50:47.210 | DM] Willing to take a risk.",
+          "[u2053 | 02:50:47.210-02:50:47.669 | Seeker] Yes, yeah."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2051 | 02:50:44.230-02:50:46.089 | Seeker] I do doubling to get the.",
+        "before": [
+          "[u2049 | 02:50:37.600-02:50:38.980 | Delwath] So it makes it harder for them to….",
+          "[u2050 | 02:50:38.980-02:50:44.230 | DM] Eric could also, let's see, 120, 240, Fuck it."
+        ],
+        "after": [
+          "[u2052 | 02:50:46.090-02:50:47.210 | DM] Willing to take a risk.",
+          "[u2053 | 02:50:47.210-02:50:47.669 | Seeker] Yes, yeah."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2066",
+      "importance": "incidental",
+      "span": "I have to give.",
+      "reason": "Interrupted fragment.",
+      "reviewId": "I077",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2066 | 02:51:35.910-02:51:36.460 | Seeker] I have to give.",
+        "before": [
+          "[u2064 | 02:51:30.970-02:51:32.900 | DM] Or a Seeker 4 can teleport.",
+          "[u2065 | 02:51:33.340-02:51:33.980 | Seeker] Right."
+        ],
+        "after": [
+          "[u2067 | 02:51:36.460-02:51:36.830 | DM] Okay.",
+          "[u2068 | 02:51:36.830-02:51:37.470 | Seeker] rock."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2066 | 02:51:35.910-02:51:36.460 | Seeker] I have to give.",
+        "before": [
+          "[u2064 | 02:51:30.970-02:51:32.900 | DM] Or a Seeker 4 can teleport.",
+          "[u2065 | 02:51:33.340-02:51:33.980 | Seeker] Right."
+        ],
+        "after": [
+          "[u2067 | 02:51:36.460-02:51:36.830 | DM] Okay.",
+          "[u2068 | 02:51:36.830-02:51:37.470 | Seeker] rock."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2068",
+      "importance": "incidental",
+      "span": "rock.",
+      "reason": "Fragment in teleport contingency discussion.",
+      "reviewId": "I078",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2068 | 02:51:36.830-02:51:37.470 | Seeker] rock.",
+        "before": [
+          "[u2066 | 02:51:35.910-02:51:36.460 | Seeker] I have to give.",
+          "[u2067 | 02:51:36.460-02:51:36.830 | DM] Okay."
+        ],
+        "after": [
+          "[u2069 | 02:51:37.670-02:51:38.560 | Kenzo] You guys did it?",
+          "[u2070 | 02:51:38.940-02:51:40.739 | DM] So you set up a blind."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2068 | 02:51:36.830-02:51:37.470 | Seeker] rock.",
+        "before": [
+          "[u2066 | 02:51:35.910-02:51:36.460 | Seeker] I have to give.",
+          "[u2067 | 02:51:36.460-02:51:36.830 | DM] Okay."
+        ],
+        "after": [
+          "[u2069 | 02:51:37.670-02:51:38.560 | Kenzo] You guys did it?",
+          "[u2070 | 02:51:38.940-02:51:40.739 | DM] So you set up a blind."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2153",
+      "importance": "incidental",
+      "span": "E.",
+      "reason": "Isolated interjection.",
+      "reviewId": "I079",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2153 | 02:56:34.120-02:56:34.580 | Kenzo] E.",
+        "before": [
+          "[u2151 | 02:56:22.970-02:56:28.859 | Delwath] That's okay, we have one guy in telekinesis, and we have one guy left behind who they can go save.",
+          "[u2152 | 02:56:29.340-02:56:34.119 | DM] The centipede is now about 140 feet away."
+        ],
+        "after": [
+          "[u2154 | 02:56:34.580-02:56:37.519 | DM] Is it coming towards us, or it's past us? No, it's going away from you.",
+          "[u2155 | 02:56:37.520-02:56:37.869 | Kenzo] Oh, here."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2153 | 02:56:34.120-02:56:34.580 | Kenzo] E.",
+        "before": [
+          "[u2151 | 02:56:22.970-02:56:28.859 | Delwath] That's okay, we have one guy in telekinesis, and we have one guy left behind who they can go save.",
+          "[u2152 | 02:56:29.340-02:56:34.119 | DM] The centipede is now about 140 feet away."
+        ],
+        "after": [
+          "[u2154 | 02:56:34.580-02:56:37.519 | DM] Is it coming towards us, or it's past us? No, it's going away from you.",
+          "[u2155 | 02:56:37.520-02:56:37.869 | Kenzo] Oh, here."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2204",
+      "importance": "incidental",
+      "span": "Soul Sight.",
+      "reason": "Repetition of already explicit Soul Sight request.",
+      "reviewId": "I080",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2204 | 02:59:02.000-02:59:02.420 | Kenzo] Salsa.",
+        "before": [
+          "[u2202 | 02:58:58.650-02:58:59.499 | Kenzo] It's also say….",
+          "[u2203 | 02:59:00.670-02:59:01.999 | Wellby] Full site's a good idea."
+        ],
+        "after": [
+          "[u2205 | 02:59:02.420-02:59:04.800 | DM] What's the range in SoulSight?",
+          "[u2206 | 02:59:05.120-02:59:06.090 | Kenzo] Spell the CM."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2204 | 02:59:02.000-02:59:02.420 | Kenzo] Soul Sight.",
+        "before": [
+          "[u2202 | 02:58:58.650-02:58:59.499 | Kenzo] Soul Sight….",
+          "[u2203 | 02:59:00.670-02:59:01.999 | Wellby] Soul Sight's a good idea."
+        ],
+        "after": [
+          "[u2205 | 02:59:02.420-02:59:04.800 | DM] What's the range in SoulSight?",
+          "[u2206 | 02:59:05.120-02:59:06.090 | Kenzo] [[Spell the CM.]]"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2255",
+      "importance": "incidental",
+      "span": "Tusk.",
+      "reason": "Isolated interjection.",
+      "reviewId": "I081",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2255 | 03:01:38.980-03:01:39.670 | Wellby] Tusk.",
+        "before": [
+          "[u2253 | 03:01:32.220-03:01:36.519 | Delwath] Can I cast suggestion and have my suggestion be, you would like to teleport with us?",
+          "[u2254 | 03:01:37.350-03:01:38.489 | Seeker] Good idea, Kong."
+        ],
+        "after": [
+          "[u2256 | 03:01:39.990-03:01:41.150 | DM] ….",
+          "[u2257 | 03:01:42.090-03:01:46.599 | Delwath] Our suggestion would be come visit our… You know…."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2255 | 03:01:38.980-03:01:39.670 | Wellby] Tusk.",
+        "before": [
+          "[u2253 | 03:01:32.220-03:01:36.519 | Delwath] Can I cast suggestion and have my suggestion be, you would like to teleport with us?",
+          "[u2254 | 03:01:37.350-03:01:38.489 | Seeker] Good idea, Kong."
+        ],
+        "after": [
+          "[u2256 | 03:01:39.990-03:01:41.150 | DM] ….",
+          "[u2257 | 03:01:42.090-03:01:46.599 | Delwath] Our suggestion would be come visit our… You know…."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2277",
+      "importance": "incidental",
+      "span": "Super Bowl.",
+      "reason": "Cross-talk during invisibility discussion.",
+      "reviewId": "I082",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2277 | 03:02:31.770-03:02:32.919 | Kenzo] Super Bowl. Kenza is still.",
+        "before": [
+          "[u2275 | 03:02:30.850-03:02:31.420 | Kenzo] No, but we don't.",
+          "[u2276 | 03:02:31.420-03:02:31.770 | Seeker] Oops."
+        ],
+        "after": [
+          "[u2278 | 03:02:32.920-03:02:33.400 | Delwath] Oh, okay.",
+          "[u2279 | 03:02:33.400-03:02:36.119 | DM] No, it's concentration, so the invisible…."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2277 | 03:02:31.770-03:02:32.919 | Kenzo] Super Bowl. Kenzo is still.",
+        "before": [
+          "[u2275 | 03:02:30.850-03:02:31.420 | Kenzo] No, but we don't.",
+          "[u2276 | 03:02:31.420-03:02:31.770 | Seeker] Oops."
+        ],
+        "after": [
+          "[u2278 | 03:02:32.920-03:02:33.400 | Delwath] Oh, okay.",
+          "[u2279 | 03:02:33.400-03:02:36.119 | DM] No, it's concentration, so the invisible…."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2324",
+      "importance": "incidental",
+      "span": "Have you worked.",
+      "reason": "Unclear interrupted question.",
+      "reviewId": "I083",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2324 | 03:05:18.840-03:05:19.430 | DM] Have you worked.",
+        "before": [
+          "[u2322 | 03:05:14.450-03:05:16.370 | DM] I mean, he probably gets….",
+          "[u2323 | 03:05:16.370-03:05:17.849 | Delwath] Surrounded of attacking us."
+        ],
+        "after": [
+          "[u2325 | 03:05:19.430-03:05:21.570 | Kenzo] Like an 18th level! Is it gonna kill us all in one.",
+          "[u2326 | 03:05:21.570-03:05:23.919 | Delwath] No, no, no, no, no, he won't kill us all in one round."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2324 | 03:05:18.840-03:05:19.430 | DM] Have you worked.",
+        "before": [
+          "[u2322 | 03:05:14.450-03:05:16.370 | DM] I mean, he probably gets….",
+          "[u2323 | 03:05:16.370-03:05:17.849 | Delwath] A round of attacking us."
+        ],
+        "after": [
+          "[u2325 | 03:05:19.430-03:05:21.570 | Kenzo] Like an 18th level! Is it gonna kill us all in one.",
+          "[u2326 | 03:05:21.570-03:05:23.919 | Delwath] No, no, no, no, no, he won't kill us all in one round."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2348",
+      "importance": "incidental",
+      "span": "valid.",
+      "reason": "Brief reaction.",
+      "reviewId": "I084",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2348 | 03:07:06.890-03:07:07.720 | Kenzo] valid.",
+        "before": [
+          "[u2346 | 03:06:55.950-03:06:57.179 | Kenzo] Really like a challenge.",
+          "[u2347 | 03:06:57.530-03:07:06.469 | DM] Otherwise… … Wearing armor of living… Metal of some kind?"
+        ],
+        "after": [
+          "[u2349 | 03:07:08.180-03:07:10.500 | Kenzo] Pissed off, curious, enraged.",
+          "[u2350 | 03:07:10.500-03:07:15.089 | DM] … Well, Kiri, like, sort of mad at this Hobgoblin."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2348 | 03:07:06.890-03:07:07.720 | Kenzo] valid.",
+        "before": [
+          "[u2346 | 03:06:55.950-03:06:57.179 | Kenzo] Really like a challenge.",
+          "[u2347 | 03:06:57.530-03:07:06.469 | DM] Otherwise… … Wearing armor of living… Metal of some kind?"
+        ],
+        "after": [
+          "[u2349 | 03:07:08.180-03:07:10.500 | Kenzo] Pissed off, curious, enraged.",
+          "[u2350 | 03:07:10.500-03:07:15.089 | DM] … Well, curious, like, sort of mad at this Hobgoblin."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2365",
+      "importance": "incidental",
+      "span": "hiring.",
+      "reason": "Isolated fragment before armor description.",
+      "reviewId": "I085",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2365 | 03:08:09.360-03:08:10.210 | Seeker] hiring.",
+        "before": [
+          "[u2363 | 03:08:03.080-03:08:05.429 | Seeker] Oh, I'm looking at our Hobgoblin.",
+          "[u2364 | 03:08:05.990-03:08:09.360 | Delwath] … Oh, no, I can't."
+        ],
+        "after": [
+          "[u2366 | 03:08:10.210-03:08:11.809 | DM] Wearing armor.",
+          "[u2367 | 03:08:12.040-03:08:13.579 | Delwath] Now, are how goblets invisible?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u2365 | 03:08:09.360-03:08:10.210 | Seeker] hiring.",
+        "before": [
+          "[u2363 | 03:08:03.080-03:08:05.429 | Seeker] Oh, I'm looking at our Hobgoblin.",
+          "[u2364 | 03:08:05.990-03:08:09.360 | Delwath] … Oh, no, I can't."
+        ],
+        "after": [
+          "[u2366 | 03:08:10.210-03:08:11.809 | DM] Wearing armor.",
+          "[u2367 | 03:08:12.040-03:08:13.579 | Delwath] Now, our hobgoblin's invisible?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2437",
+      "importance": "incidental",
+      "span": "Adequate legal success.",
+      "reason": "Joking reaction to teleport success.",
+      "reviewId": "I086",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2437 | 03:13:40.790-03:13:44.349 | Wellby] Success! Wild success. Totally. Adequate legal success.",
+        "before": [
+          "[u2435 | 03:13:36.030-03:13:36.780 | Wellby] Awesome.",
+          "[u2436 | 03:13:39.230-03:13:40.030 | Delwath] Okay."
+        ],
+        "after": [
+          "[u2438 | 03:13:44.350-03:13:47.529 | Delwath] I kinda wanna interrogate the Hopgoblin, like, real fast, just like that.",
+          "[u2439 | 03:13:47.870-03:13:52.899 | DM] I mean, I'm fine if… we can do that if people want to stay up, I just don't want people falling asleep."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2437 | 03:13:40.790-03:13:44.349 | Wellby] Success! Wild success. Totally. Adequate legal success.",
+        "before": [
+          "[u2435 | 03:13:36.030-03:13:36.780 | Wellby] Awesome.",
+          "[u2436 | 03:13:39.230-03:13:40.030 | Delwath] Okay."
+        ],
+        "after": [
+          "[u2438 | 03:13:44.350-03:13:47.529 | Delwath] I kinda wanna interrogate the Hobgoblin, like, real fast, just like that.",
+          "[u2439 | 03:13:47.870-03:13:52.899 | DM] I mean, I'm fine if… we can do that if people want to stay up, I just don't want people falling asleep."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2441",
+      "importance": "incidental",
+      "span": "You like 30 minutes.",
+      "reason": "Table timing fragment before agreeing on five minutes.",
+      "reviewId": "I087",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2441 | 03:13:53.360-03:13:55.400 | DM] You like 30 minutes.",
+        "before": [
+          "[u2439 | 03:13:47.870-03:13:52.899 | DM] I mean, I'm fine if… we can do that if people want to stay up, I just don't want people falling asleep.",
+          "[u2440 | 03:13:52.900-03:13:53.359 | Kenzo] like, by the way."
+        ],
+        "after": [
+          "[u2442 | 03:13:55.400-03:13:56.800 | Kenzo] 30… 30 minutes?",
+          "[u2443 | 03:13:57.180-03:14:01.199 | Delwath] Okay, let's just… Can we do, like, 5 minutes of interrogation?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u2441 | 03:13:53.360-03:13:55.400 | DM] You like 30 minutes.",
+        "before": [
+          "[u2439 | 03:13:47.870-03:13:52.899 | DM] I mean, I'm fine if… we can do that if people want to stay up, I just don't want people falling asleep.",
+          "[u2440 | 03:13:52.900-03:13:53.359 | Kenzo] like, by the way."
+        ],
+        "after": [
+          "[u2442 | 03:13:55.400-03:13:56.800 | Kenzo] 30… 30 minutes?",
+          "[u2443 | 03:13:57.180-03:14:01.199 | Delwath] Okay, let's just… Can we do, like, 5 minutes of interrogation?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2449",
+      "importance": "incidental",
+      "span": "That was confusing stuff.",
+      "reason": "Brief table reaction.",
+      "reviewId": "I088",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2449 | 03:14:19.150-03:14:20.910 | DM] That was confusing stuff.",
+        "before": [
+          "[u2447 | 03:14:13.270-03:14:16.540 | DM] So who's leading the interrogation?",
+          "[u2448 | 03:14:17.250-03:14:18.840 | Delwath] …."
+        ],
+        "after": [
+          "[u2450 | 03:14:21.100-03:14:28.409 | Delwath] I'm gonna cast Gliddenys, so Delith will cast his new spell, Glidness, so I can't roll less than a 15 on any Charisma check for the next hour.",
+          "[u2451 | 03:14:28.410-03:14:29.070 | Kenzo] Great."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2449 | 03:14:19.150-03:14:20.910 | DM] That was confusing stuff.",
+        "before": [
+          "[u2447 | 03:14:13.270-03:14:16.540 | DM] So who's leading the interrogation?",
+          "[u2448 | 03:14:17.250-03:14:18.840 | Delwath] …."
+        ],
+        "after": [
+          "[u2450 | 03:14:21.100-03:14:28.409 | Delwath] I'm gonna cast Glibness, so Delwath will cast his new spell, Glibness, so I can't roll less than a 15 on any Charisma check for the next hour.",
+          "[u2451 | 03:14:28.410-03:14:29.070 | Kenzo] Great."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2456",
+      "importance": "incidental",
+      "span": "Call out. Call out.",
+      "reason": "Cross-talk while agreeing to use magic.",
+      "reviewId": "I089",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2456 | 03:14:56.380-03:14:57.320 | Kenzo] Call out. Call out.",
+        "before": [
+          "[u2454 | 03:14:41.380-03:14:51.650 | Delwath] And… I mean… why not? Like, I could, … Why not cast suggestion again?",
+          "[u2455 | 03:14:53.430-03:14:56.380 | Delwath] Like, is there any reason not to go all out here and use magic?"
+        ],
+        "after": [
+          "[u2457 | 03:14:57.320-03:14:58.070 | Wellby] Right?",
+          "[u2458 | 03:14:58.070-03:15:00.200 | Kenzo] Absolutely. Pass all your spells, let's do it."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2456 | 03:14:56.380-03:14:57.320 | Kenzo] Call out. Call out.",
+        "before": [
+          "[u2454 | 03:14:41.380-03:14:51.650 | Delwath] And… I mean… why not? Like, I could, … Why not cast suggestion again?",
+          "[u2455 | 03:14:53.430-03:14:56.380 | Delwath] Like, is there any reason not to go all out here and use magic?"
+        ],
+        "after": [
+          "[u2457 | 03:14:57.320-03:14:58.070 | Wellby] Right?",
+          "[u2458 | 03:14:58.070-03:15:00.200 | Kenzo] Absolutely. Cast all your spells, let's do it."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2470",
+      "importance": "incidental",
+      "span": "You are late.",
+      "reason": "Unclear fragment during joking formulation of Suggestion; final suggestion is explicit.",
+      "reviewId": "I090",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2470 | 03:15:55.610-03:15:58.660 | Kenzo] I'm so excited to tell. Like, you can… You are late.",
+        "before": [
+          "[u2468 | 03:15:41.930-03:15:50.120 | Delwath] You know, basically, we are, we are, … … Curious.",
+          "[u2469 | 03:15:52.060-03:15:55.610 | Wellby] What if the suggestion is just, like, you are eager to share?"
+        ],
+        "after": [
+          "[u2471 | 03:15:58.660-03:15:59.640 | Wellby] Sirs. Yes.",
+          "[u2472 | 03:15:59.640-03:16:05.039 | Kenzo] I cannot wait to share all of the details of, like, what is going on with this centipede and all. You're so excited."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2470 | 03:15:55.610-03:15:58.660 | Kenzo] I'm so excited to tell. Like, you can… You are late.",
+        "before": [
+          "[u2468 | 03:15:41.930-03:15:50.120 | Delwath] You know, basically, we are, we are, … … Curious.",
+          "[u2469 | 03:15:52.060-03:15:55.610 | Wellby] What if the suggestion is just, like, you are eager to share?"
+        ],
+        "after": [
+          "[u2471 | 03:15:58.660-03:15:59.640 | Wellby] Sirs. Yes.",
+          "[u2472 | 03:15:59.640-03:16:05.039 | Kenzo] I cannot wait to share all of the details of, like, what is going on with this centipede and all. You're so excited."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2471",
+      "importance": "incidental",
+      "span": "Sirs. Yes.",
+      "reason": "Interjection while formulating Suggestion.",
+      "reviewId": "I091",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2471 | 03:15:58.660-03:15:59.640 | Wellby] Sirs. Yes.",
+        "before": [
+          "[u2469 | 03:15:52.060-03:15:55.610 | Wellby] What if the suggestion is just, like, you are eager to share?",
+          "[u2470 | 03:15:55.610-03:15:58.660 | Kenzo] I'm so excited to tell. Like, you can… You are late."
+        ],
+        "after": [
+          "[u2472 | 03:15:59.640-03:16:05.039 | Kenzo] I cannot wait to share all of the details of, like, what is going on with this centipede and all. You're so excited.",
+          "[u2473 | 03:16:05.040-03:16:20.029 | Delwath] Telling stories… telling truthful stories about, your life and deeds and goals, and sharing everything about yourself is your favorite activity in the world."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2471 | 03:15:58.660-03:15:59.640 | Wellby] Sirs. Yes.",
+        "before": [
+          "[u2469 | 03:15:52.060-03:15:55.610 | Wellby] What if the suggestion is just, like, you are eager to share?",
+          "[u2470 | 03:15:55.610-03:15:58.660 | Kenzo] I'm so excited to tell. Like, you can… You are late."
+        ],
+        "after": [
+          "[u2472 | 03:15:59.640-03:16:05.039 | Kenzo] I cannot wait to share all of the details of, like, what is going on with this centipede and all. You're so excited.",
+          "[u2473 | 03:16:05.040-03:16:20.029 | Delwath] Telling stories… telling truthful stories about, your life and deeds and goals, and sharing everything about yourself is your favorite activity in the world."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2482",
+      "importance": "incidental",
+      "span": "here already? Ugh.",
+      "reason": "Brief reaction before hobgoblin storytelling.",
+      "reviewId": "I092",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2482 | 03:17:04.900-03:17:07.009 | DM] here already? Ugh.",
+        "before": [
+          "[u2480 | 03:16:49.330-03:16:58.850 | DM] the Hobgoblin sits up, sort of groggy, looking around at this… Strange… plateau.",
+          "[u2481 | 03:16:59.100-03:17:02.930 | DM] Begins talking, and… In Goblin."
+        ],
+        "after": [
+          "[u2483 | 03:17:08.220-03:17:11.550 | DM] Oh, yes, I… I was telling a story, …",
+          "[u2484 | 03:17:14.170-03:17:16.610 | DM] He stops for a minute, looks over at you."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2482 | 03:17:04.900-03:17:07.009 | DM] here already? Ugh.",
+        "before": [
+          "[u2480 | 03:16:49.330-03:16:58.850 | DM] the Hobgoblin sits up, sort of groggy, looking around at this… Strange… plateau.",
+          "[u2481 | 03:16:59.100-03:17:02.930 | DM] Begins talking, and… In Goblin."
+        ],
+        "after": [
+          "[u2483 | 03:17:08.220-03:17:11.550 | DM] Oh, yes, I… I was telling a story, …",
+          "[u2484 | 03:17:14.170-03:17:16.610 | DM] He stops for a minute, looks over at you."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2495",
+      "importance": "incidental",
+      "span": "It popped.",
+      "reason": "Isolated interjection.",
+      "reviewId": "I093",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2495 | 03:17:51.720-03:17:52.860 | Wellby] It popped.",
+        "before": [
+          "[u2493 | 03:17:44.580-03:17:45.790 | DM] He stops.",
+          "[u2494 | 03:17:47.010-03:17:50.430 | DM] I guess I should tell the truth. I follow in armies!"
+        ],
+        "after": [
+          "[u2496 | 03:17:53.070-03:17:54.239 | DM] We will win.",
+          "[u2497 | 03:17:55.610-03:17:57.589 | DM] The Empress of Chaos."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2495 | 03:17:51.720-03:17:52.860 | Wellby] It popped.",
+        "before": [
+          "[u2493 | 03:17:44.580-03:17:45.790 | DM] He stops.",
+          "[u2494 | 03:17:47.010-03:17:50.430 | DM] I guess I should tell the truth. I follow in armies!"
+        ],
+        "after": [
+          "[u2496 | 03:17:53.070-03:17:54.239 | DM] We will win.",
+          "[u2497 | 03:17:55.610-03:17:57.589 | DM] The Empress of Chaos."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2534",
+      "importance": "incidental",
+      "span": "We're beautiful.",
+      "reason": "Cross-talk joke about Seeker and chaos metal.",
+      "reviewId": "I094",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2534 | 03:20:27.370-03:20:28.030 | Delwath] We're beautiful.",
+        "before": [
+          "[u2532 | 03:20:19.990-03:20:22.159 | Kenzo] Nobody tells Seeker about this chaos medal.",
+          "[u2533 | 03:20:23.540-03:20:25.559 | Delwath] Well, Eric's asleep, luckily."
+        ],
+        "after": [
+          "[u2535 | 03:20:28.030-03:20:29.710 | Wellby] in real trouble otherwise.",
+          "[u2536 | 03:20:29.710-03:20:30.294 | Kenzo] Yeah."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2534 | 03:20:27.370-03:20:28.030 | Delwath] We're beautiful.",
+        "before": [
+          "[u2532 | 03:20:19.990-03:20:22.159 | Kenzo] Nobody tells Seeker about this chaos metal.",
+          "[u2533 | 03:20:23.540-03:20:25.559 | Delwath] Well, Eric's asleep, luckily."
+        ],
+        "after": [
+          "[u2535 | 03:20:28.030-03:20:29.710 | Wellby] in real trouble otherwise.",
+          "[u2536 | 03:20:29.710-03:20:30.294 | Kenzo] Yeah."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2548",
+      "importance": "incidental",
+      "span": "wait, is the Uber.",
+      "reason": "Abandoned table comment.",
+      "reviewId": "I095",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2548 | 03:21:08.790-03:21:12.149 | Kenzo] Okay, the plot is… the plot is… wait, is the Uber.",
+        "before": [
+          "[u2546 | 03:21:06.070-03:21:06.880 | Kenzo] Okay.",
+          "[u2547 | 03:21:07.450-03:21:08.400 | Wellby] …."
+        ],
+        "after": [
+          "[u2549 | 03:21:12.150-03:21:14.450 | Wellby] D… Good.",
+          "[u2550 | 03:21:14.450-03:21:16.500 | Kenzo] Hey, dude. What's the…."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2548 | 03:21:08.790-03:21:12.149 | Kenzo] Okay, the plot is… the plot is… wait, is the Uber.",
+        "before": [
+          "[u2546 | 03:21:06.070-03:21:06.880 | Kenzo] Okay.",
+          "[u2547 | 03:21:07.450-03:21:08.400 | Wellby] …."
+        ],
+        "after": [
+          "[u2549 | 03:21:12.150-03:21:14.450 | Wellby] D… Good.",
+          "[u2550 | 03:21:14.450-03:21:16.500 | Kenzo] Hey, dude. What's the…."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2549",
+      "importance": "incidental",
+      "span": "D… Good.",
+      "reason": "Short table fragment.",
+      "reviewId": "I096",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2549 | 03:21:12.150-03:21:14.450 | Wellby] D… Good.",
+        "before": [
+          "[u2547 | 03:21:07.450-03:21:08.400 | Wellby] ….",
+          "[u2548 | 03:21:08.790-03:21:12.149 | Kenzo] Okay, the plot is… the plot is… wait, is the Uber."
+        ],
+        "after": [
+          "[u2550 | 03:21:14.450-03:21:16.500 | Kenzo] Hey, dude. What's the….",
+          "[u2551 | 03:21:16.500-03:21:19.360 | DM] You dare ask questions of the great Sultar?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u2549 | 03:21:12.150-03:21:14.450 | Wellby] D… Good.",
+        "before": [
+          "[u2547 | 03:21:07.450-03:21:08.400 | Wellby] ….",
+          "[u2548 | 03:21:08.790-03:21:12.149 | Kenzo] Okay, the plot is… the plot is… wait, is the Uber."
+        ],
+        "after": [
+          "[u2550 | 03:21:14.450-03:21:16.500 | Kenzo] Hey, dude. What's the….",
+          "[u2551 | 03:21:16.500-03:21:19.360 | DM] You dare ask questions of the great Szoltár?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2553",
+      "importance": "incidental",
+      "span": "We wished.",
+      "reason": "Brief cross-talk in interrogation.",
+      "reviewId": "I097",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2553 | 03:21:27.200-03:21:27.710 | Delwath] We wished.",
+        "before": [
+          "[u2551 | 03:21:16.500-03:21:19.360 | DM] You dare ask questions of the great Sultar?",
+          "[u2552 | 03:21:19.360-03:21:27.200 | Kenzo] Oh, I do not dare, I do not dare, I do not dare. I only wish to learn about the Ooze and the Chaos Medal, and is there a connection between the Ooze and the Chaos?"
+        ],
+        "after": [
+          "[u2554 | 03:21:27.710-03:21:33.070 | Wellby] I do not dare, I do not dare. And if we found out, we'd be even more intimidated than we already are.",
+          "[u2555 | 03:21:33.070-03:21:35.360 | Kenzo] Some intimidated by these stories."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2553 | 03:21:27.200-03:21:27.710 | Delwath] We wished.",
+        "before": [
+          "[u2551 | 03:21:16.500-03:21:19.360 | DM] You dare ask questions of the great Szoltár?",
+          "[u2552 | 03:21:19.360-03:21:27.200 | Kenzo] Oh, I do not dare, I do not dare, I do not dare. I only wish to learn about the Ooze and the Chaos Metal, and is there a connection between the Ooze and the Chaos?"
+        ],
+        "after": [
+          "[u2554 | 03:21:27.710-03:21:33.070 | Wellby] I do not dare, I do not dare. And if we found out, we'd be even more intimidated than we already are.",
+          "[u2555 | 03:21:33.070-03:21:35.360 | Kenzo] Some intimidated by these stories."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2574",
+      "importance": "incidental",
+      "span": "Does that line? Yes.",
+      "reason": "Fragment while comparing dates; following lines give the event explicitly.",
+      "reviewId": "I098",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2574 | 03:22:59.740-03:23:01.019 | Wellby] Does that line? Yes.",
+        "before": [
+          "[u2572 | 03:22:53.720-03:22:54.729 | Wellby] Do we know?",
+          "[u2573 | 03:22:57.860-03:22:59.740 | DM] What happened… 2…."
+        ],
+        "after": [
+          "[u2575 | 03:23:01.430-03:23:08.650 | Wellby] Something for… Was… that wasn't, like, the… the… Pandemonium rift in, ….",
+          "[u2576 | 03:23:08.650-03:23:09.520 | Kenzo] 10 million scroll, maybe?"
+        ]
+      },
+      "cleaned": {
+        "line": "[u2574 | 03:22:59.740-03:23:01.019 | Wellby] Does that line? Yes.",
+        "before": [
+          "[u2572 | 03:22:53.720-03:22:54.729 | Wellby] Do we know?",
+          "[u2573 | 03:22:57.860-03:22:59.740 | DM] What happened… 2…."
+        ],
+        "after": [
+          "[u2575 | 03:23:01.430-03:23:08.650 | Wellby] Something for… Was… that wasn't, like, the… the… Pandemonium rift in, ….",
+          "[u2576 | 03:23:08.650-03:23:09.520 | Kenzo] Pandemonium Scroll, maybe?"
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2589",
+      "importance": "incidental",
+      "span": "Properly.",
+      "reason": "Isolated reaction.",
+      "reviewId": "I099",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2589 | 03:23:55.340-03:23:56.360 | DM] Properly.",
+        "before": [
+          "[u2587 | 03:23:45.980-03:23:49.399 | DM] takes control of the magic. We will control everything!",
+          "[u2588 | 03:23:50.010-03:23:54.860 | DM] She will control everything. We are but her humble servants, as will you be."
+        ],
+        "after": [
+          "[u2590 | 03:24:00.430-03:24:01.090 | Kenzo] Alright.",
+          "[u2591 | 03:24:01.500-03:24:03.360 | Delwath] That's a great place to leave it."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2589 | 03:23:55.340-03:23:56.360 | DM] Properly.",
+        "before": [
+          "[u2587 | 03:23:45.980-03:23:49.399 | DM] takes control of the magic. We will control everything!",
+          "[u2588 | 03:23:50.010-03:23:54.860 | DM] She will control everything. We are but her humble servants, as will you be."
+        ],
+        "after": [
+          "[u2590 | 03:24:00.430-03:24:01.090 | Kenzo] Alright.",
+          "[u2591 | 03:24:01.500-03:24:03.360 | Delwath] That's a great place to leave it."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2604",
+      "importance": "incidental",
+      "span": "ping….",
+      "reason": "Table fragment.",
+      "reviewId": "I100",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2604 | 03:24:34.440-03:24:34.920 | Delwath] ping….",
+        "before": [
+          "[u2602 | 03:24:29.480-03:24:32.380 | Delwath] Very boring, just sheets of tinfoil.",
+          "[u2603 | 03:24:32.840-03:24:34.439 | Kenzo] Periodic tables, it's so dull."
+        ],
+        "after": [
+          "[u2605 | 03:24:34.920-03:24:37.539 | Kenzo] No chaos, nothing magical, chaos.",
+          "[u2606 | 03:24:37.540-03:24:43.299 | DM] We will pick up with the conclusion of the interrogation next week, next week."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2604 | 03:24:34.440-03:24:34.920 | Delwath] ping….",
+        "before": [
+          "[u2602 | 03:24:29.480-03:24:32.380 | Delwath] Very boring, just sheets of tinfoil.",
+          "[u2603 | 03:24:32.840-03:24:34.439 | Kenzo] Periodic tables, it's so dull."
+        ],
+        "after": [
+          "[u2605 | 03:24:34.920-03:24:37.539 | Kenzo] No chaos, nothing magical, chaos.",
+          "[u2606 | 03:24:37.540-03:24:43.299 | DM] We will pick up with the conclusion of the interrogation next week, next week."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2609",
+      "importance": "incidental",
+      "span": "It's a ghosting.",
+      "reason": "Closing table chatter.",
+      "reviewId": "I101",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2609 | 03:24:44.700-03:24:45.290 | Wellby] It's a ghosting.",
+        "before": [
+          "[u2607 | 03:24:43.300-03:24:43.810 | Kenzo] I'll see you guys.",
+          "[u2608 | 03:24:43.810-03:24:44.699 | Delwath] Alright guys, good night."
+        ],
+        "after": [
+          "[u2610 | 03:24:45.290-03:24:45.900 | Seeker] minimum."
+        ]
+      },
+      "cleaned": {
+        "line": "[u2609 | 03:24:44.700-03:24:45.290 | Wellby] It's a ghosting.",
+        "before": [
+          "[u2607 | 03:24:43.300-03:24:43.810 | Kenzo] I'll see you guys.",
+          "[u2608 | 03:24:43.810-03:24:44.699 | Delwath] Alright guys, good night."
+        ],
+        "after": [
+          "[u2610 | 03:24:45.290-03:24:45.900 | Seeker] minimum."
+        ]
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    },
+    {
+      "uid": "u2610",
+      "importance": "incidental",
+      "span": "minimum.",
+      "reason": "Closing table fragment.",
+      "reviewId": "I102",
+      "spanSource": "cleaned",
+      "prepared": {
+        "line": "[u2610 | 03:24:45.290-03:24:45.900 | Seeker] minimum.",
+        "before": [
+          "[u2608 | 03:24:43.810-03:24:44.699 | Delwath] Alright guys, good night.",
+          "[u2609 | 03:24:44.700-03:24:45.290 | Wellby] It's a ghosting."
+        ],
+        "after": []
+      },
+      "cleaned": {
+        "line": "[u2610 | 03:24:45.290-03:24:45.900 | Seeker] minimum.",
+        "before": [
+          "[u2608 | 03:24:43.810-03:24:44.699 | Delwath] Alright guys, good night.",
+          "[u2609 | 03:24:44.700-03:24:45.290 | Wellby] It's a ghosting."
+        ],
+        "after": []
+      },
+      "question": null,
+      "decision": null,
+      "accepted": false
+    }
+  ],
+  "notes": [
+    "All units inspected in cleanup and strict second passes.",
+    "Material spans retain current [[...]] marker convention. Incidental spans remain unmarked.",
+    "Prepared and cleaned quotations/context are separate and must be checked against their respective source.",
+    "Questions are logged for later review. No acceptance, skips, or corrections from a human have been fabricated."
+  ]
+}

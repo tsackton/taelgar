@@ -57,7 +57,7 @@
 [u0057 | 00:06:13.090-00:06:17.730 | Kenzo] space, or just the… like, what is their goal? Do we know their, like, specific goal?
 [u0058 | 00:06:23.280-00:06:31.959 | Delwath] All I remember… I don't think we know anything beyond…
 [u0059 | 00:06:32.280-00:06:39.869 | Delwath] that this… this Empress of Chaos, or whatever she's calling herself, Thinks that it'll somehow help.
-[u0060 | 00:06:40.400-00:06:42.290 | Delwath] Control [[that is engaged]].
+[u0060 | 00:06:40.400-00:06:42.290 | Delwath] Control {{that is engaged}}.
 [u0061 | 00:06:44.070-00:06:48.019 | Kenzo] But, like, what, though? Like, a specific tree? Is it, like, a…
 [u0062 | 00:06:48.270-00:06:50.999 | Kenzo] Are they trying to kill… you know what I mean? Like, what are they…
 [u0063 | 00:06:51.000-00:06:54.319 | Delwath] I thought… I thought they were trying to take it, but did I misunderstand that, Tim?
@@ -266,7 +266,7 @@
 [u0266 | 00:26:09.940-00:26:13.290 | DM] You know, a few hundred miles away from you.
 [u0267 | 00:26:17.470-00:26:18.330 | Delwath] So…
 [u0268 | 00:26:21.160-00:26:30.990 | Delwath] Delwath's been, like, sort of sketching, like, little maps and the little things in the earth, and, like, scratching them out, and, like, sort of muttering about, like, if only general
-[u0269 | 00:26:31.280-00:26:37.509 | Delwath] you know, [[alamandas]] was here, you know.
+[u0269 | 00:26:31.280-00:26:37.509 | Delwath] you know, {{alamandas}} was here, you know.
 [u0270 | 00:26:38.180-00:26:48.900 | Delwath] she would really know what to do. But I think…
 [u0271 | 00:26:50.480-00:26:56.959 | Delwath] if we use the right… if we use Seeker's vast knowledge of every spell in D&D,
 [u0272 | 00:26:59.560-00:27:05.560 | Delwath] or ability to cast any spell in D&D, there's some pretty… Devastating attacks.
@@ -404,7 +404,7 @@
 [u0404 | 00:36:58.620-00:36:59.679 | Seeker] You know, cut its…
 [u0405 | 00:37:01.230-00:37:07.930 | Seeker] or something, and then it will stop moving, or it has some other control mechanism that you could take over and steer it into the ocean or whatever.
 [u0406 | 00:37:07.930-00:37:12.700 | Delwath] I bet you it's, like, sentient metal. Wasn't it very Terminator 2 vibey?
-[u0407 | 00:37:14.380-00:37:16.139 | Seeker] That was the special armor of the [[Corps]].
+[u0407 | 00:37:14.380-00:37:16.139 | Seeker] That was the special armor of the {{Corps}}.
 [u0408 | 00:37:16.140-00:37:16.520 | Wellby] Jesus.
 [u0409 | 00:37:17.190-00:37:17.910 | Wellby] Yeah.
 [u0410 | 00:37:19.000-00:37:21.310 | Delwath] Oh, is the centipede more like a normal mech?
@@ -480,7 +480,7 @@
 [u0480 | 00:44:16.220-00:44:26.890 | Delwath] Like, do we know anything? How do the gods feel about the hobgoblins? I mean, what's the, like, you know, what does the human religion…
 [u0481 | 00:44:27.670-00:44:29.680 | Delwath] What does, like, Mos Numena say about.
 [u0482 | 00:44:29.680-00:44:30.080 | DM] Right.
-[u0483 | 00:44:30.080-00:44:31.050 | Delwath] [[cards]].
+[u0483 | 00:44:30.080-00:44:31.050 | Delwath] {{cards}}.
 [u0484 | 00:44:31.050-00:44:36.920 | DM] I mean, again, there's, like, a pre-Cha'mutte, and there's a post-Cha'mutte, and it's a little bit…
 [u0485 | 00:44:37.920-00:44:42.720 | DM] It's a little bit difficult to disentangle the Cha'mutte aspect from the Hobgoblin aspect.
 [u0486 | 00:44:42.720-00:44:43.190 | Delwath] Right.
@@ -571,7 +571,7 @@
 [u0571 | 00:51:26.080-00:51:30.989 | Wellby] Yeah, like, depending how obscured it is, though, it gets slightly trickier, right?
 [u0572 | 00:51:34.570-00:51:37.300 | Wellby] Like, depending how far you can see from within the cloud.
 [u0573 | 00:51:37.300-00:51:37.970 | Delwath] Yes.
-[u0574 | 00:51:38.540-00:51:41.910 | Delwath] But it could [[flash a wall]]… I mean, it could be 5 feet from that, right?
+[u0574 | 00:51:38.540-00:51:41.910 | Delwath] But it could {{flash a wall}}… I mean, it could be 5 feet from that, right?
 [u0575 | 00:51:44.100-00:51:44.620 | Wellby] Yep.
 [u0576 | 00:51:44.880-00:51:45.420 | Delwath] Yeah.
 [u0577 | 00:51:48.080-00:51:49.469 | Delwath] Although, does it…
@@ -687,7 +687,7 @@
 [u0687 | 00:58:30.290-00:58:33.359 | Delwath] We're looking for her help in anything we should drop.
 [u0688 | 00:58:33.630-00:58:36.650 | Delwath] That… Can become foreshadowing for her.
 [u0689 | 00:58:37.270-00:58:40.509 | Kenzo] This is totally gonna bite us in the ass later, but yeah, I think this is.
-[u0690 | 00:58:40.510-00:58:43.949 | Delwath] Oh, I know, we're setting her up to be an even worse [[chaos, of course]].
+[u0690 | 00:58:40.510-00:58:43.949 | Delwath] Oh, I know, we're setting her up to be an even worse {{chaos, of course}}.
 [u0691 | 00:58:43.950-00:58:52.449 | Kenzo] But the Chaos Empress is a false god. You know, she's a false god, you know, and, and yeah, and then whatever remix.
 [u0692 | 00:58:53.140-00:58:53.740 | DM] Yo!
 [u0693 | 00:58:53.740-00:58:54.300 | Kenzo] Hobgoblin.
@@ -793,7 +793,7 @@
 [u0793 | 01:07:11.560-01:07:12.740 | Kenzo] We execute that plan.
 [u0794 | 01:07:13.450-01:07:13.939 | Delwath] That stuff like that.
 [u0795 | 01:07:14.410-01:07:15.089 | Wellby] Do we want to attack?
-[u0796 | 01:07:15.090-01:07:16.080 | Kenzo] [[on its hotel.]]
+[u0796 | 01:07:15.090-01:07:16.080 | Kenzo] {{on its hotel.}}
 [u0797 | 01:07:16.080-01:07:20.670 | Wellby] Do we want to attack her in the process, too? Like, I can shoot her from 300 or 400 feet away.
 [u0798 | 01:07:21.500-01:07:22.520 | Kenzo] Yeah, why not?
 [u0799 | 01:07:22.520-01:07:24.720 | Delwath] Sure. If you have a shot, right?
@@ -885,7 +885,7 @@
 [u0885 | 01:12:57.650-01:12:58.890 | DM] It's loud, too.
 [u0886 | 01:12:59.990-01:13:03.800 | Delwath] Although smite isn't a spell, it doesn't have a verbal component.
 [u0887 | 01:13:06.280-01:13:14.110 | DM] Yeah, any spell that just has… that has… does not have a verbal… anything you have to do that doesn't have a verbal component, it doesn't matter. You just…
-[u0888 | 01:13:14.590-01:13:15.389 | DM] [[Can't catch that.]]
+[u0888 | 01:13:14.590-01:13:15.389 | DM] {{Can't catch that.}}
 [u0889 | 01:13:15.390-01:13:15.860 | Delwath] Yeah, absolutely.
 [u0890 | 01:13:15.860-01:13:16.410 | DM] components.
 [u0891 | 01:13:16.410-01:13:20.450 | Delwath] Yeah, yeah, yeah. It's not… that's true, that's not… perfect.
@@ -968,7 +968,7 @@
 [u0968 | 01:18:59.000-01:19:00.940 | DM] So Wellby's gonna shoot her.
 [u0969 | 01:19:01.350-01:19:08.269 | DM] Not running this in initiative, so what's everybody else doing this round? This is… this is round two, the wave's moving another 50 feet.
 [u0970 | 01:19:09.360-01:19:13.580 | Seeker] I'm making a really big, like, sound with my mouth.
-[u0971 | 01:19:17.790-01:19:19.440 | Kenzo] [[I already saw]]… Right, Tim?
+[u0971 | 01:19:17.790-01:19:19.440 | Kenzo] {{I already saw}}… Right, Tim?
 [u0972 | 01:19:19.930-01:19:20.370 | Delwath] Yeah.
 [u0973 | 01:19:20.370-01:19:21.490 | DM] Yup.
 [u0974 | 01:19:22.680-01:19:24.390 | Kenzo] I'll soul-sight some of the generals.
@@ -1033,7 +1033,7 @@
 [u1033 | 01:23:44.610-01:23:50.940 | DM] Wellby… Go ahead and roll initiative. Actually, we better all roll initiative here.
 [u1034 | 01:23:51.070-01:23:53.249 | Seeker] Now that Wellby's in trouble.
 [u1035 | 01:23:54.510-01:23:58.000 | Wellby] I rolled, 20, so that's a 31 altogether.
-[u1036 | 01:23:58.430-01:24:00.679 | DM] [[Generally]] rolled a 30.
+[u1036 | 01:23:58.430-01:24:00.679 | DM] {{Generally}} rolled a 30.
 [u1037 | 01:24:02.070-01:24:03.260 | Wellby] Oh, shit.
 [u1038 | 01:24:03.260-01:24:06.250 | Delwath] I rolled an 18, so it's a 20 altogether.
 [u1039 | 01:24:08.370-01:24:09.849 | Seeker] Big Five over here.
@@ -1065,7 +1065,7 @@
 [u1065 | 01:25:40.080-01:25:40.760 | Kenzo] Cool.
 [u1066 | 01:25:45.690-01:25:51.340 | DM] So, Wellby is… 45 feet away from her now.
 [u1067 | 01:25:53.250-01:25:55.780 | Delwath] What did I scry last time? Did I scry…
-[u1068 | 01:25:55.780-01:25:58.030 | DM] [[He's trying to strive her. He's trying her.]]
+[u1068 | 01:25:55.780-01:25:58.030 | DM] {{He's trying to strive her. He's trying her.}}
 [u1069 | 01:25:58.030-01:25:58.470 | Delwath] Yeah.
 [u1070 | 01:25:58.470-01:26:02.700 | Kenzo] she saw it, she caught it. We just want to scry the battlefield, just to see the results of the tsunami.
 [u1071 | 01:26:02.700-01:26:03.290 | Delwath] Right.
@@ -1371,14 +1371,14 @@
 [u1371 | 01:45:09.300-01:45:11.640 | Kenzo] Damn. Wall of Fire's probably not gonna work then.
 [u1372 | 01:45:11.640-01:45:14.830 | DM] And resistance to cold and radiant.
 [u1373 | 01:45:15.180-01:45:16.499 | Kenzo] Not lightning.
-[u1374 | 01:45:17.800-01:45:20.289 | DM] But I'm thinking more [[resistant to lightning]].
+[u1374 | 01:45:17.800-01:45:20.289 | DM] But I'm thinking more {{resistant to lightning}}.
 [u1375 | 01:45:20.290-01:45:27.430 | Wellby] the big construct thing itself, but then that also means, like, maybe Wall of Fire is not actually gonna heat the metal of the thing, like, it's not conductive, so…
 [u1376 | 01:45:27.430-01:45:28.619 | Kenzo] It's not. It's not.
 [u1377 | 01:45:28.620-01:45:30.060 | Seeker] But, I mean…
 [u1378 | 01:45:30.640-01:45:38.609 | Delwath] Earthquake could cause it, you can make 1D6 fissures that are… 1D10 times 10 feet deep.
 [u1379 | 01:45:39.280-01:45:43.989 | Delwath] So… In theory.
 [u1380 | 01:45:43.990-01:45:44.410 | DM] But they're.
-[u1381 | 01:45:44.410-01:45:45.660 | Seeker] [[Stand on the ground]], though.
+[u1381 | 01:45:44.410-01:45:45.660 | Seeker] {{Stand on the ground}}, though.
 [u1382 | 01:45:45.660-01:45:46.210 | DM] Why?
 [u1383 | 01:45:46.210-01:45:46.730 | Wellby] Shoot.
 [u1384 | 01:45:47.300-01:45:48.890 | Delwath] But you couldn't… Yes.
@@ -1591,7 +1591,7 @@
 [u1591 | 02:00:50.660-02:00:51.410 | Delwath] Right.
 [u1592 | 02:00:51.740-02:00:56.239 | DM] Right. The more you double, the higher the risk that something goes wrong.
 [u1593 | 02:00:56.240-02:00:58.620 | Delwath] Yeah, yeah. But, but hold on, so…
-[u1594 | 02:00:58.860-02:01:02.689 | DM] [[I like Earthlink.]] Nothing's ever gone wrong when Seeker's done anything, so…
+[u1594 | 02:00:58.860-02:01:02.689 | DM] {{I like Earthlink.}} Nothing's ever gone wrong when Seeker's done anything, so…
 [u1595 | 02:01:02.690-02:01:06.170 | Delwath] I like Earthquake from a terrorizing standpoint, though.
 [u1596 | 02:01:06.350-02:01:07.230 | Delwath] Right?
 [u1597 | 02:01:07.930-02:01:10.610 | Wellby] Falling in fissure, I mean, depending on the depth of the fissure.
@@ -1618,7 +1618,7 @@
 [u1618 | 02:02:35.960-02:02:36.940 | Audio shared by Tim Sackton] And…
 [u1619 | 02:02:37.570-02:02:40.959 | Delwath] If she comes out, I mean, you know what?
 [u1620 | 02:02:41.260-02:02:45.550 | Delwath] Maybe we hang out here? Like, does it look like they've been camped for a long time?
-[u1621 | 02:02:46.860-02:02:48.550 | Delwath] [[Dude, we can't attack.]]
+[u1621 | 02:02:46.860-02:02:48.550 | Delwath] {{Dude, we can't attack.}}
 [u1622 | 02:02:48.680-02:02:50.709 | DM] It's hard to… I mean, you can't really…
 [u1623 | 02:02:50.890-02:02:52.110 | Audio shared by Tim Sackton] Hell, but like…
 [u1624 | 02:02:52.110-02:03:03.820 | DM] A bunch of them are sleeping. I mean, there's… the clairvoyant sensor is inside, right? It's inside this basket. The… the shell of the creature is, like, forming the… like, the egg.
@@ -1863,11 +1863,11 @@
 [u1863 | 02:19:19.120-02:19:21.850 | Delwath] It's not obvious to me what we do to hurt them.
 [u1864 | 02:19:23.090-02:19:29.179 | Seeker] We slingshot Seeker forward over top of it, and while in the air, he casts the heat metal.
 [u1865 | 02:19:30.959-02:19:33.699 | Kenzo] Heat metal's not gonna… I mean, we could try heat metal, right?
-[u1866 | 02:19:34.150-02:19:36.090 | Kenzo] They're… it's resistant. They're resistant to [[me]].
+[u1866 | 02:19:34.150-02:19:36.090 | Kenzo] They're… it's resistant. They're resistant to {{me}}.
 [u1867 | 02:19:36.090-02:19:38.450 | Delwath] But it's probably… we're pretty sure it's not gonna work.
 [u1868 | 02:19:39.180-02:19:41.209 | DM] She's immune to fire damage.
 [u1869 | 02:19:41.219-02:19:42.179 | Delwath] So we assumed…
-[u1870 | 02:19:42.180-02:19:48.010 | DM] correlates with chaos metal properties. It's very unlikely fire is gonna [[heat]].
+[u1870 | 02:19:42.180-02:19:48.010 | DM] correlates with chaos metal properties. It's very unlikely fire is gonna {{heat}}.
 [u1871 | 02:19:48.160-02:19:53.200 | Kenzo] We just said, we just said thunder, Lightning, Acid, Psychic, Regular, Bludgeon Piercing.
 [u1872 | 02:19:54.050-02:19:54.959 | Kenzo] That's what we got to work with.
 [u1873 | 02:19:55.600-02:19:58.510 | Wellby] What about… what about attacking the…
@@ -1880,7 +1880,7 @@
 [u1880 | 02:20:24.000-02:20:25.000 | DM] 2 days.
 [u1881 | 02:20:26.780-02:20:28.490 | Seeker] We're definitely gonna drop rocks.
 [u1882 | 02:20:38.680-02:20:47.470 | Seeker] So, what's the story with Lightning? Could I do… Anything with my… Wish ability.
-[u1883 | 02:20:50.550-02:20:51.950 | Delwath] [[Any waging effects?]]
+[u1883 | 02:20:50.550-02:20:51.950 | Delwath] {{Any waging effects?}}
 [u1884 | 02:20:52.630-02:20:54.229 | Seeker] That's the nastiest lightning spell.
 [u1885 | 02:20:59.820-02:21:00.760 | Delwath] Good question.
 [u1886 | 02:21:05.230-02:21:06.100 | Seeker] Let's see…
@@ -2498,7 +2498,7 @@
 [u2498 | 03:02:21.260-03:02:26.519 | DM] You see, again, another… unit charging now from the front.
 [u2499 | 03:02:26.760-03:02:32.869 | DM] I guess… I don't really know what order you're all in, but I guess Seeker or…
 [u2500 | 03:02:33.370-03:02:35.179 | DM] Kenzo is in the front.
-[u2501 | 03:02:35.180-03:02:38.280 | Kenzo] Yeah. We put Seeker and [[Seeker]] in the middle, I'm sure.
+[u2501 | 03:02:35.180-03:02:38.280 | Kenzo] Yeah. We put Seeker and {{Seeker}} in the middle, I'm sure.
 [u2502 | 03:02:39.040-03:02:46.190 | DM] So… Oof, that's… Two natural 20s against Kenzo.
 [u2503 | 03:02:47.980-03:02:52.619 | DM] So that each one is gonna deal…
 [u2504 | 03:02:58.300-03:03:01.179 | DM] 4d10 plus… okay, so the first…
@@ -2574,7 +2574,7 @@
 [u2574 | 03:06:26.660-03:06:27.490 | Delwath] Wow.
 [u2575 | 03:06:28.070-03:06:30.480 | Delwath] Well?
 [u2576 | 03:06:31.780-03:06:32.360 | DM] Nope.
-[u2577 | 03:06:34.290-03:06:40.450 | Delwath] Oh, you know what I forgot about, [[Debit]]? I could roll 2D4 and add it to a… Save.
+[u2577 | 03:06:34.290-03:06:40.450 | Delwath] Oh, you know what I forgot about, {{Debit}}? I could roll 2D4 and add it to a… Save.
 [u2578 | 03:06:40.780-03:06:43.420 | DM] Seeker's fine, so it's only Delwath.
 [u2579 | 03:06:43.420-03:06:46.000 | Delwath] Well, I'm gonna… I'm gonna add 2D4 here.
 [u2580 | 03:06:47.330-03:06:48.760 | DM] What did you roll?
@@ -2672,7 +2672,7 @@
 [u2672 | 03:12:09.850-03:12:10.350 | Wellby] Love it.
 [u2673 | 03:12:10.350-03:12:11.230 | Delwath] And then vanish.
 [u2674 | 03:12:11.700-03:12:14.310 | Kenzo] Yeah, now let's scry. What's going on? What's going on?
-[u2675 | 03:12:14.520-03:12:16.919 | Delwath] Yeah, [[as soon as we wait]], I'm scrying this guy.
+[u2675 | 03:12:14.520-03:12:16.919 | Delwath] Yeah, {{as soon as we wait}}, I'm scrying this guy.
 [u2676 | 03:12:21.050-03:12:30.140 | DM] The… Creature is still moving.
 [u2677 | 03:12:30.410-03:12:37.010 | DM] There's, people moving up and down, tending to the… tending to the wounded.
 [u2678 | 03:12:37.240-03:12:42.350 | DM] The interior has reshaped itself now, there are…
@@ -2818,7 +2818,7 @@
 [u2818 | 03:22:07.740-03:22:15.610 | Delwath] But, like, if it could levitate 3 inches, then it would presumably be able to just go up a wall, and you couldn't really knock it down, because it would just be levitating.
 [u2819 | 03:22:16.050-03:22:18.890 | Delwath] So we actually have no evidence that it's possible to knock down.
 [u2820 | 03:22:21.750-03:22:25.099 | DM] You don't know, one way or the other, what is possible to do.
-[u2821 | 03:22:25.440-03:22:30.139 | DM] [[What's done so far has seemed]] to affect the… Chaos Metal in any way.
+[u2821 | 03:22:25.440-03:22:30.139 | DM] {{What's done so far has seemed}} to affect the… Chaos Metal in any way.
 [u2822 | 03:22:36.630-03:22:46.670 | Delwath] So, I mean… The idea would be… You know, how can we… I think the next plan…
 [u2823 | 03:22:47.940-03:22:50.449 | Delwath] Is, it's gonna reach the cliff tomorrow.
 [u2824 | 03:22:50.650-03:22:51.310 | Delwath] Right?
@@ -2845,8 +2845,8 @@
 [u2845 | 03:24:28.110-03:24:34.410 | Delwath] No, I know, but that doesn't… that doesn't mean the metal… it's possible the only way to damage her is by piercing the metal.
 [u2846 | 03:24:34.540-03:24:36.739 | Delwath] It doesn't mean that the metal is itself.
 [u2847 | 03:24:38.410-03:24:39.060 | DM] No, it's true.
-[u2848 | 03:24:39.060-03:24:39.390 | Delwath] [[It's incredible.]]
-[u2849 | 03:24:39.390-03:24:47.230 | DM] [[What you've cast so far seems]] to have… affected the… Chaos Metal structure directly.
+[u2848 | 03:24:39.060-03:24:39.390 | Delwath] {{It's incredible.}}
+[u2849 | 03:24:39.390-03:24:47.230 | DM] {{What you've cast so far seems}} to have… affected the… Chaos Metal structure directly.
 [u2850 | 03:24:47.690-03:24:48.209 | Kenzo] But we haven't tried.
 [u2851 | 03:24:48.210-03:24:49.080 | DM] Obviously doesn't…
 [u2852 | 03:24:49.080-03:24:49.720 | Kenzo] hitting it.

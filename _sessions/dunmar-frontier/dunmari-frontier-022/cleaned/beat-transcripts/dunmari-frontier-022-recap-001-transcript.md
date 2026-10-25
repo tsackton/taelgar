@@ -113,7 +113,7 @@ DM: Yeah, so the monastery is about five miles north, and then Kharsan is anothe
 Delwath: He's sort of looking to the north, seems a bit almost anxious, like something, you know... Maybe there's some bad things up there, and he's not sure exactly about whether we should be running headlong into them. But he's also sort of humming some camp song under his breath, and when he turns back to cleaning up from lunch and the routine of the camp, it's like a steadying influence and he calms down again.
 
 %% u0084-u0088 %%
-Kenzo: Kenzo is... So we're all—are we all, [[tested, you see, like optimally]], in a circle, kind of sitting there? Yeah, so Kenzo... You know, we say this is after our meal. You notice that Kenzo, just in general, over the past stretch of time—how long have we been on this mini journey since we left Karawa?
+Kenzo: Kenzo is... So we're all—are we all, {{tested, you see, like optimally}}, in a circle, kind of sitting there? Yeah, so Kenzo... You know, we say this is after our meal. You notice that Kenzo, just in general, over the past stretch of time—how long have we been on this mini journey since we left Karawa?
 
 %% u0089 %%
 DM: It's been about two weeks since you left Karawa.
@@ -152,7 +152,7 @@ Kenzo: And as we all sit in a circle in the afternoon shade, Kenzo ate the lunch
 Kenzo: And, you know, Kenzo sort of lifts his head up and, for a moment, is really, really there with you all. Kind of looks at all of you, just sort of waiting, just making sure that you all can see that he has something to say. So he gets everybody's attention, or just is sitting there waiting until everybody's picking up on this.
 
 %% u0114-u0119 %%
-Kenzo: Kenzo also has been, like, absolutely playing with his [[final accolades]], playing with the stone that he carries. And he looks at all of you and he says, “I have a question for you all. What do you know about the Great War? What do you know about the great hero, the mage Rai?”
+Kenzo: Kenzo also has been, like, absolutely playing with his {{final accolades}}, playing with the stone that he carries. And he looks at all of you and he says, “I have a question for you all. What do you know about the Great War? What do you know about the great hero, the mage Rai?”
 
 %% u0120 %%
 Seeker: Rai, Rai.
@@ -179,7 +179,7 @@ Seeker: Tim, do I know anything?
 DM: You would have—make a History check.
 
 %% u0131 %%
-Kenzo: Nice. [[Was...]]
+Kenzo: Nice. {{Was...}}
 
 %% u0132 %%
 Wellby: The same for...?
@@ -197,7 +197,7 @@ Wellby: He was my brother. Excellent.
 Delwath: So...
 
 %% u0137 %%
-Seeker: [[You did cry.]]
+Seeker: {{You did cry.}}
 
 %% u0138-u0147 %%
 Delwath: I've heard of him. He was well known amongst the wise at the time of the Great War, always traveling with the three companions. I never knew him except as rumor and legend and tales that were told as he led some of the battles against Cha'mutte. I know he was of elven blood, although not a familiar elf.
@@ -245,13 +245,13 @@ Wellby: Plus seven, so thirteen.
 Delwath: Why do you ask?
 
 %% u0167 %%
-Unknown: [[Your second.]]
+Unknown: {{Your second.}}
 
 %% u0168-u0169 %%
-Seeker: Kenzo, man, [[what I want us to... Go one part.]]
+Seeker: Kenzo, man, {{what I want us to... Go one part.}}
 
 %% u0170 %%
-Kenzo: [[Everybody needs to say bursting at all.]]
+Kenzo: {{Everybody needs to say bursting at all.}}
 
 %% u0171 %%
 Seeker: Yeah, what was the little guy's name?
@@ -275,7 +275,7 @@ Seeker: Well, if I recall correctly, the story is actually told from Dimitaur's 
 Kenzo: Remember what it looked like, this creature?
 
 %% u0186 %%
-Unknown: [[From mom.]]
+Unknown: {{From mom.}}
 
 %% u0187-u0192 %%
 Seeker: Oh yes. That was a wonderful part of the story, just the description. In order to describe Dimitaur’s spectacular feats of glory, it had to be emphasized that he was, you know, the size of a small bird of prey, perhaps, with leathery skin and purple scales.
@@ -371,7 +371,7 @@ Kenzo: So.
 DM: I mean, so the one detail is—and you examined this before, Seeker—that there is an outer surface. It looks like there's a smooth outer surface, and then there are jagged... So it's almost like a wedge shape, like this. Well, not exactly a wedge, but there's that smooth part, and then the other sides are rougher, like it was broken from something. One of the faces is more smooth and weathered, but it's hard to say. There's no fingernail or, you know, eyelash or anything like that.
 
 %% u0302 %%
-Seeker: [[Way.]]
+Seeker: {{Way.}}
 
 %% u0303 %%
 DM: It's not like a piece of a finger that was broken off, or anything quite so obvious.
@@ -440,7 +440,7 @@ Delwath: In my day, it was thought that the great heroes were exploring ancient 
 Seeker: And you have no idea where you got this thing from, Kenzo?
 
 %% u0357 %%
-Unknown: [[Lifeguards.]]
+Unknown: {{Lifeguards.}}
 
 %% u0358 %%
 Seeker: Bestowed upon you at birth?
@@ -530,7 +530,7 @@ Delwath: He's drinking so he doesn't give away anything. If they did, they...
 Wellby: Did they open a door that should have stayed closed?
 
 %% u0406-u0407 %%
-Kenzo: [[Doors that are you think, but they get up.]] Well, I think I was closing a door that opens.
+Kenzo: {{Doors that are you think, but they get up.}} Well, I think I was closing a door that opens.
 
 %% u0408-u0411 %%
 Kenzo: So, as I share this with you, it's been weighing on me heavily. But I think where we venture next, there's great significance to what games are afoot.
@@ -551,7 +551,7 @@ Wellby: No, nothing in this complex, right?
 DM: Nothing in this complex, although it was also the hottest part of the day, and you didn't look inside any buildings.
 
 %% u0421 %%
-Wellby: So, Tim, is that thing in the center of the map, that [[fairly thing]]...?
+Wellby: So, Tim, is that thing in the center of the map, that {{fairly thing}}...?
 
 %% u0422-u0428 %%
 DM: I was gonna ask. So, right, there's a curving, paved gravel path that spirals in towards a statue, a fountain. Sort of what you could see from the air was that it looked—it was like curves and waves that suggested a human form, but very abstract.
@@ -728,13 +728,13 @@ Kenzo: And...
 Unknown: They're like...
 
 %% u0513 %%
-Kenzo: [[Nobody will right.]]
+Kenzo: {{Nobody will right.}}
 
 %% u0514 %%
 Unknown: Yeah.
 
 %% u0515 %%
-Delwath: [[And it fires.]]
+Delwath: {{And it fires.}}
 
 %% u0516 %%
 Delwath: Okay, but we don't know—nothing happened with the ship, none of that stuff was thirty years ago.
@@ -875,7 +875,7 @@ Seeker: She brought Jeevali back. Well, there's your answer, I suppose. And how 
 DM: You don't really know, I mean...
 
 %% u0583-u0585 %%
-Kenzo: Do I? There's no—like, in our [[contract]]? I study this stuff, right?
+Kenzo: Do I? There's no—like, in our {{contract}}? I study this stuff, right?
 
 %% u0586-u0587 %%
 DM: Even the Lakan Mystai would not—this would not be part of their arcane knowledge.
@@ -887,7 +887,7 @@ Kenzo: Seeker, you're asking the right questions. So whatever those monks were t
 Delwath: The other story the elves tell is that all of the human gods come from humanity's belief. Yes. Maybe the Awakened Soul is trying to awaken a god. Interesting.
 
 %% u0596 %%
-Delwath: [[Fish.]]
+Delwath: {{Fish.}}
 
 %% u0597 %%
 Seeker: Around.

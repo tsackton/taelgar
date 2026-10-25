@@ -44,7 +44,7 @@
 [u0044 | 00:05:05.220-00:05:06.150 | Kenzo] We recognize any of them.
 [u0045 | 00:05:06.870-00:05:16.530 | DM] No you don't recognize any of them, I mean you might have seen them they're they're from Havdar's band, you might have seen them, you know around.
 [u0046 | 00:05:17.670-00:05:20.940 | DM] camp in your travels but not anybody that you've particularly spoken to.
-[u0047 | 00:05:24.960-00:05:29.970 | Kenzo] [[l amp D]] where it's been a long travel returned back to Karawa.
+[u0047 | 00:05:24.960-00:05:29.970 | Kenzo] {{l amp D}} where it's been a long travel returned back to Karawa.
 [u0048 | 00:05:32.640-00:05:38.760 | DM] Indeed we've been looking for you, these past four days, three days since since Havdar's return without you.
 [u0049 | 00:05:41.130-00:05:44.100 | DM] Ah, some, feared you lost in the desert but.
 [u0050 | 00:05:45.330-00:05:47.370 | DM] I suspected that would not be your fate.
@@ -178,7 +178,7 @@
 [u0178 | 00:18:22.590-00:18:27.780 | Kenzo] But i'm glad we're we're able to meet in private, as well as.
 [u0179 | 00:18:33.210-00:18:36.150 | Kenzo] We have learned about the Heart of Shakun.
 [u0180 | 00:18:38.130-00:18:39.240 | Kenzo] And we have learned.
-[u0181 | 00:18:41.430-00:18:42.240 | Kenzo] [[A hard isn't to say]].
+[u0181 | 00:18:41.430-00:18:42.240 | Kenzo] {{A hard isn't to say}}.
 [u0182 | 00:18:43.980-00:18:55.500 | Kenzo] And I don't know Candrosa what you neglected to share with us before we departed, but it seems as though there's some critical information about.
 [u0183 | 00:18:57.300-00:19:04.740 | Kenzo] any information that you have about the Heart of Shakun and where we may be able to find it that seems to be an incredibly important.
 [u0184 | 00:19:06.990-00:19:08.010 | DM] facet, did you.
@@ -186,7 +186,7 @@
 [u0186 | 00:19:12.600-00:19:14.220 | DM] How did you come to learn of this thing.
 [u0187 | 00:19:15.810-00:19:16.530 | Kenzo] Bhishma told me.
 [u0188 | 00:19:19.020-00:19:24.030 | DM] He looks shocked not disbelieving just like it sort of in awe.
-[u0189 | 00:19:30.900-00:19:42.510 | Kenzo] I don't mean to to rush through parts of the story i'm now an initiate of Bhishma, this is one of the events [[nuts and bolts]] Seeker nearly joined me the last minute had cold feet understandably so.
+[u0189 | 00:19:30.900-00:19:42.510 | Kenzo] I don't mean to to rush through parts of the story i'm now an initiate of Bhishma, this is one of the events {{nuts and bolts}} Seeker nearly joined me the last minute had cold feet understandably so.
 [u0190 | 00:19:45.540-00:19:51.090 | Kenzo] I mean you know dying is quite a price to pay and.
 [u0191 | 00:19:52.260-00:19:56.460 | Kenzo] But but yeah I you know Bhishma directly shared with me.
 [u0192 | 00:20:01.050-00:20:04.170 | Kenzo] That while Shakun is still with them.
@@ -363,7 +363,7 @@
 [u0363 | 00:35:04.170-00:35:14.850 | Delwath] be growing, although it's deteriorated today was it just recently that it's really deteriorated a lot, whereas it that it's more noticeable but it's.
 [u0364 | 00:35:17.730-00:35:23.010 | DM] it's it's actually a Seeker why don't you make a intelligence check.
 [u0365 | 00:35:25.980-00:35:31.320 | Wellby] Did he, did he already tell us where physically the heart resides now what is that.
-[u0366 | 00:35:36.630-00:35:41.880 | Kenzo] He wants to tell us that, in the presence of the stoneborn [[very good detail]].
+[u0366 | 00:35:36.630-00:35:41.880 | Kenzo] He wants to tell us that, in the presence of the stoneborn {{very good detail}}.
 [u0367 | 00:35:42.750-00:35:55.170 | DM] So yeah Seeker Seeker is pretty experienced with stone and it's all its forms of weathering and construction and I think Seeker what you would infer from this is that.
 [u0368 | 00:35:56.820-00:36:01.710 | DM] Like structural weaknesses had probably been building up for a while.
 [u0369 | 00:36:03.450-00:36:05.490 | DM] And something.
@@ -405,7 +405,7 @@
 [u0405 | 00:39:39.330-00:39:43.140 | DM] I sat through my studies of history in religion.
 [u0406 | 00:39:44.580-00:39:46.320 | DM] Like the next person, but.
 [u0407 | 00:39:48.090-00:39:49.230 | DM] I can't say.
-[u0408 | 00:39:50.910-00:39:53.850 | DM] Much of it [[has some gets]].
+[u0408 | 00:39:50.910-00:39:53.850 | DM] Much of it {{has some gets}}.
 [u0409 | 00:39:58.950-00:40:00.690 | Kenzo] Well it's it's just to be clear again.
 [u0410 | 00:40:01.800-00:40:07.770 | Kenzo] No one else knows does anybody in town even know about the existence of the Heart of Shakun.
 [u0411 | 00:40:08.820-00:40:09.300 | DM] Only the.
@@ -464,8 +464,8 @@
 [u0464 | 00:44:28.680-00:44:29.520 | Delwath] totally different.
 [u0465 | 00:44:30.870-00:44:32.100 | Kenzo] Oh.
 [u0466 | 00:44:32.160-00:44:33.300 | Delwath] giants a stoneborn I mean.
-[u0467 | 00:44:33.450-00:44:36.750 | Delwath] stoneborn, are they where we call them [[owners]] in high school, but they were.
-[u0468 | 00:44:36.750-00:44:41.700 | Delwath] Like the the monk, they were like [[barrels mentors]].
+[u0467 | 00:44:33.450-00:44:36.750 | Delwath] stoneborn, are they where we call them {{owners}} in high school, but they were.
+[u0468 | 00:44:36.750-00:44:41.700 | Delwath] Like the the monk, they were like {{barrels mentors}}.
 [u0469 | 00:44:41.880-00:44:43.350 | DM] Right and they.
 [u0470 | 00:44:43.380-00:44:52.530 | DM] So they're one of the other races like one of the firstborn races like elves dwarves halflings and lizard folk there the fifth of the five firstborn races.
 [u0471 | 00:44:52.620-00:44:53.220 | Unknown] six.
@@ -552,7 +552,7 @@
 [u0552 | 00:53:24.720-00:53:34.650 | Delwath] it's almost harder to focus on the Armor than then maybe it should be there's there's a big blackness in the Center of it that is emanating a small.
 [u0553 | 00:53:36.090-00:53:42.420 | Delwath] bit of shadow that kind of clings to the Armor he's also wearing and another sort of ancient looking helm.
 [u0554 | 00:53:44.310-00:53:55.650 | Delwath] With you know, a small little winglet coming out and slung over his back is a is a large shield, along with the pack, but you can see no other weapons he's not no sword or any other weapon.
-[u0555 | 00:53:57.030-00:54:13.260 | Delwath] That with his his sort of pale silver hair that fairly short cropped but a little bit, you can see, under the helmet copper skin and somewhat distant looking golden eyes, so [[you can know must she's]] almost i'm.
+[u0555 | 00:53:57.030-00:54:13.260 | Delwath] That with his his sort of pale silver hair that fairly short cropped but a little bit, you can see, under the helmet copper skin and somewhat distant looking golden eyes, so {{you can know must she's}} almost i'm.
 [u0556 | 00:54:14.700-00:54:19.380 | Delwath] always seems to be looking past you or off into the distance just a little bit.
 [u0557 | 00:54:20.910-00:54:24.300 | Delwath] he's clearly seen some things in his time.
 [u0558 | 00:54:25.680-00:54:27.240 | Delwath] But he he kind of.
@@ -560,7 +560,7 @@
 [u0560 | 00:54:33.300-00:54:41.790 | Delwath] in common, it is a, it is a pleasure to meet one of your race, it has been many years since I last.
 [u0561 | 00:54:42.900-00:54:47.520 | Delwath] had the pleasure of the company of the start of a stoneborn welcome to.
 [u0562 | 00:54:49.710-00:54:50.520 | Delwath] Karawa.
-[u0563 | 00:54:54.690-00:55:01.680 | Kenzo] And standing next to Delwath also normal humanoids [[haha calls]], though, it sounds like six feet tall.
+[u0563 | 00:54:54.690-00:55:01.680 | Kenzo] And standing next to Delwath also normal humanoids {{haha calls}}, though, it sounds like six feet tall.
 [u0564 | 00:55:01.860-00:55:10.260 | Delwath] And not even I mean he's probably 5'8", 5'9" something like that elves aren't super tall.
 [u0565 | 00:55:12.240-00:55:12.720 | Kenzo] and
 [u0566 | 00:55:14.040-00:55:23.760 | Kenzo] yeah so standing next to next to on Delwath similar similar height maybe a little bit maybe a touch taller is Kenzo who is human.
@@ -572,7 +572,7 @@
 [u0572 | 00:56:18.750-00:56:30.660 | Kenzo] And you know Kenzo you can also tell just by how he moves he's got like a like a grace about him like you can tell that he could probably do some damage with that staff and can move around quite well.
 [u0573 | 00:56:32.460-00:56:40.830 | Kenzo] And, and so you know kinds of Kenzo again sees he sees you and and nods says greetings.
 [u0574 | 00:56:43.050-00:56:44.370 | Kenzo] Looking forward to.
-[u0575 | 00:56:45.540-00:56:49.050 | Kenzo] Learning more about you stoneborn Kenzo [[on Canada]].
+[u0575 | 00:56:45.540-00:56:49.050 | Kenzo] Learning more about you stoneborn Kenzo {{on Canada}}.
 [u0576 | 00:56:51.030-00:56:51.660 | Kenzo] What is your name.
 [u0577 | 00:56:53.580-00:56:54.240 | Drikod] Drikod.
 [u0578 | 00:56:58.560-00:57:11.250 | Drikod] Drikod he kind of acknowledges the views that how much stuff some of you are carrying compared to his more minimal packing and utilitarian clothing and.
@@ -621,7 +621,7 @@
 [u0621 | 01:00:39.150-01:00:40.200 | Drikod] there's no need to Spar.
 [u0622 | 01:00:43.200-01:00:43.950 | Kenzo] You change your mind.
 [u0623 | 01:00:50.340-01:00:54.240 | Kenzo] Oh Always need sparring partners, especially ones, now that.
-[u0624 | 01:00:56.130-01:00:57.330 | Kenzo] [[I didn't dig myself]].
+[u0624 | 01:00:56.130-01:00:57.330 | Kenzo] {{I didn't dig myself}}.
 [u0625 | 01:00:59.700-01:01:01.110 | DM] you've been even bigger than.
 [u0626 | 01:01:01.590-01:01:01.800 | Unknown] Then.
 [u0627 | 01:01:05.010-01:01:07.200 | Kenzo] How big is that enlarge spell make me how.
@@ -780,7 +780,7 @@
 [u0780 | 01:13:56.070-01:13:56.880 | DM] Which you're muted.
 [u0781 | 01:13:58.260-01:14:02.670 | Kenzo] Wait is the daughter the heart, or is the daughter—heart a physical object.
 [u0782 | 01:14:03.270-01:14:06.780 | DM] the hearts of physical object the daughter was just a person who can do magic.
-[u0783 | 01:14:06.990-01:14:10.710 | Seeker] will be the next supreme Oracle and [[infuriatingly]] powerful.
+[u0783 | 01:14:06.990-01:14:10.710 | Seeker] will be the next supreme Oracle and {{infuriatingly}} powerful.
 [u0784 | 01:14:11.130-01:14:14.580 | Kenzo] Yes, right, and so they took this to heart with them.
 [u0785 | 01:14:15.570-01:14:16.950 | Kenzo] Yes, so.
 [u0786 | 01:14:17.700-01:14:19.560 | Wellby] Yes, oh first.
@@ -825,7 +825,7 @@
 [u0825 | 01:16:40.470-01:16:41.640 | Kenzo] could have potentially.
 [u0826 | 01:16:42.930-01:16:51.270 | Kenzo] prevented or help to address so many the urgent issues. Why have the centaurs not been rallied to this cause, why have we not been talking about this.
 [u0827 | 01:16:51.600-01:16:57.840 | Kenzo] The moment that we arrived, this is just what we've been wandering around the desert for hundreds of miles for.
-[u0828 | 01:16:58.680-01:17:15.300 | Kenzo] Sorry, if i'm a little agitated right now but you're talking to us after you know being Gone are also for a month and having to learn about the the the disappearance of the heart from the Bhishma directly, I mean i'm just a little frustrated and [[I slept]].
+[u0828 | 01:16:58.680-01:17:15.300 | Kenzo] Sorry, if i'm a little agitated right now but you're talking to us after you know being Gone are also for a month and having to learn about the the the disappearance of the heart from the Bhishma directly, I mean i'm just a little frustrated and {{I slept}}.
 [u0829 | 01:17:16.890-01:17:20.100 | Wellby] Wellby was saying and don't get us wrong all of that has been.
 [u0830 | 01:17:20.310-01:17:21.750 | DM] amazing.
 [u0831 | 01:17:21.990-01:17:36.240 | Wellby] We cross the River Kharja, we went to the dead city of Kharsan, at least, it was so great, we talked to ghosts it's been fantastic, but I have to agree with Kenzo, I mean this kind of seems like high priority saving child.
@@ -1079,7 +1079,7 @@
 [u1079 | 01:37:59.400-01:38:03.060 | Wellby] I think Wellby left Sembara about the same time, though.
 [u1080 | 01:38:03.510-01:38:06.360 | DM] yeah about four months ago sort of a funny.
 [u1081 | 01:38:07.200-01:38:07.890 | Wellby] That makes them a little.
-[u1082 | 01:38:10.350-01:38:12.300 | Wellby] who's the owner of the centaurs again [[turmeric]].
+[u1082 | 01:38:10.350-01:38:12.300 | Wellby] who's the owner of the centaurs again {{turmeric}}.
 [u1083 | 01:38:14.880-01:38:15.660 | DM] Tharandros.
 [u1084 | 01:38:16.020-01:38:16.350 | Unknown] Right.
 [u1085 | 01:38:18.000-01:38:19.830 | Wellby] they'll just say, are we still with Candrosa.
@@ -1316,7 +1316,7 @@
 [u1316 | 01:59:01.530-01:59:03.030 | Kenzo] In the past, several hundred years least.
 [u1317 | 01:59:04.890-01:59:11.010 | Delwath] We know when Kharsan was destroyed out of it we don't we never we don't have a specific date right.
 [u1318 | 01:59:12.270-01:59:19.710 | DM] You know, it was after the great war but shortly it couldn't have been very long after the Great War because.
-[u1319 | 01:59:24.540-01:59:26.250 | DM] [[within an invite it]].
+[u1319 | 01:59:24.540-01:59:26.250 | DM] {{within an invite it}}.
 [u1320 | 01:59:27.240-01:59:29.400 | DM] conceivably could have been the same fire giant.
 [u1321 | 01:59:30.900-01:59:34.620 | Seeker] isn't there isn't there a connection between fire giants and magic and the dwarves.
 [u1322 | 01:59:36.030-01:59:37.800 | Delwath] All giants have runic magic.
@@ -1957,7 +1957,7 @@
 [u1957 | 02:54:09.660-02:54:10.800 | Kenzo] Oh actually.
 [u1958 | 02:54:11.820-02:54:12.330 | Kenzo] i'm yeah.
 [u1959 | 02:54:12.720-02:54:13.260 | Kenzo] i'll just focus.
-[u1960 | 02:54:13.560-02:54:17.640 | Delwath] Wellby can you use your move to come over to me and then [[we'll direction]].
+[u1960 | 02:54:13.560-02:54:17.640 | Delwath] Wellby can you use your move to come over to me and then {{we'll direction}}.
 [u1961 | 02:54:20.070-02:54:21.090 | DM] yeah you can do that.
 [u1962 | 02:54:21.690-02:54:26.130 | Delwath] Just because it's a lot easier for me to give you a bow if we're standing next to each other.
 [u1963 | 02:54:27.510-02:54:28.380 | Wellby] Yes.
@@ -1969,7 +1969,7 @@
 [u1969 | 02:54:45.030-02:54:48.900 | DM] You also have your planar power blaster.
 [u1970 | 02:54:49.890-02:54:50.820 | Kenzo] yeah I was gonna do that.
 [u1971 | 02:54:52.080-02:54:56.430 | Kenzo] Then I popped out at the pool to engage this guy so they're going to fight this guy i'll do the next round.
-[u1972 | 02:54:59.250-02:55:02.940 | Kenzo] yeah, I guess, can I do three and then do the [[advocacy if I want younger]].
+[u1972 | 02:54:59.250-02:55:02.940 | Kenzo] yeah, I guess, can I do three and then do the {{advocacy if I want younger}}.
 [u1973 | 02:55:04.050-02:55:07.710 | Kenzo] Alright, so i'll try to hook this up with some unarmed attacks.
 [u1974 | 02:55:11.550-02:55:12.060 | Kenzo] Okay.
 [u1975 | 02:55:13.350-02:55:13.950 | Kenzo] First, one.
@@ -2100,7 +2100,7 @@
 [u2100 | 03:03:05.730-03:03:07.890 | DM] own and that will bring us back to Drikod.
 [u2101 | 03:03:08.280-03:03:11.760 | Wellby] So TIM on that last one i'm going to use my reaction, because I have an enemy within five.
 [u2102 | 03:03:11.820-03:03:12.180 | DM] Oh yeah.
-[u2103 | 03:03:12.240-03:03:15.180 | Wellby] To move here with a [[promotion]].
+[u2103 | 03:03:12.240-03:03:15.180 | Wellby] To move here with a {{promotion}}.
 [u2104 | 03:03:15.690-03:03:17.340 | Drikod] Okay um.
 [u2105 | 03:03:17.550-03:03:20.910 | Delwath] Oh wait hold on a minute um.
 [u2106 | 03:03:21.930-03:03:25.290 | Delwath] How do I not have any I don't have my any of my stuff nevermind.
@@ -2242,7 +2242,7 @@
 [u2242 | 03:12:35.730-03:12:37.650 | DM] isn't Improved Pact weapon a plus one.
 [u2243 | 03:12:40.200-03:12:43.290 | Delwath] Now, Improved Pact weapon means I can.
 [u2244 | 03:12:44.700-03:12:47.280 | Delwath] Oh yeah plus one damage, yes it is plus one you're right.
-[u2245 | 03:12:50.160-03:12:51.360 | DM] [[Even game sort of death]].
+[u2245 | 03:12:50.160-03:12:51.360 | DM] {{Even game sort of death}}.
 [u2246 | 03:13:05.700-03:13:06.000 | DM] yeah.
 [u2247 | 03:13:07.020-03:13:10.470 | Kenzo] Is the the shadow that i'm engaged with that one's pretty wounded right.
 [u2248 | 03:13:14.040-03:13:16.380 | DM] Yes, it's pretty wounded, the one you're engaged with.
@@ -2486,7 +2486,7 @@
 [u2486 | 03:29:23.250-03:29:24.300 | DM] Just enough.
 [u2487 | 03:29:25.980-03:29:27.390 | Kenzo] This was a pretty cool moment so.
 [u2488 | 03:29:28.260-03:29:30.450 | Kenzo] Again, like draw out like like you know.
-[u2489 | 03:29:30.480-03:29:33.570 | Kenzo] Energetic [[claim market]] on it's really fucking like you know.
+[u2489 | 03:29:30.480-03:29:33.570 | Kenzo] Energetic {{claim market}} on it's really fucking like you know.
 [u2490 | 03:29:33.960-03:29:47.730 | Kenzo] Like vibrant given, like all the the pool that we're in all the shit punches through and you see this light blue hand by kind of reach out grab the shadow thing hold him like closer and then and then Kenzo punches actual.
 [u2491 | 03:29:48.450-03:29:50.580 | Kenzo] But through the thing and and you know.
 [u2492 | 03:29:51.480-03:29:54.180 | DM] Just kind of dissipates in this flash of blue light.
@@ -2706,7 +2706,7 @@
 [u2706 | 03:45:49.770-03:45:53.820 | Kenzo] bringing back to the fucking mirror to actually see what happened that mirror mirror the mirror.
 [u2707 | 03:45:54.210-03:45:54.540 | Unknown] The mirror.
 [u2708 | 03:45:55.980-03:45:57.090 | Kenzo] We should bring the mirror with us.
-[u2709 | 03:45:57.930-03:46:01.380 | Drikod] I know I could carry the mirror i'm [[drinking]].
+[u2709 | 03:45:57.930-03:46:01.380 | Drikod] I know I could carry the mirror i'm {{drinking}}.
 [u2710 | 03:46:03.600-03:46:04.260 | Delwath] The beer for.
 [u2711 | 03:46:04.800-03:46:05.340 | Delwath] You actually.
 [u2712 | 03:46:06.540-03:46:07.800 | Delwath] You can only use it once a.
@@ -2732,7 +2732,7 @@
 [u2732 | 03:47:04.350-03:47:04.860 | Kenzo] yeah i'm here.
 [u2733 | 03:47:05.640-03:47:06.780 | Kenzo] the mirror is a game changer.
 [u2734 | 03:47:07.980-03:47:08.310 | Kenzo] and
-[u2735 | 03:47:11.910-03:47:16.710 | Kenzo] When whenever we finish talking Kenzo will, will you know [[how well well]].
+[u2735 | 03:47:11.910-03:47:16.710 | Kenzo] When whenever we finish talking Kenzo will, will you know {{how well well}}.
 [u2736 | 03:47:16.830-03:47:17.520 | DM] yeah go.
 [u2737 | 03:47:17.760-03:47:18.240 | Drikod] Nine in.
 [u2738 | 03:47:18.660-03:47:19.800 | Kenzo] The mystai with them and help.

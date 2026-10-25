@@ -122,7 +122,7 @@ Heska: Because…
 Sculpit: Fireball's not a bad choice. Take Fireball with your thingies. Your Magical Secrets.
 
 %% u1631-u1635 %%
-Heska: See, I… [[just dead.]] I just took all of my traits.
+Heska: See, I… {{just dead.}} I just took all of my traits.
 
 %% u1636 %%
 DM: Yeah.
@@ -266,7 +266,7 @@ DM: What is it?
 Zeno: 5.
 
 %% u1716-u1727 %%
-DM: Okay. All right, cool. Give me one second here, I gotta roll a bunch of initiatives, also for Roska, by the way. He's very good at Acrobatics and is keeping up. Hold on, let me just roll… [[But I could believe.]] Oh, can I just do… I can do it three times, great. That's nice. 18. And just give me one more second. Hmm. Okay.
+DM: Okay. All right, cool. Give me one second here, I gotta roll a bunch of initiatives, also for Roska, by the way. He's very good at Acrobatics and is keeping up. Hold on, let me just roll… {{But I could believe.}} Oh, can I just do… I can do it three times, great. That's nice. 18. And just give me one more second. Hmm. Okay.
 
 %% u1728-u1734 %%
 DM: All right, everybody. So, as soon as you get to 100 feet—just give me one more second here—as soon as you get within 100 feet, all four of the statues look up at you. They don't move, but they definitely look up. And their eyes light up. Get here… I'm very proud of myself for this.
@@ -275,7 +275,7 @@ DM: All right, everybody. So, as soon as you get to 100 feet—just give me one 
 Zeno: Oh.
 
 %% u1736-u1739 %%
-DM: [[And we have a dollar now.]] All right. So the statues look up at each of the four of you. I think we'll kind of do honor system here, just so you can put your cursor on where your spot is. This is not in D&D Beyond, obviously; this is in this. So just keep track of your location as you're flying down.
+DM: {{And we have a dollar now.}} All right. So the statues look up at each of the four of you. I think we'll kind of do honor system here, just so you can put your cursor on where your spot is. This is not in D&D Beyond, obviously; this is in this. So just keep track of your location as you're flying down.
 
 %% u1740-u1743 %%
 DM: But as soon as you guys get to within 100 feet—let me just check the initiative order—Heska, you go first. What do you do?
@@ -317,7 +317,7 @@ Heska: I move towards an edge if there's somewhere I can hide, and I'm gonna hid
 DM: Okay.
 
 %% u1760-u1761 %%
-Heska: [[Sackton hide.]] That's a 25.
+Heska: {{Sackton hide.}} That's a 25.
 
 %% u1762 %%
 DM: And that's for what?
@@ -431,7 +431,7 @@ DM: Yeah, I mean, you basically get the same message of "Defend. Safe. Intruder.
 Little Tony: I'll just shout out, "It's not obvious they're trying to fight us."
 
 %% u1838-u1839 %%
-DM: [[So, Sonata Pistona.]] All right.
+DM: {{So, Sonata Pistona.}} All right.
 
 %% u1840 %%
 Little Tony: Just leave it there, that's right.
@@ -671,7 +671,7 @@ DM: The ancient mechanical statue is now trapped in a freestyle battle with Zeno
 Sculpit: Heska also, the glow of this, you have advantage.
 
 %% u1972-u1980 %%
-DM: [[To Jenna next.]] Dragonet battle, all right. Roska now is gonna act. Roska is just a classic fighter, so he is not deterred by this whole situation at all, and dives towards the statue that is in the rap battle and tries to attack it. He's got a shortsword with him. And he misses. And that's the end of his turn. Okay, the last statue now also turns on its laser-beam eyes, and also attacks, shooting beams at Roska.
+DM: {{To Jenna next.}} Dragonet battle, all right. Roska now is gonna act. Roska is just a classic fighter, so he is not deterred by this whole situation at all, and dives towards the statue that is in the rap battle and tries to attack it. He's got a shortsword with him. And he misses. And that's the end of his turn. Okay, the last statue now also turns on its laser-beam eyes, and also attacks, shooting beams at Roska.
 
 %% u1981 %%
 Sculpit: I think Roska's the problem here, guys.
@@ -791,7 +791,7 @@ Sculpit: I mean, I can just teleport out and back in with Dimension Door, and it
 DM: Yeah, yeah, but right now Roska is in laser-beam range of all four statues, and went into melee against one of the statues. So Tony trying to pull him out of the melee is…
 
 %% u2038 %%
-Sculpit: Yeah, yeah, do that. Bring him back up to, like, [[same place person's face]].
+Sculpit: Yeah, yeah, do that. Bring him back up to, like, {{same place person's face}}.
 
 %% u2039 %%
 Little Tony: So 10 minutes ago, your greatest asset was the ability to provide cogent feedback to others. I don't know that you can teleport.

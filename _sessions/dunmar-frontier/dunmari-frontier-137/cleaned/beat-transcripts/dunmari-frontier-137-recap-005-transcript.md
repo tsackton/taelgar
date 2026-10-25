@@ -113,7 +113,7 @@ Wellby: There's something to that.
 Seeker: ... right, reverse entropy state from its living state.
 
 %% u3164 %%
-Kenzo: Tim, once I pull the piece of ooze off, is the piece of ooze I have now kind of [[inoperculous]]?
+Kenzo: Tim, once I pull the piece of ooze off, is the piece of ooze I have now kind of {{inoperculous}}?
 
 %% u3165 %%
 DM: In your hand? No.

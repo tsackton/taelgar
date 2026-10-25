@@ -69,7 +69,7 @@
 [u0069 | 00:06:35.870-00:06:38.410 | Riswynn] it all lines up with this.
 [u0070 | 00:06:41.070-00:06:43.229 | Seeker] powerful magic for them to have created, though
 [u0071 | 00:06:44.260-00:06:45.700 | Seeker] silence the gods!
-[u0072 | 00:06:50.150-00:06:53.470 | Seeker] Oh, there was something about research from Ulfgar and [[go here]].
+[u0072 | 00:06:50.150-00:06:53.470 | Seeker] Oh, there was something about research from Ulfgar and {{go here}}.
 [u0073 | 00:06:53.490-00:06:55.559 | Seeker] Is there a short summary of that?
 [u0074 | 00:06:57.270-00:06:59.029 | Wellby] it's all in the session. There, it's
 [u0075 | 00:06:59.430-00:07:06.580 | Seeker] wait a minute. Oh, there were links that you got in. You have to follow the links. Oh man, so much time.
@@ -143,7 +143,7 @@
 [u0143 | 00:12:31.400-00:12:37.440 | Riswynn] And so, yeah, but I didn't think they could unchain anybody. I thought, that's why they were. They grew slowly
 [u0144 | 00:12:41.290-00:12:43.040 | Wellby] him. Did we have clarity on that
 [u0145 | 00:12:43.270-00:12:45.219 | DM] now. I mean.
-[u0146 | 00:12:45.300-00:12:51.620 | DM] Her story is in the session notes. [[But it's not. She was not. And she remembered]]
+[u0146 | 00:12:45.300-00:12:51.620 | DM] Her story is in the session notes. {{But it's not. She was not. And she remembered}}
 [u0147 | 00:12:52.020-00:12:53.119 | Delwath] right. Okay.
 [u0148 | 00:12:53.330-00:13:06.440 | Delwath] so she was. She was young young. Who was she they were referring to? So, General Murook, the- there's 2 sort of the chief's 2 right-hand people, General Murook.
 [u0149 | 00:13:06.570-00:13:08.000 | Delwath] And
@@ -152,11 +152,11 @@
 [u0152 | 00:13:15.500-00:13:21.260 | Delwath] and her story implies that she was young. But it's unclear.
 [u0153 | 00:13:22.930-00:13:25.090 | Delwath] It's unclear exactly.
 [u0154 | 00:13:25.590-00:13:30.530 | Delwath] There's not a lot of clarity as to what- how important youth is to being unchained.
-[u0155 | 00:13:31.590-00:13:37.160 | Delwath] Delwath got the impression youth was important, and that you [[could]] just wander through
+[u0155 | 00:13:31.590-00:13:37.160 | Delwath] Delwath got the impression youth was important, and that you {{could}} just wander through
 [u0156 | 00:13:37.960-00:13:42.170 | Delwath] a horde of orcs with the cloak and have them all just be freed.
 [u0157 | 00:13:42.560-00:13:43.410 | Seeker] Boom!
 [u0158 | 00:13:45.070-00:13:55.229 | Riswynn] Riswynn got the impression that it was just sort of the state of that person's sort of internal unrest with their God to begin with, or something that some of them would be
-[u0159 | 00:13:56.370-00:13:59.489 | Riswynn] [[paperwork to the unchaining of someone]]
+[u0159 | 00:13:56.370-00:13:59.489 | Riswynn] {{paperwork to the unchaining of someone}}
 [u0160 | 00:14:00.310-00:14:10.949 | Wellby] of something unrelated. But I don't want to end this thread.
 [u0161 | 00:14:11.380-00:14:12.680 | Unknown] So I
 [u0162 | 00:14:14.070-00:14:16.199 | Delwath] at least this is not they. They're
@@ -193,7 +193,7 @@
 [u0193 | 00:16:36.670-00:16:46.520 | Delwath] cancelled the magic of the cloak for a brief time, so that I could check for invisible scrying sensors. But our magic did not work
 [u0194 | 00:16:46.970-00:16:51.999 | Delwath] near the cloak. My magic and Riswynn's magic did not work. We could not sense the gods at all.
 [u0195 | 00:16:55.230-00:16:58.849 | Riswynn] Right, so we wouldn't be particularly effective guards.
-[u0196 | 00:16:58.950-00:17:02.669 | Seeker] [[That was an I]] no, not really, or Kenzo.
+[u0196 | 00:16:58.950-00:17:02.669 | Seeker] {{That was an I}} no, not really, or Kenzo.
 [u0197 | 00:17:02.800-00:17:11.850 | Riswynn] although he did make a lot of noise about how his hands are magic. Seeker and Kenzo would do somewhat better. I could not even draw my sword.
 [u0198 | 00:17:12.430-00:17:13.869 | Unknown] You
 [u0199 | 00:17:14.240-00:17:18.440 | Wellby] of of the people who are coming, Kadmos and party,
@@ -207,7 +207,7 @@
 [u0207 | 00:17:48.900-00:17:50.300 | Delwath] there's not much
 [u0208 | 00:17:51.780-00:17:52.990 | Delwath] hope, and
 [u0209 | 00:17:53.590-00:17:59.430 | Delwath] stealing away the cloak or Lubash and the cloak.
-[u0210 | 00:18:01.150-00:18:10.420 | Delwath] Right, [[it it west]]. Perhaps all was fallen, and it's a last attempt at keeping it from [[garage the great]].
+[u0210 | 00:18:01.150-00:18:10.420 | Delwath] Right, {{it it west}}. Perhaps all was fallen, and it's a last attempt at keeping it from {{garage the great}}.
 [u0211 | 00:18:15.120-00:18:17.370 | Riswynn] So he also sort of was like
 [u0212 | 00:18:17.770-00:18:23.800 | Riswynn] don't exactly know what good the 5 of you are going to be. 4 of you, plus the guy on the ship
 [u0213 | 00:18:23.810-00:18:25.980 | Riswynn] because he hadn't met you yet, Seeker, so.
@@ -351,7 +351,7 @@
 [u0351 | 00:30:24.520-00:30:28.670 | Seeker] might be beyond our own powers. If that's what you're interested in.
 [u0352 | 00:30:30.630-00:30:34.100 | DM] Murook says, this would indeed be a
 [u0353 | 00:30:35.640-00:30:37.810 | DM] great tactical boon.
-[u0354 | 00:30:38.730-00:30:42.069 | DM] [[No truth]]. We could control such things
+[u0354 | 00:30:38.730-00:30:42.069 | DM] {{No truth}}. We could control such things
 [u0355 | 00:30:44.460-00:30:45.690 | Seeker] we have.
 [u0356 | 00:30:46.660-00:30:49.939 | Riswynn] We have thought of ways to make it tactically beneficial
 [u0357 | 00:30:51.480-00:30:52.560 | Riswynn] in
@@ -441,7 +441,7 @@
 [u0441 | 00:38:05.510-00:38:09.180 | Seeker] some intuitions I've had for for a while, but it is a
 [u0442 | 00:38:09.270-00:38:16.150 | Kenzo] a more precise articulation of the concept. And what evidence do you have from your
 [u0443 | 00:38:16.760-00:38:21.779 | Kenzo] I have. I have no magic myself, and
-[u0444 | 00:38:21.950-00:38:35.489 | Kenzo] I've never been able to test any of these hypotheses. I am sadly reduced to being [[in this matter]], and my duties keep me
+[u0444 | 00:38:21.950-00:38:35.489 | Kenzo] I've never been able to test any of these hypotheses. I am sadly reduced to being {{in this matter}}, and my duties keep me
 [u0445 | 00:38:36.110-00:38:40.690 | DM] far more.
 [u0446 | 00:38:40.810-00:38:42.200 | DM] And
 [u0447 | 00:38:47.230-00:38:58.650 | Kenzo] is that
@@ -501,7 +501,7 @@
 [u0501 | 00:43:29.810-00:43:31.380 | Seeker] Indeed, and yet
 [u0502 | 00:43:34.690-00:43:35.940 | DM] crude.
 [u0503 | 00:43:37.380-00:43:41.120 | DM] little in the way of armaments or defenses. How would you
-[u0504 | 00:43:44.370-00:43:50.100 | DM] [[know little]] about what it can do, or how you imagine such a thing might be an aid in battle.
+[u0504 | 00:43:44.370-00:43:50.100 | DM] {{know little}} about what it can do, or how you imagine such a thing might be an aid in battle.
 [u0505 | 00:43:51.440-00:43:58.289 | Seeker] as I mentioned, we have inherited this ship. Its its creators and previous owners were
 [u0506 | 00:43:59.000-00:44:00.410 | Seeker] giants.
 [u0507 | 00:44:00.910-00:44:04.029 | Seeker] and it was destroyed. It was
@@ -606,7 +606,7 @@
 [u0606 | 00:52:48.070-00:52:49.379 | DM] And then what?
 [u0607 | 00:52:51.700-00:52:57.519 | Seeker] What? So this this cloak? I haven't been down
 [u0608 | 00:52:57.560-00:53:03.260 | Seeker] just to see it in person. But this, this cloak has an area of effect.
-[u0609 | 00:53:05.170-00:53:06.889 | Seeker] [[disgrace it]]
+[u0609 | 00:53:05.170-00:53:06.889 | Seeker] {{disgrace it}}
 [u0610 | 00:53:07.030-00:53:09.600 | DM] for Lubash to speak of, and not me.
 [u0611 | 00:53:09.980-00:53:15.390 | Seeker] Do- do we think that Grash might be affected by the presence of the cloak in a way that would harm him?
 [u0612 | 00:53:18.180-00:53:20.779 | Seeker] Is he receiving power from some god as well?
@@ -622,10 +622,10 @@
 [u0622 | 00:54:06.850-00:54:11.960 | Seeker] I see the that is the transition point. It's where it's where you
 [u0623 | 00:54:12.190-00:54:19.549 | DM] cross over into the land of the gods, but it is not itself divine, so Grash's power may not be affected by the cloak. Yeah.
 [u0624 | 00:54:19.990-00:54:20.969 | Riswynn] probably not
-[u0625 | 00:54:21.710-00:54:24.070 | Riswynn] just to to [[definite]] the cloak
+[u0625 | 00:54:21.710-00:54:24.070 | Riswynn] just to to {{definite}} the cloak
 [u0626 | 00:54:24.820-00:54:34.279 | Delwath] to answer the question. What we saw was Orcs we had defeated in battle rise up again 6 h later as zombies
 [u0627 | 00:54:34.820-00:54:35.750 | Seeker] right.
-[u0628 | 00:54:36.360-00:54:40.149 | DM] [[How kind of time! Out]] slightly at that
+[u0628 | 00:54:36.360-00:54:40.149 | DM] {{How kind of time! Out}} slightly at that
 [u0629 | 00:54:40.240-00:54:45.309 | Delwath] that can be done we do not know, but your own troops will rise against you
 [u0630 | 00:54:46.380-00:54:50.200 | Delwath] every Orc who falls in battle will fight against you
 [u0631 | 00:54:51.150-00:54:55.389 | Delwath] a second time, whether it's Grash's or unchained.
@@ -724,7 +724,7 @@
 [u0724 | 01:04:26.340-01:04:37.289 | Wellby] and we get something, and somehow create or glamour it to make it look, you know, cloakish, cloakish enough that they have to come to us first rather than there.
 [u0725 | 01:04:37.810-01:04:47.099 | Wellby] you know, even if up close they could identify it, see that it's not it, that by scrying they just- make hundreds of identical-looking cloaks that all the orcs wear.
 [u0726 | 01:04:47.720-01:04:52.650 | Kenzo] I mean, that is a fascinating idea. Do do we have the ability to either
-[u0727 | 01:04:52.760-01:04:56.299 | Kenzo] teleport the cloak to the boat or clone the [[dick]].
+[u0727 | 01:04:52.760-01:04:56.299 | Kenzo] teleport the cloak to the boat or clone the {{dick}}.
 [u0728 | 01:04:56.710-01:05:00.010 | Kenzo] We just need to show them by a scrying where
 [u0729 | 01:05:00.290-01:05:01.460 | Kenzo] cloak is.
 [u0730 | 01:05:02.410-01:05:04.819 | Kenzo] and then get them to show up at.
@@ -778,7 +778,7 @@
 [u0778 | 01:09:57.420-01:10:01.920 | Riswynn] you know, to be concerned about their well-being enough to possibly run away.
 [u0779 | 01:10:02.630-01:10:05.399 | Delwath] Can you? Can you destroy them, or just make them flee?
 [u0780 | 01:10:05.700-01:10:09.400 | Wellby] Well, and as long as you're not in the radius of influence of the cloak.
-[u0781 | 01:10:09.730-01:10:23.340 | Riswynn] Yes, I yes, I need to be outside of the influence of the [[Brady]]. Like I, I need to be- ideally we need to like just sort of kill all the Chardonians early on, so that I can just focus on being with my gods and charging into battle and
+[u0781 | 01:10:09.730-01:10:23.340 | Riswynn] Yes, I yes, I need to be outside of the influence of the {{Brady}}. Like I, I need to be- ideally we need to like just sort of kill all the Chardonians early on, so that I can just focus on being with my gods and charging into battle and
 [u0782 | 01:10:23.630-01:10:26.000 | Riswynn] undead-ing a bunch of orcs.
 [u0783 | 01:10:27.070-01:10:28.020 | Riswynn] But
 [u0784 | 01:10:29.190-01:10:33.290 | Delwath] it. The thing I like about the trap is, if it doesn't work, we still
@@ -949,7 +949,7 @@
 [u0949 | 01:26:27.190-01:26:37.719 | DM] you! You pass through the city. You're being led by guards, as you're sort of distracted talking.
 [u0950 | 01:26:37.840-01:26:43.410 | DM] you enter in the the there's outside the the palaces all these, you know.
 [u0951 | 01:26:44.490-01:26:45.330 | DM] up
-[u0952 | 01:26:45.510-01:27:01.549 | DM] brightly colored designs, everything. There's this plaza in front, which is like the big, open central part of the city that you walk through. There's a big statue of [[gash]] in the middle that's painted in bright colors.
+[u0952 | 01:26:45.510-01:27:01.549 | DM] brightly colored designs, everything. There's this plaza in front, which is like the big, open central part of the city that you walk through. There's a big statue of {{gash}} in the middle that's painted in bright colors.
 [u0953 | 01:27:01.930-01:27:21.719 | DM] the first, the ground floor of the palaces like gardens and stuff, and you pass through this sort of beautiful area, and are taken up one floor from past the sort of sideroom you were kept in for hours yesterday or this morning, to the same hall that you met the
 [u0954 | 01:27:21.790-01:27:25.359 | DM] chief in before, but now it's set with a
 [u0955 | 01:27:25.590-01:27:28.790 | DM] relatively small table for dinner.
@@ -1263,7 +1263,7 @@
 [u1263 | 01:56:58.110-01:56:59.410 | Delwath] wasn't
 [u1264 | 01:56:59.670-01:57:05.209 | Seeker] The character I played. His whole thing was like he was trying to free the queen of something like that's his new quest right?
 [u1265 | 01:57:05.590-01:57:08.480 | Delwath] He offended her somehow, long ago, right?
-[u1266 | 01:57:09.130-01:57:14.520 | DM] [[And now he was that he disappeared]], and he couldn't remember what he did, but he couldn't
+[u1266 | 01:57:09.130-01:57:14.520 | DM] {{And now he was that he disappeared}}, and he couldn't remember what he did, but he couldn't
 [u1267 | 01:57:14.830-01:57:18.430 | DM] beg forgiveness until she reappeared reappeared.
 [u1268 | 01:57:19.190-01:57:22.749 | Seeker] Agata was also connected to her somehow
 [u1269 | 01:57:26.060-01:57:31.320 | Seeker] and Seeker also possesses, strangely, a single thread
@@ -1282,12 +1282,12 @@
 [u1282 | 01:58:22.390-01:58:27.699 | DM] obvious to like the there's. It's like it's like sort of
 [u1283 | 01:58:28.280-01:58:36.479 | DM] it's almost as if there's some like UV light, or something coming off the cloak that is lighting up this thread
 [u1284 | 01:58:38.040-01:58:49.040 | Seeker] Seeker starts to experiment a little bit with it, stretching it, twisting it, listening. Such a beautiful- this Queen of Sunset!
-[u1285 | 01:58:50.930-01:58:52.510 | Seeker] [[But she was when they restored]]
+[u1285 | 01:58:50.930-01:58:52.510 | Seeker] {{But she was when they restored}}
 [u1286 | 01:58:55.370-01:58:58.779 | DM] indeed, for Lubash, speaking now
 [u1287 | 01:59:00.020-01:59:00.980 | DM] are.
 [u1288 | 01:59:09.620-01:59:20.050 | DM] it has been painfully slow to free our people. Only these threads- and he pulls the cloak around him.
 [u1289 | 01:59:22.320-01:59:31.740 | DM] and the memories of our time in the desert when- and wandering in the wilderness when this cloak was lost has,
-[u1290 | 01:59:36.010-01:59:36.920 | DM] [[wow]]!
+[u1290 | 01:59:36.010-01:59:36.920 | DM] {{wow}}!
 [u1291 | 01:59:39.170-01:59:40.979 | DM] I am reluctant to
 [u1292 | 01:59:43.160-01:59:46.320 | DM] use something such as this as bait.
 [u1293 | 01:59:59.700-02:00:05.109 | DM] I am certainly now reluctant to send you away after everything you spoke of.
@@ -1573,7 +1573,7 @@
 [u1573 | 02:26:19.690-02:26:25.059 | Wellby] You can set well. No, you can't. What would happen to me?
 [u1574 | 02:26:27.240-02:26:34.700 | DM] I guess it'll just be waiting. You'll get your lynx when you leave the the dinner room. The lynx cannot enter within a 100-foot radius of
 [u1575 | 02:26:36.280-02:26:41.019 | Seeker] do I know? I mean more, because I was going to suggest it as a way of sending a message.
-[u1576 | 02:26:41.040-02:26:49.850 | DM] If, based on the timing of it going, I would be expecting it back- [[2 miles a day]]- you'd be expecting it back tonight. Yes.
+[u1576 | 02:26:41.040-02:26:49.850 | DM] If, based on the timing of it going, I would be expecting it back- {{2 miles a day}}- you'd be expecting it back tonight. Yes.
 [u1577 | 02:26:49.960-02:26:54.670 | Delwath] so I mean we could, so I could send a message. I'll offer to
 [u1578 | 02:26:55.820-02:26:59.379 | Delwath] Murook. She can write a letter,
 [u1579 | 02:27:00.050-02:27:03.460 | Delwath] and I can go a hundred miles in 2 h
@@ -1649,7 +1649,7 @@
 [u1649 | 02:33:35.520-02:33:37.110 | Kenzo] probably, or just
 [u1650 | 02:33:37.160-02:33:38.460 | Delwath] fast movement
 [u1651 | 02:33:38.610-02:33:39.820 | Kenzo] or a fast movement, yeah.
-[u1652 | 02:33:40.220-02:33:43.389 | Wellby] [[the core of grappling]], like grappling and restraining.
+[u1652 | 02:33:40.220-02:33:43.389 | Wellby] {{the core of grappling}}, like grappling and restraining.
 [u1653 | 02:33:47.010-02:33:54.029 | DM] So we can cover like. So one 160 by 250 is exactly 40,000 feet.
 [u1654 | 02:33:55.310-02:33:57.089 | DM] So that's the entire map
 [u1655 | 02:33:57.340-02:33:58.340 | Delwath] perfect.
@@ -1720,7 +1720,7 @@
 [u1720 | 02:40:46.610-02:40:49.489 | Riswynn] That was the problem last time, wasn't it? Yes.
 [u1721 | 02:40:50.020-02:40:53.300 | DM] but I wouldn't expect them to be
 [u1722 | 02:40:53.450-02:41:00.870 | DM] unaware of the possibility given that you try. You use the exact same. I mean, the whole theory is they're not going to know that we're here
-[u1723 | 02:41:01.120-02:41:13.149 | Seeker] right? [[It's dead right? It means]] Eudomes' mirror to overwhelm them with that information. We should just put- we should just put a plain old mirror like in,
+[u1723 | 02:41:01.120-02:41:13.149 | Seeker] right? {{It's dead right? It means}} Eudomes' mirror to overwhelm them with that information. We should just put- we should just put a plain old mirror like in,
 [u1724 | 02:41:13.160-02:41:32.279 | Seeker] lots of mirrors, just everywhere, so that they move slowly and cautiously, just being like thinking. Every mirror is like going to be problematic. They'll be. I love that. That's actually a bad idea. It's not how many mirrors in these, or have, do we have a trend? It looks like there's a lot more guards than there are, because they'll see the guards.
 [u1725 | 02:41:32.650-02:41:34.719 | Kenzo] It's classic Enter the Dragon, guys.
 [u1726 | 02:41:34.780-02:41:41.059 | Riswynn] I love it. It's gonna be like, wait, your spellcasters are afraid of mirrors.
@@ -1741,10 +1741,10 @@
 [u1741 | 02:42:51.050-02:43:04.160 | Kenzo] Your news brings little clarity to my troubled thoughts, for it seems the time is coming soon when I must take up the ancient role of our order and declare before all who the gods wish to rule over Dunmar. Oh, fuck! And yet I cannot see what course of action Laka would have me choose.
 [u1742 | 02:43:05.470-02:43:06.300 | Kenzo] but it
 [u1743 | 02:43:07.090-02:43:17.379 | Kenzo] How the gods must wail and gnash at the frailties of us feeble humans that must, I must trust, discern their will and be their divine hand on earth. Never have I felt more unworthy of the power entrusted to me by Laka.
-[u1744 | 02:43:17.750-02:43:36.099 | Kenzo] My dream- my dreams remain filled with the corpses of my people, with rotting bodies of the Dunmari across the plains in numbers [[of where]] I wrote about in my last letter. And yet now I wonder that I missed the message of the gods in my haste and fear, for when I force myself to look, to see the nightmare, to stare in the darkness, I see the corpses on the field of battle shake and sway and begin to rise. Oh, no!
+[u1744 | 02:43:17.750-02:43:36.099 | Kenzo] My dream- my dreams remain filled with the corpses of my people, with rotting bodies of the Dunmari across the plains in numbers {{of where}} I wrote about in my last letter. And yet now I wonder that I missed the message of the gods in my haste and fear, for when I force myself to look, to see the nightmare, to stare in the darkness, I see the corpses on the field of battle shake and sway and begin to rise. Oh, no!
 [u1745 | 02:43:36.510-02:43:40.209 | Kenzo] Perhaps my dreams have been a warning of this creature to the east all along.
-[u1746 | 02:43:40.670-02:44:08.610 | Kenzo] and if that is the fear the gods would warn me of, were I to throw the legitimacy of Laka behind Sura, as the fire of Aagir so obviously burns in her, despite my misgivings that the fires of Aagir do not make one a just ruler. And yet when I [[brown]] Karnas, I hear nothing. Silence! No god will speak for him. Shall I- I will not burden you more with my troubles, for you must face dangers of your own. Before I close and deliver my words to this foreign [[gods]] that carry them to you, [[we. She]] has a message for you, Kenzo. In these uncertain times, when all paths seem fraught, trust in yourself.
-[u1747 | 02:44:08.610-02:44:19.779 | Kenzo] You've grown into great power, no longer [[listening]] boy we took in half a decade ago! And I could not be more proud of you. May the wisdom of Laka guide your paths. Yours in fellowship, Speaker Lara.
+[u1746 | 02:43:40.670-02:44:08.610 | Kenzo] and if that is the fear the gods would warn me of, were I to throw the legitimacy of Laka behind Sura, as the fire of Aagir so obviously burns in her, despite my misgivings that the fires of Aagir do not make one a just ruler. And yet when I {{brown}} Karnas, I hear nothing. Silence! No god will speak for him. Shall I- I will not burden you more with my troubles, for you must face dangers of your own. Before I close and deliver my words to this foreign {{gods}} that carry them to you, {{we. She}} has a message for you, Kenzo. In these uncertain times, when all paths seem fraught, trust in yourself.
+[u1747 | 02:44:08.610-02:44:19.779 | Kenzo] You've grown into great power, no longer {{listening}} boy we took in half a decade ago! And I could not be more proud of you. May the wisdom of Laka guide your paths. Yours in fellowship, Speaker Lara.
 [u1748 | 02:44:21.350-02:44:22.660 | Kenzo] Well, that's terrifying.
 [u1749 | 02:44:23.070-02:44:23.790 | Seeker] Who?
 [u1750 | 02:44:36.590-02:44:38.979 | DM] The lynx then vanishes into your shield?
@@ -1888,7 +1888,7 @@
 [u1888 | 02:57:07.790-02:57:08.510 | DM] there
 [u1889 | 02:57:10.140-02:57:15.780 | DM] came to the markets and traded, and we let them in the gate, but not in the palace.
 [u1890 | 02:57:17.780-02:57:20.510 | DM] spent money freely right
-[u1891 | 02:57:21.630-02:57:24.630 | DM] [[that mayor vices]] and
+[u1891 | 02:57:21.630-02:57:24.630 | DM] {{that mayor vices}} and
 [u1892 | 02:57:24.640-02:57:29.389 | DM] sold many things that we have little of,
 [u1893 | 02:57:30.160-02:57:32.079 | DM] made themselves popular.
 [u1894 | 02:57:32.210-02:57:36.650 | Seeker] So familiar faces, places.
@@ -2208,7 +2208,7 @@
 [u2208 | 03:27:10.110-03:27:14.509 | DM] It was in my father's mother's time
 [u2209 | 03:27:15.530-03:27:16.640 | DM] as chief
 [u2210 | 03:27:20.440-03:27:24.169 | DM] she was.
-[u2211 | 03:27:26.530-03:27:29.050 | DM] So that- you're okay, [[Miss Tesla]].
+[u2211 | 03:27:26.530-03:27:29.050 | DM] So that- you're okay, {{Miss Tesla}}.
 [u2212 | 03:27:30.070-03:27:31.110 | DM] You're safe.
 [u2213 | 03:27:34.040-03:27:35.650 | DM] says she was
 [u2214 | 03:27:38.170-03:27:40.250 | DM] captured, kidnapped
@@ -2418,7 +2418,7 @@
 [u2418 | 03:46:26.450-03:46:30.780 | Delwath] I don't think we can afford to have rounds wasted getting it out of places.
 [u2419 | 03:46:31.070-03:46:35.939 | Kenzo] Well, we but we could get some of their motherfuckers to go, you know, like, go and move it.
 [u2420 | 03:46:38.890-03:46:52.290 | Kenzo] just to move it out of out of out of the place so we can have a whole fight there and not worry about where it is. And that's- that's when- they can take it and fucking run with Lubash and it and be there at all. Yeah, why don't we just put it somewhere totally else?
-[u2421 | 03:46:52.300-03:46:57.969 | Seeker] [[If it disappears today, it's your friendship from censoring view]]. Like, if,
+[u2421 | 03:46:52.300-03:46:57.969 | Seeker] {{If it disappears today, it's your friendship from censoring view}}. Like, if,
 [u2422 | 03:46:58.310-03:47:10.459 | Riswynn] if they can't do locate object whenever they get in range of the entire yeah region, because it's just not locate objectable. They'll just have to come up with a new plan. Yeah, like
 [u2423 | 03:47:10.490-03:47:16.170 | Riswynn] then they'll just be going in blind, and it'll be fine so that it needs to be there as a fake.
 [u2424 | 03:47:16.900-03:47:18.829 | Riswynn] I don't think it needs to be bait.

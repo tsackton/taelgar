@@ -1,0 +1,3364 @@
+{
+  "schemaVersion": 1,
+  "session": 77,
+  "preparedSha256": "f48fb390eb0a3161e42f567fe464d08b2f2786f7761f133fdabeac7e9d9e5067",
+  "transcriptSha256": "a53bda40c0812b5709e7248dba8b7053d7889a15b3c273dda670cd567fed2b7b",
+  "status": "awaiting_morning_review",
+  "humanAcceptance": false,
+  "quotationPolicy": "preparedSourceQuotation and preparedContext* are exact prepared-file lines. cleanedWording and cleanedUncertainSpans are cleaned transcript text, not verbatim prepared source. Unmarked incidental spans are whole prepared units for review, counted as one candidate span per unit; they can contain clearer surrounding words. Routine false starts and short clean continuations are not treated as unresolved merely because they are fragments.",
+  "counts": {
+    "units": 2566,
+    "changedUnits": 849,
+    "materialLines": 15,
+    "materialSpans": 18,
+    "incidentalLines": 124,
+    "incidentalSpans": 124,
+    "markedIncidentalLines": 12,
+    "unmarkedIncidentalLines": 112,
+    "totalMarkedLines": 27,
+    "totalMarkedSpans": 30
+  },
+  "material": [
+    {
+      "uid": "u0072",
+      "header": "[u0072 | 00:06:50.150-00:06:53.470 | Seeker]",
+      "importance": "material",
+      "reason": "Second researcher name is uncertain; Ulfgar was resolved separately.",
+      "marked": true,
+      "preparedSourceQuotation": "[u0072 | 00:06:50.150-00:06:53.470 | Seeker] Oh, there was something about research from Ufcar and go here.",
+      "preparedContextBefore": [
+        "[u0070 | 00:06:41.070-00:06:43.229 | Seeker] powerful magic for them to have created, though",
+        "[u0071 | 00:06:44.260-00:06:45.700 | Seeker] silence the gods!"
+      ],
+      "preparedContextAfter": [
+        "[u0073 | 00:06:53.490-00:06:55.559 | Seeker] Is there a shorten summary of that",
+        "[u0074 | 00:06:57.270-00:06:59.029 | Wellby] it's all in the session. There, it's"
+      ],
+      "cleanedWording": "[u0072 | 00:06:50.150-00:06:53.470 | Seeker] Oh, there was something about research from Ulfgar and [[go here]].",
+      "cleanedUncertainSpans": [
+        "go here"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Ulfgar spelling supported by current dwarf-mentor discussion and Mirror of Soul Trapping research reference; second research name remains unresolved.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0146",
+      "header": "[u0146 | 00:12:45.300-00:12:51.620 | DM]",
+      "importance": "material",
+      "reason": "Fragmented clarification about Murook’s youth and memory could change interpretation of her history.",
+      "marked": true,
+      "preparedSourceQuotation": "[u0146 | 00:12:45.300-00:12:51.620 | DM] first story is in the session notes. But it's not. She was not. And she remembered",
+      "preparedContextBefore": [
+        "[u0144 | 00:12:41.290-00:12:43.040 | Wellby] him. Did we have clarity on that",
+        "[u0145 | 00:12:43.270-00:12:45.219 | DM] now. I mean."
+      ],
+      "preparedContextAfter": [
+        "[u0147 | 00:12:52.020-00:12:53.119 | Delwath] right. Okay.",
+        "[u0148 | 00:12:53.330-00:13:06.440 | Delwath] so she was. She was young young. Who was she? They were referring to you. So, General Marook, the there's 2 sort of the chiefs to right-hand people, General Marook."
+      ],
+      "cleanedWording": "[u0146 | 00:12:45.300-00:12:51.620 | DM] Her story is in the session notes. [[But it's not. She was not. And she remembered]]",
+      "cleanedUncertainSpans": [
+        "But it's not. She was not. And she remembered"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Her story resolved locally from Murook's history; fragmented clarification about her youth remains materially uncertain.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0155",
+      "header": "[u0155 | 00:13:31.590-00:13:37.160 | Delwath]",
+      "importance": "material",
+      "reason": "Could versus could not changes the claimed limits of unchaining; source polarity was not silently reversed.",
+      "marked": true,
+      "preparedSourceQuotation": "[u0155 | 00:13:31.590-00:13:37.160 | Delwath] Della got the impression youth was important. and that you could just wander through",
+      "preparedContextBefore": [
+        "[u0153 | 00:13:22.930-00:13:25.090 | Delwath] It's unclear exactly.",
+        "[u0154 | 00:13:25.590-00:13:30.530 | Delwath] There's not a lot of clarity as to what how important youth is to being unchanged."
+      ],
+      "preparedContextAfter": [
+        "[u0156 | 00:13:37.960-00:13:42.170 | Delwath] a word of Orcs with the cloak and have them all just be freed.",
+        "[u0157 | 00:13:42.560-00:13:43.410 | Seeker] Boom!"
+      ],
+      "cleanedWording": "[u0155 | 00:13:31.590-00:13:37.160 | Delwath] Delwath got the impression youth was important, and that you [[could]] just wander through",
+      "cleanedUncertainSpans": [
+        "could"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Polarity uncertain: prepared says could; context suggests couldn't but the negative was not assumed. Marker preserves source word for review.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0159",
+      "header": "[u0159 | 00:13:56.370-00:13:59.489 | Riswynn]",
+      "importance": "material",
+      "reason": "Garbled description of who is susceptible to unchaining.",
+      "marked": true,
+      "preparedSourceQuotation": "[u0159 | 00:13:56.370-00:13:59.489 | Riswynn] paperwork to the unchaining of someone",
+      "preparedContextBefore": [
+        "[u0157 | 00:13:42.560-00:13:43.410 | Seeker] Boom!",
+        "[u0158 | 00:13:45.070-00:13:55.229 | Riswynn] Irisman got the impression that it was just sort of the state of that person's sort of internal unrest with their God to begin with, or something that some of them would be"
+      ],
+      "preparedContextAfter": [
+        "[u0160 | 00:14:00.310-00:14:10.949 | Wellby] of something unrelated. But I don't want to. Then this thread.",
+        "[u0161 | 00:14:11.380-00:14:12.680 | Unknown] So I"
+      ],
+      "cleanedWording": "[u0159 | 00:13:56.370-00:13:59.489 | Riswynn] [[paperwork to the unchaining of someone]]",
+      "cleanedUncertainSpans": [
+        "paperwork to the unchaining of someone"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0196",
+      "header": "[u0196 | 00:16:58.950-00:17:02.669 | Seeker]",
+      "importance": "material",
+      "reason": "Unclear beginning of response about whose magic is impaired by the cloak.",
+      "marked": true,
+      "preparedSourceQuotation": "[u0196 | 00:16:58.950-00:17:02.669 | Seeker] That was an I no, not really, or ken. So.",
+      "preparedContextBefore": [
+        "[u0194 | 00:16:46.970-00:16:51.999 | Delwath] near the cloak. My magic and Risen's magic did not work. We could not sense the gods at all.",
+        "[u0195 | 00:16:55.230-00:16:58.849 | Riswynn] Right, so we wouldn't be particularly effective guards."
+      ],
+      "preparedContextAfter": [
+        "[u0197 | 00:17:02.800-00:17:11.850 | Riswynn] although he did make a lot of noise about how his hands are met. Very skating cancer would do somewhat better I could not even draw my sword.",
+        "[u0198 | 00:17:12.430-00:17:13.869 | Unknown] You"
+      ],
+      "cleanedWording": "[u0196 | 00:16:58.950-00:17:02.669 | Seeker] [[That was an I]] no, not really, or Kenzo.",
+      "cleanedUncertainSpans": [
+        "That was an I"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Opening words of response unclear; do not manufacture a speaker name.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0210",
+      "header": "[u0210 | 00:18:01.150-00:18:10.420 | Delwath]",
+      "importance": "material",
+      "reason": "Last-resort condition and reference to adversary are garbled.",
+      "marked": true,
+      "preparedSourceQuotation": "[u0210 | 00:18:01.150-00:18:10.420 | Delwath] Right it it west. Perhaps all was fallen, and it's a last attempt at keeping it from garage the great.",
+      "preparedContextBefore": [
+        "[u0208 | 00:17:51.780-00:17:52.990 | Delwath] hope, and",
+        "[u0209 | 00:17:53.590-00:17:59.430 | Delwath] stealing away the cloak or lubash and the cloak."
+      ],
+      "preparedContextAfter": [
+        "[u0211 | 00:18:15.120-00:18:17.370 | Riswynn] So he also sort of was like",
+        "[u0212 | 00:18:17.770-00:18:23.800 | Riswynn] doing exactly know what good the 5 of you are going to be. 4 of you, plus the guy on the ship"
+      ],
+      "cleanedWording": "[u0210 | 00:18:01.150-00:18:10.420 | Delwath] Right, [[it it west]]. Perhaps all was fallen, and it's a last attempt at keeping it from [[garage the great]].",
+      "cleanedUncertainSpans": [
+        "it it west",
+        "garage the great"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 2,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0727",
+      "header": "[u0727 | 01:04:52.760-01:04:56.299 | Kenzo]",
+      "importance": "material",
+      "reason": "Cloning alternative has an unclear object or ending.",
+      "marked": true,
+      "preparedSourceQuotation": "[u0727 | 01:04:52.760-01:04:56.299 | Kenzo] teleport the close to the boat for Clone, the dick.",
+      "preparedContextBefore": [
+        "[u0725 | 01:04:37.810-01:04:47.099 | Wellby] you know, even if up post they could identify it. See that it's not it that by scrying they just make hundreds of identical looking clubs that all the Orcs wear.",
+        "[u0726 | 01:04:47.720-01:04:52.650 | Kenzo] I mean, that is a fascinating idea. Do do we have the ability to either"
+      ],
+      "preparedContextAfter": [
+        "[u0728 | 01:04:56.710-01:05:00.010 | Kenzo] We just need to show them by a scrying where",
+        "[u0729 | 01:05:00.290-01:05:01.460 | Kenzo] Pope is."
+      ],
+      "cleanedWording": "[u0727 | 01:04:52.760-01:04:56.299 | Kenzo] teleport the cloak to the boat or clone the [[dick]].",
+      "cleanedUncertainSpans": [
+        "dick"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Object cloning clause garbled; exact proposed manipulation remains uncertain.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0952",
+      "header": "[u0952 | 01:26:45.510-01:27:01.549 | DM]",
+      "importance": "material",
+      "reason": "Identity of the plaza statue is unclear.",
+      "marked": true,
+      "preparedSourceQuotation": "[u0952 | 01:26:45.510-01:27:01.549 | DM] brightly colored designs, everything. There's this plaza in front, which is like the big, open central part of the city that you walk through. There's a big statute. It was gash in the middle that's painted in bright colors.",
+      "preparedContextBefore": [
+        "[u0950 | 01:26:37.840-01:26:43.410 | DM] you enter in the the there's outside the the palaces all these, you know.",
+        "[u0951 | 01:26:44.490-01:26:45.330 | DM] up"
+      ],
+      "preparedContextAfter": [
+        "[u0953 | 01:27:01.930-01:27:21.719 | DM] the first, the ground floor of the palaces like gardens and stuff, and you pass through this sort of beautiful area, and are taken up one floor from past the sort of sideroom you were kept in for hours yesterday or this morning, to the same hall that you met the",
+        "[u0954 | 01:27:21.790-01:27:25.359 | DM] chief in before, but now it's sat with a"
+      ],
+      "cleanedWording": "[u0952 | 01:26:45.510-01:27:01.549 | DM] brightly colored designs, everything. There's this plaza in front, which is like the big, open central part of the city that you walk through. There's a big statue of [[gash]] in the middle that's painted in bright colors.",
+      "cleanedUncertainSpans": [
+        "gash"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Identity of plaza statue unclear.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1266",
+      "header": "[u1266 | 01:57:09.130-01:57:14.520 | DM]",
+      "importance": "material",
+      "reason": "Pronouns in recollection of earlier fey adventure are garbled.",
+      "marked": true,
+      "preparedSourceQuotation": "[u1266 | 01:57:09.130-01:57:14.520 | DM] And now he was that he disappeared, and he couldn't remember what he did, but he couldn't",
+      "preparedContextBefore": [
+        "[u1264 | 01:56:59.670-01:57:05.209 | Seeker] The character I played. His whole thing was like he was trying to free the queen of something like that's his new quest right?",
+        "[u1265 | 01:57:05.590-01:57:08.480 | Delwath] He offended her somehow, long ago, right?"
+      ],
+      "preparedContextAfter": [
+        "[u1267 | 01:57:14.830-01:57:18.430 | DM] beg forgiveness until she reappeared reappeared.",
+        "[u1268 | 01:57:19.190-01:57:22.749 | Seeker] A Gato was also connected to her somehow"
+      ],
+      "cleanedWording": "[u1266 | 01:57:09.130-01:57:14.520 | DM] [[And now he was that he disappeared]], and he couldn't remember what he did, but he couldn't",
+      "cleanedUncertainSpans": [
+        "And now he was that he disappeared"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Pronouns in earlier fey-adventure recollection are garbled; do not assign disappearance to a character by inference.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1576",
+      "header": "[u1576 | 02:26:41.040-02:26:49.850 | DM]",
+      "importance": "material",
+      "reason": "Messenger speed is implausible in context; no replacement rate is assumed.",
+      "marked": true,
+      "preparedSourceQuotation": "[u1576 | 02:26:41.040-02:26:49.850 | DM] Your, if it based on the timing of it going, I would be expecting it back to Miles a day you'd be expecting it back tonight. Yes.",
+      "preparedContextBefore": [
+        "[u1574 | 02:26:27.240-02:26:34.700 | DM] I guess I'll just be waiting. You'll get your links when you leave the the dinner room, the links cannot enter with it. 100 foot radius of",
+        "[u1575 | 02:26:36.280-02:26:41.019 | Seeker] do I know? I mean more, because I was going to suggest it as a way of sending a message."
+      ],
+      "preparedContextAfter": [
+        "[u1577 | 02:26:49.960-02:26:54.670 | Delwath] so I mean we could, so I could send a message. I'll offer to",
+        "[u1578 | 02:26:55.820-02:26:59.379 | Delwath] Marie Marook. She can write a letter."
+      ],
+      "cleanedWording": "[u1576 | 02:26:41.040-02:26:49.850 | DM] If, based on the timing of it going, I would be expecting it back- [[2 miles a day]]- you'd be expecting it back tonight. Yes.",
+      "cleanedUncertainSpans": [
+        "2 miles a day"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Rate stated as 2 miles a day conflicts with fast-return/message context; do not silently substitute a speed or infer number. Arrival expectation tonight remains explicit.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1652",
+      "header": "[u1652 | 02:33:40.220-02:33:43.389 | Wellby]",
+      "importance": "material",
+      "reason": "Potential tool or ability in grappling proposal is unclear.",
+      "marked": true,
+      "preparedSourceQuotation": "[u1652 | 02:33:40.220-02:33:43.389 | Wellby] the core of grappling like grappling and restraining.",
+      "preparedContextBefore": [
+        "[u1650 | 02:33:37.160-02:33:38.460 | Delwath] fast movement",
+        "[u1651 | 02:33:38.610-02:33:39.820 | Kenzo] or a fast movie there"
+      ],
+      "preparedContextAfter": [
+        "[u1653 | 02:33:47.010-02:33:54.029 | DM] So we can cover like. So one 160 by 250 is exactly 40,000 feet.",
+        "[u1654 | 02:33:55.310-02:33:57.089 | DM] So that's the entire map"
+      ],
+      "cleanedWording": "[u1652 | 02:33:40.220-02:33:43.389 | Wellby] [[the core of grappling]], like grappling and restraining.",
+      "cleanedUncertainSpans": [
+        "the core of grappling"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Potential named tool/ability in grappling proposal; uncertain whether core/cord or a disfluent general suggestion, so not invented.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1723",
+      "header": "[u1723 | 02:41:01.120-02:41:13.149 | Seeker]",
+      "importance": "material",
+      "reason": "Alternative mirror proposal has unclear opening/mechanism; Eudomes’ name alone was resolved.",
+      "marked": true,
+      "preparedSourceQuotation": "[u1723 | 02:41:01.120-02:41:13.149 | Seeker] right? It's dead right? It means you don't miss his mirror to overwhelm them with that information we should just put. We should just put a plain old mirror like in",
+      "preparedContextBefore": [
+        "[u1721 | 02:40:50.020-02:40:53.300 | DM] but I wouldn't expect them to be",
+        "[u1722 | 02:40:53.450-02:41:00.870 | DM] unaware of the possibility given that you try. You use the exact same. I mean, the whole theory is they're not going to know that we're here"
+      ],
+      "preparedContextAfter": [
+        "[u1724 | 02:41:13.160-02:41:32.279 | Seeker] lots of mirrors, just everywhere, so that they move slowly and cautiously, just being like thinking. Every mirror is like going to be problematic. They'll be. I love that. That's actually a bad idea. It's not how many mirrors in these, or have, do we have a trend? It looks like there's a lot more guards than there are, because they'll see the guards.",
+        "[u1725 | 02:41:32.650-02:41:34.719 | Kenzo] It's classic, and for the dragon guys"
+      ],
+      "cleanedWording": "[u1723 | 02:41:01.120-02:41:13.149 | Seeker] right? [[It's dead right? It means]] Eudomes' mirror to overwhelm them with that information. We should just put- we should just put a plain old mirror like in,",
+      "cleanedUncertainSpans": [
+        "It's dead right? It means"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Eudomes' name resolved from reference mirror note; opening phrase/mechanism remains uncertain. Corrected name is cleaned wording, not verbatim prepared source.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1746",
+      "header": "[u1746 | 02:43:40.670-02:44:08.610 | Kenzo]",
+      "importance": "material",
+      "reason": "Letter includes unclear consultation verb, foreign entity and message attribution.",
+      "marked": true,
+      "preparedSourceQuotation": "[u1746 | 02:43:40.670-02:44:08.610 | Kenzo] and if that is the fear of the gods would war me up where I throw the legitimacy to lock up behind Sura as the fire of a gear so obviously burns of her. Despite my misgivings that the fires of Iguer, do not make one adjust ruler, and yet when I, brown Carnos, I hear nothing. Silence! No, God will speak for him. Shall I? I will not burden you more by troubles, for you must face dangers of your own before I close and deliver my words to this foreign gods that carry them to you we. She has a message for you, Kenzo. In these uncertain times, when all passing fraught trust in yourself.",
+      "preparedContextBefore": [
+        "[u1744 | 02:43:17.750-02:43:36.099 | Kenzo] My dream! My dreams remain filled with the corpses of my people, with rotting bodies of the Denmark across the plains, and numbers of where I wrote about in my last letter. And yeah, now I wonder that I missed the message of the gods of my haste and fear, for when I forced myself to look, to see the nightmare, to stare in the darkness. I see the corpses on the field of battle shaken sway and beginning to rise. Oh, no!",
+        "[u1745 | 02:43:36.510-02:43:40.209 | Kenzo] Perhaps my dreams have been awarding this creature to the east all along."
+      ],
+      "preparedContextAfter": [
+        "[u1747 | 02:44:08.610-02:44:19.779 | Kenzo] You've grown into great power, not no longer listening, boy we took in half a decade of go! And I could not be more proud of you. May the wisdom of lock a guide, your paths. Yours and fellowship speaker Laura.",
+        "[u1748 | 02:44:21.350-02:44:22.660 | Kenzo] Well, that's terrified."
+      ],
+      "cleanedWording": "[u1746 | 02:43:40.670-02:44:08.610 | Kenzo] and if that is the fear the gods would warn me of, were I to throw the legitimacy of Laka behind Sura, as the fire of Aagir so obviously burns in her, despite my misgivings that the fires of Aagir do not make one a just ruler. And yet when I [[brown]] Karnas, I hear nothing. Silence! No god will speak for him. Shall I- I will not burden you more with my troubles, for you must face dangers of your own. Before I close and deliver my words to this foreign [[gods]] that carry them to you, [[we. She]] has a message for you, Kenzo. In these uncertain times, when all paths seem fraught, trust in yourself.",
+      "cleanedUncertainSpans": [
+        "brown",
+        "gods",
+        "we. She"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 3,
+      "note": "Several uncertain words in letter, including how Karnas is consulted and whose message follows; do not fill from a different earlier letter.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2211",
+      "header": "[u2211 | 03:27:26.530-03:27:29.050 | DM]",
+      "importance": "material",
+      "reason": "Possible rescued orc’s name/address or reassurance is unclear.",
+      "marked": true,
+      "preparedSourceQuotation": "[u2211 | 03:27:26.530-03:27:29.050 | DM] So that you're okay, Miss Tesla.",
+      "preparedContextBefore": [
+        "[u2209 | 03:27:15.530-03:27:16.640 | DM] as chief",
+        "[u2210 | 03:27:20.440-03:27:24.169 | DM] she was."
+      ],
+      "preparedContextAfter": [
+        "[u2212 | 03:27:30.070-03:27:31.110 | DM] You're safe.",
+        "[u2213 | 03:27:34.040-03:27:35.650 | DM] says she was"
+      ],
+      "cleanedWording": "[u2211 | 03:27:26.530-03:27:29.050 | DM] So that- you're okay, [[Miss Tesla]].",
+      "cleanedUncertainSpans": [
+        "Miss Tesla"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Possible rescued orc name; uncertain whether address/name or garbled reassurance. Material identity question.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2421",
+      "header": "[u2421 | 03:46:52.300-03:46:57.969 | Seeker]",
+      "importance": "material",
+      "reason": "Proposed consequence of disappearing from scrying view is garbled.",
+      "marked": true,
+      "preparedSourceQuotation": "[u2421 | 03:46:52.300-03:46:57.969 | Seeker] If it disappears today, it's your friendship from censoring view. Like, if",
+      "preparedContextBefore": [
+        "[u2419 | 03:46:31.070-03:46:35.939 | Kenzo] Well, we but we could get some of their motherfuckers to go, you know, like, go and move it.",
+        "[u2420 | 03:46:38.890-03:46:52.290 | Kenzo] just to move it out of out of, out of the state of place, so we can have a whole fight there and not worry about it where it is, and that's what that's when, if they can take it and fucking run with Lubos and it and be there at all. Yeah, why don't we just put it somewhere totally else?"
+      ],
+      "preparedContextAfter": [
+        "[u2422 | 03:46:58.310-03:47:10.459 | Riswynn] if they can't do locate object whenever they get in range of the entire yeah region, because it's just not locate objectable. They'll just have to come up with a new plan. Yeah, like",
+        "[u2423 | 03:47:10.490-03:47:16.170 | Riswynn] then they'll just be going in blind, and it'll be fine so that it needs to be there as a fake."
+      ],
+      "cleanedWording": "[u2421 | 03:46:52.300-03:46:57.969 | Seeker] [[If it disappears today, it's your friendship from censoring view]]. Like, if,",
+      "cleanedUncertainSpans": [
+        "If it disappears today, it's your friendship from censoring view"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Possibly a consequence of disappearing from scrying view; substantive clause garbled.",
+      "humanAcceptance": false
+    }
+  ],
+  "incidental": [
+    {
+      "uid": "u0008",
+      "header": "[u0008 | 00:00:38.990-00:00:43.539 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0008 | 00:00:38.990-00:00:43.539 | DM] where am I not so? Way too many things, and",
+      "preparedContextBefore": [
+        "[u0006 | 00:00:30.680-00:00:33.390 | DM] as you've returned to the airship",
+        "[u0007 | 00:00:35.260-00:00:37.729 | DM] below you, that"
+      ],
+      "preparedContextAfter": [
+        "[u0009 | 00:00:46.050-00:00:51.700 | DM] Below you the city of Uzukar stretches I",
+        "[u0010 | 00:00:52.230-00:01:02.109 | DM] sitting in the desert. surrounded on 2 sides by the irrigated planes and cattle pastures that"
+      ],
+      "cleanedWording": "[u0008 | 00:00:38.990-00:00:43.539 | DM] where am I not so? Way too many things, and",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "where am I not so? Way too many things, and"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0033",
+      "header": "[u0033 | 00:03:07.300-00:03:13.799 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0033 | 00:03:07.300-00:03:13.799 | Seeker] things either are differently. The wedding. The request to move his command center was from us or from them.",
+      "preparedContextBefore": [
+        "[u0031 | 00:02:56.750-00:03:01.880 | DM] and, in fact, even asked whether he would consider moving his command center to.",
+        "[u0032 | 00:03:03.110-00:03:06.930 | DM] So you don't have to have said yes, of course, but fact"
+      ],
+      "preparedContextAfter": [
+        "[u0034 | 00:03:14.710-00:03:17.080 | Seeker] You suggested that. Okay.",
+        "[u0035 | 00:03:18.750-00:03:27.650 | Delwath] where they these, this is the to invite the the 2 advisors, the advisor people. Yeah, they can come. See the sky ship right? It's fine."
+      ],
+      "cleanedWording": "[u0033 | 00:03:07.300-00:03:13.799 | Seeker] things either are differently. The wedding. The request to move his command center was from us or from them.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "things either are differently. The wedding. The request to move his command center was from us or from them."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0035",
+      "header": "[u0035 | 00:03:18.750-00:03:27.650 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0035 | 00:03:18.750-00:03:27.650 | Delwath] where they these, this is the to invite the the 2 advisors, the advisor people. Yeah, they can come. See the sky ship right? It's fine.",
+      "preparedContextBefore": [
+        "[u0033 | 00:03:07.300-00:03:13.799 | Seeker] things either are differently. The wedding. The request to move his command center was from us or from them.",
+        "[u0034 | 00:03:14.710-00:03:17.080 | Seeker] You suggested that. Okay."
+      ],
+      "preparedContextAfter": [
+        "[u0036 | 00:03:29.700-00:03:48.109 | DM] so they will be here in half an hour or so. and in the meantime you have a few moments in which you update seeker on what happened while he was keeping an eye on the ship.",
+        "[u0037 | 00:03:48.350-00:03:58.510 | DM] and to the extent to which you want to discuss your course of action. Now is your brief opportunity."
+      ],
+      "cleanedWording": "[u0035 | 00:03:18.750-00:03:27.650 | Delwath] where they these, this is the to invite the the 2 advisors, the advisor people. Yeah, they can come. See the sky ship right? It's fine.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "where they these, this is the to invite the the 2 advisors, the advisor people. Yeah, they can come. See the sky ship right? It's fine."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0100",
+      "header": "[u0100 | 00:09:30.570-00:09:32.320 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0100 | 00:09:30.570-00:09:32.320 | Delwath] he said, There.",
+      "preparedContextBefore": [
+        "[u0098 | 00:09:15.120-00:09:16.449 | Riswynn] back in their history.",
+        "[u0099 | 00:09:19.320-00:09:23.790 | Riswynn] It is all very interesting, and it would be cool to look at it, and you don't miss his mirror. But"
+      ],
+      "preparedContextAfter": [
+        "[u0101 | 00:09:33.220-00:09:35.839 | Riswynn] secret! Did you catch the part about how they can't",
+        "[u0102 | 00:09:36.340-00:09:42.870 | Riswynn] maintain this space without it, like the chief, has been pacing this particular territory for"
+      ],
+      "cleanedWording": "[u0100 | 00:09:30.570-00:09:32.320 | Delwath] he said, There.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "he said, There."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0144",
+      "header": "[u0144 | 00:12:41.290-00:12:43.040 | Wellby]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0144 | 00:12:41.290-00:12:43.040 | Wellby] him. Did we have clarity on that",
+      "preparedContextBefore": [
+        "[u0142 | 00:12:26.760-00:12:30.279 | Riswynn] But you can't keep tortured as infants for their God.",
+        "[u0143 | 00:12:31.400-00:12:37.440 | Riswynn] And so, yeah, but I didn't think they could unchain anybody. I thought, that's why they were. They grew slowly"
+      ],
+      "preparedContextAfter": [
+        "[u0145 | 00:12:43.270-00:12:45.219 | DM] now. I mean.",
+        "[u0146 | 00:12:45.300-00:12:51.620 | DM] first story is in the session notes. But it's not. She was not. And she remembered"
+      ],
+      "cleanedWording": "[u0144 | 00:12:41.290-00:12:43.040 | Wellby] him. Did we have clarity on that",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "him. Did we have clarity on that"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0162",
+      "header": "[u0162 | 00:14:14.070-00:14:16.199 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0162 | 00:14:14.070-00:14:16.199 | Delwath] at least this is not they. They're",
+      "preparedContextBefore": [
+        "[u0160 | 00:14:00.310-00:14:10.949 | Wellby] of something unrelated. But I don't want to. Then this thread.",
+        "[u0161 | 00:14:11.380-00:14:12.680 | Unknown] So I"
+      ],
+      "preparedContextAfter": [
+        "[u0163 | 00:14:16.440-00:14:25.290 | Delwath] the general, the chief. W. What's his name. Lubash. Lubash does not wish to flee, can't really flee.",
+        "[u0164 | 00:14:25.510-00:14:29.680 | Delwath] because it would end his civilization and can't"
+      ],
+      "cleanedWording": "[u0162 | 00:14:14.070-00:14:16.199 | Delwath] at least this is not they. They're",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "at least this is not they. They're"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0179",
+      "header": "[u0179 | 00:15:34.160-00:15:38.389 | Riswynn]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0179 | 00:15:34.160-00:15:38.389 | Riswynn] some to some degree or not, things from",
+      "preparedContextBefore": [
+        "[u0177 | 00:15:24.270-00:15:26.599 | Seeker] Do the other Orcs want to be unchained.",
+        "[u0178 | 00:15:29.430-00:15:33.370 | Wellby] That's why I thought there was this whole like"
+      ],
+      "preparedContextAfter": [
+        "[u0180 | 00:15:38.730-00:15:41.810 | Wellby] no secret. They're happy and content to slaves.",
+        "[u0181 | 00:15:43.900-00:15:48.250 | Seeker] I would only seek to ask"
+      ],
+      "cleanedWording": "[u0179 | 00:15:34.160-00:15:38.389 | Riswynn] some to some degree or not, things from",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "some to some degree or not, things from"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0192",
+      "header": "[u0192 | 00:16:35.250-00:16:36.500 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0192 | 00:16:35.250-00:16:36.500 | Delwath] He peeped.",
+      "preparedContextBefore": [
+        "[u0190 | 00:16:27.600-00:16:31.499 | Delwath] there was something unsettling to her",
+        "[u0191 | 00:16:31.700-00:16:34.360 | Delwath] about that experience."
+      ],
+      "preparedContextAfter": [
+        "[u0193 | 00:16:36.670-00:16:46.520 | Delwath] cancelled the magic of the cloak for a brief time, so that I could check for invisible scrying sensors. But our magic did not work",
+        "[u0194 | 00:16:46.970-00:16:51.999 | Delwath] near the cloak. My magic and Risen's magic did not work. We could not sense the gods at all."
+      ],
+      "cleanedWording": "[u0192 | 00:16:35.250-00:16:36.500 | Delwath] He peeped.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "He peeped."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0259",
+      "header": "[u0259 | 00:22:08.710-00:22:15.410 | DM]",
+      "importance": "incidental",
+      "reason": "Lead-in before rope ladder action unclear; likely incidental.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0259 | 00:22:08.710-00:22:15.410 | DM] Asked Scrambles. She quickly clamps up the red ladder",
+      "preparedContextBefore": [
+        "[u0257 | 00:22:00.640-00:22:01.350 | Seeker] yeah.",
+        "[u0258 | 00:22:01.670-00:22:08.450 | DM] cheap She kind of look set as the guard walking with his cane."
+      ],
+      "preparedContextAfter": [
+        "[u0260 | 00:22:16.410-00:22:19.650 | DM] and greets you all",
+        "[u0261 | 00:22:21.810-00:22:23.690 | DM] acknowledging"
+      ],
+      "cleanedWording": "[u0259 | 00:22:08.710-00:22:15.410 | DM] Asked Scrambles. She quickly climbs up the rope ladder",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Asked Scrambles. She quickly clamps up the red ladder"
+      ],
+      "spanCount": 1,
+      "note": "Lead-in before rope ladder action unclear; likely incidental.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0281",
+      "header": "[u0281 | 00:23:59.790-00:24:04.539 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0281 | 00:23:59.790-00:24:04.539 | Delwath] are you guys struggling to come up with a a solution here? And we don't want to win the ship.",
+      "preparedContextBefore": [
+        "[u0279 | 00:23:54.450-00:23:55.360 | Seeker] I mean.",
+        "[u0280 | 00:23:55.510-00:23:59.330 | Delwath] do we really you to spend a lot of? I mean, I could just go down. And"
+      ],
+      "preparedContextAfter": [
+        "[u0282 | 00:24:05.040-00:24:10.569 | Riswynn] We're struggling to come up with a way to not have any spell slots missing in the",
+        "[u0283 | 00:24:10.590-00:24:19.839 | Delwath] impending disastrous battle that I yeah gotta imagine it happened. And I'll be dad to help you in a moment. Dell, with Will just step off the side of the ship."
+      ],
+      "cleanedWording": "[u0281 | 00:23:59.790-00:24:04.539 | Delwath] are you guys struggling to come up with a a solution here? And we don't want to win the ship.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "are you guys struggling to come up with a a solution here? And we don't want to win the ship."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0288",
+      "header": "[u0288 | 00:24:40.130-00:24:42.779 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0288 | 00:24:40.130-00:24:42.779 | DM] I'll say 5 min on the ladder.",
+      "preparedContextBefore": [
+        "[u0286 | 00:24:29.090-00:24:33.000 | Delwath] we're gonna have. We're about to eat dinner right? Yeah. yeah. Fine.",
+        "[u0287 | 00:24:33.320-00:24:38.100 | Delwath] So I'll cast a fly down, touch him! Cast! Fly! Fly back up."
+      ],
+      "preparedContextAfter": [
+        "[u0289 | 00:24:44.220-00:24:46.839 | Delwath] Yes, so he is. Why not show up?",
+        "[u0290 | 00:24:47.560-00:24:51.930 | DM] Right? Amazing? That is a"
+      ],
+      "cleanedWording": "[u0288 | 00:24:40.130-00:24:42.779 | DM] I'll say 5 min on the ladder.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "I'll say 5 min on the ladder."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0289",
+      "header": "[u0289 | 00:24:44.220-00:24:46.839 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0289 | 00:24:44.220-00:24:46.839 | Delwath] Yes, so he is. Why not show up?",
+      "preparedContextBefore": [
+        "[u0287 | 00:24:33.320-00:24:38.100 | Delwath] So I'll cast a fly down, touch him! Cast! Fly! Fly back up.",
+        "[u0288 | 00:24:40.130-00:24:42.779 | DM] I'll say 5 min on the ladder."
+      ],
+      "preparedContextAfter": [
+        "[u0290 | 00:24:47.560-00:24:51.930 | DM] Right? Amazing? That is a",
+        "[u0291 | 00:24:53.270-00:24:55.830 | DM] quite the trick you have there."
+      ],
+      "cleanedWording": "[u0289 | 00:24:44.220-00:24:46.839 | Delwath] Yes, so he is. Why not show up?",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Yes, so he is. Why not show up?"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0293",
+      "header": "[u0293 | 00:25:03.130-00:25:07.470 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0293 | 00:25:03.130-00:25:07.470 | DM] kind of looks around in his any! And he looks. And this.",
+      "preparedContextBefore": [
+        "[u0291 | 00:24:53.270-00:24:55.830 | DM] quite the trick you have there.",
+        "[u0292 | 00:24:57.470-00:25:02.640 | DM] Fascinating as as he lands, and"
+      ],
+      "preparedContextAfter": [
+        "[u0294 | 00:25:08.720-00:25:12.590 | DM] how exactly does this ship stay in the air?",
+        "[u0295 | 00:25:13.290-00:25:16.659 | DM] I am surprised to see"
+      ],
+      "cleanedWording": "[u0293 | 00:25:03.130-00:25:07.470 | DM] kind of looks around in his any! And he looks. And this.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "kind of looks around in his any! And he looks. And this."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0301",
+      "header": "[u0301 | 00:25:45.710-00:25:48.820 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0301 | 00:25:45.710-00:25:48.820 | DM] fascinating, and I fascinating up.",
+      "preparedContextBefore": [
+        "[u0299 | 00:25:37.630-00:25:39.440 | Seeker] that through",
+        "[u0300 | 00:25:39.610-00:25:42.150 | Seeker] careful training we can control."
+      ],
+      "preparedContextAfter": [
+        "[u0302 | 00:25:49.180-00:25:50.860 | DM] and that lets the ship",
+        "[u0303 | 00:25:52.070-00:25:53.000 | DM] float."
+      ],
+      "cleanedWording": "[u0301 | 00:25:45.710-00:25:48.820 | DM] fascinating, and I fascinating up.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "fascinating, and I fascinating up."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0354",
+      "header": "[u0354 | 00:30:38.730-00:30:42.069 | DM]",
+      "importance": "incidental",
+      "reason": "Aborted qualifier in ship-control discussion; capability question is explicit elsewhere.",
+      "marked": true,
+      "preparedSourceQuotation": "[u0354 | 00:30:38.730-00:30:42.069 | DM] No truth. We could control such things",
+      "preparedContextBefore": [
+        "[u0352 | 00:30:30.630-00:30:34.100 | DM] Maru says, this would indeed be a",
+        "[u0353 | 00:30:35.640-00:30:37.810 | DM] great tactical boon."
+      ],
+      "preparedContextAfter": [
+        "[u0355 | 00:30:44.460-00:30:45.690 | Seeker] we have.",
+        "[u0356 | 00:30:46.660-00:30:49.939 | Riswynn] We have thought of ways to make it tactically beneficial"
+      ],
+      "cleanedWording": "[u0354 | 00:30:38.730-00:30:42.069 | DM] [[No truth]]. We could control such things",
+      "cleanedUncertainSpans": [
+        "No truth"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0386",
+      "header": "[u0386 | 00:32:45.290-00:32:49.150 | Seeker]",
+      "importance": "incidental",
+      "reason": "Restored unclear action-description wording verbatim after reliable possessive prefix; incidental, unmarked.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0386 | 00:32:45.290-00:32:49.150 | Seeker] possessive. That sort of steps around is one of the phasing down.",
+      "preparedContextBefore": [
+        "[u0384 | 00:32:41.200-00:32:43.010 | Seeker] Seekers started to look a little.",
+        "[u0385 | 00:32:43.600-00:32:45.090 | Seeker] A little"
+      ],
+      "preparedContextAfter": [
+        "[u0387 | 00:32:49.430-00:32:52.409 | Kenzo] Oh, yeah.",
+        "[u0388 | 00:32:52.860-00:33:00.000 | Seeker] the the magical stone at the at the heart of the operation here."
+      ],
+      "cleanedWording": "[u0386 | 00:32:45.290-00:32:49.150 | Seeker] possessive. That sort of steps around is one of the phasing down.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "possessive. That sort of steps around is one of the phasing down."
+      ],
+      "spanCount": 1,
+      "note": "Restored unclear action-description wording verbatim after reliable possessive prefix; incidental, unmarked.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0390",
+      "header": "[u0390 | 00:33:02.910-00:33:06.149 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0390 | 00:33:02.910-00:33:06.149 | Seeker] You'll be interesting to us to find out where we're doing",
+      "preparedContextBefore": [
+        "[u0388 | 00:32:52.860-00:33:00.000 | Seeker] the the magical stone at the at the heart of the operation here.",
+        "[u0389 | 00:33:00.680-00:33:01.980 | Seeker] Scarce resource."
+      ],
+      "preparedContextAfter": [
+        "[u0391 | 00:33:07.020-00:33:11.540 | Kenzo] fascinating, fascinating, and and what is that magical stone called",
+        "[u0392 | 00:33:11.740-00:33:12.470 | Unknown] for?"
+      ],
+      "cleanedWording": "[u0390 | 00:33:02.910-00:33:06.149 | Seeker] You'll be interesting to us to find out where we're doing",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "You'll be interesting to us to find out where we're doing"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0393",
+      "header": "[u0393 | 00:33:12.840-00:33:22.119 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0393 | 00:33:12.840-00:33:22.119 | Seeker] William? Well, it's Tim.",
+      "preparedContextBefore": [
+        "[u0391 | 00:33:07.020-00:33:11.540 | Kenzo] fascinating, fascinating, and and what is that magical stone called",
+        "[u0392 | 00:33:11.740-00:33:12.470 | Unknown] for?"
+      ],
+      "preparedContextAfter": [
+        "[u0394 | 00:33:22.360-00:33:27.559 | Kenzo] it is a it's known as a",
+        "[u0395 | 00:33:29.060-00:33:29.750 | Unknown] like the."
+      ],
+      "cleanedWording": "[u0393 | 00:33:12.840-00:33:22.119 | Seeker] William? Well, it's Tim.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "William? Well, it's Tim."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0409",
+      "header": "[u0409 | 00:34:33.520-00:34:34.860 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0409 | 00:34:33.520-00:34:34.860 | Seeker] wait. Sorry I wouldn't.",
+      "preparedContextBefore": [
+        "[u0407 | 00:34:22.550-00:34:24.210 | Unknown] but it",
+        "[u0408 | 00:34:27.500-00:34:30.469 | Kenzo] about the"
+      ],
+      "preparedContextAfter": [
+        "[u0410 | 00:34:34.870-00:34:43.999 | Delwath] Where did we hear the tail about? The rainbow cloak coming from the Fay wild?",
+        "[u0411 | 00:34:44.100-00:34:52.220 | Seeker] Oh, This is from my My mentor dwarfan's caller"
+      ],
+      "cleanedWording": "[u0409 | 00:34:33.520-00:34:34.860 | Seeker] wait. Sorry I wouldn't.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "wait. Sorry I wouldn't."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0424",
+      "header": "[u0424 | 00:35:55.800-00:35:57.700 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0424 | 00:35:55.800-00:35:57.700 | Kenzo] no, break it down.",
+      "preparedContextBefore": [
+        "[u0422 | 00:35:50.100-00:35:53.279 | Seeker] But Actually, this idea of the",
+        "[u0423 | 00:35:54.120-00:35:55.790 | Seeker] the phase."
+      ],
+      "preparedContextAfter": [
+        "[u0425 | 00:35:59.230-00:36:07.750 | Seeker] and that is an intriguing notion. I had wondered myself what the name that we'd heard of the stone might refer to. With respect to phasing.",
+        "[u0426 | 00:36:08.460-00:36:14.379 | Kenzo] Perhaps there is a connection there to me."
+      ],
+      "cleanedWording": "[u0424 | 00:35:55.800-00:35:57.700 | Kenzo] no, break it down.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "no, break it down."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0426",
+      "header": "[u0426 | 00:36:08.460-00:36:14.379 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0426 | 00:36:08.460-00:36:14.379 | Kenzo] Perhaps there is a connection there to me.",
+      "preparedContextBefore": [
+        "[u0424 | 00:35:55.800-00:35:57.700 | Kenzo] no, break it down.",
+        "[u0425 | 00:35:59.230-00:36:07.750 | Seeker] and that is an intriguing notion. I had wondered myself what the name that we'd heard of the stone might refer to. With respect to phasing."
+      ],
+      "preparedContextAfter": [
+        "[u0427 | 00:36:17.090-00:36:21.499 | Seeker] We know that many sources of magical power and all connections between planes",
+        "[u0428 | 00:36:22.820-00:36:23.490 | Kenzo] I don't know"
+      ],
+      "cleanedWording": "[u0426 | 00:36:08.460-00:36:14.379 | Kenzo] Perhaps there is a connection there to me.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Perhaps there is a connection there to me."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0444",
+      "header": "[u0444 | 00:38:21.950-00:38:35.489 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Incomplete self-description of scholarly limitations; substantive planar explanation remains clear.",
+      "marked": true,
+      "preparedSourceQuotation": "[u0444 | 00:38:21.950-00:38:35.489 | Kenzo] I've never been able to test any of these hypotheses. I am sadly reduced to being in this matter, and my duty is, keep me",
+      "preparedContextBefore": [
+        "[u0442 | 00:38:09.270-00:38:16.150 | Kenzo] a more precise articulation of the concept. And what evidence do you have from your",
+        "[u0443 | 00:38:16.760-00:38:21.779 | Kenzo] I have. I have no magic myself, and"
+      ],
+      "preparedContextAfter": [
+        "[u0445 | 00:38:36.110-00:38:40.690 | DM] far more.",
+        "[u0446 | 00:38:40.810-00:38:42.200 | DM] And"
+      ],
+      "cleanedWording": "[u0444 | 00:38:21.950-00:38:35.489 | Kenzo] I've never been able to test any of these hypotheses. I am sadly reduced to being [[in this matter]], and my duties keep me",
+      "cleanedUncertainSpans": [
+        "in this matter"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0504",
+      "header": "[u0504 | 00:43:44.370-00:43:50.100 | DM]",
+      "importance": "incidental",
+      "reason": "Fragment of a request to explain ship capabilities, answered explicitly in following exchange.",
+      "marked": true,
+      "preparedSourceQuotation": "[u0504 | 00:43:44.370-00:43:50.100 | DM] know little about what it can do, or how you imagine such a thing might be an aid in battle.",
+      "preparedContextBefore": [
+        "[u0502 | 00:43:34.690-00:43:35.940 | DM] crude",
+        "[u0503 | 00:43:37.380-00:43:41.120 | DM] little in the way of armaments or defenses. How would you"
+      ],
+      "preparedContextAfter": [
+        "[u0505 | 00:43:51.440-00:43:58.289 | Seeker] as I mentioned, we have inherited this ship. it's it's creators and previous owners were",
+        "[u0506 | 00:43:59.000-00:44:00.410 | Seeker] giants."
+      ],
+      "cleanedWording": "[u0504 | 00:43:44.370-00:43:50.100 | DM] [[know little]] about what it can do, or how you imagine such a thing might be an aid in battle.",
+      "cleanedUncertainSpans": [
+        "know little"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0560",
+      "header": "[u0560 | 00:48:38.340-00:48:41.339 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0560 | 00:48:38.340-00:48:41.339 | Seeker] it's not just that we could create enough of that, to matter what.",
+      "preparedContextBefore": [
+        "[u0558 | 00:48:27.740-00:48:30.639 | Seeker] What really deters those creatures",
+        "[u0559 | 00:48:30.690-00:48:37.019 | Seeker] in your experience? If we had higher or ice or water, and"
+      ],
+      "preparedContextAfter": [
+        "[u0561 | 00:48:45.030-00:48:47.129 | Seeker] or some illusion.",
+        "[u0562 | 00:48:52.090-00:48:56.269 | DM] I have little concern for the Orcs. It is the undead, I fear."
+      ],
+      "cleanedWording": "[u0560 | 00:48:38.340-00:48:41.339 | Seeker] it's not just that we could create enough of that, to matter what.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "it's not just that we could create enough of that, to matter what."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0568",
+      "header": "[u0568 | 00:49:19.940-00:49:21.130 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0568 | 00:49:19.940-00:49:21.130 | Seeker] run that there right",
+      "preparedContextBefore": [
+        "[u0566 | 00:49:13.970-00:49:16.509 | Delwath] We haven't really bought much on debt, have we?",
+        "[u0567 | 00:49:16.950-00:49:18.630 | Seeker] Not, since Raven's home."
+      ],
+      "preparedContextAfter": [
+        "[u0569 | 00:49:22.920-00:49:25.980 | DM] he knows or no. Those are demons",
+        "[u0570 | 00:49:26.270-00:49:28.829 | DM] and really have a you guys my name. And then"
+      ],
+      "cleanedWording": "[u0568 | 00:49:19.940-00:49:21.130 | Seeker] run that there right",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "run that there right"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0570",
+      "header": "[u0570 | 00:49:26.270-00:49:28.829 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0570 | 00:49:26.270-00:49:28.829 | DM] and really have a you guys my name. And then",
+      "preparedContextBefore": [
+        "[u0568 | 00:49:19.940-00:49:21.130 | Seeker] run that there right",
+        "[u0569 | 00:49:22.920-00:49:25.980 | DM] he knows or no. Those are demons"
+      ],
+      "preparedContextAfter": [
+        "[u0571 | 00:49:28.890-00:49:38.449 | Seeker] there were a number of skeleton guys that came out of the moon. Oh, the the nulls! They're oh, there were! There were a few hop goblin skeletons",
+        "[u0572 | 00:49:38.860-00:49:43.359 | Seeker] that were sort of re-animated by the demonic energy right"
+      ],
+      "cleanedWording": "[u0570 | 00:49:26.270-00:49:28.829 | DM] and really have a you guys my name. And then",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "and really have a you guys my name. And then"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0609",
+      "header": "[u0609 | 00:53:05.170-00:53:06.889 | Seeker]",
+      "importance": "incidental",
+      "reason": "Brief overlapping fragment between clear cloak-effect questions.",
+      "marked": true,
+      "preparedSourceQuotation": "[u0609 | 00:53:05.170-00:53:06.889 | Seeker] disgrace it",
+      "preparedContextBefore": [
+        "[u0607 | 00:52:51.700-00:52:57.519 | Seeker] What? So this this cloak? I haven't been down",
+        "[u0608 | 00:52:57.560-00:53:03.260 | Seeker] just to see it in person. But this, this cloak has an area of effect."
+      ],
+      "preparedContextAfter": [
+        "[u0610 | 00:53:07.030-00:53:09.600 | DM] for Lubash to speak of, and not me.",
+        "[u0611 | 00:53:09.980-00:53:15.390 | Seeker] Does. Do we think that garage might be affected by the presence of the cloak in a way that would harm him."
+      ],
+      "cleanedWording": "[u0609 | 00:53:05.170-00:53:06.889 | Seeker] [[disgrace it]]",
+      "cleanedUncertainSpans": [
+        "disgrace it"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0625",
+      "header": "[u0625 | 00:54:21.710-00:54:24.070 | Riswynn]",
+      "importance": "incidental",
+      "reason": "Aborted side clarification; cloak discussion is explicit elsewhere.",
+      "marked": true,
+      "preparedSourceQuotation": "[u0625 | 00:54:21.710-00:54:24.070 | Riswynn] just to to definite the cloak",
+      "preparedContextBefore": [
+        "[u0623 | 00:54:12.190-00:54:19.549 | DM] cross over into the land of the gods, but it is not itself to find, so Grush's power may not be affected by the clothes. Yeah.",
+        "[u0624 | 00:54:19.990-00:54:20.969 | Riswynn] probably not"
+      ],
+      "preparedContextAfter": [
+        "[u0626 | 00:54:24.820-00:54:34.279 | Delwath] to answer the question. What we saw was Orcs we had defeated in battle rise up again 6 h later as zombies",
+        "[u0627 | 00:54:34.820-00:54:35.750 | Seeker] right."
+      ],
+      "cleanedWording": "[u0625 | 00:54:21.710-00:54:24.070 | Riswynn] just to to [[definite]] the cloak",
+      "cleanedUncertainSpans": [
+        "definite"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0628",
+      "header": "[u0628 | 00:54:36.360-00:54:40.149 | DM]",
+      "importance": "incidental",
+      "reason": "Garbled reaction to zombies, without a distinct factual claim or decision.",
+      "marked": true,
+      "preparedSourceQuotation": "[u0628 | 00:54:36.360-00:54:40.149 | DM] How kind of time! Out slightly at that",
+      "preparedContextBefore": [
+        "[u0626 | 00:54:24.820-00:54:34.279 | Delwath] to answer the question. What we saw was Orcs we had defeated in battle rise up again 6 h later as zombies",
+        "[u0627 | 00:54:34.820-00:54:35.750 | Seeker] right."
+      ],
+      "preparedContextAfter": [
+        "[u0629 | 00:54:40.240-00:54:45.309 | Delwath] that can be done we do not know, but your own troops will rise against you",
+        "[u0630 | 00:54:46.380-00:54:50.200 | Delwath] every Orc who falls in battle will fight against you"
+      ],
+      "cleanedWording": "[u0628 | 00:54:36.360-00:54:40.149 | DM] [[How kind of time! Out]] slightly at that",
+      "cleanedUncertainSpans": [
+        "How kind of time! Out"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Reaction to revelation of zombies unclear; retains ambiguity of person/action.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0664",
+      "header": "[u0664 | 00:58:21.070-00:58:22.260 | Wellby]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0664 | 00:58:21.070-00:58:22.260 | Wellby] The video.",
+      "preparedContextBefore": [
+        "[u0662 | 00:57:58.870-00:58:14.190 | Riswynn] We kind of didn't want to put all our eggs in one basket. You could have been a rescue force if we had ended up like locked up in the castle or something, but now that some trust has been built, I think all of us can go to dinner.",
+        "[u0663 | 00:58:14.260-00:58:20.649 | Wellby] So so before dinner the you still have an Orc trapped in the mirror."
+      ],
+      "preparedContextAfter": [
+        "[u0665 | 00:58:22.940-00:58:26.320 | Wellby] Is it worth showing them to these guys? I mean",
+        "[u0666 | 00:58:27.330-00:58:30.390 | Wellby] trying to figure out who this person is? If they happen to know"
+      ],
+      "cleanedWording": "[u0664 | 00:58:21.070-00:58:22.260 | Wellby] The video.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "The video."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0707",
+      "header": "[u0707 | 01:02:50.660-01:02:52.599 | Wellby]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0707 | 01:02:50.660-01:02:52.599 | Wellby] he's afraid there was also.",
+      "preparedContextBefore": [
+        "[u0705 | 01:02:35.650-01:02:40.549 | Delwath] it's a seventh level spell. I hope they can't teleport. That means that he's leveled up more than we have.",
+        "[u0706 | 01:02:41.100-01:02:49.760 | Wellby] Yeah, last time they hasted with invisibility. But I mean, we have its helpward scroll. It's not impossible that they do. I I don't think it's a bad thing necessarily, that"
+      ],
+      "preparedContextAfter": [
+        "[u0708 | 01:02:52.720-01:02:58.449 | DM] I mean, remember that exactly what they did the last time they wanted to take something from you.",
+        "[u0709 | 01:02:58.610-01:03:02.760 | Delwath] It was hasted and visible. Yeah."
+      ],
+      "cleanedWording": "[u0707 | 01:02:50.660-01:02:52.599 | Wellby] he's afraid there was also.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "he's afraid there was also."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0734",
+      "header": "[u0734 | 01:05:17.320-01:05:18.369 | Unknown]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0734 | 01:05:17.320-01:05:18.369 | Unknown] that fuck it off.",
+      "preparedContextBefore": [
+        "[u0732 | 01:05:10.600-01:05:12.010 | Kenzo] fuck in perfect.",
+        "[u0733 | 01:05:12.560-01:05:16.689 | Kenzo] So I think, is that true? Yeah, yeah."
+      ],
+      "preparedContextAfter": [
+        "[u0735 | 01:05:18.400-01:05:22.939 | Kenzo] Let's do that and show them where it is.",
+        "[u0736 | 01:05:24.190-01:05:24.850 | Delwath] But"
+      ],
+      "cleanedWording": "[u0734 | 01:05:17.320-01:05:18.369 | Unknown] that fuck it off.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "that fuck it off."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0781",
+      "header": "[u0781 | 01:10:09.730-01:10:23.340 | Riswynn]",
+      "importance": "incidental",
+      "reason": "Unclear radius qualifier; need to remain outside the cloak’s aura is explicit in adjacent line.",
+      "marked": true,
+      "preparedSourceQuotation": "[u0781 | 01:10:09.730-01:10:23.340 | Riswynn] Yes, I yes, I need to be outside of the influence of the Brady. Like I, I need to be ideally. We need to like just sort of kill all the Tredonians early on, so that I can just focus on being with my gods and charging into battle and",
+      "preparedContextBefore": [
+        "[u0779 | 01:10:02.630-01:10:05.399 | Delwath] Can you? Can you destroy them, or just make them flee?",
+        "[u0780 | 01:10:05.700-01:10:09.400 | Wellby] Well, and as long as you're not in the radius of influence of the cloak."
+      ],
+      "preparedContextAfter": [
+        "[u0782 | 01:10:23.630-01:10:26.000 | Riswynn] undetting a bunch of Orcs.",
+        "[u0783 | 01:10:27.070-01:10:28.020 | Riswynn] But"
+      ],
+      "cleanedWording": "[u0781 | 01:10:09.730-01:10:23.340 | Riswynn] Yes, I yes, I need to be outside of the influence of the [[Brady]]. Like I, I need to be- ideally we need to like just sort of kill all the Chardonians early on, so that I can just focus on being with my gods and charging into battle and",
+      "cleanedUncertainSpans": [
+        "Brady"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Cloak influence qualifier unclear; general intended exclusion remains clear.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0830",
+      "header": "[u0830 | 01:14:44.410-01:14:50.539 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0830 | 01:14:44.410-01:14:50.539 | Seeker] Make it look like we've got the cloak, and they can come to us. And we it begins. But we're not somehow.",
+      "preparedContextBefore": [
+        "[u0828 | 01:14:30.730-01:14:38.000 | Riswynn] I was just clarifying my understanding of what its advantages are over, just chasing them down and whooping them.",
+        "[u0829 | 01:14:38.210-01:14:43.510 | Seeker] The the last piece of the trap idea would be to position ourselves in a way that's advantageous."
+      ],
+      "preparedContextAfter": [
+        "[u0831 | 01:14:51.050-01:14:58.430 | Delwath] I mean how we do that we don't have to be far. I mean, we also don't. Wouldn't have to run to Denmark right? We could say.",
+        "[u0832 | 01:14:58.500-01:15:05.800 | Delwath] Well, what would we do we have the cloak? We wouldn't necessarily flee to Dunmore. Maybe we're trying to use it."
+      ],
+      "cleanedWording": "[u0830 | 01:14:44.410-01:14:50.539 | Seeker] Make it look like we've got the cloak, and they can come to us. And we it begins. But we're not somehow.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Make it look like we've got the cloak, and they can come to us. And we it begins. But we're not somehow."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0854",
+      "header": "[u0854 | 01:17:19.670-01:17:20.460 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0854 | 01:17:19.670-01:17:20.460 | Kenzo] got up.",
+      "preparedContextBefore": [
+        "[u0852 | 01:17:06.920-01:17:13.390 | Kenzo] So it's about expectations. It's like we made. They're thinking that it's one thing, and then we're actually all there.",
+        "[u0853 | 01:17:13.810-01:17:19.380 | Kenzo] and we should have some type of overwhelming offensive capability"
+      ],
+      "preparedContextAfter": [
+        "[u0855 | 01:17:21.340-01:17:27.559 | Riswynn] Well, that's the problem is that we are we scrappy? 5 against there like 8.",
+        "[u0856 | 01:17:28.780-01:17:29.880 | Riswynn] Something like that."
+      ],
+      "cleanedWording": "[u0854 | 01:17:19.670-01:17:20.460 | Kenzo] got up.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "got up."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0859",
+      "header": "[u0859 | 01:17:36.340-01:17:46.400 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Tail fragment of capability list unclear; assess incidental after second pass.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0859 | 01:17:36.340-01:17:46.400 | Kenzo] We have to try. Yeah. But let's be creative. Like, we, we have all kinds of abilities like we can. We can create objects. We can create structures, we can, you know, drop shit bits.",
+      "preparedContextBefore": [
+        "[u0857 | 01:17:29.960-01:17:33.559 | Seeker] Do we know that we could defeat them first. No.",
+        "[u0858 | 01:17:33.660-01:17:35.569 | Riswynn] I'm quite nervous about this."
+      ],
+      "preparedContextAfter": [
+        "[u0860 | 01:17:46.420-01:17:50.529 | Kenzo] It's like, maybe they show up. And then, yeah, I mean, they're they're they",
+        "[u0861 | 01:17:52.770-01:17:56.050 | Wellby] if we get them to come to our ship and we goofy trapped our ship."
+      ],
+      "cleanedWording": "[u0859 | 01:17:36.340-01:17:46.400 | Kenzo] We have to try. Yeah. But let's be creative. Like, we, we have all kinds of abilities like we can. We can create objects. We can create structures, we can, you know, drop shit bits.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "We have to try. Yeah. But let's be creative. Like, we, we have all kinds of abilities like we can. We can create objects. We can create structures, we can, you know, drop shit bits."
+      ],
+      "spanCount": 1,
+      "note": "Tail fragment of capability list unclear; assess incidental after second pass.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0865",
+      "header": "[u0865 | 01:18:12.910-01:18:14.260 | Unknown]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0865 | 01:18:12.910-01:18:14.260 | Unknown] what probably you got at?",
+      "preparedContextBefore": [
+        "[u0863 | 01:18:02.320-01:18:08.820 | Riswynn] Yeah, not, I guess. Pre-buildings and movie traps. Anything that doesn't take a spell slot in the moment.",
+        "[u0864 | 01:18:09.580-01:18:12.760 | Kenzo] And what what can we build? What are our capabilities."
+      ],
+      "preparedContextAfter": [
+        "[u0866 | 01:18:17.740-01:18:23.499 | Riswynn] What can we get done in one day before they come, and we have getting.",
+        "[u0867 | 01:18:23.510-01:18:27.010 | Delwath] We have time to plan the trap, too. They're not going to show up"
+      ],
+      "cleanedWording": "[u0865 | 01:18:12.910-01:18:14.260 | Unknown] what probably you got at?",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "what probably you got at?"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0866",
+      "header": "[u0866 | 01:18:17.740-01:18:23.499 | Riswynn]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0866 | 01:18:17.740-01:18:23.499 | Riswynn] What can we get done in one day before they come, and we have getting.",
+      "preparedContextBefore": [
+        "[u0864 | 01:18:09.580-01:18:12.760 | Kenzo] And what what can we build? What are our capabilities.",
+        "[u0865 | 01:18:12.910-01:18:14.260 | Unknown] what probably you got at?"
+      ],
+      "preparedContextAfter": [
+        "[u0867 | 01:18:23.510-01:18:27.010 | Delwath] We have time to plan the trap, too. They're not going to show up",
+        "[u0868 | 01:18:28.370-01:18:31.060 | Delwath] in an hour from now right."
+      ],
+      "cleanedWording": "[u0866 | 01:18:17.740-01:18:23.499 | Riswynn] What can we get done in one day before they come, and we have getting.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "What can we get done in one day before they come, and we have getting."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0934",
+      "header": "[u0934 | 01:24:52.410-01:25:00.970 | Seeker]",
+      "importance": "incidental",
+      "reason": "Incidental excited overlapping chatter; restored original wording instead of marking a non-substantive fragment.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0934 | 01:24:52.410-01:25:00.970 | Seeker] Now you're talking just the way the. and almost like this, or did you? Oh, fucking! Yes, Jesus, right to see the mirror, like all up in those Vidges.",
+      "preparedContextBefore": [
+        "[u0932 | 01:24:42.360-01:24:46.100 | Seeker] Feel sort of bad about that. Maybe we can trap her in the mirror.",
+        "[u0933 | 01:24:48.140-01:24:51.109 | Delwath] That's something we could consider as part of a trap."
+      ],
+      "preparedContextAfter": [
+        "[u0935 | 01:25:01.350-01:25:16.010 | Kenzo] So wait. Let's oh, my God! We set up a room where they think the fucking like we do. What we do. Is that what I got at the dust. Yeah, you know, we get them all to go into a fucking room, and they just isn't going in one after one, and they all just get fucking traffic. Just remember, if they break the mirror.",
+        "[u0936 | 01:25:16.260-01:25:21.040 | Seeker] everything comes out, which is also a great trap, which is also a great trap"
+      ],
+      "cleanedWording": "[u0934 | 01:24:52.410-01:25:00.970 | Seeker] Now you're talking just the way the. and almost like this, or did you? Oh, fucking! Yes, Jesus, right to see the mirror, like all up in those Vidges.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Now you're talking just the way the. and almost like this, or did you? Oh, fucking! Yes, Jesus, right to see the mirror, like all up in those Vidges."
+      ],
+      "spanCount": 1,
+      "note": "Incidental excited overlapping chatter; restored original wording instead of marking a non-substantive fragment.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0938",
+      "header": "[u0938 | 01:25:26.910-01:25:29.410 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Incidental excited overlapping fragment; left verbatim, inventoried separately from material markers.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0938 | 01:25:26.910-01:25:29.410 | Kenzo] look a back in poison for the segment.",
+      "preparedContextBefore": [
+        "[u0936 | 01:25:16.260-01:25:21.040 | Seeker] everything comes out, which is also a great trap, which is also a great trap",
+        "[u0937 | 01:25:21.440-01:25:24.849 | Delwath] at some level chaos"
+      ],
+      "preparedContextAfter": [
+        "[u0939 | 01:25:31.170-01:25:35.509 | Delwath] Some some good, some bad there, right like",
+        "[u0940 | 01:25:36.080-01:25:44.679 | Delwath] I mean, maybe we could somehow get the really powerful hop, Goblin Mage the more outs. But I just don't know how to do that."
+      ],
+      "cleanedWording": "[u0938 | 01:25:26.910-01:25:29.410 | Kenzo] look a back in poison for the segment.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "look a back in poison for the segment."
+      ],
+      "spanCount": 1,
+      "note": "Incidental excited overlapping fragment; left verbatim, inventoried separately from material markers.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0993",
+      "header": "[u0993 | 01:30:59.590-01:31:00.980 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0993 | 01:30:59.590-01:31:00.980 | Seeker] How's the effort? I mean.",
+      "preparedContextBefore": [
+        "[u0991 | 01:30:52.430-01:30:55.530 | Wellby] I love this idea. It could also give us a sense of where they are.",
+        "[u0992 | 01:30:56.650-01:30:58.740 | Delwath] Why not? Right? Okay."
+      ],
+      "preparedContextAfter": [
+        "[u0994 | 01:31:01.220-01:31:04.729 | Delwath] who knows if it'll work? I don't know who I'm normally casting on.",
+        "[u0995 | 01:31:05.800-01:31:08.970 | DM] Who are you screaming on at this point?"
+      ],
+      "cleanedWording": "[u0993 | 01:30:59.590-01:31:00.980 | Seeker] How's the effort? I mean.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "How's the effort? I mean."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u0999",
+      "header": "[u0999 | 01:31:24.140-01:31:34.049 | Delwath]",
+      "importance": "incidental",
+      "reason": "Incidental scry-preparation cross-talk; exact garble preserved and unmarked.",
+      "marked": false,
+      "preparedSourceQuotation": "[u0999 | 01:31:24.140-01:31:34.049 | Delwath] you see. Well, okay. So you gotta take out your language. Yeah, yeah, yeah, no. I'll all right when he says I, when he says, Can you check? I'll say",
+      "preparedContextBefore": [
+        "[u0997 | 01:31:15.960-01:31:22.160 | Riswynn] But then, if he's not with Cadmus, you don't know if Cadmus is scrapping. But we'll find out",
+        "[u0998 | 01:31:22.710-01:31:23.570 | DM] a."
+      ],
+      "preparedContextAfter": [
+        "[u1000 | 01:31:34.270-01:31:37.009 | Delwath] While I cannot.",
+        "[u1001 | 01:31:38.150-01:31:47.090 | Delwath] I cannot see the fencer. But let me let me let me look at them and see if they are casting any spells, and I'll take out my bowl and start to"
+      ],
+      "cleanedWording": "[u0999 | 01:31:24.140-01:31:34.049 | Delwath] you see. Well, okay. So you gotta take out your language. Yeah, yeah, yeah, no. I'll all right when he says I, when he says, Can you check? I'll say",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "you see. Well, okay. So you gotta take out your language. Yeah, yeah, yeah, no. I'll all right when he says I, when he says, Can you check? I'll say"
+      ],
+      "spanCount": 1,
+      "note": "Incidental scry-preparation cross-talk; exact garble preserved and unmarked.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1010",
+      "header": "[u1010 | 01:32:41.110-01:32:50.060 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1010 | 01:32:41.110-01:32:50.060 | DM] the the like wizard-looking person in robes carrying a staff. But I it!",
+      "preparedContextBefore": [
+        "[u1008 | 01:32:23.680-01:32:29.060 | DM] you can see across the campfire in the",
+        "[u1009 | 01:32:29.530-01:32:41.080 | DM] sort of in the flickering light Cadmos and Cassian are engaged in conversation with the older woman who, you saw joined them."
+      ],
+      "preparedContextAfter": [
+        "[u1011 | 01:32:51.170-01:32:55.330 | DM] They're murmuring quietly into their breath. Hector can't hear them.",
+        "[u1012 | 01:32:55.770-01:33:00.699 | DM] And they but they seem to be"
+      ],
+      "cleanedWording": "[u1010 | 01:32:41.110-01:32:50.060 | DM] the the like wizard-looking person in robes carrying a staff. But I it!",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "the the like wizard-looking person in robes carrying a staff. But I it!"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1039",
+      "header": "[u1039 | 01:35:19.260-01:35:25.610 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1039 | 01:35:19.260-01:35:25.610 | Delwath] There's no way we could tell how close they were to the like was no cause. It was dark. It's you're just getting the camp fire.",
+      "preparedContextBefore": [
+        "[u1037 | 01:35:07.690-01:35:10.300 | DM] I know you have had questions",
+        "[u1038 | 01:35:11.620-01:35:17.419 | Delwath] that may not have been answered. I guess it's dark, so it's too. There's nothing much to describe."
+      ],
+      "preparedContextAfter": [
+        "[u1040 | 01:35:25.750-01:35:29.319 | DM] and like a little circle of light around it.",
+        "[u1041 | 01:35:33.230-01:35:33.990 | Riswynn] Hmm."
+      ],
+      "cleanedWording": "[u1039 | 01:35:19.260-01:35:25.610 | Delwath] There's no way we could tell how close they were to the like was no cause. It was dark. It's you're just getting the camp fire.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "There's no way we could tell how close they were to the like was no cause. It was dark. It's you're just getting the camp fire."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1053",
+      "header": "[u1053 | 01:36:20.400-01:36:21.210 | Riswynn]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1053 | 01:36:20.400-01:36:21.210 | Riswynn] Student.",
+      "preparedContextBefore": [
+        "[u1051 | 01:36:13.460-01:36:14.930 | Delwath] to help us plan",
+        "[u1052 | 01:36:15.350-01:36:16.710 | Delwath] and strategize."
+      ],
+      "preparedContextAfter": [
+        "[u1054 | 01:36:22.170-01:36:23.830 | DM] what would you like to know",
+        "[u1055 | 01:36:30.560-01:36:31.720 | Delwath] your"
+      ],
+      "cleanedWording": "[u1053 | 01:36:20.400-01:36:21.210 | Riswynn] Student.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Student."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1163",
+      "header": "[u1163 | 01:47:18.130-01:47:20.229 | Unknown]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1163 | 01:47:18.130-01:47:20.229 | Unknown] We don't propose a",
+      "preparedContextBefore": [
+        "[u1161 | 01:46:55.630-01:47:04.430 | Delwath] but also the indirect path even, cannot be instantaneous, or who he would have raised a much larger arm. 8 there are.",
+        "[u1162 | 01:47:07.830-01:47:11.220 | Delwath] but we know little of. It's true powers."
+      ],
+      "preparedContextAfter": [
+        "[u1164 | 01:47:22.760-01:47:26.030 | Delwath] we propose taking advantage of. Third, no",
+        "[u1165 | 01:47:28.470-01:47:31.610 | Delwath] desires of scrying. and"
+      ],
+      "cleanedWording": "[u1163 | 01:47:18.130-01:47:20.229 | Unknown] We don't propose a",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "We don't propose a"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1167",
+      "header": "[u1167 | 01:47:41.390-01:47:44.789 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1167 | 01:47:41.390-01:47:44.789 | Delwath] I think they wow! I guess. What do we know. Maybe they do know that",
+      "preparedContextBefore": [
+        "[u1165 | 01:47:28.470-01:47:31.610 | Delwath] desires of scrying. and",
+        "[u1166 | 01:47:33.160-01:47:38.650 | Delwath] I do not believe they know that taking the cloak would cause your defenses to fall."
+      ],
+      "preparedContextAfter": [
+        "[u1168 | 01:47:52.200-01:47:53.960 | Delwath] our plan or",
+        "[u1169 | 01:47:54.010-01:47:55.070 | DM] go ahead."
+      ],
+      "cleanedWording": "[u1167 | 01:47:41.390-01:47:44.789 | Delwath] I think they wow! I guess. What do we know. Maybe they do know that",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "I think they wow! I guess. What do we know. Maybe they do know that"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1168",
+      "header": "[u1168 | 01:47:52.200-01:47:53.960 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1168 | 01:47:52.200-01:47:53.960 | Delwath] our plan or",
+      "preparedContextBefore": [
+        "[u1166 | 01:47:33.160-01:47:38.650 | Delwath] I do not believe they know that taking the cloak would cause your defenses to fall.",
+        "[u1167 | 01:47:41.390-01:47:44.789 | Delwath] I think they wow! I guess. What do we know. Maybe they do know that"
+      ],
+      "preparedContextAfter": [
+        "[u1169 | 01:47:54.010-01:47:55.070 | DM] go ahead.",
+        "[u1170 | 01:47:55.520-01:47:59.259 | Delwath] Our plan was to spend to Morrow convincing you"
+      ],
+      "cleanedWording": "[u1168 | 01:47:52.200-01:47:53.960 | Delwath] our plan or",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "our plan or"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1183",
+      "header": "[u1183 | 01:49:28.180-01:49:29.030 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1183 | 01:49:28.180-01:49:29.030 | Delwath] them.",
+      "preparedContextBefore": [
+        "[u1181 | 01:49:10.950-01:49:12.030 | Delwath] it is",
+        "[u1182 | 01:49:13.510-01:49:17.720 | Delwath] they could still come directly to the palace instead"
+      ],
+      "preparedContextAfter": [
+        "[u1184 | 01:49:29.270-01:49:32.999 | Delwath] They are clearly planning something, a sort of gesture to the scry.",
+        "[u1185 | 01:49:33.490-01:49:36.879 | Delwath] What exactly. You cannot see."
+      ],
+      "cleanedWording": "[u1183 | 01:49:28.180-01:49:29.030 | Delwath] them.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "them."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1192",
+      "header": "[u1192 | 01:50:22.050-01:50:23.850 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1192 | 01:50:22.050-01:50:23.850 | Delwath] way. That's a risk as well.",
+      "preparedContextBefore": [
+        "[u1190 | 01:50:11.030-01:50:13.350 | Delwath] pretend to send us off in disgrace.",
+        "[u1191 | 01:50:14.900-01:50:19.849 | Delwath] and instead we stay hidden in the power somewhere to assist when they come for you"
+      ],
+      "preparedContextAfter": [
+        "[u1193 | 01:50:35.430-01:50:36.940 | Delwath] I hear your",
+        "[u1194 | 01:50:37.160-01:50:39.070 | Delwath] you have fewer warriors"
+      ],
+      "cleanedWording": "[u1192 | 01:50:22.050-01:50:23.850 | Delwath] way. That's a risk as well.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "way. That's a risk as well."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1285",
+      "header": "[u1285 | 01:58:50.930-01:58:52.510 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear wish/question about restoring the Queen; no action adopted.",
+      "marked": true,
+      "preparedSourceQuotation": "[u1285 | 01:58:50.930-01:58:52.510 | Seeker] But she was when they restored",
+      "preparedContextBefore": [
+        "[u1283 | 01:58:28.280-01:58:36.479 | DM] it's almost as if there's some like UV light, or something coming off the cloak that is lighting up this thread",
+        "[u1284 | 01:58:38.040-01:58:49.040 | Seeker] seeker started to experiment a little bit with it. stretching it, twisting it listening. Such a beautiful. this queen of Sunset!"
+      ],
+      "preparedContextAfter": [
+        "[u1286 | 01:58:55.370-01:58:58.779 | DM] indeed, for Lubash, speaking now",
+        "[u1287 | 01:59:00.020-01:59:00.980 | DM] are."
+      ],
+      "cleanedWording": "[u1285 | 01:58:50.930-01:58:52.510 | Seeker] [[But she was when they restored]]",
+      "cleanedUncertainSpans": [
+        "But she was when they restored"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Seeker's question about the lost Queen's restoration is garbled.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1287",
+      "header": "[u1287 | 01:59:00.020-01:59:00.980 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1287 | 01:59:00.020-01:59:00.980 | DM] are.",
+      "preparedContextBefore": [
+        "[u1285 | 01:58:50.930-01:58:52.510 | Seeker] But she was when they restored",
+        "[u1286 | 01:58:55.370-01:58:58.779 | DM] indeed, for Lubash, speaking now"
+      ],
+      "preparedContextAfter": [
+        "[u1288 | 01:59:09.620-01:59:20.050 | DM] it has been painfully slow to free our people. the only these threads, and he pulls the cloak around him.",
+        "[u1289 | 01:59:22.320-01:59:31.740 | DM] and the memories of our time in the desert when and wandering in the wilderness when this cloak has lost has"
+      ],
+      "cleanedWording": "[u1287 | 01:59:00.020-01:59:00.980 | DM] are.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "are."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1290",
+      "header": "[u1290 | 01:59:36.010-01:59:36.920 | DM]",
+      "importance": "incidental",
+      "reason": "Isolated disfluent tail to explanation of slow liberation.",
+      "marked": true,
+      "preparedSourceQuotation": "[u1290 | 01:59:36.010-01:59:36.920 | DM] wow!",
+      "preparedContextBefore": [
+        "[u1288 | 01:59:09.620-01:59:20.050 | DM] it has been painfully slow to free our people. the only these threads, and he pulls the cloak around him.",
+        "[u1289 | 01:59:22.320-01:59:31.740 | DM] and the memories of our time in the desert when and wandering in the wilderness when this cloak has lost has"
+      ],
+      "preparedContextAfter": [
+        "[u1291 | 01:59:39.170-01:59:40.979 | DM] I am reluctant to",
+        "[u1292 | 01:59:43.160-01:59:46.320 | DM] use something such as this as bait."
+      ],
+      "cleanedWording": "[u1290 | 01:59:36.010-01:59:36.920 | DM] [[wow]]!",
+      "cleanedUncertainSpans": [
+        "wow"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Fragment may finish preceding statement about memories and slow progress; broad meaning there clear. Incidental disfluent word.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1326",
+      "header": "[u1326 | 02:03:06.050-02:03:07.010 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1326 | 02:03:06.050-02:03:07.010 | DM] at.",
+      "preparedContextBefore": [
+        "[u1324 | 02:02:57.120-02:02:59.570 | DM] the mountains to the east of here.",
+        "[u1325 | 02:03:00.680-02:03:03.549 | DM] On the other side of the"
+      ],
+      "preparedContextAfter": [
+        "[u1327 | 02:03:08.080-02:03:10.100 | DM] on the other side of the",
+        "[u1328 | 02:03:15.810-02:03:22.680 | DM] series of jagged, broken hills, as the river rushes through waterfalls and gorgeous."
+      ],
+      "cleanedWording": "[u1326 | 02:03:06.050-02:03:07.010 | DM] at.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "at."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1344",
+      "header": "[u1344 | 02:04:54.490-02:04:56.160 | Delwath]",
+      "importance": "incidental",
+      "reason": "Original conditional phrasing retained with only article restored; do not substitute a different speaker intention.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1344 | 02:04:54.490-02:04:56.160 | Delwath] I would only for a time.",
+      "preparedContextBefore": [
+        "[u1342 | 02:04:42.830-02:04:45.009 | Delwath] There's value in defeating them.",
+        "[u1343 | 02:04:47.530-02:04:48.760 | DM] Well."
+      ],
+      "preparedContextAfter": [
+        "[u1345 | 02:04:57.700-02:05:02.189 | DM] then. that you and your skyship remain close.",
+        "[u1346 | 02:05:03.490-02:05:06.430 | DM] Should flight be necessary at the end."
+      ],
+      "cleanedWording": "[u1344 | 02:04:54.490-02:04:56.160 | Delwath] I would only for a time.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "I would only for a time."
+      ],
+      "spanCount": 1,
+      "note": "Original conditional phrasing retained with only article restored; do not substitute a different speaker intention.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1364",
+      "header": "[u1364 | 02:07:06.420-02:07:11.910 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1364 | 02:07:06.420-02:07:11.910 | DM] this aim of. We thought we had driven the Tardonians out.",
+      "preparedContextBefore": [
+        "[u1362 | 02:06:56.970-02:06:59.230 | DM] these travelers.",
+        "[u1363 | 02:07:00.420-02:07:03.040 | DM] We did not anticipate our plan for"
+      ],
+      "preparedContextAfter": [
+        "[u1365 | 02:07:14.230-02:07:16.720 | DM] We thought they were fleeing in disgrace.",
+        "[u1366 | 02:07:19.380-02:07:20.450 | DM] so."
+      ],
+      "cleanedWording": "[u1364 | 02:07:06.420-02:07:11.910 | DM] this aim of- we thought we had driven the Chardonians out.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "this aim of. We thought we had driven the Tardonians out."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1375",
+      "header": "[u1375 | 02:08:09.930-02:08:13.069 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1375 | 02:08:09.930-02:08:13.069 | DM] We probably somewhat well.",
+      "preparedContextBefore": [
+        "[u1373 | 02:07:53.040-02:07:55.950 | Delwath] how long would it take for them to retreat? Return",
+        "[u1374 | 02:08:00.150-02:08:01.129 | DM] a day?"
+      ],
+      "preparedContextAfter": [
+        "[u1376 | 02:08:14.620-02:08:16.660 | DM] possibly as quickly as",
+        "[u1377 | 02:08:17.710-02:08:23.540 | DM] a full day. 24 h they could go by river, come downstream."
+      ],
+      "cleanedWording": "[u1375 | 02:08:09.930-02:08:13.069 | DM] We probably somewhat well.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "We probably somewhat well."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1401",
+      "header": "[u1401 | 02:10:49.070-02:10:52.549 | Delwath]",
+      "importance": "incidental",
+      "reason": "Offhand interjection during spell permanence discussion, likely incidental.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1401 | 02:10:49.070-02:10:52.549 | Delwath] Skyscrap? Yeah, seriously.",
+      "preparedContextBefore": [
+        "[u1399 | 02:10:40.150-02:10:43.890 | Delwath] I man. If only had 30 days you could cast it every day for 30 days.",
+        "[u1400 | 02:10:44.400-02:10:48.880 | Delwath] you know what you're doing for the next 30 days after this is over."
+      ],
+      "preparedContextAfter": [
+        "[u1402 | 02:10:52.650-02:10:55.639 | Riswynn] you can it every day for 30 days. It's permanent.",
+        "[u1403 | 02:10:56.480-02:10:57.560 | Seeker] Oh."
+      ],
+      "cleanedWording": "[u1401 | 02:10:49.070-02:10:52.549 | Delwath] Skyscrap? Yeah, seriously.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Skyscrap? Yeah, seriously."
+      ],
+      "spanCount": 1,
+      "note": "Offhand interjection during spell permanence discussion, likely incidental.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1439",
+      "header": "[u1439 | 02:14:13.940-02:14:18.089 | Seeker]",
+      "importance": "incidental",
+      "reason": "Tiny item joke from single thread; final noun unclear, incidental.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1439 | 02:14:13.940-02:14:18.089 | Seeker] Well, I have one thread, so I could make a very, very, very small picture.",
+      "preparedContextBefore": [
+        "[u1437 | 02:14:02.860-02:14:06.160 | Kenzo] is the one who created the cloak",
+        "[u1438 | 02:14:06.170-02:14:13.810 | DM] and she is gone so they can't get any more of the material."
+      ],
+      "preparedContextAfter": [
+        "[u1440 | 02:14:18.240-02:14:20.410 | DM] Right?",
+        "[u1441 | 02:14:21.850-02:14:33.240 | DM] The 2 proposals that Dow with pitched were was the deception where you lure where you pretend the cloak is in the is with you, and you leave"
+      ],
+      "cleanedWording": "[u1439 | 02:14:13.940-02:14:18.089 | Seeker] Well, I have one thread, so I could make a very, very, very small picture.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Well, I have one thread, so I could make a very, very, very small picture."
+      ],
+      "spanCount": 1,
+      "note": "Tiny item joke from single thread; final noun unclear, incidental.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1460",
+      "header": "[u1460 | 02:15:56.160-02:16:07.459 | Seeker]",
+      "importance": "incidental",
+      "reason": "Tail of rationale for staged quarrel unclear; main rationale clear in following line.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1460 | 02:15:56.160-02:16:07.459 | Seeker] I I kind of like the pretend we get in a fight because Catmos is grouped. They're a little bit like trashy themselves. They like they're always that didn't fight them.",
+      "preparedContextBefore": [
+        "[u1458 | 02:15:51.620-02:15:53.720 | DM] You do not have it right now.",
+        "[u1459 | 02:15:54.350-02:15:55.010 | Riswynn] Nope."
+      ],
+      "preparedContextAfter": [
+        "[u1461 | 02:16:08.700-02:16:13.190 | Seeker] They believe that is what I was saying. They would it their own psychology. And",
+        "[u1462 | 02:16:13.550-02:16:16.870 | Seeker] they like, Oh, yeah. and kind of"
+      ],
+      "cleanedWording": "[u1460 | 02:15:56.160-02:16:07.459 | Seeker] I I kind of like the pretend we get in a fight, because Kadmos's group, they're a little bit like trashy themselves. They like they're always that didn't fight them.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "I I kind of like the pretend we get in a fight because Catmos is grouped. They're a little bit like trashy themselves. They like they're always that didn't fight them."
+      ],
+      "spanCount": 1,
+      "note": "Tail of rationale for staged quarrel unclear; main rationale clear in following line.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1475",
+      "header": "[u1475 | 02:17:17.920-02:17:25.869 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Mirror trap planning interjection, uncertain final term; overall idea preserved.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1475 | 02:17:17.920-02:17:25.869 | Kenzo] Well, we can still traffic balance right like like the the the mirror trap, the fucking agile. We could. Yeah, exactly right. Like the idea would be we we.",
+      "preparedContextBefore": [
+        "[u1473 | 02:17:09.280-02:17:15.150 | Delwath] I think, they feel more comfortable just putting forth their best defense with the idea that maybe they'll we",
+        "[u1474 | 02:17:16.520-02:17:17.460 | Delwath] if they have to."
+      ],
+      "preparedContextAfter": [
+        "[u1476 | 02:17:25.950-02:17:31.469 | Delwath] we set up whatever traps we can. And actually, the more I think about it. The nice thing about the palace is one",
+        "[u1477 | 02:17:31.799-02:17:33.660 | Delwath] it's going to be easier to trap."
+      ],
+      "cleanedWording": "[u1475 | 02:17:17.920-02:17:25.869 | Kenzo] Well, we can still trap the palace, right? Like like the the the mirror trap, the fucking agile. We could- yeah, exactly, right. Like the idea would be we we.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Well, we can still traffic balance right like like the the the mirror trap, the fucking agile. We could. Yeah, exactly right. Like the idea would be we we."
+      ],
+      "spanCount": 1,
+      "note": "Mirror trap planning interjection, uncertain final term; overall idea preserved.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1485",
+      "header": "[u1485 | 02:18:18.670-02:18:27.010 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Front-line proposal lead-in unclear; animated objects proposal clear.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1485 | 02:18:18.670-02:18:27.010 | Kenzo] The latter is your front line. Come on! That's what I'm say. Can't can we have Eric seeker like? Make an enemy a bunch of fucking like giant things like",
+      "preparedContextBefore": [
+        "[u1483 | 02:18:10.940-02:18:14.100 | Delwath] to be the Seventh Level Works who could like",
+        "[u1484 | 02:18:14.200-02:18:18.430 | Kenzo] clog up the front right? Oh, my God, more trap!"
+      ],
+      "preparedContextAfter": [
+        "[u1486 | 02:18:27.580-02:18:30.599 | DM] we only have one thing animated at the time.",
+        "[u1487 | 02:18:31.010-02:18:34.540 | Seeker] There is a spell that lets me do it. I can animate 2, but"
+      ],
+      "cleanedWording": "[u1485 | 02:18:18.670-02:18:27.010 | Kenzo] The latter is your front line. Come on! That's what I'm saying. Can't- can we have Eric, Seeker, like make and animate a bunch of fucking like giant things, like",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "The latter is your front line. Come on! That's what I'm say. Can't can we have Eric seeker like? Make an enemy a bunch of fucking like giant things like"
+      ],
+      "spanCount": 1,
+      "note": "Front-line proposal lead-in unclear; animated objects proposal clear.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1501",
+      "header": "[u1501 | 02:19:34.160-02:19:36.309 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1501 | 02:19:34.160-02:19:36.309 | Seeker] We can take a fireball in this.",
+      "preparedContextBefore": [
+        "[u1499 | 02:19:29.709-02:19:31.949 | Delwath] We just sucked. We'll take the fireballs.",
+        "[u1500 | 02:19:32.950-02:19:33.799 | Kenzo] What?"
+      ],
+      "preparedContextAfter": [
+        "[u1502 | 02:19:36.629-02:19:38.309 | Kenzo] I've got to run a fire resistance",
+        "[u1503 | 02:19:38.360-02:19:51.379 | DM] like we could. Totally. A fireball doesn't scare me that much. We have enough here. Fireball doesn't scare you at all. If you make the save, you take no damage. Yeah. Well, some of us take damage. It scares you down with is the down with, and"
+      ],
+      "cleanedWording": "[u1501 | 02:19:34.160-02:19:36.309 | Seeker] We can take a fireball in this.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "We can take a fireball in this."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1519",
+      "header": "[u1519 | 02:21:05.600-02:21:11.629 | Riswynn]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1519 | 02:21:05.600-02:21:11.629 | Riswynn] guards and Druids, and so forth. But are some of our that there's, you know. So you like low up, like, you know.",
+      "preparedContextBefore": [
+        "[u1517 | 02:20:52.280-02:21:03.279 | Seeker] but, like everybody who's good, pretty much is on the front line right? That was the that was what Marook was saying, is like, if you guys are going to leave, we got to call back some of our like",
+        "[u1518 | 02:21:03.790-02:21:05.480 | DM] right, you know."
+      ],
+      "preparedContextAfter": [
+        "[u1520 | 02:21:13.230-02:21:24.319 | DM] level, you know, third level Druids who might be able to drop a healing word or something. But the Orcs. the Orcs, like your impression from this conversation is, the Orcs",
+        "[u1521 | 02:21:24.570-02:21:26.500 | DM] knew this army was coming."
+      ],
+      "cleanedWording": "[u1519 | 02:21:05.600-02:21:11.629 | Riswynn] guards and druids, and so forth. But are some of our- there's, you know, so you like low- like, you know,",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "guards and Druids, and so forth. But are some of our that there's, you know. So you like low up, like, you know."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1559",
+      "header": "[u1559 | 02:25:21.980-02:25:27.129 | Riswynn]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1559 | 02:25:21.980-02:25:27.129 | Riswynn] right? If they have some sort of password system in place or something. They believe my",
+      "preparedContextBefore": [
+        "[u1557 | 02:24:59.940-02:25:10.860 | DM] But then you got a message. Got a message there, so like Best case you're talking like tomorrow night you could get people back from the fine. And that's like, if you could.",
+        "[u1558 | 02:25:14.700-02:25:21.329 | Riswynn] right? Which is, can we do ascending? I was just gonna say I could sending the guy at the fort who we met. You could. Yeah."
+      ],
+      "preparedContextAfter": [
+        "[u1560 | 02:25:27.790-02:25:30.619 | Seeker] links back. Can I use it?",
+        "[u1561 | 02:25:31.710-02:25:35.379 | Riswynn] Yeah. Yeah."
+      ],
+      "cleanedWording": "[u1559 | 02:25:21.980-02:25:27.129 | Riswynn] right? If they have some sort of password system in place or something. They believe my",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "right? If they have some sort of password system in place or something. They believe my"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1563",
+      "header": "[u1563 | 02:25:42.360-02:25:44.129 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1563 | 02:25:42.360-02:25:44.129 | DM] Where is the timing",
+      "preparedContextBefore": [
+        "[u1561 | 02:25:31.710-02:25:35.379 | Riswynn] Yeah. Yeah.",
+        "[u1562 | 02:25:35.760-02:25:40.479 | DM] yes. Your link should be back."
+      ],
+      "preparedContextAfter": [
+        "[u1564 | 02:25:45.680-02:25:47.639 | DM] and a timing on the links?",
+        "[u1565 | 02:25:49.190-02:25:50.270 | DM] A."
+      ],
+      "cleanedWording": "[u1563 | 02:25:42.360-02:25:44.129 | DM] Where is the timing",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Where is the timing"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1572",
+      "header": "[u1572 | 02:26:15.420-02:26:19.129 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1572 | 02:26:15.420-02:26:19.129 | DM] there you don't! yes, it, you see.",
+      "preparedContextBefore": [
+        "[u1570 | 02:26:07.230-02:26:09.300 | DM] a ghostly",
+        "[u1571 | 02:26:09.740-02:26:14.840 | DM] spirit!"
+      ],
+      "preparedContextAfter": [
+        "[u1573 | 02:26:19.690-02:26:25.059 | Wellby] You can set well. No, you can't. What would happen to me?",
+        "[u1574 | 02:26:27.240-02:26:34.700 | DM] I guess I'll just be waiting. You'll get your links when you leave the the dinner room, the links cannot enter with it. 100 foot radius of"
+      ],
+      "cleanedWording": "[u1572 | 02:26:15.420-02:26:19.129 | DM] there you don't! yes, it, you see.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "there you don't! yes, it, you see."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1573",
+      "header": "[u1573 | 02:26:19.690-02:26:25.059 | Wellby]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1573 | 02:26:19.690-02:26:25.059 | Wellby] You can set well. No, you can't. What would happen to me?",
+      "preparedContextBefore": [
+        "[u1571 | 02:26:09.740-02:26:14.840 | DM] spirit!",
+        "[u1572 | 02:26:15.420-02:26:19.129 | DM] there you don't! yes, it, you see."
+      ],
+      "preparedContextAfter": [
+        "[u1574 | 02:26:27.240-02:26:34.700 | DM] I guess I'll just be waiting. You'll get your links when you leave the the dinner room, the links cannot enter with it. 100 foot radius of",
+        "[u1575 | 02:26:36.280-02:26:41.019 | Seeker] do I know? I mean more, because I was going to suggest it as a way of sending a message."
+      ],
+      "cleanedWording": "[u1573 | 02:26:19.690-02:26:25.059 | Wellby] You can set well. No, you can't. What would happen to me?",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "You can set well. No, you can't. What would happen to me?"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1593",
+      "header": "[u1593 | 02:28:03.490-02:28:04.730 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1593 | 02:28:03.490-02:28:04.730 | DM] installed.",
+      "preparedContextBefore": [
+        "[u1591 | 02:27:45.370-02:27:46.890 | DM] which is",
+        "[u1592 | 02:28:02.130-02:28:03.130 | DM] first"
+      ],
+      "preparedContextAfter": [
+        "[u1594 | 02:28:04.750-02:28:11.359 | Delwath] One met a question where you are we anticipating trying to do the come back to fight with cat most tonight.",
+        "[u1595 | 02:28:11.630-02:28:23.899 | Delwath] No, okay, because you still have, like an hour of like making your traps. Yes, tonight, before you, even, yeah. And you have to role play the whole like"
+      ],
+      "cleanedWording": "[u1593 | 02:28:03.490-02:28:04.730 | DM] installed.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "installed."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1609",
+      "header": "[u1609 | 02:29:35.020-02:29:45.550 | Riswynn]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1609 | 02:29:35.020-02:29:45.550 | Riswynn] I don't. I don't like totally dark in my room. Am I like my dark vision is failed, or something. I I just see a black. Now. Your token was set to being blind.",
+      "preparedContextBefore": [
+        "[u1607 | 02:29:24.670-02:29:30.649 | DM] well, right now, because there's like doors and stuff. All you can see is like the throne. Rob, I presume.",
+        "[u1608 | 02:29:30.920-02:29:33.129 | Seeker] is this green thing up at the top of the throne."
+      ],
+      "preparedContextAfter": [
+        "[u1610 | 02:29:45.630-02:29:49.000 | DM] Well, thank you. I I'm fixing it.",
+        "[u1611 | 02:29:49.820-02:29:51.060 | Riswynn] Okay."
+      ],
+      "cleanedWording": "[u1609 | 02:29:35.020-02:29:45.550 | Riswynn] I don't. I don't like totally dark in my room. Am I like my dark vision is failed, or something. I I just see a black. Now. Your token was set to being blind.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "I don't. I don't like totally dark in my room. Am I like my dark vision is failed, or something. I I just see a black. Now. Your token was set to being blind."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1615",
+      "header": "[u1615 | 02:30:24.130-02:30:29.879 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1615 | 02:30:24.130-02:30:29.879 | DM] You can sort of explore. Here, let me. can I, to change this? So it's",
+      "preparedContextBefore": [
+        "[u1613 | 02:29:56.480-02:30:09.300 | DM] I took this map from somewhere else. I don't know what this green thing is supposed to be. This is the throne right here. and this is like the table that's been set up for dinner and the pillars and stuff.",
+        "[u1614 | 02:30:10.120-02:30:23.580 | DM] But then there's like sleeping like down here. There's like sleeping quarters. There's"
+      ],
+      "preparedContextAfter": [
+        "[u1616 | 02:30:31.620-02:30:37.820 | Delwath] this is a fancy map. There's like all these doors, there's like these doors that you have to open to go through.",
+        "[u1617 | 02:30:43.050-02:30:47.790 | DM] Okay, I think I think this is set up so that once you explore it, it will."
+      ],
+      "cleanedWording": "[u1615 | 02:30:24.130-02:30:29.879 | DM] You can sort of explore. Here, let me. can I, to change this? So it's",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "You can sort of explore. Here, let me. can I, to change this? So it's"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1627",
+      "header": "[u1627 | 02:31:37.510-02:31:44.749 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1627 | 02:31:37.510-02:31:44.749 | Kenzo] Well, can we just like better role, play them showing us what we have to. Yeah, yeah, yeah.",
+      "preparedContextBefore": [
+        "[u1625 | 02:31:30.690-02:31:33.020 | Riswynn] relevant.",
+        "[u1626 | 02:31:33.400-02:31:35.660 | DM] It's relevant what you can see."
+      ],
+      "preparedContextAfter": [
+        "[u1628 | 02:31:45.230-02:31:46.869 | DM] they're showing you stuff.",
+        "[u1629 | 02:31:47.380-02:31:56.730 | DM] so"
+      ],
+      "cleanedWording": "[u1627 | 02:31:37.510-02:31:44.749 | Kenzo] Well, can we just like better role, play them showing us what we have to. Yeah, yeah, yeah.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Well, can we just like better role, play them showing us what we have to. Yeah, yeah, yeah."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1634",
+      "header": "[u1634 | 02:32:24.240-02:32:27.770 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1634 | 02:32:24.240-02:32:27.770 | Seeker] conventional mirror? Did we ever, just just to tell",
+      "preparedContextBefore": [
+        "[u1632 | 02:32:14.980-02:32:19.680 | DM] And then there's the like ramparts of Bob at?",
+        "[u1633 | 02:32:19.700-02:32:23.730 | Seeker] Does the trap mirror work through"
+      ],
+      "preparedContextAfter": [
+        "[u1635 | 02:32:27.840-02:32:29.080 | Seeker] it does not?",
+        "[u1636 | 02:32:32.650-02:32:34.640 | DM] Oh, wait! Hold on! I think I can just"
+      ],
+      "cleanedWording": "[u1634 | 02:32:24.240-02:32:27.770 | Seeker] conventional mirror? Did we ever, just just to tell",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "conventional mirror? Did we ever, just just to tell"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1671",
+      "header": "[u1671 | 02:35:42.780-02:35:46.699 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1671 | 02:35:42.780-02:35:46.699 | Delwath] that's a staircase. I mean the police. They have to",
+      "preparedContextBefore": [
+        "[u1669 | 02:35:31.450-02:35:37.440 | DM] ramparts wouldn't be. If you want to protect the garden, the second floor. and",
+        "[u1670 | 02:35:38.260-02:35:42.130 | Delwath] how many entrances are there up to the second forest there, only"
+      ],
+      "preparedContextAfter": [
+        "[u1672 | 02:35:47.310-02:35:54.490 | Seeker] get in by some conventional means of it and teleport like they. And then they're just going to try to steal the thing and for their way out",
+        "[u1673 | 02:35:55.770-02:36:07.110 | DM] the user. This is a this is a staircase. Sorry these are staircases down to the garbage which one's down to the garden. This is this is up to the"
+      ],
+      "cleanedWording": "[u1671 | 02:35:42.780-02:35:46.699 | Delwath] that's a staircase. I mean the police- they have to,",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "that's a staircase. I mean the police. They have to"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1724",
+      "header": "[u1724 | 02:41:13.160-02:41:32.279 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1724 | 02:41:13.160-02:41:32.279 | Seeker] lots of mirrors, just everywhere, so that they move slowly and cautiously, just being like thinking. Every mirror is like going to be problematic. They'll be. I love that. That's actually a bad idea. It's not how many mirrors in these, or have, do we have a trend? It looks like there's a lot more guards than there are, because they'll see the guards.",
+      "preparedContextBefore": [
+        "[u1722 | 02:40:53.450-02:41:00.870 | DM] unaware of the possibility given that you try. You use the exact same. I mean, the whole theory is they're not going to know that we're here",
+        "[u1723 | 02:41:01.120-02:41:13.149 | Seeker] right? It's dead right? It means you don't miss his mirror to overwhelm them with that information we should just put. We should just put a plain old mirror like in"
+      ],
+      "preparedContextAfter": [
+        "[u1725 | 02:41:32.650-02:41:34.719 | Kenzo] It's classic, and for the dragon guys",
+        "[u1726 | 02:41:34.780-02:41:41.059 | Riswynn] I love it. It's gonna be like, wait, your spellcasters are afraid of mirrors."
+      ],
+      "cleanedWording": "[u1724 | 02:41:13.160-02:41:32.279 | Seeker] lots of mirrors, just everywhere, so that they move slowly and cautiously, just being like thinking. Every mirror is like going to be problematic. They'll be. I love that. That's actually a bad idea. It's not how many mirrors in these, or have, do we have a trend? It looks like there's a lot more guards than there are, because they'll see the guards.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "lots of mirrors, just everywhere, so that they move slowly and cautiously, just being like thinking. Every mirror is like going to be problematic. They'll be. I love that. That's actually a bad idea. It's not how many mirrors in these, or have, do we have a trend? It looks like there's a lot more guards than there are, because they'll see the guards."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1727",
+      "header": "[u1727 | 02:41:41.130-02:41:43.500 | Riswynn]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1727 | 02:41:41.130-02:41:43.500 | Riswynn] He! You wonder what?",
+      "preparedContextBefore": [
+        "[u1725 | 02:41:32.650-02:41:34.719 | Kenzo] It's classic, and for the dragon guys",
+        "[u1726 | 02:41:34.780-02:41:41.059 | Riswynn] I love it. It's gonna be like, wait, your spellcasters are afraid of mirrors."
+      ],
+      "preparedContextAfter": [
+        "[u1728 | 02:41:43.930-02:41:45.680 | Delwath] Wow! You know",
+        "[u1729 | 02:41:46.270-02:41:47.050 | Riswynn] this"
+      ],
+      "cleanedWording": "[u1727 | 02:41:41.130-02:41:43.500 | Riswynn] He! You wonder what?",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "He! You wonder what?"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1737",
+      "header": "[u1737 | 02:42:27.420-02:42:30.089 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1737 | 02:42:27.420-02:42:30.089 | Delwath] You did not sound it in chat, are you? Put it to.",
+      "preparedContextBefore": [
+        "[u1735 | 02:42:19.630-02:42:21.310 | Kenzo] Kansas opens it. What's it? Say?",
+        "[u1736 | 02:42:22.860-02:42:27.180 | DM] Well, I'll just read it. I put it in chat, but I can. I'm happy to just read it."
+      ],
+      "preparedContextAfter": [
+        "[u1738 | 02:42:30.330-02:42:34.749 | Kenzo] I put it to calm. Oh, that's okay, I see. Yeah, it's put it. I can read it",
+        "[u1739 | 02:42:34.870-02:42:39.140 | Kenzo] tens of the blessings of the blessings of you. You can put it in the main thing, too, but I'll read it out loud."
+      ],
+      "cleanedWording": "[u1737 | 02:42:27.420-02:42:30.089 | Delwath] You did not sound it in chat, are you? Put it to.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "You did not sound it in chat, are you? Put it to."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1744",
+      "header": "[u1744 | 02:43:17.750-02:43:36.099 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear linking words about dream imagery; no distinct quantity is recoverable.",
+      "marked": true,
+      "preparedSourceQuotation": "[u1744 | 02:43:17.750-02:43:36.099 | Kenzo] My dream! My dreams remain filled with the corpses of my people, with rotting bodies of the Denmark across the plains, and numbers of where I wrote about in my last letter. And yeah, now I wonder that I missed the message of the gods of my haste and fear, for when I forced myself to look, to see the nightmare, to stare in the darkness. I see the corpses on the field of battle shaken sway and beginning to rise. Oh, no!",
+      "preparedContextBefore": [
+        "[u1742 | 02:43:05.470-02:43:06.300 | Kenzo] but it",
+        "[u1743 | 02:43:07.090-02:43:17.379 | Kenzo] how the gods must whale and nash at the frailties of us feeble humans that we must, I must trust it to turn their will and be there to buy in a hand on earth. Never, I felt more unworthy of the power trusted to me by lock. -oh!"
+      ],
+      "preparedContextAfter": [
+        "[u1745 | 02:43:36.510-02:43:40.209 | Kenzo] Perhaps my dreams have been awarding this creature to the east all along.",
+        "[u1746 | 02:43:40.670-02:44:08.610 | Kenzo] and if that is the fear of the gods would war me up where I throw the legitimacy to lock up behind Sura as the fire of a gear so obviously burns of her. Despite my misgivings that the fires of Iguer, do not make one adjust ruler, and yet when I, brown Carnos, I hear nothing. Silence! No, God will speak for him. Shall I? I will not burden you more by troubles, for you must face dangers of your own before I close and deliver my words to this foreign gods that carry them to you we. She has a message for you, Kenzo. In these uncertain times, when all passing fraught trust in yourself."
+      ],
+      "cleanedWording": "[u1744 | 02:43:17.750-02:43:36.099 | Kenzo] My dream- my dreams remain filled with the corpses of my people, with rotting bodies of the Dunmari across the plains in numbers [[of where]] I wrote about in my last letter. And yet now I wonder that I missed the message of the gods in my haste and fear, for when I force myself to look, to see the nightmare, to stare in the darkness, I see the corpses on the field of battle shake and sway and begin to rise. Oh, no!",
+      "cleanedUncertainSpans": [
+        "of where"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Letter description of number of corpses has unclear linking words; overall warning clear.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1747",
+      "header": "[u1747 | 02:44:08.610-02:44:19.779 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear childhood descriptor; identity and message remain clear.",
+      "marked": true,
+      "preparedSourceQuotation": "[u1747 | 02:44:08.610-02:44:19.779 | Kenzo] You've grown into great power, not no longer listening, boy we took in half a decade of go! And I could not be more proud of you. May the wisdom of lock a guide, your paths. Yours and fellowship speaker Laura.",
+      "preparedContextBefore": [
+        "[u1745 | 02:43:36.510-02:43:40.209 | Kenzo] Perhaps my dreams have been awarding this creature to the east all along.",
+        "[u1746 | 02:43:40.670-02:44:08.610 | Kenzo] and if that is the fear of the gods would war me up where I throw the legitimacy to lock up behind Sura as the fire of a gear so obviously burns of her. Despite my misgivings that the fires of Iguer, do not make one adjust ruler, and yet when I, brown Carnos, I hear nothing. Silence! No, God will speak for him. Shall I? I will not burden you more by troubles, for you must face dangers of your own before I close and deliver my words to this foreign gods that carry them to you we. She has a message for you, Kenzo. In these uncertain times, when all passing fraught trust in yourself."
+      ],
+      "preparedContextAfter": [
+        "[u1748 | 02:44:21.350-02:44:22.660 | Kenzo] Well, that's terrified.",
+        "[u1749 | 02:44:23.070-02:44:23.790 | Seeker] Who?"
+      ],
+      "cleanedWording": "[u1747 | 02:44:08.610-02:44:19.779 | Kenzo] You've grown into great power, no longer [[listening]] boy we took in half a decade ago! And I could not be more proud of you. May the wisdom of Laka guide your paths. Yours in fellowship, Speaker Lara.",
+      "cleanedUncertainSpans": [
+        "listening"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Description of Kenzo as a boy unclear.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1755",
+      "header": "[u1755 | 02:44:59.600-02:45:00.580 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1755 | 02:44:59.600-02:45:00.580 | Kenzo] toward us.",
+      "preparedContextBefore": [
+        "[u1753 | 02:44:51.650-02:44:53.720 | Seeker] and so trust yourself.",
+        "[u1754 | 02:44:55.540-02:44:56.750 | Kenzo] Get out ouiji board"
+      ],
+      "preparedContextAfter": [
+        "[u1756 | 02:45:00.940-02:45:07.100 | Kenzo] We have so much to sort out. This is a lot",
+        "[u1757 | 02:45:10.630-02:45:16.469 | Riswynn] it does sound like, maybe she thinks that the threat in the East with the zombies is"
+      ],
+      "cleanedWording": "[u1755 | 02:44:59.600-02:45:00.580 | Kenzo] toward us.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "toward us."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1775",
+      "header": "[u1775 | 02:46:25.650-02:46:27.200 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1775 | 02:46:25.650-02:46:27.200 | Kenzo] lot of fuck, are you right now?",
+      "preparedContextBefore": [
+        "[u1773 | 02:46:17.920-02:46:22.430 | Kenzo] goes to the how can we unify Dunmar, or how can Denmark be unified?",
+        "[u1774 | 02:46:22.650-02:46:23.340 | Unknown] Question."
+      ],
+      "preparedContextAfter": [
+        "[u1776 | 02:46:29.430-02:46:30.890 | Delwath] I'll ask",
+        "[u1777 | 02:46:31.990-02:46:40.520 | Delwath] more more. What's your name? Sorry I can't rook Maru if she wishes to send a letter to her warriors"
+      ],
+      "cleanedWording": "[u1775 | 02:46:25.650-02:46:27.200 | Kenzo] lot of fuck, are you right now?",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "lot of fuck, are you right now?"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1805",
+      "header": "[u1805 | 02:48:45.440-02:48:47.980 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1805 | 02:48:45.440-02:48:47.980 | Kenzo] it. There is no way right? There's a combination.",
+      "preparedContextBefore": [
+        "[u1803 | 02:48:34.810-02:48:37.570 | Delwath] I I think I mean, that's interesting.",
+        "[u1804 | 02:48:37.910-02:48:44.110 | Delwath] I I was thinking that right like I think their first move would probably be somebody invisible. Same idea"
+      ],
+      "preparedContextAfter": [
+        "[u1806 | 02:48:50.070-02:48:54.159 | Delwath] And so I mean, the first question is.",
+        "[u1807 | 02:48:54.200-02:48:57.549 | Delwath] we're gonna have to. Where do we expect them to go?"
+      ],
+      "cleanedWording": "[u1805 | 02:48:45.440-02:48:47.980 | Kenzo] it. There is no way right? There's a combination.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "it. There is no way right? There's a combination."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1811",
+      "header": "[u1811 | 02:49:18.090-02:49:20.320 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1811 | 02:49:18.090-02:49:20.320 | Delwath] wait. So I do that again. I just wasn't",
+      "preparedContextBefore": [
+        "[u1809 | 02:49:09.020-02:49:11.730 | Delwath] Are they not going to try and assassinate?",
+        "[u1810 | 02:49:13.040-02:49:17.969 | Riswynn] This is Lubash's bed chamber here. I'm just gonna say that everything up in this bedroom"
+      ],
+      "preparedContextAfter": [
+        "[u1812 | 02:49:23.000-02:49:32.559 | Wellby] when we find out from Lubash of the team that got in. Did they get into the palace, I mean, would they have a sense of the floor plan that they could relay back.",
+        "[u1813 | 02:49:32.760-02:49:36.480 | Seeker] Oh, great question! So first of all, Maru."
+      ],
+      "cleanedWording": "[u1811 | 02:49:18.090-02:49:20.320 | Delwath] wait. So I do that again. I just wasn't",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "wait. So I do that again. I just wasn't"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1843",
+      "header": "[u1843 | 02:52:28.310-02:52:38.310 | Riswynn]",
+      "importance": "incidental",
+      "reason": "Opening table fragment incidental; restored exact unclear span, preserving clear telepathy question.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1843 | 02:52:28.310-02:52:38.310 | Riswynn] wind, a border, or whatever like did we do the whole secret when we were sure we weren't being watched. We do the whole seeker expans the telepathy",
+      "preparedContextBefore": [
+        "[u1841 | 02:52:10.920-02:52:15.060 | DM] back to the",
+        "[u1842 | 02:52:17.820-02:52:28.040 | DM] thrown room, and it seems like they're, you know everybody else has left, and it's just the 2 of them at a fire and There's a"
+      ],
+      "preparedContextAfter": [
+        "[u1844 | 02:52:38.540-02:52:39.849 | Riswynn] web thing.",
+        "[u1845 | 02:52:40.050-02:52:50.470 | Riswynn] I kind of feel like we should do that, because time is passing when they could get longer, be pouring over maps they could like. This was just crying like 10 min later. So I thought we should. I mean."
+      ],
+      "cleanedWording": "[u1843 | 02:52:28.310-02:52:38.310 | Riswynn] wind, a border, or whatever. Like, did we do the whole Seeker, when we were sure we weren't being watched, did we do the whole Seeker expands the telepathy",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "wind, a border, or whatever like did we do the whole secret when we were sure we weren't being watched. We do the whole seeker expans the telepathy"
+      ],
+      "spanCount": 1,
+      "note": "Opening table fragment incidental; restored exact unclear span, preserving clear telepathy question.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1858",
+      "header": "[u1858 | 02:54:25.580-02:54:33.120 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1858 | 02:54:25.580-02:54:33.120 | DM] back! And then he says telepathically. Give us a moment, and and we will speak with you.",
+      "preparedContextBefore": [
+        "[u1856 | 02:54:10.480-02:54:20.680 | DM] As you, as you approach Lubash stands up and and says out loud, not telepathically, let me introduce my nephew and heir.",
+        "[u1857 | 02:54:21.020-02:54:23.099 | DM] chief linguistic"
+      ],
+      "preparedContextAfter": [
+        "[u1859 | 02:54:34.160-02:54:38.280 | DM] They say good night and stuff any. The the",
+        "[u1860 | 02:54:39.310-02:54:45.409 | DM] whose goal is like looks up at all of you like, since obviously never met an out for a dwarf, or"
+      ],
+      "cleanedWording": "[u1858 | 02:54:25.580-02:54:33.120 | DM] back! And then he says telepathically. Give us a moment, and and we will speak with you.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "back! And then he says telepathically. Give us a moment, and and we will speak with you."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1859",
+      "header": "[u1859 | 02:54:34.160-02:54:38.280 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1859 | 02:54:34.160-02:54:38.280 | DM] They say good night and stuff any. The the",
+      "preparedContextBefore": [
+        "[u1857 | 02:54:21.020-02:54:23.099 | DM] chief linguistic",
+        "[u1858 | 02:54:25.580-02:54:33.120 | DM] back! And then he says telepathically. Give us a moment, and and we will speak with you."
+      ],
+      "preparedContextAfter": [
+        "[u1860 | 02:54:39.310-02:54:45.409 | DM] whose goal is like looks up at all of you like, since obviously never met an out for a dwarf, or",
+        "[u1861 | 02:54:45.700-02:54:48.490 | DM] really, before he's seen humans before."
+      ],
+      "cleanedWording": "[u1859 | 02:54:34.160-02:54:38.280 | DM] They say good night and stuff any. The the",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "They say good night and stuff any. The the"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1885",
+      "header": "[u1885 | 02:56:54.840-02:56:56.429 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1885 | 02:56:54.840-02:56:56.429 | DM] it took they were not",
+      "preparedContextBefore": [
+        "[u1883 | 02:56:33.830-02:56:39.630 | DM] claim to be for haters. and",
+        "[u1884 | 02:56:43.210-02:56:52.259 | DM] Scholars seeking to make contact with us and bring exchange goods and information. Chardon"
+      ],
+      "preparedContextAfter": [
+        "[u1886 | 02:56:56.450-02:57:00.789 | DM] so forthcoming when did not come in a time of nearly so much trouble.",
+        "[u1887 | 02:57:01.500-02:57:05.759 | DM] and at first they didn't even ask for an audience. They just"
+      ],
+      "cleanedWording": "[u1885 | 02:56:54.840-02:56:56.429 | DM] it took they were not",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "it took they were not"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1886",
+      "header": "[u1886 | 02:56:56.450-02:57:00.789 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1886 | 02:56:56.450-02:57:00.789 | DM] so forthcoming when did not come in a time of nearly so much trouble.",
+      "preparedContextBefore": [
+        "[u1884 | 02:56:43.210-02:56:52.259 | DM] Scholars seeking to make contact with us and bring exchange goods and information. Chardon",
+        "[u1885 | 02:56:54.840-02:56:56.429 | DM] it took they were not"
+      ],
+      "preparedContextAfter": [
+        "[u1887 | 02:57:01.500-02:57:05.759 | DM] and at first they didn't even ask for an audience. They just",
+        "[u1888 | 02:57:07.790-02:57:08.510 | DM] there"
+      ],
+      "cleanedWording": "[u1886 | 02:56:56.450-02:57:00.789 | DM] so forthcoming when did not come in a time of nearly so much trouble.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "so forthcoming when did not come in a time of nearly so much trouble."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1891",
+      "header": "[u1891 | 02:57:21.630-02:57:24.630 | DM]",
+      "importance": "incidental",
+      "reason": "Minor trade-goods detail; infiltration timeline and method remain explicit.",
+      "marked": true,
+      "preparedSourceQuotation": "[u1891 | 02:57:21.630-02:57:24.630 | DM] that mayor vices and",
+      "preparedContextBefore": [
+        "[u1889 | 02:57:10.140-02:57:15.780 | DM] came to the markets and trade in, and we left him in the gate, but not in the palace",
+        "[u1890 | 02:57:17.780-02:57:20.510 | DM] spent money freely right"
+      ],
+      "preparedContextAfter": [
+        "[u1892 | 02:57:24.640-02:57:29.389 | DM] solit, and many things that we have little of",
+        "[u1893 | 02:57:30.160-02:57:32.079 | DM] made themselves popular."
+      ],
+      "cleanedWording": "[u1891 | 02:57:21.630-02:57:24.630 | DM] [[that mayor vices]] and",
+      "cleanedUncertainSpans": [
+        "that mayor vices"
+      ],
+      "preparedIncidentalSpans": [],
+      "spanCount": 1,
+      "note": "Garbled description of traders' goods, possibly spices; do not invent exact commodity.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1941",
+      "header": "[u1941 | 03:02:26.330-03:02:27.870 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1941 | 03:02:26.330-03:02:27.870 | Seeker] and variously.",
+      "preparedContextBefore": [
+        "[u1939 | 03:02:19.990-03:02:21.849 | DM] So you take out the mirror.",
+        "[u1940 | 03:02:21.920-03:02:25.910 | Riswynn] Well, Wellbe goes into a dark room or something. Yes, yes."
+      ],
+      "preparedContextAfter": [
+        "[u1942 | 03:02:34.590-03:02:42.249 | DM] I mean so the Orc. Oh, this is notes from like years ago. Hold on a second",
+        "[u1943 | 03:02:42.450-03:02:43.120 | Unknown] Just"
+      ],
+      "cleanedWording": "[u1941 | 03:02:26.330-03:02:27.870 | Seeker] and variously.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "and variously."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1949",
+      "header": "[u1949 | 03:03:02.070-03:03:17.130 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1949 | 03:03:02.070-03:03:17.130 | Kenzo] you know what that's crazy is we're getting close to as long as we played like the original campaign. But yeah, like, at least the high school part. That's that one was 5, 2920, 20. So we are almost exactly 3 years. That's fucked up.",
+      "preparedContextBefore": [
+        "[u1947 | 03:02:52.210-03:02:54.859 | Kenzo] only shit like, 3 years. Yeah, yeah.",
+        "[u1948 | 03:02:55.240-03:03:00.829 | DM] yeah, we're almost not quite 3 years with session one."
+      ],
+      "preparedContextAfter": [
+        "[u1950 | 03:03:18.810-03:03:20.889 | Seeker] So we must have done that one shot. Then",
+        "[u1951 | 03:03:21.480-03:03:27.840 | DM] we did. That was like, maybe, yeah, because that was right. After, like, basically, right after Covid."
+      ],
+      "cleanedWording": "[u1949 | 03:03:02.070-03:03:17.130 | Kenzo] you know what that's crazy is we're getting close to as long as we played like the original campaign. But yeah, like, at least the high school part. That's that one was 5, 2920, 20. So we are almost exactly 3 years. That's fucked up.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "you know what that's crazy is we're getting close to as long as we played like the original campaign. But yeah, like, at least the high school part. That's that one was 5, 2920, 20. So we are almost exactly 3 years. That's fucked up."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1981",
+      "header": "[u1981 | 03:06:25.890-03:06:32.949 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1981 | 03:06:25.890-03:06:32.949 | Seeker] and you just randomly guessed the hobgo one's name, because, yeah, I rolled a 20 on my some check right?",
+      "preparedContextBefore": [
+        "[u1979 | 03:06:18.790-03:06:20.830 | DM] You didn't know the Orc's name.",
+        "[u1980 | 03:06:22.040-03:06:25.520 | DM] and now you are able to summon one by cell number 2,"
+      ],
+      "preparedContextAfter": [
+        "[u1982 | 03:06:34.220-03:06:37.690 | DM] right? So you've got",
+        "[u1983 | 03:06:37.760-03:06:46.640 | Delwath] the hop goblin, the Orc, and and a poison troll currently in there. There's got to be a way to use a poison troll against Cadbo here."
+      ],
+      "cleanedWording": "[u1981 | 03:06:25.890-03:06:32.949 | Seeker] and you just randomly guessed the hobgoblin's name, because, yeah, I rolled a 20 on my some check, right?",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "and you just randomly guessed the hobgo one's name, because, yeah, I rolled a 20 on my some check right?"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u1997",
+      "header": "[u1997 | 03:07:46.850-03:07:48.699 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u1997 | 03:07:46.850-03:07:48.699 | Kenzo] Oh, no, so sorry you had my.",
+      "preparedContextBefore": [
+        "[u1995 | 03:07:44.360-03:07:45.480 | Kenzo] I'm just thinking.",
+        "[u1996 | 03:07:45.790-03:07:46.730 | Delwath] yeah, go ahead."
+      ],
+      "preparedContextAfter": [
+        "[u1998 | 03:07:48.810-03:07:50.709 | Delwath] I was saying. I was just thinking like",
+        "[u1999 | 03:07:51.800-03:07:53.040 | Delwath] if the"
+      ],
+      "cleanedWording": "[u1997 | 03:07:46.850-03:07:48.699 | Kenzo] Oh, no, so sorry you had my.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Oh, no, so sorry you had my."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2019",
+      "header": "[u2019 | 03:09:50.090-03:09:51.819 | Wellby]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2019 | 03:09:50.090-03:09:51.819 | Wellby] The act is in the",
+      "preparedContextBefore": [
+        "[u2017 | 03:09:36.170-03:09:44.249 | Delwath] that I was wondering about an illusionary double. Oh, that's what I was going to say. can we put Lubash in the cloak, in the mirror, in the portable hole?",
+        "[u2018 | 03:09:46.950-03:09:49.890 | Wellby] The effect of the cloak would no longer."
+      ],
+      "preparedContextAfter": [
+        "[u2020 | 03:09:52.430-03:10:02.880 | Delwath] I mean, yeah, that's not. Gonna that's not a great idea, because then it works will just storm. It's on a different plane in it I can. Yes, I.",
+        "[u2021 | 03:10:03.490-03:10:08.269 | Wellby] Are there any secret passages like? Can we hide them in the Hidden room, or something"
+      ],
+      "cleanedWording": "[u2019 | 03:09:50.090-03:09:51.819 | Wellby] The act is in the",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "The act is in the"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2030",
+      "header": "[u2030 | 03:11:23.490-03:11:25.540 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2030 | 03:11:23.490-03:11:25.540 | Seeker] in the there. Yeah, I think.",
+      "preparedContextBefore": [
+        "[u2028 | 03:11:06.610-03:11:11.900 | Delwath] I like the red wedding idea, but, like open space, gives them",
+        "[u2029 | 03:11:14.100-03:11:22.330 | Kenzo] works to their advantage like casting with fireball and stuff like that works better in open space. They'll just toast all the archers right"
+      ],
+      "preparedContextAfter": [
+        "[u2031 | 03:11:25.750-03:11:31.690 | Delwath] like jammed up space where he where there's just not a lot of space. If he can't get off a fireball without",
+        "[u2032 | 03:11:32.030-03:11:33.240 | Delwath] King himself."
+      ],
+      "cleanedWording": "[u2030 | 03:11:23.490-03:11:25.540 | Seeker] in the there. Yeah, I think.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "in the there. Yeah, I think."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2040",
+      "header": "[u2040 | 03:12:22.510-03:12:25.089 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2040 | 03:12:22.510-03:12:25.089 | Delwath] that person. And then they regroup like",
+      "preparedContextBefore": [
+        "[u2038 | 03:12:08.590-03:12:15.290 | Delwath] and we ambush the invisible person and take them out or start to fight them.",
+        "[u2039 | 03:12:15.400-03:12:21.940 | Kenzo] The problem is well, okay, what happens? Presumably there's some sort of warning. They have the same telepathy thing we do or whatever"
+      ],
+      "preparedContextAfter": [
+        "[u2041 | 03:12:25.120-03:12:30.230 | Delwath] that takes away our. How do we get a surprise attack against Tadmos?",
+        "[u2042 | 03:12:30.730-03:12:41.450 | Kenzo] What we need is to is to like, take out the invisible person without them being aware that they're taken out. And then they're like, why is why and they are back yet. What's going on, what's going on? And that would be good. That's"
+      ],
+      "cleanedWording": "[u2040 | 03:12:22.510-03:12:25.089 | Delwath] that person. And then they regroup like",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "that person. And then they regroup like"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2045",
+      "header": "[u2045 | 03:12:48.530-03:12:49.380 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2045 | 03:12:48.530-03:12:49.380 | Kenzo] we what",
+      "preparedContextBefore": [
+        "[u2043 | 03:12:41.610-03:12:42.580 | Delwath] tough.",
+        "[u2044 | 03:12:44.030-03:12:47.420 | Seeker] We're making out the solutions here, which is great for Tim."
+      ],
+      "preparedContextAfter": [
+        "[u2046 | 03:12:49.600-03:12:52.229 | Seeker] we're making a lot of assumptions here which is great for kin.",
+        "[u2047 | 03:12:53.600-03:13:04.399 | DM] like, not like. I want you to finish your planning so we can start next session without you planning. And"
+      ],
+      "cleanedWording": "[u2045 | 03:12:48.530-03:12:49.380 | Kenzo] we what",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "we what"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2051",
+      "header": "[u2051 | 03:13:19.000-03:13:21.540 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2051 | 03:13:19.000-03:13:21.540 | Kenzo] you don't know what or anything.",
+      "preparedContextBefore": [
+        "[u2049 | 03:13:07.700-03:13:13.960 | Kenzo] Okay, well, I like the idea of of like putting a bunch of traps in each of these rooms. Yeah.",
+        "[u2050 | 03:13:15.450-03:13:18.660 | Seeker] And so for as many contingencies as possible. But"
+      ],
+      "preparedContextAfter": [
+        "[u2052 | 03:13:22.660-03:13:28.880 | Kenzo] Is there something that we can? Oh, oh, what if! What if? What if can we do the how quickly can you do the wall thing.",
+        "[u2053 | 03:13:30.460-03:13:33.239 | Kenzo] It's like it's like, after you cast it. The walls just like spring up."
+      ],
+      "cleanedWording": "[u2051 | 03:13:19.000-03:13:21.540 | Kenzo] you don't know what or anything.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "you don't know what or anything."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2138",
+      "header": "[u2138 | 03:20:51.460-03:20:53.750 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2138 | 03:20:51.460-03:20:53.750 | Delwath] Shields to garden area.",
+      "preparedContextBefore": [
+        "[u2136 | 03:20:44.100-03:20:44.820 | Seeker] right?",
+        "[u2137 | 03:20:49.000-03:20:51.209 | Kenzo] I can ask my links"
+      ],
+      "preparedContextAfter": [
+        "[u2139 | 03:20:54.000-03:20:58.359 | Delwath] and that'll alarm if anybody enters the area, whether they're invisible or not.",
+        "[u2140 | 03:20:58.470-03:21:07.649 | Kenzo] Oh, that's awesome, is it a loud alarm, or just like to you either way. Oh, I know it. Wow! Wait! Can it? Is it like the spell, or does it? Only me. I don't remember"
+      ],
+      "cleanedWording": "[u2138 | 03:20:51.460-03:20:53.750 | Delwath] shields to guard an area,",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Shields to garden area."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2177",
+      "header": "[u2177 | 03:24:38.020-03:24:38.820 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2177 | 03:24:38.020-03:24:38.820 | DM] at.",
+      "preparedContextBefore": [
+        "[u2175 | 03:24:25.780-03:24:33.059 | Kenzo] wait, do we? And do we understand it? Because, because, yeah. So Dallas picks up midstream? She, you know the Orc is sort of babbling about.",
+        "[u2176 | 03:24:33.220-03:24:37.580 | DM] a Goth is"
+      ],
+      "preparedContextAfter": [
+        "[u2178 | 03:24:40.230-03:24:43.070 | DM] I won't. I won't tell her. But",
+        "[u2179 | 03:24:43.550-03:24:48.419 | DM] I I I I didn't tell her anything."
+      ],
+      "cleanedWording": "[u2177 | 03:24:38.020-03:24:38.820 | DM] at.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "at."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2190",
+      "header": "[u2190 | 03:25:31.540-03:25:33.189 | Delwath]",
+      "importance": "incidental",
+      "reason": "Restored garbled original interruption; no substantive decision is recoverable or needed from this interruption.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2190 | 03:25:31.540-03:25:33.189 | Delwath] But some what's our only cert.",
+      "preparedContextBefore": [
+        "[u2188 | 03:25:21.820-03:25:26.799 | DM] I don't think she's in any condition to fight, but she is one of my people.",
+        "[u2189 | 03:25:27.140-03:25:31.450 | Wellby] Oh. oh, yeah, we can definitely get her out. Yeah, absolutely."
+      ],
+      "preparedContextAfter": [
+        "[u2191 | 03:25:34.780-03:25:45.480 | Kenzo] she's behind the right boat. Children. people. The remember. Yeah, she was the clue planted, like, you know, years ago, for you to find and learn about the Orcs. And you just ignored.",
+        "[u2192 | 03:25:45.720-03:25:48.069 | Seeker] no, that's amazing."
+      ],
+      "cleanedWording": "[u2190 | 03:25:31.540-03:25:33.189 | Delwath] But some what's our only cert.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "But some what's our only cert."
+      ],
+      "spanCount": 1,
+      "note": "Restored garbled original interruption; no substantive decision is recoverable or needed from this interruption.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2210",
+      "header": "[u2210 | 03:27:20.440-03:27:24.169 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2210 | 03:27:20.440-03:27:24.169 | DM] she was.",
+      "preparedContextBefore": [
+        "[u2208 | 03:27:10.110-03:27:14.509 | DM] I was in my father's mother's time",
+        "[u2209 | 03:27:15.530-03:27:16.640 | DM] as chief"
+      ],
+      "preparedContextAfter": [
+        "[u2211 | 03:27:26.530-03:27:29.050 | DM] So that you're okay, Miss Tesla.",
+        "[u2212 | 03:27:30.070-03:27:31.110 | DM] You're safe."
+      ],
+      "cleanedWording": "[u2210 | 03:27:20.440-03:27:24.169 | DM] she was.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "she was."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2283",
+      "header": "[u2283 | 03:33:48.380-03:33:49.500 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2283 | 03:33:48.380-03:33:49.500 | Kenzo] that mirrors?",
+      "preparedContextBefore": [
+        "[u2281 | 03:33:42.500-03:33:44.610 | Kenzo] at least a room full of mirrors.",
+        "[u2282 | 03:33:46.390-03:33:47.920 | Seeker] Where do we get these mirrors"
+      ],
+      "preparedContextAfter": [
+        "[u2284 | 03:33:50.010-03:33:55.139 | DM] I mean, this is a city of 1,500 people. I'm sure there are mirrors. If you ask.",
+        "[u2285 | 03:33:55.210-03:34:05.529 | Kenzo] Okay, let's assume that mirrors. But but we know. But we'll be mirror trap. And we also put like the fucking trapping mirrors that anybody that goes in that room right? This will be later, right? Like the invisible Hasted people are going to be"
+      ],
+      "cleanedWording": "[u2283 | 03:33:48.380-03:33:49.500 | Kenzo] that mirrors?",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "that mirrors?"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2307",
+      "header": "[u2307 | 03:35:46.810-03:35:55.670 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2307 | 03:35:46.810-03:35:55.670 | Delwath] why doesn't he have a secret room off of his bedroom? Kings should have secret rooms off their but it's just really about, because it's secret. Right there you go.",
+      "preparedContextBefore": [
+        "[u2305 | 03:35:34.220-03:35:38.249 | Delwath] that's a tricky one, because it can't be so. You can't be lying in bad right.",
+        "[u2306 | 03:35:39.510-03:35:45.980 | Delwath] but it also can't be so far away that if the trap doesn't work they just go get him. If they can figure it out right like."
+      ],
+      "preparedContextAfter": [
+        "[u2308 | 03:35:55.960-03:36:10.709 | Kenzo] He's he's not a strategic ruler. If he doesn't have a secret escape way out of his room has to have a ski, Tim. This is, I mean, and they've been here for fucking forever. You know they they must. They must. There must be a little set of set of neat little underground tunnels and shit. You know.",
+        "[u2309 | 03:36:10.750-03:36:13.010 | Kenzo] basic. This is like palace in tree, one on one"
+      ],
+      "cleanedWording": "[u2307 | 03:35:46.810-03:35:55.670 | Delwath] why doesn't he have a secret room off of his bedroom? Kings should have secret rooms off their- but it's just really about- because it's secret. Right, there you go.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "why doesn't he have a secret room off of his bedroom? Kings should have secret rooms off their but it's just really about, because it's secret. Right there you go."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2325",
+      "header": "[u2325 | 03:37:34.320-03:37:37.339 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear map/escape-route aside, unmarked and preserved.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2325 | 03:37:34.320-03:37:37.339 | Kenzo] Billy Nick learns an escape route from the palace.",
+      "preparedContextBefore": [
+        "[u2323 | 03:37:20.770-03:37:23.660 | DM] Well, you have to go down here.",
+        "[u2324 | 03:37:23.990-03:37:34.199 | DM] and then through the hallway, and then through the garden into the stair. There's not like a direct passage from there's not a secret passage from the bedroom."
+      ],
+      "preparedContextAfter": [
+        "[u2326 | 03:37:37.540-03:37:40.870 | Kenzo] Can we make one? Is it hard to mold earth like a tunnel",
+        "[u2327 | 03:37:41.960-03:37:45.999 | Kenzo] seeker a tunnel? Through what though the ground underground."
+      ],
+      "cleanedWording": "[u2325 | 03:37:34.320-03:37:37.339 | Kenzo] Billy Nick learns an escape route from the palace.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Billy Nick learns an escape route from the palace."
+      ],
+      "spanCount": 1,
+      "note": "Unclear map/escape-route aside, unmarked and preserved.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2332",
+      "header": "[u2332 | 03:38:10.190-03:38:11.230 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2332 | 03:38:10.190-03:38:11.230 | Kenzo] black.",
+      "preparedContextBefore": [
+        "[u2330 | 03:38:01.220-03:38:03.270 | DM] This is like, open.",
+        "[u2331 | 03:38:05.540-03:38:07.230 | Kenzo] oh."
+      ],
+      "preparedContextAfter": [
+        "[u2333 | 03:38:15.430-03:38:17.660 | Kenzo] can we? So can we stash libos?",
+        "[u2334 | 03:38:19.590-03:38:24.059 | Kenzo] It' be so nice if we were just he was just away, you know, or just like, in the tunnel system."
+      ],
+      "cleanedWording": "[u2332 | 03:38:10.190-03:38:11.230 | Kenzo] black.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "black."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2340",
+      "header": "[u2340 | 03:38:59.490-03:39:01.100 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear aside, unmarked and preserved.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2340 | 03:38:59.490-03:39:01.100 | Kenzo] undergrad and the great",
+      "preparedContextBefore": [
+        "[u2338 | 03:38:45.480-03:38:54.130 | Wellby] Yeah. But if they have a way of tracking. I mean, this is just speculation, and if they have a way of tracking the actual cloak somehow.",
+        "[u2339 | 03:38:56.670-03:38:59.370 | Wellby] you know, do we want it close to the decoy"
+      ],
+      "preparedContextAfter": [
+        "[u2341 | 03:39:04.230-03:39:06.340 | Delwath] locate object, for example.",
+        "[u2342 | 03:39:07.030-03:39:09.990 | DM] Yeah, that has a range of a thousand feet. So."
+      ],
+      "cleanedWording": "[u2340 | 03:38:59.490-03:39:01.100 | Kenzo] undergrad and the great",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "undergrad and the great"
+      ],
+      "spanCount": 1,
+      "note": "Unclear aside, unmarked and preserved.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2371",
+      "header": "[u2371 | 03:42:00.880-03:42:12.560 | DM]",
+      "importance": "incidental",
+      "reason": "Garbled lead-in incidental to clearly restated final storage decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2371 | 03:42:00.880-03:42:12.560 | DM] and he's not optimized to prevent magical stack, because the idea is like, how would our mit even our last decision? Our last decision for the night, is, where is the actual cloak going to be? And where is actual? We don't change.",
+      "preparedContextBefore": [
+        "[u2369 | 03:41:45.530-03:41:52.740 | DM] it's not like there's no guards around right like. There's probably always 2 guards stationed in front of his door, right?",
+        "[u2370 | 03:41:54.590-03:42:00.259 | Kenzo] It just not like they're just not expecting magical theft right."
+      ],
+      "preparedContextAfter": [
+        "[u2372 | 03:42:12.660-03:42:15.519 | Kenzo] Yeah, I know the fucker those gonna be. If we're all going to be up here.",
+        "[u2373 | 03:42:15.610-03:42:18.920 | Kenzo] being all trappy. Where the fuck are those where we put in them."
+      ],
+      "cleanedWording": "[u2371 | 03:42:00.880-03:42:12.560 | DM] and he's not optimized to prevent magical theft because the idea is like- how would our mit even- our last decision, our last decision for the night is where is the actual cloak going to be? And where is actual- we don't change,",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "and he's not optimized to prevent magical stack, because the idea is like, how would our mit even our last decision? Our last decision for the night, is, where is the actual cloak going to be? And where is actual? We don't change."
+      ],
+      "spanCount": 1,
+      "note": "Garbled lead-in incidental to clearly restated final storage decision.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2373",
+      "header": "[u2373 | 03:42:15.610-03:42:18.920 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2373 | 03:42:15.610-03:42:18.920 | Kenzo] being all trappy. Where the fuck are those where we put in them.",
+      "preparedContextBefore": [
+        "[u2371 | 03:42:00.880-03:42:12.560 | DM] and he's not optimized to prevent magical stack, because the idea is like, how would our mit even our last decision? Our last decision for the night, is, where is the actual cloak going to be? And where is actual? We don't change.",
+        "[u2372 | 03:42:12.660-03:42:15.519 | Kenzo] Yeah, I know the fucker those gonna be. If we're all going to be up here."
+      ],
+      "preparedContextAfter": [
+        "[u2374 | 03:42:20.590-03:42:22.100 | Kenzo] This must be designed.",
+        "[u2375 | 03:42:29.220-03:42:29.940 | Wellby] You"
+      ],
+      "cleanedWording": "[u2373 | 03:42:15.610-03:42:18.920 | Kenzo] being all trappy. Where the fuck are those where we put in them.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "being all trappy. Where the fuck are those where we put in them."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2394",
+      "header": "[u2394 | 03:43:58.050-03:44:02.099 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2394 | 03:43:58.050-03:44:02.099 | DM] you probably need. This would be a little tricky, because this is an entirely.",
+      "preparedContextBefore": [
+        "[u2392 | 03:43:47.270-03:43:48.389 | Delwath] that would be perfect.",
+        "[u2393 | 03:43:48.440-03:43:56.530 | DM] That's only like, I mean, this is, this is not like entirely"
+      ],
+      "preparedContextAfter": [
+        "[u2395 | 03:44:04.530-03:44:06.709 | Kenzo] We have 2 dwarfs, and they're so skilled.",
+        "[u2396 | 03:44:06.720-03:44:10.279 | Kenzo] It's not entirely like open"
+      ],
+      "cleanedWording": "[u2394 | 03:43:58.050-03:44:02.099 | DM] you probably need. This would be a little tricky, because this is an entirely.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "you probably need. This would be a little tricky, because this is an entirely."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2401",
+      "header": "[u2401 | 03:44:38.870-03:44:41.280 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2401 | 03:44:38.870-03:44:41.280 | Kenzo] Like, I'm trying to imagine how the N. 2 dwarfs.",
+      "preparedContextBefore": [
+        "[u2399 | 03:44:24.390-03:44:26.430 | Riswynn] Yeah, there's like architecture.",
+        "[u2400 | 03:44:26.490-03:44:37.720 | DM] right? So you'd have to go like, I mean. So it's quite tricky to build a secret passage from the second floor to somewhere else, right?"
+      ],
+      "preparedContextAfter": [
+        "[u2402 | 03:44:42.880-03:44:43.850 | Kenzo] Rossum.",
+        "[u2403 | 03:44:44.710-03:44:49.590 | Riswynn] the secret stairwell, then to the garden. What about just what is what's underneath his bedroom?"
+      ],
+      "cleanedWording": "[u2401 | 03:44:38.870-03:44:41.280 | Kenzo] Like, I'm trying to imagine how the N. 2 dwarfs.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Like, I'm trying to imagine how the N. 2 dwarfs."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2413",
+      "header": "[u2413 | 03:45:37.640-03:45:49.739 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2413 | 03:45:37.640-03:45:49.739 | DM] So actually, I think these wait, let me hold on. Hold on! If it's if it's just above and there's nothing below it, then that's even better. We fucking build wall fucking. Do? Wall, earth shit like right underneath it.",
+      "preparedContextBefore": [
+        "[u2411 | 03:45:21.660-03:45:30.680 | Delwath] look, it's like, but I I make gardens, and I try to avoid putting big tones on top of my buildings on top.",
+        "[u2412 | 03:45:30.900-03:45:36.099 | Delwath] It's an it's an underground garden like an underground garage, but for plans."
+      ],
+      "preparedContextAfter": [
+        "[u2414 | 03:45:52.500-03:46:00.089 | Riswynn] This, the haste we built earth wall by the palace that wasn't there before won't be",
+        "[u2415 | 03:46:01.440-03:46:02.490 | Riswynn] okay"
+      ],
+      "cleanedWording": "[u2413 | 03:45:37.640-03:45:49.739 | DM] So actually, I think these wait, let me hold on. Hold on! If it's if it's just above and there's nothing below it, then that's even better. We fucking build wall fucking. Do? Wall, earth shit like right underneath it.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "So actually, I think these wait, let me hold on. Hold on! If it's if it's just above and there's nothing below it, then that's even better. We fucking build wall fucking. Do? Wall, earth shit like right underneath it."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2414",
+      "header": "[u2414 | 03:45:52.500-03:46:00.089 | Riswynn]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2414 | 03:45:52.500-03:46:00.089 | Riswynn] This, the haste we built earth wall by the palace that wasn't there before won't be",
+      "preparedContextBefore": [
+        "[u2412 | 03:45:30.900-03:45:36.099 | Delwath] It's an it's an underground garden like an underground garage, but for plans.",
+        "[u2413 | 03:45:37.640-03:45:49.739 | DM] So actually, I think these wait, let me hold on. Hold on! If it's if it's just above and there's nothing below it, then that's even better. We fucking build wall fucking. Do? Wall, earth shit like right underneath it."
+      ],
+      "preparedContextAfter": [
+        "[u2415 | 03:46:01.440-03:46:02.490 | Riswynn] okay",
+        "[u2416 | 03:46:02.870-03:46:03.580 | Unknown] if"
+      ],
+      "cleanedWording": "[u2414 | 03:45:52.500-03:46:00.089 | Riswynn] This hastily built earth wall by the palace that wasn't there before won't be,",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "This, the haste we built earth wall by the palace that wasn't there before won't be"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2420",
+      "header": "[u2420 | 03:46:38.890-03:46:52.290 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2420 | 03:46:38.890-03:46:52.290 | Kenzo] just to move it out of out of, out of the state of place, so we can have a whole fight there and not worry about it where it is, and that's what that's when, if they can take it and fucking run with Lubos and it and be there at all. Yeah, why don't we just put it somewhere totally else?",
+      "preparedContextBefore": [
+        "[u2418 | 03:46:26.450-03:46:30.780 | Delwath] I don't think we can afford to have rounds wasted getting it out of places.",
+        "[u2419 | 03:46:31.070-03:46:35.939 | Kenzo] Well, we but we could get some of their motherfuckers to go, you know, like, go and move it."
+      ],
+      "preparedContextAfter": [
+        "[u2421 | 03:46:52.300-03:46:57.969 | Seeker] If it disappears today, it's your friendship from censoring view. Like, if",
+        "[u2422 | 03:46:58.310-03:47:10.459 | Riswynn] if they can't do locate object whenever they get in range of the entire yeah region, because it's just not locate objectable. They'll just have to come up with a new plan. Yeah, like"
+      ],
+      "cleanedWording": "[u2420 | 03:46:38.890-03:46:52.290 | Kenzo] just to move it out of out of out of the place so we can have a whole fight there and not worry about where it is. And that's- that's when- they can take it and fucking run with Lubash and it and be there at all. Yeah, why don't we just put it somewhere totally else?",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "just to move it out of out of, out of the state of place, so we can have a whole fight there and not worry about it where it is, and that's what that's when, if they can take it and fucking run with Lubos and it and be there at all. Yeah, why don't we just put it somewhere totally else?"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2431",
+      "header": "[u2431 | 03:48:04.480-03:48:20.049 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2431 | 03:48:04.480-03:48:20.049 | Kenzo] forbidden the palace, we're gonna we're gonna have to. I mean, if they that that actually is a good reason why they would. They would put it in an iron like a a fucking box, and like make it more. Because if we leave. Then it's like, Oh, f day, you know, or we tried to steal it. And we",
+      "preparedContextBefore": [
+        "[u2429 | 03:47:55.840-03:47:57.559 | Riswynn] and hoping to destroy us",
+        "[u2430 | 03:48:01.350-03:48:02.740 | Kenzo] after I"
+      ],
+      "preparedContextAfter": [
+        "[u2432 | 03:48:20.080-03:48:23.670 | Delwath] told them, right. we we",
+        "[u2433 | 03:48:23.910-03:48:27.450 | Riswynn] yeah, we actually object with our magic."
+      ],
+      "cleanedWording": "[u2431 | 03:48:04.480-03:48:20.049 | Kenzo] Forbiddance the palace, we're gonna- we're gonna have to. I mean, if they- that that actually is a good reason why they would- they would put it in an iron- like a a fucking box, and like make it more- because if we leave, then it's like, oh, if they, you know, or we tried to steal it, and we,",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "forbidden the palace, we're gonna we're gonna have to. I mean, if they that that actually is a good reason why they would. They would put it in an iron like a a fucking box, and like make it more. Because if we leave. Then it's like, Oh, f day, you know, or we tried to steal it. And we"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2436",
+      "header": "[u2436 | 03:48:40.780-03:48:48.969 | Delwath]",
+      "importance": "incidental",
+      "reason": "Lead-in unclear; following mirror-position suggestion and ultimate location decision are clear elsewhere. Incidental.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2436 | 03:48:40.780-03:48:48.969 | Delwath] Can you just trap the work? We need them to go to the bedroom we now what about the mirror image? If they went to the other direct another place it would be fine.",
+      "preparedContextBefore": [
+        "[u2434 | 03:48:27.690-03:48:35.000 | Delwath] or I can sense it anywhere. And I mean, maybe we should have him go on the other. What about the other side?",
+        "[u2435 | 03:48:35.780-03:48:39.560 | Delwath] So like I wait. Do you have the other map?"
+      ],
+      "preparedContextAfter": [
+        "[u2437 | 03:48:52.310-03:48:54.840 | Kenzo] but I don't understand. How. Why would they go there?",
+        "[u2438 | 03:48:57.270-03:48:58.050 | Delwath] I"
+      ],
+      "cleanedWording": "[u2436 | 03:48:40.780-03:48:48.969 | Delwath] Can you just trap the work? We need them to go to the bedroom. We- now what about the mirror image? If they went to the other direction, another place, it would be fine.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Can you just trap the work? We need them to go to the bedroom we now what about the mirror image? If they went to the other direct another place it would be fine."
+      ],
+      "spanCount": 1,
+      "note": "Lead-in unclear; following mirror-position suggestion and ultimate location decision are clear elsewhere. Incidental.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2445",
+      "header": "[u2445 | 03:49:54.250-03:50:06.120 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2445 | 03:49:54.250-03:50:06.120 | DM] I don't. I would just pretend that this actually killing suspension or disbelief moving around. There aren't really gardens probably is more like, you know, indoor plants. It's fine. They're they're undead plants.",
+      "preparedContextBefore": [
+        "[u2443 | 03:49:42.350-03:49:45.099 | DM] and the throne room is above it. But there's like",
+        "[u2444 | 03:49:45.550-03:49:53.410 | Delwath] this. These are giant archways where light is shining through right. And so it's it's almost like cathedral. Ask right?"
+      ],
+      "preparedContextAfter": [
+        "[u2446 | 03:50:06.760-03:50:11.840 | Riswynn] Let's go back to our conversation that we got to finish this and go to bed. Yeah, we gotta go to bed.",
+        "[u2447 | 03:50:12.470-03:50:16.560 | Kenzo] So where the fuck are we? The thing is, if we disappear."
+      ],
+      "cleanedWording": "[u2445 | 03:49:54.250-03:50:06.120 | DM] I don't- I would just pretend that this- actually killing suspension of disbelief moving around. There aren't really gardens probably, it's more like, you know, indoor plants. It's fine. They're they're undead plants.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "I don't. I would just pretend that this actually killing suspension or disbelief moving around. There aren't really gardens probably is more like, you know, indoor plants. It's fine. They're they're undead plants."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2465",
+      "header": "[u2465 | 03:51:59.050-03:52:04.329 | Delwath]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2465 | 03:51:59.050-03:52:04.329 | Delwath] Yeah, we're calling that. Yeah. that's what I was thinking right? And then, if he can.",
+      "preparedContextBefore": [
+        "[u2463 | 03:51:39.730-03:51:56.920 | Kenzo] we really want him to be somewhere where he can escape from totally the the the underground fucking tunnel thing. I think he needs to be like. We need to make a little tunnel that connects to the existing underground tunnel, and then he can be in there like below us. I mean, you can make a trap door that drops into this",
+        "[u2464 | 03:51:57.450-03:51:58.500 | DM] this."
+      ],
+      "preparedContextAfter": [
+        "[u2466 | 03:52:04.700-03:52:09.119 | Delwath] if he can, be beneath us right in the tunnel.",
+        "[u2467 | 03:52:09.290-03:52:13.080 | Kenzo] perfect with some of his guards. Exactly."
+      ],
+      "cleanedWording": "[u2465 | 03:51:59.050-03:52:04.329 | Delwath] Yeah, we're calling that. Yeah. that's what I was thinking right? And then, if he can.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Yeah, we're calling that. Yeah. that's what I was thinking right? And then, if he can."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2488",
+      "header": "[u2488 | 03:53:47.020-03:53:49.250 | Seeker]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2488 | 03:53:47.020-03:53:49.250 | Seeker] just like in our. We're we'rew through.",
+      "preparedContextBefore": [
+        "[u2486 | 03:53:35.910-03:53:43.460 | DM] basically right by the walls, and you can the city walls right? So it exits from the palace and comes out",
+        "[u2487 | 03:53:44.610-03:53:46.930 | DM] just outside the city walls."
+      ],
+      "preparedContextAfter": [
+        "[u2489 | 03:53:50.840-03:53:55.750 | DM] Yeah, although actually, I think this one would exit just inside the city walls. But at a place where there's a",
+        "[u2490 | 03:53:56.080-03:53:58.190 | Seeker] door in the wall."
+      ],
+      "cleanedWording": "[u2488 | 03:53:47.020-03:53:49.250 | Seeker] just like in our- where we were through.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "just like in our. We're we'rew through."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2506",
+      "header": "[u2506 | 03:55:17.760-03:55:21.900 | DM]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2506 | 03:55:17.760-03:55:21.900 | DM] It's not your always situation. People are ever to be contributing.",
+      "preparedContextBefore": [
+        "[u2504 | 03:55:11.390-03:55:13.910 | Kenzo] dull, it deception, probably.",
+        "[u2505 | 03:55:14.220-03:55:17.619 | Delwath] Yes, deception, but I don't want to roll, because I wrote it too."
+      ],
+      "preparedContextAfter": [
+        "[u2507 | 03:55:23.210-03:55:24.540 | Delwath] Well, that's better.",
+        "[u2508 | 03:55:24.870-03:55:29.109 | Delwath] It was not better and was inspiration. I rolled a 2 and a one."
+      ],
+      "cleanedWording": "[u2506 | 03:55:17.760-03:55:21.900 | DM] It's not your only situation. Other people are able to be contributing.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "It's not your always situation. People are ever to be contributing."
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2515",
+      "header": "[u2515 | 03:55:48.360-03:55:56.249 | Delwath]",
+      "importance": "incidental",
+      "reason": "Roll command/channel chatter, no unique roll outcome depends on it.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2515 | 03:55:48.360-03:55:56.249 | Delwath] Did that? That represents all of you out way. I put the ha guess what doesn't know how to do role wrong chat.",
+      "preparedContextBefore": [
+        "[u2513 | 03:55:43.130-03:55:44.810 | Seeker] I think. Isn't it just Dylan?",
+        "[u2514 | 03:55:45.300-03:55:47.700 | DM] Just down with a roll of advantage."
+      ],
+      "preparedContextAfter": [
+        "[u2516 | 03:55:56.780-03:55:59.089 | DM] and you can throw in guidance there, too.",
+        "[u2517 | 03:56:00.650-03:56:03.170 | DM] I've rolled twice and take the higher one for"
+      ],
+      "cleanedWording": "[u2515 | 03:55:48.360-03:55:56.249 | Delwath] Did that. That represents all of you- oh wait. I put the ha guess what doesn't know how to do roll, wrong chat.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "Did that? That represents all of you out way. I put the ha guess what doesn't know how to do role wrong chat."
+      ],
+      "spanCount": 1,
+      "note": "Roll command/channel chatter, no unique roll outcome depends on it.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2528",
+      "header": "[u2528 | 03:56:48.370-03:56:56.069 | Riswynn]",
+      "importance": "incidental",
+      "reason": "Side question during resolved roll discussion; no unique outcome depends on it.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2528 | 03:56:48.370-03:56:56.069 | Riswynn] doing I since I don't have the spell. I have no idea how much what I would need to roll, for I have a plus 5 deceptions to wake up.",
+      "preparedContextBefore": [
+        "[u2526 | 03:56:36.790-03:56:44.590 | Delwath] No, that just just came. I don't know why it came through weirdly. It every time I rolled it came through 3 times",
+        "[u2527 | 03:56:44.930-03:56:48.250 | Delwath] 7, 7, 7, 6, 6, 6"
+      ],
+      "preparedContextAfter": [
+        "[u2529 | 03:56:56.590-03:57:00.239 | Delwath] Yeah. Kenzo should have rolled because he's actually proficient inception.",
+        "[u2530 | 03:57:01.410-03:57:02.380 | Kenzo] and I roll."
+      ],
+      "cleanedWording": "[u2528 | 03:56:48.370-03:56:56.069 | Riswynn] doing I since I don't have the spell. I have no idea how much what I would need to roll, for I have a plus 5 Deception too, like,",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "doing I since I don't have the spell. I have no idea how much what I would need to roll, for I have a plus 5 deceptions to wake up."
+      ],
+      "spanCount": 1,
+      "note": "Side question during resolved roll discussion; no unique outcome depends on it.",
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2532",
+      "header": "[u2532 | 03:57:05.000-03:57:08.160 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Unclear table chatter, aside, map/technical discussion, or aborted wording; surrounding exchange supplies the relevant action or decision.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2532 | 03:57:05.000-03:57:08.160 | Kenzo] I thought I was. I was rolling it by, and you can roll",
+      "preparedContextBefore": [
+        "[u2530 | 03:57:01.410-03:57:02.380 | Kenzo] and I roll.",
+        "[u2531 | 03:57:02.700-03:57:04.939 | Riswynn] We kept trying to say that"
+      ],
+      "preparedContextAfter": [
+        "[u2533 | 03:57:08.400-03:57:09.800 | DM] just one role.",
+        "[u2534 | 03:57:09.940-03:57:12.040 | Kenzo] I already did 17 there."
+      ],
+      "cleanedWording": "[u2532 | 03:57:05.000-03:57:08.160 | Kenzo] I thought I was. I was rolling it by, and you can roll",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "I thought I was. I was rolling it by, and you can roll"
+      ],
+      "spanCount": 1,
+      "note": null,
+      "humanAcceptance": false
+    },
+    {
+      "uid": "u2545",
+      "header": "[u2545 | 03:58:15.790-03:58:19.869 | Kenzo]",
+      "importance": "incidental",
+      "reason": "Closing reaction to rolls, incidental, retained without an uncertainty marker.",
+      "marked": false,
+      "preparedSourceQuotation": "[u2545 | 03:58:15.790-03:58:19.869 | Kenzo] all right. All right. I'm I'm I'm great in debt.",
+      "preparedContextBefore": [
+        "[u2543 | 03:58:06.570-03:58:10.270 | Riswynn] to buy 17 eat?",
+        "[u2544 | 03:58:10.820-03:58:15.629 | DM] yeah. But both Dallas and ken, so have rules to play here, so we'll see those"
+      ],
+      "preparedContextAfter": [
+        "[u2546 | 03:58:20.300-03:58:24.309 | DM] so let me just hold on. Let me just double check here. So",
+        "[u2547 | 03:58:27.210-03:58:32.520 | Unknown] I'm I'm just going to basically fold all of the next day into"
+      ],
+      "cleanedWording": "[u2545 | 03:58:15.790-03:58:19.869 | Kenzo] all right. All right. I'm I'm I'm great in debt.",
+      "cleanedUncertainSpans": [],
+      "preparedIncidentalSpans": [
+        "all right. All right. I'm I'm I'm great in debt."
+      ],
+      "spanCount": 1,
+      "note": "Closing reaction to rolls, incidental, retained without an uncertainty marker.",
+      "humanAcceptance": false
+    }
+  ]
+}

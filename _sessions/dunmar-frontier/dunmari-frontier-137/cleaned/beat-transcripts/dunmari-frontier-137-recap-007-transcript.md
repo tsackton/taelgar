@@ -752,7 +752,7 @@ DM: The nodule or this thing?
 Delwath: Yeah, the nodule. We probably have to find the nodule.
 
 %% u5812 %%
-Wellby: [coughs] Can [[Arrow]] discover the nodule?
+Wellby: [coughs] Can {{Arrow}} discover the nodule?
 
 %% u5813-u5815 %%
 DM: Okay. I think we should stop here though, because it's 4:15. We could take a few minutes to do a little bit of dinner prep and then go see the sunset.

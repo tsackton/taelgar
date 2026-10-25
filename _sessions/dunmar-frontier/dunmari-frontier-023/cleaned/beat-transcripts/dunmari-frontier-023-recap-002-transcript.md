@@ -149,7 +149,7 @@ Kenzo: Wellby, do you mind if I keep the diary?
 Wellby: Please.
 
 %% u0504-u0505 %%
-Kenzo: [[Turn this to follow and bubbling]].
+Kenzo: {{Turn this to follow and bubbling}}.
 
 %% u0506 %%
 Seeker: Over us.
@@ -449,7 +449,7 @@ DM: It's abjuration.
 Kenzo: Really fucking weird and creepy that I would take a picture and ten years later—I wonder if that's happening now. I'm taking pictures of myself that are going to end up in a game I play in years from now. Definitely that.
 
 %% u0665 %%
-DM: The one you and [[towards]] took in the redwoods.
+DM: The one you and {{towards}} took in the redwoods.
 
 %% u0666-u0667 %%
 Kenzo: Oh yes, you're right. But this is weird.
@@ -554,7 +554,7 @@ DM: The foaling season, when the horse foals are born. And there's a collection 
 Seeker: This is amazing, Tim.
 
 %% u0726-u0727 %%
-Kenzo: At some point, there should be something like this, except even more massive, and we do see ourselves. And there's all these different versions of which path we choose, like the one where Kenzo falls off the [[question]] and is impaled by spears, the one that—
+Kenzo: At some point, there should be something like this, except even more massive, and we do see ourselves. And there's all these different versions of which path we choose, like the one where Kenzo falls off the {{question}} and is impaled by spears, the one that—
 
 %% u0728 %%
 Wellby: Kenzo dies in so many of them.
@@ -662,7 +662,7 @@ Kenzo: The symbol of Bhishma.
 DM: As you do that, the one in the front, who said, "This tower is protected," steps back. And he is speaking in Dunmari, and he says, voice shaking, slightly confused, "Brother?"
 
 %% u0795-u0798 %%
-Kenzo: Kenzo, because this is protected, gets down on one knee and does a swirling motion and then [[the fixes rollover rippling and talk aside]]. And then he's kneeling on one knee, looking—"My brother." And Kenzo stands and looks at him and says, "Brother, we've returned."
+Kenzo: Kenzo, because this is protected, gets down on one knee and does a swirling motion and then {{the fixes rollover rippling and talk aside}}. And then he's kneeling on one knee, looking—"My brother." And Kenzo stands and looks at him and says, "Brother, we've returned."
 
 %% u0799 %%
 DM: What is your purpose here?
@@ -674,7 +674,7 @@ Kenzo: We seek knowledge. We seek to understand what happened thirty years ago.
 DM: The one who's standing in front looks at his companions, and he says, "We will let you pass. I hope what you seek is within. Please be quick. The orcs cannot see."
 
 %% u0808-u0811 %%
-Kenzo: We've slain the orcs that were here [[to do right to boost our returns]]. I'm Kenzo. Kenzo of Chardon, of the Lakan Mystai in addition. And my companions—
+Kenzo: We've slain the orcs that were here {{to do right to boost our returns}}. I'm Kenzo. Kenzo of Chardon, of the Lakan Mystai in addition. And my companions—
 
 %% u0812-u0813 %%
 DM: "We no longer remember our names." He bows his head, but then they all turn aside to let you pass.

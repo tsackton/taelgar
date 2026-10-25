@@ -59,13 +59,13 @@ Kenzo: I remember our thinking. Basically, at this point we were realizing that 
 Kenzo: But on the way back to Karawa, we were like, ‘Oh, since we're so close to Kharsan, we're just going to swing by it, but not go in.’ We were gonna send a hawk or something and go scout it, right? We're gonna have Wellby send—just how you scouted this whole fucking area, now we have a sweet map. You're going to send some creatures and go and scout the place and see what the hell's going on, but not go in.
 
 %% u0919-u0920 %%
-Seeker: [[Will turn to our side to be played as he joins our party.]]
+Seeker: {{Will turn to our side to be played as he joins our party.}}
 
 %% u0921 %%
-Kenzo: [[By gentlemen.]]
+Kenzo: {{By gentlemen.}}
 
 %% u0922 %%
-Unknown: [[There again.]]
+Unknown: {{There again.}}
 
 %% u0923 %%
 Delwath: I think we did have this idea that understanding what Grash is might be good if we can do that without dying.
@@ -107,7 +107,7 @@ Kenzo: Very good.
 Seeker: Yeah, that's where we were yesterday, that's where we are now, but—oh yeah. Oh, I see. No, we're camped on the other side of the river, or no?
 
 %% u0944-u0947 %%
-DM: You're camped—yeah, like [[for there is no bit prayers]], dry, like a mile south of the monastery. You're—
+DM: You're camped—yeah, like {{for there is no bit prayers}}, dry, like a mile south of the monastery. You're—
 
 %% u0948 %%
 Seeker: Map, those giant—
@@ -206,7 +206,7 @@ Kenzo: Do we have Seeker’s book of questions again? Remember we copied a bunch
 Seeker: We got a whole Grash section, I think. I flip around in my book here.
 
 %% u1007-u1008 %%
-DM: What's the deal with the orcs? [[So there's out]]—let's see.
+DM: What's the deal with the orcs? {{So there's out}}—let's see.
 
 %% u1009-u1012 %%
 Kenzo: Oh, ‘What's the deal with the orcs?’ Yeah. And then, ‘What's the deal with that orc fort? Why does it look so weird?’
@@ -221,7 +221,7 @@ DM: So I would say anybody who's proficient in History, plus Delwath—I don't k
 Kenzo: Possibly for some information. Oh, I love minus-three History.
 
 %% u1022 %%
-Seeker: You can only see the future, and that's past, [[mega]].
+Seeker: You can only see the future, and that's past, {{mega}}.
 
 %% u1023 %%
 DM: You shouldn't have a minus three.
@@ -308,16 +308,16 @@ Seeker: That's probably what happened yeah.
 DM: No, I'm not frustrated at all. I'm—
 
 %% u1070 %%
-Delwath: Excited. He’s enjoying our [[one]] meandering—
+Delwath: Excited. He’s enjoying our {{one}} meandering—
 
 %% u1071 %%
-Seeker: [[Through the work because.]]
+Seeker: {{Through the work because.}}
 
 %% u1072 %%
 DM: If you did exactly what I expected this could all be boring for me.
 
 %% u1073 %%
-Seeker: [[So, first we got a good chart in.]]
+Seeker: {{So, first we got a good chart in.}}
 
 %% u1074 %%
 Wellby: The view of our characters, we're all looking at this side and this side, and then the camera pans around, and just offscreen, here's the heart as—
@@ -335,7 +335,7 @@ Delwath: Candrosa probably knows where it is. We just need to get it out of him.
 Kenzo: Yeah I.
 
 %% u1079 %%
-Wellby: [[Went to the sin encounter.]]
+Wellby: {{Went to the sin encounter.}}
 
 %% u1080 %%
 Delwath: I.
@@ -359,7 +359,7 @@ DM: Whether it's a large army now—I mean, Havdar killed like forty orcs betwee
 Delwath: How good is the visibility over the—if we simply go five miles to the east and then go north, are we going to be little specks on the horizon? Are we going to be—I mean...
 
 %% u1098-u1099 %%
-DM: I mean, yeah, if you go five miles east, you're not [[good]], you know...
+DM: I mean, yeah, if you go five miles east, you're not {{good}}, you know...
 
 %% u1100 %%
 Kenzo: Why don't we go five miles east?
@@ -401,7 +401,7 @@ DM: It's hard to tell from this distance. It is designed to be climbed. It's alm
 Seeker: So perhaps, Kenzo, on the way back, we could pass by the tomb of Bhishma. We can ascend. You can pay your respects from there, and we might also carefully see what we can see of Kharsan from above, because that presumably is a good vantage point.
 
 %% u1128 %%
-Unknown: I like that [[off]].
+Unknown: I like that {{off}}.
 
 %% u1129 %%
 DM: The top of the tomb of Bhishma is also probably pretty visible from the orc fort but you know.
@@ -491,13 +491,13 @@ DM: And there's no sound at all coming from the bathhouse.
 Table: Unknown: It's empty? Locked? That bar? DM: No, the bar has been removed. You had a wooden bar on the outside that was there, and that's been removed and cast aside on the ground.
 
 %% u1176-u1180 %%
-Wellby: I will stop my search and move with all deliberate speed back to camp. Hey guys, [[we’re fun]]. Remember all the orcs that we killed yesterday? Yeah, none of them are there anymore. And someone took the bar off the bathhouse from the outside, and there's no orc inside the bathhouse either.
+Wellby: I will stop my search and move with all deliberate speed back to camp. Hey guys, {{we’re fun}}. Remember all the orcs that we killed yesterday? Yeah, none of them are there anymore. And someone took the bar off the bathhouse from the outside, and there's no orc inside the bathhouse either.
 
 %% u1181 %%
 Kenzo: They took the bodies?
 
 %% u1182-u1183 %%
-Wellby: And in fact, actually, wait, Tim, kind of retcon, because I feel [[it the same thing]]. Standing up at the level of the temple, I'm going to look north. Is there anyone moving between here and the city?
+Wellby: And in fact, actually, wait, Tim, kind of retcon, because I feel {{it the same thing}}. Standing up at the level of the temple, I'm going to look north. Is there anyone moving between here and the city?
 
 %% u1184-u1185 %%
 DM: So let's see, how far is that?
@@ -506,7 +506,7 @@ DM: So let's see, how far is that?
 Wellby: Spyglass, too.
 
 %% u1187-u1192 %%
-DM: Yeah, it's about a [[thumb]]. Yeah, make a Perception check. So, especially peering through your spyglass, you see a fair bit of activity at the orc fort. More than when you were scouting as a hawk, but of course that was mid-afternoon—that was lunchtime, eleven-thirty, when, given the desert heat, everybody's starting to take their rest break. There's several groups of orcs that you can see—presumably orcs. Even in the spyglass, it's a little bit far to identify types of humanoids, but presumably orcs—moving towards the city.
+DM: Yeah, it's about a {{thumb}}. Yeah, make a Perception check. So, especially peering through your spyglass, you see a fair bit of activity at the orc fort. More than when you were scouting as a hawk, but of course that was mid-afternoon—that was lunchtime, eleven-thirty, when, given the desert heat, everybody's starting to take their rest break. There's several groups of orcs that you can see—presumably orcs. Even in the spyglass, it's a little bit far to identify types of humanoids, but presumably orcs—moving towards the city.
 
 %% u1193-u1197 %%
 DM: And there are several moving. It seems like there's one group that's moving slowly, as if they are tracking or searching, in the direction of the monastery. Then there's another that you can see that's on the dry riverbed, right about here. So there's one here and one here that seem to be moving slowly across the desert, groups of six, seven orcs, about the size of the band that you fought.
@@ -524,7 +524,7 @@ Wellby: Or ten minutes if they decided to jog moderately.
 DM: Ten minutes if they decide to jog. But it seems like they are searching. They're moving, zigzagging across the road like they're looking for something, right? The ones down on the river are doing the sort of thing you did. They're doing a spiral pattern, and they're moving in expanding circles up the river.
 
 %% u1205-u1206 %%
-Wellby: Okay, can I also just check all the other buildings that are up here at the monastery? Like, poke my [[house]]—there's not people camped out in these other buildings or something, is there?
+Wellby: Okay, can I also just check all the other buildings that are up here at the monastery? Like, poke my {{house}}—there's not people camped out in these other buildings or something, is there?
 
 %% u1207-u1208 %%
 DM: No. All the buildings are unchanged.
@@ -593,7 +593,7 @@ Kenzo: Kenzo goes over and just puts his hand on Wellby’s forehead.
 DM: Just like.
 
 %% u1241 %%
-Kenzo: [[Like them.]]
+Kenzo: {{Like them.}}
 
 %% u1242-u1248 %%
 Delwath: My fear with running south is that it's a long way to go. It's not necessarily safer, I guess. If we break camp and ride at full speed now, we're gonna kick up—I mean, I think it's hard to avoid being seen.
@@ -629,10 +629,10 @@ Kenzo: To be clear, Wellby, you're saying we should not explore to the north, bu
 Wellby: I think this is the crucial distinction, yeah. The most important thing is to explore, but the even more most important thing is not to die yet.
 
 %% u1261-u1264 %%
-Kenzo: I see. Those goals are constantly in conflict with you. [[Exactly when you leave a hole]]—you've always historically chosen the erring-on-death side, which is why I'm alarmed at your behavior in the past twenty-four hours.
+Kenzo: I see. Those goals are constantly in conflict with you. {{Exactly when you leave a hole}}—you've always historically chosen the erring-on-death side, which is why I'm alarmed at your behavior in the past twenty-four hours.
 
 %% u1265-u1266 %%
-Wellby: We've had the tactical advantage in all of the encounters that we've had so far. [[We have, oh certainly.]]
+Wellby: We've had the tactical advantage in all of the encounters that we've had so far. {{We have, oh certainly.}}
 
 %% u1267 %%
 Kenzo: I don't recall us having backup when we killed that demon in Raven's Hold.
@@ -680,7 +680,7 @@ Delwath: I am. I think we could learn a lot in Kharsan.
 Seeker: About what?
 
 %% u1292-u1296 %%
-Delwath: Grash, the orcs, what is happening here. Why are all these orcs [[curing]]? What is disrupting this part of the world? But it’s clearly—getting there is obviously risky.
+Delwath: Grash, the orcs, what is happening here. Why are all these orcs {{curing}}? What is disrupting this part of the world? But it’s clearly—getting there is obviously risky.
 
 %% u1297 %%
 Wellby: It's risky also because it looks like all their boasting about Grash bringing them back or not letting them die, or whatever, appears not to just have been hype.
@@ -689,7 +689,7 @@ Wellby: It's risky also because it looks like all their boasting about Grash bri
 Delwath: You think the orcs—oh, you said they weren't dragged. I missed that. The bodies weren't dragged off. They actually rose from the dead, is your—
 
 %% u1302 %%
-Wellby: [[Decision.]]
+Wellby: {{Decision.}}
 
 %% u1303-u1305 %%
 DM: You're sure they weren't dragged off.
@@ -722,7 +722,7 @@ Delwath: Us, presumably.
 Seeker: Why didn't they just come back to the monastery when they searched there?
 
 %% u1316-u1317 %%
-Delwath: [[True sense. Well, their head]]—or something we don't understand here.
+Delwath: {{True sense. Well, their head}}—or something we don't understand here.
 
 %% u1318 %%
 Seeker: Yeah, I agree. There's some other, some third, some other factor.
@@ -743,4 +743,4 @@ Kenzo: Well, they're also heading south from the fort, and we are south of the f
 DM: Well, let's see. They're heading in your direction towards the—
 
 %% u1324 %%
-Kenzo: [[Light not.]]
+Kenzo: {{Light not.}}

@@ -35,7 +35,7 @@ DM: So you can jump something like twelve feet, and then you can reach something
 Kenzo: Vertical.
 
 %% u1589 %%
-DM: [[Said I'm telling me]]—horizontally.
+DM: {{Said I'm telling me}}—horizontally.
 
 %% u1590 %%
 Kenzo: Parkour is what Kenzo is like. Kenzo wants to be able to, yeah...
@@ -134,7 +134,7 @@ Seeker: And...
 DM: You do have Tasty.
 
 %% u1680-u1681 %%
-Kenzo: [[Tasty close.]] Tasty's with us.
+Kenzo: {{Tasty close.}} Tasty's with us.
 
 %% u1682 %%
 Unknown: Oh yeah.
@@ -152,10 +152,10 @@ DM: They stretch from a little bit north to a little bit south of the city, so t
 Delwath: We're still...
 
 %% u1688 %%
-Seeker: [[Learning, it's the...]]
+Seeker: {{Learning, it's the...}}
 
 %% u1689-u1690 %%
-Delwath: [[Sign of the statues and monuments]], and is the statue of Bhishma near the city?
+Delwath: {{Sign of the statues and monuments}}, and is the statue of Bhishma near the city?
 
 %% u1691-u1692 %%
 DM: It's one of the ones in the middle, yeah. So there's twelve of them going north to south, and that one is probably—because of the way they line up, it's hard to tell exactly, but it's definitely in the middle. Yeah, here is...
@@ -317,7 +317,7 @@ Kenzo: Not hundreds, thousands.
 DM: More than thirty, less than a...
 
 %% u1792 %%
-Seeker: [[Week.]]
+Seeker: {{Week.}}
 
 %% u1793 %%
 Kenzo: Um...
@@ -332,13 +332,13 @@ Kenzo: Drawing this map, if...
 DM: Sorry, go ahead.
 
 %% u1797-u1799 %%
-Kenzo: I was gonna say, Wellby, as you're drawing this map out and describing what you see, [[what, where's the law]]? Wellby...
+Kenzo: I was gonna say, Wellby, as you're drawing this map out and describing what you see, {{what, where's the law}}? Wellby...
 
 %% u1800 %%
 Wellby: A...
 
 %% u1801 %%
-DM: [[Driver, he wants it, yeah.]]
+DM: {{Driver, he wants it, yeah.}}
 
 %% u1802-u1807 %%
 Kenzo: Well, Kenzo looks over at Baxter. "Might be good to keep this one around, yeah, if you can. That seems to be the single most valuable thing that you've done the whole time I've known you, Wellby."
@@ -350,7 +350,7 @@ Wellby: I distinctly remember helping you sober up, Kenzo.
 Kenzo: I mean...
 
 %% u1810 %%
-Seeker: [[I will put that one time was...]]
+Seeker: {{I will put that one time was...}}
 
 %% u1811-u1812 %%
 Kenzo: But in seriousness, I had no idea you could do this. This is amazing. This feels incredibly, incredibly valuable.
@@ -398,7 +398,7 @@ Delwath: It would be useful if you can scout a path to the monastery that stays 
 Wellby: So yes to that, and then I'm also curious about the riverbed and the aqueducts and waterworks. If we wanted to get into the city from the monastery, would that be a way to do it out of sight? Could we follow the riverbed up and then cut through the aqueducts into the walls?
 
 %% u1851-u1856 %%
-DM: Right, so, okay. [[Touting.]] Interesting. Regarding the waterworks first: of course the issue is that this is not a river anymore, it's just dry ground. This half-mile or so up to the fort basically is just barren gravel floodplains. No shelter. Then it begins to rise a little bit, and the fort is right as the ground begins to slope up.
+DM: Right, so, okay. {{Touting.}} Interesting. Regarding the waterworks first: of course the issue is that this is not a river anymore, it's just dry ground. This half-mile or so up to the fort basically is just barren gravel floodplains. No shelter. Then it begins to rise a little bit, and the fort is right as the ground begins to slope up.
 
 %% u1857-u1860 %%
 DM: North of the city, the floodplains extend even further, miles. Actually, south of the monastery, the floodplains extend much further east as well. Basically, there's a bit of a hill that the city is sitting on, and that then runs along the line that hits the fort and then back to here. But then it turns east, and there's just floodplain. So your best path to the monastery would be to head three, four miles east from here, and then approach on the backside of that hill rather than go up the river.
@@ -431,7 +431,7 @@ Seeker: What, when...?
 Wellby: It's not so much that I'm using them as they're letting me see through their eyes.
 
 %% u1873 %%
-Seeker: [[I think I can control where.]]
+Seeker: {{I think I can control where.}}
 
 %% u1874-u1875 %%
 Wellby: I can suggest. How about the fort thing that's being built?
@@ -452,7 +452,7 @@ DM: Yes, there is a flag with this screaming-face motif, and below it the rising
 Wellby: Is there any area to...?
 
 %% u1891 %%
-DM: [[Be common around the fort.]]
+DM: {{Be common around the fort.}}
 
 %% u1892-u1894 %%
 Wellby: Is there any area within it that suggests commander's quarters, or barracks, or wizard's tower, or something?
@@ -515,16 +515,16 @@ Wellby: Between now and next time we play—and I'll put these details in the se
 DM: I don't have...
 
 %% u1952 %%
-Wellby: [[Any minute us]], but right.
+Wellby: {{Any minute us}}, but right.
 
 %% u1953 %%
 DM: I don't have the city mapped in as much detail, so I'm not going to make a player's version of the map for you. But if you go into the city, we'll assume you have a map. You have the rough monuments marked down on this map.
 
 %% u1954 %%
-Seeker: This hawk scouting [[to as...]]
+Seeker: This hawk scouting {{to as...}}
 
 %% u1955 %%
-Kenzo: [[Well as hell.]]
+Kenzo: {{Well as hell.}}
 
 %% u1956 %%
 Wellby: Yes.
@@ -536,7 +536,7 @@ Seeker: That's pretty amazing, just to encounter such a big public landscape too
 Unknown: You know, like a massive...
 
 %% u1959 %%
-Seeker: [[Have you seen that influences about let's look at...]]
+Seeker: {{Have you seen that influences about let's look at...}}
 
 %% u1960-u1961 %%
 Kenzo: Eric, your audio is kind of weird, by the way. It's hard to hear what you're saying. It's like a weird echo, or it's muffled-sounding. It's hard to hear.
@@ -557,4 +557,4 @@ Kenzo: Well, at this level of power.
 DM: But yes, maybe. That's good.
 
 %% u1969-u1971 %%
-Kenzo: [[Time Labor control]], like a flock of... Right, you know. That's awesome.
+Kenzo: {{Time Labor control}}, like a flock of... Right, you know. That's awesome.

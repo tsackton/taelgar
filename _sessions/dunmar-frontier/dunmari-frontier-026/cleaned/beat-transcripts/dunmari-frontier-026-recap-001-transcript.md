@@ -62,7 +62,7 @@ Kenzo: Do we recognize any of them?
 DM: No, you don't recognize any of them. I mean, you might have seen them—they're from Havdar's band. You might have seen them around camp in your travels, but not anybody that you've particularly spoken to.
 
 %% u0047 %%
-Kenzo: [[l amp D]]... It's been a long travel, returning back to Karawa.
+Kenzo: {{l amp D}}... It's been a long travel, returning back to Karawa.
 
 %% u0048-u0053 %%
 DM: Indeed, we've been looking for you these past four days—three days since Havdar's return without you. Some feared you lost in the desert, but I suspected that would not be your fate. Many folks in town would like to speak with you, Candrosa in particular. If you have no urgent business... Will you come?
@@ -134,10 +134,10 @@ DM: And there's a fair number of mystai who remain. There's probably forty or so
 DM: “I am so glad to see you. It has been... The past few days have been—well, sorry, the past month has not been easy. I would speak in private, briefly, I think. There are things we have to discuss.” He's leaning on his staff as he walks. So he takes you to the same place you've spoken with him before, into the temple. Not into the main part of the temple, but there's this little office, conference room off on the side as you enter the temple. And he sits and he says—hold on one sec.
 
 %% u0147-u0148 %%
-Kenzo: [[My soul side]]. Okay, so second.
+Kenzo: {{My soul side}}. Okay, so second.
 
 %% u0149-u0150 %%
-DM: Sorry, give me one sec. [[Salsa]].
+DM: Sorry, give me one sec. {{Salsa}}.
 
 %% u0151 %%
 Unknown: Okay.
@@ -161,7 +161,7 @@ Kenzo: Well, there's news I think that's relevant to probably a larger council. 
 Seeker: Nice.
 
 %% u0178-u0183 %%
-Kenzo: But I'm glad we're able to meet in private as well, as we have learned about the Heart of Shakun. And we have learned [[A hard isn't to say]]. And I don't know, Candrosa, what you neglected to share with us before we departed, but it seems as though there's some critical information about—any information that you have about the Heart of Shakun and where we may be able to find it, that seems to be an incredibly important...
+Kenzo: But I'm glad we're able to meet in private as well, as we have learned about the Heart of Shakun. And we have learned {{A hard isn't to say}}. And I don't know, Candrosa, what you neglected to share with us before we departed, but it seems as though there's some critical information about—any information that you have about the Heart of Shakun and where we may be able to find it, that seems to be an incredibly important...
 
 %% u0184-u0186 %%
 DM: Facet. Did you—how did you find such information? How did you come to learn of this thing?
@@ -173,7 +173,7 @@ Kenzo: Bhishma told me.
 DM: He looks shocked, not disbelieving, just like sort of in awe.
 
 %% u0189-u0194 %%
-Kenzo: I don't mean to rush through parts of the story. I'm now an initiate of Bhishma. This is one of the events [[nuts and bolts]]. Seeker nearly joined me; at the last minute had cold feet, understandably so. I mean, dying is quite a price to pay. But yeah, Bhishma directly shared with me that while Shakun is still with them, the Heart is no longer, and that much of what we may be experiencing in terms of the lack of protection seems tied to its disappearance, which you seem to know something about and may not have shared.
+Kenzo: I don't mean to rush through parts of the story. I'm now an initiate of Bhishma. This is one of the events {{nuts and bolts}}. Seeker nearly joined me; at the last minute had cold feet, understandably so. I mean, dying is quite a price to pay. But yeah, Bhishma directly shared with me that while Shakun is still with them, the Heart is no longer, and that much of what we may be experiencing in terms of the lack of protection seems tied to its disappearance, which you seem to know something about and may not have shared.
 
 %% u0195-u0201 %%
 DM: I will... I must say that news you bring brings me great relief. For I have been questioning in my mind whether Shakun would have me share this information with those not of our order. But if Bhishma herself told you, I need not worry of such things.
@@ -293,7 +293,7 @@ DM: It's actually—Seeker, why don't you make an Intelligence check?
 Wellby: Did he already tell us where physically the Heart resides now? What is that?
 
 %% u0366 %%
-Kenzo: He wants to tell us that in the presence of the stoneborn, [[very good detail]].
+Kenzo: He wants to tell us that in the presence of the stoneborn, {{very good detail}}.
 
 %% u0367-u0369 %%
 DM: So yeah, Seeker is pretty experienced with stone and all its forms of weathering and construction, and I think, Seeker, what you would infer from this is that structural weaknesses had probably been building up for a while, and something...
@@ -329,10 +329,10 @@ Kenzo: Well, Candrosa, before we meet with the others, maybe we also have some m
 DM: Rai? Well, he was a hero in the Great War, was he not?
 
 %% u0395-u0403 %%
-Kenzo: He was. But as we learned in our travels, as we engaged more with the initiates of Bhishma, there may have been—and [[it expense]]—a collaboration, I suppose, between some of the initiates and Rai to potentially try to close a portal. It's something that may have some relationship to the unfolding of these beasts, these strange beasts that are now attacking Karawa and Dunmar. So we're trying to learn more about history.
+Kenzo: He was. But as we learned in our travels, as we engaged more with the initiates of Bhishma, there may have been—and {{it expense}}—a collaboration, I suppose, between some of the initiates and Rai to potentially try to close a portal. It's something that may have some relationship to the unfolding of these beasts, these strange beasts that are now attacking Karawa and Dunmar. So we're trying to learn more about history.
 
 %% u0404-u0408 %%
-DM: As I said, I am not a scholar. I sat through my studies of history and religion like the next person, but I can't say much of it [[has some gets]].
+DM: As I said, I am not a scholar. I sat through my studies of history and religion like the next person, but I can't say much of it {{has some gets}}.
 
 %% u0409-u0410 %%
 Kenzo: Well, just to be clear again, no one else knows? Does anybody in town even know about the existence of the Heart of Shakun?
@@ -401,7 +401,7 @@ Delwath: Totally different.
 Kenzo: Oh.
 
 %% u0466-u0468 %%
-Delwath: Giants and stoneborn, I mean. Stoneborn, are they what we called [[owners]] in high school? But they were like the monk. They were like [[barrels mentors]].
+Delwath: Giants and stoneborn, I mean. Stoneborn, are they what we called {{owners}} in high school? But they were like the monk. They were like {{barrels mentors}}.
 
 %% u0469-u0470 %%
 DM: Right. So they're one of the other races, one of the firstborn races, like elves, dwarves, halflings and lizardfolk. They're the fifth of the five firstborn races.

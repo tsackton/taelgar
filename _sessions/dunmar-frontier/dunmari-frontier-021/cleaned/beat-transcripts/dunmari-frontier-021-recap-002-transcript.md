@@ -14,7 +14,7 @@ DM: He signals—he walks over to Aram, the tall, older guy, and brings him over
 Seeker: Why did they attack?
 
 %% u0343 %%
-Delwath: [[Who have they been to recently?]]
+Delwath: {{Who have they been to recently?}}
 
 %% u0344 %%
 Wellby: Who do they serve?
@@ -53,7 +53,7 @@ Kenzo: Blighted One.
 DM: If you serve Grash, you will never die.
 
 %% u0362 %%
-Delwath: What's the god? I forget the name of the god that [[I'll be...]]
+Delwath: What's the god? I forget the name of the god that {{I'll be...}}
 
 %% u0363 %%
 DM: Ah...
@@ -107,7 +107,7 @@ Delwath: What? Those who—what was the...?
 DM: Uzgash, Uzgash.
 
 %% u0396-u0397 %%
-Unknown: Uzgash. [[What's wrong?]]
+Unknown: Uzgash. {{What's wrong?}}
 
 %% u0398-u0400 %%
 Delwath: And where did you find Grash? He must have come to you in a powerful place.
@@ -188,7 +188,7 @@ Wellby: Other names?
 DM: The Blighted One.
 
 %% u0457 %%
-Delwath: [[And one.]]
+Delwath: {{And one.}}
 
 %% u0458 %%
 DM: Other names.
@@ -197,7 +197,7 @@ DM: Other names.
 Delwath: How mighty is he? Does he rule all the orcs, the thousands?
 
 %% u0461-u0465 %%
-DM: We will be thousands soon enough. [[Growth. Uzgash, Uzgash's strength.]] Soon all will be Grash. [[Are there more Grash's?]]
+DM: We will be thousands soon enough. {{Growth. Uzgash, Uzgash's strength.}} Soon all will be Grash. {{Are there more Grash's?}}
 
 %% u0466 %%
 Seeker: Are there more of your fire casters?
@@ -215,7 +215,7 @@ DM: You will see.
 Seeker: We're not scared.
 
 %% u0471-u0472 %%
-DM: [[Straw.]] He sort of throws out his neck. "Kill me and you will see."
+DM: {{Straw.}} He sort of throws out his neck. "Kill me and you will see."
 
 %% u0473 %%
 Seeker: Maybe we should keep you around. Maybe you'll see your chance to kill yourself and take over from him.
@@ -245,10 +245,10 @@ Delwath: How long has Grash—Grash has been there a year?
 Unknown: Yeah.
 
 %% u0486-u0487 %%
-Seeker: [[Super case]], what else is on Grash's CV? [[It's good goodison.]]
+Seeker: {{Super case}}, what else is on Grash's CV? {{It's good goodison.}}
 
 %% u0488-u0489 %%
-Kenzo: [[Park University, blood.]] Majors in head bashing.
+Kenzo: {{Park University, blood.}} Majors in head bashing.
 
 %% u0490-u0491 %%
 Seeker: Took a gap year for some pillaging. The...
@@ -392,13 +392,13 @@ DM: He said, "No longer speaks to..."
 Seeker: Us, yes. And this—that's a good...
 
 %% u0571 %%
-Wellby: [[District]], or I mean, that could be...
+Wellby: {{District}}, or I mean, that could be...
 
 %% u0572 %%
 DM: Could mean many things.
 
 %% u0573 %%
-Wellby: [[And illogical.]]
+Wellby: {{And illogical.}}
 
 %% u0574-u0576 %%
 Seeker: I wonder what the undead orcs turn into. They probably don't turn into dog-headed humanoids. It's worth ruling that out.
@@ -479,7 +479,7 @@ Delwath: This part of Dunmar.
 Seeker: Well...
 
 %% u0625-u0628 %%
-Delwath: Well, do we know that the orcs in the far north cannot hear their god? Do you think that orcs in Chardon cannot hear their god? [[Literally all got been...]] Delwath points over to the healer. "If the gods are truly gone, he wouldn't be able to heal us."
+Delwath: Well, do we know that the orcs in the far north cannot hear their god? Do you think that orcs in Chardon cannot hear their god? {{Literally all got been...}} Delwath points over to the healer. "If the gods are truly gone, he wouldn't be able to heal us."
 
 %% u0629 %%
 Unknown: Right.
@@ -578,7 +578,7 @@ Seeker: Like what?
 Delwath: Is Grash a mighty wizard, a true god, a fey creature, a dragon?
 
 %% u0678-u0681 %%
-Seeker: It would be interesting. Suppose Grash was a, say, human. [[Probably know.]] Grash could be a female dwarf.
+Seeker: It would be interesting. Suppose Grash was a, say, human. {{Probably know.}} Grash could be a female dwarf.
 
 %% u0682-u0683 %%
 Wellby: Well, ask the orc then. "Describe to us Grash. You saw it."
@@ -629,7 +629,7 @@ Wellby: Where were you going when you tried to kill all these humans? You were g
 DM: Killing humans is motive enough.
 
 %% u0724-u0725 %%
-Wellby: What treasure? You were going west. [[So nor...]]
+Wellby: What treasure? You were going west. {{So nor...}}
 
 %% u0726 %%
 DM: My travels are no business of yours.
@@ -641,7 +641,7 @@ Wellby: Did you hear what happened at Raven's Hold?
 DM: Such things have no meaning to me. Raven's Hold? I care not for those words.
 
 %% u0730-u0732 %%
-Wellby: [[What's-her-name's Hold?]] I look to Seeker, like, is there a name for it in Orcish? There must be.
+Wellby: {{What's-her-name's Hold?}} I look to Seeker, like, is there a name for it in Orcish? There must be.
 
 %% u0733-u0734 %%
 Delwath: It was hobgoblins there, not...
@@ -668,7 +668,7 @@ Kenzo: Do you remember the markings on that orc?
 DM: Ah, interesting. Did not seem to have any tattoos or anything. Much more like...
 
 %% u0744 %%
-Seeker: [[Humans, British kind of...]]
+Seeker: {{Humans, British kind of...}}
 
 %% u0745 %%
 DM: Straight-edge, yeah.
@@ -791,7 +791,7 @@ Kenzo: Why does he like old things?
 Delwath: Because he's working for the—I'll say this in Dunmari—is he in league with the Chardonian Order of the Open Hand?
 
 %% u0813 %%
-Wellby: [[I'm flicking.]]
+Wellby: {{I'm flicking.}}
 
 %% u0814 %%
 Kenzo: Why does he want old things?
@@ -866,7 +866,7 @@ Delwath: Didn't Rai turn into a jade statue?
 Seeker: Just gonna say.
 
 %% u0849 %%
-Delwath: [[It's not as it should be totally]] that everybody's looking for the body of Rai.
+Delwath: {{It's not as it should be totally}} that everybody's looking for the body of Rai.
 
 %% u0850-u0852 %%
 Seeker: I mean, it's a powerful artifact. Your necklace is not noticeably the shape of a big toe or something, you know?
@@ -881,7 +881,7 @@ DM: That needs to go on my list of quotes from today's call.
 Seeker: I could barely hear him, and it just gradually dawned on me that you couldn't possibly have said that, but you must have.
 
 %% u0857-u0858 %%
-DM: [[Fun what]]—I have a folder with a number of inappropriate things we said.
+DM: {{Fun what}}—I have a folder with a number of inappropriate things we said.
 
 %% u0859-u0861 %%
 Seeker: Seriously, though. Well, I guess we can burn him.
@@ -923,7 +923,7 @@ Wellby: Well, that's—come on. Can you pass a message on when you do?
 DM: A message to who? Why would I do that?
 
 %% u0877-u0879 %%
-Wellby: Well, I'm just curious. Are you coming back [[again, Grash]]?
+Wellby: Well, I'm just curious. Are you coming back {{again, Grash}}?
 
 %% u0880-u0881 %%
 DM: Yeah, he will speak to you. Go offer yourself to him. Bring tribute.
@@ -950,19 +950,19 @@ Seeker: That's interesting.
 Wellby: Can't he just magic us all dead in our sleep, though?
 
 %% u0892 %%
-Delwath: [[This spellcaster's to be...]]
+Delwath: {{This spellcaster's to be...}}
 
 %% u0893 %%
-Seeker: [[We ship them up.]]
+Seeker: {{We ship them up.}}
 
 %% u0894 %%
-Wellby: [[More about so ever.]]
+Wellby: {{More about so ever.}}
 
 %% u0895 %%
-Seeker: [[It's good thing]] casting spells on us, huh?
+Seeker: {{It's good thing}} casting spells on us, huh?
 
 %% u0896 %%
-Kenzo: [[Oh yeah, I saw Satan, Tim.]]
+Kenzo: {{Oh yeah, I saw Satan, Tim.}}
 
 %% u0897-u0898 %%
 DM: Ah, okay. Um...
@@ -980,7 +980,7 @@ Seeker: Could be attacking us.
 Delwath: Well, he might not have used all his spells.
 
 %% u0903 %%
-Seeker: Huh. Yes, [[sadly, Linda too]].
+Seeker: Huh. Yes, {{sadly, Linda too}}.
 
 %% u0904-u0905 %%
 DM: As you're getting to talk, he will turn to—let's see...
@@ -1019,7 +1019,7 @@ DM: Just on you, yeah. You lunge forward and slit his throat.
 Seeker: Oh no.
 
 %% u0921 %%
-Wellby: [[Rush for us.]]
+Wellby: {{Rush for us.}}
 
 %% u0922-u0926 %%
 Seeker: Oh, whoa, whoa. Well, I did just suggest a minute ago that... I guess that's how that plays out there, everybody, I say, waving my hands.
@@ -1052,7 +1052,7 @@ DM: Not that much more, honestly. He doesn't have any weapons, because they were
 DM: He does not have a holy symbol. You're guessing perhaps the thing emblazoned on his shield is his holy symbol. Many clerics and paladins have emblems on their shields they use as their holy symbol. Again, same as before, honestly: not a lot of gear or equipment, slimmed down to just what it takes to fight.
 
 %% u0942-u0948 %%
-Seeker: All right, one last question about these guys, I say, continuing to try to wipe blood off of different parts of my body. The rising sun—that's gonna be eastward. Does that mean they come from the east or go to the east? [[How are they—they come out of the stone thing?]]
+Seeker: All right, one last question about these guys, I say, continuing to try to wipe blood off of different parts of my body. The rising sun—that's gonna be eastward. Does that mean they come from the east or go to the east? {{How are they—they come out of the stone thing?}}
 
 %% u0949 %%
 Delwath: They do come out of the east.
@@ -1196,7 +1196,7 @@ DM: South of there is just barren ash. It's completely denuded of life. Whether 
 DM: Or the other possibility is here, because this river that flows past Tokra and Askandi does flow all the way south through the desert, and so there's also water there.
 
 %% u1024-u1027 %%
-Delwath: Didn't the monks make it sound like they had seen the friendly, friendly orcs? I mean, isn't down here right where the dwarves are? [[Empty enough that...]]
+Delwath: Didn't the monks make it sound like they had seen the friendly, friendly orcs? I mean, isn't down here right where the dwarves are? {{Empty enough that...}}
 
 %% u1028-u1029 %%
 DM: The dwarves really stretch from here to about here.

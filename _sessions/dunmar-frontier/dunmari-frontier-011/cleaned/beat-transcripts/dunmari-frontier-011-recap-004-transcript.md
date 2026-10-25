@@ -146,7 +146,7 @@ DM: Roll initiative. Okay, so Delwath, nine. Okay, as you begin to approach, let
 Kenzo: I did.
 
 %% u1446 %%
-DM: [[Hey, this down first out]].
+DM: {{Hey, this down first out}}.
 
 %% u1447 %%
 Delwath: Oh, I did.
@@ -422,10 +422,10 @@ Kenzo: I'm going to...
 Unknown: 30 foot range. That's interesting.
 
 %% u1623 %%
-Kenzo: [[Actually notify quality scores]].
+Kenzo: {{Actually notify quality scores}}.
 
 %% u1624 %%
-Unknown: [[By five Peter twenty-five]].
+Unknown: {{By five Peter twenty-five}}.
 
 %% u1625-u1627 %%
 Kenzo: I was back over here. I'll use my power.
@@ -458,7 +458,7 @@ Unknown: And.
 DM: So it takes half damage and is not pulled. So as your fist, your lash of energy shoots out, it hits. Your fist hits it, and normally you would grab something and smash them with your fist, and it just stands there sort of chuckling as your attack is less effectual. So do you want to do—so that's your action.
 
 %% u1648 %%
-Kenzo: Move on, move over, and [[I'll put out our]].
+Kenzo: Move on, move over, and {{I'll put out our}}.
 
 %% u1649-u1650 %%
 DM: Okay. Riswynn.
@@ -488,7 +488,7 @@ Wellby: Oh, designed to resist being hit by things.
 DM: Yeah, so make an attack.
 
 %% u1664 %%
-Riswynn: Attack. That's what I was asking, yeah. [[Auto Task]].
+Riswynn: Attack. That's what I was asking, yeah. {{Auto Task}}.
 
 %% u1665-u1668 %%
 DM: So that misses. Your smite is still active, but if you take damage, you have to make a Constitution save for concentration, right? But your hammer strike misses. Okay, Wellby, you're up.
@@ -698,7 +698,7 @@ DM: So you get a move, a bonus action, and an action. You used your move to move
 Seeker: All right, so I'll just walk up behind Wellby. Shit's on fire in here. Wow, okay.
 
 %% u1806 %%
-DM: Guys. So, [[Joe]].
+DM: Guys. So, {{Joe}}.
 
 %% u1807-u1808 %%
 Delwath: All right, I am attacking the demon.
@@ -752,7 +752,7 @@ DM: And swing its claws at you. What's your AC? Sixteen? Which misses.
 DM: And then it will move to stand over the prone form of Delwath and turn to Kenzo and stare at you, like... And you need to make a Constitution saving throw.
 
 %% u1846 %%
-Kenzo: [[Only uses a demon]].
+Kenzo: {{Only uses a demon}}.
 
 %% u1847-u1849 %%
 DM: And as its eyes bore into your soul, you feel yourself weakening, and all your attacks that use Strength do half damage, which actually does nothing because your attacks don't use...
@@ -761,7 +761,7 @@ DM: And as its eyes bore into your soul, you feel yourself weakening, and all yo
 Kenzo: Strength. Ah, you thought I was brawn, but I have not...
 
 %% u1851-u1855 %%
-DM: [[Been punching a lot of thought that in Australia]]. Okay. Oh, no, sorry, the gnoll. No, the gnoll is going to attack Riswynn.
+DM: {{Been punching a lot of thought that in Australia}}. Okay. Oh, no, sorry, the gnoll. No, the gnoll is going to attack Riswynn.
 
 %% u1856 %%
 Kenzo: There's a whole other fight here that you cannot see.
@@ -929,7 +929,7 @@ DM: Yeah, you can do that. Or a bonus action—so you only used a bonus action s
 Seeker: So I don't know which of my healing—the healing potion, healing elixir, healing scroll—is the best. You should...
 
 %% u1948-u1949 %%
-Kenzo: [[Not them right into this role and then wrap it all down]].
+Kenzo: {{Not them right into this role and then wrap it all down}}.
 
 %% u1950 %%
 Delwath: The Elixir of Health is the best, right?
@@ -1058,7 +1058,7 @@ Delwath: I will move there.
 DM: That just means you're gonna get a crit on your next attack. Okay, so that ends Delwath's turn. Delwath vanishes in a flash of smoke, and then this blast of force shoots out but just goes totally wide of the demon. And now he is looking around, clearly pretty wounded. His main prey has just vanished, and he's going to turn to you, Kenzo, and swing his barbed tail. What's your AC?
 
 %% u2020 %%
-Kenzo: [[A MOM]].
+Kenzo: {{A MOM}}.
 
 %% u2021-u2024 %%
 DM: So you take five points of damage, and you need to make a Constitution saving throw. So as its tail strikes you, you also feel that sort of poison course through your body. You are poisoned, and boils and...
@@ -1082,7 +1082,7 @@ DM: Okay, Vola will now step out, finally crawling at her slow, exhausted pace t
 DM: So, what was that? So as this shimmering dagger strikes the demon, it's not really paying attention to her. It steps back again, like walking on its last legs, as Kenzo leaps into this moment to attack.
 
 %% u2050-u2052 %%
-Kenzo: All right, I will [[write on a regular chat]]. Hold on, hold on. And I thought it...
+Kenzo: All right, I will {{write on a regular chat}}. Hold on, hold on. And I thought it...
 
 %% u2053 %%
 Delwath: Terrible rolls.
@@ -1115,13 +1115,13 @@ Kenzo: Disadvantage attacks for being poisoned. Ah.
 DM: But you still hit.
 
 %% u2063 %%
-Kenzo: Oh, [[setup]].
+Kenzo: Oh, {{setup}}.
 
 %% u2064-u2070 %%
 DM: And limping, as you turn around, your quarterstaff going wild as the poison is coursing through your body, you just turn, and as your fist comes towards it, you can sort of feel this shimmering force. You're grabbing the energy, this sort of extraplanar energy that infuses you. And as you strike it, you hear this crack. Its horn splits, and then it stands there for a second and vanishes.
 
 %% u2071-u2072 %%
-Unknown: [[And Apollo. Three.]]
+Unknown: {{And Apollo. Three.}}
 
 %% u2073 %%
 DM: Okay, Riswynn. Still a gnoll for you to kill.

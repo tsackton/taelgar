@@ -50,7 +50,7 @@ Wellby: …above his head so that I’m in his sight. That feels respectful.
 Kenzo: Yeah, Kenzo, also in the silence, probably next to you, Wellby. I’m also just kind of gazing at—seated, though. I’m sitting down, kind of cross-legged on the floor, quarterstaff across my lap, hood down, and just seated with a very similar, very intense focus on the giant, and really just looking intently, but very calm. Very, very calm. And you get this kind of feeling, this kind of aura of calmness around Kenzo.
 
 %% u0030-u0031 %%
-Kenzo: It’s almost—it’s hard to… You’re not totally sure, but it almost feels like there’s kind of a bluish glow around Kenzo as he’s sitting and just observing the giant, and really intently just connecting with the giant’s energy from afar. [[If any of my friends to come]]. Got it.
+Kenzo: It’s almost—it’s hard to… You’re not totally sure, but it almost feels like there’s kind of a bluish glow around Kenzo as he’s sitting and just observing the giant, and really intently just connecting with the giant’s energy from afar. {{If any of my friends to come}}. Got it.
 
 %% u0032 %%
 Delwath: I was still invisible.
@@ -155,7 +155,7 @@ Seeker: Though… Huh.
 DM: “Do not know if it remains magical even at this stage, or…”
 
 %% u0104 %%
-Unknown: [[Equal spent in the talent]].
+Unknown: {{Equal spent in the talent}}.
 
 %% u0105 %%
 Seeker: It’s guarded by some magical serpents made of water, suggesting that there’s something to guard there.
@@ -287,7 +287,7 @@ Seeker: I mean, that's perfect. That's what's running out.
 Unknown: Yes.
 
 %% u0194-u0196 %%
-DM: But we’re starting with a clean slate here. So yes, talk—[[Taco like]].
+DM: But we’re starting with a clean slate here. So yes, talk—{{Taco like}}.
 
 %% u0197 %%
 Delwath: Just remind me: the ball still had magic, right?
@@ -299,7 +299,7 @@ DM: Yes, you did, in fact…
 Delwath: …see magic on it. And also asked him if the water is under his control.
 
 %% u0200 %%
-Seeker: [[Is not Mike and]]…
+Seeker: {{Is not Mike and}}…
 
 %% u0201 %%
 Delwath: …his control. We have a rope tied to the thing, right?

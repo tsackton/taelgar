@@ -307,7 +307,7 @@
 [u0307 | 00:23:05.640-00:23:06.130 | Kenzo] Out of that.
 [u0308 | 00:23:06.130-00:23:13.379 | Delwath] That's a good point. Actually, I didn't even think of that. But yes, obviously he would have had his lackeys try to find it right.
 [u0309 | 00:23:14.400-00:23:18.270 | Delwath] because if they could have found it, they could have brought it to him and freed him.
-[u0310 | 00:23:19.260-00:23:22.900 | Kenzo] How the fuck are we gonna find it, [[those hard]]?
+[u0310 | 00:23:19.260-00:23:22.900 | Kenzo] How the fuck are we gonna find it, {{those hard}}?
 [u0311 | 00:23:23.310-00:23:25.129 | Kenzo] Oh, don't we have like a.
 [u0312 | 00:23:25.130-00:23:26.750 | Riswynn] Better versions of ourselves.
 [u0313 | 00:23:27.660-00:23:30.870 | Delwath] I mean. But wait, hold on, hold on! Let's take a step back. We what do we
@@ -364,7 +364,7 @@
 [u0364 | 00:26:58.210-00:26:58.790 | Delwath] So.
 [u0365 | 00:26:58.790-00:27:03.900 | Riswynn] Think the Bahrazel have any ideas about? Why, one wouldn't destroy a phylactery.
 [u0366 | 00:27:05.690-00:27:07.789 | DM] I mean, you can always ask.
-[u0367 | 00:27:07.790-00:27:13.349 | Delwath] But don't we have to ask? It is the same as [[your mind]]. Right? You have to ask like one word or yes, no type questions not.
+[u0367 | 00:27:07.790-00:27:13.349 | Delwath] But don't we have to ask? It is the same as {{your mind}}. Right? You have to ask like one word or yes, no type questions not.
 [u0368 | 00:27:13.350-00:27:15.309 | DM] Say, why didn't he destroy it?
 [u0369 | 00:27:15.490-00:27:16.140 | Delwath] Yeah.
 [u0370 | 00:27:17.840-00:27:19.930 | Seeker] So? Is there some reason.
@@ -464,7 +464,7 @@
 [u0464 | 00:34:16.820-00:34:17.530 | Delwath] Right.
 [u0465 | 00:34:17.530-00:34:24.340 | Kenzo] And like free them they they all those souls need to be like freed from the dagger, and then that'll expose Apollyon's.
 [u0466 | 00:34:24.989-00:34:28.420 | Kenzo] blackened, crispy soul for us to eat.
-[u0467 | 00:34:31.389-00:34:34.169 | DM] But Rai, of course, did not have [[a pie]].
+[u0467 | 00:34:31.389-00:34:34.169 | DM] But Rai, of course, did not have {{a pie}}.
 [u0468 | 00:34:34.170-00:34:35.230 | Delwath] Right, right, right, right, right.
 [u0469 | 00:34:35.230-00:34:35.920 | Seeker] Right.
 [u0470 | 00:34:36.302-00:34:43.544 | Kenzo] So he couldn't do it because he didn't know. And oh, okay, that makes sense cool.
@@ -474,7 +474,7 @@
 [u0474 | 00:34:58.400-00:35:02.130 | Delwath] Well, so right. So where would Rai have put it? That's the next question
 [u0475 | 00:35:02.690-00:35:05.289 | Delwath] Rai would have needed to hide it somewhere.
 [u0476 | 00:35:05.690-00:35:06.520 | Delwath] That
-[u0477 | 00:35:10.600-00:35:17.020 | Delwath] Apoll, I mean the his key concern would have been. Apollyon [[Can't not finding it]] right.
+[u0477 | 00:35:10.600-00:35:17.020 | Delwath] Apoll, I mean the his key concern would have been. Apollyon {{Can't not finding it}} right.
 [u0478 | 00:35:19.200-00:35:20.320 | Delwath] I think.
 [u0479 | 00:35:23.060-00:35:27.890 | Seeker] And it's not Apollyon himself, but a set of agents that obey him.
 [u0480 | 00:35:28.420-00:35:36.210 | Delwath] Righty, I mean the temple is promising right like.
@@ -500,11 +500,11 @@
 [u0500 | 00:37:05.960-00:37:07.320 | Kenzo] Apollyon's tomb.
 [u0501 | 00:37:07.620-00:37:11.769 | Delwath] I mean, do you have a choice.
 [u0502 | 00:37:12.530-00:37:13.390 | Kenzo] Maybe not.
-[u0503 | 00:37:13.990-00:37:17.329 | Delwath] Like. Why was [[Ryan? Why not well could drive?]]
+[u0503 | 00:37:13.990-00:37:17.329 | Delwath] Like. Why was {{Ryan? Why not well could drive?}}
 [u0504 | 00:37:17.620-00:37:20.299 | Delwath] Could jade statue? Rai actually move around.
 [u0505 | 00:37:21.350-00:37:22.490 | Kenzo] Take a teleport.
 [u0506 | 00:37:22.940-00:37:26.389 | Delwath] I mean he was, but he was hanging out in this temple for a long time.
-[u0507 | 00:37:26.967-00:37:33.470 | Kenzo] But I think that was [[nice to keep the keep]]. Apollyon [[is prison]].
+[u0507 | 00:37:26.967-00:37:33.470 | Kenzo] But I think that was {{nice to keep the keep}}. Apollyon {{is prison}}.
 [u0508 | 00:37:34.350-00:37:36.560 | Delwath] But he was holding the phylactery, wasn't he?
 [u0509 | 00:37:38.960-00:37:44.240 | Delwath] Wasn't while he was hidden while he was here. Wasn't he like literally holding the phylactery, didn't he only hide it when he left.
 [u0510 | 00:37:49.050-00:37:51.060 | DM] It's not obvious that.
@@ -661,7 +661,7 @@
 [u0661 | 00:50:09.720-00:50:12.560 | DM] Yeah, sometimes you get lucky, and it recharges a day.
 [u0662 | 00:50:13.828-00:50:18.740 | DM] No easy mirror uses right now.
 [u0663 | 00:50:18.740-00:50:20.910 | Kenzo] Yeah, that would have been useful to use the mirror in here.
-[u0664 | 00:50:21.821-00:50:26.149 | Kenzo] This actually was the last place the [[locker room]].
+[u0664 | 00:50:21.821-00:50:26.149 | Kenzo] This actually was the last place the {{locker room}}.
 [u0665 | 00:50:27.450-00:50:31.579 | DM] Okay. So as you enter, what do you want to do?
 [u0666 | 00:50:45.023-00:50:46.516 | Delwath] Hold on one second.
 [u0667 | 00:50:47.090-00:50:48.840 | Kenzo] Like, search right? Around.
@@ -687,7 +687,7 @@
 [u0687 | 00:52:17.260-00:52:19.859 | DM] So Seeker is, gonna go look at the altar.
 [u0688 | 00:52:20.300-00:52:26.970 | DM] Wellby is searching for any signs of footprints or inhabitation, or anything.
 [u0689 | 00:52:26.990-00:52:33.930 | DM] Kenzo is pacing around just looking okay.
-[u0690 | 00:52:33.930-00:52:37.610 | Riswynn] I mean, it seems like divination [[not a work particular]].
+[u0690 | 00:52:33.930-00:52:37.610 | Riswynn] I mean, it seems like divination {{not a work particular}}.
 [u0691 | 00:52:37.610-00:52:38.580 | Kenzo] Yeah, we're.
 [u0692 | 00:52:38.580-00:52:47.650 | Riswynn] It's not like him, my divines maybe I should just ask, I mean.
 [u0693 | 00:52:50.670-00:52:51.730 | Riswynn] I don't know.
@@ -888,7 +888,7 @@
 [u0888 | 01:09:36.725-01:09:42.060 | DM] It's solid, I mean. Delwath looked through it with ghostly gaze. It's solid stone.
 [u0889 | 01:09:42.069-01:09:42.849 | Seeker] Hmm.
 [u0890 | 01:09:42.850-01:09:48.630 | DM] There's no mechanism, there's no, there's no mechanical mechanism that Seeker found on the altar.
-[u0891 | 01:09:50.950-01:09:58.170 | Riswynn] All right. Could I say that I've spent my time like preparing to ritual cast my [[fine]]?
+[u0891 | 01:09:50.950-01:09:58.170 | Riswynn] All right. Could I say that I've spent my time like preparing to ritual cast my {{fine}}?
 [u0892 | 01:09:58.520-01:09:59.979 | Riswynn] I think that I should have
 [u0893 | 01:10:00.170-01:10:03.860 | Riswynn] what I think everybody can chime in, but I think that I should ask
 [u0894 | 01:10:04.830-01:10:12.290 | Riswynn] is the object that was protected here by Rai still in this building, or.
@@ -1205,7 +1205,7 @@
 [u1205 | 01:38:55.210-01:38:56.629 | Delwath] Yeah, I think so.
 [u1206 | 01:38:56.680-01:39:00.049 | Delwath] Right. Whatever Rai summoned.
 [u1207 | 01:39:00.050-01:39:03.950 | Seeker] But just to to my point again, what was that.
-[u1208 | 01:39:05.426-01:39:13.150 | DM] [[The thing]] anything like those creatures before, but they seem to be beings of the
+[u1208 | 01:39:05.426-01:39:13.150 | DM] {{The thing}} anything like those creatures before, but they seem to be beings of the
 [u1209 | 01:39:13.460-01:39:17.449 | DM] realm of the Elven firstborn.
 [u1210 | 01:39:17.960-01:39:20.060 | Seeker] Oh, look! Look!
 [u1211 | 01:39:20.060-01:39:24.990 | Wellby] The sort of thing that an elf would say they were descended from.
@@ -1577,7 +1577,7 @@
 [u1577 | 02:07:08.126-02:07:13.469 | DM] Riswynn already dispelled the glyph that would teleport you to the Elven divine realm. So
 [u1578 | 02:07:13.490-02:07:15.590 | DM] you don't have to worry about that.
 [u1579 | 02:07:16.170-02:07:16.610 | Seeker] Oh!
-[u1580 | 02:07:16.610-02:07:17.989 | Delwath] But I want to go to the [[Elven Device]].
+[u1580 | 02:07:16.610-02:07:17.989 | Delwath] But I want to go to the {{Elven Device}}.
 [u1581 | 02:07:19.020-02:07:22.730 | Seeker] They had to say it's name aloud in.
 [u1582 | 02:07:22.730-02:07:31.180 | DM] You had said its name aloud, you wouldn't have had to dispel all the magic.
 [u1583 | 02:07:31.970-02:07:35.909 | Delwath] Oh, you mean it didn't count because we didn't know we were.
@@ -1694,7 +1694,7 @@
 [u1694 | 02:20:55.570-02:20:57.020 | Delwath] Are we thinking we would.
 [u1695 | 02:20:59.530-02:21:07.799 | Riswynn] I don't know if it would help if they were memorialized here. Just the fact that their name was on a wall wouldn't necessarily give us any additional information.
 [u1696 | 02:21:07.870-02:21:12.109 | Riswynn] unless there was a long descriptive plaque.
-[u1697 | 02:21:12.110-02:21:17.260 | Wellby] Often, though, like tokens of the person are buried with them in [[a national]].
+[u1697 | 02:21:12.110-02:21:17.260 | Wellby] Often, though, like tokens of the person are buried with them in {{a national}}.
 [u1698 | 02:21:17.260-02:21:19.490 | DM] Like we've noticed around here.
 [u1699 | 02:21:20.800-02:21:24.350 | Wellby] Okay, so, maybe, yeah.
 [u1700 | 02:21:24.800-02:21:29.950 | Riswynn] So maybe we should get a bunch of pairs of eyes looking around for these 7 names.
@@ -1784,7 +1784,7 @@
 [u1784 | 02:30:08.590-02:30:21.300 | DM] magic users, divine people who were memorializing the the
 [u1785 | 02:30:21.990-02:30:30.650 | DM] the dead were were part of what seemed to be an order of not just divine magic users, but other
 [u1786 | 02:30:30.760-02:30:41.280 | DM] one of these these secret societies of Drankor that was devoted to the father, I think.
-[u1787 | 02:30:44.630-02:30:55.040 | DM] yeah, and and we're we're sort of known as the Radiant Path, or or [[auto, Lucas]].
+[u1787 | 02:30:44.630-02:30:55.040 | DM] yeah, and and we're we're sort of known as the Radiant Path, or or {{auto, Lucas}}.
 [u1788 | 02:30:55.710-02:30:58.319 | Delwath] Wait. Didn't we hear that name before.
 [u1789 | 02:30:58.320-02:31:04.339 | DM] No, you heard the Pyro something.
 [u1790 | 02:31:04.340-02:31:05.410 | Delwath] Now, yeah. Okay.
@@ -1925,7 +1925,7 @@
 [u1925 | 02:45:39.270-02:45:40.729 | Riswynn] Or the Peronar.
 [u1926 | 02:45:41.652-02:45:48.899 | DM] There is there is one human. Now I'm making up all the names. So the human is
 [u1927 | 02:45:49.541-02:45:56.418 | DM] so the one thing about the human, the other the last human who's not in the Book of Martyrs?
-[u1928 | 02:45:57.911-02:46:07.216 | DM] their name. Their name is [[not very it's]]
+[u1928 | 02:45:57.911-02:46:07.216 | DM] their name. Their name is {{not very it's}}
 [u1929 | 02:46:15.130-02:46:24.810 | DM] which is, which is definitely not. I mean, that's not. That's not a typical Drankorian name. And of course Apollyon has not recorded
 [u1930 | 02:46:25.080-02:46:26.999 | DM] details about these people.
 [u1931 | 02:46:28.910-02:46:37.270 | DM] But it certainly sounds like somebody who was perhaps a foreigner in the city.
@@ -2163,7 +2163,7 @@
 [u2163 | 03:07:36.820-03:07:40.819 | DM] one story now it's all collapsed. There's piles of rubble around
 [u2164 | 03:07:41.070-03:07:48.539 | DM] what it seems to be, I mean, is this sort of very twisting sort of elegant curvy, almost wavy architecture.
 [u2165 | 03:07:50.270-03:08:00.699 | DM] And Kenzo, you you sense. You can feel now if you concentrate the the strongest sort of
-[u2166 | 03:08:00.730-03:08:10.030 | DM] echo. Strongest impression of this of this elf [[volanthi]]
+[u2166 | 03:08:00.730-03:08:10.030 | DM] echo. Strongest impression of this of this elf {{volanthi}}
 [u2167 | 03:08:10.820-03:08:14.019 | DM] is in the courtyard of this building just ahead of you.
 [u2168 | 03:08:19.880-03:08:23.959 | DM] So you step forward into the courtyard.
 [u2169 | 03:08:24.200-03:08:24.810 | Riswynn] Yep.
@@ -2301,7 +2301,7 @@
 [u2301 | 03:18:58.950-03:19:03.999 | DM] spectral arms, emerge and begin to grasp and and hold on to you.
 [u2302 | 03:19:05.470-03:19:06.160 | Wellby] A 22.
 [u2303 | 03:19:06.160-03:19:07.100 | DM] DC 17.
-[u2304 | 03:19:07.730-03:19:08.490 | Delwath] [[Dean]].
+[u2304 | 03:19:07.730-03:19:08.490 | Delwath] {{Dean}}.
 [u2305 | 03:19:09.160-03:19:10.889 | DM] Delwath is restrained.
 [u2306 | 03:19:11.210-03:19:12.930 | DM] That's why I didn't know what you rolled.
 [u2307 | 03:19:13.760-03:19:15.200 | Wellby] A 22.
@@ -2440,7 +2440,7 @@
 [u2440 | 03:30:23.900-03:30:27.770 | Wellby] Oh, pull it out! What what is it?
 [u2441 | 03:30:28.392-03:30:33.769 | DM] It is the not like a
 [u2442 | 03:30:34.360-03:30:44.699 | DM] part of a quill, like the ink part of a silver quill, I mean Kenzo. When you touch this you can. You can sense immediately that
-[u2443 | 03:30:45.130-03:30:48.079 | DM] [[violanthea]]. This elven woman, was a writer.
+[u2443 | 03:30:45.130-03:30:48.079 | DM] {{violanthea}}. This elven woman, was a writer.
 [u2444 | 03:30:50.650-03:30:54.230 | DM] and this is what's left of her writing.
 [u2445 | 03:30:56.250-03:31:00.159 | Delwath] Well that seems like success right?
 [u2446 | 03:31:01.720-03:31:03.960 | Kenzo] Elected.
@@ -2510,7 +2510,7 @@
 [u2510 | 03:34:53.960-03:34:54.480 | Riswynn] Is, that.
 [u2511 | 03:34:54.480-03:34:55.230 | Seeker] So.
 [u2512 | 03:34:55.230-03:34:57.949 | Riswynn] There were no appropriate authentication?
-[u2513 | 03:34:57.950-03:35:00.810 | DM] [[No no appropriate authentications]].
+[u2513 | 03:34:57.950-03:35:00.810 | DM] {{No no appropriate authentications}}.
 [u2514 | 03:35:00.810-03:35:04.440 | Wellby] That's like way more terse than he ever is.
 [u2515 | 03:35:04.440-03:35:08.620 | Delwath] I mean, you only get 25 words with sending, but still you're right.
 [u2516 | 03:35:09.750-03:35:12.739 | Kenzo] Wait, but they he authenticated back that it's him.

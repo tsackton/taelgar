@@ -1,0 +1,3101 @@
+{
+  "schemaVersion": "1.0",
+  "preparedSourcePath": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-source-prepared.md",
+  "preparedSourceSha256": "8a3784d93948a0319f966954d2040b29bd3c3763784f32169735d3abe24be354",
+  "cleanedTranscriptPath": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-source-cleaned.md",
+  "transcriptSha256": "ea6d7a7b364a70a3f30094868cc5877ba7bf0ad511f1ea5ab526aecba5a8b506",
+  "counts": {
+    "totalUnits": 1356,
+    "changedUnits": 324,
+    "materialLines": 16,
+    "materialSpans": 16,
+    "materialIssueGroups": 14,
+    "incidentalLines": 38,
+    "incidentalSpans": 38,
+    "acceptedMaterialLines": 0
+  },
+  "judgment": "Both passes complete. Precise mount references, several garbled descriptive/tactical clauses, crown advice, and one negation remain unresolved. The surrounding transcript preserves the main action sequence. Review is logged for the morning at the user’s request; uncertainty has not been accepted. Unmarked incidental speech is inventoried separately.",
+  "humanAcceptance": false,
+  "reviewMode": "Questions logged for morning review by explicit user instruction; no chat questions or audio page.",
+  "quotationPolicy": "preparedSourceQuotation and sourceContext fields are exact prepared-source text; cleanedWording and cleanedContext fields are exact canonical cleaned-transcript text. Brackets in cleaned wording mark uncertainty, not wikilinks.",
+  "issues": [
+    {
+      "uid": "u0089",
+      "importance": "material",
+      "group": "manifestation-location",
+      "reason": "The place where the Prismwell manifested is garbled; do not treat the location word as an established name.",
+      "reviewQuestion": "What location follows “manifest in”?",
+      "preparedSourceSpans": [
+        "every. Well"
+      ],
+      "cleanedSpans": [
+        "every. Well"
+      ],
+      "header": "[u0089 | 00:12:00.020-00:12:10.030 | DM]",
+      "preparedSourceQuotation": "Didn't mean to be to be subtle. It like lighting up this room caused the prison well to manifest in every. Well.",
+      "cleanedWording": "Didn't mean to be to be subtle. It, like, lighting up this room caused the Prismwell to manifest in [[every. Well]].",
+      "sourceContextBefore": [
+        {
+          "uid": "u0087",
+          "preparedSourceQuotation": "Or is there another way, something else physically here that could help us."
+        },
+        {
+          "uid": "u0088",
+          "preparedSourceQuotation": "Yeah, okay."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0090",
+          "preparedSourceQuotation": "So we just gotta find."
+        },
+        {
+          "uid": "u0091",
+          "preparedSourceQuotation": "Did set up a connection is just not connected physically here."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0087",
+          "cleanedWording": "Or is there another way, something else physically here that could help us."
+        },
+        {
+          "uid": "u0088",
+          "cleanedWording": "Yeah, okay."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0090",
+          "cleanedWording": "So we just gotta find."
+        },
+        {
+          "uid": "u0091",
+          "cleanedWording": "Did set up a connection, it's just not connected physically here."
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u0209",
+      "importance": "material",
+      "group": "shadow-creature-description",
+      "reason": "The creature’s bodily description is unclear; wings and a giant scythe are explicit.",
+      "reviewQuestion": "What is the creature attached to, or how is its body described?",
+      "preparedSourceSpans": [
+        "attached to the human attached will"
+      ],
+      "cleanedSpans": [
+        "attached to the human attached will"
+      ],
+      "header": "[u0209 | 00:21:31.290-00:21:44.790 | DM]",
+      "preparedSourceQuotation": "winged creature attached to the human attached will, holding a giant scythe begin. They're still growing, but it's like they're beginning to bud out of the darkness, and",
+      "cleanedWording": "winged creature [[attached to the human attached will]], holding a giant scythe begin. They're still growing, but it's like they're beginning to bud out of the darkness, and",
+      "sourceContextBefore": [
+        {
+          "uid": "u0207",
+          "preparedSourceQuotation": "bething and anger. It's boiling. Little fragments of the darkness are beginning to sort of bud off and grow wings and form into this"
+        },
+        {
+          "uid": "u0208",
+          "preparedSourceQuotation": "thing you fought this"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0210",
+          "preparedSourceQuotation": "you can't see much, because you're the one person in light, as everything else around here is sort of"
+        },
+        {
+          "uid": "u0211",
+          "preparedSourceQuotation": "in the darkness. You lit up standing on the roof of this tower."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0207",
+          "cleanedWording": "seething in anger. It's boiling. Little fragments of the darkness are beginning to sort of bud off and grow wings and form into this"
+        },
+        {
+          "uid": "u0208",
+          "cleanedWording": "thing you fought this"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0210",
+          "cleanedWording": "you can't see much, because you're the one person in light, as everything else around here is sort of"
+        },
+        {
+          "uid": "u0211",
+          "cleanedWording": "in the darkness. You're lit up standing on the roof of this tower."
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u0225",
+      "importance": "material",
+      "group": "attack-narration",
+      "reason": "A broken clause obscures the attack approach; the later hit, damage and silence effect remain explicit.",
+      "reviewQuestion": "What is flying out of the darkness here?",
+      "preparedSourceSpans": [
+        "flying out of that you"
+      ],
+      "cleanedSpans": [
+        "flying out of that you"
+      ],
+      "header": "[u0225 | 00:24:05.616-00:24:10.140 | DM]",
+      "preparedSourceQuotation": "flying out of that you!",
+      "cleanedWording": "[[flying out of that you]]!",
+      "sourceContextBefore": [
+        {
+          "uid": "u0223",
+          "preparedSourceQuotation": "moving considerably slower than you are."
+        },
+        {
+          "uid": "u0224",
+          "preparedSourceQuotation": "Just a swarming mass of dark shapes and flying out of"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0226",
+          "preparedSourceQuotation": "This word of as you're zipping past running to escape them."
+        },
+        {
+          "uid": "u0227",
+          "preparedSourceQuotation": "This bound this screech of terror. Strikes you. That's 11, plus"
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0223",
+          "cleanedWording": "moving considerably slower than you are."
+        },
+        {
+          "uid": "u0224",
+          "cleanedWording": "Just a swarming mass of dark shapes and flying out of"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0226",
+          "cleanedWording": "This sort of, as you're zipping past running to escape them."
+        },
+        {
+          "uid": "u0227",
+          "cleanedWording": "This sound, this screech of terror strikes you. That's 11, plus"
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u0462",
+      "importance": "material",
+      "group": "distraction-proposal",
+      "reason": "The question about making invisibility convincing contains a semantically implausible phrase.",
+      "reviewQuestion": "What phrase replaces “drink that”?",
+      "preparedSourceSpans": [
+        "drink that"
+      ],
+      "cleanedSpans": [
+        "drink that"
+      ],
+      "header": "[u0462 | 00:41:39.840-00:41:43.590 | Delwath]",
+      "preparedSourceQuotation": "Right. So how do we drink that.",
+      "cleanedWording": "Right. So how do we [[drink that]].",
+      "sourceContextBefore": [
+        {
+          "uid": "u0460",
+          "preparedSourceQuotation": "we'll have 2 2. Well, 4 creatures that now I can make 4 creatures invisible."
+        },
+        {
+          "uid": "u0461",
+          "preparedSourceQuotation": "but it seems like we need something. So that I mean, if we just 2, if 2 of just just pop out of the sky, the invisibility seems potentially less useful."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0463",
+          "preparedSourceQuotation": "I mean, we're all flying like we go. I don't know."
+        },
+        {
+          "uid": "u0464",
+          "preparedSourceQuotation": "I just get worried."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0460",
+          "cleanedWording": "we'll have 2 2. Well, 4 creatures that now I can make 4 creatures invisible."
+        },
+        {
+          "uid": "u0461",
+          "cleanedWording": "but it seems like we need something. So that I mean, if we just 2, if 2 of us just pop out of the sky, the invisibility seems potentially less useful."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0463",
+          "cleanedWording": "I mean, we're all flying like we go. I don't know."
+        },
+        {
+          "uid": "u0464",
+          "cleanedWording": "I just get worried."
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u0546",
+      "importance": "material",
+      "group": "flight-formation",
+      "reason": "The proposed flight formation or maneuver is unclear.",
+      "reviewQuestion": "Is this a Y, a wide formation, or another phrase?",
+      "preparedSourceSpans": [
+        "why"
+      ],
+      "cleanedSpans": [
+        "why"
+      ],
+      "header": "[u0546 | 00:48:06.580-00:48:13.190 | Delwath]",
+      "preparedSourceQuotation": "I think we should just do it sooner, too. We should like fly in a why, in a",
+      "cleanedWording": "I think we should just do it sooner, too. We should like fly in a [[why]], in a",
+      "sourceContextBefore": [
+        {
+          "uid": "u0544",
+          "preparedSourceQuotation": "just double, seemed very concerned about having a distraction, but the distraction delays it."
+        },
+        {
+          "uid": "u0545",
+          "preparedSourceQuotation": "I kind of think I'm talking myself back into thinking we should do it sooner and not have it. Yeah."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0547",
+          "preparedSourceQuotation": "we we can like try and."
+        },
+        {
+          "uid": "u0548",
+          "preparedSourceQuotation": "Dancers that try to what all themselves up."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0544",
+          "cleanedWording": "just Delwath seemed very concerned about having a distraction, but the distraction delays it."
+        },
+        {
+          "uid": "u0545",
+          "cleanedWording": "I kind of think I'm talking myself back into thinking we should do it sooner and not have it. Yeah."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0547",
+          "cleanedWording": "we we can like try and."
+        },
+        {
+          "uid": "u0548",
+          "cleanedWording": "Dancers that try to what all themselves up."
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u0562",
+      "importance": "material",
+      "group": "mount-references",
+      "reason": "Kenzo is named as riding the wyvern in u0434; this line instead names Kenzo’s griffin. Preserve the discrepancy pending review.",
+      "reviewQuestion": "Is “Kenzo’s” an ASR error or a spoken slip?",
+      "preparedSourceSpans": [
+        "Kenzo's"
+      ],
+      "cleanedSpans": [
+        "Kenzo's"
+      ],
+      "header": "[u0562 | 00:49:09.690-00:49:15.950 | DM]",
+      "preparedSourceQuotation": "So the Wyvern and Valeris's Griffin and Kenzo's Griffin are all. Now",
+      "cleanedWording": "So the wyvern and Valeris's griffin and [[Kenzo's]] griffin are all. Now",
+      "sourceContextBefore": [
+        {
+          "uid": "u0560",
+          "preparedSourceQuotation": "I'm going to fly through in Longstrider."
+        },
+        {
+          "uid": "u0561",
+          "preparedSourceQuotation": "Okay."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0563",
+          "preparedSourceQuotation": "get a boost of energy and speed from."
+        },
+        {
+          "uid": "u0564",
+          "preparedSourceQuotation": "So now, what if they go their full speed instead of being closed."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0560",
+          "cleanedWording": "I'm going to fly through and longstrider."
+        },
+        {
+          "uid": "u0561",
+          "cleanedWording": "Okay."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0563",
+          "cleanedWording": "get a boost of energy and speed from."
+        },
+        {
+          "uid": "u0564",
+          "cleanedWording": "So now, if they go their full speed instead of being closed."
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u0614",
+      "importance": "material",
+      "group": "mount-references",
+      "reason": "Wellby is described on a griffin although u0313–u0320 and u0434 put him on the wyvern.",
+      "reviewQuestion": "Was “griffin” spoken, or should this refer to the wyvern?",
+      "preparedSourceSpans": [
+        "Griffin"
+      ],
+      "cleanedSpans": [
+        "griffin"
+      ],
+      "header": "[u0614 | 00:54:31.220-00:54:37.510 | DM]",
+      "preparedSourceQuotation": "Welby turns a little bit on the Griffin, and you're sort of following the course of the river a little bit, following the sparkles",
+      "cleanedWording": "Wellby turns a little bit on the [[griffin]], and you're sort of following the course of the river a little bit, following the sparkles",
+      "sourceContextBefore": [
+        {
+          "uid": "u0612",
+          "preparedSourceQuotation": "you know."
+        },
+        {
+          "uid": "u0613",
+          "preparedSourceQuotation": "featureless sky. The griffins are going to look at best like dots, right? I mean, that's close to the resolution that we should be able to spot them, and at this point, as you're as you're slowly gaining ground, they've now long past flown past where the invisible folks are."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0615",
+          "preparedSourceQuotation": "from beneath you, at least for a minute."
+        },
+        {
+          "uid": "u0616",
+          "preparedSourceQuotation": "You seem to be out of sight."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0612",
+          "cleanedWording": "you know."
+        },
+        {
+          "uid": "u0613",
+          "cleanedWording": "featureless sky. The griffins are going to look at best like dots, right? I mean, that's close to the resolution that we should be able to spot them, and at this point, as you're as you're slowly gaining ground, they've now long past flown past where the invisible folks are."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0615",
+          "cleanedWording": "from beneath you, at least for a minute."
+        },
+        {
+          "uid": "u0616",
+          "cleanedWording": "You seem to be out of sight."
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u0632",
+      "importance": "material",
+      "group": "pursuit-visibility",
+      "reason": "The explanation of whom the shadow beasts can see is garbled. Relative positions are stated in nearby lines.",
+      "reviewQuestion": "What visibility clause follows “chasing”?",
+      "preparedSourceSpans": [
+        "people like anymore"
+      ],
+      "cleanedSpans": [
+        "people like anymore"
+      ],
+      "header": "[u0632 | 00:56:22.190-00:56:27.439 | Riswynn]",
+      "preparedSourceQuotation": "Now, it's like we're chasing the shadow beasts who are chasing people like anymore, except the Wyvern.",
+      "cleanedWording": "Now, it's like we're chasing the shadow beasts who are chasing [[people like anymore]], except the wyvern.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0630",
+          "preparedSourceQuotation": "Yeah, yeah. But the shadow beasts are now in. It's like the Wyvern, the shadow beasts. And then you you're behind them because they've flown past you."
+        },
+        {
+          "uid": "u0631",
+          "preparedSourceQuotation": "Yeah, no, I know objected to the word. Wait."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0633",
+          "preparedSourceQuotation": "Right."
+        },
+        {
+          "uid": "u0634",
+          "preparedSourceQuotation": "Now an hour is almost up as you are."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0630",
+          "cleanedWording": "Yeah, yeah. But the shadow beasts are now in. It's like the Wyvern, the shadow beasts. And then you you're behind them because they've flown past you."
+        },
+        {
+          "uid": "u0631",
+          "cleanedWording": "Yeah, no, I know. I objected to the word 'wait.'"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0633",
+          "cleanedWording": "Right."
+        },
+        {
+          "uid": "u0634",
+          "cleanedWording": "Now an hour is almost up as you are."
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u0638",
+      "importance": "material",
+      "group": "ambush-proposal",
+      "reason": "The proposed attack from behind is partly garbled; the following words identify a surprise attack.",
+      "reviewQuestion": "What is the proposed approach from behind?",
+      "preparedSourceSpans": [
+        "which is chased upon them from behind"
+      ],
+      "cleanedSpans": [
+        "which is chased upon them from behind"
+      ],
+      "header": "[u0638 | 00:56:51.970-00:56:55.219 | Riswynn]",
+      "preparedSourceQuotation": "which is chased upon them from behind. A surprise attack.",
+      "cleanedWording": "[[which is chased upon them from behind]]. A surprise attack.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0636",
+          "preparedSourceQuotation": "Right."
+        },
+        {
+          "uid": "u0637",
+          "preparedSourceQuotation": "Then we will have to hide, or something"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0639",
+          "preparedSourceQuotation": "Speaker is considering animal shapes."
+        },
+        {
+          "uid": "u0640",
+          "preparedSourceQuotation": "I mean animal shapes. Would you could just turn into little birds and flutter off right."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0636",
+          "cleanedWording": "Right."
+        },
+        {
+          "uid": "u0637",
+          "cleanedWording": "Then we will have to hide, or something"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0639",
+          "cleanedWording": "Seeker is considering animal shapes."
+        },
+        {
+          "uid": "u0640",
+          "cleanedWording": "I mean animal shapes. Would you could just turn into little birds and flutter off right."
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u0710",
+      "importance": "material",
+      "group": "ranged-attack-timing",
+      "reason": "“Maybe” may be a mistranscription of a temporal connector following the 32-round estimate.",
+      "reviewQuestion": "Does this say “before they can get close,” or something else?",
+      "preparedSourceSpans": [
+        "Maybe"
+      ],
+      "cleanedSpans": [
+        "Maybe"
+      ],
+      "header": "[u0710 | 01:01:40.950-01:01:42.560 | Wellby]",
+      "preparedSourceQuotation": "Maybe they can get close.",
+      "cleanedWording": "[[Maybe]] they can get close.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0708",
+          "preparedSourceQuotation": "and I can start shooting at them from 3 or 20 feet away, like I have 32 rounds of sneak attacks on those guys."
+        },
+        {
+          "uid": "u0709",
+          "preparedSourceQuotation": "Oh, yeah."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0711",
+          "preparedSourceQuotation": "It's true."
+        },
+        {
+          "uid": "u0712",
+          "preparedSourceQuotation": "Well, be on an arrow well, be mounted on a Wyvern shooting arrows back towards them."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0708",
+          "cleanedWording": "and I can start shooting at them from 320 feet away, like I have 32 rounds of sneak attacks on those guys."
+        },
+        {
+          "uid": "u0709",
+          "cleanedWording": "Oh, yeah."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0711",
+          "cleanedWording": "It's true."
+        },
+        {
+          "uid": "u0712",
+          "cleanedWording": "Wellby on an arrow, Wellby mounted on a wyvern shooting arrows back towards them."
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u0755",
+      "importance": "material",
+      "group": "mount-references",
+      "reason": "The named distant creature conflicts with the ongoing account of shadow beasts pursuing the wyvern.",
+      "reviewQuestion": "What creature or group is half a mile away?",
+      "preparedSourceSpans": [
+        "Wyvern's"
+      ],
+      "cleanedSpans": [
+        "Wyvern's"
+      ],
+      "header": "[u0755 | 01:05:31.800-01:05:38.450 | DM]",
+      "preparedSourceQuotation": "The Wyvern's still like half a mile away or so. Right they haven't. They've only closed up",
+      "cleanedWording": "The [[Wyvern's]] still like half a mile away or so. Right, they haven't. They've only closed up",
+      "sourceContextBefore": [
+        {
+          "uid": "u0753",
+          "preparedSourceQuotation": "seeker and rizwin now starting to catch up. Not not so far behind you now, maybe only a few minutes behind."
+        },
+        {
+          "uid": "u0754",
+          "preparedSourceQuotation": "Until within."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0756",
+          "preparedSourceQuotation": "a small part of the gap. The Warg riders and dusks noticing you. But you're too high up. They're they're sort of beginning to wheel and circle towards the"
+        },
+        {
+          "uid": "u0757",
+          "preparedSourceQuotation": "towards the mist, when suddenly you burst through the clouds"
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0753",
+          "cleanedWording": "Seeker and Riswynn now starting to catch up. Not not so far behind you now, maybe only a few minutes behind."
+        },
+        {
+          "uid": "u0754",
+          "cleanedWording": "Until within."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0756",
+          "cleanedWording": "a small part of the gap. The warg riders and duskhounds noticing you. But you're too high up. They're they're sort of beginning to wheel and circle towards the"
+        },
+        {
+          "uid": "u0757",
+          "cleanedWording": "towards the mist, when suddenly you burst through the clouds"
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u0877",
+      "importance": "material",
+      "group": "seeker-position",
+      "reason": "The lead word describing Seeker’s exposed position is unclear, relevant to who is in the line of fire.",
+      "reviewQuestion": "What precedes “out of the exposed position”?",
+      "preparedSourceSpans": [
+        "Buy"
+      ],
+      "cleanedSpans": [
+        "Buy"
+      ],
+      "header": "[u0877 | 01:15:40.870-01:15:43.260 | DM]",
+      "preparedSourceQuotation": "Buy out of the exposed position.",
+      "cleanedWording": "[[Buy]] out of the exposed position.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0875",
+          "preparedSourceQuotation": "Okay, seeker, seekers."
+        },
+        {
+          "uid": "u0876",
+          "preparedSourceQuotation": "Hilton."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0878",
+          "preparedSourceQuotation": "An arrow bounces off Riswin's armor, and Kenzo just instinctively steps to the side as as an arrow flies past him."
+        },
+        {
+          "uid": "u0879",
+          "preparedSourceQuotation": "Then you begin to see sort of tendrils of of"
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0875",
+          "cleanedWording": "Okay, Seeker, Seeker's"
+        },
+        {
+          "uid": "u0876",
+          "cleanedWording": "Hilton."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0878",
+          "cleanedWording": "An arrow bounces off Riswynn's armor, and Kenzo just instinctively steps to the side as as an arrow flies past him."
+        },
+        {
+          "uid": "u0879",
+          "cleanedWording": "Then you begin to see sort of tendrils of of"
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u1110",
+      "importance": "material",
+      "group": "crown-advice",
+      "reason": "A full sentence about the crown, purpose and breaking is garbled. Do not reconstruct magical advice from this sentence alone.",
+      "reviewQuestion": "What is the exact advice about breaking or directing the crown?",
+      "preparedSourceSpans": [
+        "Put the crown to something powerful enough to break"
+      ],
+      "cleanedSpans": [
+        "Put the crown to something powerful enough to break"
+      ],
+      "header": "[u1110 | 01:37:54.570-01:38:04.480 | DM]",
+      "preparedSourceQuotation": "Put the crown to something powerful enough to break.",
+      "cleanedWording": "[[Put the crown to something powerful enough to break]].",
+      "sourceContextBefore": [
+        {
+          "uid": "u1108",
+          "preparedSourceQuotation": "a purpose."
+        },
+        {
+          "uid": "u1109",
+          "preparedSourceQuotation": "Cool."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u1111",
+          "preparedSourceQuotation": "and she stops for a minute and closes her eyes, as if"
+        },
+        {
+          "uid": "u1112",
+          "preparedSourceQuotation": "soul sighting the Crown or Rizwyn, or get the sense that she's reaching out somehow, magically."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u1108",
+          "cleanedWording": "a purpose."
+        },
+        {
+          "uid": "u1109",
+          "cleanedWording": "Cool."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u1111",
+          "cleanedWording": "and she stops for a minute and closes her eyes, as if"
+        },
+        {
+          "uid": "u1112",
+          "cleanedWording": "soul sighting the crown or Riswynn, or you get the sense that she's reaching out somehow, magically."
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u1119",
+      "importance": "material",
+      "group": "crown-bonds",
+      "reason": "The verb describing the crown’s existing bonds is uncertain.",
+      "reviewQuestion": "What verb follows “it now”?",
+      "preparedSourceSpans": [
+        "believes"
+      ],
+      "cleanedSpans": [
+        "believes"
+      ],
+      "header": "[u1119 | 01:39:03.580-01:39:10.720 | DM]",
+      "preparedSourceQuotation": "to the bonds of control that it now believes, and",
+      "cleanedWording": "to the bonds of control that it now [[believes]], and",
+      "sourceContextBefore": [
+        {
+          "uid": "u1117",
+          "preparedSourceQuotation": "We feel it."
+        },
+        {
+          "uid": "u1118",
+          "preparedSourceQuotation": "You must either create a new purpose for it, or eventually succumb"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u1120",
+          "preparedSourceQuotation": "it is bonded to you, but"
+        },
+        {
+          "uid": "u1121",
+          "preparedSourceQuotation": "eventually, either you must"
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u1117",
+          "cleanedWording": "We feel it."
+        },
+        {
+          "uid": "u1118",
+          "cleanedWording": "You must either create a new purpose for it, or eventually succumb"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u1120",
+          "cleanedWording": "it is bonded to you, but"
+        },
+        {
+          "uid": "u1121",
+          "cleanedWording": "eventually, either you must"
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u1169",
+      "importance": "material",
+      "group": "crown-appearance",
+      "reason": "The crown’s new appearance includes an unclear descriptive phrase.",
+      "reviewQuestion": "What describes the crown between “more” and “more grounded”?",
+      "preparedSourceSpans": [
+        "green, real"
+      ],
+      "cleanedSpans": [
+        "green, real"
+      ],
+      "header": "[u1169 | 01:45:03.090-01:45:12.479 | DM]",
+      "preparedSourceQuotation": "less sort of ottentatious and more green, real, more grounded.",
+      "cleanedWording": "less sort of ostentatious and more [[green, real]], more grounded.",
+      "sourceContextBefore": [
+        {
+          "uid": "u1167",
+          "preparedSourceQuotation": "its appearance has already changed to look sort of dwarven."
+        },
+        {
+          "uid": "u1168",
+          "preparedSourceQuotation": "But it settles in a way it"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u1170",
+          "preparedSourceQuotation": "and"
+        },
+        {
+          "uid": "u1171",
+          "preparedSourceQuotation": "riz when you feel everybody who was connected to the Crown, including several people currently trapped in the mirror."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u1167",
+          "cleanedWording": "its appearance has already changed to look sort of dwarven."
+        },
+        {
+          "uid": "u1168",
+          "cleanedWording": "But it settles in a way it"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u1170",
+          "cleanedWording": "and"
+        },
+        {
+          "uid": "u1171",
+          "cleanedWording": "Riswynn, you feel everybody who was connected to the crown, including several people currently trapped in the mirror."
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u1239",
+      "importance": "material",
+      "group": "mission-negation",
+      "reason": "The negative “won’t” is contextually surprising after Riswynn takes a substantial mission, and could reverse the intended statement.",
+      "reviewQuestion": "Was the statement “will” or “won’t” be much to do?",
+      "preparedSourceSpans": [
+        "won't"
+      ],
+      "cleanedSpans": [
+        "won't"
+      ],
+      "header": "[u1239 | 01:50:53.850-01:50:55.810 | DM]",
+      "preparedSourceQuotation": "There won't be much to do.",
+      "cleanedWording": "There [[won't]] be much to do.",
+      "sourceContextBefore": [
+        {
+          "uid": "u1237",
+          "preparedSourceQuotation": "crew in suspense. I do not know long how long you have been gone."
+        },
+        {
+          "uid": "u1238",
+          "preparedSourceQuotation": "And you, now that you have taken this mission. Turning to Rizwyn."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u1240",
+          "preparedSourceQuotation": "And then she turns and looks at"
+        },
+        {
+          "uid": "u1241",
+          "preparedSourceQuotation": "Valeris, the satcher, who's been hiding behind as many people as possible, trying not to be noticed."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u1237",
+          "cleanedWording": "crew in suspense. I do not know long how long you have been gone."
+        },
+        {
+          "uid": "u1238",
+          "cleanedWording": "And you, now that you have taken this mission. Turning to Riswynn."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u1240",
+          "cleanedWording": "And then she turns and looks at"
+        },
+        {
+          "uid": "u1241",
+          "cleanedWording": "Valeris, the satyr, who's been hiding behind as many people as possible, trying not to be noticed."
+        }
+      ],
+      "decisionStatus": "pending_morning_review"
+    },
+    {
+      "uid": "u0177",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "Return-to-table chatter; the stray word does not identify an in-world person or event.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "show"
+      ],
+      "cleanedSpans": [
+        "show"
+      ],
+      "header": "[u0177 | 00:19:15.290-00:19:17.320 | Kenzo]",
+      "preparedSourceQuotation": "Sorry about that show. I'm back.",
+      "cleanedWording": "Sorry about that show. I'm back.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0175",
+          "preparedSourceQuotation": "Kong."
+        },
+        {
+          "uid": "u0176",
+          "preparedSourceQuotation": "Hey!"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0178",
+          "preparedSourceQuotation": "No worries. Kenzo dealt with"
+        },
+        {
+          "uid": "u0179",
+          "preparedSourceQuotation": "riswin and Seeker Dimension doored back to out from the chamber back to the"
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0175",
+          "cleanedWording": "Kong."
+        },
+        {
+          "uid": "u0176",
+          "cleanedWording": "Hey!"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0178",
+          "cleanedWording": "No worries. Kenzo, Delwath,"
+        },
+        {
+          "uid": "u0179",
+          "cleanedWording": "Riswynn and Seeker dimension doored back to out from the chamber back to the"
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0182",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "Banter during the escape explanation; the chosen runner and method are explicit elsewhere.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "He's a kick."
+      ],
+      "cleanedSpans": [
+        "He's a kick."
+      ],
+      "header": "[u0182 | 00:19:42.260-00:19:42.820 | Wellby]",
+      "preparedSourceQuotation": "He's a kick.",
+      "cleanedWording": "He's a kick.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0180",
+          "preparedSourceQuotation": "base camp where the satyr and the and the"
+        },
+        {
+          "uid": "u0181",
+          "preparedSourceQuotation": "and the griffins are waiting, and Welby is currently trying to flee on his own through the darkness."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0183",
+          "preparedSourceQuotation": "Oh, shit."
+        },
+        {
+          "uid": "u0184",
+          "preparedSourceQuotation": "Cheesecake."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0180",
+          "cleanedWording": "base camp where the satyr and the and the"
+        },
+        {
+          "uid": "u0181",
+          "cleanedWording": "and the griffins are waiting, and Wellby is currently trying to flee on his own through the darkness."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0183",
+          "cleanedWording": "Oh, shit."
+        },
+        {
+          "uid": "u0184",
+          "cleanedWording": "Cheesecake."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0184",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "Banter during the escape explanation; no action or decision depends on this interjection.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "Cheesecake."
+      ],
+      "cleanedSpans": [
+        "Cheesecake."
+      ],
+      "header": "[u0184 | 00:19:43.220-00:19:43.740 | Wellby]",
+      "preparedSourceQuotation": "Cheesecake.",
+      "cleanedWording": "Cheesecake.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0182",
+          "preparedSourceQuotation": "He's a kick."
+        },
+        {
+          "uid": "u0183",
+          "preparedSourceQuotation": "Oh, shit."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0185",
+          "preparedSourceQuotation": "Why are you doing that."
+        },
+        {
+          "uid": "u0186",
+          "preparedSourceQuotation": "Because we can only."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0182",
+          "cleanedWording": "He's a kick."
+        },
+        {
+          "uid": "u0183",
+          "cleanedWording": "Oh, shit."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0185",
+          "cleanedWording": "Why are you doing that."
+        },
+        {
+          "uid": "u0186",
+          "cleanedWording": "Because we can only."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0240",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "Dice or screen aside; the final total of 19 is explicit.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "that screen"
+      ],
+      "cleanedSpans": [
+        "that screen"
+      ],
+      "header": "[u0240 | 00:25:21.610-00:25:31.740 | Wellby]",
+      "preparedSourceQuotation": "Oh, shit. Okay, that is altogether hang on actually, that screen. 19 altogether.",
+      "cleanedWording": "Oh, shit. Okay, that is altogether hang on actually, that screen. 19 altogether.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0238",
+          "preparedSourceQuotation": "I do not."
+        },
+        {
+          "uid": "u0239",
+          "preparedSourceQuotation": "Okay."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0241",
+          "preparedSourceQuotation": "Oh, okay."
+        },
+        {
+          "uid": "u0242",
+          "preparedSourceQuotation": "90, sir."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0238",
+          "cleanedWording": "I do not."
+        },
+        {
+          "uid": "u0239",
+          "cleanedWording": "Okay."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0241",
+          "cleanedWording": "Oh, okay."
+        },
+        {
+          "uid": "u0242",
+          "cleanedWording": "19, sir."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0276",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "An apparent trailing or overlapping fragment after the question about finding the Prismwell.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "Mind?"
+      ],
+      "cleanedSpans": [
+        "Mind?"
+      ],
+      "header": "[u0276 | 00:28:36.120-00:28:36.740 | Delwath]",
+      "preparedSourceQuotation": "Mind?",
+      "cleanedWording": "Mind?",
+      "sourceContextBefore": [
+        {
+          "uid": "u0274",
+          "preparedSourceQuotation": "Yeah."
+        },
+        {
+          "uid": "u0275",
+          "preparedSourceQuotation": "Is it gonna be hard to find?"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0277",
+          "preparedSourceQuotation": "Maybe it's going to be hard to find if it's."
+        },
+        {
+          "uid": "u0278",
+          "preparedSourceQuotation": "Possible to go in the absolute wrong direction."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0274",
+          "cleanedWording": "Yeah."
+        },
+        {
+          "uid": "u0275",
+          "cleanedWording": "Is it gonna be hard to find?"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0277",
+          "cleanedWording": "Maybe it's going to be hard to find if it's."
+        },
+        {
+          "uid": "u0278",
+          "cleanedWording": "Possible to go in the absolute wrong direction."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0283",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "A fragment within a hypothetical wrong-direction example; no route is selected here.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "march"
+      ],
+      "cleanedSpans": [
+        "march"
+      ],
+      "header": "[u0283 | 00:28:56.760-00:28:58.800 | Riswynn]",
+      "preparedSourceQuotation": "march and we go.",
+      "cleanedWording": "march and we go.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0281",
+          "preparedSourceQuotation": "But aren't we on the border a little bit."
+        },
+        {
+          "uid": "u0282",
+          "preparedSourceQuotation": "Okay, it's not possible to go like exactly the wrong direction. But if it's like a"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0284",
+          "preparedSourceQuotation": "Right?"
+        },
+        {
+          "uid": "u0285",
+          "preparedSourceQuotation": "That's yeah."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0281",
+          "cleanedWording": "But aren't we on the border a little bit."
+        },
+        {
+          "uid": "u0282",
+          "cleanedWording": "Okay, it's not possible to go like exactly the wrong direction. But if it's like a"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0284",
+          "cleanedWording": "Right?"
+        },
+        {
+          "uid": "u0285",
+          "cleanedWording": "That's yeah."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0287",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "Aborted request for a reminder, immediately answered by the DM.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "I've just remind."
+      ],
+      "cleanedSpans": [
+        "I've just remind."
+      ],
+      "header": "[u0287 | 00:29:05.330-00:29:08.490 | Kenzo]",
+      "preparedSourceQuotation": "Yeah, just I was just gonna say, I've just remind.",
+      "cleanedWording": "Yeah, just I was just gonna say, I've just remind.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0285",
+          "preparedSourceQuotation": "That's yeah."
+        },
+        {
+          "uid": "u0286",
+          "preparedSourceQuotation": "Remind. Remind me. Yeah, remind me again exactly what it is we're looking for."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0288",
+          "preparedSourceQuotation": "You're looking for you're looking for. Let me show you. Let me show you what you're looking for."
+        },
+        {
+          "uid": "u0289",
+          "preparedSourceQuotation": "I've been calling it an upside down tornado, but he has a more majestic name for it."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0285",
+          "cleanedWording": "That's yeah."
+        },
+        {
+          "uid": "u0286",
+          "cleanedWording": "Remind. Remind me. Yeah, remind me again exactly what it is we're looking for."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0288",
+          "cleanedWording": "You're looking for you're looking for. Let me show you. Let me show you what you're looking for."
+        },
+        {
+          "uid": "u0289",
+          "cleanedWording": "I've been calling it an upside down tornado, but he has a more majestic name for it."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0312",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "Garbled transition into mounting the wyvern; the mount action is explicit in the following exchange.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "The so get on, are you?"
+      ],
+      "cleanedSpans": [
+        "The so get on, are you?"
+      ],
+      "header": "[u0312 | 00:30:37.900-00:30:43.790 | DM]",
+      "preparedSourceQuotation": "The so get on, are you?",
+      "cleanedWording": "The so get on, are you?",
+      "sourceContextBefore": [
+        {
+          "uid": "u0310",
+          "preparedSourceQuotation": "Okay."
+        },
+        {
+          "uid": "u0311",
+          "preparedSourceQuotation": "Thank you. Welby."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0313",
+          "preparedSourceQuotation": "I assume you're getting out your griffin, I mean your Wyvern."
+        },
+        {
+          "uid": "u0314",
+          "preparedSourceQuotation": "Oh, yeah, absolutely. It's been too long."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0310",
+          "cleanedWording": "Okay."
+        },
+        {
+          "uid": "u0311",
+          "cleanedWording": "Thank you, Wellby."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0313",
+          "cleanedWording": "I assume you're getting out your griffin, I mean your Wyvern."
+        },
+        {
+          "uid": "u0314",
+          "cleanedWording": "Oh, yeah, absolutely. It's been too long."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0356",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "The allocation of the light question to Riswynn is clear; this conversational noun is uncertain.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "property"
+      ],
+      "cleanedSpans": [
+        "property"
+      ],
+      "header": "[u0356 | 00:34:17.401-00:34:20.400 | DM]",
+      "preparedSourceQuotation": "That would be a rizwin property.",
+      "cleanedWording": "That would be a Riswynn property.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0354",
+          "preparedSourceQuotation": "Yep."
+        },
+        {
+          "uid": "u0355",
+          "preparedSourceQuotation": "Can we protect ourselves with light."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0357",
+          "preparedSourceQuotation": "Have any like blanket of light, like gorgeousness going on."
+        },
+        {
+          "uid": "u0358",
+          "preparedSourceQuotation": "I have 3 long strider buffs, but."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0354",
+          "cleanedWording": "Yep."
+        },
+        {
+          "uid": "u0355",
+          "cleanedWording": "Can we protect ourselves with light."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0357",
+          "cleanedWording": "Have any like blanket of light, like gorgeousness going on."
+        },
+        {
+          "uid": "u0358",
+          "cleanedWording": "I have 3 longstrider buffs, but."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0378",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "An isolated hesitation while the DM considers Seeker’s options.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "the F"
+      ],
+      "cleanedSpans": [
+        "the F"
+      ],
+      "header": "[u0378 | 00:35:40.890-00:35:42.350 | DM]",
+      "preparedSourceQuotation": "the F",
+      "cleanedWording": "the F",
+      "sourceContextBefore": [
+        {
+          "uid": "u0376",
+          "preparedSourceQuotation": "I have 79, I mean, I have a hundred."
+        },
+        {
+          "uid": "u0377",
+          "preparedSourceQuotation": "So seeker is wondering"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0379",
+          "preparedSourceQuotation": "if"
+        },
+        {
+          "uid": "u0380",
+          "preparedSourceQuotation": "it's a risk."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0376",
+          "cleanedWording": "I have 79, I mean, I have a hundred."
+        },
+        {
+          "uid": "u0377",
+          "cleanedWording": "So Seeker is wondering"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0379",
+          "cleanedWording": "if"
+        },
+        {
+          "uid": "u0380",
+          "cleanedWording": "it's a risk."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0395",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "Garbled conversational handoff before the next tactical suggestion; no in-world name is adopted from it.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "Tell me done with?"
+      ],
+      "cleanedSpans": [
+        "Tell me done with?"
+      ],
+      "header": "[u0395 | 00:36:49.530-00:36:51.389 | Delwath]",
+      "preparedSourceQuotation": "Tell me done with? What were you gonna say?",
+      "cleanedWording": "Tell me done with? What were you gonna say?",
+      "sourceContextBefore": [
+        {
+          "uid": "u0393",
+          "preparedSourceQuotation": "Why don't you just solve it right now, Kate, come on."
+        },
+        {
+          "uid": "u0394",
+          "preparedSourceQuotation": "Don't have time."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0396",
+          "preparedSourceQuotation": "What if we had 2 of us falter like one of the"
+        },
+        {
+          "uid": "u0397",
+          "preparedSourceQuotation": "griffins was injured, or slowing down, or something right."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0393",
+          "cleanedWording": "Why don't you just solve it right now, Kate, come on."
+        },
+        {
+          "uid": "u0394",
+          "cleanedWording": "Don't have time."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0396",
+          "cleanedWording": "What if we had 2 of us falter like one of the"
+        },
+        {
+          "uid": "u0397",
+          "cleanedWording": "griffins was injured, or slowing down, or something right."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0425",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "An aborted calculation fragment, followed by the explicit half-hour estimate.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "by 10"
+      ],
+      "cleanedSpans": [
+        "by 10"
+      ],
+      "header": "[u0425 | 00:38:54.760-00:38:57.890 | DM]",
+      "preparedSourceQuotation": "by 10 in like half an hour.",
+      "cleanedWording": "by 10 in like half an hour.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0423",
+          "preparedSourceQuotation": "Like like 5 feet around."
+        },
+        {
+          "uid": "u0424",
+          "preparedSourceQuotation": "Yeah, something like that. If you do nothing they would catch you. They would catch you in"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0426",
+          "preparedSourceQuotation": "So they're gaining on us slowly enough that long Strider would make the difference."
+        },
+        {
+          "uid": "u0427",
+          "preparedSourceQuotation": "Yes."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0423",
+          "cleanedWording": "Like like 5 feet a round."
+        },
+        {
+          "uid": "u0424",
+          "cleanedWording": "Yeah, something like that. If you do nothing they would catch you. They would catch you in"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0426",
+          "cleanedWording": "So they're gaining on us slowly enough that longstrider would make the difference."
+        },
+        {
+          "uid": "u0427",
+          "cleanedWording": "Yes."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0440",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "A clipped rune-related fragment; the next line explicitly supplies “Dwarven rune.”",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "door"
+      ],
+      "cleanedSpans": [
+        "door"
+      ],
+      "header": "[u0440 | 00:39:58.260-00:40:00.580 | Riswynn]",
+      "preparedSourceQuotation": "I have a yeah, I have a door.",
+      "cleanedWording": "I have a, yeah, I have a door.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0438",
+          "preparedSourceQuotation": "Do you have a spell of longstrider, or just some."
+        },
+        {
+          "uid": "u0439",
+          "preparedSourceQuotation": "No, it's a room."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0441",
+          "preparedSourceQuotation": "Dwarven rune."
+        },
+        {
+          "uid": "u0442",
+          "preparedSourceQuotation": "Yes, I have."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0438",
+          "cleanedWording": "Do you have a spell of longstrider, or just some."
+        },
+        {
+          "uid": "u0439",
+          "cleanedWording": "No, it's a rune."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0441",
+          "cleanedWording": "Dwarven rune."
+        },
+        {
+          "uid": "u0442",
+          "cleanedWording": "Yes, I have."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0455",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "A short acknowledgement with an unclear trailing sound.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "m."
+      ],
+      "cleanedSpans": [
+        "m."
+      ],
+      "header": "[u0455 | 00:40:54.630-00:40:57.440 | Delwath]",
+      "preparedSourceQuotation": "Okay, yeah, m.",
+      "cleanedWording": "Okay, yeah, m.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0453",
+          "preparedSourceQuotation": "But I don't think you're gonna I mean, both Wyverns and Griffins are quite fast."
+        },
+        {
+          "uid": "u0454",
+          "preparedSourceQuotation": "I don't know that you're going to get a faster creature with animal shapes, you just might be able to cause confusion with animal shapes right."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0456",
+          "preparedSourceQuotation": "so, so, okay, so if we long stride our 3."
+        },
+        {
+          "uid": "u0457",
+          "preparedSourceQuotation": "Right, which we need to do shortly. We need to"
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0453",
+          "cleanedWording": "But I don't think you're gonna I mean, both Wyverns and Griffins are quite fast."
+        },
+        {
+          "uid": "u0454",
+          "cleanedWording": "I don't know that you're going to get a faster creature with animal shapes, you just might be able to cause confusion with animal shapes right."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0456",
+          "cleanedWording": "so, so, okay, so if we longstrider 3."
+        },
+        {
+          "uid": "u0457",
+          "cleanedWording": "Right, which we need to do shortly. We need to"
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0507",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "Overlapping confirmation during a clarification of the already-crossed river.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "Hadn't the rubber we could"
+      ],
+      "cleanedSpans": [
+        "Hadn't the rubber we could"
+      ],
+      "header": "[u0507 | 00:45:23.950-00:45:25.099 | DM]",
+      "preparedSourceQuotation": "Hadn't the rubber we could. Yeah.",
+      "cleanedWording": "Hadn't the rubber we could. Yeah.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0505",
+          "preparedSourceQuotation": "You're heading. You're heading back the way you came, because you."
+        },
+        {
+          "uid": "u0506",
+          "preparedSourceQuotation": "Oh! Whoa! Whoa! Whoa! Whoa!"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0508",
+          "preparedSourceQuotation": "Okay, okay?"
+        },
+        {
+          "uid": "u0509",
+          "preparedSourceQuotation": "So we could try and make some sort of terrain land"
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0505",
+          "cleanedWording": "You're heading. You're heading back the way you came, because you."
+        },
+        {
+          "uid": "u0506",
+          "cleanedWording": "Oh! Whoa! Whoa! Whoa! Whoa!"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0508",
+          "cleanedWording": "Okay, okay?"
+        },
+        {
+          "uid": "u0509",
+          "cleanedWording": "So we could try and make some sort of terrain land"
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0530",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "Clipped wording about losing invisibility, explicitly clarified by the next response about casting slow.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "That uninvisible"
+      ],
+      "cleanedSpans": [
+        "That uninvisible"
+      ],
+      "header": "[u0530 | 00:47:02.100-00:47:04.119 | DM]",
+      "preparedSourceQuotation": "That uninvisible, so.",
+      "cleanedWording": "That uninvisible, so.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0528",
+          "preparedSourceQuotation": "to try and escape."
+        },
+        {
+          "uid": "u0529",
+          "preparedSourceQuotation": "or to try, and for us to turn back around and regroup so that we're we could fight them together, or whatever."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0531",
+          "preparedSourceQuotation": "Oh, casting slow, right? Because it's not just me that yeah, that's true."
+        },
+        {
+          "uid": "u0532",
+          "preparedSourceQuotation": "Yeah."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0528",
+          "cleanedWording": "to try and escape."
+        },
+        {
+          "uid": "u0529",
+          "cleanedWording": "or to try, and for us to turn back around and regroup so that we're we could fight them together, or whatever."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0531",
+          "cleanedWording": "Oh, casting slow, right? Because it's not just me that yeah, that's true."
+        },
+        {
+          "uid": "u0532",
+          "cleanedWording": "Yeah."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0548",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "Overlapping comparison during the formation discussion; the eventual maneuver is explicitly described later.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "Dancers that try to what all themselves up"
+      ],
+      "cleanedSpans": [
+        "Dancers that try to what all themselves up"
+      ],
+      "header": "[u0548 | 00:48:16.020-00:48:18.690 | Riswynn]",
+      "preparedSourceQuotation": "Dancers that try to what all themselves up.",
+      "cleanedWording": "Dancers that try to what all themselves up.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0546",
+          "preparedSourceQuotation": "I think we should just do it sooner, too. We should like fly in a why, in a"
+        },
+        {
+          "uid": "u0547",
+          "preparedSourceQuotation": "we we can like try and."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0549",
+          "preparedSourceQuotation": "Yeah, get the griffins to like fly around a little bit in a in a pattern right?"
+        },
+        {
+          "uid": "u0550",
+          "preparedSourceQuotation": "and I mean, you could like one of the griffins who's about to turn invisible could dive or something."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0546",
+          "cleanedWording": "I think we should just do it sooner, too. We should like fly in a [[why]], in a"
+        },
+        {
+          "uid": "u0547",
+          "cleanedWording": "we we can like try and."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0549",
+          "cleanedWording": "Yeah, get the griffins to like fly around a little bit in a in a pattern right?"
+        },
+        {
+          "uid": "u0550",
+          "cleanedWording": "and I mean, you could like one of the griffins who's about to turn invisible could dive or something."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0554",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "An unclear conversational lead-in; the stated range is 30 feet here and in the preceding line.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "I almost charged"
+      ],
+      "cleanedSpans": [
+        "I almost charged"
+      ],
+      "header": "[u0554 | 00:48:43.450-00:48:45.370 | Delwath]",
+      "preparedSourceQuotation": "I almost charged 30 feet.",
+      "cleanedWording": "I almost charged 30 feet.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0552",
+          "preparedSourceQuotation": "what does that? Let me do? Hold on."
+        },
+        {
+          "uid": "u0553",
+          "preparedSourceQuotation": "Probably 30 feet."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0555",
+          "preparedSourceQuotation": "Yeah, so you could dive, and I could catch it. I could make you invisible."
+        },
+        {
+          "uid": "u0556",
+          "preparedSourceQuotation": "So let's do it."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0552",
+          "cleanedWording": "what does that? Let me do? Hold on."
+        },
+        {
+          "uid": "u0553",
+          "cleanedWording": "Probably 30 feet."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0555",
+          "cleanedWording": "Yeah, so you could dive, and I could catch it. I could make you invisible."
+        },
+        {
+          "uid": "u0556",
+          "cleanedWording": "So let's do it."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0564",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "An interrupted closing-distance formulation, immediately restated as gaining 50 feet per minute.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "closed"
+      ],
+      "cleanedSpans": [
+        "closed"
+      ],
+      "header": "[u0564 | 00:49:19.200-00:49:25.660 | DM]",
+      "preparedSourceQuotation": "So now, what if they go their full speed instead of being closed.",
+      "cleanedWording": "So now, if they go their full speed instead of being closed.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0562",
+          "preparedSourceQuotation": "So the Wyvern and Valeris's Griffin and Kenzo's Griffin are all. Now"
+        },
+        {
+          "uid": "u0563",
+          "preparedSourceQuotation": "get a boost of energy and speed from."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0565",
+          "preparedSourceQuotation": "instead of getting closing 50 feet a minute, you will be gaining 50 feet a minute."
+        },
+        {
+          "uid": "u0566",
+          "preparedSourceQuotation": "How long does ladder long stay to rest, for like an hour."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0562",
+          "cleanedWording": "So the wyvern and Valeris's griffin and [[Kenzo's]] griffin are all. Now"
+        },
+        {
+          "uid": "u0563",
+          "cleanedWording": "get a boost of energy and speed from."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0565",
+          "cleanedWording": "instead of getting closing 50 feet a minute, you will be gaining 50 feet a minute."
+        },
+        {
+          "uid": "u0566",
+          "cleanedWording": "How long does that longstrider last for, like an hour?"
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0602",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "A lookup or interface fragment before a perception roll.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "enable?"
+      ],
+      "cleanedSpans": [
+        "enable?"
+      ],
+      "header": "[u0602 | 00:53:16.380-00:53:17.720 | DM]",
+      "preparedSourceQuotation": "enable?",
+      "cleanedWording": "enable?",
+      "sourceContextBefore": [
+        {
+          "uid": "u0600",
+          "preparedSourceQuotation": "Like that, you know."
+        },
+        {
+          "uid": "u0601",
+          "preparedSourceQuotation": "Let me. Where is my"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0603",
+          "preparedSourceQuotation": "Oh, well, that's not a very good perception. Check!"
+        },
+        {
+          "uid": "u0604",
+          "preparedSourceQuotation": "They are oblivious. The the shadow creatures seem oblivious to your side."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0600",
+          "cleanedWording": "Like that, you know."
+        },
+        {
+          "uid": "u0601",
+          "cleanedWording": "Let me. Where is my"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0603",
+          "cleanedWording": "Oh, well, that's not a very good perception check!"
+        },
+        {
+          "uid": "u0604",
+          "cleanedWording": "They are oblivious. The the shadow creatures seem oblivious to your side."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0712",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "An aborted mount-related phrase immediately restarted as Wellby mounted on a wyvern.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "arrow"
+      ],
+      "cleanedSpans": [
+        "arrow"
+      ],
+      "header": "[u0712 | 01:01:47.690-01:01:53.620 | Delwath]",
+      "preparedSourceQuotation": "Well, be on an arrow well, be mounted on a Wyvern shooting arrows back towards them.",
+      "cleanedWording": "Wellby on an arrow, Wellby mounted on a wyvern shooting arrows back towards them.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0710",
+          "preparedSourceQuotation": "Maybe they can get close."
+        },
+        {
+          "uid": "u0711",
+          "preparedSourceQuotation": "It's true."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0713",
+          "preparedSourceQuotation": "Is pretty effective."
+        },
+        {
+          "uid": "u0714",
+          "preparedSourceQuotation": "While they're I mean, I can also lg your blast from"
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0710",
+          "cleanedWording": "[[Maybe]] they can get close."
+        },
+        {
+          "uid": "u0711",
+          "cleanedWording": "It's true."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0713",
+          "cleanedWording": "Is pretty effective."
+        },
+        {
+          "uid": "u0714",
+          "cleanedWording": "While they're—I mean, I can also eldritch blast from"
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0754",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "An interrupted fragment between distance statements; it records no independent action.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "Until within."
+      ],
+      "cleanedSpans": [
+        "Until within."
+      ],
+      "header": "[u0754 | 01:05:28.510-01:05:30.210 | Delwath]",
+      "preparedSourceQuotation": "Until within.",
+      "cleanedWording": "Until within.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0752",
+          "preparedSourceQuotation": "So you begin racing the last 10 min."
+        },
+        {
+          "uid": "u0753",
+          "preparedSourceQuotation": "seeker and rizwin now starting to catch up. Not not so far behind you now, maybe only a few minutes behind."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0755",
+          "preparedSourceQuotation": "The Wyvern's still like half a mile away or so. Right they haven't. They've only closed up"
+        },
+        {
+          "uid": "u0756",
+          "preparedSourceQuotation": "a small part of the gap. The Warg riders and dusks noticing you. But you're too high up. They're they're sort of beginning to wheel and circle towards the"
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0752",
+          "cleanedWording": "So you begin racing the last 10 min."
+        },
+        {
+          "uid": "u0753",
+          "cleanedWording": "Seeker and Riswynn now starting to catch up. Not not so far behind you now, maybe only a few minutes behind."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0755",
+          "cleanedWording": "The [[Wyvern's]] still like half a mile away or so. Right, they haven't. They've only closed up"
+        },
+        {
+          "uid": "u0756",
+          "cleanedWording": "a small part of the gap. The warg riders and duskhounds noticing you. But you're too high up. They're they're sort of beginning to wheel and circle towards the"
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0784",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "An isolated overlap during the floating-disk question; the selected method is later explicit.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "Sooner."
+      ],
+      "cleanedSpans": [
+        "Sooner."
+      ],
+      "header": "[u0784 | 01:08:07.350-01:08:07.760 | Riswynn]",
+      "preparedSourceQuotation": "Sooner.",
+      "cleanedWording": "Sooner.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0782",
+          "preparedSourceQuotation": "Yup! Let me see what stall slots he's got left."
+        },
+        {
+          "uid": "u0783",
+          "preparedSourceQuotation": "Do we still have that."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0785",
+          "preparedSourceQuotation": "Invisible, floating disk thing, maybe no."
+        },
+        {
+          "uid": "u0786",
+          "preparedSourceQuotation": "I don't think we have that."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0782",
+          "cleanedWording": "Yup! Let me see what spell slots he's got left."
+        },
+        {
+          "uid": "u0783",
+          "cleanedWording": "Do we still have that."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0785",
+          "cleanedWording": "Invisible, floating disk thing, maybe no."
+        },
+        {
+          "uid": "u0786",
+          "cleanedWording": "I don't think we have that."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0789",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "A broken recollection prompt, answered by the next animal-shapes exchange.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "What shaped you"
+      ],
+      "cleanedSpans": [
+        "What shaped you"
+      ],
+      "header": "[u0789 | 01:08:23.990-01:08:25.099 | DM]",
+      "preparedSourceQuotation": "What shaped you?",
+      "cleanedWording": "What shaped you?",
+      "sourceContextBefore": [
+        {
+          "uid": "u0787",
+          "preparedSourceQuotation": "We got her into the hole. How do we get her into the hole?"
+        },
+        {
+          "uid": "u0788",
+          "preparedSourceQuotation": "With a flat surface."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0790",
+          "preparedSourceQuotation": "No seeker."
+        },
+        {
+          "uid": "u0791",
+          "preparedSourceQuotation": "Animal shaped us into like elephants or something."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0787",
+          "cleanedWording": "We got her into the hole. How do we get her into the hole?"
+        },
+        {
+          "uid": "u0788",
+          "cleanedWording": "With a flat surface."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0790",
+          "cleanedWording": "No, Seeker."
+        },
+        {
+          "uid": "u0791",
+          "cleanedWording": "Animal shaped us into like elephants or something."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0794",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "A clipped suggestion in the animal-shapes discussion, superseded by the explicit telekinesis choice.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "You would just elevate"
+      ],
+      "cleanedSpans": [
+        "You would just elevate"
+      ],
+      "header": "[u0794 | 01:08:31.859-01:08:32.899 | Delwath]",
+      "preparedSourceQuotation": "You would just elevate.",
+      "cleanedWording": "You would just elevate.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0792",
+          "preparedSourceQuotation": "but he could just animal shit."
+        },
+        {
+          "uid": "u0793",
+          "preparedSourceQuotation": "Wait!"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0795",
+          "preparedSourceQuotation": "The same thing."
+        },
+        {
+          "uid": "u0796",
+          "preparedSourceQuotation": "Why don't we just do that."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0792",
+          "cleanedWording": "but he could just animal shape."
+        },
+        {
+          "uid": "u0793",
+          "cleanedWording": "Wait!"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0795",
+          "cleanedWording": "The same thing."
+        },
+        {
+          "uid": "u0796",
+          "cleanedWording": "Why don't we just do that."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0876",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "An overlapping fragment during the armor-class discussion; no new character identity is inferred.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "Hilton."
+      ],
+      "cleanedSpans": [
+        "Hilton."
+      ],
+      "header": "[u0876 | 01:15:40.520-01:15:40.870 | Delwath]",
+      "preparedSourceQuotation": "Hilton.",
+      "cleanedWording": "Hilton.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0874",
+          "preparedSourceQuotation": "Seeker."
+        },
+        {
+          "uid": "u0875",
+          "preparedSourceQuotation": "Okay, seeker, seekers."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0877",
+          "preparedSourceQuotation": "Buy out of the exposed position."
+        },
+        {
+          "uid": "u0878",
+          "preparedSourceQuotation": "An arrow bounces off Riswin's armor, and Kenzo just instinctively steps to the side as as an arrow flies past him."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0874",
+          "cleanedWording": "Seeker."
+        },
+        {
+          "uid": "u0875",
+          "cleanedWording": "Okay, Seeker, Seeker's"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0877",
+          "cleanedWording": "[[Buy]] out of the exposed position."
+        },
+        {
+          "uid": "u0878",
+          "cleanedWording": "An arrow bounces off Riswynn's armor, and Kenzo just instinctively steps to the side as as an arrow flies past him."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0901",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "A stray connector in a discussion of blind spell placement; the eventual movement and casting are explicit.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "instant"
+      ],
+      "cleanedSpans": [
+        "instant"
+      ],
+      "header": "[u0901 | 01:17:43.820-01:17:52.170 | Riswynn]",
+      "preparedSourceQuotation": "with some amount of you know, skill, instead of just shooting into the clouds instant",
+      "cleanedWording": "with some amount of you know, skill, instead of just shooting into the clouds instant",
+      "sourceContextBefore": [
+        {
+          "uid": "u0899",
+          "preparedSourceQuotation": "and either get hit by something or be able to cast a spell before I get hit by something"
+        },
+        {
+          "uid": "u0900",
+          "preparedSourceQuotation": "I don't know. I know it'll make me more visible to them. But if I can possibly place sunbursts"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0902",
+          "preparedSourceQuotation": "bad to just shoot into the clouds with my 1 8th level spell slot, show so."
+        },
+        {
+          "uid": "u0903",
+          "preparedSourceQuotation": "You do not need to see the point where you target sunburst for what it's worth."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0899",
+          "cleanedWording": "and either get hit by something or be able to cast a spell before I get hit by something"
+        },
+        {
+          "uid": "u0900",
+          "cleanedWording": "I don't know. I know it'll make me more visible to them. But if I can possibly place sunbursts"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0902",
+          "cleanedWording": "bad to just shoot into the clouds with my one 8th-level spell slot, show so."
+        },
+        {
+          "uid": "u0903",
+          "cleanedWording": "You do not need to see the point where you target sunburst for what it's worth."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0902",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "Trailing noise in the same spell-placement discussion; no additional spell use is inferred.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "show so"
+      ],
+      "cleanedSpans": [
+        "show so"
+      ],
+      "header": "[u0902 | 01:17:52.730-01:17:57.810 | Riswynn]",
+      "preparedSourceQuotation": "bad to just shoot into the clouds with my 1 8th level spell slot, show so.",
+      "cleanedWording": "bad to just shoot into the clouds with my one 8th-level spell slot, show so.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0900",
+          "preparedSourceQuotation": "I don't know. I know it'll make me more visible to them. But if I can possibly place sunbursts"
+        },
+        {
+          "uid": "u0901",
+          "preparedSourceQuotation": "with some amount of you know, skill, instead of just shooting into the clouds instant"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0903",
+          "preparedSourceQuotation": "You do not need to see the point where you target sunburst for what it's worth."
+        },
+        {
+          "uid": "u0904",
+          "preparedSourceQuotation": "I know, but I don't know what. If I put it."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0900",
+          "cleanedWording": "I don't know. I know it'll make me more visible to them. But if I can possibly place sunbursts"
+        },
+        {
+          "uid": "u0901",
+          "cleanedWording": "with some amount of you know, skill, instead of just shooting into the clouds instant"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0903",
+          "cleanedWording": "You do not need to see the point where you target sunburst for what it's worth."
+        },
+        {
+          "uid": "u0904",
+          "cleanedWording": "I know, but I don't know what. If I put it."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0928",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "An unclear interjection before the explicit insect-spirit action.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "Ughb!"
+      ],
+      "cleanedSpans": [
+        "Ughb!"
+      ],
+      "header": "[u0928 | 01:19:52.010-01:19:52.980 | Delwath]",
+      "preparedSourceQuotation": "Ughb!",
+      "cleanedWording": "Ughb!",
+      "sourceContextBefore": [
+        {
+          "uid": "u0926",
+          "preparedSourceQuotation": "Oh, you are you all well be Kenzo, or sorry Kenzo"
+        },
+        {
+          "uid": "u0927",
+          "preparedSourceQuotation": "dealt with either of you doing anything."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0929",
+          "preparedSourceQuotation": "I would have summoned my little insect spirit, but just have it."
+        },
+        {
+          "uid": "u0930",
+          "preparedSourceQuotation": "Just have it for now. Just fly around nearby, and just kind of"
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0926",
+          "cleanedWording": "Oh, are you—are you all—Wellby, Kenzo, or sorry, Kenzo,"
+        },
+        {
+          "uid": "u0927",
+          "cleanedWording": "Delwath, either of you doing anything?"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0929",
+          "cleanedWording": "I would have summoned my little insect spirit, but just have it."
+        },
+        {
+          "uid": "u0930",
+          "cleanedWording": "Just have it for now. Just fly around nearby, and just kind of"
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u0970",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "A clipped aside; the nearby clauses explicitly place the shadow creatures outside the cloud.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "set"
+      ],
+      "cleanedSpans": [
+        "set"
+      ],
+      "header": "[u0970 | 01:23:59.440-01:24:13.050 | DM]",
+      "preparedSourceQuotation": "this is, they cannot just fly straight to the cloud, so there you can set. But, Kenza, you can sense them like pushing up against their sort of malevolent will pushing against the cloud, basically just outside.",
+      "cleanedWording": "this is, they cannot just fly straight through the cloud, so there you can set. But, Kenzo, you can sense them like pushing up against, their sort of malevolent will pushing against the cloud, basically just outside.",
+      "sourceContextBefore": [
+        {
+          "uid": "u0968",
+          "preparedSourceQuotation": "it's almost like they're pushing themselves through"
+        },
+        {
+          "uid": "u0969",
+          "preparedSourceQuotation": "thick mud or something like that like"
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u0971",
+          "preparedSourceQuotation": "Yeah."
+        },
+        {
+          "uid": "u0972",
+          "preparedSourceQuotation": "At the moment the sunburst explodes."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u0968",
+          "cleanedWording": "it's almost like they're pushing themselves through"
+        },
+        {
+          "uid": "u0969",
+          "cleanedWording": "thick mud or something like that like"
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u0971",
+          "cleanedWording": "Yeah."
+        },
+        {
+          "uid": "u0972",
+          "cleanedWording": "At the moment the sunburst explodes."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u1009",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "A trailing sound after an address to the party; it is not adopted as a name.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "E"
+      ],
+      "cleanedSpans": [
+        "E"
+      ],
+      "header": "[u1009 | 01:29:28.560-01:29:33.750 | DM]",
+      "preparedSourceQuotation": "I know not who you are, E.",
+      "cleanedWording": "I know not who you are, E.",
+      "sourceContextBefore": [
+        {
+          "uid": "u1007",
+          "preparedSourceQuotation": "and she turns to look at all of you."
+        },
+        {
+          "uid": "u1008",
+          "preparedSourceQuotation": "a sort of question in her eyes, and a sort of deep weariness on her brow."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u1010",
+          "preparedSourceQuotation": "But I thank you for what you have done."
+        },
+        {
+          "uid": "u1011",
+          "preparedSourceQuotation": "She gives a bow."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u1007",
+          "cleanedWording": "and she turns to look at all of you."
+        },
+        {
+          "uid": "u1008",
+          "cleanedWording": "a sort of question in her eyes, and a sort of deep weariness on her brow."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u1010",
+          "cleanedWording": "But I thank you for what you have done."
+        },
+        {
+          "uid": "u1011",
+          "cleanedWording": "She gives a bow."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u1012",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "A garbled tail to the soul-sight request; the request and ensuing reading are explicit.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "perhaps better"
+      ],
+      "cleanedSpans": [
+        "perhaps better"
+      ],
+      "header": "[u1012 | 01:29:45.960-01:29:50.620 | Kenzo]",
+      "preparedSourceQuotation": "Hey? Tim, for fun Kenzo soul sites, perhaps better.",
+      "cleanedWording": "Hey? Tim, for fun, Kenzo soul sights, perhaps better.",
+      "sourceContextBefore": [
+        {
+          "uid": "u1010",
+          "preparedSourceQuotation": "But I thank you for what you have done."
+        },
+        {
+          "uid": "u1011",
+          "preparedSourceQuotation": "She gives a bow."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u1013",
+          "preparedSourceQuotation": "She is"
+        },
+        {
+          "uid": "u1014",
+          "preparedSourceQuotation": "okay."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u1010",
+          "cleanedWording": "But I thank you for what you have done."
+        },
+        {
+          "uid": "u1011",
+          "cleanedWording": "She gives a bow."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u1013",
+          "cleanedWording": "She is"
+        },
+        {
+          "uid": "u1014",
+          "cleanedWording": "okay."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u1059",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "A stray word in metagame discussion of motives; it is not used as a factual time reference.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "Day."
+      ],
+      "cleanedSpans": [
+        "Day."
+      ],
+      "header": "[u1059 | 01:33:09.360-01:33:11.179 | Riswynn]",
+      "preparedSourceQuotation": "Day. And everybody's miserable without her.",
+      "cleanedWording": "Day. And everybody's miserable without her.",
+      "sourceContextBefore": [
+        {
+          "uid": "u1057",
+          "preparedSourceQuotation": "Well, also, because we've heard of all the wonderful things she does."
+        },
+        {
+          "uid": "u1058",
+          "preparedSourceQuotation": "Yeah, yeah, yeah."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u1060",
+          "preparedSourceQuotation": "Yeah."
+        },
+        {
+          "uid": "u1061",
+          "preparedSourceQuotation": "What was in it for us."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u1057",
+          "cleanedWording": "Well, also, because we've heard of all the wonderful things she does."
+        },
+        {
+          "uid": "u1058",
+          "cleanedWording": "Yeah, yeah, yeah."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u1060",
+          "cleanedWording": "Yeah."
+        },
+        {
+          "uid": "u1061",
+          "cleanedWording": "What was in it for us."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u1063",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "Metagame aside about why the party acted; it introduces no distinct event or adopted motive.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "Because once you were being attacked."
+      ],
+      "cleanedSpans": [
+        "Because once you were being attacked."
+      ],
+      "header": "[u1063 | 01:33:15.960-01:33:18.137 | Kenzo]",
+      "preparedSourceQuotation": "Because once you were being attacked.",
+      "cleanedWording": "Because once you were being attacked.",
+      "sourceContextBefore": [
+        {
+          "uid": "u1061",
+          "preparedSourceQuotation": "What was in it for us."
+        },
+        {
+          "uid": "u1062",
+          "preparedSourceQuotation": "Yes, the proximate, the approximate."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u1064",
+          "preparedSourceQuotation": "Peace and quiet, peace and quiet was what was in it for us."
+        },
+        {
+          "uid": "u1065",
+          "preparedSourceQuotation": "Kendra, why did come? What did you say?"
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u1061",
+          "cleanedWording": "What was in it for us."
+        },
+        {
+          "uid": "u1062",
+          "cleanedWording": "Yes, the proximate, the approximate."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u1064",
+          "cleanedWording": "Peace and quiet, peace and quiet was what was in it for us."
+        },
+        {
+          "uid": "u1065",
+          "cleanedWording": "Kendra, why did come? What did you say?"
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u1065",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "Garbled request to repeat metagame speech; “Kendra” is not adopted as an in-world identity.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "Kendra, why did come"
+      ],
+      "cleanedSpans": [
+        "Kendra, why did come"
+      ],
+      "header": "[u1065 | 01:33:23.770-01:33:26.649 | Kenzo]",
+      "preparedSourceQuotation": "Kendra, why did come? What did you say?",
+      "cleanedWording": "Kendra, why did come? What did you say?",
+      "sourceContextBefore": [
+        {
+          "uid": "u1063",
+          "preparedSourceQuotation": "Because once you were being attacked."
+        },
+        {
+          "uid": "u1064",
+          "preparedSourceQuotation": "Peace and quiet, peace and quiet was what was in it for us."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u1066",
+          "preparedSourceQuotation": "I said, well, but what was it for us?"
+        },
+        {
+          "uid": "u1067",
+          "preparedSourceQuotation": "Kenzo does not say that, or that was not nice."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u1063",
+          "cleanedWording": "Because once you were being attacked."
+        },
+        {
+          "uid": "u1064",
+          "cleanedWording": "Peace and quiet, peace and quiet was what was in it for us."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u1066",
+          "cleanedWording": "I said, well, but what was in it for us?"
+        },
+        {
+          "uid": "u1067",
+          "cleanedWording": "Kenzo does not say that, or that was not nice."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u1217",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "A trailing aside in a joke about the ship’s rustic appearance.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "dash"
+      ],
+      "cleanedSpans": [
+        "dash"
+      ],
+      "header": "[u1217 | 01:48:58.830-01:48:59.629 | Delwath]",
+      "preparedSourceQuotation": "Yeah, dash.",
+      "cleanedWording": "Yeah, dash.",
+      "sourceContextBefore": [
+        {
+          "uid": "u1215",
+          "preparedSourceQuotation": "Ours is a bit more."
+        },
+        {
+          "uid": "u1216",
+          "preparedSourceQuotation": "Rustic."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u1218",
+          "preparedSourceQuotation": "Stony."
+        },
+        {
+          "uid": "u1219",
+          "preparedSourceQuotation": "Can we bring our skyship to your skyship?"
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u1215",
+          "cleanedWording": "Ours is a bit more."
+        },
+        {
+          "uid": "u1216",
+          "cleanedWording": "Rustic."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u1218",
+          "cleanedWording": "Stony."
+        },
+        {
+          "uid": "u1219",
+          "cleanedWording": "Can we bring our skyship to your skyship?"
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u1273",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "An unclear acknowledgement after Lastlight Falls is named; no new portal is inferred.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "Volunteer, yeah."
+      ],
+      "cleanedSpans": [
+        "Volunteer, yeah."
+      ],
+      "header": "[u1273 | 01:54:12.090-01:54:13.520 | Wellby]",
+      "preparedSourceQuotation": "Volunteer, yeah.",
+      "cleanedWording": "Volunteer, yeah.",
+      "sourceContextBefore": [
+        {
+          "uid": "u1271",
+          "preparedSourceQuotation": "and for one like me without the means magically to travel. It would be a great gift to know the way to get back again."
+        },
+        {
+          "uid": "u1272",
+          "preparedSourceQuotation": "There are several you have passed through one before I sense last light falls."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u1274",
+          "preparedSourceQuotation": "That is on the edge of my realm."
+        },
+        {
+          "uid": "u1275",
+          "preparedSourceQuotation": "There were once 2 others, one in the North."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u1271",
+          "cleanedWording": "and for one like me without the means magically to travel. It would be a great gift to know the way to get back again."
+        },
+        {
+          "uid": "u1272",
+          "cleanedWording": "There are several. You have passed through one before, I sense. Lastlight Falls."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u1274",
+          "cleanedWording": "That is on the edge of my realm."
+        },
+        {
+          "uid": "u1275",
+          "cleanedWording": "There were once 2 others, one in the North."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    },
+    {
+      "uid": "u1330",
+      "importance": "incidental",
+      "group": "incidental-speech",
+      "reason": "A short question during an image lookup; no in-world action depends on its wording.",
+      "reviewQuestion": "Optional: clarify this incidental fragment if desired; no session fact depends on it.",
+      "preparedSourceSpans": [
+        "What do we need it?"
+      ],
+      "cleanedSpans": [
+        "What do we need it?"
+      ],
+      "header": "[u1330 | 01:59:44.110-01:59:44.839 | Kenzo]",
+      "preparedSourceQuotation": "What do we need it?",
+      "cleanedWording": "What do we need it?",
+      "sourceContextBefore": [
+        {
+          "uid": "u1328",
+          "preparedSourceQuotation": "The"
+        },
+        {
+          "uid": "u1329",
+          "preparedSourceQuotation": "Oh, wait! Hold on one sec. This will be cool."
+        }
+      ],
+      "sourceContextAfter": [
+        {
+          "uid": "u1331",
+          "preparedSourceQuotation": "If I can find that"
+        },
+        {
+          "uid": "u1332",
+          "preparedSourceQuotation": "Anybody remember where we parked the car."
+        }
+      ],
+      "cleanedContextBefore": [
+        {
+          "uid": "u1328",
+          "cleanedWording": "The"
+        },
+        {
+          "uid": "u1329",
+          "cleanedWording": "Oh, wait! Hold on one sec. This will be cool."
+        }
+      ],
+      "cleanedContextAfter": [
+        {
+          "uid": "u1331",
+          "cleanedWording": "If I can find that"
+        },
+        {
+          "uid": "u1332",
+          "cleanedWording": "Anybody remember where we parked the car."
+        }
+      ],
+      "decisionStatus": "left_verbatim_incidental"
+    }
+  ]
+}

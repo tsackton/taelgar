@@ -17,7 +17,7 @@ DM: Okay, yes. So as we start tonight, across the dusty plains and deserts of Du
 DM: In the West, a tired mass of refugees fled Karawa nine days ago.
 
 %% u0006 %%
-Wellby: [[You put the value of on a roll.]]
+Wellby: {{You put the value of on a roll.}}
 
 %% u0007 %%
 DM: Out. Yes.
@@ -56,7 +56,7 @@ DM: Behind you, a sound that has a mix of applause, cackling—
 Seeker: Laughter.
 
 %% u0035-u0037 %%
-DM: And someone choking on a sip of water that went down the wrong way. The woman you met before, who led you to this cavern, telling you to fight, fight in her broken Dwarvish, is standing with five [[for teaching]] people, watching you with surprise, glee and perhaps a bit of terror, and constantly glancing over at the dead creature. What would you like to do?
+DM: And someone choking on a sip of water that went down the wrong way. The woman you met before, who led you to this cavern, telling you to fight, fight in her broken Dwarvish, is standing with five {{for teaching}} people, watching you with surprise, glee and perhaps a bit of terror, and constantly glancing over at the dead creature. What would you like to do?
 
 %% u0038 %%
 Seeker: Good. I want to investigate the stalagmites a little bit.
@@ -65,7 +65,7 @@ Seeker: Good. I want to investigate the stalagmites a little bit.
 DM: Okay.
 
 %% u0040 %%
-Kenzo: Can you put the map up? [[The remember now.]]
+Kenzo: Can you put the map up? {{The remember now.}}
 
 %% u0041 %%
 Unknown: Yeah.
@@ -119,7 +119,7 @@ Delwath: Like a little door looking thing on the left hand side of the map.
 Seeker: Yeah, we're at the top left of the more zoomed out map.
 
 %% u0066 %%
-Kenzo: Okay, [[rather popular]]. I see. Oh.
+Kenzo: Okay, {{rather popular}}. I see. Oh.
 
 %% u0067 %%
 Delwath: Well, where the road crosses the river and goes to the fortress.
@@ -149,7 +149,7 @@ Kenzo: Oh, didn't one of us almost die? Isn't Wellby very—
 Wellby: I'm at about half, so I'm injured but not critically.
 
 %% u0079-u0080 %%
-Seeker: I'm going to check my spell slots. [[I boo.]]
+Seeker: I'm going to check my spell slots. {{I boo.}}
 
 %% u0081 %%
 Wellby: Another metagame question, too: did any of us ever know what these things were, like what these creatures were?
@@ -164,7 +164,7 @@ Kenzo: I think.
 DM: Wait, did I say that in chat? Hold on.
 
 %% u0086 %%
-Kenzo: Wait, but which one of us almost died? [[A double.]]
+Kenzo: Wait, but which one of us almost died? {{A double.}}
 
 %% u0087 %%
 Delwath: Yeah, it was Wellby.
@@ -305,10 +305,10 @@ DM: I mean, a short rest takes an hour. So before you click the short rest butto
 Kenzo: Can I soul sight her, or did I already do that?
 
 %% u0150-u0155 %%
-DM: That doesn't require ki. The basic use doesn't require ki. It's only if you want to learn combat-relevant things, like vulnerabilities or whether magic is affecting them. Also, hold on, I'm typing a message to [[iron to iron]]—to Seeker.
+DM: That doesn't require ki. The basic use doesn't require ki. It's only if you want to learn combat-relevant things, like vulnerabilities or whether magic is affecting them. Also, hold on, I'm typing a message to {{iron to iron}}—to Seeker.
 
 %% u0156-u0158 %%
-Kenzo: [[I was Aaron plus tire plus]]—as Tim types that, Schwartz, do you remember in the original campaign how Dunmar had some kind of a horse that was responsible for the lineage of an empire?
+Kenzo: {{I was Aaron plus tire plus}}—as Tim types that, Schwartz, do you remember in the original campaign how Dunmar had some kind of a horse that was responsible for the lineage of an empire?
 
 %% u0159 %%
 Wellby: The horse chooses the next king.
@@ -368,7 +368,7 @@ Riswynn: Edge of Seeker's range, or the range of our sight.
 Seeker: The stone sense range. I think it's what it means.
 
 %% u0184 %%
-Wellby: [[And the secret.]]
+Wellby: {{And the secret.}}
 
 %% u0185-u0196 %%
 DM: So you're also looking around in these stalagmites. You see this is clearly an area that's been purposely shaped. The stone has been sort of carved and coaxed into these elaborate twisting and sparkling forms. Although, without light beyond the torch that's still burning on the ground that Wellby threw, you can imagine this was much more striking when big crystals were shining down on that. You do notice that the creature you killed—whatever is oozing out of its wounds, its stomach has been punctured and it's slightly eating away at the rock around it, like its stomach is strong acid or something.
@@ -413,7 +413,7 @@ DM: So Seeker and Delwath, you're both investigating the tavern structure, whate
 Unknown: Yeah.
 
 %% u0214 %%
-DM: [[I was I were you.]]
+DM: {{I was I were you.}}
 
 %% u0215 %%
 Riswynn: I was also over by the structure until—
@@ -422,7 +422,7 @@ Riswynn: I was also over by the structure until—
 Seeker: And I'm wandering, to the south.
 
 %% u0217-u0223 %%
-DM: So first, Kenzo, looking around at this creature: you don't have a lot of experience with anything like this, but you can tell just from looking at it, it must be clearly something that is native to the dark places under the world. It doesn't seem to have eyes or any way of obviously sensing. It does seem like it must be—you're figuring out it must be kind of an ambush predator. You do see something white and shiny kind of glinting a little bit in its body, just catching the light of the torch. Something's reflecting, and there's a bit of a hissing sound as it's [[perfect]].
+DM: So first, Kenzo, looking around at this creature: you don't have a lot of experience with anything like this, but you can tell just from looking at it, it must be clearly something that is native to the dark places under the world. It doesn't seem to have eyes or any way of obviously sensing. It does seem like it must be—you're figuring out it must be kind of an ambush predator. You do see something white and shiny kind of glinting a little bit in its body, just catching the light of the torch. Something's reflecting, and there's a bit of a hissing sound as it's {{perfect}}.
 
 %% u0224 %%
 Kenzo: I take the staff, the old mage's staff, which I'm still carrying around with me, and I poke. Can I go and kind of poke over at it?
@@ -446,7 +446,7 @@ DM: That's kind of sitting in the acid. It does not seem to be dissolving.
 Kenzo: Can I use the stick and poke the pearl away from the acid? Just pushing it away from the—sure, okay.
 
 %% u0237 %%
-Seeker: [[I do that role for a pet.]]
+Seeker: {{I do that role for a pet.}}
 
 %% u0238-u0239 %%
 Kenzo: I pull out the gloves that I have in my bag. Is the pearl covered in acid, or is it kind of—
@@ -461,7 +461,7 @@ Kenzo: I take a piece of fabric, or gloves or something, and just kind of pick i
 DM: It's about that big. It looks like at one point it was maybe set in something metal, but the metal's dissolved around it.
 
 %% u0248-u0251 %%
-Kenzo: And let's see. Oh yeah, I will—oh, Detecting Evil and Good. [[Maybe somebody choose.]] Okay, I just shout to everybody, or whoever's near me. Is Delwath here?
+Kenzo: And let's see. Oh yeah, I will—oh, Detecting Evil and Good. {{Maybe somebody choose.}} Okay, I just shout to everybody, or whoever's near me. Is Delwath here?
 
 %% u0252 %%
 Delwath: Yeah.
@@ -503,13 +503,13 @@ Seeker: Not stone or gem or glass.
 DM: Does not seem to be.
 
 %% u0270 %%
-Kenzo: [[The Maya.]]
+Kenzo: {{The Maya.}}
 
 %% u0271 %%
 DM: It is magical.
 
 %% u0272-u0274 %%
-Kenzo: It is magical, right? [[It does it. Wasn't him.]]
+Kenzo: It is magical, right? {{It does it. Wasn't him.}}
 
 %% u0275-u0286 %%
 DM: I'm talking to you, to—Delwath, your face, you're—okay. So Delwath kind of goes into a trance for a few minutes while the rest of you kind of poke around a little bit. As you're doing this, you've drifted a little bit far from the main entrance now, and let's just see. At this point, you've sort of drifted out of sight. None of you can really see the creatures in the hallway over here anymore. The actual site of the body is even outside of the range of Delwath's darkvision, so they've all faded into the darkness. But yes, it is magical.
@@ -611,7 +611,7 @@ Kenzo: I'm going to keep this thing. Don't forget that I had it.
 Seeker: Not too long.
 
 %% u0336 %%
-Kenzo: [[Rested my bag.]]
+Kenzo: {{Rested my bag.}}
 
 %% u0337-u0338 %%
 Riswynn: Examine it more if you want to give—
@@ -656,7 +656,7 @@ Unknown: 14.
 DM: Okay, so yeah, you find—based on the pattern of the dust and the way this thing is laid out, it's definitely been abandoned for several years. But poking around, you can see that it seems like it had been used for something. The back wall is kind of carved a little bit into the wall of the cavern, and faded in that wall there is scratched, sort of like graffiti, what looks like the skeleton of a wrist with a bit of flesh. Well, not really a skeleton, I guess. There's a bit of flesh hanging off the wrist, and then three bony fingers, where the flesh has been burned away, sticking on top of it. This is all quite faded, but there are some letters in a language that neither of you recognize.
 
 %% u0372 %%
-Wellby: [[Them down.]]
+Wellby: {{Them down.}}
 
 %% u0373 %%
 Unknown: Okay.
@@ -713,7 +713,7 @@ Seeker: The three fingers. I'll stumble in there.
 Unknown: Okay.
 
 %% u0401 %%
-DM: [[Start to want to bash.]]
+DM: {{Start to want to bash.}}
 
 %% u0402 %%
 Seeker: I also read—presuming there's a written language of the lizardfolk—that language.
@@ -746,7 +746,7 @@ Unknown: Yes, make a—
 DM: Hold on, wait. I was gonna respond to Schwartz. So it's done in a way that seems to you to be quick, direct. Not unskilled, but not done with care for the stone or the building, right? It's graffiti. It's somebody defacing a building.
 
 %% u0418-u0422 %%
-Kenzo: It's kind of like hobgoblin or something? What are the dwarves' natural enemies, Seeker and Riswynn? [[With them.]]
+Kenzo: It's kind of like hobgoblin or something? What are the dwarves' natural enemies, Seeker and Riswynn? {{With them.}}
 
 %% u0423 %%
 DM: Yeah, what do you mean, natural enemies? I mean—
@@ -806,10 +806,10 @@ DM: But there's not clear records of—I mean, there's not bestiaries that list 
 Riswynn: Um—
 
 %% u0476 %%
-Seeker: [[Just weird us.]]
+Seeker: {{Just weird us.}}
 
 %% u0477 %%
-Riswynn: Going back to the hobgoblins [[during his can never said anything about like]]
+Riswynn: Going back to the hobgoblins {{during his can never said anything about like}}
 
 %% u0478 %%
 Unknown: Dinner so.
@@ -830,7 +830,7 @@ Seeker: Riswynn, could we see that map of this place again? Because I'm wonderin
 Riswynn: Through it, or this tavern thing must have passageways through it to the area my uncle marked as living space. That's my feeling based on the orientation of the main door and cave of music next to it, and—
 
 %% u0495-u0496 %%
-Seeker: Yeah, [[keep through this passage waiver]]. The interesting metal—
+Seeker: Yeah, {{keep through this passage waiver}}. The interesting metal—
 
 %% u0497 %%
 Riswynn: Seems to be in mind.
@@ -845,7 +845,7 @@ Riswynn: To clarify, who's trying—
 Seeker: I'm curious to get down to that vault, where I do sense something powerful down there to the south. A destination, starting place to find my family's treasure, that's really—and so there's a passageway down, but it must be beneath where we're standing. But how do we get to that passageway?
 
 %% u0502 %%
-Unknown: [[Pattern in living space.]]
+Unknown: {{Pattern in living space.}}
 
 %% u0503 %%
 Seeker: But do we see any exits in this tavern? You say the floor was rotted—
@@ -896,7 +896,7 @@ Unknown: More defensible position.
 Seeker: That's an interesting idea.
 
 %% u0534 %%
-Delwath: How about the tavern? Isn't the living space gonna be full of our friends? [[The park for.]]
+Delwath: How about the tavern? Isn't the living space gonna be full of our friends? {{The park for.}}
 
 %% u0535 %%
 Seeker: Let's go find out.
@@ -1061,7 +1061,7 @@ DM: And Seeker, as you're resting, it almost feels like—it does feel like a sp
 DM: Also, Seeker, you have the Song of Rest ability, so anybody who wants it, there's an extra 1d6. Add a 1d6 to whatever you rolled, Schwartz. Anyway, you can feel it, Eric, Seeker, slowly kind of gathering in this energy, and you figure over time it will accumulate enough more energy to then be released all at once.
 
 %% u0635 %%
-Kenzo: [[Message your message, rather than.]]
+Kenzo: {{Message your message, rather than.}}
 
 %% u0636 %%
 DM: Okay.
@@ -1127,7 +1127,7 @@ Wellby: I don't want to go all the way out. Can I get line of sight to look out 
 DM: Just for fun make a Stealth check.
 
 %% u0680 %%
-Wellby: [[But he said, fun.]]
+Wellby: {{But he said, fun.}}
 
 %% u0681-u0687 %%
 DM: Okay, so you just kind of cautiously creep towards the entryway and peer out, not going out but just looking across. What you can see from here—it's probably mid-afternoon at this point, after your short rest—and the light looking across the Valley of Raven's Hold feels sort of dim and hazy, almost as if there's smoke in the air. The road leads down from here, and you can see the clear path of the road leading across to the castle and the stronghold of Raven's Hold on the other side of the valley.
