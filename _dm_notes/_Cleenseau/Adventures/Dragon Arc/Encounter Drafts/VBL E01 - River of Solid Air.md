@@ -3,21 +3,30 @@ tags: [meta, status/check/ai]
 ---
 # E01 — River of Solid Air
 
-%% Local dimensions and mechanics remain drafts. Pack statistics, detour distances, and the barriers' regional limits are open. An aerial current remains a proposal; flight has no blanket prohibition. %%
+%% Opening revised 2026-10-25: the party can fly over the river. The ground-crossing mechanics below are optional fallback material, not a required encounter. Local dimensions, pack statistics, and detour distances remain drafts. The earlier [[06 Area Schematic - Vraedhul's Broken Lair.svg]] predates the flyover and two-door opening; use the current encounter text for approach choices. %%
 
-> Upstream, pale seams multiply until the valley seems filled with fractured glass. Downstream, torrents rise into the air, carrying stones before dropping them again. Between them, a narrow shelf crosses the river, interrupted by two clear walls.
->
-> A black shape swims beneath a frozen ripple, then rises through empty air. Its plated brow strikes an invisible surface. A square of sky falls apart.
+> Below you, the river holds the shape of rapids without moving. A dark creature strikes something invisible above the water, and a pane of empty air breaks into glittering fragments.
 
-**Goal:** cross, take the upstream route, or withdraw safely. **Next:** [[VBL E02 - Scrambled Grounds and Reconnaissance]].
+**Goal:** take in the altered river while crossing into the domain. **Next:** [[VBL E02 - Scrambled Grounds and Reconnaissance]].
 
-## Terrain and opening
+## Run the flyover
+
+- Allow about **2 minutes** of description and observation, within the roughly **20-minute arrival and scouting opening**.
+- Solid-air formations cluster around the water. Their upper edges are visible and easy to clear; flying over works without a crossing check.
+- The creature remains among the frozen waves and pays little attention to travelers overhead.
+- If they linger, water flows normally through one shattered section. Its changes can be observed and physically affected.
+- Beyond the river lie ash, cracked stone, sparse thorn scrub, and displaced terrain. A single debris cloud covers all three peaks; use E02 for the view.
+- Use the following mechanics only if the party chooses to investigate or cross at river level. Scouting and entrance choice can begin immediately after the flyover.
+
+## Optional ground crossing
+
+> Between the frozen rapids, a narrow shelf crosses the river, interrupted by two clear walls. Dust slides down their invisible faces and catches along their upper edges.
 
 - River **90 ft wide**; crossing shelf **15 ft wide**.
-- Solid-air walls at **30 and 60 ft**: **5 ft thick**, roughly **1,000 ft high**, continuing beyond view.
+- Solid-air walls at **30 and 60 ft**: **5 ft thick**, with clearly visible upper edges and open air above. Their height does not obstruct a deliberate flyover.
 - Safe pockets at **20 and 45 ft**: each **10 ft long**, widening the shelf to **35 ft**.
 - Creature starts at **65 ft**. Demonstration charge moves it to **50 ft**, breaking **only the far wall**.
-- Initiative: someone approaches within **60 ft** or deliberately disturbs it. Demonstration costs no PC a turn.
+- Initiative: someone approaches within **60 ft at river level** or deliberately disturbs it. Flying over does not trigger combat. Demonstration costs no PC a turn.
 - Walls: each **10-ft-square section AC 15, HP 25**, immune poison/psychic. Destroying a section leaves a permanent gap.
 - Inspection reveals local thickness and breakability without a roll. Object-damaging spells work normally; these are solid objects.
 - Water beside the shelf flows normally. Flight, teleportation, ropes, and breaking walls remain useful.
@@ -59,4 +68,3 @@ Near bank **0** → pocket **20** → wall **30** → pocket **45** → wall **6
 - Show packs or fresh trails before commitment. Griffon scouting, cover, and timing can reveal a route through.
 - Avoidance can succeed; the party may return to the direct crossing. No automatic replacement fight.
 
-![[06 Area Schematic - Vraedhul's Broken Lair.svg]]

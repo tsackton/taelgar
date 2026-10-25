@@ -8,7 +8,7 @@ tags: [meta, status/check/ai]
 
 ## Read aloud — A: The Skull in the Wound
 
-> The passage opens onto an inward-facing balcony. Far above, a storm churns through the ruined workshops. An immense dragon's jaw hangs among the wreckage. Beyond it, a skull and scattered bones emerge along white lines in the chaos.
+> The passage opens onto an inward-facing balcony beneath the debris cloud. An immense dragon's jaw hangs among the ruined workshops, with a skull and scattered bones emerging along white lines in the chaos beyond it.
 >
 > The ruin runs through her.
 
@@ -21,12 +21,13 @@ tags: [meta, status/check/ai]
 ## Run it
 
 - **Goal:** establish that Vraedhul died in a Limbo eruption and the unmaking continues. No roll required.
-- All three entrances converge here: gate admission, underground kobold tunnels, or Zaurmath's lower approach.
+- Both entrances converge here: formal gate admission or the underground kobold tunnels from Krauzeth's lair.
+- The inward view beneath the cloud reveals what aerial scouting of the outer slopes could not distinguish.
 - Viewpoint is stable; party may pause. No scene timer.
 - Remains are **hundreds of feet above** the chaos, beyond a safe gap; they are not a bridge.
 - Identify Vraedhul by an already known feature. If none is established, a nearby relief shows mother and two offspring for a direct comparison of shape and size.
 - Show three facts: **recognizable death → violent outward catastrophe → continuing transformation**. A slab can become blades and then dust.
-- No implication of a fresh corpse, undeath, or secret survival. Workshops lie at the apparent center of the eruption.
+- No implication of a fresh corpse, undeath, or secret survival. The remains and workshop ruins lie within the obscured interior; Zaurmath's lair is the heart of the visible ongoing destruction. The view does not settle the eruption's precise cause or sequence.
 - Retrieval needs separate preparation. Flight is not automatic death.
 
 ## Information

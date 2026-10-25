@@ -4,7 +4,8 @@ tags: [meta, status/check/ai]
 
 # E07 — Zaurmath's Broken Hall
 
-%% Choose A or B. This route follows a coherent lower shelf beside the expulsion. %%
+> [!warning] Unused earlier encounter — 2026-10-25
+> Zaurmath's lair is now the heart of the visible destruction, feeding the cloud over all three peaks. It is clearly unsafe and is not a prepared third entrance. Improvise if the party investigates it; the earlier alternatives below are retained as reference, not current route instructions. See [[VBL E02 - Scrambled Grounds and Reconnaissance]].
 
 ## Read aloud — A: The Floor Remembers Water
 
