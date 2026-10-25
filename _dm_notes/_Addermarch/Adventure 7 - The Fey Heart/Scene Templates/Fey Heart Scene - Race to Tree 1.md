@@ -58,7 +58,7 @@ Magic sufficient to transport everyone safely can bypass the challenge.
 
 ## Exits and XP
 
-- **Success:** Take the tunnels. **200 XP per PC** under [[Fey Heart XP Rewards]]; helping her is optional. Continue toward [[Fey Heart Scene - Race to Tree 2|the tree attack]], with an opportunity to investigate [[Fey Heart Scene - Race to Tree 3|the optional hunters]] first.
+- **Success:** Take the tunnels. **150 XP per PC** under [[Fey Heart XP Rewards]]; helping her is optional. Continue toward [[Fey Heart Scene - Race to Tree 2|the tree attack]], with an opportunity to investigate [[Fey Heart Scene - Race to Tree 3|the optional hunters]] first.
 - **Failure:** The entrance becomes blocked; take the surface detour, most likely with a forced hunter fight. Options: [[Exploration Failure - Umbraeth's Hunters]]. PCs still beyond her when the gap closes are separated from Gwydren and anyone outside.
 - **Kill Brindlethorn:** Gwydren abandons them. Entering her tunnels without his guidance leaves them lost.
 

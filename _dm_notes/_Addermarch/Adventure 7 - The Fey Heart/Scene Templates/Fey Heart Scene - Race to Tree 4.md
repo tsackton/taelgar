@@ -25,7 +25,7 @@ Custom encounter blessing:
 
 **Each PC can once use their reaction when they fail a saving throw, before its effects resolve, to reroll it. They must use the new result. The gift lasts until the next dawn.**
 
-Rumplewick stays behind. Securing the blessing before [[Fey Heart Scene - The Singing Tree Encounter|the Singing Tree]] earns **200 XP per PC**, the second optional journey milestone under [[Fey Heart XP Rewards]]. Hospitality alone earns no milestone; without the blessing, the party continues without this reward.
+Rumplewick stays behind. Saving his household during [[Fey Heart Scene - Race to Tree 2|the tree attack]] earns **150 XP per PC** under [[Fey Heart XP Rewards]], whether or not he lends his luck. Securing the blessing earns no additional XP; the blessing itself is the reward for the social challenge.
 
 ## Ruined refuge — after the Singing Tree
 

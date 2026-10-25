@@ -32,7 +32,7 @@ They want a way out. Discovering the party has a guide prompts demands for passa
 
 Watching and listening from cover reveals the three enemies, their distraction, root damage, equipment, and belongings. Moving closer or taking positions risks detection; call for Stealth when the approach warrants it. Leaving without revealing themselves leaves the hunters here.
 
-==**Treasure hook — still to choose:** The hunters have a lasting uncommon or rare magic item. Once selected, give the party a glimpse of its value during observation. Where the hunters acquired it does not matter.==
+**Treasure: **
 
 ## Combat
 
@@ -51,7 +51,7 @@ Watching and listening from cover reveals the three enemies, their distraction, 
 
 ## Exit and XP
 
-- **Success:** Deal with the band and recover its treasure, benefiting the forest and earning **200 XP per PC** for the first optional journey milestone in [[Fey Heart XP Rewards]]. No additional combat XP.
+- **Success:** Deal with the band and recover its treasure, benefiting the forest and earning **150 XP per PC** for the lost-hunters milestone in [[Fey Heart XP Rewards]]. No additional combat XP.
 - **Skip or withdraw:** Continue with Gwydren; no reward for merely discovering the hunters.
 
 Return to the route and continue toward [[Fey Heart Scene - Race to Tree 2|the tree attack]].

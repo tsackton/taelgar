@@ -1,10 +1,13 @@
+---
+tags: [status/check/ai]
+---
 # Adventure Overview Template
 
 Overall context: [True Scenario Designery Index](https://theangrygm.com/true-scenario-designery/).
 
 ## Brief overview
 
-The PCs have destroyed the Serpentine Axe in the previous adventure, and recovered the fey heart that Duncan stole. Now they need to return the fey heart to the Singing Tree. This is the final arc of the long-running Fey in Haldrenn campaign arc, and should probably take the characters to level 6 (currently need 2,700 XP to level up). 
+The PCs have destroyed the Serpentine Axe in the previous adventure, and recovered the fey heart that Duncan stole. Now they need to return the fey heart to the Singing Tree. This is the final arc of the long-running Fey in Haldrenn campaign arc, and takes the characters to level 6 after returning the heart. At the start of the adventure, each PC needed 2,700 XP to level up; see [[Fey Heart XP Rewards]] for recorded awards and remaining milestones.
 
 ## Design statement
 
