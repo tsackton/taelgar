@@ -6,7 +6,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1748-04-07), morning: party ends at [[Northern trail outside Karawa]].
+- Candidate party whereabouts: (DR:: 1748-04-07), morning: party ends at northern trail outside Karawa
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->

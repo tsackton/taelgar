@@ -309,7 +309,7 @@ Times in this section are local to Tim chunk 01.
 [A0301 00:14:11.130 --> 00:14:11.130] **Unknown:** um,
 [A0302 00:14:12.500 --> 00:14:20.540] **Unknown:** Arheste, the elf who had fought Apollyon, and telling her about what happened and, you know, checking in on the elves and stuff.
 [A0303 00:14:20.540 --> 00:14:23.220] **Unknown:** Mostly just keeping them up to date,
-[A0304 00:14:26.900 --> 00:14:32.100] **DM:** uh, about the events, some of which they had heard about through [[Graham]], some of which was news to them.
+[A0304 00:14:26.900 --> 00:14:32.100] **DM:** uh, about the events, some of which they had heard about through {{Graham}}, some of which was news to them.
 [A0305 00:14:34.340 --> 00:14:41.760] **Unknown:** [coughs] Are you-- I mean, there's nothing that says you have to fly to Isingue in order to cast Plane Shift.
 [A0306 00:14:41.760 --> 00:14:45.340] **Unknown:** You can cast it from literally anywhere.
 [A0307 00:14:45.340 --> 00:14:46.160] **Unknown:** So are you-
@@ -1360,7 +1360,7 @@ Times in this section use Tim chunk 02's clock. Kong is aligned to that clock us
 [B0972 00:40:12.148 --> 00:40:13.378] **Unknown:** ... interdimensional trade.
 [B0973 00:40:13.378 --> 00:40:16.998] **Kenzo:** Yep. Yes. Yep. We sell the, we sell, uh, c- can, we sell chaos fruits.
 [B0974 00:40:18.378 --> 00:40:19.898] **Seeker:** It's all branding, right? Chaos.
-[B0975 00:40:19.898 --> 00:40:21.667] **Unknown:** It's not Limbo. It's not [[Hypria]].
+[B0975 00:40:19.898 --> 00:40:21.667] **Unknown:** It's not Limbo. It's not {{Hypria}}.
 [B0976 00:40:21.667 --> 00:40:22.737] **Unknown:** It's just magic.
 [B0977 00:40:22.737 --> 00:40:24.718] **DM:** So let's, I mean,
 [B0978 00:40:26.438 --> 00:40:30.758] **DM:** why are we, why don't we take a break for like an hour and a half, some- Do you wanna go, uh, eat some food?
@@ -1369,5 +1369,5 @@ Times in this section use Tim chunk 02's clock. Kong is aligned to that clock us
 
 ## Review state
 
-W13 roll-number variation is retained without arithmetic repair. The last fruit-trade word remains [[Hypria]]. The setup name [[Graham]] is awaiting the optional clarification. W12 uses the two separate Tim asides; the conflated Kong variant stays in provenance only. Equal-strength speaker disagreements remain Unknown. Other nonmatching short speech is retained conservatively; the sidecar records alternate text rather than silently asserting that one microphone is always better.
+W13 roll-number variation is retained without arithmetic repair. The last fruit-trade word remains {{Hypria}}. The setup name {{Graham}} is awaiting the optional clarification. W12 uses the two separate Tim asides; the conflated Kong variant stays in provenance only. Equal-strength speaker disagreements remain Unknown. Other nonmatching short speech is retained conservatively; the sidecar records alternate text rather than silently asserting that one microphone is always better.
 

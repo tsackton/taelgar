@@ -23,7 +23,7 @@ If the party manages to get the treasure without Zadkai learning they are presen
 
 Generally speaking, do not need to establish patrol rosters - each encounter should be designed as needed. However, the can use  [[S02 - Journey through Tawir Forest#Zadkai's Patrols|these rosters]] as needed in a pinch. 
 
-At the moment, don't design Zadkai patrols until it is obvious what is needed. In particular, the camp attack should be designed as a specific encounter if it seems like it might be needed: [[S10 - Raid Zadkai's Camp]]. The patrol encounters in the lair should be placed deliberately or designed as a wandering encounter explicitly (for the second patrol). On alert, a third expedition can be designed. 
+At the moment, don't design Zadkai patrols until it is obvious what is needed. In particular, the camp attack should be designed as a specific encounter if it seems like it might be needed: [[Zadi. The patrol encounters in the lair should be placed deliberately or designed as a wandering encounter explicitly (for the second patrol). On alert, a third expedition can be designed. 
 
 ## Exploration Targets
 

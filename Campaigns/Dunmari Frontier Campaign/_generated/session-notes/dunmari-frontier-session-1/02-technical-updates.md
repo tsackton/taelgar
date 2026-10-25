@@ -6,7 +6,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1748-03-23): party ends at [[Gomat Oasis]].
+- Candidate party whereabouts: (DR:: 1748-03-23): party ends at [[Gomat]]
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
