@@ -11,18 +11,16 @@ POV: modern
 ---
 # Lizardfolk
 
-%% status/incomplete -> Lifecycle needs some decisions to finalize, same with cultural traits %%
-
 >[!quote] Lizardfolk saying, author unknown
 *At misty daybreak*
 *a quiet emerald swamp dreams*
 *of the setting sun*
 
-Lizardfolk dwell where water and land meet, most commonly in swamps, river basins, and tidal marshes. Their villages are well‑kept places of fish weirs and reedcraft, hidden boardwalks and raised hearths, vibrant and teeming with life. Elders guide growth so the land is never overburdened, and omens from dreams and ancestors mark important communal decisions. Though often living in isolated villages, when they settle near other species they are usually steady allies.
+Lizardfolk dwell where water and land meet, most commonly in swamps, river basins, and tidal marshes. Their villages are well‑kept places of fish weirs and reedcraft, hidden boardwalks and raised hearths, vibrant and teeming with life. Elders guide the growth of the community, so the land is never overburdened, and omens from dreams and ancestors steer important decisions in lizardfolk life. Though often living in isolated villages, when they settle near other species they usually build ties of trade and friendship, though rarely do lizardfolk depend on the trade of outsiders to sustain their way of life. 
 
 ## Appearance
 
-Lizardfolk are humanoid reptiles: upright, bipedal, hairless, with distinctly reptilian heads, and powerfully built, averaging about six feet tall with a slightly forward-canted posture, especially among those with particularly large tails. Their hides are close-fitting scales rather than skin; when fresh from water, they glisten and can throw tiny prismatic rainbows in mist and early sun. Lizardfolk coloration varies widely, though generally juveniles and adults are more likely to be brightly colored than elders, whose scales often fade to light blue-greens or other pastel colors, and lose the wet sheen. In moments of deep focus elders may seem to sparkle, and very rarely appear faintly translucent under direct sunlight.
+Lizardfolk are humanoid reptiles: upright, bipedal, hairless, with distinctly reptilian heads. They are typically powerfully built, averaging about six feet tall with a slightly forward-canted posture, especially among those with particularly large tails. They are covered in close-fitting scales, rather than skin. Lizardfolk coloration varies widely, though generally juveniles and adults are more likely to be brightly colored than elders, whose scales often fade to light blue-greens or other pastel colors, and lose the wet sheen. In moments of deep focus elders may seem to sparkle, and very rarely appear faintly translucent under direct sunlight.
 
 ## Language and Naming
 
@@ -35,6 +33,7 @@ Generally, though, should avoid names that feel clearly linked to real Indo-Euro
 
 See more: [[Playing a Lizardfolk#Lizardfolk Names|Lizardfolk Names]]
 %%^End%%
+
 ## Lifecycle
 
 %% Lizardfolk lifecycle is all over the place:
