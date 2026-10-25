@@ -1,440 +1,53 @@
 {
-  "nodes": [
-    {
-      "id": "checkpoint",
-      "type": "text",
-      "x": -1500,
-      "y": -1700,
-      "width": 2900,
-      "height": 300,
-      "color": "3",
-      "text": "# Vraedhul's Broken Lair — checkpoint 2026-10-25\n\nREAD FIRST: [[00 Design Checkpoint - Vraedhul's Broken Lair]].\nThen read [[01 Overview - Vraedhul's Broken Lair]] and [[02 Backstory - Vraedhul's Broken Lair]].\n\nImmediate scope: finish outside + three entrances + discovery; then sketch the crawl. Audience/lair remain deferred.\nBlue = adopted; green = start; purple = nested part; gray = recovery; yellow = unresolved; red group = eventual capstone.\nCards are first-pass cores, not finished running prep."
-    },
-    {
-      "id": "opening-group",
-      "type": "group",
-      "x": -1580,
-      "y": -1300,
-      "width": 3140,
-      "height": 5980,
-      "label": "Beat 1 — shared dangerous approaches, one of three entrances, shared discovery",
-      "color": "6"
-    },
-    {
-      "id": "outside",
-      "type": "text",
-      "x": -440,
-      "y": 0,
-      "width": 880,
-      "height": 560,
-      "color": "5",
-      "text": "# Open view — choose an approach\n\nPurpose: present two obvious directions and the option to scout.\nEntry: cross or bypass the altered river.\nSituation: a crooked grand road leads toward the known formal entrance. In roughly the opposite direction, a towering disturbance expels pieces of Zaurmath's lair. Broken country lies between.\nChoices: follow the road; investigate the upheaval; scout before committing.\nThe second sight is an oddity to investigate, not an automatically identified entrance.\nReward for scouting: actionable knowledge of all three routes; no useful tribute.\nPressure: local danger and visible unmaking, without a constant countdown.\nEnds when: the party commits to an approach. It can reconsider with new information."
-    },
-    {
-      "id": "formal",
-      "type": "text",
-      "x": -1500,
-      "y": 2350,
-      "width": 850,
-      "height": 1120,
-      "color": "5",
-      "text": "# Formal entrance — payment and social interaction\n\nPurpose: a costly straightforward entrance, with harder alternatives.\nEntry: select Vraedhul's formal approach.\nSituation: a monumental likeness enforces tribute. A bound Arborean maker, altered by Limbo, provides the social presence.\nObjective: gain admission.\nThree versions: believes it is in Arborea; understands its actual predicament; believes it is still Vraedhul's guardian.\nThe party can influence which version comes forward through actions and attention.\n\nWays through:\n• An appropriate valuable gift makes admission fairly straightforward.\n• Gain cooperation and loosen the binding: an optional social and practical route.\n• Difficult combat or stealth can force or evade the defenses.\n\nPressure: powerful enforcement and conflicting perceptions.\nEnds when: admission is secured or the party withdraws.\nSuccess: reach the shared discovery location.\nCosts/failure: tribute lost, resources, complications, or retreat to another entrance. Lasting curses require clear removal paths.\nCombat must have a concrete access/binding objective beyond killing.\n\nOpen: gift standard, visible cues, exact physical form, binding components, extent of release, statistics, and practical bypasses."
-    },
-    {
-      "id": "krauzeth-group",
-      "type": "group",
-      "x": -550,
-      "y": 2270,
-      "width": 1000,
-      "height": 1510,
-      "label": "Krauzeth — outer warning changes the main fight",
-      "color": "6"
-    },
-    {
-      "id": "watchpost",
-      "type": "text",
-      "x": -500,
-      "y": 2350,
-      "width": 900,
-      "height": 470,
-      "color": "5",
-      "text": "# Outer watchpost — prevent the warning\n\nSelected: [[VBL E05 - Krauzeth's Watchpost]].\nOne handler and one signaler (10 HP each); glass-skull hound (32 HP).\nObjective: pass the post without a warning reaching the barricade.\nPressure: lens preparation gives a full response window before transmission.\nApproaches: talk, sneak, distract the hound, block or break the lens.\nPower target: little attrition; E06 is the main combat.\nEnd promptly when the warning is prevented and defenders concede or are bypassed.\nNo survivors reinforce E06. Success earns an open doorway and an extra round there."
-    },
-    {
-      "id": "unwarned",
-      "type": "text",
-      "x": -500,
-      "y": 2900,
-      "width": 425,
-      "height": 250,
-      "color": "5",
-      "text": "# No warning\n\nAll barricade assemblies parked.\nDoorway open; crew unprepared.\n\nThe party gains better initial conditions for reaching the machinery and securing access."
-    },
-    {
-      "id": "warned",
-      "type": "text",
-      "x": -25,
-      "y": 2900,
-      "width": 425,
-      "height": 250,
-      "color": "5",
-      "text": "# Warning received\n\nGrille closed; wicket open.\nPlate and locking frame still parked.\n\nGuards retreat through the wicket before the plate covers it. The alarm triggers closure."
-    },
-    {
-      "id": "demolition",
-      "type": "text",
-      "x": -500,
-      "y": 3230,
-      "width": 900,
-      "height": 480,
-      "color": "5",
-      "text": "# Main fight — preserve access\n\nSelected: [[VBL E06 - Save the Passage]].\nMachinery: sliding grille → armored plate → locking frame.\nCrew behind barrier: two chain-pullers, director, spellcaster, fire/acid bombardier.\nThree guards withdraw through the grille wicket before the plate covers it; no bypass hatch.\nObjective: get everyone through and secure access.\nPressure: hauling closes the barrier while guards and ranged attackers interfere.\nInterference: jam, reverse, divert, break chains, or seize controls.\nSuccess: underground kobold network to shared discovery.\nFailure: another entrance remains available; retain costs."
-    },
-    {
-      "id": "zaurmath",
-      "type": "text",
-      "x": 550,
-      "y": 2350,
-      "width": 900,
-      "height": 1120,
-      "color": "5",
-      "text": "# Zaurmath — graded environmental traversal\n\nPurpose: an entrance using observation, skills, equipment, and magic.\nEntry: choose the most devastated surviving approach.\nSituation: one ruined chamber, a visible onward tunnel, and a breach on one side where form breaks down.\nObjective: reach the tunnel.\n\nGradient:\n1. Relatively stable edges: observe and investigate.\n2. Changing ground: main traversal hazards, recognizable warning signs, and places to recover.\n3. Unforming breach: unmistakably extreme and avoidable; not required for success.\n\nPossible routes:\n• Outer ledges: less transformation, more climbing and exposed gaps.\n• Direct crossing: more changing material to diagnose and negotiate.\n\nPressure: local transformations, not arbitrary remapping.\nEnds when: the party reaches the tunnel or withdraws.\nSuccess: kobold passages give access to the shared discovery.\nFailure: lost positioning, equipment, health, rescue, or magic costs; accumulated trouble can force retreat.\nSuitable traversal magic genuinely helps.\nOpen: actual transformations, reliable precursors, route geometry, consequences, and mechanics."
-    },
-    {
-      "id": "recovery",
-      "type": "text",
-      "x": -1500,
-      "y": 3950,
-      "width": 850,
-      "height": 570,
-      "color": "#6b7280",
-      "text": "# Recovery / another entrance\n\nIf a route is lost or the party withdraws, return to the outer approaches with knowledge and costs retained.\n\nRetreat does not reset the world.\nProlonged absence allows accelerating decay to change opportunities.\nA lasting curse has a clear removal path; pursuing it costs time away.\n\nThis is a recovery possibility, not a requirement to attempt every entrance."
-    },
-    {
-      "id": "discovery",
-      "type": "text",
-      "x": -440,
-      "y": 3950,
-      "width": 880,
-      "height": 570,
-      "color": "5",
-      "text": "# Shared discovery — earned payoff\n\nPurpose: confirm Vraedhul's death and introduce the larger catastrophe.\nEntry: overcome any one entrance; offspring routes use kobold tunnels.\nSituation: a clear inward view from Vraedhul's mountain of recognizable transformed skeletal/skull-like remains stretched through the workshop chaos.\nPressure: visible continuing unmaking, without an immediate need to hurry.\nEssential conclusions: Vraedhul is dead; an eruption from Limbo consumed her.\nStill unresolved: details and continuing consequences, including wider Plaguelands disturbances.\nEnds when: these conclusions are understood and the party can proceed to the guest quarters.\nThe chosen entrance earns this revelation; no further admission puzzle is required.\nOpen: exact viewpoint, physical image, evidence, and connection to the antechamber."
-    },
-    {
-      "id": "crawl-group",
-      "type": "group",
-      "x": -940,
-      "y": 4830,
-      "width": 1880,
-      "height": 760,
-      "label": "Beat 2 — supplicant-quarter dungeon; internal map still open",
-      "color": "6"
-    },
-    {
-      "id": "crawl",
-      "type": "text",
-      "x": -880,
-      "y": 4910,
-      "width": 1760,
-      "height": 600,
-      "color": "5",
-      "text": "# Supplicant-quarter crawl\n\nPurpose: a classic room-by-room dungeon with interesting magical treasure and reusable learning.\nEntry: proceed from the discovery into the antechamber and suites.\nSituation: increasingly elaborate accommodations for favored or mocked guests, containing Vraedhul's dangerous legacy.\nStructure: short main route, optional suites, and some cross-connections. Individual suite passages and kobold tunnels connect to the antechamber; exact surviving routes need mapping.\nActivity: enter rooms, explore, experiment, recover prizes, and move onward.\nRecurring principle: attention helps stabilize a possibility already contained within a Limbo-altered creation; this is not unrestricted reality shaping.\nMomentum: discoveries improve later readiness.\nPacing: can expand to a full enjoyable session or be shortened by skipping optional portions.\nFailure: resources, lost opportunities, or removable curses with meaningful recovery costs.\nExit: reach the audience chamber.\nOpen: room count, map, actual creations, treasure, clues about the eruption, and specific lessons."
-    },
-    {
-      "id": "capstone-group",
-      "type": "group",
-      "x": -940,
-      "y": 5800,
-      "width": 1880,
-      "height": 660,
-      "label": "Beat 3 — eventual capstone; development deferred",
-      "color": "1"
-    },
-    {
-      "id": "capstone",
-      "type": "text",
-      "x": -880,
-      "y": 5880,
-      "width": 1760,
-      "height": 500,
-      "color": "3",
-      "text": "# Audience chamber → personal lair — DEFERRED\n\nEstablished: this sequence is the capstone; the best treasure is in Vraedhul's huge personal lair among favorite dangerous/cursed creations. Learning can improve the party's chances.\nThe personal lair may be a cavern or mountain-top pavilion; its form is not fixed.\nThe attention principle may recur here, but no exact application is chosen.\n\nNOT ADOPTED: the proposal that the audience chamber specifically requires simultaneous coordination of several creations.\nDo not treat it as the selected challenge.\n\nPriority remains finishing the opening and then sketching the crawl. Conditions, challenges, objects, and rewards here are still open."
-    },
-    {
-      "id": "open-group",
-      "type": "group",
-      "x": 1700,
-      "y": -80,
-      "width": 1000,
-      "height": 3060,
-      "label": "Open construction and rejected proposals",
-      "color": "3"
-    },
-    {
-      "id": "open-work",
-      "type": "text",
-      "x": 1750,
-      "y": 0,
-      "width": 900,
-      "height": 970,
-      "color": "3",
-      "text": "# Construction still needed\n\nOutside flow selected: Orenlas travel → altered river → road / expelling lair / optional reconnaissance → one entrance.\nFinish: river geometry and solid-air tells; charging creature; exact scouting observation points; expulsion phenomenon; hidden kobold and predator.\nReconnaissance stays brief. Basic leads are not gated behind a roll or the kobold's survival.\nFormal: gift calibration, maker's body and voice, perspective cues, actual knowledge, binding anchors, release outcome, and physical alternatives.\nKrauzeth: light E05 signal-lens watchpost and E06 steel barricade selected. NPC identities remain open; running numbers remain provisional.\nZaurmath: transformations, signs, route geometry, costs, and skill/magic interactions.\nDiscovery: actual view, evidence, and onward transition.\nCrawl: begin room-and-connection sketch after the opening."
-    },
-    {
-      "id": "proposal-pool",
-      "type": "text",
-      "x": 1750,
-      "y": 1080,
-      "width": 900,
-      "height": 1020,
-      "color": "3",
-      "text": "# Rejected proposals and construction examples\n\nThe earlier elemental guardian proposal is rejected. The formal guardian is the bound Arborean maker.\nDo not retain the stair-maintaining elemental or relief encounter. General outside elementals remain possible; the chosen river chaos creature is a separate later idea.\nThe moving woodland lookout, root tethers, and Air Elemental mechanics were not adopted.\nAn upright whirlpool of architecture is an image for the expulsion, not a fixed phenomenon or giant creature.\nThe hidden kobold is not established as the river creature's handler.\nMaker details such as gold-confined branches, amber eyes, and metal flowers remain illustrations.\nExact environmental transformations and warnings remain construction choices.\nOutside exploration yields reconnaissance, not tribute."
-    },
-    {
-      "id": "guardrails",
-      "type": "text",
-      "x": 1750,
-      "y": 2210,
-      "width": 900,
-      "height": 640,
-      "color": "3",
-      "text": "# Design guardrails\n\nEvery fight has a concrete objective beyond killing.\nAll three entrance choices converge on the earned discovery.\nGood reconnaissance enables a meaningful choice.\nA valuable appropriate gift genuinely simplifies formal admission.\nMaker social interaction is optional; no need to solve three separate judges.\nPermanent effects have clear removal paths.\nDecay accelerates across meaningful delay and absence; patient experiments are welcome.\nDanger levels and warning signs must be readable.\nNo scavenger, feeding clock, or cursed-item portal-fuel plot."
-    },
-    {
-      "id": "resumption-guide",
-      "type": "file",
-      "file": "_dm_notes/_Cleenseau/Adventures/Dragon Arc/00 Design Checkpoint - Vraedhul's Broken Lair.md",
-      "x": 1700,
-      "y": -1700,
-      "width": 1000,
-      "height": 300,
-      "color": "3"
-    },
-    {
-      "id": "departure",
-      "type": "text",
-      "x": -440,
-      "y": -1220,
-      "width": 880,
-      "height": 340,
-      "color": "4",
-      "text": "# Departure — narrated travel\n\nPurpose: establish useful prior knowledge and reach the playable opening.\nEntry: leave Orenlas.\nKnown: the guardian exists and takes tribute; its current form is unknown. Initially only the formal entrance is known.\nUneventful wilderness travel is time-skipped.\nEnds when: the party reaches the altered river before the domain.\nThe grand estate road starts beyond it, not across the preceding wilderness."
-    },
-    {
-      "id": "river",
-      "type": "text",
-      "x": -440,
-      "y": -800,
-      "width": 880,
-      "height": 640,
-      "color": "5",
-      "text": "# River — open a usable crossing\n\nPurpose: introduce scrambled matter through a purposeful encounter.\nSituation: the river is frozen when it should not be. Air above the affected reach also holds solid shapes, with discoverable signs and gaps.\nObjective: make or find a usable crossing.\nOpposition: a charging chaos creature visibly winds up, commits to a line, and shatters solid-air barriers. Baiting its charges can open gaps.\nPressure: local danger during traversal; no global timer.\nEnds when: the party crosses, finds a bypass, or withdraws.\nSuccess: reach the open view. Other effective force, equipment, and magic can help; killing is not required or automatically sufficient.\nOpen: exact geometry, tells, creature statistics, charge rules, costs, and recovery. Flight works within the actual environment; no blanket prohibition."
-    },
-    {
-      "id": "reconnaissance",
-      "type": "text",
-      "x": -1500,
-      "y": 700,
-      "width": 1400,
-      "height": 1250,
-      "color": "#6b7280",
-      "text": "# Optional brief reconnaissance — three prepared findings\n\nPurpose: inform entrance choice without a long wilderness tour.\nEntry: deliberately scout the broken country before committing.\nMethod: ask how they gain an overview and look for inhabitants; resolve one short pass.\n\nBasic findings:\n• Formal: the crooked road remains followable; a monumental constructed presence moves at its end. The exposed approach suggests sneaking past is difficult. Orenlas supplied tribute information.\n• Zaurmath: observe a pattern in the architectural expulsion and a coherent lower shelf/opening beside the worst chaos. An environmental route may survive.\n• Krauzeth: small bootprints use sheltered gullies and displaced-rock gaps, avoiding both obvious approaches. They lead toward a third route.\n\nFollowing a fresh deviation and investigating shelter can reveal the hidden kobold and its predator. The NPC is not visible or calling to the party from the road.\nBasic three leads are earned by scouting, not gated behind a check. A good result finds the predator early and allows preparation; a poor result arrives as it starts probing the refuge.\nEnds when: the party chooses an entrance or follows the rescue lead.\nOne lead check near DC 15 and about ten minutes at the table are provisional calibration suggestions.\nOpen: exact vantage, distances, tracks, skill/check details. No required visit to every entrance."
-    },
-    {
-      "id": "kobold-rescue",
-      "type": "text",
-      "x": 150,
-      "y": 700,
-      "width": 1300,
-      "height": 950,
-      "color": "#6b7280",
-      "text": "# Optional discovery — hidden kobold in danger\n\nPurpose: reward scouting with interaction, a rescue opportunity, and practical route information.\nEntry: follow the inhabitants' tracks and investigate a concealed refuge.\nSituation: a living kobold hides while a predator searches for it. An overturned slab is a possible shelter, not a fixed map detail.\nObjective if intervening: protect and extract the kobold before it is eaten.\nStarting condition: scouting can allow preparation or place the party at the moment the predator starts probing the shelter.\nEnds when: the kobold is safe, lost, or left behind.\nSuccess: conversation can confirm Krauzeth's route and warn of guards and an alarm. Driving off, distracting, or containing the predator can work.\nFailure: the basic tracks still provide the third-route lead; losing the NPC need not close an entrance.\nOpen: NPC identity, allegiance, knowledge, predator, hiding place, and rescue mechanics.\nNot established as the river creature's handler; not the discarded split-minded kobold."
-    },
-    {
-      "id": "encounter-packet",
-      "type": "file",
-      "file": "_dm_notes/_Cleenseau/Adventures/Dragon Arc/04 Encounter Packet - Vraedhul's Broken Lair.md",
-      "x": 1700,
-      "y": -1300,
-      "width": 1000,
-      "height": 1000,
-      "color": "3"
-    }
-  ],
-  "edges": [
-    {
-      "id": "scout-formal",
-      "fromNode": "outside",
-      "fromSide": "left",
-      "toNode": "formal",
-      "toSide": "top",
-      "label": "Follow the known grand approach"
-    },
-    {
-      "id": "scout-zaurmath",
-      "fromNode": "outside",
-      "fromSide": "right",
-      "toNode": "zaurmath",
-      "toSide": "top",
-      "label": "Investigate the expelling lair"
-    },
-    {
-      "id": "alarm-prevented",
-      "fromNode": "watchpost",
-      "fromSide": "bottom",
-      "toNode": "unwarned",
-      "toSide": "top",
-      "label": "Warning prevented"
-    },
-    {
-      "id": "alarm-raised",
-      "fromNode": "watchpost",
-      "fromSide": "bottom",
-      "toNode": "warned",
-      "toSide": "top",
-      "label": "Warning reaches defenders"
-    },
-    {
-      "id": "intact-main",
-      "fromNode": "unwarned",
-      "fromSide": "bottom",
-      "toNode": "demolition",
-      "toSide": "top",
-      "label": "Intact passage; defenders unprepared"
-    },
-    {
-      "id": "damaged-main",
-      "fromNode": "warned",
-      "fromSide": "bottom",
-      "toNode": "demolition",
-      "toSide": "top",
-      "label": "Grille closed; wicket open"
-    },
-    {
-      "id": "formal-success",
-      "fromNode": "formal",
-      "fromSide": "bottom",
-      "toNode": "discovery",
-      "toSide": "left",
-      "label": "Admission secured"
-    },
-    {
-      "id": "combat-success",
-      "fromNode": "demolition",
-      "fromSide": "bottom",
-      "toNode": "discovery",
-      "toSide": "top",
-      "label": "Access preserved; party gets through"
-    },
-    {
-      "id": "environment-success",
-      "fromNode": "zaurmath",
-      "fromSide": "bottom",
-      "toNode": "discovery",
-      "toSide": "right",
-      "label": "Reach onward tunnel"
-    },
-    {
-      "id": "combat-failure",
-      "fromNode": "demolition",
-      "fromSide": "left",
-      "toNode": "recovery",
-      "toSide": "top",
-      "label": "Passage lost or retreat",
-      "color": "#6b7280"
-    },
-    {
-      "id": "retry",
-      "fromNode": "recovery",
-      "fromSide": "left",
-      "toNode": "outside",
-      "toSide": "left",
-      "label": "Try another entrance; retain costs",
-      "color": "#6b7280"
-    },
-    {
-      "id": "continue-crawl",
-      "fromNode": "discovery",
-      "fromSide": "bottom",
-      "toNode": "crawl",
-      "toSide": "top",
-      "label": "Death confirmed; pursue treasure and understanding"
-    },
-    {
-      "id": "reach-capstone",
-      "fromNode": "crawl",
-      "fromSide": "bottom",
-      "toNode": "capstone",
-      "toSide": "top",
-      "label": "Reach the audience chamber; optional exploration improves readiness"
-    },
-    {
-      "id": "reach-river",
-      "fromNode": "departure",
-      "fromSide": "bottom",
-      "toNode": "river",
-      "toSide": "top",
-      "label": "Reach the altered river"
-    },
-    {
-      "id": "cross-river",
-      "fromNode": "river",
-      "fromSide": "bottom",
-      "toNode": "outside",
-      "toSide": "top",
-      "label": "Cross or find a bypass"
-    },
-    {
-      "id": "choose-scouting",
-      "fromNode": "outside",
-      "fromSide": "bottom",
-      "toNode": "reconnaissance",
-      "toSide": "top",
-      "label": "Scout before committing",
-      "color": "#6b7280"
-    },
-    {
-      "id": "follow-kobold-trail",
-      "fromNode": "reconnaissance",
-      "fromSide": "right",
-      "toNode": "kobold-rescue",
-      "toSide": "left",
-      "label": "Follow fresh tracks; investigate shelter",
-      "color": "#6b7280"
-    },
-    {
-      "id": "informed-choice",
-      "fromNode": "reconnaissance",
-      "fromSide": "left",
-      "toNode": "outside",
-      "toSide": "left",
-      "label": "Choose with three route leads",
-      "color": "#6b7280"
-    },
-    {
-      "id": "find-third-route",
-      "fromNode": "reconnaissance",
-      "fromSide": "bottom",
-      "toNode": "watchpost",
-      "toSide": "top",
-      "label": "Follow the third approach toward Krauzeth"
-    },
-    {
-      "id": "rescue-route-choice",
-      "fromNode": "kobold-rescue",
-      "fromSide": "bottom",
-      "toNode": "watchpost",
-      "toSide": "right",
-      "label": "Use tracks or the kobold's warning to approach Krauzeth"
-    },
-    {
-      "id": "rescue-return-choice",
-      "fromNode": "kobold-rescue",
-      "fromSide": "right",
-      "toNode": "outside",
-      "toSide": "right",
-      "label": "Choose another approach; retain knowledge and costs",
-      "color": "#6b7280"
-    }
-  ]
+	"nodes":[
+		{"id":"checkpoint","type":"text","x":-1500,"y":-1700,"width":2900,"height":300,"color":"3","text":"# Vraedhul's Broken Lair — checkpoint 2026-10-25\n\nREAD FIRST: [[00 Design Checkpoint - Vraedhul's Broken Lair]].\nThen read [[01 Overview - Vraedhul's Broken Lair]] and [[02 Backstory - Vraedhul's Broken Lair]].\n\nImmediate scope: finish outside + three entrances + discovery; then sketch the crawl. Audience/lair remain deferred.\nBlue = adopted; green = start; purple = nested part; gray = recovery; yellow = unresolved; red group = eventual capstone.\nCards are first-pass cores, not finished running prep."},
+		{"id":"opening-group","type":"group","x":-1580,"y":-1300,"width":3140,"height":5980,"label":"Beat 1 — shared dangerous approaches, one of three entrances, shared discovery","color":"6"},
+		{"id":"outside","type":"text","x":-440,"y":0,"width":880,"height":560,"color":"5","text":"# Open view — choose an approach\n\nPurpose: present two obvious directions and the option to scout.\nEntry: cross or bypass the altered river.\nSituation: a crooked grand road leads toward the known formal entrance. In roughly the opposite direction, a towering disturbance expels pieces of Zaurmath's lair. Broken country lies between.\nChoices: follow the road; investigate the upheaval; scout before committing.\nThe second sight is an oddity to investigate, not an automatically identified entrance.\nReward for scouting: actionable knowledge of all three routes; no useful tribute.\nPressure: local danger and visible unmaking, without a constant countdown.\nEnds when: the party commits to an approach. It can reconsider with new information."},
+		{"id":"formal","type":"text","x":-1500,"y":2350,"width":850,"height":1120,"color":"5","text":"# Formal entrance — payment and social interaction\n\nPurpose: a costly straightforward entrance, with harder alternatives.\nEntry: select Vraedhul's formal approach.\nSituation: a monumental likeness enforces tribute. A bound Arborean maker, altered by Limbo, provides the social presence.\nObjective: gain admission.\nThree versions: believes it is in Arborea; understands its actual predicament; believes it is still Vraedhul's guardian.\nThe party can influence which version comes forward through actions and attention.\n\nWays through:\n• An appropriate valuable gift makes admission fairly straightforward.\n• Gain cooperation and loosen the binding: an optional social and practical route.\n• Difficult combat or stealth can force or evade the defenses.\n\nPressure: powerful enforcement and conflicting perceptions.\nEnds when: admission is secured or the party withdraws.\nSuccess: reach the shared discovery location.\nCosts/failure: tribute lost, resources, complications, or retreat to another entrance. Lasting curses require clear removal paths.\nCombat must have a concrete access/binding objective beyond killing.\n\nOpen: gift standard, visible cues, exact physical form, binding components, extent of release, statistics, and practical bypasses."},
+		{"id":"krauzeth-group","type":"group","x":-550,"y":2270,"width":1000,"height":1510,"label":"Krauzeth — outer warning changes the main fight","color":"6"},
+		{"id":"watchpost","type":"text","x":-500,"y":2350,"width":900,"height":470,"color":"5","text":"# Outer watchpost — prevent the warning\n\nSelected: [[VBL E05 - Krauzeth's Watchpost]].\nOne handler and one signaler (10 HP each); glass-skull hound (32 HP).\nObjective: pass the post without a warning reaching the barricade.\nPressure: lens preparation gives a full response window before transmission.\nApproaches: talk, sneak, distract the hound, block or break the lens.\nPower target: little attrition; E06 is the main combat.\nEnd promptly when the warning is prevented and defenders concede or are bypassed.\nNo survivors reinforce E06. Success earns an open doorway and an extra round there."},
+		{"id":"unwarned","type":"text","x":-500,"y":2900,"width":425,"height":250,"color":"5","text":"# No warning\n\nAll barricade assemblies parked.\nDoorway open; crew unprepared.\n\nThe party gains better initial conditions for reaching the machinery and securing access."},
+		{"id":"warned","type":"text","x":-25,"y":2900,"width":425,"height":250,"color":"5","text":"# Warning received\n\nGrille closed; wicket open.\nPlate and locking frame still parked.\n\nGuards retreat through the wicket before the plate covers it. The alarm triggers closure."},
+		{"id":"demolition","type":"text","x":-500,"y":3230,"width":900,"height":480,"color":"5","text":"# Main fight — preserve access\n\nSelected: [[VBL E06 - Save the Passage]].\nMachinery: sliding grille → armored plate → locking frame.\nCrew behind barrier: two chain-pullers, director, spellcaster, fire/acid bombardier.\nThree guards withdraw through the grille wicket before the plate covers it; no bypass hatch.\nObjective: get everyone through and secure access.\nPressure: hauling closes the barrier while guards and ranged attackers interfere.\nInterference: jam, reverse, divert, break chains, or seize controls.\nSuccess: underground kobold network to shared discovery.\nFailure: another entrance remains available; retain costs."},
+		{"id":"zaurmath","type":"text","x":550,"y":2350,"width":900,"height":1120,"color":"5","text":"# Zaurmath — graded environmental traversal\n\nPurpose: an entrance using observation, skills, equipment, and magic.\nEntry: choose the most devastated surviving approach.\nSituation: one ruined chamber, a visible onward tunnel, and a breach on one side where form breaks down.\nObjective: reach the tunnel.\n\nGradient:\n1. Relatively stable edges: observe and investigate.\n2. Changing ground: main traversal hazards, recognizable warning signs, and places to recover.\n3. Unforming breach: unmistakably extreme and avoidable; not required for success.\n\nPossible routes:\n• Outer ledges: less transformation, more climbing and exposed gaps.\n• Direct crossing: more changing material to diagnose and negotiate.\n\nPressure: local transformations, not arbitrary remapping.\nEnds when: the party reaches the tunnel or withdraws.\nSuccess: kobold passages give access to the shared discovery.\nFailure: lost positioning, equipment, health, rescue, or magic costs; accumulated trouble can force retreat.\nSuitable traversal magic genuinely helps.\nOpen: actual transformations, reliable precursors, route geometry, consequences, and mechanics."},
+		{"id":"recovery","type":"text","x":-1500,"y":3950,"width":850,"height":570,"color":"#6b7280","text":"# Recovery / another entrance\n\nIf a route is lost or the party withdraws, return to the outer approaches with knowledge and costs retained.\n\nRetreat does not reset the world.\nProlonged absence allows accelerating decay to change opportunities.\nA lasting curse has a clear removal path; pursuing it costs time away.\n\nThis is a recovery possibility, not a requirement to attempt every entrance."},
+		{"id":"discovery","type":"text","x":-440,"y":3950,"width":880,"height":570,"color":"5","text":"# Shared discovery — earned payoff\n\nPurpose: confirm Vraedhul's death and introduce the larger catastrophe.\nEntry: overcome any one entrance; offspring routes use kobold tunnels.\nSituation: a clear inward view from Vraedhul's mountain of recognizable transformed skeletal/skull-like remains stretched through the workshop chaos.\nPressure: visible continuing unmaking, without an immediate need to hurry.\nEssential conclusions: Vraedhul is dead; an eruption from Limbo consumed her.\nStill unresolved: details and continuing consequences, including wider Plaguelands disturbances.\nEnds when: these conclusions are understood and the party can proceed to the guest quarters.\nThe chosen entrance earns this revelation; no further admission puzzle is required.\nOpen: exact viewpoint, physical image, evidence, and connection to the antechamber."},
+		{"id":"crawl-group","type":"group","x":-940,"y":4830,"width":1880,"height":760,"label":"Beat 2 — supplicant-quarter dungeon; internal map still open","color":"6"},
+		{"id":"crawl","type":"text","x":-880,"y":4910,"width":1760,"height":600,"color":"5","text":"# Supplicant-quarter crawl\n\nPurpose: a classic room-by-room dungeon with interesting magical treasure and reusable learning.\nEntry: proceed from the discovery into the antechamber and suites.\nSituation: increasingly elaborate accommodations for favored or mocked guests, containing Vraedhul's dangerous legacy.\nStructure: short main route, optional suites, and some cross-connections. Individual suite passages and kobold tunnels connect to the antechamber; exact surviving routes need mapping.\nActivity: enter rooms, explore, experiment, recover prizes, and move onward.\nRecurring principle: attention helps stabilize a possibility already contained within a Limbo-altered creation; this is not unrestricted reality shaping.\nMomentum: discoveries improve later readiness.\nPacing: can expand to a full enjoyable session or be shortened by skipping optional portions.\nFailure: resources, lost opportunities, or removable curses with meaningful recovery costs.\nExit: reach the audience chamber.\nOpen: room count, map, actual creations, treasure, clues about the eruption, and specific lessons."},
+		{"id":"capstone-group","type":"group","x":-940,"y":5800,"width":1880,"height":660,"label":"Beat 3 — eventual capstone; development deferred","color":"1"},
+		{"id":"capstone","type":"text","x":-880,"y":5880,"width":1760,"height":500,"color":"3","text":"# Audience chamber → personal lair — DEFERRED\n\nEstablished: this sequence is the capstone; the best treasure is in Vraedhul's huge personal lair among favorite dangerous/cursed creations. Learning can improve the party's chances.\nThe personal lair may be a cavern or mountain-top pavilion; its form is not fixed.\nThe attention principle may recur here, but no exact application is chosen.\n\nNOT ADOPTED: the proposal that the audience chamber specifically requires simultaneous coordination of several creations.\nDo not treat it as the selected challenge.\n\nPriority remains finishing the opening and then sketching the crawl. Conditions, challenges, objects, and rewards here are still open."},
+		{"id":"open-group","type":"group","x":1700,"y":-80,"width":1000,"height":3060,"label":"Open construction and rejected proposals","color":"3"},
+		{"id":"open-work","type":"text","x":1750,"y":0,"width":900,"height":970,"color":"3","text":"# Construction still needed\n\nOutside flow selected: Orenlas travel → altered river → road / expelling lair / optional reconnaissance → one entrance.\nFinish: river geometry and solid-air tells; charging creature; exact scouting observation points; expulsion phenomenon; hidden kobold and predator.\nReconnaissance stays brief. Basic leads are not gated behind a roll or the kobold's survival.\nFormal: gift calibration, maker's body and voice, perspective cues, actual knowledge, binding anchors, release outcome, and physical alternatives.\nKrauzeth: light E05 signal-lens watchpost and E06 steel barricade selected. NPC identities remain open; running numbers remain provisional.\nZaurmath: transformations, signs, route geometry, costs, and skill/magic interactions.\nDiscovery: actual view, evidence, and onward transition.\nCrawl: begin room-and-connection sketch after the opening."},
+		{"id":"proposal-pool","type":"text","x":1750,"y":1080,"width":900,"height":1020,"color":"3","text":"# Rejected proposals and construction examples\n\nThe earlier elemental guardian proposal is rejected. The formal guardian is the bound Arborean maker.\nDo not retain the stair-maintaining elemental or relief encounter. General outside elementals remain possible; the chosen river chaos creature is a separate later idea.\nThe moving woodland lookout, root tethers, and Air Elemental mechanics were not adopted.\nAn upright whirlpool of architecture is an image for the expulsion, not a fixed phenomenon or giant creature.\nThe hidden kobold is not established as the river creature's handler.\nMaker details such as gold-confined branches, amber eyes, and metal flowers remain illustrations.\nExact environmental transformations and warnings remain construction choices.\nOutside exploration yields reconnaissance, not tribute."},
+		{"id":"guardrails","type":"text","x":1750,"y":2210,"width":900,"height":640,"color":"3","text":"# Design guardrails\n\nEvery fight has a concrete objective beyond killing.\nAll three entrance choices converge on the earned discovery.\nGood reconnaissance enables a meaningful choice.\nA valuable appropriate gift genuinely simplifies formal admission.\nMaker social interaction is optional; no need to solve three separate judges.\nPermanent effects have clear removal paths.\nDecay accelerates across meaningful delay and absence; patient experiments are welcome.\nDanger levels and warning signs must be readable.\nNo scavenger, feeding clock, or cursed-item portal-fuel plot."},
+		{"id":"resumption-guide","type":"file","file":"_dm_notes/_Cleenseau/Adventures/Dragon Arc/00 Design Checkpoint - Vraedhul's Broken Lair.md","x":1700,"y":-1700,"width":1000,"height":300,"color":"3"},
+		{"id":"departure","type":"text","x":-440,"y":-1220,"width":880,"height":340,"color":"4","text":"# Departure — narrated travel\n\nPurpose: establish useful prior knowledge and reach the playable opening.\nEntry: leave Orenlas.\nKnown: the guardian exists and takes tribute; its current form is unknown. Initially only the formal entrance is known.\nUneventful wilderness travel is time-skipped.\nEnds when: the party reaches the altered river before the domain.\nThe grand estate road starts beyond it, not across the preceding wilderness."},
+		{"id":"river","type":"text","x":-440,"y":-800,"width":880,"height":640,"color":"5","text":"# River — open a usable crossing\n\nPurpose: introduce scrambled matter through a purposeful encounter.\nSituation: the river is frozen when it should not be. Air above the affected reach also holds solid shapes, with discoverable signs and gaps.\nObjective: make or find a usable crossing.\nOpposition: a charging chaos creature visibly winds up, commits to a line, and shatters solid-air barriers. Baiting its charges can open gaps.\nPressure: local danger during traversal; no global timer.\nEnds when: the party crosses, finds a bypass, or withdraws.\nSuccess: reach the open view. Other effective force, equipment, and magic can help; killing is not required or automatically sufficient.\nOpen: exact geometry, tells, creature statistics, charge rules, costs, and recovery. Flight works within the actual environment; no blanket prohibition."},
+		{"id":"reconnaissance","type":"text","x":-1500,"y":700,"width":1400,"height":1250,"color":"#6b7280","text":"# Optional brief reconnaissance — three prepared findings\n\nPurpose: inform entrance choice without a long wilderness tour.\nEntry: deliberately scout the broken country before committing.\nMethod: ask how they gain an overview and look for inhabitants; resolve one short pass.\n\nBasic findings:\n• Formal: the crooked road remains followable; a monumental constructed presence moves at its end. The exposed approach suggests sneaking past is difficult. Orenlas supplied tribute information.\n• Zaurmath: observe a pattern in the architectural expulsion and a coherent lower shelf/opening beside the worst chaos. An environmental route may survive.\n• Krauzeth: small bootprints use sheltered gullies and displaced-rock gaps, avoiding both obvious approaches. They lead toward a third route.\n\nFollowing a fresh deviation and investigating shelter can reveal the hidden kobold and its predator. The NPC is not visible or calling to the party from the road.\nBasic three leads are earned by scouting, not gated behind a check. A good result finds the predator early and allows preparation; a poor result arrives as it starts probing the refuge.\nEnds when: the party chooses an entrance or follows the rescue lead.\nOne lead check near DC 15 and about ten minutes at the table are provisional calibration suggestions.\nOpen: exact vantage, distances, tracks, skill/check details. No required visit to every entrance."},
+		{"id":"kobold-rescue","type":"text","x":150,"y":700,"width":1300,"height":950,"color":"#6b7280","text":"# Optional discovery — hidden kobold in danger\n\nPurpose: reward scouting with interaction, a rescue opportunity, and practical route information.\nEntry: follow the inhabitants' tracks and investigate a concealed refuge.\nSituation: a living kobold hides while a predator searches for it. An overturned slab is a possible shelter, not a fixed map detail.\nObjective if intervening: protect and extract the kobold before it is eaten.\nStarting condition: scouting can allow preparation or place the party at the moment the predator starts probing the shelter.\nEnds when: the kobold is safe, lost, or left behind.\nSuccess: conversation can confirm Krauzeth's route and warn of guards and an alarm. Driving off, distracting, or containing the predator can work.\nFailure: the basic tracks still provide the third-route lead; losing the NPC need not close an entrance.\nOpen: NPC identity, allegiance, knowledge, predator, hiding place, and rescue mechanics.\nNot established as the river creature's handler; not the discarded split-minded kobold."},
+		{"id":"encounter-packet","type":"file","file":"_dm_notes/_Cleenseau/Adventures/Dragon Arc/04 Encounter Packet - Vraedhul's Broken Lair.md","x":1700,"y":-1300,"width":1000,"height":1000,"color":"3"}
+	],
+	"edges":[
+		{"id":"scout-formal","fromNode":"outside","fromSide":"left","toNode":"formal","toSide":"top","label":"Follow the known grand approach"},
+		{"id":"scout-zaurmath","fromNode":"outside","fromSide":"right","toNode":"zaurmath","toSide":"top","label":"Investigate the expelling lair"},
+		{"id":"alarm-prevented","fromNode":"watchpost","fromSide":"bottom","toNode":"unwarned","toSide":"top","label":"Warning prevented"},
+		{"id":"alarm-raised","fromNode":"watchpost","fromSide":"bottom","toNode":"warned","toSide":"top","label":"Warning reaches defenders"},
+		{"id":"intact-main","fromNode":"unwarned","fromSide":"bottom","toNode":"demolition","toSide":"top","label":"Intact passage; defenders unprepared"},
+		{"id":"damaged-main","fromNode":"warned","fromSide":"bottom","toNode":"demolition","toSide":"top","label":"Grille closed; wicket open"},
+		{"id":"formal-success","fromNode":"formal","fromSide":"bottom","toNode":"discovery","toSide":"left","label":"Admission secured"},
+		{"id":"combat-success","fromNode":"demolition","fromSide":"bottom","toNode":"discovery","toSide":"top","label":"Access preserved; party gets through"},
+		{"id":"environment-success","fromNode":"zaurmath","fromSide":"bottom","toNode":"discovery","toSide":"right","label":"Reach onward tunnel"},
+		{"id":"combat-failure","fromNode":"demolition","fromSide":"left","toNode":"recovery","toSide":"top","label":"Passage lost or retreat","color":"#6b7280"},
+		{"id":"retry","fromNode":"recovery","fromSide":"left","toNode":"outside","toSide":"left","label":"Try another entrance; retain costs","color":"#6b7280"},
+		{"id":"continue-crawl","fromNode":"discovery","fromSide":"bottom","toNode":"crawl","toSide":"top","label":"Death confirmed; pursue treasure and understanding"},
+		{"id":"reach-capstone","fromNode":"crawl","fromSide":"bottom","toNode":"capstone","toSide":"top","label":"Reach the audience chamber; optional exploration improves readiness"},
+		{"id":"reach-river","fromNode":"departure","fromSide":"bottom","toNode":"river","toSide":"top","label":"Reach the altered river"},
+		{"id":"cross-river","fromNode":"river","fromSide":"bottom","toNode":"outside","toSide":"top","label":"Cross or find a bypass"},
+		{"id":"choose-scouting","fromNode":"outside","fromSide":"bottom","toNode":"reconnaissance","toSide":"top","label":"Scout before committing","color":"#6b7280"},
+		{"id":"follow-kobold-trail","fromNode":"reconnaissance","fromSide":"right","toNode":"kobold-rescue","toSide":"left","label":"Follow fresh tracks; investigate shelter","color":"#6b7280"},
+		{"id":"informed-choice","fromNode":"reconnaissance","fromSide":"left","toNode":"outside","toSide":"left","label":"Choose with three route leads","color":"#6b7280"},
+		{"id":"find-third-route","fromNode":"reconnaissance","fromSide":"bottom","toNode":"watchpost","toSide":"top","label":"Follow the third approach toward Krauzeth"},
+		{"id":"rescue-route-choice","fromNode":"kobold-rescue","fromSide":"bottom","toNode":"watchpost","toSide":"right","label":"Use tracks or the kobold's warning to approach Krauzeth"},
+		{"id":"rescue-return-choice","fromNode":"kobold-rescue","fromSide":"right","toNode":"outside","toSide":"right","label":"Choose another approach; retain knowledge and costs","color":"#6b7280"}
+	]
 }
