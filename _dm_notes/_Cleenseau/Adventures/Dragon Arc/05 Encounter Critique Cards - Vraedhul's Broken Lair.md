@@ -4,7 +4,7 @@ tags: [meta, status/check/ai]
 
 # Vraedhul's Broken Lair — Variant Choices
 
-Choose one version per scene. Linked notes contain read-aloud text, running rules, and stats.
+E01 and E06 have selected versions; choose one version for each remaining scene. Linked notes contain read-aloud text, running rules, and stats.
 
 **River:** [[VBL E01 - River of Solid Air|folded current selected]]; upstream crossing through northern chaos-pack territory remains an alternative route.
 
@@ -14,7 +14,7 @@ Choose one version per scene. Linked notes contain read-aloud text, running rule
 | [[VBL E03 - The Hidden Kobold|Kobold rescue]] | **Mouth beneath the slab:** one predator; free a trapped ankle before it reaches the kobold. | **Hunting ribbons:** two aerial hunters; extract and reach cover. |
 | [[VBL E04 - The Arborean Gatekeeper|Formal entrance]] | **Maker in the bronze dragon:** gold collars bind a living maker to the gate. | **Orchard of gold:** wire cages bind living growth into useful shapes. |
 | [[VBL E05 - Krauzeth's Watchpost|Watchpost]] | **Signal lens and glass hound:** block the beam before transmission. | **Runner and kiln beast:** stop the keyed bell. |
-| [[VBL E06 - Save the Passage|Passage]] | **Counterweighted jaws:** jam, reverse, or break closing stone jaws. | **Cast-stone seal:** stop the flow before the door sets. |
+| [[VBL E06 - Save the Passage|Passage]] | **Selected: steel barricade.** Two pullers, director, three guards, spellcaster, and fire/acid bombardier; grille → plate → locking frame. | Earlier jaws and poured-stone proposals superseded. |
 | [[VBL E07 - Zaurmath's Broken Hall|Broken hall]] | **Floor remembers water:** cross cycling plates or stabilize them. | **Rooms becoming wind:** time or suppress gust lanes. |
 | [[VBL E08 - The Death View|Death view]] | **Skull in the wound:** remains amid the broken workshops. | **Spine across workshops:** suspended bones repeatedly change. |
 | [[VBL G01 - The Generous Table|Generous table]] | **Excessive hospitality:** end the service; take the platform-making cloth. | **Borrowed senses:** inspect altered materials; take the distant-tasting cup. |
