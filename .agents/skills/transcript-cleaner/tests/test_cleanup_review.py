@@ -22,8 +22,8 @@ class CleanupReviewTest(unittest.TestCase):
         self.source = self.root / "cleaned.md"
         self.source.write_bytes(
             b"[u0001 | 00:00:00.000-00:00:01.000 | DM] Before.\r\n"
-            b"[u0002 | 00:00:01.000-00:00:02.000 | PC] Meet [[garbled name]].\r\n"
-            b"[u0003 | 00:00:02.000-00:00:03.000 | Unknown] [[mumbling]]\r\n"
+            b"[u0002 | 00:00:01.000-00:00:02.000 | PC] Meet {{garbled name}}.\r\n"
+            b"[u0003 | 00:00:02.000-00:00:03.000 | Unknown] {{mumbling}}\r\n"
             b"[u0004 | 00:00:03.000-00:00:04.000 | DM] After.\r\n")
         self.assessment = {"transcriptSha256": review.digest(self.source), "issues": [
             {"uid": "u0002", "importance": "material", "reason": "Recipient's identity."},
@@ -41,7 +41,7 @@ class CleanupReviewTest(unittest.TestCase):
         self.assertEqual(review.seconds("90:02.5"), 5402.5)
         self.assertEqual(review.seconds("62.5"), 62.5)
         self.assertEqual(review.seconds("01:30:02.5"), 5402.5)
-        self.source.write_text("[u0001 | 01:02.5-63.5 | DM] [[A name]].\n")
+        self.source.write_text("[u0001 | 01:02.5-63.5 | DM] {{A name}}.\n")
         self.assertEqual(review.inventory(self.source)["issues"][0]["start"], 62.5)
 
     def test_acceptance_preserves_text_and_survives_resume(self):
@@ -57,7 +57,7 @@ class CleanupReviewTest(unittest.TestCase):
         review.save_decision(self.review, self.decisions, {"uid": "u0002", "status": "correct", "text": "Meet Nura."})
         review.save_decision(self.review, self.decisions, {"skipRemaining": True})
         self.assertEqual(review.apply_decisions(self.review, self.decisions), 1)
-        self.assertEqual(self.source.read_bytes(), before.replace(b"Meet [[garbled name]].", b"Meet Nura."))
+        self.assertEqual(self.source.read_bytes(), before.replace(b"Meet {{garbled name}}.", b"Meet Nura."))
         self.assertEqual(review.apply_decisions(self.review, self.decisions), 0)
         resumed = review.inventory(self.source, decisions=review.read_json(self.decisions))
         self.assertEqual(resumed["pendingMaterialCount"], 0)
@@ -90,7 +90,7 @@ class CleanupReviewTest(unittest.TestCase):
         self.assertEqual(self.source.read_bytes(), before)
 
     def test_invalid_correction_does_not_write_decisions(self):
-        for text in ("", "split\nline", "still [[unclear]]"):
+        for text in ("", "split\nline", "still {{unclear}}", "unclosed {{word", "stray word}}"):
             with self.assertRaises(ValueError):
                 review.save_decision(self.review, self.decisions, {"uid": "u0002", "status": "correct", "text": text})
         self.assertFalse(self.decisions.exists())
@@ -105,6 +105,24 @@ class CleanupReviewTest(unittest.TestCase):
         altered[0]["header"] = "[u0001 | 00:00:00.000-00:00:01.000 | Someone else]"
         result, _ = report.build_reports(rows, altered)
         self.assertTrue(result["validationErrors"])
+
+    def test_wikilinks_and_annotations_are_not_asr_issues(self):
+        self.source.write_text(
+            "[u0001 | 00:00:00.000-00:00:01.000 | DM] See [[Real Note|alias]] [laughs].\n"
+            "[u0002 | 00:00:01.000-00:00:02.000 | PC] Meet {{garbled name}} near [[Real Place]].\n")
+        current = review.inventory(self.source)
+        self.assertEqual([issue["uid"] for issue in current["issues"]], ["u0002"])
+        self.assertEqual(current["issues"][0]["phrases"], ["garbled name"])
+        self.assertEqual(current["acceptedCount"], 0)
+        rows = report.read_transcript(self.source)
+        result, corrections = report.build_reports(rows, rows)
+        self.assertEqual(result["unresolvedCount"], 1)
+        self.assertEqual(result["changedLineCount"], 0)
+        summary = report.build_cleanup_summary_markdown(result, corrections)
+        self.assertIn("{{garbled name}}", summary)
+        self.assertNotIn("[[Real Place]]", summary)
+        self.assertEqual(review.validate_decision({"status": "correct", "text": "Meet [[Nura]] [laughs]."}),
+                         {"status": "correct", "text": "Meet [[Nura]] [laughs]."})
 
     def test_local_server_save_and_token(self):
         path = self.root / "review.json"

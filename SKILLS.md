@@ -1,6 +1,6 @@
 # Taelgar Skills
 
-Last reviewed: **2026-10-23**
+Last reviewed: **2026-10-25**
 
 This guide covers the 23 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
 
@@ -23,11 +23,11 @@ These are normally called by the session pipeline, except for the optional trans
 
 | Skill | What it does | Example use case |
 | --- | --- | --- |
-| [transcript-cleaner](.agents/skills/transcript-cleaner/SKILL.md) | Corrects transcription errors while preserving line IDs, speakers, timestamps, and order. Collects meaningful unresolved uncertainty for review; it does not turn the transcript into polished narrative. | “Clean this prepared transcript, but stop before splitting it into beats.” |
+| [transcript-cleaner](.agents/skills/transcript-cleaner/SKILL.md) | Corrects transcription errors while preserving line IDs, speakers, timestamps, and order. Marks unresolved ASR wording with `{{...}}` while preserving Obsidian wikilinks, and collects meaningful uncertainty for review; it does not turn the transcript into polished narrative. | “Clean this prepared transcript, but stop before splitting it into beats.” |
 | [transcript-splitter](.agents/skills/transcript-splitter/SKILL.md) | Divides a cleaned transcript or normalized written source into ordered story beats, preserving complete source coverage. Produces beat data and a readable preview. | “Split this cleaned source into beats.” |
 | [beat-annotator](.agents/skills/beat-annotator/SKILL.md) | Records the supported facts for each beat, including people, places, items, organizations, and combat. Full-session work also reviews chronology against the session dates; a single-beat mode is available. | “Annotate these beats and check the session chronology.” |
 | [session-summary](.agents/skills/session-summary/SKILL.md) | Builds the structured recap from finalized beats and facts, using the pipeline's scene grouping and chronology when applicable. Produces compact timeline entries and recap prose at three levels of detail. | “Draft the session recap from these finalized beats and facts.” |
-| [beat-transcript-polisher](.agents/skills/beat-transcript-polisher/SKILL.md) | Produces readable transcript excerpts organized around recap scenes and links them from the recap. Use after the recap exists, when the transcript itself is wanted as a more detailed view. | “Add polished transcript excerpts for this completed recap.” |
+| [beat-transcript-polisher](.agents/skills/beat-transcript-polisher/SKILL.md) | Produces readable transcript excerpts organized around recap scenes and links them from the recap. Preserves unresolved ASR `{{...}}` markers for review. Use after the recap exists, when the transcript itself is wanted as a more detailed view. | “Add polished transcript excerpts for this completed recap.” |
 
 ## Reviewing and completing vault notes
 

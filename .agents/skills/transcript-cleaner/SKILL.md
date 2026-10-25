@@ -65,9 +65,10 @@ Use secondary evidence only to support or confirm a correction, not to override 
   `Finnan` vs `Finan` / `Finnen` / `Finn in`
 - Use local conversational context aggressively for protected names.
   Turn-order language like `X's turn`, direct address, initiative chatter, and repeated nearby variants are strong evidence that a protected name is intended.
-- If an unresolved error could change a name, event, decision, or the meaning of a substantive sentence, mark the questionable span with `[[...]]`.
+- If an unresolved error could change a name, event, decision, or the meaning of a substantive sentence, mark the questionable span with `{{...}}`.
+- Use double curly braces only for unresolved ASR wording, for example `{{uncertain wording}}`. Preserve legitimate Obsidian `[[wikilinks]]`, transcript headers, and ordinary annotations such as `[laughs]`; do not blanket-convert square brackets or treat links as ASR issues.
 - Leave unclear incidental table chatter, cross-talk, and short fragments verbatim when they do not affect the session record. Short lines are not automatically incidental: a brief name or decisive answer can matter.
-- Apply `[[...]]` after checking:
+- Apply `{{...}}` after checking:
   participant names from `session.yaml`, any provided glossary/dictionary, nearby lines, and repeated variants elsewhere in the session.
 - Gather unresolved issues across all chunks. Never stop for ASR questions during cleanup; complete both passes before assessing the remaining uncertainty.
 - Do not rely on a general impression of the chunk.
@@ -96,7 +97,7 @@ Use secondary evidence only to support or confirm a correction, not to override 
    3. mark each line mentally as:
       - clean
       - fixable with high confidence
-      - materially uncertain, so it needs `[[...]]`
+      - materially uncertain, so it needs `{{...}}`
       - unclear incidental speech, which can remain verbatim
    4. resolve likely corrections using local context, participant names, glossary/dictionary, and repeated nearby variants
    5. only then write the cleaned chunk
@@ -184,7 +185,7 @@ The script validates:
 - exact header preservation
 - line-count preservation
 - changed lines
-- unresolved `[[...]]` markers
+- unresolved `{{...}}` markers
 - repeated replacement pairs derived from diffs
 - a compact replacement summary printed to stdout
 - a condensed human-readable transcript with adjacent speaker lines merged

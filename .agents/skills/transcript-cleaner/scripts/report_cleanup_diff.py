@@ -18,7 +18,7 @@ from review_cleanup import inventory, read_json
 
 
 LINE_RE = re.compile(r"^(?P<header>\[[^\]]+\])\s(?P<text>.*)$")
-UNCERTAIN_RE = re.compile(r"\[\[(.+?)\]\]")
+UNCERTAIN_RE = re.compile(r"\{\{(.+?)\}\}")
 TOKEN_RE = re.compile(r"\w+|[^\w\s]", re.UNICODE)
 
 
@@ -239,7 +239,7 @@ def print_summary(report: Dict[str, object]) -> None:
     if unique_unresolved:
         print("Unresolved phrases:")
         for phrase in unique_unresolved[:10]:
-            print(f"  [[{phrase}]]")
+            print(f"  {{{{{phrase}}}}}")
 
 
 def build_human_transcript(cleaned: Sequence[Dict[str, str]]) -> str:
@@ -300,7 +300,7 @@ def build_cleanup_summary_markdown(
         lines.append("## Unresolved Phrases")
         lines.append("")
         for item in unresolved:
-            lines.append(f"- [[{item['phrase']}]] at {item['header']}")
+            lines.append(f"- {{{{{item['phrase']}}}}} at {item['header']}")
         lines.append("")
 
     return "\n".join(lines).rstrip() + "\n"

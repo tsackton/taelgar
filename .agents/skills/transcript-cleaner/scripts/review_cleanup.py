@@ -17,7 +17,7 @@ from urllib.parse import urlparse
 import yaml
 
 LINE = re.compile(r"^(\[(u\d{4,})\s*\|\s*([^|]+)\|\s*([^\]]+)\])(\s)(.*)$")
-MARKER = re.compile(r"\[\[(.+?)\]\]")
+MARKER = re.compile(r"\{\{(.+?)\}\}")
 
 
 def digest(path: Path) -> str:
@@ -109,7 +109,7 @@ def validate_decision(item: dict) -> dict:
     text = item.get("text")
     if item.get("status") != "correct" or not isinstance(text, str) or not text.strip():
         raise ValueError("Provide a correction or skip this issue.")
-    if any(char in text for char in "\r\n\u2028\u2029") or "[[" in text or "]]" in text:
+    if any(char in text for char in "\r\n\u2028\u2029") or "{{" in text or "}}" in text:
         raise ValueError("A correction must be one transcript line without unresolved markers; use Skip if unclear.")
     return {"status": "correct", "text": text}
 

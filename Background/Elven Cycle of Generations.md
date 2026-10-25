@@ -11,7 +11,7 @@ POV: modern
 ---
 # Elven Cycle of Generations
 
-The elven cycle of generations, known as the *ka*, is the result of elves’ very long lifespans, but limited time when they can bear children. Elves are only fertile for about 30 years, when the roots of Aldanor tie them to the [[Material Plane]], but can live to be hundreds, or even thousands, of years old. This means that each generation is distinct and non-overlapping, and the elves count these, numbering from when the planes were separated and Taelgar was created.
+The elven cycle of generations, known as the *ka*, is the result of elves’ very long lifespans, but limited time when they can bear children. Elves are only fertile for a handful of decades, often about thirty years, when the roots of Aldanor tie them to the [[Material Plane]]. But, they can live to be hundreds, or even thousands, of years old. This means that each generation is distinct and non-overlapping: the elves count these, numbering from [[Riving|when the planes were separated]] and Taelgar was created.
 ## *Mela and Leya*
 
 Each new *ka* begins with the *mela*, when the Living Tree, [[Aldanor]], puts roots into the material world. All elves feel the pull of this connection to Taelgar, as it grows over the first few years of the *mela*. An elf experiencing their first *mela* feels a particularly strong pull towards Aldanor, and those who accept this connection are able to bear children, until the *mela* ends. Elven children are born only during the *mela*, and as it ends they enter the Dreaming, the 50 year childhood of dreams and magic during which elves sleep for the only time in their lives.
