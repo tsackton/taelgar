@@ -6,7 +6,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1748-03-25), evening: party ends at [[Dunmari Fort]].
+- Candidate party whereabouts: (DR:: 1748-03-25), evening: party ends at [[Dunmari Fort (Gomat)]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
@@ -15,7 +15,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
-- [[Arcus]]: candidate whereabouts update from (DR:: 1748-03-25), evening -> [[Dunmari Fort]].
+- [[Arcus]]: candidate whereabouts update from (DR:: 1748-03-25), evening -> [[Dunmari Fort (Gomat)]].
   - Whereabouts line: `- {type: away, start: 1748-03-25 to 1748-03-26, location: Dunmari Fort}`
 <!-- /SLOT -->
 
@@ -25,10 +25,10 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->
-- [[Aagir's Everlight]]: candidate item-location update from (DR:: 1748-03-25), evening -> [[Dunmari Fort]].
-- [[Floating Disc Coin]]: candidate item-location update from (DR:: 1748-03-25), evening -> [[Dunmari Fort]].
-- Black Iron Staff: candidate item-location update from (DR:: 1748-03-25), evening -> [[Dunmari Fort]].
-- Cha'mutte symbol necklace: candidate item-location update from (DR:: 1748-03-25), evening -> [[Dunmari Fort]].
+- [[Aagir's Everlight]]: candidate item-location update from (DR:: 1748-03-25), evening -> [[Dunmari Fort (Gomat)]].
+- [[Floating Disc Coin]]: candidate item-location update from (DR:: 1748-03-25), evening -> [[Dunmari Fort (Gomat)]].
+- Black Iron Staff: candidate item-location update from (DR:: 1748-03-25), evening -> [[Dunmari Fort (Gomat)]].
+- Cha'mutte symbol necklace: candidate item-location update from (DR:: 1748-03-25), evening -> [[Dunmari Fort (Gomat)]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.review -->

@@ -60,7 +60,7 @@ The [[Hetaeri Magica]], which draws members from both the University of Chardon 
 - (DR:: 1065): The University of Chardon expands, absorbing many refugees from the destruction of Drankor during the [[First Plague|First Plague]].
 
 
-%%SECRET[v2:d67b6707021f30d62125650b310d31f3]%%
+%%SECRET[v2:d88971915521b7298bca51244e575018]%%
 
 %%^Metadata:names:v1%%
 - {name: "University of Chardon", role: "primary", language: "Chardonian", pronunciation: "university of CHAR-din", status: "documented"}

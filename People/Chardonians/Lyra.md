@@ -62,7 +62,7 @@ Temporal coverage: a late-DR-1740s portrait of Lyra as a traveling Great Library
 
 ### Open findings
 
-- [ ] **Warning — coverage.established_fact_missing:** [[Great Library Session Notes - Arc 1]], [[The Chronicles of the Silver Tempests]], and [[Elemental Scrolls of Airion]] establish the central campaign role that the two-sentence article omits. Add: `In DR 1747, Lyra hired the adventurers who became the Silver Tempests to recover the Elemental Scrolls of Airion. She directed their search across Greater Voltara and received the recovered scrolls for the Great Library.`
+- [ ] **Warning — coverage.established_fact_missing:** [[Great Library Session Notes - Arc 1]], [[Great Library Campaign]], and [[Elemental Scrolls of Airion]] establish the central campaign role that the two-sentence article omits. Add: `In DR 1747, Lyra hired the adventurers who became the Silver Tempests to recover the Elemental Scrolls of Airion. She directed their search across Greater Voltara and received the recovered scrolls for the Great Library.`
 - [ ] **Warning — metadata.names_unresolved_status:** The new Lyra name entry proposes `LEE-rah` from the Italian and Latin analogue for Chardonian. An Italian reading supports `LEE-rah`, while exact Chardonian treatment of the Latin-derived `y` is not established. Review the proposal; if accepted, add `pronunciation: LEE-rah` to frontmatter and change the entry to `status: documented`, or revise the proposed pronunciation and derivation note.
 
 ### DM evidence

@@ -6,7 +6,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1748-03-25), midday: party ends at [[Dunmari Fort]].
+- Candidate party whereabouts: (DR:: 1748-03-25), midday: party ends at [[Dunmari Fort (Gomat)]].
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->

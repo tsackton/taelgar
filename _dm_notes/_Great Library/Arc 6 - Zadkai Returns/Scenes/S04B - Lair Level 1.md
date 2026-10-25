@@ -27,7 +27,7 @@ To the right (facing the mirror), a cloudscape of realistic moving clouds is wov
 
 The basic way this once worked. Airion established an extraplanar vault, which required four elemental keys to open. Rather than simply carry the keys, he gave one to each of four elemental guardians. The vault door was covered by a magical mirror, and by speakign the right command he could summon each elemental guardian to the mirror, and ask for its key. Each would hand over it turn, he'd open the vault, and then when done, carry out the process in reverse. The setup had the mirror covering the vault door; with the four keys in place, the mirror vanished as the door opened. 
 
-Zadkai's team detected the vault door behind the mirror, and smashed the mirror, but could not open the vault. They then proceeded into the air guardian path, and got stuck somehow (developed in the relevant guardian path). See [[Zadkai's Patrols]] and [[S10 - Raid Zadkai's Camp]] for more. 
+Zadkai's team detected the vault door behind the mirror, and smashed the mirror, but could not open the vault. They then proceeded into the air guardian path, and got stuck somehow (developed in the relevant guardian path). See [[Zadkai's Patrols]] and [[Zadkai's Patrols]]
 
 ## Exit
 

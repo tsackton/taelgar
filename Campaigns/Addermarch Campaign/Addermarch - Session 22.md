@@ -20,7 +20,7 @@ descTitle: Gwydren of the Old Paths
 > *[[Thornweald]]*
 ## Timeline
 
-- (DR:: 1715-05-30), afternoon: The party traverses [[Thornweald]], following the river road. Along the way they escape the influence of enchanted drumming, and cross a river while fighting off two displacer beasts. During a brief rest on the far bank, [[Fazoth]]'s pseudodragon familiar finds [[Gwydren]].
+- (DR:: 1715-05-30), afternoon: The party traverses [[Thornweald]], following the river road. Along the way they escape the influence of enchanted drumming, and cross a river while fighting off two displacer beasts. During a brief rest on the far bank, [[Fazoth de Brune|Fazoth]]'s pseudodragon familiar finds [[Gwydren]].
 - (DR:: 1715-05-30), evening: The party convinces [[Gwydren]] to guide them, hears more of [[Caradoc]]'s adventures in the [[Feywild]], and rests at Gwydren's camp.
 - (DR:: 1715-05-31), morning: With hunters nearby, [[Gwydren]] leads the party to [[Old Brindlethorn]]'s sett, where they soothe the sleeping badger enough to enter her tunnels.
 

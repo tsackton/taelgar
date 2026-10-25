@@ -6,7 +6,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 # Technical Updates
 
 <!-- SLOT: updates.whereabouts.party -->
-- Candidate party whereabouts: (DR:: 1740-10-06): party ends at [[empty hillside above a ravine]].
+- Candidate party whereabouts: (DR:: 1740-10-06): party ends at empty hillside above a ravine
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.locations -->
@@ -15,9 +15,9 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.whereabouts.npcs -->
-- [[Aurae]]: candidate whereabouts update from (DR:: 1740-10-06) -> [[empty hillside above a ravine]].
+- [[Aurae]]: candidate whereabouts update from (DR:: 1740-10-06) -> empty hillside above a ravine
   - Whereabouts line: `- {type: away, start: 1740-10-06, location: empty hillside above a ravine}`
-- [[Menestheus]]: candidate whereabouts update from (DR:: 1740-10-06) -> [[27th Room]].
+- [[Menestheus]]: candidate whereabouts update from (DR:: 1740-10-06) -> [[27th House|27th Room]].
   - Whereabouts line: `- {type: away, start: 1740-10-06, location: 27th Room}`
 <!-- /SLOT -->
 
@@ -26,7 +26,7 @@ sessionManifest: "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 <!-- /SLOT -->
 
 <!-- SLOT: updates.items -->
-- Lord Endless Ending's cup: candidate item-location update from (DR:: 1740-10-06) -> [[empty hillside above a ravine]].
+- Lord Endless Ending's cup: candidate item-location update from (DR:: 1740-10-06) -> empty hillside above a ravine
 <!-- /SLOT -->
 
 <!-- SLOT: updates.review -->
