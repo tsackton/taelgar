@@ -6,6 +6,9 @@ search to taelgar.org. It uses the selected committed vault revision and checks
 out msackton/taelgarverse-core main at the start of every run. The job summary
 records both actual commit IDs. It does not deploy website code or release the
 Obsidian plugin. Node handles materialization; Obsidian does not need to run.
+Before the publish job starts, the workflow runs Secret filter safety on the
+same vault commit: the filter tests and committed-tree check must both pass.
+Failure skips publication. This prerequisite applies to manual and tag runs.
 
 One-time setup
 --------------
