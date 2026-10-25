@@ -17,7 +17,10 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  secret-check:
+    uses: ./.github/workflows/secret-filter.yml
   publish:
+    needs: secret-check
     runs-on: ubuntu-latest
     timeout-minutes: 60
     defaults:
