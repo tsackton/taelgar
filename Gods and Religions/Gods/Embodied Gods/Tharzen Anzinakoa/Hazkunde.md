@@ -23,7 +23,7 @@ Hazkunde is one of the four [[Tharzen Anzinakoa]] of the [[lizardfolk]], usually
 Among many lizardfolk communities, particularly those in [[Greater Sembara]], Hazkunde is associated with spring, the season of rising waters and the first greening of marsh and river.
 
 %%^Metadata:names:v1%%
-- {"name": "Hazkunde", "language": "unknown", "pronunciation": "has-KOON-dee", "status": "documented"}
+- {"name": "Hazkunde", "language": "Lizardling", "pronunciation": "has-KOON-dee", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%

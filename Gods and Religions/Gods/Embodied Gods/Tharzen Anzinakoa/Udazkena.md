@@ -23,7 +23,7 @@ Udazkena is one of the four [[Tharzen Anzinakoa]] of the [[lizardfolk]], often s
 Among many lizardfolk communities, particularly those in [[Greater Sembara]], Udazkena is associated with autumn, with the rituals of shepherding resources for lean times, but also with the blessing for the bounty of the land that provides.
 
 %%^Metadata:names:v1%%
-- {"name": "Udazkena", "language": "unknown", "pronunciation": "oo-DAHS-keh-nah", "status": "documented"}
+- {"name": "Udazkena", "language": "Lizardling", "pronunciation": "oo-DAHS-keh-nah", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%

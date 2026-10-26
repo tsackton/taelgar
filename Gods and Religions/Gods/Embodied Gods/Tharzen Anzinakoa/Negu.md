@@ -5,7 +5,7 @@ lintVersion: "3.5"
 tags: [religion/lizardfolk, power]
 typeOf: embodied god
 name: Negu
-pronunciation: EH-goo
+pronunciation: NEH-goo
 affiliations:
   - {org: Tharzen Anzinakoa, title: One}
 dm_owner: none
@@ -23,7 +23,7 @@ Negu is one of the four [[Tharzen Anzinakoa]] of the [[lizardfolk]], usually see
 Among many lizardfolk communities, particularly those in [[Greater Sembara]], Negu is associated with winter, and the long quiet when the swamps and wetlands lie dormant waiting, poised to erupt with new life.
 
 %%^Metadata:names:v1%%
-- {name: Negu, language: unknown, pronunciation: EH-goo, status: documented}
+- {name: Negu, language: Lizardling, pronunciation: NEH-goo, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%

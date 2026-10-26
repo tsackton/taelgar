@@ -6,12 +6,14 @@ tags: [object, status/check/lint]
 typeOf: material
 typeOfAlias: drug
 name: Gatza
+pronunciation: GAH-tsah
 knownTo: [mawar]
 dm_owner: none
 dm_notes: none
 POV: modern
 ---
 # Gatza
+*(GAH-tsah)*
 >[!info]+ Information  
 > (drug)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
@@ -25,29 +27,9 @@ Some people have even been known to get lost in gatza dreams, following their ob
 Gatza is taken in different forms. Most commonly, it is distilled and processed into a tarry mash that is smoked in gatza pipes.
 
 %%^Metadata:names:v1%%
-- {name: Gatza, language: unknown, pronunciation: GAH-tsah, status: proposed, notes: "Proposed using the Lizardling Basque analogue in [[Languages]] as a cultural guide because the drug's traditional ritual use is salt-lizardfolk: hard g, open ah vowels, and tz as a voiceless ts affricate. Initial stress is provisional; the name's language and accepted pronunciation are not established."}
+- {name: Gatza, language: Lizardling, pronunciation: GAH-tsah, status: documented}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern reference description of gatza's source, ritual use, forms, and dangers; no narrower historical state is asserted.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added the explicit name and `knownTo: [mawar]`, supported by [[Mawar Adventures Episode 02]] and [[Mawar Adventures Episode 04]].
-- Added persistent name metadata with a proposed pronunciation and `POV: modern` with temporal coverage guidance.
-
-### Validated judgments
-- The article adequately explains gatza's source, salt-lizardfolk ritual use, addiction risks, and smoked preparation; [[Mawar Confederacy]] and [[Trok]] corroborate its central account.
-- Preserved the human `dm_notes: none` attestation after a separate review of local evidence.
-
-### Open findings
-
-- [ ] **Warning — metadata.names_unresolved_status:** Confirm or correct the proposed `GAH-tsah` in `Metadata:names:v1`. [[Languages]] gives Lizardling a Basque analogue; gatza's established salt-lizardfolk ritual origin supplies the cultural basis, without establishing the word's language. The proposal uses hard g, open ah vowels, and tz as a voiceless ts affricate. Initial stress is provisional because no name-specific pronunciation or adopted stress rule is recorded. If accepted, add `pronunciation: GAH-tsah` to frontmatter and mark the entry `documented`; otherwise record the accepted reading and any established language.
-
-### DM evidence
-- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 100 - DM Notes]]
-- [[_DM_/_Mawar Confederacy/Ep 2/Azar’s Lair]]
 %%^End%%
