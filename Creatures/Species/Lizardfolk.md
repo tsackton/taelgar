@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature, status/check/mike]
+tags: [creature, status/check/mike, status/check/ai]
 name: Lizardfolk
 aliases: [lizardfolk]
 dm_owner: joint
@@ -10,6 +10,10 @@ dm_notes: none
 POV: modern
 ---
 # Lizardfolk
+
+> [!image|hero]
+> ![[lizardfolk-village-at-daybreak.webp]]
+> *Misty daybreak in a lizardfolk village.*
 
 >[!quote] Lizardfolk saying, author unknown
 *At misty daybreak*
@@ -62,6 +66,10 @@ Lizardfolk communities consciously shape their population growth to remain in ba
 
 Lizardfolk communities are almost invariably found near water, typically in naturally occurring swamps and marshes, though some lizardfolk, such as the salt lizardfolk of the [[Mawakel Peninsula]], settle in and around salt marshes, and others settle in river basins or near lakes which they frequently shape to create productive wetlands. Most lizardfolk villages are small, often tree-screened or otherwise hidden by the natural environment, nestled among weirs, fish ponds, and other modifications that create highly productive ecosystems. 
 
+> [!image|figure standard]
+> ![[lizardfolk-village-reflection.webp]]
+> *Lantern light reflected in the still waters of a lizardfolk village.*
+
 While some lizardfolk communities remain isolated from other species, they frequently settle near the towns and cities of humans and others, and often trade fish, herbs, and other goods, though usually maintain their own laws and society. Thus, while lizardfolk are often found near humans, they rarely are found living in human settlements. 
 
 Some of the largest lizardfolk communities can be found in the [[Ozabal]] and [[Latazaro]] swamps near the [[Western Gulf]]; the [[Yeraad Marshes]] south of [[Chardon]]; the salt marshes of the [[Mawakel Peninsula]]; and the rivers and wetlands of [[Portalia]] and [[Apporia]]. However, many small lizardfolk communities are scattered widely throughout the world, with villages as diverse as [[Ganboa]], the tiny community on the [[Enst]] downriver from [[Cleenseau]]; the substantial lizardfolk towns on the outskirts of [[Adderfell]] and [[Darba]]; and the scattered villages of the [[Aursen Marshes]], just upriver from [[Aursenbourg]].
@@ -79,6 +87,10 @@ The natural abundance that arises from these arrangements supports ample leisure
 Lizardfolk communities are typically self-sufficient and often somewhat insular. However, they commonly settle near the cities and towns of other species, and frequently maintain warm relations with their neighbors. Trade with humans and others supplements what a community can provide for itself. 
 
 ### Elders, Ancestors, and the Divine
+
+> [!image|right standard]
+> ![[lizardfolk-elder-and-child.webp]]
+> *An elder shares knowledge of wetland plants with a child.*
 
 Elders hold a central place in lizardfolk communities. In many respects, most lizardfolk villages function as gerontocracies, with decisions made communally but guided and shaped by the wisdom of the elders, and the channeled spiritual guidance of the ancestors. Elders also preserve knowledge of the local land, interpret omens and dreams, and are generally seen as the conduits between the people of the community and the divine realm. 
 
