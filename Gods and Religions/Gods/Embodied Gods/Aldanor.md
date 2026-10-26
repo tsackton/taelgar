@@ -15,7 +15,7 @@ POV: modern
 >[!info]+ Information  
 > An [[Embodied Gods|embodied god]]
 
-Aldanor, the Living Tree, is one of the two deities of the [[Elves]], alongside [[Elmerca]], the Wild Star. In elven lore the pair are called the Firstborn, [[Embodied Gods]] through whom the [[Divine Presence]] gave rise to elves. Aldanor embodies life, growth, and endurance, the body and breath of the people, and creates the pull of the *mela* that anchors elves to the material world. In the elven conception of the gods, it is Aldanor's roots that connect elves to the [[Material Plane]], and it is this rooted presence that enables and supports elven child-bearing and the cycle of the [[Elven Cycle of Generations|ka]]. 
+Aldanor, the Living Tree, is one of the two deities of the [[Elves]], alongside [[Elmerca]], the Wild Star. In elven lore the pair are called the Firstborn, [[Embodied Gods]] through whom the [[Divine Presence]] gave rise to elves. Aldanor embodies life, growth, and endurance, the body and breath of the people, and creates the pull of the *mela* that anchors elves to the material world. In the elven conception of the gods, it is Aldanor's roots that connect elves to the [[Material Plane]], and it is this rooted presence that enables and supports elven child-bearing and the cycle of the [[Elven Cycle of Generations|ka]].  Aldanor nutures the elven people and is often seen as the roots and branches that connect elven life to each other and their forest homes.
 
 Many elven forests support massive trees that are reminiscent of and connected to the power of Aldanor. 
 

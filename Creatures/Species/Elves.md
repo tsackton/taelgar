@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature, status/check/mike]
+tags: [creature, status/check/tim]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven, elvish]
 dm_owner: joint
@@ -41,15 +41,15 @@ _See more: [[Elven Cycle of Generations]]_
 
 Elven lives are shaped by the *ka*, the cycle of discrete elven generations, marked in a count since the first elves opened their eyes. The [[Elven Cycle of Generations|ka]] is defined by the ebb and flow of the *mela*, when [[Aldanor]]'s roots strengthen the bond between elves and the [[Material Plane]] and draw them towards home, and the *leya*, when [[Elmerca]] pushes the elves to explore and wander. 
 
-The cycle begins with the *mela*. Elves are only fertile during their first *mela* as an adult, so each generation begins in a short window each *ka*, during this limited period of child-bearing. The rhythms of this cycle mean that new generations begin about every 160 years. 
+The cycle begins with the _mela_. Elves are only fertile during their first _mela_ as an adult, so each generation begins in a short window each _ka_. The rhythms of this cycle mean that new generations begin about every 160 years.
 
-The first *mela* of an elven child is a time of learning, play, and the gradual awakening of magic. Much of childhood is spent in the Dreaming, through which Elmerca's influence shapes their imagination and understanding of the world. The *mela* ends with the Rite of Awakening, which marks adulthood and the beginning of the *leya*, the phase associated with Elmerca and the urge to journey. Its timing can vary: some generations awaken gradually, while others are called abruptly from their dreams.
+The first _mela_ of an elven child is a time of learning, play, and the gradual awakening of magic. Much of childhood is spent in the Dreaming, through which Elmerca's influence shapes their imagination and understanding of the world. The _mela_ ends with the Rite of Awakening, which marks adulthood and the beginning of the _leya_. Its timing can vary: some generations awaken gradually, while others are called abruptly from their dreams.
 
-Newly awakened elves are encouraged to explore during their first *leya*. Some visit other elven lands, some journey into the [[Feywild]], and others wander among humans or seek wild places far from any settlement. The next *mela* draws them toward home and community. Those who accept Aldanor's connection can become parents, but once an elf's first adult *mela* passes, the connection to [[Aldanor]] weakens with each passing turn of the *ka*: an elf's fertile years belong only to their first adult return. 
+Newly awakened elves are encouraged to explore during their first _leya_. Some visit other elven lands, some journey into the Feywild, and others wander among humans or seek wild places far from any settlement. The next _mela_ draws them toward home and community. Those who accept Aldanor's connection can become parents.
 
 Elves do not die of old age as humans do, and can live for many centuries or even millennia. Yet their attachment to Taelgar changes as they grow older. The pull of Aldanor's roots becomes fainter, earlier memories become more distant, and many turn toward contemplation or begin to let go of the world. Some eventually fade and depart; others remain, sustained by a purpose or attachment that still binds them to life.
 
-%%@Mike some repetition in here still and maybe a few awkward phrases %%
+%%@Tim very minor rewrites%%
 
 ## Settlements and Homelands
 
@@ -58,20 +58,16 @@ Elves usually make their homes in forests and other wild places, shaping their s
 [[Orenlas]], east of the [[Sentinel Range|Sentinels]], is one of the oldest surviving elven forests. Its dreaming trees still echo the song of Aldanor, and its largest settlement, [[Erelion]], is claimed to be the oldest continually occupied city on Taelgar. In the west, the forests of [[Ainumarya]] once held great elven kingdoms, but many died or fled during the [[Great War]], and only scattered small communities of elves still make their home in these forests. 
 
 Beyond such ancient homelands, individual elves travel widely, though relatively few make permanent homes in the cities and towns of other peoples.
-
-%%@Mike - doesn't fully capture the idea that elves grow all they need with magic plants  - hinted at above - but this is also mentioned in Gods and Magic below which might be enough %%
-
 ## Cultural Traits
 
 Elven culture and society are deeply shaped by the *ka*, the rhythm of the generations. Elves too are shaped by this cycle, as each elf moves through life, from a child dreaming with their generation-mates, to a young adult wandering during their first *leya*, to parenthood and tending their communities in their first *mela* and beyond. As the cycle repeats, over and over, the elves that remain are those with a deep attachment to the living world. Many elves feel this attachment as a desire to protect the world of Taelgar, though after the tragedies of the Great War, some feel the desire to protect what remains of their own homes pulling against any broader sense of obligation to the world beyond.
-
 ### Gods and Magic
 
-Elves call [[Aldanor]] and [[Elmerca]] the Firstborn, and understand their own life and magic through their connection to these deities, the divine creators of their species. Aldanor embodies life and growth, anchoring elves to the material world. It is Aldanor's roots that create the conditions for elves to procreate, and it is Aldanor's pull that anchors elves to the world across each cycle of the *ka*. Elves that cease to feel the connection to Aldanor's anchor pass on from this life. 
+Elves call [[Aldanor]] and [[Elmerca]] the Firstborn, and understand their own life and magic through their connection to these deities, the divine creators of their species. Aldanor embodies life and growth, nuturing and connection, and a sense of place in the material world. It is Aldanor's roots that create the conditions for elves to procreate, and it is Aldanor's pull that anchors elves to the world across each cycle of the *ka*. Elves that cease to feel the connection to Aldanor's anchor pass on from this life. 
 
-Elmerca is associated with insight, passion, foresight, and especially magic. It is through Elmerca's grace that magic becomes part of ordinary elven life. Elmerca's grace sustains the elven magic of living buildings, aids crafts and artistic work, and allows elven gardens to grow all a settlement might need. 
+Elmerca is associated with insight, analytical thought, foresight, and especially magic. It is through Elmerca's grace that magic becomes part of ordinary elven life. Elmerca's grace sustains the elven magic of living buildings, aids crafts and artistic work, and allows elven gardens to grow all a settlement might need. 
 
-%% @Mike check the vibe above particularly the connection between Elmerca and magic %%
+%% @Tim I was just describing this to my players today as Aldanor is more nuturing and Elmerca is more analytical. I don't think the last sentence is right -- Aldanor feels like the gardener to me. I made a few minor changes but I think the "Elmerca makes the gardens grow" needs a bit more thought. It could be true, but I have always thought life and growth are more Aldanor's %%
 ### Community and the *ka* 
 
 The *ka* shapes not just the lives of individual elves: it creates and guides the roles of each generation in elven society. Elves often regard their generation-mates as siblings, regardless of whether they share parents, and the bonds among those born into the same *ka* are central to elven identity. These generation-mates share the burden of responsibilities that shift with each new *ka*, together. 
@@ -79,10 +75,6 @@ The *ka* shapes not just the lives of individual elves: it creates and guides th
 An elf’s first *leya* and first *mela* as an adult are often for themselves, to wander and learn, and then to form a family and have children, if they wish. By their second and third *mela*, these roles shift. Elves of this age often take on the roles of nurturers, caring for their homelands, and caretakers, attending to the wider world. By their fourth *mela*, an elf is considered an elder; elders help mediate disputes and maintain unity. Each generation defines these responsibilities again, anew, for itself; elven society changes slowly, but deliberately, as each new cycle of the *ka* turns. 
 
 Elven communities generally reach important decisions through deliberation and agreement. Those who speak for a community may appear to be its rulers, but their authority rests on the responsibilities entrusted to them, in ways that are often opaque to outsiders. 
-
-%% @Mike: review for vibes above. 
-
-I removed this as it feels unestablished but can add it back: Body parents nurture children in their earliest years, while soul parents guide their later upbringing among their generation-mates. %%
 
 ### Beauty, Craft, and Abundance
 
@@ -92,7 +84,7 @@ Elven communities, sustained by magic, are realms of material abundance: elves d
 > ![[elves-gold-bearing-garden.webp]]
 > *Gold grows among the leaves of an elven garden.*
 
-%% @Mike: there is a lot of brainstorming about this but ultimately felt the key thing to communicate in a player doc is the combination of material abundance and just a non-human approach to status and creativity, leaving room for diverse elves and diverse elven cultures/subcultures if desired %%
+%% @Tim I like this except I'm not sure about the tying it explicitly and only to Elmerca  %%
 
 ### Elves and Other Peoples
 
