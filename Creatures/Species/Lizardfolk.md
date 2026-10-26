@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature]
+tags: [creature, status/check/mike]
 name: Lizardfolk
 aliases: [lizardfolk]
 dm_owner: joint
@@ -68,7 +68,28 @@ Some of the largest lizardfolk communities can be found in the [[Ozabal]] and [[
 
 ## Cultural Traits
 
-%% Vibes seem reasonably clear?
+Lizardfolk cultures are shaped by a pair of deep connections: their enduring ties to their homelands, and the spiritual guidance of elders and ancestor. While diverse lizardfolk communities differ in specific customs, these shared connections give even widely separated lizardfolk settlements underlying commonalities. 
+
+### Lizardfolk Homelands
+
+Lizardfolk shape their surroundings with considerable care and skill, maintaining a deliberate balance with the ecosystems in which they settle and live. Fish ponds, weirs, cultivated plants, and carefully directed waterways make their homelands richly productive, although to an unfamiliar visitor these places may look wild and unsettled. To keep these ecosystems productive and sustainable, lizardfolk keep their populations in balance with the land on which they dwell: reproduction and child-bearing is carefully controlled by elders and ancestors in proportion to what can be healthily sustained.
+
+The natural abundance that arises from these arrangements supports ample leisure among lizardfolk, and allows the adult populations of lizardfolk villages to support the large numbers of elders typical of lizardfolk communities. This also leaves time for spiritual pursuits, studying dreams, and uncovering and understanding the nature of everyday magic. Many lizardfolk value knowledge of plants, animals, and the movements of water highly; herbalists and healers are respected in many communities. Regional lizardfolk traditions emphasize local connections to the magic of the land: among the salt lizardfolk of the [[Mawakel Peninsula]], for example, controlled ceremonies using [[Gatza|gatza]] allow communion with the spirits of the dead.
+
+Lizardfolk communities are typically self-sufficient and often somewhat insular. However, they commonly settle near the cities and towns of other species, and frequently maintain warm relations with their neighbors. Trade with humans and others supplements what a community can provide for itself. 
+
+### Elders, Ancestors, and the Divine
+
+Elders hold a central place in lizardfolk communities. In many respects, most lizardfolk villages function as gerontocracies, with decisions made communally but guided and shaped by the wisdom of the elders, and the channeled spiritual guidance of the ancestors. Elders also preserve knowledge of the local land, interpret omens and dreams, and are generally seen as the conduits between the people of the community and the divine realm. 
+
+Elders shape lizardfolk family life as well. Several generations often live alongside one another, and family relationships connect young lizardfolk to people whose memories reach far beyond their own experience. Decisions about the growth of a community, including bringing children into it, are collective concerns, typically shaped by the guidance of elders and ancestors.
+
+Elders also serve as the conduit between lizardfolk communities as their Firstborn creators, the divine [[Tharzen Anzinakoa]], worshipped both collectively and through their four faces: [[Negu]], [[Hazkunde]], [[Bero]], and [[Udazkena]]. All lizardfolk share a religious tradition that is built on dreams and prophecies and omens that connect the past and future, believed to be associated with the idea that the divine is a repeating cycle. Lizardfolk religion envisions the Tharzen Anzinakoa as the divine representation of this spiritual cycle, marking life from birth and renewal through growth, elderhood, and death. 
+
+The precise way in which these are represented and connected to the Tharzen Anzinakoa varies widely. In the tradition associated with Greater Sembara and the various lizardfolk realms that were, in ancient days, part of a vast wetlands known as [[Urtzabala]], the four faces of the [[Tharzen Anzinakoa]] are typically described as representing the seasons. [[Hazkunde]] is associated with birth and renewal, and depicted as the coming of spring; [[Bero]] is associated with growth and the fullness of life, and depicted as the height of summer; [[Udazkena]] is associated with elderhood and responsibility, and depicted as the harvest of autumn; and [[Negu]] is associated with ancestors and death, and is depicted as the hibernation of winter. But, in other places, these associations vary, with local cultures. 
+
+
+%% Vibes notes
 
 - Ancestor oriented, elder ruled: lizardfolk settlements tend to gerontocracy, e.g some kind of council of elders would likely be very common. Elders/ancestors control a lot, though exactly how much is "ancestors" vs "elders" is not always clear. E.g., do elders make decisions about who can reproduce and when, or is it ancestors? Each have different implications. 
 - Ancestor/elder orientation is likely also cultural, not just political, with maybe vaguely Confucianism vibes, though this is not really about ancestor worship per se; strong familial bonds though would be common. 
@@ -84,6 +105,7 @@ Some of the largest lizardfolk communities can be found in the [[Ozabal]] and [[
 
 Lizardfolk communities are typically led by elders, with a strong connection to their ancestors. This perspective informs lizardfolk views of history: they often have deep ties to the local history of the land they live on, and many lizardfolk settlements claim to have lived in the same place since time immemorial. Indeed, many current lizardfolk communities are the remnants of [[Urtzabala|vast ancient wetlands]] from before the [[The Downfall|Downfall]] reshaped coasts and rivers, and many ancient wetlands shrank or shifted. 
 
+%% @ Mike: too short? not sure really what else to say %%
 
 
 %%^Campaign:None%%
@@ -92,6 +114,7 @@ Lizardfolk communities are typically led by elders, with a strong connection to 
 ### Open Questions and Further Work
 - Subspecies: “salt” lizardfolk appear in coastal villages (e.g., Eskorola). Are there consistent physiological or cultural differences, is “salt” a local label specifically for Mawar, are there other "salt lizardfolk" communities?
 - Afterlife mechanics: lots of variation and uncertainty about role of direct rebirth from ancestral spirits and generally how this connects to the  model of gifted soulstuff returning to divine realms. 
+- There is some question about ancient lizardfolk kingdoms. Some older brainstorming proposes a fraction of the Green Sea was lizardfolk swamps; when these dried, lizardfolk largely migrated south. This is possible and gives space for a big tropical lizardfolk empire far away but remains completely open.
 ### Where You’ll Find Them
 - Lizardfolk tend to be found in their own communities, often near human settlements, and invariably associated with water, usually with wetlands. 
 - Lone lizardfolk travelers are plausible almost anywhere, but typically would need a reason for traveling. 
@@ -101,7 +124,6 @@ Lizardfolk communities are typically led by elders, with a strong connection to 
 	- Western Coast: Salt‑marsh communities in coastal villages like [[Itzal|Eskorola]] on the [[Mawakel Peninsula]]; fairly dense settlement in [[Apporia]] as well. 
 	- Upper Istaros and Aurbez: Marsh hamlets along the [[Aursen Marshes]]
 	- Far South jungles: The lizardfolk realm of [[Orekatu]] with settlements like [[Bedez]] near the [[Azta Lekua|Footprint of the Gods]].
-
 
 ### Religion and Metaphysics
 - There is a LOT that is undeveloped about lizardfolk religion and metaphysics. The best current brainstorming is in [[Tharzen Anzinakoa]]. 
@@ -131,13 +153,15 @@ Urtaro: Urtaro is the name for a lilypad that grows in still water and swamps, f
 - Lizardfolk villages and communities are typically led by an elder or council of elders, who often look to ancestors for advice; in some fashion, ancestors and/or elders control settlement size, keeping lizardfolk communities from growing beyond the carrying capacity of the land. 
 
 ### Key Discord Chats and Emails
-- [[2023-10-30 - Species]]: General brainstorming
+- [[2023-10-30 - Species]]; [[2023-10-31 - Species]]; [[2024-07-26 - Species and Souls]]; [[2024-09-04 - Species]]: General brainstorming
 - [[2024-01-05 - Sembara History]], [[Land Holding in Sembara]], [[Taxes in Sembara]]: Sembaran context, land holding, taxes
 - [[2024-02-12 - Lizardfolk]]: Family structure
 - [[2025-02-01 - Species and Cultures]], [[Green Sea Brainstorming]]: Distribution across Taelgar
 - [[2025-10-17 - Species and Cultures]]: Relation to human villages
 - [[Email - More Green Sea]]; [[Email - Brief Thoughts on Elder Races]]; [[Email - A Few Thoughts on Taelgar Races]]
+- [[Email  - Taelgar Races]] 
 - [[GL - Session 62 - DM Notes]] - *not canon* but some thinking about lizardfolk/Dreamworld and other contexts
+- [[2025-01-21 - Historical Framework Pre Downfall]] (notes on ancient lizardfolk swamp)
 
 %%^End%%
 

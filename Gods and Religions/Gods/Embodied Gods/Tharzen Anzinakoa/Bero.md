@@ -23,7 +23,7 @@ Bero is one of the four [[Tharzen Anzinakoa]] of the [[lizardfolk]], usually see
 Among many lizardfolk communities, particularly those in [[Greater Sembara]], Bero is associated with summer and the wetlands when they are bursting with life.
 
 %%^Metadata:names:v1%%
-- {"name": "Bero", "language": "unknown", "pronunciation": "BEH-roh", "status": "documented"}
+- {"name": "Bero", "language": "Lizardling", "pronunciation": "BEH-roh", "status": "documented"}
 %%^End%%
 
 %%^povNotes:v1%%

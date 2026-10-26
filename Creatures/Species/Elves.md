@@ -106,7 +106,37 @@ This long history is marked by cycles of loss and grief. Several times over thei
 
 For some elves, this means a further turn inward, and a desire to retreat from earthly affairs and protect their own homes and communities above all, or even flee to untouched wilds, perhaps beyond the Material Plane itself. For others, it means a turn outward, an acknowledgment that elves cannot protect the world alone. But no elf is unaffected, and the beauty and artistry of elves born in the *ka* since the [[Great War]] is often tinged with sadness.
 
-%% Sources:
+
+%%^Campaign:none%%
+## Details for DMs
+
+### Open Questions
+
+- Everyday childhood, the experience of Dreaming and Awakening, partnerships, and parenting customs are pretty undeveloped and waiting for someone to be interested in them. Older brainstorming proposes "soul parents" and "body parents" but this is not yet adopted as canon or developed. 
+- While the broad cycle of the *ka* is well established, some specific details remain lightly sketched. What does Aldanor's pull and the *mela* feel like? What is the experience of forgetting, the nature of elven departure in old age? In general the *ka* is sketched primarily in terms of society and not individual experience of its phases, which might vary from elf to elf
+- Elven religion is barely developed and left fairly open, though Circular Island memorials have some ideas, e.g. [[Circular Island Overview - DM Notes - Locations]]
+
+### Where You'll Find Them
+
+- [[Orenlas]] offers an ancient, living homeland; [[Ainumarya]] offers scattered communities amid the losses of the Great War. Orenlas's particular ancient magic need not characterize every elven forest.
+- Hidden settlements can be large and sophisticated, though unclear what should really remain in Ainumarya. 
+- [[Quanyi]] was invented as a home for sea elves largely untouched by the Great War; other distant or isolated communities could exist and be fairly distinct from Orenlas vibes. 
+- Travelers are plausible widely, though permanent elven residents in other peoples' settlements are uncommon.
+- Governance of elven societies is pretty loose, but generally organized around consensus. Spokespeople and communicators do not imply ruling power. 
+
+### Elves in Play
+
+- Start with generation, attachments, and outlook: what holds this elf in the world? This is particularly true for elves older than their first leya, and especially for elves either very old, or out in the world. 
+- In the 1700s, the 37th generation are young adults exploring; the 36th awoke into war; older elves knew the world before the Great War. See [[Elven Cycle of Generations]] for dates and guidance. Note that age does not guarantee reliable recollection of ancient history.
+
+### Abundance, Art, and Trade
+
+- Show abundance through available food, living buildings, cultivated materials, and time for creation. Basic provision does not make every rare material or artistic opportunity unlimited.
+- Gifts, respected creators, and access to unusual materials offer useful scene ideas. 
+- Elven status is still developing but generally focuses around creativity and creators as high status, though there is a question of whether elves are particularly status conscious at all. Greedy elves (in the human sense) would require some special or unusual circumstance to exist.
+
+## Sources
+
 - [[GDrive - Elves - Final Text and Comments]]
 - [[Email - Some Thoughts on Elves]]
 - [[2023-10-30 - Elves]]
@@ -119,53 +149,9 @@ For some elves, this means a further turn inward, and a desire to retreat from e
 - [[2024-02-01 - Souls]]
 - [[2024-11-19 - Elves]]
 
-Delwath:
+Delwath specifically:
 - [[2021-06-01 - Delwath Crystal Lantern Memory]]
 - [[Visions of the Sentient Ocean]]
-%%
-
-
-%%^Campaign:none%%
-## Details for DMs
-
-### Open Questions
-
-- Everyday childhood, the experience of Dreaming and Awakening, partnerships, and parenting customs are pretty undeveloped and waiting for someone to be interested in them. Older brainstorming proposes "soul parents" and "body parents" but this is not yet adopted as canon or developed. 
-- While the broad cycle of the *ka* is well established, some specific details remain lightly sketched. What does Aldanor's pull and the *mela* feel like? What is the experience of forgetting, the nature of elven departure in old age? In general the *ka* is sketched primarily in terms of society and not individual The broad cycle is established; the precise relationship between returning home and accepting Aldanor's connection, the experience of forgetting, and the nature of departure remain open. Religious observances and regional differences also leave room for development.
-
-### Where You'll Find Them
-
-- [[Orenlas]] offers an ancient, living homeland; [[Ainumarya]] offers scattered communities amid the losses of the Great War. Orenlas's particular ancient magic need not characterize every elven forest.
-- Hidden settlements can be large and sophisticated. Travelers are plausible widely, though permanent elven residents in other peoples' settlements are uncommon.
-
-### Elves in Play
-
-- Start with generation, attachments, and outlook: what holds this elf in the world? Allow curiosity, delight, and affection alongside grief or withdrawal.
-- In the 1700s, the 37th generation are young adults exploring; the 36th awoke into war; older elves knew the world before the Great War. See [[Elven Cycle of Generations]] for dates and guidance on fading memories: age does not guarantee reliable recollection of ancient history.
-- Generational responsibilities provide context, not a prescribed individual life. Travel, parenthood, and service can matter differently to different elves.
-
-### Community and Decision-Making
-
-- Generation-mates are useful sources of close relationships and shared responsibilities. A community's spokesperson need not have a monarch's power to command; negotiations may depend on reaching wider agreement.
-- Each generation helps reshape how responsibilities are fulfilled. Detailed proposals for a "Trial by Unity," wisdom trees, or shared consciousness remain tentative; [[Notes on Elven Society]] contains alternatives, not a settled institution.
-
-### Abundance, Art, and Trade
-
-- Show abundance through available food, living buildings, cultivated materials, and time for creation. Basic provision does not make every rare material or artistic opportunity unlimited.
-- Gifts, respected creators, and access to unusual materials offer useful scene ideas. The discussions emphasize creativity and appreciation without making elves uniformly preoccupied with status.
-- Adventurers can buy, sell, and gather resources for practical goals without a cultural crisis. Detailed ownership and intellectual-property rules remain unresolved.
-
-### Religion, Memory, and Loss
-
-- Portray [[Aldanor]] through growth, nurturing, and rootedness; [[Elmerca]] through magic, inspiration, and Awakening. Their connections shape ordinary life as well as religious practice.
-- The memorial discussion distinguishes lives violently cut short from voluntary departure, suggesting living memorials that elves tend. This remains development material, not an established universal custom.
-- Divine-realm imagery is also tentative, including whether Aldanor and Elmerca share one realm.
-
-### Sources and Development Notes
-
-- Established guidance: [[Playing an Elf]]; [[Elven Cycle of Generations]]; [[Aldanor]]; [[Elmerca]].
-- Society and trade discussions: [[Email - Some Thoughts on Elves]]; [[2023-11-05 - Elves]].
-- Tentative metaphysics and customs: [[2024-09-02 - Elven Memorials]]; [[2024-11-19 - Elves]].
 
 %%^End%%
 

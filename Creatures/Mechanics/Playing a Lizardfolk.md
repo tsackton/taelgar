@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/mike, status/check/lint]
+tags: [meta, status/check/mike]
 name: Playing a Lizardfolk
 dm_owner: joint
 dm_notes: none
@@ -11,8 +11,6 @@ POV: modern
 # Playing a Lizardfolk
 *See more: [[Lizardfolk]], [[Tharzen Anzinakoa]], [[Latazaro]], [[Ozabal|Ozabal Swamp]]*
 D&D Beyond Link: [Lizardfolk](https://www.dndbeyond.com/species/1929808-lizardfolk)
-
-%% check/mike -> see status section below %%
 
 The quiet flash of fireflies on a summer night, the dawn song of nesting warblers, the midday croak of the bullfrog -- these speak of home to the lizardfolk. At home between the water and the land, lizardfolk communities are most often found near swamps and wetlands, where they shape their aquatic homes into rich, highly productive ecosystems, teeming with abundant life and food. Lizardfolk can be found across Taelgar, though rarely in arid lands. Many lizardfolk live in isolated, semi-aquatic villages, preferring to keep to the traditions of their own kind, while others settle near, but rarely within, the communities of other species. 
 
@@ -41,7 +39,7 @@ To choose a name for your lizardfolk character, you might consider using one of 
 **Creature Type**: Humanoid
 **Size**: Your size is Medium (roughly 5-7 feet tall)
 **Speed**: 30 feet
-**Age**: Lizardfolk reach adulthood in their late teens; the first 5-8 years of their life are spent as amphibious young. Though they reach old age in their 70s or 80s, most live as elders into their second century, though few reach 200 years. 
+**Age**: Lizardfolk reach adulthood in their late teens or early twenties, then age increasingly slowly compared to humans. At a hundred, a lizardfolk is as hale and hearty as a human half their age. Their elder years can last for a century or more, though vanishingly few live into their fourth century.
 **Languages**: You may select four [[languages]] during character creation, which should usually include Lizardfolk and Common. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
 
 ## Lizardfolk Traits
@@ -72,37 +70,6 @@ When you reach character level 3, you can beseech your ancestors for aid using o
 
 %%^Campaign:none%%
 
-### Status
-
-**Lore**: vibes feel fairly complete; general settlement pattern and place in the world is complete. vibe of "shape their landscape to make very high productivity ecosystems" seems to fit well. some cultural details about view of the land are only well captured in [[Land Holding in Sembara]] but should be better explored more widely. history / ancient lizardfolk swamp might not be well captured in notes. 
-
-**Religion**: undeveloped, other than names there is not much sense of lizardfolk religion.
-
-**Unique Biology**: a little underdeveloped, but basic logic is:
-- mature at roughly the same rate as humans, considered adults late teens/early 20s
-- first part of life is spent amphibious, kind of tadpole-esque, although the exact consequences of this are not clear; needs to remain consistent with Kenzo solo where Eric's character had two baby lizardfolk he was protecting
-- age only a little slower than humans, generally considered an elder in their 70s, congruent with declines in fertility 
-- extended period of "elderness" / post fertility; most lizardfolk live for a 100 years as an elder, and some reach 200; this is not fixed but should be decided. some lizardfolk ages might need to be adjusted but as far as i know there is no canonical constraints to tweaking a few birth dates if needed
-- elders/community control fertility in some magical way, limiting birth rates of villages/communities to what is sustainable by the ecosystem; not clear how this interacts with parentage and families
-
-**Game Mechanics**: Samso has used versions for a long time; lasted post-2024 revisions version has only be lightly playtested but feels like it is in a reasonable place - see design logic below for details. 
-
-**Notes**
-- [ ] [[Lizardfolk]]: overview page, needs updates to capture vibes better and add dm notes / meta about biology, elders, land, community
-- [ ] [[Tharzen Anzinakoa]]: stub, needs some basic ideas; see also [[Udazkena]], [[Bero]], [[Hazkunde]], and [[Negu]], which are all blank stubs
-- [ ] [[Latazaro]], [[Ozabal]], [[Yeraad Marshes]] could all use a little bit of invention as major lizardfolk communities; others also must exist, some of which don't even have stubs (salt lizardfolk in Mawar; lizardfolk settlements in Apporia from Samso's backstory; lizardfolk community outside Darba)
-- [x] D&D Beyond Homebrew Mechanics
-- [ ] D&D Beyond Text -> Link to Taelgarverse needs to be updated to point to this page when it is pushed.
-
-**Discussions/Sources**:
-[[2023-10-30 - Species]]; [[2023-10-31 - Species]]; [[2024-07-26 - Species and Souls]]; [[2024-09-04 - Species]]
-[[2024-02-12 - Lizardfolk]]
-[[2025-01-21 - Historical Framework Pre Downfall]] (notes on ancient lizardfolk swamp)
-[[2024-01-05 - Sembara History]] (land holding)
-[[Email  - Taelgar Races]] 
-[[Email - A Few Thoughts on Taelgar Races]]
-[[Email - Brief Thoughts on Elder Races]]
-
 ### Design Logic
 
 this is "balanced" off the Aasimar, which has (a) resistance to a common and a rare damage type, (b) one cantrip, (c) darkvision, (d) a limited use healing ability, and (e) a 3rd level ability to activate a transformation
@@ -111,7 +78,7 @@ this is "balanced" off the Aasimar, which has (a) resistance to a common and a r
 (b) prophetic vision is maybe balanced with a cantrip; compared to guidance, it is limited use but affects attack rolls and saves
 (c) aquatic adaptations is hard to compare to darkvision but maybe roughly on par
 (d) Omens of the Ancestors is effectively a limited use ability, but weaker than healing
-(e) ancestral aid is designed to be on part with limited transformation but might not succeed
+(e) ancestral aid is designed to be on par with limited transformation but might not succeed
 
 Natural Armor is hard to value. It is equivalent to a 1st level spell (Mage Armor) for classes with no or just light armor, but totally useless for classes with medium or heavy armor. My impression is this kind of trait is considered bad design these days so waffling on what to do. It seems weird to make natural armor a choice for a Firstborn feature but that would be the obvious solution. 
 
@@ -123,20 +90,4 @@ Of course not everything has to be balanced and especially between-species balan
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern; character-creation guidance and species mechanics for the current campaign era, with no narrower in-world date assumed.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added the explicit page name and broadly modern POV with temporal coverage notes.
-- Corrected six unambiguous visible wording errors: someone/somewhere, the engaging/engaging, believe/belief, chose/choose, an/a, and at at/at a.
-
-### Validated judgments
-- This mechanics page already uses the character-creation, names, basic-traits, and species-traits structure of [[Playing a Halfling]]; the species-article headings in [[Halflings]] do not apply.
-- The hidden status and design material preserves outstanding biology decisions and mechanics rationale.
-
-### Open findings
-
-- [ ] **Warning — correctness.internal_conflict:** `Basic Traits` states a fixed first 5–8 years as amphibious young and a typical elder lifespan, while the hidden `Status / Unique Biology` notes expressly leave childhood consequences and longevity undecided. [[Lizardfolk#Lifecycle|Lizardfolk’s lifecycle section]] likewise preserves unresolved live-young/egg, aquatic/amphibious, and age questions instead of adopting that older age text. Decide whether the published age rule is the intended playable default or provisional. If it remains provisional, a bounded player-facing replacement is: `**Age**: Lizardfolk reach adulthood in their late teens. Details of their early development and elder lifespan remain under review; agree these with your DM when they matter to your character.` If the present values are adopted, reconcile the linked lifecycle and design notes explicitly; do not silently treat their uncertainty as resolved.
 %%^End%%
