@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature, status/check/tim]
+tags: [creature]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven, elvish]
 dm_owner: joint
@@ -49,8 +49,6 @@ Newly awakened elves are encouraged to explore during their first _leya_. Some v
 
 Elves do not die of old age as humans do, and can live for many centuries or even millennia. Yet their attachment to Taelgar changes as they grow older. The pull of Aldanor's roots becomes fainter, earlier memories become more distant, and many turn toward contemplation or begin to let go of the world. Some eventually fade and depart; others remain, sustained by a purpose or attachment that still binds them to life.
 
-%%@Tim very minor rewrites%%
-
 ## Settlements and Homelands
 
 Elves usually make their homes in forests and other wild places, shaping their settlements through woodcraft and magic. Towers, halls, and gardens grow among the trees, and their innate magic allows them to grow what they need from the surrounding land without the broad clearings for agriculture and pasture familiar from the settlements of other species. Most settlements, large or small, are hard to find and concealed by magic, so travelers may pass close by without realizing that anyone lives there. Even a great elven city can seem to emerge suddenly from an unbroken forest.
@@ -65,9 +63,15 @@ Elven culture and society are deeply shaped by the *ka*, the rhythm of the gener
 
 Elves call [[Aldanor]] and [[Elmerca]] the Firstborn, and understand their own life and magic through their connection to these deities, the divine creators of their species. Aldanor embodies life and growth, nuturing and connection, and a sense of place in the material world. It is Aldanor's roots that create the conditions for elves to procreate, and it is Aldanor's pull that anchors elves to the world across each cycle of the *ka*. Elves that cease to feel the connection to Aldanor's anchor pass on from this life. 
 
-Elmerca is associated with insight, analytical thought, foresight, and especially magic. It is through Elmerca's grace that magic becomes part of ordinary elven life. Elmerca's grace sustains the elven magic of living buildings, aids crafts and artistic work, and allows elven gardens to grow all a settlement might need. 
+Elmerca is associated with insight, inspiration, analytical thought, foresight, and especially arcane magic. It is through Elmerca's grace that magic becomes part of ordinary elven life. Elmerca's grace sustains the elven magic of craft and artistic work, and guides and inspires those elves who devote their lives to the study of magical arts. 
 
-%% @Tim I was just describing this to my players today as Aldanor is more nuturing and Elmerca is more analytical. I don't think the last sentence is right -- Aldanor feels like the gardener to me. I made a few minor changes but I think the "Elmerca makes the gardens grow" needs a bit more thought. It could be true, but I have always thought life and growth are more Aldanor's %%
+Together, Aldanor and Elmerca sustain the elven magic of living buildings and  allow elven gardens to grow all a settlement might need. 
+
+%% Vibes:
+- Aldanor: trees, growth, nurturing
+- Elmerca: magic, inspiration, power
+%%
+
 ### Community and the *ka* 
 
 The *ka* shapes not just the lives of individual elves: it creates and guides the roles of each generation in elven society. Elves often regard their generation-mates as siblings, regardless of whether they share parents, and the bonds among those born into the same *ka* are central to elven identity. These generation-mates share the burden of responsibilities that shift with each new *ka*, together. 
@@ -78,13 +82,11 @@ Elven communities generally reach important decisions through deliberation and a
 
 ### Beauty, Craft, and Abundance
 
-Elven communities, sustained by magic, are realms of material abundance: elves do not want for food, shelter, or the basic necessities of a good life. The magic of [[Elmerca]] allows elves to grow what they need: elven communities have gardens that grow everything from daily staples to exotic spices and even precious metals. Against this backdrop of material abundance, what elves value and prize is beauty, art, and creativity, which, in elven society, can mean many things. The ways in which elven communities treat material goods, status, and art are often surprising and unexpected to shorter-lived species, shaped by the unusual elven experience of time and abundance.
+Elven communities, sustained by magic, are realms of material abundance: elves do not want for food, shelter, or the basic necessities of a good life. The magic of [[Elmerca]] and [[Aldanor]] allows elves to grow what they need: elven communities have gardens that grow everything from daily staples to exotic spices and even precious metals. Against this backdrop of material abundance, what elves value and prize is beauty, art, and creativity, which, in elven society, can mean many things. The ways in which elven communities treat material goods, status, and art are often surprising and unexpected to shorter-lived species, shaped by the unusual elven experience of time and abundance.
 
 > [!image|figure standard]
 > ![[elves-gold-bearing-garden.webp]]
 > *Gold grows among the leaves of an elven garden.*
-
-%% @Tim I like this except I'm not sure about the tying it explicitly and only to Elmerca  %%
 
 ### Elves and Other Peoples
 
@@ -120,9 +122,52 @@ For some elves, this means a further turn inward, and a desire to retreat from e
 Delwath:
 - [[2021-06-01 - Delwath Crystal Lantern Memory]]
 - [[Visions of the Sentient Ocean]]
-
 %%
 
+
+%%^Campaign:none%%
+## Details for DMs
+
+### Open Questions
+
+- Everyday childhood, the experience of Dreaming and Awakening, partnerships, and parenting customs are pretty undeveloped and waiting for someone to be interested in them. Older brainstorming proposes "soul parents" and "body parents" but this is not yet adopted as canon or developed. 
+- While the broad cycle of the *ka* is well established, some specific details remain lightly sketched. What does Aldanor's pull and the *mela* feel like? What is the experience of forgetting, the nature of elven departure in old age? In general the *ka* is sketched primarily in terms of society and not individual The broad cycle is established; the precise relationship between returning home and accepting Aldanor's connection, the experience of forgetting, and the nature of departure remain open. Religious observances and regional differences also leave room for development.
+
+### Where You'll Find Them
+
+- [[Orenlas]] offers an ancient, living homeland; [[Ainumarya]] offers scattered communities amid the losses of the Great War. Orenlas's particular ancient magic need not characterize every elven forest.
+- Hidden settlements can be large and sophisticated. Travelers are plausible widely, though permanent elven residents in other peoples' settlements are uncommon.
+
+### Elves in Play
+
+- Start with generation, attachments, and outlook: what holds this elf in the world? Allow curiosity, delight, and affection alongside grief or withdrawal.
+- In the 1700s, the 37th generation are young adults exploring; the 36th awoke into war; older elves knew the world before the Great War. See [[Elven Cycle of Generations]] for dates and guidance on fading memories: age does not guarantee reliable recollection of ancient history.
+- Generational responsibilities provide context, not a prescribed individual life. Travel, parenthood, and service can matter differently to different elves.
+
+### Community and Decision-Making
+
+- Generation-mates are useful sources of close relationships and shared responsibilities. A community's spokesperson need not have a monarch's power to command; negotiations may depend on reaching wider agreement.
+- Each generation helps reshape how responsibilities are fulfilled. Detailed proposals for a "Trial by Unity," wisdom trees, or shared consciousness remain tentative; [[Notes on Elven Society]] contains alternatives, not a settled institution.
+
+### Abundance, Art, and Trade
+
+- Show abundance through available food, living buildings, cultivated materials, and time for creation. Basic provision does not make every rare material or artistic opportunity unlimited.
+- Gifts, respected creators, and access to unusual materials offer useful scene ideas. The discussions emphasize creativity and appreciation without making elves uniformly preoccupied with status.
+- Adventurers can buy, sell, and gather resources for practical goals without a cultural crisis. Detailed ownership and intellectual-property rules remain unresolved.
+
+### Religion, Memory, and Loss
+
+- Portray [[Aldanor]] through growth, nurturing, and rootedness; [[Elmerca]] through magic, inspiration, and Awakening. Their connections shape ordinary life as well as religious practice.
+- The memorial discussion distinguishes lives violently cut short from voluntary departure, suggesting living memorials that elves tend. This remains development material, not an established universal custom.
+- Divine-realm imagery is also tentative, including whether Aldanor and Elmerca share one realm.
+
+### Sources and Development Notes
+
+- Established guidance: [[Playing an Elf]]; [[Elven Cycle of Generations]]; [[Aldanor]]; [[Elmerca]].
+- Society and trade discussions: [[Email - Some Thoughts on Elves]]; [[2023-11-05 - Elves]].
+- Tentative metaphysics and customs: [[2024-09-02 - Elven Memorials]]; [[2024-11-19 - Elves]].
+
+%%^End%%
 
 %%^Metadata:names:v1%%
 - {name: Elves, language: Common}
