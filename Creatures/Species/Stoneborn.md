@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [creature, status/wip]
+tags: [creature, status/check/ai]
 name: Stoneborn
 aliases: [Stoneborn, stoneborn]
 dm_owner: joint
@@ -10,9 +10,103 @@ POV: modern
 ---
 # Stoneborn
 
-%% major rewrite needed to find current format %%
-
 High above the clouds, on the tallest peak of a mountain range, a Stoneborn sits quietly, watching the sunrise. On the steep slopes below, a small village comes to life with the sounds of bells, morning prayer, and martial practice. Scattered throughout the inhospitable high places of the world, Stoneborn live reclusively, rarely gracing the lowlands with their presence.
+
+## Appearance
+
+Stoneborn are imposing, powerfully built humanoids who appear to be shaped from stone. They usually stand between 6 and 8 feet tall and weigh between 300 and 500 pounds. Their skin reflects the varied colors and textures of stone, often marked with mottling, veins, or swirling patterns. Many are shades of gray, but their appearance is as diverse as the stone of their mountain homes.
+
+Stoneborn are typically bald and hairless, with striking eyes that resemble gems and minerals, from bright colors to dark obsidian. As they age, they become increasingly stone-like; the eldest stoneborn can seem like statues, rarely moving or speaking.
+
+Made of the stuff of mountains, Stoneborn do not feel cold as other species do, and are often seen walking high mountain paths in simple clothes or even little more than a few pieces of hide and fur. They prize fine craftwork in metal or stone, and many wear intricate jewelry.
+
+## Language and Naming
+_See more: [[Playing a Stoneborn#Stoneborn Names|Stoneborn Names]]_
+
+Stoneborn speak [[Languages#Stoneborn|Stoneborn]], a language with no known dialects or variants. It has its own alphabet, related to Giant, although examples of writing are rare. Outsiders who spend time in Stoneborn communities sometimes learn the language.
+
+Stoneborn names are a living, changing part of their identity. Stoneborn typically have a single given name. Some also use a community name reflecting the community they belong to. While in many cases this is the community they were born into, Stoneborn who join a new community will often change their name when they feel they are fully a part of their new settlement. Names are not gendered in Stoneborn society. 
+
+A Stoneborn's training and discipline is as much a part of their identity as their family and community, and some Stoneborn take a use name reflecting their skill or the lineage of the master they trained under. Use names typically either reflect a skill, or the name of a master. For example, a skilled stonemason may take the use name Stonebreaker or Stonecarver; a skilled warrior may take the use name Quickblade or Strongaxe; or a skilled teacher may take the use name Loremaster or Mindshaper. Alternatively, a use name may reflect the lineage of the master a Stoneborn trained under. For example, a student of the master Maumak Ironforger may take the use name Maumakandi or Maumakundi (student of Maumak). It is also common to adopt the use name of your master, so if your master is Maumak Ironforger, you may also take the Ironforger use name. 
+
+In normal usage, Stoneborn either go by their use name or their birth name. Like [[Dwarves|dwarves]], Stoneborn ascribe meaning to their use names and therefore often introduce themselves with use names in the trade tongues. But some may not follow this custom. And some may invent new names for themselves when they travel outside their homeland.
+
+## Lifecycle
+
+Stoneborn are born from stone, and mature somewhat more slowly than humans, reaching physical maturity in their 20s and usually settling into fully adult roles in their mid to late 30s. Young Stoneborn typically spent their 20s and early 30s apprenticed to masters, spending years developing the skills and disciplines that will shape their adult lives.
+
+From around 150 years of age, most Stoneborn begin a long, gradual withdrawal from active life, passing their daily responsibilities to younger members of the community and turning increasingly toward contemplation. As the centuries pass, a Stoneborn’s metabolism slows, their need for food and other resources diminishes, and their periods of stillness grow longer. An elder of 250 might bestir themselves only once a week, speaking with visitors or attending to some small task before returning to quiet contemplation, and by 300 most elders have become as statues, returning to the stone from which they came. 
+
+Some exceptional Stoneborn, sustained by dedication to a particular task or purpose, remain active much longer. 
+
+%% 
+there is no intended precise upper limit to stoneborn lifespan; the end stage is literally to simply become stone again. the vibe is supposed to be that stoneborn community life is mostly those between 35 - 150 or so, with elders as a resource for some unspecified time. exceptional stoneborn can plausibly remain active in the world much, much longer, but need a reason. 
+
+exactly how families work and what born from stone means is not developed
+%%
+
+---
+## Settlements and Homelands
+
+Rarely do Stoneborn venture down from the summits of the high places of the world, preferring to live in isolated communities of their own kin. In their mountain strongholds, they are rumored to be able to mold stone with prayers to Entamba, the first Stoneborn, to cut villages from the cliff, and warm the high mountain meadows to create lush fields with days of meditation.
+
+Stoneborn are deeply connected to their homelands, and tend to see themselves as masters of their domain. This attitude tends to encourage a fierce independence in Stoneborn society. Stoneborn tolerate few outsiders on their lands, and those they do allow rarely become trusted members of the community. 
+
+## Cultural Traits
+
+Stoneborn tend towards simple lifestyles, having no use for the gold and treasure of the world below.
+
+
+Incorporate below:  Elders remain valued teachers and advisors, sought out for their memories, insight, and accumulated mastery, but the work and decisions of the community pass to those still actively engaged in its affairs. An elder may advise generations of successors without directing their work.
+### Proud and Independent
+
+Individual Stoneborn tend to be proud and confident in their mastery of their discipline. Like many Elder races, they tend to be slow to trust outsiders to their society, but they also greatly respect skill and honor demonstrated masters even if they are not Stoneborn. They tend to be accepting of the ebb and flow of circumstance, resilient in failure and stoic in success. This can lead to a certain appearance of passivity, and among some Stoneborn this attitude leads to detachment from the trials and challenges of life outside their mountain refuges. Few Stoneborn care much for wealth, seeing little point in accumulating material goods; those that do find attachment to possessions generally prize skill in craft over raw value.
+
+### Disciplined Masters
+
+Stoneborn are the embodiment of and draw magical power from the mystical founder of their race, Entamba, the Elder Mountain. Entamba is the first Stoneborn, born in the slow uplift of ground into mountains or the fiery blast of a volcano, and the last Stoneborn, the dust of mountain slowly worn away over eons and scattered into the sea and air. Through their connection to Entamba, Stoneborn are capable of feats of  concentration, single-minded focus, and supernatural mastery over their bodies and the stone of their mountain homes.
+
+In Stoneborn society, the concentration and discipline arising from their connection to Entamba leads to a high value being placed on expertise and training. Young Stoneborn apprentice themselves to masters in a skill or trade, and by years of training and practice become masters themselves. Stoneborn society is built around these relationships and specializations, and Stoneborn honor the training and dedication necessary to become true masters of any skill, whether in combat, crafting, teaching, tending the young, or healing. 
+
+While Stoneborn themselves rarely leave the mountains, they do sometimes accept members of other races who meet the rigorous standards they set for themselves for training and apprenticeship. Warriors who have trained with the Stoneborn usually find renown in battle, craftsfolk find fame in their craft, and teachers find themselves with large and loyal followings.
+
+### Consensus-Builders
+
+Stoneborn live in small communities, usually centered around one or a few gymnasiums or academies, where a renowned master may ply their trade. While they honor skill and training above all, these communities tend to make decisions based on consensus and share resources based on need. Stoneborn find hierarchical societies and the greed that drives many other races hard to conceptualize.
+
+Stoneborn society has little organization beyond the village or local community. No kings or queens rule over the Stoneborn, and no leaders hold sway. When decisions must be made that affect more than the local community, especially decisions about war and peace, the elders will gather, meet, and discuss in one of the many sites sacred to Entamba. A consensus is reached, and all are bound by it. Stoneborn act as one, or not at all. 
+
+Those individuals that cannot abide by the consensus of their community or the elders find themselves cast out from Stoneborn society. While free to return and accept the strictures of community, these indviduals often seek their way alone in the world, reliant on their individual skills and talents. As a consequence of this, Stoneborn society tends towards sameness, as dissident voices drift away.
+
+While other races may sometimes live in Stoneborn communities, generally while apprenticed to a master, they are rarely given a voice in deliberations, and are expected to follow the will of the community. Those who don't quickly find themselves no longer welcome.
+
+### Stoneborn and Other Peoples
+
+Those that do leave the mountains are generally either outcasts, departing their homes due to a disagreement, tragedy, or some other unusual circumstance, or individuals seeking training, knowledge, and skill not available except in the outside world.
+
+>[!tip] Strange and Foreign
+>Stoneborn tend to find the ambitions and greed that drive other races hard to understand, and rarely live among such folk. While they appreciate a desire for mastery, and the ambition to be the best at something is one that many Stoneborn feel, for them the skill is reward enough, and a desire for fame and fortune is foreign to them.
+>
+>The exception is the dwarves, who despite their rigid, hierarchical society and lust for mineral wealth, share a long history of being allies in wars against the [[Orcs]] and hobgoblins. Stoneborn still find dwarven society incomprehensible, but the proven loyalty and prowess in war of the dwarven armies has ensured a trusting, if not exactly warm and friendly, alliance.
+>
+>Stoneborn also tend to get along well with lizardfolk, who share some of their attitude towards the natural world and their love of their homeland, although Stoneborn find the lizardfolk love of swamps, forests, and and green living things to be strange.
+
+## Historical Perspective
+
+Like many long-lived species, Stoneborn perceive the flow of time differently than humans. While they tend to prefer the slow pace of mountain life, where change comes rarely as the slow movement of a glacier, they are also the people of avalanches and volcanoes. Stoneborn see the decadal crawl of a glacier and the thunderous destruction of an avalanche as equal parts of the ebb and flow of the world. 
+
+%% not canonical yet
+
+**The Name Stoneborn**
+Outsiders typically refer to Stoneborn as either Stoneborn or Goliaths, referring to their large size. Stoneborn themselves sometimes adopt these terms when out in the world, but in their own society typically refer to themselves as Namatye, the people of the mountain. 
+
+%%
+
+%%
+Original body before species-format reorganization.
+Original Obsidian comment delimiters are backslash-escaped to keep the full archive inside this comment.
+
+
 ### Mountain folk
 Imposing creatures of muscles and concentrated energy, Stoneborn are large, usually standing between 7 and 8 feet tall, and weighing between 400 and 500 pounds of dense, solid muscle. Their skin is usually shades of gray, often covered in swirling patterns, reflecting the mountains in which they make their home. 
 
@@ -67,97 +161,19 @@ Like [[Dwarves|dwarves]] Stoneborn ascribe meaning to their use names as therefo
 
 **Use Names:** Ironforger, Stonebreaker, Stonecarver, Quickblade, Strongaxe, Mindshaper, Loremaster, Farseer, Longstrider, Bloodbasher, Fistmaster, Steelbender, Quartzminer, Heartsinger.
 
-%% not canonical yet
+\%\% not canonical yet
 
 **The Name Stoneborn**
 Outsiders typically refer to Stoneborn as either Stoneborn or Goliaths, referring to their large size. Stoneborn themselves sometimes adopt these terms when out in the world, but in their own society typically refer to themselves as Namatye, the people of the mountain. 
 
 %%
 
+---
+
 %%^Metadata:names:v1%%
-- {name: Stoneborn, language: unknown}
+- {name: Stoneborn, language: Common}
 %%^End%%
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern; describes Stoneborn physiology and customary mountain-community life in the current campaign era, without a narrower dated snapshot.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added a minimal primary name entry and broadly modern temporal metadata.
-
-### Validated judgments
-- Stoneborn is an obvious English compound and needs no pronunciation guide; the in-world language of this displayed name is not established.
-- The positive `dm_notes: important` attestation has confirmed local-source support; the attestation is preserved.
-- `status/wip` is not assessable as a completion decision: the authored comment calls for a change of format, whose intended endpoint is not specified. The tag is preserved.
-- The comment headed “not canonical yet” explicitly preserves an unsettled naming idea and remains noncanonical.
-
-### Open findings
-
-- [ ] **Warning — correctness.cross_note_conflict:** The “Mountain folk” section gives a usual weight of 400–500 pounds, while [[Playing a Stoneborn#Basic Traits|Playing a Stoneborn]] gives 280–450 pounds. The “Stoneborn Names” section says all Stoneborn have a clan name and most take a use name, while [[Playing a Stoneborn#Stoneborn Names|the character-creation account]] makes community and use names optional and describes a single given name as typical. That source retains `status/check/mike`, so neither account is silently preferred. Reconcile both notes. If the character-creation account is adopted, replace “weighing between 400 and 500 pounds” with “weighing between 280 and 450 pounds” and use this bounded opening for the names section: `Stoneborn typically have a single given name. Some also use the name of their community, especially when traveling outside their homeland, and some take a use name reflecting their skill or training. Names are not gendered in Stoneborn society.` Preserve or explicitly decide the remaining clan-change and apprenticeship-lineage customs rather than erasing them incidentally.
-- [ ] **Warning — coverage.established_fact_missing:** “No kings or queens rule over the Stoneborn, and no leaders hold sway” reads as universal, but the public account in [[Kaldhalla]] establishes that King Brimskarda's giants dominate northern Svinjo communities where many stoneborn exchange labor for protection. Qualify the customary model and acknowledge the established exception. Candidate replacement for that sentence: `Independent Stoneborn communities have no kings or queens. In the northern [[Svinjo Mountains]], however, many stoneborn live under the dominance of [[Kaldhalla]], exchanging labor for the protection of its frost giant steadings.` This preserves the consensus-based cultural account without denying external rule over some communities.
-- [ ] **Suggestion — editorial.repeated_word:** The “Strange and Foreign” callout repeats a word in “swamps, forests, and and green living things”. Replace with `swamps, forests, and green living things`.
-- [ ] **Suggestion — editorial.prose_correctness:** Correct the bounded prose defects without changing the surrounding voice: “Stoneborn are considered an adult” → `Stoneborn are considered adults`; “these indviduals” → `these individuals`; “Stoneborn ascribe meaning to their use names as therefore often introduce themselves” → `Stoneborn ascribe meaning to their use names and therefore often introduce themselves`.
-
-### DM evidence
-- [[_DM_/Secret Worldbuilding/Dunmar Notes]]
-- [[_DM_/Secret Worldbuilding/History of Dunmar]]
-- [[_DM_/Secret Worldbuilding/Mulitverse]]
-- [[_DM_/Timelines/NPC Travels]]
-- [[_DM_/Timelines/Old Timeline (Table)]]
-- [[_DM_/Timelines/Uncategorized Events]]
-- [[_DM_/Timelines/Unified Timeline From OneNote]]
-- [[_DM_/_Dunmari Frontier/Complicated OneNote NPCs/Candrosa (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Complicated OneNote NPCs/Cintra (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Finding Artifacts in Chardon/Chalice of the Runepriest (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 28/Session 28]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Shakun's Heart (Session 26-32)/Session 32/Downtime]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Delwath Solo Arc/Background - Delwath Solo Arc]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Delwath Solo Arc/Prequel - Delwath]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/Hagrim of Morkalan]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/Main Quest - Riswynn Solo]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/Riswynn Solo Arc]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/The Domain of Morkalan/Lost Camps]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Riswynn Solo Arc/The Domain of Morkalan/The Domain of Morkalan]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Timelines - Solo Arcs]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Wellby Solo Arc/Wave Dancer's Information]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Session 35]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Session 37]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra Arc Notes]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra Area Map/Tokra Area Map]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra/Tokra (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Faction Action]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Campaign Notes/OLD NOTES/Timeline - Dunmari Old]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Dates - Dunmar Campaign Player Background]]
-- [[_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Player Characters/Drikod (OneNote)]]
-- [[_DM_/_Dunmari Frontier/Final Arc Planning - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Pre-Session-63/Chardonian Treasure Hunters]]
-- [[_DM_/_Dunmari Frontier/Pre-Session-63/Events Since Chardon]]
-- [[_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Circular Island/FINAL/Ra'ghemdros Hoard]]
-- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 116 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Timeline for the End of Drankor]]
-- [[_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Timeline]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Aurbez NPC Charts]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Notes - Session 129]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 129 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 130 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 132 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 133 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 129 - (Plaguelands)/Session 134 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 63-65 (Stormcaller Tower)/Session 65 - DM notes]]
-- [[_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 70 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 74-75 (Scepter)/Brainstorming - Scepter Arc]]
-- [[_DM_/_Dunmari Frontier/Session 76-82 (The War of the Cloak)/Session 76 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/North Coast Brainstorming]]
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Northern Green Sea - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 84 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 85 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 92 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 93 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Adventure Arc Outline]]
-- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Peninsula NPC Notes]]
-- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 98 - DM Notes]]
-- [[_DM_/_Dunmari Frontier/Session 98-102 (Merfolk)/Session 99 - DM Notes]]
 %%^End%%
