@@ -1,0 +1,4 @@
+interface:
+  display_name: "Capture Brainstorming Idea"
+  short_description: "Capture Taelgar ideas with research and connections"
+  default_prompt: "Use $capture-brainstorming-idea to save this idea verbatim with its inspiration, useful research, and explained Taelgar connections in the monthly idea log."
