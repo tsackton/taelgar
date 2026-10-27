@@ -6,6 +6,7 @@ tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
 ancestry: dwarven
+mapLocation: { x: 5505, y: 5197, hex: 11.09.I.15/6640, importance: local, symbol: square }
 name: Darakan
 pronunciation: DAH-rah-kahn
 whereabouts: Khatridun

@@ -6,6 +6,7 @@ tags: [place, status/check/ai]
 typeOf: settlement
 typeOfAlias: town
 population: 1189
+mapLocation: { x: 6116.5, y: 5636.5, hex: 12.10.I.09/4050, importance: local, symbol: square }
 name: Cleenseau
 pronunciation: Klen-sew
 whereabouts: Manor of Cleenseau

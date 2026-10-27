@@ -11,6 +11,12 @@ whereabouts: Tyrwingha
 dm_owner: joint
 dm_notes: none
 POV: modern
+mapLocation:
+  x: 6934.132245829148
+  y: 5500.616454893194
+  hex: 12.12.B.10/6305
+  importance: world
+  symbol: diagonal-square
 ---
 # Tafolwern
 *(Tav-ol-WERN)*

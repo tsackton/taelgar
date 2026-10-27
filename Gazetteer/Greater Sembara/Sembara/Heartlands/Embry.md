@@ -7,6 +7,7 @@ typeOf: settlement
 typeOfAlias: city
 campaignInfo: null
 population: 25000
+mapLocation: { x: 6559.5, y: 5196.5, hex: 11.11.F.15/0625, importance: local, symbol: square }
 name: Embry
 whereabouts: Duchy of Sembara
 dm_owner: none

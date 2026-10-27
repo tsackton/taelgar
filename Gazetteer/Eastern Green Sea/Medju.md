@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
+mapLocation: { x: 10388.5, y: 7089, hex: 15.17.F.22/3406, importance: local, symbol: square }
 name: Medju
 whereabouts: Eastern Green Sea
 dm_owner: tim

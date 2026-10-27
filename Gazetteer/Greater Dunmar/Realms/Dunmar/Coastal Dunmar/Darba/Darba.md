@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place, status/cleanup/text, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
+mapLocation: { x: 4516, y: 7064.5, hex: 15.08.C.17/0541, importance: local, symbol: square }
 name: Darba
 whereabouts: Coastal Dunmar
 dm_owner: tim

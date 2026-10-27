@@ -7,6 +7,7 @@ typeOf: settlement
 typeOfAlias: city
 ancestry: Dunmari
 created: 1557
+mapLocation: { x: 4757, y: 7710, hex: 17.08.D.22/1410, importance: local, symbol: square }
 name: Nayahar
 whereabouts: Western Dunmar
 dm_owner: tim

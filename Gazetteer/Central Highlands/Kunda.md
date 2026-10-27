@@ -6,6 +6,7 @@ tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: village
 ancestry: stoneborn
+mapLocation: { x: 5787, y: 6520, hex: 14.10.B.24/6045, importance: local, symbol: square }
 name: Kunda
 whereabouts:
   - {type: primary, location: Indalas}

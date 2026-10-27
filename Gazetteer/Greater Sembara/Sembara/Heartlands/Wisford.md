@@ -7,6 +7,7 @@ typeOf: settlement
 typeOfAlias: city
 campaignInfo: null
 population: 8500
+mapLocation: { x: 6484, y: 5338.5, hex: 12.11.D.06/5452, importance: local, symbol: square }
 name: Wisford
 pronunciation: Wis-ford
 whereabouts: Duchy of Wisford

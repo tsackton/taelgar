@@ -6,6 +6,7 @@ tags: [place, status/cleanup/text, status/gameupdate/gl, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
 campaignInfo: []
+mapLocation: { x: 4529, y: 4376.5, hex: 10.08.A.18/2453, importance: local, symbol: square }
 name: Voltara
 whereabouts:
   - {type: primary, location: Greater Voltara}

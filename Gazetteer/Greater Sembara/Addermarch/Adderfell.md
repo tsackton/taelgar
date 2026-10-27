@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place, status/check/text]
 typeOf: settlement
 typeOfAlias: city
+mapLocation: { x: 6485.5, y: 5750, hex: 13.11.D.05/1535, importance: local, symbol: square }
 name: Adderfell
 pronunciation: AD-er-fell
 whereabouts: Addermarch

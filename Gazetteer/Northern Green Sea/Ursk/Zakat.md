@@ -8,6 +8,7 @@ subTypeOf: null
 typeOfAlias: trading city
 ancestry: Urskan
 campaignInfo: null
+mapLocation: { x: 9303.5, y: 4609, hex: 10.15.H.20/1332, importance: local, symbol: square }
 name: Zakat
 pronunciation: zuh-KAHT
 whereabouts:

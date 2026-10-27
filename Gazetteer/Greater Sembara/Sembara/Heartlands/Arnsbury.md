@@ -6,6 +6,7 @@ tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
 population: 4500
+mapLocation: { x: 6451, y: 4930, hex: 11.11.D.04/1535, importance: local, symbol: square }
 name: Arnsbury
 whereabouts: Duchy of Arnsbury
 dm_owner: none

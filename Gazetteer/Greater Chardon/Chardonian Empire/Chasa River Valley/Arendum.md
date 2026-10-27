@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
+mapLocation: { x: 4522.5, y: 5694, hex: 12.08.C.19/2555, importance: local, symbol: square }
 name: Arendum
 pronunciation: ah-REN-doom
 whereabouts: Chasa River Valley

@@ -6,6 +6,7 @@ tags: [place, status/cleanup/metadata, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
 ancestry: Dunmari
+mapLocation: { x: 5243.5, y: 7202, hex: 16.09.D.05/0520, importance: local, symbol: square }
 name: Askandi
 pronunciation: uh-SKUN-dee
 whereabouts:

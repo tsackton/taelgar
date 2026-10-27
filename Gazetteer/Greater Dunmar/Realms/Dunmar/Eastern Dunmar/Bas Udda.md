@@ -6,6 +6,7 @@ displayDefaults: {defArt: ""}
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: village
+mapLocation: { x: 5693, y: 6956.5, hex: 15.10.B.10/5346, importance: local, symbol: square }
 name: Bas Udda
 whereabouts: Eastern Dunmar
 dm_owner: tim

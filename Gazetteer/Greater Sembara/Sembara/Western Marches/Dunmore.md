@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: fortified town
+mapLocation: { x: 5909, y: 5389, hex: 12.10.D.11/4163, importance: local, symbol: square }
 name: Dunmore
 whereabouts: Barony of Ainwick
 dm_owner: none

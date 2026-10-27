@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place, status/review, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
+mapLocation: { x: 3835, y: 5952.5, hex: 13.07.B.09/4264, importance: world, symbol: square }
 name: Chardon
 pronunciation: CHAR-din
 whereabouts:

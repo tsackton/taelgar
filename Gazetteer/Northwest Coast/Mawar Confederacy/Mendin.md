@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place]
 typeOf: settlement
 typeOfAlias: town
+mapLocation: { x: 3407.5, y: 4531, hex: 10.06.E.10/1424, importance: local, symbol: square }
 name: Mendin
 pronunciation: men-DEEN
 whereabouts:

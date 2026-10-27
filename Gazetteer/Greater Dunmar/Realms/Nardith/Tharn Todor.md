@@ -8,6 +8,7 @@ typeOf: settlement
 typeOfAlias: city
 ancestry: dwarven
 campaignInfo: []
+mapLocation: { x: 5037.5, y: 7279, hex: 16.09.A.07/0061, importance: local, symbol: square }
 name: Tharn Todor
 whereabouts: Nardith
 dm_owner: tim

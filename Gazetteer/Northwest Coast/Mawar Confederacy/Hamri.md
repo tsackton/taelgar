@@ -6,6 +6,7 @@ tags: [place, status/cleanup/text, status/check/lint]
 typeOf: settlement
 typeOfAlias: town
 population: 3500
+mapLocation: { x: 3217.5, y: 4250.5, hex: 09.06.C.11/2314, importance: local, symbol: square }
 name: Hamri
 whereabouts: Mawar Confederacy
 dm_owner: tim

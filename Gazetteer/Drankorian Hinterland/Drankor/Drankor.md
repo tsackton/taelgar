@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: ruined city
+mapLocation: { x: 6511, y: 8684, hex: 19.11.D.06/3035, importance: local, symbol: square }
 name: Drankor
 pronunciation: DRAN-kor
 whereabouts: "Desolation of Cha'mutte"

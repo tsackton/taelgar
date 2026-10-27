@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
+mapLocation: { x: 9755.5, y: 4167, hex: 09.16.F.21/4112, importance: local, symbol: square }
 name: Zvervinka
 pronunciation: ZVEHR-veen-ka
 whereabouts: Ursk

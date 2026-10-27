@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
+mapLocation: { x: 9555.5, y: 4469.5, hex: 10.16.B.21/2033, importance: local, symbol: square }
 name: Vedmakov
 whereabouts: Ursk
 dm_owner: tim

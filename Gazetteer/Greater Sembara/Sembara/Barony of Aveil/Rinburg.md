@@ -6,6 +6,7 @@ tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: free city
 population: 2341
+mapLocation: { x: 6206.5, y: 5566, hex: 12.10.H.24/5106, importance: regional, symbol: square }
 name: Rinburg
 pronunciation: Rin-burg
 whereabouts: Barony of Aveil

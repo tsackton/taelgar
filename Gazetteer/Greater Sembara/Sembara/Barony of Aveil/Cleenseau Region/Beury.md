@@ -12,6 +12,11 @@ whereabouts: Manor of Beury
 dm_owner: mike
 dm_notes: none
 POV: 1720s
+mapLocation:
+  x: 6069.030291448552
+  y: 5652.236997808361
+  hex: 12.10.I.06/5000
+  importance: local
 ---
 # Beury
 *(BUH-ree)*

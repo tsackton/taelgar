@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
+mapLocation: { x: 6889, y: 4810.5, hex: 11.12.A.01/2315, importance: local, symbol: square }
 name: Free City of Tollen
 aliases: [Free City of Tollen, Tollen, Tollender, Tollish]
 whereabouts: Western Green Sea

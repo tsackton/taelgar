@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
+mapLocation: { x: 9696.5, y: 4656, hex: 10.16.F.17/6641, importance: local, symbol: square }
 name: Marinsk
 whereabouts: Ursk
 dm_owner: none

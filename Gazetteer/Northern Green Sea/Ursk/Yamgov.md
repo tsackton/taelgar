@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
+mapLocation: { x: 9300.5, y: 4441, hex: 10.15.G.20/1212, importance: local, symbol: square }
 name: Yamgov
 whereabouts: Ursk
 dm_owner: none

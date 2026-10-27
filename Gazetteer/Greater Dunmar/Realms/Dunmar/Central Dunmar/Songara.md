@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
+mapLocation: { x: 4845.5, y: 6677.5, hex: 14.08.I.08/3106, importance: local, symbol: square }
 name: Songara
 whereabouts: Central Dunmar
 dm_owner: tim

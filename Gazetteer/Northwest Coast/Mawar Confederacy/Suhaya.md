@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place]
 typeOf: settlement
 typeOfAlias: town
+mapLocation: { x: 3273.5, y: 4021.5, hex: 09.06.B.17/0041, importance: local, symbol: square }
 name: Suhaya
 whereabouts: Mawar Confederacy
 dm_owner: none

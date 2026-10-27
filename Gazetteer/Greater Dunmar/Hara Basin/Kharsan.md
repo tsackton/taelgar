@@ -8,6 +8,7 @@ typeOf: settlement
 typeOfAlias: city
 ancestry: Dunmari
 destroyed: 1545
+mapLocation: { x: 6007.5, y: 7031, hex: 15.10.F.21/1355, importance: local, symbol: square }
 name: Kharsan
 whereabouts:
   - {type: home, end: 1544, location: Dunmar, wOrigin: "Originally part of <origin:1><(, )endstatus> <(in )enddate>"}

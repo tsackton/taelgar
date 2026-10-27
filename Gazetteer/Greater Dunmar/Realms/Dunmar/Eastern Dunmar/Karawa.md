@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place, status/cleanup/text, status/check/lint]
 typeOf: settlement
 typeOfAlias: town
+mapLocation: { x: 5607.5, y: 6913.5, hex: 15.09.H.22/2350, importance: local, symbol: square }
 name: Karawa
 whereabouts: Eastern Dunmar
 dm_owner: tim

@@ -5,6 +5,7 @@ lintVersion: "3.5"
 tags: [place, status/cleanup/text, status/check/lint]
 typeOf: settlement
 typeOfAlias: city
+mapLocation: { x: 5209.5, y: 6882, hex: 15.09.E.01/1142, importance: local, symbol: square }
 name: Tokra
 whereabouts: Central Dunmar
 dm_owner: tim
