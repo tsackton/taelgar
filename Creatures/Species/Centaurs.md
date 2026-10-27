@@ -11,7 +11,8 @@ POV: modern
 ---
 # Centaurs
 
-![[centaur-plains-frontmatter.png]]
+> [!image|hero]
+> ![[centaurs-migration-stream-crossing.webp]]
 
 >[!quote] Centaur creation myth
 *Long ago, before the form of the world was fixed, we walked the ever-changing land, mindless and soulless, empty shells. Then Yestare, the Beginning, and Mettare, the Ending, stepped into this chaos, and spoke words of separation, words of renewal, words of power to fix the form of the world. In this timeless moment of sundering, the World reached out, and chose us to be its guardians.*
@@ -50,6 +51,10 @@ Some more isolated bands have little contact with humans or others, preferring t
 ## Cultural Traits
 
 Centaurs tend to be reclusive, staying on the outskirts of the societies of other peoples. Their connection to Taelgar shapes both their pride in their independence and their concern for the health of the land, though it often makes centaurs appear aloof or arrogance to outsiders. 
+
+> [!image|figure standard]
+> ![[centaurs-song-around-the-fire.webp]]
+> *Centaurs share a song around the campfire.*
 
 ### Pride and Independence
 
