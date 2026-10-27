@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: undated
 ---
-# Varnir Emberstone
-*(VAR-nir EM-ber-stohn)*
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (she/her)
+```taelgar-header
+```
 
 %% timing is completely undetermined %%
 

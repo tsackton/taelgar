@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -19,13 +18,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1748
 ---
-# Chiefling Uzgul
->[!info]+ Biographical Info
-> an [[Orcs|orc]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on December 10th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
+```taelgar-header
+```
 
 A young man of 14, current heir to the kingdom. The family resemblance to [[Lubash]] is apparent, but Uzgul is full of the vigor of youth, with a mohawk of wiry black hair, a dangling silver earring on a chain in one ear, and vibrant green skin. He has a nervous excitement to him, and has a hard time sitting still.
 

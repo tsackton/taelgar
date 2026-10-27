@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 67
@@ -11,7 +10,8 @@ tagline: in which the party confronts Agata Dustmother for a second time
 descTitle: Feywild Deception
 name: Dunmari Frontier - Session 67
 ---
-# Dunmari Frontier - Session 67
+```taelgar-header
+```
 
 >[!info] Feywild Deception: in which the party confronts Agata Dustmother for a second time
 > *Featuring: [[Seeker]], [[Caulaus]], [[Kenzo]], [[Wellby]]*

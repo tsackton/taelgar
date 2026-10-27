@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: Heartroot Vision
 POV: 1749
 ---
-# The Heartroot Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The mirror goes dark, and the image flickers, eventually settling on starlight. You’re looking up at a starlit landscape that seems to undulate like a wave—but it looks like land. Then there’s a flash of light of some kind, but it registers in your eyes as almost the absence of darkness, rather than bright light itself. It’s something like you’ve never experienced before. The light begins to shoot upward from the center of the image you’re seeing, and the land pulls apart, then slowly begins to settle into form. As it does, you can tell that, while you’re looking from very far away, you can also somehow see clearly.
 

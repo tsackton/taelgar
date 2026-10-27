@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -7,8 +6,8 @@ campaign: Lost in the Feywild
 name: "Aurae's Allegories"
 POV: 1740
 ---
-
-# Aurae's Allegories
+```taelgar-header
+```
 
 Meeting the Tollen Misfits, the mechanical-magic automata *Aurae* explains: “I am a synthesizer of research and information. I have read the contents of the library and help researchers find what they need. And... and because it has been some time since those services have been needed, I have been writing my own books about the people I meet. I pay very close attention to everything I have ever read, and everything I notice about you inside and out, and I tell you a story about who you are.”
 

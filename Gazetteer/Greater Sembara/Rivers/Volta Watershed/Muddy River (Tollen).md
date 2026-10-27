@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Muddy River
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A swampy tributary of the Volta that forms the boundary between [[Fenslane]] and [[Tideswell]] in [[Tollen]]. Though now channeled, it often floods its banks, especially at high tide.
 

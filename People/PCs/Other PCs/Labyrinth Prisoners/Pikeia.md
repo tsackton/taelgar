@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,11 +14,8 @@ dm_owner: player
 dm_notes: none
 POV: 1748
 ---
-# Pikeia
->[!info]+ Biographical Info  
-> A dog  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Pikeia is [[Dilion|Dilon's]] dog companion. Pikeia was taken during the events at [[Perdoli Manor]] and kept alive in [[Grimstone|Grimstone's]] storeroom beneath the manor.
 

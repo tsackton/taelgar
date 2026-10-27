@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Mirror Realm
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Mirror Realm is a hypothesized place of reflections and mirrors where alternate, twisted versions of the past, present, and future dwell in a strange conglomeration of infinite possibilities. While rumors and speculation about this realm can be found in numerous scholarly works of metaphysics and planar cosmology, there is no firm proof of its existence.
 

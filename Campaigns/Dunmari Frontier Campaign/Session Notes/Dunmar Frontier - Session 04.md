@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Dunmar Frontier
@@ -16,7 +15,8 @@ tagline: "in which the party learns dire secrets about Karawa"
 sessionKey: dunmari-frontier-session-4
 session-template: dunmar-frontier-template.md
 ---
-# Dunmari Frontier - Session 4
+```taelgar-header
+```
 
 >[!info] Shakun's Wane: in which the party learns dire secrets about Karawa
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], and [[Seeker]]*

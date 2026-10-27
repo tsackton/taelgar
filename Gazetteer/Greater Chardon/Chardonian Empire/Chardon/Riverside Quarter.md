@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>"}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1749
 ---
-# The Riverside Quarter
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %%TIM: dm notes color for vibes i have to write %%
 

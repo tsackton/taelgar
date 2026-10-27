@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Fortune's Rest
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The fey domain of Fortune’s Rest is a sparsely inhabited land of pleasant forests and peaceful meadows, seemingly quiet and still, until one finds or is drawn to the Court of the [[Prince of Luck|Chanceweaver]], the [[Prince of Luck]]. 
 

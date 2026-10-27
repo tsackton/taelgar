@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -16,10 +15,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Shakun’s Wellspring
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Shakun's Wellspring is a sacred grove on the southern edge of the [[Red Mesa]], a place of peace and tranquility and a place to commune with [[Shakun]]. Shakun's Wellspring is a hidden grove in the south of the [[Red Mesa]], of old, gnarled trees that seem out of place in the desert. During the day, it is nothing, really, and has no particular power, but at night a clear pool appears in the middle of the trees, that reflects not just stars but other planes as well. Shakun herself is said to appear sometimes.
 

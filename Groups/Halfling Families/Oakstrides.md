@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Oakstrides
->[!info]+ Information  
-> A [[Halflings|halfling]] family  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Oakstrides are a halfling family of moderate prominence, based along the [[Volta Watershed]]. Though not a major trading family, they are a large, well-connected clan of performers, innkeepers, storytellers, and wanderers. The most famous Oakstride is likely [[Finnan Oakstride]], a storyteller and collector of songs with a particular connection to the [[Zimkova Highlands]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Cleenseau
@@ -17,7 +16,8 @@ tagline: in which the queen nearly takes wing
 sessionKey: cleenseau-session-31
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 31
+```taelgar-header
+```
 
 >[!info] The Queen's Escort: in which the queen nearly takes wing
 > *Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moonseeker|Izgil]]*

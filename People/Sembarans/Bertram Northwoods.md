@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,11 +13,8 @@ dm_owner: mike
 dm_notes: none
 POV: 1719
 ---
-# Bertram Northwoods
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[bertram-northwoods-2.png|right|320]]Bertram is the groom and stablemaster at [[Asineau]]. Formerly employed by [[Lorin Valbert]], he remained at the manor after Lorin’s departure. A cousin of [[Phillipa Northwood]].
 

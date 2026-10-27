@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: joint
 dm_notes: important
 POV: modern
 ---
-# Duskmire
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A fey realm, the domain of  [[Lord Umbraeth]], often known as the Gloomshaper. Duskmire is a bleak place, a land of endings and cruelty. The sky is often full of clouds, often blotting out the weak sun, constantly hovering on the horizon. Storms race across the realm with some frequency bringing thunder and cold rain. 
 

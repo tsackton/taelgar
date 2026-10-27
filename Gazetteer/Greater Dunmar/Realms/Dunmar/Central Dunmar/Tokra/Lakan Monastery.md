@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,10 +13,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Lakan Monastery
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Lakan monastery is set on a hill about 3 1/2 miles south of [[Tokra]], overlooking the River [[Hara]]. The ancient road from [[Tokra]] winds up the cliffs approaching the monastery.
 

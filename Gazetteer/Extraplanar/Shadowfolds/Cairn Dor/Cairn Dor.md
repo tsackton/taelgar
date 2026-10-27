@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-13T13:45:21-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1752
 ---
-# Cairn Dor
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Cairn Dor is an extraplanar domain within the [[Shadowfolds]], created when the ancient [[Yo'nari]] queen [[Yeshara]] attempted to free her people from sleep and dreams. The realm is connected to the [[Material Plane]] by the [[Cleaver-Stone]] and other, less stable passages, including a portal among the ruins of [[Enderra]].
 

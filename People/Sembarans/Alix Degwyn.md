@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,11 +15,8 @@ whereabouts:
 knownTo: [clee]
 POV: 1720
 ---
-# Alix Degwyn
->[!info]+ Biographical Info  
-> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (she/they)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Alix Degwyn is part of a new group of Tyrwinghans who have arrived in the Barony of Aveil in the aftermath of the appointment of [[Cadfael de Dufferin]] to the position of baron.
 

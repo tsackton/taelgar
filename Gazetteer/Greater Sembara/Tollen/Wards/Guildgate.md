@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# Guildgate
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Guildgate lies north and inland from [[Gold Street]] and [[Bridgeward]], around the Guild Gate. It is home to many of the city's richest and most powerful merchant guilds and families, and is dotted with extensive palaces of merchant houses, including the elaborate [[Dyer's Guildhall|guildhall]] of the [[Dyer's Guild]].
 

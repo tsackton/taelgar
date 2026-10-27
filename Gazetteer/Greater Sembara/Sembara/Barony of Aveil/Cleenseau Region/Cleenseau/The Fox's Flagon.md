@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-29T18:22:03-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", prep: at}
@@ -13,11 +12,8 @@ dm_owner: mike
 dm_notes: none
 POV: 1720s
 ---
-# The Fox’s Flagon
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
  A three-story inn popular with traders and merchants, but often quiet when no caravan is in town. Known for neither its food (go to [[The River's Blessing]] for that) nor drink ([[The Bandit’s End]] is recommended), it is nonetheless a comfortable, secure, and dry place to sleep, and it has a large innyard and stables for traveler's horses. The owner, [[Selma Wisthelwind]], does host storytellers and music, although it is distinctly second to [[The Crossroads Inn]] in that regard. The main gathering room, however, is large and cheerful, and Selma tends bar most evenings herself.
 

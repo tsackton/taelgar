@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 24
@@ -13,7 +12,8 @@ tagline: in which the party restores local authority and arrests the Hag's agent
 sessionKey: cleenseau-session-24
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 24
+```taelgar-header
+```
 
 The party returns from the Midnight Lady's destroyed refuge and tells the [[Emeric Daverre|Daverre]] household that the curse is broken. They restore the guard captain to duty, capture the ferryman and surviving bandits tied to the Hag, and stabilize local authority. A proclamation then summons the heroes to [[Veltor]].
 

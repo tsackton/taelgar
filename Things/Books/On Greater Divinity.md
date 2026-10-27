@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T21:08:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed}
@@ -14,10 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# On Greater Divinity
->[!info]+ Information  
-> A [[Dunmar|Dunmari]] theological treatise, written during the [[Dharajun Dynasty]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 *On Greater Divinity* is a classic philosophical treatise by an unnamed Dunmari scholar, written during the [[Dharajun Dynasty]]. The work examines whether the existence of [[Divine Presence|Shurat and Sampa]], the creator divinities of Dunmari tradition, can be established from the observable activity of lesser gods. It considers the apparent limits of divine power, acts such as the creation of humanity and the separation of the planes that seem to exceed those limits, and the unresolved question of where the gods themselves came from.
 

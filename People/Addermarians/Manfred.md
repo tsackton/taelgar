@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:10:54-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Manfred
->[!info]+ Biographical Info  
-> An Addermarian [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 17th, 1715 in [[Haldrenn]], [[Highmoor]], [[Carlinshire]] %%^End%%
+```taelgar-header
+```
 
 A burly villager of [[Haldrenn]], father to [[Rowena]] and one of the hamlet’s informal leaders.
 

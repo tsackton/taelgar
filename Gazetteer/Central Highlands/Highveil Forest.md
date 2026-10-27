@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Highveil Forest
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:GL%% Explored by the [[Silver Tempests]] on October 21st, 1747 %%^End%%
+```taelgar-header
+```
 
 A light, open forest on the western foothills of the [[Sentinel Range|Sentinels]], north of the [[Crimson Forest]] and south of the [[Forest of Nightmares]].  While once this forest was occupied by many elves, it is now only lightly settled by [[Deno'qai]] tribes. 
 

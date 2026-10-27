@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Gaius Devarro
-*(GUY-oos deh-VAHR-roh)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 Gaius Devarro was a Chardonian metaphysical cosmologist, widely recognized as the father of the [[Standard Multiversal Model]]. He was born in [[Chardon]] during the reign of Imrodel, the last peronar emperor of [[Drankorian Empire|Drankor]], and joined the [[University of Chardon]] as part of the founding faculty of the [[Faculty of Metaphysics]]. He lived in [[Chardon]] his entire life, and was prominent in the early establishment of the [[University of Chardon]], but after the [[Drankorian Civil War]] turned away from public life. 
 

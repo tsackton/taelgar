@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Mendin
-*(men-DEEN)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Mendin is a small town and port on the western coast of the [[Mawakel Peninsula]], near the [[Chardonian Empire]], used as a stopping place by travelers and traders. A small Chardonian trade mission operates in Mendin, and a salt lizardfolk community lies just to its north.
 

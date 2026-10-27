@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: mike
 dm_notes: color
 POV: modern
 ---
-# The Barony of Dunfry
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Barony of Dunfry is the southern of the two frontier baronies along the [[Western Wall of Sembara]].
 

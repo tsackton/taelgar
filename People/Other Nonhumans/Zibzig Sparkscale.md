@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -16,11 +15,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1710s
 ---
-# Zibzig Sparkscale
->[!info]+ Biographical Info  
-> A [[Kobolds|kobold]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 13th, 1715 in the [[West Stonewolds Caves]], the [[Stonewolds]], [[Carlinshire]] %%^End%%
+```taelgar-header
+```
 
 Zibzig is an eccentric kobold wizard, styling himself the “Master of Light and Shadow” while living in a small two‑room lair along the underground river in the [[West Stonewolds Caves]].
 

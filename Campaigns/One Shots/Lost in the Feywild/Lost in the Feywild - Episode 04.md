@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Lost in the Feywild
 sessionNumber: 4
@@ -14,7 +13,8 @@ sessionKey: lost-in-the-feywild-session-4
 session-template: feywild-template.md
 websiteSessionView: zoomable
 ---
-# Lost in the Feywild: Episode 04
+```taelgar-header
+```
 
 >[!info] The House that Moves: in which the house refuses to hold still
 > *Featuring: [[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], [[Txarro]]*

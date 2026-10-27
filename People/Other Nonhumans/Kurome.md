@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,12 +16,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Kurome
-*(ku-ROW-may)*
->[!info]+ Biographical Info  
-> A dream being (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Seen in dreams by the [[Dunmar Fellowship]] on November 24th, 1748 in [[Hralgar's Palace]] %%^End%%
+```taelgar-header
+```
 
 A creature of dreams and nightmares. 
 

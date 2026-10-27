@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 tags: [object, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Cairn Dor Sigil
->[!info]+ Information  
-> ([[Shadowfolds]] symbol)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Cairn Dor Sigil is a shimmering green mark associated with the disappearance of [[Urkabi]] and other [[Lizardfolk Village Disappearances|lizardfolk villages]] in the DR 1730s and DR 1740s. It was often seen, shimmering sickly green, in the aftermath of the disappearance of a village. 
 

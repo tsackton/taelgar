@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -13,12 +12,8 @@ whereabouts: Riswynn
 knownTo: [dufr]
 POV: modern
 ---
-# Shatterstorm
->[!info]+ Information  
-> ([[Dwarves|dwarven]] magical warhammer)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/2172493-shatterstorm)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[shatterstorm.jpg|right|400]]Shatterstorm is a magical dwarven warhammer, enchanted by the Brawnanvils before the [[Great War]], but lost when the dwarves fled [[Raven's Hold]] in the chaos of the [[Great War]]. 
 

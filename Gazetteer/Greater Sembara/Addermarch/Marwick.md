@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,11 +10,8 @@ pronunciation: MAR-wick
 whereabouts: Addermarch
 POV: 1720s
 ---
-# Marwick
-*(MAR-wick)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Marwick is a castle in the eastern highlands of [[Addermarch]] and the seat of its Earl of High Tyrn, [[Rhiannon de Vaux]]. The surrounding uplands are rocky and sparsely wooded, with forests in sheltered valleys and high pastures used for summer grazing.
 

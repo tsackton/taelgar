@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,13 +17,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1740s
 ---
-# Ealwen
-*(AY-ahl-wen)*
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (she/her), ([[Elven Cycle of Generations|ka]] 37)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on January 16th, 1748 in [[Erelion]], [[Orenlas]] %%^End%%
+```taelgar-header
+```
 
 ![[ealwen-portrait.png|right|400]]Ealwen is a gardener and herbalist, who lives in Erelion. She is an expert in tending to plants, especially the magical plants of Orenlas from which all the elves need grow. She is fascinated with plants, and is spending her first leya trying to deeply understand their minds and ways of thinking and feeling. 
 

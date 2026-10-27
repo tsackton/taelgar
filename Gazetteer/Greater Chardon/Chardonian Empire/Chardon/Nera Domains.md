@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,11 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Nera Domains
-*(NEH-rah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Nera Domains are a general term for the collection of private estates, manors, and towers that dot the sheltered eastern slopes of the [[Mount Nera]] spur. Shielded by the Mount Nera spur from the refineries to the west, the Nera Domains are home to elaborate manors of Chardon's rich and powerful.
 

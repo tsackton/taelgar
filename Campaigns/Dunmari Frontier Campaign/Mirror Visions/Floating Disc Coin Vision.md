@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: Floating Disc Coin Vision
 POV: 1748
 ---
-# Floating Disc Coin Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The scene, the reflection of the campfire fades and you see, standing in front of you, a man of indeterminate age, wearing a heavy traveling cloak, a hood covering his face, a backpack slung over his shoulder, daggers at his sides. He is flipping the coin in the air, so your perspective tumbles over and over. There is a sense of movement, like you're traveling on a road, walking at night. While it is hard to be completely sure, you suspect this is [[Arcus]].
 

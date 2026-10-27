@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -10,10 +9,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Shimmering Sea
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Shimmering Sea is a region of the [[Elemental Plane of Water]], described by planar geographers as a light-filled expanse of warm waters, with extensive floating coral reefs and vast mats of tangled seagrass.
 

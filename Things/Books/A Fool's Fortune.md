@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><( by )author:nx>"}
@@ -14,10 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# A Fool's Fortune
->[!info]+ Information  
-> A [[Drankorian Empire|Drankorian]] play, written during the [[History of the Drankorian Empire|Drankorian Era]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A Drankorian play about a merchant who gets lost in the [[Feywild]] and slowly loses all his money to a variety of fey tricksters, thinking he is getting richer and richer all the time.
 

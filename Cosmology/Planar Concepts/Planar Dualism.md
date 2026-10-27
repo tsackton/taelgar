@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Planar Dualism
+```taelgar-header
+```
 
 Planar Dualism is a minority school of metaphysical cosmology that treats the [[Astral Plane]] and the [[Ethereal Plane]] as the only truly fundamental planes. In this model, what other scholars call the [[Plane of Souls]], the [[Land of the Dead]], and the [[Plane of Creation]] are regions or densities within the Astral Plane, while the [[Plane of Magic]] is a deep region of the Ethereal Plane rather than a distinct plane.
 

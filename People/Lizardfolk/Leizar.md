@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,13 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Leizar
-*(LAY-zhar)*
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 7th, 1749 in the [[Aursen Marshes]] %%^End%%
+```taelgar-header
+```
 
 ![[leizar.png|right|400]]Leizar is an eager lizardfolk boy, adventurous and inquisitive, who loves stories of heroes. He has bright green scales, and often carries fishing traps. He is proud that his father is a Ranger, though he worries privately about his safety.
 

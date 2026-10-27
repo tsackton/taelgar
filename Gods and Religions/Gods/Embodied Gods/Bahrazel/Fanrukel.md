@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, religion/dwarven]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Fanrukel
-*(FAN-roo-kel)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The patron of storytellers and those who keep the histories of clans and kingdoms, worshipped as the first lorekeeper of the dwarves.
 

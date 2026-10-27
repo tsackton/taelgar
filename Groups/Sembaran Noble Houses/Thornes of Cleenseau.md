@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Thornes of Cleenseau
->[!info]+ Information  
-> A [[Sembara|Sembaran]] yeoman family  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% The Thornes in the Cleenseau region have come up several times in various Cleenseau sessions as semi-prominent yeoman, sturdy, good allies to the PCs. I don't have any details made up but the family should have a "the Cottons in the Shire" vibe.  Not wealthy, but definitely hold some land themselves, likely at least partly [[Land Holding in Sembara|freehold]] %%
 

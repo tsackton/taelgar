@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: "Unmade by the [[Addermarch Mercenaries]] with [[Trueflame]] on"}
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Serpentine Dagger
->[!info]+ Information  
-> (dagger)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Serpentine Dagger was a cursed jeweled dagger associated with [[Avatus]]. Those who handled it fell under a paranoid compulsion to keep the blade close, eventually descending to violent madness, and the curse drove multiple murders at [[Torvaine Watch]] in DR 1715.
 

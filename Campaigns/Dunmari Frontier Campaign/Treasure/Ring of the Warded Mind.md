@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -16,12 +15,8 @@ whereabouts: Seeker
 knownTo: [dufr]
 POV: modern
 ---
-# Ring of the Warded Mind
->[!info]+ Information  
-> (uncommon [[Dwarves|dwarven]] magic ring)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/4725-ring-of-mind-shielding)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[ring-of-warded-mind-seeker.jpg|right|400]]This dull silver ring, of Dwarven make, is difficult to focus on, always seeming to want to slide out of your eyesight. It radiates abjuration magic. 
 

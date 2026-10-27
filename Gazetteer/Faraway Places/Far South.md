@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/map, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Far South
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 In the markets of [[Tollen]] or [[Chardon]], rumors are occasionally heard of great lands faraway to the south and east, where creatures as tall as castles roam and the air is sticky and wet. Others tell of an endless desert, where oases bloom with flowers the size of trees, but death awaits those who lose their way in the endless heat and sand. What truth there is to these rumors is not known.
 ## Map

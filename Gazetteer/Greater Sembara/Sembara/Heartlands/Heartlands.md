@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -11,10 +10,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The Heartlands
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The heartlands are a rich agricultural region in the lowlands between the [[Enst]], in the south, and the [[Teft]], in the north. Much of this region, around the River [[Semb]], is the [[Duchy of Sembara]], a powerful and rich farming region, control of which is the source of much of the monarch’s power. This land is the breadbasket of [[Sembara]].
 

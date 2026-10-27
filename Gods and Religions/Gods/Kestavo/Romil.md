@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [power, religion/kestavo, status/check/mike, status/check/lint]
@@ -9,9 +8,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Romil
->[!info]+ Information  
-> A [[Kestavo|kestavo]]
+```taelgar-header
+```
 
 %% status/check/mike -> marked as status/needswork but nothing obviously wrong to me %%
 

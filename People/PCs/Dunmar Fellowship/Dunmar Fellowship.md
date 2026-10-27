@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {ltPerson: by}
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# The Dunmar Fellowship
->[!info]+ Information
-> An adventuring party
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 An adventuring party who met in Dunmar and have traveled together from April 1748 through the present. 
 

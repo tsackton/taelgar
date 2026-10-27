@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1748
 ---
-# Erlona
-*(ehr-LOH-nah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Erlona is the capital of the Chasa Valley province, a rich and powerful province given the agricultural wealth of the valley. This far upriver, there is less wine, but the land is fertile pasture with many cattle and dairy farms. Erlona's most notable feature is a particularly large coliseum.
 

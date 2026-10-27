@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The University of Tollen
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The University of Tollen is a cluster of faculties and halls along [[Magus Street]] in [[Tollen]]. It is a magnet for scholars and dramatists from across the Western Green Sea. 
 

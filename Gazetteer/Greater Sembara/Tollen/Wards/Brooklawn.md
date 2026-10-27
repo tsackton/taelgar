@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Brooklawn
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Brooklawn is a ward of [[Tollen]] that spreads across both sides of the [[Little River]]. This area is swampy and prone to flooding, with a long history of industrial use for tanning, leather-working, and dye-works. 
 

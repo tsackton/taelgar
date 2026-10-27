@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,12 +14,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# Marcel de Valarin
-*(mar-SELL duh vah-lah-REHN)*
->[!info]+ Biographical Info  
-> An [[Istabor Alliance|Isinguer]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Marcel de Valarin was an Isinguer human from [[Valarin]] and one of the founders of the [[Order of the Charitable Wanderer]]. He often worked with the [[Rangers]] and was frequently found investigating troubles in [[Duchy of Maseau|Maseau]], [[Addermarch]], and southern [[Sembara]].
 

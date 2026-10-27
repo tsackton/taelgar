@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -16,11 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Semb
-*(SEMB)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A major river that flows from the [[Sentinel Range|Sentinels]] to the [[Western Gulf]]. It is navigable for almost its entire length and is one of the major riverways of [[Greater Sembara]].
 

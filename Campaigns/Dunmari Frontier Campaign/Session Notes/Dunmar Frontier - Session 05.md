@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Dunmar Frontier
@@ -16,7 +15,8 @@ tagline: "in which a council debates how to save the village"
 sessionKey: dunmari-frontier-session-5
 session-template: dunmar-frontier-template.md
 ---
-# Dunmari Frontier - Session 5
+```taelgar-header
+```
 
 >[!info] Karawa at the Crossroads: in which a council debates how to save the village
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], and [[Seeker]]*

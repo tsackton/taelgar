@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1748
 ---
-# The Cloud Palace
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Once the majestic floating palace of the [[Cloudspinner]], lit with the brilliant hues of sunset, the Cloud Palace is now little more than a gray, washed out ruin, haunted by the lingering members of Cloudspinner's court who refuse to leave, led by [[Lady Eventide]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -15,10 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Splinters
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Splinters are a chain of small, rocky islands near [[Hamri]]. There are few safe landings and no easy harbors; most of the islands in the Splinters just cliffs inhabited by birds and little else. 
 

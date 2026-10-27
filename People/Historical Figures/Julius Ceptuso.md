@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Julius Ceptuso
-*(JOO-lee-oos chep-TOO-zoh)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)
+```taelgar-header
+```
 
 Julius Ceptuso was a scholar and faculty member of the [[Faculty of Metaphysics]] in [[Chardon]], who popularized the traditional model of the [[Energy Realms]] based on five fundamental energies: Earth, Air, Fire, Water, and Magic.
 

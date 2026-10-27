@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -16,11 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Illius
->[!info]+ Biographical Info  
-> A [[Merfolk|merfolk]] (they/them)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Illius is a [[Merfolk|merfolk]] scout. In DR 1747, they came to [[Hamri]] as part of an expedition sent to recover a stolen drop of the [[Sentient Ocean]], and were the sole survivor after the expedition was attacked by water elementals. 
 

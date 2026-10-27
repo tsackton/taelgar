@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Lathirion Lake
-*(LAH-thee-ree-on)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Lathirion Lake is a lake in the upper [[Istaros Watershed]]. It is fed by three rivers—the [[Naithale|Naithalë]], the [[Velasse|Velassë]], and the [[Silire|Silírë]]—and from it the [[Thalurien|Thalúrien]] flows south toward the [[Istaros]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
@@ -18,10 +17,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Merash
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A dwarven fighter and blacksmith, summoned to aid the [[Bahrazel]] because of a debt owed for a miracle saving her life in a storm at sea.
 

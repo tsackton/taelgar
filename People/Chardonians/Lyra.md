@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/dufr, status/gameupdate/gl, status/check/lint]
@@ -22,14 +21,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# Lyra
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 22nd, 1748 in [[Chardon]], the [[Chardonian Empire]] %%^End%%
->> %%^Campaign:grli%% Met with the [[Silver Tempests]] on September 1st, 1747 in [[Voltara]], the [[Chardonian Empire]] %%^End%%
+```taelgar-header
+```
 
 An archivist with the Great Library, responsible for arranging adventuring expeditions to recover magic, knowledge, and treasure. Spends considerable time in the north of the [[Chardonian Empire]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/text, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: mike
 dm_notes: important
 POV: modern
 ---
-# The Duchy of Wisford
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 One of the original ancient duchies that formed Sembara. Still a powerful and rich land, with significant agricultural wealth including cattle, wheat, and cheese production.
 

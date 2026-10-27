@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The War of the Severed Dreams
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A war fought against [[Yeshara]] and the [[Shemra Azem]], called the [[Umbral Covenant]], who supposedly fought against sleep itself and killed their enemies by severing their ability to dream. 
 

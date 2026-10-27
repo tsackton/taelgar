@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: Elemental Forge Vision
 POV: 1749
 ---
-# Elemental Forge Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The mirror fades, and you see the forge now brightly lit, the four silvery, wiry threads taut and vibrating with energy as a woman approaches. It is the same woman you saw a projected illusion of in the entrance hall of the workshop, presumably the Occulta Ludum mage who ran this place towards the end of its time.
 

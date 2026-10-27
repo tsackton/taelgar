@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,11 +15,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Airion the Mistspeaker
-*(AIR-ee-on)*
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 Airion the Mistspeaker was a pre-[[Great War]] human elementalist and planar scholar, active mainly in the area that is now [[Greater Voltara]] and the [[Mawar Confederacy]]. He is remembered chiefly for his deep study of the [[Energy Realms]], though he also did significant work on elemental binding, and cataloged places where the boundary between the [[Material Plane]] and the elemental planes is thin. He died during the Great War, and much of his work was lost or scattered during the [[Blood Years]].
 

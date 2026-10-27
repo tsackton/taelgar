@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,13 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Isolde of Roscombe
-*(ih-ZOL-duh)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 6th, 1715 in [[Roscombe]], [[Carlinshire]], [[Addermarch]] %%^End%%
+```taelgar-header
+```
 
 Isolde is the temple steward of the Temple of the Sibyl in [[Roscombe]]. She manages the day‑to‑day affairs of the temple, handling visitors, records, and logistics so [[Owen Tavish]] can focus on scholarship and ritual. She keeps the sanctuary secure, curates relics, and ensures sensitive items—such as the cursed [[Serpentine Dagger]]—are catalogued and protected.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: mike
 dm_notes: color
 POV: modern
 ---
-# Dunfry
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A fortified settlement along the southern part of the [[Western Wall of Sembara]], it primarily exists to service the large [[Army of the West]]. It is a place of weaponsmiths, quartermasters, and commanders, and bustles with activity in service of the army.
 

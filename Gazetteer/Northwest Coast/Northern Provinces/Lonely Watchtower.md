@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Lonely Watchtower
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 An isolated tower north of [[Voltara]]. Long abandoned, it was used as a raiding base by orcs of [[Grumella's Horde]] during [[Grumella's War]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,14 +19,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Wulfram
-*(WULL-frum)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Discovered by the [[Addermarch Mercenaries]] on April 28th, 1715 in [[Torvaine Watch]], the [[Torvaine Forest]], [[Addermarch]] %%^End%%
+```taelgar-header
+```
 
 Wulfram was the temple steward of [[The Warlord]] at [[Torvaine Watch]], who urged the containment of the [[Serpentine Dagger]]. He tended the chapel and advised the garrison on matters of faith and honor. When the cursed dagger appeared, he urged it be locked away, but was killed in the confrontation created by the dagger's cursed influence.
 

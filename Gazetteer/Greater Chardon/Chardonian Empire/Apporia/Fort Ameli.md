@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Fort Ameli
-*(ah-MEH-lee)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Fort Ameli is a [[Chardonian Empire|Chardonian]] fort that guards the entrance to the [[Old Chardon Canal]]. It lies on the canal, about 10 miles inland from the southern entrance, where the broad tidal estuary around [[Pergia]] narrows to the canal proper. The fort was originally constructed during the [[History of the Drankorian Empire|Drankorian Era]], though it has been expanded and rebuilt several times since.
 

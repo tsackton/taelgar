@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Elemental Plane of Earth
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Elemental Plane of Earth, as described in the revered dwarven saga _[[The Song of the Eternal Earth]]_, is a realm of solid stone, where the walls of endless caverns press in, and the weight of rock dampens even the loudest echoes. It is a land of endless stone, soil, and crystal formations in every imaginable hue, where labyrinthine tunnels twist and turn, glowing faintly with veins of precious minerals, leading to vast subterranean chambers. Although _The Song of the Eternal Earth_ speaks of a "sunless sky", few scholars believe there is, in fact, a surface above the endless caverns of the Plane of Earth.
 

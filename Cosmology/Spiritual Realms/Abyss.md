@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Abyss
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Although the demons of the Abyss loom large in legends, few scholars dare study the Abyss in depth, for even the study of its nature is said to taint the mind. Most who claim to have seen the Abyss are presumed to be liars, madmen, or worse, and even the most credible accounts contradict each other. In the most comprehensive collection of tales of the Abyss, [[The Chronicle of Ruin]], it is described as a place of endless decay, where fortresses fall to ruin overnight, kingdoms dissolve into filth, and rivers of blood carve paths through landscapes that shift and crumble with every breath. And yet the Chronicle also describes endless layers spiraling downward into the domains of the demon lords, who shape their dominions into nightmarish echoes of themselves, endless and eternal.
 

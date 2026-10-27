@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/gl, status/check/lint]
@@ -19,13 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Yeshara
-*(yeh-SHAH-rah)*
->[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (she/her), of the [[Yo'nari]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Defeated by the [[Silver Tempests]] on October 14th, 1748 in [[Cairn Dor]], [[Shadowfolds]], the [[Echo Realms]] %%^End%%
+```taelgar-header
+```
 
 Yeshara, called the Wolf-Queen and the Queen of Eternal Waking, is an ancient [[Yo'nari]] queen and the ruler of [[Cairn Dor]]. Her attempt to free her people from sleep created the shadowed domain of [[Cairn Dor]]; her repeated efforts to extend that "freedom" to other peoples resulted in a cycle of wars across [[Apporia]] lasting thousands of years.
 

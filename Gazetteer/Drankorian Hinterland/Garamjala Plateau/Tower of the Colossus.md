@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Tower of the Colossus
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Tower of the Colossus is a half‑buried white marble tower rising from the sands of the [[Garamjala Plateau]]. Its upper levels are open to wind and sun, while the lower levels have long been choked with drifting sand. 
 

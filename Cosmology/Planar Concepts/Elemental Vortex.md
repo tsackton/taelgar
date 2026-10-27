@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -9,7 +8,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Elemental Vortex
+```taelgar-header
+```
 
 An Elemental Vortex, as defined in [[The Seams Between Worlds]], [[Ishara Venn]]'s study of planar connections, is a temporary locus of connection between the [[Material Plane]] and an [[Energy Realms|Energy Realm]], created by the presence of a nearly-pure representation of one of the [[Energy Realms|Five Fundamental Energies]], which, according to Ishara, draws the [[Energy Realms]] closer in extraplanar space to the [[Material Plane]], often forcing them to touch and creating a temporary portal. Although many folktales and legends speak of people vanishing mysteriously, and sometimes returning later speaking of being carried off to a strange place, few planar geographers find Ishara's theories convincing, and elemental vortexes are considered something of a fringe idea among the [[Faculty of Metaphysics]].
 

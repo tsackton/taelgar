@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -9,7 +8,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Planar Connections
+```taelgar-header
+```
 
 Planar geographers widely discuss two commonly understood forms for planar connection. [[Extraplanar Weak Point|Extraplanar weak points]] allow influence or energy to leak from one two to another, but do not permit passage. Planar portals, in contrast, are doorways between fixed points on different planes that allow a traveler to step directly between planes, though they may only function at particular times or under certain conditions. 
 

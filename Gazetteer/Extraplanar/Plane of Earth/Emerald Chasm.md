@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Emerald Chasm
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Emerald Chasm is a landmark of sorts on the [[Elemental Plane of Earth]]. It is a vast abyss lined with massive emerald crystals, some as large as towers, which glow faintly with green light.
 

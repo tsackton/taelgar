@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/mike, status/check/lint]
@@ -9,10 +8,8 @@ dm_owner: joint
 dm_notes: none
 POV: 1720s
 ---
-# The De Brunes
->[!info]+ Information  
-> A family  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The de Brunes are a wealthy mercantile family with roots in the [[Enst]] river valley, and a primary manor just outside [[Eskbridge]]. The family maintains outposts and connections along the Enst, including a longstanding presence in the [[Cleenseau Region]]. In recent years, de Brune business in the Cleenseau region has been shaped by [[Catherine de Brune]]’s investments and trade ties.
 

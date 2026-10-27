@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -19,11 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# King Arryn I
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Sewick]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A ruler of Sembara and Tyrwingha. The eldest son of [[Elaine I]] and [[Cynan]]. As a young prince of Tyrwingha, while on a royal tour with his father, he was an early victim of the [[Cursed Cold]], which left the lower half of his body withered and skeletal. His allegiances were more closely aligned with Tyrwingha than Sembara, and he rarely left his palace in [[Tafolwern]]. He preferred to be seen with heavy blankets covering his lower body, and he was very self-conscious about his injuries.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,10 +10,8 @@ dm_owner: joint
 dm_notes: important
 POV: modern
 ---
-# Twilight's Grace
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 
 %% status/incomplete ->  significant in multiple games (Addermarch, and especially Cleenseau) and page is currently very under-detailed for importance %%

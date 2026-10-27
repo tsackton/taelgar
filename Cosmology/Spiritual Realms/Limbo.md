@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Limbo
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Limbo, the fundamental plane of chaos, is a plane defined by constant, unceasing transformation, a place of disorder where few dare tread and reliable reports are few and far between. Scattered fragments of lost poems and confused ramblings, as recorded by [[Gaius Devarro]] in his treatise [[On Minds and Chaos]], speak of a place of churning chaos where nothing holds its shape for long: stone melts to water, which freezes to fire at a whim, before bursting into diamond that blows away as snow. [[Marcion of Iridel]], quoting a fragment of a lost work known as [[The Unstable Sphere]], called it "the endless unmaking," suggesting a domain of constant, unceasing, chaotic transformation. 
 

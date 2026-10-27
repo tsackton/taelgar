@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -19,12 +18,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Grimbaskal
->[!info]+ Biographical Info  
-> A [[Dragons|dragon]] ([[Dragons|green dragon]]) (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Killed by the [[Dunmar Fellowship]] on September 15th, 1748 in the [[Elderwood]], [[Ainumarya]] %%^End%%
+```taelgar-header
+```
 
 %% fix campaign info, whereabouts; many historical notes missing, in DM notes %%
 

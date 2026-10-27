@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 tags: [object, status/check/lint]
@@ -11,11 +10,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Ring of Elemental Binding
->[!info]+ Information  
-> (ring)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 One of the treasures of [[Airion|Airion the Mistspeaker]], recovered by [[Azar the Lost]] during his search for lore about elemental magic, genies, and living ocean water. According to [[Azar's Tale]], the ring could bind a genie and command one service from it.
 

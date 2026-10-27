@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# On the Lost People of the Forests
->[!info]+ Information  
-> A [[Chardonian Empire|Chardonian]] geographical treatise, by [[Gnaeus]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Written by the scholar [[Gnaeus]], of [[Chardon]], disgraced for using enchantment magic in his research.
 

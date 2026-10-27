@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,12 +18,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1749
 ---
-# Zimkala
-*(zeem-KAH-lah)*
->[!info]+ Biographical Info  
-> A [[Stoneborn|stoneborn]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 7th, 1749 in [[Three Wells]], the [[Refounded Alliance of Aurbez]] %%^End%%
+```taelgar-header
+```
 
 ![[Zimkala.png|right|400]]Zimkala is a Stoneborn messenger from the settlements and villages of the [[Sentinel Range|Indalas]]. 
 

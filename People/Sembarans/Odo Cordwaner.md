@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/clee, status/check/lint]
@@ -23,12 +22,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720
 ---
-# Odo Cordwaner
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[odo-cordwaner.png|right|320]] Until recently a sergeant of the [[Army Garrison of Cleenseau|Bridge Patrol]], he was discharged after failing to heed orders during the [[Festival of the Bridge]]. He allowed [[Francois the Bandit|François the Bandit]] access to the food area, despite specific warnings to be on the lookout.
 

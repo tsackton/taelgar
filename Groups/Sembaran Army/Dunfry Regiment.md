@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {partOf: "<typeof:AU> of <partof>", boxInfo: ""}
@@ -11,10 +10,8 @@ dm_owner: mike
 dm_notes: important
 POV: modern
 ---
-# The Dunfry Regiment
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
-> A regiment of the [[Army of the West]], the [[Sembaran Army]], [[Sembara]]
+```taelgar-header
+```
 
 %% Significant events of undead attack here in my DM notes only ; need incorporation %%
 

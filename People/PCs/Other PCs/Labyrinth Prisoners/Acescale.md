@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,12 +17,8 @@ dm_owner: player
 dm_notes: none
 POV: 1748
 ---
-# Acescale
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (he/him), of the [[Labyrinth Prisoners]]  
-> [Character Sheet](https://www.dndbeyond.com/characters/112561355)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Acescale is a [[Lizardfolk|lizardfolk]] alchemist and gambler from a small settlement in the swamps of [[Latazaro]]. He has a practical alchemist's skill set, a gambler's appetite for risk, and occasional glimpses of possible twists of fate that gave him an edge at cards. Those instincts made him bold, but not always cautious. At times, restless for better stakes than his home could offer, he would travel several days to [[Lunacosta]], a coastal market town where the inns offered more lively games.
 

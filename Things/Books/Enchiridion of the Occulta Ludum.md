@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -17,10 +16,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Enchiridion of the Occulta Ludum
->[!info]+ Information  
-> A [[Drankorian Empire|Drankorian]] magical handbook, written during the [[History of the Drankorian Empire|Drankorian Era]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Enchiridion of the Occulta Ludum appears to be a blank handbook of the [[Occulta Ludum]], a Drankorian secret society. These books radiate faint illusion magic, and were clearly produced using magical means.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Ismara
-*(is-MAH-rah)*
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[ismara.jpg|right|300]]Ismara is a wanderer and a scholar of humanity, an archivist of the [[Material Plane|Mundane World]]. She is curious and bright, and prone to travel where fate takes her, although she tends to shy from danger. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 tags: [place, status/review, status/check/lint]
@@ -15,11 +14,8 @@ dm_owner: tim
 dm_notes: important
 POV: "1749"
 ---
-# Chardon
-*(CHAR-din)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% status/review -> some incomplete sections and needs a general cleanup pass %%
 

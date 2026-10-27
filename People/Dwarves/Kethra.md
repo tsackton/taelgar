@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -23,14 +22,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1749
 ---
-# Kethra Silverspark
-*(KETH-rah SIL-ver-spark)*
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (she/her), of the [[Silversparks|Silverspark Clan]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on January 28th, 1749 in [[Pava and Avaras' House]], the [[Garamjala Desert]] %%^End%%
+```taelgar-header
+```
 
 ![[kethra-final-option1.png|right|400]]Kethra Silverspark, great-grandaughter of [[Nora Silverspark]], is a proud dwarven smith and novice adventurer from [[Tharn Todor]]. 
 

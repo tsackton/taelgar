@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Fairgate Outer
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Fairgate Outer is a ward of [[Tollen]] that sits outside the city walls and in many ways functions more like a large village than part of the city itself. The most prominent landmark is the [[Fairgrounds (Tollen)|Fairgrounds]], a large open field that is set aside for the use of traveling halfling caravans, and often holds impromptu markets, celebrations, and events. 
 

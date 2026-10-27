@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -23,13 +22,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1748
 ---
-# Oswalt Tealeaf
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (he/him), of the [[Tealeafs]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 9th, 1748 in the [[Emerald Song]], [[Darba]], [[Dunmar]] %%^End%%  
->> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on August 21th, 1748 in the [[Emerald Song]], [[Chardon]], the [[Chardonian Empire]] %%^End%%
+```taelgar-header
+```
 
 Oswalt Tealeaf is a halfling adventurer, archer, and scout. He grew up traveling the roads of Dunmar with the Tealeaf clan. 
 %%^Campaign:DuFr%%

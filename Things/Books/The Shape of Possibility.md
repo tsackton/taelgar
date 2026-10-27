@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -16,11 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Shape of Possibility
->[!info]+ Information  
-> A [[Drankorian Empire|Drankorian]] metaphysical treatise, written during the [[History of the Drankorian Empire|Drankorian Era]], by the [[Arithrimos Lamperum]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 *The Shape of Possibility* is a Drankorian metaphysical treatise, combining magic, mathematics, and metaphysics in an attempt to describe possibility as a mathematical shape.
 

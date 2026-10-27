@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 22
@@ -11,7 +10,8 @@ name: Addermarch Campaign - Session 22
 tagline: in which the party finds a guide
 descTitle: Gwydren of the Old Paths
 ---
-# Addermarch Campaign - Session 22
+```taelgar-header
+```
 
 >[!info] Gwydren of the Old Paths: in which the party finds a guide
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

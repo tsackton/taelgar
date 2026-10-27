@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 5
@@ -13,7 +12,8 @@ tagline: in which the party breaks an orc warband through deception and force
 sessionKey: cleenseau-session-5
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 5
+```taelgar-header
+```
 
 Guided by information from [[Guy de Varan]], the party scouts [[Wakog|Wakog's]] divided warband and exploits the hostility between its two orc factions. Their attack frees the prisoners and ends with Wakog and the ogre leader defeated.
 

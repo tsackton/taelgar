@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "Connected to <secondary:1>"}
@@ -15,10 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Cleaver-Stone
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 An ancient trilithic portal-stone hidden in the uplands of the [[Kedron]] river, that connects to the mysterious realm known as [[Cairn Dor]]. %%^Date:1748-09-20%% In DR 1748, the [[Silver Tempests]] locked the portal after their [[Great Library Session Notes - Arc 5|expedition into Cairn Dor]]. %%^End%%
 

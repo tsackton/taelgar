@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "<ancestry:UA> <typeof:UA>, fought between <startDate> and <endDate>"}
@@ -13,9 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Western Wars
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The Drankorian Western Wars were a series of campaigns by the [[Drankorian Empire]] between DR 597 and DR 634, fought to subjugate the peoples of the [[Yeraad Watershed]], the western [[Coastlands]], and the [[Chasa River Valley]]. The end of these wars established [[Lake Valandros]] as the furthest extent of [[Drankorian Empire|Drankorian]] control in the west. 
 

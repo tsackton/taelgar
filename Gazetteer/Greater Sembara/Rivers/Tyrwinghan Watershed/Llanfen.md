@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Llanfen
-*(HLAN-ven)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Llanfen is the easternmost of the principal rivers of [[Tyrwingha]], flowing down from the [[Mostreve Hills]] to the [[Western Gulf]]. Its lower reaches lie on the edge of the marshlands of [[Latazaro]].
 

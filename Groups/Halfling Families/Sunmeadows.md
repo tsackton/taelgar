@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Sunmeadows
->[!info]+ Information  
-> A [[Halflings|halfling]] family  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 %% Jasmine's parents own [[The Green Leaf]] in [[Darba]], but what the rest of the family does, and whether they travel or are largely based in Darba,  is not invented. %%
 

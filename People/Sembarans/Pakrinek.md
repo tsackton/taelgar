@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/mike]
@@ -16,13 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: 1730
 ---
-# Pakrinek
-*(PACK-ree-neck)*
->[!info]+ Biographical Info  
-> A [[Kenku|kenku]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Pakrinek was a kenku warrior of [[Kemeko Monastery]]. 
 

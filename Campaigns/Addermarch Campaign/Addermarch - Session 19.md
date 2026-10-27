@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 19
@@ -11,7 +10,8 @@ name: Addermarch Campaign - Session 19
 tagline: in which the party descends through the mines
 descTitle: The Depths of Serenwyth Tor
 ---
-# Addermarch Campaign - Session 19
+```taelgar-header
+```
 
 >[!info] The Depths of Serenwyth Tor: in which the party descends through the mines
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

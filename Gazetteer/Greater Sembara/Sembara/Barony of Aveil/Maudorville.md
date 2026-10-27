@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [status/cleanup/text, place, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720s
 ---
-# Maudorville
->[!info]+ Information  
-> pop. 448  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% Notes for game prep
 

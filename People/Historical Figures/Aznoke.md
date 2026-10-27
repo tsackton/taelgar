@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -12,9 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Aznoké
->[!info]+ Biographical Info
-> A [[Lizardfolk|lizardfolk]] (she/her)
+```taelgar-header
+```
 
 %% presumably ancient-ish, e.g. not still alive, but exact time not decided %%
 

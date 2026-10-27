@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -9,10 +8,8 @@ name: Market Gate
 whereabouts: Cleenseau
 POV: modern
 ---
-# Market Gate (Cleenseau)
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Market Gate is a public entrance in [[Cleenseau]]’s eastern wall, near the town market. [[Market Road]] connects it to the [[North Gate of Cleenseau|North Gate]]. The [[Lord's Guard of Cleenseau|town watch]] guards it, and it is barred at night.
 

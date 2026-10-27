@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Dragonhide Armor
->[!info]+ Information  
-> ([[Ursk|Urskan]] magic armor)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The artificers and armorers of Ursk have mastered the secrets of producing armor and cloaks incorporating dragon hide, predominately using the hides of white dragons that can be hunted in the far north. Armor and cloaks made this way are exceptionally durable and provide enhanced protection.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -12,9 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Breda Mistweaver
->[!info]+ Biographical Info  
-> A [[Giants|giant]] (cloud giant) (she/her)
+```taelgar-header
+```
 
 Breda Mistweaver is a cloud giant mystic, famous in human scholarly circles chiefly for her legends of the [[Feywild]], preserved in [[Ulfgar Frostbeard]]'s magnum opus, [[The Lore of the Feywild]]. 
 

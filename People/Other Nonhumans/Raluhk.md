@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,13 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Raluhk
->[!info]+ Biographical Info  
-> An [[Orcs|orc]] (orog)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Killed by the [[Silver Tempests]] on June 11th, 1747 in the [[Lonely Watchtower]], the [[Chalyte Hills|North Voltara Hills]], the [[Erbalta Plains]] %%^End%%
+```taelgar-header
+```
 
 Raluhk the Orog was an orc raiding leader associated with [[Grumella's Horde]]. He used the [[Lonely Watchtower]] as a base for raids on caravans traveling toward [[Voltara]] and was killed there in DR 1747 by the [[Silver Tempests]].
 

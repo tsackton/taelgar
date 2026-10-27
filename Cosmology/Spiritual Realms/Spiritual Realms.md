@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Spiritual Realms
+```taelgar-header
+```
 
 In the [[Standard Multiversal Model]] taught by the [[Faculty of Metaphysics]] at the [[University of Chardon]], the Spiritual Realms are defined as distinct planes existing within the vast matrix of the far regions of the [[Astral Plane]].  Lying beyond the [[Land of the Dead]], they remain largely inaccessible from the [[Material Plane]] except through astral travel, planar gateways, or the passage of souls. These are largely congruent with the [[Outer Realms]] of [[Yendalism]], although Yendalists also include the [[Land of the Dead|Divine Veil]] and the [[Plane of Creation]] in their list of the Outer Realms. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -13,11 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# The Dreamweaver Staff
->[!info]+ Information  
-> (unique [[Dunmar|Dunmari]] staff)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[dreamweaver-staff.jpg|right|300]]The Dreamweaver Staff is a carved wooden staff with an intricate pattern of swirling shapes. It has been carried by the Speaker of the [[Shakun Mystai]] for many generations, and is said to be able to allow the bearer to manipulate dreams. It is even possible, supposedly, to transport subjects into the [[Dreamworld]] with this staff. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,13 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Lucius
-*(LOO-chee-oos)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Reached via sending stone by the [[Dunmar Fellowship]] on January 8th, 1749 in [[Luminatia]], the [[Chardonian Empire]] %%^End%%
+```taelgar-header
+```
 
 ![[lucius-portrait.jpeg|right|420]]Lucius is a boy of about 5 who lives with his mother, [[Livia]], in the village of [[Luminatia]], near [[Lake Valandros]] in the [[Chardonian Empire]]. He found a stone, in which he believes his imaginary friend Benji lives, in his [[Claudio|father's]] study, after his father abandoned the family.
 

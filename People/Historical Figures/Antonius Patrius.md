@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,13 +19,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Antonius Patrius
-*(ahn-TOH-nee-oos PAH-tree-oos)*
->[!info]+ Biographical Info  
-> A [[Drankorian Empire|Drankorian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 > [!image|right standard]
 > ![[antonius-patrius-book-of-martyrs.webp]]

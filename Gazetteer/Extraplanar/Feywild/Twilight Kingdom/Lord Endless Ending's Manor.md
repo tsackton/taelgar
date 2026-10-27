@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740
 ---
-# Lord Endless Ending's Manor
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 
 Lord Endless Ending's Manor is a fey manor in the [[Twilight Kingdom]], caught in the repeated ending of a party hosted by [[Lord Endless Ending]].

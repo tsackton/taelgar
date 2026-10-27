@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Darkwood Keep
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Darkwood Keep is a frontier fortress on the southern edge of [[Addermarch]], raised to watch the forest eaves of the [[Darkwood]] and the approaches from the [[Plaguelands]]. The road from [[Adderfell]] passes through [[Tygate]] before turning southwest to supply the keep and the smaller works that guard the border.
 

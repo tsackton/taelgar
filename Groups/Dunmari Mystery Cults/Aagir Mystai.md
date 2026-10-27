@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Aagiri
->[!info]+ Information  
-> A [[Dunmar|Dunmari]] mystery cult, of [[Aagir]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The mystery cult dedicated to the Dunmari god [[Aagir]], a traveling order of warriors who protect the roads of [[Dunmar]]. 
 

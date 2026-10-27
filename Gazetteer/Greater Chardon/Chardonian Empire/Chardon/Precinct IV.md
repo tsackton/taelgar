@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Precinct IV
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Precinct IV is the academic quarter of [[Chardon]], famed for its towers, lecture halls, and libraries. It contains the [[University of Chardon]] and is closely associated with the [[Great Library]]. In addition to the ordinary bustle of a city neighborhood—inns, taverns, and lodgings—Precinct IV is shaped by the presence of many scholars and mages, including a number of distinctive wizard towers.
 

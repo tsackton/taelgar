@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,11 +12,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Alcarinquë
-*(ahl-KAH-rin-kweh)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Alcarinquë is the name for the ancient elven realm of the north, part of the vast forests that once stretched from [[Orenlas]] in the east, across the [[Istaros Watershed]], west across the [[Hara Basin]], and north through the forests of the [[Elderwood]] and [[Ainumarya]]. The realm fell during the upheavals surrounding [[The Downfall]]. In the centuries that followed, the [[Drankorian Empire]] expanded into its former lands, settling river valleys left largely depopulated by the [[Downfall Wars]].
 

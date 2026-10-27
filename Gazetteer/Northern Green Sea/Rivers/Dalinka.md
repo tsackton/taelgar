@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# Dalinka
-*(DAH-link-ah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A river that flows from the [[Yengorza Mountains]] to the [[Green Sea]]. The Dalinka river valley is a fertile agricultural area, centered on the city of [[Yamgov]].
 

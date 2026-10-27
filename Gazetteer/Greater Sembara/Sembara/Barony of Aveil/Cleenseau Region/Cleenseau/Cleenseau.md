@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-29T18:22:03-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/ai]
@@ -14,12 +13,8 @@ dm_owner: mike
 dm_notes: color
 POV: modern
 ---
-# Cleenseau
-*(Klen-sew)*
->[!info]+ Information
-> pop. 1,189
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Cleenseau is a small market town of twelve hundred souls, nestled on the north bank of the River Enst. Situated at a major crossing of the river, it is a natural gathering place and trade crossroads. The reason for the town’s existence, and most important feature, is the massive stone bridge over the River Enst, the [[Cleenseau Bridge]]. Built a thousand years ago by the Drankorians (or perhaps, even longer ago by the giants, some scholars say), it is wide enough for eight oxen; it spans the 1200 feet of the Enst in ten graceful arches.
 

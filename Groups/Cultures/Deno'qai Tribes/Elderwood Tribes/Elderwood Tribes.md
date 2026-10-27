@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the, boxInfo: "<partOf:1UA> <typeof:UA>", wHome: ""}
@@ -11,9 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Elderwood Tribes of the Deno'qai
->[!info]+ Information  
-> A [[Deno'qai]] cultural group
+```taelgar-header
+```
 
 On the southern edge of [[Ainumarya]] stands the [[Elderwood]], an ancient forest that avoided the worst destruction and death during the [[Conclave War]]. This forested region, south of the [[Chasa River Valley]], has been settled by [[Deno'qai]] tribes for generations uncounted, many of whom continue to live traditional lives in the forest. 
 

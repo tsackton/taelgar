@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {wPastHome: "Destroyed on <endDate> by [[Riswynn]] and companions", wHome: "", dPastHasStart: "", dCurrent: ""}
@@ -17,11 +16,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Morkalan
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Morkalan, known as the Land of the Dishonored Dead, is a rumored domain of despair and deathless life. 
 

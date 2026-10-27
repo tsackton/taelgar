@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: "killed in battle against [[Grash|Grash's]] armies"}
@@ -24,13 +23,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Commander Vorgaz
->[!info]+ Biographical Info
-> an [[Orcs|orc]] (he/him), of the [[People of the Rainbow]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Dunmar Fellowship]] on December 4th, 1748 in [[Khumarz]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
+```taelgar-header
+```
 
 Vorgaz was a skilled [[Orcs|orc]] warrior and the commander of the garrison at [[Khumarz]], on the western border of [[Xurkhaz]], known for his tactical brilliance but lack of political acumen. 
 

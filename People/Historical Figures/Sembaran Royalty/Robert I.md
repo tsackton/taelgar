@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/clee, status/check/lint]
@@ -18,11 +17,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# King Robert I
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Sewick]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A ruler of Sembara, son of [[Cece I]].  He was never crowned king of Tyrwingha when his mother died, that honor going to his cousin [[Elaine II]]. 
 

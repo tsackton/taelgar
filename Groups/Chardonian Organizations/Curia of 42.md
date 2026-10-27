@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -10,10 +9,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# The Curia of 42
->[!info]+ Information  
-> A [[Chardonian Empire|Chardonian]] political body  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Curia of 42 is the elected assembly of Chardon. Although the Curia has limited political power, with the vast civil bureaucracy of the [[Chardonian Empire]] functionally controlled by the Magistros, it still retains the power to regulate the charter monopolies via the [[Chamber of Stamps]]. 
 

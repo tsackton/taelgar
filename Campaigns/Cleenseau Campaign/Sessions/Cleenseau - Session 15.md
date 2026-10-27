@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 15
@@ -13,7 +12,8 @@ tagline: in which the party restores defenses and arrests an extortionist
 sessionKey: cleenseau-session-15
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 15
+```taelgar-header
+```
 
 The party returns to [[Cleenseau]], reunites with Izgil, incorporates survivors from the [[Army of the South]] into local defenses, and prepares the garrison for further magical threats. A new-moon rising of undead is defeated, and the party later exposes [[Gareth of Tollen]] as a fraudulent tax collector and bandit.
 

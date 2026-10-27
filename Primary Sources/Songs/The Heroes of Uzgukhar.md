@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [source, status/check/lint]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Heroes of Uzgukhar
+```taelgar-header
+```
 
 A praise song sung by the [[People of the Rainbow]] about the [[Battle for Uzgukhar]], particularly sung
 to celebrate the victory of the [[Dunmar Fellowship]] over [[Grash]]. 

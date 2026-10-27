@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [power, religion/tanshi]
@@ -10,10 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Istari
-*(ees-TAH-ree)*
->[!info]+ Information  
-> A [[Tanshi|tanshi]]
+```taelgar-header
+```
 
 The tanshi of intense fire, and especially the forest fires that renew the land. Typically gifted offerings of ash or charcoal, and particularly likes wood that has been burned for a purpose, to cook or give heat or light.
 

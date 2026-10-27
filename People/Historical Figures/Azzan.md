@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Azzan
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 Azzan was a hero and general remembered in stories of the [[Great War]]. He fought against [[Cha'mutte]] alongside [[Ikos]], a Chardonian friend and ally.
 

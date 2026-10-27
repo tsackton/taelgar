@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,12 +12,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# Auloutte
-*(OO-loot)*
->[!info]+ Information  
-> pop. 102  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A poor fishing village on the banks of the [[Enst]], a short walk from [[Cleenseau]]. It is nestled on reclaimed marsh between the [[Great South Road]], [[Amance Brook]], and the [[Enst]]. About a mile downriver from Cleenseau, just before the road crosses the Amance, it is part of the [[Manor of Cleenseau]]. About a dozen boats fish for river trout in the spring and summer, from a makeshift dock rebuilt each April. The twenty houses here flood at times, save for the sturdy mill, built on the banks of the [[Amance Brook]], and the small temple of the Warlord built next to the mill. 
 

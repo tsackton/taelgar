@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,12 +11,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-
-# The Manor of Valit
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Manor of Valit is part of the demesne of the Baron of Aveil and has been in baronial hands for many years.  It is mostly known for two things: its three mills, and as the main place for baronial land records in the [[Cleenseau Region]]. Although the manor itself is relatively large, [[Amance Brook]] runs through the middle of the manor, and much of the land to the east of the brook is hilly and hard to farm (and hard to get to from the village over the one small wooden bridge in [[Valit]]).
 

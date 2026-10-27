@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -12,9 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Heloise of Tollen
->[!info]+ Biographical Info  
-> A [[Tollen|Tollish]] [[Humans|human]] (she/her)
+```taelgar-header
+```
 
 Heloise of Tollen is a theological cosmologist and arcane mathematician. Based at the [[University of Tollen]], her most notable work is a careful mathematical study of the [[Plane of Creation]], which implies that it may be an infinitely dense mass of [[Soulstuff]], impenetrable to anything except the [[Divine Presence]].
 

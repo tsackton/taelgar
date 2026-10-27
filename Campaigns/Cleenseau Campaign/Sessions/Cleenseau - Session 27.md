@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Cleenseau
@@ -17,7 +16,8 @@ tagline: "in which the party gathers evidence and is accused of necromancy"
 sessionKey: cleenseau-session-27
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 27
+```taelgar-header
+```
 
 >[!info] Paranoia in Veltor: in which the party gathers evidence and is accused of necromancy
 > *Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moonseeker|Izgil]]*

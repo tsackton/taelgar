@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the, boxInfo: "One of the <partOf:1UA>", wHome: ""}
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# The Bek'eni
-*(BEHK-en-ee)*
->[!info]+ Information  
-> One of the [[Elderwood Tribes|Elderwood Tribes of the Deno'qai]]
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Bek'eni are one of the major [[Deno'qai]] tribes based in the [[Elderwood]]. Historically, they were largely hunters, foresters, and trappers, extensively trading and intermarrying with the [[Baz'aku]], but under the sway of [[Mezzar]] they became deeply isolationist and mistrusting. Since the unmasking of [[Mezzar]] as the green dragon [[Mezzar|Grimbaskal]], and his death at the hands of the [[Dunmar Fellowship]], the Bek'eni have struggled to recover. 
 

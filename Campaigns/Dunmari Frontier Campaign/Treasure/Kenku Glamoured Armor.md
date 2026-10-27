@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "", wOriginU: "", defArt: ""}
@@ -18,12 +17,8 @@ whereabouts:
 knownTo: [dufr]
 POV: modern
 ---
-# Kenku Glamoured Armor
->[!info]+ Information  
-> (very rare [[Kenku]] magical armor)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/5793008-kenku-studded-leather-enhanced)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[kenku-glamoured-armor-wellby.jpg|right|400]]This suit of studded leather armor is glamoured with illusion magic. While worn, its appearance adapts to the wearer, and can be controlled at will when attuned.
 

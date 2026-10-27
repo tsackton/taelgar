@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,11 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Yeraad Marshes
-*(yeh-RAHD)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The wetlands and marshes of the lower [[Yeraad Watershed]], home to some of the largest lizardfolk communities south of [[Chardon]].
 

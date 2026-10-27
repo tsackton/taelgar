@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -14,10 +13,8 @@ dm_owner: player
 dm_notes: none
 POV: 1749
 ---
-# Geo
->[!info]+ Biographical Info
-> A bear (spirit)
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Geo is one form of [[Ryu]]'s shapeshifting beast companion, a primal spirit also known as [[Turk]] in shark form and [[Blu]] in osprey form.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/lint]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Timeline of the Northern Deno'qai
+```taelgar-header
+```
 
 How the [[Deno'qai]] came to live in the northern forests, north of the [[Blackwater Fens]] and inland from the coast, is not recorded. But the Deno'qai lived here for time immemorial, largely in peace (it is said), before [[Cha'mutte]] established himself in Pandar in the 1400s. 
 

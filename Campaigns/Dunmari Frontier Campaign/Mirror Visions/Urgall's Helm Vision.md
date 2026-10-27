@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: "Urgall's Helm Vision"
 POV: 1748
 ---
-# Urgall's Helm Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 
 You hold the helm up to the mirror, and the scene fades for a moment. 

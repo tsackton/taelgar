@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -15,11 +14,8 @@ dm_owner: mike
 dm_notes: none
 POV: 1730
 ---
-# The Kemeko Monastery
-*(keh-MEH-koh)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Kemeko Monastery is a secluded stronghold on the north side of the [[Great Chasm]], reached by descending the giant‑carved stairways to a level far below the river channel. It is a difficult journey for those without wings -- sometimes taken over two days of descent. Though often called a monastery by outsiders, those who visit find it is better described as a secretive training ground for a secluded group of kenku who practice military arts in the winds and updrafts of the [[Great Chasm]]. 
 

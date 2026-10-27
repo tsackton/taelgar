@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -16,11 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Message Stone
->[!info]+ Information  
-> ([[Drankorian Empire|Drankorian]] magic wondrous item)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Drankorian message stones are typically polished stone, about the size of a halfling's fist, marked with arcane sigils. They were created in large numbers by Drankorian wizards to help manage the [[Drankorian Empire]]. Although possible to destroy with dedicated effort, many survived the [[Fall of Drankor]] and can be scattered across the old territories of the empire.
 

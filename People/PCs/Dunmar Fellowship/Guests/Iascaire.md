@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
@@ -19,10 +18,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Iascaire
->[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (he/him), of the [[Ko'zula]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A Deno’qai druid and devotee of the tanshi [[Istari]], the spirit of intense fire, and especially the forest fires that renew the land. Expert fisherman; travels with a wildfire companion. After bidding [[Delwath]] farewell, returned to his role among the Deno’qai of the [[Ko'zula]] tribe.
 

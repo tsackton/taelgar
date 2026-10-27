@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -19,12 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Morgana Stoneclaw
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (hag) (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Killed by the [[Silver Tempests]] on December 16th, 1747 in the [[Vangebekkr|ice caves below Vangebekkr]], the [[Sentinel Range]] %%^End%%
+```taelgar-header
+```
 
 Morgana Stoneclaw, later known as Morgana Frostclaw, was a hag of the mountains. For many years, she made a home in the [[Yuvanti Mountains]], where she tricked, corrupted, and manipulated the [[Dwarves|dwarves]] of the small mountain villages, seeking to cause strife wherever possible. Rarely making herself known, she preferred to work through disguise and subtle manipulation. It was here, in the dwarven village of [[Narazara]], that she encountered [[Adrik]], who would later become her destroyer.
 

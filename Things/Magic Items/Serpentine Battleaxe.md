@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: "Unmade by the [[Addermarch Mercenaries]] with [[Trueflame]] on"}
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# The Serpentine Battleaxe
->[!info]+ Information  
-> (Avatan magic weapon)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Serpentine Battleaxe was a heavy, magically sharp battleaxe set with sinuous green [[Serpentine|serpentine]] along the haft and head, forged in the era of the [[Dominion of Avatus]]. It bore significant similarity to the [[Serpentine Dagger]]; both weapons were tied to the [[Serpentine Wars|Avatus-era wars]] and carried enchantments that twisted their wielders toward obsession, isolation, and escalating violence.
 

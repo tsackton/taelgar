@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags:
   - session-note
 campaign: Mawar Adventures
@@ -20,7 +19,8 @@ sessionKey: mawar-adventures-session-5
 session-template: mawar-template.md
 websiteSessionView: zoomable
 ---
-# Mawar Adventures Episode 05
+```taelgar-header
+```
 
 >[!info] The Lost Legacy: in which the ocean's lost song is freed
 > *Featuring: [[Ryu]], [[Wazir]], [[Trok]], [[Nerissa]], [[Ander]]*

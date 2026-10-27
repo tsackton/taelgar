@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,13 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Piri
-*(PEER-ee)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Piri served as a soldier at [[Torvaine Watch]], remembered for his cheerful songs and woodcarving talents that brightened long winter postings. Marshal [[Hildo Brask]]’s unfinished condolence letter records his accidental death shortly before the watch fell to the curse of the [[Serpentine Dagger]].
 

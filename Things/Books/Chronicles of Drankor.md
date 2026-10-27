@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, by )author:x>", startStatus: Completed in}
@@ -16,12 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Cavarrio's Chronicles of Drankor
-*(kah-VAHR-ree-oh)*
->[!info]+ Information  
-> A [[Chardonian Empire|Chardonian]] historical chronicle, by [[Cavarrio|Cavarrio of Chardon]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The *Chronicles of Drankor* is an extensive history and chronicle of the Drankorian Empire. It is typically considered the most comprehensive source on Drankorian chronology by the [[Faculty of History]], and is a standard part of their curriculum. It was written by the Chardonian scholar [[Cavarrio]] in DR 1209.
 

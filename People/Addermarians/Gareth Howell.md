@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -21,13 +20,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1715
 ---
-# Sir Gareth Howell
-*(GAR-eth HOW-ell)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on April 30th, 1715 in the [[Torvaine Forest]], [[Addermarch]] %%^End%%
+```taelgar-header
+```
 
 Gareth Howell is the captain of Lady [[Elowen Duval]]’s household guard, responsible for patrols and protection of the uplands. He serves loyally and is devoted to the Duval family and the people she is responsible for. 
 ## Events

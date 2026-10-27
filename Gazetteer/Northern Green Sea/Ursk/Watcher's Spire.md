@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Watcher's Spire
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 
 The Watcher’s Spire rises above [[Zvervinka]]’s upper city, a fortress‑tower of rune‑scribed stone serving the [[Eyes of Vedmakov|Watchers]]. More than a symbol, the Spire functions as a seat of training and oversight for those who guard Ursk against supernatural threats. Its wards glow faintly by night, and its halls are said to contain a modest archive of reports, maps, and occult references relevant to frontier defense.

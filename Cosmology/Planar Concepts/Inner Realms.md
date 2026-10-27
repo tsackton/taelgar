@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Inner Realms
+```taelgar-header
+```
 
 The Inner Realms are a concept proposed by [[Yendalism|followers]] of the [[Stoneborn|stoneborn]] metaphysicist [[Yendalo]], that represent the collection of planes that are contained within the bounds of the [[Land of the Dead]] (contrast with the [[Outer Realms]], those on the far side of the [[Land of the Dead]]). These include the [[Material Plane]], the [[Feywild]], the [[Dreamworld]], and the [[Plane of Souls]], as well as the [[Energy Realms]], the [[Plane of Magic]], and various [[Demiplanes]]. 
 

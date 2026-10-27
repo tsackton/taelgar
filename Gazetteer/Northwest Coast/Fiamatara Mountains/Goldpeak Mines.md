@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Goldpeak Mines
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 An extensive and poorly mapped network of ancient Dwarven works under [[Goldpeak Mountain]] and adjacent peaks in the [[Fiatara Mountains]], abandoned during or shortly after the [[Great War]] and later occupied by monsters.
 

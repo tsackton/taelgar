@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-29T18:22:03-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/ai]
@@ -11,10 +10,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The North Gate of Cleenseau
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A gate in the north side of the walls of Cleenseau, near the North Close. Open during the day but shut at night, and used mostly by farmers heading to their fields. 
 

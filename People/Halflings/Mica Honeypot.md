@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -16,11 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Mica Honeypot
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by [[Riswynn]] on May 31st, 1748 on the [[Yuvanti Mountains|road between Tharn Todor and Nayahar]] %%^End%%
+```taelgar-header
+```
 
 Mica Honeypot is a halfling trader, and the husband and traveling companion of [[Jenny Honeypot]].
 

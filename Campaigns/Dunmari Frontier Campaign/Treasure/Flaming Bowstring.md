@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -15,12 +14,8 @@ whereabouts: Wellby
 knownTo: [dufr]
 POV: modern
 ---
-# Flaming Bowstring
->[!info]+ Information  
-> (uncommon [[Dunmar|Dunmari]] magical weapon)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/8705290-flaming-bowstring)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[flaming-bowstring-wellby.png|right|400]]This Dunmari bowstring is made of a fine silk thread, enchanted and blessed by [[Aagir]]. The magic of the thread means it can be attached to any bow or crossbow, and will grow or shrink as needed to fit. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 4
@@ -11,7 +10,8 @@ name: Addermarch Campaign - Session 4
 tagline: in which the party confronts goblins and traps
 descTitle: Goblin Lair Assault
 ---
-# Addermarch Campaign - Session 4
+```taelgar-header
+```
 
 >[!info] Goblin Lair Assault: in which the party confronts goblins and traps
 > *Featuring: [[Yvan Greenrabbit|Yvan]], [[Drou]], [[Fazoth de Brune|Fazoth]]*

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,11 +12,8 @@ whereabouts: Celyn
 knownTo: [clee]
 POV: modern
 ---
-# Cloak of Concealment
->[!info]+ Information  
-> (magic cloak)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[ranger-cloak-of-concealment.png|right|320]]A finely made green and white cloak found in a Ranger’s chest in the ruined hobgoblin fort under [[Cleenseau]]. Likely dates from the early 1600s.
 

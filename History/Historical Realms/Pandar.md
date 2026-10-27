@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -10,9 +9,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Pandar
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Pandar was the secretive northern kingdom ruled by [[Cha'mutte]] and used as a staging ground for his armies. Sustained almost entirely by magic, Pandar collapsed upon Cha'mutte's death.
 

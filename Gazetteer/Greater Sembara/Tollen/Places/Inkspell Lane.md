@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Inkspell Lane
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Inkspell Lane is a street in [[Southbridge]] that forms the center of [[Tollen]]’s tattoo trade, lined with tattoo parlors and studios. Many of the most prosperous and skilled tattoo artists in the city, especially those who work with magical inks and [[Tollen Magical Tattoo|enchanted tattoos]], keep their shops along Inkspell Lane.
 

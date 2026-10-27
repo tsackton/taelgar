@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Ozabal
-*(oh-SAH-bahl)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A large area of swampy lowlands centered around the confluence of the [[Wistel]] and the [[Enst]], which is home to a substantial [[Lizardfolk]] population. The lower [[Enst]] becomes marshy and treacherous in Ozabal. Here the Enst and [[Wistel]] mingle through the wetlands before their combined waters reach the [[Western Gulf]]. Little river traffic passes downstream beyond [[Eskbridge]], but despite the difficulties of navigating the swamp, most lizardfolk communities of the Ozabal maintain close ties with the neighboring [[Duchy of Wisford]].
 

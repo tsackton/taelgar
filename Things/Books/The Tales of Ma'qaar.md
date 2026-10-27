@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Tales of Ma'qaar
-*(mah-KAHR)*
->[!info]+ Information  
-> A [[Deno'qai]] epic poem  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 *The Tales of Ma'qaar* is a [[Deno'qai]] epic ballad, collecting a series of tales and poems of strange timeless realms, presumed to be the Feywild, attributed to a possibly-mythical Deno'qai storyteller and bard. Ulfgar Frostbeard's *Fey Discourses* in the [[The Lore of the Feywild]] preserves one of the only recorded versions, pieced together from the unpublished notes of [[Eukos the Wanderer]].
 

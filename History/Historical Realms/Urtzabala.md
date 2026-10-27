@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:10:54-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Urtzabala
-*(oor-tsah-BAH-lah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Urtzabala was the vast wetlands, home to many large [[Lizardfolk|lizardfolk]] communities, that covered much of what is now the [[Western Gulf]], along with the lowlands that later became the [[Enst]] and [[Wistel]] river valleys.
 

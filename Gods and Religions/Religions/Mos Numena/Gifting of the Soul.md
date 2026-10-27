@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [background, religion/mosnumena]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Gifting of the Soul
+```taelgar-header
+```
 
 The Gifting of the Soul is a concept from [[Mos Numena]] theology that describes the divine miracle by which a living being receives a soul at birth. It is the counterpart to the [[Gathering of the Soul]], the miracle by which the soul of the dead is drawn into the [[Land of the Dead]].
 

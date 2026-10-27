@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1719
 ---
-# Izoko
->[!info]+ Biographical Info
-> A [[Lizardfolk|lizardfolk]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:clee%% Met by the [[Heroes of Cleenseau]] on October 28th, 1719 in [[Ganboa]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
+```taelgar-header
+```
 
 ![[lizardfolk-Izoko.png|right|320]]A young lizardfolk, sweet on [[Gentza]]. He is a skilled fisherman but not so skilled at keeping secrets.
 

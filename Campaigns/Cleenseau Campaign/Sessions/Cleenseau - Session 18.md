@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 18
@@ -13,7 +12,8 @@ tagline: in which an assassination attempt leads into a fey conspiracy
 sessionKey: cleenseau-session-18
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 18
+```taelgar-header
+```
 
 The party survives an ambush outside [[Veltor]] and investigates who hired the attackers. Inside the town, they find [[Damien Montrichard]] accused of the crime, [[Sabine de Brune]] under guard, and evidence that a shapeshifting fey has infiltrated the Baroness's household.
 

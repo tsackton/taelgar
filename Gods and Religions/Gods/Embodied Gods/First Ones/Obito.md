@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, religion/halflings]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# Obito
-*(oh-BEE-toh)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]] (they/them)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Obito, the Music Maker/Merchant, reflects joy, community, friendship, creativity, creation, commerce, and trade.
 

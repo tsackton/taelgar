@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed by spiders}
@@ -19,11 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Edur
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The brother of [[Erdu]].
 

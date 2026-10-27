@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,12 +14,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720
 ---
-# Corrin Merriweather
-*(KOR-in MERR-ee-weh-ther)*
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (he/him), of the [[Merriweathers]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[corrin-merriweather.png|left|200]]
 

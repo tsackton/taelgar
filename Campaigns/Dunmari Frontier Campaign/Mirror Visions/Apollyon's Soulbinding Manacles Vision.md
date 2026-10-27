@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: "Apollyon's Soulbinding Manacles Vision"
 POV: 1749
 ---
-# Apollyon's Soulbinding Manacles Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 For a moment, the room goes dark, and you see [[Apollyon]] standing with his back turned, viewed from the perspective of the manacles. He is standing by the forge, wearing the [[Crown of Purity|crown]] that you have previously seen [[Fausto]] possess, along with the [[Cloak of Rainbows|Cloak of Rainbows]]. [[Apollyon]] is hammering something on the forge, working some kind of metal, periodically turning to inspect a partially forged dagger. The [[Apollyon's Phylactery|dagger]] appears very plain, with an unadorned iron hilt, but the blade seems to be made of layers upon layers of metal that has been beaten, worked, and sharpened. And there's writing on the blade, which seems to be part of some incantation or spell. The forging continues, and then stops again. [[Apollyon]] he takes like this sheet of this strange-looking metal--[[Seeker]] recognizes it as adamantium, the same metal that holds the [[Phasing Stones|phasing stone]] in place on [[Vindristjarna]]. Letters appear on this thin sheet of this metal, by magic, and [[Apollyon]] puts the dagger down and  wraps the metal around it. And he starts beating it again. This goes on for a while. It seems like he's just doing layer after layer. He's putting some spells on it and then beating something into the dagger.
 

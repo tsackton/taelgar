@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "", wOriginU: "", defArt: ""}
@@ -12,10 +11,8 @@ name: Liquid Wood
 knownTo: [dufr]
 POV: modern
 ---
-# Liquid Wood
->[!info]+ Information  
-> (unique [[Fey]] magical wonderous item)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A strange, putty-like substance that seems to ooze and bubble slowly, almost maliciously. Apparently an invention of the hag [[Agata|Agata Dustmother]], used to transform humanoids into wooden puppets.
 

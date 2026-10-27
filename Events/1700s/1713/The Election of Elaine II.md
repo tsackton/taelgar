@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,9 +10,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The Election of Elaine II
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 On June 3rd, 1713, [[Cece I]] finally passed after several months of illness. Her son, [[Robert I]], was her only surviving offspring, and her named heir. However, the [[Oracle of the Riven|Oracles]] of Tyrwingha, for mysterious reasons, refused to elect him, electing [[Elaine II]] Queen of Tyrwingha instead.
 

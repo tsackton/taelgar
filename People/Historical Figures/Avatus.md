@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,11 +14,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Emperor Avatus
->[!info]+ Biographical Info  
-> (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Avatus, styling himself the Emperor of New Drankor, ruled the [[Dominion of Avatus]] for 230 years until his defeat at the hands of [[Derik I]]. Despite his long lifespan, no reliable information exists concerning his true nature, or even his species. Rumors abound, however: he was a powerful undead; he was an elf who forsake the Firstborn; he was not one person but a series of leaders taking the same name; he made a bargain with a devil for eternal life; he was a powerful wizard who could cheat time itself. 
 

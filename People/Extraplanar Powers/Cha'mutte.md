@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [power, status/review, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Cha'mutte
-*(SHAH-MUTT)*
->[!info]+ Information  
-> An elder wyrm (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 %%  status/review ->  should probably capture more information about motives and the backstory of the Great War, and whatever details we remember of Cha'mutte's appearance and form in battle among other things from high school, to at least have consistent things to drop into games where interesting - although of course cha'mutte's appearance varies and is scary enough that people would report variable rumors. also lots of secret notes in various places that could usefully be consolidated, some of which should be listed behind dufr campaign section to capture information the dunmar party has learned but might need a quick way to reference %%
 

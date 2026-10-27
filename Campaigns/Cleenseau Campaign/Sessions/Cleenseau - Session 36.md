@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Cleenseau
@@ -17,7 +16,8 @@ tagline: "in which the party rescues some Rangers from an unstable overlap with 
 sessionKey: cleenseau-session-36
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 36
+```taelgar-header
+```
 
 >[!info] The Shadow-Weasel Labyrinth: in which the party rescues some Rangers from an unstable overlap with Limbo
 > *Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moonseeker|Izgil]]*

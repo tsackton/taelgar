@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -23,14 +22,8 @@ dm_owner: joint
 dm_notes: none
 POV: 1740s
 ---
-# Vahaiya
-*(va-HAI-ya)*
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (they/them), ([[Elven Cycle of Generations|ka]] 36)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on January 15th, 1748 in [[Erelion]], [[Orenlas]] %%^End%%
+```taelgar-header
+```
 
 %% Original frontmatter annotation between `born: 1532` and `ka: 36`:
 # leya of ka 36

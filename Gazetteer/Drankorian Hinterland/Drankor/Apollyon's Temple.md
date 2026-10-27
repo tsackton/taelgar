@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Apollyon's Temple
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Apollyon's Temple is a vast structure in [[Drankor]], raised during Apollyon’s reign, as a monument and focus for his quest to become a god. The main hall is carved with iconography of worshippers in reverence, with a central altar and side chapels that once displayed the regalia and relics of his cult. After Apollyon’s fall the temple became a prison to contain him, magically sealed in the jungle‑covered city.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [group]
@@ -9,10 +8,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Labyrinth Prisoners
->[!info]+ Information  
-> An adventuring party  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Labyrinth Prisoners were an ad hoc adventuring party formed by four captives of [[Grimstone|Grimstone's]] prisoner-taking operation at [[Perdoli Manor]] in [[Western Cymea]]. They came from different roads and backgrounds, but all were taken by goblin raiders and woke in a crude prison cell in the manor's abandoned smithy on October 17th, 1748.
 

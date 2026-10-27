@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# The Edge of Echoes
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Edge of Echoes is a cave complex on the [[Freccilia|Freccilia River]] in the interior of the [[Cymean Peninsula]]. The site has a reputation for strange reflections and half‑heard voices, often in the form of distant half-felt breezes and whispers on the wind. While rumors sometimes cast the Edge of Echoes as “haunted,” learned scholars attribute the phenomena to planar bleed: whisper‑echoes on strange breezes and a chill that tastes of winds from other skies.
 

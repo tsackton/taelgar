@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the, partOf: ""}
@@ -13,10 +12,8 @@ dm_owner: mike
 dm_notes: color
 POV: modern
 ---
-# The Stonebridges
->[!info]+ Information
-> A [[Halflings|halfling]] family
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 %% Frontmatter note for created: 1200
 # date is approximate

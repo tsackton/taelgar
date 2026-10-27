@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/ai]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Crystal Cavern
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Crystal Cavern lies at the end of a dry, rocky canyon where a sluggish river threads between jagged cliffs. The cave mouth is hard to miss from the canyon floor. Inside, the first hall still bears the scars of an old skirmish: two waist-high rubble heaps and a collapsed eastern tunnel coated in lingering dust. Faded lantern hooks and soot marks show where the orcs once tried to keep the place lit.
 

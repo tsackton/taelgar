@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# The Plataca Hills
-*(PLAH-tah-kah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A line of hills and a few short mountains that runs along the western coast of Cymea. Rich veins of silver were once mined from these hills, but the accessible deposits were exhausted long ago.
 

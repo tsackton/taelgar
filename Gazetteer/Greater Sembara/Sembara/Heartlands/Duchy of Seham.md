@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags:
   - place
 campaignInfo:
@@ -10,9 +9,7 @@ dm_notes: color
 dm_owner: none
 typeOfAlias: duchy
 ---
-# The Duchy of Seham
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% (Mike) has some color info in his head but nothing critical - could be ignored if this came up in a game %%

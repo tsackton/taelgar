@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -10,11 +9,8 @@ whereabouts: Seeker
 knownTo: [dufr]
 POV: modern
 ---
-# The Cha'mutte's Shadow Armband
->[!info]+ Information  
-> (legendary wondrous item)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[shadow-armband.png|right|400]]An armband created by Cha’mutte and used to open portals to shadow realms during the [[Great War]]. The armbands were created in pairs, with each pair attuned to a particular shadow realm, allowing portals to be opened a great distance apart in Taelgar that could be spanned in a short amount of time by crossing through the pocket dimension. 
 

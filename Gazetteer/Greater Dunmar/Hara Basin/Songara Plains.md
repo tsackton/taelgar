@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Songara Plains
-*(sohn-GAH-rah playnz)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Songara Plains are the open grasslands surrounding [[Songara]] in northwestern [[Central Dunmar]]. Broad, windswept and relatively level, the plains support the famed Dunmari horses, along with a wide variety of other grazers, domesticated and wild. Seasonal rains arrive first on the western heights and then sweep east, turning the brown steppe into a quilt of greens before the grasses cure again.
 

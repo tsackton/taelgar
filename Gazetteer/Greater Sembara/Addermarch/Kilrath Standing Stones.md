@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Kilrath Standing Stones
-*(kil-RATH STAN-ding stohnz)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 
 The Kilrath Standing Stones are a ring of weather‑worn megaliths set on a low hill in the [[Stonewolds]] of western [[Carlinshire]]. Lichens and knife‑marks cover the stones; in mist the circle seems larger than it is, and birds avoid alighting within. Local tales insist the hill is a meeting place for old powers, or a warning of dangers from the [[Feywild]]. The surviving uprights describe an uneven ring with a toppled lintel near the east. Traces of ancient carving, mostly eroded, suggest an ancient origin, predating the Drankorian Empire. 

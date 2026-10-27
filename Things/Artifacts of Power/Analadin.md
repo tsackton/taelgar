@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 tags: [object, status/check/lint]
@@ -13,12 +12,8 @@ dm_owner: joint
 dm_notes: important
 POV: modern
 ---
-# Analadin
->[!info]+ Information  
-> (unique staff)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A staff carried by [[Beryl]] during the Great War, now said to be part of the [[Fox and Hunter]]. It was said to have granted [[Beryl]] extraordinary perception and willpower.
 

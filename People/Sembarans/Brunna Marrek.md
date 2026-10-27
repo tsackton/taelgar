@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720
 ---
-# Brunna Marrek
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A gruff woman who runs the [[Granite Mug]] in [[Veltor]]. She is fond of gossip and quick to lean on a heavy wooden ladle she keeps at hand. Known to be practical, not especially trusting of nobility, and surprisingly well-informed about local guard movements.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [religion/mosnumena, background, status/check/lint]
@@ -8,7 +7,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Mawaran Religion
+```taelgar-header
+```
 
 %% does not yet incorporate notes about funerary traditions, but there is some brainstorming here %%
 

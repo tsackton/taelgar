@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,13 +19,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Pearl Brightmoon
->[!info]+ Biographical Info
-> a [[Halflings|halfling]], she/her of the [[Brightmoons]]
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Wellby]] on September 30th, 1748 in the [[Wave Dancer]] %%^End%%
->> %%^Campaign:dufr%% Last seen by [[Wellby]] on October 12th, 1748 in the [[Wave Dancer]], [[Wahacha]], the [[Vermillion Isles]], [[Eastern Isles]] %%^End%%
+```taelgar-header
+```
 
 Pearl is a halfling woman in her prime, who serves as the captain of the guard and first mate on the Wave Dancer. She is well-muscled, and clearly good with a rapier.
 ## Relationships

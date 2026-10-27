@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -14,10 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Terrageum Virion
->[!info]+ Information  
-> A cosmological treatise, written before [[The Downfall]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 *Terrageum Virion*, often translated as "The Geography of Wonder," is an ancient book on the [[Feywild]]. The largest surviving fragment is preserved in [[The Lore of the Feywild]], where Ulfgar Frostbeard treats it as an important rare source within the *Fey Discourses*.
 

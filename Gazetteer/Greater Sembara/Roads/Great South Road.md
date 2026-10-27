@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {linkText: "on"}
@@ -11,10 +10,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The Great South Road
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 An ancient road that runs from [[Tollen]] through [[Embry]] to [[Cassons]], and then onward into the [[Plaguelands]]. It is said to still be in good repair as far south as [[Isingue]], and before the Great War, continued almost 2500 miles to [[Drankorian Empire|Drankor]] itself.
 

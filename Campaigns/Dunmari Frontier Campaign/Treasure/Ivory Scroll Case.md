@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -8,10 +7,8 @@ name: Ivory Scroll Case
 knownTo: [dufr]
 POV: modern
 ---
-# The Ivory Scroll Case
->[!info]+ Information  
-> (scroll case)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 An elaborate ivory scroll case. This once contained a scroll of demon summoning, given to the leader of the [[Fraternity of the Empty Moon]] by [[Agata|Agata Dustmother]], in partial payment for the [[Scepter of Command]]. The scroll this case once contained was used to summon [[Oduk]], a demon of the Abyss, to create a gnoll army, provoking the [[Summer Gnoll Raids of 1748]] and allowing the [[Fraternity of the Empty Moon]] to slip into [[Tokra]] undetected, with the waves of refugees.
 

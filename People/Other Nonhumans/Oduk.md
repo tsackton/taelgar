@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -16,11 +15,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Oduk
->[!info]+ Biographical Info  
-> A demon (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Banished back to the Abyss by the [[Dunmar Fellowship]] on April 12th, 1748 in [[Raven's Hold]], the [[Sentinel Range]] %%^End%%
+```taelgar-header
+```
 
 Oduk is a demon created with the ability to corrupt animals into gnolls. 
 

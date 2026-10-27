@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [background, status/gameupdate/dufr]
@@ -9,7 +8,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1749
 ---
-# Seeds of Chaos
+```taelgar-header
+```
 
 %%^Campaign:dufr%%
 The Seeds of Chaos are a term used by the [[Heroes of the Great War|Hero of the Great War]] [[Rai]], and later by the Dunmari monks of the [[Order of the Awakened Soul]], to describe the fragments of extraplanar chaos scattered across the [[Plaguelands]], and perhaps elsewhere, by the death of [[Cha'mutte]]. Although the exact metaphysics of these seeds of chaos is not understood, [[Rai]] theorized that these fragments of [[Cha'mutte]]'s essence functioned as seeds through which [[Extraplanar Weak Point|extraplanar weak points]], or even [[Elemental Vortex|elemental vortexes]], connected to [[Limbo]] and the [[Abyss]] (the planes most associated with Cha'mutte), grew.

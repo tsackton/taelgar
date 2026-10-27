@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1640s
 ---
-# Landrel
->[!info]+ Biographical Info
-> An [[Elves|elf]] (she/her)
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Landrel is an elf and a member of the [[Rangers]]. She mentored [[Blue]], teaching her scouting and survival and helping her handle her unusual background and appearance.
 

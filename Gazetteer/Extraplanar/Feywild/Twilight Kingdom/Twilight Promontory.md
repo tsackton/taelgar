@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Twilight Promontory
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% Date conflict: this note and [[27th House]] use DR 1740-10-07 for the collapse and transition to the well, while [[Lost in the Feywild - Episode 07]] dates that scene to DR 1740-10-06. The Date markers are retained pending human reconciliation. %%
 

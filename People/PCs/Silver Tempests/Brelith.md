@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-13T13:45:21-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -22,13 +21,8 @@ dm_owner: player
 dm_notes: none
 POV: 1740s
 ---
-# Brelith Shockstone
-*(BREH-lith)*
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of the [[Shockstones|Shockstone Clan]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Brelith was born in [[Zarkandur]], the City of Gems in the dwarven kingdom of [[Am'khazar]], the third child of a rich and powerful Dwarven family, part of the [[Shockstones]], the ruling clan of [[Zarkandur]]. Brelith's childhood was uneventful, full of study of history and religion, learning from the best tutors under the proud eyes of his parents, [[Diesa]] and [[Osrik]]. It was a peaceful and priviledged, but boring, childhood, and Brelith often longed for more excitement in his life. After reaching adulthood, and discovering his connection to the [[Bahrazel|Bahrâzel]] and membership in the [[Priest Thuhr]], he decided to leave home to seek adventure and glory in the name of the [[Bahrazel|Bahrâzel]].
 

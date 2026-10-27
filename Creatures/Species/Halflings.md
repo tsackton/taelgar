@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [creature]
@@ -9,7 +8,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Halflings
+```taelgar-header
+```
 
 > [!image|hero]
 > ![[halflings-under-full-sail.webp]]

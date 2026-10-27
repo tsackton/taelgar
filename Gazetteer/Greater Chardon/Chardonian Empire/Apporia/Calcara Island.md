@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Calcara Island
-*(kahl-KAH-rah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
  Calcara is a small, rocky island off the coast of [[Castrella]]; its limestone cliffs contain numerous sea caves. %%^Date:1749%% As of DR 1749, the otherwise uninhabited island was home to Kazuro, a stoneborn hermit who lived in one of its caves. Kazuro's cave is lit by a pale blue glow and has a small dock and steps leading to his stone dwelling %%^End%%
 

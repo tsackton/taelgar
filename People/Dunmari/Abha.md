@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,13 +19,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# Abha
-*(AH-bhah)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on February 2nd, 1749 in the [[Copper Hills]] %%^End%%
+```taelgar-header
+```
 
 ![[abha-v2.jpg|right|400]]Abha is a [[Sonkar Mystai|mystai of Sonkar]], a truthspeaker who has the divine ability to see the true nature of the world. She is a powerful spellcaster and is often called to resolve difficult or complicated requests for judgement and justice. 
 

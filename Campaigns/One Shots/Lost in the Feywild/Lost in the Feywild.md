@@ -1,11 +1,11 @@
 ---
-headerVersion: 2023.11.25
 tags: [meta]
 hide: [toc]
 dm_owner: none
 dm_notes: none
 ---
-# Lost in the Feywild
+```taelgar-header
+```
 
 ![[feywild-campaign-summary-hero.png]]
 *Five travelers watch a hundred souls go home beneath the first stars of evening.*

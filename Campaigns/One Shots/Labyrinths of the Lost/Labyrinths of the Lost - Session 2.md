@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags:
   - session-note
 campaign: Labyrinths of the Lost
@@ -19,7 +18,8 @@ tagline: in which a sneaky path leads to ghostly clues
 sessionKey: labyrinths-of-the-lost-session-2
 session-template: lablost-template.md
 ---
-# Labyrinths of the Lost - Session 2
+```taelgar-header
+```
 
 >[!info] Into the Manor: in which a sneaky path leads to ghostly clues
 > *Featuring: [[Acescale]], [[Gaudin]], [[Loria Underbough|Loria]], [[Dilion]]*

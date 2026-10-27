@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Mawakel Peninsula
-*(mah-WAH-kehl)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Mawakel Peninsula is a land of contrasts and challenge. The peninsula is cut off from the mainland by steep, rocky mountains, making coastal travel the primary means of access. The center of the peninsula is dominated by the swift-flowing [[Sulqat]] river. Little of the river is navigable by ship, but the salmon run on the [[Sulqat]] is a major source of food and wealth for the Mawar and most of the inland settlements on the peninsula are on this river. 
 

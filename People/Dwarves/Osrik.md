@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,13 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Osrik Shockstone
-*(OS-rik SHOK-stohn)*
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of the [[Shockstones|Shockstone Clan]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on December 5th, 1747 in [[Zarkandur]], [[Am'khazar]], the [[Sentinel Range|Labkhan]] %%^End%%
+```taelgar-header
+```
 
 Osrik is a prominent and wealthy dwarf, one of the elite of [[Zarkandur]]. He is also [[Brelith]]'s father and [[Diesa]]'s husband.
 

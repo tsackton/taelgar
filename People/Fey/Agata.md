@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<subspecies> (<species:s>), <pronouns>"}
@@ -23,11 +22,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Agata Dustmother
->[!info]+ Biographical Info
-> hag ([[Fey|fey]]), she/her
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Imprisoned by the [[Dunmar Fellowship]] on November 15th, 1748 in the [[Heartwood Grove]], [[Amberglow]], the [[Feywild]] %%^End%%
+```taelgar-header
+```
 
 %% Original whereabouts annotation for {type: home, end: 1, location: Amberglow}:
 # amberglow not origin, just past home

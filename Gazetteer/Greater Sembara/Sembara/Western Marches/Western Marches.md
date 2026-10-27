@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -10,10 +9,8 @@ dm_owner: mike
 dm_notes: color
 POV: modern
 ---
-# The Western Marches
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Western Marches of Sembara encompass all of the lands west of the ancient baronies of [[Barony of Ainwick|Ainwick]] and [[Barony of Aveil|Aveil]]. The land suffered greatly in the [[Great War]], and the hobgoblin wars that followed, and has only slowly recovered. It is still sparsely populated, and the [[Army of the West]] is the dominant institution in the region. The two military baronies - [[Barony of Usbourg|Usbourg]] and [[Barony of Dunfry|Dunfry]] - were created during the reign of [[Cece I]].
 

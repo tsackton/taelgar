@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Selgrava
-
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Selgrava is a small river in [[Breva]] that joins the [[Teft]]. It is the first river to join the Teft south of the [[Great Chasm]], and the forests around the confluence with the Teft are home to the [[Vejo Vaikai]].
 

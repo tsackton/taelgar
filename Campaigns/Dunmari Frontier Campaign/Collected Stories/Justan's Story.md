@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:32:28-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -7,7 +6,9 @@ campaign: Dunmar Frontier
 name: "Justan's Story"
 POV: 1748
 ---
-# Justan's Story
+```taelgar-header
+```
+
 ([[Session 43 (DuFr)|collected by]] [[Kenzo]])
 
 [[Justan]] had a good life, once. He grew up north of [[Tokra]], traveled across the fertile plains with his family, raising horses. They weren’t famous or anything, but they did well, had plenty of food to eat, shelter from the weather, a good life. When the troubles started in the east, they wanted to help, and headed for [[Tokra]], trying to help feed and care for the refugees. 

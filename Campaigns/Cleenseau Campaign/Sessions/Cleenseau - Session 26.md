@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Cleenseau
@@ -17,7 +16,8 @@ tagline: "in which the party crosses the old forest and guards a planar exchange
 sessionKey: cleenseau-session-26
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 26
+```taelgar-header
+```
 
 >[!info] Delivering the Phylactery: in which the party crosses the old forest and guards a planar exchange
 > *Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moonseeker|Izgil]]*

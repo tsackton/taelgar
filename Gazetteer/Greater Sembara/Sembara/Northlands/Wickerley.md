@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -10,11 +9,8 @@ pronunciation: WICK-er-lee
 whereabouts: Duchy of Telham
 POV: modern
 ---
-# Wickerley
-*(WICK-er-lee)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Wickerley is a small, poor village in the [[Duchy of Telham]], about two days’ walk north of the [[Great South Road]]. Its barley has a modest reputation for quality, and two brewers supply the surrounding villages.
 

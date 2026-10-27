@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: petrified}
@@ -25,13 +24,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Arcus
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Discovered as a statue by the [[Dunmar Fellowship]] on March 25th, 1748 in the [[Dunmari Fort (Gomat)]] %%^End%%
+```taelgar-header
+```
 
 %% some canonical travel not captured in whereabouts yet %%
 

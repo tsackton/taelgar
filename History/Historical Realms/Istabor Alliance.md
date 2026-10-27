@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# The Istabor Alliance
-*(ees-tah-BOR)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 %% tagging check mike to see if there is anything from the brainstorming summary worth rewriting in human voice and bringing into the main note most relevant would probably be the formation as a defensive alliance against Avatus, the water-and-fertility magic , and some sense of the governance vibes%%
 

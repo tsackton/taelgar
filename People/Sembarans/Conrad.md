@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/ai]
@@ -16,12 +15,8 @@ dm_owner: mike
 dm_notes: none
 POV: 1720
 ---
-# Conrad
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:clee%% Met by [[Viepuck]] on October 23rd, 1719 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
+```taelgar-header
+```
 
 ![[conrard-cleenseau.png|right|320]][[Anselm|Anselm's]] assistant at the Temple of the Warlord. A young, rather shy man, who looks up to Anselm but has become fascinated by the [[Heroes of Cleenseau]]. He is the main organizer of the temple's charity, and knows the people of [[Beggar's Way]] relatively well. 
 

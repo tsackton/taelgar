@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [background, religion/mosnumena]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Gathering of the Soul
+```taelgar-header
+```
 
 The Gathering of the Soul is a term used in [[Mos Numena]] theology to describe the miracle by which the soul of a deceased individual is drawn from the [[Plane of Souls]] into the [[Land of the Dead]]. This passage is believed to be a birthright of the human condition and the counterpart to the [[Gifting of the Soul]] at birth. Thus, it is not usually treated as something that human prayer or ritual must cause. 
 

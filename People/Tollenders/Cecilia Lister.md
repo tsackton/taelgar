@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,13 +17,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Cecilia Lister
->[!info]+ Biographical Info  
-> A [[Tollen|Tollender]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
+```taelgar-header
+```
 
 %% mostly need to rewrite to pull information from secrets that no longer needs to be secret %%
 

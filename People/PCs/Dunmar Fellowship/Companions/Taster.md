@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "", wOriginU: ""}
@@ -20,11 +19,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1748
 ---
-# Taster
->[!info]+ Biographical Info  
-> A rabbit (they/them)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Taster, a brave rabbit, was briefly used as water taster and all around safety inspector by the [[Dunmar Fellowship]] during their adventures in and around [[Raven's Hold]]. Since lost, and now presumed dead.
 

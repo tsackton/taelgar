@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,12 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720s
 ---
-# Marceline Dupont
-*(mar-seh-LEEN dyoo-PON)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[marceline-dupont.jpg|left|200]]
 

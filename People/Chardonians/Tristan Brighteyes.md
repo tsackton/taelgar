@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,9 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Tristan Brighteyes
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)
+```taelgar-header
+```
 
 A young Windcaller and advisor to [[Mitus Verina Auratan]]. 
 

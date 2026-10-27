@@ -1,11 +1,11 @@
 ---
-headerVersion: 2023.11.25
 tags: [meta]
 name: "Into the Chasm: People, Places, and Organizations"
 dm_owner: mike
 POV: 1730
 ---
-# Into the Chasm: People, Places, and Organizations
+```taelgar-header
+```
 
 This page collects the cast, places, and groups recorded across the six episodes of [[Into the Chasm]]. Descriptions follow the adventure through its ending.
 

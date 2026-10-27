@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-05T14:32:22-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -15,12 +14,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Karguk
-*(kar-GOOK)*
->[!info]+ Biographical Info  
-> An [[Orcs|orc]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Karguk was an [[Orcs|orc]] chief of [[Uzgukhar]] and the father of [[Lubash]].
 

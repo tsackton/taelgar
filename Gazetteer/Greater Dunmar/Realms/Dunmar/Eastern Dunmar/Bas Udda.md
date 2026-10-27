@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Bas Udda
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A small village on the eastern side of the [[Red Mesa]], in the [[Karawa Desert]], originally settled in the aftermath of the [[Great War]]. Like many other villages of [[Eastern Dunmar]], such as [[Karawa]], Bas Udda sits on an oasis, which forms a large underground aquifer and provides water for a number of hardy, drought-resistant crops that grow here. The village itself is centered on the large Temple of the Siblings that provides an architectural anchor for the town.
 

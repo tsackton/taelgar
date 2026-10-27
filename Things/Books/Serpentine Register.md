@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, compiled )written:nx><(, compiled by )author>", startStatus: Compiled in}
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Serpentine Register
->[!info]+ Information  
-> An [[Addermarch|Addermarian]] register, compiled by the [[Rangers]] of [[Carlinshire]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Serpentine Register was a [[Rangers|Ranger]] record of known [[Serpentine]] weapons and their fates, compiled in the aftermath of the Addermarch fighting in the [[Serpentine Wars]].
 

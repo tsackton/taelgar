@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -8,7 +7,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Defeat of the Plague Trees
+```taelgar-header
+```
 
 A mysterious event in Dunmari history researched by [[Govir]].
 

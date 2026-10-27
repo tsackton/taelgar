@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-02T22:56:02-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,10 +12,8 @@ dm_owner: mike
 dm_notes: none
 POV: 1720
 ---
-# Cadogan
-*(ka-DOH-gan)*
->[!info]+ Biographical Info  
-> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (he/him)
+```taelgar-header
+```
 
 Cadogan is a [[Tyrwingha|Tyrwinghan]] traveler who was among the group [[Cleenseau - Session 20|rescued by the Heroes of Cleenseau]] along the [[Auberonne]] in February DR 1720.
 

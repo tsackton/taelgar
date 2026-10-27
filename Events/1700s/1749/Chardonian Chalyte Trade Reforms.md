@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# The Chardonian Chalyte Trade Reforms
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> Part of The [[Chardon Chalyte Riots]]  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 In DR 1749, the Chardon chalyte trade underwent a series of major reforms, following the [[Chardon Chalyte Riots]] caused by the exposure of [[Fausto]]'s corrupt influence over the [[Curia of 42]] and magical coercion of important bureaucrats in the [[Chamber of Stamps]]. 
 

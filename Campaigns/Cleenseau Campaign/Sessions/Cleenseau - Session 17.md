@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 17
@@ -13,7 +12,8 @@ tagline: in which the party defuses a fey curse and investigates a poisoned nobl
 sessionKey: cleenseau-session-17
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 17
+```taelgar-header
+```
 
 In [[Aslain]], the party safely examines a cursed letter from the bear fey and investigates the confused messenger who delivered it. In [[Cranford]], they assist with the investigation of a poisoned noblewoman and establish that the principal accused is probably innocent. They also learn that false messengers are reporting the party's death.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,12 +14,8 @@ dm_notes: none
 whereabouts: Kaldhalla
 POV: modern
 ---
-# Storvalda
-*(stor-VAHL-dah)*
->[!info]+ Biographical Info  
-> A [[Giants|giant]] (frost) (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Storvalda was a daughter of Bjarnfrost the Mighty, who ruled [[Kaldhalla]] during the [[Blood Years]], but could not sustain a lasting peace and was defeated. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-24T09:25:51-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# The Purple Pig
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Purple Pig is a modest inn, located along the south road on the outskirts of Voltara. A sturdy three-story building, with a large common room and private rooms above, the inn caters to caravan guards, adventurers, messengers, and the occasional merchant of modest means. The proprietor, [[Dravia]], maintains a well-run common room, and the inn is a popular meeting spot amid the stables, warehouses, and market stalls that dot the southern approach to Voltara. 
 

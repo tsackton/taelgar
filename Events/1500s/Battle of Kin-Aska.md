@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Battle of Kin-Aska
-*(BAT-ul uv kin-AHS-kah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> Part of The [[Conclave War]]
+```taelgar-header
+```
 
 An important battle in the [[Blood Years]]. [[Chardon]] and its allies were defeated, leading to the destruction of a city-state, [[Kin-Aska]], that had fallen into [[Chardon]]'s orbit in the years before the [[Great War]].
 

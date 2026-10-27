@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,12 +17,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1747
 ---
-# Scordith
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Scordith was born in [[Paisa]], a small village on the northwestern shore of [[Lake Valandros]]. Her early life was uneventful, until her parents died in a tragic accident when she was only six years old. The village elders, not sure what to do, sent her to live in a secretive monastery in the hills that was willing to take her in. Scordith was raised in the monastery for the next twelve years. 
 

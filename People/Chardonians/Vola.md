@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/dufr, status/check/lint]
@@ -20,13 +19,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Vola Forena
-*(VOH-lah foh-REH-nah)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Vola was born on the streets of [[Chardon]], living a life of squalor, disease, and poverty. She grew up in the [[Riverside Quarter|Riverside]] slums, near the chalyte refineries. %%SECRET[v2:fc15996938df08759c4b057c99e6a6da]%% Eventually, she was discovered by [[Agon]], who helped her grow into her power and fulfill her potential. %%SECRET[v2:0eb1870e563066bfe0c8579684accd86]%% She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [[Agon]] and the [[Society of the Open Scroll]].
 

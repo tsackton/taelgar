@@ -1,12 +1,12 @@
 ---
-headerVersion: 2023.11.25
 tags: [meta]
 campaign: Dragonets
 hide: [toc]
 name: Dragonets Campaign
 POV: undated
 ---
-# Dragonets Campaign
+```taelgar-header
+```
 
 The Dragonets follows Heska, Sculpit, Little Tony, and Zeno, four [[Dragonets|dragonets]] from the [[Circular Island]]. Their story begins at the Jubilee, the island's annual celebration of dragonet culture. 
 

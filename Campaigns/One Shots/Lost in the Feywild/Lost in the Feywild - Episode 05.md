@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Lost in the Feywild
 sessionNumber: 5
@@ -14,7 +13,8 @@ sessionKey: lost-in-the-feywild-session-5
 session-template: feywild-template.md
 websiteSessionView: zoomable
 ---
-# Lost in the Feywild: Episode 05
+```taelgar-header
+```
 
 >[!info] The Voice Beyond the Wall: in which the prisoner knows they are coming
 > *Featuring: [[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], [[Txarro]]*

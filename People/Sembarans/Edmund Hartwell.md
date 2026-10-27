@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -10,9 +9,8 @@ name: Edmund Hartwell
 knownTo: [clee]
 POV: 1720
 ---
-# Major Edmund Hartwell
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]]
+```taelgar-header
+```
 
 Edmund Hartwell commanded the Enst Regiment of the [[Army of the West]]. On January 8, 1720, he ordered its detached garrisons to march to [[Dunmore]] under General [[Ilsa Lemoine|Ilsa Lemoine's]] orders. 
 By April DR 1720, [[Ida Rosfeld]] had been promoted to command the Enst Regiment.

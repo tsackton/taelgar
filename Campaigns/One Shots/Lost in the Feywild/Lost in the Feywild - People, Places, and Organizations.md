@@ -1,11 +1,11 @@
 ---
-headerVersion: 2023.11.25
 tags: [meta]
 name: "Lost in the Feywild: People, Places, and Organizations"
 dm_owner: none
 dm_notes: none
 ---
-# Lost in the Feywild: People, Places, and Organizations
+```taelgar-header
+```
 
 This page collects the named cast, recurring places, organizations, and books recorded across the seven episodes of [[Lost in the Feywild]].
 

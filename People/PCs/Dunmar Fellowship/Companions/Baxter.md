@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,10 +16,8 @@ dm_owner: player
 dm_notes: important
 POV: 1740s
 ---
-# Baxter
->[!info]+ Biographical Info  
-> An axebeak  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 ![[baxter-portrait.jpg|right|320]] [[Wellby]]'s reliable mount, now well-trained in battle and exploration.
 

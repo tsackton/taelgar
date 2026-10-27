@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,12 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Terry the Bandit
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:clee%% Fought against the [[Heroes of Cleenseau]] at the [[Cleenseau|bandit lair upriver of Cleenseau]], in the [[Manor of Cleenseau]] on November 3rd, 1719 %%^End%%
+```taelgar-header
+```
 
 One of the bandits involved in the [[Attempted Poisoning of Cleenseau]]. Local to [[Cleenseau]], he fell on hard times during the winter of 1718-1719 and was recruited to banditry by [[Francois the Bandit|François]].  He was killed by an enraged Ankheg during the battle outside the bandit lair on November 3rd.
 

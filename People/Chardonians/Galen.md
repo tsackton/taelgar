@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,13 +17,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Galen
-*(GAY-len)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% The [[Dunmar Fellowship]] attended his lecture on [[Session 49 (DuFr)|August 23rd, 1748]] in [[Chardon]], the [[Chardonian Empire]] %%^End%%
+```taelgar-header
+```
 
 A showman, scholar, academic rival of sorts to [[Ulfgar Frostbeard]], and member of the [[Faculty of Magic]] at the [[University of Chardon]]. Known for elaborate lectures on the magic of the planes, with a particular focus on elemental magic. 
 

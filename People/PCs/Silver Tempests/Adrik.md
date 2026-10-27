@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-13T13:45:21-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -22,13 +21,8 @@ dm_owner: player
 dm_notes: none
 POV: 1740s
 ---
-# Adrik Boulderbeard
-*(AH-drik)*
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of the [[Boulderbeards|Boulderbeard Clan]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Adrik was born in [[Nardith]], the Dwarven kingdom in the [[Yuvanti Mountains]], to a small branch of the [[Boulderbeards]], living near the surface and tending goats and sheep on the high peaks. He was the oldest of three children, and the wildest, spending his childhood outside and away from the cities below. Adrik loved the high mountain peaks and open skies of his home, the small dwarven village of [[Narazara]]. 
  

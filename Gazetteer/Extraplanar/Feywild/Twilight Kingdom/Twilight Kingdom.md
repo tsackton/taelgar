@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -10,10 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Twilight Kingdom
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Twilight Kingdom is a [[Feywild]] realm, occupying the land west of Tollen and the Volta, near [[Varrow Forest]]. It is an interstitial space in the Feywild, ruled by no single archfey, though it is a land of evening, just after the sun has set, of pale blue twilight at the horizon and darkness above. A river wends quietly through rolling grassy hills under the first few unfamiliar stars of twilight, and a road runs more or less north-south through the hills. The sunset, over the hills to the west, casts a barely-visible glow across the horizon; deeper darkness lies to the east.
 

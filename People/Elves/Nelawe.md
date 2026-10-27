@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Nelawe
-*(neh-LAH-weh)*
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (she/her), ([[Elven Cycle of Generations|ka]] 31)
+```taelgar-header
+```
 
 A poet and author of [[Lyrics of a New Age]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Solas Abbey
-*(SOH-lahs abbey)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Solas Abbey is a partially ruined religious house on the upper road of the [[Chasa River Valley]], once the home of the [[Solatine Order]], a now-defunct itinerant order devoted to [[The Wyrdling]]. 
 

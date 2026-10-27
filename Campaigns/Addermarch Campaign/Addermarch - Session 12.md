@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 12
@@ -11,7 +10,8 @@ name: Addermarch Campaign - Session 12
 tagline: in which the party defends Haldrenn and searches for answers
 descTitle: Worg Attack
 ---
-# Addermarch Campaign - Session 12
+```taelgar-header
+```
 
 >[!info] Worg Attack: in which the party defends Haldrenn and searches for answers.
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -11,9 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Blood Plague
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The Blood Plague was a deadly outbreak of a magical curse that spread north from the [[Plaguelands]], through [[Addermarch]] and southern [[Sembara]]. It was part of a series of disasters and evils in the immediate aftermath of the [[Great War]] that brought hardship and famine during the so-called [[Blood Years]].
 

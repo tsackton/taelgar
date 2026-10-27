@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -22,15 +21,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# Candrosa
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 22nd, 1748 in [[Karawa]], [[Dunmar]] %%^End%%  
->> %%^Campaign:dufr%% Entrusted the [[Dunmar Fellowship]] with recovering the [[Heart of Shakun]] on May 23rd, 1748 in [[Karawa]] %%^End%%  
->> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on June 19th, 1748 in [[Karawa]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 ![[candrosa-portrait.png|right|400]]Candrosa serves as Speaker of the [[Shakun Mystai]], acting as the leader of the [[Temple of Shakun]] in [[Karawa]] and the public face of the mystai. He oversees rites, initiations, and dream-visions; and serves as a councilor to the temple hierarchy in Karawa. 
 ## Personality & Outlook

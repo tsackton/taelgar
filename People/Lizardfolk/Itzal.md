@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: color
 POV: 1747
 ---
-# Itzal
->[!info]+ Biographical Info  
-> A salt [[Lizardfolk|lizardfolk]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Itzal is a lizardfolk elder and the village spokesman of [[Eskorola]], a small lizardfolk village in [[Tzingola]]. He is very old, probably 200 at least, with skin a uniform light blue that doesn't glisten.
 

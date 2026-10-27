@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,11 +13,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Talem
-*(TAH-lem)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Talem is the largest village of the [[Bek'eni]] in the [[Elderwood]]. 
 

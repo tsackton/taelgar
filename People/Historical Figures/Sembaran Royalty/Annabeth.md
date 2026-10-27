@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,11 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Annabeth
->[!info]+ Biographical Info
-> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (she/her), of the [[House of Lils]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The eldest daughter and third child of [[Derik of Lils]], she is principally famous for marrying [[Morgaine]], and for being the grandmother of [[Elaine II]]. Through magic, Annabeth and Morgaine's children were biologically descended from both women.
 

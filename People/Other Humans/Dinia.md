@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-13T13:45:21-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,12 +17,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1752
 ---
-# Dinia
-*(DIN-ee-ah)*
->[!info]+ Biographical Info  
-> A [[Northerners|Northerner]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on July 22nd, 1747 in [[Blacksilver Peak]], the [[Fiatara Mountains]] %%^End%%
+```taelgar-header
+```
 
 ![[dinia.png|right|400]]Dinia is a bard, lore-keeper, guide, and hermit. For many years, she lived alone in the mountains near [[Blacksilver Peak]], north of the [[Northern Provinces]] of the [[Chardonian Empire]]. She keeps and remembers many stories of the past, acting as an informal oral historian of the lost kingdoms, especially [[Amani]], destroyed during and after the [[Great War]]. 
 

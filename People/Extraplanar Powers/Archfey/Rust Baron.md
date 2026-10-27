@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [power, status/check/lint]
@@ -13,11 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Rust Baron
->[!info]+ Information  
-> An archfey (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Rust Baron, often called just the Baron, is the mysterious ruler of [[Fate's Ruin]], said to be able to age anything to dust with a single touch. 
 

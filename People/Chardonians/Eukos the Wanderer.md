@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1500s
 ---
-# Eukos the Wanderer
-*(YOO-kohs)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)
+```taelgar-header
+```
 
 Eukos the Wanderer was bard and storyteller, originally from Chardon, who traveled extensively in the early DR 1500s. His travelogue of this journey, describing the lands north of Lake Valandros before the [[Great War]], is now one of the best written sources preserving the stories and histories of these now-destroyed settlements and civilizations.
 

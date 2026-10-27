@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata]
@@ -12,9 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1747
 ---
-# Moondweller
->[!info]+ Biographical Info  
-> A [[Stoneborn|stoneborn]] (he/him)
+```taelgar-header
+```
 
 %% could use metadata - based in the area above [[Am'khazar]] which is not really named or developed; current fate is unclear %%
 

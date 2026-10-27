@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [meta]
@@ -8,7 +7,9 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Playing a Dwarf
+```taelgar-header
+```
+
 *See more: [[Dwarves]], [[Dwarven Kingdoms]], [[Bahrazel|Bahrâzel]]*
 D&D Beyond Link: [Dwarf](https://www.dndbeyond.com/species/1763565-dwarf)
 

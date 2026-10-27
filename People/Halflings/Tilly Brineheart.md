@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Tilly Brineheart
-*(TILL-ee BRYNE-hart)*
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (she/her)
+```taelgar-header
+```
 
 > [!image|aside]
 > ![[tilly-brineheart.jpg]]

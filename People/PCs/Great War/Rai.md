@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/dufr, status/check/lint]
@@ -16,10 +15,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Rai
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (peronar) (he/him), of the [[Heroes of the Great War]] ([[Elven Cycle of Generations|ka]] unknown)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Hero of the [[Great War]]. 
 

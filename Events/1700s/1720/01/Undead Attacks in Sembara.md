@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/gameupdate/clee, status/check/lint]
@@ -11,9 +10,8 @@ dm_owner: mike
 dm_notes: important
 POV: modern
 ---
-# The Undead Attacks in Sembara
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 In the first two months of 1720, the dead rose across southern Sembara, especially [[Wisford]], [[Dunfry]], and [[Ainwick]]. They rose in clusters and sporadically. Some places were barely harmed, other places had hundreds of zombies descend upon them. 
 

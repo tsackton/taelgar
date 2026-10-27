@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -11,9 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Sentinel Range War
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 A war fought in the western highlands in the years after the [[Great War]]. 
 

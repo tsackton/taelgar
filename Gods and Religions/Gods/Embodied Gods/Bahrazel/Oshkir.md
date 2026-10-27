@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, religion/dwarven]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Oshkir
-*(OSH-keer)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The patron of living things, growth, healing, and teaching, worshipped as the first teacher of the dwarves.
 

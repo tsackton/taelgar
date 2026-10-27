@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Temple of the Sibyl (Tollen)
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Temple of the Sibyl in [[Tollen]] is a vast domed temple in [[Godshome]], its graceful, colorful dome one of the most prominent landmarks on the city’s skyline. Inside, light from high stained‑glass windows spills across tiled marble floors in shifting bands of color, an effect much remarked on by visitors and clergy alike.
 

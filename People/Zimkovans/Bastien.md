@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -12,11 +11,8 @@ pronunciation: bas-TYEH(n)
 knownTo: [clee]
 POV: modern
 ---
-# Bastien
-*(bas-TYEH(n))*
->[!info]+ Biographical Info  
-> A [[Zimka]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 Bastien was a rogue from the Zimka and a companion of [[Corrine Morphokamia]]. He was killed near [[Rinburg]] during the [[Undead Attacks in Sembara|undead attacks of 1720]].
 

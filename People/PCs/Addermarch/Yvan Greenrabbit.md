@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -21,13 +20,8 @@ dm_owner: player
 dm_notes: none
 POV: 1715
 ---
-# Yvan Greenrabbit
-*(YEH-vahn)*
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (he/him), of Greenrabbits, and the [[Addermarch Mercenaries]]  
-> [Character Sheet](https://www.dndbeyond.com/characters/131340283)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[yvan.jpg|right|400]]Yvan Greenrabbit is a [[Halflings|halfling]], originally from [[Sembara]], who left his family caravan to travel, eventually finding his way to [[Addermarch]].
 

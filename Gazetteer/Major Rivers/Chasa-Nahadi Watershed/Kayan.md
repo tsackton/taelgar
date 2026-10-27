@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# Kayan
-*(KAH-yan)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A tributary of the [[Chasa]] that flows north through the [[Elderwood]], joining the [[Chasa]] near [[Arendum]].
 

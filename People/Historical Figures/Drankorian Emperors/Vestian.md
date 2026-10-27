@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,9 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Emperor Vestian
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)
+```taelgar-header
+```
 
 %% lots of detail about post-civil-war emperors in DM notes, some should be copied here %%
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -19,11 +18,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Azar
->[!info]+ Biographical Info  
-> A [[Mawar Confederacy|Mawaran]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Azar, later called Azar the Lost, was a fisherman from a small village on the eastern coast of the [[Mawakel Peninsula]]. After his wife [[Nadine]] and their two sons drowned in DR 1741, he turned to [[Gatza|gatza]] in grief and became lost in the gatza-world of the voices of his dead family, until some time later he heard a new voice, promising to help. 
 

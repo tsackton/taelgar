@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -13,11 +12,8 @@ whereabouts:
   - {type: secondary, location: Wistel-Enst Watershed}
 POV: modern
 ---
-# Mereburn
-*(MEER-burn)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Mereburn is a brook flowing from the [[Aine Hills]] into the [[Wistel]], one of the more prominent small tributaries draining the hills. Below its wooded headwaters, it winds through wet meadows between alder-lined banks, spilling into the surrounding grassland during spring rain and thaw.
 

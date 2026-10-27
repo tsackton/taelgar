@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Wards of Tollen
+```taelgar-header
+```
 
 (1) **[[Skepwalk]]** is the busy sea-facing waterfront of Tollen, lined with deep quays, cranes, and warehouses where tall-masted ships load and unload cargo from across the Green Sea.
 

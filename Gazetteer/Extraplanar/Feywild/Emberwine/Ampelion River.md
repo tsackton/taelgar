@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Ampelion River
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Ampelion River, also known as the Revelwater or the Everpouring Draught, is a major river that runs through Emberwine. It is wide and slow-flowing, and typically navigated by large river barges. The water itself has the scent and appearance of wine, and the fey of Emberwine often drink its draughts. The effects of this fey wine on natives of the Material Plane -- if any -- are not recorded.
 

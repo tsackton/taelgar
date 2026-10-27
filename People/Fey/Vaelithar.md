@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Vaelithar
-*(VAY-lih-thar)*
->[!info]+ Biographical Info  
-> A [[Fae|fae]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Rescued by the [[Addermarch Mercenaries]] on May 18th, 1715 in [[Thornweald]] %%^End%%
+```taelgar-header
+```
 
 Vaelithar is a fae from [[Twilight's Edge]] who escaped the clutches of a corrupted Singing Tree in the [[Thornweald]] in DR 1715 with the aid of the [[Addermarch Mercenaries]]. His companion, [[Liraene]], died before she could be rescued, trapped by the corrupted tree.
 

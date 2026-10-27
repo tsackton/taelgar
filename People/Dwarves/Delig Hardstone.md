@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -17,11 +16,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Delig Hardstone
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of the [[Hardstones]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Patriarch of the Hardstone clan, father to [[Dag Hardstone]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [place]
 displayDefaults:
   defArt: ""
@@ -13,10 +12,8 @@ dm_owner: tim
 typeOfAlias: tavern
 tentativeReason: "unclear if this exists; from Great Library campaign, see note"
 ---
-# Rogue's Range
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A raucous tavern and dive bar outside the walls of [[Voltara]], operated by the halfling [[Alton]] after his retirement from adventuring. 
 

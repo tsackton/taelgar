@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-05T09:47:47-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Anates
-*(ah-NAH-tehs)*
->[!info]+ Biographical Info  
-> A [[Hkar|Hkaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Anates was the first human emperor of [[Drankorian Empire|Drankor]], ruling from DR 331 to DR 366. During his reign, Drankor expanded north through the Mostreve Gap and established its first presence in [[Sembara]].
 

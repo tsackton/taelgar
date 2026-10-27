@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,11 +13,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Irrla
-*(EAR-la)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Irrla, as it is called by its human inhabitants, is a large mountainous island in the middle of the [[Green Sea]]. It is a temperate island with an oceanic climate, with cool, rainy summers broken by the occasional week of hot dry weather, and cool, damp winters with little snow, except in the interior mountains. Despite its climate and central position, it is lightly settled. The northern and western coasts of Irrla are dangerous and difficult for ships, with shifting shoals and unpredictable currents extending far into the Green Sea. The interior of Irrla is a land of rocky highlands, steep mountains,  deep valleys, and the occasional volcano, making travel difficult in the best of conditions. 
 

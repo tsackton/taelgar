@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -21,12 +20,8 @@ dm_owner: player
 dm_notes: none
 POV: 1748
 ---
-# Gadin
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (he/him), of the [[Labyrinth Prisoners]] ([[Elven Cycle of Generations|ka]] 37)  
-> [Character Sheet](https://www.dndbeyond.com/characters/112503920)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Gadin is an [[Elves|elf]] warlock from beyond the [[Sentinel Range]], born into the first elven generation after the [[Great War]]. The dreams of his childhood were filled with tragedy and confusion, and he eventually left his community to wander and make his own way. He found his way to the [[Western Green Sea]], where he turned to smuggling to survive. While leaving [[Tyrwingha]], he was caught and cried out for help; a mysterious fey patron answered, teleporting him to safety and leaving him with new warlock powers.
 

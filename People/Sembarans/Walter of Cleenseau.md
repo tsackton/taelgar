@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720
 ---
-# Walter of Cleenseau
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[walter-cleenseau.png|right|320]]An older man, who used to work at the [[Army Garrison of Cleenseau]] helping maintain the barracks and other similar clerking activities. Now retired, although he still lives at the garrison and acts as a sort-of unofficial cleaner.
 

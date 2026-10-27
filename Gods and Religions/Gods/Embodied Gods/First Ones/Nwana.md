@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, religion/halflings]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Nwana
-*(n-WAH-nah)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]] (they/them)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Nwana, the Stranger/Child, is often thought to watch over both the family you have, and the family you don’t yet know. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -22,11 +21,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Queen Charlotte I
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[House of Sewick]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 An early ruler of Sembara, of the [[House of Sewick]]. She ruled from the death of her father, [[Derik II]],  in DR 1496 until her passing in DR 1519. Her reign is most famous for the heroism of her second son, [[Derik III]], who succeeded her to the throne, and for the [[Zimkova|Highland Kingdoms]] accepting her overlordship.
 

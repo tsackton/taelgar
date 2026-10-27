@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,10 +10,8 @@ name: "Delwath's Elven Breastplate"
 knownTo: [dufr]
 POV: modern
 ---
-# Delwath's Elven Breastplate
->[!info]+ Information  
-> ([[Elves|elven]] armor)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 [[Delwath]]'s old battle armor from his time as a quartermaster in the elven armies during the [[Great War]]. Originally worn by [[Delwath]] when he vanished into Cha'mutte's shadow realm, and was trapped. In the shadow realm, it was transformed, infused with the magic of the shadow plane, embedded in a fragment of [[Inkaye]], a strange metal that can absorb extraplanar energy. 
 

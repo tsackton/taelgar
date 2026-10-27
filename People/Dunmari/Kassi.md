@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -17,12 +16,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1740s
 ---
-# Kassi
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The librarian at the Lakan monastery in Tokra. In a relationship with [[Basu]].
 

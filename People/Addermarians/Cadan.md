@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,13 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Cadan
-*(KAD-an)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Cadan was a ranger of western Addermarch who died at [[Serethwyn Tor]] during the later fighting of the [[Serpentine Wars]], after the [[Dominion of Avatus]] occupied the region. His name survives carved into the stone memorial that [[Arvanko]] is shaping on [[Arvanko's Homestead|his hilltop]] east of [[Roscombe]].
 

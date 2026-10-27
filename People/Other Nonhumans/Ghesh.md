@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-08T22:18:29-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Ghesh
-*(GHESH)*
->[!info]+ Biographical Info  
-> A [[Dragonets|dragonet]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Ghesh is a reddish-brown [[Dragonets|dragonet]], with a distinctive greenish streak on his back, who serves as the informal leader of a small group of dragonets occupying one of the many partially ruined towers in [[Alectia]]. He is the biggest, bossiest, and loudest of his group, earning him some measure of authority, though like in many dragonet groups, leadership is fluid and changeable. He is highly competitive, enjoying gambling and flying contests; he can be surly and snippy when he loses, or believes someone is winning unfairly. 
 

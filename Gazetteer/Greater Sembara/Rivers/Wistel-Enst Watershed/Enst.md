@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {linkText: "on", defArt: the}
@@ -15,10 +14,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The Enst
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A major river along the southern border of [[Sembara]]. It is rocky, cold, and wide for much of its length, and has traditionally been a major barrier to movement. It floods often, and is crossed by only two bridges east of the "Three Fingers", where it splits into the [[Enst (North Fork)|North Fork]], [[Enst (Middle Fork)|Middle Fork]], and [[Enst (South Fork)|South Fork]]: the ancient bridge in [[Cleenseau]], and a more recently constructed bridge just north of the confluence with the [[Aure]] at [[Eskbridge]].
 

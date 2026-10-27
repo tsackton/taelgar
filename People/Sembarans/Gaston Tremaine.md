@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720
 ---
-# Gaston Tremaine
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A young farmer who lives in the North Close. His sweetheart, [[Henry Blackwell]], was killed during the [[Undead Attacks in Sembara]] and he has not taken it well. He only survived due to the quick thinking and timely warning from the [[Heroes of Cleenseau]].
 

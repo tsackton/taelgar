@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,10 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Cavarrio of Chardon
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Cavarrio was a Chardonian scholar and member of the [[Faculty of History]] in the [[University of Chardon]]. He is most famous for his seminal work on the history of the [[Drankorian Empire]], the  [[Chronicles of Drankor]], which he finished in DR 1209. It has become the standard source on Drankorian chronology in the modern era.
 

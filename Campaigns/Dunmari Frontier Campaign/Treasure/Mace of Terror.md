@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -10,11 +9,8 @@ name: Mace of Terror
 knownTo: [dufr]
 POV: modern
 ---
-# The Mace of Terror
->[!info]+ Information  
-> (magical mace)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/4672-mace-of-terror)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A mace, once owned by Fausto, stolen from him after he betrayed the Dunmar Fellowship. Later, traded to the [[Ancient and Honorable Guild of Philosophers]]. Some of its history was seen in the [[Mirror of the Past]]:
 

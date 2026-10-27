@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -10,10 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Journey of the Souls: A Refutation
->[!info]+ Information  
-> (book)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 *Journey of the Souls: A Refutation* is a five-volume refutation of the ancient Hkaran text [[Journeys of Souls|Journey of the Souls]].
 

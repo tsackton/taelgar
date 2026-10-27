@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,11 +11,8 @@ dm_owner: mike
 dm_notes: important
 POV: modern
 ---
-# Ausson's Crossing
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A bustling inn in [[Laicon]] that still forms the core of the settlement. It was founded before there was a village here, as a trading outpost along the [[Maseau - Dunmar Road]], where several cart tracks from the [[Aurbez Plateau]] descend.  There is a large fountain outside the inn, said to be blessed by the Wanderer many years ago, and which always brings forth fresh water.
 

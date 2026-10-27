@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Eastern Green Sea
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 East of the well-traveled ports of [[Tollen]] and [[Cymea]] lies a vast expanse of the [[Green Sea]]. Many rumors come west from these lands: on halfling ships carrying exotic goods from [[Medju]]; or on [[Tollen]] merchant ships, chartered by the [[Dyer's Guild]] to bring exotic dyes from [[Ursk]]; or from restless [[Skaer]] sailors, far from their home islands. These rumors tell of many things: islands that move from season to season; cities made of gold and emeralds that sparkle in the desert sun; flying [[Kenku|kenku]] living in cliffside roosts on islands red like blood; stoneborn rafts, kept afloat by will alone, drifting from island to island; hobgoblin pirates who eat the hearts of their victims; strange gods of pleasure who bring waking bliss to their acolytes; clerics who worship the [[Divine Presence]] itself and can summon food and water by merely thinking a prayer. 
 

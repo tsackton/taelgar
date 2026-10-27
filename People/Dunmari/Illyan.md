@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,13 +17,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Illyan
-*(il-YAHN)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 2nd, 1748 camped near [[Tokra]], in [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 A commander in the army of [[Nayan Karnas]]. Stationed outside [[Tokra]] during the [[Summer Gnoll Raids of 1748]] and the [[Sibling War]]. Fought in the [[Battle of Tokra]]. 
 

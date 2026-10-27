@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Vistalba
-*(VEESS-tahl-bah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Vistalba is a notable market town in [[Western Cymea]], a trading port on the [[Western Gulf]] with a decent harbor. The harbor dates to [[Drankorian Empire|Drankorian]] days, when Vistalba was richer and handled the movement of Cymean wine, silver, and other goods.
 

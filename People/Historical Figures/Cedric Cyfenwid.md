@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# Cedric Cyfenwid
->[!info]+ Biographical Info  
-> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 A paladin of [[The Wanderer]] and friend to the fey, although born in [[Tyrwingha]] he spent much of his life in [[Addermarch]], [[Duchy of Maseau|Maseau]], and the [[Borderlands|Sembaran Borderlands]].
 

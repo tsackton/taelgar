@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 17
@@ -11,7 +10,8 @@ name: Addermarch Campaign - Session 17
 tagline: in which the party defeats a skeleton host
 descTitle: Skeletons at Serethwyn Tor
 ---
-# Addermarch Campaign - Session 17
+```taelgar-header
+```
 
 >[!info] Skeletons at Serethwyn Tor: in which the party defeats a skeleton host
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

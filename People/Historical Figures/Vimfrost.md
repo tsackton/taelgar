@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-08T16:14:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,12 +14,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Vimfrost
-*(VIM-frost)*
->[!info]+ Biographical Info  
-> A [[Dragons|dragon]] (white dragon) (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Vimfrost was an ancient white dragon who long ruled over the icy wastes of the [[Far North]]. In the early DR 1500s, he led an army of orcs, trolls, ogres, and other creatures against [[Vostok]], in what became known as [[Vimfrost's War]]. In DR 1511, he was defeated and killed by an alliance of humans, dwarves, stoneborn, and frost giants led by [[Derik III]] and [[Bjarnfrost]], that banded together to protect themselves from his aggression. His descendants continued to threaten the northern [[Green Sea]] long after his death.
 

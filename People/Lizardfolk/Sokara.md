@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,10 +12,8 @@ dm_owner: player
 dm_notes: important
 POV: modern
 ---
-# Sokara
-*(soh-KAH-rah)*
->[!info]+ Biographical Info  
-> A salt [[Lizardfolk|lizardfolk]] (she/her)
+```taelgar-header
+```
 
 [[Trok]]'s great-grandmother and a famous tattoo artist. Deceased.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: "Consumed by Cha'mutte's plague in", wOrigin: "<primary:UA> <ancestry> <typeof:UA> <home:1q>, once part of <origin:rA>", wPastHome: "<end> <target>", dPast: ""}
@@ -17,12 +16,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Isingue
-*(ease-en-GAY or is-en-GAY)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The now-ruined city on the [[Istaros]], once the cultural and spiritual capital of the [[Istabor Alliance]].
 

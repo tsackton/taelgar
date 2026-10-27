@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,12 +18,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1749
 ---
-# Radomir
-*(ra-duh-MEER)*
->[!info]+ Biographical Info  
-> An [[Ursk|Urskan]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Radomir is an Urskan man who is principally notable for having found a [[Jade Piece of Rai's Hand|strange piece of jade]] on the edge of a vast glacier in the [[Yengorza Mountains]]. He carried this item for several years, but it haunted his dreams, and eventually he fled [[Ursk]], looking for a way to destroy it. After many years of travel, the tales of which are largely lost, he ended up back in Ursk. By DR 1749, Radomir was living alone near a snowy forest village, in poor health and under the watch of the Rodnya Voknaz, who had taken the jade from him. He had little contact with anyone, although his sister Yelena sometimes brought medicine.
 

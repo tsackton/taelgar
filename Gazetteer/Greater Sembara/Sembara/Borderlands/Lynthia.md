@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,11 +11,8 @@ whereabouts:
   - {type: secondary, location: Lake Rin}
 POV: modern
 ---
-# Lynthia
-*(LIN-thee-ah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Lynthia is a growing market town on the southeastern shore of [[Lake Rin]], near the [[Enst]], in the [[Barony of Estrive]]. A twice-daily ferry connects it with [[Chantefleur]] on the opposite shore.
 

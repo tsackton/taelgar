@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Lost in the Feywild
 sessionNumber: 3
@@ -14,7 +13,8 @@ sessionKey: lost-in-the-feywild-session-3
 session-template: feywild-template.md
 websiteSessionView: zoomable
 ---
-# Lost in the Feywild: Episode 03
+```taelgar-header
+```
 
 >[!info] Mr. Blue Sky: in which the party follows the numbers
 > *Featuring: [[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], [[Txarro]]*

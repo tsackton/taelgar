@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,12 +13,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1740s
 ---
-# Pyhlla
-*(PIE-hu-lla)*
->[!info]+ Information  
-> pop. 800  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Pyhlla is a port town, on a volcanic rocky island, less than a day's sail from [[Vetta]], the island of the sacred waters.
 

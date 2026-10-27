@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -8,10 +7,8 @@ name: Camp of Horn and Feather
 whereabouts: "Twilight's Edge"
 POV: modern
 ---
-# Camp of Horn and Feather
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Camp of Horn and Feather is a lightly fortified fey encampment on a ridge at the western edge of [[Twilight's Edge]], on the border beside the [[Grey Mists]] and near [[Duskmire]]. Tents and a bonfire stand behind a wall, where the five fey siblings [[Thyron]], [[Kyron]], [[Myron]], [[Syron]], and [[Lyron]] camp with their animal companions.
 

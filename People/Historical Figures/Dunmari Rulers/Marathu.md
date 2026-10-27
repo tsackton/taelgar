@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-05T11:08:03-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,12 +18,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Samraat Nayan Marathu
-*(NYE-ann muh-RAH-too)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him), of the [[Nayan Dynasty|Nayan dynasty]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Nayan Marathu was the samraat of [[Dunmar]] from DR 1729 until his death in DR 1740. Elevated to rule after the [[Nayan Succession Crisis]] as a caretaker intended to restore unity between the traditional, largely nomadic eastern parts of Dunmar and the more settled west, he revived the traveling royal court, organized a broad census extending into [[Eastern Dunmar|eastern Dunmar]], and proposed a new more central capital between [[Tokra]] and [[Darba]]. [[Sura]] was widely seen as his intended successor. 
 

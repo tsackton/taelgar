@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -9,7 +8,8 @@ dm_owner: joint
 dm_notes: important
 POV: modern
 ---
-# Three Despairs
+```taelgar-header
+```
 
 %% I have some notes from the Ausson's mini series, where the main baddie was a worshipper of Umidzka %%
 

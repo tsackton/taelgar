@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-24T09:25:51-04:00"
 lintVersion: "3.5"
 tags: [place, status/gameupdate/gl]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1747
 ---
-
-# Order of Twilight Temple (Voltara)
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Ruins of an [[Order of Twilight]] temple south‑west of [[Voltara]], desecrated during the [[Blood Years]] and later corrupted by an Abyssal breach in the crypts. Reconsecrated in DR 1747 when [[Galius Filuso]] completed a 24‑hour casting of Hallow, defended by the [[Silver Tempests]]. 
 

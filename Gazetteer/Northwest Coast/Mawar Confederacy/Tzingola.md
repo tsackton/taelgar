@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Tzingola
-*(tseen-GOH-lah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Tzingola, or the Tzingola Marshes, is the local lizardfolk name for the extensive salt marshes along the western edge of the [[Mawakel Peninsula]], north of [[Hamri]]. In Hamri, the same marshes are often just called the North Marshes. 
 

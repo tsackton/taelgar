@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 2
@@ -13,7 +12,8 @@ tagline: in which the party follows the spiders into the woods
 sessionKey: cleenseau-session-2
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 2
+```taelgar-header
+```
 
 The party follows the spiders from [[Taviose]], rescues captives, and destroys an ettercap lair. They recover several bodies, find records of repeated hatchings, and meet [[Narrisa de Abadelle]].
 

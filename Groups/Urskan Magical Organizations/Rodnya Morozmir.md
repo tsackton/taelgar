@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Rodnya Morozmir
->[!info]+ Information  
-> An organization  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Rodnya Morozmir is one of the eight [[Rodnya|rodnye]] that rule [[Ursk]]. Morozmir is based in the southeast of the country and is best known for defensive magic; it is often credited with involvement in the vast arcane wards that protect much of Ursk.
 

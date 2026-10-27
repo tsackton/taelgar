@@ -1,10 +1,10 @@
 ---
-headerVersion: 2023.11.25
 tags: [meta, search/exclude]
 typeOf: timeline
 name: Great Library Campaign Timeline
 ---
-# Great Library Campaign Timeline
+```taelgar-header
+```
 
 ```dataview
 LIST WITHOUT ID events.text

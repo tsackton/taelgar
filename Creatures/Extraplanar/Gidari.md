@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [creature, status/check/lint]
@@ -9,8 +8,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Gidari
-*(gih-DAR-ee)*
+```taelgar-header
+```
 
 The Gidari are strange creatures, rarely encountered by mortals, but frequently described by those who return from death. 
 

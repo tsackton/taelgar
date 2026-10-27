@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/review]
@@ -12,9 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Great War
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 %% maybe doesn't need status/incomplete, or at least isn't a high priority note to clean up, but obviously a lot more to say %%
 

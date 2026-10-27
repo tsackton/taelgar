@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,12 +10,8 @@ pronunciation: oh-BREE
 whereabouts: Barony of Estrive
 POV: modern
 ---
-# Aubrille
-*(oh-BREE)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Aubrille is a village on the southern shore of [[Lake Rin]], near [[Lynthia]], in the [[Barony of Estrive]]. It is ruled by an energetic young lord.
 

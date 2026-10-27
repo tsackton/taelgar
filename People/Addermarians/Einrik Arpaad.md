@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -22,15 +21,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Sir Einrik Arpaad
-*(EYE-nrik AR-pahd)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Confronted by the [[Addermarch Mercenaries]] on April 28th, 1715 in [[Torvaine Watch]], the [[Torvaine Forest]], [[Addermarch]] %%^End%%  
->> %%^Campaign:adma%% Laid to rest by [[Owen Tavish]] on May 6th, 1715 in [[Torvaine Watch]] %%^End%%
+```taelgar-header
+```
 
 Sir Einrik Arpaad commanded [[Torvaine Watch]], the fort protecting the sometimes-dangerous road through the [[Torvaine Forest]], connecting [[Valcroix]] and [[Roscombe]]. Trusted for decades of service, he fell when the cursed [[Serpentine Dagger]] twisted his will, driving him to slaughter his garrison and, in turn, binding him to the fort as a wrathful [[Undead|ghost]]. The [[Addermarch Mercenaries]] escaped from his haunted menace, and the priest [[Owen Tavish]] later laid his spirit to rest.
 

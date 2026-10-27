@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,12 +16,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1715
 ---
-# Geoffrey
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Discovered as a corpse by the [[Addermarch Mercenaries]] on May 19th, 1715 in [[Haldrenn]], [[Highmoor]], [[Carlinshire]] %%^End%%
+```taelgar-header
+```
 
 Geoffrey, possibly a false name, was a traveler who arrived in [[Roscombe]] from [[Valcroix]] in the autumn of 1714, taking a room at [[The Traveler's Rest]] for roughly six months. According to [[Bertrand LeBlanc]] and [[Emma Cole]], he kept largely to himself, ate alone with his nose in a book, and made repeated solo excursions into the [[Highmoor]], sometimes staying out for a week at a time. Shortly before the spring thaw he outfitted himself with ropes, ladders, and other climbing gear, and left for parts unknown.
 

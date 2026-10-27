@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-08T12:57:14-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,14 +19,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1748
 ---
-# Saka
-*(SAH-kah)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 6th, 1748 on the [[Varashan]], in [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 ![[saka.png|right|350]]Saka is an eldery woman, and a Master of the [[Order of the Awakened Soul|Mystai of Bhishma]]. She grew up outside [[Tokra]], and now travels with her horse-herding family on the [[Varashan]], helped by her niece [[Jita of Tokra|Jita]].
 

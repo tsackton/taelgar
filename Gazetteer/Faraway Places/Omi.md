@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Omi
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Omi is an important and ancient [[Merfolk|merfolk]] city in the western [[Endless Ocean]], in the deep waters west of [[Apporia]] and [[Tamaro Bay]]. Surface sailors know it chiefly through Apporian songs of the Jade Garden, but among the merfolk it is an important city of kelp forests, coral craft, manta rays, and communal memory watched over by the [[Sentient Ocean]]. 
 ## City of Kelp

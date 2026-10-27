@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,10 +10,8 @@ name: "Jade Piece of Rai's Hand"
 knownTo: [dufr]
 POV: 1749
 ---
-# Jade Piece of Rai's Hand
->[!info]+ Information  
-> (unique magical gemstone)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Five fragments of jade, each originally a piece of [[Rai]]'s hand.
 ## History

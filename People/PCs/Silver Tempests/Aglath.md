@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/gl, status/check/lint]
@@ -19,12 +18,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1747
 ---
-# Aglath
->[!info]+ Biographical Info  
-> A [[Stoneborn|stoneborn]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Aglath was born in a distant land. What little he remembers of his childhood was peaceful; he displayed a natural aptitude for fighting, and even while young would often spend long days practicing with his sword.
 

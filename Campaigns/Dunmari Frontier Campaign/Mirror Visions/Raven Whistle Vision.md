@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: Raven Whistle Vision
 POV: 1748
 ---
-# Raven Whistle Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 You are soaring above the desert, looking down at the [[Red Mesa]] near [[Karawa]], soaring across the rocky outcroppings and sunset-toned sand, heading east. You fly over [[Bas Udda]], the people returning to their homes for the evening small and dark against the setting sun. You turn south, and drift, until you come to a line of dead trees, just visible in the twilight, and you follow it south, until you land beside a plain brown mud hut, with a domed roof and chimney, beside a garden of thorns and rocks.
 

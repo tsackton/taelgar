@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: "1749"
 ---
-# Luminatia
-*(loo-mee-NAH-tee-ah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A small village near [[Lake Valandros]].
 

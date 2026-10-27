@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-05T09:06:33-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,13 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Emperor Akaston
-*(AH-kahs-tohn)*
->[!info]+ Biographical Info  
-> A [[Hkar|Hkaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Akaston was the emperor of [[Drankorian Empire|Drankor]] from DR 980 until his death in DR 991. He succeeded [[Vestian]] and was succeeded by Persa. His reign was a temporary reprieve from internal conflict and division across the Empire, though Akaston was only able to hide, not mend, the damage of the [[Drankorian Civil War]].
 

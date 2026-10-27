@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-05T08:39:58-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Maglar
-*(MAHG-lahr)*
->[!info]+ Biographical Info  
-> A [[Peronar]] [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] unknown)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 Maglar was a peronar natural historian and former student of [[Minarith]]. As [[Apollyon]]’s persecution intensified, Minarith had encouraged Maglar not to flee, but in DR 1048, facing arrest by the [[Omnis Pura]], Minarith wrote to Maglar, acknowledging that his hope had failed and urging Maglar to run. The letter was never sent. Maglar’s subsequent fate is unknown.
 

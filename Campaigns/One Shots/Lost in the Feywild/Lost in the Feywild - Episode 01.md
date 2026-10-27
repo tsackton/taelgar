@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Lost in the Feywild
 sessionNumber: 1
@@ -14,7 +13,8 @@ sessionKey: lost-in-the-feywild-session-1
 session-template: feywild-template.md
 websiteSessionView: zoomable
 ---
-# Lost in the Feywild: Episode 01
+```taelgar-header
+```
 
 >[!info] Welcome to Dandelion House: in which the party enters a mysterious tunnel
 > *Featuring: [[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], [[Txarro]]*

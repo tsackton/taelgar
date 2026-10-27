@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Bitter Knife War
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Bitter Knife War was a long series of campaigns fought between [[Dunmar]] and the Bitter Knife hobgoblin clan, remnants of Cha'mutte's army who occupied a large territory in the [[Nashtkar]] and the upper [[Kharja]] valley in the years after the [[Great War]]. Over a series of bitter campaigns lasting many years, the Bitter Knife hobgoblins were slowly crushed, and finally obliterated in DR 1586. 
 

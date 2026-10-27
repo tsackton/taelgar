@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Grimstone's Lair
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Beneath the ruins of [[Perdoli Manor]] lies the lair and alchemical workshop of [[Grimstone]]. It began as a [[Perdoli Family]] bolt-hole beneath the master bedroom, then was broken open and expanded by pirates in the early years of the DR 1700s. The pirates turned the bolt-hole into a much more expansive tunnel and cave system. However, in the DR 1720s, the pirates were massacred by the Tollen Navy, leaving their lair empty.
 

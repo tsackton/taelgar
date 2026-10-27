@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -11,11 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Uligium
-*(oo-lee-ghee-um)*
->[!info]+ Information  
-> (material)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Uligium is a rare living mineral prized for alchemical work, typically found in patches underground, particularly in natural cave systems. Though it tends to appear as a nondescript whitish patch on a wall, it can be recognized by its behavior: it will slowly ooze and flow towards heat, especially fire.
 

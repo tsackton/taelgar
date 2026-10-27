@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# The Wildhearts
->[!info]+ Information  
-> A [[Halflings|halfling]] family  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Wildhearts are a halfling family based in the [[Eastern Green Sea]]. Two brothers, [[Corrin Wildheart]] and [[Lerry Wildheart]], are crew on the [[Wave Dancer]]. 
 

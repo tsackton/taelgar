@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,12 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Paulina Nusinius
-*(pow-LEE-nah noo-SEE-nee-oos)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Paulina Nusinius was a Chardonian scholar and metaphysicist, who wrote shortly after the Great War on the relationship between Cha’mutte and Limbo. 
 

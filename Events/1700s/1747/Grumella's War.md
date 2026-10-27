@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 displayDefaults: {wPastHome: "", dPastHasStart: "Fought <home:q>, from <startDate> to <endDate>", defArt: ""}
@@ -14,10 +13,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Grumella's War
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% have some notes in OneNote that need to be incorporated, also a bit from the backstory of Schwartz's Mawar character, but nothing that alters the basic logic below %%
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Into the Chasm
 sessionNumber: 6
@@ -14,7 +13,8 @@ tagline: in which the willing flee Melusa
 sessionKey: into-the-chasm-session-6
 session-template: into-the-chasm-template.md
 ---
-# Into the Chasm - Episode 6
+```taelgar-header
+```
 
 >[!info] The Chasm Restored: in which the willing flee Melusa
 > *Featuring: [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Eolo]], [[Ekko]], [[Justas Rhostrin|Justas]]*

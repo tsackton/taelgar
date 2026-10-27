@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/lint]
@@ -8,7 +7,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# Taxes in Sembara
+```taelgar-header
+```
 
 The system of feudal lords in Sembara is maintained by a series of financial obligations from the general populace to the peerage, including the manorial lords as well as the nobles. 
 

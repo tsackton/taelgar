@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -15,10 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Exposition of the Alien Mind
->[!info]+ Information  
-> A [[Tollen|Tollish]] cosmological treatise, written in the DR 1600s, by [[Nicole Ardouin]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 *The Exposition of the Alien Mind* is a seminal work by [[Nicole Ardouin]] on the [[Far Realms]]. Nicole argues that good and evil are poor measures for understanding alien minds, and that some Far Realms may contain beings whose communication could bring new knowledge to the world.
 

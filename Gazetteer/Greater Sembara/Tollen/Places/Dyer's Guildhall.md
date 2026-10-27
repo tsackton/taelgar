@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Dyer's Guildhall
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Dyer’s Guildhall is among the more elaborate buildings in [[Guildgate]], a richly colored piazza‑front palace where the masters of the [[Dyer's Guild]] hold court. Its facade looks out over a stone‑paved square, with arcades and balconies often hung with bolts of brilliant color, a permanent advertisement for the famous [[Tollen Dyes|Tollen Red]] and the wealth of the guild.
 

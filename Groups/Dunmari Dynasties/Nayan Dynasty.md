@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -10,7 +9,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Nayan Dynasty
+```taelgar-header
+```
 
 The Dunmari dynasty founded in the aftermath of the Great War. 
 

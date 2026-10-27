@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Nayan Succession Crisis
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Nayan Succession Crisis was a contested succession during the [[Nayan Dynasty]] of [[Dunmar]]. It exposed growing fractures in the Dunmari temple hierarchy and the fragility of consensus within the Dunmari priesthood. The crisis followed the death of Samraat Nayan Lina in 171 Nayan, after a turbulent reign that began in 161 Nayan. 
 

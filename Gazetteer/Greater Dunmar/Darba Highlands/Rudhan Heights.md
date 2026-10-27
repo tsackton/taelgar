@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/name, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Rudhan Heights
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Rudhan Heights are the highland saddle at the northern fringe of the [[Yuvanti Mountains]], opening onto the rolling hills of the [[Darba Highlands]]. This region marks the height of land between the [[Yuvanti Mountains]] and the [[Chataan Mountains]] to the northwest; it is the source of the headwaters of the [[Rudhan]]; and an important orographic barrier that shapes the passage of the monsoons, creating a rain shadow that keeps the interior of central Dunmar and eastern Dunmar drier than the coast.
 

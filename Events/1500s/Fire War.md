@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -12,9 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Fire War
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 %% there is a bunch of history of the early blood years in Tokra that needs a more detailed proper chronology %%
 

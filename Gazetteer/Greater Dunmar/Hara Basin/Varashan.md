@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the, linkText: "on", ltPlace: "on"}
@@ -14,11 +13,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Varashan
-*(vah-RAH-shahn)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Varashan are the arid plains in the upper [[Hara Watershed]], north of the city of [[Tokra]], sometimes called the Varashan Plains or the Tokra Plains by outsiders. This is a land of rolling hills, short grass, and few hills, except in rare riparian valleys.
 

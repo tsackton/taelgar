@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/lint]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Hydrology of Tollen
+```taelgar-header
+```
 
 %% Review conflict: The list below runs west to east according to [[Map of Tollen]] and [[Tollen]], despite its east-to-west label. The Little River paragraph names Tanner's Gate, whereas [[Walls of Tollen]] places its entry at River Gate; [[Brooklawn Outer]] describes Tanner's Gate as dividing the Brooklawn wards. These differences require human resolution. %%
 

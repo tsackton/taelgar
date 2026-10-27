@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Ovina
-*(oh-VEE-nah)*
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Ovina is a dwarven blacksmith who has lived in Hamri for over 50 years, with a shop and smithy near the Shark's Dock. She is somewhat isolated from the Hamri community, and has a bit of a disreputable reputation. However, she makes a decent living in trade with ships at dock, especially those who need to get rid of treasure of dubious origin, which she smelts down and resells to the next ship.
 

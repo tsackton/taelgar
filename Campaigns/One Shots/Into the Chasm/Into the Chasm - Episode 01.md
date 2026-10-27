@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Into the Chasm
 sessionNumber: 1
@@ -14,7 +13,8 @@ tagline: in which a storm flings five strangers into Zeyfa's maze
 sessionKey: into-the-chasm-session-1
 session-template: into-the-chasm-template.md
 ---
-# Into the Chasm - Episode 1
+```taelgar-header
+```
 
 >[!info] Into the Chasm: in which a storm flings five strangers into Zeyfa's maze
 > *Featuring: [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Eolo]], [[Ekko]], [[Justas Rhostrin|Justas]]*

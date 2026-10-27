@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -10,11 +9,8 @@ pronunciation: ahn-KLOH
 whereabouts: Lake Rin
 POV: modern
 ---
-# Enclaut
-*(ahn-KLOH)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Enclaut is a village on the shore of [[Lake Rin]], near [[Rinburg]]. It serves as a lakeside resort, with numerous elegant houses belonging to wealthy residents of Rinburg.
 

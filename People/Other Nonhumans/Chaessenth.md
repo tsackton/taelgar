@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -14,10 +13,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1747
 ---
-# Chaessenth
->[!info]+ Biographical Info  
-> A dragon turtle (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Chaessenth is a young dragon turtle, who was captured very young (probably taken as an egg). He was held in a hidden lair in [[Tzingola]], where a fire mage controlled him through a burning black spear and used him as the apparent monster behind attacks and [[Gatza|gatza]] demands near [[Eskorola]].
 

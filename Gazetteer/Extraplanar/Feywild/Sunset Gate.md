@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: mike
 dm_notes: color
 POV: modern
 ---
-# The Sunset Gate
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The name for the line of sunset in the Feywild west of [[Twilight's Grace]] and east of [[Duskmire]]. It stretches from [[Amberglow]] north for some distance. It is a line of materialized color - yellows and reds and oranges painted in the sky, but as physical barriers - like paint brush strokes just sitting in the air. The colors are physical and passing through them is impossible, but they are riddled with cracks and openings. In some places, these cracks are sharp and dangerous, and passing through has weird time effects - sometimes it takes a day or a year to walk through a crack. 
 

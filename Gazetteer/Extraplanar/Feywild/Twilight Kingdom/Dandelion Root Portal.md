@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "<typeof:Ua> <secondary:q>", wHome: "<typeof:Ua> <home:q>"}
@@ -14,10 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740
 ---
-# The Dandelion Root Portal
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[the-door-in-the-floor.jpg|right|400]]The Dandelion Root Portal is a fey crossing between the [[Material Plane]] and the [[Feywild]]. 
 

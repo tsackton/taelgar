@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Outer Realms
+```taelgar-header
+```
 
 The Outer Realms are a concept proposed by [[Yendalism|followers]] of the [[Stoneborn|stoneborn]] metaphysicist [[Yendalo]], representing the collection of planes that are beyond the barrier of the [[Land of the Dead|Divine Veil]] (contrast with the [[Inner Realms]]). These include primarily the [[Spiritual Realms]], but the [[Land of the Dead|Divine Veil]] itself, and the [[Plane of Creation]] are also considered Outer Realms of a sort.
 

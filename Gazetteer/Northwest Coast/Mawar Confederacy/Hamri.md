@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/text, status/check/lint]
@@ -13,11 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1747
 ---
-# Hamri
->[!info]+ Information  
-> pop. 3,500  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% incorporate information from OneNote and rewrite %%
 %% Notes: see: [[Time Skip - Bullet Points]] for important recent history, e.g. 1747-1749%%

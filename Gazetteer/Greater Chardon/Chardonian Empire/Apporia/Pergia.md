@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Pergia
-*(PEHR-jah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Pergia is a small coastal city in [[Portalia]], near the southern entrance to the [[Old Chardon Canal]] on [[Emerald Bay]]. It lies on the broad tidal estuary immediately west of the Old Chardon Canal’s southern entrance.
 

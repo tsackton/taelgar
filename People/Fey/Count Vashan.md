@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,11 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Count Vashan
-*(kownt VAH-shahn)*
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Count Vashan, who calls himself by the epithet "The Broken Mask", is a drunken hanger-on in the court of [[Lord Soven]]. He does not recall his origin any longer, and most have ceased to ask, leaving him to his forgetfulness. Persistent rumors claim that he was once a respected member of the [[Cloudspinner]]'s court, long ago.
 

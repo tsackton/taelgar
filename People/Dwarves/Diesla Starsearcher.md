@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -19,11 +18,8 @@ dm_owner: none
 dm_notes: color
 POV: 1720
 ---
-# Diesla Starsearcher
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 [[Brot Starsearcher]]'s wife, a respected metalsmith in [[Taviose]]. A patient and loving companion to her somewhat scatterbrained spouse.
 

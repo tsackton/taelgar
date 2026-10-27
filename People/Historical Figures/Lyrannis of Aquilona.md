@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -12,9 +11,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# Lyrannis of Aquilona
->[!info]+ Biographical Info  
-> A [[Drankorian Empire|Drankorian]] [[Humans|human]] (she/her)
+```taelgar-header
+```
 
 Lyrannis of [[Aquilona]] was an influential cosmological philosopher and natural historian. She wrote extensively on elemental beings, especially genies, but is best known for [[On Elemental Forms]], in which she argues that creatures with a pure elemental essence are overwhelmingly associated with Fire, Water, Earth, or Air.
 

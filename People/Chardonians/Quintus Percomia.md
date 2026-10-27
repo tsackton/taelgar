@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Quintus Percomia
-*(KWEEN-toos pehr-KOH-mee-ah)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on May 30th, 1747 in [[Voltara]], [[Greater Voltara]], the [[Northern Provinces]] %%^End%%
+```taelgar-header
+```
 
 Quintus Percomia is a wealthy caravan master and [[chalyte]] trader based in [[Voltara]]. He dresses well, and keeps his short black hair and beard neatly trimmed. 
 

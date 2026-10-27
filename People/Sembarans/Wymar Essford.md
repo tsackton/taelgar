@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -21,13 +20,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720
 ---
-# Lord Wymar Essford
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of Essords
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:clee%% Roused by the [[Heroes of Cleenseau]] on January 3rd, 1720 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
+```taelgar-header
+```
 
 ![[WymarOfClenseau.jpeg|right|320]]The aging and senile lord of the manor in [[Cleenseau]]. The son of [[Reginald Essford]] and [[Celine Essford]]. He is rarely involved in the day to day events of the town. His children are [[Rosalind Essford]] and [[Rinault Essford]]. Since March 1719, he has been suffering from increasingly significant dementia and his daughter has largely taken over the management of [[Cleenseau]]. 
 

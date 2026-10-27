@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [background, religion/mosnumena]
@@ -10,7 +9,8 @@ dm_owner: mike
 dm_notes: color
 POV: modern
 ---
-# Festival of the Miracle of the Mist
+```taelgar-header
+```
 
 A [[Mos Numena]] feast day, celebrated on April 18th each spring in [[Abenfyrd]] and several other communities in the headwaters of the [[Aben]]. It commemorates a time when [[The Wanderer]] (it is said) used dense mists to lead a pack of trolls from the [[Plaguelands]] into the river, to drown.
 

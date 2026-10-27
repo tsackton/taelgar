@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,11 +13,8 @@ dm_owner: player
 dm_notes: important
 POV: 1730s
 ---
-# Eolo
-*(YO-loh)*
->[!info]+ Biographical Info  
-> A [[Kenku|kenku]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Eolo is a brash young kenku from the [[Far North]] and a member of the [[Chasm Explorers]]. After a white dragon destroyed his village, he spent much of his childhood among the [[Stoneborn]] of the [[Sentinel Range|Sentinels]]. He later traveled to [[Kemeko Monastery]], seeking out its kenku monks. His flight and psionic powers make him a mobile fighter, though his impulsiveness often carries him into danger.
 

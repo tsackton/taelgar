@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,12 +13,8 @@ whereabouts: Viepuck
 knownTo: [clee]
 POV: modern
 ---
-# Boots of False Tracks
->[!info]+ Information  
-> (magic boots)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[boots-of-false-tracks-viepuck.png|right|400]]A well-made set of heavy boots of unknown origin, found in [[Wakog's Camp]].
 

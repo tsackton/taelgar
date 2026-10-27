@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -21,14 +20,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Elandrial
-*(eh-LAN-dree-ahl)*
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] unknown)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% The [[Dunmar Fellowship]] heard about him on January 8th, 1749 %%^End%%
+```taelgar-header
+```
 
 An elf who was active during the [[History of the Drankorian Empire|Drankorian Era]]. Participated in attempts to decipher the [[Enchiridion of the Occulta Ludum]].
 

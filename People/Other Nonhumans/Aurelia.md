@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Aurelia
->[!info]+ Biographical Info  
-> A [[Centaurs|centaur]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
+```taelgar-header
+```
 
 Aurelia is a centaur woman, originally from a migrating tribe of centaurs, who settled in [[Tollen]] in the 1730s. 
 

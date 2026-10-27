@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [meta]
@@ -9,7 +8,8 @@ dm_owner: none
 dm_notes: none
 POV: undated
 ---
-# Creatures
+```taelgar-header
+```
 
 This directory contains **in-world**, **character-facing**, **player-facing**, and **meta** pages about the species of Taelgar. Player-facing pages should be kept in the Mechanics folder, as should any "rules-heavy" meta pages.
 

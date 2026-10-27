@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -7,7 +6,9 @@ campaign: Dunmar Frontier
 name: "Cecilia Lister's Story"
 POV: 1748
 ---
-# Cecilia Lister's Story
+```taelgar-header
+```
+
 ([[Session 81 (DuFr)|collected by]] [[Kenzo]])
 
 As she works on [[Kenzo]]'s tattoo, Cecilia tells her story. 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [meta, status/check/ai]
@@ -8,7 +7,9 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Playing a Centaur
+```taelgar-header
+```
+
 *See more: [[Centaurs]]*
 D&D Beyond Link: [Centaur](https://www.dndbeyond.com/species/2236579-centaur)
 

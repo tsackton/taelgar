@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,11 +13,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Zarnato
-*(zahr-NAH-toh)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Zarnato is the largest river of the northern branch of the [[Chasa-Nahadi Watershed]], draining the interior of the [[Northern Provinces]] and the western [[Sentinel Range|Sentinels]]. Just north of [[Lake Valandros]] it is joined by the [[Snake River]], and the combined waters ultimately reach the lake.
 

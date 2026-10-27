@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -11,12 +10,8 @@ whereabouts: Havdar
 knownTo: [dufr]
 POV: modern
 ---
-# The Medusa Blade
->[!info]+ Information  
-> (cursed sword)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 This longsword, of unknown make, is decorated with reptilian motifs, and radiates transmutation magic. 
 

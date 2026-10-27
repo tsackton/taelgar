@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
@@ -18,10 +17,8 @@ dm_owner: player
 dm_notes: important
 POV: 1748
 ---
-# Thror
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A sailor, pirate, and storm sorcerer, Thror felt remorse and prayed to the [[Bahrazel]] to give him another chance, and was nearly instantly pulled away to aid [[Riswynn]].
 

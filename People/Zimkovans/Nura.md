@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T23:30:02-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,11 +13,8 @@ whereabouts:
 knownTo: [itc]
 POV: 1730
 ---
-# Nura
-*(NOO-rah)*
->[!info]+ Biographical Info  
-> A [[Zimka]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Nura is a Zimka woman from [[Melusa]], the sister of [[Kalima]], wife of [[Khaled]], and mother of [[Samir]]. 
 

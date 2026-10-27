@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -8,10 +7,8 @@ name: "Beggar's Way"
 whereabouts: Cleenseau
 POV: modern
 ---
-# The Beggar's Way
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Beggar’s Way is a small cluster of single-room huts outside the walls and west of [[Cleenseau]], on the north bank of the [[Enst]]. The town’s poorest residents live there, earning their living as day laborers.
 

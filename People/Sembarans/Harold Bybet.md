@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -14,12 +13,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720s
 ---
-# Harold Bybet
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[Bybets]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[harold-bybet.png|right|320]]The husband of [[Annet Bybet]], he is a dear friend from childhood of [[Rinault Essford|Rinault]] and a keen hunter and horseman. He lives at [[Essford Manor]]. 
 

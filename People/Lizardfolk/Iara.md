@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/gl, status/check/lint]
@@ -17,11 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Iara
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on June 22nd, 1747 in [[Voltara]], [[Greater Voltara]], the [[Northern Provinces]] %%^End%%
+```taelgar-header
+```
 
 Iara is a lizardfolk woman from an unnamed village west of [[Voltara]]. Her village vanished under [[Lizardfolk Village Disappearances|mysterious circumstances]], though she survived and asked for help from [[Samso]] and the [[Silver Tempests]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,11 +16,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1710s
 ---
-# Perrin Voclain
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[perrin-the-druid.png|right|320]]Perrin Voclain is a sage and acolyte of the Wildling who lives in [[Taviose]]. He is known for his friendship with the animals of [[Cleenseau Wood|the Wood]], and for his minor miracles of healing and guidance. 
 

@@ -1,12 +1,12 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Great Library
 DR: 1747-12-24
 DR_end: 1748-08-25
 name: Chronicles of the Silver Tempests Ascendant
 ---
-# Chronicles of the Silver Tempests Ascendant
+```taelgar-header
+```
 
 Fresh off their victory over the hag [[Morgana Stoneclaw]], the party, now calling themselves the [[Silver Tempests]], finds themselves facing some of the more terrible monsters of the land. While returning to [[Voltara]], they learn a black [[Dragons|dragon]] is disrupting the [[Northern Provinces]], causing conflict between the [[Fort Zarnato]] and a local [[Bullywugs|bullywug]] population. Proving their growing power, the [[Silver Tempests]] kill the dragon, [[Nymthrax]], and loot the riches of its lair. Returning to [[Voltara]], they leave to explore the ruins far beneath [[Goldpeak Mountain]], (re)uniting with some Chardonian explorers and finding the lair of a beholder, [[Vilaxes]]. Defeating the beholder, the [[Silver Tempests]] return to [[Voltara]], extremely wealthy and in need a long break, during which [[Brelith]] opens a restaurant and retires. Their break is interrupted, however, by the arrival of [[Mabist]] with the news that [[Dinia]] has been captured by the [[Havoc Host]]. The [[Silver Tempests]] ride forth in anger, freeing [[Dinia]] from the control of an aboleth, [[Ithu’rax]], near the village of [[Suwi]]. 
 

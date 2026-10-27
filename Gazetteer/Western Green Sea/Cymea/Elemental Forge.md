@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Elemental Forge
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Elemental Forge is a Drankorian‑era workshop and laboratory within the [[Edge of Echoes]] cave complex on the [[Freccilia|Freccilia River]]. The site was constructed to harness planar energies for magical purposes. An entity of elemental air—[[Sh’shethis]]—was bound here for centuries, its presence sustaining an [[Extraplanar Weak Point|extraplanar weak point]] that infused the chambers with ambient power. Across several galleries lie well‑preserved workrooms associated with the [[Occulta Ludum]], including alchemical benches, warding circles, and jeweler’s tools. 
 

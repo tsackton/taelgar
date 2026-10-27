@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ name: Ring of Escape
 knownTo: [clee]
 POV: modern
 ---
-# Ring of Escape
->[!info]+ Information  
-> (magic ring)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 ![[gareths-ring.jpg|right|420]]A dusky ring, taken from [[Gareth of Tollen]] after his capture. 
 ### Mechanics

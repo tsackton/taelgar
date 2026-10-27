@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Valenfray Hills
-*(VAL-en-fray HILZ)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Valenfray Hills form a broken east–west line of gentle, rolling hills between the [[Aure]] and the [[Maerwyn Mountains]], partially separating [[Addermarch]] from the [[Darkwood]]. Their western stretches are lightly forested, with the northwestern slopes often settled by foresters. The higher ground toward the [[Maerwyn Mountains|Maerwyns]] is rougher and cut by sharp ravines. The ridge line is heavily fortified, guarding Addermarch’s southern border against the [[Plaguelands]] and the Darkwood.
 

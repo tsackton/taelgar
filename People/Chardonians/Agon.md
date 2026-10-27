@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -19,13 +18,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Agon
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Mentioned to the [[Dunmar Fellowship]] on August 21th, 1748 %%^End%%
+```taelgar-header
+```
 
 %% another heard rumors of person that I want to tag in a consistent way with campaignInfo to replace dufr/aware %%
 

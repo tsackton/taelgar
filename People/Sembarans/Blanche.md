@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720
 ---
-# Blanche
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[blanche-of-beury.png|right|320]][[Lionel Mortagne|Lionel's]] right hand, and the magistrate of [[Beury]].
 

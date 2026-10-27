@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,11 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Mount Nera
-*(mount NEH-rah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Mount Nera is a large, presumably extinct volcano, with a conic summit of basalt and obsidian, rumored to be deeply magical. It sits on the north bank of the [[Chasa|Chasa River]], looming over the city of [[Chardon]], and is one of the most prominent landmarks in the city. 
 

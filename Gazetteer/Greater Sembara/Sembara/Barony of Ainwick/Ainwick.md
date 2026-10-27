@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Ainwick
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A town in western Sembara, on the upper reaches of the River Wistel. This is an important communication and market hub for the upper reaches of the [[Wistel]] river. Although the [[Army of the West]] is based further west, along the [[Western Wall of Sembara]], Ainwick is in many ways the spiritual heart of the army.
 

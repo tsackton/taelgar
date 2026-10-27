@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-08T15:19:05-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,12 +16,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Jorundr
-*(YOR-oondr)*
->[!info]+ Biographical Info  
-> A [[Giants|giant]] (storm) (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Jorundr was a storm giant wanderer and student of history. He was born under the [[Green Sea]]. Eager, impulsive, and optimistic, he left his underwater home while young and wandered widely, especially across the [[Great Desert|deserts east]] of the [[Drankorian Empire]]. He became a friend and pupil of [[Hralgar]], spending a century or more with him, and hoped for a new age of harmony between humans and giants.
 

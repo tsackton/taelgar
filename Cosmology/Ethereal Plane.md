@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Ethereal Plane
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Ethereal Plane, according to tales, is a disorienting place of dense fog and vibrant mist. Although it is said a skilled traveler can reach any of the [[Energy Realms]], and even the [[Plane of Magic]] itself, few are foolhardy enough to leave the safe confines of the Ethereal borderlands, where the ghostly, permeable echoes of the [[Material Plane]] can still be perceived.
 

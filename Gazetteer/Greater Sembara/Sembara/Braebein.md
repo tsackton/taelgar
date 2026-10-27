@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Braebein
-*(BRAY-been)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Braebein forms the western and northern borders of the [[Duchy of Arnsbury]], and marks the beginning of the long climb of land towards the [[Sentinel Range|Sentinels]] that distinguishes the Sembaran [[Highlands]] and [[Zimkova]].
 

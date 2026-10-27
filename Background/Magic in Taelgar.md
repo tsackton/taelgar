@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [background, status/review, status/check/lint]
@@ -9,7 +8,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Magic in Taelgar
+```taelgar-header
+```
 
 %% Lots of stuff still to flesh out:
 - impact of rare high level spells

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,11 +13,8 @@ whereabouts: Heroes of Cleenseau
 knownTo: [clee]
 POV: modern
 ---
-# Ewer of Liquid
->[!info]+ Information  
-> ([[Drankorian Empire|Drankorian]] magical ewer)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[ewer-of-liquid.png|right|420]]A strangely unchipped ceramic ewer, decorated with Drankorian words for milk, water, beer, wine, honey, vinegar, tea and oil in stylized patterns running up and down the sides. It holds about a quart of liquid and sounds full of water sloshing around despite being empty. Found in the bandit lair.
 

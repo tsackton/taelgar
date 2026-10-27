@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -15,11 +14,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# The Runes of Creation
->[!info]+ Information  
-> A magical book, by an unknown author  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A seemingly empty book. Found by a Dunmari citizen of [[Karawa]]. This man often scavenged for sellable loot in the desert. He had found three books some time ago, two filled with strange writing and one blank, and had sold the ones with writing to [[Servius]], a Chardonian who worked for some library in [[Chardon]]. He found them on an [[Orcs|orc]], an ancient individual, with wrinkled skin, dried out almost like leather, who carried nothing but a ripped pouch and these three books. 
 

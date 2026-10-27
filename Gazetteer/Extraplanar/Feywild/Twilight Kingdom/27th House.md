@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740
 ---
-# The 27th House
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A strange house, north of [[Lord Endless Ending's Manor]] in the [[Twilight Kingdom]]. It is reached by a westward footpath branching from the north road, which runs along a narrowing promontory above cliffs that drop into deep darkness, ending not at a visible building but at a single freestanding door.
 

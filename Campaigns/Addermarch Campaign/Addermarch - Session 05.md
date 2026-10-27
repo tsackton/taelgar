@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 5
@@ -11,7 +10,8 @@ name: Addermarch Campaign - Session 5
 tagline: in which a prisoner is freed and a queen defeated
 descTitle: Rescue and Confrontation
 ---
-# Addermarch Campaign - Session 5
+```taelgar-header
+```
 
 >[!info] Rescue and Confrontation: in which a prisoner is freed and a queen defeated
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

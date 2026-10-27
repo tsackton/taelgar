@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,13 +16,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Ashar
-*(ah-SHAR)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 2nd, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 An old Dunmari soldier from [[Tokra]], who fought in the [[Summer of Red Storms]], lost an eye, and retired to drink and reminisce with his war buddies. Spends a lot of time at [[Darshana's Caravanserai]] in [[Tokra]].
 

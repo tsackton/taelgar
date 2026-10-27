@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# Laicon
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A small village that grew up around [[Ausson's Crossing]], a large inn, in the late 1690s. [[Ausson's Crossing]] is still the dominant building and still the heart and soul of the village. It is set across the [[Maseau - Dunmar Road]] and has become an important trading point for [[Aurbez Plateau]] scavengers who reclaim dwarven mining goods and ore from the ruins and dangers of [[Ardith]] and sell it to the outside world.
 

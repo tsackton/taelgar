@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,13 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Albus
-*(AHL-boos)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 5th, 1748 in [[Darba]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 A Chardonian bookseller who lives and works in [[Darba]]. Well connected to the local academic community. 
 

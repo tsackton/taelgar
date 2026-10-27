@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Spring's A Come
+```taelgar-header
+```
 
 An [[Ursk|Urskan]] folk song, about the coming of spring.
 ![[ursk-sings-of-spring.mp3]]

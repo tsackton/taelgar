@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/lint]
@@ -9,7 +8,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Metaphysics of Creatures
+```taelgar-header
+```
 
 The multiverse of Taelgar contains a diverse array of self-aware creatures. This documents some metaphysics and worldbuilding about how different types of creatures are different.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,11 +17,8 @@ dm_notes: none
 pronunciation: BAL-thuh-zahr
 POV: 1720
 ---
-# Balthazar
->[!info]+ Biographical Info  
-> A [[Duchy of Maseau|Maseanne]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[balthazar.png|right|320]]He possesses a bright intellect but appears malnourished, bearing the marks of recent captivity by orcs. He is often shy, and seems to prefer to avoid crowds or a lot of people, but is keenly interested in learning and gaining knowledge. He is somewhat prideful, and hates to be given answers, and is often quite reluctant to accept help. He currently lives in [[Underhill]] with a number of other refugees from [[Wakog's Camp]], and has mostly been eking out a living on charity. 
 

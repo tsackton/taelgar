@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Coastlands
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Coastlands is the colloquial name for the coastal region of the Chardonian Empire, stretching from the borders of [[Portalia]] in the south to the [[Mawar Mountains]] in the north, and bounded inland by the [[Beacon Hills]] and the [[Chardon Hills]]. 
 

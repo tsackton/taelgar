@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "Sometimes considered one of the <secondary:1>", defArt: the}
@@ -13,10 +12,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# The Feywild
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% status -> a page like this is never really done. this is complete for usability, but tagging status/review for:
  - [ ] a Tyrwinghan perspective on fey inhabitants, in particular would be useful

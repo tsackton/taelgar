@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,10 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740
 ---
-# Endlessly Ending's Butler
->[!info]+ Biographical Info  
-> A [[Fey|humanoid badger]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A badger-like fey attendant of [[Lord Endless Ending]] at [[Lord Endless Ending's Manor]]. He appears as a humanoid badger about the size of a halfling, dressed in formal clothes and plainly responsible for the household. He presents Lord Endless Ending to guests, asks who may be presented to his lord, and helps manage the etiquette of gifts and introductions.
 

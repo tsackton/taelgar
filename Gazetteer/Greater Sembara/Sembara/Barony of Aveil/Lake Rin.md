@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,10 +10,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720
 ---
-# Lake Rin
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A large lake formed by the confluence of the [[Auberonne]] and the [[Enst]], it is surrounded by pastures and sheep farms, and five villages dot the banks:
 

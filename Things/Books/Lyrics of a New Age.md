@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>"}
@@ -15,10 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Lyrics of a New Age
->[!info]+ Information  
-> An [[Elves|Elvish]] poem collection, written during the [[History of the Drankorian Empire|Drankorian Era]], by [[Nelawe]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 This is a collection of poems and songs by a relatively little-known Drankorian era Elvish poet, [[Nelawe]]. This book is chiefly notable in Elvish literary history as an early example of Elvish works departing from the traditional poetic and epic forms, playing with spacing and language in echo and response to the classics. Of particular note is her fascination with responding to and playing with themes of the forgotten past, which for elves often meant giants and the lore of the timeless days before the [[Riving]].
 

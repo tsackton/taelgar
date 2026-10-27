@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 displayDefaults: {wPastHome: "Fought <home:q>", dPastHasStart: "Fought in <startDate>"}
@@ -14,12 +13,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Battle of Urlich Pass
-*(BAT-ul uv UR-likh pass)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> Part of The [[Great War]]  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Battle of Urlich Pass was the climactic battle of the [[Great War]] in DR 1545. It was fought in the central [[Sentinel Range]] at [[Urlich Pass]], where the armies of [[Sembara]] and [[Ainumarya]], and many allies, met the mostly [[Hobgoblins|hobgoblin]] armies of [[Cha'mutte]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 tags: [object, status/check/lint]
@@ -18,12 +17,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Crown of Purity
->[!info]+ Information  
-> (artifact magical crown)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Crown of Purity is an ancient and immensely powerful relic, rumored to have been created from a fragment of reality during the [[Riving]], whose form shifts to match its bearer. In the last days of the [[Drankorian Empire]], it was part of Apollyon’s imperial regalia and a focus for his dominion over the people of [[Drankor]]. After his fall it passed out of sight.
 

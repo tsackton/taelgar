@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,13 +18,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1749
 ---
-# Aritza
-*(ah-REET-sah)*
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 7th, 1749 in [[Three Wells]], the [[Refounded Alliance of Aurbez]] %%^End%%
+```taelgar-header
+```
 
 ![[aritza.png|right|400]]Aritza is a lizardfolk elder, representing the people of the marshes in [[Refounded Alliance of Aurbez]] business. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Lake Suwi
-*(SOO-wee)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Lake Suwi is a small lake upriver from the coastal village of [[Suwi]], west of the [[Fiatara Mountains]] and near the [[Slate Sea]]. The woods along its shore are frequently logged by the nearby villagers of [[Suwi]], and the ruins of a castle overlook the lake from a rocky clearing.
 

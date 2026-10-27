@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 tags: [session-note]
@@ -14,7 +13,8 @@ descTitle: The Cursed Song
 name: Addermarch Campaign - Session 11
 POV: 1715
 ---
-# Addermarch Campaign - Session 11
+```taelgar-header
+```
 
 >[!info] The Cursed Song: in which the party discovers a fey mystery.
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

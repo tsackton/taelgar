@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, status/check/lint]
@@ -10,10 +9,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Sarqon
-*(Sahr-kon)*
->[!info]+ Information  
-> An [[Incorporeal Gods|incorporeal god]]
+```taelgar-header
+```
 
 An incorporeal god of slavery, imprisoned by [[Divine Presence|Arha]] and [[Divine Presence|Malik]] in the early days of humanity, preventing any gods of slavery from ever arising again. 
 

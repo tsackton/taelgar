@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-13T12:24:51-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/mike]
@@ -12,10 +11,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Sunward Reach
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Sunward Reach is a fortified fey realm on the immediate sunward side of the [[Sunset Gate]]. It is a small realm, a border realm, a place of fey knights and sunset castles dedicated to protecting the light from the nightmares of the dark that might try to creep across the [[Sunset Gate]]. Chiefly, the defenders of Sunward Reach are concerned with the minions of [[Harrow]] and [[Wend]], though they watch for all dangers.
 

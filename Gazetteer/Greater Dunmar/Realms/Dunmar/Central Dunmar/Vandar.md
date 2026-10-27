@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Vandar
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 An abandoned mining village in the [[Copper Hills]]. The village is set in the hills, on a bit of a rise. While most of the town is just ruins, the temple of the [[Dunmari Religion]], on a larger hill, is still mostly intact, albeit completely looted of any valuables. A short walk from the village is a flooded copper mine shaft. 
 

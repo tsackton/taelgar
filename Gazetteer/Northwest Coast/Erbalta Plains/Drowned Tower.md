@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/ai]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-
-# The Drowned Tower
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 An ancient, half‑submerged ruin on the [[Erbalta Plains]], noted for a persistent confluence with the [[Elemental Plane of Water]]. The tower’s lower chambers are waterlogged throughout the year, with a central reservoir and flooded halls that have given the site its name. Scholars of the [[Great Library]] identify the Drowned Tower as a planar locus documented in the correspondence of [[Airion|Airion Mistspeaker]], who sought out places where the boundary between the Material and the Elemental planes is thin. The exact nature of the [[Planar Connections|planar connection]] here is unclear.
 

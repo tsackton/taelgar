@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: God Tree Vision
 POV: 1748
 ---
-# God Tree Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 You hold the mirror up to reflect the God tree, and see a reflection of a thriving elvish nursery, branches twisting in a spiral up the tree with platforms woven from giant leaves, holding elven children in various states of trance. The branches sway occasionally, and time speeds up. You see generations pass – hundreds of years – until suddenly the tree bursts into flame.
 

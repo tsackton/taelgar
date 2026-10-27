@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -9,7 +8,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Dunmari Religious Practice
+```taelgar-header
+```
 
 This page describes the religious practices of the Dunmari people, focusing on the worship, temples, rites, and rituals associated with the [[Dunmari Pantheon]]. 
 ## Worship

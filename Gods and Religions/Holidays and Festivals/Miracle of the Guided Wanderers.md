@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [background, religion/mosnumena]
@@ -10,7 +9,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The Miracle of the Guided Wanderers
+```taelgar-header
+```
 
 A [[Mos Numena]] feast day, celebrated on September 11th each fall in [[Asineau]]. It commemorates the founding of a small village in the [[Barony of Brumecliff]], the inhabitants of which resettled in Asineau after the [[Third Hobgoblin War (Sembara)|hobgoblin wars]]. 
 

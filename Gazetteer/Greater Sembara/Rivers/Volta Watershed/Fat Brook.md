@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,10 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Fat Brook
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A small river flowing south into the [[Volta]], through [[Tollen]], channeled and partially covered.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,12 +12,8 @@ whereabouts: Peydon
 knownTo: [clee]
 POV: modern
 ---
-# Arnault Daverre
-*(ar-NOH dah-VEHR)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Arnault Daverre was the husband of [[Emeric Daverre]], lord of [[Peydon]]. He studied the old [[Kestavo]] traditions and collected an inscribed stone associated with them. He died during the [[Undead Attacks in Sembara]].
 

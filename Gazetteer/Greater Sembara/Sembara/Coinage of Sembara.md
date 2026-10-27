@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Coinage of Sembara
+```taelgar-header
+```
 
 The economy of Sembara is fully monetized, and most large transactions take place using coins. Although barter does occur in smaller villages, and the major [[Taxes in Sembara|taxes]] (especially the deca and nonem) are typically paid in kind, coinage is common throughout the Sembaran region.
 

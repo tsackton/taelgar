@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Amance Brook
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
  A bubbling brook that runs into the [[Enst]] near [[Auloutte]], with its origins somewhere in the [[Cleenseau Wood]]. A narrow cart track runs beside it leading to [[Valit]]. It is relatively easy to ford if you don't mind getting your feet wet or if on horseback, but wagons and caravans prefer to use one of the two bridges: the main bridge along the [[Great South Road]], and a smaller one in the town of [[Valit]]. 
  

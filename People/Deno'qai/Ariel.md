@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -21,13 +20,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Ariel
->[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (she/her), of the [[Te'kula]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on September 11th, 1748 in [[Neshet|Te'kula village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
+```taelgar-header
+```
 
 An elderly woman with stark white hair pulled back in a loose ponytail and wrinkled skin. While she is arthritic and slow, her mind is sharp and she has a clear memory of the stories of her youth, the tales of the [[Meswati]] and the [[Great War]].
 

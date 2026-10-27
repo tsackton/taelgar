@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -14,10 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740
 ---
-# Pandel
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Pandel is a halfling, originally from Chardon during its days as an imperial frontier, who traveled extensively around the [[Feywild]] before finding himself a guest at [[Lord Endless Ending's Manor|Lord Endless Ending's Manor]].
 

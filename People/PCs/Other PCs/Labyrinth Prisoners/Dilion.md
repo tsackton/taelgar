@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -20,12 +19,8 @@ dm_owner: player
 dm_notes: none
 POV: 1748
 ---
-# Dilon
->[!info]+ Biographical Info
-> A [[Humans|human]] (he/him), of the [[Labyrinth Prisoners]]
-> [Character Sheet](https://www.dndbeyond.com/characters/112552742)
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Dilon is a [[Humans|human]] artificer and battlesmith who left his home to seek adventure. Dilon travels with [[Pikeia|Kaiko]], his trusted dog, and the [[Steampup]], his magical steel defender. He is most comfortable on the road and in the wilderness, still looking for a place to settle.
 

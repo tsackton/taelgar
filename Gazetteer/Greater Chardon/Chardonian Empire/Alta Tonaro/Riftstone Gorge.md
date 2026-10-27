@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Riftstone Gorge
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Riftstone Gorge is a deep, broken canyon system cut into the arid northern slopes of the [[Chataan Mountains]], beneath the towering bulk of [[Thundercrown]]. It consists of a wide central canyon, flanked by steep cliffs, with narrow slot canyons branching in all directions. Most of the year, this is a land of dust, with only the occasional sparse scrub and hardy trees clinging to shaded canyon bottoms. However, after a rain, the canyon floor comes alive with green and sudden wildflowers.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, religion/dwarven]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Uzdan
-*(UZ-dahn)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The patron of those who lead, whether armies or kingdoms, and worshipped as the first king of the dwarves. He is also associated with truth, reflected in the dwarven Rune of Truth.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Battery
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A ward of Tollen located on the south bank of the [[Volta]], across from [[Skepwalk]]. Battery extends the furthest downriver of any ward of the city. A great series of fortifications were constructed here during the years before the [[Great War]], which still guard the river approaches. Though not densely populated, as trade has grown in recent years this has become the center of the Tollen shipbuilding industry, with vast storage yards for timber and spars. Much of the fishing industry has also moved here in recent years. 
 

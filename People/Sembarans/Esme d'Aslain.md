@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,11 +14,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720
 ---
-# Esme D'Aslain
-*(ez-MAY dahz-LAYN)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[d'Aslains]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A niece of [[Isabeau D'Aslain]], residing part-time in [[Veltor]] as a fostered family member. Curious about magic yet apprehensive of its moral risks.
 

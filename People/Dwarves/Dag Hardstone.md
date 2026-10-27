@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,13 +17,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Dag Hardstone
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of the [[Hardstones]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Cured of lycanthropy by [[Delwath]] on July 1st, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 Dag is the youngest member of the Hardstone clan, an extended family of dwarves that have lived at and worked for the [[Tokra]] [[Archives]] for generations, helping to maintain the building. 
 

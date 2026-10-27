@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Smokeshroud
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Smokeshroud is a poorly described [[Energy Realms|Energy Realm]], a place of endless smoke, ash and cinder falling from the sky in wave upon wave. In [[Airion|Airion the Mistspeaker]]'s system, it is considered to represent the mingling of Fire and Air.
 

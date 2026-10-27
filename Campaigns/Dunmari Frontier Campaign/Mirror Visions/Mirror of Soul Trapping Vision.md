@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: Mirror of Soul Trapping Vision
 POV: 1748
 ---
-# Mirror of Soul Trapping Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 
 [[Mirror of the Past]] fades, and you see reflected the interior of [[Agata]]’s hut. Dark, smoky. The chair and table all set up as mostly as you saw them. There is an [[Nogu|orc]] sitting in the chair, the big chair that used to be a Dunmari woman. The [[Orcs|orc]] looks battered and bruised, her hands are tied behind her, and [[Agata]] is holding a jar of a bubbly brown gooey substance and painting it onto her leg. As she paints, the leg starts to solidify and turn to wood and then she takes an awl and starts chipping at this [[Orcs|orc]]’s wooden leg. [[Agata]] is speaking, but the [[Orcs|orc]] says nothing. [[Agata]] slaps her, and then turns the mirrors hanging on the wall, says something and the [[Orcs|orc]] vanishes.

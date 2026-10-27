@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,11 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Mossfoot
->[!info]+ Biographical Info  
-> A pony  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Mossfoot is [[Edric|Edric's]] pony: stalwart, stubborn, loyal to Edric, but not especially brave. After escaping the destruction of [[Dandelion House]] in DR 1740, Mossfoot lived for several years in [[Varrow Forest]], before meeting his end.
 

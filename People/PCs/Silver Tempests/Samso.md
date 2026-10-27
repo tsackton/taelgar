@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-13T13:45:21-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,13 +19,8 @@ dm_owner: player
 dm_notes: none
 POV: 1747
 ---
-# Samso
-*(SAHM-soh)*
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Samso was born in the small, isolated village of [[Urkabi]], nestled near the source of the [[Zurrua]], a minor river west of the [[Old Chardon Canal]] in the [[Chardonian Empire|Chardonian]] provence of [[Portalia]], on the [[Apporia|Apporian Peninsula]]. It was a great place for a young lizardling to grow up, with endless hidden forests to explore in the foothills, and there was nothing that Samso enjoyed more than exploring the woods and streams of [[Urkabi]] and the surrounding land. As Samso grew, he spent longer and longer away from home, learning the paths and thoughts of the plants and animals of the [[Zurrua]] valley. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -21,13 +20,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# General Murook
->[!info]+ Biographical Info  
-> An [[Orcs|orc]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on December 10th, 1749 in [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
+```taelgar-header
+```
 
 Murook, an [[Orcs|orc]] woman from the [[Plaguelands]], was freed from [[Thark]]'s curse in childhood by [[Lubash]]'s father, [[Karguk]]. She now serves as the general of [[Lubash]]'s army, and the unofficial leader of the [[Hezguli]], the reborn [[Orcs|orcs]] who've been similarly freed. 
 ## Overview

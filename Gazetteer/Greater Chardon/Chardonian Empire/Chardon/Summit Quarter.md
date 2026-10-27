@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>"}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# The Summit Quarter
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% preserving dm notes color until I have a chance to write a few more vibes descriptions and maybe an image %%
 

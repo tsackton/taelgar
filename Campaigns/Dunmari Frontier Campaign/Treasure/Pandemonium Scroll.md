@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -10,11 +9,8 @@ name: Pandemonium Scroll
 knownTo: [dufr]
 POV: modern
 ---
-# The Pandemonium Scroll
->[!info]+ Information  
-> (magical scroll)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A strange scroll, with writing in an impossible language. The runes wiggle and squirm when one tries to look at them, and caused mild nausea and confusion. Can somehow be used to draw the plane of [[Pandemonium]] close to the material world. 
 

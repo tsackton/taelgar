@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Dragonets
@@ -15,7 +14,8 @@ POV: undated
 sessionKey: dragonets-session-1
 session-template: dragonets-template.md
 ---
-# Dragonets - Session 1
+```taelgar-header
+```
 
 >[!info] Eight Homes, One Family
 > *Featuring: Heska, Sculpit, Little Tony, and Zeno*

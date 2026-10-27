@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {startStatus: met, partOf: "", linkText: by, ltPerson: by}
@@ -11,10 +10,8 @@ dm_owner: mike
 dm_notes: important
 POV: 1720
 ---
-# The Heroes of Cleenseau
->[!info]+ Information
-> An adventuring party
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 A group of four fate-blown adventurers who met in [[Taviose]] during the [[Cleenseau Spider Attacks]]. Since then, they have become well-known in the region.
 

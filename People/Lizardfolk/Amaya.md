@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,12 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: 1747
 ---
-# Amaya
-*(ah-MY-ah)*
->[!info]+ Biographical Info  
-> A salt [[Lizardfolk|lizardfolk]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Amaya is a young lizardfolk scout and hunter. In DR 1747, she guided [[Ryu]], [[Ander]], and [[Nerissa]] through the [[Tzingola|Tzingola Marshes]] as they sought to [[Mawar Adventures Episode 04|uncover the mystery around a beast demanding gatza-tribute]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Positive Energy Plane
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Positive Energy Plane is a hypothesized [[Energy Realms|Energy Realm]], described in the lizardfolk epic [[The Endless Currents]], by the lizardfolk mystic [[Aznoke|Aznoke]]. She speaks of a Plane of Blossoming Currents, the wellspring of vitality, where life flows into being like a river surging forth from its source. Most scholars in the [[Faculty of Metaphysics]] assume that this description corresponds to a proposed Positive Energy Plane, though whether this fully captures the intent of Aznoke's work is not clear. However, no planar traveler is known to have reached the Positive Energy Plane and returned safely.
 

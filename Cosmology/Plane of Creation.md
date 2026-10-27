@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
@@ -13,10 +12,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# The Plane of Creation
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Plane of Creation is the name given by experimental theologists to the ultimate source of divine power, the place where [[Soulstuff]] originates, and the home of the [[Divine Presence]]. Most scholars do not believe this is a place a traveler can visit, or at least not visit and survive; indeed, recent theoretical calculations by the theological cosmologist [[Heloise of Tollen]] suggest that the Plane of Creation itself may be an infinitely dense agglomeration of [[Soulstuff]], impenetrable to any force except the [[Divine Presence]].
 

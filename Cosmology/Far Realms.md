@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -8,7 +7,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Far Realms
+```taelgar-header
+```
 
 It is well-known that some ancient horrors, most notably [[Ithilids|Mind Flayers]], are native to dark, alien places, and some eldritch secrets are said to come from ancient gods who slumber outside the reach of the [[Divine Presence]]. Arcane cosmologists have proposed that the native realms of creatures such as these must be beyond the [[Multiverse]], and have given the name the Far Realms to these strange, alien places.  
 

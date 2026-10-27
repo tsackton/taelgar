@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -11,10 +10,8 @@ name: Dunmari Map of Pandemonium Ruins
 knownTo: [dufr]
 POV: modern
 ---
-# The Dunmari Map of Pandemonium Ruins
->[!info]+ Information  
-> (uncommon [[Dunmar|Dunmari]] magical map)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A map of the ruins of the Pandemonium fort, north of [[Tokra]] created by the Dunmari during [[Exile of Fraternity of the Empty Moon]]. Contains notes on the secret paths to avoid the effects of [[Pandemonium]] while approaching.
 

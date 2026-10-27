@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/cleanup/metadata]
@@ -10,10 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Grand Conclave of Mawakel
-*(grand KON-klayv of mah-WAH-kehl)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 A grand conclave called in 1545 between the Mawar and the salt lizardfolk, who, through the gatza ceremonies, had a foretelling of further danger to come. At the conclave, it was agreed to undertake a great magic to hide the land, as much as it could be hidden. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Balrik Frostbeard
-*(BAHL-rik FROST-beerd)*
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him)
+```taelgar-header
+```
 
 Balrik Frostbeard is a planar geographer with a particular interest in the [[Elemental Plane of Earth]]; he collected a number of reliable reports that have shaped modern understanding of that plane. 
 

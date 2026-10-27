@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,11 +14,8 @@ dm_owner: mike
 dm_notes: none
 POV: 1720
 ---
-# Raoul Boulain
-*(rah-OOL boo-LAN)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 Raoul Boulain was a Sembaran human cleric and elder of [[The Night Queen]], prominent in the goddess’s councils. During the [[Undead Attacks in Sembara]] in DR 1720, he, [[Lenora Belles]], and their companions played a central role in defeating [[Malach]], destroying his phylactery and killing the lich. Raoul died on March 20, DR 1720.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Redsun Watch
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Redsun Watch is one of several outposts established by the [[Cloudspinner]] on the eastern edge of [[Amberglow]], near the [[Sunset Gate]]. Since her disappearance, the fate of Redsun Watch and other border outposts is unknown.
 

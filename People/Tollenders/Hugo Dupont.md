@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -19,13 +18,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Hugo Dupont
->[!info]+ Biographical Info  
-> An [[Istabor Alliance|Isinguer]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 29th, 1748 in [[Magus Street]], the [[Tollen|Free City of Tollen]] %%^End%%
+```taelgar-header
+```
 
 ![[hugo-dupont-portrait.png|right|320]]Hugo Dupont is a scholar and theologian, and a lecturer at the university, known for his classes on comparative divinity and theological science, particularly a series of lectures and scholastic discourse on the nature of intercessionary prayer, and the intertwined divinities of the [[Mos Numena|Eight Divines]].
 

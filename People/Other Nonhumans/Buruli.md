@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-05T14:58:52-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,12 +15,8 @@ whereabouts:
 - {type: home, location: Elemental Plane of Water}
 POV: 1740s
 ---
-# Buruli
-*(boo-ROO-lee)*
->[!info]+ Biographical Info  
-> A [[Merfolk|merfolk]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Buruli is a [[Merfolk|merfolk]] warlock associated with the mysterious entity [[Gazankoa]].
 

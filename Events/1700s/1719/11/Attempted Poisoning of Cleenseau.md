@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -10,9 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Attempted Poisoning of Cleenseau
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 A group of bandits led by [[Francois the Bandit]] attempted to poison the [[Army Garrison of Cleenseau]] and much of the rest of the populace during the [[Festival of the Bridge]]. Using a purgative derived from [[Gentza]]'s research the group was apparently planning on sickening much of the defensive strength of the town and then burning as much of it down as they could.
 

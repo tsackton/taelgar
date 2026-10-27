@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -9,7 +8,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1748
 ---
-# The Energy Realms
+```taelgar-header
+```
 
 In the [[Standard Multiversal Model]], made famous by the [[Faculty of Metaphysics]] at the [[University of Chardon]], the Energy Realms are the name for the collection of planes associated with the fundamental energies of the multiverse. The traditional model, popularized by [[Julius Ceptuso]], postulates five fundamental energies of matter, Earth, Air, Fire, Water, and Magic, each associated with an Energy Realm. Although modern metaphysical cosmologists typically consider Magic to be a fundamental multiversal force and do not include the Plane of Magic within the Energy Realms, the five fundamental energies retain a hold on the popular conception.
 

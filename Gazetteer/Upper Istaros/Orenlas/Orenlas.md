@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Orenlas
-*(o-REN-las)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The elven forest of Orenlas is the last remnant of the ancient forests of [[Alcarinque]], once home to the great elven civilizations of the days of myth. Orenlas is one of the few places in the world where the magic of those days still lingers. Here can still be found the great dreaming trees of the [[Elves]], still echoing the song of [[Aldanor]]. It is one of the oldest, if not the oldest, still-standing forests on Taelgar. 
 

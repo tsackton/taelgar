@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Kelvaros
-*(KEHL-va-ross)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Kelvaros is a small, swift-flowing river that drains [[Pykolon Lake]], south of [[Voltara]], flowing through the southern part of the [[Erbalta Plains]] to the [[Snake River]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-13T12:24:51-04:00"
 lintVersion: "3.5"
 tags: [power, status/review, status/check/lint]
@@ -18,11 +17,8 @@ dm_owner: mike
 dm_notes: important
 POV: modern
 ---
-# Lord Umbraeth
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% status/review ->  significant in multiple games (Addermarch, and especially Cleenseau) and page is currently very under-detailed for importance %%
 

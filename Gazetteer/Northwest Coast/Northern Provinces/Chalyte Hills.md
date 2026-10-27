@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 displayDefaults: {wHome: "<typeof:xU> in <home>"}
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# The Chalyte Hills
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Chalyte Hills, often simply called the North Hills by locals, are the rich, rolling hills north of [[Voltara]], a major source of [[chalyte]] that underwrites the city’s prosperity. They functionally mark the northern extent of effective Chardonian control on the [[Erbalta Plains]].
 

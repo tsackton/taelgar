@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/text, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Enderra
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Enderra was a stoneborn realm that once existed in the interior mountains of the [[Apporia|Apporian Peninsula]]. It was destroyed during the [[War of the Dark Rift]].
 

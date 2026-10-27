@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -14,11 +13,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1740s
 ---
-# Lord Akanen
-*(ak-AH-nen)*
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 One of the Spice Lords of Medju, and a collector of rarities, especially the weird, wild, and wonderful. He is especially interested in collecting rare monster parts, and is reasonably well known for this across the [[Eastern Green Sea]].
 

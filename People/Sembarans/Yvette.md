@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720
 ---
-# Yvette
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[yvette.png|right|320]]A caretaker and nurse in Essford Manor, currently caring for [[Wymar Essford]] in his illness. Previously a cook, and with an unusual connection to the Night Queen. She tends the small shrine to the Night Queen in Essford Manor while [[Eremon]] is travelling.
 

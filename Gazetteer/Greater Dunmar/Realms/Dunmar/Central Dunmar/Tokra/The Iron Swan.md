@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# The Iron Swan
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A dwarven tavern, towards the northern part of town, in the (small) dwarven quarters behind the [[Archives]]. Has a few rooms reserved for traveling dwarves; otherwise, exclusively a tavern. Dark, cramped interior, but serves great beer. Run by [[Vistra Fireforge]], a retired mercenary / adventurer.
 

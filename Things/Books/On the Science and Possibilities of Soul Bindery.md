@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author:nx>", startStatus: completed in}
@@ -14,10 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# On the Science and Possibilities of Soul Bindery
->[!info]+ Information  
-> A treatise, written during the [[History of the Drankorian Empire|Drankorian Era]], by an early member of the [[Arithrimos Lamperum]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 %%  the timing of this book vs Yendalo's life is not obvious and might need thought, but should be possible to reconcile. Eucaustis is unnamed elsewhere and might need a page %%
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Beacon Hills
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A region of rugged hills and rough terrain west of [[Lake Valandros]]. Many small rivers rise in these hills and flow west to the [[Endless Ocean]] through the [[Coastlands]], including the [[Breakrock]], [[Sevros]], [[Corvessa]], and [[Zar]].
 

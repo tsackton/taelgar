@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-08T14:44:46-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,13 +16,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Freyvidra
-*(FRAY-vee-drah)*
->[!info]+ Biographical Info  
-> A [[Giants|giant]] (frost) (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Freyvidra was a frost giant who ruled [[Kaldhalla]] from DR 1552 to DR 1673, after seizing the kingdom from [[Storvalda]] in the aftermath of the [[Great War]]. She was an ally of the children of [[Vimfrost]]; she encouraged raids against dwarves, stoneborn, the Vos, and the Vargaldi, collecting tribute she claimed was owed as compensation for Vimfrost’s death. During her reign, [[Isenborg]] fell into disrepair, and resentment grew among the giants, as she focused on reparations to the dragons to the north. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><( by )author:nx>"}
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Aetherium
-*(ay-THAIR-ee-um)*
->[!info]+ Information  
-> A [[Drankorian Empire|Drankorian]] cosmological treatise, written during the [[History of the Drankorian Empire|Drankorian Era]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The *Aetherium* is a famous Drankorian treatise on the [[Ethereal Plane]]. It is the basis for the dominant school of thought that identifies the Ethereal Plane as an echo or extension of the [[Plane of Magic]], becoming more transparent and dilute near the borders of other planes.
 

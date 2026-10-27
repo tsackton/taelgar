@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -21,13 +20,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Harol Silversong
->[!info]+ Biographical Info
-> A [[Halflings|halfling]] (he/him)
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Dunmar Fellowship]] on August 9th, 1748 in the [[Emerald Song]], [[Darba]], [[Dunmar]] %%^End%%
->> %%^Campaign:dufr%% Last seen by [[Dunmar Fellowship]] on August 21st, 1748 in the [[Emerald Song]], [[Chardon]], the [[Chardonian Empire]] %%^End%%
+```taelgar-header
+```
 
 Captain of the [[Emerald Song]]. He is tough and wiry, tall for a halfling, with olive-brown skin and curly white hair, with bright silver eyes. Although not very talkative for a halfling, he has a good singing voice and often takes up the bass viol in the evenings.
 ## Relationships

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Khatridun
-*(KHAHT-ree-dun)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The dwarven kingdom of Khatridun is one of the [[Dwarven Kingdoms|Five Kingdoms]] of the [[Sentinel Range]], stretching along the western border of [[Sembara]], north of [[Ardith]] and east of [[Am'khazar]]. Once the most powerful of the Five Kingdoms, it is reputed to be the first place where dwarves settled in the world. Its ancient capital, [[Azrathun|Azrathûn]], was among the greatest dwarven cities.
 

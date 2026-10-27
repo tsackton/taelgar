@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -12,10 +11,8 @@ affiliations:
 knownTo: [clee]
 POV: 1720s
 ---
-# Rhiannon Greencloak
->[!info]+ Biographical Info  
-> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Rhiannon Greencloak is a warlock of [[Archfey Ethlenn|Ethlenn]] who led a mixed Sembaran and Tyrwinghan force against skeletons and zombies north of [[Eskbridge]] during the [[Undead Attacks in Sembara|undead rising of DR 1720]].
 

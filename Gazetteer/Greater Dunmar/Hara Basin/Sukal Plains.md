@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {linkText: "on", ltPlace: "on"}
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# The Sukal Plains
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 South of the city of [[Tokra]], the land grows increasingly arid, with little rain even during the monsoon season. The [[Hara]] is the lifeblood of this land. 
 

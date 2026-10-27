@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,10 +13,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1748
 ---
-# Sarren Kir
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Sarren Kir, the Fort of the Sleepless, is the hill fort and royal residence of [[Yeshara]] in [[Cairn Dor]]. It stands on a rocky hill above the [[Wolf Queen's Stillings]] and serves as the principal stronghold of the [[Shemra Azem]].
 

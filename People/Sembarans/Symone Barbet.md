@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,12 +17,8 @@ dm_owner: mike
 dm_notes: none
 POV: 1720s
 ---
-# Major Symone Barbet
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 An important military leader in [[Dunfry]]. She has a tendency to work within the hierarchy and prefers following the rules and working within the chain of command.
 

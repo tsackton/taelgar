@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,12 +16,8 @@ dm_owner: mike
 dm_notes: none
 POV: 1720
 ---
-# The Hunter
-*(kee-ahs-TEE-ohn heh-mee-ARK-toss)*
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[the-hunter-fey-img2.jpg|left|260]] ![[the-hunter-fey-img1.jpg|left|260]]
 

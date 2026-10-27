@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [creature, status/check/lint]
@@ -9,7 +8,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Bullywugs
+```taelgar-header
+```
 
 Bullywugs are freshwater-dwelling amphibious folk who live in secretive communities along rivers, bogs, and sheltered pools. They are often described as frog-like by those who have seen them, with a language that sounds, to outsiders at least, to be full of guttural croaks and swallows. While they very rarely venture into settled areas, they are not uncommon along isolated stretches of rivers, marshlands, swamps, and lakes.
 

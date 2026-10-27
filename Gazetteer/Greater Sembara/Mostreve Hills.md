@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/map, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: joint
 dm_notes: color
 POV: modern
 ---
-# The Mostreve Hills
-*(mohs-TRE-vuh or mohs-tre-vay)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Mostreve Hills are a stretch of rough, rocky hills, with some higher peaks, that run in a series of long ridges from the flat plains of the [[Maseau Gap]] to the [[Mistfold Mountains]], dividing [[Sembara]], [[Addermarch]], and [[Tyrwingha]] from the [[Plaguelands]]. They are largely wooded, although some of the highest peaks are above treeline, and the drier southwestern sides of some ridges are high plains with only scattered trees. The climate is temperate, with warm summers, cool winters, and frequent precipitation year round, with occasional winter snowfall on the higher peaks.
 

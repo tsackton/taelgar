@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -9,7 +8,8 @@ dm_owner: joint
 dm_notes: none
 POV: undated
 ---
-# Soulstuff
+```taelgar-header
+```
 
 Soulstuff is an ineffable substance that accretes to nearly all sentient creatures, and forms the metaphysical substrate of souls in the [[Plane of Souls]] and beyond. Natives of the [[Spiritual Realms]] are believed to be made directly of the soulstuff of their home plane, explaining why they cannot be permanently destroyed except in their native realm. Theological cosmologists associate soulstuff with the [[Plane of Creation]] and divine power, but its exact nature eludes study. 
 

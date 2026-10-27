@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,11 +14,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Jacopo Marcelli
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Jacopo Marcelli was a pirate captain, active in [[Western Cymea]] in the early DR 1700s. In life, Jacopo loved [[Petrona]], who urged him to return safely and abandon the pirate life. He died in a naval raid on a pirate hideout under the [[Perdoli Manor]], without learning whether she had escaped to safety, and his ghost remained bound to the bedroom. 
 

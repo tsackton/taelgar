@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -10,10 +9,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# The Dolphin’s Rest Inn
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 An inn in [[Wahacha]], popular with sailors and other grounders, as the kenku call those who cannot fly. 
 

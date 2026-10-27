@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,10 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740
 ---
-# Kallipseis
->[!info]+ Biographical Info  
-> A [[Drankorian Empire|Drankorian]] [[Dwarves|dwarf]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Kallipseis is an ancient Drankorian dwarven wizard, gardener, and fungal researcher who spent many years within the [[27th House]]. She claimed leadership of [[Arithrimos Lamperum]] after [[Thalestria|Thalestria's]] disappearance or death. During her many years in the [[27th House]], she established a greenhouse and laboratory filled with cultures, terraria, strange helpers, and fungus growing on severed limbs. She studied how the fungus colonized flesh and attempted to reverse that relationship by culturing pieces of herself to take control of a fungal body. Her work reflected her conviction that "all progress involves sacrifice."
 

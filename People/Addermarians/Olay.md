@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,13 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Olay
-*(OH-lay)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Funeral attended by the [[Addermarch Mercenaries]] on May 17th, 1715 in [[Haldrenn]], [[Highmoor]], [[Carlinshire]] %%^End%%
+```taelgar-header
+```
 
 A farmer of [[Haldrenn]].
 ## Events

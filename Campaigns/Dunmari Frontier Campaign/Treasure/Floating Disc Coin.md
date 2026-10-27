@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 tags: [object, status/check/lint]
@@ -10,11 +9,8 @@ name: Floating Disc Coin
 knownTo: [dufr]
 POV: modern
 ---
-# The Floating Disc Coin
->[!info]+ Information  
-> (magic coin)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/1872181-floating-coin)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A small golden coin, unusually heavy for its size, and without a recognizable mark. 
 

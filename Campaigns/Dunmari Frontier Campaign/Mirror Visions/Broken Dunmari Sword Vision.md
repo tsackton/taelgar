@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: Broken Dunmari Sword Vision
 POV: 1749
 ---
-# The Broken Dunmari Sword Vision
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The mirror fades, and you see an image of what you would guess was the palace at Kharsan, but in its glory days, intact and full of people and life. A man is at the center of the image, a Dunmari man, perhaps in his forties, who is preparing for war. He is strapping on armor, tightening his belt, putting on a helmet, finding his shield, and then, the sword, sitting on the table. He leans over the sword, whispering a prayer in Dunmari. 
 

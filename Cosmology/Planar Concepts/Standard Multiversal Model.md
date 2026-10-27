@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Standard Multiversal Model
+```taelgar-header
+```
 
 The Standard Multiversal Model is the dominant scholarly classification of the [[Multiverse]] taught by the [[Faculty of Metaphysics]] at the [[University of Chardon]]. It grew out of earlier Drankorian work, especially the synthesis associated with [[Gaius Devarro]], and remains the most widely used framework among Chardonian planar scholars.
 

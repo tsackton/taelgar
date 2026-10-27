@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,11 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# King Cynan
->[!info]+ Biographical Info  
-> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A king of Tyrwingha who, by marrying [[Elaine I]], reunited the crowns of Sembara and Tyrwingha. He married [[Elaine I]] in DR 1567. 
 

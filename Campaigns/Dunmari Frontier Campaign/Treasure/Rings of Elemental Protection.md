@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -10,11 +9,8 @@ name: Rings of Elemental Protection
 knownTo: [dufr]
 POV: modern
 ---
-# The Rings of Elemental Protection
->[!info]+ Information  
-> (very rare ring)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/9217495-rings-of-elemental-protection)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Rings of Elemental Protection are a set of five gold rings, each set with a different gemstone: ruby, sapphire, emerald, topaz, or opal.
 

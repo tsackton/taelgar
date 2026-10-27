@@ -1,10 +1,10 @@
 ---
-headerVersion: 2023.11.25
 tags: [person, status/check/ai]
 dm_owner: none
 dm_notes: color
 ---
-# Taurion
+```taelgar-header
+```
 
 Taurion is associated with [[Taurion's Manual of Golems]], a Drankorian magic book found in the [[Tower of the Colossus]]. The tower also held a fragile literary collection identified in campaign notes as Taurion's.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -16,11 +15,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1748
 ---
-# Gyles
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by [[Wellby]] on November 13th, 1748 in the [[Eastern Isles]], the [[Green Sea]] %%^End%%
+```taelgar-header
+```
 
 An older man, who serves as [[Arryn]]’s steward. 
 

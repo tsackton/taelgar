@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Praise the Divine Family
+```taelgar-header
+```
 
 A praise song sung by the [[Dunmar|Dunmari]] about the [[Dunmari Religion]]
 ![[praise-the-divine-family.mp3]]

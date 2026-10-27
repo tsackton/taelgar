@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-04T10:40:49-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,11 +12,8 @@ dm_owner: mike
 dm_notes: none
 POV: 1720
 ---
-# Omphale
-*(om-FAH-leh)*
->[!info]+ Biographical Info  
-> A [[Centaurs|centaur]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Omphale is a centaur prophet whose home is in [[Cleenseau Wood]], a day’s walk east of [[Windlea]] along the [[Leandre]].
 

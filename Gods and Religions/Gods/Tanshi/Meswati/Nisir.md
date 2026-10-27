@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [power, religion/tanshi, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Nisir
-*(nee-SEER)*
->[!info]+ Information  
-> A [[Tanshi|tanshi]] , part of the [[Meswati]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The tanshi of eagles, hawks, and other birds of prey, associated with perception and far sight, often offered feathers of birds and associated with divination.
 

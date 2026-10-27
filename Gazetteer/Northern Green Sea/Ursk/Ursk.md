@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/text, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Ursk
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Ursk is a secretive civilization on the north coast of the [[Green Sea]]. Rumors are that it is a land of wizards and magic, of ice and snow, of monsters and secret treasure. While outsiders are allowed to trade at a handful of port cities, including [[Zakat]] and [[Praznitsky]], the warehouses and docks of these cities are kept isolated from the city proper, and foreigners are not allowed to pass the borders. Trade with Ursk, however, is worth the hassle, for the valuable hides, furs, and other monster parts, especially the most prized of all, dragonhide from the northern wastes.
 

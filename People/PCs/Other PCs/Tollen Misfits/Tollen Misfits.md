@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -9,7 +8,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1740
 ---
-# The Tollen Misfits
+```taelgar-header
+```
 
 The Tollen Misfits are the player characters in [[Lost in the Feywild]], a found-family band of adventurers from around [[Tollen]].
 

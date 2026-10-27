@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Plane of Magic
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Plane of Magic is the name given by arcane cosmologists to the source of the fundamental energetic force that powers all arcane magic in the [[Multiverse]]. Although the Plane of Magic is conventionally depicted as the far nexus of the [[Ethereal Plane]], there is no consensus among scholars regarding the exact nature of this plane, or even its basic properties. 
 

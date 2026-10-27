@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,11 +16,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Rurik
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by [[Riswynn]] on August 25th, 1748 in [[Bleakhold]], [[Morkalan]], the [[Shadowfolds]] %%^End%%
+```taelgar-header
+```
 
 Rurik is a dwarf, of indeterminate age, who remembers little of his life in [[Bleakhold]] except his close connection to his son, [[Tak]], who he cares for deeply and worries over constantly.
 

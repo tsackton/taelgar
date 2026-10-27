@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [background, religion/fivesiblings]
@@ -12,8 +11,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Jaankar
-*(JAWN-kar)*
+```taelgar-header
+```
 
 Jaankar is the feast day of the Dunmari deity [[Chidya]]. It is celebrated on July 21st and 22nd every year, marking the end of the month of the summer solstice.
 

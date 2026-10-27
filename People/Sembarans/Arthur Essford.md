@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -22,12 +21,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1719
 ---
-# Arthur Essford
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[Bybets]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[arthur-bybet-portrait.png|right|320]]The husband of [[Rosalind Essford|Rosalind]] (whom he married in 1706), he wisely takes a back seat in local affairs. He hails from a prominent family in [[Ainwick]]. He is an aficionado of stories and songs and often frequents [[The Crossroads Inn]] to hear the latest news.
 

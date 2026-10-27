@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,11 +13,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1740s
 ---
-# Alta Tonaro
-*(AHL-tah toh-NAH-roh)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% TIM: preserving dm notes color until I write down some vibes in my head %%
 

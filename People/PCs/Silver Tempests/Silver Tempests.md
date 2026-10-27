@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-13T13:45:21-04:00"
 lintVersion: "3.5"
 displayDefaults: {startStatus: Formed, partOf: "", linkText: by, ltPerson: by}
@@ -11,11 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1748
 ---
-# The Silver Tempests
->[!info]+ Information  
-> An adventuring party  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Silver Tempests are a renowned adventuring party based out of [[Voltara]], on the northern frontier of the [[Chardonian Empire]]. Originally hired by [[Lyra]] to seek the [[Elemental Scrolls of Airion]], the Silver Tempests became famous after their role in [[Grumella's War]], and established an elaborate manor, the [[Tempest Towers]] in the center of [[Voltara]], near the baths and market. 
 

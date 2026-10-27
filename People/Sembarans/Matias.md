@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -16,12 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: 1719
 ---
-# Matias
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Matias, an older man, about 55, looking to retire.  He was Lucas Asa's bodyman and valet, as well as a guard, and stayed on by default when Lord Valbert came to the village. He is clearly sick of Lord Valbert, but has nowhere to live other than the manor. He has two grown kids in the village, but you get the sense he is somewhat estranged from them, since his wife died a few years ago.
 

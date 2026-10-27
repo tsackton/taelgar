@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: abandoned}
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Gastant Farm
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The homestead of the Gastant family. It was visited by the [[Heroes of Cleenseau]] during their chase after the perpetrators of the [[Attempted Poisoning of Cleenseau]]. Later abandoned during the [[Undead Attacks in Sembara]] and now a ruin.
 

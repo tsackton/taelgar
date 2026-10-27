@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/gl, status/check/lint]
@@ -15,12 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Finoc Small
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> 
+```taelgar-header
+```
 
 ![[finoc-small.png|right|300]]An unusually tall and cheerful halfling, and the owner of [[The Wandering Toad]], an inn in [[Voltara]] known for wild game, mushrooms, and ale. [[Brelith]] apprenticed with the chef there before opening [[The Hero's Feast]].
 

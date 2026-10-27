@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: 2026-10-19T10:02:41-04:00
 lintVersion: "3.5"
 tags: [power]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# Jinnik
-*(JIN-ik)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]]
+```taelgar-header
+```
 
 Jinnik, often known as the Mad One, is one of the [[Embodied Gods]], and a creation of the [[Void Mind]]. They are associated above all with madness, and rumored to be the cause or source of the curse of lycanthropy and the patron deity of lycanthropes. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,10 +13,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Three Wells
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Three Wells is a meeting place and fortified camp on the [[Aurbez Plateau]], along a small tributary of the [[Aursen]]. For many years, Three Wells has been a place where the people of the [[Refounded Alliance of Aurbez]] meet to debate politics and war. 
 

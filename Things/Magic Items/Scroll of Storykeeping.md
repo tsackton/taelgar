@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: important
 POV: modern
 ---
-# Scroll of Storykeeping
->[!info]+ Information  
-> ([[Dunmar|Dunmari]] magical scroll)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 These magical scrolls, produced by the [[Order of the Awakened Soul|Mystai of Bhishma]], can be used by trained scribes of the order to preserve and record the tales of someone's life -- the story of what makes them themselves, the journey of their lives. 
 

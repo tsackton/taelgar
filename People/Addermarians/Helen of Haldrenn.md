@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,14 +19,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Helen of Haldrenn
-*(HEL-en of HAL-dren)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 17th, 1715 in [[Haldrenn]], [[Highmoor]], [[Carlinshire]] %%^End%%
+```taelgar-header
+```
 
 Helen is the temple administrator for the small temple to [[The Mother]] in [[Haldrenn]], and a collector of fey lore. She presides over community rites and maintains oral histories of fey activity in the [[Highmoor]], including tales of the [[Morlaith|Briarheart]].
 ## Events

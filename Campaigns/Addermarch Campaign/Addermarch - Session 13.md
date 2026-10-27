@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 13
@@ -11,7 +10,8 @@ name: Addermarch Campaign - Session 13
 tagline: in which the party enters the Feywild
 descTitle: The Hollow Man
 ---
-# Addermarch Campaign - Session 13
+```taelgar-header
+```
 
 >[!info] The Hollow Man: in which the party enters the Feywild
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

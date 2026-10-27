@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 tags: [place, status/gameupdate/gl, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Great Library
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Great Library is an ancient scholarly institution and library complex, located in the academic quarter of [[Chardon]]. It has been synonymous with magical scholarship for centuries, and is the oldest academic institution in Chardon. Few who visit the city fail to be impressed by the massive, 600-foot-tall twisting spire of the grandest building in the library complex rising over the city, or the extravagant rumors of the secrets hidden in its locked archives. The stated purpose of the Great Library is to collect and preserve knowledge of magic for the benefit of all.
 

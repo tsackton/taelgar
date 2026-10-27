@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,11 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Hugh of Sewick
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Sewick]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Hugh was the eldest son of [[Charlotte I]]. 
 

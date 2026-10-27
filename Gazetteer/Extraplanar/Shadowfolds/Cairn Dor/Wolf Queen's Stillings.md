@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/gameupdate/gl, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1748
 ---
-# The Wolf Queen's Stillings
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Wolf Queen's Stillings are groups of long barrows built around the hill of [[Sarren Kir]] in [[Cairn Dor]]. They hold magically sleeping captives known as dreamers, whose enforced sleep sustains [[Yeshara]] and the sleepless soldiers of the [[Shemra Azem]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [religion/tanshi, background, status/check/lint]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Tanshi
+```taelgar-header
+```
 
 The tanshi are the small gods worshiped by the [[Deno'qai]] and other followers of the [[Tanshi Worship]] tradition. 
 

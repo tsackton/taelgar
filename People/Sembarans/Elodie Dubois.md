@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [person]
 species: human
 ancestry: Sembaran
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720
 ---
-# Captain Élodie Dubois
-*(ay-loh-DEE dew-BWAH)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
+```taelgar-header
+```
 
 %% Sources establish her military role but provide no further biography. %%
 

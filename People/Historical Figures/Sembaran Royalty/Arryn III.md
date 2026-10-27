@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, testcase, status/check/lint]
@@ -22,12 +21,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# King Arryn III
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Lils]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %%^Date:1721b%%
 A young princeling of [[Tyrwingha]], he is a quiet and mild-mannered child who is said to particularly love stories about his namesake, [[Arryn I]].

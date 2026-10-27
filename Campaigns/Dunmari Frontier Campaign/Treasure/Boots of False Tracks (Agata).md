@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "", wOriginU: "", defArt: ""}
@@ -19,12 +18,8 @@ whereabouts:
 knownTo: [dufr]
 POV: modern
 ---
-# Boots of False Tracks
->[!info]+ Information  
-> (common [[Dunmar|Dunmari]] magic boots)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A pair of soft boots made of dark brown leather, which radiate illusion magic. Dunmari in origin. Can be used to change your footprints into any humanoid creature you desire. 
 

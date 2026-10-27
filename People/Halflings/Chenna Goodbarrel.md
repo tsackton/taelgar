@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, testcase, status/check/lint]
@@ -23,14 +22,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1740s
 ---
-# Chenna Goodbarrel
->[!info]+ Biographical Info
-> A [[Halflings|halfling]] (she/her), of the [[Goodbarrels]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Wellby]] around DR 1730 at [[The Singing Fox]], [[Fairgate Outer]] %%^End%%
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 on [[Vindristjarna]], in the [[Tollen|Free City of Tollen]] %%^End%%
+```taelgar-header
+```
 
 ![[chenna-goodbarrel-portrait.png|right|400]]Chenna Goodbarrel owns a small and charming halfling tavern in [[Fairgate Outer]] called *[[The Singing Fox]]*, with her wife [[Harriet Goodbarrel|Harriet]]. Chenna runs the bar and kitchen; warm, welcoming, and charming, she's the heart of the establishment.
 ## Relationships

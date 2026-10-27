@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: Extravagant Diamond Vision
 POV: 1748
 ---
-# Extravagant Diamond Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 You hold the beautifully cut diamond up to the mirror, and the scene turns black for a moment and then you see a dwarf, sitting in a workshop, looking at the diamond through a lens, a gemcutter probably. They seem to be paying an inordinate amount of attention crafting and shaping this diamond and occasionally like holding it up and examining it. The scene is underground, in a Dwarven city none of you recognize, and probably some time ago. 
 

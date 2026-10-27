@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -11,11 +10,8 @@ name: "Dunmar Fellowship's Portable Hole"
 knownTo: [dufr]
 POV: 1740s
 ---
-# The Dunmar Fellowship's Portable Hole
->[!info]+ Information  
-> ([[Dunmar|Dunmari]] magical container)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/4699-portable-hole)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 ![[portable-hole-dunmar-fellowship.jpg|right|400]]This portable hole was received as a [[Session 42 (DuFr)|gift]] from [[Basu]], a mystai of Laka, in exchange for helping clear the excess extraplanar energy from the [[Elven Arborea Workshop]] beneath the [[Lakan Monastery]], permeated with the essence of [[Arborea]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -10,10 +9,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Silanus
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The larger and more southernly of the twin islands of [[Illoria]].
 

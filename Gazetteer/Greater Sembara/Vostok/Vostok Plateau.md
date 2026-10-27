@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/name]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Vostok Plateau
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Vostok Plateau is a high, cold, dry plateau in [[Vostok]], east of the [[Pekul Mountains]] and west of the [[Svinjo Mountains]]. [[Lake Pekul]] lies on the plateau.
 

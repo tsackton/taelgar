@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Chaos Metal
->[!info]+ Information  
-> (planar metal)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Chaos Metal is the commonly used name for the strange metallic substance, mutable and ever-changing, associated with [[Limbo]]. It typically occurs as a silvery, mercury‑like medium, that can take on complex shapes and even form living structures when compelled by a strong will.
 

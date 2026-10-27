@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [background, religion/fivesiblings, status/check/lint]
@@ -11,7 +10,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# The Day of Atonement
+```taelgar-header
+```
 
 The Day of Atonement, also called the Feast of Sonkar's Blessing, is a Dunmari holy day celebrated on the winter solstice. It is a day of prayer, atonement, and judgment before [[Sonkar]].
 

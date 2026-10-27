@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
@@ -18,10 +17,8 @@ dm_owner: player
 dm_notes: important
 POV: 1740s
 ---
-# Raven
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (they/them)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A fae warrior and martial arts fighter, from the Fey realm of [[Shimmersong]], one of the Winter Knights who protects the realm during the cold days of the Winter Court, when the [[Lightdancer]] hibernates. Returned to [[Shimmersong]] after helping [[Seeker]] stop the wild magic storm and travel through [[Amberglow]] to the fey crossing at [[Lastlight Falls]]. 
 

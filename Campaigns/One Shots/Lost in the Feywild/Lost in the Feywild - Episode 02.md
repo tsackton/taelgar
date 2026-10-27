@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Lost in the Feywild
 sessionNumber: 2
@@ -14,7 +13,8 @@ sessionKey: lost-in-the-feywild-session-2
 session-template: feywild-template.md
 websiteSessionView: zoomable
 ---
-# Lost in the Feywild: Episode 02
+```taelgar-header
+```
 
 >[!info] Тёмная ночь (Dark is the Night): in which the party finds the Endless Ending
 > *Featuring: [[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], [[Txarro]]*

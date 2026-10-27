@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/cleanup/text, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: important
 POV: modern
 ---
-# The Cleenseau Spider Attacks
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% Have some background on WHY that could be incorporated ; needs a rewrite to be a bit more generic and have an overview on some other attacks on Vallit, etc %%
 

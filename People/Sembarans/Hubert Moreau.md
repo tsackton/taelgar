@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720
 ---
-# Hubert Moreau
-*(oo-BEHR moh-ROH)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
+```taelgar-header
+```
 
 Hubert Moreau was the intended heir to the barony of [[Fellburn]] and is the twin brother of [[Elise Moreau]]. During the [[Undead Attacks in Sembara|undead attacks of DR 1720]], he panicked and ordered the city gates closed, leaving his father and farmers outside to be killed.
 

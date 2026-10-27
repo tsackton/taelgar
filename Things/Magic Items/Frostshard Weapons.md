@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Frostshard Weapons
->[!info]+ Information  
-> ([[Ursk|Urskan]] magic weapon)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/5400-weapon-1)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Frostshard Weapons are constructed from the teeth and sinews of ice worms, and are stronger, more balanced, and deadlier than normal weapons. 
 

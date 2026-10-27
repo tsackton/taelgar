@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [power, religion/tanshi]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Midri
-*(MID-ree)*
->[!info]+ Information  
-> A [[Tanshi|tanshi]] , part of the [[Meswati]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The tanshi of soil, dirt, connections among trees, deep roots and the nutrients stored and shared for the long winters. Particularly appreciated offerings of tubers, mushrooms, and fresh, clean earth. Is said to watch over the long winters and help the community survive until spring.
 

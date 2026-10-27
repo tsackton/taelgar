@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1710s
 ---
-# Evis
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The northernmost settlement in [[Duchy of Maseau|Maseau]] along the Great South Road. Evis is a fortified frontier town on the border of the March of Evis, ruled by the aging Marcher Lord, [[Peyre Vayler]], and his two daughters.  South of Evis, the land turns more fertile, and more populated, before eventually reaching the rolling valleys near [[Valarin]], where most of the people of the Duchy of Maseau live.
 

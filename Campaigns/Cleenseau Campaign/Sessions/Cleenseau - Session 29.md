@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Cleenseau
@@ -17,7 +16,8 @@ tagline: in which Asineau prospers and a dragon nears
 sessionKey: cleenseau-session-29
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 29
+```taelgar-header
+```
 
 >[!info] Asineau and the Dragon: in which Asineau prospers and a dragon nears
 > *Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moonseeker|Izgil]]*

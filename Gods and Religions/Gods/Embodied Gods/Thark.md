@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, status/check/lint]
@@ -10,9 +9,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Thark
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]] (he/him)
+```taelgar-header
+```
 
 %% need to copy notes from various People of the Rainbow and DM documents %%
 

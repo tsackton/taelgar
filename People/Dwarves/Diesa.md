@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Diesa Shockstone
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (she/her), of the [[Shockstones]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:GL%% Met by the [[Silver Tempests]] on December 5th, 1747 in [[Zarkandur]], [[Am'khazar]], [[Sentinel Range|Labkhan]] %%^End%%
+```taelgar-header
+```
 
 Diesa is a prominent and wealthy dwarf, one of the elite of [[Zarkandur]]. She is also [[Brelith]]'s mother and [[Osrik]]'s wife. 
 

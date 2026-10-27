@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [background, religion/zariya]
@@ -9,8 +8,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Zariya
-*(ZAH-ree-yah)*
+```taelgar-header
+```
 
 %%although no details have been invented, this is assumed to share a lot of metaphysical truth with the tansi and kestavan traditions, and some clear vibes about the role of these animal spirits in Vargald magic and how that is affected by the krev in Ursk exist in DM notes%%
 

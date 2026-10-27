@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Beldor
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A small village in the hills about a day and a half walk north of [[Veltor]], it is one of several small tin mining camps and villages in the [[Aveil Ridge]]. No road leads south to Veltor from here, but a rough track leads north towards the [[Wistel]] on which raw ores are transported.
 

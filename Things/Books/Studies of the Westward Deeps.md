@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author:x>", startStatus: completed in}
@@ -14,10 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Studies of the Westward Deeps
->[!info]+ Information  
-> An [[Elves|Elvish]] natural history treatise, written before [[The Downfall]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 *Studies of the Westward Deeps* is an Elvish natural history treatise and maritime survey from before [[The Downfall]]. It records observations, philosophical speculation, poems, and other notes about the western reaches of the [[Endless Ocean]]. It includes a variety of both mundane and magical observations, some of natural phenomena and some of strange creatures, waters that seem to answer to songs, and currents that carry memory and speech.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Aesganstrad
-*(ESS-gahn-strahd)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 One of the ancient original wards of the city of [[Tollen]], Aesganstrad lies to the north and west along the [[Volta]] from [[Fiskurth]]. Together with Fiskurth and [[Skepwalk]], it forms the ancient core of pre-Drankorian [[Tollen]]; today it is a tangle of narrow streets, leaning houses, and old statues to forgotten heroes.
 

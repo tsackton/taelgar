@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -19,11 +18,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Arryn of Tollen
->[!info]+ Biographical Info  
-> A [[Tollen|Tollender]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% The rescued from the [[Mirror Realm]] by [[Wellby]] on November 13th, 1748 in the [[Eastern Green Sea]] %%^End%%
+```taelgar-header
+```
 
 ![[arryn-the-wanderer-portrait.png|right|400]]A wizard of significant power. Originally from [[Tollen]], but now dwells in a tower in the northern part of the [[Eastern Isles]]. Fascinated by other dimensions, recently the hypothesized [[Mirror Realm]] in particular. 
 

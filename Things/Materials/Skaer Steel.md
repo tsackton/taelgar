@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Skaer Steel
->[!info]+ Information  
-> ([[Skaer]] material)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Skaer steel is a rare steel produced by secret means by the Skaer, using the heat of their volcanic islands and rare metals to create a material that is remarkably light and holds an edge exceptionally well.
 

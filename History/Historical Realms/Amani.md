@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Amani
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Amani was a prominent realm, occupying much of the land around what is now [[Greater Voltara]], during and immediately after the [[Great War]]. The realm was completely decimated during the [[Blood Years]] and survives only in rumors, legends, and folklore. 
 

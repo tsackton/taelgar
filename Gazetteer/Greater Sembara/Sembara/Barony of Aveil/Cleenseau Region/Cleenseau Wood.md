@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -10,10 +9,8 @@ dm_owner: mike
 dm_notes: important
 POV: modern
 ---
-# The Cleenseau Wood
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Wood, as it is known locally, is an old growth forest, stretching north of [[Cleenseau]] for what is said to be hundreds of miles. The fringes are used for firewood, charcoal gathering, and pig farming, but after a mile or two it becomes wild and trackless. It forms the boundary between the [[Barony of Aveil]], to the east of the wood, the [[Barony of Dunfry]] and the [[Barony of Usbourg]] to the west, and the [[Barony of Ainwick]] to the north.
 

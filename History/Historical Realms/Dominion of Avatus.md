@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
 tags: [status/check/mike, place, status/check/lint]
@@ -13,11 +12,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# The Dominion of Avatus
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% status/check/mike -> this is complete as far as it goes, in my mind. we still don't have a good tag for "more can be said", though in this case the details are captured in the DM notes which is probably sufficient. at some point it might make sense for you to write up/ add what is established from the Cleenseau game in the public notes, to the extent they extend beyond the details already here; could change to status/gameupdate/clee %%
 

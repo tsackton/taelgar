@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Tulvak
->[!info]+ Biographical Info  
-> A [[Skaer]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on December 21st, 1748 in [[Pyhlla]], [[Skaerhem]] %%^End%%
+```taelgar-header
+```
 
 ![[tulvak.png|right|400]]Tulvak is a skilled sailor hailing from the island of [[Pyhlla]] in [[Skaerhem]], in the Western [[Green Sea]]. He has for many years served as the ferry captain guiding pilgrims to [[Vetta]], and knows the coast of [[Vetta]] like the back of his hand. 
 

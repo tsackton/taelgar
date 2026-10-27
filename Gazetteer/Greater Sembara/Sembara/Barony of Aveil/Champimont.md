@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,12 +12,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720s
 ---
-# Champimont
-*(Sham-PEE-mohn)*
->[!info]+ Information  
-> pop. 971  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[champimont.png|right|400]]Champimont is the largest town between [[Cleenseau]] and [[Rinburg]] and is known for its grand inn, [[The Elegant Swan]]. It is a common stopping point for travelers along the road, and has several smaller inns and caravan yards.  There is also a large market once a month that draws people from as far away as [[Eftly]] and [[Dallet]] and an array of blacksmiths, carpenters, and other artisans. It is set on a bluff above the river, and has neither a ferry nor a bridge. The land on the south bank of the river here is mostly uninhabited, and is a land of rocky soil, scattered forests, and small rocky hills. On the north bank, around Champimont, is farmland and a lot of pasture for sheep.
 

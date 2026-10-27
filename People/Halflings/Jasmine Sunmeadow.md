@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -22,13 +21,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1748
 ---
-# Jasmine Sunmeadow
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (she/her), of the [[Sunmeadows]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 9th, 1748 in the [[Emerald Song]], [[Darba]], [[Dunmar]] %%^End%%  
->> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on August 21st, 1748 in the [[Emerald Song]], [[Chardon]], the [[Chardonian Empire]] %%^End%%
+```taelgar-header
+```
 
 Jasmine Sunmeadow is a halfling adventurer with a strong connection to the natural world. She grew up in Darba, the daughter of the innkeepers of [[The Green Leaf]], but always longed for adventure, and even as a child she could sense the weather and make flowers bloom.
 %%^Campaign:DuFr%%

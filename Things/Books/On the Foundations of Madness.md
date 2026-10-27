@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -15,10 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# On the Foundations of Madness
->[!info]+ Information  
-> A [[Tollen|Tollish]] theological treatise, written in the 1600s, by [[Nicole Ardouin]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 *On the Foundations of Madness* is a rarely studied work by [[Nicole Ardouin]] on [[Pandemonium]]. Nicole collects fragments of lost writing and deep history concerning the plane, arguing that Pandemonium may be a divine realm of the embodied god known as [[Jinnik]], and that its apparent connection to [[Lycanthropes|lycanthropy]] is important evidence for this claim.
 

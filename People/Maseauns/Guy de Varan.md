@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -20,12 +19,8 @@ dm_owner: none
 dm_notes: none
 POV: 1710s
 ---
-# Guy de Varan
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:clee%% Seen by the [[Heroes of Cleenseau]] on December 1st, 1719 in [[Cleenseau]], the [[Manor of Cleenseau]], the [[Barony of Aveil]] %%^End%%
+```taelgar-header
+```
 
 ![[guy-de-varan-maseau.png|right|320]]A traveler and caravan expediter, he is relatively well-known along [[Bandit's Way]] as a man who can help find guards and organize supplies. The de Varan family is well-known in [[Duchy of Maseau|Maseau]] and was originally from far southern [[Isingue]] before the Great War. 
 

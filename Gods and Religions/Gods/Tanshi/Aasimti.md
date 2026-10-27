@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [power, religion/tanshi, status/cleanup/text, status/check/lint]
@@ -10,10 +9,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Aasimti
-*(ah-SEEM-tee)*
->[!info]+ Information  
-> A [[Tanshi|tanshi]]
+```taelgar-header
+```
 
 %% very campaign specific - could use a rewrite. also consider turning campaign notes / history into timeline events - not sure though as these might be better appearing on other notes, e.g. Grimbaskal and/or Jordo and/or campaign timeline %%
 

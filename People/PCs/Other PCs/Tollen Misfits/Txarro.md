@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -20,13 +19,8 @@ dm_owner: player
 dm_notes: none
 POV: 1740
 ---
-# Txarro
-*(CHAH-roh)*
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[txarro.png|right|350]]Txarro was born in a small lizardfolk village along the Greywash. His community was fairly isolated, even from other lizardfolk, in a marshy curve about a day and a half walk from Tollen. The Greywash provided a rich abundance for his village, and as a child and young adult he rarely interacted with other species, preferring to wander upriver along the marshy banks of the river, searching for hidden life among the reeds and rushes. He discovered he had some skill with animals, and could often charm small birds into his hand, or convince the shy mammals of the riverbank to be still in his presence.
 

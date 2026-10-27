@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1740s
 ---
-# Everlight's Bloom
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A land of perpetual afternoon light, a place of eternal warmth, where flowers always bloom and the bright sun turns everything to gold. Everlight's Bloom is ruled by the Golden Prince, [[Prince Aurelian]]. 
 

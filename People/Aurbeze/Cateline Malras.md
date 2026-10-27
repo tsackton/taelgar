@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -22,14 +21,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1749
 ---
-# Cateline Malras
-*(KAT-eh-leen mahl-RAH)*
->[!info]+ Biographical Info  
-> An Aurbeze [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 7th, 1749 in [[Three Wells]], the [[Refounded Alliance of Aurbez]] %%^End%%
+```taelgar-header
+```
 
 ![[cateline.png|right|400]]Cateline is a prominent member of the [[Rangers]], a devotee of the [[Fox and Hunter]], and a guardian of the secrets of [[Isingue]], widely regarded as a spiritual leader on the [[Aurbez Plateau]]. She is closely associated with the guardianship of the [[Heartroot]] and is is the keeper of the rite of “water before words” observed at councils in [[Three Wells]]. Her guidance blends pragmatic defense with reverence for the land’s old blessings.
 

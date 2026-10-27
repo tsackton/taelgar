@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,11 +15,8 @@ affiliations:
 knownTo: [clee]
 POV: 1720
 ---
-# General Claude Leclerc
-*(klohd luh-KLAIR)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Claude Leclerc is General of the [[Army of the West]]. Previously a colonel commanding its South Watch, he unofficially supported [[Ida Rosfeld]] in returning to [[Cleenseau]] during the undead attacks of early DR 1720. By April that year, he had been promoted to command the army.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Fahnukan
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Fahnukan is the northernmost and most isolated of the [[Dwarven Kingdoms|five dwarven kingdoms]] of [[Sentinel Range|Labkhan]]. Isolated since before the [[Great War]], it has had little contact with the other dwarven kingdoms for many generations. Even other dwarves regard it as a strange place, whose people sculpt in ice and relish the cold.
 

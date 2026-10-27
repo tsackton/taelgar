@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Hralgar's Palace
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Hralgar's Palace is a ruined mountain palace in the [[Sentinel Range|Sentinels]], once belonging to the storm giant [[Hralgar]]. In the current day, the palace is abandoned, its halls broken and weather-worn. Travelers speak of strange, dreamlike hazards in its depths.
 

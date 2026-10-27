@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Highmoor
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Highmoor is a band of rolling downs, rocky ridges, scrub, and broken limestone outcrops north and east of [[Roscombe]], between the settled approaches of [[Carlinshire]] and the higher ground of [[Westcliff]]. It is less wooded, poorer-soiled, and more thinly settled than the [[Stonewolds]] to the west. Its people are mostly shepherds, cattle-herders, charcoal burners, and crofters living in tiny upland villages.
 

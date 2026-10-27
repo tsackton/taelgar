@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:21:00-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -7,7 +6,8 @@ campaign: Dunmar Frontier
 name: "Faldrak's Journal Notes"
 POV: 1749
 ---
-# Faldrak's Journal Notes
+```taelgar-header
+```
 
 *4 Barukhelm 5881*
 

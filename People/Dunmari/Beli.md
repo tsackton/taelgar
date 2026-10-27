@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,13 +16,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Beli
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 22nd, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 An initiate of the [[Shakun Mystai]], a young woman skilled in healing and midwifery, with a hint of divine magic about her.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# Whispervale
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Whispervale is a land of mists and clouds hiding rocky mountain valleys, craggy peaks, and rushing waterfalls. This is a land of illusions and mystery, where little is as it seems. 
 

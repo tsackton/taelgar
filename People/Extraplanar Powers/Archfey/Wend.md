@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-13T12:24:51-04:00"
 lintVersion: "3.5"
 tags: [power]
@@ -13,11 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Wend
->[!info]+ Information  
-> An archfey (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Wend, the Silence That Follows, is an archfey and the ruler of [[Hollowdark]]. She is often spoken of in the same sentence as [[Harrow]], the Shadow That Looms, ruler of [[Darkfall]]; whether these are truly two separate entities, or two aspects of the same dread, is not known.
 

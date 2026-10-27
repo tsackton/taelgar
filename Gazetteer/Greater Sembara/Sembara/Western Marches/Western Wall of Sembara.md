@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The Western Wall of Sembara
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Western Wall of Sembara is an impressive chain of fortifications, including extensive stone curtain walls, towers, and redoubts, supported by a long series of ditches. It runs across the western marches, anchored by the garrison towns of [[Dunfry]] in the south and [[Dunmore]] in the north.
 

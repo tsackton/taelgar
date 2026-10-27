@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,12 +17,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1740s
 ---
-# Kaupa
->[!info]+ Biographical Info  
-> A [[Skaer]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Tollen|Free City of Tollen]], the Western Green Sea Region %%^End%%
+```taelgar-header
+```
 
 ![[kaupa.png|right|420]]A diligent representative of the Skaer Trade Mission, Kaupa's role in [[Tollen]] is vital in ensuring that trade relations between [[Skaerhem]] and [[Tollen]] remain strong and beneficial for both parties.
 

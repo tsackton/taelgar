@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -17,12 +16,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Karmana
-*(kar-MAH-nah)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on May 11th, 1748 in the [[Monastery of Bhishma]] %%^End%%
+```taelgar-header
+```
 
 %%need to figure out how to properly deal with undead%%
 %%need to add whereabouts and campaign info%%

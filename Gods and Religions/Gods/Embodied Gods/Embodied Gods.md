@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -9,7 +8,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Embodied Gods
+```taelgar-header
+```
 
 The divinities known as the Embodied Gods are the direct creations of the [[High Gods]], given physical form, permanence and consciousness, and the power to create. Unlike the [[Incorporeal Gods]], the Embodied Gods do not depend upon belief for their power. 
 

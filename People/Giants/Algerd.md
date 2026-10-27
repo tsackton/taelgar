@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [status/cleanup/metadata, person, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1749
 ---
-# Algerd
->[!info]+ Biographical Info  
-> A [[Giants|giant]] (frost) (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[algerd.jpg|right|250]]Algerd is a somewhat absent-minded frost giant historian, originally from [[Isenborg]]. He has a tendency to focus single-mindedly on whatever happens to be the focus of his attention. He has a sister, who vanished some time ago.
 

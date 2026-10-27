@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,11 +14,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Petrona
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Petrona was the lost love of [[Jacopo Marcelli]], the pirate captain whose ghost haunted a private bedchamber in [[Perdoli Manor]].
 

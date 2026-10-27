@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Zaro
->[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (he/him), of Bek'ena  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on September 6th, 1748 in [[Talem|Bek'eni village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
+```taelgar-header
+```
 
 Zaro is an older man, hale and hearty with a commanding voice. He is bald, with a gray beard, blue eyes, and a prominent nose. He is the chief of the largest [[Talem|Bek'eni village]] in the [[Elderwood]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AU><(, by )author>", startStatus: completed in}
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Experiments Upon the Planar Substance
->[!info]+ Information  
-> A [[Tollen|Tollish]] cosmological treatise, by [[Arryn|Arryn of Tollen]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Experiments upon the Planar Substance is the seminal work of [[Arryn|Arryn of Tollen]] on the nature and magic of [[Limbo]], the fundamental plane of chaos. In this sprawling work, Arryn catalogs diverse accounts of Limbo, many from the [[Great War]], and develops his six fundamental principles of the action of magic in Limbo. They are:
 

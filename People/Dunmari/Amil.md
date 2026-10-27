@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -19,12 +18,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Amil
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% fix away whereabouts, campaign info %%
 

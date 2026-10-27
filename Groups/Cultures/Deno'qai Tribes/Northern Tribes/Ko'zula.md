@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the, boxInfo: "One of the <partOf:1UA>", wHome: ""}
@@ -11,9 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Ko'zula
->[!info]+ Information  
-> One of the [[Northern Tribes|Northern Tribes of the Deno'qai]]
+```taelgar-header
+```
 
 The Ko'zula are one of the [[Northern Tribes|northern]] [[Deno'qai]] tribes, in the current day largely consisting of the descendants of the people who fled into the mountains to escape the ravages of the [[Great War]]. The Ko'zula live in the far north, in the mountains and cold forests of the [[Northern Sentinels]]; they have remained in the peaks and icy pine forests of the high slopes, where they have prospered in relative safety. Though they are largely isolated from other human cultures, including other [[Deno'qai]], they trade extensively with the [[stoneborn]] and [[dwarves]] of the [[Northern Sentinels]], and have adopted many of the stoneborn farming customs and magic for survival in the high alpine environments. 
 

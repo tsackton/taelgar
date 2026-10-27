@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 8
@@ -10,7 +9,8 @@ name: Addermarch Campaign - Session 8
 tagline: in which the party battles skeletons and oozes
 descTitle: Entering the Caverns
 ---
-# Addermarch Campaign - Session 8
+```taelgar-header
+```
 
 >[!info] Entering the Caverns: in which the party battles skeletons and oozes
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

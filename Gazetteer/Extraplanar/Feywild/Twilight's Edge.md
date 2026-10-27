@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Twilight's Edge
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Twilight's Edge is a small Feywild realm, ruled by [[Lord Serenveil]], the Prince of the Vesperwind and Guardian of Twilight's Edge. It is one of the lesser twilight realms, coincident with lower [[Enst]] and parts of northern [[Addermarch]], caught between the larger powers of [[Twilight's Grace]], [[Duskmire]], and the [[Thornweald]], the ancient domain of [[Morlaith]].
 

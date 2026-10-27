@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -18,13 +17,8 @@ whereabouts:
 knownTo: [clee]
 POV: modern
 ---
-# Brot's Spyglass
->[!info]+ Information  
-> (unique mundane telescope)  
-> [Mechanics](https://www.dndbeyond.com/equipment/spyglass)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[brot-spyglass.png|right|420]]A clever spyglass that [[Brot Starsearcher]] gave to [[Izgil Moonseeker|Izgil]] after he promised to seek funding for Brot's large telescope project.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,12 +18,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1749
 ---
-# Nuzkar
-*(NUZ-car)*
->[!info]+ Biographical Info
-> An [[Orcs|orc]] (she/her)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[nuzkar-potrait.png|right|320]]An orc scholar, loremaster, and archivist, seeking stories, rumors, and information about other free orcs, about how [[Thark]]'s enslavement works, and how to free more of her people. She has a twin sister, [[Aygul]], as well as a husband and large family in Uzgukhar. 
 

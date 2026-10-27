@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [power, status/review, status/check/lint]
@@ -14,11 +13,8 @@ dm_owner: mike
 dm_notes: important
 POV: modern
 ---
-# Archfey Ethlenn
->[!info]+ Information  
-> An archfey (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% status/review ->  significant in multiple games (Addermarch, and especially Cleenseau) and page is currently very under-detailed for importance %%
 

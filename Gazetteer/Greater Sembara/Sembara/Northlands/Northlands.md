@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/gameupdate/clee, status/check/mike]
@@ -10,10 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Northlands
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% check/mike -> not sure if errors or gameupdate most appropriate %%
 

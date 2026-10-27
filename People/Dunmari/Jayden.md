@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Jayden
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Beaten in staff dancing competition by [[Kenzo]] on April 2nd, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 %%update whereabouts with rest of Karawa refugees%%
 

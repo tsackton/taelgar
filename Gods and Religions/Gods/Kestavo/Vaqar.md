@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [power, religion/kestavo]
@@ -10,7 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Vaqar
+```taelgar-header
+```
 
 
 A malevolent spirit in the tradition of the *[[Kestavo]]*, known as the fire-below. Their children are the spirits of war and destruction, of injury, of sudden death, of the burning home. They are feared and driven off, whenever possible.

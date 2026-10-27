@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/dufr]
@@ -16,12 +15,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Magran Boulderbeard
-*(MAG-rahn BOHL-der-beerd)*
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of the [[Boulderbeards|Boulderbeard Clan]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A warrior from Tharn Todor who led a large expedition of dwarves into the ruins of [[Ardith]], and to confront Chardonian interlopers. 
 

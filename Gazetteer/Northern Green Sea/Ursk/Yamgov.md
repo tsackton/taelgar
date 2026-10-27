@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Yamgov
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Yamgov is an interior city of [[Ursk]], the commercial center of the fertile [[Dalinka]] River valley. Grain fields and pastures stretch for miles around the walls, dotted with windmills and riverland hamlets. The River Market, a sprawling series of stalls along the riverbanks, serves caravans and barges alike, moving produce east toward [[Vedmakov]] and west toward outlying estates.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 tags: [power, religion/kestavo]
@@ -10,10 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Zeyfa
-*(ZAY-fah)*
->[!info]+ Information  
-> A spirit
+```taelgar-header
+```
 
 A malevolent spirit in the tradition of the *[[Kestavo]]*, known as the west wind. Their children are the spirits of cold and dry air, of hardship, or shortages, and mischief, and although they are not worshipped, they are placated and bribed to stay away. Zeyfa is thought to live in the depths of the [[Great Chasm]].
 

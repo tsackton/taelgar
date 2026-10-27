@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-13T13:45:21-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,13 +19,8 @@ dm_owner: player
 dm_notes: none
 POV: 1748
 ---
-# Mabist
-*(MAY-bist)*
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (changeling) (they/them)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Mabist is a changeling of uncertain origin. Their first clear memory was waking on a straw bed in a quiet cottage in the mountains, the scent of herbs thick in the air. Their rescuer, [[Dinia]], called them “soldier” before they even spoke; their stance made it plain. While they cannot recall the details of their past life, images sometimes come to them in flashes: a forest of silver leaves glinting the brilliant mid-morning sun; the sound and pulse of waves crashing like drums; banners of war fluttering in the winds. 
 

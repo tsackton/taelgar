@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [group]
@@ -10,10 +9,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# The Twilight Court
->[!info]+ Information  
-> A fey court  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A celebration of the best and most elegant aspects of [[Twilight's Grace]], held approximately every 25 years, and lasting for a month, more or less. 
 

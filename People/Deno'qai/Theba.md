@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -22,13 +21,8 @@ dm_owner: none
 dm_notes: important
 POV: 1748
 ---
-# Theba
->[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (she/her), of the [[Bek'eni]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 22th, 1748 in [[Talem|Bek'eni village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
+```taelgar-header
+```
 
 %% some information from DM notes; need to link character sheet; clean up whereabouts and campaign info%%
 

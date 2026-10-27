@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/text, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# The Green Sea
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% needs to pull in various notes, included from Discord/emails, and reformat text %%
 

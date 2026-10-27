@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>", defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: "1749"
 ---
-# Ragwater Basin
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Ragwater Basin, usually just called the Basin, is a neighborhood downriver from the [[North Wall (Chardon)|North Wall]]. Historically, this was the center of the Chardonian paper-making industry, but in the past 80 years the old paper mills have been converted to [[chalyte]] refineries, and the [[Mill Channel]] repurposed to carry ore barges from the [[Chasa]]. 
 

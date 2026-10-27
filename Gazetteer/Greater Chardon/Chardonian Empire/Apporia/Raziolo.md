@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Raziolo
-*(ra-TSYO-lo)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Raziolo is one of the three Apporian provinces on the northern coast of [[Apporia|the Apporian Peninsula]], occupying the flat coastal plain on the northern tip of the peninsula. It is a region of hot, dry summers and mild winters, where fields of winter wheat give way to brown earth and olive groves. 
 

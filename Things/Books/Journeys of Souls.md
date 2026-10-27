@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author:nx>"}
@@ -15,10 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Journeys of Souls
->[!info]+ Information  
-> A [[Hkar|Hkaran]] religious text, written before [[The Downfall|Downfall]], by an unknown scholar  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A book written in a Hkaran dialect, similar to Drankorian, by an unknown author, dating from before the [[The Downfall|Downfall]].
 

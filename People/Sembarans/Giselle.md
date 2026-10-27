@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,11 +12,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720s
 ---
-# Giselle
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[giselle.png|right|320]]The secretary and land clerk in [[Valit]].
 

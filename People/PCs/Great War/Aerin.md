@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -14,10 +13,8 @@ dm_owner: player
 dm_notes: important
 POV: 1740s
 ---
-# Aerin
->[!info]+ Biographical Info  
-> A [[Kenku|kenku]] (he/him), of the [[Heroes of the Great War]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A kenku, rogue, and traveler. Current whereabouts are unknown. 
 

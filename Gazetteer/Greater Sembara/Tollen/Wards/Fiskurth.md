@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Fiskurth
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 An ancient district in [[Tollen]] and part of the original Skaer city, Fiskurth is a dense warren of narrow, bustling streets along the north-bank waterfront, filled with overhanging wooden buildings. It is now the heart of the fishing trade, crowded with fish markets, sailor’s inns, and the low docks where the inshore fleets unload their catch. Fiskurth is loud, smelly, and full of activity -- beggars, hawkers, horsecarts of rich merchants, peddlers on packhorses selling water, throngs of people. 
 

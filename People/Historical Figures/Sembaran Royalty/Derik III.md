@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/review, testcase, status/check/lint]
@@ -20,11 +19,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# King Derik III
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 %% the metadata / affiliations need to be updated to reflect current thinking about history; important figure with more details available so note could be expanded; note date of High Prince of the North is based on end of [[Vimfrost's War]], per that note %%
 

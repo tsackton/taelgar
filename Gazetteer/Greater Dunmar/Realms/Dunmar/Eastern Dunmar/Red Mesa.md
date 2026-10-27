@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,10 +13,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Red Mesa
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Red Mesa is a large, flat-topped mesa of red stone that rises six hundred feet or more above the desert, marked by ochre rock formations that seem almost to pulse with inner life.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -19,12 +18,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1748
 ---
-# Resenna
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Rescued from imprisonment in an aboleth's lair by [[Wellby]] on October 14th, 1748 in the [[Outer Ocean]] %%^End%%
+```taelgar-header
+```
 
 ![[resenna.png|right|320]]Young woman, from Medju. Apprentice to [[Arryn]]. Fled when he vanished into [[Mirror Realm]]; was trapped and enslaved by aboleth. Now dwelling with sea elves until aboleth curse can be removed. 
 

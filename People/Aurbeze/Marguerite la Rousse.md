@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,13 +19,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Marguerite La Rousse
-*(mar-guh-REET la ROUSE)*
->[!info]+ Biographical Info  
-> An Aurbeze [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 7th, 1749 in [[Three Wells]], the [[Refounded Alliance of Aurbez]] %%^End%%
+```taelgar-header
+```
 
 ![[marguerite-la-rousse.png|right|400]]Marguerite is an Aurbeze militia captain and capable fighter, formerly a highland shepherd on the [[Aurbez Plateau]]. She commands respect among the plateau militias, bringing practical experience and resolve to local defense. Her leadership emphasizes endurance, coordination with the [[Rangers]], and protection of rural households.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -19,11 +18,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Samraat Aatmaj Dasa
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him), of the [[Aatmaji Dynasty|Aatmaji dynasty]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The last Samraat of the [[Aatmaji Dynasty]]. 
 

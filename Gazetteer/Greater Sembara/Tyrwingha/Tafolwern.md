@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T18:00:33-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/mike]
@@ -18,11 +17,8 @@ mapLocation:
   importance: world
   symbol: diagonal-square
 ---
-# Tafolwern
-*(Tav-ol-WERN)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Tafolwern is the capital and foremost cultural center of [[Tyrwingha]], with roughly 35,000 inhabitants. Its ornate architecture, carefully arranged parks, water features, and intricate public art reflect the influence of [[Archfey Ethlenn|Ethlenn’s]] court. Carvings and mosaics often imitate the flowing forms of Sylvan writing, sometimes without forming readable text.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,11 +13,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1740s
 ---
-# Nayahar
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A Dunmari city located close to the head of navigation of the [[Nayan]] river. The administrative center of the [[Nayan Dynasty]], home of the Samraat court. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,12 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740
 ---
-# Lord Hulda
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Hulda is a scarred, powerfully built man in his mid-to-late forties, with a grizzled gray beard and the wary bearing of an experienced fighter. He spent many years as an adventurer, sellsword, guard, and mercenary around [[Sembara]], [[Tollen]], and the wider [[Green Sea]]. He is proud, bitter, resentful at times, and deeply invested in receiving his due. 
 

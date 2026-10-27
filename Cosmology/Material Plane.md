@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Material Plane
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Material Plane, sometimes called the Prime Material Plane or simply the Prime Realm, is the name traditionally given to the plane in which the world of Taelgar, and possibly other worlds, exist. The Material Plane, along with its spiritual counterpart the [[Plane of Souls]], is considered by almost all scholars to be the center of the [[Multiverse]]. This pair of planes - the material and the spiritual - is where the [[Astral Plane]] and [[Ethereal Plane]] intersect, and is believed by theological cosmologists to be the home for life to thrive created by the [[Divine Presence]] during the [[Riving]].
 

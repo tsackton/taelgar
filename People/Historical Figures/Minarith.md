@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-05T08:00:45-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,13 +18,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1749
 ---
-# Minarith
-*(MIH-nah-rith)*
->[!info]+ Biographical Info  
-> A [[Peronar]] [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] unknown)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 > [!image|right standard]
 > ![[minarith-terracotta-portrait.webp]]

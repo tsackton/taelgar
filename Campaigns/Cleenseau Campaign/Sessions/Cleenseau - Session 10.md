@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 10
@@ -13,7 +12,8 @@ tagline: in which the party destroys the source of the local zombie plague
 sessionKey: cleenseau-session-10
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 10
+```taelgar-header
+```
 
 In the lowest ruins, the party defeats a hobgoblin wight and destroys a green gem spreading the zombie disease. They then help the surviving guards repel zombies near [[Cleenseau Bridge]] and gather allies for a regional defense council.
 

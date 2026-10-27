@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# The Northern War
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A brutal war fought in the north of [[Dunmar]] against the [[Blackened Claw]] hobgoblin clan. Ended in a complete and total Dunmari victory, with the hobgoblins crushed.
 

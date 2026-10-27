@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/mike]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1730
 ---
-# Eidrikas
-*(AYD-ree-kahs)*
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Eidrikas is a mystic of the [[Vejo Vaikai]], and [[Ekko]] mentor. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -12,11 +11,8 @@ whereabouts: Peydon
 knownTo: [clee]
 POV: 1720s
 ---
-# Beatrice Roisier
-*(BEE-ah-trees RWAH-zyeh)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Beatrice Roisier is a maid in the household of [[Emeric Daverre]] in [[Peydon]]. She is elegant, loyal, and non-confrontational.
 

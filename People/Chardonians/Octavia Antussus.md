@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Octavia Antussus
-*(ock-TAH-vee-ah an-TOOS-sus)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 Octavia is one of [[Mitus Verina Auratan]]'s trusted advisors, especially on military matters. She is middle-aged, in her early 50s, but spry and wirey.
 

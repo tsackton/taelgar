@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,12 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Inectos Tintio
-*(ee-NEK-tohs TEEN-tee-oh)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]]  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on March 1748 in [[Voltara]], [[Greater Voltara]], the [[Northern Provinces]] %%^End%%
+```taelgar-header
+```
 
 Inectos is the idle son of a rich merchant from [[Chardon]]. He is a prominent collector in [[Voltara]] who purchases treasure and curios. 
 

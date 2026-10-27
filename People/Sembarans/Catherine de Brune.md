@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -16,12 +15,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720
 ---
-# Catherine de Brune
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[de Brunes]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[catherine-de-brune.png|right|320]]The cousin of [[Sabine de Brune]] and a trading agent for a number of Embry trading families, including the [[Garay Family]]. She is a confidant of [[Rinault Essford|Rinault]] and it is a rather open secret that she has an on-again, off-again affair with him. She has bought numerous landholdings in [[Asineau]] from [[Lorin Valbert]], but is concerned at his mismanagement and questioning whether it is a profitable investment. After
 

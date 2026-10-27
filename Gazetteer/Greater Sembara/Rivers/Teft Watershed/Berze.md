@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Bērze
-*(BEHR-zeh)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A swift-flowing mountain river that joins the [[Teft]] just west of the [[Great Chasm]]. It flows south from the [[Sentinel Range|Sentinels]].
 

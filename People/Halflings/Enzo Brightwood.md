@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -20,11 +19,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720
 ---
-# Enzo Brightwood
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (he/him), of Brightwoods  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[enzo-brightwood.png|right|400]]A skirmisher and scout. Young, to be on the road. Cousin of [[Adra Brightwood]].
 

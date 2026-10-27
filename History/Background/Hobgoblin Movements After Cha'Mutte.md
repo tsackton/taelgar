@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
 tags: [background, status/cleanup/text, status/cleanup/map, status/gameupdate/dufr, status/check/lint]
@@ -9,7 +8,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Hobgoblin Movements After Cha'Mutte
+```taelgar-header
+```
 
 %% needs Iron Fang, plaguelands updates post Dunmar Campaign %%
 

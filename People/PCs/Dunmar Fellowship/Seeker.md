@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,10 +16,8 @@ dm_owner: player
 dm_notes: important
 POV: 1748
 ---
-# Seeker
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of the [[Dunmar Fellowship]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 > [!image|right standard]
 > ![[seeker-writing-ikrams-courtyard-v1.webp]]

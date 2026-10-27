@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Battle of Shadowfire
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> Part of The [[Conclave War]]
+```taelgar-header
+```
 
 A major defeat for [[Chardon]] during the [[Conclave War]], when the dragon conclave unleashed their full might during the wars of the [[Blood Years]].  Fought on the banks of the [[Chasa]], about 250 miles northeast of [[Chardon]]. The [[Scar of Shadowfire|remnants of the dragonfire]] of this battle still scar the land, and nothing grows.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/dufr]
@@ -18,13 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Itar
-*(ee-TAHR)*
->[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (he/him), of the [[Bek'eni]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Itar is the Godcaller of the [[Bek'eni]] tribe of Deno'qai. He is a young-looking man, ostentatiously dressed in a style that seems to be a cheap imitation of Elven elegance, wearing far more jewelry than is customary among the Deno'qai. He is obsequious toward elves but smarmy and aloof toward others; even at his most ingratiating, there is something faintly unsettling about him.
 

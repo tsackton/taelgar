@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 tags: [religion/kestavo, background, status/check/mike, status/check/lint, status/review]
@@ -10,8 +9,8 @@ dm_owner: joint
 dm_notes: important
 POV: modern
 ---
-# Kestavo
-*(kes-TA-voh)*
+```taelgar-header
+```
 
 %% tagging check/mike and status/gameupdate/chasm instead of errors, but feel free to add errors if needed: needs a pass to determine what is canon, what is brainstorming, what is obsolete %%
 

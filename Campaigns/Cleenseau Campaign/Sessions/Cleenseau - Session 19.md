@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 19
@@ -13,7 +12,8 @@ tagline: in which the party frees Damien and kills a Duskhound
 sessionKey: cleenseau-session-19
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 19
+```taelgar-header
+```
 
 The party frees Sabine and Istarias, then climbs the keep's tower to rescue [[Damien Montrichard]]. They defeat a [[Duskhounds|Duskhound]], escape with Damien, and expose [[Areschera]] as the fey who murdered and replaced [[Marguerite Deschamps]].
 

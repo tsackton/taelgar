@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:32:28-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -7,7 +6,9 @@ campaign: Dunmar Frontier
 name: "Caulaus' Story"
 POV: 1748
 ---
-# Caulaus' Story
+```taelgar-header
+```
+
 ([[Session 67 (DuFr)|collected by]] [[Kenzo]])
 
 I was the only child, much to my parents' disappointment. I don't remember much of my childhood schooling, military training.

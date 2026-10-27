@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,11 +13,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Valtrius University
-*(VAHL-tree-oos)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Valtrius University was one of the three major universities of [[Drankor]] in the late empire, alongside the [[Imperial University]] and the [[University of the Blessed Waters]]. At its height, Valtrius University was a center of applied magic, developing practical uses of magic for civic construction and warfare. Its surviving towers and workshops still bear traces of unstable experiments. 
 

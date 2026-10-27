@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,12 +15,8 @@ dm_owner: mike
 dm_notes: none
 POV: 1720s
 ---
-# Duncan Rivers
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[duncan-rivers.png|right|320]]A jovial barkeep and innkeeper, he is very fond of his inn and a little full of himself. He does not like asking for help very much, and rarely admits he needs it. He is suspicious of magic and speaks often of the "good old days" of Cece's reign.
 

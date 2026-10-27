@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 tags: [object, status/gameupdate/gl, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Chalyte
->[!info]+ Information  
-> (magical mineral)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Chalyte is a rare mineral imbued with the essence of the [[Plane of Magic]]. Pure, refined chalyte is associated with a wide variety of magical properties. The most common and well-understood use is to empower enspelled items and other enchantments, but rumors speak also of ways in which chalyte can be used to enhance the magic of spellcasters.
 

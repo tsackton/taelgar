@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,11 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1715
 ---
-# Serethwyn Tor
-*(seh-RETH-win tor)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Serethwyn Tor is an old hill-fort in western [[Carlinshire]], built on a rocky rise of the [[Westcliff]] overlooking the [[Highmoor]]. While its full history is obscure, it likely served as a major garrison and forward command post for the armies of [[Avatus]] during the [[Serpentine Wars]]. The site was deliberately dismantled and sealed after Addermarch's victory by the [[Rangers]], and commanded to be left undisturbed. In the early DR 1700s, it is occasionally patrolled by Rangers to ensure it remains abandoned and sealed.
 

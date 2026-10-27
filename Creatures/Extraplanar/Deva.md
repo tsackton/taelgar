@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [creature]
@@ -10,8 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Deva
-*(DAY-vuh)*
+```taelgar-header
+```
 
 Devas are a kind of [[Celestials|celestial]], rarely encountered but generally understood as angelic messengers and agents of divine or spiritual powers.
 

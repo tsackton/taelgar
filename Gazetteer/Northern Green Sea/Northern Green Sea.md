@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/wip, status/check/ai, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: joint
 dm_notes: important
 POV: modern
 ---
-# The Northern Green Sea
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The northern coastline of the [[Green Sea]] is a strange place, where even halfling traders rarely go. The land of [[Ursk]] is unwelcoming even to halflings, and few have traveled its roads and rivers. North of [[Ursk]] is a cold land of mighty forests and rivers, rushing in the brief summer but frozen during the long winter. Our reports come from the few halfling travelers and traders who brave the cold. 
 ## Map

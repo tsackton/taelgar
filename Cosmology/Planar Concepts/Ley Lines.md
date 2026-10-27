@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -8,7 +7,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Ley Lines
+```taelgar-header
+```
 
 The elven philosopher [[Avariel]] coined the term Ley Lines to describe the numerous tendrils of the Plane of Magic that seem to contact the Material Plane and power the magical abilities of arcane spellcasters, hypothesized to be the remnants of the [[Riving]], threads of the [[Plane of Magic]] left behind when the planes were separated, a patchwork lattice of connection through which arcane magic leaks into the world, for those with skill to channel it. In the [[Standard Multiversal Model]], ley lines are described as a type of [[Extraplanar Weak Point]], where the [[Plane of Magic]] bleeds into the [[Material Plane]], although many arcane practitioners prefer the metaphor of rivers of energy popularized by the followers of [[Planar Dualism]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 18
@@ -11,7 +10,8 @@ name: Addermarch Campaign - Session 18
 tagline: in which the fights skeletons and finds the mine blocked
 descTitle: Into the Mine
 ---
-# Addermarch Campaign - Session 18
+```taelgar-header
+```
 
 >[!info] Into the Mine: in which the fights skeletons and finds the mine blocked
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

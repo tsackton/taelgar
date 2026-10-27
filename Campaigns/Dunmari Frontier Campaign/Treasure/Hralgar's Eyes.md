@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -10,10 +9,8 @@ name: "Hralgar's Eyes"
 knownTo: [dufr]
 POV: modern
 ---
-# Hralgar's Eyes
->[!info]+ Information  
-> (magical wondrous item)
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A pair of giant eyes, made of stone. These are two stone eyes, a bit smaller than a human head, and very heavy. They are exquisitely and realistically carved to resemble the eyes of a giant. 
 

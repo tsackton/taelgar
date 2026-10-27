@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,13 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720
 ---
-# Victorine Rosseau
-*(veek-toh-REEN roh-SOH)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Victorine Rosseau is the Chief Magistrate of the [[Barony of Aveil]], based in [[Veltor]], where she has served for decades. She is strongly committed to justice and procedure. Outwardly loyal to [[Isabeau D'Aslain|Baroness Isabeau]], she is wary of the Baroness’s hands-off approach and the strange events surrounding her rule, and willing to clash with authority to maintain her sense of justice. Her three assistant magistrates include [[Thomas Dyerson]].
 

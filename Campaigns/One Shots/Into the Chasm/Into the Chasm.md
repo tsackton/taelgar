@@ -1,12 +1,12 @@
 ---
-headerVersion: 2023.11.25
 tags: [meta]
 hide: [toc]
 name: Into the Chasm
 dm_owner: mike
 POV: 1730
 ---
-# Into the Chasm
+```taelgar-header
+```
 
 > [!image|hero]
 > ![[itc-overview-runic-plaform.jpg]]

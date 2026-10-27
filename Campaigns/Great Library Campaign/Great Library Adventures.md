@@ -1,9 +1,9 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 name: The Chronicles of the Silver Tempests
 ---
-# The Chronicles of the Silver Tempests
+```taelgar-header
+```
 
 Herein lies the chronicles of the [[Silver Tempests]], from their humble roots as hired adventurers for the [[Great Library]], to their current fame.
 

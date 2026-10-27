@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -21,14 +20,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Wella Brightmoon
->[!info]+ Biographical Info
-> A [[Halflings|halfling]] (she/her), of the [[Brightmoons]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met with [[Wellby]] on September 30th, 1748 in the [[Wave Dancer]], sailing to [[Wahacha]], the [[Vermillion Isles]] %%^End%%
->> %%^Campaign:dufr%% Last seen with [[Wellby]] on October 12th, 1748 in the [[Wave Dancer]], moored in the [[Wahacha|main port of Wacahca]], the [[Vermillion Isles]] %%^End%%
+```taelgar-header
+```
 
 Wella is an elderly halfling woman with curly white hair, and the captain of the [[Wave Dancer]]. She is married to [[Rose Brightmoon]], and is the matriarch of the Brightmoon clan. 
 %%^Date:1748%%

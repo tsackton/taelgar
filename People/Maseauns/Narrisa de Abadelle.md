@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,13 +15,8 @@ dm_owner: mike
 dm_notes: important
 POV: 1719
 ---
-# Narrisa de Abadelle
-*(nuh-RISS-uh duh ah-bah-DEL)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Narrisa de Abadelle is a paladin of [[The Wanderer]] from the [[Duchy of Maseau]] and a member of the [[Order of the Charitable Wanderer]]. She was trapped in [[Duskmire]] for some time before being rescued when the fey portal in [[Cleenseau Wood]] opened in DR 1719.
 

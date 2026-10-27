@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,13 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: 1747
 ---
-# Marcus Tuso
-*(MAR-koos TOO-zoh)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on September 28th, 1747 in [[Voltara]], [[Greater Voltara]], the [[Northern Provinces]] %%^End%%
+```taelgar-header
+```
 
 Marcus Tuso is the local commander of the Voltara Guard. 
 

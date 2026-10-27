@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Haldrenn
->[!info]+ Information  
-> pop. 72  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Haldrenn is a small, isolated hill village in the [[Highmoor]], northeast of [[Brantor]] and [[Roscombe]], sheltered by a windswept ridge marked with carved wooden wards. The village clings to the eastern side of the ridge, northwest of the [[Umber]] lowlands, a small collection of turf-roofed houses and stone walls gathered around a spring-fed well.  Each spring, herders drive shaggy highland cattle up to summer shielings, while farmers tend rye and kale on the slope below the village. 
 

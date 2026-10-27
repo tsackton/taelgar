@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -21,13 +20,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Lerry Wildheart
->[!info]+ Biographical Info
-> A [[Halflings|halfling]] (he/him), of the [[Wildhearts]]
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Wellby]] on September 30th, 1748 on the [[Wave Dancer]], sailing to [[Wahacha]], the [[Vermillion Isles]] %%^End%%
->> %%^Campaign:dufr%% Last seen by [[Wellby]] on October 12th, 1748 on the [[Wave Dancer]], at port in [[Wahacha]], the [[Vermillion Isles]] %%^End%%
+```taelgar-header
+```
 
 Lerry Wildheart is the quartermaster of the halfling trading ship the [[Wave Dancer]], promoted to the role a few years ago. 
 ## Relationships

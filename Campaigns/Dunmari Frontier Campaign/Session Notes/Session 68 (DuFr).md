@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 68
@@ -11,7 +10,8 @@ tagline: in which the party reunites and shares tales
 descTitle: Reunion
 name: Dunmari Frontier - Session 68
 ---
-# Dunmari Frontier - Session 68
+```taelgar-header
+```
 
 >[!info] Reunion: in which the party reunites and shares tales
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*

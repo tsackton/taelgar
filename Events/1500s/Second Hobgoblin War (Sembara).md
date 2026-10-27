@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/mike, status/gameupdate/dufr, status/check/tim]
@@ -13,10 +12,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# The Second Hobgoblin War (Sembara)
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% there is some backstory context w/r/t to [[Iron Fang]] hobgoblins I had been keeping back until after the [[Empress of Chaos]] and [[Isingue]] arcs, which potentially could be usefully fleshed out here, but I have to disentangle brainstorming from what actually was revealed in play in my DM notes %%
 

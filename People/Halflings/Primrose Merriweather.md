@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,12 +14,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720
 ---
-# Primrose Merriweather
-*(PRIM-rohz MERR-ee-weh-ther)*
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (she/her), of the [[Merriweathers]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[primrose-merriweather.png|left|200]]
 

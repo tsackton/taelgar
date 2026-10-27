@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -29,17 +28,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Johar
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% First met by the [[Dunmar Fellowship]] on June 30th, 1748 in [[Tokra]], [[Dunmar]] %%^End%%  
->> %%^Campaign:DuFr%% Began traveling with the [[Dunmar Fellowship]] on July 16th, 1748 in [[Tokra]], [[Dunmar]] %%^End%%  
->> %%^Campaign:DuFr%% Parted ways with the [[Dunmar Fellowship]] on August 8th, 1748 in [[Darba]], [[Dunmar]] %%^End%%  
->> %%^Campaign:DuFr%% Scryed by [[Delwath]] on October 22th, 1748 in [[Nayahar]], [[Dunmar]] %%^End%%  
->> %%^Campaign:DuFr%% Reached by Sending cast by [[Riswynn]] on November 17th, 1748 in [[Nayahar]], [[Dunmar]] %%^End%%  
->> %%^Campaign:DuFr%% Reunited with the [[Dunmar Fellowship]] on February 1st, 1749 in the [[Copper Hills]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 ![[johar.jpg|left|450]]Johar is a confidant and close friend of [[Kenzo]]'s from the [[Lakan Monastery]] in [[Tokra]]. He works in the [[Tokra]] [[Archives]], primarily interested in documenting the miracles of [[Laka]], and the history of the [[Lakan Monastery]] and the community there.
 

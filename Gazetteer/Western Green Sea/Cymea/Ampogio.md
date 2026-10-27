@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Ampogio
-*(ahm-POH-joh)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The longest river in Cymea, flowing from the [[Mistfold Mountains]], along the western edge of the rocky interior, until it reaches the [[Western Green Sea]]. The upper reaches of the Ampogio are unnavigable, marked by frequent waterfalls as it cascades through the karst landscapes of interior Cymea. Below the confluence with the [[Carvaz]], the Ampogio slows and widens until it drains into the [[Western Green Sea]].
 

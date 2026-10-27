@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/mike]
@@ -17,11 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1730
 ---
-# Zeyfa's Labyrinth
-*(ZAY-fahz LAB-uh-rinth)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Zeyfa's Labyrinth is an icebound maze inside [[Zeyfa's Realm]], associated with [[Zeyfa]], the cruel West Wind of Zimkovan legend. It is associated with a dangerous beast that consumes sacrifices sent into the labyrinth from [[Melusa]], and it said to trap all who enter. No one escapes. 
 

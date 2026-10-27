@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [background, status/cleanup/text]
@@ -9,7 +8,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Birthdays
+```taelgar-header
+```
 
 %% the text should likely be cleaned up if this is going to be published regularly, but is fine as is for a background note %%
 

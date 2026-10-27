@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, compiled by )author:nx>", startStatus: last updated in}
@@ -15,11 +14,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1749
 ---
-# Book of Martyrs of the Radiant Path
->[!info]+ Information  
-> A [[Mos Numena]] martyrology, compiled by priests of the [[Radiant Path]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Book of Martyrs of the Radiant Path is a hidden record and memorial that was kept by the priests of the [[Radiant Path]] in [[Drankor]]. It records those who vanished or were taken during [[Apollyon]]’s reign, preserving their names and brief life stories for the faithful. One copy was recovered from the [[Temple of the Eight Divines]] in [[Drankor]] by the [[Dunmar Fellowship]] in DR 1749; whether other copies exist is not known.
 

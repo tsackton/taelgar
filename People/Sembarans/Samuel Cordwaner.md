@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -10,9 +9,8 @@ name: Samuel Cordwaner
 knownTo: [clee]
 POV: 1720
 ---
-# Samuel Cordwaner
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
+```taelgar-header
+```
 
 Samuel Cordwaner is [[Odo Cordwaner|Odo's]] younger brother and an apprentice smith in [[Asineau]], training under [[Roaric Ferrystone]]. Presumed dead after fleeing zombies, he was found hiding in the hills and escorted to safety in early DR 1720.
 

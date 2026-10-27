@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# The Battle of Heartroot Vale
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Battle of Heartroot Vale was a climactic victory by the forces of the [[Refounded Alliance of Aurbez]] and the [[Dunmar Fellowship]] against the [[Iron Fang]] hobgoblins and the [[Empress of Chaos]].
 

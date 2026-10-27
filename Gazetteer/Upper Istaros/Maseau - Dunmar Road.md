@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/mike, status/check/lint]
@@ -9,9 +8,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Maseau - Dunmar Road
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 It is 480 miles from [[Cassons]] to the high pass over the [[Sentinel Range]], and the road passes through three major areas on the journey. The first 140 miles run through the [[March of Andonne]], a land of small-scale ranchers and marcher lords. Clustered along the road are numerous fortified ranches, once the main defense from the [[Plaguelands]]. Today these ranches are open and have grown into small villages and markets, and the lords 50 miles or more to the south and east bear the brunt of whatever comes out of the [[Plaguelands]]. Travelers are advised to avoid sleeping on the roadside, but rarely is it needed as the ranches along the road have developed into waystops and places of refuge, earning a second income as inns and taverns.
 

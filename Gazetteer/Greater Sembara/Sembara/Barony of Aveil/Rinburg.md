@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,12 +13,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720s
 ---
-# Rinburg
-*(Rin-burg)*
->[!info]+ Information  
-> pop. 2,341  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A trading town at the head of navigation of the [[Enst]]. A busy ferry crosses the river here, and it is the only place to cross the Enst until [[Cleenseau]], sixty miles further west. The landscape around Rinburg is pastoral fields and farms, and there is much good sheep pasture within two days ride. Rinburg is named for [[Lake Rin]], a large lake just upriver, which is also a rich source of fish. 
 

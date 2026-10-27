@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -14,12 +13,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# Aelirios Sunblade
-*(Ah-ler-ee-os Sun-blade)*
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A fey warrior and knight. The original companion to [[Greymalkin]], and forger of the [[Lantern of the Bright Hearth]].
 

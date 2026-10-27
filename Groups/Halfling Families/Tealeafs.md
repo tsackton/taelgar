@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Tealeafs
->[!info]+ Information  
-> A [[Halflings|halfling]] family  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Tealeafs are a halfling trading family based in the [[Greater Dunmar]] area. They were a rich and prominent family of long-distance traders,  known for long overland caravan circuits between [[Chardon]], [[Songara]], [[Tokra]], and [[Eastern Dunmar]], in the first decades of the DR 1700s.
 

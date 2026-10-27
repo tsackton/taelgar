@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The War of the Cloak
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A war fought between the armies of [[Grash]] and the orcs of [[Xurkhaz]], aided by [[Dunmar Fellowship]], over the [[Cloak of Rainbows]]. 
 

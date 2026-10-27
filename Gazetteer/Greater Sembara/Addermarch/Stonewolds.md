@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the, wHome: "<ancestry:UA> <subtypeof:UA> <typeof:U> <(of )primary> <home:5Fq>"}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# The Stonewolds
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Stonewolds are rugged, wooded hills west of [[Roscombe]]. Thickets and drystone ridges hide narrow tracks frequented by trappers, hermits, and monsters alike. The western reaches shelter cave mouths that sometimes drop into the deeper underways.
 ## Notable Sites

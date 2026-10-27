@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1748
 ---
-# Ulgna
->[!info]+ Biographical Info  
-> A goblin (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Ulgna is a goblin bonesplitter associated with the goblin occupation of [[Perdoli Manor]]. She led the goblin faction that disliked serving [[Grimstone]] and resented the hobgoblin authority around the manor, preferring independent raiding to [[Grimstone]]'s prisoner-taking arrangement.
 

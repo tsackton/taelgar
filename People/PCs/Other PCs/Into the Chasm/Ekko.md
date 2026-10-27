@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,11 +13,8 @@ dm_owner: player
 dm_notes: important
 POV: 1730s
 ---
-# Ekko
-*(EH-koh)*
->[!info]+ Biographical Info  
-> A [[Kenku|kenku]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Ekko is a kenku mystic of the [[Vejo Vaikai]] and a student of [[Eidrikas]]. Raised at [[Kemeko Monastery]], he left the monastery to live among the mystics along the [[Selgrava]] in [[Breva]]. A member of the [[Chasm Explorers]], he can take animal forms, using this ability to scout and fight.
 

@@ -1,13 +1,11 @@
 ---
-headerVersion: 2023.11.25
 tags: [place, status/check/name]
 typeOf: plane
 dm_owner: tim
 dm_notes: important
 ---
-# The ~Elven Divine Realm~
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 %% NOTES FROM EMAIL - NOT NECESSARILY CANON%%
 

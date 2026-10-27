@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Aveil Ridge
-*(Ah-vayl Ridge)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A small line of hills in the northern part of the [[Barony of Aveil]], it rises steeply from the [[Auberonne]] valley to a height of almost three thousand feet - more than fifteen hundred feet above the valley floor. This is difficult land to farm, with many sheer granite cliffs rising 200 or 300 feet, and numerous steep escarpments that are less sheer.  Outside of a few scattered communities of goatherders, this area is not populated.
 

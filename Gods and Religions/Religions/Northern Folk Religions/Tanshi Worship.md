@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -9,7 +8,8 @@ dm_owner: joint
 dm_notes: important
 POV: modern
 ---
-# Tanshi Worship
+```taelgar-header
+```
 
 %% some early tanshi notes in great library onenote %%
 

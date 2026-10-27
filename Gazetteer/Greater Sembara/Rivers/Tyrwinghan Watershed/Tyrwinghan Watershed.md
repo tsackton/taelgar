@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Tyrwinghan Watershed
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Tyrwingha is a small land nestled between the [[Mostreve Hills]] in the south and west, the [[Western Gulf]], in the east, and the two lizardfolk swamps [[Ozabal]] and [[Latazaro]], in the north-west and east, respectively. In between these boundaries a number of rivers flow from the [[Mostreve Hills]] to the [[Western Gulf]], the most important of which are:
 

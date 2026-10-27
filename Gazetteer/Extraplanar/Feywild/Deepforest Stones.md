@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "<typeof:Ua> <secondary:q>", wHome: "<typeof:Ua> <home:q>"}
@@ -14,10 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Deepforest Stones
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Deepforest Stones are a fey portal described in [[The Lore of the Feywild]]. They take the form of a grove of three gnarled, bent trees that seem to grow from stone, inside which no sound can be heard. How to activate or step through this portal is not described. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,11 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Mehrangeesa
->[!info]+ Biographical Info  
-> An [[Elementals|elemental]] ([[Djinn|djinn]]) (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on July 23th, 1747 in [[Airion's Floating Tower|Airion’s Floating Tower]], [[Blacksilver Peak]], the [[Fiatara Mountains]] %%^End%%
+```taelgar-header
+```
 
 Mehrangeesa is a djinni from [[Sulmana]], a city of the [[Elemental Plane of Air]]. He was imprisoned in [[Airion's Floating Tower]] for many years, and later returned to the Plane of Air after he was freed by the [[Silver Tempests]]. In gratitude for their aid, he assisted them in the [[Battle of Voltara|defense]] of [[Voltara]] against [[Grumella's Horde]]. 
 

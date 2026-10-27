@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,12 +16,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Daruk
-*(DAH-rook)*
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of the [[Runecrafter Thuhr]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A dwarven scholar, who lived and died before the [[Great War]], and was fascinated with lost runic magic. Rumors and tales say he traveled the [[Feywild]], and to many other exotic places, seeking to understand how to create runic magic that would permanently change the essence of things. 
 

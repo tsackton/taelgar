@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/lint]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# History of the Skaer
+```taelgar-header
+```
 
 %% this note covers the history of the [[Skaer]] people %%
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Cleenseau
@@ -17,7 +16,8 @@ tagline: "in which a false trial becomes the lich's final intervention"
 sessionKey: cleenseau-session-28
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 28
+```taelgar-header
+```
 
 >[!info] The End of Malach: in which a false trial becomes the lich's final intervention
 > *Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moonseeker|Izgil]]*

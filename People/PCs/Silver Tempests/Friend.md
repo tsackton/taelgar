@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/gl]
@@ -16,11 +15,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1740s
 ---
-# Friend
->[!info]+ Biographical Info  
-> A beast (miniature black bear)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Friend is a magically shrunken black bear companion of [[Samso]]. Samso found and adopted Friend in the [[Crystal Cavern]] during the recovery of the [[Stonemaster Scroll]] in DR 1747.
 

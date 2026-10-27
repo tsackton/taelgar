@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:24-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -19,12 +18,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720s
 ---
-# Bolgrim Ferrystone
-*(BOL-grim FAIR-ee-stohn)*
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of the [[Ferrystones|Ferrystone Clan]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[bolgrim-ferrystone.jpg|left|200]]Bolgrim Ferrystone is a dwarf of the [[Ferrystones|Ferrystone Clan]], based in [[Rinburg]], with expertise in masonry. He is a cousin of [[Roaric Ferrystone]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/text, status/check/lint]
@@ -19,12 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Aygul
-*(EYE-gool)*
->[!info]+ Biographical Info
-> An [[Orcs|orc]] (she/her)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[aygul-portrait.png|right|320]]An orc brawler and fighter, who sees herself as a defender of her people and especially her twin sister, [[Nuzkar]]. A loner, with no other family.
 

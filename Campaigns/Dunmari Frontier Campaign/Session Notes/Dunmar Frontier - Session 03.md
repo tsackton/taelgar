@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Dunmar Frontier
@@ -16,7 +15,8 @@ tagline: "in which an old fort reveals its secrets"
 sessionKey: dunmari-frontier-session-3
 session-template: dunmar-frontier-template.md
 ---
-# Dunmari Frontier - Session 3
+```taelgar-header
+```
 
 >[!info] Curses and Cockatrices: in which an old fort reveals its secrets
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], and [[Seeker]]*

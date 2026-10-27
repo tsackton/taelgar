@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [creature, status/check/lint]
@@ -9,7 +8,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Marid
+```taelgar-header
+```
 
 Marids are the name for a diverse group of powerful water genies, among the most famous native inhabitants of the [[Elemental Plane of Water]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -20,12 +19,8 @@ dm_owner: player
 dm_notes: none
 POV: 1748
 ---
-# Loria Underbough
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (she/her), of the [[Labyrinth Prisoners]]  
-> [Character Sheet](https://www.dndbeyond.com/characters/112565720)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Loria Underbough is a [[Halflings|halfling]] wanderer and ranger from an extended traveling family based along the [[Enst]] river. Her family followed the usual halfling pattern of moving between cities, towns, and villages, but Loria was always more comfortable in forests and river country than in crowded settlements.
 

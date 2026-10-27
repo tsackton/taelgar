@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Queen’s Own Home for Children
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Founded by [[Cece I]] as part of a thanksgiving for her 25th year as monarch, for many years it was known as one of the better run orphanages in Embry. It was spread over two dormitories set around a central courtyard, a north dormitory for children able to work, usually aged 7 and over, and a south dormitory, for children too young or disabled to work.
 

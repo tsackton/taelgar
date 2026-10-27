@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Haurhill
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Haurhill is a ward of [[Tollen]] built on the low rise west of the old city, overlooking the course of the [[Little River]]. This height of land was once the site of a Drankorian fort guarding the western approach and the Brooklawn suburbs, though the fort no longer stands intact. Narrow lanes climb the hill from [[Brooklawn Inner]] and [[Fairgate Inner]].
 

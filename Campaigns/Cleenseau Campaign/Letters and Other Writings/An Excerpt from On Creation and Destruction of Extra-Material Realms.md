@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:38:32-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -7,7 +6,9 @@ campaign: Cleenseau
 name: An Excerpt from On Creation and Destruction of Extra-Material Realms
 POV: 1720
 ---
-# An Excerpt from "On Creation and Destruction of Extra-Material Realms"
+```taelgar-header
+```
+
 _Discovered in [[Cleenseau]] in early January, 1720_
 
 In the home of [[Arnaud Ausson]], a prominent [[Isingue|Isinguer]] merchant, you find amongst his papers a book of reviews and critical reactions to a famous Drankorian play, [[A Fool's Fortune]]. This play is lost, or at least, [[Arnaud Ausson]] doesn't have a copy of the play, and the book of reviews and reactions is itself ancient, dating from the end of the Drankorian Empire around 1000 DR.

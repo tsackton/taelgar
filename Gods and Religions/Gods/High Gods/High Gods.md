@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -9,7 +8,8 @@ dm_owner: none
 dm_notes: important
 POV: modern
 ---
-# High Gods
+```taelgar-header
+```
 
 
 The most powerful and most distant divinities are known as the High Gods, or sometimes the Creator Gods. For most folk of Taelgar, the Creator is synonymous with the [[Divine Presence]]. However, some speak of a darker power: the [[Void Mind]], who seeks to end all existence. This entity, too, is a High God. 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-13T12:24:51-04:00"
 lintVersion: "3.5"
 tags: [power]
@@ -13,11 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Harrow
->[!info]+ Information  
-> An archfey (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Harrow, the Shadow That Looms, is an archfey and the ruler of [[Darkfall]]. He is often spoken of in the same sentence as [[Wend]], the Silence That Follows, ruler of [[Hollowdark]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -9,7 +8,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# The First Ones
+```taelgar-header
+```
 
 The halfling people worship three creator gods, known collectively as the First Ones or the First Ancestors. They are often thought of as two-faced gods, each reflecting two aspects of life that are both different and related, one looking inward, the other looking outward. They are: 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Tollen Fairgrounds
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Tollen Fairgrounds are a large open field north of the walls of [[Tollen]], in [[Fairgate Outer]], set aside for the use of traveling [[Halflings|halfling]] caravans. At most times of year the Fairgrounds function as common land and caravan standing‑place, but they often host impromptu markets, celebrations, and other gatherings linked to halfling travel and the wider Fairgate district.
 

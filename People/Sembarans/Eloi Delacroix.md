@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [person]
 species: human
 ancestry: Sembaran
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720s
 ---
-# Eloi Delacroix
-*(EH-lwah deh-lah-KRWAH)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Eloi Delacroix is a miller in [[Peydon]], where he works with his brother [[Marc Delacroix]]. He is charismatic and well-liked.
 

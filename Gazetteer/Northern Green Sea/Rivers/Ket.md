@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/ai, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# Ket
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Ket is the most significant river of the [[Great Northern Forest]], flowing over 1500 miles from its source on the eastern slopes of the [[Svinjo Mountains]], east to the [[Green Sea]]. For most of its length, the Ket cuts through vast, uncharted stretches of taiga, dominated by dense pine and spruce forests, interspersed with birch groves. The river’s valley is home to countless species of boreal wildlife, including elk, wolves, and bears. In the summer, migratory birds flock to its banks, feeding on the abundant fish and insects, while the winter brings stark stillness, with thick snow blanketing the region.
 

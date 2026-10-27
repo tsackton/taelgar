@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Dunmar Frontier
@@ -16,7 +15,8 @@ tagline: "in which the party follows signs of unnatural violence into the Nashtk
 sessionKey: dunmari-frontier-session-2
 session-template: dunmar-frontier-template.md
 ---
-# Dunmari Frontier - Session 2
+```taelgar-header
+```
 
 >[!info] Into the Wilds: in which the party follows signs of unnatural violence into the Nashtkar
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], and [[Seeker]]*

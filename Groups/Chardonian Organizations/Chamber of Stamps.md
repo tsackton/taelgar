@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -10,10 +9,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1749
 ---
-# The Chamber of Stamps
->[!info]+ Information  
-> A [[Chardonian Empire|Chardonian]] civic office  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Chamber of Stamps is a crucial part of the bureaucracy of the Chardonian Empire. The officials of the Chamber of Stamps regulate the five charter monopolies controlled by the [[Curia of 42]] (chalyte, salt, spell inks, alchemical reagents, and charcoal).
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/mike]
@@ -19,12 +18,8 @@ dm_notes: important
 pronunciation: REJ-uh-nuhld ROOZ-bek
 POV: modern
 ---
-# Reginald Rusebek
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Reginald Rusebek was charged with treason & murder in February 1719. He was said to be embezzling crown funds and was found to have murdered a group of halfling traders who discovered his embezzlement. His family (three children, a sister and brother-in-law, two nieces, a niece-in-law, and his wife) was never found to be complicit, but there were suspicions from some of the halflings that his nephew and daughter were involved in at least the cover-up.
 

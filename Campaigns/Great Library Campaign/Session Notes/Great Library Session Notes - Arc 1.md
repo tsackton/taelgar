@@ -1,12 +1,12 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Great Library
 DR: 1747-02-16
 DR_end: 1747-07-28
 name: Chronicles of the Quest for the Elemental Scrolls
 ---
-# Chronicles of the Quest for the Elemental Scrolls
+```taelgar-header
+```
 
 The first major adventure of the [[Silver Tempests]], before they acquired their wealth and fame, was in service of the [[Great Library]], hired by Archivist [[Lyra]] to recover the [[Elemental Scrolls of Airion|lost elemental scrolls]], that had been created by a famous wizard, [[Airion|Airion Mistspeaker]], before the [[Great War]], but lost during the chaos of the [[Blood Years]]. Along the way, they helped some [[Centaurs]] with a curse; helped the soul of [[Xameia]] of the [[Order of Twilight]] find peace; helped [[Iara]], a lizardfolk woman; and made enemies of the [[Orcs|orcs]] of [[Grumella's Horde]]. 
 

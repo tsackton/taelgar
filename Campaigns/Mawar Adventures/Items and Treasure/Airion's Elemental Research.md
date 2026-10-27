@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Airion's Research on the Elemental Plane of Water
->[!info]+ Information  
-> (annotated books of elemental lore)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Three annotated books concerning the [[Elemental Plane of Water]] and the [[Sentient Ocean]], once owned by [[Airion|Airion the Mistspeaker]]. His marginal glosses connect their content to his own research into elemental magic, planar weak points, genies, and the [[Sentient Ocean]].
 

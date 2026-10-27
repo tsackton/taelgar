@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
@@ -14,10 +13,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Land of the Dead
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Land of the Dead is universally acknowledged, by diverse religious and metaphysical traditions across Taelgar, as the vast, mysterious gathering place for the souls of the dead. When an ensouled creature dies, its consciousness fades quickly from the [[Plane of Souls]], but does not immediately disappear into nothingness. Instead, the souls of the dead drift across the Land of the Dead, a place with many names and many descriptions across human and non-human cultures alike, waiting. Most souls, theologians believe, are taken up by their chosen deity and swept out of the Land of the Dead, to dwell in the Divine Realm of their deity. However, some, who have made dark deals with evil powers, may be claimed by more nefarious powers, and others, perhaps, simply fade away into nothingness after a time. 
 

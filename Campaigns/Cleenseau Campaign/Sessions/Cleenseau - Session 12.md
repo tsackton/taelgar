@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 12
@@ -13,7 +12,8 @@ tagline: in which the party recovers Asineau's resources and defeats a skeletal 
 sessionKey: cleenseau-session-12
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 12
+```taelgar-header
+```
 
 Celyn and Viepuck catch [[Lorin Valbert]] and recover most of the money and horses he removed from [[Asineau]]. After returning the resources to the regional defense, the party rallies local forces against a tower-like mass of bones and roughly sixty zombies approaching [[Cleenseau]].
 

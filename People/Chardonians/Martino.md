@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,13 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Martino
-*(mar-TEE-noh)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on May 6th, 1749 in [[Artevus]], [[Portalia]], the [[Chardonian Empire]] %%^End%%
+```taelgar-header
+```
 
 ![[martino-portrait.jpg|right|400]]Martino is a retired sailor, fisherman, and navigator. He once sailed widely along the coasts of [[Apporia]], seeking the best fishing grounds, until he was hurt in a storm and lost most of the use of his right hand. 
 

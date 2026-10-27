@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -21,14 +20,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Marshal Hildo Brask
-*(HIL-doh BRASK)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Body recovered by the [[Addermarch Mercenaries]] on April 28th, 1715 in [[Torvaine Watch]], the [[Torvaine Forest]], [[Addermarch]] %%^End%%
+```taelgar-header
+```
 
 Hildo was the marshal of [[Torvaine Watch]]. He served as Sir Einrik’s second, overseeing discipline, patrol schedules, and the garrison’s morale. As the Serpentine Dagger’s curse spread through the fort, Brask tried to keep order and coordinate with [[Wulfram]] and [[Bartoz]]; he was murdered when the dagger took hold of Einrik. Devout and steadfast, he led by example and relied on his faith in [[The Mother]].
 ## Events

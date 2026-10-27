@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Folcan
->[!info]+ Biographical Info  
-> A goblin (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Folcan is a goblin cursespitter and leader of the goblins who kidnapped and held prisoners at [[Perdoli Manor]] for [[Grimstone]]. He led the faction of goblins who accepted Grimstone's prisoner-taking arrangement as easy raiding: the goblins kept most stolen goods, turned over gold and choice treasure, and were paid in food and drink for providing one prisoner each week. He was captured and interrogated by the [[Labyrinth Prisoners]], but survived the experience. 
 

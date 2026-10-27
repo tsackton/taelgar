@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Nine Hells
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Nine Hells are a [[Spiritual Realms|Spiritual Realm]], and the home of [[Devils|devils]]. Tales of the Nine Hells are tales of hubris and fall, in which devils work behind the scenes to turn the weak-willed and greedy toward evil purposes.
 

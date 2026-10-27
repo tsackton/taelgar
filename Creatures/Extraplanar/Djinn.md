@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-29T12:34:03-04:00"
 lintVersion: "3.5"
 tags: [creature]
@@ -8,7 +7,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Djinn
+```taelgar-header
+```
 
 Djinn are a diverse group of powerful air genies, among the most famous native inhabitants of the [[Elemental Plane of Air]]. 
 

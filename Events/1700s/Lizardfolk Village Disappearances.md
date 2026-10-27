@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -11,9 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Lizardfolk Village Disappearances
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The Lizardfolk Village Disappearances describe a series of vanishings among lizardfolk villages along the coast from [[Apporia]] to the [[Fiatara Mountains]], beginning in the DR 1730s, and continuing until the [[Silver Tempests]] destroyed the connection between [[Cairn Dor]] and the [[Material Plane]] in the fall of DR 1748. 
 

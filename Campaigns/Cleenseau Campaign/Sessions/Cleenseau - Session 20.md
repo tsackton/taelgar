@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 20
@@ -13,7 +12,8 @@ tagline: in which the party searches Veltor and protects Tyrwinghan travelers
 sessionKey: cleenseau-session-20
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 20
+```taelgar-header
+```
 
 After Areschera's death, the party searches the keep and finds evidence of fey infiltration, concealed magical items, and possible necromantic activity connected with [[Isabeau d'Aslain]]. Leaving Veltor, they defeat harpies and enchanted bears attempting to abduct Tyrwinghan travelers and agree to escort the survivors through the [[Maudor Hills]].
 

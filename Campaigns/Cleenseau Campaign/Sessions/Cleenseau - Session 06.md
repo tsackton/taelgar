@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 6
@@ -13,7 +12,8 @@ tagline: in which blight, missing ale, and a redcap point toward a new threat
 sessionKey: cleenseau-session-6
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 6
+```taelgar-header
+```
 
 The party investigates a blight in [[Abigail Moss|Abigail Moss's]] orchard and hears of missing ale from [[Duncan Rivers]]. During the winter festivals, [[Eremon]] reports dreams of a redcap; the party later kills a redcap near [[Taviose]] and encounters a mysterious fey presence.
 

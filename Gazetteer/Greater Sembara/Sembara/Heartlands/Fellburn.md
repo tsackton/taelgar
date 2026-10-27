@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/text, status/check/lint]
@@ -15,12 +14,8 @@ dm_owner: mike
 dm_notes: color
 POV: modern
 ---
-# Fellburn
-*(Fell-burn)*
->[!info]+ Information  
-> pop. 6,000  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A populous and fortified town along the [[Enst]], it was historically the "second city" of the Enst, smaller than [[Rinburg]]. However, since the [[Third Hobgoblin War (Sembara)|hobgoblin wars]], Fellburn has grown substantially and has overtaken [[Rinburg]] to become the largest city along the Enst.
 

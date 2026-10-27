@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:38:32-04:00"
 lintVersion: "3.5"
 tags: [source, status/check/lint]
@@ -7,7 +6,9 @@ campaign: Cleenseau
 name: Letter from Rosalind (January 8th)
 POV: 1720
 ---
-# Letter from [[Rosalind Essford|Rosalind]] to the [[Heroes of Cleenseau]]
+```taelgar-header
+```
+
 _Received January 11th, in [[Cleenseau]]_
 
 %% Receipt date unresolved: this handout says January 11th, while [[Taelgar Letter Open When Told (Email)]] says January 12th. Both preserve the letter’s January 8th date; neither receipt date is selected here. %%

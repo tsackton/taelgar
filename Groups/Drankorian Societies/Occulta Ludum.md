@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Occulta Ludum
->[!info]+ Information  
-> A [[Drankorian Empire|Drankorian]] magical society  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A magical society associated with the development of magic and especially with practical inventions of harnessing magical power. 
 

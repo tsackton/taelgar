@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: "pillaged by [[Apollyon]]"}
@@ -16,12 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Rostaurë
-*(ROS-tow-reh)*
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Rostaurë, the Forest of Rains, was an elven realm, lying roughly a hundred and fifty miles northeast of [[Drankor]] between the river valleys and the bay. In its elder days it was a living forest‑city, famed for towering rain‑soaked trees and for Estemar, “the City of Peace,” where [[Elves]], [[Humans]], and peronar once lived together. For much of the history of the [[Drankorian Empire]], Rostaurë was a close ally. Elven advisors served at the imperial court, and Rostaurë’s warriors rode beside Drankorian armies in the old wars against extraplanar incursions. 
 

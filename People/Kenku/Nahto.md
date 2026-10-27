@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -20,12 +19,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Nahto
->[!info]+ Biographical Info  
-> An Islander [[Kenku|kenku]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Rescued by [[Wellby]] on October 14th, 1748 from the aboleth lair east of the [[Vermillion Isles]], [[Eastern Isles]] %%^End%%
+```taelgar-header
+```
 
 ![[nahto.png|right|400]]Kenku man in late middle age. Tinkerer, traveler, explorer; Nahto wanders over the islands of the Eastern [[Green Sea]] with his partner, Skoda. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOriginU: "<ancestry:Ua> <typeof>, location unknown", wCurrent: ""}
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Pu'aatar
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Pu’aatar is a mythical desert city, reputed to shelter a vast library of legendary scale, hidden somewhere in the vast deserts to the east.  
 

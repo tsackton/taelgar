@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -21,13 +20,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720s
 ---
-# Marigold Stonebridge
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Halflings|halfling]] (she/her), of the [[Stonebridges]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:clee%% Met by the [[Heroes of Cleenseau]] on January 6th, 1720 in Unknown %%^End%%
+```taelgar-header
+```
 
 ![[marigold-stonebridge.png|right|320]]An old, wrinkled halfling, often quiet and sleepy, but with surprising wit. The most important of the three current innkeepers of [[The Crossroads Inn]] in [[Cleenseau]] along with [[Venra Stonebridge]] and [[Willow Stonebridge]]. Often called Grandmother Marigold, she is considered the matriarch and wisest of the [[Stonebridges]].
 

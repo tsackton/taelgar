@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 23
@@ -13,7 +12,8 @@ tagline: in which the party finds and destroys the Midnight Lady's refuge
 sessionKey: cleenseau-session-23
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 23
+```taelgar-header
+```
 
 The party splits to investigate the [[Emeric Daverre|Daverre]] household while the Midnight Lady is distracted. They find that she is draining [[Emeric Daverre]] through a poppet and discover an inscription leading to a hidden refuge. Inside the Lady's dollhouse-like lair, they destroy her, though she curses Celyn as she dies.
 

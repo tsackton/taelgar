@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Nahadi
-*(nah-HAH-dee)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Nahadi is a wide, slow moving river, meandering through a broad alluvial plain, that drains [[Lake Valandros]], and joins the [[Chasa]] near Chardon. Natural levees fringe the deep main channel, beyond which lie orderly patchworks of irrigated fields to the west and a rising mosaic of oak-pine foothills to the east.
 

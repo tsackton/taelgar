@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: "Cha'mutte's Armband Vision"
 POV: 1748
 ---
-# Cha'mutte's Armband Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The mirror, as usual, goes black. For a moment, you see a vast store in some underground room, lit by flickering lanterns, where there are weapons of all kinds, swords, axes, polearms, armor. Being driven, dragged into this room you see two kenku, iron bands on their wrists, pretty disheveled in appearance. A hobgoblin, behind them, poking them with a spear, driving them forward. 
 

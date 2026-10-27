@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,11 +17,8 @@ dm_owner: player
 dm_notes: important
 POV: modern
 ---
-# Beryl
->[!info]+ Biographical Info  
-> An [[Istabor Alliance|Isinguer]] [[Humans|human]] (he/him), of the [[Heroes of the Great War]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A hero of the [[Great War]], and the leader of [[Rangers]] in the 1540s, now in the sky as the Hunter of the [[Fox and Hunter]].  Originally from the [[Istabor Alliance]].
 

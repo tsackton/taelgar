@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [religion/lizardfolk, power]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Udazkena
-*(oo-DAHS-keh-nah)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Udazkena is one of the four [[Tharzen Anzinakoa]] of the [[lizardfolk]], often seen as the source of the wisdom of the elders and the deity that lizardfolk most often look to for prophecy and guidance. 
 

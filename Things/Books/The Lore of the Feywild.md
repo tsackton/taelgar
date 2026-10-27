@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Lore of the Feywild
->[!info]+ Information  
-> A [[Chardonian Empire|Chardonian]] cosmological treatise, by [[Ulfgar Frostbeard]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 *The Lore of the Feywild* is an exhaustive tome, written by the underappreciated scholar and planar geographer, [[Ulfgar Frostbeard]], a member of the [[Faculty of Metaphysics]] at the [[University of Chardon]].
 

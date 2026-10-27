@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/text]
@@ -15,12 +14,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The University of Chardon
-*(university of CHAR-din)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The University of Chardon is a famous center of learning and teaching, renowned as one of the great centers of magical knowledge in the world. It occupies much of [[Precinct IV]] in Chardon, and is among the oldest and most powerful institutions in the city. The university is closely affiliated with the [[Great Library]], as well as the [[Hetaeri Magica]] and the [[Society of the Open Scroll]], but has its own independent rules and governance. 
 

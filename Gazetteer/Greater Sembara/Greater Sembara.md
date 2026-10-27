@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,10 +12,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Greater Sembara
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Greater Sembara is an ancient land blessed with mild weather, ample rain, and rich fertile soil. Largely unchanged by the upheavals of the [[Great War]], farmers plant winter wheat and summer millet and soybeans largely as they have for thousands of years. The rolling hills and fertile river valleys are dotted with small cities and prosperous market towns, and halflings traders ply the roads and waterways. This is a land defined by its rivers: the [[Kem]], [[Volta]], [[Teft]], [[Semb]], [[Wisford]], and [[Enst]] in particular. 
 ## Map

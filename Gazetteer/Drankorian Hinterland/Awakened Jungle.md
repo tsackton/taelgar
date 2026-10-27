@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,10 +11,8 @@ dm_notes: important
 excludePublish: ["clee"]
 POV: modern
 ---
-# The Awakened Jungle
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Awakened Jungle is a coastal jungle, south of the [[Garamjala Plateau]] and west of the ruins of [[Drankor]], inhabited by a variety of talking animals and plants. Though far from all creatures of the jungle are sapient, numerous communities of plants and animals form societies of within the jungle, including [[Session 105 (DuFr)|Elvish-speaking fruit bats]] and [[Session 106 (DuFr)|coastal howler monkeys]], held together by the wisdom of the trees, informally led by the eldest tree, known as [[Canopy]]. The inhabitants of this jungle have no sense of the outside world, rarely, if ever, interacting with humanoids, going about their lives in isolation from the world, with care, compassion, and cooperation. 
 

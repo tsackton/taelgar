@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {wHome: "Home port: <home>", ruledBy: "<affiliationtitle:t>: <name> <(of )primary>"}
@@ -15,11 +14,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Auratan's Pride
->[!info]+ Information  
-> ([[Chardonian Empire|Chardonian]] ship)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Auratan's Pride is a ship of the line in the Chardonian Navy.
 

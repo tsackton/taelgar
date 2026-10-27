@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
 tags: [story]
 campaign: Cleenseau
@@ -7,7 +6,8 @@ DR: 1719-06-29
 name: Celyn Leaves Mahaunt's Miracle Players
 POV: 1719
 ---
-# Celyn Leaves Mahaut's Miracle Players
+```taelgar-header
+```
 
 > [!Info]- This is Celyn's story of when he left Mahaunt's Miracle Players. Please don't read unless it has been revealed in game
 >

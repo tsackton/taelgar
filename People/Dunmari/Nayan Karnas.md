@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/dufr, status/check/lint]
@@ -21,12 +20,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Samraat Nayan Karnas
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]], he/him of the [[Nayan Dynasty|Nayan dynasty]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %%lots of notes from the Dunmar negotiation session DM notes, copy over%%
 %%add whereabouts and campaignInfo to header%%

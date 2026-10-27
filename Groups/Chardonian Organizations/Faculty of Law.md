@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<ancestry:UA> <typeof:UA> of <partof:UA>", partOf: ""}
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Faculty of Law
->[!info]+ Information  
-> A faculty of the [[University of Chardon]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Faculty of Law is one of the five graduate faculties of the [[University of Chardon]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed by spiders}
@@ -20,12 +19,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Nicholas the Beggar
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:clee%% His body was found by the [[Heroes of Cleenseau]] on October 22nd, 1719 in the [[Cleenseau Wood]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
+```taelgar-header
+```
 
 An old man with a thick grey beard, a beggar who lived in the ramshackle [[Beggar's Way]] outside of [[Cleenseau]]. His body was found in the ettercap lair by [[Viepuck|Najeer]], [[Izgil Moonseeker|Izgil]], [[Robin of Abenfyrd|Robin]], and [[Celyn]]. He was believed to have been killed by spiders on or around October 14th.
 

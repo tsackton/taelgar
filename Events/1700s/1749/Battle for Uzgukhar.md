@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "", partOf: "<typeof:UA> in <partof>, fought on <endDate>"}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Battle for Uzgukhar
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> A battle in the [[War of the Cloak]], fought on January 20th, 1749
+```taelgar-header
+```
 
 The final battle of the War of the Cloak, fought by the [[People of the Rainbow|orcs of Xurkhaz]] and the [[Dunmar Fellowship]] against the armies of [[Grash]]. A [[Session 88 (DuFr)|victory]] for the Dunmar Fellowship and their allies. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,13 +17,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1740s
 ---
-# Hakeasa Vaallinen
-*(va-lin-en)*
->[!info]+ Biographical Info  
-> A [[Skaer]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on December 25th, 1748 in [[Pyhlla]], [[Skaerhem]] %%^End%%
+```taelgar-header
+```
 
 Vaallinen (va-lin-en), a Skaer man with the traditional blue facial tattoos of Skaer priests, is the hakeasa (speaker to the gods) for [[Pyhlla]]. Born and raised in the region, he is locally known for his connection to the divine. 
 

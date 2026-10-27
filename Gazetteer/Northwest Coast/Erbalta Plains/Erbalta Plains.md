@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [place, status/gameupdate/gl]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# The Erbalta Plains
-*(air-BAHL-tuh)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Erbalta Plains are a large open steppe along the [[Snake River]] valley. This is a land of scrubby, short grasses and hardy low bushes; shallow coulees dot the lowlands along the river, while limestone bluffs rise in the highlands. Along the river, some trees grow, supporting a vibrant riparian ecosystem, while herds of wild goats and pronghorn roam the plains and llamas occupy the highlands.
 

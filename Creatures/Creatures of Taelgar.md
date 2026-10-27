@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -8,7 +7,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Creatures of Taelgar
+```taelgar-header
+```
 
 The multiverse is home to a diverse array of sentient and sometimes sapient creatures, from the mundane beasts that inhabit the Material Plane to the terrifying demon lords of the Abyss. While the full tale of all the strange creatures one might encounter traveling across the world and the many planes of existence is extensive, this brief bestiary gives an overview of the types of intelligent and not-so-intelligent creatures one might expect to encounter. 
 

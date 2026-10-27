@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/dufr, status/check/lint]
@@ -21,13 +20,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Havdar
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Scryed by [[Delwath]] in [[Songara]], [[Dunmar]], on December 27th, 1748 %%^End%%
+```taelgar-header
+```
 
 %% still need some work on people in organizations for whereabouts; needs updated image; updated campaign info; updated whereabouts and organization/affiliation info; 
 

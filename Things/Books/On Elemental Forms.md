@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -14,10 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# On Elemental Forms
->[!info]+ Information  
-> A natural history treatise, written during the [[History of the Drankorian Empire|Drankorian Era]], by [[Lyrannis of Aquilona]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 *On Elemental Forms* is the seminal work of the cosmological philosopher [[Lyrannis of Aquilona]]. The work catalogs folklore, myth, and observation concerning elemental beings, with particular attention to the sentient and powerful genies. Lyrannis uses this evidence to argue that creatures with a pure elemental essence are overwhelmingly associated with Fire, Water, Earth, or Air.
 

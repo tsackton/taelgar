@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,11 +14,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1740s
 ---
-# Pippa Goodbarrow
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (she/her), of Goodbarrows  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[pippa-greenbarrow-portrait.png|right|400]]Pippa is a cheerful halfling woman, with a warm, welcoming smile, often seen wearing a wide-brimmed hat. She has a love of good food, great ale, and great company, and attracts like-minded crew to her ship, the [[Summer's Breeze]]. 
 

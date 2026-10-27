@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/gameupdate/gl, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Eshlem
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Eshlem is the largest settlement in [[Cairn Dor]] and the home of most of the realm's native population. It is an agricultural village surrounded by old woods, scattered homesteads, and smaller communities. Wolf plinths define its outskirts, reflecting the authority of [[Yeshara]], the Wolf-Queen.
 

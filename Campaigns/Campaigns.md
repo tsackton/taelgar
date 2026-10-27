@@ -1,10 +1,10 @@
 ---
-headerVersion: 2023.11.25
 tags: [meta]
 dm_owner: none
 dm_notes: none
 ---
-# Campaigns
+```taelgar-header
+```
 
 Campaign pages collect player-facing material from games set in Taelgar: landing pages, session notes, player characters, handouts, timelines, treasure, and other campaign-specific records.
 

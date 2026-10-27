@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,12 +17,8 @@ dm_owner: player
 dm_notes: important
 POV: 1740s
 ---
-# Stoneclaw
->[!info]+ Biographical Info  
-> A hyena (they/them)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on June 2nd, 1747 with [[Oskar]], in [[Goldpeak Mines]], [[Goldpeak Mountain]] %%^End%%
+```taelgar-header
+```
 
 The mystical hyena companion of [[Oskar]]. 
 

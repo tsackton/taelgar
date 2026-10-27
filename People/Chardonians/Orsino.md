@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Orsino
-*(or-SEE-noh)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 An informal leader of day-laborers in the Chalyte Levels.
 

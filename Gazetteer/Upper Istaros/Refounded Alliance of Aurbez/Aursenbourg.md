@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Aursenbourg
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Aursenbourg is a walled market town where the [[Maseau - Dunmar Road]] crosses the [[Aursen]], centered on a sturdy stone bridge built over the river in DR 1732. Now a major market town for the region, a generation ago this was only a small village known as Aursen's Crossing, where regular ferry service would shuttle caravans and traders over the Aursen.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Lost in the Feywild
 sessionNumber: 7
@@ -14,7 +13,8 @@ sessionKey: lost-in-the-feywild-session-7
 session-template: feywild-template.md
 websiteSessionView: zoomable
 ---
-# Lost in the Feywild: Episode 07
+```taelgar-header
+```
 
 >[!info] The Bottom of the Bottomless Well: in which stories teach the prisoner to let go
 > *Featuring: [[Kaito Min]], [[Edric]], [[Tarek]], [[Ayveen]], [[Txarro]]*

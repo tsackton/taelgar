@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -14,10 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Sentinel Range
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Sentinel Range, also called the Sentinel Mountains or the Sentinels, is the extensive mountain range that separates the [[Green Sea]] and the surrounding lands from the [[Greater Chardon|west coast]] of Taelgar. These mountains stretch 2300 miles or more, from the volcanic mountains of the former kingdom of [[Pandar]] in the north, to the northern foothills of the Dunmari plains in the south. The high of the Sentinel Range is flanked by numerous mountain valleys, upland plateaus, and secondary ranges, such as the [[Lavnoch Plateau|Lavnoch]] and [[Aurbez Plateau|Aurbez]] plateaus, and the [[Salt Hills]].
 

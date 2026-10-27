@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -14,10 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Path of Unmaking
->[!info]+ Information  
-> A translation and commentary, written in the DR 1250s, by an unknown author  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 *The Path of Unmaking* is an anonymous work from the DR 1250s, purporting to translate and comment on a hobgoblin ritual codex, associated with what the translator calls the Cult of the Shattered Banner. It recounts a cultist's initiation into the mastery of [[Limbo]] through the Three Marches. The first, the March of Iron, is associated with maintaining a sphere of stability around a person moving through chaos. The second, the March of Arrows, is associated with finding hidden patterns that allow one to sail through chaos as if following a hidden current. The third, the March of Wounds, is associated with discontinuous transitions across chaotic fissures, at great risk. 
 

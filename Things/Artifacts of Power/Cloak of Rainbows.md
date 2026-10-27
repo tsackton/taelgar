@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 tags: [object, testcase, status/cleanup/text]
@@ -20,12 +19,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# The Cloak of Rainbows
->[!info]+ Information
-> (unique magical cloak)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %%  would also be good to collate information from history and other information onto this page%%
 

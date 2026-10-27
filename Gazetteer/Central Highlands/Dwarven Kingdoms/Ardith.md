@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: overrun in}
@@ -17,12 +16,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Ardith
-*(AHR-dith)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Ardith was the southernmost of the [[Dwarven Kingdoms|five dwarven kingdoms]] of [[Sentinel Range|Labkhan]], lying south of [[Urlich Pass]]. Once rich and prosperous, it grew wealthy through trade with [[Drankorian Empire|Drankor]], and later [[Dunmar]], the [[Istabor Alliance]] and others. It was overrun during the [[Great War]]; most surviving dwarves fled south across Dunmar to the [[Yuvanti Mountains]], where they founded [[Nardith]]. All that remains of Ardith are ruins, lost mines, and forgotten roads in the deep.
 

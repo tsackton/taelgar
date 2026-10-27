@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Cato Stormtouched
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Cato Stormtouched is a human priest of [[The Wildling]] and an itinerant worker of divine magic. He traveled with [[Brelith]] for several years after meeting him on the road in the [[Chasa River Valley]], and helped Brelith learn to channel the power of the storm through his own divine calling.
 

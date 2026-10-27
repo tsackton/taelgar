@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/dufr, status/check/lint]
@@ -16,10 +15,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# Dimitaur
->[!info]+ Biographical Info  
-> A [[Dragonets|dragonet]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A small flying lizard, companion to [[Rai]].
 

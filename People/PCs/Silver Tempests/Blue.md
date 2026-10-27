@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-13T13:45:21-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -21,12 +20,8 @@ dm_owner: player
 dm_notes: none
 POV: 1748
 ---
-# Blue
->[!info]+ Biographical Info  
-> An [[Istabor Alliance|Isinguer]] [[Humans|human]] (plane-touched, fiendish) (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 > [!warning]- Blue's Secret Backstory
 > 

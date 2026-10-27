@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T23:30:02-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,11 +13,8 @@ whereabouts:
 knownTo: [itc]
 POV: 1730
 ---
-# Iskander
-*(is-KAN-der)*
->[!info]+ Biographical Info  
-> A [[Zimka]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Iskander is an older Zimka man from [[Melusa]], balding and somewhat heavyset. He is an ally of [[Zahara]], and part of their dissident circle of rebels. 
 

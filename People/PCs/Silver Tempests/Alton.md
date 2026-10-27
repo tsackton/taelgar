@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/gl]
@@ -18,12 +17,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1748
 ---
-# Alton
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Alton grew up poor on the streets of [[Chardon]], disconnected from the halfling community. He did not know who his parents were, or how he was separated from them, and can't remember much of his early life, except that he was always alone. Trying to escape his poor childhood, he eventually joined a group of traveling merchants, leaving the city and wandering the roads of the [[Chardonian Empire]]. It was an educational experience, and Alton learned to scout and keep himself hidden, but it was not a very lucrative experience. 
 

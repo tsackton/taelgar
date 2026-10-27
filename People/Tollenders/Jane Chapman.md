@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -23,13 +22,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Captain Jane Chapman
->[!info]+ Biographical Info  
-> A [[Tollen|Tollender]] [[Humans|human]] (she/her), of the Chapmans  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Dyer's Guildhall]], the [[Tollen|Free City of Tollen]] %%^End%%
+```taelgar-header
+```
 
 ![[jane-chapman-portrait.png|right|320]]A Tollender-born woman in her early 30s, from the well-off and well-established Chapman merchant family, Jane became a Dyer's Guild captain known for her skill and her luck at sea.  
 

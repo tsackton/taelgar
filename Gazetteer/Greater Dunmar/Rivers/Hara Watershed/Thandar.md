@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# Tandar
-*(TAHN-dur)*
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Tandar flows about 240 miles from its source in the [[Sentinel Range|Sentinels]] to its confluence with the [[Hara]] on the [[Varashan]]. The upper reaches of the Tandar are swift flowing and marked by rapids and gorges as the river cascades from the steep slopes of the Sentinels to the plains below. 
 

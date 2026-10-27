@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -16,12 +15,8 @@ whereabouts: Delwath
 knownTo: [dufr]
 POV: modern
 ---
-# Deno'qai Lynx Shield
->[!info]+ Information  
-> (legendary the [[Deno'qai]] magical shield)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/5360068-lynx-denoqai-shield)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[lynx-shield.png|right|400]]A magical shield of Deno'qai make, decorated with a lynx motif. This shield was originally made with the blessings of the [[Tanshi]] for [[Balati]], a Deno’qai hero in the [[Great War]]. After Balati fell in battle, the shield was preserved by the [[Ko'zula]] tribe, along with Balati's [[Deno'qai Scale Mail|armor]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,13 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Owen Tavish
-*(OH-wen TAV-ish)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 6th, 1715 in [[Roscombe]], [[Carlinshire]], [[Addermarch]] %%^End%%
+```taelgar-header
+```
 
 Owen Tavish is a priest of [[The Sibyl]], based out of the Temple of the Sibyl in [[Roscombe]]. He leads the temple’s religious and scholarly work, advising [[Roscombe]]’s leadership as best he can. He is a warm, friendly man, although competitive at times; he enjoys games and scholarly discussion, which he sometimes sees as a game.
 

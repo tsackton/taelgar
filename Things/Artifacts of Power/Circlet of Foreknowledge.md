@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 tags: [object, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Circlet of Foreknowledge
->[!info]+ Information
-> (mythical [[Elves|elven]] circlet)
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A circlet set with a single white gem that supposedly gives perfect foreknowledge, known from elven lore but unclear if it is real or mythical. 
 

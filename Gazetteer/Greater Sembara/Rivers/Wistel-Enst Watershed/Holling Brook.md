@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ whereabouts:
   - {type: secondary, location: Wistel-Enst Watershed}
 POV: modern
 ---
-# Holling Brook
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Holling Brook is a small tributary of the [[Wistel]], joining the river between [[Gowerbourne]] and [[Wisford]]. It winds through pasture and hay meadows, shaded in places by willows, and spills across the low ground near its mouth during spring floods.
 

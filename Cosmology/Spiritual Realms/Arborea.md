@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Arborea
-*(ar-BOR-ee-ah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Arborea is the plane of untamed nature, a realm where the wilderness is unshaped by civilization, where forests stretch beyond sight, mountains climb past the clouds, and rivers carve ever-changing paths through boundless plains. The most vibrant descriptions of Arborea come from the _[[Verdant Canticles]]_, an elven collection of tales and poems, that speak of storms that gallop across the plains like a herd of wild beasts and trees that reach so high their tops fade out of sight in the vast sky. Collected in this work are songs that sing of a paradise of untouched beauty, and warnings of a place where nature is too vast, too alive, too uncontrolled to be anything but overwhelming. What dwells within its endless expanse is unknown: some tales speak of nothing but the wilderness itself, while others whisper of things that walk unseen through the trees, their presence felt in the shifting of leaves and the deep, rhythmic breath of the land.
 ## Origins of Arborea

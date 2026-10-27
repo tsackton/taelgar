@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -15,10 +14,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1715
 ---
-# The Nightsong Roots
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Nightsong Roots are a fog-filled hollow around the roots of a massive fallen tree in the [[Highmoor]], east of [[Haldrenn]]. Its hanging roots chime with eerie, wind‑borne music that sometimes opens a portal to the Feywild in the trunk.
 

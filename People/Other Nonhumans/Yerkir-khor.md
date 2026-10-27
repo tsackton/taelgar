@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -10,9 +9,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Yerkir-khor
->[!info]+ Biographical Info  
-> An [[Elementals|elemental]]
+```taelgar-header
+```
 
 A mysterious ancient being associated with the [[Tomb of Yerkir-Khor]], an ancient, pre-Mawar monument or tomb on the [[Mirmir]], a few days upstream from [[Hamri]]. 
 

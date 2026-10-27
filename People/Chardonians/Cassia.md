@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Cassia
-*(KAS-see-ah)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]]  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on March 16th, 1748 in [[Goldpeak Mines]], [[Goldpeak Mountain]], the [[Fiatara Mountains]] %%^End%%
+```taelgar-header
+```
 
 Cassia is a paladin and adventurer based in [[Chardon]], associated with the adventuring arm of the [[Great Library]]. 
 

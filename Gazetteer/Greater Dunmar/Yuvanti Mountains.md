@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {startStatus: rose from the ground in}
@@ -15,12 +14,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Yuvanti Mountains
-*(yoo-VAHN-tee)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The new mountains that cut through [[Dunmar]] isolated the coastal western [[Dunmar]] from the inland desert. The location of the [[Dwarves|dwarven]] kingdom of [[Nardith]].
 

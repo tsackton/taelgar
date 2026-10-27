@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -11,8 +10,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# The Yo'nari
-*(yo-NAH-ree)*
+```taelgar-header
+```
 
 The Yo'nari were an ancient proto-[[Deno'qai]] people and among the first humans to settle the northwest coast and interior mountains of [[Apporia]]. Before the [[Downfall Wars]], most of these people vanished into [[Cairn Dor]] with their queen, [[Yeshara]], leaving ruined settlements and standing stones behind on the [[Material Plane]].
 

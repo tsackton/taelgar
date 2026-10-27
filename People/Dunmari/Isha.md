@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,12 +18,8 @@ dm_owner: none
 dm_notes: important
 POV: 1748
 ---
-# Isha
-*(EE-shah)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Freed by the [[Dunmar Fellowship]] on June 8th, 1748 from the [[Mirror of Soul Trapping]], [[Karawa]] %%^End%%
+```taelgar-header
+```
 
 A Dunmari man trapped for many years in the [[Mirror of Soul Trapping]] by [[Agata]]. Missing one eye, with gray hair, incoherent. Most recently under the care of [[Cintra]] after his ordeal. 
 

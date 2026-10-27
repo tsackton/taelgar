@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -15,11 +14,8 @@ whereabouts: Celyn
 knownTo: [clee]
 POV: modern
 ---
-# Silverthorn
->[!info]+ Information  
-> (unique [[Halflings|halfling]] magic rapier)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[silverthorn.png|right|300]]A slim rapier, gleaming but always a bit hard to see. Found on a dead halfling beneath [[Cleenseau]]. This was originally the possession of [[Rose Stonebridge]], a halfling who lived in [[Cleenseau]] in the 1400s. 
 

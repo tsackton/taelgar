@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -15,10 +14,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Monastery of Bhishma
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The monastery is about 2 1/2 miles south of [[Kharsan]], in what was once the heartland of [[Dunmar]] but is now, after the upheavals of the [[Great War]] and the [[Blood Years]], the midst of the [[Nashtkar]], the blasted plains. The monastery sits on a bluff near a turn in the [[Kharja]] river, once a lush riparian valley before the [[Great War]], with the river forming the southern and western borders of the complex. The southern side consists of steep cliffs, while the western side gently slopes to the river, and was formerly the site of a thriving garden. There is a newer path with a few stone steps that has been constructed from the dry river bed up the slope, and the remains of stairs cut into the side of the cliff. 
 

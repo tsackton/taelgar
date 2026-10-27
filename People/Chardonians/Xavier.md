@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,12 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Xavier
-*(zah-VYEHR)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A childhood friend of [[Kenzo]]'s, Xavier lost his father to a refinery accident and was drawn into the [[chalyte]] trade at a young age to supplement the income his family got from mending and piece-work sewing. A street tough from his youth, he likes brawling a little too much, as it makes him feel strong and important.
 

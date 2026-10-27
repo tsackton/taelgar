@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Chironides the Wanderer
->[!info]+ Biographical Info  
-> A [[Centaurs|centaur]] (they/them)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 Chironides the Wanderer was a centaur philosopher who proposed and popularized among human scholars the idea that human preaching of hellfire and damnation helped shape the Abyss out of [[Soulstuff]].
 

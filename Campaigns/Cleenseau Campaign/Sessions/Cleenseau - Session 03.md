@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 3
@@ -13,7 +12,8 @@ tagline: in which an investigation exposes poisoned bread and bandits
 sessionKey: cleenseau-session-3
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 3
+```taelgar-header
+```
 
 The party investigates the murder of [[Gentza]], a lizardfolk woman from [[Ganboa]]. Evidence leads from her abandoned boat and medical experiments to [[Francois the Bandit]] and a plot involving stolen flour and poisoned bread.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Hara
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Hara flows 750 miles through the [[Hara Basin]], from its source in the foothills of the [[Sentinel Range]] to the [[Hara Gorge]]. Once, it flowed more than twice that length in total, joining the [[Istaros]] north of [[Drankor]]. Whether it still does after the cataclysms and upheavals following the [[Great War]], no one knows.
 

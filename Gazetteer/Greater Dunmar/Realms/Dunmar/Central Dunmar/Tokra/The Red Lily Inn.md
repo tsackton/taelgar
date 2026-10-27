@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", prep: at}
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# The Red Lily Inn
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A halfling inn, also on the west side of town, just inside the walls, near the western gate. Run by [[Wes Strongbones]] and his twin sons Tye and Cade. 
 

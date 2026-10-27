@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Labyrinths of the Lost
 sessionNumber: 3
@@ -13,7 +12,8 @@ tagline: in which the party defeats Grimstone and escapes the manor
 sessionKey: labyrinths-of-the-lost-session-3
 session-template: lablost-template.md
 ---
-# Labyrinths of the Lost - Session 3
+```taelgar-header
+```
 
 >[!info] Grimstone's Last Experiment: in which the party defeats Grimstone and escapes the manor
 > *Featuring: [[Acescale]], [[Gaudin]], [[Loria Underbough|Loria]], [[Dilion]]*

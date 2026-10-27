@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "Sometimes considered one of the <secondary:1>"}
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Dreamworld
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Dreamworld is a place about which much has been written and little is truly known. The Dreamworld is considered an [[Echo Realms|Echo Realm]] of the [[Plane of Souls]] in the [[Standard Multiversal Model]]; the fundamental plane of imagination in the writings of [[Emyr of Tafolwern]]; the realm of prophecy and locus of connection to the guidance of the ancestors to [[Lizardfolk]] mystics; and is described by the [[Fey]] as a plane of vibrant wildness where those of strong mind can shape the dreams of others in the writings of [[Camilla of Drankor]]. 
 

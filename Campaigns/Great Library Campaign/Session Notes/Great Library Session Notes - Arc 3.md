@@ -1,12 +1,12 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Great Library
 DR: 1747-10-07
 DR_end: 1747-12-24
 name: Chronicles of the Quest to Defeat the Cursed Cold
 ---
-# Chronicles of the Quest to Defeat the Cursed Cold
+```taelgar-header
+```
 
 Celebrated as heroes in [[Voltara]] after providing [[Great Library Session Notes - Arc 2|crucial contributions to the defense of the city]] against [[Grumella's Horde]], the party basks in their new-found fame, enjoying the manor they are gifted by the Proconsul of Voltara, [[Anton Lavernia]], in thanks for their aid. Once the [[Chardonian Legion|legions]] arrive from the south to reinforce the city, though, the party turns to their next challenge: worries from [[Brelith]]'s parents back home in [[Zarkandur]] about dwarven cities succumbing to a cursed cold. The party makes their first long journey, east to the dwarven kingdom of [[Am'khazar]], passing dangers and meeting the [[Deno'qai]] of [[Raha]] along the way. In the [[Sentinel Range|Sentinels]] above [[Am'khazar]], they discover a [[Morgana Stoneclaw|hag]], along with her frost giant allies, is behind the spreading cold. The party defeats the hag, realizing she is the very same one who traumatized [[Adrik]] as a child, and returns to [[Zarkandur]] as heroes. 
 

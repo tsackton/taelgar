@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: joint
 dm_notes: color
 POV: modern
 ---
-# The Aursen Marshes
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Aursen Marshes are a marshy area of the [[Aursen|Aursen River]], predominantly occupying a basin and depression near the edge of the [[Aurbez Plateau]] escarpment. The marshes themselves are largely inhabited by [[Lizardfolk|lizardfolk]] and the occasional homesteader who does not mind the flooding the spring snowmelt brings. The area itself is a productive agricultural region and the edges of the marshes are intensively farmed by the people of the [[Refounded Alliance of Aurbez]]. 
 

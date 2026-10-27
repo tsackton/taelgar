@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Semb Watershed
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Semb watershed gathers the waters of the [[Semb]] and its tributaries, draining the highlands and foothills of [[Greater Sembara]] into the [[Western Gulf]]. In its upper reaches, the Semb flows past [[Lake Derwent]] in [[Ardlas]]; downriver, it becomes one of the principal waterways of Sembara.
 

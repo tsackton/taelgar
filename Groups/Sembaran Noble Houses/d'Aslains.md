@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -12,11 +11,8 @@ dm_owner: mike
 dm_notes: important
 POV: modern
 ---
-# The D'Aslains
->[!info]+ Information  
-> A noble house  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A longstanding noble family in the [[Barony of Aveil]] with an ancient history. One of the wealthiest families in the [[Auberonne]] river valley.
 

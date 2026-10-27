@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,11 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Godfrey of Fontwick
->[!info]+ Biographical Info  
-> An Addermarian [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 11th, 1715 in [[Fontwick]], [[Carlinshire]], [[Addermarch]] %%^End%%
+```taelgar-header
+```
 
 Godfrey runs a dairy farm on the outskirts of [[Fontwick]] with his wife [[Samantha of Fontwick]], supplying cheese and milk to markets as far as [[Roscombe]]. When an ankheg devastated their herd, Godfrey rode hard for Lady [[Elowen Duval]]’s aid, crossing paths with the [[Addermarch Mercenaries]] who ultimately slew the creature.
 

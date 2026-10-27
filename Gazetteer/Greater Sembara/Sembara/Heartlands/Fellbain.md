@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -10,11 +9,8 @@ pronunciation: FELL-bayn
 whereabouts: Duchy of Wisford
 POV: modern
 ---
-# Fellbain
-*(FELL-bayn)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Fellbain is a hill northeast of [[Fellburn]], crowned by the [[Oracle of Hope]]. A well-worn pilgrim path climbs its steep southern slopes to an open, grassy summit with wide views of the surrounding countryside.
 

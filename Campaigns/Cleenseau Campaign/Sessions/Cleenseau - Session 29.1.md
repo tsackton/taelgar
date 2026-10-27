@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Cleenseau
@@ -18,7 +17,8 @@ sessionKey: cleenseau-session-29-1
 session-template: cleenseau-template.md
 POV: 1720
 ---
-# Cleenseau - Session 29.1
+```taelgar-header
+```
 
 >[!info] Celyn Consults the Merriweathers: in which Celyn dresses for a new role
 > *Featuring: [[Celyn]]*

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -12,12 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1740s
 ---
-# The Hetaeri Magica
->[!info]+ Information  
-> A [[Chardonian Empire|Chardonian]] magical society  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Hetaeri Magica is an ancient magical society, founded in DR 1125 to coordinate rules on the use of magic and magical training between the [[Great Library]] and the [[University of Chardon]], and subsequently growing into one of the most influential organizations in Chardon. In the modern day, the Hetaeri Magica is responsible for safeguarding magical knowledge and regulating the use of magic across [[Precinct IV]], as well as coordinating common rules with the imperial Mageguard, the [[Praecanti Vigiles]]. Though the existence of the Hetaeri Magica is not hidden, its membership and governance are not public knowledge.
 

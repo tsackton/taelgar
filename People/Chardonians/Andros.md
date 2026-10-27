@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,12 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Andros
-*(AHN-drohs)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A friend of [[Xavier]]'s involved in the [[Eightfold Flame]]. During the [[Chardon Chalyte Riots|riots]], Andros became an informal leader of the [[Eightfold Flame]], arguing against unrestrained violence. He worked with other labor leaders to create durable worker power in the aftermath of the [[Chardonian Chalyte Trade Reforms]]. 
 

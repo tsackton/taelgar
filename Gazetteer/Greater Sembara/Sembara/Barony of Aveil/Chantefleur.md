@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -10,10 +9,8 @@ name: Chantefleur
 whereabouts: Lake Rin
 POV: modern
 ---
-# Chantefleur
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Chantefleur is a fishing settlement on the north shore of [[Lake Rin]], near the mouth of the [[Auberonne]]. It has the lake's largest docks and a twice-daily ferry to [[Lynthia]].
 

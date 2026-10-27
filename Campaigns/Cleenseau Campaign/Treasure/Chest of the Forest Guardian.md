@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ name: Chest of the Forest Guardian
 knownTo: [clee]
 POV: modern
 ---
-# Chest of the Forest Guardian
->[!info]+ Information  
-> (magical chest)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 ![[chest-of-forest-guardian.png|right|420]]A large wooden chest, about 24" high, 40" wide, and 24" deep. It has four keyholes, each of the accompanying keys has a different number of teeth and each keyhole is decorated with an animal (fox, badger, eagle, and boar). Opening the chest requires putting each key into the correct hole, or ghostly animals attack.
 

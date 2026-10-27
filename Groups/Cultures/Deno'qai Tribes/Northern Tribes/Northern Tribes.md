@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the, boxInfo: "<partOf:1UA> <typeof:UA>", wHome: ""}
@@ -11,9 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Northern Tribes of the Deno'qai
->[!info]+ Information  
-> A [[Deno'qai]] cultural group
+```taelgar-header
+```
 
 The northern forests, north of the [[Blackwater Fens]] and inland from the coast, were once home to many Deno'qai, before [[Cha'mutte]] established himself in Pandar. This area, a vast forest stretching from the sea to the mountains, was north of the elven territories, and the Deno'qai who settled here were fierce, independent, and less influenced by the Elven ways. However, they suffered greatly during the [[Great War]] and have only [[Timeline of the Northern Deno'qai|recently begun]] to emerge from their mountain redoubts.
 ### Customs

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T23:30:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/mike]
@@ -14,11 +13,8 @@ whereabouts:
 knownTo: [itc]
 POV: 1730
 ---
-# Khaled
-*(KHAH-let)*
->[!info]+ Biographical Info  
-> A [[Zimka]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Khaled is a Zimka man from [[Melusa]], the husband of [[Nura]] and father of [[Samir]]. 
 

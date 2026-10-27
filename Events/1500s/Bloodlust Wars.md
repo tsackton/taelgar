@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -11,9 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Bloodlust Wars
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The Bloodlust Wars were a series of hobgoblin raids and campaigns against [[Sembara]] in the years immediately after the [[Great War]], led primarily by the [[Iron Fang]] clan. Though the [[Iron Fang]] advanced at least as far north as [[Valarin]], they did not directly threaten Sembaran strongholds along the [[Enst|Enst River]]. 
 

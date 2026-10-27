@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -20,13 +19,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# Umli the Exile
->[!info]+ Biographical Info  
-> A [[Stoneborn|stoneborn]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on December 29th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
+```taelgar-header
+```
 
 ![[umli-the-exile-portrait.png|right|320]]Umli is a tall, imposing stoneborn, with gray skin marked with intricate patterns reminiscent of intertwining metalwork and intense obsidian-like eyes. She is a master metalworker and smith, known for her unparalleled mastery of metallurgy and her knowledge of the elemental plane of fire.
 %%^Date:1732%%

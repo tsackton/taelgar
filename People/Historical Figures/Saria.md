@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Saria
-*(SAH-ree-ah)*
->[!info]+ Biographical Info  
-> A [[Cymea|Cymean]] [[Humans|human]] (she/her)
+```taelgar-header
+```
 
 Saria was a respected [[Cymea|Cymean]] conjurer, who left a legacy of extensive correspondence which remains an important source for scholars of magic. The most well-known passages record a year of study in the [[Feywild]] that seemed to last only an evening on the [[Material Plane]], for when Saria returned, the sun had not yet risen on the night of her departure.
 

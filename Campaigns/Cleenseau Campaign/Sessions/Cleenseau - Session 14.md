@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 14
@@ -13,7 +12,8 @@ tagline: in which the party destroys the lake monster and its necromantic heart
 sessionKey: cleenseau-session-14
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 14
+```taelgar-header
+```
 
 The party and its allies continue through the submerged wrecks in [[Lake Rin]], reach the giant eel's lair, and destroy the creature. They also destroy the necromantic heart sustaining the eel and its zombie servants.
 

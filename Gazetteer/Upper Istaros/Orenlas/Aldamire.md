@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/name]
@@ -11,11 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Aldamírë
-*(ahl-dah-MEER-eh)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Aldamírë is a large lake in the [[Upper Istaros]], northwest of the elven forest of [[Orenlas]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: mike
 dm_notes: color
 POV: modern
 ---
-# The Barony of Aveil
-*(Ah-veh-eel)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Barony of Aveil is one of the oldest baronies in Sembara, sitting between the [[Western Marches]], the powerful [[Duchy of Wisford]], and the sparsely settled [[Borderlands]]. The western third of the barony is dominated by the [[Cleenseau Wood]], an ancient old-growth forest. In the north, the [[Aveil Ridge]], a small escarpment, defines the northern quarter of the barony, and is home to the seat of the baron, [[Veltor]], a small fortified castle near the headwaters of the [[Auberonne]]. Two rivers run through the barony: the [[Auberonne]], which runs the length of the barony, and the [[Leandre]] which is smaller and flows from the [[Cleenseau Wood]] to the [[Auberonne]].
 

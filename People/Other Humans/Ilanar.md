@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Ilanar
-*(ee-lah-NAHR)*
->[!info]+ Biographical Info  
-> An unknown
+```taelgar-header
+```
 
 A name spoken by a ghost from [[Cairn Dor]]. 
 

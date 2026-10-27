@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 displayDefaults: {ruledBy: "Ruled by: <name> <((since )startDate())>"}
@@ -14,10 +13,8 @@ dm_owner: joint
 dm_notes: important
 POV: modern
 ---
-# Sembara
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% status/review ->  significant in multiple games (Addermarch, and especially Cleenseau) and page is currently essentially a stub considering importance %%
 

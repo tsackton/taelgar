@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: Crown of Purity Vision
 POV: 1749
 ---
-# The Crown of Purity Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 Kenzo takes the Crown out of the Portable Hole, and amazingly it looks nothing like it did before. It now is made of silver, an elegant design with delicate ruby insets, with seven equal points in the front and decorated with dwarven runes and hammer motifs. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -23,13 +22,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1715
 ---
-# Duncan of Haldrenn
-*(DUN-kan of HAL-dren)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Found dead by the [[Addermarch Mercenaries]] on May 27th, 1715 in [[Serethwyn Tor]], [[Carlinshire]], [[Addermarch]] %%^End%%
+```taelgar-header
+```
 
 Duncan of Haldrenn was a shepherd from [[Haldrenn]]. He lived alone in a small stone cottage on the edge of the village, spending his summers with sheep in the high moors and winters around [[Alewyn]]’s hearth, where villagers knew him as boastful and full of unlikely tall tales and exaggerated stories of his prowess. During the winter of DR 1714-1715, his talk of hidden treasure became unusually serious, and in March 1715 he vanished into the [[Highmoor]] after claiming he knew where to find riches. 
 

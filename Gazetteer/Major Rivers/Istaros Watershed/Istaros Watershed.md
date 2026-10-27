@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Istaros Watershed
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Istaros watershed is the vast river basin that gathers into the [[Istaros]] and its many tributaries, stretching from the [[Mostreve Hills]] to the [[Sea of Storms]]. For much of recorded history it has been a fertile crossroads, central first to the vast elven realm of [[Alcarinque|Alcarinquë]], then to the [[Drankorian Empire]]; even after the [[Fall of Drankor]] the upper Istaros served as a crucial connection between [[Cymea]] and the [[Green Sea]], the [[Istabor Alliance]], and the [[Dunmar|Dunmari]].
 

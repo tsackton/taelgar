@@ -1,12 +1,12 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Great Library
 DR: 1752-06-29
 DR_end: 
 name: Chronicles of Zadkai's Return and the Scouring Wind
 ---
-# Chronicles of Zadkai's Return and the Scouring Wind
+```taelgar-header
+```
 
 After returning from [[Cairn Dor]], the [[Silver Tempests]] discover that several years have passed, and the world has changed....
 

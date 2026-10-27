@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,11 +13,8 @@ dm_owner: mike
 dm_notes: none
 POV: 1720
 ---
-# Abigail Moss
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[abilgail-moss.jpg|right|320]]Abigail is a somewhat shy farmer whose orchard was infected with the remains of the giant spiders that plagued [[Taviose]]. [[Robin of Abenfyrd|Robin]] was able to disinfect it with his lay on hands ability. Her family was killed in the spider attacks, and she has struggled to maintain the family orchard, which is mostly walnuts and chestnuts and hugs the edge of [[Cleenseau Wood]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Aurbez Plateau
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Aurbez Plateau rises sharply just north and west of the [[Maseau - Dunmar Road]], and is several thousand feet higher than the lowlands of the [[Aurbez and the Andonne]] region. This is the heart of the [[Refounded Alliance of Aurbez]]. This land is marginally better than the plains below it, protected somewhat from the ash storms, and with a number of reliable streams fed by the snow melt on the [[Sentinel Range|Sentinels]], water is more plentiful than farther east, despite the lack of rain. Stands of quaking aspens and highland pines grow scattered along rushing brooks, fading to drier scrubgrass on the exposed hills. 
 

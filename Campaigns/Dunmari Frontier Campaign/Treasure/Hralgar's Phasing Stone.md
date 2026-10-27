@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -16,11 +15,8 @@ whereabouts: Vindristjarna
 knownTo: [dufr]
 POV: modern
 ---
-# Hralgar's Phasing Stone
->[!info]+ Information  
-> (legendary [[Giants|giant]] magic [[Phasing Stones|phasing stone]])  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A [[Phasing Stones|Phasing Stone]], once possessed by the giant [[Hralgar]], and [[Session 73 (DuFr)|recovered]] from [[Hralgar's Palace|his palace]] in the [[Sentinel Range|Sentinels]] by the [[Dunmar Fellowship]].
 

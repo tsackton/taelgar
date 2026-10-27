@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [status/gameupdate/dufr, testcase, person, status/check/lint]
@@ -27,13 +26,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Nayan Sura
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her), of the [[Nayan Dynasty|Nayan dynasty]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Scryed by the [[Dunmar Fellowship]] on December 26th, 1748 on the [[Sukal Plains|plains south of Tokra]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 Nayan Sura is the younger sister of Samraat [[Nayan Karnas]]. Once seen as a future Samraat and a unifier of [[Eastern Dunmar|eastern]] and [[Western Dunmar]], she vanished eight years ago, trapped by [[Agata]] Dustmother in the [[Mirror of Soul Trapping]]. In her absence, her brother, [[Nayan Karnas]], claimed the throne of [[Dunmar]]. In DR 1748, Nayan Sura was freed from [[Agata]]'s imprisonment, and now seeks to reclaim her destiny. 
 ## Overview

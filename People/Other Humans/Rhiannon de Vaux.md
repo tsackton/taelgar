@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/ai]
@@ -12,11 +11,8 @@ whereabouts: Marwick
 knownTo: [clee]
 POV: 1720s
 ---
-# Earl of High Tyrn Rhiannon de Vaux
-*(ree-AN-on de VOH)*
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Rhiannon de Vaux is the Earl of High Tyrn in eastern [[Addermarch]], based at [[Marwick]].
 

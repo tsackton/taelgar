@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-08T12:28:58-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,12 +15,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1740s
 ---
-# Govir
-*(goh-VEER)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[govir.png|right|400]]
 Govir is a Dunmari scholar and the Master of Records at the [[Archives|Tokra Archives]]. Devout and single-minded, he is gathering [[Session 35 (DuFr)|accounts of the victories and miracles]] which he believes shows that the [[Dunmari Pantheon|gods]] have upheld and supported the [[Nayan Dynasty]]. He holds [[Yarad|Samraat Nayan Yarad]] in particular esteem, seeing in his victories evidence of divine favor.

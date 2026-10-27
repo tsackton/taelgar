@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 displayDefaults: {linkText: "on"}
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The South Dunmar Road
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A major trade road that departs from the [[Maseau - Dunmar Road]] just south of the [[Aursen]], crosses the [[Douren|Douren River]] at [[Heuren Gorge]], runs along western foothills of the [[Sentinel Range]] through Stoneborn settlements, past [[Raven's Hold]], and eventually to [[Karawa]].
 

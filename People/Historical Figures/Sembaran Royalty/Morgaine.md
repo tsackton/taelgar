@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,11 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Morgaine
->[!info]+ Biographical Info
-> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]], she/her of the [[House of Lils]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 One of the founders of the [[House of Lils]], originally an [[Oracle of the Riven]].
 

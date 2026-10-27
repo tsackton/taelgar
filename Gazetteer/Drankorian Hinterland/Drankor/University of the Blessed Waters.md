@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,10 +13,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1749
 ---
-# University of the Blessed Waters
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The University of the Blessed Waters, also called the Thalorian, was one of the three great universities of [[Drankor]] in the last centuries of the Drankorian Empire. It stood southeast of the [[Temple of the Eight Divines]], amid gardens and lecture halls that once housed a Faculty of Natural History and other schools.
 

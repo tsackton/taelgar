@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -15,12 +14,8 @@ whereabouts: Wellby
 knownTo: [dufr]
 POV: modern
 ---
-# The Wayfarer's Bow
->[!info]+ Information  
-> (legendary magic bow)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/9218851-wayfarers-bow-shortbow)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[wayfarer-bow.jpg|right|400]]This wooden bow is made of an unusual dark wood, much harder than any mundane wood but incredibly light and flexible. 
 

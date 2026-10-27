@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Yendalo
-*(yen-DAH-loh)*
->[!info]+ Biographical Info  
-> A [[Stoneborn|stoneborn]] (he/him)
+```taelgar-header
+```
 
 Yendalo was a Stoneborn metaphysicist and mystic whose teachings became the basis of [[Yendalism]]. He rejected parts of the [[Standard Multiversal Model]], instead dividing the planes into [[Inner Realms]] and [[Outer Realms]] according to their relationship to the [[Land of the Dead]], which Yendalists call the Divine Veil.
 

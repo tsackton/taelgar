@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -8,10 +7,8 @@ name: Ashwell Brook
 whereabouts: Wistel
 POV: modern
 ---
-# The Ashwell Brook
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Ashwell Brook is one of the more prominent small tributaries of the [[Wistel]] between [[Gowerbourne]] and [[Wisford]].
 

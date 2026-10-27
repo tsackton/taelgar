@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -19,13 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Head Priest Kaleha
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 1st, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 The head priest of the primary Dunmari temple in [[Tokra]], a position that primarily involves serving as the main civil administrator for the city.  She is a fair and talented administrator, dedicated to [[Sonkar]].
 

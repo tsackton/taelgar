@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,10 +14,8 @@ dm_owner: mike
 dm_notes: important
 POV: 1720
 ---
-# The Midnight Lady
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (hag)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A mysterious fey recently arrived in [[Peydon]]. Known by many in the village as the Night Witch. Her real name is Moriel.
 

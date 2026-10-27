@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
@@ -17,10 +16,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1748
 ---
-# Caulaus
->[!info]+ Biographical Info  
-> A [[Drankorian Empire|Drankorian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 ![[caulaus-aportino-portrait.png|right|320]]A human warrior from [[Drankor]], trapped in the [[Feywild]] for nearly 1000 years. Not fully in possession of his wits or memories. A guide and wanderer in [[Amberglow]]; sought by [[Seeker]] as a guide to the fey crossing at [[Lastlight Falls]]. 
 

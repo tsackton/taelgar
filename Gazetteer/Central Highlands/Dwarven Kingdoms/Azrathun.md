@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/name, status/check/lint]
@@ -13,11 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Azrathûn
-*(AZ-rah-thoon)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Arzathûn was once among the greatest [[Dwarves|dwarven]] cities, but it was destroyed and abandoned in the aftermath of the [[Battle of Urlich Pass]] and the [[Great War]].
 

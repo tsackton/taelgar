@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [creature, status/check/lint]
@@ -8,7 +7,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Merfolk
+```taelgar-header
+```
 
 %% there is probably more to say about merfolk, but this gets the gist across I think %%
 

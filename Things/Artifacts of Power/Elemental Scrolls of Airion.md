@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 tags: [object, status/check/lint]
@@ -10,10 +9,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Elemental Scrolls of Airion
->[!info]+ Information  
-> (scroll)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Elemental Scrolls of Airion are four legendary scrolls of elemental power crafted by the wizard [[Airion |Airion Mistspeaker]] before the [[Great War]], but lost amid the upheavals of the [[Blood Years]]. The four scrolls are known as the [[Flamekeeper Scroll]], the [[Stonemaster Scroll]], the [[Skyborn Scroll]], and the [[Deepwater Scroll]]. 
 

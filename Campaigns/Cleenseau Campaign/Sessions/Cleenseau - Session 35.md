@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Cleenseau
@@ -17,7 +16,8 @@ tagline: "in which the party studies Ianto's trophies, returns to Clawyn for Via
 sessionKey: cleenseau-session-35
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 35
+```taelgar-header
+```
 
 >[!info] Between Crises: in which the party studies Ianto's trophies, returns to Clawyn for Viatela, and sets out for Orenlas
 > *Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moonseeker|Izgil]]*

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# The Goodbarrels
->[!info]+ Information  
-> A [[Halflings|halfling]] family  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Goodbarrels are a widely distributed halfling trading family, scattered across the [[Western Green Sea]] and the roads of northern [[Sembara]], with a significant presence in [[Tollen]] as well. The most famous Goodbarrel is undoubtedly [[Wellby|Wellby Goodbarrel]], a prominent member of the [[Dunmar Fellowship]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -23,13 +22,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Urgall the Black
->[!info]+ Biographical Info  
-> A [[Skaer]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Fought and killed by the [[Dunmar Fellowship]] on December 22th, 1748 in [[Vetta]], [[Skaerhem]] %%^End%%
+```taelgar-header
+```
 
 Urgall, known as Urgall the Black, was a Skaer outcast and exile. As a young man, he felt constrained and bound by the conformist traditions of the Skaer, and chafed at being told where to work and what to contribute. Eventually, he refused to share his fishing bounty, and was excommunicated. He left, and wandered the [[Green Sea]], turning to piracy to support himself. Sometime during his pirate days, he made a pact with a demon known as [[Mashtu the Corruptor]], becoming a warlock in the service of the fiend's goals of corruption. 
 

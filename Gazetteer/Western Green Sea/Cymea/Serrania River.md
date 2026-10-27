@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Serranía River
-*(Seh-rrah-nee-ah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Serrania River is a rushing, rocky river in [[Western Cymea]], flowing from the [[Plataca Hills]] to the [[Western Gulf]]. Only the first ten miles or so from the coast are easily navigable, though a cart track runs further inland, connecting small agricultural villages. 
 

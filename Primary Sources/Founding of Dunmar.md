@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -8,7 +7,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Founding of Dunmar
+```taelgar-header
+```
 
 This is the story of the founding of [[Dunmar]], as told by the Dunmari. These events occur in roughly DR 1171 - DR 1173, though the exact years and dates are not recorded in this mythic history. 
 

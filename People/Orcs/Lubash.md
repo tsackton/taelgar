@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [status/cleanup/metadata, person, status/check/lint]
@@ -21,13 +20,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# Chief Lubash
->[!info]+ Biographical Info
-> An [[Orcs|orc]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met the [[Dunmar Fellowship]] on December 10th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
+```taelgar-header
+```
 
 %%needs campaign info and whereabouts cleanup%%
 

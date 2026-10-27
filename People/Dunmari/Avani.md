@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,12 +17,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Dunmari Werewolf Woman
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Cured of lycanthropy by [[Riswynn]] on July 3rd, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 The unnamed woman who was cured of lycanthropy by [[Riswynn]], one of the few survivors of the [[Fraternity of the Empty Moon]].
 

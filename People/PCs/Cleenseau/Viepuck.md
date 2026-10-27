@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/clee, status/check/lint]
@@ -20,12 +19,8 @@ dm_owner: player
 dm_notes: important
 POV: 1719
 ---
-# Viepuck
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% This page still reflects early game when Viepuck was disguised as Najeer. Needs a minimal rewrite %%
 

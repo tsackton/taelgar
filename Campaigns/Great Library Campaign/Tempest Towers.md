@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,10 +11,8 @@ whereabouts:
   - {type: home, location: Voltara, startFilter: "2"}
 POV: 1748
 ---
-# The Tempest Towers
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Tempest Towers are the [[Silver Tempests]]' manor and home base in central [[Voltara]], near the baths and market. The manor was gifted by [[Anton Lavernia]], the proconsul of Voltara, after the party's role in [[Great Library Session Notes - Arc 2|the defense of Voltara]] during [[Grumella's War]]. 
 

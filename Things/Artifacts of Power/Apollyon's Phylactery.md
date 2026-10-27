@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", endStatus: "unmade by the [[Dunmar Fellowship]] on"}
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Apollyon's Phylactery
->[!info]+ Information  
-> (dagger)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Apollyon's Phylactery was the soul vessel of the lich [[Apollyon]]. It took the form of a simple, unmarked dagger forged of [[adamantine]], into which seven innocent souls were later bound in a dark rite. Through it, Apollyon anchored his undeath and sustained his power.
 

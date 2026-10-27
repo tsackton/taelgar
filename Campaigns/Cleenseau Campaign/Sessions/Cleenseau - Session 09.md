@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 9
@@ -13,7 +12,8 @@ tagline: in which the party crosses the tar pit and descends beneath Cleenseau
 sessionKey: cleenseau-session-9
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 9
+```taelgar-header
+```
 
 The party continues through the fort beneath [[Essford Manor]], defeating ghouls, shadows, and a massive zombie. They release a halfling ghost, recover [[Silverthorn]], and cross a trapped pool of black tar to reach a deeper complex.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# Western Dunmar
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Western Dunmar is a productive agricultural region, occupying the flat lands of the [[Nayan Floodplains]], west of the [[Yuvanti Mountains]] and east of the [[Nevos Sea]]. The densest settlement is in the Nayan river valley, which contains the largest city in the region, [[Nayahar]], which also serves as the administrative center and Samraat court of [[Dunmar]]. 
 

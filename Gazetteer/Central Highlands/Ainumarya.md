@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,11 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Ainumarya
-*(EYE-new-mar-ya)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Ainumarya is the original elvish name for the great forest on the west side of the [[Sentinel Range]], derived from the Elvish for "home of the first gods." It was once a major homeland of the [[Elves]], before the [[Great War]] and the [[Conclave War]] that followed devastated its forests and left its elven settlements largely abandoned. The fate of many of its former inhabitants remains unknown.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,12 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740
 ---
-# Menestheus
->[!info]+ Biographical Info  
-> A [[Drankorian Empire|Drankorian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Menestheus is a displaced Drankorian scholar of the [[Arithrimos Lamperum]]. He is a mathematician and geographer whose work concerns brilliant-number maps of [[planar connections]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -9,7 +8,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Walls of Tollen
+```taelgar-header
+```
 
 Tollen has been protected by walls for many centuries, beginning with a wooden palisade that guarded the ancient city during the Skaer era. 
 

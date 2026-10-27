@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Nimessa
->[!info]+ Biographical Info  
-> An [[Elementals|elemental]] ([[Marid|marid]]) (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Nimessa is a marid of the [[Elemental Plane of Water]]. In DR 1747, she was summoned and controlled by [[Azar the Lost]] using an old magic ring of [[Airion]]'s; she was forced to steal a fragment of living water from the [[Sentient Ocean]] for Azar. After fulfilling Azar's command, she vanished, presumably returning to her native plane. 
 

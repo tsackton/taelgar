@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -14,10 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720
 ---
-# Lambert Talwrey
->[!info]+ Biographical Info  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% a suitor of [[Juliana Westby]] who was killed by [[Areschera]] pretending to be [[Tobias of Cranford]] as a way to hopefully get Tobias falsely exiled, as part of her plan to cause suffering amongst the humans for the amusement of Umbraeth 
 No details about him

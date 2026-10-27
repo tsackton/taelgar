@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,12 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Old Leo
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (they/them)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on September 18th, 1748 in [[Castrella]], [[Cedrano]], the [[Chardonian Empire]] %%^End%%
+```taelgar-header
+```
 
 Old Leo is the proprietor of [[The Whale's Spout]] in [[Castrella]], a tavern and refuge known for taking in orphans.
 

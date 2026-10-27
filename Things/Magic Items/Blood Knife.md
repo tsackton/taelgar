@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Blood Knife
->[!info]+ Information  
-> (magic dagger)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Blood Knife is a wicked-looking curved dagger made from some kind of black metal. It is connected to [[Gazankoa]] and was used by [[Azar the Lost|Azar]] in the murders around [[Hamri]], where victims were stabbed, drained of blood, and used in his failed attempts to restore the drowned dead.
 

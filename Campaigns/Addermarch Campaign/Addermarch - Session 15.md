@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 15
@@ -11,8 +10,8 @@ name: Addermarch Campaign - Session 15
 tagline: in which the party confronts a ghost and gathers clues
 descTitle: The Haunted Cottage
 ---
-
-# Addermarch Campaign - Session 15
+```taelgar-header
+```
 
 >[!info] The Haunted Cottage: in which the party confronts a ghost and gathers clues
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

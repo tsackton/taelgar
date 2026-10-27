@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/mike, status/check/lint]
@@ -18,11 +17,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# Elaine II
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[House of Lils]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 %% tagging check/mike just to confirm putting the gloss on her reign as a time of peace and prosperity should be commented out; Sembara 1720 - 1750 needs a little more thought before we should commit to that, IMO. I agree the vibe of Sembara is clearly fairly stable in the 1720-1749 timeframe, and I think it is sensible to commit to the House of Lis as it stands, but maybe soften the "her reign was a time of peace and prosperity" and the connection to Cece %%
 

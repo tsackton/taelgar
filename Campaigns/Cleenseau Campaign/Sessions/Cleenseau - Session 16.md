@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 16
@@ -13,7 +12,8 @@ tagline: in which the party negotiates with a fey lord and evacuates Ashcombe
 sessionKey: cleenseau-session-16
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 16
+```taelgar-header
+```
 
 Traveling north to investigate the absent Baroness, the party encounters harpies and servants of a powerful bear-shaped fey. Celyn negotiates a limited truce and learns that three fey powers are competing in the region. The party then evacuates [[Ashcombe]] and carries the refugees to [[Aslain]].
 

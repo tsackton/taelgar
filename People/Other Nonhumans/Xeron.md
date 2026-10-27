@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Xeron
->[!info]+ Biographical Info  
-> An aboleth  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Discovered by [[Riswynn]] on May 10th, 1748 in the [[Yuvanti Mountains]] %%^End%%
+```taelgar-header
+```
 
 Xeron is an ancient aboleth entombed within the rock beneath the Yuvanti Mountains, near Tharn Todor. The being is believed to have mineralized, and is now more stone than flesh. Reports from explorers indicate it shows no evident interest in meddling with affairs beyond its cavern.
 

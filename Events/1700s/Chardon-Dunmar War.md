@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Began on <startdate>, ended on <enddate>"}
@@ -12,9 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1750
 ---
-# The Chardon-Dunmar War
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The Chardon-Dunmar War describes a long-simmering conflict culminating in a brief open war between the [[Chardonian Empire]] and [[Dunmar]] during the reign of [[Nayan Karnas]]. While the roots of the conflict trace to Chardonian economic and diplomatic pressure on [[Nayan Karnas]] in the DR 1740s, the Chardon-Dunmar war itself began with Chardonian intervention on behalf of [[Nayan Karnas]] during the [[Sibling War]]. The conflict escalated into open interstate war after the [[Pandemonium Incursion in Chardon]], though major fighting ended abruptly when [[Marius Cusico]] surrendered under the influence of [[Kenzo]] and the [[Crown of Purity]]. Formal negotiations between [[Nayan Karnas|Karnas]], [[Sura]], and [[Mitus Verina Auratan]] established a treaty that divided [[Dunmar]] between [[Sura|Nayan Sura]] and [[Nayan Karnas]] while establishing [[Darba]] as a free port under suzerainty of the [[Chardonian Empire]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
@@ -19,11 +18,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Rothfis
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A dwarven monk, retired adventurer, and barkeep; owner of a bar in Chardon. Summoned to repay a debt he owed through marriage, from his now ex-wife's clan, the Ironcorns. Not happy about it.
 

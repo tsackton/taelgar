@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Grimstone
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Grimstone was a mysterious alchemist who operated from a [[Grimstone's Lair|hidden laboratory]] beneath [[Perdoli Manor]] in [[Western Cymea]]. He dressed in heavy black robes and a white marble death mask, and at least one hobgoblin called him Lord Rockbinder. The name Grimstone came from the mask.
 

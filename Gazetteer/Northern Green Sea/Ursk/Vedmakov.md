@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Vedmakov
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 
 Vedmakov stands at the headwaters of the [[Leis]] in interior [[Ursk]], a strategic hub on the overland route between the Ket basin and the western grainlands. Renowned—and feared—as the namesake seat of the [[Eyes of Vedmakov|Okolov]], the city exercises rigorous control over arcane practice and travel. Patrols on the roads and river approaches are disciplined and methodical; transit papers are routinely inspected, and contraband magic is confiscated without ceremony.

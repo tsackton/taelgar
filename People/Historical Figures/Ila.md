@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,12 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Commander Ila
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Read about by the [[Dunmar Fellowship]] on July 1st, 1748 in [[Tokra]], [[Central Dunmar]] %%^End%%
+```taelgar-header
+```
 
 The commander of the eastern Dunmari army in [[Tokra]] during and after the [[Northern War]]. Later involved in [[Exile of Fraternity of the Empty Moon]].
 

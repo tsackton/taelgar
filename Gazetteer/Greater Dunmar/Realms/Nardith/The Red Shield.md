@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# The Red Shield
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Red Shield is a tavern in [[Tharn Todor]], owned and run by the parents of the dwarven ranger [[Oskar]], often serving as a meeting point for travelers to the city.
 

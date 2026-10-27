@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: murdered by bandits}
@@ -16,11 +15,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1719
 ---
-# Gentza
->[!info]+ Biographical Info
-> A [[Lizardfolk|lizardfolk]] (she/her)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[lizardfolk-gentza.png|right|320]]An apprentice lizardfolk herbalist, said to be skilled at experimenting with remedies. She is a regular at the [[Cleenseau]] market where she sells herbal cures to humans, and is always interested in new maladies or remedies for them. She often sells to [[Mermin Stonebridge]], a budding halfling merchant.
 

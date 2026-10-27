@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Tyrwinghan Hills
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Tyrwinghan Hills, locally known as the Cefren (*KEV-ren*) in Tyrwingha, are a line of hills and valleys running east from the [[Maerwyn Mountains|Maerwyns]] towards the [[Mistfold Mountains]]. 
 

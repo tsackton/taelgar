@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 tags: [object, status/check/lint]
@@ -15,13 +14,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Dauðleiptr
-*(DOWTH-lape-ter)*
->[!info]+ Information  
-> (unique death ray)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Dauðleiptr, literally "Death Lightning" in the Giant tongue, is a chalyte-powered death ray constructed by the stone giant [[Dhrukmir]] to protect his territory in the [[Chataan Mountains]]. Capable of vaporizing dozens and dozens of soldiers, and with a scrying-based ability to target enemies at some large distance away, Dauðleiptr kept the chalyte mines of [[Ulgrathar]] in [[Dhrukmir]]'s hands for many years.
 

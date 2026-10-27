@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [religion/fivesiblings, background, status/check/lint]
@@ -8,7 +7,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Dunmari Beliefs
+```taelgar-header
+```
 
 This page serves as background on the theological and religious beliefs of the Dunmari. 
 ## Creation Story

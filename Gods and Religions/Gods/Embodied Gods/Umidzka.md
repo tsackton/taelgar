@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power]
@@ -10,10 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Umidzka
-*(oo-MIDZ-kah)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]]
+```taelgar-header
+```
 
 Umidzka is one of the god-like entities born of the Void Mind, the power that seeks to end all things. They are known in the lore of the elves as The Empty, and associated with necromancy and undeath.
 

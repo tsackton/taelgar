@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,11 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Torvaine Forest
-*(TOR-vayn FOR-ist)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Torvaine Forest is a broad belt of mixed woodland in central [[Addermarch]], a tangle of oak and fir threaded by game paths and woodcutters’ trails. The forest supplies timber and charcoal to the upland shires, and shelters old stones and barrows from earlier ages beneath its leaf‑carpeted rises.
 

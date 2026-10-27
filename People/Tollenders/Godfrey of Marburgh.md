@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,11 +16,8 @@ dm_owner: none
 dm_notes: important
 POV: 1740s
 ---
-# Godfrey of Marburgh
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[elder-godfrey-portrait.png|right|400]]Godfrey is an Elder of [[The Sibyl]], strongly blessed and capable of channeling powerful miracles. He is associated with the large Temple of the Sibyl in Tollen. He is a serious, deeply religious man, knowledgeable both in the lore of magic and the rituals and miracles of the Sibyl.
 

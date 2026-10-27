@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/errors, status/check/lint]
@@ -9,7 +8,8 @@ dm_owner: none
 dm_notes: important
 POV: modern
 ---
-# Incorporeal Gods
+```taelgar-header
+```
 
 %% tagging status/tim, status/mike as there are some decisions that probably should be made about the metaphysics of different types of gods. might need a better tag for "unclear cannon that needs to be decided" %%
 

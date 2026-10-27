@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Theophesus
-*(thee-oh-FEE-sus)*
->[!info]+ Biographical Info  
-> A [[Drankorian Empire|Drankorian]] [[Humans|human]] (he/him)
+```taelgar-header
+```
 
 Theophesus was a Drankorian scholar whose work helped define the concept of [[Echo Realms]]. He collected some of the first maps of the [[Feywild]] and proposed that the Feywild has a physical correspondence with the [[Material Plane]]. 
 

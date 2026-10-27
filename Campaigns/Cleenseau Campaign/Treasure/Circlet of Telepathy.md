@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,11 +12,8 @@ whereabouts: Viepuck
 knownTo: [clee]
 POV: modern
 ---
-# Circlet of Telepathy
->[!info]+ Information  
-> (magic circlet)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[circlet-of-telepathy.png|right|420]]A golden circlet, found split across two pieces of enchanted armor, mysteriously rejoined. Found in the abandoned hobgoblin fort beneath Cleenseau.
 

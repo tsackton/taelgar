@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -10,11 +9,8 @@ pronunciation: MAIR-win GAIR-ih-sun
 whereabouts: Maerwyn Mountains
 POV: modern
 ---
-# Maerwyn Garrison
-*(MAIR-win GAIR-ih-sun)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Maerwyn Garrison is an [[Army of Mostreve]] post in the southern [[Maerwyn Mountains]], guarding the western side of the gap into the [[Tyrwinghan Hills]]. Its stone barracks overlook the approach, sheltered by wooded slopes. It houses roughly a hundred soldiers drawn from Tyrwingha’s three Guard Companies.
 

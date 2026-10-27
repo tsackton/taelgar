@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/name]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The South Vostok Hills
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The South Vostok Hills lie along the [[Green Sea]] coast east of [[Tollen]], stretching north toward the [[Draukar Hills]]. Their difficult terrain separates the forests of [[Vostok]] from the rest of [[Greater Sembara]].
 

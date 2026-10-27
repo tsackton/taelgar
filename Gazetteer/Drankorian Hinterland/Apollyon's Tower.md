@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1749
 ---
-# Apollyon's Tower
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Apollyon's Tower is a black marble spire on the coast of the [[Circular Island]], once a stronghold and retreat of the Drankorian emperor [[Apollyon]], a place of dark study and craft. The tower itself is almost 250 feet tall, with a main section that rises 140 feet from the ground, and battlements and a tower extension that rise another 100 feet, capped with a platform open to the sky. 
 

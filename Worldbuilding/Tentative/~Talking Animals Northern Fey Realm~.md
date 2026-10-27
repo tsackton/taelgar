@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [place]
 typeOf: realm
 whereabouts: Feywild
@@ -7,10 +6,8 @@ dm_owner: none
 dm_notes: none
 tentativeReason: "unclear if this exists"
 ---
-# The ~Talking Animals Northern Fey Realm~
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 
 Largely undefined - may not necessarily exist 

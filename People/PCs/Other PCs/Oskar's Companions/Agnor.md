@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,12 +17,8 @@ dm_owner: player
 dm_notes: none
 POV: 1740s
 ---
-# Agnor
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by [[Riswynn]] on May 9th, 1748 in [[Tharn Todor]], [[Nardith]], the [[Yuvanti Mountains]] %%^End%%
+```taelgar-header
+```
 
 Agnor is a dwarven warlock from [[Tharn Todor]], who has occasionally adventured with [[Oskar]] and [[Riswynn]]. His magic is tied to mysterious ancient powers, and he is often accompanied by his familiar, Ravi.
 

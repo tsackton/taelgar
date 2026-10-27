@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720s
 ---
-# Genevote
->[!info]+ Biographical Info  
-> An [[Istabor Alliance|Isinguer]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[genevote.png|right|320]]The stablemaster of Essford Manor.
 

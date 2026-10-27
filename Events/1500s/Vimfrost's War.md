@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,9 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Vimfrost's War
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 A war fought between the allies and minions of the ancient white dragon [[Vimfrost]], including orcs, trolls, and various monstrosities from the north, and the united forces of the frost giants of [[Kaldhalla]], dwarves and stoneborn of the [[Svinjo Mountains]], and the human armies of [[Sembara]] and [[Vostok]]. 
 

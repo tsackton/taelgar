@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Torvaine Watch
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Torvaine Watch is a small keep and toll-gate in the [[Torvaine Forest]], guarding the road from [[Valcroix]] to [[Roscombe]]. The road climbs out of the [[Umber]] valley, passes through the forested hills, and runs through the watch before continuing toward the highland valley around Roscombe. The watch traditionally keeps this stretch of road clear, collects tolls, and serves as the main garrisoned checkpoint between Valcroix and Roscombe.
 

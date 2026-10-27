@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Charmhearts
->[!info]+ Information  
-> A [[Halflings|halfling]] family  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Charmhearts are a prominent family of [[Halflings|halfling]] overland traders. They trace their history to [[Sembara]], but for the past several generations the most prominent branch of the family has made their living on long distance trade, bringing spices, furs, and dyed cloth from [[Sembara]] to [[Dunmar]], as well as sometimes apple brandy from [[Adderfell]]. 
 

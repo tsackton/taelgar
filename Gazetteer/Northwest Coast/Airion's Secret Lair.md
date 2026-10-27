@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-13T13:45:21-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,10 +10,8 @@ whereabouts: Mount Graybane
 knownTo: [grli]
 POV: 1752
 ---
-# Airion's Secret Lair
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A hidden stronghold built by [[Airion|Airion the Mistspeaker]] at the summit of [[Mount Graybane]], in the [[Tawir Forest]]. It is protected by a magical storm that makes ascent of the mountain extremely difficult, and is rumored to hold secret, and potentially dangerous, research or artifacts concerning the elemental planes. 
 

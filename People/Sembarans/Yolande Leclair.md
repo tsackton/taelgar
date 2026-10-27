@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,10 +12,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720s
 ---
-# Yolande Leclair
-*(yoh-LAHND luh-KLAIR)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
+```taelgar-header
+```
 
 Yolande Leclair is a disciple of the [[The Night Queen|Night Queen]] and a servant of [[Raoul Boulain]].
 

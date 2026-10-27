@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -19,12 +18,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Nika Hyne
->[!info]+ Biographical Info  
-> A [[Tollen|Tollender]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on December 17th, 1748 in [[The Windward Sail]], [[Fiskurth]], the [[Tollen|Free City of Tollen]] %%^End%%
+```taelgar-header
+```
 
 ![[nika-hyne.png|right|320]]Nika Hyne is a sly young woman in her early twenties known to frequent [[The Windward Sail]], listening to stories and doing odd jobs for coin. She was briefly a student at the [[University of Tollen]]: although she dropped out, she knows the area and the people well. She is a bit of a hustler. 
 

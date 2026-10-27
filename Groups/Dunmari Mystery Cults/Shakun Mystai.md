@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Shakun Mystai
->[!info]+ Information  
-> A [[Dunmar|Dunmari]] mystery cult, of [[Shakun]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 One of the [[Dunmari Mystery Cults]], mystical organizations devoted to the [[Dunmari Religion|Dunmari gods]]. The [[Shakun]] Mystai, devoted to the goddess [[Shakun]], are based in the [[Temple of Shakun]] in the small village of [[Karawa]] in [[Eastern Dunmar]]. The temple in [[Karawa]] supports a community of somewhat over 100 initiates, along with a few dozen initiates-in-training and 40 or more lay associates of the mystai. The mystai are known for creating healing powders from the stone of the [[Red Mesa]], and for somehow misleading and waylaying those who attempt to cross the eastern borders of [[Dunmar]] with evil intent. 
 %%^Campaign:dufr%%

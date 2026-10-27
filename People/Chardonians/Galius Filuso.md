@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -21,13 +20,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Galius Filuso
-*(GAH-lee-us fee-LOO-soh)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him), of the [[Order of Twilight]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on July 4th, 1747 in [[Voltara]], [[Greater Voltara]], the [[Northern Provinces]] %%^End%%
+```taelgar-header
+```
 
 Galius Filuso is a Chardonian priest of [[The Night Queen]], now based in [[Voltara]]. He is a prominent advocate for the restoration of the [[Order of Twilight]], especially the recovery and reconsecration of lost Order sites in the northern provinces.
 

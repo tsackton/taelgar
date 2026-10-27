@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Ishara Venn
-*(ih-SHAR-uh VEN)*
->[!info]+ Biographical Info  
-> A [[Tollen|Tollish]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Ishara Venn was a Tollish planar geographer associated with the [[University of Tollen]], active in the DR 1500s and early DR 1600s, after the [[Great War]]. She is best known for [[The Seams Between Worlds]], a systematic study of [[Elemental Vortex|elemental vortexes]] and other planar connections.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags:
   - session-note
 campaign: Labyrinths of the Lost
@@ -19,7 +18,8 @@ tagline: in which four captives escape their goblin jailers
 sessionKey: labyrinths-of-the-lost-session-1
 session-template: lablost-template.md
 ---
-# Labyrinths of the Lost - Session 1
+```taelgar-header
+```
 
 >[!info] The Smithy Escape: in which four captives escape their goblin jailers
 > *Featuring: [[Acescale]], [[Gaudin]], [[Loria Underbough|Loria]], [[Dilion]]*

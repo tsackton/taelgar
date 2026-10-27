@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Nashtkar
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 East of the [[Karawa Desert]], beyond the borders of [[Dunmar]], is a rocky, arid land called the Nashtkar, or the blasted plains, by the Dunmari. This is a land of strange magic, wild monstrosities, and other unknown dangers, where few dare to venture. This land is less arid than the Garamjala, to the south, and gets occasional rains during the monsoon season. It is rocky, jumbled terrain with many small canyons that unexpectedly flood after the rare monsoon storm and where scrubby plants cling to life. It is also the western edge of the territory covered by [[Cha'mutte's Plague]] during the Great War, and the lingering effects of this devastation still unevenly haunt the land. %% vibe is some places are plague-haunted, but others are not - it is very patchy depending on where large concentrations of people died, mostly %%
 

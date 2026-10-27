@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [power]
@@ -15,12 +14,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1740s
 ---
-# Prince Aurelian
-*(PRINSS aw-REE-lee-un)*
->[!info]+ Information  
-> An archfey (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Prince Aurelian, known as the Golden Prince, the Hearthkeeper, and the Sunbound Oracle, is the ruler of [[Everlight's Bloom]]. He is said to care deeply for his people, but give little thought to those beyond his borders, including those who manage to leave his realm.
 

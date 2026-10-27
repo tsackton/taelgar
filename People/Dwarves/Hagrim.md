@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/text, status/cleanup/metadata, status/check/lint]
@@ -19,11 +18,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Hagrim of Morkalan
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% needs significant refactoring, and add campaign info %%
 

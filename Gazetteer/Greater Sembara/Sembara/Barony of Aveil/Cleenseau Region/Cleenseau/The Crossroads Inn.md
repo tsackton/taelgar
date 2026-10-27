@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-29T18:22:03-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,11 +12,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The Crossroads Inn
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A large inn in [[Cleenseau]], said to be hundreds of years old, kept by the Stonebridge family of halflings for generations. Most of the rooms are designed for halflings, but it has a small number of comfortable, if cozy, rooms for humans, and the common room is often full of townsfolk at night hearing the latest news from out of town and drinking down pints of the famous millet ale.
 

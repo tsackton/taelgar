@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-04T19:32:43-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<species:sAU> <(()pronouns())>"}
@@ -18,12 +17,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Khemut of Targu
-*(KEH-mutt uv TAR-goo)*
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 > [!image|right standard]
 > ![[khemut-ledger-ink-sketch.webp]]

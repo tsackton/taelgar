@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [background, religion/fivesiblings, status/check/lint]
@@ -10,7 +9,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Festival of the New Dawn
+```taelgar-header
+```
 
 The Festival of the New Dawn is a Dunmari religious festival, strongly associated with the deity [[Laka]], and celebrated on January 23rd each year. It marks the beginning of the new year and a new cycle of the seasons, and is considered the first day of the new year in the Dunmari reckoning. Traditions include a pre-dawn vigil, often including magical rituals to invoke Laka's blessing for the past and the future, and a procession/mystery play/recitation of the history of the Dunmari people from creation until today. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 7
@@ -11,7 +10,8 @@ name: Addermarch Campaign - Session 7
 tagline: in which the party discovers a cave dweller
 descTitle: Into the Cave
 ---
-# Addermarch Campaign - Session 7
+```taelgar-header
+```
 
 >[!info] Into the Cave: in which the party discovers a cave dweller
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

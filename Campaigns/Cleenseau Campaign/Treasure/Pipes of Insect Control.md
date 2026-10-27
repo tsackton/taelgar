@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,11 +13,8 @@ whereabouts: Viepuck
 knownTo: [clee]
 POV: modern
 ---
-# Pipes of Insect Control
->[!info]+ Information  
-> ([[Fey]] magic pipes)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[pipes-of-insect-control.png|right|420]]A set of pan pipes, crudely made and lashed together with twine. Each of the four pipes plays a different note.  Originally of suspected fey make, and found in the [[Cleenseau Wood]] by some bandits. Later found in the bandit lair by the [[Heroes of Cleenseau]].
 

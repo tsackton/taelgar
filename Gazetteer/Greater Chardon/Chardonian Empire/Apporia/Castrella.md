@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,11 +13,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Castrella
-*(kah-STREL-ah)*
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Castrella is a dramatic city with a rich history, set on Castrella Bay on a narrow strip of flat land just north of the mouth of the [[Kedron]] river, backed by steep hills. The coastal land is dominated by the port itself, and a series of constructed breakwaters. Several dramatic waterfalls cascade down the hills to the north. There is a small bit of agriculture south of the city, across the [[Kedron]] and in the Kedron delta area, but the wealth of Castrella derives largely from the sea.
 

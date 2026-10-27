@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: "killed by [[Agata]]"}
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Typhina
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% some context dm notes associated with heartwood grove but no information exists about the real Typhina, only the fake version that was actually Agata %%
 

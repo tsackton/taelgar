@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/lint]
@@ -8,7 +7,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# History of Tollen
+```taelgar-header
+```
 
 %% this note covers the history of the [[Tollen|Free City of Tollen]], occasionally touching on larger events but mostly focused specifically on the city %%
 

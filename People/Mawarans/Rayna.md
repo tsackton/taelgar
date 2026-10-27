@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,11 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Rayna
->[!info]+ Biographical Info  
-> A [[Mawar Confederacy|Mawaran]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Rayna is a Mawaran sailor descended from [[Society of Ocean Watchers|Ocean Watchers]]. She was born at sea in 1713 and raised mainly by her maternal grandfather, [[Caleb]], who taught her stories of [[Mawar Confederacy|Mawar]]'s golden age and the old ocean-watching traditions.
 

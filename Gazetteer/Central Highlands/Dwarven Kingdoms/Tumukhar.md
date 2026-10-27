@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:28:01-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Tumukhar
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:GL%% Explored by the [[Silver Tempests]] on December 13th, 1747%%^End%%
+```taelgar-header
+```
 
 Tumukhar was a southern hold of [[Am'khazar]], lying down‑valley from [[Zarkandur]], and serving as a high mountain entrance to the underground routes and roads in [[Am'khazar]]. Before its abandonment, Tumukhar served as a way‑city for travelers and traders bound toward the Stoneborn villages and other destinations in the [[Sentinel Range|Sentinels]], with stout gateworks, tiered streets, and well‑kept cisterns fed by mountain rills. Its craftsmen were known for practical ironwork and serviceable tools destined for the frontier, and for the quiet hospitality expected of a road city: a warm seat by the brazier, a pot on the hearth, and news from the passes.
 

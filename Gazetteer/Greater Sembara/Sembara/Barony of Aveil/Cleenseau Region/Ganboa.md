@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,12 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Ganboa
-*(Gan-bo-a)*
->[!info]+ Information  
-> pop. 62  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A small lizardfolk village a few miles downstream on the Enst, known in [[Cleenseau Region]] as a good source of healing herbs. Several lizardfolk from Ganboa are regulars at the markets in [[Cleenseau]] and [[Beury]].  Ganboa is built on a cul-de-sac in the [[Enst]] where the banks become very marshy and the river splits and a northerly channel meanders through several large marshy flats. It is a small village of only about two dozen huts, about half scattered across the semi-permanent marsh islands, and the other half along the banks of the river.
 

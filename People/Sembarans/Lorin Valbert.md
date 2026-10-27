@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -22,13 +21,8 @@ dm_owner: mike
 dm_notes: none
 POV: 1710s
 ---
-# Lorin Valbert
-*(loh-RAN val-BAIR)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[lorin-valbet.png|right|320]]Lorin Valbert is the lord of [[Asineau]]. He is a cousin of the old lord, [[Lucas Asa]], via Lucas' biological father. Lorin did not expect to inherit a manorial lordship, and regards it as beneath his station, being a backwater far from the centers of power.
 

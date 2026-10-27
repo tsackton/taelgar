@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 11
@@ -13,7 +12,8 @@ tagline: in which the party builds a defense and removes Asineau's lord
 sessionKey: cleenseau-session-11
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 11
+```taelgar-header
+```
 
 The party heals survivors from [[Ida Rosfeld|Ida's]] battered garrison and leads a council that funds a larger regional force based at [[Asineau]]. In Asineau, Viepuck and Izgil convince [[Lorin Valbert]] that hostile fey are targeting him; he abandons the manor soon afterward.
 

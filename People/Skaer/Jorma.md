@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -17,11 +16,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Jorma
->[!info]+ Biographical Info  
-> A [[Skaer]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% setting metadata/jheader as ideally want a way to tag campaign info for people that the party didn't meet, but only heard about, but not clear the best way to do this as the location ends up wrong if you use the date the party heard about the person. %%
 

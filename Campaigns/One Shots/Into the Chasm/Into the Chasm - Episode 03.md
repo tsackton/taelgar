@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Into the Chasm
 sessionNumber: 3
@@ -14,7 +13,8 @@ tagline: in which the explorers defeat a beast, and reach the strange village of
 sessionKey: into-the-chasm-session-3
 session-template: into-the-chasm-template.md
 ---
-# Into the Chasm - Episode 3
+```taelgar-header
+```
 
 >[!info] The Beast and the Palace: in which the explorers defeat a beast, and reach the strange village of Melusa
 > *Featuring: [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Eolo]], [[Ekko]], [[Justas Rhostrin|Justas]]*

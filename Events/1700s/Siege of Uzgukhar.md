@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/stub, status/check/lint]
@@ -10,9 +9,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Siege of Uzgukhar
->[!info]+ Information  
-> Part of The [[War of the Cloak]]
+```taelgar-header
+```
 
 %%^Metadata:names:v1%%
 - {"name": "Siege of Uzgukhar", "language": "unknown", "pronunciation": "SEEJ of ooz-goo-KHAR", "notes": "Uzgukhar has no recorded pronunciation in its reference note. The proposal uses the Turkic analogue inherited by Free Orcish in [[Languages]], following the People of the Rainbow context: u as oo, a hard g, kh as a back-of-throat fricative, open ah, and tentative final stress. This cultural guidance does not establish the name's origin or exact phonology.", "status": "proposed"}

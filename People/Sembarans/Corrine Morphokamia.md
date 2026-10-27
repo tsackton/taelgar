@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,11 +12,8 @@ dm_owner: mike
 dm_notes: none
 POV: 1720
 ---
-# Corrine Morphokamia
-*(kor-REE-neh mor-foh-KAH-mee-ah)*
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Corrine Morphokamia is a wizard who studies transformation and lives in [[Enclaut]], beside [[Lake Rin]]. She is a trans woman whose interest in transformation began in childhood, when she recognized that her inner self and physical form were distinct. She has ties to [[Tollen]], but her studies have drawn suspicion around [[Rinburg]].
 

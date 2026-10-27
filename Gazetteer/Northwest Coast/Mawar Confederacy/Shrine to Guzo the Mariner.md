@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:55:52-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# The Shrine to Guzo the Mariner
-*(GOO-zoh)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Shrine to Guzo the Mariner is an old sea-cave shrine in the [[North Cliffs]], north of [[Hamri]]. Set within a cliffside cave on a white-sand beach, and only accessible by boat, the shrine was once a popular pilgrimage site. By the early 1700s, however, it had fallen into disrepair, no longer maintained by priests and used primarily as a hangout and hideaway by local youths. After several accidents in the 1720s, it acquired a reputation for being haunted, and fell out of common knowledge.  
 

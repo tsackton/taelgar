@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 tags: [group, status/gameupdate/dufr, status/check/lint]
@@ -10,9 +9,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# The Society of the Open Scroll
->[!info]+ Information
-> A [[Chardonian Empire|Chardonian]] scholarly society
+```taelgar-header
+```
 
 A scholarly society founded in the aftermath of the [[Great War]], to preserve and protect knowledge against future disaster, and to learn the secrets of the past to better protect [[Chardon]] and the world from existential magical threats.
 

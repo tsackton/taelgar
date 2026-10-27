@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# The Maerwyn Mountains
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Maerwyn Mountains are a line of high peaks in the [[Mostreve Hills]], running northwest along the border between [[Addermarch]] and [[Tyrwingha]]. They rise from the rough country near the [[Valenfray Hills]] and trend north toward the [[Enst]] river valley; and are highest in the south near the headwaters of the [[Branth]].
 

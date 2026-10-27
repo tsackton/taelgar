@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "Sometimes considered one of the <secondary:1>"}
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1749
 ---
-# Pandemonium
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 There is no one description of  Pandemonium. Even among those who claim to have glimpsed its depths, no two accounts are the same, and few scholars believe a mortal being can travel to Pandemonium and return with their mind intact. A howling void of endless tunnels, a labyrinth of wind-carved stone, a realm where screams take form and shadows coil into laughter— these are but fragments of the descriptions found in _[[Codex Maledictum]]_, the most infamous collection of accounts from supposed planar travelers. If there is truth in such writings, Pandemonium is a realm of ceaseless wind and darkness, its tunnels stretching into infinity, its pathways twisting with no discernible pattern. 
 

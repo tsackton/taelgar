@@ -1,10 +1,10 @@
 ---
-headerVersion: 2023.11.25
 tags: [meta]
 dm_owner: none
 dm_notes: none
 ---
-# Current Games
+```taelgar-header
+```
 
 The stories still being told in Taelgar include two campaigns run by Tim:
 - [[Addermarch Campaign]]: the story of the [[Addermarch Mercenaries]], a group of adventurers based in [[Roscombe]], in [[Addermarch]], and in the employ of the mysterious alchemist [[Caradoc]].

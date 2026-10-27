@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,12 +12,8 @@ dm_owner: mike
 dm_notes: important
 POV: 1720
 ---
-# Asineau
-*(Ah-zee-noh)*
->[!info]+ Information  
-> pop. 311  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[asineau-image-2.png|right|320]]![[asineau-docks.jpg|right|320]]A manorial fishing village on the banks of the Enst, two miles downriver of [[Auloutte]]. The village is small, about 50 houses, mostly clustered a hundred feet above the banks of the Enst in a rough line, anchored at one end by a humble temple of the Wyrdling and the other by the manor house. There are three wooden docks, and a sandy beach where small fishing rafts can pull out, just before the banks turn marshy. There is no blacksmith, folks walk the 2.5 miles to [[Beury]] if they need a horse shoed or a plow made. About half the inhabitants of Asineau fish, and there are occasional disagreements with the lizardfolk in [[Ganboa]] when the catch is small. Much of the farmland is middling, at best, rockier than other parts of the region.
 

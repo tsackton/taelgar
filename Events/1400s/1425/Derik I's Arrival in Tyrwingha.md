@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,9 +10,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Derik I's Arrival in Tyrwingha
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 In DR 1425, during the wars against the [[Dominion of Avatus]], Derik I, then a little-known noble of [[Telham]], arrived in [[Tyrwingha]]. Most tales of the day describe the morning fog parting in golden light at his feet, and [[Archfey Ethlenn|Ethlenn]] herself appearing to bless him before the people. 
 

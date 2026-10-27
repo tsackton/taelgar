@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,13 +18,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1748
 ---
-# Yota
-*(yoh-TAH)*
->[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (he/him), of the [[Te'kula]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on September 10th, 1748 in [[Neshet]], the [[Elderwood]], [[Ainumarya]] %%^End%%
+```taelgar-header
+```
 
 The chief of the [[Te'kula]] village.
 

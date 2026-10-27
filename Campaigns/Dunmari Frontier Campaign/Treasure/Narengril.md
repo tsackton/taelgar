@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -18,13 +17,8 @@ whereabouts:
 knownTo: [dufr]
 POV: modern
 ---
-# Narëngril
-*(nah-RENG-greel)*
->[!info]+ Information  
-> (rare [[Elves|elven]] magical sword)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/5346819-narengril)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[narengril.png|right|200]]An elven sword, finely made and carved with Elvish script warding against fiends. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,14 +19,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1749
 ---
-# Martin Strongbow
-*(mar-TAN STRONG-boh)*
->[!info]+ Biographical Info  
-> An [[Istabor Alliance|Isinguer]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 7th, 1749 in [[Three Wells]], the [[Refounded Alliance of Aurbez]] %%^End%%
+```taelgar-header
+```
 
 ![[martin.png|right|400]]Martin is an Isinguer human and a captain of the [[Rangers]]. He is a seasoned tactician and often serves as the coordinator of Ranger operations within the [[Refounded Alliance of Aurbez]].
 

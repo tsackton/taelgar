@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -16,11 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Cranmère
-*(Krahn-mehr)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A rushing river that leaves the [[Aveil Ridge]] and flows south and west until it joins the [[Auberonne]] near [[Cranford]]. The area to the east of the Cranmère is hilly and less settled, although during [[Cece I|Cece I's reign]] many new villages sprang up in the hills, drawing equally from the [[Barony of Aveil]] and the [[Duchy of Wisford]].
 

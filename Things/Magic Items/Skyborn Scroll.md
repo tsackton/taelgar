@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Skyborn Scroll
->[!info]+ Information  
-> (scroll)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> %%^Campaign:grli%% Recovered by the [[Silver Tempests]] on July 23rd, 1747 %%^End%%
+```taelgar-header
+```
 
 One of [[Airion|Airion Mistspeaker]]’s four lost elemental scrolls, associated with air.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 14
@@ -11,7 +10,8 @@ name: Addermarch Campaign - Session 14
 tagline: in which the fey threat is temporarily halted
 descTitle: The Singing Tree
 ---
-# Addermarch Campaign - Session 14
+```taelgar-header
+```
 
 >[!info] The Singing Tree: in which the fey threat is temporarily halted
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

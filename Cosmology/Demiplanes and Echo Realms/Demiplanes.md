@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -9,7 +8,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Demiplanes
+```taelgar-header
+```
 
 According to the classic Drankorian text [[On Metaphysics]], one of the foundational early texts in the study of extraplanar cosmology, a demiplane is "any extraplanar space, howsoever created and sustained, that is limited in duration, finite in space, or both." While this concept is considered outdated by proponents of the [[Standard Multiversal Model]], who consider only time-limited extraplanar spaces to be proper demiplanes, it remains useful to explain many planar phenomena.
 

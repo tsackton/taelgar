@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -26,14 +25,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Garret Tealeaf
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (he/him), of the [[Tealeafs]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Freed by the [[Dunmar Fellowship]] on June 2nd, 1748 in [[Agata's Lair]], the [[Garamjala Desert]] %%^End%%
->> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[The Red Lily Inn]], [[Tokra]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 %% date of capture is approx %%
 

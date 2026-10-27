@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Into the Chasm
 sessionNumber: 5
@@ -14,7 +13,8 @@ tagline: in which the party chases orcs through the Great Chasm's floating platf
 sessionKey: into-the-chasm-session-5
 session-template: into-the-chasm-template.md
 ---
-# Into the Chasm - Episode 5
+```taelgar-header
+```
 
 >[!info] Descent into Battle: in which the party chases orcs through the Great Chasm's floating platforms
 > *Featuring: [[Finnan Oakstride|Finnan]], [[Jrain Fanlish|Jrain]], [[Eolo]], [[Ekko]], [[Justas Rhostrin|Justas]]*

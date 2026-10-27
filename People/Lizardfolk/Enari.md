@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -22,12 +21,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# Enari
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by [[Kenzo]] on November 3rd, 1748 in [[Bedez]], [[Orekatu]], the South Region %%^End%%  
->> %%^Campaign:dufr%% Last seen by [[Kenzo]] on November 13th, 1748 in [[Azta Lekua]], [[Orekatu]], the South Region %%^End%%
+```taelgar-header
+```
 
 ![[enari-portrait.png|right|400]]A well-muscled lizardfolk hunter and wanderer, who earned a reputation and honor traveling among the villages of the kingdom of [[Orekatu]]. 
 %%^Campaign:dufr%%

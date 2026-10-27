@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -21,13 +20,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1748
 ---
-# Nogu
->[!info]+ Biographical Info  
-> An [[Orcs|orc]] (she/her), of the [[People of the Rainbow]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% The freed from the [[Mirror of Soul Trapping]] into [[Lubash|Lubash's]] care by the [[Dunmar Fellowship]] on [[Session 71 (DuFr)|December 5th, 1748]] in [[Xurkhaz]] %%^End%%
+```taelgar-header
+```
 
 An [[Orcs|orc]], trapped by [[Agata]] in the [[Mirror of Soul Trapping]] after refusing to reveal secrets of the [[Cloak of Rainbows]] and the [[People of the Rainbow]]. She is from [[Xurkhaz]], born in the 1660s, and spent around 60 years trapped before being finally freed into her people's care.
 

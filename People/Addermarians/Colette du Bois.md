@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:10:54-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -22,15 +21,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1715
 ---
-# Colette Du Bois
-*(ko-LET doo BWAH)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Rescued from goblin captivity by the [[Addermarch Mercenaries]] on May 8th, 1715 in [[Highmoor]], [[Carlinshire]], [[Addermarch]] %%^End%%  
->> %%^Campaign:adma%% Discussed caves with the [[Addermarch Mercenaries]] on May 10th, 1715 in [[Roscombe]], [[Carlinshire]] %%^End%%
+```taelgar-header
+```
 
 Colette Du Bois is a squire in [[Elowen Duval]]'s household guard, apprenticed to Sir [[Gareth Howell]]. She is often restless, and eager to prove herself, which can get her in trouble at times, as when she scouted a goblin lair in the [[Highmoor]] ahead of official orders and was captured.
 

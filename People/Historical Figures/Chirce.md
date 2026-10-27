@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-08T15:51:13-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,11 +13,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Chirce
-*(KEER-cheh)*
->[!info]+ Biographical Info  
-> An [[Illoria|Illorian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 Chirce was a charismatic and opportunistic Illorian pirate captain. In DR 1552, during the the chaos that consumed [[Dunmar]] after the [[Great War]], he claimed lordship over [[Darba]] and its surrounding coastal plain, after leading a mixed force of Dunmari and Illorians against an invading orc horde. He fortified the city and established an administration largely focused around enriching himself. 
 

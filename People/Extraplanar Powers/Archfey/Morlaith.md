@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
 tags: [power]
@@ -15,10 +14,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Morlaith
->[!info]+ Information  
-> An archfey (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Morlaith, also called the Briarheart, the Keeper of the Thornweald, and the Hidden Lord, is an ancient archfey who rules over the [[Thornweald]], a domain that lies congruent with parts of Addermarch, west of [[Twilight's Grace]] and east of [[Duskmire]]. He is old, strange, and remote: a faded remnant of the deep wild, an ancient echo of some forgotten dark forest of brambles, old paths, and hidden hollows.
 

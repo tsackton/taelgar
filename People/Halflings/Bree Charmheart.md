@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -25,14 +24,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Bree Charmheart
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (she/her), of the [[Charmhearts]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%  
->> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 The matriarch of the Charmheart trading clan of halflings.
 

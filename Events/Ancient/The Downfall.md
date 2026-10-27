@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -11,7 +10,8 @@ dm_owner: tim
 dm_notes: important
 POV: undated
 ---
-# The Downfall
+```taelgar-header
+```
 
 The Downfall was the cataclysm at the end of the [[Downfall Wars]], remembered for the sinking of [[Hkar]] and the reshaping of much of the world of Taelgar beyond. Refugees from Hkar founded [[Drankor]], from which the [[Drankorian Empire]] grew.
 

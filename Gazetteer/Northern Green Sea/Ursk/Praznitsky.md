@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -16,11 +15,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Praznitsky
-*(PRAZ-niht-skee)*
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Praznitsky is a mysterious city on the north coast of the [[Green Sea]], and one of the few ports where foreigners are allowed to trade in the country of [[Ursk]]. 
 

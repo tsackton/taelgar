@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Gold Street
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Gold Street is one of the 17 wards of [[Tollen]], located on the north bank of the [[Volta]] river, west of [[Bridgeward]]. The now-covered [[Fat Brook]] flows under the ward. The eponymous Gold Street runs east to west parallel to the river, home to merchant estates and banks.
 

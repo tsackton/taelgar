@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,12 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Stavenford
-*(Staven-ford)*
->[!info]+ Information
-> pop. 652
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A small river town in the Duchy of Wisford along the [[Enst]], it is about 20 miles downriver of [[Fellburn]]. There is a ferry here. Historically there was a significant fortification here, but the "new town" which was built in the 1670s after the [[Third Hobgoblin War (Sembara)|hobgoblin wars]] dismantled the fortifications to use as building material. 
 

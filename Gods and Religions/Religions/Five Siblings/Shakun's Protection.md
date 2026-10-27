@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/lint]
@@ -8,7 +7,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Shakun's Protection
+```taelgar-header
+```
 
 %% needs work is primarily for filling out some secrets and perhaps some campaign specific stuff about e.g. the Shakun Mystai and the web of protection %%
 

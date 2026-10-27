@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-13T12:24:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,12 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Old Brindlethorn
-*(ohld BRIN-dul-thorn)*
->[!info]+ Biographical Info  
-> A beastfolk (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 31st, 1715 in the [[Thornweald]], the [[Feywild]], [[Multiverse]] %%^End%%
+```taelgar-header
+```
 
 Old Brindlethorn is an ancient, cottage-sized badger who lives in the [[Thornweald]]. She is low and broad, with silvered fur packed with earth and small shrubs growing along her back.
 

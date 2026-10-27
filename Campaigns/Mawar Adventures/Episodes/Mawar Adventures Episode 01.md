@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags:
   - session-note
 campaign: Mawar Adventures
@@ -18,7 +17,8 @@ tagline: in which a stolen drop of ocean is returned
 sessionKey: mawar-adventures-session-1
 session-template: mawar-template.md
 ---
-# Mawar Adventures Episode 01
+```taelgar-header
+```
 
 >[!info] The Merfolk Visitor: in which a stolen drop of ocean is returned
 > *Featuring: [[Ryu]], [[Wazir]], [[Trok]]*

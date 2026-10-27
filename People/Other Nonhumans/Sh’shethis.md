@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -18,11 +17,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Sh’shethis
->[!info]+ Biographical Info
-> an [[Elementals|elemental]]
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Freed from the [[Elemental Forge]] by the [[Dunmar Fellowship]] on January 8th, 1749 %%^End%%
+```taelgar-header
+```
 
 %%check/cleanup whereabouts, campaign info, ancestry and related%%
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -26,14 +25,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# Fausto
-*(FOW-stoh)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Killed by the [[Dunmar Fellowship]] on May 24th, 1749 in the [[Temple of the Eight Divines]], [[Drankor]] %%^End%%
+```taelgar-header
+```
 
 ![[fausto.jpg|right|400]]Fausto is a wealthy Chardonian, moving with ease among wizards, scholars, rich merchants, and adventurers, known primarily for his patronage of scholarly expeditions through the [[Society of the Open Scroll]]. He is a striking man, with fine features, well-groomed curly black hair, and an elegant style that clearly yet subtly displays access to considerable wealth. He does not speak of his childhood, and his origins are obscure, but by his early adulthood he possessed a mysterious fortune, and was beginning to establish a name for himself as a patron of magical study. All manner of wild tales exist to explain his obvious wealth, the most common of which is that he was an adventurer and explorer in his 20s, retiring to Chardon with the wealth of an ancient dragon hoard.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,13 +17,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Elazar
->[!info]+ Biographical Info
-> a [[Lizardfolk|lizardfolk]], he/him
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Kenzo]] on September 30th, 1748 in [[Bedez]], [[Orekatu]], the [[Far South]] %%^End%%
->> %%^Campaign:dufr%% Last seen by [[Kenzo]] on November 4th, 1748 in [[Bedez]], [[Orekatu]], the [[Far South]] %%^End%%
+```taelgar-header
+```
 
 ![[elazar-portrait.png|right|400]]A lizardfolk man in the prime of his life, a prophet, seer, and spirit guide who has deeply felt visions and exceptional perception into the spirit realms. A bit of an outcast in his village, seen as someone who sees trouble in everything.
 

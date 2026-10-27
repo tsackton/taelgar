@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/clee, status/check/lint, status/check/ai]
@@ -26,13 +25,8 @@ dm_owner: player
 dm_notes: important
 POV: 1720
 ---
-# Celyn
->[!info]+ Biographical Info  
-> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (he/him)  
-> [Character Sheet](https://www.dndbeyond.com/characters/90849827)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[celyn-portrait.png|right|400]]Celyn is a slightly short, pale, blond young human man, probably in his early twenties, with quick hands and a wide, open blue-eyed attention.  His demeanor is generally cheerful if perhaps a bit naive; he appears to be amiably accepting of a number of the foibles of other people around him where someone else might make comment.  Perhaps this is related to the way he is utterly unapologetic about his own quirks, which are reasonably numerous and include frequent references to luck and good fortune, current objects of his apparently infinite curiosity, and off-the-wall commentary.  He does not make eye contact but is very clearly attentive to conversations he’s in; he has small brief rituals that he does when drinking wine.  
   

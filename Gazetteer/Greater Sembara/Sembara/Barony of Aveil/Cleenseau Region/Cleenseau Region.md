@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -10,10 +9,8 @@ dm_owner: mike
 dm_notes: color
 POV: modern
 ---
-# The Cleenseau Region
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The four manors of [[Manor of Cleenseau|Cleenseau]], [[Manor of Valit|Valit]], [[Manor of Beury|Beury]], and [[Manor of Asineau|Asineau]] form a relatively isolated part of the [[Barony of Aveil]], anchored by the market town of [[Cleenseau]] and its ancient and famous [[Cleenseau Bridge|bridge]] - the only bridge along the [[Enst]] until [[Eskbridge]], far to the east - and the only safe crossing for many miles. Perhaps without the bridge the region would have faded away after the [[Third Hobgoblin War (Sembara)|hobgoblin wars]], but the bridge and the transportation nexus it creates support a [[Army Garrison of Cleenseau|garrison]] and market much larger than might be expected. Around these the town of [[Cleenseau]] thrives.
 

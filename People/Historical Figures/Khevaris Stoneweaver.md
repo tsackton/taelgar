@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -11,9 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Khevaris Stoneweaver
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him)
+```taelgar-header
+```
 
 Khevaris Stoneweaver was a geomancer who studied planar portals, particularly connections to the [[Elemental Plane of Earth]]. 
 

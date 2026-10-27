@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<subspecies:AU> (<species:s>), <pronouns>"}
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Eleuha
-*(eh-LEH-oo-hah)*
->[!info]+ Biographical Info  
-> A dryad ([[Fey|fey]]), she/her  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by [[Kenzo]] on November 6th, 1748 in [[Azta Lekua]], [[Orekatu]] %%^End%%
+```taelgar-header
+```
 
 Eleuha is a dryad, who was born and lives in the great jungle of [[Azta Lekua]]. She is one of the many daughters of the forest who watch over the lands, friend to the spirit of the jungle, [[Lengau]].
 

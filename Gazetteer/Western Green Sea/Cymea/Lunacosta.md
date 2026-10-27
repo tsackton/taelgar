@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Lunacosta
-*(LOO-nah-koh-stah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Lunacosta is a coastal market town in [[Western Cymea]], located at the mouth of the [[Serrania River]] on the [[Western Gulf]]. Its harbor makes it a natural gathering point for river traffic and travelers moving between the coast and the roads inland.
 

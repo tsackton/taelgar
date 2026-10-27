@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/text, status/check/lint]
@@ -21,11 +20,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# King Bertram II
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Sewick]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The eldest child of [[Reginald]], he was a ruler of Sembara in the 1550s. 
 

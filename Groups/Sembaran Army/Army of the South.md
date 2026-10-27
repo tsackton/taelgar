@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 tags: [group, status/check/lint]
@@ -11,12 +10,8 @@ dm_owner: mike
 dm_notes: important
 POV: 1720
 ---
-# The Army of the South
->[!info]+ Information  
-> An army  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
-> Parent Organization: the [[Sembaran Army]], [[Sembara]]  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %%^Date:1720%%
 The Army of the South is a regiment of 400 soldiers, divided into four regiments of 80 soldiers each plus the garrison at Fellburn. Usually two regiments rotate on patrol in the [[Borderlands]] and two are based at the garrison in Fellburn. 

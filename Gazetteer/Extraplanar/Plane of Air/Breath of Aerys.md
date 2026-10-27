@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Breath of Aerys
-*(BRETH uhv AIR-iss)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Breath of Aerys is a landmark at the center of the [[Elemental Plane of Air]], spoken of with equal parts awe and mystery by the [[djinn]]. It is said to be a place of pure stillness and the source of air itself, though the djinni guard it from travelers to the Plane of Air so no reliable reports of its true nature have reached the [[Material Plane]].
 

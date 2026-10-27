@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -16,12 +15,8 @@ whereabouts: Wellby
 knownTo: [dufr]
 POV: modern
 ---
-# Agata's Obsidian Fly
->[!info]+ Information  
-> (rare [[Fey]] magic figurine)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/4831-figurine-of-wondrous-power-ebony-fly)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% there are many figurines of wondrous power across Taelgar, created via a variety of means. this is an example. these items are fairly easy to create, and while some may be unique others that are standard forms exist.%%
 ![[agata-obsidian-fly.jpg|right|400]]A sculpture of a small black obsidian fly, small enough to fit in the palm of a human hand. When a command word is spoken, it animates, turning into a giant fly; whoever summons it can speak the same word to turn it back into a figurine. The fly is hostile to anyone it does not recognize as its owner, and attacks immediately. It is kind of an asshole.

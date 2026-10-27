@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<subspecies> (<species:s>), <pronouns>"}
@@ -21,11 +20,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Emperor Apollyon
-*(ah-pol-LEE-on)*
->[!info]+ Biographical Info  
-> lich ([[Undead|undead]]), he/him  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The last emperor of Drankor, who is said to have wanted to become a god. Creator of the [[Scepter of Command]], and perhaps other artifacts of power. Was a very successful general and commander. 
 

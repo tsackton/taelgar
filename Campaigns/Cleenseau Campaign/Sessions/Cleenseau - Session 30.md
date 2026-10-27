@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Cleenseau
@@ -17,7 +16,8 @@ tagline: in which the dragon finally falls
 sessionKey: cleenseau-session-30
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 30
+```taelgar-header
+```
 
 >[!info] The Dragon Falls: in which the dragon finally falls
 > *Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moonseeker|Izgil]]*

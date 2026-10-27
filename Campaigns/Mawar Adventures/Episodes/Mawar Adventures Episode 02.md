@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Mawar Adventures
 sessionNumber: 2
@@ -14,7 +13,8 @@ sessionKey: mawar-adventures-session-2
 websiteSessionView: zoomable
 session-template: mawar-template.md
 ---
-# Mawar Adventures Episode 02
+```taelgar-header
+```
 
 >[!info] The Tragedy of Azar: in which a grieving killer is unmasked
 > *Featuring: [[Ryu]], [[Wazir]], [[Trok]], [[Kaleho]]*

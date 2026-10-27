@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -24,13 +23,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1749
 ---
-# Kaeso
-*(KAI-soh)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[kaeso.png|right|400]]Kaeso is a well-traveled Chardonian scholar and practical magician, and a  friend and mentor to [[Kenzo]] of the [[Dunmar Fellowship]]. In his late fifties, he has a lively face, scraggly black hair, and olive skin; he prefers simple, functional dress. Though graying patches of hair and care-worn lines on his face show signs of his age, he maintains a youthful energy, and speaks  emphatically with his hands. 
 ## Background

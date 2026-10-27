@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,12 +12,8 @@ dm_owner: mike
 dm_notes: important
 POV: modern
 ---
-# Peydon
-*(Pay-dun)*
->[!info]+ Information  
-> pop. 498  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A manorial village along the [[Auberonne]] in [[Barony of Aveil]], it is about 15 miles north of [[Rinburg]] over the fields, and 25 miles by road. 
 

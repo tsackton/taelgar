@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/gl, status/check/lint]
@@ -20,12 +19,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1748
 ---
-# Aelar
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] 37)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Aelar is an elf and a monk, from the first generation of elves born after the [[Great War]]. Always something of a loner, he spent much of his early life on the streets of [[Chardon]], a bit of an outcast, learning to survive and fight while mourning in his own way the massive destruction of elven society during and after the [[Great War]]. 
 

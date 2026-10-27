@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -10,10 +9,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Yeraad River Basin
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 
 The river valley of the Yeraad and its tributaries from the [[Elderwood]] and the [[Chataan Mountains]]

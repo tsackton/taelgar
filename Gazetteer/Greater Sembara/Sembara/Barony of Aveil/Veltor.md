@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,13 +13,8 @@ dm_owner: mike
 dm_notes: important
 POV: modern
 ---
-# Veltor
-*(Vel-tor)*
->[!info]+ Information  
-> pop. 699  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Veltor is an ancient fortified village at the base of the [[Aveil Ridge]], sitting astride the [[Auberonne]]. It is the seat of the Baron of Aveil. The most prominent building, other than the keep, is the ancient Temple of the Warlord.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [power, religion/tanshi]
@@ -10,10 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Deni
-*(DEH-nee)*
->[!info]+ Information  
-> A [[Tanshi|tanshi]]
+```taelgar-header
+```
 
 The spirit of redwoods, the tall trees of the forests, and also associated with the Elder trees, the remnants of the ancient elven kingdoms.
 

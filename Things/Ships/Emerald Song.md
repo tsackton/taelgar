@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {wOrigin: "Home area: <origin>", prep: "on"}
@@ -20,11 +19,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# The Emerald Song
->[!info]+ Information  
-> ([[Halflings|halfling]] boat)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The halfling ship Emerald Song is a fast, lateen-rigged, three-masted trading ship owned by the Silversong clan, rigged with a single square mast and two fore-and-aft masts, at least typically. It typically sails between Chardon and points on the Nevos Sea with a crew of 22 and room for up to 12 passengers, more if they are halflings.
 

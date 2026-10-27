@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/text]
@@ -16,12 +15,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1748
 ---
-# Alayah
-*(ah-LAH-yah)*
->[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The young Godcaller of the [[Te'kula]] tribe in the Elderwood. Dreamed of [[Rai]] and [[Kenzo]]. 
 

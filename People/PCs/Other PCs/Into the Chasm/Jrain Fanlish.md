@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,11 +15,8 @@ dm_owner: player
 dm_notes: important
 POV: 1730s
 ---
-# Jrain Fanlish
-*(JRAYN FAN-lish)*
->[!info]+ Biographical Info  
-> A Zimkovan [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Jrain Fanlish is a traveler, messenger, and archer who sometimes works with the [[Mezhai]] in the forests of [[Breva]]. She uses birds to carry messages and scouts with her hawk companion, [[Rala]]. She is a member of the [[Chasm Explorers]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags:
   - place
 displayDefaults:
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: important
 typeOfAlias: keep
 ---
-# Night's Edge Keep
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 
 %%SECRET[v2:da8076560e476f4d8d875a79f58004d4]%%

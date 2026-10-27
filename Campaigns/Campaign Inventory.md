@@ -1,11 +1,11 @@
 ---
-headerVersion: 2023.11.25
 tags: [meta]
 excludePublish: ["all"]
 dm_owner: none
 dm_notes: none
 ---
-# Campaign Inventory
+```taelgar-header
+```
 
 This directory is intended to collect **campaign-specific** information for campaigns that have been run in Taelgar. The exact information contained in each directory can be in any style and will vary depending on the DM of each campaign. However, this would typically include: session notes; handouts, letters, stories, or other primary material introduced in game; treasure and equipment; and campaign-specific player-facing encyclopedia pages, such as indexes of NPCs or timelines. 
 

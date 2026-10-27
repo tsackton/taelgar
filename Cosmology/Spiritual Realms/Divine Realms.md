@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Divine Realms
+```taelgar-header
+```
 
 Theological cosmologists, dating back to the influential Drankorian work [[On the Classification of Divinity]], have distinguished between [[Embodied Gods]], powerful celestial beings with an embodied physical manifestation, and [[Incorporeal Gods]], spiritual essences spun out of the divine power of creation itself. Current theological understanding, as represented in the [[Standard Multiversal Model]], suggests that these distinctions are critical for probing the nature of the divine realms. 
 

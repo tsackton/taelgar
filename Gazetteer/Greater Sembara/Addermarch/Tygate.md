@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Tygate
-*(TY-gayt)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Tygate is a small market town near the southern sources of the [[Aure]], set against the edge of the [[Darkwood]]. Its position makes it a last provisioning point before entering the forest or a first safe haven on the way out. Timber, resin, and pelts flow north through Tygate. A wooden palisade protects the town, with several watchtowers keeping a wary eye on the forest and wildlands to the south.
 

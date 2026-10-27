@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/text, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# The Kilrath Caves
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Northwest of [[Roscombe]], the Kilrath Caves wind beneath an [[Kilrath Standing Stones|ancient ring of stones]]. Recent explorations uncovered a fey-tainted pool, a shadow-haunted side passage, and a cockatrice brood laired around a defunct crystal gate.
 

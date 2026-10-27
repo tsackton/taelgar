@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -19,12 +18,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Kirian
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A retired Dunmari soldier who spent his early twenties riding in the warband of [[Shandan]], a charismatic soldier, traveling in the [[Myraeni Gap]] and elsewhere. Wounded in a skirmish with [[Kobolds]] in DR 1728, and returned to [[Tokra]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: undated
 ---
-# Zahir
->[!info]+ Biographical Info  
-> A [[Mawar Confederacy|Mawaran]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Zahir is a sailor from [[Sulqat]], who became famous for his story of surviving the destruction of his ship in a gale off the [[Mawakel Peninsula]], during which he says he was transported to the [[Elemental Plane of Water]]. He claimed to have awoken on a strange shore of a shimmering island, floating in a mysterious sea, where he spent seven years in service to a marid before returning.
 

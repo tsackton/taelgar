@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Harmony Stone
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Harmony Stone is an ancient gray‑white monolith, 60 feet tall and tapering to a point from a 15 foot base, standing along the river road of the [[Chasa River Valley]], between [[Metium]] and [[Erlona]]. Weathered Elvish and Northros runes mark it as a place of treaty and trade.
 

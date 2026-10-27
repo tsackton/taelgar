@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,13 +17,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Makha
-*(MAH-kah)*
->[!info]+ Biographical Info
-> An Islander [[Kenku|kenku]], he/him
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Wellby]] on October 12th, 1748 in [[Wahacha]], the [[Vermillion Isles]], [[Eastern Isles]] %%^End%%
+```taelgar-header
+```
 
 ![[makha.png|right|320]]The port master and unofficial town spokesperson for the kenku settlement of [[Wahacha]].  
 ## Relationships:

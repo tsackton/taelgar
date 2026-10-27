@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Auntie Mulberry
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (haregon) (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Visited by the [[Dunmar Fellowship]] on May 31st, 1749 in [[Emberwine]], the [[Feywild]], [[Multiverse]] %%^End%%
+```taelgar-header
+```
 
 ![[auntie-mullbery.jpg|right|400]]Auntie Mulberry is a haregon -- a half-human, half-rabbit humanoid fey -- who lives a quiet life in a cottage in [[Emberwine]]. She enjoys talking to travelers, and is generally friendly and welcoming to those who stop by. 
 

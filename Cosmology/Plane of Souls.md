@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
@@ -14,10 +13,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# The Plane of Souls
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 In the classical texts of [[Mos Numena]] theology that have come down from the days before the [[The Downfall|Downfall]], the Plane of Souls is described as a realm of pure thought, where the sparks of the souls of all sentient beings native to the [[Material Plane]] float like constellations. These ancient texts say the Plane of Souls is the connection between the material and the divine, and that each soul that floats in the constellations on the Plane of Souls is a locus for divine miracles. Without the Plane of Souls, in Mos Numenan tradition, we would be mindless constructs.
 

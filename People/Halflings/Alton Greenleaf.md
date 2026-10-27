@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person, testcase]
@@ -20,12 +19,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Alton Greenleaf
->[!info]+ Biographical Info
-> A [[Halflings|halfling]] (he/him), of the [[Greenleafs]]
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 18th, 1748 at the [[Melavan Caravanserai]], on the [[Stoneway]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 A halfling wanderer, traveling with only his brother. 
 ## Relationships

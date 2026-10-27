@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: "killed by [[Magran Boulderbeard]]"}
@@ -17,11 +16,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Inakara
->[!info]+ Biographical Info  
-> A [[Derro|derro]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A mad twisted creature and sorcerer living in the old [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near Raven's Hold. 
 

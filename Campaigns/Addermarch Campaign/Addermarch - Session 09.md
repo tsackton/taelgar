@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 9
@@ -10,7 +9,8 @@ name: Addermarch Campaign - Session 9
 tagline: in which the party aids Zibzig Sparkscale
 descTitle: An Unexpected Meeting Underground
 ---
-# Addermarch Campaign - Session 9
+```taelgar-header
+```
 
 >[!info]  An Unexpected Meeting Underground: in which the party befriends a kobold inventor and defeats a cave fisher
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

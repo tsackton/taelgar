@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T20:03:43-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -11,7 +10,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# The Riving
+```taelgar-header
+```
 
 The Riving is the term commonly used by human scholars for the destructive shattering of the [[Primordial Cosmos]], typically assumed by most scholars across diverse fields to be the event that led to the emergence of the [[Multiverse]] as it is commonly understood. The term was popularized by [[Gaius Devarro]] in his unfinished work, [[On Planar Origins]], which preserves several important fragments of early Drankorian and late Hkaran scholarship. 
 

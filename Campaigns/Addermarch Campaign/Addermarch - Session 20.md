@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 20
@@ -11,7 +10,8 @@ name: Addermarch Campaign - Session 20
 tagline: in which the axe is unmade
 descTitle: The Heart Beneath Serethwyn Tor
 ---
-# Addermarch Campaign - Session 20
+```taelgar-header
+```
 
 >[!info] The Heart Beneath Serethwyn Tor: in which the axe is unmade
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

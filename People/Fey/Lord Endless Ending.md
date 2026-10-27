@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,11 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740
 ---
-# Lord of the Ended Revel
->[!info]+ Biographical Info  
-> A [[Fey|fae]] (they/them)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Lord of the Ended Revel, the lord of a manor in the [[Twilight Kingdom]], is a nearly seven-foot-tall figure of ambiguous gender presentation. They wear their long hair pulled back behind their neck and a velvet evening jacket that fades from dark blue to pale blue like the evening sky at sunset. Their face is expressionless and almost mask-like. Mortals perceive the Lord's emotions only as flickers at the edge of their vision; stared at directly, the face seems less like their true appearance than a human mask worn by something older, wilder, and less containable, like an unfinished story.
 

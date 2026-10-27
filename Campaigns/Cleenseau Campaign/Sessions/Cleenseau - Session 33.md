@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Cleenseau
@@ -17,7 +16,8 @@ tagline: "in which the party kills the redcap and recovers Greymalkin's wings"
 sessionKey: cleenseau-session-33
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 33
+```taelgar-header
+```
 
 >[!info] Ianto's Fortress: in which the party kills the redcap and recovers Greymalkin's wings
 > *Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moonseeker|Izgil]]*

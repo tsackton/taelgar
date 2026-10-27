@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/lint]
@@ -9,7 +8,8 @@ dm_owner: none
 dm_notes: important
 POV: modern
 ---
-# The Chronicles of the Mawar
+```taelgar-header
+```
 
 
 After the fall of [[Drankorian Empire|Drankor]], the Mawar became a significant coastal and trading power, and Mawar ships could be seen plying coastal trade routes as far south as [[Chardon]] and as far north as the far northern shores beyond the Great Bay.

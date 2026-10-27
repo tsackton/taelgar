@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: Chardon Fan Vision
 POV: 1748
 ---
-# Chardon Fan Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 You are looking out from a market stall, maybe in [[Karawa]] or [[Tokra]], the booth of a trader in trinkets and fine accessories. A woman approaches, finely dressed, but her face hidden by a traveling cloak. She picks up the fan, and a few other items, and you are tossed in saddlebags with several well-made riding dresses and some jewelry and other accessories. Later, as you are drawn out of the saddlebags, the woman has changed into a hag, into [[Agata]].
 

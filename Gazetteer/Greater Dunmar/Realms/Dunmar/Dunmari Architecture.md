@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -8,7 +7,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Dunmari Architecture
+```taelgar-header
+```
 
 Some notes on historical architectural styles in Dunmar.
 ## Aatmajic

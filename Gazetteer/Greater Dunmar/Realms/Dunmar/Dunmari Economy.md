@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/lint]
@@ -8,7 +7,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# The Economy of Dunmar
+```taelgar-header
+```
 
 Dunmar is a society of largely nomadic animal herders in the arid grasslands and deserts of the east, but increasingly a rich agricultural society in the west, on the fertile [[Nayan Floodplains]].
 

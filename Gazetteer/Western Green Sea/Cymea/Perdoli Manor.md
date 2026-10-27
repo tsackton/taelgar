@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {startStatus: Built, endStatus: fell into ruin, dPastHasStart: "<start:u> <startDate>, <end> <endDate>"}
@@ -15,12 +14,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Perdoli Manor
-*(pehr-DOH-lee)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Perdoli Manor is a ruined estate in the hills of [[Western Cymea]], about a day's journey from [[Vistalba]]. It was built in DR 1479 by the [[Perdoli Family]], wealthy merchants and traders who drew their fortune from wine, trade, and control of a marble quarry.
 

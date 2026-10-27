@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -11,11 +10,8 @@ name: "Watcher's Dagger"
 knownTo: [dufr]
 POV: modern
 ---
-# The Watcher's Dagger
->[!info]+ Information  
-> ([[Ursk|Urskan]] magical dagger)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/336928-dagger-of-blindsight)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 This magical dagger is decorated with an elaborate eye motif on the hilt, and is associated with the [[Eyes of Vedmakov|Okolov]].
 

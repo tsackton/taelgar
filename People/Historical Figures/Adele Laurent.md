@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,13 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Adèle Laurent
-*(ah-DELL loh-RAHN)*
->[!info]+ Biographical Info  
-> An [[Istabor Alliance|Isinguer]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Adèle Laurent was an Isinguer human member of [[Rangers|the Rangers]] based in [[Rinburg]], where she helped coordinate investigations up and down the [[Enst]] valley. She died in DR 1689.
 

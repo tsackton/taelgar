@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Fenslane
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Fenslane is one of the newer wards of the city, on drained marshland on the south bank of the [[Volta]] west of [[Southbridge]], where damp lanes, sheds, and cheap lodgings crowd along drainage ditches and the lower reaches of the [[Muddy River]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -24,15 +23,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1715
 ---
-# Lady Elowen Duval
-*(EL-oh-wen doo-VAL)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 1st, 1715 in [[Roscombe]], [[Carlinshire]], [[Addermarch]] %%^End%%  
->> %%^Campaign:adma%% Rewarded the [[Addermarch Mercenaries]] on May 4th, 1715 [[Roscombe]] %%^End%%  
->> %%^Campaign:adma%% Hosted a dinner including the [[Addermarch Mercenaries]] on May 7th, 1715 [[Roscombe]] %%^End%%
+```taelgar-header
+```
 
 %% preserving dm notes color for some color/roleplaying vibes to capture that i need to write down %%
 

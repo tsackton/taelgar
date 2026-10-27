@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 13
@@ -13,7 +12,8 @@ tagline: in which the party joins new allies and enters an undead lake
 sessionKey: cleenseau-session-13
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 13
+```taelgar-header
+```
 
 The party travels south, exchanges information with the adventurers who defeated the monster at [[Eftly]], and divides responsibilities among the available groups. Without Izgil, the remaining party members join [[Armand]], [[Emilie]], and [[Odo Cordwaner]] to investigate a giant undead eel in [[Lake Rin]].
 

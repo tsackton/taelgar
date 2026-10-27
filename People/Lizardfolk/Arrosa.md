@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,12 +17,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Arrosa
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by [[Kenzo]] on September 30th, 1748 in [[Bedez]], [[Orekatu]], the South Region %%^End%%  
->> %%^Campaign:dufr%% Last seen by [[Kenzo]] on November 4th, 1748 in [[Bedez]], [[Orekatu]], the South Region %%^End%%
+```taelgar-header
+```
 
 A lizardfolk elder, the matriarch of the village of [[Bedez]], in the Kingdom of [[Orekatu]]. 
 

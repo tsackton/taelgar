@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -11,9 +10,8 @@ name: Ilsa Lemoine
 knownTo: [clee]
 POV: modern
 ---
-# General Ilsa Lemoine
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]]
+```taelgar-header
+```
 
 Ilsa Lemoine commanded the [[Army of the West]]. In January 1720, during the undead crisis, she ordered companies and garrisons not already marching to [[Dunmore]] to depart for the city. By April DR 1720, [[Claude Leclerc]] had been promoted to command the army.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -11,11 +10,8 @@ whereabouts: Asineau
 knownTo: [clee]
 POV: 1720
 ---
-# Bastien
-*(bas-TYEH(n))*
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Bastien is a former [[Army of the West]] soldier who came to [[Asineau]] in early May 1720 seeking work as a guard. His husband, [[Cedric]], had been killed by the undead while Bastien was away with the army. He joined Asineau's guard and hoped [[El]] could help him with his grief. [[Celyn]] spent time with him and made a point of seeing that he had what he needed.
 

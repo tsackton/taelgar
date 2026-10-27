@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,12 +18,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1749
 ---
-# Itxal
-*(EET-shahl)*
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 7th, 1749 in the [[Aursen Marshes]], the [[Refounded Alliance of Aurbez]] %%^End%%
+```taelgar-header
+```
 
 ![[ixtal.png|right|400]]Itxal is an elderly lizardfolk matriarch of the Aursen Marshes, protective of her people.
 

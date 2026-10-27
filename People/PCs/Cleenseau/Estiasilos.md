@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {startStatus: hatched from an egg on}
@@ -17,11 +16,8 @@ dm_owner: player
 dm_notes: important
 POV: 1720s
 ---
-# Es\*tiasilos
->[!info]+ Biographical Info  
-> A mysterious abberation (it/they/him/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A strange egg hatched by [[Viepuck]] into a mysterious flying octopus creature. Curious but very alien.
 

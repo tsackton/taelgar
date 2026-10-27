@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 displayDefaults: {defArt: ""}
 DR: 1748-04-24
@@ -7,11 +6,8 @@ DR_end: 1748-06-03
 campaign: Oskar's Adventures
 name: Oskar in Tharn Todor
 ---
-# Oskar in Tharn Todor
->[!info]+ Information  
-> *Featuring: [[Oskar]] and [[Riswynn]], with [[Ken-to]], [[Agnor]], [[Eva]], and [[Ghemdorn]]*
-> *In Taelgar: Apr 4, 1748 DR to June 3, 1748 DR*
-> *[[Tharn Todor]] and environs*
+```taelgar-header
+```
 
 After [[Riswynn]] returned to [[Tharn Todor]] with the [[Shield of the Brawnanvil Clan]], recovered from [[Raven's Hold]], she met a dwarven wanderer, [[Oskar]], who had recently returned from a long journey to the north. These are the stories of their adventures in the spring of DR 1748.
 

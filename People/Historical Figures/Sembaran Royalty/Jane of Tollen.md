@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -21,11 +20,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Jane of Tollen
->[!info]+ Biographical Info  
-> A [[Tollen|Tollender]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The second wife of [[Derik III]], from a powerful and rich merchant family in [[Tollen]]. She was Queen Regent in the immediate aftermath of the Great War, and history has not always been kind to her reign. Many consider her short-sighted and overly concerned with promoting her son, [[Bertram I]], at the expense of his older half-siblings, [[Reginald]] and [[Hugh of Sewick|Hugh]]. Others argue that her intelligence and careful stewardship of the throne prevented further deterioration of Sembara in the aftermath of the [[Great War]].
 

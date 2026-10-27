@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/gl]
@@ -16,13 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Eldeth Redhammer
-*(EL-deth RED-ham-er)*
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (she/her), of the [[Redhammers]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Eldeth is a talented, if eccentric, artificer. She is known locally in [[Voltara]] as a reputable buyer of gemstones, and is part of a loose community of scholars, wizards, and others attempting to better understand the exact nature of [[chalyte]].
 

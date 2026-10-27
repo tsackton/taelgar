@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -10,9 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Void Mind
->[!info]+ Information  
-> A [[High Gods|high god]]
+```taelgar-header
+```
 
 The Void Mind, alien and not understood, without power, without any ability to reach the material world, is also a high god of a kind, also distant and uncaring of prayer and belief, but dedicated to emptiness, to undoing the creation of the multiverse and all of the work and creation of the [[Divine Presence]]. Whether cults of worship to the Void exist is not recorded in lore. 
 

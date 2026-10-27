@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -9,7 +8,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Sembaran Funerary Traditions
+```taelgar-header
+```
 
 The funerary traditions in [[Sembara]] are heavily derived from the ancient [[Drankorian Funeral Traditions]], but also inspired in part by the [[Kestavan Funerary Traditions|kestavo religion]] that has been present in the [[Semb]] river valley for eons. 
 

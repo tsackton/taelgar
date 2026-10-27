@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/ai]
@@ -10,10 +9,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1748
 ---
-# The Chasa River Valley
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Chasa river valley is a broad, fertile basin, a major agricultural heartland of the [[Chardonian Empire]], where terraced vineyards and fields of grain spread from the lowlands near [[Chardon]] and the confluence of the [[Chasa]] and the [[Nahadi]], to the gentle foothills of the interior. Winters are soft and rain-laden; summers arrive warm and bright, yielding long growing seasons that make the region famed for its wines. Inland, the seasons sharpen, with hot summer afternoons and occasional frosts in winter, yet rainfall remains ample, feeding vast evergreen forests. The valley’s mosaic of rich soils, reliable rains, and varied elevations underpins a thriving agrarian culture and busy river trade.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:32:28-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -7,7 +6,9 @@ campaign: Dunmar Frontier
 name: "Iskra's Story"
 POV: 1748
 ---
-# Iskra's Story
+```taelgar-header
+```
+
 ([[Session 81 (DuFr)|collected by]] [[Kenzo]])
 
 As [[Kenzo]] spends an afternoon with [[Iskra]], he hears her story.

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Abyssal Trench
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Abyssal Trench is a poorly characterized region of the [[Elemental Plane of Water]], the deepest and darkest part of the plane, where no light reaches. While it has been described by planar geographers, reliable information is scarce on the [[Material Plane]], and the [[Marid|marids]] and others of the [[Elemental Plane of Water]] do not speak of it at length. 
 

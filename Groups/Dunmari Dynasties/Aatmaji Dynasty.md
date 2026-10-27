@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<ancestry:UA> <typeof>"}
@@ -13,11 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Aatmaji Dynasty
-*(AAT-mah-jee)*
->[!info]+ Information  
-> A [[Dunmar|Dunmari]] dynasty  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 %% have a full list of Samraats of this dynasty in DM notes FWIW%%
 

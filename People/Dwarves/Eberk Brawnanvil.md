@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -16,12 +15,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Eberk Brawnanvil
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% some color notes from Riswynn's backstory to copy %%
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -12,11 +11,8 @@ pronunciation: ay-DWAR
 knownTo: [clee]
 POV: modern
 ---
-# Edouard of Peydon
-*(ay-DWAR)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 Edouard was the ferryman at [[Peydon]] and a member of [[Gareth of Tollen|Gareth’s]] criminal gang. He later worked for the [[Midnight Lady]], helping draw travelers into her debt. He was killed after escaping custody following her death.
 

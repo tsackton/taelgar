@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -21,13 +20,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# Tharandros
-*(tha-RAN-dros)*
->[!info]+ Biographical Info  
-> A [[Centaurs|centaur]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on April 12th, 1748 in [[Samtal]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
->> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on June 1st, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 ![[tharandros-final.png|right|400]]A centaur, the leader of a wandering herd, of indeterminate age. Wise and knowledgeable.
 

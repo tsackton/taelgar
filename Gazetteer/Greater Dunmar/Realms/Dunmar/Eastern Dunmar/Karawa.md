@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/text, status/check/lint]
@@ -12,9 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Karawa
->[!info]+ Information
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %%reorganize into a cleaner format%%
 

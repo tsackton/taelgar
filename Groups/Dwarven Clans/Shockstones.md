@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Shockstone Clan
->[!info]+ Information  
-> A [[Dwarves|dwarven]] clan  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Shockstones are one of the most prominent dwarven clans in [[Am'khazar]], and the de facto rulers of [[Zarkandur]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Cleenseau
@@ -18,7 +17,8 @@ sessionKey: cleenseau-session-13-1
 session-template: cleenseau-template.md
 POV: 1720
 ---
-# Cleenseau - Session 13.1
+```taelgar-header
+```
 
 >[!info] An Evening in Corrine's House: in which the party talks with Corrine after dinner
 > *Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], and [[Celyn]]*

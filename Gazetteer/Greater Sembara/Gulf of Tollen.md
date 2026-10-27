@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# The Gulf of Tollen
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Gulf of Tollen is a gulf within the [[Western Gulf]], at the mouth of the [[Volta]]. Its islands contain naval fortifications maintained by [[Tollen]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -14,10 +13,8 @@ dm_owner: schwartz
 dm_notes: none
 POV: 1740
 ---
-# Prisoner in the 27th Room
->[!info]+ Biographical Info  
-> An unknown  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Prisoner in the 27th Room is an alien being from an unknown [[Far Realms|Far Realm]] beyond the known borders of the [[Multiverse]]. It was imprisoned by the [[Arithrimos Lamperum]] in a central prison chamber of the [[27th House]], in the [[Twilight Kingdom]], for many years, its prison and the building around it maintained by the magical force of souls held by the Prisoner attempting to reach the [[Land of the Dead]]. Outside the prison, it could/can perceive the complete shape of its past, present, and future; the movement of the prison through space and time is/was the only thing that kept/is keeping the Prisoner trapped.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -14,10 +13,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# Lena Sorokina
->[!info]+ Biographical Info  
-> An [[Ursk|Urskan]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[lena-portrait-v5.jpg|right|400]]Lena is a member of the magical [[Eyes of Vedmakov|Watchers]], known for her political connection among several of the [[Rodnya|rodnye]]. She is also well-connected among the elite of [[Zvervinka]], though what her actual title and position in the [[Eyes of Vedmakov|Watchers]] is is not clear.
 

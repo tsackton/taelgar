@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# Tollen Dyes
->[!info]+ Information  
-> (material)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 ![[tollen-red-cloak.jpg|right|300]]The city of Tollen is famous for producing a variety of dyes, both [[Tollen Magical Tattoo|magical]] and mundane. The most distinctive of these is Tollen red, a brilliant, bright vermillion red with excellent color fastness, used in particular to make distinctive bright Tollen red cloaks.
 

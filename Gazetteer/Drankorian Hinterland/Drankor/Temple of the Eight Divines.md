@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,10 +13,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Temple of the Eight Divines
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Temple of the Eight Divines is the greatest surviving holy site in the ruins of [[Drankor]], dedicated to the [[Mos Numena Pantheon|Eight Divines]]. Though the city around it is choked by jungle and shadow, the temple’s interior remains miraculously preserved: a vast central chamber beneath a mirrored dome, warmed by divine radiance, with a marble‑and‑gold altar at its heart. Eight chapels radiate outward, each dedicated to one of the [[Mos Numena|Eight Divines]]. 
 

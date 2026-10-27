@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -10,11 +9,8 @@ pronunciation: GOT-ar-bayn
 whereabouts: Duchy of Wisford
 POV: modern
 ---
-# Gottarbain
-*(GOT-ar-bayn)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Gottarbain is a hill northwest of [[Fellburn]], with low foothills extending toward the town’s walls. Patches of oak woodland break up its grassy slopes, and exposed stone marks its broad summit.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-08T22:15:48-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,12 +15,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Ra'ghemdros
-*(rah-GHEM-drohs)*
->[!info]+ Biographical Info  
-> A [[Dragons|dragon]] (black dragon) (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Ra’ghemdros, the Light Stealer and the Final Shadow, the Devourer of Drankor and the Last Empress of Hkar, the Eternal Night and the Enslaver of the Secret Sunset, is an ancient black [[Dragons|dragon]] and a daughter of [[Cha'mutte|Cha’mutte]]. 
 

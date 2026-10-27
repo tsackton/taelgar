@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, status/check/lint]
@@ -9,7 +8,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Ghesyn
+```taelgar-header
+```
 
 Ghesyn, often titled the Goddess of the End and the Hopeless One, is a feared figure associated with the curse of undeath, rumored to have been spawned from the union of [[G'Zab]] and [[Jinnik]]. 
 

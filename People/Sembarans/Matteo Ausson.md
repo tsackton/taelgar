@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720s
 ---
-# Matteo Ausson
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[matteo-ausson.png|right|320]]One of the sons of [[Arnaud Ausson]], something of a ne'er-do-well. Rumored to have been the lover of [[Rinault Essford|Rinault]] in the summer of 1719, and still hangs around [[Rinault Essford|Rinault]] and his cronies. Also rumored to have been involved in the death of his sister Lizette when he was 10, but no one knows the details. He is the first of his family to truly embrace his [[Sembara|Sembaran]] adopted homeland and is rarely interested in listening to his father's tales of home, although he is happy to spend his father's money.
 

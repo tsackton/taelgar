@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -12,9 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Camilla of Drankor
->[!info]+ Biographical Info  
-> A [[Drankorian Empire|Drankorian]] [[Humans|human]] (she/her)
+```taelgar-header
+```
 
 %% timing presumed to be Golden Age era, certainly pre-Civil War, but not firmly established %%
 

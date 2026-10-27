@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -10,10 +9,8 @@ name: "Agata's Wooden Figurines"
 knownTo: [dufr]
 POV: 1748
 ---
-# Agata's Wooden Figurines
->[!info]+ Information  
-> ([[Fey]] figurine)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A collection of detailed, lifelike wooden carvings of people found in Agata's house, all of which radiate complex transmutation magic.
 

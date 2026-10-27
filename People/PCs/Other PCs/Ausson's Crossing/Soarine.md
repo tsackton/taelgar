@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,11 +15,8 @@ dm_owner: player
 dm_notes: important
 POV: 1688
 ---
-# Soarine
-*(SOAR-een)*
->[!info]+ Biographical Info  
-> A [[Duchy of Maseau|Mazeanne]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 Soarine is a former retainer from [[Duchy of Maseau|Maseau]] who acquired mysterious magical powers while investigating a failed mining expedition in the abandoned dwarven mines. After quarreling with his family, he left the duchy and supported himself by helping people on the road while seeking to understand his powers.
 

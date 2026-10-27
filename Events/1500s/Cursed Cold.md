@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Cursed Cold
-
->[!info]+ Event Summary
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The Cursed Cold was a five‑month calamity that spread from the [[Plaguelands]] into the borderlands of [[Tyrwingha]], [[Addermarch]], and southern [[Sembara]], as far as parts of the [[Enst]] valley, in DR 1583. In areas affected by the curse, fire radiated cold, not heat, and the days got colder as the sun rose, warming at night. Cooking was impossible, and plants began to freeze and die. Famine and death spread quickly, as many fled the affected regions (which, fortunately, did not include [[Tafolwern]] or [[Eskbridge]], but did include many smaller villages in eastern [[Addermarch]], [[Tyrwingha]], and the lower [[Enst]]). Many people blamed the Cursed Cold on divine retribution for [[Anne]]'s magic.
 

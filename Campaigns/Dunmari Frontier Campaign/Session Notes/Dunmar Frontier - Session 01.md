@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Dunmar Frontier
@@ -16,7 +15,8 @@ tagline: "in which the party meets and confronts dangers in Karawa"
 sessionKey: dunmari-frontier-session-1
 session-template: dunmar-frontier-template.md
 ---
-# Dunmari Frontier - Session 1
+```taelgar-header
+```
 
 >[!info] Hyena Rampage: in which the party meets and confronts dangers in Karawa
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], and [[Seeker]]*

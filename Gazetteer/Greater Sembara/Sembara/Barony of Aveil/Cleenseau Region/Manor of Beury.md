@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Manor of Beury
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Manor of Beury was split from the baronial demesne in the years after the Great War, and has been held by the Murtha family for five generations. It contains the richest farmland in the [[Cleenseau Region]] and the wheat and barley grown here are a common sight at the [[Cleenseau]] markets. The Murthas have been careful stewards of the land, and much of the land is part of the manorial demesne and either farmed directly by the lord or leased out, which provides a significant source of income. The Murthas employ the only blacksmith in the village and have historically discouraged competition, and collect a market fee from anyone selling goods at the Beury market.
 

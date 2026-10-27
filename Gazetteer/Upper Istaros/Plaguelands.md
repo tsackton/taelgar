@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Plaguelands
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Plaguelands are a region centered around the upper [[Istaros]] and the ruined city of [[Isingue]] that was heavily affected by [[Cha'mutte's Plague]] at the end of the [[Great War]]. What few tales come out of the Plaguelands hint at strange magic, unnatural features, and chaotic monstrosities. 
 

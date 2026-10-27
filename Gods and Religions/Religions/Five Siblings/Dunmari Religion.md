@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -10,7 +9,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Dunmari Religion
+```taelgar-header
+```
 
 
 The religion of the Dunmari is an old religion, adapted and evolved from the old ways when the Dunmari were a nomadic people living far to the south, before they settled among the ruins of [[Drankorian Empire|Drankor]]. The Dunmari worship a [[Dunmari Pantheon|family pantheon]], the Five Siblings, along with other minor gods and goddesses. 

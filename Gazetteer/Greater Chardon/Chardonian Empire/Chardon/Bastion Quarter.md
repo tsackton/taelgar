@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>"}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Bastion Quarter
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Bastion Quarter, often just called the Bastion, occupies the area near the [[Trade Gate (Chardon)|Merchant's Gate]] where the [[North Road|northern trade road]] passes through the [[North Wall (Chardon)|North Wall]], extending south and southeast towards the river and the [[River Bridge (Chardon)|River Bridge]]. It is a relatively prosperous district, dotted with warehouses, inn, and taverns serving the overland trade from the [[North Road]], though the nicer manors tend to be upslope, in the Summer Quarter. 
 

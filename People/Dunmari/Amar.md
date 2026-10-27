@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -21,14 +20,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Amar
-*(uh-mur)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 19th, 1748 in the [[Akela Inn]], on the [[Tokra-Darba Road]], in [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 The innkeeper of the [[Akela Inn]], a fortified waystation and caravanserai on the road from [[Tokra]] to [[Darba]], near the [[Copper Hills]]. 
 

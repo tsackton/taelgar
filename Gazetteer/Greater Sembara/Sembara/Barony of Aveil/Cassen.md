@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720
 ---
-# Cassen
->[!info]+ Information  
-> pop. 35  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A small village on the [[Great South Road]] between [[Dallet]] and [[Champimont]]. It was recently decimated by the [[Undead Attacks in Sembara]] and much of the population was killed, including most of the lord's guard.
 

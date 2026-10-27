@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: Scepter of Command Vision
 POV: 1748
 ---
-# Scepter of Command Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 
 As you hold up the scepter, concentrating on the story of the last person who wielded it, you see, for a moment, [[Agata]] holding the scepter. A look of power, joy, and intense desire is on her face as she grabs hold of it. As she grabs it, you can just glimpse her other hand passing someone an elaborate scroll case, the end cap familiar. It is the same [[Ivory Scroll Case]] of the scroll case you found in [[Raven's Hold]], left in the dust and sand of the summoning circle there. 

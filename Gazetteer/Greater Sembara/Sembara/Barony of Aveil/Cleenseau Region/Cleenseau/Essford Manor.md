@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-29T18:22:03-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,10 +12,8 @@ dm_owner: mike
 dm_notes: color
 POV: modern
 ---
-# The Essford Manor
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The keep of the lord of Cleenseau, it is set on a small hillock inside the walls, and is defended by its own wooden palisade.  The manor complex itself consists of four buildings: a stable, a small shrine to the Night Queen, a guardhouse and barracks with several guest rooms, and the two-story manor building itself, with a main basement and root cellars below.
 

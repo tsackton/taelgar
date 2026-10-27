@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T23:44:57-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -23,14 +22,8 @@ dm_owner: player
 dm_notes: none
 POV: 1715
 ---
-# Fazoth de Brune
-*(fah-ZOTH duh BROON)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[Addermarch Mercenaries]], and the [[de Brunes]]  
-> [Character Sheet](https://www.dndbeyond.com/characters/131334028)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[assets/fazoth-full.png|right|400]]Fazoth de Brune, a younger son of the wealthy de Brune family, was born on his family's manor on the outskirts of [[Eskbridge]], a fortified town along the [[Enst]] river. He grew up grew up with a life of privilege, thanks to his family's wealth and position. 
 

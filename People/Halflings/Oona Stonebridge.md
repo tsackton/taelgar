@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,12 +19,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1710s
 ---
-# Oona Stonebridge
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (she/her), of the [[Stonebridges]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on April 25th, 1715 in [[Valcroix]], [[Carlinshire]], [[Addermarch]] %%^End%%
+```taelgar-header
+```
 
 Oona Stonebridge is a wanderer and merchant, who unlike much of her sedentary family, has wandered for most of her life, usually without a set purpose or direction. She enjoys meeting new people, and often hires guards as much for the company as the protection.
 

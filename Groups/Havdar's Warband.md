@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -19,11 +18,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1750
 ---
-# Havdar's Warband
->[!info]+ Information  
-> A [[Dunmar|Dunmari]] warband  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% metadata still needs a little cleanup w/r/t Siblings War, etc %%
 

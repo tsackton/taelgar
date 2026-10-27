@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [power, religion/tanshi, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Yalik'i
-*(yah-LEEK-ee)*
->[!info]+ Information  
-> A [[Tanshi|tanshi]] , part of the [[Meswati]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The [[Tanshi]] of crisp, cold weather, frosty mornings and autumn rains. Particularly fond of the first frost of the year, when it is said they exert all their power to listen everywhere. Associated with the clear thoughts of a sharp, crisp morning.
 

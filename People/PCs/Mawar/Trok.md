@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,10 +17,8 @@ dm_owner: player
 dm_notes: important
 POV: 1740s
 ---
-# Trok
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (salt) (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Trok is an outcast lizardfolk warrior, covered in tattoos, with an unhealthy relationship to [[Gatza]]: he is something of a recovering addict, who remains somewhat estranged from his family. He lives on the beach north of the Drowned Flats neighborhood of Hamri. He is a skilled tattoo artist, and his animal tattoos give him strength and power.
 

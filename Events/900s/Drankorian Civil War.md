@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.20
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -12,9 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Drankorian Civil War
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 A civil war fought between Emperor Helea and her allies, and Omnis Pura and their allies. Won by Omnis Pura in DR 971, with the death of Emperor Ysabel (known in later years as the Pretender). 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,10 +14,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1540s
 ---
-# Willow Wind
->[!info]+ Biographical Info  
-> A fox (spirit) (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A mystical fox spirit, the companion of [[Beryl]]
 

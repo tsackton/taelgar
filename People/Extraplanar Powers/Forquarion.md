@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T23:30:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/mike]
@@ -16,12 +15,8 @@ whereabouts:
 knownTo: [itc]
 POV: 1730
 ---
-# Forquarion
-*(for-KWAH-ree-on)*
->[!info]+ Biographical Info  
-> A [[Fey|fey lord]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Forquarion the Frostbinder is a fey lord who rules [[Melusa]] from a floating palace of ice. The villagers of Melusa call him Malquin the Vaqar, and regard him as [[Zeyfa]]'s lieutenant; some worship him.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -12,9 +11,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# The Conclave War
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The Conclave War was one of the defining conflicts of the [[Blood Years]] in [[Greater Chardon]]. It was fought between the armies of Chardon and allies, including a large host of [[Elves]] and [[Deno'qai]], and a large part of the remnants of Cha'mutte's northern armies, led by a conclave of dragons. The Conclave War was very destructive, particularly in [[Ainumarya]], and the fate of the large bulk of the elves who once called [[Ainumarya]] home is still unknown.
 

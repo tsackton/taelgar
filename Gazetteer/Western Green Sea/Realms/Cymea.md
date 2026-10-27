@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Cymea
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Cymea is a region of coastal city‑states and river towns spread across the [[Cymean Peninsula]] on the [[Western Green Sea]]. Once a prominent Drankorian province, noted for the maritime skill of its sailors, Cymea today is a loose tapestry of independent polities that trade, rival, and occasionally ally with one another. Nonetheless, Cymea still largely looks to the sea: harbors line the peninsula’s shores, and most of the prominent Cymea cities are ports.
 

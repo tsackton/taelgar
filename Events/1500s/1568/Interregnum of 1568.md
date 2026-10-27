@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/mike]
@@ -10,9 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Interregnum of 1568
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 %% adding status/check/mike to all Sembaran events %%
 

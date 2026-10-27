@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -12,10 +11,8 @@ affiliations:
 knownTo: [clee]
 POV: 1720
 ---
-# Hugh Cosson
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Hugh Cosson is a Sembaran actor with [[Mahaut's Miracle Players]]. After the siege of [[Fellburn]], he traveled with [[Charlotte of Mahaut's Players|Charlotte]] to the [[Oracle of Hope]]. His family planned to return to [[Orbas]].
 

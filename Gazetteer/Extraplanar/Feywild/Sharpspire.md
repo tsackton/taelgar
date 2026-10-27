@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Sharpspire
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Once the realm of a powerful fey, since the end of the [[Great War]] it has been uninhabited and dangerous. Little is known of what is here, but it is powerful and dangerous enough that even the [[Lightdancer]] and [[Lord Umbraeth]], the lords of two neighboring realms, and enemies, for the most part, have unified several times to defend against incursions.
 

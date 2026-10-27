@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,11 +13,8 @@ whereabouts: Izgil Moonseeker
 knownTo: [clee]
 POV: modern
 ---
-# Ring of Sorcerous Restoration
->[!info]+ Information  
-> ([[Dwarves|Dwarven]] magical ring)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[izgil-ring-of-restore.png|right|420]]A thick golden ring, set with a small ruby and carved with the dwarven runes for ‘knowledge’, ‘magic’, and ‘rebirth’. Found in the ruined hobgoblin fort beneath Cleenseau.
 

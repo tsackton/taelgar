@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [creature, status/check/lint]
@@ -9,7 +8,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Hobgoblins
+```taelgar-header
+```
 
 For most people in the modern day, hobgoblins are associated with the thud of iron-shod boots marching in lockstep; perfect, disciplined ranks of pikes; the ashy burning smell of fire sorcerers in the aftermath of battle. They formed the backbone of the armies of Cha'mutte during the Great War, and in the years since have remained a significant and often implacable enemy of many human (and other) realms. News of hobgoblin armies brings terror to cities and towns, for stories speak of their grim habit of turning captured towns into brutal work-camps, or worse. Among priests, theologians, and theological cosmologists, it is claimed that hobgoblins have no soul, no connection to any of the [[Divine Realms]], and indeed many suspect that they actively repel the [[Divine Presence]] and its creations.
 ## Appearance

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-13T12:24:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,13 +19,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1715
 ---
-# Caradoc
-*(CARE-uh-dock)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Hired the [[Addermarch Mercenaries]] on May 2nd, 1715 in [[Roscombe]], [[Carlinshire]], [[Addermarch]] %%^End%%
+```taelgar-header
+```
 
 Caradoc is a reclusive alchemist of the highlands of [[Carlinshire]], who maintains a simple cottage and laboratory outside [[Brantor]]. He is a regular presence in [[Roscombe]] on market days, where he meets clients, arranges commissions, and occasionally sells minor potions and ointments to the populace and travelers. Despite his age, Caradoc moves with crisp intention. He has short white hair, keen green eyes, and a habit of weighing every bargain against risks that are not always obvious to those he deals with. 
 

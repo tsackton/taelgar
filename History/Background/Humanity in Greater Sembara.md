@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/errors, status/check/lint]
@@ -9,7 +8,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Humanity in Greater Sembara
+```taelgar-header
+```
 
 %% probably needs a review for canon content but isn't immediately obvious there are errors here %%
 

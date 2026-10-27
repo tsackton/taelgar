@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -14,10 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Wistel
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A major river in [[Sembara]], the Wistel rises in the foothills of the [[Sentinel Range|Sentinels]] and flows east across the western marches before mingling with the [[Enst]] through the wetlands of [[Ozabal|Ozabal Swamp]]. From there the combined waters reach the [[Western Gulf]] of the [[Green Sea]]. 
 

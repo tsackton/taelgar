@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -11,9 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Thardrum Deepseeker
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him)
+```taelgar-header
+```
 
 Thardrum Deepseeker was an ancient dwarven scholar who wrote about the [[Far Realms]], best remembered for his claim that all Far Realms need be home to dangerous and evil creatures.
 

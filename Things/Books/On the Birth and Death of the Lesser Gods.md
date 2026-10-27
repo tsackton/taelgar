@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-28T21:08:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -15,10 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# On the Birth and Death of the Lesser Gods
->[!info]+ Information  
-> A [[Dunmar|Dunmari]] theological treatise, written in the DR 1670s, by Esa  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 *On the Birth and Death of the Lesser Gods* is a work by Esa, a Lakan scholar who wrote in the 1670s. Esa examines minor divinities that seem to arise and disappear, comparing several traditions that Dunmari theology groups uneasily under the category of lesser gods. Much of the work concerns a group of deities often linked in [[Dunmari Religion|Dunmari religious traditions]]: [[Bhishma]], [[Shakun]], and [[Adra]]. In classical Dunmari teaching, these deities are believed to have  received divinity from [[Dunmari Religion|the Five Siblings]], who bestowed part of their power upon those who would otherwise have remained mortal.
 

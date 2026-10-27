@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/name]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# The Outer Ocean
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Outer Ocean lies beyond the [[Eastern Isles]], outside the enclosed waters of the [[Green Sea]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,11 +16,8 @@ dm_owner: mike
 dm_notes: important
 POV: 1720
 ---
-# Sarabeth Asa
-*(SAIR-uh-beth AY-suh)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Sarabeth Asa was a scout and spellcaster who distinguished herself in the [[Third Hobgoblin War (Sembara)]], receiving the [[Manor of Asineau]] as a reward. Originally from a small village in the [[Mostreve Hills]], near the source of the [[Clavert]] in the [[Barony of Brumecliff]], she refounded [[Asineau]] after the war, joined by refugees from her home village.
 

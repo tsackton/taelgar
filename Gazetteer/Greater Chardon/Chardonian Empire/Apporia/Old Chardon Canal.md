@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Old Chardon Canal
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Variously referred to as the [[Chardon]] Canal, the Old [[Chardon]] Canal, the Great [[Chardon]] Canal, or just the Canal, this is an 87 mile long sea-level canal that connects the [[Endless Ocean]] near [[Chardon]] with the [[Emerald Bay]] and the [[Nevos Sea]]. 
 

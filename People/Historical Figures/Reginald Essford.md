@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -21,12 +20,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# Lord Reginald Essford
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[Essfords]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The father of [[Wymar Essford]] and the founder of [[Essford Manor]]. The husband of [[Celine Essford]]. He was granted the lordship of the newly recreated [[Manor of Cleenseau]] for valiant service during the [[Third Hobgoblin War (Sembara)|hobgoblin wars]]. 
 

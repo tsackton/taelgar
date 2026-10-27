@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -9,7 +8,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# The Echo Realms
+```taelgar-header
+```
 
 Of all the scholarly topics concerning the [[Multiverse]], by far the most contentious and debated is the nature, and even existence, of what are called the Echo Realms in the [[Standard Multiversal Model]]. These planes are traditionally defined as the extraplanar realms that are reflections, distortions, or echoes of another plane, and thus do not have a unique existence of their own. 
 

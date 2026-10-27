@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Thunderbrand
->[!info]+ Information  
-> ([[Dwarves|dwarven]] magical warhammer)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A powerful magical warhammer, of dwarven make, currently wielded by [[Adrik]]. It was lost in the [[Goldpeak Mines]] under [[Goldpeak Mountain]] for many years, with the magical shield [[Coldguard]], until both were recovered by the [[Silver Tempests]].
 

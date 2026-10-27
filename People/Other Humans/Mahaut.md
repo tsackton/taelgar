@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -11,10 +10,8 @@ affiliations:
 knownTo: [clee]
 POV: 1720s
 ---
-# Mahaut
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Mahaut is the owner, stage manager, organizer, and disciplinarian of [[Mahaut's Miracle Players]]. She gave [[Celyn]] his armor when he left the troupe.
 

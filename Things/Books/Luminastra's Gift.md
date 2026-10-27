@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AU><(, written )written:nx><(, by )author:x>", startStatus: written in}
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Luminastra's Gift
->[!info]+ Information  
-> A [[Tollen|Tollish]] play, by [[Thomas Hawke]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A popular comedic play written by [[Thomas Hawke]], a playwright in [[Tollen]]. The play tells the story of Geoffrey, a down-on-his-luck sailor shipwrecked by carelessness in a storm on the Green Sea, and Luminastra, a whale endowed with magic, who rescues him and takes him to a magical world beneath the ocean. Over the course of the play, Geoffrey encounters various strange wonders far beneath the ocean, and comes to earn a second chance. By the end, he is returned to the surface world a changed man.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the, boxInfo: ""}
@@ -11,10 +10,8 @@ dm_owner: joint
 dm_notes: none
 POV: 1720s
 ---
-# The Rangers
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% needs some updating to make less specific to 1720, and expand a little to capture vibes; e.g., well established that rangers are highly diverse species-wise and also fairly loose organizationally 
 

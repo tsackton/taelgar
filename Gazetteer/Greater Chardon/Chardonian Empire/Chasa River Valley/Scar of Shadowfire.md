@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -10,10 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Scar of Shadowfire
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Scar of Shadowfire lies along the southern bank of the [[Chasa]], a few hundred miles upriver from Chardon. It marks the site of the [[Battle of Shadowfire]], a major Chardonian defeat during the [[Blood Years]], where dragonfire destroyed the front line and scorched a barren strip nearly half a mile long in the ground. Nothing grows here, and strange mists cling to the bare earth of this site. The ruins of a temporary fortification, scorched and partially destroyed, stand within the Scar, but few dare explore them. The ruins are widely considered haunted by the many unburied dead of the [[Battle of Shadowfire]],  the soldiers of the front lines who were instantly turned to ash by dragonfire. 
 

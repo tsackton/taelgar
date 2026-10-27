@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Amberglow
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Amberglow is a fey realm, located by many sources, including [[The Lore of the Feywild]], on the southern and eastern borders of [[Shimmersong]]. This realm features frequently in the tales and legends of [[Drankorian Empire|Drankor]] as a place of great beauty, a land of constant sunsets and golden skies on wide open plains of amber grasses and lush flowers. However, more recent sources suggest that it has fallen into decay. Many fey ballads sing the tragedy of the [[Cloudspinner]], the Queen of Sunsets, who vanished long ago, and the slow destruction of her once-marvelous realm that followed. 
 

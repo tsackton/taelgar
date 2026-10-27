@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T23:14:01-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,12 +14,8 @@ dm_owner: mike
 dm_notes: important
 POV: 1720
 ---
-# Tobias of Cranford
-*(toh-BYE-us)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Tobias of Cranford is the husband of [[Juliana Westby]], lady of [[Cranford]]. They married in the autumn of DR 1720.
 

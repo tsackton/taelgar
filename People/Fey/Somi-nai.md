@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [status/cleanup/metadata, person, status/check/lint]
@@ -17,10 +16,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Somi-nai
->[!info]+ Biographical Info  
-> An [[Elementals|elemental]] ([[Elementals|fire elemental]]) (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% needs campaign info in header %%
 

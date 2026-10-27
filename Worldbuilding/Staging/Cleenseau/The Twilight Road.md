@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/mike, status/check/ai]
@@ -14,12 +13,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The Twilight Road
-
-> [!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`
-> 
-> > `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% mostly-AI stub; needs rewrite %%
 

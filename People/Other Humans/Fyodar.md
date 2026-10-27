@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1749
 ---
-# Fyodar
->[!info]+ Biographical Info  
-> An [[Ursk|Urskan]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[fyodar-portrait.png|right|400]]Fyodar is a large, burly man with a thick beard and a ready smile. He is a member of the Zvervinkan Guard, tasked with guarding the city gates and approving the entry of visitors and travelers coming to trade in [[Zvervinka]]'s markets. 
 

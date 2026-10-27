@@ -1,11 +1,11 @@
 ---
-headerVersion: 2023.11.25
 tags: [meta]
 excludePublish: ["all"]
 dm_owner: none
 dm_notes: none
 ---
-# Background
+```taelgar-header
+```
 
 This directory generally should contain **meta** pages almost exclusively. Not intended to be published, but rather intended to be a place to store canonical information that informs worldbuliding but is not directly player-facing. 
 

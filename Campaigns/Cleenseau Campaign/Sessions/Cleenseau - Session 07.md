@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 7
@@ -13,7 +12,8 @@ tagline: in which the party escapes a nightmare and discovers a necromantic illn
 sessionKey: cleenseau-session-7
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 7
+```taelgar-header
+```
 
 Izgil and Celyn become trapped in a nightmare version of [[Duskmire]] and escape with help from Robin and the [[Lantern of the Bright Hearth]]. After [[Rosalind Essford]] leaves for [[Embry]], Robin assumes temporary command of the local guard. Investigation of Duncan's missing ale leads into a wider crisis when a dead infant rises as a zombie.
 

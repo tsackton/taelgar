@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [background, religion/fivesiblings, status/check/lint]
@@ -10,7 +9,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Aagirvala
+```taelgar-header
+```
 
 [[Aagir]]'s Feast Day, celebrated on the first full moon after the autumnal equinox. 
 

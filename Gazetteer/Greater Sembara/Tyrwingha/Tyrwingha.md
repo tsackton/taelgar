@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/text, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: joint
 dm_notes: important
 POV: modern
 ---
-# Tyrwingha
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% I have various session planning and especially intra-session emails that impinge on Tyrwingha %%
 

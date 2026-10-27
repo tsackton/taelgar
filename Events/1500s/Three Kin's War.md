@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Three Kin's War
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Three Kin’s War (DR 1555–1557) united humans, lizardfolk, and stoneborn to drive hobgoblins out of the Aurbez highlands. The conflict, remembered in toponyms and local rites, forged enduring ties among frontier communities. The settlement at Three Wells takes its name from this alliance: three wells honoring each of the kin who fought side by side in the campaign.
 

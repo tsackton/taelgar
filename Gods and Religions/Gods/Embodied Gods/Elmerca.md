@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, religion/elven]
@@ -10,10 +9,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Elmerca
-*(el-MER-kah)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]]
+```taelgar-header
+```
 
 Elmerca, the Wild Star, is one of the two deities of the [[Elves]], alongside [[Aldanor]], the Living Tree. In elven lore the pair are called the Firstborn, [[Embodied Gods]] through whom the [[Divine Presence]] gave rise to elves. Elmerca is the distant light of insight, passion, and change, the mind and vision of the people, associated with the *leya*, the time of wandering in the [[Elven Cycle of Generations]]. Elmerca gifts the magic of elves, and in elven stories is associated with moments of great foresight.
 

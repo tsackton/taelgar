@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -12,9 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Marcion of Iridel
->[!info]+ Biographical Info  
-> A [[Drankorian Empire|Drankorian]] [[Humans|human]] (he/him)
+```taelgar-header
+```
 
 Marcion of Iridel was a Drankorian theological and arcane cosmologist. He wrote [[The Riven Veil]], an ancient Drankorian treatise on the origin of the [[Abyss]], and preserved fragments of [[The Unstable Sphere]], a lost work on [[Limbo]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -16,12 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Ysabel of Drankor
->[!info]+ Biographical Info  
-> A [[Drankorian Empire|Drankorian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Ysabel of Drankor was an ally of [[Helea]], and became Emperor after Helea was assassinated by the [[Omnis Pura]]. She led the losing side of the [[Drankorian Civil War]], leading her to be remembered in later histories as “the Pretender.”
 

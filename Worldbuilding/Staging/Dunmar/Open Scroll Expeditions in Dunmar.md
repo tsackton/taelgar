@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [event, status/check/ai]
 name: Open Scroll Expeditions in Dunmar
 typeOf: expeditions
@@ -10,7 +9,8 @@ partOf: Chardon-Dunmar War
 dm_owner: none
 dm_notes: none
 ---
-# Open Scroll Expeditions in Dunmar
+```taelgar-header
+```
 
 The Open Scroll Expeditions in Dunmar were a series of Chardonian scholarly, treasure-hunting, and artifact-recovery missions conducted in [[Dunmar]] before and during the early [[Chardon-Dunmar War]]. They were associated with the [[Society of the Open Scroll]], the [[Great Library|Great Library of Chardon]], private patrons, and, in several important cases, [[Fausto]] and the [[The Cleansed|Cleansed]].
 

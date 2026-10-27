@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -14,10 +13,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Way of the Stone
->[!info]+ Information  
-> An alchemical tome, written before DR 1600, by an unknown author  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 *The Way of the Stone* is a fragile alchemical tome written in Draconic. The book contains recipes for invulnerability, youth, immortality, and related elixirs. But all the recipes depend on something called the [[Prime Arcana]], which is only loosely described as a magical stone associated with transmutation magic. 
 

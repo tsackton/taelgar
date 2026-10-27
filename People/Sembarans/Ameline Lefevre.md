@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -12,11 +11,8 @@ whereabouts: Houille
 knownTo: [clee]
 POV: 1720s
 ---
-# Ameline Lefevre
-*(ah-meh-LEEN luh-FEH-vruh)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Ameline Lefevre is an herbalist in [[Houille]] who also sells charms intended to protect against magical observation.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Frostfell
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Frostfell, also known as the Elemental Plane of Ice, and identified with [[Airion]]'s Compound Elemental Realm of Cold, is a hypothesized Energy Realm, or perhaps a region of either the [[Elemental Plane of Air]] or the [[Elemental Plane of Water]], associated with cold and ice. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-29T12:34:03-04:00"
 lintVersion: "3.5"
 tags: [creature]
@@ -9,7 +8,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Elementals
+```taelgar-header
+```
 
 All elementals, from the weakest dust mephit to the great leviathans of the depths, are fundamentally bound and shaped the essence of their native plane. This is most obvious in the familiar creatures native to the Elemental Planes that serve as the conjured allies of wizards and others who summon forth beings of pure elemental energy, who take on the appearance of their elemental type. Creatures native to the Plane of Air take on the shape of clouds and wind; those native to the Plane of Fire appear as flames; those native to the Plane of Earth as stone or dirt; and those native to the Plane of Water as living waves. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Bramshire
-*(BRAM-shur)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The smallest of the three shires that owe allegiance to the Earl of the Mostreve. Bramshire is based in the northern hills of Addermarch, south of the Sembaran [[Barony of Brumecliff]]. This area was intensely fortified in the DR 1600s when the [[Shattered Ice Clan]] occupied the lands to the north, and many castles dot the hills of this land. 
 

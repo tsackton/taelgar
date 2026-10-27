@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,13 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# General Soria Caronius
-*(SOR-ee-ah kah-ROH-nee-us)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 General Soria Caronius is the current commander of the [[Fort Zarnato]], the northeastern-most fortification in the [[Chardonian Empire]]. She is a middle aged woman, heavily armored and tough, with a bit of a chip on her shoulder about the challenges and value of defending this forgotten corner of the world. 
 

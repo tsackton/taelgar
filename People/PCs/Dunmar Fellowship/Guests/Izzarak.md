@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
@@ -18,10 +17,8 @@ dm_owner: player
 dm_notes: important
 POV: 1748
 ---
-# Izzarak
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A lizardfolk shaman, traveler, and guardian to two young lizardfolk babies. Came to [[Bedez]] because he was told that the babies must get to the [[Azta Lekua|Footprint of the Gods]]. Traveled with [[Kenzo]]. After helping to heal the wounds to the [[Azta Lekua|Footprint of the Gods]], decided to stay and raise the babies in the protection of the spirits of the [[Azta Lekua]]. 
 

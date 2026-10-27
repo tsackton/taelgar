@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 21
@@ -13,7 +12,8 @@ tagline: in which Robin is abducted and the party attacks the Hunter
 sessionKey: cleenseau-session-21
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 21
+```taelgar-header
+```
 
 The party escorts the Tyrwinghan travelers south while investigating the black-glass tracking shard. False reports that the heroes are fey impostors complicate their passage. During the night, [[The Hunter]] abducts Robin; the others follow to his cave, rescue captives, and force the Hunter to retreat.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/gl, status/check/lint]
@@ -16,11 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Ralvaz
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:GL%% Rescued by the [[Silver Tempests]] on June 11th, 1747 in the [[Lonely Watchtower]], the [[Chalyte Hills|North Voltara Hills]], the [[Erbalta Plains]] %%^End%%
+```taelgar-header
+```
 
 Ralvaz is a mine captain from the chalyte mines near [[Voltara]]. He was caught up in the early raids by [[Grumella's Horde]] on [[Voltara]] trade, and was kept as a prisoner at the [[Lonely Watchtower]] by [[Raluhk]] until he was rescued by the [[Silver Tempests]].
 

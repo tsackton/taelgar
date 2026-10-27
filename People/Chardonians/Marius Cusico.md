@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-05T13:44:55-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,11 +14,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1749
 ---
-# Marius Cusico
-*(MAH-ree-us koo-SEE-koh)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Marius Cusico is a Chardonian general of considerable renown. He was a former member of the mageguard; though never the most powerful wizard he was skilled in command and worked his way up the ranks. In DR 1749, he was appointed to command the legion in the [[Chardon-Dunmar War]], proposed as a compromise acceptable to both [[Mitus Verina Auratan]] and [[Fausto]]. He was disoriented and confused after returning from the war, and soon suffered a mysterious collapse that left him unable to speak. He now lies in the care of the priests of the Hospital of the Mother.
 

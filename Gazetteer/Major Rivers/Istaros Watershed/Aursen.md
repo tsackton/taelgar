@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Aursen
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Aursen starts in the foothills of the [[Sentinel Range]], fed by snowmelt as it rushes to the flat highland basin on the [[Aurbez Plateau]], where it slows and meanders for 20 miles across marshy terrain before dropping in a series of large waterfalls off the plateau, to lower ground. This land around the upper Aursen is marshy and productive, although hard to farm. A small lizardfolk community has lived here since time immemorial, and they are much honored for the welcome and shelter they gave to the first refugees.
 

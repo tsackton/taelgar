@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -10,9 +9,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Fall of Drankor
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The Fall of Drankor is the conventional name for the collapse of the [[Drankorian Empire]] in DR 1059, when the [[First Plague]] devastated the imperial heartland. In the generations that followed, the empire’s provinces fractured into independent realms, while refugees and surviving institutions reshaped the politics and culture of the western coast and the [[Green Sea]].
 

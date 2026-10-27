@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,11 +14,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1749
 ---
-# Valeris
-*(vuh-LAIR-iss)*
->[!info]+ Biographical Info  
-> A [[Satyrs|satyr]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 >[!image|right]
 >![[valeris.jpg|400]]

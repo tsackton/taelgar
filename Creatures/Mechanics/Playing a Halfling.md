@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [meta]
@@ -8,7 +7,9 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Playing a Halfling
+```taelgar-header
+```
+
 *See more: [[Halflings]], [[First Ones]]*
 D&D Beyond Link: [Halfling](https://www.dndbeyond.com/species/1755936-halfling)
 

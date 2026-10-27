@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -7,7 +6,8 @@ campaign: Dunmar Frontier
 name: An Annotated (Partial) Map of Drankor
 POV: 1749
 ---
-# An Annotated (Partial) Map of Drankor
+```taelgar-header
+```
 
 **This is a partial copy of a copy of a report written by a Dunmari scholar based in [[Kharsan]] during the [[Aatmaji Dynasty]], apparently based in part on a Drankorian treatise on urban form and urban planning. [[Nuzkar]]'s annotations are in italics**
 

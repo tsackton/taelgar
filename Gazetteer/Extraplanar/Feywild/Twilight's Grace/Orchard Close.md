@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/mike]
@@ -9,11 +8,8 @@ pronunciation: OR-cherd KLOHZ
 whereabouts: "Twilight's Grace"
 POV: 1720
 ---
-# The Orchard Close
-*(OR-cherd KLOHZ)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Orchard Close is an enchanted orchard neighborhood in [[Twilight's Grace]], where stone cottages and communal tables seem always ready to welcome another guest. Its hostess, [[Dame Elowen]], ensures that no one lacks food or company, and visitors find the whole neighborhood eager to make them feel at home.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [power, status/gameupdate/dufr, status/check/lint]
@@ -17,10 +16,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Cloudspinner
->[!info]+ Information  
-> An archfey (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% fix whereabouts, campaign info; update page with lore about cloak of rainbows and people of the rainbow and conflict with Cha'mutte  %%
 

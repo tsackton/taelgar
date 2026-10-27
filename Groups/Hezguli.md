@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
 tags: [group]
@@ -11,11 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Hezguli
-*(hez-goo-LEE)*
->[!info]+ Information  
-> An [[Orcs|orc]] communal society  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Hezguli are a community of [[Orcs|orcs]] who were born under the sway of [[Thark]]’s curse, but freed from it as children or young adults. They have learned—often with difficulty—to live free. They are most closely associated with General [[Murook]], widely regarded as their unofficial leader. 
 

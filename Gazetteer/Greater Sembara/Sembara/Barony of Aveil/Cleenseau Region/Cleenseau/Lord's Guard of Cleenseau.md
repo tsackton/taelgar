@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: ""}
@@ -12,10 +11,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720
 ---
-# The Lord's Guard of Cleenseau
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% see lint report to resolve errors; delete block and clear status/check/lint when finished%%
 

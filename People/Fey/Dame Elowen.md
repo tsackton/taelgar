@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-05T10:54:32-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -11,11 +10,8 @@ whereabouts: Orchard Close
 knownTo: [clee]
 POV: 1720
 ---
-# Dame Elowen
-*(DAYM EL-oh-wen)*
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Dame Elowen is the fey hostess of [[Orchard Close]] in [[Twilight's Grace]]. Welcoming, maternal, and kind, she seems to know every family, recipe, and guest, ensuring that no table lacks food or company. Her appearance is difficult to recall; visitors remember her warmth more clearly than her physical features.
 

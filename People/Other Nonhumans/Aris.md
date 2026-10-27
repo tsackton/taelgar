@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,11 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Aris
-*(AH-riss)*
->[!info]+ Biographical Info  
-> A [[Centaurs|centaur]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Aris is a [[Centaurs|centaur]] warrior of [[Herasto]]'s centaur band. Young, strong, and brash, she led the centaur warriors who joined the defense of [[Voltara]] during [[Grumella's War]]. During the [[Battle of Voltara]], she fought alongside [[Adrik]] against one of [[Grumella]]'s hill giants. 
 

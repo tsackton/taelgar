@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -13,11 +12,8 @@ whereabouts:
   - {type: secondary, location: Wistel-Enst Watershed}
 POV: modern
 ---
-# Tarnslow
-*(TARN-sloh)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Tarnslow is a tributary of the [[Wistel]], meandering north and west from the northern edge of [[Cleenseau Wood]] and joining the river west of [[Ainwick]]. Its sheltered bends hold dark water, with submerged roots beneath overhanging trees.
 

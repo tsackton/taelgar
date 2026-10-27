@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -10,7 +9,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# The Downfall Wars
+```taelgar-header
+```
 
 The Downfall Wars are the name given to the cataclysmic wars that culminated in [[The Downfall]]—the fall of [[Hkar]] and the shattering of much of the old world. Human and elven chronicles describe these wars as an age of extraplanar invasion and desperate alliances, when the servants of the [[Void Mind]] burst into the world and war touched nearly every land. In modern scholarship, the Downfall Wars are remembered less for any coherent sequence of campaigns and more for their consequences: the sinking of [[Hkar]] and the reshaping of the world in its aftermath. 
 

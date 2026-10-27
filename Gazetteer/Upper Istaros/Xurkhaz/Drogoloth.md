@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -10,11 +9,8 @@ pronunciation: droh-goh-LOHT
 whereabouts: Xurkhaz
 POV: modern
 ---
-# Drogoloth
-*(droh-goh-LOHT)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Drogoloth is a mining town in [[Xurkhaz]], on the western bank of the [[Istaros]].
 

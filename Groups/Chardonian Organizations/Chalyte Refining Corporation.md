@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -13,12 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Chalyte Refining Corporation
->[!info]+ Information  
-> A [[Chardonian Empire|Chardonian]] chartered corporation  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Chalyte Refining Corporation is a chartered corporation, granted an imperial monopoly on the processing of raw [[chalyte]] ore within the Chardonian Empire. It is managed by a board of control, with equal seats for the [[Windcallers]] and the [[Guild of Chalyte Workers|workers' guilds]], with the Magistros holding the tie-breaking vote. It currently controls and operates three chalyte refineries on the [[North Bank]] of [[Chardon]]. 
 

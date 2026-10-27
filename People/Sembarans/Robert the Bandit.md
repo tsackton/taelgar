@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed by an ankheg}
@@ -18,11 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Robert
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 One of the bandits involved in the [[Attempted Poisoning of Cleenseau]]. He died of wounds inflicted by the enraged ankheg outside his hideout.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/clee, status/check/lint]
@@ -22,12 +21,8 @@ dm_owner: player
 dm_notes: important
 POV: 1719
 ---
-# Izgil Moonseeker
->[!info]+ Biographical Info
-> a [[Dwarves|dwarf]] (he/him), of the [[Gemcrafters]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[izgil-moonseeker.png|right|420]]Izgil is a stocky, hardy looking dwarf wearing leather and carrying a shield on his back. He has a sort of luminescent white/blue beard and hair worn in braids and often has books and other odd devices strapped to his gear. He comes from the [[Gemcrafters]] clan in [[Nidzahar]].
 

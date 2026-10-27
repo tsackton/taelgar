@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The Bandit's Way
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Bandit's Way is the name for the stretch of the [[Great South Road]] that passes between [[Evis]] and [[Cleenseau]] through a hundred miles of rocky shrubland. The road used to be dotted with inns and waystations, but these have fallen into disrepair since the Great War. This stretch of road is dangerous and many ex-soldiers make a living escorting caravans between [[Cleenseau]] and [[Evis]], the northernmost settlement in [[Duchy of Maseau|Maseau]] along the Great South Road.
 

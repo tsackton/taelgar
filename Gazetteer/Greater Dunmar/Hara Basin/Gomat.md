@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Gomat Oasis
-*(GOH-maht oh-AY-sis)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A small oasis on the very eastern edge of [[Dunmar]], about 40 miles east of [[Karawa]]. The oasis is a rocky area with a few bits of scrub, around a somewhat muddy open pool. Some trees provide a bit of shade, and the terrain to the north and west is more scrubland than pure desert.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 6
@@ -11,7 +10,8 @@ name: Addermarch Campaign - Session 6
 tagline: in which the party faces a burrowing menace
 descTitle: The Ankheg of Fontwick
 ---
-# Addermarch Campaign - Session 6
+```taelgar-header
+```
 
 >[!info] The Ankheg of Fontwick: in which the party faces a burrowing menace
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

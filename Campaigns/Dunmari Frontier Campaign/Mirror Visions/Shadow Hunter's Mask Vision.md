@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: "Shadow Hunter's Mask Vision"
 POV: 1748
 ---
-# Shadow Hunter's Mask Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 
 The image in the mirror shows a room, underground, lit only by candle light and two torches burning on the wall. A man is tied to a chair – the same face that the shadow hunter you killed had after he died. But the bonds look loose, and the man is not resisting. He seems to be staring off into space, unaware of his surroundings.

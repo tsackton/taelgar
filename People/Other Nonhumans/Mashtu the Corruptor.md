@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,11 +14,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Mashtu the Corruptor
->[!info]+ Biographical Info  
-> A demon  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Banished to the [[Abyss]] by the [[Dunmar Fellowship]] on December 22nd, 1748 in [[Vetta]], [[Skaerhem]] %%^End%%
+```taelgar-header
+```
 
 ![[mashtu-the-corrupter.png|right|420]]A powerful demon of the [[Abyss]], known for desiring the defiling of sacred waters across the [[Green Sea]].  
 

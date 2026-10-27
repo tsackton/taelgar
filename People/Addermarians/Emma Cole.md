@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,13 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Emma Cole
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 22nd, 1715 in [[Roscombe]], [[Carlinshire]], [[Addermarch]] %%^End%%
+```taelgar-header
+```
 
 Emma Cole is a curious and excitable young woman who works as a chambermaid at [[The Traveler's Rest]] in [[Roscombe]], alongside her uncle [[Bertrand LeBlanc]]. 
 

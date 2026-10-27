@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<ancestry:UA> <typeof:sAU> <(()pronouns())>, <(part of )primary>"}
@@ -17,11 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Guzo the Mariner
-*(GOO-zoh)*
->[!info]+ Information  
-> A [[Mawar Confederacy|Mawaran]] saint (he/him), part of [[Mos Numena]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Guzo the Mariner, known as "the ancestor of voyages and the western horizon," is a Mawaran hero and saint associated with [[Hamri]], ocean voyages, and protection for those lost at sea. In Mawaran local religious practice, prayers to the [[Mos Numena|Eight Divines]] often pass through Guzo and other heroic ancestors as saintly intercessors to the [[Mos Numena Pantheon|Eight Divines]].
 

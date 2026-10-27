@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Bloomswell
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Bloomswell is a poorly described [[Energy Realms|Energy Realm]], associated by [[Airion|Airion the Mistspeaker]] with abundance, and described as a vast ocean bursting with color, lush with vibrant life filling the waters of the realm. 
 

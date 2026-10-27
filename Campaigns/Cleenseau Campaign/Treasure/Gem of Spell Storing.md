@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,11 +13,8 @@ whereabouts: Izgil Moonseeker
 knownTo: [clee]
 POV: modern
 ---
-# Gem of Spell Storing
->[!info]+ Information  
-> ([[Fey]] magical gem)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[gem-of-spell-storing.png|right|400]]This swirling gem appears to contain a constantly swirling light, and emits a very faint red glow. It was taken from [[Areschera]] after her death in [[Veltor]].
 

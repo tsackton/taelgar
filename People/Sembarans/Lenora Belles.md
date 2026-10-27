@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T19:36:25-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,11 +15,8 @@ dm_owner: mike
 dm_notes: important
 POV: 1720
 ---
-# Lenora Belles
-*(leh-NOR-uh BELL)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Lenora Belles is a paladin of [[The Night Queen]] from [[Embry]], prominent in the goddess’s councils. She rides a jet-black pegasus named Tinugin.
 

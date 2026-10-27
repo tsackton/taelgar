@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -20,12 +19,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Dworic
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by [[Riswynn]] on August 19th, 1748 in [[Bleakhold]], [[Morkalan]], the [[Shadowfolds]] %%^End%%
+```taelgar-header
+```
 
 A dwarven smith, born in [[Ardith]] before the [[Great War]]. He was trapped there after the war, but rescued by an expedition sent from [[Nardith]] in DR 1575, led by [[Nora Silverspark|Nora]] Silverspark and [[Hagrim]] Firebrand. Trapped in the [[Shadowfolds]] realm of [[Bleakhold]] after the rescue mission failed. 
 

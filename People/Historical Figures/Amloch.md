@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T19:05:00-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Amloch
-*(AM-lock)*
->[!info]+ Biographical Info  
-> A [[Hkar|Hkaran]] [[Humans|human]] (he/him)
+```taelgar-header
+```
 
 Amloch was a wizard who lived in [[Hkar]] before the [[The Downfall|Downfall]], and is chiefly known for the [[Binding Stones]], a powerful magical artifact attributed to him.
 

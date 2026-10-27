@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,12 +12,8 @@ dm_owner: mike
 dm_notes: important
 POV: 1720
 ---
-# Valit
-*(Val-le)*
->[!info]+ Information  
-> pop. 249  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A small village overseen by the castellan of the [[Manor of Valit]] of about 50 houses scattered a little more widely than most of the other villages in the region. There are no walls, although the manor complex is walled and fortified and can shelter the population of the village in times of need. The most notable features of the village are the wooden bridge over the [[Amance Brook]], and the three mills built along the brook, as well as the large two-story wooden manor with several outbuildings, rebuilt about 30 years ago after a fire. The manor complex includes a land registry, a temple to the Wildling, a stable, and a blacksmith. Just under the eaves of the [[Cleenseau Wood]], is another small ancient shrine to the Wildling, said to date back
 ### Notable People

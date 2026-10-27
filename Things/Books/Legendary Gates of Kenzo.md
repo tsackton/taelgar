@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author:x>", startStatus: written in}
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Legendary Gates of Kenzo
->[!info]+ Information  
-> A [[Dwarves|Dwarven]] illustrated story, by [[Seeker]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 An illustrated story first written by Seeker in DR 1748, innovating with the literary art forms of Taelgar. Two copies are known. One was gifted by [[Seeker]] to the Dunmari [[Saka]]; the other to the fey [[Caelynn]].
 

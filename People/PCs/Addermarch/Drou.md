@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,13 +19,8 @@ dm_owner: player
 dm_notes: none
 POV: 1715
 ---
-# Drou
-*(DROO)*
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (she/her), of the [[Addermarch Mercenaries]] ([[Elven Cycle of Generations|ka]] 37)  
-> [Character Sheet](https://www.dndbeyond.com/characters/131356005)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[assets/drou-large.png|right|400]]Drou is a graceful dancer, singer, and musician from [[Orenlas]], who has wandered around [[Tyrwingha]] and [[Addermarch]] bringing joy to people's lives through music and dance.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Calenya
-*(kah-LEN-yah)*
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (she/her), ([[Elven Cycle of Generations|ka]] unknown)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Calenya of [[Orenlas]] is an elven poet who wrote extensively on the wonders and strangeness of the [[Feywild]].
 

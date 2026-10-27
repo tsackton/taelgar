@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -17,11 +16,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Zakat
-*(zuh-KAHT)*
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Zakat is a mysterious city on the north coast of the [[Green Sea]], and the westernmost of the handful of open ports where foreigners are allowed to trade in the country of [[Ursk]]. 
 

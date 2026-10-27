@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {partOf: ""}
@@ -17,12 +16,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The People of the Rainbow
->[!info]+ Information  
-> An [[Orcs|orc]] clan  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% Whereabouts date qualifications preserved from frontmatter:
 - Entry {type: home, end: 940, location: Amberglow}: #end is +/- 10 years

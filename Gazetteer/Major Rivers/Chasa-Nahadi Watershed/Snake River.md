@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/name, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Snake River
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Snake River is a long, meandering river that flows east of [[Voltara]] through the grasslands of the [[Erbalta Plains]], forming one of the two great drainage branches of the northern [[Chasa-Nahadi Watershed]]. The Snake River marks the eastern extent of [[Greater Voltara]], and a small [[Chardonian Empire|Chardonian]] fort, the [[Snake River Fort]], guards the one easy crossing. 
 

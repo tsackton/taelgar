@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,12 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Praecanti Vigiles
-*(pry-KAHN-tee VEE-gel-ays)*
->[!info]+ Information  
-> The [[Chardonian Empire|Chardonian]] mage guard  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Praecanti Vigiles, often called "the Vigiles" or the mage guard, are the public-facing magical guard that protects [[Chardon]], functioning as a mix between a city watch and a local defense force. 
 

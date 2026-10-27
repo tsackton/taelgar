@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: color
 POV: 1719
 ---
-# Erdu
->[!info]+ Biographical Info  
-> A [[Lizardfolk|lizardfolk]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[lizardfolk-erdu.png|right|320]]The spokesperson for the village of [[Ganboa]] when dealing with humans. Older, with graying scales. Has a relatively low opinion of humans, all things considered. His family has lived along the Enst for hundreds of years (he says), and he is skeptical of [[Sembara|Sembaran]] claims to the land. 
 

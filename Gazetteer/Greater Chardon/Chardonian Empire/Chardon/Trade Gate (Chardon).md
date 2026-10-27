@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/name]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Merchants's Gate
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Merchants's Gate is the principal gate through the [[North Wall (Chardon)|North Wall]] by which the northern trade road enters [[Chardon]]. The neighborhoods immediately inside the gate—especially the [[Bastion Quarter]]—are full of inns, taverns, and warehouses catering to river and overland merchants.
 

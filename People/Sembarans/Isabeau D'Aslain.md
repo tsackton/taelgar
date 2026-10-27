@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/clee, status/check/lint]
@@ -20,12 +19,8 @@ dm_owner: mike
 dm_notes: important
 POV: 1720
 ---
-# Baroness Isabeau D'Aslain
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[d'Aslains]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[baroness-isabeau.png|right|320]]The baroness of the [[Barony of Aveil]]. 
 

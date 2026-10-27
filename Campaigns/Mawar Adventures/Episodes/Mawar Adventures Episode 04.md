@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags:
   - session-note
 campaign: Mawar Adventures
@@ -18,7 +17,8 @@ sessionKey: mawar-adventures-session-4
 session-template: mawar-template.md
 websiteSessionView: zoomable
 ---
-# Mawar Adventures Episode 04
+```taelgar-header
+```
 
 >[!info] The Chained Beast: In which Ander, Nerissa, and Ryu battle to save a captive dragon turtle.
 > *Featuring: [[Ryu]], [[Nerissa]], [[Ander]]*

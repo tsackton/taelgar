@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1720s
 ---
-# Gideon Thorne
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[Thornes of Cleenseau]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[gideon-thorne.png|right|320]]A fisherman and the most prominent person in the small hamlet of [[Auloutte]]. Much of his family lives in the North Close of Cleenseau, including his son [[Gabriel Thorne]] and his nephew [[Jon Thorne]]. He lives with his two grown daughters and their families, both of whom are also fisherfolk. 
 

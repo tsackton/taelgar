@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: Enchiridion of the Occulta Ludum Vision
 POV: 1748
 ---
-# Enchiridion of the Occulta Ludum Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 You hold the small book to the mirror, and for a moment the image fades to black. Then you see, appearing in the mirror, an image of the face of a young woman, maybe 17 or 18. She has blonde hair tied back, gray brown eyes, tanned skin, and is wearing elegant robes. She seems to be sitting at a desk, looking down, studying this book. The room is pretty spare and plain, and looks far less elegant than the wealth implied by her clothes.
 

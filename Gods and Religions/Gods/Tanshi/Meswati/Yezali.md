@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [power, religion/tanshi, status/check/lint]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Yezali
-*(yeh-ZAH-lee)*
->[!info]+ Information  
-> A [[Tanshi|tanshi]] , part of the [[Meswati]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The spirit of the hunt, the moon, and the night. Particularly attracted by offerings from a fresh hunt. 
 

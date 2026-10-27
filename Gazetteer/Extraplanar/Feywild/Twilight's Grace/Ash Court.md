@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -8,10 +7,8 @@ name: Ash Court
 whereabouts: "Twilight's Grace"
 POV: modern
 ---
-# Ash Court
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Ash Court is a scholarly neighborhood in [[Twilight's Grace]], where evening conversations fill stone halls and courtyards shaded by towering ash trees. Scholars debate history, magic, poetry, and other subjects over tea, while visitors drift from one discussion to another, listening or joining in. Knowledge is shared openly, and a question from a passerby is a welcome interruption.
 

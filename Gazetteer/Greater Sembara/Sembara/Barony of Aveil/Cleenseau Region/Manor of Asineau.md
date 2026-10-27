@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: mike
 dm_notes: important
 POV: 1710s
 ---
-# The Manor of Asineau
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Manor of Asineau was created after the [[Third Hobgoblin War (Sembara)|hobgoblin wars]] as a reward for [[Sarabeth Asa]], a scout and spellcaster who distinguished herself during the wars. She never settled into manorial life, and disappeared in 1667, leaving behind her wife and young heir, [[Lucas Asa]], who disappeared with his family in 1715.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: "Killed by the [[Silver Tempests]] on"}
@@ -17,11 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Nymthrax
->[!info]+ Biographical Info  
-> A [[Dragons|dragon]] (black dragon) (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[nymthrax.png|right|400]]A black dragon who established a lair in the [[Blackwater Fens]] in the DR 1700s. As he grew in power in the DR 1730s and DR 1740s, his expanding sphere of influence disrupted the balance of power on the northern frontier, eventually creating the conditions for the growth in power of [[Grumella's Horde]].
 

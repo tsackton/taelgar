@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/ai, status/check/lint]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The World of Taelgar
+```taelgar-header
+```
 
 %% See [[Geography - Open Questions]] for some unresolved general questions about the world %%
 

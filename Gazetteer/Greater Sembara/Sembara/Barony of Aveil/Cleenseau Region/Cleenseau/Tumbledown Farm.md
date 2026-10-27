@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720s
 ---
-# The Tumbledown Farm
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A tenement owned by [[Geoffrey Save]] in [[Underhill]]. It has about fifteen single-room apartments, which tend to be cold in winter and hot in summer, in four stories clustered around a small and dingy courtyard.
 

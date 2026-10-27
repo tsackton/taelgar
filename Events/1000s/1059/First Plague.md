@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/name]
@@ -10,9 +9,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The First Plague
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The First Plague is the catastrophic wave of magical destruction that spread from [[Drankor]], striking the heartland of the [[Drankorian Empire]] in DR 1059. The curse, caused by [[Cha'mutte]], killed nearly the entire population of [[Drankor]], spread death and famine through the hinterlands of the city, contaminated much of the [[Kharja]], [[Hara]], and lower [[Istaros]] river basins. 
 

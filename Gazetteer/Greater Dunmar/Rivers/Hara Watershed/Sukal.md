@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# Sukal
-*(su-KAHL)*
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Sukal is a meandering river that flows from the [[Copper Hills]] east, joining the [[Hara]] on the arid [[Sukal Plains]]. During the dry winter months, the Sukal is often little more than a trickle, but when the monsoon rains fall on the [[Darba Highlands]] it bursts to life.
 

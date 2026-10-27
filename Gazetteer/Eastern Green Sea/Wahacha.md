@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Wahacha
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Wahacha is one of several notable ports in the [[Vermillion Isles]], inhabited primarily by [[Kenku]]. The low port, including the harbor, docks, trading houses, and a few taverns and sailor's inns, is set along the water, below towering cliffs of red stone. The main part of town is built in and among the red stone pillars that dot the landscape, with many buildings clinging impossibly to the sides of cliffs, inaccessible except by flight.
 

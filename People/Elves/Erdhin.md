@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Caretaker Erdhin
-*(erd-HEEN)*
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] unknown)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on January 15th, 1749 in [[Erelion]], [[Orenlas]] %%^End%%
+```taelgar-header
+```
 
 Erdhin is an elf of [[Orenlas]], who serves as an ambassador and caretaker, guiding visitors to the city during their stay in [[Erelion]].
 

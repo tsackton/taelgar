@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Rodnya Voknaz
->[!info]+ Information  
-> An [[Ursk|Urskan]] magical bloodline  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
-> Parent Organization: the [[Rodnya|Rodnye]]
+```taelgar-header
+```
 
 The Rodnya Voknaz is one of the eight [[Rodnya|rodnye]] that rule [[Ursk]]. Voknaz is based in the western reaches of the country and is known for war magic: shaping elemental forces into destructive spells, and arguing that offensive power is the best defense against the threats of the far north.
 

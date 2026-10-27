@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 name: Dunmari Frontier - Kenzo Solo Session 1 (Prequel)
 campaign: Dunmari Frontier
@@ -12,7 +11,8 @@ companions: [Elazar]
 tagline: in which Kenzo aids and learns from lizardfolk
 descTitle: Spiritual Sojourn
 ---
-# Dunmari Frontier - Kenzo Solo Session 1 (Prequel)
+```taelgar-header
+```
 
 >[!info] Spiritual Sojourn: in which Kenzo aids and learns from lizardfolk
 > *Featuring: [[Kenzo]]*

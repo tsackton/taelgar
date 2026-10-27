@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [background]
@@ -9,8 +8,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Yendalism
-*(yen-DAH-liz-um)*
+```taelgar-header
+```
 
 Yendalism is a school of metaphysical cosmology associated with the [[Stoneborn]] metaphysicist [[Yendalo]]. It rejects the detailed categories of the [[Standard Multiversal Model]] and instead divides the planes according to their relationship to the [[Land of the Dead]], which Yendalists call the [[Land of the Dead|Divine Veil]].
 

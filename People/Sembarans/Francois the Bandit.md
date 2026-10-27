@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed himself in remorse}
@@ -17,11 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1719
 ---
-# François the Bandit
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A ruffian and ne'er do well, he was a key figure in the [[Attempted Poisoning of Cleenseau]].
 

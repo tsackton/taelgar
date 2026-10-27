@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Heart of the Mountain
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Heart of the Mountain is the home of the [[Bahrazel|Bahrâzel]], the Firstborn of the [[Dwarves]], and is acknowledged as one of the [[Divine Realms]] of the [[Embodied Gods]] in the [[Standard Multiversal Model]]. It is the incarnation of the stone itself, the place where the mountains are alive. 
 

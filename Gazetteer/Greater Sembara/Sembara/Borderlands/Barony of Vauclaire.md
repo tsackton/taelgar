@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Barony of Vauclaire
-*(Voh-klair)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Barony of Vauclaire is one of the small realms of the [[Borderlands]], a chain of baronies along Sembara’s southern frontier between the [[Enst]] and the [[Mostreve Hills]]. It lies near [[Fellburn]], east of the [[Barony of Montse|Barony of Montsé]].
 

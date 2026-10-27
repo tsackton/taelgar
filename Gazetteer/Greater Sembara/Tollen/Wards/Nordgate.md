@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Nordgate
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 
 Nordgate is a historic district of [[Tollen]], north of [[Bridgeward]] and clustered around the original north gate of the city, first extensively developed during the [[History of the Drankorian Empire|Drankorian Era]], when the first stone walls around Tollen were constructed. In the modern era it is known as a center of dwarven life, with stonecutters, smiths, and inns catering to travelers, especially dwarves from near and far. Many buildings incorporate older Drankorian foundations, giving Nordgate a layered look of brick and timber over dressed stone.

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,11 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# King Derik II
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Sewick]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The second king of modern Sembara. He reigned from his father's death in DR 1462 until his death in DR 1496. He had three children, and was succeeded by his youngest daughter, [[Charlotte I]].
 

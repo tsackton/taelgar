@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The Evensong Spire
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Evensong Spire is a fortress of immense towers intertwined with the materialized colors of the [[Sunset Gate]] at the western edge of [[Twilight's Grace]]. [[Sir Caldris|Sir Caldris, the Watcher of the Evening Song]], keeps watch here.
 

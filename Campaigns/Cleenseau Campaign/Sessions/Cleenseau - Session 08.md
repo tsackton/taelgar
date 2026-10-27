@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 8
@@ -13,7 +12,8 @@ tagline: in which the party traces the zombie plague into an ancient fort
 sessionKey: cleenseau-session-8
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 8
+```taelgar-header
+```
 
 The party investigates the deaths associated with the zombie disease and traces infected rats to tunnels beneath [[Essford Manor]]. Historical accounts identify the buried complex as an old hobgoblin fort, which the party enters and begins clearing.
 

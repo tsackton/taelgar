@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Naithalë
-*(NY-thah-lay)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Naithalë flows south from the [[Mostreve Hills]] to [[Lathirion Lake]] through largely uninhabited and desolate land. It is a border of sorts for the elves, and the elves of [[Orenlas]] rarely cross the Naithalë, or if they do, only with strength of arms and magic. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata]
@@ -20,13 +19,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Crispus
-*(CRIS-pus)*
->[!info]+ Biographical Info
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% fix header / campaign info, check secrets and clean up text %%
 

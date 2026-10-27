@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:38:32-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -7,7 +6,9 @@ campaign: Cleenseau
 name: Letter from Enford
 POV: 1720
 ---
-# Letter from Captain Rochefort to Captain Rosfeld
+```taelgar-header
+```
+
 _Received in [[Cleenseau]], February 7th_
 
 %% Email from Mike Sackton on June 2, 2024 with subject "The Letter from Enford" %%

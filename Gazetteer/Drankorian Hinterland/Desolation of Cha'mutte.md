@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1748
 ---
-# The Desolation of Cha'mutte
-*(shah-MUTT)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Desolation of Cha'mutte, often called the Drankorian Wastes, is a large area of magically cursed and dangerous land, corrupted as a result of the events surrounding the [[Fall of Drankor]] in DR 1059. Typically, the Desolation of Cha'mutte refers to the area around the ruined city of [[Drankor]] itself, though the borders of this poorly explored region are ill-defined. Rumors through the years have suggested a wide range of dangers, from [[Report of the Aagiri to Samraat Dasa|fetid, undead-haunted swamps]], to arid deserts, to humid jungles full of overgrown ruins, to cursed and ruined cities haunted with [[Letter from Govir|restless dead]] and consumed by a pervasive aura of fear. 
 

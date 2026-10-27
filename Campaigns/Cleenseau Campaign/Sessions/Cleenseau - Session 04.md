@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 4
@@ -13,7 +12,8 @@ tagline: in which the party manages prisoners and prepares for Wakog
 sessionKey: cleenseau-session-4
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 4
+```taelgar-header
+```
 
 The party handles the aftermath of the attempted poisoning, including the interrogation of the captured bandits and the dismissal of [[Odo Cordwaner]]. Viepuck's identity is revealed, [[Ida Rosfeld]] is ordered away, and the party begins organizing local defenses as [[Wakog]] marches south.
 

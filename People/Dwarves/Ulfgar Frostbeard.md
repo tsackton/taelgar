@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,15 +17,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1740s
 ---
-# Ulfgar Frostbeard
-*(OOLF-gar FROST-beerd)*
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Visited by [[Seeker]] on October 14th, 1747 in [[Chardon]], the [[Chardonian Empire]] %%^End%%  
->> %%^Campaign:dufr%% First met by the [[Dunmar Fellowship]] on August 22nd, 1748 in [[Chardon]], the [[Chardonian Empire]] %%^End%%
+```taelgar-header
+```
 
 A dwarven scholar and theoretical metaphysicist, on the Faculty of Metaphysics at the [[University of Chardon]].  He is the author of [[The Lore of the Feywild]], and is acknowledged as something of an expert on the lore of the [[Feywild]], although he has never had the courage to travel there himself. 
 

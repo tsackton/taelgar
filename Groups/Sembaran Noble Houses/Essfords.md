@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {partOf: "", boxInfo: "", defArt: the}
@@ -12,10 +11,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The Essfords
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A minor landholding family in the [[Enst|Enst River Valley]]. The founder of the family, [[Reginald Essford]], came to prominence during the [[Third Hobgoblin War (Sembara)|hobgoblin wars]] for valor in battle as a member of [[Cece I|Cece I's]] [[Radiant Alliance]]. The Essfords have been well-loved in the [[Cleenseau Region]] for several generations now.
 

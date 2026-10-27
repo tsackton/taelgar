@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/ai, status/check/lint]
@@ -9,7 +8,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# History of the Drankorian Empire
+```taelgar-header
+```
 
 %%^Campaign:none%%
 This note covers the history of much of the developed area of Taelgar, from the point of view of Drankor. 

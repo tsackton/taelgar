@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/text, status/check/lint]
@@ -17,10 +16,8 @@ dm_owner: player
 dm_notes: important
 POV: 1740s
 ---
-# Nerissa
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 An older woman, not from Mawar but from the north, who retired to Hamri after a long adventuring career to listen and learn the songs of the ocean.
 

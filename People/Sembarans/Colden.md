@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740
 ---
-# Colden
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Colden is an alien fungal entity posing as [[Alden|Alden's]] cousin, and bears a resemblance: short and somewhat pudgy, dressed in rough homespun. He helps around [[Dandelion House]], working for [[Lord Hulda]]. He was killed by [[Lord Hulda]] when the [[Prisoner in the 27th Room]] was set free and [[Lost in the Feywild - Episode 07|disappeared to a strange alien realm]].
 

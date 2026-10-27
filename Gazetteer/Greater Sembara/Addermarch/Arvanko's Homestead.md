@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Arvanko's Homestead
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The stoneborn [[Rangers|ranger]] [[Arvanko]] lives in an isolated homestead southeast of [[Roscombe]], on the eaves of the [[Torvaine Forest]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: Died and became a ghost in, wPastHome: "Haunts  <home:3rU>"}
@@ -19,14 +18,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Sajan
-*(SAH-jun)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% The Haunted energy felt by the [[Dunmar Fellowship]] on May 11th, 1748 in the [[Hall of Stories]], the [[Monastery of Bhishma]] %%^End%%
+```taelgar-header
+```
 
 Sajan was the last Keeper of the [[Hall of Stories]], before the [[Monastery of Bhishma]] outside [[Kharsan]] was abandoned by the [[Order of the Awakened Soul]], in the months following the [[Awakened Soul Disaster]]. 
 

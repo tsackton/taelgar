@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -16,12 +15,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720s
 ---
-# Giselle Ausson
->[!info]+ Biographical Info  
-> An [[Istabor Alliance|Isinguer]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[gisele-ausson.png|right|320]]The youngest of [[Lizette Ausson|Lizette's]] children, a seamstress, weaver, and childminder. She is the youngest daughter of Lisette and Roland was widowed and never remarried in 1687 when the shaking fever gripped [[Ausson's Crossing]] and killed her husband Matthieu. She is a seamstress, weaver, and cook, and clearly loves children, and has run the inn in [[Laicon]] for several years.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Cleenseau
@@ -15,7 +14,8 @@ sessionKey: cleenseau-session-11-1
 session-template: cleenseau-narrative.md
 POV: 1720
 ---
-# Cleenseau - Session 11.1
+```taelgar-header
+```
 
 >[!info] Celyn and El Share Their Stories
 > *In Taelgar: (DR:: 1720-01-11)*

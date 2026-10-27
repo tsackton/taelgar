@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Battle of Shrevandurg
-*(BAT-ul uv SHREV-un-durg)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 A poorly documented battle on the [[Shrev]] frontier in [[Western Dunmar]], studied by [[Govir]] as an example of divine power aiding the [[Dunmar|Dunmari]] in battle. 
 

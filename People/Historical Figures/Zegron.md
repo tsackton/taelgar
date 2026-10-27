@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: "killed by Deno'qai"}
@@ -15,10 +14,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# Zegron
->[!info]+ Biographical Info  
-> A [[Giants|fire giant]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 A fire giant lieutenant in [[Cha'mutte]]'s army during the [[Great War]], killed by Deno'qai warriors in the Battle of Endless Dark, and bound as a ghost to bring revenge on the [[Hobgoblins]] who would not fight.
 

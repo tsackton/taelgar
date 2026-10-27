@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Barony of Montsé
-*(Mohn-say)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A barony south of the [[Enst]], just west of [[Fellburn]], it was founded by [[Cece I]] after the land was reclaimed from [[Hobgoblins|hobgoblins]] during the [[Third Hobgoblin War (Sembara)|hobgoblin wars]]. Historically, it was part of the much larger [[Barony of Vaubonne]].
 

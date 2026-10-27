@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,11 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Arendum
-*(ah-REN-doom)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% substantial notes in OneNote from Cape / Elderwood adventure %%
 

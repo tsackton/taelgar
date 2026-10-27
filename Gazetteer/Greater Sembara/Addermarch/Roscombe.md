@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,12 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1715
 ---
-# Roscombe
-*(ROHS-kom)*
->[!info]+ Information  
-> pop. 762  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Roscombe is a walled market town in the highlands of western Addermarch, serving the hill farms and scattered hamlets of the [[Stonewolds]] and the [[Highmoor]] in upland [[Carlinshire]]. It is built on a slight ridge, with a commanding view. It is the largest town in the highlands, the principal market town of this area, and the only highland town with its walls still standing. 
 

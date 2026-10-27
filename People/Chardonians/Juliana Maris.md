@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,13 +16,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1749
 ---
-# Juliana Maris
-*(yoo-lee-AH-nah MAH-ris)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met the Seeker and Delwath on May 7th, 1749 in [[Castrella]], [[Cedrano]], the [[Chardonian Empire]] %%^End%%
+```taelgar-header
+```
 
 An elegant woman with striking silver hair and a preference for wearing elegant imported silk robes, Juliana is widely known as a collector of merfolk artifacts and treasures. Her home is a veritable museum of oceanic curiosities, and she obsesses over the provenance and meaning of each piece. 
 

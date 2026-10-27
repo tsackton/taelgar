@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:32:28-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -7,7 +6,9 @@ campaign: Dunmar Frontier
 name: "Amar's Story"
 POV: 1748
 ---
-# Amar's Story
+```taelgar-header
+```
+
 ([[Session 43 (DuFr)|collected by]] [[Kenzo]])
 
 [[Amar]] grew up just south of the [[Akela Inn]], the last caravanserai on the [[Tokra]] road to [[Darba]] before the [[Copper Hills]], in the [[Hara]] river valley. His mother died in childbirth and his father didn’t really know what to do with him. He was always a loner as a kid, unusually for the Dunmari never really got along with his extended family. 

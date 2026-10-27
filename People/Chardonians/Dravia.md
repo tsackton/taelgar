@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1748
 ---
-# Dravia
-*(DRAH-vyah)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Dravia is the proprietor and barkeep of [[The Purple Pig]], a modest inn outside the walls of [[Voltara]]. She keeps a well-run common room, follows road news closely, and arranges introductions between travelers and useful contacts when coin or goodwill warrants it.
 

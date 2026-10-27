@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:14:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Boulderbeard Clan
->[!info]+ Information  
-> A [[Dwarves|dwarven]] clan  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The Boulderbeards are one of several founding clans of the kingdom of [[Nardith]], having fled the fall of [[Ardith]] during the [[Great War]] to start a new life in a safer place. The Boulderbeards were among the prominent clans that occupied the [[Dwarven Outpost (Raven's Hold)]] before the [[Great War]].
 

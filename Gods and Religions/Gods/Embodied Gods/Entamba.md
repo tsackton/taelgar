@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, religion/stoneborn]
@@ -10,10 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Entamba
-*(en-TAHM-bah)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]]
+```taelgar-header
+```
 
 Entamba, the Elder Mountain, is the [[Embodied Gods|Embodied Divinity]] who created the [[Stoneborn]], and is venerated by the Stoneborn as the soul of the mountains and the Firstborn of their species. 
 

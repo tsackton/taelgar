@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,13 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Jordo
-*(YOR-doh)*
->[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (he/him), of the [[Te'kula]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The former Godcaller of the [[Te'kula]], who found a [[Jade Piece of Rai's Hand]]. He refused to turn it over to [[Mezzar|Grimbaskal]], prompting Grimbaskal to attack and Rai and the tanshi [[Aasimti]] to work together to protect the [[Te'kula]] in a pocket dimension. Over the years, he became obsessed with understanding the meaning of the dreams that he believed came from [[Aasimti]], though he died before he learned the truth of [[Second Dream of Rai|Rai's story]].
 

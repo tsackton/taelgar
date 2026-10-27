@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [power, status/check/lint]
@@ -15,11 +14,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Prince of Luck
->[!info]+ Biographical Info  
-> A [[Fey|fey]] ([[Fey|archfey]]) (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[the-prince-of-luck.png|right|400]]The Prince of Luck, known as the Chanceweaver, is the ruler of the domain of Fortune’s Rest, and a charming gambler ruling over an endless casino court. 
 

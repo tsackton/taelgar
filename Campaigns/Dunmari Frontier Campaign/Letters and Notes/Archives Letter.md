@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:21:00-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -7,7 +6,9 @@ campaign: Dunmar Frontier
 name: Archives Letter
 POV: undated
 ---
-# Archives Letter
+```taelgar-header
+```
+
 (originally found by [[Servius]] in the [[Archives|Tokra Archives]]. The [[Dunmar Fellowship]] also [[Session 38 (DuFr)|possess a copy]])
 
 To Captain Avani, commander of the [[Tokra]] guard, dedicat of [[Aagir]], and noble warrior, greetings and the bond of friendship.

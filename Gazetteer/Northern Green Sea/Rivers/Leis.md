@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# Leis
-*(LEE-is)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A swift-flowing river that runs from the mountains near [[Vedmakov]] until it joins the [[Beyil]] near the village of [[Volya]]. A road runs parallel to the Leis for much of its length, but the river itself is unnavigable, except when frozen in the depths of winter.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Yaz
->[!info]+ Biographical Info  
-> A Mawaran [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Scryed by [[Delwath]] on February 5th, 1749 in [[Hamri]], the [[Mawar Confederacy]] %%^End%%
+```taelgar-header
+```
 
 ![[yaz-mawar.png|right|300]]Yaz is an elderly Mawaran ocean watcher who lives alone in an isolated tower above [[Hamri]]. He has short white hair pulled back in a ponytail and is known for his intense attention to the moods, mysteries, and old lore of the western ocean.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/name, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Mistfold Mountains
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Mistfold Mountains, usually just called the Mistfolds, form the rugged and largely impassable southern rim of the [[Cymean Peninsula]], extending from the hill country east of [[Latazaro]] toward the [[Green Sea]]. Their long, wooded ridges and karst uplands separate [[Cymea]] from [[Orenlas]] and the [[Plaguelands]] to the south and west. 
 

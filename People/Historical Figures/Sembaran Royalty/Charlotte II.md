@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/text, status/check/lint]
@@ -19,11 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: 1648
 ---
-# Queen Charlotte II
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[House of Sewick]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A ruler of Sembara and Tyrwingha. Succeeded by her sister, [[Cece I]].
 

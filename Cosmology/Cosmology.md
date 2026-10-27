@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [meta]
@@ -9,7 +8,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Cosmology
+```taelgar-header
+```
 
 This directory contains **in-world** pages about the planes and related concepts. Could be published as is, or selectively, or not at all, as desired.  
 

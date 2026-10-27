@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>"}
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1749
 ---
-# The Foundry Market
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Foundry Market is a rough-and-tumble, dawn to dusk, daily market in the [[Chalyte Levels]] slums. It occupies a rectangular plaza just inside the western bastion of the [[North Wall (Chardon)|North Wall]]. Dozens of timber-framed stalls cluster in the plaza, canvas roofs patched with sailcloth and cast-off blankets. It serves laborers and nearby residents with stalls selling coarse bread, dried fish, mended clothing, reclaimed firewood, and simple iron tools repaired from refinery scrap. Hiring corners operate most days at dawn, where foremen find day workers for piece-rate tasks in the chalyte refineries nearby. 
 

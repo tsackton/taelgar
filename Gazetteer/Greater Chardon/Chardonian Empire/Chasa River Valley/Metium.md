@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Metium
-*(MEH-tee-oom)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Metium is a walled city about 60 miles upriver from [[Chardon]], at the confluence of the [[Chasa]] and the [[Nahadi]] rivers. Although small in comparison to Chardon, it is a wealthy city, at the center of a highly productive wine growing region, and a hub for river traffic. Messages flow regularly from here to Chardon. There is considerable wine trade through Metium's river port, both downriver to Chardon for local consumption or export, and upriver to Arendum or Lake Valandros for local consumption.
 

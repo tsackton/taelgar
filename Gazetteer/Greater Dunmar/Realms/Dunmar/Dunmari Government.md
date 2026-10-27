@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/lint]
@@ -8,7 +7,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# The Government of Dunmar
+```taelgar-header
+```
 
 Dunmar is a theocratic monarchy, where the ruler, called the Samraat, is assumed to be chosen by the [[Dunmari Religion]] as their divine representative on Taelgar. All obligations and responsibilities flow, ultimately, from this divine relationship. Indeed, the borders of the kingdom of Dunmar are not conventionally thought of as lines on a map. Rather, Dunmar is simply the people who ultimately owe allegiance to and are protected by the [[Dunmari Religion]], through their mortal representative on Taelgar, the Samraat.
 

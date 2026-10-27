@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Cloudmere
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Cloudmere is a poorly described [[Energy Realms|Energy Realm]], a place of vast thunderstorms, chaotic winds, and ever-changing landscapes of clouds and rain. It is associated in [[Airion|Airion the Mistspeaker]]'s [[The Codex of Compound Planes|compound elemental realm system]] with lightning, transience, and the mingling of Air and Magic.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Jaeson
->[!info]+ Biographical Info  
-> A Mawaran [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Jaeson is a somewhat shady cliffside resident of the [[North Cliffs]], across the sheltered bay from [[Hamri]]. He is a neighbor and occasional associate of [[Ryu]], and also knows [[Trok]] from the same small cliffside community. He keeps mostly to himself, but trades in rumors and small favors, especially when Ryu can pay him in fish. Rumors claim he is also an occasional gatza dealer and smuggler. 
 

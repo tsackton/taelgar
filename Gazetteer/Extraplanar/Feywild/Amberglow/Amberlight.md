@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Amberlight
->[!info]+ Information  
-> ([[Fey]] glowing crystal)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Amberlights are intricate crystal lanterns infused with the light of the sunset of [[Amberglow]], created by the [[Cloudspinner]] to gift some of her power to her closest allies. 
 

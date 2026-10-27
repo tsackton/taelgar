@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -11,11 +10,8 @@ affiliations: [Rangers]
 knownTo: [clee]
 POV: 1720s
 ---
-# Eira
-*(AY-rah)*
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (she/her), ([[Elven Cycle of Generations|ka]] unknown)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Eira is an elven emissary and healer of the [[Rangers]]. She often travels with [[Arianwen]].
 

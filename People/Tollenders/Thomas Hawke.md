@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,13 +16,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1748
 ---
-# Thomas Hawke
->[!info]+ Biographical Info  
-> A [[Tollen|Tollender]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on December 29th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
+```taelgar-header
+```
 
 ![[thomas-hawke.png|right|400]]Thomas Hawke is Professor of Rhetoric, a playwright, and a rising star at the [[University of Tollen]], recognized more for his dramatic flair than his academic pursuits. He is captivated by the allure of legends and tales, and has a passion for stories he can borrow from for his plays. Tales from distant lands, in particular, can be guaranteed to catch his attention and ensnare his interest.
 

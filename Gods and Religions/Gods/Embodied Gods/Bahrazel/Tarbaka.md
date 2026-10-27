@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, religion/dwarven]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Tarbaka
-*(tar-BAH-kah)*
->[!info]+ Information  
-> An [[Embodied Gods|embodied god]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The patron of artisans and the forge, worshipped as the first crafter and smith of the dwarves.
 

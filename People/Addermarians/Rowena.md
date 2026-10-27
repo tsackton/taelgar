@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:10:54-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,13 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Rowena
-*(roh-WEH-nah)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Rescued by the [[Addermarch Mercenaries]] on May 17th, 1715 in [[Highmoor]], [[Carlinshire]], [[Addermarch]] %%^End%%
+```taelgar-header
+```
 
 A villager and forager from [[Haldrenn]]; daughter of [[Manfred]].
 ## Events

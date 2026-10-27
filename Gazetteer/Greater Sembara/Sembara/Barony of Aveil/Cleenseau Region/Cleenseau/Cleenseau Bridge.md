@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -10,11 +9,8 @@ pronunciation: Klen-sew BRIJ
 whereabouts: Cleenseau
 POV: modern
 ---
-# Cleenseau Bridge
-*(Klen-sew BRIJ)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Cleenseau Bridge is a massive ancient stone bridge spanning the [[Enst]] at [[Cleenseau]]. Its ten arches cross 1,200 feet of river, and it is wide enough for eight oxen abreast. Usually attributed to the Drankorians about a thousand years ago, it may be older: some scholars credit its construction to the giants.
 

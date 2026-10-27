@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,13 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1710s
 ---
-# Aldric Tannen
-*(AL-drik TAN-en)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:clee%% Met by the [[Heroes of Cleenseau]] on December 4th, 1719 in [[Cleenseau]], the [[Manor of Cleenseau]], the [[Barony of Aveil]] %%^End%%
+```taelgar-header
+```
 
 Aldric is a jovial fisherman who operates one of the rafts on the River Enst during the summer. He is perpetually looking for get rich schemes, and notoriously unreliable.
 

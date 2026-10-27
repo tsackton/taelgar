@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Zvervinka
-*(ZVEHR-veen-ka)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Zvervinka is a major market city in interior [[Ursk]], set along the lower [[Ket]] not far from the [[Green Sea]] coast. Heavily fortified and vigilant, it anchors the trade in trophies and reagents of the far north—dragonhide, ice‑worm scales, remorhaz matter, and other dangerous spoils—moving goods downriver and along the coast to [[Praznitsky]] and [[Zakat]] for export, or overland toward [[Vedmakov]] for domestic use.
 

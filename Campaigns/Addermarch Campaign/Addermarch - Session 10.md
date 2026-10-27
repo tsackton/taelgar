@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 10
@@ -11,7 +10,8 @@ name: Addermarch Campaign - Session 10
 tagline: in which the party fights darkmantles for uligium.
 descTitle: Battle with Darkmantles
 ---
-# Addermarch Campaign - Session 10
+```taelgar-header
+```
 
 >[!info] Battle with Darkmantles: in which the party fights darkmantles for [[Uligium]].
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

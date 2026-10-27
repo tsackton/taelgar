@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,12 +12,8 @@ whereabouts: Ashcombe
 knownTo: [clee]
 POV: 1720
 ---
-# Avice
-*(ah-VEES)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Avice is a young girl from [[Ashcombe]] who calls [[Rufus of Ashcombe|Rufus]] her uncle. She believes strongly in [[The Wildling]]’s protection.
 

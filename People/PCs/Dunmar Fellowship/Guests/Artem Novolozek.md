@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
@@ -22,11 +21,8 @@ dm_owner: joint
 dm_notes: important
 POV: 1748
 ---
-# Artem Novolozek
->[!info]+ Biographical Info  
-> An [[Ursk|Urskan]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[artem-portrait.png|right|320]]Human wizard, originally from [[Ursk]], but fled the magocracy there, bringing a treasure – the crystalline heart of a remorhaz – as payment to a patron in [[Medju]] who will set him free from pursuers. Currently on his way to [[Medju]] after helping [[Wellby]] and companions kill aboleth, and retrieve his treasure. 
 

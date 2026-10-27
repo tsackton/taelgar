@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-13T13:45:21-04:00"
 lintVersion: "3.5"
 tags: [session-note]
@@ -9,7 +8,8 @@ DR_end: 1752-06-29
 name: Chronicles of the Quest for Answers to Extraplanar Mysteries
 POV: 1752
 ---
-# Chronicles of the Quest for Answers to Extraplanar Mysteries  
+```taelgar-header
+```
 
 After months of waiting, clues to the [[Lizardfolk Village Disappearances|mysterious disappearance]] of [[Urkabi]], [[Samso]]'s village, arrive with a new traveler, [[Blue]]. The [[Silver Tempests]] set off to the south to investigate, traveling to the city of [[Castrella]], and then into the mountains on a hunt for [[Yeshara]], the wolf-eyed queen of a shadowy realm called [[Cairn Dor]]. Fighting through shadowy enemies, the [[Silver Tempests]] find a portal to [[Cairn Dor]] called the [[Cleaver-Stone]], as well as a series of stone plinths that form a soul compass, facilitating the theft of mortals from the [[Material Plane]] to serve as dreamers for the [[Shemra Azem]], the sleepless, every-vigilant army of [[Cairn Dor]]. With the aid of clues found in the old Drankorian fortress guarding this place, the [[Silver Tempests]] shut down the portal and the soul compass, but retreat to [[Castrella]] to regroup before venturing into [[Cairn Dor]] itself. 
 

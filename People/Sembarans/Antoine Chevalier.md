@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T18:19:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -12,11 +11,8 @@ whereabouts: Maudorville
 knownTo: [clee]
 POV: 1720s
 ---
-# Antoine Chevalier
-*(ahn-TWAHN shuh-VAL-ee-ay)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Antoine Chevalier is the lord of [[Maudorville]]. He takes little interest in affairs beyond his manor and is slow to respond to problems in the surrounding settlements. He is overly solicitous toward celebrated visitors.
 

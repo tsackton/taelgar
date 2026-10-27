@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,13 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Liraene
-*(Lih-RAY-neh)*
->[!info]+ Biographical Info  
-> A [[Fae|fae]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Found dead by the [[Addermarch Mercenaries]] on May 18th, 1715 in [[Thornweald]], the [[Feywild]], [[Multiverse]] %%^End%%
+```taelgar-header
+```
 
 A fae from [[Twilight's Edge]], companion of [[Vaelithar]]. She died in the [[Thornweald]], [[Morlaith]]'s domain, fighting a corrupted Singing Tree beyond the [[Nightsong Roots]].
 

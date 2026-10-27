@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,13 +16,8 @@ dm_owner: none
 dm_notes: important
 POV: 1748
 ---
-# Badya
-*(bud-YAA)*
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 22nd, 1748 in [[Karawa]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 A server and helper at a tea room in Karawa. 
 %%SECRET[v2:cf427a282c387819abef6b22734f3c96]%%

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,12 +17,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Travok Redpeak
-*(TRAH-vok RED-peek)*
->[!info]+ Biographical Info  
-> A [[Nardith]] [[Dwarves|dwarf]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 8th, 1748 in [[Darba]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 A messenger and diplomat in the service of the leaders of [[Tharn Todor]], with connections to the [[Redpeaks]] of [[Darba]]. 
 

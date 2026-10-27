@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Marinsk
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Marinsk is a coastal city of [[Ursk]] and one of its three principal trading ports, alongside [[Zakat]] and [[Praznitsky]]. The [[Sovo]] River runs through the city, dividing harbors and districts before reaching the [[Green Sea]]. Despite foreign docks maintained for commerce, Marinsk is cautious toward outsiders; visitors remain confined to the walled port district unless they possess proper papers. 
 

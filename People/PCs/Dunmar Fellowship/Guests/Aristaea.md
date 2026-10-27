@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
@@ -20,10 +19,8 @@ dm_owner: player
 dm_notes: important
 POV: 1748
 ---
-# Aristaea
->[!info]+ Biographical Info  
-> A [[Stoneborn|stoneborn]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A stoneborn paladin, a frequent wanderer in the [[Forest of Nightmares]], who joined [[Delwath]] on his [[Session 53 (DuFr)|quest]]. After bidding [[Delwath]] farewell, returned to her wandering among the Deno’qai and the stoneborn of the far north.
 

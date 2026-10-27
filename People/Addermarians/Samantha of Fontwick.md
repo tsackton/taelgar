@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:35:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,11 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Samantha of Fontwick
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 11th, 1715 in [[Fontwick]], the [[Stonewolds]], [[Carlinshire]] %%^End%%
+```taelgar-header
+```
 
 Samantha is a villager from [[Fontwick]], a small village west of [[Roscombe]]. She operates a small dairy alongside her husband [[Godfrey of Fontwick]]. She is practical, hospitable, and resilient.
 

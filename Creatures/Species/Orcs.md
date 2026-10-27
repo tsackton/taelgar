@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 tags: [creature, status/wip]
@@ -9,7 +8,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Orcs
+```taelgar-header
+```
 
 >[!quote] The Blood Binding, excerpt
 *Thark, Master of Unbreakable Chains, in your fire we temper this soul. Bind it to your will, so it may never know peace, only the insatiable hunger for strife and turmoil.*

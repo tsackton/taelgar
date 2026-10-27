@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,10 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Laughing Wave
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Laughing Wave was a halfling tavern on the docks of [[Drankor]], known for boisterous gatherings and bright rooftop fireworks. Before the city’s fall it was owned by [[Seraphina Appleblossom]], a beloved tavern‑keeper of the harbor quarter.
 

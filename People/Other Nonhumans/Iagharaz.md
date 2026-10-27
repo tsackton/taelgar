@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 displayDefaults: {endStatus: killed}
@@ -16,12 +15,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Iagharaz
-*(aya-gar-az)*
->[!info]+ Biographical Info  
-> A [[Dragons|dragon]] (white dragon)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Iagharaz was a white dragon who made a lair near the headwaters of the [[Sulqat]] in the early DR 1700s, and was defeated by a combined expedition of Mawaran and Chardonian adventurers in DR 1709. 
 

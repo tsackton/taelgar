@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Elemental Plane of Water
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Elemental Plane of Water has long fascinated poets and playwrights, who paint vivid pictures of the mysteries, beauties and terrors of the place, from the vision of a vast coral reef bursting with life, floating beneath a shimmering sea, described in famous tragedy *[[The Siren's Embrace]]*, to the haunting picture of the twilight depths where monstrous whales of unimaginable size slowly drift, following trails of bioluminescence to unknown secrets, described in the Drankorian epic *[[Into the Abyss]]*. Though scholarly study of the Plane of Water often discounts these fanciful pictures, all agree that the Plane of Water is a boundless, featureless expanse of water, lit by a faint, ambient glow, the endless depths broken only by isolated floating islands of coral and rock, some overgrown with lush aquatic flora, others barren and sharp.
 

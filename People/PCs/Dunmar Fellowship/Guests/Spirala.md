@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
@@ -17,10 +16,8 @@ dm_owner: player
 dm_notes: important
 POV: 1740s
 ---
-# Spirala
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (fairy) (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A fairy cleric from the fey realm of [[Shimmersong]], dedicated to light and the [[Lightdancer]]’s Summer Court. Helped [[Seeker]] with the wild magic storm and crossing [[Amberglow]], and said goodbye to [[Seeker]] at [[Lastlight Falls]].
 

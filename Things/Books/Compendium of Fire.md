@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AUn> <typeof:AUn><(, compiled )written:nx> <( by )author:nx>"}
@@ -15,10 +14,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1740s
 ---
-# Compendium of Fire
->[!info]+ Information  
-> A Drankorian cosmological compendium, compiled during the [[History of the Drankorian Empire|Drankorian Era]] by members of the [[Concordia Pyrae]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A collection of lore and information about the [[Elemental Plane of Fire]] gathered and recorded in fireproof ledgers by the [[Concordia Pyrae]].
 

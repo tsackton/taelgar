@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T14:23:24-04:00"
 lintVersion: "3.5"
 displayDefaults: {wPastHome: "Spread across <home:1> and <secondary:1>", defArt: ""}
@@ -15,10 +14,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1749
 ---
-# Cha'mutte's Plague
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 During the [[Great War]], [[Cha'mutte]] unleashed a magical plague, apparently fueled by his connection to [[Limbo]], that devastated much of eastern [[Dunmar]] and the [[Upper Istaros]]. It appeared as a strange red mist that spread across the land, seemingly with a mind of its own, moving unpredictably but inexorably as if following some hidden road. Those who were caught in the mist almost always died, typically to a wasting sickness that began as a cough and quickly progressed to bleeding, pallor, and death. The plague had a devastating impact on the opponents of Cha'mutte: [[Isingue]] was effectively destroyed, its armies scattered, and Dunmar thrown into chaos with the destruction of [[Kharsan]], cut off and prevented from providing aid to Sembara during the Ulrich campaign at the close of the [[Great War]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -19,12 +18,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Vistra Fireforge
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% needs dunmar campaign info in header; tim has some color notes from her later years in Tokra to add  %%
 

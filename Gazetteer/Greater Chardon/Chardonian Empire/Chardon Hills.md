@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T15:25:54-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Chardon Hills
-*(CHAR-din hills)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A line of hills southeast of [[Chardon]], part of the high ground that separates the Chasa and Yeraad watersheds. Usually referred to as the hills of Chardon or the hills south of Chardon in everyday usage; the Chardon Hills is a cartographer's shorthand, primarily. 
 

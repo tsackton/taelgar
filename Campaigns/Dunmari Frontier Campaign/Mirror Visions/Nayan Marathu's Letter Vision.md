@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: "Nayan Marathu's Letter Vision"
 POV: 1749
 ---
-# The Nayan Marathu's Letter Vision
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The mirror goes blank, and then you see an image form. Looking up, at Agata's hands as she rolls a piece of paper out on a desk. The view is of the inside of a hut, probably [[Agata's Lair]]. [[Agata]] stands, and from her pouch she removes a severed hand, wearing a signet ring. She then removes some kind of wooden putty, and begins to shape slowly a bit of an arm.
 

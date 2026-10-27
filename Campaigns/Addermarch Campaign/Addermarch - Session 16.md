@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Addermarch
 sessionNumber: 16
@@ -11,7 +10,8 @@ name: Addermarch Campaign - Session 16
 tagline: in which old records point toward a cursed hill-fort
 descTitle: Trail to Serethwyn Tor
 ---
-# Addermarch Campaign - Session 16
+```taelgar-header
+```
 
 >[!info] Trail to Serethwyn Tor: in which old records point toward a cursed hill-fort
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*

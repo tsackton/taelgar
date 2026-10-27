@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T07:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {partOf: "<typeof:Au> of <partof>", boxInfo: ""}
@@ -14,7 +13,8 @@ dm_owner: mike
 dm_notes: important
 POV: 1719
 ---
-# The Army Garrison of Cleenseau
+```taelgar-header
+```
 
 The Cleenseau Garrison is the furthest east-most garrison of the [[Army of the West]]. It is commanded by [[Ida Rosfeld|Captain Ida Rosfeld]] and consists of two patrols:
 

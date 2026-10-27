@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,11 +14,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720
 ---
-# Ameline Evynwood
-*(Am-leen Evan-wood)*
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[lady-ameline-evynwood.png|left|200]] Ameline Evynwood is the lady of [[Ashcombe]]. During the fey attacks of DR 1720, she accompanied its displaced villagers to [[Aslain]] and sought support from her family connections there. After the [[Crisis of Malach]], she returned with the villagers and has been dedicated to rebuilding. 
 

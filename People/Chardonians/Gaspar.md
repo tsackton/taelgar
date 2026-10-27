@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:14:40-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1749
 ---
-# Gaspar
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Gaspar is a prominent member of the [[Chamber of Stamps]], involved in the Chalyte Council. He is currently recovering, slowly, from many years living under [[Fausto]]'s control.
 

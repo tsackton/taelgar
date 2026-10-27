@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Lost in the Feywild
 sessionNumber: 6
@@ -14,7 +13,8 @@ sessionKey: lost-in-the-feywild-session-6
 session-template: feywild-template.md
 websiteSessionView: zoomable
 ---
-# Lost in the Feywild: Episode 06
+```taelgar-header
+```
 
 >[!info] The Stories We Carry: in which stories open the door to darkness
 > *Featuring: [[Kaito Min]], [[Edric]], [[Ayveen]], [[Txarro]]*

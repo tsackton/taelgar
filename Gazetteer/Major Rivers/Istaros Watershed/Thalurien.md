@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Thalúrien
-*(THAH-loo-ree-en)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Thalúrien flows south from [[Lathirion Lake]] before joining the [[Istaros]] near the ruins of [[Isingue]]. It is formed from three tributaries which all feed the lake: the [[Naithale|Naithalë]] to the west, the central [[Velasse|Velassë]], and the [[Silire|Silírë]] in the east. The Velassë flows from within [[Orenlas]] itself and is little known to outsiders. 
 

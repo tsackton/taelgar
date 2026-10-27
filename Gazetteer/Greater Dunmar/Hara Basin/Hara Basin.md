@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/cleanup/map, status/check/lint]
@@ -10,10 +9,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Hara Basin
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Hara Basin is a broad, flat, semi‑arid lowland that contains the riverine heartland of [[Central Dunmar]], as well as the eastern deserts that grade up toward the [[Garamjala Plateau]]. This region is marked by stark, contrasting seasons: warm, dry winters yield to brutally hot pre-monsoon summers, followed by intense monsoon rains that green the plains and swell the rivers.
 

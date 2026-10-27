@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -15,10 +14,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# The Sibyl
->[!info]+ Information  
-> An [[Incorporeal Gods|incorporeal god]] (she/her), part of [[Mos Numena]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 %% vibes and note:
 - i've always thought of the sibyl as kind of part of a trio with the wanderer and the wyrdling that are seen as more personal, more present, more likely to pay attention to an individual. 

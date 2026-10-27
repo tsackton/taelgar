@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,11 +13,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Portalia
-*(por-TAH-lee-ah)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Portalia is one of the three Apporian Provinces, located on the northeast coast of the [[Apporia|Apporian Peninsula]]. It is the most Chardonian of the three provinces, as much of Portalia was destroyed during the [[War of the Dark Rift]], and not rebuilt until it was liberated by Chardon at the conclusion of the war. 
 

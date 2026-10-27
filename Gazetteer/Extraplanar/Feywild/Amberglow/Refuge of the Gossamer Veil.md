@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 displayDefaults: {wPastHome: "A former <ancestry:sx> <typeof:UA> of <origin:1>", dPastHasStart: "Existed <startDate> - <endDate>, <end> after <length>", endStatus: "conquered by [[Lord Umbraeth]]", wSecondary: "Now part of <secondary:2>"}
@@ -17,11 +16,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The Refuge of the Gossamer Veil
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% dates in metadata are approx %%
 

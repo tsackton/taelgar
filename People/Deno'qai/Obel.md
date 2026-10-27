@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata]
@@ -18,13 +17,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Obel
-*(oh-BELL)*
->[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (he/him), of the [[Te'kula]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 An old ranger of the [[Te'kula]] who volunteered to fight [[Mezzar|Grimbaskal]] with the party. Miraculously survived.
 

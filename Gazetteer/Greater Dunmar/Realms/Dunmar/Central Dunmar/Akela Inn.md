@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# The Akela Inn
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A waystation, inn, and caravanserai on the [[Tokra-Darba Road]], on the northeastern edge of the rougher hill terrain known as the [[Copper Hills]]. The last major fortification and stopping point on the road heading southwest from [[Tokra]] until the [[Darba]] hinterlands, 100 miles to the west, beyond the [[Copper Hills]].
 

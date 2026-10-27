@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Southbridge
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Southbridge is the oldest and most prosperous ward on the south bank of the [[Volta]], across the river from [[Bridgeward]], spreading from the south end of the [[Tollen Bridge]]. Though once swampy ground, this area was drained and reclaimed in Drankorian times; the ancient Drankorian road south meets the [[Tollen Bridge]] here. Downriver of the [[Tollen Bridge]], Southbridge is also part of the sea-port, though it sees less deepwater traffic and has a less developed waterfront than [[Battery]]. 
 

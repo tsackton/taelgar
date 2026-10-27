@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T11:22:11-04:00"
 lintVersion: "3.5"
 tags: [source, status/check/mike, status/check/lint]
@@ -8,7 +7,8 @@ dm_owner: none
 dm_notes: none
 POV: 1743
 ---
-# The Travelogue of Etienne of Cassons
+```taelgar-header
+```
 
 %% @mike  this is not correct for DR 1743, and I assume the date is not canonical. this feels more like maybe 1690 +/- 10 years. leaving status/check/mike to reset the date officially %%
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -12,11 +11,8 @@ whereabouts: Ruthin
 knownTo: [clee]
 POV: 1710s
 ---
-# Eirian
-*(AYR-yahn)*
->[!info]+ Biographical Info  
-> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Eirian is a trans woman and acolyte of the Wyrdling in [[Ruthin]], known in the region for her gender-affirming herbal care and skill as a teacher. She teaches herbal treatments and techniques of dress and presentation to help people born “out of season” live as themselves.
 

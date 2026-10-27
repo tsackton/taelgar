@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -14,11 +13,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Nidzahar
-*(NID-zah-har)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Nidzahar, loosely 'east-land', is one of the [[Dwarven Kingdoms|five dwarven kingdoms]] of [[Sentinel Range|Labkhan]]. It lies predominantly on the eastern side of the mountains, loosely bordered by [[Fahnukan]] to the north, [[Am'khazar]] to the west, [[Zimkova]] to the east, and [[Khatridun]] to the south. The largest of the Five Kingdoms by area, it is primarily settled along its eastern border and has the most extensive surface settlements of the dwarven kingdoms.
 ## History

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# The War of the Ashen Horde
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 In DR 1720, a surge of [[Plaguelands]] horrors—ash elementals, ash‑spawn, and corrupted things from the Istaros valley—emerged with the summer ash storms. Striking swiftly across the [[Aursen]] and towards the [[Aurbez Plateau]], they were eventually defeated by a coalition of [[Rangers]] and Aurbeze militias. This was a formative event that led to the creation of the [[Refounded Alliance of Aurbez]]. 
 

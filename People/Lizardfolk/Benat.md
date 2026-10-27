@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -15,12 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Benat
-*(beh-NAHT)*
->[!info]+ Biographical Info  
-> A salt [[Lizardfolk|lizardfolk]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Benat is a lizardfolk man, in the prime of his life, who lives in Hamri in a small neat house with a great terrace above North Dock, near the waterfall on the [[Mirmir]]. He serves as an informal liaison between the town and the various salt lizardfolk communities of the coast. He is a tall, striking man, with clear blue-green scales and bright gold/brown eyes, though he walks slowly and rubs at his joints to relieve the pain of a joint condition. He is both curious and knowledgeable about local history and often serves as an informal repository of local lore.
 

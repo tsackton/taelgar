@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:43:15-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -12,11 +11,8 @@ whereabouts: Champimont
 knownTo: [clee]
 POV: 1720s
 ---
-# Claude of Champimont
-*(KLOHD)*
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Claude is an older man who serves as chamberlain to [[Raoul Montagu]] in [[Champimont]].
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T23:02:51-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,13 +18,8 @@ dm_owner: player
 dm_notes: none
 POV: 1748
 ---
-# Ken-to
-*(KEN-toh)*
->[!info]+ Biographical Info  
-> A [[Stoneborn|stoneborn]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by [[Riswynn]] on May 18th, 1748 in the [[Yuvanti Mountains]] %%^End%%
+```taelgar-header
+```
 
 Ken-to is a stoneborn monk and mystic who lives in an isolated hut, high in the [[Yuvanti Mountains]] west of [[Tharn Todor]]. 
 

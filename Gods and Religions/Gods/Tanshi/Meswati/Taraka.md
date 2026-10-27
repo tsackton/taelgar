@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [power, religion/tanshi, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Taraka
-*(TAH-rah-kah)*
->[!info]+ Information  
-> A [[Tanshi|tanshi]] , part of the [[Meswati]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 The tanshi of tales around the campfire, the spirit of hospitality of a friendly fire, the warmth of a hearth on a cold night, the tales and stories shared in camp. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:04:07-04:00"
 lintVersion: "3.5"
 displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
@@ -10,9 +9,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 name: "Cecilia's White Dragon Tooth Vision"
 POV: 1749
 ---
-# Cecilia's White Dragon Tooth Vision
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 You gather in [[Cecilia Lister]]'s tattoo shop, and draw the mirror from the portable hole, setting it up in the shop in preparation, as Cecilia will not allow the dragon's tooth to leave her store, no matter how much she trusts you.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/text, status/check/mike, status/check/lint]
@@ -18,11 +17,8 @@ dm_owner: player
 dm_notes: important
 POV: 1740s
 ---
-# Wazir
->[!info]+ Biographical Info  
-> A [[Mawar Confederacy|Mawaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The owner of the Leviathan Inn in Hamri, and unofficial guardian of the town. Tinkering and student of the arcane, especially his magical armor he crafted himself. Spent time in Chardon before returning home to Hamri.
 

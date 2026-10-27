@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 tags: [background, religion/mosnumena, status/check/lint]
@@ -10,7 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Quintarum
+```taelgar-header
+```
 
 Quintarum is a [[Mos Numena]] feast day of [[The Wanderer]], observed as a counterpart to [[Viatela]]. Where Viatela is a festival of homecoming, Quintarum marks leave-taking and the resumption of journeys.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T06:59:58-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -9,9 +8,8 @@ dm_owner: mike
 dm_notes: important
 POV: modern
 ---
-# The Zimkova Highlands
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 
 %% The entire region of [[Zimkova]] ranges from 1500' - 6000' feet in elevation %%

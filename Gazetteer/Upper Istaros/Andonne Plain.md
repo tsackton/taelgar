@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T10:36:55-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Andonne Plain
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The broad, flat Andonne Plain stretches from the eastern edge of the [[Aurbez Plateau]] across the upper [[Masance]] toward [[Westcliff]] and the eaves of the [[Darkwood]]. It is a land of scrubby grasses and small, hardy trees, where rain is scarce and much of the year’s water comes from spring snowmelt and sudden floods after thunderstorms. 
 

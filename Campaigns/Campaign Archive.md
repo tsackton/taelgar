@@ -1,10 +1,10 @@
 ---
-headerVersion: 2023.11.25
 tags: [meta]
 dm_owner: none
 dm_notes: none
 ---
-# Campaign Archive
+```taelgar-header
+```
 
 Here are collected the stories of campaigns and adventures that, while no longer active, continue to shape the history and myth of Taelgar. 
 

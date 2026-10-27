@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T11:10:54-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,12 +15,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1747
 ---
-# Zadkai
-*(ZAD-kye)*
->[!info]+ Biographical Info  
-> A mysterious creature (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Encountered by the [[Silver Tempests]] on July 23rd, 1747 in [[Blacksilver Peak|the glacier near Airion’s Floating Tower]], the [[Fiatara Mountains]] %%^End%%
+```taelgar-header
+```
 
 Zadkai is a warlock devoted to a powerful being of the [[Elemental Plane of Air]]. He sought the [[Skyborn Scroll]], one of [[Airion|Airion the Mistspeaker]]'s elemental scrolls, believing it should be destroyed or returned to the Plane of Air rather than remain in human hands.
 

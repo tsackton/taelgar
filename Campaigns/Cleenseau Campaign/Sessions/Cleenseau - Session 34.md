@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Cleenseau
@@ -17,7 +16,8 @@ tagline: "in which the party crosses the Grey Mists and reaches Twilight's Grace
 sessionKey: cleenseau-session-34
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 34
+```taelgar-header
+```
 
 >[!info] Wondering the Grey Mists: in which the party crosses the Grey Mists and reaches Twilight's Grace
 > *Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moonseeker|Izgil]]*

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,12 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Orin Strongaxe
->[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him), of Strongaxes  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:grli%% Met by the [[Silver Tempests]] on September 1747 in [[Voltara]], [[Greater Voltara]], the [[Northern Provinces]] %%^End%%
+```taelgar-header
+```
 
 Orin Strongaxe is a dwarf from [[Zarkandur]], a skilled warrior and respected commander. He is also an older cousin of [[Brelith]]. 
 

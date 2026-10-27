@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -10,11 +9,8 @@ pronunciation: kuh-VARTH-vah GAIR-uh-sun
 whereabouts: Tyrwingha
 POV: modern
 ---
-# Cyfarthfa Garrison
-*(kuh-VARTH-vah GAIR-uh-sun)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Cyfarthfa Garrison is a post of the [[Army of Mostreve]] in [[Tyrwingha]], north of the [[Rhewin]] and near the [[Tyrwinghan Road]]. It houses around a hundred soldiers.
 

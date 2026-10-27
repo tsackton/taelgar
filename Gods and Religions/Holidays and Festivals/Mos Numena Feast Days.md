@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:39:23-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -9,7 +8,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Mos Numena Feast Days
+```taelgar-header
+```
 
 Those who follow the way of [[Mos Numena]] celebrate many holidays and feast days. Some, such as [[Pyravela]], are ancient and widely celebrated; many others are local thanksgivings for miracles of the divine.
 

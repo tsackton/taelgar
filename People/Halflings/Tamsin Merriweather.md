@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,11 +12,8 @@ whereabouts:
 knownTo: [clee]
 POV: 1720s
 ---
-# Tamsin Merriweather
->[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (she/her), of the [[Merriweathers]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Tamsin Merriweather is [[Tobin Merriweather|Tobin's]] talkative niece and a member of the [[Merriweathers|Merriweather]] trading caravan.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 displayDefaults: {linkText: "on", ltPlace: "on", defArt: the}
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# The Stoneway
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% some notes on features along the road that probably aren't worth their own pages but would be nice to record in OneNote %%
 

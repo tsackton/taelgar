@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T18:23:23-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -12,10 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1715
 ---
-# Kelvyn
->[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A mysterious associate of [[Duncan of Haldrenn]], now a guard in the household of the Earl of Adderfell. 
 

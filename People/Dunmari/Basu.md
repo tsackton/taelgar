@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,14 +17,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# Basu
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on June 30th, 1748 in the [[Lakan Monastery]], [[Tokra]], [[Dunmar]] %%^End%%  
->> %%^Campaign:dufr%% Constructed portable hole for the [[Dunmar Fellowship]] on July 15th, 1748 in the [[Lakan Monastery]], [[Tokra]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 The grumpy craftsman of the Lakan monks, known for creating magic items that channel extradimensional space, like bags of holding and portable holes. 
 

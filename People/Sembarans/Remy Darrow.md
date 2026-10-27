@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:44:02-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1719
 ---
-# Grandpa Remy Darrow
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:clee%% Met by the [[Heroes of Cleenseau]] on October 21th, 1719 in [[Taviose]], the [[Manor of Cleenseau]], the [[Barony of Aveil]] %%^End%%
+```taelgar-header
+```
 
 ![[remy-darrow.png|right|320]]Grandpa Remy is well-liked for his off-color jokes and his fondness for apple brandy. He was saved from death by [[Izgil Moonseeker|Izgil's]] magic and has become one of the biggest boosters of the [[Heroes of Cleenseau]]. 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T12:23:59-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Wildrun
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Wildrun is a fey realm, lying north and west of [[Splendor's Gleam]], roughly aligned with the [[Tawir Forest]] and the [[Mawakel Peninsula]] on Taelgar. Stories collected in [[The Lore of the Feywild]] place one known crossing in the [[Tangled Vale]], a shifting grove in the [[Tawir Forest]] that opens, at times, into Wildrun.
 

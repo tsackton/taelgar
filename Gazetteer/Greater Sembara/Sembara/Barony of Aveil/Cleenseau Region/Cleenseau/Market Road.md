@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/ai, status/check/lint]
@@ -9,10 +8,8 @@ name: Market Road
 whereabouts: Cleenseau
 POV: modern
 ---
-# Market Road
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Market Road is a paved street in [[Cleenseau]], connecting the [[Market Gate (Cleenseau)|Market Gate]] to the [[North Gate of Cleenseau|North Gate]]. It separates the North Close from the [[Garrison Quarter]] and [[Underhill]].
 

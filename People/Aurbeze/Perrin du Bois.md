@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -19,12 +18,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Perrin Du Bois
-*(peh-RAN dyu BWAH)*
->[!info]+ Biographical Info  
-> An [[Refounded Alliance of Aurbez|Aurbeze]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 7th, 1749 in [[Three Wells]], the [[Refounded Alliance of Aurbez]] %%^End%%
+```taelgar-header
+```
 
 ![[perrin-du-bois.png|right|400]]Perrin is an Aurbeze beekeeper and father of four. He is a smallholder of his own farm, and has recently been elected to represent the scattered smallholds and isolated farms across the [[Aurbez Plateau]] in Alliance councils. 
 

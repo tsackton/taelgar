@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -12,9 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Kauno the Mariner
->[!info]+ Biographical Info  
-> A [[Skaer]] [[Humans|human]] (he/him)
+```taelgar-header
+```
 
 Kauno the Mariner was a legendary sailor in Skaer history, about whom many myths and legends have collected.
 

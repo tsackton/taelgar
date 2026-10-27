@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, religion/fivesiblings, status/cleanup/image]
@@ -14,11 +13,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Aagir
-*(AA-gir)*
->[!info]+ Information  
-> An [[Incorporeal Gods|incorporeal god]] (he/him), part of the [[Dunmari Religion]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 One of [[Dunmari Religion|the Five Siblings]] of the Dunmari religion, and one of the [[Incorporeal Gods]] of humanity. 
 

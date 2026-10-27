@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/gameupdate/dufr, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1749
 ---
-# Olen Vrask
->[!info]+ Biographical Info  
-> An [[Ursk|Urskan]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 ![[olen-vrask-portrait.jpg|right|400]]Olen is a secretary and scribe for [[Branek Mirov]].
 

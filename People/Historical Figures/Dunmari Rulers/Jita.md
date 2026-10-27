@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -22,12 +21,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Samraat Dharajun Jita
->[!info]+ Biographical Info  
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her), of the [[Dharajun Dynasty|Dharajun dynasty]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The founding ruler and Samraat of the Dharajun dynasty, associated with [[Chidya]] and often called the dynasty of the horse. 
 

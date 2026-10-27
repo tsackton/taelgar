@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -21,13 +20,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Rose Brightmoon
->[!info]+ Biographical Info
-> A [[Halflings|halfling]] (she/her), of the [[Brightmoons]]
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met with [[Wellby]] on September 30th, 1748 in the [[Wave Dancer]], sailing to [[Wahacha]], the [[Vermillion Isles]] %%^End%%
->> %%^Campaign:dufr%% Last seen with [[Wellby]] on October 12th, 1748 in the [[Wave Dancer]], moored in the [[Wahacha|main port of Wacahca]], the [[Vermillion Isles]] %%^End%%
+```taelgar-header
+```
 
 Rose is an elderly halfling woman who sails with the Wave Dancer as a musician. She is a brilliant guitarist.
 ## Relationships

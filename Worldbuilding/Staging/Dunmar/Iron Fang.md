@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [group, status/check/ai]
 displayDefaults: {defArt: "the"}
 typeOf: clan
@@ -9,11 +8,8 @@ whereabouts: Plaguelands
 dm_owner: none
 dm_notes: none
 ---
-# The Iron Fang
->[!info]+ Information
-> A hobgoblin clan
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Iron Fang are a [[Hobgoblins|hobgoblin]] clan and army associated with the wars after the [[Great War]]. They led much of the [[Bloodlust Wars]] against [[Sembara]] in DR 1547-1549, advanced at least as far north as [[Valarin]], and were later pushed back deep into the [[Plaguelands]].
 

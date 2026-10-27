@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -10,10 +9,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Shadowfolds
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Shadowfolds are the name, popularized by the Drankorian text [[On Metaphysics]], for the collection of demiplanes associated particularly with the resonances of great evil. In the [[Standard Multiversal Model]], these are considered [[Echo Realms]]: the few reliable reports of planar travelers who explored and lived to escape these dark domains suggest that, like the [[Feywild]], there is a rough physical correspondence between the features of Shadowfolds domains and the [[Material Plane]].
 

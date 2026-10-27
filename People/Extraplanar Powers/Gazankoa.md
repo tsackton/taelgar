@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [power, status/check/lint]
@@ -10,10 +9,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Gazankoa
->[!info]+ Information  
-> An elder elemental  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The entity called Gazankoa, frequently mentioned in the lore of [[Mawar Confederacy|Mawar]], [[Apporia]], and the [[Coastlands|Chardonian Coastlands]], is a powerful elemental being, rumored to gift magic to those desperate, foolish, or mad enough to seek it. Though sources differ on Gazankoa's exact identity, all agree on a deep connection to the [[Elemental Plane of Water]] and a longstanding hatred of the [[Sentient Ocean]].
 

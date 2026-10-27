@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the}
@@ -15,10 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Teft
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A swift-flowing, largely unnavigable river in the north of the Sembara. The Teft flows from the central foothills of the [[Sentinel Range|Sentinels]], where a number of mountain streams (most notably the south-flowing [[Berze|Bērze]] and the north-flowing [[Vilna]]) join, east-south-east through the [[Great Chasm]] until it empties into the [[Western Gulf]] north of [[Embry]]. 
 

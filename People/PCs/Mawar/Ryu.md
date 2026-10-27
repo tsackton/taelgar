@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,11 +16,8 @@ dm_owner: player
 dm_notes: important
 POV: 1740s
 ---
-# Ryu
->[!info]+ Biographical Info  
-> A [[Mawar Confederacy|Mawaran]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Ryu is a native of Hamri and a deep sea fisherman, who lives in an abandoned watcher’s tower north of the city, across the bay on the bluffs of [[North Cliffs]]. He is well known around Hamri as an expert in finding fish and other sea creatures with an abundance of gatza.
 

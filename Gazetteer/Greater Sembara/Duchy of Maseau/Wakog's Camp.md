@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: null}
@@ -16,11 +15,8 @@ dm_owner: none
 dm_notes: color
 POV: modern
 ---
-# Wakog's Camp
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A temporary camp established by [[Wakog]] in the badlands between [[Cleenseau]] and [[Evis]]. It was destroyed by the [[Heroes of Cleenseau]] in late 1719.
 

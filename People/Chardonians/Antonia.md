@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T09:29:24-04:00"
 lintVersion: "3.5"
 tags: [person, testcase, status/gameupdate/dufr, status/check/lint]
@@ -22,14 +21,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Antonia
-*(An-ton-ia)*
->[!info]+ Biographical Info  
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Imprisoned by the [[Dunmar Fellowship]] on December 8th, 1748, in the [[Mirror of Soul Trapping]], [[Uzgukhar]], [[Xurkhaz]] %%^End%%
+```taelgar-header
+```
 
 %% update to reflect events in DuFr game; copy notes from OneNote %%
 

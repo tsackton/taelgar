@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T23:38:37-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Elemental Plane of Metal
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Elemental Plane of Metal is a hypothesized Energy Realm that is implied to exist by the traditional dwarven model of seven fundamental energies: Spirit, Magic, Earth, Air, Fire, Water, and Metal. In that model, the non-Spirit energies are each assumed to derive from a specific energy realm, requiring the existence of an energy realm associated with metal.
 

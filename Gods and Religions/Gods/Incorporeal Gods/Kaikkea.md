@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [power, religion/skaer]
@@ -11,10 +10,8 @@ dm_owner: tim
 dm_notes: color
 POV: modern
 ---
-# Kaikkea
-*(KAI-key-ah)*
->[!info]+ Information  
-> An [[Incorporeal Gods|incorporeal god]] (she/her)
+```taelgar-header
+```
 
 Kaikkea, known as the Great Ocean Mother, the Water of Life, and the Eternal Source, is the god of the Skaer people. She is worshipped as the source of all, the mother ocean, the giver of life, but also the bringer of storms and the embodiment of the ocean in all its moods. 
 

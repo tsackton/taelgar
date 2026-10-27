@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-24T09:25:51-04:00"
 lintVersion: "3.5"
 tags: [place, status/gameupdate/gl]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: 1747
 ---
-# The Snake River Fort
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A small Chardonian fort at a [[Snake River]] crossing east of [[Voltara]], marking the edge of settled territory before the open plains. Travelers receive warnings here about whatever dangers make be lurking in the east, across the plains. 
 

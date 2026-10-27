@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-18T23:48:18-04:00"
 lintVersion: "3.5"
 tags: [background, status/check/lint, status/check/ai]
@@ -9,7 +8,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Intellectual History of Cosmology in Taelgar
+```taelgar-header
+```
 
 This is a DM-facing reference to the development of cosmological thought in Taelgar. It describes the history of ideas, arguments, source traditions, and academic schools; it does **not** establish which account of the [[Multiverse]] is metaphysically correct.
 

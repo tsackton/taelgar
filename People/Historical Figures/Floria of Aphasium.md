@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-04T21:26:49-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -20,13 +19,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Floria of Aphasium
-*(FLOH-ree-ah uv ah-FAH-see-um)*
->[!info]+ Biographical Info  
-> A [[Drankorian Empire|Drankorian]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 > [!image|right standard]
 > ![[floria-of-aphasium-book-of-martyrs.webp]]

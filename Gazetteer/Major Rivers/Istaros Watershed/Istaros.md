@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 tags: [place, status/gameupdate/dufr]
@@ -13,11 +12,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Istaros
-*(ISS-tah-rohs)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% status/gameupdate/dufr -- does not reflect events post-ooze-destruction %%
 

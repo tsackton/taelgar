@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-09-29T18:22:03-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -12,11 +11,8 @@ dm_owner: mike
 dm_notes: none
 POV: modern
 ---
-# The River's Blessing
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A quiet place known for its fried trout. This inn is where the villagers from [[Beury]] often stay when bringing goods to market. It has an insular and local vibe, and although strangers are not unwelcome exactly, many prefer to stay at the [[The Fox's Flagon]] or [[The Crossroads Inn]].
 

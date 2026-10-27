@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:49:48-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -12,10 +11,8 @@ aliases: ["Eudomes' Mirror"]
 knownTo: [dufr]
 POV: modern
 ---
-# Eudomes' Mirror of the Past
->[!info]+ Information
-> (very rare magical mirror)
-> [Mechanics](https://www.dndbeyond.com/magic-items/2739459-eudomes-mirror)
+```taelgar-header
+```
 
 %% this describes both the general class of "Mirror of the Past" and the specific item, Eudomes' Mirror of the Past; ideally might want to refactor to remove the campaign specific stuff, if I decide that a Mirror of the Past is a general type of object%%
 

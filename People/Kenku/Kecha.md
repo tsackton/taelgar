@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1749
 ---
-# Kecha
->[!info]+ Biographical Info
-> A [[Kenku|kenku]] (he/him)
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[kecha-portrait-final.png|right|400]]Kecha is a young kenku scout, a wanderer and traveler who loves the forests and mountains.  
 

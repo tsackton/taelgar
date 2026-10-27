@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -14,12 +13,8 @@ dm_owner: mike
 dm_notes: color
 POV: modern
 ---
-# Aslain
-*(Ahz-lane)*
->[!info]+ Information  
-> pop. 1,187  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Aslain is a busy market town near the confluence of the [[Auberonne]] and [[Leandre]] rivers in the [[Barony of Aveil]]. The town, and much of the farmland to the east along the banks of the [[Auberonne]], is historically controlled by the [[d'Aslains|d'Aslain]] family. It is not fortified, and was rebuilt during the reign of [[Cece I]] after the ravages of the [[Third Hobgoblin War (Sembara)|hobgoblin wars]], across the river from the ancient town of the same name, now in ruins. This is a rich agricultural region, but the town does not have any large industries or significant trade, other than a small number of halflings mostly plying the cloth trade. This is too far north for the timber trade in Aveil, although some masonry and stone does make its way downriver to Rinburg, for building.
 

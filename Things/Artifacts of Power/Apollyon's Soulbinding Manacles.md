@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -13,10 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# Apollyon's Soulbinding Manacles
->[!info]+ Information  
-> ([[Drankorian Empire|Drankorian]] magic manacles)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 These ancient enchanted manacles were chained to the wall in [[Apollyon's Tower]] on the [[Circular Island]]. They were fashioned by [[Apollyon]] to hold victims in place during the rites that created [[Apollyon's Phylactery]], drawing their souls and life into the dagger.
 

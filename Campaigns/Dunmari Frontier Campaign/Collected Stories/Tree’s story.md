@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:32:28-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -7,7 +6,9 @@ campaign: Dunmar Frontier
 name: Tree’s Story
 POV: 1748
 ---
-# Tree’s Story
+```taelgar-header
+```
+
 ([[Session 64 (DuFr)|collected by]] [[Kenzo]])
 
 The story of a great tree of the jungles is a long, slow tale. [[Kenzo]] listens, and hears the slow ache of a seed waiting to germinate, the long age of darkness that bursts into a vibrant thrill of sunlight. 

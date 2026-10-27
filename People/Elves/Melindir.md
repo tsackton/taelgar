@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -18,12 +17,8 @@ dm_owner: none
 dm_notes: color
 POV: 1740s
 ---
-# Melindir
-*(meh-LIN-deer)*
->[!info]+ Biographical Info  
-> An [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] 35)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% First met by the [[Dunmar Fellowship]] on December 17th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
+```taelgar-header
+```
 
 Melindir is the Ambassador to [[Tollen]] for the elven lands of [[Orenlas]].
 

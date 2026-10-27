@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-06T09:15:48-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -13,11 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# Echo
-*(EH-koh)*
->[!info]+ Biographical Info  
-> A talking fruit bat (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Echo is a talking fruit bat who lives in a cave colony in the [[Awakened Jungle]].
 

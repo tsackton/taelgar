@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 tags: [object, status/check/lint]
@@ -12,11 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Gatza
-*(GAH-tsah)*
->[!info]+ Information  
-> (drug)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A particular drug of the Mawakel peninsula is gatza, harvested from the livers of particularly large predatory fish from the [[Endless Ocean]]. Originally used by the lizardfolk of the salt marshes and tidal flats as part of spiritual ceremonies of communion, gatza gives those who take it the power to hear and even speak with the spirits of the dead. When taken in small doses, as part of a controlled ritual in lizardfolk communities, this is a powerful way to receive visions of those lost and explore the spirit world of the ancestors. 
 

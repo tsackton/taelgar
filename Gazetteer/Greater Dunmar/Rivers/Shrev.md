@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T17:36:36-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,11 +12,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Shrev
-*(SHREV)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 One of the rivers of western [[Dunmar]], flowing from the [[Yuvanti Mountains]] to the [[Nevos Sea]]. Normally a placid river, during the summer monsoons it regularly overflows its banks, nourishing the dry savanna of the southern Nayan Floodplains. 
 

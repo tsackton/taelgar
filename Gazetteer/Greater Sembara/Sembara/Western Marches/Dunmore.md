@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T01:11:18-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -12,10 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Dunmore
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Dunmore is a fortified town of the western marches, positioned to service and supply the garrisons along the [[Western Wall of Sembara]]. Its stout gates and stone‑lined streets reflect its role as a military entrepôt, though it also serves as a market for surrounding farms and quarries.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -14,10 +13,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# The Father
->[!info]+ Information  
-> An [[Incorporeal Gods|incorporeal god]] (he/him), part of [[Mos Numena]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 %% vibes and notes:
 - associated with the [[Radiant Path]] and the religious resistance to Apollyon's rule in Drankor. Whether this is echoing effects into the present day is unclear / undecided. 

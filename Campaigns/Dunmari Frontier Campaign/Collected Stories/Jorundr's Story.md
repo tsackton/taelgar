@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T09:32:28-04:00"
 lintVersion: "3.5"
 tags: [source]
@@ -7,7 +6,9 @@ campaign: Dunmar Frontier
 name: "Jorundr's Story"
 POV: 1748
 ---
-# Jorundr's Story
+```taelgar-header
+```
+
 ([[Session 71 (DuFr)|collected by]] [[Kenzo]])
 
 [[Jorundr]]'s story starts east and north of here, in the [[Green Sea]]. He was born to some of my kind who live underwater there -- while many of our kind dwell in the high mountains among the clouds, others dwell deep below the sea.

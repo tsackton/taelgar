@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-25T22:52:37-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: "", boxInfo: "<ancestry:AU> <typeof:AUn><(, written )written:nx><(, by )author>", startStatus: completed in}
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Zharuk Akhal
-*(ZHAH-rook ah-KHAHL)*
->[!info]+ Information  
-> A [[Dwarves|Dwarven]] cosmological treatise  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 *Zharuk Akhal*, also rendered as *Zhâruk Akhâl*, is the most famous work on the [[Far Realms]]. It is said to drive readers who dare study its secrets mad.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -20,12 +19,8 @@ dm_owner: none
 dm_notes: none
 POV: 1740s
 ---
-# Izkir
->[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:GL%% Met by the [[Silver Tempests]] on February 1st, 1748 along the [[Zarnato]] %%^End%%
+```taelgar-header
+```
 
 Izkir is a Deno'qai godcaller from the [[Highveil Forest]], associated with [[Bita]], the tanshi of bears. He served as a guide and divine spellcaster during the [[Silver Tempests]]' campaign against [[Nymthrax]] in the [[Blackwater Fens]].
 

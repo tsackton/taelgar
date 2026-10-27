@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T09:37:56-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,11 +15,8 @@ dm_owner: mike
 dm_notes: color
 POV: 1720
 ---
-# El
->[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (they/them)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[el-wyrdling.png|right|320]]A disciple of the Wyrdling, recently blessed with several miracles. They grew up the child of a rich merchant in [[Gowerbourne]], and found the Wyrdling in mid-life. 
 

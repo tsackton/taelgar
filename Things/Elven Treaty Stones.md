@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:07:38-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Elven Treaty Stones
->[!info]+ Information  
-> (monument)  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 A variety of carved pillars of stone can be found scattered across [[Greater Chardon]], the [[Northwest Coast]], and the [[Central Highlands]]. These are known as Elven Treaty Stones, and are ancient markers associated with old agreements between [[Elves|elves]] and the [[Northerners|early human settlers]] of these regions. Usually carved with extensive writings in Elvish, along with images and occasionally [[Languages#Northros Language Family|Northos]], they typically mark meeting points and understandings of friendship. While many have fallen into disrepair, those that remain often still carry lingering traces of the ancient magic of [[Aldanor]] and provide areas of sanctuary and peace.
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -15,11 +14,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Xameia the Forsworn
->[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+```taelgar-header
+```
 
 Xameia the Forsworn was a paladin of the [[Order of Twilight]], a religious order of [[The Night Queen]]. The order provided hospice care and tended many at the end of their life, with care and dignity, and as a result often received significant bequests. Xameia grew jealous of the wealth passing to the Order, and eventually broke, stealing a large amount of gold and leaving several dead acolytes in her wake. 
 

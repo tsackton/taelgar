@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 displayDefaults: {boxInfo: "<subspecies:sA> (<species>), <pronouns>"}
@@ -19,11 +18,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Motua
-*(moh-TOO-ah)*
->[!info]+ Biographical Info
-> a [[Gidari|gidari]] ([[Celestials|celestial]]), they/them
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[motua.png|right|400]]One of the guardians of the [[Land of the Dead]], a [[Gidari]], who is native to the [[Land of the Dead]] and serves as a guide and protector of souls on their journey beyond the veil. 
 

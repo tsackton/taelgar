@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T12:50:50-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1715
 ---
-# Alewyn
-*(EYE-loo-in)*
->[!info]+ Biographical Info  
-> An [[Addermarch|Addermarian]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 19th, 1715 in [[Haldrenn]], [[Highmoor]], [[Carlinshire]] %%^End%%
+```taelgar-header
+```
 
 Alewyn is a villager in [[Haldrenn]], whose home serves as an informal winter tavern. She is warm, talkative, and well supplied with local gossip.
 

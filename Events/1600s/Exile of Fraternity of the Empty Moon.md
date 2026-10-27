@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event]
@@ -12,9 +11,8 @@ dm_owner: tim
 dm_notes: important
 POV: modern
 ---
-# The Exile of Fraternity of the Empty Moon
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The Exile of the Fraternity of the Empty Moon was a campaign waged over the course of four months in the summer of the 68th year of the Nayan Dynasty (DR 1625). 
 

@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:22:39-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -8,10 +7,8 @@ name: Old Veltor Road
 whereabouts: Barony of Aveil
 POV: modern
 ---
-# The Old Veltor Road
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Old Veltor Road is a maintained road along the [[Auberonne]], running from [[Rinburg]] to [[Veltor]]. The route is ancient, but the road underwent substantial repairs after the [[Third Hobgoblin War (Sembara)|hobgoblin wars]].
 

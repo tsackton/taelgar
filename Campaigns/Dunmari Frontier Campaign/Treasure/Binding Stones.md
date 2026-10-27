@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T07:26:32-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -11,12 +10,8 @@ whereabouts: Seeker
 knownTo: [dufr]
 POV: modern
 ---
-# The Binding Stones of Amloch
->[!info]+ Information  
-> (legendary wondrous item)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/7676659-binding-stones-of-amloch)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[binding-stones.jpg|right|400]]A set of five crystals, each a different color, dating from before the [[The Downfall|Downfall]] to the early days of [[Hkar]], constructed by the wizard [[Amloch]]. 
 While little is known for certain about their magic, they are powerful in entrapment and imprisonment, and in manipulating extraplanar creatures. 

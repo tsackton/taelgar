@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Cleenseau
@@ -17,7 +16,8 @@ tagline: in which a gazebo dies and tea follows
 sessionKey: cleenseau-session-32
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 32
+```taelgar-header
+```
 
 >[!info] Closing the Portal: in which a gazebo dies and tea follows
 > *Featuring: [[Robin of Abenfyrd|Robin]], [[Viepuck]], [[Celyn]], and [[Izgil Moonseeker|Izgil]]*

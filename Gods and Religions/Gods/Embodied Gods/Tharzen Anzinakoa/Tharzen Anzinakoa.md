@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 tags: [background, religion/lizardfolk]
@@ -9,8 +8,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Tharzen Anzinakoa
-*(tar-SEN an-see-NA-ko-ah)*
+```taelgar-header
+```
 
 The Tharzen Anzinakoa are [[Embodied Gods|Embodied Divinities]], known as the Firstborn divine creators of the [[Lizardfolk|lizardfolk]]. In lizardfolk lore, they were given life during the [[Riving]] by the [[Divine Presence]], and as they walked the earth in those days outside time, their footsteps shaped the course of rivers. Rains and floodwaters are said to follow their wanderings, and the swamps and riverlands that became lizardfolk homelands are the places where they lingered. 
 

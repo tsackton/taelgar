@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T17:51:33-04:00"
 lintVersion: "3.5"
 tags: [person, status/cleanup/metadata, status/check/lint]
@@ -18,12 +17,8 @@ dm_owner: none
 dm_notes: color
 POV: 1748
 ---
-# Escobar Garavito
->[!info]+ Biographical Info  
-> A [[Cymea|Cymean]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %%needs campaign info and whereabouts in header%%
 

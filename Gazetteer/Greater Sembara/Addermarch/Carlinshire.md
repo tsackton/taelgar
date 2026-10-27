@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place, status/check/lint]
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Carlinshire
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Carlinshire is the largest of the three shires that owe allegiance to the Earl of the Mostreve, and contains the upper stretches of the [[Umber]], the higher elevations of [[Torvaine Forest]], and the northern part of the [[Westcliff]]. It is bordered by the [[Maseau Gap]] on the west and northwest, [[Bramshire]] to the northeast, the [[Aure]] valley to the east, and [[Weskershire]] to the south.
 

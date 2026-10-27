@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Dragonets
@@ -15,7 +14,8 @@ POV: undated
 sessionKey: dragonets-session-2
 session-template: dragonets-template.md
 ---
-# Dragonets - Session 2
+```taelgar-header
+```
 
 >[!info] The Hidden Heart
 > *Featuring: Heska, Sculpit, Little Tony, and Zeno*

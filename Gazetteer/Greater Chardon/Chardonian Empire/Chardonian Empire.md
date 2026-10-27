@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-23T16:50:31-04:00"
 lintVersion: "3.5"
 tags: [place, status/gameupdate/gl, status/gameupdate/dufr, status/cleanup/text, status/check/lint]
@@ -13,11 +12,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1749
 ---
-# The Chardonian Empire
-*(char-DOH-nee-an)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 %% to do:
 The article is explicitly a May 1749 snapshot, but later established events materially changed the state it describes. [[Chardon-Dunmar War]] records the July 25 treaty and Chardonian suzerainty over Darba; [[Chardonian Chalyte Trade Reforms]] records the end of the four-family chalyte monopoly; and [[Great Library Session Notes - Arc 5]] establishes that the Northern Provinces were separated from the empire by DR 1752. Human review should either update the article and POV metadata, preserve the dated snapshot while adding the documented deferral state, or intentionally retain the snapshot as historical reference.

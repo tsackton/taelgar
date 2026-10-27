@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:04:00-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -13,11 +12,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# Nardith
-*(NAR-dith)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Nardith, meaning “new Ardith,” is a dwarven kingdom in the [[Yuvanti Mountains]], founded by survivors of [[Ardith]] after the [[Great War]]. Newly risen from the plains of [[Dunmar]] when the refugees arrived, the mountains proved easy to mine and rich in minerals. Nardith is now a prosperous realm, trading with [[Dunmar]] and [[Chardon]].
 

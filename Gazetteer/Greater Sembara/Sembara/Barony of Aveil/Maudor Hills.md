@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T00:45:23-04:00"
 lintVersion: "3.5"
 tags: [place]
@@ -10,11 +9,8 @@ pronunciation: MAW-dor HILZ
 whereabouts: Barony of Aveil
 POV: modern
 ---
-# The Maudor Hills
-*(MAW-dor HILZ)*
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Maudor Hills separate the villages along the [[Enst]] from the northern parts of the [[Barony of Aveil]]. Their western slopes are densely forested, cut by deep ravines and steep cliffs; the more settled eastern slopes have several brooks and exposed granite among woods cleared by logging.
 

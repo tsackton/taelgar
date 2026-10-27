@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T12:58:09-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -26,14 +25,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# Ander Charmheart
->[!info]+ Biographical Info
-> A [[Halflings|halfling]] (he/him), of the [[Charmhearts]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
->> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
+```taelgar-header
+```
 
 A young, rambunctious and excessively curious halfling, traveling with the Charmheart trading caravan as a scout and general hand. 
 ## Relationships

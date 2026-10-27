@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:10:06-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -21,13 +20,8 @@ dm_owner: tim
 dm_notes: color
 POV: 1749
 ---
-# Jotha
-*(yo-TAH)*
->[!info]+ Biographical Info  
-> A [[Deno'qai]] [[Humans|human]] (she/her), of the [[Ko'zula]]  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[jotha.jpg|right|300]]Jotha is a warrior, serious and sometimes distant, who relies on her connection to the [[Tanshi]] to make sense of the dangers and evils she has faced. She prefers to listen instead of talk, and enjoys hearing stories. While eventually she intends to return to her homeland, for now she travels seeking to deepen her connection to the tanshi. 
 ## Background

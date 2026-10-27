@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -12,9 +11,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Emyr of Tafolwern
->[!info]+ Biographical Info  
-> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (he/him)
+```taelgar-header
+```
 
 Emyr of Tafolwern was a Tyrwinghan planar geographer and cosmological writer, working in the DR 1600s. He is widely recognized as one of the leading post-[[Great War]] critics of the standard scholarly accounts of planar geography.
 

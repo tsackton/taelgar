@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-08-28T16:53:46-04:00"
 lintVersion: "3.5"
 displayDefaults: {aNoDate: "Traveled with <affiliations>"}
@@ -20,11 +19,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1748
 ---
-# Drikod
->[!info]+ Biographical Info  
-> A [[Stoneborn|stoneborn]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 ![[drikod-portrait.jpg|right|400]]A stoneborn druid who spent some time investigating troubles in Dunmar. 
 

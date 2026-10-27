@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T00:23:09-04:00"
 lintVersion: "3.5"
 tags: [event, status/gameupdate/clee, status/check/lint]
@@ -10,9 +9,8 @@ dm_owner: none
 dm_notes: important
 POV: modern
 ---
-# The Battle Against Wakog
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+```taelgar-header
+```
 
 The [[Heroes of Cleenseau]] ambushed a large orc camp, led by the ogre [[Wakog]], and defeated him.
 

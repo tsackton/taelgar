@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T13:42:28-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -18,11 +17,8 @@ dm_owner: none
 dm_notes: none
 POV: 1749
 ---
-# Lirien
->[!info]+ Biographical Info  
-> A [[Fey|fey]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Lirien is a willowy, flame-haired fae with a presence that flickers between fierce determination and quiet sorrow. Her hair shifts in hue, from the deep gold of sunset to the dying embers of a hearth, its glow dimming or flaring in response to her emotions. Her eyes are a molten amber, catching and reflecting light like polished gold, though in moments of despair, they dull to the color of old brass. She wears a cloak of deep red and umber, tattered at the edges as if burned away by time, and carries a lantern wrought from delicate silver filigree, within which a single, flickering light still struggles to shine. 
 

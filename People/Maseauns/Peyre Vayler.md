@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T14:58:27-04:00"
 lintVersion: "3.5"
 tags: [person, status/check/lint]
@@ -17,12 +16,8 @@ dm_owner: none
 dm_notes: none
 POV: 1719
 ---
-# Lord Peyre Vayler
->[!info]+ Biographical Info  
-> A [[Duchy of Maseau|Maseanne]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 The Lord of [[Evis]], he is known as a fair and just lord, although his two daughters are bitter rivals and his inability to choose an heir has left Evis paralyzed somewhat over the last year or two as his health has declined.
 

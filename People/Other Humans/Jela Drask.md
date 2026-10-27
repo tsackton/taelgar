@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-03T16:58:26-04:00"
 lintVersion: "3.5"
 tags: [person]
@@ -16,12 +15,8 @@ dm_owner: tim
 dm_notes: important
 POV: 1740s
 ---
-# Jela Drask
-*(YEH-lah DRask)*
->[!info]+ Biographical Info  
-> An [[Ursk|Urskan]] [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Jela is a wizard and member of the [[Rodnya Nivik]], based in [[Zvervinka]].
 

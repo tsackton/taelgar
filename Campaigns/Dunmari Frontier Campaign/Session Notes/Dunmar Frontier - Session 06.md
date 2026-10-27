@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 websiteSessionView: zoomable
 campaign: Dunmar Frontier
@@ -16,7 +15,8 @@ tagline: "in which Karawa’s festival becomes a fight for survival"
 sessionKey: dunmari-frontier-session-6
 session-template: dunmar-frontier-template.md
 ---
-# Dunmari Frontier - Session 6
+```taelgar-header
+```
 
 >[!info] The Festival of Rebirth: in which Karawa’s festival becomes a fight for survival
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], and [[Riswynn]]*

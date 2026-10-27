@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-20T11:59:58-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: ""}
@@ -11,10 +10,8 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# Western Cymea
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 Western Cymea, the foothills and coastal lowlands west of the [[Plataca Hills]], is politically and culturally distinct from the rest of the [[Cymean Peninsula]]. Looking to the [[Western Gulf]], not the open [[Green Sea]], it is a place of small strongholds, fortified market towns, and rushing, rocky rivers that spill into the ocean; a land of mild winters and warm summers, of cattle and wine. Many of the people of Western Cymea live in scattered small fishing villages and isolated farmsteads in the uplands, with little mind to larger political organization, though larger market towns and ports with good harbors provide opportunities for trade. 
 

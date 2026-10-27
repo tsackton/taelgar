@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 tags: [session-note]
 campaign: Cleenseau
 sessionNumber: 22
@@ -13,7 +12,8 @@ tagline: in which the party investigates the curse over Peydon
 sessionKey: cleenseau-session-22
 session-template: cleenseau-template.md
 ---
-# Cleenseau - Session 22
+```taelgar-header
+```
 
 After freeing the Hunter's captives, the party travels to [[Peydon]] to investigate the fey power known as the [[Midnight Lady]]. Viepuck impersonates [[Gareth of Tollen]] to question her associates, while the others investigate the cursed town. The session ends after a confrontation at her scrying well shows that ordinary attacks cannot permanently harm her.
 

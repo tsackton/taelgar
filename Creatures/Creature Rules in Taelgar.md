@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
 tags: [meta, status/check/lint]
@@ -9,7 +8,8 @@ dm_owner: joint
 dm_notes: none
 POV: modern
 ---
-# Creature Rules in Taelgar
+```taelgar-header
+```
 
 This page contains guidelines for adapting D&D rules around creatures to Taelgar metaphysics. For background on the metaphysics of creatures, see [[Metaphysics of Creatures]]. For mechanical details of species available to PCs, see [[Playable Species of Taelgar]].
 ## Categories of Creatures

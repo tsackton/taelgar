@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T23:47:22-04:00"
 lintVersion: "3.5"
 tags: [object]
@@ -12,11 +11,8 @@ dm_owner: tim
 dm_notes: none
 POV: modern
 ---
-# The Ancient Texts of Yerkir-Khor
->[!info]+ Information  
-> (ancient papers)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+```taelgar-header
+```
 
 A collection of notes recovered by the [[Adventurers of Mawar]] from the [[Tomb of Yerkir-Khor]] in DR 1747. They were found in the inner sanctum, protected and preserved by some kind of magical yellow dust, inside one of six gem-stoppered jars behind the altar. 
 

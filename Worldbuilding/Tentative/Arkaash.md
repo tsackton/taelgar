@@ -1,11 +1,11 @@
 ---
-headerVersion: 2023.11.25
 tags: [place, religion/fivesiblings, status/stub]
 dm_owner: tim
 dm_notes: important
 tentativeReason: "unclear if this exists; possible merge candidate"
 ---
-# Arkaash
+```taelgar-header
+```
 
 
 Not clear yet if incorporeal gods have separate "home planes"

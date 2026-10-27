@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:02:41-04:00"
 lintVersion: "3.5"
 displayDefaults: {defArt: the, ltItem: by}
@@ -11,8 +10,9 @@ dm_owner: none
 dm_notes: none
 POV: modern
 ---
-# The Bahrâzel
-*(BAH-rah-zel)*
+```taelgar-header
+```
+
 *See also: [[Dwarven Religious Practice]].*
 
 The Bahrâzel are the [[Embodied Gods]] of the [[dwarves]], the mystical firstborn of the species and creators of the first dwarves. Legend says the seven Bahrâzel were created from living rock by the [[Divine Presence]], given form and magic and empowered to create the dwarven people in their image. Their divine realm, the [[Heart of the Mountain]], is most prominently known among dwarves for its association with the rite of name-taking.
