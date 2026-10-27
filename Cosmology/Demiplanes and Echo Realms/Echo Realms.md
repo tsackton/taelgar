@@ -37,7 +37,7 @@ A fair bit of discussion about the nature of Echo Realms:
 - [[2024-07-18 - Deep History and the Multiverse]]; [[2024-07-19 - Multiverse]]; [[2024-07-26 - Species and Souls]]
 - [[2024-03-21 - Magic]]; [[2024-03-23 - Magic]]; [[2024-04-27 - Magic]]
 
-Note that canonically, centaurs believe in the Echo Realms theory, but they are somewhat anti-fey and also strongly feel a connection to the Material Plane, so this is perhaps not surprising. See:
+Note that canonically, at least some centaurs (e.g. [[Tharandros]]) believe in the Echo Realms theory, but they are somewhat anti-fey and also strongly feel a connection to the Material Plane, so this is perhaps not surprising. See:
 - [[Session 18 (DuFr)]]
 
 %%^End%%
