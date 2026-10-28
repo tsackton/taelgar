@@ -230,7 +230,8 @@ def signature(state, units, chunk, stage):
     chosen = selected(units, chunk, context=2)
     ids = {u['uid'] for u in chosen}
     value = {'contractVersion': VERSION, 'editorialPolicy': EDITORIAL_POLICY, 'source': chosen,
-             'attributions': [a for a in state['attributions'] if a['uid'] in ids]}
+             'attributions': sorted((a for a in state['attributions'] if a['uid'] in ids),
+                                    key=lambda a: (a['uid'], a['start'], a['end']))}
     if stage == 'quality':
         value['polish'] = state['polish'].get(chunk['id'])
         position = state['chunks'].index(chunk)

@@ -268,6 +268,14 @@ writes; a conflicting later edit stops recovery without replacing it. Processing
 history stays within the bundle only until finalization. `status` does not mutate files. A stale response is
 rejected before source edits. Regenerate its job and reconcile the current content.
 
+Speaker-attribution storage order is not meaningful. Stage fingerprints sort
+overlays by UID and character span, so resubmitting unchanged corrections cannot
+alternately invalidate neighboring chunks. Changes to an overlay's contents still
+invalidate affected work. Older order-sensitive fingerprints may become stale
+after this fix; inspect affected work and submit fresh jobs rather than rewriting
+stored hashes or treating stale review as current. Finalized reference checks
+remain based on the retained artifact fingerprints.
+
 The CLI does not call an LLM. The skill's agent performs the semantic work and
 submits evidence-backed responses. Deterministic draft generation alone cannot
 establish cleaned or polished quality.
