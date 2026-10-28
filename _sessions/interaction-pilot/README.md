@@ -1,6 +1,8 @@
 # Campaign interaction extraction — review materials
 
-The current baseline is **v3, transcript-only extraction**. It includes NPC and important-item cards, one overview per entity per session, complete conversation ranges, shared scenes with locations/dates/types, and multiple pull quotes for major NPCs. This is a design checkpoint for discussion, not a deployed Taelgarverse feature.
+**Start with the [proposed model overview](MODEL_OVERVIEW.md)** for the latest agreed design and questions to share with other vault users. [Review and preprocessing](WORKFLOW_DISCUSSION.md) are still under discussion.
+
+The current executable trial baseline is **v3, transcript-only extraction**; it predates the model proposal. It includes NPC and important-item cards, one overview per entity per session, complete conversation ranges, shared scenes with locations/dates/types, and multiple pull quotes for major NPCs. This is a design checkpoint for discussion, not a deployed Taelgarverse feature.
 
 [Extraction skill](../../.agents/skills/extract-campaign-interactions/SKILL.md) · [JSON format](../../.agents/skills/extract-campaign-interactions/references/format.md) · [Current trial index](v3/README.md)
 
