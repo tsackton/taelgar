@@ -1,0 +1,4 @@
+interface:
+  display_name: "Automatic Transcript Cleanup"
+  short_description: "Resolve marked names with review logs and precise undo"
+  default_prompt: "Use $automatic-transcript-cleanup to resolve marked name errors in the specified cleaned transcripts and log every replacement."
