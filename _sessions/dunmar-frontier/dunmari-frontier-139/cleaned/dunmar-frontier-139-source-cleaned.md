@@ -15,7 +15,7 @@
 [u0015 | 00:00:37.360-00:00:37.400 | Wellby] Yeah.
 [u0016 | 00:00:37.400-00:00:37.940 | DM] Yeah.
 [u0017 | 00:00:37.960-00:00:38.480 | Unknown] Right.
-[u0018 | 00:00:38.480-00:00:38.800 | Wellby] The ding.
+[u0018 | 00:00:38.480-00:00:38.800 | Wellby] The thing.
 [u0019 | 00:00:38.800-00:00:40.540 | DM] 'Cause there's mirrors, like, while you're-
 [u0020 | 00:00:41.260-00:00:41.320 | Wellby] Yeah
 [u0021 | 00:00:41.320-00:00:43.960 | DM] ... still protecting the rangers in Isingue and stuff.
@@ -90,7 +90,7 @@
 [u0090 | 00:04:30.260-00:04:35.500 | DM] mixes it up, up- upturning and overturning the wall itself.
 [u0091 | 00:04:35.500-00:04:43.860 | DM] And the two figures running, the ash and the flame, stand for a moment in the center of what once was a city.
 [u0092 | 00:04:43.860-00:04:44.000 | DM] The
-[u0093 | 00:04:45.220-00:04:55.380 | DM] flame creature, uh, blazes, is dark fire, but blazes to light for a moment as he holds up the scimitar and makes a few slashing motions.
+[u0093 | 00:04:45.220-00:04:55.380 | DM] flame creature, uh, blazes, it's dark fire, but blazes to light for a moment as he holds up the scimitar and makes a few slashing motions.
 [u0094 | 00:04:55.380-00:04:58.740 | DM] And as he does, the air opens up in a gap.
 [u0095 | 00:04:58.740-00:05:06.840 | DM] And the world folds, and the remains of the city, like, tumble through the gap, and all that's left here is
 [u0096 | 00:05:08.200-00:05:08.360 | DM] a
@@ -335,7 +335,7 @@
 [u0335 | 00:16:42.146-00:16:43.646 | Unknown] Yeah, yeah, yeah.
 [u0336 | 00:16:43.686-00:16:44.206 | Unknown] Oh, that's sick.
 [u0337 | 00:16:44.706-00:16:48.566 | DM] And I was like it, it has to have created something under Isingue.
-[u0338 | 00:16:48.566-00:16:50.846 | DM] What should have created? Oh, bioconcrete.
+[u0338 | 00:16:48.566-00:16:50.846 | DM] What should it have created? Oh, bioconcrete.
 [u0339 | 00:16:51.426-00:16:51.986 | Unknown] Oh, that's cool.
 [u0340 | 00:16:52.006-00:16:52.486 | Unknown] Awesome.
 [u0341 | 00:16:52.586-00:16:53.986 | Unknown] I love it. I love it.
@@ -372,7 +372,7 @@
 [u0372 | 00:18:13.386-00:18:15.746 | DM] ... because the Dunmari armies were-
 [u0373 | 00:18:16.146-00:18:16.366 | Unknown] Right
 [u0374 | 00:18:16.366-00:18:18.966 | DM] ... coming to try and relieve the Sembaran armies
-[u0375 | 00:18:19.778-00:18:22.478 | DM] And dropping the plague in between them or cut them off.
+[u0375 | 00:18:19.778-00:18:22.478 | DM] And dropping the plague in between them would cut them off.
 [u0376 | 00:18:22.658-00:18:25.518 | Delwath] I remember the plague in high school vaguely.
 [u0377 | 00:18:25.518-00:18:27.178 | Delwath] Like, I remember being panicked about it.
 [u0378 | 00:18:27.178-00:18:27.198 | Unknown] Yeah.
@@ -464,7 +464,7 @@
 [u0464 | 00:21:51.298-00:21:52.518 | Wellby] keep in the bank, and if- Yeah, yeah ...
 [u0465 | 00:21:52.518-00:21:55.118 | DM] we go after Frankar, we can get it back. Oh, the efreet I actually have notes on.
 [u0466 | 00:21:55.218-00:21:57.238 | DM] Yeah. I need to get my computer if you look at that, but...
-[u0467 | 00:21:57.618-00:22:01.038 | Delwath] I'm, I, I'm more interested in NPCs than I are other stuff.
+[u0467 | 00:21:57.618-00:22:01.038 | Delwath] I'm, I, I'm more interested in NPCs than I am other stuff.
 [u0468 | 00:22:01.118-00:22:01.158 | Unknown] Okay.
 [u0469 | 00:22:01.158-00:22:01.398 | Unknown] Yeah.
 [u0470 | 00:22:01.498-00:22:05.278 | Delwath] Yeah. And I'm actually really interested in what Kenzo-
@@ -526,7 +526,7 @@
 [u0526 | 00:24:16.338-00:24:19.598 | Kenzo] Um, Trekking, uh, Seeker will just teleport us wherever we want to go.
 [u0527 | 00:24:21.038-00:24:21.578 | Unknown] That's true.
 [u0528 | 00:24:22.238-00:24:23.438 | Kenzo] There's no need to be dropped off
-[u0529 | 00:24:25.266-00:24:26.246 | Wellby] Who we had to bring the monks?
+[u0529 | 00:24:25.266-00:24:26.246 | Wellby] Well, we had to bring the monks.
 [u0530 | 00:24:26.246-00:24:26.506 | Unknown] Well, we might want-
 [u0531 | 00:24:26.506-00:24:27.406 | Wellby] Huh? We had to bring the monks.
 [u0532 | 00:24:27.426-00:24:28.166 | Unknown] We had to bring the monks.
@@ -753,7 +753,7 @@
 [u0753 | 00:33:46.022-00:33:49.222 | Kenzo] You know, Kenzo kind of looks at his staff where he'd, he's been, you know-
 [u0754 | 00:33:49.502-00:33:49.742 | Unknown] Mm-hmm
 [u0755 | 00:33:49.742-00:33:51.242 | Kenzo] ... writing these stories.
-[u0756 | 00:33:51.242-00:33:56.382 | Kenzo] And also Vindristjarna itself has got like a bunch of, you know, merrily places where he's been when he's had time.
+[u0756 | 00:33:51.242-00:33:56.382 | Kenzo] And also Vindristjarna itself has got like a bunch of, you know, mural-y places where he's been when he's had time.
 [u0757 | 00:33:56.822-00:33:59.002 | Kenzo] Oh, and he's had his own, um, he's had his own, um-
 [u0758 | 00:33:59.222-00:33:59.862 | Unknown] Apprentice
 [u0759 | 00:33:59.862-00:34:00.622 | Kenzo] ... apprentices also.
@@ -1114,7 +1114,7 @@
 [u1114 | 00:48:39.658-00:48:43.418 | Wellby] I'm just remembering there's like 11 ways, like it was never really her in the first place.
 [u1115 | 00:48:43.598-00:48:43.938 | Wellby] It, like...
 [u1116 | 00:48:45.058-00:48:45.718 | Unknown] I mean, I'm not saying-
-[u1117 | 00:48:45.718-00:48:46.938 | Unknown] But also the Cloud Spirit is back
+[u1117 | 00:48:45.718-00:48:46.938 | Unknown] But also the Cloudspinner is back
 [u1118 | 00:48:47.788-00:48:48.008 | Unknown] Right.
 [u1119 | 00:48:48.008-00:48:48.308 | Unknown] That's true
 [u1120 | 00:48:48.328-00:48:50.528 | Delwath] We freed the Cloudspinner. The Cloudspinner can obviously...
@@ -1213,7 +1213,7 @@
 [u1213 | 00:51:18.588-00:51:18.788 | Unknown] [laughs]
 [u1214 | 00:51:18.788-00:51:18.788 | Wellby] Huh.
 [u1215 | 00:51:18.788-00:51:18.928 | Unknown] Hmm.
-[u1216 | 00:51:19.068-00:51:20.828 | Wellby] Oh, I think of every so often is that
+[u1216 | 00:51:19.068-00:51:20.828 | Wellby] Oh, who I think of every so often is that
 [u1217 | 00:51:22.388-00:51:25.448 | Wellby] guy who got turned into stone by a cockatrice in the...
 [u1218 | 00:51:25.768-00:51:26.448 | Unknown] Oh, yeah.
 [u1219 | 00:51:26.488-00:51:26.608 | Unknown] He's okay.
@@ -1637,7 +1637,7 @@
 [u1637 | 01:08:25.072-01:08:26.092 | Unknown] [laughs] That's right.
 [u1638 | 01:08:27.132-01:08:28.252 | DM] And then the fifth ladder-
 [u1639 | 01:08:28.352-01:08:30.272 | Delwath] There can be only one type of ladder
-[u1640 | 01:08:30.312-01:08:31.272 | Wellby] Died chaos. [laughs]
+[u1640 | 01:08:30.312-01:08:31.272 | Wellby] Died in chaos. [laughs]
 [u1641 | 01:08:31.312-01:08:32.312 | DM] Died in Limbo.
 [u1642 | 01:08:32.312-01:08:33.472 | Delwath] So sixth... This is ladder six.
 [u1643 | 01:08:33.492-01:08:34.852 | DM] So this is the sixth ladder.
@@ -1902,7 +1902,7 @@
 [u1902 | 01:18:26.676-01:18:30.056 | Wellby] that, that you were supposed to tell us?
 [u1903 | 01:18:30.056-01:18:31.956 | Unknown] [laughs]
 [u1904 | 01:18:31.956-01:18:32.696 | DM] No.
-[u1905 | 01:18:32.696-01:18:34.836 | Delwath] That you're supposed to tell how powerful the Dunmari sorcerer?
+[u1905 | 01:18:32.696-01:18:34.836 | Delwath] That you're supposed to tell a powerful Dunmari sorcerer?
 [u1906 | 01:18:34.836-01:18:35.976 | Unknown] [coughs]
 [u1907 | 01:18:36.036-01:18:38.516 | DM] Well, uh, but I...
 [u1908 | 01:18:38.516-01:18:40.656 | DM] [sighs] Okay.
@@ -4009,7 +4009,7 @@
 [u4009 | 02:33:59.496-02:34:00.316 | Unknown] [laughs]
 [u4010 | 02:34:00.316-02:34:00.676 | Unknown] "do like,
 [u4011 | 02:34:02.836-02:34:03.576 | Delwath] do that next?"
-[u4012 | 02:34:06.096-02:34:10.596 | DM] I don't know. See, my problem is I, I find it hard to make up a character without the content.
+[u4012 | 02:34:06.096-02:34:10.596 | DM] I don't know. See, my problem is I, I find it hard to make up a character without the context.
 [u4013 | 02:34:10.596-02:34:12.236 | DM] Like- Right ... I would...
 [u4014 | 02:34:13.356-02:34:13.656 | Unknown] I have
 [u4015 | 02:34:15.096-02:34:17.156 | DM] like lots of ideas for characters- Well- ...
@@ -4396,7 +4396,7 @@
 [u4396 | 02:48:44.671-02:48:45.491 | DM] Limbo notes?
 [u4397 | 02:48:45.852-02:48:47.991 | Delwath] I did, even though I didn't play in that adventure.
 [u4398 | 02:48:48.072-02:48:48.792 | Unknown] Um, uh-
-[u4399 | 02:48:48.852-02:48:54.132 | DM] Aaron, The Wanderer, was one of the people quoted in one of the pieces of research.
+[u4399 | 02:48:48.852-02:48:54.132 | DM] Arryn, The Wanderer, was one of the people quoted in one of the pieces of research.
 [u4400 | 02:48:54.172-02:48:55.512 | Wellby] Oh. I did see that, yeah.
 [u4401 | 02:48:55.572-02:48:55.812 | Unknown] Yeah.
 [u4402 | 02:48:55.812-02:48:56.032 | Unknown] That's
