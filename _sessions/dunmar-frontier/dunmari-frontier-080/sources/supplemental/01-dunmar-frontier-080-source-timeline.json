@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "kind": "approved-final-session-transcript",
+  "campaign": "Dunmar Frontier",
+  "sessionNumber": 80,
+  "clock": "cumulative-recorded-audio",
+  "interRecordingGapSeconds": null,
+  "timingNote": "Parts ordered by recording chunk number. Continuous playback timestamps use the full probed original recording duration as each offset. No real-world gap inferred. Subtract the part offset to recover original audio time. Audio files remain separate.",
+  "parts": [
+    {
+      "sequence": 1,
+      "sourceTranscriptPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 80/transcription/scribe-v2/speaker-review/direct-short-final-v1/Session-80-Chunk-01.identified.vtt",
+      "sourceTranscriptSha256": "ea9922db7c41e1d4467b5ee1580a5c69df5de2470277a90239585ec75034209e",
+      "sourceAudioPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 80/raw_audio/Session-80-Chunk-01.m4a",
+      "sourceAudioSha256": "4e4d6c66ac8773e4d26835ff4dd168540acbab2005db5968f6a834115ef93574",
+      "recordedDurationMilliseconds": 13246656,
+      "timelineOffsetMilliseconds": 0,
+      "firstCombinedCueIndex": 1,
+      "lastCombinedCueIndex": 5125,
+      "cueCount": 5125,
+      "sourceReview": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 80/transcription/scribe-v2/speaker-review/direct-short-final-v1/session80-part01-direct-short-final-v1.speaker-review.json",
+        "sha256": "0ee4b40c18309b14c5691bda759f8f87fb0486de2c0c16b7463cd85621e526a5"
+      },
+      "sourceAttributions": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 80/transcription/scribe-v2/speaker-review/direct-short-final-v1/session80-part01-direct-short-final-v1.speaker-attributions.json",
+        "sha256": "ced2ef807a9743947efc7af384b97a5e399aa910e026d6bcf096729a1c7f172a"
+      },
+      "speakerEvaluation": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 80/transcription/scribe-v2/speaker-review/direct-short-final-v1/session80-part01-natural-short-evaluation-v1.json",
+        "sha256": "d058824d8cf837061c3de1ac393cc0828cbbb44762c3eb5b7065fca648d17b45"
+      }
+    }
+  ],
+  "finalTranscript": {
+    "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/final-transcripts/dunmar-frontier-080.transcript.vtt",
+    "sha256": "ea9922db7c41e1d4467b5ee1580a5c69df5de2470277a90239585ec75034209e",
+    "cueCount": 5125,
+    "speakerCueCounts": {
+      "Unknown": 677,
+      "DM": 1806,
+      "Kenzo": 526,
+      "Seeker": 458,
+      "Wellby": 631,
+      "Delwath": 1027
+    },
+    "totalWordTimedSpeechSeconds": 6364.489,
+    "unknownWordTimedSpeechSeconds": 623.948,
+    "unknownSpeechFraction": 0.09803583602705575
+  },
+  "validation": {
+    "allSourceHashesVerified": true,
+    "allCuesPreserved": true,
+    "textSpeakerOrderAndLocalTimingPreserved": true,
+    "onlyCombinedClockOffsetsApplied": true
+  },
+  "speakerQualityNote": "Aggressive short-utterance model matching with saved human checks; greater uncertainty on incidental sounds accepted by user. Unknown coverage is measured by word-timed speaking time. Whole-recording misidentification below 10% is not independently proven."
+}

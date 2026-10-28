@@ -1,0 +1,122 @@
+{
+  "schemaVersion": 1,
+  "kind": "assembled-best-guess-session-source",
+  "campaign": "Dunmar Frontier",
+  "sessionNumber": 51,
+  "clock": "cumulative-recorded-audio",
+  "interRecordingGapSeconds": null,
+  "timingNote": "Parts ordered by existing chunk number, supported by increasing Voice Memos titles/metadata and transcript boundary context. Combined timestamps use full probed recording durations as offsets. Real-world breaks are unknown and are not inserted or inferred. Subtract the part offset for original file-relative audio time. Original audio files remain separate.",
+  "parts": [
+    {
+      "sequence": 1,
+      "sourceTranscriptPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 51/transcription/scribe-v2/Session-51-Chunk-01.identified-best-guesses.vtt",
+      "sourceTranscriptSha256": "2b0754bf4314327a6f1100130ee24e24cd09d75c52e2c2d8414fa09cc96cbffa",
+      "sourceAudioPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 51/raw_audio/Session-51-Chunk-01.m4a",
+      "sourceAudioSha256": "ed72b896f28c30f8c4cf33ce62d8ff1974cf74f8992134f933f8fe3c521a2d9b",
+      "recordingMetadata": {
+        "major_brand": "M4A ",
+        "minor_version": "0",
+        "compatible_brands": "M4A isommp42",
+        "creation_time": "2022-07-22T18:55:57.000000Z",
+        "title": "New Recording 17",
+        "voice-memo-uuid": "362381E7-2894-4A70-98B6-BA87B93CCD75",
+        "encoder": "com.apple.VoiceMemos (Tim\u2019s iPhone (null))"
+      },
+      "recordedDurationMilliseconds": 4005675,
+      "timelineOffsetMilliseconds": 0,
+      "firstCombinedCueIndex": 1,
+      "lastCombinedCueIndex": 1409,
+      "cueCount": 1409,
+      "bestGuessCueLedger": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 51/transcription/scribe-v2/speaker-review/aggressive-best-guesses-v1/part-01/best-guess-cue-ledger.json",
+        "sha256": "318fb3c21fbff06640f5a875aa5aa71bde9ff156dd7a63e61239daf9d9179eed"
+      },
+      "sourceReview": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 51/transcription/scribe-v2/speaker-review/aggressive-best-guesses-v1/part-01/session51-part01-aggressive-best-guesses-v1.speaker-review.json",
+        "sha256": "2bb84dd985b05b01c6509a34b5678984605d0b23b2a0b671fc3085f50434b87a"
+      },
+      "sourceAttributions": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 51/transcription/scribe-v2/speaker-review/aggressive-best-guesses-v1/part-01/session51-part01-aggressive-best-guesses-v1.speaker-attributions.json",
+        "sha256": "54ffbab8a6bc06f83914a2bbb5f38b4c9ba18bba728120c5582c6fa52d73608d"
+      },
+      "reviewedTranscript": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 51/transcription/scribe-v2/Session-51-Chunk-01.identified.vtt",
+        "sha256": "bdb023d90961529a276256e988fb53b7f91dfa6a71d3675b809e3bf9e4771fa5"
+      },
+      "newUnreviewedGuessCount": 519
+    },
+    {
+      "sequence": 2,
+      "sourceTranscriptPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 51/transcription/scribe-v2/Session-51-Chunk-02.identified-best-guesses.vtt",
+      "sourceTranscriptSha256": "bf1a164d1494fb69791e2e71de0a9480b71bb283757052427975cffa568e45ef",
+      "sourceAudioPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 51/raw_audio/Session-51-Chunk-02.m4a",
+      "sourceAudioSha256": "e9d7dceaf068c8d3f0eaee50a3a3e9f47ee9be282d6bc213e45932515ec20cd8",
+      "recordingMetadata": {
+        "major_brand": "M4A ",
+        "minor_version": "0",
+        "compatible_brands": "M4A isommp42",
+        "creation_time": "2022-07-23T04:37:50.000000Z",
+        "title": "New Recording 18",
+        "iTunSMPB": " 00000000 00000840 0000029C 0000000026CFF524 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000",
+        "encoder": "com.apple.VoiceMemos (Tim\u2019s iPhone (null))",
+        "voice-memo-uuid": "5AD02630-F249-40E7-BE2A-28AADEBDD2EA"
+      },
+      "recordedDurationMilliseconds": 14765662,
+      "timelineOffsetMilliseconds": 4005675,
+      "firstCombinedCueIndex": 1410,
+      "lastCombinedCueIndex": 6318,
+      "cueCount": 4909,
+      "bestGuessCueLedger": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 51/transcription/scribe-v2/speaker-review/aggressive-best-guesses-v1/part-02/best-guess-cue-ledger.json",
+        "sha256": "e578f54e3d7f7c64d1d609aed17c4741d1d197ac70e1f7f824facb2867204eda"
+      },
+      "sourceReview": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 51/transcription/scribe-v2/speaker-review/aggressive-best-guesses-v1/part-02/session51-part02-aggressive-best-guesses-v1.speaker-review.json",
+        "sha256": "c9f34f012bfd13d8830c77057c6cf6a6e7f9a68319338ee2c44ae5a957bb4279"
+      },
+      "sourceAttributions": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 51/transcription/scribe-v2/speaker-review/aggressive-best-guesses-v1/part-02/session51-part02-aggressive-best-guesses-v1.speaker-attributions.json",
+        "sha256": "cf9e94913892ba51b2d2bffaaa58db2f78cbe09f78c0c2ab832b054e2fbed449"
+      },
+      "reviewedTranscript": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 51/transcription/scribe-v2/Session-51-Chunk-02.identified.vtt",
+        "sha256": "ea23b57adf3ec36c448b406145d55f9bfecf52bb24fb2e947df2e5606b97dd62"
+      },
+      "newUnreviewedGuessCount": 2632
+    }
+  ],
+  "finalTranscript": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 51/transcription/scribe-v2/source-prep/dunmar-frontier-051.transcript.vtt",
+    "sha256": "2219252af76b224a279066327863c1ead57e1964c1291b0f81b4e0e054bb8da5",
+    "cueCount": 6318,
+    "speakerCueCounts": {
+      "DM": 2540,
+      "Kenzo": 1245,
+      "Wellby": 574,
+      "Seeker": 563,
+      "Delwath": 1331,
+      "Unknown": 65
+    },
+    "summedUtteranceSecondsBySpeaker": {
+      "DM": 6257.482000000004,
+      "Kenzo": 2159.1499999999996,
+      "Wellby": 914.925,
+      "Seeker": 839.1979999999998,
+      "Delwath": 2432.156,
+      "Unknown": 212.301
+    },
+    "assembledRecordingDurationMilliseconds": 18771337
+  },
+  "speakerQualityNote": "Uses the explicitly requested aggressive best-guess speaker assignments. Additional guesses have not been listening-verified. All prior reviewed names and explicit human unresolved decisions remain preserved. This preparation does not promote guesses into verified identities.",
+  "datesSource": {
+    "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/to-process/dunmar-frontier-session051.yaml",
+    "sha256": "162f7c8e23cd23977b852dc449705c14d722843dcfa4fe2ce7dcdd109b58e58a",
+    "note": "Existing dates preserved and checked against the session note frontmatter."
+  },
+  "validation": {
+    "allSourceHashesVerified": true,
+    "allCuesPreserved": true,
+    "textSpeakerOrderAndLocalTimingPreserved": true,
+    "onlyCombinedClockOffsetsApplied": true
+  }
+}

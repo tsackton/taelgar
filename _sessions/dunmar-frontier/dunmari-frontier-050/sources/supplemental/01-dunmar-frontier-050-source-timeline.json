@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "kind": "assembled-best-guess-session-source",
+  "campaign": "Dunmar Frontier",
+  "sessionNumber": 50,
+  "clock": "cumulative-recorded-audio",
+  "interRecordingGapSeconds": null,
+  "timingNote": "Parts ordered by existing chunk number, supported by increasing Voice Memos titles/metadata and transcript boundary context. Combined timestamps use full probed recording durations as offsets. Real-world breaks are unknown and are not inserted or inferred. Subtract the part offset for original file-relative audio time. Original audio files remain separate.",
+  "parts": [
+    {
+      "sequence": 1,
+      "sourceTranscriptPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 50/transcription/scribe-v2/Session-50-Chunk-01.identified-best-guesses.vtt",
+      "sourceTranscriptSha256": "93a2b8a888ab155e690a4b48cdea70454e074061f36cd2a024bc900ece278a26",
+      "sourceAudioPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 50/raw_audio/Session-50-Chunk-01.m4a",
+      "sourceAudioSha256": "f19d23f1ed072d81e21ce2bbc1bdc5e776baa90ce2b52d98649b741e053f6fef",
+      "recordingMetadata": {
+        "major_brand": "mp42",
+        "minor_version": "0",
+        "compatible_brands": "isommp42",
+        "creation_time": "2022-07-22T00:30:58.000000Z"
+      },
+      "recordedDurationMilliseconds": 16528320,
+      "timelineOffsetMilliseconds": 0,
+      "firstCombinedCueIndex": 1,
+      "lastCombinedCueIndex": 5726,
+      "cueCount": 5726,
+      "bestGuessCueLedger": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 50/transcription/scribe-v2/speaker-review/aggressive-best-guesses-v1/part-01/best-guess-cue-ledger.json",
+        "sha256": "50b9550562a61eaa8a5c2fe6058d5cc8301a7ac83125112930166104be08c722"
+      },
+      "sourceReview": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 50/transcription/scribe-v2/speaker-review/aggressive-best-guesses-v1/part-01/session50-part01-aggressive-best-guesses-v1.speaker-review.json",
+        "sha256": "97ac564b47fc01eeb6523b3ae799cbedb07c4a3c3630c706e4692d7bd447c9a4"
+      },
+      "sourceAttributions": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 50/transcription/scribe-v2/speaker-review/aggressive-best-guesses-v1/part-01/session50-part01-aggressive-best-guesses-v1.speaker-attributions.json",
+        "sha256": "121f9ead6ef77906e705df4cb85b599050af28adc9587074ab745f05a10aa6f9"
+      },
+      "reviewedTranscript": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 50/transcription/scribe-v2/Session-50-Chunk-01.identified-recovery.vtt",
+        "sha256": "fa89969e600386a6f2005eb78293907f34cb966861d6a300a7cceadd06ccc76c"
+      },
+      "newUnreviewedGuessCount": 2478
+    }
+  ],
+  "finalTranscript": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 50/transcription/scribe-v2/source-prep/dunmar-frontier-050.transcript.vtt",
+    "sha256": "edee60325478817c58ab836ed08e502724719af835a7e1dba8c3b7429155c66f",
+    "cueCount": 5726,
+    "speakerCueCounts": {
+      "Delwath": 1056,
+      "Wellby": 583,
+      "Kenzo": 1113,
+      "Seeker": 587,
+      "DM": 2308,
+      "Unknown": 79
+    },
+    "summedUtteranceSecondsBySpeaker": {
+      "Delwath": 1982.9059999999965,
+      "Wellby": 951.2920000000003,
+      "Kenzo": 1599.2270000000012,
+      "Seeker": 954.3979999999997,
+      "DM": 4739.3599999999915,
+      "Unknown": 137.12100000000004
+    },
+    "assembledRecordingDurationMilliseconds": 16528320
+  },
+  "speakerQualityNote": "Uses the explicitly requested aggressive best-guess speaker assignments. Additional guesses have not been listening-verified. All prior reviewed names and explicit human unresolved decisions remain preserved. This preparation does not promote guesses into verified identities.",
+  "datesSource": {
+    "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/to-process/dunmar-frontier-session050.yaml",
+    "sha256": "6f9b9383bc06217eb675cc274bf0c3181d3d23f35437d11bb6aa0e601ed797a3",
+    "note": "Existing dates preserved and checked against the session note frontmatter."
+  },
+  "validation": {
+    "allSourceHashesVerified": true,
+    "allCuesPreserved": true,
+    "textSpeakerOrderAndLocalTimingPreserved": true,
+    "onlyCombinedClockOffsetsApplied": true
+  }
+}
