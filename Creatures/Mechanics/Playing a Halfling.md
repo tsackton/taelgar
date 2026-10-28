@@ -27,7 +27,13 @@ A simple answer if engaging with the lore of halflings is not of interest to yo
 
 ### Halfling Names
 
-Halflings have given names and family names, which are often derived from nicknames, professions, or family lore. To choose a name for your Halfling character, you might consider using one of the choices below, looking at a [name list](https://www.dndbeyond.com/sources/dnd/xgte/character-names#Halfling) for inspiration, or you might invent your own, which might not follow typical halfling naming customs. 
+Halflings have given names and family names, which are often derived from nicknames, professions, or family lore.
+
+Halfling given names generally have an English-like sound, perhaps a reflection of their typical practice of giving their names in Common, not Halfling. Family names follow familiar D&D and Tolkien conventions. It is plausible that halflings to the far east or south could have different naming patterns, potentially reflecting the vibes of alternate trade tongues.
+
+A family name might refer to a trade, place, or storied deed, or simply be a pleasing-sounding invention.
+
+To choose a name for your Halfling character, you might consider using one of the choices below, looking at a [name list](https://www.dndbeyond.com/sources/dnd/xgte/character-names#Halfling) for inspiration, or you might invent your own, which might not follow typical halfling naming customs.
 
 **Male Names:** Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby
 

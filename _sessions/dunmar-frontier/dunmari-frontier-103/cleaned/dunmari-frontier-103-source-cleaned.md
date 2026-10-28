@@ -180,7 +180,7 @@
 [u0180 | 00:12:09.850-00:12:14.190 | DM] as everybody's kind of getting settled and and Delwath is looking down at them
 [u0181 | 00:12:14.250-00:12:17.829 | DM] at Buruli's body. Faldrak is kind of.
 [u0182 | 00:12:18.500-00:12:23.490 | DM] you know, as he does like shuffling, limping, a bit, walking with Seeker
-[u0183 | 00:12:25.480-00:12:28.209 | DM] {{Gowa}} sort of glancing down at the body.
+[u0183 | 00:12:25.480-00:12:28.209 | DM] Delwath sort of glancing down at the body.
 [u0184 | 00:12:28.360-00:12:36.750 | DM] getting a better look at at Buruli. Now. You can see that. So he's wearing this cloak made of some kind of billowing
 [u0185 | 00:12:36.760-00:12:45.122 | DM] kelp fronds woven into fabric. That sort of seems to wrap around him almost protectively.
 [u0186 | 00:12:48.050-00:12:53.819 | DM] He has one of these amulets of Gazankoa as well, much more elaborate than
@@ -517,7 +517,7 @@
 [u0517 | 00:34:25.440-00:34:26.670 | Delwath] yeah, is.
 [u0518 | 00:34:27.020-00:34:33.159 | Delwath] is there is the fake second Delwath somehow drawing on
 [u0519 | 00:34:33.620-00:34:34.350 | Delwath] that
-[u0520 | 00:34:35.790-00:34:37.140 | Delwath] {{Swati’s power.}}
+[u0520 | 00:34:35.790-00:34:37.140 | Delwath] Meswati’s power.
 [u0521 | 00:34:38.260-00:34:39.150 | Seeker] Or
 [u0522 | 00:34:42.320-00:34:44.069 | Seeker] do you have an imposter.
 [u0523 | 00:34:52.139-00:34:55.219 | Delwath] Or have you not thought of the answer to that? It's not urgent to answer.
@@ -1457,7 +1457,7 @@
 [u1457 | 01:29:53.650-01:29:57.330 | Delwath] Or there could be something in Illoria that's actually worthwhile.
 [u1458 | 01:29:58.280-01:30:00.349 | Seeker] We have been wanting to go there.
 [u1459 | 01:30:01.030-01:30:01.640 | Seeker] Trip.
-[u1460 | 01:30:01.640-01:30:05.319 | Delwath] {{Severus}}, or somebody like that was off hunting treasure in Illoria right like.
+[u1460 | 01:30:01.640-01:30:05.319 | Delwath] Servius, or somebody like that was off hunting treasure in Illoria right like.
 [u1461 | 01:30:05.320-01:30:06.330 | Wellby] Yeah, yeah.
 [u1462 | 01:30:06.330-01:30:07.060 | Seeker] Yes.
 [u1463 | 01:30:07.800-01:30:10.919 | Seeker] but didn't we think for a while that the scepter of command was there.

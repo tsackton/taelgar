@@ -1,0 +1,501 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-104",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-104/cleaned/dunmari-frontier-104-source-cleaned.md",
+  "beforeSha256": "035e3e8abf58079101089829ca74d875127257ee4f0da2c418442f95e9bde354",
+  "afterSha256": "7dbf1a10ad02ef0ad52817455a6b7178f25fcfdfef85dd32505fa2b3675fbd1e",
+  "markersBefore": 24,
+  "groups": [
+    {
+      "id": "associated-object-reference",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The discussion concerns an associated object from Vindristjarna, but the marked span does not clearly isolate a complete ship-name replacement. Repair would risk reconstructing missing ordinary wording.",
+      "evidence": [
+        {
+          "path": "Things/Ships/Vindristjarna.md",
+          "sha256": "8c55e2b0e0e818abbe72532bc573a1f0e4d51e592e5b81ceda0d3ec23fc50e27"
+        }
+      ],
+      "candidates": [
+        "Vindristjarna"
+      ],
+      "markerIds": [
+        "u0837:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0837:m1": "{{vendor service}}"
+      }
+    },
+    {
+      "id": "chamutte-comparison",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The comparison with a creature stronger than the defeated dragons strongly favors Cha'mutte, whose documented pronunciation matches the marked form. An incidental real-world Shamu reference is less consistent with this power comparison.",
+      "evidence": [
+        {
+          "path": "People/Extraplanar Powers/Cha'mutte.md",
+          "sha256": "1b8dca16f7ede3715d32bf7fe0e44adc3dbc4c016fade83c34f92f41433291eb"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1071:m1"
+      ],
+      "replacements": {
+        "u1071:m1": "Cha'mutte"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "eastros-language",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Wellby is enumerating his languages; the reference establishes Eastros as a trade language.",
+      "evidence": [
+        {
+          "path": "Background/Languages.md",
+          "sha256": "384bb0b9d51a540f40a522316cda56490f26eba2bdd88a04bd4c7b9a6da82649"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1407:m1"
+      ],
+      "replacements": {
+        "u1407:m1": "Eastros"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "gaseous-form-person",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The dialogue calls someone the gaseous-form person, but searches of character notes, campaign records, and relevant DM material did not establish a unique identity for Jersey. Retain rather than infer a caster from mechanics.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u1650:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1650:m1": "{{Jersey}}"
+      }
+    },
+    {
+      "id": "kethra-absent",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The absent crew member strongly favors Kethra: the earlier dialogue places her with Riswynn, and Session 103 explicitly records their joint departure. Heather has no matching crew identity in the inspected sources.",
+      "evidence": [
+        {
+          "path": "People/Dwarves/Kethra.md",
+          "sha256": "6f2b04b15abc7605d268ab899b3701d40da9d2706de5c8ca4d5f8ef1753b8d03"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 103 (DuFr).md",
+          "sha256": "785879561ea595c8aa396a4cbed77ecdff3144e44b94a03a032bf4ed546c6f31"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u3543:m1"
+      ],
+      "replacements": {
+        "u3543:m1": "Kethra"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "nevos-sea",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The pirate clone and Illoria references identify the Nevos Sea; the geographic reference and preceding session agree.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Nevos and Apporia/Nevos Sea.md",
+          "sha256": "6016416a4435f84b87d14caf1ef30882d690c6d9a0e063c0acb3b552bd0ec025"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 103 (DuFr).md",
+          "sha256": "785879561ea595c8aa396a4cbed77ecdff3144e44b94a03a032bf4ed546c6f31"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0063:m1",
+        "u0418:m1",
+        "u0461:m1"
+      ],
+      "replacements": {
+        "u0063:m1": "Nevos Sea",
+        "u0418:m1": "Nevos Sea",
+        "u0461:m1": "Nevos Sea"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "These spans are descriptive fragments, conversational wording, or rules/planning language rather than isolated recoverable names. Florida Desert occurs in a damaged statement about how long the land has been desert; part of the fang and follow dwarf likewise require phrase reconstruction.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0014:m1",
+        "u0590:m1",
+        "u1104:m1",
+        "u1303:m1",
+        "u1329:m1",
+        "u1330:m1",
+        "u1570:m1",
+        "u1589:m1",
+        "u1911:m1",
+        "u2334:m1",
+        "u3180:m1",
+        "u3370:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0014:m1": "{{slowly}}",
+        "u0590:m1": "{{last of}}",
+        "u1104:m1": "{{Forest, line}}",
+        "u1303:m1": "{{Florida Desert}}",
+        "u1329:m1": "{{of doubt}}",
+        "u1330:m1": "{{part of the fang}}",
+        "u1570:m1": "{{bands}}",
+        "u1589:m1": "{{It from here}}",
+        "u1911:m1": "{{count that}}",
+        "u2334:m1": "{{You're on down there}}",
+        "u3180:m1": "{{rapture}}",
+        "u3370:m1": "{{follow dwarf}}"
+      }
+    },
+    {
+      "id": "tharn-todor",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The dwarven city where Riswynn has gone to confront her duplicate is Tharn Todor; the reference note and previous session establish the complete name.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Dunmar/Realms/Nardith/Tharn Todor.md",
+          "sha256": "4d61328af7641240fef66caf9725000e8fdab51d1679c09ca3e582034c3f3844"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 103 (DuFr).md",
+          "sha256": "785879561ea595c8aa396a4cbed77ecdff3144e44b94a03a032bf4ed546c6f31"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0065:m1",
+        "u0067:m1",
+        "u0115:m1"
+      ],
+      "replacements": {
+        "u0065:m1": "Tharn Todor",
+        "u0067:m1": "Tharn Todor",
+        "u0115:m1": "Tharn Todor"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "urskan-language",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Wellby is listing his languages, and Session 94 records the party learning Urskan. Languages has a transposed Urksan heading flagged as inconsistent; the campaign record establishes the form used here.",
+      "evidence": [
+        {
+          "path": "Background/Languages.md",
+          "sha256": "384bb0b9d51a540f40a522316cda56490f26eba2bdd88a04bd4c7b9a6da82649"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 94 (DuFr).md",
+          "sha256": "516b2c94eb86f1e81d83e3195d98346f28553ca83a0091842f59f96cd83b64cd"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1407:m2"
+      ],
+      "replacements": {
+        "u1407:m2": "Urskan"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0063:m1",
+      "uid": "u0063",
+      "ordinal": 1,
+      "lineNumber": 63,
+      "start": 62,
+      "end": 74,
+      "before": "{{Nebo Sea}}",
+      "span": "Nebo Sea",
+      "line": "[u0063 | 00:03:39.680-00:03:44.530 | DM] rampaging across the {{Nebo Sea}} as a pirate, killing indiscriminately.",
+      "contextBefore": [
+        "[u0061 | 00:03:36.180-00:03:38.020 | DM] another clone of",
+        "[u0062 | 00:03:38.420-00:03:39.570 | DM] Wellby"
+      ],
+      "contextAfter": [
+        "[u0064 | 00:03:44.910-00:03:46.659 | DM] and a clone of Rizwind",
+        "[u0065 | 00:03:47.020-00:03:51.099 | DM] you learned from the dwarves of {{Darren. Toader}}"
+      ],
+      "after": "Nevos Sea",
+      "group": "nevos-sea",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0065:m1",
+      "uid": "u0065",
+      "ordinal": 1,
+      "lineNumber": 65,
+      "start": 73,
+      "end": 91,
+      "before": "{{Darren. Toader}}",
+      "span": "Darren. Toader",
+      "line": "[u0065 | 00:03:47.020-00:03:51.099 | DM] you learned from the dwarves of {{Darren. Toader}}",
+      "contextBefore": [
+        "[u0063 | 00:03:39.680-00:03:44.530 | DM] rampaging across the {{Nebo Sea}} as a pirate, killing indiscriminately.",
+        "[u0064 | 00:03:44.910-00:03:46.659 | DM] and a clone of Rizwind"
+      ],
+      "contextAfter": [
+        "[u0066 | 00:03:51.680-00:03:54.189 | DM] was a was a had come",
+        "[u0067 | 00:03:54.420-00:04:00.680 | DM] into {{Tharntoder}}, the main dwarven city, apparently recruiting dwarves for some mission to the depths"
+      ],
+      "after": "Tharn Todor",
+      "group": "tharn-todor",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0067:m1",
+      "uid": "u0067",
+      "ordinal": 1,
+      "lineNumber": 67,
+      "start": 46,
+      "end": 60,
+      "before": "{{Tharntoder}}",
+      "span": "Tharntoder",
+      "line": "[u0067 | 00:03:54.420-00:04:00.680 | DM] into {{Tharntoder}}, the main dwarven city, apparently recruiting dwarves for some mission to the depths",
+      "contextBefore": [
+        "[u0065 | 00:03:47.020-00:03:51.099 | DM] you learned from the dwarves of {{Darren. Toader}}",
+        "[u0066 | 00:03:51.680-00:03:54.189 | DM] was a was a had come"
+      ],
+      "contextAfter": [
+        "[u0068 | 00:04:01.200-00:04:02.320 | DM] which you",
+        "[u0069 | 00:04:02.550-00:04:05.270 | DM] inferred was a suicide mission."
+      ],
+      "after": "Tharn Todor",
+      "group": "tharn-todor",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0115:m1",
+      "uid": "u0115",
+      "ordinal": 1,
+      "lineNumber": 115,
+      "start": 99,
+      "end": 113,
+      "before": "{{Thorntoder}}",
+      "span": "Thorntoder",
+      "line": "[u0115 | 00:06:58.440-00:07:07.080 | DM] Rizwind is gone. Having teleported to join the dwarves of {{Thorntoder}} and help deal with the Rizwind Doppelganger making trouble there.",
+      "contextBefore": [
+        "[u0113 | 00:06:50.440-00:06:52.029 | DM] as we begin.",
+        "[u0114 | 00:06:52.880-00:06:58.309 | DM] you've got maybe 50 h of travel to go to the place where Kenzo sensed the jade."
+      ],
+      "contextAfter": [
+        "[u0116 | 00:07:08.210-00:07:10.190 | DM] and Delwath is",
+        "[u0117 | 00:07:10.250-00:07:12.589 | DM] now taking out his"
+      ],
+      "after": "Tharn Todor",
+      "group": "tharn-todor",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0418:m1",
+      "uid": "u0418",
+      "ordinal": 1,
+      "lineNumber": 418,
+      "start": 116,
+      "end": 128,
+      "before": "{{Neva Sea}}",
+      "span": "Neva Sea",
+      "line": "[u0418 | 00:25:39.040-00:25:45.339 | DM] magic Chanceweaver dice to place them in the correct location. He's in the {{Neva Sea}} somewhere.",
+      "contextBefore": [
+        "[u0416 | 00:25:32.980-00:25:36.150 | Seeker] Is there anything he could, anything he could say to.",
+        "[u0417 | 00:25:36.150-00:25:38.869 | DM] You have no idea where he is, because you used"
+      ],
+      "contextAfter": [
+        "[u0419 | 00:25:46.400-00:25:49.439 | Seeker] We'll see what's that like?",
+        "[u0420 | 00:25:49.760-00:25:51.630 | Seeker] Was he one of the Chardon."
+      ],
+      "after": "Nevos Sea",
+      "group": "nevos-sea",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0461:m1",
+      "uid": "u0461",
+      "ordinal": 1,
+      "lineNumber": 461,
+      "start": 59,
+      "end": 71,
+      "before": "{{Nova Sea}}",
+      "span": "Nova Sea",
+      "line": "[u0461 | 00:28:09.620-00:28:11.040 | Wellby] Island of the {{Nova Sea}}?",
+      "contextBefore": [
+        "[u0459 | 00:28:02.760-00:28:04.039 | Kenzo] What else? What else?",
+        "[u0460 | 00:28:04.660-00:28:08.310 | Wellby] Was there something? Was there something in Eloria we were looking for or wanted?"
+      ],
+      "contextAfter": [
+        "[u0462 | 00:28:11.440-00:28:12.770 | Seeker] Didn't we think the cloak was there?",
+        "[u0463 | 00:28:12.770-00:28:13.820 | Delwath] Thought at 1 point."
+      ],
+      "after": "Nevos Sea",
+      "group": "nevos-sea",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1071:m1",
+      "uid": "u1071",
+      "ordinal": 1,
+      "lineNumber": 1071,
+      "start": 56,
+      "end": 65,
+      "before": "{{Shamu}}",
+      "span": "Shamu",
+      "line": "[u1071 | 01:02:52.500-01:02:53.770 | Delwath] 5 is like {{Shamu}}.",
+      "contextBefore": [
+        "[u1069 | 01:02:49.800-01:02:50.410 | Seeker] Yeah.",
+        "[u1070 | 01:02:51.980-01:02:52.500 | Seeker] 20."
+      ],
+      "contextAfter": [
+        "[u1072 | 01:02:54.930-01:02:56.360 | DM] No, it's not quite.",
+        "[u1073 | 01:02:56.360-01:02:57.850 | Delwath] Quite, but."
+      ],
+      "after": "Cha'mutte",
+      "group": "chamutte-comparison",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1407:m1",
+      "uid": "u1407",
+      "ordinal": 1,
+      "lineNumber": 1407,
+      "start": 54,
+      "end": 64,
+      "before": "{{Estros}}",
+      "span": "Estros",
+      "line": "[u1407 | 01:23:00.692-01:23:03.280 | Wellby] Dunmari, {{Estros}}, {{Erskine}}.",
+      "contextBefore": [
+        "[u1405 | 01:22:54.920-01:22:56.219 | Wellby] I'll try again in",
+        "[u1406 | 01:22:56.980-01:22:58.800 | Wellby] the rest of my languages."
+      ],
+      "contextAfter": [
+        "[u1408 | 01:23:06.610-01:23:08.439 | DM] Doesn't seem to",
+        "[u1409 | 01:23:11.660-01:23:12.860 | DM] be"
+      ],
+      "after": "Eastros",
+      "group": "eastros-language",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1407:m2",
+      "uid": "u1407",
+      "ordinal": 2,
+      "lineNumber": 1407,
+      "start": 66,
+      "end": 77,
+      "before": "{{Erskine}}",
+      "span": "Erskine",
+      "line": "[u1407 | 01:23:00.692-01:23:03.280 | Wellby] Dunmari, {{Estros}}, {{Erskine}}.",
+      "contextBefore": [
+        "[u1405 | 01:22:54.920-01:22:56.219 | Wellby] I'll try again in",
+        "[u1406 | 01:22:56.980-01:22:58.800 | Wellby] the rest of my languages."
+      ],
+      "contextAfter": [
+        "[u1408 | 01:23:06.610-01:23:08.439 | DM] Doesn't seem to",
+        "[u1409 | 01:23:11.660-01:23:12.860 | DM] be"
+      ],
+      "after": "Urskan",
+      "group": "urskan-language",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u3543:m1",
+      "uid": "u3543",
+      "ordinal": 1,
+      "lineNumber": 3543,
+      "start": 53,
+      "end": 64,
+      "before": "{{Heather}}",
+      "span": "Heather",
+      "line": "[u3543 | 03:17:48.200-03:17:56.750 | DM] No, I guess {{Heather}} is gone, so he's like he's like standing like. Yes, give him. He's like saying, Give him 30 more minutes, I know they'll be back",
+      "contextBefore": [
+        "[u3541 | 03:17:41.740-03:17:42.260 | Seeker] Oh!",
+        "[u3542 | 03:17:42.260-03:17:46.079 | DM] Is like pacing back and forth, having an argument with"
+      ],
+      "contextAfter": [
+        "[u3544 | 03:17:57.710-03:17:58.390 | DM] to",
+        "[u3545 | 03:17:59.397-03:18:01.909 | DM] to Amel like."
+      ],
+      "after": "Kethra",
+      "group": "kethra-absent",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u1071": {
+      "before": "[u1071 | 01:02:52.500-01:02:53.770 | Delwath] 5 is like {{Shamu}}.\n",
+      "after": "[u1071 | 01:02:52.500-01:02:53.770 | Delwath] 5 is like Cha'mutte.\n"
+    },
+    "u0063": {
+      "before": "[u0063 | 00:03:39.680-00:03:44.530 | DM] rampaging across the {{Nebo Sea}} as a pirate, killing indiscriminately.\n",
+      "after": "[u0063 | 00:03:39.680-00:03:44.530 | DM] rampaging across the Nevos Sea as a pirate, killing indiscriminately.\n"
+    },
+    "u0065": {
+      "before": "[u0065 | 00:03:47.020-00:03:51.099 | DM] you learned from the dwarves of {{Darren. Toader}}\n",
+      "after": "[u0065 | 00:03:47.020-00:03:51.099 | DM] you learned from the dwarves of Tharn Todor\n"
+    },
+    "u3543": {
+      "before": "[u3543 | 03:17:48.200-03:17:56.750 | DM] No, I guess {{Heather}} is gone, so he's like he's like standing like. Yes, give him. He's like saying, Give him 30 more minutes, I know they'll be back\n",
+      "after": "[u3543 | 03:17:48.200-03:17:56.750 | DM] No, I guess Kethra is gone, so he's like he's like standing like. Yes, give him. He's like saying, Give him 30 more minutes, I know they'll be back\n"
+    },
+    "u1407": {
+      "before": "[u1407 | 01:23:00.692-01:23:03.280 | Wellby] Dunmari, {{Estros}}, {{Erskine}}.\n",
+      "after": "[u1407 | 01:23:00.692-01:23:03.280 | Wellby] Dunmari, Eastros, Urskan.\n"
+    },
+    "u0461": {
+      "before": "[u0461 | 00:28:09.620-00:28:11.040 | Wellby] Island of the {{Nova Sea}}?\n",
+      "after": "[u0461 | 00:28:09.620-00:28:11.040 | Wellby] Island of the Nevos Sea?\n"
+    },
+    "u0115": {
+      "before": "[u0115 | 00:06:58.440-00:07:07.080 | DM] Rizwind is gone. Having teleported to join the dwarves of {{Thorntoder}} and help deal with the Rizwind Doppelganger making trouble there.\n",
+      "after": "[u0115 | 00:06:58.440-00:07:07.080 | DM] Rizwind is gone. Having teleported to join the dwarves of Tharn Todor and help deal with the Rizwind Doppelganger making trouble there.\n"
+    },
+    "u0067": {
+      "before": "[u0067 | 00:03:54.420-00:04:00.680 | DM] into {{Tharntoder}}, the main dwarven city, apparently recruiting dwarves for some mission to the depths\n",
+      "after": "[u0067 | 00:03:54.420-00:04:00.680 | DM] into Tharn Todor, the main dwarven city, apparently recruiting dwarves for some mission to the depths\n"
+    },
+    "u0418": {
+      "before": "[u0418 | 00:25:39.040-00:25:45.339 | DM] magic Chanceweaver dice to place them in the correct location. He's in the {{Neva Sea}} somewhere.\n",
+      "after": "[u0418 | 00:25:39.040-00:25:45.339 | DM] magic Chanceweaver dice to place them in the correct location. He's in the Nevos Sea somewhere.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:39:51.615022+00:00",
+      "sha256": "7dbf1a10ad02ef0ad52817455a6b7178f25fcfdfef85dd32505fa2b3675fbd1e"
+    }
+  ],
+  "runId": "20261028T043951533625Z-9bf69393",
+  "createdAt": "2026-10-28T04:39:51.533998+00:00"
+}

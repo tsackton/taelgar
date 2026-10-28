@@ -3,7 +3,7 @@
 [u0003 | 00:00:11.630-00:00:19.990 | Kenzo] Oh, but this is we're going to be like sixty, seven years old, and be like, Remember, when we were forty and we played it. It's always going to be that way
 [u0004 | 00:00:20.000-00:00:22.219 | Kenzo] where there's always value in that.
 [u0005 | 00:00:23.200-00:00:28.419 | DM] Okay? So we begin at the moment you left
-[u0006 | 00:00:29.360-00:00:35.840 | DM] the village of the Te'kula following {{Fema}} and your friends back into the material world,
+[u0006 | 00:00:29.360-00:00:35.840 | DM] the village of the Te'kula following Theba and your friends back into the material world,
 [u0007 | 00:00:36.380-00:00:50.929 | DM] aware of the forest around you, newly awakened to your senses, with each step planting your staff on the ground, feeling the heartbeat of the trees, the pulse of nutrients across the vast network of mycelia connecting the
 [u0008 | 00:00:51.200-00:00:55.510 | DM] great trees of the place, the god trees to the Deno'qai.
 [u0009 | 00:00:57.670-00:01:08.079 | DM] As you walk, your awareness focused on this forest ki around you that bubbles through your staff and fills you with energy. The world fades
@@ -1635,7 +1635,7 @@
 [u1635 | 02:16:14.090-02:16:16.339 | DM] four sort of
 [u1636 | 02:16:16.950-02:16:19.179 | DM] harmonics of ki the
 [u1637 | 02:16:19.360-02:16:21.889 | DM] Amezza, the dream ki. The
-[u1638 | 02:16:21.900-02:16:23.389 | DM] {{i'd say that}}
+[u1638 | 02:16:21.900-02:16:23.389 | DM] Hutsu
 [u1639 | 02:16:23.440-02:16:27.259 | DM] um sort of spirit soul ki the
 [u1640 | 02:16:27.520-02:16:31.969 | DM] Urtaro, the divine ki. And Ohana, the sort of
 [u1641 | 02:16:32.090-02:16:35.380 | DM] nature life, energy
@@ -1654,7 +1654,7 @@
 [u1654 | 02:17:32.959-02:17:34.769 | DM] and that's not even
 [u1655 | 02:17:35.049-02:17:38.270 | DM] that's putting aside this sort of dangerous.
 [u1656 | 02:17:38.930-02:17:40.039 | DM] Ah,
-[u1657 | 02:17:40.290-02:17:41.850 | Unknown] {{Katie}}, there
+[u1657 | 02:17:40.290-02:17:41.850 | Unknown] ki, there
 [u1658 | 02:17:42.090-02:17:44.400 | Kenzo] the ki to dark places
 [u1659 | 02:17:44.809-02:17:51.589 | Kenzo] which Kenzo wants to play with, but maybe under some guidance, and not just by himself here while he's just right. Yeah,
 [u1660 | 02:17:51.600-02:17:53.989 | DM] um, and that.
@@ -1811,7 +1811,7 @@
 [u1811 | 02:30:13.220-02:30:14.119 | Unknown] That's brilliant.
 [u1812 | 02:30:14.400-02:30:16.710 | DM] So you've got a few options
 [u1813 | 02:30:16.720-02:30:21.520 | DM] that you can find around around Dunmar. There's i'm sure there's others, too,
-[u1814 | 02:30:22.060-02:30:26.059 | DM] I mean, uh {{Craig's mind}}
+[u1814 | 02:30:22.060-02:30:26.059 | DM] I mean, uh Rai's mind
 [u1815 | 02:30:26.420-02:30:29.319 | DM] also clearly connected,
 [u1816 | 02:30:29.330-02:30:30.770 | DM] {{and see what's}}
 [u1817 | 02:30:31.580-02:30:33.510 | DM] you know. Shifted time,

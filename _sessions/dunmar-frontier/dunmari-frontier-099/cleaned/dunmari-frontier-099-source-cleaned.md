@@ -797,7 +797,7 @@
 [u0797 | 00:47:49.720-00:47:50.679 | Delwath] Where were you in.
 [u0798 | 00:47:56.670-00:47:57.590 | DM] You know
 [u0799 | 00:47:59.590-00:48:01.569 | DM] the War of the Dark Rift
-[u0800 | 00:48:02.680-00:48:04.230 | DM] Umbral {{conclave}}.
+[u0800 | 00:48:02.680-00:48:04.230 | DM] Umbral Covenant.
 [u0801 | 00:48:05.700-00:48:06.429 | Delwath] Do? I.
 [u0802 | 00:48:07.690-00:48:08.020 | Kenzo] Do we.
 [u0803 | 00:48:08.030-00:48:08.826 | DM] Nope,
@@ -848,7 +848,7 @@
 [u0848 | 00:50:30.700-00:50:32.130 | DM] What's labeled a Deadly Wastes.
 [u0849 | 00:50:32.130-00:50:34.889 | Delwath] Deadly Wastes became deadly in this war.
 [u0850 | 00:50:34.950-00:50:35.570 | DM] And it
-[u0851 | 00:50:35.960-00:50:39.439 | DM] used to be a dwarven and {{stone dwarven}} kingdom there.
+[u0851 | 00:50:35.960-00:50:39.439 | DM] used to be a dwarven and stoneborn kingdom there.
 [u0852 | 00:50:39.830-00:50:49.619 | DM] and thinking on it now you, you remember, like Riswynn, spent a while looking for dwarves in Castrella, and there were no dwarves in Castrella.
 [u0853 | 00:50:49.620-00:50:51.150 | Seeker] Right right.
 [u0854 | 00:50:51.560-00:50:53.440 | Seeker] but that means there could be.
@@ -1121,7 +1121,7 @@
 [u1121 | 01:06:21.050-01:06:21.380 | Kenzo] It has.
 [u1122 | 01:06:21.380-01:06:24.650 | DM] You are carrying around a piece of ocean ki on your staff.
 [u1123 | 01:06:26.760-01:06:31.800 | Kenzo] Oh, Tim! What's the start? What's the name of the what's the name of my my acolyte?
-[u1124 | 01:06:32.890-01:06:33.530 | DM] {{Umma}}.
+[u1124 | 01:06:32.890-01:06:33.530 | DM] Amil.
 [u1125 | 01:06:34.288-01:06:39.549 | Kenzo] All, and sorry I'm sorry. What's this guy? Isn't the guy's name again? {{0}}
 [u1126 | 01:06:42.095-01:06:42.500 | Kenzo] on
 [u1127 | 01:06:43.450-01:06:45.460 | Kenzo] it has, and
@@ -1385,7 +1385,7 @@
 [u1385 | 01:22:58.970-01:22:59.670 | Delwath] You haven't like.
 [u1386 | 01:23:00.065-01:23:00.460 | Seeker] Oh!
 [u1387 | 01:23:01.520-01:23:03.799 | Delwath] Shared your monastery plans.
-[u1388 | 01:23:03.800-01:23:11.423 | Kenzo] Yeah, I totally have. This is like, why, I've been hosting little meetings when we're in Tollen, trying to get like some recruits here and there, you know. So {{all money}} is like my acolyte, you know.
+[u1388 | 01:23:03.800-01:23:11.423 | Kenzo] Yeah, I totally have. This is like, why, I've been hosting little meetings when we're in Tollen, trying to get like some recruits here and there, you know. So Amil is like my acolyte, you know.
 [u1389 | 01:23:11.630-01:23:20.126 | DM] It's all been. It's all been the like. Kenzo is sort of developing his own spiritual tradition on Vindristjarna, though this is like.
 [u1390 | 01:23:20.480-01:23:37.980 | Kenzo] This is this is this is what I've been doing on the dam on the while you guys are like, whatever the fuck you're doing cooking, dinner, and stuff like that Kenzo is like mapping out his whole, his whole philosophical, like epistemology. And you know, for his whole, this whole, his whole like. It's it's the Bruce Lee of like monks. Shit. It's like fuck. The original.
 [u1391 | 01:23:38.650-01:23:42.260 | Kenzo] Like, how do you flow? It's like your own thing, so
@@ -1515,8 +1515,8 @@
 [u1515 | 01:31:01.670-01:31:05.230 | DM] the winds continuing and favorable
 [u1516 | 01:31:06.800-01:31:09.159 | DM] as the sun rises and you pass
 [u1517 | 01:31:10.785-01:31:11.460 | DM] By
-[u1518 | 01:31:15.560-01:31:25.300 | DM] Mid-afternoon, off the coast of the {{retail retolio}} this other province that you.
-[u1519 | 01:31:25.330-01:31:29.420 | DM] you know, passing this headlands or this town of {{Sarvia}}, it is
+[u1518 | 01:31:15.560-01:31:25.300 | DM] Mid-afternoon, off the coast of the Raziolo this other province that you.
+[u1519 | 01:31:25.330-01:31:29.420 | DM] you know, passing this headlands or this town of Sarvia, it is
 [u1520 | 01:31:30.425-01:31:31.020 | DM] and
 [u1521 | 01:31:31.100-01:31:33.730 | DM] veering a little bit more
 [u1522 | 01:31:35.256-01:31:40.623 | DM] westerly to navigate through this channel between the islands.
@@ -1690,7 +1690,7 @@
 [u1690 | 01:40:35.820-01:40:37.470 | Seeker] temporarily deafen ourselves.
 [u1691 | 01:40:37.470-01:40:39.390 | DM] Okay. Well, which direction are you going?
 [u1692 | 01:40:39.390-01:40:44.300 | Delwath] So wait! Hold on! I had a question before we did that. Since we rounded the point.
-[u1693 | 01:40:44.540-01:40:47.360 | Delwath] since {{Rosana}}, has there been any, so like
+[u1693 | 01:40:44.540-01:40:47.360 | Delwath] since Roccena, has there been any, so like
 [u1694 | 01:40:47.540-01:40:53.250 | Delwath] is this whole area around to the point unsettled are we in wild territory now.
 [u1695 | 01:40:53.250-01:40:54.939 | DM] They're in pretty wild territory.
 [u1696 | 01:40:58.800-01:41:02.888 | DM] There's really no settlement on the west coast of the Peninsula.
@@ -2049,7 +2049,7 @@
 [u2049 | 02:02:12.580-02:02:14.179 | Delwath] This isn't the guy
 [u2050 | 02:02:17.110-02:02:23.779 | Delwath] I we're not. I know we can't use our Mawar knowledge. But wasn't there a guy possessed by the Sentient Ocean in Mawar.
 [u2051 | 02:02:25.125-02:02:26.300 | DM] Nope!
-[u2052 | 02:02:28.230-02:02:34.219 | DM] But but Kong's character almost drank a vial of the {{same function}}.
+[u2052 | 02:02:28.230-02:02:34.219 | DM] But but Kong's character almost drank a vial of the Sentient Ocean.
 [u2053 | 02:02:34.450-02:02:36.609 | DM] wanted to know what would happen.
 [u2054 | 02:02:38.510-02:02:41.989 | Kenzo] Kenzo kind of wants to {{drop}} a vial of the Sentient Ocean and see what happens.
 [u2055 | 02:02:46.043-02:02:48.510 | Delwath] Do I get any sense?
@@ -2295,7 +2295,7 @@
 [u2295 | 02:17:50.700-02:17:52.710 | Delwath] Anybody heard of Gazankoa!
 [u2296 | 02:17:53.240-02:17:54.020 | DM] No.
 [u2297 | 02:17:54.590-02:17:56.319 | Kenzo] {{Casano}}, Gazankoa.
-[u2298 | 02:17:59.010-02:18:05.720 | Delwath] Let's let's do a dreaming on {{Kiso}} to get him to go. Ask Wazir
+[u2298 | 02:17:59.010-02:18:05.720 | Delwath] Let's let's do a dreaming on Kaeso to get him to go. Ask Wazir
 [u2299 | 02:18:05.870-02:18:14.019 | Delwath] what Gaza is, but we wouldn't in game know that Gaza is something we should ask Mawar about.
 [u2300 | 02:18:15.170-02:18:15.969 | Seeker] Hmm.
 [u2301 | 02:18:16.129-02:18:22.989 | DM] I don't think you would actually learn that much. All you ever knew in Mawar was Gazankoa was some evil.
@@ -3193,7 +3193,7 @@
 [u3193 | 03:12:31.530-03:12:32.090 | Seeker] Ray.
 [u3194 | 03:12:32.384-03:12:35.330 | DM] {{Ridge from any plane to get back to me and}}.
 [u3195 | 03:12:35.330-03:12:38.680 | Delwath] We've sent Vindristjarna towards Drankor.
-[u3196 | 03:12:38.900-03:12:43.919 | DM] Towards {{use case}} should be reaching {{Ouskaar}} pretty soon. In day or 2.
+[u3196 | 03:12:38.900-03:12:43.919 | DM] Towards Uzgukhar should be reaching Uzgukhar pretty soon. In day or 2.
 [u3197 | 03:12:44.425-03:12:44.930 | Delwath] So
 [u3198 | 03:12:45.040-03:12:46.050 | Delwath] our
 [u3199 | 03:12:46.930-03:12:48.090 | Delwath] Plan

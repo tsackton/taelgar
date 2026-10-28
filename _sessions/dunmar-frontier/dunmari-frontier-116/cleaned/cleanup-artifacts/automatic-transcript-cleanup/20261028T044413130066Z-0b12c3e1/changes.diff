@@ -1,0 +1,10 @@
+--- before/u1600
++++ after/u1600
+@@ -1 +1 @@
+-[u1600 | 01:42:30.040-01:42:32.830 | Wellby] You right? Huh? {{Dylan}}? Yeah, of course.
++[u1600 | 01:42:30.040-01:42:32.830 | Wellby] You right? Huh? Delwath? Yeah, of course.
+--- before/u2850
++++ after/u2850
+@@ -1 +1 @@
+-[u2850 | 03:13:41.740-03:13:49.858 | DM] Blazing with the divine light of the {{barzel}} driving undead before her as she leads you forward
++[u2850 | 03:13:41.740-03:13:49.858 | DM] Blazing with the divine light of the Bahrâzel driving undead before her as she leads you forward

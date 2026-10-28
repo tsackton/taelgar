@@ -148,7 +148,7 @@
 [u0148 | 00:16:28.290-00:16:30.150 | Wellby] Evil is genetic in this world.
 [u0149 | 00:16:30.870-00:16:31.440 | Seeker] I see.
 [u0150 | 00:16:31.770-00:16:32.550 | Seeker] Wellby.
-[u0151 | 00:16:33.540-00:16:36.750 | Delwath] {{Sure matt}} was trying to change that, but she was defeated.
+[u0151 | 00:16:33.540-00:16:36.750 | Delwath] Cha'mutte was trying to change that, but she was defeated.
 [u0152 | 00:16:40.410-00:16:45.300 | DM] I mean Okay, so you would all know that, like there is definitely there are definitely some.
 [u0153 | 00:16:46.110-00:16:56.670 | DM] Things, like, I mean, demons are evil, those are not separable things. There are no demons that, like, you know, reject their demon heritage and try.
 [u0154 | 00:16:56.700-00:16:57.960 | DM] To do good right.
@@ -1725,7 +1725,7 @@
 [u1725 | 02:16:53.700-02:16:57.390 | DM] Just complete absence of any sign of magic.
 [u1726 | 02:16:59.970-02:17:03.330 | DM] Like Everywhere you look it's just totally non magical.
 [u1727 | 02:17:04.200-02:17:04.590 | Drikod] Does.
-[u1728 | 02:17:04.920-02:17:07.470 | Delwath] The {{corrupt a ring}} I'm wearing that I know is magical?
+[u1728 | 02:17:04.920-02:17:07.470 | Delwath] The Drankorian ring I'm wearing that I know is magical?
 [u1729 | 02:17:08.700-02:17:09.570 | DM] Not magical.
 [u1730 | 02:17:12.600-02:17:13.170 | Kenzo] protected.
 [u1731 | 02:17:15.510-02:17:16.350 | Drikod] How does.

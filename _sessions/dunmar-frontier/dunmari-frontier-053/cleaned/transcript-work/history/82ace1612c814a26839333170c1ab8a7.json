@@ -1,0 +1,1306 @@
+{
+  "chunkId": "chunk-001",
+  "schemaVersion": 1,
+  "sourceSha256": "eff5b33d11f377989ba46b5b37a0a0ba794e5851d546aacb9204c8d0d6dc030a",
+  "stage": "polish",
+  "turns": [
+    {
+      "sources": [
+        {
+          "end": 205,
+          "start": 0,
+          "uid": "u0001"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Okay, so, short intro: as you are leaving the village of, of the Te'kula, following Theba and your friends back to the material world, keenly aware of the tanshi that seemed to hover just beyond your senses."
+    },
+    {
+      "sources": [
+        {
+          "end": 242,
+          "start": 0,
+          "uid": "u0002"
+        },
+        {
+          "end": 200,
+          "start": 0,
+          "uid": "u0003"
+        }
+      ],
+      "speaker": "DM",
+      "text": "You can almost feel the hand of Aasimti holding this place hidden in light and shadow. The path seems to splinter and shift, as if seen through blinking, broken glass, and you sense the work of Birich'iko, the spirit of glass, in your vision. You feel rain on your face, the water soaking into the ground, and for a moment you sense the presence of Ch'ik'a as you almost feel the squashing of mud on your bare feet, through your armored boots."
+    },
+    {
+      "sources": [
+        {
+          "end": 257,
+          "start": 0,
+          "uid": "u0004"
+        },
+        {
+          "end": 79,
+          "start": 0,
+          "uid": "u0005"
+        },
+        {
+          "end": 205,
+          "start": 0,
+          "uid": "u0006"
+        },
+        {
+          "end": 45,
+          "start": 0,
+          "uid": "u0007"
+        }
+      ],
+      "speaker": "DM",
+      "text": "As you walk, distracted by your newfound awareness of the spirits that flit around you, suddenly your—when your vision is pulled back to your friends in a jumbled collection of images, as the pocket dimension collapses: a ship approaching a jagged coastline of an unfamiliar island, a meadow of golden butterflies, a dense tropical forest. As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: \"Find your way to the Feywild, to the portal near Eudomes' Tower; we will meet again there.\" And then you are hurtling towards the ground."
+    },
+    {
+      "sources": [
+        {
+          "end": 229,
+          "start": 0,
+          "uid": "u0008"
+        },
+        {
+          "end": 130,
+          "start": 0,
+          "uid": "u0009"
+        },
+        {
+          "end": 206,
+          "start": 0,
+          "uid": "u0010"
+        },
+        {
+          "end": 193,
+          "start": 0,
+          "uid": "u0011"
+        }
+      ],
+      "speaker": "DM",
+      "text": "It is late afternoon trending towards dusk, and you see below you the slopes of tall mountains, the peaks tipped in white, dense fir-pine forests covering the slopes. There's a chill in the air, the hint of a long winter to come. Stretching to the west, rugged hills of mixed forest, the maples of the lower elevations already turning vibrant reds and yellows. The sun low in the sky casts a beautiful golden light across the forest and mountains. In the distance in the valleys, you see a hint of shadows, dark spots, with no obvious clouds drifting over the ground. In the next moment you find yourself on the ground in the pine forests about halfway up the mountains, watching the light of a flickering campfire in the evening a few hundred feet ahead of you."
+    },
+    {
+      "sources": [
+        {
+          "end": 36,
+          "start": 0,
+          "uid": "u0012"
+        }
+      ],
+      "speaker": "DM",
+      "text": "I assume you walk toward a campfire."
+    },
+    {
+      "sources": [
+        {
+          "end": 77,
+          "start": 0,
+          "uid": "u0013"
+        },
+        {
+          "end": 23,
+          "start": 0,
+          "uid": "u0014"
+        },
+        {
+          "end": 21,
+          "start": 0,
+          "uid": "u0015"
+        },
+        {
+          "end": 130,
+          "start": 0,
+          "uid": "u0016"
+        },
+        {
+          "end": 137,
+          "start": 0,
+          "uid": "u0017"
+        }
+      ],
+      "speaker": "DM",
+      "text": "So, as you approach, you can almost sense what you will see before you see it. This is a hunting camp: about a dozen people carrying on the work of preparing the camp for the night. There's tents, fur blankets, several large elk and deer being butchered. Some already butchered, their skins salted, deer hides stretched between trees drying, a charcoal pit smoking as meat is dried for jerky."
+    },
+    {
+      "sources": [
+        {
+          "end": 46,
+          "start": 0,
+          "uid": "u0018"
+        },
+        {
+          "end": 54,
+          "start": 0,
+          "uid": "u0019"
+        },
+        {
+          "end": 75,
+          "start": 0,
+          "uid": "u0020"
+        },
+        {
+          "end": 10,
+          "start": 0,
+          "uid": "u0021"
+        },
+        {
+          "end": 117,
+          "start": 0,
+          "uid": "u0022"
+        },
+        {
+          "end": 74,
+          "start": 0,
+          "uid": "u0023"
+        }
+      ],
+      "speaker": "DM",
+      "text": "As you approach, perhaps somewhat disoriented, you hear, you know, some whistles, some obvious calls of the watchers, the lookouts at the camp, and four or five of the people begin gathering bows and shields and heading towards the—sort of peering into the gloom of the shadows, looking at you, and one calls in Deno'qai, which, at this point, I'm going to say you've now learned to—"
+    },
+    {
+      "sources": [
+        {
+          "end": 52,
+          "start": 0,
+          "uid": "u0024"
+        },
+        {
+          "end": 101,
+          "start": 0,
+          "uid": "u0025"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I was gonna ask him, I noticed you added as a bonus. But yes, I was gonna suggest that that was learned, acquired at some point then. Okay, at some point."
+    },
+    {
+      "sources": [
+        {
+          "end": 3,
+          "start": 0,
+          "uid": "u0026"
+        }
+      ],
+      "speaker": "Unknown",
+      "text": "Um."
+    },
+    {
+      "sources": [
+        {
+          "end": 15,
+          "start": 0,
+          "uid": "u0027"
+        }
+      ],
+      "speaker": "DM",
+      "text": "\"Who goes there?\""
+    },
+    {
+      "sources": [
+        {
+          "end": 14,
+          "start": 0,
+          "uid": "u0028"
+        },
+        {
+          "end": 130,
+          "start": 0,
+          "uid": "u0029"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I'll call out. I have no real idea—you said I saw, I saw mount—mountains, now that was, yeah, okay, but otherwise I have really no idea where I am."
+    },
+    {
+      "sources": [
+        {
+          "end": 8,
+          "start": 0,
+          "uid": "u0030"
+        }
+      ],
+      "speaker": "DM",
+      "text": "No clue."
+    },
+    {
+      "sources": [
+        {
+          "end": 25,
+          "start": 0,
+          "uid": "u0031"
+        },
+        {
+          "end": 24,
+          "start": 0,
+          "uid": "u0032"
+        },
+        {
+          "end": 24,
+          "start": 0,
+          "uid": "u0033"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I'll call out, \"A traveler. I'm lost in these woods. I've come from far away.\""
+    },
+    {
+      "sources": [
+        {
+          "end": 117,
+          "start": 0,
+          "uid": "u0034"
+        },
+        {
+          "end": 49,
+          "start": 0,
+          "uid": "u0035"
+        }
+      ],
+      "speaker": "DM",
+      "text": "They, they sort of move to surround you slightly and motion you forward into the sort of light of the, of the fire, and the man who's speaking, is calling out to you, is—"
+    },
+    {
+      "sources": [
+        {
+          "end": 23,
+          "start": 0,
+          "uid": "u0036"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I'll reply in Deno'qai."
+    },
+    {
+      "sources": [
+        {
+          "end": 18,
+          "start": 0,
+          "uid": "u0037"
+        },
+        {
+          "end": 130,
+          "start": 0,
+          "uid": "u0038"
+        },
+        {
+          "end": 61,
+          "start": 0,
+          "uid": "u0039"
+        },
+        {
+          "end": 9,
+          "start": 0,
+          "uid": "u0040"
+        },
+        {
+          "end": 38,
+          "start": 0,
+          "uid": "u0041"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Right, middle aged, like a long salt and pepper tangled beard, bald head, holding a longbow, wearing scale mail armor with a shield slung on his back. A piece of mammoth tusk carved with a design around his neck. With his, his bow drawn, calls out again to you."
+    },
+    {
+      "sources": [
+        {
+          "end": 41,
+          "start": 0,
+          "uid": "u0042"
+        },
+        {
+          "end": 31,
+          "start": 0,
+          "uid": "u0043"
+        },
+        {
+          "end": 23,
+          "start": 0,
+          "uid": "u0044"
+        }
+      ],
+      "speaker": "DM",
+      "text": "\"There are a few travelers in these parts, especially speaking our tongue. Where do you hail from?\""
+    },
+    {
+      "sources": [
+        {
+          "end": 60,
+          "start": 0,
+          "uid": "u0045"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I'll like throw back my hood and make it obvious I'm an elf."
+    },
+    {
+      "sources": [
+        {
+          "end": 112,
+          "start": 0,
+          "uid": "u0046"
+        },
+        {
+          "end": 24,
+          "start": 0,
+          "uid": "u0047"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Like, they sort of look around and take a step back and somebody—and you hear somebody else from in the distance: \"The elves have returned.\""
+    },
+    {
+      "sources": [
+        {
+          "end": 3,
+          "start": 0,
+          "uid": "u0048"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "And—"
+    },
+    {
+      "sources": [
+        {
+          "end": 36,
+          "start": 0,
+          "uid": "u0049"
+        }
+      ],
+      "speaker": "DM",
+      "substitutions": [
+        {
+          "end": 35,
+          "kind": "garbled",
+          "reason": "Unrecoverable incidental recognition debris; retain intelligible speech and substantive content around this exact span.",
+          "start": 21,
+          "uid": "u0049"
+        }
+      ],
+      "text": "What's, what's, what's [garbled]?"
+    },
+    {
+      "sources": [
+        {
+          "end": 55,
+          "start": 0,
+          "uid": "u0050"
+        },
+        {
+          "end": 19,
+          "start": 0,
+          "uid": "u0051"
+        },
+        {
+          "end": 18,
+          "start": 0,
+          "uid": "u0052"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "What's the name of the—I always forget that was actual. You gave me a name. I should write it."
+    },
+    {
+      "sources": [
+        {
+          "end": 10,
+          "start": 0,
+          "uid": "u0053"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Ainumarya."
+    },
+    {
+      "sources": [
+        {
+          "end": 49,
+          "start": 0,
+          "uid": "u0054"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Okay, I'm gonna write this on my character sheet."
+    },
+    {
+      "sources": [
+        {
+          "end": 66,
+          "start": 0,
+          "uid": "u0055"
+        }
+      ],
+      "speaker": "DM",
+      "text": "That's the, that's the name of the whole forest from south of here."
+    },
+    {
+      "sources": [
+        {
+          "end": 25,
+          "start": 0,
+          "uid": "u0056"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Right, well, that's, that's—"
+    },
+    {
+      "sources": [
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0057"
+        }
+      ],
+      "speaker": "Unknown",
+      "text": "Ainu."
+    },
+    {
+      "sources": [
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0058"
+        },
+        {
+          "end": 23,
+          "start": 0,
+          "uid": "u0059"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Ainu. He just put it in chat."
+    },
+    {
+      "sources": [
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0060"
+        }
+      ],
+      "speaker": "Unknown",
+      "text": "Yeah."
+    },
+    {
+      "sources": [
+        {
+          "end": 18,
+          "start": 0,
+          "uid": "u0061"
+        }
+      ],
+      "speaker": "DM",
+      "text": "That's an I, yeah."
+    },
+    {
+      "sources": [
+        {
+          "end": 17,
+          "start": 0,
+          "uid": "u0062"
+        },
+        {
+          "end": 62,
+          "start": 0,
+          "uid": "u0063"
+        },
+        {
+          "end": 29,
+          "start": 0,
+          "uid": "u0064"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I'll, I'll answer. Originally—also, one other—what's the name of the forest, the, the Elder Forest in Deno'qai?"
+    },
+    {
+      "sources": [
+        {
+          "end": 23,
+          "start": 0,
+          "uid": "u0065"
+        }
+      ],
+      "speaker": "DM",
+      "text": "The one where you were?"
+    },
+    {
+      "sources": [
+        {
+          "end": 32,
+          "start": 0,
+          "uid": "u0066"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "The Elderwood, sorry, the Elder—"
+    },
+    {
+      "sources": [
+        {
+          "end": 22,
+          "start": 0,
+          "uid": "u0067"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Elderwood in Deno'qai."
+    },
+    {
+      "sources": [
+        {
+          "end": 7,
+          "start": 0,
+          "uid": "u0068"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I mean—"
+    },
+    {
+      "sources": [
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0069"
+        }
+      ],
+      "speaker": "Unknown",
+      "text": "Talk."
+    },
+    {
+      "sources": [
+        {
+          "end": 19,
+          "start": 0,
+          "uid": "u0070"
+        },
+        {
+          "end": 27,
+          "start": 0,
+          "uid": "u0071"
+        },
+        {
+          "end": 16,
+          "start": 0,
+          "uid": "u0072"
+        },
+        {
+          "end": 8,
+          "start": 0,
+          "uid": "u0073"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Okay, and then the, the people that the people we were waiting—Te'kula."
+    },
+    {
+      "sources": [
+        {
+          "end": 13,
+          "start": 0,
+          "uid": "u0074"
+        },
+        {
+          "end": 43,
+          "start": 0,
+          "uid": "u0075"
+        },
+        {
+          "end": 24,
+          "start": 0,
+          "uid": "u0076"
+        },
+        {
+          "end": 22,
+          "start": 0,
+          "uid": "u0077"
+        },
+        {
+          "end": 71,
+          "start": 0,
+          "uid": "u0078"
+        },
+        {
+          "end": 40,
+          "start": 0,
+          "uid": "u0079"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Okay, so I'm—Delwath will, well, sort of walk around, say, \"I was born in Ainumarya. Most recently, though, I was—\" Wait, hold that. How far away did, did he appear? Like this was only a 500 feet, right, or something like that?"
+    },
+    {
+      "sources": [
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0080"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Yeah."
+    },
+    {
+      "sources": [
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0081"
+        }
+      ],
+      "speaker": "Unknown",
+      "text": "Okay."
+    },
+    {
+      "sources": [
+        {
+          "end": 94,
+          "start": 0,
+          "uid": "u0082"
+        },
+        {
+          "end": 34,
+          "start": 0,
+          "uid": "u0083"
+        },
+        {
+          "end": 57,
+          "start": 0,
+          "uid": "u0084"
+        },
+        {
+          "end": 51,
+          "start": 0,
+          "uid": "u0085"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "\"After many twisted pathways I found my way to the Tinitaka, right, was a guest of the Te'kula. People like yourselves, I believe. Most recently—\" He kind of walks back behind him 500 feet. \"Out 500 feet that way. How I got there I'm not sure.\""
+    },
+    {
+      "sources": [
+        {
+          "end": 3,
+          "start": 0,
+          "uid": "u0086"
+        },
+        {
+          "end": 69,
+          "start": 0,
+          "uid": "u0087"
+        },
+        {
+          "end": 49,
+          "start": 0,
+          "uid": "u0088"
+        },
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0089"
+        },
+        {
+          "end": 36,
+          "start": 0,
+          "uid": "u0090"
+        }
+      ],
+      "speaker": "DM",
+      "text": "He kind of looks back at his companions and sort of motions you forward. \"You speak of distant lands and myths and legends. I am—what, what brings you to these woods?\""
+    },
+    {
+      "sources": [
+        {
+          "end": 214,
+          "start": 0,
+          "uid": "u0091"
+        },
+        {
+          "end": 15,
+          "start": 0,
+          "uid": "u0092"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I need to find the gods that you—sorry, I should have—I was looking at my email for the—okay, I didn't change anything from the email I sent about the reskin, right? Those four gods at the bottom are the four gods. Yeah, that, okay."
+    },
+    {
+      "sources": [
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0093"
+        }
+      ],
+      "speaker": "Unknown",
+      "text": "Yeah."
+    },
+    {
+      "sources": [
+        {
+          "end": 20,
+          "start": 0,
+          "uid": "u0094"
+        },
+        {
+          "end": 8,
+          "start": 0,
+          "uid": "u0095"
+        },
+        {
+          "end": 7,
+          "start": 0,
+          "uid": "u0096"
+        },
+        {
+          "end": 7,
+          "start": 0,
+          "uid": "u0097"
+        },
+        {
+          "end": 7,
+          "start": 0,
+          "uid": "u0098"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "So Delwath will say, \"I heard—I seek Yezali. Tanshi.\""
+    },
+    {
+      "sources": [
+        {
+          "end": 53,
+          "start": 0,
+          "uid": "u0099"
+        }
+      ],
+      "speaker": "DM",
+      "text": "\"You, you know of the Meswati, the silent ones, an elf?\""
+    },
+    {
+      "sources": [
+        {
+          "end": 21,
+          "start": 0,
+          "uid": "u0100"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "\"Yezali is not silent.\""
+    },
+    {
+      "sources": [
+        {
+          "end": 58,
+          "start": 0,
+          "uid": "u0101"
+        }
+      ],
+      "speaker": "DM",
+      "text": "It looks like color sort of starts to drain from his face."
+    },
+    {
+      "sources": [
+        {
+          "end": 7,
+          "start": 0,
+          "uid": "u0102"
+        },
+        {
+          "end": 15,
+          "start": 0,
+          "uid": "u0103"
+        },
+        {
+          "end": 17,
+          "start": 0,
+          "uid": "u0104"
+        },
+        {
+          "end": 19,
+          "start": 0,
+          "uid": "u0105"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I will cast Mage Hand. \"This is his hand working through me.\""
+    },
+    {
+      "sources": [
+        {
+          "end": 63,
+          "start": 0,
+          "uid": "u0106"
+        },
+        {
+          "end": 16,
+          "start": 0,
+          "uid": "u0107"
+        },
+        {
+          "end": 27,
+          "start": 0,
+          "uid": "u0108"
+        },
+        {
+          "end": 41,
+          "start": 0,
+          "uid": "u0109"
+        }
+      ],
+      "speaker": "DM",
+      "text": "He looks sort of in awe and looks back at his companions, says, \"You speak truly? Yezali has been silent for many, many generations, hundreds of years.\""
+    },
+    {
+      "sources": [
+        {
+          "end": 20,
+          "start": 0,
+          "uid": "u0110"
+        },
+        {
+          "end": 13,
+          "start": 0,
+          "uid": "u0111"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "\"Has been imprisoned, and still is.\""
+    },
+    {
+      "sources": [
+        {
+          "end": 18,
+          "start": 0,
+          "uid": "u0112"
+        },
+        {
+          "end": 14,
+          "start": 0,
+          "uid": "u0113"
+        },
+        {
+          "end": 24,
+          "start": 0,
+          "uid": "u0114"
+        }
+      ],
+      "speaker": "DM",
+      "text": "\"And how then does—do they speak? Do they act through you?\""
+    },
+    {
+      "sources": [
+        {
+          "end": 9,
+          "start": 0,
+          "uid": "u0115"
+        },
+        {
+          "end": 27,
+          "start": 0,
+          "uid": "u0116"
+        },
+        {
+          "end": 19,
+          "start": 0,
+          "uid": "u0117"
+        },
+        {
+          "end": 53,
+          "start": 0,
+          "uid": "u0118"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "\"I wasn't—I was imprisoned with them, and Yezali somehow pushed me out of the prison, left the link between us.\""
+    },
+    {
+      "sources": [
+        {
+          "end": 12,
+          "start": 0,
+          "uid": "u0119"
+        },
+        {
+          "end": 22,
+          "start": 0,
+          "uid": "u0120"
+        },
+        {
+          "end": 19,
+          "start": 0,
+          "uid": "u0121"
+        },
+        {
+          "end": 26,
+          "start": 0,
+          "uid": "u0122"
+        }
+      ],
+      "speaker": "DM",
+      "text": "\"You know of the other silent ones? Nisir or K'onisati, Yalik'I, Taraka and Midri?\""
+    },
+    {
+      "sources": [
+        {
+          "end": 29,
+          "start": 0,
+          "uid": "u0123"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "\"Only rumors from the Te'kula.\""
+    },
+    {
+      "sources": [
+        {
+          "end": 25,
+          "start": 0,
+          "uid": "u0124"
+        },
+        {
+          "end": 9,
+          "start": 0,
+          "uid": "u0125"
+        },
+        {
+          "end": 39,
+          "start": 0,
+          "uid": "u0126"
+        },
+        {
+          "end": 25,
+          "start": 0,
+          "uid": "u0127"
+        }
+      ],
+      "speaker": "DM",
+      "text": "\"Did not know it was true. You must—you must come to our village, you must—you must speak with Ninu.\""
+    },
+    {
+      "sources": [
+        {
+          "end": 13,
+          "start": 0,
+          "uid": "u0128"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Gesture like—"
+    },
+    {
+      "sources": [
+        {
+          "end": 31,
+          "start": 0,
+          "uid": "u0129"
+        },
+        {
+          "end": 40,
+          "start": 0,
+          "uid": "u0130"
+        },
+        {
+          "end": 27,
+          "start": 0,
+          "uid": "u0131"
+        },
+        {
+          "end": 11,
+          "start": 0,
+          "uid": "u0132"
+        },
+        {
+          "end": 66,
+          "start": 0,
+          "uid": "u0133"
+        }
+      ],
+      "speaker": "DM",
+      "text": "\"With the—she will want to hear. Because it is a two day journey, please share camp for the evening.\" Hello, like, \"Zevi can guide you in the morning.\" Gestures to like a younger boy."
+    },
+    {
+      "sources": [
+        {
+          "end": 20,
+          "start": 0,
+          "uid": "u0134"
+        },
+        {
+          "end": 48,
+          "start": 0,
+          "uid": "u0135"
+        },
+        {
+          "end": 51,
+          "start": 0,
+          "uid": "u0136"
+        },
+        {
+          "end": 258,
+          "start": 0,
+          "uid": "u0137"
+        }
+      ],
+      "speaker": "DM",
+      "text": "So, you know, you, you spend some time with them that, you know, it's, um—it, it does feel like strangely familiar to you, and almost as if you're also seeing everything like it—like there's just a lot of deja vu, right? Like, oh, you know, they'll—before eating some of this, this fresh deer, they, you know, make a little offering to A'gaza, the, the tanshi of deer and elk and reindeer."
+    },
+    {
+      "sources": [
+        {
+          "end": 181,
+          "start": 0,
+          "uid": "u0138"
+        },
+        {
+          "end": 26,
+          "start": 0,
+          "uid": "u0139"
+        },
+        {
+          "end": 9,
+          "start": 0,
+          "uid": "u0140"
+        },
+        {
+          "end": 23,
+          "start": 0,
+          "uid": "u0141"
+        },
+        {
+          "end": 61,
+          "start": 0,
+          "uid": "u0142"
+        },
+        {
+          "end": 53,
+          "start": 0,
+          "uid": "u0143"
+        },
+        {
+          "end": 14,
+          "start": 0,
+          "uid": "u0144"
+        },
+        {
+          "end": 101,
+          "start": 0,
+          "uid": "u0145"
+        },
+        {
+          "end": 36,
+          "start": 0,
+          "uid": "u0146"
+        }
+      ],
+      "speaker": "DM",
+      "text": "And, you know, this guy's like carving a little bed, and you can see, you know, just the feeling of the tanshi around strikes you. But in the morning you, you are taken by Zevi, this younger boy who leads you—lead you up the mountains about—it's about a two day journey, and during the trip he explains, \"You know, it's not, it's not safe to spend a long time down this low. We're only about 20, 30 miles from the Forest of Nightmares down here, and you never know what might sneak up in the night up the slopes.\""
+    },
+    {
+      "sources": [
+        {
+          "end": 56,
+          "start": 0,
+          "uid": "u0147"
+        },
+        {
+          "end": 22,
+          "start": 0,
+          "uid": "u0148"
+        },
+        {
+          "end": 135,
+          "start": 0,
+          "uid": "u0149"
+        },
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0150"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Before we leave camp, actually, does any of them have any geographic sense? Like has any of them traveled far enough to have any way of sort of positioning us? Like how far north, like even which direction we are from Ainu—"
+    },
+    {
+      "sources": [
+        {
+          "end": 49,
+          "start": 0,
+          "uid": "u0151"
+        },
+        {
+          "end": 271,
+          "start": 0,
+          "uid": "u0152"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Yeah, everything there, Ainumarya's to the south. A fair bit to the south, they are, and as you know, they, they—somebody draws like a crude map, just the mountain, the central mountains, and then draws the little chain of volcanoes that is Pandar, and you are like 200 miles south of Pandar. You're like way to the north."
+    },
+    {
+      "sources": [
+        {
+          "end": 78,
+          "start": 0,
+          "uid": "u0153"
+        },
+        {
+          "end": 83,
+          "start": 0,
+          "uid": "u0154"
+        },
+        {
+          "end": 33,
+          "start": 0,
+          "uid": "u0155"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I want to—I mean, at some point, maybe in the night, but—or maybe just this guy—Delwath will express some curiosity and stories of how they survived the Great War. They must have myths and legends."
+    },
+    {
+      "sources": [
+        {
+          "end": 58,
+          "start": 0,
+          "uid": "u0156"
+        },
+        {
+          "end": 56,
+          "start": 0,
+          "uid": "u0157"
+        },
+        {
+          "end": 126,
+          "start": 0,
+          "uid": "u0158"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Oh yeah, so yeah, he tells you they—so most of them did, and there were once many tribes, the only one that survived—the only two tribes that survived the Great War were, were there's the Ko'zula and the Shu'anra who live further to the south."
+    },
+    {
+      "sources": [
+        {
+          "end": 165,
+          "start": 0,
+          "uid": "u0159"
+        },
+        {
+          "end": 133,
+          "start": 0,
+          "uid": "u0160"
+        },
+        {
+          "end": 21,
+          "start": 0,
+          "uid": "u0161"
+        },
+        {
+          "end": 89,
+          "start": 0,
+          "uid": "u0162"
+        },
+        {
+          "end": 37,
+          "start": 0,
+          "uid": "u0163"
+        }
+      ],
+      "speaker": "DM",
+      "text": "And, and tells you like, you know, \"Ninu knows the legends, she'll tell you more, but there were many great battles and silent ones sacrificed themselves for our safety. And we fled into the mountains and fled to the protection of the stoneborn and lived in the high peaks for a generation sheltered by—in stoneborn refuges.\" You know, the myth anyway is they only escaped because the six silent ones sacrificed to delay Cha'mutte's troops long enough."
+    },
+    {
+      "sources": [
+        {
+          "end": 7,
+          "start": 0,
+          "uid": "u0164"
+        },
+        {
+          "end": 27,
+          "start": 0,
+          "uid": "u0165"
+        },
+        {
+          "end": 16,
+          "start": 0,
+          "uid": "u0166"
+        },
+        {
+          "end": 35,
+          "start": 0,
+          "uid": "u0167"
+        },
+        {
+          "end": 119,
+          "start": 0,
+          "uid": "u0168"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "I will recount the tale of Yezali, but from like a first person perspective, right, way—right, I mean I feel like I'm not going to dig it up, but there was a fairly detailed description in the dream, so like—"
+    },
+    {
+      "sources": [
+        {
+          "end": 129,
+          "start": 0,
+          "uid": "u0169"
+        },
+        {
+          "end": 33,
+          "start": 0,
+          "uid": "u0170"
+        },
+        {
+          "end": 41,
+          "start": 0,
+          "uid": "u0171"
+        },
+        {
+          "end": 14,
+          "start": 0,
+          "uid": "u0172"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Yes, maybe around the campfire, like if the story is coming out right now, Delwath will just take the opportunity to sort of share, and, and pitch it as kind of like, not he was there, but \"I saw this through Yezali's eyes.\""
+    },
+    {
+      "sources": [
+        {
+          "end": 135,
+          "start": 0,
+          "uid": "u0173"
+        },
+        {
+          "end": 143,
+          "start": 0,
+          "uid": "u0174"
+        }
+      ],
+      "speaker": "DM",
+      "text": "So they, I mean they recognize some part of fighting the giant demon is like that's the Battle of Darkfire, that's a huge, like a major—right, legend, that Yezali sacrificed himself, themselves, with them during the Battle of Darkfire to prevent the forest from burning entirely."
+    },
+    {
+      "sources": [
+        {
+          "end": 147,
+          "start": 0,
+          "uid": "u0175"
+        }
+      ],
+      "speaker": "DM",
+      "text": "So everybody's like super, like kind of in awe at this point, and so you spend the—so also Zevi talks on this, a couple of days' journey, about how"
+    }
+  ]
+}

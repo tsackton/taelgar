@@ -56,9 +56,9 @@
 [u0056 | 00:04:33.960-00:04:36.210 | DM] So the well, there are some.
 [u0057 | 00:04:38.250-00:04:43.410 | DM] There like there's always been like this sort of contested border between the.
 [u0058 | 00:04:44.190-00:04:44.460 | DM] You know.
-[u0059 | 00:04:44.520-00:05:02.490 | DM] Whatever random monsters live in the jungle and Dunmar but the Shrev as usual is like the defensible border basically and then sometimes the some King will be like oh i'm gonna conquer all the way to the next river South the {{chatty}} or something, but you know.
+[u0059 | 00:04:44.520-00:05:02.490 | DM] Whatever random monsters live in the jungle and Dunmar but the Shrev as usual is like the defensible border basically and then sometimes the some King will be like oh i'm gonna conquer all the way to the next river South the Chaudi or something, but you know.
 [u0060 | 00:05:03.780-00:05:04.410 | Seeker] it's a little bit.
-[u0061 | 00:05:04.530-00:05:09.270 | DM] population density is greatest from Darba to {{tonight}} then falls off to {{much trash}}.
+[u0061 | 00:05:04.530-00:05:09.270 | DM] population density is greatest from Darba to Nayan then falls off to {{much trash}}.
 [u0062 | 00:05:09.960-00:05:19.770 | Seeker] it's a little bit like maybe it's just because i've been reading novels about America in the 19th century, but i'm a little bit like the east coast.
 [u0063 | 00:05:21.210-00:05:22.320 | Seeker] If you like mirror image it.
 [u0064 | 00:05:24.750-00:05:27.720 | DM] yeah and Yuvanti were the Appalachians.
@@ -122,7 +122,7 @@
 [u0122 | 00:09:55.770-00:09:56.190 | DM] Because cuz.
 [u0123 | 00:09:58.260-00:09:59.370 | DM] Here where's that.
 [u0124 | 00:09:59.430-00:10:00.840 | DM] what's a server yes.
-[u0125 | 00:10:01.800-00:10:06.180 | DM] But {{during Korean}} or the Chardonian who is in Tokra found.
+[u0125 | 00:10:01.800-00:10:06.180 | DM] But Drankorian or the Chardonian who is in Tokra found.
 [u0126 | 00:10:07.290-00:10:09.450 | DM] A scroll a letter in.
 [u0127 | 00:10:12.420-00:10:13.710 | DM] In the archives.
 [u0128 | 00:10:15.840-00:10:16.350 | DM] That.
@@ -146,14 +146,14 @@
 [u0146 | 00:12:21.390-00:12:29.400 | Kenzo] We have any i'm assuming that there was somebody that like we're supposed to contact when we get to Darba right there's numerous was like talk to you were like a.
 [u0147 | 00:12:30.030-00:12:37.140 | Kenzo] Like a we have any any leads, there is a person who are trying to meet did that, like do they have like an equivalent of like the archives of Tokra in Darba.
 [u0148 | 00:12:38.130-00:12:41.190 | DM] I mean you have a letter from from.
-[u0149 | 00:12:42.690-00:12:51.330 | DM] {{Calais}}, the high priestess of Tokra that's basically like these are good people, please help them, if you can, great.
+[u0149 | 00:12:42.690-00:12:51.330 | DM] Kaleha, the high priestess of Tokra that's basically like these are good people, please help them, if you can, great.
 [u0150 | 00:12:51.450-00:12:53.340 | DM] Oh man, have you ever been to Darba is.
 [u0151 | 00:12:53.400-00:12:53.910 | DM] Like a.
 [u0152 | 00:12:54.960-00:13:00.540 | DM] New place the first like new city you've been to this entire.
 [u0153 | 00:13:02.310-00:13:11.820 | DM] Given that several of you three of you at already most of you have been to Tokra before so you know nothing about Darba you don't know anything about what's there you don't know.
 [u0154 | 00:13:13.410-00:13:18.030 | DM] I mean there's presumably it's organized in a similar way to the.
 [u0155 | 00:13:19.620-00:13:26.580 | DM] Tokra that there's some you know temple administrator who functions as like the ruler of the city.
-[u0156 | 00:13:26.940-00:13:37.530 | Kenzo] Okay, so presumably {{a color}} would tell us the name of that person and maybe they may not send word is we've got a little get out of jail letter but she would have been like oh hey This is my counterpart in Darba.
+[u0156 | 00:13:26.940-00:13:37.530 | Kenzo] Okay, so presumably Kaleha would tell us the name of that person and maybe they may not send word is we've got a little get out of jail letter but she would have been like oh hey This is my counterpart in Darba.
 [u0157 | 00:13:40.290-00:13:41.130 | DM] yeah I mean.
 [u0158 | 00:13:43.470-00:13:45.930 | DM] Yes, yes.
 [u0159 | 00:13:46.200-00:13:51.360 | Kenzo] Okay, so that's probably what we do when we get there as go try to find that person and be like hey where he he's.
@@ -275,7 +275,7 @@
 [u0275 | 00:23:38.730-00:23:42.660 | DM] So there's like the colored circle is.
 [u0276 | 00:23:43.050-00:23:43.470 | Delwath] Is that.
 [u0277 | 00:23:43.500-00:23:44.880 | DM] Chardon Darba.
-[u0278 | 00:23:44.910-00:23:54.600 | DM] {{Some garbage garbage garbage in garbage out}} right it's only if you're doing the long distance trade to to {{somebody}}.
+[u0278 | 00:23:44.910-00:23:54.600 | DM] {{Some garbage garbage garbage in garbage out}} right it's only if you're doing the long distance trade to to Sembara.
 [u0279 | 00:23:54.630-00:23:56.100 | DM] That you go through Tokra.
 [u0280 | 00:23:57.300-00:23:58.770 | DM] Sorry Darba Songara.
 [u0281 | 00:23:59.400-00:24:01.140 | Seeker] there's no city on that giant.
@@ -325,7 +325,7 @@
 [u0325 | 00:27:47.820-00:28:00.990 | DM] And you can hear those songs of the halflings, yes, but also the laughter of elves and all the humans and others that came after the nameless people who settled in the shadow of the great trees and were.
 [u0326 | 00:28:02.130-00:28:16.470 | DM] After the fall of the elven empire were assimilated into the Drankorian empire and the brilliance and then the darkness of Drankor at its height and its fall, there is some deeper darkness in your memories, that your mind shied away from.
 [u0327 | 00:28:17.640-00:28:29.190 | DM] And the stories of the halflings even trading with the survivors of the plague struggling to make a living in these hills and then being slaughtered by the conquering Dunmari and the gods.
-[u0328 | 00:28:32.100-00:28:46.290 | DM] To Kenzo touched by the gods, that is, the hand of Shakun and Bhishma and Laka that you feel is here across the land of your people, the web of connection to the {{Chicago and}} mystai still pulls at you the faint trickle of power flowing east.
+[u0328 | 00:28:32.100-00:28:46.290 | DM] To Kenzo touched by the gods, that is, the hand of Shakun and Bhishma and Laka that you feel is here across the land of your people, the web of connection to the Shakun mystai still pulls at you the faint trickle of power flowing east.
 [u0329 | 00:28:49.140-00:28:54.090 | DM] guiding and aiding, as you still even at this distance feel that.
 [u0330 | 00:28:55.290-00:29:06.990 | DM] The power of that web protecting the land, while Bhishma's hand seems to draw you forward urging you to look at the people in the land as one to hear the stories that connect them.
 [u0331 | 00:29:09.600-00:29:25.860 | DM] To the dwarves, it is the shape of the land that you can see before you the subtle rise to the West that hints of the Yuvanti Mountains in the distance still a few hundred miles away far too far away to see.
@@ -610,8 +610,8 @@
 [u0610 | 00:55:21.030-00:55:21.900 | DM] You never asked.
 [u0611 | 00:55:26.250-00:55:27.330 | Kenzo] And what's your name, sir.
 [u0612 | 00:55:30.180-00:55:30.600 | DM] Ah.
-[u0613 | 00:55:32.070-00:55:32.610 | DM] {{Mr}}.
-[u0614 | 00:55:33.600-00:55:38.940 | Kenzo] {{Omar}}, and perhaps later in the evening after things have quieted.
+[u0613 | 00:55:32.070-00:55:32.610 | DM] Amar.
+[u0614 | 00:55:33.600-00:55:38.940 | Kenzo] Amar, and perhaps later in the evening after things have quieted.
 [u0615 | 00:55:40.470-00:55:42.060 | Kenzo] i'm a monk of Bhishma.
 [u0616 | 00:55:43.680-00:55:45.060 | Kenzo] in search of stories.
 [u0617 | 00:55:46.140-00:55:53.160 | Kenzo] From the people of this land and perhaps we could spend a little time by the fire and learn a little bit about you and.
@@ -622,7 +622,7 @@
 [u0622 | 00:56:17.130-00:56:19.770 | DM] Two gold five silver for the rest of your companions.
 [u0623 | 00:56:22.800-00:56:24.240 | Kenzo] that's very that's very kind.
 [u0624 | 00:56:24.270-00:56:26.940 | DM] {{long speech mistake}} free in my establishment.
-[u0625 | 00:56:30.690-00:56:34.080 | Kenzo] Thank you, thank you, {{Mr}} We appreciate your generosity.
+[u0625 | 00:56:30.690-00:56:34.080 | Kenzo] Thank you, thank you, Amar We appreciate your generosity.
 [u0626 | 00:56:37.260-00:56:39.930 | Kenzo] I think the the stories of Dunmar.
 [u0627 | 00:56:43.230-00:56:49.980 | Kenzo] The storytellers of Dunmar for for a very long time, have been have been quiet and certainly amongst.
 [u0628 | 00:56:51.210-00:56:52.920 | Kenzo] My friends, here we do.
@@ -691,7 +691,7 @@
 [u0691 | 01:01:44.010-01:01:44.580 | DM] yeah just.
 [u0692 | 01:01:44.760-01:01:46.800 | Wellby] Just don't tell that story much.
 [u0693 | 01:01:52.680-01:01:54.420 | DM] Okay, so what are you doing in the inn.
-[u0694 | 01:01:55.500-01:01:57.990 | DM] Before you talk to {{Mr}} and hear anything.
+[u0694 | 01:01:55.500-01:01:57.990 | DM] Before you talk to Amar and hear anything.
 [u0695 | 01:02:00.450-01:02:00.570 | Delwath] I.
 [u0696 | 01:02:02.190-01:02:12.180 | Wellby] want to talk to the the mystai here and see if I can get more maps or detail about the road ahead i'm especially worried about like ambush points or.
 [u0697 | 01:02:13.500-01:02:19.200 | Wellby] Where might there be a place along the road that a dragon would make a lair caves or.
@@ -936,7 +936,7 @@
 [u0936 | 01:24:58.050-01:24:58.440 | Unknown] Okay.
 [u0937 | 01:24:59.550-01:24:59.730 | Unknown] yeah.
 [u0938 | 01:25:00.930-01:25:02.100 | Wellby] i'll sleep then head on.
-[u0939 | 01:25:03.210-01:25:06.660 | DM] Okay, so Kenzo speaks to {{our}}.
+[u0939 | 01:25:03.210-01:25:06.660 | DM] Okay, so Kenzo speaks to Amar.
 [u0940 | 01:25:06.870-01:25:07.680 | Unknown] Yes.
 [u0941 | 01:25:09.000-01:25:09.720 | DM] Okay, so.
 [u0942 | 01:25:09.750-01:25:11.340 | Kenzo] {{He wasn't a nice word peace}} and.
@@ -964,7 +964,7 @@
 [u0964 | 01:27:44.340-01:27:52.110 | DM] In the back of a wagon listening to a strange language which he later learned was Dwarvish.
 [u0965 | 01:27:54.840-01:27:57.960 | DM] and spent the next 10 years of his life.
 [u0966 | 01:28:01.380-01:28:02.040 | DM] Living.
-[u0967 | 01:28:03.180-01:28:05.310 | DM] Among the dwarves of {{escondido}}.
+[u0967 | 01:28:03.180-01:28:05.310 | DM] Among the dwarves of Askandi.
 [u0968 | 01:28:06.480-01:28:10.410 | DM] Had having been rescued by a dwarven trader.
 [u0969 | 01:28:13.380-01:28:23.520 | DM] caravan of dwarven traders moving traveling from Tokra to {{turn Turner}} who fished him out of the River convinced, he was dead, but treated him the best they could.
 [u0970 | 01:28:25.680-01:28:27.210 | DM] During that time he.
@@ -973,7 +973,7 @@
 [u0973 | 01:28:39.390-01:28:41.730 | DM] What maybe, six, seven years ago.
 [u0974 | 01:28:44.100-01:28:47.880 | DM] He decided to go back and and find his father.
 [u0975 | 01:28:50.250-01:28:54.330 | DM] And just tried to make amends for his life.
-[u0976 | 01:28:56.340-01:29:04.380 | DM] And you know wasn't that hard he he had been staying away he stayed in {{this Gandhi}}, because he didn't really want to reconcile with his family.
+[u0976 | 01:28:56.340-01:29:04.380 | DM] And you know wasn't that hard he he had been staying away he stayed in Askandi, because he didn't really want to reconcile with his family.
 [u0977 | 01:29:05.550-01:29:07.920 | DM] He discovered that his family had.
 [u0978 | 01:29:09.780-01:29:10.800 | DM] built this inn.
 [u0979 | 01:29:12.750-01:29:13.590 | DM] And was now.
@@ -1366,7 +1366,7 @@
 [u1366 | 02:00:01.410-02:00:03.420 | DM] Well, who knows what might creep out of them.
 [u1367 | 02:00:05.250-02:00:05.580 | DM] And the.
 [u1368 | 02:00:07.950-02:00:10.470 | DM] caves go too far back and too deep.
-[u1369 | 02:00:13.920-02:00:16.890 | DM] town called was once called {{Bandar let}}.
+[u1369 | 02:00:13.920-02:00:16.890 | DM] town called was once called Vandar.
 [u1370 | 02:00:19.710-02:00:22.800 | DM] All that that's left to the West and it's.
 [u1371 | 02:00:23.850-02:00:24.630 | DM] too risky.
 [u1372 | 02:00:28.200-02:00:31.170 | Delwath] yeah not for us we're hunting dragons there anyway.
@@ -1603,10 +1603,10 @@
 [u1603 | 02:17:43.650-02:17:44.280 | Kenzo] In Tokra.
 [u1604 | 02:17:46.470-02:17:47.580 | Kenzo] Because that other guy like.
 [u1605 | 02:17:48.030-02:17:49.140 | DM] home and actually I am.
-[u1606 | 02:17:49.620-02:17:51.600 | Kenzo] curious yeah {{Curie}} and the innkeeper.
+[u1606 | 02:17:49.620-02:17:51.600 | Kenzo] curious yeah Kirian and the innkeeper.
 [u1607 | 02:17:52.830-02:17:53.910 | Delwath] Here you know what's anything.
 [u1608 | 02:17:54.480-02:18:05.790 | Kenzo] Well he's fucking he loves us, and he loves that uh the mission, but like like this area like if, like again it's like pretty cool everybody's very into like the they have they all have this nostalgia for Bhishma and, like the storytelling.
-[u1609 | 02:18:06.420-02:18:14.520 | Kenzo] So I think if, like, I sent him to go talk to {{curious}}, who also shared the story of Bhishma it's like a little you know it's like a little like pay it forward type of thing.
+[u1609 | 02:18:06.420-02:18:14.520 | Kenzo] So I think if, like, I sent him to go talk to Kirian, who also shared the story of Bhishma it's like a little you know it's like a little like pay it forward type of thing.
 [u1610 | 02:18:18.390-02:18:21.300 | Wellby] We could hire them to come kill the dragon with us.
 [u1611 | 02:18:21.750-02:18:25.350 | Seeker] Ooh, now you're talking.
 [u1612 | 02:18:26.070-02:18:33.600 | Wellby] Probably that caravan that passed through a couple days ago they're all dead in their stuff is either in the lair or scattered across the road.
@@ -1639,7 +1639,7 @@
 [u1639 | 02:20:05.790-02:20:07.320 | Kenzo] The innkeeper at the.
 [u1640 | 02:20:09.720-02:20:11.100 | Kenzo] it's the innkeeper {{which cured}} in their.
 [u1641 | 02:20:11.100-02:20:11.520 | Unknown] hands.
-[u1642 | 02:20:12.780-02:20:13.440 | Kenzo] {{curious}}.
+[u1642 | 02:20:12.780-02:20:13.440 | Kenzo] Kirian.
 [u1643 | 02:20:14.070-02:20:14.280 | Unknown] yeah.
 [u1644 | 02:20:16.920-02:20:19.470 | Kenzo] The innkeeper {{securian}} on the innkeeper.
 [u1645 | 02:20:20.850-02:20:31.860 | Kenzo] He would be he might be able to offer you some honest work and is a good man and also is attuned to Bhishma's stories, but perhaps we can offer you.
@@ -1887,7 +1887,7 @@
 [u1887 | 02:41:26.070-02:41:26.460 | Seeker] Do.
 [u1888 | 02:41:26.670-02:41:31.530 | Seeker] We find a collector in Chardon who has like a basement you know cage area.
 [u1889 | 02:41:32.070-02:41:37.500 | Kenzo] mean us dragon collectors absolute become evil and prison, you know where animals and ski.
-[u1890 | 02:41:37.530-02:41:43.620 | Delwath] Trade up to the full-grown dragon ride into battle when we are sacking {{check}}.
+[u1890 | 02:41:37.530-02:41:43.620 | Delwath] Trade up to the full-grown dragon ride into battle when we are sacking Chardon.
 [u1891 | 02:41:45.000-02:41:47.250 | Seeker] See, this is why, like you Delwath.
 [u1892 | 02:41:51.030-02:41:53.790 | Kenzo] I mean what good is a scepter of power if you're not.
 [u1893 | 02:41:53.850-02:41:57.540 | Kenzo] Riding a flying fucking dragon like you know as you sack the city.
@@ -1985,7 +1985,7 @@
 [u1985 | 02:47:55.170-02:48:02.400 | DM] Never resettled, most of the mines were tapped out and never resettled after all the upheavals of the great war.
 [u1986 | 02:48:03.900-02:48:11.850 | DM] Most of the villages are sort of gone now and actually you learn their their camp, the bandit camp is is in like a.
 [u1987 | 02:48:13.380-02:48:24.510 | DM] abandoned mine on the Far Eastern edge of these that's mostly collapsed, so the there's like you can't go very deep into it right there's just a few sort of shallow tunnels that they use for storage.
-[u1988 | 02:48:25.860-02:48:36.930 | DM] But the most intact, of the ruined towns are the only one that still is even partially intact um Is this what was once the sort of walled town called {{Bandar}}.
+[u1988 | 02:48:25.860-02:48:36.930 | DM] But the most intact, of the ruined towns are the only one that still is even partially intact um Is this what was once the sort of walled town called Vandar.
 [u1989 | 02:48:39.120-02:48:45.870 | DM] And the reason why everybody is like sort of skeptical of this well one is because it's you know.
 [u1990 | 02:48:46.170-02:48:54.090 | DM] You can see, off in the distance the haunted tower from it so like this stretch of the road that you're going to approach is the one everybody travels quickly through because.
 [u1991 | 02:48:54.660-02:49:10.350 | DM] it's watched over by this haunted tower, which has been looted according to rumor like 10 times but everybody who loots it goes mad and eventually returns to the Tower puts back the treasure and never leaves again.
@@ -1995,11 +1995,11 @@
 [u1995 | 02:49:22.710-02:49:24.180 | Kenzo] This is a perfect dragon's lair.
 [u1996 | 02:49:24.840-02:49:33.810 | DM] So, so the haunted tower like spooks everybody yeah right and it sort of you can see it from quite a distance, because it's On top of this prominence, right.
 [u1997 | 02:49:35.100-02:49:36.390 | DM] South of the road.
-[u1998 | 02:49:38.010-02:49:50.700 | DM] there's this town of {{Bandar}} where there is these flooded mines right that go deep into the hills and like who knows what might come up out of those mines.
+[u1998 | 02:49:38.010-02:49:50.700 | DM] there's this town of Vandar where there is these flooded mines right that go deep into the hills and like who knows what might come up out of those mines.
 [u1999 | 02:49:52.710-02:49:59.670 | DM] there's like large you know there's like a whole cave system back there and stuff so that's so people get nervous about that, like.
 [u2000 | 02:50:00.900-02:50:05.730 | DM] it's within sight of the haunted tower it's like this sort of spooky caves like.
 [u2001 | 02:50:08.220-02:50:19.890 | DM] Who knows what could be living there, and as soon as people started telling stories of dragons the first what everybody first thought is, it must be it must have made its lair in some in like the.
-[u2002 | 02:50:20.310-02:50:23.040 | DM] ruined Castle at {{van}} or something like that.
+[u2002 | 02:50:20.310-02:50:23.040 | DM] ruined Castle at Vandar or something like that.
 [u2003 | 02:50:27.240-02:50:30.450 | DM] Which is about 10 miles south or.
 [u2004 | 02:50:32.280-02:50:34.740 | DM] Maybe 10 to 12 miles south of the road.
 [u2005 | 02:50:35.970-02:50:40.980 | DM] There's a trail that leads up into the hills, that you can follow to this one place.
@@ -3247,10 +3247,10 @@
 [u3247 | 04:19:50.070-04:19:52.620 | Kenzo] Chardonian assholes so of course they're like you know.
 [u3248 | 04:19:53.280-04:19:58.620 | Wellby] I think we are projecting a lot on to them that maybe are attributes of ourselves.
 [u3249 | 04:19:59.640-04:20:00.840 | Delwath] No, they really did.
-[u3250 | 04:20:00.840-04:20:02.250 | Delwath] steal stuff from the {{deadline}}.
+[u3250 | 04:20:00.840-04:20:02.250 | Delwath] steal stuff from the Dunmari.
 [u3251 | 04:20:03.270-04:20:03.630 | Delwath] Remember.
-[u3252 | 04:20:04.530-04:20:05.670 | Delwath] The fight with {{how they're}}.
-[u3253 | 04:20:06.450-04:20:17.790 | Wellby] Steal, steal from the Dunmari? they found stuff abandoned in the desert to the east and when {{hubs are}} saw that it was originally Dunmari he claimed we didn't show him this stuff we took from those same forts.
+[u3252 | 04:20:04.530-04:20:05.670 | Delwath] The fight with Havdar.
+[u3253 | 04:20:06.450-04:20:17.790 | Wellby] Steal, steal from the Dunmari? they found stuff abandoned in the desert to the east and when Havdar saw that it was originally Dunmari he claimed we didn't show him this stuff we took from those same forts.
 [u3254 | 04:20:18.270-04:20:22.110 | Delwath] We get we gave it to him, we gave them a super valuable sword from the Dunmari.
 [u3255 | 04:20:23.040-04:20:24.570 | Wellby] So that makes everything else okay.
 [u3256 | 04:20:24.840-04:20:27.930 | Kenzo] Well, we also we also like freed that the fucking.
@@ -3369,7 +3369,7 @@
 [u3369 | 04:29:04.380-04:29:06.210 | Wellby] You know, Wellby will say to them right.
 [u3370 | 04:29:09.450-04:29:13.890 | Wellby] Well, these are powerful and delightful discoveries that you offer us in trade.
 [u3371 | 04:29:16.320-04:29:25.110 | Wellby] And while we're not averse in principle to trading what we may or may not have discovered of Drankorian origin, I think what we really want.
-[u3372 | 04:29:26.340-04:29:30.180 | Wellby] came from the party who traveled north to {{you don't miss this}} Tower not from you.
+[u3372 | 04:29:26.340-04:29:30.180 | Wellby] came from the party who traveled north to Eudomes's Tower not from you.
 [u3373 | 04:29:32.370-04:29:37.410 | Wellby] And perhaps when we get back to Chardon we could seek them out to make a trade there.
 [u3374 | 04:29:39.600-04:29:44.520 | DM] sort of looks back at the the two that haven't spoken that.
 [u3375 | 04:29:47.370-04:30:04.080 | DM] The cloaked guy and the sort of unarmored halberd wielding one and then looks back at you, and what do you have of Drankor that may be worthy of a trade.
@@ -3387,7 +3387,7 @@
 [u3387 | 04:31:01.650-04:31:06.240 | Kenzo] Look, just like step in front of all the, with all due respect.
 [u3388 | 04:31:07.410-04:31:16.770 | Kenzo] we're very tired we've just killed had a pretty epic battle over here, I understand you're busy, I understand that you're very interested in items.
 [u3389 | 04:31:17.460-04:31:27.150 | Kenzo] We do have items, whether they're Drankorian origin, whether they're not Drankorian origin very interesting historical questions you're posing but.
-[u3390 | 04:31:28.170-04:31:35.580 | Kenzo] As my comrade Wellby just stated, the items that we're most interested in are from {{you don't miss this}} Tower the things that you listed.
+[u3390 | 04:31:28.170-04:31:35.580 | Kenzo] As my comrade Wellby just stated, the items that we're most interested in are from Eudomes's Tower the things that you listed.
 [u3391 | 04:31:36.090-04:31:44.370 | Kenzo] that's great but we're in a very different bargaining position where we actually don't have really any interest in any of the things that you have so for us.
 [u3392 | 04:31:45.600-04:31:53.100 | Kenzo] there's not really much else to say here unless you can offer us something that came from that tower which, if you have something here wonderful.
 [u3393 | 04:31:53.520-04:32:00.300 | Kenzo] Otherwise, perhaps we consider reconvening this conversation at a later point in Chardon when you actually have items that we care about.
@@ -3496,7 +3496,7 @@
 [u3496 | 04:40:39.960-04:40:43.380 | Kenzo] And in true honesty and in true.
 [u3497 | 04:40:45.990-04:40:46.800 | Kenzo] The true.
 [u3498 | 04:40:48.780-04:40:52.050 | Kenzo] authenticity sincerity sincerity that's the word.
-[u3499 | 04:40:54.000-04:40:59.670 | Kenzo] If you do have items from {{you don't this is}} tower we'll be very interested in discussing a trade at that point.
+[u3499 | 04:40:54.000-04:40:59.670 | Kenzo] If you do have items from Eudomes's tower we'll be very interested in discussing a trade at that point.
 [u3500 | 04:41:01.080-04:41:01.230 | Riswynn] They.
 [u3501 | 04:41:01.860-04:41:02.610 | Wellby] were another first.
 [u3502 | 04:41:02.670-04:41:15.510 | Riswynn] meeting for the chalice of the rune priests, which we hear the great library may have found in your travels and I will be meeting with delegates in Darba to empower me to come bargain at the great library in Chardon.
@@ -3600,7 +3600,7 @@
 [u3600 | 04:46:36.000-04:46:37.530 | DM] You wouldn't necessarily tell them.
 [u3601 | 04:46:39.990-04:46:40.590 | DM] yeah you.
 [u3602 | 04:46:40.650-04:46:42.900 | DM] You don't have to tell them everything right.
-[u3603 | 04:46:43.320-04:46:45.030 | Wellby] We told {{Chris What}} about the Scepter of command.
+[u3603 | 04:46:43.320-04:46:45.030 | Wellby] We told Riswynn about the Scepter of command.
 [u3604 | 04:46:46.200-04:46:46.500 | Delwath] No.
 [u3605 | 04:46:46.950-04:46:47.790 | Wellby] I don't think we did.
 [u3606 | 04:46:48.960-04:46:50.460 | Wellby] Good question {{deployment}} would have.

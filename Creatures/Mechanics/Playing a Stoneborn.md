@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [meta, status/check/mike, status/check/lint]
+tags: [meta]
 name: Playing a Stoneborn
 dm_owner: joint
 dm_notes: none
@@ -12,11 +12,9 @@ POV: modern
 *See more: [[Stoneborn]], [[Sentinel Range|Indalas]]*
 D&D Beyond Link: 
 
-%% lore, mechanics if you have comments %%
-
 [[Stoneborn]] are a reclusive species, tending to live in isolated, close-knit communities in extreme environments, especially high in the mountains. Often settling in inhospitable environments, rumors say that stoneborn rely on the hidden magic of [[Entamba]], their creator god, to thrive in places others would starve. Though few outsiders have seen their communal villages, Stoneborn are sometimes encountered in the settlements of humans, dwarves, and other species of Taelgar. These travelers are often master artisans, deeply skilled in their trades, and it is often said that individual stoneborn spend decades, or even a century, honing their craft. 
 
-Stoneborn appear to be humanoids shaped of stone, and have appearances as diverse as the varied colors and textures of stone in the world. This appearance has led outsiders to speculate that they are literally born from the stone of their mountain home; whether this rumor is true, the stoneborn do not say. 
+Stoneborn appear to be humanoids shaped of stone, and have appearances as diverse as the varied colors and textures of stone in the world. Stoneborn are born from stone and gradually return to it as they age. 
 
 ---
 ## Creating Your Stoneborn Character
@@ -31,19 +29,25 @@ A common story, if engaging with the lore of the stoneborn does not interest you
 
 Stoneborn in Taelgar typically have a single given name; in stoneborn society names are not gendered. Some stoneborn may also use the name of their community as a signifier, especially when traveling outside their homeland. 
 
-For some stoneborn, their training and discipline are as much a part of their identity as their family and community; these stoneborn may take a use name reflecting their skill. For example, a skilled stonemason may take the use name Stonebreaker or Stonecarver; a skilled warrior may take the use name Quickblade or Strongaxe; or a skilled teacher may take the use name Loremaster or Mindshaper. These use names are often used in place of a community name, and sometimes used in place of a birth name. 
+For some stoneborn, their training and discipline are as much a part of their identity as their family and community; these stoneborn may take a use name reflecting their skill. For example, a skilled stonemason may take the use name Stonebreaker or Stonecarver; a skilled warrior may take the use name Quickblade or Strongaxe; or a skilled teacher may take the use name Loremaster or Mindshaper. These use names are often used in place of a community name, and sometimes used in place of a birth name. A use name may also reflect the lineage of the master a stoneborn trained under. For example, a student of Maumak Ironforger might take the name Maumakandi or Maumakundi (student of Maumak), or adopt their master’s use name, Ironforger. Stoneborn often translate their use names into trade tongues when introducing themselves, though some prefer to use the Stoneborn form.
+
+Stoneborn names draw inspiration from Xhosa, while descriptive use names are often represented in English. These are starting points for inspiration rather than strict rules for every stoneborn name.
 
 To choose the name for your stoneborn character, you might consider one of the birth names below, or invent your own, which might not follow typical stoneborn conventions. You might also choose to invent a use name and/or a community name for your character. 
 
 **Birth Names:** Arvid, Aglath, Anathi, Bomika, Cebo, Dumoth, Elethu, Ivak, Kamva, Lumiko, Luvoth, Malimi, Maumak, Masandith, Nandi, Onako, Saliza, Songath, Sumeyad, Thandeka, Themba, Unathid, Yandisa, Zola
 
+**Community Names:** Anakalambo, Elanithino, Kalawa, Ogolakanu, Starkast, Thunakalathi, Yanmeigala
+
+**Use Names:** Ironforger, Stonebreaker, Stonecarver, Quickblade, Strongaxe, Mindshaper, Loremaster, Farseer, Longstrider, Bloodbasher, Fistmaster, Steelbender, Quartzminer, Heartsinger.
+
 ---
 ## Basic Traits
 
 **Creature Type**: Humanoid
-**Size**: Stoneborn are between 7 and 8 feet tall and weigh between 280 and 450 pounds. Your size is Medium.
+**Size**: Stoneborn are between 6 and 8 feet tall and weigh between 300 and 500 pounds. Your size is Medium.
 **Speed**: 30 feet
-**Age**: Stoneborn age much more slowly than humans, reaching maturity around 25, but not reaching old age until 200 or later. Stoneborn metabolism slows as they age, and the eldest stoneborn seem as if they are statues, rarely moving or speaking. 
+**Age**: Stoneborn reach physical maturity in their late 20s and usually settle into fully adult roles in their 30s. From around 150, many gradually withdraw from daily responsibilities while remaining valued advisors. Their metabolism and need for food diminish as their periods of stillness lengthen; an elder of 250 might bestir themselves only once a week. Some remain active much longer through dedication to a particular task or purpose, but most gradually return to stone.
 **Languages**: You may select four [[Languages]] during character creation, which likely include Common and Stoneborn. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
 
 ## Stoneborn Traits
@@ -80,20 +84,4 @@ As a Stoneborn, you are connected to [[Entamba]], the soul of the mountain. Choo
 
 %%^povNotes:v1%%
 Temporal coverage: broadly modern; character-creation guidance and species mechanics for the current campaign era, with no narrower in-world date assumed.
-%%^End%%
-
-%%^Lint%%
-## Taelgar note lint
-
-### Applied changes
-- Added the explicit page name and broadly modern POV with temporal coverage notes.
-- Corrected “an ethos communal” to “an ethos of communal” and “if you engaging” to “if engaging.”
-
-### Validated judgments
-- This mechanics page already uses the character-creation, names, basic-traits, and species-traits structure of [[Playing a Halfling]]; the species-article headings in [[Halflings]] do not apply.
-- The hidden design notes concern trait balance and remain separate from public lore.
-
-### Open findings
-
-- [ ] **Warning — correctness.cross_note_conflict:** `Basic Traits` gives a usual weight of 280–450 pounds, while [[Stoneborn#Mountain folk|Stoneborn]] gives 400–500 pounds. This page makes community and use names optional, while [[Stoneborn#Stoneborn Names|the reference article]] says every Stoneborn has a clan name and most take a use name. Neither note resolves which version governs. Choose a common weight range and whether community/use names are customary or optional, then reconcile both notes. If this mechanics account is adopted, the reference weight becomes `weighing between 280 and 450 pounds`, and its names opening can become: `Stoneborn typically have a single given name. Some also use the name of their community, especially when traveling outside their homeland, and some take a use name reflecting their skill or training. Names are not gendered in Stoneborn society.` Preserve or separately decide the remaining apprenticeship-lineage customs rather than losing them during reconciliation.
 %%^End%%

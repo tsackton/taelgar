@@ -461,7 +461,7 @@
 [u0461 | 00:42:50.810-00:43:04.970 | DM] almost 40 50 miles overland through the night and into the day, and have now taken a short rest and and had a meal and are willing to help in any way.
 [u0462 | 00:43:05.820-00:43:07.900 | Seeker] Let's try to heal them a little bit. I think
 [u0463 | 00:43:10.960-00:43:13.070 | DM] so. They are
-[u0464 | 00:43:17.000-00:43:21.020 | DM] {{drugmar}} and {{choreograph}}.
+[u0464 | 00:43:17.000-00:43:21.020 | DM] Drogmar and Ghorgra.
 [u0465 | 00:43:25.260-00:43:30.569 | DM] so we can put one. And now we have an ultimate fully block each from
 [u0466 | 00:43:31.210-00:43:32.430 | Delwath] 3 by 3.
 [u0467 | 00:43:38.720-00:43:43.109 | Seeker] I'll do a a healing word on whichever one of them seems worse off
@@ -805,7 +805,7 @@
 [u0805 | 01:12:30.710-01:12:32.899 | Wellby] Oh, the ladder takes damage right?
 [u0806 | 01:12:33.170-01:12:41.719 | Seeker] Yeah, that's one of us the other orc warrior is just again going to hold an action. Just the ladder of saying with.
 [u0807 | 01:12:42.000-01:12:42.770 | Seeker] Yeah.
-[u0808 | 01:12:43.030-01:12:47.900 | DM] Yeah, it's a construct. Basically. Same with {{choreograph}}.
+[u0808 | 01:12:43.030-01:12:47.900 | DM] Yeah, it's a construct. Basically. Same with Ghorgra.
 [u0809 | 01:12:50.010-01:12:51.150 | DM] Kenzo.
 [u0810 | 01:12:51.390-01:12:57.970 | Kenzo] Also just holding an action, or you've got something to do. I can shoot an acid arrow exactly 90 feet.
 [u0811 | 01:12:58.810-01:13:08.150 | DM] but you've got to be able to see while it's that square I can pop you. You could step diagonally out into that.
@@ -1070,7 +1070,7 @@
 [u1070 | 01:35:03.590-01:35:08.040 | DM] focused relatively low charisma and strength.
 [u1071 | 01:35:08.380-01:35:09.769 | Kenzo] Okay, great thanks.
 [u1072 | 01:35:10.830-01:35:17.469 | Kenzo] Oh, we haven't. I haven't. Sorry. Sorry. Okay, well, I'll be Antonius next time for it.
-[u1073 | 01:35:17.820-01:35:23.919 | DM] {{Avalina}} fails her saving throw. He's definitely yeah saving to
+[u1073 | 01:35:17.820-01:35:23.919 | DM] Evelina fails her saving throw. He's definitely yeah saving to
 [u1074 | 01:35:24.120-01:35:25.290 | DM] this sorcerer.
 [u1075 | 01:35:25.330-01:35:29.730 | Kenzo] Just so. She died. No, no, she's at one failure. Okay?
 [u1076 | 01:35:31.670-01:35:40.119 | Delwath] You moved the Sickening Radiance a little bit, somebody.
@@ -1260,7 +1260,7 @@
 [u1260 | 01:50:26.690-01:50:27.510 | Delwath] Okay.
 [u1261 | 01:50:28.110-01:50:34.270 | DM] Who's Currently like standing at the ready sword and shield out.
 [u1262 | 01:50:34.550-01:50:37.219 | DM] Waiting for something.
-[u1263 | 01:50:38.490-01:50:48.550 | DM] {{Drug Mars}} still waiting. Nothing he can do. The demonic creature flying in the air.
+[u1263 | 01:50:38.490-01:50:48.550 | DM] Drogmar still waiting. Nothing he can do. The demonic creature flying in the air.
 [u1264 | 01:50:48.700-01:50:51.170 | Seeker] It's flying covers
 [u1265 | 01:50:51.970-01:50:58.039 | DM] and up up above bargain system. flapping its wings.
 [u1266 | 01:50:58.790-01:51:06.729 | Kenzo] and I'll wait to Delwath the moving is fucking, moving that Sickening Radiance, I mean. Is that a good idea? Yes, now that everybody's in that room.
@@ -1291,11 +1291,11 @@
 [u1291 | 01:53:04.410-01:53:06.080 | Kenzo] And then I pop back down to the railway.
 [u1292 | 01:53:07.830-01:53:11.699 | Delwath] See? I really think, Wellby, if you go hide and we just wait
 [u1293 | 01:53:11.880-01:53:29.359 | Delwath] and just pop out and shoot and pop in and pop out and shoot. What are they going to do? Finally, they're going to wait to move out of our line of sight, heal themselves back up to full and re-up their buffs before coming after us. Yeah, that'll burn all their spells. So what they're besieging is what we would do, I mean.
-[u1294 | 01:53:29.510-01:53:34.680 | DM] {{Avalina}} is going to make another death, saving throw where do we?
+[u1294 | 01:53:29.510-01:53:34.680 | DM] Evelina is going to make another death, saving throw where do we?
 [u1295 | 01:53:34.880-01:53:36.870 | Delwath] What we're not? But if but
 [u1296 | 01:53:37.150-01:53:41.630 | Delwath] if they free up all their buffs and do it, we're not losing anything
 [u1297 | 01:53:42.000-01:53:44.199 | DM] succeeds on their second one.
-[u1298 | 01:53:46.960-01:53:49.720 | DM] as {{avalina}}
+[u1298 | 01:53:46.960-01:53:49.720 | DM] as Evelina
 [u1299 | 01:53:50.240-01:53:53.060 | DM] that. why is dying.
 [u1300 | 01:53:53.280-01:54:00.140 | DM] Let's see, where is Wellby right now, far away.
 [u1301 | 01:54:00.260-01:54:01.850 | DM] Okay.
@@ -1587,7 +1587,7 @@
 [u1587 | 02:19:34.370-02:19:36.989 | Delwath] How much damage was that?
 [u1588 | 02:19:37.420-02:19:40.879 | DM] 7 and 8, 7 and 8 to 15.
 [u1589 | 02:19:43.709-02:19:44.840 | Delwath] okay.
-[u1590 | 02:19:45.290-02:19:50.089 | DM] {{Drugmart}} is going to move out of the room. 1, 2, 3
+[u1590 | 02:19:45.290-02:19:50.089 | DM] Drogmar is going to move out of the room. 1, 2, 3
 [u1591 | 02:19:51.060-02:20:00.900 | DM] 4, 5, right there, so she can attack Casian without without being in the web.
 [u1592 | 02:20:02.180-02:20:06.179 | DM] and as she does that she swings towards Casian, Vargas looks up
 [u1593 | 02:20:06.380-02:20:15.219 | DM] and he is gonna use as a reaction to intercept the attack, the guy right in front of you. You can take an opportunity to attack. If you want to use your reaction.
@@ -1598,7 +1598,7 @@
 [u1598 | 02:20:31.590-02:20:33.489 | DM] This is plate armor. Guy.
 [u1599 | 02:20:33.900-02:20:40.100 | DM] First attack with the spear is going to hit
 [u1600 | 02:20:40.800-02:20:43.409 | DM] doing 12 points of damage. Yeah.
-[u1601 | 02:20:43.570-02:20:58.799 | DM] to Casian, second attack is going to hit doing 14 so 26 points of damage total. And that's going to end {{Drugmar}}’s turn.
+[u1601 | 02:20:43.570-02:20:58.799 | DM] to Casian, second attack is going to hit doing 14 so 26 points of damage total. And that's going to end Drogmar’s turn.
 [u1602 | 02:21:03.030-02:21:04.420 | Kenzo] okay.
 [u1603 | 02:21:06.070-02:21:09.030 | DM] The
 [u1604 | 02:21:10.630-02:21:11.990 | DM] Kenzo’s turn!
@@ -1618,7 +1618,7 @@
 [u1618 | 02:21:56.300-02:21:59.380 | DM] And is going to then.
 [u1619 | 02:22:00.490-02:22:01.580 | DM] attack
 [u1620 | 02:22:01.740-02:22:03.800 | Delwath] now, man, these orcs are getting squished.
-[u1621 | 02:22:04.680-02:22:06.480 | DM] Attack, {{drug mar}}.
+[u1621 | 02:22:04.680-02:22:06.480 | DM] Attack, Drogmar.
 [u1622 | 02:22:06.530-02:22:09.430 | Kenzo] But it's all right. and that's kind of what that's very.
 [u1623 | 02:22:09.510-02:22:13.319 | Kenzo] It's messed up as a they're kind of hit point
 [u1624 | 02:22:13.340-02:22:23.699 | Delwath] But also we're now not in great position, because we definitely don't want every one of us to be fighting a different person. Right? We really gotta focus our fire
@@ -1770,7 +1770,7 @@
 [u1770 | 02:34:30.980-02:34:32.370 | DM] which is going to hit
 [u1771 | 02:34:35.110-02:34:36.150 | DM] at.
 [u1772 | 02:34:37.220-02:34:41.040 | Kenzo] It's gonna suck if they get the cloak because of this that that'll be very annoying.
-[u1773 | 02:34:41.490-02:34:53.280 | DM] sorry not Murook. {{Garga}}. Now Murook is restrained, so she has disadvantage, but she already a disadvantage, and she will attack Kadmos.
+[u1773 | 02:34:41.490-02:34:53.280 | DM] sorry not Murook. Ghorgra. Now Murook is restrained, so she has disadvantage, but she already a disadvantage, and she will attack Kadmos.
 [u1774 | 02:34:54.850-02:34:56.500 | DM] a
 [u1775 | 02:34:58.520-02:35:00.379 | DM] so made by the slack.
 [u1776 | 02:35:00.840-02:35:04.090 | DM] The first attack misses
@@ -1873,7 +1873,7 @@
 [u1873 | 02:43:03.680-02:43:07.339 | DM] Valius is going to
 [u1874 | 02:43:08.890-02:43:10.030 | DM] Retreat
 [u1875 | 02:43:12.880-02:43:15.520 | DM] slowed, so he moves almost nowhere.
-[u1876 | 02:43:15.680-02:43:28.180 | DM] There's really nobody. He can get a shot at {{Drugmar}}, so he's going to take a shot at {{Drugmar}}. but that misses.
+[u1876 | 02:43:15.680-02:43:28.180 | DM] There's really nobody. He can get a shot at Drogmar, so he's going to take a shot at Drogmar. but that misses.
 [u1877 | 02:43:28.940-02:43:36.520 | DM] and he is going to attempt to save against the slow which finally succeeds. So he is no longer slowed.
 [u1878 | 02:43:37.080-02:43:44.139 | DM] And that ends his turn.
 [u1879 | 02:43:45.220-02:43:51.540 | DM] As he is moving backwards.
@@ -2000,10 +2000,10 @@
 [u2000 | 02:55:21.390-02:55:28.699 | DM] Okay. Vargas's turn. he is going to just attack the Orcs.
 [u2001 | 02:55:35.050-02:55:38.570 | DM] 24 on Murook
 [u2002 | 02:55:39.100-02:55:43.090 | DM] and crit on Murook. All right.
-[u2003 | 02:55:43.980-02:55:51.460 | DM] Oh, no, sorry. Not on Murook, or whoever this is. {{Drummer}}. so that's
+[u2003 | 02:55:43.980-02:55:51.460 | DM] Oh, no, sorry. Not on Murook, or whoever this is. Drogmar. so that's
 [u2004 | 02:55:53.230-02:55:56.650 | DM] I mean, these are pretty beefy Orcs. You wanted fighters.
 [u2005 | 02:55:56.870-02:56:07.020 | DM] not looking terribly badly wounded quite at the moment. our plan is working well. We needed some hit point sponges, and that's what we got. Yeah.
-[u2006 | 02:56:07.740-02:56:10.639 | DM] {{drug. Mar}} will return the favor.
+[u2006 | 02:56:07.740-02:56:10.639 | DM] Drogmar will return the favor.
 [u2007 | 02:56:10.820-02:56:12.949 | Delwath] Oh, Casian, Casian, Casian
 [u2008 | 02:56:13.430-02:56:14.599 | Seeker] he has yet.
 [u2009 | 02:56:15.710-02:56:17.060 | Kenzo] That's that Casian.
@@ -2207,7 +2207,7 @@
 [u2207 | 03:12:36.630-03:12:42.390 | Wellby] That yeah, the fiend is badly wounded. Your perception check is the action. Yeah, okay.
 [u2208 | 03:12:44.230-03:12:47.939 | Kenzo] maybe kill the fiend so you can like, get past and
 [u2209 | 03:12:48.430-03:12:55.590 | Wellby] no checking the room was my action. That's that's a good. I'll come back out again. Okay.
-[u2210 | 03:12:55.800-03:13:04.810 | DM] {{Evelina}} is now dead dead dead. Lubash fails a death saving throw. So he is now on 2 failed deaths.
+[u2210 | 03:12:55.800-03:13:04.810 | DM] Evelina is now dead dead dead. Lubash fails a death saving throw. So he is now on 2 failed deaths.
 [u2211 | 03:13:14.020-03:13:15.390 | DM] And then
 [u2212 | 03:13:16.920-03:13:24.540 | DM] Let's see, can any of you see this
 [u2213 | 03:13:26.310-03:13:29.620 | DM] Kadmos appears?
@@ -2323,7 +2323,7 @@
 [u2323 | 03:22:48.580-03:22:50.979 | DM] heroic ladder and Seeker’s turn
 [u2324 | 03:22:51.310-03:22:52.760 | Seeker] all right, so
 [u2325 | 03:22:54.410-03:22:55.260 | Seeker] that
-[u2326 | 03:22:55.480-03:23:17.260 | Seeker] I, if I want to like, walk to the doorway, cast the spell, and also bonus action, healing word. Can I do all of those things? You can't cast 2 leveled spells in one turn. I see that, but I gave it. But but {{Drug Mars}} got a healing potion. So so the the king is okay. The king is okay, all right. So I will step
+[u2326 | 03:22:55.480-03:23:17.260 | Seeker] I, if I want to like, walk to the doorway, cast the spell, and also bonus action, healing word. Can I do all of those things? You can't cast 2 leveled spells in one turn. I see that, but I gave it. But but Drogmar got a healing potion. So so the the king is okay. The king is okay, all right. So I will step
 [u2327 | 03:23:17.330-03:23:23.250 | Seeker] temporarily to the door and cast some and say.
 [u2328 | 03:23:23.640-03:23:27.180 | Kenzo] Oh, nice! What does this happen and concentration on
 [u2329 | 03:23:27.500-03:23:46.459 | Kenzo] on a yeah dance. No, I don't know. Don't don't end. Concentration is resistance. Yeah, we need them to keep having to be fat. Don't do something that ends concentration. Wait, though. Wait the way the the hold on! Hold on! Let's just think for a second. Here, mission right now is get the fucking cloak away from those motherfuckers up at the top
@@ -2356,7 +2356,7 @@
 [u2356 | 03:26:41.940-03:26:44.729 | DM] and then another 10 points of slashing damage.
 [u2357 | 03:26:44.850-03:26:46.329 | Seeker] All right. So how do I?
 [u2358 | 03:26:49.130-03:26:50.960 | Seeker] The thing
-[u2359 | 03:26:51.930-03:27:02.400 | DM] {{jog Mar}} will attack. I'm gonna just leave these guys be over here. The vrock is. Gonna probably my.
+[u2359 | 03:26:51.930-03:27:02.400 | DM] Drogmar will attack. I'm gonna just leave these guys be over here. The vrock is. Gonna probably my.
 [u2360 | 03:27:02.960-03:27:05.439 | DM] unless it was while I was saved.
 [u2361 | 03:27:07.140-03:27:10.139 | DM] Wow! Up, Nope, 24. It succeeds
 [u2362 | 03:27:11.770-03:27:13.340 | DM] so it will attack
@@ -2444,7 +2444,7 @@
 [u2444 | 03:33:44.080-03:33:51.939 | Delwath] Okay, 28 damage. Yeah. He's getting rough there. And let's see a third level of exhaustion.
 [u2445 | 03:33:52.610-03:33:59.739 | DM] The I've got this land you down attacks and saves; one more, his hit points fall in half, so he'll probably die next time he fails.
 [u2446 | 03:34:00.650-03:34:10.969 | DM] Murook between Murook the ladder Wellby and this other orc.
-[u2447 | 03:34:11.090-03:34:21.910 | DM] {{drug mar}}. It is not so difficult to subdue Vargas. Valius runs off, he vanishes somewhere.
+[u2447 | 03:34:11.090-03:34:21.910 | DM] Drogmar. It is not so difficult to subdue Vargas. Valius runs off, he vanishes somewhere.
 [u2448 | 03:34:21.930-03:34:23.210 | Delwath] Which one?
 [u2449 | 03:34:23.350-03:34:26.690 | Delwath] But how? How? How? There's no way out there.
 [u2450 | 03:34:27.250-03:34:36.729 | Delwath] Yeah, he! He! He runs back this way and looks like he gonna run this way and see where this staircase leads down here.
@@ -2527,7 +2527,7 @@
 [u2527 | 03:41:33.980-03:41:39.000 | DM] okay, so you have. You have 9 slots free.
 [u2528 | 03:41:39.490-03:41:43.579 | Delwath] I think we should put everybody in the mirror. Yes.
 [u2529 | 03:41:44.320-03:41:53.490 | DM] so, okay, so hold on a second. This is all happening too fast. Okay, so right now, first of all Riswynn is Antonia, dead or alive?
-[u2530 | 03:41:53.860-03:42:02.689 | DM] She's alive. I spared her dying shirt, too. Vola {{Evelina}} is dead. The sorcerer woman is dead. Yeah. Vola and Antonia are
+[u2530 | 03:41:53.860-03:42:02.689 | DM] She's alive. I spared her dying shirt, too. Vola Evelina is dead. The sorcerer woman is dead. Yeah. Vola and Antonia are
 [u2531 | 03:42:03.010-03:42:13.949 | DM] are unconscious and stable at 0. Hit points. Hektor is is in the mirror. Yeah, already
 [u2532 | 03:42:15.360-03:42:21.349 | DM] Valius has surrendered, and you are now saying, Stare at this mirror, and he says.
 [u2533 | 03:42:23.250-03:42:27.180 | Delwath] Yes, we are. But first we're taking all their stuff. Yeah.

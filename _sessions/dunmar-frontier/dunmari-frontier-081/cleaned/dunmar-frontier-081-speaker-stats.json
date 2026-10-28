@@ -1,0 +1,59 @@
+{
+  "totalDurationSeconds": 24149.451,
+  "speakers": [
+    {
+      "transcriptIdentifier": "DM",
+      "name": "Tim Sackton",
+      "gameRole": "DM",
+      "segmentCount": 5214,
+      "durationSeconds": 10506.872,
+      "fraction": 0.4351,
+      "wordCount": 33822
+    },
+    {
+      "transcriptIdentifier": "Delwath",
+      "name": "Mike Sackton",
+      "gameRole": "Delwath",
+      "segmentCount": 2578,
+      "durationSeconds": 4809.377,
+      "fraction": 0.1992,
+      "wordCount": 18170
+    },
+    {
+      "transcriptIdentifier": "Kenzo",
+      "name": "David Kong",
+      "gameRole": "Kenzo",
+      "segmentCount": 1801,
+      "durationSeconds": 2901.587,
+      "fraction": 0.1202,
+      "wordCount": 12241
+    },
+    {
+      "transcriptIdentifier": "Seeker",
+      "name": "Eric Rosenbaum",
+      "gameRole": "Seeker",
+      "segmentCount": 1601,
+      "durationSeconds": 2515.984,
+      "fraction": 0.1042,
+      "wordCount": 9753
+    },
+    {
+      "transcriptIdentifier": "Unknown",
+      "name": null,
+      "gameRole": "Unknown",
+      "segmentCount": 1506,
+      "durationSeconds": 1485.954,
+      "fraction": 0.0615,
+      "wordCount": 5690
+    },
+    {
+      "transcriptIdentifier": "Wellby",
+      "name": "David Schwartz",
+      "gameRole": "Wellby",
+      "segmentCount": 1437,
+      "durationSeconds": 1929.677,
+      "fraction": 0.0799,
+      "wordCount": 7655
+    }
+  ]
+}

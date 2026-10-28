@@ -244,7 +244,7 @@
 [u0244 | 00:16:22.340-00:16:26.669 | DM] of Hralgar's like face and upper part of his chest.
 [u0245 | 00:16:29.560-00:16:30.810 | DM] Wearing
 [u0246 | 00:16:31.210-00:16:32.580 | DM] this crown
-[u0247 | 00:16:32.810-00:16:40.669 | DM] with the 5 stones that were missing that were taken by {{D and Dane and Auburn}} as well.
+[u0247 | 00:16:32.810-00:16:40.669 | DM] with the 5 stones that were missing that were taken by Dee and Dain and Alban as well.
 [u0248 | 00:16:41.160-00:16:42.050 | DM] and
 [u0249 | 00:16:42.290-00:16:48.040 | DM] and there's like lightning crackling in between these 5 stones like sparking between them.
 [u0250 | 00:16:49.470-00:16:51.959 | DM] Creating this sort of web of
@@ -346,7 +346,7 @@
 [u0346 | 00:23:04.560-00:23:06.500 | DM] your adventures in
 [u0347 | 00:23:06.680-00:23:09.380 | DM] the islands and jungles of the East.
 [u0348 | 00:23:10.180-00:23:12.090 | DM] the dwarven
-[u0349 | 00:23:12.850-00:23:18.519 | DM] planes and Shadowfell domains of {{Orcoln}}, the Feywilds
+[u0349 | 00:23:12.850-00:23:18.519 | DM] planes and Shadowfell domains of Morkalan, the Feywilds
 [u0350 | 00:23:18.760-00:23:20.640 | DM] and the
 [u0351 | 00:23:20.820-00:23:24.799 | DM] forests and battlefields of the Great War far to the north.
 [u0352 | 00:23:26.700-00:23:28.250 | DM] and also
@@ -370,8 +370,8 @@
 [u0370 | 00:24:30.750-00:24:35.079 | DM] Kaeso, Kenzo's old mentor fleeing north somewhere where he
 [u0371 | 00:24:35.160-00:24:36.780 | DM] has friends
 [u0372 | 00:24:36.920-00:24:38.719 | DM] to an inn
-[u0373 | 00:24:39.590-00:24:40.680 | DM] {{malar}}.
-[u0374 | 00:24:40.940-00:24:42.310 | DM] {{Give you a call}}
+[u0373 | 00:24:39.590-00:24:40.680 | DM] Mawar.
+[u0374 | 00:24:40.940-00:24:42.310 | DM] Dee Wildcloak
 [u0375 | 00:24:45.630-00:24:46.710 | DM] The
 [u0376 | 00:24:47.280-00:24:48.630 | DM] running south.
 [u0377 | 00:24:49.810-00:24:52.820 | DM] heading across the Sea of Storms for the
@@ -712,7 +712,7 @@
 [u0712 | 00:47:30.630-00:47:35.589 | Kenzo] and and we'll take it up. Take a chunk of it, and carve
 [u0713 | 00:47:35.660-00:47:46.359 | Kenzo] little runes representing the different Dunmari gods, and then also on the back side, runes that he learns from the lizardfolk.
 [u0714 | 00:47:47.490-00:47:49.370 | Kenzo] representing
-[u0715 | 00:47:49.570-00:47:52.769 | Kenzo] {{what to}} Lengau and
+[u0715 | 00:47:49.570-00:47:52.769 | Kenzo] Motua Lengau and
 [u0716 | 00:47:54.550-00:47:56.150 | Delwath] Delwath will take some of the
 [u0717 | 00:47:56.760-00:47:58.270 | Delwath] ash from the hearth
 [u0718 | 00:47:59.170-00:48:03.430 | Delwath] and offer it up to {{Batali}}. The spirit of hearths and houses.
@@ -750,7 +750,7 @@
 [u0750 | 00:50:06.540-00:50:07.259 | DM] and
 [u0751 | 00:50:07.850-00:50:09.759 | DM] seeker, and then
 [u0752 | 00:50:10.380-00:50:14.810 | DM] all the all the prayers to all the gods, the dwarven gods, the
-[u0753 | 00:50:15.000-00:50:18.399 | DM] {{Ponti}}, the Dunmari God, everybody isn't doing quite enough.
+[u0753 | 00:50:15.000-00:50:18.399 | DM] tanshi, the Dunmari God, everybody isn't doing quite enough.
 [u0754 | 00:50:18.430-00:50:21.919 | DM] Seeker just kind of reaches out, and with your rune
 [u0755 | 00:50:23.700-00:50:24.759 | DM] as this
 [u0756 | 00:50:25.120-00:50:29.350 | DM] dwarven rune just kind of floats over and touches the chain.
@@ -1453,7 +1453,7 @@
 [u1453 | 01:49:02.670-01:49:05.970 | DM] Who was that?
 [u1454 | 01:49:14.800-01:49:16.899 | DM] Just search Raven's.
 [u1455 | 01:49:16.970-01:49:21.870 | DM] Look at the backlinks! Find the session click on the session ads it was
-[u1456 | 01:49:23.220-01:49:32.070 | DM] in Darba, the guy who you that Travok Redpeak, who you spoke with, who came from {{thorough}} to to tell you about going to {{buy the jealous}}
+[u1456 | 01:49:23.220-01:49:32.070 | DM] in Darba, the guy who you that Travok Redpeak, who you spoke with, who came from Tharn Todor to to tell you about going to {{buy the jealous}}
 [u1457 | 01:49:32.360-01:49:34.040 | DM] also told you that
 [u1458 | 01:49:34.180-01:49:35.170 | DM] a dwarf
 [u1459 | 01:49:35.390-01:49:38.540 | DM] warrior, Magran Boulderbeard, and about 20
@@ -2194,7 +2194,7 @@
 [u2194 | 02:40:32.210-02:40:34.450 | DM] yes, you can, but that's
 [u2195 | 02:40:34.510-02:40:38.500 | DM] one shot. Then you got to find a way to you had to find some more.
 [u2196 | 02:40:39.750-02:40:42.320 | Kenzo] I forgot which ki that is.
-[u2197 | 02:40:42.620-02:40:48.419 | Seeker] you got to find more {{mesicy}} before you can do it again. Well, let me let me try to have a look first.
+[u2197 | 02:40:42.620-02:40:48.419 | Seeker] you got to find more amezza ki before you can do it again. Well, let me let me try to have a look first.
 [u2198 | 02:40:49.250-02:40:54.339 | Seeker] You know my my Clairvoyance ability. Normally I couldn't reach that far, but I think with this thing.
 [u2199 | 02:40:55.360-02:40:56.799 | Seeker] I can extend it.
 [u2200 | 02:40:57.810-02:40:59.550 | Seeker] I can actually.

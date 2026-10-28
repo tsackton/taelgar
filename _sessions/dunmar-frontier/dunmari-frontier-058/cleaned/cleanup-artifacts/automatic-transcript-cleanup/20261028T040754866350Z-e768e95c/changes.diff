@@ -1,0 +1,55 @@
+--- before/u0139
++++ after/u0139
+@@ -1 +1 @@
+-[u0139 | 00:12:40.280-00:12:43.719 | Rothfis] the {{barriers. I’ll}} have me here to find Hagrim,
++[u0139 | 00:12:40.280-00:12:43.719 | Rothfis] the Bahrâzel have me here to find Hagrim,
+--- before/u0243
++++ after/u0243
+@@ -1 +1 @@
+-[u0243 | 00:21:35.400-00:21:36.960 | DM] {{i’m}}
++[u0243 | 00:21:35.400-00:21:36.960 | DM] Hagrim
+--- before/u0938
++++ after/u0938
+@@ -1 +1 @@
+-[u0938 | 01:21:57.660-01:22:03.169 | DM] So it's floating over you, and then make its second claw attack against {{met}}
++[u0938 | 01:21:57.660-01:22:03.169 | DM] So it's floating over you, and then make its second claw attack against Merash
+--- before/u1146
++++ after/u1146
+@@ -1 +1 @@
+-[u1146 | 01:37:21.380-01:37:23.159 | DM] Thror, {{resign}}.
++[u1146 | 01:37:21.380-01:37:23.159 | DM] Thror, Riswynn.
+--- before/u1208
++++ after/u1208
+@@ -1 +1 @@
+-[u1208 | 01:41:35.810-01:41:37.849 | Unknown] {{Thorn teller}} so
++[u1208 | 01:41:35.810-01:41:37.849 | Unknown] Tharn Todor so
+--- before/u1295
++++ after/u1295
+@@ -1 +1 @@
+-[u1295 | 01:47:45.740-01:47:49.230 | DM] {{darn to her}} was being built and
++[u1295 | 01:47:45.740-01:47:49.230 | DM] Tharn Todor was being built and
+--- before/u1495
++++ after/u1495
+@@ -1 +1 @@
+-[u1495 | 02:03:13.240-02:03:16.229 | Thror] Well, if the {{mindset}} is more like a parasite.
++[u1495 | 02:03:13.240-02:03:16.229 | Thror] Well, if the mind flayer is more like a parasite.
+--- before/u1587
++++ after/u1587
+@@ -1 +1 @@
+-[u1587 | 02:10:34.810-02:10:39.360 | Riswynn] um. I mean, {{Doug}},
++[u1587 | 02:10:34.810-02:10:39.360 | Riswynn] um. I mean, Del,
+--- before/u2001
++++ after/u2001
+@@ -1 +1 @@
+-[u2001 | 02:50:40.790-02:50:45.520 | Riswynn] sturdy, dwarven warriors plus ah plus giant {{This}}:
++[u2001 | 02:50:40.790-02:50:45.520 | Riswynn] sturdy, dwarven warriors plus ah plus giant Rothfis:
+--- before/u2181
++++ after/u2181
+@@ -1 +1 @@
+-[u2181 | 03:04:29.550-03:04:33.799 | Riswynn] Hagrim, Firebrand, The {{Parisel}} are summoning you
++[u2181 | 03:04:29.550-03:04:33.799 | Riswynn] Hagrim, Firebrand, The Bahrâzel are summoning you
+--- before/u3019
++++ after/u3019
+@@ -1 +1 @@
+-[u3019 | 04:07:33.920-04:07:35.990 | DM] Go, kill some {{Tedarians}} just for fun.
++[u3019 | 04:07:33.920-04:07:35.990 | DM] Go, kill some Chardonians just for fun.

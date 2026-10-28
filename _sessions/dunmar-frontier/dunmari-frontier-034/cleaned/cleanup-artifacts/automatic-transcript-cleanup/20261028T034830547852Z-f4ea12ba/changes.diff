@@ -1,0 +1,100 @@
+--- before/u0011
++++ after/u0011
+@@ -1 +1 @@
+-[u0011 | 00:00:51.570-00:00:56.700 | DM] saying goodbye to {{record}} on the road, as he turned North {{that is mountains}}.
++[u0011 | 00:00:51.570-00:00:56.700 | DM] saying goodbye to Drikod on the road, as he turned North {{that is mountains}}.
+--- before/u0019
++++ after/u0019
+@@ -1 +1 @@
+-[u0019 | 00:02:02.730-00:02:08.280 | DM] The temple to which you have a letter of introduction to the head priest there from {{Ken dress}} should you.
++[u0019 | 00:02:02.730-00:02:08.280 | DM] The temple to which you have a letter of introduction to the head priest there from Candrosa should you.
+--- before/u0034
++++ after/u0034
+@@ -1 +1 @@
+-[u0034 | 00:03:43.590-00:03:56.610 | DM] As you pass the walls of the city Wellby turned West with Garret, following the outer walls, the city to take him to the Red Lily halfling inn where Garret knows the owners {{Lillian}} and Wes Strongbones.
++[u0034 | 00:03:43.590-00:03:56.610 | DM] As you pass the walls of the city Wellby turned West with Garret, following the outer walls, the city to take him to the Red Lily halfling inn where Garret knows the owners Lily and Wes Strongbones.
+--- before/u0157
++++ after/u0157
+@@ -1 +1 @@
+-[u0157 | 00:14:27.780-00:14:28.650 | DM] yeah {{Karen}}.
++[u0157 | 00:14:27.780-00:14:28.650 | DM] yeah Kirian's.
+--- before/u0158
++++ after/u0158
+@@ -1 +1 @@
+-[u0158 | 00:14:29.130-00:14:33.420 | Kenzo] {{Karen's}} we'll be establishing a presence in {{Karen's}}.
++[u0158 | 00:14:29.130-00:14:33.420 | Kenzo] Kirian's we'll be establishing a presence in Kirian's.
+--- before/u0164
++++ after/u0164
+@@ -1 +1 @@
+-[u0164 | 00:14:49.590-00:14:52.740 | DM] know so you had asked {{a crumb}}.
++[u0164 | 00:14:49.590-00:14:52.740 | DM] know so you had asked Ikram.
+--- before/u0169
++++ after/u0169
+@@ -1 +1 @@
+-[u0169 | 00:15:06.690-00:15:08.400 | Kenzo] But, but {{chrome}} knew a guy there right.
++[u0169 | 00:15:06.690-00:15:08.400 | Kenzo] But, but Ikram knew a guy there right.
+--- before/u0171
++++ after/u0171
+@@ -1 +1 @@
+-[u0171 | 00:15:10.140-00:15:12.510 | DM] Knew a guy at {{Dr shawna}} but the right that.
++[u0171 | 00:15:10.140-00:15:12.510 | DM] Knew a guy at Darshana's but the right that.
+--- before/u0178
++++ after/u0178
+@@ -1 +1 @@
+-[u0178 | 00:15:35.910-00:15:42.480 | DM] At {{Karen's}} I don't travel to town hardly at all at my.
++[u0178 | 00:15:35.910-00:15:42.480 | DM] At Kirian's I don't travel to town hardly at all at my.
+--- before/u0180
++++ after/u0180
+@@ -1 +1 @@
+-[u0180 | 00:15:53.010-00:16:06.750 | Kenzo] You know, to to any broader presence in Tokra that that's where it will be, but we would prefer to stay here, this will, this will be our true base, where we where we actually sleep and rest and {{Karen's}} will be a you know.
++[u0180 | 00:15:53.010-00:16:06.750 | Kenzo] You know, to to any broader presence in Tokra that that's where it will be, but we would prefer to stay here, this will, this will be our true base, where we where we actually sleep and rest and Kirian's will be a you know.
+--- before/u0202
++++ after/u0202
+@@ -1 +1 @@
+-[u0202 | 00:17:09.030-00:17:11.520 | Delwath] cover at {{Karen's}} tonight I would.
++[u0202 | 00:17:09.030-00:17:11.520 | Delwath] cover at Kirian's tonight I would.
+--- before/u0464
++++ after/u0464
+@@ -1 +1 @@
+-[u0464 | 00:38:13.740-00:38:16.320 | DM] {{Kendra's}} dime for like months.
++[u0464 | 00:38:13.740-00:38:16.320 | DM] Candrosa's dime for like months.
+--- before/u0811
++++ after/u0811
+@@ -1 +1 @@
+-[u0811 | 01:08:26.250-01:08:30.090 | Delwath] I mean, don't we have a letter from {{Kendra}} addressed to the high priest of Tokra saying.
++[u0811 | 01:08:26.250-01:08:30.090 | Delwath] I mean, don't we have a letter from Candrosa addressed to the high priest of Tokra saying.
+--- before/u0816
++++ after/u0816
+@@ -1 +1 @@
+-[u0816 | 01:08:43.230-01:08:46.380 | DM] I mean yeah {{Kendra}} has {{the notes}} are big.
++[u0816 | 01:08:43.230-01:08:46.380 | DM] I mean yeah Candrosa has {{the notes}} are big.
+--- before/u0852
++++ after/u0852
+@@ -1 +1 @@
+-[u0852 | 01:11:19.650-01:11:22.890 | DM] I gather that {{Karnas}} had.
++[u0852 | 01:11:19.650-01:11:22.890 | DM] I gather that Karnas had.
+--- before/u1284
++++ after/u1284
+@@ -1 +1 @@
+-[u1284 | 01:48:06.510-01:48:10.800 | DM] {{All the North America}}, where the land is fixed here the.
++[u1284 | 01:48:06.510-01:48:10.800 | DM] Aldanor and Elmerca, where the land is fixed here the.
+--- before/u1353
++++ after/u1353
+@@ -1 +1 @@
+-[u1353 | 01:54:15.630-01:54:17.520 | DM] {{America and all the north}} that are.
++[u1353 | 01:54:15.630-01:54:17.520 | DM] Elmerca and Aldanor that are.
+--- before/u1379
++++ after/u1379
+@@ -1 +1 @@
+-[u1379 | 01:56:15.420-01:56:17.040 | DM] {{Genetic}} the mad one.
++[u1379 | 01:56:15.420-01:56:17.040 | DM] Jinnik the mad one.
+--- before/u1393
++++ after/u1393
+@@ -1 +1 @@
+-[u1393 | 01:57:15.960-01:57:33.300 | DM] It was a theory that the curse of lycanthropy originated from {{generic}} the mad one who is described as some sort of embodied god of some kind, but this book wasn't really about God, so it didn't elaborate.
++[u1393 | 01:57:15.960-01:57:33.300 | DM] It was a theory that the curse of lycanthropy originated from Jinnik the mad one who is described as some sort of embodied god of some kind, but this book wasn't really about God, so it didn't elaborate.
+--- before/u2056
++++ after/u2056
+@@ -1 +1 @@
+-[u2056 | 03:01:34.290-03:01:39.420 | Wellby] I could you know add one charge of the flaming {{full strength}}.
++[u2056 | 03:01:34.290-03:01:39.420 | Wellby] I could you know add one charge of the flaming bowstring.

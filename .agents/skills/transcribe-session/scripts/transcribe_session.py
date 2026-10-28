@@ -33,11 +33,19 @@ try:
 except ImportError as exc:  # pragma: no cover - dependency guard
     raise SystemExit("transcribe-session requires PyYAML: python3 -m pip install PyYAML") from exc
 
+try:
+    from dotenv import dotenv_values
+except ImportError as exc:  # pragma: no cover - dependency guard
+    raise SystemExit(
+        "transcribe-session requires python-dotenv: python3 -m pip install python-dotenv"
+    ) from exc
+
 
 API_URL = "https://api.elevenlabs.io/v1/speech-to-text"
 MODEL_ID = "scribe_v2"
 STANDARD_KEY_NAME = "ELEVENLABS_API_KEY"
 LEGACY_KEY_NAME = "ELEVEN_LABS_API"
+DEFAULT_ENV_FILE = Path("~/RPGs/taelgar-utils/.env")
 MAX_KEYTERMS = 1000
 MAX_KEYTERM_CHARACTERS = 49
 MAX_KEYTERM_WORDS = 5
@@ -141,7 +149,7 @@ def build_parser() -> argparse.ArgumentParser:
     parser.add_argument(
         "--env-file",
         type=Path,
-        help="Optional secrets file outside the vault containing the API key.",
+        help="Override the default ~/RPGs/taelgar-utils/.env secrets file.",
     )
     parser.add_argument(
         "--confirm-upload",
@@ -579,43 +587,34 @@ def parse_env_file(path: Path) -> dict[str, str]:
             file=sys.stderr,
         )
 
-    values: dict[str, str] = {}
     try:
-        lines = resolved.read_text(encoding="utf-8-sig").splitlines()
+        values = dotenv_values(resolved, encoding="utf-8-sig", interpolate=False)
     except (OSError, UnicodeError) as exc:
         raise TranscriptionError(f"could not read env file {resolved}: {exc}") from exc
-
-    for line_number, raw_line in enumerate(lines, start=1):
-        line = raw_line.strip()
-        if not line or line.startswith("#"):
-            continue
-        if line.startswith("export "):
-            line = line[7:].lstrip()
-        if "=" not in line:
-            continue
-        name, raw_value = line.split("=", 1)
-        name = name.strip()
-        if name not in {STANDARD_KEY_NAME, LEGACY_KEY_NAME}:
-            continue
-        value = raw_value.strip()
-        if len(value) >= 2 and value[0] == value[-1] and value[0] in {'"', "'"}:
-            value = value[1:-1]
-        if "\n" in value or "\r" in value:
-            raise TranscriptionError(
-                f"invalid {name} value at {resolved}:{line_number}"
-            )
-        values[name] = value
-    return values
+    return {
+        name: value for name, value in values.items()
+        if name in {STANDARD_KEY_NAME, LEGACY_KEY_NAME} and value is not None
+    }
 
 
 def resolve_api_key(
-    env_file: Path | None, *, required: bool
+    env_file: Path | None = None, *, required: bool
 ) -> tuple[str | None, str | None]:
     for name in (STANDARD_KEY_NAME, LEGACY_KEY_NAME):
         value = os.environ.get(name, "").strip()
         if value:
             validate_api_key(value, name)
             return value, f"environment:{name}"
+
+    if env_file is None:
+        default_env_file = DEFAULT_ENV_FILE.expanduser()
+        if default_env_file.is_file():
+            env_file = default_env_file
+        elif required:
+            raise TranscriptionError(
+                f"default .env file not found: {default_env_file}; "
+                "provide a .env file path with --env-file"
+            )
 
     if env_file is not None:
         values = parse_env_file(env_file)
@@ -627,7 +626,9 @@ def resolve_api_key(
 
     if required:
         raise TranscriptionError(
-            f"no ElevenLabs API key found; set {STANDARD_KEY_NAME} or pass --env-file"
+            f"no ElevenLabs API key found; set {STANDARD_KEY_NAME} in the environment "
+            f"or {env_file or DEFAULT_ENV_FILE.expanduser()}, "
+            "or provide another .env file path with --env-file"
         )
     return None, None
 

@@ -1,0 +1,321 @@
+{
+  "schemaVersion": 1,
+  "stage": "clean",
+  "chunkId": "chunk-003",
+  "sourceSha256": "cdd478252968c49bdf0cd080e141441e236bcb6afccff0b8e406370b88f4cef4",
+  "checks": [
+    "people",
+    "groups",
+    "places",
+    "time_transitions",
+    "items",
+    "actions",
+    "unmarked_errors",
+    "second_pass"
+  ],
+  "edits": [
+    {
+      "uid": "u0360",
+      "before": "{{Oh ma}}, the warrior who you say may be wandering lost somewhere far across the world.",
+      "after": "Ohma, the warrior who you say may be wandering lost somewhere far across the world.",
+      "reason": "Repeated near-identical pronunciation in u0361 establishes a personal name. Preserve this spoken name rather than substituting the later session-note name Jotha.",
+      "kind": "name",
+      "evidence": [
+        "u0358-u0362"
+      ]
+    },
+    {
+      "uid": "u0361",
+      "before": "Which by the way, now I have to convince somebody to play {{oh my}} for the Wellby one-shot.",
+      "after": "Which by the way, now I have to convince somebody to play Ohma for the Wellby one-shot.",
+      "reason": "Same warrior named in preceding sentence; recognition split a repeated personal name into an exclamation.",
+      "kind": "name",
+      "evidence": [
+        "u0359-u0363"
+      ]
+    },
+    {
+      "uid": "u0404",
+      "before": "And I guess it wouldn't help against shadows, {{like his name it'll be a feat}}, that'd be fun.",
+      "after": "And I guess it wouldn't help against shadows, like his name it'll be a feat, that'd be fun.",
+      "reason": "Damaged incidental hypothetical spell banter; subsequent giant demon reply remains intact, no concrete decision needs human adjudication.",
+      "kind": "uncertainty",
+      "evidence": [
+        "u0402-u0406"
+      ]
+    },
+    {
+      "uid": "u0461",
+      "before": "Right, I think that that makes a lot of sense, so before you go this, you know, however long he spent in the village, say I'll say two days, so {{I accurate}}, yeah.",
+      "after": "Right, I think that that makes a lot of sense, so before you go this, you know, however long he spent in the village, say I'll say two days, so I accurate, yeah.",
+      "reason": "Unrecoverable abandoned filler after the clearly spoken two-day stay; no competing time reading.",
+      "kind": "uncertainty",
+      "evidence": [
+        "u0459-u0463"
+      ]
+    },
+    {
+      "uid": "u0497",
+      "before": "{{On the enemy}} and then it's like bright, you know, on all of this on background of of.",
+      "after": "On the enemy and then it's like bright, you know, on all of this on background of of.",
+      "reason": "Incidental fragment in shield decoration description; preserve words without a material-review marker.",
+      "kind": "uncertainty",
+      "evidence": [
+        "u0495-u0499"
+      ]
+    },
+    {
+      "uid": "u0513",
+      "before": "He hasn't responded to my texts, and I said hey do you want me to make a character, or do you want to make a character, I suspect, to text me on Thursday and say hey do you have a character for me.",
+      "after": "He hasn't responded to my texts, and I said hey do you want me to make a character, or do you want to make a character, I suspect he’ll text me on Thursday and say hey do you have a character for me.",
+      "reason": "Missing subject/auxiliary recovered from the prediction of receiving a Thursday text.",
+      "kind": "asr",
+      "evidence": [
+        "u0511-u0515"
+      ]
+    }
+  ],
+  "issues": [],
+  "mentions": [
+    {
+      "uid": "u0346",
+      "kind": "item",
+      "text": "circlets"
+    },
+    {
+      "uid": "u0348",
+      "kind": "group",
+      "text": "stoneborn"
+    },
+    {
+      "uid": "u0349",
+      "kind": "place",
+      "text": "hunting camp"
+    },
+    {
+      "uid": "u0350",
+      "kind": "place",
+      "text": "Forest of Nightmares"
+    },
+    {
+      "uid": "u0354",
+      "kind": "item",
+      "text": "armband"
+    },
+    {
+      "uid": "u0361",
+      "kind": "person",
+      "text": "Wellby"
+    },
+    {
+      "uid": "u0371",
+      "kind": "place",
+      "text": "Feywild"
+    },
+    {
+      "uid": "u0373",
+      "kind": "time",
+      "text": "September"
+    },
+    {
+      "uid": "u0387",
+      "kind": "person",
+      "text": "the man"
+    },
+    {
+      "uid": "u0387",
+      "kind": "group",
+      "text": "stoneborn"
+    },
+    {
+      "uid": "u0402",
+      "kind": "item",
+      "text": "magic circle"
+    },
+    {
+      "uid": "u0413",
+      "kind": "person",
+      "text": "Yezali"
+    },
+    {
+      "uid": "u0417",
+      "kind": "person",
+      "text": "the stoneborn"
+    },
+    {
+      "uid": "u0417",
+      "kind": "group",
+      "text": "stoneborn"
+    },
+    {
+      "uid": "u0421",
+      "kind": "time",
+      "text": "the next day"
+    },
+    {
+      "uid": "u0427",
+      "kind": "person",
+      "text": "Kenzo"
+    },
+    {
+      "uid": "u0428",
+      "kind": "person",
+      "text": "Delwath"
+    },
+    {
+      "uid": "u0428",
+      "kind": "person",
+      "text": "Yezali"
+    },
+    {
+      "uid": "u0428",
+      "kind": "place",
+      "text": "the village"
+    },
+    {
+      "uid": "u0440",
+      "kind": "group",
+      "text": "Te'kula"
+    },
+    {
+      "uid": "u0442",
+      "kind": "person",
+      "text": "A'gaza"
+    },
+    {
+      "uid": "u0442",
+      "kind": "person",
+      "text": "Istari"
+    },
+    {
+      "uid": "u0442",
+      "kind": "person",
+      "text": "Mo'kati"
+    },
+    {
+      "uid": "u0446",
+      "kind": "person",
+      "text": "Delwath"
+    },
+    {
+      "uid": "u0451",
+      "kind": "group",
+      "text": "Te'kula"
+    },
+    {
+      "uid": "u0460",
+      "kind": "place",
+      "text": "the village"
+    },
+    {
+      "uid": "u0461",
+      "kind": "place",
+      "text": "the village"
+    },
+    {
+      "uid": "u0461",
+      "kind": "time",
+      "text": "two days"
+    },
+    {
+      "uid": "u0462",
+      "kind": "place",
+      "text": "hunting camp"
+    },
+    {
+      "uid": "u0463",
+      "kind": "person",
+      "text": "the wildfire druid"
+    },
+    {
+      "uid": "u0463",
+      "kind": "group",
+      "text": "stoneborn"
+    },
+    {
+      "uid": "u0464",
+      "kind": "person",
+      "text": "Enon"
+    },
+    {
+      "uid": "u0465",
+      "kind": "group",
+      "text": "Meswati"
+    },
+    {
+      "uid": "u0465",
+      "kind": "place",
+      "text": "Forest of Nightmares"
+    },
+    {
+      "uid": "u0465",
+      "kind": "item",
+      "text": "shield"
+    },
+    {
+      "uid": "u0466",
+      "kind": "group",
+      "text": "silent ones"
+    },
+    {
+      "uid": "u0466",
+      "kind": "time",
+      "text": "Great War"
+    },
+    {
+      "uid": "u0473",
+      "kind": "item",
+      "text": "mithral"
+    },
+    {
+      "uid": "u0474",
+      "kind": "group",
+      "text": "dwarves"
+    },
+    {
+      "uid": "u0475",
+      "kind": "item",
+      "text": "scale mail"
+    },
+    {
+      "uid": "u0476",
+      "kind": "group",
+      "text": "Deno'qai"
+    },
+    {
+      "uid": "u0476",
+      "kind": "item",
+      "text": "shield"
+    },
+    {
+      "uid": "u0499",
+      "kind": "time",
+      "text": "Thursday"
+    },
+    {
+      "uid": "u0501",
+      "kind": "item",
+      "text": "scale mail"
+    },
+    {
+      "uid": "u0501",
+      "kind": "item",
+      "text": "mithral"
+    },
+    {
+      "uid": "u0504",
+      "kind": "item",
+      "text": "shield"
+    },
+    {
+      "uid": "u0510",
+      "kind": "time",
+      "text": "Thursday"
+    },
+    {
+      "uid": "u0513",
+      "kind": "time",
+      "text": "Thursday"
+    }
+  ]
+}

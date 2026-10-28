@@ -1,0 +1,741 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-028",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-source-cleaned.md",
+  "beforeSha256": "1ea421bc6c91325a57e93d8a85744b7cc237b1111f622ca832464fd6b7a52192",
+  "afterSha256": "6bd33dfdc5ed4061b99c067e343eaf518d509e562e72e9a835e1065899123297",
+  "markersBefore": 93,
+  "groups": [
+    {
+      "id": "agata-embedded-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Agata is plausibly named at the start of this taunt, but the rest of the marked phrase is damaged; recovering it would require ordinary phrase reconstruction.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Cintra.md",
+          "sha256": "dbf33463791ee7fb43101a2ac920de7d98dcf4c33fed5010573e1e066304b868"
+        },
+        {
+          "path": "People/Other Nonhumans/Samerki.md",
+          "sha256": "47854e0e0c153fc45b14d2b752ad5bda9b96aac08f3450117334c25f582c392c"
+        }
+      ],
+      "candidates": [
+        "Agata"
+      ],
+      "markerIds": [
+        "u0214:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0214:m1": "{{a God says, please, he}}"
+      }
+    },
+    {
+      "id": "agata-hut-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Agata and her dwelling are plausible within this remark about the return journey, but the complete marked phrase would need additional ordinary wording to recover the sentence.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Cintra.md",
+          "sha256": "dbf33463791ee7fb43101a2ac920de7d98dcf4c33fed5010573e1e066304b868"
+        }
+      ],
+      "candidates": [
+        "Agata"
+      ],
+      "markerIds": [
+        "u0703:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0703:m1": "{{got as hot}}"
+      }
+    },
+    {
+      "id": "agata-possible-beneficiary",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The phrase could be an ordinary hedge or a phrase ending in Agata. Context alone does not establish the complete marked replacement.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Cintra.md",
+          "sha256": "dbf33463791ee7fb43101a2ac920de7d98dcf4c33fed5010573e1e066304b868"
+        }
+      ],
+      "candidates": [
+        "Agata"
+      ],
+      "markerIds": [
+        "u1349:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1349:m1": "{{for I guess}}"
+      }
+    },
+    {
+      "id": "cintra-in-proposed-ruse",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The marked sound strongly favors Cintra, who is named again in the following sentence of the proposed ruse. Preserve that apparent spoken name rather than changing it to Jumi merely to make the proposal more consistent.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Cintra.md",
+          "sha256": "dbf33463791ee7fb43101a2ac920de7d98dcf4c33fed5010573e1e066304b868"
+        },
+        {
+          "path": "People/Dunmari/Jumi.md",
+          "sha256": "94d3dba5aac6ac35bfe6b10423066fd6a27e9fdb7ff34d8f24ee17b267c2014a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1241:m1"
+      ],
+      "replacements": {
+        "u1241:m1": "Cintra"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "cintra-long-question",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Cintra is the likely subject of the question about what she is doing, but the complete marked phrase includes unclear ordinary words that cannot safely be replaced by a name.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Cintra.md",
+          "sha256": "dbf33463791ee7fb43101a2ac920de7d98dcf4c33fed5010573e1e066304b868"
+        }
+      ],
+      "candidates": [
+        "Cintra"
+      ],
+      "markerIds": [
+        "u0160:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0160:m1": "{{Look that up general}}"
+      }
+    },
+    {
+      "id": "combat-target-question",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The following discussion contrasts attacking Agata with attacking Samerki, but this long damaged question cannot be safely reconstructed as one name or setting term.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 28 (DuFr).md",
+          "sha256": "c039a82c02cb30d265ef1e3066466edc2ea17326a1bbcf1f072112388eb89d3e"
+        },
+        {
+          "path": "People/Other Nonhumans/Samerki.md",
+          "sha256": "47854e0e0c153fc45b14d2b752ad5bda9b96aac08f3450117334c25f582c392c"
+        }
+      ],
+      "candidates": [
+        "Agata",
+        "Samerki"
+      ],
+      "markerIds": [
+        "u2455:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2455:m1": "{{So that's how you gotta wear that are some Monday}}"
+      }
+    },
+    {
+      "id": "drikod-lightning-caster",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The following relative clause uniquely identifies Drikod as the caster of the repeated lightning bolts, and he immediately responds to the saving throw. The participant mapping and campaign record establish the name; the short recognition warrants supported confidence.",
+      "evidence": [
+        {
+          "path": "People/PCs/Dunmar Fellowship/Guests/Drikod.md",
+          "sha256": "0c352881fdf9b9319ea7136088bdfb78104f63b52cdc94f5da02db0f658c37b0"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 28 (DuFr).md",
+          "sha256": "c039a82c02cb30d265ef1e3066466edc2ea17326a1bbcf1f072112388eb89d3e"
+        },
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-session.yaml",
+          "sha256": "f054c9231692fa3afa45abe18b3f357955ae007a082fa7beea4c5494f80d7b52"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2718:m1"
+      ],
+      "replacements": {
+        "u2718:m1": "Drikod"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "dunmar-protections",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The interrupted discussion explicitly concerns the border protections weakened during the Summer of Red Storms; Dunmar is the uniquely supported country. The very short recognition makes this a supported correction.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md",
+          "sha256": "a43ad808091d676cae19184e744d8572c6526c24b2f2dac67f75011634a514a7"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 28 (DuFr).md",
+          "sha256": "c039a82c02cb30d265ef1e3066466edc2ea17326a1bbcf1f072112388eb89d3e"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0619:m1"
+      ],
+      "replacements": {
+        "u0619:m1": "Dunmar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "opponent-or-spoken-mistake",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Cintra is phonetically plausible, while Samerki is a plausible intended opponent. The marker also contains perhaps. Do not replace a possible spoken name error or reconstruct the whole phrase.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Cintra.md",
+          "sha256": "dbf33463791ee7fb43101a2ac920de7d98dcf4c33fed5010573e1e066304b868"
+        },
+        {
+          "path": "People/Other Nonhumans/Samerki.md",
+          "sha256": "47854e0e0c153fc45b14d2b752ad5bda9b96aac08f3450117334c25f582c392c"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 28 (DuFr).md",
+          "sha256": "c039a82c02cb30d265ef1e3066466edc2ea17326a1bbcf1f072112388eb89d3e"
+        }
+      ],
+      "candidates": [
+        "Cintra",
+        "Samerki"
+      ],
+      "markerIds": [
+        "u0896:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0896:m1": "{{sentra perhaps}}"
+      }
+    },
+    {
+      "id": "ordinary-wording-and-mechanics",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "These spans concern ordinary interjections, incomplete sentence wording, descriptions, planning, rolls, rules, or interface chatter. They do not establish complete name or setting-term replacements. Retain them verbatim without reconstructing surrounding phrases.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0006:m1",
+        "u0016:m1",
+        "u0053:m1",
+        "u0090:m1",
+        "u0178:m1",
+        "u0261:m1",
+        "u0262:m1",
+        "u0328:m1",
+        "u0329:m1",
+        "u0344:m1",
+        "u0373:m1",
+        "u0455:m1",
+        "u0531:m1",
+        "u0831:m1",
+        "u0880:m1",
+        "u0911:m1",
+        "u0946:m1",
+        "u0963:m1",
+        "u1024:m1",
+        "u1130:m1",
+        "u1211:m1",
+        "u1228:m1",
+        "u1347:m1",
+        "u1361:m1",
+        "u1387:m1",
+        "u1410:m1",
+        "u1423:m1",
+        "u1450:m1",
+        "u1469:m1",
+        "u1484:m1",
+        "u1546:m1",
+        "u1590:m1",
+        "u1666:m1",
+        "u1689:m1",
+        "u1709:m1",
+        "u1712:m1",
+        "u1731:m1",
+        "u1765:m1",
+        "u1861:m1",
+        "u1889:m1",
+        "u1899:m1",
+        "u1906:m1",
+        "u1984:m1",
+        "u1991:m1",
+        "u2071:m1",
+        "u2143:m1",
+        "u2155:m1",
+        "u2195:m1",
+        "u2202:m1",
+        "u2209:m1",
+        "u2256:m1",
+        "u2290:m1",
+        "u2347:m1",
+        "u2373:m1",
+        "u2423:m1",
+        "u2457:m1",
+        "u2501:m1",
+        "u2515:m1",
+        "u2564:m1",
+        "u2682:m1",
+        "u2729:m1",
+        "u2774:m1",
+        "u2849:m1",
+        "u2950:m1",
+        "u2985:m1",
+        "u2987:m1",
+        "u2990:m1",
+        "u3008:m1",
+        "u3069:m1",
+        "u3074:m1",
+        "u3236:m1",
+        "u3337:m1",
+        "u3348:m1",
+        "u3363:m1",
+        "u3404:m1",
+        "u3405:m1",
+        "u3448:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0006:m1": "{{closes}}",
+        "u0016:m1": "{{the ready}}",
+        "u0053:m1": "{{a case Nada}}",
+        "u0090:m1": "{{house what's}}",
+        "u0178:m1": "{{Israel}}",
+        "u0261:m1": "{{sheep}}",
+        "u0262:m1": "{{very carefully}}",
+        "u0328:m1": "{{which have been caught}}",
+        "u0329:m1": "{{ice rink}}",
+        "u0344:m1": "{{gets the book}}",
+        "u0373:m1": "{{a problem}}",
+        "u0455:m1": "{{Are these find yourself}}",
+        "u0531:m1": "{{have initiated}}",
+        "u0831:m1": "{{and arrogance to didn't}}",
+        "u0880:m1": "{{Did you}}",
+        "u0911:m1": "{{To she thinks is the daughter tells you not do not}}",
+        "u0946:m1": "{{into running}}",
+        "u0963:m1": "{{let's adjust it}}",
+        "u1024:m1": "{{ever}}",
+        "u1130:m1": "{{It tends to come up at the}}",
+        "u1211:m1": "{{when it will points}}",
+        "u1228:m1": "{{enter 10 leaning on}}",
+        "u1347:m1": "{{She won't yelp}}",
+        "u1361:m1": "{{Had the happy}}",
+        "u1387:m1": "{{is that be able to say something}}",
+        "u1410:m1": "{{the wellspring}}",
+        "u1423:m1": "{{enough word}}",
+        "u1450:m1": "{{specimen}}",
+        "u1469:m1": "{{Power to lead Jumi to}}",
+        "u1484:m1": "{{It will not work}}",
+        "u1546:m1": "{{last}}",
+        "u1590:m1": "{{radek}}",
+        "u1666:m1": "{{your fans}}",
+        "u1689:m1": "{{Clear I shouldn't be today}}",
+        "u1709:m1": "{{to spend money}}",
+        "u1712:m1": "{{enter limit}}",
+        "u1731:m1": "{{To work}}",
+        "u1765:m1": "{{Will mentor}}",
+        "u1861:m1": "{{holidays}}",
+        "u1889:m1": "{{Is it kind of back}}",
+        "u1899:m1": "{{sin there than here}}",
+        "u1906:m1": "{{You pay for your house or}}",
+        "u1984:m1": "{{So good boy}}",
+        "u1991:m1": "{{your friend fight}}",
+        "u2071:m1": "{{well overwhelming said}}",
+        "u2143:m1": "{{Internet}}",
+        "u2155:m1": "{{fight}}",
+        "u2195:m1": "{{girl hasty}}",
+        "u2202:m1": "{{Get entry}}",
+        "u2209:m1": "{{No man}}",
+        "u2256:m1": "{{minute ensure that}}",
+        "u2290:m1": "{{entrenched}}",
+        "u2347:m1": "{{their benefits}}",
+        "u2373:m1": "{{it's yours Miller}}",
+        "u2423:m1": "{{Over that's always has}}",
+        "u2457:m1": "{{lucky guy the air}}",
+        "u2501:m1": "{{studying an abstract Nelson}}",
+        "u2515:m1": "{{I've been a constant}}",
+        "u2564:m1": "{{And that makes does not add explosive power to destroy}}",
+        "u2682:m1": "{{else do we make sure I'm still roughly and}}",
+        "u2729:m1": "{{racing}}",
+        "u2774:m1": "{{time to ruin it and it just so great that hit}}",
+        "u2849:m1": "{{Points and again male speaker}}",
+        "u2950:m1": "{{cuz your turn to hit him up}}",
+        "u2985:m1": "{{bring that}}",
+        "u2987:m1": "{{I have a whatsapp and this}}",
+        "u2990:m1": "{{sit through an attacker with a sort}}",
+        "u3008:m1": "{{ties}}",
+        "u3069:m1": "{{With the business but I've admitted right}}",
+        "u3074:m1": "{{how's that for him}}",
+        "u3236:m1": "{{I blazing}}",
+        "u3337:m1": "{{I was finicky so}}",
+        "u3348:m1": "{{everything is one}}",
+        "u3363:m1": "{{bye, a role that he played in}}",
+        "u3404:m1": "{{Bad half}}",
+        "u3405:m1": "{{For 20 years}}",
+        "u3448:m1": "{{around}}"
+      }
+    },
+    {
+      "id": "rescue-target-unclear-name",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The discussion and following restatement favor rescuing Jumi, but the marked sound could include Cintra or a longer phrase. The complete spoken name span is uncertain.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Jumi.md",
+          "sha256": "94d3dba5aac6ac35bfe6b10423066fd6a27e9fdb7ff34d8f24ee17b267c2014a"
+        },
+        {
+          "path": "People/Dunmari/Cintra.md",
+          "sha256": "dbf33463791ee7fb43101a2ac920de7d98dcf4c33fed5010573e1e066304b868"
+        }
+      ],
+      "candidates": [
+        "Jumi",
+        "Cintra"
+      ],
+      "markerIds": [
+        "u1303:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1303:m1": "{{search engine}}"
+      }
+    },
+    {
+      "id": "samerki-unclear-introduction",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The next line introduces Samerki, but this entire preceding marked utterance is too damaged to distinguish a name reference, a question, or ordinary speech.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Samerki.md",
+          "sha256": "47854e0e0c153fc45b14d2b752ad5bda9b96aac08f3450117334c25f582c392c"
+        }
+      ],
+      "candidates": [
+        "Samerki"
+      ],
+      "markerIds": [
+        "u0597:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0597:m1": "{{Louis Mr T or the}}"
+      }
+    },
+    {
+      "id": "seeker-possible-interjection",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The phrase may contain an address or reference to Seeker, but ordinary interjection wording is also plausible and the complete replacement is unclear.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-028/cleaned/dunmari-frontier-028-session.yaml",
+          "sha256": "f054c9231692fa3afa45abe18b3f357955ae007a082fa7beea4c5494f80d7b52"
+        }
+      ],
+      "candidates": [
+        "Seeker"
+      ],
+      "markerIds": [
+        "u0183:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0183:m1": "{{no cigarettes}}"
+      }
+    },
+    {
+      "id": "shakun-power",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Kenzo explicitly names Shakun in the preceding line and describes drawing her power from the wellspring here; this strongly favors the same name, with supported confidence for the distorted recognition.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md",
+          "sha256": "a43ad808091d676cae19184e744d8572c6526c24b2f2dac67f75011634a514a7"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 28 (DuFr).md",
+          "sha256": "c039a82c02cb30d265ef1e3066466edc2ea17326a1bbcf1f072112388eb89d3e"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2522:m1"
+      ],
+      "replacements": {
+        "u2522:m1": "Shakun"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "shakun-question",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The group is deciding which question to ask the goddess Shakun through Cintra; the unique conversational role and established spelling support this short distorted name.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md",
+          "sha256": "a43ad808091d676cae19184e744d8572c6526c24b2f2dac67f75011634a514a7"
+        },
+        {
+          "path": "People/Dunmari/Cintra.md",
+          "sha256": "dbf33463791ee7fb43101a2ac920de7d98dcf4c33fed5010573e1e066304b868"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1691:m1"
+      ],
+      "replacements": {
+        "u1691:m1": "Shakun"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "storm-giant-hralgar",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The storm giant previously encountered by this party and cited as a source is uniquely Hralgar; the reference note and Session 16 establish the name. The distorted recognition warrants supported confidence.",
+      "evidence": [
+        {
+          "path": "People/Giants/Hralgar.md",
+          "sha256": "7a98c9ddc726d1787de8c6ba4de3e8d9a4788e73215ee315d6f280bbfec0c769"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 16 (DuFr).md",
+          "sha256": "c63079ba715014d182fcb7724fb01914c381ad1204a933b58e060dec4a5ed724"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0664:m1"
+      ],
+      "replacements": {
+        "u0664:m1": "Hralgar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "storm-giant-location",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The prior encounter supports Stormcaller Tower as the place being discussed, but the marked words may be a stammered or interrupted ordinary phrase; an exact complete name replacement is not established.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 16 (DuFr).md",
+          "sha256": "c63079ba715014d182fcb7724fb01914c381ad1204a933b58e060dec4a5ed724"
+        }
+      ],
+      "candidates": [
+        "Stormcaller Tower"
+      ],
+      "markerIds": [
+        "u0688:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0688:m1": "{{it's our fan}}"
+      }
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0619:m1",
+      "uid": "u0619",
+      "ordinal": 1,
+      "lineNumber": 619,
+      "start": 76,
+      "end": 82,
+      "before": "{{an}}",
+      "span": "an",
+      "line": "[u0619 | 00:54:20.010-00:54:23.640 | DM] And the barrier the protections of {{an}}.",
+      "contextBefore": [
+        "[u0617 | 00:54:05.880-00:54:06.630 | DM] to heal.",
+        "[u0618 | 00:54:10.500-00:54:16.410 | DM] let's see I guess it would have been my great uncle her brother."
+      ],
+      "contextAfter": [
+        "[u0620 | 00:54:25.500-00:54:34.860 | DM] Here I am speaking of these, but I guess, I can see that you know some of this already my I have been alone too long, my.",
+        "[u0621 | 00:54:36.180-00:54:38.820 | DM] Caution wanes when I see a."
+      ],
+      "after": "Dunmar",
+      "group": "dunmar-protections",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0664:m1",
+      "uid": "u0664",
+      "ordinal": 1,
+      "lineNumber": 664,
+      "start": 57,
+      "end": 70,
+      "before": "{{frogs are}}",
+      "span": "frogs are",
+      "line": "[u0664 | 00:58:06.150-00:58:07.830 | DM] The storm giant {{frogs are}}.",
+      "contextBefore": [
+        "[u0662 | 00:58:00.840-00:58:04.680 | Seeker] I've written my sources on each of these. Very cleverly written.",
+        "[u0663 | 00:58:04.920-00:58:05.520 | DM] That was."
+      ],
+      "contextAfter": [
+        "[u0665 | 00:58:08.310-00:58:08.730 | Unknown] Okay.",
+        "[u0666 | 00:58:12.990-00:58:13.680 | Seeker] Yes."
+      ],
+      "after": "Hralgar",
+      "group": "storm-giant-hralgar",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1241:m1",
+      "uid": "u1241",
+      "ordinal": 1,
+      "lineNumber": 1241,
+      "start": 44,
+      "end": 58,
+      "before": "{{Chinchilla}}",
+      "span": "Chinchilla",
+      "line": "[u1241 | 01:47:18.690-01:47:20.160 | Kenzo] {{Chinchilla}} is indeed the heart.",
+      "contextBefore": [
+        "[u1239 | 01:47:07.950-01:47:14.280 | DM] I do not believe there is any way that she would allow the heart to be taken, while it is in her possession.",
+        "[u1240 | 01:47:14.550-01:47:17.580 | Kenzo] And then perhaps we we tell her that."
+      ],
+      "contextAfter": [
+        "[u1242 | 01:47:21.180-01:47:28.080 | Kenzo] And that, for her to activate the true power of the heart, she needs to enter the wellspring with Cintra.",
+        "[u1243 | 01:47:29.490-01:47:30.630 | Delwath] With with them."
+      ],
+      "after": "Cintra",
+      "group": "cintra-in-proposed-ruse",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1691:m1",
+      "uid": "u1691",
+      "ordinal": 1,
+      "lineNumber": 1691,
+      "start": 90,
+      "end": 101,
+      "before": "{{certain}}",
+      "span": "certain",
+      "line": "[u1691 | 02:27:38.400-02:27:51.000 | Kenzo] I think I think we should use the question to {{certain}} wisely to better find to find the best way to get Jumi away from Agata.",
+      "contextBefore": [
+        "[u1689 | 02:27:29.220-02:27:31.560 | Seeker] {{Clear I shouldn't be today}}.",
+        "[u1690 | 02:27:34.770-02:27:36.060 | Seeker] We could probably beat him."
+      ],
+      "contextAfter": [
+        "[u1692 | 02:27:52.200-02:28:06.390 | Delwath] So I think we're overthinking this there's only two possible plans we're spending a long time debating which of the two plans, there are, but if Shakun tells us whether Jumi is with Agata or not, then we know which plan we're going with.",
+        "[u1693 | 02:28:06.780-02:28:11.820 | Kenzo] No, but I think there may be, I think I think we want no matter what we want Jumi here."
+      ],
+      "after": "Shakun",
+      "group": "shakun-question",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2522:m1",
+      "uid": "u2522",
+      "ordinal": 1,
+      "lineNumber": 2522,
+      "start": 121,
+      "end": 130,
+      "before": "{{ships}}",
+      "span": "ships",
+      "line": "[u2522 | 03:27:34.290-03:27:39.930 | Kenzo] yeah like like you know what I'm drawing power I'm trying to draw power from {{ships}} like from the well.",
+      "contextBefore": [
+        "[u2520 | 03:27:16.230-03:27:27.300 | DM] You can see his aura floating around you if you reach towards him, you you strike just at at a place where you're also punching his aura and he locks up he freezes for a moment.",
+        "[u2521 | 03:27:29.340-03:27:33.870 | Kenzo] While this is going on, you know I spent eight hours communing with fucking Shakun on the other, like."
+      ],
+      "contextAfter": [
+        "[u2523 | 03:27:39.990-03:27:47.760 | Kenzo] You know, to me that's like you know so so just the well you know I'm trying, you know I'm not sure if the well flashes or if, like you know what I mean but it's like.",
+        "[u2524 | 03:27:49.110-03:27:51.240 | Kenzo] that's where I'm trying to draw my my Planar Power from."
+      ],
+      "after": "Shakun",
+      "group": "shakun-power",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2718:m1",
+      "uid": "u2718",
+      "ordinal": 1,
+      "lineNumber": 2718,
+      "start": 41,
+      "end": 48,
+      "before": "{{Has}}",
+      "span": "Has",
+      "line": "[u2718 | 03:41:16.530-03:41:17.100 | DM] {{Has}}.",
+      "contextBefore": [
+        "[u2716 | 03:41:06.300-03:41:09.180 | DM] And she turns and looks at.",
+        "[u2717 | 03:41:11.880-03:41:13.530 | Seeker] I mean, I mean I mean I mean even I mean."
+      ],
+      "contextAfter": [
+        "[u2719 | 03:41:18.150-03:41:23.580 | DM] Who has annoyed her most with the lightning bolts, and as far as she can tell it the moment is the most dangerous spell caster.",
+        "[u2720 | 03:41:25.020-03:41:30.480 | DM] And her eyes flash and you need to make a wisdom saving throw."
+      ],
+      "after": "Drikod",
+      "group": "drikod-lightning-caster",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u1691": {
+      "before": "[u1691 | 02:27:38.400-02:27:51.000 | Kenzo] I think I think we should use the question to {{certain}} wisely to better find to find the best way to get Jumi away from Agata.\n",
+      "after": "[u1691 | 02:27:38.400-02:27:51.000 | Kenzo] I think I think we should use the question to Shakun wisely to better find to find the best way to get Jumi away from Agata.\n"
+    },
+    "u0619": {
+      "before": "[u0619 | 00:54:20.010-00:54:23.640 | DM] And the barrier the protections of {{an}}.\n",
+      "after": "[u0619 | 00:54:20.010-00:54:23.640 | DM] And the barrier the protections of Dunmar.\n"
+    },
+    "u0664": {
+      "before": "[u0664 | 00:58:06.150-00:58:07.830 | DM] The storm giant {{frogs are}}.\n",
+      "after": "[u0664 | 00:58:06.150-00:58:07.830 | DM] The storm giant Hralgar.\n"
+    },
+    "u2718": {
+      "before": "[u2718 | 03:41:16.530-03:41:17.100 | DM] {{Has}}.\n",
+      "after": "[u2718 | 03:41:16.530-03:41:17.100 | DM] Drikod.\n"
+    },
+    "u1241": {
+      "before": "[u1241 | 01:47:18.690-01:47:20.160 | Kenzo] {{Chinchilla}} is indeed the heart.\n",
+      "after": "[u1241 | 01:47:18.690-01:47:20.160 | Kenzo] Cintra is indeed the heart.\n"
+    },
+    "u2522": {
+      "before": "[u2522 | 03:27:34.290-03:27:39.930 | Kenzo] yeah like like you know what I'm drawing power I'm trying to draw power from {{ships}} like from the well.\n",
+      "after": "[u2522 | 03:27:34.290-03:27:39.930 | Kenzo] yeah like like you know what I'm drawing power I'm trying to draw power from Shakun like from the well.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T03:44:21.269066+00:00",
+      "sha256": "6bd33dfdc5ed4061b99c067e343eaf518d509e562e72e9a835e1065899123297"
+    }
+  ],
+  "runId": "20261028T034421236632Z-a86bdfda",
+  "createdAt": "2026-10-28T03:44:21.236969+00:00"
+}

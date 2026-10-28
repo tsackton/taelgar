@@ -936,7 +936,7 @@
 [u0936 | 01:22:33.770-01:22:35.670 | Delwath] Wait, did Cha'mutte's death?
 [u0937 | 01:22:36.790-01:22:42.129 | Delwath] caused this… Cha'mutte's death caused this wound, right? Did it?
 [u0938 | 01:22:42.130-01:22:43.830 | DM] Yes. Yeah, yeah, yeah.
-[u0939 | 01:22:43.830-01:22:49.639 | Delwath] So do we need to go to, like, the {{Ehrlich Modest}}… Urlich Pass, and, like… that's probably…
+[u0939 | 01:22:43.830-01:22:49.639 | Delwath] So do we need to go to, like, the Urlich Monastery… Urlich Pass, and, like… that's probably…
 [u0940 | 01:22:50.140-01:22:52.059 | Delwath] That's nearby here, right?
 [u0941 | 01:22:52.970-01:22:53.880 | Wellby] Ish?
 [u0942 | 01:22:56.480-01:22:57.340 | Kenzo] Wait, what?
@@ -1319,7 +1319,7 @@
 [u1319 | 01:52:39.720-01:52:43.399 | Delwath] We didn't leave Tollen in… Any bad way.
 [u1320 | 01:52:43.400-01:52:45.630 | DM] No, but people in Tollen like you.
 [u1321 | 01:52:45.910-01:52:46.839 | Delwath] Yeah, and we have, like.
-[u1322 | 01:52:46.840-01:52:50.450 | DM] {{Tom}} can decide if Kenzo wants to reconnect with that.
+[u1322 | 01:52:46.840-01:52:50.450 | DM] Kong can decide if Kenzo wants to reconnect with that.
 [u1323 | 01:52:52.580-01:52:52.920 | Kenzo] Oh, yeah.
 [u1324 | 01:52:52.920-01:52:53.740 | Delwath] What's her name?
 [u1325 | 01:52:53.740-01:52:57.929 | DM] Kenzo's got a love interest in Tollen. {{Beryl's}} got a love interest in Tollen.

@@ -35,9 +35,7 @@ A dwarf traditionally receives their adult name during their pilgrimage to the H
 Dwarves ascribe meaning to their clan names and often, though not always, render them in a trade tongue when introducing themselves.
 
 %%^Campaign:none%%
-Dwarven names are, generally speaking, influenced by Tolkien's Dwarvish, with clan names represented in English ("Common"), but this does not have to be the case and there is room for diverse naming traditions and unusual exceptions to this general pattern. 
-
-It is unclear if all dwarves who share a clan name also share (possibly distant) kinship. 
+It is unclear if all dwarves who share a clan name also share (possibly distant) kinship.
 %%^End%%
 ## Lifecycle
 

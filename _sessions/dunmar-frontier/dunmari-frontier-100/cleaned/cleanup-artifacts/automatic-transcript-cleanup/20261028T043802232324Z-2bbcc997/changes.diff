@@ -1,0 +1,20 @@
+--- before/u0358
++++ after/u0358
+@@ -1 +1 @@
+-[u0358 | 00:24:37.630-00:24:42.850 | Delwath] his age, mates, {{his car}}, his generation, all the things that
++[u0358 | 00:24:37.630-00:24:42.850 | Delwath] his age, mates, his ka, his generation, all the things that
+--- before/u0574
++++ after/u0574
+@@ -1 +1 @@
+-[u0574 | 00:38:16.620-00:38:18.230 | DM] {{grotes Blade}}, and
++[u0574 | 00:38:16.620-00:38:18.230 | DM] Grash's blade, and
+--- before/u0585
++++ after/u0585
+@@ -1 +1 @@
+-[u0585 | 00:38:51.430-00:38:57.790 | DM] Chalice of the Runepriest among the Orcs for saving {{sarcast}} among the most famous of all
++[u0585 | 00:38:51.430-00:38:57.790 | DM] Chalice of the Runepriest among the Orcs for saving Xurkhaz among the most famous of all
+--- before/u1394
++++ after/u1394
+@@ -1 +1 @@
+-[u1394 | 01:27:33.020-01:27:36.924 | DM] {{Alder and L}}, some Warlock patron on the plane of water.
++[u1394 | 01:27:33.020-01:27:36.924 | DM] elder elemental, some Warlock patron on the plane of water.

@@ -1,0 +1,15 @@
+--- before/u0183
++++ after/u0183
+@@ -1 +1 @@
+-[u0183 | 00:12:25.480-00:12:28.209 | DM] {{Gowa}} sort of glancing down at the body.
++[u0183 | 00:12:25.480-00:12:28.209 | DM] Delwath sort of glancing down at the body.
+--- before/u0520
++++ after/u0520
+@@ -1 +1 @@
+-[u0520 | 00:34:35.790-00:34:37.140 | Delwath] {{Swati’s power.}}
++[u0520 | 00:34:35.790-00:34:37.140 | Delwath] Meswati’s power.
+--- before/u1460
++++ after/u1460
+@@ -1 +1 @@
+-[u1460 | 01:30:01.640-01:30:05.319 | Delwath] {{Severus}}, or somebody like that was off hunting treasure in Illoria right like.
++[u1460 | 01:30:01.640-01:30:05.319 | Delwath] Servius, or somebody like that was off hunting treasure in Illoria right like.

@@ -10,7 +10,7 @@
 [u0010 | 00:00:30.440-00:00:31.170 | Seeker] Of it.
 [u0011 | 00:00:32.930-00:00:33.990 | Kenzo] Continue.
 [u0012 | 00:00:40.790-00:00:49.500 | DM] A light snow begins to fall from the overcast sky, but to the south and the west, in the more hospitable lands of the Green Sea, and beyond spring
-[u0013 | 00:00:49.510-00:00:53.270 | DM] has come in full force in {{Poland}}. The trees are in bloom
+[u0013 | 00:00:49.510-00:00:53.270 | DM] has come in full force in Tollen. The trees are in bloom
 [u0014 | 00:00:54.000-00:01:00.429 | DM] as the warm winds blow off the western gulf, and the markets bustle with the early season trade
 [u0015 | 00:01:01.210-00:01:08.520 | DM] in Chardon an unseasonable heat wave lies heavy on the city, bringing short tempers and oppressive miasma.
 [u0016 | 00:01:08.940-00:01:16.170 | DM] Tension rises, and the Legion is out in force, keeping the peace. As the city waits for the spring rains
@@ -192,7 +192,7 @@
 [u0192 | 00:11:58.060-00:11:58.730 | Seeker] Yeah.
 [u0193 | 00:11:58.950-00:11:59.939 | Kenzo] We miss him too.
 [u0194 | 00:12:02.450-00:12:04.060 | Delwath] We could. We could get them.
-[u0195 | 00:12:05.660-00:12:11.189 | DM] Is he in the mirror, or is he? On the {{ninth}}? I thought he was on Vindristjarna, keeping an eye on everybody.
+[u0195 | 00:12:05.660-00:12:11.189 | DM] Is he in the mirror, or is he? On the Vindristjarna? I thought he was on Vindristjarna, keeping an eye on everybody.
 [u0196 | 00:12:11.387-00:12:11.980 | Wellby] Sharing for me.
 [u0197 | 00:12:12.360-00:12:15.050 | Delwath] I guess it would be kind of a pain to go back to Vindristjarna.
 [u0198 | 00:12:15.570-00:12:18.260 | Wellby] And if we took him who would watch out for Vindristjarna.
@@ -516,7 +516,7 @@
 [u0516 | 00:33:06.510-00:33:12.489 | DM] tribes, and then the Vargaldi merchants will take goods into town.
 [u0517 | 00:33:12.850-00:33:13.679 | Kenzo] Got it.
 [u0518 | 00:33:13.680-00:33:16.829 | DM] That's kind of like the vision you saw in the in the mirror
-[u0519 | 00:33:16.960-00:33:26.229 | DM] a long time ago in {{Poland}}. Right? Was a more of a trade network like that. So you like, you're definitely sucking up a lot of the energy in towns right now, because of the sort of
+[u0519 | 00:33:16.960-00:33:26.229 | DM] a long time ago in Tollen. Right? Was a more of a trade network like that. So you like, you're definitely sucking up a lot of the energy in towns right now, because of the sort of
 [u0520 | 00:33:26.805-00:33:32.790 | DM] what's very unusual about you is like the famous hunter brought their own goods to market, is sort of.
 [u0521 | 00:33:39.760-00:33:44.809 | Delwath] I'm gonna let everybody else sort of do the wandering around and talking to the
 [u0522 | 00:33:47.180-00:33:53.350 | Delwath] lower class folk, you know, sort of talking to the more common people. I want to find out if there's any way like
@@ -1867,7 +1867,7 @@
 [u1867 | 02:04:24.250-02:04:24.930 | Delwath] I'm.
 [u1868 | 02:04:25.150-02:04:27.259 | Wellby] And sorry this is stepping back.
 [u1869 | 02:04:27.450-02:04:28.270 | Wellby] I'm just.
-[u1870 | 02:04:29.160-02:04:33.730 | Wellby] Should we tell him the story of {{Akada}} and Apollyon like how much
+[u1870 | 02:04:29.160-02:04:33.730 | Wellby] Should we tell him the story of Agata and Apollyon like how much
 [u1871 | 02:04:33.750-02:04:36.019 | Wellby] backstory is worth sharing there.
 [u1872 | 02:04:36.550-02:04:37.699 | Wellby] or is it as simple.
 [u1873 | 02:04:37.700-02:04:38.619 | Riswynn] But in the wet.
@@ -2395,7 +2395,7 @@
 [u2395 | 02:35:49.500-02:35:50.220 | Kenzo] Is he
 [u2396 | 02:35:50.380-02:35:51.530 | Kenzo] one of your kind?
 [u2397 | 02:35:56.403-02:35:57.190 | DM] No longer.
-[u2398 | 02:35:58.790-02:36:00.299 | Kenzo] Is he shunned? {{Brad}}.
+[u2398 | 02:35:58.790-02:36:00.299 | Kenzo] Is he shunned? Branek.
 [u2399 | 02:36:05.340-02:36:07.860 | DM] He is living a simple life as a woodsman.
 [u2400 | 02:36:08.920-02:36:10.339 | DM] It is what suits him.
 [u2401 | 02:36:12.050-02:36:14.449 | Kenzo] Perhaps when we complete our quest
@@ -2828,7 +2828,7 @@
 [u2828 | 03:02:59.430-03:03:02.629 | DM] you will not have the opportunity to vanish
 [u2829 | 03:03:05.480-03:03:06.290 | DM] after that.
 [u2830 | 03:03:07.110-03:03:08.000 | DM] or
-[u2831 | 03:03:08.630-03:03:12.729 | DM] {{Lidmilla}} comes to wake you for breakfast. You must be gone.
+[u2831 | 03:03:08.630-03:03:12.729 | DM] Ludmila comes to wake you for breakfast. You must be gone.
 [u2832 | 03:03:13.230-03:03:14.660 | Seeker] Can we still have a magic carpet.
 [u2833 | 03:03:17.930-03:03:19.750 | Delwath] Wait. We don't have any way.
 [u2834 | 03:03:21.700-03:03:22.680 | Delwath] am.

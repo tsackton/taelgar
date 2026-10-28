@@ -1,0 +1,334 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-129",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-129/cleaned/dunmari-frontier-129-source-cleaned.md",
+  "beforeSha256": "a335e7ac349f02f5a31924fef14a7bbda42d656c3fc327587bef7ed01cf98162",
+  "afterSha256": "cb66236be082508fd3261fa7933d62cd6c837db517bb0e8cb7824123f04f9a0b",
+  "markersBefore": 23,
+  "groups": [
+    {
+      "id": "board-and-kenzo",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Kenzo is clear and Chardon is plausible, but the complete marked phrase may contain a false start or conjunction. No unique whole-span name replacement preserves the uncertain wording.",
+      "evidence": [],
+      "candidates": [
+        "Chardon",
+        "Kenzo"
+      ],
+      "markerIds": [
+        "u0689:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0689:m1": "{{chart and Kenzo}}"
+      }
+    },
+    {
+      "id": "cloud-size-comparison",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The marked comparison could refer to Vindristjarna or could be ordinary size wording such as decent-sized. The ship is a plausible comparison, but the complete marked phrase is not uniquely recoverable.",
+      "evidence": [
+        {
+          "path": "Things/Ships/Vindristjarna.md",
+          "sha256": "8c55e2b0e0e818abbe72532bc573a1f0e4d51e592e5b81ceda0d3ec23fc50e27"
+        }
+      ],
+      "candidates": [
+        "Vindristjarna"
+      ],
+      "markerIds": [
+        "u1667:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1667:m1": "{{Vincent's size}}"
+      }
+    },
+    {
+      "id": "douren",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Marcella describes the river on the western edge of the Plaguelands that runs through difficult gorges. The Douren reference and Plaguelands geography establish this uniquely.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Major Rivers/Istaros Watershed/Douren.md",
+          "sha256": "e28a8be8a79a0a334fd6d4e005fc9459f6823407c50717f5d50f39c06caee97c"
+        },
+        {
+          "path": "Gazetteer/Upper Istaros/Plaguelands.md",
+          "sha256": "de4a37b6f2dd4f8ad5b14c7eba2e8923c56304db6395d1e16e8282fdaeaa6201"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1276:m1"
+      ],
+      "replacements": {
+        "u1276:m1": "Douren"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "future-teaching-place",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Kazuro and Calcara Island are plausible contextual connections, but the marked words are an unclear place description rather than a recoverable name. Replacing them with a location would supply wording not established by the utterance.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Kazuro.md",
+          "sha256": "54bf7867244da1da5baf88e8710db0315b1d462245fa0a26f1c5a69b9aa47bef"
+        },
+        {
+          "path": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Calcara Island.md",
+          "sha256": "f999405bdd8e0334184868c33c9b28d28176ea3b4dc8ef2367a644c3c77971e8"
+        }
+      ],
+      "candidates": [
+        "Calcara Island"
+      ],
+      "markerIds": [
+        "u0620:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0620:m1": "{{inside place}}"
+      }
+    },
+    {
+      "id": "local-university",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Wellby is researching planar travel while staying in Chardon; the local University of Chardon has a Faculty of Metaphysics for planar studies. That institution is strongly favored over the unestablished Bend form.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/University of Chardon.md",
+          "sha256": "190cdf7f84062f10d253020681d326239a6161958a5b97221bb688c34fcf2f21"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0644:m1"
+      ],
+      "replacements": {
+        "u0644:m1": "University of Chardon"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ordinary-wording-and-mechanics",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "These spans contain ordinary speech, descriptive wording, participant chatter, or rules discussion. Resolving them would require prose or mechanics reconstruction rather than a supported setting-name correction.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0058:m1",
+        "u0226:m1",
+        "u0295:m1",
+        "u0296:m1",
+        "u0342:m1",
+        "u1029:m1",
+        "u1119:m1",
+        "u1214:m1",
+        "u1406:m1",
+        "u1719:m1",
+        "u2079:m1",
+        "u2188:m1",
+        "u2206:m1",
+        "u2395:m1",
+        "u2583:m1",
+        "u2585:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0058:m1": "{{Or buyers that they license.}}",
+        "u0226:m1": "{{he is not land}}",
+        "u0295:m1": "{{Unclear exactly how we use…}}",
+        "u0296:m1": "{{Is getting the land he wants to trade for you}}",
+        "u0342:m1": "{{Natural capabilities}}",
+        "u1029:m1": "{{Kit, Eric, and I, both Kit,}}",
+        "u1119:m1": "{{teleportation planeship projects}}",
+        "u1214:m1": "{{we crossed}}",
+        "u1406:m1": "{{white}}",
+        "u1719:m1": "{{That must be transport into their mind.}}",
+        "u2079:m1": "{{must exceed most of them}}",
+        "u2188:m1": "{{Can possibly do with stealth is 27.}}",
+        "u2206:m1": "{{Spell the CM.}}",
+        "u2395:m1": "{{Kind of still astral planning.}}",
+        "u2583:m1": "{{We do not.}}",
+        "u2585:m1": "{{near that city.}}"
+      }
+    },
+    {
+      "id": "plaguelands",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The near spelling and repeated discussion of the approaching host from the Plaguelands strongly favor the established regional name. The awkward following statement about pace is preserved, without substituting hobgoblins or reconstructing the sentence.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Upper Istaros/Plaguelands.md",
+          "sha256": "de4a37b6f2dd4f8ad5b14c7eba2e8923c56304db6395d1e16e8282fdaeaa6201"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0830:m1"
+      ],
+      "replacements": {
+        "u0830:m1": "Plaguelands"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "yeraad-basin",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The opening recounts the flight to the Chataan Mountains. Session 127 explicitly places that flight across the Yeraad Watershed, whose reference note calls it the Yeraad River Basin.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Major Rivers/Yeraad Watershed/Yeraad Watershed.md",
+          "sha256": "2d04524dd26dbbe0db02a78a7012a31a08f5843e3a9de709327c89823e02975f"
+        },
+        {
+          "path": "Gazetteer/Greater Chardon/Rivers/Yeraad.md",
+          "sha256": "7c338093a36b1cb8f148dde4f7134e5165cf7367d68c749cd4ed8351ae05ab30"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 127 (DuFr).md",
+          "sha256": "72f82960f4b233ebeb43fdcc2ccbb0d628673685ef1c6f7624fb05a5b46257d3"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0017:m1"
+      ],
+      "replacements": {
+        "u0017:m1": "Yeraad River Basin"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0017:m1",
+      "uid": "u0017",
+      "ordinal": 1,
+      "lineNumber": 17,
+      "start": 94,
+      "end": 114,
+      "before": "{{Iran River Basin}}",
+      "span": "Iran River Basin",
+      "line": "[u0017 | 00:01:24.049-00:01:29.919 | DM] who tells him that you are moving quickly across the {{Iran River Basin}}.",
+      "contextBefore": [
+        "[u0015 | 00:01:14.599-00:01:16.699 | DM] I'm just forgetting all the names here.",
+        "[u0016 | 00:01:17.479-00:01:21.919 | DM] He speaks with Tristan Brighteyes, the Windcaller who is traveling with you."
+      ],
+      "contextAfter": [
+        "[u0018 | 00:01:30.269-00:01:33.889 | DM] And should be arriving in the Chataan Mountains shortly.",
+        "[u0019 | 00:01:34.689-00:01:40.419 | DM] And from everything he's seen, He's never seen a… more…"
+      ],
+      "after": "Yeraad River Basin",
+      "group": "yeraad-basin",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0644:m1",
+      "uid": "u0644",
+      "ordinal": 1,
+      "lineNumber": 644,
+      "start": 67,
+      "end": 89,
+      "before": "{{University of Bend}}",
+      "span": "University of Bend",
+      "line": "[u0644 | 01:00:21.310-01:00:25.289 | Wellby] talk to people at the {{University of Bend}}, or find maps of….",
+      "contextBefore": [
+        "[u0642 | 01:00:14.630-01:00:17.639 | Wellby] You understand, like, what are we gonna find there?",
+        "[u0643 | 01:00:18.280-01:00:20.759 | Wellby] So, trying to research any of that, or…"
+      ],
+      "contextAfter": [
+        "[u0645 | 01:00:25.290-01:00:27.650 | Seeker] how to get around, but….",
+        "[u0646 | 01:00:27.650-01:00:28.140 | Wellby] just what."
+      ],
+      "after": "University of Chardon",
+      "group": "local-university",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0830:m1",
+      "uid": "u0830",
+      "ordinal": 1,
+      "lineNumber": 830,
+      "start": 89,
+      "end": 102,
+      "before": "{{Plaguands}}",
+      "span": "Plaguands",
+      "line": "[u0830 | 01:18:48.380-01:18:52.600 | DM] It's difficult to get reliable estimates of the {{Plaguands}}.",
+      "contextBefore": [
+        "[u0828 | 01:18:31.210-01:18:37.550 | Delwath] … At current pace, it'll be 5 more days until we arrive.",
+        "[u0829 | 01:18:44.990-01:18:47.770 | DM] I… I hope that is in time."
+      ],
+      "contextAfter": [
+        "[u0831 | 01:18:53.710-01:18:54.840 | DM] Pace.",
+        "[u0832 | 01:18:55.640-01:18:58.670 | DM] But the last Scouts that I heard of, anyway."
+      ],
+      "after": "Plaguelands",
+      "group": "plaguelands",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1276:m1",
+      "uid": "u1276",
+      "ordinal": 1,
+      "lineNumber": 1276,
+      "start": 85,
+      "end": 93,
+      "before": "{{DORA}}",
+      "span": "DORA",
+      "line": "[u1276 | 01:48:51.400-01:48:57.580 | DM] Hardly anyone goes beyond the course of the {{DORA}}, and that's… 40 miles from here.",
+      "contextBefore": [
+        "[u1274 | 01:48:35.730-01:48:38.280 | Delwath] No Man's Land, it's the edge of the Plaguelands.",
+        "[u1275 | 01:48:40.930-01:48:49.960 | DM] Oh, that, that's… That's not far, that's… … …"
+      ],
+      "contextAfter": [
+        "[u1277 | 01:48:59.900-01:49:01.110 | DM] Give or take.",
+        "[u1278 | 01:49:02.730-01:49:08.610 | DM] It's a hard river to cross, runs through a gorge for a good portion of its course, and…"
+      ],
+      "after": "Douren",
+      "group": "douren",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u0017": {
+      "before": "[u0017 | 00:01:24.049-00:01:29.919 | DM] who tells him that you are moving quickly across the {{Iran River Basin}}.\n",
+      "after": "[u0017 | 00:01:24.049-00:01:29.919 | DM] who tells him that you are moving quickly across the Yeraad River Basin.\n"
+    },
+    "u0830": {
+      "before": "[u0830 | 01:18:48.380-01:18:52.600 | DM] It's difficult to get reliable estimates of the {{Plaguands}}.\n",
+      "after": "[u0830 | 01:18:48.380-01:18:52.600 | DM] It's difficult to get reliable estimates of the Plaguelands.\n"
+    },
+    "u0644": {
+      "before": "[u0644 | 01:00:21.310-01:00:25.289 | Wellby] talk to people at the {{University of Bend}}, or find maps of….\n",
+      "after": "[u0644 | 01:00:21.310-01:00:25.289 | Wellby] talk to people at the University of Chardon, or find maps of….\n"
+    },
+    "u1276": {
+      "before": "[u1276 | 01:48:51.400-01:48:57.580 | DM] Hardly anyone goes beyond the course of the {{DORA}}, and that's… 40 miles from here.\n",
+      "after": "[u1276 | 01:48:51.400-01:48:57.580 | DM] Hardly anyone goes beyond the course of the Douren, and that's… 40 miles from here.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:54:56.885569+00:00",
+      "sha256": "cb66236be082508fd3261fa7933d62cd6c837db517bb0e8cb7824123f04f9a0b"
+    }
+  ],
+  "runId": "20261028T045456746883Z-990970cc",
+  "createdAt": "2026-10-28T04:54:56.747208+00:00"
+}

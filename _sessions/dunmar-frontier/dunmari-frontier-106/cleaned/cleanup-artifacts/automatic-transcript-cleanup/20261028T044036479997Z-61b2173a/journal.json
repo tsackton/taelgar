@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-106",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-source-cleaned.md",
+  "beforeSha256": "2297f5b79da2bd06c6222e6fe47f006d7fa45ebb31d7a92f996ab51b3cb34ec8",
+  "afterSha256": "2297f5b79da2bd06c6222e6fe47f006d7fa45ebb31d7a92f996ab51b3cb34ec8",
+  "markersBefore": 17,
+  "groups": [
+    {
+      "id": "incomplete-position-reference",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The point is discussed in relation to Kenzo and Seeker, but the single marked syllable does not establish the missing referent; Seeker, another participant, or an unfinished utterance remain possible. Retain rather than infer a battle-map position.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-session.yaml",
+          "sha256": "c225616a1b2e36a49c169564ae46286257cb3775f6413fa8664879a26d14eea7"
+        }
+      ],
+      "candidates": [
+        "Seeker"
+      ],
+      "markerIds": [
+        "u0525:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0525:m1": "{{a}}"
+      }
+    },
+    {
+      "id": "ordinary-wording-and-mechanics",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "These spans concern ordinary wording, turn cues, damage statements, numbers, or mechanics. The fragments Will be fixed and Harold occur in damage and turn-transition dialogue, with Wellby already identified; repairing either complete phrase would reconstruct ordinary speech rather than resolve a standalone name. No wording is reconstructed in this pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0253:m1",
+        "u0259:m1",
+        "u0464:m1",
+        "u0483:m1",
+        "u0878:m1",
+        "u0945:m1",
+        "u0974:m1",
+        "u1041:m1",
+        "u1355:m1",
+        "u1428:m1",
+        "u2001:m1",
+        "u2064:m1",
+        "u2237:m1",
+        "u2298:m1",
+        "u2533:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0253:m1": "{{Uncomfortable}}",
+        "u0259:m1": "{{78, 5 to 12}}",
+        "u0464:m1": "{{25, 12, 19, 15, 28}}",
+        "u0483:m1": "{{3 strikes}}",
+        "u0878:m1": "{{Will be fixed}}",
+        "u0945:m1": "{{Seen by}}",
+        "u0974:m1": "{{40 to want the 1st to crit}}",
+        "u1041:m1": "{{Harold}}",
+        "u1355:m1": "{{fix}}",
+        "u1428:m1": "{{I was earned}}",
+        "u2001:m1": "{{go music}}",
+        "u2064:m1": "{{I'll send you to double check}}",
+        "u2237:m1": "{{lake}}",
+        "u2298:m1": "{{acquaint}}",
+        "u2533:m1": "{{toss us back and stare}}"
+      }
+    },
+    {
+      "id": "possible-spoken-name-mistake",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Delwath is an established participant, but the immediately preceding action has Delwath block the vine and Wellby be hit and dragged close. The marked name could be a spoken mistake rather than an ASR error; retain it rather than substitute the factually expected name or silently remove the uncertainty.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-106/cleaned/dunmari-frontier-106-session.yaml",
+          "sha256": "c225616a1b2e36a49c169564ae46286257cb3775f6413fa8664879a26d14eea7"
+        }
+      ],
+      "candidates": [
+        "Delwath",
+        "Wellby"
+      ],
+      "markerIds": [
+        "u1122:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1122:m1": "{{Delwath}}"
+      }
+    }
+  ],
+  "changes": [],
+  "lines": {},
+  "undoneMarkerIds": [],
+  "state": "reviewed_no_changes",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:40:36.481532+00:00",
+      "sha256": "2297f5b79da2bd06c6222e6fe47f006d7fa45ebb31d7a92f996ab51b3cb34ec8"
+    }
+  ],
+  "runId": "20261028T044036479997Z-61b2173a",
+  "createdAt": "2026-10-28T04:40:36.480303+00:00"
+}

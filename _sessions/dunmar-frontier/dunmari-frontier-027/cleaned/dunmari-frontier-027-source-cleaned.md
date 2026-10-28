@@ -25,7 +25,7 @@
 [u0025 | 00:03:22.980-00:03:28.200 | DM] As Candrosa finishes his prayer, this vision fades and the funeral service concludes.
 [u0026 | 00:03:29.730-00:03:40.110 | DM] You recall the events of the evening, the ritual, the rite of Shakun that started with visions of Dunmar, the forest falling to flames, and then a city spreading like {{is}} across the land.
 [u0027 | 00:03:40.830-00:03:50.160 | DM] washed clean then into the mountains on a path approaching a small village falling through the earth to see a waterfall cascading down the facade of a building.
-[u0028 | 00:03:50.580-00:03:59.250 | DM] Powering small {{atomic}}, focusing in to see an ancient lantern on a beautiful mantel, which became the setting sun behind a ship at sea, leaving port.
+[u0028 | 00:03:50.580-00:03:59.250 | DM] Powering small automata, focusing in to see an ancient lantern on a beautiful mantel, which became the setting sun behind a ship at sea, leaving port.
 [u0029 | 00:04:00.000-00:04:14.880 | DM] Until the visions faded into the night sky full of stars and then the clarity of this web of Shakun's magic, the net that is the souls of the Mystai that hold the power of Dunmar together, but is missing its center.
 [u0030 | 00:04:16.020-00:04:29.430 | DM] And the vision ended with a woman who was maybe also a mesa reaching out for you and asking for help, as the silence of the ritual was broken by screams of the attack of the shadow {{doctors}}.
 [u0031 | 00:04:32.340-00:04:34.920 | DM] Now, as the funeral service concludes.

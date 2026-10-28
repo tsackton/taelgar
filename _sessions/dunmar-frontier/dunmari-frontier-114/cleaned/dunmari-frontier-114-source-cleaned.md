@@ -35,7 +35,7 @@
 [u0035 | 00:05:09.540-00:05:36.330 | DM] You are left now with the task of finding some memento in the city of Drankor. Of the 3 remaining people, Seraphina Appleblossom, a halfling and proprietor of the Laughing Wave, a lively tavern that Wellby was able to see a vision of in his ancestral memories on a side street near the massive Custom House, on the docks of Drankor.
 [u0036 | 00:05:38.755-00:05:43.570 | DM] Khemut of Targu a
 [u0037 | 00:05:43.930-00:05:59.069 | DM] foreigner, presumably from a strange place based on the name and the location. Targu. More than that is hard to say, but your surmise was that this person may have been a sailor or a traveler.
-[u0038 | 00:05:59.850-00:06:16.130 | DM] and if you were to find information about them anywhere, it would also likely be the docks, and finally Minarith {{Aparinar}}, an elf. But one of the elves that had lived for many years with humans.
+[u0038 | 00:05:59.850-00:06:16.130 | DM] and if you were to find information about them anywhere, it would also likely be the docks, and finally Minarith a peronar, an elf. But one of the elves that had lived for many years with humans.
 [u0039 | 00:06:16.600-00:06:22.679 | DM] also of Drankor, of which you have no information.
 [u0040 | 00:06:23.416-00:06:30.510 | DM] And so, as you settle in for the night take a long rest.
 [u0041 | 00:06:30.740-00:06:34.429 | Seeker] Oh, long rest.
@@ -161,7 +161,7 @@
 [u0161 | 00:13:56.430-00:13:56.990 | Seeker] Never remember.
 [u0162 | 00:13:57.220-00:14:12.870 | Delwath] Yeah, yeah. So we could. Okay, so step one is that we should stop talking about this. And we should figure out how to find the remaining pieces of these 7 people. The memory items of these 7 people right.
 [u0163 | 00:14:12.870-00:14:14.700 | Seeker] That's the business for the morning. Yes.
-[u0164 | 00:14:15.100-00:14:20.460 | DM] Seraphina Appleblossom, Khemut of Targu and Minarith, the {{peranar}} are the 3 that we need.
+[u0164 | 00:14:15.100-00:14:20.460 | DM] Seraphina Appleblossom, Khemut of Targu and Minarith, the peronar are the 3 that we need.
 [u0165 | 00:14:20.460-00:14:28.120 | Riswynn] But we're sitting around talking about this, perhaps while we spend an hour having a Heroes' Feast, because otherwise we're going to be terrified as soon as we leave the building.
 [u0166 | 00:14:28.120-00:14:30.250 | Delwath] Yeah, if yeah, we should do so.
 [u0167 | 00:14:30.589-00:14:31.750 | Riswynn] Nice it is.
@@ -232,7 +232,7 @@
 [u0232 | 00:18:49.790-00:18:55.080 | Delwath] There's the mystery dude person, whatever
 [u0233 | 00:18:55.490-00:19:02.570 | Delwath] from the docks, or who we think is near the docks. And then there's the final person who I don't think we know anything about.
 [u0234 | 00:19:04.120-00:19:09.839 | DM] So everybody gets increase. Your Max. Hit points by 12. From Heroes' Feast.
-[u0235 | 00:19:11.940-00:19:18.549 | DM] You don't know anything about Minarith, except that he was a {{paranor}}.
+[u0235 | 00:19:11.940-00:19:18.549 | DM] You don't know anything about Minarith, except that he was a peronar.
 [u0236 | 00:19:19.080-00:19:21.809 | Delwath] Now, if we are taking a
 [u0237 | 00:19:22.140-00:19:27.999 | Delwath] if we are taking an hour to cast Heroes' Feast, I'm going to spell up a little bit. I'll cast aid.
 [u0238 | 00:19:29.370-00:19:34.809 | DM] You can't short rest while you're Heroes' Feasting.
@@ -534,7 +534,7 @@
 [u0534 | 00:43:18.680-00:43:19.320 | Delwath] The the.
 [u0535 | 00:43:19.320-00:43:20.580 | Seeker] Stuff that we're looking for.
 [u0536 | 00:43:20.580-00:43:24.109 | Riswynn] The human elf, friend, person, or the like.
-[u0537 | 00:43:24.440-00:43:26.720 | Delwath] The elf, human friend, {{Paranor}}.
+[u0537 | 00:43:24.440-00:43:26.720 | Delwath] The elf, human friend, peronar.
 [u0538 | 00:43:26.940-00:43:30.420 | Riswynn] {{Karen, or thank}} Elf elf who hung out with humans.
 [u0539 | 00:43:32.030-00:43:33.760 | Seeker] Main quest, in other words.
 [u0540 | 00:43:34.420-00:43:35.140 | Riswynn] Okay.
@@ -1429,9 +1429,9 @@
 [u1429 | 01:56:40.610-01:56:43.749 | DM] Major halfling holidays, or anything like that.
 [u1430 | 01:56:44.460-01:56:47.510 | Seeker] But I randomly know about a lot of religious stuff now.
 [u1431 | 01:56:47.510-01:56:51.140 | DM] That's true. There aren't really.
-[u1432 | 01:56:52.600-01:56:59.770 | DM] There aren't really like Major Halfling, I mean, there's nothing like the Dunmari festivals, or like {{Paravala}}, or any of the
+[u1432 | 01:56:52.600-01:56:59.770 | DM] There aren't really like Major Halfling, I mean, there's nothing like the Dunmari festivals, or like Pyravela, or any of the
 [u1433 | 01:57:00.990-01:57:02.839 | DM] you know big, I mean
-[u1434 | 01:57:04.310-01:57:11.559 | DM] {{Karavala}}. That thing you celebrated in Tollen was a holiday of the Eight Divines of {{Mas Numuna}}.
+[u1434 | 01:57:04.310-01:57:11.559 | DM] Pyravela. That thing you celebrated in Tollen was a holiday of the Eight Divines of Mos Numena.
 [u1435 | 01:57:11.580-01:57:19.090 | DM] {{Oma}}, you know for sure was celebrated in Drankor it could have been fireworks there. But but the
 [u1436 | 01:57:20.700-01:57:29.300 | DM] the vibe is much more. This wasn't like associated with I mean the the Punch Bowl is decorated with fireworks like you really get the sense that the
 [u1437 | 01:57:29.610-01:57:32.670 | DM] whoever owned this tavern just liked fireworks.
@@ -1478,7 +1478,7 @@
 [u1478 | 02:00:03.290-02:00:06.870 | Riswynn] {{had one}}. I'm gonna just say that word wrong forever.
 [u1479 | 02:00:07.930-02:00:09.310 | Riswynn] {{Hair more}}.
 [u1480 | 02:00:09.960-02:00:12.870 | Delwath] {{Part paranoid}}.
-[u1481 | 02:00:12.870-02:00:13.989 | DM] {{Or in our}}.
+[u1481 | 02:00:12.870-02:00:13.989 | DM] Peronar.
 [u1482 | 02:00:14.530-02:00:15.210 | Riswynn] Her.
 [u1483 | 02:00:15.210-02:00:15.810 | Delwath] {{Power, Board}}.
 [u1484 | 02:00:15.810-02:00:17.150 | Riswynn] I've ever gotten.
@@ -1520,7 +1520,7 @@
 [u1520 | 02:03:00.980-02:03:01.530 | Seeker] Right
 [u1521 | 02:03:13.940-02:03:18.400 | DM] I mean, you have about a million ways of asking for help. So.
 [u1522 | 02:03:20.180-02:03:22.390 | Seeker] Let's try one of those good point.
-[u1523 | 02:03:26.250-02:03:34.570 | Riswynn] I mean, like, ask, should we try searching in bars in this area for traces of the {{paranore}}
+[u1523 | 02:03:26.250-02:03:34.570 | Riswynn] I mean, like, ask, should we try searching in bars in this area for traces of the peronar
 [u1524 | 02:03:35.570-02:03:41.050 | Riswynn] like that's we're allowed to say, like this is a plan. This is a good plan. That's 1 of our.
 [u1525 | 02:03:41.370-02:03:42.200 | Delwath] Wow!
 [u1526 | 02:03:44.580-02:03:45.819 | Delwath] Oh, excuse me.
@@ -1528,15 +1528,15 @@
 [u1528 | 02:03:52.340-02:03:55.109 | Delwath] Searching for another trace of Khemut.
 [u1529 | 02:03:56.740-02:04:00.609 | Riswynn] Well, we're or do we just need?
 [u1530 | 02:04:01.000-02:04:04.939 | Riswynn] I guess we can't. Do. We have any ideas for traces of
-[u1531 | 02:04:07.360-02:04:12.140 | Riswynn] {{heroin work}} like I've sort of given up on Khemut because we have something.
+[u1531 | 02:04:07.360-02:04:12.140 | Riswynn] peronar like I've sort of given up on Khemut because we have something.
 [u1532 | 02:04:12.690-02:04:16.470 | Delwath] See, I'm taking the opposite approach. I still think
 [u1533 | 02:04:16.640-02:04:20.479 | Delwath] my feeling would be. We have evidence that Khemut was around here.
 [u1534 | 02:04:20.640-02:04:21.300 | Riswynn] Me!
 [u1535 | 02:04:21.300-02:04:27.039 | Delwath] So let's poke around some more and search more to see if we can find better information about Khemut.
 [u1536 | 02:04:28.190-02:04:35.539 | Riswynn] And I think the same thing that Khemut was around here, and we'll probably stumble along more information if we spend more time here.
 [u1537 | 02:04:36.670-02:04:42.599 | Riswynn] But I wonder if it's we might also find something about
-[u1538 | 02:04:42.870-02:04:47.539 | Riswynn] the {{Para, nor}}, or if we have to like, look somewhere else entirely.
-[u1539 | 02:04:48.130-02:04:55.339 | Riswynn] So I think we're going to ask the question, Is this a good place to look around for the {{paranor}}? If they say no, we can still decide.
+[u1538 | 02:04:42.870-02:04:47.539 | Riswynn] the peronar, or if we have to like, look somewhere else entirely.
+[u1539 | 02:04:48.130-02:04:55.339 | Riswynn] So I think we're going to ask the question, Is this a good place to look around for the peronar? If they say no, we can still decide.
 [u1540 | 02:04:55.610-02:04:57.010 | Delwath] Yeah, yeah, yeah, that makes sense.
 [u1541 | 02:04:57.010-02:04:58.000 | Riswynn] Yes.
 [u1542 | 02:04:58.000-02:05:00.029 | Delwath] It's a good use of questioning.
@@ -1587,7 +1587,7 @@
 [u1587 | 02:07:45.490-02:07:47.779 | DM] Okay, so what's your spell?
 [u1588 | 02:07:47.930-02:07:49.990 | DM] What's your question for the gods.
 [u1589 | 02:07:54.030-02:08:07.260 | Riswynn] Is searching this and other tavern like buildings of this region, promising approach to look for the.
-[u1590 | 02:08:12.180-02:08:18.630 | DM] Okay, Barazal return and say, the {{Paranar}}
+[u1590 | 02:08:12.180-02:08:18.630 | DM] Okay, Barazal return and say, the peronar
 [u1591 | 02:08:21.860-02:08:23.140 | DM] Minarith.
 [u1592 | 02:08:25.570-02:08:27.169 | DM] What would they say?
 [u1593 | 02:08:31.530-02:08:32.630 | DM] the.
@@ -1693,7 +1693,7 @@
 [u1693 | 02:17:14.700-02:17:20.459 | Kenzo] Any objects, Tim, that connect with anybody.
 [u1694 | 02:17:21.026-02:17:25.449 | DM] Coming from deeper in the in the
 [u1695 | 02:17:26.109-02:17:34.109 | DM] Custom House, coming from sort of this direction roughly.
-[u1696 | 02:17:34.729-02:17:40.099 | DM] you can sense a vibe from Khemut, nothing from the {{paranor}}.
+[u1696 | 02:17:34.729-02:17:40.099 | DM] you can sense a vibe from Khemut, nothing from the peronar.
 [u1697 | 02:17:42.139-02:17:43.529 | Kenzo] Go to the Khemut object.
 [u1698 | 02:17:43.530-02:17:44.440 | Delwath] Yes.
 [u1699 | 02:17:46.510-02:17:50.700 | Delwath] which sorry I wasn't on Roll20 when you said this direction. I was on the Zoom. What? What?
@@ -1905,7 +1905,7 @@
 [u1905 | 02:32:09.850-02:32:10.500 | Seeker] Right.
 [u1906 | 02:32:10.500-02:32:10.960 | Riswynn] We need it.
 [u1907 | 02:32:10.960-02:32:17.209 | DM] None of the scrolls seem to immediately be magical, although you still haven't figured out exactly why the
-[u1908 | 02:32:17.680-02:32:21.320 | DM] Barazal told you to look here for clues about the {{paranor}}.
+[u1908 | 02:32:17.680-02:32:21.320 | DM] Barazal told you to look here for clues about the peronar.
 [u1909 | 02:32:23.750-02:32:25.680 | DM] but you can run. That's fine.
 [u1910 | 02:32:25.680-02:32:31.110 | Delwath] Wait, wait! Wait! Did the Barazal tell us to look here, or look somewhere? I thought it was the docks.
 [u1911 | 02:32:34.080-02:32:36.600 | Delwath] What did the Barazal say, can you tell us again.
@@ -1977,7 +1977,7 @@
 [u1977 | 02:37:29.560-02:37:35.920 | DM] it seems like not only did some things go towards the
 [u1978 | 02:37:38.920-02:37:45.670 | DM] you know, to the merchants, but there was also, potentially, you think maybe 3 universities in Drankor?
 [u1979 | 02:37:45.850-02:37:50.980 | DM] There's a mention of the Imperial University, Valtrius University.
-[u1980 | 02:37:51.510-02:37:57.610 | DM] the {{Falorian}}, which sounds like a university based on the goods like describing books and things.
+[u1980 | 02:37:51.510-02:37:57.610 | DM] the Thalorian, which sounds like a university based on the goods like describing books and things.
 [u1981 | 02:38:01.590-02:38:06.229 | DM] There's, you know, shipbuilding. There's lots of
 [u1982 | 02:38:09.730-02:38:15.550 | DM] weapons and metal and armor. This is like describing manifests of ships that are bringing in
 [u1983 | 02:38:16.230-02:38:22.830 | DM] supplies for an army, but there's no mention of Minarith.
@@ -2099,8 +2099,8 @@
 [u2099 | 02:45:43.280-02:45:47.529 | DM] so it's like a log. It's like a list of of seemingly like rare
 [u2100 | 02:45:48.670-02:45:58.780 | DM] botanical herbs, or something that were shipped through Drankor, and the person they are being shipped to is listed as Minarith
 [u2101 | 02:45:58.880-02:46:01.150 | DM] faculty of Natural History.
-[u2102 | 02:46:01.490-02:46:08.389 | DM] The University of the {{Astane}} also referred to as the {{Thelorian}}.
-[u2103 | 02:46:12.360-02:46:15.829 | Riswynn] Universities also referred to as the {{Thore Laurean}}, or.
+[u2102 | 02:46:01.490-02:46:08.389 | DM] The University of the Aistanë also referred to as the Thalorian.
+[u2103 | 02:46:12.360-02:46:15.829 | Riswynn] Universities also referred to as the Thalorian, or.
 [u2104 | 02:46:15.830-02:46:20.209 | DM] Yeah. The university, like the Sorbonne, it's like the University of Paris or the Sorbonne.
 [u2105 | 02:46:26.700-02:46:29.080 | Kenzo] Awesome pocket it.
 [u2106 | 02:46:30.400-02:46:31.889 | Kenzo] We got all the things right.
@@ -2111,7 +2111,7 @@
 [u2111 | 02:46:46.830-02:46:48.840 | Delwath] Yeah, where's the university? Do we know.
 [u2112 | 02:46:50.600-02:46:55.510 | DM] So okay. 2. Meta. Here. 2 possibilities.
 [u2113 | 02:46:56.000-02:47:02.669 | DM] The original idea is this was an opportunity for Wellby to use his new power of his bow
-[u2114 | 02:47:03.490-02:47:07.540 | DM] to say, Find me the University of the {{Academy}}.
+[u2114 | 02:47:03.490-02:47:07.540 | DM] to say, Find me the University of the Aistanë.
 [u2115 | 02:47:09.580-02:47:18.430 | DM] So we've got 2 options here. I can just hand wave it. You can stumble across the university on your way back, or, since everybody's falling asleep. We could
 [u2116 | 02:47:18.840-02:47:24.649 | DM] return to the Temple, and you could go out again when Schwartz is here next time.
 [u2117 | 02:47:26.750-02:47:29.530 | Delwath] I'm happy to save the University to do with Schwartz.

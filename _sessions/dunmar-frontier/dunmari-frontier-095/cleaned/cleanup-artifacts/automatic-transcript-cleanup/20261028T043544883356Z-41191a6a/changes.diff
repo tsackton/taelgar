@@ -1,0 +1,30 @@
+--- before/u0013
++++ after/u0013
+@@ -1 +1 @@
+-[u0013 | 00:00:49.510-00:00:53.270 | DM] has come in full force in {{Poland}}. The trees are in bloom
++[u0013 | 00:00:49.510-00:00:53.270 | DM] has come in full force in Tollen. The trees are in bloom
+--- before/u0195
++++ after/u0195
+@@ -1 +1 @@
+-[u0195 | 00:12:05.660-00:12:11.189 | DM] Is he in the mirror, or is he? On the {{ninth}}? I thought he was on Vindristjarna, keeping an eye on everybody.
++[u0195 | 00:12:05.660-00:12:11.189 | DM] Is he in the mirror, or is he? On the Vindristjarna? I thought he was on Vindristjarna, keeping an eye on everybody.
+--- before/u0519
++++ after/u0519
+@@ -1 +1 @@
+-[u0519 | 00:33:16.960-00:33:26.229 | DM] a long time ago in {{Poland}}. Right? Was a more of a trade network like that. So you like, you're definitely sucking up a lot of the energy in towns right now, because of the sort of
++[u0519 | 00:33:16.960-00:33:26.229 | DM] a long time ago in Tollen. Right? Was a more of a trade network like that. So you like, you're definitely sucking up a lot of the energy in towns right now, because of the sort of
+--- before/u1870
++++ after/u1870
+@@ -1 +1 @@
+-[u1870 | 02:04:29.160-02:04:33.730 | Wellby] Should we tell him the story of {{Akada}} and Apollyon like how much
++[u1870 | 02:04:29.160-02:04:33.730 | Wellby] Should we tell him the story of Agata and Apollyon like how much
+--- before/u2398
++++ after/u2398
+@@ -1 +1 @@
+-[u2398 | 02:35:58.790-02:36:00.299 | Kenzo] Is he shunned? {{Brad}}.
++[u2398 | 02:35:58.790-02:36:00.299 | Kenzo] Is he shunned? Branek.
+--- before/u2831
++++ after/u2831
+@@ -1 +1 @@
+-[u2831 | 03:03:08.630-03:03:12.729 | DM] {{Lidmilla}} comes to wake you for breakfast. You must be gone.
++[u2831 | 03:03:08.630-03:03:12.729 | DM] Ludmila comes to wake you for breakfast. You must be gone.

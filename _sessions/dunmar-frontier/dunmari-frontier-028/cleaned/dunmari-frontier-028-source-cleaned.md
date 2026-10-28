@@ -616,7 +616,7 @@
 [u0616 | 00:53:57.600-00:54:04.530 | DM] She took the heart to the wellspring for only two weeks.
 [u0617 | 00:54:05.880-00:54:06.630 | DM] to heal.
 [u0618 | 00:54:10.500-00:54:16.410 | DM] let's see I guess it would have been my great uncle her brother.
-[u0619 | 00:54:20.010-00:54:23.640 | DM] And the barrier the protections of {{an}}.
+[u0619 | 00:54:20.010-00:54:23.640 | DM] And the barrier the protections of Dunmar.
 [u0620 | 00:54:25.500-00:54:34.860 | DM] Here I am speaking of these, but I guess, I can see that you know some of this already my I have been alone too long, my.
 [u0621 | 00:54:36.180-00:54:38.820 | DM] Caution wanes when I see a.
 [u0622 | 00:54:40.110-00:54:41.430 | DM] friendly face I guess.
@@ -661,7 +661,7 @@
 [u0661 | 00:57:53.670-00:57:54.390 | Seeker] vengeance.
 [u0662 | 00:58:00.840-00:58:04.680 | Seeker] I've written my sources on each of these. Very cleverly written.
 [u0663 | 00:58:04.920-00:58:05.520 | DM] That was.
-[u0664 | 00:58:06.150-00:58:07.830 | DM] The storm giant {{frogs are}}.
+[u0664 | 00:58:06.150-00:58:07.830 | DM] The storm giant Hralgar.
 [u0665 | 00:58:08.310-00:58:08.730 | Unknown] Okay.
 [u0666 | 00:58:12.990-00:58:13.680 | Seeker] Yes.
 [u0667 | 00:58:16.380-00:58:16.740 | Seeker] God.
@@ -1238,7 +1238,7 @@
 [u1238 | 01:47:02.460-01:47:06.630 | DM] She does not need weak mortal flesh to act.
 [u1239 | 01:47:07.950-01:47:14.280 | DM] I do not believe there is any way that she would allow the heart to be taken, while it is in her possession.
 [u1240 | 01:47:14.550-01:47:17.580 | Kenzo] And then perhaps we we tell her that.
-[u1241 | 01:47:18.690-01:47:20.160 | Kenzo] {{Chinchilla}} is indeed the heart.
+[u1241 | 01:47:18.690-01:47:20.160 | Kenzo] Cintra is indeed the heart.
 [u1242 | 01:47:21.180-01:47:28.080 | Kenzo] And that, for her to activate the true power of the heart, she needs to enter the wellspring with Cintra.
 [u1243 | 01:47:29.490-01:47:30.630 | Delwath] With with them.
 [u1244 | 01:47:31.950-01:47:32.820 | Delwath] what's her name too.
@@ -1688,7 +1688,7 @@
 [u1688 | 02:27:18.600-02:27:26.730 | Seeker] I think that if we just focus on that as the proximal goal everything else will become clear, once we have that.
 [u1689 | 02:27:29.220-02:27:31.560 | Seeker] {{Clear I shouldn't be today}}.
 [u1690 | 02:27:34.770-02:27:36.060 | Seeker] We could probably beat him.
-[u1691 | 02:27:38.400-02:27:51.000 | Kenzo] I think I think we should use the question to {{certain}} wisely to better find to find the best way to get Jumi away from Agata.
+[u1691 | 02:27:38.400-02:27:51.000 | Kenzo] I think I think we should use the question to Shakun wisely to better find to find the best way to get Jumi away from Agata.
 [u1692 | 02:27:52.200-02:28:06.390 | Delwath] So I think we're overthinking this there's only two possible plans we're spending a long time debating which of the two plans, there are, but if Shakun tells us whether Jumi is with Agata or not, then we know which plan we're going with.
 [u1693 | 02:28:06.780-02:28:11.820 | Kenzo] No, but I think there may be, I think I think we want no matter what we want Jumi here.
 [u1694 | 02:28:11.940-02:28:12.780 | Kenzo] We want yet.
@@ -2519,7 +2519,7 @@
 [u2519 | 03:27:07.350-03:27:15.660 | DM] whoo so as you as you hit him your first your first strike with your fist of Planar power doesn't quite hit right, but you just see this.
 [u2520 | 03:27:16.230-03:27:27.300 | DM] You can see his aura floating around you if you reach towards him, you you strike just at at a place where you're also punching his aura and he locks up he freezes for a moment.
 [u2521 | 03:27:29.340-03:27:33.870 | Kenzo] While this is going on, you know I spent eight hours communing with fucking Shakun on the other, like.
-[u2522 | 03:27:34.290-03:27:39.930 | Kenzo] yeah like like you know what I'm drawing power I'm trying to draw power from {{ships}} like from the well.
+[u2522 | 03:27:34.290-03:27:39.930 | Kenzo] yeah like like you know what I'm drawing power I'm trying to draw power from Shakun like from the well.
 [u2523 | 03:27:39.990-03:27:47.760 | Kenzo] You know, to me that's like you know so so just the well you know I'm trying, you know I'm not sure if the well flashes or if, like you know what I mean but it's like.
 [u2524 | 03:27:49.110-03:27:51.240 | Kenzo] that's where I'm trying to draw my my Planar Power from.
 [u2525 | 03:27:52.140-03:27:58.350 | DM] Okay well you just stunned, the main bad guy one of the main bad guys, which means he misses the next turn.
@@ -2715,7 +2715,7 @@
 [u2715 | 03:41:02.670-03:41:04.980 | DM] Her eyes turn black.
 [u2716 | 03:41:06.300-03:41:09.180 | DM] And she turns and looks at.
 [u2717 | 03:41:11.880-03:41:13.530 | Seeker] I mean, I mean I mean I mean even I mean.
-[u2718 | 03:41:16.530-03:41:17.100 | DM] {{Has}}.
+[u2718 | 03:41:16.530-03:41:17.100 | DM] Drikod.
 [u2719 | 03:41:18.150-03:41:23.580 | DM] Who has annoyed her most with the lightning bolts, and as far as she can tell it the moment is the most dangerous spell caster.
 [u2720 | 03:41:25.020-03:41:30.480 | DM] And her eyes flash and you need to make a wisdom saving throw.
 [u2721 | 03:41:31.740-03:41:33.960 | Drikod] That I just OK, I see.

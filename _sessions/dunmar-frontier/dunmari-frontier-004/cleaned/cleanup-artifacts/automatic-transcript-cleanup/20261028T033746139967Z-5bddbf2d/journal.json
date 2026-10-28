@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-004",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-004/cleaned/dunmari-frontier-004-source-cleaned.md",
+  "beforeSha256": "fd2724c1643c66d0519e04893c60fdc4128f0b2fed7ec5f689ba43cfb7d17368",
+  "afterSha256": "fd2724c1643c66d0519e04893c60fdc4128f0b2fed7ec5f689ba43cfb7d17368",
+  "markersBefore": 1,
+  "groups": [
+    {
+      "id": "unrecoverable-utterance",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "The standalone garbled utterance contains no recoverable name or setting term; reconstructing its wording is outside names-v1. The nearby discussion concerns whether to speak to Candrosa tonight or in the morning, but does not establish what Seeker said.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u1782:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1782:m1": "{{garbled}}"
+      }
+    }
+  ],
+  "changes": [],
+  "lines": {},
+  "undoneMarkerIds": [],
+  "state": "reviewed_no_changes",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T03:37:46.141947+00:00",
+      "sha256": "fd2724c1643c66d0519e04893c60fdc4128f0b2fed7ec5f689ba43cfb7d17368"
+    }
+  ],
+  "runId": "20261028T033746139967Z-5bddbf2d",
+  "createdAt": "2026-10-28T03:37:46.140364+00:00"
+}

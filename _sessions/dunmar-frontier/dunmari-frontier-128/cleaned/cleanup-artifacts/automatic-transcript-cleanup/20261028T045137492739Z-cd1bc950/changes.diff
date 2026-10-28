@@ -1,0 +1,5 @@
+--- before/u0011
++++ after/u0011
+@@ -1 +1 @@
+-[u0011 | 00:01:12.950-00:01:24.940 | DM] You learned from talking to Brunnar, the stone giant, that Dhrukmir, {{Ruthmere}}, Skybreaker,
++[u0011 | 00:01:12.950-00:01:24.940 | DM] You learned from talking to Brunnar, the stone giant, that Dhrukmir, Dhrukmir, Skybreaker,

@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-024",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-024/cleaned/dunmari-frontier-024-source-cleaned.md",
+  "beforeSha256": "4be912e03e4f3e87abfdc5d0067728cf1393b41bf2d063573ceded58c50f99df",
+  "afterSha256": "4be912e03e4f3e87abfdc5d0067728cf1393b41bf2d063573ceded58c50f99df",
+  "markersBefore": 15,
+  "groups": [
+    {
+      "id": "bridge-referent",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Bhishma is a plausible subject in the early-Dunmari bridge discussion, but the marked span contains only a pronoun. The sources do not establish which name, if any, was spoken; adding a name or reconstructing a name-plus-pronoun phrase would exceed the complete-name replacement boundary.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma.md",
+          "sha256": "19664d9b166d7ae2ca054ee3552f2475e5d71b214ae7fa3766b64714e26ad3f0"
+        }
+      ],
+      "candidates": [
+        "Bhishma"
+      ],
+      "markerIds": [
+        "u1949:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1949:m1": "{{herself}}"
+      }
+    },
+    {
+      "id": "eudomes-mirror-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The plan to retrieve an object for viewing its history strongly favors Eudomes' mirror. The full marker also contains unclear connecting wording, possibly a preposition; replacing it with the item name alone would discard or reconstruct that wording. Retain the whole span.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of the Past.md",
+          "sha256": "804c7ebe2470f1c97648834c8af1caa11572b0852da6f98f34a836cdadac7c5f"
+        },
+        {
+          "path": "People/Historical Figures/Eudomes.md",
+          "sha256": "e2b4f2ccf189fce403c3a76ff9464e74523b2093deae01de4f12a1d492ca1796"
+        }
+      ],
+      "candidates": [
+        "Eudomes' mirror"
+      ],
+      "markerIds": [
+        "u2344:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2344:m1": "{{and you dumb as these mirror}}"
+      }
+    },
+    {
+      "id": "grash-closing-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The closing reaction to scouting strongly favors a reference to Grash, possibly a phrase such as saw Grash. The marked span includes unclear ordinary wording and cannot be replaced with only the name without changing the phrase.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 24 (DuFr).md",
+          "sha256": "47d90f89c23a0bf3df7c41567b7b07bedfda16d51a4f9ea51577c9ed7fd2cd70"
+        }
+      ],
+      "candidates": [
+        "Grash"
+      ],
+      "markerIds": [
+        "u2489:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2489:m1": "{{saga rush}}"
+      }
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Damaged ordinary speech about healing, movement, feelings, invisibility, watching the shadow, sunset timing, orc activity, weapon appearance, collecting objects, and possible traps. No complete name or setting-term replacement is supported within these marker boundaries; wording and mechanics reconstruction are outside names-v1.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0099:m1",
+        "u0260:m1",
+        "u0392:m1",
+        "u0450:m1",
+        "u0580:m1",
+        "u0639:m1",
+        "u0672:m1",
+        "u1293:m1",
+        "u2024:m1",
+        "u2357:m1",
+        "u2474:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0099:m1": "{{Your shirt now}}",
+        "u0260:m1": "{{This is to avoid going down to go down}}",
+        "u0392:m1": "{{do you like them emotion}}",
+        "u0450:m1": "{{well guess what the cat is out turn invisible}}",
+        "u0580:m1": "{{send the shadow}}",
+        "u0639:m1": "{{Paul can thank}}",
+        "u0672:m1": "{{can}}",
+        "u1293:m1": "{{curing}}",
+        "u2024:m1": "{{slightly in a way}}",
+        "u2357:m1": "{{Who should we have done this for the monastery to know the objects that we needed it should be brought back in the monster}}",
+        "u2474:m1": "{{That is the revenue cycle solution traps}}"
+      }
+    },
+    {
+      "id": "sensor-position-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Grash is already spelled correctly inside a longer damaged sentence about positioning the clairvoyance sensor. Resolving the complete marked span would require reconstructing ordinary wording, so the entire span is retained.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 24 (DuFr).md",
+          "sha256": "47d90f89c23a0bf3df7c41567b7b07bedfda16d51a4f9ea51577c9ed7fd2cd70"
+        }
+      ],
+      "candidates": [
+        "Grash"
+      ],
+      "markerIds": [
+        "u2223:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2223:m1": "{{line is six this scroll near Grash’s head}}"
+      }
+    }
+  ],
+  "changes": [],
+  "lines": {},
+  "undoneMarkerIds": [],
+  "state": "reviewed_no_changes",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T03:41:32.915581+00:00",
+      "sha256": "4be912e03e4f3e87abfdc5d0067728cf1393b41bf2d063573ceded58c50f99df"
+    }
+  ],
+  "runId": "20261028T034132907898Z-7bdc4ba5",
+  "createdAt": "2026-10-28T03:41:32.908241+00:00"
+}

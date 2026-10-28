@@ -1,0 +1,530 @@
+{
+  "attributions": [],
+  "chunk": {
+    "endUid": "u0531",
+    "id": "chunk-004",
+    "startUid": "u0515"
+  },
+  "context": [
+    {
+      "header": "[u0513 | 00:46:20.820-00:46:30.450 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "He hasn't responded to my texts, and I said hey do you want me to make a character, or do you want to make a character, I suspect he’ll text me on Thursday and say hey do you have a character for me.",
+      "timing": "00:46:20.820-00:46:30.450",
+      "uid": "u0513"
+    },
+    {
+      "header": "[u0514 | 00:46:30.660-00:46:31.740 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Right and I'll be like.",
+      "timing": "00:46:30.660-00:46:31.740",
+      "uid": "u0514"
+    },
+    {
+      "header": "[u0515 | 00:46:33.720-00:46:34.290 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Maybe.",
+      "timing": "00:46:33.720-00:46:34.290",
+      "uid": "u0515"
+    },
+    {
+      "header": "[u0516 | 00:46:36.660-00:46:44.340 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I have an idea for something I could make quickly that would be a simple right like I'm not gonna do anything complicated for him, but.",
+      "timing": "00:46:36.660-00:46:44.340",
+      "uid": "u0516"
+    },
+    {
+      "header": "[u0517 | 00:46:45.780-00:46:46.020 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I know.",
+      "timing": "00:46:45.780-00:46:46.020",
+      "uid": "u0517"
+    },
+    {
+      "header": "[u0518 | 00:46:46.080-00:46:47.970 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Deno'qai who comes with us easily.",
+      "timing": "00:46:46.080-00:46:47.970",
+      "uid": "u0518"
+    },
+    {
+      "header": "[u0519 | 00:46:48.150-00:46:50.970 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "yeah that's what it would be right just.",
+      "timing": "00:46:48.150-00:46:50.970",
+      "uid": "u0519"
+    },
+    {
+      "header": "[u0520 | 00:46:51.000-00:46:52.980 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "make him a fighter.",
+      "timing": "00:46:51.000-00:46:52.980",
+      "uid": "u0520"
+    },
+    {
+      "header": "[u0521 | 00:46:53.820-00:46:55.230 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I was just gonna make him a fighter.",
+      "timing": "00:46:53.820-00:46:55.230",
+      "uid": "u0521"
+    },
+    {
+      "header": "[u0522 | 00:46:55.260-00:46:57.270 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "champion fighter no choices.",
+      "timing": "00:46:55.260-00:46:57.270",
+      "uid": "u0522"
+    },
+    {
+      "header": "[u0523 | 00:46:57.840-00:47:00.510 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I was gonna make him an arcane Archer give them a.",
+      "timing": "00:46:57.840-00:47:00.510",
+      "uid": "u0523"
+    },
+    {
+      "header": "[u0524 | 00:47:01.050-00:47:03.930 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Magical magical arrows he could shoot.",
+      "timing": "00:47:01.050-00:47:03.930",
+      "uid": "u0524"
+    },
+    {
+      "header": "[u0525 | 00:47:04.110-00:47:04.350 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "yeah.",
+      "timing": "00:47:04.110-00:47:04.350",
+      "uid": "u0525"
+    },
+    {
+      "header": "[u0526 | 00:47:07.230-00:47:07.500 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "yeah.",
+      "timing": "00:47:07.230-00:47:07.500",
+      "uid": "u0526"
+    },
+    {
+      "header": "[u0527 | 00:47:08.850-00:47:18.660 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And you don't actually have much range, got two melee fighters and you a spellcaster, so right, an archer would be a good addition.",
+      "timing": "00:47:08.850-00:47:18.660",
+      "uid": "u0527"
+    },
+    {
+      "header": "[u0528 | 00:47:19.230-00:47:19.470 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "yeah.",
+      "timing": "00:47:19.230-00:47:19.470",
+      "uid": "u0528"
+    },
+    {
+      "header": "[u0529 | 00:47:20.490-00:47:20.790 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Okay.",
+      "timing": "00:47:20.490-00:47:20.790",
+      "uid": "u0529"
+    },
+    {
+      "header": "[u0530 | 00:47:21.300-00:47:21.570 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "All right.",
+      "timing": "00:47:21.300-00:47:21.570",
+      "uid": "u0530"
+    },
+    {
+      "header": "[u0531 | 00:47:22.020-00:47:23.280 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "yep that's it but.",
+      "timing": "00:47:22.020-00:47:23.280",
+      "uid": "u0531"
+    }
+  ],
+  "draftTurns": [
+    {
+      "sources": [
+        {
+          "end": 6,
+          "start": 0,
+          "uid": "u0515"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Maybe."
+    },
+    {
+      "sources": [
+        {
+          "end": 135,
+          "start": 0,
+          "uid": "u0516"
+        }
+      ],
+      "speaker": "DM",
+      "text": "I have an idea for something I could make quickly that would be a simple right like I'm not gonna do anything complicated for him, but."
+    },
+    {
+      "sources": [
+        {
+          "end": 7,
+          "start": 0,
+          "uid": "u0517"
+        }
+      ],
+      "speaker": "DM",
+      "text": "I know."
+    },
+    {
+      "sources": [
+        {
+          "end": 34,
+          "start": 0,
+          "uid": "u0518"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "Deno'qai who comes with us easily."
+    },
+    {
+      "sources": [
+        {
+          "end": 40,
+          "start": 0,
+          "uid": "u0519"
+        }
+      ],
+      "speaker": "DM",
+      "text": "yeah that's what it would be right just."
+    },
+    {
+      "sources": [
+        {
+          "end": 19,
+          "start": 0,
+          "uid": "u0520"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "make him a fighter."
+    },
+    {
+      "sources": [
+        {
+          "end": 36,
+          "start": 0,
+          "uid": "u0521"
+        }
+      ],
+      "speaker": "DM",
+      "text": "I was just gonna make him a fighter."
+    },
+    {
+      "sources": [
+        {
+          "end": 28,
+          "start": 0,
+          "uid": "u0522"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "champion fighter no choices."
+    },
+    {
+      "sources": [
+        {
+          "end": 50,
+          "start": 0,
+          "uid": "u0523"
+        }
+      ],
+      "speaker": "DM",
+      "text": "I was gonna make him an arcane Archer give them a."
+    },
+    {
+      "sources": [
+        {
+          "end": 38,
+          "start": 0,
+          "uid": "u0524"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Magical magical arrows he could shoot."
+    },
+    {
+      "sources": [
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0525"
+        }
+      ],
+      "speaker": "Unknown",
+      "text": "yeah."
+    },
+    {
+      "sources": [
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0526"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "yeah."
+    },
+    {
+      "sources": [
+        {
+          "end": 131,
+          "start": 0,
+          "uid": "u0527"
+        }
+      ],
+      "speaker": "DM",
+      "text": "And you don't actually have much range, got two melee fighters and you a spellcaster, so right, an archer would be a good addition."
+    },
+    {
+      "sources": [
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0528"
+        }
+      ],
+      "speaker": "Unknown",
+      "text": "yeah."
+    },
+    {
+      "sources": [
+        {
+          "end": 5,
+          "start": 0,
+          "uid": "u0529"
+        }
+      ],
+      "speaker": "DM",
+      "text": "Okay."
+    },
+    {
+      "sources": [
+        {
+          "end": 10,
+          "start": 0,
+          "uid": "u0530"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "All right."
+    },
+    {
+      "sources": [
+        {
+          "end": 18,
+          "start": 0,
+          "uid": "u0531"
+        }
+      ],
+      "speaker": "Delwath",
+      "text": "yep that's it but."
+    }
+  ],
+  "legacyCandidates": [],
+  "responsePath": "cleaned/transcript-work/responses/polish-chunk-004.json",
+  "reviewScope": "Recover likely speech using sounds, syntax and the full exchange. Apply reasonable contextual repairs automatically; exact wording uncertainty alone is not human work. Preserve spoken mistakes and meaningful table talk. Remove incidental flags. Only competing substantive readings need review, with proposed wording, a recommendation, and a concrete question. Polished-only garbled/cross-talk substitutions need exact source spans and a reason.",
+  "schemaVersion": 1,
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "drEnd": "1748-10-06",
+    "drEndTime": null,
+    "drStart": "1748-09-30",
+    "drStartTime": null,
+    "participants": [
+      {
+        "gameRole": "Delwath",
+        "name": "Mike Sackton",
+        "transcriptIdentifiers": [
+          "Mike Sackton"
+        ]
+      },
+      {
+        "gameRole": "DM",
+        "name": "Tim Sackton",
+        "transcriptIdentifiers": [
+          "Timothy Sackton"
+        ]
+      }
+    ],
+    "participantsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/sources/dunmar-frontier-session053-participants.yaml",
+    "preparedSourcePath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-source-prepared.md",
+    "realWorldDate": "2022-07-31",
+    "schemaVersion": "1.0",
+    "scope": "session",
+    "sessionNumber": 53,
+    "sourceConfigPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/sources/dunmar-frontier-session053.yaml",
+    "sourceInputPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/sources/GMT20220731-013835_Recording.transcript.vtt",
+    "sourceType": "transcript",
+    "speakerMappingsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/sources/zoom-session-053.speaker_mapping.json",
+    "speakerStatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-speaker-stats.json",
+    "transcriptFormat": "vtt"
+  },
+  "source": [
+    {
+      "header": "[u0515 | 00:46:33.720-00:46:34.290 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Maybe.",
+      "timing": "00:46:33.720-00:46:34.290",
+      "uid": "u0515"
+    },
+    {
+      "header": "[u0516 | 00:46:36.660-00:46:44.340 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I have an idea for something I could make quickly that would be a simple right like I'm not gonna do anything complicated for him, but.",
+      "timing": "00:46:36.660-00:46:44.340",
+      "uid": "u0516"
+    },
+    {
+      "header": "[u0517 | 00:46:45.780-00:46:46.020 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I know.",
+      "timing": "00:46:45.780-00:46:46.020",
+      "uid": "u0517"
+    },
+    {
+      "header": "[u0518 | 00:46:46.080-00:46:47.970 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Deno'qai who comes with us easily.",
+      "timing": "00:46:46.080-00:46:47.970",
+      "uid": "u0518"
+    },
+    {
+      "header": "[u0519 | 00:46:48.150-00:46:50.970 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "yeah that's what it would be right just.",
+      "timing": "00:46:48.150-00:46:50.970",
+      "uid": "u0519"
+    },
+    {
+      "header": "[u0520 | 00:46:51.000-00:46:52.980 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "make him a fighter.",
+      "timing": "00:46:51.000-00:46:52.980",
+      "uid": "u0520"
+    },
+    {
+      "header": "[u0521 | 00:46:53.820-00:46:55.230 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I was just gonna make him a fighter.",
+      "timing": "00:46:53.820-00:46:55.230",
+      "uid": "u0521"
+    },
+    {
+      "header": "[u0522 | 00:46:55.260-00:46:57.270 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "champion fighter no choices.",
+      "timing": "00:46:55.260-00:46:57.270",
+      "uid": "u0522"
+    },
+    {
+      "header": "[u0523 | 00:46:57.840-00:47:00.510 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I was gonna make him an arcane Archer give them a.",
+      "timing": "00:46:57.840-00:47:00.510",
+      "uid": "u0523"
+    },
+    {
+      "header": "[u0524 | 00:47:01.050-00:47:03.930 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Magical magical arrows he could shoot.",
+      "timing": "00:47:01.050-00:47:03.930",
+      "uid": "u0524"
+    },
+    {
+      "header": "[u0525 | 00:47:04.110-00:47:04.350 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "yeah.",
+      "timing": "00:47:04.110-00:47:04.350",
+      "uid": "u0525"
+    },
+    {
+      "header": "[u0526 | 00:47:07.230-00:47:07.500 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "yeah.",
+      "timing": "00:47:07.230-00:47:07.500",
+      "uid": "u0526"
+    },
+    {
+      "header": "[u0527 | 00:47:08.850-00:47:18.660 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And you don't actually have much range, got two melee fighters and you a spellcaster, so right, an archer would be a good addition.",
+      "timing": "00:47:08.850-00:47:18.660",
+      "uid": "u0527"
+    },
+    {
+      "header": "[u0528 | 00:47:19.230-00:47:19.470 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "yeah.",
+      "timing": "00:47:19.230-00:47:19.470",
+      "uid": "u0528"
+    },
+    {
+      "header": "[u0529 | 00:47:20.490-00:47:20.790 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Okay.",
+      "timing": "00:47:20.490-00:47:20.790",
+      "uid": "u0529"
+    },
+    {
+      "header": "[u0530 | 00:47:21.300-00:47:21.570 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "All right.",
+      "timing": "00:47:21.300-00:47:21.570",
+      "uid": "u0530"
+    },
+    {
+      "header": "[u0531 | 00:47:22.020-00:47:23.280 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "yep that's it but.",
+      "timing": "00:47:22.020-00:47:23.280",
+      "uid": "u0531"
+    }
+  ],
+  "sourceSha256": "0a1c27170ec944635b257d6ad74eea85208277229393ef7962b7f4c1f2a011bf",
+  "stage": "polish"
+}

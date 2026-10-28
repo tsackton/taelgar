@@ -1,5 +1,5 @@
 [u0001 | 00:00:09.420-00:00:16.799 | DM] Okay, so we will start this little prequel as you leave the village of the Te'kula
-[u0002 | 00:00:16.850-00:00:25.000 | DM] following {{Phoeba}} and your friends from the dream world that that Deno'qai tribe had been hiding in
+[u0002 | 00:00:16.850-00:00:25.000 | DM] following Theba and your friends from the dream world that that Deno'qai tribe had been hiding in
 [u0003 | 00:00:25.060-00:00:27.259 | DM] back to the material world,
 [u0004 | 00:00:27.990-00:00:29.599 | DM] and as the
 [u0005 | 00:00:30.310-00:00:44.719 | DM] that fabric of the dream space of the pocket dimension collapses around you as you leave, you're aware of the strangeness of the forest, of the many places you've journeyed and the many places.
@@ -857,13 +857,13 @@
 [u0857 | 01:08:36.870-01:08:37.849 | Wellby] Why
 [u0858 | 01:08:38.290-01:08:39.179 | Wellby] cool?
 [u0859 | 01:08:40.040-01:08:41.729 | Wellby] Nothing but
-[u0860 | 01:08:44.580-01:08:47.300 | DM] the people of {{me say}},
+[u0860 | 01:08:44.580-01:08:47.300 | DM] the people of Quanyi,
 [u0861 | 01:08:48.120-01:08:50.229 | DM] Well, rumor has it
 [u0862 | 01:08:50.370-01:08:52.279 | DM] can do many other things.
 [u0863 | 01:08:55.270-01:08:57.289 | DM] They may also know
 [u0864 | 01:08:58.670-01:08:59.660 | DM] uh
 [u0865 | 01:09:00.380-01:09:02.610 | DM] something of the Feywild,
-[u0866 | 01:09:03.770-01:09:06.440 | DM] strange folk, the {{seals}}.
+[u0866 | 01:09:03.770-01:09:06.440 | DM] strange folk, the sea elves.
 [u0867 | 01:09:07.510-01:09:09.430 | Wellby] See, I've never heard of them
 [u0868 | 01:09:13.260-01:09:15.279 | Wellby] meaning They yes,
 [u0869 | 01:09:15.450-01:09:17.739 | Wellby] live on the sea or in the sea,
@@ -879,7 +879,7 @@
 [u0879 | 01:10:06.340-01:10:09.920 | DM] Hmm. But I have my doubts.
 [u0880 | 01:10:12.340-01:10:14.889 | DM] In any case. I've never spoken to one.
 [u0881 | 01:10:16.430-01:10:17.840 | Wellby] Well, if the
-[u0882 | 01:10:20.340-01:10:23.319 | Wellby] {{I have any thoughts}}, maybe the {{Ceos}} will
+[u0882 | 01:10:20.340-01:10:23.319 | Wellby] {{I have any thoughts}}, maybe the sea elves will
 [u0883 | 01:10:27.940-01:10:31.199 | Wellby] you? You haven't heard of it?
 [u0884 | 01:10:31.960-01:10:33.999 | Wellby] Crossings into the Feywild.
 [u0885 | 01:10:34.410-01:10:40.019 | DM] There are stories of all kinds around the Eastern Isles. I've certainly heard of
@@ -902,7 +902,7 @@
 [u0902 | 01:11:58.140-01:12:01.620 | DM] Some say even the stone grows.
 [u0903 | 01:12:03.510-01:12:09.350 | Wellby] How quickly do they move? If you sat on one, would you see it moving,
 [u0904 | 01:12:09.470-01:12:13.040 | Wellby] or is it like the sun?
-[u0905 | 01:12:16.020-01:12:23.639 | DM] There are some parts of {{calling me}} where, if you dip your hand in the water, you can feel a slight current as it rotates.
+[u0905 | 01:12:16.020-01:12:23.639 | DM] There are some parts of Quanyi where, if you dip your hand in the water, you can feel a slight current as it rotates.
 [u0906 | 01:12:24.200-01:12:28.450 | DM] It will spin around three, four times a year,
 [u0907 | 01:12:32.510-01:12:33.370 | DM] but
 [u0908 | 01:12:34.050-01:12:36.239 | DM] most of the islands, no,
@@ -929,9 +929,9 @@
 [u0929 | 01:20:52.670-01:20:53.809 | DM] Um
 [u0930 | 01:20:54.290-01:21:02.370 | DM] say, say, like, about eleven days over the course of that journey. They also teach you. So this is far enough East that
 [u0931 | 01:21:02.400-01:21:04.660 | DM] um the
-[u0932 | 01:21:09.710-01:21:15.039 | DM] it's {{Easter}}. It's because no, nothing out here was ever
+[u0932 | 01:21:09.710-01:21:15.039 | DM] it's Eastros. It's because no, nothing out here was ever
 [u0933 | 01:21:15.390-01:21:16.410 | DM] Ah,
-[u0934 | 01:21:16.530-01:21:27.469 | DM] Drankor really had no influence this far east so but they have. I mean you're pretty good with languages. They teach you {{Easter}}, so that you'll be able to
+[u0934 | 01:21:16.530-01:21:27.469 | DM] Drankor really had no influence this far east so but they have. I mean you're pretty good with languages. They teach you Eastros, so that you'll be able to
 [u0935 | 01:21:28.070-01:21:31.670 | DM] communicate with people out on the Eastern Isles.
 [u0936 | 01:21:32.490-01:21:33.530 | DM] Um
 [u0937 | 01:21:34.170-01:21:39.790 | DM] during the course of the journey, and happy to have any conversations you want to roleplay as well.

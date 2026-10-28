@@ -1,0 +1,160 @@
+--- before/u0001
++++ after/u0001
+@@ -1 +1 @@
+-[u0001 | 00:00:02.530-00:00:07.049 | DM] Okay. So we begin on {{Vendorsharna}}.
++[u0001 | 00:00:02.530-00:00:07.049 | DM] Okay. So we begin on Vindristjarna.
+--- before/u0096
++++ after/u0096
+@@ -1 +1 @@
+-[u0096 | 00:09:49.620-00:09:51.850 | Delwath] Submarine, {{Bernacharda}}.
++[u0096 | 00:09:49.620-00:09:51.850 | Delwath] Submarine, Vindristjarna.
+--- before/u0172
++++ after/u0172
+@@ -1 +1 @@
+-[u0172 | 00:17:53.120-00:18:16.809 | DM] a bunch of key bureaucrats and factors and foremen and and things like that, who were important in the keeping the flow of ore flowing to the refineries. So Kenzo was like. No, now denounce the evils of chelite, and so they started calling themselves the Eightfold Flame. After {{Riswin}} took control, and they started all preaching about how the
++[u0172 | 00:17:53.120-00:18:16.809 | DM] a bunch of key bureaucrats and factors and foremen and and things like that, who were important in the keeping the flow of ore flowing to the refineries. So Kenzo was like. No, now denounce the evils of chelite, and so they started calling themselves the Eightfold Flame. After Riswynn took control, and they started all preaching about how the
+--- before/u0180
++++ after/u0180
+@@ -1 +1 @@
+-[u0180 | 00:19:09.520-00:19:22.080 | DM] But when you talked to Xavier it was the day after {{Rizwin}} took on the quest to free the Orcs, and he said, what was particularly strange is that a bunch of the leaders of the Eightfold Flame?
++[u0180 | 00:19:09.520-00:19:22.080 | DM] But when you talked to Xavier it was the day after Riswynn took on the quest to free the Orcs, and he said, what was particularly strange is that a bunch of the leaders of the Eightfold Flame?
+--- before/u0187
++++ after/u0187
+@@ -1 +1 @@
+-[u0187 | 00:19:48.020-00:19:50.839 | DM] Not all of them. The {{North Lake}} has a ton of text.
++[u0187 | 00:19:48.020-00:19:50.839 | DM] Not all of them. The North Bank has a ton of text.
+--- before/u0302
++++ after/u0302
+@@ -1 +1 @@
+-[u0302 | 00:30:41.710-00:31:03.620 | DM] on the upriver inland side, and gently sloping down to the flat plains on the down river ocean side. But Kenzo would would like sort of be vaguely familiar with this up on the like far side of the Mount {{Nera}} spur, there’s like fancy estates. There's like private villas.
++[u0302 | 00:30:41.710-00:31:03.620 | DM] on the upriver inland side, and gently sloping down to the flat plains on the down river ocean side. But Kenzo would would like sort of be vaguely familiar with this up on the like far side of the Mount Nera spur, there’s like fancy estates. There's like private villas.
+--- before/u0322
++++ after/u0322
+@@ -1 +1 @@
+-[u0322 | 00:34:08.170-00:34:18.850 | DM] It would be tricky. The river bridge is very well defended, and the and the Chardon Bridge sits right under the fort that guards the spur of Mount {{Nera}}, so it would be challenging to
++[u0322 | 00:34:08.170-00:34:18.850 | DM] It would be tricky. The river bridge is very well defended, and the and the Chardon Bridge sits right under the fort that guards the spur of Mount Nera, so it would be challenging to
+--- before/u0350
++++ after/u0350
+@@ -1 +1 @@
+-[u0350 | 00:36:42.060-00:36:51.589 | DM] You can see the 2 bridges, the river bridge and the Chardon Bridge and Mount {{Nara}}, and then, like Number 4, is the University.
++[u0350 | 00:36:42.060-00:36:51.589 | DM] You can see the 2 bridges, the river bridge and the Chardon Bridge and Mount Nera, and then, like Number 4, is the University.
+--- before/u0406
++++ after/u0406
+@@ -1 +1 @@
+-[u0406 | 00:40:48.140-00:40:57.500 | DM] fortification. There was the tower on top of Mount {{Neera}} that protected the Chardon Bridge, and then there was the River Bridge Gatehouse, on the north shore.
++[u0406 | 00:40:48.140-00:40:57.500 | DM] fortification. There was the tower on top of Mount Nera that protected the Chardon Bridge, and then there was the River Bridge Gatehouse, on the north shore.
+--- before/u0511
++++ after/u0511
+@@ -1 +1 @@
+-[u0511 | 00:49:05.080-00:49:13.340 | DM] {{pride Conti villages}}, the the like. City watch you didn't see like
++[u0511 | 00:49:05.080-00:49:13.340 | DM] Praecanti Vigiles, the the like. City watch you didn't see like
+--- before/u0677
++++ after/u0677
+@@ -1 +1 @@
+-[u0677 | 01:03:58.160-01:04:07.289 | DM] {{Francisca}}, who's Xavier's mother? Who you've you've met, but you know she doesn't particularly wouldn't necessarily particularly remember you.
++[u0677 | 01:03:58.160-01:04:07.289 | DM] Francisca, who's Xavier's mother? Who you've you've met, but you know she doesn't particularly wouldn't necessarily particularly remember you.
+--- before/u0893
++++ after/u0893
+@@ -1 +1 @@
+-[u0893 | 01:22:13.300-01:22:15.920 | Delwath] Well, {{Ragebdros}} is a is kind of a
++[u0893 | 01:22:13.300-01:22:15.920 | Delwath] Well, Ra'ghemdros is a is kind of a
+--- before/u0928
++++ after/u0928
+@@ -1 +1 @@
+-[u0928 | 01:25:25.890-01:25:28.829 | Delwath] I think our friends have found the South. I'll say to {{it today}}.
++[u0928 | 01:25:25.890-01:25:28.829 | Delwath] I think our friends have found the South. I'll say to Adina.
+--- before/u0940
++++ after/u0940
+@@ -1 +1 @@
+-[u0940 | 01:26:35.290-01:26:40.494 | DM] {{Francesca}}. The mom is like pretty quiet and just kind of stays at the back, but
++[u0940 | 01:26:35.290-01:26:40.494 | DM] Francisca. The mom is like pretty quiet and just kind of stays at the back, but
+--- before/u0949
++++ after/u0949
+@@ -1 +1 @@
+-[u0949 | 01:27:25.520-01:27:32.729 | DM] She's not, you know, both. Xavier is not particularly religious, nor is {{Francisca}}, but both
++[u0949 | 01:27:25.520-01:27:32.729 | DM] She's not, you know, both. Xavier is not particularly religious, nor is Francisca, but both
+--- before/u1478
++++ after/u1478
+@@ -1 +1 @@
+-[u1478 | 02:15:30.130-02:15:32.070 | DM] {{Auditorian's}} Pride.
++[u1478 | 02:15:30.130-02:15:32.070 | DM] Auratan's Pride.
+--- before/u1480
++++ after/u1480
+@@ -1 +1 @@
+-[u1480 | 02:15:43.330-02:15:56.029 | DM] Surrender yourself to Tiberius, windcaller of {{Arturian's}} Pride.
++[u1480 | 02:15:43.330-02:15:56.029 | DM] Surrender yourself to Tiberius, windcaller of Auratan's Pride.
+--- before/u1531
++++ after/u1531
+@@ -1 +1 @@
+-[u1531 | 02:19:31.930-02:19:38.640 | DM] So {{Aratan's}} Pride is like you saw it. It's 1 of the 2 Navy ships anchored in the harbor.
++[u1531 | 02:19:31.930-02:19:38.640 | DM] So Auratan's Pride is like you saw it. It's 1 of the 2 Navy ships anchored in the harbor.
+--- before/u1644
++++ after/u1644
+@@ -1 +1 @@
+-[u1644 | 02:28:38.520-02:28:49.280 | Delwath] There was a there was 4 of them, one, I think, causing some trouble in the {{Never see}}
++[u1644 | 02:28:38.520-02:28:49.280 | Delwath] There was a there was 4 of them, one, I think, causing some trouble in the Nevos Sea
+--- before/u1672
++++ after/u1672
+@@ -1 +1 @@
+-[u1672 | 02:31:05.650-02:31:15.329 | DM] That shattered the material plane through the center of the {{Kailos}} market. Supposedly.
++[u1672 | 02:31:05.650-02:31:15.329 | DM] That shattered the material plane through the center of the Kylos market. Supposedly.
+--- before/u1768
++++ after/u1768
+@@ -1 +1 @@
+-[u1768 | 02:38:15.230-02:38:28.860 | DM] and had allowed him to take over the {{heteri magica}}, the magical guards of the University, and replace
++[u1768 | 02:38:15.230-02:38:28.860 | DM] and had allowed him to take over the Hetaeri Magica, the magical guards of the University, and replace
+--- before/u1839
++++ after/u1839
+@@ -1 +1 @@
+-[u1839 | 02:43:14.660-02:43:18.399 | Wellby] Very possibly {{Vendra Sharna}} is beneath us right now.
++[u1839 | 02:43:14.660-02:43:18.399 | Wellby] Very possibly Vindristjarna is beneath us right now.
+--- before/u1964
++++ after/u1964
+@@ -1 +1 @@
+-[u1964 | 02:52:57.480-02:53:00.990 | DM] in the city the morning the {{Kaila’s}} market was attacked.
++[u1964 | 02:52:57.480-02:53:00.990 | DM] in the city the morning the Kylos market was attacked.
+--- before/u1967
++++ after/u1967
+@@ -1 +1 @@
+-[u1967 | 02:53:04.680-02:53:06.400 | DM] So you were. You were in {{earth}}.
++[u1967 | 02:53:04.680-02:53:06.400 | DM] So you were. You were in Ursk.
+--- before/u2001
++++ after/u2001
+@@ -1 +1 @@
+-[u2001 | 02:55:16.340-02:55:19.939 | Kenzo] We should like just tell. We should not let him know anything about {{Brisbane}}.
++[u2001 | 02:55:16.340-02:55:19.939 | Kenzo] We should like just tell. We should not let him know anything about Riswynn.
+--- before/u2163
++++ after/u2163
+@@ -1 +1 @@
+-[u2163 | 03:08:54.930-03:09:03.349 | DM] There is the {{hetero magica}}, the they were.
++[u2163 | 03:08:54.930-03:09:03.349 | DM] There is the Hetaeri Magica, the they were.
+--- before/u2166
++++ after/u2166
+@@ -1 +1 @@
+-[u2166 | 03:09:20.280-03:09:25.790 | DM] and she reformed the {{heteria magica}}, the magical.
++[u2166 | 03:09:20.280-03:09:25.790 | DM] and she reformed the Hetaeri Magica, the magical.
+--- before/u2294
++++ after/u2294
+@@ -1 +1 @@
+-[u2294 | 03:20:21.510-03:20:31.819 | DM] this guy was like a navy guy and was in with the windcallers. And his aunt basically screwed up and let Fausto take control of the {{heteria magica}}
++[u2294 | 03:20:21.510-03:20:31.819 | DM] this guy was like a navy guy and was in with the windcallers. And his aunt basically screwed up and let Fausto take control of the Hetaeri Magica
+--- before/u2309
++++ after/u2309
+@@ -1 +1 @@
+-[u2309 | 03:21:43.140-03:22:04.360 | DM] the like, his personal mage guard and things that was controlled by the {{hetera magica}}, which had been infiltrated by Fausto with windcallers. So the windcallers have seen a dramatic rise in prominence in the last 2 years, and basically are all like a hundred percent loyal to the Magistros.
++[u2309 | 03:21:43.140-03:22:04.360 | DM] the like, his personal mage guard and things that was controlled by the Hetaeri Magica, which had been infiltrated by Fausto with windcallers. So the windcallers have seen a dramatic rise in prominence in the last 2 years, and basically are all like a hundred percent loyal to the Magistros.
+--- before/u2336
++++ after/u2336
+@@ -1 +1 @@
+-[u2336 | 03:24:27.100-03:24:31.179 | DM] And the {{heteri magica}} immediately leaped to support him.
++[u2336 | 03:24:27.100-03:24:31.179 | DM] And the Hetaeri Magica immediately leaped to support him.
+--- before/u2381
++++ after/u2381
+@@ -1 +1 @@
+-[u2381 | 03:28:43.170-03:28:44.610 | Delwath] {{Omnis urov}}.
++[u2381 | 03:28:43.170-03:28:44.610 | Delwath] Omnis Pura.
+--- before/u2447
++++ after/u2447
+@@ -1 +1 @@
+-[u2447 | 03:33:43.610-03:33:53.629 | DM] Fausto, right? Because the {{heteri magica}} that Fausto controlled via the Crown was like going to hunt everybody who had supported you. Because.
++[u2447 | 03:33:43.610-03:33:53.629 | DM] Fausto, right? Because the Hetaeri Magica that Fausto controlled via the Crown was like going to hunt everybody who had supported you. Because.

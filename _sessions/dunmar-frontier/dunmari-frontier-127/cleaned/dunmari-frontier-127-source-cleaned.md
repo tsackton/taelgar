@@ -264,9 +264,9 @@
 [u0264 | 00:24:58.240-00:25:00.149 | Delwath] Do we have any trophy room person? Other.
 [u0265 | 00:25:00.150-00:25:00.800 | DM] Yeah.
 [u0266 | 00:25:00.800-00:25:01.720 | Delwath] Kenzo.
-[u0267 | 00:25:01.720-00:25:03.050 | DM] Kenzo, or {{Omo}}.
-[u0268 | 00:25:03.050-00:25:03.740 | Delwath] {{Ammo}}.
-[u0269 | 00:25:04.210-00:25:10.859 | Delwath] Oh, yeah, because it's called the Hall of Stories. Okay? The. I think we should have {{Amel}} Research Stone Giants in general
+[u0267 | 00:25:01.720-00:25:03.050 | DM] Kenzo, or Amil.
+[u0268 | 00:25:03.050-00:25:03.740 | Delwath] Amil.
+[u0269 | 00:25:04.210-00:25:10.859 | Delwath] Oh, yeah, because it's called the Hall of Stories. Okay? The. I think we should have Amil Research Stone Giants in general
 [u0270 | 00:25:11.460-00:25:12.130 | Delwath] from the in the.
 [u0271 | 00:25:12.130-00:25:12.570 | DM] Okay.
 [u0272 | 00:25:12.570-00:25:15.370 | Delwath] Hall of Stories, and then I think we should have
@@ -631,7 +631,7 @@
 [u0631 | 00:54:10.420-00:54:13.519 | DM] Well, augury is only something you're doing in the next 30 min.
 [u0632 | 00:54:13.520-00:54:14.110 | Delwath] Ow.
 [u0633 | 00:54:15.260-00:54:20.109 | Kenzo] What I thought I had some yes or no questions that are more like.
-[u0634 | 00:54:20.290-00:54:24.069 | Delwath] Well, that's that was can contact other plane. I can. I can ask {{botanji}}.
+[u0634 | 00:54:20.290-00:54:24.069 | Delwath] Well, that's that was can contact other plane. I can. I can ask the tanshi.
 [u0635 | 00:54:26.210-00:54:27.200 | Delwath] That's fine.
 [u0636 | 00:54:27.200-00:54:31.549 | DM] That's but that doesn't. That's not divination. It doesn't give you information about the future.
 [u0637 | 00:54:31.890-00:54:32.420 | Delwath] Right.
@@ -647,7 +647,7 @@
 [u0647 | 00:54:58.240-00:55:09.560 | DM] The point is, you can't use it to get information so far in advance that you can then make plans based on that information. It's more of a like we're here now. Is this a bad idea?
 [u0648 | 00:55:10.680-00:55:14.230 | Kenzo] And and what was but but the Contact Other Plane? We can ask more along.
 [u0649 | 00:55:14.230-00:55:15.140 | Delwath] That's yes.
-[u0650 | 00:55:15.140-00:55:19.839 | DM] You can ask 5 yes or no questions, but but they {{the time. She}} cannot see the future.
+[u0650 | 00:55:15.140-00:55:19.839 | DM] You can ask 5 yes or no questions, but but they the tanshi cannot see the future.
 [u0651 | 00:55:20.050-00:55:23.119 | DM] So you can't ask about something that's going to happen.
 [u0652 | 00:55:26.340-00:55:31.359 | Wellby] Who, we could ask like, is it is it reasonable to
 [u0653 | 00:55:31.640-00:55:38.269 | Wellby] kill the giant without disabling the death ray like? Is that a question about the future.
@@ -2075,7 +2075,7 @@
 [u2075 | 02:45:40.530-02:45:44.039 | DM] Tower that seems to be the crucial, and the tower itself is
 [u2076 | 02:45:44.220-02:45:46.060 | DM] like the size of Vindristjarna.
 [u2077 | 02:45:46.060-02:45:47.240 | Kenzo] Yeah, so what's the.
-[u2078 | 02:45:47.240-02:45:48.379 | DM] Bigger than {{Peterson}}.
+[u2078 | 02:45:47.240-02:45:48.379 | DM] Bigger than Vindristjarna.
 [u2079 | 02:45:48.380-02:45:49.660 | Kenzo] How do we think this thing works?
 [u2080 | 02:45:50.840-02:46:05.470 | DM] Chalyte in the mountain sends these bolts of purple lightning to the tower, which both holds it suspended, and then forms this core that runs down to the center of the tower to some kind of focusing ray, and you don't know what the thing at the bottom is, because you haven't seen it.
 [u2081 | 02:46:05.770-02:46:09.640 | DM] But the giant is suggesting it. He just somehow yeah.

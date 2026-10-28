@@ -1,0 +1,90 @@
+--- before/u0038
++++ after/u0038
+@@ -1 +1 @@
+-[u0038 | 00:05:59.850-00:06:16.130 | DM] and if you were to find information about them anywhere, it would also likely be the docks, and finally Minarith {{Aparinar}}, an elf. But one of the elves that had lived for many years with humans.
++[u0038 | 00:05:59.850-00:06:16.130 | DM] and if you were to find information about them anywhere, it would also likely be the docks, and finally Minarith a peronar, an elf. But one of the elves that had lived for many years with humans.
+--- before/u0164
++++ after/u0164
+@@ -1 +1 @@
+-[u0164 | 00:14:15.100-00:14:20.460 | DM] Seraphina Appleblossom, Khemut of Targu and Minarith, the {{peranar}} are the 3 that we need.
++[u0164 | 00:14:15.100-00:14:20.460 | DM] Seraphina Appleblossom, Khemut of Targu and Minarith, the peronar are the 3 that we need.
+--- before/u0235
++++ after/u0235
+@@ -1 +1 @@
+-[u0235 | 00:19:11.940-00:19:18.549 | DM] You don't know anything about Minarith, except that he was a {{paranor}}.
++[u0235 | 00:19:11.940-00:19:18.549 | DM] You don't know anything about Minarith, except that he was a peronar.
+--- before/u0537
++++ after/u0537
+@@ -1 +1 @@
+-[u0537 | 00:43:24.440-00:43:26.720 | Delwath] The elf, human friend, {{Paranor}}.
++[u0537 | 00:43:24.440-00:43:26.720 | Delwath] The elf, human friend, peronar.
+--- before/u1432
++++ after/u1432
+@@ -1 +1 @@
+-[u1432 | 01:56:52.600-01:56:59.770 | DM] There aren't really like Major Halfling, I mean, there's nothing like the Dunmari festivals, or like {{Paravala}}, or any of the
++[u1432 | 01:56:52.600-01:56:59.770 | DM] There aren't really like Major Halfling, I mean, there's nothing like the Dunmari festivals, or like Pyravela, or any of the
+--- before/u1434
++++ after/u1434
+@@ -1 +1 @@
+-[u1434 | 01:57:04.310-01:57:11.559 | DM] {{Karavala}}. That thing you celebrated in Tollen was a holiday of the Eight Divines of {{Mas Numuna}}.
++[u1434 | 01:57:04.310-01:57:11.559 | DM] Pyravela. That thing you celebrated in Tollen was a holiday of the Eight Divines of Mos Numena.
+--- before/u1481
++++ after/u1481
+@@ -1 +1 @@
+-[u1481 | 02:00:12.870-02:00:13.989 | DM] {{Or in our}}.
++[u1481 | 02:00:12.870-02:00:13.989 | DM] Peronar.
+--- before/u1523
++++ after/u1523
+@@ -1 +1 @@
+-[u1523 | 02:03:26.250-02:03:34.570 | Riswynn] I mean, like, ask, should we try searching in bars in this area for traces of the {{paranore}}
++[u1523 | 02:03:26.250-02:03:34.570 | Riswynn] I mean, like, ask, should we try searching in bars in this area for traces of the peronar
+--- before/u1531
++++ after/u1531
+@@ -1 +1 @@
+-[u1531 | 02:04:07.360-02:04:12.140 | Riswynn] {{heroin work}} like I've sort of given up on Khemut because we have something.
++[u1531 | 02:04:07.360-02:04:12.140 | Riswynn] peronar like I've sort of given up on Khemut because we have something.
+--- before/u1538
++++ after/u1538
+@@ -1 +1 @@
+-[u1538 | 02:04:42.870-02:04:47.539 | Riswynn] the {{Para, nor}}, or if we have to like, look somewhere else entirely.
++[u1538 | 02:04:42.870-02:04:47.539 | Riswynn] the peronar, or if we have to like, look somewhere else entirely.
+--- before/u1539
++++ after/u1539
+@@ -1 +1 @@
+-[u1539 | 02:04:48.130-02:04:55.339 | Riswynn] So I think we're going to ask the question, Is this a good place to look around for the {{paranor}}? If they say no, we can still decide.
++[u1539 | 02:04:48.130-02:04:55.339 | Riswynn] So I think we're going to ask the question, Is this a good place to look around for the peronar? If they say no, we can still decide.
+--- before/u1590
++++ after/u1590
+@@ -1 +1 @@
+-[u1590 | 02:08:12.180-02:08:18.630 | DM] Okay, Barazal return and say, the {{Paranar}}
++[u1590 | 02:08:12.180-02:08:18.630 | DM] Okay, Barazal return and say, the peronar
+--- before/u1696
++++ after/u1696
+@@ -1 +1 @@
+-[u1696 | 02:17:34.729-02:17:40.099 | DM] you can sense a vibe from Khemut, nothing from the {{paranor}}.
++[u1696 | 02:17:34.729-02:17:40.099 | DM] you can sense a vibe from Khemut, nothing from the peronar.
+--- before/u1908
++++ after/u1908
+@@ -1 +1 @@
+-[u1908 | 02:32:17.680-02:32:21.320 | DM] Barazal told you to look here for clues about the {{paranor}}.
++[u1908 | 02:32:17.680-02:32:21.320 | DM] Barazal told you to look here for clues about the peronar.
+--- before/u1980
++++ after/u1980
+@@ -1 +1 @@
+-[u1980 | 02:37:51.510-02:37:57.610 | DM] the {{Falorian}}, which sounds like a university based on the goods like describing books and things.
++[u1980 | 02:37:51.510-02:37:57.610 | DM] the Thalorian, which sounds like a university based on the goods like describing books and things.
+--- before/u2102
++++ after/u2102
+@@ -1 +1 @@
+-[u2102 | 02:46:01.490-02:46:08.389 | DM] The University of the {{Astane}} also referred to as the {{Thelorian}}.
++[u2102 | 02:46:01.490-02:46:08.389 | DM] The University of the Aistanë also referred to as the Thalorian.
+--- before/u2103
++++ after/u2103
+@@ -1 +1 @@
+-[u2103 | 02:46:12.360-02:46:15.829 | Riswynn] Universities also referred to as the {{Thore Laurean}}, or.
++[u2103 | 02:46:12.360-02:46:15.829 | Riswynn] Universities also referred to as the Thalorian, or.
+--- before/u2114
++++ after/u2114
+@@ -1 +1 @@
+-[u2114 | 02:47:03.490-02:47:07.540 | DM] to say, Find me the University of the {{Academy}}.
++[u2114 | 02:47:03.490-02:47:07.540 | DM] to say, Find me the University of the Aistanë.

@@ -1,0 +1,20 @@
+--- before/u0072
++++ after/u0072
+@@ -1 +1 @@
+-[u0072 | 00:06:50.150-00:06:53.470 | Seeker] Oh, there was something about research from Ulfgar and {{go here}}.
++[u0072 | 00:06:50.150-00:06:53.470 | Seeker] Oh, there was something about research from Ulfgar and Govir.
+--- before/u0210
++++ after/u0210
+@@ -1 +1 @@
+-[u0210 | 00:18:01.150-00:18:10.420 | Delwath] Right, {{it it west}}. Perhaps all was fallen, and it's a last attempt at keeping it from {{garage the great}}.
++[u0210 | 00:18:01.150-00:18:10.420 | Delwath] Right, {{it it west}}. Perhaps all was fallen, and it's a last attempt at keeping it from Grash the great.
+--- before/u0952
++++ after/u0952
+@@ -1 +1 @@
+-[u0952 | 01:26:45.510-01:27:01.549 | DM] brightly colored designs, everything. There's this plaza in front, which is like the big, open central part of the city that you walk through. There's a big statue of {{gash}} in the middle that's painted in bright colors.
++[u0952 | 01:26:45.510-01:27:01.549 | DM] brightly colored designs, everything. There's this plaza in front, which is like the big, open central part of the city that you walk through. There's a big statue of Uzgash in the middle that's painted in bright colors.
+--- before/u1746
++++ after/u1746
+@@ -1 +1 @@
+-[u1746 | 02:43:40.670-02:44:08.610 | Kenzo] and if that is the fear the gods would warn me of, were I to throw the legitimacy of Laka behind Sura, as the fire of Aagir so obviously burns in her, despite my misgivings that the fires of Aagir do not make one a just ruler. And yet when I {{brown}} Karnas, I hear nothing. Silence! No god will speak for him. Shall I- I will not burden you more with my troubles, for you must face dangers of your own. Before I close and deliver my words to this foreign {{gods}} that carry them to you, {{we. She}} has a message for you, Kenzo. In these uncertain times, when all paths seem fraught, trust in yourself.
++[u1746 | 02:43:40.670-02:44:08.610 | Kenzo] and if that is the fear the gods would warn me of, were I to throw the legitimacy of Laka behind Sura, as the fire of Aagir so obviously burns in her, despite my misgivings that the fires of Aagir do not make one a just ruler. And yet when I {{brown}} Karnas, I hear nothing. Silence! No god will speak for him. Shall I- I will not burden you more with my troubles, for you must face dangers of your own. Before I close and deliver my words to this foreign {{gods}} that carry them to you, Rishi has a message for you, Kenzo. In these uncertain times, when all paths seem fraught, trust in yourself.

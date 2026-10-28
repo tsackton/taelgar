@@ -1171,7 +1171,7 @@
 [u1171 | 01:30:26.760-01:30:29.850 | Delwath] salutes Kenzo as he likes sends the second arrow.
 [u1172 | 01:30:30.990-01:30:32.460 | Delwath] raises sword like.
 [u1173 | 01:30:36.330-01:30:36.930 | DM] 15 on.
-[u1174 | 01:30:37.980-01:30:39.690 | Delwath] 15 misses {{delis}}.
+[u1174 | 01:30:37.980-01:30:39.690 | Delwath] 15 misses Delwath.
 [u1175 | 01:30:39.960-01:30:41.040 | Wellby] we're doing this as Wellby.
 [u1176 | 01:30:41.490-01:30:43.170 | Seeker] Okay base this.
 [u1177 | 01:30:43.260-01:30:44.970 | DM] So that's going to end their turns.
@@ -1602,7 +1602,7 @@
 [u1602 | 01:56:01.380-01:56:05.610 | Delwath] i'm i'm not sure there's much value in keeping the gnoll.
 [u1603 | 01:56:08.010-01:56:08.460 | Kenzo] alive.
 [u1604 | 01:56:08.760-01:56:10.890 | Seeker] alive yeah.
-[u1605 | 01:56:12.450-01:56:16.590 | DM] {{Sandra}} Cintra definitely is in favor of killing it she does not want to see.
+[u1605 | 01:56:12.450-01:56:16.590 | DM] Cintra Cintra definitely is in favor of killing it she does not want to see.
 [u1606 | 01:56:17.820-01:56:21.480 | DM] Anything that could possibly hurt her daughter left to live in this canyon.
 [u1607 | 01:56:21.840-01:56:27.060 | Delwath] Sure yeah yeah well burn the bodies during the short during our.
 [u1608 | 01:56:27.420-01:56:28.890 | Delwath] yep rest.
@@ -2478,7 +2478,7 @@
 [u2478 | 02:58:52.380-02:58:53.670 | Seeker] works, the other way, maybe not.
 [u2479 | 02:58:54.810-02:58:58.950 | Delwath] But you could maybe we could try it right like Dispel magic you could.
 [u2480 | 02:58:59.550-02:59:00.390 | DM] You could try it.
-[u2481 | 02:59:00.420-02:59:06.510 | Delwath] try my only fear would be this person will wake up in the middle of {{August}}.
+[u2481 | 02:59:00.420-02:59:06.510 | Delwath] try my only fear would be this person will wake up in the middle of Agata's.
 [u2482 | 02:59:07.440-02:59:09.180 | Seeker] right in his basement.
 [u2483 | 02:59:09.810-02:59:10.530 | Seeker] And somewhere.
 [u2484 | 02:59:10.590-02:59:13.290 | Delwath] die right die of thirst before we get there.
@@ -2624,7 +2624,7 @@
 [u2624 | 03:11:26.640-03:11:29.430 | DM] So he'd be happy to write you that letter as well.
 [u2625 | 03:11:31.890-03:11:35.370 | Kenzo] And you some like official you know Shakun seal or whatever.
 [u2626 | 03:11:36.180-03:11:52.410 | DM] Right, I mean really what you want to do is wait for what was her name the the priest who ran the temple and {{in try}} to come back as well and get everybody from the town to sign up like the priest of the temple Candrosa.
-[u2627 | 03:11:54.660-03:11:55.260 | DM] {{kesa}}.
+[u2627 | 03:11:54.660-03:11:55.260 | DM] Kisa.
 [u2628 | 03:11:55.740-03:11:57.690 | Kenzo] Well, this i'll do is take a selfie together and then.
 [u2629 | 03:11:57.840-03:11:58.440 | DM] yeah right.
 [u2630 | 03:12:01.470-03:12:01.950 | Delwath] um.
@@ -3327,7 +3327,7 @@
 [u3327 | 04:09:27.630-04:09:30.510 | DM] I mean Drankor is also the source of lots of magic right.
 [u3328 | 04:09:30.840-04:09:34.170 | Delwath] Not every Drankorian item is a ancient powerful artifact.
 [u3329 | 04:09:36.096-04:09:41.646 | Delwath] The rings they made for a hundred and 50 people in the elite guard or whatever right.
-[u3330 | 04:09:43.746-04:09:44.916 | Seeker] {{I got it}} good or bad person.
+[u3330 | 04:09:43.746-04:09:44.916 | Seeker] Agata good or bad person.
 [u3331 | 04:09:44.945-04:09:45.996 | Delwath] But I do too I.
 [u3332 | 04:09:46.416-04:09:48.366 | Seeker] were deciding where we're going to go next.
 [u3333 | 04:09:49.206-04:09:51.096 | DM] So, yes let's try and.
@@ -3454,7 +3454,7 @@
 [u3454 | 04:19:39.216-04:19:43.026 | Delwath] I think, in the absence of a more.
 [u3455 | 04:19:46.026-04:19:54.186 | Delwath] compelling plan or an urgent reason to do otherwise when we return from Agata's lair and after the festival.
 [u3456 | 04:19:56.106-04:20:02.946 | Delwath] And after Kenzo {{continues to set gets the three}} you only need two more.
-[u3457 | 04:20:07.206-04:20:12.066 | Delwath] where's the where's the initiate where's the monastery of {{shit}} yeah there.
+[u3457 | 04:20:07.206-04:20:12.066 | Delwath] where's the where's the initiate where's the monastery of Chidya yeah there.
 [u3458 | 04:20:12.696-04:20:14.796 | Kenzo] Is a {{one volume cydia}}.
 [u3459 | 04:20:15.186-04:20:19.416 | DM] holly there's actually there's actually four more because you've got.
 [u3460 | 04:20:19.776-04:20:20.556 | Delwath] {{OSHA una}}.

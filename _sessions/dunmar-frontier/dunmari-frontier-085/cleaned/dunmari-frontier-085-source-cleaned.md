@@ -194,7 +194,7 @@
 [u0194 | 00:26:00.780-00:26:06.809 | DM] and I think that's it. Unless you have some hidden sources of elemental metal, I can enchant
 [u0195 | 00:26:08.570-00:26:12.830 | Seeker] what was the metal called? We do have a
 [u0196 | 00:26:12.920-00:26:16.879 | Seeker] yes, I'd like to add that to my glove now.
-[u0197 | 00:26:17.870-00:26:22.070 | DM] Oh, no, we don't need to add anything to your glove. The {{entire}} is for the
+[u0197 | 00:26:17.870-00:26:22.070 | DM] Oh, no, we don't need to add anything to your glove. The inkaye is for the
 [u0198 | 00:26:23.200-00:26:27.019 | DM] the the ship cannon. Your glove is magical enough.
 [u0199 | 00:26:27.220-00:26:28.879 | Seeker] Good, very good.
 [u0200 | 00:26:30.350-00:26:33.730 | Seeker] And or or maybe you don't want a cannon, and maybe you wanna
@@ -265,7 +265,7 @@
 [u0265 | 00:31:34.120-00:31:42.430 | DM] unrolls itself, unfolds itself into a piece of paper. Air mail. It is. It is a letter. It's the Philosophers’ Guild.
 [u0266 | 00:31:42.640-00:31:44.270 | DM] and it says.
 [u0267 | 00:31:45.450-00:31:51.430 | DM] There are words. It says.
-[u0268 | 00:31:52.050-00:31:55.150 | DM] dear Seeker of {{hiking}}, brother to Frankar.
+[u0268 | 00:31:52.050-00:31:55.150 | DM] dear Seeker of Highkeep, brother to Frankar.
 [u0269 | 00:31:55.390-00:32:10.170 | Seeker] Your gift, though generously given, is a common trinket device made in great numbers during the age of Drankor to facilitate logistical support for the armies of the Empire. The trick of their easy construction has been lost, but many 100 still survive.
 [u0270 | 00:32:10.920-00:32:13.510 | DM] and there's little new to learn from this trinket.
 [u0271 | 00:32:13.710-00:32:14.450 | Seeker] Hmm!
@@ -991,7 +991,7 @@
 [u0991 | 01:36:01.610-01:36:05.529 | DM] Seeker is
 [u0992 | 01:36:07.290-01:36:09.550 | DM] 5 feet away from the boat.
 [u0993 | 01:36:11.400-01:36:13.430 | DM] and oh.
-[u0994 | 01:36:14.010-01:36:16.199 | DM] Faldrak, where is {{contract}}.
+[u0994 | 01:36:14.010-01:36:16.199 | DM] Faldrak, where is Faldrak.
 [u0995 | 01:36:59.110-01:37:02.480 | DM] Okay, Faldrak is 10 feet away from Seeker.
 [u0996 | 01:37:04.150-01:37:07.610 | DM] I think it would be. And then the boat.
 [u0997 | 01:37:09.020-01:37:24.120 | DM] yes.
@@ -1498,7 +1498,7 @@
 [u1498 | 02:21:32.950-02:21:36.540 | DM] that's like a big carved arch
 [u1499 | 02:21:37.710-02:21:39.359 | DM] cut out of the stone.
 [u1500 | 02:21:39.520-02:21:41.240 | Seeker] What's the carving style
-[u1501 | 02:21:43.780-02:21:44.700 | Seeker] {{we're then}}?
+[u1501 | 02:21:43.780-02:21:44.700 | Seeker] Dwarven?
 [u1502 | 02:21:45.650-02:21:54.119 | DM] II mean, it's like it's like a. It's like, you know, rough hewn rock. II don't know that there's a well, I mean, go ahead and make
 [u1503 | 02:21:56.250-02:21:57.830 | DM] I guess a history check.
 [u1504 | 02:22:04.550-02:22:09.970 | DM] Yeah, it's it's sort of hard. I mean, it's not. There's not a lot of detail here, right? It's

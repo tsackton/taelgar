@@ -176,7 +176,7 @@
 [u0176 | 00:18:52.860-00:18:53.980 | Delwath] No, that's one.
 [u0177 | 00:18:55.070-00:18:56.330 | DM] No, that's 2.
 [u0178 | 00:18:57.780-00:19:06.660 | Delwath] You might remember what
-[u0179 | 00:19:08.110-00:19:14.770 | DM] homeland of the {{sealf}} who joined you in your
+[u0179 | 00:19:08.110-00:19:14.770 | DM] homeland of the sea elf who joined you in your
 [u0180 | 00:19:15.570-00:19:17.390 | Wellby] quest. Wellby
 [u0181 | 00:19:17.980-00:19:19.030 | Seeker] and
 [u0182 | 00:19:21.670-00:19:24.210 | Wellby] awesome. So way
@@ -184,8 +184,8 @@
 [u0184 | 00:19:29.700-00:19:35.579 | Delwath] Mike, did you expect, when you gave us this, that we would do something other than go to these places?
 [u0185 | 00:19:36.340-00:19:47.819 | DM] I thought it might take you a little bit more time to decipher, so you would already be on your way back to. I thought maybe it would be one. It would take you one more session to decipher.
 [u0186 | 00:19:50.550-00:19:55.580 | Delwath] I mean, we could go deal with Grash, and then go on our big diversion.
-[u0187 | 00:19:56.850-00:20:05.590 | Delwath] You've underestimated our appetite for side quests. But I really want to go to the blessed springs of {{bursa}}. This the sunken garden of in
-[u0188 | 00:20:05.890-00:20:09.079 | Delwath] in {{Vulus}}, who doesn't wanna go to a sunken garden.
+[u0187 | 00:19:56.850-00:20:05.590 | Delwath] You've underestimated our appetite for side quests. But I really want to go to the blessed springs of Beresa. This the sunken garden of in
+[u0188 | 00:20:05.890-00:20:09.079 | Delwath] in Inulvis, who doesn't wanna go to a sunken garden.
 [u0189 | 00:20:10.080-00:20:11.060 | Kenzo] Totally.
 [u0190 | 00:20:14.580-00:20:20.770 | DM] I mean, you just really need to level up a couple more times, and then you can learn teleport.
 [u0191 | 00:20:21.600-00:20:33.170 | DM] Yeah. But also, if we level up a couple more times. Killing Grash will be so much easier
@@ -422,7 +422,7 @@
 [u0422 | 00:44:50.290-00:44:55.039 | Kenzo] Tim. Kenzo, he's like kind of feeling out. He's not. This guy's not a dragon right?
 [u0423 | 00:44:55.420-00:44:57.620 | Wellby] That's also the vibe that I was getting.
 [u0424 | 00:44:57.630-00:45:06.750 | Kenzo] Not that you can sense, hey! Hold on! But we could never actually tell.
-[u0425 | 00:45:07.140-00:45:14.579 | Delwath] None of our magic was able to tell {{that the elf was}}. Soul Sight did not reveal that {{Mesar}}
+[u0425 | 00:45:07.140-00:45:14.579 | Delwath] None of our magic was able to tell {{that the elf was}}. Soul Sight did not reveal that Mezzar
 [u0426 | 00:45:14.630-00:45:20.160 | Delwath] the, the elf. What's something that only a dragon would
 [u0427 | 00:45:20.470-00:45:27.119 | Delwath] Grimbaskal was a nasty piece of work, spent a lot of time pretending to be an elf.
 [u0428 | 00:45:28.550-00:45:30.460 | Delwath] Not very pleasant.
@@ -667,8 +667,8 @@
 [u0667 | 01:06:39.260-01:06:43.139 | Delwath] while while you're answering questions so
 [u0668 | 01:06:44.070-01:06:45.440 | Delwath] generously.
 [u0669 | 01:06:50.670-01:06:52.819 | Delwath] have you heard of.
-[u0670 | 01:06:55.260-01:06:59.910 | Delwath] Have you heard of the blessed springs of {{Verisa}}.
-[u0671 | 01:07:00.570-01:07:03.410 | Delwath] or the sunken garden of {{Invoice}}?
+[u0670 | 01:06:55.260-01:06:59.910 | Delwath] Have you heard of the blessed springs of Beresa.
+[u0671 | 01:07:00.570-01:07:03.410 | Delwath] or the sunken garden of Inulvis?
 [u0672 | 01:07:06.220-01:07:09.670 | DM] There we go in my profile.
 [u0673 | 01:07:10.650-01:07:11.420 | Seeker] Yeah.
 [u0674 | 01:07:14.600-01:07:16.010 | DM] equipment.
@@ -794,7 +794,7 @@
 [u0794 | 01:21:25.360-01:21:32.419 | Delwath] seems knowledgeable of those parts of the world. If you might know what Rodnya is.
 [u0795 | 01:21:35.670-01:21:38.240 | DM] it could be anything I mean.
 [u0796 | 01:21:39.270-01:21:44.589 | Unknown] They speak their own language, almost none of them speak common.
-[u0797 | 01:21:45.380-01:21:51.820 | DM] Few of them speak the trade tongue of the Far East {{East jars}} which
+[u0797 | 01:21:45.380-01:21:51.820 | DM] Few of them speak the trade tongue of the Far East Eastros which
 [u0798 | 01:21:51.950-01:21:56.639 | Unknown] those of us who trade with them end up having to learn.
 [u0799 | 01:21:56.930-01:22:01.480 | DM] So maybe it's a word in their language it could mean, you know.
 [u0800 | 01:22:03.380-01:22:06.739 | DM] who knows what lord, king or
@@ -1164,7 +1164,7 @@
 [u1164 | 02:01:45.590-02:01:48.659 | Delwath] the 5 places from the
 [u1165 | 02:01:50.140-02:01:57.049 | Delwath] right, so like again, that not trying to be too obvious about it. But just you know.
 [u1166 | 02:01:57.550-02:02:06.209 | Delwath] hey? I heard a story about you know. I found a scrap scrap of a scroll that mentioned the sunken gardens of
-[u1167 | 02:02:06.400-02:02:14.329 | Delwath] that of {{Invalis}}. But I can't figure out, you know I've never heard of {{infest}} right. Is that a thing that you've heard of
+[u1167 | 02:02:06.400-02:02:14.329 | Delwath] that of Inulvis. But I can't figure out, you know I've never heard of Inulvis right. Is that a thing that you've heard of
 [u1168 | 02:02:14.520-02:02:15.980 | Delwath] that sort of
 [u1169 | 02:02:16.390-02:02:25.969 | Delwath] trying to bring it up in conversation more than just like pouncing on guests and being like grilling them for information. But those 5 places, plus
 [u1170 | 02:02:26.050-02:02:28.570 | Delwath] plus Ursk. And in particular.
@@ -1371,8 +1371,8 @@
 [u1371 | 02:21:35.800-02:21:39.580 | Unknown] obviously like. You know what the rumor. What's true? What?
 [u1372 | 02:21:40.720-02:21:44.690 | DM] what?
 [u1373 | 02:21:44.760-02:21:46.780 | Unknown] What's false?
-[u1374 | 02:21:48.500-02:22:01.059 | DM] but you pick up a few bits of information. The first one is is so the multiple people halflings. Others know the holy wells of {{Parma}}.
-[u1375 | 02:22:02.100-02:22:08.540 | DM] The holy wells of {{Parmo}} are a small on a small island off the coast of Sembara.
+[u1374 | 02:21:48.500-02:22:01.059 | DM] but you pick up a few bits of information. The first one is is so the multiple people halflings. Others know the holy wells of Parmo.
+[u1375 | 02:22:02.100-02:22:08.540 | DM] The holy wells of Parmo are a small on a small island off the coast of Sembara.
 [u1376 | 02:22:08.890-02:22:11.739 | Unknown] and they are supposedly like
 [u1377 | 02:22:12.010-02:22:14.450 | DM] ancient, like
 [u1378 | 02:22:15.860-02:22:22.730 | DM] original, and Drankorian like an original Drankorian well, and this really well preserved
@@ -1395,16 +1395,16 @@
 [u1395 | 02:24:16.020-02:24:17.390 | Kenzo] Super interesting.
 [u1396 | 02:24:18.690-02:24:25.059 | DM] But the other thing that you mentioned Quanyi and
 [u1397 | 02:24:25.580-02:24:35.190 | Unknown] Vetta, Of course, I think a couple of people have heard of, although especially people have heard of this, because for a while, like
-[u1398 | 02:24:35.480-02:24:53.469 | DM] the the Skaer. Yes, {{Brand}} and Kaupa were like trying to recruit mercenaries. Yeah, go right. So this is like everybody knows about Vetta. Obviously Quanyi. Nobody's heard about like {{Nicasa}}.
+[u1398 | 02:24:35.480-02:24:53.469 | DM] the the Skaer. Yes, {{Brand}} and Kaupa were like trying to recruit mercenaries. Yeah, go right. So this is like everybody knows about Vetta. Obviously Quanyi. Nobody's heard about like Nkasa.
 [u1399 | 02:24:53.520-02:24:56.130 | Unknown] Nobody's heard about
-[u1400 | 02:24:57.590-02:25:00.429 | DM] {{Faressa}}. Nobody's heard about
-[u1401 | 02:25:01.620-02:25:07.740 | DM] {{in all this}} like you get a couple people who think like, Oh, maybe that's on that big island.
+[u1400 | 02:24:57.590-02:25:00.429 | DM] Beresa. Nobody's heard about
+[u1401 | 02:25:01.620-02:25:07.740 | DM] Inulvis like you get a couple people who think like, Oh, maybe that's on that big island.
 [u1402 | 02:25:07.980-02:25:15.340 | DM] you know, way to the East. Maybe, like Irrla, I think it's called.
-[u1403 | 02:25:15.420-02:25:21.170 | Unknown] but nobody really knows, for sure. The holy Wells of {{Parma}} are the only one that's like. sort of obvious.
+[u1403 | 02:25:15.420-02:25:21.170 | Unknown] but nobody really knows, for sure. The holy Wells of Parmo are the only one that's like. sort of obvious.
 [u1404 | 02:25:21.860-02:25:26.310 | Delwath] So obviously. the guy was
 [u1405 | 02:25:26.610-02:25:27.639 | Unknown] {{not}} the holy wells {{so far}}.
 [u1406 | 02:25:30.090-02:25:33.030 | DM] that's presumably the yeah
-[u1407 | 02:25:33.650-02:25:38.659 | DM] island off the coast {{instead}}. Yeah, that. Yeah. He was at {{for a month}}.
+[u1407 | 02:25:33.650-02:25:38.659 | DM] island off the coast {{instead}}. Yeah, that. Yeah. He was at Parmo.
 [u1408 | 02:25:41.330-02:25:42.010 | Delwath] Okay?
 [u1409 | 02:25:43.700-02:25:50.370 | DM] And oh, and then about the empty spaces. So you.
 [u1410 | 02:25:53.040-02:26:08.649 | DM] I mean, you hear lots of rumors about the and about this empty space is like you hear like. One person tells you that there's snow elves there, that they're they're fierce, and they they're like degenerate, and they attack anybody who enters their territory.
@@ -1512,9 +1512,9 @@
 [u1512 | 02:36:45.630-02:36:51.810 | DM] you know, grunt work and stuff and form the backbone of his transportation system. Right? Kenku would be
 [u1513 | 02:36:52.090-02:36:54.400 | Unknown] flying people around or flying records.
 [u1514 | 02:36:56.170-02:36:58.430 | Unknown] and there's always been myths back.
-[u1515 | 02:36:59.460-02:37:05.960 | DM] There were people who never, {{and to them}}, though a lot of them died in the war, but {{Aaron}}
+[u1515 | 02:36:59.460-02:37:05.960 | DM] There were people who never, {{and to them}}, though a lot of them died in the war, but Aerin
 [u1516 | 02:37:06.110-02:37:09.729 | Unknown] rescued a bunch of them, and founded the kingdom, which originally
-[u1517 | 02:37:10.510-02:37:19.270 | DM] at the end of high school, was like on the ruins of the {{early monastery}}, which never seemed to make much sense. So we moved them to the far north.
+[u1517 | 02:37:10.510-02:37:19.270 | DM] at the end of high school, was like on the ruins of the Urlich Monastery, which never seemed to make much sense. So we moved them to the far north.
 [u1518 | 02:37:19.830-02:37:20.540 | Seeker] Boom!
 [u1519 | 02:37:20.680-02:37:21.650 | DM] And
 [u1520 | 02:37:21.880-02:37:28.429 | Unknown] you know. {{1,050 years}} something like that great war in there.
@@ -1828,7 +1828,7 @@
 [u1828 | 03:11:16.440-03:11:25.550 | DM] kind of are encompassing right? This just it almost seems like unimaginably
 [u1829 | 03:11:26.490-03:11:27.680 | Unknown] distant.
 [u1830 | 03:11:29.450-03:11:44.530 | DM] not so different relationship the tanshi have with, like. You know what they perceive as their sort of divine source, right? Like what they call Anida, {{in the}} which is the sort of
-[u1831 | 03:11:45.380-03:11:52.940 | DM] true divinity right? That's that's the duality of {{our and molecular}} in the Mos Numena, and that
+[u1831 | 03:11:45.380-03:11:52.940 | DM] true divinity right? That's that's the duality of Arha and Malik in the Mos Numena, and that
 [u1832 | 03:11:53.270-03:11:55.259 | Unknown] Drankorian, right? That.
 [u1833 | 03:11:55.820-03:11:57.450 | DM] But you get this.
 [u1834 | 03:11:57.560-03:12:01.189 | Unknown] {{you're stunt from the country and the skills}}. It's very kind of

@@ -8,7 +8,7 @@
 [u0008 | 00:00:30.690-00:00:35.670 | DM] Years later, halfling storytellers will recount how in a small village on the edge of Dunmar.
 [u0009 | 00:00:36.030-00:00:49.560 | DM] Four unlikely wanderers met, drawn together by chance and circumstance as dangers not seen for a generation began creeping across the border wild creatures, full of all-consuming hunger, driven by the evil energy of the Abyss.
 [u0010 | 00:00:50.970-00:00:58.350 | DM] The storytellers will weave the song of years past into the tale for the song of this year, like all years does not stand alone.
-[u0011 | 00:01:00.300-00:01:13.740 | DM] Well, this story has many beginnings most to tell this tale start in the year of joyful rains long ago, when the Fraternity of the Empty Moon a cult of werewolves tried and failed to draw Pandemonium closer to {{town}}.
+[u0011 | 00:01:00.300-00:01:13.740 | DM] Well, this story has many beginnings most to tell this tale start in the year of joyful rains long ago, when the Fraternity of the Empty Moon a cult of werewolves tried and failed to draw Pandemonium closer to Taelgar.
 [u0012 | 00:01:15.060-00:01:19.410 | DM] They were defeated by the Dunmari outside Tokra, driven east and forgotten.
 [u0013 | 00:01:21.000-00:01:27.540 | DM] Few sing the tale of the fraternity wandering in the wild lands in full, for even among the halflings not all parts of the song are known.
 [u0014 | 00:01:28.620-00:01:42.360 | DM] But all sing of the moment a nameless werewolf charismatic and smart came to the ruined city of Kharsan seeking to rally the offspring of Jinnik to his cause to rebuild the fraternity and succeed, where his forebears had failed.
@@ -32,7 +32,7 @@
 [u0032 | 00:05:07.080-00:05:11.550 | DM] Here that tale is muddled in the song strange for foreign gods keep secrets, even from the halflings.
 [u0033 | 00:05:13.170-00:05:21.450 | DM] Yet if our heroes were listening, they would know the details, how Agata lured Cintra out of Karawa with dreams of her daughter's illness.
 [u0034 | 00:05:22.140-00:05:31.830 | DM] deceived her into removing from Karawa the Heart of Shakun, the artifact that kept the divine protections on the eastern border of Dunmar intact.
-[u0035 | 00:05:32.640-00:05:48.060 | DM] How Agata kidnapped Cintra's daughter {{to me}} and kept Cintra prisoner on threat of death of her daughter, and how they learned of all this later than perhaps they would have liked from Cintra's spy {{Croatia could}} skilled in many things, except making decisions in a crisis.
+[u0035 | 00:05:32.640-00:05:48.060 | DM] How Agata kidnapped Cintra's daughter Jumi and kept Cintra prisoner on threat of death of her daughter, and how they learned of all this later than perhaps they would have liked from Cintra's spy {{Croatia could}} skilled in many things, except making decisions in a crisis.
 [u0036 | 00:05:51.900-00:06:06.660 | DM] Storytellers, though the details are murky do not neglect our heroes at the moment, they confront Agata in the desert south of Karawa the tempo of the song rises for here comes the halfling's moment of glory the killing arrow from point blank range.
 [u0037 | 00:06:08.100-00:06:26.760 | DM] With Agata defeated the heart restored all seems safe except our heroes don't know it yet storytellers sing of the Fraternity of the Empty Moon hard at work in Tokra seemingly secure in their anonymity waiting until the time is right for the long prophesied ritual.
 [u0038 | 00:06:28.380-00:06:40.290 | DM] They are stymied only by the cruelty and madness of Pandemonium itself for even Jinnik's servants cannot simply ignore the confusion disorientation of trying to approach the Pandemonium that nests.
@@ -85,7 +85,7 @@
 [u0085 | 00:10:16.170-00:10:18.510 | Delwath] {{If we've had to suck at}} a couple of sessions i'll be.
 [u0086 | 00:10:18.510-00:10:18.960 | Unknown] shocked.
 [u0087 | 00:10:22.770-00:10:23.160 | DM] So.
-[u0088 | 00:10:24.570-00:10:29.700 | Delwath] Should we stop and see what all the monks of {{lot of walk}} are doing by the tower.
+[u0088 | 00:10:24.570-00:10:29.700 | Delwath] Should we stop and see what all the monks of Laka are doing by the tower.
 [u0089 | 00:10:30.900-00:10:33.000 | Kenzo] No, no we're gonna go straight to Saka.
 [u0090 | 00:10:35.520-00:10:37.110 | Delwath] Saka before we do that {{he made}}.
 [u0091 | 00:10:37.170-00:10:47.160 | DM] So here's my question ah, all you know about Saka is she travels with her family, of horse herders on the plains north of Tokra.
@@ -102,7 +102,7 @@
 [u0102 | 00:11:28.770-00:11:32.430 | Delwath] They didn't um Somebody tell us where Saka was usually found.
 [u0103 | 00:11:32.580-00:11:32.970 | Unknown] yeah.
 [u0104 | 00:11:34.590-00:11:35.700 | Kenzo] i'm the.
-[u0105 | 00:11:36.030-00:11:37.770 | Kenzo] speaker not Speaker {{Laura}} i'm.
+[u0105 | 00:11:36.030-00:11:37.770 | Kenzo] speaker not Speaker Lara i'm.
 [u0106 | 00:11:38.670-00:11:40.740 | Kenzo] The head of the head of the.
 [u0107 | 00:11:40.860-00:11:42.120 | Delwath] head of the what's your name.
 [u0108 | 00:11:42.510-00:11:43.380 | Kenzo] yeah what is her name Tim.
@@ -361,7 +361,7 @@
 [u0361 | 00:29:43.410-00:29:48.150 | DM] Like the night, the nightmare you like what bits of the nightmare, if you can remember, is like.
 [u0362 | 00:29:48.570-00:29:49.860 | DM] You killing.
 [u0363 | 00:29:51.360-00:29:52.770 | DM] Johar or.
-[u0364 | 00:29:54.180-00:30:02.880 | DM] Rishi like somebody from your past or {{kajsa}} like somebody you, like you, killing your family basically.
+[u0364 | 00:29:54.180-00:30:02.880 | DM] Rishi like somebody from your past or Kaeso like somebody you, like you, killing your family basically.
 [u0365 | 00:30:04.440-00:30:08.970 | DM] Is the bit of the nightmare, you can remember, but not in detail.
 [u0366 | 00:30:10.620-00:30:12.870 | DM] And it seems to be driven off every time.
 [u0367 | 00:30:14.010-00:30:17.340 | DM] Every time you hear the hammers or the or the other.
@@ -1408,7 +1408,7 @@
 [u1408 | 01:54:36.240-01:54:38.340 | Wellby] {{Such as yourself}}, you have other ideas.
 [u1409 | 01:54:41.340-01:54:48.420 | DM] She looks around that you all, and she like leans forward and like taps Kenzo on the chest with with the staff.
 [u1410 | 01:54:49.740-01:54:51.660 | DM] You call yourself a Mystai of Bhishma.
-[u1411 | 01:54:52.950-01:54:58.260 | DM] There are many gods linger around you even the {{bar is out}}, for some reason.
+[u1411 | 01:54:52.950-01:54:58.260 | DM] There are many gods linger around you even the Bahrâzel, for some reason.
 [u1412 | 01:54:59.400-01:55:03.360 | DM] seemed to have a lingering ECHO on your soul.
 [u1413 | 01:55:04.500-01:55:05.040 | Seeker] Say that again.
 [u1414 | 01:55:05.430-01:55:06.480 | DM] That god's.
@@ -1587,7 +1587,7 @@
 [u1587 | 02:09:45.690-02:09:50.250 | DM] Some elder beast and elder wyrm of an ancient era one of the.
 [u1588 | 02:09:51.270-02:09:53.700 | DM] primordial beings of power from.
 [u1589 | 02:09:55.200-02:09:56.310 | DM] Before even.
-[u1590 | 02:09:57.360-02:10:04.800 | DM] Time began, one of the first children of {{rotten samba}} before they birthed the gods and humans.
+[u1590 | 02:09:57.360-02:10:04.800 | DM] Time began, one of the first children of Shurat and Sampa before they birthed the gods and humans.
 [u1591 | 02:10:08.460-02:10:10.020 | DM] Not just exist.
 [u1592 | 02:10:11.640-02:10:13.020 | DM] As i've been told.
 [u1593 | 02:10:14.520-02:10:15.930 | DM] Here on Taelgar.
@@ -1595,7 +1595,7 @@
 [u1595 | 02:10:25.230-02:10:26.670 | DM] The shadow realms.
 [u1596 | 02:10:28.050-02:10:30.330 | DM] The places of chaos in this world.
 [u1597 | 02:10:32.100-02:10:33.930 | DM] or sorry not in this world.
-[u1598 | 02:10:36.180-02:10:43.530 | DM] The Abyss, Pandemonium, Limbo, even Arborea the endless war of {{Ark}}.
+[u1598 | 02:10:36.180-02:10:43.530 | DM] The Abyss, Pandemonium, Limbo, even Arborea the endless war of Thark.
 [u1599 | 02:10:48.420-02:10:59.580 | DM] When he died his death reverberated in all these places, as well as here and something of these realms was pulled into our world in places where he had power.
 [u1600 | 02:11:05.190-02:11:06.390 | DM] We found these.
 [u1601 | 02:11:07.980-02:11:15.450 | DM] seeds of chaos, one might call them while searching across the vast plains for the Dunmari dead.
@@ -1680,7 +1680,7 @@
 [u1680 | 02:18:47.850-02:18:49.110 | DM] The planes were one.
 [u1681 | 02:18:50.340-02:18:51.180 | DM] There was no.
 [u1682 | 02:18:53.610-02:18:57.570 | DM] Shadowfell or Abyss there was just the world.
-[u1683 | 02:18:58.950-02:19:03.270 | DM] And the children of {{shard and samba}} walk the earth changing its form with their thoughts.
+[u1683 | 02:18:58.950-02:19:03.270 | DM] And the children of Shurat and Sampa walk the earth changing its form with their thoughts.
 [u1684 | 02:19:07.950-02:19:15.510 | DM] weary of this unending chaos and in a breath as long as an Eon split the world separating it out.
 [u1685 | 02:19:18.390-02:19:23.220 | DM] Giving form and solidity to this place, we now call Taelgar.
 [u1686 | 02:19:27.630-02:19:39.690 | DM] Some perhaps only {{a certain shoppach thought back and kill the the lead now}} perhaps only they can separate out the essence of these other places, and put it back.
@@ -1689,7 +1689,7 @@
 [u1689 | 02:19:53.310-02:19:55.980 | DM] The greatest minds of my order thought.
 [u1690 | 02:19:57.330-02:19:59.970 | DM] They simply have to close a doorway.
 [u1691 | 02:20:02.460-02:20:08.940 | DM] and closing a doorway is much easier than separating impurities that run through the heart of this world.
-[u1692 | 02:20:11.190-02:20:16.260 | DM] Perhaps only {{shroud and samba}} can do that perhaps only they can heal the land now.
+[u1692 | 02:20:11.190-02:20:16.260 | DM] Perhaps only Shurat and Sampa can do that perhaps only they can heal the land now.
 [u1693 | 02:20:17.940-02:20:19.560 | DM] But they do not answer prayers.
 [u1694 | 02:20:26.820-02:20:31.020 | DM] So I would say, if the land is ever to be healed that will be by a divine act.
 [u1695 | 02:20:32.070-02:20:39.540 | DM] And as the gods have not seen to fit seen fit to grant that prayer yet, perhaps even they cannot do such a thing.
@@ -1872,7 +1872,7 @@
 [u1872 | 02:36:15.450-02:36:17.550 | DM] And maybe the separation.
 [u1873 | 02:36:20.310-02:36:23.850 | DM] Pulling apart of these realms.
 [u1874 | 02:36:28.380-02:36:28.710 | DM] That.
-[u1875 | 02:36:30.570-02:36:35.010 | DM] {{schrott and samba}} did long ago has left echoes.
+[u1875 | 02:36:30.570-02:36:35.010 | DM] Shurat and Sampa did long ago has left echoes.
 [u1876 | 02:36:36.060-02:36:41.490 | DM] Maybe they themselves control the tides, I could speculate I don't know.
 [u1877 | 02:36:42.780-02:36:44.040 | DM] This is not my area.
 [u1878 | 02:36:48.150-02:36:51.990 | Kenzo] Saka when you say that you spoke to Rai yourself.
@@ -1894,12 +1894,12 @@
 [u1894 | 02:37:54.450-02:37:54.930 | DM] Their.
 [u1895 | 02:37:56.280-02:37:57.360 | DM] Their plan.
 [u1896 | 02:38:00.720-02:38:02.220 | DM] Their plan was to go.
-[u1897 | 02:38:13.980-02:38:17.040 | DM] West somewhere on the River {{hard}}.
+[u1897 | 02:38:13.980-02:38:17.040 | DM] West somewhere on the River Hara.
 [u1898 | 02:38:20.340-02:38:22.410 | DM] west of the Hara the river that.
 [u1899 | 02:38:28.470-02:38:31.530 | DM] The River Kharja where Kharsan is on.
-[u1900 | 02:38:32.760-02:38:43.440 | DM] And if you head east further from that river, you will come to the {{maha}} river Valley, the first river that Dunmari encountered as they came West.
+[u1900 | 02:38:32.760-02:38:43.440 | DM] And if you head east further from that river, you will come to the Mahar river Valley, the first river that Dunmari encountered as they came West.
 [u1901 | 02:38:46.830-02:38:48.300 | DM] And that is where they were heading.
-[u1902 | 02:38:51.270-02:38:57.180 | DM] The {{maha}} the Kharja and the Hara all join in the south.
+[u1902 | 02:38:51.270-02:38:57.180 | DM] The Mahar the Kharja and the Hara all join in the south.
 [u1903 | 02:38:58.380-02:39:01.020 | DM] Before flowing past the ruin city of Drankor.
 [u1904 | 02:39:06.090-02:39:10.140 | Wellby] You said some of the Mystai went to that city.
 [u1905 | 02:39:10.830-02:39:11.520 | Unknown] They did.
@@ -1942,9 +1942,9 @@
 [u1942 | 02:41:36.210-02:41:37.350 | DM] Saka thinks they went.
 [u1943 | 02:41:39.630-02:41:40.230 | DM] yeah.
 [u1944 | 02:41:40.590-02:41:41.940 | Delwath] right down here that's what.
-[u1945 | 02:41:42.480-02:41:52.860 | DM] yeah but maybe somewhere else along the {{mall}} like there's other significant sites that's where the Dunmari first like here is like where the Dunmari first.
+[u1945 | 02:41:42.480-02:41:52.860 | DM] yeah but maybe somewhere else along the Mahar like there's other significant sites that's where the Dunmari first like here is like where the Dunmari first.
 [u1946 | 02:41:54.840-02:41:57.150 | DM] encountered Dunmar and there's like.
-[u1947 | 02:41:59.880-02:42:11.070 | DM] This confluence as well as another important point so there's a lot of places along the {{mahara}} that could have been a destination Saka does not know for sure where they were right.
+[u1947 | 02:41:59.880-02:42:11.070 | DM] This confluence as well as another important point so there's a lot of places along the Mahar that could have been a destination Saka does not know for sure where they were right.
 [u1948 | 02:42:19.830-02:42:23.340 | Kenzo] And you don't know what their plan was when they went.
 [u1949 | 02:42:29.460-02:42:34.170 | DM] Their plan, I mean, as far as it goes, their plan was to.
 [u1950 | 02:42:36.750-02:42:38.040 | DM] search out these.
@@ -2126,7 +2126,7 @@
 [u2126 | 02:57:12.900-02:57:13.290 | Seeker] Whether you're.
 [u2127 | 02:57:15.510-02:57:16.740 | Kenzo] Actually, in the east, right.
 [u2128 | 02:57:16.860-02:57:20.490 | DM] wow like close to the border of Dunmar.
-[u2129 | 02:57:21.660-02:57:26.520 | DM] Like like a you know, maybe around like where {{pawn off}} of that sort of area.
+[u2129 | 02:57:21.660-02:57:26.520 | DM] Like like a you know, maybe around like where Pava of that sort of area.
 [u2130 | 02:57:27.300-02:57:33.180 | Seeker] Oh much closer to us than yeah yeah even Kharsan and i'm.
 [u2131 | 02:57:34.830-02:57:38.730 | Seeker] Is it possible that there's one of these seeds in Kharsan or no.
 [u2132 | 02:57:39.600-02:57:40.110 | Unknown] possible.
@@ -2279,7 +2279,7 @@
 [u2279 | 03:08:04.380-03:08:04.740 | Seeker] Well, I.
 [u2280 | 03:08:06.000-03:08:08.550 | Kenzo] would say more about the fey, fey creature, and the way again.
 [u2281 | 03:08:09.690-03:08:11.070 | Kenzo] tries from from Agata.
-[u2282 | 03:08:11.340-03:08:19.200 | Seeker] Its name is {{Tina}} it was trapped in this ring and {{lives in the wants to}} came from the Feywild and wants to return there.
+[u2282 | 03:08:11.340-03:08:19.200 | Seeker] Its name is Typhina it was trapped in this ring and {{lives in the wants to}} came from the Feywild and wants to return there.
 [u2283 | 03:08:20.010-03:08:22.380 | Kenzo] And did we get it from Agata yeah.
 [u2284 | 03:08:23.550-03:08:25.860 | Kenzo] And you you're wearing this right yeah.
 [u2285 | 03:08:26.940-03:08:28.230 | Kenzo] And you've been wearing it since we killed.
@@ -2561,7 +2561,7 @@
 [u2561 | 03:27:32.670-03:27:35.430 | Seeker] yeah it's as though we're gonna make a plan and stick to it.
 [u2562 | 03:27:35.850-03:27:37.560 | Delwath] yeah I don't know why we're pretending.
 [u2563 | 03:27:37.590-03:27:38.070 | Delwath] Right like.
-[u2564 | 03:27:40.950-03:27:43.650 | DM] You still have information from {{Kathy}} on.
+[u2564 | 03:27:40.950-03:27:43.650 | DM] You still have information from Kassi on.
 [u2565 | 03:27:43.980-03:27:45.810 | DM] lost gods and on Rai.
 [u2566 | 03:27:46.410-03:27:48.780 | Kenzo] Well that's true, as we get to learn a little more next time okay.
 [u2567 | 03:27:48.900-03:27:51.420 | Seeker] First we're going to do at least one exorcism in Tokra next time.

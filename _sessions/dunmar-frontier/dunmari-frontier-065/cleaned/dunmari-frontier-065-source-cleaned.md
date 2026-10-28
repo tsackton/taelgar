@@ -11,7 +11,7 @@
 [u0011 | 00:00:49.580-00:00:52.680 | DM] traveling to the summer court of the Lightdancer,
 [u0012 | 00:00:52.750-00:00:57.010 | DM] vibrant whirlwind of color and song and food and dance
 [u0013 | 00:00:58.080-00:01:01.180 | DM] and Seeker spending some time learning the
-[u0014 | 00:01:01.760-00:01:06.490 | DM] about the crystallized magic gifted to you by {{a Lauren}},
+[u0014 | 00:01:01.760-00:01:06.490 | DM] about the crystallized magic gifted to you by Illaran,
 [u0015 | 00:01:07.120-00:01:08.240 | DM] and
 [u0016 | 00:01:08.380-00:01:13.500 | DM] fashioning it into an item you can use, which I just added to your character sheet.
 [u0017 | 00:01:14.310-00:01:15.550 | Seeker] Great, thank you.
@@ -172,7 +172,7 @@
 [u0172 | 00:14:03.490-00:14:04.460 | Caulaus] Yes,
 [u0173 | 00:14:04.690-00:14:06.620 | Caulaus] a soldier in the third,
 [u0174 | 00:14:07.260-00:14:08.440 | Caulaus] the
-[u0175 | 00:14:08.870-00:14:10.570 | Caulaus] third {{Celest}} legion
+[u0175 | 00:14:08.870-00:14:10.570 | Caulaus] third Sylvan legion
 [u0176 | 00:14:11.760-00:14:14.079 | Caulaus] I am a um
 [u0177 | 00:14:14.550-00:14:17.169 | Caulaus] i'm i'm heading to to.
 [u0178 | 00:14:18.130-00:14:26.050 | Caulaus] I would welcome your, your your company. I've learned also of this Lastlight Falls.
@@ -1293,7 +1293,7 @@
 [u1293 | 01:41:44.030-01:41:47.210 | DM] No, as long as you are willing to shout.
 [u1294 | 01:41:48.550-01:41:52.000 | Seeker] Oh, yeah,
 [u1295 | 01:41:53.540-01:41:56.730 | Spirala] So it's not good acoustics.
-[u1296 | 01:41:58.700-01:41:59.580 | Um] 
+[u1296 | 01:41:58.700-01:41:59.580 | Unknown] Um.
 [u1297 | 01:41:59.750-01:42:03.519 | Seeker] basically I want it to grapple the giant to try to cover its head.
 [u1298 | 01:42:04.510-01:42:05.550 | DM] Okay,
 [u1299 | 01:42:05.850-01:42:09.009 | DM] I would say, That's just a normal grapple.
@@ -1463,7 +1463,7 @@
 [u1463 | 01:55:39.410-01:55:43.290 | Raven] That's a little that's a little spicy. I don't know I do. You.
 [u1464 | 01:55:45.100-01:55:47.199 | DM] That's a little.
 [u1465 | 01:55:47.580-01:55:49.389 | Seeker] There's a little state
-[u1466 | 01:55:52.820-01:55:55.319 | DM] you can {{motivate}} lets you re-roll
+[u1466 | 01:55:52.820-01:55:55.319 | DM] you can mote of fate lets you re-roll
 [u1467 | 01:55:56.930-01:56:00.939 | DM] it's a one use thing, but you could do that if you wanted to.
 [u1468 | 01:56:02.150-01:56:04.709 | Seeker] No, I'll take the thirty-five. Okay,
 [u1469 | 01:56:04.740-01:56:08.080 | DM] you are cursed. Oh, No,

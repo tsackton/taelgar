@@ -1002,7 +1002,7 @@
 [u1002 | 01:20:52.200-01:20:56.310 | DM] Right that's true so it still hits, but he doesn't do double damage.
 [u1003 | 01:20:58.080-01:21:00.060 | DM] So you only take five points of damage.
 [u1004 | 01:21:01.740-01:21:05.940 | Iascaire] You got the adamantine Armor or is that a the racial trait.
-[u1005 | 01:21:07.350-01:21:08.460 | DM] That's {{out of it and}}.
+[u1005 | 01:21:07.350-01:21:08.460 | DM] That's adamantine.
 [u1006 | 01:21:09.540-01:21:12.030 | Iascaire] I just got that in my other game, a little while ago, I like.
 [u1007 | 01:21:13.410-01:21:14.400 | DM] it's your turn now.
 [u1008 | 01:21:20.970-01:21:22.500 | Aristaea] Okay, so.
@@ -1382,7 +1382,7 @@
 [u1382 | 01:49:31.650-01:49:36.510 | DM] Which would trap Taraka but also a thousand hobgoblins.
 [u1383 | 01:49:43.830-01:49:48.420 | Delwath] So do we free Taraka and the hobgoblins, or neither?
 [u1384 | 01:49:49.980-01:49:57.390 | Aristaea] So we have the option to close it for now, but like later bash it and we free everything.
-[u1385 | 01:49:59.610-01:50:11.040 | DM] Well, the problem is they aren't going to appear here you're just gonna unleash an army of 1000 goblins at some random point across {{town or}} you don't know where.
+[u1385 | 01:49:59.610-01:50:11.040 | DM] Well, the problem is they aren't going to appear here you're just gonna unleash an army of 1000 goblins at some random point across Taelgar you don't know where.
 [u1386 | 01:50:12.090-01:50:20.460 | Aristaea] But if we wanted to do that at some point when we were like prepared for it and had like armies all over the place counterbalance which.
 [u1387 | 01:50:21.810-01:50:25.680 | Aristaea] We could eventually free Taraka in theory.
 [u1388 | 01:50:27.690-01:50:28.140 | DM] Yes.
@@ -1752,7 +1752,7 @@
 [u1752 | 02:21:43.290-02:21:47.430 | Delwath] yeah destroying the circlet opens the demi plane backup {{to toggle}}.
 [u1753 | 02:21:47.970-02:21:50.040 | DM] Right, so what was {{happening during this}} circlet.
 [u1754 | 02:21:50.670-02:21:53.190 | DM] The demi plane and everybody in the demi plane.
-[u1755 | 02:21:53.370-02:22:01.500 | DM] If it's the last circlet of that demi plane than the demi plane vanishes and everybody in the demi plane is teleported back to {{town}}.
+[u1755 | 02:21:53.370-02:22:01.500 | DM] If it's the last circlet of that demi plane than the demi plane vanishes and everybody in the demi plane is teleported back to Taelgar.
 [u1756 | 02:22:02.850-02:22:04.740 | Iascaire] They get they get popped out somewhere.
 [u1757 | 02:22:04.830-02:22:07.080 | Iascaire] Like a {{beggar going insane}}.
 [u1758 | 02:22:07.830-02:22:08.730 | DM] yeah exactly.
@@ -1871,7 +1871,7 @@
 [u1871 | 02:29:57.660-02:29:58.500 | DM] You come.
 [u1872 | 02:30:02.790-02:30:03.540 | DM] To.
 [u1873 | 02:30:06.870-02:30:08.640 | DM] The {{battle they got}}.
-[u1874 | 02:30:12.570-02:30:15.120 | DM] The battlefield on {{that your motor}} river.
+[u1874 | 02:30:12.570-02:30:15.120 | DM] The battlefield on Yemo'te river.
 [u1875 | 02:30:17.820-02:30:26.730 | DM] Looking so as you approach here sort of looking across you can see, let me, let me put out a token for the.
 [u1876 | 02:30:28.650-02:30:31.920 | DM] Like on the far side of the River here.
 [u1877 | 02:30:34.410-02:30:36.930 | DM] You there's like like all over.
@@ -2362,7 +2362,7 @@
 [u2362 | 03:15:17.040-03:15:19.470 | Aristaea] Okay, it'll end very fast, but.
 [u2363 | 03:15:19.890-03:15:20.910 | Delwath] yeah but that's okay.
 [u2364 | 03:15:23.190-03:15:24.420 | Aristaea] {{Oh I'm shine}}.
-[u2365 | 03:15:27.600-03:15:32.340 | Delwath] {{sky}} there is going to be a point where I might want to burn my concentration on something else.
+[u2365 | 03:15:27.600-03:15:32.340 | Delwath] Iascaire there is going to be a point where I might want to burn my concentration on something else.
 [u2366 | 03:15:34.410-03:15:34.770 | Iascaire] Okay.
 [u2367 | 03:15:35.130-03:15:35.670 | Unknown] So.
 [u2368 | 03:15:36.990-03:15:43.080 | Delwath] I mean I don't know who those who goes first I'll go first So if I want to do that, we got a plan that you land on your turn.
@@ -2671,7 +2671,7 @@
 [u2671 | 03:37:49.410-03:37:50.610 | DM] Okay, so.
 [u2672 | 03:37:53.760-03:37:57.030 | Delwath] I hope you guys weren't counting on fly, because I think this is the turn Delwath goes down.
 [u2673 | 03:37:57.480-03:37:57.960 | Unknown] So.
-[u2674 | 03:38:00.030-03:38:05.670 | DM] {{Down with}} and so Iascaire takes 28 points of damage.
+[u2674 | 03:38:00.030-03:38:05.670 | DM] Delwath and so Iascaire takes 28 points of damage.
 [u2675 | 03:38:08.250-03:38:08.640 | Iascaire] Okay.
 [u2676 | 03:38:09.780-03:38:10.260 | DM] I'm.
 [u2677 | 03:38:11.730-03:38:13.290 | DM] Delwath and.

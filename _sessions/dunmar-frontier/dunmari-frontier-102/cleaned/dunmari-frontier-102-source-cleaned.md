@@ -81,7 +81,7 @@
 [u0081 | 00:05:40.440-00:05:44.730 | DM] debris, coral, and rock for fragments of ancient history.
 [u0082 | 00:05:45.430-00:05:47.940 | DM] Milo thinks back and tells
 [u0083 | 00:05:48.140-00:05:50.909 | DM] the tale to Wellby of how it all started.
-[u0084 | 00:05:51.510-00:06:03.980 | DM] and it started with a journey, as it always does a journey that had been quite a joy. Actually, the Stormdancer had left {{Sadrano}} early in the spring, over a year ago, now heading south.
+[u0084 | 00:05:51.510-00:06:03.980 | DM] and it started with a journey, as it always does a journey that had been quite a joy. Actually, the Stormdancer had left Cedrano early in the spring, over a year ago, now heading south.
 [u0085 | 00:06:04.380-00:06:11.280 | DM] In a month they were south of Illoria, in two, sailing through the strange waters of the Sea of Storms.
 [u0086 | 00:06:11.820-00:06:13.130 | DM] dodging
 [u0087 | 00:06:13.440-00:06:18.449 | DM] wind and rain, and passing Arcane islands dotted with ancient ruins.

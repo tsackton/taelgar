@@ -1,0 +1,20 @@
+--- before/u0600
++++ after/u0600
+@@ -1 +1 @@
+-[u0600 | 01:01:18.880-01:01:20.459 | DM] {{I go}} Nuzkar
++[u0600 | 01:01:18.880-01:01:20.459 | DM] Aygul Nuzkar
+--- before/u0645
++++ after/u0645
+@@ -1 +1 @@
+-[u0645 | 01:05:26.740-01:05:36.389 | DM] We need that 2 unconnected sending stones, you've got one that's connected to the {{boy and Chardon, in the Chardonian village}}, and one that's connected to {{serf}}.
++[u0645 | 01:05:26.740-01:05:36.389 | DM] We need that 2 unconnected sending stones, you've got one that's connected to the {{boy and Chardon, in the Chardonian village}}, and one that's connected to Sura.
+--- before/u1530
++++ after/u1530
+@@ -1 +1 @@
+-[u1530 | 02:26:06.060-02:26:14.279 | DM] {{rather}} just asked for what other challenges he might have. and he kind of looks. Yes, you were.
++[u1530 | 02:26:06.060-02:26:14.279 | DM] Riswynn just asked for what other challenges he might have. and he kind of looks. Yes, you were.
+--- before/u1844
++++ after/u1844
+@@ -1 +1 @@
+-[u1844 | 02:54:37.150-02:54:48.389 | Seeker] After removing all of the items from his body piles and piles of trinkets and scrolls, and the {{Gospel is}}
++[u1844 | 02:54:37.150-02:54:48.389 | Seeker] After removing all of the items from his body piles and piles of trinkets and scrolls, and the goggles

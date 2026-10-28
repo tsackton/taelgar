@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "stage": "quality",
+  "chunkId": "chunk-001",
+  "sourceSha256": "2c067de2622d921115cb30803f0e826cb8b484398a080dbb9279dc1d0f8ed820",
+  "verdict": "pass",
+  "findings": [],
+  "checks": [
+    "wording",
+    "punctuation",
+    "speaker_turns",
+    "uncertainty",
+    "boundary_continuity"
+  ],
+  "note": "Read all authored turns against the UID source and chunk-002 boundary. Preserved the geographical claim, spoken self-corrections, repetitions and Unknown interjections. Delwath overlay at u0036 matches first-person reply. Restored Talk and Hello after challenging display substitutions; retained only the damaged phrase in u0049. Final how joins the following like nobody goes naturally."
+}

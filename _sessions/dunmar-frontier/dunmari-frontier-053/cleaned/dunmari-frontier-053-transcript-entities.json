@@ -1,0 +1,1047 @@
+{
+  "mentions": [
+    {
+      "kind": "person",
+      "text": "Theba",
+      "uid": "u0001"
+    },
+    {
+      "kind": "group",
+      "text": "Te'kula",
+      "uid": "u0001"
+    },
+    {
+      "kind": "place",
+      "text": "material world",
+      "uid": "u0001"
+    },
+    {
+      "kind": "place",
+      "text": "the village",
+      "uid": "u0001"
+    },
+    {
+      "kind": "person",
+      "text": "Aasimti",
+      "uid": "u0002"
+    },
+    {
+      "kind": "person",
+      "text": "Birich'iko",
+      "uid": "u0002"
+    },
+    {
+      "kind": "person",
+      "text": "Ch'ik'a",
+      "uid": "u0003"
+    },
+    {
+      "kind": "person",
+      "text": "Kenzo",
+      "uid": "u0006"
+    },
+    {
+      "kind": "person",
+      "text": "Wellby",
+      "uid": "u0006"
+    },
+    {
+      "kind": "person",
+      "text": "Seeker",
+      "uid": "u0006"
+    },
+    {
+      "kind": "place",
+      "text": "Feywild",
+      "uid": "u0006"
+    },
+    {
+      "kind": "place",
+      "text": "Eudomes' Tower",
+      "uid": "u0006"
+    },
+    {
+      "kind": "time",
+      "text": "late afternoon",
+      "uid": "u0008"
+    },
+    {
+      "kind": "time",
+      "text": "dusk",
+      "uid": "u0008"
+    },
+    {
+      "kind": "time",
+      "text": "evening",
+      "uid": "u0011"
+    },
+    {
+      "kind": "place",
+      "text": "hunting camp",
+      "uid": "u0014"
+    },
+    {
+      "kind": "item",
+      "text": "shield",
+      "uid": "u0022"
+    },
+    {
+      "kind": "group",
+      "text": "Deno'qai",
+      "uid": "u0023"
+    },
+    {
+      "kind": "group",
+      "text": "Deno'qai",
+      "uid": "u0036"
+    },
+    {
+      "kind": "item",
+      "text": "longbow",
+      "uid": "u0038"
+    },
+    {
+      "kind": "item",
+      "text": "scale mail",
+      "uid": "u0038"
+    },
+    {
+      "kind": "item",
+      "text": "shield",
+      "uid": "u0038"
+    },
+    {
+      "kind": "item",
+      "text": "mammoth tusk",
+      "uid": "u0039"
+    },
+    {
+      "kind": "place",
+      "text": "Ainumarya",
+      "uid": "u0053"
+    },
+    {
+      "kind": "group",
+      "text": "Deno'qai",
+      "uid": "u0064"
+    },
+    {
+      "kind": "place",
+      "text": "Elder Forest",
+      "uid": "u0064"
+    },
+    {
+      "kind": "place",
+      "text": "Elderwood",
+      "uid": "u0066"
+    },
+    {
+      "kind": "group",
+      "text": "Deno'qai",
+      "uid": "u0067"
+    },
+    {
+      "kind": "place",
+      "text": "Elderwood",
+      "uid": "u0067"
+    },
+    {
+      "kind": "group",
+      "text": "Te'kula",
+      "uid": "u0073"
+    },
+    {
+      "kind": "person",
+      "text": "Delwath",
+      "uid": "u0075"
+    },
+    {
+      "kind": "place",
+      "text": "Ainumarya",
+      "uid": "u0076"
+    },
+    {
+      "kind": "group",
+      "text": "Te'kula",
+      "uid": "u0082"
+    },
+    {
+      "kind": "place",
+      "text": "Tinitaka",
+      "uid": "u0082"
+    },
+    {
+      "kind": "person",
+      "text": "Delwath",
+      "uid": "u0094"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0097"
+    },
+    {
+      "kind": "group",
+      "text": "Meswati",
+      "uid": "u0099"
+    },
+    {
+      "kind": "group",
+      "text": "silent ones",
+      "uid": "u0099"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0100"
+    },
+    {
+      "kind": "item",
+      "text": "Mage Hand",
+      "uid": "u0103"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0108"
+    },
+    {
+      "kind": "time",
+      "text": "hundreds of years",
+      "uid": "u0109"
+    },
+    {
+      "kind": "time",
+      "text": "many generations",
+      "uid": "u0109"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0117"
+    },
+    {
+      "kind": "group",
+      "text": "silent ones",
+      "uid": "u0120"
+    },
+    {
+      "kind": "person",
+      "text": "Nisir",
+      "uid": "u0121"
+    },
+    {
+      "kind": "person",
+      "text": "K'onisati",
+      "uid": "u0121"
+    },
+    {
+      "kind": "person",
+      "text": "Yalik'I",
+      "uid": "u0122"
+    },
+    {
+      "kind": "person",
+      "text": "Taraka",
+      "uid": "u0122"
+    },
+    {
+      "kind": "person",
+      "text": "Midri",
+      "uid": "u0122"
+    },
+    {
+      "kind": "group",
+      "text": "Te'kula",
+      "uid": "u0123"
+    },
+    {
+      "kind": "place",
+      "text": "our village",
+      "uid": "u0126"
+    },
+    {
+      "kind": "person",
+      "text": "Ninu",
+      "uid": "u0127"
+    },
+    {
+      "kind": "time",
+      "text": "two day journey",
+      "uid": "u0130"
+    },
+    {
+      "kind": "time",
+      "text": "evening",
+      "uid": "u0131"
+    },
+    {
+      "kind": "person",
+      "text": "Zevi",
+      "uid": "u0133"
+    },
+    {
+      "kind": "time",
+      "text": "in the morning",
+      "uid": "u0133"
+    },
+    {
+      "kind": "person",
+      "text": "A'gaza",
+      "uid": "u0137"
+    },
+    {
+      "kind": "person",
+      "text": "Zevi",
+      "uid": "u0138"
+    },
+    {
+      "kind": "time",
+      "text": "in the morning",
+      "uid": "u0138"
+    },
+    {
+      "kind": "time",
+      "text": "two day journey",
+      "uid": "u0142"
+    },
+    {
+      "kind": "place",
+      "text": "Forest of Nightmares",
+      "uid": "u0145"
+    },
+    {
+      "kind": "place",
+      "text": "Ainumarya",
+      "uid": "u0151"
+    },
+    {
+      "kind": "place",
+      "text": "Pandar",
+      "uid": "u0152"
+    },
+    {
+      "kind": "person",
+      "text": "Delwath",
+      "uid": "u0154"
+    },
+    {
+      "kind": "time",
+      "text": "Great War",
+      "uid": "u0154"
+    },
+    {
+      "kind": "group",
+      "text": "Ko'zula",
+      "uid": "u0158"
+    },
+    {
+      "kind": "group",
+      "text": "Shu'anra",
+      "uid": "u0158"
+    },
+    {
+      "kind": "time",
+      "text": "Great War",
+      "uid": "u0158"
+    },
+    {
+      "kind": "person",
+      "text": "Ninu",
+      "uid": "u0159"
+    },
+    {
+      "kind": "group",
+      "text": "silent ones",
+      "uid": "u0159"
+    },
+    {
+      "kind": "person",
+      "text": "the stoneborn",
+      "uid": "u0160"
+    },
+    {
+      "kind": "group",
+      "text": "stoneborn",
+      "uid": "u0160"
+    },
+    {
+      "kind": "time",
+      "text": "a generation",
+      "uid": "u0160"
+    },
+    {
+      "kind": "group",
+      "text": "stoneborn",
+      "uid": "u0161"
+    },
+    {
+      "kind": "group",
+      "text": "silent ones",
+      "uid": "u0162"
+    },
+    {
+      "kind": "person",
+      "text": "Cha'mutte",
+      "uid": "u0163"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0165"
+    },
+    {
+      "kind": "person",
+      "text": "Delwath",
+      "uid": "u0169"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0172"
+    },
+    {
+      "kind": "time",
+      "text": "Battle of Darkfire",
+      "uid": "u0173"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0174"
+    },
+    {
+      "kind": "time",
+      "text": "Battle of Darkfire",
+      "uid": "u0174"
+    },
+    {
+      "kind": "person",
+      "text": "Zevi",
+      "uid": "u0175"
+    },
+    {
+      "kind": "place",
+      "text": "Forest of Dreams",
+      "uid": "u0176"
+    },
+    {
+      "kind": "place",
+      "text": "Forest of Nightmares",
+      "uid": "u0177"
+    },
+    {
+      "kind": "place",
+      "text": "Forest of Dreams",
+      "uid": "u0177"
+    },
+    {
+      "kind": "place",
+      "text": "hunting camp",
+      "uid": "u0179"
+    },
+    {
+      "kind": "place",
+      "text": "the village",
+      "uid": "u0180"
+    },
+    {
+      "kind": "place",
+      "text": "Ainumarya",
+      "uid": "u0181"
+    },
+    {
+      "kind": "place",
+      "text": "Forest of Nightmares",
+      "uid": "u0181"
+    },
+    {
+      "kind": "place",
+      "text": "Ainumarya",
+      "uid": "u0185"
+    },
+    {
+      "kind": "place",
+      "text": "Pandar",
+      "uid": "u0185"
+    },
+    {
+      "kind": "place",
+      "text": "Forest of Dreams",
+      "uid": "u0186"
+    },
+    {
+      "kind": "place",
+      "text": "Pandar",
+      "uid": "u0186"
+    },
+    {
+      "kind": "place",
+      "text": "Voltara",
+      "uid": "u0196"
+    },
+    {
+      "kind": "place",
+      "text": "Chardon",
+      "uid": "u0198"
+    },
+    {
+      "kind": "person",
+      "text": "the stoneborn",
+      "uid": "u0201"
+    },
+    {
+      "kind": "group",
+      "text": "stoneborn",
+      "uid": "u0201"
+    },
+    {
+      "kind": "group",
+      "text": "kenku",
+      "uid": "u0201"
+    },
+    {
+      "kind": "group",
+      "text": "dwarves",
+      "uid": "u0201"
+    },
+    {
+      "kind": "group",
+      "text": "kenku",
+      "uid": "u0202"
+    },
+    {
+      "kind": "person",
+      "text": "Cha'mutte",
+      "uid": "u0203"
+    },
+    {
+      "kind": "group",
+      "text": "Deno'qai",
+      "uid": "u0203"
+    },
+    {
+      "kind": "time",
+      "text": "400, 500 years ago",
+      "uid": "u0203"
+    },
+    {
+      "kind": "person",
+      "text": "Zevi",
+      "uid": "u0204"
+    },
+    {
+      "kind": "group",
+      "text": "Deno'qai",
+      "uid": "u0206"
+    },
+    {
+      "kind": "place",
+      "text": "the village",
+      "uid": "u0206"
+    },
+    {
+      "kind": "place",
+      "text": "the village",
+      "uid": "u0207"
+    },
+    {
+      "kind": "person",
+      "text": "Ninu",
+      "uid": "u0212"
+    },
+    {
+      "kind": "place",
+      "text": "the village",
+      "uid": "u0212"
+    },
+    {
+      "kind": "person",
+      "text": "Zevi",
+      "uid": "u0216"
+    },
+    {
+      "kind": "time",
+      "text": "October 2",
+      "uid": "u0217"
+    },
+    {
+      "kind": "group",
+      "text": "Te'kula",
+      "uid": "u0220"
+    },
+    {
+      "kind": "group",
+      "text": "Te'kula",
+      "uid": "u0222"
+    },
+    {
+      "kind": "time",
+      "text": "10 days",
+      "uid": "u0222"
+    },
+    {
+      "kind": "person",
+      "text": "Grash",
+      "uid": "u0223"
+    },
+    {
+      "kind": "time",
+      "text": "mid-fall",
+      "uid": "u0227"
+    },
+    {
+      "kind": "time",
+      "text": "June",
+      "uid": "u0228"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0235"
+    },
+    {
+      "kind": "time",
+      "text": "after dinner",
+      "uid": "u0237"
+    },
+    {
+      "kind": "group",
+      "text": "silent ones",
+      "uid": "u0240"
+    },
+    {
+      "kind": "item",
+      "text": "armband",
+      "uid": "u0245"
+    },
+    {
+      "kind": "item",
+      "text": "circlets",
+      "uid": "u0245"
+    },
+    {
+      "kind": "item",
+      "text": "runes",
+      "uid": "u0245"
+    },
+    {
+      "kind": "item",
+      "text": "runes",
+      "uid": "u0246"
+    },
+    {
+      "kind": "item",
+      "text": "armband",
+      "uid": "u0252"
+    },
+    {
+      "kind": "person",
+      "text": "Delwath",
+      "uid": "u0253"
+    },
+    {
+      "kind": "person",
+      "text": "Delwath",
+      "uid": "u0254"
+    },
+    {
+      "kind": "item",
+      "text": "armband",
+      "uid": "u0258"
+    },
+    {
+      "kind": "place",
+      "text": "Blackwater Fens",
+      "uid": "u0260"
+    },
+    {
+      "kind": "place",
+      "text": "our village",
+      "uid": "u0261"
+    },
+    {
+      "kind": "time",
+      "text": "a generation",
+      "uid": "u0261"
+    },
+    {
+      "kind": "time",
+      "text": "more than a year ago",
+      "uid": "u0267"
+    },
+    {
+      "kind": "time",
+      "text": "August",
+      "uid": "u0267"
+    },
+    {
+      "kind": "time",
+      "text": "the past summer",
+      "uid": "u0267"
+    },
+    {
+      "kind": "group",
+      "text": "Deno'qai",
+      "uid": "u0269"
+    },
+    {
+      "kind": "person",
+      "text": "Istari",
+      "uid": "u0270"
+    },
+    {
+      "kind": "person",
+      "text": "Delwath",
+      "uid": "u0274"
+    },
+    {
+      "kind": "person",
+      "text": "Delwath",
+      "uid": "u0276"
+    },
+    {
+      "kind": "place",
+      "text": "hunting camp",
+      "uid": "u0286"
+    },
+    {
+      "kind": "time",
+      "text": "a few years back",
+      "uid": "u0286"
+    },
+    {
+      "kind": "place",
+      "text": "the village",
+      "uid": "u0289"
+    },
+    {
+      "kind": "group",
+      "text": "silent ones",
+      "uid": "u0304"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0308"
+    },
+    {
+      "kind": "item",
+      "text": "armband",
+      "uid": "u0308"
+    },
+    {
+      "kind": "time",
+      "text": "Battle of Darkfire",
+      "uid": "u0317"
+    },
+    {
+      "kind": "group",
+      "text": "silent ones",
+      "uid": "u0318"
+    },
+    {
+      "kind": "person",
+      "text": "Taraka",
+      "uid": "u0319"
+    },
+    {
+      "kind": "person",
+      "text": "Nisir",
+      "uid": "u0320"
+    },
+    {
+      "kind": "person",
+      "text": "Yalik'I",
+      "uid": "u0320"
+    },
+    {
+      "kind": "place",
+      "text": "Yemo'te",
+      "uid": "u0321"
+    },
+    {
+      "kind": "person",
+      "text": "K'onisati",
+      "uid": "u0323"
+    },
+    {
+      "kind": "person",
+      "text": "Midri",
+      "uid": "u0323"
+    },
+    {
+      "kind": "item",
+      "text": "circlets",
+      "uid": "u0325"
+    },
+    {
+      "kind": "group",
+      "text": "silent ones",
+      "uid": "u0326"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0327"
+    },
+    {
+      "kind": "group",
+      "text": "silent ones",
+      "uid": "u0334"
+    },
+    {
+      "kind": "item",
+      "text": "circlets",
+      "uid": "u0346"
+    },
+    {
+      "kind": "group",
+      "text": "stoneborn",
+      "uid": "u0348"
+    },
+    {
+      "kind": "place",
+      "text": "hunting camp",
+      "uid": "u0349"
+    },
+    {
+      "kind": "place",
+      "text": "Forest of Nightmares",
+      "uid": "u0350"
+    },
+    {
+      "kind": "item",
+      "text": "armband",
+      "uid": "u0354"
+    },
+    {
+      "kind": "person",
+      "text": "Wellby",
+      "uid": "u0361"
+    },
+    {
+      "kind": "place",
+      "text": "Feywild",
+      "uid": "u0371"
+    },
+    {
+      "kind": "time",
+      "text": "September",
+      "uid": "u0373"
+    },
+    {
+      "kind": "person",
+      "text": "the man",
+      "uid": "u0387"
+    },
+    {
+      "kind": "group",
+      "text": "stoneborn",
+      "uid": "u0387"
+    },
+    {
+      "kind": "item",
+      "text": "magic circle",
+      "uid": "u0402"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0413"
+    },
+    {
+      "kind": "person",
+      "text": "the stoneborn",
+      "uid": "u0417"
+    },
+    {
+      "kind": "group",
+      "text": "stoneborn",
+      "uid": "u0417"
+    },
+    {
+      "kind": "time",
+      "text": "the next day",
+      "uid": "u0421"
+    },
+    {
+      "kind": "person",
+      "text": "Kenzo",
+      "uid": "u0427"
+    },
+    {
+      "kind": "person",
+      "text": "Delwath",
+      "uid": "u0428"
+    },
+    {
+      "kind": "person",
+      "text": "Yezali",
+      "uid": "u0428"
+    },
+    {
+      "kind": "place",
+      "text": "the village",
+      "uid": "u0428"
+    },
+    {
+      "kind": "group",
+      "text": "Te'kula",
+      "uid": "u0440"
+    },
+    {
+      "kind": "person",
+      "text": "A'gaza",
+      "uid": "u0442"
+    },
+    {
+      "kind": "person",
+      "text": "Istari",
+      "uid": "u0442"
+    },
+    {
+      "kind": "person",
+      "text": "Mo'kati",
+      "uid": "u0442"
+    },
+    {
+      "kind": "person",
+      "text": "Delwath",
+      "uid": "u0446"
+    },
+    {
+      "kind": "group",
+      "text": "Te'kula",
+      "uid": "u0451"
+    },
+    {
+      "kind": "place",
+      "text": "the village",
+      "uid": "u0460"
+    },
+    {
+      "kind": "place",
+      "text": "the village",
+      "uid": "u0461"
+    },
+    {
+      "kind": "time",
+      "text": "two days",
+      "uid": "u0461"
+    },
+    {
+      "kind": "place",
+      "text": "hunting camp",
+      "uid": "u0462"
+    },
+    {
+      "kind": "person",
+      "text": "the wildfire druid",
+      "uid": "u0463"
+    },
+    {
+      "kind": "group",
+      "text": "stoneborn",
+      "uid": "u0463"
+    },
+    {
+      "kind": "person",
+      "text": "Enon",
+      "uid": "u0464"
+    },
+    {
+      "kind": "group",
+      "text": "Meswati",
+      "uid": "u0465"
+    },
+    {
+      "kind": "place",
+      "text": "Forest of Nightmares",
+      "uid": "u0465"
+    },
+    {
+      "kind": "item",
+      "text": "shield",
+      "uid": "u0465"
+    },
+    {
+      "kind": "group",
+      "text": "silent ones",
+      "uid": "u0466"
+    },
+    {
+      "kind": "time",
+      "text": "Great War",
+      "uid": "u0466"
+    },
+    {
+      "kind": "item",
+      "text": "mithral",
+      "uid": "u0473"
+    },
+    {
+      "kind": "group",
+      "text": "dwarves",
+      "uid": "u0474"
+    },
+    {
+      "kind": "item",
+      "text": "scale mail",
+      "uid": "u0475"
+    },
+    {
+      "kind": "group",
+      "text": "Deno'qai",
+      "uid": "u0476"
+    },
+    {
+      "kind": "item",
+      "text": "shield",
+      "uid": "u0476"
+    },
+    {
+      "kind": "time",
+      "text": "Thursday",
+      "uid": "u0499"
+    },
+    {
+      "kind": "item",
+      "text": "scale mail",
+      "uid": "u0501"
+    },
+    {
+      "kind": "item",
+      "text": "mithral",
+      "uid": "u0501"
+    },
+    {
+      "kind": "item",
+      "text": "shield",
+      "uid": "u0504"
+    },
+    {
+      "kind": "time",
+      "text": "Thursday",
+      "uid": "u0510"
+    },
+    {
+      "kind": "time",
+      "text": "Thursday",
+      "uid": "u0513"
+    },
+    {
+      "kind": "group",
+      "text": "Deno'qai",
+      "uid": "u0518"
+    },
+    {
+      "kind": "item",
+      "text": "magical arrows",
+      "uid": "u0524"
+    }
+  ],
+  "schemaVersion": 1,
+  "scope": "Agent-reviewed transcript mentions, not canonical facts or an inferred chronology",
+  "sourceSha256": "611c080f5b062fc019633e5c72f6af9b61fb9eed4eecdc8bf935db7e273bc6a3"
+}

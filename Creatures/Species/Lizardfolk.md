@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 lintedAt: "2026-10-19T10:32:05-04:00"
 lintVersion: "3.5"
-tags: [creature, status/check/mike, status/check/ai]
+tags: [creature, status/check/mike]
 name: Lizardfolk
 aliases: [lizardfolk]
 dm_owner: joint
@@ -27,16 +27,9 @@ Lizardfolk dwell where water and land meet, most commonly in swamps, river basin
 Lizardfolk are humanoid reptiles: upright, bipedal, hairless, with distinctly reptilian heads. They are typically powerfully built, averaging about six feet tall with a slightly forward-canted posture, especially among those with particularly large tails. They are covered in close-fitting scales, rather than skin. Lizardfolk coloration varies widely, though generally juveniles and adults are more likely to be brightly colored than elders, whose scales often fade to light blue-greens or other pastel colors, and lose the wet sheen. In moments of deep focus elders may seem to sparkle, and very rarely appear faintly translucent under direct sunlight.
 
 ## Language and Naming
+_See more: [[Playing a Lizardfolk#Lizardfolk Names|Lizardfolk Names]]_
 
 Lizardfolk speak their own tongue, called Lizardling or sometimes Lizardfolk by outsiders, but also speak easily in trade pidgins when they settle near other species, and often learn the languages of their neighbors as well. Lizardfolk usually have a single given name, often chosen to honor a favored ancestor, though names tend not to repeat within a generation. Names are often passed down in families, and frequently, but not always, have some meaning. Lizardfolk will add home‑place or descriptor when needed abroad, but tend not to use family names in their home communities. 
-
-%%^Campaign:None%%
-Lizardfolk names have often tended towards using an unusual language like Basque, to give them a distinctive feeling compared to human names, but this is not completely fixed and lizardfolk often work well for a kind of default 'fantasy' name unconnected to human languages. 
-
-Generally, though, should avoid names that feel clearly linked to real Indo-European languages, and particularly to Tolkien-style Elvish or Dwarvish. 
-
-See more: [[Playing a Lizardfolk#Lizardfolk Names|Lizardfolk Names]]
-%%^End%%
 
 ## Lifecycle
 

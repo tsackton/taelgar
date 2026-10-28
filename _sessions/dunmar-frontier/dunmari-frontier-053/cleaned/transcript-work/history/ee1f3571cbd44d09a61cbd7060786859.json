@@ -1,0 +1,41 @@
+{
+  "checks": [
+    "people",
+    "groups",
+    "places",
+    "time_transitions",
+    "items",
+    "actions",
+    "unmarked_errors",
+    "second_pass"
+  ],
+  "chunkId": "chunk-004",
+  "edits": [
+    {
+      "after": "And you don't actually have much range, got two melee fighters and you a spellcaster, so right, an archer would be a good addition.",
+      "before": "And you don't actually have much range, {{not to}} melee fighters and you a spellcaster, so right, an archer would be a good addition.",
+      "evidence": [
+        "u0525-u0529"
+      ],
+      "kind": "asr",
+      "reason": "Party composition is being enumerated: two melee fighters plus a spellcaster, explaining the need for range.",
+      "uid": "u0527"
+    }
+  ],
+  "issues": [],
+  "mentions": [
+    {
+      "kind": "group",
+      "text": "Deno'qai",
+      "uid": "u0518"
+    },
+    {
+      "kind": "item",
+      "text": "magical arrows",
+      "uid": "u0524"
+    }
+  ],
+  "schemaVersion": 1,
+  "sourceSha256": "d38cab796c73c3299b6f55d85cc243a3dfee19acd60de2907b2a61ccfa78b521",
+  "stage": "clean"
+}

@@ -1,0 +1,15 @@
+--- before/u2742
++++ after/u2742
+@@ -1 +1 @@
+-[u2742 | 02:23:00.200-02:23:02.980 | DM] on the {{Slingara}} plains as soon as I can.
++[u2742 | 02:23:00.200-02:23:02.980 | DM] on the Songara plains as soon as I can.
+--- before/u3182
++++ after/u3182
+@@ -1 +1 @@
+-[u3182 | 02:47:23.920-02:47:26.469 | DM] and should you ever wish to visit the {{frost now}}.
++[u3182 | 02:47:23.920-02:47:26.469 | DM] and should you ever wish to visit the Frostfell.
+--- before/u3847
++++ after/u3847
+@@ -1 +1 @@
+-[u3847 | 03:27:43.580-03:27:49.200 | DM] close? I think we're just in between Ursk and {{Erla}} right now.
++[u3847 | 03:27:43.580-03:27:49.200 | DM] close? I think we're just in between Ursk and Irrla right now.

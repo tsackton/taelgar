@@ -1,7 +1,7 @@
 [u0001 | 00:00:06.690-00:00:08.430 | DM] So if you look on Roll20,
 [u0002 | 00:00:09.730-00:00:13.790 | DM] you should see a map of Drankor. Yep.
 [u0003 | 00:00:16.000-00:00:17.600 | DM] So we begin
-[u0004 | 00:00:17.850-00:00:19.230 | DM] on {{vendor side}}
+[u0004 | 00:00:17.850-00:00:19.230 | DM] on Vindristjarna
 [u0005 | 00:00:20.250-00:00:21.700 | DM] just before.
 [u0006 | 00:00:22.830-00:00:24.480 | Seeker] Oh, look at this.
 [u0007 | 00:00:25.200-00:00:26.160 | DM] Teleport.
@@ -150,13 +150,13 @@
 [u0150 | 00:09:54.810-00:09:57.140 | Delwath] we get our skyship in to come.
 [u0151 | 00:09:57.230-00:09:59.440 | Delwath] pelt them with ice from the sky.
 [u0152 | 00:09:59.890-00:10:04.570 | Seeker] So. But we're not going to draw fire 1st from the tower to find out how strong it is, and see if it.
-[u0153 | 00:10:05.710-00:10:10.040 | Delwath] Why do you want {{Vindicarda}} to crash into the ground? I don't totally understand it.
+[u0153 | 00:10:05.710-00:10:10.040 | Delwath] Why do you want Vindristjarna to crash into the ground? I don't totally understand it.
 [u0154 | 00:10:10.040-00:10:16.429 | Seeker] It's just a little lightning bolt. And we're flying like a mountain. Basically, it's not gonna take us down. But anyway.
 [u0155 | 00:10:17.280-00:10:20.550 | Riswynn] Remember, post, battle, activity, post, battle, activity.
 [u0156 | 00:10:20.550-00:10:21.190 | Seeker] Alright! Alright!
 [u0157 | 00:10:21.190-00:10:21.639 | Delwath] I've got.
 [u0158 | 00:10:21.640-00:10:22.220 | Seeker] We were.
-[u0159 | 00:10:22.220-00:10:33.160 | Delwath] Going to probe like we did want {{Vendra Sharna}} to. We wanted Faldrick to fake an attack right? So we want to look like we're making another attack against the tower with the ship.
+[u0159 | 00:10:22.220-00:10:33.160 | Delwath] Going to probe like we did want Vindristjarna to. We wanted Faldrick to fake an attack right? So we want to look like we're making another attack against the tower with the ship.
 [u0160 | 00:10:33.690-00:10:36.459 | Delwath] so they don't like, and then teleport
 [u0161 | 00:10:36.510-00:10:40.089 | Delwath] and then have him, you know, like, last time we came up, and it
 [u0162 | 00:10:40.330-00:10:43.380 | Delwath] started getting lightning, and then we fled
@@ -4323,7 +4323,7 @@
 [u4323 | 03:41:18.920-03:41:25.569 | DM] because I want to do Apollyon in December, when we can have a long session, and plus, I need to make up stats.
 [u4324 | 03:41:25.980-03:41:28.310 | DM] I have the rest of Drankor pretty much done.
 [u4325 | 03:41:29.320-03:41:32.060 | Delwath] I think we go after the phylactery first. I think that makes more sense.
-[u4326 | 03:41:32.060-03:41:34.740 | DM] That's what {{Rs Day}} would tell you to do, just saying.
+[u4326 | 03:41:32.060-03:41:34.740 | DM] That's what Arheste would tell you to do, just saying.
 [u4327 | 03:41:35.580-03:41:36.740 | Kenzo] I said, who it tells to do.
 [u4328 | 03:41:36.740-03:41:37.370 | Delwath] Ow.
 [u4329 | 03:41:37.370-03:41:38.050 | DM] Elf.

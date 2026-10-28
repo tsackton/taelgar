@@ -1,0 +1,620 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-120",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-120/cleaned/dunmari-frontier-120-source-cleaned.md",
+  "beforeSha256": "fc4e06f92705039cd91c7c8100eb101c8174d8e72e0bd0efaef0d5b3e2b0025a",
+  "afterSha256": "bcf183851d64ba0aeaec9da2132ba63c65acc9002779b1eb2f272fa396802df6",
+  "markersBefore": 84,
+  "groups": [
+    {
+      "id": "cloudspinner-question",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The question is about whether Cloudspinner is a personal name or title, but Pottsburg has no clear replacement boundary or uniquely supported name reading in this question.",
+      "evidence": [],
+      "candidates": [
+        "Cloudspinner"
+      ],
+      "markerIds": [
+        "u0243:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0243:m1": "{{Pottsburg}}"
+      }
+    },
+    {
+      "id": "creature-spoken-slip",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The DM is describing griffins while also comparing them with the party's wyvern. These two Wyvern occurrences may be spoken slips; do not replace a stated creature with the factually expected creature without stronger ASR evidence.",
+      "evidence": [],
+      "candidates": [
+        "griffin",
+        "Wyvern"
+      ],
+      "markerIds": [
+        "u2168:m1",
+        "u2170:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2168:m1": "{{Wyvern}}",
+        "u2170:m1": "{{Wyvern}}"
+      }
+    },
+    {
+      "id": "destination-misremembering",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The planned archive destination suggests Everlight's Bloom, but Ember Light Falls is a complete, quite different name form spoken during a player recap. It may be misremembering rather than ASR; retain it.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Extraplanar/Feywild/Everlight's Bloom.md",
+          "sha256": "178ce18dec4094f360402cdb89fbd76f26433f2af57b72167eed1afdac8efacc"
+        }
+      ],
+      "candidates": [
+        "Everlight's Bloom"
+      ],
+      "markerIds": [
+        "u1234:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1234:m1": "{{Ember Light Falls}}"
+      }
+    },
+    {
+      "id": "duelist-spoken-correction",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Riswynn has just said Arendel correctly and then tries two different forms before the DM repeats Arendel. Preserve this possible spoken name-recall exchange rather than replacing both attempts.",
+      "evidence": [
+        {
+          "path": "People/Fey/Arendel.md",
+          "sha256": "73c879d015624c0d52d458ef5697a20ed4967109b829dceef21e3324d35299fd"
+        }
+      ],
+      "candidates": [
+        "Arendel"
+      ],
+      "markerIds": [
+        "u1296:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1296:m1": "{{Evan Durr, Evan Dale}}"
+      }
+    },
+    {
+      "id": "emperor-title",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Emperor is already a correct title for the antagonist in the recalled attempt at godhood. Preserve the title exactly and remove only its uncertainty braces; do not insert a personal name or article.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Drankorian Emperors/Apollyon.md",
+          "sha256": "5abe8d26c4100d856d46c6140144a02736ced035825a4d4f75a94c3e4494a002"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0764:m1"
+      ],
+      "replacements": {
+        "u0764:m1": "Emperor"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "enemy-spoken-correction",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The player asks what the enemies were called, says this marked variant, and immediately supplies Harrow and Wend; preserve possible spoken misremembering instead of rewriting the first attempt.",
+      "evidence": [],
+      "candidates": [
+        "Harrow and Wend"
+      ],
+      "markerIds": [
+        "u0275:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0275:m1": "{{Shadow in wend}}"
+      }
+    },
+    {
+      "id": "flying-castle-fragment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Double occurs between a description of the flying castle and an aside to the host. A place-name reading is possible, but the whole marked span is not identifiable with confidence.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0408:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0408:m1": "{{Double}}"
+      }
+    },
+    {
+      "id": "ordinary-wording-and-mechanics",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary conversation, damaged surrounding phrases, numbers, descriptive wording, and rules or feature explanations outside this name-only pass. Preserve these spans verbatim; they do not by themselves require human name review.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0007:m1",
+        "u0058:m1",
+        "u0072:m1",
+        "u0074:m1",
+        "u0090:m1",
+        "u0168:m1",
+        "u0190:m1",
+        "u0193:m1",
+        "u0273:m1",
+        "u0300:m1",
+        "u0323:m1",
+        "u0346:m1",
+        "u0357:m1",
+        "u0376:m1",
+        "u0393:m1",
+        "u0394:m1",
+        "u0455:m1",
+        "u0550:m1",
+        "u0644:m1",
+        "u0681:m1",
+        "u0719:m1",
+        "u0740:m1",
+        "u0746:m1",
+        "u0751:m1",
+        "u0895:m1",
+        "u0971:m1",
+        "u0996:m1",
+        "u1140:m1",
+        "u1179:m1",
+        "u1218:m1",
+        "u1253:m1",
+        "u1278:m1",
+        "u1310:m1",
+        "u1348:m1",
+        "u1354:m1",
+        "u1414:m1",
+        "u1423:m1",
+        "u1492:m1",
+        "u1631:m1",
+        "u1637:m1",
+        "u1651:m1",
+        "u1687:m1",
+        "u1776:m1",
+        "u1809:m1",
+        "u1885:m1",
+        "u1960:m1",
+        "u1980:m1",
+        "u1985:m1",
+        "u2050:m1",
+        "u2092:m1",
+        "u2180:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0007:m1": "{{No, it was.}}",
+        "u0058:m1": "{{why}}",
+        "u0072:m1": "{{simpling}}",
+        "u0074:m1": "{{of the 1,000,000,001.st}}",
+        "u0090:m1": "{{And at least a welcome.}}",
+        "u0168:m1": "{{Not an insight}}",
+        "u0190:m1": "{{night}}",
+        "u0193:m1": "{{3rd time}}",
+        "u0273:m1": "{{man}}",
+        "u0300:m1": "{{big? Well}}",
+        "u0323:m1": "{{It deserves Irving}}",
+        "u0346:m1": "{{Let's say, wild}}",
+        "u0357:m1": "{{Of well, Nibbles.}}",
+        "u0376:m1": "{{It helps you know of}}",
+        "u0393:m1": "{{but break such}}",
+        "u0394:m1": "{{What is the blood of our enemies?}}",
+        "u0455:m1": "{{are the revel in our time}}",
+        "u0550:m1": "{{That’s as extensively throughout}}",
+        "u0644:m1": "{{who wouldn't gambler}}",
+        "u0681:m1": "{{some doodle}}",
+        "u0719:m1": "{{Secrets, I know, like phase}}",
+        "u0740:m1": "{{wouldn't quest word out of their mind}}",
+        "u0746:m1": "{{I'm I'm not huge}}",
+        "u0751:m1": "{{to highlight}}",
+        "u0895:m1": "{{wanted a space}}",
+        "u0971:m1": "{{We'll be here a good sport}}",
+        "u0996:m1": "{{curse of the can}}",
+        "u1140:m1": "{{Fish companion}}",
+        "u1179:m1": "{{Add}}",
+        "u1218:m1": "{{Bay. Character}}",
+        "u1253:m1": "{{it said}}",
+        "u1278:m1": "{{not as a place}}",
+        "u1310:m1": "{{you got my}}",
+        "u1348:m1": "{{yourself, Bay?}}",
+        "u1354:m1": "{{some of this exercise}}",
+        "u1414:m1": "{{I'm meddling the bay}}",
+        "u1423:m1": "{{Do you not think}}",
+        "u1492:m1": "{{just from the engine}}",
+        "u1631:m1": "{{we need to find}}",
+        "u1637:m1": "{{I'll lose to}}",
+        "u1651:m1": "{{fell needed her}}",
+        "u1687:m1": "{{All went north}}",
+        "u1776:m1": "{{weren't juiced}}",
+        "u1809:m1": "{{when you gotta have got an}}",
+        "u1885:m1": "{{beast. My initiation}}",
+        "u1960:m1": "{{I doubt}}",
+        "u1980:m1": "{{Bring it all of this through state one}}",
+        "u1985:m1": "{{Will there be any savings, though, did I? Less}}",
+        "u2050:m1": "{{Eric said, what}}",
+        "u2092:m1": "{{on the computer}}",
+        "u2180:m1": "{{merge thing}}"
+      }
+    },
+    {
+      "id": "ruler-damaged-name",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "This exchange concerns the same ruler, but both the preferred Soven/Sorven spelling and the complete marked wording are uncertain; do not reconstruct the surrounding phrase.",
+      "evidence": [
+        {
+          "path": "People/Extraplanar Powers/Archfey/Lord Soven.md",
+          "sha256": "386c52af774d1dae1baad9a0bdbb3d97d215be07753ed72d6ea19f642e534413"
+        },
+        {
+          "path": "Gazetteer/Extraplanar/Feywild/Emberwine/Sunwine Hall.md",
+          "sha256": "ea3ed06caa612dc399047b933c9a51a1a3f8d1c5874493645ba9942549fe8e6e"
+        }
+      ],
+      "candidates": [
+        "Lord Soven",
+        "Lord Sorven"
+      ],
+      "markerIds": [
+        "u0225:m1",
+        "u0226:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0225:m1": "{{load. So good}}",
+        "u0226:m1": "{{Lord, so let me know}}"
+      }
+    },
+    {
+      "id": "ruler-spelling-conflict",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The ruler is identifiable, but the reference notes explicitly dispute Soven versus Sorven. Retain the existing marked spellings until that conflict is resolved.",
+      "evidence": [
+        {
+          "path": "People/Extraplanar Powers/Archfey/Lord Soven.md",
+          "sha256": "386c52af774d1dae1baad9a0bdbb3d97d215be07753ed72d6ea19f642e534413"
+        },
+        {
+          "path": "Gazetteer/Extraplanar/Feywild/Emberwine/Sunwine Hall.md",
+          "sha256": "ea3ed06caa612dc399047b933c9a51a1a3f8d1c5874493645ba9942549fe8e6e"
+        }
+      ],
+      "candidates": [
+        "Lord Soven",
+        "Lord Sorven"
+      ],
+      "markerIds": [
+        "u0014:m1",
+        "u0016:m1",
+        "u0031:m1",
+        "u0213:m1",
+        "u0282:m1",
+        "u0283:m1",
+        "u0284:m1",
+        "u0328:m1",
+        "u0514:m1",
+        "u0791:m1",
+        "u1774:m1",
+        "u1844:m1",
+        "u1901:m1",
+        "u1953:m1",
+        "u2162:m1",
+        "u2164:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0014:m1": "{{Lord Sorven}}",
+        "u0016:m1": "{{Lord Sorven}}",
+        "u0031:m1": "{{Lord Sorven}}",
+        "u0213:m1": "{{Lord Sorven}}",
+        "u0282:m1": "{{Sorven}}",
+        "u0283:m1": "{{Sorven}}",
+        "u0284:m1": "{{Lord Sorven}}",
+        "u0328:m1": "{{Lord Sorven}}",
+        "u0514:m1": "{{Lord Sorven}}",
+        "u0791:m1": "{{Lord Sorven}}",
+        "u1774:m1": "{{Lord Sorven}}",
+        "u1844:m1": "{{Lord Sorven}}",
+        "u1901:m1": "{{Lord Sorven}}",
+        "u1953:m1": "{{Lord Sorven}}",
+        "u2162:m1": "{{Lord Sorven}}",
+        "u2164:m1": "{{Lord Sorven}}"
+      }
+    },
+    {
+      "id": "ruler-spoken-correction",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The speaker hesitates over the ruler name and two other speakers immediately correct him. Sarah may be an actual spoken mistake; preserve the exchange. The preferred ruler spelling is also disputed.",
+      "evidence": [
+        {
+          "path": "People/Extraplanar Powers/Archfey/Lord Soven.md",
+          "sha256": "386c52af774d1dae1baad9a0bdbb3d97d215be07753ed72d6ea19f642e534413"
+        },
+        {
+          "path": "Gazetteer/Extraplanar/Feywild/Emberwine/Sunwine Hall.md",
+          "sha256": "ea3ed06caa612dc399047b933c9a51a1a3f8d1c5874493645ba9942549fe8e6e"
+        }
+      ],
+      "candidates": [
+        "Soven",
+        "Sorven"
+      ],
+      "markerIds": [
+        "u0281:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0281:m1": "{{Sarah}}"
+      }
+    },
+    {
+      "id": "shield-wording",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Delwath has a documented Deno'qai Lynx Shield, but olive shield could be a descriptor, a feature, or damaged wording. The source does not establish an exact complete name replacement for this span.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Deno'qai Lynx Shield.md",
+          "sha256": "53dcc9600f117a982fbd0ac4ecf1d5ee8bd35ae013f837f2dd7cce48c16d3ad1"
+        }
+      ],
+      "candidates": [
+        "Deno'qai Lynx Shield"
+      ],
+      "markerIds": [
+        "u1009:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1009:m1": "{{olive shield}}"
+      }
+    },
+    {
+      "id": "shimmersong",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Ismara proposes another fey realm to visit; Riswynn immediately asks about gates to Shimmersong, and the reference note establishes that realm name. This strongly favors Shimmersong for Dimmerstone.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Extraplanar/Feywild/Shimmersong.md",
+          "sha256": "a49f82c95e5a1e34a0092f2b5c813e39d93d1f9de30465b8dd6ef739ac13115e"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1277:m1"
+      ],
+      "replacements": {
+        "u1277:m1": "Shimmersong"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "tollen-feast",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The speaker recalls the party the fellowship hosted on its skyship. The Pyravela session record places their feast on Vindristjarna in Tollen, strongly favoring Tollen for Dolan.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 82 (DuFr).md",
+          "sha256": "8ee8509c4fa648adc4650697d4f85c0a4c32670f666f2bc91984dfae17b6cbb9"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0408:m2"
+      ],
+      "replacements": {
+        "u0408:m2": "Tollen"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "urskan-question-boundary",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "This interrupted question follows the mention of an Urskan mage, but earth could correspond to Ursk, Urskan, or an incomplete ordinary phrase. A complete name replacement would require guessing its boundary.",
+      "evidence": [],
+      "candidates": [
+        "Ursk",
+        "Urskan"
+      ],
+      "markerIds": [
+        "u1812:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1812:m1": "{{earth}}"
+      }
+    },
+    {
+      "id": "yasara",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Valeris names the woman in the account of his curse, and later mentions her again. His reference note establishes Yasara the Golden and the short form Yasara.",
+      "evidence": [
+        {
+          "path": "People/Fey/Valeris.md",
+          "sha256": "c707ea92ce19d5df6775749677259c31a8199d8327574a4a5b64f8b469f29f4f"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0635:m1",
+        "u0749:m1"
+      ],
+      "replacements": {
+        "u0635:m1": "Yasara the Golden",
+        "u0749:m1": "Yasara"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0408:m2",
+      "uid": "u0408",
+      "ordinal": 2,
+      "lineNumber": 408,
+      "start": 334,
+      "end": 343,
+      "before": "{{Dolan}}",
+      "span": "Dolan",
+      "line": "[u0408 | 00:44:21.390-00:44:38.003 | Delwath] and their minions appeared on our flying castle like kind of a cool flying castle. {{Double}}, you know. You'd like it right? You could have a good party there. We threw a party there once, not as good as this party, but it was not a bad party going a little diversion about our party at {{Dolan}}. Right?",
+      "contextBefore": [
+        "[u0406 | 00:44:07.860-00:44:17.230 | Delwath] That was, we'll finish that. The story was something like we were unsure of our next move",
+        "[u0407 | 00:44:17.390-00:44:20.060 | Delwath] when Harrow and Wend forced our hand."
+      ],
+      "contextAfter": [
+        "[u0409 | 00:44:38.970-00:44:39.490 | Delwath] But",
+        "[u0410 | 00:44:41.040-00:44:54.139 | Delwath] Their minions appeared on our ship, chasing Lirien, the bearer of one of the the amber Amberlights"
+      ],
+      "after": "Tollen",
+      "group": "tollen-feast",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0635:m1",
+      "uid": "u0635",
+      "ordinal": 1,
+      "lineNumber": 635,
+      "start": 41,
+      "end": 60,
+      "before": "{{Sara the Golden}}",
+      "span": "Sara the Golden",
+      "line": "[u0635 | 01:11:37.750-01:11:53.039 | DM] {{Sara the Golden}}. She was beautiful, aloof, radiant. She wasn't. She wasn't from here. She was from Everlight's Bloom. I don't think she should have ever left Everlight's Bloom to be honest like. What was she doing here? I mean, she didn't fit in.",
+      "contextBefore": [
+        "[u0633 | 01:11:27.320-01:11:30.119 | DM] One time I came here.",
+        "[u0634 | 01:11:32.470-01:11:35.139 | DM] And well, there was this woman."
+      ],
+      "contextAfter": [
+        "[u0636 | 01:11:54.520-01:12:01.289 | DM] She walked through the world as if it was a story she was only half aware of. She danced, she liked to dance.",
+        "[u0637 | 01:12:01.430-01:12:09.100 | DM] and she made these extravagant promises that never seemed to cost her anything, but"
+      ],
+      "after": "Yasara the Golden",
+      "group": "yasara",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0749:m1",
+      "uid": "u0749",
+      "ordinal": 1,
+      "lineNumber": 749,
+      "start": 184,
+      "end": 194,
+      "before": "{{Yasara}}",
+      "span": "Yasara",
+      "line": "[u0749 | 01:21:19.100-01:21:38.969 | DM] I mean, people ask me all sorts of things. I think I've gotten more like. Do you regret it? Well, yes, of course you know whatever happened to {{Yasara}}. Nobody knows. She went back to Everlight’s Bloom and she hid away. Did she ever thank you? No. Could you have gotten away with it. Yes, if she'd been smarter about the whole thing.",
+      "contextBefore": [
+        "[u0747 | 01:21:12.550-01:21:14.279 | DM] I have to think about that.",
+        "[u0748 | 01:21:18.080-01:21:19.100 | Wellby] Hmm."
+      ],
+      "contextAfter": [
+        "[u0750 | 01:21:41.150-01:21:44.219 | DM] I don't know that they tend to sort of obsess about",
+        "[u0751 | 01:21:46.480-01:21:51.489 | DM] {{to highlight}}. Nobody ever asks like, well, what do you do all day."
+      ],
+      "after": "Yasara",
+      "group": "yasara",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0764:m1",
+      "uid": "u0764",
+      "ordinal": 1,
+      "lineNumber": 764,
+      "start": 103,
+      "end": 114,
+      "before": "{{Emperor}}",
+      "span": "Emperor",
+      "line": "[u0764 | 01:22:50.450-01:23:02.900 | Wellby] And I'll I'll start to tell him the the story of stopping {{Emperor}} from becoming a god, and I think the the camera probably moves on to the next.",
+      "contextBefore": [
+        "[u0762 | 01:22:45.500-01:22:47.770 | Wellby] Want to hear an interesting story. That's all true.",
+        "[u0763 | 01:22:48.510-01:22:49.803 | DM] I do?"
+      ],
+      "contextAfter": [
+        "[u0765 | 01:23:02.900-01:23:17.569 | DM] Yes, we will cut to Delwath, who over, you know, wandering around sort of talking a little, I mean, you're visibly well, no, you're not visibly carrying a sword, but you could be visibly carrying a sword if you wanted to be.",
+        "[u0766 | 01:23:17.570-01:23:18.939 | Delwath] No, but I'm not."
+      ],
+      "after": "Emperor",
+      "group": "emperor-title",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1277:m1",
+      "uid": "u1277",
+      "ordinal": 1,
+      "lineNumber": 1277,
+      "start": 50,
+      "end": 65,
+      "before": "{{Dimmerstone}}",
+      "span": "Dimmerstone",
+      "line": "[u1277 | 02:10:28.000-02:10:30.510 | DM] perhaps, {{Dimmerstone}}.",
+      "contextBefore": [
+        "[u1275 | 02:10:08.940-02:10:16.979 | DM] It is something I have not seen myself, and it is said to be quite a sight.",
+        "[u1276 | 02:10:21.100-02:10:23.270 | DM] I dare not pass beyond."
+      ],
+      "contextAfter": [
+        "[u1278 | 02:10:31.200-02:10:38.849 | DM] Yes, that is {{not as a place}} that might be interesting.",
+        "[u1279 | 02:10:41.300-02:10:47.000 | Riswynn] There are gates from my world into Shimmersong. Right with that."
+      ],
+      "after": "Shimmersong",
+      "group": "shimmersong",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u1277": {
+      "before": "[u1277 | 02:10:28.000-02:10:30.510 | DM] perhaps, {{Dimmerstone}}.\n",
+      "after": "[u1277 | 02:10:28.000-02:10:30.510 | DM] perhaps, Shimmersong.\n"
+    },
+    "u0635": {
+      "before": "[u0635 | 01:11:37.750-01:11:53.039 | DM] {{Sara the Golden}}. She was beautiful, aloof, radiant. She wasn't. She wasn't from here. She was from Everlight's Bloom. I don't think she should have ever left Everlight's Bloom to be honest like. What was she doing here? I mean, she didn't fit in.\n",
+      "after": "[u0635 | 01:11:37.750-01:11:53.039 | DM] Yasara the Golden. She was beautiful, aloof, radiant. She wasn't. She wasn't from here. She was from Everlight's Bloom. I don't think she should have ever left Everlight's Bloom to be honest like. What was she doing here? I mean, she didn't fit in.\n"
+    },
+    "u0764": {
+      "before": "[u0764 | 01:22:50.450-01:23:02.900 | Wellby] And I'll I'll start to tell him the the story of stopping {{Emperor}} from becoming a god, and I think the the camera probably moves on to the next.\n",
+      "after": "[u0764 | 01:22:50.450-01:23:02.900 | Wellby] And I'll I'll start to tell him the the story of stopping Emperor from becoming a god, and I think the the camera probably moves on to the next.\n"
+    },
+    "u0408": {
+      "before": "[u0408 | 00:44:21.390-00:44:38.003 | Delwath] and their minions appeared on our flying castle like kind of a cool flying castle. {{Double}}, you know. You'd like it right? You could have a good party there. We threw a party there once, not as good as this party, but it was not a bad party going a little diversion about our party at {{Dolan}}. Right?\n",
+      "after": "[u0408 | 00:44:21.390-00:44:38.003 | Delwath] and their minions appeared on our flying castle like kind of a cool flying castle. {{Double}}, you know. You'd like it right? You could have a good party there. We threw a party there once, not as good as this party, but it was not a bad party going a little diversion about our party at Tollen. Right?\n"
+    },
+    "u0749": {
+      "before": "[u0749 | 01:21:19.100-01:21:38.969 | DM] I mean, people ask me all sorts of things. I think I've gotten more like. Do you regret it? Well, yes, of course you know whatever happened to {{Yasara}}. Nobody knows. She went back to Everlight’s Bloom and she hid away. Did she ever thank you? No. Could you have gotten away with it. Yes, if she'd been smarter about the whole thing.\n",
+      "after": "[u0749 | 01:21:19.100-01:21:38.969 | DM] I mean, people ask me all sorts of things. I think I've gotten more like. Do you regret it? Well, yes, of course you know whatever happened to Yasara. Nobody knows. She went back to Everlight’s Bloom and she hid away. Did she ever thank you? No. Could you have gotten away with it. Yes, if she'd been smarter about the whole thing.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:47:36.436680+00:00",
+      "sha256": "bcf183851d64ba0aeaec9da2132ba63c65acc9002779b1eb2f272fa396802df6"
+    }
+  ],
+  "runId": "20261028T044736431058Z-2f852c70",
+  "createdAt": "2026-10-28T04:47:36.431432+00:00"
+}

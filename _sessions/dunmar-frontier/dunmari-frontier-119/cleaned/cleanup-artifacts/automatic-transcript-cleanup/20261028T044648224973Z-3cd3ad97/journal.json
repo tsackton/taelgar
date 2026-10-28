@@ -1,0 +1,459 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-119",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-source-cleaned.md",
+  "beforeSha256": "ad654db00ded48523f49c5288ab034e4c7ca52e75750219d4c540bccca03a998",
+  "afterSha256": "6e335eba32e2ce079115524a61e642e455bbbc380c471e8ba433783a26caa1d5",
+  "markersBefore": 41,
+  "groups": [
+    {
+      "id": "cloak-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Cloak of Rainbows is recognizable, but the complete marked sentence contains uncertain ordinary wording; correcting only the item name would require reconstructing the phrase.",
+      "evidence": [
+        {
+          "path": "People/Fey/Lirien.md",
+          "sha256": "9c3312a30e757413081dac21df9cadab87aa837af6d2a27af336c8c57bf541e7"
+        }
+      ],
+      "candidates": [
+        "Cloak of Rainbows"
+      ],
+      "markerIds": [
+        "u0108:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0108:m1": "{{So I guess we're the Cloak of Rainbows.}}"
+      }
+    },
+    {
+      "id": "colorado-location",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The dialogue recalls an earlier bird transformation, but the inspected campaign records do not uniquely identify the place represented by Colorado. Preserve the location rather than choose a phonetic guess.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 109 (DuFr).md",
+          "sha256": "ac76a098fdd1c515d61ebe703c5726d00cf63acdcee075a9db634e7284945423"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0953:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0953:m1": "{{Colorado}}"
+      }
+    },
+    {
+      "id": "dancer-carlos",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Kenzo volunteers immediately afterward and Riswynn says Kenzo, but Carlos could be actual spoken wording or a misstatement; do not substitute the contextually correct character without establishing the marked utterance.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-session.yaml",
+          "sha256": "84e58e8681e15e1952dfe3607960eec8cab3b04ef32556c65a41e279e764b091"
+        }
+      ],
+      "candidates": [
+        "Kenzo"
+      ],
+      "markerIds": [
+        "u0542:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0542:m1": "{{Carlos.}}"
+      }
+    },
+    {
+      "id": "everlights-bloom",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Normalize the capitalization of the already recognizable domain name. Preserve the speaker naming this realm, even though the context might suggest a mistaken place reference.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Extraplanar/Feywild/Everlight's Bloom.md",
+          "sha256": "178ce18dec4094f360402cdb89fbd76f26433f2af57b72167eed1afdac8efacc"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1440:m1"
+      ],
+      "replacements": {
+        "u1440:m1": "Everlight's Bloom"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "fina-ally",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Typhina is a possible phonetic candidate connected to Seeker and the Cloudspinner court, but the source distinguishes her from the impostor known to the party. Fina could be shorthand or another spoken reference; the present ally claim does not securely identify a complete replacement.",
+      "evidence": [
+        {
+          "path": "People/Fey/Typhina.md",
+          "sha256": "933deeacaaad62c8c7f638a5306aac68f33a241daa460b8f9f9327b60f543fa4"
+        }
+      ],
+      "candidates": [
+        "Typhina"
+      ],
+      "markerIds": [
+        "u0856:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0856:m1": "{{Fina}}"
+      }
+    },
+    {
+      "id": "golden-stag-title",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The source establishes Lirien and a golden stag, but Enter Golden Stag is not an established title. It could be connective wording about her mount or a misremembered title; retain the complete span.",
+      "evidence": [
+        {
+          "path": "People/Fey/Lirien.md",
+          "sha256": "9c3312a30e757413081dac21df9cadab87aa837af6d2a27af336c8c57bf541e7"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0756:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0756:m1": "{{Enter Golden Stag}}"
+      }
+    },
+    {
+      "id": "lirien-demise-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Lirien and Harrow and Wend are identifiable, but the complete marked span includes damaged wording about her demise. No whole-span name-only correction preserves its uncertain meaning.",
+      "evidence": [
+        {
+          "path": "People/Fey/Lirien.md",
+          "sha256": "9c3312a30e757413081dac21df9cadab87aa837af6d2a27af336c8c57bf541e7"
+        }
+      ],
+      "candidates": [
+        "Lirien",
+        "Harrow",
+        "Wend"
+      ],
+      "markerIds": [
+        "u0695:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0695:m1": "{{Lirien’s demise of the agents of Harrow and Wend}}"
+      }
+    },
+    {
+      "id": "master-revels-spelling",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The Master of the Revels is uniquely identified, but the ruler reference explicitly disputes Soven versus Sorven. Retain both Sovin markers until the preferred spelling is settled.",
+      "evidence": [
+        {
+          "path": "People/Extraplanar Powers/Archfey/Lord Soven.md",
+          "sha256": "386c52af774d1dae1baad9a0bdbb3d97d215be07753ed72d6ea19f642e534413"
+        },
+        {
+          "path": "Gazetteer/Extraplanar/Feywild/Emberwine/Sunwine Hall.md",
+          "sha256": "ea3ed06caa612dc399047b933c9a51a1a3f8d1c5874493645ba9942549fe8e6e"
+        }
+      ],
+      "candidates": [
+        "Soven",
+        "Sorven"
+      ],
+      "markerIds": [
+        "u1518:m1",
+        "u1551:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1518:m1": "{{Sovin}}",
+        "u1551:m1": "{{Sovin}}"
+      }
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary dialogue, ad hoc ballad wording, numbers, descriptive prose, gestures, and rules discussion require wording reconstruction rather than established name or setting-term correction. Retain these spans unchanged; this category does not require human name review.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0093:m1",
+        "u0098:m1",
+        "u0156:m1",
+        "u0187:m1",
+        "u0225:m1",
+        "u0301:m1",
+        "u0391:m1",
+        "u0417:m1",
+        "u0512:m1",
+        "u0778:m1",
+        "u0794:m1",
+        "u0795:m1",
+        "u0908:m1",
+        "u0909:m1",
+        "u0917:m1",
+        "u0991:m1",
+        "u1057:m1",
+        "u1194:m1",
+        "u1224:m1",
+        "u1227:m1",
+        "u1344:m1",
+        "u1367:m1",
+        "u1466:m1",
+        "u1475:m1",
+        "u1498:m1",
+        "u1530:m1",
+        "u1550:m1",
+        "u1555:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0093:m1": "{{mouth}}",
+        "u0098:m1": "{{what}}",
+        "u0156:m1": "{{It's not one of the ones at the that. One's in the box.}}",
+        "u0187:m1": "{{Quest does.}}",
+        "u0225:m1": "{{The between day places}}",
+        "u0301:m1": "{{252, 5,300}}",
+        "u0391:m1": "{{I sold it.}}",
+        "u0417:m1": "{{hectic}}",
+        "u0512:m1": "{{Adventure in the bank.}}",
+        "u0778:m1": "{{hazard}}",
+        "u0794:m1": "{{The do you have to.}}",
+        "u0795:m1": "{{Papers.}}",
+        "u0908:m1": "{{2, 8, 1, 2}}",
+        "u0909:m1": "{{Hold inside, later}}",
+        "u0917:m1": "{{Look at the latest}}",
+        "u0991:m1": "{{secret space}}",
+        "u1057:m1": "{{And 5 min.}}",
+        "u1194:m1": "{{Think it. Just let you, too deceived soul, side.}}",
+        "u1224:m1": "{{any time}}",
+        "u1227:m1": "{{boulder}}",
+        "u1344:m1": "{{You not know}}",
+        "u1367:m1": "{{You wish to make the ally of your an ally of the Prince.}}",
+        "u1466:m1": "{{on that}}",
+        "u1475:m1": "{{Just zoom}}",
+        "u1498:m1": "{{Redim my table}}",
+        "u1530:m1": "{{He trained us in theaters.}}",
+        "u1550:m1": "{{She kind of shit stronger than anybody else around}}",
+        "u1555:m1": "{{We have to do that side eye.}}"
+      }
+    },
+    {
+      "id": "seeker-aura",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The preceding exchange identifies the aura as belonging to Seeker; normalize the marked possessive of his established name without repairing adjacent dialogue.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-119/cleaned/dunmari-frontier-119-session.yaml",
+          "sha256": "84e58e8681e15e1952dfe3607960eec8cab3b04ef32556c65a41e279e764b091"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0031:m1"
+      ],
+      "replacements": {
+        "u0031:m1": "Seeker's"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "sembaran-language",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The DM is listing languages heard by the party. Sembaran is the established language matching this marked form; no surrounding assignments are changed.",
+      "evidence": [
+        {
+          "path": "Background/Languages.md",
+          "sha256": "384bb0b9d51a540f40a522316cda56490f26eba2bdd88a04bd4c7b9a6da82649"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0180:m1"
+      ],
+      "replacements": {
+        "u0180:m1": "Sembaran"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "temple-connective",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The temple and artifact context is established, but no complete name replacement for Shaolin is established. This may instead be damaged connective wording; retain the span.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Buruli.md",
+          "sha256": "3f186237dcedbb5f3d8ab2df72231681e617e504a087100dbd3265cc62379e2e"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0205:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0205:m1": "{{Shaolin}}"
+      }
+    },
+    {
+      "id": "thark-compulsion",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The free orcs and the Cloudspinner cloak uniquely favor Thark, whose compulsion the People of the Rainbow escaped. Grash is the defeated commander in the preceding sentence; ordinary dark is less consistent with the named source of their bondage.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Embodied Gods/Thark.md",
+          "sha256": "129ebffd9f6e42fd8383caa123f92c2a14fcc61e460b0f4cf6bd161b40e9ebb3"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1230:m1"
+      ],
+      "replacements": {
+        "u1230:m1": "Thark"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0031:m1",
+      "uid": "u0031",
+      "ordinal": 1,
+      "lineNumber": 31,
+      "start": 46,
+      "end": 57,
+      "before": "{{seekers}}",
+      "span": "seekers",
+      "line": "[u0031 | 00:02:52.320-00:02:58.680 | DM] just {{seekers}} Lady Eventide. You see, you see her curled up in a ball like she's",
+      "contextBefore": [
+        "[u0029 | 00:02:47.150-00:02:48.809 | Seeker] Ask me anything, Kenzo.",
+        "[u0030 | 00:02:49.777-00:02:52.100 | DM] No! You only see one aura"
+      ],
+      "contextAfter": [
+        "[u0032 | 00:02:58.850-00:03:06.890 | DM] nervous about re-entering the Feywild, or or traveling through this portal. Anyway, she's still sort of hiding there, just",
+        "[u0033 | 00:03:07.160-00:03:12.790 | DM] clustered around the streak of white hair in Seeker's on Seeker's head."
+      ],
+      "after": "Seeker's",
+      "group": "seeker-aura",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0180:m1",
+      "uid": "u0180",
+      "ordinal": 1,
+      "lineNumber": 180,
+      "start": 80,
+      "end": 92,
+      "before": "{{sambarin}}",
+      "span": "sambarin",
+      "line": "[u0180 | 00:13:42.520-00:13:50.619 | DM] to Seeker. It sounds dwarven to Wellby {{sambarin}} to",
+      "contextBefore": [
+        "[u0178 | 00:13:35.530-00:13:37.700 | DM] It's not. It's hard to place",
+        "[u0179 | 00:13:38.600-00:13:41.859 | DM] it. You clearly understand the words"
+      ],
+      "contextAfter": [
+        "[u0181 | 00:13:51.260-00:13:57.369 | DM] Riswynn dwarven to Kenzo Dunmari to Delwath Elven.",
+        "[u0182 | 00:14:02.853-00:14:07.170 | Delwath] Just out of curiosity. Is there a reason? We're not just plane shifting to the Prismwell?"
+      ],
+      "after": "Sembaran",
+      "group": "sembaran-language",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1230:m1",
+      "uid": "u1230",
+      "ordinal": 1,
+      "lineNumber": 1230,
+      "start": 46,
+      "end": 55,
+      "before": "{{stark}}",
+      "span": "stark",
+      "line": "[u1230 | 01:41:00.900-01:41:04.790 | Delwath] {{stark}} at the hands of the Cloudspinner’s cloak.",
+      "contextBefore": [
+        "[u1228 | 01:40:47.840-01:40:48.680 | Seeker] Nice.",
+        "[u1229 | 01:40:48.680-01:40:57.930 | Delwath] And the orcs the free orcs and their their freedom from"
+      ],
+      "contextAfter": [
+        "[u1231 | 01:41:08.003-01:41:16.480 | DM] As she's listening she sort of turns over, and she nudges Wellby be a dear Wellby. Go get the tea, please. I can hear the kettle whistling.",
+        "[u1232 | 01:41:20.030-01:41:21.870 | Wellby] Yeah. Yeah."
+      ],
+      "after": "Thark",
+      "group": "thark-compulsion",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1440:m1",
+      "uid": "u1440",
+      "ordinal": 1,
+      "lineNumber": 1440,
+      "start": 72,
+      "end": 93,
+      "before": "{{Everlight's bloom}}",
+      "span": "Everlight's bloom",
+      "line": "[u1440 | 01:59:47.080-01:59:50.570 | Riswynn] 1st people we spoke of in {{Everlight's bloom}}, of the",
+      "contextBefore": [
+        "[u1438 | 01:59:29.300-01:59:34.990 | Kenzo] Man, I'm pretty aware it's 1 of my things.",
+        "[u1439 | 01:59:37.570-01:59:40.689 | Kenzo] Yeah, I just keep eating. I'm really enjoying myself."
+      ],
+      "contextAfter": [
+        "[u1441 | 01:59:51.150-01:59:55.410 | Riswynn] problems we perceive did not want to talk about dark things.",
+        "[u1442 | 01:59:55.530-01:59:59.819 | Riswynn] so we became shy of speaking of the change we want to bring."
+      ],
+      "after": "Everlight's Bloom",
+      "group": "everlights-bloom",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u1230": {
+      "before": "[u1230 | 01:41:00.900-01:41:04.790 | Delwath] {{stark}} at the hands of the Cloudspinner’s cloak.\n",
+      "after": "[u1230 | 01:41:00.900-01:41:04.790 | Delwath] Thark at the hands of the Cloudspinner’s cloak.\n"
+    },
+    "u0031": {
+      "before": "[u0031 | 00:02:52.320-00:02:58.680 | DM] just {{seekers}} Lady Eventide. You see, you see her curled up in a ball like she's\n",
+      "after": "[u0031 | 00:02:52.320-00:02:58.680 | DM] just Seeker's Lady Eventide. You see, you see her curled up in a ball like she's\n"
+    },
+    "u0180": {
+      "before": "[u0180 | 00:13:42.520-00:13:50.619 | DM] to Seeker. It sounds dwarven to Wellby {{sambarin}} to\n",
+      "after": "[u0180 | 00:13:42.520-00:13:50.619 | DM] to Seeker. It sounds dwarven to Wellby Sembaran to\n"
+    },
+    "u1440": {
+      "before": "[u1440 | 01:59:47.080-01:59:50.570 | Riswynn] 1st people we spoke of in {{Everlight's bloom}}, of the\n",
+      "after": "[u1440 | 01:59:47.080-01:59:50.570 | Riswynn] 1st people we spoke of in Everlight's Bloom, of the\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:46:48.238641+00:00",
+      "sha256": "6e335eba32e2ce079115524a61e642e455bbbc380c471e8ba433783a26caa1d5"
+    }
+  ],
+  "runId": "20261028T044648224973Z-3cd3ad97",
+  "createdAt": "2026-10-28T04:46:48.225423+00:00"
+}

@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-102",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-source-cleaned.md",
+  "beforeSha256": "1af85b61b1df4f8a9cce1881f38db8aee6d020c9ac60cdf8a2f8499b8dc48671",
+  "afterSha256": "fc668e6ff6ed0250b6461d7a2c3d51822c0ae74dd781c1da347c0995674dcd8f",
+  "markersBefore": 25,
+  "groups": [
+    {
+      "id": "amulet-thrower",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Thinker resembles Seeker, but the surrounding dialogue and session narrative identify Wellby as the amulet thrower. This could be a spoken name mistake; neither the phonetic reading nor the factually correct actor alone safely resolves the span.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 102 (DuFr).md",
+          "sha256": "d107aa66b1354be3f0864875bd128cf6900b054196f8ecc9652ede55f67363fb"
+        },
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-session.yaml",
+          "sha256": "0b5099b55548e207c34c2b2d9d5cd7abb03479605fcfcf14a803bc245608bc2b"
+        }
+      ],
+      "candidates": [
+        "Seeker",
+        "Wellby"
+      ],
+      "markerIds": [
+        "u3453:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u3453:m1": "{{Thinker}}"
+      }
+    },
+    {
+      "id": "cedrano",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Milo recounts the departure of the Stormdancer; the written version of this same story explicitly names Cedrano, whose reference note establishes the spelling.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Tales and Stories/Milo's Story.md",
+          "sha256": "44633758ad14f1773d82b7cc2ff94e6e5c4aa89f0521fd07608a816e32c4f436"
+        },
+        {
+          "path": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Cedrano.md",
+          "sha256": "c423c2ce425b628ad7409eca1f551e2ca7cd38e02426a51f8e54aeeeaac62edf"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0084:m1"
+      ],
+      "replacements": {
+        "u0084:m1": "Cedrano"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ordinary-dialogue",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary description, dialogue, or action wording without a supported name or setting-term correction; retain the complete marked spans.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0429:m1",
+        "u0915:m1",
+        "u1433:m1",
+        "u2078:m1",
+        "u3504:m1",
+        "u3596:m1",
+        "u3718:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0429:m1": "{{this work. I'm harder}}",
+        "u0915:m1": "{{done}}",
+        "u1433:m1": "{{would have waddled}}",
+        "u2078:m1": "{{Humble in}}",
+        "u3504:m1": "{{Announces on evil ways}}",
+        "u3596:m1": "{{briefly, that’s the way}}",
+        "u3718:m1": "{{what they not mean}}"
+      }
+    },
+    {
+      "id": "rules-and-combat-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Rules explanations, distances, spell discussion, or combat wording. These are not complete identifiable name replacements and repairing them would reconstruct mechanics or surrounding phrases.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u1107:m1",
+        "u1146:m1",
+        "u1310:m1",
+        "u1388:m1",
+        "u2251:m1",
+        "u2373:m1",
+        "u2814:m1",
+        "u2887:m1",
+        "u3733:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1107:m1": "{{cold}}",
+        "u1146:m1": "{{the best person}}",
+        "u1310:m1": "{{On the moon}}",
+        "u1388:m1": "{{5 foot diameter}}",
+        "u2251:m1": "{{bend plus}}",
+        "u2373:m1": "{{by the attacker}}",
+        "u2814:m1": "{{don’t have success}}",
+        "u2887:m1": "{{I, 2060 feet from me}}",
+        "u3733:m1": "{{I’m in Memphis also high}}"
+      }
+    },
+    {
+      "id": "split-ability-reference",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The exchange introduces information about Buruli and may invoke Soul Sight, but the marked fragments are split between speakers and do not establish a unique complete name replacement within either span. Retain both fragments without reconstructing the utterance.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-session.yaml",
+          "sha256": "0b5099b55548e207c34c2b2d9d5cd7abb03479605fcfcf14a803bc245608bc2b"
+        }
+      ],
+      "candidates": [
+        "Soul Sight"
+      ],
+      "markerIds": [
+        "u2778:m1",
+        "u2779:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2778:m1": "{{soul}}",
+        "u2779:m1": "{{Play}}"
+      }
+    },
+    {
+      "id": "story-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Damaged source-reading wording and a numerical expression in Milo’s story; repairing the surrounding prose or numbers is outside this name pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0111:m1",
+        "u0117:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0111:m1": "{{The origin in the garbled conflict}}",
+        "u0117:m1": "{{I went 15}}"
+      }
+    },
+    {
+      "id": "sword-discussion-address",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The span may be an address to Delwath or ordinary garbled wording. The sword discussion identifies Delwath as the interlocutor, but does not establish a complete replacement for Priscilla.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 102 (DuFr).md",
+          "sha256": "d107aa66b1354be3f0864875bd128cf6900b054196f8ecc9652ede55f67363fb"
+        },
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-102/cleaned/dunmari-frontier-102-session.yaml",
+          "sha256": "0b5099b55548e207c34c2b2d9d5cd7abb03479605fcfcf14a803bc245608bc2b"
+        }
+      ],
+      "candidates": [
+        "Delwath"
+      ],
+      "markerIds": [
+        "u0378:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0378:m1": "{{Priscilla}}"
+      }
+    },
+    {
+      "id": "water-activation-fragment",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Friend follows an unmarked water fragment during discussion of activating an effect. A complete feature name is not present within the marked boundaries; repairing the fragment would reconstruct the rules discussion.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u3059:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u3059:m1": "{{Friend}}"
+      }
+    },
+    {
+      "id": "weapon-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Riswynn is comparing cantrips with ordinary weapon attacks; the earlier crossbow description does not establish Camaro as a named item. Restoring a generic weapon phrase is outside this name pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u2871:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2871:m1": "{{Camaro}}"
+      }
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0084:m1",
+      "uid": "u0084",
+      "ordinal": 1,
+      "lineNumber": 84,
+      "start": 162,
+      "end": 173,
+      "before": "{{Sadrano}}",
+      "span": "Sadrano",
+      "line": "[u0084 | 00:05:51.510-00:06:03.980 | DM] and it started with a journey, as it always does a journey that had been quite a joy. Actually, the Stormdancer had left {{Sadrano}} early in the spring, over a year ago, now heading south.",
+      "contextBefore": [
+        "[u0082 | 00:05:45.430-00:05:47.940 | DM] Milo thinks back and tells",
+        "[u0083 | 00:05:48.140-00:05:50.909 | DM] the tale to Wellby of how it all started."
+      ],
+      "contextAfter": [
+        "[u0085 | 00:06:04.380-00:06:11.280 | DM] In a month they were south of Illoria, in two, sailing through the strange waters of the Sea of Storms.",
+        "[u0086 | 00:06:11.820-00:06:13.130 | DM] dodging"
+      ],
+      "after": "Cedrano",
+      "group": "cedrano",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u0084": {
+      "before": "[u0084 | 00:05:51.510-00:06:03.980 | DM] and it started with a journey, as it always does a journey that had been quite a joy. Actually, the Stormdancer had left {{Sadrano}} early in the spring, over a year ago, now heading south.\n",
+      "after": "[u0084 | 00:05:51.510-00:06:03.980 | DM] and it started with a journey, as it always does a journey that had been quite a joy. Actually, the Stormdancer had left Cedrano early in the spring, over a year ago, now heading south.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:38:18.076748+00:00",
+      "sha256": "fc668e6ff6ed0250b6461d7a2c3d51822c0ae74dd781c1da347c0995674dcd8f"
+    }
+  ],
+  "runId": "20261028T043818072693Z-7047a051",
+  "createdAt": "2026-10-28T04:38:18.072984+00:00"
+}

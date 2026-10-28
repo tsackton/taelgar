@@ -1,0 +1,518 @@
+{
+  "schemaVersion": 1,
+  "stage": "clean",
+  "chunkId": "chunk-002",
+  "sourceSha256": "82b7ee01365b97c3137459fb4330ea979bfe2019842c4bbfcbec52496a4a4f5f",
+  "checks": [
+    "people",
+    "groups",
+    "places",
+    "time_transitions",
+    "items",
+    "actions",
+    "unmarked_errors",
+    "second_pass"
+  ],
+  "edits": [
+    {
+      "uid": "u0181",
+      "before": "Is the Forest of Nightmares {{where Ainumarya was in the forest}}?",
+      "after": "Is the Forest of Nightmares where Ainumarya was in the forest?",
+      "reason": "Question and answer establish a spoken geographical question, not a recognition error.",
+      "kind": "uncertainty",
+      "evidence": [
+        "u0179-u0183"
+      ]
+    },
+    {
+      "uid": "u0202",
+      "before": "Plains that {{word but kinky let up}}, so.",
+      "after": "Plains that where the kenku live, so.",
+      "reason": "Immediately preceding unit introduces kenku beyond the mountains; sounds and syntax recover their plains habitat.",
+      "kind": "asr",
+      "evidence": [
+        "u0200-u0204"
+      ]
+    },
+    {
+      "uid": "u0203",
+      "before": "Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the {{hours}}, like 400, 500 years ago, until {{some up looped in}} and wiped everything out.",
+      "after": "Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the {{hours}}, like 400, 500 years ago, until Cha'mutte moved in and wiped everything out.",
+      "reason": "Earlier Great War account names Cha’mutte; near-sound wording and destruction context support this recovery.",
+      "kind": "asr",
+      "evidence": [
+        "u0201-u0205"
+      ]
+    },
+    {
+      "uid": "u0222",
+      "before": "10 days in {{Mexico}} and.",
+      "after": "10 days in the Te'kula and.",
+      "reason": "Direct reply to the preceding statement about time spent at the Te’kula village.",
+      "kind": "asr",
+      "evidence": [
+        "u0220-u0224"
+      ]
+    },
+    {
+      "uid": "u0226",
+      "before": "Well, but {{we probably hear me}}.",
+      "after": "Well, but we probably hear me.",
+      "reason": "Unrecoverable incidental interjection before the clear scheduling exchange; no distinct substantive reading can be established.",
+      "kind": "uncertainty",
+      "evidence": [
+        "u0224-u0228"
+      ]
+    },
+    {
+      "uid": "u0227",
+      "before": "{{Now said me}} mid-fall, didn't he?",
+      "after": "No, he said mid-fall, didn't he?",
+      "reason": "Following mid-fall and didn’t he make the remembered statement construction clear.",
+      "kind": "asr",
+      "evidence": [
+        "u0225-u0229"
+      ]
+    },
+    {
+      "uid": "u0228",
+      "before": "That's what he said, like in June, right, when you {{strike them}} most recently, he was like, well, we don't have enough troops.",
+      "after": "That's what he said, like in June, right, when you scryed him most recently, he was like, well, we don't have enough troops.",
+      "reason": "Near-sound recovery in discussion of what Grash most recently said remotely, not an attack.",
+      "kind": "asr",
+      "evidence": [
+        "u0226-u0230"
+      ]
+    },
+    {
+      "uid": "u0267",
+      "before": "This one was destroyed {{more than a year ago now August, the past summer}}.",
+      "after": "This one was destroyed more than a year ago now August, the past summer.",
+      "reason": "Keep spoken timing and disfluency; chronological inconsistency alone is not ASR evidence.",
+      "kind": "uncertainty",
+      "evidence": [
+        "u0265-u0269"
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "uid": "u0203",
+      "span": "{{hours}}",
+      "kind": "place",
+      "importance": "material",
+      "proposal": "Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the {{hours}}, like 400, 500 years ago, until Cha'mutte moved in and wiped everything out.",
+      "reason": "The geographical referent after north of the is not recoverable from hours; it could identify a boundary or people.",
+      "recommendation": "Retain this span unresolved pending an audio check of 19:12–19:26; no defensible named replacement is established.",
+      "question": "Supply the spoken geographical referent, or retain {{hours}} as unresolved?",
+      "alternatives": []
+    },
+    {
+      "uid": "u0278",
+      "span": "{{Dunbar}}",
+      "kind": "item",
+      "importance": "material",
+      "proposal": "Yeah, it's exactly the day that the armband was destroyed.",
+      "reason": "Dunbar may be a misrecognition of armband; choosing changes what event anchors the date.",
+      "recommendation": "Prefer armband from the immediately preceding destruction/date discussion, but check the noun in the audio at 26:25–26:29.",
+      "question": "Replace Dunbar with armband, supply the spoken noun, or retain unresolved?",
+      "alternatives": []
+    },
+    {
+      "uid": "u0304",
+      "span": "{{maybe destroying them has some time, maybe good return}}",
+      "kind": "action",
+      "importance": "material",
+      "proposal": "Has trapped the silent ones, but now you say, {{maybe destroying them has some time, maybe good return}}.",
+      "reason": "The damaged clause may assert a delayed return or merely the possibility of release; the causal claim is consequential.",
+      "recommendation": "Retain unresolved pending audio at 28:37–28:45. Destruction enabling a return is clear from the exchange, but reconstructing the timing claim would invent wording.",
+      "question": "Supply the damaged clause, or retain it unresolved without adding a timing claim?",
+      "alternatives": []
+    },
+    {
+      "uid": "u0319",
+      "span": "{{when the sun rise}}",
+      "kind": "time",
+      "importance": "material",
+      "proposal": "The Battle of the Endless Dark, where Taraka fell silent after three days without a sunrise, a place now constantly in shadow.",
+      "reason": "Recognition may have lost a negative/without, changing whether the battle ended at sunrise or endured without one.",
+      "recommendation": "Prefer without a sunrise from the name Endless Dark and the following shadow description, but those facts do not prove the spoken wording.",
+      "question": "Use without a sunrise, use when the sun rose, supply other wording, or retain unresolved?",
+      "alternatives": [
+        "The Battle of the Endless Dark, where Taraka fell silent after three days when the sun rose, a place now constantly in shadow."
+      ]
+    }
+  ],
+  "mentions": [
+    {
+      "uid": "u0176",
+      "kind": "place",
+      "text": "Forest of Dreams"
+    },
+    {
+      "uid": "u0177",
+      "kind": "place",
+      "text": "Forest of Nightmares"
+    },
+    {
+      "uid": "u0177",
+      "kind": "place",
+      "text": "Forest of Dreams"
+    },
+    {
+      "uid": "u0179",
+      "kind": "place",
+      "text": "hunting camp"
+    },
+    {
+      "uid": "u0180",
+      "kind": "place",
+      "text": "the village"
+    },
+    {
+      "uid": "u0181",
+      "kind": "place",
+      "text": "Ainumarya"
+    },
+    {
+      "uid": "u0181",
+      "kind": "place",
+      "text": "Forest of Nightmares"
+    },
+    {
+      "uid": "u0185",
+      "kind": "place",
+      "text": "Ainumarya"
+    },
+    {
+      "uid": "u0185",
+      "kind": "place",
+      "text": "Pandar"
+    },
+    {
+      "uid": "u0186",
+      "kind": "place",
+      "text": "Forest of Dreams"
+    },
+    {
+      "uid": "u0186",
+      "kind": "place",
+      "text": "Pandar"
+    },
+    {
+      "uid": "u0196",
+      "kind": "place",
+      "text": "Voltara"
+    },
+    {
+      "uid": "u0198",
+      "kind": "place",
+      "text": "Chardon"
+    },
+    {
+      "uid": "u0201",
+      "kind": "person",
+      "text": "the stoneborn"
+    },
+    {
+      "uid": "u0201",
+      "kind": "group",
+      "text": "stoneborn"
+    },
+    {
+      "uid": "u0201",
+      "kind": "group",
+      "text": "kenku"
+    },
+    {
+      "uid": "u0201",
+      "kind": "group",
+      "text": "dwarves"
+    },
+    {
+      "uid": "u0202",
+      "kind": "group",
+      "text": "kenku"
+    },
+    {
+      "uid": "u0203",
+      "kind": "person",
+      "text": "Cha'mutte"
+    },
+    {
+      "uid": "u0203",
+      "kind": "group",
+      "text": "Deno'qai"
+    },
+    {
+      "uid": "u0203",
+      "kind": "time",
+      "text": "400, 500 years ago"
+    },
+    {
+      "uid": "u0204",
+      "kind": "person",
+      "text": "Zevi"
+    },
+    {
+      "uid": "u0206",
+      "kind": "group",
+      "text": "Deno'qai"
+    },
+    {
+      "uid": "u0206",
+      "kind": "place",
+      "text": "the village"
+    },
+    {
+      "uid": "u0207",
+      "kind": "place",
+      "text": "the village"
+    },
+    {
+      "uid": "u0212",
+      "kind": "person",
+      "text": "Ninu"
+    },
+    {
+      "uid": "u0212",
+      "kind": "place",
+      "text": "the village"
+    },
+    {
+      "uid": "u0216",
+      "kind": "person",
+      "text": "Zevi"
+    },
+    {
+      "uid": "u0217",
+      "kind": "time",
+      "text": "October 2"
+    },
+    {
+      "uid": "u0220",
+      "kind": "group",
+      "text": "Te'kula"
+    },
+    {
+      "uid": "u0222",
+      "kind": "group",
+      "text": "Te'kula"
+    },
+    {
+      "uid": "u0222",
+      "kind": "time",
+      "text": "10 days"
+    },
+    {
+      "uid": "u0223",
+      "kind": "person",
+      "text": "Grash"
+    },
+    {
+      "uid": "u0227",
+      "kind": "time",
+      "text": "mid-fall"
+    },
+    {
+      "uid": "u0228",
+      "kind": "time",
+      "text": "June"
+    },
+    {
+      "uid": "u0235",
+      "kind": "person",
+      "text": "Yezali"
+    },
+    {
+      "uid": "u0237",
+      "kind": "time",
+      "text": "after dinner"
+    },
+    {
+      "uid": "u0240",
+      "kind": "group",
+      "text": "silent ones"
+    },
+    {
+      "uid": "u0245",
+      "kind": "item",
+      "text": "armband"
+    },
+    {
+      "uid": "u0245",
+      "kind": "item",
+      "text": "circlets"
+    },
+    {
+      "uid": "u0245",
+      "kind": "item",
+      "text": "runes"
+    },
+    {
+      "uid": "u0246",
+      "kind": "item",
+      "text": "runes"
+    },
+    {
+      "uid": "u0252",
+      "kind": "item",
+      "text": "armband"
+    },
+    {
+      "uid": "u0253",
+      "kind": "person",
+      "text": "Delwath"
+    },
+    {
+      "uid": "u0254",
+      "kind": "person",
+      "text": "Delwath"
+    },
+    {
+      "uid": "u0258",
+      "kind": "item",
+      "text": "armband"
+    },
+    {
+      "uid": "u0260",
+      "kind": "place",
+      "text": "Blackwater Fens"
+    },
+    {
+      "uid": "u0261",
+      "kind": "place",
+      "text": "our village"
+    },
+    {
+      "uid": "u0261",
+      "kind": "time",
+      "text": "a generation"
+    },
+    {
+      "uid": "u0267",
+      "kind": "time",
+      "text": "more than a year ago"
+    },
+    {
+      "uid": "u0267",
+      "kind": "time",
+      "text": "August"
+    },
+    {
+      "uid": "u0267",
+      "kind": "time",
+      "text": "the past summer"
+    },
+    {
+      "uid": "u0269",
+      "kind": "group",
+      "text": "Deno'qai"
+    },
+    {
+      "uid": "u0270",
+      "kind": "person",
+      "text": "Istari"
+    },
+    {
+      "uid": "u0274",
+      "kind": "person",
+      "text": "Delwath"
+    },
+    {
+      "uid": "u0276",
+      "kind": "person",
+      "text": "Delwath"
+    },
+    {
+      "uid": "u0286",
+      "kind": "place",
+      "text": "hunting camp"
+    },
+    {
+      "uid": "u0286",
+      "kind": "time",
+      "text": "a few years back"
+    },
+    {
+      "uid": "u0289",
+      "kind": "place",
+      "text": "the village"
+    },
+    {
+      "uid": "u0304",
+      "kind": "group",
+      "text": "silent ones"
+    },
+    {
+      "uid": "u0308",
+      "kind": "person",
+      "text": "Yezali"
+    },
+    {
+      "uid": "u0308",
+      "kind": "item",
+      "text": "armband"
+    },
+    {
+      "uid": "u0317",
+      "kind": "time",
+      "text": "Battle of Darkfire"
+    },
+    {
+      "uid": "u0318",
+      "kind": "group",
+      "text": "silent ones"
+    },
+    {
+      "uid": "u0319",
+      "kind": "person",
+      "text": "Taraka"
+    },
+    {
+      "uid": "u0320",
+      "kind": "person",
+      "text": "Nisir"
+    },
+    {
+      "uid": "u0320",
+      "kind": "person",
+      "text": "Yalik'I"
+    },
+    {
+      "uid": "u0321",
+      "kind": "place",
+      "text": "Yemo'te"
+    },
+    {
+      "uid": "u0323",
+      "kind": "person",
+      "text": "K'onisati"
+    },
+    {
+      "uid": "u0323",
+      "kind": "person",
+      "text": "Midri"
+    },
+    {
+      "uid": "u0325",
+      "kind": "item",
+      "text": "circlets"
+    },
+    {
+      "uid": "u0326",
+      "kind": "group",
+      "text": "silent ones"
+    },
+    {
+      "uid": "u0327",
+      "kind": "person",
+      "text": "Yezali"
+    },
+    {
+      "uid": "u0334",
+      "kind": "group",
+      "text": "silent ones"
+    }
+  ]
+}

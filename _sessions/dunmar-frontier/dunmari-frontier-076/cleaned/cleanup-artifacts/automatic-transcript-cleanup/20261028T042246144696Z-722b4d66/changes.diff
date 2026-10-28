@@ -1,0 +1,385 @@
+--- before/u0010
++++ after/u0010
+@@ -1 +1 @@
+-[u0010 | 00:01:22.900-00:01:28.720 | DM] From Delwath’s magic you catch glimpses of others on the plains near {{Tokra}}, Sara prepares to march.
++[u0010 | 00:01:22.900-00:01:28.720 | DM] From Delwath’s magic you catch glimpses of others on the plains near Tokra, Sara prepares to march.
+--- before/u0013
++++ after/u0013
+@@ -1 +1 @@
+-[u0013 | 00:01:37.180-00:01:45.010 | DM] Sara rides among the troops, speaking to them softly, reminding those who would fight with her that the fire of {{Alger's}} spear is with them.
++[u0013 | 00:01:37.180-00:01:45.010 | DM] Sara rides among the troops, speaking to them softly, reminding those who would fight with her that the fire of Aagir's spear is with them.
+--- before/u0207
++++ after/u0207
+@@ -1 +1 @@
+-[u0207 | 00:20:00.420-00:20:05.060 | Seeker] there's {{Gosh!}} The Grash! The orcs of
++[u0207 | 00:20:00.420-00:20:05.060 | Seeker] there's Uzgash The Grash! The orcs of
+--- before/u0211
++++ after/u0211
+@@ -1 +1 @@
+-[u0211 | 00:20:27.660-00:20:33.030 | DM] {{whose gosh}} is? And if that's like a person. or
++[u0211 | 00:20:27.660-00:20:33.030 | DM] Uzgash is? And if that's like a person. or
+--- before/u0382
++++ after/u0382
+@@ -1 +1 @@
+-[u0382 | 00:36:30.810-00:36:33.430 | Delwath] to {{who's Gosh!}}
++[u0382 | 00:36:30.810-00:36:33.430 | Delwath] to Uzgash
+--- before/u0383
++++ after/u0383
+@@ -1 +1 @@
+-[u0383 | 00:36:34.140-00:36:41.170 | Delwath] If {{u gosh}} isn't a person, it won't work. But if {{whose Gosh!}} Is a person, Presumably it would. Well, {{who's Gosh!}} The leader of this tribe?
++[u0383 | 00:36:34.140-00:36:41.170 | Delwath] If Uzgash isn't a person, it won't work. But if Uzgash Is a person, Presumably it would. Well, Uzgash The leader of this tribe?
+--- before/u0570
++++ after/u0570
+@@ -1 +1 @@
+-[u0570 | 00:53:50.820-00:53:54.020 | DM] What business have intruders in {{zir cause}}
++[u0570 | 00:53:50.820-00:53:54.020 | DM] What business have intruders in Xurkhaz
+--- before/u0793
++++ after/u0793
+@@ -1 +1 @@
+-[u0793 | 01:14:26.390-01:14:32.510 | DM] introduced, by the way he introduced himself as Commander {{or Gaz}}. and he
++[u0793 | 01:14:26.390-01:14:32.510 | DM] introduced, by the way he introduced himself as Commander Vorgaz. and he
+--- before/u0814
++++ after/u0814
+@@ -1 +1 @@
+-[u0814 | 01:16:33.560-01:16:42.540 | Delwath] our started exploring lots of gnarly undead things the yeah like how we you know I'll, I'll leave out anything about {{Chicoons}}
++[u0814 | 01:16:33.560-01:16:42.540 | Delwath] our started exploring lots of gnarly undead things the yeah like how we you know I'll, I'll leave out anything about Shakun's
+--- before/u0831
++++ after/u0831
+@@ -1 +1 @@
+-[u0831 | 01:18:15.150-01:18:19.260 | Delwath] not a reminder. We'll mention that I was gonna mention {{the ta. She}} but no, i'm not going to.
++[u0831 | 01:18:15.150-01:18:19.260 | Delwath] not a reminder. We'll mention that I was gonna mention the tanshi but no, i'm not going to.
+--- before/u0862
++++ after/u0862
+@@ -1 +1 @@
+-[u0862 | 01:21:16.720-01:21:23.440 | Delwath] Do you say, Chief, {{who's Gosh}} or something? Chief Lubash, Lubash? Yeah, Definitely not. {{Gosh}}
++[u0862 | 01:21:16.720-01:21:23.440 | Delwath] Do you say, Chief, Uzgash or something? Chief Lubash, Lubash? Yeah, Definitely not. Uzgash
+--- before/u0876
++++ after/u0876
+@@ -1 +1 @@
+-[u0876 | 01:22:26.340-01:22:27.820 | DM] and {{who is guar}}
++[u0876 | 01:22:26.340-01:22:27.820 | DM] and Vorgaz
+--- before/u0894
++++ after/u0894
+@@ -1 +1 @@
+-[u0894 | 01:24:07.490-01:24:09.950 | DM] {{Sarcas}} has not fallen
++[u0894 | 01:24:07.490-01:24:09.950 | DM] Xurkhaz has not fallen
+--- before/u0979
++++ after/u0979
+@@ -1 +1 @@
+-[u0979 | 01:32:11.980-01:32:16.900 | DM] {{because guys}} strike me down if I am wrong, but I will see you through.
++[u0979 | 01:32:11.980-01:32:16.900 | DM] Uzgash strike me down if I am wrong, but I will see you through.
+--- before/u0980
++++ after/u0980
+@@ -1 +1 @@
+-[u0980 | 01:32:22.580-01:32:23.820 | Delwath] {{Whose cash}}?
++[u0980 | 01:32:22.580-01:32:23.820 | Delwath] Uzgash?
+--- before/u0981
++++ after/u0981
+@@ -1 +1 @@
+-[u0981 | 01:32:25.510-01:32:27.360 | Delwath] Who Who is {{us? Gosh}}!
++[u0981 | 01:32:25.510-01:32:27.360 | Delwath] Who Who is Uzgash!
+--- before/u0987
++++ after/u0987
+@@ -1 +1 @@
+-[u0987 | 01:32:51.470-01:32:53.380 | Delwath] try to correct {{this cash}}.
++[u0987 | 01:32:51.470-01:32:53.380 | Delwath] try to correct Uzgash.
+--- before/u0989
++++ after/u0989
+@@ -1 +1 @@
+-[u0989 | 01:32:57.850-01:32:59.320 | DM] {{it's our cause}}
++[u0989 | 01:32:57.850-01:32:59.320 | DM] Xurkhaz
+--- before/u1006
++++ after/u1006
+@@ -1 +1 @@
+-[u1006 | 01:34:22.320-01:34:27.240 | Riswynn] It's a. P. {{Whose Gosh's}} tribe is like Jacob's tribe, or something. Yeah.
++[u1006 | 01:34:22.320-01:34:27.240 | Riswynn] It's a. P. Uzgash's tribe is like Jacob's tribe, or something. Yeah.
+--- before/u1174
++++ after/u1174
+@@ -1 +1 @@
+-[u1174 | 01:49:14.730-01:49:19.840 | DM] {{Dolvera}} and Offgar that Delwath would scry them to get their research. So let's do that.
++[u1174 | 01:49:14.730-01:49:19.840 | DM] Govir and Offgar that Delwath would scry them to get their research. So let's do that.
+--- before/u1182
++++ after/u1182
+@@ -1 +1 @@
+-[u1182 | 01:50:17.940-01:50:27.310 | DM] pacing around and and and most of them. So you had asked him about {{a poly on a Polyon's}} magical artifacts in the history of {{Drank, or}}
++[u1182 | 01:50:17.940-01:50:27.310 | DM] pacing around and and and most of them. So you had asked him about Apollyon Apollyon's magical artifacts in the history of Drankor
+--- before/u1186
++++ after/u1186
+@@ -1 +1 @@
+-[u1186 | 01:50:50.050-01:50:56.290 | DM] although he also writes that the last decade of {{a polyon's}} rule is shrouded in mystery, and
++[u1186 | 01:50:50.050-01:50:56.290 | DM] although he also writes that the last decade of Apollyon's rule is shrouded in mystery, and
+--- before/u1187
++++ after/u1187
+@@ -1 +1 @@
+-[u1187 | 01:50:56.650-01:51:07.740 | DM] there's a few surviving accounts of {{drank Koreans}} fleeing the destruction of {{drank, or}} and they talk about 4, or sometimes 3, or maybe 5 relics of of {{a Polyons}} might.
++[u1187 | 01:50:56.650-01:51:07.740 | DM] there's a few surviving accounts of Drankorians fleeing the destruction of Drankor and they talk about 4, or sometimes 3, or maybe 5 relics of of Apollyon's might.
+--- before/u1190
++++ after/u1190
+@@ -1 +1 @@
+-[u1190 | 01:51:25.140-01:51:34.990 | DM] referring to 2 different scholars, that suggest {{a poly, and}} stole, or begged, or created, or otherwise acquired, the mantle of protection from the Feywild
++[u1190 | 01:51:25.140-01:51:34.990 | DM] referring to 2 different scholars, that suggest Apollyon stole, or begged, or created, or otherwise acquired, the mantle of protection from the Feywild
+--- before/u1192
++++ after/u1192
+@@ -1 +1 @@
+-[u1192 | 01:51:36.170-01:51:49.940 | DM] There's also several cryptic references to the people of the rainbow associated with the cloak and Offgar’s written “fey?” here and destroyed by {{a poly on}} question, Mark. But it seems there's no real solid information
++[u1192 | 01:51:36.170-01:51:49.940 | DM] There's also several cryptic references to the people of the rainbow associated with the cloak and Offgar’s written “fey?” here and destroyed by Apollyon question, Mark. But it seems there's no real solid information
+--- before/u1193
++++ after/u1193
+@@ -1 +1 @@
+-[u1193 | 01:51:52.120-01:51:58.210 | DM] about the scepter. It said that none could disobey a direct order from {{a polyon}} while he bore it.
++[u1193 | 01:51:52.120-01:51:58.210 | DM] about the scepter. It said that none could disobey a direct order from Apollyon while he bore it.
+--- before/u1218
++++ after/u1218
+@@ -1 +1 @@
+-[u1218 | 01:54:21.250-01:54:33.670 | DM] like several pages where he's written {{tranquilian}} history in big letters underlined, and then listed {{Cavarios}} chronicles of {{drank or}} period, and then he just has a list of like
++[u1218 | 01:54:21.250-01:54:33.670 | DM] like several pages where he's written Drankorian history in big letters underlined, and then listed Cavarrio's chronicles of Drankor period, and then he just has a list of like
+--- before/u1219
++++ after/u1219
+@@ -1 +1 @@
+-[u1219 | 01:54:33.740-01:54:41.960 | DM] 50 emperors of {{drank, or}} their names, and the dates in which they were emperors, which i'm not going to read to you. But if that matters.
++[u1219 | 01:54:33.740-01:54:41.960 | DM] 50 emperors of Drankor their names, and the dates in which they were emperors, which i'm not going to read to you. But if that matters.
+--- before/u1222
++++ after/u1222
+@@ -1 +1 @@
+-[u1222 | 01:54:50.010-01:54:51.970 | DM] and then you scry on {{Govier}}
++[u1222 | 01:54:50.010-01:54:51.970 | DM] and then you scry on Govir
+--- before/u1225
++++ after/u1225
+@@ -1 +1 @@
+-[u1225 | 01:54:57.630-01:55:17.130 | Kenzo] Seeker’s friend in Chardon. So the the brief synopsis, it's a the cloak is a fey cloak that that {{a polyan}} got through negotiation, barter, or something with fey people. And there's like some children of the rainbow that are related to the cloak that are dead alive. Who knows?
++[u1225 | 01:54:57.630-01:55:17.130 | Kenzo] Seeker’s friend in Chardon. So the the brief synopsis, it's a the cloak is a fey cloak that that Apollyon got through negotiation, barter, or something with fey people. And there's like some children of the rainbow that are related to the cloak that are dead alive. Who knows?
+--- before/u1238
++++ after/u1238
+@@ -1 +1 @@
+-[u1238 | 01:56:10.080-01:56:20.200 | DM] so {{go there}} in contrast, is sitting in the archives reading, and he's written a neat letter that's spread out over 4 pages of text
++[u1238 | 01:56:10.080-01:56:20.200 | DM] so Govir in contrast, is sitting in the archives reading, and he's written a neat letter that's spread out over 4 pages of text
+--- before/u1241
++++ after/u1241
+@@ -1 +1 @@
+-[u1241 | 01:56:34.600-01:56:45.220 | DM] {{Carvario is}} chronicles of {{drank, or}} but he didn't have time to locate a copy. Yeah. he hoped he might at least find more information about the mantle of protection.
++[u1241 | 01:56:34.600-01:56:45.220 | DM] Cavarrio's chronicles of Drankor but he didn't have time to locate a copy. Yeah. he hoped he might at least find more information about the mantle of protection.
+--- before/u1246
++++ after/u1246
+@@ -1 +1 @@
+-[u1246 | 01:57:04.950-01:57:18.670 | DM] and then, he says, goes into detail. He did note one odd detail in his reading For many years after the great war. The {{Mysti}} of {{Bishhma}} maintained an outpost near Carson in the blasted plains.
++[u1246 | 01:57:04.950-01:57:18.670 | DM] and then, he says, goes into detail. He did note one odd detail in his reading For many years after the great war. The mystai of Bhishma maintained an outpost near Carson in the blasted plains.
+--- before/u1247
++++ after/u1247
+@@ -1 +1 @@
+-[u1247 | 01:57:19.480-01:57:27.730 | DM] and that many, many of their order traveled widely across the former land of {{De Noir}}, seeking lost souls and unmarked dead, and putting them to rest.
++[u1247 | 01:57:19.480-01:57:27.730 | DM] and that many, many of their order traveled widely across the former land of Dunmar, seeking lost souls and unmarked dead, and putting them to rest.
+--- before/u1250
++++ after/u1250
+@@ -1 +1 @@
+-[u1250 | 01:57:45.910-01:57:57.300 | DM] The man said his name was Jacques, and he was from the north. Near {{is in gay}}. His home was destroyed in the war. and he and and companions had set out, having nothing left to make their mark in the world.
++[u1250 | 01:57:45.910-01:57:57.300 | DM] The man said his name was Jacques, and he was from the north. Near Isingue. His home was destroyed in the war. and he and and companions had set out, having nothing left to make their mark in the world.
+--- before/u1252
++++ after/u1252
+@@ -1 +1 @@
+-[u1252 | 01:58:03.780-01:58:10.090 | Kenzo] Jacques claimed that they were seeking a ring, an ancient artifact of {{drink, or}} that allowed the wearer to cheat death.
++[u1252 | 01:58:03.780-01:58:10.090 | Kenzo] Jacques claimed that they were seeking a ring, an ancient artifact of Drankor that allowed the wearer to cheat death.
+--- before/u1253
++++ after/u1253
+@@ -1 +1 @@
+-[u1253 | 01:58:10.520-01:58:21.960 | DM] He said that, according to the Bitter Knife, hobgoblin, {{Shamat}} had taken this ring from a dead {{drink, Korean}} Emperor, and given it to a lieutenant of his. He used it to rouse the dead of {{drank or}} itself.
++[u1253 | 01:58:10.520-01:58:21.960 | DM] He said that, according to the Bitter Knife, hobgoblin, Cha'mutte had taken this ring from a dead Drankorian Emperor, and given it to a lieutenant of his. He used it to rouse the dead of Drankor itself.
+--- before/u1254
++++ after/u1254
+@@ -1 +1 @@
+-[u1254 | 01:58:22.200-01:58:32.050 | DM] and this is where the vast Undead armies that overwhelm {{drank are}}, or Dunmar, and then eventually the Istibar Alliance and {{Isn't Gay}} itself came from
++[u1254 | 01:58:22.200-01:58:32.050 | DM] and this is where the vast Undead armies that overwhelm Drankor, or Dunmar, and then eventually the Istibar Alliance and Isingue itself came from
+--- before/u1255
++++ after/u1255
+@@ -1 +1 @@
+-[u1255 | 01:58:33.690-01:58:42.330 | DM] where and where it had fallen when {{Schumat}} was slain. none knew. But this is where they were heading south into the desert to seek it and destroy it.
++[u1255 | 01:58:33.690-01:58:42.330 | DM] where and where it had fallen when Cha'mutte was slain. none knew. But this is where they were heading south into the desert to seek it and destroy it.
+--- before/u1258
++++ after/u1258
+@@ -1 +1 @@
+-[u1258 | 01:59:00.590-01:59:05.940 | DM] As far as {{Gover}} could tell. Jacques and his companions never returned from the desert.
++[u1258 | 01:59:00.590-01:59:05.940 | DM] As far as Govir could tell. Jacques and his companions never returned from the desert.
+--- before/u1266
++++ after/u1266
+@@ -1 +1 @@
+-[u1266 | 01:59:51.150-01:59:58.840 | DM] And then, on the last page of the letter he writes about {{Toka}}. He says that he is scared, and he does not know what will happen, but the air is tense.
++[u1266 | 01:59:51.150-01:59:58.840 | DM] And then, on the last page of the letter he writes about Tokra. He says that he is scared, and he does not know what will happen, but the air is tense.
+--- before/u1267
++++ after/u1267
+@@ -1 +1 @@
+-[u1267 | 01:59:59.350-02:00:11.340 | DM] Lakan monks have remained in the monastery, and rumors of war are everywhere. Kalaya, the temple administrator, has declared {{token}} a city of sanctuary and forbidden weapons from being carried inside the walls.
++[u1267 | 01:59:59.350-02:00:11.340 | DM] Lakan monks have remained in the monastery, and rumors of war are everywhere. Kalaya, the temple administrator, has declared Tokra a city of sanctuary and forbidden weapons from being carried inside the walls.
+--- before/u1268
++++ after/u1268
+@@ -1 +1 @@
+-[u1268 | 02:00:12.550-02:00:26.040 | DM] claiming that she serves the gods first and foremost, and she will not have bloodshed in the city so close to {{Soccer's Day}}. But {{Gov. Your rights}}. The temple guard is small, and cannot stop an army should they wish to overwhelm the city.
++[u1268 | 02:00:12.550-02:00:26.040 | DM] claiming that she serves the gods first and foremost, and she will not have bloodshed in the city so close to Sonkar's Day. But {{Gov. Your rights}}. The temple guard is small, and cannot stop an army should they wish to overwhelm the city.
+--- before/u1269
++++ after/u1269
+@@ -1 +1 @@
+-[u1269 | 02:00:27.940-02:00:36.560 | DM] and he signs off saying. blessings of the gods with you, and may {{lock a}} guide, your choices and vision.
++[u1269 | 02:00:27.940-02:00:36.560 | DM] and he signs off saying. blessings of the gods with you, and may Laka guide, your choices and vision.
+--- before/u1287
++++ after/u1287
+@@ -1 +1 @@
+-[u1287 | 02:02:20.690-02:02:21.930 | DM] {{it is good car}}.
++[u1287 | 02:02:20.690-02:02:21.930 | DM] Uzgukhar.
+--- before/u1380
++++ after/u1380
+@@ -1 +1 @@
+-[u1380 | 02:10:35.040-02:10:43.690 | Kenzo] Well, if they win the battle and Grash is defeated, then they keep the cloak. Why can't they keep the cloak? Because {{a polyan}} will send somebody in a month.
++[u1380 | 02:10:35.040-02:10:43.690 | Kenzo] Well, if they win the battle and Grash is defeated, then they keep the cloak. Why can't they keep the cloak? Because Apollyon will send somebody in a month.
+--- before/u1391
++++ after/u1391
+@@ -1 +1 @@
+-[u1391 | 02:11:42.100-02:11:56.470 | Delwath] The the {{taunchy}} are still around right like I mean there's No, there's been no lack of divine connection. I mean Riswynn would also presumably know this right like it's not like we feel cut off from the gods right true, so far, so far.
++[u1391 | 02:11:42.100-02:11:56.470 | Delwath] The the tanshi are still around right like I mean there's No, there's been no lack of divine connection. I mean Riswynn would also presumably know this right like it's not like we feel cut off from the gods right true, so far, so far.
+--- before/u1405
++++ after/u1405
+@@ -1 +1 @@
+-[u1405 | 02:13:16.500-02:13:22.580 | Kenzo] {{Apollon's}} chief lieutenant, and this is their major force right here. If we defeat them here.
++[u1405 | 02:13:16.500-02:13:22.580 | Kenzo] Apollyon's chief lieutenant, and this is their major force right here. If we defeat them here.
+--- before/u1414
++++ after/u1414
+@@ -1 +1 @@
+-[u1414 | 02:13:59.320-02:14:06.410 | Delwath] and and I don't know if Grash is even {{a poly on's}} main lieutenant, I mean. I don't know how much of Fausto's strength has been
++[u1414 | 02:13:59.320-02:14:06.410 | Delwath] and and I don't know if Grash is even Apollyon's main lieutenant, I mean. I don't know how much of Fausto's strength has been
+--- before/u1501
++++ after/u1501
+@@ -1 +1 @@
+-[u1501 | 02:21:16.530-02:21:21.610 | DM] presumably some one of the orcs depicted here as {{it was. Gosh}}!
++[u1501 | 02:21:16.530-02:21:21.610 | DM] presumably some one of the orcs depicted here as Uzgash!
+--- before/u1506
++++ after/u1506
+@@ -1 +1 @@
+-[u1506 | 02:21:44.490-02:21:49.530 | DM] welcome strangers at the city of {{it is good car}}.
++[u1506 | 02:21:44.490-02:21:49.530 | DM] welcome strangers at the city of Uzgukhar.
+--- before/u1641
++++ after/u1641
+@@ -1 +1 @@
+-[u1641 | 02:34:38.550-02:34:43.990 | DM] like the gods are, and the {{ta she}} are not here. The dwarven gods are not here.
++[u1641 | 02:34:38.550-02:34:43.990 | DM] like the gods are, and the tanshi are not here. The dwarven gods are not here.
+--- before/u1724
++++ after/u1724
+@@ -1 +1 @@
+-[u1724 | 02:41:09.970-02:41:11.520 | Delwath] how about {{a polyod}}?
++[u1724 | 02:41:09.970-02:41:11.520 | Delwath] how about Apollyon?
+--- before/u1738
++++ after/u1738
+@@ -1 +1 @@
+-[u1738 | 02:42:12.330-02:42:26.180 | Delwath] that he carries a ring made by the same ancient {{Drake Koreans}} who created that cloak. with this ring he can raise
++[u1738 | 02:42:12.330-02:42:26.180 | Delwath] that he carries a ring made by the same ancient Drankorians who created that cloak. with this ring he can raise
+--- before/u1783
++++ after/u1783
+@@ -1 +1 @@
+-[u1783 | 02:46:33.330-02:46:34.770 | DM] when {{it was Gosh}}!
++[u1783 | 02:46:33.330-02:46:34.770 | DM] when Uzgash!
+--- before/u1797
++++ after/u1797
+@@ -1 +1 @@
+-[u1797 | 02:47:29.230-02:47:32.300 | DM] But {{it was Gosh}}!
++[u1797 | 02:47:29.230-02:47:32.300 | DM] But Uzgash!
+--- before/u1825
++++ after/u1825
+@@ -1 +1 @@
+-[u1825 | 02:50:52.360-02:51:02.120 | DM] Well, i'm sure. Loremaster {{as a gar}} would be willing to speak for hours on our history.
++[u1825 | 02:50:52.360-02:51:02.120 | DM] Well, i'm sure. Loremaster Azogar would be willing to speak for hours on our history.
+--- before/u1846
++++ after/u1846
+@@ -1 +1 @@
+-[u1846 | 02:52:41.560-02:52:42.660 | Delwath] {{a poly on}}
++[u1846 | 02:52:41.560-02:52:42.660 | Delwath] Apollyon
+--- before/u1852
++++ after/u1852
+@@ -1 +1 @@
+-[u1852 | 02:53:10.340-02:53:12.770 | Delwath] {{Paulion}} is not, I think, a God.
++[u1852 | 02:53:10.340-02:53:12.770 | Delwath] Apollyon is not, I think, a God.
+--- before/u1854
++++ after/u1854
+@@ -1 +1 @@
+-[u1854 | 02:53:23.230-02:53:27.230 | Delwath] but also Wait metagame. We have no reason to think {{Apollon}} is divine right.
++[u1854 | 02:53:23.230-02:53:27.230 | Delwath] but also Wait metagame. We have no reason to think Apollyon is divine right.
+--- before/u1857
++++ after/u1857
+@@ -1 +1 @@
+-[u1857 | 02:53:38.470-02:53:48.350 | Delwath] as far as you know. No, I mean I mean, presumably not because yeah, our working theory is {{Shamutt}} trapped him, and he's some sort of very powerful lich, right
++[u1857 | 02:53:38.470-02:53:48.350 | Delwath] as far as you know. No, I mean I mean, presumably not because yeah, our working theory is Cha'mutte trapped him, and he's some sort of very powerful lich, right
+--- before/u1863
++++ after/u1863
+@@ -1 +1 @@
+-[u1863 | 02:54:18.440-02:54:25.300 | Delwath] or we have learned that {{Apollon}}. the one who.
++[u1863 | 02:54:18.440-02:54:25.300 | Delwath] or we have learned that Apollyon. the one who.
+--- before/u1877
++++ after/u1877
+@@ -1 +1 @@
+-[u1877 | 02:55:38.420-02:55:43.600 | DM] how do you come by this information that {{a Polyon}} has returned.
++[u1877 | 02:55:38.420-02:55:43.600 | DM] how do you come by this information that Apollyon has returned.
+--- before/u1885
++++ after/u1885
+@@ -1 +1 @@
+-[u1885 | 02:56:27.350-02:56:36.130 | Kenzo] Yeah, I I tell him everything about the Plane of Souls and Grash, and the ring, and you know the end, or like his ability to raise the dead, and and also seeing {{a poly on}}
++[u1885 | 02:56:27.350-02:56:36.130 | Kenzo] Yeah, I I tell him everything about the Plane of Souls and Grash, and the ring, and you know the end, or like his ability to raise the dead, and and also seeing Apollyon
+--- before/u1886
++++ after/u1886
+@@ -1 +1 @@
+-[u1886 | 02:56:36.170-02:56:45.820 | Delwath] that was creepy and weird. I mean happy to tell them the story of {{Rye}} and the {{jade hand break}}, I assume all. But oh, no, no, we should not tell him that we should not tell him that
++[u1886 | 02:56:36.170-02:56:45.820 | Delwath] that was creepy and weird. I mean happy to tell them the story of Rai and the {{jade hand break}}, I assume all. But oh, no, no, we should not tell him that we should not tell him that
+--- before/u1888
++++ after/u1888
+@@ -1 +1 @@
+-[u1888 | 02:56:50.560-02:56:53.370 | Delwath] isn't that how we know almost everything, because {{Rye}} was trying to
++[u1888 | 02:56:50.560-02:56:53.370 | Delwath] isn't that how we know almost everything, because Rai was trying to
+--- before/u1889
++++ after/u1889
+@@ -1 +1 @@
+-[u1889 | 02:56:53.900-02:57:02.580 | Delwath] hold {{the poly on}}, because {{Rye}} was holding the the well. But Kenzo also saw {{a poly on}} in his spirit journey that's more direct.
++[u1889 | 02:56:53.900-02:57:02.580 | Delwath] hold Apollyon, because Rai was holding the the well. But Kenzo also saw Apollyon in his spirit journey that's more direct.
+--- before/u1891
++++ after/u1891
+@@ -1 +1 @@
+-[u1891 | 02:57:11.010-02:57:14.270 | Delwath] the the like, {{the cleansed}}.
++[u1891 | 02:57:11.010-02:57:14.270 | Delwath] the the like, the Cleansed.
+--- before/u1909
++++ after/u1909
+@@ -1 +1 @@
+-[u1909 | 02:58:54.820-02:58:57.620 | DM] {{Polyon's}} return is indeed news.
++[u1909 | 02:58:54.820-02:58:57.620 | DM] Apollyon's return is indeed news.
+--- before/u1910
++++ after/u1910
+@@ -1 +1 @@
+-[u1910 | 02:58:59.870-02:59:02.810 | DM] {{Shamat}} saved us from him once before.
++[u1910 | 02:58:59.870-02:59:02.810 | DM] Cha'mutte saved us from him once before.
+--- before/u1924
++++ after/u1924
+@@ -1 +1 @@
+-[u1924 | 03:00:32.880-03:00:36.200 | DM] {{Paulion}} drove us into the wilderness before
++[u1924 | 03:00:32.880-03:00:36.200 | DM] Apollyon drove us into the wilderness before
+--- before/u1950
++++ after/u1950
+@@ -1 +1 @@
+-[u1950 | 03:03:16.110-03:03:18.990 | DM] the chief's Father {{Car group}}
++[u1950 | 03:03:16.110-03:03:18.990 | DM] the chief's Father Karguk
+--- before/u1957
++++ after/u1957
+@@ -1 +1 @@
+-[u1957 | 03:03:49.150-03:03:51.390 | DM] and I followed {{Cargo}} back.
++[u1957 | 03:03:49.150-03:03:51.390 | DM] and I followed Karguk back.
+--- before/u1967
++++ after/u1967
+@@ -1 +1 @@
+-[u1967 | 03:04:50.340-03:04:53.250 | DM] {{Shabbat's}} attempt to kill the gods failed.
++[u1967 | 03:04:50.340-03:04:53.250 | DM] Cha'mutte's attempt to kill the gods failed.
+--- before/u2095
++++ after/u2095
+@@ -1 +1 @@
+-[u2095 | 03:24:05.240-03:24:09.510 | Wellby] from D&D Perspective. it’s warlock, but they come from the {{ta she}} right they come
++[u2095 | 03:24:05.240-03:24:09.510 | Wellby] from D&D Perspective. it’s warlock, but they come from the tanshi right they come
+--- before/u2170
++++ after/u2170
+@@ -1 +1 @@
+-[u2170 | 03:30:28.420-03:30:35.880 | Kenzo] to do whatever we can to defeat Grash, to defeat {{a polyon}}, ensure the cloak can stay safely here and protected with your people.
++[u2170 | 03:30:28.420-03:30:35.880 | Kenzo] to do whatever we can to defeat Grash, to defeat Apollyon, ensure the cloak can stay safely here and protected with your people.
+--- before/u2172
++++ after/u2172
+@@ -1 +1 @@
+-[u2172 | 03:30:41.610-03:30:51.910 | Kenzo] Should {{a polyon}} succeed, and should Grash succeed, then the next phase of this will be an attack on Dunmar, and will be an attack on more cities, more
++[u2172 | 03:30:41.610-03:30:51.910 | Kenzo] Should Apollyon succeed, and should Grash succeed, then the next phase of this will be an attack on Dunmar, and will be an attack on more cities, more

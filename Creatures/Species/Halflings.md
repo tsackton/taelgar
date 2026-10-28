@@ -27,12 +27,11 @@ Constant travel leaves most halflings comfortable speaking in many tongues, thou
 Names usually pair a short given name with a distinctive family name, sometimes related to a trade, place, or storied deed, but often simply a pleasing-sounding invention.
 
 %%^Campaign:none%%
-Generally tend towards kind of English-like given names, perhaps a reflection of their typical practice of giving their names in Common, not Halfling. Have trended to following typical D&D/Tolkien vibes, though it is plausible that halflings to the far east or south could have different naming patterns, potentially reflecting the vibes of alternate trade tongues. 
+Currently have assumed that each family name is unique (e.g., all Goodbarrels are related somehow), but not obvious this must be the case.
 
-Family names are classic D&D/Tolkien in style, possibly glossed as usually translated into Common in-world. Currently have assumed that each family name is unique (e.g., all Goodbarrels are related somehow), but not obvious this must be the case. 
-
-Some debate about the role of halflings in inventing or popularizing trade tongues - see Open Questions, below. 
+Some debate about the role of halflings in inventing or popularizing trade tongues - see [[Halflings#Open Questions and Further Work|Open Questions and Further Work]].
 %%^End%%
+
 ## Lifecycle
 
 Halflings reach maturity in their early 20s and commonly live a little past 100, though a lucky few live longer. Families are broadly extended and communitarian: caravans and ship crews are often kin companies first and businesses second, with apprentices, in‑laws, and the occasional foundling or wanderer folded into the community.

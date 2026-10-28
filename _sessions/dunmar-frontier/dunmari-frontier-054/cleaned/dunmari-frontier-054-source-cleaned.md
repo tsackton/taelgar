@@ -155,7 +155,7 @@
 [u0155 | 00:16:29.760-00:16:33.720 | Delwath] Yezali's has not been destroyed, but I hope to achieve that soon.
 [u0156 | 00:16:36.330-00:16:36.660 | Aristaea] Now.
 [u0157 | 00:16:37.770-00:16:42.570 | Aristaea] On the battlefield where Yezali, I think that is the armband that i'm aware of.
-[u0158 | 00:16:44.340-00:16:47.490 | Aristaea] {{For exactly}} was a great hero in the Dark Fire.
+[u0158 | 00:16:44.340-00:16:47.490 | Aristaea] Yezali was a great hero in the Dark Fire.
 [u0159 | 00:16:51.930-00:16:53.040 | Delwath] I suspect that if.
 [u0160 | 00:16:53.040-00:17:00.990 | Delwath] We go to that battlefield and destroy that circlet that they should return to this to this realm.
 [u0161 | 00:17:07.140-00:17:12.330 | Iascaire] By the sounds of things rule number one would be don't touch the arm bands.
@@ -524,7 +524,7 @@
 [u0524 | 00:51:56.130-00:51:58.290 | DM] And you take another eight points of.
 [u0525 | 00:52:00.990-00:52:02.520 | DM] eight points of psychic damage.
 [u0526 | 00:52:04.860-00:52:07.620 | DM] And it begins to sort of pull you into its embrace.
-[u0527 | 00:52:11.910-00:52:14.850 | DM] At this point now {{yesterday}}.
+[u0527 | 00:52:11.910-00:52:14.850 | DM] At this point now Aristaea.
 [u0528 | 00:52:17.910-00:52:20.760 | DM] Aristaea returns from her.
 [u0529 | 00:52:23.580-00:52:33.240 | DM] brief moment of seeing and it's jarring like you were seeing the battle beginning to play out in front of you, and then suddenly you're back to the ruined village.
 [u0530 | 00:52:41.730-00:52:48.870 | Aristaea] shakes her head and looks around and sees that Delwath engaged with this creature and.
@@ -1308,7 +1308,7 @@
 [u1308 | 01:59:32.430-01:59:34.290 | DM] manage inventory and then.
 [u1309 | 01:59:36.780-01:59:37.800 | Delwath] Well that's really fancy.
 [u1310 | 01:59:39.330-01:59:42.090 | Iascaire] Okay sorry Nisir, Nisir, fires, what I want.
-[u1311 | 01:59:43.980-01:59:46.440 | DM] {{Car}} fire and Yalik'i fire.
+[u1311 | 01:59:43.980-01:59:46.440 | DM] Nisir fire and Yalik'i fire.
 [u1312 | 01:59:47.970-01:59:48.840 | Iascaire] and
 [u1313 | 01:59:52.890-01:59:53.970 | Iascaire] Yalik'i fire.
 [u1314 | 01:59:55.320-01:59:56.010 | Iascaire] cool Thank you.
@@ -1626,7 +1626,7 @@
 [u1626 | 02:30:58.440-02:31:00.060 | Delwath] 30 miles.
 [u1627 | 02:31:01.800-02:31:07.110 | Unknown] {{2028}} verses.
 [u1628 | 02:31:08.280-02:31:10.530 | Unknown] {{3020}}.
-[u1629 | 02:31:11.670-02:31:24.180 | Delwath] yeah it's like marginally quicker to go Battle of Dark Fire Battle of Endless Dark {{matter of few more}} than to go that way that way that way, but not by much.
+[u1629 | 02:31:11.670-02:31:24.180 | Delwath] yeah it's like marginally quicker to go Battle of Dark Fire Battle of Endless Dark Battle of Yemo'te than to go that way that way that way, but not by much.
 [u1630 | 02:31:24.420-02:31:24.750 | Unknown] Okay.
 [u1631 | 02:31:26.940-02:31:29.100 | Aristaea] yeah I mean unless we feel like we can meet.
 [u1632 | 02:31:30.420-02:31:38.010 | Aristaea] Before TIM said that we could probably just sort of get by with a lot of mini rests, I was thinking we would need to get out of.

@@ -28,7 +28,7 @@
 [u0028 | 00:02:42.900-00:02:45.509 | DM] So how do we know? Kenzo tells us.
 [u0029 | 00:02:47.150-00:02:48.809 | Seeker] Ask me anything, Kenzo.
 [u0030 | 00:02:49.777-00:02:52.100 | DM] No! You only see one aura
-[u0031 | 00:02:52.320-00:02:58.680 | DM] just {{seekers}} Lady Eventide. You see, you see her curled up in a ball like she's
+[u0031 | 00:02:52.320-00:02:58.680 | DM] just Seeker's Lady Eventide. You see, you see her curled up in a ball like she's
 [u0032 | 00:02:58.850-00:03:06.890 | DM] nervous about re-entering the Feywild, or or traveling through this portal. Anyway, she's still sort of hiding there, just
 [u0033 | 00:03:07.160-00:03:12.790 | DM] clustered around the streak of white hair in Seeker's on Seeker's head.
 [u0034 | 00:03:13.960-00:03:14.580 | Seeker] Huh!
@@ -177,7 +177,7 @@
 [u0177 | 00:13:31.950-00:13:33.210 | Delwath] Oh, okay.
 [u0178 | 00:13:35.530-00:13:37.700 | DM] It's not. It's hard to place
 [u0179 | 00:13:38.600-00:13:41.859 | DM] it. You clearly understand the words
-[u0180 | 00:13:42.520-00:13:50.619 | DM] to Seeker. It sounds dwarven to Wellby {{sambarin}} to
+[u0180 | 00:13:42.520-00:13:50.619 | DM] to Seeker. It sounds dwarven to Wellby Sembaran to
 [u0181 | 00:13:51.260-00:13:57.369 | DM] Riswynn dwarven to Kenzo Dunmari to Delwath Elven.
 [u0182 | 00:14:02.853-00:14:07.170 | Delwath] Just out of curiosity. Is there a reason? We're not just plane shifting to the Prismwell?
 [u0183 | 00:14:10.870-00:14:12.510 | Wellby] That a thing we can just do.
@@ -1227,7 +1227,7 @@
 [u1227 | 01:40:44.290-01:40:47.269 | Delwath] the killing of the {{boulder}}, killing Grash.
 [u1228 | 01:40:47.840-01:40:48.680 | Seeker] Nice.
 [u1229 | 01:40:48.680-01:40:57.930 | Delwath] And the orcs the free orcs and their their freedom from
-[u1230 | 01:41:00.900-01:41:04.790 | Delwath] {{stark}} at the hands of the Cloudspinner’s cloak.
+[u1230 | 01:41:00.900-01:41:04.790 | Delwath] Thark at the hands of the Cloudspinner’s cloak.
 [u1231 | 01:41:08.003-01:41:16.480 | DM] As she's listening she sort of turns over, and she nudges Wellby be a dear Wellby. Go get the tea, please. I can hear the kettle whistling.
 [u1232 | 01:41:20.030-01:41:21.870 | Wellby] Yeah. Yeah.
 [u1233 | 01:41:22.400-01:41:24.900 | Wellby] Yep, yep.
@@ -1437,7 +1437,7 @@
 [u1437 | 01:59:26.220-01:59:29.300 | DM] Not not that you're aware of.
 [u1438 | 01:59:29.300-01:59:34.990 | Kenzo] Man, I'm pretty aware it's 1 of my things.
 [u1439 | 01:59:37.570-01:59:40.689 | Kenzo] Yeah, I just keep eating. I'm really enjoying myself.
-[u1440 | 01:59:47.080-01:59:50.570 | Riswynn] 1st people we spoke of in {{Everlight's bloom}}, of the
+[u1440 | 01:59:47.080-01:59:50.570 | Riswynn] 1st people we spoke of in Everlight's Bloom, of the
 [u1441 | 01:59:51.150-01:59:55.410 | Riswynn] problems we perceive did not want to talk about dark things.
 [u1442 | 01:59:55.530-01:59:59.819 | Riswynn] so we became shy of speaking of the change we want to bring.
 [u1443 | 02:00:01.890-02:00:04.040 | DM] No one likes dark tales.

@@ -46,20 +46,20 @@
 [u0046 | 00:04:18.000-00:04:18.390 | Kenzo] alone.
 [u0047 | 00:04:19.710-00:04:27.150 | Kenzo] Should we, like like this wagons totally getting a fucking stolen that's gonna suck like, how do we protect it better this wagon.
 [u0048 | 00:04:28.770-00:04:29.670 | Seeker] Can we get it.
-[u0049 | 00:04:29.850-00:04:34.020 | Kenzo] We get like a {{Chinchilla}} or any like anybody.
-[u0050 | 00:04:35.130-00:04:46.260 | Kenzo] yeah {{Chandra}} would be good for like tasks help like like give us like a little you know abjuration charm or something it's like doesn't look like a wagon or like people that look at it like don't see anything in it, or you know.
+[u0049 | 00:04:29.850-00:04:34.020 | Kenzo] We get like a Cintra or any like anybody.
+[u0050 | 00:04:35.130-00:04:46.260 | Kenzo] yeah Cintra would be good for like tasks help like like give us like a little you know abjuration charm or something it's like doesn't look like a wagon or like people that look at it like don't see anything in it, or you know.
 [u0051 | 00:04:49.890-00:04:52.830 | Seeker] There are not a lot of spells that can create like permanent effects like that or they're.
 [u0052 | 00:04:53.520-00:04:56.550 | DM] not really I mean not that you have access to.
-[u0053 | 00:04:59.550-00:05:02.160 | DM] Because, not a lot {{central}} could do.
+[u0053 | 00:04:59.550-00:05:02.160 | DM] Because, not a lot Cintra could do.
 [u0054 | 00:05:02.460-00:05:10.380 | Seeker] If only the wagon had a finger, we could put that ring on it that makes it so that you're just not that noticeable isn't that one of the one of the ring.
 [u0055 | 00:05:10.380-00:05:11.730 | DM] Well that's just the ring.
 [u0056 | 00:05:11.880-00:05:13.170 | DM] it's not you're wearing.
 [u0057 | 00:05:14.370-00:05:16.320 | Seeker] The ring itself is not that noticeable.
 [u0058 | 00:05:16.800-00:05:17.760 | Seeker] yeah yeah.
-[u0059 | 00:05:19.950-00:05:26.490 | Kenzo] Can we ask, can we ask {{central}}, just like anybody that knows magic stuff in Karawa what for their advice on how to like.
+[u0059 | 00:05:19.950-00:05:26.490 | Kenzo] Can we ask, can we ask Cintra, just like anybody that knows magic stuff in Karawa what for their advice on how to like.
 [u0060 | 00:05:27.900-00:05:28.890 | Kenzo] best protect this wagon.
 [u0061 | 00:05:29.220-00:05:31.860 | Seeker] Once you had an extremely valuable vehicle.
-[u0062 | 00:05:32.580-00:05:37.920 | DM] haha ah yeah I see if there's anything {{centric}} can do.
+[u0062 | 00:05:32.580-00:05:37.920 | DM] haha ah yeah I see if there's anything Cintra can do.
 [u0063 | 00:05:41.850-00:05:43.080 | Kenzo] Right, because this is a good.
 [u0064 | 00:05:43.170-00:05:44.010 | Kenzo] fucking terrible.
 [u0065 | 00:05:44.910-00:05:49.560 | Wellby] yeah and or can we can we stash the mirrors at the monastery in Tokra.
@@ -794,7 +794,7 @@
 [u0794 | 01:01:23.520-01:01:25.680 | Kenzo] And the {{buyers}} village was over here somewhere.
 [u0795 | 01:01:26.160-01:01:27.000 | Delwath] Oh really wasn't it.
 [u0796 | 01:01:28.260-01:01:28.440 | Seeker] yeah.
-[u0797 | 01:01:28.470-01:01:28.980 | Wellby] {{kairos}}.
+[u0797 | 01:01:28.470-01:01:28.980 | Wellby] Kyr's.
 [u0798 | 01:01:29.730-01:01:30.510 | DM] Just right here.
 [u0799 | 01:01:32.190-01:01:33.090 | Seeker] yeah.
 [u0800 | 01:01:33.690-01:01:37.080 | DM] That that still exist as far as you sort of know.
@@ -1104,7 +1104,7 @@
 [u1104 | 01:25:36.120-01:25:37.470 | Delwath] that's not really a side quest.
 [u1105 | 01:25:38.250-01:25:41.880 | Wellby] Go to the thousand foot trees look that'd be awesome.
 [u1106 | 01:25:42.390-01:25:43.800 | Kenzo] Oh hell yeah I don't know where they are, though.
-[u1107 | 01:25:44.550-01:25:48.600 | Wellby] They're east on the far side of the {{segments}} according to dream.
+[u1107 | 01:25:44.550-01:25:48.600 | Wellby] They're east on the far side of the Sentinels according to dream.
 [u1108 | 01:25:50.700-01:25:53.910 | Seeker] We should probably talk about our dreams and but.
 [u1109 | 01:25:54.210-01:25:57.300 | Wellby] Certainly, like on that thread, kind of like probably seriously like.
 [u1110 | 01:25:58.350-01:26:01.230 | Wellby] What, what is the main quest.
@@ -1221,7 +1221,7 @@
 [u1221 | 01:33:39.090-01:33:40.260 | DM] Be I can't remember either.
 [u1222 | 01:33:40.920-01:33:45.210 | DM] Well, anyway, he is from is from the northern Kingdom that was.
 [u1223 | 01:33:46.920-01:33:47.250 | DM] A.
-[u1224 | 01:33:49.170-01:33:58.350 | DM] That was largely destroyed by the like collapse of {{overage}} monastery and all the devastation {{to list of some bar}} that was once a major dwarven kingdom.
+[u1224 | 01:33:49.170-01:33:58.350 | DM] That was largely destroyed by the like collapse of Urlich monastery and all the devastation {{to list of some bar}} that was once a major dwarven kingdom.
 [u1225 | 01:33:58.650-01:34:02.520 | DM] I see and so not very many records of him have survived.
 [u1226 | 01:34:05.010-01:34:15.150 | DM] So all that you can remember from from what you could you know read when you were studying was that um Yes, he traveled widely and he was.
 [u1227 | 01:34:18.180-01:34:21.180 | DM] He was he was seeking kind of the.
@@ -1297,7 +1297,7 @@
 [u1297 | 01:40:55.020-01:40:57.840 | DM] You know the River to the east, was still there.
 [u1298 | 01:40:59.220-01:41:00.840 | DM] Because that's where.
 [u1299 | 01:41:01.950-01:41:06.540 | DM] That was the River Hara, it may not have still been there may have flowed.
-[u1300 | 01:41:07.800-01:41:14.070 | DM] it's its course may have changed, but the the {{cartel}} river that {{Carson}} is on.
+[u1300 | 01:41:07.800-01:41:14.070 | DM] it's its course may have changed, but the the Kharja river that Kharsan is on.
 [u1301 | 01:41:15.510-01:41:16.440 | DM] Was.
 [u1302 | 01:41:21.780-01:41:27.120 | DM] Ah no actually because Tokra predate the great war as well right so both of these rivers were still there.
 [u1303 | 01:41:30.600-01:41:33.630 | Delwath] But this is just three miles of aqueduct I mean it it's broken.
@@ -1486,7 +1486,7 @@
 [u1486 | 01:54:29.220-01:54:33.360 | DM] Exactly and and Garret also kind of looking at them like.
 [u1487 | 01:54:34.740-01:54:41.820 | DM] I know what is happening and then like starts— goes over he's like they're obsessed with magic.
 [u1488 | 01:54:43.470-01:54:45.750 | Delwath] yeah we're totally becoming the people we hate.
-[u1489 | 01:54:49.200-01:54:53.550 | Delwath] What, now that i'm up here i'm going to use {{sight of America}} to detect if it's magical.
+[u1489 | 01:54:49.200-01:54:53.550 | Delwath] What, now that i'm up here i'm going to use sight of Elmerca to detect if it's magical.
 [u1490 | 01:54:54.240-01:54:55.860 | DM] There is a faint.
 [u1491 | 01:54:57.270-01:55:01.620 | DM] There is a very faint magic and almost it feels like it's.
 [u1492 | 01:55:02.640-01:55:03.960 | DM] faded, but just.
@@ -1597,7 +1597,7 @@
 [u1597 | 02:03:03.720-02:03:05.910 | Delwath] magic is ancient and fading so I.
 [u1598 | 02:03:07.500-02:03:11.820 | Delwath] cannot tell you how long it will last but hopefully years at least.
 [u1599 | 02:03:12.660-02:03:14.670 | DM] Only the gods can tell us that but.
-[u1600 | 02:03:15.690-02:03:19.980 | DM] As long as {{you've always}} smiles on us the water will keep coming.
+[u1600 | 02:03:15.690-02:03:19.980 | DM] As long as Jeevali smiles on us the water will keep coming.
 [u1601 | 02:03:22.350-02:03:27.720 | Seeker] I am also while we're up there in a in a break in a moment of you know resting I.
 [u1602 | 02:03:29.100-02:03:33.390 | Seeker] dig out the kettle and see if it will multiply the content, the quantity of other liquids.
 [u1603 | 02:03:35.910-02:03:44.040 | DM] So it doesn't seem to— no, it doesn't and actually you notice now that once Seeker, or once Wellby, poured his.
@@ -1911,7 +1911,7 @@
 [u1911 | 02:25:49.230-02:25:51.300 | DM] So these other yeah, these are the guys, you know.
 [u1912 | 02:25:53.370-02:25:54.060 | DM] and actually.
 [u1913 | 02:25:54.780-02:25:59.340 | Kenzo] and Johar, the one that potentially could be working in the archives now yeah.
-[u1914 | 02:26:13.920-02:26:24.270 | Kenzo] So Tokra is going to be interesting place this is, I mean there's probably like a lot of shit going down in Tokra in general right because, like all the people that are coming from {{eastern terroir}} that went there that you know, then.
+[u1914 | 02:26:13.920-02:26:24.270 | Kenzo] So Tokra is going to be interesting place this is, I mean there's probably like a lot of shit going down in Tokra in general right because, like all the people that are coming from eastern Dunmar that went there that you know, then.
 [u1915 | 02:26:25.530-02:26:33.660 | Kenzo] Whatever Karnas is like no what the Fuck are you guys doing trying to like to take up you know refuge here and the must been all kinds of unrest during the past like bunch of a bunch of.
 [u1916 | 02:26:33.690-02:26:35.940 | DM] Probably a whole bunch more side quests in Tokra.
 [u1917 | 02:26:38.340-02:26:39.450 | Kenzo] Like all kinds of like we.

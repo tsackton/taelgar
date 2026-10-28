@@ -1365,7 +1365,7 @@
 [u1365 | 01:54:46.320-01:54:49.270 | Riswynn] or for the birds places to go to get some good carryin
 [u1366 | 01:54:49.650-01:54:56.879 | Seeker] rogues. Man. 32. That's not a bad role.
 [u1367 | 01:54:58.760-01:55:05.169 | DM] Yeah. So so while we spend some morning after the snowstorm kind of community, you know, talking to the birds. And
-[u1368 | 01:55:05.500-01:55:08.400 | DM] 
+[u1368 | 01:55:05.500-01:55:08.400 | DM] ...
 [u1369 | 01:55:09.670-01:55:17.649 | DM] there's so you learn 3 things from the animals around, and and there's a decent I mean, there's a
 [u1370 | 01:55:18.030-01:55:21.050 | DM] this is this is not
 [u1371 | 01:55:22.100-01:55:34.200 | DM] no, this is like winter turning to spring, right like mid March, a lot of the animals that started to come out of hibernation. There's definitely birds around. It's not a barren wasteland right? And especially right after the snow.
@@ -1489,7 +1489,7 @@
 [u1489 | 02:06:32.970-02:06:36.069 | Seeker] Who are slaves? What what kind of war
 [u1490 | 02:06:38.290-02:06:40.660 | Seeker] I heard to tell. Probably iron.
 [u1491 | 02:06:42.330-02:06:44.080 | Seeker] I'll switch to audio
-[u1492 | 02:06:45.310-02:06:48.490 | DM] 
+[u1492 | 02:06:45.310-02:06:48.490 | DM] ...
 [u1493 | 02:06:49.700-02:06:57.889 | DM] The 2 giants are are like talking to each other in these loud, booming voices you can almost hear with your plain ears
 [u1494 | 02:06:57.900-02:07:01.340 | DM] the 2 giants, and they seem to be like
 [u1495 | 02:07:02.190-02:07:07.410 | DM] You do pick up the sort of muttering of of a couple of the dwarves like

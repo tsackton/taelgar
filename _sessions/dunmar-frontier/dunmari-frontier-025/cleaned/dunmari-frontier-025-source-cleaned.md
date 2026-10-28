@@ -2185,7 +2185,7 @@
 [u2185 | 02:57:57.630-02:57:59.460 | Wellby] Feed Baxter and see if there's anything out there.
 [u2186 | 02:57:59.970-02:58:01.230 | Seeker] see where the tokens to better.
 [u2187 | 02:58:01.440-02:58:02.310 | Wellby] versus yeah.
-[u2188 | 02:58:02.430-02:58:11.640 | Kenzo] I guess the last minute ride with that with that you know Pava and Avaras is just like warning them about just telling them about Grash you know talking to my battle thing like we saw {{roshan}}.
+[u2188 | 02:58:02.430-02:58:11.640 | Kenzo] I guess the last minute ride with that with that you know Pava and Avaras is just like warning them about just telling them about Grash you know talking to my battle thing like we saw Grash.
 [u2189 | 02:58:12.120-02:58:21.600 | Kenzo] Just to be aware of the the feud with the orcs and right, you know, and especially if they're still looking that if they're still looking for this treasure than that, whatever that treasure is.
 [u2190 | 02:58:22.860-02:58:32.880 | Kenzo] That the orcs are likely to still still be you know marauding around and right and did you have any do you have any reaction to that are they like oh shit that's scary or are they like Oh, this is not.
 [u2191 | 02:58:34.080-02:58:35.490 | DM] I mean they've seen orcs around.

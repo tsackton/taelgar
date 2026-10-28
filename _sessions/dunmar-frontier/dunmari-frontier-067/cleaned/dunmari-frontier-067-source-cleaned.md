@@ -63,8 +63,8 @@
 [u0063 | 00:04:22.750-00:04:30.380 | DM] She also remembers the resistance, the brave fey and other creatures who fought back, who formed secret alliances and underground networks.
 [u0064 | 00:04:30.480-00:04:34.569 | DM] who kept the spark of hope alive even in Amberglow's darkest days.
 [u0065 | 00:04:34.900-00:04:37.880 | DM] Typhina, the protector of the Heartwood Grove.
-[u0066 | 00:04:38.090-00:04:41.770 | DM] {{Therein}} the Lady of the Lake, who drained the River of Time
-[u0067 | 00:04:42.240-00:04:48.810 | DM] {{ballot, or}} the Changeling King, who sacrificed himself to hide the ruins of the Cloud Palace from those that would mean harm.
+[u0066 | 00:04:38.090-00:04:41.770 | DM] Lirien the Lady of the Lake, who drained the River of Time
+[u0067 | 00:04:42.240-00:04:48.810 | DM] Bellator the Changeling King, who sacrificed himself to hide the ruins of the Cloud Palace from those that would mean harm.
 [u0068 | 00:04:49.970-00:04:57.210 | DM] So she watches and waits, and she hopes for the day when she will be free, and when Amberglow will once again be a realm of beauty and wonder.
 [u0069 | 00:04:57.740-00:05:03.479 | DM] Until then she will continue to dream and hold on to the memory of what once was and what could be again.
 [u0070 | 00:05:04.880-00:05:13.559 | DM] And as our story fades from the Cloudspinner and turns now to the travelers, at Lastlight Falls you may yet have a small role to play in the story of Amberglow.
@@ -96,7 +96,7 @@
 [u0096 | 00:06:43.360-00:06:48.289 | Caulaus] So Kenzo would recognize there's some writing in Drankorian underneath the three.
 [u0097 | 00:06:49.440-00:06:50.390 | Kenzo] What's it say?
 [u0098 | 00:06:51.330-00:06:53.970 | Caulaus] It says,
-[u0099 | 00:06:54.650-00:06:56.189 | Caulaus] {{Silvas}} Legion.
+[u0099 | 00:06:54.650-00:06:56.189 | Caulaus] Sylvan Legion.
 [u0100 | 00:06:57.760-00:07:01.609 | Caulaus] and there's a rank insignia on the tabard, too.
 [u0101 | 00:07:01.960-00:07:04.880 | Caulaus] like you say, like some symbol right?
 [u0102 | 00:07:09.730-00:07:10.960 | Caulaus] So Caulaus.
@@ -231,7 +231,7 @@
 [u0231 | 00:15:27.960-00:15:29.649 | Wellby] Well,
 [u0232 | 00:15:29.770-00:15:31.619 | Wellby] It depends on the war.
 [u0233 | 00:15:32.670-00:15:34.170 | Caulaus] I I am
-[u0234 | 00:15:34.210-00:15:37.609 | Caulaus] Caulaus {{Apportino}}, captain of the third {{Syllabus}} Legion.
+[u0234 | 00:15:34.210-00:15:37.609 | Caulaus] Caulaus Aportino, captain of the third Sylvan Legion.
 [u0235 | 00:15:38.460-00:15:40.820 | Caulaus] I'm seeking news of Emperor Vestian.
 [u0236 | 00:15:42.330-00:15:47.059 | Kenzo] Caulaus, or whoever you are, just to just pause for 1 s.
 [u0237 | 00:15:49.090-00:15:50.030 | Kenzo] Wellby.
@@ -384,7 +384,7 @@
 [u0384 | 00:24:15.620-00:24:16.690 | Caulaus] collapsed.
 [u0385 | 00:24:17.030-00:24:18.779 | Caulaus] and it flew into the sky.
 [u0386 | 00:24:19.120-00:24:22.749 | Caulaus] I do not remember more, but I assume it was not killed.
-[u0387 | 00:24:23.160-00:24:27.879 | Seeker] Tim. This thing, apart from what we've seen with {{garage}}, this thing of like raising
+[u0387 | 00:24:23.160-00:24:27.879 | Seeker] Tim. This thing, apart from what we've seen with Grash, this thing of like raising
 [u0388 | 00:24:28.220-00:24:29.609 | Seeker] the dead in battle.
 [u0389 | 00:24:29.830-00:24:30.900 | Seeker] {{His last name.}}
 [u0390 | 00:24:31.560-00:24:32.360 | Seeker] {{You like it.}}
@@ -781,12 +781,12 @@
 [u0781 | 00:48:24.410-00:48:25.470 | DM] song.
 [u0782 | 00:48:26.920-00:48:28.670 | DM] Seeker, you hear this
 [u0783 | 00:48:28.820-00:48:35.469 | Kenzo] amazing melody calling for you to come to them
-[u0784 | 00:48:35.510-00:48:38.329 | DM] and give them {{Daso, please}}.
+[u0784 | 00:48:35.510-00:48:38.329 | DM] and give them Dasoclese.
 [u0785 | 00:48:38.850-00:48:40.120 | DM] They will.
 [u0786 | 00:48:40.870-00:48:41.520 | Unknown] Yeah.
 [u0787 | 00:48:42.040-00:48:44.609 | DM] they will come, and they will.
 [u0788 | 00:48:45.820-00:48:52.019 | DM] They will answer your question. They will satisfy your every curiosity about the wonders of the Feywild.
-[u0789 | 00:48:52.360-00:48:55.959 | DM] If you just come and hand over {{Dasa cleans}} to them.
+[u0789 | 00:48:52.360-00:48:55.959 | DM] If you just come and hand over Dasoclese to them.
 [u0790 | 00:48:56.160-00:49:00.130 | DM] and you need to make a wisdom saving throw.
 [u0791 | 00:49:00.340-00:49:01.930 | Seeker] What is that?
 [u0792 | 00:49:02.580-00:49:03.649 | Kenzo] The Typhina?
@@ -849,11 +849,11 @@
 [u0849 | 00:52:32.550-00:52:35.600 | Seeker] that must be a very confusing sensation to be charmed, and then
 [u0850 | 00:52:35.710-00:52:38.689 | DM] we have a
 [u0851 | 00:52:38.810-00:52:43.550 | DM] which are still like plunging down out of the sky, heading for Seeker
-[u0852 | 00:52:43.680-00:52:50.289 | DM] and You can hear all of them say, give us. {{So please}}
-[u0853 | 00:52:50.890-00:52:57.229 | Caulaus] give us {{that. So, please}}. This echo is basically that's the quizzer's got to be Typhina's
+[u0852 | 00:52:43.680-00:52:50.289 | DM] and You can hear all of them say, give us. Dasoclese
+[u0853 | 00:52:50.890-00:52:57.229 | Caulaus] give us Dasoclese. This echo is basically that's the quizzer's got to be Typhina's
 [u0854 | 00:52:57.460-00:53:00.450 | Caulaus] true name, or something like that, or fey name, or
 [u0855 | 00:53:01.120-00:53:03.280 | Seeker] maybe it's Caulaus. Who knows
-[u0856 | 00:53:04.540-00:53:09.579 | Caulaus] the we? We have no {{dest to please}}, no argument here.
+[u0856 | 00:53:04.540-00:53:09.579 | Caulaus] the we? We have no Dasoclese, no argument here.
 [u0857 | 00:53:10.040-00:53:14.469 | Caulaus] the echo is going to come. Stand like next to
 [u0858 | 00:53:15.030-00:53:21.519 | Caulaus] Seeker. I mean he he's 30 feet away. He's not more than 30 feet away, presumably. Yeah, Seeker is 30 feet away.
 [u0859 | 00:53:22.300-00:53:26.939 | DM] up, Kenzo, do you want to do anything
@@ -941,7 +941,7 @@
 [u0941 | 00:58:49.720-00:58:51.189 | DM] on the edge of death.
 [u0942 | 00:58:53.000-00:58:57.410 | DM] The other 4 now dive down there, and they're screeching. Now you hear
 [u0943 | 00:58:59.830-00:59:02.389 | DM] this still this name again.
-[u0944 | 00:59:03.790-00:59:07.019 | DM] give us. Give us {{that. So please}}
+[u0944 | 00:59:03.790-00:59:07.019 | DM] give us. Give us Dasoclese
 [u0945 | 00:59:08.430-00:59:13.399 | DM] and 2 more of them. Well, 2 of them dive towards the echo.
 [u0946 | 00:59:13.630-00:59:15.770 | DM] slashing out it with their claws.
 [u0947 | 00:59:16.190-00:59:17.900 | Caulaus] Wait, it didn't even take damage.
@@ -974,7 +974,7 @@
 [u0974 | 01:01:06.690-01:01:09.160 | DM] We will take our revenge together.
 [u0975 | 01:01:09.950-01:01:11.689 | Unknown] {{Vandasa, please.}}
 [u0976 | 01:01:13.160-01:01:16.789 | Seeker] yes, revenge on whoever that may be.
-[u0977 | 01:01:17.000-01:01:21.749 | Wellby] {{so please!}} Yes, Who is that? Can I shoot her?
+[u0977 | 01:01:17.000-01:01:21.749 | Wellby] Dasoclese! Yes, Who is that? Can I shoot her?
 [u0978 | 01:01:22.210-01:01:23.579 | DM] Yeah, you can see her.
 [u0979 | 01:01:23.840-01:01:24.419 | Caulaus] I
 [u0980 | 01:01:25.680-01:01:28.060 | Caulaus] Yeah, I was gonna ask if I can act to.
@@ -986,7 +986,7 @@
 [u0986 | 01:02:04.810-01:02:11.800 | DM] Okay, she looks over at you, and you see this like hideous visage, like, scowls.
 [u0987 | 01:02:11.840-01:02:17.480 | DM] Scowling at you. And then this arrow strikes her and Seeker. You see
 [u0988 | 01:02:17.830-01:02:21.240 | DM] one of your friends turning on you.
-[u0989 | 01:02:21.980-01:02:37.390 | DM] wounding this like amazing fey woman who is about to tell you all the secrets of the Feywild, and also help you deal with whoever this {{Daso Clees}} person is, who clearly is somebody who you must take revenge on.
+[u0989 | 01:02:21.980-01:02:37.390 | DM] wounding this like amazing fey woman who is about to tell you all the secrets of the Feywild, and also help you deal with whoever this Dasoclese person is, who clearly is somebody who you must take revenge on.
 [u0990 | 01:02:37.820-01:02:47.080 | DM] And there's this bloody wound that starts opening in her chest, and she looks up. She like coughs a little bit, and she sort of gasps. She looks like she's on the edge of death.
 [u0991 | 01:02:47.270-01:02:53.220 | DM] and she begins coughing a little bit. Blood trickles out of her mouth, and she looks at you in
 [u0992 | 01:02:53.290-01:02:54.089 | DM] sort of
@@ -1199,7 +1199,7 @@
 [u1199 | 01:16:38.360-01:16:40.840 | Wellby] I'll spare your life. So we spared those 2?
 [u1200 | 01:16:42.500-01:16:46.090 | DM] It hisses and it says.
 [u1201 | 01:16:46.620-01:16:48.290 | DM] {{in waging for Demo.}}
-[u1202 | 01:16:48.960-01:16:50.630 | DM] {{That's a clear}}
+[u1202 | 01:16:48.960-01:16:50.630 | DM] Dasoclese
 [u1203 | 01:16:51.770-01:16:53.800 | DM] many, many years.
 [u1204 | 01:16:55.230-01:16:57.089 | Wellby] So it sounds like you're not in a hurry.
 [u1205 | 01:17:00.040-01:17:01.130 | Seeker] That's right.
@@ -1243,7 +1243,7 @@
 [u1243 | 01:19:25.450-01:19:26.899 | DM] What would you ask?
 [u1244 | 01:19:29.440-01:19:38.440 | Wellby] so i'll i'll sort of open up the telepathic channels here because I don't feel like that's just a Wellby thing at this moment, like, All right. What what should we ask her? We get 3 questions.
 [u1245 | 01:19:43.560-01:19:44.519 | Seeker] maybe like
-[u1246 | 01:19:44.800-01:19:46.660 | Seeker] we want to know who {{basically}} it is.
+[u1246 | 01:19:44.800-01:19:46.660 | Seeker] we want to know who Dasoclese it is.
 [u1247 | 01:19:48.090-01:19:50.630 | Seeker] but also why they're interested in
 [u1248 | 01:19:51.180-01:19:51.920 | Seeker] them.
 [u1249 | 01:19:52.620-01:19:55.530 | Wellby] maybe like what their task is, or who they serve
@@ -1257,9 +1257,9 @@
 [u1257 | 01:20:23.340-01:20:24.360 | Caulaus] Ask
 [u1258 | 01:20:27.490-01:20:28.550 | Caulaus] who
 [u1259 | 01:20:33.090-01:20:34.940 | Caulaus] who is, yeah.
-[u1260 | 01:20:35.000-01:20:36.930 | Caulaus] who is? {{Tesla}} has a lot of
+[u1260 | 01:20:35.000-01:20:36.930 | Caulaus] who is? Dasoclese has a lot of
 [u1261 | 01:20:37.900-01:20:39.410 | Caulaus] check. The answers like
-[u1262 | 01:20:39.560-01:20:40.730 | Caulaus] {{dasicles.}}
+[u1262 | 01:20:39.560-01:20:40.730 | Caulaus] Dasoclese.
 [u1263 | 01:20:42.150-01:20:42.940 | Seeker] Right?
 [u1264 | 01:20:43.710-01:20:45.850 | Seeker] Yeah. But also
 [u1265 | 01:20:45.980-01:21:00.320 | Wellby] there's also a backstop of like I promised. I wouldn't kill them. But not that. Oh, yeah, but but Caulaus is fully planning on double dipping. If I mean I I feel like if there's if there's a show of bad faith. We can do this in Sylvan Fair enough. Fair enough.
@@ -1269,13 +1269,13 @@
 [u1269 | 01:21:06.530-01:21:08.040 | Caulaus] Who is the
 [u1270 | 01:21:08.180-01:21:08.910 | Seeker] yeah?
 [u1271 | 01:21:09.490-01:21:10.210 | Seeker] Keep it in?
-[u1272 | 01:21:12.810-01:21:14.180 | Wellby] Who is {{desecrates}}?
+[u1272 | 01:21:12.810-01:21:14.180 | Wellby] Who is Dasoclese?
 [u1273 | 01:21:17.500-01:21:19.290 | DM] An ancient fey
 [u1274 | 01:21:20.410-01:21:22.289 | DM] once of these parts.
 [u1275 | 01:21:24.960-01:21:28.179 | DM] claimed to be a guardian of this realm.
 [u1276 | 01:21:29.050-01:21:30.570 | DM] who wronged us.
-[u1277 | 01:21:36.930-01:21:39.550 | Seeker] So we still don't know if Typhina is {{specifically}} or not.
-[u1278 | 01:21:39.870-01:21:45.329 | Caulaus] i'm pretty sure Typhina is {{basically}} here. You should ask.
+[u1277 | 01:21:36.930-01:21:39.550 | Seeker] So we still don't know if Typhina is Dasoclese or not.
+[u1278 | 01:21:39.870-01:21:45.329 | Caulaus] i'm pretty sure Typhina is Dasoclese here. You should ask.
 [u1279 | 01:21:50.350-01:21:51.330 | Wellby] Wait Second.
 [u1280 | 01:21:51.980-01:21:53.850 | Seeker] i'm gonna ask you, you know.
 [u1281 | 01:21:54.770-01:21:59.580 | DM] Oh, can I do that while this is happening, do we have the appropriate yeah. all have telepathy
@@ -1301,7 +1301,7 @@
 [u1301 | 01:23:22.910-01:23:24.499 | Wellby] Who set you to this task?
 [u1302 | 01:23:27.870-01:23:31.480 | DM] No one set us to this task. We seek revenge.
 [u1303 | 01:23:34.210-01:23:37.369 | DM] seek revenge for the wrongs done to our people.
-[u1304 | 01:23:42.520-01:23:46.209 | Caulaus] Ask telepathically, what wrongs did {{the basketballs}} do?
+[u1304 | 01:23:42.520-01:23:46.209 | Caulaus] Ask telepathically, what wrongs did Dasoclese do?
 [u1305 | 01:23:49.160-01:23:50.580 | Wellby] Hmm.
 [u1306 | 01:23:54.240-01:23:58.229 | Wellby] I think Wellby is going to ask instead, what will free you from this cursed harpy form
 [u1307 | 01:24:02.770-01:24:04.379 | DM] What will free us.
@@ -1746,7 +1746,7 @@
 [u1746 | 01:53:24.370-01:53:25.550 | DM] for her.
 [u1747 | 01:53:29.610-01:53:30.650 | Seeker] That's it, I?
 [u1748 | 01:53:31.090-01:53:32.399 | DM] How are you?
-[u1749 | 01:53:35.950-01:53:38.150 | DM] Call out you're friends of {{Dasso Queens}}?
+[u1749 | 01:53:35.950-01:53:38.150 | DM] Call out you're friends of Dasoclese?
 [u1750 | 01:53:44.050-01:53:46.430 | Seeker] Well, i'm i'm a little hesitant, having
 [u1751 | 01:53:46.680-01:53:49.530 | Unknown] been susceptible surprisingly to
 [u1752 | 01:53:50.920-01:53:54.249 | Unknown] confusing charms. Maybe somebody else might call out this time.
@@ -1778,15 +1778,15 @@
 [u1778 | 01:55:33.540-01:55:39.420 | DM] when she comes, and she sits on the steps, and she looks up at you, and she, she says.
 [u1779 | 01:55:40.680-01:55:42.070 | DM] who calls?
 [u1780 | 01:55:44.960-01:55:47.059 | Caulaus] I am, who bothers me?
-[u1781 | 01:55:47.720-01:55:49.849 | Caulaus] Caulaus {{Apportino}}.
+[u1781 | 01:55:47.720-01:55:49.849 | Caulaus] Caulaus Aportino.
 [u1782 | 01:55:50.500-01:55:51.929 | Caulaus] We are here
 [u1783 | 01:55:52.040-01:55:54.929 | Caulaus] seeking your wisdom and advice.
 [u1784 | 01:55:56.110-01:56:01.920 | Caulaus] I I keep want to say Damocles, but it's not Damocles. What is it that's it.
-[u1785 | 01:56:02.040-01:56:03.559 | Caulaus] {{Dasicles.}}
+[u1785 | 01:56:02.040-01:56:03.559 | Caulaus] Dasoclese.
 [u1786 | 01:56:04.010-01:56:04.840 | Caulaus] That
 [u1787 | 01:56:06.130-01:56:07.059 | Caulaus] we are.
 [u1788 | 01:56:07.630-01:56:08.570 | Caulaus] We are
-[u1789 | 01:56:08.870-01:56:11.950 | Caulaus] friends of {{Dazakles}}, and
+[u1789 | 01:56:08.870-01:56:11.950 | Caulaus] friends of Dasoclese, and
 [u1790 | 01:56:12.110-01:56:13.940 | Caulaus] we were told you
 [u1791 | 01:56:14.170-01:56:15.829 | Caulaus] may be able to help
 [u1792 | 01:56:16.740-01:56:18.219 | Caulaus] us find
@@ -2115,7 +2115,7 @@
 [u2115 | 02:16:49.730-02:16:52.760 | Kenzo] And Agata's previous name
 [u2116 | 02:16:52.790-02:16:54.789 | Kenzo] was I
 [u2117 | 02:16:56.330-02:16:57.449 | Kenzo] something
-[u2118 | 02:16:58.330-02:17:01.359 | Seeker] definitely? {{That's a please}}. Oh, yeah.
+[u2118 | 02:16:58.330-02:17:01.359 | Seeker] definitely? Dasoclese. Oh, yeah.
 [u2119 | 02:17:04.150-02:17:05.540 | Seeker] Oh, my gosh.
 [u2120 | 02:17:09.170-02:17:10.530 | Wellby] Oh, shit! She
 [u2121 | 02:17:12.780-02:17:13.539 | Seeker] look
@@ -2643,7 +2643,7 @@
 [u2643 | 03:00:54.270-03:00:55.240 | Kenzo] onions.
 [u2644 | 03:00:58.720-03:01:00.240 | Kenzo] What is your relationship with
 [u2645 | 03:01:00.350-03:01:01.160 | Kenzo] to.
-[u2646 | 03:01:01.650-03:01:03.630 | Kenzo] or what's that? {{That's a piece.}}
+[u2646 | 03:01:01.650-03:01:03.630 | Kenzo] or what's that? Dasoclese.
 [u2647 | 03:01:04.230-03:01:06.550 | DM] do you?
 [u2648 | 03:01:06.590-03:01:08.520 | Unknown] Or do you?
 [u2649 | 03:01:11.570-03:01:19.389 | DM] The voice comes very slowly, as if this creature is struggling to speak or struggling to wake.
@@ -2683,7 +2683,7 @@
 [u2683 | 03:04:08.560-03:04:09.480 | DM] and with
 [u2684 | 03:04:10.320-03:04:11.760 | DM] Typhina.
 [u2685 | 03:04:13.850-03:04:14.810 | DM] with
-[u2686 | 03:04:20.150-03:04:23.180 | Kenzo] with {{Bella to our}} dead
+[u2686 | 03:04:20.150-03:04:23.180 | Kenzo] with Bellator dead
 [u2687 | 03:04:28.360-03:04:29.159 | Unknown] my door.
 [u2688 | 03:04:29.260-03:04:30.650 | DM] The lady of
 [u2689 | 03:04:32.770-03:04:35.290 | DM] the Lady Eventide
@@ -2699,10 +2699,10 @@
 [u2699 | 03:05:34.810-03:05:36.910 | Kenzo] was, was was the tree, saying anything else.
 [u2700 | 03:05:36.950-03:05:38.389 | DM] Now the tree is done
 [u2701 | 03:05:38.750-03:05:40.010 | Kenzo] on
-[u2702 | 03:05:40.290-03:05:44.360 | Kenzo] So {{Belatore}}, {{Dasakles}}, Typhina.
+[u2702 | 03:05:40.290-03:05:44.360 | Kenzo] So Bellator, Dasoclese, Typhina.
 [u2703 | 03:05:44.470-03:05:45.480 | Kenzo] Agata.
-[u2704 | 03:05:45.560-03:05:52.089 | DM] these are like all her multiple. These are all her different like himc names. No {{Baltar}} is from the from the intro that you.
-[u2705 | 03:05:52.300-03:05:53.809 | DM] {{Belter}} was a
+[u2704 | 03:05:45.560-03:05:52.089 | DM] these are like all her multiple. These are all her different like himc names. No Bellator is from the from the intro that you.
+[u2705 | 03:05:52.300-03:05:53.809 | DM] Bellator was a
 [u2706 | 03:05:53.840-03:05:56.709 | DM] another fey, who sacrificed himself to
 [u2707 | 03:05:56.740-03:06:01.330 | DM] protect the ruins of the Cloud Palace, and Lady Eventide's still alive.
 [u2708 | 03:06:01.940-03:06:05.479 | DM] Lady—yeah, Lady Eventide's, sort of in the sky
@@ -2720,7 +2720,7 @@
 [u2720 | 03:06:58.110-03:07:00.449 | DM] the Heartwood Tree
 [u2721 | 03:07:02.710-03:07:03.979 | Kenzo] Heartwood Tree. Yeah.
 [u2722 | 03:07:05.290-03:07:07.489 | Kenzo] I am called the Eternal
-[u2723 | 03:07:10.870-03:07:12.860 | Kenzo] {{Dasakles}}. Agata.
+[u2723 | 03:07:10.870-03:07:12.860 | Kenzo] Dasoclese. Agata.
 [u2724 | 03:07:13.180-03:07:14.420 | Kenzo] They're not dead yet.
 [u2725 | 03:07:15.290-03:07:16.720 | Kenzo] She's unconscious.
 [u2726 | 03:07:17.660-03:07:19.139 | Kenzo] What do you think we should do with them?
@@ -2808,7 +2808,7 @@
 [u2808 | 03:12:45.960-03:12:50.970 | Caulaus] I was the only child, much to my parents disappointment.
 [u2809 | 03:12:51.400-03:12:56.390 | Caulaus] and I don't remember much of my childhood schooling, military training.
 [u2810 | 03:12:56.850-03:12:59.020 | Caulaus] My first clear memory
-[u2811 | 03:12:59.500-03:13:02.769 | Caulaus] being appointed commander of the third {{Syllabus}} legion.
+[u2811 | 03:12:59.500-03:13:02.769 | Caulaus] being appointed commander of the third Sylvan legion.
 [u2812 | 03:13:06.230-03:13:07.060 | Caulaus] I
 [u2813 | 03:13:07.940-03:13:11.879 | Caulaus] swore allegiance personally to the Emperor. I remember the
 [u2814 | 03:13:12.380-03:13:15.259 | Caulaus] the place and the ceremony like it was yesterday
@@ -2879,7 +2879,7 @@
 [u2879 | 03:17:00.070-03:17:02.789 | Caulaus] I remember hosting a feast, a celebration.
 [u2880 | 03:17:03.220-03:17:07.490 | Caulaus] There was tables heaped with delicacies, meat pies, a roast pig.
 [u2881 | 03:17:07.580-03:17:13.440 | Caulaus] bread, cheese, even some rare elven delicacies, a cake made with a rare fruit.
-[u2882 | 03:17:13.510-03:17:16.129 | Caulaus] some tree, the {{sisla}} tree. I think
+[u2882 | 03:17:13.510-03:17:16.129 | Caulaus] some tree, the sisila tree. I think
 [u2883 | 03:17:16.420-03:17:20.360 | Caulaus] I don't remember what that means, but it was a big deal. The elves were sharing it.
 [u2884 | 03:17:20.820-03:17:23.729 | Caulaus] Wine flowed freely. The soldiers were happy.
 [u2885 | 03:17:23.850-03:17:29.649 | Caulaus] I remember the songs, they sang, long live the new Emperor Vestian, Long may he rule.
@@ -2889,7 +2889,7 @@
 [u2889 | 03:17:46.440-03:17:48.970 | Caulaus] I remember marching at the head of my legion
 [u2890 | 03:17:49.470-03:17:55.179 | Caulaus] arrayed for war, leaving my camp after several victories against the allies of the Omnis.
 [u2891 | 03:17:55.290-03:18:00.459 | Caulaus] we're marching towards a town. The name sticks in my mind. I do not know. Why
-[u2892 | 03:18:00.710-03:18:01.949 | Caulaus] {{are some}}
+[u2892 | 03:18:00.710-03:18:01.949 | Caulaus] Erusum
 [u2893 | 03:18:02.460-03:18:03.710 | Caulaus] I was hoping
 [u2894 | 03:18:03.890-03:18:07.670 | Caulaus] not to fight for. We were going to destroy the teleportation circle there.
 [u2895 | 03:18:08.090-03:18:11.360 | Caulaus] There were circles we used to travel
@@ -2962,7 +2962,7 @@
 [u2962 | 03:22:11.370-03:22:12.729 | Kenzo] I remember that name.
 [u2963 | 03:22:15.390-03:22:18.929 | Kenzo] That's what—Kenzo glances at Seeker and Wellby
 [u2964 | 03:22:20.760-03:22:23.109 | Kenzo] When I was in the dream world
-[u2965 | 03:22:23.380-03:22:26.879 | Kenzo] with {{Kendrsa}}, however many—it feels like ages ago.
+[u2965 | 03:22:23.380-03:22:26.879 | Kenzo] with Candrosa, however many—it feels like ages ago.
 [u2966 | 03:22:27.890-03:22:30.420 | Kenzo] I remember seeing Rai
 [u2967 | 03:22:30.880-03:22:32.350 | Kenzo] battling something.
 [u2968 | 03:22:32.570-03:22:33.960 | Kenzo] probably Apollyon the other.
@@ -3134,7 +3134,7 @@
 [u3134 | 03:33:25.660-03:33:26.569 | DM] I mean.
 [u3135 | 03:33:27.010-03:33:29.920 | DM] everybody was very unclear. Exactly who
 [u3136 | 03:33:30.260-03:33:31.819 | DM] nobody ever said
-[u3137 | 03:33:32.180-03:33:34.439 | DM] {{Dasakles}} is Typhina.
+[u3137 | 03:33:32.180-03:33:34.439 | DM] Dasoclese is Typhina.
 [u3138 | 03:33:38.390-03:33:39.500 | DM] So
 [u3139 | 03:33:40.320-03:33:41.470 | Kenzo] it's really good. Tim.
 [u3140 | 03:33:41.670-03:33:42.770 | Caulaus] Yeah,

@@ -1,0 +1,2871 @@
+{
+  "attributions": [],
+  "chunk": {
+    "endUid": "u0514",
+    "id": "chunk-003",
+    "startUid": "u0341"
+  },
+  "context": [
+    {
+      "header": "[u0339 | 00:31:48.120-00:31:49.020 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Perhaps that it's.",
+      "timing": "00:31:48.120-00:31:49.020",
+      "uid": "u0339"
+    },
+    {
+      "header": "[u0340 | 00:31:50.850-00:31:54.450 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Only the stories of those dark times have come down to us now.",
+      "timing": "00:31:50.850-00:31:54.450",
+      "uid": "u0340"
+    },
+    {
+      "header": "[u0341 | 00:31:55.650-00:31:56.160 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "and",
+      "timing": "00:31:55.650-00:31:56.160",
+      "uid": "u0341"
+    },
+    {
+      "header": "[u0342 | 00:31:57.960-00:32:02.820 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The remnants of that evil that sometimes creep up the mountains from the forest of nightmares.",
+      "timing": "00:31:57.960-00:32:02.820",
+      "uid": "u0342"
+    },
+    {
+      "header": "[u0343 | 00:32:03.870-00:32:04.170 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "But.",
+      "timing": "00:32:03.870-00:32:04.170",
+      "uid": "u0343"
+    },
+    {
+      "header": "[u0344 | 00:32:06.060-00:32:06.750 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Even if.",
+      "timing": "00:32:06.060-00:32:06.750",
+      "uid": "u0344"
+    },
+    {
+      "header": "[u0345 | 00:32:08.010-00:32:09.690 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Even if your.",
+      "timing": "00:32:08.010-00:32:09.690",
+      "uid": "u0345"
+    },
+    {
+      "header": "[u0346 | 00:32:10.920-00:32:26.430 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Hope is proven false and some of some of the lost are truly lost, it must be that many of them are not. Where did these circlets come to you from? They're many miles from where they were found.",
+      "timing": "00:32:10.920-00:32:26.430",
+      "uid": "u0346"
+    },
+    {
+      "header": "[u0347 | 00:32:28.200-00:32:30.870 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Have you any clues as to where others may be.",
+      "timing": "00:32:28.200-00:32:30.870",
+      "uid": "u0347"
+    },
+    {
+      "header": "[u0348 | 00:32:33.180-00:32:36.210 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "There is a stoneborn.",
+      "timing": "00:32:33.180-00:32:36.210",
+      "uid": "u0348"
+    },
+    {
+      "header": "[u0349 | 00:32:38.520-00:32:42.300 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "In hunting camp near here, who has.",
+      "timing": "00:32:38.520-00:32:42.300",
+      "uid": "u0349"
+    },
+    {
+      "header": "[u0350 | 00:32:43.980-00:32:48.210 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Traveled the Forest of Nightmares herself.",
+      "timing": "00:32:43.980-00:32:48.210",
+      "uid": "u0350"
+    },
+    {
+      "header": "[u0351 | 00:32:49.350-00:32:51.990 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And seen some of these ancient battlefields.",
+      "timing": "00:32:49.350-00:32:51.990",
+      "uid": "u0351"
+    },
+    {
+      "header": "[u0352 | 00:32:54.510-00:32:56.880 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "and brought us stories of.",
+      "timing": "00:32:54.510-00:32:56.880",
+      "uid": "u0352"
+    },
+    {
+      "header": "[u0353 | 00:32:59.070-00:32:59.880 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The dead.",
+      "timing": "00:32:59.070-00:32:59.880",
+      "uid": "u0353"
+    },
+    {
+      "header": "[u0354 | 00:33:01.980-00:33:09.810 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "A giant demon corpse lying in a forest clearing with a dark armband on its wrist.",
+      "timing": "00:33:01.980-00:33:09.810",
+      "uid": "u0354"
+    },
+    {
+      "header": "[u0355 | 00:33:15.150-00:33:18.930 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I believe they may be found at the battle sites where the tanshi fell.",
+      "timing": "00:33:15.150-00:33:18.930",
+      "uid": "u0355"
+    },
+    {
+      "header": "[u0356 | 00:33:23.220-00:33:32.010 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "If they are to be found anywhere, this circlet that you say trapped you in a prison was brought from a battlefield far to the south.",
+      "timing": "00:33:23.220-00:33:32.010",
+      "uid": "u0356"
+    },
+    {
+      "header": "[u0357 | 00:33:35.940-00:33:38.100 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "This this one that.",
+      "timing": "00:33:35.940-00:33:38.100",
+      "uid": "u0357"
+    },
+    {
+      "header": "[u0358 | 00:33:41.160-00:33:41.910 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "This one that.",
+      "timing": "00:33:41.160-00:33:41.910",
+      "uid": "u0358"
+    },
+    {
+      "header": "[u0359 | 00:33:43.440-00:33:44.160 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "trapped.",
+      "timing": "00:33:43.440-00:33:44.160",
+      "uid": "u0359"
+    },
+    {
+      "header": "[u0360 | 00:33:45.630-00:33:52.200 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "{{Oh ma}}, the warrior who you say may be wandering lost somewhere far across the world.",
+      "timing": "00:33:45.630-00:33:52.200",
+      "uid": "u0360"
+    },
+    {
+      "header": "[u0361 | 00:33:53.910-00:33:59.610 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Which by the way, now I have to convince somebody to play {{oh my}} for the Wellby one-shot.",
+      "timing": "00:33:53.910-00:33:59.610",
+      "uid": "u0361"
+    },
+    {
+      "header": "[u0362 | 00:34:00.600-00:34:01.770 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "That'd actually be kind of fun.",
+      "timing": "00:34:00.600-00:34:01.770",
+      "uid": "u0362"
+    },
+    {
+      "header": "[u0363 | 00:34:04.290-00:34:06.900 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I don't know if I'm gonna necessarily if I'm if I'm.",
+      "timing": "00:34:04.290-00:34:06.900",
+      "uid": "u0363"
+    },
+    {
+      "header": "[u0364 | 00:34:07.620-00:34:09.390 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "A one shot to make but.",
+      "timing": "00:34:07.620-00:34:09.390",
+      "uid": "u0364"
+    },
+    {
+      "header": "[u0365 | 00:34:09.510-00:34:09.810 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "yeah.",
+      "timing": "00:34:09.510-00:34:09.810",
+      "uid": "u0365"
+    },
+    {
+      "header": "[u0366 | 00:34:10.860-00:34:14.730 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I, the only one, I really want to do I'm really into this idea of playing that.",
+      "timing": "00:34:10.860-00:34:14.730",
+      "uid": "u0366"
+    },
+    {
+      "header": "[u0367 | 00:34:15.510-00:34:17.160 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "The foreign car I think they.",
+      "timing": "00:34:15.510-00:34:17.160",
+      "uid": "u0367"
+    },
+    {
+      "header": "[u0368 | 00:34:17.940-00:34:18.270 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "Might.",
+      "timing": "00:34:17.940-00:34:18.270",
+      "uid": "u0368"
+    },
+    {
+      "header": "[u0369 | 00:34:19.320-00:34:22.290 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I think, because aaron's gonna need some time to.",
+      "timing": "00:34:19.320-00:34:22.290",
+      "uid": "u0369"
+    },
+    {
+      "header": "[u0370 | 00:34:22.290-00:34:22.980 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Like get.",
+      "timing": "00:34:22.290-00:34:22.980",
+      "uid": "u0370"
+    },
+    {
+      "header": "[u0371 | 00:34:23.760-00:34:28.290 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I suspect we'll do the Feywild one last, right, when everybody's.",
+      "timing": "00:34:23.760-00:34:28.290",
+      "uid": "u0371"
+    },
+    {
+      "header": "[u0372 | 00:34:28.320-00:34:29.880 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I mean it doesn't have to be.",
+      "timing": "00:34:28.320-00:34:29.880",
+      "uid": "u0372"
+    },
+    {
+      "header": "[u0373 | 00:34:30.660-00:34:33.330 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "But I also want to do a Mylar adventure in September.",
+      "timing": "00:34:30.660-00:34:33.330",
+      "uid": "u0373"
+    },
+    {
+      "header": "[u0374 | 00:34:33.360-00:34:35.100 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "yeah everybody that I hope you.",
+      "timing": "00:34:33.360-00:34:35.100",
+      "uid": "u0374"
+    },
+    {
+      "header": "[u0375 | 00:34:35.130-00:34:36.210 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Join for you to get here.",
+      "timing": "00:34:35.130-00:34:36.210",
+      "uid": "u0375"
+    },
+    {
+      "header": "[u0376 | 00:34:36.210-00:34:38.940 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "writing a one shot anyway um.",
+      "timing": "00:34:36.210-00:34:38.940",
+      "uid": "u0376"
+    },
+    {
+      "header": "[u0377 | 00:34:42.270-00:34:49.560 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "That one was taken was carried by a some sort of deathless creature that came from the.",
+      "timing": "00:34:42.270-00:34:49.560",
+      "uid": "u0377"
+    },
+    {
+      "header": "[u0378 | 00:34:51.450-00:34:52.800 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Forest of nightmares.",
+      "timing": "00:34:51.450-00:34:52.800",
+      "uid": "u0378"
+    },
+    {
+      "header": "[u0379 | 00:34:54.360-00:34:56.370 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "But little moves in that forest.",
+      "timing": "00:34:54.360-00:34:56.370",
+      "uid": "u0379"
+    },
+    {
+      "header": "[u0380 | 00:34:58.110-00:35:01.230 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "There are no animals, there are no.",
+      "timing": "00:34:58.110-00:35:01.230",
+      "uid": "u0380"
+    },
+    {
+      "header": "[u0381 | 00:35:03.840-00:35:04.440 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "People.",
+      "timing": "00:35:03.840-00:35:04.440",
+      "uid": "u0381"
+    },
+    {
+      "header": "[u0382 | 00:35:06.510-00:35:08.940 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Nothing living can survive there long.",
+      "timing": "00:35:06.510-00:35:08.940",
+      "uid": "u0382"
+    },
+    {
+      "header": "[u0383 | 00:35:10.590-00:35:13.080 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Did all of the lost fall in the forest?",
+      "timing": "00:35:10.590-00:35:13.080",
+      "uid": "u0383"
+    },
+    {
+      "header": "[u0384 | 00:35:13.770-00:35:15.870 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "All of the lost fell in the forest.",
+      "timing": "00:35:13.770-00:35:15.870",
+      "uid": "u0384"
+    },
+    {
+      "header": "[u0385 | 00:35:22.830-00:35:24.270 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So that is where I would look.",
+      "timing": "00:35:22.830-00:35:24.270",
+      "uid": "u0385"
+    },
+    {
+      "header": "[u0386 | 00:35:24.540-00:35:25.560 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "That is a clue then.",
+      "timing": "00:35:24.540-00:35:25.560",
+      "uid": "u0386"
+    },
+    {
+      "header": "[u0387 | 00:35:30.060-00:35:36.030 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And I believe this stoneborn and the man who destroyed these two.",
+      "timing": "00:35:30.060-00:35:36.030",
+      "uid": "u0387"
+    },
+    {
+      "header": "[u0388 | 00:35:37.770-00:35:40.290 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "would be willing to travel with you on this task.",
+      "timing": "00:35:37.770-00:35:40.290",
+      "uid": "u0388"
+    },
+    {
+      "header": "[u0389 | 00:35:44.100-00:35:44.520 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I would.",
+      "timing": "00:35:44.100-00:35:44.520",
+      "uid": "u0389"
+    },
+    {
+      "header": "[u0390 | 00:35:45.720-00:35:48.570 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Be glad of the company traveling to such a place.",
+      "timing": "00:35:45.720-00:35:48.570",
+      "uid": "u0390"
+    },
+    {
+      "header": "[u0391 | 00:35:53.760-00:35:57.690 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I would warn you to keep moving if you are up there.",
+      "timing": "00:35:53.760-00:35:57.690",
+      "uid": "u0391"
+    },
+    {
+      "header": "[u0392 | 00:35:58.890-00:36:04.230 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The longer you stay in one place, eventually the shadows will be attracted to living creatures.",
+      "timing": "00:35:58.890-00:36:04.230",
+      "uid": "u0392"
+    },
+    {
+      "header": "[u0393 | 00:36:08.790-00:36:09.750 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And if you stay.",
+      "timing": "00:36:08.790-00:36:09.750",
+      "uid": "u0393"
+    },
+    {
+      "header": "[u0394 | 00:36:13.680-00:36:15.120 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You stay for long.",
+      "timing": "00:36:13.680-00:36:15.120",
+      "uid": "u0394"
+    },
+    {
+      "header": "[u0395 | 00:36:17.280-00:36:18.210 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "In one camp.",
+      "timing": "00:36:17.280-00:36:18.210",
+      "uid": "u0395"
+    },
+    {
+      "header": "[u0396 | 00:36:20.160-00:36:21.000 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You awake.",
+      "timing": "00:36:20.160-00:36:21.000",
+      "uid": "u0396"
+    },
+    {
+      "header": "[u0397 | 00:36:22.860-00:36:25.170 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "To find yourself surrounded by shadows.",
+      "timing": "00:36:22.860-00:36:25.170",
+      "uid": "u0397"
+    },
+    {
+      "header": "[u0398 | 00:36:27.030-00:36:28.080 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "So no long rests.",
+      "timing": "00:36:27.030-00:36:28.080",
+      "uid": "u0398"
+    },
+    {
+      "header": "[u0399 | 00:36:30.690-00:36:32.340 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Only three encounters, so.",
+      "timing": "00:36:30.690-00:36:32.340",
+      "uid": "u0399"
+    },
+    {
+      "header": "[u0400 | 00:36:33.450-00:36:36.120 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "that's a good way to that's a good way to structure it yeah.",
+      "timing": "00:36:33.450-00:36:36.120",
+      "uid": "u0400"
+    },
+    {
+      "header": "[u0401 | 00:36:39.300-00:36:45.960 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "There might be some place, there might be some secret hidden place where you can get one long rest, right? You work hard, right.",
+      "timing": "00:36:39.300-00:36:45.960",
+      "uid": "u0401"
+    },
+    {
+      "header": "[u0402 | 00:36:48.780-00:36:54.630 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Now it doesn't last long enough, I was gonna say you know what would help with a long rest is probably a magic circle, but it only lasts an hour.",
+      "timing": "00:36:48.780-00:36:54.630",
+      "uid": "u0402"
+    },
+    {
+      "header": "[u0403 | 00:36:56.430-00:36:56.700 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Right.",
+      "timing": "00:36:56.430-00:36:56.700",
+      "uid": "u0403"
+    },
+    {
+      "header": "[u0404 | 00:36:56.760-00:37:00.930 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "And I guess it wouldn't help against shadows, {{like his name it'll be a feat}}, that'd be fun.",
+      "timing": "00:36:56.760-00:37:00.930",
+      "uid": "u0404"
+    },
+    {
+      "header": "[u0405 | 00:37:02.640-00:37:04.140 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "there's a giant.",
+      "timing": "00:37:02.640-00:37:04.140",
+      "uid": "u0405"
+    },
+    {
+      "header": "[u0406 | 00:37:04.440-00:37:05.700 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "demon yeah exactly.",
+      "timing": "00:37:04.440-00:37:05.700",
+      "uid": "u0406"
+    },
+    {
+      "header": "[u0407 | 00:37:06.090-00:37:07.200 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Like way yeah.",
+      "timing": "00:37:06.090-00:37:07.200",
+      "uid": "u0407"
+    },
+    {
+      "header": "[u0408 | 00:37:12.540-00:37:15.060 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Where are these other sorry go ahead.",
+      "timing": "00:37:12.540-00:37:15.060",
+      "uid": "u0408"
+    },
+    {
+      "header": "[u0409 | 00:37:15.990-00:37:17.880 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I was just gonna say if there's anything else you want to ask.",
+      "timing": "00:37:15.990-00:37:17.880",
+      "uid": "u0409"
+    },
+    {
+      "header": "[u0410 | 00:37:18.090-00:37:23.730 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Now I mean any details that like maybe not tonight, but.",
+      "timing": "00:37:18.090-00:37:23.730",
+      "uid": "u0410"
+    },
+    {
+      "header": "[u0411 | 00:37:25.620-00:37:28.110 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I do want to spend a little bit of time like.",
+      "timing": "00:37:25.620-00:37:28.110",
+      "uid": "u0411"
+    },
+    {
+      "header": "[u0412 | 00:37:29.220-00:37:32.010 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Getting details of the legends right not.",
+      "timing": "00:37:29.220-00:37:32.010",
+      "uid": "u0412"
+    },
+    {
+      "header": "[u0413 | 00:37:32.550-00:37:37.140 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Right, pretty well know that Yezali one, having seen it, but.",
+      "timing": "00:37:32.550-00:37:37.140",
+      "uid": "u0413"
+    },
+    {
+      "header": "[u0414 | 00:37:37.950-00:37:40.800 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Right any clues that would help find.",
+      "timing": "00:37:37.950-00:37:40.800",
+      "uid": "u0414"
+    },
+    {
+      "header": "[u0415 | 00:37:42.270-00:37:44.700 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "places right is the idea.",
+      "timing": "00:37:42.270-00:37:44.700",
+      "uid": "u0415"
+    },
+    {
+      "header": "[u0416 | 00:37:45.630-00:37:49.350 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Right, I haven't written all of this yet, but also the idea is that.",
+      "timing": "00:37:45.630-00:37:49.350",
+      "uid": "u0416"
+    },
+    {
+      "header": "[u0417 | 00:37:50.970-00:37:55.020 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Kate, the stoneborn, Kate's character, has been to all of these, but.",
+      "timing": "00:37:50.970-00:37:55.020",
+      "uid": "u0417"
+    },
+    {
+      "header": "[u0418 | 00:37:56.070-00:38:02.550 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "We don't need to spend I don't want to spend a ton of time, you know it whatever right like I wasn't really expecting you to say just.",
+      "timing": "00:37:56.070-00:38:02.550",
+      "uid": "u0418"
+    },
+    {
+      "header": "[u0419 | 00:38:03.030-00:38:06.570 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "it's just for particular flavor flavor I will give you.",
+      "timing": "00:38:03.030-00:38:06.570",
+      "uid": "u0419"
+    },
+    {
+      "header": "[u0420 | 00:38:07.020-00:38:13.140 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I'm gonna send a little like here are the battles, just because it might be useful to know a little bit about each battlefield.",
+      "timing": "00:38:07.020-00:38:13.140",
+      "uid": "u0420"
+    },
+    {
+      "header": "[u0421 | 00:38:17.370-00:38:26.250 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So she you know your conversation eventually peters off and before you leave for the camp, the next day.",
+      "timing": "00:38:17.370-00:38:26.250",
+      "uid": "u0421"
+    },
+    {
+      "header": "[u0422 | 00:38:27.900-00:38:30.060 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The Godcaller of this tribe.",
+      "timing": "00:38:27.900-00:38:30.060",
+      "uid": "u0422"
+    },
+    {
+      "header": "[u0423 | 00:38:31.140-00:38:32.280 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I mean all the end.",
+      "timing": "00:38:31.140-00:38:32.280",
+      "uid": "u0423"
+    },
+    {
+      "header": "[u0424 | 00:38:32.520-00:38:37.830 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "All and there's no reason, like is there any sense of urgency, here I mean presumably.",
+      "timing": "00:38:32.520-00:38:37.830",
+      "uid": "u0424"
+    },
+    {
+      "header": "[u0425 | 00:38:37.890-00:38:39.960 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "No there's no rush right like I wouldn't.",
+      "timing": "00:38:37.890-00:38:39.960",
+      "uid": "u0425"
+    },
+    {
+      "header": "[u0426 | 00:38:40.770-00:38:44.640 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "spend day yes yeah I mean, obviously, a few days, but it feels like.",
+      "timing": "00:38:40.770-00:38:44.640",
+      "uid": "u0426"
+    },
+    {
+      "header": "[u0427 | 00:38:45.120-00:38:50.160 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I want to tell a few stories and hear a few stories. I mean I'm no Kenzo, but still like.",
+      "timing": "00:38:45.120-00:38:50.160",
+      "uid": "u0427"
+    },
+    {
+      "header": "[u0428 | 00:38:50.850-00:39:02.520 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Right, it feels a bit like Delwath would want to hear stories, especially Yezali, and you know take just take a day to hang out in the village and like.",
+      "timing": "00:38:50.850-00:39:02.520",
+      "uid": "u0428"
+    },
+    {
+      "header": "[u0429 | 00:39:03.090-00:39:04.320 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Oh yeah that makes sense.",
+      "timing": "00:39:03.090-00:39:04.320",
+      "uid": "u0429"
+    },
+    {
+      "header": "[u0430 | 00:39:04.680-00:39:10.140 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Like just just talk really basically right like from.",
+      "timing": "00:39:04.680-00:39:10.140",
+      "uid": "u0430"
+    },
+    {
+      "header": "[u0431 | 00:39:12.060-00:39:13.560 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Just from sort of.",
+      "timing": "00:39:12.060-00:39:13.560",
+      "uid": "u0431"
+    },
+    {
+      "header": "[u0432 | 00:39:17.190-00:39:23.430 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "getting to know these people in these stories and like you know getting.",
+      "timing": "00:39:17.190-00:39:23.430",
+      "uid": "u0432"
+    },
+    {
+      "header": "[u0433 | 00:39:25.470-00:39:28.230 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "getting to know the new his new.",
+      "timing": "00:39:25.470-00:39:28.230",
+      "uid": "u0433"
+    },
+    {
+      "header": "[u0434 | 00:39:30.210-00:39:32.130 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Yeah, the the the tanshi who.",
+      "timing": "00:39:30.210-00:39:32.130",
+      "uid": "u0434"
+    },
+    {
+      "header": "[u0435 | 00:39:33.000-00:39:33.660 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Are sort of.",
+      "timing": "00:39:33.000-00:39:33.660",
+      "uid": "u0435"
+    },
+    {
+      "header": "[u0436 | 00:39:34.920-00:39:36.000 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Listening to him right.",
+      "timing": "00:39:34.920-00:39:36.000",
+      "uid": "u0436"
+    },
+    {
+      "header": "[u0437 | 00:39:36.030-00:39:42.480 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Like and right just kind of observing their culture, like he's very curious about their culture and sort of feels.",
+      "timing": "00:39:36.030-00:39:42.480",
+      "uid": "u0437"
+    },
+    {
+      "header": "[u0438 | 00:39:43.200-00:39:44.280 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Right in some.",
+      "timing": "00:39:43.200-00:39:44.280",
+      "uid": "u0438"
+    },
+    {
+      "header": "[u0439 | 00:39:44.520-00:39:46.080 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "there's a lot of similarities.",
+      "timing": "00:39:44.520-00:39:46.080",
+      "uid": "u0439"
+    },
+    {
+      "header": "[u0440 | 00:39:46.080-00:39:49.020 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "To the to the Te'kula.",
+      "timing": "00:39:46.080-00:39:49.020",
+      "uid": "u0440"
+    },
+    {
+      "header": "[u0441 | 00:39:49.410-00:40:02.070 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Yeah, right, which where he spent some time. The difference, a lot of the difference that, I mean the religion is very similar, that they they worship different tanshi, some different tanshi, like you know there's more focused on.",
+      "timing": "00:39:49.410-00:40:02.070",
+      "uid": "u0441"
+    },
+    {
+      "header": "[u0442 | 00:40:03.810-00:40:16.740 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You know they have A'gaza, spirit of the deer and the reindeer and caribou and elk. There's like more fire, like Istari the spirit of the forest fires, and Mo'kati the spirit of like warmth and.",
+      "timing": "00:40:03.810-00:40:16.740",
+      "uid": "u0442"
+    },
+    {
+      "header": "[u0443 | 00:40:18.180-00:40:19.020 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I don't need you to like.",
+      "timing": "00:40:18.180-00:40:19.020",
+      "uid": "u0443"
+    },
+    {
+      "header": "[u0444 | 00:40:19.470-00:40:21.000 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "A whole bunch of lore, but.",
+      "timing": "00:40:19.470-00:40:21.000",
+      "uid": "u0444"
+    },
+    {
+      "header": "[u0445 | 00:40:21.420-00:40:22.260 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "It just right and.",
+      "timing": "00:40:21.420-00:40:22.260",
+      "uid": "u0445"
+    },
+    {
+      "header": "[u0446 | 00:40:23.400-00:40:25.080 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I think Delwath also feels like.",
+      "timing": "00:40:23.400-00:40:25.080",
+      "uid": "u0446"
+    },
+    {
+      "header": "[u0447 | 00:40:26.700-00:40:27.300 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "The.",
+      "timing": "00:40:26.700-00:40:27.300",
+      "uid": "u0447"
+    },
+    {
+      "header": "[u0448 | 00:40:28.680-00:40:33.960 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Being by himself, he feels more attuned to listening to the culture.",
+      "timing": "00:40:28.680-00:40:33.960",
+      "uid": "u0448"
+    },
+    {
+      "header": "[u0449 | 00:40:34.500-00:40:36.930 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Than he would have in that in the.",
+      "timing": "00:40:34.500-00:40:36.930",
+      "uid": "u0449"
+    },
+    {
+      "header": "[u0450 | 00:40:38.400-00:40:38.820 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "tenant.",
+      "timing": "00:40:38.400-00:40:38.820",
+      "uid": "u0450"
+    },
+    {
+      "header": "[u0451 | 00:40:41.280-00:40:47.580 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Te'kula village where he was more focused on the aftermath of—I mean there was a lot of treasure counting going, right.",
+      "timing": "00:40:41.280-00:40:47.580",
+      "uid": "u0451"
+    },
+    {
+      "header": "[u0452 | 00:40:47.640-00:40:48.600 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Exactly anything's.",
+      "timing": "00:40:47.640-00:40:48.600",
+      "uid": "u0452"
+    },
+    {
+      "header": "[u0453 | 00:40:48.630-00:40:50.670 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Gotta count half a million coins.",
+      "timing": "00:40:48.630-00:40:50.670",
+      "uid": "u0453"
+    },
+    {
+      "header": "[u0454 | 00:40:50.700-00:40:51.540 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Right, it might.",
+      "timing": "00:40:50.700-00:40:51.540",
+      "uid": "u0454"
+    },
+    {
+      "header": "[u0455 | 00:40:51.570-00:40:52.860 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "In neat piles, right.",
+      "timing": "00:40:51.570-00:40:52.860",
+      "uid": "u0455"
+    },
+    {
+      "header": "[u0456 | 00:40:52.980-00:41:00.810 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "there's no there's just more kind of he feels like a little bit on sort of.",
+      "timing": "00:40:52.980-00:41:00.810",
+      "uid": "u0456"
+    },
+    {
+      "header": "[u0457 | 00:41:02.850-00:41:06.240 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "interior journey like it almost feels like a conversion.",
+      "timing": "00:41:02.850-00:41:06.240",
+      "uid": "u0457"
+    },
+    {
+      "header": "[u0458 | 00:41:06.930-00:41:11.940 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Right right so he'd spend a little bit of time like again it doesn't matter from from.",
+      "timing": "00:41:06.930-00:41:11.940",
+      "uid": "u0458"
+    },
+    {
+      "header": "[u0459 | 00:41:13.290-00:41:14.130 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I don't know.",
+      "timing": "00:41:13.290-00:41:14.130",
+      "uid": "u0459"
+    },
+    {
+      "header": "[u0460 | 00:41:14.160-00:41:19.350 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Any word I mean it's just a few days just kind of maybe a day or two just kind of in the village.",
+      "timing": "00:41:14.160-00:41:19.350",
+      "uid": "u0460"
+    },
+    {
+      "header": "[u0461 | 00:41:20.340-00:41:29.970 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Right, I think that that makes a lot of sense, so before you go this, you know, however long he spent in the village, say I'll say two days, so {{I accurate}}, yeah.",
+      "timing": "00:41:20.340-00:41:29.970",
+      "uid": "u0461"
+    },
+    {
+      "header": "[u0462 | 00:41:32.730-00:41:38.550 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And it's a it's about a day's journey straight down the mountain to the the hunting camp, where you will meet.",
+      "timing": "00:41:32.730-00:41:38.550",
+      "uid": "u0462"
+    },
+    {
+      "header": "[u0463 | 00:41:40.170-00:41:42.960 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The stoneborn and the wildfire druid.",
+      "timing": "00:41:40.170-00:41:42.960",
+      "uid": "u0463"
+    },
+    {
+      "header": "[u0464 | 00:41:45.060-00:41:55.050 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And so Enon, the Godcaller, this like old guy in his 70s, like bushy hair, bushy beard, wearing like long robes, um.",
+      "timing": "00:41:45.060-00:41:55.050",
+      "uid": "u0464"
+    },
+    {
+      "header": "[u0465 | 00:41:56.910-00:42:12.630 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Leaning on a staff, like brings you this set of like shield and armor that he says, you know, if you're going into battle on behalf of the Meswati, going down to the Forest of Nightmares, you should you should take this.",
+      "timing": "00:41:56.910-00:42:12.630",
+      "uid": "u0465"
+    },
+    {
+      "header": "[u0466 | 00:42:14.310-00:42:24.630 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Those were worn by a hero of the Great War, a warrior of the tanshi, and have been waiting to be claimed by somebody who will fight for the silent ones for generations.",
+      "timing": "00:42:14.310-00:42:24.630",
+      "uid": "u0466"
+    },
+    {
+      "header": "[u0467 | 00:42:26.700-00:42:29.520 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Blessed and will aid you in your fight, I believe.",
+      "timing": "00:42:26.700-00:42:29.520",
+      "uid": "u0467"
+    },
+    {
+      "header": "[u0468 | 00:42:31.110-00:42:31.950 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "If you are.",
+      "timing": "00:42:31.110-00:42:31.950",
+      "uid": "u0468"
+    },
+    {
+      "header": "[u0469 | 00:42:33.840-00:42:35.190 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "If you are seeking to.",
+      "timing": "00:42:33.840-00:42:35.190",
+      "uid": "u0469"
+    },
+    {
+      "header": "[u0470 | 00:42:37.440-00:42:41.190 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Free them from their prisons, perhaps they will.",
+      "timing": "00:42:37.440-00:42:41.190",
+      "uid": "u0470"
+    },
+    {
+      "header": "[u0471 | 00:42:42.960-00:42:44.220 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "hear you better.",
+      "timing": "00:42:42.960-00:42:44.220",
+      "uid": "u0471"
+    },
+    {
+      "header": "[u0472 | 00:42:45.720-00:42:46.440 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "With this.",
+      "timing": "00:42:45.720-00:42:46.440",
+      "uid": "u0472"
+    },
+    {
+      "header": "[u0473 | 00:42:49.320-00:43:04.710 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Now armor is, it's like doesn't really look like armor, right, it looks like sort of buckskin and and fur trim, but you see as you look at it there's like very finely carved mithral-ish.",
+      "timing": "00:42:49.320-00:43:04.710",
+      "uid": "u0473"
+    },
+    {
+      "header": "[u0474 | 00:43:05.730-00:43:08.550 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Some whatever they got from the dwarves right there close to the.",
+      "timing": "00:43:05.730-00:43:08.550",
+      "uid": "u0474"
+    },
+    {
+      "header": "[u0475 | 00:43:11.100-00:43:19.050 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Chain links that are like scales that form scale mail but that are sort of blended into the to the hide of the.",
+      "timing": "00:43:11.100-00:43:19.050",
+      "uid": "u0475"
+    },
+    {
+      "header": "[u0476 | 00:43:20.580-00:43:37.200 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Armor, and the shield, there's—I mean you can make up how it's painted, or it's the standard Deno'qai, sort of brightly colored, decorated with an animal motif, probably a fox or a wolf or something like that.",
+      "timing": "00:43:20.580-00:43:37.200",
+      "uid": "u0476"
+    },
+    {
+      "header": "[u0477 | 00:43:38.070-00:43:39.060 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "can't be a fox.",
+      "timing": "00:43:38.070-00:43:39.060",
+      "uid": "u0477"
+    },
+    {
+      "header": "[u0478 | 00:43:41.700-00:43:42.180 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Why not.",
+      "timing": "00:43:41.700-00:43:42.180",
+      "uid": "u0478"
+    },
+    {
+      "header": "[u0479 | 00:43:42.330-00:43:43.320 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Too derivative.",
+      "timing": "00:43:42.330-00:43:43.320",
+      "uid": "u0479"
+    },
+    {
+      "header": "[u0480 | 00:43:44.280-00:43:45.000 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Right cuz.",
+      "timing": "00:43:44.280-00:43:45.000",
+      "uid": "u0480"
+    },
+    {
+      "header": "[u0481 | 00:43:46.380-00:43:48.540 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "You can't have another character as a fox.",
+      "timing": "00:43:46.380-00:43:48.540",
+      "uid": "u0481"
+    },
+    {
+      "header": "[u0482 | 00:43:48.660-00:43:50.790 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "totem animal ah.",
+      "timing": "00:43:48.660-00:43:50.790",
+      "uid": "u0482"
+    },
+    {
+      "header": "[u0483 | 00:43:53.190-00:43:54.840 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Something that hunts in the night, it could.",
+      "timing": "00:43:53.190-00:43:54.840",
+      "uid": "u0483"
+    },
+    {
+      "header": "[u0484 | 00:43:54.840-00:43:55.410 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "yeah.",
+      "timing": "00:43:54.840-00:43:55.410",
+      "uid": "u0484"
+    },
+    {
+      "header": "[u0485 | 00:43:58.860-00:43:59.640 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "A bear.",
+      "timing": "00:43:58.860-00:43:59.640",
+      "uid": "u0485"
+    },
+    {
+      "header": "[u0486 | 00:44:00.540-00:44:11.400 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Bear or, like the other thing I was thinking about was like a mountain lion or a—boy, yeah, that would be good, like like a mountain lion or like a lynx or something like that.",
+      "timing": "00:44:00.540-00:44:11.400",
+      "uid": "u0486"
+    },
+    {
+      "header": "[u0487 | 00:44:11.460-00:44:12.990 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Yeah, bobcat.",
+      "timing": "00:44:11.460-00:44:12.990",
+      "uid": "u0487"
+    },
+    {
+      "header": "[u0488 | 00:44:13.110-00:44:16.770 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Bobcat, I think I think a big cat of some kind is actually.",
+      "timing": "00:44:13.110-00:44:16.770",
+      "uid": "u0488"
+    },
+    {
+      "header": "[u0489 | 00:44:17.520-00:44:17.790 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "that's.",
+      "timing": "00:44:17.520-00:44:17.790",
+      "uid": "u0489"
+    },
+    {
+      "header": "[u0490 | 00:44:18.000-00:44:22.050 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "It feels it feels a little bit I like I like a big cat.",
+      "timing": "00:44:18.000-00:44:22.050",
+      "uid": "u0490"
+    },
+    {
+      "header": "[u0491 | 00:44:23.100-00:44:23.520 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Okay.",
+      "timing": "00:44:23.100-00:44:23.520",
+      "uid": "u0491"
+    },
+    {
+      "header": "[u0492 | 00:44:25.320-00:44:28.920 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "um but it's it's elaborately decorated so it has.",
+      "timing": "00:44:25.320-00:44:28.920",
+      "uid": "u0492"
+    },
+    {
+      "header": "[u0493 | 00:44:33.180-00:44:41.670 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "It has this like face of the of the bobcat on the front, but then it's it's arrayed around the side with a series of.",
+      "timing": "00:44:33.180-00:44:41.670",
+      "uid": "u0493"
+    },
+    {
+      "header": "[u0494 | 00:44:45.000-00:44:48.060 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Bird motifs of crows and ravens and.",
+      "timing": "00:44:45.000-00:44:48.060",
+      "uid": "u0494"
+    },
+    {
+      "header": "[u0495 | 00:44:50.430-00:45:01.770 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Swallows and nighthawks, like this, basically the sort of twilight nighthawks in particular, the like, you know, birds that fly, agile flyers that.",
+      "timing": "00:44:50.430-00:45:01.770",
+      "uid": "u0495"
+    },
+    {
+      "header": "[u0496 | 00:45:01.770-00:45:06.480 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Right, dart around at night, you know hunting insects, and then.",
+      "timing": "00:45:01.770-00:45:06.480",
+      "uid": "u0496"
+    },
+    {
+      "header": "[u0497 | 00:45:07.710-00:45:14.430 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "{{On the enemy}} and then it's like bright, you know, on all of this on background of of.",
+      "timing": "00:45:07.710-00:45:14.430",
+      "uid": "u0497"
+    },
+    {
+      "header": "[u0498 | 00:45:15.450-00:45:25.350 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Of brightly colored brightly colored paint where the birds are very stylized, right, the big cat is like central motif and there's just this ring of stylized birds.",
+      "timing": "00:45:15.450-00:45:25.350",
+      "uid": "u0498"
+    },
+    {
+      "header": "[u0499 | 00:45:36.120-00:45:44.700 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So he gives you these things, and then you set off and then that's where we'll pick up when you come to the camp and meet the other characters on Thursday.",
+      "timing": "00:45:36.120-00:45:44.700",
+      "uid": "u0499"
+    },
+    {
+      "header": "[u0500 | 00:45:44.970-00:45:45.510 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "sounds good.",
+      "timing": "00:45:44.970-00:45:45.510",
+      "uid": "u0500"
+    },
+    {
+      "header": "[u0501 | 00:45:46.350-00:45:50.010 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So mechanically I would say this is mithral scale mail.",
+      "timing": "00:45:46.350-00:45:50.010",
+      "uid": "u0501"
+    },
+    {
+      "header": "[u0502 | 00:45:50.550-00:45:51.120 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The Armor.",
+      "timing": "00:45:50.550-00:45:51.120",
+      "uid": "u0502"
+    },
+    {
+      "header": "[u0503 | 00:45:51.690-00:45:52.410 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And then.",
+      "timing": "00:45:51.690-00:45:52.410",
+      "uid": "u0503"
+    },
+    {
+      "header": "[u0504 | 00:45:54.600-00:45:58.470 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Just a straight shield, which then will get magical as you.",
+      "timing": "00:45:54.600-00:45:58.470",
+      "uid": "u0504"
+    },
+    {
+      "header": "[u0505 | 00:46:00.240-00:46:01.200 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Solve things.",
+      "timing": "00:46:00.240-00:46:01.200",
+      "uid": "u0505"
+    },
+    {
+      "header": "[u0506 | 00:46:03.870-00:46:04.170 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Okay.",
+      "timing": "00:46:03.870-00:46:04.170",
+      "uid": "u0506"
+    },
+    {
+      "header": "[u0507 | 00:46:05.490-00:46:05.790 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Okay.",
+      "timing": "00:46:05.490-00:46:05.790",
+      "uid": "u0507"
+    },
+    {
+      "header": "[u0508 | 00:46:05.880-00:46:06.060 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "well.",
+      "timing": "00:46:05.880-00:46:06.060",
+      "uid": "u0508"
+    },
+    {
+      "header": "[u0509 | 00:46:08.760-00:46:13.410 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So I think yeah let me know if you think of anything but I think I've got everything set.",
+      "timing": "00:46:08.760-00:46:13.410",
+      "uid": "u0509"
+    },
+    {
+      "header": "[u0510 | 00:46:13.800-00:46:14.670 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Okay, Thursday.",
+      "timing": "00:46:13.800-00:46:14.670",
+      "uid": "u0510"
+    },
+    {
+      "header": "[u0511 | 00:46:15.360-00:46:16.710 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Alright, is complaining.",
+      "timing": "00:46:15.360-00:46:16.710",
+      "uid": "u0511"
+    },
+    {
+      "header": "[u0512 | 00:46:18.990-00:46:19.230 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "him.",
+      "timing": "00:46:18.990-00:46:19.230",
+      "uid": "u0512"
+    },
+    {
+      "header": "[u0513 | 00:46:20.820-00:46:30.450 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "He hasn't responded to my texts, and I said hey do you want me to make a character, or do you want to make a character, I suspect, to text me on Thursday and say hey do you have a character for me.",
+      "timing": "00:46:20.820-00:46:30.450",
+      "uid": "u0513"
+    },
+    {
+      "header": "[u0514 | 00:46:30.660-00:46:31.740 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Right and I'll be like.",
+      "timing": "00:46:30.660-00:46:31.740",
+      "uid": "u0514"
+    },
+    {
+      "header": "[u0515 | 00:46:33.720-00:46:34.290 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Maybe.",
+      "timing": "00:46:33.720-00:46:34.290",
+      "uid": "u0515"
+    },
+    {
+      "header": "[u0516 | 00:46:36.660-00:46:44.340 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I have an idea for something I could make quickly that would be a simple right like I'm not gonna do anything complicated for him, but.",
+      "timing": "00:46:36.660-00:46:44.340",
+      "uid": "u0516"
+    }
+  ],
+  "existingDecisions": {},
+  "legacyCandidates": [],
+  "previousReview": null,
+  "responsePath": "cleaned/transcript-work/responses/clean-chunk-003.json",
+  "reviewScope": "Recover likely speech using sounds, syntax and the full exchange. Apply reasonable contextual repairs automatically; exact wording uncertainty alone is not human work. Preserve spoken mistakes and meaningful table talk. Remove incidental flags. Only competing substantive readings need review, with proposed wording, a recommendation, and a concrete question. Polished-only garbled/cross-talk substitutions need exact source spans and a reason.",
+  "schemaVersion": 1,
+  "session": {
+    "campaign": "Dunmari Frontier",
+    "drEnd": "1748-10-06",
+    "drEndTime": null,
+    "drStart": "1748-09-30",
+    "drStartTime": null,
+    "participants": [
+      {
+        "gameRole": "Delwath",
+        "name": "Mike Sackton",
+        "transcriptIdentifiers": [
+          "Mike Sackton"
+        ]
+      },
+      {
+        "gameRole": "DM",
+        "name": "Tim Sackton",
+        "transcriptIdentifiers": [
+          "Timothy Sackton"
+        ]
+      }
+    ],
+    "participantsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/sources/dunmar-frontier-session053-participants.yaml",
+    "preparedSourcePath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-source-prepared.md",
+    "realWorldDate": "2022-07-31",
+    "schemaVersion": "1.0",
+    "scope": "session",
+    "sessionNumber": 53,
+    "sourceConfigPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/sources/dunmar-frontier-session053.yaml",
+    "sourceInputPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/sources/GMT20220731-013835_Recording.transcript.vtt",
+    "sourceType": "transcript",
+    "speakerMappingsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/sources/zoom-session-053.speaker_mapping.json",
+    "speakerStatsPath": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-speaker-stats.json",
+    "transcriptFormat": "vtt"
+  },
+  "source": [
+    {
+      "header": "[u0341 | 00:31:55.650-00:31:56.160 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "and",
+      "timing": "00:31:55.650-00:31:56.160",
+      "uid": "u0341"
+    },
+    {
+      "header": "[u0342 | 00:31:57.960-00:32:02.820 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The remnants of that evil that sometimes creep up the mountains from the forest of nightmares.",
+      "timing": "00:31:57.960-00:32:02.820",
+      "uid": "u0342"
+    },
+    {
+      "header": "[u0343 | 00:32:03.870-00:32:04.170 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "But.",
+      "timing": "00:32:03.870-00:32:04.170",
+      "uid": "u0343"
+    },
+    {
+      "header": "[u0344 | 00:32:06.060-00:32:06.750 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Even if.",
+      "timing": "00:32:06.060-00:32:06.750",
+      "uid": "u0344"
+    },
+    {
+      "header": "[u0345 | 00:32:08.010-00:32:09.690 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Even if your.",
+      "timing": "00:32:08.010-00:32:09.690",
+      "uid": "u0345"
+    },
+    {
+      "header": "[u0346 | 00:32:10.920-00:32:26.430 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Hope is proven false and some of some of the lost are truly lost, it must be that many of them are not. Where did these circlets come to you from? They're many miles from where they were found.",
+      "timing": "00:32:10.920-00:32:26.430",
+      "uid": "u0346"
+    },
+    {
+      "header": "[u0347 | 00:32:28.200-00:32:30.870 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Have you any clues as to where others may be.",
+      "timing": "00:32:28.200-00:32:30.870",
+      "uid": "u0347"
+    },
+    {
+      "header": "[u0348 | 00:32:33.180-00:32:36.210 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "There is a stoneborn.",
+      "timing": "00:32:33.180-00:32:36.210",
+      "uid": "u0348"
+    },
+    {
+      "header": "[u0349 | 00:32:38.520-00:32:42.300 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "In hunting camp near here, who has.",
+      "timing": "00:32:38.520-00:32:42.300",
+      "uid": "u0349"
+    },
+    {
+      "header": "[u0350 | 00:32:43.980-00:32:48.210 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Traveled the Forest of Nightmares herself.",
+      "timing": "00:32:43.980-00:32:48.210",
+      "uid": "u0350"
+    },
+    {
+      "header": "[u0351 | 00:32:49.350-00:32:51.990 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And seen some of these ancient battlefields.",
+      "timing": "00:32:49.350-00:32:51.990",
+      "uid": "u0351"
+    },
+    {
+      "header": "[u0352 | 00:32:54.510-00:32:56.880 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "and brought us stories of.",
+      "timing": "00:32:54.510-00:32:56.880",
+      "uid": "u0352"
+    },
+    {
+      "header": "[u0353 | 00:32:59.070-00:32:59.880 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The dead.",
+      "timing": "00:32:59.070-00:32:59.880",
+      "uid": "u0353"
+    },
+    {
+      "header": "[u0354 | 00:33:01.980-00:33:09.810 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "A giant demon corpse lying in a forest clearing with a dark armband on its wrist.",
+      "timing": "00:33:01.980-00:33:09.810",
+      "uid": "u0354"
+    },
+    {
+      "header": "[u0355 | 00:33:15.150-00:33:18.930 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I believe they may be found at the battle sites where the tanshi fell.",
+      "timing": "00:33:15.150-00:33:18.930",
+      "uid": "u0355"
+    },
+    {
+      "header": "[u0356 | 00:33:23.220-00:33:32.010 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "If they are to be found anywhere, this circlet that you say trapped you in a prison was brought from a battlefield far to the south.",
+      "timing": "00:33:23.220-00:33:32.010",
+      "uid": "u0356"
+    },
+    {
+      "header": "[u0357 | 00:33:35.940-00:33:38.100 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "This this one that.",
+      "timing": "00:33:35.940-00:33:38.100",
+      "uid": "u0357"
+    },
+    {
+      "header": "[u0358 | 00:33:41.160-00:33:41.910 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "This one that.",
+      "timing": "00:33:41.160-00:33:41.910",
+      "uid": "u0358"
+    },
+    {
+      "header": "[u0359 | 00:33:43.440-00:33:44.160 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "trapped.",
+      "timing": "00:33:43.440-00:33:44.160",
+      "uid": "u0359"
+    },
+    {
+      "header": "[u0360 | 00:33:45.630-00:33:52.200 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "{{Oh ma}}, the warrior who you say may be wandering lost somewhere far across the world.",
+      "timing": "00:33:45.630-00:33:52.200",
+      "uid": "u0360"
+    },
+    {
+      "header": "[u0361 | 00:33:53.910-00:33:59.610 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Which by the way, now I have to convince somebody to play {{oh my}} for the Wellby one-shot.",
+      "timing": "00:33:53.910-00:33:59.610",
+      "uid": "u0361"
+    },
+    {
+      "header": "[u0362 | 00:34:00.600-00:34:01.770 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "That'd actually be kind of fun.",
+      "timing": "00:34:00.600-00:34:01.770",
+      "uid": "u0362"
+    },
+    {
+      "header": "[u0363 | 00:34:04.290-00:34:06.900 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I don't know if I'm gonna necessarily if I'm if I'm.",
+      "timing": "00:34:04.290-00:34:06.900",
+      "uid": "u0363"
+    },
+    {
+      "header": "[u0364 | 00:34:07.620-00:34:09.390 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "A one shot to make but.",
+      "timing": "00:34:07.620-00:34:09.390",
+      "uid": "u0364"
+    },
+    {
+      "header": "[u0365 | 00:34:09.510-00:34:09.810 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "yeah.",
+      "timing": "00:34:09.510-00:34:09.810",
+      "uid": "u0365"
+    },
+    {
+      "header": "[u0366 | 00:34:10.860-00:34:14.730 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I, the only one, I really want to do I'm really into this idea of playing that.",
+      "timing": "00:34:10.860-00:34:14.730",
+      "uid": "u0366"
+    },
+    {
+      "header": "[u0367 | 00:34:15.510-00:34:17.160 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "The foreign car I think they.",
+      "timing": "00:34:15.510-00:34:17.160",
+      "uid": "u0367"
+    },
+    {
+      "header": "[u0368 | 00:34:17.940-00:34:18.270 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "Might.",
+      "timing": "00:34:17.940-00:34:18.270",
+      "uid": "u0368"
+    },
+    {
+      "header": "[u0369 | 00:34:19.320-00:34:22.290 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I think, because aaron's gonna need some time to.",
+      "timing": "00:34:19.320-00:34:22.290",
+      "uid": "u0369"
+    },
+    {
+      "header": "[u0370 | 00:34:22.290-00:34:22.980 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Like get.",
+      "timing": "00:34:22.290-00:34:22.980",
+      "uid": "u0370"
+    },
+    {
+      "header": "[u0371 | 00:34:23.760-00:34:28.290 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I suspect we'll do the Feywild one last, right, when everybody's.",
+      "timing": "00:34:23.760-00:34:28.290",
+      "uid": "u0371"
+    },
+    {
+      "header": "[u0372 | 00:34:28.320-00:34:29.880 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I mean it doesn't have to be.",
+      "timing": "00:34:28.320-00:34:29.880",
+      "uid": "u0372"
+    },
+    {
+      "header": "[u0373 | 00:34:30.660-00:34:33.330 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "But I also want to do a Mylar adventure in September.",
+      "timing": "00:34:30.660-00:34:33.330",
+      "uid": "u0373"
+    },
+    {
+      "header": "[u0374 | 00:34:33.360-00:34:35.100 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "yeah everybody that I hope you.",
+      "timing": "00:34:33.360-00:34:35.100",
+      "uid": "u0374"
+    },
+    {
+      "header": "[u0375 | 00:34:35.130-00:34:36.210 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Join for you to get here.",
+      "timing": "00:34:35.130-00:34:36.210",
+      "uid": "u0375"
+    },
+    {
+      "header": "[u0376 | 00:34:36.210-00:34:38.940 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "writing a one shot anyway um.",
+      "timing": "00:34:36.210-00:34:38.940",
+      "uid": "u0376"
+    },
+    {
+      "header": "[u0377 | 00:34:42.270-00:34:49.560 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "That one was taken was carried by a some sort of deathless creature that came from the.",
+      "timing": "00:34:42.270-00:34:49.560",
+      "uid": "u0377"
+    },
+    {
+      "header": "[u0378 | 00:34:51.450-00:34:52.800 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Forest of nightmares.",
+      "timing": "00:34:51.450-00:34:52.800",
+      "uid": "u0378"
+    },
+    {
+      "header": "[u0379 | 00:34:54.360-00:34:56.370 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "But little moves in that forest.",
+      "timing": "00:34:54.360-00:34:56.370",
+      "uid": "u0379"
+    },
+    {
+      "header": "[u0380 | 00:34:58.110-00:35:01.230 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "There are no animals, there are no.",
+      "timing": "00:34:58.110-00:35:01.230",
+      "uid": "u0380"
+    },
+    {
+      "header": "[u0381 | 00:35:03.840-00:35:04.440 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "People.",
+      "timing": "00:35:03.840-00:35:04.440",
+      "uid": "u0381"
+    },
+    {
+      "header": "[u0382 | 00:35:06.510-00:35:08.940 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Nothing living can survive there long.",
+      "timing": "00:35:06.510-00:35:08.940",
+      "uid": "u0382"
+    },
+    {
+      "header": "[u0383 | 00:35:10.590-00:35:13.080 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Did all of the lost fall in the forest?",
+      "timing": "00:35:10.590-00:35:13.080",
+      "uid": "u0383"
+    },
+    {
+      "header": "[u0384 | 00:35:13.770-00:35:15.870 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "All of the lost fell in the forest.",
+      "timing": "00:35:13.770-00:35:15.870",
+      "uid": "u0384"
+    },
+    {
+      "header": "[u0385 | 00:35:22.830-00:35:24.270 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So that is where I would look.",
+      "timing": "00:35:22.830-00:35:24.270",
+      "uid": "u0385"
+    },
+    {
+      "header": "[u0386 | 00:35:24.540-00:35:25.560 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "That is a clue then.",
+      "timing": "00:35:24.540-00:35:25.560",
+      "uid": "u0386"
+    },
+    {
+      "header": "[u0387 | 00:35:30.060-00:35:36.030 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And I believe this stoneborn and the man who destroyed these two.",
+      "timing": "00:35:30.060-00:35:36.030",
+      "uid": "u0387"
+    },
+    {
+      "header": "[u0388 | 00:35:37.770-00:35:40.290 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "would be willing to travel with you on this task.",
+      "timing": "00:35:37.770-00:35:40.290",
+      "uid": "u0388"
+    },
+    {
+      "header": "[u0389 | 00:35:44.100-00:35:44.520 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I would.",
+      "timing": "00:35:44.100-00:35:44.520",
+      "uid": "u0389"
+    },
+    {
+      "header": "[u0390 | 00:35:45.720-00:35:48.570 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Be glad of the company traveling to such a place.",
+      "timing": "00:35:45.720-00:35:48.570",
+      "uid": "u0390"
+    },
+    {
+      "header": "[u0391 | 00:35:53.760-00:35:57.690 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I would warn you to keep moving if you are up there.",
+      "timing": "00:35:53.760-00:35:57.690",
+      "uid": "u0391"
+    },
+    {
+      "header": "[u0392 | 00:35:58.890-00:36:04.230 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The longer you stay in one place, eventually the shadows will be attracted to living creatures.",
+      "timing": "00:35:58.890-00:36:04.230",
+      "uid": "u0392"
+    },
+    {
+      "header": "[u0393 | 00:36:08.790-00:36:09.750 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And if you stay.",
+      "timing": "00:36:08.790-00:36:09.750",
+      "uid": "u0393"
+    },
+    {
+      "header": "[u0394 | 00:36:13.680-00:36:15.120 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You stay for long.",
+      "timing": "00:36:13.680-00:36:15.120",
+      "uid": "u0394"
+    },
+    {
+      "header": "[u0395 | 00:36:17.280-00:36:18.210 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "In one camp.",
+      "timing": "00:36:17.280-00:36:18.210",
+      "uid": "u0395"
+    },
+    {
+      "header": "[u0396 | 00:36:20.160-00:36:21.000 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You awake.",
+      "timing": "00:36:20.160-00:36:21.000",
+      "uid": "u0396"
+    },
+    {
+      "header": "[u0397 | 00:36:22.860-00:36:25.170 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "To find yourself surrounded by shadows.",
+      "timing": "00:36:22.860-00:36:25.170",
+      "uid": "u0397"
+    },
+    {
+      "header": "[u0398 | 00:36:27.030-00:36:28.080 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "So no long rests.",
+      "timing": "00:36:27.030-00:36:28.080",
+      "uid": "u0398"
+    },
+    {
+      "header": "[u0399 | 00:36:30.690-00:36:32.340 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Only three encounters, so.",
+      "timing": "00:36:30.690-00:36:32.340",
+      "uid": "u0399"
+    },
+    {
+      "header": "[u0400 | 00:36:33.450-00:36:36.120 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "that's a good way to that's a good way to structure it yeah.",
+      "timing": "00:36:33.450-00:36:36.120",
+      "uid": "u0400"
+    },
+    {
+      "header": "[u0401 | 00:36:39.300-00:36:45.960 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "There might be some place, there might be some secret hidden place where you can get one long rest, right? You work hard, right.",
+      "timing": "00:36:39.300-00:36:45.960",
+      "uid": "u0401"
+    },
+    {
+      "header": "[u0402 | 00:36:48.780-00:36:54.630 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Now it doesn't last long enough, I was gonna say you know what would help with a long rest is probably a magic circle, but it only lasts an hour.",
+      "timing": "00:36:48.780-00:36:54.630",
+      "uid": "u0402"
+    },
+    {
+      "header": "[u0403 | 00:36:56.430-00:36:56.700 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Right.",
+      "timing": "00:36:56.430-00:36:56.700",
+      "uid": "u0403"
+    },
+    {
+      "header": "[u0404 | 00:36:56.760-00:37:00.930 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "And I guess it wouldn't help against shadows, {{like his name it'll be a feat}}, that'd be fun.",
+      "timing": "00:36:56.760-00:37:00.930",
+      "uid": "u0404"
+    },
+    {
+      "header": "[u0405 | 00:37:02.640-00:37:04.140 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "there's a giant.",
+      "timing": "00:37:02.640-00:37:04.140",
+      "uid": "u0405"
+    },
+    {
+      "header": "[u0406 | 00:37:04.440-00:37:05.700 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "demon yeah exactly.",
+      "timing": "00:37:04.440-00:37:05.700",
+      "uid": "u0406"
+    },
+    {
+      "header": "[u0407 | 00:37:06.090-00:37:07.200 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Like way yeah.",
+      "timing": "00:37:06.090-00:37:07.200",
+      "uid": "u0407"
+    },
+    {
+      "header": "[u0408 | 00:37:12.540-00:37:15.060 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Where are these other sorry go ahead.",
+      "timing": "00:37:12.540-00:37:15.060",
+      "uid": "u0408"
+    },
+    {
+      "header": "[u0409 | 00:37:15.990-00:37:17.880 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I was just gonna say if there's anything else you want to ask.",
+      "timing": "00:37:15.990-00:37:17.880",
+      "uid": "u0409"
+    },
+    {
+      "header": "[u0410 | 00:37:18.090-00:37:23.730 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Now I mean any details that like maybe not tonight, but.",
+      "timing": "00:37:18.090-00:37:23.730",
+      "uid": "u0410"
+    },
+    {
+      "header": "[u0411 | 00:37:25.620-00:37:28.110 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I do want to spend a little bit of time like.",
+      "timing": "00:37:25.620-00:37:28.110",
+      "uid": "u0411"
+    },
+    {
+      "header": "[u0412 | 00:37:29.220-00:37:32.010 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Getting details of the legends right not.",
+      "timing": "00:37:29.220-00:37:32.010",
+      "uid": "u0412"
+    },
+    {
+      "header": "[u0413 | 00:37:32.550-00:37:37.140 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Right, pretty well know that Yezali one, having seen it, but.",
+      "timing": "00:37:32.550-00:37:37.140",
+      "uid": "u0413"
+    },
+    {
+      "header": "[u0414 | 00:37:37.950-00:37:40.800 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Right any clues that would help find.",
+      "timing": "00:37:37.950-00:37:40.800",
+      "uid": "u0414"
+    },
+    {
+      "header": "[u0415 | 00:37:42.270-00:37:44.700 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "places right is the idea.",
+      "timing": "00:37:42.270-00:37:44.700",
+      "uid": "u0415"
+    },
+    {
+      "header": "[u0416 | 00:37:45.630-00:37:49.350 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Right, I haven't written all of this yet, but also the idea is that.",
+      "timing": "00:37:45.630-00:37:49.350",
+      "uid": "u0416"
+    },
+    {
+      "header": "[u0417 | 00:37:50.970-00:37:55.020 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Kate, the stoneborn, Kate's character, has been to all of these, but.",
+      "timing": "00:37:50.970-00:37:55.020",
+      "uid": "u0417"
+    },
+    {
+      "header": "[u0418 | 00:37:56.070-00:38:02.550 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "We don't need to spend I don't want to spend a ton of time, you know it whatever right like I wasn't really expecting you to say just.",
+      "timing": "00:37:56.070-00:38:02.550",
+      "uid": "u0418"
+    },
+    {
+      "header": "[u0419 | 00:38:03.030-00:38:06.570 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "it's just for particular flavor flavor I will give you.",
+      "timing": "00:38:03.030-00:38:06.570",
+      "uid": "u0419"
+    },
+    {
+      "header": "[u0420 | 00:38:07.020-00:38:13.140 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I'm gonna send a little like here are the battles, just because it might be useful to know a little bit about each battlefield.",
+      "timing": "00:38:07.020-00:38:13.140",
+      "uid": "u0420"
+    },
+    {
+      "header": "[u0421 | 00:38:17.370-00:38:26.250 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So she you know your conversation eventually peters off and before you leave for the camp, the next day.",
+      "timing": "00:38:17.370-00:38:26.250",
+      "uid": "u0421"
+    },
+    {
+      "header": "[u0422 | 00:38:27.900-00:38:30.060 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The Godcaller of this tribe.",
+      "timing": "00:38:27.900-00:38:30.060",
+      "uid": "u0422"
+    },
+    {
+      "header": "[u0423 | 00:38:31.140-00:38:32.280 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I mean all the end.",
+      "timing": "00:38:31.140-00:38:32.280",
+      "uid": "u0423"
+    },
+    {
+      "header": "[u0424 | 00:38:32.520-00:38:37.830 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "All and there's no reason, like is there any sense of urgency, here I mean presumably.",
+      "timing": "00:38:32.520-00:38:37.830",
+      "uid": "u0424"
+    },
+    {
+      "header": "[u0425 | 00:38:37.890-00:38:39.960 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "No there's no rush right like I wouldn't.",
+      "timing": "00:38:37.890-00:38:39.960",
+      "uid": "u0425"
+    },
+    {
+      "header": "[u0426 | 00:38:40.770-00:38:44.640 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "spend day yes yeah I mean, obviously, a few days, but it feels like.",
+      "timing": "00:38:40.770-00:38:44.640",
+      "uid": "u0426"
+    },
+    {
+      "header": "[u0427 | 00:38:45.120-00:38:50.160 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I want to tell a few stories and hear a few stories. I mean I'm no Kenzo, but still like.",
+      "timing": "00:38:45.120-00:38:50.160",
+      "uid": "u0427"
+    },
+    {
+      "header": "[u0428 | 00:38:50.850-00:39:02.520 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Right, it feels a bit like Delwath would want to hear stories, especially Yezali, and you know take just take a day to hang out in the village and like.",
+      "timing": "00:38:50.850-00:39:02.520",
+      "uid": "u0428"
+    },
+    {
+      "header": "[u0429 | 00:39:03.090-00:39:04.320 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Oh yeah that makes sense.",
+      "timing": "00:39:03.090-00:39:04.320",
+      "uid": "u0429"
+    },
+    {
+      "header": "[u0430 | 00:39:04.680-00:39:10.140 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Like just just talk really basically right like from.",
+      "timing": "00:39:04.680-00:39:10.140",
+      "uid": "u0430"
+    },
+    {
+      "header": "[u0431 | 00:39:12.060-00:39:13.560 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Just from sort of.",
+      "timing": "00:39:12.060-00:39:13.560",
+      "uid": "u0431"
+    },
+    {
+      "header": "[u0432 | 00:39:17.190-00:39:23.430 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "getting to know these people in these stories and like you know getting.",
+      "timing": "00:39:17.190-00:39:23.430",
+      "uid": "u0432"
+    },
+    {
+      "header": "[u0433 | 00:39:25.470-00:39:28.230 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "getting to know the new his new.",
+      "timing": "00:39:25.470-00:39:28.230",
+      "uid": "u0433"
+    },
+    {
+      "header": "[u0434 | 00:39:30.210-00:39:32.130 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Yeah, the the the tanshi who.",
+      "timing": "00:39:30.210-00:39:32.130",
+      "uid": "u0434"
+    },
+    {
+      "header": "[u0435 | 00:39:33.000-00:39:33.660 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Are sort of.",
+      "timing": "00:39:33.000-00:39:33.660",
+      "uid": "u0435"
+    },
+    {
+      "header": "[u0436 | 00:39:34.920-00:39:36.000 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Listening to him right.",
+      "timing": "00:39:34.920-00:39:36.000",
+      "uid": "u0436"
+    },
+    {
+      "header": "[u0437 | 00:39:36.030-00:39:42.480 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Like and right just kind of observing their culture, like he's very curious about their culture and sort of feels.",
+      "timing": "00:39:36.030-00:39:42.480",
+      "uid": "u0437"
+    },
+    {
+      "header": "[u0438 | 00:39:43.200-00:39:44.280 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Right in some.",
+      "timing": "00:39:43.200-00:39:44.280",
+      "uid": "u0438"
+    },
+    {
+      "header": "[u0439 | 00:39:44.520-00:39:46.080 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "there's a lot of similarities.",
+      "timing": "00:39:44.520-00:39:46.080",
+      "uid": "u0439"
+    },
+    {
+      "header": "[u0440 | 00:39:46.080-00:39:49.020 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "To the to the Te'kula.",
+      "timing": "00:39:46.080-00:39:49.020",
+      "uid": "u0440"
+    },
+    {
+      "header": "[u0441 | 00:39:49.410-00:40:02.070 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Yeah, right, which where he spent some time. The difference, a lot of the difference that, I mean the religion is very similar, that they they worship different tanshi, some different tanshi, like you know there's more focused on.",
+      "timing": "00:39:49.410-00:40:02.070",
+      "uid": "u0441"
+    },
+    {
+      "header": "[u0442 | 00:40:03.810-00:40:16.740 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "You know they have A'gaza, spirit of the deer and the reindeer and caribou and elk. There's like more fire, like Istari the spirit of the forest fires, and Mo'kati the spirit of like warmth and.",
+      "timing": "00:40:03.810-00:40:16.740",
+      "uid": "u0442"
+    },
+    {
+      "header": "[u0443 | 00:40:18.180-00:40:19.020 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I don't need you to like.",
+      "timing": "00:40:18.180-00:40:19.020",
+      "uid": "u0443"
+    },
+    {
+      "header": "[u0444 | 00:40:19.470-00:40:21.000 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "A whole bunch of lore, but.",
+      "timing": "00:40:19.470-00:40:21.000",
+      "uid": "u0444"
+    },
+    {
+      "header": "[u0445 | 00:40:21.420-00:40:22.260 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "It just right and.",
+      "timing": "00:40:21.420-00:40:22.260",
+      "uid": "u0445"
+    },
+    {
+      "header": "[u0446 | 00:40:23.400-00:40:25.080 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "I think Delwath also feels like.",
+      "timing": "00:40:23.400-00:40:25.080",
+      "uid": "u0446"
+    },
+    {
+      "header": "[u0447 | 00:40:26.700-00:40:27.300 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "The.",
+      "timing": "00:40:26.700-00:40:27.300",
+      "uid": "u0447"
+    },
+    {
+      "header": "[u0448 | 00:40:28.680-00:40:33.960 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Being by himself, he feels more attuned to listening to the culture.",
+      "timing": "00:40:28.680-00:40:33.960",
+      "uid": "u0448"
+    },
+    {
+      "header": "[u0449 | 00:40:34.500-00:40:36.930 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Than he would have in that in the.",
+      "timing": "00:40:34.500-00:40:36.930",
+      "uid": "u0449"
+    },
+    {
+      "header": "[u0450 | 00:40:38.400-00:40:38.820 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "tenant.",
+      "timing": "00:40:38.400-00:40:38.820",
+      "uid": "u0450"
+    },
+    {
+      "header": "[u0451 | 00:40:41.280-00:40:47.580 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Te'kula village where he was more focused on the aftermath of—I mean there was a lot of treasure counting going, right.",
+      "timing": "00:40:41.280-00:40:47.580",
+      "uid": "u0451"
+    },
+    {
+      "header": "[u0452 | 00:40:47.640-00:40:48.600 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Exactly anything's.",
+      "timing": "00:40:47.640-00:40:48.600",
+      "uid": "u0452"
+    },
+    {
+      "header": "[u0453 | 00:40:48.630-00:40:50.670 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Gotta count half a million coins.",
+      "timing": "00:40:48.630-00:40:50.670",
+      "uid": "u0453"
+    },
+    {
+      "header": "[u0454 | 00:40:50.700-00:40:51.540 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Right, it might.",
+      "timing": "00:40:50.700-00:40:51.540",
+      "uid": "u0454"
+    },
+    {
+      "header": "[u0455 | 00:40:51.570-00:40:52.860 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "In neat piles, right.",
+      "timing": "00:40:51.570-00:40:52.860",
+      "uid": "u0455"
+    },
+    {
+      "header": "[u0456 | 00:40:52.980-00:41:00.810 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "there's no there's just more kind of he feels like a little bit on sort of.",
+      "timing": "00:40:52.980-00:41:00.810",
+      "uid": "u0456"
+    },
+    {
+      "header": "[u0457 | 00:41:02.850-00:41:06.240 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "interior journey like it almost feels like a conversion.",
+      "timing": "00:41:02.850-00:41:06.240",
+      "uid": "u0457"
+    },
+    {
+      "header": "[u0458 | 00:41:06.930-00:41:11.940 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Right right so he'd spend a little bit of time like again it doesn't matter from from.",
+      "timing": "00:41:06.930-00:41:11.940",
+      "uid": "u0458"
+    },
+    {
+      "header": "[u0459 | 00:41:13.290-00:41:14.130 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "I don't know.",
+      "timing": "00:41:13.290-00:41:14.130",
+      "uid": "u0459"
+    },
+    {
+      "header": "[u0460 | 00:41:14.160-00:41:19.350 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Any word I mean it's just a few days just kind of maybe a day or two just kind of in the village.",
+      "timing": "00:41:14.160-00:41:19.350",
+      "uid": "u0460"
+    },
+    {
+      "header": "[u0461 | 00:41:20.340-00:41:29.970 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Right, I think that that makes a lot of sense, so before you go this, you know, however long he spent in the village, say I'll say two days, so {{I accurate}}, yeah.",
+      "timing": "00:41:20.340-00:41:29.970",
+      "uid": "u0461"
+    },
+    {
+      "header": "[u0462 | 00:41:32.730-00:41:38.550 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And it's a it's about a day's journey straight down the mountain to the the hunting camp, where you will meet.",
+      "timing": "00:41:32.730-00:41:38.550",
+      "uid": "u0462"
+    },
+    {
+      "header": "[u0463 | 00:41:40.170-00:41:42.960 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The stoneborn and the wildfire druid.",
+      "timing": "00:41:40.170-00:41:42.960",
+      "uid": "u0463"
+    },
+    {
+      "header": "[u0464 | 00:41:45.060-00:41:55.050 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And so Enon, the Godcaller, this like old guy in his 70s, like bushy hair, bushy beard, wearing like long robes, um.",
+      "timing": "00:41:45.060-00:41:55.050",
+      "uid": "u0464"
+    },
+    {
+      "header": "[u0465 | 00:41:56.910-00:42:12.630 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Leaning on a staff, like brings you this set of like shield and armor that he says, you know, if you're going into battle on behalf of the Meswati, going down to the Forest of Nightmares, you should you should take this.",
+      "timing": "00:41:56.910-00:42:12.630",
+      "uid": "u0465"
+    },
+    {
+      "header": "[u0466 | 00:42:14.310-00:42:24.630 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Those were worn by a hero of the Great War, a warrior of the tanshi, and have been waiting to be claimed by somebody who will fight for the silent ones for generations.",
+      "timing": "00:42:14.310-00:42:24.630",
+      "uid": "u0466"
+    },
+    {
+      "header": "[u0467 | 00:42:26.700-00:42:29.520 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Blessed and will aid you in your fight, I believe.",
+      "timing": "00:42:26.700-00:42:29.520",
+      "uid": "u0467"
+    },
+    {
+      "header": "[u0468 | 00:42:31.110-00:42:31.950 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "If you are.",
+      "timing": "00:42:31.110-00:42:31.950",
+      "uid": "u0468"
+    },
+    {
+      "header": "[u0469 | 00:42:33.840-00:42:35.190 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "If you are seeking to.",
+      "timing": "00:42:33.840-00:42:35.190",
+      "uid": "u0469"
+    },
+    {
+      "header": "[u0470 | 00:42:37.440-00:42:41.190 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Free them from their prisons, perhaps they will.",
+      "timing": "00:42:37.440-00:42:41.190",
+      "uid": "u0470"
+    },
+    {
+      "header": "[u0471 | 00:42:42.960-00:42:44.220 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "hear you better.",
+      "timing": "00:42:42.960-00:42:44.220",
+      "uid": "u0471"
+    },
+    {
+      "header": "[u0472 | 00:42:45.720-00:42:46.440 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "With this.",
+      "timing": "00:42:45.720-00:42:46.440",
+      "uid": "u0472"
+    },
+    {
+      "header": "[u0473 | 00:42:49.320-00:43:04.710 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Now armor is, it's like doesn't really look like armor, right, it looks like sort of buckskin and and fur trim, but you see as you look at it there's like very finely carved mithral-ish.",
+      "timing": "00:42:49.320-00:43:04.710",
+      "uid": "u0473"
+    },
+    {
+      "header": "[u0474 | 00:43:05.730-00:43:08.550 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Some whatever they got from the dwarves right there close to the.",
+      "timing": "00:43:05.730-00:43:08.550",
+      "uid": "u0474"
+    },
+    {
+      "header": "[u0475 | 00:43:11.100-00:43:19.050 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Chain links that are like scales that form scale mail but that are sort of blended into the to the hide of the.",
+      "timing": "00:43:11.100-00:43:19.050",
+      "uid": "u0475"
+    },
+    {
+      "header": "[u0476 | 00:43:20.580-00:43:37.200 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Armor, and the shield, there's—I mean you can make up how it's painted, or it's the standard Deno'qai, sort of brightly colored, decorated with an animal motif, probably a fox or a wolf or something like that.",
+      "timing": "00:43:20.580-00:43:37.200",
+      "uid": "u0476"
+    },
+    {
+      "header": "[u0477 | 00:43:38.070-00:43:39.060 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "can't be a fox.",
+      "timing": "00:43:38.070-00:43:39.060",
+      "uid": "u0477"
+    },
+    {
+      "header": "[u0478 | 00:43:41.700-00:43:42.180 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Why not.",
+      "timing": "00:43:41.700-00:43:42.180",
+      "uid": "u0478"
+    },
+    {
+      "header": "[u0479 | 00:43:42.330-00:43:43.320 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Too derivative.",
+      "timing": "00:43:42.330-00:43:43.320",
+      "uid": "u0479"
+    },
+    {
+      "header": "[u0480 | 00:43:44.280-00:43:45.000 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Right cuz.",
+      "timing": "00:43:44.280-00:43:45.000",
+      "uid": "u0480"
+    },
+    {
+      "header": "[u0481 | 00:43:46.380-00:43:48.540 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "You can't have another character as a fox.",
+      "timing": "00:43:46.380-00:43:48.540",
+      "uid": "u0481"
+    },
+    {
+      "header": "[u0482 | 00:43:48.660-00:43:50.790 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "totem animal ah.",
+      "timing": "00:43:48.660-00:43:50.790",
+      "uid": "u0482"
+    },
+    {
+      "header": "[u0483 | 00:43:53.190-00:43:54.840 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Something that hunts in the night, it could.",
+      "timing": "00:43:53.190-00:43:54.840",
+      "uid": "u0483"
+    },
+    {
+      "header": "[u0484 | 00:43:54.840-00:43:55.410 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "yeah.",
+      "timing": "00:43:54.840-00:43:55.410",
+      "uid": "u0484"
+    },
+    {
+      "header": "[u0485 | 00:43:58.860-00:43:59.640 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "A bear.",
+      "timing": "00:43:58.860-00:43:59.640",
+      "uid": "u0485"
+    },
+    {
+      "header": "[u0486 | 00:44:00.540-00:44:11.400 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Bear or, like the other thing I was thinking about was like a mountain lion or a—boy, yeah, that would be good, like like a mountain lion or like a lynx or something like that.",
+      "timing": "00:44:00.540-00:44:11.400",
+      "uid": "u0486"
+    },
+    {
+      "header": "[u0487 | 00:44:11.460-00:44:12.990 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Yeah, bobcat.",
+      "timing": "00:44:11.460-00:44:12.990",
+      "uid": "u0487"
+    },
+    {
+      "header": "[u0488 | 00:44:13.110-00:44:16.770 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Bobcat, I think I think a big cat of some kind is actually.",
+      "timing": "00:44:13.110-00:44:16.770",
+      "uid": "u0488"
+    },
+    {
+      "header": "[u0489 | 00:44:17.520-00:44:17.790 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "that's.",
+      "timing": "00:44:17.520-00:44:17.790",
+      "uid": "u0489"
+    },
+    {
+      "header": "[u0490 | 00:44:18.000-00:44:22.050 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "It feels it feels a little bit I like I like a big cat.",
+      "timing": "00:44:18.000-00:44:22.050",
+      "uid": "u0490"
+    },
+    {
+      "header": "[u0491 | 00:44:23.100-00:44:23.520 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Okay.",
+      "timing": "00:44:23.100-00:44:23.520",
+      "uid": "u0491"
+    },
+    {
+      "header": "[u0492 | 00:44:25.320-00:44:28.920 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "um but it's it's elaborately decorated so it has.",
+      "timing": "00:44:25.320-00:44:28.920",
+      "uid": "u0492"
+    },
+    {
+      "header": "[u0493 | 00:44:33.180-00:44:41.670 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "It has this like face of the of the bobcat on the front, but then it's it's arrayed around the side with a series of.",
+      "timing": "00:44:33.180-00:44:41.670",
+      "uid": "u0493"
+    },
+    {
+      "header": "[u0494 | 00:44:45.000-00:44:48.060 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Bird motifs of crows and ravens and.",
+      "timing": "00:44:45.000-00:44:48.060",
+      "uid": "u0494"
+    },
+    {
+      "header": "[u0495 | 00:44:50.430-00:45:01.770 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Swallows and nighthawks, like this, basically the sort of twilight nighthawks in particular, the like, you know, birds that fly, agile flyers that.",
+      "timing": "00:44:50.430-00:45:01.770",
+      "uid": "u0495"
+    },
+    {
+      "header": "[u0496 | 00:45:01.770-00:45:06.480 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Right, dart around at night, you know hunting insects, and then.",
+      "timing": "00:45:01.770-00:45:06.480",
+      "uid": "u0496"
+    },
+    {
+      "header": "[u0497 | 00:45:07.710-00:45:14.430 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "{{On the enemy}} and then it's like bright, you know, on all of this on background of of.",
+      "timing": "00:45:07.710-00:45:14.430",
+      "uid": "u0497"
+    },
+    {
+      "header": "[u0498 | 00:45:15.450-00:45:25.350 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Of brightly colored brightly colored paint where the birds are very stylized, right, the big cat is like central motif and there's just this ring of stylized birds.",
+      "timing": "00:45:15.450-00:45:25.350",
+      "uid": "u0498"
+    },
+    {
+      "header": "[u0499 | 00:45:36.120-00:45:44.700 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So he gives you these things, and then you set off and then that's where we'll pick up when you come to the camp and meet the other characters on Thursday.",
+      "timing": "00:45:36.120-00:45:44.700",
+      "uid": "u0499"
+    },
+    {
+      "header": "[u0500 | 00:45:44.970-00:45:45.510 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "sounds good.",
+      "timing": "00:45:44.970-00:45:45.510",
+      "uid": "u0500"
+    },
+    {
+      "header": "[u0501 | 00:45:46.350-00:45:50.010 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So mechanically I would say this is mithral scale mail.",
+      "timing": "00:45:46.350-00:45:50.010",
+      "uid": "u0501"
+    },
+    {
+      "header": "[u0502 | 00:45:50.550-00:45:51.120 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "The Armor.",
+      "timing": "00:45:50.550-00:45:51.120",
+      "uid": "u0502"
+    },
+    {
+      "header": "[u0503 | 00:45:51.690-00:45:52.410 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "And then.",
+      "timing": "00:45:51.690-00:45:52.410",
+      "uid": "u0503"
+    },
+    {
+      "header": "[u0504 | 00:45:54.600-00:45:58.470 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Just a straight shield, which then will get magical as you.",
+      "timing": "00:45:54.600-00:45:58.470",
+      "uid": "u0504"
+    },
+    {
+      "header": "[u0505 | 00:46:00.240-00:46:01.200 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Solve things.",
+      "timing": "00:46:00.240-00:46:01.200",
+      "uid": "u0505"
+    },
+    {
+      "header": "[u0506 | 00:46:03.870-00:46:04.170 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Okay.",
+      "timing": "00:46:03.870-00:46:04.170",
+      "uid": "u0506"
+    },
+    {
+      "header": "[u0507 | 00:46:05.490-00:46:05.790 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Okay.",
+      "timing": "00:46:05.490-00:46:05.790",
+      "uid": "u0507"
+    },
+    {
+      "header": "[u0508 | 00:46:05.880-00:46:06.060 | Unknown]",
+      "separator": " ",
+      "speaker": "Unknown",
+      "text": "well.",
+      "timing": "00:46:05.880-00:46:06.060",
+      "uid": "u0508"
+    },
+    {
+      "header": "[u0509 | 00:46:08.760-00:46:13.410 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "So I think yeah let me know if you think of anything but I think I've got everything set.",
+      "timing": "00:46:08.760-00:46:13.410",
+      "uid": "u0509"
+    },
+    {
+      "header": "[u0510 | 00:46:13.800-00:46:14.670 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Okay, Thursday.",
+      "timing": "00:46:13.800-00:46:14.670",
+      "uid": "u0510"
+    },
+    {
+      "header": "[u0511 | 00:46:15.360-00:46:16.710 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "Alright, is complaining.",
+      "timing": "00:46:15.360-00:46:16.710",
+      "uid": "u0511"
+    },
+    {
+      "header": "[u0512 | 00:46:18.990-00:46:19.230 | Delwath]",
+      "separator": " ",
+      "speaker": "Delwath",
+      "text": "him.",
+      "timing": "00:46:18.990-00:46:19.230",
+      "uid": "u0512"
+    },
+    {
+      "header": "[u0513 | 00:46:20.820-00:46:30.450 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "He hasn't responded to my texts, and I said hey do you want me to make a character, or do you want to make a character, I suspect, to text me on Thursday and say hey do you have a character for me.",
+      "timing": "00:46:20.820-00:46:30.450",
+      "uid": "u0513"
+    },
+    {
+      "header": "[u0514 | 00:46:30.660-00:46:31.740 | DM]",
+      "separator": " ",
+      "speaker": "DM",
+      "text": "Right and I'll be like.",
+      "timing": "00:46:30.660-00:46:31.740",
+      "uid": "u0514"
+    }
+  ],
+  "sourceSha256": "cdd478252968c49bdf0cd080e141441e236bcb6afccff0b8e406370b88f4cef4",
+  "stage": "clean"
+}

@@ -436,7 +436,7 @@
 [u0436 | 00:42:16.830-00:42:18.649 | DM] his hands. And
 [u0437 | 00:42:18.900-00:42:22.260 | DM] coming out from the the
 [u0438 | 00:42:23.410-00:42:27.490 | DM] side hall is you see another frost giant?
-[u0439 | 00:42:27.750-00:42:32.730 | DM] 
+[u0439 | 00:42:27.750-00:42:32.730 | DM] ...
 [u0440 | 00:42:33.730-00:42:37.450 | DM] she is somewhat older and
 [u0441 | 00:42:37.710-00:42:51.310 | DM] she kind of walks with her head down a little bit, and you can see one of her arms like is injured somehow. It must have like been broken and not healed properly, or something, cause it like doesn't
 [u0442 | 00:42:51.870-00:42:53.720 | DM] move quite right,
@@ -488,7 +488,7 @@
 [u0488 | 00:46:28.410-00:46:32.179 | Delwath] just weren't we killed I get. Don't remember what what we did.
 [u0489 | 00:46:32.210-00:46:33.810 | Delwath] I should go back.
 [u0490 | 00:46:34.000-00:46:36.430 | DM] I don't remember if you I don't think you
-[u0491 | 00:46:39.320-00:46:49.030 | DM] he told you where the {{armbed}} was that right find? And you went and you killed some hobgoblins he was pissed at. But then you had this whole crazy plan to like
+[u0491 | 00:46:39.320-00:46:49.030 | DM] he told you where the armband was that right find? And you went and you killed some hobgoblins he was pissed at. But then you had this whole crazy plan to like
 [u0492 | 00:46:49.090-00:46:52.899 | DM] drop the entire army and all of those banishing stuff. And
 [u0493 | 00:46:53.240-00:46:54.120 | Delwath] alrighty.
 [u0494 | 00:46:54.750-00:47:03.279 | Delwath] But I'll mention that right, and also the devil that That was a pretty big devil is another.
@@ -549,7 +549,7 @@
 [u0549 | 00:52:45.950-00:52:52.450 | DM] remorhaz like ice sort of insect giant insect, like creatures that are.
 [u0550 | 00:52:53.000-00:52:56.139 | DM] They're like a standard. D&D monster.
 [u0551 | 00:52:56.620-00:52:59.180 | Seeker] Do do we know about these things. Oh, boy.
-[u0552 | 00:52:59.650-00:53:05.330 | DM] 
+[u0552 | 00:52:59.650-00:53:05.330 | DM] ...
 [u0553 | 00:53:09.540-00:53:11.520 | DM] Did you see that in?
 [u0554 | 00:53:13.510-00:53:19.509 | DM] Roll20. That's kind of what they look like they're like, centipede. They're like many legged ice creatures that
 [u0555 | 00:53:19.730-00:53:32.739 | DM] like run around and then have these giant jaws. They they are also like ambush. And it's fighting like 3 of those at once.
@@ -783,7 +783,7 @@
 [u0783 | 01:14:53.120-01:14:59.059 | DM] Some other giants begin to file in to apparently
 [u0784 | 01:14:59.070-01:15:01.400 | DM] sit and eat
 [u0785 | 01:15:03.790-01:15:11.230 | DM] the and they all like. There's 6 of them now, and no none that have you that you've seen before, like
-[u0786 | 01:15:11.360-01:15:13.880 | DM] 
+[u0786 | 01:15:11.360-01:15:13.880 | DM] ...
 [u0787 | 01:15:14.350-01:15:16.940 | DM] 2 women, another man.
 [u0788 | 01:15:17.040-01:15:19.290 | DM] and then 2.
 [u0789 | 01:15:20.070-01:15:27.269 | DM] What look like giant kids like twin boys who are maybe 10 feet tall. So they're like.
@@ -793,7 +793,7 @@
 [u0793 | 01:15:48.600-01:15:50.309 | DM] Let's welcome our guests.
 [u0794 | 01:15:51.120-01:15:52.420 | Unknown] and everybody comes
 [u0795 | 01:15:53.570-01:15:57.180 | DM] down and kind of gives a weak smile.
-[u0796 | 01:15:57.360-01:16:02.480 | DM] 
+[u0796 | 01:15:57.360-01:16:02.480 | DM] ...
 [u0797 | 01:16:08.750-01:16:16.590 | DM] So you they kind of set. Everything's kind of set up. The giants are all just kind of talking to each other, kind of loud, boisterous.
 [u0798 | 01:16:16.660-01:16:21.540 | DM] They're not really sitting down to any organized meal. They're just like ripping
 [u0799 | 01:16:21.590-01:16:23.760 | DM] pieces of meat off of the
@@ -1469,7 +1469,7 @@
 [u1469 | 02:16:41.389-02:16:44.279 | DM] Two elk. Look at you!
 [u1470 | 02:16:44.510-02:16:47.520 | DM] in surprise.
 [u1471 | 02:16:48.200-02:16:53.949 | DM] Kind of look back at each other and Wellby gets the jump
-[u1472 | 02:16:54.610-02:17:05.520 | Wellby] right. I am going to take steady aim. Use a {{honed scare}} arrow. So I'm gonna add one to this roll and use all 4 charges of the fire and just hit it with everything I have.
+[u1472 | 02:16:54.610-02:17:05.520 | Wellby] right. I am going to take steady aim. Use a honed Skaer arrow. So I'm gonna add one to this roll and use all 4 charges of the fire and just hit it with everything I have.
 [u1473 | 02:17:05.549-02:17:13.999 | DM] Okay, you're 70 feet away. So you're still outside of your oh, no, it's 80 feet. Is your long range. Okay, perfect.
 [u1474 | 02:17:15.680-02:17:16.750 | DM] Go for it.
 [u1475 | 02:17:18.360-02:17:20.220 | Delwath] And where do we say for our hats?
@@ -1703,7 +1703,7 @@
 [u1703 | 02:36:19.460-02:36:20.400 | DM] Okay.
 [u1704 | 02:36:20.890-02:36:24.719 | Delwath] where are you standing? Are you taking Steady Aim flying?
 [u1705 | 02:36:24.840-02:36:26.450 | Wellby] Yeah. Okay.
-[u1706 | 02:36:29.190-02:36:35.870 | Wellby] as 20, actually, because I'm using {{scare}} 20 hits. Yep. So
+[u1706 | 02:36:29.190-02:36:35.870 | Wellby] as 20, actually, because I'm using Skaer 20 hits. Yep. So
 [u1707 | 02:36:36.330-02:36:40.960 | Delwath] Did Kenzo say whether it was immune to being blinded?
 [u1708 | 02:36:42.280-02:36:51.149 | DM] 30. It is not immune to the blinded condition. It does spend a lot of time burrowing underground
 [u1709 | 02:36:53.170-02:36:57.499 | Seeker] sunbeam, it would have been blinded.
@@ -1874,7 +1874,7 @@
 [u1874 | 02:50:36.480-02:50:37.250 | Riswynn] Hmm!
 [u1875 | 02:50:38.450-02:50:39.789 | Kenzo] How many hit points do you have left?
 [u1876 | 02:50:40.020-02:50:50.159 | Riswynn] 30? So if it doesn't roll as well in its acidness or something. Maybe I'll only take 29 next time Wellby's up, maybe. Wellby'll kill it.
-[u1877 | 02:50:52.520-02:50:57.359 | Wellby] Yeah, maybe. I'll take steady aim with the another {{scary}} arrow, and
+[u1877 | 02:50:52.520-02:50:57.359 | Wellby] Yeah, maybe. I'll take steady aim with the another Skaer arrow, and
 [u1878 | 02:50:59.190-02:51:02.689 | Wellby] and 21 that hits 21 hits. Yep.
 [u1879 | 02:51:05.590-02:51:10.570 | Wellby] that's 40. That's pretty good, but not quite enough to kill it.
 [u1880 | 02:51:10.820-02:51:15.219 | DM] But as you as you hit it, what is that damage total?
