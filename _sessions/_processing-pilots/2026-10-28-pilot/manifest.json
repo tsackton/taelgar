@@ -37,7 +37,7 @@
       "sessionNumber": 53,
       "purpose": "short Dunmar transcript",
       "branch": "cloud/transcript-pilot-20261028-dufr-053",
-      "status": "running",
+      "status": "awaiting_manual_review",
       "chatId": "01a1849d-4b2a-72a1-b985-4135d537b02a",
       "launchedAt": null,
       "model": "gpt-6-astra",
@@ -61,15 +61,71 @@
         "sources/dunmar-frontier-session053.yaml": "92bff204679edaea80d9fef7a84e44485e0df791e916ae794aaf6cf018320bda",
         "sources/zoom-session-053.speaker_mapping.json": "8ad2ce32bcf6d24f53bfdc47adaa44f658732a33eae0dffe185dae911639235e"
       },
-      "workerCommit": null,
-      "integrationCommit": null,
-      "result": null,
+      "workerCommit": "73db0ff1147cd8f78eae9dc0c20cdaf99dcdb59b",
+      "integrationCommit": "1790d3137b4ed856e4848ab1357731db25163ec2",
+      "result": {
+        "outcome": "needs_manual_review",
+        "helperStatus": {
+          "bundle": "/workspace/taelgar/_sessions/dunmar-frontier/dunmari-frontier-053",
+          "status": "needs_manual_review",
+          "finalized": false,
+          "outputsCurrent": true,
+          "units": 531,
+          "pending": {
+            "clean": [],
+            "polish": [],
+            "quality": []
+          },
+          "pendingMaterialIssues": 4,
+          "pendingMaterialGroups": 4,
+          "issues": 4,
+          "displaySubstitutions": 11,
+          "artifacts": {
+            "cleaned": "cleaned/dunmari-frontier-053-source-cleaned.md",
+            "entities": "cleaned/dunmari-frontier-053-transcript-entities.json",
+            "original": "sources/GMT20220731-013835_Recording.transcript.vtt",
+            "polishedHtml": "cleaned/dunmari-frontier-053-transcript.html",
+            "polishedJson": "cleaned/dunmari-frontier-053-transcript.json",
+            "polishedMarkdown": "cleaned/dunmari-frontier-053-transcript.md",
+            "prepared": "cleaned/dunmari-frontier-053-source-prepared.md",
+            "review": "cleaned/dunmari-frontier-053-transcript-review.md",
+            "sessionMetadata": "cleaned/dunmari-frontier-053-session.yaml"
+          }
+        },
+        "changedPaths": 86,
+        "verifiedOriginalAndPreparedUnchanged": true,
+        "preservedExistingFiles": 11,
+        "stageRecords": {
+          "clean": 4,
+          "polish": 4,
+          "quality": 4
+        },
+        "historyStageCounts": {
+          "clean": 4,
+          "polish": 6,
+          "quality": 5
+        },
+        "validatedPolishCoverage": true,
+        "pendingTransactionCount": 0,
+        "reviewPath": "_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-transcript-review.md",
+        "verificationLimit": "Helper signatures and coverage plus artifact/editorial inspection passed; these do not establish audio verification.",
+        "whitespaceNote": "Only harmless generated review-sheet blank line at EOF; preserved under repository instructions."
+      },
       "threadId": "01a1849d-4b2a-72a1-b985-4135d537b02a",
       "turnId": "01a1849d-544f-734b-aff5-20f7ea86f664",
       "admissionOutcome": "started",
       "attachmentMessageId": "33d03f65db7481a28982700f24e1cffa~33d03f65db7481a28982700f24e1cffa~CalpicoMessage~Sentinel_1da3658a7f8c81918021ce1b78d38d83",
       "launchRecordedAt": "2026-10-28T22:26:43Z",
-      "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied."
+      "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied.",
+      "timing": {
+        "parentObservedLaunchAt": "2026-10-28T22:24:18Z",
+        "parentObservedTerminalAt": "2026-10-28T22:36:43Z",
+        "parentObservedWallClockSeconds": 745,
+        "workerReportedElapsedMinutes": 47,
+        "workerReportedElapsedTrusted": false,
+        "sourceRecordingDurationSeconds": 2843.28,
+        "discrepancy": "Worker estimate conflicts with parent wall clock. About 47 minutes matches recording length; conflation is possible but unconfirmed. Use parent wall clock for pilot timing."
+      }
     },
     {
       "workerId": "dufr-139",
@@ -244,7 +300,7 @@
       "sessionNumber": 5,
       "purpose": "later Mawar session",
       "branch": "cloud/transcript-pilot-20261028-mawar-005",
-      "status": "running",
+      "status": "processing_blocked",
       "chatId": "01a1849e-1612-7139-8f7f-88984e68a00d",
       "launchedAt": null,
       "model": "gpt-6-astra",
@@ -268,13 +324,27 @@
       },
       "workerCommit": null,
       "integrationCommit": null,
-      "result": null,
+      "result": {
+        "outcome": "processing_blocked",
+        "source": "parent-reported terminal diagnosis; checkpoint not yet integrated by coordinator",
+        "reason": "Unchanged attribution overlays reorder during clean submissions; order-sensitive signatures alternately stale adjacent chunks 001/002. Polish/export blocked.",
+        "pendingClean": [
+          "chunk-001 or chunk-002 alternately stale"
+        ],
+        "pendingPolish": 14,
+        "pendingQuality": 14,
+        "units": 2755,
+        "manualReviewCompletionClaim": false,
+        "fixAuthorization": "pending; no helper code changed"
+      },
       "threadId": "01a1849e-1612-7139-8f7f-88984e68a00d",
       "turnId": "01a1849e-1dec-71a0-b07d-81345b8ed00f",
       "admissionOutcome": "started",
       "attachmentMessageId": "33d03f65db7481a28982700f24e1cffa~33d03f65db7481a28982700f24e1cffa~CalpicoMessage~Sentinel_35d014c91ca081918bdf0d6447e4b429",
       "launchRecordedAt": "2026-10-28T22:26:43Z",
-      "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied."
+      "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied.",
+      "reportedWorkerCommit": "27969565aab13419584565cc8ee3245a8b03d6d3",
+      "reportedPublicationVerifiedBy": "parent"
     },
     {
       "workerId": "lablost-001",
@@ -466,7 +536,7 @@
       "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied."
     }
   ],
-  "controllerUpdatedAt": "2026-10-28T22:28:53Z",
+  "controllerUpdatedAt": "2026-10-28T22:40:57Z",
   "pullRequest": {
     "number": 39,
     "url": "https://github.com/tsackton/taelgar/pull/39",
@@ -511,5 +581,13 @@
     "pilotBundleFingerprintsUnchanged": true,
     "skillFilesUnchanged": true,
     "launchAuthorized": false
+  },
+  "pilotProgress": {
+    "launched": 10,
+    "running": 8,
+    "awaitingManualReview": 1,
+    "processingBlocked": 1,
+    "integrated": 1,
+    "finalized": 0
   }
 }
