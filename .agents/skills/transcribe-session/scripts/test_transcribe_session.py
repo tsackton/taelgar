@@ -147,6 +147,65 @@ class TranscribeSessionTests(unittest.TestCase):
         self.assertEqual(key, "standard-env-key")
         self.assertEqual(source, "environment:ELEVENLABS_API_KEY")
 
+    def test_api_key_uses_default_dotenv_independently_of_working_directory(self) -> None:
+        for name in (MODULE.STANDARD_KEY_NAME, MODULE.LEGACY_KEY_NAME):
+            with self.subTest(name=name), tempfile.TemporaryDirectory() as raw_dir:
+                root = Path(raw_dir).resolve()
+                working_dir = root / "recordings" / "transcription"
+                working_dir.mkdir(parents=True)
+                (working_dir / ".env").write_text(f"{name}=wrong-key\n", encoding="utf-8")
+                env_file = root / "RPGs" / "taelgar-utils" / ".env"
+                env_file.parent.mkdir(parents=True)
+                env_file.write_text(
+                    f'export {name}="test-${{LITERAL}}-key" # API key\n',
+                    encoding="utf-8",
+                )
+                env_file.chmod(0o600)
+                with mock.patch.dict(
+                    os.environ,
+                    {MODULE.STANDARD_KEY_NAME: "", MODULE.LEGACY_KEY_NAME: ""},
+                ), mock.patch("os.getcwd", return_value=str(working_dir)), mock.patch.object(
+                    MODULE, "DEFAULT_ENV_FILE", env_file
+                ):
+                    key, source = MODULE.resolve_api_key(required=True)
+                    self.assertEqual(key, "test-${LITERAL}-key")
+                    self.assertEqual(source, f"env-file:{env_file}:{name}")
+                    self.assertEqual(os.environ[name], "")
+
+    def test_legacy_environment_key_precedes_default_dotenv(self) -> None:
+        with mock.patch.dict(
+            os.environ,
+            {MODULE.STANDARD_KEY_NAME: "", MODULE.LEGACY_KEY_NAME: "legacy-env-key"},
+        ), mock.patch.object(MODULE, "parse_env_file") as parse_env:
+            key, source = MODULE.resolve_api_key(required=True)
+        self.assertEqual(key, "legacy-env-key")
+        self.assertEqual(source, "environment:ELEVEN_LABS_API")
+        parse_env.assert_not_called()
+
+    def test_missing_dotenv_key_is_optional_only_for_dry_run(self) -> None:
+        with tempfile.TemporaryDirectory() as raw_dir, mock.patch.dict(
+            os.environ,
+            {MODULE.STANDARD_KEY_NAME: "", MODULE.LEGACY_KEY_NAME: ""},
+        ), mock.patch.object(MODULE, "DEFAULT_ENV_FILE", Path(raw_dir) / "missing.env"):
+            self.assertEqual(MODULE.resolve_api_key(required=False), (None, None))
+            with self.assertRaisesRegex(MODULE.TranscriptionError, "provide a .env file path with --env-file"):
+                MODULE.resolve_api_key(required=True)
+
+    def test_explicit_env_file_overrides_default(self) -> None:
+        with tempfile.TemporaryDirectory() as raw_dir:
+            root = Path(raw_dir)
+            default = root / "default.env"
+            alternate = root / "alternate.env"
+            for path, key in [(default, "default-key"), (alternate, "alternate-key")]:
+                path.write_text(f"ELEVENLABS_API_KEY={key}\n", encoding="utf-8")
+                path.chmod(0o600)
+            with mock.patch.dict(
+                os.environ,
+                {MODULE.STANDARD_KEY_NAME: "", MODULE.LEGACY_KEY_NAME: ""},
+            ), mock.patch.object(MODULE, "DEFAULT_ENV_FILE", default):
+                key, _ = MODULE.resolve_api_key(alternate, required=True)
+                self.assertEqual(key, "alternate-key")
+
     def test_curl_receives_api_key_on_stdin_not_in_process_arguments(self) -> None:
         completed = mock.Mock(returncode=0, stdout="200", stderr="")
         with mock.patch.object(MODULE.shutil, "which", return_value="/usr/bin/curl"), mock.patch.object(
@@ -219,6 +278,9 @@ class TranscribeSessionTests(unittest.TestCase):
             keyterms = root / "keyterms.txt"
             keyterms.write_text("Taelgar\nHeartroot Vale\n", encoding="utf-8")
             output_dir = root / "output"
+            env_file = root / ".env"
+            env_file.write_text("ELEVENLABS_API_KEY=test-secret-key\n", encoding="utf-8")
+            env_file.chmod(0o600)
 
             def fake_curl(**kwargs: object) -> int:
                 self.assertEqual(kwargs["api_key"], "test-secret-key")
@@ -241,9 +303,13 @@ class TranscribeSessionTests(unittest.TestCase):
 
             with mock.patch.dict(
                 os.environ,
-                {"ELEVENLABS_API_KEY": "test-secret-key", "ELEVEN_LABS_API": ""},
+                {"ELEVENLABS_API_KEY": "", "ELEVEN_LABS_API": ""},
                 clear=False,
             ), mock.patch.object(
+                MODULE, "DEFAULT_ENV_FILE", env_file
+            ), mock.patch(
+                "sys.stdout", new_callable=io.StringIO
+            ) as stdout, mock.patch.object(
                 MODULE, "invoke_curl", side_effect=fake_curl
             ), mock.patch.object(
                 MODULE,
@@ -266,6 +332,7 @@ class TranscribeSessionTests(unittest.TestCase):
                 )
 
             self.assertEqual(result, 0)
+            self.assertNotIn("test-secret-key", stdout.getvalue())
             expected_files = [
                 output_dir / "Session-Test.scribe-v2.json",
                 output_dir / "Session-Test.transcript.vtt",
@@ -306,6 +373,8 @@ class TranscribeSessionTests(unittest.TestCase):
                 os.environ,
                 {"ELEVENLABS_API_KEY": "", "ELEVEN_LABS_API": ""},
                 clear=False,
+            ), mock.patch.object(
+                MODULE, "DEFAULT_ENV_FILE", root / "missing.env"
             ), mock.patch.object(
                 MODULE,
                 "resolve_clip_backend",
@@ -465,6 +534,8 @@ class TranscribeSessionTests(unittest.TestCase):
                     os.environ,
                     {"ELEVENLABS_API_KEY": "", "ELEVEN_LABS_API": ""},
                     clear=False,
+                ), mock.patch.object(
+                    MODULE, "DEFAULT_ENV_FILE", root / "missing.env"
                 ), mock.patch.object(
                     MODULE,
                     "resolve_clip_backend",

@@ -62,9 +62,11 @@ The script resolves the key in this order:
 
 1. `ELEVENLABS_API_KEY` in the process environment;
 2. legacy `ELEVEN_LABS_API` in the process environment;
-3. either name in a user-supplied `--env-file` outside the vault.
+3. either name in `~/RPGs/taelgar-utils/.env`, loaded automatically by `python-dotenv`. An optional `--env-file` overrides this default.
 
-The environment takes precedence over an env file. The env file parser accepts optional `export`, comments, and quoted values without expanding shell expressions. If no key is available, stop before uploading and explain how to set `ELEVENLABS_API_KEY` or pass `--env-file`. Do not inspect or print the key itself.
+The environment takes precedence over an env file. Keep the env file outside the vault. `python-dotenv` accepts optional `export`, comments, and quoted values; interpolation is disabled. When an env file is needed, check whether `~/RPGs/taelgar-utils/.env` exists. If it is missing, ask the user for the path to their `.env` file and pass that path with `--env-file`; do not search other directories or ask for the key itself. If the selected file lacks a key, ask for a corrected or alternate `.env` path before uploading. Dry runs and local recovery can proceed without credentials. Do not inspect or print the key itself.
+
+The system Python needs `PyYAML` and `python-dotenv` (`python3 -m pip install PyYAML python-dotenv`).
 
 ## Run the script
 
@@ -83,7 +85,7 @@ python3 .agents/skills/transcribe-session/scripts/transcribe_session.py \
 For the authorized run, replace `--dry-run` with:
 
 ```text
---confirm-upload --env-file "/absolute/path/outside-the-vault/.env"
+--confirm-upload
 ```
 
 `--keyterms` is optional. Use repeatable `--keyterm` arguments only for a small
