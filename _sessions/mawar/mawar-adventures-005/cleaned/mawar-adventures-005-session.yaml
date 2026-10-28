@@ -42,3 +42,139 @@ participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documen
 preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-source-prepared.md
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/mawar/mawar-adventures-005/cleaned/mawar-adventures-005-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2755
+  issues: 0
+  artifacts:
+    original:
+      path: sources/GMT20260311-003858_Recording.transcript.vtt
+      sha256: 19016c9f19f0f23bfecc1edeeeeb17fd14af347965f65f8b169e95d1d44c5799
+    prepared:
+      path: cleaned/mawar-adventures-005-source-prepared.md
+      sha256: 562dbd9a41db9d943b7ea8285be791c897abf49e62cf712dae98cf0b879555f1
+    cleaned:
+      path: cleaned/mawar-adventures-005-source-cleaned.md
+      sha256: e3de525a53c9c457d17b7c4dc91d80fa4c2cc64b06a61634ab7006a448d3701f
+    polishedMarkdown:
+      path: cleaned/mawar-adventures-005-transcript.md
+      sha256: 08d3d86e3c27c5b928c1fe056f326a0ca6aeaf1b62bbf65b03dc4a60617b5916
+  speakerCorrections:
+  - uid: u1720
+    start: 0
+    end: 26
+    speaker: Ryu
+  - uid: u1722
+    start: 0
+    end: 18
+    speaker: Ryu
+  - uid: u1847
+    start: 0
+    end: 18
+    speaker: Wazir
+  - uid: u1958
+    start: 0
+    end: 62
+    speaker: Nerissa
+  - uid: u2368
+    start: 0
+    end: 22
+    speaker: Trok
+  - uid: u0127
+    start: 0
+    end: 49
+    speaker: Ryu
+  - uid: u0129
+    start: 0
+    end: 114
+    speaker: Ryu
+  - uid: u0130
+    start: 0
+    end: 172
+    speaker: Ryu
+  - uid: u0142
+    start: 0
+    end: 20
+    speaker: Nerissa
+  - uid: u0144
+    start: 0
+    end: 49
+    speaker: Nerissa
+  - uid: u0146
+    start: 0
+    end: 3
+    speaker: Nerissa
+  - uid: u0148
+    start: 0
+    end: 5
+    speaker: Nerissa
+  - uid: u0150
+    start: 0
+    end: 23
+    speaker: Nerissa
+  - uid: u0152
+    start: 0
+    end: 23
+    speaker: Nerissa
+  - uid: u0158
+    start: 0
+    end: 40
+    speaker: Ander
+  - uid: u0160
+    start: 0
+    end: 45
+    speaker: Ander
+  - uid: u0163
+    start: 0
+    end: 130
+    speaker: Ander
+  - uid: u0165
+    start: 0
+    end: 23
+    speaker: Ander
+  - uid: u0167
+    start: 0
+    end: 29
+    speaker: Ander
+  - uid: u0169
+    start: 0
+    end: 17
+    speaker: Trok
+  - uid: u0250
+    start: 0
+    end: 11
+    speaker: DM
+  - uid: u0389
+    start: 0
+    end: 16
+    speaker: Ander
+  - uid: u0973
+    start: 0
+    end: 19
+    speaker: Trok
+  - uid: u0975
+    start: 0
+    end: 54
+    speaker: Trok
+  - uid: u0979
+    start: 0
+    end: 21
+    speaker: Trok
+  - uid: u2043
+    start: 0
+    end: 30
+    speaker: Ander
+  - uid: u2072
+    start: 0
+    end: 52
+    speaker: Ander
+  - uid: u2488
+    start: 0
+    end: 73
+    speaker: Ryu
+  - uid: u2519
+    start: 0
+    end: 37
+    speaker: Ander
