@@ -1,4 +1,4 @@
-[u0001 | 00:00:02.909-00:00:16.619 | DM] Okay, so short intro as you are leaving the village have to have the Te'kula, following Theba and your friends back to the material world, keenly aware of the tanshi that seemed to hover just beyond your senses.
+[u0001 | 00:00:02.909-00:00:16.619 | DM] Okay, so short intro as you are leaving the village of, of the Te'kula, following Theba and your friends back to the material world, keenly aware of the tanshi that seemed to hover just beyond your senses.
 [u0002 | 00:00:18.359-00:00:35.520 | DM] You can almost feel the hand of Aasimti holding this place hidden in light and shadow. The path seems to splinter and shift, as if seen through blinking, broken glass, and you sense the work of Birich'iko, the spirit of glass, in your vision.
 [u0003 | 00:00:36.630-00:00:47.790 | DM] You feel rain on your face, the water soaking into the ground, and for a moment you sense the presence of Ch'ik'a as you almost feel the squashing of mud on your bare feet, through your armored boots.
 [u0004 | 00:00:49.950-00:01:05.340 | DM] As you walk distracted by your newfound awareness of the spirits that flit around you, suddenly your—when your vision is pulled back to your friends in a jumbled collection of images, as the pocket dimension collapses: a ship approaching a jagged coastline.
@@ -88,7 +88,7 @@
 [u0088 | 00:08:36.270-00:08:40.500 | DM] You speak of distant lands and myths and legends.
 [u0089 | 00:08:43.710-00:08:44.190 | DM] I am.
 [u0090 | 00:08:47.370-00:08:49.890 | DM] What what brings you to these woods.
-[u0091 | 00:08:53.400-00:09:03.690 | Delwath] 90 to find the gods that you—sorry, I should have—I was looking at my email for the—okay, I didn't change anything from the email I sent about the riskin, right? Those four gods at the bottom are the four gods.
+[u0091 | 00:08:53.400-00:09:03.690 | Delwath] I need to find the gods that you—sorry, I should have—I was looking at my email for the—okay, I didn't change anything from the email I sent about the reskin, right? Those four gods at the bottom are the four gods.
 [u0092 | 00:09:03.720-00:09:04.860 | Delwath] yeah that okay.
 [u0093 | 00:09:04.950-00:09:05.160 | Unknown] yeah.
 [u0094 | 00:09:12.330-00:09:13.950 | Delwath] So Delwath will say.
@@ -149,7 +149,7 @@
 [u0149 | 00:13:49.020-00:13:58.560 | Delwath] Has any of them traveled far enough to have any way of sort of positioning us like how far north like even which direction we are from.
 [u0150 | 00:14:00.150-00:14:00.480 | Delwath] Ainu.
 [u0151 | 00:14:00.510-00:14:04.350 | DM] Yeah, everything there, Ainumarya's to the south.
-[u0152 | 00:14:04.800-00:14:23.010 | DM] A fair bit to the south, they are, and as you know, they they somebody draws like a crude map, just the mountain, the central mountains, and then draws the little chain of volcanoes that is Pandar, and you are like {{200 miles south}} of Pandar. You're like way to the north.
+[u0152 | 00:14:04.800-00:14:23.010 | DM] A fair bit to the south, they are, and as you know, they they somebody draws like a crude map, just the mountain, the central mountains, and then draws the little chain of volcanoes that is Pandar, and you are like 200 miles south of Pandar. You're like way to the north.
 [u0153 | 00:14:24.150-00:14:29.400 | Delwath] I want to I mean at some point, maybe in the night but or maybe just this guy.
 [u0154 | 00:14:30.420-00:14:34.710 | Delwath] Delwath will express some curiosity and stories of how they survived the Great War.
 [u0155 | 00:14:36.210-00:14:37.830 | Delwath] They must have myths and legends.
@@ -178,7 +178,7 @@
 [u0178 | 00:17:02.280-00:17:03.060 | DM] now before us.
 [u0179 | 00:17:04.500-00:17:17.340 | DM] But the best hunting is, you know, once you get down out of the high mountains, like where that—once you get down to where the birches and maples are, and so they'll set these hunting camps in the fall and.
 [u0180 | 00:17:18.960-00:17:24.330 | DM] Hunt and preserve meat and then retreat back to the villages after a week.
-[u0181 | 00:17:24.600-00:17:30.420 | Delwath] Is the Forest of Nightmares {{where Ainumarya was in the forest}}?
+[u0181 | 00:17:24.600-00:17:30.420 | Delwath] Is the Forest of Nightmares where Ainumarya was in the forest?
 [u0182 | 00:17:30.630-00:17:31.470 | DM] No, no, no.
 [u0183 | 00:17:31.860-00:17:34.530 | DM] way to the south South this is this is.
 [u0184 | 00:17:35.430-00:17:42.390 | DM] further north it's it's much further north it's like 500 miles north.
@@ -199,8 +199,8 @@
 [u0199 | 00:18:47.400-00:18:49.740 | Delwath] North that they that that empire isn't.
 [u0200 | 00:18:49.890-00:18:56.460 | DM] anywhere close to them like the the most of the trade, they have is actually like with them.
 [u0201 | 00:18:57.780-00:19:08.490 | DM] I mean if they're trading with anybody it's with the stoneborn, the like weird northern dwarves who live this far to the north, and then the kenku, because right on the other side of the mountains from here is the vast open.
-[u0202 | 00:19:09.150-00:19:11.640 | DM] Plains that {{word but kinky let up}}, so.
-[u0203 | 00:19:12.960-00:19:26.670 | DM] Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the {{hours}}, like 400, 500 years ago, until {{some up looped in}} and wiped everything out.
+[u0202 | 00:19:09.150-00:19:11.640 | DM] Plains that where the kenku live, so.
+[u0203 | 00:19:12.960-00:19:26.670 | DM] Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the {{hours}}, like 400, 500 years ago, until Cha'mutte moved in and wiped everything out.
 [u0204 | 00:19:28.530-00:19:34.140 | DM] So you got that sort of story from this young boy Zevi who's guiding you.
 [u0205 | 00:19:36.060-00:19:37.170 | DM] And when you arrive.
 [u0206 | 00:19:38.430-00:19:46.950 | DM] You know, a couple days after landing in the village, it's reminiscent in a lot of ways of the Deno'qai villages in the wood, it's the.
@@ -219,13 +219,13 @@
 [u0219 | 00:21:22.110-00:21:23.940 | Delwath] I guess, we spent a lot of time and.
 [u0220 | 00:21:24.840-00:21:27.240 | Delwath] We spent a long time at the Te'kula village too.
 [u0221 | 00:21:27.570-00:21:28.080 | DM] You spent.
-[u0222 | 00:21:28.110-00:21:29.550 | DM] 10 days in {{Mexico}} and.
+[u0222 | 00:21:28.110-00:21:29.550 | DM] 10 days in the Te'kula and.
 [u0223 | 00:21:29.700-00:21:34.320 | Delwath] That's actually bad, I really wanted to get down to Grash before he defeated those two.
 [u0224 | 00:21:35.160-00:21:35.460 | Delwath] Oh well.
 [u0225 | 00:21:36.180-00:21:37.500 | DM] He hasn't defeated them yet.
-[u0226 | 00:21:37.830-00:21:39.390 | DM] Well, but {{we probably hear me}}.
-[u0227 | 00:21:41.280-00:21:43.530 | Delwath] {{Now said me}} mid-fall, didn't he?
-[u0228 | 00:21:44.190-00:21:52.830 | DM] That's what he said, like in June, right, when you {{strike them}} most recently, he was like, well, we don't have enough troops.
+[u0226 | 00:21:37.830-00:21:39.390 | DM] Well, but we probably hear me.
+[u0227 | 00:21:41.280-00:21:43.530 | Delwath] No, he said mid-fall, didn't he?
+[u0228 | 00:21:44.190-00:21:52.830 | DM] That's what he said, like in June, right, when you scryed him most recently, he was like, well, we don't have enough troops.
 [u0229 | 00:21:52.860-00:21:55.110 | Delwath] Right right right right okay.
 [u0230 | 00:21:55.980-00:21:57.120 | DM] So you might have some time.
 [u0231 | 00:21:57.390-00:21:58.710 | Delwath] yeah anyway.
@@ -264,7 +264,7 @@
 [u0264 | 00:25:16.830-00:25:19.650 | Delwath] It is what sent me to the prison where I was imprisoned.
 [u0265 | 00:25:22.500-00:25:24.060 | Delwath] A prison perhaps is.
 [u0266 | 00:25:25.920-00:25:32.040 | Delwath] The armies, I was fighting it was a pathway a door to a place where they could travel quickly.
-[u0267 | 00:25:37.230-00:25:44.310 | DM] This one was destroyed {{more than a year ago now August, the past summer}}.
+[u0267 | 00:25:37.230-00:25:44.310 | DM] This one was destroyed more than a year ago now August, the past summer.
 [u0268 | 00:25:48.420-00:25:50.310 | DM] There was a is.
 [u0269 | 00:25:51.720-00:25:54.450 | DM] A man, one of our Deno'qai, a.
 [u0270 | 00:25:56.400-00:26:04.620 | DM] Man blessed by the spirit of Istari, the tanshi of forest fires, who can control the flames, and he passed through inside and.
@@ -357,8 +357,8 @@
 [u0357 | 00:33:35.940-00:33:38.100 | DM] This this one that.
 [u0358 | 00:33:41.160-00:33:41.910 | DM] This one that.
 [u0359 | 00:33:43.440-00:33:44.160 | DM] trapped.
-[u0360 | 00:33:45.630-00:33:52.200 | DM] {{Oh ma}}, the warrior who you say may be wandering lost somewhere far across the world.
-[u0361 | 00:33:53.910-00:33:59.610 | DM] Which by the way, now I have to convince somebody to play {{oh my}} for the Wellby one-shot.
+[u0360 | 00:33:45.630-00:33:52.200 | DM] Ohma, the warrior who you say may be wandering lost somewhere far across the world.
+[u0361 | 00:33:53.910-00:33:59.610 | DM] Which by the way, now I have to convince somebody to play Ohma for the Wellby one-shot.
 [u0362 | 00:34:00.600-00:34:01.770 | Delwath] That'd actually be kind of fun.
 [u0363 | 00:34:04.290-00:34:06.900 | Delwath] I don't know if I'm gonna necessarily if I'm if I'm.
 [u0364 | 00:34:07.620-00:34:09.390 | DM] A one shot to make but.
@@ -401,7 +401,7 @@
 [u0401 | 00:36:39.300-00:36:45.960 | DM] There might be some place, there might be some secret hidden place where you can get one long rest, right? You work hard, right.
 [u0402 | 00:36:48.780-00:36:54.630 | Delwath] Now it doesn't last long enough, I was gonna say you know what would help with a long rest is probably a magic circle, but it only lasts an hour.
 [u0403 | 00:36:56.430-00:36:56.700 | DM] Right.
-[u0404 | 00:36:56.760-00:37:00.930 | Delwath] And I guess it wouldn't help against shadows, {{like his name it'll be a feat}}, that'd be fun.
+[u0404 | 00:36:56.760-00:37:00.930 | Delwath] And I guess it wouldn't help against shadows, like his name it'll be a feat, that'd be fun.
 [u0405 | 00:37:02.640-00:37:04.140 | DM] there's a giant.
 [u0406 | 00:37:04.440-00:37:05.700 | Delwath] demon yeah exactly.
 [u0407 | 00:37:06.090-00:37:07.200 | Delwath] Like way yeah.
@@ -458,7 +458,7 @@
 [u0458 | 00:41:06.930-00:41:11.940 | Delwath] Right right so he'd spend a little bit of time like again it doesn't matter from from.
 [u0459 | 00:41:13.290-00:41:14.130 | DM] I don't know.
 [u0460 | 00:41:14.160-00:41:19.350 | Delwath] Any word I mean it's just a few days just kind of maybe a day or two just kind of in the village.
-[u0461 | 00:41:20.340-00:41:29.970 | DM] Right, I think that that makes a lot of sense, so before you go this, you know, however long he spent in the village, say I'll say two days, so {{I accurate}}, yeah.
+[u0461 | 00:41:20.340-00:41:29.970 | DM] Right, I think that that makes a lot of sense, so before you go this, you know, however long he spent in the village, say I'll say two days, so I accurate, yeah.
 [u0462 | 00:41:32.730-00:41:38.550 | DM] And it's a it's about a day's journey straight down the mountain to the the hunting camp, where you will meet.
 [u0463 | 00:41:40.170-00:41:42.960 | DM] The stoneborn and the wildfire druid.
 [u0464 | 00:41:45.060-00:41:55.050 | DM] And so Enon, the Godcaller, this like old guy in his 70s, like bushy hair, bushy beard, wearing like long robes, um.
@@ -494,7 +494,7 @@
 [u0494 | 00:44:45.000-00:44:48.060 | DM] Bird motifs of crows and ravens and.
 [u0495 | 00:44:50.430-00:45:01.770 | DM] Swallows and nighthawks, like this, basically the sort of twilight nighthawks in particular, the like, you know, birds that fly, agile flyers that.
 [u0496 | 00:45:01.770-00:45:06.480 | DM] Right, dart around at night, you know hunting insects, and then.
-[u0497 | 00:45:07.710-00:45:14.430 | DM] {{On the enemy}} and then it's like bright, you know, on all of this on background of of.
+[u0497 | 00:45:07.710-00:45:14.430 | DM] On the enemy and then it's like bright, you know, on all of this on background of of.
 [u0498 | 00:45:15.450-00:45:25.350 | DM] Of brightly colored brightly colored paint where the birds are very stylized, right, the big cat is like central motif and there's just this ring of stylized birds.
 [u0499 | 00:45:36.120-00:45:44.700 | DM] So he gives you these things, and then you set off and then that's where we'll pick up when you come to the camp and meet the other characters on Thursday.
 [u0500 | 00:45:44.970-00:45:45.510 | Delwath] sounds good.
@@ -510,7 +510,7 @@
 [u0510 | 00:46:13.800-00:46:14.670 | DM] Okay, Thursday.
 [u0511 | 00:46:15.360-00:46:16.710 | Delwath] Alright, is complaining.
 [u0512 | 00:46:18.990-00:46:19.230 | Delwath] him.
-[u0513 | 00:46:20.820-00:46:30.450 | DM] He hasn't responded to my texts, and I said hey do you want me to make a character, or do you want to make a character, I suspect, to text me on Thursday and say hey do you have a character for me.
+[u0513 | 00:46:20.820-00:46:30.450 | DM] He hasn't responded to my texts, and I said hey do you want me to make a character, or do you want to make a character, I suspect he’ll text me on Thursday and say hey do you have a character for me.
 [u0514 | 00:46:30.660-00:46:31.740 | DM] Right and I'll be like.
 [u0515 | 00:46:33.720-00:46:34.290 | DM] Maybe.
 [u0516 | 00:46:36.660-00:46:44.340 | DM] I have an idea for something I could make quickly that would be a simple right like I'm not gonna do anything complicated for him, but.
@@ -524,7 +524,7 @@
 [u0524 | 00:47:01.050-00:47:03.930 | DM] Magical magical arrows he could shoot.
 [u0525 | 00:47:04.110-00:47:04.350 | Unknown] yeah.
 [u0526 | 00:47:07.230-00:47:07.500 | Delwath] yeah.
-[u0527 | 00:47:08.850-00:47:18.660 | DM] And you don't actually have much range, {{not to}} melee fighters and you a spellcaster, so right, an archer would be a good addition.
+[u0527 | 00:47:08.850-00:47:18.660 | DM] And you don't actually have much range, got two melee fighters and you a spellcaster, so right, an archer would be a good addition.
 [u0528 | 00:47:19.230-00:47:19.470 | Unknown] yeah.
 [u0529 | 00:47:20.490-00:47:20.790 | DM] Okay.
 [u0530 | 00:47:21.300-00:47:21.570 | Delwath] All right.
