@@ -2,7 +2,7 @@
 
 Last reviewed: **2026-10-27**
 
-This guide covers the 24 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
+This guide covers the 25 skills maintained in this repository under `.agents/skills/`. It does not list personal or installed plugin skills, which can vary between machines.
 
 Describe the task in ordinary language, or name a skill explicitly with `$skill-name`. Include the relevant note, session, source, or folder and what you want done. The linked skill instructions define the actual workflow and approvals; this guide is a way to choose the right starting point.
 
@@ -24,6 +24,7 @@ These are normally called by the session pipeline, except for the optional trans
 | Skill | What it does | Example use case |
 | --- | --- | --- |
 | [transcript-cleaner](.agents/skills/transcript-cleaner/SKILL.md) | Corrects transcription errors while preserving line IDs, speakers, timestamps, and order. Marks unresolved ASR wording with `{{...}}` while preserving Obsidian wikilinks, and collects meaningful uncertainty for review; it does not turn the transcript into polished narrative. | “Clean this prepared transcript, but stop before splitting it into beats.” |
+| [automatic-transcript-cleanup](.agents/skills/automatic-transcript-cleanup/SKILL.md) | Resolves existing `{{...}}` name and setting-term errors in cleaned transcripts, applying clear and supported likely corrections with fixed marked logs, source fingerprints, and selective undo. Skips marker-free files before reading; supports individual sessions and campaign batches. | “Run automatic-transcript-cleanup on all available Dunmari Frontier cleaned transcripts,” or “Preview the name pass on sessions 48, 77, and 117.” |
 | [transcript-splitter](.agents/skills/transcript-splitter/SKILL.md) | Divides a cleaned transcript or normalized written source into ordered story beats, preserving complete source coverage. Produces beat data and a readable preview. | “Split this cleaned source into beats.” |
 | [beat-annotator](.agents/skills/beat-annotator/SKILL.md) | Records the supported facts for each beat, including people, places, items, organizations, and combat. Full-session work also reviews chronology against the session dates; a single-beat mode is available. | “Annotate these beats and check the session chronology.” |
 | [session-summary](.agents/skills/session-summary/SKILL.md) | Builds the structured recap from finalized beats and facts, using the pipeline's scene grouping and chronology when applicable. Produces compact timeline entries and recap prose at three levels of detail. | “Draft the session recap from these finalized beats and facts.” |
