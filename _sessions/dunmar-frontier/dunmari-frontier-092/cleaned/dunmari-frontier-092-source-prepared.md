@@ -436,7 +436,7 @@
 [u0436 | 00:42:16.830-00:42:18.649 | DM] his hands. And
 [u0437 | 00:42:18.900-00:42:22.260 | DM] coming out from the the
 [u0438 | 00:42:23.410-00:42:27.490 | DM] side hall is you see another frost giant?
-[u0439 | 00:42:27.750-00:42:32.730 | DM] 
+[u0439 | 00:42:27.750-00:42:32.730 | DM] ...
 [u0440 | 00:42:33.730-00:42:37.450 | DM] she is somewhat older and
 [u0441 | 00:42:37.710-00:42:51.310 | DM] she kind of walks with her head down a little bit, and you can see one of her arms like is injured somehow. It must have like been broken and not healed properly, or something, cause it like doesn't
 [u0442 | 00:42:51.870-00:42:53.720 | DM] move quite right,
@@ -549,7 +549,7 @@
 [u0549 | 00:52:45.950-00:52:52.450 | DM] remarks, is like ice sort of insect giant insect, like creatures that are.
 [u0550 | 00:52:53.000-00:52:56.139 | DM] They're like a standard. DD monster.
 [u0551 | 00:52:56.620-00:52:59.180 | Seeker] Do do we know about these things. Oh, boy.
-[u0552 | 00:52:59.650-00:53:05.330 | DM] 
+[u0552 | 00:52:59.650-00:53:05.330 | DM] ...
 [u0553 | 00:53:09.540-00:53:11.520 | DM] Did you see that in?
 [u0554 | 00:53:13.510-00:53:19.509 | DM] Well, 20. That's kind of what they look like they're like, send to PE. They're like many legged ice creatures that
 [u0555 | 00:53:19.730-00:53:32.739 | DM] like run around and then have these giant jobs. They they are also like ambush. And it's fighting like 3 of those at once.
@@ -783,7 +783,7 @@
 [u0783 | 01:14:53.120-01:14:59.059 | DM] Some other giants begin to file in to apparently
 [u0784 | 01:14:59.070-01:15:01.400 | DM] sit and eat
 [u0785 | 01:15:03.790-01:15:11.230 | DM] the and they all like. There's 6 of them now, and no none that have you that you've seen before, like
-[u0786 | 01:15:11.360-01:15:13.880 | DM] 
+[u0786 | 01:15:11.360-01:15:13.880 | DM] ...
 [u0787 | 01:15:14.350-01:15:16.940 | DM] 2 women, another man.
 [u0788 | 01:15:17.040-01:15:19.290 | DM] and then 2.
 [u0789 | 01:15:20.070-01:15:27.269 | DM] What look like giant kids like twin boys who are maybe 10 feet tall. So they're like.
@@ -793,7 +793,7 @@
 [u0793 | 01:15:48.600-01:15:50.309 | DM] Let's welcome our guests.
 [u0794 | 01:15:51.120-01:15:52.420 | Unknown] and everybody comes
 [u0795 | 01:15:53.570-01:15:57.180 | DM] down and kind of gives a weak smile.
-[u0796 | 01:15:57.360-01:16:02.480 | DM] 
+[u0796 | 01:15:57.360-01:16:02.480 | DM] ...
 [u0797 | 01:16:08.750-01:16:16.590 | DM] So you they kind of set. Everything's kind of set up. The giants are all just kind of talking to each other, kind of loud, boisterous.
 [u0798 | 01:16:16.660-01:16:21.540 | DM] They're not really sitting down to any organized meal. They're just like ripping
 [u0799 | 01:16:21.590-01:16:23.760 | DM] pieces of meat off of the

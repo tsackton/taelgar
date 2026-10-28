@@ -967,7 +967,7 @@
 [u0967 | 01:36:12.990-01:36:14.010 | DM] Um:
 [u0968 | 01:36:16.150-01:36:18.130 | DM] Okay. So
 [u0969 | 01:36:18.770-01:36:20.769 | DM] Ah did you all
-[u0970 | 01:36:21.340-01:36:22.389 | It's Del] 
+[u0970 | 01:36:21.340-01:36:22.389 | Unknown] It's Del.
 [u0971 | 01:36:22.720-01:36:33.970 | DM] Oh, not yet, because you had said that I was an in range. Oh, that's right. So you walk forward, and and our is going to kind of sneak behind you trying to um
 [u0972 | 01:36:34.250-01:36:35.210 | DM] uh
 [u0973 | 01:36:35.350-01:36:37.579 | DM] trying to catch um
@@ -1378,7 +1378,7 @@
 [u1378 | 02:10:37.710-02:10:45.020 | Izzarak] con. If you're about to make an attack role, a saving for an ability check, I can roll D six, and add that to it
 [u1379 | 02:10:45.290-02:10:47.590 | Izzarak] ces before the rule. Right?
 [u1380 | 02:10:48.640-02:10:51.989 | DM] Yeah. What's your character class?
-[u1381 | 02:10:57.760-02:10:58.710 | Wow] 
+[u1381 | 02:10:57.760-02:10:58.710 | Unknown] Wow.
 [u1382 | 02:10:59.530-02:11:06.439 | Kenzo] Yeah. I'm definitely excited to like join one of the one-off adventures. Is that a totally different character class I've never played before.
 [u1383 | 02:11:06.710-02:11:09.920 | Izzarak] Yeah, the nd is just full of this learning stuff. It's fun.
 [u1384 | 02:11:10.170-02:11:23.609 | DM] Uh. So also remember, you. You might not have noticed this, but if you use your so, you have three forms. You have the chalice, the archer, and the dragon. If you use the dragon form. You also gain a fly speed. You can fly,

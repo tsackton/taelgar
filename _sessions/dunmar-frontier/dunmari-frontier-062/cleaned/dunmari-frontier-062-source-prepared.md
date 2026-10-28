@@ -825,7 +825,7 @@
 [u0825 | 01:08:39.029-01:08:40.939 | Artem Novolozek] Oh, bigger these tracks
 [u0826 | 01:08:41.240-01:08:44.709 | DM] they're They're pretty big about ten feet across. Yeah,
 [u0827 | 01:08:49.270-01:08:50.959 | DM] Anything else you want to do?
-[u0828 | 01:08:51.160-01:08:52.010 | Nope] 
+[u0828 | 01:08:51.160-01:08:52.010 | Unknown] Nope.
 [u0829 | 01:08:53.490-01:08:59.730 | DM] Okay. The person on the shark is going to attack now.
 [u0830 | 01:09:00.109-01:09:02.309 | DM] Ah, these are all
 [u0831 | 01:09:02.680-01:09:09.339 | DM] spear and shield wielders, and they all have light crossbows slung on their backs.
@@ -1381,7 +1381,7 @@
 [u1381 | 01:53:46.650-01:53:49.370 | Rufus] Well to to just to get him
 [u1382 | 01:53:49.600-01:53:56.309 | Artem Novolozek] conscious again, like any amount of healing will do that. Any amount of healing will get it Conscious? Yes.
 [u1383 | 01:54:00.690-01:54:03.210 | Rufus] Well, yeah, I'll just use a third level slot.
-[u1384 | 01:54:04.460-01:54:05.660 | Um] 
+[u1384 | 01:54:04.460-01:54:05.660 | Unknown] Um.
 [u1385 | 01:54:07.930-01:54:09.829 | Rufus] So that's twelve.
 [u1386 | 01:54:09.980-01:54:11.099 | Wellby] Awesome.
 [u1387 | 01:54:11.720-01:54:14.719 | Artem Novolozek] Okay? I'm: you're out.

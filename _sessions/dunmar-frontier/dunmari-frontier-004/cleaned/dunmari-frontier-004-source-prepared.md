@@ -2031,7 +2031,7 @@
 [u2031 | 02:30:55.530-02:30:57.510 | Kenzo] All right, I'm throwing I'm throwing to more exited really quick.
 [u2032 | 02:30:58.170-02:30:58.560 | DM] I got
 [u2033 | 02:30:58.950-02:31:03.030 | Wellby] 20 like to thank you through it squarely into the chest of whereas
-[u2034 | 02:31:03.030-02:31:04.320 | DM] You know assassin would be
+[u2034 | 02:31:03.030-02:31:04.320 | Wellby] You know assassin would be
 [u2035 | 02:31:09.960-02:31:10.470 | Kenzo] COC
 [u2036 | 02:31:10.620-02:31:11.160 | Seeker] Ah,
 [u2037 | 02:31:11.400-02:31:12.810 | DM] The note that says
