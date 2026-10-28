@@ -28,6 +28,12 @@ and annotations, cross-chunk joins, and finalization with unchanged source text.
 Review tests require actual proposals and questions, exclude incidental queues,
 and invalidate old work when the editorial policy changes.
 
+Attribution-order regressions reproduce adjacent clean chunks alternately becoming
+stale when unchanged overlays move within storage. Fingerprints must ignore that
+ordering for clean, polish, and quality, while still changing for revised speakers,
+spans, reasons, or evidence. Existing checkpoints need a separate read-only status
+assessment under the fixed helper; tests must not silently replace their hashes.
+
 ## Initial evaluation, 2026-10-28
 
 26 tests passed, including temporary-copy checks for seven bundles across the six

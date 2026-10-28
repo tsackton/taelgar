@@ -397,6 +397,49 @@ class PipelineTests(unittest.TestCase):
         with self.assertRaisesRegex(core.PipelineError,'recheck'):
             self.response(job,checks=sorted(core.CHECKS),edits=[edit],issues=[],mentions=[])
 
+    def test_unchanged_attributions_do_not_alternate_stale_neighbor_chunks(self):
+        self.init(chunk_words=1)
+        for chunk, speaker in [('chunk-001', 'Player'), ('chunk-002', 'DM')]:
+            job = self.work('clean', chunk)
+            unit = job['source'][0]
+            attribution = dict(uid=unit['uid'], start=0, end=len(unit['text']),
+                               speaker=speaker, reason='Explicit speaker correction',
+                               evidence=['test user correction'])
+            self.response(job, checks=sorted(core.CHECKS), edits=[], issues=[],
+                          mentions=[], attributions=[attribution])
+        # The second correction genuinely changes the first chunk's context.
+        self.assertEqual(pipeline.status(self.root)['pending']['clean'], ['chunk-001'])
+        # Re-submission moves a chunk's unchanged overlays to the end of storage.
+        # That storage order must not repeatedly invalidate its neighbor.
+        for chunk in ['chunk-001', 'chunk-002', 'chunk-001', 'chunk-002']:
+            self.response(self.work('clean', chunk), checks=sorted(core.CHECKS),
+                          edits=[], issues=[], mentions=[])
+            self.assertEqual(pipeline.status(self.root)['pending']['clean'], [])
+        self.assertEqual(self.work('polish')['stage'], 'polish')
+
+    def test_attribution_signatures_ignore_order_but_preserve_content_changes(self):
+        self.init()
+        state, units = pipeline.load(self.root)
+        state['attributions'] = [
+            dict(uid=unit['uid'], start=0, end=len(unit['text']), speaker='Other',
+                 reason='Explicit speaker correction', evidence=['test user correction'],
+                 textSha256=core.sha(unit['text'])) for unit in units
+        ]
+        reordered = copy.deepcopy(state)
+        reordered['attributions'].reverse()
+        for stage in ['clean', 'polish', 'quality']:
+            with self.subTest(stage=stage):
+                chunk = state['chunks'][0]
+                expected = pipeline.signature(state, units, chunk, stage)
+                self.assertEqual(expected, pipeline.signature(reordered, units, chunk, stage))
+                for field, value in [('speaker', 'Someone else'), ('start', 1),
+                                     ('end', len(units[0]['text']) - 1),
+                                     ('reason', 'Revised identification'),
+                                     ('evidence', ['another user correction'])]:
+                    changed = copy.deepcopy(state)
+                    changed['attributions'][0][field] = value
+                    self.assertNotEqual(expected, pipeline.signature(changed, units, chunk, stage))
+
     def test_real_runtime_writes_are_confined_to_bundle(self):
         import os, subprocess
         # An audit hook in a child process observes all Python file writes, not only helper calls.
