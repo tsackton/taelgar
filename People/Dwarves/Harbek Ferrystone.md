@@ -8,6 +8,8 @@ ancestry: Nardikhun
 gender: male
 name: Harbek Ferrystone
 pronunciation: HAR-bek FERR-ee-stohn
+affiliations:
+ - {org: Ferrystones, type: primary}
 whereabouts: Rinburg
 knownTo: [dufr]
 dm_owner: none
