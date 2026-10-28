@@ -93,7 +93,7 @@
 [u0093 | 00:09:12.840-00:09:13.650 | Delwath] Just a fan.
 [u0094 | 00:09:14.160-00:09:15.210 | Seeker] that's very interesting though.
 [u0095 | 00:09:16.260-00:09:19.710 | Wellby] To be clear, Agata picked it up well disguised in Chardon.
-[u0096 | 00:09:21.180-00:09:27.600 | DM] No, in somewhere in Dunmar, Tokra, {{Caroline}} purchased from a trader but.
+[u0096 | 00:09:21.180-00:09:27.600 | DM] No, in somewhere in Dunmar, Tokra, Karawa purchased from a trader but.
 [u0097 | 00:09:27.810-00:09:29.730 | Seeker] Was that Agata in disguise.
 [u0098 | 00:09:33.420-00:09:37.290 | DM] I mean you can't be 100% sure, but that's the implication.
 [u0099 | 00:09:37.710-00:09:38.250 | Seeker] And then.
@@ -130,7 +130,7 @@
 [u0130 | 00:11:36.210-00:11:37.290 | DM] Of the trade road.
 [u0131 | 00:11:37.710-00:11:37.980 | Unknown] yeah.
 [u0132 | 00:11:39.420-00:11:40.140 | Seeker] So who knows where.
-[u0133 | 00:11:40.260-00:11:47.520 | DM] Everybody you know that's been kidnapped by Agata has been kidnapped south, in south {{Carolina}}.
+[u0133 | 00:11:40.260-00:11:47.520 | DM] Everybody you know that's been kidnapped by Agata has been kidnapped south, in south Karawa.
 [u0134 | 00:11:48.000-00:11:48.420 | Delwath] Right yeah.
 [u0135 | 00:11:50.970-00:11:58.470 | Wellby] So this gives us more context, but I don't think it does this give us any more information about a motive.
 [u0136 | 00:12:00.540-00:12:00.840 | Delwath] I don't.
@@ -253,7 +253,7 @@
 [u0253 | 00:20:55.530-00:21:06.540 | DM] As you sail under the bridge the noise from above briefly pauses as the central part of the stone arch creaks and then raises into the sky, to allow your masts to clear the span.
 [u0254 | 00:21:07.920-00:21:26.490 | DM] And as the bridge settles back into place behind you, you can see the river widen ahead, the busy wharves of the port come into view dozens upon dozens of ships of all sizes shapes and colors fill the harbor some loading or unloading on the docks others that anchorage.
 [u0255 | 00:21:28.260-00:21:36.450 | DM] As you as the Emerald Song slides into a berth in what seems to be the halfling section of the wharves and you look out across the vastness.
-[u0256 | 00:21:36.660-00:21:57.270 | DM] city you do get your one hint from your DM, but you are not totally without contacts or information, so you have Kaeso, Kenzo's former mentor who lives in the south of the city in the {{penance gate}} neighborhood near the {{kindness market}} which Kenzo knows the way to.
+[u0256 | 00:21:36.660-00:21:57.270 | DM] city you do get your one hint from your DM, but you are not totally without contacts or information, so you have Kaeso, Kenzo's former mentor who lives in the south of the city in the Panemsgate neighborhood near the Kylos Market which Kenzo knows the way to.
 [u0257 | 00:22:02.490-00:22:13.530 | DM] The name Crispus was mentioned to you by Marcella as the person who is the senior archivist at the Great Library and supposedly a major patron and sponsor of treasure hunting.
 [u0258 | 00:22:19.170-00:22:20.850 | DM] Sorry, I just saw your message.
 [u0259 | 00:22:23.220-00:22:29.850 | DM] You, of course, know Vola the adventurer and explorer you rescued at Raven's Hold you must have presumably return to Chardon by now.
@@ -295,12 +295,12 @@
 [u0295 | 00:25:49.470-00:25:57.450 | DM] yeah I mean you you've you know the city well enough, you can certainly find your way it's not actually that So if you look on the.
 [u0296 | 00:25:59.280-00:26:02.640 | DM] map on Roll20 right, so the port is.
 [u0297 | 00:26:03.720-00:26:05.160 | DM] Here, where your docking.
-[u0298 | 00:26:05.520-00:26:08.790 | DM] And this is the {{kyle's market}} where.
+[u0298 | 00:26:05.520-00:26:08.790 | DM] And this is the Kylos Market where.
 [u0299 | 00:26:11.430-00:26:20.340 | DM] Kaeso's house is and then this is the sort of academy district over here there's like the old city walls and then there's the newer city walls so.
 [u0300 | 00:26:23.340-00:26:26.970 | DM] This is the Imperial Palace, this is the Cathedral of the Way.
 [u0301 | 00:26:27.720-00:26:28.410 | Delwath] I think if.
 [u0302 | 00:26:30.630-00:26:31.770 | Kenzo] Where's Kaeso's place on the map.
-[u0303 | 00:26:32.850-00:26:37.530 | DM] Well, this is the {{kyle is markets}} and his place would be like just south of that like here.
+[u0303 | 00:26:32.850-00:26:37.530 | DM] Well, this is the Kylos Market and his place would be like just south of that like here.
 [u0304 | 00:26:39.600-00:26:43.050 | Seeker] What is the Cathedral of the Way represent religiously.
 [u0305 | 00:26:43.920-00:26:47.010 | DM] Well that's the Eight Divines, as the.
 [u0306 | 00:26:48.090-00:26:49.650 | DM] Primary religion in Chardon.
@@ -597,7 +597,7 @@
 [u0597 | 00:47:59.970-00:48:03.390 | DM] Like like 40 minutes or something um.
 [u0598 | 00:48:04.650-00:48:06.270 | DM] You know and it's it's.
 [u0599 | 00:48:07.710-00:48:18.030 | DM] Strange being back right, I mean not much has changed you you pass you pass by the like walls of the Imperial Palace you pass out of the the old city and through the.
-[u0600 | 00:48:19.110-00:48:21.300 | DM] {{Pilots market}} which is full of.
+[u0600 | 00:48:19.110-00:48:21.300 | DM] Kylos Market which is full of.
 [u0601 | 00:48:23.160-00:48:30.750 | DM] You know just tons of stuff for sale and that and then has you know this big stone in the middle that's a.
 [u0602 | 00:48:32.910-00:48:37.800 | DM] Cleaning stone, so you can sort of touch it and basically it washes washes your clothes, for you.
 [u0603 | 00:48:40.170-00:48:43.440 | DM] People going past that the vibe I mean.
@@ -718,7 +718,7 @@
 [u0718 | 00:57:52.140-00:57:52.890 | Delwath] What day was today.
 [u0719 | 00:57:53.670-00:57:54.540 | DM] Is Tuesday.
 [u0720 | 00:57:56.520-00:57:57.360 | DM] At the.
-[u0721 | 00:57:58.650-00:58:00.960 | DM] Not the {{kyla is market}}, but the sort of.
+[u0721 | 00:57:58.650-00:58:00.960 | DM] Not the Kylos Market, but the sort of.
 [u0722 | 00:58:02.340-00:58:06.510 | DM] The the central market here that's near the port so.
 [u0723 | 00:58:07.800-00:58:09.510 | DM] So this this market here.
 [u0724 | 00:58:11.220-00:58:11.880 | DM] there's.
@@ -790,7 +790,7 @@
 [u0790 | 01:04:16.830-01:04:17.190 | Unknown] Austin.
 [u0791 | 01:04:18.210-01:04:18.660 | Kenzo] Riswynn.
 [u0792 | 01:04:20.820-01:04:22.200 | Riswynn] Riswynn Brawnanvil.
-[u0793 | 01:04:23.700-01:04:28.050 | Riswynn] I come from {{the event the mountains}} and.
+[u0793 | 01:04:23.700-01:04:28.050 | Riswynn] I come from the Yuvanti Mountains and.
 [u0794 | 01:04:29.880-01:04:32.880 | Riswynn] I have had the pleasure of traveling with Kenzo.
 [u0795 | 01:04:35.250-01:04:36.750 | DM] lovely to meet you as well.
 [u0796 | 01:04:38.400-01:04:40.020 | Kenzo] yeah she's really good at killing things.
@@ -1512,7 +1512,7 @@
 [u1512 | 01:59:02.490-01:59:03.210 | Seeker] {{Johnny odd}}.
 [u1513 | 01:59:04.290-01:59:04.980 | DM] Brot.
 [u1514 | 01:59:05.160-01:59:06.660 | Kenzo] Brot yeah perfect.
-[u1515 | 01:59:09.120-01:59:13.110 | DM] But Riswynn never met {{ric constant}}; you can't Sending {{your cod}} sadly.
+[u1515 | 01:59:09.120-01:59:13.110 | DM] But Riswynn never met {{ric constant}}; you can't Sending Drikod sadly.
 [u1516 | 01:59:13.920-01:59:14.880 | Riswynn] huh no.
 [u1517 | 01:59:15.180-01:59:15.960 | Seeker] But she could ask.
 [u1518 | 01:59:16.170-01:59:18.030 | Riswynn] If i'm right.
@@ -1717,7 +1717,7 @@
 [u1717 | 02:14:20.460-02:14:23.100 | DM] There was a there was the older dude.
 [u1718 | 02:14:26.250-02:14:27.180 | DM] scholar type.
 [u1719 | 02:14:31.380-02:14:32.370 | DM] Servius.
-[u1720 | 02:14:34.260-02:14:37.050 | DM] {{Separate}} Servius, Servius yeah.
+[u1720 | 02:14:34.260-02:14:37.050 | DM] Servius Servius, Servius yeah.
 [u1721 | 02:14:38.790-02:14:40.020 | DM] It was a fucking bore.
 [u1722 | 02:14:41.100-02:14:45.960 | DM] don't waste your time listening to that old man blabber on about bloody nothing.
 [u1723 | 02:14:48.660-02:14:51.090 | DM] So I you know headed out he traveled with.
@@ -2459,7 +2459,7 @@
 [u2459 | 03:08:15.720-03:08:16.770 | Unknown] All discredit Elvish.
 [u2460 | 03:08:18.390-03:08:18.630 | Riswynn] it's.
 [u2461 | 03:08:18.720-03:08:20.490 | DM] it's the human tongue that are.
-[u2462 | 03:08:21.990-03:08:32.940 | DM] Well there's just so many of them it's hardly worth the time I mean Drankorian Okay, although the wiser Drankorians, of course, wrote in {{our bash}} or Dwarvish if they were truly wise.
+[u2462 | 03:08:21.990-03:08:32.940 | DM] Well there's just so many of them it's hardly worth the time I mean Drankorian Okay, although the wiser Drankorians, of course, wrote in Elvish or Dwarvish if they were truly wise.
 [u2463 | 03:08:37.110-03:08:42.000 | DM] But no, you, you will have to learn Seeker, if you want to take this seriously.
 [u2464 | 03:08:42.570-03:08:43.530 | Seeker] I need to keep.
 [u2465 | 03:08:43.680-03:08:50.100 | Kenzo] {{checking them later}} scholarship are the key, may be missing some text about the discredited Elvish {{songs}} so.
@@ -3234,7 +3234,7 @@
 [u3234 | 04:04:18.480-04:04:24.510 | Delwath] You know what we could do is, we could put one of Eudomes's painting the painting of Eudomes we could watch in the mirror.
 [u3235 | 04:04:26.940-04:04:28.350 | Kenzo] whoo.
 [u3236 | 04:04:29.250-04:04:31.170 | Delwath] Well, tell us something about Eudomes.
-[u3237 | 04:04:31.410-04:04:33.390 | Kenzo] where's that painting of {{you don't}} have to go back to the tower.
+[u3237 | 04:04:31.410-04:04:33.390 | Kenzo] where's that painting of Eudomes have to go back to the tower.
 [u3238 | 04:04:33.840-04:04:34.470 | Unknown] No.
 [u3239 | 04:04:37.440-04:04:37.620 | Kenzo] that's.
 [u3240 | 04:04:37.860-04:04:38.880 | Delwath] Why, I was talking to our.

@@ -703,7 +703,7 @@
 [u0703 | 01:04:41.690-01:04:45.200 | DM] and it would be best if we can keep the cloak in this kingdom.
 [u0704 | 01:04:46.600-01:04:53.610 | DM] and the caves are outside the kingdom. Caves are outside the kingdom. Those who are born in freedom
 [u0705 | 01:04:55.740-01:04:59.000 | DM] have more options to flee and hide
-[u0706 | 01:05:00.590-01:05:08.340 | DM] {{bark}} may be able to search for them, but he cannot know their location instantly as he can someone like Murook
+[u0706 | 01:05:00.590-01:05:08.340 | DM] Thark may be able to search for them, but he cannot know their location instantly as he can someone like Murook
 [u0707 | 01:05:08.700-01:05:11.779 | DM] who passes out of my protection.
 [u0708 | 01:05:15.620-01:05:23.240 | Riswynn] Would you prefer to keep all your people together or separate them for strategic reasons? Would you?
 [u0709 | 01:05:23.340-01:05:29.179 | Riswynn] Would they would everyone fit here in the in the city walls
@@ -712,7 +712,7 @@
 [u0712 | 01:05:42.380-01:05:46.330 | Riswynn] resources sufficient for {{it was already to the East}}
 [u0713 | 01:05:48.090-01:05:58.330 | DM] {{would be closer}} and safer fleeing east. Messages have already gone out, and many of our small
 [u0714 | 01:06:01.380-01:06:06.230 | DM] farming communities have begun driving their herds across
-[u0715 | 01:06:10.660-01:06:16.629 | DM] across the {{drog our}} river
+[u0715 | 01:06:10.660-01:06:16.629 | DM] across the Drogar river
 [u0716 | 01:06:17.140-01:06:20.070 | DM] into the hills, where they will be hard to
 [u0717 | 01:06:22.120-01:06:24.159 | DM] track and find
 [u0718 | 01:06:27.120-01:06:30.439 | Riswynn] if the city can draw the attention of the army.
@@ -888,7 +888,7 @@
 [u0888 | 01:22:00.580-01:22:03.040 | DM] Send us off to the
 [u0889 | 01:22:03.710-01:22:05.420 | DM] the islands
 [u0890 | 01:22:07.690-01:22:11.330 | DM] far to the south, south even of
-[u0891 | 01:22:12.500-01:22:14.650 | DM] {{the Gloria}}.
+[u0891 | 01:22:12.500-01:22:14.650 | DM] Illoria.
 [u0892 | 01:22:15.010-01:22:17.239 | DM] little tropical islands
 [u0893 | 01:22:19.590-01:22:26.409 | DM] seeking some lost treasures that have from people who had fled from the Great War
 [u0894 | 01:22:29.100-01:22:31.050 | DM] came back empty-handed, and
@@ -984,7 +984,7 @@
 [u0984 | 01:31:03.570-01:31:08.510 | DM] It was hard not to be at the end of her
 [u0985 | 01:31:09.920-01:31:11.520 | DM] ranting about
 [u0986 | 01:31:12.580-01:31:17.159 | DM] the restoration of the Drankorian Empire,
-[u0987 | 01:31:18.970-01:31:28.810 | DM] of the {{Karin's}} supremacy that should rule over the land, the pure humans before they were corrupted.
+[u0987 | 01:31:18.970-01:31:28.810 | DM] of the Hkaran supremacy that should rule over the land, the pure humans before they were corrupted.
 [u0988 | 01:31:29.380-01:31:30.570 | Unknown] You!
 [u0989 | 01:31:36.010-01:31:40.690 | DM] What, how this has to do with Fausto, nobody ever told me.
 [u0990 | 01:31:45.310-01:31:50.389 | Delwath] What do you know of Grash? You were in his camp for some time, were you not?
@@ -1493,9 +1493,9 @@
 [u1493 | 02:18:59.709-02:19:08.460 | Delwath] I mean, maybe you can just plane shift out, any of those powerful wizards that don't have plane shift. Do we know if, as far as we know, like can you long rest in the mirror?
 [u1494 | 02:19:09.299-02:19:15.090 | DM] do we know you do know that people eventually heal.
 [u1495 | 02:19:15.750-02:19:16.420 | Unknown] Okay.
-[u1496 | 02:19:16.730-02:19:20.900 | DM] because you know that {{Sara}} was
+[u1496 | 02:19:16.730-02:19:20.900 | DM] because you know that Sura was
 [u1497 | 02:19:22.520-02:19:27.030 | DM] like for example, there was the guy whose eye got cut out, but like he didn't
-[u1498 | 02:19:27.559-02:19:36.060 | DM] bleed out and die, right, like they recover. And you know {{Thorough}} was beat up in the kidnapping attempt, but was not like
+[u1498 | 02:19:27.559-02:19:36.060 | DM] bleed out and die, right, like they recover. And you know Sura was beat up in the kidnapping attempt, but was not like
 [u1499 | 02:19:36.100-02:19:38.940 | DM] beat up when she came out. Yeah.
 [u1500 | 02:19:39.290-02:19:49.829 | Delwath] So presumably time does pass just very slowly, very slowly, so potentially you could long rest. But probably Casian wouldn't have been able to yet.
 [u1501 | 02:19:50.140-02:20:06.280 | DM] for sure, yeah, so he's limited somewhat in what spells he can cast by what spells he had left. But if some, you know that, you know, if you remember, you know Grash can cast sending, right?
@@ -1657,7 +1657,7 @@
 [u1657 | 02:35:14.630-02:35:19.380 | Delwath] She was honorable, and answered our questions. and
 [u1658 | 02:35:19.780-02:35:22.110 | Delwath] we I believe that she is not
 [u1659 | 02:35:23.160-02:35:29.189 | Delwath] so we have, Kenzo isn't around, stolen. It'll be very useful. He ends in a
-[u1660 | 02:35:29.230-02:35:35.679 | Delwath] like presumably she's not, it's not all a lie. You can't {{sulfide}} across planes. You'd have to free her to
+[u1660 | 02:35:29.230-02:35:35.679 | Delwath] like presumably she's not, it's not all a lie. You can't soul sight across planes. You'd have to free her to
 [u1661 | 02:35:36.060-02:35:40.809 | Delwath] He could do his just like insight, detect lie type
 [u1662 | 02:35:40.950-02:35:42.560 | DM] yeah, I mean.
 [u1663 | 02:35:42.590-02:35:48.409 | Wellby] Wellby is pretty good at insight too, right? That's true. Yeah, I'll insight check for lies.
@@ -2024,9 +2024,9 @@
 [u2024 | 03:07:41.800-03:07:46.579 | Delwath] I gave up because it never worked. You only tried once or twice. That's true.
 [u2025 | 03:07:47.790-03:07:55.220 | Delwath] Now that you're bored and you've lost, lost all, you know, nobody else has nobody left to scry? I mean, it's all scratch.
 [u2026 | 03:07:56.650-03:07:59.620 | Riswynn] Didn't we know that one adventurer who escaped?
-[u2027 | 03:07:59.880-03:08:01.100 | DM] {{for a sala}}
+[u2027 | 03:07:59.880-03:08:01.100 | DM] Marcella
 [u2028 | 03:08:02.660-03:08:05.109 | Wellby] just for fun?
-[u2029 | 03:08:07.050-03:08:15.560 | Delwath] Oh, {{Marcel}}, yeah, no, I check in on her occasionally. Yeah, she was, she had made it to Sembara, do you
+[u2029 | 03:08:07.050-03:08:15.560 | Delwath] Oh, Marcella, yeah, no, I check in on her occasionally. Yeah, she was, she had made it to Sembara, do you
 [u2030 | 03:08:17.330-03:08:18.750 | Seeker] But, Tim, so
 [u2031 | 03:08:19.900-03:08:23.410 | Seeker] when do the glove charges recharge
 [u2032 | 03:08:23.770-03:08:25.629 | DM] every after a long rest.
@@ -2395,12 +2395,12 @@
 [u2395 | 03:42:16.110-03:42:19.910 | Seeker] Don't we want to know what Apollyon wanted to use it for, or is that the same question?
 [u2396 | 03:42:19.990-03:42:23.289 | Seeker] Maybe a different question, different because it was not made by a
 [u2397 | 03:42:23.600-03:42:28.539 | Riswynn] well, the Orcs, I mean. Do we confirm the Orkish legend that it was made
-[u2398 | 03:42:28.710-03:42:36.659 | Riswynn] intentionally by the fey for the custom purpose of keeping out {{rack}}, or whatever their name is, the orcish god.
+[u2398 | 03:42:28.710-03:42:36.659 | Riswynn] intentionally by the fey for the custom purpose of keeping out Thark, or whatever their name is, the orcish god.
 [u2399 | 03:42:36.940-03:42:38.720 | Seeker] and then into the
 [u2400 | 03:42:39.080-03:42:42.500 | Riswynn] like that's, isn't that the legend their loremaster told us?
 [u2401 | 03:42:43.710-03:42:44.840 | Seeker] sounds right
 [u2402 | 03:42:45.160-03:42:49.660 | DM] sorry what I was reviewing my notes for the cloak story. What what did you say?
-[u2403 | 03:42:49.940-03:42:59.029 | Riswynn] Didn't their loremaster say that it was intentionally made by a fey for the benefit of the orcs to keep out {{Thrack}}, or whatever his name is? Yeah.
+[u2403 | 03:42:49.940-03:42:59.029 | Riswynn] Didn't their loremaster say that it was intentionally made by a fey for the benefit of the orcs to keep out Thark, or whatever his name is? Yeah.
 [u2404 | 03:43:00.680-03:43:15.759 | Kenzo] I mean, if we ask about how was it made, selfishly for us it would be good to understand more fully why Apollyon wants it, because it's not totally clear why the hell he even wants that, like if it's like why is that even useful for him.
 [u2405 | 03:43:17.460-03:43:29.210 | Kenzo] unless there there may be some interesting thing where it's like. The cloak is a part of him getting free because he may be trapped in some way. There may be some godly influence that's keeping him there, and if you can put it on, and maybe you know I I don't know.
 [u2406 | 03:43:32.150-03:43:33.989 | Seeker] Now, how do we find that out, though?

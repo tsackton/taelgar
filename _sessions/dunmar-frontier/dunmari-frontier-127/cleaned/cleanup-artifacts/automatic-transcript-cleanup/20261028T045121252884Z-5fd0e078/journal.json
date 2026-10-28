@@ -1,0 +1,338 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-127",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-127/cleaned/dunmari-frontier-127-source-cleaned.md",
+  "beforeSha256": "bf575416f5683fcd06a2b014df8267f3b7a60a364bd953776942ad035d48643a",
+  "afterSha256": "dd81f60819b200fce891aff22b8b909d57d8043e9c7dc683ddc6dfb37de085da",
+  "markersBefore": 21,
+  "groups": [
+    {
+      "id": "amil-hall-of-stories",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The consecutive replies identify the Hall of Stories researcher; the bastion rules explicitly assign that role to Amil or Kenzo.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Amil.md",
+          "sha256": "efb1c024024f6d3caa7665dc45db92aa438a42ac850d51562ad2937b85e700cd"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Vindristjarna Bastion Rules.md",
+          "sha256": "de44b2198e1f4959ab302d8b93156de8780756fb4bab48ea07ac592fccf9d397"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0267:m1",
+        "u0268:m1",
+        "u0269:m1"
+      ],
+      "replacements": {
+        "u0267:m1": "Amil",
+        "u0268:m1": "Amil",
+        "u0269:m1": "Amil"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ordinary-wording-and-mechanics",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "These spans concern ordinary dialogue, an unfinished navy-transport phrase, descriptions, grammar, or spell and saving-throw discussion rather than recoverable names or setting terms. Preserve them without reconstructing wording.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0029:m1",
+        "u0033:m1",
+        "u0068:m1",
+        "u0086:m1",
+        "u0150:m1",
+        "u0175:m1",
+        "u0663:m1",
+        "u1200:m1",
+        "u1301:m1",
+        "u1502:m1",
+        "u1956:m1",
+        "u2027:m1",
+        "u2064:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0029:m1": "{{a right}}",
+        "u0033:m1": "{{get is a link}}",
+        "u0068:m1": "{{eating}}",
+        "u0086:m1": "{{navy up}}",
+        "u0150:m1": "{{neither collapsing}}",
+        "u0175:m1": "{{that as long as you can}}",
+        "u0663:m1": "{{about this for a minute}}",
+        "u1200:m1": "{{fail}}",
+        "u1301:m1": "{{It doesn't work}}",
+        "u1502:m1": "{{statue}}",
+        "u1956:m1": "{{like a bad}}",
+        "u2027:m1": "{{was getting mad}}",
+        "u2064:m1": "{{back}}"
+      }
+    },
+    {
+      "id": "source-reading-geology",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "The matching survey shows this is an ordinary geological adjective in source-reading discussion, not an entity name or setting term. Repairing it belongs outside names-v1.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Reports on Chalyte in Alta Tonaro.md",
+          "sha256": "b3ef68a64b93742cb67b667ad495d53c6603c1b5e67d2dc7e6130cea506cdc3e"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0245:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0245:m1": "{{R. Grasilian}}"
+      }
+    },
+    {
+      "id": "tanshi-contact",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The Contact Other Plane discussion and repeated phonetic variants strongly favor the tanshi as the consulted beings. The sources establish the term and Delwath's tanshi shrine; no individual god is inferred.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Tanshi.md",
+          "sha256": "3b3948c1c28301bde5d69129004d17cf2a6dd748ad62cdcec8907b9cd1d7dc7f"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Vindristjarna Bastion Rules.md",
+          "sha256": "de44b2198e1f4959ab302d8b93156de8780756fb4bab48ea07ac592fccf9d397"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0634:m1",
+        "u0650:m1"
+      ],
+      "replacements": {
+        "u0634:m1": "the tanshi",
+        "u0650:m1": "the tanshi"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "unclear-ice-experiment-name",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The span may include Faldrak's name and an action during the ice experiments, or may be damaged ordinary wording. Neither the complete replacement nor its boundaries are recoverable without reconstructing the phrase.",
+      "evidence": [
+        {
+          "path": "People/Dwarves/Faldrak Bronzehammer.md",
+          "sha256": "acc84074e61bbc9c04335b27d34949f0b550876371ed34647295fb37d360adac"
+        }
+      ],
+      "candidates": [
+        "Faldrak"
+      ],
+      "markerIds": [
+        "u0149:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0149:m1": "{{Baldrick Johnson}}"
+      }
+    },
+    {
+      "id": "vindristjarna-size-comparison",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The immediately preceding comparison explicitly names Vindristjarna, and this continuation compares the same tower with that ship. The ship note establishes its spelling; no Peterson referent is established.",
+      "evidence": [
+        {
+          "path": "Things/Ships/Vindristjarna.md",
+          "sha256": "8c55e2b0e0e818abbe72532bc573a1f0e4d51e592e5b81ceda0d3ec23fc50e27"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2078:m1"
+      ],
+      "replacements": {
+        "u2078:m1": "Vindristjarna"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0267:m1",
+      "uid": "u0267",
+      "ordinal": 1,
+      "lineNumber": 267,
+      "start": 51,
+      "end": 58,
+      "before": "{{Omo}}",
+      "span": "Omo",
+      "line": "[u0267 | 00:25:01.720-00:25:03.050 | DM] Kenzo, or {{Omo}}.",
+      "contextBefore": [
+        "[u0265 | 00:25:00.150-00:25:00.800 | DM] Yeah.",
+        "[u0266 | 00:25:00.800-00:25:01.720 | Delwath] Kenzo."
+      ],
+      "contextAfter": [
+        "[u0268 | 00:25:03.050-00:25:03.740 | Delwath] {{Ammo}}.",
+        "[u0269 | 00:25:04.210-00:25:10.859 | Delwath] Oh, yeah, because it's called the Hall of Stories. Okay? The. I think we should have {{Amel}} Research Stone Giants in general"
+      ],
+      "after": "Amil",
+      "group": "amil-hall-of-stories",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0268:m1",
+      "uid": "u0268",
+      "ordinal": 1,
+      "lineNumber": 268,
+      "start": 46,
+      "end": 54,
+      "before": "{{Ammo}}",
+      "span": "Ammo",
+      "line": "[u0268 | 00:25:03.050-00:25:03.740 | Delwath] {{Ammo}}.",
+      "contextBefore": [
+        "[u0266 | 00:25:00.800-00:25:01.720 | Delwath] Kenzo.",
+        "[u0267 | 00:25:01.720-00:25:03.050 | DM] Kenzo, or {{Omo}}."
+      ],
+      "contextAfter": [
+        "[u0269 | 00:25:04.210-00:25:10.859 | Delwath] Oh, yeah, because it's called the Hall of Stories. Okay? The. I think we should have {{Amel}} Research Stone Giants in general",
+        "[u0270 | 00:25:11.460-00:25:12.130 | Delwath] from the in the."
+      ],
+      "after": "Amil",
+      "group": "amil-hall-of-stories",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0269:m1",
+      "uid": "u0269",
+      "ordinal": 1,
+      "lineNumber": 269,
+      "start": 131,
+      "end": 139,
+      "before": "{{Amel}}",
+      "span": "Amel",
+      "line": "[u0269 | 00:25:04.210-00:25:10.859 | Delwath] Oh, yeah, because it's called the Hall of Stories. Okay? The. I think we should have {{Amel}} Research Stone Giants in general",
+      "contextBefore": [
+        "[u0267 | 00:25:01.720-00:25:03.050 | DM] Kenzo, or {{Omo}}.",
+        "[u0268 | 00:25:03.050-00:25:03.740 | Delwath] {{Ammo}}."
+      ],
+      "contextAfter": [
+        "[u0270 | 00:25:11.460-00:25:12.130 | Delwath] from the in the.",
+        "[u0271 | 00:25:12.130-00:25:12.570 | DM] Okay."
+      ],
+      "after": "Amil",
+      "group": "amil-hall-of-stories",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0634:m1",
+      "uid": "u0634",
+      "ordinal": 1,
+      "lineNumber": 634,
+      "start": 110,
+      "end": 121,
+      "before": "{{botanji}}",
+      "span": "botanji",
+      "line": "[u0634 | 00:54:20.290-00:54:24.069 | Delwath] Well, that's that was can contact other plane. I can. I can ask {{botanji}}.",
+      "contextBefore": [
+        "[u0632 | 00:54:13.520-00:54:14.110 | Delwath] Ow.",
+        "[u0633 | 00:54:15.260-00:54:20.109 | Kenzo] What I thought I had some yes or no questions that are more like."
+      ],
+      "contextAfter": [
+        "[u0635 | 00:54:26.210-00:54:27.200 | Delwath] That's fine.",
+        "[u0636 | 00:54:27.200-00:54:31.549 | DM] That's but that doesn't. That's not divination. It doesn't give you information about the future."
+      ],
+      "after": "the tanshi",
+      "group": "tanshi-contact",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0650:m1",
+      "uid": "u0650",
+      "ordinal": 1,
+      "lineNumber": 650,
+      "start": 89,
+      "end": 106,
+      "before": "{{the time. She}}",
+      "span": "the time. She",
+      "line": "[u0650 | 00:55:15.140-00:55:19.839 | DM] You can ask 5 yes or no questions, but but they {{the time. She}} cannot see the future.",
+      "contextBefore": [
+        "[u0648 | 00:55:10.680-00:55:14.230 | Kenzo] And and what was but but the Contact Other Plane? We can ask more along.",
+        "[u0649 | 00:55:14.230-00:55:15.140 | Delwath] That's yes."
+      ],
+      "contextAfter": [
+        "[u0651 | 00:55:20.050-00:55:23.119 | DM] So you can't ask about something that's going to happen.",
+        "[u0652 | 00:55:26.340-00:55:31.359 | Wellby] Who, we could ask like, is it is it reasonable to"
+      ],
+      "after": "the tanshi",
+      "group": "tanshi-contact",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2078:m1",
+      "uid": "u2078",
+      "ordinal": 1,
+      "lineNumber": 2078,
+      "start": 53,
+      "end": 65,
+      "before": "{{Peterson}}",
+      "span": "Peterson",
+      "line": "[u2078 | 02:45:47.240-02:45:48.379 | DM] Bigger than {{Peterson}}.",
+      "contextBefore": [
+        "[u2076 | 02:45:44.220-02:45:46.060 | DM] like the size of Vindristjarna.",
+        "[u2077 | 02:45:46.060-02:45:47.240 | Kenzo] Yeah, so what's the."
+      ],
+      "contextAfter": [
+        "[u2079 | 02:45:48.380-02:45:49.660 | Kenzo] How do we think this thing works?",
+        "[u2080 | 02:45:50.840-02:46:05.470 | DM] Chalyte in the mountain sends these bolts of purple lightning to the tower, which both holds it suspended, and then forms this core that runs down to the center of the tower to some kind of focusing ray, and you don't know what the thing at the bottom is, because you haven't seen it."
+      ],
+      "after": "Vindristjarna",
+      "group": "vindristjarna-size-comparison",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u0267": {
+      "before": "[u0267 | 00:25:01.720-00:25:03.050 | DM] Kenzo, or {{Omo}}.\n",
+      "after": "[u0267 | 00:25:01.720-00:25:03.050 | DM] Kenzo, or Amil.\n"
+    },
+    "u2078": {
+      "before": "[u2078 | 02:45:47.240-02:45:48.379 | DM] Bigger than {{Peterson}}.\n",
+      "after": "[u2078 | 02:45:47.240-02:45:48.379 | DM] Bigger than Vindristjarna.\n"
+    },
+    "u0650": {
+      "before": "[u0650 | 00:55:15.140-00:55:19.839 | DM] You can ask 5 yes or no questions, but but they {{the time. She}} cannot see the future.\n",
+      "after": "[u0650 | 00:55:15.140-00:55:19.839 | DM] You can ask 5 yes or no questions, but but they the tanshi cannot see the future.\n"
+    },
+    "u0268": {
+      "before": "[u0268 | 00:25:03.050-00:25:03.740 | Delwath] {{Ammo}}.\n",
+      "after": "[u0268 | 00:25:03.050-00:25:03.740 | Delwath] Amil.\n"
+    },
+    "u0634": {
+      "before": "[u0634 | 00:54:20.290-00:54:24.069 | Delwath] Well, that's that was can contact other plane. I can. I can ask {{botanji}}.\n",
+      "after": "[u0634 | 00:54:20.290-00:54:24.069 | Delwath] Well, that's that was can contact other plane. I can. I can ask the tanshi.\n"
+    },
+    "u0269": {
+      "before": "[u0269 | 00:25:04.210-00:25:10.859 | Delwath] Oh, yeah, because it's called the Hall of Stories. Okay? The. I think we should have {{Amel}} Research Stone Giants in general\n",
+      "after": "[u0269 | 00:25:04.210-00:25:10.859 | Delwath] Oh, yeah, because it's called the Hall of Stories. Okay? The. I think we should have Amil Research Stone Giants in general\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:51:21.298414+00:00",
+      "sha256": "dd81f60819b200fce891aff22b8b909d57d8043e9c7dc683ddc6dfb37de085da"
+    }
+  ],
+  "runId": "20261028T045121252884Z-5fd0e078",
+  "createdAt": "2026-10-28T04:51:21.253178+00:00"
+}

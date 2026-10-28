@@ -1,0 +1,310 @@
+--- before/u0051
++++ after/u0051
+@@ -1 +1 @@
+-[u0051 | 00:04:12.840-00:04:14.480 | DM] {{iron corn}},
++[u0051 | 00:04:12.840-00:04:14.480 | DM] Ironcorn,
+--- before/u0052
++++ after/u0052
+@@ -1 +1 @@
+-[u0052 | 00:04:14.680-00:04:16.410 | DM] {{brawn, anvil}}
++[u0052 | 00:04:14.680-00:04:16.410 | DM] Brawnanvil
+--- before/u0054
++++ after/u0054
+@@ -1 +1 @@
+-[u0054 | 00:04:19.899-00:04:23.990 | Unknown] Red Peak, {{iron, corn, brawn, handball}},
++[u0054 | 00:04:19.899-00:04:23.990 | Unknown] Red Peak, Ironcorn, Brawnanvil,
+--- before/u0065
++++ after/u0065
+@@ -1 +1 @@
+-[u0065 | 00:05:26.880-00:05:32.379 | Rothfis] He goes, "{{iron corn}}, all the cursed {{iron cords}}."
++[u0065 | 00:05:26.880-00:05:32.379 | Rothfis] He goes, "Ironcorn, all the cursed Ironcorns."
+--- before/u0270
++++ after/u0270
+@@ -1 +1 @@
+-[u0270 | 00:22:45.560-00:22:52.649 | Rothfis] Rothfis Stonefist. Nice to meet you, not {{iron corn}}, not {{I record}}.
++[u0270 | 00:22:45.560-00:22:52.649 | Rothfis] Rothfis Stonefist. Nice to meet you, not Ironcorn, not Ironcorn.
+--- before/u0350
++++ after/u0350
+@@ -1 +1 @@
+-[u0350 | 00:30:04.920-00:30:08.399 | DM] Yeah, it's clear that this is {{more column}}. This is the
++[u0350 | 00:30:04.920-00:30:08.399 | DM] Yeah, it's clear that this is Morkalan. This is the
+--- before/u0581
++++ after/u0581
+@@ -1 +1 @@
+-[u0581 | 00:50:21.690-00:50:23.310 | DM] from {{more, Colin}}.
++[u0581 | 00:50:21.690-00:50:23.310 | DM] from Morkalan.
+--- before/u0582
++++ after/u0582
+@@ -1 +1 @@
+-[u0582 | 00:50:26.250-00:50:28.479 | Riswynn] We're in {{more. Colin}} now
++[u0582 | 00:50:26.250-00:50:28.479 | Riswynn] We're in Morkalan now
+--- before/u0615
++++ after/u0615
+@@ -1 +1 @@
+-[u0615 | 00:53:51.430-00:53:52.879 | DM] To {{more colony}}?
++[u0615 | 00:53:51.430-00:53:52.879 | DM] To Morkalan?
+--- before/u0623
++++ after/u0623
+@@ -1 +1 @@
+-[u0623 | 00:54:25.400-00:54:31.680 | Riswynn] saying to you, you all of them aside, Perhaps we don't want to make the acquaintance of {{more. Colin}}.
++[u0623 | 00:54:25.400-00:54:31.680 | Riswynn] saying to you, you all of them aside, Perhaps we don't want to make the acquaintance of Morkalan.
+--- before/u0631
++++ after/u0631
+@@ -1 +1 @@
+-[u0631 | 00:55:13.730-00:55:15.180 | DM] {{or calling}},
++[u0631 | 00:55:13.730-00:55:15.180 | DM] Morkalan,
+--- before/u0632
++++ after/u0632
+@@ -1 +1 @@
+-[u0632 | 00:55:19.590-00:55:21.590 | DM] {{or Colin}} told us
++[u0632 | 00:55:19.590-00:55:21.590 | DM] Morkalan told us
+--- before/u0642
++++ after/u0642
+@@ -1 +1 @@
+-[u0642 | 00:55:55.040-00:55:58.399 | DM] {{or Colin}} will be angry if the forms are not kept.
++[u0642 | 00:55:55.040-00:55:58.399 | DM] Morkalan will be angry if the forms are not kept.
+--- before/u0660
++++ after/u0660
+@@ -1 +1 @@
+-[u0660 | 00:57:19.360-00:57:24.560 | DM] stop you. You will be announced, and that is all that {{more Colin}} cares.
++[u0660 | 00:57:19.360-00:57:24.560 | DM] stop you. You will be announced, and that is all that Morkalan cares.
+--- before/u0664
++++ after/u0664
+@@ -1 +1 @@
+-[u0664 | 00:57:40.500-00:57:46.669 | Riswynn] I don't know whether her home here or not, but I think we should talk to these messengers quickly before {{more Cullen}}
++[u0664 | 00:57:40.500-00:57:46.669 | Riswynn] I don't know whether her home here or not, but I think we should talk to these messengers quickly before Morkalan
+--- before/u0687
++++ after/u0687
+@@ -1 +1 @@
+-[u0687 | 00:59:44.400-00:59:52.450 | DM] patrolling, but seemingly for no real purpose other than to announce strangers to {{more quality}} whatever that
++[u0687 | 00:59:44.400-00:59:52.450 | DM] patrolling, but seemingly for no real purpose other than to announce strangers to Morkalan whatever that
+--- before/u0708
++++ after/u0708
+@@ -1 +1 @@
+-[u0708 | 01:01:30.800-01:01:32.600 | DM] {{where Colin}} will be angry,
++[u0708 | 01:01:30.800-01:01:32.600 | DM] Morkalan will be angry,
+--- before/u0923
++++ after/u0923
+@@ -1 +1 @@
+-[u0923 | 01:20:16.930-01:20:21.330 | DM] {{dwarf}} at your service, such as it is,
++[u0923 | 01:20:16.930-01:20:21.330 | DM] Dworic at your service, such as it is,
+--- before/u0924
++++ after/u0924
+@@ -1 +1 @@
+-[u0924 | 01:20:24.250-01:20:27.010 | Merash] {{dwarf}} and and Merash
++[u0924 | 01:20:24.250-01:20:27.010 | Merash] Dworic and and Merash
+--- before/u0960
++++ after/u0960
+@@ -1 +1 @@
+-[u0960 | 01:22:36.770-01:22:38.590 | DM] {{Collins}} eye is watching,
++[u0960 | 01:22:36.770-01:22:38.590 | DM] Morkalan's eye is watching,
+--- before/u0961
++++ after/u0961
+@@ -1 +1 @@
+-[u0961 | 01:22:42.270-01:22:45.120 | Merash] and {{my Collin}} is
++[u0961 | 01:22:42.270-01:22:45.120 | Merash] and Morkalan is
+--- before/u0971
++++ after/u0971
+@@ -1 +1 @@
+-[u0971 | 01:23:22.520-01:23:25.240 | DM] could become {{more calling}} in a moment
++[u0971 | 01:23:22.520-01:23:25.240 | DM] could become Morkalan in a moment
+--- before/u0994
++++ after/u0994
+@@ -1 +1 @@
+-[u0994 | 01:25:08.700-01:25:10.319 | DM] {{more. Colin}} will
++[u0994 | 01:25:08.700-01:25:10.319 | DM] Morkalan will
+--- before/u1002
++++ after/u1002
+@@ -1 +1 @@
+-[u1002 | 01:25:38.790-01:25:45.179 | DM] and then {{more. Colin}} will leave, and there's just a confused dwarf standing there. No recollection of how they got
++[u1002 | 01:25:38.790-01:25:45.179 | DM] and then Morkalan will leave, and there's just a confused dwarf standing there. No recollection of how they got
+--- before/u1014
++++ after/u1014
+@@ -1 +1 @@
+-[u1014 | 01:26:26.470-01:26:29.179 | Merash] How often does {{more Collins}} send
++[u1014 | 01:26:26.470-01:26:29.179 | Merash] How often does Morkalan send
+--- before/u1022
++++ after/u1022
+@@ -1 +1 @@
+-[u1022 | 01:27:00.740-01:27:03.119 | Riswynn] Having displeased {{more, Colin}}
++[u1022 | 01:27:00.740-01:27:03.119 | Riswynn] Having displeased Morkalan
+--- before/u1058
++++ after/u1058
+@@ -1 +1 @@
+-[u1058 | 01:29:47.680-01:29:49.030 | DM] Ah, {{talk}}
++[u1058 | 01:29:47.680-01:29:49.030 | DM] Ah, Tak
+--- before/u1061
++++ after/u1061
+@@ -1 +1 @@
+-[u1061 | 01:29:52.940-01:29:54.659 | DM] {{talk}}. Yeah! He said.
++[u1061 | 01:29:52.940-01:29:54.659 | DM] Tak. Yeah! He said.
+--- before/u1077
++++ after/u1077
+@@ -1 +1 @@
+-[u1077 | 01:31:10.440-01:31:15.249 | Rothfis] You're welcome, and if you're ever in {{charge, and}} don't don't be,
++[u1077 | 01:31:10.440-01:31:15.249 | Rothfis] You're welcome, and if you're ever in Chardon don't don't be,
+--- before/u1086
++++ after/u1086
+@@ -1 +1 @@
+-[u1086 | 01:32:03.180-01:32:07.789 | Rothfis] go ahead. I was gonna say um. Do you think {{talk}} will see us or should.
++[u1086 | 01:32:03.180-01:32:07.789 | Rothfis] go ahead. I was gonna say um. Do you think Tak will see us or should.
+--- before/u1112
++++ after/u1112
+@@ -1 +1 @@
+-[u1112 | 01:34:23.250-01:34:24.280 | Merash] {{check}}
++[u1112 | 01:34:23.250-01:34:24.280 | Merash] Tak
+--- before/u1118
++++ after/u1118
+@@ -1 +1 @@
+-[u1118 | 01:34:36.050-01:34:38.050 | Riswynn] You said {{tac}} was
++[u1118 | 01:34:36.050-01:34:38.050 | Riswynn] You said Tak was
+--- before/u1119
++++ after/u1119
+@@ -1 +1 @@
+-[u1119 | 01:34:38.100-01:34:39.849 | Riswynn] {{Allrex's}},
++[u1119 | 01:34:38.100-01:34:39.849 | Riswynn] Rurik's,
+--- before/u1120
++++ after/u1120
+@@ -1 +1 @@
+-[u1120 | 01:34:39.860-01:34:41.290 | DM] {{Rex}} boy
++[u1120 | 01:34:39.860-01:34:41.290 | DM] Rurik boy
+--- before/u1121
++++ after/u1121
+@@ -1 +1 @@
+-[u1121 | 01:34:41.300-01:34:42.489 | Riswynn] {{for ex}} boy.
++[u1121 | 01:34:41.300-01:34:42.489 | Riswynn] Rurik boy.
+--- before/u1122
++++ after/u1122
+@@ -1 +1 @@
+-[u1122 | 01:34:42.500-01:34:45.080 | Riswynn] Do you think {{Rick}} might be home, but {{tack}} not?
++[u1122 | 01:34:42.500-01:34:45.080 | Riswynn] Do you think Rurik might be home, but Tak not?
+--- before/u1198
++++ after/u1198
+@@ -1 +1 @@
+-[u1198 | 01:41:20.320-01:41:21.410 | DM] {{correct}}.
++[u1198 | 01:41:20.320-01:41:21.410 | DM] Rurik.
+--- before/u1202
++++ after/u1202
+@@ -1 +1 @@
+-[u1202 | 01:41:45.000-01:41:49.070 | DM] I know this is one of {{more Collins}} tricks, but
++[u1202 | 01:41:45.000-01:41:49.070 | DM] I know this is one of Morkalan's tricks, but
+--- before/u1224
++++ after/u1224
+@@ -1 +1 @@
+-[u1224 | 01:43:50.880-01:43:53.550 | DM] just {{more, Colin}}.
++[u1224 | 01:43:50.880-01:43:53.550 | DM] just Morkalan.
+--- before/u1228
++++ after/u1228
+@@ -1 +1 @@
+-[u1228 | 01:44:07.450-01:44:12.180 | Merash] We haven't yet been met or seen by {{Mark Colin}}.
++[u1228 | 01:44:07.450-01:44:12.180 | Merash] We haven't yet been met or seen by Morkalan.
+--- before/u1239
++++ after/u1239
+@@ -1 +1 @@
+-[u1239 | 01:45:08.000-01:45:12.159 | Rothfis] I say, does {{Mark Colin}} even know a good dwarven ale,
++[u1239 | 01:45:08.000-01:45:12.159 | Rothfis] I say, does Morkalan even know a good dwarven ale,
+--- before/u1241
++++ after/u1241
+@@ -1 +1 @@
+-[u1241 | 01:45:13.960-01:45:21.329 | Rothfis] Look at us Look how colorful we are! Look how full of life and vibrance! I don't think we're {{more Cullen}}
++[u1241 | 01:45:13.960-01:45:21.329 | Rothfis] Look at us Look how colorful we are! Look how full of life and vibrance! I don't think we're Morkalan
+--- before/u1268
++++ after/u1268
+@@ -1 +1 @@
+-[u1268 | 01:47:13.140-01:47:15.319 | DM] do not think {{more Colin}} can
++[u1268 | 01:47:13.140-01:47:15.319 | DM] do not think Morkalan can
+--- before/u1314
++++ after/u1314
+@@ -1 +1 @@
+-[u1314 | 01:51:11.920-01:51:13.790 | DM] {{talk}}, said they {{weren't}}
++[u1314 | 01:51:11.920-01:51:13.790 | DM] Tak, said they {{weren't}}
+--- before/u1369
++++ after/u1369
+@@ -1 +1 @@
+-[u1369 | 01:55:22.700-01:55:26.449 | DM] describing {{talk}} you'd guess he was probably,
++[u1369 | 01:55:22.700-01:55:26.449 | DM] describing Tak you'd guess he was probably,
+--- before/u1374
++++ after/u1374
+@@ -1 +1 @@
+-[u1374 | 01:55:44.250-01:55:50.950 | DM] but of course, {{talk}} is in the dwarven culture. These, like single syllable. diminutive names are
++[u1374 | 01:55:44.250-01:55:50.950 | DM] but of course, Tak is in the dwarven culture. These, like single syllable. diminutive names are
+--- before/u1403
++++ after/u1403
+@@ -1 +1 @@
+-[u1403 | 01:57:44.690-01:57:46.490 | DM] {{Talk}} was born
++[u1403 | 01:57:44.690-01:57:46.490 | DM] Tak was born
+--- before/u1413
++++ after/u1413
+@@ -1 +1 @@
+-[u1413 | 01:58:42.220-01:58:44.450 | DM] {{talk}} keeps looking for her.
++[u1413 | 01:58:42.220-01:58:44.450 | DM] Tak keeps looking for her.
+--- before/u1425
++++ after/u1425
+@@ -1 +1 @@
+-[u1425 | 02:00:06.720-02:00:11.119 | DM] uh {{talk}} had tended to travel
++[u1425 | 02:00:06.720-02:00:11.119 | DM] uh Tak had tended to travel
+--- before/u1447
++++ after/u1447
+@@ -1 +1 @@
+-[u1447 | 02:01:51.980-02:01:56.630 | DM] from what {{Rick}} was saying, is that {{talk}} would go north along the river,
++[u1447 | 02:01:51.980-02:01:56.630 | DM] from what Rurik was saying, is that Tak would go north along the river,
+--- before/u1451
++++ after/u1451
+@@ -1 +1 @@
+-[u1451 | 02:02:13.230-02:02:15.230 | DM] {{barrack}} has no idea.
++[u1451 | 02:02:13.230-02:02:15.230 | DM] Rurik has no idea.
+--- before/u1460
++++ after/u1460
+@@ -1 +1 @@
+-[u1460 | 02:02:55.640-02:02:57.880 | Rothfis] {{Talk}}'s on the trail
++[u1460 | 02:02:55.640-02:02:57.880 | Rothfis] Tak's on the trail
+--- before/u1469
++++ after/u1469
+@@ -1 +1 @@
+-[u1469 | 02:03:34.320-02:03:37.119 | Riswynn] we should go looking for {{talk}}.
++[u1469 | 02:03:34.320-02:03:37.119 | Riswynn] we should go looking for Tak.
+--- before/u1475
++++ after/u1475
+@@ -1 +1 @@
+-[u1475 | 02:04:08.620-02:04:11.290 | DM] it's it's fine. Go, go, look for {{talk}},
++[u1475 | 02:04:08.620-02:04:11.290 | DM] it's it's fine. Go, go, look for Tak,
+--- before/u2036
++++ after/u2036
+@@ -1 +1 @@
+-[u2036 | 02:54:47.020-02:54:52.270 | Rothfis] I say, remember, Stonefist, Steins and Stables and {{charm}}.
++[u2036 | 02:54:47.020-02:54:52.270 | Rothfis] I say, remember, Stonefist, Steins and Stables and Chardon.
+--- before/u2170
++++ after/u2170
+@@ -1 +1 @@
+-[u2170 | 03:04:44.990-03:04:46.570 | Riswynn] {{chatterstorm}}
++[u2170 | 03:04:44.990-03:04:46.570 | Riswynn] Shatterstorm
+--- before/u2242
++++ after/u2242
+@@ -1 +1 @@
+-[u2242 | 03:10:30.390-03:10:31.510 | DM] {{Eric}}.
++[u2242 | 03:10:30.390-03:10:31.510 | DM] Rurik.
+--- before/u2247
++++ after/u2247
+@@ -1 +1 @@
+-[u2247 | 03:10:44.310-03:10:45.350 | DM] {{Park}}.
++[u2247 | 03:10:44.310-03:10:45.350 | DM] Tak.
+--- before/u2344
++++ after/u2344
+@@ -1 +1 @@
+-[u2344 | 03:18:23.970-03:18:27.030 | DM] even {{dwarf}} does not believe truly.
++[u2344 | 03:18:23.970-03:18:27.030 | DM] even Dworic does not believe truly.
+--- before/u2377
++++ after/u2377
+@@ -1 +1 @@
+-[u2377 | 03:21:38.880-03:21:50.480 | Riswynn] you don't have to literally make up a story if you don't want to, because I mean we could tell him the story of retrieving the shield of the {{front End bulls}} from Raven's Home. That's a long one.
++[u2377 | 03:21:38.880-03:21:50.480 | Riswynn] you don't have to literally make up a story if you don't want to, because I mean we could tell him the story of retrieving the shield of the Brawnanvils from Raven's Home. That's a long one.
+--- before/u2406
++++ after/u2406
+@@ -1 +1 @@
+-[u2406 | 03:24:00.120-03:24:05.100 | DM] recovering a precious heirloom of the {{brawn-andal}} family.
++[u2406 | 03:24:00.120-03:24:05.100 | DM] recovering a precious heirloom of the Brawnanvil family.
+--- before/u2408
++++ after/u2408
+@@ -1 +1 @@
+-[u2408 | 03:24:09.940-03:24:18.159 | DM] But over the course of an hour, you see, like {{Talk}}'s eyes light up, and he sort of starts to follow Riswynn around.
++[u2408 | 03:24:09.940-03:24:18.159 | DM] But over the course of an hour, you see, like Tak's eyes light up, and he sort of starts to follow Riswynn around.

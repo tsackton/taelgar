@@ -1,0 +1,888 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-037",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-037/cleaned/dunmari-frontier-037-source-cleaned.md",
+  "beforeSha256": "1a76db2aa04d48ea09804f5326eaf70e90ba738609488424d629e6343c72d21c",
+  "afterSha256": "73f18f558375de644a2fa02d8859e28dfc4cca7bd0a5b931378f4b348cdd0ac0",
+  "markersBefore": 204,
+  "groups": [
+    {
+      "id": "breda",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The guard addresses the other guard by name; the session location roster confirms Breda. This is distinct from the unrelated giant with the same given name.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra/Empty Moon Lair.md",
+          "sha256": "bd8348ee45acc5e6e31629402bac9c2eb2ba20ef890fbb388130768220213f0a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1281:m1"
+      ],
+      "replacements": {
+        "u1281:m1": "Breda"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "edmur",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Each occurrence refers to the same guard captain, first summoned and later discussed by the guards. The session location roster establishes Edmur.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra/Empty Moon Lair.md",
+          "sha256": "bd8348ee45acc5e6e31629402bac9c2eb2ba20ef890fbb388130768220213f0a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1322:m1",
+        "u1890:m1",
+        "u2484:m1",
+        "u2495:m1",
+        "u2501:m1"
+      ],
+      "replacements": {
+        "u1322:m1": "Edmur",
+        "u1890:m1": "Edmur",
+        "u2484:m1": "Edmur",
+        "u2495:m1": "Edmur",
+        "u2501:m1": "Edmur"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "hesitated-divine-name",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "A possible name occurs in a hesitation immediately before the speaker explicitly says Sonkar. The marked form does not uniquely identify an earlier name or distinguish it from ordinary hesitation.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0071:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0071:m1": "{{benchmark}}"
+      }
+    },
+    {
+      "id": "kaleha",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The discussion identifies Tokra's priest-administrator previously met by the party, strongly favoring Kaleha over the unrelated Kaya; the role is decisive despite the shortened ASR form.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Kaleha.md",
+          "sha256": "3d909064d7c643c7992aaeba5e43d5c86049a26ae282fa89df8903630982fecf"
+        },
+        {
+          "path": "People/Dunmari/Kaya.md",
+          "sha256": "e77e8f9dff66c5724046c7d85c4aa590cf319d0e70cbe6ddc64a73b294fbe85b"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2307:m1"
+      ],
+      "replacements": {
+        "u2307:m1": "Kaleha"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "kenzo-rai-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The span may contain Kenzo and Rai, but its connective wording and full replacement boundaries are damaged; a name-only replacement would reconstruct or discard part of the phrase.",
+      "evidence": [],
+      "candidates": [
+        "Kenzo",
+        "Rai"
+      ],
+      "markerIds": [
+        "u0039:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0039:m1": "{{Kansas King or add a piece of rye}}"
+      }
+    },
+    {
+      "id": "mostreve-hills",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The complete marked span is the named hill region in southern Sembara; the geographic note and matching introduction establish its spelling.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Sembara/Mostreve Hills.md",
+          "sha256": "942636cb3262d3ca431f286f38f6eafcdb9b033a176b1a29e33af126b9a37a01"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Fox and Hunter Intro.md",
+          "sha256": "b268149c79eee58f34c366d4915080355fe29bfea90e64e1efbac1b1e8958d34"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0010:m1"
+      ],
+      "replacements": {
+        "u0010:m1": "Mostreve Hills"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "These spans concern ordinary chatter, numbers, combat and rules wording, incomplete sentences, source-reading wording, or damaged phrases that cannot be resolved by replacing a complete name or setting term. Retain them unchanged; their presence does not by itself require human name review.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0004:m1",
+        "u0014:m1",
+        "u0030:m1",
+        "u0043:m1",
+        "u0071:m2",
+        "u0118:m1",
+        "u0125:m1",
+        "u0186:m1",
+        "u0227:m1",
+        "u0248:m1",
+        "u0250:m1",
+        "u0284:m1",
+        "u0331:m1",
+        "u0349:m1",
+        "u0452:m1",
+        "u0463:m1",
+        "u0514:m1",
+        "u0547:m1",
+        "u0549:m1",
+        "u0554:m1",
+        "u0570:m1",
+        "u0656:m1",
+        "u0694:m1",
+        "u0711:m1",
+        "u0725:m1",
+        "u0730:m1",
+        "u0743:m1",
+        "u0745:m1",
+        "u0749:m1",
+        "u0758:m1",
+        "u0763:m1",
+        "u0768:m1",
+        "u0804:m1",
+        "u0818:m1",
+        "u0824:m1",
+        "u0857:m1",
+        "u0858:m1",
+        "u0861:m1",
+        "u0868:m1",
+        "u0877:m1",
+        "u0898:m1",
+        "u0949:m1",
+        "u0985:m1",
+        "u1002:m1",
+        "u1005:m1",
+        "u1027:m1",
+        "u1037:m1",
+        "u1121:m1",
+        "u1132:m1",
+        "u1166:m1",
+        "u1196:m1",
+        "u1235:m1",
+        "u1303:m1",
+        "u1310:m1",
+        "u1384:m1",
+        "u1394:m1",
+        "u1402:m1",
+        "u1409:m1",
+        "u1423:m1",
+        "u1436:m1",
+        "u1450:m1",
+        "u1489:m1",
+        "u1502:m1",
+        "u1515:m1",
+        "u1519:m1",
+        "u1529:m1",
+        "u1553:m1",
+        "u1565:m1",
+        "u1567:m1",
+        "u1583:m1",
+        "u1586:m1",
+        "u1595:m1",
+        "u1602:m1",
+        "u1603:m1",
+        "u1619:m1",
+        "u1621:m1",
+        "u1646:m1",
+        "u1665:m1",
+        "u1674:m1",
+        "u1699:m1",
+        "u1704:m1",
+        "u1708:m1",
+        "u1745:m1",
+        "u1746:m1",
+        "u1763:m1",
+        "u1769:m1",
+        "u1801:m1",
+        "u1818:m1",
+        "u1823:m1",
+        "u1958:m1",
+        "u1970:m1",
+        "u1984:m1",
+        "u1992:m1",
+        "u2001:m1",
+        "u2010:m1",
+        "u2030:m1",
+        "u2058:m1",
+        "u2064:m1",
+        "u2070:m1",
+        "u2070:m2",
+        "u2079:m1",
+        "u2092:m1",
+        "u2094:m1",
+        "u2110:m1",
+        "u2146:m1",
+        "u2148:m1",
+        "u2156:m1",
+        "u2212:m1",
+        "u2232:m1",
+        "u2256:m1",
+        "u2274:m1",
+        "u2275:m1",
+        "u2296:m1",
+        "u2341:m1",
+        "u2364:m1",
+        "u2383:m1",
+        "u2396:m1",
+        "u2445:m1",
+        "u2460:m1",
+        "u2487:m1",
+        "u2488:m1",
+        "u2504:m1",
+        "u2551:m1",
+        "u2582:m1",
+        "u2692:m1",
+        "u2706:m1",
+        "u2707:m1",
+        "u2723:m1",
+        "u2733:m1",
+        "u2739:m1",
+        "u2783:m1",
+        "u2811:m1",
+        "u2833:m1",
+        "u2836:m1",
+        "u2871:m1",
+        "u2928:m1",
+        "u2957:m1",
+        "u3009:m1",
+        "u3017:m1",
+        "u3018:m1",
+        "u3048:m1",
+        "u3096:m1",
+        "u3105:m1",
+        "u3112:m1",
+        "u3119:m1",
+        "u3136:m1",
+        "u3137:m1",
+        "u3203:m1",
+        "u3214:m1",
+        "u3215:m1",
+        "u3241:m1",
+        "u3251:m1",
+        "u3254:m1",
+        "u3258:m1",
+        "u3296:m1",
+        "u3319:m1",
+        "u3341:m1",
+        "u3375:m1",
+        "u3391:m1",
+        "u3395:m1",
+        "u3422:m1",
+        "u3428:m1",
+        "u3442:m1",
+        "u3454:m1",
+        "u3460:m1",
+        "u3461:m1",
+        "u3482:m1",
+        "u3527:m1",
+        "u3529:m1",
+        "u3595:m1",
+        "u3601:m1",
+        "u3616:m1",
+        "u3619:m1",
+        "u3663:m1",
+        "u3666:m1",
+        "u3676:m1",
+        "u3677:m1",
+        "u3699:m1",
+        "u3709:m1",
+        "u3720:m1",
+        "u3720:m2",
+        "u3722:m1",
+        "u3732:m1",
+        "u3779:m1",
+        "u3849:m1",
+        "u3854:m1",
+        "u3869:m1",
+        "u3904:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0004:m1": "{{2514}}",
+        "u0014:m1": "{{Service}}",
+        "u0030:m1": "{{about that}}",
+        "u0043:m1": "{{8514}}",
+        "u0071:m2": "{{question}}",
+        "u0118:m1": "{{move Syria less adventure}}",
+        "u0125:m1": "{{honey}}",
+        "u0186:m1": "{{website double party ever}}",
+        "u0227:m1": "{{3315}}",
+        "u0248:m1": "{{salience hands}}",
+        "u0250:m1": "{{How much}}",
+        "u0284:m1": "{{it all idea}}",
+        "u0331:m1": "{{choice}}",
+        "u0349:m1": "{{That casts twice}}",
+        "u0452:m1": "{{I just dropped my flame}}",
+        "u0463:m1": "{{Barrett}}",
+        "u0514:m1": "{{To debbie}}",
+        "u0547:m1": "{{always read daylight}}",
+        "u0549:m1": "{{Taking Dom}}",
+        "u0554:m1": "{{our standing}}",
+        "u0570:m1": "{{dark I}}",
+        "u0656:m1": "{{is also a tactical}}",
+        "u0694:m1": "{{foot Square}}",
+        "u0711:m1": "{{household one}}",
+        "u0725:m1": "{{The smartest creatures}}",
+        "u0730:m1": "{{me just ones}}",
+        "u0743:m1": "{{birth}}",
+        "u0745:m1": "{{bad}}",
+        "u0749:m1": "{{wonderful hit points}}",
+        "u0758:m1": "{{Nada}}",
+        "u0763:m1": "{{windy}}",
+        "u0768:m1": "{{I will key}}",
+        "u0804:m1": "{{floating ravi}}",
+        "u0818:m1": "{{why was}}",
+        "u0824:m1": "{{The feeling}}",
+        "u0857:m1": "{{works is not sales}}",
+        "u0858:m1": "{{10,000 hours}}",
+        "u0861:m1": "{{other kendra}}",
+        "u0868:m1": "{{cringing that kill}}",
+        "u0877:m1": "{{extra was not they go}}",
+        "u0898:m1": "{{under}}",
+        "u0949:m1": "{{m O}}",
+        "u0985:m1": "{{away}}",
+        "u1002:m1": "{{Chapter 14}}",
+        "u1005:m1": "{{i'd heard}}",
+        "u1027:m1": "{{dirt}}",
+        "u1037:m1": "{{room that}}",
+        "u1121:m1": "{{crap}}",
+        "u1132:m1": "{{other foot}}",
+        "u1166:m1": "{{that estimate}}",
+        "u1196:m1": "{{There right month}}",
+        "u1235:m1": "{{Last chats}}",
+        "u1303:m1": "{{years}}",
+        "u1310:m1": "{{Madison}}",
+        "u1384:m1": "{{possible}}",
+        "u1394:m1": "{{dad}}",
+        "u1402:m1": "{{it}}",
+        "u1409:m1": "{{in Canada}}",
+        "u1423:m1": "{{points of damage}}",
+        "u1436:m1": "{{house staff crappy see}}",
+        "u1450:m1": "{{tip}}",
+        "u1489:m1": "{{None of us can creates all kinds of a pair up}}",
+        "u1502:m1": "{{happen}}",
+        "u1515:m1": "{{warily}}",
+        "u1519:m1": "{{Remember your mother}}",
+        "u1529:m1": "{{damn}}",
+        "u1553:m1": "{{top attacker}}",
+        "u1565:m1": "{{so I tomorrow Allah}}",
+        "u1567:m1": "{{sound like attack}}",
+        "u1583:m1": "{{like an apple}}",
+        "u1586:m1": "{{She look inward law}}",
+        "u1595:m1": "{{or guys i've}}",
+        "u1602:m1": "{{starting to hear}}",
+        "u1603:m1": "{{her Kelly}}",
+        "u1619:m1": "{{again you're jumping off of}}",
+        "u1621:m1": "{{once did}}",
+        "u1646:m1": "{{busy}}",
+        "u1665:m1": "{{pasta}}",
+        "u1674:m1": "{{shield}}",
+        "u1699:m1": "{{do you fish Rasmussen}}",
+        "u1704:m1": "{{got seven through}}",
+        "u1708:m1": "{{50 what is that 1415 1617}}",
+        "u1745:m1": "{{killed one for throwing out}}",
+        "u1746:m1": "{{them and first call}}",
+        "u1763:m1": "{{clutter our}}",
+        "u1769:m1": "{{new system flower}}",
+        "u1801:m1": "{{or}}",
+        "u1818:m1": "{{job I}}",
+        "u1823:m1": "{{A}}",
+        "u1958:m1": "{{portal that that lays}}",
+        "u1970:m1": "{{a merging other ship}}",
+        "u1984:m1": "{{We can medicine john}}",
+        "u1992:m1": "{{He said pyramid}}",
+        "u2001:m1": "{{Mylar by our competitor to see against shorts}}",
+        "u2010:m1": "{{post}}",
+        "u2030:m1": "{{mcquaid}}",
+        "u2058:m1": "{{cell phone}}",
+        "u2064:m1": "{{opponent areas}}",
+        "u2070:m1": "{{lead}}",
+        "u2070:m2": "{{how the herd}}",
+        "u2079:m1": "{{heart and the head}}",
+        "u2092:m1": "{{jacket}}",
+        "u2094:m1": "{{pendant}}",
+        "u2110:m1": "{{Making Islam looks like a skeaping you}}",
+        "u2146:m1": "{{Interested}}",
+        "u2148:m1": "{{good night}}",
+        "u2156:m1": "{{your on}}",
+        "u2212:m1": "{{Old provide multimedia}}",
+        "u2232:m1": "{{when you are not}}",
+        "u2256:m1": "{{If we ever you}}",
+        "u2274:m1": "{{yes}}",
+        "u2275:m1": "{{To last night}}",
+        "u2296:m1": "{{Beautiful journey}}",
+        "u2341:m1": "{{where they will be seeing}}",
+        "u2364:m1": "{{train}}",
+        "u2383:m1": "{{walk from my wall}}",
+        "u2396:m1": "{{Not to short right plane was}}",
+        "u2445:m1": "{{an x bar}}",
+        "u2460:m1": "{{can also}}",
+        "u2487:m1": "{{even}}",
+        "u2488:m1": "{{It won't be}}",
+        "u2504:m1": "{{he will}}",
+        "u2551:m1": "{{to God}}",
+        "u2582:m1": "{{were always}}",
+        "u2692:m1": "{{deal with white}}",
+        "u2706:m1": "{{on the soon}}",
+        "u2707:m1": "{{works}}",
+        "u2723:m1": "{{pain}}",
+        "u2733:m1": "{{where did you}}",
+        "u2739:m1": "{{Apps}}",
+        "u2783:m1": "{{brought him about humans}}",
+        "u2811:m1": "{{trace route}}",
+        "u2833:m1": "{{gracious}}",
+        "u2836:m1": "{{11}}",
+        "u2871:m1": "{{i'll be guy up 10}}",
+        "u2928:m1": "{{inside the water}}",
+        "u2957:m1": "{{strike at the process gone}}",
+        "u3009:m1": "{{not on our side}}",
+        "u3017:m1": "{{have enough}}",
+        "u3018:m1": "{{race}}",
+        "u3048:m1": "{{You want to deal with and give one to make an adult within well to hear it}}",
+        "u3096:m1": "{{Battery}}",
+        "u3105:m1": "{{will see you}}",
+        "u3112:m1": "{{years and I live in}}",
+        "u3119:m1": "{{I went using an}}",
+        "u3136:m1": "{{herself}}",
+        "u3137:m1": "{{don't}}",
+        "u3203:m1": "{{To build your secret}}",
+        "u3214:m1": "{{who understand}}",
+        "u3215:m1": "{{The details now on the fact that we're going to}}",
+        "u3241:m1": "{{guests attacker}}",
+        "u3251:m1": "{{step up}}",
+        "u3254:m1": "{{very terrible}}",
+        "u3258:m1": "{{Last inside}}",
+        "u3296:m1": "{{US Constitution}}",
+        "u3319:m1": "{{US by to be totally on}}",
+        "u3341:m1": "{{Friday world}}",
+        "u3375:m1": "{{ball}}",
+        "u3391:m1": "{{by on}}",
+        "u3395:m1": "{{the dead it}}",
+        "u3422:m1": "{{a friend woman}}",
+        "u3428:m1": "{{shoot}}",
+        "u3442:m1": "{{beaker million}}",
+        "u3454:m1": "{{to another level}}",
+        "u3460:m1": "{{any mighty now as allies}}",
+        "u3461:m1": "{{Wilson}}",
+        "u3482:m1": "{{i'm better spill}}",
+        "u3527:m1": "{{good site}}",
+        "u3529:m1": "{{direct doctors}}",
+        "u3595:m1": "{{ice had to}}",
+        "u3601:m1": "{{turn down}}",
+        "u3616:m1": "{{All}}",
+        "u3619:m1": "{{4500}}",
+        "u3663:m1": "{{play damage celebrities}}",
+        "u3666:m1": "{{I better common you}}",
+        "u3676:m1": "{{stop}}",
+        "u3677:m1": "{{of an experiment}}",
+        "u3699:m1": "{{comment}}",
+        "u3709:m1": "{{the werewolf a plateau}}",
+        "u3720:m1": "{{are probably before}}",
+        "u3720:m2": "{{join us}}",
+        "u3722:m1": "{{happen test}}",
+        "u3732:m1": "{{Coffee this}}",
+        "u3779:m1": "{{dude on}}",
+        "u3849:m1": "{{a shed}}",
+        "u3854:m1": "{{se}}",
+        "u3869:m1": "{{you're just rope it}}",
+        "u3904:m1": "{{cleansing time it is}}"
+      }
+    },
+    {
+      "id": "possible-aaviskar",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Aaviskar is named shortly afterward, but this fragment after the quoted home question may instead be ordinary exclamation or connective wording; the current context does not resolve it.",
+      "evidence": [],
+      "candidates": [
+        "Aaviskar"
+      ],
+      "markerIds": [
+        "u0155:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0155:m1": "{{the car}}"
+      }
+    },
+    {
+      "id": "possible-kyr-question",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Kyr is plausible in this discussion of former characters, but the marked span may include a question verb as well as the name; neither the identity nor complete name-only boundary is certain.",
+      "evidence": [
+        {
+          "path": "People/PCs/Great War/Kyr.md",
+          "sha256": "d319541e7a2b5c56a1a7a01fe461d6abc8ff860808a3c374d70212c28f436cf2"
+        }
+      ],
+      "candidates": [
+        "Kyr"
+      ],
+      "markerIds": [
+        "u0084:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0084:m1": "{{this girl}}"
+      }
+    },
+    {
+      "id": "raven-location-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The dwarven guardian recollection may refer to Raven's Hold, but the entire marked span includes unclear surrounding wording; replacing it with a place name would discard unrecovered words.",
+      "evidence": [],
+      "candidates": [
+        "Raven's Hold"
+      ],
+      "markerIds": [
+        "u0949:m2"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0949:m2": "{{I need a Raven}}"
+      }
+    },
+    {
+      "id": "speaker-lara",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The absent religious leader and her acolytes match Speaker Lara, whose note records the office and contemporary travel. Preserve the possessive.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Lara.md",
+          "sha256": "a944b267d58900b33e12193e1e529dd2440cce1ec1fdcecdeb8194e4a468a7b2"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2303:m1"
+      ],
+      "replacements": {
+        "u2303:m1": "Speaker Lara's"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "uncertain-demonym",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The speaker is comparing ethnic appearances, but the marked plural does not uniquely distinguish a Dunmari reference from another people such as Chardonians. Retain the uncertainty rather than infer a demonym.",
+      "evidence": [],
+      "candidates": [
+        "Dunmari",
+        "Chardonians"
+      ],
+      "markerIds": [
+        "u1936:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1936:m1": "{{Tony ins}}"
+      }
+    },
+    {
+      "id": "uncertain-workshop-reference",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The aside appears to ask for someone while examining the workshop, but the inspected character and session sources do not identify a unique referent or establish whether this is a setting name or an outside comparison.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u2067:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2067:m1": "{{Room one}}"
+      }
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0010:m1",
+      "uid": "u0010",
+      "ordinal": 1,
+      "lineNumber": 10,
+      "start": 65,
+      "end": 87,
+      "before": "{{must drive a hills}}",
+      "span": "must drive a hills",
+      "line": "[u0010 | 00:01:17.160-00:01:34.290 | DM] Stay on the forests and {{must drive a hills}} of the southern reaches of Sembara, nor on the arid foothills where the people of the Refounded Alliance of Aurbez scratch out a living on the edge of the Plaguelands. The full moon also draws the darkness of the void closer.",
+      "contextBefore": [
+        "[u0008 | 00:01:03.390-00:01:13.860 | DM] The Fox thinks of days running in the forests of the north and stretches across the world. The Hunter calls to him, reminding him of the task ahead, but remembers the joy of those early days too.",
+        "[u0009 | 00:01:15.750-00:01:17.160 | DM] Their attention, though, does not."
+      ],
+      "contextAfter": [
+        "[u0011 | 00:01:35.400-00:01:49.200 | DM] The hunter always with one small part of his essence watching those who carry echoes of his companions of old sees the madness pour into the soul of a poor innocent boy, a young dwarf, not even of age in the west of Dunmar.",
+        "[u0012 | 00:01:50.730-00:01:57.030 | DM] While the Fox tends to the prayers of the Rangers of Sembara, the Hunter watches Dunmar more closely for a moment."
+      ],
+      "after": "Mostreve Hills",
+      "group": "mostreve-hills",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1281:m1",
+      "uid": "u1281",
+      "ordinal": 1,
+      "lineNumber": 1281,
+      "start": 41,
+      "end": 50,
+      "before": "{{breda}}",
+      "span": "breda",
+      "line": "[u1281 | 01:29:57.570-01:29:59.280 | DM] {{breda}} alert the others.",
+      "contextBefore": [
+        "[u1279 | 01:29:49.830-01:29:53.400 | DM] Ah ah, he also yells and common.",
+        "[u1280 | 01:29:54.450-01:29:56.100 | DM] back this way."
+      ],
+      "contextAfter": [
+        "[u1282 | 01:30:00.930-01:30:01.680 | Kenzo] No alerting.",
+        "[u1283 | 01:30:02.100-01:30:04.470 | Wellby] Oh that's my readied action at that point."
+      ],
+      "after": "Breda",
+      "group": "breda",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1322:m1",
+      "uid": "u1322",
+      "ordinal": 1,
+      "lineNumber": 1322,
+      "start": 41,
+      "end": 51,
+      "before": "{{Edmier}}",
+      "span": "Edmier",
+      "line": "[u1322 | 01:32:11.370-01:32:13.170 | DM] {{Edmier}} intruders.",
+      "contextBefore": [
+        "[u1320 | 01:32:04.770-01:32:08.070 | DM] And then he also as the arrow pierces him, he also.",
+        "[u1321 | 01:32:09.420-01:32:10.170 | DM] yells."
+      ],
+      "contextAfter": [
+        "[u1323 | 01:32:15.960-01:32:17.100 | DM] And then.",
+        "[u1324 | 01:32:18.450-01:32:20.400 | DM] His face begins to."
+      ],
+      "after": "Edmur",
+      "group": "edmur",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1890:m1",
+      "uid": "u1890",
+      "ordinal": 1,
+      "lineNumber": 1890,
+      "start": 165,
+      "end": 175,
+      "before": "{{Edmier}}",
+      "span": "Edmier",
+      "line": "[u1890 | 02:09:38.250-02:09:54.060 | DM] guards who you initially startled, Wellby, don't carry anything on them the larger guard captain, whose name was presumably {{Edmier}}, who was the second one, that the first guy you killed called for.",
+      "contextBefore": [
+        "[u1888 | 02:09:31.890-02:09:32.490 | DM] The.",
+        "[u1889 | 02:09:35.610-02:09:36.540 | DM] The two."
+      ],
+      "contextAfter": [
+        "[u1891 | 02:09:56.010-02:10:04.260 | DM] carries a spear and shield, which are both of pretty good quality and an iron pendant.",
+        "[u1892 | 02:10:06.180-02:10:12.870 | Delwath] I'm going to once I go into the room so I'm going to magic I do my magic magic Detect Magic guys."
+      ],
+      "after": "Edmur",
+      "group": "edmur",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2303:m1",
+      "uid": "u2303",
+      "ordinal": 1,
+      "lineNumber": 2303,
+      "start": 66,
+      "end": 82,
+      "before": "{{speaker laws}}",
+      "span": "speaker laws",
+      "line": "[u2303 | 02:50:55.710-02:51:04.140 | DM] You know at least one of {{speaker laws}} like acolytes would be that strong but again they're all still out in the plane somewhere.",
+      "contextBefore": [
+        "[u2301 | 02:50:40.020-02:50:41.790 | Kenzo] Tim is there one in Tokra.",
+        "[u2302 | 02:50:44.280-02:50:54.690 | DM] Well you're not super familiar with the like power, you know how the lakes powerful individuals in the temple hierarchy, there are there is certainly."
+      ],
+      "contextAfter": [
+        "[u2304 | 02:51:04.470-02:51:11.580 | DM] Right your guess, though, from what you know of like Dunmari temple hierarchies and things Tokra's a big enough city.",
+        "[u2305 | 02:51:12.990-02:51:14.940 | DM] You know there's got to be somebody whether."
+      ],
+      "after": "Speaker Lara's",
+      "group": "speaker-lara",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2307:m1",
+      "uid": "u2307",
+      "ordinal": 1,
+      "lineNumber": 2307,
+      "start": 41,
+      "end": 50,
+      "before": "{{kayla}}",
+      "span": "kayla",
+      "line": "[u2307 | 02:51:21.570-02:51:22.770 | DM] {{kayla}} was.",
+      "contextBefore": [
+        "[u2305 | 02:51:12.990-02:51:14.940 | DM] You know there's got to be somebody whether.",
+        "[u2306 | 02:51:16.620-02:51:19.560 | DM] You know you didn't really have a clear sense of whether I'm."
+      ],
+      "contextAfter": [
+        "[u2308 | 02:51:24.150-02:51:32.970 | DM] Primarily, you know was actually blessed by the gods you know have magic or was just an administrator but there's gotta be something and somebody in the temple hierarchy who.",
+        "[u2309 | 02:51:33.300-02:51:35.160 | Kenzo] has some powers as well."
+      ],
+      "after": "Kaleha",
+      "group": "kaleha",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2484:m1",
+      "uid": "u2484",
+      "ordinal": 1,
+      "lineNumber": 2484,
+      "start": 47,
+      "end": 57,
+      "before": "{{Edmier}}",
+      "span": "Edmier",
+      "line": "[u2484 | 03:04:06.390-03:04:10.440 | DM] Trust {{Edmier}} but after the.",
+      "contextBefore": [
+        "[u2482 | 03:04:01.260-03:04:01.950 | Unknown] in common.",
+        "[u2483 | 03:04:04.380-03:04:04.980 | DM] I."
+      ],
+      "contextAfter": [
+        "[u2485 | 03:04:12.060-03:04:21.870 | DM] pleasantries of the last evening, I am not sure that we should leave Govir without sufficient guard, let us say.",
+        "[u2486 | 03:04:23.340-03:04:26.760 | DM] feel free to kick him a bit and tease him about you know."
+      ],
+      "after": "Edmur",
+      "group": "edmur",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2495:m1",
+      "uid": "u2495",
+      "ordinal": 1,
+      "lineNumber": 2495,
+      "start": 41,
+      "end": 51,
+      "before": "{{Edmier}}",
+      "span": "Edmier",
+      "line": "[u2495 | 03:05:10.410-03:05:12.690 | DM] {{Edmier}} said he beat the fellow.",
+      "contextBefore": [
+        "[u2493 | 03:04:58.980-03:05:03.030 | DM] One of the other speaks, then in a different voice speaks um.",
+        "[u2494 | 03:05:06.270-03:05:08.370 | DM] Yes, of course, I'm."
+      ],
+      "contextAfter": [
+        "[u2496 | 03:05:13.920-03:05:14.760 | DM] knocked him out.",
+        "[u2497 | 03:05:16.320-03:05:16.920 | DM] And we could."
+      ],
+      "after": "Edmur",
+      "group": "edmur",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2501:m1",
+      "uid": "u2501",
+      "ordinal": 1,
+      "lineNumber": 2501,
+      "start": 54,
+      "end": 64,
+      "before": "{{Edmier}}",
+      "span": "Edmier",
+      "line": "[u2501 | 03:05:27.570-03:05:33.630 | DM] But you know {{Edmier}} is is strong so who knows, but we hear you.",
+      "contextBefore": [
+        "[u2499 | 03:05:20.310-03:05:21.210 | DM] He recovered.",
+        "[u2500 | 03:05:22.680-03:05:26.250 | DM] don't think he's very strong it only took about three solid hits."
+      ],
+      "contextAfter": [
+        "[u2502 | 03:05:35.310-03:05:37.260 | DM] I know that you have more.",
+        "[u2503 | 03:05:39.210-03:05:46.890 | DM] sport to be had with this Govir creature, we have only two more nights to enjoy before."
+      ],
+      "after": "Edmur",
+      "group": "edmur",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u1890": {
+      "before": "[u1890 | 02:09:38.250-02:09:54.060 | DM] guards who you initially startled, Wellby, don't carry anything on them the larger guard captain, whose name was presumably {{Edmier}}, who was the second one, that the first guy you killed called for.\n",
+      "after": "[u1890 | 02:09:38.250-02:09:54.060 | DM] guards who you initially startled, Wellby, don't carry anything on them the larger guard captain, whose name was presumably Edmur, who was the second one, that the first guy you killed called for.\n"
+    },
+    "u2501": {
+      "before": "[u2501 | 03:05:27.570-03:05:33.630 | DM] But you know {{Edmier}} is is strong so who knows, but we hear you.\n",
+      "after": "[u2501 | 03:05:27.570-03:05:33.630 | DM] But you know Edmur is is strong so who knows, but we hear you.\n"
+    },
+    "u0010": {
+      "before": "[u0010 | 00:01:17.160-00:01:34.290 | DM] Stay on the forests and {{must drive a hills}} of the southern reaches of Sembara, nor on the arid foothills where the people of the Refounded Alliance of Aurbez scratch out a living on the edge of the Plaguelands. The full moon also draws the darkness of the void closer.\n",
+      "after": "[u0010 | 00:01:17.160-00:01:34.290 | DM] Stay on the forests and Mostreve Hills of the southern reaches of Sembara, nor on the arid foothills where the people of the Refounded Alliance of Aurbez scratch out a living on the edge of the Plaguelands. The full moon also draws the darkness of the void closer.\n"
+    },
+    "u1322": {
+      "before": "[u1322 | 01:32:11.370-01:32:13.170 | DM] {{Edmier}} intruders.\n",
+      "after": "[u1322 | 01:32:11.370-01:32:13.170 | DM] Edmur intruders.\n"
+    },
+    "u2484": {
+      "before": "[u2484 | 03:04:06.390-03:04:10.440 | DM] Trust {{Edmier}} but after the.\n",
+      "after": "[u2484 | 03:04:06.390-03:04:10.440 | DM] Trust Edmur but after the.\n"
+    },
+    "u2495": {
+      "before": "[u2495 | 03:05:10.410-03:05:12.690 | DM] {{Edmier}} said he beat the fellow.\n",
+      "after": "[u2495 | 03:05:10.410-03:05:12.690 | DM] Edmur said he beat the fellow.\n"
+    },
+    "u1281": {
+      "before": "[u1281 | 01:29:57.570-01:29:59.280 | DM] {{breda}} alert the others.\n",
+      "after": "[u1281 | 01:29:57.570-01:29:59.280 | DM] Breda alert the others.\n"
+    },
+    "u2303": {
+      "before": "[u2303 | 02:50:55.710-02:51:04.140 | DM] You know at least one of {{speaker laws}} like acolytes would be that strong but again they're all still out in the plane somewhere.\n",
+      "after": "[u2303 | 02:50:55.710-02:51:04.140 | DM] You know at least one of Speaker Lara's like acolytes would be that strong but again they're all still out in the plane somewhere.\n"
+    },
+    "u2307": {
+      "before": "[u2307 | 02:51:21.570-02:51:22.770 | DM] {{kayla}} was.\n",
+      "after": "[u2307 | 02:51:21.570-02:51:22.770 | DM] Kaleha was.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T03:49:43.386403+00:00",
+      "sha256": "73f18f558375de644a2fa02d8859e28dfc4cca7bd0a5b931378f4b348cdd0ac0"
+    }
+  ],
+  "runId": "20261028T034943255455Z-f66ef8f6",
+  "createdAt": "2026-10-28T03:49:43.255814+00:00"
+}

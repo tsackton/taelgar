@@ -1,0 +1,20 @@
+--- before/u0017
++++ after/u0017
+@@ -1 +1 @@
+-[u0017 | 00:01:24.049-00:01:29.919 | DM] who tells him that you are moving quickly across the {{Iran River Basin}}.
++[u0017 | 00:01:24.049-00:01:29.919 | DM] who tells him that you are moving quickly across the Yeraad River Basin.
+--- before/u0644
++++ after/u0644
+@@ -1 +1 @@
+-[u0644 | 01:00:21.310-01:00:25.289 | Wellby] talk to people at the {{University of Bend}}, or find maps of….
++[u0644 | 01:00:21.310-01:00:25.289 | Wellby] talk to people at the University of Chardon, or find maps of….
+--- before/u0830
++++ after/u0830
+@@ -1 +1 @@
+-[u0830 | 01:18:48.380-01:18:52.600 | DM] It's difficult to get reliable estimates of the {{Plaguands}}.
++[u0830 | 01:18:48.380-01:18:52.600 | DM] It's difficult to get reliable estimates of the Plaguelands.
+--- before/u1276
++++ after/u1276
+@@ -1 +1 @@
+-[u1276 | 01:48:51.400-01:48:57.580 | DM] Hardly anyone goes beyond the course of the {{DORA}}, and that's… 40 miles from here.
++[u1276 | 01:48:51.400-01:48:57.580 | DM] Hardly anyone goes beyond the course of the Douren, and that's… 40 miles from here.

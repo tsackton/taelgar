@@ -1,0 +1,440 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-103",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-source-cleaned.md",
+  "beforeSha256": "fb1c1213d51ff789bed3679b6e09310bcc56481f17a8dafcf455036ed012af48",
+  "afterSha256": "c9f60b79bb63e8774b4c693b7dd59f2ef9e34a4960e1f8355ccfa8b7546658cc",
+  "markersBefore": 47,
+  "groups": [
+    {
+      "id": "body-observer",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Delwath is standing over and inspecting Buruli in the immediately preceding dialogue; the marked sound strongly favors his name as the narration returns to that observer. Faldrak and Seeker are separately described walking together. The session configuration establishes the spelling.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-session.yaml",
+          "sha256": "1f86a9b50e4ae9d363b018e99b601fbf885e30334c60f8e4dada92af691433e7"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 103 (DuFr).md",
+          "sha256": "785879561ea595c8aa396a4cbed77ecdff3144e44b94a03a032bf4ed546c6f31"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0183:m1"
+      ],
+      "replacements": {
+        "u0183:m1": "Delwath"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "dock-location-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Drankor is supported as the ruined city being discussed, but the marker may include a preposition or other ordinary wording. The exact complete span cannot safely be replaced by the city name alone.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 103 (DuFr).md",
+          "sha256": "785879561ea595c8aa396a4cbed77ecdff3144e44b94a03a032bf4ed546c6f31"
+        },
+        {
+          "path": "Gazetteer/Drankorian Hinterland/Drankor/Drankor.md",
+          "sha256": "8b944d48fa59d996b255ecb3026c8a555e2b0f750ce6aa6ed206a9851fac78dd"
+        }
+      ],
+      "candidates": [
+        "Drankor"
+      ],
+      "markerIds": [
+        "u2550:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2550:m1": "{{at Frank.}}"
+      }
+    },
+    {
+      "id": "dream-warning-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Delwath is plausible in the warning about dream communications, but the marked clause is damaged beyond the name and cannot be replaced as a complete name span.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-session.yaml",
+          "sha256": "1f86a9b50e4ae9d363b018e99b601fbf885e30334c60f8e4dada92af691433e7"
+        }
+      ],
+      "candidates": [
+        "Delwath"
+      ],
+      "markerIds": [
+        "u1933:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1933:m1": "{{Our friends about delpy dream, conversing with them.}}"
+      }
+    },
+    {
+      "id": "illoria-scholar",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Servius is the scholar previously reported hunting treasure in Illoria, matching both the marked name and this specific remembered role. The following spoken qualification remains unchanged; no competing Severus is established in the inspected sources.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Servius.md",
+          "sha256": "60d2f1f27a0fc84f9ebf3e57496135dab2af84e0d6e6e1ee926cae2aab71ca43"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 48 (DuFr).md",
+          "sha256": "18482ff08441a39d4685e1fb488c640767d62ee4be4578780bb42e608941b103"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1460:m1"
+      ],
+      "replacements": {
+        "u1460:m1": "Servius"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "kenzo-water-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Kenzo is the intended subject of the surrounding teleport and swimming discussion, but the marker also contains damaged ordinary wording about water. Replacing it would require reconstructing more than his name.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-session.yaml",
+          "sha256": "1f86a9b50e4ae9d363b018e99b601fbf885e30334c60f8e4dada92af691433e7"
+        }
+      ],
+      "candidates": [
+        "Kenzo"
+      ],
+      "markerIds": [
+        "u2684:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2684:m1": "{{Ken doesn’t water.}}"
+      }
+    },
+    {
+      "id": "meswati-power",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The question concerns the source of Delwath’s patron magic. Meswati matches the marked sound and names the tanshi with whom he communes; Yezali is a member of that group. Only the name changes; the possessive, ordinary word and punctuation are preserved.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Meswati/Meswati.md",
+          "sha256": "6ec032ef4d5f6c88365c253c8ccca62cebe36e44085f24d08ab45aeccf880a9a"
+        },
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md",
+          "sha256": "bad2517aae7dfc353a46ae5b2f2a393f75fe7ee393f69f2e7e1ea46398a51d27"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Interlude (Delwath Postscript).md",
+          "sha256": "79707808a30523bae954a450bca7397d275a4db154558c752822f57960279216"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0520:m1"
+      ],
+      "replacements": {
+        "u0520:m1": "Meswati’s power."
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ordinary-wording-and-mechanics",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary narration, chatter, damaged grammar, numbers, and spell or item-use discussion are outside names-v1. In u2133 the name Jotha is already established and the uncertainty concerns the surrounding phrase; u1795 is a damaged continuation about Aygul rather than a supported new identity. These spans are retained without reconstructing their wording.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0016:m1",
+        "u0017:m1",
+        "u0206:m1",
+        "u0207:m1",
+        "u0215:m1",
+        "u0553:m1",
+        "u0566:m1",
+        "u0642:m1",
+        "u0728:m1",
+        "u0824:m1",
+        "u0975:m1",
+        "u0979:m1",
+        "u1059:m1",
+        "u1385:m1",
+        "u1474:m1",
+        "u1685:m1",
+        "u1795:m1",
+        "u1826:m1",
+        "u1838:m1",
+        "u1843:m1",
+        "u1974:m1",
+        "u2020:m1",
+        "u2026:m1",
+        "u2133:m1",
+        "u2307:m1",
+        "u2383:m1",
+        "u2692:m1",
+        "u2713:m1",
+        "u2734:m1",
+        "u2735:m1",
+        "u2774:m1",
+        "u2866:m1",
+        "u2891:m1",
+        "u2902:m1",
+        "u2961:m1",
+        "u3042:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0016:m1": "{{bolder hero!}}",
+        "u0017:m1": "{{Or stop that}}",
+        "u0206:m1": "{{It was Chinese.}}",
+        "u0207:m1": "{{In you.}}",
+        "u0215:m1": "{{for my own}}",
+        "u0553:m1": "{{Guess the pitch.}}",
+        "u0566:m1": "{{Non slate on it.}}",
+        "u0642:m1": "{{well, 1st Level}}",
+        "u0728:m1": "{{An act to keep in our pockets. Now.}}",
+        "u0824:m1": "{{5 or 10}}",
+        "u0975:m1": "{{death threat isn’t really my place}}",
+        "u0979:m1": "{{inside a}}",
+        "u1059:m1": "{{unknown desert}}",
+        "u1385:m1": "{{black}}",
+        "u1474:m1": "{{Wow! We just drives one effect.}}",
+        "u1685:m1": "{{this is very futuristic.}}",
+        "u1795:m1": "{{Tommy}}",
+        "u1826:m1": "{{founded.}}",
+        "u1838:m1": "{{wrong summer.}}",
+        "u1843:m1": "{{long.}}",
+        "u1974:m1": "{{I’m at the off}}",
+        "u2020:m1": "{{But where we are, we actually buried}}",
+        "u2026:m1": "{{Murder, license.}}",
+        "u2133:m1": "{{the Jotha soul}}",
+        "u2307:m1": "{{Liz.}}",
+        "u2383:m1": "{{Take an order on it.}}",
+        "u2692:m1": "{{5 o’clock}}",
+        "u2713:m1": "{{It’s kind of hole with the ship that doesn’t like.}}",
+        "u2734:m1": "{{Load of.}}",
+        "u2735:m1": "{{Function. A couple of key}}",
+        "u2774:m1": "{{and by yourself.}}",
+        "u2866:m1": "{{And violence, right.}}",
+        "u2891:m1": "{{care the ruby}}",
+        "u2902:m1": "{{Cal}}",
+        "u2961:m1": "{{Wow! That looks like a mute.}}",
+        "u3042:m1": "{{up at the water}}"
+      }
+    },
+    {
+      "id": "pilot-promotion-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The surrounding promotion discussion concerns Faldrak, but the marker includes several damaged words. Recovering a name would require reconstructing the whole phrase.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 103 (DuFr).md",
+          "sha256": "785879561ea595c8aa396a4cbed77ecdff3144e44b94a03a032bf4ed546c6f31"
+        }
+      ],
+      "candidates": [
+        "Faldrak"
+      ],
+      "markerIds": [
+        "u1901:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1901:m1": "{{Projects. I know here}}"
+      }
+    },
+    {
+      "id": "possible-fausto-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Fausto is a possible reading of the first sound in this interjection about the duplicates, but neither that identity nor the complete marked phrase is clear. Retain rather than reconstruct the sentence.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 103 (DuFr).md",
+          "sha256": "785879561ea595c8aa396a4cbed77ecdff3144e44b94a03a032bf4ed546c6f31"
+        }
+      ],
+      "candidates": [
+        "Fausto"
+      ],
+      "markerIds": [
+        "u2101:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2101:m1": "{{Hustled in trouble.}}"
+      }
+    },
+    {
+      "id": "repeated-question-owner",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The participant configuration has no Richard, and Riswynn herself previously raised evacuation. This might refer to a player, character, or a spoken misremembering; there is no unique supported possessive replacement.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-103/cleaned/dunmari-frontier-103-session.yaml",
+          "sha256": "1f86a9b50e4ae9d363b018e99b601fbf885e30334c60f8e4dada92af691433e7"
+        }
+      ],
+      "candidates": [
+        "Riswynn",
+        "Eric Rosenbaum"
+      ],
+      "markerIds": [
+        "u1406:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1406:m1": "{{Richard’s}}"
+      }
+    },
+    {
+      "id": "ship-arrival-message",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Faldrak is plausible in this report of somebody warning the orcs, but the name is embedded in a damaged longer phrase. A complete replacement would reconstruct ordinary wording.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 103 (DuFr).md",
+          "sha256": "785879561ea595c8aa396a4cbed77ecdff3144e44b94a03a032bf4ed546c6f31"
+        }
+      ],
+      "candidates": [
+        "Faldrak"
+      ],
+      "markerIds": [
+        "u0027:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0027:m1": "{{the fall dress of somebody beyond}}"
+      }
+    },
+    {
+      "id": "water-source-reference",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The discussion concerns a source of water for the rescued crew, but the marked sound does not uniquely identify a named item or conventional item term. It may instead be ordinary interjected wording; no replacement is secure.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u1017:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1017:m1": "{{tko}}"
+      }
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0183:m1",
+      "uid": "u0183",
+      "ordinal": 1,
+      "lineNumber": 183,
+      "start": 41,
+      "end": 49,
+      "before": "{{Gowa}}",
+      "span": "Gowa",
+      "line": "[u0183 | 00:12:25.480-00:12:28.209 | DM] {{Gowa}} sort of glancing down at the body.",
+      "contextBefore": [
+        "[u0181 | 00:12:14.250-00:12:17.829 | DM] at Buruli's body. Faldrak is kind of.",
+        "[u0182 | 00:12:18.500-00:12:23.490 | DM] you know, as he does like shuffling, limping, a bit, walking with Seeker"
+      ],
+      "contextAfter": [
+        "[u0184 | 00:12:28.360-00:12:36.750 | DM] getting a better look at at Buruli. Now. You can see that. So he's wearing this cloak made of some kind of billowing",
+        "[u0185 | 00:12:36.760-00:12:45.122 | DM] kelp fronds woven into fabric. That sort of seems to wrap around him almost protectively."
+      ],
+      "after": "Delwath",
+      "group": "body-observer",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0520:m1",
+      "uid": "u0520",
+      "ordinal": 1,
+      "lineNumber": 520,
+      "start": 46,
+      "end": 64,
+      "before": "{{Swati’s power.}}",
+      "span": "Swati’s power.",
+      "line": "[u0520 | 00:34:35.790-00:34:37.140 | Delwath] {{Swati’s power.}}",
+      "contextBefore": [
+        "[u0518 | 00:34:27.020-00:34:33.159 | Delwath] is there is the fake second Delwath somehow drawing on",
+        "[u0519 | 00:34:33.620-00:34:34.350 | Delwath] that"
+      ],
+      "contextAfter": [
+        "[u0521 | 00:34:38.260-00:34:39.150 | Seeker] Or",
+        "[u0522 | 00:34:42.320-00:34:44.069 | Seeker] do you have an imposter."
+      ],
+      "after": "Meswati’s power.",
+      "group": "meswati-power",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1460:m1",
+      "uid": "u1460",
+      "ordinal": 1,
+      "lineNumber": 1460,
+      "start": 46,
+      "end": 57,
+      "before": "{{Severus}}",
+      "span": "Severus",
+      "line": "[u1460 | 01:30:01.640-01:30:05.319 | Delwath] {{Severus}}, or somebody like that was off hunting treasure in Illoria right like.",
+      "contextBefore": [
+        "[u1458 | 01:29:58.280-01:30:00.349 | Seeker] We have been wanting to go there.",
+        "[u1459 | 01:30:01.030-01:30:01.640 | Seeker] Trip."
+      ],
+      "contextAfter": [
+        "[u1461 | 01:30:05.320-01:30:06.330 | Wellby] Yeah, yeah.",
+        "[u1462 | 01:30:06.330-01:30:07.060 | Seeker] Yes."
+      ],
+      "after": "Servius",
+      "group": "illoria-scholar",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u1460": {
+      "before": "[u1460 | 01:30:01.640-01:30:05.319 | Delwath] {{Severus}}, or somebody like that was off hunting treasure in Illoria right like.\n",
+      "after": "[u1460 | 01:30:01.640-01:30:05.319 | Delwath] Servius, or somebody like that was off hunting treasure in Illoria right like.\n"
+    },
+    "u0183": {
+      "before": "[u0183 | 00:12:25.480-00:12:28.209 | DM] {{Gowa}} sort of glancing down at the body.\n",
+      "after": "[u0183 | 00:12:25.480-00:12:28.209 | DM] Delwath sort of glancing down at the body.\n"
+    },
+    "u0520": {
+      "before": "[u0520 | 00:34:35.790-00:34:37.140 | Delwath] {{Swati’s power.}}\n",
+      "after": "[u0520 | 00:34:35.790-00:34:37.140 | Delwath] Meswati’s power.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:39:50.208135+00:00",
+      "sha256": "c9f60b79bb63e8774b4c693b7dd59f2ef9e34a4960e1f8355ccfa8b7546658cc"
+    }
+  ],
+  "runId": "20261028T043950130242Z-c57c0dd0",
+  "createdAt": "2026-10-28T04:39:50.130939+00:00"
+}

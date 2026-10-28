@@ -248,7 +248,7 @@
 [u0248 | 00:21:05.410-00:21:11.039 | DM] And then there's a bunch that are labeled like weird things like vulcanite, ethereum.
 [u0249 | 00:21:11.170-00:21:12.620 | DM] kupralith.
 [u0250 | 00:21:12.670-00:21:14.360 | DM] lumentium.
-[u0251 | 00:21:14.650-00:21:19.239 | DM] star iron, {{face steel}} nocturnium.
+[u0251 | 00:21:14.650-00:21:19.239 | DM] star iron, fey steel nocturnium.
 [u0252 | 00:21:19.880-00:21:22.310 | DM] just like random metals.
 [u0253 | 00:21:22.840-00:21:24.430 | DM] all from the forge.
 [u0254 | 00:21:24.690-00:21:28.249 | DM] all like there'll be a list of all of this in on
@@ -328,7 +328,7 @@
 [u0328 | 00:26:57.560-00:26:58.469 | Seeker] Oh, yeah.
 [u0329 | 00:26:58.680-00:27:00.519 | DM] So half damage
 [u0330 | 00:27:00.600-00:27:03.100 | DM] from any source of damage for 1 min.
-[u0331 | 00:27:07.290-00:27:14.760 | DM] There is a small silver vial etched with the name {{sarandres}} in Draconic, and the words In gratitude.
+[u0331 | 00:27:07.290-00:27:14.760 | DM] There is a small silver vial etched with the name Serandris in Draconic, and the words In gratitude.
 [u0332 | 00:27:15.050-00:27:21.759 | DM] The liquid inside is pure and clear almost to the point of being invisible, with a single metallic silver scale
 [u0333 | 00:27:21.790-00:27:23.250 | DM] floating inside.
 [u0334 | 00:27:23.870-00:27:26.969 | DM] This is a potion of dragon's majesty.
@@ -827,7 +827,7 @@
 [u0827 | 00:58:39.930-00:58:41.479 | DM] you know this is a
 [u0828 | 00:58:43.300-00:58:44.840 | DM] this is a moment
 [u0829 | 00:58:45.580-00:58:51.219 | DM] that somebody must be there to witness the tale and share your story.
-[u0830 | 00:58:52.440-00:58:58.030 | DM] She's afraid for {{well-being}} and for herself.
+[u0830 | 00:58:52.440-00:58:58.030 | DM] She's afraid for Wellby and for herself.
 [u0831 | 00:58:58.745-00:58:59.250 | DM] You
 [u0832 | 00:58:59.300-00:59:01.349 | DM] and for you the rest of you.
 [u0833 | 00:59:02.020-00:59:02.820 | DM] Okay.
@@ -1293,8 +1293,8 @@
 [u1293 | 01:29:25.400-01:29:27.550 | Delwath] No, remember. We spent like 2.
 [u1294 | 01:29:27.550-01:29:29.090 | DM] No, Kate, wasn't there.
 [u1295 | 01:29:29.090-01:29:37.370 | Delwath] Oh, you weren't there! We we interviewed this Elven Paladin, or something. I forget her name, but she.
-[u1296 | 01:29:37.370-01:29:38.030 | DM] {{Day}}.
-[u1297 | 01:29:38.030-01:29:39.960 | Delwath] {{Her estate}}. She
+[u1296 | 01:29:37.370-01:29:38.030 | DM] Arheste.
+[u1297 | 01:29:38.030-01:29:39.960 | Delwath] Arheste. She
 [u1298 | 01:29:39.990-01:30:02.900 | Delwath] fought Apollyon at the fall of Drankor, like she's a thousand over a thousand years old, and was like there at at his original rise, and was like his enemy, and we spent a long time interviewing her. But we didn't actually play that out in game cause. That's too complicated, right? And so Tim just said we could ask 5 times for her advice retroactively. Right like
 [u1299 | 01:30:03.850-01:30:05.510 | Delwath] was that
 [u1300 | 01:30:06.040-01:30:07.540 | Delwath] was that
@@ -1697,7 +1697,7 @@
 [u1697 | 01:53:36.290-01:53:39.969 | Delwath] You know what we're you know what we're pretty weak against invisibility.
 [u1698 | 01:53:43.390-01:53:49.319 | Delwath] Do any of us have anything we can do against to get rid of to address invisibility
 [u1699 | 01:53:50.510-01:53:54.680 | Delwath] except Delwath can cast sickening radiance. But you get a save against that.
-[u1700 | 01:53:55.960-01:54:00.349 | Wellby] We have the dagger from {{Ersk}}, but that which gives sight, I think.
+[u1700 | 01:53:55.960-01:54:00.349 | Wellby] We have the dagger from Ursk, but that which gives sight, I think.
 [u1701 | 01:54:00.350-01:54:03.229 | Delwath] But they don't have that. No, I'm saying we.
 [u1702 | 01:54:03.230-01:54:04.600 | Wellby] Oh, I see what you're saying. Sorry.
 [u1703 | 01:54:04.600-01:54:06.600 | Delwath] Also has an item of see invisibility.
@@ -1914,7 +1914,7 @@
 [u1914 | 02:06:19.270-02:06:20.130 | Riswynn] Right, but.
 [u1915 | 02:06:20.130-02:06:20.770 | Delwath] Right.
 [u1916 | 02:06:23.140-02:06:24.959 | Riswynn] Vindristjarna is sort of thing.
-[u1917 | 02:06:24.960-02:06:27.470 | Delwath] It potentially eliminates {{vignette}}.
+[u1917 | 02:06:24.960-02:06:27.470 | Delwath] It potentially eliminates Vindristjarna.
 [u1918 | 02:06:28.830-02:06:36.289 | Delwath] I think maybe we maybe the come from the We. We need to provoke a reaction to see what they do that seems like a reasonable 1st step.
 [u1919 | 02:06:37.290-02:06:38.130 | Delwath] Right?
 [u1920 | 02:06:40.440-02:06:42.960 | Seeker] Yeah, what have they been instructed to do? We need to understand that.
@@ -2699,7 +2699,7 @@
 [u2699 | 02:51:06.310-02:51:10.910 | DM] When you get about 5 miles out, you begin to feel, this
 [u2700 | 02:51:13.670-02:51:15.320 | DM] presence, this
 [u2701 | 02:51:16.130-02:51:20.000 | DM] darkness pressing against you, only the
-[u2702 | 02:51:20.130-02:51:25.140 | DM] light of the {{Barzelle}} keeping you from descending into
+[u2702 | 02:51:20.130-02:51:25.140 | DM] light of the Bahrâzel keeping you from descending into
 [u2703 | 02:51:25.520-02:51:26.550 | DM] fear
 [u2704 | 02:51:26.780-02:51:28.100 | DM] and terror.
 [u2705 | 02:51:30.740-02:51:34.979 | DM] The 2 halflings {{who are not}} the Copperharps are like

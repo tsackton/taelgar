@@ -1,0 +1,25 @@
+--- before/u1369
++++ after/u1369
+@@ -1 +1 @@
+-[u1369 | 01:55:27.510-01:55:29.899 | DM] you may call me {{a Lauren}}.
++[u1369 | 01:55:27.510-01:55:29.899 | DM] you may call me Illaran.
+--- before/u1445
++++ after/u1445
+@@ -1 +1 @@
+-[u1445 | 02:01:07.630-02:01:12.339 | Seeker] Oh, I see I live on the plane of {{Tel Aviv}}.
++[u1445 | 02:01:07.630-02:01:12.339 | Seeker] Oh, I see I live on the plane of Taelgar.
+--- before/u1694
++++ after/u1694
+@@ -1 +1 @@
+-[u1694 | 02:22:11.700-02:22:13.370 | DM] Ah, {{Lauren}},
++[u1694 | 02:22:11.700-02:22:13.370 | DM] Ah, Illaran,
+--- before/u1695
++++ after/u1695
+@@ -1 +1 @@
+-[u1695 | 02:22:13.960-02:22:16.939 | Seeker] Yeah, or follow {{a Lauren}}.
++[u1695 | 02:22:13.960-02:22:16.939 | Seeker] Yeah, or follow Illaran.
+--- before/u1696
++++ after/u1696
+@@ -1 +1 @@
+-[u1696 | 02:22:17.430-02:22:21.159 | DM] So {{a Lauren}} takes you down.
++[u1696 | 02:22:17.430-02:22:21.159 | DM] So Illaran takes you down.

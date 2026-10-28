@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-139",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-139/cleaned/dunmar-frontier-139-source-cleaned.md",
+  "beforeSha256": "69225b79619729d37d73724643b2d1b11b02ade66cb220c54c7b0e9893f6dd23",
+  "afterSha256": "69225b79619729d37d73724643b2d1b11b02ade66cb220c54c7b0e9893f6dd23",
+  "markersBefore": 1,
+  "groups": [
+    {
+      "id": "unclear-tree-description",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Unclear descriptive wording before \"tree\" while recalling a fruit. The surrounding dialogue and checked sources do not establish a proper name or setting-term correction; ordinary wording reconstruction is outside names-v1.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0819:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0819:m1": "{{unclear; possibly \"chaos\"}}"
+      }
+    }
+  ],
+  "changes": [],
+  "lines": {},
+  "undoneMarkerIds": [],
+  "state": "reviewed_no_changes",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:56:24.490038+00:00",
+      "sha256": "69225b79619729d37d73724643b2d1b11b02ade66cb220c54c7b0e9893f6dd23"
+    }
+  ],
+  "runId": "20261028T045624488260Z-074eb64e",
+  "createdAt": "2026-10-28T04:56:24.488564+00:00"
+}

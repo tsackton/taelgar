@@ -1,0 +1,515 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-030",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-source-cleaned.md",
+  "beforeSha256": "bea646f0cecc9d21c50757863faf90b952d34db5ed0a019a567d3313ba793b25",
+  "afterSha256": "4ddcaeb78438d30c4b2fc75811e120fc0cc2bb21a30b9c638e39de43f21a7453",
+  "markersBefore": 138,
+  "groups": [
+    {
+      "id": "ancient-people-reference",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "A name or people is apparently being recalled in connection with Drankor and elven advisors, but the inspected canonical identities and early campaign records do not establish a unique referent. Phonetic resemblance alone cannot resolve the marked words.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 15 (DuFr).md",
+          "sha256": "b7de5acfd8eca15ad4fe964139cc738425ad8fb4c5e90f3c6c111bb7838edfaa"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 16 (DuFr).md",
+          "sha256": "c63079ba715014d182fcb7724fb01914c381ad1204a933b58e060dec4a5ed724"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0538:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0538:m1": "{{didn't cry}}"
+      }
+    },
+    {
+      "id": "calling-out",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Kenzo is calling out while searching for missing companions, but the marked word does not identify a unique addressee or distinguish a name from ordinary calling-out wording. Keep it marked.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-session.yaml",
+          "sha256": "fce06c47e7618c1d1f35f3993641d01a5ea7bc8efa23eedd9e024b586592f4c7"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2274:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2274:m1": "{{barrel}}"
+      }
+    },
+    {
+      "id": "chamutte",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The discussion concerns freeing peoples from inherent divine constraints and a defeated power; Cha'mutte's documented pronunciation and stated aims strongly favor this name. The unmarked pronoun remains as spoken; no factual or grammatical repair is made.",
+      "evidence": [
+        {
+          "path": "People/Extraplanar Powers/Cha'mutte.md",
+          "sha256": "1b8dca16f7ede3715d32bf7fe0e44adc3dbc4c016fade83c34f92f41433291eb"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0151:m1"
+      ],
+      "replacements": {
+        "u0151:m1": "Cha'mutte"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "delwath-in-damaged-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Delwath is the likely addressee in the discussion about his scepter, but the complete marked phrase is unclear. Replacing the whole span with a name would discard possible surrounding words.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-session.yaml",
+          "sha256": "fce06c47e7618c1d1f35f3993641d01a5ea7bc8efa23eedd9e024b586592f4c7"
+        }
+      ],
+      "candidates": [
+        "Delwath"
+      ],
+      "markerIds": [
+        "u0299:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0299:m1": "{{To their adela}}"
+      }
+    },
+    {
+      "id": "drankorian-ring",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Delwath is testing Detect Magic on the ring he explicitly called Drankorian earlier in this session. The item note identifies his ring taken from Agata as Drankorian, strongly supporting the complete setting-term replacement.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Ring of Displacement.md",
+          "sha256": "695877e074c7d720b9b76b0c402b05f1f7c13a449922ddfaf2310dec0f8db8b0"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1728:m1"
+      ],
+      "replacements": {
+        "u1728:m1": "Drankorian ring"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "drikod-in-damaged-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Drikod may be the speaker's intended reference while discussing his Enhance Ability spell, but the complete marked wording is unclear and cannot be repaired as a plain name or term alone.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-030/cleaned/dunmari-frontier-030-session.yaml",
+          "sha256": "fce06c47e7618c1d1f35f3993641d01a5ea7bc8efa23eedd9e024b586592f4c7"
+        }
+      ],
+      "candidates": [
+        "Drikod"
+      ],
+      "markerIds": [
+        "u1559:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1559:m1": "{{If God is like}}"
+      }
+    },
+    {
+      "id": "mechanics-and-numbers",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Rules explanations, spell-effect descriptions, divination components, checks, or numbers; these are outside this name and setting-term pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0890:m1",
+        "u1036:m1",
+        "u1161:m1",
+        "u1213:m1",
+        "u1227:m1",
+        "u1537:m1",
+        "u1572:m1",
+        "u1579:m1",
+        "u1583:m1",
+        "u1670:m1",
+        "u1977:m1",
+        "u2095:m1",
+        "u2264:m1",
+        "u2426:m1",
+        "u3131:m1",
+        "u3456:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0890:m1": "{{it's a human it's a way and form}}",
+        "u1036:m1": "{{dragon bones or nate cards can pick it out}}",
+        "u1161:m1": "{{laughter flame}}",
+        "u1213:m1": "{{36}}",
+        "u1227:m1": "{{Unnatural linking}}",
+        "u1537:m1": "{{Possible}}",
+        "u1572:m1": "{{attention}}",
+        "u1579:m1": "{{away with that}}",
+        "u1583:m1": "{{450}}",
+        "u1670:m1": "{{1500}}",
+        "u1977:m1": "{{finish}}",
+        "u2095:m1": "{{can lead}}",
+        "u2264:m1": "{{looking}}",
+        "u2426:m1": "{{finish}}",
+        "u3131:m1": "{{down feet}}",
+        "u3456:m1": "{{70}}"
+      }
+    },
+    {
+      "id": "old-player-character",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The speaker identifies a high-school character, but the searched filenames, aliases, campaign records, and development sources do not establish its complete name. The Ariel note concerns a different character and does not support adopting that identity.",
+      "evidence": [
+        {
+          "path": "People/Deno'qai/Ariel.md",
+          "sha256": "c339532425247ae3c31b11e9e0e92326141ca0aac6c887f6d0d6c58a324c40c4"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0368:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0368:m1": "{{Ariel jada}}"
+      }
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary speech, jokes, practical descriptions, or longer damaged phrases rather than a supported complete name or setting-term correction. Correctly spelled names within longer damaged phrases do not authorize rewriting those phrases; apparent real-world place or personal names lack an identity reference in context.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0003:m1",
+        "u0021:m1",
+        "u0032:m1",
+        "u0074:m1",
+        "u0122:m1",
+        "u0130:m1",
+        "u0144:m1",
+        "u0191:m1",
+        "u0212:m1",
+        "u0214:m1",
+        "u0215:m1",
+        "u0252:m1",
+        "u0306:m1",
+        "u0353:m1",
+        "u0421:m1",
+        "u0435:m1",
+        "u0448:m1",
+        "u0462:m1",
+        "u0484:m1",
+        "u0485:m1",
+        "u0491:m1",
+        "u0499:m1",
+        "u0525:m1",
+        "u0565:m1",
+        "u0675:m1",
+        "u0714:m1",
+        "u0719:m1",
+        "u0769:m1",
+        "u0843:m1",
+        "u0878:m1",
+        "u0961:m1",
+        "u1071:m1",
+        "u1131:m1",
+        "u1251:m1",
+        "u1254:m1",
+        "u1274:m1",
+        "u1286:m1",
+        "u1299:m1",
+        "u1300:m1",
+        "u1304:m1",
+        "u1306:m1",
+        "u1329:m1",
+        "u1347:m1",
+        "u1370:m1",
+        "u1438:m1",
+        "u1449:m1",
+        "u1503:m1",
+        "u1505:m1",
+        "u1522:m1",
+        "u1562:m1",
+        "u1676:m1",
+        "u1732:m1",
+        "u1836:m1",
+        "u1940:m1",
+        "u1950:m1",
+        "u1961:m1",
+        "u1963:m1",
+        "u1989:m1",
+        "u2009:m1",
+        "u2012:m1",
+        "u2018:m1",
+        "u2039:m1",
+        "u2051:m1",
+        "u2060:m1",
+        "u2080:m1",
+        "u2085:m1",
+        "u2114:m1",
+        "u2193:m1",
+        "u2194:m1",
+        "u2220:m1",
+        "u2234:m1",
+        "u2240:m1",
+        "u2252:m1",
+        "u2279:m1",
+        "u2312:m1",
+        "u2338:m1",
+        "u2373:m1",
+        "u2410:m1",
+        "u2415:m1",
+        "u2507:m1",
+        "u2623:m1",
+        "u2659:m1",
+        "u2703:m1",
+        "u2728:m1",
+        "u2729:m1",
+        "u2745:m1",
+        "u2774:m1",
+        "u2840:m1",
+        "u2853:m1",
+        "u2917:m1",
+        "u2925:m1",
+        "u2994:m1",
+        "u3023:m1",
+        "u3034:m1",
+        "u3036:m1",
+        "u3058:m1",
+        "u3085:m1",
+        "u3099:m1",
+        "u3105:m1",
+        "u3231:m1",
+        "u3239:m1",
+        "u3248:m1",
+        "u3316:m1",
+        "u3333:m1",
+        "u3339:m1",
+        "u3370:m1",
+        "u3386:m1",
+        "u3407:m1",
+        "u3411:m1",
+        "u3425:m1",
+        "u3427:m1",
+        "u3462:m1",
+        "u3468:m1",
+        "u3472:m1",
+        "u3491:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0003:m1": "{{music}}",
+        "u0021:m1": "{{have a little bit}}",
+        "u0032:m1": "{{with you as I need to do that}}",
+        "u0074:m1": "{{I think he's rooms}}",
+        "u0122:m1": "{{write to us the creature like that}}",
+        "u0130:m1": "{{don't instead find it}}",
+        "u0144:m1": "{{I'll get to sacrifice our enemies to this}}",
+        "u0191:m1": "{{Everybody stick}}",
+        "u0212:m1": "{{earn really}}",
+        "u0214:m1": "{{But hell}}",
+        "u0215:m1": "{{out, you know real}}",
+        "u0252:m1": "{{In exchange for a contract}}",
+        "u0306:m1": "{{Hello this}}",
+        "u0353:m1": "{{And you always things that}}",
+        "u0421:m1": "{{know or else though you don't get hurt}}",
+        "u0435:m1": "{{variety}}",
+        "u0448:m1": "{{you talk so if enough}}",
+        "u0462:m1": "{{message methods calm}}",
+        "u0484:m1": "{{under a}}",
+        "u0485:m1": "{{easy SS}}",
+        "u0491:m1": "{{Why should pick it up}}",
+        "u0499:m1": "{{ductus}}",
+        "u0525:m1": "{{Already overwhelming}}",
+        "u0565:m1": "{{to the biggest}}",
+        "u0675:m1": "{{Well, I was rocked it in the state of Dunmar}}",
+        "u0714:m1": "{{Baxter travel south}}",
+        "u0719:m1": "{{Using some other no}}",
+        "u0769:m1": "{{if perhaps knows her nose or fly}}",
+        "u0843:m1": "{{That is ready to go}}",
+        "u0878:m1": "{{leyritz that's}}",
+        "u0961:m1": "{{Are the nature}}",
+        "u1071:m1": "{{Turn remember what you look like}}",
+        "u1131:m1": "{{being published by a separate great power}}",
+        "u1251:m1": "{{pizza we do}}",
+        "u1254:m1": "{{What I try to just have to wait}}",
+        "u1274:m1": "{{did he do exactly, yes, but}}",
+        "u1286:m1": "{{Any little}}",
+        "u1299:m1": "{{pivot}}",
+        "u1300:m1": "{{tutorial satori}}",
+        "u1304:m1": "{{How do you spell yeah}}",
+        "u1306:m1": "{{Colorado}}",
+        "u1329:m1": "{{ren as you}}",
+        "u1347:m1": "{{press down and really the mission}}",
+        "u1370:m1": "{{a sinner}}",
+        "u1438:m1": "{{trey}}",
+        "u1449:m1": "{{prom and}}",
+        "u1503:m1": "{{This up on the spot}}",
+        "u1505:m1": "{{well phone}}",
+        "u1522:m1": "{{Who really see well}}",
+        "u1562:m1": "{{wouldn't when know}}",
+        "u1676:m1": "{{What are the spot}}",
+        "u1732:m1": "{{layers on}}",
+        "u1836:m1": "{{Ecstasy}}",
+        "u1940:m1": "{{Making the moves are rooted spirit}}",
+        "u1950:m1": "{{Just to check and get back in}}",
+        "u1961:m1": "{{would know you know}}",
+        "u1963:m1": "{{rob actually how things}}",
+        "u1989:m1": "{{It's gonna be do lighting things on there}}",
+        "u2009:m1": "{{mo know}}",
+        "u2012:m1": "{{10th of Tang}}",
+        "u2018:m1": "{{very easy}}",
+        "u2039:m1": "{{tentative violating the policy}}",
+        "u2051:m1": "{{Your House tomorrow}}",
+        "u2060:m1": "{{I'm always still in interest well forces}}",
+        "u2080:m1": "{{Good that}}",
+        "u2085:m1": "{{can't}}",
+        "u2114:m1": "{{script to the chimney that}}",
+        "u2193:m1": "{{What kind of know what}}",
+        "u2194:m1": "{{Is it the only are lighter calculator}}",
+        "u2220:m1": "{{What what would disagree}}",
+        "u2234:m1": "{{I fell}}",
+        "u2240:m1": "{{truck at ten}}",
+        "u2252:m1": "{{as I get stung dive}}",
+        "u2279:m1": "{{lucking now}}",
+        "u2312:m1": "{{is how to look now inside}}",
+        "u2338:m1": "{{bunch}}",
+        "u2373:m1": "{{As well as outside the drift blow}}",
+        "u2410:m1": "{{tammy really}}",
+        "u2415:m1": "{{juice choice to the situation}}",
+        "u2507:m1": "{{Bible}}",
+        "u2623:m1": "{{feet of me just a few}}",
+        "u2659:m1": "{{magical in here}}",
+        "u2703:m1": "{{sweet staff as magical thing}}",
+        "u2728:m1": "{{Secondly I can}}",
+        "u2729:m1": "{{And whether it works}}",
+        "u2745:m1": "{{Hopefully I'll your boulder}}",
+        "u2774:m1": "{{seem to come}}",
+        "u2840:m1": "{{medical equipment}}",
+        "u2853:m1": "{{trust there}}",
+        "u2917:m1": "{{People like me double wouldn't person}}",
+        "u2925:m1": "{{have an ad like something large}}",
+        "u2994:m1": "{{Nice in here}}",
+        "u3023:m1": "{{problem}}",
+        "u3034:m1": "{{Still let us out again}}",
+        "u3036:m1": "{{This bow}}",
+        "u3058:m1": "{{So much old enough}}",
+        "u3085:m1": "{{who assumes if the mirror looks at}}",
+        "u3099:m1": "{{check him}}",
+        "u3105:m1": "{{mental fact}}",
+        "u3231:m1": "{{recycling facilities}}",
+        "u3239:m1": "{{we've got to bring them into the city either}}",
+        "u3248:m1": "{{parentheses}}",
+        "u3316:m1": "{{Celeste}}",
+        "u3333:m1": "{{talk to}}",
+        "u3339:m1": "{{has been true now}}",
+        "u3370:m1": "{{End}}",
+        "u3386:m1": "{{we didn't burn the house on the morrow}}",
+        "u3407:m1": "{{don't}}",
+        "u3411:m1": "{{Chicago}}",
+        "u3425:m1": "{{shut up}}",
+        "u3427:m1": "{{is going to have to this}}",
+        "u3462:m1": "{{up and slept like}}",
+        "u3468:m1": "{{The he saw as as it not the way}}",
+        "u3472:m1": "{{I will personally}}",
+        "u3491:m1": "{{images}}"
+      }
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0151:m1",
+      "uid": "u0151",
+      "ordinal": 1,
+      "lineNumber": 151,
+      "start": 46,
+      "end": 59,
+      "before": "{{Sure matt}}",
+      "span": "Sure matt",
+      "line": "[u0151 | 00:16:33.540-00:16:36.750 | Delwath] {{Sure matt}} was trying to change that, but she was defeated.",
+      "contextBefore": [
+        "[u0149 | 00:16:30.870-00:16:31.440 | Seeker] I see.",
+        "[u0150 | 00:16:31.770-00:16:32.550 | Seeker] Wellby."
+      ],
+      "contextAfter": [
+        "[u0152 | 00:16:40.410-00:16:45.300 | DM] I mean Okay, so you would all know that, like there is definitely there are definitely some.",
+        "[u0153 | 00:16:46.110-00:16:56.670 | DM] Things, like, I mean, demons are evil, those are not separable things. There are no demons that, like, you know, reject their demon heritage and try."
+      ],
+      "after": "Cha'mutte",
+      "group": "chamutte",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1728:m1",
+      "uid": "u1728",
+      "ordinal": 1,
+      "lineNumber": 1728,
+      "start": 50,
+      "end": 68,
+      "before": "{{corrupt a ring}}",
+      "span": "corrupt a ring",
+      "line": "[u1728 | 02:17:04.920-02:17:07.470 | Delwath] The {{corrupt a ring}} I'm wearing that I know is magical?",
+      "contextBefore": [
+        "[u1726 | 02:16:59.970-02:17:03.330 | DM] Like Everywhere you look it's just totally non magical.",
+        "[u1727 | 02:17:04.200-02:17:04.590 | Drikod] Does."
+      ],
+      "contextAfter": [
+        "[u1729 | 02:17:08.700-02:17:09.570 | DM] Not magical.",
+        "[u1730 | 02:17:12.600-02:17:13.170 | Kenzo] protected."
+      ],
+      "after": "Drankorian ring",
+      "group": "drankorian-ring",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u0151": {
+      "before": "[u0151 | 00:16:33.540-00:16:36.750 | Delwath] {{Sure matt}} was trying to change that, but she was defeated.\n",
+      "after": "[u0151 | 00:16:33.540-00:16:36.750 | Delwath] Cha'mutte was trying to change that, but she was defeated.\n"
+    },
+    "u1728": {
+      "before": "[u1728 | 02:17:04.920-02:17:07.470 | Delwath] The {{corrupt a ring}} I'm wearing that I know is magical?\n",
+      "after": "[u1728 | 02:17:04.920-02:17:07.470 | Delwath] The Drankorian ring I'm wearing that I know is magical?\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T03:45:16.381106+00:00",
+      "sha256": "4ddcaeb78438d30c4b2fc75811e120fc0cc2bb21a30b9c638e39de43f21a7453"
+    }
+  ],
+  "runId": "20261028T034516363356Z-94d3b045",
+  "createdAt": "2026-10-28T03:45:16.363734+00:00"
+}

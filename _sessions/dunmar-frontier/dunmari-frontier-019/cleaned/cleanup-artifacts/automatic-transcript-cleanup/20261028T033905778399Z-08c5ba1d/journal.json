@@ -1,0 +1,52 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-019",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-019/cleaned/dunmari-frontier-019-source-cleaned.md",
+  "beforeSha256": "a3bde1b3cb2a912482b01a7a317a7f243e06fcc96cee26b0bbd3ac2db4f3d84b",
+  "afterSha256": "a3bde1b3cb2a912482b01a7a317a7f243e06fcc96cee26b0bbd3ac2db4f3d84b",
+  "markersBefore": 1,
+  "groups": [
+    {
+      "id": "bass-destination",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Bas Udda is named immediately before this occurrence, but the party has already left that village and is traveling to the monks' house. The marked word could be a shortened place name or spoken slip, or ordinary 'base'; the context does not establish a unique complete replacement. Retain the marker rather than expanding the name or correcting the destination.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Bas Udda.md",
+          "sha256": "b950d18b24d43a71ef3294f40bae04e46f3c0607ab410b82599dfb1442de91f1"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 19 (DuFr).md",
+          "sha256": "11c063193cb36c00df85a59779ca6db0b2cea03e168952dcca2bfbc595171a9a"
+        }
+      ],
+      "candidates": [
+        "Bas (Bas Udda)",
+        "base"
+      ],
+      "markerIds": [
+        "u2060:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2060:m1": "{{bass}}"
+      }
+    }
+  ],
+  "changes": [],
+  "lines": {},
+  "undoneMarkerIds": [],
+  "state": "reviewed_no_changes",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T03:39:05.780260+00:00",
+      "sha256": "a3bde1b3cb2a912482b01a7a317a7f243e06fcc96cee26b0bbd3ac2db4f3d84b"
+    }
+  ],
+  "runId": "20261028T033905778399Z-08c5ba1d",
+  "createdAt": "2026-10-28T03:39:05.778746+00:00"
+}

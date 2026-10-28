@@ -1,0 +1,666 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-039",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-039/cleaned/dunmari-frontier-039-source-cleaned.md",
+  "beforeSha256": "0c3b62f12c5ecc895ef98a684caef38065988b9c138c01b19c1107abf5db42d9",
+  "afterSha256": "b65dbbd9270e2f39bd7956b92e442b3566a30fd03a90f40ca01e8831f7d3c102",
+  "markersBefore": 41,
+  "groups": [
+    {
+      "id": "cold-iron",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The two-word setting material in the ritual spear description is cold iron. The preserved prophecy gives exactly this term before spears; no surrounding verse is reconstructed.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Papers from the Fraternity of the Empty Moon.md",
+          "sha256": "dbad4a46e57a94cdc4bbaac2dd03546004389f0e6f6828c84630c285d655af78"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0496:m3"
+      ],
+      "replacements": {
+        "u0496:m3": "cold iron"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "commander-ila",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The historical commander who wrote the letters about the Tokra fort is Ila, distinct from the current commander Illyan. The reference note and map account establish the spelling.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Ila.md",
+          "sha256": "d50deb129451a5dc3d16eae6ee5e4f0f8506c8dc77721638f62b4e8e467cf573"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Dunmari map of Pandemonium ruins.md",
+          "sha256": "a069c24566edbe6d2975aeb4b80b685894d0a2c321cbdf0acc1f6a541d639944"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0339:m1"
+      ],
+      "replacements": {
+        "u0339:m1": "Ila"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "creator-gods",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The preserved session introduction explicitly names Arhat and Malik in both passages; the Divine Presence note documents both forms. Only the marked divine names are restored.",
+      "evidence": [
+        {
+          "path": "Cosmology/Planar Concepts/Moon.md",
+          "sha256": "85eb04ae1dfb6fd35c4e532034ba6ee75782264946f3a7dd62e0a887b7b62b55"
+        },
+        {
+          "path": "Gods and Religions/Gods/High Gods/Divine Presence.md",
+          "sha256": "99d92f5e38e36430e6eeebe0f04dc39be92331000aac32d25de18a1d7c2ac253"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0006:m1",
+        "u0007:m1"
+      ],
+      "replacements": {
+        "u0006:m1": "Arhat and Malik",
+        "u0007:m1": "Arhat and Malik"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "drankor-fragment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The context concerns old artifacts, making Drankor plausible, but Nick rock could include an attached preposition or different wording. The complete marked replacement cannot be determined as a plain name.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 10 (DuFr).md",
+          "sha256": "fc1ce7b100306a50fd18101d34d0d093831917fd2bc3a04a3ebbc1b79dfa171d"
+        }
+      ],
+      "candidates": [
+        "Drankor"
+      ],
+      "markerIds": [
+        "u2524:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2524:m1": "{{Nick rock}}"
+      }
+    },
+    {
+      "id": "jinnik-weakened-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Jinnik is the subject of the surrounding speculation, but the marked span contains unclear descriptive wording with a possible name. Replacing the span with Jinnik would lose that wording; no phrase reconstruction is made.",
+      "evidence": [],
+      "candidates": [
+        "Jinnik"
+      ],
+      "markerIds": [
+        "u1428:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1428:m1": "{{super region it}}"
+      }
+    },
+    {
+      "id": "kaleha-confidence-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Kaleha is plausibly named in this recollection of the priest's confidence, but the marked span also contains unclear connective words and pronouns. Its full replacement is not a plain name.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Kaleha.md",
+          "sha256": "3d909064d7c643c7992aaeba5e43d5c86049a26ae282fa89df8903630982fecf"
+        }
+      ],
+      "candidates": [
+        "Kaleha"
+      ],
+      "markerIds": [
+        "u0159:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0159:m1": "{{Yet your Calais, I}}"
+      }
+    },
+    {
+      "id": "karnas-faction",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The speakers identify the other faction in the Dunmari succession dispute and repeat its ruler name. Karnas, Sura's brother and current Samraat, fits both short variants; ordinary harass/current do not supply that referent. The phonetic readings remain less certain than the source-attested title corrections.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Nayan Karnas.md",
+          "sha256": "12b15ae6fdac1671003c25f3900e92a2f2f9905f5ef2ddb505e8b28c0fcf7814"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2567:m1",
+        "u2568:m1"
+      ],
+      "replacements": {
+        "u2567:m1": "Karnas",
+        "u2568:m1": "Karnas"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "mad-one-soul-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The written prophecy suggests Mad One's soul, but this span combines a divine title with ordinary source-reading wording. Resolving the whole phrase would exceed a plain name correction; retain it.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Papers from the Fraternity of the Empty Moon.md",
+          "sha256": "dbad4a46e57a94cdc4bbaac2dd03546004389f0e6f6828c84630c285d655af78"
+        }
+      ],
+      "candidates": [
+        "Mad One"
+      ],
+      "markerIds": [
+        "u0496:m2"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0496:m2": "{{mad when sold}}"
+      }
+    },
+    {
+      "id": "monks-tower-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The nearby discussion identifies monks at a tower, and Lakan monks are plausible, but the marked phrase includes unclear additional wording. There is no complete plain-name replacement that preserves it.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md",
+          "sha256": "61a95665b4427a49e6434f06357f04bdbf9011fc94dcb637996e895fbf049064"
+        }
+      ],
+      "candidates": [
+        "Lakan monks"
+      ],
+      "markerIds": [
+        "u2772:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2772:m1": "{{walk among felt}}"
+      }
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary conversation, damaged descriptions, numbers, mechanics, source-reading verse, or filler outside the name pass. This includes the forge-dream clause, the native-to fragment, the brief assent after the priestess question, and the resurrection wording; none supplies a secure isolated proper name. No prose is reconstructed.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0009:m1",
+        "u0045:m1",
+        "u0048:m1",
+        "u0048:m2",
+        "u0080:m1",
+        "u0086:m1",
+        "u0165:m1",
+        "u0167:m1",
+        "u0263:m1",
+        "u0295:m1",
+        "u0496:m1",
+        "u0496:m4",
+        "u0496:m5",
+        "u0590:m1",
+        "u0660:m1",
+        "u0988:m1",
+        "u1429:m1",
+        "u1753:m1",
+        "u2131:m1",
+        "u2270:m1",
+        "u2383:m1",
+        "u2523:m1",
+        "u2637:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0009:m1": "{{and yet they find you they don't care}}",
+        "u0045:m1": "{{That this is Jordan}}",
+        "u0048:m1": "{{be good to}}",
+        "u0048:m2": "{{you can the head bashed in the monastery}}",
+        "u0080:m1": "{{that's so curious}}",
+        "u0086:m1": "{{maybe they'll they'll the darkness will be}}",
+        "u0165:m1": "{{Prince}}",
+        "u0167:m1": "{{who are qubit for}}",
+        "u0263:m1": "{{automatic weapons}}",
+        "u0295:m1": "{{Really in the race tracks on the way, are.}}",
+        "u0496:m1": "{{divas}}",
+        "u0496:m4": "{{careful claimed land}}",
+        "u0496:m5": "{{get a summit}}",
+        "u0590:m1": "{{I don't think we're here}}",
+        "u0660:m1": "{{Not even wow are they even well.}}",
+        "u0988:m1": "{{you affect set}}",
+        "u1429:m1": "{{it's one of us our}}",
+        "u1753:m1": "{{sounders thing}}",
+        "u2131:m1": "{{Less}}",
+        "u2270:m1": "{{Because we might be just going to be killed}}",
+        "u2383:m1": "{{I}}",
+        "u2523:m1": "{{fat I'm}}",
+        "u2637:m1": "{{natalie}}"
+      }
+    },
+    {
+      "id": "prisoner-recipient",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The party previously discusses the high priestess, making Kaleha a possible recipient, but die is too weak a phonetic match to identify her securely. Preserve the spoken fragment instead of imposing the contextually expected person.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Kaleha.md",
+          "sha256": "3d909064d7c643c7992aaeba5e43d5c86049a26ae282fa89df8903630982fecf"
+        }
+      ],
+      "candidates": [
+        "Kaleha"
+      ],
+      "markerIds": [
+        "u2676:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2676:m1": "{{die}}"
+      }
+    },
+    {
+      "id": "rai-help-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Rai may be intended within this question about help and resurrection, but the complete clause remains unclear. Preserve its ordinary words and marker rather than replace a whole question with a name.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Research from Kassi.md",
+          "sha256": "ea5dc987e8db81b3861570922fc298f5719d2aac892752ce62704b302bdc6a2e"
+        }
+      ],
+      "candidates": [
+        "Rai"
+      ],
+      "markerIds": [
+        "u2635:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2635:m1": "{{And how can I help us}}"
+      }
+    },
+    {
+      "id": "rai-research-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Rai is a plausible subject of Kassi's research, but the marker includes a complete damaged clause. A name-only replacement would delete ordinary spoken words; retain the whole span.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Research from Kassi.md",
+          "sha256": "ea5dc987e8db81b3861570922fc298f5719d2aac892752ce62704b302bdc6a2e"
+        }
+      ],
+      "candidates": [
+        "Rai"
+      ],
+      "markerIds": [
+        "u0110:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0110:m1": "{{I asked her about right}}"
+      }
+    },
+    {
+      "id": "ross-object-list",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The fragment occurs while discussing objects to investigate, but does not establish whether Ross is a person, an item, or ordinary wording. Neither the neighboring fragment nor the map clarification determines a unique full name replacement.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0329:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0329:m1": "{{Ross}}"
+      }
+    },
+    {
+      "id": "samraat-title",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The title immediately before Nayan Yarad is Samraat, documented in his reference note and the account of these letters.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Dunmari Rulers/Yarad.md",
+          "sha256": "268121c5a6ad994dbc5240641ba41ee39c47e901cd5e45c664474aeb45f8b6ac"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Dunmari map of Pandemonium ruins.md",
+          "sha256": "a069c24566edbe6d2975aeb4b80b685894d0a2c321cbdf0acc1f6a541d639944"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0339:m2"
+      ],
+      "replacements": {
+        "u0339:m2": "Samraat"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "taelgar-spoken-name",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Telegraph strongly resembles the established world-name Taelgar. The conversation concerns passage into Dunmar/Tokra, but replacing it with one of those geographically more precise names would correct the speaker rather than the ASR; retain the likely spoken Taelgar form.",
+      "evidence": [
+        {
+          "path": "Gazetteer/World of Taelgar.md",
+          "sha256": "76bb50ad35866def09dfe5dd1c248f436d59c9bf1fdc7a181dff8e9e7f6ce7fd"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 39 (DuFr).md",
+          "sha256": "aeb2e3045bae1ef3d51c04678dc127a20145e20f4402b7a29dc138c9cd368d07"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2481:m1"
+      ],
+      "replacements": {
+        "u2481:m1": "Taelgar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "umber",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The other recent Dunmari convert named by the prisoner is Umber; the session narrative explicitly records this identity and the reference note supplies the name.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Umber of Dunmar.md",
+          "sha256": "4c27961d415c3c1d1f159ec11dce88ceb8032bff26642e31bdebc261fed3033c"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 39 (DuFr).md",
+          "sha256": "aeb2e3045bae1ef3d51c04678dc127a20145e20f4402b7a29dc138c9cd368d07"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2039:m1"
+      ],
+      "replacements": {
+        "u2039:m1": "Umber"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0006:m1",
+      "uid": "u0006",
+      "ordinal": 1,
+      "lineNumber": 6,
+      "start": 105,
+      "end": 123,
+      "before": "{{our and maalik}}",
+      "span": "our and maalik",
+      "line": "[u0006 | 00:01:05.430-00:01:15.750 | DM] Is it a great evil cast out in the earliest days of creation by {{our and maalik}} cursed to forget in its great tomb struggling awake for only a few days each month?",
+      "contextBefore": [
+        "[u0004 | 00:00:36.900-00:00:52.710 | DM] The realms of the gods as well as the realms of demons and devils and the primordial forces of the world draw closer. As the moon reaches for these realms, it creates the planar tides, the ebb and flow of the strength of connection between these realms and the world of Taelgar.",
+        "[u0005 | 00:00:54.600-00:01:03.660 | DM] The moon does not remember its past, although it has heard the stories, of course, the conflicting tales and prayers and legends of its origin."
+      ],
+      "contextAfter": [
+        "[u0007 | 00:01:16.800-00:01:35.670 | DM] Some tales claim, or perhaps a great hero of the Age of Myth born and living and dying during the long breath before time began rescued from death by {{art and ma}} given an honored place in the sky, but unable to be fully restored perhaps some tales would say this.",
+        "[u0008 | 00:01:36.870-00:01:40.830 | DM] or some say a hero, and the villain both granted the gift of forgetting."
+      ],
+      "after": "Arhat and Malik",
+      "group": "creator-gods",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0007:m1",
+      "uid": "u0007",
+      "ordinal": 1,
+      "lineNumber": 7,
+      "start": 191,
+      "end": 205,
+      "before": "{{art and ma}}",
+      "span": "art and ma",
+      "line": "[u0007 | 00:01:16.800-00:01:35.670 | DM] Some tales claim, or perhaps a great hero of the Age of Myth born and living and dying during the long breath before time began rescued from death by {{art and ma}} given an honored place in the sky, but unable to be fully restored perhaps some tales would say this.",
+      "contextBefore": [
+        "[u0005 | 00:00:54.600-00:01:03.660 | DM] The moon does not remember its past, although it has heard the stories, of course, the conflicting tales and prayers and legends of its origin.",
+        "[u0006 | 00:01:05.430-00:01:15.750 | DM] Is it a great evil cast out in the earliest days of creation by {{our and maalik}} cursed to forget in its great tomb struggling awake for only a few days each month?"
+      ],
+      "contextAfter": [
+        "[u0008 | 00:01:36.870-00:01:40.830 | DM] or some say a hero, and the villain both granted the gift of forgetting.",
+        "[u0009 | 00:01:42.030-00:01:50.760 | DM] The moon hears these tales and more washing over them, {{and yet they find you they don't care}} to know the truth, even in these moments of lucidity."
+      ],
+      "after": "Arhat and Malik",
+      "group": "creator-gods",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0339:m1",
+      "uid": "u0339",
+      "ordinal": 1,
+      "lineNumber": 339,
+      "start": 116,
+      "end": 124,
+      "before": "{{ilya}}",
+      "span": "ilya",
+      "line": "[u0339 | 00:25:29.310-00:25:37.110 | DM] sheaf of papers you found in the archives that were letters from Commander {{ilya}} to the {{summer}} Nayan Yarad.",
+      "contextBefore": [
+        "[u0337 | 00:25:20.970-00:25:22.950 | DM] Just to clarify the map was made.",
+        "[u0338 | 00:25:24.540-00:25:28.260 | DM] was made by so there was a there was this."
+      ],
+      "contextAfter": [
+        "[u0340 | 00:25:38.820-00:25:47.940 | DM] And the map was you learned of the map, because one of those letters said, basically, there was one approach that seems safe that I've carefully mapped and given to my troops.",
+        "[u0341 | 00:25:50.160-00:25:51.720 | Delwath] So it's it was old Dunmari."
+      ],
+      "after": "Ila",
+      "group": "commander-ila",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0339:m2",
+      "uid": "u0339",
+      "ordinal": 2,
+      "lineNumber": 339,
+      "start": 132,
+      "end": 142,
+      "before": "{{summer}}",
+      "span": "summer",
+      "line": "[u0339 | 00:25:29.310-00:25:37.110 | DM] sheaf of papers you found in the archives that were letters from Commander {{ilya}} to the {{summer}} Nayan Yarad.",
+      "contextBefore": [
+        "[u0337 | 00:25:20.970-00:25:22.950 | DM] Just to clarify the map was made.",
+        "[u0338 | 00:25:24.540-00:25:28.260 | DM] was made by so there was a there was this."
+      ],
+      "contextAfter": [
+        "[u0340 | 00:25:38.820-00:25:47.940 | DM] And the map was you learned of the map, because one of those letters said, basically, there was one approach that seems safe that I've carefully mapped and given to my troops.",
+        "[u0341 | 00:25:50.160-00:25:51.720 | Delwath] So it's it was old Dunmari."
+      ],
+      "after": "Samraat",
+      "group": "samraat-title",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0496:m3",
+      "uid": "u0496",
+      "ordinal": 3,
+      "lineNumber": 496,
+      "start": 231,
+      "end": 245,
+      "before": "{{cool Downs}}",
+      "span": "cool Downs",
+      "line": "[u0496 | 00:37:15.750-00:37:32.370 | Delwath] It was, when the sixth moon rises in the betrayer's sky, when the {{divas}} echo of madness is nigh, an ancient cave of {{mad when sold}}, thirteen brethren, thirteen prayers, thirteen {{cool Downs}} spears prepared will bring forth the howl of empty despair and Jinnik's {{careful claimed land}}, but basically {{get a summit}}.",
+      "contextBefore": [
+        "[u0494 | 00:37:07.620-00:37:10.530 | Seeker] And then, if they need this scroll that we have, but maybe not.",
+        "[u0495 | 00:37:10.740-00:37:14.520 | Delwath] so clear in the it's in the session notes."
+      ],
+      "contextAfter": [
+        "[u0497 | 00:37:33.270-00:37:36.270 | Kenzo] yeah but we kill them all, so when we tell we tell been.",
+        "[u0498 | 00:37:36.330-00:37:37.590 | Delwath] killed the 13 of them."
+      ],
+      "after": "cold iron",
+      "group": "cold-iron",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2039:m1",
+      "uid": "u2039",
+      "ordinal": 1,
+      "lineNumber": 2039,
+      "start": 69,
+      "end": 79,
+      "before": "{{number}}",
+      "span": "number",
+      "line": "[u2039 | 02:31:08.670-02:31:10.500 | DM] There was another man named {{number}}.",
+      "contextBefore": [
+        "[u2037 | 02:31:00.900-02:31:02.010 | DM] I think I was.",
+        "[u2038 | 02:31:03.150-02:31:06.120 | DM] one of only two recent converts."
+      ],
+      "contextAfter": [
+        "[u2040 | 02:31:15.030-02:31:16.200 | DM] But no, he was.",
+        "[u2041 | 02:31:20.820-02:31:21.660 | DM] He was the one."
+      ],
+      "after": "Umber",
+      "group": "umber",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2481:m1",
+      "uid": "u2481",
+      "ordinal": 1,
+      "lineNumber": 2481,
+      "start": 47,
+      "end": 60,
+      "before": "{{Telegraph}}",
+      "span": "Telegraph",
+      "line": "[u2481 | 03:02:08.250-03:02:10.620 | Kenzo] To {{Telegraph}} so that they could.",
+      "contextBefore": [
+        "[u2479 | 03:02:02.280-03:02:02.940 | Kenzo] To Agata.",
+        "[u2480 | 03:02:04.080-03:02:06.630 | Kenzo] In exchange for passage."
+      ],
+      "contextAfter": [
+        "[u2482 | 03:02:12.090-03:02:14.610 | Kenzo] bypass the protections of Shakun.",
+        "[u2483 | 03:02:15.870-03:02:33.030 | Wellby] passage which requires two things first for the borders to be dropped, and second, for there to be a refugee crisis that they could slip in with presumably that's the scroll case, then that they go and set up in Raven's Hold to start the gnoll attacks."
+      ],
+      "after": "Taelgar",
+      "group": "taelgar-spoken-name",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2567:m1",
+      "uid": "u2567",
+      "ordinal": 1,
+      "lineNumber": 2567,
+      "start": 49,
+      "end": 59,
+      "before": "{{harass}}",
+      "span": "harass",
+      "line": "[u2567 | 03:08:17.250-03:08:18.900 | Kenzo] Yes, {{harass}} yes.",
+      "contextBefore": [
+        "[u2565 | 03:08:13.740-03:08:14.250 | Delwath] Yes.",
+        "[u2566 | 03:08:14.340-03:08:17.160 | Seeker] I mean the simplest answer would be the other faction."
+      ],
+      "contextAfter": [
+        "[u2568 | 03:08:19.890-03:08:21.570 | Seeker] And Dunmar {{current}}.",
+        "[u2569 | 03:08:22.230-03:08:25.470 | Delwath] But it does seem a little sketchy that they would have gotten."
+      ],
+      "after": "Karnas",
+      "group": "karnas-faction",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2568:m1",
+      "uid": "u2568",
+      "ordinal": 1,
+      "lineNumber": 2568,
+      "start": 56,
+      "end": 67,
+      "before": "{{current}}",
+      "span": "current",
+      "line": "[u2568 | 03:08:19.890-03:08:21.570 | Seeker] And Dunmar {{current}}.",
+      "contextBefore": [
+        "[u2566 | 03:08:14.340-03:08:17.160 | Seeker] I mean the simplest answer would be the other faction.",
+        "[u2567 | 03:08:17.250-03:08:18.900 | Kenzo] Yes, {{harass}} yes."
+      ],
+      "contextAfter": [
+        "[u2569 | 03:08:22.230-03:08:25.470 | Delwath] But it does seem a little sketchy that they would have gotten.",
+        "[u2570 | 03:08:25.470-03:08:26.010 | Delwath] away with."
+      ],
+      "after": "Karnas",
+      "group": "karnas-faction",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u2481": {
+      "before": "[u2481 | 03:02:08.250-03:02:10.620 | Kenzo] To {{Telegraph}} so that they could.\n",
+      "after": "[u2481 | 03:02:08.250-03:02:10.620 | Kenzo] To Taelgar so that they could.\n"
+    },
+    "u0007": {
+      "before": "[u0007 | 00:01:16.800-00:01:35.670 | DM] Some tales claim, or perhaps a great hero of the Age of Myth born and living and dying during the long breath before time began rescued from death by {{art and ma}} given an honored place in the sky, but unable to be fully restored perhaps some tales would say this.\n",
+      "after": "[u0007 | 00:01:16.800-00:01:35.670 | DM] Some tales claim, or perhaps a great hero of the Age of Myth born and living and dying during the long breath before time began rescued from death by Arhat and Malik given an honored place in the sky, but unable to be fully restored perhaps some tales would say this.\n"
+    },
+    "u0496": {
+      "before": "[u0496 | 00:37:15.750-00:37:32.370 | Delwath] It was, when the sixth moon rises in the betrayer's sky, when the {{divas}} echo of madness is nigh, an ancient cave of {{mad when sold}}, thirteen brethren, thirteen prayers, thirteen {{cool Downs}} spears prepared will bring forth the howl of empty despair and Jinnik's {{careful claimed land}}, but basically {{get a summit}}.\n",
+      "after": "[u0496 | 00:37:15.750-00:37:32.370 | Delwath] It was, when the sixth moon rises in the betrayer's sky, when the {{divas}} echo of madness is nigh, an ancient cave of {{mad when sold}}, thirteen brethren, thirteen prayers, thirteen cold iron spears prepared will bring forth the howl of empty despair and Jinnik's {{careful claimed land}}, but basically {{get a summit}}.\n"
+    },
+    "u2567": {
+      "before": "[u2567 | 03:08:17.250-03:08:18.900 | Kenzo] Yes, {{harass}} yes.\n",
+      "after": "[u2567 | 03:08:17.250-03:08:18.900 | Kenzo] Yes, Karnas yes.\n"
+    },
+    "u2568": {
+      "before": "[u2568 | 03:08:19.890-03:08:21.570 | Seeker] And Dunmar {{current}}.\n",
+      "after": "[u2568 | 03:08:19.890-03:08:21.570 | Seeker] And Dunmar Karnas.\n"
+    },
+    "u0339": {
+      "before": "[u0339 | 00:25:29.310-00:25:37.110 | DM] sheaf of papers you found in the archives that were letters from Commander {{ilya}} to the {{summer}} Nayan Yarad.\n",
+      "after": "[u0339 | 00:25:29.310-00:25:37.110 | DM] sheaf of papers you found in the archives that were letters from Commander Ila to the Samraat Nayan Yarad.\n"
+    },
+    "u0006": {
+      "before": "[u0006 | 00:01:05.430-00:01:15.750 | DM] Is it a great evil cast out in the earliest days of creation by {{our and maalik}} cursed to forget in its great tomb struggling awake for only a few days each month?\n",
+      "after": "[u0006 | 00:01:05.430-00:01:15.750 | DM] Is it a great evil cast out in the earliest days of creation by Arhat and Malik cursed to forget in its great tomb struggling awake for only a few days each month?\n"
+    },
+    "u2039": {
+      "before": "[u2039 | 02:31:08.670-02:31:10.500 | DM] There was another man named {{number}}.\n",
+      "after": "[u2039 | 02:31:08.670-02:31:10.500 | DM] There was another man named Umber.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T03:52:24.012080+00:00",
+      "sha256": "b65dbbd9270e2f39bd7956b92e442b3566a30fd03a90f40ca01e8831f7d3c102"
+    }
+  ],
+  "runId": "20261028T035223961075Z-a96ad0ad",
+  "createdAt": "2026-10-28T03:52:23.961459+00:00"
+}

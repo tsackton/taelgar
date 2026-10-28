@@ -1,0 +1,3165 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-115",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-source-cleaned.md",
+  "beforeSha256": "1043debdf90d08455eaf797061b870d158942d3d9e675504b32744eae1a4ad29",
+  "afterSha256": "9cda94031484759c9041e78e781a8fbd34c24f986b52c932aeafe4b1ddd2fba7",
+  "markersBefore": 141,
+  "groups": [
+    {
+      "id": "amil",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The young monk aboard Vindristjarna who is directly addressed by Kenzo is Amil; his reference note establishes name and crew membership.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Amil.md",
+          "sha256": "efb1c024024f6d3caa7665dc45db92aa438a42ac850d51562ad2937b85e700cd"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2768:m1",
+        "u2790:m1"
+      ],
+      "replacements": {
+        "u2768:m1": "Amil",
+        "u2790:m1": "Amil"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "amil-address",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Kenzo continues addressing Amil and asks where Faldrak is; the crew exchange strongly favors the addressed name over literal Almost.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Amil.md",
+          "sha256": "efb1c024024f6d3caa7665dc45db92aa438a42ac850d51562ad2937b85e700cd"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2824:m1"
+      ],
+      "replacements": {
+        "u2824:m1": "Amil"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "amil-reaction",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The DM narrates the just-cleansed Amil's reaction using is contracted before like; the ongoing exchange uniquely favors Amil's over almost.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Amil.md",
+          "sha256": "efb1c024024f6d3caa7665dc45db92aa438a42ac850d51562ad2937b85e700cd"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2820:m1"
+      ],
+      "replacements": {
+        "u2820:m1": "Amil's"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "arheste",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The DM supplies the name of the ancient elf in Orenlas who knows the party's Apollyon quest, and Delwath repeats it; her reference note establishes Arheste.",
+      "evidence": [
+        {
+          "path": "People/Elves/Arheste.md",
+          "sha256": "7efcb2e18df1203641154985ba852a470a89efde50b92bd2b2ca39c09d2b8d99"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1942:m1",
+        "u1943:m1"
+      ],
+      "replacements": {
+        "u1942:m1": "Arheste",
+        "u1943:m1": "Arheste"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "chalyte",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The marked mineral names describe the material powering the shadow creatures and zombies; the material reference establishes chalyte and its connection to such husks.",
+      "evidence": [
+        {
+          "path": "Things/Materials/Chalyte.md",
+          "sha256": "3fda87bdf846ef031daa62013619e658a2b246e31bcb1739fd73b0141e0f7c92"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0308:m1",
+        "u1755:m1"
+      ],
+      "replacements": {
+        "u0308:m1": "chalyte",
+        "u1755:m1": "chalyte"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "chalyte-assassins",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "This continues the discussion of the same shadow assassins later explicitly described as powered by chalyte; chalyte is strongly favored over literal daylight, although the surrounding sentence is fragmented.",
+      "evidence": [
+        {
+          "path": "Things/Materials/Chalyte.md",
+          "sha256": "3fda87bdf846ef031daa62013619e658a2b246e31bcb1739fd73b0141e0f7c92"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0139:m1"
+      ],
+      "replacements": {
+        "u0139:m1": "chalyte"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "dragon-hoard-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Ra'ghemdros' hoard is a plausible referent, but the longer marked phrase also contains damaged ordinary wording and cannot be repaired by a name-only replacement.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Ra'ghemdros.md",
+          "sha256": "933d4001013420191a597afa673ef7ef07d47e3f5a27372bc4f3db09f12939a9"
+        }
+      ],
+      "candidates": [
+        "Ra'ghemdros' hoard"
+      ],
+      "markerIds": [
+        "u1564:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1564:m1": "{{red, capturous, is hard}}"
+      }
+    },
+    {
+      "id": "fides-lucaris",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The organization is explicitly identified in the following dialogue by its sending stone and attempted elemental rescue; the society note establishes its name.",
+      "evidence": [
+        {
+          "path": "Groups/Drankorian Societies/Fides Lucaris.md",
+          "sha256": "9a97fb4c2b68ca7d5a14653e370abb45d90875384b84c89b32d5978e4ba82fa0"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1411:m1",
+        "u1414:m1"
+      ],
+      "replacements": {
+        "u1411:m1": "Fides Lucaris",
+        "u1414:m1": "Fides Lucaris"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "floria",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The mask-bearing soul and her family legacy identify Floria of Aphasium; the later list names that same soul.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Floria of Aphasium.md",
+          "sha256": "9169f7de17c2900b9d4ee214a98ac17a1523ee33116d8814bd25abdc6fc8e4ab"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2350:m1",
+        "u2383:m1"
+      ],
+      "replacements": {
+        "u2350:m1": "Floria",
+        "u2383:m1": "Floria"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "gates-of-kenzo",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "This is the established illustrated story Legendary Gates of Kenzo, gifted to the fey; the marked word already matches and only needs its braces removed.",
+      "evidence": [
+        {
+          "path": "Things/Books/Legendary Gates of Kenzo.md",
+          "sha256": "ce05bd8c028f575898ba5ada5c00bebcc7e1d3024a43f1fcda74cd57161a8f8e"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1746:m1"
+      ],
+      "replacements": {
+        "u1746:m1": "Gates"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "gidari",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "These occurrences identify the guardians and guides of souls in the Land of the Dead; the creature note establishes Gidari.",
+      "evidence": [
+        {
+          "path": "Creatures/Extraplanar/Gidari.md",
+          "sha256": "a702f3e17e1d4cced689aa7f351deddd81beb3a5aeb1aa983fe5dafb5852f922"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2057:m1",
+        "u2059:m1",
+        "u2061:m1",
+        "u2064:m1",
+        "u2068:m1",
+        "u2074:m1",
+        "u2301:m1",
+        "u2575:m1"
+      ],
+      "replacements": {
+        "u2057:m1": "Gidari",
+        "u2059:m1": "Gidari",
+        "u2061:m1": "Gidari",
+        "u2064:m1": "Gidari",
+        "u2068:m1": "Gidari",
+        "u2074:m1": "Gidari",
+        "u2301:m1": "Gidari",
+        "u2575:m1": "Gidari"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "gidari-repeated",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The DM names the guardians of souls; preserve the two spoken repetitions while correcting the established creature name.",
+      "evidence": [
+        {
+          "path": "Creatures/Extraplanar/Gidari.md",
+          "sha256": "a702f3e17e1d4cced689aa7f351deddd81beb3a5aeb1aa983fe5dafb5852f922"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1506:m1"
+      ],
+      "replacements": {
+        "u1506:m1": "Gidari Gidari"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "gidari-restart",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The speaker starts a question about the Gidari and immediately repeats the full question naming those guardians; the incomplete first pronunciation has the same unique referent.",
+      "evidence": [
+        {
+          "path": "Creatures/Extraplanar/Gidari.md",
+          "sha256": "a702f3e17e1d4cced689aa7f351deddd81beb3a5aeb1aa983fe5dafb5852f922"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2067:m1"
+      ],
+      "replacements": {
+        "u2067:m1": "Gidari"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "grash",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The reference to the undead antagonist who fought the guardians matches Grash, not Uzgash; the canonical note identifies Grash's undead role.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Grash.md",
+          "sha256": "3d3dbf893416d0350386dbfc2639bc2dcc2431bdfea18dffc0ae43db37d9c484"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1507:m1"
+      ],
+      "replacements": {
+        "u1507:m1": "Grash"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "isingue",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The fall of the city bordering the Plaguelands identifies Isingue; its reference note establishes the name.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Upper Istaros/Isingue.md",
+          "sha256": "9dd8e07e7e3abf5dcef2c06322c42e12c698ebd07a8c7d196dc591d0db45d790"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1902:m1"
+      ],
+      "replacements": {
+        "u1902:m1": "Isingue"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "melindir",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "These occurrences identify the elven ambassador Delwath is visiting in Tollen; his reference note establishes Melindir.",
+      "evidence": [
+        {
+          "path": "People/Elves/Melindir.md",
+          "sha256": "3e841a891c21abe772c1f4d25a48813de6c8c2cc17c3565b8a9c788dd3e530da"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1895:m1",
+        "u1924:m1",
+        "u1927:m1",
+        "u1980:m1"
+      ],
+      "replacements": {
+        "u1895:m1": "Melindir",
+        "u1924:m1": "Melindir",
+        "u1927:m1": "Melindir",
+        "u1980:m1": "Melindir"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "melindir-damaged-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Melindir is the contextual location, but mountain chances may include additional ordinary words beyond the name; the whole marked boundary is not recoverable.",
+      "evidence": [
+        {
+          "path": "People/Elves/Melindir.md",
+          "sha256": "3e841a891c21abe772c1f4d25a48813de6c8c2cc17c3565b8a9c788dd3e530da"
+        }
+      ],
+      "candidates": [
+        "Melindir"
+      ],
+      "markerIds": [
+        "u1981:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1981:m1": "{{mountain chances}}"
+      }
+    },
+    {
+      "id": "melindir-location",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Delwath asks whether he is still at the ambassador's place during the summons, and the DM confirms; this strongly favors the possessive name Melindir's over the ordinary word mountaineers.",
+      "evidence": [
+        {
+          "path": "People/Elves/Melindir.md",
+          "sha256": "3e841a891c21abe772c1f4d25a48813de6c8c2cc17c3565b8a9c788dd3e530da"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 115 (DuFr).md",
+          "sha256": "9dab31d4c01b80bd4adbcfdea05428bdf2a139407155b14773c599ad2003c3dd"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1976:m1"
+      ],
+      "replacements": {
+        "u1976:m1": "Melindir's"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "minarith",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "These occurrences identify the same natural-history scholar, his note or memento, and his released soul; the reference biography establishes Minarith.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Minarith.md",
+          "sha256": "52b60da8daeb6e8e3c02472273fc72ea91ae31968061a4829b882e4cc30c2ba5"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0061:m1",
+        "u0491:m1",
+        "u1078:m1",
+        "u1113:m1",
+        "u1237:m1",
+        "u1240:m1",
+        "u1251:m1",
+        "u2313:m1",
+        "u2314:m1",
+        "u2315:m1",
+        "u2319:m1",
+        "u2320:m1",
+        "u2324:m1",
+        "u2340:m1"
+      ],
+      "replacements": {
+        "u0061:m1": "Minarith",
+        "u0491:m1": "Minarith",
+        "u1078:m1": "Minarith",
+        "u1113:m1": "Minarith",
+        "u1237:m1": "Minarith",
+        "u1240:m1": "Minarith",
+        "u1251:m1": "Minarith",
+        "u2313:m1": "Minarith",
+        "u2314:m1": "Minarith",
+        "u2315:m1": "Minarith",
+        "u2319:m1": "Minarith",
+        "u2320:m1": "Minarith",
+        "u2324:m1": "Minarith",
+        "u2340:m1": "Minarith"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "minarith-failed-recall",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Mina occurs while the player is asking for the name and is immediately corrected by the DM; it may be an actual partial or mistaken recall, so do not silently complete it.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Minarith.md",
+          "sha256": "52b60da8daeb6e8e3c02472273fc72ea91ae31968061a4829b882e4cc30c2ba5"
+        }
+      ],
+      "candidates": [
+        "Minarith"
+      ],
+      "markerIds": [
+        "u2312:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2312:m1": "{{Mina}}"
+      }
+    },
+    {
+      "id": "minarith-possessive",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The soul aura belongs to Minarith; retain the possessive form before soul aura.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Minarith.md",
+          "sha256": "52b60da8daeb6e8e3c02472273fc72ea91ae31968061a4829b882e4cc30c2ba5"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1242:m1"
+      ],
+      "replacements": {
+        "u1242:m1": "Minarith's"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "occulta-ludum",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The DM supplies the society name when asked about the book; the reference note establishes Occulta Ludum.",
+      "evidence": [
+        {
+          "path": "Groups/Drankorian Societies/Occulta Ludum.md",
+          "sha256": "510c0e4d633e688a2020e3adbc89738c91f95b7980ebcba3e99275b2e163e835"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1413:m1"
+      ],
+      "replacements": {
+        "u1413:m1": "Occulta Ludum"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ordinary-wording-and-mechanics",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary chatter, descriptive words, rules or spell explanations, fragments and damaged phrases outside the name-and-setting-term pass; retain verbatim, including incidental unclear chatter and generic object wording.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0020:m1",
+        "u0107:m1",
+        "u0132:m1",
+        "u0160:m1",
+        "u0206:m1",
+        "u0209:m1",
+        "u0221:m1",
+        "u0280:m1",
+        "u0365:m1",
+        "u0375:m1",
+        "u0383:m1",
+        "u0435:m1",
+        "u0475:m1",
+        "u0480:m1",
+        "u0482:m1",
+        "u0483:m1",
+        "u0591:m1",
+        "u0620:m1",
+        "u0690:m1",
+        "u0781:m1",
+        "u0782:m1",
+        "u0808:m1",
+        "u0829:m1",
+        "u0841:m1",
+        "u0863:m1",
+        "u0910:m1",
+        "u1016:m1",
+        "u1052:m1",
+        "u1061:m1",
+        "u1135:m1",
+        "u1178:m1",
+        "u1190:m1",
+        "u1241:m1",
+        "u1376:m1",
+        "u1689:m1",
+        "u1720:m1",
+        "u1725:m1",
+        "u1796:m1",
+        "u1882:m1",
+        "u1909:m1",
+        "u1911:m1",
+        "u1937:m1",
+        "u2111:m1",
+        "u2125:m1",
+        "u2242:m1",
+        "u2255:m1",
+        "u2288:m1",
+        "u2364:m1",
+        "u2485:m1",
+        "u2525:m1",
+        "u2621:m1",
+        "u2822:m1",
+        "u2843:m1",
+        "u2899:m1",
+        "u2939:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0020:m1": "{{read the ghost}}",
+        "u0107:m1": "{{a in all the strings}}",
+        "u0132:m1": "{{Doctors need}}",
+        "u0160:m1": "{{super. Jeremy}}",
+        "u0206:m1": "{{too}}",
+        "u0209:m1": "{{the tune}}",
+        "u0221:m1": "{{not a share}}",
+        "u0280:m1": "{{Cheryl. Could you can say}}",
+        "u0365:m1": "{{Very well be}}",
+        "u0375:m1": "{{Sticking}}",
+        "u0383:m1": "{{And you pass again again by one or so less than an hour.}}",
+        "u0435:m1": "{{and down at the end}}",
+        "u0475:m1": "{{at 2. It's probably 2 8}}",
+        "u0480:m1": "{{aura strengths}}",
+        "u0482:m1": "{{He's done things}}",
+        "u0483:m1": "{{Good friend. In the moment Tim}}",
+        "u0591:m1": "{{grapple on me}}",
+        "u0620:m1": "{{3 old years ago}}",
+        "u0690:m1": "{{run of psychic}}",
+        "u0781:m1": "{{re-roll the one or not attack}}",
+        "u0782:m1": "{{that comes again}}",
+        "u0808:m1": "{{local}}",
+        "u0829:m1": "{{some nuts}}",
+        "u0841:m1": "{{just our good name}}",
+        "u0863:m1": "{{The attacker that dimmed}}",
+        "u0910:m1": "{{was within 20}}",
+        "u1016:m1": "{{radiant lot of moonlight}}",
+        "u1052:m1": "{{1st step}}",
+        "u1061:m1": "{{buttons}}",
+        "u1135:m1": "{{fontaboodling}}",
+        "u1178:m1": "{{wood}}",
+        "u1190:m1": "{{Magical situate}}",
+        "u1241:m1": "{{radiating}}",
+        "u1376:m1": "{{In California}}",
+        "u1689:m1": "{{Tory state}}",
+        "u1720:m1": "{{spelled}}",
+        "u1725:m1": "{{Tattoo}}",
+        "u1796:m1": "{{the Celeste of the}}",
+        "u1882:m1": "{{90}}",
+        "u1909:m1": "{{Jacquaint}}",
+        "u1911:m1": "{{It required}}",
+        "u1937:m1": "{{this. And Walker}}",
+        "u2111:m1": "{{No traveling on the plane. There has only}}",
+        "u2125:m1": "{{the dead speak no more}}",
+        "u2242:m1": "{{nape}}",
+        "u2255:m1": "{{token you Spike}}",
+        "u2288:m1": "{{That is unique a few times}}",
+        "u2364:m1": "{{you'll say, let Wellby do it}}",
+        "u2485:m1": "{{best weapon and magic of}}",
+        "u2525:m1": "{{Right track}}",
+        "u2621:m1": "{{Shauna}}",
+        "u2822:m1": "{{it was the office}}",
+        "u2843:m1": "{{We all get Tim}}",
+        "u2899:m1": "{{Science tomb}}",
+        "u2939:m1": "{{You're in 7.th}}"
+      }
+    },
+    {
+      "id": "orenlas",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The speakers discuss the elven realm represented by Melindir and previously visited by the party; the realm and ambassador notes establish Orenlas.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Upper Istaros/Orenlas/Orenlas.md",
+          "sha256": "7c3bbc7ef5c0695d43addcf85763f37abb58240e889e6e5d75795a257a357eca"
+        },
+        {
+          "path": "People/Elves/Melindir.md",
+          "sha256": "3e841a891c21abe772c1f4d25a48813de6c8c2cc17c3565b8a9c788dd3e530da"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0179:m1",
+        "u1901:m1",
+        "u1941:m1"
+      ],
+      "replacements": {
+        "u0179:m1": "Orenlas",
+        "u1901:m1": "Orenlas",
+        "u1941:m1": "Orenlas"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "orenlas-dunmar-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The marked span appears to contain Orenlas and Dunmar, but its ending and connecting wording are damaged; retain the whole phrase rather than reconstruct it.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Upper Istaros/Orenlas/Orenlas.md",
+          "sha256": "7c3bbc7ef5c0695d43addcf85763f37abb58240e889e6e5d75795a257a357eca"
+        }
+      ],
+      "candidates": [
+        "Orenlas",
+        "Dunmar"
+      ],
+      "markerIds": [
+        "u1897:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1897:m1": "{{Oren. Loss to done so far}}"
+      }
+    },
+    {
+      "id": "patrius",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Antonius's temple-administrator role and first name uniquely identify Antonius Patrius.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Antonius Patrius.md",
+          "sha256": "72b2216dd66da8b4b442e13fc9574f162c9045a8cf348ffa0f5947cba5a8e53c"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2461:m1"
+      ],
+      "replacements": {
+        "u2461:m1": "Patrius"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "peronar",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The reply identifies the ancestry of the natural-history scholar Minarith, established as Peronar by both notes.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Minarith.md",
+          "sha256": "52b60da8daeb6e8e3c02472273fc72ea91ae31968061a4829b882e4cc30c2ba5"
+        },
+        {
+          "path": "Creatures/Species/Peronar.md",
+          "sha256": "1ab792c8b05f12e4bae9e87be2a4f7d10a78c2d7392576bde010249fa3992c25"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2311:m1"
+      ],
+      "replacements": {
+        "u2311:m1": "Peronar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "peronar-minarith",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The recap identifies the Peronar natural historian; both the ancestry term and name are established in his biography.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Minarith.md",
+          "sha256": "52b60da8daeb6e8e3c02472273fc72ea91ae31968061a4829b882e4cc30c2ba5"
+        },
+        {
+          "path": "Creatures/Species/Peronar.md",
+          "sha256": "1ab792c8b05f12e4bae9e87be2a4f7d10a78c2d7392576bde010249fa3992c25"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0060:m1"
+      ],
+      "replacements": {
+        "u0060:m1": "Peronar Minarith"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "peronar-scholar",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The complete marked span identifies the same scholar; preserve scholar and resolve only the two named forms.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Minarith.md",
+          "sha256": "52b60da8daeb6e8e3c02472273fc72ea91ae31968061a4829b882e4cc30c2ba5"
+        },
+        {
+          "path": "Creatures/Species/Peronar.md",
+          "sha256": "1ab792c8b05f12e4bae9e87be2a4f7d10a78c2d7392576bde010249fa3992c25"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1092:m1"
+      ],
+      "replacements": {
+        "u1092:m1": "Peronar scholar Minarith"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "possible-spoken-misattribution",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The preceding attack is Delwath's, but Wellby's sword may be an actual DM misstatement rather than ASR; do not substitute a factually expected name.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-session.yaml",
+          "sha256": "6681ae6f15f145eddb1166fb5ce79a25b35b12e20d6e6c19c7c0aa621922a4e9"
+        }
+      ],
+      "candidates": [
+        "Delwath's sword",
+        "Wellby's sword"
+      ],
+      "markerIds": [
+        "u1035:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1035:m1": "{{Wellby's sword}}"
+      }
+    },
+    {
+      "id": "puaatar",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Both occurrences name the reputed hidden desert city with a vast library that the charmed crew is seeking; its reference note establishes Pu'aatar without confirming the city's existence.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Faraway Places/Pu'aatar.md",
+          "sha256": "20e2685992aa2ad5ddcee76dd6f3576878263e72bbe9688cdc61f3cbdbdcd675"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2792:m1",
+        "u2808:m1"
+      ],
+      "replacements": {
+        "u2792:m1": "Pu'aatar",
+        "u2808:m1": "Pu'aatar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "raghemdros",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The newly slain dragon, her hoard and her parent identify Ra'ghemdros uniquely; the dragon biography establishes the spelling.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Ra'ghemdros.md",
+          "sha256": "933d4001013420191a597afa673ef7ef07d47e3f5a27372bc4f3db09f12939a9"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1570:m1",
+        "u1596:m1"
+      ],
+      "replacements": {
+        "u1570:m1": "Ra'ghemdros",
+        "u1596:m1": "Ra'ghemdros"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "riswynn-self-narration",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The active speaker narrates her own appeal to Floria, which the following dialogue and session record explicitly attribute to Riswynn; the short ASR form person is strongly favored as her character name.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-115/cleaned/dunmari-frontier-115-session.yaml",
+          "sha256": "6681ae6f15f145eddb1166fb5ce79a25b35b12e20d6e6c19c7c0aa621922a4e9"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 115 (DuFr).md",
+          "sha256": "9dab31d4c01b80bd4adbcfdea05428bdf2a139407155b14773c599ad2003c3dd"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2352:m1"
+      ],
+      "replacements": {
+        "u2352:m1": "Riswynn"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "rod-owner-or-hesitation",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The rod belongs to Kadmos, but watch me's could be a hesitation such as asking for his name rather than the name itself; provenance alone cannot settle the spoken span.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Hoards/Kadmos and Company Loot.md",
+          "sha256": "bfe0a87b3296cbb922f9a09dd0ae5ecbe7bba6b0f0e471a7cf52d2eeb3a3dfe2"
+        }
+      ],
+      "candidates": [
+        "Kadmos"
+      ],
+      "markerIds": [
+        "u1466:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1466:m1": "{{watch me's}}"
+      }
+    },
+    {
+      "id": "selem-shurga",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The shipping manifest names the tea merchant's ship and the next line translates it as Sword of the Wind; the biography records that ship name.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Khemut of Targu.md",
+          "sha256": "cdd1dc235c23603f8229b6fe47ef99efabdec2a601942a10cc147d0f87b7e1b0"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0058:m1"
+      ],
+      "replacements": {
+        "u0058:m1": "Selem Shurga"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ship-or-origin-restart",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Targu and the ship Selem Shurga are both nearby referents; the isolated Bergu before the translation does not establish the complete intended form.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Khemut of Targu.md",
+          "sha256": "cdd1dc235c23603f8229b6fe47ef99efabdec2a601942a10cc147d0f87b7e1b0"
+        }
+      ],
+      "candidates": [
+        "Targu",
+        "Selem Shurga"
+      ],
+      "markerIds": [
+        "u1261:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1261:m1": "{{Bergu}}"
+      }
+    },
+    {
+      "id": "skaer",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The party considers asking its Skaer allies for help immediately before discussing the Tollen priestess; the ethnonym and Iskra's role establish this reading.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Western Green Sea/Realms/Skaer.md",
+          "sha256": "3d64d35380090a0125426a40037443d601b0fa94704b7eea8dae2cc2ed57e1a5"
+        },
+        {
+          "path": "People/Skaer/Iskra.md",
+          "sha256": "c31875b878d6a3f04b8fe13b751079fec553cccf39343c92e0e782ffc361d763"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1714:m1"
+      ],
+      "replacements": {
+        "u1714:m1": "the Skaer"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "sura",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The message and retreat discussion concern the Dunmari ruler Sura, as established by her reference note and this session record.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Sura.md",
+          "sha256": "0329d498f25e14c4307cd9c7b37966241b772bb7a96d0354a9b5fd4e86ac1b31"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 115 (DuFr).md",
+          "sha256": "9dab31d4c01b80bd4adbcfdea05428bdf2a139407155b14773c599ad2003c3dd"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0072:m1",
+        "u0083:m1",
+        "u0233:m1",
+        "u0253:m1",
+        "u0314:m1",
+        "u2916:m1"
+      ],
+      "replacements": {
+        "u0072:m1": "Sura",
+        "u0083:m1": "Sura",
+        "u0233:m1": "Sura",
+        "u0253:m1": "Sura",
+        "u0314:m1": "Sura",
+        "u2916:m1": "Sura"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "sura-possessive",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The question asks about Sura's retreat plan; preserve the possessive.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Sura.md",
+          "sha256": "0329d498f25e14c4307cd9c7b37966241b772bb7a96d0354a9b5fd4e86ac1b31"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 115 (DuFr).md",
+          "sha256": "9dab31d4c01b80bd4adbcfdea05428bdf2a139407155b14773c599ad2003c3dd"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0090:m1"
+      ],
+      "replacements": {
+        "u0090:m1": "Sura's"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "targu",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Khemut's origin is Targu; the marked spelling already matches the biography.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Khemut of Targu.md",
+          "sha256": "cdd1dc235c23603f8229b6fe47ef99efabdec2a601942a10cc147d0f87b7e1b0"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1259:m1"
+      ],
+      "replacements": {
+        "u1259:m1": "Targu"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "targu-variant",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The tea merchant and sailor is explicitly identified as Khemut of Targu; Paragu is a less exact recognition of that established place name.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Khemut of Targu.md",
+          "sha256": "cdd1dc235c23603f8229b6fe47ef99efabdec2a601942a10cc147d0f87b7e1b0"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2459:m1"
+      ],
+      "replacements": {
+        "u2459:m1": "Targu"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "unclear-friendly-person",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The friendly-person reference follows a question about dragons but does not uniquely establish whether Sir is Sura or another name; retain the spoken uncertainty.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Sura.md",
+          "sha256": "0329d498f25e14c4307cd9c7b37966241b772bb7a96d0354a9b5fd4e86ac1b31"
+        }
+      ],
+      "candidates": [
+        "Sura"
+      ],
+      "markerIds": [
+        "u0174:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0174:m1": "{{Sir}}"
+      }
+    },
+    {
+      "id": "unrecoverable-name-question",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The short response may involve asking about Minarith or a different spoken name; its full marked wording cannot be resolved without reconstructing the phrase.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Minarith.md",
+          "sha256": "52b60da8daeb6e8e3c02472273fc72ea91ae31968061a4829b882e4cc30c2ba5"
+        }
+      ],
+      "candidates": [
+        "Minarith"
+      ],
+      "markerIds": [
+        "u1093:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1093:m1": "{{Louis Nurman}}"
+      }
+    },
+    {
+      "id": "valanthe",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The satirical elven bard who mocked Apollyon is Valanthe; preserve each separate occurrence, including both on u2467.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Valanthe.md",
+          "sha256": "a1b87a20ecd372d06de81d2f5390cb6c4f5d832631f7d93534a18fc70c631427"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2383:m2",
+        "u2464:m1",
+        "u2467:m1",
+        "u2467:m2"
+      ],
+      "replacements": {
+        "u2383:m2": "Valanthe",
+        "u2464:m1": "Valanthe",
+        "u2467:m1": "Valanthe",
+        "u2467:m2": "Valanthe"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "vindristjarna",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Each occurrence refers to the party's named skyship as destination or storage location.",
+      "evidence": [
+        {
+          "path": "Things/Ships/Vindristjarna.md",
+          "sha256": "8c55e2b0e0e818abbe72532bc573a1f0e4d51e592e5b81ceda0d3ec23fc50e27"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1337:m1",
+        "u1438:m1",
+        "u2633:m1"
+      ],
+      "replacements": {
+        "u1337:m1": "Vindristjarna",
+        "u1438:m1": "Vindristjarna",
+        "u2633:m1": "Vindristjarna"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0058:m1",
+      "uid": "u0058",
+      "ordinal": 1,
+      "lineNumber": 58,
+      "start": 124,
+      "end": 139,
+      "before": "{{Selim sugar}}",
+      "span": "Selim sugar",
+      "line": "[u0058 | 00:05:50.290-00:06:00.420 | DM] dig through the scrolls, eventually finding both a shipping manifest from the ship {{Selim sugar}}.",
+      "contextBefore": [
+        "[u0056 | 00:05:40.993-00:05:42.720 | Kenzo] On guard.",
+        "[u0057 | 00:05:44.410-00:05:49.560 | DM] And after banishing it and having a minute to, I"
+      ],
+      "contextAfter": [
+        "[u0059 | 00:06:00.910-00:06:07.290 | DM] Delwath translated from some unknown language as Sword of the wind, describing spices and tea.",
+        "[u0060 | 00:06:08.539-00:06:23.920 | DM] Seemingly Kemet's ship, and also a another manifest describing the the last person, the {{Paranar Minarath}}."
+      ],
+      "after": "Selem Shurga",
+      "group": "selem-shurga",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0060:m1",
+      "uid": "u0060",
+      "ordinal": 1,
+      "lineNumber": 60,
+      "start": 129,
+      "end": 149,
+      "before": "{{Paranar Minarath}}",
+      "span": "Paranar Minarath",
+      "line": "[u0060 | 00:06:08.539-00:06:23.920 | DM] Seemingly Kemet's ship, and also a another manifest describing the the last person, the {{Paranar Minarath}}.",
+      "contextBefore": [
+        "[u0058 | 00:05:50.290-00:06:00.420 | DM] dig through the scrolls, eventually finding both a shipping manifest from the ship {{Selim sugar}}.",
+        "[u0059 | 00:06:00.910-00:06:07.290 | DM] Delwath translated from some unknown language as Sword of the wind, describing spices and tea."
+      ],
+      "contextAfter": [
+        "[u0061 | 00:06:25.990-00:06:36.720 | DM] A description of some unusual but botanical samples to be sent to {{menoreth}} faculty of Natural history",
+        "[u0062 | 00:06:37.190-00:06:39.599 | DM] at the University of the Austene."
+      ],
+      "after": "Peronar Minarith",
+      "group": "peronar-minarith",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0061:m1",
+      "uid": "u0061",
+      "ordinal": 1,
+      "lineNumber": 61,
+      "start": 107,
+      "end": 119,
+      "before": "{{menoreth}}",
+      "span": "menoreth",
+      "line": "[u0061 | 00:06:25.990-00:06:36.720 | DM] A description of some unusual but botanical samples to be sent to {{menoreth}} faculty of Natural history",
+      "contextBefore": [
+        "[u0059 | 00:06:00.910-00:06:07.290 | DM] Delwath translated from some unknown language as Sword of the wind, describing spices and tea.",
+        "[u0060 | 00:06:08.539-00:06:23.920 | DM] Seemingly Kemet's ship, and also a another manifest describing the the last person, the {{Paranar Minarath}}."
+      ],
+      "contextAfter": [
+        "[u0062 | 00:06:37.190-00:06:39.599 | DM] at the University of the Austene.",
+        "[u0063 | 00:06:43.510-00:06:45.889 | DM] At this point, fleeing from the"
+      ],
+      "after": "Minarith",
+      "group": "minarith",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0072:m1",
+      "uid": "u0072",
+      "ordinal": 1,
+      "lineNumber": 72,
+      "start": 115,
+      "end": 123,
+      "before": "{{Sura}}",
+      "span": "Sura",
+      "line": "[u0072 | 00:07:36.420-00:07:45.949 | Wellby] So, after you relate, all of that, Wellby shares news that I got from {{Sura}} while you were off hanging out in the tavern.",
+      "contextBefore": [
+        "[u0070 | 00:07:22.580-00:07:27.219 | Wellby] And maybe take a short rest before heading out again to find the last.",
+        "[u0071 | 00:07:27.880-00:07:30.249 | DM] Of the 7 souls."
+      ],
+      "contextAfter": [
+        "[u0073 | 00:07:47.930-00:07:49.320 | Wellby] I just put it in chat.",
+        "[u0074 | 00:08:05.510-00:08:06.510 | Delwath] Oh, fun!"
+      ],
+      "after": "Sura",
+      "group": "sura",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0083:m1",
+      "uid": "u0083",
+      "ordinal": 1,
+      "lineNumber": 83,
+      "start": 61,
+      "end": 70,
+      "before": "{{Sarah}}",
+      "span": "Sarah",
+      "line": "[u0083 | 00:09:01.600-00:09:05.120 | Delwath] Wait! Where is {{Sarah}}?",
+      "contextBefore": [
+        "[u0081 | 00:08:53.310-00:08:54.300 | Kenzo] just.",
+        "[u0082 | 00:08:54.530-00:09:00.530 | DM] They they were until yesterday, or this morning, or last night."
+      ],
+      "contextAfter": [
+        "[u0084 | 00:09:05.730-00:09:07.030 | Delwath] Where is this taking place?",
+        "[u0085 | 00:09:07.620-00:09:11.229 | DM] Sungara, on the northwestern border of Dunmar."
+      ],
+      "after": "Sura",
+      "group": "sura",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0090:m1",
+      "uid": "u0090",
+      "ordinal": 1,
+      "lineNumber": 90,
+      "start": 62,
+      "end": 73,
+      "before": "{{Sarah's}}",
+      "span": "Sarah's",
+      "line": "[u0090 | 00:09:57.830-00:09:59.639 | Delwath] so like, what's {{Sarah's}} plan?",
+      "contextBefore": [
+        "[u0088 | 00:09:27.560-00:09:28.480 | Delwath] Hold on one second.",
+        "[u0089 | 00:09:42.320-00:09:44.240 | Delwath] so wait. They're they're"
+      ],
+      "contextAfter": [
+        "[u0091 | 00:10:00.640-00:10:02.780 | DM] I mean to flee, but.",
+        "[u0092 | 00:10:08.360-00:10:14.750 | Riswynn] But there's already bad guys ahead of what would be the orderly retreat of the army headed towards Tokra"
+      ],
+      "after": "Sura's",
+      "group": "sura-possessive",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0139:m1",
+      "uid": "u0139",
+      "ordinal": 1,
+      "lineNumber": 139,
+      "start": 54,
+      "end": 66,
+      "before": "{{daylight}}",
+      "span": "daylight",
+      "line": "[u0139 | 00:13:15.750-00:13:19.020 | Seeker] Ability, {{daylight}}, assassins.",
+      "contextBefore": [
+        "[u0137 | 00:13:11.050-00:13:15.250 | Seeker] We can help Dunmar with information. Do we know of some critical.",
+        "[u0138 | 00:13:15.250-00:13:15.750 | Kenzo] One moment."
+      ],
+      "contextAfter": [
+        "[u0140 | 00:13:25.430-00:13:26.610 | Seeker] Unfortunately no.",
+        "[u0141 | 00:13:27.030-00:13:28.959 | Delwath] There. Anybody we can send."
+      ],
+      "after": "chalyte",
+      "group": "chalyte-assassins",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0179:m1",
+      "uid": "u0179",
+      "ordinal": 1,
+      "lineNumber": 179,
+      "start": 67,
+      "end": 78,
+      "before": "{{ornwass}}",
+      "span": "ornwass",
+      "line": "[u0179 | 00:16:04.540-00:16:08.979 | Delwath] What about elves and {{ornwass}}.",
+      "contextBefore": [
+        "[u0177 | 00:16:01.340-00:16:01.800 | Delwath] Well.",
+        "[u0178 | 00:16:01.800-00:16:04.259 | Seeker] For the Centaurs we have for Ralgar."
+      ],
+      "contextAfter": [
+        "[u0180 | 00:16:09.630-00:16:10.350 | Kenzo] Yeah.",
+        "[u0181 | 00:16:11.430-00:16:12.590 | Seeker] Alright! Alright!"
+      ],
+      "after": "Orenlas",
+      "group": "orenlas",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0233:m1",
+      "uid": "u0233",
+      "ordinal": 1,
+      "lineNumber": 233,
+      "start": 66,
+      "end": 75,
+      "before": "{{Sarah}}",
+      "span": "Sarah",
+      "line": "[u0233 | 00:19:14.310-00:19:22.860 | Riswynn] Reassuring message, {{Sarah}}, like Gee! That sucks good luck with the retreat, if we think of anybody, will send.",
+      "contextBefore": [
+        "[u0231 | 00:19:10.560-00:19:13.470 | Riswynn] Yeah, we need one. So we but.",
+        "[u0232 | 00:19:13.470-00:19:14.309 | Delwath] Not gonna take us, though."
+      ],
+      "contextAfter": [
+        "[u0234 | 00:19:23.090-00:19:26.339 | Riswynn] don't not even promise that we'll do anything to try to help.",
+        "[u0235 | 00:19:30.480-00:19:31.009 | Kenzo] Okay, I got it."
+      ],
+      "after": "Sura",
+      "group": "sura",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0253:m1",
+      "uid": "u0253",
+      "ordinal": 1,
+      "lineNumber": 253,
+      "start": 49,
+      "end": 58,
+      "before": "{{Sarah}}",
+      "span": "Sarah",
+      "line": "[u0253 | 00:20:15.320-00:20:21.129 | Delwath] So {{Sarah}} only needs to hold out 48 h.",
+      "contextBefore": [
+        "[u0251 | 00:20:11.120-00:20:12.640 | Delwath] Right, yeah.",
+        "[u0252 | 00:20:12.850-00:20:14.160 | Seeker] Trash, team."
+      ],
+      "contextAfter": [
+        "[u0254 | 00:20:21.790-00:20:22.420 | Kenzo] Yeah.",
+        "[u0255 | 00:20:23.110-00:20:23.740 | Delwath] Right."
+      ],
+      "after": "Sura",
+      "group": "sura",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0308:m1",
+      "uid": "u0308",
+      "ordinal": 1,
+      "lineNumber": 308,
+      "start": 99,
+      "end": 111,
+      "before": "{{J. Light}}",
+      "span": "J. Light",
+      "line": "[u0308 | 00:24:00.630-00:24:03.890 | Seeker] Did the Dunmari know that these things are powered by {{J. Light}}?",
+      "contextBefore": [
+        "[u0306 | 00:23:53.010-00:23:56.840 | Delwath] I don't remember if they can like dimension door or teleport type actions.",
+        "[u0307 | 00:23:57.310-00:23:59.580 | DM] They never teleported. They could fly."
+      ],
+      "contextAfter": [
+        "[u0309 | 00:24:06.090-00:24:07.519 | Seeker] If not, we can tell them.",
+        "[u0310 | 00:24:09.140-00:24:10.259 | Seeker] Yeah, I'm upset."
+      ],
+      "after": "chalyte",
+      "group": "chalyte",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0314:m1",
+      "uid": "u0314",
+      "ordinal": 1,
+      "lineNumber": 314,
+      "start": 83,
+      "end": 92,
+      "before": "{{Sarah}}",
+      "span": "Sarah",
+      "line": "[u0314 | 00:24:23.060-00:24:33.519 | DM] Okay. So you give all this information to {{Sarah}}, after talking briefly, and then turn to.",
+      "contextBefore": [
+        "[u0312 | 00:24:12.590-00:24:13.120 | Riswynn] Okay.",
+        "[u0313 | 00:24:16.840-00:24:19.160 | Seeker] Also that, like Fausto, creates them."
+      ],
+      "contextAfter": [
+        "[u0315 | 00:24:35.980-00:24:37.770 | Riswynn] Figuring out where the university was.",
+        "[u0316 | 00:24:38.350-00:24:39.080 | Seeker] Oh, yeah."
+      ],
+      "after": "Sura",
+      "group": "sura",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0491:m1",
+      "uid": "u0491",
+      "ordinal": 1,
+      "lineNumber": 491,
+      "start": 62,
+      "end": 74,
+      "before": "{{Minarith}}",
+      "span": "Minarith",
+      "line": "[u0491 | 00:39:08.740-00:39:13.410 | DM] The university where {{Minarith}} worked.",
+      "contextBefore": [
+        "[u0489 | 00:39:03.880-00:39:05.020 | Delwath] No, no, no.",
+        "[u0490 | 00:39:05.240-00:39:08.230 | Kenzo] And what's past them again. This is the."
+      ],
+      "contextAfter": [
+        "[u0492 | 00:39:14.980-00:39:16.220 | Seeker] Yeah, we gotta go there.",
+        "[u0493 | 00:39:18.260-00:39:19.590 | Kenzo] We fly over them."
+      ],
+      "after": "Minarith",
+      "group": "minarith",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1078:m1",
+      "uid": "u1078",
+      "ordinal": 1,
+      "lineNumber": 1078,
+      "start": 102,
+      "end": 114,
+      "before": "{{Minarath}}",
+      "span": "Minarath",
+      "line": "[u1078 | 01:13:32.220-01:13:45.380 | DM] in Drankorian, which multiple of you can read which was what {{Minarath}} was from.",
+      "contextBefore": [
+        "[u1076 | 01:13:23.886-01:13:28.450 | DM] some scholarly hall, or something like that, but it's labeled",
+        "[u1077 | 01:13:29.000-01:13:32.110 | DM] Faculty of Natural History, which is what"
+      ],
+      "contextAfter": [
+        "[u1079 | 01:13:46.570-01:13:52.059 | Riswynn] Would people who ended up around a 3rd of their hit points like lick their wounds.",
+        "[u1080 | 01:13:52.490-01:13:53.330 | Wellby] I wouldn't be bad."
+      ],
+      "after": "Minarith",
+      "group": "minarith",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1092:m1",
+      "uid": "u1092",
+      "ordinal": 1,
+      "lineNumber": 1092,
+      "start": 73,
+      "end": 100,
+      "before": "{{paranor scholar Minreth}}",
+      "span": "paranor scholar Minreth",
+      "line": "[u1092 | 01:14:37.890-01:14:44.660 | DM] Some memento, some sign of this {{paranor scholar Minreth}}.",
+      "contextBefore": [
+        "[u1090 | 01:14:30.170-01:14:32.439 | DM] And what do you do?",
+        "[u1091 | 01:14:34.840-01:14:37.590 | Seeker] What are we looking for? Again? We're looking for."
+      ],
+      "contextAfter": [
+        "[u1093 | 01:14:46.110-01:14:47.430 | Seeker] {{Louis Nurman}}.",
+        "[u1094 | 01:14:48.320-01:14:52.010 | DM] And don't know anything else about on the."
+      ],
+      "after": "Peronar scholar Minarith",
+      "group": "peronar-scholar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1113:m1",
+      "uid": "u1113",
+      "ordinal": 1,
+      "lineNumber": 1113,
+      "start": 95,
+      "end": 106,
+      "before": "{{Minrith}}",
+      "span": "Minrith",
+      "line": "[u1113 | 01:16:14.460-01:16:19.999 | DM] and that's where he senses, a sort of emanation of of {{Minrith}}.",
+      "contextBefore": [
+        "[u1111 | 01:15:59.190-01:16:06.190 | DM] The higher stories have collapsed, and you know, as you walk, it seems like every footstep is at risk of",
+        "[u1112 | 01:16:06.410-01:16:13.439 | DM] the roof collapsing. But Kenzo points to the sort of northwest corner of the building."
+      ],
+      "contextAfter": [
+        "[u1114 | 01:16:22.630-01:16:23.250 | Seeker] Hmm.",
+        "[u1115 | 01:16:27.630-01:16:31.990 | Riswynn] So we go over to the northwest corner and are observant. There."
+      ],
+      "after": "Minarith",
+      "group": "minarith",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1237:m1",
+      "uid": "u1237",
+      "ordinal": 1,
+      "lineNumber": 1237,
+      "start": 57,
+      "end": 69,
+      "before": "{{manner F}}",
+      "span": "manner F",
+      "line": "[u1237 | 01:25:21.800-01:25:25.900 | DM] Run if you can, {{manner F}}.",
+      "contextBefore": [
+        "[u1235 | 01:25:13.720-01:25:17.210 | DM] that he would never let any of our people survive.",
+        "[u1236 | 01:25:19.030-01:25:20.900 | DM] and I have nowhere left to flee."
+      ],
+      "contextAfter": [
+        "[u1238 | 01:25:33.690-01:25:34.890 | Kenzo] Well, that's ominous.",
+        "[u1239 | 01:25:38.610-01:25:40.300 | Seeker] Where it was, from."
+      ],
+      "after": "Minarith",
+      "group": "minarith",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1240:m1",
+      "uid": "u1240",
+      "ordinal": 1,
+      "lineNumber": 1240,
+      "start": 46,
+      "end": 57,
+      "before": "{{Minrith}}",
+      "span": "Minrith",
+      "line": "[u1240 | 01:25:40.430-01:25:41.939 | Delwath] {{Minrith}}. Yeah.",
+      "contextBefore": [
+        "[u1238 | 01:25:33.690-01:25:34.890 | Kenzo] Well, that's ominous.",
+        "[u1239 | 01:25:38.610-01:25:40.300 | Seeker] Where it was, from."
+      ],
+      "contextAfter": [
+        "[u1241 | 01:25:42.510-01:25:48.279 | DM] This. This is like clearly something connect, I mean, Kenzo is {{radiating}} the strong",
+        "[u1242 | 01:25:48.430-01:25:51.309 | DM] soul, {{minerth}} soul aura. From this"
+      ],
+      "after": "Minarith",
+      "group": "minarith",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1242:m1",
+      "uid": "u1242",
+      "ordinal": 1,
+      "lineNumber": 1242,
+      "start": 47,
+      "end": 58,
+      "before": "{{minerth}}",
+      "span": "minerth",
+      "line": "[u1242 | 01:25:48.430-01:25:51.309 | DM] soul, {{minerth}} soul aura. From this",
+      "contextBefore": [
+        "[u1240 | 01:25:40.430-01:25:41.939 | Delwath] {{Minrith}}. Yeah.",
+        "[u1241 | 01:25:42.510-01:25:48.279 | DM] This. This is like clearly something connect, I mean, Kenzo is {{radiating}} the strong"
+      ],
+      "contextAfter": [
+        "[u1243 | 01:25:51.830-01:25:54.880 | DM] both the bird trinket and this note itself.",
+        "[u1244 | 01:25:54.880-01:26:03.790 | Delwath] I mean. Presumably the bird has some command word to turn into an actual bird and carry the trinket. Carry the message, but it never! It never made it."
+      ],
+      "after": "Minarith's",
+      "group": "minarith-possessive",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1251:m1",
+      "uid": "u1251",
+      "ordinal": 1,
+      "lineNumber": 1251,
+      "start": 91,
+      "end": 103,
+      "before": "{{Minerith}}",
+      "span": "Minerith",
+      "line": "[u1251 | 01:26:21.560-01:26:26.050 | Delwath] We have the bird of the little bird token of {{Minerith}}. We have the",
+      "contextBefore": [
+        "[u1249 | 01:26:18.530-01:26:19.670 | Delwath] Don't we have all 7.",
+        "[u1250 | 01:26:21.140-01:26:21.560 | Seeker] I don't know."
+      ],
+      "contextAfter": [
+        "[u1252 | 01:26:26.310-01:26:28.649 | Delwath] what the fireworks of the halfling right.",
+        "[u1253 | 01:26:29.070-01:26:29.660 | DM] Yeah."
+      ],
+      "after": "Minarith",
+      "group": "minarith",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1259:m1",
+      "uid": "u1259",
+      "ordinal": 1,
+      "lineNumber": 1259,
+      "start": 50,
+      "end": 59,
+      "before": "{{Targu}}",
+      "span": "Targu",
+      "line": "[u1259 | 01:26:41.320-01:26:44.820 | DM] Kemet of {{Targu}}. You also have a coin that.",
+      "contextBefore": [
+        "[u1257 | 01:26:37.110-01:26:37.920 | DM] I do?",
+        "[u1258 | 01:26:38.440-01:26:41.050 | Delwath] Of the foreigner person."
+      ],
+      "contextAfter": [
+        "[u1260 | 01:26:44.820-01:26:45.330 | Delwath] That.",
+        "[u1261 | 01:26:45.330-01:26:47.070 | DM] {{Bergu}}, the Sword of the Wind."
+      ],
+      "after": "Targu",
+      "group": "targu",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1337:m1",
+      "uid": "u1337",
+      "ordinal": 1,
+      "lineNumber": 1337,
+      "start": 111,
+      "end": 129,
+      "before": "{{ginger. Sharna}}",
+      "span": "ginger. Sharna",
+      "line": "[u1337 | 01:31:38.540-01:31:43.850 | Delwath] Our plan is to go from the land of the dead straight back to the {{ginger. Sharna}}.",
+      "contextBefore": [
+        "[u1335 | 01:31:30.360-01:31:32.499 | Delwath] We can't get off the land of the dead",
+        "[u1336 | 01:31:34.470-01:31:37.169 | Delwath] without using plane shift without using."
+      ],
+      "contextAfter": [
+        "[u1338 | 01:31:43.850-01:31:45.109 | Kenzo] Yeah, with rainbow bridge.",
+        "[u1339 | 01:31:45.110-01:31:45.750 | Delwath] Yeah."
+      ],
+      "after": "Vindristjarna",
+      "group": "vindristjarna",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1411:m1",
+      "uid": "u1411",
+      "ordinal": 1,
+      "lineNumber": 1411,
+      "start": 60,
+      "end": 81,
+      "before": "{{Fight us, Lucaris}}",
+      "span": "Fight us, Lucaris",
+      "line": "[u1411 | 01:37:54.440-01:37:56.650 | Delwath] hey? We know. {{Fight us, Lucaris}}.",
+      "contextBefore": [
+        "[u1409 | 01:37:33.210-01:37:38.030 | Delwath] You didn't. If you didn't rewrite history, it's still in the git repo. I could get it back. But",
+        "[u1410 | 01:37:39.390-01:37:44.730 | Delwath] oh, you did. Okay, not that I would. I would. I don't want to know the secrets."
+      ],
+      "contextAfter": [
+        "[u1412 | 01:37:58.450-01:38:04.490 | Delwath] don't we have their wait! Wait, wait! Don't we have the book of one of these things? What is the book that we have.",
+        "[u1413 | 01:38:06.040-01:38:07.860 | DM] {{A culta lutum}}."
+      ],
+      "after": "Fides Lucaris",
+      "group": "fides-lucaris",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1413:m1",
+      "uid": "u1413",
+      "ordinal": 1,
+      "lineNumber": 1413,
+      "start": 41,
+      "end": 58,
+      "before": "{{A culta lutum}}",
+      "span": "A culta lutum",
+      "line": "[u1413 | 01:38:06.040-01:38:07.860 | DM] {{A culta lutum}}.",
+      "contextBefore": [
+        "[u1411 | 01:37:54.440-01:37:56.650 | Delwath] hey? We know. {{Fight us, Lucaris}}.",
+        "[u1412 | 01:37:58.450-01:38:04.490 | Delwath] don't we have their wait! Wait, wait! Don't we have the book of one of these things? What is the book that we have."
+      ],
+      "contextAfter": [
+        "[u1414 | 01:38:10.170-01:38:14.740 | Delwath] No, didn't we have something else? No, I've heard {{fight us with Charis}} before.",
+        "[u1415 | 01:38:14.740-01:38:16.240 | DM] Yeah, they were the people who"
+      ],
+      "after": "Occulta Ludum",
+      "group": "occulta-ludum",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1414:m1",
+      "uid": "u1414",
+      "ordinal": 1,
+      "lineNumber": 1414,
+      "start": 96,
+      "end": 120,
+      "before": "{{fight us with Charis}}",
+      "span": "fight us with Charis",
+      "line": "[u1414 | 01:38:10.170-01:38:14.740 | Delwath] No, didn't we have something else? No, I've heard {{fight us with Charis}} before.",
+      "contextBefore": [
+        "[u1412 | 01:37:58.450-01:38:04.490 | Delwath] don't we have their wait! Wait, wait! Don't we have the book of one of these things? What is the book that we have.",
+        "[u1413 | 01:38:06.040-01:38:07.860 | DM] {{A culta lutum}}."
+      ],
+      "contextAfter": [
+        "[u1415 | 01:38:14.740-01:38:16.240 | DM] Yeah, they were the people who",
+        "[u1416 | 01:38:16.990-01:38:19.040 | DM] you have a sending stone of theirs."
+      ],
+      "after": "Fides Lucaris",
+      "group": "fides-lucaris",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1438:m1",
+      "uid": "u1438",
+      "ordinal": 1,
+      "lineNumber": 1438,
+      "start": 47,
+      "end": 63,
+      "before": "{{Vindersharna}}",
+      "span": "Vindersharna",
+      "line": "[u1438 | 01:40:03.337-01:40:05.040 | DM] In on {{Vindersharna}}.",
+      "contextBefore": [
+        "[u1436 | 01:39:59.610-01:40:01.029 | Delwath] Hey? Don't we have tons.",
+        "[u1437 | 01:40:01.590-01:40:02.580 | Seeker] Yeah, we have tons of items."
+      ],
+      "contextAfter": [
+        "[u1439 | 01:40:06.040-01:40:06.810 | Seeker] Oh! Crap!",
+        "[u1440 | 01:40:07.530-01:40:09.289 | Delwath] What about this little ancient bird?"
+      ],
+      "after": "Vindristjarna",
+      "group": "vindristjarna",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1506:m1",
+      "uid": "u1506",
+      "ordinal": 1,
+      "lineNumber": 1506,
+      "start": 65,
+      "end": 82,
+      "before": "{{Giardi Giardi}}",
+      "span": "Giardi Giardi",
+      "line": "[u1506 | 01:43:49.890-01:44:01.640 | DM] Motua was one of these. {{Giardi Giardi}}, who are like the guardian. There's some extra. They're extraplanar creatures that are not associated with any",
+      "contextBefore": [
+        "[u1504 | 01:43:40.900-01:43:41.470 | Seeker] Yeah.",
+        "[u1505 | 01:43:43.240-01:43:49.189 | DM] And also do not disturb the other thing. So the the"
+      ],
+      "contextAfter": [
+        "[u1507 | 01:44:02.470-01:44:09.430 | DM] god or demon, or any of the outer planes. And they are the guardians. That's what {{grosh}} fought.",
+        "[u1508 | 01:44:09.850-01:44:20.369 | DM] and they are the guardians, and they serve to keep anybody from interfering with souls."
+      ],
+      "after": "Gidari Gidari",
+      "group": "gidari-repeated",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1507:m1",
+      "uid": "u1507",
+      "ordinal": 1,
+      "lineNumber": 1507,
+      "start": 123,
+      "end": 132,
+      "before": "{{grosh}}",
+      "span": "grosh",
+      "line": "[u1507 | 01:44:02.470-01:44:09.430 | DM] god or demon, or any of the outer planes. And they are the guardians. That's what {{grosh}} fought.",
+      "contextBefore": [
+        "[u1505 | 01:43:43.240-01:43:49.189 | DM] And also do not disturb the other thing. So the the",
+        "[u1506 | 01:43:49.890-01:44:01.640 | DM] Motua was one of these. {{Giardi Giardi}}, who are like the guardian. There's some extra. They're extraplanar creatures that are not associated with any"
+      ],
+      "contextAfter": [
+        "[u1508 | 01:44:09.850-01:44:20.369 | DM] and they are the guardians, and they serve to keep anybody from interfering with souls.",
+        "[u1509 | 01:44:20.780-01:44:22.150 | DM] So not just."
+      ],
+      "after": "Grash",
+      "group": "grash",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1570:m1",
+      "uid": "u1570",
+      "ordinal": 1,
+      "lineNumber": 1570,
+      "start": 149,
+      "end": 163,
+      "before": "{{Brigamdras}}",
+      "span": "Brigamdras",
+      "line": "[u1570 | 01:50:23.620-01:50:31.820 | Wellby] let them, but I also wonder if, like, if they really are dragons, they may also just be interested that {{Brigamdras}} is dead.",
+      "contextBefore": [
+        "[u1568 | 01:50:18.920-01:50:20.060 | Delwath] What's up? Let's.",
+        "[u1569 | 01:50:21.020-01:50:23.470 | Wellby] I think, start with one of those."
+      ],
+      "contextAfter": [
+        "[u1571 | 01:50:32.660-01:50:33.639 | Wellby] I've got all that.",
+        "[u1572 | 01:50:34.020-01:50:35.350 | Delwath] True today."
+      ],
+      "after": "Ra'ghemdros",
+      "group": "raghemdros",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1596:m1",
+      "uid": "u1596",
+      "ordinal": 1,
+      "lineNumber": 1596,
+      "start": 75,
+      "end": 88,
+      "before": "{{Regemdras}}",
+      "span": "Regemdras",
+      "line": "[u1596 | 01:52:46.840-01:52:50.219 | Delwath] Have you heard of the Dragon {{Regemdras}}.",
+      "contextBefore": [
+        "[u1594 | 01:52:38.000-01:52:40.860 | DM] This is not bad.",
+        "[u1595 | 01:52:45.460-01:52:46.640 | DM] Have you heard."
+      ],
+      "contextAfter": [
+        "[u1597 | 01:52:50.220-01:52:55.019 | Wellby] Is there anything from their hoard that you particularly are interested in.",
+        "[u1598 | 01:52:56.950-01:52:58.990 | DM] This is not my specialty."
+      ],
+      "after": "Ra'ghemdros",
+      "group": "raghemdros",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1714:m1",
+      "uid": "u1714",
+      "ordinal": 1,
+      "lineNumber": 1714,
+      "start": 46,
+      "end": 59,
+      "before": "{{the scare}}",
+      "span": "the scare",
+      "line": "[u1714 | 02:00:09.510-02:00:13.269 | Delwath] {{the scare}} probably not right. They kind of owe us. But.",
+      "contextBefore": [
+        "[u1712 | 01:59:55.010-01:59:58.450 | Delwath] he has any ideas on helping with Dunmari.",
+        "[u1713 | 02:00:01.490-02:00:05.440 | Delwath] Is there anybody else who we think might be able to help the Dunmari here"
+      ],
+      "contextAfter": [
+        "[u1715 | 02:00:16.540-02:00:18.840 | Delwath] oh, Delwath could go talk to the Centaur.",
+        "[u1716 | 02:00:19.840-02:00:23.670 | Seeker] Lady romantically."
+      ],
+      "after": "the Skaer",
+      "group": "skaer",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1746:m1",
+      "uid": "u1746",
+      "ordinal": 1,
+      "lineNumber": 1746,
+      "start": 69,
+      "end": 78,
+      "before": "{{gates}}",
+      "span": "gates",
+      "line": "[u1746 | 02:01:59.570-02:02:07.050 | DM] Gave her Seeker's legendary {{gates}} of Kenzo.",
+      "contextBefore": [
+        "[u1744 | 02:01:57.690-02:01:58.320 | DM] We give her a.",
+        "[u1745 | 02:01:58.320-02:01:59.570 | Delwath] Book, or something like that."
+      ],
+      "contextAfter": [
+        "[u1747 | 02:02:07.050-02:02:07.400 | Delwath] Right.",
+        "[u1748 | 02:02:07.400-02:02:08.530 | Seeker] Yeah."
+      ],
+      "after": "Gates",
+      "group": "gates-of-kenzo",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1755:m1",
+      "uid": "u1755",
+      "ordinal": 1,
+      "lineNumber": 1755,
+      "start": 62,
+      "end": 73,
+      "before": "{{jailite}}",
+      "span": "jailite",
+      "line": "[u1755 | 02:02:54.320-02:02:59.740 | Delwath] Dunmar, the the {{jailite}} zombies in Dunmar in exchange, you know.",
+      "contextBefore": [
+        "[u1753 | 02:02:43.520-02:02:46.140 | Wellby] What do we want from her in return.",
+        "[u1754 | 02:02:46.380-02:02:52.390 | Delwath] Allies of Cloud Spinner, who might be willing to fight the"
+      ],
+      "contextAfter": [
+        "[u1756 | 02:03:00.190-02:03:02.910 | Delwath] on the theory that it's helpful to.",
+        "[u1757 | 02:03:03.160-02:03:07.679 | Delwath] It's a bit of a tenuous connection, which is why I'm not sure it's worth it. But."
+      ],
+      "after": "chalyte",
+      "group": "chalyte",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1895:m1",
+      "uid": "u1895",
+      "ordinal": 1,
+      "lineNumber": 1895,
+      "start": 44,
+      "end": 57,
+      "before": "{{Melondeer}}",
+      "span": "Melondeer",
+      "line": "[u1895 | 02:11:39.240-02:11:41.680 | DM] So {{Melondeer}} is.",
+      "contextBefore": [
+        "[u1893 | 02:11:33.990-02:11:35.889 | DM] Everybody else takes a long rest.",
+        "[u1894 | 02:11:37.760-02:11:38.710 | DM] I mean."
+      ],
+      "contextAfter": [
+        "[u1896 | 02:11:42.940-02:11:50.780 | DM] I mean, he's certainly sympathetic to the cause. Promises to send a message.",
+        "[u1897 | 02:11:51.370-02:11:56.410 | DM] There's it's a long way from {{Oren. Loss to done so far}}."
+      ],
+      "after": "Melindir",
+      "group": "melindir",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1901:m1",
+      "uid": "u1901",
+      "ordinal": 1,
+      "lineNumber": 1901,
+      "start": 66,
+      "end": 80,
+      "before": "{{or, unless}}",
+      "span": "or, unless",
+      "line": "[u1901 | 02:12:15.350-02:12:21.520 | DM] And of course, you know, {{or, unless}}, has always, since",
+      "contextBefore": [
+        "[u1899 | 02:12:04.940-02:12:06.660 | DM] but he doesn't know how much.",
+        "[u1900 | 02:12:08.540-02:12:12.049 | DM] doesn't know how much aid they'll be able to send for. Sure."
+      ],
+      "contextAfter": [
+        "[u1902 | 02:12:22.220-02:12:26.690 | DM] the fall of {{isn't gay}}, always been quite reclusive.",
+        "[u1903 | 02:12:26.900-02:12:31.990 | DM] and most of its martial energy has gone to defending its borders with the plaguelands."
+      ],
+      "after": "Orenlas",
+      "group": "orenlas",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1902:m1",
+      "uid": "u1902",
+      "ordinal": 1,
+      "lineNumber": 1902,
+      "start": 53,
+      "end": 66,
+      "before": "{{isn't gay}}",
+      "span": "isn't gay",
+      "line": "[u1902 | 02:12:22.220-02:12:26.690 | DM] the fall of {{isn't gay}}, always been quite reclusive.",
+      "contextBefore": [
+        "[u1900 | 02:12:08.540-02:12:12.049 | DM] doesn't know how much aid they'll be able to send for. Sure.",
+        "[u1901 | 02:12:15.350-02:12:21.520 | DM] And of course, you know, {{or, unless}}, has always, since"
+      ],
+      "contextAfter": [
+        "[u1903 | 02:12:26.900-02:12:31.990 | DM] and most of its martial energy has gone to defending its borders with the plaguelands.",
+        "[u1904 | 02:12:33.450-02:12:34.020 | DM] Thank you."
+      ],
+      "after": "Isingue",
+      "group": "isingue",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1924:m1",
+      "uid": "u1924",
+      "ordinal": 1,
+      "lineNumber": 1924,
+      "start": 84,
+      "end": 98,
+      "before": "{{Bellindeer}}",
+      "span": "Bellindeer",
+      "line": "[u1924 | 02:14:03.040-02:14:10.220 | Delwath] Send Drakaut. Brilliant idea. Thanks, {{Bellindeer}}. We actually know a stone. I'll tell them I actually know a stoneborn near there. I just didn't think of that.",
+      "contextBefore": [
+        "[u1922 | 02:13:58.980-02:14:01.350 | DM] He did, he would totally go, help!",
+        "[u1923 | 02:14:01.350-02:14:02.080 | Delwath] Yeah."
+      ],
+      "contextAfter": [
+        "[u1925 | 02:14:13.440-02:14:17.130 | DM] So you send a message to Drakaut, and he is perfectly happy to and.",
+        "[u1926 | 02:14:17.310-02:14:18.250 | Delwath] I won't."
+      ],
+      "after": "Melindir",
+      "group": "melindir",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1927:m1",
+      "uid": "u1927",
+      "ordinal": 1,
+      "lineNumber": 1927,
+      "start": 66,
+      "end": 78,
+      "before": "{{Melandir}}",
+      "span": "Melandir",
+      "line": "[u1927 | 02:14:18.250-02:14:23.090 | Delwath] I'll also just tell {{Melandir}} to if.",
+      "contextBefore": [
+        "[u1925 | 02:14:13.440-02:14:17.130 | DM] So you send a message to Drakaut, and he is perfectly happy to and.",
+        "[u1926 | 02:14:17.310-02:14:18.250 | Delwath] I won't."
+      ],
+      "contextAfter": [
+        "[u1928 | 02:14:27.200-02:14:29.859 | Riswynn] Refugees from Tokra make it that far or anything.",
+        "[u1929 | 02:14:29.860-02:14:39.330 | Delwath] No, I I want to warn him. I'm not sure exactly how to phrase this, but I want to warn him that if that if we don't succeed"
+      ],
+      "after": "Melindir",
+      "group": "melindir",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1941:m1",
+      "uid": "u1941",
+      "ordinal": 1,
+      "lineNumber": 1941,
+      "start": 83,
+      "end": 93,
+      "before": "{{Ornwas}}",
+      "span": "Ornwas",
+      "line": "[u1941 | 02:15:38.750-02:15:42.430 | Delwath] And we don't have time to go back to {{Ornwas}}, but get a message to what's her name?",
+      "contextBefore": [
+        "[u1939 | 02:15:31.890-02:15:35.640 | Delwath] But if we fail, Apollyon will be back, and the elves need to know.",
+        "[u1940 | 02:15:37.350-02:15:38.100 | DM] Okay."
+      ],
+      "contextAfter": [
+        "[u1942 | 02:15:42.880-02:15:43.820 | DM] {{Rs, day}}.",
+        "[u1943 | 02:15:43.820-02:15:55.220 | Delwath] {{Reste}}. She knows our quest, and and the next couple we're going to"
+      ],
+      "after": "Orenlas",
+      "group": "orenlas",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1942:m1",
+      "uid": "u1942",
+      "ordinal": 1,
+      "lineNumber": 1942,
+      "start": 41,
+      "end": 52,
+      "before": "{{Rs, day}}",
+      "span": "Rs, day",
+      "line": "[u1942 | 02:15:42.880-02:15:43.820 | DM] {{Rs, day}}.",
+      "contextBefore": [
+        "[u1940 | 02:15:37.350-02:15:38.100 | DM] Okay.",
+        "[u1941 | 02:15:38.750-02:15:42.430 | Delwath] And we don't have time to go back to {{Ornwas}}, but get a message to what's her name?"
+      ],
+      "contextAfter": [
+        "[u1943 | 02:15:43.820-02:15:55.220 | Delwath] {{Reste}}. She knows our quest, and and the next couple we're going to",
+        "[u1944 | 02:15:55.530-02:16:00.729 | Delwath] the land of the dead in the morning to destroy his phylactery, and then back to Drankor to destroy him"
+      ],
+      "after": "Arheste",
+      "group": "arheste",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1943:m1",
+      "uid": "u1943",
+      "ordinal": 1,
+      "lineNumber": 1943,
+      "start": 46,
+      "end": 55,
+      "before": "{{Reste}}",
+      "span": "Reste",
+      "line": "[u1943 | 02:15:43.820-02:15:55.220 | Delwath] {{Reste}}. She knows our quest, and and the next couple we're going to",
+      "contextBefore": [
+        "[u1941 | 02:15:38.750-02:15:42.430 | Delwath] And we don't have time to go back to {{Ornwas}}, but get a message to what's her name?",
+        "[u1942 | 02:15:42.880-02:15:43.820 | DM] {{Rs, day}}."
+      ],
+      "contextAfter": [
+        "[u1944 | 02:15:55.530-02:16:00.729 | Delwath] the land of the dead in the morning to destroy his phylactery, and then back to Drankor to destroy him",
+        "[u1945 | 02:16:00.910-02:16:03.490 | Delwath] immediately after, and"
+      ],
+      "after": "Arheste",
+      "group": "arheste",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1976:m1",
+      "uid": "u1976",
+      "ordinal": 1,
+      "lineNumber": 1976,
+      "start": 60,
+      "end": 76,
+      "before": "{{mountaineers}}",
+      "span": "mountaineers",
+      "line": "[u1976 | 02:18:33.070-02:18:36.120 | Delwath] Wait! Am I at {{mountaineers}} when this happens.",
+      "contextBefore": [
+        "[u1974 | 02:18:27.400-02:18:28.280 | Delwath] Fucking Nate.",
+        "[u1975 | 02:18:28.420-02:18:30.940 | Delwath] So who's going? Kenzo's going?"
+      ],
+      "contextAfter": [
+        "[u1977 | 02:18:36.120-02:18:36.730 | DM] Yes.",
+        "[u1978 | 02:18:36.730-02:18:39.610 | Delwath] Okay, so Delwath is not going."
+      ],
+      "after": "Melindir's",
+      "group": "melindir-location",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1980:m1",
+      "uid": "u1980",
+      "ordinal": 1,
+      "lineNumber": 1980,
+      "start": 66,
+      "end": 79,
+      "before": "{{Melondeer}}",
+      "span": "Melondeer",
+      "line": "[u1980 | 02:18:43.230-02:18:44.790 | Delwath] No, I could go from {{Melondeer}}.",
+      "contextBefore": [
+        "[u1978 | 02:18:36.730-02:18:39.610 | Delwath] Okay, so Delwath is not going.",
+        "[u1979 | 02:18:40.010-02:18:41.449 | DM] No no Wellby."
+      ],
+      "contextAfter": [
+        "[u1981 | 02:18:44.799-02:18:46.319 | DM] To go from {{mountain chances}}.",
+        "[u1982 | 02:18:48.899-02:18:53.659 | Delwath] Anybody who wants to stay. Riswynn, do you want? I don't know who wants to stay behind."
+      ],
+      "after": "Melindir",
+      "group": "melindir",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2057:m1",
+      "uid": "u2057",
+      "ordinal": 1,
+      "lineNumber": 2057,
+      "start": 73,
+      "end": 83,
+      "before": "{{guardi}}",
+      "span": "guardi",
+      "line": "[u2057 | 02:25:39.690-02:25:43.300 | DM] That is truly your purpose. The {{guardi}} will protect you.",
+      "contextBefore": [
+        "[u2055 | 02:25:24.390-02:25:32.270 | Delwath] We intend to restore 7 souls to their original fates?",
+        "[u2056 | 02:25:35.270-02:25:36.710 | Delwath] Is that dangerous."
+      ],
+      "contextAfter": [
+        "[u2058 | 02:25:44.610-02:25:45.279 | Seeker] It would.",
+        "[u2059 | 02:25:45.650-02:25:48.829 | Delwath] {{Yardy}} guardians that Kenzo met."
+      ],
+      "after": "Gidari",
+      "group": "gidari",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2059:m1",
+      "uid": "u2059",
+      "ordinal": 1,
+      "lineNumber": 2059,
+      "start": 46,
+      "end": 55,
+      "before": "{{Yardy}}",
+      "span": "Yardy",
+      "line": "[u2059 | 02:25:45.650-02:25:48.829 | Delwath] {{Yardy}} guardians that Kenzo met.",
+      "contextBefore": [
+        "[u2057 | 02:25:39.690-02:25:43.300 | DM] That is truly your purpose. The {{guardi}} will protect you.",
+        "[u2058 | 02:25:44.610-02:25:45.279 | Seeker] It would."
+      ],
+      "contextAfter": [
+        "[u2060 | 02:25:49.610-02:25:50.630 | Seeker] Oh, yeah. Yeah.",
+        "[u2061 | 02:25:51.760-02:25:59.940 | Delwath] Is there any signs or things we must show to the {{Giardi}} to prove our purpose?"
+      ],
+      "after": "Gidari",
+      "group": "gidari",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2061:m1",
+      "uid": "u2061",
+      "ordinal": 1,
+      "lineNumber": 2061,
+      "start": 95,
+      "end": 105,
+      "before": "{{Giardi}}",
+      "span": "Giardi",
+      "line": "[u2061 | 02:25:51.760-02:25:59.940 | Delwath] Is there any signs or things we must show to the {{Giardi}} to prove our purpose?",
+      "contextBefore": [
+        "[u2059 | 02:25:45.650-02:25:48.829 | Delwath] {{Yardy}} guardians that Kenzo met.",
+        "[u2060 | 02:25:49.610-02:25:50.630 | Seeker] Oh, yeah. Yeah."
+      ],
+      "contextAfter": [
+        "[u2062 | 02:26:09.400-02:26:10.680 | DM] Long pause.",
+        "[u2063 | 02:26:10.680-02:26:12.250 | Delwath] To protect us from danger."
+      ],
+      "after": "Gidari",
+      "group": "gidari",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2064:m1",
+      "uid": "u2064",
+      "ordinal": 1,
+      "lineNumber": 2064,
+      "start": 63,
+      "end": 73,
+      "before": "{{Giardi}}",
+      "span": "Giardi",
+      "line": "[u2064 | 02:26:19.240-02:26:21.799 | DM] One cannot lie to the {{Giardi}}.",
+      "contextBefore": [
+        "[u2062 | 02:26:09.400-02:26:10.680 | DM] Long pause.",
+        "[u2063 | 02:26:10.680-02:26:12.250 | Delwath] To protect us from danger."
+      ],
+      "contextAfter": [
+        "[u2065 | 02:26:24.960-02:26:27.900 | DM] They can see your soul, of course.",
+        "[u2066 | 02:26:32.240-02:26:40.190 | Delwath] Will souls we bring naturally be able to?"
+      ],
+      "after": "Gidari",
+      "group": "gidari",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2067:m1",
+      "uid": "u2067",
+      "ordinal": 1,
+      "lineNumber": 2067,
+      "start": 54,
+      "end": 65,
+      "before": "{{gear up}}",
+      "span": "gear up",
+      "line": "[u2067 | 02:26:40.520-02:26:42.040 | Delwath] Can the {{gear up}}?",
+      "contextBefore": [
+        "[u2065 | 02:26:24.960-02:26:27.900 | DM] They can see your soul, of course.",
+        "[u2066 | 02:26:32.240-02:26:40.190 | Delwath] Will souls we bring naturally be able to?"
+      ],
+      "contextAfter": [
+        "[u2068 | 02:26:42.880-02:26:47.519 | Delwath] Can the {{Giardi}} free souls from where they are trapped.",
+        "[u2069 | 02:26:49.850-02:26:56.770 | DM] Souls cannot be trapped on the land of the dead, it can only be lost, found."
+      ],
+      "after": "Gidari",
+      "group": "gidari-restart",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2068:m1",
+      "uid": "u2068",
+      "ordinal": 1,
+      "lineNumber": 2068,
+      "start": 54,
+      "end": 64,
+      "before": "{{Giardi}}",
+      "span": "Giardi",
+      "line": "[u2068 | 02:26:42.880-02:26:47.519 | Delwath] Can the {{Giardi}} free souls from where they are trapped.",
+      "contextBefore": [
+        "[u2066 | 02:26:32.240-02:26:40.190 | Delwath] Will souls we bring naturally be able to?",
+        "[u2067 | 02:26:40.520-02:26:42.040 | Delwath] Can the {{gear up}}?"
+      ],
+      "contextAfter": [
+        "[u2069 | 02:26:49.850-02:26:56.770 | DM] Souls cannot be trapped on the land of the dead, it can only be lost, found.",
+        "[u2070 | 02:27:01.780-02:27:04.759 | DM] One must only point them in the right direction."
+      ],
+      "after": "Gidari",
+      "group": "gidari",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2074:m1",
+      "uid": "u2074",
+      "ordinal": 1,
+      "lineNumber": 2074,
+      "start": 45,
+      "end": 55,
+      "before": "{{Giardi}}",
+      "span": "Giardi",
+      "line": "[u2074 | 02:27:30.780-02:27:37.900 | DM] But {{Giardi}} will warn you if you should do something uncouth.",
+      "contextBefore": [
+        "[u2072 | 02:27:13.060-02:27:15.610 | Delwath] Is it allowed to point them in the right direction?",
+        "[u2073 | 02:27:16.920-02:27:18.690 | Delwath] Is that interference."
+      ],
+      "contextAfter": [
+        "[u2075 | 02:27:40.090-02:27:48.810 | DM] but if you truly seek to restore their just fates, that will be permitted.",
+        "[u2076 | 02:27:54.640-02:27:56.260 | Delwath] Anybody else have any questions."
+      ],
+      "after": "Gidari",
+      "group": "gidari",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2301:m1",
+      "uid": "u2301",
+      "ordinal": 1,
+      "lineNumber": 2301,
+      "start": 64,
+      "end": 77,
+      "before": "{{guarantee}}",
+      "span": "guarantee",
+      "line": "[u2301 | 02:48:28.740-02:48:30.699 | Delwath] That's a that's a {{guarantee}}.",
+      "contextBefore": [
+        "[u2299 | 02:48:21.020-02:48:27.560 | DM] in the distance, on the fur of this creature as it begins to follow her, she runs, it also looks back",
+        "[u2300 | 02:48:27.700-02:48:28.740 | DM] towards you."
+      ],
+      "contextAfter": [
+        "[u2302 | 02:48:31.120-02:48:33.010 | Delwath] Yeah, yeah, I assume.",
+        "[u2303 | 02:48:33.010-02:48:33.480 | DM] Yes."
+      ],
+      "after": "Gidari",
+      "group": "gidari",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2311:m1",
+      "uid": "u2311",
+      "ordinal": 1,
+      "lineNumber": 2311,
+      "start": 46,
+      "end": 58,
+      "before": "{{Paranois}}",
+      "span": "Paranois",
+      "line": "[u2311 | 02:49:14.100-02:49:15.070 | Riswynn] {{Paranois}}.",
+      "contextBefore": [
+        "[u2309 | 02:49:06.130-02:49:06.610 | Seeker] Yeah.",
+        "[u2310 | 02:49:07.640-02:49:13.589 | Delwath] That plant guy right? Elf or human. I don't remember."
+      ],
+      "contextAfter": [
+        "[u2312 | 02:49:16.290-02:49:19.320 | Delwath] Okay, I'll me. {{Mina}}, was that.",
+        "[u2313 | 02:49:21.070-02:49:22.120 | DM] {{Minaret}}."
+      ],
+      "after": "Peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2313:m1",
+      "uid": "u2313",
+      "ordinal": 1,
+      "lineNumber": 2313,
+      "start": 41,
+      "end": 52,
+      "before": "{{Minaret}}",
+      "span": "Minaret",
+      "line": "[u2313 | 02:49:21.070-02:49:22.120 | DM] {{Minaret}}.",
+      "contextBefore": [
+        "[u2311 | 02:49:14.100-02:49:15.070 | Riswynn] {{Paranois}}.",
+        "[u2312 | 02:49:16.290-02:49:19.320 | Delwath] Okay, I'll me. {{Mina}}, was that."
+      ],
+      "contextAfter": [
+        "[u2314 | 02:49:22.120-02:49:24.169 | Delwath] {{Mineras}} that was.",
+        "[u2315 | 02:49:24.830-02:49:27.749 | Delwath] Do we know what gender {{Minarith}} was?"
+      ],
+      "after": "Minarith",
+      "group": "minarith",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2314:m1",
+      "uid": "u2314",
+      "ordinal": 1,
+      "lineNumber": 2314,
+      "start": 46,
+      "end": 57,
+      "before": "{{Mineras}}",
+      "span": "Mineras",
+      "line": "[u2314 | 02:49:22.120-02:49:24.169 | Delwath] {{Mineras}} that was.",
+      "contextBefore": [
+        "[u2312 | 02:49:16.290-02:49:19.320 | Delwath] Okay, I'll me. {{Mina}}, was that.",
+        "[u2313 | 02:49:21.070-02:49:22.120 | DM] {{Minaret}}."
+      ],
+      "contextAfter": [
+        "[u2315 | 02:49:24.830-02:49:27.749 | Delwath] Do we know what gender {{Minarith}} was?",
+        "[u2316 | 02:49:30.180-02:49:32.050 | Delwath] We might not. I don't know. It doesn't matter."
+      ],
+      "after": "Minarith",
+      "group": "minarith",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2315:m1",
+      "uid": "u2315",
+      "ordinal": 1,
+      "lineNumber": 2315,
+      "start": 69,
+      "end": 81,
+      "before": "{{Minarith}}",
+      "span": "Minarith",
+      "line": "[u2315 | 02:49:24.830-02:49:27.749 | Delwath] Do we know what gender {{Minarith}} was?",
+      "contextBefore": [
+        "[u2313 | 02:49:21.070-02:49:22.120 | DM] {{Minaret}}.",
+        "[u2314 | 02:49:22.120-02:49:24.169 | Delwath] {{Mineras}} that was."
+      ],
+      "contextAfter": [
+        "[u2316 | 02:49:30.180-02:49:32.050 | Delwath] We might not. I don't know. It doesn't matter.",
+        "[u2317 | 02:49:32.863-02:49:38.690 | Delwath] I just didn't know which pronoun to use. But anyway, Delwath will"
+      ],
+      "after": "Minarith",
+      "group": "minarith",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2319:m1",
+      "uid": "u2319",
+      "ordinal": 1,
+      "lineNumber": 2319,
+      "start": 64,
+      "end": 75,
+      "before": "{{Miniras}}",
+      "span": "Miniras",
+      "line": "[u2319 | 02:49:48.560-02:49:57.770 | Delwath] We'll call out to {{Miniras}} and start talking about just like like",
+      "contextBefore": [
+        "[u2317 | 02:49:32.863-02:49:38.690 | Delwath] I just didn't know which pronoun to use. But anyway, Delwath will",
+        "[u2318 | 02:49:42.480-02:49:43.640 | Delwath] start."
+      ],
+      "contextAfter": [
+        "[u2320 | 02:50:05.310-02:50:24.340 | Delwath] not like telling a current story or anything like that, but just like talking about sort of various plants, but like clearly not knowing that much about plants, and like every time he sort of starts talking about. Oh, I saw this plant. Oh, {{minaret}} like call out their name like, can you help me? I need help learning more about this plant like, can you?",
+        "[u2321 | 02:50:24.530-02:50:31.108 | Delwath] I know there's somebody here who remembers teaching about plants, please. Can you help me like"
+      ],
+      "after": "Minarith",
+      "group": "minarith",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2320:m1",
+      "uid": "u2320",
+      "ordinal": 1,
+      "lineNumber": 2320,
+      "start": 286,
+      "end": 297,
+      "before": "{{minaret}}",
+      "span": "minaret",
+      "line": "[u2320 | 02:50:05.310-02:50:24.340 | Delwath] not like telling a current story or anything like that, but just like talking about sort of various plants, but like clearly not knowing that much about plants, and like every time he sort of starts talking about. Oh, I saw this plant. Oh, {{minaret}} like call out their name like, can you help me? I need help learning more about this plant like, can you?",
+      "contextBefore": [
+        "[u2318 | 02:49:42.480-02:49:43.640 | Delwath] start.",
+        "[u2319 | 02:49:48.560-02:49:57.770 | Delwath] We'll call out to {{Miniras}} and start talking about just like like"
+      ],
+      "contextAfter": [
+        "[u2321 | 02:50:24.530-02:50:31.108 | Delwath] I know there's somebody here who remembers teaching about plants, please. Can you help me like",
+        "[u2322 | 02:50:31.970-02:50:35.210 | Delwath] you know, and just continue on that sort of like"
+      ],
+      "after": "Minarith",
+      "group": "minarith",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2324:m1",
+      "uid": "u2324",
+      "ordinal": 1,
+      "lineNumber": 2324,
+      "start": 46,
+      "end": 58,
+      "before": "{{Minarath}}",
+      "span": "Minarath",
+      "line": "[u2324 | 02:50:46.210-02:50:52.920 | Delwath] {{Minarath}} about being a teacher and teaching people about botany.",
+      "contextBefore": [
+        "[u2322 | 02:50:31.970-02:50:35.210 | Delwath] you know, and just continue on that sort of like",
+        "[u2323 | 02:50:38.770-02:50:45.590 | Delwath] Sort of asking, calling out, trying to remind"
+      ],
+      "contextAfter": [
+        "[u2325 | 02:50:57.961-02:51:00.279 | DM] What skill do you want to use.",
+        "[u2326 | 02:51:01.270-02:51:01.950 | Delwath] Persuasion."
+      ],
+      "after": "Minarith",
+      "group": "minarith",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2340:m1",
+      "uid": "u2340",
+      "ordinal": 1,
+      "lineNumber": 2340,
+      "start": 104,
+      "end": 117,
+      "before": "{{men, Raft}}",
+      "span": "men, Raft",
+      "line": "[u2340 | 02:52:29.800-02:52:37.240 | DM] starts talking, and then suddenly looks as if he realizes I am {{men, Raft}}.",
+      "contextBefore": [
+        "[u2338 | 02:52:17.540-02:52:22.675 | DM] headaches as well as has an interesting history because it was originally brought.",
+        "[u2339 | 02:52:24.800-02:52:29.589 | DM] it's a corrupted form of a plant that grows in the Feywild, and he, you know, is."
+      ],
+      "contextAfter": [
+        "[u2341 | 02:52:39.740-02:52:47.309 | DM] and he looks around and he looks at Delwath, and then he says, I see the stars.",
+        "[u2342 | 02:52:49.960-02:52:52.670 | DM] and he gives a bow, and he says, Farewell."
+      ],
+      "after": "Minarith",
+      "group": "minarith",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2350:m1",
+      "uid": "u2350",
+      "ordinal": 1,
+      "lineNumber": 2350,
+      "start": 67,
+      "end": 77,
+      "before": "{{Gloria}}",
+      "span": "Gloria",
+      "line": "[u2350 | 02:53:26.290-02:53:31.790 | Riswynn] Am I reaching out to {{Gloria}}? We have her mask right.",
+      "contextBefore": [
+        "[u2348 | 02:53:24.420-02:53:25.339 | Delwath] I guess that's fair.",
+        "[u2349 | 02:53:25.910-02:53:26.290 | Seeker] Okay."
+      ],
+      "contextAfter": [
+        "[u2351 | 02:53:31.790-02:53:32.380 | DM] Yeah.",
+        "[u2352 | 02:53:35.370-02:53:41.289 | Riswynn] And so {{person}} starts talking about"
+      ],
+      "after": "Floria",
+      "group": "floria",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2352:m1",
+      "uid": "u2352",
+      "ordinal": 1,
+      "lineNumber": 2352,
+      "start": 53,
+      "end": 63,
+      "before": "{{person}}",
+      "span": "person",
+      "line": "[u2352 | 02:53:35.370-02:53:41.289 | Riswynn] And so {{person}} starts talking about",
+      "contextBefore": [
+        "[u2350 | 02:53:26.290-02:53:31.790 | Riswynn] Am I reaching out to {{Gloria}}? We have her mask right.",
+        "[u2351 | 02:53:31.790-02:53:32.380 | DM] Yeah."
+      ],
+      "contextAfter": [
+        "[u2353 | 02:53:47.790-02:53:56.050 | Riswynn] following the a family legacy of taking care of an estate.",
+        "[u2354 | 02:53:56.220-02:54:07.329 | Riswynn] and then finding the responsibility from the gods to take care of all who are needy. Talking about."
+      ],
+      "after": "Riswynn",
+      "group": "riswynn-self-narration",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2383:m1",
+      "uid": "u2383",
+      "ordinal": 1,
+      "lineNumber": 2383,
+      "start": 92,
+      "end": 102,
+      "before": "{{Floria}}",
+      "span": "Floria",
+      "line": "[u2383 | 02:57:24.900-02:57:31.890 | Kenzo] Their, the resilience against tyranny of either {{Floria}} Marius, or {{Volante}}.",
+      "contextBefore": [
+        "[u2381 | 02:57:11.470-02:57:14.300 | Kenzo] Alright we're going to talk about.",
+        "[u2382 | 02:57:18.860-02:57:20.869 | Kenzo] We are going to talk about"
+      ],
+      "contextAfter": [
+        "[u2384 | 02:57:32.580-02:57:35.319 | Delwath] Go with Marius. Marius. Seems like Kenzo's kind of Guy.",
+        "[u2385 | 02:57:36.480-02:57:39.299 | Kenzo] Spiritual inspiration and leadership through faith."
+      ],
+      "after": "Floria",
+      "group": "floria",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2383:m2",
+      "uid": "u2383",
+      "ordinal": 2,
+      "lineNumber": 2383,
+      "start": 114,
+      "end": 125,
+      "before": "{{Volante}}",
+      "span": "Volante",
+      "line": "[u2383 | 02:57:24.900-02:57:31.890 | Kenzo] Their, the resilience against tyranny of either {{Floria}} Marius, or {{Volante}}.",
+      "contextBefore": [
+        "[u2381 | 02:57:11.470-02:57:14.300 | Kenzo] Alright we're going to talk about.",
+        "[u2382 | 02:57:18.860-02:57:20.869 | Kenzo] We are going to talk about"
+      ],
+      "contextAfter": [
+        "[u2384 | 02:57:32.580-02:57:35.319 | Delwath] Go with Marius. Marius. Seems like Kenzo's kind of Guy.",
+        "[u2385 | 02:57:36.480-02:57:39.299 | Kenzo] Spiritual inspiration and leadership through faith."
+      ],
+      "after": "Valanthe",
+      "group": "valanthe",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2459:m1",
+      "uid": "u2459",
+      "ordinal": 1,
+      "lineNumber": 2459,
+      "start": 64,
+      "end": 74,
+      "before": "{{Paragu}}",
+      "span": "Paragu",
+      "line": "[u2459 | 03:03:39.370-03:03:51.430 | DM] So you've got Kemet of {{Paragu}}, traveler, sailor, tea merchant, big spender in taverns.",
+      "contextBefore": [
+        "[u2457 | 03:03:29.190-03:03:30.540 | DM] I can put them back.",
+        "[u2458 | 03:03:36.990-03:03:39.369 | Seeker] What are the names of the ones that are left."
+      ],
+      "contextAfter": [
+        "[u2460 | 03:03:52.310-03:03:53.340 | Seeker] Hmm.",
+        "[u2461 | 03:03:53.340-03:04:01.300 | DM] You've got Antonius {{patriots}} like administrator."
+      ],
+      "after": "Targu",
+      "group": "targu-variant",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2461:m1",
+      "uid": "u2461",
+      "ordinal": 1,
+      "lineNumber": 2461,
+      "start": 61,
+      "end": 73,
+      "before": "{{patriots}}",
+      "span": "patriots",
+      "line": "[u2461 | 03:03:53.340-03:04:01.300 | DM] You've got Antonius {{patriots}} like administrator.",
+      "contextBefore": [
+        "[u2459 | 03:03:39.370-03:03:51.430 | DM] So you've got Kemet of {{Paragu}}, traveler, sailor, tea merchant, big spender in taverns.",
+        "[u2460 | 03:03:52.310-03:03:53.340 | Seeker] Hmm."
+      ],
+      "contextAfter": [
+        "[u2462 | 03:04:03.520-03:04:04.320 | DM] Wow!",
+        "[u2463 | 03:04:05.130-03:04:15.700 | DM] Like, you know, logic, quartermaster, organizer, type person in the background."
+      ],
+      "after": "Patrius",
+      "group": "patrius",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2464:m1",
+      "uid": "u2464",
+      "ordinal": 1,
+      "lineNumber": 2464,
+      "start": 56,
+      "end": 67,
+      "before": "{{Valente}}",
+      "span": "Valente",
+      "line": "[u2464 | 03:04:16.040-03:04:29.860 | DM] And you've got {{Valente}} the like satiric Elven Bard, who wrote plays taunting Apollyon, and was presumably captured and",
+      "contextBefore": [
+        "[u2462 | 03:04:03.520-03:04:04.320 | DM] Wow!",
+        "[u2463 | 03:04:05.130-03:04:15.700 | DM] Like, you know, logic, quartermaster, organizer, type person in the background."
+      ],
+      "contextAfter": [
+        "[u2465 | 03:04:30.660-03:04:33.500 | DM] bound to the phylactery, for it.",
+        "[u2466 | 03:04:41.560-03:04:42.640 | Seeker] I better do?"
+      ],
+      "after": "Valanthe",
+      "group": "valanthe",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2467:m1",
+      "uid": "u2467",
+      "ordinal": 1,
+      "lineNumber": 2467,
+      "start": 88,
+      "end": 99,
+      "before": "{{Valenti}}",
+      "span": "Valenti",
+      "line": "[u2467 | 03:04:45.810-03:04:52.940 | Seeker] Oh, too tired to think to do this! But the {{Valenti}} one {{Valenti}}.",
+      "contextBefore": [
+        "[u2465 | 03:04:30.660-03:04:33.500 | DM] bound to the phylactery, for it.",
+        "[u2466 | 03:04:41.560-03:04:42.640 | Seeker] I better do?"
+      ],
+      "contextAfter": [
+        "[u2468 | 03:04:56.250-03:05:05.550 | Seeker] you remember that ridiculous, wrinkling worm, pretending to be Emperor.",
+        "[u2469 | 03:05:08.670-03:05:20.040 | Seeker] The songs you spun to tickle him, Apollyon, pathetic."
+      ],
+      "after": "Valanthe",
+      "group": "valanthe",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2467:m2",
+      "uid": "u2467",
+      "ordinal": 2,
+      "lineNumber": 2467,
+      "start": 104,
+      "end": 115,
+      "before": "{{Valenti}}",
+      "span": "Valenti",
+      "line": "[u2467 | 03:04:45.810-03:04:52.940 | Seeker] Oh, too tired to think to do this! But the {{Valenti}} one {{Valenti}}.",
+      "contextBefore": [
+        "[u2465 | 03:04:30.660-03:04:33.500 | DM] bound to the phylactery, for it.",
+        "[u2466 | 03:04:41.560-03:04:42.640 | Seeker] I better do?"
+      ],
+      "contextAfter": [
+        "[u2468 | 03:04:56.250-03:05:05.550 | Seeker] you remember that ridiculous, wrinkling worm, pretending to be Emperor.",
+        "[u2469 | 03:05:08.670-03:05:20.040 | Seeker] The songs you spun to tickle him, Apollyon, pathetic."
+      ],
+      "after": "Valanthe",
+      "group": "valanthe",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2575:m1",
+      "uid": "u2575",
+      "ordinal": 1,
+      "lineNumber": 2575,
+      "start": 90,
+      "end": 100,
+      "before": "{{Giardi}}",
+      "span": "Giardi",
+      "line": "[u2575 | 03:15:04.900-03:15:10.470 | DM] after a minute or so, you see another one of the {{Giardi}} kind of come",
+      "contextBefore": [
+        "[u2573 | 03:14:52.310-03:14:58.110 | DM] I think it's that way, and he begins to sort of wander off.",
+        "[u2574 | 03:15:01.300-03:15:04.630 | DM] not looking too sure of himself. But"
+      ],
+      "contextAfter": [
+        "[u2576 | 03:15:11.000-03:15:18.389 | DM] and begin to to follow him a little bit, just gently prodding slightly.",
+        "[u2577 | 03:15:18.720-03:15:20.890 | DM] and you hear the final snap."
+      ],
+      "after": "Gidari",
+      "group": "gidari",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2633:m1",
+      "uid": "u2633",
+      "ordinal": 1,
+      "lineNumber": 2633,
+      "start": 136,
+      "end": 153,
+      "before": "{{Vendra Sharna}}",
+      "span": "Vendra Sharna",
+      "line": "[u2633 | 03:19:50.200-03:19:56.799 | Wellby] he'd have no problem with that. Right like his vote is, don't even stop. But if we stop at {{Vendra Sharna}}",
+      "contextBefore": [
+        "[u2631 | 03:19:42.820-03:19:46.259 | Kenzo] I mean, I think I think in that, like the tricky thing for Wellby is.",
+        "[u2632 | 03:19:46.570-03:19:49.569 | Wellby] If we went straight back to Apollyon"
+      ],
+      "contextAfter": [
+        "[u2634 | 03:19:57.230-03:20:03.390 | Wellby] like. I don't know if he could pull the trigger to immediately teleport away in that scenario.",
+        "[u2635 | 03:20:04.280-03:20:05.110 | Delwath] Who's the"
+      ],
+      "after": "Vindristjarna",
+      "group": "vindristjarna",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2768:m1",
+      "uid": "u2768",
+      "ordinal": 1,
+      "lineNumber": 2768,
+      "start": 41,
+      "end": 49,
+      "before": "{{Amol}}",
+      "span": "Amol",
+      "line": "[u2768 | 03:28:26.840-03:28:31.249 | DM] {{Amol}} is up at front like sort of",
+      "contextBefore": [
+        "[u2766 | 03:28:14.930-03:28:19.572 | DM] You're heading directly east towards this, towards the",
+        "[u2767 | 03:28:21.990-03:28:22.800 | DM] Somewhere."
+      ],
+      "contextAfter": [
+        "[u2769 | 03:28:31.540-03:28:37.459 | DM] keeping an eye out. The Agnir. The Elf is tending to the tree in the garden.",
+        "[u2770 | 03:28:37.610-03:28:38.239 | Kenzo] Soul sight."
+      ],
+      "after": "Amil",
+      "group": "amil",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2790:m1",
+      "uid": "u2790",
+      "ordinal": 1,
+      "lineNumber": 2790,
+      "start": 87,
+      "end": 95,
+      "before": "{{Amel}}",
+      "span": "Amel",
+      "line": "[u2790 | 03:29:38.880-03:29:46.020 | Kenzo] Yeah, just that become invisible, visible. {{Amel}}, what's going on? How's how's everything going? Why are we? Why are we? Why are we flying the ship east. What's going.",
+      "contextBefore": [
+        "[u2788 | 03:29:36.080-03:29:36.630 | Delwath] Okay, so.",
+        "[u2789 | 03:29:36.630-03:29:38.170 | Wellby] Okay. Okay. All right."
+      ],
+      "contextAfter": [
+        "[u2791 | 03:29:46.020-03:29:46.780 | DM] Hey?",
+        "[u2792 | 03:29:47.480-03:29:52.969 | DM] Good to see you. Are! Are you coming to find the hidden city of {{Puatar}}, too?"
+      ],
+      "after": "Amil",
+      "group": "amil",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2792:m1",
+      "uid": "u2792",
+      "ordinal": 1,
+      "lineNumber": 2792,
+      "start": 105,
+      "end": 115,
+      "before": "{{Puatar}}",
+      "span": "Puatar",
+      "line": "[u2792 | 03:29:47.480-03:29:52.969 | DM] Good to see you. Are! Are you coming to find the hidden city of {{Puatar}}, too?",
+      "contextBefore": [
+        "[u2790 | 03:29:38.880-03:29:46.020 | Kenzo] Yeah, just that become invisible, visible. {{Amel}}, what's going on? How's how's everything going? Why are we? Why are we? Why are we flying the ship east. What's going.",
+        "[u2791 | 03:29:46.020-03:29:46.780 | DM] Hey?"
+      ],
+      "contextAfter": [
+        "[u2793 | 03:29:53.400-03:29:54.190 | Seeker] Oh no!",
+        "[u2794 | 03:29:55.500-03:29:57.220 | Kenzo] What is that? And why are we going there."
+      ],
+      "after": "Pu'aatar",
+      "group": "puaatar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2808:m1",
+      "uid": "u2808",
+      "ordinal": 1,
+      "lineNumber": 2808,
+      "start": 84,
+      "end": 95,
+      "before": "{{Puettar}}",
+      "span": "Puettar",
+      "line": "[u2808 | 03:30:40.940-03:30:43.770 | DM] The answers would be clear. When we got to {{Puettar}}. The.",
+      "contextBefore": [
+        "[u2806 | 03:30:34.410-03:30:36.879 | Kenzo] Right? Right right is the nice wizard still here?",
+        "[u2807 | 03:30:37.760-03:30:40.940 | DM] No, are they charmed?"
+      ],
+      "contextAfter": [
+        "[u2809 | 03:30:44.140-03:30:44.500 | Kenzo] Charmed.",
+        "[u2810 | 03:30:44.500-03:30:45.410 | DM] Be in the desert."
+      ],
+      "after": "Pu'aatar",
+      "group": "puaatar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2820:m1",
+      "uid": "u2820",
+      "ordinal": 1,
+      "lineNumber": 2820,
+      "start": 47,
+      "end": 57,
+      "before": "{{almost}}",
+      "span": "almost",
+      "line": "[u2820 | 03:31:20.110-03:31:23.130 | DM] Okay, {{almost}} like Whoa.",
+      "contextBefore": [
+        "[u2818 | 03:31:16.080-03:31:19.000 | DM] You're probably not gonna be able to cleanse all of them without.",
+        "[u2819 | 03:31:19.000-03:31:19.460 | Kenzo] Thank you."
+      ],
+      "contextAfter": [
+        "[u2821 | 03:31:27.130-03:31:32.610 | DM] Why did I think there was some hidden city in the middle of a giant desert to the east.",
+        "[u2822 | 03:31:33.770-03:31:38.760 | Kenzo] That's awesome. Happens to the best of us goes over to the {{it was the office}}."
+      ],
+      "after": "Amil's",
+      "group": "amil-reaction",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2824:m1",
+      "uid": "u2824",
+      "ordinal": 1,
+      "lineNumber": 2824,
+      "start": 80,
+      "end": 90,
+      "before": "{{Almost}}",
+      "span": "Almost",
+      "line": "[u2824 | 03:31:44.710-03:31:47.420 | Kenzo] Yeah. Okay. Yeah. Where's Faldrick? {{Almost}}.",
+      "contextBefore": [
+        "[u2822 | 03:31:33.770-03:31:38.760 | Kenzo] That's awesome. Happens to the best of us goes over to the {{it was the office}}.",
+        "[u2823 | 03:31:38.760-03:31:44.310 | Delwath] Faldrick is the most important one, because if we get Faldrick you can just turn the ship around. We don't need them all."
+      ],
+      "contextAfter": [
+        "[u2825 | 03:31:47.420-03:31:51.330 | DM] He's in the control room. Normally he was very excited.",
+        "[u2826 | 03:31:52.330-03:31:54.389 | DM] I always wanted to find a hidden city."
+      ],
+      "after": "Amil",
+      "group": "amil-address",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2916:m1",
+      "uid": "u2916",
+      "ordinal": 1,
+      "lineNumber": 2916,
+      "start": 86,
+      "end": 95,
+      "before": "{{Sarah}}",
+      "span": "Sarah",
+      "line": "[u2916 | 03:37:18.370-03:37:23.799 | Delwath] We're not saving. We're not going after {{Sarah}} for 72 h instead of 48 h.",
+      "contextBefore": [
+        "[u2914 | 03:37:05.820-03:37:09.249 | DM] It doesn't really matter if you decide tonight.",
+        "[u2915 | 03:37:10.570-03:37:17.459 | Delwath] Yeah, can we decide? It probably has impacts on the world in the sense that it's actually means it's another."
+      ],
+      "contextAfter": [
+        "[u2917 | 03:37:25.110-03:37:28.149 | Delwath] but we might want to think for a few minutes about",
+        "[u2918 | 03:37:28.700-03:37:30.819 | Delwath] I mean, we could short rest either way."
+      ],
+      "after": "Sura",
+      "group": "sura",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u0179": {
+      "before": "[u0179 | 00:16:04.540-00:16:08.979 | Delwath] What about elves and {{ornwass}}.\n",
+      "after": "[u0179 | 00:16:04.540-00:16:08.979 | Delwath] What about elves and Orenlas.\n"
+    },
+    "u2311": {
+      "before": "[u2311 | 02:49:14.100-02:49:15.070 | Riswynn] {{Paranois}}.\n",
+      "after": "[u2311 | 02:49:14.100-02:49:15.070 | Riswynn] Peronar.\n"
+    },
+    "u2820": {
+      "before": "[u2820 | 03:31:20.110-03:31:23.130 | DM] Okay, {{almost}} like Whoa.\n",
+      "after": "[u2820 | 03:31:20.110-03:31:23.130 | DM] Okay, Amil's like Whoa.\n"
+    },
+    "u1092": {
+      "before": "[u1092 | 01:14:37.890-01:14:44.660 | DM] Some memento, some sign of this {{paranor scholar Minreth}}.\n",
+      "after": "[u1092 | 01:14:37.890-01:14:44.660 | DM] Some memento, some sign of this Peronar scholar Minarith.\n"
+    },
+    "u2459": {
+      "before": "[u2459 | 03:03:39.370-03:03:51.430 | DM] So you've got Kemet of {{Paragu}}, traveler, sailor, tea merchant, big spender in taverns.\n",
+      "after": "[u2459 | 03:03:39.370-03:03:51.430 | DM] So you've got Kemet of Targu, traveler, sailor, tea merchant, big spender in taverns.\n"
+    },
+    "u0072": {
+      "before": "[u0072 | 00:07:36.420-00:07:45.949 | Wellby] So, after you relate, all of that, Wellby shares news that I got from {{Sura}} while you were off hanging out in the tavern.\n",
+      "after": "[u0072 | 00:07:36.420-00:07:45.949 | Wellby] So, after you relate, all of that, Wellby shares news that I got from Sura while you were off hanging out in the tavern.\n"
+    },
+    "u2067": {
+      "before": "[u2067 | 02:26:40.520-02:26:42.040 | Delwath] Can the {{gear up}}?\n",
+      "after": "[u2067 | 02:26:40.520-02:26:42.040 | Delwath] Can the Gidari?\n"
+    },
+    "u1242": {
+      "before": "[u1242 | 01:25:48.430-01:25:51.309 | DM] soul, {{minerth}} soul aura. From this\n",
+      "after": "[u1242 | 01:25:48.430-01:25:51.309 | DM] soul, Minarith's soul aura. From this\n"
+    },
+    "u1240": {
+      "before": "[u1240 | 01:25:40.430-01:25:41.939 | Delwath] {{Minrith}}. Yeah.\n",
+      "after": "[u1240 | 01:25:40.430-01:25:41.939 | Delwath] Minarith. Yeah.\n"
+    },
+    "u2633": {
+      "before": "[u2633 | 03:19:50.200-03:19:56.799 | Wellby] he'd have no problem with that. Right like his vote is, don't even stop. But if we stop at {{Vendra Sharna}}\n",
+      "after": "[u2633 | 03:19:50.200-03:19:56.799 | Wellby] he'd have no problem with that. Right like his vote is, don't even stop. But if we stop at Vindristjarna\n"
+    },
+    "u0083": {
+      "before": "[u0083 | 00:09:01.600-00:09:05.120 | Delwath] Wait! Where is {{Sarah}}?\n",
+      "after": "[u0083 | 00:09:01.600-00:09:05.120 | Delwath] Wait! Where is Sura?\n"
+    },
+    "u0253": {
+      "before": "[u0253 | 00:20:15.320-00:20:21.129 | Delwath] So {{Sarah}} only needs to hold out 48 h.\n",
+      "after": "[u0253 | 00:20:15.320-00:20:21.129 | Delwath] So Sura only needs to hold out 48 h.\n"
+    },
+    "u0061": {
+      "before": "[u0061 | 00:06:25.990-00:06:36.720 | DM] A description of some unusual but botanical samples to be sent to {{menoreth}} faculty of Natural history\n",
+      "after": "[u0061 | 00:06:25.990-00:06:36.720 | DM] A description of some unusual but botanical samples to be sent to Minarith faculty of Natural history\n"
+    },
+    "u0233": {
+      "before": "[u0233 | 00:19:14.310-00:19:22.860 | Riswynn] Reassuring message, {{Sarah}}, like Gee! That sucks good luck with the retreat, if we think of anybody, will send.\n",
+      "after": "[u0233 | 00:19:14.310-00:19:22.860 | Riswynn] Reassuring message, Sura, like Gee! That sucks good luck with the retreat, if we think of anybody, will send.\n"
+    },
+    "u2061": {
+      "before": "[u2061 | 02:25:51.760-02:25:59.940 | Delwath] Is there any signs or things we must show to the {{Giardi}} to prove our purpose?\n",
+      "after": "[u2061 | 02:25:51.760-02:25:59.940 | Delwath] Is there any signs or things we must show to the Gidari to prove our purpose?\n"
+    },
+    "u1943": {
+      "before": "[u1943 | 02:15:43.820-02:15:55.220 | Delwath] {{Reste}}. She knows our quest, and and the next couple we're going to\n",
+      "after": "[u1943 | 02:15:43.820-02:15:55.220 | Delwath] Arheste. She knows our quest, and and the next couple we're going to\n"
+    },
+    "u2320": {
+      "before": "[u2320 | 02:50:05.310-02:50:24.340 | Delwath] not like telling a current story or anything like that, but just like talking about sort of various plants, but like clearly not knowing that much about plants, and like every time he sort of starts talking about. Oh, I saw this plant. Oh, {{minaret}} like call out their name like, can you help me? I need help learning more about this plant like, can you?\n",
+      "after": "[u2320 | 02:50:05.310-02:50:24.340 | Delwath] not like telling a current story or anything like that, but just like talking about sort of various plants, but like clearly not knowing that much about plants, and like every time he sort of starts talking about. Oh, I saw this plant. Oh, Minarith like call out their name like, can you help me? I need help learning more about this plant like, can you?\n"
+    },
+    "u1337": {
+      "before": "[u1337 | 01:31:38.540-01:31:43.850 | Delwath] Our plan is to go from the land of the dead straight back to the {{ginger. Sharna}}.\n",
+      "after": "[u1337 | 01:31:38.540-01:31:43.850 | Delwath] Our plan is to go from the land of the dead straight back to the Vindristjarna.\n"
+    },
+    "u2074": {
+      "before": "[u2074 | 02:27:30.780-02:27:37.900 | DM] But {{Giardi}} will warn you if you should do something uncouth.\n",
+      "after": "[u2074 | 02:27:30.780-02:27:37.900 | DM] But Gidari will warn you if you should do something uncouth.\n"
+    },
+    "u2324": {
+      "before": "[u2324 | 02:50:46.210-02:50:52.920 | Delwath] {{Minarath}} about being a teacher and teaching people about botany.\n",
+      "after": "[u2324 | 02:50:46.210-02:50:52.920 | Delwath] Minarith about being a teacher and teaching people about botany.\n"
+    },
+    "u1941": {
+      "before": "[u1941 | 02:15:38.750-02:15:42.430 | Delwath] And we don't have time to go back to {{Ornwas}}, but get a message to what's her name?\n",
+      "after": "[u1941 | 02:15:38.750-02:15:42.430 | Delwath] And we don't have time to go back to Orenlas, but get a message to what's her name?\n"
+    },
+    "u1895": {
+      "before": "[u1895 | 02:11:39.240-02:11:41.680 | DM] So {{Melondeer}} is.\n",
+      "after": "[u1895 | 02:11:39.240-02:11:41.680 | DM] So Melindir is.\n"
+    },
+    "u2314": {
+      "before": "[u2314 | 02:49:22.120-02:49:24.169 | Delwath] {{Mineras}} that was.\n",
+      "after": "[u2314 | 02:49:22.120-02:49:24.169 | Delwath] Minarith that was.\n"
+    },
+    "u2467": {
+      "before": "[u2467 | 03:04:45.810-03:04:52.940 | Seeker] Oh, too tired to think to do this! But the {{Valenti}} one {{Valenti}}.\n",
+      "after": "[u2467 | 03:04:45.810-03:04:52.940 | Seeker] Oh, too tired to think to do this! But the Valanthe one Valanthe.\n"
+    },
+    "u2916": {
+      "before": "[u2916 | 03:37:18.370-03:37:23.799 | Delwath] We're not saving. We're not going after {{Sarah}} for 72 h instead of 48 h.\n",
+      "after": "[u2916 | 03:37:18.370-03:37:23.799 | Delwath] We're not saving. We're not going after Sura for 72 h instead of 48 h.\n"
+    },
+    "u2064": {
+      "before": "[u2064 | 02:26:19.240-02:26:21.799 | DM] One cannot lie to the {{Giardi}}.\n",
+      "after": "[u2064 | 02:26:19.240-02:26:21.799 | DM] One cannot lie to the Gidari.\n"
+    },
+    "u0090": {
+      "before": "[u0090 | 00:09:57.830-00:09:59.639 | Delwath] so like, what's {{Sarah's}} plan?\n",
+      "after": "[u0090 | 00:09:57.830-00:09:59.639 | Delwath] so like, what's Sura's plan?\n"
+    },
+    "u2824": {
+      "before": "[u2824 | 03:31:44.710-03:31:47.420 | Kenzo] Yeah. Okay. Yeah. Where's Faldrick? {{Almost}}.\n",
+      "after": "[u2824 | 03:31:44.710-03:31:47.420 | Kenzo] Yeah. Okay. Yeah. Where's Faldrick? Amil.\n"
+    },
+    "u2792": {
+      "before": "[u2792 | 03:29:47.480-03:29:52.969 | DM] Good to see you. Are! Are you coming to find the hidden city of {{Puatar}}, too?\n",
+      "after": "[u2792 | 03:29:47.480-03:29:52.969 | DM] Good to see you. Are! Are you coming to find the hidden city of Pu'aatar, too?\n"
+    },
+    "u2808": {
+      "before": "[u2808 | 03:30:40.940-03:30:43.770 | DM] The answers would be clear. When we got to {{Puettar}}. The.\n",
+      "after": "[u2808 | 03:30:40.940-03:30:43.770 | DM] The answers would be clear. When we got to Pu'aatar. The.\n"
+    },
+    "u2313": {
+      "before": "[u2313 | 02:49:21.070-02:49:22.120 | DM] {{Minaret}}.\n",
+      "after": "[u2313 | 02:49:21.070-02:49:22.120 | DM] Minarith.\n"
+    },
+    "u1251": {
+      "before": "[u1251 | 01:26:21.560-01:26:26.050 | Delwath] We have the bird of the little bird token of {{Minerith}}. We have the\n",
+      "after": "[u1251 | 01:26:21.560-01:26:26.050 | Delwath] We have the bird of the little bird token of Minarith. We have the\n"
+    },
+    "u1980": {
+      "before": "[u1980 | 02:18:43.230-02:18:44.790 | Delwath] No, I could go from {{Melondeer}}.\n",
+      "after": "[u1980 | 02:18:43.230-02:18:44.790 | Delwath] No, I could go from Melindir.\n"
+    },
+    "u1755": {
+      "before": "[u1755 | 02:02:54.320-02:02:59.740 | Delwath] Dunmar, the the {{jailite}} zombies in Dunmar in exchange, you know.\n",
+      "after": "[u1755 | 02:02:54.320-02:02:59.740 | Delwath] Dunmar, the the chalyte zombies in Dunmar in exchange, you know.\n"
+    },
+    "u1596": {
+      "before": "[u1596 | 01:52:46.840-01:52:50.219 | Delwath] Have you heard of the Dragon {{Regemdras}}.\n",
+      "after": "[u1596 | 01:52:46.840-01:52:50.219 | Delwath] Have you heard of the Dragon Ra'ghemdros.\n"
+    },
+    "u2319": {
+      "before": "[u2319 | 02:49:48.560-02:49:57.770 | Delwath] We'll call out to {{Miniras}} and start talking about just like like\n",
+      "after": "[u2319 | 02:49:48.560-02:49:57.770 | Delwath] We'll call out to Minarith and start talking about just like like\n"
+    },
+    "u1078": {
+      "before": "[u1078 | 01:13:32.220-01:13:45.380 | DM] in Drankorian, which multiple of you can read which was what {{Minarath}} was from.\n",
+      "after": "[u1078 | 01:13:32.220-01:13:45.380 | DM] in Drankorian, which multiple of you can read which was what Minarith was from.\n"
+    },
+    "u1438": {
+      "before": "[u1438 | 01:40:03.337-01:40:05.040 | DM] In on {{Vindersharna}}.\n",
+      "after": "[u1438 | 01:40:03.337-01:40:05.040 | DM] In on Vindristjarna.\n"
+    },
+    "u1746": {
+      "before": "[u1746 | 02:01:59.570-02:02:07.050 | DM] Gave her Seeker's legendary {{gates}} of Kenzo.\n",
+      "after": "[u1746 | 02:01:59.570-02:02:07.050 | DM] Gave her Seeker's legendary Gates of Kenzo.\n"
+    },
+    "u1927": {
+      "before": "[u1927 | 02:14:18.250-02:14:23.090 | Delwath] I'll also just tell {{Melandir}} to if.\n",
+      "after": "[u1927 | 02:14:18.250-02:14:23.090 | Delwath] I'll also just tell Melindir to if.\n"
+    },
+    "u1507": {
+      "before": "[u1507 | 01:44:02.470-01:44:09.430 | DM] god or demon, or any of the outer planes. And they are the guardians. That's what {{grosh}} fought.\n",
+      "after": "[u1507 | 01:44:02.470-01:44:09.430 | DM] god or demon, or any of the outer planes. And they are the guardians. That's what Grash fought.\n"
+    },
+    "u1259": {
+      "before": "[u1259 | 01:26:41.320-01:26:44.820 | DM] Kemet of {{Targu}}. You also have a coin that.\n",
+      "after": "[u1259 | 01:26:41.320-01:26:44.820 | DM] Kemet of Targu. You also have a coin that.\n"
+    },
+    "u1411": {
+      "before": "[u1411 | 01:37:54.440-01:37:56.650 | Delwath] hey? We know. {{Fight us, Lucaris}}.\n",
+      "after": "[u1411 | 01:37:54.440-01:37:56.650 | Delwath] hey? We know. Fides Lucaris.\n"
+    },
+    "u0314": {
+      "before": "[u0314 | 00:24:23.060-00:24:33.519 | DM] Okay. So you give all this information to {{Sarah}}, after talking briefly, and then turn to.\n",
+      "after": "[u0314 | 00:24:23.060-00:24:33.519 | DM] Okay. So you give all this information to Sura, after talking briefly, and then turn to.\n"
+    },
+    "u0058": {
+      "before": "[u0058 | 00:05:50.290-00:06:00.420 | DM] dig through the scrolls, eventually finding both a shipping manifest from the ship {{Selim sugar}}.\n",
+      "after": "[u0058 | 00:05:50.290-00:06:00.420 | DM] dig through the scrolls, eventually finding both a shipping manifest from the ship Selem Shurga.\n"
+    },
+    "u1414": {
+      "before": "[u1414 | 01:38:10.170-01:38:14.740 | Delwath] No, didn't we have something else? No, I've heard {{fight us with Charis}} before.\n",
+      "after": "[u1414 | 01:38:10.170-01:38:14.740 | Delwath] No, didn't we have something else? No, I've heard Fides Lucaris before.\n"
+    },
+    "u2790": {
+      "before": "[u2790 | 03:29:38.880-03:29:46.020 | Kenzo] Yeah, just that become invisible, visible. {{Amel}}, what's going on? How's how's everything going? Why are we? Why are we? Why are we flying the ship east. What's going.\n",
+      "after": "[u2790 | 03:29:38.880-03:29:46.020 | Kenzo] Yeah, just that become invisible, visible. Amil, what's going on? How's how's everything going? Why are we? Why are we? Why are we flying the ship east. What's going.\n"
+    },
+    "u1902": {
+      "before": "[u1902 | 02:12:22.220-02:12:26.690 | DM] the fall of {{isn't gay}}, always been quite reclusive.\n",
+      "after": "[u1902 | 02:12:22.220-02:12:26.690 | DM] the fall of Isingue, always been quite reclusive.\n"
+    },
+    "u2057": {
+      "before": "[u2057 | 02:25:39.690-02:25:43.300 | DM] That is truly your purpose. The {{guardi}} will protect you.\n",
+      "after": "[u2057 | 02:25:39.690-02:25:43.300 | DM] That is truly your purpose. The Gidari will protect you.\n"
+    },
+    "u0139": {
+      "before": "[u0139 | 00:13:15.750-00:13:19.020 | Seeker] Ability, {{daylight}}, assassins.\n",
+      "after": "[u0139 | 00:13:15.750-00:13:19.020 | Seeker] Ability, chalyte, assassins.\n"
+    },
+    "u2068": {
+      "before": "[u2068 | 02:26:42.880-02:26:47.519 | Delwath] Can the {{Giardi}} free souls from where they are trapped.\n",
+      "after": "[u2068 | 02:26:42.880-02:26:47.519 | Delwath] Can the Gidari free souls from where they are trapped.\n"
+    },
+    "u2301": {
+      "before": "[u2301 | 02:48:28.740-02:48:30.699 | Delwath] That's a that's a {{guarantee}}.\n",
+      "after": "[u2301 | 02:48:28.740-02:48:30.699 | Delwath] That's a that's a Gidari.\n"
+    },
+    "u1924": {
+      "before": "[u1924 | 02:14:03.040-02:14:10.220 | Delwath] Send Drakaut. Brilliant idea. Thanks, {{Bellindeer}}. We actually know a stone. I'll tell them I actually know a stoneborn near there. I just didn't think of that.\n",
+      "after": "[u1924 | 02:14:03.040-02:14:10.220 | Delwath] Send Drakaut. Brilliant idea. Thanks, Melindir. We actually know a stone. I'll tell them I actually know a stoneborn near there. I just didn't think of that.\n"
+    },
+    "u1942": {
+      "before": "[u1942 | 02:15:42.880-02:15:43.820 | DM] {{Rs, day}}.\n",
+      "after": "[u1942 | 02:15:42.880-02:15:43.820 | DM] Arheste.\n"
+    },
+    "u1570": {
+      "before": "[u1570 | 01:50:23.620-01:50:31.820 | Wellby] let them, but I also wonder if, like, if they really are dragons, they may also just be interested that {{Brigamdras}} is dead.\n",
+      "after": "[u1570 | 01:50:23.620-01:50:31.820 | Wellby] let them, but I also wonder if, like, if they really are dragons, they may also just be interested that Ra'ghemdros is dead.\n"
+    },
+    "u1976": {
+      "before": "[u1976 | 02:18:33.070-02:18:36.120 | Delwath] Wait! Am I at {{mountaineers}} when this happens.\n",
+      "after": "[u1976 | 02:18:33.070-02:18:36.120 | Delwath] Wait! Am I at Melindir's when this happens.\n"
+    },
+    "u2315": {
+      "before": "[u2315 | 02:49:24.830-02:49:27.749 | Delwath] Do we know what gender {{Minarith}} was?\n",
+      "after": "[u2315 | 02:49:24.830-02:49:27.749 | Delwath] Do we know what gender Minarith was?\n"
+    },
+    "u1714": {
+      "before": "[u1714 | 02:00:09.510-02:00:13.269 | Delwath] {{the scare}} probably not right. They kind of owe us. But.\n",
+      "after": "[u1714 | 02:00:09.510-02:00:13.269 | Delwath] the Skaer probably not right. They kind of owe us. But.\n"
+    },
+    "u1237": {
+      "before": "[u1237 | 01:25:21.800-01:25:25.900 | DM] Run if you can, {{manner F}}.\n",
+      "after": "[u1237 | 01:25:21.800-01:25:25.900 | DM] Run if you can, Minarith.\n"
+    },
+    "u1506": {
+      "before": "[u1506 | 01:43:49.890-01:44:01.640 | DM] Motua was one of these. {{Giardi Giardi}}, who are like the guardian. There's some extra. They're extraplanar creatures that are not associated with any\n",
+      "after": "[u1506 | 01:43:49.890-01:44:01.640 | DM] Motua was one of these. Gidari Gidari, who are like the guardian. There's some extra. They're extraplanar creatures that are not associated with any\n"
+    },
+    "u2340": {
+      "before": "[u2340 | 02:52:29.800-02:52:37.240 | DM] starts talking, and then suddenly looks as if he realizes I am {{men, Raft}}.\n",
+      "after": "[u2340 | 02:52:29.800-02:52:37.240 | DM] starts talking, and then suddenly looks as if he realizes I am Minarith.\n"
+    },
+    "u2768": {
+      "before": "[u2768 | 03:28:26.840-03:28:31.249 | DM] {{Amol}} is up at front like sort of\n",
+      "after": "[u2768 | 03:28:26.840-03:28:31.249 | DM] Amil is up at front like sort of\n"
+    },
+    "u1413": {
+      "before": "[u1413 | 01:38:06.040-01:38:07.860 | DM] {{A culta lutum}}.\n",
+      "after": "[u1413 | 01:38:06.040-01:38:07.860 | DM] Occulta Ludum.\n"
+    },
+    "u2461": {
+      "before": "[u2461 | 03:03:53.340-03:04:01.300 | DM] You've got Antonius {{patriots}} like administrator.\n",
+      "after": "[u2461 | 03:03:53.340-03:04:01.300 | DM] You've got Antonius Patrius like administrator.\n"
+    },
+    "u1113": {
+      "before": "[u1113 | 01:16:14.460-01:16:19.999 | DM] and that's where he senses, a sort of emanation of of {{Minrith}}.\n",
+      "after": "[u1113 | 01:16:14.460-01:16:19.999 | DM] and that's where he senses, a sort of emanation of of Minarith.\n"
+    },
+    "u2352": {
+      "before": "[u2352 | 02:53:35.370-02:53:41.289 | Riswynn] And so {{person}} starts talking about\n",
+      "after": "[u2352 | 02:53:35.370-02:53:41.289 | Riswynn] And so Riswynn starts talking about\n"
+    },
+    "u0491": {
+      "before": "[u0491 | 00:39:08.740-00:39:13.410 | DM] The university where {{Minarith}} worked.\n",
+      "after": "[u0491 | 00:39:08.740-00:39:13.410 | DM] The university where Minarith worked.\n"
+    },
+    "u2464": {
+      "before": "[u2464 | 03:04:16.040-03:04:29.860 | DM] And you've got {{Valente}} the like satiric Elven Bard, who wrote plays taunting Apollyon, and was presumably captured and\n",
+      "after": "[u2464 | 03:04:16.040-03:04:29.860 | DM] And you've got Valanthe the like satiric Elven Bard, who wrote plays taunting Apollyon, and was presumably captured and\n"
+    },
+    "u1901": {
+      "before": "[u1901 | 02:12:15.350-02:12:21.520 | DM] And of course, you know, {{or, unless}}, has always, since\n",
+      "after": "[u1901 | 02:12:15.350-02:12:21.520 | DM] And of course, you know, Orenlas, has always, since\n"
+    },
+    "u2575": {
+      "before": "[u2575 | 03:15:04.900-03:15:10.470 | DM] after a minute or so, you see another one of the {{Giardi}} kind of come\n",
+      "after": "[u2575 | 03:15:04.900-03:15:10.470 | DM] after a minute or so, you see another one of the Gidari kind of come\n"
+    },
+    "u0060": {
+      "before": "[u0060 | 00:06:08.539-00:06:23.920 | DM] Seemingly Kemet's ship, and also a another manifest describing the the last person, the {{Paranar Minarath}}.\n",
+      "after": "[u0060 | 00:06:08.539-00:06:23.920 | DM] Seemingly Kemet's ship, and also a another manifest describing the the last person, the Peronar Minarith.\n"
+    },
+    "u2059": {
+      "before": "[u2059 | 02:25:45.650-02:25:48.829 | Delwath] {{Yardy}} guardians that Kenzo met.\n",
+      "after": "[u2059 | 02:25:45.650-02:25:48.829 | Delwath] Gidari guardians that Kenzo met.\n"
+    },
+    "u2350": {
+      "before": "[u2350 | 02:53:26.290-02:53:31.790 | Riswynn] Am I reaching out to {{Gloria}}? We have her mask right.\n",
+      "after": "[u2350 | 02:53:26.290-02:53:31.790 | Riswynn] Am I reaching out to Floria? We have her mask right.\n"
+    },
+    "u2383": {
+      "before": "[u2383 | 02:57:24.900-02:57:31.890 | Kenzo] Their, the resilience against tyranny of either {{Floria}} Marius, or {{Volante}}.\n",
+      "after": "[u2383 | 02:57:24.900-02:57:31.890 | Kenzo] Their, the resilience against tyranny of either Floria Marius, or Valanthe.\n"
+    },
+    "u0308": {
+      "before": "[u0308 | 00:24:00.630-00:24:03.890 | Seeker] Did the Dunmari know that these things are powered by {{J. Light}}?\n",
+      "after": "[u0308 | 00:24:00.630-00:24:03.890 | Seeker] Did the Dunmari know that these things are powered by chalyte?\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:46:29.868755+00:00",
+      "sha256": "9cda94031484759c9041e78e781a8fbd34c24f986b52c932aeafe4b1ddd2fba7"
+    }
+  ],
+  "runId": "20261028T044629859996Z-76a0bc85",
+  "createdAt": "2026-10-28T04:46:29.860296+00:00"
+}

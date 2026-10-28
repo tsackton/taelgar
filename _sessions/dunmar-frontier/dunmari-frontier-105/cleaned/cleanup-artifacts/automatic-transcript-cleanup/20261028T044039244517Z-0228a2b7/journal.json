@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-105",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-source-cleaned.md",
+  "beforeSha256": "7e6562793600d94a9279fcdf0c051d5eb0cfbcbe8e65e4f02b8f3d3afa3ed9bb",
+  "afterSha256": "2bd05fb445f0c09e6b0b5c3ff68af7a6d9d9fc37a5fb00c7b90488afcc05da1d",
+  "markersBefore": 20,
+  "groups": [
+    {
+      "id": "elemental-strike-name",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "This may be a named elemental attack or an ordinary descriptive phrase. The session notes and vault search do not establish its name; earthbinding is plausible, but its exact form cannot be supported.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Session 103-110 (The Last Jade)/Session 105 - DM Notes.md",
+          "sha256": "baa376c802f03af42825b83536f7af03fe6d2c8a977e1c897c2085fddb0f4664"
+        }
+      ],
+      "candidates": [
+        "earthbinding"
+      ],
+      "markerIds": [
+        "u1752:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1752:m1": "{{earth buying}}"
+      }
+    },
+    {
+      "id": "fire-clan",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The bat is listing the speaking jungle groups alongside Blaze and Slither; the reference note establishes Fire as the clan name.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Pip.md",
+          "sha256": "3d54d37708443d3458549d005662ecf8f197232a02231a78ae3bd55c2b6a87de"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2464:m1"
+      ],
+      "replacements": {
+        "u2464:m1": "Fire"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "numbers-and-measurements",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Damage numbers and height measurements are outside the name and setting-term pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u2130:m1",
+        "u2895:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2130:m1": "{{40 s.}}",
+        "u2895:m1": "{{800 feet}}"
+      }
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary conversation, descriptions, hypotheses, and incomplete phrases outside the name and setting-term pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0100:m1",
+        "u0161:m1",
+        "u0214:m1",
+        "u0682:m1",
+        "u0990:m1",
+        "u1068:m1",
+        "u1251:m1",
+        "u1681:m1",
+        "u2265:m1",
+        "u2499:m1",
+        "u2579:m1",
+        "u2790:m1",
+        "u3205:m1",
+        "u3256:m1",
+        "u3301:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0100:m1": "{{to prove the date}}",
+        "u0161:m1": "{{consciousness laid}}",
+        "u0214:m1": "{{dropped ley lines}}",
+        "u0682:m1": "{{might on the bottom}}",
+        "u0990:m1": "{{Vegas}}",
+        "u1068:m1": "{{foot there}}",
+        "u1251:m1": "{{what you what triple}}",
+        "u1681:m1": "{{screening}}",
+        "u2265:m1": "{{And chuck}}",
+        "u2499:m1": "{{It's gap.}}",
+        "u2579:m1": "{{shoddy}}",
+        "u2790:m1": "{{Because then to combine}}",
+        "u3205:m1": "{{Better to scooting, rap.}}",
+        "u3256:m1": "{{lecture}}",
+        "u3301:m1": "{{giant box}}"
+      }
+    },
+    {
+      "id": "psychic-rune",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Seeker casts an incapacitating rune and later calls another use rune of psychic disruption at u2102. The campaign record establishes Rune of Psychic Disruption. Destruction could be a spoken variant, but the repeated caster, effect, and later name strongly favor Disruption.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 112 (DuFr).md",
+          "sha256": "b04870c1227967fecdbddd85ca449471877dad8c981b963c196a1b295859fc01"
+        },
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-105/cleaned/dunmari-frontier-105-source-cleaned.md",
+          "sha256": "7e6562793600d94a9279fcdf0c051d5eb0cfbcbe8e65e4f02b8f3d3afa3ed9bb"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1800:m1"
+      ],
+      "replacements": {
+        "u1800:m1": "Rune of Psychic Disruption"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u1800:m1",
+      "uid": "u1800",
+      "ordinal": 1,
+      "lineNumber": 1800,
+      "start": 54,
+      "end": 85,
+      "before": "{{rune of psychic destruction}}",
+      "span": "rune of psychic destruction",
+      "line": "[u1800 | 01:54:12.170-01:54:15.969 | Seeker] and cast {{rune of psychic destruction}}.",
+      "contextBefore": [
+        "[u1798 | 01:54:06.190-01:54:09.870 | Seeker] like here, and like up even closer to the ceiling.",
+        "[u1799 | 01:54:10.030-01:54:12.080 | Seeker] you know, 30, 35 feet."
+      ],
+      "contextAfter": [
+        "[u1801 | 01:54:16.570-01:54:17.450 | Kenzo] Hmm.",
+        "[u1802 | 01:54:17.920-01:54:20.270 | Seeker] On that guy."
+      ],
+      "after": "Rune of Psychic Disruption",
+      "group": "psychic-rune",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2464:m1",
+      "uid": "u2464",
+      "ordinal": 1,
+      "lineNumber": 2464,
+      "start": 41,
+      "end": 49,
+      "before": "{{fire}}",
+      "span": "fire",
+      "line": "[u2464 | 02:35:13.700-02:35:14.830 | DM] {{fire}}",
+      "contextBefore": [
+        "[u2462 | 02:35:06.420-02:35:07.670 | DM] Well, there's",
+        "[u2463 | 02:35:09.300-02:35:11.189 | DM] Blaze, of course, and"
+      ],
+      "contextAfter": [
+        "[u2465 | 02:35:17.650-02:35:19.080 | DM] Slither, and",
+        "[u2466 | 02:35:21.500-02:35:24.959 | DM] all of the people who live in the mangroves and"
+      ],
+      "after": "Fire",
+      "group": "fire-clan",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u1800": {
+      "before": "[u1800 | 01:54:12.170-01:54:15.969 | Seeker] and cast {{rune of psychic destruction}}.\n",
+      "after": "[u1800 | 01:54:12.170-01:54:15.969 | Seeker] and cast Rune of Psychic Disruption.\n"
+    },
+    "u2464": {
+      "before": "[u2464 | 02:35:13.700-02:35:14.830 | DM] {{fire}}\n",
+      "after": "[u2464 | 02:35:13.700-02:35:14.830 | DM] Fire\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:40:39.251179+00:00",
+      "sha256": "2bd05fb445f0c09e6b0b5c3ff68af7a6d9d9fc37a5fb00c7b90488afcc05da1d"
+    }
+  ],
+  "runId": "20261028T044039244517Z-0228a2b7",
+  "createdAt": "2026-10-28T04:40:39.244884+00:00"
+}

@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-123",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-source-cleaned.md",
+  "beforeSha256": "585b021cc985e38f9bcfc5a9bc7de520f8a1de3f7332e5649f4e75865bc2014e",
+  "afterSha256": "62d5d4bfa750a4ebf0a7b4b40bbad15d445de1eafc95499d81e73ac360d07903",
+  "markersBefore": 16,
+  "groups": [
+    {
+      "id": "amberglow",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The discussion concerns the Prismwell manifesting in the surrounding realm after the beacon is lit. Amberglow is the uniquely supported realm; the damaged recognition is less certain than the contextual identity.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Extraplanar/Feywild/Amberglow/Amberglow.md",
+          "sha256": "98a6b66607f0ff5fe6c83fc83c8e9341fc7b85f9914080d16ca71c8733731756"
+        },
+        {
+          "path": "Gazetteer/Extraplanar/Feywild/Amberglow/Prismwell.md",
+          "sha256": "feaed25110adffb446369e1458c7f632319797ac2f69bdff167ca13fa942550c"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 123 (DuFr).md",
+          "sha256": "33b64d1d73d2c7315ab5638d7903aa625d4eee49b7ee453ebd82a4f23f46f115"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0089:m1"
+      ],
+      "replacements": {
+        "u0089:m1": "Amberglow"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "mount-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Generic creature and mount wording, rather than a proper name or conventional named item. The griffin reference conflicts with Wellby's preceding wyvern mount and may be spoken imprecision; the later Wyvern's wording also has unclear referent. Repairing these would change ordinary narration.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0614:m1",
+        "u0755:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0614:m1": "{{griffin}}",
+        "u0755:m1": "{{Wyvern's}}"
+      }
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary descriptive wording, dialogue, and damaged phrases outside the names-only pass; no complete marked name or setting term is recoverable within these spans.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0209:m1",
+        "u0225:m1",
+        "u0462:m1",
+        "u0546:m1",
+        "u0632:m1",
+        "u0638:m1",
+        "u0710:m1",
+        "u0877:m1",
+        "u1110:m1",
+        "u1119:m1",
+        "u1169:m1",
+        "u1239:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0209:m1": "{{attached to the human attached will}}",
+        "u0225:m1": "{{flying out of that you}}",
+        "u0462:m1": "{{drink that}}",
+        "u0546:m1": "{{why}}",
+        "u0632:m1": "{{people like anymore}}",
+        "u0638:m1": "{{which is chased upon them from behind}}",
+        "u0710:m1": "{{Maybe}}",
+        "u0877:m1": "{{Buy}}",
+        "u1110:m1": "{{Put the crown to something powerful enough to break}}",
+        "u1119:m1": "{{believes}}",
+        "u1169:m1": "{{green, real}}",
+        "u1239:m1": "{{won't}}"
+      }
+    },
+    {
+      "id": "rider-name",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Kenzo is an established participant, but the preceding mount allocation places him on the wyvern and Delwath on a griffin. This may be a spoken name mix-up rather than an ASR error; substituting Delwath or unmarking Kenzo would resolve that uncertainty without sufficient evidence.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-123/cleaned/dunmari-frontier-123-session.yaml",
+          "sha256": "2ed287e6106fc5cc3bec3f83520274c9a2329eb8d9e0af0bc6490fb0df8134a5"
+        }
+      ],
+      "candidates": [
+        "Kenzo",
+        "Delwath"
+      ],
+      "markerIds": [
+        "u0562:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0562:m1": "{{Kenzo's}}"
+      }
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0089:m1",
+      "uid": "u0089",
+      "ordinal": 1,
+      "lineNumber": 89,
+      "start": 141,
+      "end": 156,
+      "before": "{{every. Well}}",
+      "span": "every. Well",
+      "line": "[u0089 | 00:12:00.020-00:12:10.030 | DM] Didn't mean to be to be subtle. It, like, lighting up this room caused the Prismwell to manifest in {{every. Well}}.",
+      "contextBefore": [
+        "[u0087 | 00:11:51.940-00:11:57.920 | Riswynn] Or is there another way, something else physically here that could help us.",
+        "[u0088 | 00:11:59.090-00:12:00.020 | DM] Yeah, okay."
+      ],
+      "contextAfter": [
+        "[u0090 | 00:12:13.010-00:12:14.520 | DM] So we just gotta find.",
+        "[u0091 | 00:12:14.620-00:12:19.019 | Riswynn] Did set up a connection, it's just not connected physically here."
+      ],
+      "after": "Amberglow",
+      "group": "amberglow",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u0089": {
+      "before": "[u0089 | 00:12:00.020-00:12:10.030 | DM] Didn't mean to be to be subtle. It, like, lighting up this room caused the Prismwell to manifest in {{every. Well}}.\n",
+      "after": "[u0089 | 00:12:00.020-00:12:10.030 | DM] Didn't mean to be to be subtle. It, like, lighting up this room caused the Prismwell to manifest in Amberglow.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:49:21.575377+00:00",
+      "sha256": "62d5d4bfa750a4ebf0a7b4b40bbad15d445de1eafc95499d81e73ac360d07903"
+    }
+  ],
+  "runId": "20261028T044921570691Z-9676824f",
+  "createdAt": "2026-10-28T04:49:21.570949+00:00"
+}

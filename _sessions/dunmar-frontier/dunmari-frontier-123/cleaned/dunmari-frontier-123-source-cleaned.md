@@ -86,7 +86,7 @@
 [u0086 | 00:11:49.460-00:11:51.650 | Riswynn] Does that help us connect to it?
 [u0087 | 00:11:51.940-00:11:57.920 | Riswynn] Or is there another way, something else physically here that could help us.
 [u0088 | 00:11:59.090-00:12:00.020 | DM] Yeah, okay.
-[u0089 | 00:12:00.020-00:12:10.030 | DM] Didn't mean to be to be subtle. It, like, lighting up this room caused the Prismwell to manifest in {{every. Well}}.
+[u0089 | 00:12:00.020-00:12:10.030 | DM] Didn't mean to be to be subtle. It, like, lighting up this room caused the Prismwell to manifest in Amberglow.
 [u0090 | 00:12:13.010-00:12:14.520 | DM] So we just gotta find.
 [u0091 | 00:12:14.620-00:12:19.019 | Riswynn] Did set up a connection, it's just not connected physically here.
 [u0092 | 00:12:19.470-00:12:20.890 | DM] Just gotta find it.

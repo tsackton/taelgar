@@ -1,0 +1,912 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-114",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-114/cleaned/dunmari-frontier-114-source-cleaned.md",
+  "beforeSha256": "8be189d3452952e8b8a72453311b4e78ba198d665f7d178721208c7d5b042d1f",
+  "afterSha256": "f6649e1841a3bb75aae2a32e0dc504afd313033b5700b573c90fd19a608614bb",
+  "markersBefore": 49,
+  "groups": [
+    {
+      "id": "aistane",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The shipment identifies the university by its alternative name, explicitly paired with Thalorian in the session source. The reference note establishes the spelling and diacritic.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 114 - DM Notes.md",
+          "sha256": "e54c77727f35f26d0faaa02551417165c30d9e0f89c67cb72b401fa9a4db5a15"
+        },
+        {
+          "path": "Gazetteer/Major Rivers/Istaros Watershed/Istaros.md",
+          "sha256": "21cff1c604a2c0f0f41c41db2109a432b7ceff2ded07ff1249c433cf6e8daffa"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2102:m1"
+      ],
+      "replacements": {
+        "u2102:m1": "Aistanë"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "aistane-bow-request",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The proposed bow request seeks the same university just identified in the dialogue. The session source establishes Aistanë for that name; Academy is a weaker recognition but the immediate institutional referent is unique.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Session 111-117 (Drankor)/Session 114 - DM Notes.md",
+          "sha256": "e54c77727f35f26d0faaa02551417165c30d9e0f89c67cb72b401fa9a4db5a15"
+        },
+        {
+          "path": "Gazetteer/Major Rivers/Istaros Watershed/Istaros.md",
+          "sha256": "21cff1c604a2c0f0f41c41db2109a432b7ceff2ded07ff1249c433cf6e8daffa"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2114:m1"
+      ],
+      "replacements": {
+        "u2114:m1": "Aistanë"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "citizen-name-fragment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "After citizen Minarith, Kyle could be an invented or misremembered name, or damaged ordinary wording such as guy. The surrounding dialogue does not establish which complete replacement was spoken.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Minarith.md",
+          "sha256": "52b60da8daeb6e8e3c02472273fc72ea91ae31968061a4829b882e4cc30c2ba5"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1921:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1921:m1": "{{Kyle}}"
+      }
+    },
+    {
+      "id": "mos-numena",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The phrase names the religious tradition of the Eight Divines, whose pantheon and holiday notes establish the form Mos Numena.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Incorporeal Gods/Mos Numena Pantheon/Mos Numena Pantheon.md",
+          "sha256": "ca58969278fd8ee2581d9f6c0125bc82611901f1d7ad2a12f6a68fad5d5fb7d1"
+        },
+        {
+          "path": "Gods and Religions/Holidays and Festivals/Pyravela.md",
+          "sha256": "862ec60c255e31ef32c2e4571aef130f6b7645669364c78d414e629efd754506"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1434:m2"
+      ],
+      "replacements": {
+        "u1434:m2": "Mos Numena"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ordinary-wording-and-mechanics",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "These spans concern ordinary conversation, descriptive wording, map discussion, fillers, numbers, or game mechanics. No contextual name or setting-term correction is established; sentence reconstruction is outside names-v1.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0139:m1",
+        "u0153:m1",
+        "u0481:m1",
+        "u0483:m1",
+        "u0577:m1",
+        "u0579:m1",
+        "u0905:m1",
+        "u0923:m1",
+        "u0930:m1",
+        "u0980:m1",
+        "u1014:m1",
+        "u1077:m1",
+        "u1080:m1",
+        "u1288:m1",
+        "u1435:m1",
+        "u1472:m1",
+        "u1571:m1",
+        "u1571:m2",
+        "u1730:m1",
+        "u1912:m1",
+        "u1975:m1",
+        "u2068:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0139:m1": "{{first.st}}",
+        "u0153:m1": "{{weekend}}",
+        "u0481:m1": "{{Alvin}}",
+        "u0483:m1": "{{Alvin}}",
+        "u0577:m1": "{{window with them}}",
+        "u0579:m1": "{{President got a around.}}",
+        "u0905:m1": "{{1119}}",
+        "u0923:m1": "{{good in there as well}}",
+        "u0930:m1": "{{DC con. Save 12 or 16}}",
+        "u0980:m1": "{{Opt out.}}",
+        "u1014:m1": "{{Save}}",
+        "u1077:m1": "{{2 full dessert}}",
+        "u1080:m1": "{{Pumps stop, seeming like Wow!}}",
+        "u1288:m1": "{{We need it housing.}}",
+        "u1435:m1": "{{Oma}}",
+        "u1472:m1": "{{those 3}}",
+        "u1571:m1": "{{Speaker}}",
+        "u1571:m2": "{{to be failing}}",
+        "u1730:m1": "{{how much to leave}}",
+        "u1912:m1": "{{trading medium}}",
+        "u1975:m1": "{{cost}}",
+        "u2068:m1": "{{Happy birthday}}"
+      }
+    },
+    {
+      "id": "peronar",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Each occurrence identifies Minarith by the elven lineage associated with humans; the reference notes establish peronar. The fused article in Aparinar is retained as a peronar.",
+      "evidence": [
+        {
+          "path": "Creatures/Species/Peronar.md",
+          "sha256": "1ab792c8b05f12e4bae9e87be2a4f7d10a78c2d7392576bde010249fa3992c25"
+        },
+        {
+          "path": "People/Historical Figures/Minarith.md",
+          "sha256": "52b60da8daeb6e8e3c02472273fc72ea91ae31968061a4829b882e4cc30c2ba5"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0038:m1",
+        "u0164:m1",
+        "u0235:m1",
+        "u0537:m1",
+        "u1523:m1",
+        "u1538:m1",
+        "u1539:m1",
+        "u1590:m1",
+        "u1696:m1",
+        "u1908:m1"
+      ],
+      "replacements": {
+        "u0038:m1": "a peronar",
+        "u0164:m1": "peronar",
+        "u0235:m1": "peronar",
+        "u0537:m1": "peronar",
+        "u1523:m1": "peronar",
+        "u1538:m1": "peronar",
+        "u1539:m1": "peronar",
+        "u1590:m1": "peronar",
+        "u1696:m1": "peronar",
+        "u1908:m1": "peronar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "peronar-dm-prompt",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The DM supplies the lineage pronunciation during the exchange about Minarith. Peronar is the unique contextual term; the short ASR fragment is less certain than the explicit lineage references.",
+      "evidence": [
+        {
+          "path": "Creatures/Species/Peronar.md",
+          "sha256": "1ab792c8b05f12e4bae9e87be2a4f7d10a78c2d7392576bde010249fa3992c25"
+        },
+        {
+          "path": "People/Historical Figures/Minarith.md",
+          "sha256": "52b60da8daeb6e8e3c02472273fc72ea91ae31968061a4829b882e4cc30c2ba5"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1481:m1"
+      ],
+      "replacements": {
+        "u1481:m1": "Peronar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "peronar-plus-wording",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Peronar is recognizable, but the marked span also includes apparent acknowledgement wording. Replacing the whole span would require reconstructing words beyond the lineage.",
+      "evidence": [
+        {
+          "path": "Creatures/Species/Peronar.md",
+          "sha256": "1ab792c8b05f12e4bae9e87be2a4f7d10a78c2d7392576bde010249fa3992c25"
+        },
+        {
+          "path": "People/Historical Figures/Minarith.md",
+          "sha256": "52b60da8daeb6e8e3c02472273fc72ea91ae31968061a4829b882e4cc30c2ba5"
+        }
+      ],
+      "candidates": [
+        "peronar"
+      ],
+      "markerIds": [
+        "u0538:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0538:m1": "{{Karen, or thank}}"
+      }
+    },
+    {
+      "id": "peronar-remaining-target",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The question asks for traces of the remaining target, contrasting him with Khemut and immediately returning to the peronar search. Minarith is uniquely identified by this lineage, though the recognition of the complete short span is less certain.",
+      "evidence": [
+        {
+          "path": "Creatures/Species/Peronar.md",
+          "sha256": "1ab792c8b05f12e4bae9e87be2a4f7d10a78c2d7392576bde010249fa3992c25"
+        },
+        {
+          "path": "People/Historical Figures/Minarith.md",
+          "sha256": "52b60da8daeb6e8e3c02472273fc72ea91ae31968061a4829b882e4cc30c2ba5"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1531:m1"
+      ],
+      "replacements": {
+        "u1531:m1": "peronar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "peronar-repeated-fragment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The target is Minarith, but parent paramour may preserve a repeated attempt or joking mispronunciation of the lineage. A single canonical term would erase uncertain spoken wording.",
+      "evidence": [
+        {
+          "path": "Creatures/Species/Peronar.md",
+          "sha256": "1ab792c8b05f12e4bae9e87be2a4f7d10a78c2d7392576bde010249fa3992c25"
+        },
+        {
+          "path": "People/Historical Figures/Minarith.md",
+          "sha256": "52b60da8daeb6e8e3c02472273fc72ea91ae31968061a4829b882e4cc30c2ba5"
+        }
+      ],
+      "candidates": [
+        "peronar"
+      ],
+      "markerIds": [
+        "u2023:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2023:m1": "{{parent paramour}}"
+      }
+    },
+    {
+      "id": "pronunciation-jokes",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The speaker explicitly says the word is being said wrong and the following exchange plays with its pronunciation. These spans may record deliberate or actual mispronunciations; canonicalizing them would risk erasing the spoken joke.",
+      "evidence": [
+        {
+          "path": "Creatures/Species/Peronar.md",
+          "sha256": "1ab792c8b05f12e4bae9e87be2a4f7d10a78c2d7392576bde010249fa3992c25"
+        },
+        {
+          "path": "People/Historical Figures/Minarith.md",
+          "sha256": "52b60da8daeb6e8e3c02472273fc72ea91ae31968061a4829b882e4cc30c2ba5"
+        }
+      ],
+      "candidates": [
+        "peronar"
+      ],
+      "markerIds": [
+        "u1478:m1",
+        "u1479:m1",
+        "u1480:m1",
+        "u1483:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1478:m1": "{{had one}}",
+        "u1479:m1": "{{Hair more}}",
+        "u1480:m1": "{{Part paranoid}}",
+        "u1483:m1": "{{Power, Board}}"
+      }
+    },
+    {
+      "id": "pyravela",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The speaker names the major holiday celebrated in Tollen; the holiday note establishes Pyravela and its association with the Eight Divines.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Holidays and Festivals/Pyravela.md",
+          "sha256": "862ec60c255e31ef32c2e4571aef130f6b7645669364c78d414e629efd754506"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1432:m1",
+        "u1434:m1"
+      ],
+      "replacements": {
+        "u1432:m1": "Pyravela",
+        "u1434:m1": "Pyravela"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "thalorian",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "These occurrences name the university associated with Minarith and natural history. The university and session notes establish Thalorian.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Drankorian Hinterland/Drankor/University of the Blessed Waters.md",
+          "sha256": "539253342be88dffdd73201d97de3d78cf77da63826c6436f36c93a9a67213e9"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 114 (DuFr).md",
+          "sha256": "ede77e6f739d5c4bd7f6960ffad1ecd0af70240f7549d954c9f378e4f0ad47c1"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1980:m1",
+        "u2102:m2",
+        "u2103:m1"
+      ],
+      "replacements": {
+        "u1980:m1": "Thalorian",
+        "u2102:m2": "Thalorian",
+        "u2103:m1": "Thalorian"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0038:m1",
+      "uid": "u0038",
+      "ordinal": 1,
+      "lineNumber": 38,
+      "start": 154,
+      "end": 166,
+      "before": "{{Aparinar}}",
+      "span": "Aparinar",
+      "line": "[u0038 | 00:05:59.850-00:06:16.130 | DM] and if you were to find information about them anywhere, it would also likely be the docks, and finally Minarith {{Aparinar}}, an elf. But one of the elves that had lived for many years with humans.",
+      "contextBefore": [
+        "[u0036 | 00:05:38.755-00:05:43.570 | DM] Khemut of Targu a",
+        "[u0037 | 00:05:43.930-00:05:59.069 | DM] foreigner, presumably from a strange place based on the name and the location. Targu. More than that is hard to say, but your surmise was that this person may have been a sailor or a traveler."
+      ],
+      "contextAfter": [
+        "[u0039 | 00:06:16.600-00:06:22.679 | DM] also of Drankor, of which you have no information.",
+        "[u0040 | 00:06:23.416-00:06:30.510 | DM] And so, as you settle in for the night take a long rest."
+      ],
+      "after": "a peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0164:m1",
+      "uid": "u0164",
+      "ordinal": 1,
+      "lineNumber": 164,
+      "start": 99,
+      "end": 110,
+      "before": "{{peranar}}",
+      "span": "peranar",
+      "line": "[u0164 | 00:14:15.100-00:14:20.460 | DM] Seraphina Appleblossom, Khemut of Targu and Minarith, the {{peranar}} are the 3 that we need.",
+      "contextBefore": [
+        "[u0162 | 00:13:57.220-00:14:12.870 | Delwath] Yeah, yeah. So we could. Okay, so step one is that we should stop talking about this. And we should figure out how to find the remaining pieces of these 7 people. The memory items of these 7 people right.",
+        "[u0163 | 00:14:12.870-00:14:14.700 | Seeker] That's the business for the morning. Yes."
+      ],
+      "contextAfter": [
+        "[u0165 | 00:14:20.460-00:14:28.120 | Riswynn] But we're sitting around talking about this, perhaps while we spend an hour having a Heroes' Feast, because otherwise we're going to be terrified as soon as we leave the building.",
+        "[u0166 | 00:14:28.120-00:14:30.250 | Delwath] Yeah, if yeah, we should do so."
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0235:m1",
+      "uid": "u0235",
+      "ordinal": 1,
+      "lineNumber": 235,
+      "start": 102,
+      "end": 113,
+      "before": "{{paranor}}",
+      "span": "paranor",
+      "line": "[u0235 | 00:19:11.940-00:19:18.549 | DM] You don't know anything about Minarith, except that he was a {{paranor}}.",
+      "contextBefore": [
+        "[u0233 | 00:18:55.490-00:19:02.570 | Delwath] from the docks, or who we think is near the docks. And then there's the final person who I don't think we know anything about.",
+        "[u0234 | 00:19:04.120-00:19:09.839 | DM] So everybody gets increase. Your Max. Hit points by 12. From Heroes' Feast."
+      ],
+      "contextAfter": [
+        "[u0236 | 00:19:19.080-00:19:21.809 | Delwath] Now, if we are taking a",
+        "[u0237 | 00:19:22.140-00:19:27.999 | Delwath] if we are taking an hour to cast Heroes' Feast, I'm going to spell up a little bit. I'll cast aid."
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0537:m1",
+      "uid": "u0537",
+      "ordinal": 1,
+      "lineNumber": 537,
+      "start": 69,
+      "end": 80,
+      "before": "{{Paranor}}",
+      "span": "Paranor",
+      "line": "[u0537 | 00:43:24.440-00:43:26.720 | Delwath] The elf, human friend, {{Paranor}}.",
+      "contextBefore": [
+        "[u0535 | 00:43:19.320-00:43:20.580 | Seeker] Stuff that we're looking for.",
+        "[u0536 | 00:43:20.580-00:43:24.109 | Riswynn] The human elf, friend, person, or the like."
+      ],
+      "contextAfter": [
+        "[u0538 | 00:43:26.940-00:43:30.420 | Riswynn] {{Karen, or thank}} Elf elf who hung out with humans.",
+        "[u0539 | 00:43:32.030-00:43:33.760 | Seeker] Main quest, in other words."
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1432:m1",
+      "uid": "u1432",
+      "ordinal": 1,
+      "lineNumber": 1432,
+      "start": 142,
+      "end": 154,
+      "before": "{{Paravala}}",
+      "span": "Paravala",
+      "line": "[u1432 | 01:56:52.600-01:56:59.770 | DM] There aren't really like Major Halfling, I mean, there's nothing like the Dunmari festivals, or like {{Paravala}}, or any of the",
+      "contextBefore": [
+        "[u1430 | 01:56:44.460-01:56:47.510 | Seeker] But I randomly know about a lot of religious stuff now.",
+        "[u1431 | 01:56:47.510-01:56:51.140 | DM] That's true. There aren't really."
+      ],
+      "contextAfter": [
+        "[u1433 | 01:57:00.990-01:57:02.839 | DM] you know big, I mean",
+        "[u1434 | 01:57:04.310-01:57:11.559 | DM] {{Karavala}}. That thing you celebrated in Tollen was a holiday of the Eight Divines of {{Mas Numuna}}."
+      ],
+      "after": "Pyravela",
+      "group": "pyravela",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1434:m1",
+      "uid": "u1434",
+      "ordinal": 1,
+      "lineNumber": 1434,
+      "start": 41,
+      "end": 53,
+      "before": "{{Karavala}}",
+      "span": "Karavala",
+      "line": "[u1434 | 01:57:04.310-01:57:11.559 | DM] {{Karavala}}. That thing you celebrated in Tollen was a holiday of the Eight Divines of {{Mas Numuna}}.",
+      "contextBefore": [
+        "[u1432 | 01:56:52.600-01:56:59.770 | DM] There aren't really like Major Halfling, I mean, there's nothing like the Dunmari festivals, or like {{Paravala}}, or any of the",
+        "[u1433 | 01:57:00.990-01:57:02.839 | DM] you know big, I mean"
+      ],
+      "contextAfter": [
+        "[u1435 | 01:57:11.580-01:57:19.090 | DM] {{Oma}}, you know for sure was celebrated in Drankor it could have been fireworks there. But but the",
+        "[u1436 | 01:57:20.700-01:57:29.300 | DM] the vibe is much more. This wasn't like associated with I mean the the Punch Bowl is decorated with fireworks like you really get the sense that the"
+      ],
+      "after": "Pyravela",
+      "group": "pyravela",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1434:m2",
+      "uid": "u1434",
+      "ordinal": 2,
+      "lineNumber": 1434,
+      "start": 129,
+      "end": 143,
+      "before": "{{Mas Numuna}}",
+      "span": "Mas Numuna",
+      "line": "[u1434 | 01:57:04.310-01:57:11.559 | DM] {{Karavala}}. That thing you celebrated in Tollen was a holiday of the Eight Divines of {{Mas Numuna}}.",
+      "contextBefore": [
+        "[u1432 | 01:56:52.600-01:56:59.770 | DM] There aren't really like Major Halfling, I mean, there's nothing like the Dunmari festivals, or like {{Paravala}}, or any of the",
+        "[u1433 | 01:57:00.990-01:57:02.839 | DM] you know big, I mean"
+      ],
+      "contextAfter": [
+        "[u1435 | 01:57:11.580-01:57:19.090 | DM] {{Oma}}, you know for sure was celebrated in Drankor it could have been fireworks there. But but the",
+        "[u1436 | 01:57:20.700-01:57:29.300 | DM] the vibe is much more. This wasn't like associated with I mean the the Punch Bowl is decorated with fireworks like you really get the sense that the"
+      ],
+      "after": "Mos Numena",
+      "group": "mos-numena",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1481:m1",
+      "uid": "u1481",
+      "ordinal": 1,
+      "lineNumber": 1481,
+      "start": 41,
+      "end": 54,
+      "before": "{{Or in our}}",
+      "span": "Or in our",
+      "line": "[u1481 | 02:00:12.870-02:00:13.989 | DM] {{Or in our}}.",
+      "contextBefore": [
+        "[u1479 | 02:00:07.930-02:00:09.310 | Riswynn] {{Hair more}}.",
+        "[u1480 | 02:00:09.960-02:00:12.870 | Delwath] {{Part paranoid}}."
+      ],
+      "contextAfter": [
+        "[u1482 | 02:00:14.530-02:00:15.210 | Riswynn] Her.",
+        "[u1483 | 02:00:15.210-02:00:15.810 | Delwath] {{Power, Board}}."
+      ],
+      "after": "Peronar",
+      "group": "peronar-dm-prompt",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1523:m1",
+      "uid": "u1523",
+      "ordinal": 1,
+      "lineNumber": 1523,
+      "start": 128,
+      "end": 140,
+      "before": "{{paranore}}",
+      "span": "paranore",
+      "line": "[u1523 | 02:03:26.250-02:03:34.570 | Riswynn] I mean, like, ask, should we try searching in bars in this area for traces of the {{paranore}}",
+      "contextBefore": [
+        "[u1521 | 02:03:13.940-02:03:18.400 | DM] I mean, you have about a million ways of asking for help. So.",
+        "[u1522 | 02:03:20.180-02:03:22.390 | Seeker] Let's try one of those good point."
+      ],
+      "contextAfter": [
+        "[u1524 | 02:03:35.570-02:03:41.050 | Riswynn] like that's we're allowed to say, like this is a plan. This is a good plan. That's 1 of our.",
+        "[u1525 | 02:03:41.370-02:03:42.200 | Delwath] Wow!"
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1531:m1",
+      "uid": "u1531",
+      "ordinal": 1,
+      "lineNumber": 1531,
+      "start": 46,
+      "end": 61,
+      "before": "{{heroin work}}",
+      "span": "heroin work",
+      "line": "[u1531 | 02:04:07.360-02:04:12.140 | Riswynn] {{heroin work}} like I've sort of given up on Khemut because we have something.",
+      "contextBefore": [
+        "[u1529 | 02:03:56.740-02:04:00.609 | Riswynn] Well, we're or do we just need?",
+        "[u1530 | 02:04:01.000-02:04:04.939 | Riswynn] I guess we can't. Do. We have any ideas for traces of"
+      ],
+      "contextAfter": [
+        "[u1532 | 02:04:12.690-02:04:16.470 | Delwath] See, I'm taking the opposite approach. I still think",
+        "[u1533 | 02:04:16.640-02:04:20.479 | Delwath] my feeling would be. We have evidence that Khemut was around here."
+      ],
+      "after": "peronar",
+      "group": "peronar-remaining-target",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1538:m1",
+      "uid": "u1538",
+      "ordinal": 1,
+      "lineNumber": 1538,
+      "start": 50,
+      "end": 63,
+      "before": "{{Para, nor}}",
+      "span": "Para, nor",
+      "line": "[u1538 | 02:04:42.870-02:04:47.539 | Riswynn] the {{Para, nor}}, or if we have to like, look somewhere else entirely.",
+      "contextBefore": [
+        "[u1536 | 02:04:28.190-02:04:35.539 | Riswynn] And I think the same thing that Khemut was around here, and we'll probably stumble along more information if we spend more time here.",
+        "[u1537 | 02:04:36.670-02:04:42.599 | Riswynn] But I wonder if it's we might also find something about"
+      ],
+      "contextAfter": [
+        "[u1539 | 02:04:48.130-02:04:55.339 | Riswynn] So I think we're going to ask the question, Is this a good place to look around for the {{paranor}}? If they say no, we can still decide.",
+        "[u1540 | 02:04:55.610-02:04:57.010 | Delwath] Yeah, yeah, yeah, that makes sense."
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1539:m1",
+      "uid": "u1539",
+      "ordinal": 1,
+      "lineNumber": 1539,
+      "start": 134,
+      "end": 145,
+      "before": "{{paranor}}",
+      "span": "paranor",
+      "line": "[u1539 | 02:04:48.130-02:04:55.339 | Riswynn] So I think we're going to ask the question, Is this a good place to look around for the {{paranor}}? If they say no, we can still decide.",
+      "contextBefore": [
+        "[u1537 | 02:04:36.670-02:04:42.599 | Riswynn] But I wonder if it's we might also find something about",
+        "[u1538 | 02:04:42.870-02:04:47.539 | Riswynn] the {{Para, nor}}, or if we have to like, look somewhere else entirely."
+      ],
+      "contextAfter": [
+        "[u1540 | 02:04:55.610-02:04:57.010 | Delwath] Yeah, yeah, yeah, that makes sense.",
+        "[u1541 | 02:04:57.010-02:04:58.000 | Riswynn] Yes."
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1590:m1",
+      "uid": "u1590",
+      "ordinal": 1,
+      "lineNumber": 1590,
+      "start": 75,
+      "end": 86,
+      "before": "{{Paranar}}",
+      "span": "Paranar",
+      "line": "[u1590 | 02:08:12.180-02:08:18.630 | DM] Okay, Barazal return and say, the {{Paranar}}",
+      "contextBefore": [
+        "[u1588 | 02:07:47.930-02:07:49.990 | DM] What's your question for the gods.",
+        "[u1589 | 02:07:54.030-02:08:07.260 | Riswynn] Is searching this and other tavern like buildings of this region, promising approach to look for the."
+      ],
+      "contextAfter": [
+        "[u1591 | 02:08:21.860-02:08:23.140 | DM] Minarith.",
+        "[u1592 | 02:08:25.570-02:08:27.169 | DM] What would they say?"
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1696:m1",
+      "uid": "u1696",
+      "ordinal": 1,
+      "lineNumber": 1696,
+      "start": 92,
+      "end": 103,
+      "before": "{{paranor}}",
+      "span": "paranor",
+      "line": "[u1696 | 02:17:34.729-02:17:40.099 | DM] you can sense a vibe from Khemut, nothing from the {{paranor}}.",
+      "contextBefore": [
+        "[u1694 | 02:17:21.026-02:17:25.449 | DM] Coming from deeper in the in the",
+        "[u1695 | 02:17:26.109-02:17:34.109 | DM] Custom House, coming from sort of this direction roughly."
+      ],
+      "contextAfter": [
+        "[u1697 | 02:17:42.139-02:17:43.529 | Kenzo] Go to the Khemut object.",
+        "[u1698 | 02:17:43.530-02:17:44.440 | Delwath] Yes."
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1908:m1",
+      "uid": "u1908",
+      "ordinal": 1,
+      "lineNumber": 1908,
+      "start": 91,
+      "end": 102,
+      "before": "{{paranor}}",
+      "span": "paranor",
+      "line": "[u1908 | 02:32:17.680-02:32:21.320 | DM] Barazal told you to look here for clues about the {{paranor}}.",
+      "contextBefore": [
+        "[u1906 | 02:32:10.500-02:32:10.960 | Riswynn] We need it.",
+        "[u1907 | 02:32:10.960-02:32:17.209 | DM] None of the scrolls seem to immediately be magical, although you still haven't figured out exactly why the"
+      ],
+      "contextAfter": [
+        "[u1909 | 02:32:23.750-02:32:25.680 | DM] but you can run. That's fine.",
+        "[u1910 | 02:32:25.680-02:32:31.110 | Delwath] Wait, wait! Wait! Did the Barazal tell us to look here, or look somewhere? I thought it was the docks."
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1980:m1",
+      "uid": "u1980",
+      "ordinal": 1,
+      "lineNumber": 1980,
+      "start": 45,
+      "end": 57,
+      "before": "{{Falorian}}",
+      "span": "Falorian",
+      "line": "[u1980 | 02:37:51.510-02:37:57.610 | DM] the {{Falorian}}, which sounds like a university based on the goods like describing books and things.",
+      "contextBefore": [
+        "[u1978 | 02:37:38.920-02:37:45.670 | DM] you know, to the merchants, but there was also, potentially, you think maybe 3 universities in Drankor?",
+        "[u1979 | 02:37:45.850-02:37:50.980 | DM] There's a mention of the Imperial University, Valtrius University."
+      ],
+      "contextAfter": [
+        "[u1981 | 02:38:01.590-02:38:06.229 | DM] There's, you know, shipbuilding. There's lots of",
+        "[u1982 | 02:38:09.730-02:38:15.550 | DM] weapons and metal and armor. This is like describing manifests of ships that are bringing in"
+      ],
+      "after": "Thalorian",
+      "group": "thalorian",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2102:m1",
+      "uid": "u2102",
+      "ordinal": 1,
+      "lineNumber": 2102,
+      "start": 63,
+      "end": 73,
+      "before": "{{Astane}}",
+      "span": "Astane",
+      "line": "[u2102 | 02:46:01.490-02:46:08.389 | DM] The University of the {{Astane}} also referred to as the {{Thelorian}}.",
+      "contextBefore": [
+        "[u2100 | 02:45:48.670-02:45:58.780 | DM] botanical herbs, or something that were shipped through Drankor, and the person they are being shipped to is listed as Minarith",
+        "[u2101 | 02:45:58.880-02:46:01.150 | DM] faculty of Natural History."
+      ],
+      "contextAfter": [
+        "[u2103 | 02:46:12.360-02:46:15.829 | Riswynn] Universities also referred to as the {{Thore Laurean}}, or.",
+        "[u2104 | 02:46:15.830-02:46:20.209 | DM] Yeah. The university, like the Sorbonne, it's like the University of Paris or the Sorbonne."
+      ],
+      "after": "Aistanë",
+      "group": "aistane",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2102:m2",
+      "uid": "u2102",
+      "ordinal": 2,
+      "lineNumber": 2102,
+      "start": 98,
+      "end": 111,
+      "before": "{{Thelorian}}",
+      "span": "Thelorian",
+      "line": "[u2102 | 02:46:01.490-02:46:08.389 | DM] The University of the {{Astane}} also referred to as the {{Thelorian}}.",
+      "contextBefore": [
+        "[u2100 | 02:45:48.670-02:45:58.780 | DM] botanical herbs, or something that were shipped through Drankor, and the person they are being shipped to is listed as Minarith",
+        "[u2101 | 02:45:58.880-02:46:01.150 | DM] faculty of Natural History."
+      ],
+      "contextAfter": [
+        "[u2103 | 02:46:12.360-02:46:15.829 | Riswynn] Universities also referred to as the {{Thore Laurean}}, or.",
+        "[u2104 | 02:46:15.830-02:46:20.209 | DM] Yeah. The university, like the Sorbonne, it's like the University of Paris or the Sorbonne."
+      ],
+      "after": "Thalorian",
+      "group": "thalorian",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2103:m1",
+      "uid": "u2103",
+      "ordinal": 1,
+      "lineNumber": 2103,
+      "start": 83,
+      "end": 100,
+      "before": "{{Thore Laurean}}",
+      "span": "Thore Laurean",
+      "line": "[u2103 | 02:46:12.360-02:46:15.829 | Riswynn] Universities also referred to as the {{Thore Laurean}}, or.",
+      "contextBefore": [
+        "[u2101 | 02:45:58.880-02:46:01.150 | DM] faculty of Natural History.",
+        "[u2102 | 02:46:01.490-02:46:08.389 | DM] The University of the {{Astane}} also referred to as the {{Thelorian}}."
+      ],
+      "contextAfter": [
+        "[u2104 | 02:46:15.830-02:46:20.209 | DM] Yeah. The university, like the Sorbonne, it's like the University of Paris or the Sorbonne.",
+        "[u2105 | 02:46:26.700-02:46:29.080 | Kenzo] Awesome pocket it."
+      ],
+      "after": "Thalorian",
+      "group": "thalorian",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2114:m1",
+      "uid": "u2114",
+      "ordinal": 1,
+      "lineNumber": 2114,
+      "start": 79,
+      "end": 90,
+      "before": "{{Academy}}",
+      "span": "Academy",
+      "line": "[u2114 | 02:47:03.490-02:47:07.540 | DM] to say, Find me the University of the {{Academy}}.",
+      "contextBefore": [
+        "[u2112 | 02:46:50.600-02:46:55.510 | DM] So okay. 2. Meta. Here. 2 possibilities.",
+        "[u2113 | 02:46:56.000-02:47:02.669 | DM] The original idea is this was an opportunity for Wellby to use his new power of his bow"
+      ],
+      "contextAfter": [
+        "[u2115 | 02:47:09.580-02:47:18.430 | DM] So we've got 2 options here. I can just hand wave it. You can stumble across the university on your way back, or, since everybody's falling asleep. We could",
+        "[u2116 | 02:47:18.840-02:47:24.649 | DM] return to the Temple, and you could go out again when Schwartz is here next time."
+      ],
+      "after": "Aistanë",
+      "group": "aistane-bow-request",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u1523": {
+      "before": "[u1523 | 02:03:26.250-02:03:34.570 | Riswynn] I mean, like, ask, should we try searching in bars in this area for traces of the {{paranore}}\n",
+      "after": "[u1523 | 02:03:26.250-02:03:34.570 | Riswynn] I mean, like, ask, should we try searching in bars in this area for traces of the peronar\n"
+    },
+    "u1434": {
+      "before": "[u1434 | 01:57:04.310-01:57:11.559 | DM] {{Karavala}}. That thing you celebrated in Tollen was a holiday of the Eight Divines of {{Mas Numuna}}.\n",
+      "after": "[u1434 | 01:57:04.310-01:57:11.559 | DM] Pyravela. That thing you celebrated in Tollen was a holiday of the Eight Divines of Mos Numena.\n"
+    },
+    "u2103": {
+      "before": "[u2103 | 02:46:12.360-02:46:15.829 | Riswynn] Universities also referred to as the {{Thore Laurean}}, or.\n",
+      "after": "[u2103 | 02:46:12.360-02:46:15.829 | Riswynn] Universities also referred to as the Thalorian, or.\n"
+    },
+    "u1980": {
+      "before": "[u1980 | 02:37:51.510-02:37:57.610 | DM] the {{Falorian}}, which sounds like a university based on the goods like describing books and things.\n",
+      "after": "[u1980 | 02:37:51.510-02:37:57.610 | DM] the Thalorian, which sounds like a university based on the goods like describing books and things.\n"
+    },
+    "u1539": {
+      "before": "[u1539 | 02:04:48.130-02:04:55.339 | Riswynn] So I think we're going to ask the question, Is this a good place to look around for the {{paranor}}? If they say no, we can still decide.\n",
+      "after": "[u1539 | 02:04:48.130-02:04:55.339 | Riswynn] So I think we're going to ask the question, Is this a good place to look around for the peronar? If they say no, we can still decide.\n"
+    },
+    "u0164": {
+      "before": "[u0164 | 00:14:15.100-00:14:20.460 | DM] Seraphina Appleblossom, Khemut of Targu and Minarith, the {{peranar}} are the 3 that we need.\n",
+      "after": "[u0164 | 00:14:15.100-00:14:20.460 | DM] Seraphina Appleblossom, Khemut of Targu and Minarith, the peronar are the 3 that we need.\n"
+    },
+    "u0235": {
+      "before": "[u0235 | 00:19:11.940-00:19:18.549 | DM] You don't know anything about Minarith, except that he was a {{paranor}}.\n",
+      "after": "[u0235 | 00:19:11.940-00:19:18.549 | DM] You don't know anything about Minarith, except that he was a peronar.\n"
+    },
+    "u0537": {
+      "before": "[u0537 | 00:43:24.440-00:43:26.720 | Delwath] The elf, human friend, {{Paranor}}.\n",
+      "after": "[u0537 | 00:43:24.440-00:43:26.720 | Delwath] The elf, human friend, peronar.\n"
+    },
+    "u0038": {
+      "before": "[u0038 | 00:05:59.850-00:06:16.130 | DM] and if you were to find information about them anywhere, it would also likely be the docks, and finally Minarith {{Aparinar}}, an elf. But one of the elves that had lived for many years with humans.\n",
+      "after": "[u0038 | 00:05:59.850-00:06:16.130 | DM] and if you were to find information about them anywhere, it would also likely be the docks, and finally Minarith a peronar, an elf. But one of the elves that had lived for many years with humans.\n"
+    },
+    "u1590": {
+      "before": "[u1590 | 02:08:12.180-02:08:18.630 | DM] Okay, Barazal return and say, the {{Paranar}}\n",
+      "after": "[u1590 | 02:08:12.180-02:08:18.630 | DM] Okay, Barazal return and say, the peronar\n"
+    },
+    "u1538": {
+      "before": "[u1538 | 02:04:42.870-02:04:47.539 | Riswynn] the {{Para, nor}}, or if we have to like, look somewhere else entirely.\n",
+      "after": "[u1538 | 02:04:42.870-02:04:47.539 | Riswynn] the peronar, or if we have to like, look somewhere else entirely.\n"
+    },
+    "u1696": {
+      "before": "[u1696 | 02:17:34.729-02:17:40.099 | DM] you can sense a vibe from Khemut, nothing from the {{paranor}}.\n",
+      "after": "[u1696 | 02:17:34.729-02:17:40.099 | DM] you can sense a vibe from Khemut, nothing from the peronar.\n"
+    },
+    "u1531": {
+      "before": "[u1531 | 02:04:07.360-02:04:12.140 | Riswynn] {{heroin work}} like I've sort of given up on Khemut because we have something.\n",
+      "after": "[u1531 | 02:04:07.360-02:04:12.140 | Riswynn] peronar like I've sort of given up on Khemut because we have something.\n"
+    },
+    "u1432": {
+      "before": "[u1432 | 01:56:52.600-01:56:59.770 | DM] There aren't really like Major Halfling, I mean, there's nothing like the Dunmari festivals, or like {{Paravala}}, or any of the\n",
+      "after": "[u1432 | 01:56:52.600-01:56:59.770 | DM] There aren't really like Major Halfling, I mean, there's nothing like the Dunmari festivals, or like Pyravela, or any of the\n"
+    },
+    "u1908": {
+      "before": "[u1908 | 02:32:17.680-02:32:21.320 | DM] Barazal told you to look here for clues about the {{paranor}}.\n",
+      "after": "[u1908 | 02:32:17.680-02:32:21.320 | DM] Barazal told you to look here for clues about the peronar.\n"
+    },
+    "u2102": {
+      "before": "[u2102 | 02:46:01.490-02:46:08.389 | DM] The University of the {{Astane}} also referred to as the {{Thelorian}}.\n",
+      "after": "[u2102 | 02:46:01.490-02:46:08.389 | DM] The University of the Aistanë also referred to as the Thalorian.\n"
+    },
+    "u2114": {
+      "before": "[u2114 | 02:47:03.490-02:47:07.540 | DM] to say, Find me the University of the {{Academy}}.\n",
+      "after": "[u2114 | 02:47:03.490-02:47:07.540 | DM] to say, Find me the University of the Aistanë.\n"
+    },
+    "u1481": {
+      "before": "[u1481 | 02:00:12.870-02:00:13.989 | DM] {{Or in our}}.\n",
+      "after": "[u1481 | 02:00:12.870-02:00:13.989 | DM] Peronar.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:43:35.733981+00:00",
+      "sha256": "f6649e1841a3bb75aae2a32e0dc504afd313033b5700b573c90fd19a608614bb"
+    }
+  ],
+  "runId": "20261028T044335707711Z-5a001930",
+  "createdAt": "2026-10-28T04:43:35.708031+00:00"
+}

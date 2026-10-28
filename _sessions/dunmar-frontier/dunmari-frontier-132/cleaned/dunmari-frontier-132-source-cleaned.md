@@ -1207,7 +1207,7 @@
 [u1207 | 01:29:43.740-01:29:45.470 | DM] There's a tree.
 [u1208 | 01:29:45.470-01:29:47.579 | Delwath] Giant tree, right?
 [u1209 | 01:29:47.830-01:29:49.149 | Seeker] There's a greenhouse.
-[u1210 | 01:29:49.150-01:29:53.249 | Delwath] There's a {{Shetanshi}} sanctuary, there's lots of things, right?
+[u1210 | 01:29:49.150-01:29:53.249 | Delwath] There's a tanshi sanctuary, there's lots of things, right?
 [u1211 | 01:29:53.250-01:29:54.620 | Seeker] Observatory.
 [u1212 | 01:29:55.080-01:29:55.950 | Delwath] open…
 [u1213 | 01:29:58.050-01:30:04.229 | DM] Yeah, you can have half cover, but it is definitely easier to shoot when you're below them than when you're above them.

@@ -791,7 +791,7 @@
 [u0791 | 01:04:56.460-01:04:59.250 | DM] And thank you this is appreciated.
 [u0792 | 01:05:00.840-01:05:03.570 | Wellby] yeah absolutely give give Callie my best.
 [u0793 | 01:05:07.080-01:05:10.380 | Riswynn] Which particular Tealeaf are you again, can I.
-[u0794 | 01:05:12.180-01:05:16.080 | DM] Sorry i'm not sure we've been introduced them I'm {{going to}}.
+[u0794 | 01:05:12.180-01:05:16.080 | DM] Sorry i'm not sure we've been introduced them I'm Garret.
 [u0795 | 01:05:16.560-01:05:18.330 | Riswynn] Garret my name is Riswynn.
 [u0796 | 01:05:18.960-01:05:19.860 | DM] {{RON and golem are}}.
 [u0797 | 01:05:20.970-01:05:27.180 | DM] Nice to meet you former prisoner of Agata Dustmother rescued by these fine folks.
@@ -1166,7 +1166,7 @@
 [u1166 | 01:35:35.790-01:35:41.880 | Riswynn] Take it as a project for many days. Seems like you should get some rest.
 [u1167 | 01:35:44.550-01:35:48.630 | Delwath] TIM just that this was a great war era letter right the death.
 [u1168 | 01:35:48.900-01:35:49.740 | DM] Was that OK.
-[u1169 | 01:35:49.770-01:35:52.740 | Delwath] So the the the new leader was {{shimano}}.
+[u1169 | 01:35:49.770-01:35:52.740 | Delwath] So the the the new leader was Cha'mutte.
 [u1170 | 01:35:53.610-01:35:54.690 | DM] yeah okay.
 [u1171 | 01:35:55.530-01:35:57.270 | Delwath] And Kharsan fell in the Great War.
 [u1172 | 01:35:57.840-01:35:58.170 | Unknown] yeah.
@@ -1251,7 +1251,7 @@
 [u1251 | 01:42:56.250-01:43:00.420 | Delwath] get information to us when we don't know exactly where we're going to be.
 [u1252 | 01:43:06.120-01:43:06.720 | DM] yeah.
 [u1253 | 01:43:08.490-01:43:09.240 | DM] I mean.
-[u1254 | 01:43:13.200-01:43:21.240 | Delwath] Is there, like a secret halfling telepathic telegram that the {{kenji}} never invented the postal system that they were supposed to so.
+[u1254 | 01:43:13.200-01:43:21.240 | Delwath] Is there, like a secret halfling telepathic telegram that the kenku never invented the postal system that they were supposed to so.
 [u1255 | 01:43:23.430-01:43:26.580 | DM] No, but like if you leave I mean you could leave.
 [u1256 | 01:43:28.230-01:43:31.470 | DM] word with people in Darba like, then it would.
 [u1257 | 01:43:32.970-01:43:50.940 | DM] It wouldn't wouldn't be magical there's nothing like magical halflings do, but they do tend to keep in touch So if you, you know if, like you, encounter the Tealeafs there, whatever you say we're going here they'll know some halfling, they can send word on to in Chardon or something.
@@ -2137,7 +2137,7 @@
 [u2137 | 03:03:29.460-03:03:32.310 | Delwath] yeah so this could be a fool's errand going to Darba, but I mean.
 [u2138 | 03:03:33.660-03:03:35.250 | Delwath] Why do we even think the cloak is in.
 [u2139 | 03:03:36.360-03:03:39.150 | Delwath] that the Chardonian guy went to that's all we really know.
-[u2140 | 03:03:39.180-03:03:40.920 | DM] you're following the {{afternoon}} guy.
+[u2140 | 03:03:39.180-03:03:40.920 | DM] you're following the Chardonian guy.
 [u2141 | 03:03:41.070-03:03:44.430 | Delwath] The Chardonian guy went to Darba he got this letter, and he went to Darba.
 [u2142 | 03:03:46.500-03:03:50.700 | Kenzo] Well, we were doing that we were going to Darba because we're like oh it's also on the way to go to Chardon.
 [u2143 | 03:03:50.910-03:03:57.450 | Kenzo] Right now it's also on the way to the magic the magic right, you know what called.

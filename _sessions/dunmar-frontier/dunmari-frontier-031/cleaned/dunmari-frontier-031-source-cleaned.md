@@ -917,7 +917,7 @@
 [u0917 | 01:09:53.190-01:09:53.850 | Drikod] damn right.
 [u0918 | 01:09:54.570-01:10:02.910 | Wellby] To say that as the arrow goes directly through the chest of the first orc and yeah impacts without damage, the orc directly behind it.
 [u0919 | 01:10:03.300-01:10:12.810 | DM] yeah totally ah Garret he's like holding the bleeding wound on his shoulder looks up at you like wow you're pretty good.
-[u0920 | 01:10:14.460-01:10:19.110 | DM] Ah, but now this {{shadow}} is gonna is gonna run forward.
+[u0920 | 01:10:14.460-01:10:19.110 | DM] Ah, but now this shadow is gonna is gonna run forward.
 [u0921 | 01:10:20.400-01:10:21.240 | DM] And it is going.
 [u0922 | 01:10:21.300-01:10:24.120 | DM] what's {{moving this this hour}}.
 [u0923 | 01:10:26.940-01:10:27.510 | DM] run.
@@ -1028,7 +1028,7 @@
 [u1028 | 01:17:17.400-01:17:20.430 | DM] That and would take a few steps over to line it up.
 [u1029 | 01:17:20.850-01:17:22.410 | Seeker] yeah sure sure sure sure.
 [u1030 | 01:17:23.100-01:17:23.700 | Wellby] that's awesome.
-[u1031 | 01:17:24.540-01:17:28.410 | DM] So now it hits this other orc {{shout out}}.
+[u1031 | 01:17:24.540-01:17:28.410 | DM] So now it hits this other orc shadow.
 [u1032 | 01:17:29.730-01:17:30.660 | DM] {{For alpha}} save.
 [u1033 | 01:17:34.440-01:17:36.840 | DM] But it doesn't do half damage on a failure right.
 [u1034 | 01:17:37.320-01:17:43.650 | Delwath] No, no, no, no, it catapult the nice thing about catapult is, if you miss it goes to the next guy.
@@ -2013,7 +2013,7 @@
 [u2013 | 02:17:48.180-02:17:49.920 | Seeker] It could be more that could be more.
 [u2014 | 02:17:50.580-02:17:53.700 | Delwath] It is not far where we cached food and water.
 [u2015 | 02:17:54.600-02:17:55.890 | DM] that's about 10 miles.
-[u2016 | 02:17:57.570-02:18:03.630 | Drikod] Do we fortify this location and wait for the {{stars}} to come or we've out concerned or worried.
+[u2016 | 02:17:57.570-02:18:03.630 | Drikod] Do we fortify this location and wait for the centaurs to come or we've out concerned or worried.
 [u2017 | 02:18:04.200-02:18:05.100 | Kenzo] i'm not concerned.
 [u2018 | 02:18:05.430-02:18:05.760 | Delwath] Now.
 [u2019 | 02:18:06.060-02:18:13.380 | Kenzo] I feel like we get a good night's sleep get a long rest I think we can take you can take anything {{without all that}} will come meet us, but we all travel together.
@@ -2054,7 +2054,7 @@
 [u2054 | 02:21:28.110-02:21:28.560 | Kenzo] Yes.
 [u2055 | 02:21:28.620-02:21:29.880 | Seeker] I think it should go to Karawa.
 [u2056 | 02:21:30.060-02:21:34.770 | Kenzo] yeah we return to Karawa, {{have it up and hayden the rebuilt}}, I mean that's just decimated.
-[u2057 | 02:21:35.430-02:21:47.730 | Kenzo] So, but I agree with you {{Sasha}} temporarily hide it in Bas Udda and then come back and get it after we've dealt with the mirror and you know restored our Chair, you know restored the people, etc.
+[u2057 | 02:21:35.430-02:21:47.730 | Kenzo] So, but I agree with you Schwartz temporarily hide it in Bas Udda and then come back and get it after we've dealt with the mirror and you know restored our Chair, you know restored the people, etc.
 [u2058 | 02:21:51.180-02:21:55.650 | Delwath] I will say taking enough loose coin to.
 [u2059 | 02:21:56.670-02:22:00.840 | Delwath] make our way safely to Tokra and beyond may be worth it worthwhile.
 [u2060 | 02:22:01.170-02:22:02.910 | Delwath] agree but that's a small portion.
@@ -2552,7 +2552,7 @@
 [u2552 | 02:57:24.990-02:57:31.140 | DM] know that so so so the treasure like your impression from looking over the treasure is.
 [u2553 | 02:57:33.180-02:57:35.280 | DM] This is a mix of.
 [u2554 | 02:57:36.360-02:57:50.010 | DM] Like some of it is you know exotic right, for you know from from Chardon or beyond but like at least half of it is clearly either Dunmari or or.
-[u2555 | 02:57:51.180-02:58:06.240 | DM] Dwarven in make particularly that {{you've wanted towards}} it, so the so like where {{Richmond}} is from not where Seeker’s from so the you know the clockwork contraptions that the tea kettle actually dwarven make um.
+[u2555 | 02:57:51.180-02:58:06.240 | DM] Dwarven in make particularly that Yuvanti dwarves it, so the so like where Riswynn is from not where Seeker’s from so the you know the clockwork contraptions that the tea kettle actually dwarven make um.
 [u2556 | 02:58:08.850-02:58:10.320 | Delwath] How much of this was payment.
 [u2557 | 02:58:11.430-02:58:15.270 | DM] Well, payment or treasure, you have no idea.
 [u2558 | 02:58:16.500-02:58:16.830 | DM] um.
@@ -2675,7 +2675,7 @@
 [u2675 | 03:11:17.430-03:11:27.840 | DM] But as you're spending three nights on the road you'll have three more shots at identifying something yeah so while we're waiting for Schwartz to get back what three things else, do you want to identify.
 [u2676 | 03:11:29.220-03:11:31.170 | Delwath] I think we should identify.
 [u2677 | 03:11:32.400-03:11:33.150 | Delwath] The long sword.
-[u2678 | 03:11:37.080-03:11:46.500 | Seeker] sword is there to attract the attention of people interested in swords that's why I think something like the {{comparable}} or the candle or.
+[u2678 | 03:11:37.080-03:11:46.500 | Seeker] sword is there to attract the attention of people interested in swords that's why I think something like the copper bowl or the candle or.
 [u2679 | 03:11:47.160-03:11:48.240 | DM] Or you can do three.
 [u2680 | 03:11:48.480-03:11:50.610 | Delwath] Day three or alternatively.
 [u2681 | 03:11:50.850-03:11:54.660 | Delwath] We still haven’t identified the two rings that she had on her person.

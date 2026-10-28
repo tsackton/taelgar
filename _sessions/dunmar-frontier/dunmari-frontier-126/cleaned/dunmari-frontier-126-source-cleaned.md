@@ -1275,7 +1275,7 @@
 [u1275 | 01:57:56.160-01:57:59.609 | Wellby] Alright. I mean, that's good information.
 [u1276 | 01:58:01.290-01:58:06.380 | Wellby] Wellby is like starting to appreciate this guy despite himself.
 [u1277 | 01:58:09.760-01:58:13.809 | Wellby] Have we ever met rulers without like serious issues? No.
-[u1278 | 01:58:15.700-01:58:19.330 | DM] Well, I don't know. {{Sarah}}, I guess, had some issues.
+[u1278 | 01:58:15.700-01:58:19.330 | DM] Well, I don't know. Sura, I guess, had some issues.
 [u1279 | 01:58:22.320-01:58:22.850 | Wellby] Yeah.
 [u1280 | 01:58:23.262-01:58:25.740 | DM] You haven't met that many rulers.
 [u1281 | 01:58:26.040-01:58:31.159 | DM] Well, the King of the King of the Orcs didn't have any issues. He was pretty. He was a pretty good guy.
@@ -1688,7 +1688,7 @@
 [u1688 | 02:37:12.120-02:37:16.430 | Delwath] Yeah. I wonder if he wants any of our like cool artifacts that we don't have any good use for.
 [u1689 | 02:37:16.430-02:37:22.159 | Wellby] I think it'd be a really good thing to give him some like ancient art.
 [u1690 | 02:37:22.860-02:37:26.020 | Delwath] Yeah, like, like, you know, I'll mention
-[u1691 | 02:37:26.360-02:37:31.059 | Delwath] {{how may}} I'll tell them about the {{circular}}, actually, why not? We'll tell them everything we know. I'll tell them what we know about.
+[u1691 | 02:37:26.360-02:37:31.059 | Delwath] {{how may}} I'll tell them about the Circular Island, actually, why not? We'll tell them everything we know. I'll tell them what we know about.
 [u1692 | 02:37:31.060-02:37:32.019 | Kenzo] What? What the fuck.
 [u1693 | 02:37:32.020-02:37:33.329 | Wellby] No, no, no, no!
 [u1694 | 02:37:33.330-02:37:34.019 | Wellby] The second one.

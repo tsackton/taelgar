@@ -1597,7 +1597,7 @@
 [u1597 | 01:42:21.900-01:42:22.670 | Seeker] I'll take it.
 [u1598 | 01:42:23.340-01:42:25.210 | Wellby] Probably not Seeker. I was gonna say.
 [u1599 | 01:42:25.951-01:42:29.528 | Delwath] I was thinking I was thinking, maybe
-[u1600 | 01:42:30.040-01:42:32.830 | Wellby] You right? Huh? {{Dylan}}? Yeah, of course.
+[u1600 | 01:42:30.040-01:42:32.830 | Wellby] You right? Huh? Delwath? Yeah, of course.
 [u1601 | 01:42:33.070-01:42:34.330 | Delwath] I was. Gonna say, Riswynn.
 [u1602 | 01:42:35.870-01:42:37.699 | Seeker] Wow! Alright! Alright!
 [u1603 | 01:42:39.220-01:42:43.519 | Kenzo] I think I think we've got a busy schedule I think we've got.
@@ -2847,7 +2847,7 @@
 [u2847 | 03:13:29.330-03:13:32.160 | Kenzo] I don't think so. There, let's bring the chalyte knight. It'll be useful.
 [u2848 | 03:13:33.760-03:13:36.120 | DM] Love the girl, or I could go wrong.
 [u2849 | 03:13:39.100-03:13:40.630 | DM] The Riswynn
-[u2850 | 03:13:41.740-03:13:49.858 | DM] Blazing with the divine light of the {{barzel}} driving undead before her as she leads you forward
+[u2850 | 03:13:41.740-03:13:49.858 | DM] Blazing with the divine light of the Bahrâzel driving undead before her as she leads you forward
 [u2851 | 03:13:50.990-03:13:54.358 | DM] Through the haunted streets of Drankor.
 [u2852 | 03:13:55.380-03:13:59.361 | DM] 20 min pass 30 min. As you begin to climb.
 [u2853 | 03:13:59.860-03:14:03.520 | DM] This rise roughly here.

@@ -1797,7 +1797,7 @@
 [u1797 | 01:54:03.150-01:54:05.389 | Seeker] oops! I'm trying to move my token
 [u1798 | 01:54:06.190-01:54:09.870 | Seeker] like here, and like up even closer to the ceiling.
 [u1799 | 01:54:10.030-01:54:12.080 | Seeker] you know, 30, 35 feet.
-[u1800 | 01:54:12.170-01:54:15.969 | Seeker] and cast {{rune of psychic destruction}}.
+[u1800 | 01:54:12.170-01:54:15.969 | Seeker] and cast Rune of Psychic Disruption.
 [u1801 | 01:54:16.570-01:54:17.450 | Kenzo] Hmm.
 [u1802 | 01:54:17.920-01:54:20.270 | Seeker] On that guy.
 [u1803 | 01:54:20.270-01:54:21.640 | DM] This one right in front of you.
@@ -2461,7 +2461,7 @@
 [u2461 | 02:34:58.990-02:35:01.110 | Delwath] more like you who speak.
 [u2462 | 02:35:06.420-02:35:07.670 | DM] Well, there's
 [u2463 | 02:35:09.300-02:35:11.189 | DM] Blaze, of course, and
-[u2464 | 02:35:13.700-02:35:14.830 | DM] {{fire}}
+[u2464 | 02:35:13.700-02:35:14.830 | DM] Fire
 [u2465 | 02:35:17.650-02:35:19.080 | DM] Slither, and
 [u2466 | 02:35:21.500-02:35:24.959 | DM] all of the people who live in the mangroves and
 [u2467 | 02:35:25.820-02:35:27.210 | DM] Canopy

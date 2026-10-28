@@ -8,7 +8,7 @@
 [u0008 | 00:00:33.900-00:00:35.370 | DM] Okay, so.
 [u0009 | 00:00:36.840-00:00:43.110 | DM] As the afternoon sun begins to sink towards the horizon, more than a week after leaving Karawa with.
 [u0010 | 00:00:45.000-00:00:50.340 | DM] All your worldly possessions and Garret Tealeaf, the halfling you had rescued from Agata.
-[u0011 | 00:00:51.570-00:00:56.700 | DM] saying goodbye to {{record}} on the road, as he turned North {{that is mountains}}.
+[u0011 | 00:00:51.570-00:00:56.700 | DM] saying goodbye to Drikod on the road, as he turned North {{that is mountains}}.
 [u0012 | 00:00:58.590-00:01:03.600 | DM] And traveling for 11 days across the plains you've now finally arrived in Tokra.
 [u0013 | 00:01:05.100-00:01:09.390 | DM] At the monastery of the Lakan Mystai that Kenzo called home for several years.
 [u0014 | 00:01:11.280-00:01:20.730 | DM] monastery itself is set on a hill a few miles south of Tokra along the River Hara, which is at this time of year slow and sluggish waiting for the rains to come.
@@ -16,7 +16,7 @@
 [u0016 | 00:01:37.950-00:01:40.860 | DM] Although it has been damaged and repaired many times since then.
 [u0017 | 00:01:42.090-00:01:47.550 | DM] Much of the city is hidden behind the solid thick walls of stone.
 [u0018 | 00:01:49.410-00:02:01.530 | DM] You could see as you pass three large buildings that dominate the skyline the Dome of a large temple that rises in the Center of town, probably the main temple of the five siblings in Tokra.
-[u0019 | 00:02:02.730-00:02:08.280 | DM] The temple to which you have a letter of introduction to the head priest there from {{Ken dress}} should you.
+[u0019 | 00:02:02.730-00:02:08.280 | DM] The temple to which you have a letter of introduction to the head priest there from Candrosa should you.
 [u0020 | 00:02:09.300-00:02:11.010 | DM] wish to journey there and ask.
 [u0021 | 00:02:12.150-00:02:19.200 | DM] For favors or anything and it's also the temple here is also the Center of civil administration for the city.
 [u0022 | 00:02:21.060-00:02:23.550 | DM] near the temple two other buildings both.
@@ -31,7 +31,7 @@
 [u0031 | 00:03:17.040-00:03:24.090 | DM] With the with the River very low in the late summer before the summer rains.
 [u0032 | 00:03:25.650-00:03:29.940 | DM] Beyond the fields of summer season crops await the harvest of the monsoon.
 [u0033 | 00:03:31.620-00:03:41.880 | DM] camped on the plains, mostly to the north of the city, a small Dunmari army perhaps 500 strong rows of tents and horses stretching out from the walls.
-[u0034 | 00:03:43.590-00:03:56.610 | DM] As you pass the walls of the city Wellby turned West with Garret, following the outer walls, the city to take him to the Red Lily halfling inn where Garret knows the owners {{Lillian}} and Wes Strongbones.
+[u0034 | 00:03:43.590-00:03:56.610 | DM] As you pass the walls of the city Wellby turned West with Garret, following the outer walls, the city to take him to the Red Lily halfling inn where Garret knows the owners Lily and Wes Strongbones.
 [u0035 | 00:03:58.380-00:04:00.480 | DM] The rest of you turned south to the monastery.
 [u0036 | 00:04:02.100-00:04:06.150 | DM] You rode up the hill approaching the monastery.
 [u0037 | 00:04:07.560-00:04:17.940 | DM] passing through the outer gates and reaching the large open courtyard that mark the entrance to the monastery proper the stables and.
@@ -154,30 +154,30 @@
 [u0154 | 00:14:20.820-00:14:21.300 | Unknown] Ah.
 [u0155 | 00:14:22.560-00:14:25.980 | DM] This was, like the like sort of fancy our travelers' inn.
 [u0156 | 00:14:26.190-00:14:27.720 | Kenzo] capital in whatever it is.
-[u0157 | 00:14:27.780-00:14:28.650 | DM] yeah {{Karen}}.
-[u0158 | 00:14:29.130-00:14:33.420 | Kenzo] {{Karen's}} we'll be establishing a presence in {{Karen's}}.
+[u0157 | 00:14:27.780-00:14:28.650 | DM] yeah Kirian's.
+[u0158 | 00:14:29.130-00:14:33.420 | Kenzo] Kirian's we'll be establishing a presence in Kirian's.
 [u0159 | 00:14:34.470-00:14:35.220 | Kenzo] So.
 [u0160 | 00:14:36.330-00:14:38.580 | Kenzo] So one actually if you know.
 [u0161 | 00:14:40.260-00:14:42.450 | Kenzo] was our connection our connection to that was through.
 [u0162 | 00:14:43.680-00:14:44.100 | Kenzo] Through.
 [u0163 | 00:14:46.710-00:14:48.690 | Kenzo] How do we know to go do we know somebody you.
-[u0164 | 00:14:49.590-00:14:52.740 | DM] know so you had asked {{a crumb}}.
+[u0164 | 00:14:49.590-00:14:52.740 | DM] know so you had asked Ikram.
 [u0165 | 00:14:52.770-00:14:57.180 | DM] Before you left Karawa where to stay and he was there's like two places there's.
 [u0166 | 00:14:57.210-00:14:58.770 | DM] Like there's a.
 [u0167 | 00:14:58.920-00:15:02.760 | DM] Dunmari like caravanserai outside of the walls on the West side.
 [u0168 | 00:15:02.820-00:15:03.960 | DM] Right and then there's the.
-[u0169 | 00:15:06.690-00:15:08.400 | Kenzo] But, but {{chrome}} knew a guy there right.
+[u0169 | 00:15:06.690-00:15:08.400 | Kenzo] But, but Ikram knew a guy there right.
 [u0170 | 00:15:08.790-00:15:09.750 | Delwath] At the other place.
-[u0171 | 00:15:10.140-00:15:12.510 | DM] Knew a guy at {{Dr shawna}} but the right that.
+[u0171 | 00:15:10.140-00:15:12.510 | DM] Knew a guy at Darshana's but the right that.
 [u0172 | 00:15:14.040-00:15:15.810 | Delwath] We thought would be a little out of character to be.
 [u0173 | 00:15:15.810-00:15:17.220 | Delwath] staying at the Dunmari.
 [u0174 | 00:15:18.750-00:15:19.440 | Delwath] place, they would.
 [u0175 | 00:15:20.760-00:15:22.470 | Delwath] raise more questions right like why or.
 [u0176 | 00:15:22.500-00:15:23.040 | Delwath] Why they think.
 [u0177 | 00:15:23.100-00:15:34.080 | Kenzo] they're right right so so Rishi we aim to stay there, or establish a presence there um if you know anybody that inn.
-[u0178 | 00:15:35.910-00:15:42.480 | DM] At {{Karen's}} I don't travel to town hardly at all at my.
+[u0178 | 00:15:35.910-00:15:42.480 | DM] At Kirian's I don't travel to town hardly at all at my.
 [u0179 | 00:15:42.480-00:15:51.960 | Kenzo] age, I know I know it was it's worth asking, but on but that's anyways that's our plan so we'll let it be known um.
-[u0180 | 00:15:53.010-00:16:06.750 | Kenzo] You know, to to any broader presence in Tokra that that's where it will be, but we would prefer to stay here, this will, this will be our true base, where we where we actually sleep and rest and {{Karen's}} will be a you know.
+[u0180 | 00:15:53.010-00:16:06.750 | Kenzo] You know, to to any broader presence in Tokra that that's where it will be, but we would prefer to stay here, this will, this will be our true base, where we where we actually sleep and rest and Kirian's will be a you know.
 [u0181 | 00:16:09.960-00:16:13.770 | Kenzo] The place where others can find {{that 72% more to}}.
 [u0182 | 00:16:16.890-00:16:17.760 | DM] Fair enough.
 [u0183 | 00:16:23.340-00:16:24.540 | DM] yeah I mean.
@@ -199,7 +199,7 @@
 [u0199 | 00:17:02.910-00:17:03.900 | Delwath] And then perhaps.
 [u0200 | 00:17:06.180-00:17:07.500 | Delwath] establish our.
 [u0201 | 00:17:08.760-00:17:09.000 | Kenzo] yeah.
-[u0202 | 00:17:09.030-00:17:11.520 | Delwath] cover at {{Karen's}} tonight I would.
+[u0202 | 00:17:09.030-00:17:11.520 | Delwath] cover at Kirian's tonight I would.
 [u0203 | 00:17:12.330-00:17:12.840 | Kenzo] I agree.
 [u0204 | 00:17:13.440-00:17:15.630 | Delwath] like to hear the talk of the town, I think.
 [u0205 | 00:17:16.140-00:17:19.200 | Delwath] yeah showing up at the common room and.
@@ -461,7 +461,7 @@
 [u0461 | 00:38:08.820-00:38:10.170 | Kenzo] Money now Tim what's going on here.
 [u0462 | 00:38:10.530-00:38:11.850 | Seeker] Tokra's getting expensive all.
 [u0463 | 00:38:12.420-00:38:13.710 | DM] been living off.
-[u0464 | 00:38:13.740-00:38:16.320 | DM] {{Kendra's}} dime for like months.
+[u0464 | 00:38:13.740-00:38:16.320 | DM] Candrosa's dime for like months.
 [u0465 | 00:38:17.580-00:38:25.080 | DM] When you got back from your very first adventure, he was like stay for free like we want to go you've been so great.
 [u0466 | 00:38:25.830-00:38:29.130 | Kenzo] Oh, but maybe when I go there, they'll let us stay for free too their one.
 [u0467 | 00:38:29.430-00:38:31.230 | DM] at the inn unlikely.
@@ -808,12 +808,12 @@
 [u0808 | 01:08:11.460-01:08:12.480 | DM] archives.
 [u0809 | 01:08:13.650-01:08:15.780 | DM] would be Ardan the chief archivist.
 [u0810 | 01:08:19.560-01:08:25.410 | DM] medic he is a dedicated of Laka I'm sure he'd be willing to speak with you on my request.
-[u0811 | 01:08:26.250-01:08:30.090 | Delwath] I mean, don't we have a letter from {{Kendra}} addressed to the high priest of Tokra saying.
+[u0811 | 01:08:26.250-01:08:30.090 | Delwath] I mean, don't we have a letter from Candrosa addressed to the high priest of Tokra saying.
 [u0812 | 01:08:30.540-01:08:31.650 | DM] You do, yes, you do.
 [u0813 | 01:08:32.130-01:08:34.080 | Delwath] do everything that these people ask.
 [u0814 | 01:08:34.440-01:08:36.450 | Delwath] Because you're awesome okay.
 [u0815 | 01:08:37.620-01:08:42.630 | Delwath] And we had some reason to believe that would be mildly somewhat effective right like {{interests and no Sir}} or something like that.
-[u0816 | 01:08:43.230-01:08:46.380 | DM] I mean yeah {{Kendra}} has {{the notes}} are big.
+[u0816 | 01:08:43.230-01:08:46.380 | DM] I mean yeah Candrosa has {{the notes}} are big.
 [u0817 | 01:08:46.410-01:08:46.800 | Delwath] I mean it's.
 [u0818 | 01:08:47.460-01:08:50.940 | DM] it's not like I could be writing a letter just to.
 [u0819 | 01:08:51.480-01:08:54.570 | Delwath] Dave Schwartz saying give this to Joe Biden I'll do whatever you.
@@ -849,7 +849,7 @@
 [u0849 | 01:11:09.210-01:11:10.710 | DM] magical forces that.
 [u0850 | 01:11:12.330-01:11:14.220 | DM] supports Chardonian legions.
 [u0851 | 01:11:15.900-01:11:18.540 | DM] Maybe 10 or 15 of them at most.
-[u0852 | 01:11:19.650-01:11:22.890 | DM] I gather that {{Karnas}} had.
+[u0852 | 01:11:19.650-01:11:22.890 | DM] I gather that Karnas had.
 [u0853 | 01:11:23.940-01:11:38.880 | DM] sent some letter asking for help, and there was some concern about what magical dangers could come off the blasted plains in the absence of defenses and so Chardon sent a few wizards to watch our back.
 [u0854 | 01:11:42.360-01:11:44.550 | Kenzo] right and it {{wouldn't have no reason to do the archives, with a}}.
 [u0855 | 01:11:49.500-01:11:51.420 | DM] That is a theory, I have not heard.
@@ -1281,7 +1281,7 @@
 [u1281 | 01:47:51.360-01:47:52.950 | DM] changeable and it's not.
 [u1282 | 01:47:55.620-01:47:57.240 | DM] In contrast to.
 [u1283 | 01:48:01.050-01:48:05.340 | DM] In contrast to the you know the the realm of of.
-[u1284 | 01:48:06.510-01:48:10.800 | DM] {{All the North America}}, where the land is fixed here the.
+[u1284 | 01:48:06.510-01:48:10.800 | DM] Aldanor and Elmerca, where the land is fixed here the.
 [u1285 | 01:48:12.120-01:48:15.240 | DM] The wild shift every time you travel there.
 [u1286 | 01:48:17.790-01:48:21.690 | DM] And then it ends it's about to describe how it's connected to other planes.
 [u1287 | 01:48:21.990-01:48:22.950 | Unknown] Yet so.
@@ -1350,7 +1350,7 @@
 [u1350 | 01:53:53.400-01:53:55.920 | DM] or at least only loosely connected to divinity.
 [u1351 | 01:53:57.120-01:54:01.680 | DM] And it it sort of places this plane in a hierarchy between the.
 [u1352 | 01:54:04.440-01:54:14.370 | DM] Beneath in this hierarchy sort of beneath less important less something, then the the realms of the firstborn.
-[u1353 | 01:54:15.630-01:54:17.520 | DM] {{America and all the north}} that are.
+[u1353 | 01:54:15.630-01:54:17.520 | DM] Elmerca and Aldanor that are.
 [u1354 | 01:54:18.990-01:54:20.100 | DM] fixed and.
 [u1355 | 01:54:23.130-01:54:24.300 | DM] And and.
 [u1356 | 01:54:26.010-01:54:28.080 | DM] Not not this sort of you know.
@@ -1376,7 +1376,7 @@
 [u1376 | 01:55:57.210-01:55:59.880 | DM] But, but here, there seems to be some doubt.
 [u1377 | 01:56:00.930-01:56:10.230 | DM] In its placement and some uncertainty as to whether it is in fact truly this or whether it is somehow connected to.
 [u1378 | 01:56:12.210-01:56:14.400 | DM] The embodied Avatar of.
-[u1379 | 01:56:15.420-01:56:17.040 | DM] {{Genetic}} the mad one.
+[u1379 | 01:56:15.420-01:56:17.040 | DM] Jinnik the mad one.
 [u1380 | 01:56:19.980-01:56:20.970 | Delwath] Anybody know that that is.
 [u1381 | 01:56:22.620-01:56:27.720 | DM] can make a religion check if anybody's proficient in religion, if any of you are proficient in religion.
 [u1382 | 01:56:29.370-01:56:30.030 | Seeker] A.
@@ -1390,7 +1390,7 @@
 [u1390 | 01:56:53.250-01:57:00.210 | DM] sky but Seeker you seem to you do remember coming across this name once.
 [u1391 | 01:57:02.280-01:57:09.480 | DM] But it wasn't in the context of divinity it was in the context of a book of curses.
 [u1392 | 01:57:12.210-01:57:13.350 | DM] And it was.
-[u1393 | 01:57:15.960-01:57:33.300 | DM] It was a theory that the curse of lycanthropy originated from {{generic}} the mad one who is described as some sort of embodied god of some kind, but this book wasn't really about God, so it didn't elaborate.
+[u1393 | 01:57:15.960-01:57:33.300 | DM] It was a theory that the curse of lycanthropy originated from Jinnik the mad one who is described as some sort of embodied god of some kind, but this book wasn't really about God, so it didn't elaborate.
 [u1394 | 01:57:36.330-01:57:38.760 | Delwath] I think we should avoid going to this plane.
 [u1395 | 01:57:40.350-01:57:43.140 | Seeker] it's werewolves, in other words, oh man.
 [u1396 | 01:57:43.380-01:57:43.890 | Unknown] Yes.
@@ -2053,7 +2053,7 @@
 [u2053 | 03:01:27.720-03:01:28.680 | Wellby] I have advantage right now.
 [u2054 | 03:01:29.580-03:01:30.870 | DM] You have advantage already yep.
 [u2055 | 03:01:32.250-03:01:33.060 | Wellby] So all.
-[u2056 | 03:01:34.290-03:01:39.420 | Wellby] I could you know add one charge of the flaming {{full strength}}.
+[u2056 | 03:01:34.290-03:01:39.420 | Wellby] I could you know add one charge of the flaming bowstring.
 [u2057 | 03:01:39.990-03:01:40.290 | DM] I got.
 [u2058 | 03:01:43.170-03:01:43.980 | DM] That hits.
 [u2059 | 03:01:45.330-03:01:46.260 | Wellby] So.

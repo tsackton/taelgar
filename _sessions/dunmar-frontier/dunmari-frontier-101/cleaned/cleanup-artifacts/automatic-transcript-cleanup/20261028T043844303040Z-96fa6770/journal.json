@@ -1,0 +1,415 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-101",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-source-cleaned.md",
+  "beforeSha256": "7b2781ec861ee63e4cea3938303a8e5fd3c2208b819c3d972c889669be4a7d1b",
+  "afterSha256": "8ed7e08c50e8c732bb4eb38807e95a504f81adaf0529e280f7eb6d22b4bf61ca",
+  "markersBefore": 46,
+  "groups": [
+    {
+      "id": "dates-and-elapsed-time",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Month, year, and elapsed-time discussion, including the fragment Wells before Months ago. Chronology and conversational corrections are outside this names-only pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u3962:m1",
+        "u3965:m1",
+        "u3966:m1",
+        "u3967:m1",
+        "u3968:m1",
+        "u3969:m1",
+        "u3971:m1",
+        "u3973:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u3962:m1": "{{June}}",
+        "u3965:m1": "{{End of May}}",
+        "u3966:m1": "{{1745}}",
+        "u3967:m1": "{{46}}",
+        "u3968:m1": "{{45}}",
+        "u3969:m1": "{{45}}",
+        "u3971:m1": "{{6 months ago}}",
+        "u3973:m1": "{{Wells}}"
+      }
+    },
+    {
+      "id": "delwath",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Wellby refers the surviving prisoner to the party member conducting the interrogation; the session configuration establishes Delwath, and the following response is his. Delaware has no competing contextual identity.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-session.yaml",
+          "sha256": "45bb48aa36dcf8e8e82e9a854c4e4441e47b1d674c0f268b84d2cd39180a7963"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 101 (DuFr).md",
+          "sha256": "efbfb27b7f08870ffd734bf00dc46997b75cf5ceba7c678f939c6cc9c4b3752d"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u3049:m1"
+      ],
+      "replacements": {
+        "u3049:m1": "Delwath"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "kill-target",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The escape plan makes Buruli a plausible intended target, but layer is not a clear complete rendering of that name and could be a fragment of longer ordinary wording. Context establishes the foe, not exactly what was said.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Buruli.md",
+          "sha256": "3f186237dcedbb5f3d8ab2df72231681e617e504a087100dbd3265cc62379e2e"
+        }
+      ],
+      "candidates": [
+        "Buruli"
+      ],
+      "markerIds": [
+        "u3467:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u3467:m1": "{{layer}}"
+      }
+    },
+    {
+      "id": "language-attempt",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Delwath is trying another spoken language after Common and Elvish fail. Sylvan and Abyssal are plausible readings, but the inspected language overview and earlier campaign record do not uniquely identify the complete marked form; retain it.",
+      "evidence": [
+        {
+          "path": "Background/Extra-Planar Language.md",
+          "sha256": "61a8316afc3a41f66346f6d92d8820a698c468cd64ead36afb8cb8b0fb7bdb45"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 13 (DuFr).md",
+          "sha256": "ec57e05042b960e9f9da7ba31a90bd6a9160a383c1903f162082dc589addf201"
+        }
+      ],
+      "candidates": [
+        "Sylvan",
+        "Abyssal"
+      ],
+      "markerIds": [
+        "u2962:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2962:m1": "{{a summon}}"
+      }
+    },
+    {
+      "id": "merfolk-bodies",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The search immediately follows combat with merfolk guards and continues with the separate word Bodies. Merfolk is the supported people-name behind merge; no surrounding wording or punctuation is reconstructed. Ordinary wording is possible but less consistent with the search targets.",
+      "evidence": [
+        {
+          "path": "Creatures/Species/Merfolk.md",
+          "sha256": "2444c0a29f9c8d1a467aa3db73a57998de190098668dd652f0aea9122463c329"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 101 (DuFr).md",
+          "sha256": "efbfb27b7f08870ffd734bf00dc46997b75cf5ceba7c678f939c6cc9c4b3752d"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2437:m1"
+      ],
+      "replacements": {
+        "u2437:m1": "merfolk"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "milo-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The dialogue concerns Milo and his recovered possessions, but the entire marked phrase includes unrecoverable ordinary wording. A name-only substitution would erase that wording or invent its boundaries.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 101 (DuFr).md",
+          "sha256": "efbfb27b7f08870ffd734bf00dc46997b75cf5ceba7c678f939c6cc9c4b3752d"
+        }
+      ],
+      "candidates": [
+        "Milo Thistlefoot"
+      ],
+      "markerIds": [
+        "u2653:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2653:m1": "{{20 miles, then}}"
+      }
+    },
+    {
+      "id": "ordinary-fragments",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "These fragments occur in portal-blocking tactics, a generic sailing-background explanation, and initiative setup interrupted by off-table chatter. The contextual readings concern ordinary wording rather than a supported proper name or named setting term.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0198:m1",
+        "u0232:m1",
+        "u0415:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0198:m1": "{{Breckenwald}}",
+        "u0232:m1": "{{staliner}}",
+        "u0415:m1": "{{Rosebery}}"
+      }
+    },
+    {
+      "id": "wellby-address",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Kenzo addresses the halfling-rescue discussion to the party halfling, who answers Yep and explains the crew, then discusses his telepathy. The participant configuration and session note establish Wellby. The sound alone is weak, but this specific responder and role strongly favor Wellby over an unattested Lonnie.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-101/cleaned/dunmari-frontier-101-session.yaml",
+          "sha256": "45bb48aa36dcf8e8e82e9a854c4e4441e47b1d674c0f268b84d2cd39180a7963"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 101 (DuFr).md",
+          "sha256": "efbfb27b7f08870ffd734bf00dc46997b75cf5ceba7c678f939c6cc9c4b3752d"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u3443:m1"
+      ],
+      "replacements": {
+        "u3443:m1": "Wellby"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "wording-and-mechanics",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary conversational or descriptive wording, combat and healing mechanics, movement, item-use explanations, and incomplete phrases. Repair would require reconstructing speech beyond an established name or setting term; retained unchanged.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0090:m1",
+        "u0108:m1",
+        "u0112:m1",
+        "u0201:m1",
+        "u0363:m1",
+        "u0485:m1",
+        "u0591:m1",
+        "u0866:m1",
+        "u1201:m1",
+        "u1418:m1",
+        "u1451:m1",
+        "u1809:m1",
+        "u1828:m1",
+        "u1930:m1",
+        "u1967:m1",
+        "u2142:m1",
+        "u2245:m1",
+        "u2971:m1",
+        "u2972:m1",
+        "u3539:m1",
+        "u3557:m1",
+        "u3636:m1",
+        "u3654:m1",
+        "u3728:m1",
+        "u3739:m1",
+        "u3894:m1",
+        "u3910:m1",
+        "u4032:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0090:m1": "{{outen}}",
+        "u0108:m1": "{{Where's an account?}}",
+        "u0112:m1": "{{why fill it}}",
+        "u0201:m1": "{{while it's done. The portal.}}",
+        "u0363:m1": "{{It'll run my battles.}}",
+        "u0485:m1": "{{You're accused}}",
+        "u0591:m1": "{{Eyes that I would create.}}",
+        "u0866:m1": "{{cancel platform}}",
+        "u1201:m1": "{{day}}",
+        "u1418:m1": "{{illness}}",
+        "u1451:m1": "{{note}}",
+        "u1809:m1": "{{Fantastic}}",
+        "u1828:m1": "{{8 and 10. Edit.}}",
+        "u1930:m1": "{{it up to. Jacob has the hard one}}",
+        "u1967:m1": "{{according to sports}}",
+        "u2142:m1": "{{held}}",
+        "u2245:m1": "{{I'm excellent}}",
+        "u2971:m1": "{{Getters}}",
+        "u2972:m1": "{{to get back to, else}}",
+        "u3539:m1": "{{start spring. So live}}",
+        "u3557:m1": "{{sorry we're in there}}",
+        "u3636:m1": "{{doesn't charge us}}",
+        "u3654:m1": "{{wrapped up}}",
+        "u3728:m1": "{{and great}}",
+        "u3739:m1": "{{select}}",
+        "u3894:m1": "{{What's all our speakers, though?}}",
+        "u3910:m1": "{{Goes to the Yale magic}}",
+        "u4032:m1": "{{before at midnight}}"
+      }
+    },
+    {
+      "id": "yuvanti",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The marked syllables closely match Yuvanti immediately before dwarven coins. The regional reference establishes the dwarven association and preferred spelling; Dunmari or ordinary wording fits the sound and adjacent dwarven qualifier less well.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Dunmar/Yuvanti Mountains.md",
+          "sha256": "4a2afce9eb157c0ac48df3c971e4ccb3cb84a1243ce1350b007f412f76f6fc3f"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Hoards/Merfolk Quest Treasure.md",
+          "sha256": "a8e2332fced0b718b4fa04dd6082616c1ae0def32b22d8dd7bb511eb1fbe3f93"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2645:m1"
+      ],
+      "replacements": {
+        "u2645:m1": "Yuvanti"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u2437:m1",
+      "uid": "u2437",
+      "ordinal": 1,
+      "lineNumber": 2437,
+      "start": 173,
+      "end": 182,
+      "before": "{{merge}}",
+      "span": "merge",
+      "line": "[u2437 | 02:09:39.610-02:09:48.009 | Delwath] And once I have detect magic. I wanna you know, search that search the top of the basically search through the guard post. The {{merge}}.",
+      "contextBefore": [
+        "[u2435 | 02:09:35.795-02:09:36.150 | Delwath] Out!",
+        "[u2436 | 02:09:37.430-02:09:39.065 | DM] You're detecting magic."
+      ],
+      "contextAfter": [
+        "[u2438 | 02:09:48.010-02:09:48.390 | DM] Okay.",
+        "[u2439 | 02:09:48.390-02:09:49.780 | Delwath] Bodies."
+      ],
+      "after": "merfolk",
+      "group": "merfolk-bodies",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2645:m1",
+      "uid": "u2645",
+      "ordinal": 1,
+      "lineNumber": 2645,
+      "start": 41,
+      "end": 57,
+      "before": "{{you want the}}",
+      "span": "you want the",
+      "line": "[u2645 | 02:22:42.100-02:22:44.660 | DM] {{you want the}} dwarven coins.",
+      "contextBefore": [
+        "[u2643 | 02:22:34.070-02:22:36.580 | DM] some just a handful like.",
+        "[u2644 | 02:22:37.440-02:22:41.800 | DM] you know, 30 or so, some Chardonian, a couple"
+      ],
+      "contextAfter": [
+        "[u2646 | 02:22:44.750-02:22:52.972 | DM] a few that are just utterly strange that are unrecognizable. Don't match with any human coin, or elven, or dwarven coin you've seen",
+        "[u2647 | 02:22:55.130-02:22:59.249 | DM] And then one of the guards also has a"
+      ],
+      "after": "Yuvanti",
+      "group": "yuvanti",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u3049:m1",
+      "uid": "u3049",
+      "ordinal": 1,
+      "lineNumber": 3049,
+      "start": 66,
+      "end": 78,
+      "before": "{{Delaware}}",
+      "span": "Delaware",
+      "line": "[u3049 | 02:46:58.100-02:46:59.370 | Wellby] We'll leave them for {{Delaware}}.",
+      "contextBefore": [
+        "[u3047 | 02:46:47.630-02:46:50.509 | DM] are you just leaving them tied up? What are you doing with this guy?",
+        "[u3048 | 02:46:55.660-02:46:56.909 | Riswynn] He's not gonna."
+      ],
+      "contextAfter": [
+        "[u3050 | 02:47:02.480-02:47:09.240 | DM] I mean, if what he's telling you is true, somebody's gonna show up through the portal in like 3 h, and it would be pretty obvious",
+        "[u3051 | 02:47:09.500-02:47:11.330 | DM] what happened, so"
+      ],
+      "after": "Delwath",
+      "group": "delwath",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u3443:m1",
+      "uid": "u3443",
+      "ordinal": 1,
+      "lineNumber": 3443,
+      "start": 58,
+      "end": 68,
+      "before": "{{Lonnie}}",
+      "span": "Lonnie",
+      "line": "[u3443 | 03:11:32.950-03:11:34.310 | Kenzo] you hear that {{Lonnie}}.",
+      "contextBefore": [
+        "[u3441 | 03:11:25.800-03:11:31.030 | DM] There are 8 halflings inside this bubble, close to the center of the bubble.",
+        "[u3442 | 03:11:31.180-03:11:32.490 | Kenzo] What"
+      ],
+      "contextAfter": [
+        "[u3444 | 03:11:35.060-03:11:35.750 | Wellby] Yep.",
+        "[u3445 | 03:11:36.370-03:11:37.470 | Kenzo] Is that unexpected."
+      ],
+      "after": "Wellby",
+      "group": "wellby-address",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u2437": {
+      "before": "[u2437 | 02:09:39.610-02:09:48.009 | Delwath] And once I have detect magic. I wanna you know, search that search the top of the basically search through the guard post. The {{merge}}.\n",
+      "after": "[u2437 | 02:09:39.610-02:09:48.009 | Delwath] And once I have detect magic. I wanna you know, search that search the top of the basically search through the guard post. The merfolk.\n"
+    },
+    "u3443": {
+      "before": "[u3443 | 03:11:32.950-03:11:34.310 | Kenzo] you hear that {{Lonnie}}.\n",
+      "after": "[u3443 | 03:11:32.950-03:11:34.310 | Kenzo] you hear that Wellby.\n"
+    },
+    "u3049": {
+      "before": "[u3049 | 02:46:58.100-02:46:59.370 | Wellby] We'll leave them for {{Delaware}}.\n",
+      "after": "[u3049 | 02:46:58.100-02:46:59.370 | Wellby] We'll leave them for Delwath.\n"
+    },
+    "u2645": {
+      "before": "[u2645 | 02:22:42.100-02:22:44.660 | DM] {{you want the}} dwarven coins.\n",
+      "after": "[u2645 | 02:22:42.100-02:22:44.660 | DM] Yuvanti dwarven coins.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:38:44.502052+00:00",
+      "sha256": "8ed7e08c50e8c732bb4eb38807e95a504f81adaf0529e280f7eb6d22b4bf61ca"
+    }
+  ],
+  "runId": "20261028T043844303040Z-96fa6770",
+  "createdAt": "2026-10-28T04:38:44.303348+00:00"
+}

@@ -83,7 +83,7 @@
 [u0083 | 00:09:22.460-00:09:28.029 | DM] extra bonus. Special rainbow bridge shoots out and teleports Riswynn to the
 [u0084 | 00:09:28.070-00:09:33.000 | Seeker] skyship without using a use of the Rainbow Bridge
 [u0085 | 00:09:33.350-00:09:42.279 | Delwath] and and hold on before we did. We is our plan to just fly the skyship undisguised in any fashion over the army.
-[u0086 | 00:09:42.560-00:10:02.570 | DM] No, you're like you're far enough away at the moment that you can discuss that as part of your plans. But Can we test the fly also before? Well, we're still a couple of days out. The fly is still possessed by. You've tested the fly since the goddess was trapped in the {{bay. Wall}}. I forgot we've {{done that rest}}.
+[u0086 | 00:09:42.560-00:10:02.570 | DM] No, you're like you're far enough away at the moment that you can discuss that as part of your plans. But Can we test the fly also before? Well, we're still a couple of days out. The fly is still possessed by. You've tested the fly since the goddess was trapped in the Feywild. I forgot we've {{done that rest}}.
 [u0087 | 00:10:05.690-00:10:08.439 | DM] Gotta go back and actually kill her at some point.
 [u0088 | 00:10:09.360-00:10:11.190 | Seeker] hmm!
 [u0089 | 00:10:12.570-00:10:13.460 | DM] So.
@@ -331,7 +331,7 @@
 [u0331 | 00:37:27.490-00:37:31.710 | Delwath] like don't die, invisibility is concentration.
 [u0332 | 00:37:31.980-00:37:35.009 | Delwath] It's easy enough to cast. There's no point in.
 [u0333 | 00:37:35.140-00:37:39.489 | Delwath] I plan on casting invisibility. But let's wait till we have a good use for it.
-[u0334 | 00:37:40.450-00:37:54.569 | Seeker] There's intimidation. We could like the Goodyear blimp style like we could write something using mold earth on the exterior of {{industry}} if there's something that would strike fear in the heart of Grash! But that is probably not a thing
+[u0334 | 00:37:40.450-00:37:54.569 | Seeker] There's intimidation. We could like the Goodyear blimp style like we could write something using mold earth on the exterior of Vindristjarna if there's something that would strike fear in the heart of Grash! But that is probably not a thing
 [u0335 | 00:37:56.190-00:38:03.639 | Riswynn] in the category of preparation. I was gonna cast cast Death Ward on Kenzo, so he can do all his massive, and lots of damage
 [u0336 | 00:38:04.790-00:38:06.510 | Riswynn] with less concern about.
 [u0337 | 00:38:06.560-00:38:21.950 | Kenzo] That's great, that's great. What can I, I, I can also revive you if you die so actually, Death Warding me is like, that's like one of the smartest things we could do. Actually, yes, wow, wow! That this just pivotally changed the entire outcome of what's gonna happen right now, actually
@@ -789,7 +789,7 @@
 [u0789 | 01:16:54.720-01:16:56.620 | Unknown] Let's just invite Grash over
 [u0790 | 01:16:57.900-01:16:58.720 | Seeker] broom.
 [u0791 | 01:16:59.400-01:17:01.420 | Delwath] You are party animal.
-[u0792 | 01:17:01.630-01:17:04.319 | Delwath] Okay? So, Tim, {{last thing of perception}}.
+[u0792 | 01:17:01.630-01:17:04.319 | Delwath] Okay? So, Tim, Blessing of Perception.
 [u0793 | 01:17:05.060-01:17:07.180 | Unknown] That lets me see invisible.
 [u0794 | 01:17:07.470-01:17:08.170 | DM] Yup.
 [u0795 | 01:17:08.610-01:17:10.409 | Delwath] I'm gonna look through the spyglass again.
@@ -1342,7 +1342,7 @@
 [u1342 | 02:01:26.780-02:01:30.590 | DM] you take 10, 26,
 [u1343 | 02:01:31.040-02:01:33.979 | DM] 32 points of cold damage.
 [u1344 | 02:01:34.040-02:01:35.940 | Delwath] 32. Ouch!
-[u1345 | 02:01:37.210-02:01:42.590 | Delwath] That's not good. Well, it doesn't barely hurts me. But that's okay. It takes away my {{armor box}}.
+[u1345 | 02:01:37.210-02:01:42.590 | Delwath] That's not good. Well, it doesn't barely hurts me. But that's okay. It takes away my Armor of Agathys.
 [u1346 | 02:01:44.680-02:01:45.870 | Delwath] Now I need to make.
 [u1347 | 02:01:47.370-02:01:52.379 | DM] and he had his turn. So he gets his reactions back. He is also going to swing
 [u1348 | 02:01:52.640-02:01:54.909 | Kenzo] with his glaive at you
@@ -2140,7 +2140,7 @@
 [u2140 | 03:13:29.510-03:13:35.100 | DM] Like all through the fight with Grash every every time it's like seemed indestructible.
 [u2141 | 03:13:36.750-03:13:40.030 | DM] And now, as you're celebrating this party
 [u2142 | 03:13:41.650-03:13:44.640 | DM] you see. about a week after
-[u2143 | 03:13:45.700-03:13:46.679 | Unknown] {{Rs day}}.
+[u2143 | 03:13:45.700-03:13:46.679 | Unknown] Arheste.
 [u2144 | 03:13:46.900-03:13:49.270 | Kenzo] Oh, yes, yes.
 [u2145 | 03:13:49.570-03:13:54.860 | DM] the the bud closes, and it begins to go to seed. Probably in another week there will be
 [u2146 | 03:13:55.170-03:14:00.069 | Kenzo] oh, shit! We're about to get an elven fucking giant ash tree on our ship.
@@ -2194,7 +2194,7 @@
 [u2194 | 03:18:48.920-03:18:51.930 | Seeker] risky whether it's risky. Because, yeah.
 [u2195 | 03:18:53.490-03:19:00.880 | Delwath] let's, I think we follow the Kenku path into the back way into Ursk, take, and then
 [u2196 | 03:19:00.960-03:19:06.990 | Delwath] possibly. obviously, we could Rainbow Bridge, I mean, we could Rainbow Bridge a hundred miles
-[u2197 | 03:19:07.290-03:19:13.819 | Delwath] away from the {{district}}, right? We just have to be able to see where we're going.
+[u2197 | 03:19:07.290-03:19:13.819 | Delwath] away from the Vindristjarna, right? We just have to be able to see where we're going.
 [u2198 | 03:19:16.870-03:19:22.800 | Delwath] what? What's in Ursk again
 [u2199 | 03:19:23.170-03:19:26.089 | Delwath] piece of Rai's hand piece of Rai's hand. We think
 [u2200 | 03:19:26.610-03:19:35.750 | Delwath] {{I still scry it first}} Jade Garden and then some jungle. Yeah.

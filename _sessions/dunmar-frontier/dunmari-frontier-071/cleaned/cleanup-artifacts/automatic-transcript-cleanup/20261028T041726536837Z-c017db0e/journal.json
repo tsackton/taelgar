@@ -1,0 +1,585 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-071",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-071/cleaned/dunmari-frontier-071-source-cleaned.md",
+  "beforeSha256": "d2cf84ab4a90b33ddc18f86f336d0facd6e9d3d602020b1e3c3c7086f14a79b5",
+  "afterSha256": "7912dfe8b1b91f73f90facbd2a3758378b9a346484cf4e258fff3738e5c5d72b",
+  "markersBefore": 99,
+  "groups": [
+    {
+      "id": "alador-title",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The reign named during Jorundr's travels is preserved in the collected story as Alador the Elf Friend; the imperial ruler list independently establishes the same name and title. The complete marked span is a damaged rendering of that proper name.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Collected Stories/Jorundr's Story.md",
+          "sha256": "626451776364f0df75c1403e586e60805f41c646ac9b2c64370ff67963f6520e"
+        },
+        {
+          "path": "History/History of the Drankorian Empire.md",
+          "sha256": "e43d4a29e8ebff6af9ca2aaa94db6001920d139fd93cf8351cf2ea569a23768d"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1275:m1"
+      ],
+      "replacements": {
+        "u1275:m1": "Alador the Elf Friend"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "darba-booksale",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The speakers recall the bookseller who bought the elven poetry book. Albus's reference note records that exact purchase in Darba, corroborated by this session's narrative.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Albus.md",
+          "sha256": "13056d291a1a8294ba9a4ccb97a19d780f506a7922d29e04298f407ae9d154db"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 71 (DuFr).md",
+          "sha256": "e599f7c459d74abe22cc7dd53305ac52459bffb2633acde7b2e65cb2715a8fbf"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0856:m1"
+      ],
+      "replacements": {
+        "u0856:m1": "Darba"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "drankor-apollyon-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The question may mention Drankor and Apollyon, but the marked span also contains unrecoverable ordinary wording. Resolving it would require reconstructing the question.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 71 (DuFr).md",
+          "sha256": "e599f7c459d74abe22cc7dd53305ac52459bffb2633acde7b2e65cb2715a8fbf"
+        }
+      ],
+      "candidates": [
+        "Drankor",
+        "Apollyon"
+      ],
+      "markerIds": [
+        "u2121:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2121:m1": "{{how to drink, or in a parl}}"
+      }
+    },
+    {
+      "id": "earlier-reign-fragment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "These consecutive fragments appear in a false start naming an earlier reign. Akaston and Helea are contextual possibilities, but neither complete marked span resolves securely to a proper name; retain both.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Drankorian Emperors/Akaston.md",
+          "sha256": "d09195fe1e7c28b935f4ac2bb7dda9cd3bdc991e9cf9bd2a494c8241765e2b5f"
+        },
+        {
+          "path": "History/History of the Drankorian Empire.md",
+          "sha256": "e43d4a29e8ebff6af9ca2aaa94db6001920d139fd93cf8351cf2ea569a23768d"
+        }
+      ],
+      "candidates": [
+        "Akaston",
+        "Helea"
+      ],
+      "markerIds": [
+        "u1267:m1",
+        "u1268:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1267:m1": "{{back}}",
+        "u1268:m1": "{{there's rain}}"
+      }
+    },
+    {
+      "id": "ghost-name-or-description",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Hralgar is the ghost's referent, but the marked word could be a damaged personal name or the ordinary adjective haggard. The context does not settle which wording was spoken.",
+      "evidence": [
+        {
+          "path": "People/Giants/Hralgar.md",
+          "sha256": "7a98c9ddc726d1787de8c6ba4de3e8d9a4788e73215ee315d6f280bbfec0c769"
+        }
+      ],
+      "candidates": [
+        "Hralgar",
+        "haggard"
+      ],
+      "markerIds": [
+        "u0603:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0603:m1": "{{hagard}}"
+      }
+    },
+    {
+      "id": "grash-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Grash is a plausible name inside this phrase, but the remaining words and the relation to a scepter cannot be resolved without reconstructing the whole utterance.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Grash.md",
+          "sha256": "3d3dbf893416d0350386dbfc2639bc2dcc2431bdfea18dffc0ae43db37d9c484"
+        }
+      ],
+      "candidates": [
+        "Grash"
+      ],
+      "markerIds": [
+        "u1129:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1129:m1": "{{tens of grass sector}}"
+      }
+    },
+    {
+      "id": "kassi-librarian",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The proposed contact is a woman at the Lakan Monastery library whom Riswynn has met. Kassi is its established librarian and fits this short ASR variant.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Kassi.md",
+          "sha256": "279eaf8a52bc0a512ca98be2b17562432e1f5802099f4e4bc255a18cbd5c59c4"
+        },
+        {
+          "path": "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Tokra/Lakan Monastery.md",
+          "sha256": "61a95665b4427a49e6434f06357f04bdbf9011fc94dcb637996e895fbf049064"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0965:m1"
+      ],
+      "replacements": {
+        "u0965:m1": "Kassi"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "outside-name-pass",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary conversation, combat and rules discussion, descriptive narration, or source-reading wording. No complete marked span in this group is a sufficiently identified name or setting term; repairing these would require general transcript reconstruction.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0015:m1",
+        "u0076:m1",
+        "u0076:m2",
+        "u0096:m1",
+        "u0099:m1",
+        "u0107:m1",
+        "u0124:m1",
+        "u0125:m1",
+        "u0132:m1",
+        "u0133:m1",
+        "u0171:m1",
+        "u0173:m1",
+        "u0210:m1",
+        "u0225:m1",
+        "u0242:m1",
+        "u0313:m1",
+        "u0352:m1",
+        "u0380:m1",
+        "u0400:m1",
+        "u0400:m2",
+        "u0400:m3",
+        "u0433:m1",
+        "u0468:m1",
+        "u0487:m1",
+        "u0492:m1",
+        "u0516:m1",
+        "u0549:m1",
+        "u0550:m1",
+        "u0557:m1",
+        "u0623:m1",
+        "u0653:m1",
+        "u0665:m1",
+        "u0670:m1",
+        "u0672:m1",
+        "u0691:m1",
+        "u0703:m1",
+        "u0745:m1",
+        "u0759:m1",
+        "u0760:m1",
+        "u0765:m1",
+        "u0801:m1",
+        "u0814:m1",
+        "u0814:m2",
+        "u0821:m1",
+        "u0840:m1",
+        "u0902:m1",
+        "u0926:m1",
+        "u0943:m1",
+        "u0944:m1",
+        "u0947:m1",
+        "u1020:m1",
+        "u1024:m1",
+        "u1026:m1",
+        "u1030:m1",
+        "u1063:m1",
+        "u1070:m1",
+        "u1076:m1",
+        "u1127:m1",
+        "u1147:m1",
+        "u1207:m1",
+        "u1241:m1",
+        "u1246:m1",
+        "u1257:m1",
+        "u1271:m1",
+        "u1290:m1",
+        "u1300:m1",
+        "u1362:m1",
+        "u1370:m1",
+        "u1380:m1",
+        "u1403:m1",
+        "u1429:m1",
+        "u1541:m1",
+        "u1553:m1",
+        "u1581:m1",
+        "u1600:m1",
+        "u1606:m1",
+        "u1647:m1",
+        "u2031:m1",
+        "u2035:m1",
+        "u2040:m1",
+        "u2072:m1",
+        "u2074:m1",
+        "u2090:m1",
+        "u2128:m1",
+        "u2155:m1",
+        "u2163:m1",
+        "u2238:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0015:m1": "{{now}}",
+        "u0076:m1": "{{I send you a memory.}}",
+        "u0076:m2": "{{I see it again}}",
+        "u0096:m1": "{{Remember that you were hit from?}}",
+        "u0099:m1": "{{of being of}}",
+        "u0107:m1": "{{crazy happiness}}",
+        "u0124:m1": "{{and machine?}}",
+        "u0125:m1": "{{They want}}",
+        "u0132:m1": "{{this person}}",
+        "u0133:m1": "{{the Turner}}",
+        "u0171:m1": "{{for the 2 night}}",
+        "u0173:m1": "{{up with you there}}",
+        "u0210:m1": "{{such a}}",
+        "u0225:m1": "{{devin}}",
+        "u0242:m1": "{{c.}}",
+        "u0313:m1": "{{or is gone}}",
+        "u0352:m1": "{{what brochure?}}",
+        "u0380:m1": "{{call it back}}",
+        "u0400:m1": "{{br.}}",
+        "u0400:m2": "{{road flat}}",
+        "u0400:m3": "{{come for rope}}",
+        "u0433:m1": "{{I'm an armarch}}",
+        "u0468:m1": "{{bonus actions 19}}",
+        "u0487:m1": "{{I got her}}",
+        "u0492:m1": "{{I will. From the Dragon. I up the jet}}",
+        "u0516:m1": "{{jade roller}}",
+        "u0549:m1": "{{That was, an I on the}}",
+        "u0550:m1": "{{at death}}",
+        "u0557:m1": "{{vitamins. the feeling}}",
+        "u0623:m1": "{{I can continue}}",
+        "u0653:m1": "{{this year}}",
+        "u0665:m1": "{{in me}}",
+        "u0670:m1": "{{take all like}}",
+        "u0672:m1": "{{kind of from the yeah and gold areas.}}",
+        "u0691:m1": "{{anywhere}}",
+        "u0703:m1": "{{place}}",
+        "u0745:m1": "{{I can pull into this.}}",
+        "u0759:m1": "{{How do we use at least}}",
+        "u0760:m1": "{{a stack?}}",
+        "u0765:m1": "{{Spill my wizard.}}",
+        "u0801:m1": "{{walked exactly}}",
+        "u0814:m1": "{{or what the hell up like}}",
+        "u0814:m2": "{{call them as in Elvish}}",
+        "u0821:m1": "{{lake}}",
+        "u0840:m1": "{{a how on that}}",
+        "u0902:m1": "{{All system}}",
+        "u0926:m1": "{{orthopedic}}",
+        "u0943:m1": "{{high priority interdependent, your departmental library}}",
+        "u0944:m1": "{{any of the alien paths into your}}",
+        "u0947:m1": "{{sense left}}",
+        "u1020:m1": "{{that's a few back he puts it takes a few out right}}",
+        "u1024:m1": "{{snow}}",
+        "u1026:m1": "{{half an hour before}}",
+        "u1030:m1": "{{semi-des}}",
+        "u1063:m1": "{{they side}}",
+        "u1070:m1": "{{crew to}}",
+        "u1076:m1": "{{that was who I had}}",
+        "u1127:m1": "{{and head}}",
+        "u1147:m1": "{{in question}}",
+        "u1207:m1": "{{You know i's}}",
+        "u1241:m1": "{{stylish}}",
+        "u1246:m1": "{{on the ocean}}",
+        "u1257:m1": "{{G}}",
+        "u1271:m1": "{{that line to me}}",
+        "u1290:m1": "{{It's not}}",
+        "u1300:m1": "{{big stories}}",
+        "u1362:m1": "{{It's a biting part}}",
+        "u1370:m1": "{{continue to do.}}",
+        "u1380:m1": "{{This was one of}}",
+        "u1403:m1": "{{it matters what}}",
+        "u1429:m1": "{{if you have any}}",
+        "u1541:m1": "{{Somebody should out.}}",
+        "u1553:m1": "{{It's not check}}",
+        "u1581:m1": "{{the clatter of Jack}}",
+        "u1600:m1": "{{What is it?}}",
+        "u1606:m1": "{{storms that are gazed}}",
+        "u1647:m1": "{{begin by}}",
+        "u2031:m1": "{{or it that with}}",
+        "u2035:m1": "{{A peak in my pony. My.}}",
+        "u2040:m1": "{{communicate}}",
+        "u2072:m1": "{{You can be learned}}",
+        "u2074:m1": "{{I even either table}}",
+        "u2090:m1": "{{sashi supplying Franks}}",
+        "u2128:m1": "{{around}}",
+        "u2155:m1": "{{It'll be somebody's drawings in the shit}}",
+        "u2163:m1": "{{I don't have anybody else design your music}}",
+        "u2238:m1": "{{there. We still}}"
+      }
+    },
+    {
+      "id": "recap-companion",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The recap context points to Jorundr, but the complete marked phrase cannot be resolved as name-only text without reconstructing surrounding wording.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 70 (DuFr).md",
+          "sha256": "6929bbe54da69dfe8e48e6319bd610f497d2348a5bd46d4d1ce302ccc82bc0c6"
+        }
+      ],
+      "candidates": [
+        "Jorundr"
+      ],
+      "markerIds": [
+        "u0022:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0022:m1": "{{and with named}}"
+      }
+    },
+    {
+      "id": "seeker-gauntlet",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The discussion concerns channeling a spell through Seeker's elemental-conversion item. The item note establishes that function, and the preceding session explicitly calls it his gauntlet; these three short spans strongly favor the same item term.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Glove of Crystalized Magic.md",
+          "sha256": "dc45c6f1931eb32c796a0e5876437277999b265ae4ccd2bfdf1a4cfe22875411"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 70 (DuFr).md",
+          "sha256": "6929bbe54da69dfe8e48e6319bd610f497d2348a5bd46d4d1ce302ccc82bc0c6"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0706:m1",
+        "u0706:m2",
+        "u0711:m1"
+      ],
+      "replacements": {
+        "u0706:m1": "gauntlet",
+        "u0706:m2": "gauntlet",
+        "u0711:m1": "gauntlet"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0706:m1",
+      "uid": "u0706",
+      "ordinal": 1,
+      "lineNumber": 706,
+      "start": 73,
+      "end": 84,
+      "before": "{{comment}}",
+      "span": "comment",
+      "line": "[u0706 | 00:57:58.120-00:58:03.370 | Seeker] and channel it through your {{comment}} and channel it to the {{call it}}, and convert healing word to an earth",
+      "contextBefore": [
+        "[u0704 | 00:57:48.370-00:57:49.980 | Seeker] so I could use",
+        "[u0705 | 00:57:53.400-00:57:56.020 | Seeker] healing word. maybe."
+      ],
+      "contextAfter": [
+        "[u0707 | 00:58:03.620-00:58:05.730 | Seeker] element. spell",
+        "[u0708 | 00:58:07.300-00:58:08.880 | Kenzo] or stone element."
+      ],
+      "after": "gauntlet",
+      "group": "seeker-gauntlet",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0706:m2",
+      "uid": "u0706",
+      "ordinal": 2,
+      "lineNumber": 706,
+      "start": 107,
+      "end": 118,
+      "before": "{{call it}}",
+      "span": "call it",
+      "line": "[u0706 | 00:57:58.120-00:58:03.370 | Seeker] and channel it through your {{comment}} and channel it to the {{call it}}, and convert healing word to an earth",
+      "contextBefore": [
+        "[u0704 | 00:57:48.370-00:57:49.980 | Seeker] so I could use",
+        "[u0705 | 00:57:53.400-00:57:56.020 | Seeker] healing word. maybe."
+      ],
+      "contextAfter": [
+        "[u0707 | 00:58:03.620-00:58:05.730 | Seeker] element. spell",
+        "[u0708 | 00:58:07.300-00:58:08.880 | Kenzo] or stone element."
+      ],
+      "after": "gauntlet",
+      "group": "seeker-gauntlet",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0711:m1",
+      "uid": "u0711",
+      "ordinal": 1,
+      "lineNumber": 711,
+      "start": 90,
+      "end": 101,
+      "before": "{{kind of}}",
+      "span": "kind of",
+      "line": "[u0711 | 00:58:18.850-00:58:23.150 | Wellby] Can you channel other people's spells to the {{kind of}}, like the one of Riswynn's more.",
+      "contextBefore": [
+        "[u0709 | 00:58:11.000-00:58:12.710 | Seeker] Stone healing.",
+        "[u0710 | 00:58:14.220-00:58:17.870 | Delwath] I mean. We could try mending, too. That didn't seem like a bad idea to me."
+      ],
+      "contextAfter": [
+        "[u0712 | 00:58:23.180-00:58:23.900 | Wellby] Okay.",
+        "[u0713 | 00:58:24.780-00:58:25.660 | Seeker] Hmm."
+      ],
+      "after": "gauntlet",
+      "group": "seeker-gauntlet",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0856:m1",
+      "uid": "u0856",
+      "ordinal": 1,
+      "lineNumber": 856,
+      "start": 77,
+      "end": 90,
+      "before": "{{yeah garb}}",
+      "span": "yeah garb",
+      "line": "[u0856 | 01:10:54.630-01:11:00.380 | DM] You Sold it to a bookseller, and in {{yeah garb}}, I'd have to take a short rest, but we could take a short rest.",
+      "contextBefore": [
+        "[u0854 | 01:10:35.960-01:10:39.470 | Seeker] Wait, Wait! No, it's. I can describe the book.",
+        "[u0855 | 01:10:51.430-01:10:52.870 | Riswynn] Who did we sell it to?"
+      ],
+      "contextAfter": [
+        "[u0857 | 01:11:00.560-01:11:01.420 | Kenzo] That's it.",
+        "[u0858 | 01:11:02.610-01:11:04.400 | Seeker] That's funny. Nice."
+      ],
+      "after": "Darba",
+      "group": "darba-booksale",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0965:m1",
+      "uid": "u0965",
+      "ordinal": 1,
+      "lineNumber": 965,
+      "start": 75,
+      "end": 83,
+      "before": "{{a C.}}",
+      "span": "a C.",
+      "line": "[u0965 | 01:22:16.960-01:22:29.880 | DM] There's a decent chance that that {{a C.}} Would have a would know would have a copy in the the the library at the",
+      "contextBefore": [
+        "[u0963 | 01:21:43.440-01:21:49.650 | DM] that's I do have 2 laptops. I just brought my work.",
+        "[u0964 | 01:21:57.650-01:22:13.570 | Kenzo] Is there another librarian that we know Tim, is this the type of book that would be in in either any of the libraries that are monasteries that Kenzo is aware of like in the you know Shakun, is this like a Shakun type thing, a Lakan Monastery type thing."
+      ],
+      "contextAfter": [
+        "[u0966 | 01:22:29.960-01:22:31.660 | DM] Lakan Monastery.",
+        "[u0967 | 01:22:32.080-01:22:35.290 | Kenzo] It's"
+      ],
+      "after": "Kassi",
+      "group": "kassi-librarian",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1275:m1",
+      "uid": "u1275",
+      "ordinal": 1,
+      "lineNumber": 1275,
+      "start": 41,
+      "end": 62,
+      "before": "{{our door, the out}}",
+      "span": "our door, the out",
+      "line": "[u1275 | 01:49:31.750-01:49:33.970 | DM] {{our door, the out}}",
+      "contextBefore": [
+        "[u1273 | 01:49:26.560-01:49:27.660 | Unknown] What was this?",
+        "[u1274 | 01:49:28.810-01:49:31.330 | DM] I was during the the reign of"
+      ],
+      "contextAfter": [
+        "[u1276 | 01:49:39.850-01:49:40.800 | DM] he",
+        "[u1277 | 01:49:42.660-01:49:46.710 | Unknown] he had made Drankor a safe place for many"
+      ],
+      "after": "Alador the Elf Friend",
+      "group": "alador-title",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u0706": {
+      "before": "[u0706 | 00:57:58.120-00:58:03.370 | Seeker] and channel it through your {{comment}} and channel it to the {{call it}}, and convert healing word to an earth\n",
+      "after": "[u0706 | 00:57:58.120-00:58:03.370 | Seeker] and channel it through your gauntlet and channel it to the gauntlet, and convert healing word to an earth\n"
+    },
+    "u0711": {
+      "before": "[u0711 | 00:58:18.850-00:58:23.150 | Wellby] Can you channel other people's spells to the {{kind of}}, like the one of Riswynn's more.\n",
+      "after": "[u0711 | 00:58:18.850-00:58:23.150 | Wellby] Can you channel other people's spells to the gauntlet, like the one of Riswynn's more.\n"
+    },
+    "u0856": {
+      "before": "[u0856 | 01:10:54.630-01:11:00.380 | DM] You Sold it to a bookseller, and in {{yeah garb}}, I'd have to take a short rest, but we could take a short rest.\n",
+      "after": "[u0856 | 01:10:54.630-01:11:00.380 | DM] You Sold it to a bookseller, and in Darba, I'd have to take a short rest, but we could take a short rest.\n"
+    },
+    "u1275": {
+      "before": "[u1275 | 01:49:31.750-01:49:33.970 | DM] {{our door, the out}}\n",
+      "after": "[u1275 | 01:49:31.750-01:49:33.970 | DM] Alador the Elf Friend\n"
+    },
+    "u0965": {
+      "before": "[u0965 | 01:22:16.960-01:22:29.880 | DM] There's a decent chance that that {{a C.}} Would have a would know would have a copy in the the the library at the\n",
+      "after": "[u0965 | 01:22:16.960-01:22:29.880 | DM] There's a decent chance that that Kassi Would have a would know would have a copy in the the the library at the\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:17:26.590705+00:00",
+      "sha256": "7912dfe8b1b91f73f90facbd2a3758378b9a346484cf4e258fff3738e5c5d72b"
+    }
+  ],
+  "runId": "20261028T041726536837Z-c017db0e",
+  "createdAt": "2026-10-28T04:17:26.537178+00:00"
+}

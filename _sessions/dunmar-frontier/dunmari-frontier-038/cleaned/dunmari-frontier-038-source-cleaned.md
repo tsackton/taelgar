@@ -2468,7 +2468,7 @@
 [u2468 | 02:58:46.740-02:58:48.180 | Seeker] That portal, although.
 [u2469 | 02:58:49.230-02:58:58.230 | Seeker] we'll have to go and find out but, but I think i'd like to go back at some point to the monastery and talk to the artist in there, I forget his name yeah.
 [u2470 | 02:59:00.210-02:59:01.560 | Kenzo] let's not forget that.
-[u2471 | 02:59:02.640-02:59:08.040 | Kenzo] We also are still trying to find the monk from {{reshma}} learn about.
+[u2471 | 02:59:02.640-02:59:08.040 | Kenzo] We also are still trying to find the monk from Bhishma learn about.
 [u2472 | 02:59:08.970-02:59:09.180 | Seeker] Because.
 [u2473 | 02:59:09.270-02:59:10.290 | Unknown] that's where we were dying.
 [u2474 | 02:59:11.520-02:59:12.000 | Delwath] Yes.
@@ -2655,7 +2655,7 @@
 [u2655 | 03:10:40.350-03:10:43.050 | DM] Ardan like comes up it's like oh I I.
 [u2656 | 03:10:44.670-03:10:48.570 | DM] You had asked for this, and I know in the um the excitement.
 [u2657 | 03:10:51.720-03:10:54.330 | DM] I forgot, and maybe you forgot as well, but.
-[u2658 | 03:10:56.100-03:11:03.060 | DM] The the scroll that that {{cardone}} and found that sent him off to to Darba.
+[u2658 | 03:10:56.100-03:11:03.060 | DM] The the scroll that that Chardonian and found that sent him off to to Darba.
 [u2659 | 03:11:04.110-03:11:05.700 | DM] I had a copy made for you.
 [u2660 | 03:11:06.840-03:11:09.090 | DM] If you would like it to the scroll.
 [u2661 | 03:11:25.980-03:11:29.490 | DM] read it at your at your leisure and I again thank you.
@@ -2682,7 +2682,7 @@
 [u2682 | 03:13:45.450-03:13:53.490 | Riswynn] Right, so my excellent memory for dwarven history timelines, which of course I have because i'm a dwarf tells me that.
 [u2683 | 03:13:54.420-03:13:56.250 | DM] there's like 200 years ago.
 [u2684 | 03:13:57.000-03:13:57.390 | Unknown] yeah.
-[u2685 | 03:13:58.440-03:14:01.410 | DM] Like the Great War, the war against {{Jamaat}} all of that stuff.
+[u2685 | 03:13:58.440-03:14:01.410 | DM] Like the Great War, the war against Cha'mutte all of that stuff.
 [u2686 | 03:14:01.860-03:14:04.620 | Delwath] So he's the Leader that's right here.
 [u2687 | 03:14:05.130-03:14:06.810 | Delwath] yeah okay.
 [u2688 | 03:14:07.290-03:14:12.000 | DM] I even went back in my old notes to find what the name of the hobgoblin tribe was.
@@ -2692,7 +2692,7 @@
 [u2692 | 03:14:26.190-03:14:29.160 | Seeker] The magic items to Darba for safekeeping during the war.
 [u2693 | 03:14:30.330-03:14:30.960 | Delwath] Apparently.
 [u2694 | 03:14:31.470-03:14:33.600 | Seeker] or or somewhere else.
-[u2695 | 03:14:34.410-03:14:37.110 | Delwath] or probably {{elbow I}}.
+[u2695 | 03:14:34.410-03:14:37.110 | Delwath] or probably Illoria.
 [u2696 | 03:14:38.160-03:14:40.470 | Delwath] My guess is that it went further than Darba.
 [u2697 | 03:14:42.060-03:14:45.450 | Delwath] The Great War was so disruptive i'm sure even.
 [u2698 | 03:14:46.680-03:14:49.170 | DM] I don't know you are trapped in their shadow realm.
@@ -2797,7 +2797,7 @@
 [u2797 | 03:22:14.880-03:22:19.650 | Delwath] I think that place was their goal, I think it's holy to them in some way.
 [u2798 | 03:22:21.090-03:22:21.540 | DM] Or was.
 [u2799 | 03:22:25.530-03:22:26.640 | DM] rumors of.
-[u2800 | 03:22:27.870-03:22:38.400 | DM] I was telling your companion Kenzo of rumors the last time, there were lycanthropes in the city and I asked my {{ad varney}} to.
+[u2800 | 03:22:27.870-03:22:38.400 | DM] I was telling your companion Kenzo of rumors the last time, there were lycanthropes in the city and I asked my Uvani to.
 [u2801 | 03:22:39.780-03:22:48.660 | DM] look up some records, while you were gone and it is indeed the case that, at least according to the records, we have that.
 [u2802 | 03:22:50.700-03:22:52.230 | DM] Some hundred and.
 [u2803 | 03:22:53.580-03:22:56.040 | DM] hundred odd or more years ago.
@@ -2968,7 +2968,7 @@
 [u2968 | 03:37:21.750-03:37:24.810 | Kenzo] After we get some rest go patrol the city.
 [u2969 | 03:37:25.890-03:37:26.370 | Kenzo] Good evening.
 [u2970 | 03:37:29.670-03:37:32.700 | Wellby] I think so, and tomorrow, good looking for something.
-[u2971 | 03:37:34.140-03:37:35.580 | Kenzo] Tomorrow we go look for {{soccer}}.
+[u2971 | 03:37:34.140-03:37:35.580 | Kenzo] Tomorrow we go look for Saka.
 [u2972 | 03:37:37.200-03:37:38.700 | Seeker] Stop at the monastery first.
 [u2973 | 03:37:40.590-03:37:41.220 | Kenzo] We can do that.
 [u2974 | 03:37:43.800-03:37:50.730 | Kenzo] Kaleha I think it would be most wise for us to finish our meal and get some rest, so that we can.

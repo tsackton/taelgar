@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-027",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-027/cleaned/dunmari-frontier-027-source-cleaned.md",
+  "beforeSha256": "1ac51c78e47f9c0c71ec3d7bb04841207684535f61b3444774315bd4c55e65a0",
+  "afterSha256": "0596b802a2e24262e75f825bac59ff4ed4aceead6c7a817a80679dddefebec66",
+  "markersBefore": 39,
+  "groups": [
+    {
+      "id": "armory-owner",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The quip follows a question about Delwath summoning weapons. The inspected character and campaign sources do not establish a uniquely named armory or an owner matching shots; the possessive and identity remain uncertain.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 27 (DuFr).md",
+          "sha256": "1eaf00a6678ffa6a834863b67076867a9540940008d13e0d909f1d8114f81682"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0352:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0352:m1": "{{shots}}"
+      }
+    },
+    {
+      "id": "mesa-presence-reference",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The following feminine pronoun and mesa context make a Shakun reference plausible, but the complete marked phrase is not recoverable as a unique name or setting term. Replacing it would require guessing additional wording.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Shakun.md",
+          "sha256": "a43ad808091d676cae19184e744d8572c6526c24b2f2dac67f75011634a514a7"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 27 (DuFr).md",
+          "sha256": "1eaf00a6678ffa6a834863b67076867a9540940008d13e0d909f1d8114f81682"
+        }
+      ],
+      "candidates": [
+        "Shakun"
+      ],
+      "markerIds": [
+        "u0827:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0827:m1": "{{chimeras bora}}"
+      }
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary narration, conversation, incomplete phrases, measurements, generic planar wording, or rules discussion. These spans do not present a supported complete name or setting-term replacement and remain unchanged under names-v1.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0017:m1",
+        "u0026:m1",
+        "u0068:m1",
+        "u0216:m1",
+        "u0220:m1",
+        "u0313:m1",
+        "u0330:m1",
+        "u0373:m1",
+        "u0404:m1",
+        "u0537:m1",
+        "u0577:m1",
+        "u0595:m1",
+        "u0605:m1",
+        "u0700:m1",
+        "u0712:m1",
+        "u0774:m1",
+        "u0784:m1",
+        "u0814:m1",
+        "u0900:m1",
+        "u0902:m1",
+        "u1162:m1",
+        "u1210:m1",
+        "u1257:m1",
+        "u1442:m1",
+        "u1448:m1",
+        "u1449:m1",
+        "u1484:m1",
+        "u1637:m1",
+        "u1694:m1",
+        "u1714:m1",
+        "u1719:m1",
+        "u2219:m1",
+        "u2239:m1",
+        "u2321:m1",
+        "u2359:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0017:m1": "{{Turning}}",
+        "u0026:m1": "{{is}}",
+        "u0068:m1": "{{for things that are there for the next slide}}",
+        "u0216:m1": "{{if he dreams}}",
+        "u0220:m1": "{{is the ability}}",
+        "u0313:m1": "{{you are slow}}",
+        "u0330:m1": "{{pre}}",
+        "u0373:m1": "{{unmet}}",
+        "u0404:m1": "{{plans}}",
+        "u0537:m1": "{{She before}}",
+        "u0577:m1": "{{as it did right how}}",
+        "u0595:m1": "{{European}}",
+        "u0605:m1": "{{Bird up}}",
+        "u0700:m1": "{{Diversity name}}",
+        "u0712:m1": "{{feet right}}",
+        "u0774:m1": "{{That stone and I still say Vanessa}}",
+        "u0784:m1": "{{Thanks everybody peace}}",
+        "u0814:m1": "{{Insurance data}}",
+        "u0900:m1": "{{the cost, it can be}}",
+        "u0902:m1": "{{Well that's brokers and then the enemy whoo}}",
+        "u1162:m1": "{{And man}}",
+        "u1210:m1": "{{Let's say that first yourself}}",
+        "u1257:m1": "{{This time still in house question}}",
+        "u1442:m1": "{{difficulty}}",
+        "u1448:m1": "{{Is doing heart}}",
+        "u1449:m1": "{{It wouldn't be hard to the group behind us}}",
+        "u1484:m1": "{{I know raised and helping}}",
+        "u1637:m1": "{{We haven't want to use it on}}",
+        "u1694:m1": "{{Do or we issue}}",
+        "u1714:m1": "{{She stopped}}",
+        "u1719:m1": "{{we should people}}",
+        "u2219:m1": "{{casts its put back on}}",
+        "u2239:m1": "{{like himself}}",
+        "u2321:m1": "{{Just told I worked for}}",
+        "u2359:m1": "{{with 10}}"
+      }
+    },
+    {
+      "id": "shadow-creature-term",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The recap refers to the preceding shadow attack, but the session record establishes shadowy forms rather than a unique creature term matching doctors. Dogs and stalkers are possible readings; neither is established for this marked occurrence.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 26 (DuFr).md",
+          "sha256": "b06115975071c6dbbe212275eab7a27df0bdd57dc3e6c54bb7c58c2324003234"
+        }
+      ],
+      "candidates": [
+        "dogs",
+        "stalkers"
+      ],
+      "markerIds": [
+        "u0030:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0030:m1": "{{doctors}}"
+      }
+    },
+    {
+      "id": "vision-automata",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The recap describes the same waterfall-powered small constructs as the initiation account, which explicitly calls them automata; the complete marked construct term can be corrected without reconstructing adjacent wording.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Dreams and Visions/The Shakun Mystai Initiation.md",
+          "sha256": "85b2151565b2fff068774f46fb3667591741e8a239ebd1a4689ce57d5a9001f6"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0028:m1"
+      ],
+      "replacements": {
+        "u0028:m1": "automata"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0028:m1",
+      "uid": "u0028",
+      "ordinal": 1,
+      "lineNumber": 28,
+      "start": 56,
+      "end": 66,
+      "before": "{{atomic}}",
+      "span": "atomic",
+      "line": "[u0028 | 00:03:50.580-00:03:59.250 | DM] Powering small {{atomic}}, focusing in to see an ancient lantern on a beautiful mantel, which became the setting sun behind a ship at sea, leaving port.",
+      "contextBefore": [
+        "[u0026 | 00:03:29.730-00:03:40.110 | DM] You recall the events of the evening, the ritual, the rite of Shakun that started with visions of Dunmar, the forest falling to flames, and then a city spreading like {{is}} across the land.",
+        "[u0027 | 00:03:40.830-00:03:50.160 | DM] washed clean then into the mountains on a path approaching a small village falling through the earth to see a waterfall cascading down the facade of a building."
+      ],
+      "contextAfter": [
+        "[u0029 | 00:04:00.000-00:04:14.880 | DM] Until the visions faded into the night sky full of stars and then the clarity of this web of Shakun's magic, the net that is the souls of the Mystai that hold the power of Dunmar together, but is missing its center.",
+        "[u0030 | 00:04:16.020-00:04:29.430 | DM] And the vision ended with a woman who was maybe also a mesa reaching out for you and asking for help, as the silence of the ritual was broken by screams of the attack of the shadow {{doctors}}."
+      ],
+      "after": "automata",
+      "group": "vision-automata",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u0028": {
+      "before": "[u0028 | 00:03:50.580-00:03:59.250 | DM] Powering small {{atomic}}, focusing in to see an ancient lantern on a beautiful mantel, which became the setting sun behind a ship at sea, leaving port.\n",
+      "after": "[u0028 | 00:03:50.580-00:03:59.250 | DM] Powering small automata, focusing in to see an ancient lantern on a beautiful mantel, which became the setting sun behind a ship at sea, leaving port.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T03:42:43.924519+00:00",
+      "sha256": "0596b802a2e24262e75f825bac59ff4ed4aceead6c7a817a80679dddefebec66"
+    }
+  ],
+  "runId": "20261028T034243588496Z-ebaa904f",
+  "createdAt": "2026-10-28T03:42:43.588852+00:00"
+}

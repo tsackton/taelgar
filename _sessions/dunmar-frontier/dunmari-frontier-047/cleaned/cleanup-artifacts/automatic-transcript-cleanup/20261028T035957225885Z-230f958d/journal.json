@@ -1,0 +1,494 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-047",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-047/cleaned/dunmari-frontier-047-source-cleaned.md",
+  "beforeSha256": "964682ed01c438cf0aaa9f43d6223c1cce1fb346eaf022cf761e2a30edb56b38",
+  "afterSha256": "9e953f42c5205a7517cced7b840c5913c8eae0d83e5e08cb82ddf1db725a9438",
+  "markersBefore": 27,
+  "groups": [
+    {
+      "id": "coastal-voyage-port",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Jasmine describes the expected routine ship voyage between Chardon and the departure port Darba; the session and ship references support this route. Darba is favored over an otherwise unidentified port named bar.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 47 (DuFr).md",
+          "sha256": "23be57cd4262896049919b841e67d68338ff5de6e5927c08c2c5bc7b492d41dc"
+        },
+        {
+          "path": "Things/Ships/Emerald Song.md",
+          "sha256": "f8d0184b3fedce5e63e5c38d0db88f3f69aa66c1abc5cec6b50e335b1512c121"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0752:m1"
+      ],
+      "replacements": {
+        "u0752:m1": "Darba"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "dunmari-gods",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Kenzo identifies Bhishma as one of the Dunmari gods. The religion note records this term and the order note establishes its dedication to Bhishma.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Religions/Five Siblings/Dunmari Religion.md",
+          "sha256": "9d94602c5aa7e5eeeacacfc7c1a2e3a261fdf68c24328096022d153a1db7ef34"
+        },
+        {
+          "path": "Groups/Dunmari Mystery Cults/Order of the Awakened Soul.md",
+          "sha256": "c74e06f525c8e72899cd1e71f3153e6467f75bfea82c260a21bb1b2f6bd1e898"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0713:m1"
+      ],
+      "replacements": {
+        "u0713:m1": "Dunmari gods"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "dunmari-ruler",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The named ruler discussing southern defenses is Nayan Karnas; the personal reference establishes the complete name.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Nayan Karnas.md",
+          "sha256": "12b15ae6fdac1671003c25f3900e92a2f2f9905f5ef2ddb505e8b28c0fcf7814"
+        },
+        {
+          "path": "Gazetteer/Greater Dunmar/Rivers/Shrev.md",
+          "sha256": "c05920e1fac233ee10d0911bc592bba46591eebacf50bbc84eb791c9e844cdf7"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0541:m1"
+      ],
+      "replacements": {
+        "u0541:m1": "Nayan Karnas"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "earlier-ship-family",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The fragment may name an earlier ship-owning family, but the inspected ship history does not identify a unique matching name or establish complete replacement boundaries.",
+      "evidence": [
+        {
+          "path": "Things/Ships/Emerald Song.md",
+          "sha256": "f8d0184b3fedce5e63e5c38d0db88f3f69aa66c1abc5cec6b50e335b1512c121"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Emerald Song (OneNote).md",
+          "sha256": "3e55ba27997c4473aa3c61eadd175b9802d0dae0fd13643e72db5b971d76cef8"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1345:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1345:m1": "{{A sweat talks}}"
+      }
+    },
+    {
+      "id": "future-battle-target",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Auratan is plausible from the later discussion, but the marked fragment could instead be damaged ordinary wording or a destination. The intended target and complete replacement remain uncertain.",
+      "evidence": [],
+      "candidates": [
+        "Auratan"
+      ],
+      "markerIds": [
+        "u1571:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1571:m1": "{{a return}}"
+      }
+    },
+    {
+      "id": "great-war-adversary",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Delwath describes preventing another rise of the Great War adversary; his backstory and the reference identify Cha'mutte. Sherman has no matching role in these sources.",
+      "evidence": [
+        {
+          "path": "People/Extraplanar Powers/Cha'mutte.md",
+          "sha256": "1b8dca16f7ede3715d32bf7fe0e44adc3dbc4c016fade83c34f92f41433291eb"
+        },
+        {
+          "path": "People/PCs/Dunmar Fellowship/Delwath.md",
+          "sha256": "fa772e8f3c941f297bfe338103036405023138e2adf07e586d4e793821c835b7"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0149:m1"
+      ],
+      "replacements": {
+        "u0149:m1": "Cha'mutte"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "historical-wizard-fragment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The subject is the historical hobgoblin wizard imprisoned in the mirror, but this fragment may be ordinary wording rather than a name; no complete name replacement is recoverable.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u1550:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1550:m1": "{{Their history}}"
+      }
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Damaged ordinary wording, grammar, pronouns, creature descriptions, numbers, or message phrasing outside this name-and-setting-term pass; no surrounding reconstruction is authorized.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0013:m1",
+        "u0532:m1",
+        "u1455:m1",
+        "u1455:m2",
+        "u1540:m1",
+        "u1550:m2",
+        "u1556:m1",
+        "u1557:m1",
+        "u1565:m1",
+        "u1565:m2",
+        "u1574:m1",
+        "u1598:m1",
+        "u1695:m1",
+        "u2223:m1",
+        "u2227:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0013:m1": "{{Most would probably beat you to charter that case}}",
+        "u0532:m1": "{{backing the dead}}",
+        "u1455:m1": "{{walk away}}",
+        "u1455:m2": "{{how}}",
+        "u1540:m1": "{{their tribe}}",
+        "u1550:m2": "{{another name}}",
+        "u1556:m1": "{{chances}}",
+        "u1557:m1": "{{witnessed}}",
+        "u1565:m1": "{{women are the women}}",
+        "u1565:m2": "{{liver}}",
+        "u1574:m1": "{{better}}",
+        "u1598:m1": "{{a two days}}",
+        "u1695:m1": "{{thrall}}",
+        "u2223:m1": "{{you've}}",
+        "u2227:m1": "{{deception}}"
+      }
+    },
+    {
+      "id": "ship-family-contemporary-form",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The context concerns the ship-owning family, and the contemporary session source supports Silverhearts. Preserve that spoken-era form rather than substituting the later Silversongs form.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Road to Chardon (Session 42-47)/Emerald Song (OneNote).md",
+          "sha256": "3e55ba27997c4473aa3c61eadd175b9802d0dae0fd13643e72db5b971d76cef8"
+        },
+        {
+          "path": "Things/Ships/Emerald Song.md",
+          "sha256": "f8d0184b3fedce5e63e5c38d0db88f3f69aa66c1abc5cec6b50e335b1512c121"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1343:m1"
+      ],
+      "replacements": {
+        "u1343:m1": "Silverhearts"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "southern-river",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The southern jungle and undead-border rumor identify the Shrev; the session narrative records the same rumor.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Dunmar/Rivers/Shrev.md",
+          "sha256": "c05920e1fac233ee10d0911bc592bba46591eebacf50bbc84eb791c9e844cdf7"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 47 (DuFr).md",
+          "sha256": "23be57cd4262896049919b841e67d68338ff5de6e5927c08c2c5bc7b492d41dc"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0539:m1"
+      ],
+      "replacements": {
+        "u0539:m1": "Shrev"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "storm-giant-ally",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The discussion repeatedly identifies Hralgar as the giant whose freedom could provide passage across the Sea of Storms. Hralgar's fits the contracted subject in this line; programmers has no contextual referent.",
+      "evidence": [
+        {
+          "path": "People/Giants/Hralgar.md",
+          "sha256": "7a98c9ddc726d1787de8c6ba4de3e8d9a4788e73215ee315d6f280bbfec0c769"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2377:m1"
+      ],
+      "replacements": {
+        "u2377:m1": "Hralgar's"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "tentative-city-watch-name",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "These passages discuss a provisional name for the city watch. The reference uses Praecanti Vigiles, but it does not establish the tentative form spoken here; substituting the later name would override the dialogue. The first span also contains unrecoverable surrounding wording.",
+      "evidence": [
+        {
+          "path": "Groups/Chardonian Organizations/Praecanti Vigiles.md",
+          "sha256": "b8a9e12024ecede375fdaf30103dda72c3dea47d74d861ac89b15b88fe026865"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1702:m1",
+        "u1717:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1702:m1": "{{regarding the second day}}",
+        "u1717:m1": "{{down for a second}}"
+      }
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0149:m1",
+      "uid": "u0149",
+      "ordinal": 1,
+      "lineNumber": 149,
+      "start": 207,
+      "end": 218,
+      "before": "{{Sherman}}",
+      "span": "Sherman",
+      "line": "[u0149 | 00:14:55.710-00:15:12.450 | Delwath] understanding this some of the evils in the world and that the but he's convinced that his purpose is to become a hero and prevent the second right, the rise of {{Sherman}} from happening again right like not so much per se but.",
+      "contextBefore": [
+        "[u0147 | 00:14:45.150-00:14:49.740 | Delwath] Where that is but also it's just he feels like there's.",
+        "[u0148 | 00:14:52.110-00:14:53.790 | Delwath] Something to do like."
+      ],
+      "contextAfter": [
+        "[u0150 | 00:15:13.530-00:15:21.540 | Delwath] But he really believes in in the sort of power of the great man theory of history and he doesn't necessarily not necessarily.",
+        "[u0151 | 00:15:22.350-00:15:31.830 | Delwath] So arrogant to assume, he is in fact the great man, but he feels like he's part of a group of people on a journey that will least influence."
+      ],
+      "after": "Cha'mutte",
+      "group": "great-war-adversary",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0539:m1",
+      "uid": "u0539",
+      "ordinal": 1,
+      "lineNumber": 539,
+      "start": 133,
+      "end": 143,
+      "before": "{{shroud}}",
+      "span": "shroud",
+      "line": "[u0539 | 00:49:19.890-00:49:26.250 | DM] Somebody claiming they had just come back from fighting off a horde of zombies on the River {{shroud}}.",
+      "contextBefore": [
+        "[u0537 | 00:49:09.360-00:49:10.020 | DM] There was a.",
+        "[u0538 | 00:49:14.610-00:49:18.090 | DM] You know there's always tales of strange things coming out of the jungle, to the south."
+      ],
+      "contextAfter": [
+        "[u0540 | 00:49:28.530-00:49:29.400 | DM] seems plausible.",
+        "[u0541 | 00:49:35.100-00:49:36.690 | DM] {{Nine chernoff}} is always."
+      ],
+      "after": "Shrev",
+      "group": "southern-river",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0541:m1",
+      "uid": "u0541",
+      "ordinal": 1,
+      "lineNumber": 541,
+      "start": 41,
+      "end": 58,
+      "before": "{{Nine chernoff}}",
+      "span": "Nine chernoff",
+      "line": "[u0541 | 00:49:35.100-00:49:36.690 | DM] {{Nine chernoff}} is always.",
+      "contextBefore": [
+        "[u0539 | 00:49:19.890-00:49:26.250 | DM] Somebody claiming they had just come back from fighting off a horde of zombies on the River {{shroud}}.",
+        "[u0540 | 00:49:28.530-00:49:29.400 | DM] seems plausible."
+      ],
+      "contextAfter": [
+        "[u0542 | 00:49:37.560-00:49:38.550 | Unknown] fortifying.",
+        "[u0543 | 00:49:39.720-00:49:41.220 | DM] defenses to the south."
+      ],
+      "after": "Nayan Karnas",
+      "group": "dunmari-ruler",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0713:m1",
+      "uid": "u0713",
+      "ordinal": 1,
+      "lineNumber": 713,
+      "start": 143,
+      "end": 157,
+      "before": "{{mardi gras}}",
+      "span": "mardi gras",
+      "line": "[u0713 | 01:03:13.230-01:03:20.700 | Kenzo] joined the Order of the Awakened Soul, you may have heard of the Bhishma and one of the one of the {{mardi gras}}.",
+      "contextBefore": [
+        "[u0711 | 01:02:58.170-01:03:08.010 | Kenzo] Kenzo reveals that to Jasmine and and Oswalt, says, you know I am I not too long ago I lost my picture.",
+        "[u0712 | 01:03:09.900-01:03:11.970 | Kenzo] I not long ago I."
+      ],
+      "contextAfter": [
+        "[u0714 | 01:03:21.810-01:03:27.120 | Kenzo] part of my work within the order is to learn the stories of the people of the land and.",
+        "[u0715 | 01:03:30.000-01:03:36.390 | Kenzo] you're the first couple that i've spoken with but I I love to hear more about how you met and fell in love."
+      ],
+      "after": "Dunmari gods",
+      "group": "dunmari-gods",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0752:m1",
+      "uid": "u0752",
+      "ordinal": 1,
+      "lineNumber": 752,
+      "start": 65,
+      "end": 72,
+      "before": "{{bar}}",
+      "span": "bar",
+      "line": "[u0752 | 01:06:27.150-01:06:32.400 | DM] Both from Chardon up to {{bar}} and then back.",
+      "contextBefore": [
+        "[u0750 | 01:06:20.730-01:06:21.630 | DM] Sail on a ship.",
+        "[u0751 | 01:06:23.010-01:06:25.800 | DM] Maybe go up to catch you know."
+      ],
+      "contextAfter": [
+        "[u0753 | 01:06:34.620-01:06:36.960 | DM] around for a few years that's pretty.",
+        "[u0754 | 01:06:38.430-01:06:39.450 | DM] To a typical."
+      ],
+      "after": "Darba",
+      "group": "coastal-voyage-port",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1343:m1",
+      "uid": "u1343",
+      "ordinal": 1,
+      "lineNumber": 1343,
+      "start": 49,
+      "end": 68,
+      "before": "{{soul our hearts}}",
+      "span": "soul our hearts",
+      "line": "[u1343 | 01:52:31.650-01:52:33.420 | DM] For the {{soul our hearts}}, it was.",
+      "contextBefore": [
+        "[u1341 | 01:52:18.780-01:52:20.370 | DM] Ambitious Group and",
+        "[u1342 | 01:52:21.960-01:52:28.020 | DM] I think Harol may be thinking of turning over the ship captaincy to them at some point when he retires."
+      ],
+      "contextAfter": [
+        "[u1344 | 01:52:38.250-01:52:38.700 | DM] It was.",
+        "[u1345 | 01:52:45.270-01:52:46.350 | DM] {{A sweat talks}}."
+      ],
+      "after": "Silverhearts",
+      "group": "ship-family-contemporary-form",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2377:m1",
+      "uid": "u2377",
+      "ordinal": 1,
+      "lineNumber": 2377,
+      "start": 45,
+      "end": 60,
+      "before": "{{programmers}}",
+      "span": "programmers",
+      "line": "[u2377 | 03:29:27.870-03:29:31.650 | Wellby] {{programmers}} our ticket across the Sea of Storms like that's a.",
+      "contextBefore": [
+        "[u2375 | 03:29:12.900-03:29:15.840 | Delwath] I don't know, maybe an APP that was could play giant.",
+        "[u2376 | 03:29:18.990-03:29:23.490 | Delwath] giant agent, on behalf of giants I don't know if a dwarf might be more plausible than an elf."
+      ],
+      "contextAfter": [
+        "[u2378 | 03:29:32.670-03:29:34.800 | Wellby] know if that's compelling but that could be another.",
+        "[u2379 | 03:29:36.390-03:29:37.470 | Seeker] i'm thinking about."
+      ],
+      "after": "Hralgar's",
+      "group": "storm-giant-ally",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u0713": {
+      "before": "[u0713 | 01:03:13.230-01:03:20.700 | Kenzo] joined the Order of the Awakened Soul, you may have heard of the Bhishma and one of the one of the {{mardi gras}}.\n",
+      "after": "[u0713 | 01:03:13.230-01:03:20.700 | Kenzo] joined the Order of the Awakened Soul, you may have heard of the Bhishma and one of the one of the Dunmari gods.\n"
+    },
+    "u2377": {
+      "before": "[u2377 | 03:29:27.870-03:29:31.650 | Wellby] {{programmers}} our ticket across the Sea of Storms like that's a.\n",
+      "after": "[u2377 | 03:29:27.870-03:29:31.650 | Wellby] Hralgar's our ticket across the Sea of Storms like that's a.\n"
+    },
+    "u1343": {
+      "before": "[u1343 | 01:52:31.650-01:52:33.420 | DM] For the {{soul our hearts}}, it was.\n",
+      "after": "[u1343 | 01:52:31.650-01:52:33.420 | DM] For the Silverhearts, it was.\n"
+    },
+    "u0149": {
+      "before": "[u0149 | 00:14:55.710-00:15:12.450 | Delwath] understanding this some of the evils in the world and that the but he's convinced that his purpose is to become a hero and prevent the second right, the rise of {{Sherman}} from happening again right like not so much per se but.\n",
+      "after": "[u0149 | 00:14:55.710-00:15:12.450 | Delwath] understanding this some of the evils in the world and that the but he's convinced that his purpose is to become a hero and prevent the second right, the rise of Cha'mutte from happening again right like not so much per se but.\n"
+    },
+    "u0541": {
+      "before": "[u0541 | 00:49:35.100-00:49:36.690 | DM] {{Nine chernoff}} is always.\n",
+      "after": "[u0541 | 00:49:35.100-00:49:36.690 | DM] Nayan Karnas is always.\n"
+    },
+    "u0539": {
+      "before": "[u0539 | 00:49:19.890-00:49:26.250 | DM] Somebody claiming they had just come back from fighting off a horde of zombies on the River {{shroud}}.\n",
+      "after": "[u0539 | 00:49:19.890-00:49:26.250 | DM] Somebody claiming they had just come back from fighting off a horde of zombies on the River Shrev.\n"
+    },
+    "u0752": {
+      "before": "[u0752 | 01:06:27.150-01:06:32.400 | DM] Both from Chardon up to {{bar}} and then back.\n",
+      "after": "[u0752 | 01:06:27.150-01:06:32.400 | DM] Both from Chardon up to Darba and then back.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T03:59:57.237051+00:00",
+      "sha256": "9e953f42c5205a7517cced7b840c5913c8eae0d83e5e08cb82ddf1db725a9438"
+    }
+  ],
+  "runId": "20261028T035957225885Z-230f958d",
+  "createdAt": "2026-10-28T03:59:57.226498+00:00"
+}

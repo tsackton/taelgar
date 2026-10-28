@@ -1,0 +1,703 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-053",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-053/cleaned/dunmari-frontier-053-source-cleaned.md",
+  "beforeSha256": "4006f56a9b25225a85e3d04e5df551894111b5c24b4594782dff7e4ded34f8b0",
+  "afterSha256": "68fd831b3ef6680c58437a5e44b899edcdca2122cd6956c86464734a6fe7caaf",
+  "markersBefore": 29,
+  "groups": [
+    {
+      "id": "battle-river",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The named battle where Midri and K'onisati defended a river crossing matches the recorded Battle of Yemo'te.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Northern Sentinels/Yemo'te.md",
+          "sha256": "5cba9483f6f28b822f83898894e0af6a44a34f752c42f09c5baa4f60d5752488"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Delwath Solo Arc/Prequel - Delwath.md",
+          "sha256": "644cb22c82e843456db2d10db3ed1596f50865c73bab122f34d04edaab3eb0b2"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0321:m1"
+      ],
+      "replacements": {
+        "u0321:m1": "Yemo'te"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "elderwood-name",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The speaker names the forest where he was a guest of the Te'kula; the Elderwood sources establish Tinitaka as that name.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Part II Finding the Te'kula/Tinitaka (Elderwood).md",
+          "sha256": "c0b9001da9001f542e87c076c1530a1af171c43902c022b3a79ae083337d5276"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Elderwood Arc NPCs.md",
+          "sha256": "6b556a8ce2028e4c560a65d93337c5d46c636a87409193ba6b1399244a822cfe"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0082:m1"
+      ],
+      "replacements": {
+        "u0082:m1": "Tinitaka"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "forest-question",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Ainumarya is recognizable, but the complete marked span includes uncertain question wording; replacing it would reconstruct a phrase.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Central Highlands/Elderwood.md",
+          "sha256": "a2d7b4cc41c16d63146af0e09da1e857914ea7a146dfb41763343eb6f34071d2"
+        }
+      ],
+      "candidates": [
+        "Ainumarya"
+      ],
+      "markerIds": [
+        "u0181:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0181:m1": "{{where Ainumarya was in the forest}}"
+      }
+    },
+    {
+      "id": "glass-spirit",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The explicitly identified spirit of glass matches the name in the matching introduction and tanshi source.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Delwath Solo Arc/Prequel - Delwath.md",
+          "sha256": "644cb22c82e843456db2d10db3ed1596f50865c73bab122f34d04edaab3eb0b2"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Tanshi - DM notes.md",
+          "sha256": "46dfa7b7e0b226bb2a5042bcb9e73d9a99397fc53f541992fff5135d34f1be6c"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0002:m1"
+      ],
+      "replacements": {
+        "u0002:m1": "Birich'iko"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "great-war-commander",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The sacrifice delaying the Great War enemy troops strongly favors Cha'mutte, whose attack and the Meswati sacrifice are established; the short recognition is less certain.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Meswati/Meswati.md",
+          "sha256": "6ec032ef4d5f6c88365c253c8ccca62cebe36e44085f24d08ab45aeccf880a9a"
+        },
+        {
+          "path": "People/Extraplanar Powers/Cha'mutte.md",
+          "sha256": "1b8dca16f7ede3715d32bf7fe0e44adc3dbc4c016fade83c34f92f41433291eb"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0163:m1"
+      ],
+      "replacements": {
+        "u0163:m1": "Cha'mutte's"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "invader-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Cha'mutte is the likely invader, but the span includes an uncertain verb phrase and cannot be replaced by a name alone.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Delwath Solo Arc/Background - Delwath Solo Arc.md",
+          "sha256": "28e8c648c3393d90da808087aca982ebad9f49e148ac93cc8189e586d5326e00"
+        }
+      ],
+      "candidates": [
+        "Cha'mutte"
+      ],
+      "markerIds": [
+        "u0203:m2"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0203:m2": "{{some up looped in}}"
+      }
+    },
+    {
+      "id": "missing-warrior",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Both occurrences sound like Oma or Omah, but Omah appears only in a name pool. The later session account identifies the matching warrior as Jotha; that does not establish which name was spoken here.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Delwath Solo Arc/Background - Delwath Solo Arc.md",
+          "sha256": "28e8c648c3393d90da808087aca982ebad9f49e148ac93cc8189e586d5326e00"
+        },
+        {
+          "path": "People/Deno'qai/Jotha.md",
+          "sha256": "83fb481d7602526c22aa07957acc5af16a2072f3afac02d7b0804dea8ce25623"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 53 (DuFr).md",
+          "sha256": "bc926a36ef41839604890c66a800f38470e417052477f52902fdd654b2e0ed9e"
+        }
+      ],
+      "candidates": [
+        "Omah",
+        "Jotha"
+      ],
+      "markerIds": [
+        "u0360:m1",
+        "u0361:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0360:m1": "{{Oh ma}}",
+        "u0361:m1": "{{oh my}}"
+      }
+    },
+    {
+      "id": "mud-spirit",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The rain-soaked mud sensation matches the named spirit in the matching introduction; only the complete marked name is replaced.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Delwath Solo Arc/Prequel - Delwath.md",
+          "sha256": "644cb22c82e843456db2d10db3ed1596f50865c73bab122f34d04edaab3eb0b2"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/The Elderwood (Session 50)/Tanshi - DM notes.md",
+          "sha256": "46dfa7b7e0b226bb2a5042bcb9e73d9a99397fc53f541992fff5135d34f1be6c"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0003:m1"
+      ],
+      "replacements": {
+        "u0003:m1": "Ch'ik'a"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "northern-boundary",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The geographic boundary is unclear. The northern history mentions elven territories, but does not establish that the complete marked word was elves.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Delwath Solo Arc/Background - Delwath Solo Arc.md",
+          "sha256": "28e8c648c3393d90da808087aca982ebad9f49e148ac93cc8189e586d5326e00"
+        }
+      ],
+      "candidates": [
+        "elves"
+      ],
+      "markerIds": [
+        "u0203:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0203:m1": "{{hours}}"
+      }
+    },
+    {
+      "id": "northern-trading-people",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The people trading across the mountains beside the northern plains strongly match kenku; both their northern homeland and Deno'qai trade are documented.",
+      "evidence": [
+        {
+          "path": "Creatures/Species/Kenku.md",
+          "sha256": "6a2ca2e02adce788115f2deaec9572c143882cb76e640112b0271a48838bf40b"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Delwath Solo Arc/Background - Delwath Solo Arc.md",
+          "sha256": "28e8c648c3393d90da808087aca982ebad9f49e148ac93cc8189e586d5326e00"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0201:m1"
+      ],
+      "replacements": {
+        "u0201:m1": "kenku"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Directions, chronology, ordinary conversation, an unnamed armband reference, rules discussion and damaged descriptive phrasing are outside this name pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0152:m1",
+        "u0226:m1",
+        "u0227:m1",
+        "u0228:m1",
+        "u0267:m1",
+        "u0278:m1",
+        "u0304:m1",
+        "u0319:m1",
+        "u0404:m1",
+        "u0461:m1",
+        "u0497:m1",
+        "u0527:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0152:m1": "{{200 miles south}}",
+        "u0226:m1": "{{we probably hear me}}",
+        "u0227:m1": "{{Now said me}}",
+        "u0228:m1": "{{strike them}}",
+        "u0267:m1": "{{more than a year ago now August, the past summer}}",
+        "u0278:m1": "{{Dunbar}}",
+        "u0304:m1": "{{maybe destroying them has some time, maybe good return}}",
+        "u0319:m1": "{{when the sun rise}}",
+        "u0404:m1": "{{like his name it'll be a feat}}",
+        "u0461:m1": "{{I accurate}}",
+        "u0497:m1": "{{On the enemy}}",
+        "u0527:m1": "{{not to}}"
+      }
+    },
+    {
+      "id": "plains-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Kenku is plausible inside this span, but the surrounding words and complete replacement boundaries are unclear.",
+      "evidence": [
+        {
+          "path": "Creatures/Species/Kenku.md",
+          "sha256": "6a2ca2e02adce788115f2deaec9572c143882cb76e640112b0271a48838bf40b"
+        }
+      ],
+      "candidates": [
+        "kenku"
+      ],
+      "markerIds": [
+        "u0202:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0202:m1": "{{word but kinky let up}}"
+      }
+    },
+    {
+      "id": "recent-stay",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The preceding speaker mentions the Te'kula village, but Mexico does not uniquely identify the spoken place name or establish the complete replacement.",
+      "evidence": [
+        {
+          "path": "Groups/Cultures/Deno'qai Tribes/Elderwood Tribes/Te'kula.md",
+          "sha256": "6c327125c8e6719b668a379c64761b8934f12d29997617cb87fa5502275e48e8"
+        }
+      ],
+      "candidates": [
+        "Te'kula",
+        "Neshet"
+      ],
+      "markerIds": [
+        "u0222:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0222:m1": "{{Mexico}}"
+      }
+    },
+    {
+      "id": "silent-ones",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The godcaller offers equipment for the expedition to free the silent ones; the matching speech and reference establish Meswati. Balati is the former armor wearer, not the people on whose behalf the expedition fights.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Delwath Solo Arc/Prequel - Delwath.md",
+          "sha256": "644cb22c82e843456db2d10db3ed1596f50865c73bab122f34d04edaab3eb0b2"
+        },
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Meswati/Meswati.md",
+          "sha256": "6ec032ef4d5f6c88365c253c8ccca62cebe36e44085f24d08ab45aeccf880a9a"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 53 (DuFr).md",
+          "sha256": "bc926a36ef41839604890c66a800f38470e417052477f52902fdd654b2e0ed9e"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0465:m1"
+      ],
+      "replacements": {
+        "u0465:m1": "the Meswati"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "southern-city",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "In the map discussion of the northern Chardonian frontier, Voltara is strongly favored over the unrelated surface reading Voltaire.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Northwest Coast/Northern Provinces/Voltara/Voltara.md",
+          "sha256": "d8179c8e6b1944e205b7a06160569b2834c25d0fe5547c8a2c7681cb9c4e003a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0196:m1"
+      ],
+      "replacements": {
+        "u0196:m1": "Voltara"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "tower-wizard",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The matching introduction names the wizard whose tower is the rendezvous; the possessive belongs inside this marked span.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Delwath Solo Arc/Prequel - Delwath.md",
+          "sha256": "644cb22c82e843456db2d10db3ed1596f50865c73bab122f34d04edaab3eb0b2"
+        },
+        {
+          "path": "People/Historical Figures/Eudomes.md",
+          "sha256": "e2b4f2ccf189fce403c3a76ff9464e74523b2093deae01de4f12a1d492ca1796"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0006:m1"
+      ],
+      "replacements": {
+        "u0006:m1": "Eudomes'"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "undead-commander",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The ongoing concern about the southern commander defeating rivals strongly favors Grash; his name, command and location are established, though the recognition is imperfect.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Grash.md",
+          "sha256": "3d3dbf893416d0350386dbfc2639bc2dcc2431bdfea18dffc0ae43db37d9c484"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0223:m1"
+      ],
+      "replacements": {
+        "u0223:m1": "Grash"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0002:m1",
+      "uid": "u0002",
+      "ordinal": 1,
+      "lineNumber": 2,
+      "start": 235,
+      "end": 250,
+      "before": "{{Barry Chico}}",
+      "span": "Barry Chico",
+      "line": "[u0002 | 00:00:18.359-00:00:35.520 | DM] You can almost feel the hand of Aasimti holding this place hidden in light and shadow. The path seems to splinter and shift, as if seen through blinking, broken glass, and you sense the work of {{Barry Chico}}, the spirit of glass, in your vision.",
+      "contextBefore": [
+        "[u0001 | 00:00:02.909-00:00:16.619 | DM] Okay, so short intro as you are leaving the village have to have the Te'kula, following Theba and your friends back to the material world, keenly aware of the tanshi that seemed to hover just beyond your senses."
+      ],
+      "contextAfter": [
+        "[u0003 | 00:00:36.630-00:00:47.790 | DM] You feel rain on your face, the water soaking into the ground, and for a moment you sense the presence of {{show you}} as you almost feel the squashing of mud on your bare feet, through your armored boots.",
+        "[u0004 | 00:00:49.950-00:01:05.340 | DM] As you walk distracted by your newfound awareness of the spirits that flit around you, suddenly your—when your vision is pulled back to your friends in a jumbled collection of images, as the pocket dimension collapses: a ship approaching a jagged coastline."
+      ],
+      "after": "Birich'iko",
+      "group": "glass-spirit",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0003:m1",
+      "uid": "u0003",
+      "ordinal": 1,
+      "lineNumber": 3,
+      "start": 147,
+      "end": 159,
+      "before": "{{show you}}",
+      "span": "show you",
+      "line": "[u0003 | 00:00:36.630-00:00:47.790 | DM] You feel rain on your face, the water soaking into the ground, and for a moment you sense the presence of {{show you}} as you almost feel the squashing of mud on your bare feet, through your armored boots.",
+      "contextBefore": [
+        "[u0001 | 00:00:02.909-00:00:16.619 | DM] Okay, so short intro as you are leaving the village have to have the Te'kula, following Theba and your friends back to the material world, keenly aware of the tanshi that seemed to hover just beyond your senses.",
+        "[u0002 | 00:00:18.359-00:00:35.520 | DM] You can almost feel the hand of Aasimti holding this place hidden in light and shadow. The path seems to splinter and shift, as if seen through blinking, broken glass, and you sense the work of {{Barry Chico}}, the spirit of glass, in your vision."
+      ],
+      "contextAfter": [
+        "[u0004 | 00:00:49.950-00:01:05.340 | DM] As you walk distracted by your newfound awareness of the spirits that flit around you, suddenly your—when your vision is pulled back to your friends in a jumbled collection of images, as the pocket dimension collapses: a ship approaching a jagged coastline.",
+        "[u0005 | 00:01:10.800-00:01:15.660 | DM] of an unfamiliar island a meadow of golden butterflies a dense tropical forest."
+      ],
+      "after": "Ch'ik'a",
+      "group": "mud-spirit",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0006:m1",
+      "uid": "u0006",
+      "ordinal": 1,
+      "lineNumber": 6,
+      "start": 205,
+      "end": 220,
+      "before": "{{you do miss}}",
+      "span": "you do miss",
+      "line": "[u0006 | 00:01:16.920-00:01:29.160 | DM] As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: find your way to the Feywild, to the portal near {{you do miss}} Tower; we will meet again there.",
+      "contextBefore": [
+        "[u0004 | 00:00:49.950-00:01:05.340 | DM] As you walk distracted by your newfound awareness of the spirits that flit around you, suddenly your—when your vision is pulled back to your friends in a jumbled collection of images, as the pocket dimension collapses: a ship approaching a jagged coastline.",
+        "[u0005 | 00:01:10.800-00:01:15.660 | DM] of an unfamiliar island a meadow of golden butterflies a dense tropical forest."
+      ],
+      "contextAfter": [
+        "[u0007 | 00:01:30.660-00:01:32.670 | DM] And then you are hurtling towards the ground.",
+        "[u0008 | 00:01:33.780-00:01:47.640 | DM] It is late afternoon trending towards dusk, and you see below you the slopes of tall mountains, the peaks tipped in white, dense fir-pine forests covering the slopes. There's a chill in the air, the hint of a long winter to come."
+      ],
+      "after": "Eudomes'",
+      "group": "tower-wizard",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0082:m1",
+      "uid": "u0082",
+      "ordinal": 1,
+      "lineNumber": 82,
+      "start": 96,
+      "end": 111,
+      "before": "{{tenant taka}}",
+      "span": "tenant taka",
+      "line": "[u0082 | 00:08:01.650-00:08:08.610 | Delwath] After many twisted pathways I found my way to the {{tenant taka}}, right, was a guest of the Te'kula.",
+      "contextBefore": [
+        "[u0080 | 00:07:56.250-00:07:56.580 | DM] yeah.",
+        "[u0081 | 00:07:56.850-00:07:57.120 | Unknown] Okay."
+      ],
+      "contextAfter": [
+        "[u0083 | 00:08:10.050-00:08:12.840 | Delwath] People like yourselves, I believe.",
+        "[u0084 | 00:08:14.040-00:08:17.610 | Delwath] Most recently, he kind of walks back behind him 500 feet."
+      ],
+      "after": "Tinitaka",
+      "group": "elderwood-name",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0163:m1",
+      "uid": "u0163",
+      "ordinal": 1,
+      "lineNumber": 163,
+      "start": 47,
+      "end": 56,
+      "before": "{{shots}}",
+      "span": "shots",
+      "line": "[u0163 | 00:15:35.280-00:15:37.920 | DM] Delay {{shots}} troops long enough.",
+      "contextBefore": [
+        "[u0161 | 00:15:24.390-00:15:26.220 | DM] In stoneborn refuges.",
+        "[u0162 | 00:15:28.140-00:15:34.230 | DM] You know, the myth anyway is they only escaped because the six silent ones sacrificed to."
+      ],
+      "contextAfter": [
+        "[u0164 | 00:15:39.270-00:15:39.900 | Delwath] I will.",
+        "[u0165 | 00:15:40.920-00:15:45.060 | Delwath] Recount the tale of Yezali."
+      ],
+      "after": "Cha'mutte's",
+      "group": "great-war-commander",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0196:m1",
+      "uid": "u0196",
+      "ordinal": 1,
+      "lineNumber": 196,
+      "start": 46,
+      "end": 58,
+      "before": "{{Voltaire}}",
+      "span": "Voltaire",
+      "line": "[u0196 | 00:18:38.490-00:18:40.380 | Delwath] {{Voltaire}}, as far as to the south.",
+      "contextBefore": [
+        "[u0194 | 00:18:27.960-00:18:29.280 | Delwath] Just north, yeah yeah yeah.",
+        "[u0195 | 00:18:31.830-00:18:37.470 | Delwath] So, like they don't have any reference I mean they would they're just like this is way to the north, they."
+      ],
+      "contextAfter": [
+        "[u0197 | 00:18:42.030-00:18:42.450 | DM] yeah.",
+        "[u0198 | 00:18:42.480-00:18:47.340 | DM] I mean, there are no—nor, they know about Chardon, but they're far enough."
+      ],
+      "after": "Voltara",
+      "group": "southern-city",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0201:m1",
+      "uid": "u0201",
+      "ordinal": 1,
+      "lineNumber": 201,
+      "start": 182,
+      "end": 194,
+      "before": "{{Kangaroo}}",
+      "span": "Kangaroo",
+      "line": "[u0201 | 00:18:57.780-00:19:08.490 | DM] I mean if they're trading with anybody it's with the stoneborn, the like weird northern dwarves who live this far to the north, and then the {{Kangaroo}}, because right on the other side of the mountains from here is the vast open.",
+      "contextBefore": [
+        "[u0199 | 00:18:47.400-00:18:49.740 | Delwath] North that they that that empire isn't.",
+        "[u0200 | 00:18:49.890-00:18:56.460 | DM] anywhere close to them like the the most of the trade, they have is actually like with them."
+      ],
+      "contextAfter": [
+        "[u0202 | 00:19:09.150-00:19:11.640 | DM] Plains that {{word but kinky let up}}, so.",
+        "[u0203 | 00:19:12.960-00:19:26.670 | DM] Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the {{hours}}, like 400, 500 years ago, until {{some up looped in}} and wiped everything out."
+      ],
+      "after": "kenku",
+      "group": "northern-trading-people",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0223:m1",
+      "uid": "u0223",
+      "ordinal": 1,
+      "lineNumber": 223,
+      "start": 98,
+      "end": 107,
+      "before": "{{crush}}",
+      "span": "crush",
+      "line": "[u0223 | 00:21:29.700-00:21:34.320 | Delwath] That's actually bad, I really wanted to get down to {{crush}} before he defeated those two.",
+      "contextBefore": [
+        "[u0221 | 00:21:27.570-00:21:28.080 | DM] You spent.",
+        "[u0222 | 00:21:28.110-00:21:29.550 | DM] 10 days in {{Mexico}} and."
+      ],
+      "contextAfter": [
+        "[u0224 | 00:21:35.160-00:21:35.460 | Delwath] Oh well.",
+        "[u0225 | 00:21:36.180-00:21:37.500 | DM] He hasn't defeated them yet."
+      ],
+      "after": "Grash",
+      "group": "undead-commander",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0321:m1",
+      "uid": "u0321",
+      "ordinal": 1,
+      "lineNumber": 321,
+      "start": 59,
+      "end": 72,
+      "before": "{{year mode}}",
+      "span": "year mode",
+      "line": "[u0321 | 00:30:17.880-00:30:19.110 | DM] The battle of the {{year mode}}.",
+      "contextBefore": [
+        "[u0319 | 00:29:52.230-00:30:01.230 | DM] The Battle of the Endless Dark, where Taraka fell silent after three days {{when the sun rise}}, a place now constantly in shadow.",
+        "[u0320 | 00:30:02.910-00:30:16.020 | DM] The Battle Without Hope, where Yalik'I and Nisir fell silent, as our people died in hopelessness, cursed by some evil magic that made them lay down their arms and sit and wait for the slaughter."
+      ],
+      "contextAfter": [
+        "[u0322 | 00:30:20.610-00:30:21.000 | DM] Where.",
+        "[u0323 | 00:30:22.440-00:30:29.730 | DM] Midri and K'onisati fell silent, protecting the crossing of the river from endless hobgoblin hordes."
+      ],
+      "after": "Yemo'te",
+      "group": "battle-river",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0465:m1",
+      "uid": "u0465",
+      "ordinal": 1,
+      "lineNumber": 465,
+      "start": 176,
+      "end": 192,
+      "before": "{{them a lot T}}",
+      "span": "them a lot T",
+      "line": "[u0465 | 00:41:56.910-00:42:12.630 | DM] Leaning on a staff, like brings you this set of like shield and armor that he says, you know, if you're going into battle on behalf of {{them a lot T}}, going down to the Forest of Nightmares, you should you should take this.",
+      "contextBefore": [
+        "[u0463 | 00:41:40.170-00:41:42.960 | DM] The stoneborn and the wildfire druid.",
+        "[u0464 | 00:41:45.060-00:41:55.050 | DM] And so Enon, the Godcaller, this like old guy in his 70s, like bushy hair, bushy beard, wearing like long robes, um."
+      ],
+      "contextAfter": [
+        "[u0466 | 00:42:14.310-00:42:24.630 | DM] Those were worn by a hero of the Great War, a warrior of the tanshi, and have been waiting to be claimed by somebody who will fight for the silent ones for generations.",
+        "[u0467 | 00:42:26.700-00:42:29.520 | DM] Blessed and will aid you in your fight, I believe."
+      ],
+      "after": "the Meswati",
+      "group": "silent-ones",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u0196": {
+      "before": "[u0196 | 00:18:38.490-00:18:40.380 | Delwath] {{Voltaire}}, as far as to the south.\n",
+      "after": "[u0196 | 00:18:38.490-00:18:40.380 | Delwath] Voltara, as far as to the south.\n"
+    },
+    "u0465": {
+      "before": "[u0465 | 00:41:56.910-00:42:12.630 | DM] Leaning on a staff, like brings you this set of like shield and armor that he says, you know, if you're going into battle on behalf of {{them a lot T}}, going down to the Forest of Nightmares, you should you should take this.\n",
+      "after": "[u0465 | 00:41:56.910-00:42:12.630 | DM] Leaning on a staff, like brings you this set of like shield and armor that he says, you know, if you're going into battle on behalf of the Meswati, going down to the Forest of Nightmares, you should you should take this.\n"
+    },
+    "u0201": {
+      "before": "[u0201 | 00:18:57.780-00:19:08.490 | DM] I mean if they're trading with anybody it's with the stoneborn, the like weird northern dwarves who live this far to the north, and then the {{Kangaroo}}, because right on the other side of the mountains from here is the vast open.\n",
+      "after": "[u0201 | 00:18:57.780-00:19:08.490 | DM] I mean if they're trading with anybody it's with the stoneborn, the like weird northern dwarves who live this far to the north, and then the kenku, because right on the other side of the mountains from here is the vast open.\n"
+    },
+    "u0006": {
+      "before": "[u0006 | 00:01:16.920-00:01:29.160 | DM] As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: find your way to the Feywild, to the portal near {{you do miss}} Tower; we will meet again there.\n",
+      "after": "[u0006 | 00:01:16.920-00:01:29.160 | DM] As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: find your way to the Feywild, to the portal near Eudomes' Tower; we will meet again there.\n"
+    },
+    "u0321": {
+      "before": "[u0321 | 00:30:17.880-00:30:19.110 | DM] The battle of the {{year mode}}.\n",
+      "after": "[u0321 | 00:30:17.880-00:30:19.110 | DM] The battle of the Yemo'te.\n"
+    },
+    "u0002": {
+      "before": "[u0002 | 00:00:18.359-00:00:35.520 | DM] You can almost feel the hand of Aasimti holding this place hidden in light and shadow. The path seems to splinter and shift, as if seen through blinking, broken glass, and you sense the work of {{Barry Chico}}, the spirit of glass, in your vision.\n",
+      "after": "[u0002 | 00:00:18.359-00:00:35.520 | DM] You can almost feel the hand of Aasimti holding this place hidden in light and shadow. The path seems to splinter and shift, as if seen through blinking, broken glass, and you sense the work of Birich'iko, the spirit of glass, in your vision.\n"
+    },
+    "u0163": {
+      "before": "[u0163 | 00:15:35.280-00:15:37.920 | DM] Delay {{shots}} troops long enough.\n",
+      "after": "[u0163 | 00:15:35.280-00:15:37.920 | DM] Delay Cha'mutte's troops long enough.\n"
+    },
+    "u0003": {
+      "before": "[u0003 | 00:00:36.630-00:00:47.790 | DM] You feel rain on your face, the water soaking into the ground, and for a moment you sense the presence of {{show you}} as you almost feel the squashing of mud on your bare feet, through your armored boots.\n",
+      "after": "[u0003 | 00:00:36.630-00:00:47.790 | DM] You feel rain on your face, the water soaking into the ground, and for a moment you sense the presence of Ch'ik'a as you almost feel the squashing of mud on your bare feet, through your armored boots.\n"
+    },
+    "u0082": {
+      "before": "[u0082 | 00:08:01.650-00:08:08.610 | Delwath] After many twisted pathways I found my way to the {{tenant taka}}, right, was a guest of the Te'kula.\n",
+      "after": "[u0082 | 00:08:01.650-00:08:08.610 | Delwath] After many twisted pathways I found my way to the Tinitaka, right, was a guest of the Te'kula.\n"
+    },
+    "u0223": {
+      "before": "[u0223 | 00:21:29.700-00:21:34.320 | Delwath] That's actually bad, I really wanted to get down to {{crush}} before he defeated those two.\n",
+      "after": "[u0223 | 00:21:29.700-00:21:34.320 | Delwath] That's actually bad, I really wanted to get down to Grash before he defeated those two.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:03:16.520424+00:00",
+      "sha256": "68fd831b3ef6680c58437a5e44b899edcdca2122cd6956c86464734a6fe7caaf"
+    }
+  ],
+  "runId": "20261028T040316427134Z-0e34aa88",
+  "createdAt": "2026-10-28T04:03:16.427405+00:00"
+}

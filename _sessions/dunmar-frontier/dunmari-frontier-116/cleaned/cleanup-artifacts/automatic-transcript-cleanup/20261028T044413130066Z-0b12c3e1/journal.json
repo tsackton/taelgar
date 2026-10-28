@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-116",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-source-cleaned.md",
+  "beforeSha256": "1626ff4d2d607f8d6e7b4cc87cdfdf185dfd05259442378868ac4fdbc7af6c7c",
+  "afterSha256": "31b4ec3bae9df78de36af6fc53c5552914333064f946ed96a95387675da97b36",
+  "markersBefore": 63,
+  "groups": [
+    {
+      "id": "bahrazel",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Riswynn is driving away undead with dwarven divine power; the reference note establishes the collective name of the dwarven gods as Bahrâzel.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Embodied Gods/Bahrazel/Bahrazel.md",
+          "sha256": "bc9a92b8b364ef59b5c9c495057da783c25a940bd7a583278f4c18dc4edf7c73"
+        },
+        {
+          "path": "Gods and Religions/Religions/Dwarven Religious Practice.md",
+          "sha256": "b5345fed64d680ea6892df10bc72e15a33f801af8d2ffa0df3be40c5f16c8a3f"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2850:m1"
+      ],
+      "replacements": {
+        "u2850:m1": "Bahrâzel"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "dead-realm-fragment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The preceding line says land of the, so Land of the Dead is plausible, but the extra word tigers is unexplained. Removing it would reconstruct a damaged phrase.",
+      "evidence": [
+        {
+          "path": "Cosmology/Land of the Dead.md",
+          "sha256": "bf4f249612394f30147b272c31310adef8e2a14fa40ab5cd34eab9814545f9bc"
+        }
+      ],
+      "candidates": [
+        "Land of the Dead"
+      ],
+      "markerIds": [
+        "u3178:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u3178:m1": "{{Dead tigers}}"
+      }
+    },
+    {
+      "id": "delwath",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Wellby is proposing that the person who just suggested the crown test take it; Delwath replies that he meant Riswynn. The session roster establishes Delwath; Dylan is not a participant in this session.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-session.yaml",
+          "sha256": "db3dfa0e19e550ee3f8b6544e603e23feb76a6111937a69e1457ac75d7939706"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1600:m1"
+      ],
+      "replacements": {
+        "u1600:m1": "Delwath"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "initiative-name-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The initiative discussion may contain Seeker and Delwath, but the complete marked phrase includes unclear connective wording. A name-only replacement would reconstruct the phrase.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-session.yaml",
+          "sha256": "db3dfa0e19e550ee3f8b6544e603e23feb76a6111937a69e1457ac75d7939706"
+        }
+      ],
+      "candidates": [
+        "Seeker",
+        "Delwath"
+      ],
+      "markerIds": [
+        "u0312:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0312:m1": "{{seekers are dealt with}}"
+      }
+    },
+    {
+      "id": "jaguar-ability-fragment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The jaguar reference favors Lengau, and a prior session records Lengau's Claw. The fragment does not establish whether the speaker started the spirit name, a possessive, or the full ability name before saying The Jaguar Fist; retain the uncertain boundary.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Lengau.md",
+          "sha256": "cc73bc41c8d562460971d2770eefb0376810f8655c7ef9ab3d7be035db97dcc3"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 109 (DuFr).md",
+          "sha256": "ac76a098fdd1c515d61ebe703c5726d00cf63acdcee075a9db634e7284945423"
+        }
+      ],
+      "candidates": [
+        "Lengau",
+        "Lengau's Claw"
+      ],
+      "markerIds": [
+        "u3477:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u3477:m1": "{{lang}}"
+      }
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary dialogue, damaged sentences, descriptions, and source-phrase reconstruction are outside this pass. No complete uniquely supported name or setting-term replacement is established for these spans.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0038:m1",
+        "u0229:m1",
+        "u0316:m1",
+        "u0575:m1",
+        "u0820:m1",
+        "u0852:m1",
+        "u0857:m1",
+        "u1400:m1",
+        "u1483:m1",
+        "u1521:m1",
+        "u1776:m1",
+        "u1802:m1",
+        "u1864:m1",
+        "u1964:m1",
+        "u2049:m1",
+        "u2123:m1",
+        "u2126:m1",
+        "u2197:m1",
+        "u2211:m1",
+        "u2238:m1",
+        "u2278:m1",
+        "u2318:m1",
+        "u2336:m1",
+        "u2338:m1",
+        "u2365:m1",
+        "u2592:m1",
+        "u2895:m1",
+        "u2915:m1",
+        "u3168:m1",
+        "u3188:m1",
+        "u3627:m1",
+        "u3675:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0038:m1": "{{resume}}",
+        "u0229:m1": "{{Does. Got}}",
+        "u0316:m1": "{{Well, guys can, and inventory}}",
+        "u0575:m1": "{{section}}",
+        "u0820:m1": "{{He is young, too}}",
+        "u0852:m1": "{{blood, didn’t it}}",
+        "u0857:m1": "{{ears}}",
+        "u1400:m1": "{{Their historical mirror, retortion}}",
+        "u1483:m1": "{{How did the connections that were there}}",
+        "u1521:m1": "{{power talk about}}",
+        "u1776:m1": "{{prespose}}",
+        "u1802:m1": "{{What do you make? Answers}}",
+        "u1864:m1": "{{I know we’re in the cloud anymore}}",
+        "u1964:m1": "{{Crowd Hotel}}",
+        "u2049:m1": "{{We used to earn}}",
+        "u2123:m1": "{{And the stops}}",
+        "u2126:m1": "{{use at the stop again}}",
+        "u2197:m1": "{{With him passes}}",
+        "u2211:m1": "{{a month}}",
+        "u2238:m1": "{{Samost}}",
+        "u2278:m1": "{{Die, cleric}}",
+        "u2318:m1": "{{You honest answers}}",
+        "u2336:m1": "{{Baby}}",
+        "u2338:m1": "{{Have you ever get a medical 3 again}}",
+        "u2365:m1": "{{That’s all, that’s all}}",
+        "u2592:m1": "{{or set}}",
+        "u2895:m1": "{{incorrect}}",
+        "u2915:m1": "{{It would be more of that does}}",
+        "u3168:m1": "{{a red scar dripping like around his eye, whole saving}}",
+        "u3188:m1": "{{multiple planner}}",
+        "u3627:m1": "{{else die}}",
+        "u3675:m1": "{{Our goal is currently in the locks}}"
+      }
+    },
+    {
+      "id": "prehuman-crown-question",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The question follows the claim that the crown predates humans. Kenzo is a phonetic possibility, but the intended possessive referent and sense of the question are unclear; the roster alone does not resolve it.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-116/cleaned/dunmari-frontier-116-session.yaml",
+          "sha256": "db3dfa0e19e550ee3f8b6544e603e23feb76a6111937a69e1457ac75d7939706"
+        }
+      ],
+      "candidates": [
+        "Kenzo"
+      ],
+      "markerIds": [
+        "u1893:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1893:m1": "{{Kenzel’s}}"
+      }
+    },
+    {
+      "id": "rules-and-numbers",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Rules explanations, saves, inspiration, spell discussion, actions, and numerical wording are outside the name pass; retain without repairing mechanics or grammar.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0237:m1",
+        "u0630:m1",
+        "u0678:m1",
+        "u0690:m1",
+        "u0715:m1",
+        "u0715:m2",
+        "u0758:m1",
+        "u0775:m1",
+        "u0871:m1",
+        "u0873:m1",
+        "u0925:m1",
+        "u0951:m1",
+        "u1038:m1",
+        "u1060:m1",
+        "u1136:m1",
+        "u1137:m1",
+        "u1493:m1",
+        "u1539:m1",
+        "u1812:m1",
+        "u2285:m1",
+        "u2398:m1",
+        "u2529:m1",
+        "u2942:m1",
+        "u3486:m1",
+        "u3646:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0237:m1": "{{we have enrolled initiative}}",
+        "u0630:m1": "{{And achievement}}",
+        "u0678:m1": "{{5, 11}}",
+        "u0690:m1": "{{sister}}",
+        "u0715:m1": "{{back}}",
+        "u0715:m2": "{{You’re both}}",
+        "u0758:m1": "{{Hatch}}",
+        "u0775:m1": "{{that chooses which saving throw}}",
+        "u0871:m1": "{{advantage}}",
+        "u0873:m1": "{{intelligentness}}",
+        "u0925:m1": "{{kill the upcast}}",
+        "u0951:m1": "{{6 0}}",
+        "u1038:m1": "{{Reverse, winding}}",
+        "u1060:m1": "{{I have no use}}",
+        "u1136:m1": "{{bed}}",
+        "u1137:m1": "{{that’s not gonna that make ends on}}",
+        "u1493:m1": "{{attend}}",
+        "u1539:m1": "{{2824 h}}",
+        "u1812:m1": "{{Make a difference}}",
+        "u2285:m1": "{{value}}",
+        "u2398:m1": "{{Resilient}}",
+        "u2529:m1": "{{To our all}}",
+        "u2942:m1": "{{actually time}}",
+        "u3486:m1": "{{You saw the movement}}",
+        "u3646:m1": "{{Death worded as more people}}"
+      }
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u1600:m1",
+      "uid": "u1600",
+      "ordinal": 1,
+      "lineNumber": 1600,
+      "start": 61,
+      "end": 70,
+      "before": "{{Dylan}}",
+      "span": "Dylan",
+      "line": "[u1600 | 01:42:30.040-01:42:32.830 | Wellby] You right? Huh? {{Dylan}}? Yeah, of course.",
+      "contextBefore": [
+        "[u1598 | 01:42:23.340-01:42:25.210 | Wellby] Probably not Seeker. I was gonna say.",
+        "[u1599 | 01:42:25.951-01:42:29.528 | Delwath] I was thinking I was thinking, maybe"
+      ],
+      "contextAfter": [
+        "[u1601 | 01:42:33.070-01:42:34.330 | Delwath] I was. Gonna say, Riswynn.",
+        "[u1602 | 01:42:35.870-01:42:37.699 | Seeker] Wow! Alright! Alright!"
+      ],
+      "after": "Delwath",
+      "group": "delwath",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2850:m1",
+      "uid": "u2850",
+      "ordinal": 1,
+      "lineNumber": 2850,
+      "start": 78,
+      "end": 88,
+      "before": "{{barzel}}",
+      "span": "barzel",
+      "line": "[u2850 | 03:13:41.740-03:13:49.858 | DM] Blazing with the divine light of the {{barzel}} driving undead before her as she leads you forward",
+      "contextBefore": [
+        "[u2848 | 03:13:33.760-03:13:36.120 | DM] Love the girl, or I could go wrong.",
+        "[u2849 | 03:13:39.100-03:13:40.630 | DM] The Riswynn"
+      ],
+      "contextAfter": [
+        "[u2851 | 03:13:50.990-03:13:54.358 | DM] Through the haunted streets of Drankor.",
+        "[u2852 | 03:13:55.380-03:13:59.361 | DM] 20 min pass 30 min. As you begin to climb."
+      ],
+      "after": "Bahrâzel",
+      "group": "bahrazel",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u2850": {
+      "before": "[u2850 | 03:13:41.740-03:13:49.858 | DM] Blazing with the divine light of the {{barzel}} driving undead before her as she leads you forward\n",
+      "after": "[u2850 | 03:13:41.740-03:13:49.858 | DM] Blazing with the divine light of the Bahrâzel driving undead before her as she leads you forward\n"
+    },
+    "u1600": {
+      "before": "[u1600 | 01:42:30.040-01:42:32.830 | Wellby] You right? Huh? {{Dylan}}? Yeah, of course.\n",
+      "after": "[u1600 | 01:42:30.040-01:42:32.830 | Wellby] You right? Huh? Delwath? Yeah, of course.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:44:13.132949+00:00",
+      "sha256": "31b4ec3bae9df78de36af6fc53c5552914333064f946ed96a95387675da97b36"
+    }
+  ],
+  "runId": "20261028T044413130066Z-0b12c3e1",
+  "createdAt": "2026-10-28T04:44:13.130362+00:00"
+}

@@ -17,10 +17,10 @@
 [u0017 | 00:03:27.040-00:03:28.809 | DM] And then, when they were,
 [u0018 | 00:03:29.100-00:03:33.830 | DM] there was a there was the moment in time where everything was kind of
 [u0019 | 00:03:34.090-00:03:37.829 | DM] stretched like that, like pulled apart by
-[u0020 | 00:03:38.900-00:03:45.260 | DM] {{bar on and mollet}} by the two sort of Creator gods which created the multiverse
+[u0020 | 00:03:38.900-00:03:45.260 | DM] Arha and Malik by the two sort of Creator gods which created the multiverse
 [u0021 | 00:03:45.600-00:03:51.329 | DM] But there's like, but it's like pulling like Silly Putty, or something like these little strings
 [u0022 | 00:03:51.580-00:03:55.710 | DM] that connect to Taelgar. So that's like when you
-[u0023 | 00:03:56.120-00:04:02.379 | DM] you know, outside of {{Tokra}}, when there's like a weak point to pandemonium or a weak point to
+[u0023 | 00:03:56.120-00:04:02.379 | DM] you know, outside of Tokra, when there's like a weak point to pandemonium or a weak point to
 [u0024 | 00:04:03.450-00:04:04.590 | DM] um
 [u0025 | 00:04:04.950-00:04:09.589 | DM] the Arborea. That's like the remnants of these strings. But of course,
 [u0026 | 00:04:10.090-00:04:16.930 | DM] the plane of souls, these like strings, Don't necessarily connect to physical locations. They connect to
@@ -73,9 +73,9 @@
 [u0073 | 00:08:23.940-00:08:28.240 | DM] But this is connected. This is the same kind of ki that
 [u0074 | 00:08:28.280-00:08:29.550 | DM] the sort of
 [u0075 | 00:08:29.840-00:08:31.380 | DM] ki, um
-[u0076 | 00:08:31.660-00:08:40.569 | DM] the primal forces of nature and abundance, is what Kenzo has already kind of experienced with the god trees of {{something like I}}.
+[u0076 | 00:08:31.660-00:08:40.569 | DM] the primal forces of nature and abundance, is what Kenzo has already kind of experienced with the god trees of Deno'qai.
 [u0077 | 00:08:40.610-00:08:43.949 | DM] So that's connected to your staff, and the last one is
-[u0078 | 00:08:44.740-00:08:50.039 | DM] {{Bertara}}, which is the name for a water lily that's
+[u0078 | 00:08:44.740-00:08:50.039 | DM] Urtaro, which is the name for a water lily that's
 [u0079 | 00:08:50.110-00:08:52.460 | DM] cultivated by lizard folk,
 [u0080 | 00:08:53.010-00:08:56.140 | DM] and is known as like permanence ki,
 [u0081 | 00:08:56.370-00:09:02.480 | DM] and as sort of the counterpoint to Ohana, it's the sort of solid foundations on which,
@@ -86,7 +86,7 @@
 [u0086 | 00:09:17.000-00:09:19.639 | DM] so the Lizard folk will, like, you know,
 [u0087 | 00:09:19.800-00:09:27.220 | DM] dry the flowers, the purple flowers when they bloom in just the right time and place, and use that
 [u0088 | 00:09:27.260-00:09:28.409 | DM] as a
-[u0089 | 00:09:28.650-00:09:46.269 | DM] as a sort of source of this kind of ki, and obviously, like {{Goths}}, is probably connected to the same thing totally. That's it. Ten thousand percent like So {{Goth}} is like, you know, probably collects the ki of the land of the dead right? So it's another way of getting spirit ki.
+[u0089 | 00:09:28.650-00:09:46.269 | DM] as a sort of source of this kind of ki, and obviously, like gatza, is probably connected to the same thing totally. That's it. Ten thousand percent like So gatza is like, you know, probably collects the ki of the land of the dead right? So it's another way of getting spirit ki.
 [u0090 | 00:09:46.870-00:10:01.840 | DM] So these these kinds of and there's probably other kinds of ki that Kenzo Hasn't discovered yet. Right? Oh, there's there! There's some. There's infinite different kinds of ki that are out there; that because there's effectively infinite dimensions to these,
 [u0091 | 00:10:01.970-00:10:05.519 | DM] I mean the the way that um
 [u0092 | 00:10:06.690-00:10:11.369 | DM] the way that the lizard folk would have taught Kenzo about it is that it's sort of
@@ -223,7 +223,7 @@
 [u0223 | 00:25:44.630-00:25:51.139 | DM] Orekatu joining you. But for now you find yourself, though I had a scene for this
 [u0224 | 00:25:55.850-00:25:59.529 | DM] you find yourself at the at the edge of the river,
 [u0225 | 00:25:59.730-00:26:01.849 | DM] as the sun is sinking,
-[u0226 | 00:26:01.910-00:26:08.550 | DM] gazing across the cultivated plots of {{Heritaro}} floating in the peaceful evening light,
+[u0226 | 00:26:01.910-00:26:08.550 | DM] gazing across the cultivated plots of urtaro floating in the peaceful evening light,
 [u0227 | 00:26:08.870-00:26:20.770 | DM] when the quiet is broken by sounds of footsteps and the loud gurgle of a baby lizard folk marking the approach of the first of the champions chosen to accompany you on your journey.
 [u0228 | 00:26:22.760-00:26:25.719 | DM] Sorry. Do you want to introduce your character?
 [u0229 | 00:26:27.740-00:26:29.930 | Izzarak] You see that
@@ -839,7 +839,7 @@
 [u0839 | 01:18:12.650-01:18:16.419 | DM] um. Your stories of
 [u0840 | 01:18:17.330-01:18:21.820 | DM] the West Kenzo, and especially anything that you're willing to share, but
 [u0841 | 01:18:21.980-01:18:23.230 | DM] and that
-[u0842 | 01:18:23.320-01:18:27.779 | DM] elven forests in the {{dentistry}}, and where your staff came from,
+[u0842 | 01:18:23.320-01:18:27.779 | DM] elven forests in the Deno'qai, and where your staff came from,
 [u0843 | 01:18:28.510-01:18:45.840 | Kenzo] Yeah, actually Kenzo, uh, Kenzo's super fucking. Curious, I mean, has been all month to about like. Where the fuck are we like? How big is the Lizard folk kingdom, like, you know. Has anybody here ever interacted with, like you know, non-lizard folk have other elves, humans or dwarves, or anybody else ever ended up out here.
 [u0844 | 01:18:46.890-01:18:59.459 | DM] So yeah, so he he can tell you a few stories about that. So So Enari is He's never actually. I mean, he's met humans. You're not the first human he's met. He's met. He's met lizard folk. He's not met a dwarf
 [u0845 | 01:18:59.600-01:19:02.569 | DM] um. He tells you that
@@ -1771,7 +1771,7 @@
 [u1771 | 02:40:14.930-02:40:17.369 | Izzarak] that is forward again.
 [u1772 | 02:40:21.680-02:40:24.489 | DM] My name you may call me
 [u1773 | 02:40:27.260-02:40:30.520 | DM] Ember. It translates into your tongue,
-[u1774 | 02:40:30.590-02:40:32.319 | DM] {{Sony, nigh}}.
+[u1774 | 02:40:30.590-02:40:32.319 | DM] Somi-nai.
 [u1775 | 02:40:37.860-02:40:38.820 | DM] Hmm.
 [u1776 | 02:40:40.080-02:40:41.369 | DM] And you
 [u1777 | 02:40:42.070-02:40:44.369 | DM] looks at you, Kenzo.
@@ -1800,11 +1800,11 @@
 [u1800 | 02:42:29.680-02:42:35.230 | DM] Well, the land does want to be fixed. At least my land, {{the palace of your land}}.
 [u1801 | 02:42:38.740-02:42:41.290 | DM] He looks up at them
 [u1802 | 02:42:41.700-02:42:44.840 | DM] at the uh volcano.
-[u1803 | 02:42:48.150-02:42:49.890 | DM] {{So me and I}}
+[u1803 | 02:42:48.150-02:42:49.890 | DM] Somi-nai
 [u1804 | 02:42:50.840-02:42:53.670 | DM] that is me. That is my home,
 [u1805 | 02:42:56.620-02:42:58.259 | DM] the Lizard folk
 [u1806 | 02:42:58.410-02:42:59.520 | DM] um
-[u1807 | 02:43:00.700-02:43:03.830 | DM] call it {{sugar}}.
+[u1807 | 02:43:00.700-02:43:03.830 | DM] call it Sugarra.
 [u1808 | 02:43:06.120-02:43:08.140 | DM] But that is not its name.
 [u1809 | 02:43:08.310-02:43:10.160 | DM] It's not my name.
 [u1810 | 02:43:17.470-02:43:20.650 | DM] Fire is good,
@@ -1821,7 +1821,7 @@
 [u1821 | 02:44:00.460-02:44:06.349 | DM] it like runs up towards you like holding to like pile, you know handfuls of lava.
 [u1822 | 02:44:08.560-02:44:10.910 | DM] This is what's been wrought, not
 [u1823 | 02:44:12.280-02:44:14.929 | DM] the natural order of things,
-[u1824 | 02:44:17.060-02:44:19.470 | DM] {{cigars}} ruined,
+[u1824 | 02:44:17.060-02:44:19.470 | DM] Sugarra's ruined,
 [u1825 | 02:44:22.460-02:44:23.830 | DM] collapsing
 [u1826 | 02:44:24.260-02:44:25.810 | DM] into some.
 [u1827 | 02:44:28.490-02:44:34.270 | DM] Wherever this lava goes, whatever is at the bottom of this is consuming my mountain,
@@ -2041,7 +2041,7 @@
 [u2041 | 03:00:25.560-03:00:27.780 | DM] life and death of
 [u2042 | 03:00:30.110-03:00:32.659 | DM] Ohana, of the
 [u2043 | 03:00:33.270-03:00:34.890 | DM] not just the
-[u2044 | 03:00:42.650-03:00:46.110 | DM] {{Simon I.}} The volcano. My home is
+[u2044 | 03:00:42.650-03:00:46.110 | DM] Somi-nai. The volcano. My home is
 [u2045 | 03:00:48.980-03:00:50.770 | DM] life and death,
 [u2046 | 03:00:52.090-03:00:54.209 | DM] fertility and destruction,
 [u2047 | 03:00:55.770-03:00:57.100 | DM] speed,

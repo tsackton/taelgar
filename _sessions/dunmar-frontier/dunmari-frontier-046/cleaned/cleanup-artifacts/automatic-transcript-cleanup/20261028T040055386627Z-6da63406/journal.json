@@ -1,0 +1,1140 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-046",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-source-cleaned.md",
+  "beforeSha256": "850a54f61b3ee2603e42899f7bb41b43e2fc3cbe3926f97d3df2f4e511336c71",
+  "afterSha256": "29d9c675c750a390eb09893b464965c79e7da9e80be5abfa5d402fc01048f4e3",
+  "markersBefore": 66,
+  "groups": [
+    {
+      "id": "bahrazel",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The collective voice of the dwarven gods in the founding story strongly identifies the Bahrâzel; their reference note establishes the collective name and spelling.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Embodied Gods/Bahrazel/Bahrazel.md",
+          "sha256": "bc9a92b8b364ef59b5c9c495057da783c25a940bd7a583278f4c18dc4edf7c73"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 46 (DuFr).md",
+          "sha256": "8873bad5d61d530a245f4537a4c8728d74c2f35b058d48a9c149e57c90a376a5"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1539:m1"
+      ],
+      "replacements": {
+        "u1539:m1": "Bahrâzel"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "casian",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The wizard paired with Kadmos is Casian, whose reference note establishes the name and companion relationship.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Casian.md",
+          "sha256": "9253e17906df7793524343865a55945a20c4cc14a58bc7dc38feb4d99a28869f"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0792:m1"
+      ],
+      "replacements": {
+        "u0792:m1": "Casian"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "centaurs",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The trusted herd leader previously met by the party is Tharandros; the marked word denotes his people, centaurs, rather than an ordinary center.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Tharandros.md",
+          "sha256": "c830471e2b14b82467e4674b0c39a68dab6bd569f2e14be6fe4e0f767aea6838"
+        },
+        {
+          "path": "Creatures/Species/Centaurs.md",
+          "sha256": "d61ca77444efab0d3f459ce7d31a670225e22b6de42cecbd18b290df4eda21db"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1090:m1"
+      ],
+      "replacements": {
+        "u1090:m1": "centaurs"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "chardon-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Chardon is apparent inside a larger damaged clause about arriving quickly; replacing the entire span requires reconstructing ordinary wording.",
+      "evidence": [],
+      "candidates": [
+        "Chardon"
+      ],
+      "markerIds": [
+        "u1134:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1134:m1": "{{This meeting cheriton}}"
+      }
+    },
+    {
+      "id": "departure-destination",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "A destination such as Nayahar is possible, but the contrast with the next damaged span does not securely identify it.",
+      "evidence": [],
+      "candidates": [
+        "Nayahar"
+      ],
+      "markerIds": [
+        "u0505:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0505:m1": "{{noisy}}"
+      }
+    },
+    {
+      "id": "diamond-records",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The possible place or name is embedded in a damaged connective phrase. The diamond vision does not establish a Koch brothers identity or a complete name-only replacement.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Mirror Visions/Extravagant Diamond Vision.md",
+          "sha256": "bc3c8ab73fc08eee22c93a88b78c6b95d3ec5b7faf215bc67ef35b9702785b4e"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0029:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0029:m1": "{{Koch brothers}}"
+      }
+    },
+    {
+      "id": "emerald-bay",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The named bay north of Darba is strongly favored by the coastal-route context and the established bay spelling.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Chardon/Chardonian Empire/Apporia/Emerald Bay.md",
+          "sha256": "beb3cbcdd3ecb22d9b19cb152c019774de00babaac100dd561ceddaa543ffda0"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0403:m1"
+      ],
+      "replacements": {
+        "u0403:m1": "Emerald Bay"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "gnaeus",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The proposed contact is the Chardonian author who described the forest worshippers of Rai; Research from Kassi uniquely identifies Gnaeus in this role.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Research from Kassi.md",
+          "sha256": "ea5dc987e8db81b3861570922fc298f5719d2aac892752ce62704b302bdc6a2e"
+        },
+        {
+          "path": "People/Chardonians/Gnaeus.md",
+          "sha256": "af9f46cad52e9e0a5b4131752aa0f31c6e3b7ca200e1f22e93d52210332a5827"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0914:m1"
+      ],
+      "replacements": {
+        "u0914:m1": "Gnaeus"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "highkeep",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Seeker’s backstory establishes Highkeep as his clan. Preserve the speaker’s use of it as a place rather than substituting the factually appropriate city Darakan.",
+      "evidence": [
+        {
+          "path": "People/PCs/Dunmar Fellowship/Seeker.md",
+          "sha256": "8b2f8f32c624834ed7056f6507330f4150d10ed1ac2b9a65af1c335b8b5f10e5"
+        },
+        {
+          "path": "Gazetteer/Central Highlands/Dwarven Kingdoms/Darakan.md",
+          "sha256": "413d4d4d4e8c317a27c7c3e2f3f4c9b023c5c4b9c24658ea3c102c15748c0ebc"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1390:m1"
+      ],
+      "replacements": {
+        "u1390:m1": "Highkeep"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "introduction-letter-senders",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The letter may refer to Lara, Kaleha, or both; the full marked phrase includes damaged connective wording and cannot safely become only a name.",
+      "evidence": [],
+      "candidates": [
+        "Lara",
+        "Kaleha"
+      ],
+      "markerIds": [
+        "u0496:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0496:m1": "{{A lawyer that hi kayla}}"
+      }
+    },
+    {
+      "id": "johar-contact",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Johar is the likely person in the question, but his name is embedded in a damaged question whose full replacement boundaries are unclear.",
+      "evidence": [],
+      "candidates": [
+        "Johar"
+      ],
+      "markerIds": [
+        "u0460:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0460:m1": "{{It to her to his contact}}"
+      }
+    },
+    {
+      "id": "letter-provenance",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The next exchange identifies a scroll from the Tokra Archives, but the player may be misremembering a sender. A complete correction of this apparent name is not secure.",
+      "evidence": [],
+      "candidates": [
+        "Tokra",
+        "Sura"
+      ],
+      "markerIds": [
+        "u0671:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0671:m1": "{{sephora}}"
+      }
+    },
+    {
+      "id": "letter-recipient",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The damaged letter suggestion may end in a recipient name, but neither the identity nor the complete span is recoverable.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0031:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0031:m1": "{{I mean he's like a letter to are}}"
+      }
+    },
+    {
+      "id": "marcella-companions",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The echo completes the immediately preceding reference to Marcella escaping her Chardonian companions; her reference note identifies that group.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Marcella.md",
+          "sha256": "c505d7c869ca731e7edb360a5c7dd0db995af3d5a134d145ae9ef21826181907"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0249:m1"
+      ],
+      "replacements": {
+        "u0249:m1": "Chardonians"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "nayahar",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The speculation concerns a recovered Dunmari artifact reaching the court city; the nearby discussion repeatedly names Nayahar and its note establishes that administrative center.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Dunmar/Realms/Dunmar/Western Dunmar/Nayahar.md",
+          "sha256": "24769e8be169bc4caf25abff817e49fc7db194338443a10cd71b4e0ca7d106b6"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0843:m1"
+      ],
+      "replacements": {
+        "u0843:m1": "Nayahar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Numbers, incidental chatter, directions, descriptive wording, generic social terminology, and damaged ordinary phrases are outside this names-only pass; retain every complete marked span unchanged.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0007:m1",
+        "u0041:m1",
+        "u0387:m1",
+        "u0398:m1",
+        "u0421:m1",
+        "u0505:m2",
+        "u0781:m1",
+        "u1065:m1",
+        "u1109:m1",
+        "u1111:m1",
+        "u1134:m2",
+        "u1156:m1",
+        "u1172:m1",
+        "u1209:m1",
+        "u1209:m2",
+        "u1260:m1",
+        "u1260:m2",
+        "u1261:m1",
+        "u1283:m2",
+        "u1286:m1",
+        "u1323:m1",
+        "u1374:m1",
+        "u1378:m1",
+        "u1445:m1",
+        "u1468:m1",
+        "u1488:m1",
+        "u1576:m1",
+        "u1635:m1",
+        "u1942:m1",
+        "u1993:m1",
+        "u1994:m1",
+        "u2275:m1",
+        "u2296:m1",
+        "u2724:m1",
+        "u3054:m1",
+        "u3147:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0007:m1": "{{30}}",
+        "u0041:m1": "{{As additional actual authority, as opposed to figure out are the dark as}}",
+        "u0387:m1": "{{that like crappy bandits}}",
+        "u0398:m1": "{{rocky}}",
+        "u0421:m1": "{{would straw and record the docks crowd in the small boats}}",
+        "u0505:m2": "{{right}}",
+        "u0781:m1": "{{con con man}}",
+        "u1065:m1": "{{down, while it's}}",
+        "u1109:m1": "{{always aware of us}}",
+        "u1111:m1": "{{we'll be back}}",
+        "u1134:m2": "{{time}}",
+        "u1156:m1": "{{josh is working for him}}",
+        "u1172:m1": "{{it's true wild master}}",
+        "u1209:m1": "{{This is hate is going to be destroyed}}",
+        "u1209:m2": "{{rival Twitter}}",
+        "u1260:m1": "{{on himself}}",
+        "u1260:m2": "{{at while so}}",
+        "u1261:m1": "{{mountain most right}}",
+        "u1283:m2": "{{till that}}",
+        "u1286:m1": "{{wow}}",
+        "u1323:m1": "{{nihilists}}",
+        "u1374:m1": "{{not been used to combat}}",
+        "u1378:m1": "{{or neat ways}}",
+        "u1445:m1": "{{Chardonians seem so tough}}",
+        "u1468:m1": "{{Catholic tackling}}",
+        "u1488:m1": "{{one}}",
+        "u1576:m1": "{{taste}}",
+        "u1635:m1": "{{our header}}",
+        "u1942:m1": "{{on their weight and I}}",
+        "u1993:m1": "{{I keep them as safe as I can I haven't done any times}}",
+        "u1994:m1": "{{death}}",
+        "u2275:m1": "{{or 75}}",
+        "u2296:m1": "{{435}}",
+        "u2724:m1": "{{a slot}}",
+        "u3054:m1": "{{never haven't found anything from the temp now}}",
+        "u3147:m1": "{{Ruby code}}"
+      }
+    },
+    {
+      "id": "scholar-in-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The discussion suggests Gnaeus, but his name may be embedded at the end of an otherwise damaged phrase; the whole span cannot safely be replaced with a name.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Research from Kassi.md",
+          "sha256": "ea5dc987e8db81b3861570922fc298f5719d2aac892752ce62704b302bdc6a2e"
+        }
+      ],
+      "candidates": [
+        "Gnaeus"
+      ],
+      "markerIds": [
+        "u0899:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0899:m1": "{{ripped unless you go find nozzles}}"
+      }
+    },
+    {
+      "id": "scholar-misremembering",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Gnaeus fits the author under discussion, but this description of a smashed mind does not match his reference account and the marker includes extra wording. Preserve a possible spoken mistake rather than substituting a factually convenient name.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Gnaeus.md",
+          "sha256": "af9f46cad52e9e0a5b4131752aa0f31c6e3b7ca200e1f22e93d52210332a5827"
+        }
+      ],
+      "candidates": [
+        "Gnaeus"
+      ],
+      "markerIds": [
+        "u0903:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0903:m1": "{{NASA as}}"
+      }
+    },
+    {
+      "id": "seeker",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Riswynn is speaking with Travok alongside Seeker and introduces their adventuring party; the matching participant configuration establishes Seeker’s name.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-046/cleaned/dunmari-frontier-046-session.yaml",
+          "sha256": "f410b92cb155113704bdf95a342d402c311ae09461c9925b6dd94f2868788a88"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 46 (DuFr).md",
+          "sha256": "8873bad5d61d530a245f4537a4c8728d74c2f35b058d48a9c149e57c90a376a5"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1449:m1"
+      ],
+      "replacements": {
+        "u1449:m1": "Seeker"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "sembara-route",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Sembara is plausible within a phrase about a route under the mountains, but replacing the entire marked span would also reconstruct a preposition.",
+      "evidence": [],
+      "candidates": [
+        "Sembara"
+      ],
+      "markerIds": [
+        "u1281:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1281:m1": "{{three somebody}}"
+      }
+    },
+    {
+      "id": "send-destination",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "This may include a request to send to Darba, but the marked span does not isolate a secure name from the damaged ordinary wording.",
+      "evidence": [],
+      "candidates": [
+        "Darba"
+      ],
+      "markerIds": [
+        "u0522:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0522:m1": "{{siddharth}}"
+      }
+    },
+    {
+      "id": "shrev",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The southern coastal boundary before dangerous waters strongly favors the Shrev, whose note establishes it as the southern Dunmari frontier flowing into the Nevos Sea.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Dunmar/Rivers/Shrev.md",
+          "sha256": "c05920e1fac233ee10d0911bc592bba46591eebacf50bbc84eb791c9e844cdf7"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1947:m1"
+      ],
+      "replacements": {
+        "u1947:m1": "Shrev"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "staff-adviser",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Basu is phonetically plausible, while the earlier session assigns the staff gift and shaping advice to Rishi. The intended spoken adviser is not secure; do not replace it merely with the factually correct source.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Basu.md",
+          "sha256": "c55659a61df2c351da7247d680d55be8868d77c6f76be56247410d556468640b"
+        },
+        {
+          "path": "People/Dunmari/Rishi.md",
+          "sha256": "f9df0c0d1190a5b11d6e9573335b23b21ec20196a6aa7e7e9c66fd2eb3e29b6b"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 42 (DuFr).md",
+          "sha256": "c2d413b84cc13186edf5437266d3e6b846f15c1a8b690b1fedcc7c610b3efd88"
+        }
+      ],
+      "candidates": [
+        "Basu",
+        "Rishi"
+      ],
+      "markerIds": [
+        "u1984:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1984:m1": "{{bosses}}"
+      }
+    },
+    {
+      "id": "tokra-retcon",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The discussion is about retroactively asking Govir in the town just left; Govir is based at the Tokra Archives. The clipped recognition favors Tokra.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Govir.md",
+          "sha256": "1754dcee39931d8d23546a216b84c65643174bf1c18c1f3744d18a5b29fc6a2d"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0520:m1"
+      ],
+      "replacements": {
+        "u0520:m1": "Tokra"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "travok",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The same Redpeak messenger continues the conversation; the reference note identifies him as Travok.",
+      "evidence": [
+        {
+          "path": "People/Dwarves/Travok Redpeak.md",
+          "sha256": "62b702327958c92009a1bd081d154fb3d09dcb15c6746bee697ee0b231e3386f"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1625:m1"
+      ],
+      "replacements": {
+        "u1625:m1": "Travok"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "travok-guards",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The man with the accompanying guards is Travok, now lodging with his cousin. Torgga is the separately introduced hostess; the masculine pronoun and guards refer back to Travok.",
+      "evidence": [
+        {
+          "path": "People/Dwarves/Travok Redpeak.md",
+          "sha256": "62b702327958c92009a1bd081d154fb3d09dcb15c6746bee697ee0b231e3386f"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 46 (DuFr).md",
+          "sha256": "8873bad5d61d530a245f4537a4c8728d74c2f35b058d48a9c149e57c90a376a5"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1670:m1"
+      ],
+      "replacements": {
+        "u1670:m1": "Travok"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "travok-introduction",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The surname, messenger role, and session record identify Travok Redpeak. Both repeated first-name tokens are retained as Travok Travok.",
+      "evidence": [
+        {
+          "path": "People/Dwarves/Travok Redpeak.md",
+          "sha256": "62b702327958c92009a1bd081d154fb3d09dcb15c6746bee697ee0b231e3386f"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 46 (DuFr).md",
+          "sha256": "8873bad5d61d530a245f4537a4c8728d74c2f35b058d48a9c149e57c90a376a5"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1360:m1"
+      ],
+      "replacements": {
+        "u1360:m1": "Travok Travok"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "uplift-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The span seems to include Dunmari geography and the mountain uplift, but restoring the surrounding wording would require phrase reconstruction.",
+      "evidence": [],
+      "candidates": [
+        "Yuvanti Mountains",
+        "Dunmar"
+      ],
+      "markerIds": [
+        "u0401:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0401:m1": "{{when the plateau have been done my desert and then you bought the mountains}}"
+      }
+    },
+    {
+      "id": "upriver-description",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "This appears to describe the scholar’s route, but any names are embedded in ordinary damaged wording that cannot be reconstructed in this pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0896:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0896:m1": "{{Up route bathroom}}"
+      }
+    },
+    {
+      "id": "yezali",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The named power who might return Delwath through a portal is his established patron Yezali. This corrects only the marked name.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md",
+          "sha256": "bad2517aae7dfc353a46ae5b2f2a393f75fe7ee393f69f2e7e1ea46398a51d27"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1283:m1"
+      ],
+      "replacements": {
+        "u1283:m1": "Yezali"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "yezali-followers",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Delwath distinguishes finding his patron’s people from finding the Rai worshippers. The established patron and lost-cult context strongly favor Yezali.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md",
+          "sha256": "bad2517aae7dfc353a46ae5b2f2a393f75fe7ee393f69f2e7e1ea46398a51d27"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0917:m1"
+      ],
+      "replacements": {
+        "u0917:m1": "Yezali"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0249:m1",
+      "uid": "u0249",
+      "ordinal": 1,
+      "lineNumber": 249,
+      "start": 50,
+      "end": 64,
+      "before": "{{try it out}}",
+      "span": "try it out",
+      "line": "[u0249 | 00:18:42.750-00:18:44.520 | Delwath] The {{try it out}} yeah.",
+      "contextBefore": [
+        "[u0247 | 00:18:39.240-00:18:39.390 | Unknown] A.",
+        "[u0248 | 00:18:40.650-00:18:42.720 | Kenzo] Marcella was trying to escape the."
+      ],
+      "contextAfter": [
+        "[u0250 | 00:18:45.510-00:18:54.690 | Wellby] I think I think it's got to be at least a week or more right because her plan was to escape when they got all the way back to the.",
+        "[u0251 | 00:18:56.040-00:18:58.050 | Wellby] The whatchamacallit, to Myraeni yeah."
+      ],
+      "after": "Chardonians",
+      "group": "marcella-companions",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0403:m1",
+      "uid": "u0403",
+      "ordinal": 1,
+      "lineNumber": 403,
+      "start": 208,
+      "end": 222,
+      "before": "{{animal Bay}}",
+      "span": "animal Bay",
+      "line": "[u0403 | 00:30:42.930-00:30:59.130 | DM] And what is now Darba was once a small trading post and fortification at the mouth of a little known or cared about river a way station on the way to the coast of the {{animal Bay}} to the north of backwater really marked only by the fort and then eventually the road.",
+      "contextBefore": [
+        "[u0401 | 00:30:17.310-00:30:32.190 | DM] of the land that used to be here this, this is not this this land has been here for for a long time, this is not, you have to go further south to get to the new land that rose up out of the ocean {{when the plateau have been done my desert and then you bought the mountains}}.",
+        "[u0402 | 00:30:35.370-00:30:41.310 | DM] you're traveling along an old Drankorian road, which of course has its own layer of history."
+      ],
+      "contextAfter": [
+        "[u0404 | 00:31:00.690-00:31:17.820 | DM] While there's very little, if anything left of this Drankorian settlement, now that fort itself still stands and the shining white walls and towers of the fort loom over the city of Darba perched on a hill above the harbor.",
+        "[u0405 | 00:31:20.130-00:31:33.120 | DM] And the road still passes through the ancient iron gates of the outer walls Drankorian construction when not destroyed by war or disaster seems to last for a very long time."
+      ],
+      "after": "Emerald Bay",
+      "group": "emerald-bay",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0520:m1",
+      "uid": "u0520",
+      "ordinal": 1,
+      "lineNumber": 520,
+      "start": 98,
+      "end": 106,
+      "before": "{{grab}}",
+      "span": "grab",
+      "line": "[u0520 | 00:42:19.440-00:42:23.010 | DM] Govir. I'm not sure about retconning all the way back to {{grab}}.",
+      "contextBefore": [
+        "[u0518 | 00:42:12.510-00:42:16.920 | Kenzo] So how about this, how about we asked what's the who's the archivist friend again.",
+        "[u0519 | 00:42:17.940-00:42:18.960 | Seeker] Go ahead go."
+      ],
+      "contextAfter": [
+        "[u0521 | 00:42:23.100-00:42:25.560 | Kenzo] ya know this kid know this would be a letter letter this is this is.",
+        "[u0522 | 00:42:26.040-00:42:32.670 | Kenzo] This is this is using your your whole mail system thing, so we can send word and be like hey you know, can you can you send {{siddharth}}."
+      ],
+      "after": "Tokra",
+      "group": "tokra-retcon",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0792:m1",
+      "uid": "u0792",
+      "ordinal": 1,
+      "lineNumber": 792,
+      "start": 112,
+      "end": 123,
+      "before": "{{casting}}",
+      "span": "casting",
+      "line": "[u0792 | 01:06:10.860-01:06:25.620 | DM] Just you know I don't know what you're assuming about the abilities of {{casting}} and Kadmos to communicate with Chardon but unless they have something more powerful than magic's you are.",
+      "contextBefore": [
+        "[u0790 | 01:06:05.070-01:06:08.100 | Delwath] Like there's a big this delta has a big lizardfolk community.",
+        "[u0791 | 01:06:09.270-01:06:10.830 | Seeker] Perhaps they could help us out overland."
+      ],
+      "contextAfter": [
+        "[u0793 | 01:06:27.330-01:06:32.940 | DM] familiar with and used to write if they're relying on sending and similar.",
+        "[u0794 | 01:06:35.820-01:06:38.070 | DM] You know, they may be able to get some."
+      ],
+      "after": "Casian",
+      "group": "casian",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0843:m1",
+      "uid": "u0843",
+      "ordinal": 1,
+      "lineNumber": 843,
+      "start": 189,
+      "end": 199,
+      "before": "{{Navajo}}",
+      "span": "Navajo",
+      "line": "[u0843 | 01:10:20.940-01:10:32.130 | Wellby] it's possible that whatever was hidden during the war was recovered which yep you know you might be nothing or might mean you know that it's in {{Navajo}} right now.",
+      "contextBefore": [
+        "[u0841 | 01:10:10.530-01:10:18.180 | Wellby] sparked Servius to come here also says, after the war, we would recover this and get it back again.",
+        "[u0842 | 01:10:19.290-01:10:19.890 | Wellby] So."
+      ],
+      "contextAfter": [
+        "[u0844 | 01:10:32.760-01:10:40.740 | Delwath] hold on the items that we know about the super powerful artifacts we know about, or the scepter, the ring that controls death.",
+        "[u0845 | 01:10:42.420-01:10:43.230 | Delwath] In a cloak."
+      ],
+      "after": "Nayahar",
+      "group": "nayahar",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0914:m1",
+      "uid": "u0914",
+      "ordinal": 1,
+      "lineNumber": 914,
+      "start": 60,
+      "end": 68,
+      "before": "{{NASA}}",
+      "span": "NASA",
+      "line": "[u0914 | 01:14:47.730-01:14:53.820 | Delwath] find this guy {{NASA}} talk to him for an hour and then get out of dodge go find the Rai people.",
+      "contextBefore": [
+        "[u0912 | 01:14:30.090-01:14:44.880 | Delwath] If we move quickly what we should do is move quickly and get to Chardon before they could have gotten back, nobody will particularly be looking for us, I doubt rumors of us have even really reached Chardon and we're not world is ready.",
+        "[u0913 | 01:14:45.570-01:14:47.070 | Kenzo] What are we doing in Chardon."
+      ],
+      "contextAfter": [
+        "[u0915 | 01:14:55.080-01:14:59.700 | Riswynn] or just get off the boat there because it's convenient place to get off the boat and get up and go up the river.",
+        "[u0916 | 01:15:00.150-01:15:01.320 | Riswynn] Right I type in anybody."
+      ],
+      "after": "Gnaeus",
+      "group": "gnaeus",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0917:m1",
+      "uid": "u0917",
+      "ordinal": 1,
+      "lineNumber": 917,
+      "start": 164,
+      "end": 174,
+      "before": "{{us all}}",
+      "span": "us all",
+      "line": "[u0917 | 01:15:03.360-01:15:15.300 | Delwath] I mean there's two things in the forest, we want to go after right, we want to Del—I would like to find the people of {{us all}} right see if they're all dead and.",
+      "contextBefore": [
+        "[u0915 | 01:14:55.080-01:14:59.700 | Riswynn] or just get off the boat there because it's convenient place to get off the boat and get up and go up the river.",
+        "[u0916 | 01:15:00.150-01:15:01.320 | Riswynn] Right I type in anybody."
+      ],
+      "contextAfter": [
+        "[u0918 | 01:15:16.470-01:15:18.060 | Delwath] we'd also like to hunt down these.",
+        "[u0919 | 01:15:20.730-01:15:26.670 | Delwath] People who worship, Rai figure out what's going on there, and while we're at it that's actually not far Delwath's homeland."
+      ],
+      "after": "Yezali",
+      "group": "yezali-followers",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1090:m1",
+      "uid": "u1090",
+      "ordinal": 1,
+      "lineNumber": 1090,
+      "start": 61,
+      "end": 73,
+      "before": "{{center's}}",
+      "span": "center's",
+      "line": "[u1090 | 01:30:35.250-01:30:36.600 | Wellby] The head of the {{center's}}.",
+      "contextBefore": [
+        "[u1088 | 01:30:30.150-01:30:33.840 | Wellby] I think, also is trustworthy I don't know if you'd have an answer.",
+        "[u1089 | 01:30:34.020-01:30:34.620 | Seeker] But is that."
+      ],
+      "contextAfter": [
+        "[u1091 | 01:30:36.810-01:30:37.200 | Delwath] Oh yeah.",
+        "[u1092 | 01:30:38.760-01:30:39.960 | Kenzo] You know who else is."
+      ],
+      "after": "centaurs",
+      "group": "centaurs",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1283:m1",
+      "uid": "u1283",
+      "ordinal": 1,
+      "lineNumber": 1283,
+      "start": 41,
+      "end": 53,
+      "before": "{{he's Ali}}",
+      "span": "he's Ali",
+      "line": "[u1283 | 01:41:10.110-01:41:14.820 | DM] {{he's Ali}} will have some way to teleport you back to the right portal that Delwath {{till that}}.",
+      "contextBefore": [
+        "[u1281 | 01:40:46.770-01:40:52.740 | DM] yeah you might not be able to go straight over the mountains, you might need to go under and {{three somebody}} or.",
+        "[u1282 | 01:40:53.250-01:41:09.030 | DM] But like seriously there's literally no point in making plans about what you're going to do, once you get to the mountains, because so much stuff is going to happen, but there's many take you many routes that could take you from the forest to I mean for all you know."
+      ],
+      "contextAfter": [
+        "[u1284 | 01:41:16.230-01:41:16.680 | Delwath] Day yeah.",
+        "[u1285 | 01:41:17.130-01:41:17.580 | Wellby] Nice."
+      ],
+      "after": "Yezali",
+      "group": "yezali",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1360:m1",
+      "uid": "u1360",
+      "ordinal": 1,
+      "lineNumber": 1360,
+      "start": 41,
+      "end": 56,
+      "before": "{{truck truck}}",
+      "span": "truck truck",
+      "line": "[u1360 | 01:47:54.900-01:47:57.930 | DM] {{truck truck}} Redpeak and his.",
+      "contextBefore": [
+        "[u1358 | 01:47:49.770-01:47:50.580 | DM] Yes, yes.",
+        "[u1359 | 01:47:52.410-01:47:53.100 | DM] Riswynn."
+      ],
+      "contextAfter": [
+        "[u1361 | 01:47:59.070-01:48:02.070 | DM] band of hardy guards arrived.",
+        "[u1362 | 01:48:03.360-01:48:04.530 | DM] Three days ago."
+      ],
+      "after": "Travok Travok",
+      "group": "travok-introduction",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1390:m1",
+      "uid": "u1390",
+      "ordinal": 1,
+      "lineNumber": 1390,
+      "start": 80,
+      "end": 93,
+      "before": "{{high keep}}",
+      "span": "high keep",
+      "line": "[u1390 | 01:50:11.760-01:50:13.860 | Seeker] Oh yes, I come from a place called {{high keep}}.",
+      "contextBefore": [
+        "[u1388 | 01:50:08.490-01:50:08.880 | Seeker] Sorry.",
+        "[u1389 | 01:50:09.540-01:50:11.160 | Riswynn] you're from the northern mountains aren't you."
+      ],
+      "contextAfter": [
+        "[u1391 | 01:50:15.420-01:50:16.920 | DM] a long way from home oh.",
+        "[u1392 | 01:50:18.210-01:50:20.910 | DM] But he's uh he's good yeah."
+      ],
+      "after": "Highkeep",
+      "group": "highkeep",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1449:m1",
+      "uid": "u1449",
+      "ordinal": 1,
+      "lineNumber": 1449,
+      "start": 46,
+      "end": 54,
+      "before": "{{deca}}",
+      "span": "deca",
+      "line": "[u1449 | 01:55:03.780-01:55:05.940 | Riswynn] {{deca}} and I are part of a party of.",
+      "contextBefore": [
+        "[u1447 | 01:54:52.500-01:54:57.060 | DM] But the Council thought some diplomacy should be attempted first but.",
+        "[u1448 | 01:54:58.650-01:55:00.690 | DM] Maybe not based on what you're saying."
+      ],
+      "contextAfter": [
+        "[u1450 | 01:55:09.420-01:55:16.770 | Riswynn] me, you know that I've been training that I've been in service to our people and that I.",
+        "[u1451 | 01:55:19.770-01:55:29.880 | Riswynn] I am, you know able to hold my own a fight and and these folks I'm traveling with are of equal capacity and."
+      ],
+      "after": "Seeker",
+      "group": "seeker",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1539:m1",
+      "uid": "u1539",
+      "ordinal": 1,
+      "lineNumber": 1539,
+      "start": 41,
+      "end": 55,
+      "before": "{{Horizontal}}",
+      "span": "Horizontal",
+      "line": "[u1539 | 02:02:35.160-02:02:38.790 | DM] {{Horizontal}} spoke as one saying.",
+      "contextBefore": [
+        "[u1537 | 02:02:29.940-02:02:31.530 | DM] and water flowed out of that.",
+        "[u1538 | 02:02:32.940-02:02:33.990 | DM] And the voice of the."
+      ],
+      "contextAfter": [
+        "[u1540 | 02:02:41.280-02:02:43.290 | DM] This is where your new city will be.",
+        "[u1541 | 02:02:45.420-02:02:48.210 | DM] And that became the heart of Tharn Todor."
+      ],
+      "after": "Bahrâzel",
+      "group": "bahrazel",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1625:m1",
+      "uid": "u1625",
+      "ordinal": 1,
+      "lineNumber": 1625,
+      "start": 41,
+      "end": 50,
+      "before": "{{truck}}",
+      "span": "truck",
+      "line": "[u1625 | 02:10:12.780-02:10:14.160 | DM] {{truck}} Redpeak says.",
+      "contextBefore": [
+        "[u1623 | 02:10:05.400-02:10:06.450 | DM] So I'm.",
+        "[u1624 | 02:10:10.350-02:10:10.680 | Unknown] Sorry."
+      ],
+      "contextAfter": [
+        "[u1626 | 02:10:17.670-02:10:18.270 | DM] Well, I.",
+        "[u1627 | 02:10:20.700-02:10:21.510 | DM] I see your."
+      ],
+      "after": "Travok",
+      "group": "travok",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1670:m1",
+      "uid": "u1670",
+      "ordinal": 1,
+      "lineNumber": 1670,
+      "start": 41,
+      "end": 51,
+      "before": "{{Travel}}",
+      "span": "Travel",
+      "line": "[u1670 | 02:14:13.800-02:14:22.500 | DM] {{Travel}} has like six guards that are staying like in you know cramped into you know the outbuildings but you've got rooms for each of you.",
+      "contextBefore": [
+        "[u1668 | 02:13:57.960-02:14:05.100 | DM] So she's got it she's got a fairly large the dwarven quarter is a lot of it's fairly wealthy and there's a lot of.",
+        "[u1669 | 02:14:06.390-02:14:10.950 | DM] fairly large houses and she's got plenty of space."
+      ],
+      "contextAfter": [
+        "[u1671 | 02:14:24.480-02:14:29.310 | DM] And so, spend the night, we will cut to.",
+        "[u1672 | 02:14:32.940-02:14:41.400 | DM] The other group or I guess there's two other groups right but Seeker, we can cut back, I can cut back to you if you want to talk to the dwarves more, I just want to let Kate go to bed."
+      ],
+      "after": "Travok",
+      "group": "travok-guards",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1947:m1",
+      "uid": "u1947",
+      "ordinal": 1,
+      "lineNumber": 1947,
+      "start": 221,
+      "end": 233,
+      "before": "{{shrapnel}}",
+      "span": "shrapnel",
+      "line": "[u1947 | 02:37:47.550-02:38:02.490 | DM] None, almost none go to Illoria really none go to Chardon basically just go up and down the coast, but it's pretty easy sailing along the coast it's not until you get south of the {{shrapnel}} that it starts to get into the storms.",
+      "contextBefore": [
+        "[u1945 | 02:37:28.770-02:37:39.510 | DM] Before any they don't really like ships before any ship leaves they they like feed the figurehead, with earth from the port so that they'll return.",
+        "[u1946 | 02:37:40.080-02:37:47.130 | DM] But they're not terrible sailors, I mean that they are coast huggers right so very few Dunmari ships go."
+      ],
+      "contextAfter": [
+        "[u1948 | 02:38:04.500-02:38:11.130 | DM] And that Nayahar is at the height of navigation of the Nayan River so that.",
+        "[u1949 | 02:38:12.180-02:38:17.640 | DM] there's a small port where somebody can transfer to a river boat or lots of people just."
+      ],
+      "after": "Shrev",
+      "group": "shrev",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u0249": {
+      "before": "[u0249 | 00:18:42.750-00:18:44.520 | Delwath] The {{try it out}} yeah.\n",
+      "after": "[u0249 | 00:18:42.750-00:18:44.520 | Delwath] The Chardonians yeah.\n"
+    },
+    "u0843": {
+      "before": "[u0843 | 01:10:20.940-01:10:32.130 | Wellby] it's possible that whatever was hidden during the war was recovered which yep you know you might be nothing or might mean you know that it's in {{Navajo}} right now.\n",
+      "after": "[u0843 | 01:10:20.940-01:10:32.130 | Wellby] it's possible that whatever was hidden during the war was recovered which yep you know you might be nothing or might mean you know that it's in Nayahar right now.\n"
+    },
+    "u0403": {
+      "before": "[u0403 | 00:30:42.930-00:30:59.130 | DM] And what is now Darba was once a small trading post and fortification at the mouth of a little known or cared about river a way station on the way to the coast of the {{animal Bay}} to the north of backwater really marked only by the fort and then eventually the road.\n",
+      "after": "[u0403 | 00:30:42.930-00:30:59.130 | DM] And what is now Darba was once a small trading post and fortification at the mouth of a little known or cared about river a way station on the way to the coast of the Emerald Bay to the north of backwater really marked only by the fort and then eventually the road.\n"
+    },
+    "u0520": {
+      "before": "[u0520 | 00:42:19.440-00:42:23.010 | DM] Govir. I'm not sure about retconning all the way back to {{grab}}.\n",
+      "after": "[u0520 | 00:42:19.440-00:42:23.010 | DM] Govir. I'm not sure about retconning all the way back to Tokra.\n"
+    },
+    "u1283": {
+      "before": "[u1283 | 01:41:10.110-01:41:14.820 | DM] {{he's Ali}} will have some way to teleport you back to the right portal that Delwath {{till that}}.\n",
+      "after": "[u1283 | 01:41:10.110-01:41:14.820 | DM] Yezali will have some way to teleport you back to the right portal that Delwath {{till that}}.\n"
+    },
+    "u1360": {
+      "before": "[u1360 | 01:47:54.900-01:47:57.930 | DM] {{truck truck}} Redpeak and his.\n",
+      "after": "[u1360 | 01:47:54.900-01:47:57.930 | DM] Travok Travok Redpeak and his.\n"
+    },
+    "u1390": {
+      "before": "[u1390 | 01:50:11.760-01:50:13.860 | Seeker] Oh yes, I come from a place called {{high keep}}.\n",
+      "after": "[u1390 | 01:50:11.760-01:50:13.860 | Seeker] Oh yes, I come from a place called Highkeep.\n"
+    },
+    "u0917": {
+      "before": "[u0917 | 01:15:03.360-01:15:15.300 | Delwath] I mean there's two things in the forest, we want to go after right, we want to Del—I would like to find the people of {{us all}} right see if they're all dead and.\n",
+      "after": "[u0917 | 01:15:03.360-01:15:15.300 | Delwath] I mean there's two things in the forest, we want to go after right, we want to Del—I would like to find the people of Yezali right see if they're all dead and.\n"
+    },
+    "u1670": {
+      "before": "[u1670 | 02:14:13.800-02:14:22.500 | DM] {{Travel}} has like six guards that are staying like in you know cramped into you know the outbuildings but you've got rooms for each of you.\n",
+      "after": "[u1670 | 02:14:13.800-02:14:22.500 | DM] Travok has like six guards that are staying like in you know cramped into you know the outbuildings but you've got rooms for each of you.\n"
+    },
+    "u0914": {
+      "before": "[u0914 | 01:14:47.730-01:14:53.820 | Delwath] find this guy {{NASA}} talk to him for an hour and then get out of dodge go find the Rai people.\n",
+      "after": "[u0914 | 01:14:47.730-01:14:53.820 | Delwath] find this guy Gnaeus talk to him for an hour and then get out of dodge go find the Rai people.\n"
+    },
+    "u1947": {
+      "before": "[u1947 | 02:37:47.550-02:38:02.490 | DM] None, almost none go to Illoria really none go to Chardon basically just go up and down the coast, but it's pretty easy sailing along the coast it's not until you get south of the {{shrapnel}} that it starts to get into the storms.\n",
+      "after": "[u1947 | 02:37:47.550-02:38:02.490 | DM] None, almost none go to Illoria really none go to Chardon basically just go up and down the coast, but it's pretty easy sailing along the coast it's not until you get south of the Shrev that it starts to get into the storms.\n"
+    },
+    "u1449": {
+      "before": "[u1449 | 01:55:03.780-01:55:05.940 | Riswynn] {{deca}} and I are part of a party of.\n",
+      "after": "[u1449 | 01:55:03.780-01:55:05.940 | Riswynn] Seeker and I are part of a party of.\n"
+    },
+    "u1539": {
+      "before": "[u1539 | 02:02:35.160-02:02:38.790 | DM] {{Horizontal}} spoke as one saying.\n",
+      "after": "[u1539 | 02:02:35.160-02:02:38.790 | DM] Bahrâzel spoke as one saying.\n"
+    },
+    "u0792": {
+      "before": "[u0792 | 01:06:10.860-01:06:25.620 | DM] Just you know I don't know what you're assuming about the abilities of {{casting}} and Kadmos to communicate with Chardon but unless they have something more powerful than magic's you are.\n",
+      "after": "[u0792 | 01:06:10.860-01:06:25.620 | DM] Just you know I don't know what you're assuming about the abilities of Casian and Kadmos to communicate with Chardon but unless they have something more powerful than magic's you are.\n"
+    },
+    "u1090": {
+      "before": "[u1090 | 01:30:35.250-01:30:36.600 | Wellby] The head of the {{center's}}.\n",
+      "after": "[u1090 | 01:30:35.250-01:30:36.600 | Wellby] The head of the centaurs.\n"
+    },
+    "u1625": {
+      "before": "[u1625 | 02:10:12.780-02:10:14.160 | DM] {{truck}} Redpeak says.\n",
+      "after": "[u1625 | 02:10:12.780-02:10:14.160 | DM] Travok Redpeak says.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:00:55.514676+00:00",
+      "sha256": "29d9c675c750a390eb09893b464965c79e7da9e80be5abfa5d402fc01048f4e3"
+    }
+  ],
+  "runId": "20261028T040055386627Z-6da63406",
+  "createdAt": "2026-10-28T04:00:55.386962+00:00"
+}

@@ -1,0 +1,360 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmar-frontier-032",
+  "transcript": "_sessions/dunmar-frontier/dunmar-frontier-032/cleaned/dunmar-frontier-032-source-cleaned.md",
+  "beforeSha256": "a7b7b72ca079eb52296a3029d36883266ca488a3048ca3ae5e9b69df48809846",
+  "afterSha256": "1f6c4b97de87cf7d408f86dc0bffa2e409347baf65d15cf75599def9ff139e32",
+  "markersBefore": 11,
+  "groups": [
+    {
+      "id": "avatus-emperor",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The mirror-maker’s imperial patron, associated with the Sembaran defeat, uniquely matches Avatus. The two Avitus forms precede the later explicit pronunciation correction; treat these as likely recognition drift. Retain the immediately corrected Atavas occurrence separately.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Avatus.md",
+          "sha256": "e70011a08023d233454d4fc02b21fe3680478b0a76be020f3bc781080012b83c"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1707:m1",
+        "u1710:m1"
+      ],
+      "replacements": {
+        "u1707:m1": "Avatus",
+        "u1710:m1": "Avatus"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "avatus-spoken-correction",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The next turn explicitly restarts and supplies Avatus, making an actual spoken misnaming plausible. Preserve the original marked wording rather than replacing a possible spoken mistake.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Avatus.md",
+          "sha256": "e70011a08023d233454d4fc02b21fe3680478b0a76be020f3bc781080012b83c"
+        }
+      ],
+      "candidates": [
+        "Avatus"
+      ],
+      "markerIds": [
+        "u1784:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1784:m1": "{{Atavas}}"
+      }
+    },
+    {
+      "id": "damaged-object-source-phrase",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "The illustrative object-source phrase is damaged ordinary wording, without a uniquely recoverable whole-span name replacement. Reconstructing it as a phrase about Agata would exceed this names pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u1327:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1327:m1": "{{Argus Fort}}"
+      }
+    },
+    {
+      "id": "kenzo-initiation-deities",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Both compressed forms strongly favor the two-name list Bhishma, Laka. Kenzo explicitly names Shakun, Bhishma, and Laka earlier in this transcript (u0326); the immediate follow-up supplies Shakun as the missing third god and jokes about listing three gods. Restore only the two complete names inside each marker.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Bhishma.md",
+          "sha256": "19664d9b166d7ae2ca054ee3552f2475e5d71b214ae7fa3766b64714e26ad3f0"
+        },
+        {
+          "path": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Laka.md",
+          "sha256": "b75b98870a7ec28e0623559a737536c447182218eda2f7768addcd9688fc9dd0"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u3939:m1",
+        "u3940:m1"
+      ],
+      "replacements": {
+        "u3939:m1": "Bhishma, Laka",
+        "u3940:m1": "Bhishma, Laka"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "misremembered-dynasty",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The previous turn names Derik II, and the speaker then says House of Darick. The established dynasty is Sewick, but substituting the historically correct house could erase a spoken mistake. Preserve the whole marked phrase.",
+      "evidence": [
+        {
+          "path": "Groups/Sembaran Noble Houses/House of Sewick.md",
+          "sha256": "87102b7b8c777cf18b9fa5108aa361879619cb1a01fb215664a076da4134b77a"
+        }
+      ],
+      "candidates": [
+        "House of Derik",
+        "House of Sewick"
+      ],
+      "markerIds": [
+        "u1801:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1801:m1": "{{House of Darick}}"
+      }
+    },
+    {
+      "id": "politics-false-start",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "The surrounding sentence explicitly discusses Dunmari politics. The marked false start cannot be replaced with a complete supported name without reconstructing ordinary wording.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u3568:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u3568:m1": "{{drink or}}"
+      }
+    },
+    {
+      "id": "uzgash-farming-community",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The current dialogue identifies the peaceful farming orcs opposed by Grash. Session 21 records the same community under a dismissive label using Uzgash’s name. Normalize the name spelling while preserving the speaker’s shorthand; do not substitute Grash, a settlement, or a new group title.",
+      "evidence": [
+        {
+          "path": "People/Orcs/Uzgash.md",
+          "sha256": "646d8c6605ebd84d3f331154de857fd19191afcc8c32277a11bfb77941ae64a7"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 21 (DuFr).md",
+          "sha256": "cf63482e5193bb30a9fc28e1f008af656b681a964690094876492d1ffa5214b0"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1221:m1",
+        "u1222:m1",
+        "u1223:m1"
+      ],
+      "replacements": {
+        "u1221:m1": "Uzgash",
+        "u1222:m1": "Uzgash",
+        "u1223:m1": "Uzgash"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u1221:m1",
+      "uid": "u1221",
+      "ordinal": 1,
+      "lineNumber": 1221,
+      "start": 89,
+      "end": 99,
+      "before": "{{Uzgosh}}",
+      "span": "Uzgosh",
+      "line": "[u1221 | 01:09:08.572-01:09:11.812 | Delwath] Uh, why is Grash, like, trying to kill the {{Uzgosh}}?",
+      "contextBefore": [
+        "[u1219 | 01:09:03.232-01:09:06.591 | Delwath] why did somebody want to make an army of gnolls, right?",
+        "[u1220 | 01:09:06.591-01:09:07.612 | Delwath] What's Grash up to?"
+      ],
+      "contextAfter": [
+        "[u1222 | 01:09:12.912-01:09:13.532 | Unknown] What's {{Uzgosh}}?",
+        "[u1223 | 01:09:14.092-01:09:15.992 | Delwath] {{Uzgosh}} were the peaceful farmer folks."
+      ],
+      "after": "Uzgash",
+      "group": "uzgash-farming-community",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1222:m1",
+      "uid": "u1222",
+      "ordinal": 1,
+      "lineNumber": 1222,
+      "start": 53,
+      "end": 63,
+      "before": "{{Uzgosh}}",
+      "span": "Uzgosh",
+      "line": "[u1222 | 01:09:12.912-01:09:13.532 | Unknown] What's {{Uzgosh}}?",
+      "contextBefore": [
+        "[u1220 | 01:09:06.591-01:09:07.612 | Delwath] What's Grash up to?",
+        "[u1221 | 01:09:08.572-01:09:11.812 | Delwath] Uh, why is Grash, like, trying to kill the {{Uzgosh}}?"
+      ],
+      "contextAfter": [
+        "[u1223 | 01:09:14.092-01:09:15.992 | Delwath] {{Uzgosh}} were the peaceful farmer folks.",
+        "[u1224 | 01:09:16.092-01:09:16.752 | Seeker] Yeah, they're the nice folks."
+      ],
+      "after": "Uzgash",
+      "group": "uzgash-farming-community",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1223:m1",
+      "uid": "u1223",
+      "ordinal": 1,
+      "lineNumber": 1223,
+      "start": 46,
+      "end": 56,
+      "before": "{{Uzgosh}}",
+      "span": "Uzgosh",
+      "line": "[u1223 | 01:09:14.092-01:09:15.992 | Delwath] {{Uzgosh}} were the peaceful farmer folks.",
+      "contextBefore": [
+        "[u1221 | 01:09:08.572-01:09:11.812 | Delwath] Uh, why is Grash, like, trying to kill the {{Uzgosh}}?",
+        "[u1222 | 01:09:12.912-01:09:13.532 | Unknown] What's {{Uzgosh}}?"
+      ],
+      "contextAfter": [
+        "[u1224 | 01:09:16.092-01:09:16.752 | Seeker] Yeah, they're the nice folks.",
+        "[u1225 | 01:09:16.772-01:09:17.672 | Unknown] Oh, right. Right."
+      ],
+      "after": "Uzgash",
+      "group": "uzgash-farming-community",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1707:m1",
+      "uid": "u1707",
+      "ordinal": 1,
+      "lineNumber": 1707,
+      "start": 56,
+      "end": 66,
+      "before": "{{Avitus}}",
+      "span": "Avitus",
+      "line": "[u1707 | 01:35:50.580-01:35:52.720 | DM] for Emperor A- {{Avitus}}.",
+      "contextBefore": [
+        "[u1705 | 01:35:42.980-01:35:43.780 | DM] He made this.",
+        "[u1706 | 01:35:46.500-01:35:47.120 | DM] A present"
+      ],
+      "contextAfter": [
+        "[u1708 | 01:35:55.900-01:35:56.600 | DM] Do you not know?",
+        "[u1709 | 01:36:00.660-01:36:02.060 | DM] Well, that would not make him proud."
+      ],
+      "after": "Avatus",
+      "group": "avatus-emperor",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1710:m1",
+      "uid": "u1710",
+      "ordinal": 1,
+      "lineNumber": 1710,
+      "start": 56,
+      "end": 66,
+      "before": "{{Avitus}}",
+      "span": "Avitus",
+      "line": "[u1710 | 01:36:05.380-01:36:10.580 | Seeker] Is Emperor {{Avitus}} perhaps imprisoned yet within the mirror?",
+      "contextBefore": [
+        "[u1708 | 01:35:55.900-01:35:56.600 | DM] Do you not know?",
+        "[u1709 | 01:36:00.660-01:36:02.060 | DM] Well, that would not make him proud."
+      ],
+      "contextAfter": [
+        "[u1711 | 01:36:15.980-01:36:19.360 | DM] No. Sadly, he died on the field of battle against those",
+        "[u1712 | 01:36:20.460-01:36:21.540 | DM] Sembaran scum."
+      ],
+      "after": "Avatus",
+      "group": "avatus-emperor",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u3939:m1",
+      "uid": "u3939",
+      "ordinal": 1,
+      "lineNumber": 3939,
+      "start": 109,
+      "end": 123,
+      "before": "{{Bishtimala}}",
+      "span": "Bishtimala",
+      "line": "[u3939 | 03:46:06.088-03:46:11.668 | Kenzo] I think you're, you're aware, uh, Sura, I'm a humble initiate of {{Bishtimala}} and, um...",
+      "contextBefore": [
+        "[u3937 | 03:46:02.528-03:46:03.608 | Unknown] like my companions,",
+        "[u3938 | 03:46:04.648-03:46:04.888 | Unknown] um,"
+      ],
+      "contextAfter": [
+        "[u3940 | 03:46:13.248-03:46:14.208 | Unknown] {{Bishtimela}}... What's the other one?",
+        "[u3941 | 03:46:15.808-03:46:16.328 | DM] Shakun."
+      ],
+      "after": "Bhishma, Laka",
+      "group": "kenzo-initiation-deities",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u3940:m1",
+      "uid": "u3940",
+      "ordinal": 1,
+      "lineNumber": 3940,
+      "start": 46,
+      "end": 60,
+      "before": "{{Bishtimela}}",
+      "span": "Bishtimela",
+      "line": "[u3940 | 03:46:13.248-03:46:14.208 | Unknown] {{Bishtimela}}... What's the other one?",
+      "contextBefore": [
+        "[u3938 | 03:46:04.648-03:46:04.888 | Unknown] um,",
+        "[u3939 | 03:46:06.088-03:46:11.668 | Kenzo] I think you're, you're aware, uh, Sura, I'm a humble initiate of {{Bishtimala}} and, um..."
+      ],
+      "contextAfter": [
+        "[u3941 | 03:46:15.808-03:46:16.328 | DM] Shakun.",
+        "[u3942 | 03:46:16.828-03:46:17.388 | Unknown] Shakun."
+      ],
+      "after": "Bhishma, Laka",
+      "group": "kenzo-initiation-deities",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u1221": {
+      "before": "[u1221 | 01:09:08.572-01:09:11.812 | Delwath] Uh, why is Grash, like, trying to kill the {{Uzgosh}}?\n",
+      "after": "[u1221 | 01:09:08.572-01:09:11.812 | Delwath] Uh, why is Grash, like, trying to kill the Uzgash?\n"
+    },
+    "u1710": {
+      "before": "[u1710 | 01:36:05.380-01:36:10.580 | Seeker] Is Emperor {{Avitus}} perhaps imprisoned yet within the mirror?\n",
+      "after": "[u1710 | 01:36:05.380-01:36:10.580 | Seeker] Is Emperor Avatus perhaps imprisoned yet within the mirror?\n"
+    },
+    "u3939": {
+      "before": "[u3939 | 03:46:06.088-03:46:11.668 | Kenzo] I think you're, you're aware, uh, Sura, I'm a humble initiate of {{Bishtimala}} and, um...\n",
+      "after": "[u3939 | 03:46:06.088-03:46:11.668 | Kenzo] I think you're, you're aware, uh, Sura, I'm a humble initiate of Bhishma, Laka and, um...\n"
+    },
+    "u1707": {
+      "before": "[u1707 | 01:35:50.580-01:35:52.720 | DM] for Emperor A- {{Avitus}}.\n",
+      "after": "[u1707 | 01:35:50.580-01:35:52.720 | DM] for Emperor A- Avatus.\n"
+    },
+    "u3940": {
+      "before": "[u3940 | 03:46:13.248-03:46:14.208 | Unknown] {{Bishtimela}}... What's the other one?\n",
+      "after": "[u3940 | 03:46:13.248-03:46:14.208 | Unknown] Bhishma, Laka... What's the other one?\n"
+    },
+    "u1223": {
+      "before": "[u1223 | 01:09:14.092-01:09:15.992 | Delwath] {{Uzgosh}} were the peaceful farmer folks.\n",
+      "after": "[u1223 | 01:09:14.092-01:09:15.992 | Delwath] Uzgash were the peaceful farmer folks.\n"
+    },
+    "u1222": {
+      "before": "[u1222 | 01:09:12.912-01:09:13.532 | Unknown] What's {{Uzgosh}}?\n",
+      "after": "[u1222 | 01:09:12.912-01:09:13.532 | Unknown] What's Uzgash?\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T11:46:46.512716+00:00",
+      "sha256": "1f6c4b97de87cf7d408f86dc0bffa2e409347baf65d15cf75599def9ff139e32"
+    }
+  ],
+  "runId": "20261028T114646508588Z-ab4c7810",
+  "createdAt": "2026-10-28T11:46:46.509795+00:00"
+}

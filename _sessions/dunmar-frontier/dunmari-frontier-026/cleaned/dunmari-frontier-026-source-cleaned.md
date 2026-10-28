@@ -464,8 +464,8 @@
 [u0464 | 00:44:28.680-00:44:29.520 | Delwath] totally different.
 [u0465 | 00:44:30.870-00:44:32.100 | Kenzo] Oh.
 [u0466 | 00:44:32.160-00:44:33.300 | Delwath] giants a stoneborn I mean.
-[u0467 | 00:44:33.450-00:44:36.750 | Delwath] stoneborn, are they where we call them {{owners}} in high school, but they were.
-[u0468 | 00:44:36.750-00:44:41.700 | Delwath] Like the the monk, they were like {{barrels mentors}}.
+[u0467 | 00:44:33.450-00:44:36.750 | Delwath] stoneborn, are they where we call them ogres in high school, but they were.
+[u0468 | 00:44:36.750-00:44:41.700 | Delwath] Like the the monk, they were like Beryl's mentors.
 [u0469 | 00:44:41.880-00:44:43.350 | DM] Right and they.
 [u0470 | 00:44:43.380-00:44:52.530 | DM] So they're one of the other races like one of the firstborn races like elves dwarves halflings and lizard folk there the fifth of the five firstborn races.
 [u0471 | 00:44:52.620-00:44:53.220 | Unknown] six.

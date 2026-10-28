@@ -1,0 +1,1395 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-040",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-040/cleaned/dunmari-frontier-040-source-cleaned.md",
+  "beforeSha256": "0de477e3241958f7f6079fcb7ff8e063daa705c32a1c660ba3c1afd11726e578",
+  "afterSha256": "74125a0284ee8e5acdf30d8898082e2d53dca2788fae731d167d40ffaae66d6b",
+  "markersBefore": 157,
+  "groups": [
+    {
+      "id": "bahrazel",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The collective name of the dwarven gods matches both the marked sound and the immediately preceding forge-protection discussion.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Embodied Gods/Bahrazel/Bahrazel.md",
+          "sha256": "bc9a92b8b364ef59b5c9c495057da783c25a940bd7a583278f4c18dc4edf7c73"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1411:m1"
+      ],
+      "replacements": {
+        "u1411:m1": "Bahrâzel"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "candrosa-boundary",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The matching introduction identifies Candrosa and his title, but the transcription distributes damaged wording across the marker and adjacent unmarked text. No complete name-only replacement is safe.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Session 40.md",
+          "sha256": "a06cb061f5481bdbb469436142646ed504cb7f285e87d720204ff4d0a42fbe05"
+        }
+      ],
+      "candidates": [
+        "Candrosa"
+      ],
+      "markerIds": [
+        "u0035:m2"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0035:m2": "{{Croatia could}}"
+      }
+    },
+    {
+      "id": "creators-mixed-phrases",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The creator names are supported, but these complete marked spans also contain damaged ordinary wording. Replacing them would reconstruct the phrase beyond names.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/High Gods/Divine Presence.md",
+          "sha256": "99d92f5e38e36430e6eeebe0f04dc39be92331000aac32d25de18a1d7c2ac253"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra Area Map/Tokra Area Map.md",
+          "sha256": "cc34c6989cc70c6dd11a551aa6d5e544239016d960364250b546807e34f09b5d"
+        }
+      ],
+      "candidates": [
+        "Shurat and Sampa"
+      ],
+      "markerIds": [
+        "u1679:m1",
+        "u1686:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1679:m1": "{{one shot and sample}}",
+        "u1686:m1": "{{a certain shoppach thought back and kill the the lead now}}"
+      }
+    },
+    {
+      "id": "grash-mixed-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Grash is already present inside a longer damaged phrase; the remaining words cannot be reconstructed in this pass.",
+      "evidence": [],
+      "candidates": [
+        "Grash"
+      ],
+      "markerIds": [
+        "u0077:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0077:m1": "{{Grash plus ou}}"
+      }
+    },
+    {
+      "id": "hara",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The river name is repeated unmarked as Hara immediately afterward. Preserve the directions and spoken self-corrections.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Dunmar/Rivers/Hara Watershed/Hara.md",
+          "sha256": "961634a000923476dc042d7fdfc9463c8f1eb4c46cf5305ceb68ec1d479b3824"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1897:m1"
+      ],
+      "replacements": {
+        "u1897:m1": "Hara"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "jumi",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Cintra's daughter is uniquely identified by the reference note and the session introduction.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Jumi.md",
+          "sha256": "94d3dba5aac6ac35bfe6b10423066fd6a27e9fdb7ff34d8f24ee17b267c2014a"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Session 40.md",
+          "sha256": "a06cb061f5481bdbb469436142646ed504cb7f285e87d720204ff4d0a42fbe05"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0035:m1"
+      ],
+      "replacements": {
+        "u0035:m1": "Jumi"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "kaeso",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The list of people from Kenzo's past identifies his mentor Kaeso alongside Johar and Rishi; the reference establishes the spelling.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Kaeso.md",
+          "sha256": "a390865e0a1c4be792a63bb1a1d898b459642b5249eed9999cbeb41619c6122c"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0364:m1"
+      ],
+      "replacements": {
+        "u0364:m1": "Kaeso"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "kassi",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The promised information about lost gods and Rai uniquely identifies librarian Kassi, whose earlier research request is recorded in the reference and Session 35.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Kassi.md",
+          "sha256": "279eaf8a52bc0a512ca98be2b17562432e1f5802099f4e4bc255a18cbd5c59c4"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 35 (DuFr).md",
+          "sha256": "9a2cd9fbdfde0ca6be89c53028b88db7b57e2d17ecf17eb428beb65fda667117"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2564:m1"
+      ],
+      "replacements": {
+        "u2564:m1": "Kassi"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "kassi-mixed-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The promised information is probably from Kassi, but this span also includes a damaged verb phrase that cannot be replaced solely with the name.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Kassi.md",
+          "sha256": "279eaf8a52bc0a512ca98be2b17562432e1f5802099f4e4bc255a18cbd5c59c4"
+        }
+      ],
+      "candidates": [
+        "Kassi"
+      ],
+      "markerIds": [
+        "u2673:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2673:m1": "{{casts is bad for}}"
+      }
+    },
+    {
+      "id": "kharsan-mixed-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Kharsan is suggested by the destination, but the complete marked span may include a preposition or false start; leave the longer phrase intact.",
+      "evidence": [],
+      "candidates": [
+        "Kharsan"
+      ],
+      "markerIds": [
+        "u1341:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1341:m1": "{{the cars}}"
+      }
+    },
+    {
+      "id": "laka",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The monks near the tower are the Lakan Mystai; the divine name fits this complete marked span. The surrounding travel question is preserved.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Lara.md",
+          "sha256": "a944b267d58900b33e12193e1e529dd2440cce1ec1fdcecdeb8194e4a468a7b2"
+        },
+        {
+          "path": "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Laka.md",
+          "sha256": "b75b98870a7ec28e0623559a737536c447182218eda2f7768addcd9688fc9dd0"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0088:m1"
+      ],
+      "replacements": {
+        "u0088:m1": "Laka"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "lara",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The named Speaker is Lara, the head of the Lakan Mystai; preserve the discussion of a different title around her name.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Lara.md",
+          "sha256": "a944b267d58900b33e12193e1e529dd2440cce1ec1fdcecdeb8194e4a468a7b2"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0105:m1"
+      ],
+      "replacements": {
+        "u0105:m1": "Lara"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "mahar",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The eastern river in this discussion is the Mahar, the documented Dunmari name of the Istaros.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Major Rivers/Istaros Watershed/Istaros.md",
+          "sha256": "21cff1c604a2c0f0f41c41db2109a432b7ceff2ded07ff1249c433cf6e8daffa"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1900:m1",
+        "u1902:m1",
+        "u1947:m1"
+      ],
+      "replacements": {
+        "u1900:m1": "Mahar",
+        "u1902:m1": "Mahar",
+        "u1947:m1": "Mahar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "mahar-supported",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The single marked word refers back to the same Mahar river and its possible expedition sites; the reference supplies its name.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Major Rivers/Istaros Watershed/Istaros.md",
+          "sha256": "21cff1c604a2c0f0f41c41db2109a432b7ceff2ded07ff1249c433cf6e8daffa"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1945:m1"
+      ],
+      "replacements": {
+        "u1945:m1": "Mahar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "mystai-hesitation",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The exchange concerns Mystai terminology and pronunciation, but these marked clauses contain unclear surrounding words, so a complete term-only replacement is not established.",
+      "evidence": [],
+      "candidates": [
+        "Mystai",
+        "Bhishma",
+        "Laka",
+        "Shakun"
+      ],
+      "markerIds": [
+        "u0590:m1",
+        "u0591:m1",
+        "u0592:m1",
+        "u0594:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0590:m1": "{{visited}}",
+        "u0591:m1": "{{Why am I missing}}",
+        "u0592:m1": "{{Raw food and walk at your at}}",
+        "u0594:m1": "{{me try, Mr}}"
+      }
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary chatter, mechanics, grammar, description, source-reading fragments, and colloquial wording outside this name pass; retained verbatim.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0023:m1",
+        "u0031:m1",
+        "u0040:m1",
+        "u0090:m1",
+        "u0097:m1",
+        "u0143:m1",
+        "u0223:m1",
+        "u0276:m1",
+        "u0309:m1",
+        "u0313:m1",
+        "u0339:m1",
+        "u0341:m1",
+        "u0392:m1",
+        "u0398:m1",
+        "u0406:m1",
+        "u0593:m1",
+        "u0628:m1",
+        "u0630:m1",
+        "u0660:m1",
+        "u0673:m1",
+        "u0698:m1",
+        "u0700:m1",
+        "u0725:m1",
+        "u0727:m1",
+        "u0754:m1",
+        "u0784:m1",
+        "u0794:m1",
+        "u0821:m1",
+        "u0867:m1",
+        "u0868:m1",
+        "u0871:m1",
+        "u0898:m1",
+        "u0898:m2",
+        "u0911:m1",
+        "u0926:m1",
+        "u0933:m1",
+        "u0975:m1",
+        "u0986:m1",
+        "u1003:m1",
+        "u1020:m1",
+        "u1030:m1",
+        "u1034:m1",
+        "u1048:m1",
+        "u1048:m2",
+        "u1052:m1",
+        "u1057:m1",
+        "u1070:m1",
+        "u1085:m1",
+        "u1086:m1",
+        "u1088:m1",
+        "u1106:m1",
+        "u1118:m1",
+        "u1181:m1",
+        "u1188:m1",
+        "u1199:m1",
+        "u1199:m2",
+        "u1214:m1",
+        "u1341:m2",
+        "u1341:m3",
+        "u1351:m1",
+        "u1408:m1",
+        "u1459:m1",
+        "u1531:m1",
+        "u1532:m1",
+        "u1539:m1",
+        "u1562:m1",
+        "u1569:m1",
+        "u1702:m1",
+        "u1821:m1",
+        "u1922:m1",
+        "u1928:m1",
+        "u2009:m1",
+        "u2018:m1",
+        "u2023:m1",
+        "u2029:m1",
+        "u2060:m1",
+        "u2061:m1",
+        "u2061:m2",
+        "u2064:m1",
+        "u2092:m1",
+        "u2120:m1",
+        "u2122:m1",
+        "u2143:m1",
+        "u2178:m1",
+        "u2186:m1",
+        "u2192:m1",
+        "u2205:m1",
+        "u2245:m1",
+        "u2246:m1",
+        "u2253:m1",
+        "u2260:m1",
+        "u2278:m1",
+        "u2282:m2",
+        "u2294:m1",
+        "u2313:m1",
+        "u2319:m1",
+        "u2333:m1",
+        "u2334:m1",
+        "u2335:m1",
+        "u2358:m1",
+        "u2362:m1",
+        "u2363:m1",
+        "u2374:m1",
+        "u2388:m1",
+        "u2432:m1",
+        "u2437:m1",
+        "u2439:m1",
+        "u2465:m1",
+        "u2479:m1",
+        "u2538:m1",
+        "u2540:m1",
+        "u2542:m1",
+        "u2547:m1",
+        "u2594:m1",
+        "u2610:m1",
+        "u2655:m1",
+        "u2665:m1",
+        "u2668:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0023:m1": "{{a way that was something}}",
+        "u0031:m1": "{{factor here}}",
+        "u0040:m1": "{{will try}}",
+        "u0090:m1": "{{he made}}",
+        "u0097:m1": "{{theme}}",
+        "u0143:m1": "{{In fact you for}}",
+        "u0223:m1": "{{This is once you underground}}",
+        "u0276:m1": "{{Neither}}",
+        "u0309:m1": "{{unless}}",
+        "u0313:m1": "{{tower half}}",
+        "u0339:m1": "{{could}}",
+        "u0341:m1": "{{rogatis}}",
+        "u0392:m1": "{{she aquatic have some can}}",
+        "u0398:m1": "{{Prominent}}",
+        "u0406:m1": "{{Valerie}}",
+        "u0593:m1": "{{Your at your try}}",
+        "u0628:m1": "{{For now}}",
+        "u0630:m1": "{{he probably wants}}",
+        "u0660:m1": "{{knows}}",
+        "u0673:m1": "{{loved Leslie}}",
+        "u0698:m1": "{{it's not all about}}",
+        "u0700:m1": "{{be a few}}",
+        "u0725:m1": "{{who may tend to go}}",
+        "u0727:m1": "{{gap}}",
+        "u0754:m1": "{{dead of}}",
+        "u0784:m1": "{{i've heard it's a dream}}",
+        "u0794:m1": "{{a walk}}",
+        "u0821:m1": "{{can enter your dream}}",
+        "u0867:m1": "{{team}}",
+        "u0868:m1": "{{getting recovering}}",
+        "u0871:m1": "{{Little know}}",
+        "u0898:m1": "{{the werewolf}}",
+        "u0898:m2": "{{the werewolf}}",
+        "u0911:m1": "{{claim}}",
+        "u0926:m1": "{{we'd have}}",
+        "u0933:m1": "{{they're all their apprentice}}",
+        "u0975:m1": "{{we've}}",
+        "u0986:m1": "{{at}}",
+        "u1003:m1": "{{this fashion}}",
+        "u1020:m1": "{{raise your hands}}",
+        "u1030:m1": "{{That you're saying that to be}}",
+        "u1034:m1": "{{boots}}",
+        "u1048:m1": "{{is getting the}}",
+        "u1048:m2": "{{knows who else}}",
+        "u1052:m1": "{{me now we're separate}}",
+        "u1057:m1": "{{the told everybody}}",
+        "u1070:m1": "{{interaction}}",
+        "u1085:m1": "{{now i'll get the habit}}",
+        "u1086:m1": "{{what things possible}}",
+        "u1088:m1": "{{it is now}}",
+        "u1106:m1": "{{On the top is}}",
+        "u1118:m1": "{{jails}}",
+        "u1181:m1": "{{I know what}}",
+        "u1188:m1": "{{Everything on our mount Sinai}}",
+        "u1199:m1": "{{Canada}}",
+        "u1199:m2": "{{so when it says}}",
+        "u1214:m1": "{{for the fire}}",
+        "u1341:m2": "{{was that was her name to the monastery}}",
+        "u1341:m3": "{{was just the mother, just to}}",
+        "u1351:m1": "{{whether delivered}}",
+        "u1408:m1": "{{Such as yourself}}",
+        "u1459:m1": "{{driven}}",
+        "u1531:m1": "{{that's a no understanding this}}",
+        "u1532:m1": "{{just to be}}",
+        "u1539:m1": "{{tactical}}",
+        "u1562:m1": "{{business}}",
+        "u1569:m1": "{{wasn't sure}}",
+        "u1702:m1": "{{that you}}",
+        "u1821:m1": "{{to prevent}}",
+        "u1922:m1": "{{Are you some also}}",
+        "u1928:m1": "{{play got}}",
+        "u2009:m1": "{{do it}}",
+        "u2018:m1": "{{what is the information}}",
+        "u2023:m1": "{{know who}}",
+        "u2029:m1": "{{track}}",
+        "u2060:m1": "{{cinema}}",
+        "u2061:m1": "{{wreck}}",
+        "u2061:m2": "{{matter}}",
+        "u2064:m1": "{{Answer}}",
+        "u2092:m1": "{{obvious that}}",
+        "u2120:m1": "{{leave that place}}",
+        "u2122:m1": "{{the is}}",
+        "u2143:m1": "{{ran}}",
+        "u2178:m1": "{{income}}",
+        "u2186:m1": "{{can}}",
+        "u2192:m1": "{{You saw your terms and read}}",
+        "u2205:m1": "{{I don't talk}}",
+        "u2245:m1": "{{deal with for}}",
+        "u2246:m1": "{{A while long perspective}}",
+        "u2253:m1": "{{Our show}}",
+        "u2260:m1": "{{not the manager}}",
+        "u2278:m1": "{{rushes pure}}",
+        "u2282:m2": "{{lives in the wants to}}",
+        "u2294:m1": "{{i'll have}}",
+        "u2313:m1": "{{do}}",
+        "u2319:m1": "{{exists}}",
+        "u2333:m1": "{{It opens just started}}",
+        "u2334:m1": "{{A whole}}",
+        "u2335:m1": "{{That I turned it for two years ago}}",
+        "u2358:m1": "{{green}}",
+        "u2362:m1": "{{Darba can play}}",
+        "u2363:m1": "{{OG}}",
+        "u2374:m1": "{{around}}",
+        "u2388:m1": "{{by effect}}",
+        "u2432:m1": "{{archives Baathist}}",
+        "u2437:m1": "{{Welcome}}",
+        "u2439:m1": "{{an artist}}",
+        "u2465:m1": "{{Use the gig up}}",
+        "u2479:m1": "{{i'm like}}",
+        "u2538:m1": "{{located}}",
+        "u2540:m1": "{{story of me}}",
+        "u2542:m1": "{{we weren't close}}",
+        "u2547:m1": "{{My is}}",
+        "u2594:m1": "{{Your head is a side that}}",
+        "u2610:m1": "{{it's to someone's like chart}}",
+        "u2655:m1": "{{I start doing around to you on me}}",
+        "u2665:m1": "{{More than the mess}}",
+        "u2668:m1": "{{On posture what ventures gets out}}"
+      }
+    },
+    {
+      "id": "pava",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The speaker locates an area near the eastern border of Dunmar; Pava's house east of Karawa is the strongly favored familiar landmark. The following hesitation remains unchanged.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Dunmar/Hara Basin/Pava and Avaras' House.md",
+          "sha256": "0e07ce5286209e66be118b2e80785431605e659891424cdec7e2cf89ee2aba96"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2129:m1"
+      ],
+      "replacements": {
+        "u2129:m1": "Pava"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "plaguelands-mixed-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "This damaged source-reading clause may contain the setting term Plaguelands, already repeated outside the marker, but the complete phrase is not recoverable in a name-only pass.",
+      "evidence": [],
+      "candidates": [
+        "Plaguelands"
+      ],
+      "markerIds": [
+        "u2590:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2590:m1": "{{for to the playground}}"
+      }
+    },
+    {
+      "id": "rai-mixed-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Rai may be embedded in this damaged clause, but the complete wording and boundaries cannot be resolved as a name-only change.",
+      "evidence": [],
+      "candidates": [
+        "Rai"
+      ],
+      "markerIds": [
+        "u0074:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0074:m1": "{{I was with them or not with them that's really clear}}"
+      }
+    },
+    {
+      "id": "saka-false-start",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The speaker immediately restarts with Saka. The marked Sir could be part of a spoken false start rather than an ASR name error.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Saka.md",
+          "sha256": "8d1cd3473927c2508b1e51d30475089f60cd342e2e21d19dcb9c2448735e2d12"
+        }
+      ],
+      "candidates": [
+        "Saka"
+      ],
+      "markerIds": [
+        "u1136:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1136:m1": "{{Sir}}"
+      }
+    },
+    {
+      "id": "saka-misremembering",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The speaker says he cannot remember the name, and another speaker supplies Saka immediately afterward. Sarah may be an actual spoken mistake.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Saka.md",
+          "sha256": "8d1cd3473927c2508b1e51d30475089f60cd342e2e21d19dcb9c2448735e2d12"
+        }
+      ],
+      "candidates": [
+        "Saka"
+      ],
+      "markerIds": [
+        "u0061:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0061:m1": "{{Sarah}}"
+      }
+    },
+    {
+      "id": "saka-mixed-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The passage may mention finding Saka, but a complete replacement would reconstruct surrounding wording.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Saka.md",
+          "sha256": "8d1cd3473927c2508b1e51d30475089f60cd342e2e21d19dcb9c2448735e2d12"
+        }
+      ],
+      "candidates": [
+        "Saka"
+      ],
+      "markerIds": [
+        "u0085:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0085:m1": "{{If we've had to suck at}}"
+      }
+    },
+    {
+      "id": "shakun-mixed-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The subsequent explanation concerns Shakun Mystai, but this marker includes an unclear comparison or clause around the possible divine name.",
+      "evidence": [],
+      "candidates": [
+        "Shakun"
+      ],
+      "markerIds": [
+        "u0927:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0927:m1": "{{instruction}}"
+      }
+    },
+    {
+      "id": "shurat-sampa",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "These complete marked spans name the paired Dunmari creator gods, consistently identified by the reference and corresponding session account.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/High Gods/Divine Presence.md",
+          "sha256": "99d92f5e38e36430e6eeebe0f04dc39be92331000aac32d25de18a1d7c2ac253"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 40 (DuFr).md",
+          "sha256": "96b0d43a2e651ce116860e9c4559f11ed9a40914545ec8f267f8341f8cf9a435"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1590:m1",
+        "u1683:m1",
+        "u1692:m1",
+        "u1875:m1"
+      ],
+      "replacements": {
+        "u1590:m1": "Shurat and Sampa",
+        "u1683:m1": "Shurat and Sampa",
+        "u1692:m1": "Shurat and Sampa",
+        "u1875:m1": "Shurat and Sampa"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "tabar-place",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Taelgar and Dunmar are both plausible for this broad reference to suffering across the land; the sound and context do not select a unique name.",
+      "evidence": [],
+      "candidates": [
+        "Taelgar",
+        "Dunmar"
+      ],
+      "markerIds": [
+        "u0605:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0605:m1": "{{tabar}}"
+      }
+    },
+    {
+      "id": "taelgar",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The complete marked place-name matches the setting named in the corresponding session introduction.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Session 40.md",
+          "sha256": "a06cb061f5481bdbb469436142646ed504cb7f285e87d720204ff4d0a42fbe05"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0011:m1"
+      ],
+      "replacements": {
+        "u0011:m1": "Taelgar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "thark",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The named war power matches the corresponding session passage and the reference name; the full marked span is the name alone.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Embodied Gods/Thark.md",
+          "sha256": "129ebffd9f6e42fd8383caa123f92c2a14fcc61e460b0f4cf6bd161b40e9ebb3"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Tokra (Session 33-41)/Tokra Area Map/Tokra Area Map.md",
+          "sha256": "cc34c6989cc70c6dd11a551aa6d5e544239016d960364250b546807e34f09b5d"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1598:m1"
+      ],
+      "replacements": {
+        "u1598:m1": "Thark"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "typhina",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The identity claimed by the fey voice in the ring is Typhina, as recorded in the earlier session. Preserve the identity the characters knew at this point.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 33 (DuFr).md",
+          "sha256": "8430ad35c58305190a841e0a5a34d5bb79e48fda185ee686089feae28bcde187"
+        },
+        {
+          "path": "People/Fey/Typhina.md",
+          "sha256": "933deeacaaad62c8c7f638a5306aac68f33a241daa460b8f9f9327b60f543fa4"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2282:m1"
+      ],
+      "replacements": {
+        "u2282:m1": "Typhina"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "uzgash-mixed-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Uzgash is a plausible contrasting orc identity, but the marker also contains apparent connecting words and the speaker is correcting himself. A complete replacement is uncertain.",
+      "evidence": [],
+      "candidates": [
+        "Uzgash",
+        "Grash"
+      ],
+      "markerIds": [
+        "u2370:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2370:m1": "{{EU got it was}}"
+      }
+    },
+    {
+      "id": "vision-identity",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The inspected jade vision and hero list do not identify this marked name uniquely; the neighboring marked phrase is also unclear and may contain a name or ordinary wording.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Mirror Visions/Kenzo's Jade Vision.md",
+          "sha256": "07cd0398aa25368c8022fd9ec71b2716e44a7b03260492cca30b59cd088b77db"
+        },
+        {
+          "path": "People/PCs/Great War/Heroes of the Great War.md",
+          "sha256": "430b83d5a11b0803039a63e52d7d1a45d8158048f948cb38a30b052579c83b86"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2585:m1",
+        "u2585:m2"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2585:m1": "{{sheila}}",
+        "u2585:m2": "{{finish my thought}}"
+      }
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0011:m1",
+      "uid": "u0011",
+      "ordinal": 1,
+      "lineNumber": 11,
+      "start": 251,
+      "end": 259,
+      "before": "{{town}}",
+      "span": "town",
+      "line": "[u0011 | 00:01:00.300-00:01:13.740 | DM] Well, this story has many beginnings most to tell this tale start in the year of joyful rains long ago, when the Fraternity of the Empty Moon a cult of werewolves tried and failed to draw Pandemonium closer to {{town}}.",
+      "contextBefore": [
+        "[u0009 | 00:00:36.030-00:00:49.560 | DM] Four unlikely wanderers met, drawn together by chance and circumstance as dangers not seen for a generation began creeping across the border wild creatures, full of all-consuming hunger, driven by the evil energy of the Abyss.",
+        "[u0010 | 00:00:50.970-00:00:58.350 | DM] The storytellers will weave the song of years past into the tale for the song of this year, like all years does not stand alone."
+      ],
+      "contextAfter": [
+        "[u0012 | 00:01:15.060-00:01:19.410 | DM] They were defeated by the Dunmari outside Tokra, driven east and forgotten.",
+        "[u0013 | 00:01:21.000-00:01:27.540 | DM] Few sing the tale of the fraternity wandering in the wild lands in full, for even among the halflings not all parts of the song are known."
+      ],
+      "after": "Taelgar",
+      "group": "taelgar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0035:m1",
+      "uid": "u0035",
+      "ordinal": 1,
+      "lineNumber": 35,
+      "start": 79,
+      "end": 88,
+      "before": "{{to me}}",
+      "span": "to me",
+      "line": "[u0035 | 00:05:32.640-00:05:48.060 | DM] How Agata kidnapped Cintra's daughter {{to me}} and kept Cintra prisoner on threat of death of her daughter, and how they learned of all this later than perhaps they would have liked from Cintra's spy {{Croatia could}} skilled in many things, except making decisions in a crisis.",
+      "contextBefore": [
+        "[u0033 | 00:05:13.170-00:05:21.450 | DM] Yet if our heroes were listening, they would know the details, how Agata lured Cintra out of Karawa with dreams of her daughter's illness.",
+        "[u0034 | 00:05:22.140-00:05:31.830 | DM] deceived her into removing from Karawa the Heart of Shakun, the artifact that kept the divine protections on the eastern border of Dunmar intact."
+      ],
+      "contextAfter": [
+        "[u0036 | 00:05:51.900-00:06:06.660 | DM] Storytellers, though the details are murky do not neglect our heroes at the moment, they confront Agata in the desert south of Karawa the tempo of the song rises for here comes the halfling's moment of glory the killing arrow from point blank range.",
+        "[u0037 | 00:06:08.100-00:06:26.760 | DM] With Agata defeated the heart restored all seems safe except our heroes don't know it yet storytellers sing of the Fraternity of the Empty Moon hard at work in Tokra seemingly secure in their anonymity waiting until the time is right for the long prophesied ritual."
+      ],
+      "after": "Jumi",
+      "group": "jumi",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0088:m1",
+      "uid": "u0088",
+      "ordinal": 1,
+      "lineNumber": 88,
+      "start": 91,
+      "end": 106,
+      "before": "{{lot of walk}}",
+      "span": "lot of walk",
+      "line": "[u0088 | 00:10:24.570-00:10:29.700 | Delwath] Should we stop and see what all the monks of {{lot of walk}} are doing by the tower.",
+      "contextBefore": [
+        "[u0086 | 00:10:18.510-00:10:18.960 | Unknown] shocked.",
+        "[u0087 | 00:10:22.770-00:10:23.160 | DM] So."
+      ],
+      "contextAfter": [
+        "[u0089 | 00:10:30.900-00:10:33.000 | Kenzo] No, no we're gonna go straight to Saka.",
+        "[u0090 | 00:10:35.520-00:10:37.110 | Delwath] Saka before we do that {{he made}}."
+      ],
+      "after": "Laka",
+      "group": "laka",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0105:m1",
+      "uid": "u0105",
+      "ordinal": 1,
+      "lineNumber": 105,
+      "start": 64,
+      "end": 73,
+      "before": "{{Laura}}",
+      "span": "Laura",
+      "line": "[u0105 | 00:11:36.030-00:11:37.770 | Kenzo] speaker not Speaker {{Laura}} i'm.",
+      "contextBefore": [
+        "[u0103 | 00:11:32.580-00:11:32.970 | Unknown] yeah.",
+        "[u0104 | 00:11:34.590-00:11:35.700 | Kenzo] i'm the."
+      ],
+      "contextAfter": [
+        "[u0106 | 00:11:38.670-00:11:40.740 | Kenzo] The head of the head of the.",
+        "[u0107 | 00:11:40.860-00:11:42.120 | Delwath] head of the what's your name."
+      ],
+      "after": "Lara",
+      "group": "lara",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0364:m1",
+      "uid": "u0364",
+      "ordinal": 1,
+      "lineNumber": 364,
+      "start": 79,
+      "end": 88,
+      "before": "{{kajsa}}",
+      "span": "kajsa",
+      "line": "[u0364 | 00:29:54.180-00:30:02.880 | DM] Rishi like somebody from your past or {{kajsa}} like somebody you, like you, killing your family basically.",
+      "contextBefore": [
+        "[u0362 | 00:29:48.570-00:29:49.860 | DM] You killing.",
+        "[u0363 | 00:29:51.360-00:29:52.770 | DM] Johar or."
+      ],
+      "contextAfter": [
+        "[u0365 | 00:30:04.440-00:30:08.970 | DM] Is the bit of the nightmare, you can remember, but not in detail.",
+        "[u0366 | 00:30:10.620-00:30:12.870 | DM] And it seems to be driven off every time."
+      ],
+      "after": "Kaeso",
+      "group": "kaeso",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1411:m1",
+      "uid": "u1411",
+      "ordinal": 1,
+      "lineNumber": 1411,
+      "start": 88,
+      "end": 102,
+      "before": "{{bar is out}}",
+      "span": "bar is out",
+      "line": "[u1411 | 01:54:52.950-01:54:58.260 | DM] There are many gods linger around you even the {{bar is out}}, for some reason.",
+      "contextBefore": [
+        "[u1409 | 01:54:41.340-01:54:48.420 | DM] She looks around that you all, and she like leans forward and like taps Kenzo on the chest with with the staff.",
+        "[u1410 | 01:54:49.740-01:54:51.660 | DM] You call yourself a Mystai of Bhishma."
+      ],
+      "contextAfter": [
+        "[u1412 | 01:54:59.400-01:55:03.360 | DM] seemed to have a lingering ECHO on your soul.",
+        "[u1413 | 01:55:04.500-01:55:05.040 | Seeker] Say that again."
+      ],
+      "after": "Bahrâzel",
+      "group": "bahrazel",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1590:m1",
+      "uid": "u1590",
+      "ordinal": 1,
+      "lineNumber": 1590,
+      "start": 82,
+      "end": 98,
+      "before": "{{rotten samba}}",
+      "span": "rotten samba",
+      "line": "[u1590 | 02:09:57.360-02:10:04.800 | DM] Time began, one of the first children of {{rotten samba}} before they birthed the gods and humans.",
+      "contextBefore": [
+        "[u1588 | 02:09:51.270-02:09:53.700 | DM] primordial beings of power from.",
+        "[u1589 | 02:09:55.200-02:09:56.310 | DM] Before even."
+      ],
+      "contextAfter": [
+        "[u1591 | 02:10:08.460-02:10:10.020 | DM] Not just exist.",
+        "[u1592 | 02:10:11.640-02:10:13.020 | DM] As i've been told."
+      ],
+      "after": "Shurat and Sampa",
+      "group": "shurat-sampa",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1598:m1",
+      "uid": "u1598",
+      "ordinal": 1,
+      "lineNumber": 1598,
+      "start": 104,
+      "end": 111,
+      "before": "{{Ark}}",
+      "span": "Ark",
+      "line": "[u1598 | 02:10:36.180-02:10:43.530 | DM] The Abyss, Pandemonium, Limbo, even Arborea the endless war of {{Ark}}.",
+      "contextBefore": [
+        "[u1596 | 02:10:28.050-02:10:30.330 | DM] The places of chaos in this world.",
+        "[u1597 | 02:10:32.100-02:10:33.930 | DM] or sorry not in this world."
+      ],
+      "contextAfter": [
+        "[u1599 | 02:10:48.420-02:10:59.580 | DM] When he died his death reverberated in all these places, as well as here and something of these realms was pulled into our world in places where he had power.",
+        "[u1600 | 02:11:05.190-02:11:06.390 | DM] We found these."
+      ],
+      "after": "Thark",
+      "group": "thark",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1683:m1",
+      "uid": "u1683",
+      "ordinal": 1,
+      "lineNumber": 1683,
+      "start": 61,
+      "end": 80,
+      "before": "{{shard and samba}}",
+      "span": "shard and samba",
+      "line": "[u1683 | 02:18:58.950-02:19:03.270 | DM] And the children of {{shard and samba}} walk the earth changing its form with their thoughts.",
+      "contextBefore": [
+        "[u1681 | 02:18:50.340-02:18:51.180 | DM] There was no.",
+        "[u1682 | 02:18:53.610-02:18:57.570 | DM] Shadowfell or Abyss there was just the world."
+      ],
+      "contextAfter": [
+        "[u1684 | 02:19:07.950-02:19:15.510 | DM] weary of this unending chaos and in a breath as long as an Eon split the world separating it out.",
+        "[u1685 | 02:19:18.390-02:19:23.220 | DM] Giving form and solidity to this place, we now call Taelgar."
+      ],
+      "after": "Shurat and Sampa",
+      "group": "shurat-sampa",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1692:m1",
+      "uid": "u1692",
+      "ordinal": 1,
+      "lineNumber": 1692,
+      "start": 54,
+      "end": 74,
+      "before": "{{shroud and samba}}",
+      "span": "shroud and samba",
+      "line": "[u1692 | 02:20:11.190-02:20:16.260 | DM] Perhaps only {{shroud and samba}} can do that perhaps only they can heal the land now.",
+      "contextBefore": [
+        "[u1690 | 02:19:57.330-02:19:59.970 | DM] They simply have to close a doorway.",
+        "[u1691 | 02:20:02.460-02:20:08.940 | DM] and closing a doorway is much easier than separating impurities that run through the heart of this world."
+      ],
+      "contextAfter": [
+        "[u1693 | 02:20:17.940-02:20:19.560 | DM] But they do not answer prayers.",
+        "[u1694 | 02:20:26.820-02:20:31.020 | DM] So I would say, if the land is ever to be healed that will be by a divine act."
+      ],
+      "after": "Shurat and Sampa",
+      "group": "shurat-sampa",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1875:m1",
+      "uid": "u1875",
+      "ordinal": 1,
+      "lineNumber": 1875,
+      "start": 41,
+      "end": 62,
+      "before": "{{schrott and samba}}",
+      "span": "schrott and samba",
+      "line": "[u1875 | 02:36:30.570-02:36:35.010 | DM] {{schrott and samba}} did long ago has left echoes.",
+      "contextBefore": [
+        "[u1873 | 02:36:20.310-02:36:23.850 | DM] Pulling apart of these realms.",
+        "[u1874 | 02:36:28.380-02:36:28.710 | DM] That."
+      ],
+      "contextAfter": [
+        "[u1876 | 02:36:36.060-02:36:41.490 | DM] Maybe they themselves control the tides, I could speculate I don't know.",
+        "[u1877 | 02:36:42.780-02:36:44.040 | DM] This is not my area."
+      ],
+      "after": "Shurat and Sampa",
+      "group": "shurat-sampa",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1897:m1",
+      "uid": "u1897",
+      "ordinal": 1,
+      "lineNumber": 1897,
+      "start": 69,
+      "end": 77,
+      "before": "{{hard}}",
+      "span": "hard",
+      "line": "[u1897 | 02:38:13.980-02:38:17.040 | DM] West somewhere on the River {{hard}}.",
+      "contextBefore": [
+        "[u1895 | 02:37:56.280-02:37:57.360 | DM] Their plan.",
+        "[u1896 | 02:38:00.720-02:38:02.220 | DM] Their plan was to go."
+      ],
+      "contextAfter": [
+        "[u1898 | 02:38:20.340-02:38:22.410 | DM] west of the Hara the river that.",
+        "[u1899 | 02:38:28.470-02:38:31.530 | DM] The River Kharja where Kharsan is on."
+      ],
+      "after": "Hara",
+      "group": "hara",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1900:m1",
+      "uid": "u1900",
+      "ordinal": 1,
+      "lineNumber": 1900,
+      "start": 108,
+      "end": 116,
+      "before": "{{maha}}",
+      "span": "maha",
+      "line": "[u1900 | 02:38:32.760-02:38:43.440 | DM] And if you head east further from that river, you will come to the {{maha}} river Valley, the first river that Dunmari encountered as they came West.",
+      "contextBefore": [
+        "[u1898 | 02:38:20.340-02:38:22.410 | DM] west of the Hara the river that.",
+        "[u1899 | 02:38:28.470-02:38:31.530 | DM] The River Kharja where Kharsan is on."
+      ],
+      "contextAfter": [
+        "[u1901 | 02:38:46.830-02:38:48.300 | DM] And that is where they were heading.",
+        "[u1902 | 02:38:51.270-02:38:57.180 | DM] The {{maha}} the Kharja and the Hara all join in the south."
+      ],
+      "after": "Mahar",
+      "group": "mahar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1902:m1",
+      "uid": "u1902",
+      "ordinal": 1,
+      "lineNumber": 1902,
+      "start": 45,
+      "end": 53,
+      "before": "{{maha}}",
+      "span": "maha",
+      "line": "[u1902 | 02:38:51.270-02:38:57.180 | DM] The {{maha}} the Kharja and the Hara all join in the south.",
+      "contextBefore": [
+        "[u1900 | 02:38:32.760-02:38:43.440 | DM] And if you head east further from that river, you will come to the {{maha}} river Valley, the first river that Dunmari encountered as they came West.",
+        "[u1901 | 02:38:46.830-02:38:48.300 | DM] And that is where they were heading."
+      ],
+      "contextAfter": [
+        "[u1903 | 02:38:58.380-02:39:01.020 | DM] Before flowing past the ruin city of Drankor.",
+        "[u1904 | 02:39:06.090-02:39:10.140 | Wellby] You said some of the Mystai went to that city."
+      ],
+      "after": "Mahar",
+      "group": "mahar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1945:m1",
+      "uid": "u1945",
+      "ordinal": 1,
+      "lineNumber": 1945,
+      "start": 81,
+      "end": 89,
+      "before": "{{mall}}",
+      "span": "mall",
+      "line": "[u1945 | 02:41:42.480-02:41:52.860 | DM] yeah but maybe somewhere else along the {{mall}} like there's other significant sites that's where the Dunmari first like here is like where the Dunmari first.",
+      "contextBefore": [
+        "[u1943 | 02:41:39.630-02:41:40.230 | DM] yeah.",
+        "[u1944 | 02:41:40.590-02:41:41.940 | Delwath] right down here that's what."
+      ],
+      "contextAfter": [
+        "[u1946 | 02:41:54.840-02:41:57.150 | DM] encountered Dunmar and there's like.",
+        "[u1947 | 02:41:59.880-02:42:11.070 | DM] This confluence as well as another important point so there's a lot of places along the {{mahara}} that could have been a destination Saka does not know for sure where they were right."
+      ],
+      "after": "Mahar",
+      "group": "mahar-supported",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1947:m1",
+      "uid": "u1947",
+      "ordinal": 1,
+      "lineNumber": 1947,
+      "start": 129,
+      "end": 139,
+      "before": "{{mahara}}",
+      "span": "mahara",
+      "line": "[u1947 | 02:41:59.880-02:42:11.070 | DM] This confluence as well as another important point so there's a lot of places along the {{mahara}} that could have been a destination Saka does not know for sure where they were right.",
+      "contextBefore": [
+        "[u1945 | 02:41:42.480-02:41:52.860 | DM] yeah but maybe somewhere else along the {{mall}} like there's other significant sites that's where the Dunmari first like here is like where the Dunmari first.",
+        "[u1946 | 02:41:54.840-02:41:57.150 | DM] encountered Dunmar and there's like."
+      ],
+      "contextAfter": [
+        "[u1948 | 02:42:19.830-02:42:23.340 | Kenzo] And you don't know what their plan was when they went.",
+        "[u1949 | 02:42:29.460-02:42:34.170 | DM] Their plan, I mean, as far as it goes, their plan was to."
+      ],
+      "after": "Mahar",
+      "group": "mahar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2129:m1",
+      "uid": "u2129",
+      "ordinal": 1,
+      "lineNumber": 2129,
+      "start": 87,
+      "end": 99,
+      "before": "{{pawn off}}",
+      "span": "pawn off",
+      "line": "[u2129 | 02:57:21.660-02:57:26.520 | DM] Like like a you know, maybe around like where {{pawn off}} of that sort of area.",
+      "contextBefore": [
+        "[u2127 | 02:57:15.510-02:57:16.740 | Kenzo] Actually, in the east, right.",
+        "[u2128 | 02:57:16.860-02:57:20.490 | DM] wow like close to the border of Dunmar."
+      ],
+      "contextAfter": [
+        "[u2130 | 02:57:27.300-02:57:33.180 | Seeker] Oh much closer to us than yeah yeah even Kharsan and i'm.",
+        "[u2131 | 02:57:34.830-02:57:38.730 | Seeker] Is it possible that there's one of these seeds in Kharsan or no."
+      ],
+      "after": "Pava",
+      "group": "pava",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2282:m1",
+      "uid": "u2282",
+      "ordinal": 1,
+      "lineNumber": 2282,
+      "start": 57,
+      "end": 65,
+      "before": "{{Tina}}",
+      "span": "Tina",
+      "line": "[u2282 | 03:08:11.340-03:08:19.200 | Seeker] Its name is {{Tina}} it was trapped in this ring and {{lives in the wants to}} came from the Feywild and wants to return there.",
+      "contextBefore": [
+        "[u2280 | 03:08:06.000-03:08:08.550 | Kenzo] would say more about the fey, fey creature, and the way again.",
+        "[u2281 | 03:08:09.690-03:08:11.070 | Kenzo] tries from from Agata."
+      ],
+      "contextAfter": [
+        "[u2283 | 03:08:20.010-03:08:22.380 | Kenzo] And did we get it from Agata yeah.",
+        "[u2284 | 03:08:23.550-03:08:25.860 | Kenzo] And you you're wearing this right yeah."
+      ],
+      "after": "Typhina",
+      "group": "typhina",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2564:m1",
+      "uid": "u2564",
+      "ordinal": 1,
+      "lineNumber": 2564,
+      "start": 73,
+      "end": 82,
+      "before": "{{Kathy}}",
+      "span": "Kathy",
+      "line": "[u2564 | 03:27:40.950-03:27:43.650 | DM] You still have information from {{Kathy}} on.",
+      "contextBefore": [
+        "[u2562 | 03:27:35.850-03:27:37.560 | Delwath] yeah I don't know why we're pretending.",
+        "[u2563 | 03:27:37.590-03:27:38.070 | Delwath] Right like."
+      ],
+      "contextAfter": [
+        "[u2565 | 03:27:43.980-03:27:45.810 | DM] lost gods and on Rai.",
+        "[u2566 | 03:27:46.410-03:27:48.780 | Kenzo] Well that's true, as we get to learn a little more next time okay."
+      ],
+      "after": "Kassi",
+      "group": "kassi",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u1590": {
+      "before": "[u1590 | 02:09:57.360-02:10:04.800 | DM] Time began, one of the first children of {{rotten samba}} before they birthed the gods and humans.\n",
+      "after": "[u1590 | 02:09:57.360-02:10:04.800 | DM] Time began, one of the first children of Shurat and Sampa before they birthed the gods and humans.\n"
+    },
+    "u1598": {
+      "before": "[u1598 | 02:10:36.180-02:10:43.530 | DM] The Abyss, Pandemonium, Limbo, even Arborea the endless war of {{Ark}}.\n",
+      "after": "[u1598 | 02:10:36.180-02:10:43.530 | DM] The Abyss, Pandemonium, Limbo, even Arborea the endless war of Thark.\n"
+    },
+    "u2282": {
+      "before": "[u2282 | 03:08:11.340-03:08:19.200 | Seeker] Its name is {{Tina}} it was trapped in this ring and {{lives in the wants to}} came from the Feywild and wants to return there.\n",
+      "after": "[u2282 | 03:08:11.340-03:08:19.200 | Seeker] Its name is Typhina it was trapped in this ring and {{lives in the wants to}} came from the Feywild and wants to return there.\n"
+    },
+    "u1411": {
+      "before": "[u1411 | 01:54:52.950-01:54:58.260 | DM] There are many gods linger around you even the {{bar is out}}, for some reason.\n",
+      "after": "[u1411 | 01:54:52.950-01:54:58.260 | DM] There are many gods linger around you even the Bahrâzel, for some reason.\n"
+    },
+    "u0364": {
+      "before": "[u0364 | 00:29:54.180-00:30:02.880 | DM] Rishi like somebody from your past or {{kajsa}} like somebody you, like you, killing your family basically.\n",
+      "after": "[u0364 | 00:29:54.180-00:30:02.880 | DM] Rishi like somebody from your past or Kaeso like somebody you, like you, killing your family basically.\n"
+    },
+    "u1897": {
+      "before": "[u1897 | 02:38:13.980-02:38:17.040 | DM] West somewhere on the River {{hard}}.\n",
+      "after": "[u1897 | 02:38:13.980-02:38:17.040 | DM] West somewhere on the River Hara.\n"
+    },
+    "u1875": {
+      "before": "[u1875 | 02:36:30.570-02:36:35.010 | DM] {{schrott and samba}} did long ago has left echoes.\n",
+      "after": "[u1875 | 02:36:30.570-02:36:35.010 | DM] Shurat and Sampa did long ago has left echoes.\n"
+    },
+    "u1683": {
+      "before": "[u1683 | 02:18:58.950-02:19:03.270 | DM] And the children of {{shard and samba}} walk the earth changing its form with their thoughts.\n",
+      "after": "[u1683 | 02:18:58.950-02:19:03.270 | DM] And the children of Shurat and Sampa walk the earth changing its form with their thoughts.\n"
+    },
+    "u0088": {
+      "before": "[u0088 | 00:10:24.570-00:10:29.700 | Delwath] Should we stop and see what all the monks of {{lot of walk}} are doing by the tower.\n",
+      "after": "[u0088 | 00:10:24.570-00:10:29.700 | Delwath] Should we stop and see what all the monks of Laka are doing by the tower.\n"
+    },
+    "u1692": {
+      "before": "[u1692 | 02:20:11.190-02:20:16.260 | DM] Perhaps only {{shroud and samba}} can do that perhaps only they can heal the land now.\n",
+      "after": "[u1692 | 02:20:11.190-02:20:16.260 | DM] Perhaps only Shurat and Sampa can do that perhaps only they can heal the land now.\n"
+    },
+    "u0035": {
+      "before": "[u0035 | 00:05:32.640-00:05:48.060 | DM] How Agata kidnapped Cintra's daughter {{to me}} and kept Cintra prisoner on threat of death of her daughter, and how they learned of all this later than perhaps they would have liked from Cintra's spy {{Croatia could}} skilled in many things, except making decisions in a crisis.\n",
+      "after": "[u0035 | 00:05:32.640-00:05:48.060 | DM] How Agata kidnapped Cintra's daughter Jumi and kept Cintra prisoner on threat of death of her daughter, and how they learned of all this later than perhaps they would have liked from Cintra's spy {{Croatia could}} skilled in many things, except making decisions in a crisis.\n"
+    },
+    "u2564": {
+      "before": "[u2564 | 03:27:40.950-03:27:43.650 | DM] You still have information from {{Kathy}} on.\n",
+      "after": "[u2564 | 03:27:40.950-03:27:43.650 | DM] You still have information from Kassi on.\n"
+    },
+    "u2129": {
+      "before": "[u2129 | 02:57:21.660-02:57:26.520 | DM] Like like a you know, maybe around like where {{pawn off}} of that sort of area.\n",
+      "after": "[u2129 | 02:57:21.660-02:57:26.520 | DM] Like like a you know, maybe around like where Pava of that sort of area.\n"
+    },
+    "u0105": {
+      "before": "[u0105 | 00:11:36.030-00:11:37.770 | Kenzo] speaker not Speaker {{Laura}} i'm.\n",
+      "after": "[u0105 | 00:11:36.030-00:11:37.770 | Kenzo] speaker not Speaker Lara i'm.\n"
+    },
+    "u1900": {
+      "before": "[u1900 | 02:38:32.760-02:38:43.440 | DM] And if you head east further from that river, you will come to the {{maha}} river Valley, the first river that Dunmari encountered as they came West.\n",
+      "after": "[u1900 | 02:38:32.760-02:38:43.440 | DM] And if you head east further from that river, you will come to the Mahar river Valley, the first river that Dunmari encountered as they came West.\n"
+    },
+    "u0011": {
+      "before": "[u0011 | 00:01:00.300-00:01:13.740 | DM] Well, this story has many beginnings most to tell this tale start in the year of joyful rains long ago, when the Fraternity of the Empty Moon a cult of werewolves tried and failed to draw Pandemonium closer to {{town}}.\n",
+      "after": "[u0011 | 00:01:00.300-00:01:13.740 | DM] Well, this story has many beginnings most to tell this tale start in the year of joyful rains long ago, when the Fraternity of the Empty Moon a cult of werewolves tried and failed to draw Pandemonium closer to Taelgar.\n"
+    },
+    "u1945": {
+      "before": "[u1945 | 02:41:42.480-02:41:52.860 | DM] yeah but maybe somewhere else along the {{mall}} like there's other significant sites that's where the Dunmari first like here is like where the Dunmari first.\n",
+      "after": "[u1945 | 02:41:42.480-02:41:52.860 | DM] yeah but maybe somewhere else along the Mahar like there's other significant sites that's where the Dunmari first like here is like where the Dunmari first.\n"
+    },
+    "u1947": {
+      "before": "[u1947 | 02:41:59.880-02:42:11.070 | DM] This confluence as well as another important point so there's a lot of places along the {{mahara}} that could have been a destination Saka does not know for sure where they were right.\n",
+      "after": "[u1947 | 02:41:59.880-02:42:11.070 | DM] This confluence as well as another important point so there's a lot of places along the Mahar that could have been a destination Saka does not know for sure where they were right.\n"
+    },
+    "u1902": {
+      "before": "[u1902 | 02:38:51.270-02:38:57.180 | DM] The {{maha}} the Kharja and the Hara all join in the south.\n",
+      "after": "[u1902 | 02:38:51.270-02:38:57.180 | DM] The Mahar the Kharja and the Hara all join in the south.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T03:55:19.976563+00:00",
+      "sha256": "74125a0284ee8e5acdf30d8898082e2d53dca2788fae731d167d40ffaae66d6b"
+    }
+  ],
+  "runId": "20261028T035519969127Z-24a7a35c",
+  "createdAt": "2026-10-28T03:55:19.969498+00:00"
+}

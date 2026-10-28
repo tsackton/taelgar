@@ -1,0 +1,1351 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-048",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-048/cleaned/dunmari-frontier-048-source-cleaned.md",
+  "beforeSha256": "9bb882a826fe683e6f1dfd90ec40ce989e02edd5c80d960b799f183092ccf2ce",
+  "afterSha256": "23e8bef8a8c2bbf7947d82ae2886cf2d94d899dfd073e5d6bb0c54ba6e470586",
+  "markersBefore": 201,
+  "groups": [
+    {
+      "id": "artificer-reference",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "An unidentified character or person may be named inside this damaged question about an artificer; current context does not establish a complete name-only replacement.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0053:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0053:m1": "{{Was was here was here from ma ma ma}}"
+      }
+    },
+    {
+      "id": "bas-udda-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The matching scene suggests Bas Udda, but the marker includes other damaged words. Replacing the whole span would reconstruct ordinary narration.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 48.md",
+          "sha256": "fef234b1c2d6206340c9650e5c3ae0c635c63c50be81ba82d2093e42bea0200a"
+        }
+      ],
+      "candidates": [
+        "Bas Udda"
+      ],
+      "markerIds": [
+        "u0028:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0028:m1": "{{pass into the people}}"
+      }
+    },
+    {
+      "id": "chasa-narration",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The matching arrival source identifies Chasa, but the marker contains damaged narration around the river name. A whole-span change would reconstruct that wording.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 48.md",
+          "sha256": "fef234b1c2d6206340c9650e5c3ae0c635c63c50be81ba82d2093e42bea0200a"
+        }
+      ],
+      "candidates": [
+        "Chasa"
+      ],
+      "markerIds": [
+        "u0245:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0245:m1": "{{strategy that chaucer}}"
+      }
+    },
+    {
+      "id": "dee-dain-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Dee and Dain are likely being referenced, but the marker includes unclear introductory or linking words. Retain the full span.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 48 (DuFr).md",
+          "sha256": "18482ff08441a39d4685e1fb488c640767d62ee4be4578780bb42e608941b103"
+        }
+      ],
+      "candidates": [
+        "Dee",
+        "Dain"
+      ],
+      "markerIds": [
+        "u3151:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u3151:m1": "{{Like Dean Dean or Darren}}"
+      }
+    },
+    {
+      "id": "drankorian-number",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Drankorian or Drankorians is plausible, but the surrounding fragment does not establish the exact form or grammatical number.",
+      "evidence": [
+        {
+          "path": "Background/Languages.md",
+          "sha256": "384bb0b9d51a540f40a522316cda56490f26eba2bdd88a04bd4c7b9a6da82649"
+        }
+      ],
+      "candidates": [
+        "Drankorian",
+        "Drankorians"
+      ],
+      "markerIds": [
+        "u1849:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1849:m1": "{{drank guardian}}"
+      }
+    },
+    {
+      "id": "drankorian-sentence",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Drankorians is recognizable inside the marker, but the whole sentence is damaged and cannot be replaced as a name alone.",
+      "evidence": [],
+      "candidates": [
+        "Drankorians"
+      ],
+      "markerIds": [
+        "u1943:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1943:m1": "{{While the Drake Koreans have us destroyed the world they have saved it}}"
+      }
+    },
+    {
+      "id": "drikod-mixed-phrases",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Drikod is strongly suggested by the stoneborn and Sending context, but these spans appear to contain additional connective words. Their complete replacement boundaries remain uncertain.",
+      "evidence": [
+        {
+          "path": "People/PCs/Dunmar Fellowship/Guests/Drikod.md",
+          "sha256": "0c352881fdf9b9319ea7136088bdfb78104f63b52cdc94f5da02db0f658c37b0"
+        }
+      ],
+      "candidates": [
+        "Drikod"
+      ],
+      "markerIds": [
+        "u1515:m1",
+        "u1521:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1515:m1": "{{ric constant}}",
+        "u1521:m1": "{{Your calendar}}"
+      }
+    },
+    {
+      "id": "drikod-sending",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The discussion concerns contacting the stoneborn companion whom Riswynn has never met. Drikod uniquely fits that role and the marked phonetic form.",
+      "evidence": [
+        {
+          "path": "People/PCs/Dunmar Fellowship/Guests/Drikod.md",
+          "sha256": "0c352881fdf9b9319ea7136088bdfb78104f63b52cdc94f5da02db0f658c37b0"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1515:m2"
+      ],
+      "replacements": {
+        "u1515:m2": "Drikod"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "elven-history-question",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The context suggests elves in a question about Drankorians, but the full marked wording is unclear; do not reconstruct the question.",
+      "evidence": [],
+      "candidates": [
+        "Elves"
+      ],
+      "markerIds": [
+        "u1945:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1945:m1": "{{A sunset isn't the be also}}"
+      }
+    },
+    {
+      "id": "elvish-language",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The speaker contrasts scholarly languages after an extended discussion of reading Elvish. The complete marked form is the language Elvish.",
+      "evidence": [
+        {
+          "path": "Background/Languages.md",
+          "sha256": "384bb0b9d51a540f40a522316cda56490f26eba2bdd88a04bd4c7b9a6da82649"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2462:m1"
+      ],
+      "replacements": {
+        "u2462:m1": "Elvish"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "eudomes-painting",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The immediately preceding dialogue identifies the painting and its subject as Eudomes; the reference note establishes the spelling.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Eudomes.md",
+          "sha256": "e2b4f2ccf189fce403c3a76ff9464e74523b2093deae01de4f12a1d492ca1796"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 48 (DuFr).md",
+          "sha256": "18482ff08441a39d4685e1fb488c640767d62ee4be4578780bb42e608941b103"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u3237:m1"
+      ],
+      "replacements": {
+        "u3237:m1": "Eudomes"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "fey-material-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The discussion concerns collecting materials from another plane, but Eve node does not uniquely identify a place or complete setting term.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u2572:m2"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2572:m2": "{{Eve node}}"
+      }
+    },
+    {
+      "id": "grash-mixed-phrases",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The conversation suggests Grash, but the marked spans also contain verbs or other unclear words. Replacing them would reconstruct the phrase.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Grash.md",
+          "sha256": "3d3dbf893416d0350386dbfc2639bc2dcc2431bdfea18dffc0ae43db37d9c484"
+        }
+      ],
+      "candidates": [
+        "Grash"
+      ],
+      "markerIds": [
+        "u3072:m1",
+        "u3081:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u3072:m1": "{{rush has}}",
+        "u3081:m1": "{{So Chapter two he's really garage}}"
+      }
+    },
+    {
+      "id": "hralgar-phrases",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The plan concerns Hralgar and returning his eyes, but these markers mix a possible name with unclear ordinary wording or object references. No complete replacement is established.",
+      "evidence": [],
+      "candidates": [
+        "Hralgar"
+      ],
+      "markerIds": [
+        "u0232:m1",
+        "u0238:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0232:m1": "{{Yes, how rough guy}}",
+        "u0238:m1": "{{for a while}}"
+      }
+    },
+    {
+      "id": "kaeso-damaged-phrases",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Kaeso is plausible in these descriptions, but the marked spans include unclear surrounding wording. Retain the complete spans.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Kaeso.md",
+          "sha256": "a390865e0a1c4be792a63bb1a1d898b459642b5249eed9999cbeb41619c6122c"
+        }
+      ],
+      "candidates": [
+        "Kaeso"
+      ],
+      "markerIds": [
+        "u0628:m2",
+        "u1097:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0628:m2": "{{cochise even}}",
+        "u1097:m1": "{{Of what}}"
+      }
+    },
+    {
+      "id": "karawa-fan",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The fan-purchase clarification lists Dunmari markets; the recorded fan vision explicitly pairs Karawa and Tokra.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md",
+          "sha256": "cf2a2180dbf17bb56e8a3acb50e39f31290f70e404b79cdb0d5826585dc519c9"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Mirror Visions/Chardon Fan Vision.md",
+          "sha256": "8cb57f9ce2c4fb75d59aa23ea0db0436321d0ce41adbf16b345c5701682d11d6"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0096:m1"
+      ],
+      "replacements": {
+        "u0096:m1": "Karawa"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "karawa-kidnappings",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The discussion concerns Agata's territorial limit near Karawa. Karawa is strongly favored over the ASR form, though the repeated south wording remains untouched.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Dunmar/Realms/Dunmar/Eastern Dunmar/Karawa.md",
+          "sha256": "cf2a2180dbf17bb56e8a3acb50e39f31290f70e404b79cdb0d5826585dc519c9"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 48.md",
+          "sha256": "fef234b1c2d6206340c9650e5c3ae0c635c63c50be81ba82d2093e42bea0200a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0133:m1"
+      ],
+      "replacements": {
+        "u0133:m1": "Karawa"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "kenzo-action-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The marker likely includes Kenzo's name and an action, but restoring the whole phrase would go beyond a name replacement.",
+      "evidence": [],
+      "candidates": [
+        "Kenzo"
+      ],
+      "markerIds": [
+        "u0683:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0683:m1": "{{can cancel cancel books}}"
+      }
+    },
+    {
+      "id": "kenzo-cult-joke",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "This appears to be a joking cult name followed by Kenzolions. The intended coined form is not established and should not be invented.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u1864:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1864:m1": "{{kids awaits}}"
+      }
+    },
+    {
+      "id": "kylos-lodging-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Kylos Market is plausible, but the longer marker contains unclear lodging narration. Preserve all wording rather than rebuilding the phrase.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Kylos Market.md",
+          "sha256": "3391639d4f44fb9c358434e1f9834099fe2f1c5cc0871304e278218601eaaab2"
+        }
+      ],
+      "candidates": [
+        "Kylos Market"
+      ],
+      "markerIds": [
+        "u1392:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1392:m1": "{{Since private pilot's market}}"
+      }
+    },
+    {
+      "id": "kylos-market",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Each occurrence identifies the same market beside Kaeso's home or on the route to it. The reference note establishes the complete market name.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Kylos Market.md",
+          "sha256": "3391639d4f44fb9c358434e1f9834099fe2f1c5cc0871304e278218601eaaab2"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 48.md",
+          "sha256": "fef234b1c2d6206340c9650e5c3ae0c635c63c50be81ba82d2093e42bea0200a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0256:m2",
+        "u0298:m1",
+        "u0303:m1",
+        "u0600:m1",
+        "u0721:m1"
+      ],
+      "replacements": {
+        "u0256:m2": "Kylos Market",
+        "u0298:m1": "Kylos Market",
+        "u0303:m1": "Kylos Market",
+        "u0600:m1": "Kylos Market",
+        "u0721:m1": "Kylos Market"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "lakan-book-contact",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "This single-letter marker may refer to the contact who located the book, but the dialogue does not uniquely establish a name or replacement boundary.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0266:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0266:m1": "{{Z}}"
+      }
+    },
+    {
+      "id": "marcus-spoken-mistake",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The speaker asks for a name, says Marcus, and is then corrected to Alban. Preserve the possible spoken mistake rather than substituting the correct identity.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Alban.md",
+          "sha256": "df32ccc569bd096706dda6f69c3e2b8da6cf9db46e9060c21c2e06b185f70c02"
+        }
+      ],
+      "candidates": [
+        "Alban",
+        "Marcus"
+      ],
+      "markerIds": [
+        "u1626:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1626:m1": "{{Marcus}}"
+      }
+    },
+    {
+      "id": "open-scroll-membership",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "A Society of the Open Scroll reference may occur inside this membership remark, but the complete marked phrase is unclear.",
+      "evidence": [],
+      "candidates": [
+        "Society of the Open Scroll"
+      ],
+      "markerIds": [
+        "u2525:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2525:m1": "{{Remember of opens}}"
+      }
+    },
+    {
+      "id": "ordinary-dialogue",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary dialogue, descriptive fragments, mechanics and item explanations, or incidental chatter outside the name pass. Some spans contain already readable names amid damaged wording; repairing those phrases is outside this pass. Retain each complete marker verbatim.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0011:m1",
+        "u0026:m1",
+        "u0149:m1",
+        "u0178:m1",
+        "u0192:m1",
+        "u0196:m1",
+        "u0206:m1",
+        "u0219:m1",
+        "u0230:m1",
+        "u0232:m2",
+        "u0233:m1",
+        "u0246:m1",
+        "u0262:m1",
+        "u0280:m1",
+        "u0284:m1",
+        "u0294:m1",
+        "u0359:m1",
+        "u0377:m1",
+        "u0429:m1",
+        "u0436:m1",
+        "u0437:m1",
+        "u0450:m1",
+        "u0484:m1",
+        "u0527:m1",
+        "u0565:m1",
+        "u0577:m1",
+        "u0586:m1",
+        "u0588:m1",
+        "u0607:m1",
+        "u0625:m1",
+        "u0627:m1",
+        "u0628:m1",
+        "u0666:m1",
+        "u0684:m1",
+        "u0705:m1",
+        "u0706:m1",
+        "u0707:m1",
+        "u0734:m1",
+        "u0739:m1",
+        "u0754:m1",
+        "u0778:m1",
+        "u0808:m1",
+        "u0809:m1",
+        "u0881:m1",
+        "u0902:m1",
+        "u0904:m1",
+        "u0910:m1",
+        "u1002:m1",
+        "u1127:m1",
+        "u1132:m1",
+        "u1138:m1",
+        "u1138:m2",
+        "u1144:m1",
+        "u1180:m1",
+        "u1197:m1",
+        "u1215:m1",
+        "u1232:m1",
+        "u1240:m1",
+        "u1276:m1",
+        "u1291:m1",
+        "u1319:m1",
+        "u1354:m1",
+        "u1402:m1",
+        "u1460:m1",
+        "u1461:m1",
+        "u1487:m1",
+        "u1498:m1",
+        "u1510:m1",
+        "u1532:m1",
+        "u1557:m1",
+        "u1588:m1",
+        "u1634:m1",
+        "u1643:m1",
+        "u1666:m1",
+        "u1678:m1",
+        "u1713:m1",
+        "u1784:m1",
+        "u1784:m2",
+        "u1806:m1",
+        "u1806:m2",
+        "u1824:m1",
+        "u1848:m1",
+        "u1868:m1",
+        "u1895:m1",
+        "u1895:m2",
+        "u1904:m1",
+        "u1951:m1",
+        "u1959:m1",
+        "u1964:m1",
+        "u1970:m1",
+        "u1971:m1",
+        "u1996:m1",
+        "u1996:m2",
+        "u2039:m1",
+        "u2041:m1",
+        "u2046:m1",
+        "u2086:m1",
+        "u2107:m1",
+        "u2155:m1",
+        "u2159:m1",
+        "u2183:m1",
+        "u2193:m1",
+        "u2244:m1",
+        "u2255:m1",
+        "u2280:m1",
+        "u2311:m1",
+        "u2312:m1",
+        "u2337:m1",
+        "u2338:m1",
+        "u2364:m1",
+        "u2367:m1",
+        "u2374:m1",
+        "u2379:m1",
+        "u2424:m1",
+        "u2465:m1",
+        "u2465:m2",
+        "u2470:m1",
+        "u2470:m2",
+        "u2478:m1",
+        "u2495:m1",
+        "u2565:m1",
+        "u2572:m1",
+        "u2573:m1",
+        "u2587:m1",
+        "u2609:m1",
+        "u2637:m1",
+        "u2667:m1",
+        "u2675:m1",
+        "u2681:m1",
+        "u2701:m1",
+        "u2702:m1",
+        "u2705:m1",
+        "u2717:m1",
+        "u2738:m1",
+        "u2742:m1",
+        "u2754:m1",
+        "u2761:m1",
+        "u2791:m1",
+        "u2809:m1",
+        "u2931:m1",
+        "u2995:m1",
+        "u3014:m1",
+        "u3017:m1",
+        "u3067:m1",
+        "u3082:m1",
+        "u3084:m1",
+        "u3085:m1",
+        "u3088:m1",
+        "u3101:m1",
+        "u3113:m1",
+        "u3142:m1",
+        "u3142:m2",
+        "u3215:m1",
+        "u3220:m1",
+        "u3228:m1",
+        "u3254:m1",
+        "u3268:m1",
+        "u3269:m1",
+        "u3288:m1",
+        "u3304:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0011:m1": "{{select literally all}}",
+        "u0026:m1": "{{This is what has been carrying the weight}}",
+        "u0149:m1": "{{and most the best}}",
+        "u0178:m1": "{{something in treatment}}",
+        "u0192:m1": "{{And my chops and challenge}}",
+        "u0196:m1": "{{we've charting with giants}}",
+        "u0206:m1": "{{peeking out for descriptions at}}",
+        "u0219:m1": "{{the gloss that open on}}",
+        "u0230:m1": "{{book thing}}",
+        "u0232:m2": "{{dealt with the people worship}}",
+        "u0233:m1": "{{office guy}}",
+        "u0246:m1": "{{them over the 50}}",
+        "u0262:m1": "{{Laura to settle}}",
+        "u0280:m1": "{{and must be}}",
+        "u0284:m1": "{{I suggest didn't have}}",
+        "u0294:m1": "{{I must know the}}",
+        "u0359:m1": "{{houses}}",
+        "u0377:m1": "{{kicking}}",
+        "u0429:m1": "{{finish reading it}}",
+        "u0436:m1": "{{Nasser}}",
+        "u0437:m1": "{{ass like}}",
+        "u0450:m1": "{{With the kingston}}",
+        "u0484:m1": "{{the chairman}}",
+        "u0527:m1": "{{going up to my soul cited}}",
+        "u0565:m1": "{{not any in public on group}}",
+        "u0577:m1": "{{Moving to}}",
+        "u0586:m1": "{{company}}",
+        "u0588:m1": "{{falcon hats}}",
+        "u0607:m1": "{{passion}}",
+        "u0625:m1": "{{and he can do is}}",
+        "u0627:m1": "{{that that's what these plugins}}",
+        "u0628:m1": "{{what by the change my mind}}",
+        "u0666:m1": "{{in our them gone}}",
+        "u0684:m1": "{{One of that habit rather}}",
+        "u0705:m1": "{{for Nice}}",
+        "u0706:m1": "{{where so we always}}",
+        "u0707:m1": "{{we'll have a bar}}",
+        "u0734:m1": "{{End of the lesson so classically see them come over}}",
+        "u0739:m1": "{{We don't you discreetly}}",
+        "u0754:m1": "{{It perceived in the any}}",
+        "u0778:m1": "{{You can, Sir, he}}",
+        "u0808:m1": "{{I really}}",
+        "u0809:m1": "{{an option}}",
+        "u0881:m1": "{{And Bible}}",
+        "u0902:m1": "{{A bomb}}",
+        "u0904:m1": "{{What do we buy that just for}}",
+        "u0910:m1": "{{Riswynn was}}",
+        "u1002:m1": "{{Yes, car Kenya}}",
+        "u1127:m1": "{{meet with the meat}}",
+        "u1132:m1": "{{will leave}}",
+        "u1138:m1": "{{Around Rom}}",
+        "u1138:m2": "{{of the UK}}",
+        "u1144:m1": "{{in this dynamic}}",
+        "u1180:m1": "{{plugins like}}",
+        "u1197:m1": "{{iron gets close}}",
+        "u1215:m1": "{{there we don't believe anybody, we have}}",
+        "u1232:m1": "{{chasing her vision would be tend to see you}}",
+        "u1240:m1": "{{there were five okay that}}",
+        "u1276:m1": "{{adjust your honor}}",
+        "u1291:m1": "{{The scenes look at my}}",
+        "u1319:m1": "{{should see this}}",
+        "u1354:m1": "{{I was time well}}",
+        "u1402:m1": "{{You more to come explore read for you}}",
+        "u1460:m1": "{{doing}}",
+        "u1461:m1": "{{senescent the messenger}}",
+        "u1487:m1": "{{ball}}",
+        "u1498:m1": "{{has approved}}",
+        "u1510:m1": "{{Alexis}}",
+        "u1532:m1": "{{Playing ladder}}",
+        "u1557:m1": "{{as high as tearing on}}",
+        "u1588:m1": "{{The muscles better}}",
+        "u1634:m1": "{{Where do you did}}",
+        "u1643:m1": "{{forfeit a half}}",
+        "u1666:m1": "{{important documents and you're running}}",
+        "u1678:m1": "{{de ver}}",
+        "u1713:m1": "{{sonny}}",
+        "u1784:m1": "{{soft}}",
+        "u1784:m2": "{{the}}",
+        "u1806:m1": "{{This}}",
+        "u1806:m2": "{{by fellow students}}",
+        "u1824:m1": "{{absolutely}}",
+        "u1848:m1": "{{At some halfway lights that}}",
+        "u1868:m1": "{{As well again}}",
+        "u1895:m1": "{{mending}}",
+        "u1895:m2": "{{chance to hang}}",
+        "u1904:m1": "{{Father some}}",
+        "u1951:m1": "{{a lesson}}",
+        "u1959:m1": "{{incognita}}",
+        "u1964:m1": "{{The dwarves me kiss}}",
+        "u1970:m1": "{{tissue than others work}}",
+        "u1971:m1": "{{brick}}",
+        "u1996:m1": "{{On enough perfect dress}}",
+        "u1996:m2": "{{back}}",
+        "u2039:m1": "{{mo and and sorrow}}",
+        "u2041:m1": "{{Is our}}",
+        "u2046:m1": "{{Not to me}}",
+        "u2086:m1": "{{of it}}",
+        "u2107:m1": "{{Are you sure}}",
+        "u2155:m1": "{{This he demonstrate that will do}}",
+        "u2159:m1": "{{sucky}}",
+        "u2183:m1": "{{souls into you}}",
+        "u2193:m1": "{{Tuesday at}}",
+        "u2244:m1": "{{Perhaps a little even go anywhere}}",
+        "u2255:m1": "{{match database}}",
+        "u2280:m1": "{{I miss alpha smart and}}",
+        "u2311:m1": "{{Well, more than a day with past the shadow}}",
+        "u2312:m1": "{{I don't pass outside}}",
+        "u2337:m1": "{{I know that's what that}}",
+        "u2338:m1": "{{Is it a few bits of old tales of}}",
+        "u2364:m1": "{{like around}}",
+        "u2367:m1": "{{sequel}}",
+        "u2374:m1": "{{I can go out}}",
+        "u2379:m1": "{{pull this trigger team}}",
+        "u2424:m1": "{{river in in the in the forest}}",
+        "u2465:m1": "{{checking them later}}",
+        "u2465:m2": "{{songs}}",
+        "u2470:m1": "{{it's a second editor that shows}}",
+        "u2470:m2": "{{flight}}",
+        "u2478:m1": "{{Natural}}",
+        "u2495:m1": "{{by to re}}",
+        "u2565:m1": "{{On league}}",
+        "u2572:m1": "{{owns it}}",
+        "u2573:m1": "{{is lucky}}",
+        "u2587:m1": "{{put your path}}",
+        "u2609:m1": "{{a track}}",
+        "u2637:m1": "{{Women}}",
+        "u2667:m1": "{{lock that}}",
+        "u2675:m1": "{{Is it worth good}}",
+        "u2681:m1": "{{happens}}",
+        "u2701:m1": "{{itself style}}",
+        "u2702:m1": "{{Things kept}}",
+        "u2705:m1": "{{By the way, when}}",
+        "u2717:m1": "{{now which we didn't say}}",
+        "u2738:m1": "{{mark your reference}}",
+        "u2742:m1": "{{wished}}",
+        "u2754:m1": "{{loose are the mentors}}",
+        "u2761:m1": "{{Stranger}}",
+        "u2791:m1": "{{So guys were meet}}",
+        "u2809:m1": "{{don't use}}",
+        "u2931:m1": "{{it's happening to open}}",
+        "u2995:m1": "{{If you want to use it}}",
+        "u3014:m1": "{{hoo landed like}}",
+        "u3017:m1": "{{i'm an artist}}",
+        "u3067:m1": "{{lead sled}}",
+        "u3082:m1": "{{Okay ugly the same magic that Agata used on that that either over}}",
+        "u3084:m1": "{{pull it}}",
+        "u3085:m1": "{{lucky winner}}",
+        "u3088:m1": "{{don't want them there}}",
+        "u3101:m1": "{{rule it out necessarily}}",
+        "u3113:m1": "{{Yes,}}",
+        "u3142:m1": "{{Not enjoying it}}",
+        "u3142:m2": "{{some powers}}",
+        "u3215:m1": "{{I say and him}}",
+        "u3220:m1": "{{about market}}",
+        "u3228:m1": "{{O is to ask}}",
+        "u3254:m1": "{{Next top of that}}",
+        "u3268:m1": "{{gum in}}",
+        "u3269:m1": "{{and ISM}}",
+        "u3288:m1": "{{aged giggling}}",
+        "u3304:m1": "{{funky Marie}}"
+      }
+    },
+    {
+      "id": "panemsgate",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The arrival passage identifies Kaeso's neighborhood; the matching session source establishes its spelling.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Chardon (Session 48-49)/Session 48.md",
+          "sha256": "fef234b1c2d6206340c9650e5c3ae0c635c63c50be81ba82d2093e42bea0200a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0256:m1"
+      ],
+      "replacements": {
+        "u0256:m1": "Panemsgate"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "possible-destinations",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "These may refer to a destination or to ordinary chatter. The Feywild and Illoria discussion does not uniquely establish the intended complete forms.",
+      "evidence": [],
+      "candidates": [
+        "Feywild",
+        "Illoria"
+      ],
+      "markerIds": [
+        "u3191:m1",
+        "u3195:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u3191:m1": "{{bathroom}}",
+        "u3195:m1": "{{a world}}"
+      }
+    },
+    {
+      "id": "samerki-question",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The surrounding discussion concerns Samerki, but the marker contains an entire unclear question rather than a complete recoverable name span.",
+      "evidence": [],
+      "candidates": [
+        "Samerki"
+      ],
+      "markerIds": [
+        "u0112:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0112:m1": "{{Why, I say i'm working there}}"
+      }
+    },
+    {
+      "id": "servius-repetition",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The older expedition scholar is named Servius immediately before and twice immediately after this marker. Another repetition of that established name is strongly favored over ordinary Separate.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Servius.md",
+          "sha256": "60d2f1f27a0fc84f9ebf3e57496135dab2af84e0d6e6e1ee926cae2aab71ca43"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 48 (DuFr).md",
+          "sha256": "18482ff08441a39d4685e1fb488c640767d62ee4be4578780bb42e608941b103"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1720:m1"
+      ],
+      "replacements": {
+        "u1720:m1": "Servius"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "stoneborn-recollection",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The speaker is recalling a friend and is followed by a different spoken name. This could be a player reference or an actual misremembered name; do not substitute a factually preferred identity.",
+      "evidence": [
+        {
+          "path": "People/PCs/Dunmar Fellowship/Guests/Drikod.md",
+          "sha256": "0c352881fdf9b9319ea7136088bdfb78104f63b52cdc94f5da02db0f658c37b0"
+        }
+      ],
+      "candidates": [
+        "Drikod"
+      ],
+      "markerIds": [
+        "u1512:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1512:m1": "{{Johnny odd}}"
+      }
+    },
+    {
+      "id": "taelgar-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "A possible Taelgar reference is embedded in a longer damaged question about making magic items; the full marked wording cannot be safely replaced as a name.",
+      "evidence": [],
+      "candidates": [
+        "Taelgar"
+      ],
+      "markerIds": [
+        "u0041:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0041:m1": "{{how can we magic magic items getting made and taller}}"
+      }
+    },
+    {
+      "id": "unknown-character",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The speaker says he does not know Kadmos and another character; Fantastic could be ordinary wording or a damaged name. There is insufficient support to choose.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u1269:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1269:m1": "{{Fantastic}}"
+      }
+    },
+    {
+      "id": "yuvanti-mountains",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Riswynn introduces her mountain homeland. The Yuvanti Mountains contain Nardith, matching her recorded ancestry and travel context; the complete marked geographical name phrase is strongly favored.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Dunmar/Yuvanti Mountains.md",
+          "sha256": "4a2afce9eb157c0ac48df3c971e4ccb3cb84a1243ce1350b007f412f76f6fc3f"
+        },
+        {
+          "path": "People/PCs/Dunmar Fellowship/Riswynn.md",
+          "sha256": "1ac682069a41ff96c7ed0b95d4d25ab058f6bc53041a77be2d454844071e6773"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0793:m1"
+      ],
+      "replacements": {
+        "u0793:m1": "the Yuvanti Mountains"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0096:m1",
+      "uid": "u0096",
+      "ordinal": 1,
+      "lineNumber": 96,
+      "start": 76,
+      "end": 88,
+      "before": "{{Caroline}}",
+      "span": "Caroline",
+      "line": "[u0096 | 00:09:21.180-00:09:27.600 | DM] No, in somewhere in Dunmar, Tokra, {{Caroline}} purchased from a trader but.",
+      "contextBefore": [
+        "[u0094 | 00:09:14.160-00:09:15.210 | Seeker] that's very interesting though.",
+        "[u0095 | 00:09:16.260-00:09:19.710 | Wellby] To be clear, Agata picked it up well disguised in Chardon."
+      ],
+      "contextAfter": [
+        "[u0097 | 00:09:27.810-00:09:29.730 | Seeker] Was that Agata in disguise.",
+        "[u0098 | 00:09:33.420-00:09:37.290 | DM] I mean you can't be 100% sure, but that's the implication."
+      ],
+      "after": "Karawa",
+      "group": "karawa-fan",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0133:m1",
+      "uid": "u0133",
+      "ordinal": 1,
+      "lineNumber": 133,
+      "start": 126,
+      "end": 138,
+      "before": "{{Carolina}}",
+      "span": "Carolina",
+      "line": "[u0133 | 00:11:40.260-00:11:47.520 | DM] Everybody you know that's been kidnapped by Agata has been kidnapped south, in south {{Carolina}}.",
+      "contextBefore": [
+        "[u0131 | 00:11:37.710-00:11:37.980 | Unknown] yeah.",
+        "[u0132 | 00:11:39.420-00:11:40.140 | Seeker] So who knows where."
+      ],
+      "contextAfter": [
+        "[u0134 | 00:11:48.000-00:11:48.420 | Delwath] Right yeah.",
+        "[u0135 | 00:11:50.970-00:11:58.470 | Wellby] So this gives us more context, but I don't think it does this give us any more information about a motive."
+      ],
+      "after": "Karawa",
+      "group": "karawa-kidnappings",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0256:m1",
+      "uid": "u0256",
+      "ordinal": 1,
+      "lineNumber": 256,
+      "start": 225,
+      "end": 241,
+      "before": "{{penance gate}}",
+      "span": "penance gate",
+      "line": "[u0256 | 00:21:36.660-00:21:57.270 | DM] city you do get your one hint from your DM, but you are not totally without contacts or information, so you have Kaeso, Kenzo's former mentor who lives in the south of the city in the {{penance gate}} neighborhood near the {{kindness market}} which Kenzo knows the way to.",
+      "contextBefore": [
+        "[u0254 | 00:21:07.920-00:21:26.490 | DM] And as the bridge settles back into place behind you, you can see the river widen ahead, the busy wharves of the port come into view dozens upon dozens of ships of all sizes shapes and colors fill the harbor some loading or unloading on the docks others that anchorage.",
+        "[u0255 | 00:21:28.260-00:21:36.450 | DM] As you as the Emerald Song slides into a berth in what seems to be the halfling section of the wharves and you look out across the vastness."
+      ],
+      "contextAfter": [
+        "[u0257 | 00:22:02.490-00:22:13.530 | DM] The name Crispus was mentioned to you by Marcella as the person who is the senior archivist at the Great Library and supposedly a major patron and sponsor of treasure hunting.",
+        "[u0258 | 00:22:19.170-00:22:20.850 | DM] Sorry, I just saw your message."
+      ],
+      "after": "Panemsgate",
+      "group": "panemsgate",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0256:m2",
+      "uid": "u0256",
+      "ordinal": 2,
+      "lineNumber": 256,
+      "start": 264,
+      "end": 283,
+      "before": "{{kindness market}}",
+      "span": "kindness market",
+      "line": "[u0256 | 00:21:36.660-00:21:57.270 | DM] city you do get your one hint from your DM, but you are not totally without contacts or information, so you have Kaeso, Kenzo's former mentor who lives in the south of the city in the {{penance gate}} neighborhood near the {{kindness market}} which Kenzo knows the way to.",
+      "contextBefore": [
+        "[u0254 | 00:21:07.920-00:21:26.490 | DM] And as the bridge settles back into place behind you, you can see the river widen ahead, the busy wharves of the port come into view dozens upon dozens of ships of all sizes shapes and colors fill the harbor some loading or unloading on the docks others that anchorage.",
+        "[u0255 | 00:21:28.260-00:21:36.450 | DM] As you as the Emerald Song slides into a berth in what seems to be the halfling section of the wharves and you look out across the vastness."
+      ],
+      "contextAfter": [
+        "[u0257 | 00:22:02.490-00:22:13.530 | DM] The name Crispus was mentioned to you by Marcella as the person who is the senior archivist at the Great Library and supposedly a major patron and sponsor of treasure hunting.",
+        "[u0258 | 00:22:19.170-00:22:20.850 | DM] Sorry, I just saw your message."
+      ],
+      "after": "Kylos Market",
+      "group": "kylos-market",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0298:m1",
+      "uid": "u0298",
+      "ordinal": 1,
+      "lineNumber": 298,
+      "start": 57,
+      "end": 74,
+      "before": "{{kyle's market}}",
+      "span": "kyle's market",
+      "line": "[u0298 | 00:26:05.520-00:26:08.790 | DM] And this is the {{kyle's market}} where.",
+      "contextBefore": [
+        "[u0296 | 00:25:59.280-00:26:02.640 | DM] map on Roll20 right, so the port is.",
+        "[u0297 | 00:26:03.720-00:26:05.160 | DM] Here, where your docking."
+      ],
+      "contextAfter": [
+        "[u0299 | 00:26:11.430-00:26:20.340 | DM] Kaeso's house is and then this is the sort of academy district over here there's like the old city walls and then there's the newer city walls so.",
+        "[u0300 | 00:26:23.340-00:26:26.970 | DM] This is the Imperial Palace, this is the Cathedral of the Way."
+      ],
+      "after": "Kylos Market",
+      "group": "kylos-market",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0303:m1",
+      "uid": "u0303",
+      "ordinal": 1,
+      "lineNumber": 303,
+      "start": 59,
+      "end": 78,
+      "before": "{{kyle is markets}}",
+      "span": "kyle is markets",
+      "line": "[u0303 | 00:26:32.850-00:26:37.530 | DM] Well, this is the {{kyle is markets}} and his place would be like just south of that like here.",
+      "contextBefore": [
+        "[u0301 | 00:26:27.720-00:26:28.410 | Delwath] I think if.",
+        "[u0302 | 00:26:30.630-00:26:31.770 | Kenzo] Where's Kaeso's place on the map."
+      ],
+      "contextAfter": [
+        "[u0304 | 00:26:39.600-00:26:43.050 | Seeker] What is the Cathedral of the Way represent religiously.",
+        "[u0305 | 00:26:43.920-00:26:47.010 | DM] Well that's the Eight Divines, as the."
+      ],
+      "after": "Kylos Market",
+      "group": "kylos-market",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0600:m1",
+      "uid": "u0600",
+      "ordinal": 1,
+      "lineNumber": 600,
+      "start": 41,
+      "end": 58,
+      "before": "{{Pilots market}}",
+      "span": "Pilots market",
+      "line": "[u0600 | 00:48:19.110-00:48:21.300 | DM] {{Pilots market}} which is full of.",
+      "contextBefore": [
+        "[u0598 | 00:48:04.650-00:48:06.270 | DM] You know and it's it's.",
+        "[u0599 | 00:48:07.710-00:48:18.030 | DM] Strange being back right, I mean not much has changed you you pass you pass by the like walls of the Imperial Palace you pass out of the the old city and through the."
+      ],
+      "contextAfter": [
+        "[u0601 | 00:48:23.160-00:48:30.750 | DM] You know just tons of stuff for sale and that and then has you know this big stone in the middle that's a.",
+        "[u0602 | 00:48:32.910-00:48:37.800 | DM] Cleaning stone, so you can sort of touch it and basically it washes washes your clothes, for you."
+      ],
+      "after": "Kylos Market",
+      "group": "kylos-market",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0721:m1",
+      "uid": "u0721",
+      "ordinal": 1,
+      "lineNumber": 721,
+      "start": 49,
+      "end": 67,
+      "before": "{{kyla is market}}",
+      "span": "kyla is market",
+      "line": "[u0721 | 00:57:58.650-00:58:00.960 | DM] Not the {{kyla is market}}, but the sort of.",
+      "contextBefore": [
+        "[u0719 | 00:57:53.670-00:57:54.540 | DM] Is Tuesday.",
+        "[u0720 | 00:57:56.520-00:57:57.360 | DM] At the."
+      ],
+      "contextAfter": [
+        "[u0722 | 00:58:02.340-00:58:06.510 | DM] The the central market here that's near the port so.",
+        "[u0723 | 00:58:07.800-00:58:09.510 | DM] So this this market here."
+      ],
+      "after": "Kylos Market",
+      "group": "kylos-market",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0793:m1",
+      "uid": "u0793",
+      "ordinal": 1,
+      "lineNumber": 793,
+      "start": 58,
+      "end": 85,
+      "before": "{{the event the mountains}}",
+      "span": "the event the mountains",
+      "line": "[u0793 | 01:04:23.700-01:04:28.050 | Riswynn] I come from {{the event the mountains}} and.",
+      "contextBefore": [
+        "[u0791 | 01:04:18.210-01:04:18.660 | Kenzo] Riswynn.",
+        "[u0792 | 01:04:20.820-01:04:22.200 | Riswynn] Riswynn Brawnanvil."
+      ],
+      "contextAfter": [
+        "[u0794 | 01:04:29.880-01:04:32.880 | Riswynn] I have had the pleasure of traveling with Kenzo.",
+        "[u0795 | 01:04:35.250-01:04:36.750 | DM] lovely to meet you as well."
+      ],
+      "after": "the Yuvanti Mountains",
+      "group": "yuvanti-mountains",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1515:m2",
+      "uid": "u1515",
+      "ordinal": 2,
+      "lineNumber": 1515,
+      "start": 99,
+      "end": 111,
+      "before": "{{your cod}}",
+      "span": "your cod",
+      "line": "[u1515 | 01:59:09.120-01:59:13.110 | DM] But Riswynn never met {{ric constant}}; you can't Sending {{your cod}} sadly.",
+      "contextBefore": [
+        "[u1513 | 01:59:04.290-01:59:04.980 | DM] Brot.",
+        "[u1514 | 01:59:05.160-01:59:06.660 | Kenzo] Brot yeah perfect."
+      ],
+      "contextAfter": [
+        "[u1516 | 01:59:13.920-01:59:14.880 | Riswynn] huh no.",
+        "[u1517 | 01:59:15.180-01:59:15.960 | Seeker] But she could ask."
+      ],
+      "after": "Drikod",
+      "group": "drikod-sending",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1720:m1",
+      "uid": "u1720",
+      "ordinal": 1,
+      "lineNumber": 1720,
+      "start": 41,
+      "end": 53,
+      "before": "{{Separate}}",
+      "span": "Separate",
+      "line": "[u1720 | 02:14:34.260-02:14:37.050 | DM] {{Separate}} Servius, Servius yeah.",
+      "contextBefore": [
+        "[u1718 | 02:14:26.250-02:14:27.180 | DM] scholar type.",
+        "[u1719 | 02:14:31.380-02:14:32.370 | DM] Servius."
+      ],
+      "contextAfter": [
+        "[u1721 | 02:14:38.790-02:14:40.020 | DM] It was a fucking bore.",
+        "[u1722 | 02:14:41.100-02:14:45.960 | DM] don't waste your time listening to that old man blabber on about bloody nothing."
+      ],
+      "after": "Servius",
+      "group": "servius-repetition",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2462:m1",
+      "uid": "u2462",
+      "ordinal": 1,
+      "lineNumber": 2462,
+      "start": 178,
+      "end": 190,
+      "before": "{{our bash}}",
+      "span": "our bash",
+      "line": "[u2462 | 03:08:21.990-03:08:32.940 | DM] Well there's just so many of them it's hardly worth the time I mean Drankorian Okay, although the wiser Drankorians, of course, wrote in {{our bash}} or Dwarvish if they were truly wise.",
+      "contextBefore": [
+        "[u2460 | 03:08:18.390-03:08:18.630 | Riswynn] it's.",
+        "[u2461 | 03:08:18.720-03:08:20.490 | DM] it's the human tongue that are."
+      ],
+      "contextAfter": [
+        "[u2463 | 03:08:37.110-03:08:42.000 | DM] But no, you, you will have to learn Seeker, if you want to take this seriously.",
+        "[u2464 | 03:08:42.570-03:08:43.530 | Seeker] I need to keep."
+      ],
+      "after": "Elvish",
+      "group": "elvish-language",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u3237:m1",
+      "uid": "u3237",
+      "ordinal": 1,
+      "lineNumber": 3237,
+      "start": 69,
+      "end": 82,
+      "before": "{{you don't}}",
+      "span": "you don't",
+      "line": "[u3237 | 04:04:31.410-04:04:33.390 | Kenzo] where's that painting of {{you don't}} have to go back to the tower.",
+      "contextBefore": [
+        "[u3235 | 04:04:26.940-04:04:28.350 | Kenzo] whoo.",
+        "[u3236 | 04:04:29.250-04:04:31.170 | Delwath] Well, tell us something about Eudomes."
+      ],
+      "contextAfter": [
+        "[u3238 | 04:04:33.840-04:04:34.470 | Unknown] No.",
+        "[u3239 | 04:04:37.440-04:04:37.620 | Kenzo] that's."
+      ],
+      "after": "Eudomes",
+      "group": "eudomes-painting",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u0793": {
+      "before": "[u0793 | 01:04:23.700-01:04:28.050 | Riswynn] I come from {{the event the mountains}} and.\n",
+      "after": "[u0793 | 01:04:23.700-01:04:28.050 | Riswynn] I come from the Yuvanti Mountains and.\n"
+    },
+    "u0303": {
+      "before": "[u0303 | 00:26:32.850-00:26:37.530 | DM] Well, this is the {{kyle is markets}} and his place would be like just south of that like here.\n",
+      "after": "[u0303 | 00:26:32.850-00:26:37.530 | DM] Well, this is the Kylos Market and his place would be like just south of that like here.\n"
+    },
+    "u1720": {
+      "before": "[u1720 | 02:14:34.260-02:14:37.050 | DM] {{Separate}} Servius, Servius yeah.\n",
+      "after": "[u1720 | 02:14:34.260-02:14:37.050 | DM] Servius Servius, Servius yeah.\n"
+    },
+    "u0133": {
+      "before": "[u0133 | 00:11:40.260-00:11:47.520 | DM] Everybody you know that's been kidnapped by Agata has been kidnapped south, in south {{Carolina}}.\n",
+      "after": "[u0133 | 00:11:40.260-00:11:47.520 | DM] Everybody you know that's been kidnapped by Agata has been kidnapped south, in south Karawa.\n"
+    },
+    "u2462": {
+      "before": "[u2462 | 03:08:21.990-03:08:32.940 | DM] Well there's just so many of them it's hardly worth the time I mean Drankorian Okay, although the wiser Drankorians, of course, wrote in {{our bash}} or Dwarvish if they were truly wise.\n",
+      "after": "[u2462 | 03:08:21.990-03:08:32.940 | DM] Well there's just so many of them it's hardly worth the time I mean Drankorian Okay, although the wiser Drankorians, of course, wrote in Elvish or Dwarvish if they were truly wise.\n"
+    },
+    "u0256": {
+      "before": "[u0256 | 00:21:36.660-00:21:57.270 | DM] city you do get your one hint from your DM, but you are not totally without contacts or information, so you have Kaeso, Kenzo's former mentor who lives in the south of the city in the {{penance gate}} neighborhood near the {{kindness market}} which Kenzo knows the way to.\n",
+      "after": "[u0256 | 00:21:36.660-00:21:57.270 | DM] city you do get your one hint from your DM, but you are not totally without contacts or information, so you have Kaeso, Kenzo's former mentor who lives in the south of the city in the Panemsgate neighborhood near the Kylos Market which Kenzo knows the way to.\n"
+    },
+    "u1515": {
+      "before": "[u1515 | 01:59:09.120-01:59:13.110 | DM] But Riswynn never met {{ric constant}}; you can't Sending {{your cod}} sadly.\n",
+      "after": "[u1515 | 01:59:09.120-01:59:13.110 | DM] But Riswynn never met {{ric constant}}; you can't Sending Drikod sadly.\n"
+    },
+    "u0096": {
+      "before": "[u0096 | 00:09:21.180-00:09:27.600 | DM] No, in somewhere in Dunmar, Tokra, {{Caroline}} purchased from a trader but.\n",
+      "after": "[u0096 | 00:09:21.180-00:09:27.600 | DM] No, in somewhere in Dunmar, Tokra, Karawa purchased from a trader but.\n"
+    },
+    "u0721": {
+      "before": "[u0721 | 00:57:58.650-00:58:00.960 | DM] Not the {{kyla is market}}, but the sort of.\n",
+      "after": "[u0721 | 00:57:58.650-00:58:00.960 | DM] Not the Kylos Market, but the sort of.\n"
+    },
+    "u0298": {
+      "before": "[u0298 | 00:26:05.520-00:26:08.790 | DM] And this is the {{kyle's market}} where.\n",
+      "after": "[u0298 | 00:26:05.520-00:26:08.790 | DM] And this is the Kylos Market where.\n"
+    },
+    "u3237": {
+      "before": "[u3237 | 04:04:31.410-04:04:33.390 | Kenzo] where's that painting of {{you don't}} have to go back to the tower.\n",
+      "after": "[u3237 | 04:04:31.410-04:04:33.390 | Kenzo] where's that painting of Eudomes have to go back to the tower.\n"
+    },
+    "u0600": {
+      "before": "[u0600 | 00:48:19.110-00:48:21.300 | DM] {{Pilots market}} which is full of.\n",
+      "after": "[u0600 | 00:48:19.110-00:48:21.300 | DM] Kylos Market which is full of.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:01:21.226564+00:00",
+      "sha256": "23e8bef8a8c2bbf7947d82ae2886cf2d94d899dfd073e5d6bb0c54ba6e470586"
+    }
+  ],
+  "runId": "20261028T040121115681Z-3ef18787",
+  "createdAt": "2026-10-28T04:01:21.116017+00:00"
+}

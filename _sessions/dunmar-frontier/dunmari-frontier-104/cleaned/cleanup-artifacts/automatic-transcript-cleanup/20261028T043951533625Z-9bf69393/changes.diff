@@ -1,0 +1,45 @@
+--- before/u0063
++++ after/u0063
+@@ -1 +1 @@
+-[u0063 | 00:03:39.680-00:03:44.530 | DM] rampaging across the {{Nebo Sea}} as a pirate, killing indiscriminately.
++[u0063 | 00:03:39.680-00:03:44.530 | DM] rampaging across the Nevos Sea as a pirate, killing indiscriminately.
+--- before/u0065
++++ after/u0065
+@@ -1 +1 @@
+-[u0065 | 00:03:47.020-00:03:51.099 | DM] you learned from the dwarves of {{Darren. Toader}}
++[u0065 | 00:03:47.020-00:03:51.099 | DM] you learned from the dwarves of Tharn Todor
+--- before/u0067
++++ after/u0067
+@@ -1 +1 @@
+-[u0067 | 00:03:54.420-00:04:00.680 | DM] into {{Tharntoder}}, the main dwarven city, apparently recruiting dwarves for some mission to the depths
++[u0067 | 00:03:54.420-00:04:00.680 | DM] into Tharn Todor, the main dwarven city, apparently recruiting dwarves for some mission to the depths
+--- before/u0115
++++ after/u0115
+@@ -1 +1 @@
+-[u0115 | 00:06:58.440-00:07:07.080 | DM] Rizwind is gone. Having teleported to join the dwarves of {{Thorntoder}} and help deal with the Rizwind Doppelganger making trouble there.
++[u0115 | 00:06:58.440-00:07:07.080 | DM] Rizwind is gone. Having teleported to join the dwarves of Tharn Todor and help deal with the Rizwind Doppelganger making trouble there.
+--- before/u0418
++++ after/u0418
+@@ -1 +1 @@
+-[u0418 | 00:25:39.040-00:25:45.339 | DM] magic Chanceweaver dice to place them in the correct location. He's in the {{Neva Sea}} somewhere.
++[u0418 | 00:25:39.040-00:25:45.339 | DM] magic Chanceweaver dice to place them in the correct location. He's in the Nevos Sea somewhere.
+--- before/u0461
++++ after/u0461
+@@ -1 +1 @@
+-[u0461 | 00:28:09.620-00:28:11.040 | Wellby] Island of the {{Nova Sea}}?
++[u0461 | 00:28:09.620-00:28:11.040 | Wellby] Island of the Nevos Sea?
+--- before/u1071
++++ after/u1071
+@@ -1 +1 @@
+-[u1071 | 01:02:52.500-01:02:53.770 | Delwath] 5 is like {{Shamu}}.
++[u1071 | 01:02:52.500-01:02:53.770 | Delwath] 5 is like Cha'mutte.
+--- before/u1407
++++ after/u1407
+@@ -1 +1 @@
+-[u1407 | 01:23:00.692-01:23:03.280 | Wellby] Dunmari, {{Estros}}, {{Erskine}}.
++[u1407 | 01:23:00.692-01:23:03.280 | Wellby] Dunmari, Eastros, Urskan.
+--- before/u3543
++++ after/u3543
+@@ -1 +1 @@
+-[u3543 | 03:17:48.200-03:17:56.750 | DM] No, I guess {{Heather}} is gone, so he's like he's like standing like. Yes, give him. He's like saying, Give him 30 more minutes, I know they'll be back
++[u3543 | 03:17:48.200-03:17:56.750 | DM] No, I guess Kethra is gone, so he's like he's like standing like. Yes, give him. He's like saying, Give him 30 more minutes, I know they'll be back

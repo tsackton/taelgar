@@ -69,7 +69,7 @@
 [u0069 | 00:06:35.870-00:06:38.410 | Riswynn] it all lines up with this.
 [u0070 | 00:06:41.070-00:06:43.229 | Seeker] powerful magic for them to have created, though
 [u0071 | 00:06:44.260-00:06:45.700 | Seeker] silence the gods!
-[u0072 | 00:06:50.150-00:06:53.470 | Seeker] Oh, there was something about research from Ulfgar and {{go here}}.
+[u0072 | 00:06:50.150-00:06:53.470 | Seeker] Oh, there was something about research from Ulfgar and Govir.
 [u0073 | 00:06:53.490-00:06:55.559 | Seeker] Is there a short summary of that?
 [u0074 | 00:06:57.270-00:06:59.029 | Wellby] it's all in the session. There, it's
 [u0075 | 00:06:59.430-00:07:06.580 | Seeker] wait a minute. Oh, there were links that you got in. You have to follow the links. Oh man, so much time.
@@ -207,7 +207,7 @@
 [u0207 | 00:17:48.900-00:17:50.300 | Delwath] there's not much
 [u0208 | 00:17:51.780-00:17:52.990 | Delwath] hope, and
 [u0209 | 00:17:53.590-00:17:59.430 | Delwath] stealing away the cloak or Lubash and the cloak.
-[u0210 | 00:18:01.150-00:18:10.420 | Delwath] Right, {{it it west}}. Perhaps all was fallen, and it's a last attempt at keeping it from {{garage the great}}.
+[u0210 | 00:18:01.150-00:18:10.420 | Delwath] Right, {{it it west}}. Perhaps all was fallen, and it's a last attempt at keeping it from Grash the great.
 [u0211 | 00:18:15.120-00:18:17.370 | Riswynn] So he also sort of was like
 [u0212 | 00:18:17.770-00:18:23.800 | Riswynn] don't exactly know what good the 5 of you are going to be. 4 of you, plus the guy on the ship
 [u0213 | 00:18:23.810-00:18:25.980 | Riswynn] because he hadn't met you yet, Seeker, so.
@@ -949,7 +949,7 @@
 [u0949 | 01:26:27.190-01:26:37.719 | DM] you! You pass through the city. You're being led by guards, as you're sort of distracted talking.
 [u0950 | 01:26:37.840-01:26:43.410 | DM] you enter in the the there's outside the the palaces all these, you know.
 [u0951 | 01:26:44.490-01:26:45.330 | DM] up
-[u0952 | 01:26:45.510-01:27:01.549 | DM] brightly colored designs, everything. There's this plaza in front, which is like the big, open central part of the city that you walk through. There's a big statue of {{gash}} in the middle that's painted in bright colors.
+[u0952 | 01:26:45.510-01:27:01.549 | DM] brightly colored designs, everything. There's this plaza in front, which is like the big, open central part of the city that you walk through. There's a big statue of Uzgash in the middle that's painted in bright colors.
 [u0953 | 01:27:01.930-01:27:21.719 | DM] the first, the ground floor of the palaces like gardens and stuff, and you pass through this sort of beautiful area, and are taken up one floor from past the sort of sideroom you were kept in for hours yesterday or this morning, to the same hall that you met the
 [u0954 | 01:27:21.790-01:27:25.359 | DM] chief in before, but now it's set with a
 [u0955 | 01:27:25.590-01:27:28.790 | DM] relatively small table for dinner.
@@ -1743,7 +1743,7 @@
 [u1743 | 02:43:07.090-02:43:17.379 | Kenzo] How the gods must wail and gnash at the frailties of us feeble humans that must, I must trust, discern their will and be their divine hand on earth. Never have I felt more unworthy of the power entrusted to me by Laka.
 [u1744 | 02:43:17.750-02:43:36.099 | Kenzo] My dream- my dreams remain filled with the corpses of my people, with rotting bodies of the Dunmari across the plains in numbers {{of where}} I wrote about in my last letter. And yet now I wonder that I missed the message of the gods in my haste and fear, for when I force myself to look, to see the nightmare, to stare in the darkness, I see the corpses on the field of battle shake and sway and begin to rise. Oh, no!
 [u1745 | 02:43:36.510-02:43:40.209 | Kenzo] Perhaps my dreams have been a warning of this creature to the east all along.
-[u1746 | 02:43:40.670-02:44:08.610 | Kenzo] and if that is the fear the gods would warn me of, were I to throw the legitimacy of Laka behind Sura, as the fire of Aagir so obviously burns in her, despite my misgivings that the fires of Aagir do not make one a just ruler. And yet when I {{brown}} Karnas, I hear nothing. Silence! No god will speak for him. Shall I- I will not burden you more with my troubles, for you must face dangers of your own. Before I close and deliver my words to this foreign {{gods}} that carry them to you, {{we. She}} has a message for you, Kenzo. In these uncertain times, when all paths seem fraught, trust in yourself.
+[u1746 | 02:43:40.670-02:44:08.610 | Kenzo] and if that is the fear the gods would warn me of, were I to throw the legitimacy of Laka behind Sura, as the fire of Aagir so obviously burns in her, despite my misgivings that the fires of Aagir do not make one a just ruler. And yet when I {{brown}} Karnas, I hear nothing. Silence! No god will speak for him. Shall I- I will not burden you more with my troubles, for you must face dangers of your own. Before I close and deliver my words to this foreign {{gods}} that carry them to you, Rishi has a message for you, Kenzo. In these uncertain times, when all paths seem fraught, trust in yourself.
 [u1747 | 02:44:08.610-02:44:19.779 | Kenzo] You've grown into great power, no longer {{listening}} boy we took in half a decade ago! And I could not be more proud of you. May the wisdom of Laka guide your paths. Yours in fellowship, Speaker Lara.
 [u1748 | 02:44:21.350-02:44:22.660 | Kenzo] Well, that's terrifying.
 [u1749 | 02:44:23.070-02:44:23.790 | Seeker] Who?

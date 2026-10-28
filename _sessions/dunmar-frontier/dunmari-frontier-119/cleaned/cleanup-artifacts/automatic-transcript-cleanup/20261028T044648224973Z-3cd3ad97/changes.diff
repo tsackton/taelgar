@@ -1,0 +1,20 @@
+--- before/u0031
++++ after/u0031
+@@ -1 +1 @@
+-[u0031 | 00:02:52.320-00:02:58.680 | DM] just {{seekers}} Lady Eventide. You see, you see her curled up in a ball like she's
++[u0031 | 00:02:52.320-00:02:58.680 | DM] just Seeker's Lady Eventide. You see, you see her curled up in a ball like she's
+--- before/u0180
++++ after/u0180
+@@ -1 +1 @@
+-[u0180 | 00:13:42.520-00:13:50.619 | DM] to Seeker. It sounds dwarven to Wellby {{sambarin}} to
++[u0180 | 00:13:42.520-00:13:50.619 | DM] to Seeker. It sounds dwarven to Wellby Sembaran to
+--- before/u1230
++++ after/u1230
+@@ -1 +1 @@
+-[u1230 | 01:41:00.900-01:41:04.790 | Delwath] {{stark}} at the hands of the Cloudspinner’s cloak.
++[u1230 | 01:41:00.900-01:41:04.790 | Delwath] Thark at the hands of the Cloudspinner’s cloak.
+--- before/u1440
++++ after/u1440
+@@ -1 +1 @@
+-[u1440 | 01:59:47.080-01:59:50.570 | Riswynn] 1st people we spoke of in {{Everlight's bloom}}, of the
++[u1440 | 01:59:47.080-01:59:50.570 | Riswynn] 1st people we spoke of in Everlight's Bloom, of the

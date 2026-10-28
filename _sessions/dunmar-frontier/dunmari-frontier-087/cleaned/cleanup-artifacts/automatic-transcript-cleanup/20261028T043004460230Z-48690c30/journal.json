@@ -1,0 +1,2217 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-087",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-087/cleaned/dunmari-frontier-087-source-cleaned.md",
+  "beforeSha256": "81fb72bd8346be7d35867180bfe23ea3c84a01770fec6b5bc0120f1ba21d8c7c",
+  "afterSha256": "8455f5a88c86bf3c9be43bb3b4d03b403654641368fe437b5668df2c3ae9d37a",
+  "markersBefore": 83,
+  "groups": [
+    {
+      "id": "aerin",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The named kenku Great War hero uniquely matches Aerin.",
+      "evidence": [
+        {
+          "path": "People/PCs/Great War/Aerin.md",
+          "sha256": "c5fa0d0238e829cc4c3e98cdc37d009faf609e704f17b9cee5bd434835ded165"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1243:m1"
+      ],
+      "replacements": {
+        "u1243:m1": "Aerin"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "aglir",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Arheste names the emperor she advised before the twins; the source establishes Aglir, already correct inside the marker.",
+      "evidence": [
+        {
+          "path": "People/Elves/Arheste.md",
+          "sha256": "7efcb2e18df1203641154985ba852a470a89efde50b92bd2b2ca39c09d2b8d99"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1508:m1"
+      ],
+      "replacements": {
+        "u1508:m1": "Aglir"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "cekious",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The paired emperors in Arheste’s account are Pelois and Cekious; both occurrences refer to the second twin.",
+      "evidence": [
+        {
+          "path": "People/Elves/Arheste.md",
+          "sha256": "7efcb2e18df1203641154985ba852a470a89efde50b92bd2b2ca39c09d2b8d99"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1509:m1",
+        "u1515:m2"
+      ],
+      "replacements": {
+        "u1509:m1": "Cekious",
+        "u1515:m2": "Cekious"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "chamutte-spoken-mistake",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The marked name is already Cha’mutte, while the surrounding account attributes the theft to Apollyon elsewhere. This may be a spoken mistake, so do not substitute the factually expected name or silently approve the identity.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 87 (DuFr).md",
+          "sha256": "0f40b178829533981e246b14eb0338e0b847dee8b288f429322d17e7cf9e404b"
+        }
+      ],
+      "candidates": [
+        "Cha'mutte",
+        "Apollyon"
+      ],
+      "markerIds": [
+        "u1698:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1698:m1": "{{Cha'mutte}}"
+      }
+    },
+    {
+      "id": "cleansed-term-with-article",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The Cleansed is plausible in this crown discussion, but the marked word could be ordinary wording. The transcript already has an unmarked article and the complete intended form is uncertain.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Fausto.md",
+          "sha256": "6b1184433b9973db6da55343bb958196acfbfa997bc63bf8f8385c51f3cd10cf"
+        }
+      ],
+      "candidates": [
+        "Cleansed"
+      ],
+      "markerIds": [
+        "u1827:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1827:m1": "{{cleanse}}"
+      }
+    },
+    {
+      "id": "crown-holder-nickname",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Fausto is documented as the crown holder, but the complete marked utterance could be a nickname or other wording and cannot safely be replaced by Fausto alone.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Fausto.md",
+          "sha256": "6b1184433b9973db6da55343bb958196acfbfa997bc63bf8f8385c51f3cd10cf"
+        }
+      ],
+      "candidates": [
+        "Fausto"
+      ],
+      "markerIds": [
+        "u1826:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1826:m1": "{{Mr. Kandu}}"
+      }
+    },
+    {
+      "id": "crown-or-wording",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The binding stones were associated with a crown, but “the chrome” could represent ordinary wording or a reference to that object; the complete intended term is not clear.",
+      "evidence": [
+        {
+          "path": "People/Giants/Hralgar.md",
+          "sha256": "7a98c9ddc726d1787de8c6ba4de3e8d9a4788e73215ee315d6f280bbfec0c769"
+        }
+      ],
+      "candidates": [
+        "crown"
+      ],
+      "markerIds": [
+        "u0252:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0252:m1": "{{the chrome}}"
+      }
+    },
+    {
+      "id": "date-and-numbers",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "This complete marker combines a calendar name with damaged date and number wording. Repairing the date would exceed a names-only whole-span replacement.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Faldrak's Journal Notes.md",
+          "sha256": "79b0290e0f648ff5932c2a75311c5fec91ad5c369404d8372fdfe688ab8ff9de"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0007:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0007:m1": "{{Barkhom. 5, 5, 8, one}}"
+      }
+    },
+    {
+      "id": "delios-with-prefix",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The written letter identifies Delios, but the fused marked form may also include introductory words. Retain it because the full marked replacement cannot be recovered as a name alone.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Binding Stones.md",
+          "sha256": "27cb971e13815ccb07377748f59799cf5e30c59a3d21b9f23ea281103db5c401"
+        },
+        {
+          "path": "People/Tollenders/Delios the Sage.md",
+          "sha256": "a46779c34502f90f3fd04daf4d76616769bc576ce1831f4855a3967efb5e9981"
+        }
+      ],
+      "candidates": [
+        "Delios"
+      ],
+      "markerIds": [
+        "u0213:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0213:m1": "{{Agreedelius}}"
+      }
+    },
+    {
+      "id": "delwath-scrying",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The party member doing the scrying is strongly favored as Delwath; prior play explicitly records his scrying. Wellby is a weaker phonetic alternative without that contextual support.",
+      "evidence": [
+        {
+          "path": "People/PCs/Dunmar Fellowship/Delwath.md",
+          "sha256": "fa772e8f3c941f297bfe338103036405023138e2adf07e586d4e793821c835b7"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 77 (DuFr).md",
+          "sha256": "c2bdaa1392333bfce558ba6e246ea128a153ab5c95415d7c13c3ed48dd96975e"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0136:m1"
+      ],
+      "replacements": {
+        "u0136:m1": "Delwath"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "estemar",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The city of peace and Arheste’s birthplace are explicitly named Estemar in her account.",
+      "evidence": [
+        {
+          "path": "People/Elves/Arheste.md",
+          "sha256": "7efcb2e18df1203641154985ba852a470a89efde50b92bd2b2ca39c09d2b8d99"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1374:m1",
+        "u1506:m1",
+        "u1548:m1"
+      ],
+      "replacements": {
+        "u1374:m1": "Estemar",
+        "u1506:m1": "Estemar",
+        "u1548:m1": "Estemar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "estemar-introduction",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The complete marked span follows “city of my birth was called” and is a damaged recognition of Estemar, immediately repeated with “city of Peace.” The source establishes the unique city name.",
+      "evidence": [
+        {
+          "path": "People/Elves/Arheste.md",
+          "sha256": "7efcb2e18df1203641154985ba852a470a89efde50b92bd2b2ca39c09d2b8d99"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1505:m1"
+      ],
+      "replacements": {
+        "u1505:m1": "Estemar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "faldrak-prism",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Seeker addresses the dwarf accompanying them while testing the newly crafted prism; the session record identifies Faldrak in that role.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 87 (DuFr).md",
+          "sha256": "0f40b178829533981e246b14eb0338e0b847dee8b288f429322d17e7cf9e404b"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Faldrak's Journal Notes.md",
+          "sha256": "79b0290e0f648ff5932c2a75311c5fec91ad5c369404d8372fdfe688ab8ff9de"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0485:m1"
+      ],
+      "replacements": {
+        "u0485:m1": "Faldrak"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "fides-lucaris",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The allied rebel organization in this passage uniquely matches Fides Lucaris in Arheste’s account; preserve the article within the complete marked span.",
+      "evidence": [
+        {
+          "path": "People/Elves/Arheste.md",
+          "sha256": "7efcb2e18df1203641154985ba852a470a89efde50b92bd2b2ca39c09d2b8d99"
+        },
+        {
+          "path": "Groups/Drankorian Societies/Fides Lucaris.md",
+          "sha256": "9a97fb4c2b68ca7d5a14653e370abb45d90875384b84c89b32d5978e4ba82fa0"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1535:m1"
+      ],
+      "replacements": {
+        "u1535:m1": "The Fides Lucaris"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "generation-with-wording",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Ka is an established term here, but the full marker includes an entire unclear clause; do not reconstruct “they are of your ka” in this pass.",
+      "evidence": [
+        {
+          "path": "Background/Elven Cycle of Generations.md",
+          "sha256": "e3e6bf0d41fa8785a985d21a7254b9c4e6c15a8d27981701437ce22217334bd1"
+        }
+      ],
+      "candidates": [
+        "ka"
+      ],
+      "markerIds": [
+        "u0818:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0818:m1": "{{there of your Ca}}"
+      }
+    },
+    {
+      "id": "great-war-contact-spelling",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The likely Great War contact has conflicting source spellings: Taelisn and Taelsin in Arheste, Taelisin in The Council, and Taliesin in the NPC List. Preserve all four occurrences until the preferred form is settled.",
+      "evidence": [
+        {
+          "path": "People/Elves/Arheste.md",
+          "sha256": "7efcb2e18df1203641154985ba852a470a89efde50b92bd2b2ca39c09d2b8d99"
+        },
+        {
+          "path": "Worldbuilding/Old Documents/Great War/The Council.md",
+          "sha256": "918c5ade62ef9291b956e94f3a369386fddac0fa078493a3ced9b2ab2a920db0"
+        },
+        {
+          "path": "Worldbuilding/Old Documents/Great War/NPC List.md",
+          "sha256": "70ccb9b58a8f68a7c1bd4ed3978eee84ab2a98c606ecb0d75cdee80b70d26235"
+        }
+      ],
+      "candidates": [
+        "Taelisn",
+        "Taelsin",
+        "Taelisin",
+        "Taliesin"
+      ],
+      "markerIds": [
+        "u1587:m1",
+        "u1587:m2",
+        "u1588:m1",
+        "u1711:m2"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1587:m1": "{{talesian}}",
+        "u1587:m2": "{{Telesia}}",
+        "u1588:m1": "{{tales, and}}",
+        "u1711:m2": "{{Telesian}}"
+      }
+    },
+    {
+      "id": "haldir",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The named recipient of Arheste’s information is strongly favored as Haldir, paired with the other Great War contact. The existing source names Haldir in that role. No surrounding wording is reconstructed.",
+      "evidence": [
+        {
+          "path": "People/Elves/Arheste.md",
+          "sha256": "7efcb2e18df1203641154985ba852a470a89efde50b92bd2b2ca39c09d2b8d99"
+        },
+        {
+          "path": "Worldbuilding/Old Documents/Great War/The Council.md",
+          "sha256": "918c5ade62ef9291b956e94f3a369386fddac0fa078493a3ced9b2ab2a920db0"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1711:m1"
+      ],
+      "replacements": {
+        "u1711:m1": "Haldir"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "helea",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The assassinated emperor and the resistance fought in her name identify Helea. Preserve the possessive.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Drankorian Emperors/Helea.md",
+          "sha256": "4826ed7fd7f8c9e9968f2b373e1b3aceda415d1a34e21e616b45952f3f9ec6a8"
+        },
+        {
+          "path": "People/Elves/Arheste.md",
+          "sha256": "7efcb2e18df1203641154985ba852a470a89efde50b92bd2b2ca39c09d2b8d99"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1520:m1",
+        "u1522:m1"
+      ],
+      "replacements": {
+        "u1520:m1": "Helea",
+        "u1522:m1": "Helea's"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "helea-discussion",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The discussion repeats that the Omnis Pura assassinated the emperor; the isolated marked form strongly favors Helea in this specific context over an ordinary greeting.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Drankorian Emperors/Helea.md",
+          "sha256": "4826ed7fd7f8c9e9968f2b373e1b3aceda415d1a34e21e616b45952f3f9ec6a8"
+        },
+        {
+          "path": "People/Elves/Arheste.md",
+          "sha256": "7efcb2e18df1203641154985ba852a470a89efde50b92bd2b2ca39c09d2b8d99"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1614:m1"
+      ],
+      "replacements": {
+        "u1614:m1": "Helea"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "highkeep",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Seeker is being introduced by his clan name; his backstory and the letter establish Highkeep as one word.",
+      "evidence": [
+        {
+          "path": "People/PCs/Dunmar Fellowship/Seeker.md",
+          "sha256": "8b2f8f32c624834ed7056f6507330f4150d10ed1ac2b9a65af1c335b8b5f10e5"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Philosopher's Information Concerning Binding Stones.md",
+          "sha256": "27cb971e13815ccb07377748f59799cf5e30c59a3d21b9f23ea281103db5c401"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0702:m1",
+        "u0702:m2",
+        "u0702:m3"
+      ],
+      "replacements": {
+        "u0702:m1": "Highkeep",
+        "u0702:m2": "Highkeep",
+        "u0702:m3": "Highkeep"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "hralgar-bound-giant",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The discussion identifies the previously bound giant, uniquely matching Hralgar; Taraka is a different referent and does not match the giant role.",
+      "evidence": [
+        {
+          "path": "People/Giants/Hralgar.md",
+          "sha256": "7a98c9ddc726d1787de8c6ba4de3e8d9a4788e73215ee315d6f280bbfec0c769"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0253:m1"
+      ],
+      "replacements": {
+        "u0253:m1": "Hralgar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "hutsu",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Hutsu is an established named kind of ki and is already correctly spelled. Only the marker is removed; the subsequent discussion of its use is preserved.",
+      "evidence": [
+        {
+          "path": "People/PCs/Dunmar Fellowship/Kenzo.md",
+          "sha256": "809317793bbffd0bf8fe64ab56ec211ca64cf74bd3ac5404a60e69f703821e5b"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1298:m1"
+      ],
+      "replacements": {
+        "u1298:m1": "Hutsu"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "imrodel",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Arheste’s children served Imrodel, and the later passage identifies the same last peronar emperor and Rai’s ancestor. Preserve the possessive.",
+      "evidence": [
+        {
+          "path": "People/Elves/Arheste.md",
+          "sha256": "7efcb2e18df1203641154985ba852a470a89efde50b92bd2b2ca39c09d2b8d99"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1518:m1",
+        "u1715:m1",
+        "u1715:m2"
+      ],
+      "replacements": {
+        "u1518:m1": "Imrodel",
+        "u1715:m1": "Imrodel's",
+        "u1715:m2": "Imrodel"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ka",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The ordinal generations and duration of survival name the elven cycle ka.",
+      "evidence": [
+        {
+          "path": "Background/Elven Cycle of Generations.md",
+          "sha256": "e3e6bf0d41fa8785a985d21a7254b9c4e6c15a8d27981701437ce22217334bd1"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1198:m1",
+        "u1322:m1",
+        "u1721:m1"
+      ],
+      "replacements": {
+        "u1198:m1": "ka",
+        "u1322:m1": "ka",
+        "u1721:m1": "ka"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "leya",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The second term in this self-correction refers to the early Awakening and is strongly supported as leya by the immediate children-not-awakened context and Arheste’s account. The preceding mela term is preserved.",
+      "evidence": [
+        {
+          "path": "Background/Elven Cycle of Generations.md",
+          "sha256": "e3e6bf0d41fa8785a985d21a7254b9c4e6c15a8d27981701437ce22217334bd1"
+        },
+        {
+          "path": "People/Elves/Arheste.md",
+          "sha256": "7efcb2e18df1203641154985ba852a470a89efde50b92bd2b2ca39c09d2b8d99"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1558:m2"
+      ],
+      "replacements": {
+        "u1558:m2": "leya"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "lyrial",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The opening journal names the same former traveling companion; the written journal establishes Lyrial.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Faldrak's Journal Notes.md",
+          "sha256": "79b0290e0f648ff5932c2a75311c5fec91ad5c369404d8372fdfe688ab8ff9de"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0008:m1"
+      ],
+      "replacements": {
+        "u0008:m1": "Lyrial"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "lyrial-fey-step",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The fey-step teacher is uniquely identified in the matching journal as Lyrial; the ASR form is less close but the role and passage match.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Faldrak's Journal Notes.md",
+          "sha256": "79b0290e0f648ff5932c2a75311c5fec91ad5c369404d8372fdfe688ab8ff9de"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0012:m1"
+      ],
+      "replacements": {
+        "u0012:m1": "Lyrial"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "mela",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "These occurrences name the elven rooted phase, mela. The first term in the later self-correction is preserved as mela rather than silently changed to leya.",
+      "evidence": [
+        {
+          "path": "Background/Elven Cycle of Generations.md",
+          "sha256": "e3e6bf0d41fa8785a985d21a7254b9c4e6c15a8d27981701437ce22217334bd1"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1190:m1",
+        "u1517:m1",
+        "u1529:m1",
+        "u1558:m1"
+      ],
+      "replacements": {
+        "u1190:m1": "mela",
+        "u1517:m1": "mela",
+        "u1529:m1": "mela",
+        "u1558:m1": "mela"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "mela-delwath",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Delwath describes failing to notice the rooted phase while away, directly following discussion of Vahaiya’s first mela. Mela is strongly favored over ka or leya; the numerical self-corrections remain untouched.",
+      "evidence": [
+        {
+          "path": "Background/Elven Cycle of Generations.md",
+          "sha256": "e3e6bf0d41fa8785a985d21a7254b9c4e6c15a8d27981701437ce22217334bd1"
+        },
+        {
+          "path": "People/Elves/Vahaiya.md",
+          "sha256": "8a909d5ec067e475ba1de099dafe3a7974476b98e6bfcc82d7d4c662b1e82401"
+        },
+        {
+          "path": "People/PCs/Dunmar Fellowship/Delwath.md",
+          "sha256": "fa772e8f3c941f297bfe338103036405023138e2adf07e586d4e793821c835b7"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1228:m2"
+      ],
+      "replacements": {
+        "u1228:m2": "mela"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "old-elven-label",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The discussion recalls older high-elf lore, but neither marked phrase maps securely to a documented name. Peronar fits the broad topic but would substitute the current label for unclear remembered wording.",
+      "evidence": [
+        {
+          "path": "Creatures/Species/Peronar.md",
+          "sha256": "1ab792c8b05f12e4bae9e87be2a4f7d10a78c2d7392576bde010249fa3992c25"
+        },
+        {
+          "path": "People/PCs/Great War/Rai.md",
+          "sha256": "dd386e4477ac053bf5e15de9f6cee82b157549366e1d3343355ab1db12e244ed"
+        }
+      ],
+      "candidates": [
+        "Peronar",
+        "High Peronar"
+      ],
+      "markerIds": [
+        "u1597:m1",
+        "u1597:m2"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1597:m1": "{{White dress}}",
+        "u1597:m2": "{{totally dress}}"
+      }
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "These markers contain ordinary dialogue, descriptions, grammar, mechanics, or damaged source-reading wording. Reconstructing them is outside the names pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0136:m2",
+        "u0210:m1",
+        "u0220:m1",
+        "u0226:m1",
+        "u0243:m1",
+        "u0250:m1",
+        "u0274:m1",
+        "u0377:m1",
+        "u0459:m1",
+        "u0466:m1",
+        "u1228:m1",
+        "u1299:m1",
+        "u1456:m1",
+        "u1590:m1",
+        "u1637:m1",
+        "u1839:m1",
+        "u1844:m1",
+        "u1934:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0136:m2": "{{sitting there will then sit}}",
+        "u0210:m1": "{{of the stones}}",
+        "u0220:m1": "{{a harpoon}}",
+        "u0226:m1": "{{the item is risk effects}}",
+        "u0243:m1": "{{some whitstones}}",
+        "u0250:m1": "{{sending them}}",
+        "u0274:m1": "{{street}}",
+        "u0377:m1": "{{saw the nerve to the ship, to the moon}}",
+        "u0459:m1": "{{in person}}",
+        "u0466:m1": "{{just walk around disappear}}",
+        "u1228:m1": "{{No}}",
+        "u1299:m1": "{{rich. You can join this full}}",
+        "u1456:m1": "{{cost a lot}}",
+        "u1590:m1": "{{without a good dragon}}",
+        "u1637:m1": "{{liberty}}",
+        "u1839:m1": "{{spray it}}",
+        "u1844:m1": "{{strange use}}",
+        "u1934:m1": "{{to throw a trio}}"
+      }
+    },
+    {
+      "id": "pelois",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The paired emperors in Arheste’s account are Pelois and Cekious; both occurrences refer to the first twin.",
+      "evidence": [
+        {
+          "path": "People/Elves/Arheste.md",
+          "sha256": "7efcb2e18df1203641154985ba852a470a89efde50b92bd2b2ca39c09d2b8d99"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1508:m2",
+        "u1515:m1"
+      ],
+      "replacements": {
+        "u1508:m2": "Pelois",
+        "u1515:m1": "Pelois"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "peronar",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "These occurrences consistently name the elven people associated with Hkar and Drankor; the reference and Arheste’s account establish peronar.",
+      "evidence": [
+        {
+          "path": "Creatures/Species/Peronar.md",
+          "sha256": "1ab792c8b05f12e4bae9e87be2a4f7d10a78c2d7392576bde010249fa3992c25"
+        },
+        {
+          "path": "People/Elves/Arheste.md",
+          "sha256": "7efcb2e18df1203641154985ba852a470a89efde50b92bd2b2ca39c09d2b8d99"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1507:m1",
+        "u1525:m1",
+        "u1576:m1",
+        "u1580:m1",
+        "u1586:m1",
+        "u1632:m1",
+        "u1632:m2",
+        "u1715:m3"
+      ],
+      "replacements": {
+        "u1507:m1": "peronar",
+        "u1525:m1": "peronar",
+        "u1576:m1": "peronar",
+        "u1580:m1": "peronar",
+        "u1586:m1": "peronar",
+        "u1632:m1": "peronar",
+        "u1632:m2": "peronar",
+        "u1715:m3": "peronar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "religion-with-wording",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Mos Numena is suggested by the Eight Divines context, but the marker includes additional unclear words; replacing the whole span by the name alone would delete possible spoken wording.",
+      "evidence": [],
+      "candidates": [
+        "Mos Numena"
+      ],
+      "markerIds": [
+        "u0181:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0181:m1": "{{Moss Newman at that}}"
+      }
+    },
+    {
+      "id": "self-corrected-name-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The marker may contain a false start involving Apollyon, immediately followed by “killed Cha’mutte.” Replacing the full phrase would reconstruct the verb and could erase a spoken self-correction.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 87 (DuFr).md",
+          "sha256": "0f40b178829533981e246b14eb0338e0b847dee8b288f429322d17e7cf9e404b"
+        }
+      ],
+      "candidates": [
+        "Apollyon"
+      ],
+      "markerIds": [
+        "u1882:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1882:m1": "{{kill the Polyga}}"
+      }
+    },
+    {
+      "id": "sembara",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Vahaiya is describing travels in the Sembaran borderlands; the biography and adjacent discussion strongly favor Sembara over an otherwise unidentified Tamara.",
+      "evidence": [
+        {
+          "path": "People/Elves/Vahaiya.md",
+          "sha256": "8a909d5ec067e475ba1de099dafe3a7974476b98e6bfcc82d7d4c662b1e82401"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1191:m1"
+      ],
+      "replacements": {
+        "u1191:m1": "Sembara"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "tanshi-necklace",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The marked religious term names the tanshi whose symbols Delwath wears.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Tanshi.md",
+          "sha256": "3b3948c1c28301bde5d69129004d17cf2a6dd748ad62cdcec8907b9cd1d7dc7f"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0752:m1"
+      ],
+      "replacements": {
+        "u0752:m1": "tanshi"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "tanshi-vision",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The symbols on Delwath’s gear refer to the tanshi, repeated more clearly later in this session; punchy is a weaker recognition of that established term.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Tanshi.md",
+          "sha256": "3b3948c1c28301bde5d69129004d17cf2a6dd748ad62cdcec8907b9cd1d7dc7f"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0659:m1"
+      ],
+      "replacements": {
+        "u0659:m1": "tanshi"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "tokra-or-chatter",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The nearby discussion concerns the Tokra research contact, but the marked telecom could also be ordinary communication-related wording; the intended complete form is unclear.",
+      "evidence": [],
+      "candidates": [
+        "Tokra"
+      ],
+      "markerIds": [
+        "u0143:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0143:m1": "{{telecom}}"
+      }
+    },
+    {
+      "id": "tree-term",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The vanilla-blossom description does not settle whether tollen is a place name, a tree descriptor, or other ordinary wording; the intended complete form is unclear.",
+      "evidence": [],
+      "candidates": [
+        "Tollen",
+        "Tokra"
+      ],
+      "markerIds": [
+        "u1018:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1018:m1": "{{tollen}}"
+      }
+    },
+    {
+      "id": "urtaro",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Kenzo invokes a plant while performing the healing; the plant lore names Urtaro and distinguishes it from Hutsu. The marked phonetic form strongly favors Urtaro.",
+      "evidence": [
+        {
+          "path": "People/PCs/Dunmar Fellowship/Kenzo.md",
+          "sha256": "809317793bbffd0bf8fe64ab56ec211ca64cf74bd3ac5404a60e69f703821e5b"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1467:m1"
+      ],
+      "replacements": {
+        "u1467:m1": "Urtaro"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0008:m1",
+      "uid": "u0008",
+      "ordinal": 1,
+      "lineNumber": 8,
+      "start": 225,
+      "end": 234,
+      "before": "{{Lyell}}",
+      "span": "Lyell",
+      "line": "[u0008 | 00:00:46.720-00:01:01.089 | DM] I was not sure what to think. When I first met them. They seemed rather prone to excessive chatter and terminal indecision, I was afraid it would be like being back on my travels with {{Lyell}} and her friends. So much time sitting around debating, so little time doing.",
+      "contextBefore": [
+        "[u0006 | 00:00:20.590-00:00:32.780 | DM] As the ship begins to drift into the sky, heading south for the elven kingdom of Orenlas. An old dwarf sits in his cabin writing at a small desk in cramped dwarven runes",
+        "[u0007 | 00:00:32.980-00:00:45.779 | DM] for {{Barkhom. 5, 5, 8, one}}, he writes. my first adventure in more than a decade succeeded beyond my wildest imagination. That Seeker fellow sure knows how to pick his friends."
+      ],
+      "contextAfter": [
+        "[u0009 | 00:01:01.110-00:01:13.279 | DM] although I guess it was in one of those rambling discourses that she told me about the idea of echoes. In the first place. once we got moving, I couldn't help but wonder at the powerful oddities they carried, and their skill at using them.",
+        "[u0010 | 00:01:13.650-00:01:27.530 | DM] A folding boat, I've seen, sure, but a mirror that reveals the history of things. That was a sight. and old Seeker's friends proved quite adept at battle. I think I would have been drowned by water elementals if they had not leapt to my defense."
+      ],
+      "after": "Lyrial",
+      "group": "lyrial",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0012:m1",
+      "uid": "u0012",
+      "ordinal": 1,
+      "lineNumber": 12,
+      "start": 154,
+      "end": 165,
+      "before": "{{Bleario}}",
+      "span": "Bleario",
+      "line": "[u0012 | 00:01:37.040-00:01:44.890 | DM] To be able to think and just go, where you wish, truly something else. Somehow the fey step trick I learned from {{Bleario}}",
+      "contextBefore": [
+        "[u0010 | 00:01:13.650-00:01:27.530 | DM] A folding boat, I've seen, sure, but a mirror that reveals the history of things. That was a sight. and old Seeker's friends proved quite adept at battle. I think I would have been drowned by water elementals if they had not leapt to my defense.",
+        "[u0011 | 00:01:29.180-00:01:36.860 | DM] Oh, and flight. To fly again! It was nothing like the flying carpet we borrowed back in the day."
+      ],
+      "contextAfter": [
+        "[u0013 | 00:01:44.910-00:01:47.659 | DM] feels cheap in comparison. Now.",
+        "[u0014 | 00:01:48.480-00:01:54.090 | DM] of course, my goal was to make my dear Pebble, Peep, fly, and I can't believe how successful I was"
+      ],
+      "after": "Lyrial",
+      "group": "lyrial-fey-step",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0136:m1",
+      "uid": "u0136",
+      "ordinal": 1,
+      "lineNumber": 136,
+      "start": 266,
+      "end": 280,
+      "before": "{{bellwether}}",
+      "span": "bellwether",
+      "line": "[u0136 | 00:13:44.460-00:14:02.549 | Kenzo] No. But but I think I think just to structure it better. Right? Like on the ship, we develop like a little, you know, a communication methodology. or how we, you know, cause like right now, we do the thing where it's like {{bellwether}} will will us will scry, or whatever. And then, {{sitting there will then sit}} like",
+      "contextBefore": [
+        "[u0134 | 00:13:20.590-00:13:36.310 | Kenzo] corresponding research library on the ship where we're always just like sending out little messages. And I think this is I think this is yes, like absolutely. I'm sure you could convince a librarian to come join you right.",
+        "[u0135 | 00:13:36.520-00:13:44.359 | Seeker] This this is essential. It's built our wide web, you know. Multiverse, wide web, I guess. Technically."
+      ],
+      "contextAfter": [
+        "[u0137 | 00:14:02.800-00:14:14.169 | Kenzo] we just gotta figure out a slightly more like, yeah, like less manual, more automated, like, way to like, get information around. But we've got like between.",
+        "[u0138 | 00:14:14.350-00:14:20.780 | Kenzo] But is it because who are the other guys that we have in Tokra right? There's like that librarian guy that's helping us in the"
+      ],
+      "after": "Delwath",
+      "group": "delwath-scrying",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0253:m1",
+      "uid": "u0253",
+      "ordinal": 1,
+      "lineNumber": 253,
+      "start": 83,
+      "end": 93,
+      "before": "{{Taraga}}",
+      "span": "Taraga",
+      "line": "[u0253 | 00:25:18.760-00:25:22.609 | Delwath] the magic item that was used to bind {{Taraga}}. So okay?",
+      "contextBefore": [
+        "[u0251 | 00:25:07.180-00:25:13.499 | Seeker] Hmm, yeah, that you might want to be—sorry, we're in possession of these stones.",
+        "[u0252 | 00:25:13.960-00:25:18.360 | Seeker] These are the binding stones. Yeah, these are {{the chrome}}. Yeah, I mean"
+      ],
+      "contextAfter": [
+        "[u0254 | 00:25:24.410-00:25:30.529 | Delwath] Oh, no, we didn't. Fausto wait. Did Fausto have the? He didn't have these right now. I can't remember. You took them from Fausto.",
+        "[u0255 | 00:25:30.710-00:25:32.270 | Unknown] I'm feeling quite"
+      ],
+      "after": "Hralgar",
+      "group": "hralgar-bound-giant",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0485:m1",
+      "uid": "u0485",
+      "ordinal": 1,
+      "lineNumber": 485,
+      "start": 61,
+      "end": 74,
+      "before": "{{Frederick}}",
+      "span": "Frederick",
+      "line": "[u0485 | 00:46:44.870-00:46:51.020 | Seeker] I'll say, Okay, {{Frederick}}, let's try this thing out.",
+      "contextBefore": [
+        "[u0483 | 00:46:38.600-00:46:39.610 | Seeker] and",
+        "[u0484 | 00:46:42.190-00:46:43.750 | Seeker] and then"
+      ],
+      "contextAfter": [
+        "[u0486 | 00:46:52.280-00:46:54.570 | Seeker] Quite anxious to see",
+        "[u0487 | 00:46:54.680-00:47:07.929 | Seeker] it literally gonna look like a rainbow. I'm so curious, puts his hand on the fine hollow sphere made of wires, inside of which the shimmering"
+      ],
+      "after": "Faldrak",
+      "group": "faldrak-prism",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0659:m1",
+      "uid": "u0659",
+      "ordinal": 1,
+      "lineNumber": 659,
+      "start": 89,
+      "end": 99,
+      "before": "{{punchy}}",
+      "span": "punchy",
+      "line": "[u0659 | 01:05:35.010-01:05:44.520 | DM] he looks like he's collected many more of these {{punchy}} symbols that",
+      "contextBefore": [
+        "[u0657 | 01:05:23.650-01:05:30.019 | DM] standing floating, not really standing on a cloud",
+        "[u0658 | 01:05:31.590-01:05:34.130 | DM] talking to a djinn"
+      ],
+      "contextAfter": [
+        "[u0660 | 01:05:44.800-01:05:49.720 | DM] decorate his sword and his mail, and",
+        "[u0661 | 01:05:51.650-01:06:06.150 | DM] as he glances back through the portal at Seeker. He then looks in the other direction, and you can see Vindristjarna flying in the plane of air"
+      ],
+      "after": "tanshi",
+      "group": "tanshi-vision",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0702:m1",
+      "uid": "u0702",
+      "ordinal": 1,
+      "lineNumber": 702,
+      "start": 49,
+      "end": 62,
+      "before": "{{high keep}}",
+      "span": "high keep",
+      "line": "[u0702 | 01:09:26.750-01:09:32.340 | Delwath] of {{high keep}} {{high keep}}. Is that right? Seeker of {{High? Keep}} the",
+      "contextBefore": [
+        "[u0700 | 01:09:18.100-01:09:23.420 | Delwath] where all the halfling traveler, you know, Kenzo the Dunmari.",
+        "[u0701 | 01:09:24.120-01:09:26.670 | Delwath] and so on. Right Seeker"
+      ],
+      "contextAfter": [
+        "[u0703 | 01:09:32.470-01:09:37.090 | Delwath] my dwarven companion. Yeah, I'll I'll sort of introduce everybody with a",
+        "[u0704 | 01:09:37.390-01:09:41.099 | Delwath] and say, sort of translate for the party"
+      ],
+      "after": "Highkeep",
+      "group": "highkeep",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0702:m2",
+      "uid": "u0702",
+      "ordinal": 2,
+      "lineNumber": 702,
+      "start": 63,
+      "end": 76,
+      "before": "{{high keep}}",
+      "span": "high keep",
+      "line": "[u0702 | 01:09:26.750-01:09:32.340 | Delwath] of {{high keep}} {{high keep}}. Is that right? Seeker of {{High? Keep}} the",
+      "contextBefore": [
+        "[u0700 | 01:09:18.100-01:09:23.420 | Delwath] where all the halfling traveler, you know, Kenzo the Dunmari.",
+        "[u0701 | 01:09:24.120-01:09:26.670 | Delwath] and so on. Right Seeker"
+      ],
+      "contextAfter": [
+        "[u0703 | 01:09:32.470-01:09:37.090 | Delwath] my dwarven companion. Yeah, I'll I'll sort of introduce everybody with a",
+        "[u0704 | 01:09:37.390-01:09:41.099 | Delwath] and say, sort of translate for the party"
+      ],
+      "after": "Highkeep",
+      "group": "highkeep",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0702:m3",
+      "uid": "u0702",
+      "ordinal": 3,
+      "lineNumber": 702,
+      "start": 103,
+      "end": 117,
+      "before": "{{High? Keep}}",
+      "span": "High? Keep",
+      "line": "[u0702 | 01:09:26.750-01:09:32.340 | Delwath] of {{high keep}} {{high keep}}. Is that right? Seeker of {{High? Keep}} the",
+      "contextBefore": [
+        "[u0700 | 01:09:18.100-01:09:23.420 | Delwath] where all the halfling traveler, you know, Kenzo the Dunmari.",
+        "[u0701 | 01:09:24.120-01:09:26.670 | Delwath] and so on. Right Seeker"
+      ],
+      "contextAfter": [
+        "[u0703 | 01:09:32.470-01:09:37.090 | Delwath] my dwarven companion. Yeah, I'll I'll sort of introduce everybody with a",
+        "[u0704 | 01:09:37.390-01:09:41.099 | Delwath] and say, sort of translate for the party"
+      ],
+      "after": "Highkeep",
+      "group": "highkeep",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0752:m1",
+      "uid": "u0752",
+      "ordinal": 1,
+      "lineNumber": 752,
+      "start": 330,
+      "end": 338,
+      "before": "{{Taji}}",
+      "span": "Taji",
+      "line": "[u0752 | 01:15:54.110-01:16:13.179 | Delwath] Delwath almost seems the opposite, like a little bit uncomfortable. with the forest energy not uncomfortable exactly, but just very. He seems very hesitant, like not sure like looking at the tree. You kind of notice him fingering the ear like his necklace, for example, as one of the {{Taji}} symbols. Right like",
+      "contextBefore": [
+        "[u0750 | 01:15:20.070-01:15:45.070 | Kenzo] like putting putting his consciousness out into this larger network of woods, and is in particular with, like the big huge ass tree. In part also just thinking, this is like a little metagame, but it's like we gotta bring some fucking cool like elven wood stuff back on our ship, you know. I mean, there's gonna be like a big ass like cool tree in the middle of our ship, right? So it's like, you know. So anyway. So so Kenzo's just spending like, is obsessive.",
+        "[u0751 | 01:15:45.070-01:15:52.969 | Kenzo] like like trying to communicate and talk and vibe with the whole forest energy. Here"
+      ],
+      "contextAfter": [
+        "[u0753 | 01:16:13.650-01:16:18.030 | Delwath] kind of. He looks very introspective, like he's muttering like",
+        "[u0754 | 01:16:18.350-01:16:23.390 | Delwath] sort of he. He occasionally mutters something in elvish to himself."
+      ],
+      "after": "tanshi",
+      "group": "tanshi-necklace",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1190:m1",
+      "uid": "u1190",
+      "ordinal": 1,
+      "lineNumber": 1190,
+      "start": 114,
+      "end": 123,
+      "before": "{{Nella}}",
+      "span": "Nella",
+      "line": "[u1190 | 02:06:19.400-02:06:33.559 | DM] I was traveling, and could not bring myself to come home during my first {{Nella}} then blew like the wind across the lands of",
+      "contextBefore": [
+        "[u1188 | 02:06:09.330-02:06:10.380 | DM] I",
+        "[u1189 | 02:06:12.360-02:06:18.910 | DM] it was never after the war cause I was out of out of sync."
+      ],
+      "contextAfter": [
+        "[u1191 | 02:06:34.820-02:06:36.230 | DM] {{Tamara}}.",
+        "[u1192 | 02:06:37.930-02:06:39.189 | DM] and then."
+      ],
+      "after": "mela",
+      "group": "mela",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1191:m1",
+      "uid": "u1191",
+      "ordinal": 1,
+      "lineNumber": 1191,
+      "start": 41,
+      "end": 51,
+      "before": "{{Tamara}}",
+      "span": "Tamara",
+      "line": "[u1191 | 02:06:34.820-02:06:36.230 | DM] {{Tamara}}.",
+      "contextBefore": [
+        "[u1189 | 02:06:12.360-02:06:18.910 | DM] it was never after the war cause I was out of out of sync.",
+        "[u1190 | 02:06:19.400-02:06:33.559 | DM] I was traveling, and could not bring myself to come home during my first {{Nella}} then blew like the wind across the lands of"
+      ],
+      "contextAfter": [
+        "[u1192 | 02:06:37.930-02:06:39.189 | DM] and then.",
+        "[u1193 | 02:06:41.100-02:06:42.280 | DM] when"
+      ],
+      "after": "Sembara",
+      "group": "sembara",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1198:m1",
+      "uid": "u1198",
+      "ordinal": 1,
+      "lineNumber": 1198,
+      "start": 157,
+      "end": 166,
+      "before": "{{cough}}",
+      "span": "cough",
+      "line": "[u1198 | 02:07:12.340-02:07:20.910 | DM] wanting the strength of Aldanor's roots, just as Elmerca's winds were scattering all the newly awakened of the 37th {{cough}}.",
+      "contextBefore": [
+        "[u1196 | 02:06:54.450-02:07:02.140 | DM] And so when this laya started, I came here backwards.",
+        "[u1197 | 02:07:03.990-02:07:09.540 | DM] tired, feeling out of touch."
+      ],
+      "contextAfter": [
+        "[u1199 | 02:07:23.370-02:07:27.460 | DM] But what brought me back",
+        "[u1200 | 02:07:28.470-02:07:35.489 | DM] at that point? I had achieved some fame among the people of Southern Sembara."
+      ],
+      "after": "ka",
+      "group": "ka",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1228:m2",
+      "uid": "u1228",
+      "ordinal": 2,
+      "lineNumber": 1228,
+      "start": 111,
+      "end": 119,
+      "before": "{{Noah}}",
+      "span": "Noah",
+      "line": "[u1228 | 02:09:43.970-02:09:53.369 | Delwath] during the 30 Sixth, {{No}}. 30, seventh, 30, sixth, 30, Seventh {{Noah}} and I did not notice it.",
+      "contextBefore": [
+        "[u1226 | 02:09:37.690-02:09:38.900 | Delwath] I was",
+        "[u1227 | 02:09:40.170-02:09:43.090 | Delwath] in a place far, far away"
+      ],
+      "contextAfter": [
+        "[u1229 | 02:09:56.750-02:10:01.850 | Delwath] I don't know what that means. Right. Don't know if I want to find out yet.",
+        "[u1230 | 02:10:06.220-02:10:06.970 | Delwath] but"
+      ],
+      "after": "mela",
+      "group": "mela-delwath",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1243:m1",
+      "uid": "u1243",
+      "ordinal": 1,
+      "lineNumber": 1243,
+      "start": 139,
+      "end": 148,
+      "before": "{{Aaron}}",
+      "span": "Aaron",
+      "line": "[u1243 | 02:11:30.570-02:11:59.149 | DM] I never met any of the heroes of the war not personally heard stories. Of course. I saw the kenku {{Aaron}} up close once a whole army of kenku fire bombers to drop flames on the in the pass.",
+      "contextBefore": [
+        "[u1241 | 02:11:17.680-02:11:22.260 | Delwath] Delwath kind of think on it, though? Did you know, as",
+        "[u1242 | 02:11:22.670-02:11:28.390 | Delwath] as an aside, or or as the next part of the conversation, did you know Rai at all?"
+      ],
+      "contextAfter": [
+        "[u1244 | 02:12:02.070-02:12:09.090 | Delwath] That's sort of not some. Well.",
+        "[u1245 | 02:12:09.430-02:12:34.110 | DM] so let's we'll continue the conversation away from that conversation, Pan, into who else wants to be talking to somebody, and I mean, this is like you don't have to if you don't want to. But I thought it would be nice to give everybody a chance. Kenzo will have just like a we don't have to role-play it out. But Kenzo is like very curious to talk to the gardener. Yeah, just to learn about"
+      ],
+      "after": "Aerin",
+      "group": "aerin",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1298:m1",
+      "uid": "u1298",
+      "ordinal": 1,
+      "lineNumber": 1298,
+      "start": 157,
+      "end": 166,
+      "before": "{{Hutsu}}",
+      "span": "Hutsu",
+      "line": "[u1298 | 02:18:19.080-02:18:35.870 | DM] curious like, you know, if you'd be willing to try it. I'll take you to her in the morning. Great. So I've got this {{Hutsu}} ki",
+      "contextBefore": [
+        "[u1296 | 02:18:08.190-02:18:13.989 | DM] She's actually quite interested by this idea.",
+        "[u1297 | 02:18:14.230-02:18:17.439 | DM] Ealwen, and"
+      ],
+      "contextAfter": [
+        "[u1299 | 02:18:35.959-02:18:45.420 | Kenzo] {{rich. You can join this full}} to grasp one departing spirit, and I sent you the I just. I sent you the the one that heals people.",
+        "[u1300 | 02:18:46.500-02:18:49.150 | Kenzo] Okay, I got it."
+      ],
+      "after": "Hutsu",
+      "group": "hutsu",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1322:m1",
+      "uid": "u1322",
+      "ordinal": 1,
+      "lineNumber": 1322,
+      "start": 99,
+      "end": 107,
+      "before": "{{cost}}",
+      "span": "cost",
+      "line": "[u1322 | 02:21:04.510-02:21:15.309 | DM] he's he's was. He's of the of this generation of the 37th {{cost}}. So he was. He's only been sort of awake.",
+      "contextBefore": [
+        "[u1320 | 02:20:48.460-02:21:00.439 | DM] You hear some elven poetry? share some halfling stories.",
+        "[u1321 | 02:21:01.510-02:21:02.230 | DM] and"
+      ],
+      "contextAfter": [
+        "[u1323 | 02:21:15.640-02:21:19.669 | DM] for the past.",
+        "[u1324 | 02:21:19.780-02:21:28.329 | DM] I don't know. 30 years like he's not. He doesn't have really that much more experience than you do, so he's"
+      ],
+      "after": "ka",
+      "group": "ka",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1374:m1",
+      "uid": "u1374",
+      "ordinal": 1,
+      "lineNumber": 1374,
+      "start": 41,
+      "end": 49,
+      "before": "{{Stmr}}",
+      "span": "Stmr",
+      "line": "[u1374 | 02:26:00.310-02:26:03.469 | DM] {{Stmr}}. City of Peace.",
+      "contextBefore": [
+        "[u1372 | 02:25:57.160-02:25:58.390 | Unknown] the",
+        "[u1373 | 02:25:58.510-02:26:00.140 | DM] the city of"
+      ],
+      "contextAfter": [
+        "[u1375 | 02:26:06.700-02:26:07.950 | DM] But",
+        "[u1376 | 02:26:10.520-02:26:13.029 | DM] my craft is not good enough yet."
+      ],
+      "after": "Estemar",
+      "group": "estemar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1467:m1",
+      "uid": "u1467",
+      "ordinal": 1,
+      "lineNumber": 1467,
+      "start": 63,
+      "end": 73,
+      "before": "{{Ordaro}}",
+      "span": "Ordaro",
+      "line": "[u1467 | 02:35:31.040-02:35:37.320 | Kenzo] starts to speak to {{Ordaro}}.",
+      "contextBefore": [
+        "[u1465 | 02:35:19.140-02:35:29.179 | Kenzo] takes his hands and kind of puts them on the other side either either side of her, her hands and sits there with his eyes closed, and then starts to",
+        "[u1466 | 02:35:29.250-02:35:30.730 | Kenzo] speak to"
+      ],
+      "contextAfter": [
+        "[u1468 | 02:35:37.610-02:35:42.159 | Kenzo] and starts to speak to the plants. And you see, Kenzo.",
+        "[u1469 | 02:35:42.390-02:35:55.379 | Kenzo] he's murmuring, and also kind of singing like you haven't really heard Kenzo sing before. This is a little weird, but he's like kind of kind of chanting and saying some things and like it's"
+      ],
+      "after": "Urtaro",
+      "group": "urtaro",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1505:m1",
+      "uid": "u1505",
+      "ordinal": 1,
+      "lineNumber": 1505,
+      "start": 69,
+      "end": 87,
+      "before": "{{S. Top estim a}}",
+      "span": "S. Top estim a",
+      "line": "[u1505 | 02:40:15.980-02:40:19.349 | DM] city of my birth was called {{S. Top estim a}}",
+      "contextBefore": [
+        "[u1503 | 02:40:10.580-02:40:12.659 | Kenzo] it's the epic. One",
+        "[u1504 | 02:40:13.040-02:40:14.200 | DM] city"
+      ],
+      "contextAfter": [
+        "[u1506 | 02:40:20.870-02:40:23.170 | Unknown] {{estimar}} city of Peace.",
+        "[u1507 | 02:40:23.700-02:40:26.720 | DM] But humans and elves and {{parano}} lived together."
+      ],
+      "after": "Estemar",
+      "group": "estemar-introduction",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1506:m1",
+      "uid": "u1506",
+      "ordinal": 1,
+      "lineNumber": 1506,
+      "start": 46,
+      "end": 57,
+      "before": "{{estimar}}",
+      "span": "estimar",
+      "line": "[u1506 | 02:40:20.870-02:40:23.170 | Unknown] {{estimar}} city of Peace.",
+      "contextBefore": [
+        "[u1504 | 02:40:13.040-02:40:14.200 | DM] city",
+        "[u1505 | 02:40:15.980-02:40:19.349 | DM] city of my birth was called {{S. Top estim a}}"
+      ],
+      "contextAfter": [
+        "[u1507 | 02:40:23.700-02:40:26.720 | DM] But humans and elves and {{parano}} lived together.",
+        "[u1508 | 02:40:30.480-02:40:40.589 | DM] I spent my first laya in the court of the Drankorian emperors advising {{Aglir}}, and then the twins, {{pillows}} and"
+      ],
+      "after": "Estemar",
+      "group": "estemar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1507:m1",
+      "uid": "u1507",
+      "ordinal": 1,
+      "lineNumber": 1507,
+      "start": 66,
+      "end": 76,
+      "before": "{{parano}}",
+      "span": "parano",
+      "line": "[u1507 | 02:40:23.700-02:40:26.720 | DM] But humans and elves and {{parano}} lived together.",
+      "contextBefore": [
+        "[u1505 | 02:40:15.980-02:40:19.349 | DM] city of my birth was called {{S. Top estim a}}",
+        "[u1506 | 02:40:20.870-02:40:23.170 | Unknown] {{estimar}} city of Peace."
+      ],
+      "contextAfter": [
+        "[u1508 | 02:40:30.480-02:40:40.589 | DM] I spent my first laya in the court of the Drankorian emperors advising {{Aglir}}, and then the twins, {{pillows}} and",
+        "[u1509 | 02:40:40.860-02:40:44.989 | DM] {{Sakios}}, who ruled together."
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1508:m1",
+      "uid": "u1508",
+      "ordinal": 1,
+      "lineNumber": 1508,
+      "start": 112,
+      "end": 121,
+      "before": "{{Aglir}}",
+      "span": "Aglir",
+      "line": "[u1508 | 02:40:30.480-02:40:40.589 | DM] I spent my first laya in the court of the Drankorian emperors advising {{Aglir}}, and then the twins, {{pillows}} and",
+      "contextBefore": [
+        "[u1506 | 02:40:20.870-02:40:23.170 | Unknown] {{estimar}} city of Peace.",
+        "[u1507 | 02:40:23.700-02:40:26.720 | DM] But humans and elves and {{parano}} lived together."
+      ],
+      "contextAfter": [
+        "[u1509 | 02:40:40.860-02:40:44.989 | DM] {{Sakios}}, who ruled together.",
+        "[u1510 | 02:40:46.400-02:40:48.039 | DM] It was a good time."
+      ],
+      "after": "Aglir",
+      "group": "aglir",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1508:m2",
+      "uid": "u1508",
+      "ordinal": 2,
+      "lineNumber": 1508,
+      "start": 143,
+      "end": 154,
+      "before": "{{pillows}}",
+      "span": "pillows",
+      "line": "[u1508 | 02:40:30.480-02:40:40.589 | DM] I spent my first laya in the court of the Drankorian emperors advising {{Aglir}}, and then the twins, {{pillows}} and",
+      "contextBefore": [
+        "[u1506 | 02:40:20.870-02:40:23.170 | Unknown] {{estimar}} city of Peace.",
+        "[u1507 | 02:40:23.700-02:40:26.720 | DM] But humans and elves and {{parano}} lived together."
+      ],
+      "contextAfter": [
+        "[u1509 | 02:40:40.860-02:40:44.989 | DM] {{Sakios}}, who ruled together.",
+        "[u1510 | 02:40:46.400-02:40:48.039 | DM] It was a good time."
+      ],
+      "after": "Pelois",
+      "group": "pelois",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1509:m1",
+      "uid": "u1509",
+      "ordinal": 1,
+      "lineNumber": 1509,
+      "start": 41,
+      "end": 51,
+      "before": "{{Sakios}}",
+      "span": "Sakios",
+      "line": "[u1509 | 02:40:40.860-02:40:44.989 | DM] {{Sakios}}, who ruled together.",
+      "contextBefore": [
+        "[u1507 | 02:40:23.700-02:40:26.720 | DM] But humans and elves and {{parano}} lived together.",
+        "[u1508 | 02:40:30.480-02:40:40.589 | DM] I spent my first laya in the court of the Drankorian emperors advising {{Aglir}}, and then the twins, {{pillows}} and"
+      ],
+      "contextAfter": [
+        "[u1510 | 02:40:46.400-02:40:48.039 | DM] It was a good time.",
+        "[u1511 | 02:40:49.500-02:40:50.989 | DM] There was peace."
+      ],
+      "after": "Cekious",
+      "group": "cekious",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1515:m1",
+      "uid": "u1515",
+      "ordinal": 1,
+      "lineNumber": 1515,
+      "start": 47,
+      "end": 56,
+      "before": "{{Elias}}",
+      "span": "Elias",
+      "line": "[u1515 | 02:41:22.360-02:41:30.940 | DM] I saw {{Elias}} and {{Sekius}}. the twin emperors, die in dragon fire, but we prevailed",
+      "contextBefore": [
+        "[u1513 | 02:41:04.000-02:41:09.259 | DM] Drankorian armies against the spreading fire, an alliance of",
+        "[u1514 | 02:41:09.590-02:41:20.090 | DM] efreet and fire elementals and giants, led by an ancient red dragon dragon that sought to claim the wealth and power of Drankor itself."
+      ],
+      "contextAfter": [
+        "[u1516 | 02:41:33.110-02:41:37.030 | DM] and Drankor was saved, and it was worth saving in those days.",
+        "[u1517 | 02:41:42.060-02:41:53.449 | DM] During my first {{meal}} I returned to Rostaurë. where my son and my daughter were born. and they followed in my footsteps, traveling to Drankor and"
+      ],
+      "after": "Pelois",
+      "group": "pelois",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1515:m2",
+      "uid": "u1515",
+      "ordinal": 2,
+      "lineNumber": 1515,
+      "start": 61,
+      "end": 71,
+      "before": "{{Sekius}}",
+      "span": "Sekius",
+      "line": "[u1515 | 02:41:22.360-02:41:30.940 | DM] I saw {{Elias}} and {{Sekius}}. the twin emperors, die in dragon fire, but we prevailed",
+      "contextBefore": [
+        "[u1513 | 02:41:04.000-02:41:09.259 | DM] Drankorian armies against the spreading fire, an alliance of",
+        "[u1514 | 02:41:09.590-02:41:20.090 | DM] efreet and fire elementals and giants, led by an ancient red dragon dragon that sought to claim the wealth and power of Drankor itself."
+      ],
+      "contextAfter": [
+        "[u1516 | 02:41:33.110-02:41:37.030 | DM] and Drankor was saved, and it was worth saving in those days.",
+        "[u1517 | 02:41:42.060-02:41:53.449 | DM] During my first {{meal}} I returned to Rostaurë. where my son and my daughter were born. and they followed in my footsteps, traveling to Drankor and"
+      ],
+      "after": "Cekious",
+      "group": "cekious",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1517:m1",
+      "uid": "u1517",
+      "ordinal": 1,
+      "lineNumber": 1517,
+      "start": 57,
+      "end": 65,
+      "before": "{{meal}}",
+      "span": "meal",
+      "line": "[u1517 | 02:41:42.060-02:41:53.449 | DM] During my first {{meal}} I returned to Rostaurë. where my son and my daughter were born. and they followed in my footsteps, traveling to Drankor and",
+      "contextBefore": [
+        "[u1515 | 02:41:22.360-02:41:30.940 | DM] I saw {{Elias}} and {{Sekius}}. the twin emperors, die in dragon fire, but we prevailed",
+        "[u1516 | 02:41:33.110-02:41:37.030 | DM] and Drankor was saved, and it was worth saving in those days."
+      ],
+      "contextAfter": [
+        "[u1518 | 02:41:53.510-02:41:55.920 | DM] serving in the court of {{Emerdow}}.",
+        "[u1519 | 02:41:59.160-02:42:02.560 | DM] It was then that things started to go wrong."
+      ],
+      "after": "mela",
+      "group": "mela",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1518:m1",
+      "uid": "u1518",
+      "ordinal": 1,
+      "lineNumber": 1518,
+      "start": 65,
+      "end": 76,
+      "before": "{{Emerdow}}",
+      "span": "Emerdow",
+      "line": "[u1518 | 02:41:53.510-02:41:55.920 | DM] serving in the court of {{Emerdow}}.",
+      "contextBefore": [
+        "[u1516 | 02:41:33.110-02:41:37.030 | DM] and Drankor was saved, and it was worth saving in those days.",
+        "[u1517 | 02:41:42.060-02:41:53.449 | DM] During my first {{meal}} I returned to Rostaurë. where my son and my daughter were born. and they followed in my footsteps, traveling to Drankor and"
+      ],
+      "contextAfter": [
+        "[u1519 | 02:41:59.160-02:42:02.560 | DM] It was then that things started to go wrong.",
+        "[u1520 | 02:42:05.790-02:42:11.990 | DM] The Emperor {{Halaya}}. She was assassinated by the Omnis Pura, and started starting a Civil war."
+      ],
+      "after": "Imrodel",
+      "group": "imrodel",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1520:m1",
+      "uid": "u1520",
+      "ordinal": 1,
+      "lineNumber": 1520,
+      "start": 53,
+      "end": 63,
+      "before": "{{Halaya}}",
+      "span": "Halaya",
+      "line": "[u1520 | 02:42:05.790-02:42:11.990 | DM] The Emperor {{Halaya}}. She was assassinated by the Omnis Pura, and started starting a Civil war.",
+      "contextBefore": [
+        "[u1518 | 02:41:53.510-02:41:55.920 | DM] serving in the court of {{Emerdow}}.",
+        "[u1519 | 02:41:59.160-02:42:02.560 | DM] It was then that things started to go wrong."
+      ],
+      "contextAfter": [
+        "[u1521 | 02:42:13.510-02:42:24.549 | DM] My son was killed in the fighting in Drankor my daughter fled with a small group hiding out in the hills to the west of the city.",
+        "[u1522 | 02:42:26.690-02:42:34.330 | DM] keeping a guerrilla resistance alive in {{Helia's}} name. but later she was killed as well"
+      ],
+      "after": "Helea",
+      "group": "helea",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1522:m1",
+      "uid": "u1522",
+      "ordinal": 1,
+      "lineNumber": 1522,
+      "start": 81,
+      "end": 92,
+      "before": "{{Helia's}}",
+      "span": "Helia's",
+      "line": "[u1522 | 02:42:26.690-02:42:34.330 | DM] keeping a guerrilla resistance alive in {{Helia's}} name. but later she was killed as well",
+      "contextBefore": [
+        "[u1520 | 02:42:05.790-02:42:11.990 | DM] The Emperor {{Halaya}}. She was assassinated by the Omnis Pura, and started starting a Civil war.",
+        "[u1521 | 02:42:13.510-02:42:24.549 | DM] My son was killed in the fighting in Drankor my daughter fled with a small group hiding out in the hills to the west of the city."
+      ],
+      "contextAfter": [
+        "[u1523 | 02:42:35.970-02:42:39.969 | DM] protected as many as I could in the Rostaurë",
+        "[u1524 | 02:42:40.320-02:42:41.430 | Unknown] you."
+      ],
+      "after": "Helea's",
+      "group": "helea",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1525:m1",
+      "uid": "u1525",
+      "ordinal": 1,
+      "lineNumber": 1525,
+      "start": 56,
+      "end": 67,
+      "before": "{{paranar}}",
+      "span": "paranar",
+      "line": "[u1525 | 02:42:41.700-02:42:47.509 | DM] especially the {{paranar}}, the elves who had lived with humans since the days of Hkar, and",
+      "contextBefore": [
+        "[u1523 | 02:42:35.970-02:42:39.969 | DM] protected as many as I could in the Rostaurë",
+        "[u1524 | 02:42:40.320-02:42:41.430 | Unknown] you."
+      ],
+      "contextAfter": [
+        "[u1526 | 02:42:47.760-02:42:53.649 | DM] were seen as particularly insidious and vile by the Omnis Pura.",
+        "[u1527 | 02:42:56.430-02:43:00.199 | Kenzo] The humans can be racist, too."
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1529:m1",
+      "uid": "u1529",
+      "ordinal": 1,
+      "lineNumber": 1529,
+      "start": 57,
+      "end": 67,
+      "before": "{{Mellah}}",
+      "span": "Mellah",
+      "line": "[u1529 | 02:43:11.040-02:43:13.690 | DM] During the 33rd {{Mellah}}.",
+      "contextBefore": [
+        "[u1527 | 02:42:56.430-02:43:00.199 | Kenzo] The humans can be racist, too.",
+        "[u1528 | 02:43:03.800-02:43:07.419 | DM] that is, when things started to go from bad to worse."
+      ],
+      "contextAfter": [
+        "[u1530 | 02:43:16.160-02:43:21.800 | DM] when the next generation. were singing and dreaming in the great trees of",
+        "[u1531 | 02:43:23.760-02:43:25.110 | DM] Rostaurë."
+      ],
+      "after": "mela",
+      "group": "mela",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1535:m1",
+      "uid": "u1535",
+      "ordinal": 1,
+      "lineNumber": 1535,
+      "start": 93,
+      "end": 119,
+      "before": "{{The Friday sleep costs}}",
+      "span": "The Friday sleep costs",
+      "line": "[u1535 | 02:43:43.700-02:43:49.919 | DM] working with other groups of rebels and dissidents. {{The Friday sleep costs}}.",
+      "contextBefore": [
+        "[u1533 | 02:43:32.250-02:43:36.160 | DM] claiming land to the East as much land as they could eat up.",
+        "[u1534 | 02:43:37.180-02:43:41.849 | DM] We defended Rostaurë as best we could through deception and trickery."
+      ],
+      "contextAfter": [
+        "[u1536 | 02:43:51.000-02:43:52.610 | Delwath] but hey! We know them.",
+        "[u1537 | 02:43:56.800-02:43:57.950 | DM] but"
+      ],
+      "after": "The Fides Lucaris",
+      "group": "fides-lucaris",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1548:m1",
+      "uid": "u1548",
+      "ordinal": 1,
+      "lineNumber": 1548,
+      "start": 100,
+      "end": 111,
+      "before": "{{Estimar}}",
+      "span": "Estimar",
+      "line": "[u1548 | 02:45:00.130-02:45:07.139 | DM] The tricks that protected us ceased to matter. The city of {{Estimar}} was sacked.",
+      "contextBefore": [
+        "[u1546 | 02:44:50.870-02:44:55.440 | DM] Rostaurë like a hot knife.",
+        "[u1547 | 02:44:56.110-02:44:59.909 | DM] Everywhere he strode, the power of Aldanor was quelled."
+      ],
+      "contextAfter": [
+        "[u1549 | 02:45:07.420-02:45:13.529 | DM] Rostaurë burned. the elder trees cut, sleeping children inside",
+        "[u1550 | 02:45:13.770-02:45:16.660 | Unknown] you."
+      ],
+      "after": "Estemar",
+      "group": "estemar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1558:m1",
+      "uid": "u1558",
+      "ordinal": 1,
+      "lineNumber": 1558,
+      "start": 45,
+      "end": 55,
+      "before": "{{Mellah}}",
+      "span": "Mellah",
+      "line": "[u1558 | 02:45:57.950-02:46:01.720 | DM] The {{Mellah}} did not. The {{lad}} did not come early. The children were not",
+      "contextBefore": [
+        "[u1556 | 02:45:45.920-02:45:46.790 | DM] This",
+        "[u1557 | 02:45:51.770-02:45:56.560 | DM] this disaster was worse, because it was totally unforeseen by Elmerca."
+      ],
+      "contextAfter": [
+        "[u1559 | 02:46:02.770-02:46:10.329 | DM] awakened. I think. because Elmerca's foresight was blinded by the cloak as well.",
+        "[u1560 | 02:46:11.650-02:46:15.929 | DM] and none of the gods are able to perceive Apollyon's actions or do anything."
+      ],
+      "after": "mela",
+      "group": "mela",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1558:m2",
+      "uid": "u1558",
+      "ordinal": 2,
+      "lineNumber": 1558,
+      "start": 69,
+      "end": 76,
+      "before": "{{lad}}",
+      "span": "lad",
+      "line": "[u1558 | 02:45:57.950-02:46:01.720 | DM] The {{Mellah}} did not. The {{lad}} did not come early. The children were not",
+      "contextBefore": [
+        "[u1556 | 02:45:45.920-02:45:46.790 | DM] This",
+        "[u1557 | 02:45:51.770-02:45:56.560 | DM] this disaster was worse, because it was totally unforeseen by Elmerca."
+      ],
+      "contextAfter": [
+        "[u1559 | 02:46:02.770-02:46:10.329 | DM] awakened. I think. because Elmerca's foresight was blinded by the cloak as well.",
+        "[u1560 | 02:46:11.650-02:46:15.929 | DM] and none of the gods are able to perceive Apollyon's actions or do anything."
+      ],
+      "after": "leya",
+      "group": "leya",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1576:m1",
+      "uid": "u1576",
+      "ordinal": 1,
+      "lineNumber": 1576,
+      "start": 107,
+      "end": 118,
+      "before": "{{paranar}}",
+      "span": "paranar",
+      "line": "[u1576 | 02:47:25.350-02:47:33.479 | DM] with a handful of warriors of mine who had survived except in the {{paranar}}, who were all slaughtered to Drankor",
+      "contextBefore": [
+        "[u1574 | 02:47:17.270-02:47:18.520 | Kenzo] unfair.",
+        "[u1575 | 02:47:22.550-02:47:24.639 | DM] I was defeated and taken"
+      ],
+      "contextAfter": [
+        "[u1577 | 02:47:35.150-02:47:42.820 | DM] I don't know why he kept us alive. We watched as he turned the city into his personal domain.",
+        "[u1578 | 02:47:44.480-02:47:50.539 | DM] Using a sceptre of great power to create adoring, loyal legions."
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1580:m1",
+      "uid": "u1580",
+      "ordinal": 1,
+      "lineNumber": 1580,
+      "start": 54,
+      "end": 66,
+      "before": "{{paranoia}}",
+      "span": "paranoia",
+      "line": "[u1580 | 02:47:54.440-02:47:56.730 | DM] round up the {{paranoia}}.",
+      "contextBefore": [
+        "[u1578 | 02:47:44.480-02:47:50.539 | DM] Using a sceptre of great power to create adoring, loyal legions.",
+        "[u1579 | 02:47:53.130-02:47:54.120 | DM] he would"
+      ],
+      "contextAfter": [
+        "[u1581 | 02:47:58.090-02:48:06.949 | DM] create bigger and bigger spectacles. He would summon thousands, tens of thousands of his followers to giant rallies.",
+        "[u1582 | 02:48:08.360-02:48:13.029 | DM] where he would declare himself a god."
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1586:m1",
+      "uid": "u1586",
+      "ordinal": 1,
+      "lineNumber": 1586,
+      "start": 52,
+      "end": 64,
+      "before": "{{paranoia}}",
+      "span": "paranoia",
+      "line": "[u1586 | 02:49:20.470-02:49:24.080 | DM] That's the {{paranoia}} that Apollyon was killing.",
+      "contextBefore": [
+        "[u1584 | 02:48:24.100-02:48:46.909 | DM] but I might have to wait till Schwartz comes back. Yeah. Wait Tim, when when she's talking about like the sacking of the city, she talking about this city like where we are right now? No, no, this is so. This was. She's talking about your all. Wait! What's the crucial.",
+        "[u1585 | 02:49:11.790-02:49:19.419 | Kenzo] He, like his species, was completely extinct. He was like the last of his kind. Yes, yeah, he was a good."
+      ],
+      "contextAfter": [
+        "[u1587 | 02:49:24.480-02:49:37.430 | Kenzo] Oh, fuck, wait! So remember {{talesian}} like Rai's, Rai's Father was like some kind of powerful dude was was Wait. Was {{Telesia}} remember the the traveler.",
+        "[u1588 | 02:49:37.680-02:49:44.180 | Kenzo] the traveler, and {{tales, and}} were different people. They were different. Who the fuck was, the traveler again. The traveler was traveler was a dragon."
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1614:m1",
+      "uid": "u1614",
+      "ordinal": 1,
+      "lineNumber": 1614,
+      "start": 41,
+      "end": 50,
+      "before": "{{Hello}}",
+      "span": "Hello",
+      "line": "[u1614 | 02:52:33.380-02:52:41.699 | DM] {{Hello}}! And and they installed their own. They won the Civil War",
+      "contextBefore": [
+        "[u1612 | 02:52:20.160-02:52:24.480 | DM] the last 100 years of like the. And then.",
+        "[u1613 | 02:52:26.460-02:52:33.059 | DM] So there was like this golden age. And then there was a civil war. The Omnis Pura assassinated the Emperor."
+      ],
+      "contextAfter": [
+        "[u1615 | 02:52:41.810-02:53:02.929 | Kenzo] and Omnis Pura were, yeah, but they were they humans, or elves, yeah, yes, yes, they're they're Fausto. And the yeah, right? Right? Right. Isn't Fausto human?",
+        "[u1616 | 02:53:03.070-02:53:04.000 | Kenzo] Yes."
+      ],
+      "after": "Helea",
+      "group": "helea-discussion",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1632:m1",
+      "uid": "u1632",
+      "ordinal": 1,
+      "lineNumber": 1632,
+      "start": 45,
+      "end": 57,
+      "before": "{{paranoia}}",
+      "span": "paranoia",
+      "line": "[u1632 | 02:54:55.970-02:54:59.390 | DM] the {{paranoia}}, the {{paranoia}} are like the sort of",
+      "contextBefore": [
+        "[u1630 | 02:54:42.230-02:54:53.660 | Delwath] and they'll get murdered all start getting killed. They get exterminated. That's why Rai was the last of them. Genocide. Essentially. Yeah.",
+        "[u1631 | 02:54:54.530-02:54:55.939 | DM] Well, now, the"
+      ],
+      "contextAfter": [
+        "[u1633 | 02:54:59.990-02:55:08.120 | DM] it's never entirely clear, metaphysically what they are. But they're basically elves who move to Hkar and became sort of human-ish.",
+        "[u1634 | 02:55:09.540-02:55:15.890 | DM] I think I think back in the day they were basically half-elves right? Like."
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1632:m2",
+      "uid": "u1632",
+      "ordinal": 2,
+      "lineNumber": 1632,
+      "start": 63,
+      "end": 75,
+      "before": "{{paranoia}}",
+      "span": "paranoia",
+      "line": "[u1632 | 02:54:55.970-02:54:59.390 | DM] the {{paranoia}}, the {{paranoia}} are like the sort of",
+      "contextBefore": [
+        "[u1630 | 02:54:42.230-02:54:53.660 | Delwath] and they'll get murdered all start getting killed. They get exterminated. That's why Rai was the last of them. Genocide. Essentially. Yeah.",
+        "[u1631 | 02:54:54.530-02:54:55.939 | DM] Well, now, the"
+      ],
+      "contextAfter": [
+        "[u1633 | 02:54:59.990-02:55:08.120 | DM] it's never entirely clear, metaphysically what they are. But they're basically elves who move to Hkar and became sort of human-ish.",
+        "[u1634 | 02:55:09.540-02:55:15.890 | DM] I think I think back in the day they were basically half-elves right? Like."
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1711:m1",
+      "uid": "u1711",
+      "ordinal": 1,
+      "lineNumber": 1711,
+      "start": 63,
+      "end": 79,
+      "before": "{{called there}}",
+      "span": "called there",
+      "line": "[u1711 | 03:03:32.550-03:03:38.210 | DM] I gave information to {{called there}} and {{Telesian}}",
+      "contextBefore": [
+        "[u1709 | 03:03:25.370-03:03:27.909 | DM] that have been placed on Apollyon",
+        "[u1710 | 03:03:29.560-03:03:30.640 | DM] must hold."
+      ],
+      "contextAfter": [
+        "[u1712 | 03:03:41.340-03:03:44.979 | DM] whispered secrets to Rai.",
+        "[u1713 | 03:03:46.430-03:03:49.750 | DM] and know that after shuts Cha'mutte's demean defeat."
+      ],
+      "after": "Haldir",
+      "group": "haldir",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1715:m1",
+      "uid": "u1715",
+      "ordinal": 1,
+      "lineNumber": 1715,
+      "start": 83,
+      "end": 97,
+      "before": "{{Imr Dell's}}",
+      "span": "Imr Dell's",
+      "line": "[u1715 | 03:03:58.410-03:04:08.329 | DM] know that Rai was among the last alive of {{Imr Dell's}} line. {{Imradel}}, the last {{parent or}} Emperor of Drankor",
+      "contextBefore": [
+        "[u1713 | 03:03:46.430-03:03:49.750 | DM] and know that after shuts Cha'mutte's demean defeat.",
+        "[u1714 | 03:03:50.800-03:03:54.319 | DM] the traveller warned Rai of Apollyon."
+      ],
+      "contextAfter": [
+        "[u1716 | 03:04:09.190-03:04:12.750 | DM] I think he took his responsibility to protect the world from",
+        "[u1717 | 03:04:12.840-03:04:15.060 | DM] Apollyon seriously."
+      ],
+      "after": "Imrodel's",
+      "group": "imrodel",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1715:m2",
+      "uid": "u1715",
+      "ordinal": 2,
+      "lineNumber": 1715,
+      "start": 104,
+      "end": 115,
+      "before": "{{Imradel}}",
+      "span": "Imradel",
+      "line": "[u1715 | 03:03:58.410-03:04:08.329 | DM] know that Rai was among the last alive of {{Imr Dell's}} line. {{Imradel}}, the last {{parent or}} Emperor of Drankor",
+      "contextBefore": [
+        "[u1713 | 03:03:46.430-03:03:49.750 | DM] and know that after shuts Cha'mutte's demean defeat.",
+        "[u1714 | 03:03:50.800-03:03:54.319 | DM] the traveller warned Rai of Apollyon."
+      ],
+      "contextAfter": [
+        "[u1716 | 03:04:09.190-03:04:12.750 | DM] I think he took his responsibility to protect the world from",
+        "[u1717 | 03:04:12.840-03:04:15.060 | DM] Apollyon seriously."
+      ],
+      "after": "Imrodel",
+      "group": "imrodel",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1715:m3",
+      "uid": "u1715",
+      "ordinal": 3,
+      "lineNumber": 1715,
+      "start": 126,
+      "end": 139,
+      "before": "{{parent or}}",
+      "span": "parent or",
+      "line": "[u1715 | 03:03:58.410-03:04:08.329 | DM] know that Rai was among the last alive of {{Imr Dell's}} line. {{Imradel}}, the last {{parent or}} Emperor of Drankor",
+      "contextBefore": [
+        "[u1713 | 03:03:46.430-03:03:49.750 | DM] and know that after shuts Cha'mutte's demean defeat.",
+        "[u1714 | 03:03:50.800-03:03:54.319 | DM] the traveller warned Rai of Apollyon."
+      ],
+      "contextAfter": [
+        "[u1716 | 03:04:09.190-03:04:12.750 | DM] I think he took his responsibility to protect the world from",
+        "[u1717 | 03:04:12.840-03:04:15.060 | DM] Apollyon seriously."
+      ],
+      "after": "peronar",
+      "group": "peronar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1721:m1",
+      "uid": "u1721",
+      "ordinal": 1,
+      "lineNumber": 1721,
+      "start": 75,
+      "end": 82,
+      "before": "{{car}}",
+      "span": "car",
+      "line": "[u1721 | 03:04:33.960-03:04:37.519 | DM] and I think I can survive another {{car}}.",
+      "contextBefore": [
+        "[u1719 | 03:04:25.720-03:04:27.500 | DM] The bindings broke",
+        "[u1720 | 03:04:28.740-03:04:29.660 | DM] somehow."
+      ],
+      "contextAfter": [
+        "[u1722 | 03:04:40.240-03:04:44.069 | DM] But I hope that Apollyon will be dead before I must depart.",
+        "[u1723 | 03:04:49.650-03:04:55.990 | DM] No, that is not simple. To kill him because destroying his body will not crush his soul."
+      ],
+      "after": "ka",
+      "group": "ka",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u1508": {
+      "before": "[u1508 | 02:40:30.480-02:40:40.589 | DM] I spent my first laya in the court of the Drankorian emperors advising {{Aglir}}, and then the twins, {{pillows}} and\n",
+      "after": "[u1508 | 02:40:30.480-02:40:40.589 | DM] I spent my first laya in the court of the Drankorian emperors advising Aglir, and then the twins, Pelois and\n"
+    },
+    "u0136": {
+      "before": "[u0136 | 00:13:44.460-00:14:02.549 | Kenzo] No. But but I think I think just to structure it better. Right? Like on the ship, we develop like a little, you know, a communication methodology. or how we, you know, cause like right now, we do the thing where it's like {{bellwether}} will will us will scry, or whatever. And then, {{sitting there will then sit}} like\n",
+      "after": "[u0136 | 00:13:44.460-00:14:02.549 | Kenzo] No. But but I think I think just to structure it better. Right? Like on the ship, we develop like a little, you know, a communication methodology. or how we, you know, cause like right now, we do the thing where it's like Delwath will will us will scry, or whatever. And then, {{sitting there will then sit}} like\n"
+    },
+    "u1467": {
+      "before": "[u1467 | 02:35:31.040-02:35:37.320 | Kenzo] starts to speak to {{Ordaro}}.\n",
+      "after": "[u1467 | 02:35:31.040-02:35:37.320 | Kenzo] starts to speak to Urtaro.\n"
+    },
+    "u1715": {
+      "before": "[u1715 | 03:03:58.410-03:04:08.329 | DM] know that Rai was among the last alive of {{Imr Dell's}} line. {{Imradel}}, the last {{parent or}} Emperor of Drankor\n",
+      "after": "[u1715 | 03:03:58.410-03:04:08.329 | DM] know that Rai was among the last alive of Imrodel's line. Imrodel, the last peronar Emperor of Drankor\n"
+    },
+    "u1298": {
+      "before": "[u1298 | 02:18:19.080-02:18:35.870 | DM] curious like, you know, if you'd be willing to try it. I'll take you to her in the morning. Great. So I've got this {{Hutsu}} ki\n",
+      "after": "[u1298 | 02:18:19.080-02:18:35.870 | DM] curious like, you know, if you'd be willing to try it. I'll take you to her in the morning. Great. So I've got this Hutsu ki\n"
+    },
+    "u1632": {
+      "before": "[u1632 | 02:54:55.970-02:54:59.390 | DM] the {{paranoia}}, the {{paranoia}} are like the sort of\n",
+      "after": "[u1632 | 02:54:55.970-02:54:59.390 | DM] the peronar, the peronar are like the sort of\n"
+    },
+    "u1191": {
+      "before": "[u1191 | 02:06:34.820-02:06:36.230 | DM] {{Tamara}}.\n",
+      "after": "[u1191 | 02:06:34.820-02:06:36.230 | DM] Sembara.\n"
+    },
+    "u1529": {
+      "before": "[u1529 | 02:43:11.040-02:43:13.690 | DM] During the 33rd {{Mellah}}.\n",
+      "after": "[u1529 | 02:43:11.040-02:43:13.690 | DM] During the 33rd mela.\n"
+    },
+    "u1322": {
+      "before": "[u1322 | 02:21:04.510-02:21:15.309 | DM] he's he's was. He's of the of this generation of the 37th {{cost}}. So he was. He's only been sort of awake.\n",
+      "after": "[u1322 | 02:21:04.510-02:21:15.309 | DM] he's he's was. He's of the of this generation of the 37th ka. So he was. He's only been sort of awake.\n"
+    },
+    "u1374": {
+      "before": "[u1374 | 02:26:00.310-02:26:03.469 | DM] {{Stmr}}. City of Peace.\n",
+      "after": "[u1374 | 02:26:00.310-02:26:03.469 | DM] Estemar. City of Peace.\n"
+    },
+    "u0659": {
+      "before": "[u0659 | 01:05:35.010-01:05:44.520 | DM] he looks like he's collected many more of these {{punchy}} symbols that\n",
+      "after": "[u0659 | 01:05:35.010-01:05:44.520 | DM] he looks like he's collected many more of these tanshi symbols that\n"
+    },
+    "u1506": {
+      "before": "[u1506 | 02:40:20.870-02:40:23.170 | Unknown] {{estimar}} city of Peace.\n",
+      "after": "[u1506 | 02:40:20.870-02:40:23.170 | Unknown] Estemar city of Peace.\n"
+    },
+    "u0253": {
+      "before": "[u0253 | 00:25:18.760-00:25:22.609 | Delwath] the magic item that was used to bind {{Taraga}}. So okay?\n",
+      "after": "[u0253 | 00:25:18.760-00:25:22.609 | Delwath] the magic item that was used to bind Hralgar. So okay?\n"
+    },
+    "u1198": {
+      "before": "[u1198 | 02:07:12.340-02:07:20.910 | DM] wanting the strength of Aldanor's roots, just as Elmerca's winds were scattering all the newly awakened of the 37th {{cough}}.\n",
+      "after": "[u1198 | 02:07:12.340-02:07:20.910 | DM] wanting the strength of Aldanor's roots, just as Elmerca's winds were scattering all the newly awakened of the 37th ka.\n"
+    },
+    "u0702": {
+      "before": "[u0702 | 01:09:26.750-01:09:32.340 | Delwath] of {{high keep}} {{high keep}}. Is that right? Seeker of {{High? Keep}} the\n",
+      "after": "[u0702 | 01:09:26.750-01:09:32.340 | Delwath] of Highkeep Highkeep. Is that right? Seeker of Highkeep the\n"
+    },
+    "u1721": {
+      "before": "[u1721 | 03:04:33.960-03:04:37.519 | DM] and I think I can survive another {{car}}.\n",
+      "after": "[u1721 | 03:04:33.960-03:04:37.519 | DM] and I think I can survive another ka.\n"
+    },
+    "u0485": {
+      "before": "[u0485 | 00:46:44.870-00:46:51.020 | Seeker] I'll say, Okay, {{Frederick}}, let's try this thing out.\n",
+      "after": "[u0485 | 00:46:44.870-00:46:51.020 | Seeker] I'll say, Okay, Faldrak, let's try this thing out.\n"
+    },
+    "u1507": {
+      "before": "[u1507 | 02:40:23.700-02:40:26.720 | DM] But humans and elves and {{parano}} lived together.\n",
+      "after": "[u1507 | 02:40:23.700-02:40:26.720 | DM] But humans and elves and peronar lived together.\n"
+    },
+    "u1518": {
+      "before": "[u1518 | 02:41:53.510-02:41:55.920 | DM] serving in the court of {{Emerdow}}.\n",
+      "after": "[u1518 | 02:41:53.510-02:41:55.920 | DM] serving in the court of Imrodel.\n"
+    },
+    "u1711": {
+      "before": "[u1711 | 03:03:32.550-03:03:38.210 | DM] I gave information to {{called there}} and {{Telesian}}\n",
+      "after": "[u1711 | 03:03:32.550-03:03:38.210 | DM] I gave information to Haldir and {{Telesian}}\n"
+    },
+    "u0012": {
+      "before": "[u0012 | 00:01:37.040-00:01:44.890 | DM] To be able to think and just go, where you wish, truly something else. Somehow the fey step trick I learned from {{Bleario}}\n",
+      "after": "[u0012 | 00:01:37.040-00:01:44.890 | DM] To be able to think and just go, where you wish, truly something else. Somehow the fey step trick I learned from Lyrial\n"
+    },
+    "u1558": {
+      "before": "[u1558 | 02:45:57.950-02:46:01.720 | DM] The {{Mellah}} did not. The {{lad}} did not come early. The children were not\n",
+      "after": "[u1558 | 02:45:57.950-02:46:01.720 | DM] The mela did not. The leya did not come early. The children were not\n"
+    },
+    "u1515": {
+      "before": "[u1515 | 02:41:22.360-02:41:30.940 | DM] I saw {{Elias}} and {{Sekius}}. the twin emperors, die in dragon fire, but we prevailed\n",
+      "after": "[u1515 | 02:41:22.360-02:41:30.940 | DM] I saw Pelois and Cekious. the twin emperors, die in dragon fire, but we prevailed\n"
+    },
+    "u0752": {
+      "before": "[u0752 | 01:15:54.110-01:16:13.179 | Delwath] Delwath almost seems the opposite, like a little bit uncomfortable. with the forest energy not uncomfortable exactly, but just very. He seems very hesitant, like not sure like looking at the tree. You kind of notice him fingering the ear like his necklace, for example, as one of the {{Taji}} symbols. Right like\n",
+      "after": "[u0752 | 01:15:54.110-01:16:13.179 | Delwath] Delwath almost seems the opposite, like a little bit uncomfortable. with the forest energy not uncomfortable exactly, but just very. He seems very hesitant, like not sure like looking at the tree. You kind of notice him fingering the ear like his necklace, for example, as one of the tanshi symbols. Right like\n"
+    },
+    "u1525": {
+      "before": "[u1525 | 02:42:41.700-02:42:47.509 | DM] especially the {{paranar}}, the elves who had lived with humans since the days of Hkar, and\n",
+      "after": "[u1525 | 02:42:41.700-02:42:47.509 | DM] especially the peronar, the elves who had lived with humans since the days of Hkar, and\n"
+    },
+    "u1517": {
+      "before": "[u1517 | 02:41:42.060-02:41:53.449 | DM] During my first {{meal}} I returned to Rostaurë. where my son and my daughter were born. and they followed in my footsteps, traveling to Drankor and\n",
+      "after": "[u1517 | 02:41:42.060-02:41:53.449 | DM] During my first mela I returned to Rostaurë. where my son and my daughter were born. and they followed in my footsteps, traveling to Drankor and\n"
+    },
+    "u1614": {
+      "before": "[u1614 | 02:52:33.380-02:52:41.699 | DM] {{Hello}}! And and they installed their own. They won the Civil War\n",
+      "after": "[u1614 | 02:52:33.380-02:52:41.699 | DM] Helea! And and they installed their own. They won the Civil War\n"
+    },
+    "u1576": {
+      "before": "[u1576 | 02:47:25.350-02:47:33.479 | DM] with a handful of warriors of mine who had survived except in the {{paranar}}, who were all slaughtered to Drankor\n",
+      "after": "[u1576 | 02:47:25.350-02:47:33.479 | DM] with a handful of warriors of mine who had survived except in the peronar, who were all slaughtered to Drankor\n"
+    },
+    "u1509": {
+      "before": "[u1509 | 02:40:40.860-02:40:44.989 | DM] {{Sakios}}, who ruled together.\n",
+      "after": "[u1509 | 02:40:40.860-02:40:44.989 | DM] Cekious, who ruled together.\n"
+    },
+    "u1190": {
+      "before": "[u1190 | 02:06:19.400-02:06:33.559 | DM] I was traveling, and could not bring myself to come home during my first {{Nella}} then blew like the wind across the lands of\n",
+      "after": "[u1190 | 02:06:19.400-02:06:33.559 | DM] I was traveling, and could not bring myself to come home during my first mela then blew like the wind across the lands of\n"
+    },
+    "u1520": {
+      "before": "[u1520 | 02:42:05.790-02:42:11.990 | DM] The Emperor {{Halaya}}. She was assassinated by the Omnis Pura, and started starting a Civil war.\n",
+      "after": "[u1520 | 02:42:05.790-02:42:11.990 | DM] The Emperor Helea. She was assassinated by the Omnis Pura, and started starting a Civil war.\n"
+    },
+    "u1505": {
+      "before": "[u1505 | 02:40:15.980-02:40:19.349 | DM] city of my birth was called {{S. Top estim a}}\n",
+      "after": "[u1505 | 02:40:15.980-02:40:19.349 | DM] city of my birth was called Estemar\n"
+    },
+    "u0008": {
+      "before": "[u0008 | 00:00:46.720-00:01:01.089 | DM] I was not sure what to think. When I first met them. They seemed rather prone to excessive chatter and terminal indecision, I was afraid it would be like being back on my travels with {{Lyell}} and her friends. So much time sitting around debating, so little time doing.\n",
+      "after": "[u0008 | 00:00:46.720-00:01:01.089 | DM] I was not sure what to think. When I first met them. They seemed rather prone to excessive chatter and terminal indecision, I was afraid it would be like being back on my travels with Lyrial and her friends. So much time sitting around debating, so little time doing.\n"
+    },
+    "u1548": {
+      "before": "[u1548 | 02:45:00.130-02:45:07.139 | DM] The tricks that protected us ceased to matter. The city of {{Estimar}} was sacked.\n",
+      "after": "[u1548 | 02:45:00.130-02:45:07.139 | DM] The tricks that protected us ceased to matter. The city of Estemar was sacked.\n"
+    },
+    "u1580": {
+      "before": "[u1580 | 02:47:54.440-02:47:56.730 | DM] round up the {{paranoia}}.\n",
+      "after": "[u1580 | 02:47:54.440-02:47:56.730 | DM] round up the peronar.\n"
+    },
+    "u1535": {
+      "before": "[u1535 | 02:43:43.700-02:43:49.919 | DM] working with other groups of rebels and dissidents. {{The Friday sleep costs}}.\n",
+      "after": "[u1535 | 02:43:43.700-02:43:49.919 | DM] working with other groups of rebels and dissidents. The Fides Lucaris.\n"
+    },
+    "u1228": {
+      "before": "[u1228 | 02:09:43.970-02:09:53.369 | Delwath] during the 30 Sixth, {{No}}. 30, seventh, 30, sixth, 30, Seventh {{Noah}} and I did not notice it.\n",
+      "after": "[u1228 | 02:09:43.970-02:09:53.369 | Delwath] during the 30 Sixth, {{No}}. 30, seventh, 30, sixth, 30, Seventh mela and I did not notice it.\n"
+    },
+    "u1522": {
+      "before": "[u1522 | 02:42:26.690-02:42:34.330 | DM] keeping a guerrilla resistance alive in {{Helia's}} name. but later she was killed as well\n",
+      "after": "[u1522 | 02:42:26.690-02:42:34.330 | DM] keeping a guerrilla resistance alive in Helea's name. but later she was killed as well\n"
+    },
+    "u1586": {
+      "before": "[u1586 | 02:49:20.470-02:49:24.080 | DM] That's the {{paranoia}} that Apollyon was killing.\n",
+      "after": "[u1586 | 02:49:20.470-02:49:24.080 | DM] That's the peronar that Apollyon was killing.\n"
+    },
+    "u1243": {
+      "before": "[u1243 | 02:11:30.570-02:11:59.149 | DM] I never met any of the heroes of the war not personally heard stories. Of course. I saw the kenku {{Aaron}} up close once a whole army of kenku fire bombers to drop flames on the in the pass.\n",
+      "after": "[u1243 | 02:11:30.570-02:11:59.149 | DM] I never met any of the heroes of the war not personally heard stories. Of course. I saw the kenku Aerin up close once a whole army of kenku fire bombers to drop flames on the in the pass.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:30:04.471288+00:00",
+      "sha256": "8455f5a88c86bf3c9be43bb3b4d03b403654641368fe437b5668df2c3ae9d37a"
+    }
+  ],
+  "runId": "20261028T043004460230Z-48690c30",
+  "createdAt": "2026-10-28T04:30:04.460534+00:00"
+}
