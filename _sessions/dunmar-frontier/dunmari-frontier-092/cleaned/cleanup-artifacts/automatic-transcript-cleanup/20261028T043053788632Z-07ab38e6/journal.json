@@ -1,0 +1,357 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-092",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-source-cleaned.md",
+  "beforeSha256": "83c441274d6b1dee3b624010f583a1ae28ba8178450133d559362479c8f4a3fa",
+  "afterSha256": "7be18c49882a30287d1c0a0ac94a0cacdc27f9e9c8b677a7bf31d015dd295915",
+  "markersBefore": 20,
+  "groups": [
+    {
+      "id": "island-name",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The two adjacent route-planning remarks appear to name the same island, but inspected filenames, names, aliases, geography and campaign sources provide no unique spelling.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u1272:m1",
+        "u1273:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1272:m1": "{{Erawa}}",
+        "u1273:m1": "{{Airla}}"
+      }
+    },
+    {
+      "id": "northern-mountain-name",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The range north of the Ket is identifiable, but inspected geography and session sources do not establish this spoken name or a preferred spelling.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Faraway Places/Far North.md",
+          "sha256": "343f3a753ca70ad685aca014eb3aca1f0aa166c306e2c37e2ac9faffec43cb19"
+        },
+        {
+          "path": "Worldbuilding/Tentative/~Far North White Dragon Mountains~.md",
+          "sha256": "bf23831fe113005ef4c026cd60a7dfac4f79282bfbf4deed9547e3221c85015d"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0695:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0695:m1": "{{Yokoscar}}"
+      }
+    },
+    {
+      "id": "ordinary-wording-and-numbers",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary dialogue, an extended damaged presentation phrase, and combat numbers or damage wording are outside the name and setting-term pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0100:m1",
+        "u0332:m1",
+        "u0429:m1",
+        "u0829:m1",
+        "u1717:m1",
+        "u1826:m1",
+        "u1899:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0100:m1": "{{Not now}}",
+        "u0332:m1": "{{most dragons appreciate acts}}",
+        "u0429:m1": "{{Barry, and obviously to this is fetched with our guide, with my guy}}",
+        "u0829:m1": "{{I want to appear curious}}",
+        "u1717:m1": "{{23}}",
+        "u1826:m1": "{{ball}}",
+        "u1899:m1": "{{24}}"
+      }
+    },
+    {
+      "id": "scholar-origin-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The remembered scholar is discussed immediately afterward, but this marked phrase mixes a possible place reference with damaged ordinary wording. No complete name-only replacement is established.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u1109:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1109:m1": "{{Toe intel crap}}"
+      }
+    },
+    {
+      "id": "shadow-armband",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The recollection of Zegron locating the object and the trapped hobgoblin army identifies the armband; the session record and item note establish the term.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 55 (DuFr).md",
+          "sha256": "75f9a09b5d47f6fa25d8680ec28080ea0a23630199fb8396722acfbac601f871"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Cha'mutte’s Shadow Armband.md",
+          "sha256": "0edb695e26076d70494322453cf02468b5f1ee1b89ab3dfdfb36e7107c04e61b"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0491:m1"
+      ],
+      "replacements": {
+        "u0491:m1": "armband"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "skaer-arrows",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Wellby is using the purchased Skaer arrows. The initial span includes the established honed property, and the following attacks refer to the same ammunition.",
+      "evidence": [
+        {
+          "path": "Things/Materials/Skaer Steel.md",
+          "sha256": "a4eb552a1480f233d3467abde1df06d8a0a3ce8436ff074d52a140813049cee4"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Hoards/Gifts and Purchases.md",
+          "sha256": "f128149b7f271b7e94d9607c59d538777c41799f3e65fc1cda7317964307a430"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1472:m1",
+        "u1706:m1",
+        "u1877:m1"
+      ],
+      "replacements": {
+        "u1472:m1": "honed Skaer",
+        "u1706:m1": "Skaer",
+        "u1877:m1": "Skaer"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "stone-giant-question",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The brief interjection after the dwarf question may be a name or ordinary wording; the reply does not identify a unique referent or complete replacement.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0121:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0121:m1": "{{Lister Cod}}"
+      }
+    },
+    {
+      "id": "wellby-mixed-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The marker includes a probable Wellby reference inside an unclear clause. Correcting only the name would require editing part of a marker; replacing the complete span would reconstruct ordinary wording.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-092/cleaned/dunmari-frontier-092-session.yaml",
+          "sha256": "c058d91167a0c6079b26d842cc4cae2f6d9fb23330d47bb0146283592810051e"
+        }
+      ],
+      "candidates": [
+        "Wellby"
+      ],
+      "markerIds": [
+        "u1901:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1901:m1": "{{As Wellbe is}}"
+      }
+    },
+    {
+      "id": "white-dragon-name",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Both spans refer to a white dragon in Brimskarda's story. The inspected reference and session notes do not establish its name or resolve the spelling.",
+      "evidence": [
+        {
+          "path": "People/Giants/Brimskarda.md",
+          "sha256": "b2d70180a5c919d91041c7c27d15fdf2c7b34434e9898ccb42c68662e7ead512"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 92 (DuFr).md",
+          "sha256": "e3e6beecfd8d359ccce04fce8a88d79cd32d91102ec5217f2ea2f98c7cc3340f"
+        }
+      ],
+      "candidates": [
+        "Eskanyar"
+      ],
+      "markerIds": [
+        "u0754:m1",
+        "u0758:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0754:m1": "{{Eskanyar}}",
+        "u0758:m1": "{{Eskanyar}}"
+      }
+    },
+    {
+      "id": "zegron-recollection",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The context identifies Zegron, but this second span could be a repeated name or an ordinary pronoun. The source establishes the encounter but cannot settle what was said.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Zegron.md",
+          "sha256": "14af9148847f4dc3099c1bcd037e9d12dab1906b7bd071ff906691a53da5889f"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 55 (DuFr).md",
+          "sha256": "75f9a09b5d47f6fa25d8680ec28080ea0a23630199fb8396722acfbac601f871"
+        }
+      ],
+      "candidates": [
+        "Zegron"
+      ],
+      "markerIds": [
+        "u0483:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0483:m1": "{{zoom}}"
+      }
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0491:m1",
+      "uid": "u0491",
+      "ordinal": 1,
+      "lineNumber": 491,
+      "start": 63,
+      "end": 73,
+      "before": "{{armbed}}",
+      "span": "armbed",
+      "line": "[u0491 | 00:46:39.320-00:46:49.030 | DM] he told you where the {{armbed}} was that right find? And you went and you killed some hobgoblins he was pissed at. But then you had this whole crazy plan to like",
+      "contextBefore": [
+        "[u0489 | 00:46:32.210-00:46:33.810 | Delwath] I should go back.",
+        "[u0490 | 00:46:34.000-00:46:36.430 | DM] I don't remember if you I don't think you"
+      ],
+      "contextAfter": [
+        "[u0492 | 00:46:49.090-00:46:52.899 | DM] drop the entire army and all of those banishing stuff. And",
+        "[u0493 | 00:46:53.240-00:46:54.120 | Delwath] alrighty."
+      ],
+      "after": "armband",
+      "group": "shadow-armband",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1472:m1",
+      "uid": "u1472",
+      "ordinal": 1,
+      "lineNumber": 1472,
+      "start": 89,
+      "end": 104,
+      "before": "{{honed scare}}",
+      "span": "honed scare",
+      "line": "[u1472 | 02:16:54.610-02:17:05.520 | Wellby] right. I am going to take steady aim. Use a {{honed scare}} arrow. So I'm gonna add one to this roll and use all 4 charges of the fire and just hit it with everything I have.",
+      "contextBefore": [
+        "[u1470 | 02:16:44.510-02:16:47.520 | DM] in surprise.",
+        "[u1471 | 02:16:48.200-02:16:53.949 | DM] Kind of look back at each other and Wellby gets the jump"
+      ],
+      "contextAfter": [
+        "[u1473 | 02:17:05.549-02:17:13.999 | DM] Okay, you're 70 feet away. So you're still outside of your oh, no, it's 80 feet. Is your long range. Okay, perfect.",
+        "[u1474 | 02:17:15.680-02:17:16.750 | DM] Go for it."
+      ],
+      "after": "honed Skaer",
+      "group": "skaer-arrows",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1706:m1",
+      "uid": "u1706",
+      "ordinal": 1,
+      "lineNumber": 1706,
+      "start": 80,
+      "end": 89,
+      "before": "{{scare}}",
+      "span": "scare",
+      "line": "[u1706 | 02:36:29.190-02:36:35.870 | Wellby] as 20, actually, because I'm using {{scare}} 20 hits. Yep. So",
+      "contextBefore": [
+        "[u1704 | 02:36:20.890-02:36:24.719 | Delwath] where are you standing? Are you taking Steady Aim flying?",
+        "[u1705 | 02:36:24.840-02:36:26.450 | Wellby] Yeah. Okay."
+      ],
+      "contextAfter": [
+        "[u1707 | 02:36:36.330-02:36:40.960 | Delwath] Did Kenzo say whether it was immune to being blinded?",
+        "[u1708 | 02:36:42.280-02:36:51.149 | DM] 30. It is not immune to the blinded condition. It does spend a lot of time burrowing underground"
+      ],
+      "after": "Skaer",
+      "group": "skaer-arrows",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1877:m1",
+      "uid": "u1877",
+      "ordinal": 1,
+      "lineNumber": 1877,
+      "start": 96,
+      "end": 105,
+      "before": "{{scary}}",
+      "span": "scary",
+      "line": "[u1877 | 02:50:52.520-02:50:57.359 | Wellby] Yeah, maybe. I'll take steady aim with the another {{scary}} arrow, and",
+      "contextBefore": [
+        "[u1875 | 02:50:38.450-02:50:39.789 | Kenzo] How many hit points do you have left?",
+        "[u1876 | 02:50:40.020-02:50:50.159 | Riswynn] 30? So if it doesn't roll as well in its acidness or something. Maybe I'll only take 29 next time Wellby's up, maybe. Wellby'll kill it."
+      ],
+      "contextAfter": [
+        "[u1878 | 02:50:59.190-02:51:02.689 | Wellby] and 21 that hits 21 hits. Yep.",
+        "[u1879 | 02:51:05.590-02:51:10.570 | Wellby] that's 40. That's pretty good, but not quite enough to kill it."
+      ],
+      "after": "Skaer",
+      "group": "skaer-arrows",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u1472": {
+      "before": "[u1472 | 02:16:54.610-02:17:05.520 | Wellby] right. I am going to take steady aim. Use a {{honed scare}} arrow. So I'm gonna add one to this roll and use all 4 charges of the fire and just hit it with everything I have.\n",
+      "after": "[u1472 | 02:16:54.610-02:17:05.520 | Wellby] right. I am going to take steady aim. Use a honed Skaer arrow. So I'm gonna add one to this roll and use all 4 charges of the fire and just hit it with everything I have.\n"
+    },
+    "u1877": {
+      "before": "[u1877 | 02:50:52.520-02:50:57.359 | Wellby] Yeah, maybe. I'll take steady aim with the another {{scary}} arrow, and\n",
+      "after": "[u1877 | 02:50:52.520-02:50:57.359 | Wellby] Yeah, maybe. I'll take steady aim with the another Skaer arrow, and\n"
+    },
+    "u1706": {
+      "before": "[u1706 | 02:36:29.190-02:36:35.870 | Wellby] as 20, actually, because I'm using {{scare}} 20 hits. Yep. So\n",
+      "after": "[u1706 | 02:36:29.190-02:36:35.870 | Wellby] as 20, actually, because I'm using Skaer 20 hits. Yep. So\n"
+    },
+    "u0491": {
+      "before": "[u0491 | 00:46:39.320-00:46:49.030 | DM] he told you where the {{armbed}} was that right find? And you went and you killed some hobgoblins he was pissed at. But then you had this whole crazy plan to like\n",
+      "after": "[u0491 | 00:46:39.320-00:46:49.030 | DM] he told you where the armband was that right find? And you went and you killed some hobgoblins he was pissed at. But then you had this whole crazy plan to like\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:30:53.800776+00:00",
+      "sha256": "7be18c49882a30287d1c0a0ac94a0cacdc27f9e9c8b677a7bf31d015dd295915"
+    }
+  ],
+  "runId": "20261028T043053788632Z-07ab38e6",
+  "createdAt": "2026-10-28T04:30:53.788949+00:00"
+}

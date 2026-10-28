@@ -1,0 +1,50 @@
+--- before/u0002
++++ after/u0002
+@@ -1 +1 @@
+-[u0002 | 00:00:18.359-00:00:35.520 | DM] You can almost feel the hand of Aasimti holding this place hidden in light and shadow. The path seems to splinter and shift, as if seen through blinking, broken glass, and you sense the work of {{Barry Chico}}, the spirit of glass, in your vision.
++[u0002 | 00:00:18.359-00:00:35.520 | DM] You can almost feel the hand of Aasimti holding this place hidden in light and shadow. The path seems to splinter and shift, as if seen through blinking, broken glass, and you sense the work of Birich'iko, the spirit of glass, in your vision.
+--- before/u0003
++++ after/u0003
+@@ -1 +1 @@
+-[u0003 | 00:00:36.630-00:00:47.790 | DM] You feel rain on your face, the water soaking into the ground, and for a moment you sense the presence of {{show you}} as you almost feel the squashing of mud on your bare feet, through your armored boots.
++[u0003 | 00:00:36.630-00:00:47.790 | DM] You feel rain on your face, the water soaking into the ground, and for a moment you sense the presence of Ch'ik'a as you almost feel the squashing of mud on your bare feet, through your armored boots.
+--- before/u0006
++++ after/u0006
+@@ -1 +1 @@
+-[u0006 | 00:01:16.920-00:01:29.160 | DM] As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: find your way to the Feywild, to the portal near {{you do miss}} Tower; we will meet again there.
++[u0006 | 00:01:16.920-00:01:29.160 | DM] As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: find your way to the Feywild, to the portal near Eudomes' Tower; we will meet again there.
+--- before/u0082
++++ after/u0082
+@@ -1 +1 @@
+-[u0082 | 00:08:01.650-00:08:08.610 | Delwath] After many twisted pathways I found my way to the {{tenant taka}}, right, was a guest of the Te'kula.
++[u0082 | 00:08:01.650-00:08:08.610 | Delwath] After many twisted pathways I found my way to the Tinitaka, right, was a guest of the Te'kula.
+--- before/u0163
++++ after/u0163
+@@ -1 +1 @@
+-[u0163 | 00:15:35.280-00:15:37.920 | DM] Delay {{shots}} troops long enough.
++[u0163 | 00:15:35.280-00:15:37.920 | DM] Delay Cha'mutte's troops long enough.
+--- before/u0196
++++ after/u0196
+@@ -1 +1 @@
+-[u0196 | 00:18:38.490-00:18:40.380 | Delwath] {{Voltaire}}, as far as to the south.
++[u0196 | 00:18:38.490-00:18:40.380 | Delwath] Voltara, as far as to the south.
+--- before/u0201
++++ after/u0201
+@@ -1 +1 @@
+-[u0201 | 00:18:57.780-00:19:08.490 | DM] I mean if they're trading with anybody it's with the stoneborn, the like weird northern dwarves who live this far to the north, and then the {{Kangaroo}}, because right on the other side of the mountains from here is the vast open.
++[u0201 | 00:18:57.780-00:19:08.490 | DM] I mean if they're trading with anybody it's with the stoneborn, the like weird northern dwarves who live this far to the north, and then the kenku, because right on the other side of the mountains from here is the vast open.
+--- before/u0223
++++ after/u0223
+@@ -1 +1 @@
+-[u0223 | 00:21:29.700-00:21:34.320 | Delwath] That's actually bad, I really wanted to get down to {{crush}} before he defeated those two.
++[u0223 | 00:21:29.700-00:21:34.320 | Delwath] That's actually bad, I really wanted to get down to Grash before he defeated those two.
+--- before/u0321
++++ after/u0321
+@@ -1 +1 @@
+-[u0321 | 00:30:17.880-00:30:19.110 | DM] The battle of the {{year mode}}.
++[u0321 | 00:30:17.880-00:30:19.110 | DM] The battle of the Yemo'te.
+--- before/u0465
++++ after/u0465
+@@ -1 +1 @@
+-[u0465 | 00:41:56.910-00:42:12.630 | DM] Leaning on a staff, like brings you this set of like shield and armor that he says, you know, if you're going into battle on behalf of {{them a lot T}}, going down to the Forest of Nightmares, you should you should take this.
++[u0465 | 00:41:56.910-00:42:12.630 | DM] Leaning on a staff, like brings you this set of like shield and armor that he says, you know, if you're going into battle on behalf of the Meswati, going down to the Forest of Nightmares, you should you should take this.

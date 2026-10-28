@@ -1,0 +1,630 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-054",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-054/cleaned/dunmari-frontier-054-source-cleaned.md",
+  "beforeSha256": "2e8a17bce71fc1498ff950b00ff170c481a302bd284aa318123d561ba1a370d3",
+  "afterSha256": "7ab036cf8a2ca1aa4435813180a7438b50c3ea2244ff2544ad4afaa326cb5b87",
+  "markersBefore": 151,
+  "groups": [
+    {
+      "id": "aristaea-returns",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The next line explicitly says Aristaea returns from her vision, and her player immediately resumes acting; the marked cue addresses that same character.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 54 (DuFr).md",
+          "sha256": "256f59476d4b2708fe3cbce487a00c73d1c1f18bd8ebc9b745708cacaa2eee83"
+        },
+        {
+          "path": "People/PCs/Dunmar Fellowship/Guests/Aristaea.md",
+          "sha256": "b6309892de0d0e959a99a70067809d76687fc4c7c2e4f3405e264249c618b27e"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0527:m1"
+      ],
+      "replacements": {
+        "u0527:m1": "Aristaea"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "banishment-or-dispel-fragment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The speaker compares magical options after learning the sword has one charge. Banishment or Dispel Magic could be intended, but the damaged span does not uniquely establish either name or its complete boundary.",
+      "evidence": [],
+      "candidates": [
+        "Banishment",
+        "Dispel Magic"
+      ],
+      "markerIds": [
+        "u1974:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1974:m1": "{{the Spanish}}"
+      }
+    },
+    {
+      "id": "battle-without-hope-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The location is established as the Battle without Hope, but the marked span includes an additional damaged opening word. Replacing the whole span with the site name would silently reconstruct or discard that wording.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 54 (DuFr).md",
+          "sha256": "256f59476d4b2708fe3cbce487a00c73d1c1f18bd8ebc9b745708cacaa2eee83"
+        }
+      ],
+      "candidates": [
+        "Battle without Hope"
+      ],
+      "markerIds": [
+        "u1611:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1611:m1": "{{animal battle without whoa}}"
+      }
+    },
+    {
+      "id": "bond-feature-fragments",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The next line explicitly names Enhanced Bond, but the preceding fragments may be a spoken misnaming, a partial feature name, or ordinary wording. Replacing them would impose the mechanically correct term or invent missing boundaries.",
+      "evidence": [
+        {
+          "path": "People/PCs/Dunmar Fellowship/Guests/Iascaire.md",
+          "sha256": "4bcf64fd91e52fc8d763faedac4733109966f35712f290b4087ccbe55b546b43"
+        }
+      ],
+      "candidates": [
+        "Enhanced Bond",
+        "Emboldening Bond"
+      ],
+      "markerIds": [
+        "u0576:m1",
+        "u0577:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0576:m1": "{{emboldening}}",
+        "u0577:m1": "{{head}}"
+      }
+    },
+    {
+      "id": "fragmented-character-description",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "These adjacent spans occur during Aristaea's appearance description. A fragmented possessive name or ordinary description is possible, but repairing them would require guessing the boundary between the name and surrounding words.",
+      "evidence": [
+        {
+          "path": "People/PCs/Dunmar Fellowship/Guests/Aristaea.md",
+          "sha256": "b6309892de0d0e959a99a70067809d76687fc4c7c2e4f3405e264249c618b27e"
+        }
+      ],
+      "candidates": [
+        "Aristaea"
+      ],
+      "markerIds": [
+        "u0071:m1",
+        "u0072:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0071:m1": "{{Eric}}",
+        "u0072:m1": "{{says a hair}}"
+      }
+    },
+    {
+      "id": "nisir-blessing",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Iascaire has just repeated Nisir fire while selecting the two blessings. The reply repeats that selection alongside Yalik'i fire; Nisir is strongly favored over a new name.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 54 (DuFr).md",
+          "sha256": "256f59476d4b2708fe3cbce487a00c73d1c1f18bd8ebc9b745708cacaa2eee83"
+        },
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Meswati/Nisir.md",
+          "sha256": "6b3c56ea6c08e8cb7f5326c41cd9a7f3e7e01e13abefde1d6282c74da0503d0b"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1311:m1"
+      ],
+      "replacements": {
+        "u1311:m1": "Nisir"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ordinary-wording-and-rules",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary descriptive wording, chatter, numbers, tactical discussion, rules explanations, or damaged phrases without a recoverable complete name; repairing these spans would exceed the names-v1 pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0067:m1",
+        "u0086:m1",
+        "u0099:m1",
+        "u0103:m1",
+        "u0118:m1",
+        "u0120:m1",
+        "u0175:m1",
+        "u0196:m1",
+        "u0199:m1",
+        "u0217:m1",
+        "u0223:m1",
+        "u0228:m1",
+        "u0308:m1",
+        "u0336:m1",
+        "u0345:m1",
+        "u0346:m1",
+        "u0361:m1",
+        "u0363:m1",
+        "u0363:m2",
+        "u0374:m1",
+        "u0380:m1",
+        "u0392:m1",
+        "u0421:m1",
+        "u0435:m1",
+        "u0543:m1",
+        "u0567:m1",
+        "u0583:m1",
+        "u0600:m1",
+        "u0608:m1",
+        "u0631:m1",
+        "u0641:m1",
+        "u0656:m1",
+        "u0663:m1",
+        "u0663:m2",
+        "u0663:m3",
+        "u0689:m1",
+        "u0769:m1",
+        "u0773:m1",
+        "u0774:m1",
+        "u0788:m1",
+        "u0816:m1",
+        "u0841:m1",
+        "u0843:m1",
+        "u0858:m1",
+        "u0869:m1",
+        "u0876:m1",
+        "u0895:m1",
+        "u0926:m1",
+        "u0931:m1",
+        "u0933:m1",
+        "u0992:m1",
+        "u0999:m1",
+        "u1003:m1",
+        "u1019:m1",
+        "u1052:m1",
+        "u1057:m1",
+        "u1065:m1",
+        "u1086:m1",
+        "u1094:m1",
+        "u1111:m1",
+        "u1116:m1",
+        "u1177:m1",
+        "u1217:m1",
+        "u1260:m1",
+        "u1273:m1",
+        "u1279:m1",
+        "u1282:m1",
+        "u1316:m1",
+        "u1316:m2",
+        "u1325:m1",
+        "u1340:m1",
+        "u1396:m1",
+        "u1413:m1",
+        "u1428:m1",
+        "u1443:m1",
+        "u1471:m1",
+        "u1473:m1",
+        "u1475:m1",
+        "u1497:m1",
+        "u1516:m1",
+        "u1559:m1",
+        "u1564:m1",
+        "u1569:m1",
+        "u1627:m1",
+        "u1628:m1",
+        "u1750:m1",
+        "u1757:m1",
+        "u1759:m1",
+        "u1780:m1",
+        "u1796:m1",
+        "u1861:m1",
+        "u1878:m1",
+        "u1893:m1",
+        "u1893:m2",
+        "u1910:m1",
+        "u1919:m1",
+        "u1930:m1",
+        "u1934:m1",
+        "u1975:m1",
+        "u1995:m1",
+        "u2033:m1",
+        "u2058:m1",
+        "u2139:m1",
+        "u2145:m1",
+        "u2199:m1",
+        "u2257:m1",
+        "u2268:m1",
+        "u2273:m1",
+        "u2314:m1",
+        "u2317:m1",
+        "u2346:m1",
+        "u2374:m1",
+        "u2376:m1",
+        "u2435:m1",
+        "u2500:m1",
+        "u2501:m1",
+        "u2527:m1",
+        "u2571:m1",
+        "u2586:m1",
+        "u2594:m1",
+        "u2622:m1",
+        "u2664:m1",
+        "u2674:m1",
+        "u2730:m1",
+        "u2731:m1",
+        "u2731:m2",
+        "u2732:m1",
+        "u2830:m1",
+        "u2844:m1",
+        "u2846:m1",
+        "u2847:m1",
+        "u2852:m1",
+        "u2866:m1",
+        "u2902:m1",
+        "u2963:m1",
+        "u2974:m1",
+        "u2979:m1",
+        "u2984:m1",
+        "u3046:m1",
+        "u3135:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0067:m1": "{{bell caps your pride}}",
+        "u0086:m1": "{{and fabric}}",
+        "u0099:m1": "{{Why can eat way}}",
+        "u0103:m1": "{{within a few days and another village}}",
+        "u0118:m1": "{{of you, we}}",
+        "u0120:m1": "{{There was to destroy}}",
+        "u0175:m1": "{{on out}}",
+        "u0196:m1": "{{Sri}}",
+        "u0199:m1": "{{southerners to read}}",
+        "u0217:m1": "{{a goat}}",
+        "u0223:m1": "{{Years you've trapped}}",
+        "u0228:m1": "{{the mired I}}",
+        "u0308:m1": "{{to sort of come see out}}",
+        "u0336:m1": "{{we actually}}",
+        "u0345:m1": "{{for it, he would}}",
+        "u0346:m1": "{{Given piece is}}",
+        "u0361:m1": "{{Lucy}}",
+        "u0363:m1": "{{bust out}}",
+        "u0363:m2": "{{he's here with me looks}}",
+        "u0374:m1": "{{Here in Toronto}}",
+        "u0380:m1": "{{They tend that}}",
+        "u0392:m1": "{{have encountered slowly}}",
+        "u0421:m1": "{{play soccer}}",
+        "u0435:m1": "{{emerging from}}",
+        "u0543:m1": "{{shirts was not 13}}",
+        "u0567:m1": "{{side you}}",
+        "u0583:m1": "{{set}}",
+        "u0600:m1": "{{wasn't yours}}",
+        "u0608:m1": "{{the 30}}",
+        "u0631:m1": "{{have}}",
+        "u0641:m1": "{{bonnaroo}}",
+        "u0656:m1": "{{10 data should}}",
+        "u0663:m1": "{{would}}",
+        "u0663:m2": "{{by}}",
+        "u0663:m3": "{{for a non}}",
+        "u0689:m1": "{{a walk for the same}}",
+        "u0769:m1": "{{toward me to}}",
+        "u0773:m1": "{{Christian plants}}",
+        "u0774:m1": "{{a prayer}}",
+        "u0788:m1": "{{us to move closer}}",
+        "u0816:m1": "{{folks}}",
+        "u0841:m1": "{{The wizard is direction}}",
+        "u0843:m1": "{{Or the guy was to the}}",
+        "u0858:m1": "{{where my arm and arm}}",
+        "u0869:m1": "{{to her}}",
+        "u0876:m1": "{{Turkey}}",
+        "u0895:m1": "{{the same shot it}}",
+        "u0926:m1": "{{more effective}}",
+        "u0931:m1": "{{want to hack}}",
+        "u0933:m1": "{{mode}}",
+        "u0992:m1": "{{today six}}",
+        "u0999:m1": "{{Target}}",
+        "u1003:m1": "{{years from}}",
+        "u1019:m1": "{{best}}",
+        "u1052:m1": "{{a sin}}",
+        "u1057:m1": "{{if anyone}}",
+        "u1065:m1": "{{fell on}}",
+        "u1086:m1": "{{said ronnie}}",
+        "u1094:m1": "{{Because i'm a guy and}}",
+        "u1111:m1": "{{for a box}}",
+        "u1116:m1": "{{for one}}",
+        "u1177:m1": "{{persona}}",
+        "u1217:m1": "{{Debate party category}}",
+        "u1260:m1": "{{out}}",
+        "u1273:m1": "{{my day}}",
+        "u1279:m1": "{{one day}}",
+        "u1282:m1": "{{constructed}}",
+        "u1316:m1": "{{temperature}}",
+        "u1316:m2": "{{temperature}}",
+        "u1325:m1": "{{passing care, I never because}}",
+        "u1340:m1": "{{you're staying napping}}",
+        "u1396:m1": "{{a that were}}",
+        "u1413:m1": "{{words}}",
+        "u1428:m1": "{{All like that we}}",
+        "u1443:m1": "{{that}}",
+        "u1471:m1": "{{yeah for}}",
+        "u1473:m1": "{{create}}",
+        "u1475:m1": "{{let's try to}}",
+        "u1497:m1": "{{Reading around}}",
+        "u1516:m1": "{{it'd be good}}",
+        "u1559:m1": "{{windows}}",
+        "u1564:m1": "{{magic key}}",
+        "u1569:m1": "{{Michelle can spot}}",
+        "u1627:m1": "{{2028}}",
+        "u1628:m1": "{{3020}}",
+        "u1750:m1": "{{lens}}",
+        "u1757:m1": "{{progress}}",
+        "u1759:m1": "{{time}}",
+        "u1780:m1": "{{i'm awfully}}",
+        "u1796:m1": "{{the best}}",
+        "u1861:m1": "{{vmware}}",
+        "u1878:m1": "{{your dough}}",
+        "u1893:m1": "{{legit}}",
+        "u1893:m2": "{{circles}}",
+        "u1910:m1": "{{is}}",
+        "u1919:m1": "{{be fashioned}}",
+        "u1930:m1": "{{package}}",
+        "u1934:m1": "{{seems to be here}}",
+        "u1975:m1": "{{Christmas Eve}}",
+        "u1995:m1": "{{me very}}",
+        "u2033:m1": "{{view}}",
+        "u2058:m1": "{{Your arm temps}}",
+        "u2139:m1": "{{says turn}}",
+        "u2145:m1": "{{Much}}",
+        "u2199:m1": "{{Outside}}",
+        "u2257:m1": "{{A time}}",
+        "u2268:m1": "{{out}}",
+        "u2273:m1": "{{bought}}",
+        "u2314:m1": "{{No damage}}",
+        "u2317:m1": "{{I know it's my}}",
+        "u2346:m1": "{{A better person}}",
+        "u2374:m1": "{{player}}",
+        "u2376:m1": "{{bed}}",
+        "u2435:m1": "{{I roll stepping on it goes like this wind}}",
+        "u2500:m1": "{{thousand}}",
+        "u2501:m1": "{{town}}",
+        "u2527:m1": "{{Had a guy}}",
+        "u2571:m1": "{{good point}}",
+        "u2586:m1": "{{wrong}}",
+        "u2594:m1": "{{for}}",
+        "u2622:m1": "{{richie's}}",
+        "u2664:m1": "{{bladed}}",
+        "u2674:m1": "{{wouldn't really be in}}",
+        "u2730:m1": "{{the way}}",
+        "u2731:m1": "{{the way}}",
+        "u2731:m2": "{{with}}",
+        "u2732:m1": "{{the lead form}}",
+        "u2830:m1": "{{match right}}",
+        "u2844:m1": "{{cancer}}",
+        "u2846:m1": "{{making}}",
+        "u2847:m1": "{{Armor edibles}}",
+        "u2852:m1": "{{do you arrive on a risk}}",
+        "u2866:m1": "{{Road}}",
+        "u2902:m1": "{{a positive image}}",
+        "u2963:m1": "{{quite good enough trap REP}}",
+        "u2974:m1": "{{great damage}}",
+        "u2979:m1": "{{This tree damaged}}",
+        "u2984:m1": "{{not}}",
+        "u3046:m1": "{{I suck at it, the Gao}}",
+        "u3135:m1": "{{get it succeed}}"
+      }
+    },
+    {
+      "id": "protection-spell-fragment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The discussion identifies Protection from Evil and Good, but the marked fragment also occupies the grammatical transition into concentration. A name-only replacement cannot establish the complete original wording without reconstructing the clause.",
+      "evidence": [],
+      "candidates": [
+        "Protection from Evil and Good"
+      ],
+      "markerIds": [
+        "u0946:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0946:m1": "{{focus}}"
+      }
+    },
+    {
+      "id": "yemote-battle-route",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The route lists the three remaining battle sites after leaving the village; the final marked site strongly matches Battle of Yemo'te. The river reference and hunting-camp source establish Yemo'te; the session note also uses the spelling variant Ye'mote.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 54 (DuFr).md",
+          "sha256": "256f59476d4b2708fe3cbce487a00c73d1c1f18bd8ebc9b745708cacaa2eee83"
+        },
+        {
+          "path": "Gazetteer/Northern Sentinels/Yemo'te.md",
+          "sha256": "5cba9483f6f28b822f83898894e0af6a44a34f752c42f09c5baa4f60d5752488"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Dunmari Frontier OneNote/Adventures/Solo Arcs (Session 51-60)/Delwath Solo Arc/Main Quest/Hunting Camp.md",
+          "sha256": "c0a922b0275c4074dc1f7e0c966972125a5b4edfd1ab76249fbadca45ff3a7e8"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1629:m1"
+      ],
+      "replacements": {
+        "u1629:m1": "Battle of Yemo'te"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "yezali-darkfire",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The preceding dialogue names Yezali and the same battlefield; the session record identifies Yezali as the tanshi who fell at Darkfire. The marked subject is strongly favored to be this name.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 54 (DuFr).md",
+          "sha256": "256f59476d4b2708fe3cbce487a00c73d1c1f18bd8ebc9b745708cacaa2eee83"
+        },
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Meswati/Yezali.md",
+          "sha256": "bad2517aae7dfc353a46ae5b2f2a393f75fe7ee393f69f2e7e1ea46398a51d27"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0158:m1"
+      ],
+      "replacements": {
+        "u0158:m1": "Yezali"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0158:m1",
+      "uid": "u0158",
+      "ordinal": 1,
+      "lineNumber": 158,
+      "start": 47,
+      "end": 62,
+      "before": "{{For exactly}}",
+      "span": "For exactly",
+      "line": "[u0158 | 00:16:44.340-00:16:47.490 | Aristaea] {{For exactly}} was a great hero in the Dark Fire.",
+      "contextBefore": [
+        "[u0156 | 00:16:36.330-00:16:36.660 | Aristaea] Now.",
+        "[u0157 | 00:16:37.770-00:16:42.570 | Aristaea] On the battlefield where Yezali, I think that is the armband that i'm aware of."
+      ],
+      "contextAfter": [
+        "[u0159 | 00:16:51.930-00:16:53.040 | Delwath] I suspect that if.",
+        "[u0160 | 00:16:53.040-00:17:00.990 | Delwath] We go to that battlefield and destroy that circlet that they should return to this to this realm."
+      ],
+      "after": "Yezali",
+      "group": "yezali-darkfire",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0527:m1",
+      "uid": "u0527",
+      "ordinal": 1,
+      "lineNumber": 527,
+      "start": 59,
+      "end": 72,
+      "before": "{{yesterday}}",
+      "span": "yesterday",
+      "line": "[u0527 | 00:52:11.910-00:52:14.850 | DM] At this point now {{yesterday}}.",
+      "contextBefore": [
+        "[u0525 | 00:52:00.990-00:52:02.520 | DM] eight points of psychic damage.",
+        "[u0526 | 00:52:04.860-00:52:07.620 | DM] And it begins to sort of pull you into its embrace."
+      ],
+      "contextAfter": [
+        "[u0528 | 00:52:17.910-00:52:20.760 | DM] Aristaea returns from her.",
+        "[u0529 | 00:52:23.580-00:52:33.240 | DM] brief moment of seeing and it's jarring like you were seeing the battle beginning to play out in front of you, and then suddenly you're back to the ruined village."
+      ],
+      "after": "Aristaea",
+      "group": "aristaea-returns",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1311:m1",
+      "uid": "u1311",
+      "ordinal": 1,
+      "lineNumber": 1311,
+      "start": 41,
+      "end": 48,
+      "before": "{{Car}}",
+      "span": "Car",
+      "line": "[u1311 | 01:59:43.980-01:59:46.440 | DM] {{Car}} fire and Yalik'i fire.",
+      "contextBefore": [
+        "[u1309 | 01:59:36.780-01:59:37.800 | Delwath] Well that's really fancy.",
+        "[u1310 | 01:59:39.330-01:59:42.090 | Iascaire] Okay sorry Nisir, Nisir, fires, what I want."
+      ],
+      "contextAfter": [
+        "[u1312 | 01:59:47.970-01:59:48.840 | Iascaire] and",
+        "[u1313 | 01:59:52.890-01:59:53.970 | Iascaire] Yalik'i fire."
+      ],
+      "after": "Nisir",
+      "group": "nisir-blessing",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1629:m1",
+      "uid": "u1629",
+      "ordinal": 1,
+      "lineNumber": 1629,
+      "start": 129,
+      "end": 151,
+      "before": "{{matter of few more}}",
+      "span": "matter of few more",
+      "line": "[u1629 | 02:31:11.670-02:31:24.180 | Delwath] yeah it's like marginally quicker to go Battle of Dark Fire Battle of Endless Dark {{matter of few more}} than to go that way that way that way, but not by much.",
+      "contextBefore": [
+        "[u1627 | 02:31:01.800-02:31:07.110 | Unknown] {{2028}} verses.",
+        "[u1628 | 02:31:08.280-02:31:10.530 | Unknown] {{3020}}."
+      ],
+      "contextAfter": [
+        "[u1630 | 02:31:24.420-02:31:24.750 | Unknown] Okay.",
+        "[u1631 | 02:31:26.940-02:31:29.100 | Aristaea] yeah I mean unless we feel like we can meet."
+      ],
+      "after": "Battle of Yemo'te",
+      "group": "yemote-battle-route",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u0527": {
+      "before": "[u0527 | 00:52:11.910-00:52:14.850 | DM] At this point now {{yesterday}}.\n",
+      "after": "[u0527 | 00:52:11.910-00:52:14.850 | DM] At this point now Aristaea.\n"
+    },
+    "u1629": {
+      "before": "[u1629 | 02:31:11.670-02:31:24.180 | Delwath] yeah it's like marginally quicker to go Battle of Dark Fire Battle of Endless Dark {{matter of few more}} than to go that way that way that way, but not by much.\n",
+      "after": "[u1629 | 02:31:11.670-02:31:24.180 | Delwath] yeah it's like marginally quicker to go Battle of Dark Fire Battle of Endless Dark Battle of Yemo'te than to go that way that way that way, but not by much.\n"
+    },
+    "u1311": {
+      "before": "[u1311 | 01:59:43.980-01:59:46.440 | DM] {{Car}} fire and Yalik'i fire.\n",
+      "after": "[u1311 | 01:59:43.980-01:59:46.440 | DM] Nisir fire and Yalik'i fire.\n"
+    },
+    "u0158": {
+      "before": "[u0158 | 00:16:44.340-00:16:47.490 | Aristaea] {{For exactly}} was a great hero in the Dark Fire.\n",
+      "after": "[u0158 | 00:16:44.340-00:16:47.490 | Aristaea] Yezali was a great hero in the Dark Fire.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:04:09.288575+00:00",
+      "sha256": "7ab036cf8a2ca1aa4435813180a7438b50c3ea2244ff2544ad4afaa326cb5b87"
+    }
+  ],
+  "runId": "20261028T040409215024Z-fb9ef6ea",
+  "createdAt": "2026-10-28T04:04:09.215384+00:00"
+}

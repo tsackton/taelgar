@@ -1,0 +1,40 @@
+--- before/u0251
++++ after/u0251
+@@ -1 +1 @@
+-[u0251 | 00:21:14.650-00:21:19.239 | DM] star iron, {{face steel}} nocturnium.
++[u0251 | 00:21:14.650-00:21:19.239 | DM] star iron, fey steel nocturnium.
+--- before/u0331
++++ after/u0331
+@@ -1 +1 @@
+-[u0331 | 00:27:07.290-00:27:14.760 | DM] There is a small silver vial etched with the name {{sarandres}} in Draconic, and the words In gratitude.
++[u0331 | 00:27:07.290-00:27:14.760 | DM] There is a small silver vial etched with the name Serandris in Draconic, and the words In gratitude.
+--- before/u0830
++++ after/u0830
+@@ -1 +1 @@
+-[u0830 | 00:58:52.440-00:58:58.030 | DM] She's afraid for {{well-being}} and for herself.
++[u0830 | 00:58:52.440-00:58:58.030 | DM] She's afraid for Wellby and for herself.
+--- before/u1296
++++ after/u1296
+@@ -1 +1 @@
+-[u1296 | 01:29:37.370-01:29:38.030 | DM] {{Day}}.
++[u1296 | 01:29:37.370-01:29:38.030 | DM] Arheste.
+--- before/u1297
++++ after/u1297
+@@ -1 +1 @@
+-[u1297 | 01:29:38.030-01:29:39.960 | Delwath] {{Her estate}}. She
++[u1297 | 01:29:38.030-01:29:39.960 | Delwath] Arheste. She
+--- before/u1700
++++ after/u1700
+@@ -1 +1 @@
+-[u1700 | 01:53:55.960-01:54:00.349 | Wellby] We have the dagger from {{Ersk}}, but that which gives sight, I think.
++[u1700 | 01:53:55.960-01:54:00.349 | Wellby] We have the dagger from Ursk, but that which gives sight, I think.
+--- before/u1917
++++ after/u1917
+@@ -1 +1 @@
+-[u1917 | 02:06:24.960-02:06:27.470 | Delwath] It potentially eliminates {{vignette}}.
++[u1917 | 02:06:24.960-02:06:27.470 | Delwath] It potentially eliminates Vindristjarna.
+--- before/u2702
++++ after/u2702
+@@ -1 +1 @@
+-[u2702 | 02:51:20.130-02:51:25.140 | DM] light of the {{Barzelle}} keeping you from descending into
++[u2702 | 02:51:20.130-02:51:25.140 | DM] light of the Bahrâzel keeping you from descending into

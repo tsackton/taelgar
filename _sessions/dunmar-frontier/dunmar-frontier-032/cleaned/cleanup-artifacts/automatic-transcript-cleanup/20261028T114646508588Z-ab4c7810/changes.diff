@@ -1,0 +1,35 @@
+--- before/u1221
++++ after/u1221
+@@ -1 +1 @@
+-[u1221 | 01:09:08.572-01:09:11.812 | Delwath] Uh, why is Grash, like, trying to kill the {{Uzgosh}}?
++[u1221 | 01:09:08.572-01:09:11.812 | Delwath] Uh, why is Grash, like, trying to kill the Uzgash?
+--- before/u1222
++++ after/u1222
+@@ -1 +1 @@
+-[u1222 | 01:09:12.912-01:09:13.532 | Unknown] What's {{Uzgosh}}?
++[u1222 | 01:09:12.912-01:09:13.532 | Unknown] What's Uzgash?
+--- before/u1223
++++ after/u1223
+@@ -1 +1 @@
+-[u1223 | 01:09:14.092-01:09:15.992 | Delwath] {{Uzgosh}} were the peaceful farmer folks.
++[u1223 | 01:09:14.092-01:09:15.992 | Delwath] Uzgash were the peaceful farmer folks.
+--- before/u1707
++++ after/u1707
+@@ -1 +1 @@
+-[u1707 | 01:35:50.580-01:35:52.720 | DM] for Emperor A- {{Avitus}}.
++[u1707 | 01:35:50.580-01:35:52.720 | DM] for Emperor A- Avatus.
+--- before/u1710
++++ after/u1710
+@@ -1 +1 @@
+-[u1710 | 01:36:05.380-01:36:10.580 | Seeker] Is Emperor {{Avitus}} perhaps imprisoned yet within the mirror?
++[u1710 | 01:36:05.380-01:36:10.580 | Seeker] Is Emperor Avatus perhaps imprisoned yet within the mirror?
+--- before/u3939
++++ after/u3939
+@@ -1 +1 @@
+-[u3939 | 03:46:06.088-03:46:11.668 | Kenzo] I think you're, you're aware, uh, Sura, I'm a humble initiate of {{Bishtimala}} and, um...
++[u3939 | 03:46:06.088-03:46:11.668 | Kenzo] I think you're, you're aware, uh, Sura, I'm a humble initiate of Bhishma, Laka and, um...
+--- before/u3940
++++ after/u3940
+@@ -1 +1 @@
+-[u3940 | 03:46:13.248-03:46:14.208 | Unknown] {{Bishtimela}}... What's the other one?
++[u3940 | 03:46:13.248-03:46:14.208 | Unknown] Bhishma, Laka... What's the other one?

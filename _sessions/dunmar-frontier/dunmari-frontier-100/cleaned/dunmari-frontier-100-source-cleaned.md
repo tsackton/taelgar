@@ -355,7 +355,7 @@
 [u0355 | 00:24:28.080-00:24:30.009 | Delwath] where he would run and
 [u0356 | 00:24:30.380-00:24:33.260 | Delwath] talk and play and
 [u0357 | 00:24:33.830-00:24:36.840 | Delwath] explore and experience with his
-[u0358 | 00:24:37.630-00:24:42.850 | Delwath] his age, mates, {{his car}}, his generation, all the things that
+[u0358 | 00:24:37.630-00:24:42.850 | Delwath] his age, mates, his ka, his generation, all the things that
 [u0359 | 00:24:43.440-00:24:49.919 | Delwath] humans experience in dreams that elves no longer do. Once they awaken
 [u0360 | 00:24:50.130-00:24:51.580 | Delwath] from their childhood.
 [u0361 | 00:24:51.890-00:24:52.720 | Delwath] and
@@ -571,7 +571,7 @@
 [u0571 | 00:38:09.855-00:38:10.560 | DM] times.
 [u0572 | 00:38:11.260-00:38:14.380 | DM] Why do? Why did you keep going Wellby you were
 [u0573 | 00:38:15.040-00:38:16.320 | DM] held by
-[u0574 | 00:38:16.620-00:38:18.230 | DM] {{grotes Blade}}, and
+[u0574 | 00:38:16.620-00:38:18.230 | DM] Grash's blade, and
 [u0575 | 00:38:18.940-00:38:20.919 | DM] could have stayed
 [u0576 | 00:38:21.480-00:38:25.370 | DM] in the memory of your people or turned to safer journeys. Yet
 [u0577 | 00:38:25.890-00:38:27.219 | DM] you came back
@@ -582,7 +582,7 @@
 [u0582 | 00:38:40.970-00:38:42.530 | DM] their gods, and yet
 [u0583 | 00:38:44.550-00:38:45.819 | DM] you didn't stop
 [u0584 | 00:38:46.600-00:38:51.419 | DM] Riswynn. You are twice renowned among the dwarves for recovering
-[u0585 | 00:38:51.430-00:38:57.790 | DM] Chalice of the Runepriest among the Orcs for saving {{sarcast}} among the most famous of all
+[u0585 | 00:38:51.430-00:38:57.790 | DM] Chalice of the Runepriest among the Orcs for saving Xurkhaz among the most famous of all
 [u0586 | 00:38:58.290-00:39:00.670 | DM] dwarves in the current age, and yet.
 [u0587 | 00:39:00.930-00:39:05.099 | DM] and none could doubt that you had served the duty of your gods. And yet
 [u0588 | 00:39:05.470-00:39:06.330 | DM] and yet
@@ -1391,7 +1391,7 @@
 [u1391 | 01:27:28.890-01:27:29.240 | DM] He's.
 [u1392 | 01:27:29.240-01:27:30.690 | Delwath] Gazankoa, is.
 [u1393 | 01:27:30.910-01:27:32.909 | DM] Gazankoa is some like
-[u1394 | 01:27:33.020-01:27:36.924 | DM] {{Alder and L}}, some Warlock patron on the plane of water.
+[u1394 | 01:27:33.020-01:27:36.924 | DM] elder elemental, some Warlock patron on the plane of water.
 [u1395 | 01:27:38.400-01:27:39.050 | DM] who.
 [u1396 | 01:27:39.050-01:27:39.590 | Riswynn] So.
 [u1397 | 01:27:39.590-01:27:45.379 | DM] Obviously controls a faction who wants to mess with the sentient ocean. But that's like probably a pretty minor.

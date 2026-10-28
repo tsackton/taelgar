@@ -14,7 +14,7 @@
 [u0014 | 00:01:03.899-00:01:13.599 | DM] Who casts a spell, and as he drifts off to sleep, He speaks with… Sorry, Tiberius. He speaks with…
 [u0015 | 00:01:14.599-00:01:16.699 | DM] I'm just forgetting all the names here.
 [u0016 | 00:01:17.479-00:01:21.919 | DM] He speaks with Tristan Brighteyes, the Windcaller who is traveling with you.
-[u0017 | 00:01:24.049-00:01:29.919 | DM] who tells him that you are moving quickly across the {{Iran River Basin}}.
+[u0017 | 00:01:24.049-00:01:29.919 | DM] who tells him that you are moving quickly across the Yeraad River Basin.
 [u0018 | 00:01:30.269-00:01:33.889 | DM] And should be arriving in the Chataan Mountains shortly.
 [u0019 | 00:01:34.689-00:01:40.419 | DM] And from everything he's seen, He's never seen a… more…
 [u0020 | 00:01:40.879-00:01:44.359 | DM] Confident and put-together group of adventurers.
@@ -641,7 +641,7 @@
 [u0641 | 01:00:05.730-01:00:13.840 | Wellby] We're going to the Plane of Fire next? I think… If there's any, like, …
 [u0642 | 01:00:14.630-01:00:17.639 | Wellby] You understand, like, what are we gonna find there?
 [u0643 | 01:00:18.280-01:00:20.759 | Wellby] So, trying to research any of that, or…
-[u0644 | 01:00:21.310-01:00:25.289 | Wellby] talk to people at the {{University of Bend}}, or find maps of….
+[u0644 | 01:00:21.310-01:00:25.289 | Wellby] talk to people at the University of Chardon, or find maps of….
 [u0645 | 01:00:25.290-01:00:27.650 | Seeker] how to get around, but….
 [u0646 | 01:00:27.650-01:00:28.140 | Wellby] just what.
 [u0647 | 01:00:28.140-01:00:29.280 | Seeker] Extremely charred maps.
@@ -827,7 +827,7 @@
 [u0827 | 01:18:29.100-01:18:29.560 | DM] Quickly.
 [u0828 | 01:18:31.210-01:18:37.550 | Delwath] … At current pace, it'll be 5 more days until we arrive.
 [u0829 | 01:18:44.990-01:18:47.770 | DM] I… I hope that is in time.
-[u0830 | 01:18:48.380-01:18:52.600 | DM] It's difficult to get reliable estimates of the {{Plaguands}}.
+[u0830 | 01:18:48.380-01:18:52.600 | DM] It's difficult to get reliable estimates of the Plaguelands.
 [u0831 | 01:18:53.710-01:18:54.840 | DM] Pace.
 [u0832 | 01:18:55.640-01:18:58.670 | DM] But the last Scouts that I heard of, anyway.
 [u0833 | 01:19:02.940-01:19:04.440 | DM] Well, it's hard to say.
@@ -1273,7 +1273,7 @@
 [u1273 | 01:48:32.240-01:48:35.499 | Delwath] How far is it from here to the… to the edge of the…
 [u1274 | 01:48:35.730-01:48:38.280 | Delwath] No Man's Land, it's the edge of the Plaguelands.
 [u1275 | 01:48:40.930-01:48:49.960 | DM] Oh, that, that's… That's not far, that's… … …
-[u1276 | 01:48:51.400-01:48:57.580 | DM] Hardly anyone goes beyond the course of the {{DORA}}, and that's… 40 miles from here.
+[u1276 | 01:48:51.400-01:48:57.580 | DM] Hardly anyone goes beyond the course of the Douren, and that's… 40 miles from here.
 [u1277 | 01:48:59.900-01:49:01.110 | DM] Give or take.
 [u1278 | 01:49:02.730-01:49:08.610 | DM] It's a hard river to cross, runs through a gorge for a good portion of its course, and…
 [u1279 | 01:49:09.530-01:49:13.910 | DM] beyond there, Definitely not safe lands.

@@ -99,7 +99,7 @@
 [u0099 | 00:09:49.660-00:09:50.780 | DM] small.
 [u0100 | 00:09:51.850-00:09:56.880 | DM] you know, almost insignificant. 4 foot tall. notebook of his research on
 [u0101 | 00:09:57.770-00:09:59.820 | DM] the history of of
-[u0102 | 00:09:59.960-00:10:01.520 | DM] {{Then to start off}}
+[u0102 | 00:09:59.960-00:10:01.520 | DM] Vindristjarna
 [u0103 | 00:10:01.740-00:10:04.880 | Seeker] as well as in theory. The phasing stone
 [u0104 | 00:10:08.940-00:10:15.120 | DM] are in the library, which is the lower ground. There used to be upper stories, but they have
 [u0105 | 00:10:15.740-00:10:20.120 | DM] vanished in the 1,000 years since the palace was inhabited.
@@ -745,7 +745,7 @@
 [u0745 | 01:06:30.710-01:06:32.440 | Delwath] We need their blood? Right?
 [u0746 | 01:06:32.710-01:06:34.230 | Seeker] Oh, man.
 [u0747 | 01:06:42.660-01:06:55.920 | Riswynn] look! If it's shiny and mirror like we have to keep it! Here's one that eats organs
-[u0748 | 01:06:56.170-01:07:05.400 | Seeker] unless we decide it's somehow bad and shouldn't be used, even though it'd be incredibly useful, such as a {{Connecticut of tongues}} that we just had to destroy it, one-on-one
+[u0748 | 01:06:56.170-01:07:05.400 | Seeker] unless we decide it's somehow bad and shouldn't be used, even though it'd be incredibly useful, such as a Necklace of Tongues that we just had to destroy it, one-on-one
 [u0749 | 01:07:24.530-01:07:25.680 | Unknown] or so we go in.
 [u0750 | 01:07:26.270-01:07:27.870 | Delwath] Yeah, I I think
 [u0751 | 01:07:28.930-01:07:30.050 | Delwath] I agree.
@@ -2230,7 +2230,7 @@
 [u2230 | 03:16:50.840-03:17:04.970 | Wellby] We could just go try to find Kadmos and just go fight them. Just go kill him from the airship. We can just hunt down Kadmos like the vicious killers we are. Wellby would love that actually, like he bears some serious grudge on this that team
 [u2231 | 03:17:05.730-03:17:08.570 | Seeker] I mean more so than Grash. They have
 [u2232 | 03:17:08.700-03:17:10.140 | Seeker] threatened our lives.
-[u2233 | 03:17:10.650-03:17:14.530 | Seeker] Grash sent like some shadow creatures against us or something. Yeah, that was {{fast, though}}.
+[u2233 | 03:17:10.650-03:17:14.530 | Seeker] Grash sent like some shadow creatures against us or something. Yeah, that was Fausto.
 [u2234 | 03:17:14.840-03:17:18.190 | DM] No, Grash also did. That's true.
 [u2235 | 03:17:18.520-03:17:25.120 | Delwath] They killed a few monks. The other thing we could do is we could race ahead of Grash to the good Orcs
 [u2236 | 03:17:25.500-03:17:27.480 | Delwath] and help them beat Grash

@@ -1,0 +1,20 @@
+--- before/u0794
++++ after/u0794
+@@ -1 +1 @@
+-[u0794 | 01:05:12.180-01:05:16.080 | DM] Sorry i'm not sure we've been introduced them I'm {{going to}}.
++[u0794 | 01:05:12.180-01:05:16.080 | DM] Sorry i'm not sure we've been introduced them I'm Garret.
+--- before/u1169
++++ after/u1169
+@@ -1 +1 @@
+-[u1169 | 01:35:49.770-01:35:52.740 | Delwath] So the the the new leader was {{shimano}}.
++[u1169 | 01:35:49.770-01:35:52.740 | Delwath] So the the the new leader was Cha'mutte.
+--- before/u1254
++++ after/u1254
+@@ -1 +1 @@
+-[u1254 | 01:43:13.200-01:43:21.240 | Delwath] Is there, like a secret halfling telepathic telegram that the {{kenji}} never invented the postal system that they were supposed to so.
++[u1254 | 01:43:13.200-01:43:21.240 | Delwath] Is there, like a secret halfling telepathic telegram that the kenku never invented the postal system that they were supposed to so.
+--- before/u2140
++++ after/u2140
+@@ -1 +1 @@
+-[u2140 | 03:03:39.180-03:03:40.920 | DM] you're following the {{afternoon}} guy.
++[u2140 | 03:03:39.180-03:03:40.920 | DM] you're following the Chardonian guy.

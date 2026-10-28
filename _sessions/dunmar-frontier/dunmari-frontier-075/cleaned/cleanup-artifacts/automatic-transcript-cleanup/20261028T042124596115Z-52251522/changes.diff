@@ -1,0 +1,20 @@
+--- before/u1023
++++ after/u1023
+@@ -1 +1 @@
+-[u1023 | 01:16:08.000-01:16:16.320 | DM] didn't you turn the {{liver}} into a turtle, and then that Yes, but also when you guys are fighting the dragon on the Cape, you turned
++[u1023 | 01:16:08.000-01:16:16.320 | DM] didn't you turn the wyvern into a turtle, and then that Yes, but also when you guys are fighting the dragon on the Cape, you turned
+--- before/u1123
++++ after/u1123
+@@ -1 +1 @@
+-[u1123 | 01:23:56.120-01:23:59.650 | Wellby] {{You frog}}
++[u1123 | 01:23:56.120-01:23:59.650 | Wellby] Hralgar
+--- before/u1342
++++ after/u1342
+@@ -1 +1 @@
+-[u1342 | 01:42:18.010-01:42:19.700 | Kenzo] {{A lash}}.
++[u1342 | 01:42:18.010-01:42:19.700 | Kenzo] Alesh.
+--- before/u1386
++++ after/u1386
+@@ -1 +1 @@
+-[u1386 | 01:46:05.460-01:46:07.420 | DM] {{go here}} and from
++[u1386 | 01:46:05.460-01:46:07.420 | DM] Govir and from

@@ -81,7 +81,7 @@
 [u0081 | 00:06:28.620-00:06:32.680 | DM] and the rest of the crew, Kethra, the dwarven Smith.
 [u0082 | 00:06:33.020-00:06:41.819 | DM] Nuzkar, and Aygul the Orc twin sisters Jotha, the Deno'qai warrior
 [u0083 | 00:06:42.010-00:06:47.930 | DM] who helps maintain Delwath's tanshi shrines on the ship
-[u0084 | 00:06:48.933-00:06:59.170 | DM] the halflings, Mica and Willow Copperharp, who joined you, as crew of Milo Thistlefoot, and {{Ellie}}.
+[u0084 | 00:06:48.933-00:06:59.170 | DM] the halflings, Mica and Willow Copperharp, who joined you, as crew of Milo Thistlefoot, and Tilly.
 [u0085 | 00:07:02.360-00:07:05.829 | DM] who themselves now are sailing somewhere
 [u0086 | 00:07:06.910-00:07:13.799 | DM] in a strange land, and you have a magic eye implanted in their back that you can check on them whenever you feel like it.
 [u0087 | 00:07:20.000-00:07:25.540 | DM] The ship itself is parked, maybe only 25–30 feet above the house.
@@ -127,7 +127,7 @@
 [u0127 | 00:12:07.080-00:12:17.520 | Delwath] white and tucked around his his clothes. He has a tendency to wear, you know, a nice cloak with it, and is often carrying his his shield with the 2 lynxes on it.
 [u0128 | 00:12:18.000-00:12:27.649 | Delwath] but never a sword unless we're about to fight. You know, he's arriving at.
 [u0129 | 00:12:30.140-00:12:33.110 | Delwath] This is Pava. This is, this is like his.
-[u0130 | 00:12:34.810-00:12:44.440 | Delwath] There's actually a sort of sense of a circle completing right like this is the 1st place he was after he fell from {{Shabbat's}} kingdom right or.
+[u0130 | 00:12:34.810-00:12:44.440 | Delwath] There's actually a sort of sense of a circle completing right like this is the 1st place he was after he fell from Cha'mutte's kingdom right or.
 [u0131 | 00:12:44.440-00:12:44.840 | DM] Yep.
 [u0132 | 00:12:44.840-00:12:50.489 | Delwath] The Shadow Realm, and and the last time
 [u0133 | 00:12:52.180-00:13:02.469 | Delwath] he we were here he didn't really remember it. It's not that he remembers it better necessarily, but it's it's like just more confident and cheerful and talking to
@@ -781,7 +781,7 @@
 [u0781 | 01:12:43.480-01:12:50.790 | DM] There's some new group that sprouted up in Chardon that you heard about from Riswynn via the Crown. That's like rioting against chalyte factories.
 [u0782 | 01:12:51.030-01:12:55.849 | Kenzo] Yeah. Well, what's tell me more about them? I've heard a little bit what's going on with the Eightfold Flame.
 [u0783 | 01:12:56.230-01:13:03.360 | DM] It was the strangest thing, maybe 3 weeks ago, something like that.
-[u0784 | 01:13:04.020-01:13:19.539 | DM] A bunch of bureaucrats in the chalyte trade published manifesto, {{raking the stone}}, accusing the
+[u0784 | 01:13:04.020-01:13:19.539 | DM] A bunch of bureaucrats in the chalyte trade published manifesto, Break the Stone, accusing the
 [u0785 | 01:13:20.770-01:13:26.660 | DM] merchants in the Hetaeri Magica, who control the trade of all sorts of things like
 [u0786 | 01:13:27.160-01:13:32.320 | DM] they knew how dangerous it was, and they didn't care, and it was.
 [u0787 | 01:13:35.370-01:13:38.149 | DM] I don't know what happened there, man, I mean.
@@ -819,7 +819,7 @@
 [u0819 | 01:15:43.360-01:15:48.129 | Kenzo] And you know I'm not one to shy from a fight. So hey, I started punching, too.
 [u0820 | 01:15:51.990-01:15:53.840 | Kenzo] and that was a week ago. What's going on now?
 [u0821 | 01:15:56.110-01:15:58.260 | DM] For a minute. There we
-[u0822 | 01:16:01.100-01:16:06.640 | DM] managed to control the whole north bank of the {{Chaucan}} more or less.
+[u0822 | 01:16:01.100-01:16:06.640 | DM] managed to control the whole north bank of the Chasa more or less.
 [u0823 | 01:16:08.360-01:16:15.599 | DM] I mean, the factories are all beaten to shreds now nobody could stop that.
 [u0824 | 01:16:15.760-01:16:24.560 | DM] Fires broke out pretty toxic there for a little bit since.
 [u0825 | 01:16:31.171-01:16:35.050 | DM] since the magistros returned a few days ago, and
@@ -870,7 +870,7 @@
 [u0870 | 01:19:56.220-01:19:58.309 | Kenzo] Oh, so I'm still an enemy of the State.
 [u0871 | 01:19:59.410-01:20:01.090 | Wellby] Still work to your advantage.
 [u0872 | 01:20:03.270-01:20:05.980 | DM] I I don't know what to tell you, man. I
-[u0873 | 01:20:06.370-01:20:14.480 | DM] when when rumors were going around that you destroyed the {{Kylos market}} with a portal to pandemonium. I was a bit
+[u0873 | 01:20:06.370-01:20:14.480 | DM] when when rumors were going around that you destroyed the Kylos Market with a portal to pandemonium. I was a bit
 [u0874 | 01:20:14.830-01:20:16.060 | DM] surprised.
 [u0875 | 01:20:16.060-01:20:18.540 | Kenzo] Oh, that wasn't me. Yeah, just so, you know, that totally wasn't me.
 [u0876 | 01:20:18.540-01:20:24.140 | DM] Yeah, there was other rumors that it was all a scam, but I mean, believe those that this is.

@@ -1020,7 +1020,7 @@
 [u1020 | 01:15:58.470-01:16:01.230 | Wellby] Isn't: that is that what you did in the dragon attack.
 [u1021 | 01:16:04.930-01:16:05.530 | Wellby] Okay.
 [u1022 | 01:16:06.290-01:16:07.800 | Seeker] But wait. Where
-[u1023 | 01:16:08.000-01:16:16.320 | DM] didn't you turn the {{liver}} into a turtle, and then that Yes, but also when you guys are fighting the dragon on the Cape, you turned
+[u1023 | 01:16:08.000-01:16:16.320 | DM] didn't you turn the wyvern into a turtle, and then that Yes, but also when you guys are fighting the dragon on the Cape, you turned
 [u1024 | 01:16:16.530-01:16:17.290 | DM] that
 [u1025 | 01:16:17.380-01:16:27.650 | Seeker] Vola the ranger into a giant crab, a huge giant crab, and there was something that {{an enjoyable worm}} one time.
 [u1026 | 01:16:28.350-01:16:34.770 | DM] Yeah. But the other thing that's useful about polymorph is like. If, for example, Kenzo is
@@ -1120,7 +1120,7 @@
 [u1120 | 01:23:44.070-01:23:46.050 | Seeker] There are hypotheses about this.
 [u1121 | 01:23:47.380-01:23:51.790 | Seeker] There's actually every 100 years there's a conference about this topic.
 [u1122 | 01:23:53.310-01:23:55.630 | Wellby] The Storm Giant.
-[u1123 | 01:23:56.120-01:23:59.650 | Wellby] {{You frog}}
+[u1123 | 01:23:56.120-01:23:59.650 | Wellby] Hralgar
 [u1124 | 01:24:01.300-01:24:09.430 | Wellby] didn't know what was on the far side of the Green Sea Like it's
 [u1125 | 01:24:09.590-01:24:10.720 | Wellby] there may be
 [u1126 | 01:24:12.950-01:24:17.610 | DM] it it's it's. Look, everybody agrees that Taelgar is locally spherical.
@@ -1339,7 +1339,7 @@
 [u1339 | 01:42:06.740-01:42:09.310 | DM] we will not be attacked from behind
 [u1340 | 01:42:10.960-01:42:12.840 | DM] by the wizards of Chardon
 [u1341 | 01:42:14.030-01:42:16.190 | DM] in league or not, with {{C.}}
-[u1342 | 01:42:18.010-01:42:19.700 | Kenzo] {{A lash}}.
+[u1342 | 01:42:18.010-01:42:19.700 | Kenzo] Alesh.
 [u1343 | 01:42:19.810-01:42:27.550 | Kenzo] I believe you are wise to be wary of the Chardonian mages. This is prudent.
 [u1344 | 01:42:30.370-01:42:31.410 | Kenzo] however.
 [u1345 | 01:42:34.400-01:42:35.910 | Kenzo] and this is a critical moment.
@@ -1383,7 +1383,7 @@
 [u1383 | 01:45:40.800-01:45:52.940 | Wellby] attacking Tokra, attacking that Chardonian army also seems unwise, because it's not just about taking Tokra I mean it's essentially a declaration of war against Chardon, and it gives them a pretext
 [u1384 | 01:45:53.800-01:46:00.620 | Kenzo] to seize that territory legitimately, quickly, who is in control of Tokra right now. It is it
 [u1385 | 01:46:01.360-01:46:04.900 | DM] so? Your sense from
-[u1386 | 01:46:05.460-01:46:07.420 | DM] {{go here}} and from
+[u1386 | 01:46:05.460-01:46:07.420 | DM] Govir and from
 [u1387 | 01:46:09.000-01:46:17.380 | DM] from the scrying that Delwath's done, and just the various bits of rumor mongering, and what {{Giles}} said
 [u1388 | 01:46:18.400-01:46:22.060 | DM] right? So. So Tokra is still, you know, in control under
 [u1389 | 01:46:22.220-01:46:24.800 | DM] the rule of

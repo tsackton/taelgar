@@ -1,0 +1,61 @@
+{
+  "transcriptSha256": "a7b7b72ca079eb52296a3029d36883266ca488a3048ca3ae5e9b69df48809846",
+  "judgment": "Both complete cleanup passes and a reference-spelling check are finished. Four material contextual issues remain on nine lines; two additional unclear phrases are incidental. The overall narrative and decisions are readable. The requested automatic names pass is pending the transcript-cleaner review decision.",
+  "issues": [
+    {
+      "uid": "u1221",
+      "importance": "material",
+      "reason": "Uzgosh may be a remembered shorthand for the people associated with Uzgash, or a different settlement name; do not silently identify a person with the present-day community."
+    },
+    {
+      "uid": "u1222",
+      "importance": "material",
+      "reason": "Uzgosh may be a remembered shorthand for the people associated with Uzgash, or a different settlement name; do not silently identify a person with the present-day community."
+    },
+    {
+      "uid": "u1223",
+      "importance": "material",
+      "reason": "Uzgosh may be a remembered shorthand for the people associated with Uzgash, or a different settlement name; do not silently identify a person with the present-day community."
+    },
+    {
+      "uid": "u1327",
+      "importance": "incidental",
+      "reason": "An illustrative suggestion to examine an arbitrary object; the exact object-source phrase does not alter a decision or event."
+    },
+    {
+      "uid": "u1707",
+      "importance": "material",
+      "reason": "Avitus / Atavas probably refer to Avatus; a nearby explicit correction makes actual spoken misnaming plausible."
+    },
+    {
+      "uid": "u1710",
+      "importance": "material",
+      "reason": "Avitus / Atavas probably refer to Avatus; a nearby explicit correction makes actual spoken misnaming plausible."
+    },
+    {
+      "uid": "u1784",
+      "importance": "material",
+      "reason": "Avitus / Atavas probably refer to Avatus; a nearby explicit correction makes actual spoken misnaming plausible."
+    },
+    {
+      "uid": "u1801",
+      "importance": "material",
+      "reason": "House of Darick may be spoken misremembering; do not replace it with the historically correct House of Sewick."
+    },
+    {
+      "uid": "u3568",
+      "importance": "incidental",
+      "reason": "The speaker explicitly names Dunmari politics immediately afterward; the preceding false start does not obscure the decision to avoid political commitments."
+    },
+    {
+      "uid": "u3939",
+      "importance": "material",
+      "reason": "Bishtimala / Bishtimela likely combine Bhishma and Laka, but the exact two-name boundary needs confirmation."
+    },
+    {
+      "uid": "u3940",
+      "importance": "material",
+      "reason": "Bishtimala / Bishtimela likely combine Bhishma and Laka, but the exact two-name boundary needs confirmation."
+    }
+  ]
+}

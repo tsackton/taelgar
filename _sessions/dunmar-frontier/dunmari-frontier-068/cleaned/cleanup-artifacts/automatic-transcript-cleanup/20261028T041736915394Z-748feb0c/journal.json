@@ -1,0 +1,1343 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-068",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-068/cleaned/dunmari-frontier-068-source-cleaned.md",
+  "beforeSha256": "9d48ac2db1053435e257a351b28200adb42a3aa41510ff0a99471404be8c3190",
+  "afterSha256": "48d6e869d5015c76500b18178965f4aa4fb38ba1cd07b34b6a428c74a4f70831",
+  "markersBefore": 52,
+  "groups": [
+    {
+      "id": "agata-sword-origin",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The discussion asks where the cursed sword originated; the treasure inventory records the Medusa Blade among items recovered from Agata. Agata is strongly favored over an unattested Akatan.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Hoards/Agata's Treasure.md",
+          "sha256": "9336e33e61286d135a98ed5d2317dceb4c6c36d2a9a513e2ff2d3d07a5d3368a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1918:m1"
+      ],
+      "replacements": {
+        "u1918:m1": "Agata"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "alayah",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The dreams shared with Kenzo when the jade pieces met identify Alayah; her reference note establishes the spelling.",
+      "evidence": [
+        {
+          "path": "People/Deno'qai/Alayah.md",
+          "sha256": "14e8627b636e65b23f061d6626ceff9fafa4153e911526bcf31f6329907aedc9"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1248:m1"
+      ],
+      "replacements": {
+        "u1248:m1": "Alayah"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "antonia",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The name is already correctly spelled; Antonia is identified as one of Kadmos's traveling companions in both her reference and the contemporary scrying report.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Antonia.md",
+          "sha256": "85eb25ff939bc6e64fbbc019f7ff04b49854258a5e9a46326c52298f5e7317a4"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Scrying and Spying/Scrying Delwath Nov 15.md",
+          "sha256": "933a204f367e9335a0e7d611b39e4c7d42e21357fc7659166d3d337e2192bef6"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2011:m1"
+      ],
+      "replacements": {
+        "u2011:m1": "Antonia"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "bahrazel",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Riswynn's dwarven gods and the icons on the dwarven resurrection scroll identify the Bahrâzel; use the established reference spelling.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Embodied Gods/Bahrazel/Bahrazel.md",
+          "sha256": "bc9a92b8b364ef59b5c9c495057da783c25a940bd7a583278f4c18dc4edf7c73"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Hoards/Grimbaskal's Hoard.md",
+          "sha256": "03abc3420f0de6826dd080c43b3d7ae9a455976fa942ac6d2ae323346d62164b"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1399:m1",
+        "u1469:m1",
+        "u2082:m2",
+        "u2524:m1"
+      ],
+      "replacements": {
+        "u1399:m1": "Bahrâzel",
+        "u1469:m1": "Bahrâzel",
+        "u2082:m2": "Bahrâzel",
+        "u2524:m1": "Bahrâzel"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "civil-war-center",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Havdar is central in the immediate discussion, while Agata's meddling was also just discussed. The isolated recognition hockey does not uniquely identify the speaker's intended word.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 68 (DuFr).md",
+          "sha256": "21ae2c075f3399231bbef34bcea1ffc38f45117ff5ab3149d27183b049dded1b"
+        }
+      ],
+      "candidates": [
+        "Havdar",
+        "Agata"
+      ],
+      "markerIds": [
+        "u1991:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1991:m1": "{{hockey}}"
+      }
+    },
+    {
+      "id": "darkfire",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The dead demon battlefield and its demonic trees are explicitly the Battle of Darkfire in the played session record.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 54 (DuFr).md",
+          "sha256": "256f59476d4b2708fe3cbce487a00c73d1c1f18bd8ebc9b745708cacaa2eee83"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0800:m1",
+        "u0801:m1"
+      ],
+      "replacements": {
+        "u0800:m1": "Darkfire",
+        "u0801:m1": "Darkfire"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "denoqai",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The armor description has just explicitly identified Deno'qai armor; the marked repeated cultural name is strongly favored in like a Deno'qai.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Deno'qai Scale Mail.md",
+          "sha256": "f4306c5c046ff8020ba8c41d78a4f2f28dfffc78a64371f58f9fb27a5fecf8c4"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0086:m1"
+      ],
+      "replacements": {
+        "u0086:m1": "Deno'qai"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "divine-realm-pronunciation",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The referent is likely Bahrâzel, but the longer span may include repeated attempts at the name; its complete wording is insufficiently clear to collapse to a single name.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Embodied Gods/Bahrazel/Bahrazel.md",
+          "sha256": "bc9a92b8b364ef59b5c9c495057da783c25a940bd7a583278f4c18dc4edf7c73"
+        }
+      ],
+      "candidates": [
+        "Bahrâzel"
+      ],
+      "markerIds": [
+        "u1937:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1937:m1": "{{Bahara virus out}}"
+      }
+    },
+    {
+      "id": "freed-deity-name",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The battlefield record identifies Yezali, but the whole marked span may preserve an initial Jeevali followed by a correction to Yezali, matching the earlier spoken Jeevali. Do not erase a possible spoken mistake or reconstruct the phrase.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 54 (DuFr).md",
+          "sha256": "256f59476d4b2708fe3cbce487a00c73d1c1f18bd8ebc9b745708cacaa2eee83"
+        }
+      ],
+      "candidates": [
+        "Yezali",
+        "Jeevali"
+      ],
+      "markerIds": [
+        "u0805:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0805:m1": "{{the volley is Ali}}"
+      }
+    },
+    {
+      "id": "jade-discovery-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Mezzar may be embedded in the damaged opening, but the complete marked phrase includes unrecoverable surrounding words and cannot be replaced with a name alone.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Mezzar.md",
+          "sha256": "9d2ad039eafbb9f046c55e31bc7a556b96e558ca7713c3e92b98777176c7e655"
+        }
+      ],
+      "candidates": [
+        "Mezzar"
+      ],
+      "markerIds": [
+        "u1734:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1734:m1": "{{we're my scum}}"
+      }
+    },
+    {
+      "id": "karawa",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The party is discussing the empty desert west of Kharsan toward Shakun's border, immediately followed by the absence of warnings in Karawa. Karawa is strongly favored over the more distant Hara river.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Scrying and Spying/Scrying Delwath Nov 15.md",
+          "sha256": "933a204f367e9335a0e7d611b39e4c7d42e21357fc7659166d3d337e2192bef6"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 68 (DuFr).md",
+          "sha256": "21ae2c075f3399231bbef34bcea1ffc38f45117ff5ab3149d27183b049dded1b"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2947:m1"
+      ],
+      "replacements": {
+        "u2947:m1": "Karawa"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "lara",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The party is reading the letter signed Speaker Lara, which directly establishes this spelling.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Letters and Notes/Letter from Speaker Lara.md",
+          "sha256": "d6bf5f1820a5dd81fd99f6d89ba1a1368ff2ad8ce1a8abd4472a2c404030cf02"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2321:m1"
+      ],
+      "replacements": {
+        "u2321:m1": "Lara"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "material-resonance-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The span may include a setting term such as chalyte, but ordinary words and the term cannot be separated confidently within this complete damaged phrase.",
+      "evidence": [],
+      "candidates": [
+        "chalyte"
+      ],
+      "markerIds": [
+        "u0955:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0955:m1": "{{And i'm only in Kayla}}"
+      }
+    },
+    {
+      "id": "meswati",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "These occurrences explicitly identify the collective of six lost Deno'qai gods; the reference establishes Meswati.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Meswati/Meswati.md",
+          "sha256": "6ec032ef4d5f6c88365c253c8ccca62cebe36e44085f24d08ab45aeccf880a9a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0357:m1",
+        "u0376:m1",
+        "u0654:m1",
+        "u0815:m1"
+      ],
+      "replacements": {
+        "u0357:m1": "Meswati",
+        "u0376:m1": "Meswati",
+        "u0654:m1": "Meswati",
+        "u0815:m1": "Meswati"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "meswati-recall",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Seeker is recalling the collective name immediately after the account of freeing six gods; Meswati is strongly favored by that role and the following pronunciation discussion.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Meswati/Meswati.md",
+          "sha256": "6ec032ef4d5f6c88365c253c8ccca62cebe36e44085f24d08ab45aeccf880a9a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0354:m1"
+      ],
+      "replacements": {
+        "u0354:m1": "Meswati"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "meswati-repeated-attempt",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Meswati is the apparent referent, but the complete span may contain multiple pronunciation attempts; replacing it with one name would erase potentially spoken repetition.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Meswati/Meswati.md",
+          "sha256": "6ec032ef4d5f6c88365c253c8ccca62cebe36e44085f24d08ab45aeccf880a9a"
+        }
+      ],
+      "candidates": [
+        "Meswati"
+      ],
+      "markerIds": [
+        "u0355:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0355:m1": "{{Ms. White Maswadi}}"
+      }
+    },
+    {
+      "id": "mezzar",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The disguised Elderwood dragon is explicitly identified as Mezzar. Preserve the possessive in the house reference.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Mezzar.md",
+          "sha256": "9d2ad039eafbb9f046c55e31bc7a556b96e558ca7713c3e92b98777176c7e655"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1715:m2",
+        "u1719:m1",
+        "u1726:m1",
+        "u1726:m2",
+        "u1736:m1"
+      ],
+      "replacements": {
+        "u1715:m2": "Mezzar's",
+        "u1719:m1": "Mezzar",
+        "u1726:m1": "Mezzar",
+        "u1726:m2": "Mezzar",
+        "u1736:m1": "Mezzar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary description, chatter, grammar, spatial wording, or source-reading reconstruction outside the name pass; preserve the complete marked spans unchanged.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0257:m1",
+        "u0569:m1",
+        "u0878:m1",
+        "u0971:m1",
+        "u1238:m1",
+        "u1271:m1",
+        "u1373:m1",
+        "u1453:m1",
+        "u1572:m1",
+        "u1633:m1",
+        "u1715:m1",
+        "u1923:m1",
+        "u2082:m1",
+        "u2100:m1",
+        "u2725:m1",
+        "u2830:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0257:m1": "{{ro? Very neat?}}",
+        "u0569:m1": "{{in the end 10 to 21, and the doom rates, and that's true to you}}",
+        "u0878:m1": "{{but lizards}}",
+        "u0971:m1": "{{You're upizing thoughts of the worst.}}",
+        "u1238:m1": "{{any questions}}",
+        "u1271:m1": "{{oak}}",
+        "u1373:m1": "{{red}}",
+        "u1453:m1": "{{battled}}",
+        "u1572:m1": "{{a tem loss}}",
+        "u1633:m1": "{{self starting in}}",
+        "u1715:m1": "{{turned out}}",
+        "u1923:m1": "{{our later}}",
+        "u2082:m1": "{{pass on to her}}",
+        "u2100:m1": "{{Dain thought before I}}",
+        "u2725:m1": "{{it needs for the analysis}}",
+        "u2830:m1": "{{what's them? That's the nature and the daughter}}"
+      }
+    },
+    {
+      "id": "pava-avaras",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The paired frontier watchers are Pava and Avaras, the established partners who watch the desert near Karawa; both role and phonetic forms support the pair.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Pava.md",
+          "sha256": "cf2ff7e2899448a8c3602bd043f95e7e64e9d06c1f1561fab85f93d8d884157a"
+        },
+        {
+          "path": "People/Dunmari/Avaras.md",
+          "sha256": "109c6260bcbf560ebe38170cd3c910e12c3ba003b146d927e61882854cb0511d"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2950:m1"
+      ],
+      "replacements": {
+        "u2950:m1": "Pava and Avaras"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "reading-gift",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "A divine collective such as Meswati is possible, but the damaged span following gift of the does not uniquely establish that name rather than ordinary wording about the reading ability.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Meswati/Meswati.md",
+          "sha256": "6ec032ef4d5f6c88365c253c8ccca62cebe36e44085f24d08ab45aeccf880a9a"
+        }
+      ],
+      "candidates": [
+        "Meswati"
+      ],
+      "markerIds": [
+        "u0477:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0477:m1": "{{that's bloody}}"
+      }
+    },
+    {
+      "id": "tanshi",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "These references are to the small Deno'qai gods, whose collective term is tanshi.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Tanshi.md",
+          "sha256": "3b3948c1c28301bde5d69129004d17cf2a6dd748ad62cdcec8907b9cd1d7dc7f"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 55 (DuFr).md",
+          "sha256": "75f9a09b5d47f6fa25d8680ec28080ea0a23630199fb8396722acfbac601f871"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0817:m1",
+        "u0834:m1",
+        "u3127:m1"
+      ],
+      "replacements": {
+        "u0817:m1": "tanshi",
+        "u0834:m1": "tanshi",
+        "u3127:m1": "tanshi"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "tanshi-of-fire",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The marked religious term describes the fire-associated tanshi served by the druid; normalize only the term and preserve the existing of fire wording.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Tanshi.md",
+          "sha256": "3b3948c1c28301bde5d69129004d17cf2a6dd748ad62cdcec8907b9cd1d7dc7f"
+        },
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Meswati/Meswati.md",
+          "sha256": "6ec032ef4d5f6c88365c253c8ccca62cebe36e44085f24d08ab45aeccf880a9a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0694:m1"
+      ],
+      "replacements": {
+        "u0694:m1": "tanshi of fire"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ulfgar",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Seeker's scholarly friend in Chardon is Ulfgar Frostbeard; the unique established relationship strongly favors Ulfgar over unattested both Gar.",
+      "evidence": [
+        {
+          "path": "People/Dwarves/Ulfgar Frostbeard.md",
+          "sha256": "42e935ab9996dd9b1c13cc5d7d6994ad13ee93ad89092096a293d5b9dad79f6c"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u3170:m1"
+      ],
+      "replacements": {
+        "u3170:m1": "Ulfgar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "wanderer-epithet",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The rescued mirror-realm wizard has the attested epithet the Wanderer. Only the marked epithet is corrected; the unmarked first name is preserved.",
+      "evidence": [
+        {
+          "path": "People/Other Humans/Arryn.md",
+          "sha256": "923be46c7c81618594794e04dbbfbd5f320693d0f2b94e58287427e627e749b3"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1316:m1"
+      ],
+      "replacements": {
+        "u1316:m1": "Wanderer"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0086:m1",
+      "uid": "u0086",
+      "ordinal": 1,
+      "lineNumber": 86,
+      "start": 98,
+      "end": 112,
+      "before": "{{den of the}}",
+      "span": "den of the",
+      "line": "[u0086 | 00:05:32.210-00:05:37.600 | Delwath] he's wearing brightly colored Deno'qai armor like a {{den of the}}",
+      "contextBefore": [
+        "[u0084 | 00:05:26.200-00:05:28.120 | Delwath] It's his shadow. Armor's gone.",
+        "[u0085 | 00:05:28.280-00:05:31.939 | Delwath] There's no shadowy hint to him at all anywhere."
+      ],
+      "contextAfter": [
+        "[u0087 | 00:05:38.450-00:05:41.270 | Delwath] It's sort of the armor is",
+        "[u0088 | 00:05:45.330-00:05:46.740 | Delwath] mostly like."
+      ],
+      "after": "Deno'qai",
+      "group": "denoqai",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0354:m1",
+      "uid": "u0354",
+      "ordinal": 1,
+      "lineNumber": 354,
+      "start": 49,
+      "end": 66,
+      "before": "{{mother's body}}",
+      "span": "mother's body",
+      "line": "[u0354 | 00:24:42.770-00:24:44.020 | Seeker] The {{mother's body}}.",
+      "contextBefore": [
+        "[u0352 | 00:24:35.750-00:24:36.819 | Unknown] I freed them.",
+        "[u0353 | 00:24:39.920-00:24:41.340 | Delwath] and 5 others."
+      ],
+      "contextAfter": [
+        "[u0355 | 00:24:44.080-00:24:45.779 | Delwath] {{Ms. White Maswadi}}.",
+        "[u0356 | 00:24:45.970-00:24:48.029 | DM] Did I say that? Right? The"
+      ],
+      "after": "Meswati",
+      "group": "meswati-recall",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0357:m1",
+      "uid": "u0357",
+      "ordinal": 1,
+      "lineNumber": 357,
+      "start": 48,
+      "end": 60,
+      "before": "{{Missouri}}",
+      "span": "Missouri",
+      "line": "[u0357 | 00:24:48.130-00:24:49.640 | Kenzo] The {{Missouri}} they're called.",
+      "contextBefore": [
+        "[u0355 | 00:24:44.080-00:24:45.779 | Delwath] {{Ms. White Maswadi}}.",
+        "[u0356 | 00:24:45.970-00:24:48.029 | DM] Did I say that? Right? The"
+      ],
+      "contextAfter": [
+        "[u0358 | 00:24:50.080-00:24:51.260 | Delwath] I've forgotten",
+        "[u0359 | 00:24:51.440-00:24:53.070 | Delwath] Gods of the"
+      ],
+      "after": "Meswati",
+      "group": "meswati",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0376:m1",
+      "uid": "u0376",
+      "ordinal": 1,
+      "lineNumber": 376,
+      "start": 109,
+      "end": 120,
+      "before": "{{Maswati}}",
+      "span": "Maswati",
+      "line": "[u0376 | 00:25:55.740-00:26:01.429 | Delwath] It was the only way to free one of the one of the one of these {{Maswati}}. One of these trapped gods, was to.",
+      "contextBefore": [
+        "[u0374 | 00:25:51.640-00:25:52.540 | Delwath] healthy.",
+        "[u0375 | 00:25:53.390-00:25:54.430 | Seeker] Hmm."
+      ],
+      "contextAfter": [
+        "[u0377 | 00:26:01.710-00:26:04.919 | Delwath] We actually fought one of Cha'mutte's trapped armies",
+        "[u0378 | 00:26:05.520-00:26:08.260 | Delwath] at least a small part of it. Not not an army."
+      ],
+      "after": "Meswati",
+      "group": "meswati",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0654:m1",
+      "uid": "u0654",
+      "ordinal": 1,
+      "lineNumber": 654,
+      "start": 114,
+      "end": 125,
+      "before": "{{Maswati}}",
+      "span": "Maswati",
+      "line": "[u0654 | 00:44:07.130-00:44:13.080 | Delwath] was that these people kept alive the memory of what they called the {{Maswati}}, the lost gods.",
+      "contextBefore": [
+        "[u0652 | 00:43:58.360-00:44:02.979 | Delwath] Grimbaskal. What's his name? Grimbaskal, Grimbaskal?",
+        "[u0653 | 00:44:04.770-00:44:06.709 | Delwath] But what I learned there"
+      ],
+      "contextAfter": [
+        "[u0655 | 00:44:13.770-00:44:15.339 | Delwath] the gods who had",
+        "[u0656 | 00:44:16.200-00:44:18.770 | Delwath] been trapped or died, or vanished"
+      ],
+      "after": "Meswati",
+      "group": "meswati",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0694:m1",
+      "uid": "u0694",
+      "ordinal": 1,
+      "lineNumber": 694,
+      "start": 54,
+      "end": 72,
+      "before": "{{ta she of fire}}",
+      "span": "ta she of fire",
+      "line": "[u0694 | 00:46:18.620-00:46:21.499 | Delwath] the the {{ta she of fire}}!",
+      "contextBefore": [
+        "[u0692 | 00:46:14.830-00:46:17.049 | Delwath] Druid of",
+        "[u0693 | 00:46:17.310-00:46:18.359 | Delwath] that."
+      ],
+      "contextAfter": [
+        "[u0695 | 00:46:22.280-00:46:24.989 | Delwath] Wait! It was Iascaire Who freed me right? Yeah.",
+        "[u0696 | 00:46:26.220-00:46:31.840 | Delwath] destroyed an armband that he found, not really knowing what it did."
+      ],
+      "after": "tanshi of fire",
+      "group": "tanshi-of-fire",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0800:m1",
+      "uid": "u0800",
+      "ordinal": 1,
+      "lineNumber": 800,
+      "start": 70,
+      "end": 83,
+      "before": "{{Dark Fire}}",
+      "span": "Dark Fire",
+      "line": "[u0800 | 00:54:34.940-00:54:37.419 | Delwath] it was at the battle of {{Dark Fire}}.",
+      "contextBefore": [
+        "[u0798 | 00:54:29.450-00:54:30.459 | Delwath] the",
+        "[u0799 | 00:54:30.710-00:54:31.299 | Unknown] the"
+      ],
+      "contextAfter": [
+        "[u0801 | 00:54:37.510-00:54:56.309 | Delwath] So it's. So, the Deno'qai said. The battle site of the Battle of {{Dark File}}, the vast body of a dead demon and it was humanoid, but the size of 30 feet from head to toe.",
+        "[u0802 | 00:54:56.420-00:54:57.049 | Delwath] but"
+      ],
+      "after": "Darkfire",
+      "group": "darkfire",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0801:m1",
+      "uid": "u0801",
+      "ordinal": 1,
+      "lineNumber": 801,
+      "start": 111,
+      "end": 124,
+      "before": "{{Dark File}}",
+      "span": "Dark File",
+      "line": "[u0801 | 00:54:37.510-00:54:56.309 | Delwath] So it's. So, the Deno'qai said. The battle site of the Battle of {{Dark File}}, the vast body of a dead demon and it was humanoid, but the size of 30 feet from head to toe.",
+      "contextBefore": [
+        "[u0799 | 00:54:30.710-00:54:31.299 | Unknown] the",
+        "[u0800 | 00:54:34.940-00:54:37.419 | Delwath] it was at the battle of {{Dark Fire}}."
+      ],
+      "contextAfter": [
+        "[u0802 | 00:54:56.420-00:54:57.049 | Delwath] but",
+        "[u0803 | 00:54:57.260-00:55:05.340 | Delwath] as we approached the trees and beasts of the forest, possessed with some sort of demonic energy, would attack us."
+      ],
+      "after": "Darkfire",
+      "group": "darkfire",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0815:m1",
+      "uid": "u0815",
+      "ordinal": 1,
+      "lineNumber": 815,
+      "start": 55,
+      "end": 67,
+      "before": "{{Missouri}}",
+      "span": "Missouri",
+      "line": "[u0815 | 00:56:32.190-00:56:34.470 | Delwath] 6 of the {{Missouri}} we freed",
+      "contextBefore": [
+        "[u0813 | 00:56:07.660-00:56:11.699 | Delwath] a place to",
+        "[u0814 | 00:56:14.360-00:56:27.469 | Delwath] again. I. The tales are jumbled. It was. It was like a nightmare to be honest, that sort of endless battle against demons, and Undead, and and other creatures."
+      ],
+      "contextAfter": [
+        "[u0816 | 00:56:35.550-00:56:36.569 | Delwath] 6 of the",
+        "[u0817 | 00:56:36.590-00:56:39.930 | Delwath] of the lost Deno'qai {{tashi}} gods."
+      ],
+      "after": "Meswati",
+      "group": "meswati",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0817:m1",
+      "uid": "u0817",
+      "ordinal": 1,
+      "lineNumber": 817,
+      "start": 67,
+      "end": 76,
+      "before": "{{tashi}}",
+      "span": "tashi",
+      "line": "[u0817 | 00:56:36.590-00:56:39.930 | Delwath] of the lost Deno'qai {{tashi}} gods.",
+      "contextBefore": [
+        "[u0815 | 00:56:32.190-00:56:34.470 | Delwath] 6 of the {{Missouri}} we freed",
+        "[u0816 | 00:56:35.550-00:56:36.569 | Delwath] 6 of the"
+      ],
+      "contextAfter": [
+        "[u0818 | 00:56:40.240-00:56:42.639 | Seeker] and they where did they end up?",
+        "[u0819 | 00:56:44.650-00:56:47.460 | Delwath] Where? Sorry you say? Where are they? Where are they?"
+      ],
+      "after": "tanshi",
+      "group": "tanshi",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0834:m1",
+      "uid": "u0834",
+      "ordinal": 1,
+      "lineNumber": 834,
+      "start": 141,
+      "end": 151,
+      "before": "{{ta she}}",
+      "span": "ta she",
+      "line": "[u0834 | 00:57:45.990-00:57:53.559 | Delwath] that was my tale. I then spent quite some time, both with the Deno'qai. Learning more of these {{ta she}}",
+      "contextBefore": [
+        "[u0832 | 00:57:38.000-00:57:40.480 | Riswynn] so you're in touch with them elsewhere.",
+        "[u0833 | 00:57:40.520-00:57:41.310 | Delwath] Yes."
+      ],
+      "contextAfter": [
+        "[u0835 | 00:57:53.870-00:57:56.580 | Delwath] and traveling like I said, I met this",
+        "[u0836 | 00:57:58.860-00:58:00.089 | Delwath] creature."
+      ],
+      "after": "tanshi",
+      "group": "tanshi",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1248:m1",
+      "uid": "u1248",
+      "ordinal": 1,
+      "lineNumber": 1248,
+      "start": 41,
+      "end": 50,
+      "before": "{{Elaya}}",
+      "span": "Elaya",
+      "line": "[u1248 | 01:23:23.360-01:23:26.729 | DM] {{Elaya}} and Kenzo had when the jades met",
+      "contextBefore": [
+        "[u1246 | 01:23:02.280-01:23:11.280 | Kenzo] Oh, this was this is death! I think this is related to Dimitaur and Rai, and what they were trying with the but there wasn't Rai, keeping Apollyon trapped.",
+        "[u1247 | 01:23:11.310-01:23:22.880 | Kenzo] Yes, yes, everything started falling apart when when the jade Did his thing and the jade exploded. And this is these were the dreams that"
+      ],
+      "contextAfter": [
+        "[u1249 | 01:23:27.320-01:23:29.439 | DM] in the Elderwood right right?",
+        "[u1250 | 01:23:30.150-01:23:36.199 | Delwath] How many pieces of jade do we think there are just like. Do we have any sense just from the size of the"
+      ],
+      "after": "Alayah",
+      "group": "alayah",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1316:m1",
+      "uid": "u1316",
+      "ordinal": 1,
+      "lineNumber": 1316,
+      "start": 80,
+      "end": 93,
+      "before": "{{wandering}}",
+      "span": "wandering",
+      "line": "[u1316 | 01:28:00.450-01:28:06.009 | Wellby] who was just so lovely, Airion the {{wandering}}. That's a",
+      "contextBefore": [
+        "[u1314 | 01:27:55.550-01:27:56.680 | Wellby] and found a",
+        "[u1315 | 01:27:57.380-01:27:58.240 | Wellby] a wizard."
+      ],
+      "contextAfter": [
+        "[u1317 | 01:28:06.250-01:28:14.690 | Wellby] such a good guy. So it turns out that he was originally from over here, but true to his name. He he ended up far to the East.",
+        "[u1318 | 01:28:19.060-01:28:28.960 | Wellby] But it's worth mentioning that Airion was interested in the nature of the multiverse. He was a researcher into the shadow and excuse me to the mirror dimensions."
+      ],
+      "after": "Wanderer",
+      "group": "wanderer-epithet",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1399:m1",
+      "uid": "u1399",
+      "ordinal": 1,
+      "lineNumber": 1399,
+      "start": 60,
+      "end": 71,
+      "before": "{{Parisel}}",
+      "span": "Parisel",
+      "line": "[u1399 | 01:33:59.590-01:34:05.450 | Riswynn] cleric of the {{Parisel}}. But I regret that I have left you all",
+      "contextBefore": [
+        "[u1397 | 01:33:51.580-01:33:55.230 | Riswynn] they had need of me. And I mean that is",
+        "[u1398 | 01:33:55.820-01:33:59.559 | Riswynn] the accepted lot of of the faithful"
+      ],
+      "contextAfter": [
+        "[u1400 | 01:34:07.170-01:34:10.870 | Riswynn] in hot pursuit in Chardon, but it seems that you made your way.",
+        "[u1401 | 01:34:11.120-01:34:14.810 | Riswynn] It's a nice safe battle with a dragon, and you know that"
+      ],
+      "after": "Bahrâzel",
+      "group": "bahrazel",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1469:m1",
+      "uid": "u1469",
+      "ordinal": 1,
+      "lineNumber": 1469,
+      "start": 55,
+      "end": 69,
+      "before": "{{Baha cells}}",
+      "span": "Baha cells",
+      "line": "[u1469 | 01:37:48.780-01:37:51.030 | Riswynn] that the {{Baha cells}}",
+      "contextBefore": [
+        "[u1467 | 01:37:42.260-01:37:45.100 | Riswynn] Was the motivation of of their",
+        "[u1468 | 01:37:46.640-01:37:47.820 | Riswynn] their history"
+      ],
+      "contextAfter": [
+        "[u1470 | 01:37:51.800-01:37:52.990 | Riswynn] to",
+        "[u1471 | 01:37:53.010-01:37:54.940 | Riswynn] chose to weigh the soul of this."
+      ],
+      "after": "Bahrâzel",
+      "group": "bahrazel",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1715:m2",
+      "uid": "u1715",
+      "ordinal": 2,
+      "lineNumber": 1715,
+      "start": 66,
+      "end": 77,
+      "before": "{{mezzars}}",
+      "span": "mezzars",
+      "line": "[u1715 | 01:53:43.480-01:53:46.030 | Delwath] have {{turned out}} {{mezzars}}",
+      "contextBefore": [
+        "[u1713 | 01:53:39.410-01:53:40.530 | Delwath] Goshiba",
+        "[u1714 | 01:53:41.140-01:53:43.149 | Delwath] Theba! And the Deno'qai"
+      ],
+      "contextAfter": [
+        "[u1716 | 01:53:46.090-01:53:49.940 | Delwath] a house in the in the village, and",
+        "[u1717 | 01:53:52.080-01:53:53.950 | Delwath] Theba has been"
+      ],
+      "after": "Mezzar's",
+      "group": "mezzar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1719:m1",
+      "uid": "u1719",
+      "ordinal": 1,
+      "lineNumber": 1719,
+      "start": 58,
+      "end": 67,
+      "before": "{{Mesar}}",
+      "span": "Mesar",
+      "line": "[u1719 | 01:53:57.110-01:54:00.790 | Delwath] belief that {{Mesar}} was a malignant power",
+      "contextBefore": [
+        "[u1717 | 01:53:52.080-01:53:53.950 | Delwath] Theba has been",
+        "[u1718 | 01:53:54.280-01:53:56.699 | Delwath] been restored, and there is much"
+      ],
+      "contextAfter": [
+        "[u1720 | 01:54:00.980-01:54:04.240 | Delwath] or 2. The 2 creatures,",
+        "[u1721 | 01:54:05.280-01:54:08.269 | Delwath] Seeker that we fled from in his basement."
+      ],
+      "after": "Mezzar",
+      "group": "mezzar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1726:m1",
+      "uid": "u1726",
+      "ordinal": 1,
+      "lineNumber": 1726,
+      "start": 60,
+      "end": 69,
+      "before": "{{Mesar}}",
+      "span": "Mesar",
+      "line": "[u1726 | 01:54:19.610-01:54:24.599 | Delwath] where is this {{Mesar}} person? {{Mesar}} was the was the dragon.",
+      "contextBefore": [
+        "[u1724 | 01:54:12.270-01:54:15.320 | Delwath] and got loose, and convinced many that he was",
+        "[u1725 | 01:54:15.690-01:54:17.229 | Unknown] not all he said."
+      ],
+      "contextAfter": [
+        "[u1727 | 01:54:24.980-01:54:29.399 | Delwath] The dragon was pretending to be an elf, and had dominated a village",
+        "[u1728 | 01:54:29.460-01:54:33.639 | Delwath] Bennett, a Deno'qai village of the"
+      ],
+      "after": "Mezzar",
+      "group": "mezzar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1726:m2",
+      "uid": "u1726",
+      "ordinal": 2,
+      "lineNumber": 1726,
+      "start": 78,
+      "end": 87,
+      "before": "{{Mesar}}",
+      "span": "Mesar",
+      "line": "[u1726 | 01:54:19.610-01:54:24.599 | Delwath] where is this {{Mesar}} person? {{Mesar}} was the was the dragon.",
+      "contextBefore": [
+        "[u1724 | 01:54:12.270-01:54:15.320 | Delwath] and got loose, and convinced many that he was",
+        "[u1725 | 01:54:15.690-01:54:17.229 | Unknown] not all he said."
+      ],
+      "contextAfter": [
+        "[u1727 | 01:54:24.980-01:54:29.399 | Delwath] The dragon was pretending to be an elf, and had dominated a village",
+        "[u1728 | 01:54:29.460-01:54:33.639 | Delwath] Bennett, a Deno'qai village of the"
+      ],
+      "after": "Mezzar",
+      "group": "mezzar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1736:m1",
+      "uid": "u1736",
+      "ordinal": 1,
+      "lineNumber": 1736,
+      "start": 84,
+      "end": 93,
+      "before": "{{Mesar}}",
+      "span": "Mesar",
+      "line": "[u1736 | 01:55:03.360-01:55:07.339 | Delwath] and much restored after the defeat of {{Mesar}}",
+      "contextBefore": [
+        "[u1734 | 01:54:52.080-01:54:58.680 | Kenzo] {{we're my scum}}, and we we did indeed discover a piece of jade that along the",
+        "[u1735 | 01:54:59.400-01:55:02.890 | Delwath] the woman who aided us, seems in good spirits, and"
+      ],
+      "contextAfter": [
+        "[u1737 | 01:55:09.290-01:55:14.720 | Delwath] Although I got the sense from things, I overheard that Chardon is an increasing presence",
+        "[u1738 | 01:55:14.880-01:55:15.950 | Unknown] and a concerning one."
+      ],
+      "after": "Mezzar",
+      "group": "mezzar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1918:m1",
+      "uid": "u1918",
+      "ordinal": 1,
+      "lineNumber": 1918,
+      "start": 98,
+      "end": 108,
+      "before": "{{Akatan}}",
+      "span": "Akatan",
+      "line": "[u1918 | 02:06:05.980-02:06:11.080 | Seeker] Where did the sword come from? Again? He got it from {{Akatan}} gave it to him.",
+      "contextBefore": [
+        "[u1916 | 02:06:03.490-02:06:04.280 | Delwath] Yes.",
+        "[u1917 | 02:06:04.970-02:06:05.580 | Unknown] yeah."
+      ],
+      "contextAfter": [
+        "[u1919 | 02:06:12.660-02:06:15.539 | Kenzo] It came from us.",
+        "[u1920 | 02:06:17.050-02:06:18.000 | Seeker] Oh."
+      ],
+      "after": "Agata",
+      "group": "agata-sword-origin",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2011:m1",
+      "uid": "u2011",
+      "ordinal": 1,
+      "lineNumber": 2011,
+      "start": 57,
+      "end": 68,
+      "before": "{{Antonia}}",
+      "span": "Antonia",
+      "line": "[u2011 | 02:12:33.600-02:12:36.130 | Delwath] somewhere. {{Antonia}}.",
+      "contextBefore": [
+        "[u2009 | 02:12:28.490-02:12:30.380 | Delwath] Vola has apparently joined them.",
+        "[u2010 | 02:12:31.410-02:12:33.299 | Delwath] They are traveling"
+      ],
+      "contextAfter": [
+        "[u2012 | 02:12:36.370-02:12:36.960 | Delwath] Hmm.",
+        "[u2013 | 02:12:37.270-02:12:38.570 | Kenzo] Willingly join them."
+      ],
+      "after": "Antonia",
+      "group": "antonia",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2082:m2",
+      "uid": "u2082",
+      "ordinal": 2,
+      "lineNumber": 2082,
+      "start": 123,
+      "end": 139,
+      "before": "{{Bahar is out}}",
+      "span": "Bahar is out",
+      "line": "[u2082 | 02:16:38.790-02:16:45.970 | Riswynn] {{pass on to her}} and get the chalice. Then we can all go to the realm. The {{Bahar is out}} and have conversations",
+      "contextBefore": [
+        "[u2080 | 02:16:34.490-02:16:37.200 | Seeker] So that maybe because I was in the yeah.",
+        "[u2081 | 02:16:37.400-02:16:38.760 | Riswynn] Yeah, back."
+      ],
+      "contextAfter": [
+        "[u2083 | 02:16:46.150-02:16:47.199 | Seeker] right?",
+        "[u2084 | 02:16:47.240-02:16:59.939 | Delwath] One of us, the 2 right secret could probably go to the realm of the as well. 2 corrections. Tim is telling me I misread his notes, and Vola did seem pretty different."
+      ],
+      "after": "Bahrâzel",
+      "group": "bahrazel",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2321:m1",
+      "uid": "u2321",
+      "ordinal": 1,
+      "lineNumber": 2321,
+      "start": 71,
+      "end": 80,
+      "before": "{{Laura}}",
+      "span": "Laura",
+      "line": "[u2321 | 02:35:36.040-02:35:38.459 | Delwath] I guarantee you, Speaker {{Laura}} is.",
+      "contextBefore": [
+        "[u2319 | 02:35:28.600-02:35:31.459 | Delwath] I'm going to read that letter again. What it what is.",
+        "[u2320 | 02:35:31.670-02:35:35.589 | Delwath] Speaker? I actually want? Wait. Who is my me. Well, you know what i'm not even going to ask."
+      ],
+      "contextAfter": [
+        "[u2322 | 02:35:38.490-02:35:42.990 | DM] Oh, I don't know I didn't actually totally fill in the notes of every.",
+        "[u2323 | 02:35:43.610-02:35:45.339 | DM] but you can usually figure it out for me."
+      ],
+      "after": "Lara",
+      "group": "lara",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2524:m1",
+      "uid": "u2524",
+      "ordinal": 1,
+      "lineNumber": 2524,
+      "start": 72,
+      "end": 84,
+      "before": "{{bars out}}",
+      "span": "bars out",
+      "line": "[u2524 | 02:52:31.110-02:52:36.510 | DM] steel carved with icons of the {{bars out}}, containing a scroll of the Resurrection spell.",
+      "contextBefore": [
+        "[u2522 | 02:52:19.590-02:52:26.370 | DM] A spell scroll in an elaborate iron case carved with Drankorian symbols, containing an ancient scroll of the teleport spell.",
+        "[u2523 | 02:52:27.440-02:52:31.049 | DM] a spell scroll in a heavy scroll case of good dwarven"
+      ],
+      "contextAfter": [
+        "[u2525 | 02:52:39.000-02:52:41.260 | DM] Now the Teleport you only have one",
+        "[u2526 | 02:52:41.290-02:52:43.649 | DM] casting of it, so it's one way."
+      ],
+      "after": "Bahrâzel",
+      "group": "bahrazel",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2947:m1",
+      "uid": "u2947",
+      "ordinal": 1,
+      "lineNumber": 2947,
+      "start": 44,
+      "end": 52,
+      "before": "{{Para}}",
+      "span": "Para",
+      "line": "[u2947 | 03:21:40.950-03:21:46.020 | Kenzo] {{Para}}, and there's like No, there were no scouts. There was no activity. All right. Got it?",
+      "contextBefore": [
+        "[u2945 | 03:21:27.240-03:21:33.490 | Delwath] They didn't seem to have any strategy like there was nothing I could sense that they were trying to get to Shakun's barrier like it just",
+        "[u2946 | 03:21:33.610-03:21:40.519 | Delwath] they were oriented that direction. There were no I mean you scryed a few random places between Kharsan and"
+      ],
+      "contextAfter": [
+        "[u2948 | 03:21:46.210-03:21:46.930 | Unknown] Okay.",
+        "[u2949 | 03:21:47.710-03:21:48.970 | DM] you know"
+      ],
+      "after": "Karawa",
+      "group": "karawa",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2950:m1",
+      "uid": "u2950",
+      "ordinal": 1,
+      "lineNumber": 2950,
+      "start": 48,
+      "end": 66,
+      "before": "{{Hava and Ivras}}",
+      "span": "Hava and Ivras",
+      "line": "[u2950 | 03:21:49.900-03:21:54.300 | DM] which. {{Hava and Ivras}} haven't popped up in Karawa, being like",
+      "contextBefore": [
+        "[u2948 | 03:21:46.210-03:21:46.930 | Unknown] Okay.",
+        "[u2949 | 03:21:47.710-03:21:48.970 | DM] you know"
+      ],
+      "contextAfter": [
+        "[u2951 | 03:21:54.320-03:21:57.149 | DM] there's a few the Orcs marching our way.",
+        "[u2952 | 03:21:58.060-03:22:01.389 | Kenzo] Why would you need an army to find? Would you need an army to find an artifact."
+      ],
+      "after": "Pava and Avaras",
+      "group": "pava-avaras",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u3127:m1",
+      "uid": "u3127",
+      "ordinal": 1,
+      "lineNumber": 3127,
+      "start": 137,
+      "end": 146,
+      "before": "{{Tachy}}",
+      "span": "Tachy",
+      "line": "[u3127 | 03:34:48.620-03:34:55.630 | Delwath] tricked the hobgoblins basically tricked the hobgoblin leaders into coming back, freed the {{Tachy}} who was stuck there",
+      "contextBefore": [
+        "[u3125 | 03:34:40.270-03:34:46.109 | Delwath] Oh, I see this is Delwath actually put it on. Teleported into the shadow dimension",
+        "[u3126 | 03:34:46.270-03:34:48.080 | Delwath] that it's connected to"
+      ],
+      "contextAfter": [
+        "[u3128 | 03:34:55.820-03:35:09.339 | Delwath] and then killed the hobgoblin wizard who was the leader of the hobgoblins while leaving the I forget how I did that. That was you. You cast Banish on yourself. Oh, I cast Banish on myself. Right? It was brilliant. I cast banish on myself",
+        "[u3129 | 03:35:09.450-03:35:13.430 | Delwath] to send myself from the shadow plane back to the my home plane."
+      ],
+      "after": "tanshi",
+      "group": "tanshi",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u3170:m1",
+      "uid": "u3170",
+      "ordinal": 1,
+      "lineNumber": 3170,
+      "start": 137,
+      "end": 150,
+      "before": "{{both. Gar}}",
+      "span": "both. Gar",
+      "line": "[u3170 | 03:38:33.070-03:38:39.960 | Seeker] you do. Who else do we still know in Chardon? That's still there? Well, my, Seeker's friend {{both. Gar}}. Let's go.",
+      "contextBefore": [
+        "[u3168 | 03:38:26.980-03:38:27.690 | Unknown] No.",
+        "[u3169 | 03:38:28.090-03:38:32.790 | Seeker] we do know people in Chardon that we can ask for favors, though"
+      ],
+      "contextAfter": [
+        "[u3171 | 03:38:41.600-03:38:45.060 | DM] Roscelia was kind of friendly with you.",
+        "[u3172 | 03:38:47.580-03:38:48.310 | DM] What"
+      ],
+      "after": "Ulfgar",
+      "group": "ulfgar",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u0815": {
+      "before": "[u0815 | 00:56:32.190-00:56:34.470 | Delwath] 6 of the {{Missouri}} we freed\n",
+      "after": "[u0815 | 00:56:32.190-00:56:34.470 | Delwath] 6 of the Meswati we freed\n"
+    },
+    "u0817": {
+      "before": "[u0817 | 00:56:36.590-00:56:39.930 | Delwath] of the lost Deno'qai {{tashi}} gods.\n",
+      "after": "[u0817 | 00:56:36.590-00:56:39.930 | Delwath] of the lost Deno'qai tanshi gods.\n"
+    },
+    "u0086": {
+      "before": "[u0086 | 00:05:32.210-00:05:37.600 | Delwath] he's wearing brightly colored Deno'qai armor like a {{den of the}}\n",
+      "after": "[u0086 | 00:05:32.210-00:05:37.600 | Delwath] he's wearing brightly colored Deno'qai armor like a Deno'qai\n"
+    },
+    "u2082": {
+      "before": "[u2082 | 02:16:38.790-02:16:45.970 | Riswynn] {{pass on to her}} and get the chalice. Then we can all go to the realm. The {{Bahar is out}} and have conversations\n",
+      "after": "[u2082 | 02:16:38.790-02:16:45.970 | Riswynn] {{pass on to her}} and get the chalice. Then we can all go to the realm. The Bahrâzel and have conversations\n"
+    },
+    "u0801": {
+      "before": "[u0801 | 00:54:37.510-00:54:56.309 | Delwath] So it's. So, the Deno'qai said. The battle site of the Battle of {{Dark File}}, the vast body of a dead demon and it was humanoid, but the size of 30 feet from head to toe.\n",
+      "after": "[u0801 | 00:54:37.510-00:54:56.309 | Delwath] So it's. So, the Deno'qai said. The battle site of the Battle of Darkfire, the vast body of a dead demon and it was humanoid, but the size of 30 feet from head to toe.\n"
+    },
+    "u1715": {
+      "before": "[u1715 | 01:53:43.480-01:53:46.030 | Delwath] have {{turned out}} {{mezzars}}\n",
+      "after": "[u1715 | 01:53:43.480-01:53:46.030 | Delwath] have {{turned out}} Mezzar's\n"
+    },
+    "u1726": {
+      "before": "[u1726 | 01:54:19.610-01:54:24.599 | Delwath] where is this {{Mesar}} person? {{Mesar}} was the was the dragon.\n",
+      "after": "[u1726 | 01:54:19.610-01:54:24.599 | Delwath] where is this Mezzar person? Mezzar was the was the dragon.\n"
+    },
+    "u0376": {
+      "before": "[u0376 | 00:25:55.740-00:26:01.429 | Delwath] It was the only way to free one of the one of the one of these {{Maswati}}. One of these trapped gods, was to.\n",
+      "after": "[u0376 | 00:25:55.740-00:26:01.429 | Delwath] It was the only way to free one of the one of the one of these Meswati. One of these trapped gods, was to.\n"
+    },
+    "u1719": {
+      "before": "[u1719 | 01:53:57.110-01:54:00.790 | Delwath] belief that {{Mesar}} was a malignant power\n",
+      "after": "[u1719 | 01:53:57.110-01:54:00.790 | Delwath] belief that Mezzar was a malignant power\n"
+    },
+    "u2950": {
+      "before": "[u2950 | 03:21:49.900-03:21:54.300 | DM] which. {{Hava and Ivras}} haven't popped up in Karawa, being like\n",
+      "after": "[u2950 | 03:21:49.900-03:21:54.300 | DM] which. Pava and Avaras haven't popped up in Karawa, being like\n"
+    },
+    "u2524": {
+      "before": "[u2524 | 02:52:31.110-02:52:36.510 | DM] steel carved with icons of the {{bars out}}, containing a scroll of the Resurrection spell.\n",
+      "after": "[u2524 | 02:52:31.110-02:52:36.510 | DM] steel carved with icons of the Bahrâzel, containing a scroll of the Resurrection spell.\n"
+    },
+    "u0800": {
+      "before": "[u0800 | 00:54:34.940-00:54:37.419 | Delwath] it was at the battle of {{Dark Fire}}.\n",
+      "after": "[u0800 | 00:54:34.940-00:54:37.419 | Delwath] it was at the battle of Darkfire.\n"
+    },
+    "u1918": {
+      "before": "[u1918 | 02:06:05.980-02:06:11.080 | Seeker] Where did the sword come from? Again? He got it from {{Akatan}} gave it to him.\n",
+      "after": "[u1918 | 02:06:05.980-02:06:11.080 | Seeker] Where did the sword come from? Again? He got it from Agata gave it to him.\n"
+    },
+    "u1469": {
+      "before": "[u1469 | 01:37:48.780-01:37:51.030 | Riswynn] that the {{Baha cells}}\n",
+      "after": "[u1469 | 01:37:48.780-01:37:51.030 | Riswynn] that the Bahrâzel\n"
+    },
+    "u2947": {
+      "before": "[u2947 | 03:21:40.950-03:21:46.020 | Kenzo] {{Para}}, and there's like No, there were no scouts. There was no activity. All right. Got it?\n",
+      "after": "[u2947 | 03:21:40.950-03:21:46.020 | Kenzo] Karawa, and there's like No, there were no scouts. There was no activity. All right. Got it?\n"
+    },
+    "u0834": {
+      "before": "[u0834 | 00:57:45.990-00:57:53.559 | Delwath] that was my tale. I then spent quite some time, both with the Deno'qai. Learning more of these {{ta she}}\n",
+      "after": "[u0834 | 00:57:45.990-00:57:53.559 | Delwath] that was my tale. I then spent quite some time, both with the Deno'qai. Learning more of these tanshi\n"
+    },
+    "u0357": {
+      "before": "[u0357 | 00:24:48.130-00:24:49.640 | Kenzo] The {{Missouri}} they're called.\n",
+      "after": "[u0357 | 00:24:48.130-00:24:49.640 | Kenzo] The Meswati they're called.\n"
+    },
+    "u3170": {
+      "before": "[u3170 | 03:38:33.070-03:38:39.960 | Seeker] you do. Who else do we still know in Chardon? That's still there? Well, my, Seeker's friend {{both. Gar}}. Let's go.\n",
+      "after": "[u3170 | 03:38:33.070-03:38:39.960 | Seeker] you do. Who else do we still know in Chardon? That's still there? Well, my, Seeker's friend Ulfgar. Let's go.\n"
+    },
+    "u3127": {
+      "before": "[u3127 | 03:34:48.620-03:34:55.630 | Delwath] tricked the hobgoblins basically tricked the hobgoblin leaders into coming back, freed the {{Tachy}} who was stuck there\n",
+      "after": "[u3127 | 03:34:48.620-03:34:55.630 | Delwath] tricked the hobgoblins basically tricked the hobgoblin leaders into coming back, freed the tanshi who was stuck there\n"
+    },
+    "u1248": {
+      "before": "[u1248 | 01:23:23.360-01:23:26.729 | DM] {{Elaya}} and Kenzo had when the jades met\n",
+      "after": "[u1248 | 01:23:23.360-01:23:26.729 | DM] Alayah and Kenzo had when the jades met\n"
+    },
+    "u2011": {
+      "before": "[u2011 | 02:12:33.600-02:12:36.130 | Delwath] somewhere. {{Antonia}}.\n",
+      "after": "[u2011 | 02:12:33.600-02:12:36.130 | Delwath] somewhere. Antonia.\n"
+    },
+    "u0694": {
+      "before": "[u0694 | 00:46:18.620-00:46:21.499 | Delwath] the the {{ta she of fire}}!\n",
+      "after": "[u0694 | 00:46:18.620-00:46:21.499 | Delwath] the the tanshi of fire!\n"
+    },
+    "u1399": {
+      "before": "[u1399 | 01:33:59.590-01:34:05.450 | Riswynn] cleric of the {{Parisel}}. But I regret that I have left you all\n",
+      "after": "[u1399 | 01:33:59.590-01:34:05.450 | Riswynn] cleric of the Bahrâzel. But I regret that I have left you all\n"
+    },
+    "u2321": {
+      "before": "[u2321 | 02:35:36.040-02:35:38.459 | Delwath] I guarantee you, Speaker {{Laura}} is.\n",
+      "after": "[u2321 | 02:35:36.040-02:35:38.459 | Delwath] I guarantee you, Speaker Lara is.\n"
+    },
+    "u0654": {
+      "before": "[u0654 | 00:44:07.130-00:44:13.080 | Delwath] was that these people kept alive the memory of what they called the {{Maswati}}, the lost gods.\n",
+      "after": "[u0654 | 00:44:07.130-00:44:13.080 | Delwath] was that these people kept alive the memory of what they called the Meswati, the lost gods.\n"
+    },
+    "u1736": {
+      "before": "[u1736 | 01:55:03.360-01:55:07.339 | Delwath] and much restored after the defeat of {{Mesar}}\n",
+      "after": "[u1736 | 01:55:03.360-01:55:07.339 | Delwath] and much restored after the defeat of Mezzar\n"
+    },
+    "u0354": {
+      "before": "[u0354 | 00:24:42.770-00:24:44.020 | Seeker] The {{mother's body}}.\n",
+      "after": "[u0354 | 00:24:42.770-00:24:44.020 | Seeker] The Meswati.\n"
+    },
+    "u1316": {
+      "before": "[u1316 | 01:28:00.450-01:28:06.009 | Wellby] who was just so lovely, Airion the {{wandering}}. That's a\n",
+      "after": "[u1316 | 01:28:00.450-01:28:06.009 | Wellby] who was just so lovely, Airion the Wanderer. That's a\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:17:37.017046+00:00",
+      "sha256": "48d6e869d5015c76500b18178965f4aa4fb38ba1cd07b34b6a428c74a4f70831"
+    }
+  ],
+  "runId": "20261028T041736915394Z-748feb0c",
+  "createdAt": "2026-10-28T04:17:36.915738+00:00"
+}

@@ -19,9 +19,9 @@
 [u0019 | 00:01:36.970-00:01:43.949 | DM] It's been 30 days since Kenzo 1st started having dreams of Apollyon's {{estate}}
 [u0020 | 00:01:45.880-00:01:53.440 | DM] while you were still in the far cold {{go averse}}, having just killed a vampire.
 [u0021 | 00:01:54.630-00:02:02.100 | DM] It's been 20 some odd days since he returned from the water with the
-[u0022 | 00:02:02.680-00:02:11.600 | DM] 4th of the 5 3rd of the 5 fragments, the 5 fragments of {{Jane}} that you were seeking.
-[u0023 | 00:02:13.050-00:02:24.150 | DM] It's been 10 days since {{Gladstorm}} was recovered from a Cha'mutte's prison on the {{Seaflora Island}}, defeated.
-[u0024 | 00:02:24.320-00:02:27.670 | DM] Cha'mutte's spawn the Black Dragon {{redempters}}
+[u0022 | 00:02:02.680-00:02:11.600 | DM] 4th of the 5 3rd of the 5 fragments, the 5 fragments of jade that you were seeking.
+[u0023 | 00:02:13.050-00:02:24.150 | DM] It's been 10 days since Cloudspinner was recovered from a Cha'mutte's prison on the Circular Island, defeated.
+[u0024 | 00:02:24.320-00:02:27.670 | DM] Cha'mutte's spawn the Black Dragon Ra'ghemdros
 [u0025 | 00:02:27.970-00:02:30.569 | DM] and put a new Emperor in charge
 [u0026 | 00:02:30.800-00:02:34.510 | DM] of the refuge of humans from Hkar.
 [u0027 | 00:02:36.240-00:02:40.809 | DM] It's been 8 days since you reached Drankor for the 1st time.
@@ -104,7 +104,7 @@
 [u0104 | 00:12:39.150-00:12:41.269 | Wellby] and the discovery of that is sort of
 [u0105 | 00:12:42.170-00:12:44.169 | Wellby] I don't know. It's given him a lot to think about.
 [u0106 | 00:12:45.410-00:12:51.309 | Wellby] But I think he's not putting up too much of a fight. He's mostly just letting Delwath wear himself out.
-[u0107 | 00:12:55.930-00:13:03.399 | Riswynn] Riswynn has been grateful to be back on Vindristjarna and in her shrine to the {{Biharazal}}, and
+[u0107 | 00:12:55.930-00:13:03.399 | Riswynn] Riswynn has been grateful to be back on Vindristjarna and in her shrine to the Bahrâzel, and
 [u0108 | 00:13:03.560-00:13:17.120 | Riswynn] feel that she is in a place of strength and support, to learn and and grow, to keep this
 [u0109 | 00:13:17.400-00:13:23.800 | Riswynn] power safe, to get advice from her gods, to.
 [u0110 | 00:13:24.550-00:13:30.340 | Riswynn] you know, rest and focus that you know we can together
@@ -222,7 +222,7 @@
 [u0222 | 00:25:01.610-00:25:06.609 | Delwath] How can we trust you that you are not a spy or another?
 [u0223 | 00:25:07.120-00:25:11.260 | Delwath] One of her enemies, trying to seek her whereabouts.
 [u0224 | 00:25:12.840-00:25:20.088 | DM] She kind of draws herself up sort of offended a little bit at this, and stands tall and and
-[u0225 | 00:25:20.880-00:25:28.949 | DM] almost indignant, and she says, how dare you? I am {{Illyrian}} lantern keeper of Redsun Watch.
+[u0225 | 00:25:20.880-00:25:28.949 | DM] almost indignant, and she says, how dare you? I am Lirien lantern keeper of Redsun Watch.
 [u0226 | 00:25:29.090-00:25:37.450 | DM] bearer of, as far as I know, the last Amberlight not captured by the evils on our borders by
 [u0227 | 00:25:38.540-00:25:44.100 | DM] the Gloomshaper by Harrow or Wend, and I will have you know
 [u0228 | 00:25:45.770-00:25:48.380 | DM] I have come to free the Cloudspinner.
@@ -247,7 +247,7 @@
 [u0247 | 00:27:08.000-00:27:08.500 | Delwath] M.
 [u0248 | 00:27:08.500-00:27:15.240 | DM] The entire vibe is like she's putting herself in what she thinks is basically a impossible situation.
 [u0249 | 00:27:16.340-00:27:19.169 | Delwath] What did she say? Heard what was her 1st title that she said.
-[u0250 | 00:27:19.170-00:27:23.209 | DM] {{Arian}}, the lantern keeper of Redsun Watch.
+[u0250 | 00:27:19.170-00:27:23.209 | DM] Lirien, the lantern keeper of Redsun Watch.
 [u0251 | 00:27:23.800-00:27:24.380 | Delwath] Okay.
 [u0252 | 00:27:25.840-00:27:28.209 | DM] Bearer of the last Amberlight.
 [u0253 | 00:27:32.160-00:27:38.115 | Delwath] Delwath will sort of nod to her and sort of open his hand Lantern Keeper.
@@ -370,14 +370,14 @@
 [u0370 | 00:37:09.350-00:37:10.160 | Seeker] Hi!
 [u0371 | 00:37:10.670-00:37:11.839 | Kenzo] How are you?
 [u0372 | 00:37:22.220-00:37:30.479 | DM] Okay, so let's return to Taelgar as Kenzo leads the
-[u0373 | 00:37:30.920-00:37:45.830 | DM] quickly fading, quickly desaturating Seeker off. Well, Wellby, Riswynn, and Delwath lead {{Lyrian}}
+[u0373 | 00:37:30.920-00:37:45.830 | DM] quickly fading, quickly desaturating Seeker off. Well, Wellby, Riswynn, and Delwath lead Lirien
 [u0374 | 00:37:48.590-00:37:54.429 | DM] lantern keeper of red—Redsun Keep—of Redsun Watch
 [u0375 | 00:37:54.530-00:37:59.050 | DM] into the storage room in the basement of
 [u0376 | 00:37:59.200-00:38:04.189 | DM] Vindristjarna, where, still encased in her crystal.
 [u0377 | 00:38:04.480-00:38:08.360 | DM] is, or crystal prison is the Cloudspinner
 [u0378 | 00:38:10.607-00:38:24.569 | DM] translucent, cannot like really clearly see her features, except the hair, that is the sort of brilliant golden hued, multicolored orange, red, yellow
-[u0379 | 00:38:24.700-00:38:39.349 | DM] hair, sort of long and kind of almost wrapped around her naked body. And this light that {{leery}}, is carrying flares, and it's even brighter as she steps into the hold.
-[u0380 | 00:38:39.460-00:38:42.520 | DM] and she, {{Learyan}}, falls to her knees.
+[u0379 | 00:38:24.700-00:38:39.349 | DM] hair, sort of long and kind of almost wrapped around her naked body. And this light that Lirien, is carrying flares, and it's even brighter as she steps into the hold.
+[u0380 | 00:38:39.460-00:38:42.520 | DM] and she, Lirien, falls to her knees.
 [u0381 | 00:38:44.470-00:38:46.850 | DM] and she looks up sort of in awe.
 [u0382 | 00:38:50.600-00:38:51.610 | DM] It is
 [u0383 | 00:38:57.430-00:39:04.319 | DM] blink. She sort of she's not dead.
@@ -404,7 +404,7 @@
 [u0404 | 00:41:03.510-00:41:10.350 | DM] I fled sort of starts sobbing quietly.
 [u0405 | 00:41:14.140-00:41:19.180 | DM] I don't know if anyone got out.
 [u0406 | 00:41:24.160-00:41:33.460 | DM] I was not even important. Just one of the lantern keepers wasn't like
-[u0407 | 00:41:34.280-00:41:40.320 | DM] {{Therian Duskward}}, or anybody who could fight the darkness.
+[u0407 | 00:41:34.280-00:41:40.320 | DM] Thyrian Duskward, or anybody who could fight the darkness.
 [u0408 | 00:41:43.750-00:41:50.179 | DM] but I didn't know what else to do. I had the Amberlight and I
 [u0409 | 00:41:50.500-00:41:53.229 | DM] ran when the keep was swallowed.
 [u0410 | 00:41:56.070-00:42:02.140 | Riswynn] And you've not had time to find any allies or other survivors.
@@ -523,7 +523,7 @@
 [u0523 | 00:53:10.330-00:53:13.360 | DM] Everybody gets into the room right now.
 [u0524 | 00:53:13.360-00:53:17.439 | Delwath] Well, hold on! Hold on! I want to tell the I wanna tell the person.
 [u0525 | 00:53:17.780-00:53:21.140 | DM] What's your name?
-[u0526 | 00:53:21.140-00:53:21.730 | Riswynn] {{Lorenne}}.
+[u0526 | 00:53:21.140-00:53:21.730 | Riswynn] Lirien.
 [u0527 | 00:53:21.730-00:53:22.505 | Delwath] That
 [u0528 | 00:53:24.840-00:53:25.730 | Riswynn] Have another fey.
 [u0529 | 00:53:25.730-00:53:30.569 | Delwath] We have a another presence seeking the Cloudspinner.
@@ -539,7 +539,7 @@
 [u0539 | 00:54:29.880-00:54:33.170 | DM] Who are you to dare? Keep me from my queen?
 [u0540 | 00:54:34.750-00:54:37.439 | DM] I insist we must go immediately.
 [u0541 | 00:54:38.620-00:54:40.599 | DM] My place is by her side.
-[u0542 | 00:54:43.000-00:54:51.409 | DM] and {{Lyrian}} just looks confused. The light, the Amberlight shining from her crystal lantern shows
+[u0542 | 00:54:43.000-00:54:51.409 | DM] and Lirien just looks confused. The light, the Amberlight shining from her crystal lantern shows
 [u0543 | 00:54:53.010-00:55:01.900 | DM] 2 people superimposed Seeker, and then on top, like superimposed on top of Seeker. There is a
 [u0544 | 00:55:02.746-00:55:05.030 | DM] sort of call
 [u0545 | 00:55:13.715-00:55:21.549 | DM] A tall, courtly woman, wearing like flowing gowns, with
@@ -550,14 +550,14 @@
 [u0550 | 00:55:55.120-00:56:01.430 | Riswynn] You have come to our home and your lady's name, we know, but yours. We do not.
 [u0551 | 00:56:02.860-00:56:08.309 | DM] I am Lady Eventide, and I demand to speak with the Cloudspinner immediately.
 [u0552 | 00:56:12.110-00:56:14.360 | DM] Don't just stand there.
-[u0553 | 00:56:14.780-00:56:19.090 | Riswynn] Does that ring a bell for {{Marianne}} at all.
+[u0553 | 00:56:14.780-00:56:19.090 | Riswynn] Does that ring a bell for Lirien at all.
 [u0554 | 00:56:21.364-00:56:23.636 | DM] Doesn't ring a bell for any of you.
 [u0555 | 00:56:26.140-00:56:29.109 | Delwath] Is it cheating to read the session notes about Lady Eventide.
 [u0556 | 00:56:29.840-00:56:32.340 | DM] Slightly. Yes, you're there.
 [u0557 | 00:56:33.030-00:56:36.687 | Wellby] Seeker's, the only one who would actually, who's actually there. Right?
 [u0558 | 00:56:37.020-00:56:41.839 | Wellby] I don't know what's the worst thing that can happen when they see each other. Let's see how it goes.
-[u0559 | 00:56:43.480-00:56:46.910 | Delwath] I'll look over at {{Larry}} and Lady Eventide.
-[u0560 | 00:56:48.580-00:56:55.940 | Delwath] I'll introduce. I'll introduce Lady Eventide to {{Larian}}, the keeper of the {{Fred}}.
+[u0559 | 00:56:43.480-00:56:46.910 | Delwath] I'll look over at Lirien and Lady Eventide.
+[u0560 | 00:56:48.580-00:56:55.940 | Delwath] I'll introduce. I'll introduce Lady Eventide to Lirien, the keeper of the {{Fred}}.
 [u0561 | 00:56:56.560-00:57:01.520 | Delwath] I remember her titles, but I've forgotten them in in Redsun Watch, Redsun.
 [u0562 | 00:57:01.520-00:57:04.590 | DM] And watch lantern lantern, keeper of Redsun Watch.
 [u0563 | 00:57:05.000-00:57:09.349 | Delwath] Are you familiar with Redsun Watch, too, Lady Eventide?
@@ -586,18 +586,18 @@
 [u0586 | 00:59:05.590-00:59:08.052 | Delwath] or has it taken you some time to
 [u0587 | 00:59:09.270-00:59:11.320 | Delwath] worm your way into our friend?
 [u0588 | 00:59:15.000-00:59:16.700 | DM] Minutes ago
-[u0589 | 00:59:26.620-00:59:38.309 | DM] she turns and she looks you, {{Lyrian}}, you said. Your name is where is where is {{Thyron}}? Where is
-[u0590 | 00:59:41.280-00:59:42.730 | DM] {{hilarious}}?
+[u0589 | 00:59:26.620-00:59:38.309 | DM] she turns and she looks you, Lirien, you said. Your name is where is where is Thyrian? Where is
+[u0590 | 00:59:41.280-00:59:42.730 | DM] Aelirios?
 [u0591 | 00:59:44.240-00:59:47.500 | DM] You have an Amberlight.
 [u0592 | 00:59:48.670-00:59:50.100 | DM] Where are the rest?
-[u0593 | 00:59:57.400-01:00:04.360 | DM] She turns {{Lyrian}} turns, and like breaking down in tears, I I think they're all dead.
+[u0593 | 00:59:57.400-01:00:04.360 | DM] She turns Lirien turns, and like breaking down in tears, I I think they're all dead.
 [u0594 | 01:00:05.440-01:00:10.970 | DM] Taken Gloomshaper took the Refuges
 [u0595 | 01:00:12.120-01:00:15.230 | DM] Harrow and Wend broke through the Sunset Gate
 [u0596 | 01:00:17.280-01:00:20.979 | DM] I fled. It's all falling apart, she says, in tears.
 [u0597 | 01:00:21.840-01:00:25.629 | Delwath] Delwath, like, you know, whisper to her like, you know
 [u0598 | 01:00:26.760-01:00:40.149 | Delwath] we can. We can fix this, you know. Don't don't I know it's that—like, a little encouraging like, you know. Don't, don't, don't despair, and you know, don't. Don't take this personally. She's just not, you know. She's just expressing her grief in her own way.
 [u0599 | 01:00:46.210-01:00:50.060 | DM] So 2 things happen at once. Again.
-[u0600 | 01:00:56.010-01:01:01.310 | DM] First, {{Lyrian}} yells in terror.
+[u0600 | 01:00:56.010-01:01:01.310 | DM] First, Lirien yells in terror.
 [u0601 | 01:01:02.600-01:01:04.480 | DM] My steed is in danger.
 [u0602 | 01:01:07.490-01:01:11.543 | DM] and begins running up the stairs, and then
 [u0603 | 01:01:12.310-01:01:15.119 | Delwath] We wake up Faldrak and get him to shoot the ice cannon at people
@@ -700,7 +700,7 @@
 [u0700 | 01:09:02.620-01:09:05.080 | Wellby] That was good that looks less friendly.
 [u0701 | 01:09:05.080-01:09:06.540 | DM] That's not all there is.
 [u0702 | 01:09:13.100-01:09:14.520 | Wellby] Trees growing nicely.
-[u0703 | 01:09:16.090-01:09:21.700 | DM] So then here's {{Marion}}. Here's amber stag.
+[u0703 | 01:09:16.090-01:09:21.700 | DM] So then here's Lirien. Here's amber stag.
 [u0704 | 01:09:22.010-01:09:29.249 | DM] {{No worries all Jack}}, running towards running from his
 [u0705 | 01:09:32.750-01:09:38.449 | DM] running towards the control tower at the moment.
 [u0706 | 01:09:46.840-01:09:54.460 | DM] Okay, go ahead and roll initiative. Well, I in this.
@@ -781,7 +781,7 @@
 [u0781 | 01:17:09.580-01:17:21.220 | DM] half of that. So 18 points of necrotic damage. Kenzo takes 0 points of necrotic damage as he ducks out of the way entirely. Faldrak is just beyond the edge of the
 [u0782 | 01:17:21.590-01:17:22.800 | DM] of the shape.
 [u0783 | 01:17:24.050-01:17:32.820 | DM] However, as the darkness swirls around the bodies of this golden Stag and
-[u0784 | 01:17:34.360-01:17:38.319 | DM] {{Lyrian}}, the shadows begin to climb over them, and as they
+[u0784 | 01:17:34.360-01:17:38.319 | DM] Lirien, the shadows begin to climb over them, and as they
 [u0785 | 01:17:38.920-01:17:45.299 | DM] both fall to the ground, their bodies disintegrate, and shades rise from their corpses.
 [u0786 | 01:17:50.420-01:17:51.350 | Riswynn] Okay.
 [u0787 | 01:17:52.810-01:17:53.880 | DM] Must have this.
@@ -850,7 +850,7 @@
 [u0850 | 01:22:40.140-01:22:40.880 | Kenzo] 22.
 [u0851 | 01:22:41.490-01:22:42.060 | DM] Okay,
 [u0852 | 01:22:45.010-01:22:46.589 | DM] I'll just draw an X.
-[u0853 | 01:22:48.530-01:22:58.020 | DM] Oh, and the the Amberlight went out when the darkness hit {{Lyrian}}.
+[u0853 | 01:22:48.530-01:22:58.020 | DM] Oh, and the the Amberlight went out when the darkness hit Lirien.
 [u0854 | 01:22:58.310-01:22:59.729 | Riswynn] That was very upsetting.
 [u0855 | 01:22:59.980-01:23:01.710 | DM] This light source is gone.
 [u0856 | 01:23:06.910-01:23:12.699 | DM] Okay, yeah, nothing. You succeed on your constitution saving throw nothing happens. Go ahead.
@@ -1061,7 +1061,7 @@
 [u1061 | 01:35:48.100-01:35:48.600 | Delwath] Riswynn.
 [u1062 | 01:35:48.600-01:35:54.206 | DM] Creature that's attacking Wellby as it swings its blade at you, hitting you 3 times,
 [u1063 | 01:35:54.980-01:36:04.490 | DM] says. And you can see now that in inside the interior of this shadowy cloud there's the same sort of thing that
-[u1064 | 01:36:05.070-01:36:17.029 | DM] the the same sort of golden lantern, like thing that the {{Lyrion}} was holding before she was destroyed and turned into a shadow. But it's all twisted with black.
+[u1064 | 01:36:05.070-01:36:17.029 | DM] the the same sort of golden lantern, like thing that the Lirien was holding before she was destroyed and turned into a shadow. But it's all twisted with black.
 [u1065 | 01:36:17.030-01:36:17.680 | Wellby] Oh, yeah.
 [u1066 | 01:36:18.760-01:36:25.820 | DM] With black tendrils of shadow, and the light is out, but it's it's thumping almost like a heart.
 [u1067 | 01:36:26.140-01:36:30.769 | DM] and he says the Cloudspinner will not be allowed to return.
@@ -1415,7 +1415,7 @@
 [u1415 | 02:01:02.540-02:01:05.229 | DM] 2 attacks missed. The 3rd attack hits.
 [u1416 | 02:01:05.640-02:01:08.279 | Wellby] Good you mean that's good is what you mean.
 [u1417 | 02:01:08.280-02:01:11.610 | DM] Wait! Wait! I don't get my reaction back until my turn.
-[u1418 | 02:01:12.350-02:01:20.359 | DM] That's another 13, 18 points of damage to Kenzo, and that ends the {{wind shades}} turn
+[u1418 | 02:01:12.350-02:01:20.359 | DM] That's another 13, 18 points of damage to Kenzo, and that ends the Wendshade's turn
 [u1419 | 02:01:21.912-02:01:27.650 | DM] the shades now will run towards.
 [u1420 | 02:01:28.870-02:01:31.650 | DM] You're not gonna be able to do anything against this one.
 [u1421 | 02:01:32.120-02:01:34.250 | Delwath] But they're mindless creatures.
@@ -2306,7 +2306,7 @@
 [u2306 | 03:03:14.210-03:03:20.780 | DM] the same ones who attacked the Redsun Watch and
 [u2307 | 03:03:21.150-03:03:27.060 | DM] sent rivers of darkness oozing through the cracks in the Sunset Gate are defeated.
 [u2308 | 03:03:29.200-03:03:38.840 | DM] Seeker turns back from a giant ape into the Lady Eventide, distraught
-[u2309 | 03:03:39.180-03:03:46.369 | DM] both by the seemingly irreversible death of {{Lyrian}} and her stag, and by the
+[u2309 | 03:03:39.180-03:03:46.369 | DM] both by the seemingly irreversible death of Lirien and her stag, and by the
 [u2310 | 03:03:52.830-03:03:59.360 | DM] and as it is 1220, in the interest of time rather than role playing it out, she in her distraught.
 [u2311 | 03:03:59.760-03:04:07.380 | DM] high-pitched, semi-Seeker voice seems very agitated and basically says
 [u2312 | 03:04:07.970-03:04:10.030 | DM] they will keep coming. We have to

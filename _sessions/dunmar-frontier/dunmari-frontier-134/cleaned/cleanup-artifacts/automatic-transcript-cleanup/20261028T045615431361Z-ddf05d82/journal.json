@@ -1,0 +1,284 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-134",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-source-cleaned.md",
+  "beforeSha256": "37c805d8e56ff44c476594b0291b133d8e9a0717d823433905976bef7c19db47",
+  "afterSha256": "d36a95579407b37751866fdcbf48fe0992cc9fa1878fec785caa47903b3b661d",
+  "markersBefore": 16,
+  "groups": [
+    {
+      "id": "delwath-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The next speaker explicitly discusses Delwath and the centaur, but the complete marked phrase includes more than a recognizable name. Its remaining wording cannot be recovered within this name-only pass.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 82 (DuFr).md",
+          "sha256": "8ee8509c4fa648adc4650697d4f85c0a4c32670f666f2bc91984dfae17b6cbb9"
+        }
+      ],
+      "candidates": [
+        "Delwath"
+      ],
+      "markerIds": [
+        "u1327:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1327:m1": "{{Delta's 11.}}"
+      }
+    },
+    {
+      "id": "isingue-question",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The Heartroot's former home makes Isingue a plausible name inside this question, but the complete marked wording cannot be resolved as a plain name without reconstructing the question.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Upper Istaros/Isingue.md",
+          "sha256": "9dd8e07e7e3abf5dcef2c06322c42e12c698ebd07a8c7d196dc591d0db45d790"
+        }
+      ],
+      "candidates": [
+        "Isingue"
+      ],
+      "markerIds": [
+        "u0256:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0256:m1": "{{He's a guy. Isn't he?}}"
+      }
+    },
+    {
+      "id": "kenzos-player",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The DM addresses the player who can decide Kenzo's actions. The session participant mapping uniquely identifies David Kong as Kenzo's player; Kong is favored over Tom, who is not a listed participant.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-134/cleaned/dunmari-frontier-134-session.yaml",
+          "sha256": "0cafbde5902299e0f941c8752a003797bd65ab66853b5aa1e3c4c9c64a0ddb63"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1322:m1"
+      ],
+      "replacements": {
+        "u1322:m1": "Kong"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ley-line-boundary",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Ley Lines is clearly the topic and the reference confirms the early homebrew discussion, but the marked route may represent additional wording. The complete span cannot safely be reduced to a term or replaced by a feat title.",
+      "evidence": [
+        {
+          "path": "Cosmology/Planar Concepts/Ley Lines.md",
+          "sha256": "0f3243d0841c42f9ca242f8cccecb6f48f50b746f50cc53828f29f767815f682"
+        }
+      ],
+      "candidates": [
+        "Ley Lines"
+      ],
+      "markerIds": [
+        "u0757:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0757:m1": "{{Ley Line's route}}"
+      }
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "These spans contain ordinary wording, questions, rules or numeric discussion, rather than complete identifiable names or setting terms. In particular Everyone occurs in an explanation of the research options and is not established as a named facility. Retain all wording unchanged.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0253:m1",
+        "u0255:m1",
+        "u0272:m1",
+        "u0301:m1",
+        "u0922:m1",
+        "u1040:m1",
+        "u1200:m1",
+        "u1363:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0253:m1": "{{how it didn't appear}}",
+        "u0255:m1": "{{Who's playing this?}}",
+        "u0272:m1": "{{in the long heart}}",
+        "u0301:m1": "{{I was}}",
+        "u0922:m1": "{{take a crack out of his prison}}",
+        "u1040:m1": "{{Everyone}}",
+        "u1200:m1": "{{I could spell that}}",
+        "u1363:m1": "{{2 is the one, but I used to.}}"
+      }
+    },
+    {
+      "id": "possible-beryl-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The preceding vision concerns Rai speaking to a friend in the sky, so Beryl may underlie barrel, but the rest of the marked sentence is unclear. A whole-span name replacement would discard or reconstruct ordinary wording.",
+      "evidence": [
+        {
+          "path": "People/PCs/Great War/Beryl.md",
+          "sha256": "6d249218723c23e817872f06cdab198c9de5ebb5b68a9036324fb2bed6be0d8e"
+        }
+      ],
+      "candidates": [
+        "Beryl"
+      ],
+      "markerIds": [
+        "u0530:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0530:m1": "{{It's a barrel to talk to us.}}"
+      }
+    },
+    {
+      "id": "rai-fragment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The surrounding discussion is about contacting Rai and the other monks, but Rise of 2. contains additional unrecoverable words or a number. Retain the complete phrase rather than reconstruct it.",
+      "evidence": [],
+      "candidates": [
+        "Rai"
+      ],
+      "markerIds": [
+        "u1068:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1068:m1": "{{Rise of 2.}}"
+      }
+    },
+    {
+      "id": "tollen-love-interest",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The following centaur banter concerns Delwath, making Delwath's plausible, but Beryl is also a real character in this conversation and could be a spoken name slip. The sources establish identities, not which name was actually spoken here.",
+      "evidence": [
+        {
+          "path": "People/PCs/Great War/Beryl.md",
+          "sha256": "6d249218723c23e817872f06cdab198c9de5ebb5b68a9036324fb2bed6be0d8e"
+        },
+        {
+          "path": "People/Other Nonhumans/Aurelia.md",
+          "sha256": "09235fc849aee53edc37e2b694e1aee254eb6e96e4e04e11035a259e27eae63d"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 82 (DuFr).md",
+          "sha256": "8ee8509c4fa648adc4650697d4f85c0a4c32670f666f2bc91984dfae17b6cbb9"
+        }
+      ],
+      "candidates": [
+        "Delwath's",
+        "Beryl's"
+      ],
+      "markerIds": [
+        "u1325:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1325:m1": "{{Beryl's}}"
+      }
+    },
+    {
+      "id": "urlich-monastery",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The speaker asks about the site of Cha'mutte's death, then immediately says Urlich Pass. Urlich Monastery is the attested name matching the first attempted place name; preserve the following self-correction unchanged.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Central Highlands/Urlich Pass.md",
+          "sha256": "fc9e748e71faee109343791a6ae7d37b584e3c12b848d1ae38c069fa52feb531"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0939:m1"
+      ],
+      "replacements": {
+        "u0939:m1": "Urlich Monastery"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0939:m1",
+      "uid": "u0939",
+      "ordinal": 1,
+      "lineNumber": 939,
+      "start": 80,
+      "end": 98,
+      "before": "{{Ehrlich Modest}}",
+      "span": "Ehrlich Modest",
+      "line": "[u0939 | 01:22:43.830-01:22:49.639 | Delwath] So do we need to go to, like, the {{Ehrlich Modest}}… Urlich Pass, and, like… that's probably…",
+      "contextBefore": [
+        "[u0937 | 01:22:36.790-01:22:42.129 | Delwath] caused this… Cha'mutte's death caused this wound, right? Did it?",
+        "[u0938 | 01:22:42.130-01:22:43.830 | DM] Yes. Yeah, yeah, yeah."
+      ],
+      "contextAfter": [
+        "[u0940 | 01:22:50.140-01:22:52.059 | Delwath] That's nearby here, right?",
+        "[u0941 | 01:22:52.970-01:22:53.880 | Wellby] Ish?"
+      ],
+      "after": "Urlich Monastery",
+      "group": "urlich-monastery",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1322:m1",
+      "uid": "u1322",
+      "ordinal": 1,
+      "lineNumber": 1322,
+      "start": 41,
+      "end": 48,
+      "before": "{{Tom}}",
+      "span": "Tom",
+      "line": "[u1322 | 01:52:46.840-01:52:50.450 | DM] {{Tom}} can decide if Kenzo wants to reconnect with that.",
+      "contextBefore": [
+        "[u1320 | 01:52:43.400-01:52:45.630 | DM] No, but people in Tollen like you.",
+        "[u1321 | 01:52:45.910-01:52:46.839 | Delwath] Yeah, and we have, like."
+      ],
+      "contextAfter": [
+        "[u1323 | 01:52:52.580-01:52:52.920 | Kenzo] Oh, yeah.",
+        "[u1324 | 01:52:52.920-01:52:53.740 | Delwath] What's her name?"
+      ],
+      "after": "Kong",
+      "group": "kenzos-player",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u1322": {
+      "before": "[u1322 | 01:52:46.840-01:52:50.450 | DM] {{Tom}} can decide if Kenzo wants to reconnect with that.\n",
+      "after": "[u1322 | 01:52:46.840-01:52:50.450 | DM] Kong can decide if Kenzo wants to reconnect with that.\n"
+    },
+    "u0939": {
+      "before": "[u0939 | 01:22:43.830-01:22:49.639 | Delwath] So do we need to go to, like, the {{Ehrlich Modest}}… Urlich Pass, and, like… that's probably…\n",
+      "after": "[u0939 | 01:22:43.830-01:22:49.639 | Delwath] So do we need to go to, like, the Urlich Monastery… Urlich Pass, and, like… that's probably…\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:56:15.450322+00:00",
+      "sha256": "d36a95579407b37751866fdcbf48fe0992cc9fa1878fec785caa47903b3b661d"
+    }
+  ],
+  "runId": "20261028T045615431361Z-ddf05d82",
+  "createdAt": "2026-10-28T04:56:15.431722+00:00"
+}

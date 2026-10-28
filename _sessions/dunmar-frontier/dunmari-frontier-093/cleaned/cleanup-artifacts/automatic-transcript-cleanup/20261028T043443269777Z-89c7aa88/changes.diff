@@ -1,0 +1,210 @@
+--- before/u0005
++++ after/u0005
+@@ -1 +1 @@
+-[u0005 | 00:00:42.030-00:00:54.150 | DM] see, here's an example of a failure state that would have been fun. You should have lost the mirror because the floating coin expired, and you were lost in {{Hoggard's}} storm when you were leaving, and it should have just fallen.
++[u0005 | 00:00:42.030-00:00:54.150 | DM] see, here's an example of a failure state that would have been fun. You should have lost the mirror because the floating coin expired, and you were lost in Hralgar's storm when you were leaving, and it should have just fallen.
+--- before/u0022
++++ after/u0022
+@@ -1 +1 @@
+-[u0022 | 00:02:34.910-00:02:39.680 | DM] through the northern part of northern and central interior of {{Austo}}.
++[u0022 | 00:02:34.910-00:02:39.680 | DM] through the northern part of northern and central interior of Vostok.
+--- before/u0023
++++ after/u0023
+@@ -1 +1 @@
+-[u0023 | 00:02:40.220-00:02:45.689 | Unknown] across the {{Shivno Mountains}}, where the frost giants live, and then stretching far into the east.
++[u0023 | 00:02:40.220-00:02:45.689 | Unknown] across the Svinjo Mountains, where the frost giants live, and then stretching far into the east.
+--- before/u0026
++++ after/u0026
+@@ -1 +1 @@
+-[u0026 | 00:02:49.750-00:02:53.760 | DM] Along the river valley of the great northern river {{Pad}}.
++[u0026 | 00:02:49.750-00:02:53.760 | DM] Along the river valley of the great northern river Ket.
+--- before/u0033
++++ after/u0033
+@@ -1 +1 @@
+-[u0033 | 00:03:21.570-00:03:25.349 | DM] of a kind, anyway, under the rule of {{Bjarn Frost}}, the mighty
++[u0033 | 00:03:21.570-00:03:25.349 | DM] of a kind, anyway, under the rule of Bjarnfrost, the mighty
+--- before/u0037
++++ after/u0037
+@@ -1 +1 @@
+-[u0037 | 00:03:41.930-00:03:49.740 | DM] But then Vim Frost rose, and the dragonspawn spread. {{Bjarn Frost}} fell in battle, and the peace was shattered.
++[u0037 | 00:03:41.930-00:03:49.740 | DM] But then Vim Frost rose, and the dragonspawn spread. Bjarnfrost fell in battle, and the peace was shattered.
+--- before/u0048
++++ after/u0048
+@@ -1 +1 @@
+-[u0048 | 00:04:48.650-00:04:55.970 | DM] {{Brim Scara}} rules over the dwarves and the stoneborn in a harsh kingdom of servitude.
++[u0048 | 00:04:48.650-00:04:55.970 | DM] Brimskarda rules over the dwarves and the stoneborn in a harsh kingdom of servitude.
+--- before/u0197
++++ after/u0197
+@@ -1 +1 @@
+-[u0197 | 00:18:22.300-00:18:26.209 | Seeker] {{Tolwen}} red robes, and he's also kind of
++[u0197 | 00:18:22.300-00:18:26.209 | Seeker] Tollen red robes, and he's also kind of
+--- before/u0331
++++ after/u0331
+@@ -1 +1 @@
+-[u0331 | 00:30:43.320-00:30:52.910 | DM] in {{Vena}}. So yeah, I think it's fine. You do it diagonally. 150 foot cube. The diagonal dimension is gonna be longer than either.
++[u0331 | 00:30:43.320-00:30:52.910 | DM] in Vetta. So yeah, I think it's fine. You do it diagonally. 150 foot cube. The diagonal dimension is gonna be longer than either.
+--- before/u0411
++++ after/u0411
+@@ -1 +1 @@
+-[u0411 | 00:37:29.010-00:37:34.490 | DM] {{Bjarn Frost}} was mighty warrior and king. and a noble spirit.
++[u0411 | 00:37:29.010-00:37:34.490 | DM] Bjarnfrost was mighty warrior and king. and a noble spirit.
+--- before/u0440
++++ after/u0440
+@@ -1 +1 @@
+-[u0440 | 00:40:10.250-00:40:18.419 | Kenzo] like the whole Pandemonium thing is that like we're kind of worried about like stuff from like Pandemonium coming here because of {{Busto}}. Is that like a thing
++[u0440 | 00:40:10.250-00:40:18.419 | Kenzo] like the whole Pandemonium thing is that like we're kind of worried about like stuff from like Pandemonium coming here because of Fausto. Is that like a thing
+--- before/u0468
++++ after/u0468
+@@ -1 +1 @@
+-[u0468 | 00:42:29.650-00:42:43.479 | Delwath] how they track years. I'll I'll then re repeat. I never made it up. They probably don't use. Well, Delwath will say 1,749 in the {{Jacquard}} reckoning or something, as your people track the years
++[u0468 | 00:42:29.650-00:42:43.479 | Delwath] how they track years. I'll I'll then re repeat. I never made it up. They probably don't use. Well, Delwath will say 1,749 in the Drankorian reckoning or something, as your people track the years
+--- before/u0544
++++ after/u0544
+@@ -1 +1 @@
+-[u0544 | 00:49:14.280-00:49:17.260 | DM] Yazali, one of the {{Maslati}}.
++[u0544 | 00:49:14.280-00:49:17.260 | DM] Yazali, one of the meswati.
+--- before/u0548
++++ after/u0548
+@@ -1 +1 @@
+-[u0548 | 00:49:27.730-00:49:31.629 | Delwath] I freed them. Fact, the shrine is to the {{mesmanti}}.
++[u0548 | 00:49:27.730-00:49:31.629 | Delwath] I freed them. Fact, the shrine is to the meswati.
+--- before/u0614
++++ after/u0614
+@@ -1 +1 @@
+-[u0614 | 00:55:17.210-00:55:27.439 | DM] So you know, as a {{Lock-in}} monk you trained in the {{Lock-in}} monastery, and you had, you know, youth.
++[u0614 | 00:55:17.210-00:55:27.439 | DM] So you know, as a Lakan monk you trained in the Lakan monastery, and you had, you know, youth.
+--- before/u0748
++++ after/u0748
+@@ -1 +1 @@
+-[u0748 | 01:09:59.230-01:10:04.229 | DM] who has spent so little time in our country could see the {{Zaria}}.
++[u0748 | 01:09:59.230-01:10:04.229 | DM] who has spent so little time in our country could see the Zariya.
+--- before/u0750
++++ after/u0750
+@@ -1 +1 @@
+-[u0750 | 01:10:09.170-01:10:10.719 | Kenzo] {{Zaria}}.
++[u0750 | 01:10:09.170-01:10:10.719 | Kenzo] Zariya.
+--- before/u0763
++++ after/u0763
+@@ -1 +1 @@
+-[u0763 | 01:11:06.790-01:11:08.899 | DM] The {{Zaria}} have lived here for
++[u0763 | 01:11:06.790-01:11:08.899 | DM] The Zariya have lived here for
+--- before/u0768
++++ after/u0768
+@@ -1 +1 @@
+-[u0768 | 01:11:33.310-01:11:35.710 | DM] of the {{Zaria}}, protecting.
++[u0768 | 01:11:33.310-01:11:35.710 | DM] of the Zariya, protecting.
+--- before/u0778
++++ after/u0778
+@@ -1 +1 @@
+-[u0778 | 01:12:24.360-01:12:30.750 | DM] {{Eric}}. He'll talk your ear off about the {{Zaria}} for
++[u0778 | 01:12:24.360-01:12:30.750 | DM] {{Eric}}. He'll talk your ear off about the Zariya for
+--- before/u0788
++++ after/u0788
+@@ -1 +1 @@
+-[u0788 | 01:13:10.220-01:13:16.580 | Kenzo] his sleeves over to like, reveal, reveal the tattoos of a you know kind of the parts of {{Mattubota}}. And
++[u0788 | 01:13:10.220-01:13:16.580 | Kenzo] his sleeves over to like, reveal, reveal the tattoos of a you know kind of the parts of Motua. And
+--- before/u0808
++++ after/u0808
+@@ -1 +1 @@
+-[u0808 | 01:14:56.060-01:14:59.420 | Delwath] So as as Kenzo is discussing the {{Zaria}}.
++[u0808 | 01:14:56.060-01:14:59.420 | Delwath] So as as Kenzo is discussing the Zariya.
+--- before/u0902
++++ after/u0902
+@@ -1 +1 @@
+-[u0902 | 01:24:05.140-01:24:07.880 | DM] attack {{some Bara}}. but
++[u0902 | 01:24:05.140-01:24:07.880 | DM] attack Sembara. but
+--- before/u0960
++++ after/u0960
+@@ -1 +1 @@
+-[u0960 | 01:28:50.400-01:28:54.000 | DM] befriend the {{Zaria}}. They're not
++[u0960 | 01:28:50.400-01:28:54.000 | DM] befriend the Zariya. They're not
+--- before/u0962
++++ after/u0962
+@@ -1 +1 @@
+-[u0962 | 01:29:05.280-01:29:10.870 | DM] many of our people. In the bad days after {{Bjarn Frost}} fell.
++[u0962 | 01:29:05.280-01:29:10.870 | DM] many of our people. In the bad days after Bjarnfrost fell.
+--- before/u0974
++++ after/u0974
+@@ -1 +1 @@
+-[u0974 | 01:29:59.730-01:30:10.599 | Delwath] are those? I mean, actually, out of an honest curiosity like, as this rant winds down? I've been been wondering if the {{Zaria}}, are anything like the
++[u0974 | 01:29:59.730-01:30:10.599 | Delwath] are those? I mean, actually, out of an honest curiosity like, as this rant winds down? I've been been wondering if the Zariya, are anything like the
+--- before/u0983
++++ after/u0983
+@@ -1 +1 @@
+-[u0983 | 01:30:56.340-01:31:00.280 | Delwath] ask the Tanchi, are you related to the to the {{Zaria}}?
++[u0983 | 01:30:56.340-01:31:00.280 | Delwath] ask the Tanchi, are you related to the to the Zariya?
+--- before/u1352
++++ after/u1352
+@@ -1 +1 @@
+-[u1352 | 02:03:53.880-02:04:05.140 | Delwath] See, I think we go after the Dragon. We leave {{Fuldrick}}, and we tell him that if we don't come back to run away, I'm just trying to find a version of this plan where Seeker
++[u1352 | 02:03:53.880-02:04:05.140 | Delwath] See, I think we go after the Dragon. We leave Faldrak, and we tell him that if we don't come back to run away, I'm just trying to find a version of this plan where Seeker
+--- before/u1378
++++ after/u1378
+@@ -1 +1 @@
+-[u1378 | 02:06:38.970-02:06:41.640 | DM] {{Fuldrick}}'s like. you know.
++[u1378 | 02:06:38.970-02:06:41.640 | DM] Faldrak's like. you know.
+--- before/u1548
++++ after/u1548
+@@ -1 +1 @@
+-[u1548 | 02:20:19.800-02:20:26.829 | Riswynn] I can have like, {{shatter storm}} ready, like, if this thing dives at me, can I bonk it on the nose
++[u1548 | 02:20:19.800-02:20:26.829 | Riswynn] I can have like, Shatterstorm ready, like, if this thing dives at me, can I bonk it on the nose
+--- before/u2251
++++ after/u2251
+@@ -1 +1 @@
+-[u2251 | 03:19:56.580-03:20:05.370 | Seeker] a way to attack {{Apollo}}. Yeah, but we would have to find their like highest level, like Loremaster.
++[u2251 | 03:19:56.580-03:20:05.370 | Seeker] a way to attack Apollyon. Yeah, but we would have to find their like highest level, like Loremaster.
+--- before/u2272
++++ after/u2272
+@@ -1 +1 @@
+-[u2272 | 03:22:07.260-03:22:18.190 | DM] the. So so what you learn about the approach from to Ersk is okay. So you know that there is the city {{Zervinka}}
++[u2272 | 03:22:07.260-03:22:18.190 | DM] the. So so what you learn about the approach from to Ersk is okay. So you know that there is the city Zvervinka
+--- before/u2277
++++ after/u2277
+@@ -1 +1 @@
+-[u2277 | 03:22:45.600-03:22:53.119 | DM] to {{Zervinka}}. and he says.
++[u2277 | 03:22:45.600-03:22:53.119 | DM] to Zvervinka. and he says.
+--- before/u2287
++++ after/u2287
+@@ -1 +1 @@
+-[u2287 | 03:23:31.700-03:23:32.990 | DM] {{Zervinka}}.
++[u2287 | 03:23:31.700-03:23:32.990 | DM] Zvervinka.
+--- before/u2347
++++ after/u2347
+@@ -1 +1 @@
+-[u2347 | 03:28:29.650-03:28:32.610 | DM] like in in {{Zervinka}}.
++[u2347 | 03:28:29.650-03:28:32.610 | DM] like in in Zvervinka.
+--- before/u2359
++++ after/u2359
+@@ -1 +1 @@
+-[u2359 | 03:29:32.670-03:29:34.430 | DM] {{chicken}}, although
++[u2359 | 03:29:32.670-03:29:34.430 | DM] Shakun, although
+--- before/u2409
++++ after/u2409
+@@ -1 +1 @@
+-[u2409 | 03:33:40.500-03:33:51.559 | Riswynn] But there's that stretch of the Cat that's sort of in open space before {{Zervinka}} probably still populated, so the eyes might still be
++[u2409 | 03:33:40.500-03:33:51.559 | Riswynn] But there's that stretch of the Cat that's sort of in open space before Zvervinka probably still populated, so the eyes might still be
+--- before/u2425
++++ after/u2425
+@@ -1 +1 @@
+-[u2425 | 03:35:09.370-03:35:12.190 | Riswynn] 20 miles west of {{Zervinka}}.
++[u2425 | 03:35:09.370-03:35:12.190 | Riswynn] 20 miles west of Zvervinka.
+--- before/u2427
++++ after/u2427
+@@ -1 +1 @@
+-[u2427 | 03:35:16.220-03:35:19.020 | Riswynn] 70 miles west of {{Zervinka}}. Right?
++[u2427 | 03:35:16.220-03:35:19.020 | Riswynn] 70 miles west of Zvervinka. Right?
+--- before/u2429
++++ after/u2429
+@@ -1 +1 @@
+-[u2429 | 03:35:28.360-03:35:33.269 | Riswynn] We need to hang around in Ersk long enough to find this {{Jaden Pan}} thing
++[u2429 | 03:35:28.360-03:35:33.269 | Riswynn] We need to hang around in Ersk long enough to find this jade hand thing
+--- before/u2462
++++ after/u2462
+@@ -1 +1 @@
+-[u2462 | 03:38:23.850-03:38:27.699 | Seeker] We are going to need in the interim to train up {{Fuldrick}} well enough to.
++[u2462 | 03:38:23.850-03:38:27.699 | Seeker] We are going to need in the interim to train up Faldrak well enough to.
+--- before/u2464
++++ after/u2464
+@@ -1 +1 @@
+-[u2464 | 03:38:37.170-03:38:38.870 | Delwath] train up {{Fuldrick}}.
++[u2464 | 03:38:37.170-03:38:38.870 | Delwath] train up Faldrak.

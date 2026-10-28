@@ -17,7 +17,7 @@
 [u0017 | 00:01:48.460-00:01:54.719 | DM] the Sunwine Hall, the court of Lord Sovin, the master of revels.
 [u0018 | 00:01:56.390-00:02:06.119 | DM] although you're not quite sure exactly how much time passed. The days seem a bit fuzzy. You seem to remember eating at least a few times and sleeping at least once.
 [u0019 | 00:02:08.530-00:02:11.280 | DM] But it was also busy. Delwath, was
-[u0020 | 00:02:11.500-00:02:20.839 | DM] telling stories {{while he}} spent his time training the Wyvern successfully, miraculously.
+[u0020 | 00:02:11.500-00:02:20.839 | DM] telling stories Wellby spent his time training the Wyvern successfully, miraculously.
 [u0021 | 00:02:21.010-00:02:25.040 | DM] and now is riding on a giant Wyvern across the Feywild.
 [u0022 | 00:02:26.920-00:02:34.850 | DM] The rest of you are riding on griffins, but, unlike the sort of stereotypical griffin of an eagle
 [u0023 | 00:02:35.070-00:02:41.390 | DM] with the body of a lion, these are more like peacocks or parrots, they have brightly colored
@@ -132,7 +132,7 @@
 [u0132 | 00:15:04.260-00:15:20.269 | Wellby] I think it'd be useful like just to get as much of the lay of the land of the Feywild as possible, like trying to understand the different courts, and where things are. And this is just sort of Wellby's curiosity. I don't think we need to role play through it all, but just kind of understanding
 [u0133 | 00:15:21.230-00:15:28.360 | Wellby] the Feywild, understanding that against like what we know already, and trying to put together like a rough map of the place, almost
 [u0134 | 00:15:35.600-00:15:36.970 | DM] Anybody else.
-[u0135 | 00:15:40.290-00:15:47.820 | Riswynn] Send vibes of justice and charity and consideration to my {{Draconian}} contacts
+[u0135 | 00:15:40.290-00:15:47.820 | Riswynn] Send vibes of justice and charity and consideration to my Chardonian contacts
 [u0136 | 00:16:03.545-00:16:04.510 | DM] So
 [u0137 | 00:16:05.950-00:16:10.330 | Riswynn] Oh, over the course
 [u0138 | 00:16:10.790-00:16:11.730 | DM] Go ahead!
@@ -220,7 +220,7 @@
 [u0220 | 00:24:08.050-00:24:17.840 | DM] she was very strong, right? And everybody carving up her realm has been, you know, unhappy.
 [u0221 | 00:24:21.300-00:24:25.510 | DM] There are places, of course, where things are more
 [u0222 | 00:24:31.190-00:24:34.619 | DM] I don't know less chaos. I haven't been to them, but
-[u0223 | 00:24:34.850-00:24:38.649 | DM] I mean {{harrow and wind}} are about as nasty as they come.
+[u0223 | 00:24:34.850-00:24:38.649 | DM] I mean Harrow and Wend are about as nasty as they come.
 [u0224 | 00:24:40.000-00:24:43.810 | DM] and it's not like the Gloom Shaper {{isn't pretty}}.
 [u0225 | 00:24:44.230-00:24:46.559 | DM] {{It's like a friendly guy}}.
 [u0226 | 00:24:47.240-00:24:51.409 | DM] So no, I mean, nothing bad would happen.
@@ -326,7 +326,7 @@
 [u0326 | 00:35:44.310-00:35:46.240 | DM] This has always been here.
 [u0327 | 00:35:46.530-00:35:47.030 | Seeker] Oh!
 [u0328 | 00:35:47.419-00:35:53.260 | DM] In to the north, where Red Sun Watch is, which is where you're going. The
-[u0329 | 00:35:53.400-00:36:01.320 | DM] fey realm of Hollow Dark, which is ruled by the Archfey {{wend me}}.
+[u0329 | 00:35:53.400-00:36:01.320 | DM] fey realm of Hollow Dark, which is ruled by the Archfey Wend.
 [u0330 | 00:36:01.440-00:36:11.030 | DM] the Silence That Follows has crashed through the Sunset Gate, and darkness is spreading, in rivers into Amberglow.
 [u0331 | 00:36:12.460-00:36:17.479 | DM] but the Sunset Gate's always been there. It stretches well, as far as anybody knows.
 [u0332 | 00:36:21.650-00:36:27.570 | Seeker] Is it just a gate between light and darkness?
@@ -444,7 +444,7 @@
 [u0444 | 00:44:12.050-00:44:16.719 | Delwath] Won't we be next to the Sunset, I guess I guess we don't really want to go into Hollow.
 [u0445 | 00:44:17.140-00:44:19.630 | Delwath] Halloween! Whence? What was it? What was it
 [u0446 | 00:44:19.920-00:44:20.910 | DM] Hollow Dark.
-[u0447 | 00:44:20.910-00:44:25.110 | Delwath] Hollow Dark wait are {{hollow and wend}} 2 different people
+[u0447 | 00:44:20.910-00:44:25.110 | Delwath] Hollow Dark wait are Harrow and Wend 2 different people
 [u0448 | 00:44:25.930-00:44:27.370 | DM] Nobody is really sure
 [u0449 | 00:44:27.700-00:44:28.380 | Delwath] Okay.
 [u0450 | 00:44:34.500-00:44:36.749 | DM] So. Yes, we head north

@@ -1,0 +1,750 @@
+--- before/u0003
++++ after/u0003
+@@ -1 +1 @@
+-[u0003 | 00:00:13.170-00:00:19.350 | DM] As the sun sets you find yourself walking across Gita Square, the largest and most central plaza in {{Toker}}.
++[u0003 | 00:00:13.170-00:00:19.350 | DM] As the sun sets you find yourself walking across Gita Square, the largest and most central plaza in Tokra.
+--- before/u0004
++++ after/u0004
+@@ -1 +1 @@
+-[u0004 | 00:00:20.400-00:00:28.740 | DM] Named for the {{Samraat Darden Gita}}, the first of the Dynasty of the Horse that ruled Dunmar for 150 years until the Great War.
++[u0004 | 00:00:20.400-00:00:28.740 | DM] Named for the Samraat Dharajun Jita, the first of the Dynasty of the Horse that ruled Dunmar for 150 years until the Great War.
+--- before/u0006
++++ after/u0006
+@@ -1 +1 @@
+-[u0006 | 00:00:41.760-00:00:58.320 | DM] The evening light turns the tall sandstone tower of the archives golden, the sun just beginning to sink below the ornate dome of the temple, the long shadows hiding the elaborate horse and rider mosaics that characterize the architecture of the {{Darden}} dynasty.
++[u0006 | 00:00:41.760-00:00:58.320 | DM] The evening light turns the tall sandstone tower of the archives golden, the sun just beginning to sink below the ornate dome of the temple, the long shadows hiding the elaborate horse and rider mosaics that characterize the architecture of the Dharajun dynasty.
+--- before/u0008
++++ after/u0008
+@@ -1 +1 @@
+-[u0008 | 00:01:03.420-00:01:15.990 | DM] Though it seems long ago, that you emerged from the ancient ruins beneath the {{lock and}} monastery and spoke with Cassie, the head librarian there, about lost gods, the creator deities {{Ryan Moore}}.
++[u0008 | 00:01:03.420-00:01:15.990 | DM] Though it seems long ago, that you emerged from the ancient ruins beneath the Lakan monastery and spoke with Cassie, the head librarian there, about lost gods, the creator deities {{Ryan Moore}}.
+--- before/u0009
++++ after/u0009
+@@ -1 +1 @@
+-[u0009 | 00:01:17.520-00:01:19.440 | DM] And then took rooms at {{Koreans}}.
++[u0009 | 00:01:17.520-00:01:19.440 | DM] And then took rooms at Kirian's.
+--- before/u0010
++++ after/u0010
+@@ -1 +1 @@
+-[u0010 | 00:01:20.670-00:01:27.000 | DM] Where you established your presence in {{Toker}} and spoke to Kayla, the head priestess of the temple and administrator of {{Toker}}.
++[u0010 | 00:01:20.670-00:01:27.000 | DM] Where you established your presence in Tokra and spoke to Kayla, the head priestess of the temple and administrator of Tokra.
+--- before/u0011
++++ after/u0011
+@@ -1 +1 @@
+-[u0011 | 00:01:28.170-00:01:37.890 | DM] From her you learned that Saka, that {{missed I have beach}} man you seek who may know more about the events on the eastern plains, travels with a horse-herding family to the north of {{Toker}}.
++[u0011 | 00:01:28.170-00:01:37.890 | DM] From her you learned that Saka, that {{missed I have beach}} man you seek who may know more about the events on the eastern plains, travels with a horse-herding family to the north of Tokra.
+--- before/u0012
++++ after/u0012
+@@ -1 +1 @@
+-[u0012 | 00:01:40.080-00:01:51.030 | DM] While telling her about the events in {{caraway}} you revealed the return of {{Sarah}}, and although initially suspicious, you hope she took to heart Wellby's request to pray before acting.
++[u0012 | 00:01:40.080-00:01:51.030 | DM] While telling her about the events in Karawa you revealed the return of Sura, and although initially suspicious, you hope she took to heart Wellby's request to pray before acting.
+--- before/u0014
++++ after/u0014
+@@ -1 +1 @@
+-[u0014 | 00:02:01.680-00:02:11.850 | DM] While investigating the disappearances and thefts from the archives earlier today you learned that the missing archivist {{go via}} had been writing a book on the divine legitimacy of the {{nine}} dynasty.
++[u0014 | 00:02:01.680-00:02:11.850 | DM] While investigating the disappearances and thefts from the archives earlier today you learned that the missing archivist Govir had been writing a book on the divine legitimacy of the Nayan dynasty.
+--- before/u0015
++++ after/u0015
+@@ -1 +1 @@
+-[u0015 | 00:02:12.870-00:02:29.610 | DM] Focusing on the five victories that he claimed would have been defeats but for the intervention of the gods: the Second Hobgoblin War, the vanquishing of the Fraternity of the Empty Moon from {{Toker}}, the Battle of {{shrugged under}}, the defeat of the plague trees, and the Battle of the Red Storms.
++[u0015 | 00:02:12.870-00:02:29.610 | DM] Focusing on the five victories that he claimed would have been defeats but for the intervention of the gods: the Second Hobgoblin War, the vanquishing of the Fraternity of the Empty Moon from Tokra, the Battle of Shrevandurg, the defeat of the plague trees, and the Battle of the Red Storms.
+--- before/u0016
++++ after/u0016
+@@ -1 +1 @@
+-[u0016 | 00:02:32.010-00:02:43.740 | DM] You also found the scroll that the missing head scribe had been copying when he vanished, which described the Dunmari push to defeat a cult hiding in the strange {{Korean}} ruins north of {{Toker}}.
++[u0016 | 00:02:32.010-00:02:43.740 | DM] You also found the scroll that the missing head scribe had been copying when he vanished, which described the Dunmari push to defeat a cult hiding in the strange Drankorian ruins north of Tokra.
+--- before/u0017
++++ after/u0017
+@@ -1 +1 @@
+-[u0017 | 00:02:47.550-00:02:55.320 | DM] Now, after having discussed {{generic}} and the Mad One, their connection to lycanthropy.
++[u0017 | 00:02:47.550-00:02:55.320 | DM] Now, after having discussed Jinnik and the Mad One, their connection to lycanthropy.
+--- before/u0020
++++ after/u0020
+@@ -1 +1 @@
+-[u0020 | 00:03:06.300-00:03:17.340 | DM] You've left {{Koreans}} and as the evening falls you are returning to the archives on alert for possible danger from lycanthropes as the full moon rises later this evening.
++[u0020 | 00:03:06.300-00:03:17.340 | DM] You've left Kirian's and as the evening falls you are returning to the archives on alert for possible danger from lycanthropes as the full moon rises later this evening.
+--- before/u0056
++++ after/u0056
+@@ -1 +1 @@
+-[u0056 | 00:06:07.170-00:06:13.980 | Seeker] Something belonging, something essential to the life of {{goes here}}, which Arden may have, it could help.
++[u0056 | 00:06:07.170-00:06:13.980 | Seeker] Something belonging, something essential to the life of Govir, which Arden may have, it could help.
+--- before/u0106
++++ after/u0106
+@@ -1 +1 @@
+-[u0106 | 00:10:04.350-00:10:06.510 | Seeker] Is {{an artist}} on duty here somewhere?
++[u0106 | 00:10:04.350-00:10:06.510 | Seeker] Is Ardan on duty here somewhere?
+--- before/u0111
++++ after/u0111
+@@ -1 +1 @@
+-[u0111 | 00:10:19.380-00:10:28.500 | DM] Yes, his quarters have been thoroughly searched. All four quarters of all the scribes and {{go beer}} have been thoroughly searched.
++[u0111 | 00:10:19.380-00:10:28.500 | DM] Yes, his quarters have been thoroughly searched. All four quarters of all the scribes and Govir have been thoroughly searched.
+--- before/u0194
++++ after/u0194
+@@ -1 +1 @@
+-[u0194 | 00:17:17.670-00:17:23.400 | Delwath] Yeah, they were on our list to talk to. Also the soldiers that {{govan}} might have been chatting with, to talk to.
++[u0194 | 00:17:17.670-00:17:23.400 | Delwath] Yeah, they were on our list to talk to. Also the soldiers that Govir might have been chatting with, to talk to.
+--- before/u0209
++++ after/u0209
+@@ -1 +1 @@
+-[u0209 | 00:18:22.260-00:18:22.860 | Seeker] {{Go here}}.
++[u0209 | 00:18:22.260-00:18:22.860 | Seeker] Govir.
+--- before/u0218
++++ after/u0218
+@@ -1 +1 @@
+-[u0218 | 00:19:00.600-00:19:03.810 | DM] {{Go via}} cared for nothing more than his work.
++[u0218 | 00:19:00.600-00:19:03.810 | DM] Govir cared for nothing more than his work.
+--- before/u0227
++++ after/u0227
+@@ -1 +1 @@
+-[u0227 | 00:19:54.990-00:19:56.250 | DM] {{haha}}, he.
++[u0227 | 00:19:54.990-00:19:56.250 | DM] Hada, he.
+--- before/u0233
++++ after/u0233
+@@ -1 +1 @@
+-[u0233 | 00:20:25.290-00:20:32.040 | DM] Dedicated to {{go here}}, and he was—cared deeply about his scholarly brilliance.
++[u0233 | 00:20:25.290-00:20:32.040 | DM] Dedicated to Govir, and he was—cared deeply about his scholarly brilliance.
+--- before/u0249
++++ after/u0249
+@@ -1 +1 @@
+-[u0249 | 00:21:54.720-00:22:06.210 | DM] People came down, but at that point the bodies were gone—I mean, the, the archivist and {{pata}} and {{go via}} are gone, and the bodies were dead.
++[u0249 | 00:21:54.720-00:22:06.210 | DM] People came down, but at that point the bodies were gone—I mean, the, the archivist and Hada and Govir are gone, and the bodies were dead.
+--- before/u0329
++++ after/u0329
+@@ -1 +1 @@
+-[u0329 | 00:28:33.630-00:28:45.930 | DM] Royal quarters that are maintained for the Samraat court if it ever passes through {{Toker}}. Part of it is the living quarters of like the high-ranking—it’s like where some of the higher-ranking.
++[u0329 | 00:28:33.630-00:28:45.930 | DM] Royal quarters that are maintained for the Samraat court if it ever passes through Tokra. Part of it is the living quarters of like the high-ranking—it’s like where some of the higher-ranking.
+--- before/u0366
++++ after/u0366
+@@ -1 +1 @@
+-[u0366 | 00:31:15.180-00:31:15.960 | DM] {{I have a scar}}.
++[u0366 | 00:31:15.180-00:31:15.960 | DM] Aaviskar.
+--- before/u0367
++++ after/u0367
+@@ -1 +1 @@
+-[u0367 | 00:31:16.890-00:31:17.460 | Delwath] {{I have a scar}}.
++[u0367 | 00:31:16.890-00:31:17.460 | Delwath] Aaviskar.
+--- before/u0399
++++ after/u0399
+@@ -1 +1 @@
+-[u0399 | 00:33:17.160-00:33:19.950 | Delwath] What does {{go very}} think he's been doing?
++[u0399 | 00:33:17.160-00:33:19.950 | Delwath] What does Govir think he's been doing?
+--- before/u0734
++++ after/u0734
+@@ -1 +1 @@
+-[u0734 | 00:56:19.470-00:56:20.970 | DM] {{Colleague}} Hearthstone.
++[u0734 | 00:56:19.470-00:56:20.970 | DM] Delig Hearthstone.
+--- before/u0822
++++ after/u0822
+@@ -1 +1 @@
+-[u0822 | 01:02:53.700-01:02:54.870 | Delwath] We knew that {{go via}} knew.
++[u0822 | 01:02:53.700-01:02:54.870 | Delwath] We knew that Govir knew.
+--- before/u1153
++++ after/u1153
+@@ -1 +1 @@
+-[u1153 | 01:24:59.910-01:25:01.950 | Delwath] Wait, this is not {{garvin}}.
++[u1153 | 01:24:59.910-01:25:01.950 | Delwath] Wait, this is not Govir.
+--- before/u1197
++++ after/u1197
+@@ -1 +1 @@
+-[u1197 | 01:27:55.050-01:28:05.610 | DM] And she sort of looks up around at you and now sees Seeker down the hall, and Seeker, you, you recognize her. This is {{fall through}}.
++[u1197 | 01:27:55.050-01:28:05.610 | DM] And she sort of looks up around at you and now sees Seeker down the hall, and Seeker, you, you recognize her. This is Fallthra.
+--- before/u1198
++++ after/u1198
+@@ -1 +1 @@
+-[u1198 | 01:28:06.690-01:28:08.130 | DM] This is {{dallek}}’s wife.
++[u1198 | 01:28:06.690-01:28:08.130 | DM] This is Delig’s wife.
+--- before/u1365
++++ after/u1365
+@@ -1 +1 @@
+-[u1365 | 01:39:59.370-01:40:01.800 | DM] The mother's name is {{Father I}}.
++[u1365 | 01:39:59.370-01:40:01.800 | DM] The mother's name is Fallthra.
+--- before/u1366
++++ after/u1366
+@@ -1 +1 @@
+-[u1366 | 01:40:02.850-01:40:12.480 | Seeker] {{Fall through}}, we're going to try a ritual now to bring back your son and remove this curse once and for all. We're going to need.
++[u1366 | 01:40:02.850-01:40:12.480 | Seeker] Fallthra, we're going to try a ritual now to bring back your son and remove this curse once and for all. We're going to need.
+--- before/u1394
++++ after/u1394
+@@ -1 +1 @@
+-[u1394 | 01:42:20.670-01:42:21.990 | DM] As {{far as}} brother.
++[u1394 | 01:42:20.670-01:42:21.990 | DM] As Fallthra's brother.
+--- before/u1428
++++ after/u1428
+@@ -1 +1 @@
+-[u1428 | 01:45:19.890-01:45:21.420 | DM] So {{far}} returns with.
++[u1428 | 01:45:19.890-01:45:21.420 | DM] So Fallthra returns with.
+--- before/u1441
++++ after/u1441
+@@ -1 +1 @@
+-[u1441 | 01:46:30.510-01:46:31.740 | Delwath] {{This car}} can.
++[u1441 | 01:46:30.510-01:46:31.740 | Delwath] Aaviskar can.
+--- before/u1459
++++ after/u1459
+@@ -1 +1 @@
+-[u1459 | 01:48:07.200-01:48:07.950 | Delwath] {{Of a scar}}.
++[u1459 | 01:48:07.200-01:48:07.950 | Delwath] Aaviskar.
+--- before/u1494
++++ after/u1494
+@@ -1 +1 @@
+-[u1494 | 01:50:36.660-01:50:45.840 | DM] Five minutes, as, as now the water begins to freeze more and more, {{fault rob}}, unable to.
++[u1494 | 01:50:36.660-01:50:45.840 | DM] Five minutes, as, as now the water begins to freeze more and more, Fallthra, unable to.
+--- before/u1513
++++ after/u1513
+@@ -1 +1 @@
+-[u1513 | 01:52:23.340-01:52:30.060 | DM] Naked, curled up, and {{foster}} just starts sobbing, gathers him up in her arms.
++[u1513 | 01:52:23.340-01:52:30.060 | DM] Naked, curled up, and Fallthra just starts sobbing, gathers him up in her arms.
+--- before/u1539
++++ after/u1539
+@@ -1 +1 @@
+-[u1539 | 01:54:39.900-01:54:41.070 | Seeker] Say to {{fell through}}.
++[u1539 | 01:54:39.900-01:54:41.070 | Seeker] Say to Fallthra.
+--- before/u1564
++++ after/u1564
+@@ -1 +1 @@
+-[u1564 | 01:56:41.370-01:56:45.510 | Delwath] We are staying at {{Carolyn's}}. You can reach us there.
++[u1564 | 01:56:41.370-01:56:45.510 | Delwath] We are staying at Kirian's. You can reach us there.
+--- before/u1656
++++ after/u1656
+@@ -1 +1 @@
+-[u1656 | 02:03:12.480-02:03:22.230 | DM] The dwarves are kind of gathering to like sleep at this point, like {{father}} has taken Dag into the like living quarters and is trying to get him settled in a bed.
++[u1656 | 02:03:12.480-02:03:22.230 | DM] The dwarves are kind of gathering to like sleep at this point, like Fallthra has taken Dag into the like living quarters and is trying to get him settled in a bed.
+--- before/u1658
++++ after/u1658
+@@ -1 +1 @@
+-[u1658 | 02:03:27.690-02:03:33.540 | DM] And {{dallek}} are, are sort of talking quietly a little bit of a ways away from you.
++[u1658 | 02:03:27.690-02:03:33.540 | DM] And Delig are, are sort of talking quietly a little bit of a ways away from you.
+--- before/u1680
++++ after/u1680
+@@ -1 +1 @@
+-[u1680 | 02:05:09.720-02:05:11.250 | Delwath] {{False author}} said.
++[u1680 | 02:05:09.720-02:05:11.250 | Delwath] Fallthra said.
+--- before/u1685
++++ after/u1685
+@@ -1 +1 @@
+-[u1685 | 02:05:30.480-02:05:30.990 | Seeker] {{Go here}}.
++[u1685 | 02:05:30.480-02:05:30.990 | Seeker] Govir.
+--- before/u1686
++++ after/u1686
+@@ -1 +1 @@
+-[u1686 | 02:05:31.140-02:05:32.040 | DM] {{Go here}}, go.
++[u1686 | 02:05:31.140-02:05:32.040 | DM] Govir, go.
+--- before/u1687
++++ after/u1687
+@@ -1 +1 @@
+-[u1687 | 02:05:32.880-02:05:35.490 | Delwath] {{Go veer}} was bitten.
++[u1687 | 02:05:32.880-02:05:35.490 | Delwath] Govir was bitten.
+--- before/u1709
++++ after/u1709
+@@ -1 +1 @@
+-[u1709 | 02:07:27.930-02:07:31.980 | Delwath] This temple of {{chick}}, if it is a.
++[u1709 | 02:07:27.930-02:07:31.980 | Delwath] This temple of Jinnik, if it is a.
+--- before/u1728
++++ after/u1728
+@@ -1 +1 @@
+-[u1728 | 02:08:49.650-02:08:57.870 | Delwath] It seems to me more likely that something in this place of {{genetics}} created these two as the original werewolves.
++[u1728 | 02:08:49.650-02:08:57.870 | Delwath] It seems to me more likely that something in this place of Jinnik created these two as the original werewolves.
+--- before/u1739
++++ after/u1739
+@@ -1 +1 @@
+-[u1739 | 02:09:48.900-02:09:56.610 | Delwath] It does feel like whatever is going to happen has happened. Perhaps returning to the monastery and/or {{Carolyn's}} would be—.
++[u1739 | 02:09:48.900-02:09:56.610 | Delwath] It does feel like whatever is going to happen has happened. Perhaps returning to the monastery and/or Kirian's would be—.
+--- before/u1773
++++ after/u1773
+@@ -1 +1 @@
+-[u1773 | 02:12:49.350-02:12:49.950 | Delwath] {{Genetic}}.
++[u1773 | 02:12:49.350-02:12:49.950 | Delwath] Jinnik.
+--- before/u1777
++++ after/u1777
+@@ -1 +1 @@
+-[u1777 | 02:13:10.380-02:13:18.030 | DM] I mean, he already told you what he knew about {{genetic}}, basically the connection to lycanthropy, um, right, and there was the only—.
++[u1777 | 02:13:10.380-02:13:18.030 | DM] I mean, he already told you what he knew about Jinnik, basically the connection to lycanthropy, um, right, and there was the only—.
+--- before/u1789
++++ after/u1789
+@@ -1 +1 @@
+-[u1789 | 02:14:08.280-02:14:09.780 | DM] Described {{generic}} or.
++[u1789 | 02:14:08.280-02:14:09.780 | DM] Described Jinnik or.
+--- before/u1799
++++ after/u1799
+@@ -1 +1 @@
+-[u1799 | 02:14:55.710-02:15:03.300 | Delwath] So, like anything we can, he can find about what was happening in {{Toker}} around the second, the end of the Second Hobgoblin War. Was there any like.
++[u1799 | 02:14:55.710-02:15:03.300 | Delwath] So, like anything we can, he can find about what was happening in Tokra around the second, the end of the Second Hobgoblin War. Was there any like.
+--- before/u1805
++++ after/u1805
+@@ -1 +1 @@
+-[u1805 | 02:15:43.500-02:15:56.130 | Delwath] It might be that, but I'm just, I'm just reading that. Remember, remember, remember the session notes. It's really—maybe there's nothing better than bundle 24 that we can't find, but, like, any other information about this Commander {{ella}}.
++[u1805 | 02:15:43.500-02:15:56.130 | Delwath] It might be that, but I'm just, I'm just reading that. Remember, remember, remember the session notes. It's really—maybe there's nothing better than bundle 24 that we can't find, but, like, any other information about this Commander Ila.
+--- before/u1812
++++ after/u1812
+@@ -1 +1 @@
+-[u1812 | 02:16:29.310-02:16:40.560 | DM] Everything mentioned in—so remember {{go via}} has this like, you know, notebook with lots and lots of cryptic references to different parts of the archives, and they've been trying to.
++[u1812 | 02:16:29.310-02:16:40.560 | DM] Everything mentioned in—so remember Govir has this like, you know, notebook with lots and lots of cryptic references to different parts of the archives, and they've been trying to.
+--- before/u1823
++++ after/u1823
+@@ -1 +1 @@
+-[u1823 | 02:17:30.150-02:17:39.630 | DM] {{Go there}} had referenced about the plague trees and the, and the Battle of the Red Storms and the Battle of {{Chevron trevon Dirk}}.
++[u1823 | 02:17:30.150-02:17:39.630 | DM] Govir had referenced about the plague trees and the, and the Battle of the Red Storms and the Battle of Shrevandurg.
+--- before/u1840
++++ after/u1840
+@@ -1 +1 @@
+-[u1840 | 02:19:04.290-02:19:10.410 | Delwath] Probably around 4 a.m. or 5 a.m., go back to that {{Karen's}}, sleep, was my plan.
++[u1840 | 02:19:04.290-02:19:10.410 | Delwath] Probably around 4 a.m. or 5 a.m., go back to that Kirian's, sleep, was my plan.
+--- before/u1865
++++ after/u1865
+@@ -1 +1 @@
+-[u1865 | 02:20:42.450-02:20:47.100 | DM] {{Karen's}}, in your rooms at {{Koreans}}, Kenzo in the monastery.
++[u1865 | 02:20:42.450-02:20:47.100 | DM] Kirian's, in your rooms at Kirian's, Kenzo in the monastery.
+--- before/u1907
++++ after/u1907
+@@ -1 +1 @@
+-[u1907 | 02:23:19.200-02:23:35.100 | DM] Cassie comes up to you and says, Kenzo, hold up a minute. I'm still working on those questions about {{it right}} and, and, and the gods, but I, but I do have a map for your, for your friend Wellby. This was easy to copy.
++[u1907 | 02:23:19.200-02:23:35.100 | DM] Cassie comes up to you and says, Kenzo, hold up a minute. I'm still working on those questions about Rai and, and, and the gods, but I, but I do have a map for your, for your friend Wellby. This was easy to copy.
+--- before/u1921
++++ after/u1921
+@@ -1 +1 @@
+-[u1921 | 02:24:18.360-02:24:21.900 | DM] And you meet now on the west side of {{to grab}}, um.
++[u1921 | 02:24:18.360-02:24:21.900 | DM] And you meet now on the west side of Tokra, um.
+--- before/u1925
++++ after/u1925
+@@ -1 +1 @@
+-[u1925 | 02:24:58.920-02:25:04.320 | DM] It's run by {{Dr. Shawna}}, a middle-aged Dunmari woman.
++[u1925 | 02:24:58.920-02:25:04.320 | DM] It's run by Darshana, a middle-aged Dunmari woman.
+--- before/u1952
++++ after/u1952
+@@ -1 +1 @@
+-[u1952 | 02:27:12.810-02:27:16.770 | DM] Really talk to {{atia are}} and the old-timers. She points to.
++[u1952 | 02:27:12.810-02:27:16.770 | DM] Really talk to Ashar and the old-timers. She points to.
+--- before/u1958
++++ after/u1958
+@@ -1 +1 @@
+-[u1958 | 02:27:51.060-02:27:56.520 | DM] {{A shot our}} looks up. He's missing one eye. He's got an eyepatch.
++[u1958 | 02:27:51.060-02:27:56.520 | DM] Ashar looks up. He's missing one eye. He's got an eyepatch.
+--- before/u1969
++++ after/u1969
+@@ -1 +1 @@
+-[u1969 | 02:28:53.160-02:28:56.040 | Delwath] We're looking for any stories you could tell us about {{go via}}.
++[u1969 | 02:28:53.160-02:28:56.040 | Delwath] We're looking for any stories you could tell us about Govir.
+--- before/u1970
++++ after/u1970
+@@ -1 +1 @@
+-[u1970 | 02:28:58.980-02:29:00.270 | DM] Ah, {{go via}}.
++[u1970 | 02:28:58.980-02:29:00.270 | DM] Ah, Govir.
+--- before/u1975
++++ after/u1975
+@@ -1 +1 @@
+-[u1975 | 02:29:27.900-02:29:32.460 | DM] What did it feel like, he asked, to have {{aguer}} fight on your side?
++[u1975 | 02:29:27.900-02:29:32.460 | DM] What did it feel like, he asked, to have Aagir fight on your side?
+--- before/u2002
++++ after/u2002
+@@ -1 +1 @@
+-[u2002 | 02:31:39.450-02:31:42.000 | DM] {{Should you}} protecting the horses, something like that.
++[u2002 | 02:31:39.450-02:31:42.000 | DM] Chidya protecting the horses, something like that.
+--- before/u2051
++++ after/u2051
+@@ -1 +1 @@
+-[u2051 | 02:35:30.570-02:35:38.460 | DM] He didn't believe me. He said he saw {{go via}} the morning he disappeared, so he couldn't have died in some strange ruins.
++[u2051 | 02:35:30.570-02:35:38.460 | DM] He didn't believe me. He said he saw Govir the morning he disappeared, so he couldn't have died in some strange ruins.
+--- before/u2076
++++ after/u2076
+@@ -1 +1 @@
+-[u2076 | 02:37:44.430-02:37:47.520 | DM] His friend, {{haha}}, I think his name was.
++[u2076 | 02:37:44.430-02:37:47.520 | DM] His friend, Hada, I think his name was.
+--- before/u2126
++++ after/u2126
+@@ -1 +1 @@
+-[u2126 | 02:41:51.360-02:41:52.140 | Delwath] {{Go Var}}.
++[u2126 | 02:41:51.360-02:41:52.140 | Delwath] Govir.
+--- before/u2132
++++ after/u2132
+@@ -1 +1 @@
+-[u2132 | 02:42:25.140-02:42:26.370 | DM] To {{go here}}'s memory.
++[u2132 | 02:42:25.140-02:42:26.370 | DM] To Govir's memory.
+--- before/u2147
++++ after/u2147
+@@ -1 +1 @@
+-[u2147 | 02:43:23.850-02:43:38.730 | DM] These are like—there used to be a string of border forts sort of a half a day’s ride or a day’s ride north of {{to craft}} that stretched all the way along. This is like the fort east of {{go matt}}. Like all the—there was this whole string of border forts.
++[u2147 | 02:43:23.850-02:43:38.730 | DM] These are like—there used to be a string of border forts sort of a half a day’s ride or a day’s ride north of Tokra that stretched all the way along. This is like the fort east of Gomat. Like all the—there was this whole string of border forts.
+--- before/u2156
++++ after/u2156
+@@ -1 +1 @@
+-[u2156 | 02:44:17.340-02:44:21.300 | Seeker] And just to be clear, the {{luck and}} monks are visiting one of the Dunmari towers.
++[u2156 | 02:44:17.340-02:44:21.300 | Seeker] And just to be clear, the Lakan monks are visiting one of the Dunmari towers.
+--- before/u2172
++++ after/u2172
+@@ -1 +1 @@
+-[u2172 | 02:45:24.360-02:45:47.280 | Wellby] I think once the news of {{nine service}} declaration gets to the city, all hell is going to break loose, and I think it would be a good thing for us to not just be the heroes who returned {{night Sir}} to challenge the throne, but also to be the ones who solve, you know, the mystery of the.
++[u2172 | 02:45:24.360-02:45:47.280 | Wellby] I think once the news of Nayan Sura's declaration gets to the city, all hell is going to break loose, and I think it would be a good thing for us to not just be the heroes who returned Nayan Sura to challenge the throne, but also to be the ones who solve, you know, the mystery of the.
+--- before/u2184
++++ after/u2184
+@@ -1 +1 @@
+-[u2184 | 02:46:22.200-02:46:30.150 | Delwath] No, but, but {{go via}} was convinced that the Fraternity of the Empty Moon was defeated here at this fort.
++[u2184 | 02:46:22.200-02:46:30.150 | Delwath] No, but, but Govir was convinced that the Fraternity of the Empty Moon was defeated here at this fort.
+--- before/u2220
++++ after/u2220
+@@ -1 +1 @@
+-[u2220 | 02:48:50.250-02:49:03.810 | DM] When you left, did you like leave word with {{curious}} about where you could be found, or did you just leave, or what’s your—how have you left that inn?
++[u2220 | 02:48:50.250-02:49:03.810 | DM] When you left, did you like leave word with Kirian about where you could be found, or did you just leave, or what’s your—how have you left that inn?
+--- before/u2233
++++ after/u2233
+@@ -1 +1 @@
+-[u2233 | 02:49:47.850-02:49:51.390 | Delwath] So let's, let's check back with {{Karen's}}, tell him.
++[u2233 | 02:49:47.850-02:49:51.390 | Delwath] So let's, let's check back with Kirian's, tell him.
+--- before/u2234
++++ after/u2234
+@@ -1 +1 @@
+-[u2234 | 02:49:53.790-02:49:55.410 | Delwath] I mean, do we want to tell {{Carrion}} that.
++[u2234 | 02:49:53.790-02:49:55.410 | Delwath] I mean, do we want to tell Kirian that.
+--- before/u2238
++++ after/u2238
+@@ -1 +1 @@
+-[u2238 | 02:50:03.270-02:50:08.340 | Delwath] So let's, let's go back to the inn. We'll tell {{Carrion}} that we're going out of town up the river for a couple days.
++[u2238 | 02:50:03.270-02:50:08.340 | Delwath] So let's, let's go back to the inn. We'll tell Kirian that we're going out of town up the river for a couple days.
+--- before/u2243
++++ after/u2243
+@@ -1 +1 @@
+-[u2243 | 02:50:33.720-02:50:42.000 | DM] So when you, when you approach, you come back to the city, and as you approach {{curious}}, there are.
++[u2243 | 02:50:33.720-02:50:42.000 | DM] So when you, when you approach, you come back to the city, and as you approach Kirian's, there are.
+--- before/u2248
++++ after/u2248
+@@ -1 +1 @@
+-[u2248 | 02:51:13.470-02:51:15.210 | DM] {{Korean}} said you'd be back soon.
++[u2248 | 02:51:13.470-02:51:15.210 | DM] Kirian said you'd be back soon.
+--- before/u2333
++++ after/u2333
+@@ -1 +1 @@
+-[u2333 | 02:56:46.260-02:56:52.080 | Kenzo] Worst-case scenario, the {{Targaryens}} are there and they want to fucking take the scepter from us by force right then and there.
++[u2333 | 02:56:46.260-02:56:52.080 | Kenzo] Worst-case scenario, the Chardonians are there and they want to fucking take the scepter from us by force right then and there.
+--- before/u2362
++++ after/u2362
+@@ -1 +1 @@
+-[u2362 | 02:58:11.310-02:58:12.480 | DM] He is {{a ma}}.
++[u2362 | 02:58:11.310-02:58:12.480 | DM] He is Amay.
+--- before/u2363
++++ after/u2363
+@@ -1 +1 @@
+-[u2363 | 02:58:13.410-02:58:22.380 | Kenzo] {{On it}}, we'll be back in a moment. You have my word, okay? We'll, we'll be back in just a few moments. We're just headed back up to our rooms. We'll come, we'll come back down shortly.
++[u2363 | 02:58:13.410-02:58:22.380 | Kenzo] Amay, we'll be back in a moment. You have my word, okay? We'll, we'll be back in just a few moments. We're just headed back up to our rooms. We'll come, we'll come back down shortly.
+--- before/u2410
++++ after/u2410
+@@ -1 +1 @@
+-[u2410 | 03:01:40.620-03:01:43.320 | DM] Has {{on may}} come back yet with those folks?
++[u2410 | 03:01:40.620-03:01:43.320 | DM] Has Amay come back yet with those folks?
+--- before/u2415
++++ after/u2415
+@@ -1 +1 @@
+-[u2415 | 03:02:06.840-03:02:09.270 | DM] We ask {{Teresa}} to send them a message?
++[u2415 | 03:02:06.840-03:02:09.270 | DM] We ask Drusa to send them a message?
+--- before/u2417
++++ after/u2417
+@@ -1 +1 @@
+-[u2417 | 03:02:18.150-03:02:20.280 | DM] Let's keep the {{Targaryens}} out of it for now.
++[u2417 | 03:02:18.150-03:02:20.280 | DM] Let's keep the Chardonians out of it for now.
+--- before/u2423
++++ after/u2423
+@@ -1 +1 @@
+-[u2423 | 03:02:34.770-03:02:35.580 | DM] {{True Sir}}, sir.
++[u2423 | 03:02:34.770-03:02:35.580 | DM] Drusa, sir.
+--- before/u2447
++++ after/u2447
+@@ -1 +1 @@
+-[u2447 | 03:04:01.620-03:04:04.800 | DM] With a {{charter Indian}} woman.
++[u2447 | 03:04:01.620-03:04:04.800 | DM] With a Chardonian woman.
+--- before/u2481
++++ after/u2481
+@@ -1 +1 @@
+-[u2481 | 03:05:52.260-03:05:59.160 | Wellby] We can tell them the story of what we did while being vague about details. We don't need to tell them about {{nyan}}.
++[u2481 | 03:05:52.260-03:05:59.160 | Wellby] We can tell them the story of what we did while being vague about details. We don't need to tell them about Nayan.
+--- before/u2482
++++ after/u2482
+@@ -1 +1 @@
+-[u2482 | 03:06:01.470-03:06:01.830 | Kenzo] {{Nyan}}.
++[u2482 | 03:06:01.470-03:06:01.830 | Kenzo] Nayan.
+--- before/u2483
++++ after/u2483
+@@ -1 +1 @@
+-[u2483 | 03:06:01.890-03:06:03.360 | DM] And when they ask, {{sir}}?
++[u2483 | 03:06:01.890-03:06:03.360 | DM] And when they ask, Sura?
+--- before/u2484
++++ after/u2484
+@@ -1 +1 @@
+-[u2484 | 03:06:03.660-03:06:04.200 | Wellby] {{Sir, sir}}.
++[u2484 | 03:06:03.660-03:06:04.200 | Wellby] Sura, Sura.
+--- before/u2493
++++ after/u2493
+@@ -1 +1 @@
+-[u2493 | 03:06:50.940-03:06:52.830 | Wellby] News about {{nine service}} return.
++[u2493 | 03:06:50.940-03:06:52.830 | Wellby] News about Nayan Sura's return.
+--- before/u2515
++++ after/u2515
+@@ -1 +1 @@
+-[u2515 | 03:08:18.150-03:08:21.360 | Seeker] We should—I feel like we should also be concerned with the motives of the {{champions}}.
++[u2515 | 03:08:18.150-03:08:21.360 | Seeker] We should—I feel like we should also be concerned with the motives of the Chardonians.
+--- before/u2516
++++ after/u2516
+@@ -1 +1 @@
+-[u2516 | 03:08:21.870-03:08:27.870 | Kenzo] That's what I'm most concerned about, is the motive of the {{chart earnings}}, and I'm most concerned about us walking in there with an item that they covet.
++[u2516 | 03:08:21.870-03:08:27.870 | Kenzo] That's what I'm most concerned about, is the motive of the Chardonians, and I'm most concerned about us walking in there with an item that they covet.
+--- before/u2537
++++ after/u2537
+@@ -1 +1 @@
+-[u2537 | 03:09:37.320-03:09:43.230 | Delwath] Flight plus two Invisibility. That’s a good point, except that demonstrably the {{Charter and}} can see invisible—.
++[u2537 | 03:09:37.320-03:09:43.230 | Delwath] Flight plus two Invisibility. That’s a good point, except that demonstrably the Chardonian can see invisible—.
+--- before/u2558
++++ after/u2558
+@@ -1 +1 @@
+-[u2558 | 03:10:52.950-03:11:13.440 | DM] Sort of young like valet, and this {{cardone and}} woman, and the valet sort of stops you about 20 feet away from, from the tent and motions the {{cerrone and}} over, and she like says, yeah, they're carrying a lot of magic, and he says.
++[u2558 | 03:10:52.950-03:11:13.440 | DM] Sort of young like valet, and this Chardonian woman, and the valet sort of stops you about 20 feet away from, from the tent and motions the Chardonian over, and she like says, yeah, they're carrying a lot of magic, and he says.
+--- before/u2583
++++ after/u2583
+@@ -1 +1 @@
+-[u2583 | 03:13:10.380-03:13:15.480 | Kenzo] Look, like Kenzo, Kenzo basically just like addresses the valet and the {{chart odeon}}.
++[u2583 | 03:13:10.380-03:13:15.480 | Kenzo] Look, like Kenzo, Kenzo basically just like addresses the valet and the Chardonian.
+--- before/u2599
++++ after/u2599
+@@ -1 +1 @@
+-[u2599 | 03:14:37.320-03:14:43.020 | DM] Looks over at, um, {{Theresa}} as well, and she's kind of—she just kind of shakes her head slightly.
++[u2599 | 03:14:37.320-03:14:43.020 | DM] Looks over at, um, Drusa as well, and she's kind of—she just kind of shakes her head slightly.
+--- before/u2652
++++ after/u2652
+@@ -1 +1 @@
+-[u2652 | 03:18:45.300-03:19:00.270 | DM] You know, {{Teresa}} walks with you, yeah, perfect, and as soon as she gets to the entrance of the tent, she nods to the valet, like he’s clear, like once she’s about 35 feet away from the pile of stuff and the rest of you.
++[u2652 | 03:18:45.300-03:19:00.270 | DM] You know, Drusa walks with you, yeah, perfect, and as soon as she gets to the entrance of the tent, she nods to the valet, like he’s clear, like once she’s about 35 feet away from the pile of stuff and the rest of you.
+--- before/u2671
++++ after/u2671
+@@ -1 +1 @@
+-[u2671 | 03:20:39.300-03:20:48.480 | Kenzo] I hope you'll appreciate over the past several months being out at the frontiers and {{Carola}} and facing the myriad dangers that we've had to deal with.
++[u2671 | 03:20:39.300-03:20:48.480 | Kenzo] I hope you'll appreciate over the past several months being out at the frontiers and Karawa and facing the myriad dangers that we've had to deal with.
+--- before/u2682
++++ after/u2682
+@@ -1 +1 @@
+-[u2682 | 03:21:43.260-03:21:45.510 | DM] What do you know of the {{nine Sarah}}?
++[u2682 | 03:21:43.260-03:21:45.510 | DM] What do you know of the Nayan Sura?
+--- before/u2683
++++ after/u2683
+@@ -1 +1 @@
+-[u2683 | 03:21:47.820-03:21:49.650 | Kenzo] {{Nine Sir}} is the, the—.
++[u2683 | 03:21:47.820-03:21:49.650 | Kenzo] Nayan Sura is the, the—.
+--- before/u2685
++++ after/u2685
+@@ -1 +1 @@
+-[u2685 | 03:21:55.050-03:21:56.610 | Kenzo] What, what do you know of {{nine Sarah}}?
++[u2685 | 03:21:55.050-03:21:56.610 | Kenzo] What, what do you know of Nayan Sura?
+--- before/u2701
++++ after/u2701
+@@ -1 +1 @@
+-[u2701 | 03:22:47.730-03:22:49.020 | Kenzo] Um, {{nine Sarah}}.
++[u2701 | 03:22:47.730-03:22:49.020 | Kenzo] Um, Nayan Sura.
+--- before/u2702
++++ after/u2702
+@@ -1 +1 @@
+-[u2702 | 03:22:51.150-03:22:56.340 | Kenzo] Well, have you spoken with Kayla about this topic? Because I shared some information with Kayla about {{nine Sir}}.
++[u2702 | 03:22:51.150-03:22:56.340 | Kenzo] Well, have you spoken with Kayla about this topic? Because I shared some information with Kayla about Nayan Sura.
+--- before/u2709
++++ after/u2709
+@@ -1 +1 @@
+-[u2709 | 03:23:33.180-03:23:34.590 | Wellby] Assuming he’s meaning is {{nine service}}.
++[u2709 | 03:23:33.180-03:23:34.590 | Wellby] Assuming he’s meaning is Nayan Sura.
+--- before/u2714
++++ after/u2714
+@@ -1 +1 @@
+-[u2714 | 03:24:09.900-03:24:13.440 | Kenzo] Obviously the appearance of {{nine Saara}} is not a.
++[u2714 | 03:24:09.900-03:24:13.440 | Kenzo] Obviously the appearance of Nayan Sura is not a.
+--- before/u2716
++++ after/u2716
+@@ -1 +1 @@
+-[u2716 | 03:24:26.670-03:24:31.740 | Kenzo] In my brief interactions and in seeing her in {{Kerala}}.
++[u2716 | 03:24:26.670-03:24:31.740 | Kenzo] In my brief interactions and in seeing her in Karawa.
+--- before/u2732
++++ after/u2732
+@@ -1 +1 @@
+-[u2732 | 03:25:55.770-03:26:01.320 | Kenzo] What dealings that person or persons may have had with {{the gotta}} is, is unknown to us.
++[u2732 | 03:25:55.770-03:26:01.320 | Kenzo] What dealings that person or persons may have had with Agata is, is unknown to us.
+--- before/u2733
++++ after/u2733
+@@ -1 +1 @@
+-[u2733 | 03:26:02.850-03:26:10.140 | Wellby] Quick point of order, we think it was {{a good as}} henchman who, who did the abduction, but we don’t know.
++[u2733 | 03:26:02.850-03:26:10.140 | Wellby] Quick point of order, we think it was Agata's henchman who, who did the abduction, but we don’t know.
+--- before/u2738
++++ after/u2738
+@@ -1 +1 @@
+-[u2738 | 03:26:31.710-03:26:36.240 | Kenzo] Right now I do not. When we left {{Tara was}}, she was still there in the city.
++[u2738 | 03:26:31.710-03:26:36.240 | Kenzo] Right now I do not. When we left Karawa, she was still there in the city.
+--- before/u2785
++++ after/u2785
+@@ -1 +1 @@
+-[u2785 | 03:30:41.370-03:30:43.530 | DM] I would ask that this message get to {{sir}}.
++[u2785 | 03:30:41.370-03:30:43.530 | DM] I would ask that this message get to Sura.
+--- before/u2788
++++ after/u2788
+@@ -1 +1 @@
+-[u2788 | 03:30:57.810-03:31:00.780 | DM] She must not bring an army west of the {{heart}}.
++[u2788 | 03:30:57.810-03:31:00.780 | DM] She must not bring an army west of the Hara.
+--- before/u2795
++++ after/u2795
+@@ -1 +1 @@
+-[u2795 | 03:31:36.900-03:31:37.620 | DM] {{Cardenas}}.
++[u2795 | 03:31:36.900-03:31:37.620 | DM] Karnas.
+--- before/u2796
++++ after/u2796
+@@ -1 +1 @@
+-[u2796 | 03:31:38.100-03:31:38.640 | Unknown] {{Partners}}.
++[u2796 | 03:31:38.100-03:31:38.640 | Unknown] Karnas.
+--- before/u2797
++++ after/u2797
+@@ -1 +1 @@
+-[u2797 | 03:31:39.900-03:31:41.250 | Kenzo] Do you know what {{karnofsky}} means to do?
++[u2797 | 03:31:39.900-03:31:41.250 | Kenzo] Do you know what Karnas means to do?
+--- before/u2818
++++ after/u2818
+@@ -1 +1 @@
+-[u2818 | 03:33:09.240-03:33:12.510 | Kenzo] Affected by, by {{Gaza}}. Now, that said.
++[u2818 | 03:33:09.240-03:33:12.510 | Kenzo] Affected by, by Agata. Now, that said.
+--- before/u2820
++++ after/u2820
+@@ -1 +1 @@
+-[u2820 | 03:33:20.130-03:33:29.760 | Kenzo] In the trap, who collaborated with {{a gotta}} to ensnare her. This we do not know, and this is of great and dire consequence.
++[u2820 | 03:33:20.130-03:33:29.760 | Kenzo] In the trap, who collaborated with Agata to ensnare her. This we do not know, and this is of great and dire consequence.
+--- before/u2822
++++ after/u2822
+@@ -1 +1 @@
+-[u2822 | 03:33:49.140-03:33:52.290 | Kenzo] Can I ask what the {{Kardashians}} are doing here?
++[u2822 | 03:33:49.140-03:33:52.290 | Kenzo] Can I ask what the Chardonians are doing here?
+--- before/u2831
++++ after/u2831
+@@ -1 +1 @@
+-[u2831 | 03:34:44.790-03:34:47.970 | Kenzo] When I'm Sighting Ilya when he's talking about the {{Kardashians}}, is he like.
++[u2831 | 03:34:44.790-03:34:47.970 | Kenzo] When I'm Sighting Ilya when he's talking about the Chardonians, is he like.
+--- before/u2866
++++ after/u2866
+@@ -1 +1 @@
+-[u2866 | 03:37:19.170-03:37:26.190 | Kenzo] Your sharing of, of what you know, and let me discuss with my companions how best we can, we can get the message to {{Syria}}.
++[u2866 | 03:37:19.170-03:37:26.190 | Kenzo] Your sharing of, of what you know, and let me discuss with my companions how best we can, we can get the message to Sura.
+--- before/u2870
++++ after/u2870
+@@ -1 +1 @@
+-[u2870 | 03:37:40.170-03:37:41.520 | DM] Those who killed {{a gotta}}.
++[u2870 | 03:37:40.170-03:37:41.520 | DM] Those who killed Agata.
+--- before/u2888
++++ after/u2888
+@@ -1 +1 @@
+-[u2888 | 03:39:11.400-03:39:15.150 | Seeker] So the question is, is how to get a message to {{answer}}.
++[u2888 | 03:39:11.400-03:39:15.150 | Seeker] So the question is, is how to get a message to Sura.
+--- before/u2905
++++ after/u2905
+@@ -1 +1 @@
+-[u2905 | 03:40:10.950-03:40:17.730 | Seeker] Because it's true, we don't know exactly where she is, so it'd take us potentially a while. We'd go back to {{Kerala}}, but yeah.
++[u2905 | 03:40:10.950-03:40:17.730 | Seeker] Because it's true, we don't know exactly where she is, so it'd take us potentially a while. We'd go back to Karawa, but yeah.
+--- before/u2907
++++ after/u2907
+@@ -1 +1 @@
+-[u2907 | 03:40:19.140-03:40:20.940 | Wellby] She could be all over the place, {{Sarah}}.
++[u2907 | 03:40:19.140-03:40:20.940 | Wellby] She could be all over the place, Sura.
+--- before/u2924
++++ after/u2924
+@@ -1 +1 @@
+-[u2924 | 03:41:17.700-03:41:23.730 | Delwath] Yeah, but, but also couldn't anybody, I mean, couldn't the {{charge on the}} cast the scroll, cast Sending?
++[u2924 | 03:41:17.700-03:41:23.730 | Delwath] Yeah, but, but also couldn't anybody, I mean, couldn't the Chardonians cast the scroll, cast Sending?
+--- before/u2926
++++ after/u2926
+@@ -1 +1 @@
+-[u2926 | 03:41:27.420-03:41:29.490 | Kenzo] Yeah, but then it'd be coming from the {{cardone and}}, you—.
++[u2926 | 03:41:27.420-03:41:29.490 | Kenzo] Yeah, but then it'd be coming from the Chardonian, you—.
+--- before/u2929
++++ after/u2929
+@@ -1 +1 @@
+-[u2929 | 03:41:37.860-03:41:39.390 | Delwath] There's tons of people who know {{sir}}.
++[u2929 | 03:41:37.860-03:41:39.390 | Delwath] There's tons of people who know Sura.
+--- before/u2932
++++ after/u2932
+@@ -1 +1 @@
+-[u2932 | 03:41:47.040-03:41:48.750 | DM] None of the {{Charter Indians}} know her.
++[u2932 | 03:41:47.040-03:41:48.750 | DM] None of the Chardonians know her.
+--- before/u2954
++++ after/u2954
+@@ -1 +1 @@
+-[u2954 | 03:43:16.320-03:43:19.170 | DM] It’s the army of {{Tokyo}}, yes. Well, it’s the ar— I mean.
++[u2954 | 03:43:16.320-03:43:19.170 | DM] It’s the army of Tokra, yes. Well, it’s the ar— I mean.
+--- before/u2975
++++ after/u2975
+@@ -1 +1 @@
+-[u2975 | 03:44:39.390-03:44:43.500 | Delwath] The meeting, she is not gonna—no, no, we don’t want to, we don’t want to ask her to cross the {{hard}}.
++[u2975 | 03:44:39.390-03:44:43.500 | Delwath] The meeting, she is not gonna—no, no, we don’t want to, we don’t want to ask her to cross the Hara.
+--- before/u2978
++++ after/u2978
+@@ -1 +1 @@
+-[u2978 | 03:44:50.640-03:45:02.130 | Delwath] Oh, {{hires}} is the one, okay, so she could ride up to {{toe cried}}, be in compliance. She could camp her army outside of {{tokens}} to besiege half of it, still be in compliance.
++[u2978 | 03:44:50.640-03:45:02.130 | Delwath] Oh, Hara is the one, okay, so she could ride up to Tokra, be in compliance. She could camp her army outside of Tokra to besiege half of it, still be in compliance.
+--- before/u2979
++++ after/u2979
+@@ -1 +1 @@
+-[u2979 | 03:45:02.730-03:45:04.410 | DM] Well, she couldn't besiege {{Toker}}.
++[u2979 | 03:45:02.730-03:45:04.410 | DM] Well, she couldn't besiege Tokra.
+--- before/u2983
++++ after/u2983
+@@ -1 +1 @@
+-[u2983 | 03:45:07.410-03:45:10.410 | Delwath] Right, okay, I, for some reason I thought the {{higher}} was out by—.
++[u2983 | 03:45:07.410-03:45:10.410 | Delwath] Right, okay, I, for some reason I thought the Hara was out by—.
+--- before/u2999
++++ after/u2999
+@@ -1 +1 @@
+-[u2999 | 03:45:43.590-03:45:46.290 | DM] Do not know offhand if {{kendra so I}} can cast Sending.
++[u2999 | 03:45:43.590-03:45:46.290 | DM] Do not know offhand if Candrosa can cast Sending.
+--- before/u3000
++++ after/u3000
+@@ -1 +1 @@
+-[u3000 | 03:45:48.180-03:45:55.110 | DM] I am sure that one of those {{lacan}}, yeah, {{miss die}}, who are out at the tower right now can cast Sending.
++[u3000 | 03:45:48.180-03:45:55.110 | DM] I am sure that one of those Lakan, yeah, mystai, who are out at the tower right now can cast Sending.
+--- before/u3070
++++ after/u3070
+@@ -1 +1 @@
+-[u3070 | 03:51:39.870-03:51:45.300 | DM] And you speak this message, willing it to reach {{Sarah}}’s ears.
++[u3070 | 03:51:39.870-03:51:45.300 | DM] And you speak this message, willing it to reach Sura’s ears.
+--- before/u3108
++++ after/u3108
+@@ -1 +1 @@
+-[u3108 | 03:53:57.630-03:54:05.880 | Kenzo] I'm guessing Kayla knows this as well, but when the {{lock and}} monks return to the monastery, you will have the ability to communicate with her again.
++[u3108 | 03:53:57.630-03:54:05.880 | Kenzo] I'm guessing Kayla knows this as well, but when the Lakan monks return to the monastery, you will have the ability to communicate with her again.
+--- before/u3112
++++ after/u3112
+@@ -1 +1 @@
+-[u3112 | 03:54:28.380-03:54:31.200 | DM] Guidance of {{La}} now.
++[u3112 | 03:54:28.380-03:54:31.200 | DM] Guidance of Lara now.
+--- before/u3114
++++ after/u3114
+@@ -1 +1 @@
+-[u3114 | 03:54:38.070-03:54:49.980 | Kenzo] Then, Ilya, I’m grateful that we could be of service and that this message was communicated to {{sorry}}. I honestly am tremendously relieved to hear your and Kayla’s position.
++[u3114 | 03:54:38.070-03:54:49.980 | Kenzo] Then, Ilya, I’m grateful that we could be of service and that this message was communicated to Sura. I honestly am tremendously relieved to hear your and Kayla’s position.
+--- before/u3116
++++ after/u3116
+@@ -1 +1 @@
+-[u3116 | 03:54:58.050-03:55:06.870 | Kenzo] Prior to meeting your guards, had planned to journey north along the river for a few days before returning back to {{to grow}}.
++[u3116 | 03:54:58.050-03:55:06.870 | Kenzo] Prior to meeting your guards, had planned to journey north along the river for a few days before returning back to Tokra.
+--- before/u3125
++++ after/u3125
+@@ -1 +1 @@
+-[u3125 | 03:55:39.330-03:55:42.420 | DM] Until {{throws}} messenger arrives.
++[u3125 | 03:55:39.330-03:55:42.420 | DM] Until Sura's messenger arrives.
+--- before/u3136
++++ after/u3136
+@@ -1 +1 @@
+-[u3136 | 03:56:24.000-03:56:27.300 | Kenzo] Sees his companions, glances at the {{chart on Ian}}.
++[u3136 | 03:56:24.000-03:56:27.300 | Kenzo] Sees his companions, glances at the Chardonian.
+--- before/u3157
++++ after/u3157
+@@ -1 +1 @@
+-[u3157 | 03:57:35.430-03:57:46.290 | DM] Well, there's no—there is a message. So you go back to the inn to like sort of recover your gear and, um, you know, there's a message from, from {{foster I}}, like, um.
++[u3157 | 03:57:35.430-03:57:46.290 | DM] Well, there's no—there is a message. So you go back to the inn to like sort of recover your gear and, um, you know, there's a message from, from Fallthra, like, um.
+--- before/u3200
++++ after/u3200
+@@ -1 +1 @@
+-[u3200 | 04:01:08.490-04:01:11.220 | DM] The {{child frog ours}} tower.
++[u3200 | 04:01:08.490-04:01:11.220 | DM] The Hralgar's tower.
+--- before/u3215
++++ after/u3215
+@@ -1 +1 @@
+-[u3215 | 04:02:03.240-04:02:08.970 | DM] So you leave {{to craft}}, riding north just after lunch.
++[u3215 | 04:02:03.240-04:02:08.970 | DM] So you leave Tokra, riding north just after lunch.
+--- before/u3218
++++ after/u3218
+@@ -1 +1 @@
+-[u3218 | 04:02:23.100-04:02:27.960 | DM] You pass quickly through like the sort of farmland at the outskirts of {{Toker}} and.
++[u3218 | 04:02:23.100-04:02:27.960 | DM] You pass quickly through like the sort of farmland at the outskirts of Tokra and.

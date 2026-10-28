@@ -393,7 +393,7 @@
 [u0393 | 00:33:02.190-00:33:03.840 | DM] Yes, you'd be willing to.
 [u0394 | 00:33:05.970-00:33:09.450 | DM] share your knowledge, maybe.
 [u0395 | 00:33:12.930-00:33:13.410 | Delwath] Happily.
-[u0396 | 00:33:15.690-00:33:19.470 | DM] keynote Do you know what the {{under fully}} is.
+[u0396 | 00:33:15.690-00:33:19.470 | DM] keynote Do you know what the Andathulë is.
 [u0397 | 00:33:22.860-00:33:24.960 | DM] Something like the deep breath.
 [u0398 | 00:33:29.190-00:33:29.670 | Delwath] I'm.
 [u0399 | 00:33:31.950-00:33:38.220 | Delwath] debbie Tim I don't actually know what these words mean, am I supposed to make stuff up or are you good.
@@ -424,7 +424,7 @@
 [u0424 | 00:35:55.170-00:35:58.410 | DM] This is that translation of the elven writing that is on the.
 [u0425 | 00:36:06.780-00:36:07.800 | Delwath] I'm asking you a question.
 [u0426 | 00:36:19.980-00:36:21.990 | Delwath] Okay okay that gives me good context.
-[u0427 | 00:36:28.080-00:36:32.190 | Delwath] And, {{and if billy}} is a.
+[u0427 | 00:36:28.080-00:36:32.190 | Delwath] And, Andathulë is a.
 [u0428 | 00:36:35.580-00:36:37.800 | Delwath] I would translate it as something like the.
 [u0429 | 00:36:39.030-00:36:40.290 | Unknown] Long breath.
 [u0430 | 00:36:42.540-00:36:46.440 | Delwath] But long in the elvish sense, not the human sense.
@@ -463,7 +463,7 @@
 [u0463 | 00:39:18.270-00:39:19.500 | Delwath] But when I was a child.
 [u0464 | 00:39:22.530-00:39:25.440 | Delwath] He was certainly still among us.
 [u0465 | 00:39:27.660-00:39:28.740 | Delwath] Where I don't know.
-[u0466 | 00:39:33.360-00:39:36.660 | Delwath] I suspect he knows what {{the really}} is.
+[u0466 | 00:39:33.360-00:39:36.660 | Delwath] I suspect he knows what Andathulë is.
 [u0467 | 00:39:37.890-00:39:38.610 | Delwath] better than me.
 [u0468 | 00:39:43.620-00:39:47.970 | DM] I would so dearly love to talk to the wise of the elves one day.
 [u0469 | 00:39:52.440-00:39:54.330 | DM] So many things they could tell us.
@@ -482,13 +482,13 @@
 [u0482 | 00:40:49.320-00:40:50.400 | DM] something about how the.
 [u0483 | 00:40:52.590-00:40:57.150 | DM] The planes are classified into three parts.
 [u0484 | 00:40:59.130-00:41:00.330 | DM] {{Is tar}}.
-[u0485 | 00:41:01.980-00:41:06.330 | DM] Sorry, I don't speak Elvish {{tyrell Lynn delay}}.
+[u0485 | 00:41:01.980-00:41:06.330 | DM] Sorry, I don't speak Elvish Taurelindalëa.
 [u0486 | 00:41:08.040-00:41:08.640 | DM] Is that.
 [u0487 | 00:41:16.830-00:41:19.620 | DM] Is that something you, you know.
 [u0488 | 00:41:20.430-00:41:21.390 | Delwath] I think your footnotes are.
 [u0489 | 00:41:22.140-00:41:23.970 | DM] yeah yeah there you're right the wrong.
 [u0490 | 00:41:38.370-00:41:38.820 | Unknown] Ah.
-[u0491 | 00:41:51.300-00:41:52.980 | Delwath] {{Tyrolean delay}} is a.
+[u0491 | 00:41:51.300-00:41:52.980 | Delwath] Taurelindalëa is a.
 [u0492 | 00:42:02.670-00:42:03.780 | Delwath] it's a place.
 [u0493 | 00:42:06.750-00:42:07.650 | Delwath] So it said.
 [u0494 | 00:42:09.750-00:42:11.490 | Delwath] The stories I heard.
@@ -723,7 +723,7 @@
 [u0723 | 01:01:00.120-01:01:00.390 | Unknown] well.
 [u0724 | 01:01:01.620-01:01:04.290 | Kenzo] You guys to do you have any other questions friends.
 [u0725 | 01:01:05.490-01:01:10.260 | Seeker] I admit I'm puzzled by the discussion of Jinnik and.
-[u0726 | 01:01:12.840-01:01:13.530 | Seeker] {{con}}.
+[u0726 | 01:01:12.840-01:01:13.530 | Seeker] Vancaunvá.
 [u0727 | 01:01:15.180-01:01:17.070 | Seeker] divine and yet not divine.
 [u0728 | 01:01:17.760-01:01:21.030 | DM] Oh yeah that's another word I don't.
 [u0729 | 01:01:22.290-01:01:23.190 | DM] really know.
@@ -740,7 +740,7 @@
 [u0740 | 01:02:14.340-01:02:18.030 | DM] yeah I mean if it's written on a pillar some ruin somewhere it's not like.
 [u0741 | 01:02:19.200-01:02:21.000 | DM] weird secret knowledge right.
 [u0742 | 01:02:23.880-01:02:25.980 | Delwath] Ah fun.
-[u0743 | 01:02:28.230-01:02:30.270 | Delwath] {{fun cabana}}.
+[u0743 | 01:02:28.230-01:02:30.270 | Delwath] Vancaunvá.
 [u0744 | 01:02:32.160-01:02:33.390 | Delwath] is not a.
 [u0745 | 01:02:36.030-01:02:36.960 | Delwath] pleasant word.
 [u0746 | 01:02:38.010-01:02:38.580 | Seeker] know it.
@@ -752,7 +752,7 @@
 [u0752 | 01:03:00.840-01:03:02.640 | Delwath] That there is something out there.
 [u0753 | 01:03:04.170-01:03:06.690 | Delwath] It just doesn't want existence to exist.
 [u0754 | 01:03:12.870-01:03:14.400 | Seeker] strange attitude.
-[u0755 | 01:03:16.440-01:03:20.340 | Delwath] And {{fun Canada}} is the name the wise.
+[u0755 | 01:03:16.440-01:03:20.340 | Delwath] And Vancaunvá is the name the wise.
 [u0756 | 01:03:23.430-01:03:24.660 | Delwath] This emptiness.
 [u0757 | 01:03:26.460-01:03:27.630 | Delwath] it's all to be empty.
 [u0758 | 01:03:28.680-01:03:30.330 | Seeker] I see emptiness.
@@ -781,7 +781,7 @@
 [u0781 | 01:05:22.020-01:05:25.350 | DM] And yet I would still know of them.
 [u0782 | 01:05:30.000-01:05:31.950 | Delwath] The elves do you spend much time.
 [u0783 | 01:05:33.150-01:05:34.590 | Delwath] Looking at these places.
-[u0784 | 01:05:44.940-01:05:47.640 | Delwath] {{rukavina}} though I've always chose to believe is not real.
+[u0784 | 01:05:44.940-01:05:47.640 | Delwath] Vancaunvá though I've always chose to believe is not real.
 [u0785 | 01:05:49.380-01:05:51.030 | Delwath] I don't like the idea of something that wants to.
 [u0786 | 01:05:53.130-01:05:53.790 | Delwath] Have nothing.
 [u0787 | 01:05:55.800-01:05:57.420 | Delwath] seems worse than an evil.
@@ -895,7 +895,7 @@
 [u0895 | 01:15:29.220-01:15:38.250 | DM] They are the creators of the gods and humans and the world, and everything on it and the planes and magic.
 [u0896 | 01:15:40.380-01:15:50.910 | DM] They are given many names Arha and Malik by the Drankorians and the followers of the Way sometimes called the duality of the divine presence.
 [u0897 | 01:15:52.140-01:15:56.010 | DM] Kaikkea the great ocean, the mother sea to the Skaer people.
-[u0898 | 01:15:57.090-01:16:02.400 | DM] {{scapa and host}} are the creator and destroyer the beginning the end in some of the.
+[u0898 | 01:15:57.090-01:16:02.400 | DM] Skapa and Hoestar are the creator and destroyer the beginning the end in some of the.
 [u0899 | 01:16:05.280-01:16:15.540 | DM] highland areas of Sembara where they hold to the old ways and many other names uncounted and maybe even among the elves and dwarves and the halflings these.
 [u0900 | 01:16:17.430-01:16:19.830 | DM] original divinities referred to.
 [u0901 | 01:16:21.090-01:16:35.550 | DM] But there are many I have actually made a study of the names and interpretations of these divine beings who never seem to do anything but create other gods are no stories of their deeds or their.
@@ -1049,7 +1049,7 @@
 [u1049 | 01:29:35.640-01:29:36.150 | DM] coming in.
 [u1050 | 01:29:36.360-01:29:37.950 | DM] We do that anywhere in town.
 [u1051 | 01:29:39.630-01:29:44.640 | DM] that's easy enough to do and in I mean you'd probably want to go to the dwarves and.
-[u1052 | 01:29:45.840-01:29:55.680 | DM] there's like the little dwarven quarter, where you know people I'm sure you know, like {{vista fire forge}} the dwarven innkeeper would know where to get decent dwarven armor in town.
+[u1052 | 01:29:45.840-01:29:55.680 | DM] there's like the little dwarven quarter, where you know people I'm sure you know, like Vistra Fireforge the dwarven innkeeper would know where to get decent dwarven armor in town.
 [u1053 | 01:29:55.770-01:29:58.800 | Delwath] I'm I'm going to assume, by the way, that we took a short rest.
 [u1054 | 01:30:00.390-01:30:00.810 | DM] Yes.
 [u1055 | 01:30:02.160-01:30:03.630 | DM] that's fine oh.
@@ -1580,7 +1580,7 @@
 [u1580 | 02:09:25.230-02:09:27.060 | DM] A little like sort of.
 [u1581 | 02:09:28.290-02:09:31.320 | DM] A disused store room that Kenzo knows about.
 [u1582 | 02:09:32.040-02:09:34.140 | DM] I mean Rishi would know.
-[u1583 | 02:09:34.560-02:09:40.140 | DM] Rishi hope somebody must have helped you either presumably Rishi or {{Joe}} or but somebody Kenzo knows the process.
+[u1583 | 02:09:34.560-02:09:40.140 | DM] Rishi hope somebody must have helped you either presumably Rishi or Johar or but somebody Kenzo knows the process.
 [u1584 | 02:09:40.170-02:09:41.970 | Kenzo] yeah yeah so it's well hidden.
 [u1585 | 02:09:43.380-02:09:43.860 | Kenzo] and
 [u1586 | 02:09:48.930-02:09:57.870 | Kenzo] We should consider like burying it in the woods, though, like fucking using Seeker's like earth abilities and my go really hide it for a couple weeks.
@@ -1615,7 +1615,7 @@
 [u1615 | 02:12:10.890-02:12:13.380 | Wellby] we're not {{used to the world portal}} that could be a.
 [u1616 | 02:12:13.410-02:12:14.670 | Wellby] Nice sort this all out.
 [u1617 | 02:12:15.150-02:12:15.840 | Unknown] East.
-[u1618 | 02:12:17.100-02:12:25.950 | Delwath] Now I I hate to say it, but East is the desolation of {{schema}} which I think is where we must end up going.
+[u1618 | 02:12:17.100-02:12:25.950 | Delwath] Now I I hate to say it, but East is the desolation of Cha'mutte which I think is where we must end up going.
 [u1619 | 02:12:27.720-02:12:28.890 | Delwath] To finish what Rai started.
 [u1620 | 02:12:29.640-02:12:35.730 | Kenzo] Any other things we want to do, in Tokra, I know I know I know I need to go, I know I want to speak with the high priestess.
 [u1621 | 02:12:36.600-02:12:39.540 | Delwath] let's go, I want to know what was stolen from the archive.
@@ -2229,7 +2229,7 @@
 [u2229 | 03:02:48.780-03:02:56.820 | DM] Karnas actually it's a it's a previous Samraat Nayan Yarad has like a few generations back is um.
 [u2230 | 03:02:58.290-03:03:06.060 | Delwath] Is there any notes about Karnas is, does he mentioned any battles that are in in Karnas' time or anything like that.
 [u2231 | 03:03:06.390-03:03:22.260 | DM] No, the five main it seems like the notes have focused on five major victories which all, all of which he claims would have been defeats but for the blessing of the gods The first is the second hobgoblin war.
-[u2232 | 03:03:24.480-03:03:34.410 | DM] The second is the vanquishing of the Fraternity of the Empty Moon from Tokra the third is that battle of {{Trevor Trevor hundred}}.
+[u2232 | 03:03:24.480-03:03:34.410 | DM] The second is the vanquishing of the Fraternity of the Empty Moon from Tokra the third is that battle of Shrevandurg.
 [u2233 | 03:03:36.150-03:03:37.470 | Delwath] These are all post Great War.
 [u2234 | 03:03:37.980-03:03:43.380 | DM] These are all post Great War yeah The fourth is the defeat of the plague trees.
 [u2235 | 03:03:44.760-03:03:47.340 | DM] And the fifth at the battle of the Red Storms.
@@ -2258,7 +2258,7 @@
 [u2258 | 03:05:56.670-03:06:01.500 | DM] To like hard to because, like it's you know if you lift up the paper like bits are crumbling and things.
 [u2259 | 03:06:03.360-03:06:03.990 | DM] and
 [u2260 | 03:06:07.050-03:06:17.880 | DM] they've actually had a scribe working on there's about 50 letters they've had somebody working on copying these over and and he sort of summarizes what they've been able to learn, which isn't perfect because a few of them have been destroyed but.
-[u2261 | 03:06:18.390-03:06:31.260 | DM] They seem to be a set of letters from commander {{ilya}} to the Samraat Nayan Yarad and {{alias}} seems to have been the local garrison commander responsible for the defense of Tokra.
+[u2261 | 03:06:18.390-03:06:31.260 | DM] They seem to be a set of letters from commander Ila to the Samraat Nayan Yarad and Ila seems to have been the local garrison commander responsible for the defense of Tokra.
 [u2262 | 03:06:32.580-03:06:34.470 | DM] sort of in the aftermath of the.
 [u2263 | 03:06:36.780-03:06:44.640 | DM] Second hobgoblin war, they all date from the 21st to the 24th year of the reign of Samraat Nayan Yarad.
 [u2264 | 03:06:47.070-03:06:50.910 | DM] And they seem to concern a few different things right so there's.
@@ -2440,7 +2440,7 @@
 [u2440 | 03:20:32.880-03:20:33.660 | Delwath] circle there.
 [u2441 | 03:20:34.050-03:20:35.370 | DM] The scribe was.
 [u2442 | 03:20:36.810-03:20:37.770 | DM] looked up to him.
-[u2443 | 03:20:43.980-03:20:46.620 | DM] {{Guerrero}} was his name, he was a.
+[u2443 | 03:20:43.980-03:20:46.620 | DM] Gauro was his name, he was a.
 [u2444 | 03:20:48.780-03:20:50.400 | DM] younger and.
 [u2445 | 03:20:52.110-03:20:54.570 | DM] dedicated to following in.
 [u2446 | 03:20:55.740-03:20:56.640 | DM] Govir's.
@@ -2491,7 +2491,7 @@
 [u2491 | 03:25:51.960-03:25:55.590 | DM] You know who would enjoy telling you about that.
 [u2492 | 03:25:57.030-03:25:57.870 | DM] Is a.
 [u2493 | 03:26:07.980-03:26:08.160 | DM] Ah.
-[u2494 | 03:26:09.630-03:26:12.120 | DM] {{bonnie}} she's a priest of Chidya.
+[u2494 | 03:26:09.630-03:26:12.120 | DM] Uvani she's a priest of Chidya.
 [u2495 | 03:26:13.500-03:26:14.580 | DM] works in the temple.
 [u2496 | 03:26:16.590-03:26:18.930 | DM] One of Kaleha's assistants.
 [u2497 | 03:26:23.100-03:26:24.180 | DM] She would appreciate it.
@@ -2714,7 +2714,7 @@
 [u2714 | 03:44:50.250-03:44:51.450 | DM] Within the monastery.
 [u2715 | 03:44:51.450-03:45:01.290 | Kenzo] itself, no, no, not worried about that I'm more worried about like like whoever the saboteurs that fucking imprisoned Sura which we still whom don't know where they are.
 [u2716 | 03:45:01.530-03:45:08.550 | Kenzo] Right are are you know, maybe after us, they may be, after the mirror, they may be, you know so just to while these earlier like.
-[u2717 | 03:45:08.940-03:45:14.220 | Wellby] {{sales}}, on the other hand, I mean {{a cast God}}, would like to destroy those mirrors.
+[u2717 | 03:45:08.940-03:45:14.220 | Wellby] Yezali, on the other hand, I mean Aaviskar, would like to destroy those mirrors.
 [u2718 | 03:45:15.870-03:45:20.130 | Wellby] But I don't think that there's no connection like that I don't think that's a real risk.
 [u2719 | 03:45:20.460-03:45:28.140 | Kenzo] yeah Kenzo's—Kenzo's worried about the monastery so if the monastery like is like super magic up and protected and shit then, then Kenzo's not worried.
 [u2720 | 03:45:28.530-03:45:40.710 | DM] Right, I mean the legend is that, like right after the right after the Great War when everything was like chaos and bloodshed, there is this fire giant who you know about who came through Kharsan.
@@ -2771,7 +2771,7 @@
 [u2771 | 03:49:31.500-03:49:32.220 | Unknown] I mean.
 [u2772 | 03:49:34.470-03:49:35.790 | DM] you're pretty good at running.
 [u2773 | 03:49:37.950-03:49:38.400 | Kenzo] How quickly.
-[u2774 | 03:49:40.950-03:49:43.860 | DM] Come on {{tiger}} polymorphed himself into a giant ape.
+[u2774 | 03:49:40.950-03:49:43.860 | DM] Come on Seeker polymorphed himself into a giant ape.
 [u2775 | 03:49:43.920-03:49:45.540 | Delwath] yeah wait we get escape.
 [u2776 | 03:49:48.000-03:49:51.060 | DM] You guys are seventh level you're not weaklings anymore, yes.
 [u2777 | 03:49:54.690-03:49:56.460 | Wellby] to match whatever level we are.

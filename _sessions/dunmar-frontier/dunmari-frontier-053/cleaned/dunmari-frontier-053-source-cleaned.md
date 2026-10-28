@@ -1,9 +1,9 @@
 [u0001 | 00:00:02.909-00:00:16.619 | DM] Okay, so short intro as you are leaving the village have to have the Te'kula, following Theba and your friends back to the material world, keenly aware of the tanshi that seemed to hover just beyond your senses.
-[u0002 | 00:00:18.359-00:00:35.520 | DM] You can almost feel the hand of Aasimti holding this place hidden in light and shadow. The path seems to splinter and shift, as if seen through blinking, broken glass, and you sense the work of {{Barry Chico}}, the spirit of glass, in your vision.
-[u0003 | 00:00:36.630-00:00:47.790 | DM] You feel rain on your face, the water soaking into the ground, and for a moment you sense the presence of {{show you}} as you almost feel the squashing of mud on your bare feet, through your armored boots.
+[u0002 | 00:00:18.359-00:00:35.520 | DM] You can almost feel the hand of Aasimti holding this place hidden in light and shadow. The path seems to splinter and shift, as if seen through blinking, broken glass, and you sense the work of Birich'iko, the spirit of glass, in your vision.
+[u0003 | 00:00:36.630-00:00:47.790 | DM] You feel rain on your face, the water soaking into the ground, and for a moment you sense the presence of Ch'ik'a as you almost feel the squashing of mud on your bare feet, through your armored boots.
 [u0004 | 00:00:49.950-00:01:05.340 | DM] As you walk distracted by your newfound awareness of the spirits that flit around you, suddenly your—when your vision is pulled back to your friends in a jumbled collection of images, as the pocket dimension collapses: a ship approaching a jagged coastline.
 [u0005 | 00:01:10.800-00:01:15.660 | DM] of an unfamiliar island a meadow of golden butterflies a dense tropical forest.
-[u0006 | 00:01:16.920-00:01:29.160 | DM] As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: find your way to the Feywild, to the portal near {{you do miss}} Tower; we will meet again there.
+[u0006 | 00:01:16.920-00:01:29.160 | DM] As you feel Kenzo, Wellby and Seeker pulled away from you, you hear Wellby's voice in your mind just for a moment: find your way to the Feywild, to the portal near Eudomes' Tower; we will meet again there.
 [u0007 | 00:01:30.660-00:01:32.670 | DM] And then you are hurtling towards the ground.
 [u0008 | 00:01:33.780-00:01:47.640 | DM] It is late afternoon trending towards dusk, and you see below you the slopes of tall mountains, the peaks tipped in white, dense fir-pine forests covering the slopes. There's a chill in the air, the hint of a long winter to come.
 [u0009 | 00:01:48.960-00:01:55.770 | DM] Stretching to the west, rugged hills of mixed forest, the maples of the lower elevations already turning vibrant reds and yellows.
@@ -79,7 +79,7 @@
 [u0079 | 00:07:52.350-00:07:54.060 | Delwath] A 500 feet right or something like that.
 [u0080 | 00:07:56.250-00:07:56.580 | DM] yeah.
 [u0081 | 00:07:56.850-00:07:57.120 | Unknown] Okay.
-[u0082 | 00:08:01.650-00:08:08.610 | Delwath] After many twisted pathways I found my way to the {{tenant taka}}, right, was a guest of the Te'kula.
+[u0082 | 00:08:01.650-00:08:08.610 | Delwath] After many twisted pathways I found my way to the Tinitaka, right, was a guest of the Te'kula.
 [u0083 | 00:08:10.050-00:08:12.840 | Delwath] People like yourselves, I believe.
 [u0084 | 00:08:14.040-00:08:17.610 | Delwath] Most recently, he kind of walks back behind him 500 feet.
 [u0085 | 00:08:18.930-00:08:23.580 | Delwath] out 500 feet that way how I got there I'm not sure.
@@ -160,7 +160,7 @@
 [u0160 | 00:15:14.250-00:15:23.190 | DM] And we fled into the mountains and fled to the protection of the stoneborn and lived in the high peaks for a generation sheltered by.
 [u0161 | 00:15:24.390-00:15:26.220 | DM] In stoneborn refuges.
 [u0162 | 00:15:28.140-00:15:34.230 | DM] You know, the myth anyway is they only escaped because the six silent ones sacrificed to.
-[u0163 | 00:15:35.280-00:15:37.920 | DM] Delay {{shots}} troops long enough.
+[u0163 | 00:15:35.280-00:15:37.920 | DM] Delay Cha'mutte's troops long enough.
 [u0164 | 00:15:39.270-00:15:39.900 | Delwath] I will.
 [u0165 | 00:15:40.920-00:15:45.060 | Delwath] Recount the tale of Yezali.
 [u0166 | 00:15:46.410-00:15:47.520 | Delwath] But from like a.
@@ -193,12 +193,12 @@
 [u0193 | 00:18:25.140-00:18:27.840 | DM] yeah the map, this is just north of.
 [u0194 | 00:18:27.960-00:18:29.280 | Delwath] Just north, yeah yeah yeah.
 [u0195 | 00:18:31.830-00:18:37.470 | Delwath] So, like they don't have any reference I mean they would they're just like this is way to the north, they.
-[u0196 | 00:18:38.490-00:18:40.380 | Delwath] {{Voltaire}}, as far as to the south.
+[u0196 | 00:18:38.490-00:18:40.380 | Delwath] Voltara, as far as to the south.
 [u0197 | 00:18:42.030-00:18:42.450 | DM] yeah.
 [u0198 | 00:18:42.480-00:18:47.340 | DM] I mean, there are no—nor, they know about Chardon, but they're far enough.
 [u0199 | 00:18:47.400-00:18:49.740 | Delwath] North that they that that empire isn't.
 [u0200 | 00:18:49.890-00:18:56.460 | DM] anywhere close to them like the the most of the trade, they have is actually like with them.
-[u0201 | 00:18:57.780-00:19:08.490 | DM] I mean if they're trading with anybody it's with the stoneborn, the like weird northern dwarves who live this far to the north, and then the {{Kangaroo}}, because right on the other side of the mountains from here is the vast open.
+[u0201 | 00:18:57.780-00:19:08.490 | DM] I mean if they're trading with anybody it's with the stoneborn, the like weird northern dwarves who live this far to the north, and then the kenku, because right on the other side of the mountains from here is the vast open.
 [u0202 | 00:19:09.150-00:19:11.640 | DM] Plains that {{word but kinky let up}}, so.
 [u0203 | 00:19:12.960-00:19:26.670 | DM] Um, and this used to be like pretty—this used to be like the center of Deno'qai civilization north of the {{hours}}, like 400, 500 years ago, until {{some up looped in}} and wiped everything out.
 [u0204 | 00:19:28.530-00:19:34.140 | DM] So you got that sort of story from this young boy Zevi who's guiding you.
@@ -220,7 +220,7 @@
 [u0220 | 00:21:24.840-00:21:27.240 | Delwath] We spent a long time at the Te'kula village too.
 [u0221 | 00:21:27.570-00:21:28.080 | DM] You spent.
 [u0222 | 00:21:28.110-00:21:29.550 | DM] 10 days in {{Mexico}} and.
-[u0223 | 00:21:29.700-00:21:34.320 | Delwath] That's actually bad, I really wanted to get down to {{crush}} before he defeated those two.
+[u0223 | 00:21:29.700-00:21:34.320 | Delwath] That's actually bad, I really wanted to get down to Grash before he defeated those two.
 [u0224 | 00:21:35.160-00:21:35.460 | Delwath] Oh well.
 [u0225 | 00:21:36.180-00:21:37.500 | DM] He hasn't defeated them yet.
 [u0226 | 00:21:37.830-00:21:39.390 | DM] Well, but {{we probably hear me}}.
@@ -318,7 +318,7 @@
 [u0318 | 00:29:47.850-00:29:51.000 | DM] The other silent ones fought in battles as well.
 [u0319 | 00:29:52.230-00:30:01.230 | DM] The Battle of the Endless Dark, where Taraka fell silent after three days {{when the sun rise}}, a place now constantly in shadow.
 [u0320 | 00:30:02.910-00:30:16.020 | DM] The Battle Without Hope, where Yalik'I and Nisir fell silent, as our people died in hopelessness, cursed by some evil magic that made them lay down their arms and sit and wait for the slaughter.
-[u0321 | 00:30:17.880-00:30:19.110 | DM] The battle of the {{year mode}}.
+[u0321 | 00:30:17.880-00:30:19.110 | DM] The battle of the Yemo'te.
 [u0322 | 00:30:20.610-00:30:21.000 | DM] Where.
 [u0323 | 00:30:22.440-00:30:29.730 | DM] Midri and K'onisati fell silent, protecting the crossing of the river from endless hobgoblin hordes.
 [u0324 | 00:30:33.270-00:30:33.870 | DM] Maybe.
@@ -462,7 +462,7 @@
 [u0462 | 00:41:32.730-00:41:38.550 | DM] And it's a it's about a day's journey straight down the mountain to the the hunting camp, where you will meet.
 [u0463 | 00:41:40.170-00:41:42.960 | DM] The stoneborn and the wildfire druid.
 [u0464 | 00:41:45.060-00:41:55.050 | DM] And so Enon, the Godcaller, this like old guy in his 70s, like bushy hair, bushy beard, wearing like long robes, um.
-[u0465 | 00:41:56.910-00:42:12.630 | DM] Leaning on a staff, like brings you this set of like shield and armor that he says, you know, if you're going into battle on behalf of {{them a lot T}}, going down to the Forest of Nightmares, you should you should take this.
+[u0465 | 00:41:56.910-00:42:12.630 | DM] Leaning on a staff, like brings you this set of like shield and armor that he says, you know, if you're going into battle on behalf of the Meswati, going down to the Forest of Nightmares, you should you should take this.
 [u0466 | 00:42:14.310-00:42:24.630 | DM] Those were worn by a hero of the Great War, a warrior of the tanshi, and have been waiting to be claimed by somebody who will fight for the silent ones for generations.
 [u0467 | 00:42:26.700-00:42:29.520 | DM] Blessed and will aid you in your fight, I believe.
 [u0468 | 00:42:31.110-00:42:31.950 | DM] If you are.

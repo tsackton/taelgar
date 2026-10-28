@@ -405,7 +405,7 @@
 [u0405 | 00:44:05.260-00:44:07.420 | Delwath] And we were up.
 [u0406 | 00:44:07.860-00:44:17.230 | Delwath] That was, we'll finish that. The story was something like we were unsure of our next move
 [u0407 | 00:44:17.390-00:44:20.060 | Delwath] when Harrow and Wend forced our hand.
-[u0408 | 00:44:21.390-00:44:38.003 | Delwath] and their minions appeared on our flying castle like kind of a cool flying castle. {{Double}}, you know. You'd like it right? You could have a good party there. We threw a party there once, not as good as this party, but it was not a bad party going a little diversion about our party at {{Dolan}}. Right?
+[u0408 | 00:44:21.390-00:44:38.003 | Delwath] and their minions appeared on our flying castle like kind of a cool flying castle. {{Double}}, you know. You'd like it right? You could have a good party there. We threw a party there once, not as good as this party, but it was not a bad party going a little diversion about our party at Tollen. Right?
 [u0409 | 00:44:38.970-00:44:39.490 | Delwath] But
 [u0410 | 00:44:41.040-00:44:54.139 | Delwath] Their minions appeared on our ship, chasing Lirien, the bearer of one of the the amber Amberlights
 [u0411 | 00:44:54.360-00:45:01.509 | Delwath] I'll get, I'll get it right. Eventually. The bearer of one of the Amberlights who told us to seek the Prismwell.
@@ -632,7 +632,7 @@
 [u0632 | 01:11:16.240-01:11:19.599 | DM] You can't live in Emberwine without enjoying the revel.
 [u0633 | 01:11:27.320-01:11:30.119 | DM] One time I came here.
 [u0634 | 01:11:32.470-01:11:35.139 | DM] And well, there was this woman.
-[u0635 | 01:11:37.750-01:11:53.039 | DM] {{Sara the Golden}}. She was beautiful, aloof, radiant. She wasn't. She wasn't from here. She was from Everlight's Bloom. I don't think she should have ever left Everlight's Bloom to be honest like. What was she doing here? I mean, she didn't fit in.
+[u0635 | 01:11:37.750-01:11:53.039 | DM] Yasara the Golden. She was beautiful, aloof, radiant. She wasn't. She wasn't from here. She was from Everlight's Bloom. I don't think she should have ever left Everlight's Bloom to be honest like. What was she doing here? I mean, she didn't fit in.
 [u0636 | 01:11:54.520-01:12:01.289 | DM] She walked through the world as if it was a story she was only half aware of. She danced, she liked to dance.
 [u0637 | 01:12:01.430-01:12:09.100 | DM] and she made these extravagant promises that never seemed to cost her anything, but
 [u0638 | 01:12:10.570-01:12:18.410 | DM] one shouldn't swear oaths in the Feywild one does not intend to keep, so
@@ -746,7 +746,7 @@
 [u0746 | 01:21:06.290-01:21:11.770 | DM] Well, {{I'm I'm not huge}}.
 [u0747 | 01:21:12.550-01:21:14.279 | DM] I have to think about that.
 [u0748 | 01:21:18.080-01:21:19.100 | Wellby] Hmm.
-[u0749 | 01:21:19.100-01:21:38.969 | DM] I mean, people ask me all sorts of things. I think I've gotten more like. Do you regret it? Well, yes, of course you know whatever happened to {{Yasara}}. Nobody knows. She went back to Everlight’s Bloom and she hid away. Did she ever thank you? No. Could you have gotten away with it. Yes, if she'd been smarter about the whole thing.
+[u0749 | 01:21:19.100-01:21:38.969 | DM] I mean, people ask me all sorts of things. I think I've gotten more like. Do you regret it? Well, yes, of course you know whatever happened to Yasara. Nobody knows. She went back to Everlight’s Bloom and she hid away. Did she ever thank you? No. Could you have gotten away with it. Yes, if she'd been smarter about the whole thing.
 [u0750 | 01:21:41.150-01:21:44.219 | DM] I don't know that they tend to sort of obsess about
 [u0751 | 01:21:46.480-01:21:51.489 | DM] {{to highlight}}. Nobody ever asks like, well, what do you do all day.
 [u0752 | 01:21:52.850-01:21:54.000 | Wellby] Yeah.
@@ -761,7 +761,7 @@
 [u0761 | 01:22:37.150-01:22:41.679 | DM] most people don't actually lead very interesting lives since you mortals stopped coming through.
 [u0762 | 01:22:45.500-01:22:47.770 | Wellby] Want to hear an interesting story. That's all true.
 [u0763 | 01:22:48.510-01:22:49.803 | DM] I do?
-[u0764 | 01:22:50.450-01:23:02.900 | Wellby] And I'll I'll start to tell him the the story of stopping {{Emperor}} from becoming a god, and I think the the camera probably moves on to the next.
+[u0764 | 01:22:50.450-01:23:02.900 | Wellby] And I'll I'll start to tell him the the story of stopping Emperor from becoming a god, and I think the the camera probably moves on to the next.
 [u0765 | 01:23:02.900-01:23:17.569 | DM] Yes, we will cut to Delwath, who over, you know, wandering around sort of talking a little, I mean, you're visibly well, no, you're not visibly carrying a sword, but you could be visibly carrying a sword if you wanted to be.
 [u0766 | 01:23:17.570-01:23:18.939 | Delwath] No, but I'm not.
 [u0767 | 01:23:19.090-01:23:19.995 | DM] Okay,
@@ -1274,7 +1274,7 @@
 [u1274 | 02:10:03.060-02:10:06.249 | DM] At least we'll travel as far as the Sunset Gate.
 [u1275 | 02:10:08.940-02:10:16.979 | DM] It is something I have not seen myself, and it is said to be quite a sight.
 [u1276 | 02:10:21.100-02:10:23.270 | DM] I dare not pass beyond.
-[u1277 | 02:10:28.000-02:10:30.510 | DM] perhaps, {{Dimmerstone}}.
+[u1277 | 02:10:28.000-02:10:30.510 | DM] perhaps, Shimmersong.
 [u1278 | 02:10:31.200-02:10:38.849 | DM] Yes, that is {{not as a place}} that might be interesting.
 [u1279 | 02:10:41.300-02:10:47.000 | Riswynn] There are gates from my world into Shimmersong. Right with that.
 [u1280 | 02:10:47.000-02:10:49.300 | DM] None that you know of.

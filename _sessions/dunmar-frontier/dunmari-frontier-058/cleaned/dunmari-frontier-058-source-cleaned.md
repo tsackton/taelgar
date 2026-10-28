@@ -136,7 +136,7 @@
 [u0136 | 00:12:21.900-00:12:28.000 | DM] What business is of yours? What business is it of mine to aid you in this?
 [u0137 | 00:12:28.640-00:12:29.890 | DM] It's it
 [u0138 | 00:12:37.050-00:12:40.139 | Rothfis] honestly. I couldn't give two cusses about him, but
-[u0139 | 00:12:40.280-00:12:43.719 | Rothfis] the {{barriers. I’ll}} have me here to find Hagrim,
+[u0139 | 00:12:40.280-00:12:43.719 | Rothfis] the Bahrâzel have me here to find Hagrim,
 [u0140 | 00:12:44.660-00:12:46.810 | Rothfis] so I must.
 [u0141 | 00:12:47.340-00:12:50.659 | Rothfis] My understanding is that you are the best we can do.
 [u0142 | 00:12:54.300-00:12:56.539 | Riswynn] It is in the interest of justice
@@ -240,7 +240,7 @@
 [u0240 | 00:21:21.590-00:21:24.450 | DM] traveling with that very chalice,
 [u0241 | 00:21:26.980-00:21:28.600 | DM] looking for
 [u0242 | 00:21:29.700-00:21:33.089 | DM] refugees for those who had survived the great war,
-[u0243 | 00:21:35.400-00:21:36.960 | DM] {{i’m}}
+[u0243 | 00:21:35.400-00:21:36.960 | DM] Hagrim
 [u0244 | 00:21:37.260-00:21:39.379 | DM] in those days was a
 [u0245 | 00:21:39.960-00:21:42.189 | DM] seasoned veteran
 [u0246 | 00:21:42.490-00:21:43.570 | DM] fought.
@@ -935,7 +935,7 @@
 [u0935 | 01:21:46.990-01:21:48.570 | DM] Let's see
 [u0936 | 01:21:51.830-01:21:53.740 | DM] It's going to
 [u0937 | 01:21:53.820-01:21:56.059 | DM] step on top of you.
-[u0938 | 01:21:57.660-01:22:03.169 | DM] So it's floating over you, and then make its second claw attack against {{met}}
+[u0938 | 01:21:57.660-01:22:03.169 | DM] So it's floating over you, and then make its second claw attack against Merash
 [u0939 | 01:22:03.470-01:22:05.819 | DM] Merash, which is a twenty.
 [u0940 | 01:22:06.550-01:22:08.240 | Merash] That is
 [u0941 | 01:22:09.700-01:22:12.209 | DM] so. That's going to be.
@@ -1143,7 +1143,7 @@
 [u1143 | 01:37:11.600-01:37:13.349 | DM] He looks at Thror.
 [u1144 | 01:37:13.450-01:37:15.220 | DM] What? Where did you come from?
 [u1145 | 01:37:15.710-01:37:18.920 | Thror] I came in with the Riswynns. I’m Thror
-[u1146 | 01:37:21.380-01:37:23.159 | DM] Thror, {{resign}}.
+[u1146 | 01:37:21.380-01:37:23.159 | DM] Thror, Riswynn.
 [u1147 | 01:37:23.500-01:37:25.390 | DM] Hmm. Nice to meet you.
 [u1148 | 01:37:25.400-01:37:26.870 | Thror] Good to meet you, too.
 [u1149 | 01:37:26.880-01:37:29.089 | Thror] Someone told me you were dead
@@ -1205,7 +1205,7 @@
 [u1205 | 01:41:21.290-01:41:23.410 | DM] maybe, if we could see
 [u1206 | 01:41:24.330-01:41:27.959 | DM] the great halls of our home one more time
 [u1207 | 01:41:31.020-01:41:32.410 | DM] I mean
-[u1208 | 01:41:35.810-01:41:37.849 | Unknown] {{Thorn teller}} so
+[u1208 | 01:41:35.810-01:41:37.849 | Unknown] Tharn Todor so
 [u1209 | 01:41:38.770-01:41:40.120 | DM] primitive
 [u1210 | 01:41:40.950-01:41:42.820 | DM] almost nothing. There,
 [u1211 | 01:41:45.290-01:41:47.749 | DM] I don't know. Maybe it's changed now.
@@ -1292,7 +1292,7 @@
 [u1292 | 01:47:38.710-01:47:41.310 | DM] looking out over the plains up in the
 [u1293 | 01:47:41.330-01:47:43.369 | DM] mountains. Ah,
 [u1294 | 01:47:44.110-01:47:45.360 | DM] well,
-[u1295 | 01:47:45.740-01:47:49.230 | DM] {{darn to her}} was being built and
+[u1295 | 01:47:45.740-01:47:49.230 | DM] Tharn Todor was being built and
 [u1296 | 01:47:50.310-01:47:53.209 | DM] look across, and he would talk about
 [u1297 | 01:47:55.900-01:47:57.680 | DM] the magic
 [u1298 | 01:47:57.990-01:47:59.759 | DM] {{it’s go down bad}}
@@ -1492,7 +1492,7 @@
 [u1492 | 02:03:01.920-02:03:02.980 | Unknown] to kill him?
 [u1493 | 02:03:04.940-02:03:11.029 | Riswynn] I don't know It's kind of like handing down the judgment on behalf of the gods instead of
 [u1494 | 02:03:11.870-02:03:12.910 | Rothfis] right.
-[u1495 | 02:03:13.240-02:03:16.229 | Thror] Well, if the {{mindset}} is more like a parasite.
+[u1495 | 02:03:13.240-02:03:16.229 | Thror] Well, if the mind flayer is more like a parasite.
 [u1496 | 02:03:16.330-02:03:22.209 | Thror] We have to kill the parasite, and hopefully the host survives long enough. But
 [u1497 | 02:03:23.000-02:03:25.080 | Thror] maybe there is no host left.
 [u1498 | 02:03:26.100-02:03:28.689 | Rothfis] Yeah, it's just a parasite at this point.
@@ -1584,7 +1584,7 @@
 [u1584 | 02:10:18.360-02:10:20.500 | Thror] You hit him until he falls down,
 [u1585 | 02:10:22.190-02:10:27.630 | Riswynn] probably, but there is a slight hope that he's still in there, because
 [u1586 | 02:10:27.790-02:10:34.750 | Rothfis] I mean as what is this guy's real name? If we're not calling a mad priest, so, Del
-[u1587 | 02:10:34.810-02:10:39.360 | Riswynn] um. I mean, {{Doug}},
+[u1587 | 02:10:34.810-02:10:39.360 | Riswynn] um. I mean, Del,
 [u1588 | 02:10:39.950-02:10:43.119 | Riswynn] that the Trolls don't come there.
 [u1589 | 02:10:43.410-02:10:45.580 | Riswynn] Not that they don't know where it is.
 [u1590 | 02:10:45.920-02:10:49.220 | Rothfis] That's the cave. I think not. The not the statue.
@@ -1998,7 +1998,7 @@
 [u1998 | 02:50:29.790-02:50:32.460 | Riswynn] I mean, do we have
 [u1999 | 02:50:32.570-02:50:35.209 | Riswynn] enough strength to just force it?
 [u2000 | 02:50:38.620-02:50:40.779 | Riswynn] Yeah,
-[u2001 | 02:50:40.790-02:50:45.520 | Riswynn] sturdy, dwarven warriors plus ah plus giant {{This}}:
+[u2001 | 02:50:40.790-02:50:45.520 | Riswynn] sturdy, dwarven warriors plus ah plus giant Rothfis:
 [u2002 | 02:50:45.830-02:50:51.320 | Rothfis] Yeah, I've got advantage on strength checks. But i'm not very strong to begin with.
 [u2003 | 02:50:53.360-02:50:56.140 | Thror] Got some strength. Yeah,
 [u2004 | 02:50:58.420-02:50:59.550 | DM] okay.
@@ -2178,7 +2178,7 @@
 [u2178 | 03:04:23.140-03:04:24.330 | Merash] Hagrim?
 [u2179 | 03:04:24.340-03:04:25.510 | Unknown] Yeah.
 [u2180 | 03:04:25.600-03:04:29.420 | Riswynn] Do we know his last? His family name? Firebrand,
-[u2181 | 03:04:29.550-03:04:33.799 | Riswynn] Hagrim, Firebrand, The {{Parisel}} are summoning you
+[u2181 | 03:04:29.550-03:04:33.799 | Riswynn] Hagrim, Firebrand, The Bahrâzel are summoning you
 [u2182 | 03:04:34.930-03:04:37.049 | Riswynn] hold up the chalice.
 [u2183 | 03:04:39.730-03:04:46.970 | DM] Ah, okay, actually, let's Let's roll initiative to
 [u2184 | 03:04:47.020-03:04:48.490 | Merash] It's really terrifying
@@ -3016,7 +3016,7 @@
 [u3016 | 04:07:20.960-04:07:27.169 | DM] I mean you might. They'd be up on the cliff and set back away. You wouldn't be able to see them from down below here
 [u3017 | 04:07:27.340-04:07:28.650 | DM] if they were.
 [u3018 | 04:07:30.910-04:07:33.910 | Riswynn] Do you want to go chase after them?
-[u3019 | 04:07:33.920-04:07:35.990 | DM] Go, kill some {{Tedarians}} just for fun.
+[u3019 | 04:07:33.920-04:07:35.990 | DM] Go, kill some Chardonians just for fun.
 [u3020 | 04:07:36.500-04:07:36.990 | Thror] The
 [u3021 | 04:07:44.550-04:07:48.169 | Riswynn] {{you can quite distract}} from the mission of mercy parts
 [u3022 | 04:07:49.850-04:07:51.899 | Unknown] haring off after them.

@@ -1,0 +1,60 @@
+--- before/u0096
++++ after/u0096
+@@ -1 +1 @@
+-[u0096 | 00:09:21.180-00:09:27.600 | DM] No, in somewhere in Dunmar, Tokra, {{Caroline}} purchased from a trader but.
++[u0096 | 00:09:21.180-00:09:27.600 | DM] No, in somewhere in Dunmar, Tokra, Karawa purchased from a trader but.
+--- before/u0133
++++ after/u0133
+@@ -1 +1 @@
+-[u0133 | 00:11:40.260-00:11:47.520 | DM] Everybody you know that's been kidnapped by Agata has been kidnapped south, in south {{Carolina}}.
++[u0133 | 00:11:40.260-00:11:47.520 | DM] Everybody you know that's been kidnapped by Agata has been kidnapped south, in south Karawa.
+--- before/u0256
++++ after/u0256
+@@ -1 +1 @@
+-[u0256 | 00:21:36.660-00:21:57.270 | DM] city you do get your one hint from your DM, but you are not totally without contacts or information, so you have Kaeso, Kenzo's former mentor who lives in the south of the city in the {{penance gate}} neighborhood near the {{kindness market}} which Kenzo knows the way to.
++[u0256 | 00:21:36.660-00:21:57.270 | DM] city you do get your one hint from your DM, but you are not totally without contacts or information, so you have Kaeso, Kenzo's former mentor who lives in the south of the city in the Panemsgate neighborhood near the Kylos Market which Kenzo knows the way to.
+--- before/u0298
++++ after/u0298
+@@ -1 +1 @@
+-[u0298 | 00:26:05.520-00:26:08.790 | DM] And this is the {{kyle's market}} where.
++[u0298 | 00:26:05.520-00:26:08.790 | DM] And this is the Kylos Market where.
+--- before/u0303
++++ after/u0303
+@@ -1 +1 @@
+-[u0303 | 00:26:32.850-00:26:37.530 | DM] Well, this is the {{kyle is markets}} and his place would be like just south of that like here.
++[u0303 | 00:26:32.850-00:26:37.530 | DM] Well, this is the Kylos Market and his place would be like just south of that like here.
+--- before/u0600
++++ after/u0600
+@@ -1 +1 @@
+-[u0600 | 00:48:19.110-00:48:21.300 | DM] {{Pilots market}} which is full of.
++[u0600 | 00:48:19.110-00:48:21.300 | DM] Kylos Market which is full of.
+--- before/u0721
++++ after/u0721
+@@ -1 +1 @@
+-[u0721 | 00:57:58.650-00:58:00.960 | DM] Not the {{kyla is market}}, but the sort of.
++[u0721 | 00:57:58.650-00:58:00.960 | DM] Not the Kylos Market, but the sort of.
+--- before/u0793
++++ after/u0793
+@@ -1 +1 @@
+-[u0793 | 01:04:23.700-01:04:28.050 | Riswynn] I come from {{the event the mountains}} and.
++[u0793 | 01:04:23.700-01:04:28.050 | Riswynn] I come from the Yuvanti Mountains and.
+--- before/u1515
++++ after/u1515
+@@ -1 +1 @@
+-[u1515 | 01:59:09.120-01:59:13.110 | DM] But Riswynn never met {{ric constant}}; you can't Sending {{your cod}} sadly.
++[u1515 | 01:59:09.120-01:59:13.110 | DM] But Riswynn never met {{ric constant}}; you can't Sending Drikod sadly.
+--- before/u1720
++++ after/u1720
+@@ -1 +1 @@
+-[u1720 | 02:14:34.260-02:14:37.050 | DM] {{Separate}} Servius, Servius yeah.
++[u1720 | 02:14:34.260-02:14:37.050 | DM] Servius Servius, Servius yeah.
+--- before/u2462
++++ after/u2462
+@@ -1 +1 @@
+-[u2462 | 03:08:21.990-03:08:32.940 | DM] Well there's just so many of them it's hardly worth the time I mean Drankorian Okay, although the wiser Drankorians, of course, wrote in {{our bash}} or Dwarvish if they were truly wise.
++[u2462 | 03:08:21.990-03:08:32.940 | DM] Well there's just so many of them it's hardly worth the time I mean Drankorian Okay, although the wiser Drankorians, of course, wrote in Elvish or Dwarvish if they were truly wise.
+--- before/u3237
++++ after/u3237
+@@ -1 +1 @@
+-[u3237 | 04:04:31.410-04:04:33.390 | Kenzo] where's that painting of {{you don't}} have to go back to the tower.
++[u3237 | 04:04:31.410-04:04:33.390 | Kenzo] where's that painting of Eudomes have to go back to the tower.

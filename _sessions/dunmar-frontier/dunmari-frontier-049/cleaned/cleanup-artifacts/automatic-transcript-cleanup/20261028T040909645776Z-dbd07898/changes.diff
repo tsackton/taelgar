@@ -1,0 +1,1260 @@
+--- before/u0001
++++ after/u0001
+@@ -1 +1 @@
+-[u0001 | 00:00:13.710-00:00:17.609 | DM] In the middle of the oldest part of {{charting}} the spire of the great...
++[u0001 | 00:00:13.710-00:00:17.609 | DM] In the middle of the oldest part of Chardon the spire of the great...
+--- before/u0005
++++ after/u0005
+@@ -1 +1 @@
+-[u0005 | 00:00:47.910-00:00:57.840 | DM] To the growth of the university after the {{phone drink}} or the founding of the Council of Magic that {{at charity magic}} to help regulate magical training and the growing academy.
++[u0005 | 00:00:47.910-00:00:57.840 | DM] To the growth of the university after the {{phone drink}} or the founding of the Council of Magic that Hetaeri Magica to help regulate magical training and the growing academy.
+--- before/u0009
++++ after/u0009
+@@ -1 +1 @@
+-[u0009 | 00:01:32.340-00:01:47.280 | DM] They have had a productive time in {{chart and}} so far, learning that one of the artifacts they seek, the chalice of the {{reading}} priests, is now possessed by a man named Galen on the Faculty of Magic, a dabbler in the dangerous business of experimental metaphysics.
++[u0009 | 00:01:32.340-00:01:47.280 | DM] They have had a productive time in Chardon so far, learning that one of the artifacts they seek, the chalice of the rune priests, is now possessed by a man named Galen on the Faculty of Magic, a dabbler in the dangerous business of experimental metaphysics.
+--- before/u0010
++++ after/u0010
+@@ -1 +1 @@
+-[u0010 | 00:01:48.420-00:02:00.090 | DM] The other, Eye of the Storm Giant {{ragnar}}, seems to be in the keeping of a man named Faustus, one of the rich patrons of many expeditions, although no one can seem to agree how he got his wealth.
++[u0010 | 00:01:48.420-00:02:00.090 | DM] The other, Eye of the Storm Giant Hralgar, seems to be in the keeping of a man named Faustus, one of the rich patrons of many expeditions, although no one can seem to agree how he got his wealth.
+--- before/u0013
++++ after/u0013
+@@ -1 +1 @@
+-[u0013 | 00:02:17.610-00:02:23.670 | DM] A young dwarven student, barely past his {{costs are many}}, takes pity on you and leads you to {{staples tall}}.
++[u0013 | 00:02:17.610-00:02:23.670 | DM] A young dwarven student, barely past his {{costs are many}}, takes pity on you and leads you to Sibyl's Hall.
+--- before/u0014
++++ after/u0014
+@@ -1 +1 @@
+-[u0014 | 00:02:24.750-00:02:37.800 | DM] {{Suppose Hall}} is one of the original colleges of the university. Although for a long time it was one of the most powerful and famous of the colleges that make up the University of {{charge}}, and since the Great War and the rise of the imperial power...
++[u0014 | 00:02:24.750-00:02:37.800 | DM] Sibyl's Hall is one of the original colleges of the university. Although for a long time it was one of the most powerful and famous of the colleges that make up the University of Chardon, and since the Great War and the rise of the imperial power...
+--- before/u0047
++++ after/u0047
+@@ -1 +1 @@
+-[u0047 | 00:05:52.440-00:05:58.470 | DM] tricked his subjects into talking with enchantment magic, which is outlawed in {{charge them}}, right.
++[u0047 | 00:05:52.440-00:05:58.470 | DM] tricked his subjects into talking with enchantment magic, which is outlawed in Chardon, right.
+--- before/u0060
++++ after/u0060
+@@ -1 +1 @@
+-[u0060 | 00:07:13.110-00:07:14.790 | Delwath] folks here in {{charleston}} may have...
++[u0060 | 00:07:13.110-00:07:14.790 | Delwath] folks here in Chardon may have...
+--- before/u0098
++++ after/u0098
+@@ -1 +1 @@
+-[u0098 | 00:10:02.190-00:10:09.660 | Delwath] {{ride}} might be working in the woods somewhere given some stories we've heard or even visions we've seen.
++[u0098 | 00:10:02.190-00:10:09.660 | Delwath] Rai might be working in the woods somewhere given some stories we've heard or even visions we've seen.
+--- before/u0143
++++ after/u0143
+@@ -1 +1 @@
+-[u0143 | 00:13:40.650-00:13:43.290 | DM] So I grew up in {{aren't dumb}}.
++[u0143 | 00:13:40.650-00:13:43.290 | DM] So I grew up in Arendum.
+--- before/u0147
++++ after/u0147
+@@ -1 +1 @@
+-[u0147 | 00:14:01.650-00:14:07.560 | DM] {{buzzer crew}}, a tribe of the {{dedicated}} people, would come trade and, you know, they...
++[u0147 | 00:14:01.650-00:14:07.560 | DM] Baz'aku, a tribe of the Deno'qai people, would come trade and, you know, they...
+--- before/u0151
++++ after/u0151
+@@ -1 +1 @@
+-[u0151 | 00:14:25.770-00:14:32.130 | DM] So when I came to {{chart in}} and studied history, it was, it was natural that I would...
++[u0151 | 00:14:25.770-00:14:32.130 | DM] So when I came to Chardon and studied history, it was, it was natural that I would...
+--- before/u0157
++++ after/u0157
+@@ -1 +1 @@
+-[u0157 | 00:15:00.390-00:15:01.650 | DM] across the {{pasta}}.
++[u0157 | 00:15:00.390-00:15:01.650 | DM] across the Chasa.
+--- before/u0158
++++ after/u0158
+@@ -1 +1 @@
+-[u0158 | 00:15:03.270-00:15:07.200 | DM] devastating Battle of Shadowfire close to {{chart and}}.
++[u0158 | 00:15:03.270-00:15:07.200 | DM] devastating Battle of Shadowfire close to Chardon.
+--- before/u0162
++++ after/u0162
+@@ -1 +1 @@
+-[u0162 | 00:15:28.620-00:15:31.200 | DM] went up the {{eyes on}} River.
++[u0162 | 00:15:28.620-00:15:31.200 | DM] went up the Kayan River.
+--- before/u0163
++++ after/u0163
+@@ -1 +1 @@
+-[u0163 | 00:15:33.390-00:15:37.950 | DM] spent six months at the {{Plaza cool}}, earning their trust, learning about...
++[u0163 | 00:15:33.390-00:15:37.950 | DM] spent six months at the Baz'aku, earning their trust, learning about...
+--- before/u0166
++++ after/u0166
+@@ -1 +1 @@
+-[u0166 | 00:15:48.270-00:15:51.870 | DM] myths of the {{dental Chi}}, the people of the gods in their tongue.
++[u0166 | 00:15:48.270-00:15:51.870 | DM] myths of the Deno'qai, the people of the gods in their tongue.
+--- before/u0167
++++ after/u0167
+@@ -1 +1 @@
+-[u0167 | 00:15:54.300-00:15:58.920 | DM] Supposedly, the first humans to leave {{car}} long before the Downfall.
++[u0167 | 00:15:54.300-00:15:58.920 | DM] Supposedly, the first humans to leave Hkar long before the Downfall.
+--- before/u0171
++++ after/u0171
+@@ -1 +1 @@
+-[u0171 | 00:16:15.510-00:16:18.630 | DM] Of the {{cercone an}} Empire before the Downfall.
++[u0171 | 00:16:15.510-00:16:18.630 | DM] Of the Chardonian Empire before the Downfall.
+--- before/u0179
++++ after/u0179
+@@ -1 +1 @@
+-[u0179 | 00:16:49.650-00:16:59.100 | DM] I learned a little bit of their worship of the {{Bhutan she}}, the spirits of the forest that bring their prayers to {{I need}}, our creator.
++[u0179 | 00:16:49.650-00:16:59.100 | DM] I learned a little bit of their worship of the tanshi, the spirits of the forest that bring their prayers to Anida, our creator.
+--- before/u0180
++++ after/u0180
+@@ -1 +1 @@
+-[u0180 | 00:17:00.750-00:17:06.360 | Delwath] {{made Helen}}, is {{a need}} the same word for the creator that {{have a scar}} used? Yep.
++[u0180 | 00:17:00.750-00:17:06.360 | Delwath] {{made Helen}}, is Anida the same word for the creator that Aaviskar used? Yep.
+--- before/u0183
++++ after/u0183
+@@ -1 +1 @@
+-[u0183 | 00:17:24.330-00:17:32.370 | Delwath] Hold on, sorry, one aside. I'm going to say a short under-my-breath prayer to {{have a scar}} and try and see, tell him to listen.
++[u0183 | 00:17:24.330-00:17:32.370 | Delwath] Hold on, sorry, one aside. I'm going to say a short under-my-breath prayer to Aaviskar and try and see, tell him to listen.
+--- before/u0189
++++ after/u0189
+@@ -1 +1 @@
+-[u0189 | 00:17:54.420-00:17:55.860 | DM] So {{nice}} continues.
++[u0189 | 00:17:54.420-00:17:55.860 | DM] So Gnaeus continues.
+--- before/u0192
++++ after/u0192
+@@ -1 +1 @@
+-[u0192 | 00:18:10.590-00:18:16.440 | DM] They taught me more about the {{tonchi}}, about the small sacrifices that bring prayers and magic.
++[u0192 | 00:18:10.590-00:18:16.440 | DM] They taught me more about the tanshi, about the small sacrifices that bring prayers and magic.
+--- before/u0210
++++ after/u0210
+@@ -1 +1 @@
+-[u0210 | 00:19:30.300-00:19:46.560 | DM] Because none would take me. They said ruins of elven cities hidden in the trees, scars cut across the land by some evil where trees no longer grow, haunted battlefields where the restless spirits of {{dental Chi}} and {{Chair during the ins and outs of like}}...
++[u0210 | 00:19:30.300-00:19:46.560 | DM] Because none would take me. They said ruins of elven cities hidden in the trees, scars cut across the land by some evil where trees no longer grow, haunted battlefields where the restless spirits of Deno'qai and {{Chair during the ins and outs of like}}...
+--- before/u0226
++++ after/u0226
+@@ -1 +1 @@
+-[u0226 | 00:20:57.540-00:21:00.510 | DM] Whether they were... So {{nice}} continues. Whether they were...
++[u0226 | 00:20:57.540-00:21:00.510 | DM] Whether they were... So Gnaeus continues. Whether they were...
+--- before/u0231
++++ after/u0231
+@@ -1 +1 @@
+-[u0231 | 00:21:20.520-00:21:23.700 | DM] I brought with me some {{chain light}} spells.
++[u0231 | 00:21:20.520-00:21:23.700 | DM] I brought with me some chalyte spells.
+--- before/u0235
++++ after/u0235
+@@ -1 +1 @@
+-[u0235 | 00:21:44.430-00:21:46.170 | DM] near the source of the {{guys on}} River.
++[u0235 | 00:21:44.430-00:21:46.170 | DM] near the source of the Kayan River.
+--- before/u0241
++++ after/u0241
+@@ -1 +1 @@
+-[u0241 | 00:22:13.320-00:22:15.630 | DM] And rumors spread among the {{dinner I have}}.
++[u0241 | 00:22:13.320-00:22:15.630 | DM] And rumors spread among the Deno'qai.
+--- before/u0243
++++ after/u0243
+@@ -1 +1 @@
+-[u0243 | 00:22:22.500-00:22:24.210 | DM] Those stories got back to {{chart on}}.
++[u0243 | 00:22:22.500-00:22:24.210 | DM] Those stories got back to Chardon.
+--- before/u0244
++++ after/u0244
+@@ -1 +1 @@
+-[u0244 | 00:22:27.960-00:22:33.180 | DM] But I learned from {{Georgia}}, the god-caller at that time, that...
++[u0244 | 00:22:27.960-00:22:33.180 | DM] But I learned from Jordo, the god-caller at that time, that...
+--- before/u0247
++++ after/u0247
+@@ -1 +1 @@
+-[u0247 | 00:22:42.150-00:22:45.870 | DM] At the source of the {{cars and}}, they call themselves the {{tech who are}}.
++[u0247 | 00:22:42.150-00:22:45.870 | DM] At the source of the Kayan, they call themselves the Te'kula.
+--- before/u0251
++++ after/u0251
+@@ -1 +1 @@
+-[u0251 | 00:22:58.920-00:22:59.940 | DM] They called {{ry}}.
++[u0251 | 00:22:58.920-00:22:59.940 | DM] They called Rai.
+--- before/u0255
++++ after/u0255
+@@ -1 +1 @@
+-[u0255 | 00:23:11.880-00:23:20.670 | DM] {{Georgia}} told me was that there was a great tree there, had fallen in the deepest part of the woods and...
++[u0255 | 00:23:11.880-00:23:20.670 | DM] Jordo told me was that there was a great tree there, had fallen in the deepest part of the woods and...
+--- before/u0256
++++ after/u0256
+@@ -1 +1 @@
+-[u0256 | 00:23:22.590-00:23:44.670 | DM] The god, the old god of the Elderwood, the spirit that had been destroyed, the spirit of the ancient great trees that was thought to have been lost when their ancestors were driven from their homelands in the Elderwood during the, the wars right after the fall of {{shabbat}}.
++[u0256 | 00:23:22.590-00:23:44.670 | DM] The god, the old god of the Elderwood, the spirit that had been destroyed, the spirit of the ancient great trees that was thought to have been lost when their ancestors were driven from their homelands in the Elderwood during the, the wars right after the fall of Cha'mutte.
+--- before/u0259
++++ after/u0259
+@@ -1 +1 @@
+-[u0259 | 00:23:52.800-00:23:55.590 | DM] Now calling himself {{right}} instead of...
++[u0259 | 00:23:52.800-00:23:55.590 | DM] Now calling himself Rai instead of...
+--- before/u0261
++++ after/u0261
+@@ -1 +1 @@
+-[u0261 | 00:24:03.000-00:24:06.990 | DM] {{Georgia}} said that {{right or a cmt}}...
++[u0261 | 00:24:03.000-00:24:06.990 | DM] Jordo said that Rai or Aasimti...
+--- before/u0268
++++ after/u0268
+@@ -1 +1 @@
+-[u0268 | 00:24:34.440-00:24:36.480 | DM] {{right}} to speak some...
++[u0268 | 00:24:34.440-00:24:36.480 | DM] Rai to speak some...
+--- before/u0271
++++ after/u0271
+@@ -1 +1 @@
+-[u0271 | 00:24:50.820-00:24:56.160 | DM] {{rye or asante}} has kept the {{kula}} safe for...
++[u0271 | 00:24:50.820-00:24:56.160 | DM] Rai or Aasimti has kept the Te'kula safe for...
+--- before/u0273
++++ after/u0273
+@@ -1 +1 @@
+-[u0273 | 00:25:03.750-00:25:09.930 | DM] It had been three generations when I spoke with {{Georgia}}, and it's been 25 years since.
++[u0273 | 00:25:03.750-00:25:09.930 | DM] It had been three generations when I spoke with Jordo, and it's been 25 years since.
+--- before/u0279
++++ after/u0279
+@@ -1 +1 @@
+-[u0279 | 00:25:39.030-00:25:39.690 | DM] {{is empty}}.
++[u0279 | 00:25:39.030-00:25:39.690 | DM] Aasimti.
+--- before/u0281
++++ after/u0281
+@@ -1 +1 @@
+-[u0281 | 00:25:53.040-00:25:59.220 | DM] Soon after {{a Cindy}} was restored, speaking with honeyed tongue and asking for...
++[u0281 | 00:25:53.040-00:25:59.220 | DM] Soon after Aasimti was restored, speaking with honeyed tongue and asking for...
+--- before/u0285
++++ after/u0285
+@@ -1 +1 @@
+-[u0285 | 00:26:18.570-00:26:23.100 | DM] {{A cmt}} to try to hide them kept...
++[u0285 | 00:26:18.570-00:26:23.100 | DM] Aasimti to try to hide them kept...
+--- before/u0287
++++ after/u0287
+@@ -1 +1 @@
+-[u0287 | 00:26:29.730-00:26:34.170 | DM] They say the power of {{right}} keeps them hidden from the world.
++[u0287 | 00:26:29.730-00:26:34.170 | DM] They say the power of Rai keeps them hidden from the world.
+--- before/u0295
++++ after/u0295
+@@ -1 +1 @@
+-[u0295 | 00:27:05.580-00:27:10.920 | DM] I'm not sure it was possible with {{rise}} protections around this tribe.
++[u0295 | 00:27:05.580-00:27:10.920 | DM] I'm not sure it was possible with Rai's protections around this tribe.
+--- before/u0298
++++ after/u0298
+@@ -1 +1 @@
+-[u0298 | 00:27:17.490-00:27:20.940 | DM] There's many tribes of {{identify}} that live in the forest.
++[u0298 | 00:27:17.490-00:27:20.940 | DM] There's many tribes of Deno'qai that live in the forest.
+--- before/u0301
++++ after/u0301
+@@ -1 +1 @@
+-[u0301 | 00:27:32.400-00:27:33.180 | DM] {{beckoned me}}.
++[u0301 | 00:27:32.400-00:27:33.180 | DM] Bek'eni.
+--- before/u0303
++++ after/u0303
+@@ -1 +1 @@
+-[u0303 | 00:27:38.160-00:27:45.360 | DM] {{Technical}} are not totally isolated. They have commerce and trade with other {{dental kind of}} tribes.
++[u0303 | 00:27:38.160-00:27:45.360 | DM] Te'kula are not totally isolated. They have commerce and trade with other Deno'qai tribes.
+--- before/u0309
++++ after/u0309
+@@ -1 +1 @@
+-[u0309 | 00:28:06.120-00:28:07.320 | DM] If they were {{dinner guy}}.
++[u0309 | 00:28:06.120-00:28:07.320 | DM] If they were Deno'qai.
+--- before/u0313
++++ after/u0313
+@@ -1 +1 @@
+-[u0313 | 00:28:19.620-00:28:20.550 | Kenzo] And the {{delta Chi}}...
++[u0313 | 00:28:19.620-00:28:20.550 | Kenzo] And the Deno'qai...
+--- before/u0314
++++ after/u0314
+@@ -1 +1 @@
+-[u0314 | 00:28:20.700-00:28:24.750 | Kenzo] or, I, sorry, sorry if I missed this, the {{dead Okay}}, are they, are they elves or are they humans?
++[u0314 | 00:28:20.700-00:28:24.750 | Kenzo] or, I, sorry, sorry if I missed this, the Deno'qai, are they, are they elves or are they humans?
+--- before/u0317
++++ after/u0317
+@@ -1 +1 @@
+-[u0317 | 00:28:37.950-00:28:46.770 | DM] They came to this land from {{car}}, where humans were born, and they were the first to set foot outside of {{car}}.
++[u0317 | 00:28:37.950-00:28:46.770 | DM] They came to this land from Hkar, where humans were born, and they were the first to set foot outside of Hkar.
+--- before/u0330
++++ after/u0330
+@@ -1 +1 @@
+-[u0330 | 00:29:38.280-00:29:39.540 | DM] The {{check kula}} live...
++[u0330 | 00:29:38.280-00:29:39.540 | DM] The Te'kula live...
+--- before/u0337
++++ after/u0337
+@@ -1 +1 @@
+-[u0337 | 00:30:03.420-00:30:04.560 | DM] The {{kaizen}} River.
++[u0337 | 00:30:03.420-00:30:04.560 | DM] The Kayan River.
+--- before/u0341
++++ after/u0341
+@@ -1 +1 @@
+-[u0341 | 00:30:15.810-00:30:17.910 | Delwath] But there are many peoples along the {{kaizen}} River.
++[u0341 | 00:30:15.810-00:30:17.910 | Delwath] But there are many peoples along the Kayan River.
+--- before/u0343
++++ after/u0343
+@@ -1 +1 @@
+-[u0343 | 00:30:21.930-00:30:27.900 | Delwath] And, and the peoples along the {{kaizen}} River, they, they worship the... What was the name he used for the small gods?
++[u0343 | 00:30:21.930-00:30:27.900 | Delwath] And, and the peoples along the Kayan River, they, they worship the... What was the name he used for the small gods?
+--- before/u0344
++++ after/u0344
+@@ -1 +1 @@
+-[u0344 | 00:30:28.530-00:30:29.100 | DM] {{punchy}}.
++[u0344 | 00:30:28.530-00:30:29.100 | DM] tanshi.
+--- before/u0345
++++ after/u0345
+@@ -1 +1 @@
+-[u0345 | 00:30:29.400-00:30:30.720 | Delwath] They worshipped the {{tonchi}}.
++[u0345 | 00:30:29.400-00:30:30.720 | Delwath] They worshipped the tanshi.
+--- before/u0360
++++ after/u0360
+@@ -1 +1 @@
+-[u0360 | 00:31:34.890-00:31:36.570 | DM] {{Dedicated}} people living...
++[u0360 | 00:31:34.890-00:31:36.570 | DM] Deno'qai people living...
+--- before/u0361
++++ after/u0361
+@@ -1 +1 @@
+-[u0361 | 00:31:38.520-00:31:44.190 | DM] Along the edges of the {{cerrone and}} Empire as far north as {{Volterra}} and beyond.
++[u0361 | 00:31:38.520-00:31:44.190 | DM] Along the edges of the Chardonian Empire as far north as Voltara and beyond.
+--- before/u0387
++++ after/u0387
+@@ -1 +1 @@
+-[u0387 | 00:33:37.230-00:33:41.040 | DM] manages the relationship with the {{tonchi}} and...
++[u0387 | 00:33:37.230-00:33:41.040 | DM] manages the relationship with the tanshi and...
+--- before/u0400
++++ after/u0400
+@@ -1 +1 @@
+-[u0400 | 00:34:41.760-00:34:43.650 | Kenzo] {{Georgia}}, {{Georgia}}.
++[u0400 | 00:34:41.760-00:34:43.650 | Kenzo] Jordo, Jordo.
+--- before/u0402
++++ after/u0402
+@@ -1 +1 @@
+-[u0402 | 00:34:47.970-00:34:51.090 | Kenzo] Hmm, did {{Georgia}} say how he came across this...
++[u0402 | 00:34:47.970-00:34:51.090 | Kenzo] Hmm, did Jordo say how he came across this...
+--- before/u0409
++++ after/u0409
+@@ -1 +1 @@
+-[u0409 | 00:35:24.000-00:35:30.030 | DM] And now the life of {{empty}}, the spirit of the Elderwood, now calling himself {{where I}}...
++[u0409 | 00:35:24.000-00:35:30.030 | DM] And now the life of Aasimti, the spirit of the Elderwood, now calling himself Rai...
+--- before/u0420
++++ after/u0420
+@@ -1 +1 @@
+-[u0420 | 00:36:21.600-00:36:26.220 | Seeker] Look, did {{Georgia}} have an apprentice, someone we might expect to meet?
++[u0420 | 00:36:21.600-00:36:26.220 | Seeker] Look, did Jordo have an apprentice, someone we might expect to meet?
+--- before/u0424
++++ after/u0424
+@@ -1 +1 @@
+-[u0424 | 00:36:38.940-00:36:44.310 | DM] I believe they were chosen by the spirits, or at least that is what the {{devil}} believe.
++[u0424 | 00:36:38.940-00:36:44.310 | DM] I believe they were chosen by the spirits, or at least that is what the Deno'qai believe.
+--- before/u0434
++++ after/u0434
+@@ -1 +1 @@
+-[u0434 | 00:37:22.980-00:37:26.850 | Delwath] point, I'm going to try to sort of whisper to {{have a scar}}.
++[u0434 | 00:37:22.980-00:37:26.850 | Delwath] point, I'm going to try to sort of whisper to Aaviskar.
+--- before/u0441
++++ after/u0441
+@@ -1 +1 @@
+-[u0441 | 00:38:00.540-00:38:01.050 | Unknown] {{Georgia}}.
++[u0441 | 00:38:00.540-00:38:01.050 | Unknown] Jordo.
+--- before/u0442
++++ after/u0442
+@@ -1 +1 @@
+-[u0442 | 00:38:02.100-00:38:03.510 | Kenzo] How much time did you spend with {{Georgia}}?
++[u0442 | 00:38:02.100-00:38:03.510 | Kenzo] How much time did you spend with Jordo?
+--- before/u0450
++++ after/u0450
+@@ -1 +1 @@
+-[u0450 | 00:38:44.760-00:38:49.170 | Kenzo] How they were organized? Was {{Georgia}} the, the leader? Was there...
++[u0450 | 00:38:44.760-00:38:49.170 | Kenzo] How they were organized? Was Jordo the, the leader? Was there...
+--- before/u0458
++++ after/u0458
+@@ -1 +1 @@
+-[u0458 | 00:39:22.980-00:39:23.610 | DM] Not {{George}}.
++[u0458 | 00:39:22.980-00:39:23.610 | DM] Not Jordo.
+--- before/u0465
++++ after/u0465
+@@ -1 +1 @@
+-[u0465 | 00:39:57.570-00:40:00.360 | Kenzo] Did you ever see {{Georgia}} perform the god-calling?
++[u0465 | 00:39:57.570-00:40:00.360 | Kenzo] Did you ever see Jordo perform the god-calling?
+--- before/u0475
++++ after/u0475
+@@ -1 +1 @@
+-[u0475 | 00:40:39.870-00:40:41.640 | DM] That the god {{rye}}...
++[u0475 | 00:40:39.870-00:40:41.640 | DM] That the god Rai...
+--- before/u0477
++++ after/u0477
+@@ -1 +1 @@
+-[u0477 | 00:40:44.400-00:40:53.280 | DM] formerly the god, the {{tonchi is empty}}, the spirit of this forest, spoke to him in his dreams.
++[u0477 | 00:40:44.400-00:40:53.280 | DM] formerly the god, the tanshi Aasimti, the spirit of this forest, spoke to him in his dreams.
+--- before/u0482
++++ after/u0482
+@@ -1 +1 @@
+-[u0482 | 00:41:29.220-00:41:40.380 | Seeker] Yes, another thing we might ask about is, this is not in character, the relationship between the story and what we know of the legend of, like, historical {{right}}.
++[u0482 | 00:41:29.220-00:41:40.380 | Seeker] Yes, another thing we might ask about is, this is not in character, the relationship between the story and what we know of the legend of, like, historical Rai.
+--- before/u0485
++++ after/u0485
+@@ -1 +1 @@
+-[u0485 | 00:41:48.660-00:41:55.260 | Kenzo] Metagame, though, when, where did, where did, where did {{right}} turn into a jade statue in the forest? Was it this forest that he turned into a statue?
++[u0485 | 00:41:48.660-00:41:55.260 | Kenzo] Metagame, though, when, where did, where did, where did Rai turn into a jade statue in the forest? Was it this forest that he turned into a statue?
+--- before/u0486
++++ after/u0486
+@@ -1 +1 @@
+-[u0486 | 00:41:56.040-00:41:59.880 | DM] No, it was in, it was when you were fighting {{shabbat}} and...
++[u0486 | 00:41:56.040-00:41:59.880 | DM] No, it was in, it was when you were fighting Cha'mutte and...
+--- before/u0491
++++ after/u0491
+@@ -1 +1 @@
+-[u0491 | 00:42:09.480-00:42:15.030 | Seeker] It's a big explosion, a {{arrived}} fragment flies a hundred miles through the air and then lands in a tree.
++[u0491 | 00:42:09.480-00:42:15.030 | Seeker] It's a big explosion, a Rai fragment flies a hundred miles through the air and then lands in a tree.
+--- before/u0492
++++ after/u0492
+@@ -1 +1 @@
+-[u0492 | 00:42:16.200-00:42:24.450 | Delwath] I mean, we could talk about this in character when he's gone, but I'm suspicious that {{rise}}, this is really {{rye rye}}, as opposed to, like...
++[u0492 | 00:42:16.200-00:42:24.450 | Delwath] I mean, we could talk about this in character when he's gone, but I'm suspicious that Rai, this is really Rai Rai, as opposed to, like...
+--- before/u0496
++++ after/u0496
+@@ -1 +1 @@
+-[u0496 | 00:42:40.320-00:42:42.180 | Seeker] mage of the Great War named {{Brian}}.
++[u0496 | 00:42:40.320-00:42:42.180 | Seeker] mage of the Great War named Rai.
+--- before/u0508
++++ after/u0508
+@@ -1 +1 @@
+-[u0508 | 00:43:25.950-00:43:28.410 | Seeker] The historical {{ride}} was not a tree.
++[u0508 | 00:43:25.950-00:43:28.410 | Seeker] The historical Rai was not a tree.
+--- before/u0530
++++ after/u0530
+@@ -1 +1 @@
+-[u0530 | 00:45:28.980-00:45:30.690 | Delwath] His name is {{night}}, I always forget his name, {{nyan}}.
++[u0530 | 00:45:28.980-00:45:30.690 | Delwath] His name is Gnaeus, I always forget his name, Gnaeus.
+--- before/u0532
++++ after/u0532
+@@ -1 +1 @@
+-[u0532 | 00:45:31.890-00:45:33.030 | DM] {{Nice Nice}}.
++[u0532 | 00:45:31.890-00:45:33.030 | DM] Gnaeus Gnaeus.
+--- before/u0533
++++ after/u0533
+@@ -1 +1 @@
+-[u0533 | 00:45:33.300-00:45:35.220 | Delwath] {{Nice Nice}}.
++[u0533 | 00:45:33.300-00:45:35.220 | Delwath] Gnaeus Gnaeus.
+--- before/u0540
++++ after/u0540
+@@ -1 +1 @@
+-[u0540 | 00:46:14.160-00:46:16.020 | DM] {{Dedicated}} say there is...
++[u0540 | 00:46:14.160-00:46:16.020 | DM] Deno'qai say there is...
+--- before/u0544
++++ after/u0544
+@@ -1 +1 @@
+-[u0544 | 00:46:29.580-00:46:33.150 | DM] found their way to {{chart and}} have mostly found their way from...
++[u0544 | 00:46:29.580-00:46:33.150 | DM] found their way to Chardon have mostly found their way from...
+--- before/u0567
++++ after/u0567
+@@ -1 +1 @@
+-[u0567 | 00:48:24.450-00:48:36.810 | Delwath] I know not how the losses of the {{word years}} and of the wars against {{shema}} will have impacted thinking elves. It may be that the, that the factions that wish to hide away are ascendant now.
++[u0567 | 00:48:24.450-00:48:36.810 | Delwath] I know not how the losses of the Blood Years and of the wars against Cha'mutte will have impacted thinking elves. It may be that the, that the factions that wish to hide away are ascendant now.
+--- before/u0598
++++ after/u0598
+@@ -1 +1 @@
+-[u0598 | 00:50:17.220-00:50:19.110 | Kenzo] We say, we say, dear, dear {{now is}}...
++[u0598 | 00:50:17.220-00:50:19.110 | Kenzo] We say, we say, dear, dear Gnaeus...
+--- before/u0605
++++ after/u0605
+@@ -1 +1 @@
+-[u0605 | 00:50:50.820-00:50:57.480 | Delwath] I will write it in three languages, all right, in {{great Korean}}, Elvish and, and, and modern {{Chardonnay}}.
++[u0605 | 00:50:50.820-00:50:57.480 | Delwath] I will write it in three languages, all right, in Drankorian, Elvish and, and, and modern Chardonian.
+--- before/u0641
++++ after/u0641
+@@ -1 +1 @@
+-[u0641 | 00:53:27.150-00:53:38.310 | Kenzo] Well, he's clearly got a piece of {{arrived}}. I think that this is, this is exactly what's happened to me. That stone that I've been carrying and the strange dreams that I had when I, prior to meeting you all.
++[u0641 | 00:53:27.150-00:53:38.310 | Kenzo] Well, he's clearly got a piece of Rai. I think that this is, this is exactly what's happened to me. That stone that I've been carrying and the strange dreams that I had when I, prior to meeting you all.
+--- before/u0646
++++ after/u0646
+@@ -1 +1 @@
+-[u0646 | 00:54:02.700-00:54:05.820 | Delwath] {{Have a scar}} says he knows these...
++[u0646 | 00:54:02.700-00:54:05.820 | Delwath] Aaviskar says he knows these...
+--- before/u0650
++++ after/u0650
+@@ -1 +1 @@
+-[u0650 | 00:54:17.670-00:54:18.150 | Kenzo] To {{write}}?
++[u0650 | 00:54:17.670-00:54:18.150 | Kenzo] To Rai?
+--- before/u0651
++++ after/u0651
+@@ -1 +1 @@
+-[u0651 | 00:54:19.620-00:54:22.350 | Delwath] Their gods, the small gods, perhaps {{try}}.
++[u0651 | 00:54:19.620-00:54:22.350 | Delwath] Their gods, the small gods, perhaps Rai.
+--- before/u0660
++++ after/u0660
+@@ -1 +1 @@
+-[u0660 | 00:55:03.450-00:55:15.420 | Delwath] {{Of a scar}} as he was in these forests before, before the fire and destruction came in, and I think that is very much how these gods would have been.
++[u0660 | 00:55:03.450-00:55:15.420 | Delwath] Aaviskar as he was in these forests before, before the fire and destruction came in, and I think that is very much how these gods would have been.
+--- before/u0662
++++ after/u0662
+@@ -1 +1 @@
+-[u0662 | 00:55:20.460-00:55:26.940 | Delwath] Talking personally to him, he would carry their prayers to {{Anita}}, as they call the great...
++[u0662 | 00:55:20.460-00:55:26.940 | Delwath] Talking personally to him, he would carry their prayers to Anida, as they call the great...
+--- before/u0680
++++ after/u0680
+@@ -1 +1 @@
+-[u0680 | 00:56:54.030-00:57:01.350 | Delwath] By a demon of, a great demon of {{shimano}}. I think he was on the verge of death when he ended up in the shadow realm trapped with me.
++[u0680 | 00:56:54.030-00:57:01.350 | Delwath] By a demon of, a great demon of Cha'mutte. I think he was on the verge of death when he ended up in the shadow realm trapped with me.
+--- before/u0682
++++ after/u0682
+@@ -1 +1 @@
+-[u0682 | 00:57:08.310-00:57:21.510 | Delwath] That {{schmutz}} armies were killing his peers, not just killing his worshippers, but perhaps that, that sense is wrong. Again, who can say whether it just felt like death to him or whether it was a real death.
++[u0682 | 00:57:08.310-00:57:21.510 | Delwath] That Cha'mutte armies were killing his peers, not just killing his worshippers, but perhaps that, that sense is wrong. Again, who can say whether it just felt like death to him or whether it was a real death.
+--- before/u0683
++++ after/u0683
+@@ -1 +1 @@
+-[u0683 | 00:57:22.500-00:57:32.430 | DM] So it was supposed to be clear from {{NASA started}}, or maybe wasn't, but the tribe that he spoke to believes that this god {{is empty}} had been killed.
++[u0683 | 00:57:22.500-00:57:32.430 | DM] So it was supposed to be clear from {{NASA started}}, or maybe wasn't, but the tribe that he spoke to believes that this god Aasimti had been killed.
+--- before/u0689
++++ after/u0689
+@@ -1 +1 @@
+-[u0689 | 00:57:44.520-00:57:50.460 | Delwath] You know, {{obvious guys}} people believe he is dead too, I am sure, if any of them survived.
++[u0689 | 00:57:44.520-00:57:50.460 | Delwath] You know, Aaviskar's people believe he is dead too, I am sure, if any of them survived.
+--- before/u0691
++++ after/u0691
+@@ -1 +1 @@
+-[u0691 | 00:57:55.980-00:58:00.840 | Delwath] For all I know, this god {{is empty}} was also sent to the shadow realm.
++[u0691 | 00:57:55.980-00:58:00.840 | Delwath] For all I know, this god Aasimti was also sent to the shadow realm.
+--- before/u0693
++++ after/u0693
+@@ -1 +1 @@
+-[u0693 | 00:58:05.940-00:58:07.230 | Delwath] For all I know, {{ry}}...
++[u0693 | 00:58:05.940-00:58:07.230 | Delwath] For all I know, Rai...
+--- before/u0696
++++ after/u0696
+@@ -1 +1 @@
+-[u0696 | 00:58:15.540-00:58:19.710 | Delwath] For all I know, {{ride}} released me and {{s&t}} from the same shadow realm.
++[u0696 | 00:58:15.540-00:58:19.710 | Delwath] For all I know, Rai released me and Aasimti from the same shadow realm.
+--- before/u0697
++++ after/u0697
+@@ -1 +1 @@
+-[u0697 | 00:58:21.060-00:58:30.360 | Delwath] {{Jamaat}} was clearly using it. {{So much}} had, {{too much}} armies had many items that took people there. He was using it as a way of moving armies through the world.
++[u0697 | 00:58:21.060-00:58:30.360 | Delwath] Cha'mutte was clearly using it. Cha'mutte had, Cha'mutte armies had many items that took people there. He was using it as a way of moving armies through the world.
+--- before/u0718
++++ after/u0718
+@@ -1 +1 @@
+-[u0718 | 01:00:00.960-01:00:12.510 | Delwath] I think it, it gave {{schmutz}} army a way to transport into this shadow realm, move from place to place, just as the elves use the Feywild place to place.
++[u0718 | 01:00:00.960-01:00:12.510 | Delwath] I think it, it gave Cha'mutte army a way to transport into this shadow realm, move from place to place, just as the elves use the Feywild place to place.
+--- before/u0722
++++ after/u0722
+@@ -1 +1 @@
+-[u0722 | 01:00:30.510-01:00:32.550 | Delwath] And {{have a scar}}, the same thing happened to him.
++[u0722 | 01:00:30.510-01:00:32.550 | Delwath] And Aaviskar, the same thing happened to him.
+--- before/u0726
++++ after/u0726
+@@ -1 +1 @@
+-[u0726 | 01:01:01.170-01:01:01.920 | Delwath] {{Have a scarred}}.
++[u0726 | 01:01:01.170-01:01:01.920 | Delwath] Aaviskar.
+--- before/u0733
++++ after/u0733
+@@ -1 +1 @@
+-[u0733 | 01:01:36.300-01:01:52.260 | Delwath] had many strengths, right, and kept... Her blade would bite into {{office guys}} skin, would, would attack him. Wounded, dying, bleeding, and he went once more at this general and ripped a dark circlet from her arms.
++[u0733 | 01:01:36.300-01:01:52.260 | Delwath] had many strengths, right, and kept... Her blade would bite into Aaviskar's skin, would, would attack him. Wounded, dying, bleeding, and he went once more at this general and ripped a dark circlet from her arms.
+--- before/u0743
++++ after/u0743
+@@ -1 +1 @@
+-[u0743 | 01:02:46.710-01:02:53.730 | Delwath] It's confirmation bias. I don't know if confirmation bias is the right word exactly, but, of course, the same thing happened to me and {{avid skier}} because we found each other in the shadow realm.
++[u0743 | 01:02:46.710-01:02:53.730 | Delwath] It's confirmation bias. I don't know if confirmation bias is the right word exactly, but, of course, the same thing happened to me and Aaviskar because we found each other in the shadow realm.
+--- before/u0759
++++ after/u0759
+@@ -1 +1 @@
+-[u0759 | 01:04:10.380-01:04:15.210 | DM] Because {{heiser}} knows her and you said, do you know anyone in the Society of the Open Scroll?
++[u0759 | 01:04:10.380-01:04:15.210 | DM] Because Kaeso knows her and you said, do you know anyone in the Society of the Open Scroll?
+--- before/u0783
++++ after/u0783
+@@ -1 +1 @@
+-[u0783 | 01:05:42.060-01:05:53.730 | Kenzo] Well, presumably if she's, she's {{a crisis}}, like, you know, old master, then she might be able to give us some more honest insight into what's going on, right? She, she, she's hopefully someone trustworthy.
++[u0783 | 01:05:42.060-01:05:53.730 | Kenzo] Well, presumably if she's, she's Kaeso's, like, you know, old master, then she might be able to give us some more honest insight into what's going on, right? She, she, she's hopefully someone trustworthy.
+--- before/u0799
++++ after/u0799
+@@ -1 +1 @@
+-[u0799 | 01:07:27.090-01:07:34.980 | Delwath] I mean we're interested enough in going to {{war, yet}}, despite the fact that we're definitely not going to because we're more interested in going to the forest, that it's not even...
++[u0799 | 01:07:27.090-01:07:34.980 | Delwath] I mean we're interested enough in going to Illoria, despite the fact that we're definitely not going to because we're more interested in going to the forest, that it's not even...
+--- before/u0825
++++ after/u0825
+@@ -1 +1 @@
+-[u0825 | 01:09:28.440-01:09:34.800 | DM] Just to confirm, Seeker, you are from {{high keep}}, looking at you.
++[u0825 | 01:09:28.440-01:09:34.800 | DM] Just to confirm, Seeker, you are from Highkeep, looking at you.
+--- before/u0826
++++ after/u0826
+@@ -1 +1 @@
+-[u0826 | 01:09:37.140-01:09:40.650 | DM] Riswynn of {{our total}}, is that correct?
++[u0826 | 01:09:37.140-01:09:40.650 | DM] Riswynn of Tharn Todor, is that correct?
+--- before/u0834
++++ after/u0834
+@@ -1 +1 @@
+-[u0834 | 01:09:59.430-01:10:00.300 | Kenzo] I was born in {{charleston}}.
++[u0834 | 01:09:59.430-01:10:00.300 | Kenzo] I was born in Chardon.
+--- before/u0835
++++ after/u0835
+@@ -1 +1 @@
+-[u0835 | 01:10:03.030-01:10:04.650 | DM] {{charleston}}, okay.
++[u0835 | 01:10:03.030-01:10:04.650 | DM] Chardon, okay.
+--- before/u0837
++++ after/u0837
+@@ -1 +1 @@
+-[u0837 | 01:10:10.980-01:10:15.630 | Wellby] All over the Green Sea mostly, but, you know, a little here, a little there, all over {{some Barbara}}.
++[u0837 | 01:10:10.980-01:10:15.630 | Wellby] All over the Green Sea mostly, but, you know, a little here, a little there, all over Sembara.
+--- before/u0850
++++ after/u0850
+@@ -1 +1 @@
+-[u0850 | 01:10:56.220-01:10:58.410 | DM] Um, {{I knew marya}}.
++[u0850 | 01:10:56.220-01:10:58.410 | DM] Um, Ainumarya.
+--- before/u0852
++++ after/u0852
+@@ -1 +1 @@
+-[u0852 | 01:11:05.640-01:11:06.360 | Delwath] {{I knew marya}}.
++[u0852 | 01:11:05.640-01:11:06.360 | Delwath] Ainumarya.
+--- before/u0861
++++ after/u0861
+@@ -1 +1 @@
+-[u0861 | 01:11:49.380-01:12:02.580 | DM] string quartet playing, and he bows and he says, ma'am, I present Seeker of {{Heikki}}, Riswynn of {{been telling her}}, Kenzo of {{charting}}, Wellby of the Green Sea, and Delwath of...
++[u0861 | 01:11:49.380-01:12:02.580 | DM] string quartet playing, and he bows and he says, ma'am, I present Seeker of Highkeep, Riswynn of Tharn Todor, Kenzo of Chardon, Wellby of the Green Sea, and Delwath of...
+--- before/u0862
++++ after/u0862
+@@ -1 +1 @@
+-[u0862 | 01:12:04.020-01:12:04.920 | DM] {{I knew Mara}}.
++[u0862 | 01:12:04.020-01:12:04.920 | DM] Ainumarya.
+--- before/u0880
++++ after/u0880
+@@ -1 +1 @@
+-[u0880 | 01:13:56.220-01:13:57.210 | DM] in {{volved Tara}}.
++[u0880 | 01:13:56.220-01:13:57.210 | DM] in Voltara.
+--- before/u0902
++++ after/u0902
+@@ -1 +1 @@
+-[u0902 | 01:15:01.350-01:15:03.450 | DM] Are you enjoying your time in {{charter}}?
++[u0902 | 01:15:01.350-01:15:03.450 | DM] Are you enjoying your time in Chardon?
+--- before/u0924
++++ after/u0924
+@@ -1 +1 @@
+-[u0924 | 01:16:59.190-01:17:04.500 | Kenzo] And this is how I came to be introduced to you through my master {{case oh}}.
++[u0924 | 01:16:59.190-01:17:04.500 | Kenzo] And this is how I came to be introduced to you through my master Kaeso.
+--- before/u0945
++++ after/u0945
+@@ -1 +1 @@
+-[u0945 | 01:18:57.450-01:19:09.420 | Kenzo] In different monasteries there, and, but I've always been so grateful to my master {{Chi so}}, and, and he speaks very highly of you and is glad to still have a relationship with you.
++[u0945 | 01:18:57.450-01:19:09.420 | Kenzo] In different monasteries there, and, but I've always been so grateful to my master Kaeso, and, and he speaks very highly of you and is glad to still have a relationship with you.
+--- before/u0956
++++ after/u0956
+@@ -1 +1 @@
+-[u0956 | 01:19:56.070-01:19:57.030 | DM] Ever been to {{DARPA}}?
++[u0956 | 01:19:56.070-01:19:57.030 | DM] Ever been to Darba?
+--- before/u0958
++++ after/u0958
+@@ -1 +1 @@
+-[u0958 | 01:20:01.380-01:20:02.430 | Kenzo] I was just, passed through {{DARPA}}.
++[u0958 | 01:20:01.380-01:20:02.430 | Kenzo] I was just, passed through Darba.
+--- before/u0978
++++ after/u0978
+@@ -1 +1 @@
+-[u0978 | 01:21:07.440-01:21:08.280 | DM] In {{Volterra}}.
++[u0978 | 01:21:07.440-01:21:08.280 | DM] In Voltara.
+--- before/u0985
++++ after/u0985
+@@ -1 +1 @@
+-[u0985 | 01:21:33.330-01:21:41.610 | Delwath] And I will try to engage her a little bit in stories about that crazy temple in {{DARPA}} that we gave, that we passed up.
++[u0985 | 01:21:33.330-01:21:41.610 | Delwath] And I will try to engage her a little bit in stories about that crazy temple in Darba that we gave, that we passed up.
+--- before/u1001
++++ after/u1001
+@@ -1 +1 @@
+-[u1001 | 01:22:41.220-01:22:43.890 | Delwath] We did consider going back when we were in {{DARPA}}.
++[u1001 | 01:22:41.220-01:22:43.890 | Delwath] We did consider going back when we were in Darba.
+--- before/u1017
++++ after/u1017
+@@ -1 +1 @@
+-[u1017 | 01:23:34.590-01:23:36.420 | Wellby] Came back alive from {{you don't miss}}'s tower.
++[u1017 | 01:23:34.590-01:23:36.420 | Wellby] Came back alive from Eudomes's tower.
+--- before/u1018
++++ after/u1018
+@@ -1 +1 @@
+-[u1018 | 01:23:38.010-01:23:38.850 | Wellby] {{ravens whole}}.
++[u1018 | 01:23:38.010-01:23:38.850 | Wellby] Raven's Hold.
+--- before/u1019
++++ after/u1019
+@@ -1 +1 @@
+-[u1019 | 01:23:41.640-01:23:42.780 | Delwath] {{Raven salt}} was hardly...
++[u1019 | 01:23:41.640-01:23:42.780 | Delwath] Raven's Hold was hardly...
+--- before/u1028
++++ after/u1028
+@@ -1 +1 @@
+-[u1028 | 01:24:18.930-01:24:24.990 | Kenzo] I recently have joined the Order of the {{schema}} and am in great interest in the stories of the people of...
++[u1028 | 01:24:18.930-01:24:24.990 | Kenzo] I recently have joined the Order of the Bhishma and am in great interest in the stories of the people of...
+--- before/u1029
++++ after/u1029
+@@ -1 +1 @@
+-[u1029 | 01:24:26.190-01:24:34.470 | Kenzo] of {{Eldar}}, and it would be an honor to speak with you more later about {{DARPA}} and your family so that I might record it for posterity.
++[u1029 | 01:24:26.190-01:24:34.470 | Kenzo] of {{Eldar}}, and it would be an honor to speak with you more later about Darba and your family so that I might record it for posterity.
+--- before/u1033
++++ after/u1033
+@@ -1 +1 @@
+-[u1033 | 01:24:49.920-01:24:53.520 | Delwath] eightfold, was it the eight? Not the old way, that's not right, but the {{mosque Newman}}.
++[u1033 | 01:24:49.920-01:24:53.520 | Delwath] eightfold, was it the eight? Not the old way, that's not right, but the Mos Numena.
+--- before/u1036
++++ after/u1036
+@@ -1 +1 @@
+-[u1036 | 01:24:59.790-01:25:00.870 | DM] My parents were {{charged}}.
++[u1036 | 01:24:59.790-01:25:00.870 | DM] My parents were Chardonians.
+--- before/u1038
++++ after/u1038
+@@ -1 +1 @@
+-[u1038 | 01:25:06.030-01:25:12.330 | DM] I was raised in the tradition of the Way, but there is a small temple of the Way in {{darby}} actually.
++[u1038 | 01:25:06.030-01:25:12.330 | DM] I was raised in the tradition of the Way, but there is a small temple of the Way in Darba actually.
+--- before/u1041
++++ after/u1041
+@@ -1 +1 @@
+-[u1041 | 01:25:26.430-01:25:28.770 | DM] One of the few {{Tony ins}} in...
++[u1041 | 01:25:26.430-01:25:28.770 | DM] One of the few Chardonians in...
+--- before/u1042
++++ after/u1042
+@@ -1 +1 @@
+-[u1042 | 01:25:30.630-01:25:31.830 | DM] {{Darbar}} growing up.
++[u1042 | 01:25:30.630-01:25:31.830 | DM] Darba growing up.
+--- before/u1058
++++ after/u1058
+@@ -1 +1 @@
+-[u1058 | 01:26:43.530-01:26:48.060 | Delwath] {{A few hurry stores}} of {{Tashi}}, I think it might have been {{talked on}}, so...
++[u1058 | 01:26:43.530-01:26:48.060 | Delwath] {{A few hurry stores}} of tanshi, I think it might have been {{talked on}}, so...
+--- before/u1059
++++ after/u1059
+@@ -1 +1 @@
+-[u1059 | 01:26:49.440-01:26:56.160 | DM] Yes, there's many tales of the {{Gestapo}}, the {{pants punchy}}, I suspect they're all...
++[u1059 | 01:26:49.440-01:26:56.160 | DM] Yes, there's many tales of the {{Gestapo}}, the tanshi, I suspect they're all...
+--- before/u1074
++++ after/u1074
+@@ -1 +1 @@
+-[u1074 | 01:28:02.550-01:28:03.120 | Delwath] {{i'll dinner}}.
++[u1074 | 01:28:02.550-01:28:03.120 | Delwath] Aldanor.
+--- before/u1075
++++ after/u1075
+@@ -1 +1 @@
+-[u1075 | 01:28:05.940-01:28:11.610 | DM] Not, not too many, not so many elves in {{charge}} these days.
++[u1075 | 01:28:05.940-01:28:11.610 | DM] Not, not too many, not so many elves in Chardon these days.
+--- before/u1079
++++ after/u1079
+@@ -1 +1 @@
+-[u1079 | 01:28:27.390-01:28:29.040 | DM] Very few elves in {{charting}}.
++[u1079 | 01:28:27.390-01:28:29.040 | DM] Very few elves in Chardon.
+--- before/u1119
++++ after/u1119
+@@ -1 +1 @@
+-[u1119 | 01:31:09.390-01:31:15.960 | DM] Almost every expedition that's gone out from {{charleston}} to the south, to the east...
++[u1119 | 01:31:09.390-01:31:15.960 | DM] Almost every expedition that's gone out from Chardon to the south, to the east...
+--- before/u1145
++++ after/u1145
+@@ -1 +1 @@
+-[u1145 | 01:33:11.970-01:33:14.700 | Wellby] As we traveled east of the {{river heart}}...
++[u1145 | 01:33:11.970-01:33:14.700 | Wellby] As we traveled east of the River Hara...
+--- before/u1198
++++ after/u1198
+@@ -1 +1 @@
+-[u1198 | 01:44:54.390-01:44:58.620 | DM] We have to get out of {{charter}} tonight because you're not gonna be there next time we play.
++[u1198 | 01:44:54.390-01:44:58.620 | DM] We have to get out of Chardon tonight because you're not gonna be there next time we play.
+--- before/u1236
++++ after/u1236
+@@ -1 +1 @@
+-[u1236 | 01:50:29.730-01:50:32.820 | Kenzo] Do you know anything about {{you don't miss}}'s tower? It was, uh...
++[u1236 | 01:50:29.730-01:50:32.820 | Kenzo] Do you know anything about Eudomes's tower? It was, uh...
+--- before/u1239
++++ after/u1239
+@@ -1 +1 @@
+-[u1239 | 01:50:39.870-01:50:47.010 | Delwath] What story? I mean, we should tell them a couple of stories, we don't need to play it out. Like, what stories do we tell? We tell them the story of {{you don't This}}'s tower.
++[u1239 | 01:50:39.870-01:50:47.010 | Delwath] What story? I mean, we should tell them a couple of stories, we don't need to play it out. Like, what stories do we tell? We tell them the story of Eudomes's tower.
+--- before/u1244
++++ after/u1244
+@@ -1 +1 @@
+-[u1244 | 01:50:57.390-01:51:01.890 | Wellby] Yeah, yeah, I think also, like, how {{you don't miss}} trapped the giant, right...
++[u1244 | 01:50:57.390-01:51:01.890 | Wellby] Yeah, yeah, I think also, like, how Eudomes trapped the giant, right...
+--- before/u1245
++++ after/u1245
+@@ -1 +1 @@
+-[u1245 | 01:51:02.190-01:51:03.720 | Delwath] As {{drinker}} was falling dead.
++[u1245 | 01:51:02.190-01:51:03.720 | Delwath] As Drankor was falling dead.
+--- before/u1261
++++ after/u1261
+@@ -1 +1 @@
+-[u1261 | 01:52:20.310-01:52:22.770 | DM] Something that nobody else in {{charmin}} has.
++[u1261 | 01:52:20.310-01:52:22.770 | DM] Something that nobody else in Chardon has.
+--- before/u1264
++++ after/u1264
+@@ -1 +1 @@
+-[u1264 | 01:52:36.180-01:52:39.120 | Kenzo] You know, has Faustus been in {{charge them}} long?
++[u1264 | 01:52:36.180-01:52:39.120 | Kenzo] You know, has Faustus been in Chardon long?
+--- before/u1271
++++ after/u1271
+@@ -1 +1 @@
+-[u1271 | 01:53:04.170-01:53:08.100 | Delwath] As, like, were they, like, particularly interested in the story of {{you don't miss}}? Was it like...
++[u1271 | 01:53:04.170-01:53:08.100 | Delwath] As, like, were they, like, particularly interested in the story of Eudomes? Was it like...
+--- before/u1351
++++ after/u1351
+@@ -1 +1 @@
+-[u1351 | 01:58:56.790-01:59:03.270 | DM] You know this has little relevance to {{charge}}, as much as we might wish it otherwise.
++[u1351 | 01:58:56.790-01:59:03.270 | DM] You know this has little relevance to Chardon, as much as we might wish it otherwise.
+--- before/u1361
++++ after/u1361
+@@ -1 +1 @@
+-[u1361 | 01:59:55.110-02:00:07.410 | Kenzo] Him sending out these large expeditions to the east, all of this funding, this wealth, when would you say that that really picked up? You know, you said he grew up in {{charge}} and he's been here his whole life. Has he, has he always had, had money, or is this...
++[u1361 | 01:59:55.110-02:00:07.410 | Kenzo] Him sending out these large expeditions to the east, all of this funding, this wealth, when would you say that that really picked up? You know, you said he grew up in Chardon and he's been here his whole life. Has he, has he always had, had money, or is this...
+--- before/u1400
++++ after/u1400
+@@ -1 +1 @@
+-[u1400 | 02:03:02.490-02:03:07.350 | DM] It is quite well known that he does have a particular fondness for {{drink or}}.
++[u1400 | 02:03:02.490-02:03:07.350 | DM] It is quite well known that he does have a particular fondness for Drankor.
+--- before/u1409
++++ after/u1409
+@@ -1 +1 @@
+-[u1409 | 02:03:58.920-02:04:01.350 | DM] obsession with {{drink or}}. He wants to...
++[u1409 | 02:03:58.920-02:04:01.350 | DM] obsession with Drankor. He wants to...
+--- before/u1457
++++ after/u1457
+@@ -1 +1 @@
+-[u1457 | 02:06:55.020-02:06:56.100 | Kenzo] From {{D amp D}}.
++[u1457 | 02:06:55.020-02:06:56.100 | Kenzo] From Dee and Dain.
+--- before/u1468
++++ after/u1468
+@@ -1 +1 @@
+-[u1468 | 02:07:44.730-02:07:52.860 | Kenzo] In your hand. I think we should either, I don't know, either leave with {{ISO}} or something, but you need to...
++[u1468 | 02:07:44.730-02:07:52.860 | Kenzo] In your hand. I think we should either, I don't know, either leave with Kaeso or something, but you need to...
+--- before/u1537
++++ after/u1537
+@@ -1 +1 @@
+-[u1537 | 02:13:18.840-02:13:28.440 | Wellby] This is a thing, I don't know what it would be worth to him, but we know where to find the entrances to Pandemonium or {{borja}} and the Feywild, I mean, that's...
++[u1537 | 02:13:18.840-02:13:28.440 | Wellby] This is a thing, I don't know what it would be worth to him, but we know where to find the entrances to Pandemonium or Arborea and the Feywild, I mean, that's...
+--- before/u1538
++++ after/u1538
+@@ -1 +1 @@
+-[u1538 | 02:13:29.520-02:13:33.990 | DM] I mean, the Feywild is written in {{off cards}}'s book, so that's got to be common knowledge.
++[u1538 | 02:13:29.520-02:13:33.990 | DM] I mean, the Feywild is written in Ulfgar's book, so that's got to be common knowledge.
+--- before/u1559
++++ after/u1559
+@@ -1 +1 @@
+-[u1559 | 02:14:57.750-02:15:04.890 | Kenzo] There, you know, this is actually a good thing. If we can retcon this with Rosalia to ask her, is there a place in {{charge}}, and because there must be...
++[u1559 | 02:14:57.750-02:15:04.890 | Kenzo] There, you know, this is actually a good thing. If we can retcon this with Rosalia to ask her, is there a place in Chardon, and because there must be...
+--- before/u1570
++++ after/u1570
+@@ -1 +1 @@
+-[u1570 | 02:15:44.100-02:15:47.070 | Seeker] {{my scar}} was going to get us the book about...
++[u1570 | 02:15:44.100-02:15:47.070 | Seeker] Ulfgar was going to get us the book about...
+--- before/u1575
++++ after/u1575
+@@ -1 +1 @@
+-[u1575 | 02:15:57.300-02:15:59.700 | Seeker] Don't we need to go back to {{old guard}} to get it?
++[u1575 | 02:15:57.300-02:15:59.700 | Seeker] Don't we need to go back to Ulfgar to get it?
+--- before/u1593
++++ after/u1593
+@@ -1 +1 @@
+-[u1593 | 02:17:06.150-02:17:18.750 | Kenzo] Don't you think that there's a nonzero chance that he's working with {{brush}}? That five years ago he suddenly appeared and came across all this wealth, don't you think? I mean, when, when did, when did {{i'm sorry I}} get captured again?
++[u1593 | 02:17:06.150-02:17:18.750 | Kenzo] Don't you think that there's a nonzero chance that he's working with Grash? That five years ago he suddenly appeared and came across all this wealth, don't you think? I mean, when, when did, when did {{i'm sorry I}} get captured again?
+--- before/u1595
++++ after/u1595
+@@ -1 +1 @@
+-[u1595 | 02:17:21.870-02:17:24.870 | Delwath] I don't think he's working with {{crush}}. If he's working...
++[u1595 | 02:17:21.870-02:17:24.870 | Delwath] I don't think he's working with Grash. If he's working...
+--- before/u1596
++++ after/u1596
+@@ -1 +1 @@
+-[u1596 | 02:17:26.610-02:17:41.670 | Delwath] If, if they're related, Faustus is {{crush}}'s commander, and probably has a plan to dispose of {{crush}} when he's done, but I don't... Why would Faustus leave {{brush}} with a powerful artifact?
++[u1596 | 02:17:26.610-02:17:41.670 | Delwath] If, if they're related, Faustus is Grash's commander, and probably has a plan to dispose of Grash when he's done, but I don't... Why would Faustus leave Grash with a powerful artifact?
+--- before/u1600
++++ after/u1600
+@@ -1 +1 @@
+-[u1600 | 02:17:56.130-02:17:57.060 | Kenzo] Oh, that {{garage}} has it.
++[u1600 | 02:17:56.130-02:17:57.060 | Kenzo] Oh, that Grash has it.
+--- before/u1644
++++ after/u1644
+@@ -1 +1 @@
+-[u1644 | 02:20:35.730-02:20:40.080 | DM] Now {{office car}} can whisper in your ear, get that, right.
++[u1644 | 02:20:35.730-02:20:40.080 | DM] Now Aaviskar can whisper in your ear, get that, right.
+--- before/u1647
++++ after/u1647
+@@ -1 +1 @@
+-[u1647 | 02:20:56.670-02:21:06.900 | Riswynn] I will ask about, just out of curiosity to keep our options open, we're learning about this, the mirror, but we're also asking {{case}} about magical jails.
++[u1647 | 02:20:56.670-02:21:06.900 | Riswynn] I will ask about, just out of curiosity to keep our options open, we're learning about this, the mirror, but we're also asking Kaeso about magical jails.
+--- before/u1654
++++ after/u1654
+@@ -1 +1 @@
+-[u1654 | 02:21:48.450-02:21:52.290 | DM] One of the two paintings, so the painting of {{you don't miss}}...
++[u1654 | 02:21:48.450-02:21:52.290 | DM] One of the two paintings, so the painting of Eudomes...
+--- before/u1656
++++ after/u1656
+@@ -1 +1 @@
+-[u1656 | 02:22:02.700-02:22:08.850 | DM] Even though it's not a particularly spectacular portrait, somebody who collects portraits of {{drink or it ends}}.
++[u1656 | 02:22:02.700-02:22:08.850 | DM] Even though it's not a particularly spectacular portrait, somebody who collects portraits of Drankorians.
+--- before/u1681
++++ after/u1681
+@@ -1 +1 @@
+-[u1681 | 02:23:51.870-02:23:54.510 | DM] There are, the {{Petare magica}} has...
++[u1681 | 02:23:51.870-02:23:54.510 | DM] There are, the Hetaeri Magica has...
+--- before/u1908
++++ after/u1908
+@@ -1 +1 @@
+-[u1908 | 02:45:12.120-02:45:18.300 | Riswynn] tempt you to return the chalice to the {{room}} priests, to the dwarven people of the {{vivante}} Mountains?
++[u1908 | 02:45:12.120-02:45:18.300 | Riswynn] tempt you to return the chalice to the rune priests, to the dwarven people of the Yuvanti Mountains?
+--- before/u1931
++++ after/u1931
+@@ -1 +1 @@
+-[u1931 | 02:47:07.350-02:47:11.400 | Wellby] We've got the location of the portal to {{arborio}}, we've got the...
++[u1931 | 02:47:07.350-02:47:11.400 | Wellby] We've got the location of the portal to Arborea, we've got the...
+--- before/u1932
++++ after/u1932
+@@ -1 +1 @@
+-[u1932 | 02:47:12.690-02:47:16.170 | Wellby] monk dude in {{Tokyo}} who works on interplanar magic.
++[u1932 | 02:47:12.690-02:47:16.170 | Wellby] monk dude in Tokra who works on interplanar magic.
+--- before/u1951
++++ after/u1951
+@@ -1 +1 @@
+-[u1951 | 02:48:29.910-02:48:31.530 | Wellby] information to the person in {{took her}}.
++[u1951 | 02:48:29.910-02:48:31.530 | Wellby] information to the person in Tokra.
+--- before/u1955
++++ after/u1955
+@@ -1 +1 @@
+-[u1955 | 02:48:37.890-02:48:40.080 | Seeker] Like a letter of introduction to the person in {{talk}}.
++[u1955 | 02:48:37.890-02:48:40.080 | Seeker] Like a letter of introduction to the person in Tokra.
+--- before/u1956
++++ after/u1956
+@@ -1 +1 @@
+-[u1956 | 02:48:40.740-02:48:45.330 | Delwath] Yeah, and some information. I mean we could tell him about the portal to {{our borja}}.
++[u1956 | 02:48:40.740-02:48:45.330 | Delwath] Yeah, and some information. I mean we could tell him about the portal to Arborea.
+--- before/u1961
++++ after/u1961
+@@ -1 +1 @@
+-[u1961 | 02:49:11.340-02:49:23.580 | Riswynn] of my, of the {{bounty}} Mountains, my people had thought that we might perhaps offer to purchase this item. I see that you are more interested in...
++[u1961 | 02:49:11.340-02:49:23.580 | Riswynn] of my, of the Yuvanti Mountains, my people had thought that we might perhaps offer to purchase this item. I see that you are more interested in...
+--- before/u1976
++++ after/u1976
+@@ -1 +1 @@
+-[u1976 | 02:51:12.960-02:51:33.570 | Riswynn] The {{avanti}} Mountains to this great city that that would be the type of thing you would value. Now that I have learned of your interesting studies and made this connection, I can reach out to my people, but I thought that I should approach you and make you aware of our interest.
++[u1976 | 02:51:12.960-02:51:33.570 | Riswynn] The Yuvanti Mountains to this great city that that would be the type of thing you would value. Now that I have learned of your interesting studies and made this connection, I can reach out to my people, but I thought that I should approach you and make you aware of our interest.
+--- before/u1995
++++ after/u1995
+@@ -1 +1 @@
+-[u1995 | 02:52:43.860-02:52:46.920 | DM] from, what's his name, the guy you met in {{darby}}.
++[u1995 | 02:52:43.860-02:52:46.920 | DM] from, what's his name, the guy you met in Darba.
+--- before/u2004
++++ after/u2004
+@@ -1 +1 @@
+-[u2004 | 02:53:21.450-02:53:22.530 | Riswynn] {{arborio}} or...
++[u2004 | 02:53:21.450-02:53:22.530 | Riswynn] Arborea or...
+--- before/u2005
++++ after/u2005
+@@ -1 +1 @@
+-[u2005 | 02:53:22.530-02:53:25.140 | DM] There's so much in {{charge}}, and I would not...
++[u2005 | 02:53:22.530-02:53:25.140 | DM] There's so much in Chardon, and I would not...
+--- before/u2079
++++ after/u2079
+@@ -1 +1 @@
+-[u2079 | 02:58:51.090-02:58:55.320 | Riswynn] polishers in {{certain toner}}, although there might be some around here.
++[u2079 | 02:58:51.090-02:58:55.320 | Riswynn] polishers in Tharn Todor, although there might be some around here.
+--- before/u2081
++++ after/u2081
+@@ -1 +1 @@
+-[u2081 | 02:58:56.280-02:58:58.680 | DM] Yeah, sure, sure, there's some in {{chart and}} too.
++[u2081 | 02:58:56.280-02:58:58.680 | DM] Yeah, sure, sure, there's some in Chardon too.
+--- before/u2082
++++ after/u2082
+@@ -1 +1 @@
+-[u2082 | 02:58:59.220-02:59:01.890 | Riswynn] You may not be in {{charge}} to pick them up, well...
++[u2082 | 02:58:59.220-02:59:01.890 | Riswynn] You may not be in Chardon to pick them up, well...
+--- before/u2118
++++ after/u2118
+@@ -1 +1 @@
+-[u2118 | 03:01:58.320-03:02:03.990 | Kenzo] Or, I think that sounds like a great idea. Also, Riswynn, was, were you with us in {{you don't This}}'s tower?
++[u2118 | 03:01:58.320-03:02:03.990 | Kenzo] Or, I think that sounds like a great idea. Also, Riswynn, was, were you with us in Eudomes's tower?
+--- before/u2120
++++ after/u2120
+@@ -1 +1 @@
+-[u2120 | 03:02:06.630-03:02:08.010 | Delwath] Riswynn was in {{you don't}}'s tower.
++[u2120 | 03:02:06.630-03:02:08.010 | Delwath] Riswynn was in Eudomes's tower.
+--- before/u2123
++++ after/u2123
+@@ -1 +1 @@
+-[u2123 | 03:02:14.970-03:02:20.400 | Delwath] Right, last time we saw Riswynn prior to the werewolves and {{TELCO was villains}} was {{the dumbest}} tower.
++[u2123 | 03:02:14.970-03:02:20.400 | Delwath] Right, last time we saw Riswynn prior to the werewolves and {{TELCO was villains}} was Eudomes tower.
+--- before/u2142
++++ after/u2142
+@@ -1 +1 @@
+-[u2142 | 03:03:27.570-03:03:29.040 | Kenzo] {{don't know}} god-caller of the...
++[u2142 | 03:03:27.570-03:03:29.040 | Kenzo] Jordo god-caller of the...
+--- before/u2180
++++ after/u2180
+@@ -1 +1 @@
+-[u2180 | 03:06:49.380-03:07:14.760 | DM] Like audience chamber sort of room, and he's like maybe early 30s, well-groomed. Not, not ostentatiously wealthy, like some of the other people you've met in the sort of upper strata of {{shut down in}} society, but, um, you know, a well-tailored silk tunic and, and trousers and...
++[u2180 | 03:06:49.380-03:07:14.760 | DM] Like audience chamber sort of room, and he's like maybe early 30s, well-groomed. Not, not ostentatiously wealthy, like some of the other people you've met in the sort of upper strata of Chardonian society, but, um, you know, a well-tailored silk tunic and, and trousers and...
+--- before/u2204
++++ after/u2204
+@@ -1 +1 @@
+-[u2204 | 03:09:36.780-03:09:42.150 | Delwath] We heard about this expedition that he's mounting to {{warrior}} and...
++[u2204 | 03:09:36.780-03:09:42.150 | Delwath] We heard about this expedition that he's mounting to Illoria and...
+--- before/u2207
++++ after/u2207
+@@ -1 +1 @@
+-[u2207 | 03:09:50.820-03:09:59.340 | Delwath] directions we might go from {{Chardin}}, we are interested in hearing his, uh, his description of the expedition and what he's offering.
++[u2207 | 03:09:50.820-03:09:59.340 | Delwath] directions we might go from Chardon, we are interested in hearing his, uh, his description of the expedition and what he's offering.
+--- before/u2209
++++ after/u2209
+@@ -1 +1 @@
+-[u2209 | 03:10:05.490-03:10:07.770 | DM] I know you've spoken with {{the D}}.
++[u2209 | 03:10:05.490-03:10:07.770 | DM] I know you've spoken with Dee.
+--- before/u2217
++++ after/u2217
+@@ -1 +1 @@
+-[u2217 | 03:11:06.720-03:11:11.340 | DM] So yeah, so {{do you Dana}} are getting ready to go, but I...
++[u2217 | 03:11:06.720-03:11:11.340 | DM] So yeah, so Dee and Dain are getting ready to go, but I...
+--- before/u2252
++++ after/u2252
+@@ -1 +1 @@
+-[u2252 | 03:14:05.790-03:14:10.590 | Wellby] Perhaps another way to pose the question is, if we can't make it on this expedition to {{loria}}...
++[u2252 | 03:14:05.790-03:14:10.590 | Wellby] Perhaps another way to pose the question is, if we can't make it on this expedition to Illoria...
+--- before/u2258
++++ after/u2258
+@@ -1 +1 @@
+-[u2258 | 03:14:41.880-03:14:53.700 | Kenzo] I suppose also because, you know, we are planning, we, we will be journeying to other places and are likely to come back to {{chart in}} in the not too distant future, so...
++[u2258 | 03:14:41.880-03:14:53.700 | Kenzo] I suppose also because, you know, we are planning, we, we will be journeying to other places and are likely to come back to Chardon in the not too distant future, so...
+--- before/u2273
++++ after/u2273
+@@ -1 +1 @@
+-[u2273 | 03:15:57.180-03:16:09.480 | Kenzo] Some, some colleagues of yours, and they had been on an expedition out to the east. We come here from Dunmar and we were curious about the eyes from {{you don't miss}}'s tower.
++[u2273 | 03:15:57.180-03:16:09.480 | Kenzo] Some, some colleagues of yours, and they had been on an expedition out to the east. We come here from Dunmar and we were curious about the eyes from Eudomes's tower.
+--- before/u2288
++++ after/u2288
+@@ -1 +1 @@
+-[u2288 | 03:17:12.810-03:17:14.190 | DM] And you head off to {{a warrior}}.
++[u2288 | 03:17:12.810-03:17:14.190 | DM] And you head off to Illoria.
+--- before/u2298
++++ after/u2298
+@@ -1 +1 @@
+-[u2298 | 03:17:54.180-03:17:55.950 | Kenzo] Metagame, how far is {{a loria}} from...
++[u2298 | 03:17:54.180-03:17:55.950 | Kenzo] Metagame, how far is Illoria from...
+--- before/u2301
++++ after/u2301
+@@ -1 +1 @@
+-[u2301 | 03:18:01.800-03:18:03.240 | DM] Right, it's like almost near {{Darbar}}.
++[u2301 | 03:18:01.800-03:18:03.240 | DM] Right, it's like almost near Darba.
+--- before/u2311
++++ after/u2311
+@@ -1 +1 @@
+-[u2311 | 03:18:36.420-03:18:44.250 | Kenzo] Sure, I know, but, but that's what I'm saying is, like, just, you know, what do we want to do on the Cape? Like, do we want to be, I mean, {{loria}} could be fun too, we'd be on an island.
++[u2311 | 03:18:36.420-03:18:44.250 | Kenzo] Sure, I know, but, but that's what I'm saying is, like, just, you know, what do we want to do on the Cape? Like, do we want to be, I mean, Illoria could be fun too, we'd be on an island.
+--- before/u2331
++++ after/u2331
+@@ -1 +1 @@
+-[u2331 | 03:19:47.310-03:19:52.800 | Riswynn] Oh, we got you this thing, we'd like the giant eyes now, and he's like, {{cassius}}, kill them.
++[u2331 | 03:19:47.310-03:19:52.800 | Riswynn] Oh, we got you this thing, we'd like the giant eyes now, and he's like, Casian, kill them.
+--- before/u2345
++++ after/u2345
+@@ -1 +1 @@
+-[u2345 | 03:20:44.880-03:20:46.620 | Delwath] Us for going to {{war}}, yeah.
++[u2345 | 03:20:44.880-03:20:46.620 | Delwath] Us for going to Illoria, yeah.
+--- before/u2346
++++ after/u2346
+@@ -1 +1 @@
+-[u2346 | 03:20:47.190-03:20:51.510 | DM] He said if you went to {{a bar yeah}} and helped {{service}}, he'd give you the giant eyes when you came back.
++[u2346 | 03:20:47.190-03:20:51.510 | DM] He said if you went to Illoria and helped Servius, he'd give you the giant eyes when you came back.
+--- before/u2355
++++ after/u2355
+@@ -1 +1 @@
+-[u2355 | 03:21:17.970-03:21:28.890 | DM] I consider that part of the same collection. If you, if you go in and help {{service}} and return, let me take my 20%, you'll walk out of here with those items.
++[u2355 | 03:21:17.970-03:21:28.890 | DM] I consider that part of the same collection. If you, if you go in and help Servius and return, let me take my 20%, you'll walk out of here with those items.
+--- before/u2356
++++ after/u2356
+@@ -1 +1 @@
+-[u2356 | 03:21:29.850-03:21:41.820 | Kenzo] Schwartz, we were just metagaming what we want to do on the Cape, because the next time we meet is going to be in person on the Cape. So do we want to be in {{a loria}} and do an adventure on islands to, like, work, or, yeah, we gotta...
++[u2356 | 03:21:29.850-03:21:41.820 | Kenzo] Schwartz, we were just metagaming what we want to do on the Cape, because the next time we meet is going to be in person on the Cape. So do we want to be in Illoria and do an adventure on islands to, like, work, or, yeah, we gotta...
+--- before/u2381
++++ after/u2381
+@@ -1 +1 @@
+-[u2381 | 03:23:16.530-03:23:26.610 | Delwath] Story we've heard about an ancient {{drink Korean}} Ring of Undying, a ring that lets you bring, bring the dead back to life.
++[u2381 | 03:23:16.530-03:23:26.610 | Delwath] Story we've heard about an ancient Drankorian Ring of Undying, a ring that lets you bring, bring the dead back to life.
+--- before/u2419
++++ after/u2419
+@@ -1 +1 @@
+-[u2419 | 03:25:53.010-03:26:01.530 | Kenzo] You know, weirdly, he doesn't seem, like, evil and, like, under the thumb, like I don't think he's, like, you know, {{crashes}}'s liege, you know.
++[u2419 | 03:25:53.010-03:26:01.530 | Kenzo] You know, weirdly, he doesn't seem, like, evil and, like, under the thumb, like I don't think he's, like, you know, Grash's liege, you know.
+--- before/u2453
++++ after/u2453
+@@ -1 +1 @@
+-[u2453 | 03:28:22.320-03:28:28.500 | Delwath] Path of the mirror. We didn't go to the mirror, but we're telling him about {{gratia}} and we're giving him the scroll of Pandemonium, yeah.
++[u2453 | 03:28:22.320-03:28:28.500 | Delwath] Path of the mirror. We didn't go to the mirror, but we're telling him about Grash and we're giving him the scroll of Pandemonium, yeah.
+--- before/u2458
++++ after/u2458
+@@ -1 +1 @@
+-[u2458 | 03:28:41.820-03:28:43.290 | Delwath] And starts a war against {{crush}}.
++[u2458 | 03:28:41.820-03:28:43.290 | Delwath] And starts a war against Grash.
+--- before/u2460
++++ after/u2460
+@@ -1 +1 @@
+-[u2460 | 03:28:45.600-03:28:51.300 | Wellby] Oh yeah, if he gives the scroll of Pandemonium to {{crush}} because they're in league, that'll be interesting too.
++[u2460 | 03:28:45.600-03:28:51.300 | Wellby] Oh yeah, if he gives the scroll of Pandemonium to Grash because they're in league, that'll be interesting too.
+--- before/u2555
++++ after/u2555
+@@ -1 +1 @@
+-[u2555 | 03:34:21.480-03:34:24.210 | Riswynn] You know, heading towards the {{avanti}} Mountains.
++[u2555 | 03:34:21.480-03:34:24.210 | Riswynn] You know, heading towards the Yuvanti Mountains.
+--- before/u2560
++++ after/u2560
+@@ -1 +1 @@
+-[u2560 | 03:34:34.350-03:34:40.590 | Riswynn] Nice sturdy dwarves to go on a little voyage to {{Darren tutor}} with me.
++[u2560 | 03:34:34.350-03:34:40.590 | Riswynn] Nice sturdy dwarves to go on a little voyage to Tharn Todor with me.
+--- before/u2661
++++ after/u2661
+@@ -1 +1 @@
+-[u2661 | 03:42:08.940-03:42:11.850 | DM] Yeah, I mean, these are {{crawlers}}'s eyes for sure.
++[u2661 | 03:42:08.940-03:42:11.850 | DM] Yeah, I mean, these are Hralgar's eyes for sure.
+--- before/u2682
++++ after/u2682
+@@ -1 +1 @@
+-[u2682 | 03:43:49.470-03:43:50.850 | Delwath] Tell him about {{crush}}.
++[u2682 | 03:43:49.470-03:43:50.850 | Delwath] Tell him about Grash.
+--- before/u2858
++++ after/u2858
+@@ -1 +1 @@
+-[u2858 | 03:54:45.300-03:54:47.280 | Delwath] Yeah, {{charity and}} police break in.
++[u2858 | 03:54:45.300-03:54:47.280 | Delwath] Yeah, Chardonian police break in.
+--- before/u2860
++++ after/u2860
+@@ -1 +1 @@
+-[u2860 | 03:54:52.620-03:54:55.620 | Wellby] If the {{turtle and}} police come, they're not coming for him.
++[u2860 | 03:54:52.620-03:54:55.620 | Wellby] If the Chardonian police come, they're not coming for him.
+--- before/u2863
++++ after/u2863
+@@ -1 +1 @@
+-[u2863 | 03:55:02.190-03:55:06.300 | Kenzo] I want to be in the forest next time. I don't want to be in a fucking {{Chardonnay in}} prison or some shit.
++[u2863 | 03:55:02.190-03:55:06.300 | Kenzo] I want to be in the forest next time. I don't want to be in a fucking Chardonian prison or some shit.
+--- before/u2900
++++ after/u2900
+@@ -1 +1 @@
+-[u2900 | 03:56:57.810-03:57:01.560 | DM] I, I paid for {{cognos cassie}} and...
++[u2900 | 03:56:57.810-03:57:01.560 | DM] I, I paid for Kadmos Casian and...
+--- before/u3032
++++ after/u3032
+@@ -1 +1 @@
+-[u3032 | 04:05:27.900-04:05:29.610 | Kenzo] So Faustus is working with {{rush}}.
++[u3032 | 04:05:27.900-04:05:29.610 | Kenzo] So Faustus is working with Grash.
+--- before/u3322
++++ after/u3322
+@@ -1 +1 @@
+-[u3322 | 04:24:03.330-04:24:09.570 | Delwath] Is it, like, how unusual is it to see somebody flying in {{charter}}? Like, have we seen anybody fly while we're here?
++[u3322 | 04:24:03.330-04:24:09.570 | Delwath] Is it, like, how unusual is it to see somebody flying in Chardon? Like, have we seen anybody fly while we're here?
+--- before/u3330
++++ after/u3330
+@@ -1 +1 @@
+-[u3330 | 04:24:41.370-04:24:44.340 | Delwath] My new plan is get out of {{charting}} in the next half hour.
++[u3330 | 04:24:41.370-04:24:44.340 | Delwath] My new plan is get out of Chardon in the next half hour.
+--- before/u3551
++++ after/u3551
+@@ -1 +1 @@
+-[u3551 | 04:36:42.780-04:36:45.000 | Kenzo] We're escaping {{charting}}, we're getting the fuck out of {{charting}}.
++[u3551 | 04:36:42.780-04:36:45.000 | Kenzo] We're escaping Chardon, we're getting the fuck out of Chardon.
+--- before/u3554
++++ after/u3554
+@@ -1 +1 @@
+-[u3554 | 04:36:48.180-04:36:52.110 | Kenzo] We want to stay and go for, like, jurisprudence, like stay for, like, {{cardone and}}, like...
++[u3554 | 04:36:48.180-04:36:52.110 | Kenzo] We want to stay and go for, like, jurisprudence, like stay for, like, Chardonian, like...
+--- before/u3564
++++ after/u3564
+@@ -1 +1 @@
+-[u3564 | 04:37:28.410-04:37:32.100 | Delwath] I mean, I'm not gonna try, I'm gonna guess, I don't know {{charted}} well, so yeah, sure.
++[u3564 | 04:37:28.410-04:37:32.100 | Delwath] I mean, I'm not gonna try, I'm gonna guess, I don't know Chardon well, so yeah, sure.
+--- before/u3595
++++ after/u3595
+@@ -1 +1 @@
+-[u3595 | 04:39:04.500-04:39:09.960 | Delwath] Yeah, absolutely. We just need to hook up with Riswynn. You don't even need to get to {{watch TV}}'s house.
++[u3595 | 04:39:04.500-04:39:09.960 | Delwath] Yeah, absolutely. We just need to hook up with Riswynn. You don't even need to get to Kaeso's house.
+--- before/u3608
++++ after/u3608
+@@ -1 +1 @@
+-[u3608 | 04:40:25.740-04:40:35.400 | DM] Heading, heading towards the direction of {{cases}}'s house and where Riswynn would be coming from, sort of to the south, right, so...
++[u3608 | 04:40:25.740-04:40:35.400 | DM] Heading, heading towards the direction of Kaeso's house and where Riswynn would be coming from, sort of to the south, right, so...
+--- before/u3700
++++ after/u3700
+@@ -1 +1 @@
+-[u3700 | 04:45:37.920-04:45:43.380 | DM] Yes, daytime, there's a fair bit of traffic. I mean, this is one of the main roads in and out of {{charleston}}, there's a fair bit of traffic.
++[u3700 | 04:45:37.920-04:45:43.380 | DM] Yes, daytime, there's a fair bit of traffic. I mean, this is one of the main roads in and out of Chardon, there's a fair bit of traffic.
+--- before/u3716
++++ after/u3716
+@@ -1 +1 @@
+-[u3716 | 04:46:57.150-04:47:01.560 | DM] Nobody from the town, nobody from {{charting}} has come out, it's just the travelers on the...
++[u3716 | 04:46:57.150-04:47:01.560 | DM] Nobody from the town, nobody from Chardon has come out, it's just the travelers on the...
+--- before/u3801
++++ after/u3801
+@@ -1 +1 @@
+-[u3801 | 04:52:32.880-04:52:36.660 | Delwath] Need to get a lot further away from {{charted}} before we're going to feel safe.
++[u3801 | 04:52:32.880-04:52:36.660 | Delwath] Need to get a lot further away from Chardon before we're going to feel safe.
+--- before/u3823
++++ after/u3823
+@@ -1 +1 @@
+-[u3823 | 04:54:13.170-04:54:22.620 | Delwath] Well, I don't think, I mean, if the entire might of {{charted}} is after us, we're dead, right? We've got to assume that Faustus isn't gonna be, like...
++[u3823 | 04:54:13.170-04:54:22.620 | Delwath] Well, I don't think, I mean, if the entire might of Chardon is after us, we're dead, right? We've got to assume that Faustus isn't gonna be, like...
+--- before/u3835
++++ after/u3835
+@@ -1 +1 @@
+-[u3835 | 04:55:06.660-04:55:24.960 | Delwath] All day and night heading towards, like, we want to kind of circle around towards the river, and then we want to find, then we want to hope that we're far enough away. I think we have to send some letters to {{charmin}}. Should really send, like, a letter to the people we knew and met, like...
++[u3835 | 04:55:06.660-04:55:24.960 | Delwath] All day and night heading towards, like, we want to kind of circle around towards the river, and then we want to find, then we want to hope that we're far enough away. I think we have to send some letters to Chardon. Should really send, like, a letter to the people we knew and met, like...
+--- before/u3855
++++ after/u3855
+@@ -1 +1 @@
+-[u3855 | 04:56:29.910-04:56:30.510 | Kenzo] {{hi so}}.
++[u3855 | 04:56:29.910-04:56:30.510 | Kenzo] Kaeso.
+--- before/u3858
++++ after/u3858
+@@ -1 +1 @@
+-[u3858 | 04:56:42.420-04:56:43.830 | Kenzo] Yeah, well, that's what {{ryan}}'s doing.
++[u3858 | 04:56:42.420-04:56:43.830 | Kenzo] Yeah, well, that's what Rai's doing.
+--- before/u3867
++++ after/u3867
+@@ -1 +1 @@
+-[u3867 | 04:57:03.240-04:57:05.940 | Kenzo] {{Never alternatives}} you guys all get to be fugitives from {{charting}}.
++[u3867 | 04:57:03.240-04:57:05.940 | Kenzo] {{Never alternatives}} you guys all get to be fugitives from Chardon.
+--- before/u3871
++++ after/u3871
+@@ -1 +1 @@
+-[u3871 | 04:57:28.440-04:57:38.670 | DM] A little, it's 300 miles, 370 miles to {{our dumb}}, where {{night Nice}} is from. That's where you want to start this...
++[u3871 | 04:57:28.440-04:57:38.670 | DM] A little, it's 300 miles, 370 miles to Arendum, where {{night Nice}} is from. That's where you want to start this...
+--- before/u3886
++++ after/u3886
+@@ -1 +1 @@
+-[u3886 | 04:58:17.520-04:58:25.710 | Kenzo] And, Tim, this, this {{cardone and}} mage guard, like, are they going to be, like, hunting us all the way outside of {{charges}}, or is it, like, normally, like an in-city type of thing?
++[u3886 | 04:58:17.520-04:58:25.710 | Kenzo] And, Tim, this, this Chardonian mage guard, like, are they going to be, like, hunting us all the way outside of Chardon, or is it, like, normally, like an in-city type of thing?
+--- before/u3894
++++ after/u3894
+@@ -1 +1 @@
+-[u3894 | 04:58:52.950-04:58:56.100 | Wellby] You know who's gonna get back to {{turn}} in just a couple of weeks.
++[u3894 | 04:58:52.950-04:58:56.100 | Wellby] You know who's gonna get back to Chardon in just a couple of weeks.
+--- before/u3901
++++ after/u3901
+@@ -1 +1 @@
+-[u3901 | 04:59:09.660-04:59:10.560 | Delwath] {{marcellus}} left.
++[u3901 | 04:59:09.660-04:59:10.560 | Delwath] Marcella left.
+--- before/u3907
++++ after/u3907
+@@ -1 +1 @@
+-[u3907 | 04:59:18.570-04:59:19.620 | Seeker] Wonder how {{merciless}}...
++[u3907 | 04:59:18.570-04:59:19.620 | Seeker] Wonder how Marcella...
+--- before/u3914
++++ after/u3914
+@@ -1 +1 @@
+-[u3914 | 04:59:31.680-04:59:36.420 | DM] So, as we end with the four of you on the run from {{charleston}}...
++[u3914 | 04:59:31.680-04:59:36.420 | DM] So, as we end with the four of you on the run from Chardon...
+--- before/u3931
++++ after/u3931
+@@ -1 +1 @@
+-[u3931 | 05:00:29.970-05:00:41.970 | Kenzo] Right, whether it's Dream or, yeah, or the messages from Riswynn, what does, what we're gonna do is we're going to send messages to Rosalia, to {{focus}}, everybody that we talked to, {{off car}}, um...
++[u3931 | 05:00:29.970-05:00:41.970 | Kenzo] Right, whether it's Dream or, yeah, or the messages from Riswynn, what does, what we're gonna do is we're going to send messages to Rosalia, to {{focus}}, everybody that we talked to, Ulfgar, um...
+--- before/u3946
++++ after/u3946
+@@ -1 +1 @@
+-[u3946 | 05:01:16.560-05:01:26.160 | Kenzo] So that we send messages to all of them and just tell them everything, right? We tell them about {{Rosh}}, we tell them that Faustus is in league with {{rush}}, right.
++[u3946 | 05:01:16.560-05:01:26.160 | Kenzo] So that we send messages to all of them and just tell them everything, right? We tell them about Grash, we tell them that Faustus is in league with Grash, right.
+--- before/u3956
++++ after/u3956
+@@ -1 +1 @@
+-[u3956 | 05:01:55.530-05:01:59.100 | DM] up some distance upstream from {{chart and}}, yeah.
++[u3956 | 05:01:55.530-05:01:59.100 | DM] up some distance upstream from Chardon, yeah.
+--- before/u3993
++++ after/u3993
+@@ -1 +1 @@
+-[u3993 | 05:03:45.360-05:03:45.990 | Kenzo] {{drink Korean}}.
++[u3993 | 05:03:45.360-05:03:45.990 | Kenzo] Drankorian.
+--- before/u3994
++++ after/u3994
+@@ -1 +1 @@
+-[u3994 | 05:03:46.950-05:03:48.960 | Riswynn] Yeah, {{drink Korean}}, exactly.
++[u3994 | 05:03:46.950-05:03:48.960 | Riswynn] Yeah, Drankorian, exactly.
+--- before/u4001
++++ after/u4001
+@@ -1 +1 @@
+-[u4001 | 05:04:11.460-05:04:12.990 | Kenzo] In the middle of {{chart and}}.
++[u4001 | 05:04:11.460-05:04:12.990 | Kenzo] In the middle of Chardon.
+--- before/u4002
++++ after/u4002
+@@ -1 +1 @@
+-[u4002 | 05:04:14.700-05:04:21.900 | Kenzo] Then we, hold on, this is, and then this is {{nihilists}}.
++[u4002 | 05:04:14.700-05:04:21.900 | Kenzo] Then we, hold on, this is, and then this is Gnaeus.
+--- before/u4005
++++ after/u4005
+@@ -1 +1 @@
+-[u4005 | 05:04:27.960-05:04:30.630 | Kenzo] {{Georgia}}, the god-caller.
++[u4005 | 05:04:27.960-05:04:30.630 | Kenzo] Jordo, the god-caller.

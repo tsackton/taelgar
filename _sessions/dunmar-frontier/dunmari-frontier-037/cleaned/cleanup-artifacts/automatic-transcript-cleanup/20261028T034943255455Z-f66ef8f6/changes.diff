@@ -1,0 +1,45 @@
+--- before/u0010
++++ after/u0010
+@@ -1 +1 @@
+-[u0010 | 00:01:17.160-00:01:34.290 | DM] Stay on the forests and {{must drive a hills}} of the southern reaches of Sembara, nor on the arid foothills where the people of the Refounded Alliance of Aurbez scratch out a living on the edge of the Plaguelands. The full moon also draws the darkness of the void closer.
++[u0010 | 00:01:17.160-00:01:34.290 | DM] Stay on the forests and Mostreve Hills of the southern reaches of Sembara, nor on the arid foothills where the people of the Refounded Alliance of Aurbez scratch out a living on the edge of the Plaguelands. The full moon also draws the darkness of the void closer.
+--- before/u1281
++++ after/u1281
+@@ -1 +1 @@
+-[u1281 | 01:29:57.570-01:29:59.280 | DM] {{breda}} alert the others.
++[u1281 | 01:29:57.570-01:29:59.280 | DM] Breda alert the others.
+--- before/u1322
++++ after/u1322
+@@ -1 +1 @@
+-[u1322 | 01:32:11.370-01:32:13.170 | DM] {{Edmier}} intruders.
++[u1322 | 01:32:11.370-01:32:13.170 | DM] Edmur intruders.
+--- before/u1890
++++ after/u1890
+@@ -1 +1 @@
+-[u1890 | 02:09:38.250-02:09:54.060 | DM] guards who you initially startled, Wellby, don't carry anything on them the larger guard captain, whose name was presumably {{Edmier}}, who was the second one, that the first guy you killed called for.
++[u1890 | 02:09:38.250-02:09:54.060 | DM] guards who you initially startled, Wellby, don't carry anything on them the larger guard captain, whose name was presumably Edmur, who was the second one, that the first guy you killed called for.
+--- before/u2303
++++ after/u2303
+@@ -1 +1 @@
+-[u2303 | 02:50:55.710-02:51:04.140 | DM] You know at least one of {{speaker laws}} like acolytes would be that strong but again they're all still out in the plane somewhere.
++[u2303 | 02:50:55.710-02:51:04.140 | DM] You know at least one of Speaker Lara's like acolytes would be that strong but again they're all still out in the plane somewhere.
+--- before/u2307
++++ after/u2307
+@@ -1 +1 @@
+-[u2307 | 02:51:21.570-02:51:22.770 | DM] {{kayla}} was.
++[u2307 | 02:51:21.570-02:51:22.770 | DM] Kaleha was.
+--- before/u2484
++++ after/u2484
+@@ -1 +1 @@
+-[u2484 | 03:04:06.390-03:04:10.440 | DM] Trust {{Edmier}} but after the.
++[u2484 | 03:04:06.390-03:04:10.440 | DM] Trust Edmur but after the.
+--- before/u2495
++++ after/u2495
+@@ -1 +1 @@
+-[u2495 | 03:05:10.410-03:05:12.690 | DM] {{Edmier}} said he beat the fellow.
++[u2495 | 03:05:10.410-03:05:12.690 | DM] Edmur said he beat the fellow.
+--- before/u2501
++++ after/u2501
+@@ -1 +1 @@
+-[u2501 | 03:05:27.570-03:05:33.630 | DM] But you know {{Edmier}} is is strong so who knows, but we hear you.
++[u2501 | 03:05:27.570-03:05:33.630 | DM] But you know Edmur is is strong so who knows, but we hear you.

@@ -1,0 +1,30 @@
+--- before/u1174
++++ after/u1174
+@@ -1 +1 @@
+-[u1174 | 01:30:37.980-01:30:39.690 | Delwath] 15 misses {{delis}}.
++[u1174 | 01:30:37.980-01:30:39.690 | Delwath] 15 misses Delwath.
+--- before/u1605
++++ after/u1605
+@@ -1 +1 @@
+-[u1605 | 01:56:12.450-01:56:16.590 | DM] {{Sandra}} Cintra definitely is in favor of killing it she does not want to see.
++[u1605 | 01:56:12.450-01:56:16.590 | DM] Cintra Cintra definitely is in favor of killing it she does not want to see.
+--- before/u2481
++++ after/u2481
+@@ -1 +1 @@
+-[u2481 | 02:59:00.420-02:59:06.510 | Delwath] try my only fear would be this person will wake up in the middle of {{August}}.
++[u2481 | 02:59:00.420-02:59:06.510 | Delwath] try my only fear would be this person will wake up in the middle of Agata's.
+--- before/u2627
++++ after/u2627
+@@ -1 +1 @@
+-[u2627 | 03:11:54.660-03:11:55.260 | DM] {{kesa}}.
++[u2627 | 03:11:54.660-03:11:55.260 | DM] Kisa.
+--- before/u3330
++++ after/u3330
+@@ -1 +1 @@
+-[u3330 | 04:09:43.746-04:09:44.916 | Seeker] {{I got it}} good or bad person.
++[u3330 | 04:09:43.746-04:09:44.916 | Seeker] Agata good or bad person.
+--- before/u3457
++++ after/u3457
+@@ -1 +1 @@
+-[u3457 | 04:20:07.206-04:20:12.066 | Delwath] where's the where's the initiate where's the monastery of {{shit}} yeah there.
++[u3457 | 04:20:07.206-04:20:12.066 | Delwath] where's the where's the initiate where's the monastery of Chidya yeah there.

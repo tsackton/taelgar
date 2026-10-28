@@ -3,8 +3,8 @@
 [u0003 | 00:00:22.950-00:00:35.580 | DM] And yet, as it grows brighter, it can feel the threads of the divine that tie the world below to the spiritual realms and it pulls, yearning for more for a deeper connection to the warmth and the glow of divinity.
 [u0004 | 00:00:36.900-00:00:52.710 | DM] The realms of the gods as well as the realms of demons and devils and the primordial forces of the world draw closer. As the moon reaches for these realms, it creates the planar tides, the ebb and flow of the strength of connection between these realms and the world of Taelgar.
 [u0005 | 00:00:54.600-00:01:03.660 | DM] The moon does not remember its past, although it has heard the stories, of course, the conflicting tales and prayers and legends of its origin.
-[u0006 | 00:01:05.430-00:01:15.750 | DM] Is it a great evil cast out in the earliest days of creation by {{our and maalik}} cursed to forget in its great tomb struggling awake for only a few days each month?
-[u0007 | 00:01:16.800-00:01:35.670 | DM] Some tales claim, or perhaps a great hero of the Age of Myth born and living and dying during the long breath before time began rescued from death by {{art and ma}} given an honored place in the sky, but unable to be fully restored perhaps some tales would say this.
+[u0006 | 00:01:05.430-00:01:15.750 | DM] Is it a great evil cast out in the earliest days of creation by Arhat and Malik cursed to forget in its great tomb struggling awake for only a few days each month?
+[u0007 | 00:01:16.800-00:01:35.670 | DM] Some tales claim, or perhaps a great hero of the Age of Myth born and living and dying during the long breath before time began rescued from death by Arhat and Malik given an honored place in the sky, but unable to be fully restored perhaps some tales would say this.
 [u0008 | 00:01:36.870-00:01:40.830 | DM] or some say a hero, and the villain both granted the gift of forgetting.
 [u0009 | 00:01:42.030-00:01:50.760 | DM] The moon hears these tales and more washing over them, {{and yet they find you they don't care}} to know the truth, even in these moments of lucidity.
 [u0010 | 00:01:54.630-00:01:58.740 | DM] As the moon begins to drift lower in the sky towards setting.
@@ -336,7 +336,7 @@
 [u0336 | 00:25:19.890-00:25:20.850 | DM] have just.
 [u0337 | 00:25:20.970-00:25:22.950 | DM] Just to clarify the map was made.
 [u0338 | 00:25:24.540-00:25:28.260 | DM] was made by so there was a there was this.
-[u0339 | 00:25:29.310-00:25:37.110 | DM] sheaf of papers you found in the archives that were letters from Commander {{ilya}} to the {{summer}} Nayan Yarad.
+[u0339 | 00:25:29.310-00:25:37.110 | DM] sheaf of papers you found in the archives that were letters from Commander Ila to the Samraat Nayan Yarad.
 [u0340 | 00:25:38.820-00:25:47.940 | DM] And the map was you learned of the map, because one of those letters said, basically, there was one approach that seems safe that I've carefully mapped and given to my troops.
 [u0341 | 00:25:50.160-00:25:51.720 | Delwath] So it's it was old Dunmari.
 [u0342 | 00:25:52.260-00:25:53.160 | DM] But this is not.
@@ -493,7 +493,7 @@
 [u0493 | 00:37:06.840-00:37:07.260 | Seeker] yeah.
 [u0494 | 00:37:07.620-00:37:10.530 | Seeker] And then, if they need this scroll that we have, but maybe not.
 [u0495 | 00:37:10.740-00:37:14.520 | Delwath] so clear in the it's in the session notes.
-[u0496 | 00:37:15.750-00:37:32.370 | Delwath] It was, when the sixth moon rises in the betrayer's sky, when the {{divas}} echo of madness is nigh, an ancient cave of {{mad when sold}}, thirteen brethren, thirteen prayers, thirteen {{cool Downs}} spears prepared will bring forth the howl of empty despair and Jinnik's {{careful claimed land}}, but basically {{get a summit}}.
+[u0496 | 00:37:15.750-00:37:32.370 | Delwath] It was, when the sixth moon rises in the betrayer's sky, when the {{divas}} echo of madness is nigh, an ancient cave of {{mad when sold}}, thirteen brethren, thirteen prayers, thirteen cold iron spears prepared will bring forth the howl of empty despair and Jinnik's {{careful claimed land}}, but basically {{get a summit}}.
 [u0497 | 00:37:33.270-00:37:36.270 | Kenzo] yeah but we kill them all, so when we tell we tell been.
 [u0498 | 00:37:36.330-00:37:37.590 | Delwath] killed the 13 of them.
 [u0499 | 00:37:38.190-00:37:38.550 | Kenzo] Right.
@@ -2036,7 +2036,7 @@
 [u2036 | 02:30:59.460-02:30:59.850 | Delwath] You know.
 [u2037 | 02:31:00.900-02:31:02.010 | DM] I think I was.
 [u2038 | 02:31:03.150-02:31:06.120 | DM] one of only two recent converts.
-[u2039 | 02:31:08.670-02:31:10.500 | DM] There was another man named {{number}}.
+[u2039 | 02:31:08.670-02:31:10.500 | DM] There was another man named Umber.
 [u2040 | 02:31:15.030-02:31:16.200 | DM] But no, he was.
 [u2041 | 02:31:20.820-02:31:21.660 | DM] He was the one.
 [u2042 | 02:31:23.640-02:31:24.210 | DM] The one who.
@@ -2478,7 +2478,7 @@
 [u2478 | 03:01:58.140-03:02:00.390 | Kenzo] Use the scepter traded it.
 [u2479 | 03:02:02.280-03:02:02.940 | Kenzo] To Agata.
 [u2480 | 03:02:04.080-03:02:06.630 | Kenzo] In exchange for passage.
-[u2481 | 03:02:08.250-03:02:10.620 | Kenzo] To {{Telegraph}} so that they could.
+[u2481 | 03:02:08.250-03:02:10.620 | Kenzo] To Taelgar so that they could.
 [u2482 | 03:02:12.090-03:02:14.610 | Kenzo] bypass the protections of Shakun.
 [u2483 | 03:02:15.870-03:02:33.030 | Wellby] passage which requires two things first for the borders to be dropped, and second, for there to be a refugee crisis that they could slip in with presumably that's the scroll case, then that they go and set up in Raven's Hold to start the gnoll attacks.
 [u2484 | 03:02:33.420-03:02:34.710 | Kenzo] Wait what's the scroll case?
@@ -2564,8 +2564,8 @@
 [u2564 | 03:08:05.580-03:08:11.520 | Kenzo] Right so who but but who who paid her who hired her to destabilize destabilize Dunmar.
 [u2565 | 03:08:13.740-03:08:14.250 | Delwath] Yes.
 [u2566 | 03:08:14.340-03:08:17.160 | Seeker] I mean the simplest answer would be the other faction.
-[u2567 | 03:08:17.250-03:08:18.900 | Kenzo] Yes, {{harass}} yes.
-[u2568 | 03:08:19.890-03:08:21.570 | Seeker] And Dunmar {{current}}.
+[u2567 | 03:08:17.250-03:08:18.900 | Kenzo] Yes, Karnas yes.
+[u2568 | 03:08:19.890-03:08:21.570 | Seeker] And Dunmar Karnas.
 [u2569 | 03:08:22.230-03:08:25.470 | Delwath] But it does seem a little sketchy that they would have gotten.
 [u2570 | 03:08:25.470-03:08:26.010 | Delwath] away with.
 [u2571 | 03:08:27.210-03:08:30.750 | Delwath] Like the gods really are paying attention at someone like.

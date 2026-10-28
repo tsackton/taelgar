@@ -118,7 +118,7 @@
 [u0118 | 00:14:23.500-00:14:26.120 | Seeker] magic is neutral. Wizards kill people.
 [u0119 | 00:14:27.010-00:14:38.859 | Delwath] Well, the mace is really for people who hate people. We have this spell book of tanshi stories and prayers that you can use as an arcane focus
 [u0120 | 00:14:39.450-00:14:40.320 | Delwath] it.
-[u0121 | 00:14:40.900-00:14:47.090 | Delwath] It seems fairly interesting. Right? We have Casian's {{chalet}} spellbook.
+[u0121 | 00:14:40.900-00:14:47.090 | Delwath] It seems fairly interesting. Right? We have Casian's chalyte spellbook.
 [u0122 | 00:14:49.160-00:14:53.340 | Delwath] We have the summon greater demon spell gem.
 [u0123 | 00:14:53.840-00:14:54.950 | Seeker] Oh, my God
 [u0124 | 00:14:55.320-00:14:57.079 | Delwath] they might be interested in that.
@@ -273,7 +273,7 @@
 [u0273 | 00:30:41.180-00:30:44.989 | Delwath] I think I think we should give them the mace of terror.
 [u0274 | 00:30:45.480-00:30:46.370 | Seeker] Yeah.
 [u0275 | 00:30:46.730-00:30:57.909 | Delwath] the Arcane Grimoire. I would give them all 4 of our powerful, not new items, the Arcane Grimoire
-[u0276 | 00:30:57.960-00:31:04.469 | Delwath] Casian's {{chill out}} spellbook, the spell gem of Kadmos and the mace of terror.
+[u0276 | 00:30:57.960-00:31:04.469 | Delwath] Casian's chalyte spellbook, the spell gem of Kadmos and the mace of terror.
 [u0277 | 00:31:05.120-00:31:06.150 | Seeker] I would.
 [u0278 | 00:31:06.230-00:31:24.990 | Seeker] We'll do one at a time. Let's start with. We're giving them to them. For what? For information, for secret and rare information. What kinds of things do they know? I feel like those spell. That spellbook might hold some secrets that Grimoire like who knows what's in there.
 [u0279 | 00:31:25.180-00:31:37.569 | Delwath] I think. Well, the grimoire, I think, is safe to. That's a very wiz wizards. None of us are wizards. We're never gonna use it right. And it's a tanshi. It's a book of tanshi spells.
@@ -301,7 +301,7 @@
 [u0301 | 00:33:58.120-00:34:10.570 | DM] is a a cold, clear day. A cold front has come down, and you know, every everybody is shivering. There's a thin film of ice forming even on the harbor.
 [u0302 | 00:34:11.120-00:34:17.430 | DM] This is like a a freeze overnight, and as you all exit. The
 [u0303 | 00:34:18.219-00:34:26.909 | DM] the ship all bundled up the Philosopher's guild. You anybody could tell you this, or you already know, is
-[u0304 | 00:34:27.070-00:34:40.489 | DM] so. Most of the guilds in Tollen are in the like sort of fancy parts, like the Dyers Guild was in this Gold Street district, and a lot of them are in {{Gilgate}}, which are sort of newer, fancier parts of the city.
+[u0304 | 00:34:27.070-00:34:40.489 | DM] so. Most of the guilds in Tollen are in the like sort of fancy parts, like the Dyers Guild was in this Gold Street district, and a lot of them are in Guildgate, which are sort of newer, fancier parts of the city.
 [u0305 | 00:34:41.000-00:34:44.549 | DM] The Philosopher's Guild itself is in
 [u0306 | 00:34:44.659-00:34:45.690 | DM] the
 [u0307 | 00:34:46.489-00:34:49.669 | DM] the old, the oldest
@@ -535,7 +535,7 @@
 [u0535 | 00:57:30.400-00:57:34.870 | Delwath] I'll kind of glance at the party like should keep going.
 [u0536 | 00:57:34.950-00:57:38.720 | Delwath] Yeah, okay, I'll take out the spell gem.
 [u0537 | 00:57:38.790-00:57:44.080 | Delwath] Actually, no
-[u0538 | 00:57:44.180-00:57:49.709 | Seeker] Seeker is making different faces like {{Jay White Spellbook, Casian's Jay White Spellbook}}.
+[u0538 | 00:57:44.180-00:57:49.709 | Seeker] Seeker is making different faces like chalyte spellbook, Casian's chalyte spellbook.
 [u0539 | 00:57:50.560-00:57:53.349 | Delwath] I'll put that next to the Grimoire.
 [u0540 | 00:57:54.150-00:57:57.449 | Delwath] 2 books of magic surely better than one.
 [u0541 | 00:57:58.520-00:57:59.690 | Kenzo] surely.
@@ -981,7 +981,7 @@
 [u0981 | 01:39:57.400-01:39:58.590 | Unknown] right? Like
 [u0982 | 01:39:58.810-01:40:03.379 | Delwath] something from like something from the
 [u0983 | 01:40:04.440-01:40:14.249 | Delwath] whatever I'm actually gonna do like an eclectic mix of human dishes from places we've been right like Dunmar and and
-[u0984 | 01:40:14.920-01:40:24.839 | Delwath] The I spent a while with the {{den}} right like a little bit of a
+[u0984 | 01:40:14.920-01:40:24.839 | Delwath] The I spent a while with the Deno'qai right like a little bit of a
 [u0985 | 01:40:24.940-01:40:30.849 | Delwath] especially if she's an artist seeking new things. This is where you should try and set me up
 [u0986 | 01:40:31.040-01:40:35.370 | Kenzo] are much more like Delwath's speed than Kenzo's.
 [u0987 | 01:40:36.750-01:40:38.889 | Kenzo] Alright cool that.

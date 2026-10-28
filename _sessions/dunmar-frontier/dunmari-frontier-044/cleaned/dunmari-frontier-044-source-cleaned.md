@@ -30,7 +30,7 @@
 [u0030 | 00:02:45.210-00:02:49.350 | DM] That seems to be perfectly molded to fit her body and that she carries lightly, despite her {{like}}.
 [u0031 | 00:02:52.530-00:03:08.610 | DM] The adventurers crest the low ridge on the north side of the road to Darba and see the scene of victory and new battle below: the two dead wyverns shattered on the ground, a large group of humans, mostly in poor-fitting and badly maintained gear, two monks.
 [u0032 | 00:03:10.140-00:03:15.870 | DM] As well as two dwarves, an elf and a halfling, a strange crew to be traveling on this {{record}}.
-[u0033 | 00:03:21.090-00:03:34.980 | DM] These are the heroes of {{terroir}}, rumored to have killed Agata, the mother, in her lair. Kadmos nods subtly to Casian; he rides forward to negotiate, hoping for a chance to redeem their so far rather disappointing attempts at antiquities hunting.
+[u0033 | 00:03:21.090-00:03:34.980 | DM] These are the heroes of Karawa, rumored to have killed Agata, the mother, in her lair. Kadmos nods subtly to Casian; he rides forward to negotiate, hoping for a chance to redeem their so far rather disappointing attempts at antiquities hunting.
 [u0034 | 00:03:36.750-00:03:49.440 | DM] As Casian speaks, asking if they will sell or barter anything of Drankorian origin, Kadmos is only half paying attention as the halfling insists on using his tricks to speak at him and it's hard to ignore.
 [u0035 | 00:03:50.880-00:03:57.360 | DM] Yes, they are looking for a scepter, an item of great great danger left from the Drankorian Empire.
 [u0036 | 00:03:59.250-00:04:02.490 | DM] This would indeed be a prize to bring back to the Great Library.
@@ -620,7 +620,7 @@
 [u0620 | 00:46:15.720-00:46:27.420 | Kenzo] And Kenzo is just like leave like looking at you know Kadmos just leave us like you can tell, is just like just go like it's it could get bad if we don't go if they don't go right now.
 [u0621 | 00:46:33.900-00:46:35.010 | Delwath] There was much.
 [u0622 | 00:46:36.720-00:46:37.950 | Delwath] We learned from Agata.
-[u0623 | 00:46:39.120-00:46:39.960 | Delwath] And from {{Chicago}}.
+[u0623 | 00:46:39.120-00:46:39.960 | Delwath] And from Shakun.
 [u0624 | 00:46:42.720-00:46:48.060 | Delwath] That perhaps would be interesting to discuss but.
 [u0625 | 00:46:49.320-00:46:50.850 | Delwath] Delwath just looks around that.
 [u0626 | 00:46:52.140-00:46:52.890 | Delwath] This is not.
@@ -918,7 +918,7 @@
 [u0918 | 01:09:26.400-01:09:29.130 | Delwath] that's true there's some things that we don't have a.
 [u0919 | 01:09:31.050-01:09:32.400 | Delwath] Although most of these we know.
 [u0920 | 01:09:34.020-01:09:36.330 | Delwath] That Vicious Shortsword, we don't know.
-[u0921 | 01:09:41.700-01:09:44.310 | Delwath] {{Raven when when}}, there's some unclear origins.
+[u0921 | 01:09:41.700-01:09:44.310 | Delwath] Raven Whistle, there's some unclear origins.
 [u0922 | 01:09:44.700-01:09:45.150 | Unknown] yeah.
 [u0923 | 01:09:46.950-01:09:50.040 | Wellby] So just incidentally so far we're ooh for two minutes of.
 [u0924 | 01:09:52.170-01:09:52.740 | DM] yeah.
@@ -927,7 +927,7 @@
 [u0927 | 01:10:01.620-01:10:04.260 | Kenzo] Do we do we want to just give them the give them the top.
 [u0928 | 01:10:06.690-01:10:08.550 | DM] What yeah you don't have a ton of drink.
 [u0929 | 01:10:08.550-01:10:09.000 | Delwath] Right now.
-[u0930 | 01:10:10.920-01:10:13.920 | Delwath] I mean, {{dumbasses}} mirror is Drankorian.
+[u0930 | 01:10:10.920-01:10:13.920 | Delwath] I mean, Eudomes' mirror is Drankorian.
 [u0931 | 01:10:14.430-01:10:15.000 | Unknown] Yes.
 [u0932 | 01:10:17.160-01:10:24.540 | Wellby] I appreciate this it's it's been some on on the road mentoring and long time since I've gotten to negotiate.
 [u0933 | 01:10:26.130-01:10:31.410 | Wellby] For especially good at, if my parents were here, this would be different here's my office.
@@ -1523,7 +1523,7 @@
 [u1523 | 01:52:52.200-01:52:54.210 | DM] For sure, there must be a way to destroy it.
 [u1524 | 01:52:55.920-01:52:57.270 | DM] unlikely to be simple.
 [u1525 | 01:53:00.240-01:53:03.090 | Seeker] Like it would take a huge amount of energy or some very special circumstance.
-[u1526 | 01:53:03.120-01:53:07.500 | Kenzo] We just have to travel to the northern part of {{Pandora}} and find a giant volcano and.
+[u1526 | 01:53:03.120-01:53:07.500 | Kenzo] We just have to travel to the northern part of Pandar and find a giant volcano and.
 [u1527 | 01:53:07.680-01:53:09.630 | DM] Right I just got to go to mount doom and cast.
 [u1528 | 01:53:09.630-01:53:11.520 | Seeker] into the fire yeah yeah.
 [u1529 | 01:53:12.570-01:53:13.020 | Wellby] it's just.
@@ -1563,8 +1563,8 @@
 [u1563 | 01:55:35.550-01:55:35.940 | Seeker] and
 [u1564 | 01:55:35.970-01:55:40.170 | Wellby] You need to find some sources or {{kindle}} or like, right.
 [u1565 | 01:55:47.310-01:55:47.610 | Seeker] Actually.
-[u1566 | 01:55:47.670-01:55:48.900 | Riswynn] Our lead on {{right}}.
-[u1567 | 01:55:50.460-01:55:52.320 | Delwath] We have a lead on {{right}}, not really, right?
+[u1566 | 01:55:47.670-01:55:48.900 | Riswynn] Our lead on Rai.
+[u1567 | 01:55:50.460-01:55:52.320 | Delwath] We have a lead on Rai, not really, right?
 [u1568 | 01:55:53.340-01:55:55.020 | Wellby] We didn't reply, yes.
 [u1569 | 01:55:55.080-01:55:55.320 | Unknown] Yes.
 [u1570 | 01:55:57.510-01:55:58.020 | Delwath] Definitely.
@@ -1574,7 +1574,7 @@
 [u1574 | 01:56:08.700-01:56:12.420 | Seeker] Totally on the way, another, what, three thousand miles away.
 [u1575 | 01:56:13.050-01:56:14.010 | Wellby] To the world map becca.
 [u1576 | 01:56:14.580-01:56:15.090 | DM] Oh yeah.
-[u1577 | 01:56:17.850-01:56:21.390 | Delwath] Go to the forest to worship {{right}}, then we got a magic {{upper chairman}}.
+[u1577 | 01:56:17.850-01:56:21.390 | Delwath] Go to the forest to worship Rai, then we got a magic {{upper chairman}}.
 [u1578 | 01:56:25.200-01:56:30.030 | Delwath] Oh, but remember why we're going to Darba, by the way? It's actually to find the cloak.
 [u1579 | 01:56:30.360-01:56:30.720 | Unknown] yeah.
 [u1580 | 01:56:32.070-01:56:33.630 | Seeker] So that we can.
@@ -1676,7 +1676,7 @@
 [u1676 | 02:04:28.620-02:04:30.720 | DM] You still owe them 84.
 [u1677 | 02:04:30.750-02:04:31.230 | Unknown] gold.
 [u1678 | 02:04:32.460-02:04:36.450 | DM] Plus there'll be another seven for the next end of the day, right?
-[u1679 | 02:04:40.650-02:04:46.890 | Wellby] Riswynn, do you think there are masters in {{Twitter}} who would know how to destroy an artifact like that?
+[u1679 | 02:04:40.650-02:04:46.890 | Wellby] Riswynn, do you think there are masters in Tharn Todor who would know how to destroy an artifact like that?
 [u1680 | 02:04:50.370-02:04:53.820 | Riswynn] I revere the metalworking masters of my people when I.
 [u1681 | 02:04:54.930-02:04:55.500 | Riswynn] think that they.
 [u1682 | 02:04:56.610-02:04:57.000 | Riswynn] Would.
@@ -3428,7 +3428,7 @@
 [u3428 | 04:02:11.610-04:02:12.540 | Delwath] The 20 hit.
 [u3429 | 04:02:13.650-04:02:15.900 | DM] Ah, you have disadvantage well the.
 [u3430 | 04:02:16.920-04:02:19.680 | DM] source of your fear is within sight.
-[u3431 | 04:02:20.310-04:02:22.770 | Seeker] If only {{the ladder}} were here, everything would be okay.
+[u3431 | 04:02:20.310-04:02:22.770 | Seeker] If only the Ladder were here, everything would be okay.
 [u3432 | 04:02:23.580-04:02:26.370 | DM] Ah 17 does hit.
 [u3433 | 04:02:36.630-04:02:36.960 | Seeker] whoo.
 [u3434 | 04:02:38.100-04:02:39.390 | Delwath] yeah but it's not gonna matter.
@@ -4276,5 +4276,5 @@
 [u4276 | 05:00:50.760-05:00:51.210 | Seeker] Great at.
 [u4277 | 05:00:52.920-05:00:53.310 | Seeker] are a little.
 [u4278 | 05:00:53.490-05:00:54.870 | DM] More going on than you think.
-[u4279 | 05:00:56.100-05:01:01.290 | Kenzo] Yeah, but this is, this is, yeah, I can't wait to raise an army to ride against Chardon now with {{Sarah}}.
+[u4279 | 05:00:56.100-05:01:01.290 | Kenzo] Yeah, but this is, this is, yeah, I can't wait to raise an army to ride against Chardon now with Sura.
 [u4280 | 05:01:01.860-05:01:06.480 | Riswynn] I'm not really sure there's an argument that like it dangerously.

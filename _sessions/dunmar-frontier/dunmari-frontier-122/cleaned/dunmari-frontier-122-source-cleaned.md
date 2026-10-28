@@ -11,14 +11,14 @@
 [u0011 | 00:01:19.920-00:01:27.680 | DM] since the Cloud Spinner's departure, imprisonment, slowly encroached on the
 [u0012 | 00:01:28.360-00:01:32.019 | DM] border kingdoms and even parts of Amberglow itself.
 [u0013 | 00:01:34.470-00:01:39.289 | DM] crossing a river, and then coming brief, coming and stopping
-[u0014 | 00:01:39.420-00:01:47.639 | DM] at the edge of the river of darkness that flows out from the Sunset Gate from {{Dark Hollow}}.
+[u0014 | 00:01:39.420-00:01:47.639 | DM] at the edge of the river of darkness that flows out from the Sunset Gate from Hollowdark.
 [u0015 | 00:01:48.930-00:01:52.900 | DM] the realm of Harrow and Wend, the
 [u0016 | 00:01:55.500-00:02:02.529 | DM] fey rulers, or maybe one ruler. Nobody's ever quite sure if these are one or two people
 [u0017 | 00:02:03.800-00:02:15.160 | DM] of the realm to the east, across the Sunset Gate, a place, from what you've gathered, of terror, of the
 [u0018 | 00:02:15.440-00:02:21.829 | DM] creeping dark, of the footsteps sneaking up behind you in the night.
 [u0019 | 00:02:23.040-00:02:28.819 | DM] and here, where Red Sun Keep once—Red Sun Watch once stood
-[u0020 | 00:02:30.430-00:02:35.010 | DM] guard watching over the borders of {{Amberglade}}.
-[u0021 | 00:02:35.600-00:02:46.460 | DM] the darkness of {{hollow dark}} has crashed through the Sunset Gate and spread, forming what seems like an impenetrable river.
+[u0020 | 00:02:30.430-00:02:35.010 | DM] guard watching over the borders of Amberglow.
+[u0021 | 00:02:35.600-00:02:46.460 | DM] the darkness of Hollowdark has crashed through the Sunset Gate and spread, forming what seems like an impenetrable river.
 [u0022 | 00:02:47.850-00:02:54.610 | DM] The only flicker of light that you see looking across the landscape is one lit tower
 [u0023 | 00:02:55.697-00:02:59.679 | DM] where some sunset ember still seems to glow.
 [u0024 | 00:03:00.240-00:03:08.040 | DM] About a mile in the distance you have stopped, paused, rested.
@@ -195,7 +195,7 @@
 [u0195 | 00:20:06.010-00:20:06.760 | Kenzo] Probably
 [u0196 | 00:20:08.160-00:20:09.970 | DM] So I mean you've heard
 [u0197 | 00:20:09.970-00:20:10.470 | Kenzo] Are you from
-[u0198 | 00:20:10.470-00:20:15.850 | DM] Both Lady Eventide and {{linearian}}. These were made by the Cloud Spinner
+[u0198 | 00:20:10.470-00:20:15.850 | DM] Both Lady Eventide and Lirien. These were made by the Cloud Spinner
 [u0199 | 00:20:16.030-00:20:24.839 | DM] as sort of fragments of her power that she could hand off to trusted advisors so they'd be able to act in her name when she was
 [u0200 | 00:20:25.570-00:20:26.940 | DM] not able to.
 [u0201 | 00:20:27.250-00:20:33.130 | DM] You know she couldn't be everywhere across her realm at once, and so she would create.
@@ -370,7 +370,7 @@
 [u0370 | 00:33:13.460-00:33:14.529 | DM] You know.
 [u0371 | 00:33:14.650-00:33:23.010 | DM] Your darkvision still works right. You can see, it's you do. It's like you step from day to night when you step into the darkness. It's not
 [u0372 | 00:33:23.722-00:33:30.930 | DM] like looking back, you can see the sunlight in the distance, but the sunlight doesn't shine at all
-[u0373 | 00:33:31.810-00:33:36.299 | DM] like it doesn't—the sunlight from {{Amberglade}} doesn't penetrate the darkness at all.
+[u0373 | 00:33:31.810-00:33:36.299 | DM] like it doesn't—the sunlight from Amberglow doesn't penetrate the darkness at all.
 [u0374 | 00:33:37.920-00:33:42.749 | DM] and you begin walking sort of moving the the land around you. You can only see like
 [u0375 | 00:33:43.660-00:33:46.789 | DM] 60 to 120 feet, depending on who you are.
 [u0376 | 00:33:48.660-00:33:55.060 | DM] Sort of barren. Every now and then there's a dead bush, but generally
@@ -627,7 +627,7 @@
 [u0627 | 00:53:44.170-00:53:57.520 | Delwath] Yeah. I will point out the terrible thing coming towards us.
 [u0628 | 00:53:58.420-00:54:01.010 | Delwath] and we should probably do something about this
 [u0629 | 00:54:02.960-00:54:06.589 | Wellby] No, but there's always some terrible thing coming towards us.
-[u0630 | 00:54:06.790-00:54:09.079 | Riswynn] The way the light shines on these rocks, {{Bellwood}}.
+[u0630 | 00:54:06.790-00:54:09.079 | Riswynn] The way the light shines on these rocks, Delwath.
 [u0631 | 00:54:10.980-00:54:11.400 | Delwath] Yeah.
 [u0632 | 00:54:11.400-00:54:12.360 | Seeker] Tell you that
 [u0633 | 00:54:17.780-00:54:24.809 | Delwath] yeah. So you guys are being difficult. Hold on a second. Hold on. I'm looking at a
@@ -666,7 +666,7 @@
 [u0666 | 00:56:18.280-00:56:19.679 | Seeker] I mean, I also should have realized that.
 [u0667 | 00:56:20.720-00:56:28.150 | Kenzo] Fyi. I got a I gotta hop in like a few minutes or a minute. Yeah. Okay, but if we get into combat
 [u0668 | 00:56:28.820-00:56:31.710 | Kenzo] You know Kenzo likes fighting so just
-[u0669 | 00:56:31.850-00:56:39.280 | Kenzo] Kenzo, Kenzo, Kenzo will fight if necessary. You know, {{Langow's claw}} him. You know my tricks, you know. Stun, etcetera.
+[u0669 | 00:56:31.850-00:56:39.280 | Kenzo] Kenzo, Kenzo, Kenzo will fight if necessary. You know, Lengau's Claw him. You know my tricks, you know. Stun, etcetera.
 [u0670 | 00:56:39.440-00:56:40.930 | Kenzo] So if it happens
 [u0671 | 00:56:40.930-00:56:42.632 | Delwath] Well, okay. So,
 [u0672 | 00:56:44.010-00:56:54.570 | Kenzo] Hold on just because I got I gotta go. And I'm actually on text. So if anything, if you guys need any weird thing, just just message me, too. I'm I'm doing this work for this virtual workshop. And I'm actually, I'll be checking my phone so feel free to message me. There
@@ -775,7 +775,7 @@
 [u0775 | 01:03:18.710-01:03:20.649 | Delwath] Can Kenzo Soul Sight the big guy?
 [u0776 | 01:03:21.080-01:03:21.860 | Seeker] Yeah.
 [u0777 | 01:03:22.340-01:03:23.559 | Seeker] Seems like the move
-[u0778 | 01:03:25.030-01:03:27.880 | Delwath] And then he can {{Wingo's claw}} if he goes to the edge, right?
+[u0778 | 01:03:25.030-01:03:27.880 | Delwath] And then he can Lengau's Claw if he goes to the edge, right?
 [u0779 | 01:03:30.330-01:03:33.309 | DM] Yup, Kenzo is going to Soul Sight the big guy.
 [u0780 | 01:03:33.450-01:03:41.110 | DM] He is immune to poison necrotic exhaustion and poisoned
 [u0781 | 01:03:42.414-01:03:48.640 | DM] Good at Dex, bad at Charisma. CR 12.
@@ -787,8 +787,8 @@
 [u0787 | 01:04:08.260-01:04:09.060 | DM] out.
 [u0788 | 01:04:09.410-01:04:10.230 | DM] Okay?
 [u0789 | 01:04:14.080-01:04:20.349 | DM] so that ends your turn. So Kenzo is now going to run 2, 3, 4, 5,
-[u0790 | 01:04:21.040-01:04:26.419 | DM] six, go there, and he will {{lend out his claw}} from there.
-[u0791 | 01:04:28.059-01:04:34.690 | DM] So that's a bonus action to activate {{Langa's claw}}. So he's only gonna get to make his two attacks.
+[u0790 | 01:04:21.040-01:04:26.419 | DM] six, go there, and he will Lengau's Claw from there.
+[u0791 | 01:04:28.059-01:04:34.690 | DM] So that's a bonus action to activate Lengau's Claw. So he's only gonna get to make his two attacks.
 [u0792 | 01:04:35.281-01:04:38.025 | DM] So Kenzo runs forward in his, his
 [u0793 | 01:04:40.600-01:04:49.559 | DM] His action, his tattoo animates, and he's going to swing out now with unarmed strike.
 [u0794 | 01:04:50.150-01:04:55.849 | DM] The first one hits for seven {{plus his advantage}}.
@@ -1002,7 +1002,7 @@
 [u1002 | 01:21:06.870-01:21:09.500 | Wellby] up 20 feet. I'll add my height.
 [u1003 | 01:21:10.560-01:21:23.769 | DM] Okay Kenzo will rush forward to attack the big guy.
 [u1004 | 01:21:25.770-01:21:31.840 | DM] Actually, no point in getting that close because God
-[u1005 | 01:21:32.240-01:21:35.920 | DM] he's got {{Lingo's claw}} active, so we'll stay.
+[u1005 | 01:21:32.240-01:21:35.920 | DM] he's got Lengau's Claw active, so we'll stay.
 [u1006 | 01:21:37.000-01:21:40.539 | DM] We'll stay back there, and he will
 [u1007 | 01:21:41.070-01:21:45.540 | DM] flurry of blows and make his 5 attacks
 [u1008 | 01:21:46.540-01:22:00.379 | DM] as he runs forward. The first—the first one's at advantage from, from Guiding Bolt. That hits
@@ -1638,7 +1638,7 @@
 [u1638 | 02:06:48.320-02:06:50.509 | Seeker] Is that even worth doing, though
 [u1639 | 02:06:50.510-02:06:53.000 | Wellby] Fixing it in the right like, because presumably
 [u1640 | 02:06:53.000-02:06:57.910 | Delwath] From—where would you put the mirror? What would you be reflecting, though?
-[u1641 | 02:06:57.910-02:07:04.890 | Seeker] {{Amberg}}. It would be a, a giant lens up in the trapdoor, and a mirror underneath it to that
+[u1641 | 02:06:57.910-02:07:04.890 | Seeker] Amberglow. It would be a, a giant lens up in the trapdoor, and a mirror underneath it to that
 [u1642 | 02:07:04.890-02:07:06.020 | Delwath] Light that we had
 [u1643 | 02:07:06.290-02:07:06.990 | Wellby] Yeah.
 [u1644 | 02:07:06.990-02:07:08.790 | Delwath] Amber light that the woman had
@@ -1746,7 +1746,7 @@
 [u1746 | 02:13:41.200-02:13:41.990 | Seeker] Hmm!
 [u1747 | 02:13:43.190-02:13:44.650 | Seeker] So something else.
 [u1748 | 02:13:47.370-02:13:49.439 | Seeker] Oh, it's the phasing stone
-[u1749 | 02:13:49.440-02:13:55.329 | Delwath] It was probably just—and then you unattuned from {{Vindicarda}} recently, and never attuned
+[u1749 | 02:13:49.440-02:13:55.329 | Delwath] It was probably just—and then you unattuned from Vindristjarna recently, and never attuned
 [u1750 | 02:13:55.330-02:13:58.209 | DM] So you actually do probably have a spare attunement
 [u1751 | 02:13:58.210-02:13:59.630 | Seeker] Yeah, yeah.
 [u1752 | 02:13:59.790-02:14:00.820 | Seeker] So I could do it.

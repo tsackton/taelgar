@@ -693,7 +693,7 @@
 [u0693 | 00:54:22.140-00:54:26.730 | DM] Taster. Taster must be long gone by now, and
 [u0694 | 00:54:26.850-00:54:29.209 | Seeker] we've been through
 [u0695 | 00:54:29.350-00:54:39.819 | Seeker] so many miles, I mean when you ran from Chardon I don't think there was a way you could have brought. Taster.
-[u0696 | 00:54:41.030-00:54:45.930 | Seeker] Taster is probably roaming free somewhere in the {{chaos and River valley}}.
+[u0696 | 00:54:41.030-00:54:45.930 | Seeker] Taster is probably roaming free somewhere in the Chasa River Valley.
 [u0697 | 00:54:46.410-00:54:47.770 | Unknown] {{The total range}}
 [u0698 | 00:54:48.960-00:54:50.470 | Seeker] would be
 [u0699 | 00:54:52.090-00:54:54.470 | Seeker] magical food to to find out what it does,

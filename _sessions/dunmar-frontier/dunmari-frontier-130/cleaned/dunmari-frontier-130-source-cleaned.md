@@ -276,7 +276,7 @@
 [u0276 | 00:20:18.550-00:20:21.730 | Seeker] And wanders around… exploring.
 [u0277 | 00:20:24.500-00:20:27.190 | DM] You are so cool, dwarf!
 [u0278 | 00:20:28.150-00:20:30.830 | Seeker] That's your new pet mossy. It will only last an hour.
-[u0279 | 00:20:31.190-00:20:35.040 | DM] My… my name's {{Lazar}}, what's… what's your name?
+[u0279 | 00:20:31.190-00:20:35.040 | DM] My… my name's Leizar, what's… what's your name?
 [u0280 | 00:20:35.440-00:20:36.490 | Seeker] I'm Seeker.
 [u0281 | 00:20:38.380-00:20:43.429 | DM] I'm gonna go hide like the elf said, but can you do more magic later?
 [u0282 | 00:20:44.450-00:20:47.279 | Seeker] Of course, remember, just act scared of the hobgoblin; he likes that.
@@ -1440,7 +1440,7 @@
 [u1440 | 01:51:17.780-01:51:19.449 | Delwath] I could read his thoughts.
 [u1441 | 01:51:20.830-01:51:21.600 | Wellby] Yeah.
 [u1442 | 01:51:22.180-01:51:22.900 | Wellby] That's fair.
-[u1443 | 01:51:23.200-01:51:26.440 | DM] I mean, you could also just ask… {{Tatanshi}}.
+[u1443 | 01:51:23.200-01:51:26.440 | DM] I mean, you could also just ask… the tanshi.
 [u1444 | 01:51:26.780-01:51:29.690 | DM] I'm saving that until we have a few more questions. Oh, okay.
 [u1445 | 01:51:30.330-01:51:31.969 | DM] Does detect thoughts work?
 [u1446 | 01:51:32.660-01:51:39.049 | DM] I… You probably have to actually release him, you have to actually release him from the mirror.
@@ -1603,7 +1603,7 @@
 [u1603 | 02:03:44.270-02:03:48.759 | Delwath] Well, I would guess that it's… that it can repair itself.
 [u1604 | 02:03:50.140-02:03:55.749 | Delwath] I would be nervous about if we try and shear it in half, it just globs onto Vindristjarna and eats it or something like that.
 [u1605 | 02:03:56.810-02:03:59.910 | Seeker] Hmm… We don't want to crack our hull, either.
-[u1606 | 02:04:00.140-02:04:01.370 | Delwath] {{Awesome medals}}.
+[u1606 | 02:04:00.140-02:04:01.370 | Delwath] Chaos metals.
 [u1607 | 02:04:01.780-02:04:05.839 | Wellby] After we're done with the battle, what if it does glom onto Vindristjarna?
 [u1608 | 02:04:07.050-02:04:08.010 | Wellby] I bet.
 [u1609 | 02:04:08.410-02:04:09.899 | Wellby] Is there something there?

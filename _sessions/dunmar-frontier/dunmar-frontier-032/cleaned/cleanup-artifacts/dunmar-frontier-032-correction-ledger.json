@@ -1,0 +1,2702 @@
+{
+  "preparedSha256": "b67d6e38a2fc90098eba8a58d1b8515c9a533de14e29fe47575bd4fd559a6771",
+  "protectedNames": [
+    "Kenzo",
+    "Wellby",
+    "Delwath",
+    "Seeker",
+    "Drikod",
+    "DM"
+  ],
+  "reviewedChunks": [
+    {
+      "pass": 1,
+      "start": 1,
+      "end": 1850,
+      "changedLines": 120
+    },
+    {
+      "pass": 1,
+      "start": 1851,
+      "end": 2300,
+      "changedLines": 20
+    },
+    {
+      "pass": 1,
+      "start": 2301,
+      "end": 2750,
+      "changedLines": 49
+    },
+    {
+      "pass": 1,
+      "start": 2751,
+      "end": 3200,
+      "changedLines": 61
+    },
+    {
+      "pass": 1,
+      "start": 3201,
+      "end": 3650,
+      "changedLines": 47
+    },
+    {
+      "pass": 1,
+      "start": 3651,
+      "end": 4100,
+      "changedLines": 42
+    },
+    {
+      "pass": 1,
+      "start": 4101,
+      "end": 4593,
+      "changedLines": 22
+    },
+    {
+      "pass": 2,
+      "start": 1,
+      "end": 700,
+      "changedLines": 1
+    },
+    {
+      "pass": 2,
+      "start": 701,
+      "end": 1400,
+      "changedLines": 4
+    },
+    {
+      "pass": 2,
+      "start": 1401,
+      "end": 2100,
+      "changedLines": 5
+    },
+    {
+      "pass": 2,
+      "start": 2101,
+      "end": 2800,
+      "changedLines": 0
+    },
+    {
+      "pass": 2,
+      "start": 2801,
+      "end": 3500,
+      "changedLines": 0
+    },
+    {
+      "pass": 2,
+      "start": 3501,
+      "end": 4100,
+      "changedLines": 0
+    },
+    {
+      "pass": 2,
+      "start": 4101,
+      "end": 4593,
+      "changedLines": 0
+    },
+    {
+      "pass": 3,
+      "start": 1,
+      "end": 4593,
+      "changedLines": 57
+    }
+  ],
+  "changes": [
+    {
+      "uid": "u0005",
+      "pass": 1,
+      "before": "Both Drakard and Kenzo have spent most of the, the week,",
+      "after": "Both Drikod and Kenzo have spent most of the, the week,"
+    },
+    {
+      "uid": "u0006",
+      "pass": 1,
+      "before": "10 days that you've, that you've all been just kind of hanging out in Carrol,",
+      "after": "10 days that you've, that you've all been just kind of hanging out in Karawa,"
+    },
+    {
+      "uid": "u0015",
+      "pass": 1,
+      "before": "because... So Kendressa also spends some time sort of telling you about, about the, the sort of history of the initiation ceremony, and he says it'll be a little",
+      "after": "because... So Candrosa also spends some time sort of telling you about, about the, the sort of history of the initiation ceremony, and he says it'll be a little"
+    },
+    {
+      "uid": "u0027",
+      "pass": 1,
+      "before": "the last evening before the Feast of Bishma, so the night before, so next...",
+      "after": "the last evening before the Feast of Bhishma, so the night before, so next..."
+    },
+    {
+      "uid": "u0042",
+      "pass": 1,
+      "before": "The just glowing sort of burnished red like the sunset.",
+      "after": "They're just glowing sort of burnished red like the sunset."
+    },
+    {
+      "uid": "u0061",
+      "pass": 1,
+      "before": "But because of the circumstances, Kendressa has been in favor of this.",
+      "after": "But because of the circumstances, Candrosa has been in favor of this."
+    },
+    {
+      "uid": "u0072",
+      "pass": 1,
+      "before": "So starting in this tumbled scrubland of rock and grass and low hills near the border of Chardin, along the outskirts of the",
+      "after": "So starting in this tumbled scrubland of rock and grass and low hills near the border of Chardon, along the outskirts of the"
+    },
+    {
+      "uid": "u0073",
+      "pass": 1,
+      "before": "mountains that are Drakard's home, and then turning south along the river, um, passing across the plains and into the desert.",
+      "after": "mountains that are Drikod's home, and then turning south along the river, um, passing across the plains and into the desert."
+    },
+    {
+      "uid": "u0086",
+      "pass": 1,
+      "before": "maybe Kendros's, you're not entirely sure, um,",
+      "after": "maybe Candrosa's, you're not entirely sure, um,"
+    },
+    {
+      "uid": "u0274",
+      "pass": 1,
+      "before": "Kendrosa-",
+      "after": "Candrosa-"
+    },
+    {
+      "uid": "u0278",
+      "pass": 1,
+      "before": "between the Mystai elsewhere in Carawa, even those who are traveling.",
+      "after": "between the Mystai elsewhere in Karawa, even those who are traveling."
+    },
+    {
+      "uid": "u0293",
+      "pass": 1,
+      "before": "And then Kendrosa nods to you and says, \"Welcome, my friends.\"",
+      "after": "And then Candrosa nods to you and says, \"Welcome, my friends.\""
+    },
+    {
+      "uid": "u0326",
+      "pass": 1,
+      "before": "Tim, for Kenzo, um, is there any interplay between, like, Shakun, Bishma, Laka?",
+      "after": "Tim, for Kenzo, um, is there any interplay between, like, Shakun, Bhishma, Laka?"
+    },
+    {
+      "uid": "u0336",
+      "pass": 1,
+      "before": "Laka and Bishma,",
+      "after": "Laka and Bhishma,"
+    },
+    {
+      "uid": "u0363",
+      "pass": 1,
+      "before": "Most people would know Drancor.",
+      "after": "Most people would know Drankor."
+    },
+    {
+      "uid": "u0364",
+      "pass": 1,
+      "before": "But the elves predate even Drancor, and most, most people have no i- most people would have no idea.",
+      "after": "But the elves predate even Drankor, and most, most people have no i- most people would have no idea."
+    },
+    {
+      "uid": "u0366",
+      "pass": 1,
+      "before": "Did Drikod sense any other Stormborn as part of the initiated?",
+      "after": "Did Drikod sense any other Stoneborn as part of the initiated?"
+    },
+    {
+      "uid": "u0388",
+      "pass": 1,
+      "before": "are very non-Dunmari and would be much more Stormborn-like.",
+      "after": "are very non-Dunmari and would be much more Stoneborn-like."
+    },
+    {
+      "uid": "u0389",
+      "pass": 1,
+      "before": "Did I sense in any way, um, Entomba,",
+      "after": "Did I sense in any way, um, Entamba,"
+    },
+    {
+      "uid": "u0393",
+      "pass": 1,
+      "before": "... as, as we unders- as the Stormborn understand it?",
+      "after": "... as, as we unders- as the Stoneborn understand it?"
+    },
+    {
+      "uid": "u0401",
+      "pass": 1,
+      "before": "you know, you've had experiences of Entomba that are kind of similar in the sense of the, of the sort of centered on the land kind of experience.",
+      "after": "you know, you've had experiences of Entamba that are kind of similar in the sense of the, of the sort of centered on the land kind of experience."
+    },
+    {
+      "uid": "u0422",
+      "pass": 1,
+      "before": "was like Jivalie's tears.",
+      "after": "was like Jeevali's tears."
+    },
+    {
+      "uid": "u0439",
+      "pass": 1,
+      "before": "Uh, the boy is her brother, Katana, who was the first,",
+      "after": "Uh, the boy is her brother, {{Katana}}, who was the first,"
+    },
+    {
+      "uid": "u0464",
+      "pass": 1,
+      "before": "The next somewhat. Well, it's unclear if that still happens, but before the Great War, that was how it worked.",
+      "after": "The next Samraat. Well, it's unclear if that still happens, but before the Great War, that was how it worked."
+    },
+    {
+      "uid": "u0482",
+      "pass": 1,
+      "before": "Um, so I think we left off when I directly asked Ry, like, \"How do I return this stone to you?\"",
+      "after": "Um, so I think we left off when I directly asked Rai, like, \"How do I return this stone to you?\""
+    },
+    {
+      "uid": "u0515",
+      "pass": 1,
+      "before": "Okay. And, and what happened, what was Ry's reaction when the shattering happened?",
+      "after": "Okay. And, and what happened, what was Rai's reaction when the shattering happened?"
+    },
+    {
+      "uid": "u0525",
+      "pass": 1,
+      "before": "Ry is not somebody who would be afraid of anything, but I would say maybe angry or,",
+      "after": "Rai is not somebody who would be afraid of anything, but I would say maybe angry or,"
+    },
+    {
+      "uid": "u0560",
+      "pass": 1,
+      "before": "Do you know Qair?",
+      "after": "Do you know Kyr?"
+    },
+    {
+      "uid": "u0563",
+      "pass": 1,
+      "before": "Where's Qair?",
+      "after": "Where's Kyr?"
+    },
+    {
+      "uid": "u0565",
+      "pass": 1,
+      "before": "Where's, where can I find Dimitar?",
+      "after": "Where's, where can I find Dimitaur?"
+    },
+    {
+      "uid": "u0584",
+      "pass": 1,
+      "before": "the Dran-Korian Empire's",
+      "after": "the Drankorian Empire's"
+    },
+    {
+      "uid": "u0593",
+      "pass": 1,
+      "before": "the pure Dran-Korian essence.",
+      "after": "the pure Drankorian essence."
+    },
+    {
+      "uid": "u0595",
+      "pass": 1,
+      "before": "Dran-Kor has long disappeared in this time.",
+      "after": "Drankor has long disappeared in this time."
+    },
+    {
+      "uid": "u0599",
+      "pass": 1,
+      "before": "Chardin.",
+      "after": "Chardon."
+    },
+    {
+      "uid": "u0603",
+      "pass": 1,
+      "before": "Chardin is afoot.",
+      "after": "Chardon is afoot."
+    },
+    {
+      "uid": "u0605",
+      "pass": 1,
+      "before": "my sense of what Dran-Kor once was is embodied in the humans of Chardin.",
+      "after": "my sense of what Drankor once was is embodied in the humans of Chardon."
+    },
+    {
+      "uid": "u0608",
+      "pass": 1,
+      "before": "Dran-Kor was,",
+      "after": "Drankor was,"
+    },
+    {
+      "uid": "u0617",
+      "pass": 1,
+      "before": "Chardin was once that, too.",
+      "after": "Chardon was once that, too."
+    },
+    {
+      "uid": "u0618",
+      "pass": 1,
+      "before": "Chardin was a beacon of hope in my time.",
+      "after": "Chardon was a beacon of hope in my time."
+    },
+    {
+      "uid": "u0628",
+      "pass": 1,
+      "before": "for the, for a better Chardin.",
+      "after": "for the, for a better Chardon."
+    },
+    {
+      "uid": "u0629",
+      "pass": 1,
+      "before": "You may have seen my ancestors fighting for a better Dran-Kor.",
+      "after": "You may have seen my ancestors fighting for a better Drankor."
+    },
+    {
+      "uid": "u0674",
+      "pass": 1,
+      "before": "It's not Gosh. [laughs]",
+      "after": "It's not {{Gosh}}. [laughs]"
+    },
+    {
+      "uid": "u0676",
+      "pass": 1,
+      "before": "No, you don't recognize it. It seems, it just seems to be some other representation of, of this sort of tension at the heart of Dran-Kor between,",
+      "after": "No, you don't recognize it. It seems, it just seems to be some other representation of, of this sort of tension at the heart of Drankor between,"
+    },
+    {
+      "uid": "u0678",
+      "pass": 1,
+      "before": "Is, is H-K-A-R, Harker, is that, like, known?",
+      "after": "Is, is H-K-A-R, Hkar, is that, like, known?"
+    },
+    {
+      "uid": "u0692",
+      "pass": 1,
+      "before": "okay. Great. Was Dimitar anywhere in this vision?",
+      "after": "okay. Great. Was Dimitaur anywhere in this vision?"
+    },
+    {
+      "uid": "u0699",
+      "pass": 1,
+      "before": "Well, you won't always be able to find Rye.",
+      "after": "Well, you won't always be able to find Rai."
+    },
+    {
+      "uid": "u0753",
+      "pass": 1,
+      "before": "before then, now would be a good time to do that, especially because Wellby has spent most of his downtime out with Hovdahr going back to Basida.",
+      "after": "before then, now would be a good time to do that, especially because Wellby has spent most of his downtime out with Havdar going back to Bas Udda."
+    },
+    {
+      "uid": "u0755",
+      "pass": 1,
+      "before": "We're gonna do a flashback to showing something to the mirror, to Eudomos' mirror.",
+      "after": "We're gonna do a flashback to showing something to the mirror, to Eudomes' mirror."
+    },
+    {
+      "uid": "u0792",
+      "pass": 1,
+      "before": "Man, I should, I should've asked Rye.",
+      "after": "Man, I should, I should've asked Rai."
+    },
+    {
+      "uid": "u0850",
+      "pass": 1,
+      "before": "Most people agreed to give Hovdar the blade of stone.",
+      "after": "Most people agreed to give Havdar the blade of stone."
+    },
+    {
+      "uid": "u0937",
+      "pass": 1,
+      "before": "Or maybe Agatha just liked having a weird top that always spun whenever she looked at it.",
+      "after": "Or maybe Agata just liked having a weird top that always spun whenever she looked at it."
+    },
+    {
+      "uid": "u1005",
+      "pass": 1,
+      "before": "Yeah. Delwath was in the tower, in Yudomas's tower.",
+      "after": "Yeah. Delwath was in the tower, in Eudomes's tower."
+    },
+    {
+      "uid": "u1040",
+      "pass": 1,
+      "before": "Agatha has been out,",
+      "after": "Agata has been out,"
+    },
+    {
+      "uid": "u1042",
+      "pass": 1,
+      "before": "you know, Agatha stole the heart.",
+      "after": "you know, Agata stole the heart."
+    },
+    {
+      "uid": "u1050",
+      "pass": 1,
+      "before": "lose when Shemut was-",
+      "after": "lose when {{Shemut}} was-"
+    },
+    {
+      "uid": "u1063",
+      "pass": 1,
+      "before": "Then in Ravenshold, there was the demon who was ensorceling the hyenas to create gnolls and sending them about.",
+      "after": "Then in Raven's Hold, there was the demon who was ensorceling the hyenas to create gnolls and sending them about."
+    },
+    {
+      "uid": "u1065",
+      "pass": 1,
+      "before": "Agatha.",
+      "after": "Agata."
+    },
+    {
+      "uid": "u1066",
+      "pass": 1,
+      "before": "Agatha.",
+      "after": "Agata."
+    },
+    {
+      "uid": "u1069",
+      "pass": 1,
+      "before": "Right. But didn't we learn about Ag- Agatha at that, in that adventure?",
+      "after": "Right. But didn't we learn about Ag- Agata at that, in that adventure?"
+    },
+    {
+      "uid": "u1075",
+      "pass": 1,
+      "before": "... scepter So somebody found the Scepter of Command in Carson and traded it to Agata in exchange for this ability",
+      "after": "... scepter So somebody found the Scepter of Command in Kharsan and traded it to Agata in exchange for this ability"
+    },
+    {
+      "uid": "u1076",
+      "pass": 1,
+      "before": "to create nulls.",
+      "after": "to create gnolls."
+    },
+    {
+      "uid": "u1090",
+      "pass": 1,
+      "before": "she was the instrument of getting Siri off the throne.",
+      "after": "she was the instrument of getting {{Siri}} off the throne."
+    },
+    {
+      "uid": "u1101",
+      "pass": 1,
+      "before": "... has, known as Samrats-",
+      "after": "... has, known as Samraats-"
+    },
+    {
+      "uid": "u1107",
+      "pass": 1,
+      "before": "when a new Samrat is crowned, one of the first things that they do is,",
+      "after": "when a new Samraat is crowned, one of the first things that they do is,"
+    },
+    {
+      "uid": "u1117",
+      "pass": 1,
+      "before": "Like Bishma, Laka?",
+      "after": "Like Bhishma, Laka?"
+    },
+    {
+      "uid": "u1130",
+      "pass": 1,
+      "before": "was this horse, uh, essentially a mortal horse that was thought to be the spirit of Chidya, one of the gods, who would select the next Samrat.",
+      "after": "was this horse, uh, essentially a mortal horse that was thought to be the spirit of {{Chidya}}, one of the gods, who would select the next Samraat."
+    },
+    {
+      "uid": "u1136",
+      "pass": 1,
+      "before": "There are definitely people, like Hovdart and a few others in the East, who are not convinced that the",
+      "after": "There are definitely people, like Havdar and a few others in the East, who are not convinced that the"
+    },
+    {
+      "uid": "u1138",
+      "pass": 1,
+      "before": "But it's tricky because the, the Samrat is also the supreme leader of the",
+      "after": "But it's tricky because the, the Samraat is also the supreme leader of the"
+    },
+    {
+      "uid": "u1163",
+      "pass": 1,
+      "before": "The elves almost sacrificed their entire race to save humanity from Shemite.",
+      "after": "The elves almost sacrificed their entire race to save humanity from {{Shemite}}."
+    },
+    {
+      "uid": "u1221",
+      "pass": 1,
+      "before": "Uh, why is Grash, like, trying to kill the Uzgosh?",
+      "after": "Uh, why is Grash, like, trying to kill the {{Uzgosh}}?"
+    },
+    {
+      "uid": "u1222",
+      "pass": 1,
+      "before": "What's Uzgosh?",
+      "after": "What's {{Uzgosh}}?"
+    },
+    {
+      "uid": "u1223",
+      "pass": 1,
+      "before": "Uzgosh were the peaceful farmer folks.",
+      "after": "{{Uzgosh}} were the peaceful farmer folks."
+    },
+    {
+      "uid": "u1243",
+      "pass": 1,
+      "before": "That's how we know that... We know it was found in Carson, and then Agata-",
+      "after": "That's how we know that... We know it was found in Kharsan, and then Agata-"
+    },
+    {
+      "uid": "u1267",
+      "pass": 1,
+      "before": "Sinta",
+      "after": "{{Sinta}}"
+    },
+    {
+      "uid": "u1294",
+      "pass": 1,
+      "before": "that are out here, what's the deal with, like, the ancient evil that the monks of Bishmo are trying to get?",
+      "after": "that are out here, what's the deal with, like, the ancient evil that the monks of Bhishma are trying to get?"
+    },
+    {
+      "uid": "u1295",
+      "pass": 1,
+      "before": "Or not the, the ancient ritual that the monks of Bishmo are trying to do,",
+      "after": "Or not the, the ancient ritual that the monks of Bhishma are trying to do,"
+    },
+    {
+      "uid": "u1327",
+      "pass": 1,
+      "before": "... that either, I mean, we could just like look at some random thing from Argus Fort just for fun, right?",
+      "after": "... that either, I mean, we could just like look at some random thing from {{Argus Fort}} just for fun, right?"
+    },
+    {
+      "uid": "u1333",
+      "pass": 1,
+      "before": "... we can learn, we might learn about who a- who else Aga- Argus is talking to, you know?",
+      "after": "... we can learn, we might learn about who a- who else Aga- Agata is talking to, you know?"
+    },
+    {
+      "uid": "u1336",
+      "pass": 1,
+      "before": "Yeah, and Drik- Drikos thinking if somebody's like trapped in there or otherwise, [laughs] like, we should be careful if we're destroying something that may have souls",
+      "after": "Yeah, and Drik- Drikod's thinking if somebody's like trapped in there or otherwise, [laughs] like, we should be careful if we're destroying something that may have souls"
+    },
+    {
+      "uid": "u1344",
+      "pass": 1,
+      "before": "... um, there was a metal vial with a- acidic liquid that Wellby took from the null war leader.",
+      "after": "... um, there was a metal vial with a- acidic liquid that Wellby took from the gnoll war leader."
+    },
+    {
+      "uid": "u1403",
+      "pass": 1,
+      "before": "Ravaka,",
+      "after": "Revaka,"
+    },
+    {
+      "uid": "u1412",
+      "pass": 1,
+      "before": "uh, in Yudomas' mirror as the first person that the, had been trapped, um, by the soul mirror.",
+      "after": "uh, in Eudomes' mirror as the first person that the, had been trapped, um, by the soul mirror."
+    },
+    {
+      "uid": "u1449",
+      "pass": 1,
+      "before": "Well, nobody else speaks Obgeman, right?",
+      "after": "Well, nobody else speaks Hobgoblin, right?"
+    },
+    {
+      "uid": "u1506",
+      "pass": 1,
+      "before": "I would do not trust you.",
+      "after": "I do not trust you."
+    },
+    {
+      "uid": "u1585",
+      "pass": 1,
+      "before": "of the reign of Drikod III.",
+      "after": "of the reign of {{Drikod III}}."
+    },
+    {
+      "uid": "u1600",
+      "pass": 1,
+      "before": "Second year of Drikod, of the reign of Drikod III",
+      "after": "Second year of Drikod, of the reign of {{Drikod III}}"
+    },
+    {
+      "uid": "u1612",
+      "pass": 1,
+      "before": "rise to power of Shamat.",
+      "after": "rise to power of {{Shamat}}."
+    },
+    {
+      "uid": "u1613",
+      "pass": 1,
+      "before": "Yeah. He would've been, he would have not as been nearly as powerful back then.",
+      "after": "Yeah. He would've been, he would not have been nearly as powerful back then."
+    },
+    {
+      "uid": "u1614",
+      "pass": 1,
+      "before": "Right, 'cause Drikod III died two years after the Great War ended, or something like that.",
+      "after": "Right, 'cause {{Drikod III}} died two years after the Great War ended, or something like that."
+    },
+    {
+      "uid": "u1615",
+      "pass": 1,
+      "before": "And Drikod III is the king of what?",
+      "after": "And {{Drikod III}} is the king of what?"
+    },
+    {
+      "uid": "u1616",
+      "pass": 1,
+      "before": "Sambara.",
+      "after": "Sembara."
+    },
+    {
+      "uid": "u1617",
+      "pass": 1,
+      "before": "Sambara.",
+      "after": "Sembara."
+    },
+    {
+      "uid": "u1621",
+      "pass": 1,
+      "before": "He called himself many things, but we knew him as Shamat.",
+      "after": "He called himself many things, but we knew him as {{Shamat}}."
+    },
+    {
+      "uid": "u1636",
+      "pass": 1,
+      "before": "if Shemut had been successful",
+      "after": "if {{Shemut}} had been successful"
+    },
+    {
+      "uid": "u1641",
+      "pass": 1,
+      "before": "A dwarf, an alpha s- uh, a dwarf, an alpha,",
+      "after": "A dwarf, an elf s- uh, a dwarf, an elf,"
+    },
+    {
+      "uid": "u1658",
+      "pass": 1,
+      "before": "kept our few Sambaran slaves working the fields.",
+      "after": "kept our few Sembaran slaves working the fields."
+    },
+    {
+      "uid": "u1678",
+      "pass": 1,
+      "before": "It's, uh... Tim, what's the current reign of the king in Sambara?",
+      "after": "It's, uh... Tim, what's the current reign of the king in Sembara?"
+    },
+    {
+      "uid": "u1681",
+      "pass": 1,
+      "before": "I, I have the doc open. It's Aren III, but what's the, uh...",
+      "after": "I, I have the doc open. It's {{Aren III}}, but what's the, uh..."
+    },
+    {
+      "uid": "u1685",
+      "pass": 1,
+      "before": "So it's the 17th year of the reign of Aren III.",
+      "after": "So it's the 17th year of the reign of {{Aren III}}."
+    },
+    {
+      "uid": "u1688",
+      "pass": 1,
+      "before": "And how many years is that since the second reign of Derek III, the second year of Derek III?",
+      "after": "And how many years is that since the second reign of {{Derek III}}, the second year of {{Derek III}}?"
+    },
+    {
+      "uid": "u1707",
+      "pass": 1,
+      "before": "for Emperor A- Avitus.",
+      "after": "for Emperor A- {{Avitus}}."
+    },
+    {
+      "uid": "u1710",
+      "pass": 1,
+      "before": "Is Emperor Avitus perhaps imprisoned yet within the mirror?",
+      "after": "Is Emperor {{Avitus}} perhaps imprisoned yet within the mirror?"
+    },
+    {
+      "uid": "u1712",
+      "pass": 1,
+      "before": "Sambaran scum.",
+      "after": "Sembaran scum."
+    },
+    {
+      "uid": "u1717",
+      "pass": 1,
+      "before": "Sambara, they're like a kingdom...",
+      "after": "Sembara, they're like a kingdom..."
+    },
+    {
+      "uid": "u1718",
+      "pass": 1,
+      "before": "That's where Bara- that's where Barrel came from, right?",
+      "after": "That's where Bara- that's where Beryl came from, right?"
+    },
+    {
+      "uid": "u1721",
+      "pass": 1,
+      "before": "And they're, uh... What's the relationship between Sambara and Dunmore?",
+      "after": "And they're, uh... What's the relationship between Sembara and Dunmar?"
+    },
+    {
+      "uid": "u1727",
+      "pass": 1,
+      "before": "Wellby came from Sambara. They're like ni- Sambara is, like, 900 miles north of Carawa.",
+      "after": "Wellby came from Sembara. They're like ni- Sembara is, like, 900 miles north of Karawa."
+    },
+    {
+      "uid": "u1741",
+      "pass": 1,
+      "before": "... disagreed with Shaman-",
+      "after": "... disagreed with {{Shaman}}-"
+    },
+    {
+      "uid": "u1758",
+      "pass": 1,
+      "before": "Revanka. Revanka.",
+      "after": "Revaka. Revaka."
+    },
+    {
+      "uid": "u1759",
+      "pass": 1,
+      "before": "Okay, so Revanka had human slaves.",
+      "after": "Okay, so Revaka had human slaves."
+    },
+    {
+      "uid": "u1760",
+      "pass": 1,
+      "before": "Samb- like when she says, like Sambaran slaves.",
+      "after": "Samb- like when she says, like Sembaran slaves."
+    },
+    {
+      "uid": "u1778",
+      "pass": 1,
+      "before": "Imprison the King of Sambara forever, and then bring him out every year and be like-",
+      "after": "Imprison the King of Sembara forever, and then bring him out every year and be like-"
+    },
+    {
+      "uid": "u1784",
+      "pass": 1,
+      "before": "And nobody knows about A- Atavas anymore.",
+      "after": "And nobody knows about A- {{Atavas}} anymore."
+    },
+    {
+      "uid": "u1788",
+      "pass": 1,
+      "before": "I mean, Sambar, it would be a minor point in Sambaran history.",
+      "after": "I mean, Sambar, it would be a minor point in Sembaran history."
+    },
+    {
+      "uid": "u1791",
+      "pass": 1,
+      "before": "the current house of Sambara sort of came to power.",
+      "after": "the current house of Sembara sort of came to power."
+    },
+    {
+      "uid": "u1793",
+      "pass": 1,
+      "before": "It was the, the budding empor- empire was defeated pretty quickly, so it never became, like, a huge thing that would've been known in Chartren, in Dunmar, in,",
+      "after": "It was the, the budding empor- empire was defeated pretty quickly, so it never became, like, a huge thing that would've been known in {{Chartren}}, in Dunmar, in,"
+    },
+    {
+      "uid": "u1796",
+      "pass": 1,
+      "before": "the Emperor of Avatus really is just a footnote in the mythology of the founding of the Sambaran crown.",
+      "after": "the Emperor of Avatus really is just a footnote in the mythology of the founding of the Sembaran crown."
+    },
+    {
+      "uid": "u1799",
+      "pass": 1,
+      "before": "Of Darick II",
+      "after": "Of {{Darick II}}"
+    },
+    {
+      "uid": "u1801",
+      "pass": 1,
+      "before": "Of the House of Darick.",
+      "after": "Of the {{House of Darick}}."
+    },
+    {
+      "uid": "u1817",
+      "pass": 1,
+      "before": "Revanka, um, could you give us a moment?",
+      "after": "Revaka, um, could you give us a moment?"
+    },
+    {
+      "uid": "u1866",
+      "pass": 1,
+      "before": "premature to both talk of execution or release I'm fine with that",
+      "after": "premature to both talk of execution or release. I'm fine with that"
+    },
+    {
+      "uid": "u1869",
+      "pass": 1,
+      "before": "even though she resisted Shema, I think it's hard to imagine a hobgoblin,",
+      "after": "even though she resisted {{Shema}}, I think it's hard to imagine a hobgoblin,"
+    },
+    {
+      "uid": "u1893",
+      "pass": 1,
+      "before": "Right. But Delwath did his dream world, 'cause Kendrasa can only do one dream journey a night,",
+      "after": "Right. But Delwath did his dream world, 'cause Candrosa can only do one dream journey a night,"
+    },
+    {
+      "uid": "u1929",
+      "pass": 1,
+      "before": "what do, what do we need to know? Shema's birthday.",
+      "after": "what do, what do we need to know? {{Shema}}'s birthday."
+    },
+    {
+      "uid": "u1932",
+      "pass": 1,
+      "before": "... mingled with Shema directly.",
+      "after": "... mingled with {{Shema}} directly."
+    },
+    {
+      "uid": "u1985",
+      "pass": 1,
+      "before": "... is to disable its sucking you in functionality And then also bring someone to the surface on the inside",
+      "after": "... is to disable its sucking you in functionality and then also bring someone to the surface on the inside"
+    },
+    {
+      "uid": "u2002",
+      "pass": 1,
+      "before": "But how... I mean, we're taking Yudomas' mirror with us.",
+      "after": "But how... I mean, we're taking Eudomes' mirror with us."
+    },
+    {
+      "uid": "u2012",
+      "pass": 1,
+      "before": "... we need to protect the shit out of these mirror.",
+      "after": "... we need to protect the shit out of these mirrors."
+    },
+    {
+      "uid": "u2054",
+      "pass": 1,
+      "before": "Zintra",
+      "after": "Cintra"
+    },
+    {
+      "uid": "u2055",
+      "pass": 1,
+      "before": "... and Zintra, and, and ask Zintra if she knows how to free the souls trapped in the lantern.",
+      "after": "... and Cintra, and, and ask Cintra if she knows how to free the souls trapped in the lantern."
+    },
+    {
+      "uid": "u2057",
+      "pass": 1,
+      "before": "the lantern, showing the lantern to the mirror, and, and Zintra for that matter, might help us figure out ways to destroy it safely.",
+      "after": "the lantern, showing the lantern to the mirror, and, and Cintra for that matter, might help us figure out ways to destroy it safely."
+    },
+    {
+      "uid": "u2081",
+      "pass": 1,
+      "before": "They're of Dran-Korian origin.",
+      "after": "They're of Drankorian origin."
+    },
+    {
+      "uid": "u2093",
+      "pass": 1,
+      "before": "It's, it's, it's, uh, it's in the dark.",
+      "after": "It's, it's, it's, uh, it's in the doc."
+    },
+    {
+      "uid": "u2120",
+      "pass": 1,
+      "before": "Ravensholdt or the fort, something we found a long time ago, right?",
+      "after": "Raven's Hold or the fort, something we found a long time ago, right?"
+    },
+    {
+      "uid": "u2134",
+      "pass": 1,
+      "before": "Like the message does, right?",
+      "after": "Like the message stones, right?"
+    },
+    {
+      "uid": "u2156",
+      "pass": 1,
+      "before": "or really afternoon that Wellby returned to Carawa.",
+      "after": "or really afternoon that Wellby returned to Karawa."
+    },
+    {
+      "uid": "u2157",
+      "pass": 1,
+      "before": "Later tonight, Delwath will go off and speak with Kendressa, and then we'll transition to the whole...",
+      "after": "Later tonight, Delwath will go off and speak with Candrosa, and then we'll transition to the whole..."
+    },
+    {
+      "uid": "u2161",
+      "pass": 1,
+      "before": "and when Eudomas's mirror had finally recharged, um, a little bit faster than you expected given the proximity of magical energy here.",
+      "after": "and when Eudomes's mirror had finally recharged, um, a little bit faster than you expected given the proximity of magical energy here."
+    },
+    {
+      "uid": "u2241",
+      "pass": 1,
+      "before": "Samarqi, the, the, the oni, the, the blue giant walk in,",
+      "after": "{{Samarqi}}, the, the, the oni, the, the blue giant walk in,"
+    },
+    {
+      "uid": "u2284",
+      "pass": 1,
+      "before": "Anybody notable in the people beginning killed, or are they just sort of nondescript people?",
+      "after": "Anybody notable in the people being killed, or are they just sort of nondescript people?"
+    },
+    {
+      "uid": "u2306",
+      "pass": 1,
+      "before": "uh, often into the darkness beyond what you can see.",
+      "after": "uh, off into the darkness beyond what you can see."
+    },
+    {
+      "uid": "u2320",
+      "pass": 1,
+      "before": "Samarqi is flying in and sort of, you know, he is wreaking havoc.",
+      "after": "{{Samarqi}} is flying in and sort of, you know, he is wreaking havoc."
+    },
+    {
+      "uid": "u2334",
+      "pass": 1,
+      "before": "beat up, tied up, helpless, either their heads getting bashed in by Samarki or their throats getting cut by her.",
+      "after": "beat up, tied up, helpless, either their heads getting bashed in by {{Samarki}} or their throats getting cut by her."
+    },
+    {
+      "uid": "u2336",
+      "pass": 1,
+      "before": "the Eudomas' mirror fades to black.",
+      "after": "the Eudomes' mirror fades to black."
+    },
+    {
+      "uid": "u2347",
+      "pass": 1,
+      "before": "They were mostly not carrying insignia, but the few that did have any kind of insignia were, were Dustthorn.",
+      "after": "They were mostly not carrying insignia, but the few that did have any kind of insignia were, were {{Dustthorn}}."
+    },
+    {
+      "uid": "u2348",
+      "pass": 1,
+      "before": "Uh, the first two that you saw definitely were Dustthorn, and occasional others.",
+      "after": "Uh, the first two that you saw definitely were {{Dustthorn}}, and occasional others."
+    },
+    {
+      "uid": "u2354",
+      "pass": 1,
+      "before": "I mean, we should ask Sintra.",
+      "after": "I mean, we should ask Cintra."
+    },
+    {
+      "uid": "u2356",
+      "pass": 1,
+      "before": "Is there... Can Sintra help us destroy this in a way that frees the souls?",
+      "after": "Is there... Can Cintra help us destroy this in a way that frees the souls?"
+    },
+    {
+      "uid": "u2365",
+      "pass": 1,
+      "before": "Yeah, Sintra can help with that.",
+      "after": "Yeah, Cintra can help with that."
+    },
+    {
+      "uid": "u2373",
+      "pass": 1,
+      "before": "you know, Sintra helps us, helps us destroy it basically.",
+      "after": "you know, Cintra helps us, helps us destroy it basically."
+    },
+    {
+      "uid": "u2379",
+      "pass": 1,
+      "before": "And the liquid wood too, we should destroy, just to-",
+      "after": "And the {{liquid wood}} too, we should destroy, just to-"
+    },
+    {
+      "uid": "u2393",
+      "pass": 1,
+      "before": "the morning of the Feast of Bishma.",
+      "after": "the morning of the Feast of Bhishma."
+    },
+    {
+      "uid": "u2395",
+      "pass": 1,
+      "before": "as the sun rises on the bustling, rebuilding village of Carowa,",
+      "after": "as the sun rises on the bustling, rebuilding village of Karawa,"
+    },
+    {
+      "uid": "u2399",
+      "pass": 1,
+      "before": "Da- or Seeker, um, Kenzo, Drikod, and Wellby, um, find yourself gathered for a simple breakfast on the morning of the first day of the Feast of Bishma.",
+      "after": "Da- or Seeker, um, Kenzo, Drikod, and Wellby, um, find yourself gathered for a simple breakfast on the morning of the first day of the Feast of Bhishma."
+    },
+    {
+      "uid": "u2400",
+      "pass": 1,
+      "before": "Drikod and Kenzo have just last night been initiated into the Mistai of Shakun officially.",
+      "after": "Drikod and Kenzo have just last night been initiated into the Mystai of Shakun officially."
+    },
+    {
+      "uid": "u2405",
+      "pass": 1,
+      "before": "But you haven't really seen much of each other in the past 10 days, um, not since you returned to Carowa from, with the treasure from Agata's lair and freed the Nian Surah,",
+      "after": "But you haven't really seen much of each other in the past 10 days, um, not since you returned to Karawa from, with the treasure from Agata's lair and freed the Nayan Sura,"
+    },
+    {
+      "uid": "u2407",
+      "pass": 1,
+      "before": "You haven't seen much of Surah over the past 10 days,",
+      "after": "You haven't seen much of Sura over the past 10 days,"
+    },
+    {
+      "uid": "u2416",
+      "pass": 1,
+      "before": "all of you having, those of you who wanted to, having explored the dream world with Kendros's help, um, all of you having, um,",
+      "after": "all of you having, those of you who wanted to, having explored the dream world with Candrosa's help, um, all of you having, um,"
+    },
+    {
+      "uid": "u2417",
+      "pass": 1,
+      "before": "you know, taken some time to close your affairs, mostly Delwath, who had lived in Carowa for some time before the hyena attacks that started your adventures together three months ago,",
+      "after": "you know, taken some time to close your affairs, mostly Delwath, who had lived in Karawa for some time before the hyena attacks that started your adventures together three months ago,"
+    },
+    {
+      "uid": "u2421",
+      "pass": 1,
+      "before": "um, and awaiting the, the, um, two-day festival that marks the Feast of Bishma before saying goodbye to Drikod and-",
+      "after": "um, and awaiting the, the, um, two-day festival that marks the Feast of Bhishma before saying goodbye to Drikod and-"
+    },
+    {
+      "uid": "u2445",
+      "pass": 1,
+      "before": "Saw Shamut's rise.",
+      "after": "Saw {{Shamut}}'s rise."
+    },
+    {
+      "uid": "u2459",
+      "pass": 1,
+      "before": "Lucky he's coming back. One more den, we're gonna divvy it up.",
+      "after": "Lucky he's coming back. One more day, we're gonna divvy it up."
+    },
+    {
+      "uid": "u2541",
+      "pass": 1,
+      "before": "let me find it, Yazali.",
+      "after": "let me find it, Yezali."
+    },
+    {
+      "uid": "u2546",
+      "pass": 1,
+      "before": "Shamud.",
+      "after": "{{Shamud}}."
+    },
+    {
+      "uid": "u2550",
+      "pass": 1,
+      "before": "This Yazali, their god,",
+      "after": "This Yezali, their god,"
+    },
+    {
+      "uid": "u2566",
+      "pass": 1,
+      "before": "And this creature, who now calls itself Avascar, the Shadow,",
+      "after": "And this creature, who now calls itself Aaviskar, the Shadow,"
+    },
+    {
+      "uid": "u2574",
+      "pass": 1,
+      "before": "Uh, but like me, was a warrior in the battle against Shamud, and suffered the same fate.",
+      "after": "Uh, but like me, was a warrior in the battle against {{Shamud}}, and suffered the same fate."
+    },
+    {
+      "uid": "u2583",
+      "pass": 1,
+      "before": "Anita,",
+      "after": "{{Anita}},"
+    },
+    {
+      "uid": "u2586",
+      "pass": 1,
+      "before": "But it said that the Heart of Shakun was blessed by Anita.",
+      "after": "But it said that the Heart of Shakun was blessed by {{Anita}}."
+    },
+    {
+      "uid": "u2597",
+      "pass": 1,
+      "before": "You, Kenza, were not the,",
+      "after": "You, Kenzo, were not the,"
+    },
+    {
+      "uid": "u2598",
+      "pass": 1,
+      "before": "the most studious of the students in the Locken Monasteries.",
+      "after": "the most studious of the students in the Lakan Monasteries."
+    },
+    {
+      "uid": "u2612",
+      "pass": 1,
+      "before": "known variously as many things, but to most Chardonyans and Dunmari anyway, as Arat and Malek.",
+      "after": "known variously as many things, but to most Chardonians and Dunmari anyway, as {{Arat}} and {{Malek}}."
+    },
+    {
+      "uid": "u2617",
+      "pass": 1,
+      "before": "looked in the Locken Monasteries, you might be able to find more.",
+      "after": "looked in the Lakan Monasteries, you might be able to find more."
+    },
+    {
+      "uid": "u2628",
+      "pass": 1,
+      "before": "They may all be killed. They all, may all be dead from the hobgoblins and Shamud's wars.",
+      "after": "They may all be killed. They all, may all be dead from the hobgoblins and {{Shamud}}'s wars."
+    },
+    {
+      "uid": "u2631",
+      "pass": 1,
+      "before": "... north of Sambara or north of Chardin, um,",
+      "after": "... north of Sembara or north of Chardon, um,"
+    },
+    {
+      "uid": "u2681",
+      "pass": 1,
+      "before": "You've got a lot of information from Garrett because his family would travel, like, this road to Chardin, and then they would often...",
+      "after": "You've got a lot of information from Garrett because his family would travel, like, this road to Chardon, and then they would often..."
+    },
+    {
+      "uid": "u2684",
+      "pass": 1,
+      "before": "and then sail to, to Darba, and then pick up the road here, like down to Nihar and across to Askandi,",
+      "after": "and then sail to, to {{Darba}}, and then pick up the road here, like down to {{Nihar}} and across to {{Askandi}},"
+    },
+    {
+      "uid": "u2686",
+      "pass": 1,
+      "before": "to Basuda, which is like where of course he ran into trouble.",
+      "after": "to Bas Udda, which is like where of course he ran into trouble."
+    },
+    {
+      "uid": "u2692",
+      "pass": 1,
+      "before": "So the Chardonian Empire stretches as far north as the city Voltarra.",
+      "after": "So the Chardonian Empire stretches as far north as the city {{Voltarra}}."
+    },
+    {
+      "uid": "u2694",
+      "pass": 1,
+      "before": "All the Marwar stuff.",
+      "after": "All the Mawar stuff."
+    },
+    {
+      "uid": "u2702",
+      "pass": 1,
+      "before": "There was rumors in, in the vision I saw of the Kenku to the north being slaughtered by Shamut's armies that trickled down to them.",
+      "after": "There was rumors in, in the vision I saw of the Kenku to the north being slaughtered by {{Shamut}}'s armies that trickled down to them."
+    },
+    {
+      "uid": "u2714",
+      "pass": 1,
+      "before": "They, they were on the borders of Pandar and Sh- whatever it's called now.",
+      "after": "They, they were on the borders of {{Pandar}} and Sh- whatever it's called now."
+    },
+    {
+      "uid": "u2715",
+      "pass": 1,
+      "before": "And Shamut slaughtered them all.",
+      "after": "And {{Shamut}} slaughtered them all."
+    },
+    {
+      "uid": "u2718",
+      "pass": 1,
+      "before": "When we go north, why don't we join up with the Marwar campaign, and we all go together.",
+      "after": "When we go north, why don't we join up with the Mawar campaign, and we all go together."
+    },
+    {
+      "uid": "u2727",
+      "pass": 1,
+      "before": "1,000 miles from Chardin.",
+      "after": "1,000 miles from Chardon."
+    },
+    {
+      "uid": "u2733",
+      "pass": 1,
+      "before": "Enzo, Kenzo kind of warmly comes up to Delwath and, like, pats him on the, pats him on the shoulder, is like, \"See?",
+      "after": "Kenzo, Kenzo kind of warmly comes up to Delwath and, like, pats him on the, pats him on the shoulder, is like, \"See?"
+    },
+    {
+      "uid": "u2742",
+      "pass": 1,
+      "before": "not to come back to Carow, but to stay in the west and move west.",
+      "after": "not to come back to Karawa, but to stay in the west and move west."
+    },
+    {
+      "uid": "u2746",
+      "pass": 1,
+      "before": "Like, y- you know, it's, it's one thing for the west to have a closer relationship with Chardin, but it's another thing to encourage the depopulation of the east",
+      "after": "Like, y- you know, it's, it's one thing for the west to have a closer relationship with Chardon, but it's another thing to encourage the depopulation of the east"
+    },
+    {
+      "uid": "u2748",
+      "pass": 1,
+      "before": "Ba- Baijah, all she said was that they, Tokra was a, was a,",
+      "after": "Ba- {{Baijah}}, all she said was that they, Tokra was a, was a,"
+    },
+    {
+      "uid": "u2756",
+      "pass": 1,
+      "before": "um... Ikrum told me of a statue three times the size of life of a Stoneborn warrior just north of Tokra.",
+      "after": "um... Ikram told me of a statue three times the size of life of a Stoneborn warrior just north of Tokra."
+    },
+    {
+      "uid": "u2764",
+      "pass": 1,
+      "before": "like way predating Dunbar.",
+      "after": "like way predating Dunmar."
+    },
+    {
+      "uid": "u2769",
+      "pass": 1,
+      "before": "the sense Baijah said was that",
+      "after": "the sense {{Baijah}} said was that"
+    },
+    {
+      "uid": "u2773",
+      "pass": 1,
+      "before": "And the army, the army of the west under the command of the Samrat's general,",
+      "after": "And the army, the army of the west under the command of the Samraat's general,"
+    },
+    {
+      "uid": "u2777",
+      "pass": 1,
+      "before": "She was very glad to come home, she said, when a lush came and said everything was restored.",
+      "after": "She was very glad to come home, she said, when Alesh came and said everything was restored."
+    },
+    {
+      "uid": "u2781",
+      "pass": 1,
+      "before": "Samrat Karnus wanted to establish a Dunmari border on the Hara River.",
+      "after": "Samraat Karnas wanted to establish a Dunmari border on the Hara River."
+    },
+    {
+      "uid": "u2786",
+      "pass": 1,
+      "before": "What is Chardin doing here?",
+      "after": "What is Chardon doing here?"
+    },
+    {
+      "uid": "u2798",
+      "pass": 1,
+      "before": "He gave Ikrum a book to give to you.",
+      "after": "He gave Ikram a book to give to you."
+    },
+    {
+      "uid": "u2805",
+      "pass": 1,
+      "before": "named Severus.",
+      "after": "named Servius."
+    },
+    {
+      "uid": "u2808",
+      "pass": 1,
+      "before": "Do we know of a Ser- Severus?",
+      "after": "Do we know of a Ser- Servius?"
+    },
+    {
+      "uid": "u2823",
+      "pass": 1,
+      "before": "Marthu, who was the, um, pre- the old, an old elder who was sort of the caretaker ruler prior to Sura's, uh,",
+      "after": "{{Marthu}}, who was the, um, pre- the old, an old elder who was sort of the caretaker ruler prior to Sura's, uh,"
+    },
+    {
+      "uid": "u2829",
+      "pass": 1,
+      "before": "Marathu had been like, \"She's my heir.\"",
+      "after": "{{Marathu}} had been like, \"She's my heir.\""
+    },
+    {
+      "uid": "u2832",
+      "pass": 1,
+      "before": "He went searching for her, and was tragically killed by an, with an orc, uh, by orcs, while she was looking for Sura.",
+      "after": "He went searching for her, and was tragically killed by an, with an orc, uh, by orcs, while he was looking for Sura."
+    },
+    {
+      "uid": "u2834",
+      "pass": 1,
+      "before": "Marthu was, was a, was a...",
+      "after": "{{Marthu}} was, was a, was a..."
+    },
+    {
+      "uid": "u2835",
+      "pass": 1,
+      "before": "He, someone told me, someone, one of the, one of the elders in Carawa who liked to reminisce about the old days, told me Marthu did more than almost anybody to reconnect",
+      "after": "He, someone told me, someone, one of the, one of the elders in Karawa who liked to reminisce about the old days, told me {{Marthu}} did more than almost anybody to reconnect"
+    },
+    {
+      "uid": "u2841",
+      "pass": 1,
+      "before": "Sura disappears, and then Marthu is killed by orcs on the edge of the Garmjala Desert, where,",
+      "after": "Sura disappears, and then {{Marthu}} is killed by orcs on the edge of the Garamjala Desert, where,"
+    },
+    {
+      "uid": "u2845",
+      "pass": 1,
+      "before": "I, I would guess Agata had no particular care about what happened, but perhaps was paid or enticed with something to get rid of the traditionalists, Marthu and Sura both.",
+      "after": "I, I would guess Agata had no particular care about what happened, but perhaps was paid or enticed with something to get rid of the traditionalists, {{Marthu}} and Sura both."
+    },
+    {
+      "uid": "u2846",
+      "pass": 1,
+      "before": "From there, Carnos was crowned, right?",
+      "after": "From there, Karnas was crowned, right?"
+    },
+    {
+      "uid": "u2850",
+      "pass": 1,
+      "before": "And the rumor, although many people in Caraway I think do not believe it, but the story told in the rest of Dunmore is that Sera brought it on herself.",
+      "after": "And the rumor, although many people in Karawa I think do not believe it, but the story told in the rest of Dunmar is that Sura brought it on herself."
+    },
+    {
+      "uid": "u2854",
+      "pass": 1,
+      "before": "Whether that rumor is spread by Carnos or what people really think, or has come to be what people think because it's the story people want to hear.",
+      "after": "Whether that rumor is spread by Karnas or what people really think, or has come to be what people think because it's the story people want to hear."
+    },
+    {
+      "uid": "u2857",
+      "pass": 1,
+      "before": "Like, very, very disturbed at hearing about Chardoni- Chardonian mages in Tobra.",
+      "after": "Like, very, very disturbed at hearing about Chardoni- Chardonian mages in Tokra."
+    },
+    {
+      "uid": "u2859",
+      "pass": 1,
+      "before": "Civil war breaking out in Dunmore.",
+      "after": "Civil war breaking out in Dunmar."
+    },
+    {
+      "uid": "u2885",
+      "pass": 1,
+      "before": "Grash is also scouring Carson for powerful magic.",
+      "after": "Grash is also scouring Kharsan for powerful magic."
+    },
+    {
+      "uid": "u2896",
+      "pass": 1,
+      "before": "out to the desert to reconnect with Avascar.",
+      "after": "out to the desert to reconnect with Aaviskar."
+    },
+    {
+      "uid": "u2939",
+      "pass": 1,
+      "before": "It's hard to know what else it could've been, but I think I spoke to Rot.",
+      "after": "It's hard to know what else it could've been, but I think I spoke to Rai."
+    },
+    {
+      "uid": "u2960",
+      "pass": 1,
+      "before": "And Delwath, the humans and the elves, our histories going back to Dran-Kor, I, I saw...",
+      "after": "And Delwath, the humans and the elves, our histories going back to Drankor, I, I saw..."
+    },
+    {
+      "uid": "u2963",
+      "pass": 1,
+      "before": "I think connected to the earliest humans to Kar, H-K-A-R.",
+      "after": "I think connected to the earliest humans to Hkar, H-K-A-R."
+    },
+    {
+      "uid": "u2967",
+      "pass": 1,
+      "before": "Yeah, you would have all... Kar is, like, the birthplace of humanity.",
+      "after": "Yeah, you would have all... Hkar is, like, the birthplace of humanity."
+    },
+    {
+      "uid": "u2969",
+      "pass": 1,
+      "before": "It's the Atlantis equivalent in Talunar.",
+      "after": "It's the Atlantis equivalent in Taelgar."
+    },
+    {
+      "uid": "u2981",
+      "pass": 1,
+      "before": "that is a part of the Dran-Korian history,",
+      "after": "that is a part of the Drankorian history,"
+    },
+    {
+      "uid": "u2986",
+      "pass": 1,
+      "before": "Another version of the vision of Dran-Kor that I think at some point in history, not in",
+      "after": "Another version of the vision of Drankor that I think at some point in history, not in"
+    },
+    {
+      "uid": "u2987",
+      "pass": 1,
+      "before": "history for me, I think at some point Chardin represented the same.",
+      "after": "history for me, I think at some point Chardon represented the same."
+    },
+    {
+      "uid": "u2991",
+      "pass": 1,
+      "before": "Rye and his companions",
+      "after": "Rai and his companions"
+    },
+    {
+      "uid": "u2999",
+      "pass": 1,
+      "before": "I'm deeply concerned that what we're seeing in Chardin",
+      "after": "I'm deeply concerned that what we're seeing in Chardon"
+    },
+    {
+      "uid": "u3004",
+      "pass": 1,
+      "before": "again, I don't know if it was Rye or some embodiment of him, but",
+      "after": "again, I don't know if it was Rai or some embodiment of him, but"
+    },
+    {
+      "uid": "u3017",
+      "pass": 1,
+      "before": "Rye, I think, is still with his old companion trying to map these different planes as well.",
+      "after": "Rai, I think, is still with his old companion trying to map these different planes as well."
+    },
+    {
+      "uid": "u3032",
+      "pass": 1,
+      "before": "Rye wasn't sure, or this aspect of Rye was not sure.",
+      "after": "Rai wasn't sure, or this aspect of Rai was not sure."
+    },
+    {
+      "uid": "u3034",
+      "pass": 1,
+      "before": "it seems that, to me, whatever's unfolding in Chardin has echoes of this tyranny of the past in Dran-Kor,",
+      "after": "it seems that, to me, whatever's unfolding in Chardon has echoes of this tyranny of the past in Drankor,"
+    },
+    {
+      "uid": "u3037",
+      "pass": 1,
+      "before": "Chardin was not- The beacon of hope that it represented once in the past.",
+      "after": "Chardon was not- The beacon of hope that it represented once in the past."
+    },
+    {
+      "uid": "u3051",
+      "pass": 1,
+      "before": "I saw the destruction of Shemut",
+      "after": "I saw the destruction of {{Shemut}}"
+    },
+    {
+      "uid": "u3053",
+      "pass": 1,
+      "before": "Isn't that... When did we see Demeter?",
+      "after": "Isn't that... When did we see Dimitaur?"
+    },
+    {
+      "uid": "u3056",
+      "pass": 1,
+      "before": "You saw Demeter in the Hall of Stories.",
+      "after": "You saw Dimitaur in the Hall of Stories."
+    },
+    {
+      "uid": "u3065",
+      "pass": 1,
+      "before": "Monks of Bishma?",
+      "after": "Monks of Bhishma?"
+    },
+    {
+      "uid": "u3081",
+      "pass": 1,
+      "before": "Elder Bishma monk.",
+      "after": "Elder Bhishma monk."
+    },
+    {
+      "uid": "u3096",
+      "pass": 1,
+      "before": "because one thing is for sure, if Chardin gets their hands on this, if we're a cavalier and wander about with this thing...",
+      "after": "because one thing is for sure, if Chardon gets their hands on this, if we're cavalier and wander about with this thing..."
+    },
+    {
+      "uid": "u3103",
+      "pass": 1,
+      "before": "I, I don't know, again, you know, the, the history of the elves in Drancore, but",
+      "after": "I, I don't know, again, you know, the, the history of the elves in Drankor, but"
+    },
+    {
+      "uid": "u3106",
+      "pass": 1,
+      "before": "it hasn't disappeared since the des- since the destruction of the Drancorian Empire.",
+      "after": "it hasn't disappeared since the des- since the destruction of the Drankorian Empire."
+    },
+    {
+      "uid": "u3109",
+      "pass": 1,
+      "before": "I know little of Drancore.",
+      "after": "I know little of Drankor."
+    },
+    {
+      "uid": "u3111",
+      "pass": 1,
+      "before": "But Chardin, in my day, was",
+      "after": "But Chardon, in my day, was"
+    },
+    {
+      "uid": "u3122",
+      "pass": 1,
+      "before": "Shemut in the Great War.",
+      "after": "{{Shemut}} in the Great War."
+    },
+    {
+      "uid": "u3124",
+      "pass": 1,
+      "before": "it's hard for me to listen to what you say of Chardin and reconcile it with the Chardin that I knew in my day.",
+      "after": "it's hard for me to listen to what you say of Chardon and reconcile it with the Chardon that I knew in my day."
+    },
+    {
+      "uid": "u3139",
+      "pass": 1,
+      "before": "I mean, you've, you've, like, heard of Chardin, but",
+      "after": "I mean, you've, you've, like, heard of Chardon, but"
+    },
+    {
+      "uid": "u3148",
+      "pass": 1,
+      "before": "The scepter was created by the Drancorians.",
+      "after": "The scepter was created by the Drankorians."
+    },
+    {
+      "uid": "u3160",
+      "pass": 1,
+      "before": "Agatha had another",
+      "after": "Agata had another"
+    },
+    {
+      "uid": "u3163",
+      "pass": 1,
+      "before": "that had big letters stamped on the back, \"Artifact of Drancor, made by Emperor...\"",
+      "after": "that had big letters stamped on the back, \"Artifact of Drankor, made by Emperor...\""
+    },
+    {
+      "uid": "u3178",
+      "pass": 1,
+      "before": "It was not stamped, \"Secret artifact of Drancor,\" or for all you know, even magical, because you couldn't detect magic through the clairvoyance.",
+      "after": "It was not stamped, \"Secret artifact of Drankor,\" or for all you know, even magical, because you couldn't detect magic through the clairvoyance."
+    },
+    {
+      "uid": "u3182",
+      "pass": 1,
+      "before": "you know, what could have led to, you know, the breaking of this statue and, and, and Raa and so on.",
+      "after": "you know, what could have led to, you know, the breaking of this statue and, and, and Rai and so on."
+    },
+    {
+      "uid": "u3186",
+      "pass": 1,
+      "before": "I don't know what that has to do with Chardin.",
+      "after": "I don't know what that has to do with Chardon."
+    },
+    {
+      "uid": "u3192",
+      "pass": 1,
+      "before": "clearly Shemut's allies could, had items that brought them there,",
+      "after": "clearly {{Shemut}}'s allies could, had items that brought them there,"
+    },
+    {
+      "uid": "u3194",
+      "pass": 1,
+      "before": "It was not Avascar.",
+      "after": "It was not Aaviskar."
+    },
+    {
+      "uid": "u3196",
+      "pass": 1,
+      "before": "It was only when I was falling and Avascar reached out",
+      "after": "It was only when I was falling and Aaviskar reached out"
+    },
+    {
+      "uid": "u3205",
+      "pass": 1,
+      "before": "It wasn't something Galwith did.",
+      "after": "It wasn't something Delwath did."
+    },
+    {
+      "uid": "u3211",
+      "pass": 1,
+      "before": "Avascar did, not from the,",
+      "after": "Aaviskar did, not from the,"
+    },
+    {
+      "uid": "u3216",
+      "pass": 1,
+      "before": "We know Agatha is a dealer in lost magic and stole the Heart of, or, or, uh, tricked Sintra into hiding the Heart of Shakun.",
+      "after": "We know Agata is a dealer in lost magic and stole the Heart of, or, or, uh, tricked Cintra into hiding the Heart of Shakun."
+    },
+    {
+      "uid": "u3255",
+      "pass": 1,
+      "before": "perhaps that's where Francar has gone.",
+      "after": "perhaps that's where {{Francar}} has gone."
+    },
+    {
+      "uid": "u3270",
+      "pass": 1,
+      "before": "you hear the morning prayers of the Feast of Bishma begin to start.",
+      "after": "you hear the morning prayers of the Feast of Bhishma begin to start."
+    },
+    {
+      "uid": "u3271",
+      "pass": 1,
+      "before": "The Feast of Bishma in the Dunmar tradition is a, is a two-day festival that starts on the first day",
+      "after": "The Feast of Bhishma in the Dunmar tradition is a, is a two-day festival that starts on the first day"
+    },
+    {
+      "uid": "u3349",
+      "pass": 1,
+      "before": "Implying on Earth-sized planet, the existence of other enormous continents.",
+      "after": "Implying an Earth-sized planet, the existence of other enormous continents."
+    },
+    {
+      "uid": "u3364",
+      "pass": 1,
+      "before": "So, like, Sambara is about the size of, like, medieval France, basically.",
+      "after": "So, like, Sembara is about the size of, like, medieval France, basically."
+    },
+    {
+      "uid": "u3365",
+      "pass": 1,
+      "before": "And Chardin is big.",
+      "after": "And Chardon is big."
+    },
+    {
+      "uid": "u3366",
+      "pass": 1,
+      "before": "Chardin goes, Chardin goes, like...",
+      "after": "Chardon goes, Chardon goes, like..."
+    },
+    {
+      "uid": "u3367",
+      "pass": 1,
+      "before": "You know, Chardin's, like, Roman Empire sized",
+      "after": "You know, Chardon's, like, Roman Empire sized"
+    },
+    {
+      "uid": "u3370",
+      "pass": 1,
+      "before": "In Chardin?",
+      "after": "In Chardon?"
+    },
+    {
+      "uid": "u3373",
+      "pass": 1,
+      "before": "there's a... So Chardin",
+      "after": "there's a... So Chardon"
+    },
+    {
+      "uid": "u3382",
+      "pass": 1,
+      "before": "serious Talgar politics,",
+      "after": "serious Taelgar politics,"
+    },
+    {
+      "uid": "u3383",
+      "pass": 1,
+      "before": "Zenmari civil war, Chardonian expansion, blah, blah, blah,",
+      "after": "Dunmari civil war, Chardonian expansion, blah, blah, blah,"
+    },
+    {
+      "uid": "u3389",
+      "pass": 1,
+      "before": "look for, um, Yazali's pe- or Avasthar's people, or you could go...",
+      "after": "look for, um, Yezali's pe- or Aaviskar's people, or you could go..."
+    },
+    {
+      "uid": "u3396",
+      "pass": 1,
+      "before": "We also need to find Kaiyer now, too, 'cause Kaiyer-",
+      "after": "We also need to find Kyr now, too, 'cause Kyr-"
+    },
+    {
+      "uid": "u3399",
+      "pass": 1,
+      "before": "Then we'll give Rai the Sundry command.",
+      "after": "Then we'll give Rai the {{Sundry command}}."
+    },
+    {
+      "uid": "u3429",
+      "pass": 1,
+      "before": "I mean, we'll end when you're leaving Carawa.",
+      "after": "I mean, we'll end when you're leaving Karawa."
+    },
+    {
+      "uid": "u3434",
+      "pass": 1,
+      "before": "And you still have the whole Toka arc before you have to decide what you're going to do after Toka.",
+      "after": "And you still have the whole Tokra arc before you have to decide what you're going to do after Tokra."
+    },
+    {
+      "uid": "u3443",
+      "pass": 1,
+      "before": "So the Feast of Bishma in Dhanmari tradition is a two-day festival that starts with this solemn morning of prayer and remembrance, a",
+      "after": "So the Feast of Bhishma in Dunmari tradition is a two-day festival that starts with this solemn morning of prayer and remembrance, a"
+    },
+    {
+      "uid": "u3445",
+      "pass": 1,
+      "before": "in the battle realm with the gods.",
+      "after": "in the better realm with the gods."
+    },
+    {
+      "uid": "u3463",
+      "pass": 1,
+      "before": "And it's during this, as these prayers are starting to come up that you see Sintra walking towards you.",
+      "after": "And it's during this, as these prayers are starting to come up that you see Cintra walking towards you."
+    },
+    {
+      "uid": "u3481",
+      "pass": 1,
+      "before": "full swing. And Sintra",
+      "after": "full swing. And Cintra"
+    },
+    {
+      "uid": "u3499",
+      "pass": 1,
+      "before": "the ones who were killed by Samarkia's blast of cold, the ones who were tricked and in being tricked, possibly saved your life as she was able",
+      "after": "the ones who were killed by {{Samarkia}}'s blast of cold, the ones who were tricked and in being tricked, possibly saved your life as she was able"
+    },
+    {
+      "uid": "u3520",
+      "pass": 1,
+      "before": "There's a big meal that, um, a ritual meal, meal before sunset in the afternoon, where the story of Bishma is told.",
+      "after": "There's a big meal that, um, a ritual meal, meal before sunset in the afternoon, where the story of Bhishma is told."
+    },
+    {
+      "uid": "u3521",
+      "pass": 1,
+      "before": "After, after the, the people of the community have had their stories acknowledged, then the story of Bishma is told.",
+      "after": "After, after the, the people of the community have had their stories acknowledged, then the story of Bhishma is told."
+    },
+    {
+      "uid": "u3523",
+      "pass": 1,
+      "before": "um, many, many tables among the citizens of Caraway.",
+      "after": "um, many, many tables among the citizens of Karawa."
+    },
+    {
+      "uid": "u3524",
+      "pass": 1,
+      "before": "You've been invited to, um, Ikrim's table.",
+      "after": "You've been invited to, um, Ikram's table."
+    },
+    {
+      "uid": "u3525",
+      "pass": 1,
+      "before": "You've been invited to Kendrosa's, to Hovdar's, to, um, Elasha's.",
+      "after": "You've been invited to Candrosa's, to Havdar's, to, um, Alesh's."
+    },
+    {
+      "uid": "u3528",
+      "pass": 1,
+      "before": "Sintra and Surah have not invited you to their tables.",
+      "after": "Cintra and Sura have not invited you to their tables."
+    },
+    {
+      "uid": "u3536",
+      "pass": 1,
+      "before": "Tim, um, I'll, uh, uh, spend some time with Sintra.",
+      "after": "Tim, um, I'll, uh, uh, spend some time with Cintra."
+    },
+    {
+      "uid": "u3537",
+      "pass": 1,
+      "before": "We can recon that later conversation.",
+      "after": "We can retcon that later conversation."
+    },
+    {
+      "uid": "u3546",
+      "pass": 1,
+      "before": "... the first time he knew about them, for the people of, um, of Avascar's people.",
+      "after": "... the first time he knew about them, for the people of, um, of Aaviskar's people."
+    },
+    {
+      "uid": "u3549",
+      "pass": 1,
+      "before": "maybe take, take a small bit from one of the, one of the tables or, or, or as part of a feast and offer it up to Avascar as kind of a thanksgiving.",
+      "after": "maybe take, take a small bit from one of the, one of the tables or, or, or as part of a feast and offer it up to Aaviskar as kind of a thanksgiving."
+    },
+    {
+      "uid": "u3556",
+      "pass": 1,
+      "before": "Um, Kenzo wants to spend some time with Sintra, wants to spend some time with Kendrosa to figure out...",
+      "after": "Um, Kenzo wants to spend some time with Cintra, wants to spend some time with Candrosa to figure out..."
+    },
+    {
+      "uid": "u3559",
+      "pass": 1,
+      "before": "Kendrosa's staff.",
+      "after": "Candrosa's staff."
+    },
+    {
+      "uid": "u3564",
+      "pass": 1,
+      "before": "uh, Kenzo would spend some time with Suria too.",
+      "after": "uh, Kenzo would spend some time with Sura too."
+    },
+    {
+      "uid": "u3568",
+      "pass": 1,
+      "before": "... don't want to get sucked in and drink or, you know, Denmari politics too much, but",
+      "after": "... don't want to get sucked in and {{drink or}}, you know, Dunmari politics too much, but"
+    },
+    {
+      "uid": "u3570",
+      "pass": 1,
+      "before": "Um, at some point, Tim, just for, we can do this over email, but just so I don't forget, Delwath does wanna take Sintra aside and ask her a bit about,",
+      "after": "Um, at some point, Tim, just for, we can do this over email, but just so I don't forget, Delwath does wanna take Cintra aside and ask her a bit about,"
+    },
+    {
+      "uid": "u3581",
+      "pass": 1,
+      "before": "mechanical toy animals and play with Jimmy.",
+      "after": "mechanical toy animals and play with Jumi."
+    },
+    {
+      "uid": "u3589",
+      "pass": 1,
+      "before": "Elasha's, like, super excited to see you and sad that you're leaving the next day, 'cause she's barely had a chance...",
+      "after": "Alesh's, like, super excited to see you and sad that you're leaving the next day, 'cause she's barely had a chance..."
+    },
+    {
+      "uid": "u3593",
+      "pass": 1,
+      "before": "traveled from here to Toka and here to Toka, and then north and then south, and then back to Toka.",
+      "after": "traveled from here to Tokra and here to Tokra, and then north and then south, and then back to Tokra."
+    },
+    {
+      "uid": "u3599",
+      "pass": 1,
+      "before": "Ikrim's, you know, his usual cheerful, friendly self.",
+      "after": "Ikram's, you know, his usual cheerful, friendly self."
+    },
+    {
+      "uid": "u3602",
+      "pass": 1,
+      "before": "Definitely close the night at Ikrim's table.",
+      "after": "Definitely close the night at Ikram's table."
+    },
+    {
+      "uid": "u3610",
+      "pass": 1,
+      "before": "Sorry, really quick. Um, A- Alesch, too, can we like, uh, just, you know, what we were talking the last just like, you know, like what's the best way to get to Tokra, shit to avoid, da, da, da, for the journey?",
+      "after": "Sorry, really quick. Um, A- Alesh, too, can we like, uh, just, you know, what we were talking the last just like, you know, like what's the best way to get to Tokra, shit to avoid, da, da, da, for the journey?"
+    },
+    {
+      "uid": "u3642",
+      "pass": 1,
+      "before": "You know, Ikrim set up his own little,",
+      "after": "You know, Ikram set up his own little,"
+    },
+    {
+      "uid": "u3666",
+      "pass": 1,
+      "before": "Just wait till you, if you ever get to Chardin one day.",
+      "after": "Just wait till you, if you ever get to Chardon one day."
+    },
+    {
+      "uid": "u3669",
+      "pass": 1,
+      "before": "Chardin would be very interesting because it's true that there's a lot of history there, and I would be very much like to see some of the towers, especially the oldest towers that date to the",
+      "after": "Chardon would be very interesting because it's true that there's a lot of history there, and I would very much like to see some of the towers, especially the oldest towers that date to the"
+    },
+    {
+      "uid": "u3670",
+      "pass": 1,
+      "before": "founding of Chardin. But, ah,",
+      "after": "founding of Chardon. But, ah,"
+    },
+    {
+      "uid": "u3684",
+      "pass": 1,
+      "before": "Delta sneaked in as well.",
+      "after": "Delwath sneaked in as well."
+    },
+    {
+      "uid": "u3723",
+      "pass": 1,
+      "before": "I'm sure our paths will cross again, Alesch.",
+      "after": "I'm sure our paths will cross again, Alesh."
+    },
+    {
+      "uid": "u3725",
+      "pass": 1,
+      "before": "What do you think of Sera?",
+      "after": "What do you think of Sura?"
+    },
+    {
+      "uid": "u3727",
+      "pass": 1,
+      "before": "Huvdar is quite taken.",
+      "after": "Havdar is quite taken."
+    },
+    {
+      "uid": "u3731",
+      "pass": 1,
+      "before": "Samrat Karnoss.",
+      "after": "Samraat Karnas."
+    },
+    {
+      "uid": "u3745",
+      "pass": 1,
+      "before": "You should really go check out Ikrem's table.",
+      "after": "You should really go check out Ikram's table."
+    },
+    {
+      "uid": "u3753",
+      "pass": 1,
+      "before": "Kenzo glasses",
+      "after": "Kenzo glances"
+    },
+    {
+      "uid": "u3756",
+      "pass": 1,
+      "before": "Kenzo glasses at Wellby.",
+      "after": "Kenzo glances at Wellby."
+    },
+    {
+      "uid": "u3765",
+      "pass": 1,
+      "before": "The story of how the land of Dunmore was, when the Dunmore got here, it was cursed.",
+      "after": "The story of how the land of Dunmar was, when the Dunmari got here, it was cursed."
+    },
+    {
+      "uid": "u3768",
+      "pass": 1,
+      "before": "And Jivaldi sacrificed herself for the people, and then Bhishma",
+      "after": "And Jeevali sacrificed herself for the people, and then Bhishma"
+    },
+    {
+      "uid": "u3769",
+      "pass": 1,
+      "before": "prayed and sacrificed and, um, by her, by her devotion, brought Jivaldi back.",
+      "after": "prayed and sacrificed and, um, by her, by her devotion, brought Jeevali back."
+    },
+    {
+      "uid": "u3772",
+      "pass": 1,
+      "before": "So she was the one who, who led the Damari from, from far to the east in their ancestral long ago homelands",
+      "after": "So she was the one who, who led the Dunmari from, from far to the east in their ancestral long ago homelands"
+    },
+    {
+      "uid": "u3776",
+      "pass": 1,
+      "before": "So you're now hanging out at Ikrem, at Ikrem's, right?",
+      "after": "So you're now hanging out at Ikram, at Ikram's, right?"
+    },
+    {
+      "uid": "u3781",
+      "pass": 1,
+      "before": "The, the Festival of Jivaldi, where you, that you, when you, around when most of you met, was",
+      "after": "The, the Festival of Jeevali, where you, that you, when you, around when most of you met, was"
+    },
+    {
+      "uid": "u3784",
+      "pass": 1,
+      "before": "you know, because there's... People have heard rumors about Sura and nobody really knows what's gonna happen and, and the future of Dunmore seems maybe in doubt,",
+      "after": "you know, because there's... People have heard rumors about Sura and nobody really knows what's gonna happen and, and the future of Dunmar seems maybe in doubt,"
+    },
+    {
+      "uid": "u3821",
+      "pass": 1,
+      "before": "where Sura's sitting in the same conference room that you've talked to Kendresa many times.",
+      "after": "where Sura's sitting in the same conference room that you've talked to Candrosa many times."
+    },
+    {
+      "uid": "u3822",
+      "pass": 1,
+      "before": "Kendresa is not to be seen.",
+      "after": "Candrosa is not to be seen."
+    },
+    {
+      "uid": "u3825",
+      "pass": 1,
+      "before": "And she says, she looks at you all and she says, \"You five are not who I would expect the heroes of Kerowit to be.\"",
+      "after": "And she says, she looks at you all and she says, \"You five are not who I would expect the heroes of Karawa to be.\""
+    },
+    {
+      "uid": "u3888",
+      "pass": 1,
+      "before": "Tim, Tim, uh, Kenza's soul sighting, um,",
+      "after": "Tim, Tim, uh, Kenzo's soul sighting, um,"
+    },
+    {
+      "uid": "u3889",
+      "pass": 1,
+      "before": "Surya. Is she like, \"Fuck these guys, I'm gonna go, like, hang them now,\" or is she like, you know?",
+      "after": "Sura. Is she like, \"Fuck these guys, I'm gonna go, like, hang them now,\" or is she like, you know?"
+    },
+    {
+      "uid": "u3898",
+      "pass": 1,
+      "before": "Well- Wellby will bow and say, \"Nyannsurr, our,",
+      "after": "Well- Wellby will bow and say, \"Nayan Sura, our,"
+    },
+    {
+      "uid": "u3910",
+      "pass": 1,
+      "before": "Kenza- That's the end ... Kenza looks at Surya and kind of looks at, uh, um, companions.",
+      "after": "Kenzo- That's the end ... Kenzo looks at Sura and kind of looks at, uh, um, companions."
+    },
+    {
+      "uid": "u3916",
+      "pass": 1,
+      "before": "... with Kendressa in several times.",
+      "after": "... with Candrosa in several times."
+    },
+    {
+      "uid": "u3930",
+      "pass": 1,
+      "before": "There's, like, a picture of water poured, yeah.",
+      "after": "There's, like, a pitcher of water poured, yeah."
+    },
+    {
+      "uid": "u3933",
+      "pass": 1,
+      "before": "So, so you know, Kenzo, a- after all of his companions have spoke, you know, Kenzo, like, um, grabs, grabs a glass and, you know, raises it to, to Surya and says,",
+      "after": "So, so you know, Kenzo, a- after all of his companions have spoke, you know, Kenzo, like, um, grabs, grabs a glass and, you know, raises it to, to Sura and says,"
+    },
+    {
+      "uid": "u3939",
+      "pass": 1,
+      "before": "I think you're, you're aware, uh, Surya, I'm a humble initiate of Bishtimala and, um...",
+      "after": "I think you're, you're aware, uh, Sura, I'm a humble initiate of {{Bishtimala}} and, um..."
+    },
+    {
+      "uid": "u3940",
+      "pass": 1,
+      "before": "Bishtimela... What's the other one?",
+      "after": "{{Bishtimela}}... What's the other one?"
+    },
+    {
+      "uid": "u3957",
+      "pass": 1,
+      "before": "um, as a Donmari, it is truly my dream to see peace in this land.",
+      "after": "um, as a Dunmari, it is truly my dream to see peace in this land."
+    },
+    {
+      "uid": "u3973",
+      "pass": 1,
+      "before": "you know, but Kenzo kind of like, you know, is like, \"What's Hovdarr been up to, you know?\"",
+      "after": "you know, but Kenzo kind of like, you know, is like, \"What's Havdar been up to, you know?\""
+    },
+    {
+      "uid": "u3974",
+      "pass": 1,
+      "before": "Uh, Hovdarr is basically...",
+      "after": "Uh, Havdar is basically..."
+    },
+    {
+      "uid": "u3975",
+      "pass": 1,
+      "before": "I mean, Hovdarr has sworn himself to her service.",
+      "after": "I mean, Havdar has sworn himself to her service."
+    },
+    {
+      "uid": "u3976",
+      "pass": 1,
+      "before": "Hovdarr is, like, completely taken by her.",
+      "after": "Havdar is, like, completely taken by her."
+    },
+    {
+      "uid": "u3977",
+      "pass": 1,
+      "before": "Actually, actually, this is something we can ask, I mean, you know, just to, to Surya.",
+      "after": "Actually, actually, this is something we can ask, I mean, you know, just to, to Sura."
+    },
+    {
+      "uid": "u4000",
+      "pass": 1,
+      "before": "Bishtma, the Bishtma Monastery fell before she was kidnapped, right?",
+      "after": "Bhishma, the Bhishma Monastery fell before she was kidnapped, right?"
+    },
+    {
+      "uid": "u4016",
+      "pass": 1,
+      "before": "I ride with Hovdarr and his bands to",
+      "after": "I ride with Havdar and his bands to"
+    },
+    {
+      "uid": "u4051",
+      "pass": 1,
+      "before": "Seek, send messages to Hovdar should you need it.",
+      "after": "Seek, send messages to Havdar should you need it."
+    },
+    {
+      "uid": "u4069",
+      "pass": 1,
+      "before": "Before we leave Nyansura, I'm gonna...",
+      "after": "Before we leave Nayan Sura, I'm gonna..."
+    },
+    {
+      "uid": "u4070",
+      "pass": 1,
+      "before": "Wellby's gonna give her a, a neatly drawn map on a piece of paper of Ravenshold, both the fortress side and the",
+      "after": "Wellby's gonna give her a, a neatly drawn map on a piece of paper of Raven's Hold, both the fortress side and the"
+    },
+    {
+      "uid": "u4074",
+      "pass": 1,
+      "before": "Ravenshold guards the road north again",
+      "after": "Raven's Hold guards the road north again"
+    },
+    {
+      "uid": "u4119",
+      "pass": 1,
+      "before": "It, it, you know, there's not much out past Basuda.",
+      "after": "It, it, you know, there's not much out past Bas Udda."
+    },
+    {
+      "uid": "u4135",
+      "pass": 1,
+      "before": "Uh, if they were agatas, for example, it would be quite concerning.",
+      "after": "Uh, if they were Agata's, for example, it would be quite concerning."
+    },
+    {
+      "uid": "u4228",
+      "pass": 1,
+      "before": "It's pretty dangerous to go too far past Basuda, as you get into the real wildlands.",
+      "after": "It's pretty dangerous to go too far past Bas Udda, as you get into the real wildlands."
+    },
+    {
+      "uid": "u4263",
+      "pass": 1,
+      "before": "And when this Trogonian",
+      "after": "And when this Chardonian"
+    },
+    {
+      "uid": "u4282",
+      "pass": 1,
+      "before": "Severus. He was an old dude.",
+      "after": "Servius. He was an old dude."
+    },
+    {
+      "uid": "u4319",
+      "pass": 1,
+      "before": "the evil works of the fae creature, Gata Dustmother, trouble us no longer,",
+      "after": "the evil works of the fae creature, Agata Dustmother, trouble us no longer,"
+    },
+    {
+      "uid": "u4325",
+      "pass": 1,
+      "before": "God's willing,",
+      "after": "Gods willing,"
+    },
+    {
+      "uid": "u4331",
+      "pass": 1,
+      "before": "um, you can see, you know, people starting to like file forward, and, and Hovdahr's standing there next to her, um, uh,",
+      "after": "um, you can see, you know, people starting to like file forward, and, and Havdar's standing there next to her, um, uh,"
+    },
+    {
+      "uid": "u4337",
+      "pass": 1,
+      "before": "It seems like most of the people in Carowa are pretty excited about this and, and, you know, are, are moving to,",
+      "after": "It seems like most of the people in Karawa are pretty excited about this and, and, you know, are, are moving to,"
+    },
+    {
+      "uid": "u4343",
+      "pass": 1,
+      "before": "say goodbye to Kendrosa before leaving first thing in the morning.",
+      "after": "say goodbye to Candrosa before leaving first thing in the morning."
+    },
+    {
+      "uid": "u4344",
+      "pass": 1,
+      "before": "And Kendrosa is...",
+      "after": "And Candrosa is..."
+    },
+    {
+      "uid": "u4354",
+      "pass": 1,
+      "before": "Carowa back,",
+      "after": "Karawa back,"
+    },
+    {
+      "uid": "u4368",
+      "pass": 1,
+      "before": "I know that Hovdahr, I know that Sura will want",
+      "after": "I know that Havdar, I know that Sura will want"
+    },
+    {
+      "uid": "u4389",
+      "pass": 1,
+      "before": "Kendrosa, one last question for you before we depart.",
+      "after": "Candrosa, one last question for you before we depart."
+    },
+    {
+      "uid": "u4482",
+      "pass": 1,
+      "before": "Kendrasa thanks you again and, and says, \"I, I hope someday we may see you again in Karawa.",
+      "after": "Candrosa thanks you again and, and says, \"I, I hope someday we may see you again in Karawa."
+    },
+    {
+      "uid": "u4492",
+      "pass": 1,
+      "before": "Thank, thank you, Kendrasa.",
+      "after": "Thank, thank you, Candrosa."
+    },
+    {
+      "uid": "u4539",
+      "pass": 1,
+      "before": "[laughs] I don't know how they think or what they do what they do.",
+      "after": "[laughs] I don't know how they think or why they do what they do."
+    },
+    {
+      "uid": "u4541",
+      "pass": 1,
+      "before": "Drikod, in, in two years I have an appointment in Sambara.",
+      "after": "Drikod, in, in two years I have an appointment in Sembara."
+    },
+    {
+      "uid": "u4569",
+      "pass": 1,
+      "before": "the thought of Chardin, civil war in Dunmar,",
+      "after": "the thought of Chardon, civil war in Dunmar,"
+    },
+    {
+      "uid": "u4579",
+      "pass": 1,
+      "before": "So as you all are leaving, you know, saying your goodbyes as you leave Carowa in the morning, Drikod heading north, the four of you heading west towards Tokra,",
+      "after": "So as you all are leaving, you know, saying your goodbyes as you leave Karawa in the morning, Drikod heading north, the four of you heading west towards Tokra,"
+    },
+    {
+      "uid": "u4580",
+      "pass": 1,
+      "before": "um, Sintra waves a last goodbye, Jumya at her side,",
+      "after": "um, Cintra waves a last goodbye, Jumi at her side,"
+    },
+    {
+      "uid": "u4585",
+      "pass": 1,
+      "before": "important you were to her path back to, to Carowa.",
+      "after": "important you were to her path back to, to Karawa."
+    },
+    {
+      "uid": "u0351",
+      "pass": 2,
+      "before": "Doesn't matter. Doesn't matter Is it, is it, um, is it the case that, like, the el- is the Elven Forest like a well-known thing?",
+      "after": "Doesn't matter. Doesn't matter. Is it, is it, um, is it the case that, like, the el- is the Elven Forest like a well-known thing?"
+    },
+    {
+      "uid": "u1075",
+      "pass": 2,
+      "before": "... scepter So somebody found the Scepter of Command in Kharsan and traded it to Agata in exchange for this ability",
+      "after": "... scepter. So somebody found the Scepter of Command in Kharsan and traded it to Agata in exchange for this ability"
+    },
+    {
+      "uid": "u1101",
+      "pass": 2,
+      "before": "... has, known as Samraats-",
+      "after": "... known as Samraats-"
+    },
+    {
+      "uid": "u1173",
+      "pass": 2,
+      "before": "Don't they have, like, extra planar summer homes and stuff?",
+      "after": "Don't they have, like, extraplanar summer homes and stuff?"
+    },
+    {
+      "uid": "u1177",
+      "pass": 2,
+      "before": "I mean, who knows? There's probably elves hidden in their extra planar summer homes who have been around for 5,000 years.",
+      "after": "I mean, who knows? There's probably elves hidden in their extraplanar summer homes who have been around for 5,000 years."
+    },
+    {
+      "uid": "u1529",
+      "pass": 2,
+      "before": "Shemit?",
+      "after": "{{Shemit}}?"
+    },
+    {
+      "uid": "u1530",
+      "pass": 2,
+      "before": "Oh, that wasn't Shemit, was it?",
+      "after": "Oh, that wasn't {{Shemit}}, was it?"
+    },
+    {
+      "uid": "u1594",
+      "pass": 2,
+      "before": "Zen, do any of you know what that, what that is, that is?",
+      "after": "Then, do any of you know what that, what that is, that is?"
+    },
+    {
+      "uid": "u1600",
+      "pass": 2,
+      "before": "Second year of Drikod, of the reign of {{Drikod III}}",
+      "after": "Second year of {{Drikod,}} of the reign of {{Drikod III}}"
+    },
+    {
+      "uid": "u1788",
+      "pass": 2,
+      "before": "I mean, Sambar, it would be a minor point in Sembaran history.",
+      "after": "I mean, Sembara, it would be a minor point in Sembaran history."
+    },
+    {
+      "uid": "u0439",
+      "pass": 3,
+      "before": "Uh, the boy is her brother, {{Katana}}, who was the first,",
+      "after": "Uh, the boy is her brother, Kotana, who was the first,"
+    },
+    {
+      "uid": "u0674",
+      "pass": 3,
+      "before": "It's not {{Gosh}}. [laughs]",
+      "after": "It's not Grash. [laughs]"
+    },
+    {
+      "uid": "u1050",
+      "pass": 3,
+      "before": "lose when {{Shemut}} was-",
+      "after": "lose when Cha'mutte was-"
+    },
+    {
+      "uid": "u1090",
+      "pass": 3,
+      "before": "she was the instrument of getting {{Siri}} off the throne.",
+      "after": "she was the instrument of getting Sura off the throne."
+    },
+    {
+      "uid": "u1130",
+      "pass": 3,
+      "before": "was this horse, uh, essentially a mortal horse that was thought to be the spirit of {{Chidya}}, one of the gods, who would select the next Samraat.",
+      "after": "was this horse, uh, essentially a mortal horse that was thought to be the spirit of Chidya, one of the gods, who would select the next Samraat."
+    },
+    {
+      "uid": "u1163",
+      "pass": 3,
+      "before": "The elves almost sacrificed their entire race to save humanity from {{Shemite}}.",
+      "after": "The elves almost sacrificed their entire race to save humanity from Cha'mutte."
+    },
+    {
+      "uid": "u1267",
+      "pass": 3,
+      "before": "{{Sinta}}",
+      "after": "Cintra"
+    },
+    {
+      "uid": "u1529",
+      "pass": 3,
+      "before": "{{Shemit}}?",
+      "after": "Cha'mutte?"
+    },
+    {
+      "uid": "u1530",
+      "pass": 3,
+      "before": "Oh, that wasn't {{Shemit}}, was it?",
+      "after": "Oh, that wasn't Cha'mutte, was it?"
+    },
+    {
+      "uid": "u1585",
+      "pass": 3,
+      "before": "of the reign of {{Drikod III}}.",
+      "after": "of the reign of Derik III."
+    },
+    {
+      "uid": "u1600",
+      "pass": 3,
+      "before": "Second year of {{Drikod,}} of the reign of {{Drikod III}}",
+      "after": "Second year of Derik, of the reign of Derik III"
+    },
+    {
+      "uid": "u1612",
+      "pass": 3,
+      "before": "rise to power of {{Shamat}}.",
+      "after": "rise to power of Cha'mutte."
+    },
+    {
+      "uid": "u1614",
+      "pass": 3,
+      "before": "Right, 'cause {{Drikod III}} died two years after the Great War ended, or something like that.",
+      "after": "Right, 'cause Derik III died two years after the Great War ended, or something like that."
+    },
+    {
+      "uid": "u1615",
+      "pass": 3,
+      "before": "And {{Drikod III}} is the king of what?",
+      "after": "And Derik III is the king of what?"
+    },
+    {
+      "uid": "u1621",
+      "pass": 3,
+      "before": "He called himself many things, but we knew him as {{Shamat}}.",
+      "after": "He called himself many things, but we knew him as Cha'mutte."
+    },
+    {
+      "uid": "u1636",
+      "pass": 3,
+      "before": "if {{Shemut}} had been successful",
+      "after": "if Cha'mutte had been successful"
+    },
+    {
+      "uid": "u1681",
+      "pass": 3,
+      "before": "I, I have the doc open. It's {{Aren III}}, but what's the, uh...",
+      "after": "I, I have the doc open. It's Arryn III, but what's the, uh..."
+    },
+    {
+      "uid": "u1685",
+      "pass": 3,
+      "before": "So it's the 17th year of the reign of {{Aren III}}.",
+      "after": "So it's the 17th year of the reign of Arryn III."
+    },
+    {
+      "uid": "u1688",
+      "pass": 3,
+      "before": "And how many years is that since the second reign of {{Derek III}}, the second year of {{Derek III}}?",
+      "after": "And how many years is that since the second reign of Derik III, the second year of Derik III?"
+    },
+    {
+      "uid": "u1741",
+      "pass": 3,
+      "before": "... disagreed with {{Shaman}}-",
+      "after": "... disagreed with Cha'mutte-"
+    },
+    {
+      "uid": "u1793",
+      "pass": 3,
+      "before": "It was the, the budding empor- empire was defeated pretty quickly, so it never became, like, a huge thing that would've been known in {{Chartren}}, in Dunmar, in,",
+      "after": "It was the, the budding empor- empire was defeated pretty quickly, so it never became, like, a huge thing that would've been known in Chardon, in Dunmar, in,"
+    },
+    {
+      "uid": "u1799",
+      "pass": 3,
+      "before": "Of {{Darick II}}",
+      "after": "Of Derik II"
+    },
+    {
+      "uid": "u1869",
+      "pass": 3,
+      "before": "even though she resisted {{Shema}}, I think it's hard to imagine a hobgoblin,",
+      "after": "even though she resisted Cha'mutte, I think it's hard to imagine a hobgoblin,"
+    },
+    {
+      "uid": "u1929",
+      "pass": 3,
+      "before": "what do, what do we need to know? {{Shema}}'s birthday.",
+      "after": "what do, what do we need to know? Cha'mutte's birthday."
+    },
+    {
+      "uid": "u1932",
+      "pass": 3,
+      "before": "... mingled with {{Shema}} directly.",
+      "after": "... mingled with Cha'mutte directly."
+    },
+    {
+      "uid": "u2241",
+      "pass": 3,
+      "before": "{{Samarqi}}, the, the, the oni, the, the blue giant walk in,",
+      "after": "Samerki, the, the, the oni, the, the blue giant walk in,"
+    },
+    {
+      "uid": "u2320",
+      "pass": 3,
+      "before": "{{Samarqi}} is flying in and sort of, you know, he is wreaking havoc.",
+      "after": "Samerki is flying in and sort of, you know, he is wreaking havoc."
+    },
+    {
+      "uid": "u2334",
+      "pass": 3,
+      "before": "beat up, tied up, helpless, either their heads getting bashed in by {{Samarki}} or their throats getting cut by her.",
+      "after": "beat up, tied up, helpless, either their heads getting bashed in by Samerki or their throats getting cut by her."
+    },
+    {
+      "uid": "u2347",
+      "pass": 3,
+      "before": "They were mostly not carrying insignia, but the few that did have any kind of insignia were, were {{Dustthorn}}.",
+      "after": "They were mostly not carrying insignia, but the few that did have any kind of insignia were, were Dustthorn."
+    },
+    {
+      "uid": "u2348",
+      "pass": 3,
+      "before": "Uh, the first two that you saw definitely were {{Dustthorn}}, and occasional others.",
+      "after": "Uh, the first two that you saw definitely were Dustthorn, and occasional others."
+    },
+    {
+      "uid": "u2379",
+      "pass": 3,
+      "before": "And the {{liquid wood}} too, we should destroy, just to-",
+      "after": "And the liquid wood too, we should destroy, just to-"
+    },
+    {
+      "uid": "u2445",
+      "pass": 3,
+      "before": "Saw {{Shamut}}'s rise.",
+      "after": "Saw Cha'mutte's rise."
+    },
+    {
+      "uid": "u2546",
+      "pass": 3,
+      "before": "{{Shamud}}.",
+      "after": "Cha'mutte."
+    },
+    {
+      "uid": "u2574",
+      "pass": 3,
+      "before": "Uh, but like me, was a warrior in the battle against {{Shamud}}, and suffered the same fate.",
+      "after": "Uh, but like me, was a warrior in the battle against Cha'mutte, and suffered the same fate."
+    },
+    {
+      "uid": "u2583",
+      "pass": 3,
+      "before": "{{Anita}},",
+      "after": "Anida,"
+    },
+    {
+      "uid": "u2586",
+      "pass": 3,
+      "before": "But it said that the Heart of Shakun was blessed by {{Anita}}.",
+      "after": "But it said that the Heart of Shakun was blessed by Anida."
+    },
+    {
+      "uid": "u2612",
+      "pass": 3,
+      "before": "known variously as many things, but to most Chardonians and Dunmari anyway, as {{Arat}} and {{Malek}}.",
+      "after": "known variously as many things, but to most Chardonians and Dunmari anyway, as Arhat and Malik."
+    },
+    {
+      "uid": "u2628",
+      "pass": 3,
+      "before": "They may all be killed. They all, may all be dead from the hobgoblins and {{Shamud}}'s wars.",
+      "after": "They may all be killed. They all, may all be dead from the hobgoblins and Cha'mutte's wars."
+    },
+    {
+      "uid": "u2684",
+      "pass": 3,
+      "before": "and then sail to, to {{Darba}}, and then pick up the road here, like down to {{Nihar}} and across to {{Askandi}},",
+      "after": "and then sail to, to Darba, and then pick up the road here, like down to Nayahar and across to Askandi,"
+    },
+    {
+      "uid": "u2692",
+      "pass": 3,
+      "before": "So the Chardonian Empire stretches as far north as the city {{Voltarra}}.",
+      "after": "So the Chardonian Empire stretches as far north as the city Voltara."
+    },
+    {
+      "uid": "u2702",
+      "pass": 3,
+      "before": "There was rumors in, in the vision I saw of the Kenku to the north being slaughtered by {{Shamut}}'s armies that trickled down to them.",
+      "after": "There was rumors in, in the vision I saw of the Kenku to the north being slaughtered by Cha'mutte's armies that trickled down to them."
+    },
+    {
+      "uid": "u2714",
+      "pass": 3,
+      "before": "They, they were on the borders of {{Pandar}} and Sh- whatever it's called now.",
+      "after": "They, they were on the borders of Pandar and Sh- whatever it's called now."
+    },
+    {
+      "uid": "u2715",
+      "pass": 3,
+      "before": "And {{Shamut}} slaughtered them all.",
+      "after": "And Cha'mutte slaughtered them all."
+    },
+    {
+      "uid": "u2748",
+      "pass": 3,
+      "before": "Ba- {{Baijah}}, all she said was that they, Tokra was a, was a,",
+      "after": "Ba- Badya, all she said was that they, Tokra was a, was a,"
+    },
+    {
+      "uid": "u2769",
+      "pass": 3,
+      "before": "the sense {{Baijah}} said was that",
+      "after": "the sense Badya said was that"
+    },
+    {
+      "uid": "u2823",
+      "pass": 3,
+      "before": "{{Marthu}}, who was the, um, pre- the old, an old elder who was sort of the caretaker ruler prior to Sura's, uh,",
+      "after": "Marathu, who was the, um, pre- the old, an old elder who was sort of the caretaker ruler prior to Sura's, uh,"
+    },
+    {
+      "uid": "u2829",
+      "pass": 3,
+      "before": "{{Marathu}} had been like, \"She's my heir.\"",
+      "after": "Marathu had been like, \"She's my heir.\""
+    },
+    {
+      "uid": "u2834",
+      "pass": 3,
+      "before": "{{Marthu}} was, was a, was a...",
+      "after": "Marathu was, was a, was a..."
+    },
+    {
+      "uid": "u2835",
+      "pass": 3,
+      "before": "He, someone told me, someone, one of the, one of the elders in Karawa who liked to reminisce about the old days, told me {{Marthu}} did more than almost anybody to reconnect",
+      "after": "He, someone told me, someone, one of the, one of the elders in Karawa who liked to reminisce about the old days, told me Marathu did more than almost anybody to reconnect"
+    },
+    {
+      "uid": "u2841",
+      "pass": 3,
+      "before": "Sura disappears, and then {{Marthu}} is killed by orcs on the edge of the Garamjala Desert, where,",
+      "after": "Sura disappears, and then Marathu is killed by orcs on the edge of the Garamjala Desert, where,"
+    },
+    {
+      "uid": "u2845",
+      "pass": 3,
+      "before": "I, I would guess Agata had no particular care about what happened, but perhaps was paid or enticed with something to get rid of the traditionalists, {{Marthu}} and Sura both.",
+      "after": "I, I would guess Agata had no particular care about what happened, but perhaps was paid or enticed with something to get rid of the traditionalists, Marathu and Sura both."
+    },
+    {
+      "uid": "u3051",
+      "pass": 3,
+      "before": "I saw the destruction of {{Shemut}}",
+      "after": "I saw the destruction of Cha'mutte"
+    },
+    {
+      "uid": "u3122",
+      "pass": 3,
+      "before": "{{Shemut}} in the Great War.",
+      "after": "Cha'mutte in the Great War."
+    },
+    {
+      "uid": "u3192",
+      "pass": 3,
+      "before": "clearly {{Shemut}}'s allies could, had items that brought them there,",
+      "after": "clearly Cha'mutte's allies could, had items that brought them there,"
+    },
+    {
+      "uid": "u3255",
+      "pass": 3,
+      "before": "perhaps that's where {{Francar}} has gone.",
+      "after": "perhaps that's where Frankar has gone."
+    },
+    {
+      "uid": "u3399",
+      "pass": 3,
+      "before": "Then we'll give Rai the {{Sundry command}}.",
+      "after": "Then we'll give Rai the Scepter of Command."
+    },
+    {
+      "uid": "u3499",
+      "pass": 3,
+      "before": "the ones who were killed by {{Samarkia}}'s blast of cold, the ones who were tricked and in being tricked, possibly saved your life as she was able",
+      "after": "the ones who were killed by Samerki's blast of cold, the ones who were tricked and in being tricked, possibly saved your life as she was able"
+    }
+  ],
+  "evidence": [
+    "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 32 (DuFr).md",
+    "People/Dunmari/Candrosa.md",
+    "Gods and Religions/Gods/Embodied Gods/Entamba.md",
+    "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Jeevali.md",
+    "People/PCs/Great War/Kyr.md",
+    "People/PCs/Great War/Companions/Dimitaur.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Mirror of the Past.md",
+    "People/Historical Figures/Dunmari Rulers/Kotana.md",
+    "People/Other Nonhumans/Grash.md",
+    "People/Extraplanar Powers/Cha'mutte.md",
+    "People/Other Nonhumans/Samerki.md",
+    "Gods and Religions/Gods/Incorporeal Gods/Dunmari Pantheon/Chidya.md",
+    "Groups/Orc Hordes/Dustthorn Horde.md",
+    "People/Historical Figures/Sembaran Royalty/Derik III.md",
+    "People/Historical Figures/Sembaran Royalty/Derik II.md",
+    "People/Historical Figures/Sembaran Royalty/Arryn III.md",
+    "Gods and Religions/Gods/High Gods/Divine Presence.md",
+    "People/Dunmari/Badya.md",
+    "People/Historical Figures/Dunmari Rulers/Marathu.md",
+    "People/Dwarves/Frankar.md",
+    "Things/Artifacts of Power/Scepter of Command.md",
+    "Campaigns/Dunmari Frontier Campaign/Treasure/Liquid Wood.md",
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Western Dunmar/Nayahar.md",
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Central Dunmar/Askandi.md",
+    "Gazetteer/Greater Dunmar/Realms/Dunmar/Coastal Dunmar/Darba/Darba.md",
+    "Gazetteer/Northwest Coast/Northern Provinces/Voltara/Voltara.md",
+    "History/Historical Realms/Pandar.md"
+  ]
+}

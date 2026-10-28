@@ -2938,7 +2938,7 @@
 [u2938 | 04:13:48.910-04:13:52.650 | Wellby] the exit near Eudomes' tower, to the east of there
 [u2939 | 04:13:53.550-04:13:55.600 | DM] Lastlight Falls
 [u2940 | 04:13:58.820-04:14:01.030 | DM] Lastlight Falls
-[u2941 | 04:14:01.210-04:14:02.890 | Wellby] {{last one for life}}.
+[u2941 | 04:14:01.210-04:14:02.890 | Wellby] Lastlight Falls.
 [u2942 | 04:14:05.150-04:14:11.410 | Wellby] If I could ask your indulgence, I reach into a pouch at my waist
 [u2943 | 04:14:11.550-04:14:15.900 | Wellby] and pull out a small carved ebony fly.
 [u2944 | 04:14:16.240-04:14:24.519 | Wellby] I've carried this with me for months now, ever since I took it from Agata, who we killed in the deserts to the east of Dunmar.

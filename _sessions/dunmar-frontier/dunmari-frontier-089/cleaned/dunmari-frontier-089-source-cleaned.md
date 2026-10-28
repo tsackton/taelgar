@@ -354,7 +354,7 @@
 [u0354 | 00:42:50.240-00:42:55.940 | Delwath] Huh! But it it started, not found. And it ended. There's no people in that one?
 [u0355 | 00:42:58.170-00:42:59.789 | Kenzo] Yeah. So I think.
 [u0356 | 00:42:59.880-00:43:02.940 | Kenzo] where did Alcarinque? Where? How? Where? Is it? On the map?
-[u0357 | 00:43:04.780-00:43:14.030 | DM] It's like {{drain everywhere}}. It's like Drankor Dunmar all the way north to {{Orange}}, and then all the way around the mountains to
+[u0357 | 00:43:04.780-00:43:14.030 | DM] It's like {{drain everywhere}}. It's like Drankor Dunmar all the way north to Orenlas, and then all the way around the mountains to
 [u0358 | 00:43:14.220-00:43:17.560 | Kenzo] Nice. Nice. It was huge. Yeah.
 [u0359 | 00:43:18.250-00:43:21.100 | Delwath] but there's no jungles in that stretch.
 [u0360 | 00:43:21.920-00:43:28.100 | Delwath] Well, maybe. Oh, but maybe down by Drankor that's by Drankor, of course.
@@ -661,7 +661,7 @@
 [u0661 | 01:11:52.550-01:11:59.380 | Delwath] Okay, maybe when we're leaving, I'll sort of, although the mystery is solved as to why it was here. So.
 [u0662 | 01:11:59.810-01:12:04.789 | Delwath] But Hi, I'm here. Randomness, as far as I can tell
 [u0663 | 01:12:05.600-01:12:11.389 | Delwath] it it it this Deno'qai fire Druid cracked open the
-[u0664 | 01:12:11.580-01:12:17.639 | Delwath] destroyed, the {{1,000}} that had teleported Delwath to another plane, which is why he escaped.
+[u0664 | 01:12:11.580-01:12:17.639 | Delwath] destroyed, the armband that had teleported Delwath to another plane, which is why he escaped.
 [u0665 | 01:12:19.120-01:12:19.830 | Delwath] But
 [u0666 | 01:12:22.950-01:12:27.190 | Delwath] I'll do detect magic, too, just as part of
 [u0667 | 01:12:27.560-01:12:28.689 | Riswynn] thank you.
@@ -718,7 +718,7 @@
 [u0718 | 01:17:01.220-01:17:03.969 | Seeker] But it's not like those need to live in a stable or something.
 [u0719 | 01:17:05.890-01:17:11.239 | DM] I mean, you get the sense from looting the Army camp. That Grash was not really one, for, like
 [u0720 | 01:17:12.630-01:17:13.810 | DM] writing
-[u0721 | 01:17:13.880-01:17:28.870 | DM] stuff down like he didn't have a log book he didn't have like this is not, {{ergo, the black}}. He wasn't like leaving messages to himself in the cipher or drawing helpful battle plans kept everything in his head.
+[u0721 | 01:17:13.880-01:17:28.870 | DM] stuff down like he didn't have a log book he didn't have like this is not, Urgall the Black. He wasn't like leaving messages to himself in the cipher or drawing helpful battle plans kept everything in his head.
 [u0722 | 01:17:30.410-01:17:31.110 | Kenzo] Yep.
 [u0723 | 01:17:32.770-01:17:36.060 | Delwath] we're really looking more than anything for
 [u0724 | 01:17:36.430-01:17:39.880 | Delwath] something we could show. The mirror probably is our best bet, exactly
@@ -1370,7 +1370,7 @@
 [u1370 | 02:16:38.139-02:16:41.089 | Riswynn] or a fun craft project.
 [u1371 | 02:16:41.370-02:16:44.969 | Delwath] You could fix it up. I don't. I?
 [u1372 | 02:16:45.150-02:16:47.670 | Delwath] Not much use for this sword, but you know.
-[u1373 | 02:16:49.100-02:16:55.309 | Kenzo] Maybe you can give {{hop there}} a non cursed gift for once.
+[u1373 | 02:16:49.100-02:16:55.309 | Kenzo] Maybe you can give Havdar a non cursed gift for once.
 [u1374 | 02:16:59.690-02:17:01.110 | Delwath] Alright, shall we?
 [u1375 | 02:17:02.160-02:17:11.560 | Riswynn] Is that Aagir one of his God? That's the same.
 [u1376 | 02:17:16.600-02:17:17.469 | DM] So
@@ -1419,7 +1419,7 @@
 [u1419 | 02:21:32.010-02:21:34.119 | Delwath] I have found
 [u1420 | 02:21:35.560-02:21:36.380 | Delwath] some
 [u1421 | 02:21:37.590-02:21:41.149 | Delwath] measure of peace in my companions, and he
-[u1422 | 02:21:41.720-02:21:47.489 | Delwath] you can sort of it's unclear if he's referring to the {{tauntie}} or you guys, but he leaves it a bit ambiguous.
+[u1422 | 02:21:41.720-02:21:47.489 | Delwath] you can sort of it's unclear if he's referring to the tanshi or you guys, but he leaves it a bit ambiguous.
 [u1423 | 02:21:47.640-02:21:52.930 | DM] and you changed your armor was never sure of that shadow armor.
 [u1424 | 02:21:57.770-02:21:59.210 | Delwath] Yes, the
 [u1425 | 02:22:02.260-02:22:05.899 | Delwath] the Shadowland was

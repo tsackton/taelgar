@@ -1,0 +1,90 @@
+--- before/u0179
++++ after/u0179
+@@ -1 +1 @@
+-[u0179 | 00:19:08.110-00:19:14.770 | DM] homeland of the {{sealf}} who joined you in your
++[u0179 | 00:19:08.110-00:19:14.770 | DM] homeland of the sea elf who joined you in your
+--- before/u0187
++++ after/u0187
+@@ -1 +1 @@
+-[u0187 | 00:19:56.850-00:20:05.590 | Delwath] You've underestimated our appetite for side quests. But I really want to go to the blessed springs of {{bursa}}. This the sunken garden of in
++[u0187 | 00:19:56.850-00:20:05.590 | Delwath] You've underestimated our appetite for side quests. But I really want to go to the blessed springs of Beresa. This the sunken garden of in
+--- before/u0188
++++ after/u0188
+@@ -1 +1 @@
+-[u0188 | 00:20:05.890-00:20:09.079 | Delwath] in {{Vulus}}, who doesn't wanna go to a sunken garden.
++[u0188 | 00:20:05.890-00:20:09.079 | Delwath] in Inulvis, who doesn't wanna go to a sunken garden.
+--- before/u0425
++++ after/u0425
+@@ -1 +1 @@
+-[u0425 | 00:45:07.140-00:45:14.579 | Delwath] None of our magic was able to tell {{that the elf was}}. Soul Sight did not reveal that {{Mesar}}
++[u0425 | 00:45:07.140-00:45:14.579 | Delwath] None of our magic was able to tell {{that the elf was}}. Soul Sight did not reveal that Mezzar
+--- before/u0670
++++ after/u0670
+@@ -1 +1 @@
+-[u0670 | 01:06:55.260-01:06:59.910 | Delwath] Have you heard of the blessed springs of {{Verisa}}.
++[u0670 | 01:06:55.260-01:06:59.910 | Delwath] Have you heard of the blessed springs of Beresa.
+--- before/u0671
++++ after/u0671
+@@ -1 +1 @@
+-[u0671 | 01:07:00.570-01:07:03.410 | Delwath] or the sunken garden of {{Invoice}}?
++[u0671 | 01:07:00.570-01:07:03.410 | Delwath] or the sunken garden of Inulvis?
+--- before/u0797
++++ after/u0797
+@@ -1 +1 @@
+-[u0797 | 01:21:45.380-01:21:51.820 | DM] Few of them speak the trade tongue of the Far East {{East jars}} which
++[u0797 | 01:21:45.380-01:21:51.820 | DM] Few of them speak the trade tongue of the Far East Eastros which
+--- before/u1167
++++ after/u1167
+@@ -1 +1 @@
+-[u1167 | 02:02:06.400-02:02:14.329 | Delwath] that of {{Invalis}}. But I can't figure out, you know I've never heard of {{infest}} right. Is that a thing that you've heard of
++[u1167 | 02:02:06.400-02:02:14.329 | Delwath] that of Inulvis. But I can't figure out, you know I've never heard of Inulvis right. Is that a thing that you've heard of
+--- before/u1374
++++ after/u1374
+@@ -1 +1 @@
+-[u1374 | 02:21:48.500-02:22:01.059 | DM] but you pick up a few bits of information. The first one is is so the multiple people halflings. Others know the holy wells of {{Parma}}.
++[u1374 | 02:21:48.500-02:22:01.059 | DM] but you pick up a few bits of information. The first one is is so the multiple people halflings. Others know the holy wells of Parmo.
+--- before/u1375
++++ after/u1375
+@@ -1 +1 @@
+-[u1375 | 02:22:02.100-02:22:08.540 | DM] The holy wells of {{Parmo}} are a small on a small island off the coast of Sembara.
++[u1375 | 02:22:02.100-02:22:08.540 | DM] The holy wells of Parmo are a small on a small island off the coast of Sembara.
+--- before/u1398
++++ after/u1398
+@@ -1 +1 @@
+-[u1398 | 02:24:35.480-02:24:53.469 | DM] the the Skaer. Yes, {{Brand}} and Kaupa were like trying to recruit mercenaries. Yeah, go right. So this is like everybody knows about Vetta. Obviously Quanyi. Nobody's heard about like {{Nicasa}}.
++[u1398 | 02:24:35.480-02:24:53.469 | DM] the the Skaer. Yes, {{Brand}} and Kaupa were like trying to recruit mercenaries. Yeah, go right. So this is like everybody knows about Vetta. Obviously Quanyi. Nobody's heard about like Nkasa.
+--- before/u1400
++++ after/u1400
+@@ -1 +1 @@
+-[u1400 | 02:24:57.590-02:25:00.429 | DM] {{Faressa}}. Nobody's heard about
++[u1400 | 02:24:57.590-02:25:00.429 | DM] Beresa. Nobody's heard about
+--- before/u1401
++++ after/u1401
+@@ -1 +1 @@
+-[u1401 | 02:25:01.620-02:25:07.740 | DM] {{in all this}} like you get a couple people who think like, Oh, maybe that's on that big island.
++[u1401 | 02:25:01.620-02:25:07.740 | DM] Inulvis like you get a couple people who think like, Oh, maybe that's on that big island.
+--- before/u1403
++++ after/u1403
+@@ -1 +1 @@
+-[u1403 | 02:25:15.420-02:25:21.170 | Unknown] but nobody really knows, for sure. The holy Wells of {{Parma}} are the only one that's like. sort of obvious.
++[u1403 | 02:25:15.420-02:25:21.170 | Unknown] but nobody really knows, for sure. The holy Wells of Parmo are the only one that's like. sort of obvious.
+--- before/u1407
++++ after/u1407
+@@ -1 +1 @@
+-[u1407 | 02:25:33.650-02:25:38.659 | DM] island off the coast {{instead}}. Yeah, that. Yeah. He was at {{for a month}}.
++[u1407 | 02:25:33.650-02:25:38.659 | DM] island off the coast {{instead}}. Yeah, that. Yeah. He was at Parmo.
+--- before/u1515
++++ after/u1515
+@@ -1 +1 @@
+-[u1515 | 02:36:59.460-02:37:05.960 | DM] There were people who never, {{and to them}}, though a lot of them died in the war, but {{Aaron}}
++[u1515 | 02:36:59.460-02:37:05.960 | DM] There were people who never, {{and to them}}, though a lot of them died in the war, but Aerin
+--- before/u1517
++++ after/u1517
+@@ -1 +1 @@
+-[u1517 | 02:37:10.510-02:37:19.270 | DM] at the end of high school, was like on the ruins of the {{early monastery}}, which never seemed to make much sense. So we moved them to the far north.
++[u1517 | 02:37:10.510-02:37:19.270 | DM] at the end of high school, was like on the ruins of the Urlich Monastery, which never seemed to make much sense. So we moved them to the far north.
+--- before/u1831
++++ after/u1831
+@@ -1 +1 @@
+-[u1831 | 03:11:45.380-03:11:52.940 | DM] true divinity right? That's that's the duality of {{our and molecular}} in the Mos Numena, and that
++[u1831 | 03:11:45.380-03:11:52.940 | DM] true divinity right? That's that's the duality of Arha and Malik in the Mos Numena, and that

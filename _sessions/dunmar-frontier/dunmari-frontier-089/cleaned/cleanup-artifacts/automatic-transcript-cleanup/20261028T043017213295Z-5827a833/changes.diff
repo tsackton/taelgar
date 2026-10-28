@@ -1,0 +1,25 @@
+--- before/u0357
++++ after/u0357
+@@ -1 +1 @@
+-[u0357 | 00:43:04.780-00:43:14.030 | DM] It's like {{drain everywhere}}. It's like Drankor Dunmar all the way north to {{Orange}}, and then all the way around the mountains to
++[u0357 | 00:43:04.780-00:43:14.030 | DM] It's like {{drain everywhere}}. It's like Drankor Dunmar all the way north to Orenlas, and then all the way around the mountains to
+--- before/u0664
++++ after/u0664
+@@ -1 +1 @@
+-[u0664 | 01:12:11.580-01:12:17.639 | Delwath] destroyed, the {{1,000}} that had teleported Delwath to another plane, which is why he escaped.
++[u0664 | 01:12:11.580-01:12:17.639 | Delwath] destroyed, the armband that had teleported Delwath to another plane, which is why he escaped.
+--- before/u0721
++++ after/u0721
+@@ -1 +1 @@
+-[u0721 | 01:17:13.880-01:17:28.870 | DM] stuff down like he didn't have a log book he didn't have like this is not, {{ergo, the black}}. He wasn't like leaving messages to himself in the cipher or drawing helpful battle plans kept everything in his head.
++[u0721 | 01:17:13.880-01:17:28.870 | DM] stuff down like he didn't have a log book he didn't have like this is not, Urgall the Black. He wasn't like leaving messages to himself in the cipher or drawing helpful battle plans kept everything in his head.
+--- before/u1373
++++ after/u1373
+@@ -1 +1 @@
+-[u1373 | 02:16:49.100-02:16:55.309 | Kenzo] Maybe you can give {{hop there}} a non cursed gift for once.
++[u1373 | 02:16:49.100-02:16:55.309 | Kenzo] Maybe you can give Havdar a non cursed gift for once.
+--- before/u1422
++++ after/u1422
+@@ -1 +1 @@
+-[u1422 | 02:21:41.720-02:21:47.489 | Delwath] you can sort of it's unclear if he's referring to the {{tauntie}} or you guys, but he leaves it a bit ambiguous.
++[u1422 | 02:21:41.720-02:21:47.489 | Delwath] you can sort of it's unclear if he's referring to the tanshi or you guys, but he leaves it a bit ambiguous.

@@ -2434,7 +2434,7 @@
 [u2434 | 02:09:34.840-02:09:35.440 | DM] bye.
 [u2435 | 02:09:35.795-02:09:36.150 | Delwath] Out!
 [u2436 | 02:09:37.430-02:09:39.065 | DM] You're detecting magic.
-[u2437 | 02:09:39.610-02:09:48.009 | Delwath] And once I have detect magic. I wanna you know, search that search the top of the basically search through the guard post. The {{merge}}.
+[u2437 | 02:09:39.610-02:09:48.009 | Delwath] And once I have detect magic. I wanna you know, search that search the top of the basically search through the guard post. The merfolk.
 [u2438 | 02:09:48.010-02:09:48.390 | DM] Okay.
 [u2439 | 02:09:48.390-02:09:49.780 | Delwath] Bodies.
 [u2440 | 02:09:50.060-02:09:56.349 | Wellby] We? We would have brought the trident with us, presumably. So if that's magic that's worth going to.
@@ -2642,7 +2642,7 @@
 [u2642 | 02:22:31.620-02:22:33.460 | DM] human coins.
 [u2643 | 02:22:34.070-02:22:36.580 | DM] some just a handful like.
 [u2644 | 02:22:37.440-02:22:41.800 | DM] you know, 30 or so, some Chardonian, a couple
-[u2645 | 02:22:42.100-02:22:44.660 | DM] {{you want the}} dwarven coins.
+[u2645 | 02:22:42.100-02:22:44.660 | DM] Yuvanti dwarven coins.
 [u2646 | 02:22:44.750-02:22:52.972 | DM] a few that are just utterly strange that are unrecognizable. Don't match with any human coin, or elven, or dwarven coin you've seen
 [u2647 | 02:22:55.130-02:22:59.249 | DM] And then one of the guards also has a
 [u2648 | 02:22:59.390-02:23:06.040 | DM] silver ring set with a small blue sapphire, the inside of which is engraved to my beloved Tilly.
@@ -3046,7 +3046,7 @@
 [u3046 | 02:46:46.150-02:46:46.920 | DM] Okay.
 [u3047 | 02:46:47.630-02:46:50.509 | DM] are you just leaving them tied up? What are you doing with this guy?
 [u3048 | 02:46:55.660-02:46:56.909 | Riswynn] He's not gonna.
-[u3049 | 02:46:58.100-02:46:59.370 | Wellby] We'll leave them for {{Delaware}}.
+[u3049 | 02:46:58.100-02:46:59.370 | Wellby] We'll leave them for Delwath.
 [u3050 | 02:47:02.480-02:47:09.240 | DM] I mean, if what he's telling you is true, somebody's gonna show up through the portal in like 3 h, and it would be pretty obvious
 [u3051 | 02:47:09.500-02:47:11.330 | DM] what happened, so
 [u3052 | 02:47:11.520-02:47:18.380 | DM] killing him, not killing him doesn't actually save you. Much time doesn't delay the warning very long.
@@ -3440,7 +3440,7 @@
 [u3440 | 03:11:22.760-03:11:25.299 | DM] the there are definitely. There are 8.
 [u3441 | 03:11:25.800-03:11:31.030 | DM] There are 8 halflings inside this bubble, close to the center of the bubble.
 [u3442 | 03:11:31.180-03:11:32.490 | Kenzo] What
-[u3443 | 03:11:32.950-03:11:34.310 | Kenzo] you hear that {{Lonnie}}.
+[u3443 | 03:11:32.950-03:11:34.310 | Kenzo] you hear that Wellby.
 [u3444 | 03:11:35.060-03:11:35.750 | Wellby] Yep.
 [u3445 | 03:11:36.370-03:11:37.470 | Kenzo] Is that unexpected.
 [u3446 | 03:11:38.090-03:11:40.309 | Wellby] That's just what we expect.

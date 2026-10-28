@@ -1,0 +1,342 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-124",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-124/cleaned/dunmari-frontier-124-source-cleaned.md",
+  "beforeSha256": "539a45810cec99c22beed9d01d3cd868aed960d87edd1c92e2f95fa48b4739f9",
+  "afterSha256": "9fb77a12d86b76749d8e385e42b79fde3d9f652a9074edda8b7b8ec757855407",
+  "markersBefore": 23,
+  "groups": [
+    {
+      "id": "chamutte",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Delwath is describing his escape from the shadow realm connected to Cha'mutte's armbands. The established name and pronunciation resolve the possessive marked form.",
+      "evidence": [
+        {
+          "path": "People/Extraplanar Powers/Cha'mutte.md",
+          "sha256": "1b8dca16f7ede3715d32bf7fe0e44adc3dbc4c016fade83c34f92f41433291eb"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Cha'mutte’s Shadow Armband.md",
+          "sha256": "0edb695e26076d70494322453cf02468b5f1ee1b89ab3dfdfb36e7107c04e61b"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0130:m1"
+      ],
+      "replacements": {
+        "u0130:m1": "Cha'mutte's"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "chasa",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The conversation describes the river's north bank in Chardon. The North Bank reference identifies that river uniquely as the Chasa, favoring it over an otherwise unattested Chaucan.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Chasa.md",
+          "sha256": "93e01ea3c9eba95a99e5a9592afaab659f63e2a7a04e5c1d0a90cd800e177f74"
+        },
+        {
+          "path": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/North Bank.md",
+          "sha256": "a3699258983c540d21b50a7d9947b0e2fb6a0e18909e16319eaa2cf520af4293"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0822:m1"
+      ],
+      "replacements": {
+        "u0822:m1": "Chasa"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "cleansed-fragments",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The surrounding exchange concerns the Cleansed, but the damaged phrases and final 'Clan' do not establish exact spoken wording. Membership and magical possession are being distinguished; reconstructing a phrase or choosing Cleansed over an ordinary-word fragment would risk changing that distinction.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Agon.md",
+          "sha256": "f90d862e59a434fe30f4fd69466fbbfc9bf0eda3c6ffba6da6b874036b1ede6a"
+        },
+        {
+          "path": "Groups/The Cleansed.md",
+          "sha256": "465b3d08089bf840ad00d7c2941b9edc607e358bdc7f569fb9b1c51026987627"
+        }
+      ],
+      "candidates": [
+        "Cleansed"
+      ],
+      "markerIds": [
+        "u1881:m1",
+        "u1882:m1",
+        "u1884:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1881:m1": "{{this client}}",
+        "u1882:m1": "{{not cleansed himself}}",
+        "u1884:m1": "{{Clan}}"
+      }
+    },
+    {
+      "id": "kylos-market",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The marked market name is already recognizable; the reference confirms its capitalization and the matching Pandemonium incident.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Kylos Market.md",
+          "sha256": "3391639d4f44fb9c358434e1f9834099fe2f1c5cc0871304e278218601eaaab2"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0873:m1"
+      ],
+      "replacements": {
+        "u0873:m1": "Kylos Market"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "manifesto-title",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The span names the manifesto being discussed. The contextual timeline documents its title; the phonetic recognition is less certain than the matching subject and role.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Session 124 - 128 (Chardon)/Chardon Timeline.md",
+          "sha256": "dff7dcf5df24ae3ef4eae201b4d44b59a978f46090cb9c2e59badec2917b8ab1"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0784:m1"
+      ],
+      "replacements": {
+        "u0784:m1": "Break the Stone"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ordinary-wording-and-mechanics",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary dialogue, jokes, incomplete wording, and spell or bastion discussion are outside this name pass. The longer 'one of the cleansed' span includes surrounding prose rather than an isolated name; retain the whole span without reconstructing or partially unmarking it.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0204:m1",
+        "u0267:m1",
+        "u0284:m1",
+        "u0434:m1",
+        "u0481:m1",
+        "u0954:m1",
+        "u1010:m1",
+        "u1060:m1",
+        "u1075:m1",
+        "u1430:m1",
+        "u1627:m1",
+        "u1712:m1",
+        "u1760:m1",
+        "u1872:m1",
+        "u2014:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0204:m1": "{{Now I've done them}}",
+        "u0267:m1": "{{For us}}",
+        "u0284:m1": "{{heard}}",
+        "u0434:m1": "{{trows off}}",
+        "u0481:m1": "{{but I for now}}",
+        "u0954:m1": "{{improvement}}",
+        "u1010:m1": "{{take up when}}",
+        "u1060:m1": "{{if wants}}",
+        "u1075:m1": "{{isn't something some sort of successful}}",
+        "u1430:m1": "{{Mediterranean}}",
+        "u1627:m1": "{{didn't know}}",
+        "u1712:m1": "{{he went right on}}",
+        "u1760:m1": "{{Inc.}}",
+        "u1872:m1": "{{one of the cleansed}}",
+        "u2014:m1": "{{Detroit}}"
+      }
+    },
+    {
+      "id": "tilly",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The speaker pairs this sailor with Milo Thistlefoot and identifies the Copperharps as their former crew. Tilly is Milo's documented wife and sailing companion; no separate Ellie is established in this context.",
+      "evidence": [
+        {
+          "path": "People/Halflings/Tilly Brineheart.md",
+          "sha256": "edf745588cfdc9661ab12d71abd6b462904864f791c3c5e7b60b0ca2ca31baf9"
+        },
+        {
+          "path": "People/Halflings/Mica Copperharp.md",
+          "sha256": "34f5079db67dc2754a0756b658cd2ca321e24d1b9e6217dac4cf140937e61a6d"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0084:m1"
+      ],
+      "replacements": {
+        "u0084:m1": "Tilly"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0084:m1",
+      "uid": "u0084",
+      "ordinal": 1,
+      "lineNumber": 84,
+      "start": 133,
+      "end": 142,
+      "before": "{{Ellie}}",
+      "span": "Ellie",
+      "line": "[u0084 | 00:06:48.933-00:06:59.170 | DM] the halflings, Mica and Willow Copperharp, who joined you, as crew of Milo Thistlefoot, and {{Ellie}}.",
+      "contextBefore": [
+        "[u0082 | 00:06:33.020-00:06:41.819 | DM] Nuzkar, and Aygul the Orc twin sisters Jotha, the Deno'qai warrior",
+        "[u0083 | 00:06:42.010-00:06:47.930 | DM] who helps maintain Delwath's tanshi shrines on the ship"
+      ],
+      "contextAfter": [
+        "[u0085 | 00:07:02.360-00:07:05.829 | DM] who themselves now are sailing somewhere",
+        "[u0086 | 00:07:06.910-00:07:13.799 | DM] in a strange land, and you have a magic eye implanted in their back that you can check on them whenever you feel like it."
+      ],
+      "after": "Tilly",
+      "group": "tilly",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0130:m1",
+      "uid": "u0130",
+      "ordinal": 1,
+      "lineNumber": 130,
+      "start": 161,
+      "end": 174,
+      "before": "{{Shabbat's}}",
+      "span": "Shabbat's",
+      "line": "[u0130 | 00:12:34.810-00:12:44.440 | Delwath] There's actually a sort of sense of a circle completing right like this is the 1st place he was after he fell from {{Shabbat's}} kingdom right or.",
+      "contextBefore": [
+        "[u0128 | 00:12:18.000-00:12:27.649 | Delwath] but never a sword unless we're about to fight. You know, he's arriving at.",
+        "[u0129 | 00:12:30.140-00:12:33.110 | Delwath] This is Pava. This is, this is like his."
+      ],
+      "contextAfter": [
+        "[u0131 | 00:12:44.440-00:12:44.840 | DM] Yep.",
+        "[u0132 | 00:12:44.840-00:12:50.489 | Delwath] The Shadow Realm, and and the last time"
+      ],
+      "after": "Cha'mutte's",
+      "group": "chamutte",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0784:m1",
+      "uid": "u0784",
+      "ordinal": 1,
+      "lineNumber": 784,
+      "start": 106,
+      "end": 126,
+      "before": "{{raking the stone}}",
+      "span": "raking the stone",
+      "line": "[u0784 | 01:13:04.020-01:13:19.539 | DM] A bunch of bureaucrats in the chalyte trade published manifesto, {{raking the stone}}, accusing the",
+      "contextBefore": [
+        "[u0782 | 01:12:51.030-01:12:55.849 | Kenzo] Yeah. Well, what's tell me more about them? I've heard a little bit what's going on with the Eightfold Flame.",
+        "[u0783 | 01:12:56.230-01:13:03.360 | DM] It was the strangest thing, maybe 3 weeks ago, something like that."
+      ],
+      "contextAfter": [
+        "[u0785 | 01:13:20.770-01:13:26.660 | DM] merchants in the Hetaeri Magica, who control the trade of all sorts of things like",
+        "[u0786 | 01:13:27.160-01:13:32.320 | DM] they knew how dangerous it was, and they didn't care, and it was."
+      ],
+      "after": "Break the Stone",
+      "group": "manifesto-title",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0822:m1",
+      "uid": "u0822",
+      "ordinal": 1,
+      "lineNumber": 822,
+      "start": 88,
+      "end": 99,
+      "before": "{{Chaucan}}",
+      "span": "Chaucan",
+      "line": "[u0822 | 01:16:01.100-01:16:06.640 | DM] managed to control the whole north bank of the {{Chaucan}} more or less.",
+      "contextBefore": [
+        "[u0820 | 01:15:51.990-01:15:53.840 | Kenzo] and that was a week ago. What's going on now?",
+        "[u0821 | 01:15:56.110-01:15:58.260 | DM] For a minute. There we"
+      ],
+      "contextAfter": [
+        "[u0823 | 01:16:08.360-01:16:15.599 | DM] I mean, the factories are all beaten to shreds now nobody could stop that.",
+        "[u0824 | 01:16:15.760-01:16:24.560 | DM] Fires broke out pretty toxic there for a little bit since."
+      ],
+      "after": "Chasa",
+      "group": "chasa",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0873:m1",
+      "uid": "u0873",
+      "ordinal": 1,
+      "lineNumber": 873,
+      "start": 99,
+      "end": 115,
+      "before": "{{Kylos market}}",
+      "span": "Kylos market",
+      "line": "[u0873 | 01:20:06.370-01:20:14.480 | DM] when when rumors were going around that you destroyed the {{Kylos market}} with a portal to pandemonium. I was a bit",
+      "contextBefore": [
+        "[u0871 | 01:19:59.410-01:20:01.090 | Wellby] Still work to your advantage.",
+        "[u0872 | 01:20:03.270-01:20:05.980 | DM] I I don't know what to tell you, man. I"
+      ],
+      "contextAfter": [
+        "[u0874 | 01:20:14.830-01:20:16.060 | DM] surprised.",
+        "[u0875 | 01:20:16.060-01:20:18.540 | Kenzo] Oh, that wasn't me. Yeah, just so, you know, that totally wasn't me."
+      ],
+      "after": "Kylos Market",
+      "group": "kylos-market",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u0130": {
+      "before": "[u0130 | 00:12:34.810-00:12:44.440 | Delwath] There's actually a sort of sense of a circle completing right like this is the 1st place he was after he fell from {{Shabbat's}} kingdom right or.\n",
+      "after": "[u0130 | 00:12:34.810-00:12:44.440 | Delwath] There's actually a sort of sense of a circle completing right like this is the 1st place he was after he fell from Cha'mutte's kingdom right or.\n"
+    },
+    "u0873": {
+      "before": "[u0873 | 01:20:06.370-01:20:14.480 | DM] when when rumors were going around that you destroyed the {{Kylos market}} with a portal to pandemonium. I was a bit\n",
+      "after": "[u0873 | 01:20:06.370-01:20:14.480 | DM] when when rumors were going around that you destroyed the Kylos Market with a portal to pandemonium. I was a bit\n"
+    },
+    "u0822": {
+      "before": "[u0822 | 01:16:01.100-01:16:06.640 | DM] managed to control the whole north bank of the {{Chaucan}} more or less.\n",
+      "after": "[u0822 | 01:16:01.100-01:16:06.640 | DM] managed to control the whole north bank of the Chasa more or less.\n"
+    },
+    "u0784": {
+      "before": "[u0784 | 01:13:04.020-01:13:19.539 | DM] A bunch of bureaucrats in the chalyte trade published manifesto, {{raking the stone}}, accusing the\n",
+      "after": "[u0784 | 01:13:04.020-01:13:19.539 | DM] A bunch of bureaucrats in the chalyte trade published manifesto, Break the Stone, accusing the\n"
+    },
+    "u0084": {
+      "before": "[u0084 | 00:06:48.933-00:06:59.170 | DM] the halflings, Mica and Willow Copperharp, who joined you, as crew of Milo Thistlefoot, and {{Ellie}}.\n",
+      "after": "[u0084 | 00:06:48.933-00:06:59.170 | DM] the halflings, Mica and Willow Copperharp, who joined you, as crew of Milo Thistlefoot, and Tilly.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:50:54.623757+00:00",
+      "sha256": "9fb77a12d86b76749d8e385e42b79fde3d9f652a9074edda8b7b8ec757855407"
+    }
+  ],
+  "runId": "20261028T045054599535Z-7eb7149c",
+  "createdAt": "2026-10-28T04:50:54.599865+00:00"
+}

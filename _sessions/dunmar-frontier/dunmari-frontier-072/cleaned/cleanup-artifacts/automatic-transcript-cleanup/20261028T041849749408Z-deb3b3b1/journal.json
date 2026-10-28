@@ -1,0 +1,485 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-072",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-072/cleaned/dunmari-frontier-072-source-cleaned.md",
+  "beforeSha256": "5a79c99e302c1c003f66e8ff14ff96c14c5f52d98ab5f74dbe65c186d7b07a42",
+  "afterSha256": "c8bebf5b072d5606b83b43763bb45b0fe33ca523e277e5f0093811d47bf43837",
+  "markersBefore": 84,
+  "groups": [
+    {
+      "id": "book-reference",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The little blank book is the Enchiridion of the Occulta Ludum, but this span may contain ordinary wording or a mistaken reference to Omnis Pura. The established book identity does not establish the words actually spoken.",
+      "evidence": [
+        {
+          "path": "Things/Books/Enchiridion of the Occulta Ludum.md",
+          "sha256": "b38af2c1aad8f1e76c4e917296f4b987a0c6f3d62edaeed5c7a1e3e9d5cd7157"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 72 (DuFr).md",
+          "sha256": "7ea5cf8e6c07f94c14608b0afc18f06c6f231818ff184f90e0977b7f3ccc49c5"
+        }
+      ],
+      "candidates": [
+        "Enchiridion of the Occulta Ludum",
+        "Omnis Pura"
+      ],
+      "markerIds": [
+        "u0924:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0924:m1": "{{on this would}}"
+      }
+    },
+    {
+      "id": "delwath-in-damaged-question",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Delwath answers the question about reading the book, so his name may be embedded at the end of this span. The complete span also contains ordinary wording that cannot be reconstructed in this pass.",
+      "evidence": [
+        {
+          "path": "People/PCs/Dunmar Fellowship/Delwath.md",
+          "sha256": "fa772e8f3c941f297bfe338103036405023138e2adf07e586d4e793821c835b7"
+        }
+      ],
+      "candidates": [
+        "Delwath"
+      ],
+      "markerIds": [
+        "u0711:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0711:m1": "{{which I don't really. Do you read it right now with}}"
+      }
+    },
+    {
+      "id": "hralgar-address",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Seeker is asking the storm giant about the blank book; the direct-address position and the continuing conversation favor Hralgar over ordinary wording. The reference note establishes the spelling.",
+      "evidence": [
+        {
+          "path": "People/Giants/Hralgar.md",
+          "sha256": "7a98c9ddc726d1787de8c6ba4de3e8d9a4788e73215ee315d6f280bbfec0c769"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0719:m1"
+      ],
+      "replacements": {
+        "u0719:m1": "Hralgar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ordinary-wording-and-mechanics",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary descriptions, chatter, source-reading or sentence reconstruction, numbers, and rules explanations outside the name pass. No complete, evidence-backed name replacement is established for these spans.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0020:m1",
+        "u0023:m1",
+        "u0068:m1",
+        "u0273:m1",
+        "u0290:m1",
+        "u0369:m1",
+        "u0402:m1",
+        "u0507:m1",
+        "u0508:m1",
+        "u0635:m1",
+        "u0652:m1",
+        "u0653:m1",
+        "u0670:m1",
+        "u0685:m1",
+        "u0748:m1",
+        "u0773:m1",
+        "u0787:m1",
+        "u0800:m1",
+        "u0832:m1",
+        "u0899:m1",
+        "u0910:m1",
+        "u0921:m1",
+        "u0953:m1",
+        "u1015:m1",
+        "u1059:m1",
+        "u1073:m1",
+        "u1159:m1",
+        "u1177:m1",
+        "u1180:m1",
+        "u1234:m1",
+        "u1242:m1",
+        "u1266:m1",
+        "u1359:m1",
+        "u1373:m1",
+        "u1439:m1",
+        "u1445:m1",
+        "u1455:m1",
+        "u1463:m1",
+        "u1464:m1",
+        "u1473:m1",
+        "u1480:m1",
+        "u1540:m1",
+        "u1601:m1",
+        "u1619:m1",
+        "u1650:m1",
+        "u1676:m1",
+        "u1694:m1",
+        "u1705:m1",
+        "u1728:m1",
+        "u1729:m1",
+        "u1731:m1",
+        "u1732:m1",
+        "u1754:m1",
+        "u1762:m1",
+        "u1778:m1",
+        "u1801:m1",
+        "u1818:m1",
+        "u1820:m1",
+        "u1822:m1",
+        "u1832:m1",
+        "u1852:m1",
+        "u1922:m1",
+        "u1968:m1",
+        "u2024:m1",
+        "u2051:m1",
+        "u2084:m1",
+        "u2153:m1",
+        "u2176:m1",
+        "u2291:m1",
+        "u2299:m1",
+        "u2311:m1",
+        "u2315:m1",
+        "u2339:m1",
+        "u2361:m1",
+        "u2424:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0020:m1": "{{as for the quest of time}}",
+        "u0023:m1": "{{Lewis Lewis}}",
+        "u0068:m1": "{{deep}}",
+        "u0273:m1": "{{f or}}",
+        "u0290:m1": "{{of them}}",
+        "u0369:m1": "{{mount}}",
+        "u0402:m1": "{{it would stop here}}",
+        "u0507:m1": "{{buy a visit}}",
+        "u0508:m1": "{{who looks?}}",
+        "u0635:m1": "{{of many ancient}}",
+        "u0652:m1": "{{range}}",
+        "u0653:m1": "{{intentionally make a romance}}",
+        "u0670:m1": "{{it's all survived}}",
+        "u0685:m1": "{{if it gods}}",
+        "u0748:m1": "{{solution. Here}}",
+        "u0773:m1": "{{blessed will your reunions away? View?}}",
+        "u0787:m1": "{{How are we starring that? There, I? We now start a giant}}",
+        "u0800:m1": "{{or in there}}",
+        "u0832:m1": "{{the freedom you}}",
+        "u0899:m1": "{{here, let's pick little}}",
+        "u0910:m1": "{{6}}",
+        "u0921:m1": "{{It becomes free glasses}}",
+        "u0953:m1": "{{Northwest}}",
+        "u1015:m1": "{{a to be recognized}}",
+        "u1059:m1": "{{We do. One rested so your slots back}}",
+        "u1073:m1": "{{very}}",
+        "u1159:m1": "{{of these pillars}}",
+        "u1177:m1": "{{all straight}}",
+        "u1180:m1": "{{that was bullet, for}}",
+        "u1234:m1": "{{away}}",
+        "u1242:m1": "{{peace kick}}",
+        "u1266:m1": "{{in any other way}}",
+        "u1359:m1": "{{be gate}}",
+        "u1373:m1": "{{any for you}}",
+        "u1439:m1": "{{that' be where he goes for for your persisting soul}}",
+        "u1445:m1": "{{birth of the mode}}",
+        "u1455:m1": "{{so like, I mean. So icy stairs quietly}}",
+        "u1463:m1": "{{bites}}",
+        "u1464:m1": "{{call as}}",
+        "u1473:m1": "{{nothing like the stairs}}",
+        "u1480:m1": "{{Merthyr}}",
+        "u1540:m1": "{{can you fade. You want your stuff. Did Did your}}",
+        "u1601:m1": "{{you're a I's}}",
+        "u1619:m1": "{{minor illusion, that or}}",
+        "u1650:m1": "{{flame}}",
+        "u1676:m1": "{{i'll sell my first}}",
+        "u1694:m1": "{{Take questions bit unrivaled}}",
+        "u1705:m1": "{{inner}}",
+        "u1728:m1": "{{What they want}}",
+        "u1729:m1": "{{Who i'm gonnaing here}}",
+        "u1731:m1": "{{to for}}",
+        "u1732:m1": "{{Why is this going into it}}",
+        "u1754:m1": "{{I don't need to}}",
+        "u1762:m1": "{{And attacking her, we get a surprise around}}",
+        "u1778:m1": "{{advance with John}}",
+        "u1801:m1": "{{from close}}",
+        "u1818:m1": "{{with staff}}",
+        "u1820:m1": "{{you just stop}}",
+        "u1822:m1": "{{like a a song from a play it's like you know Jacob's like magic code for you to petrify some of it. You know it's like a home}}",
+        "u1832:m1": "{{I you}}",
+        "u1852:m1": "{{or on our}}",
+        "u1922:m1": "{{didn't get the arm}}",
+        "u1968:m1": "{{It's my headers}}",
+        "u2024:m1": "{{with the one, but i'm going to just register in the}}",
+        "u2051:m1": "{{puller like}}",
+        "u2084:m1": "{{credit damage}}",
+        "u2153:m1": "{{a look at that}}",
+        "u2176:m1": "{{sole name badge}}",
+        "u2291:m1": "{{god. Has it not just hats}}",
+        "u2299:m1": "{{I am very still that it is this all}}",
+        "u2311:m1": "{{No, you already can't do it to}}",
+        "u2315:m1": "{{we we're going to share this}}",
+        "u2339:m1": "{{What is for a rest of you for for you}}",
+        "u2361:m1": "{{530}}",
+        "u2424:m1": "{{good day I got to get it back}}"
+      }
+    },
+    {
+      "id": "phasing-stone-boundary",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The object being described is the phasing stone, but fate may represent an abbreviated phase or part of a cut-off term. The source establishes the object, not whether the complete term belongs inside this marker.",
+      "evidence": [
+        {
+          "path": "Things/Magic Items/Phasing Stones.md",
+          "sha256": "e7ec8d72a899de78afdb4f40fdb18b61148e416e1fadb489e9e6252956e35ebb"
+        }
+      ],
+      "candidates": [
+        "phasing stone",
+        "phase"
+      ],
+      "markerIds": [
+        "u1702:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1702:m1": "{{fate}}"
+      }
+    },
+    {
+      "id": "possible-halflings-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The preceding list of humans, elves, and dwarves makes halflings plausible, but the marked span also contains unrecoverable connecting wording. A name-only replacement would discard part of the utterance.",
+      "evidence": [],
+      "candidates": [
+        "halflings"
+      ],
+      "markerIds": [
+        "u0349:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0349:m1": "{{We're have wings}}"
+      }
+    },
+    {
+      "id": "shadowkar",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Delwath asks whether the creature speaks another language before trying Infernal. His character record explicitly documents Shadowkar, matching the complete marked language name.",
+      "evidence": [
+        {
+          "path": "People/PCs/Dunmar Fellowship/Delwath.md",
+          "sha256": "fa772e8f3c941f297bfe338103036405023138e2adf07e586d4e793821c835b7"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1679:m1"
+      ],
+      "replacements": {
+        "u1679:m1": "Shadowkar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "wall-of-fire-referent",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The following discussion concerns avoiding Delwath with the wall of fire, but this short marker could also be an ordinary pronoun or fragment. The intended complete replacement is not uniquely established.",
+      "evidence": [
+        {
+          "path": "People/PCs/Dunmar Fellowship/Delwath.md",
+          "sha256": "fa772e8f3c941f297bfe338103036405023138e2adf07e586d4e793821c835b7"
+        }
+      ],
+      "candidates": [
+        "Delwath"
+      ],
+      "markerIds": [
+        "u2091:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2091:m1": "{{the}}"
+      }
+    },
+    {
+      "id": "wyverns",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The remark recalls using polymorph to render an enemy harmless. Session 43 records Seeker doing this to a wyvern, favoring wyverns over the ordinary word women in this retrospective reference.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 43 (DuFr).md",
+          "sha256": "7dd671d3ec1d136c9c7873cd120a2ccb2b5115444450fdc3fdfbf11178cc0823"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1631:m1"
+      ],
+      "replacements": {
+        "u1631:m1": "wyverns"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "yezalis-mark",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Delwath names the mark he applies before attacking. Session 97 explicitly records his ability as Yezali's Mark; this fits the complete marked phrase better than ordinary wording.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 97 (DuFr).md",
+          "sha256": "2525e6c5a4279b4592a1534ced91d0be2df5d5e0f7d7c621edff3781befbb4e5"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2072:m1"
+      ],
+      "replacements": {
+        "u2072:m1": "Yezali's Mark"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0719:m1",
+      "uid": "u0719",
+      "ordinal": 1,
+      "lineNumber": 719,
+      "start": 81,
+      "end": 95,
+      "before": "{{now? There}}",
+      "span": "now? There",
+      "line": "[u0719 | 01:05:56.940-01:05:58.850 | Seeker] do you know anything about this one {{now? There}}.",
+      "contextBefore": [
+        "[u0717 | 01:05:47.290-01:05:52.370 | Seeker] I haven't quite figured out how to reveal the the contents just yet does seem to be a magical book now.",
+        "[u0718 | 01:05:54.700-01:05:55.580 | Seeker] And"
+      ],
+      "contextAfter": [
+        "[u0720 | 01:05:59.990-01:06:00.950 | DM] Nothing",
+        "[u0721 | 01:06:01.230-01:06:02.270 | Seeker] you"
+      ],
+      "after": "Hralgar",
+      "group": "hralgar-address",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1631:m1",
+      "uid": "u1631",
+      "ordinal": 1,
+      "lineNumber": 1631,
+      "start": 65,
+      "end": 76,
+      "before": "{{women's}}",
+      "span": "women's",
+      "line": "[u1631 | 02:25:51.120-02:25:53.270 | Unknown] it worked with the {{women's}}.",
+      "contextBefore": [
+        "[u1629 | 02:25:38.640-02:25:43.460 | Seeker] I could make her small. and into a newt",
+        "[u1630 | 02:25:48.630-02:25:50.450 | Delwath] that's a thing"
+      ],
+      "contextAfter": [
+        "[u1632 | 02:25:54.260-02:25:57.900 | Seeker] I'm not, it's not a joke, not a joke.",
+        "[u1633 | 02:25:58.070-02:26:00.860 | Delwath] I mean. I could just talk to her right."
+      ],
+      "after": "wyverns",
+      "group": "wyverns",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1679:m1",
+      "uid": "u1679",
+      "ordinal": 1,
+      "lineNumber": 1679,
+      "start": 196,
+      "end": 210,
+      "before": "{{Saddle car}}",
+      "span": "Saddle car",
+      "line": "[u1679 | 02:30:04.720-02:30:14.680 | Delwath] she she speaks Sylvan yes, i'm actually gonna also talk to her. I'm gonna try and play up the mystery here. I'll occasionally switch. Does she speak? {{Saddle car}}?",
+      "contextBefore": [
+        "[u1677 | 02:29:58.850-02:30:01.890 | Delwath] Does she speak sylvan if I greet her in Sylvan",
+        "[u1678 | 02:30:03.120-02:30:04.340 | Delwath] or"
+      ],
+      "contextAfter": [
+        "[u1680 | 02:30:15.450-02:30:16.720 | DM] No.",
+        "[u1681 | 02:30:16.770-02:30:17.330 | Delwath] okay."
+      ],
+      "after": "Shadowkar",
+      "group": "shadowkar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2072:m1",
+      "uid": "u2072",
+      "ordinal": 1,
+      "lineNumber": 2072,
+      "start": 79,
+      "end": 97,
+      "before": "{{is always mark}}",
+      "span": "is always mark",
+      "line": "[u2072 | 03:01:40.930-03:01:46.090 | Delwath] action is to is to mark her with {{is always mark}}",
+      "contextBefore": [
+        "[u2070 | 03:01:35.800-03:01:37.850 | DM] and that ends her turn. Delwath, you're up.",
+        "[u2071 | 03:01:38.090-03:01:40.550 | Delwath] All right. First"
+      ],
+      "contextAfter": [
+        "[u2073 | 03:01:46.300-03:01:47.450 | DM] as it. Okay.",
+        "[u2074 | 03:01:49.760-03:01:54.700 | Delwath] Second thing is to just swing my sword at her. Because what else am I gonna do?"
+      ],
+      "after": "Yezali's Mark",
+      "group": "yezalis-mark",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u2072": {
+      "before": "[u2072 | 03:01:40.930-03:01:46.090 | Delwath] action is to is to mark her with {{is always mark}}\n",
+      "after": "[u2072 | 03:01:40.930-03:01:46.090 | Delwath] action is to is to mark her with Yezali's Mark\n"
+    },
+    "u0719": {
+      "before": "[u0719 | 01:05:56.940-01:05:58.850 | Seeker] do you know anything about this one {{now? There}}.\n",
+      "after": "[u0719 | 01:05:56.940-01:05:58.850 | Seeker] do you know anything about this one Hralgar.\n"
+    },
+    "u1679": {
+      "before": "[u1679 | 02:30:04.720-02:30:14.680 | Delwath] she she speaks Sylvan yes, i'm actually gonna also talk to her. I'm gonna try and play up the mystery here. I'll occasionally switch. Does she speak? {{Saddle car}}?\n",
+      "after": "[u1679 | 02:30:04.720-02:30:14.680 | Delwath] she she speaks Sylvan yes, i'm actually gonna also talk to her. I'm gonna try and play up the mystery here. I'll occasionally switch. Does she speak? Shadowkar?\n"
+    },
+    "u1631": {
+      "before": "[u1631 | 02:25:51.120-02:25:53.270 | Unknown] it worked with the {{women's}}.\n",
+      "after": "[u1631 | 02:25:51.120-02:25:53.270 | Unknown] it worked with the wyverns.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:18:49.977875+00:00",
+      "sha256": "c8bebf5b072d5606b83b43763bb45b0fe33ca523e277e5f0093811d47bf43837"
+    }
+  ],
+  "runId": "20261028T041849749408Z-deb3b3b1",
+  "createdAt": "2026-10-28T04:18:49.749776+00:00"
+}

@@ -597,7 +597,7 @@
 [u0597 | 01:01:03.290-01:01:05.879 | DM] stable is like filling up with these
 [u0598 | 01:01:06.370-01:01:09.290 | DM] ripped giant crumpled pages.
 [u0599 | 01:01:10.800-01:01:18.540 | DM] He's also taken quite a fascination with the Orcs.
-[u0600 | 01:01:18.880-01:01:20.459 | DM] {{I go}} Nuzkar
+[u0600 | 01:01:18.880-01:01:20.459 | DM] Aygul Nuzkar
 [u0601 | 01:01:21.750-01:01:24.950 | DM] and keeps talking about the stories of the Orcs who
 [u0602 | 01:01:25.210-01:01:26.870 | DM] were part of the
 [u0603 | 01:01:27.230-01:01:32.259 | DM] of Vimfrost, who fought on Vimfrost’s side, but asking, Are there any
@@ -642,7 +642,7 @@
 [u0642 | 01:05:08.720-01:05:11.099 | DM] Riswynn can cast sending.
 [u0643 | 01:05:12.300-01:05:14.910 | Seeker] I mean, it's magic.
 [u0644 | 01:05:15.020-01:05:18.430 | Delwath] What about don't we have the sending stone? Should we leave one behind.
-[u0645 | 01:05:26.740-01:05:36.389 | DM] We need that 2 unconnected sending stones, you've got one that's connected to the {{boy and Chardon, in the Chardonian village}}, and one that's connected to {{serf}}.
+[u0645 | 01:05:26.740-01:05:36.389 | DM] We need that 2 unconnected sending stones, you've got one that's connected to the {{boy and Chardon, in the Chardonian village}}, and one that's connected to Sura.
 [u0646 | 01:05:39.250-01:05:40.000 | Seeker] Hmm!
 [u0647 | 01:05:41.720-01:05:48.430 | Wellby] I think before we leave the ship, Baxter, you know we'll speak with or excuse me. Well, we'll speak with animals with Baxter.
 [u0648 | 01:05:48.620-01:05:50.079 | Wellby] you know and explain.
@@ -1527,7 +1527,7 @@
 [u1527 | 02:25:52.320-02:26:00.370 | DM] silver wolf crafting was a success. Kenzo, Riswynn and Seeker did it together.
 [u1528 | 02:26:00.830-02:26:03.750 | DM] Roman is overjoyed
 [u1529 | 02:26:04.110-02:26:05.820 | DM] and
-[u1530 | 02:26:06.060-02:26:14.279 | DM] {{rather}} just asked for what other challenges he might have. and he kind of looks. Yes, you were.
+[u1530 | 02:26:06.060-02:26:14.279 | DM] Riswynn just asked for what other challenges he might have. and he kind of looks. Yes, you were.
 [u1531 | 02:26:15.230-02:26:18.190 | DM] You are asking about right
 [u1532 | 02:26:19.410-02:26:21.969 | DM] about bounties. Yes.
 [u1533 | 02:26:22.880-02:26:23.930 | DM] that so
@@ -1841,7 +1841,7 @@
 [u1841 | 02:54:21.600-02:54:24.769 | DM] You guys are laughing as you're stripping down
 [u1842 | 02:54:25.110-02:54:28.050 | DM] famous. Yes, famous heroes
 [u1843 | 02:54:30.790-02:54:37.029 | Seeker] seems to actually reduce in size total by about half.
-[u1844 | 02:54:37.150-02:54:48.389 | Seeker] After removing all of the items from his body piles and piles of trinkets and scrolls, and the {{Gospel is}}
+[u1844 | 02:54:37.150-02:54:48.389 | Seeker] After removing all of the items from his body piles and piles of trinkets and scrolls, and the goggles
 [u1845 | 02:54:48.640-02:54:58.030 | Wellby] scrolls are not a good thing to have brought here. I thought we left. I don't carry the scrolls on me. That's right.
 [u1846 | 02:54:58.940-02:55:01.949 | Wellby] Should I leave the Amulet in there, do you think.
 [u1847 | 02:55:02.060-02:55:03.280 | Wellby] with the portable hole?

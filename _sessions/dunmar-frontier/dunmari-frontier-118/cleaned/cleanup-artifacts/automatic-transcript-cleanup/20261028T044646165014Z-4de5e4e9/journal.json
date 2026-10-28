@@ -1,0 +1,1177 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-118",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-source-cleaned.md",
+  "beforeSha256": "6159aaa89545a083d7e9ff66cba42112da792e5750a3abacba7972885a9b17bb",
+  "afterSha256": "9a3393a19feb7657c3b7e6f55c61e2583b8fd72fd8de8baa5b65ec90052418db",
+  "markersBefore": 65,
+  "groups": [
+    {
+      "id": "aelirios",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The follow-up asks after another figure associated with Amberlights; Aelirios is the close phonetic match named in the session source material, with a dedicated reference note establishing the spelling.",
+      "evidence": [
+        {
+          "path": "People/Fey/Aelirios Sunblade.md",
+          "sha256": "530cc11cb0a9047d2f6a592bcdd472d306671ef8b16aa80da734ef5831ae3d3f"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 118 - DM Notes.md",
+          "sha256": "685ffbecaa87eb7ae6188cef00b88cae8e0ec361291a8682ef08ca5def6c10f1"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0590:m1"
+      ],
+      "replacements": {
+        "u0590:m1": "Aelirios"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "black-dragon",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The named black dragon in the recap is the daughter of Cha'mutte defeated on that island; her reference note establishes the spelling.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Ra'ghemdros.md",
+          "sha256": "933d4001013420191a597afa673ef7ef07d47e3f5a27372bc4f3db09f12939a9"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0024:m1"
+      ],
+      "replacements": {
+        "u0024:m1": "Ra'ghemdros"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "circular-island",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The island where the Cloudspinner was imprisoned and recovered is explicitly named Circular Island in its reference note. The whole marked place name is corrected.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Drankorian Hinterland/Circular Island.md",
+          "sha256": "f616ace6769fded2f62850cb337ff0995564726a50cf1756731dd7852f10e45a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0023:m2"
+      ],
+      "replacements": {
+        "u0023:m2": "Circular Island"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "cloudspinner",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The recap identifies the rescued prisoner from the Circular Island; the island reference and this session account establish Cloudspinner.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Drankorian Hinterland/Circular Island.md",
+          "sha256": "f616ace6769fded2f62850cb337ff0995564726a50cf1756731dd7852f10e45a"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 118 (DuFr).md",
+          "sha256": "3bf89daafc0196a96ba155d6f1b9cba899a667f77162748ef087152a7cbf4b1a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0023:m1"
+      ],
+      "replacements": {
+        "u0023:m1": "Cloudspinner"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "dwarven-gods",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Riswynn is discussing her shrine to the collective dwarven gods, whose reference note establishes Bahrâzel.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Embodied Gods/Bahrazel/Bahrazel.md",
+          "sha256": "bc9a92b8b364ef59b5c9c495057da783c25a940bd7a583278f4c18dc4edf7c73"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0107:m1"
+      ],
+      "replacements": {
+        "u0107:m1": "Bahrâzel"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "jade-fragments",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The five sought fragments are the jade pieces of the named quest object; only the marked material term is corrected.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Jade Piece of Rai's Hand.md",
+          "sha256": "09c769c0a5db15c8229b9cbbeacc2fc4e3d085ad7293aa0f9599d89d9fdfb73a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0022:m1"
+      ],
+      "replacements": {
+        "u0022:m1": "jade"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "lirien-clear",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "These occurrences consistently identify the lanternkeeper and Amberlight bearer introduced in this session; her reference note and the session account establish Lirien.",
+      "evidence": [
+        {
+          "path": "People/Fey/Lirien.md",
+          "sha256": "9c3312a30e757413081dac21df9cadab87aa837af6d2a27af336c8c57bf541e7"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 118 (DuFr).md",
+          "sha256": "3bf89daafc0196a96ba155d6f1b9cba899a667f77162748ef087152a7cbf4b1a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0225:m1",
+        "u0250:m1",
+        "u0373:m1",
+        "u0379:m1",
+        "u0380:m1",
+        "u0542:m1",
+        "u0589:m1",
+        "u0593:m1",
+        "u0600:m1",
+        "u0784:m1",
+        "u0853:m1",
+        "u1064:m1",
+        "u2309:m1"
+      ],
+      "replacements": {
+        "u0225:m1": "Lirien",
+        "u0250:m1": "Lirien",
+        "u0373:m1": "Lirien",
+        "u0379:m1": "Lirien",
+        "u0380:m1": "Lirien",
+        "u0542:m1": "Lirien",
+        "u0589:m1": "Lirien",
+        "u0593:m1": "Lirien",
+        "u0600:m1": "Lirien",
+        "u0784:m1": "Lirien",
+        "u0853:m1": "Lirien",
+        "u1064:m1": "Lirien",
+        "u2309:m1": "Lirien"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "lirien-supported",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The name reminder, question about recognition, introduction to Lady Eventide, and token placement beside the amber stag all strongly favor the same lanternkeeper, Lirien. The more divergent transcriptions do not identify a separate participant in these exchanges.",
+      "evidence": [
+        {
+          "path": "People/Fey/Lirien.md",
+          "sha256": "9c3312a30e757413081dac21df9cadab87aa837af6d2a27af336c8c57bf541e7"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 118 (DuFr).md",
+          "sha256": "3bf89daafc0196a96ba155d6f1b9cba899a667f77162748ef087152a7cbf4b1a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0526:m1",
+        "u0553:m1",
+        "u0559:m1",
+        "u0560:m1",
+        "u0703:m1"
+      ],
+      "replacements": {
+        "u0526:m1": "Lirien",
+        "u0553:m1": "Lirien",
+        "u0559:m1": "Lirien",
+        "u0560:m1": "Lirien",
+        "u0703:m1": "Lirien"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "northern-place",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Ursk is plausible from the vampire recap, but the full marked wording does not clearly isolate that name from a damaged geographic phrase. Replacing it would require guessing its boundaries.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 97 (DuFr).md",
+          "sha256": "2525e6c5a4279b4592a1534ced91d0be2df5d5e0f7d7c621edff3781befbb4e5"
+        }
+      ],
+      "candidates": [
+        "Ursk"
+      ],
+      "markerIds": [
+        "u0020:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0020:m1": "{{go averse}}"
+      }
+    },
+    {
+      "id": "ordinary-wording-and-mechanics",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "These spans concern ordinary dialogue, descriptive wording, map setup, combat mechanics, rolls, damage, attunement, or longer damaged phrases. They are outside this name and setting-term pass and remain verbatim.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0019:m1",
+        "u0052:m1",
+        "u0073:m1",
+        "u0221:m1",
+        "u0353:m1",
+        "u0365:m1",
+        "u0432:m1",
+        "u0454:m1",
+        "u0572:m1",
+        "u0662:m1",
+        "u0704:m1",
+        "u0748:m1",
+        "u1105:m1",
+        "u1138:m1",
+        "u1220:m1",
+        "u1335:m1",
+        "u1369:m1",
+        "u1449:m1",
+        "u1530:m1",
+        "u1611:m1",
+        "u1628:m1",
+        "u1653:m1",
+        "u1731:m1",
+        "u1737:m1",
+        "u1786:m1",
+        "u1824:m1",
+        "u2052:m1",
+        "u2063:m1",
+        "u2082:m1",
+        "u2096:m1",
+        "u2169:m1",
+        "u2326:m1",
+        "u2327:m1",
+        "u2351:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0019:m1": "{{estate}}",
+        "u0052:m1": "{{silver iron}}",
+        "u0073:m1": "{{itchy}}",
+        "u0221:m1": "{{Who are you to show us? Who?}}",
+        "u0353:m1": "{{it's amazing}}",
+        "u0365:m1": "{{panic order}}",
+        "u0432:m1": "{{Yours or she}}",
+        "u0454:m1": "{{Face, something yes}}",
+        "u0572:m1": "{{Me, her}}",
+        "u0662:m1": "{{battles}}",
+        "u0704:m1": "{{No worries all Jack}}",
+        "u0748:m1": "{{honor}}",
+        "u1105:m1": "{{target the ice}}",
+        "u1138:m1": "{{likes}}",
+        "u1220:m1": "{{little John}}",
+        "u1335:m1": "{{Why, well did the other like I make it safe}}",
+        "u1369:m1": "{{while we make it}}",
+        "u1449:m1": "{{look. You had points}}",
+        "u1530:m1": "{{Whether it was direct}}",
+        "u1611:m1": "{{30 seconds}}",
+        "u1628:m1": "{{but it will turn so that's 1820}}",
+        "u1653:m1": "{{closest woman construct}}",
+        "u1731:m1": "{{And no weapon}}",
+        "u1737:m1": "{{desk}}",
+        "u1786:m1": "{{60 owl Dow}}",
+        "u1824:m1": "{{insanity}}",
+        "u2052:m1": "{{and so exceeded on its acts against anything it saves, it gets to defeat them}}",
+        "u2063:m1": "{{Let's like one has to deal with}}",
+        "u2082:m1": "{{other kinds}}",
+        "u2096:m1": "{{They all to our damage}}",
+        "u2169:m1": "{{90 sex}}",
+        "u2326:m1": "{{watch it into light}}",
+        "u2327:m1": "{{I've just done the tune from this crown}}",
+        "u2351:m1": "{{Just put it on some more things}}"
+      }
+    },
+    {
+      "id": "revenant-or-eventide",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Revenant matches an encounter creature term, while Eventide is the possessing speaker. The transition between naming the target and the spoken reply does not establish which reading the marked word represents.",
+      "evidence": [
+        {
+          "path": "People/Fey/Lady Eventide.md",
+          "sha256": "9c96a5ce4131393950d8f5cdc2fb09a6b19c805ab5ad35e54a1cd119f98ad2b1"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 118 - DM Notes.md",
+          "sha256": "685ffbecaa87eb7ae6188cef00b88cae8e0ec361291a8682ef08ca5def6c10f1"
+        }
+      ],
+      "candidates": [
+        "Revenant",
+        "Eventide"
+      ],
+      "markerIds": [
+        "u1962:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1962:m1": "{{Revenant}}"
+      }
+    },
+    {
+      "id": "risens-unclear",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Riswynn is a plausible name here, but the broken sentence about armor and the shades attacking Faldrak does not establish whether the marked word is a name, a possessive, or ordinary connective wording. Retain the span.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-118/cleaned/dunmari-frontier-118-session.yaml",
+          "sha256": "f2d356d425d2bafc36668cfbc93c9cc8ea3a91686a36459435b154f427f882e1"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 118 (DuFr).md",
+          "sha256": "3bf89daafc0196a96ba155d6f1b9cba899a667f77162748ef087152a7cbf4b1a"
+        }
+      ],
+      "candidates": [
+        "Riswynn",
+        "Riswynn's"
+      ],
+      "markerIds": [
+        "u0789:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0789:m1": "{{risens}}"
+      }
+    },
+    {
+      "id": "thyrian-full",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The full spoken name and role match the source spelling Thyrian Duskward; only the marked name changes.",
+      "evidence": [
+        {
+          "path": "People/Fey/Lirien.md",
+          "sha256": "9c3312a30e757413081dac21df9cadab87aa837af6d2a27af336c8c57bf541e7"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 118 - DM Notes.md",
+          "sha256": "685ffbecaa87eb7ae6188cef00b88cae8e0ec361291a8682ef08ca5def6c10f1"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0407:m1"
+      ],
+      "replacements": {
+        "u0407:m1": "Thyrian Duskward"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "thyrian-short",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Lady Eventide asks after another Amberlight-associated figure. The earlier full name in this conversation and the source spelling strongly favor Thyrian; the shorter phonetic rendering is less certain.",
+      "evidence": [
+        {
+          "path": "People/Fey/Lirien.md",
+          "sha256": "9c3312a30e757413081dac21df9cadab87aa837af6d2a27af336c8c57bf541e7"
+        },
+        {
+          "path": "_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 118 - DM Notes.md",
+          "sha256": "685ffbecaa87eb7ae6188cef00b88cae8e0ec361291a8682ef08ca5def6c10f1"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0589:m2"
+      ],
+      "replacements": {
+        "u0589:m2": "Thyrian"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "unfinished-title",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "This may be an interrupted Redsun place or title reference, but the speaker immediately hesitates and restarts the title. The complete intended marked text is not recoverable.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 118 (DuFr).md",
+          "sha256": "3bf89daafc0196a96ba155d6f1b9cba899a667f77162748ef087152a7cbf4b1a"
+        }
+      ],
+      "candidates": [
+        "Redsun",
+        "Redsun Watch"
+      ],
+      "markerIds": [
+        "u0560:m2"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0560:m2": "{{Fred}}"
+      }
+    },
+    {
+      "id": "wendshade",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The large creature whose turn is ending is the Wendshade identified in the encounter source. Preserve the possessive required before the following unmarked word turn.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Session 118-123 (Cloudspinner)/Session 118 - DM Notes.md",
+          "sha256": "685ffbecaa87eb7ae6188cef00b88cae8e0ec361291a8682ef08ca5def6c10f1"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1418:m1"
+      ],
+      "replacements": {
+        "u1418:m1": "Wendshade's"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0022:m1",
+      "uid": "u0022",
+      "ordinal": 1,
+      "lineNumber": 22,
+      "start": 97,
+      "end": 105,
+      "before": "{{Jane}}",
+      "span": "Jane",
+      "line": "[u0022 | 00:02:02.680-00:02:11.600 | DM] 4th of the 5 3rd of the 5 fragments, the 5 fragments of {{Jane}} that you were seeking.",
+      "contextBefore": [
+        "[u0020 | 00:01:45.880-00:01:53.440 | DM] while you were still in the far cold {{go averse}}, having just killed a vampire.",
+        "[u0021 | 00:01:54.630-00:02:02.100 | DM] It's been 20 some odd days since he returned from the water with the"
+      ],
+      "contextAfter": [
+        "[u0023 | 00:02:13.050-00:02:24.150 | DM] It's been 10 days since {{Gladstorm}} was recovered from a Cha'mutte's prison on the {{Seaflora Island}}, defeated.",
+        "[u0024 | 00:02:24.320-00:02:27.670 | DM] Cha'mutte's spawn the Black Dragon {{redempters}}"
+      ],
+      "after": "jade",
+      "group": "jade-fragments",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0023:m1",
+      "uid": "u0023",
+      "ordinal": 1,
+      "lineNumber": 23,
+      "start": 65,
+      "end": 78,
+      "before": "{{Gladstorm}}",
+      "span": "Gladstorm",
+      "line": "[u0023 | 00:02:13.050-00:02:24.150 | DM] It's been 10 days since {{Gladstorm}} was recovered from a Cha'mutte's prison on the {{Seaflora Island}}, defeated.",
+      "contextBefore": [
+        "[u0021 | 00:01:54.630-00:02:02.100 | DM] It's been 20 some odd days since he returned from the water with the",
+        "[u0022 | 00:02:02.680-00:02:11.600 | DM] 4th of the 5 3rd of the 5 fragments, the 5 fragments of {{Jane}} that you were seeking."
+      ],
+      "contextAfter": [
+        "[u0024 | 00:02:24.320-00:02:27.670 | DM] Cha'mutte's spawn the Black Dragon {{redempters}}",
+        "[u0025 | 00:02:27.970-00:02:30.569 | DM] and put a new Emperor in charge"
+      ],
+      "after": "Cloudspinner",
+      "group": "cloudspinner",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0023:m2",
+      "uid": "u0023",
+      "ordinal": 2,
+      "lineNumber": 23,
+      "start": 126,
+      "end": 145,
+      "before": "{{Seaflora Island}}",
+      "span": "Seaflora Island",
+      "line": "[u0023 | 00:02:13.050-00:02:24.150 | DM] It's been 10 days since {{Gladstorm}} was recovered from a Cha'mutte's prison on the {{Seaflora Island}}, defeated.",
+      "contextBefore": [
+        "[u0021 | 00:01:54.630-00:02:02.100 | DM] It's been 20 some odd days since he returned from the water with the",
+        "[u0022 | 00:02:02.680-00:02:11.600 | DM] 4th of the 5 3rd of the 5 fragments, the 5 fragments of {{Jane}} that you were seeking."
+      ],
+      "contextAfter": [
+        "[u0024 | 00:02:24.320-00:02:27.670 | DM] Cha'mutte's spawn the Black Dragon {{redempters}}",
+        "[u0025 | 00:02:27.970-00:02:30.569 | DM] and put a new Emperor in charge"
+      ],
+      "after": "Circular Island",
+      "group": "circular-island",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0024:m1",
+      "uid": "u0024",
+      "ordinal": 1,
+      "lineNumber": 24,
+      "start": 76,
+      "end": 90,
+      "before": "{{redempters}}",
+      "span": "redempters",
+      "line": "[u0024 | 00:02:24.320-00:02:27.670 | DM] Cha'mutte's spawn the Black Dragon {{redempters}}",
+      "contextBefore": [
+        "[u0022 | 00:02:02.680-00:02:11.600 | DM] 4th of the 5 3rd of the 5 fragments, the 5 fragments of {{Jane}} that you were seeking.",
+        "[u0023 | 00:02:13.050-00:02:24.150 | DM] It's been 10 days since {{Gladstorm}} was recovered from a Cha'mutte's prison on the {{Seaflora Island}}, defeated."
+      ],
+      "contextAfter": [
+        "[u0025 | 00:02:27.970-00:02:30.569 | DM] and put a new Emperor in charge",
+        "[u0026 | 00:02:30.800-00:02:34.510 | DM] of the refuge of humans from Hkar."
+      ],
+      "after": "Ra'ghemdros",
+      "group": "black-dragon",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0107:m1",
+      "uid": "u0107",
+      "ordinal": 1,
+      "lineNumber": 107,
+      "start": 125,
+      "end": 138,
+      "before": "{{Biharazal}}",
+      "span": "Biharazal",
+      "line": "[u0107 | 00:12:55.930-00:13:03.399 | Riswynn] Riswynn has been grateful to be back on Vindristjarna and in her shrine to the {{Biharazal}}, and",
+      "contextBefore": [
+        "[u0105 | 00:12:42.170-00:12:44.169 | Wellby] I don't know. It's given him a lot to think about.",
+        "[u0106 | 00:12:45.410-00:12:51.309 | Wellby] But I think he's not putting up too much of a fight. He's mostly just letting Delwath wear himself out."
+      ],
+      "contextAfter": [
+        "[u0108 | 00:13:03.560-00:13:17.120 | Riswynn] feel that she is in a place of strength and support, to learn and and grow, to keep this",
+        "[u0109 | 00:13:17.400-00:13:23.800 | Riswynn] power safe, to get advice from her gods, to."
+      ],
+      "after": "Bahrâzel",
+      "group": "dwarven-gods",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0225:m1",
+      "uid": "u0225",
+      "ordinal": 1,
+      "lineNumber": 225,
+      "start": 92,
+      "end": 104,
+      "before": "{{Illyrian}}",
+      "span": "Illyrian",
+      "line": "[u0225 | 00:25:20.880-00:25:28.949 | DM] almost indignant, and she says, how dare you? I am {{Illyrian}} lantern keeper of Redsun Watch.",
+      "contextBefore": [
+        "[u0223 | 00:25:07.120-00:25:11.260 | Delwath] One of her enemies, trying to seek her whereabouts.",
+        "[u0224 | 00:25:12.840-00:25:20.088 | DM] She kind of draws herself up sort of offended a little bit at this, and stands tall and and"
+      ],
+      "contextAfter": [
+        "[u0226 | 00:25:29.090-00:25:37.450 | DM] bearer of, as far as I know, the last Amberlight not captured by the evils on our borders by",
+        "[u0227 | 00:25:38.540-00:25:44.100 | DM] the Gloomshaper by Harrow or Wend, and I will have you know"
+      ],
+      "after": "Lirien",
+      "group": "lirien-clear",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0250:m1",
+      "uid": "u0250",
+      "ordinal": 1,
+      "lineNumber": 250,
+      "start": 41,
+      "end": 50,
+      "before": "{{Arian}}",
+      "span": "Arian",
+      "line": "[u0250 | 00:27:19.170-00:27:23.209 | DM] {{Arian}}, the lantern keeper of Redsun Watch.",
+      "contextBefore": [
+        "[u0248 | 00:27:08.500-00:27:15.240 | DM] The entire vibe is like she's putting herself in what she thinks is basically a impossible situation.",
+        "[u0249 | 00:27:16.340-00:27:19.169 | Delwath] What did she say? Heard what was her 1st title that she said."
+      ],
+      "contextAfter": [
+        "[u0251 | 00:27:23.800-00:27:24.380 | Delwath] Okay.",
+        "[u0252 | 00:27:25.840-00:27:28.209 | DM] Bearer of the last Amberlight."
+      ],
+      "after": "Lirien",
+      "group": "lirien-clear",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0373:m1",
+      "uid": "u0373",
+      "ordinal": 1,
+      "lineNumber": 373,
+      "start": 130,
+      "end": 140,
+      "before": "{{Lyrian}}",
+      "span": "Lyrian",
+      "line": "[u0373 | 00:37:30.920-00:37:45.830 | DM] quickly fading, quickly desaturating Seeker off. Well, Wellby, Riswynn, and Delwath lead {{Lyrian}}",
+      "contextBefore": [
+        "[u0371 | 00:37:10.670-00:37:11.839 | Kenzo] How are you?",
+        "[u0372 | 00:37:22.220-00:37:30.479 | DM] Okay, so let's return to Taelgar as Kenzo leads the"
+      ],
+      "contextAfter": [
+        "[u0374 | 00:37:48.590-00:37:54.429 | DM] lantern keeper of red—Redsun Keep—of Redsun Watch",
+        "[u0375 | 00:37:54.530-00:37:59.050 | DM] into the storage room in the basement of"
+      ],
+      "after": "Lirien",
+      "group": "lirien-clear",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0379:m1",
+      "uid": "u0379",
+      "ordinal": 1,
+      "lineNumber": 379,
+      "start": 130,
+      "end": 139,
+      "before": "{{leery}}",
+      "span": "leery",
+      "line": "[u0379 | 00:38:24.700-00:38:39.349 | DM] hair, sort of long and kind of almost wrapped around her naked body. And this light that {{leery}}, is carrying flares, and it's even brighter as she steps into the hold.",
+      "contextBefore": [
+        "[u0377 | 00:38:04.480-00:38:08.360 | DM] is, or crystal prison is the Cloudspinner",
+        "[u0378 | 00:38:10.607-00:38:24.569 | DM] translucent, cannot like really clearly see her features, except the hair, that is the sort of brilliant golden hued, multicolored orange, red, yellow"
+      ],
+      "contextAfter": [
+        "[u0380 | 00:38:39.460-00:38:42.520 | DM] and she, {{Learyan}}, falls to her knees.",
+        "[u0381 | 00:38:44.470-00:38:46.850 | DM] and she looks up sort of in awe."
+      ],
+      "after": "Lirien",
+      "group": "lirien-clear",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0380:m1",
+      "uid": "u0380",
+      "ordinal": 1,
+      "lineNumber": 380,
+      "start": 50,
+      "end": 61,
+      "before": "{{Learyan}}",
+      "span": "Learyan",
+      "line": "[u0380 | 00:38:39.460-00:38:42.520 | DM] and she, {{Learyan}}, falls to her knees.",
+      "contextBefore": [
+        "[u0378 | 00:38:10.607-00:38:24.569 | DM] translucent, cannot like really clearly see her features, except the hair, that is the sort of brilliant golden hued, multicolored orange, red, yellow",
+        "[u0379 | 00:38:24.700-00:38:39.349 | DM] hair, sort of long and kind of almost wrapped around her naked body. And this light that {{leery}}, is carrying flares, and it's even brighter as she steps into the hold."
+      ],
+      "contextAfter": [
+        "[u0381 | 00:38:44.470-00:38:46.850 | DM] and she looks up sort of in awe.",
+        "[u0382 | 00:38:50.600-00:38:51.610 | DM] It is"
+      ],
+      "after": "Lirien",
+      "group": "lirien-clear",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0407:m1",
+      "uid": "u0407",
+      "ordinal": 1,
+      "lineNumber": 407,
+      "start": 41,
+      "end": 61,
+      "before": "{{Therian Duskward}}",
+      "span": "Therian Duskward",
+      "line": "[u0407 | 00:41:34.280-00:41:40.320 | DM] {{Therian Duskward}}, or anybody who could fight the darkness.",
+      "contextBefore": [
+        "[u0405 | 00:41:14.140-00:41:19.180 | DM] I don't know if anyone got out.",
+        "[u0406 | 00:41:24.160-00:41:33.460 | DM] I was not even important. Just one of the lantern keepers wasn't like"
+      ],
+      "contextAfter": [
+        "[u0408 | 00:41:43.750-00:41:50.179 | DM] but I didn't know what else to do. I had the Amberlight and I",
+        "[u0409 | 00:41:50.500-00:41:53.229 | DM] ran when the keep was swallowed."
+      ],
+      "after": "Thyrian Duskward",
+      "group": "thyrian-full",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0526:m1",
+      "uid": "u0526",
+      "ordinal": 1,
+      "lineNumber": 526,
+      "start": 46,
+      "end": 57,
+      "before": "{{Lorenne}}",
+      "span": "Lorenne",
+      "line": "[u0526 | 00:53:21.140-00:53:21.730 | Riswynn] {{Lorenne}}.",
+      "contextBefore": [
+        "[u0524 | 00:53:13.360-00:53:17.439 | Delwath] Well, hold on! Hold on! I want to tell the I wanna tell the person.",
+        "[u0525 | 00:53:17.780-00:53:21.140 | DM] What's your name?"
+      ],
+      "contextAfter": [
+        "[u0527 | 00:53:21.730-00:53:22.505 | Delwath] That",
+        "[u0528 | 00:53:24.840-00:53:25.730 | Riswynn] Have another fey."
+      ],
+      "after": "Lirien",
+      "group": "lirien-supported",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0542:m1",
+      "uid": "u0542",
+      "ordinal": 1,
+      "lineNumber": 542,
+      "start": 45,
+      "end": 55,
+      "before": "{{Lyrian}}",
+      "span": "Lyrian",
+      "line": "[u0542 | 00:54:43.000-00:54:51.409 | DM] and {{Lyrian}} just looks confused. The light, the Amberlight shining from her crystal lantern shows",
+      "contextBefore": [
+        "[u0540 | 00:54:34.750-00:54:37.439 | DM] I insist we must go immediately.",
+        "[u0541 | 00:54:38.620-00:54:40.599 | DM] My place is by her side."
+      ],
+      "contextAfter": [
+        "[u0543 | 00:54:53.010-00:55:01.900 | DM] 2 people superimposed Seeker, and then on top, like superimposed on top of Seeker. There is a",
+        "[u0544 | 00:55:02.746-00:55:05.030 | DM] sort of call"
+      ],
+      "after": "Lirien",
+      "group": "lirien-clear",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0553:m1",
+      "uid": "u0553",
+      "ordinal": 1,
+      "lineNumber": 553,
+      "start": 72,
+      "end": 84,
+      "before": "{{Marianne}}",
+      "span": "Marianne",
+      "line": "[u0553 | 00:56:14.780-00:56:19.090 | Riswynn] Does that ring a bell for {{Marianne}} at all.",
+      "contextBefore": [
+        "[u0551 | 00:56:02.860-00:56:08.309 | DM] I am Lady Eventide, and I demand to speak with the Cloudspinner immediately.",
+        "[u0552 | 00:56:12.110-00:56:14.360 | DM] Don't just stand there."
+      ],
+      "contextAfter": [
+        "[u0554 | 00:56:21.364-00:56:23.636 | DM] Doesn't ring a bell for any of you.",
+        "[u0555 | 00:56:26.140-00:56:29.109 | Delwath] Is it cheating to read the session notes about Lady Eventide."
+      ],
+      "after": "Lirien",
+      "group": "lirien-supported",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0559:m1",
+      "uid": "u0559",
+      "ordinal": 1,
+      "lineNumber": 559,
+      "start": 64,
+      "end": 73,
+      "before": "{{Larry}}",
+      "span": "Larry",
+      "line": "[u0559 | 00:56:43.480-00:56:46.910 | Delwath] I'll look over at {{Larry}} and Lady Eventide.",
+      "contextBefore": [
+        "[u0557 | 00:56:33.030-00:56:36.687 | Wellby] Seeker's, the only one who would actually, who's actually there. Right?",
+        "[u0558 | 00:56:37.020-00:56:41.839 | Wellby] I don't know what's the worst thing that can happen when they see each other. Let's see how it goes."
+      ],
+      "contextAfter": [
+        "[u0560 | 00:56:48.580-00:56:55.940 | Delwath] I'll introduce. I'll introduce Lady Eventide to {{Larian}}, the keeper of the {{Fred}}.",
+        "[u0561 | 00:56:56.560-00:57:01.520 | Delwath] I remember her titles, but I've forgotten them in in Redsun Watch, Redsun."
+      ],
+      "after": "Lirien",
+      "group": "lirien-supported",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0560:m1",
+      "uid": "u0560",
+      "ordinal": 1,
+      "lineNumber": 560,
+      "start": 94,
+      "end": 104,
+      "before": "{{Larian}}",
+      "span": "Larian",
+      "line": "[u0560 | 00:56:48.580-00:56:55.940 | Delwath] I'll introduce. I'll introduce Lady Eventide to {{Larian}}, the keeper of the {{Fred}}.",
+      "contextBefore": [
+        "[u0558 | 00:56:37.020-00:56:41.839 | Wellby] I don't know what's the worst thing that can happen when they see each other. Let's see how it goes.",
+        "[u0559 | 00:56:43.480-00:56:46.910 | Delwath] I'll look over at {{Larry}} and Lady Eventide."
+      ],
+      "contextAfter": [
+        "[u0561 | 00:56:56.560-00:57:01.520 | Delwath] I remember her titles, but I've forgotten them in in Redsun Watch, Redsun.",
+        "[u0562 | 00:57:01.520-00:57:04.590 | DM] And watch lantern lantern, keeper of Redsun Watch."
+      ],
+      "after": "Lirien",
+      "group": "lirien-supported",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0589:m1",
+      "uid": "u0589",
+      "ordinal": 1,
+      "lineNumber": 589,
+      "start": 70,
+      "end": 80,
+      "before": "{{Lyrian}}",
+      "span": "Lyrian",
+      "line": "[u0589 | 00:59:26.620-00:59:38.309 | DM] she turns and she looks you, {{Lyrian}}, you said. Your name is where is where is {{Thyron}}? Where is",
+      "contextBefore": [
+        "[u0587 | 00:59:09.270-00:59:11.320 | Delwath] worm your way into our friend?",
+        "[u0588 | 00:59:15.000-00:59:16.700 | DM] Minutes ago"
+      ],
+      "contextAfter": [
+        "[u0590 | 00:59:41.280-00:59:42.730 | DM] {{hilarious}}?",
+        "[u0591 | 00:59:44.240-00:59:47.500 | DM] You have an Amberlight."
+      ],
+      "after": "Lirien",
+      "group": "lirien-clear",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0589:m2",
+      "uid": "u0589",
+      "ordinal": 2,
+      "lineNumber": 589,
+      "start": 123,
+      "end": 133,
+      "before": "{{Thyron}}",
+      "span": "Thyron",
+      "line": "[u0589 | 00:59:26.620-00:59:38.309 | DM] she turns and she looks you, {{Lyrian}}, you said. Your name is where is where is {{Thyron}}? Where is",
+      "contextBefore": [
+        "[u0587 | 00:59:09.270-00:59:11.320 | Delwath] worm your way into our friend?",
+        "[u0588 | 00:59:15.000-00:59:16.700 | DM] Minutes ago"
+      ],
+      "contextAfter": [
+        "[u0590 | 00:59:41.280-00:59:42.730 | DM] {{hilarious}}?",
+        "[u0591 | 00:59:44.240-00:59:47.500 | DM] You have an Amberlight."
+      ],
+      "after": "Thyrian",
+      "group": "thyrian-short",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0590:m1",
+      "uid": "u0590",
+      "ordinal": 1,
+      "lineNumber": 590,
+      "start": 41,
+      "end": 54,
+      "before": "{{hilarious}}",
+      "span": "hilarious",
+      "line": "[u0590 | 00:59:41.280-00:59:42.730 | DM] {{hilarious}}?",
+      "contextBefore": [
+        "[u0588 | 00:59:15.000-00:59:16.700 | DM] Minutes ago",
+        "[u0589 | 00:59:26.620-00:59:38.309 | DM] she turns and she looks you, {{Lyrian}}, you said. Your name is where is where is {{Thyron}}? Where is"
+      ],
+      "contextAfter": [
+        "[u0591 | 00:59:44.240-00:59:47.500 | DM] You have an Amberlight.",
+        "[u0592 | 00:59:48.670-00:59:50.100 | DM] Where are the rest?"
+      ],
+      "after": "Aelirios",
+      "group": "aelirios",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0593:m1",
+      "uid": "u0593",
+      "ordinal": 1,
+      "lineNumber": 593,
+      "start": 51,
+      "end": 61,
+      "before": "{{Lyrian}}",
+      "span": "Lyrian",
+      "line": "[u0593 | 00:59:57.400-01:00:04.360 | DM] She turns {{Lyrian}} turns, and like breaking down in tears, I I think they're all dead.",
+      "contextBefore": [
+        "[u0591 | 00:59:44.240-00:59:47.500 | DM] You have an Amberlight.",
+        "[u0592 | 00:59:48.670-00:59:50.100 | DM] Where are the rest?"
+      ],
+      "contextAfter": [
+        "[u0594 | 01:00:05.440-01:00:10.970 | DM] Taken Gloomshaper took the Refuges",
+        "[u0595 | 01:00:12.120-01:00:15.230 | DM] Harrow and Wend broke through the Sunset Gate"
+      ],
+      "after": "Lirien",
+      "group": "lirien-clear",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0600:m1",
+      "uid": "u0600",
+      "ordinal": 1,
+      "lineNumber": 600,
+      "start": 48,
+      "end": 58,
+      "before": "{{Lyrian}}",
+      "span": "Lyrian",
+      "line": "[u0600 | 01:00:56.010-01:01:01.310 | DM] First, {{Lyrian}} yells in terror.",
+      "contextBefore": [
+        "[u0598 | 01:00:26.760-01:00:40.149 | Delwath] we can. We can fix this, you know. Don't don't I know it's that—like, a little encouraging like, you know. Don't, don't, don't despair, and you know, don't. Don't take this personally. She's just not, you know. She's just expressing her grief in her own way.",
+        "[u0599 | 01:00:46.210-01:00:50.060 | DM] So 2 things happen at once. Again."
+      ],
+      "contextAfter": [
+        "[u0601 | 01:01:02.600-01:01:04.480 | DM] My steed is in danger.",
+        "[u0602 | 01:01:07.490-01:01:11.543 | DM] and begins running up the stairs, and then"
+      ],
+      "after": "Lirien",
+      "group": "lirien-clear",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0703:m1",
+      "uid": "u0703",
+      "ordinal": 1,
+      "lineNumber": 703,
+      "start": 56,
+      "end": 66,
+      "before": "{{Marion}}",
+      "span": "Marion",
+      "line": "[u0703 | 01:09:16.090-01:09:21.700 | DM] So then here's {{Marion}}. Here's amber stag.",
+      "contextBefore": [
+        "[u0701 | 01:09:05.080-01:09:06.540 | DM] That's not all there is.",
+        "[u0702 | 01:09:13.100-01:09:14.520 | Wellby] Trees growing nicely."
+      ],
+      "contextAfter": [
+        "[u0704 | 01:09:22.010-01:09:29.249 | DM] {{No worries all Jack}}, running towards running from his",
+        "[u0705 | 01:09:32.750-01:09:38.449 | DM] running towards the control tower at the moment."
+      ],
+      "after": "Lirien",
+      "group": "lirien-supported",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0784:m1",
+      "uid": "u0784",
+      "ordinal": 1,
+      "lineNumber": 784,
+      "start": 41,
+      "end": 51,
+      "before": "{{Lyrian}}",
+      "span": "Lyrian",
+      "line": "[u0784 | 01:17:34.360-01:17:38.319 | DM] {{Lyrian}}, the shadows begin to climb over them, and as they",
+      "contextBefore": [
+        "[u0782 | 01:17:21.590-01:17:22.800 | DM] of the shape.",
+        "[u0783 | 01:17:24.050-01:17:32.820 | DM] However, as the darkness swirls around the bodies of this golden Stag and"
+      ],
+      "contextAfter": [
+        "[u0785 | 01:17:38.920-01:17:45.299 | DM] both fall to the ground, their bodies disintegrate, and shades rise from their corpses.",
+        "[u0786 | 01:17:50.420-01:17:51.350 | Riswynn] Okay."
+      ],
+      "after": "Lirien",
+      "group": "lirien-clear",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0853:m1",
+      "uid": "u0853",
+      "ordinal": 1,
+      "lineNumber": 853,
+      "start": 99,
+      "end": 109,
+      "before": "{{Lyrian}}",
+      "span": "Lyrian",
+      "line": "[u0853 | 01:22:48.530-01:22:58.020 | DM] Oh, and the the Amberlight went out when the darkness hit {{Lyrian}}.",
+      "contextBefore": [
+        "[u0851 | 01:22:41.490-01:22:42.060 | DM] Okay,",
+        "[u0852 | 01:22:45.010-01:22:46.589 | DM] I'll just draw an X."
+      ],
+      "contextAfter": [
+        "[u0854 | 01:22:58.310-01:22:59.729 | Riswynn] That was very upsetting.",
+        "[u0855 | 01:22:59.980-01:23:01.710 | DM] This light source is gone."
+      ],
+      "after": "Lirien",
+      "group": "lirien-clear",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1064:m1",
+      "uid": "u1064",
+      "ordinal": 1,
+      "lineNumber": 1064,
+      "start": 98,
+      "end": 108,
+      "before": "{{Lyrion}}",
+      "span": "Lyrion",
+      "line": "[u1064 | 01:36:05.070-01:36:17.029 | DM] the the same sort of golden lantern, like thing that the {{Lyrion}} was holding before she was destroyed and turned into a shadow. But it's all twisted with black.",
+      "contextBefore": [
+        "[u1062 | 01:35:48.600-01:35:54.206 | DM] Creature that's attacking Wellby as it swings its blade at you, hitting you 3 times,",
+        "[u1063 | 01:35:54.980-01:36:04.490 | DM] says. And you can see now that in inside the interior of this shadowy cloud there's the same sort of thing that"
+      ],
+      "contextAfter": [
+        "[u1065 | 01:36:17.030-01:36:17.680 | Wellby] Oh, yeah.",
+        "[u1066 | 01:36:18.760-01:36:25.820 | DM] With black tendrils of shadow, and the light is out, but it's it's thumping almost like a heart."
+      ],
+      "after": "Lirien",
+      "group": "lirien-clear",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1418:m1",
+      "uid": "u1418",
+      "ordinal": 1,
+      "lineNumber": 1418,
+      "start": 108,
+      "end": 123,
+      "before": "{{wind shades}}",
+      "span": "wind shades",
+      "line": "[u1418 | 02:01:12.350-02:01:20.359 | DM] That's another 13, 18 points of damage to Kenzo, and that ends the {{wind shades}} turn",
+      "contextBefore": [
+        "[u1416 | 02:01:05.640-02:01:08.279 | Wellby] Good you mean that's good is what you mean.",
+        "[u1417 | 02:01:08.280-02:01:11.610 | DM] Wait! Wait! I don't get my reaction back until my turn."
+      ],
+      "contextAfter": [
+        "[u1419 | 02:01:21.912-02:01:27.650 | DM] the shades now will run towards.",
+        "[u1420 | 02:01:28.870-02:01:31.650 | DM] You're not gonna be able to do anything against this one."
+      ],
+      "after": "Wendshade's",
+      "group": "wendshade",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2309:m1",
+      "uid": "u2309",
+      "ordinal": 1,
+      "lineNumber": 2309,
+      "start": 85,
+      "end": 95,
+      "before": "{{Lyrian}}",
+      "span": "Lyrian",
+      "line": "[u2309 | 03:03:39.180-03:03:46.369 | DM] both by the seemingly irreversible death of {{Lyrian}} and her stag, and by the",
+      "contextBefore": [
+        "[u2307 | 03:03:21.150-03:03:27.060 | DM] sent rivers of darkness oozing through the cracks in the Sunset Gate are defeated.",
+        "[u2308 | 03:03:29.200-03:03:38.840 | DM] Seeker turns back from a giant ape into the Lady Eventide, distraught"
+      ],
+      "contextAfter": [
+        "[u2310 | 03:03:52.830-03:03:59.360 | DM] and as it is 1220, in the interest of time rather than role playing it out, she in her distraught.",
+        "[u2311 | 03:03:59.760-03:04:07.380 | DM] high-pitched, semi-Seeker voice seems very agitated and basically says"
+      ],
+      "after": "Lirien",
+      "group": "lirien-clear",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u0023": {
+      "before": "[u0023 | 00:02:13.050-00:02:24.150 | DM] It's been 10 days since {{Gladstorm}} was recovered from a Cha'mutte's prison on the {{Seaflora Island}}, defeated.\n",
+      "after": "[u0023 | 00:02:13.050-00:02:24.150 | DM] It's been 10 days since Cloudspinner was recovered from a Cha'mutte's prison on the Circular Island, defeated.\n"
+    },
+    "u0553": {
+      "before": "[u0553 | 00:56:14.780-00:56:19.090 | Riswynn] Does that ring a bell for {{Marianne}} at all.\n",
+      "after": "[u0553 | 00:56:14.780-00:56:19.090 | Riswynn] Does that ring a bell for Lirien at all.\n"
+    },
+    "u0542": {
+      "before": "[u0542 | 00:54:43.000-00:54:51.409 | DM] and {{Lyrian}} just looks confused. The light, the Amberlight shining from her crystal lantern shows\n",
+      "after": "[u0542 | 00:54:43.000-00:54:51.409 | DM] and Lirien just looks confused. The light, the Amberlight shining from her crystal lantern shows\n"
+    },
+    "u0784": {
+      "before": "[u0784 | 01:17:34.360-01:17:38.319 | DM] {{Lyrian}}, the shadows begin to climb over them, and as they\n",
+      "after": "[u0784 | 01:17:34.360-01:17:38.319 | DM] Lirien, the shadows begin to climb over them, and as they\n"
+    },
+    "u1064": {
+      "before": "[u1064 | 01:36:05.070-01:36:17.029 | DM] the the same sort of golden lantern, like thing that the {{Lyrion}} was holding before she was destroyed and turned into a shadow. But it's all twisted with black.\n",
+      "after": "[u1064 | 01:36:05.070-01:36:17.029 | DM] the the same sort of golden lantern, like thing that the Lirien was holding before she was destroyed and turned into a shadow. But it's all twisted with black.\n"
+    },
+    "u0703": {
+      "before": "[u0703 | 01:09:16.090-01:09:21.700 | DM] So then here's {{Marion}}. Here's amber stag.\n",
+      "after": "[u0703 | 01:09:16.090-01:09:21.700 | DM] So then here's Lirien. Here's amber stag.\n"
+    },
+    "u0589": {
+      "before": "[u0589 | 00:59:26.620-00:59:38.309 | DM] she turns and she looks you, {{Lyrian}}, you said. Your name is where is where is {{Thyron}}? Where is\n",
+      "after": "[u0589 | 00:59:26.620-00:59:38.309 | DM] she turns and she looks you, Lirien, you said. Your name is where is where is Thyrian? Where is\n"
+    },
+    "u0107": {
+      "before": "[u0107 | 00:12:55.930-00:13:03.399 | Riswynn] Riswynn has been grateful to be back on Vindristjarna and in her shrine to the {{Biharazal}}, and\n",
+      "after": "[u0107 | 00:12:55.930-00:13:03.399 | Riswynn] Riswynn has been grateful to be back on Vindristjarna and in her shrine to the Bahrâzel, and\n"
+    },
+    "u0407": {
+      "before": "[u0407 | 00:41:34.280-00:41:40.320 | DM] {{Therian Duskward}}, or anybody who could fight the darkness.\n",
+      "after": "[u0407 | 00:41:34.280-00:41:40.320 | DM] Thyrian Duskward, or anybody who could fight the darkness.\n"
+    },
+    "u0024": {
+      "before": "[u0024 | 00:02:24.320-00:02:27.670 | DM] Cha'mutte's spawn the Black Dragon {{redempters}}\n",
+      "after": "[u0024 | 00:02:24.320-00:02:27.670 | DM] Cha'mutte's spawn the Black Dragon Ra'ghemdros\n"
+    },
+    "u0593": {
+      "before": "[u0593 | 00:59:57.400-01:00:04.360 | DM] She turns {{Lyrian}} turns, and like breaking down in tears, I I think they're all dead.\n",
+      "after": "[u0593 | 00:59:57.400-01:00:04.360 | DM] She turns Lirien turns, and like breaking down in tears, I I think they're all dead.\n"
+    },
+    "u0225": {
+      "before": "[u0225 | 00:25:20.880-00:25:28.949 | DM] almost indignant, and she says, how dare you? I am {{Illyrian}} lantern keeper of Redsun Watch.\n",
+      "after": "[u0225 | 00:25:20.880-00:25:28.949 | DM] almost indignant, and she says, how dare you? I am Lirien lantern keeper of Redsun Watch.\n"
+    },
+    "u1418": {
+      "before": "[u1418 | 02:01:12.350-02:01:20.359 | DM] That's another 13, 18 points of damage to Kenzo, and that ends the {{wind shades}} turn\n",
+      "after": "[u1418 | 02:01:12.350-02:01:20.359 | DM] That's another 13, 18 points of damage to Kenzo, and that ends the Wendshade's turn\n"
+    },
+    "u0560": {
+      "before": "[u0560 | 00:56:48.580-00:56:55.940 | Delwath] I'll introduce. I'll introduce Lady Eventide to {{Larian}}, the keeper of the {{Fred}}.\n",
+      "after": "[u0560 | 00:56:48.580-00:56:55.940 | Delwath] I'll introduce. I'll introduce Lady Eventide to Lirien, the keeper of the {{Fred}}.\n"
+    },
+    "u0022": {
+      "before": "[u0022 | 00:02:02.680-00:02:11.600 | DM] 4th of the 5 3rd of the 5 fragments, the 5 fragments of {{Jane}} that you were seeking.\n",
+      "after": "[u0022 | 00:02:02.680-00:02:11.600 | DM] 4th of the 5 3rd of the 5 fragments, the 5 fragments of jade that you were seeking.\n"
+    },
+    "u2309": {
+      "before": "[u2309 | 03:03:39.180-03:03:46.369 | DM] both by the seemingly irreversible death of {{Lyrian}} and her stag, and by the\n",
+      "after": "[u2309 | 03:03:39.180-03:03:46.369 | DM] both by the seemingly irreversible death of Lirien and her stag, and by the\n"
+    },
+    "u0373": {
+      "before": "[u0373 | 00:37:30.920-00:37:45.830 | DM] quickly fading, quickly desaturating Seeker off. Well, Wellby, Riswynn, and Delwath lead {{Lyrian}}\n",
+      "after": "[u0373 | 00:37:30.920-00:37:45.830 | DM] quickly fading, quickly desaturating Seeker off. Well, Wellby, Riswynn, and Delwath lead Lirien\n"
+    },
+    "u0379": {
+      "before": "[u0379 | 00:38:24.700-00:38:39.349 | DM] hair, sort of long and kind of almost wrapped around her naked body. And this light that {{leery}}, is carrying flares, and it's even brighter as she steps into the hold.\n",
+      "after": "[u0379 | 00:38:24.700-00:38:39.349 | DM] hair, sort of long and kind of almost wrapped around her naked body. And this light that Lirien, is carrying flares, and it's even brighter as she steps into the hold.\n"
+    },
+    "u0526": {
+      "before": "[u0526 | 00:53:21.140-00:53:21.730 | Riswynn] {{Lorenne}}.\n",
+      "after": "[u0526 | 00:53:21.140-00:53:21.730 | Riswynn] Lirien.\n"
+    },
+    "u0250": {
+      "before": "[u0250 | 00:27:19.170-00:27:23.209 | DM] {{Arian}}, the lantern keeper of Redsun Watch.\n",
+      "after": "[u0250 | 00:27:19.170-00:27:23.209 | DM] Lirien, the lantern keeper of Redsun Watch.\n"
+    },
+    "u0590": {
+      "before": "[u0590 | 00:59:41.280-00:59:42.730 | DM] {{hilarious}}?\n",
+      "after": "[u0590 | 00:59:41.280-00:59:42.730 | DM] Aelirios?\n"
+    },
+    "u0600": {
+      "before": "[u0600 | 01:00:56.010-01:01:01.310 | DM] First, {{Lyrian}} yells in terror.\n",
+      "after": "[u0600 | 01:00:56.010-01:01:01.310 | DM] First, Lirien yells in terror.\n"
+    },
+    "u0380": {
+      "before": "[u0380 | 00:38:39.460-00:38:42.520 | DM] and she, {{Learyan}}, falls to her knees.\n",
+      "after": "[u0380 | 00:38:39.460-00:38:42.520 | DM] and she, Lirien, falls to her knees.\n"
+    },
+    "u0853": {
+      "before": "[u0853 | 01:22:48.530-01:22:58.020 | DM] Oh, and the the Amberlight went out when the darkness hit {{Lyrian}}.\n",
+      "after": "[u0853 | 01:22:48.530-01:22:58.020 | DM] Oh, and the the Amberlight went out when the darkness hit Lirien.\n"
+    },
+    "u0559": {
+      "before": "[u0559 | 00:56:43.480-00:56:46.910 | Delwath] I'll look over at {{Larry}} and Lady Eventide.\n",
+      "after": "[u0559 | 00:56:43.480-00:56:46.910 | Delwath] I'll look over at Lirien and Lady Eventide.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:46:46.179908+00:00",
+      "sha256": "9a3393a19feb7657c3b7e6f55c61e2583b8fd72fd8de8baa5b65ec90052418db"
+    }
+  ],
+  "runId": "20261028T044646165014Z-4de5e4e9",
+  "createdAt": "2026-10-28T04:46:46.165359+00:00"
+}

@@ -1,0 +1,296 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-045",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-045/cleaned/dunmari-frontier-045-source-cleaned.md",
+  "beforeSha256": "a3211b9a47791382c4fdcadf3bc0741ff05dfeaa045e1a54efb302794e512bf4",
+  "afterSha256": "a3211b9a47791382c4fdcadf3bc0741ff05dfeaa045e1a54efb302794e512bf4",
+  "markersBefore": 48,
+  "groups": [
+    {
+      "id": "damaged-diamond-comment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Possible Dunmari and Chardonian references are embedded in an unrecoverable sentence. The diamond discussion does not establish complete name-only replacement boundaries.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Mirror Visions/Extravagant Diamond Vision.md",
+          "sha256": "bc3c8ab73fc08eee22c93a88b78c6b95d3ec5b7faf215bc67ef35b9702785b4e"
+        }
+      ],
+      "candidates": [
+        "Dunmari",
+        "Chardonian"
+      ],
+      "markerIds": [
+        "u0910:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0910:m1": "{{I haven't worked with this recently from the reforms, then married and it's cruelly murdered by dastardly chuck God and see what that was that you shorts}}"
+      }
+    },
+    {
+      "id": "dunmari-in-damaged-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The context concerns travelers and an escort; Dunmari is plausible within the long damaged phrase, but replacing the full span would reconstruct ordinary dialogue.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 45 (DuFr).md",
+          "sha256": "5e3205117a76555d93c97dbb187b256c34899ad330e18e5ec3ca0051ca6846c5"
+        }
+      ],
+      "candidates": [
+        "Dunmari"
+      ],
+      "markerIds": [
+        "u0718:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0718:m1": "{{I think just didn't speak to them, I think, just done Marty ironed up off}}"
+      }
+    },
+    {
+      "id": "gemcutting-geography",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The sources locate a gem-trading kingdom west of Seeker's homeland, but morning does not establish a unique spoken place name and may instead be a damaged ordinary reference to mountains.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Central Highlands/Dwarven Kingdoms/Am'khazar.md",
+          "sha256": "f9766849562537fd4ce162acd287d15e2e5548fb7b6968e263f18baaba69e8ac"
+        },
+        {
+          "path": "Gazetteer/Central Highlands/Dwarven Kingdoms/Dwarven Kingdoms.md",
+          "sha256": "902e5e3ddee684e8ef15a7aed0abe10f1bbd5ea030ecb1e162221232856150b7"
+        },
+        {
+          "path": "People/PCs/Dunmar Fellowship/Seeker.md",
+          "sha256": "8b2f8f32c624834ed7056f6507330f4150d10ed1ac2b9a65af1c335b8b5f10e5"
+        }
+      ],
+      "candidates": [
+        "Am'khazar"
+      ],
+      "markerIds": [
+        "u1048:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1048:m1": "{{morning}}"
+      }
+    },
+    {
+      "id": "illorian-boat-description",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The Darba note establishes Illorian poled boats, strongly suggesting the intended description. The marked span combines the demonym with damaged ordinary wording; replacing it would also reconstruct the boat description, so the complete span is retained.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Dunmar/Realms/Dunmar/Coastal Dunmar/Darba/Darba.md",
+          "sha256": "ace32c250b01da91c4640838eb78931d4b4f281b279e9507fa60f2d603385490"
+        }
+      ],
+      "candidates": [
+        "Illorian poled"
+      ],
+      "markerIds": [
+        "u1202:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1202:m1": "{{loria hold}}"
+      }
+    },
+    {
+      "id": "map-geography",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The question concerns maps of ancient Drankorian cities, but town may be ordinary wording or a damaged geographic name. The dialogue does not distinguish a local region from the wider world.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 45 (DuFr).md",
+          "sha256": "5e3205117a76555d93c97dbb187b256c34899ad330e18e5ec3ca0051ca6846c5"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0894:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0894:m1": "{{town}}"
+      }
+    },
+    {
+      "id": "nardith-in-damaged-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Nardith is favored for the kingdom reference, but the marker also includes a damaged descriptive clause and mountain reference. Reducing it to the name would delete spoken content; reconstructing the clause is outside names-v1.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Dunmar/Realms/Nardith/Nardith.md",
+          "sha256": "9a16d01a4c4212a0d25b84b2291dabdf55b8dadc647db4d9f4115783f55bdb17"
+        }
+      ],
+      "candidates": [
+        "Nardith"
+      ],
+      "markerIds": [
+        "u1046:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1046:m1": "{{Nordic that Kingdom in the rocky mountains}}"
+      }
+    },
+    {
+      "id": "ordinary-dialogue-and-mechanics",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary dialogue, damaged sentence wording, rules and combat discussion, numbers, and descriptive narration outside the name pass. Existing names inside longer spans do not authorize reconstruction; all such wording remains verbatim.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0022:m1",
+        "u0029:m1",
+        "u0107:m1",
+        "u0109:m1",
+        "u0110:m1",
+        "u0116:m1",
+        "u0119:m1",
+        "u0133:m1",
+        "u0180:m1",
+        "u0202:m1",
+        "u0224:m1",
+        "u0283:m1",
+        "u0293:m1",
+        "u0304:m1",
+        "u0304:m2",
+        "u0305:m1",
+        "u0328:m1",
+        "u0340:m1",
+        "u0352:m1",
+        "u0353:m1",
+        "u0355:m1",
+        "u0378:m1",
+        "u0379:m1",
+        "u0389:m1",
+        "u0390:m1",
+        "u0413:m1",
+        "u0414:m1",
+        "u0422:m1",
+        "u0437:m1",
+        "u0441:m1",
+        "u0451:m1",
+        "u0467:m1",
+        "u0855:m1",
+        "u0868:m1",
+        "u0941:m1",
+        "u1057:m1",
+        "u1059:m1",
+        "u1139:m1",
+        "u1177:m1",
+        "u1211:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0022:m1": "{{you are sat}}",
+        "u0029:m1": "{{me to those}}",
+        "u0107:m1": "{{or just get a chance}}",
+        "u0109:m1": "{{park}}",
+        "u0110:m1": "{{suction poison}}",
+        "u0116:m1": "{{I'm counting on it}}",
+        "u0119:m1": "{{live with it, and so you know it's killing me}}",
+        "u0133:m1": "{{More of those}}",
+        "u0180:m1": "{{Here is married to go in and}}",
+        "u0202:m1": "{{all that}}",
+        "u0224:m1": "{{and have the pocket}}",
+        "u0283:m1": "{{that's detection}}",
+        "u0293:m1": "{{it's like point}}",
+        "u0304:m1": "{{the backdrop, I said}}",
+        "u0304:m2": "{{felt safe}}",
+        "u0305:m1": "{{out and save}}",
+        "u0328:m1": "{{rolled high enough}}",
+        "u0340:m1": "{{the end nothing happens at once}}",
+        "u0352:m1": "{{was allowing visibility}}",
+        "u0353:m1": "{{Wellby is complete to Wellby can do whatever he wants}}",
+        "u0355:m1": "{{Natural myself}}",
+        "u0378:m1": "{{just getting advantage}}",
+        "u0379:m1": "{{popped the lead}}",
+        "u0389:m1": "{{it's always played them years it's}}",
+        "u0390:m1": "{{About becoming disbelief your folders isn't visible}}",
+        "u0413:m1": "{{Reduction resolve}}",
+        "u0414:m1": "{{An issue with advantage}}",
+        "u0422:m1": "{{For word been captured}}",
+        "u0437:m1": "{{carry by it}}",
+        "u0441:m1": "{{I've gotten quiet}}",
+        "u0451:m1": "{{And I have never was blown or stylish}}",
+        "u0467:m1": "{{These terms, after a while the the mind}}",
+        "u0855:m1": "{{It is a bad before I thought for certain}}",
+        "u0868:m1": "{{in China}}",
+        "u0941:m1": "{{that creature's}}",
+        "u1057:m1": "{{we're doing current place that}}",
+        "u1059:m1": "{{secret where where the secret Copyright Office}}",
+        "u1139:m1": "{{completely}}",
+        "u1177:m1": "{{enough up the coast}}",
+        "u1211:m1": "{{be}}"
+      }
+    },
+    {
+      "id": "possible-grash",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Grash is a possible name within the damaged span, but the surrounding words cannot be recovered within a whole-marker name replacement. The organizational discussion does not establish the identity uniquely.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Grash.md",
+          "sha256": "3d3dbf893416d0350386dbfc2639bc2dcc2431bdfea18dffc0ae43db37d9c484"
+        }
+      ],
+      "candidates": [
+        "Grash"
+      ],
+      "markerIds": [
+        "u0007:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0007:m1": "{{sentence 30 garage}}"
+      }
+    },
+    {
+      "id": "possible-wyvern",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The mirror discussion and nearby wyvern references suggest a creature term, but winner and may also be ordinary wording. The complete marked replacement is not established.",
+      "evidence": [],
+      "candidates": [
+        "wyvern"
+      ],
+      "markerIds": [
+        "u0146:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0146:m1": "{{winner and}}"
+      }
+    }
+  ],
+  "changes": [],
+  "lines": {},
+  "undoneMarkerIds": [],
+  "state": "reviewed_no_changes",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T03:55:45.299254+00:00",
+      "sha256": "a3211b9a47791382c4fdcadf3bc0741ff05dfeaa045e1a54efb302794e512bf4"
+    }
+  ],
+  "runId": "20261028T035545296994Z-6879f793",
+  "createdAt": "2026-10-28T03:55:45.297378+00:00"
+}

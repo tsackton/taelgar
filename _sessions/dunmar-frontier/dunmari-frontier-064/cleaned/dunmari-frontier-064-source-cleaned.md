@@ -60,7 +60,7 @@
 [u0060 | 00:06:36.380-00:06:49.970 | Kenzo] kind of staring at the lava and his long. His hair now is is ah, you know, before normal. It's normally like tied back, but is is undone, so it's kind of long hair down to his. You know. Kind of around here right now, but it's sort of waving, and he's um
 [u0061 | 00:06:50.750-00:06:56.739 | Kenzo] getting himself cleaned up a little bit after battle, and trying to assess, looking at the lava, how to get across.
 [u0062 | 00:06:57.450-00:07:02.439 | DM] And remember I I forgot this at the end of the
-[u0063 | 00:07:03.170-00:07:16.439 | DM] at the end of last session. The Fire Spirit, as he left like burned a symbol into your staff right the {{Ohhana}} symbol of the of the {{Ohana}} ki, which
+[u0063 | 00:07:03.170-00:07:16.439 | DM] at the end of last session. The Fire Spirit, as he left like burned a symbol into your staff right the Ohana symbol of the of the Ohana ki, which
 [u0064 | 00:07:16.450-00:07:29.849 | DM] you'll need to. You'll need to like, Deal with all the problems before it can. It can like, charge up and give you like a power, but it has a minor effect, which is, if you score a critical hit against a creature with your staff.
 [u0065 | 00:07:30.130-00:07:31.190 | DM] Um!
 [u0066 | 00:07:31.520-00:07:38.789 | DM] It takes an extra 1d6 necrotic damage, and has to make a Wisdom saving throw. If it fails,
@@ -1006,7 +1006,7 @@
 [u1006 | 01:25:13.660-01:25:20.150 | Kenzo] how do you remember how that earlier Kenzo, like went to the dream world like went to the Plane of Souls. How do I get there again?
 [u1007 | 01:25:20.990-01:25:25.079 | DM] Uh, that was like some ritual that
 [u1008 | 01:25:25.500-01:25:26.719 | DM] Ah,
-[u1009 | 01:25:27.530-01:25:37.499 | DM] what was his name? Um, that was {{our}} yeah, the lizardfolk. Yeah, there's not an easy way for you to get there on your own
+[u1009 | 01:25:27.530-01:25:37.499 | DM] what was his name? Um, that was Elazar yeah, the lizardfolk. Yeah, there's not an easy way for you to get there on your own
 [u1010 | 01:25:38.130-01:25:40.870 | Kenzo] Kenzo. Looks at um, Allua.
 [u1011 | 01:25:42.390-01:25:44.010 | DM] Um, Yeah,
 [u1012 | 01:25:45.960-01:25:48.510 | DM] the the dryad,
@@ -1872,7 +1872,7 @@
 [u1872 | 02:33:05.620-02:33:15.319 | DM] first stealing little things, then working his way up to stealing bigger things and growing up in a city not one that you recognize, but
 [u1873 | 02:33:16.420-02:33:21.580 | DM] in many ways a childhood very similar to Kenzo's
 [u1874 | 02:33:21.940-02:33:22.980 | DM] um,
-[u1875 | 02:33:23.290-02:33:28.879 | DM] except if you had in Kenzo's life if he had never found {{Peso}},
+[u1875 | 02:33:23.290-02:33:28.879 | DM] except if you had in Kenzo's life if he had never found Kaeso,
 [u1876 | 02:33:31.350-02:33:32.730 | DM] and then
 [u1877 | 02:33:34.020-02:33:37.150 | DM] much later, like uh,
 [u1878 | 02:33:39.260-02:33:42.629 | DM] you know, middle age um
@@ -2112,7 +2112,7 @@
 [u2112 | 02:51:01.610-02:51:02.610 | Kenzo] that
 [u2113 | 02:51:04.090-02:51:09.940 | DM] that's perfect. And as as you actually I realize now, as
 [u2114 | 02:51:10.000-02:51:19.839 | DM] this is perfect, too, as the as you part from Motua. This swirling energy leaves a trail of
-[u2115 | 02:51:20.320-02:51:23.379 | DM] the {{hutsu}} ki
+[u2115 | 02:51:20.320-02:51:23.379 | DM] the Hutsu ki
 [u2116 | 02:51:24.250-02:51:35.459 | DM] which gives you will also give you it. There will be more items, but gives you advantage on death saving throws, canceling out the disadvantage from the
 [u2117 | 02:51:35.960-02:51:37.579 | DM] from the chain.
 [u2118 | 02:51:38.330-02:51:43.810 | DM] Um! And you also feel your staff filling up with ki. Not just
@@ -2120,7 +2120,7 @@
 [u2120 | 02:51:48.570-02:51:52.219 | DM] spiritual ki of this place. And as the jaguar
 [u2121 | 02:51:52.350-02:51:55.480 | DM] um turns and
 [u2122 | 02:51:56.700-02:52:00.460 | DM] uh looks at you, you can see your staff.
-[u2123 | 02:52:00.710-02:52:08.120 | DM] So this um, this sort of {{Hotsu}} mark from Motua
+[u2123 | 02:52:00.710-02:52:08.120 | DM] So this um, this sort of Hutsu mark from Motua
 [u2124 | 02:52:09.570-02:52:15.820 | DM] the the jaguar growls, and actually well, first, the jaguar turns to to Izzarak and says,
 [u2125 | 02:52:18.200-02:52:23.149 | DM] you have done well to keep open the door to this place that I could travel through.
 [u2126 | 02:52:23.990-02:52:25.300 | DM] Thank you.
@@ -2143,11 +2143,11 @@
 [u2143 | 02:53:38.160-02:53:39.270 | DM] and
 [u2144 | 02:53:40.610-02:53:41.680 | DM] uh
 [u2145 | 02:53:42.280-02:53:43.590 | DM] Grabs
-[u2146 | 02:53:43.670-02:54:02.099 | DM] grabs your staff again, and you can see these, like the plants, begin to like images of plants begin to grow, and you can see so um this {{aesa}} the dream. This dreamberry uh begins to grow out of your staff, and then sort of
+[u2146 | 02:53:43.670-02:54:02.099 | DM] grabs your staff again, and you can see these, like the plants, begin to like images of plants begin to grow, and you can see so um this Amezza the dream. This dreamberry uh begins to grow out of your staff, and then sort of
 [u2147 | 02:54:02.320-02:54:08.660 | DM] it grows like a real thing. But then it kind of fades into the wood like it's a woodprint in the top of the staff.
 [u2148 | 02:54:09.100-02:54:12.770 | DM] Um and the
 [u2149 | 02:54:13.610-02:54:14.660 | DM] ah
-[u2150 | 02:54:17.220-02:54:22.629 | DM] {{Bertaro}}, the the um, the vine that grows where
+[u2150 | 02:54:17.220-02:54:22.629 | DM] Urtaro, the the um, the vine that grows where
 [u2151 | 02:54:23.650-02:54:40.389 | DM] that grows in the lizardfolk, or the sorry, the lily pad that grows in the lizardfolk ponds um from the bottom of your staff, the the like colors of the flower of that the lily pad swirl up, forming kind of an abstract design going around the bottom,
 [u2152 | 02:54:41.030-02:54:42.000 | DM] and
 [u2153 | 02:54:42.510-02:54:43.490 | DM] um
@@ -2190,13 +2190,13 @@
 [u2190 | 02:57:21.270-02:57:22.900 | DM] yeah, go ahead.
 [u2191 | 02:57:23.130-02:57:25.000 | Kenzo] Yeah, yeah, that's it.
 [u2192 | 02:57:25.410-02:57:29.440 | DM] Ah, during during the time that he spends
-[u2193 | 02:57:29.740-02:57:38.119 | DM] uh, you learn about these new properties of your staff. So each basically you have the {{mesa with zoom or taro and nohana}} ki
+[u2193 | 02:57:29.740-02:57:38.119 | DM] uh, you learn about these new properties of your staff. So each basically you have the Amezza, Hutsu, Urtaro and Ohana ki
 [u2194 | 02:57:38.180-02:57:39.260 | DM] um,
 [u2195 | 02:57:39.750-02:57:41.190 | DM] and they each.
 [u2196 | 02:57:42.080-02:57:47.409 | DM] They don't the ki doesn't regenerate, but you can spend them each to do one so if you spend the
-[u2197 | 02:57:47.890-02:57:51.219 | DM] {{A as a}} ki, it lets you
+[u2197 | 02:57:47.890-02:57:51.219 | DM] Amezza ki, it lets you
 [u2198 | 02:57:51.380-02:57:59.630 | DM] enter a trance that allows you to visit the dream world. Look. Yes, but you can only do that once
-[u2199 | 02:58:03.520-02:58:10.670 | DM] you can use your {{Hootsu}} ki to grasp one departing spirit, and if they are willing return them to life.
+[u2199 | 02:58:03.520-02:58:10.670 | DM] you can use your Hutsu ki to grasp one departing spirit, and if they are willing return them to life.
 [u2200 | 02:58:11.790-02:58:15.729 | DM] But if the creature has been dead for more than twenty four hours,
 [u2201 | 02:58:15.770-02:58:19.230 | DM] um, or if the body is not intact, it doesn't work,
 [u2202 | 02:58:21.480-02:58:24.060 | DM] the
@@ -2382,7 +2382,7 @@
 [u2382 | 03:18:37.120-03:18:40.279 | Unknown] sometime this week to try and confirm,
 [u2383 | 03:18:42.190-03:18:43.749 | DM] because I'm hoping
 [u2384 | 03:18:45.070-03:18:49.960 | DM] I have, like a little mini Feywild arc, that'll be like one session,
-[u2385 | 03:18:51.240-03:19:01.159 | DM] and then you'll exit the Feywild and {{risen}} It'll be there to meet you with like, hey? Here's all this news. Make a big plot
+[u2385 | 03:18:51.240-03:19:01.159 | DM] and then you'll exit the Feywild and Riswynn It'll be there to meet you with like, hey? Here's all this news. Make a big plot
 [u2386 | 03:19:01.950-03:19:04.940 | DM] reset.
 [u2387 | 03:19:05.120-03:19:12.500 | DM] We've been gone for like eight years, or something like that. And like the Great War, the great war Part three is
 [u2388 | 03:19:13.420-03:19:16.420 | DM] so a lot could have happened in that time.

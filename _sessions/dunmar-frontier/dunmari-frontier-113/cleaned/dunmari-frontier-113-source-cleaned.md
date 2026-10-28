@@ -1577,7 +1577,7 @@
 [u1577 | 02:07:08.126-02:07:13.469 | DM] Riswynn already dispelled the glyph that would teleport you to the Elven divine realm. So
 [u1578 | 02:07:13.490-02:07:15.590 | DM] you don't have to worry about that.
 [u1579 | 02:07:16.170-02:07:16.610 | Seeker] Oh!
-[u1580 | 02:07:16.610-02:07:17.989 | Delwath] But I want to go to the {{Elven Device}}.
+[u1580 | 02:07:16.610-02:07:17.989 | Delwath] But I want to go to the Elven divine realm.
 [u1581 | 02:07:19.020-02:07:22.730 | Seeker] They had to say it's name aloud in.
 [u1582 | 02:07:22.730-02:07:31.180 | DM] You had said its name aloud, you wouldn't have had to dispel all the magic.
 [u1583 | 02:07:31.970-02:07:35.909 | Delwath] Oh, you mean it didn't count because we didn't know we were.
@@ -1784,7 +1784,7 @@
 [u1784 | 02:30:08.590-02:30:21.300 | DM] magic users, divine people who were memorializing the the
 [u1785 | 02:30:21.990-02:30:30.650 | DM] the dead were were part of what seemed to be an order of not just divine magic users, but other
 [u1786 | 02:30:30.760-02:30:41.280 | DM] one of these these secret societies of Drankor that was devoted to the father, I think.
-[u1787 | 02:30:44.630-02:30:55.040 | DM] yeah, and and we're we're sort of known as the Radiant Path, or or {{auto, Lucas}}.
+[u1787 | 02:30:44.630-02:30:55.040 | DM] yeah, and and we're we're sort of known as the Radiant Path, or or Ordo Lucis.
 [u1788 | 02:30:55.710-02:30:58.319 | Delwath] Wait. Didn't we hear that name before.
 [u1789 | 02:30:58.320-02:31:04.339 | DM] No, you heard the Pyro something.
 [u1790 | 02:31:04.340-02:31:05.410 | Delwath] Now, yeah. Okay.
@@ -2163,7 +2163,7 @@
 [u2163 | 03:07:36.820-03:07:40.819 | DM] one story now it's all collapsed. There's piles of rubble around
 [u2164 | 03:07:41.070-03:07:48.539 | DM] what it seems to be, I mean, is this sort of very twisting sort of elegant curvy, almost wavy architecture.
 [u2165 | 03:07:50.270-03:08:00.699 | DM] And Kenzo, you you sense. You can feel now if you concentrate the the strongest sort of
-[u2166 | 03:08:00.730-03:08:10.030 | DM] echo. Strongest impression of this of this elf {{volanthi}}
+[u2166 | 03:08:00.730-03:08:10.030 | DM] echo. Strongest impression of this of this elf Valanthe
 [u2167 | 03:08:10.820-03:08:14.019 | DM] is in the courtyard of this building just ahead of you.
 [u2168 | 03:08:19.880-03:08:23.959 | DM] So you step forward into the courtyard.
 [u2169 | 03:08:24.200-03:08:24.810 | Riswynn] Yep.
@@ -2440,7 +2440,7 @@
 [u2440 | 03:30:23.900-03:30:27.770 | Wellby] Oh, pull it out! What what is it?
 [u2441 | 03:30:28.392-03:30:33.769 | DM] It is the not like a
 [u2442 | 03:30:34.360-03:30:44.699 | DM] part of a quill, like the ink part of a silver quill, I mean Kenzo. When you touch this you can. You can sense immediately that
-[u2443 | 03:30:45.130-03:30:48.079 | DM] {{violanthea}}. This elven woman, was a writer.
+[u2443 | 03:30:45.130-03:30:48.079 | DM] Valanthe. This elven woman, was a writer.
 [u2444 | 03:30:50.650-03:30:54.230 | DM] and this is what's left of her writing.
 [u2445 | 03:30:56.250-03:31:00.159 | Delwath] Well that seems like success right?
 [u2446 | 03:31:01.720-03:31:03.960 | Kenzo] Elected.

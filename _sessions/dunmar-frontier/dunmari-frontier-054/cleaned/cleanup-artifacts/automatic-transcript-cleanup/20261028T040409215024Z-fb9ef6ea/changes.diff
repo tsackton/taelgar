@@ -1,0 +1,20 @@
+--- before/u0158
++++ after/u0158
+@@ -1 +1 @@
+-[u0158 | 00:16:44.340-00:16:47.490 | Aristaea] {{For exactly}} was a great hero in the Dark Fire.
++[u0158 | 00:16:44.340-00:16:47.490 | Aristaea] Yezali was a great hero in the Dark Fire.
+--- before/u0527
++++ after/u0527
+@@ -1 +1 @@
+-[u0527 | 00:52:11.910-00:52:14.850 | DM] At this point now {{yesterday}}.
++[u0527 | 00:52:11.910-00:52:14.850 | DM] At this point now Aristaea.
+--- before/u1311
++++ after/u1311
+@@ -1 +1 @@
+-[u1311 | 01:59:43.980-01:59:46.440 | DM] {{Car}} fire and Yalik'i fire.
++[u1311 | 01:59:43.980-01:59:46.440 | DM] Nisir fire and Yalik'i fire.
+--- before/u1629
++++ after/u1629
+@@ -1 +1 @@
+-[u1629 | 02:31:11.670-02:31:24.180 | Delwath] yeah it's like marginally quicker to go Battle of Dark Fire Battle of Endless Dark {{matter of few more}} than to go that way that way that way, but not by much.
++[u1629 | 02:31:11.670-02:31:24.180 | Delwath] yeah it's like marginally quicker to go Battle of Dark Fire Battle of Endless Dark Battle of Yemo'te than to go that way that way that way, but not by much.

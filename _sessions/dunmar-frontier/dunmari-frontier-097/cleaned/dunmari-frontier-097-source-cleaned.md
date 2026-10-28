@@ -2739,7 +2739,7 @@
 [u2739 | 02:22:54.580-02:22:55.240 | DM] Wow!
 [u2740 | 02:22:55.730-02:22:57.059 | DM] Keep in touch.
 [u2741 | 02:22:58.490-02:23:00.050 | DM] Warn Havdar.
-[u2742 | 02:23:00.200-02:23:02.980 | DM] on the {{Slingara}} plains as soon as I can.
+[u2742 | 02:23:00.200-02:23:02.980 | DM] on the Songara plains as soon as I can.
 [u2743 | 02:23:04.060-02:23:04.680 | Kenzo] Just a.
 [u2744 | 02:23:04.680-02:23:06.010 | DM] Not a good time.
 [u2745 | 02:23:06.150-02:23:09.910 | Delwath] How is negotiations with Karnas going.
@@ -3179,7 +3179,7 @@
 [u3179 | 02:47:14.920-02:47:16.409 | DM] I am pleased that you have
 [u3180 | 02:47:19.800-02:47:20.850 | DM] chosen
 [u3181 | 02:47:21.060-02:47:21.980 | DM] to help.
-[u3182 | 02:47:23.920-02:47:26.469 | DM] and should you ever wish to visit the {{frost now}}.
+[u3182 | 02:47:23.920-02:47:26.469 | DM] and should you ever wish to visit the Frostfell.
 [u3183 | 02:47:29.100-02:47:30.680 | DM] our portal is yours.
 [u3184 | 02:47:35.890-02:47:37.010 | DM] Snoop
 [u3185 | 02:47:40.480-02:47:41.440 | DM] week.
@@ -3844,7 +3844,7 @@
 [u3844 | 03:27:25.280-03:27:31.787 | DM] Yeah, I mean, part of that route is gonna be passing over the Plaguelands. That's not something I really want to miss.
 [u3845 | 03:27:32.500-03:27:35.193 | Seeker] No, no, you don't wanna mess with that.
 [u3846 | 03:27:35.530-03:27:43.180 | DM] Mostly over open sea, though I don't think it's too bad. Actually, are we? Are we picking you up, or pretty
-[u3847 | 03:27:43.580-03:27:49.200 | DM] close? I think we're just in between Ursk and {{Erla}} right now.
+[u3847 | 03:27:43.580-03:27:49.200 | DM] close? I think we're just in between Ursk and Irrla right now.
 [u3848 | 03:27:49.725-03:27:53.399 | Seeker] We we have to go head out
 [u3849 | 03:27:54.565-03:27:55.620 | Seeker] west
 [u3850 | 03:27:55.810-03:27:58.330 | Seeker] for a little bit, and then we're gonna come back.

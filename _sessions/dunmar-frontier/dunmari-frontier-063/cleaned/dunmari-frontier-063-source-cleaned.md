@@ -1366,7 +1366,7 @@
 [u1366 | 01:55:12.180-01:55:19.630 | Mikasa] their actions. You're the one who’s stealing stuff. Yeah, what do we do? Just you’re Seeker
 [u1367 | 01:55:19.750-01:55:22.070 | Seeker] that I am,
 [u1368 | 01:55:22.090-01:55:24.949 | Seeker] and my,
-[u1369 | 01:55:27.510-01:55:29.899 | DM] you may call me {{a Lauren}}.
+[u1369 | 01:55:27.510-01:55:29.899 | DM] you may call me Illaran.
 [u1370 | 01:55:32.920-01:55:34.160 | DM] I'll be back.
 [u1371 | 01:55:34.960-01:55:38.390 | DM] He like walks into the wall and vanishes,
 [u1372 | 01:55:38.590-01:55:42.100 | DM] and the rest of you see a head pop out of the floor
@@ -1442,7 +1442,7 @@
 [u1442 | 02:00:55.630-02:00:57.929 | DM] ever been. No,
 [u1443 | 02:01:00.430-02:01:01.980 | Seeker] that's where I live. Right?
 [u1444 | 02:01:03.140-02:01:06.570 | DM] Ah, the elemental plane of earth.
-[u1445 | 02:01:07.630-02:01:12.339 | Seeker] Oh, I see I live on the plane of {{Tel Aviv}}.
+[u1445 | 02:01:07.630-02:01:12.339 | Seeker] Oh, I see I live on the plane of Taelgar.
 [u1446 | 02:01:15.900-02:01:22.230 | Raven] Well, what exactly happened? Did he take it? Yeah, I bet he took it.
 [u1447 | 02:01:23.340-02:01:24.879 | DM] Uh he ate it.
 [u1448 | 02:01:26.570-02:01:30.490 | Seeker] I guess I was kind of right when you think about it right Like
@@ -1691,9 +1691,9 @@
 [u1691 | 02:22:01.990-02:22:03.020 | Raven] um,
 [u1692 | 02:22:03.120-02:22:05.220 | Seeker] or maybe
 [u1693 | 02:22:05.540-02:22:11.060 | Raven] so Let's just go to the Hall of Mirrors. Let's follow the that guy What's his name again?
-[u1694 | 02:22:11.700-02:22:13.370 | DM] Ah, {{Lauren}},
-[u1695 | 02:22:13.960-02:22:16.939 | Seeker] Yeah, or follow {{a Lauren}}.
-[u1696 | 02:22:17.430-02:22:21.159 | DM] So {{a Lauren}} takes you down.
+[u1694 | 02:22:11.700-02:22:13.370 | DM] Ah, Illaran,
+[u1695 | 02:22:13.960-02:22:16.939 | Seeker] Yeah, or follow Illaran.
+[u1696 | 02:22:17.430-02:22:21.159 | DM] So Illaran takes you down.
 [u1697 | 02:22:21.450-02:22:22.569 | DM] He like
 [u1698 | 02:22:22.840-02:22:27.370 | DM] pulls a hole into the floor, and he takes you. He like
 [u1699 | 02:22:27.460-02:22:31.160 | DM] takes you down to like a chamber that's

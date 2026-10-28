@@ -1,0 +1,20 @@
+--- before/u0006
++++ after/u0006
+@@ -1 +1 @@
+-[u0006 | 00:00:29.360-00:00:35.840 | DM] the village of the Te'kula following {{Fema}} and your friends back into the material world,
++[u0006 | 00:00:29.360-00:00:35.840 | DM] the village of the Te'kula following Theba and your friends back into the material world,
+--- before/u1638
++++ after/u1638
+@@ -1 +1 @@
+-[u1638 | 02:16:21.900-02:16:23.389 | DM] {{i'd say that}}
++[u1638 | 02:16:21.900-02:16:23.389 | DM] Hutsu
+--- before/u1657
++++ after/u1657
+@@ -1 +1 @@
+-[u1657 | 02:17:40.290-02:17:41.850 | Unknown] {{Katie}}, there
++[u1657 | 02:17:40.290-02:17:41.850 | Unknown] ki, there
+--- before/u1814
++++ after/u1814
+@@ -1 +1 @@
+-[u1814 | 02:30:22.060-02:30:26.059 | DM] I mean, uh {{Craig's mind}}
++[u1814 | 02:30:22.060-02:30:26.059 | DM] I mean, uh Rai's mind

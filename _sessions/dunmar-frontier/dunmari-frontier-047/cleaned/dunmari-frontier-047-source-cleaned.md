@@ -146,7 +146,7 @@
 [u0146 | 00:14:37.170-00:14:44.040 | Delwath] it's it's partly because he never he has this feeling of because he knows.
 [u0147 | 00:14:45.150-00:14:49.740 | Delwath] Where that is but also it's just he feels like there's.
 [u0148 | 00:14:52.110-00:14:53.790 | Delwath] Something to do like.
-[u0149 | 00:14:55.710-00:15:12.450 | Delwath] understanding this some of the evils in the world and that the but he's convinced that his purpose is to become a hero and prevent the second right, the rise of {{Sherman}} from happening again right like not so much per se but.
+[u0149 | 00:14:55.710-00:15:12.450 | Delwath] understanding this some of the evils in the world and that the but he's convinced that his purpose is to become a hero and prevent the second right, the rise of Cha'mutte from happening again right like not so much per se but.
 [u0150 | 00:15:13.530-00:15:21.540 | Delwath] But he really believes in in the sort of power of the great man theory of history and he doesn't necessarily not necessarily.
 [u0151 | 00:15:22.350-00:15:31.830 | Delwath] So arrogant to assume, he is in fact the great man, but he feels like he's part of a group of people on a journey that will least influence.
 [u0152 | 00:15:33.120-00:15:33.540 | Delwath] The.
@@ -536,9 +536,9 @@
 [u0536 | 00:49:06.600-00:49:07.830 | DM] there's always stories.
 [u0537 | 00:49:09.360-00:49:10.020 | DM] There was a.
 [u0538 | 00:49:14.610-00:49:18.090 | DM] You know there's always tales of strange things coming out of the jungle, to the south.
-[u0539 | 00:49:19.890-00:49:26.250 | DM] Somebody claiming they had just come back from fighting off a horde of zombies on the River {{shroud}}.
+[u0539 | 00:49:19.890-00:49:26.250 | DM] Somebody claiming they had just come back from fighting off a horde of zombies on the River Shrev.
 [u0540 | 00:49:28.530-00:49:29.400 | DM] seems plausible.
-[u0541 | 00:49:35.100-00:49:36.690 | DM] {{Nine chernoff}} is always.
+[u0541 | 00:49:35.100-00:49:36.690 | DM] Nayan Karnas is always.
 [u0542 | 00:49:37.560-00:49:38.550 | Unknown] fortifying.
 [u0543 | 00:49:39.720-00:49:41.220 | DM] defenses to the south.
 [u0544 | 00:49:46.500-00:49:47.520 | DM] There was some.
@@ -710,7 +710,7 @@
 [u0710 | 01:02:57.180-01:02:57.600 | Kenzo] Jasmine.
 [u0711 | 01:02:58.170-01:03:08.010 | Kenzo] Kenzo reveals that to Jasmine and and Oswalt, says, you know I am I not too long ago I lost my picture.
 [u0712 | 01:03:09.900-01:03:11.970 | Kenzo] I not long ago I.
-[u0713 | 01:03:13.230-01:03:20.700 | Kenzo] joined the Order of the Awakened Soul, you may have heard of the Bhishma and one of the one of the {{mardi gras}}.
+[u0713 | 01:03:13.230-01:03:20.700 | Kenzo] joined the Order of the Awakened Soul, you may have heard of the Bhishma and one of the one of the Dunmari gods.
 [u0714 | 01:03:21.810-01:03:27.120 | Kenzo] part of my work within the order is to learn the stories of the people of the land and.
 [u0715 | 01:03:30.000-01:03:36.390 | Kenzo] you're the first couple that i've spoken with but I I love to hear more about how you met and fell in love.
 [u0716 | 01:03:39.780-01:03:40.200 | DM] Are we.
@@ -749,7 +749,7 @@
 [u0749 | 01:06:11.430-01:06:19.140 | DM] I don't I didn't live, but I think my parents just kind of assumed by travel we meant.
 [u0750 | 01:06:20.730-01:06:21.630 | DM] Sail on a ship.
 [u0751 | 01:06:23.010-01:06:25.800 | DM] Maybe go up to catch you know.
-[u0752 | 01:06:27.150-01:06:32.400 | DM] Both from Chardon up to {{bar}} and then back.
+[u0752 | 01:06:27.150-01:06:32.400 | DM] Both from Chardon up to Darba and then back.
 [u0753 | 01:06:34.620-01:06:36.960 | DM] around for a few years that's pretty.
 [u0754 | 01:06:38.430-01:06:39.450 | DM] To a typical.
 [u0755 | 01:06:42.510-01:06:45.510 | DM] will send them messages, though Hello joss.
@@ -1340,7 +1340,7 @@
 [u1340 | 01:52:15.990-01:52:16.710 | DM] A young.
 [u1341 | 01:52:18.780-01:52:20.370 | DM] Ambitious Group and
 [u1342 | 01:52:21.960-01:52:28.020 | DM] I think Harol may be thinking of turning over the ship captaincy to them at some point when he retires.
-[u1343 | 01:52:31.650-01:52:33.420 | DM] For the {{soul our hearts}}, it was.
+[u1343 | 01:52:31.650-01:52:33.420 | DM] For the Silverhearts, it was.
 [u1344 | 01:52:38.250-01:52:38.700 | DM] It was.
 [u1345 | 01:52:45.270-01:52:46.350 | DM] {{A sweat talks}}.
 [u1346 | 01:52:49.290-01:52:52.200 | DM] They were the ones who sailed that across the Sea of Storms.
@@ -2374,7 +2374,7 @@
 [u2374 | 03:29:06.540-03:29:11.160 | Delwath] Use the Vola connection but use somewhat of the same story like.
 [u2375 | 03:29:12.900-03:29:15.840 | Delwath] I don't know, maybe an APP that was could play giant.
 [u2376 | 03:29:18.990-03:29:23.490 | Delwath] giant agent, on behalf of giants I don't know if a dwarf might be more plausible than an elf.
-[u2377 | 03:29:27.870-03:29:31.650 | Wellby] {{programmers}} our ticket across the Sea of Storms like that's a.
+[u2377 | 03:29:27.870-03:29:31.650 | Wellby] Hralgar's our ticket across the Sea of Storms like that's a.
 [u2378 | 03:29:32.670-03:29:34.800 | Wellby] know if that's compelling but that could be another.
 [u2379 | 03:29:36.390-03:29:37.470 | Seeker] i'm thinking about.
 [u2380 | 03:29:37.650-03:29:42.720 | Seeker] zooming out a little we want to make contact with the Society of the Open Scroll.

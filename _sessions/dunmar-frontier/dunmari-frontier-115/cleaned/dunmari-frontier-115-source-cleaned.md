@@ -55,10 +55,10 @@
 [u0055 | 00:05:31.440-00:05:39.970 | DM] huge swirling creature of red mists stood cursed or.
 [u0056 | 00:05:40.993-00:05:42.720 | Kenzo] On guard.
 [u0057 | 00:05:44.410-00:05:49.560 | DM] And after banishing it and having a minute to, I
-[u0058 | 00:05:50.290-00:06:00.420 | DM] dig through the scrolls, eventually finding both a shipping manifest from the ship {{Selim sugar}}.
+[u0058 | 00:05:50.290-00:06:00.420 | DM] dig through the scrolls, eventually finding both a shipping manifest from the ship Selem Shurga.
 [u0059 | 00:06:00.910-00:06:07.290 | DM] Delwath translated from some unknown language as Sword of the wind, describing spices and tea.
-[u0060 | 00:06:08.539-00:06:23.920 | DM] Seemingly Kemet's ship, and also a another manifest describing the the last person, the {{Paranar Minarath}}.
-[u0061 | 00:06:25.990-00:06:36.720 | DM] A description of some unusual but botanical samples to be sent to {{menoreth}} faculty of Natural history
+[u0060 | 00:06:08.539-00:06:23.920 | DM] Seemingly Kemet's ship, and also a another manifest describing the the last person, the Peronar Minarith.
+[u0061 | 00:06:25.990-00:06:36.720 | DM] A description of some unusual but botanical samples to be sent to Minarith faculty of Natural history
 [u0062 | 00:06:37.190-00:06:39.599 | DM] at the University of the Austene.
 [u0063 | 00:06:43.510-00:06:45.889 | DM] At this point, fleeing from the
 [u0064 | 00:06:46.360-00:06:53.369 | DM] cursed Red Death, deciding not to face it any more than needed to be
@@ -69,7 +69,7 @@
 [u0069 | 00:07:19.670-00:07:20.850 | DM] before.
 [u0070 | 00:07:22.580-00:07:27.219 | Wellby] And maybe take a short rest before heading out again to find the last.
 [u0071 | 00:07:27.880-00:07:30.249 | DM] Of the 7 souls.
-[u0072 | 00:07:36.420-00:07:45.949 | Wellby] So, after you relate, all of that, Wellby shares news that I got from {{Sura}} while you were off hanging out in the tavern.
+[u0072 | 00:07:36.420-00:07:45.949 | Wellby] So, after you relate, all of that, Wellby shares news that I got from Sura while you were off hanging out in the tavern.
 [u0073 | 00:07:47.930-00:07:49.320 | Wellby] I just put it in chat.
 [u0074 | 00:08:05.510-00:08:06.510 | Delwath] Oh, fun!
 [u0075 | 00:08:07.220-00:08:07.990 | Wellby] Right.
@@ -80,14 +80,14 @@
 [u0080 | 00:08:44.100-00:08:52.840 | Kenzo] I thought there was some weird like, detente weren't like the because they're like Chardonian people like kind of. There was like some encampment, and they were kind of like hanging out and around. But they weren't like
 [u0081 | 00:08:53.310-00:08:54.300 | Kenzo] just.
 [u0082 | 00:08:54.530-00:09:00.530 | DM] They they were until yesterday, or this morning, or last night.
-[u0083 | 00:09:01.600-00:09:05.120 | Delwath] Wait! Where is {{Sarah}}?
+[u0083 | 00:09:01.600-00:09:05.120 | Delwath] Wait! Where is Sura?
 [u0084 | 00:09:05.730-00:09:07.030 | Delwath] Where is this taking place?
 [u0085 | 00:09:07.620-00:09:11.229 | DM] Sungara, on the northwestern border of Dunmar.
 [u0086 | 00:09:11.230-00:09:15.920 | Delwath] Didn't we tell her to fall back and give up Sungara if needed?
 [u0087 | 00:09:16.920-00:09:22.030 | DM] Yeah, and they probably are.
 [u0088 | 00:09:27.560-00:09:28.480 | Delwath] Hold on one second.
 [u0089 | 00:09:42.320-00:09:44.240 | Delwath] so wait. They're they're
-[u0090 | 00:09:57.830-00:09:59.639 | Delwath] so like, what's {{Sarah's}} plan?
+[u0090 | 00:09:57.830-00:09:59.639 | Delwath] so like, what's Sura's plan?
 [u0091 | 00:10:00.640-00:10:02.780 | DM] I mean to flee, but.
 [u0092 | 00:10:08.360-00:10:14.750 | Riswynn] But there's already bad guys ahead of what would be the orderly retreat of the army headed towards Tokra
 [u0093 | 00:10:15.120-00:10:18.960 | Riswynn] is part of the problem, particularly.
@@ -136,7 +136,7 @@
 [u0136 | 00:13:10.210-00:13:11.050 | Seeker] Is it pretty bad?
 [u0137 | 00:13:11.050-00:13:15.250 | Seeker] We can help Dunmar with information. Do we know of some critical.
 [u0138 | 00:13:15.250-00:13:15.750 | Kenzo] One moment.
-[u0139 | 00:13:15.750-00:13:19.020 | Seeker] Ability, {{daylight}}, assassins.
+[u0139 | 00:13:15.750-00:13:19.020 | Seeker] Ability, chalyte, assassins.
 [u0140 | 00:13:25.430-00:13:26.610 | Seeker] Unfortunately no.
 [u0141 | 00:13:27.030-00:13:28.959 | Delwath] There. Anybody we can send.
 [u0142 | 00:13:30.860-00:13:31.560 | Seeker] No.
@@ -176,7 +176,7 @@
 [u0176 | 00:15:59.930-00:16:01.339 | Seeker] Yeah, although we haven't.
 [u0177 | 00:16:01.340-00:16:01.800 | Delwath] Well.
 [u0178 | 00:16:01.800-00:16:04.259 | Seeker] For the Centaurs we have for Ralgar.
-[u0179 | 00:16:04.540-00:16:08.979 | Delwath] What about elves and {{ornwass}}.
+[u0179 | 00:16:04.540-00:16:08.979 | Delwath] What about elves and Orenlas.
 [u0180 | 00:16:09.630-00:16:10.350 | Kenzo] Yeah.
 [u0181 | 00:16:11.430-00:16:12.590 | Seeker] Alright! Alright!
 [u0182 | 00:16:13.330-00:16:19.459 | Kenzo] We just need to convince them that it's like, you know, either they owe us a favor, or it's like in their interest to go and intervene
@@ -230,7 +230,7 @@
 [u0230 | 00:19:01.930-00:19:07.710 | Delwath] Go to the land. No, shouldn't we? Shouldn't we? Destroy the phylactery first?
 [u0231 | 00:19:10.560-00:19:13.470 | Riswynn] Yeah, we need one. So we but.
 [u0232 | 00:19:13.470-00:19:14.309 | Delwath] Not gonna take us, though.
-[u0233 | 00:19:14.310-00:19:22.860 | Riswynn] Reassuring message, {{Sarah}}, like Gee! That sucks good luck with the retreat, if we think of anybody, will send.
+[u0233 | 00:19:14.310-00:19:22.860 | Riswynn] Reassuring message, Sura, like Gee! That sucks good luck with the retreat, if we think of anybody, will send.
 [u0234 | 00:19:23.090-00:19:26.339 | Riswynn] don't not even promise that we'll do anything to try to help.
 [u0235 | 00:19:30.480-00:19:31.009 | Kenzo] Okay, I got it.
 [u0236 | 00:19:31.980-00:19:33.739 | Riswynn] Which is worse for her. Our response.
@@ -250,7 +250,7 @@
 [u0250 | 00:20:08.770-00:20:10.529 | Kenzo] And then Disneyland. The day after.
 [u0251 | 00:20:11.120-00:20:12.640 | Delwath] Right, yeah.
 [u0252 | 00:20:12.850-00:20:14.160 | Seeker] Trash, team.
-[u0253 | 00:20:15.320-00:20:21.129 | Delwath] So {{Sarah}} only needs to hold out 48 h.
+[u0253 | 00:20:15.320-00:20:21.129 | Delwath] So Sura only needs to hold out 48 h.
 [u0254 | 00:20:21.790-00:20:22.420 | Kenzo] Yeah.
 [u0255 | 00:20:23.110-00:20:23.740 | Delwath] Right.
 [u0256 | 00:20:23.900-00:20:36.440 | Delwath] I think that's the message we send is that is that we are hours right where, like
@@ -305,13 +305,13 @@
 [u0305 | 00:23:47.660-00:23:51.250 | Delwath] it's not clear if these guys can travel through.
 [u0306 | 00:23:53.010-00:23:56.840 | Delwath] I don't remember if they can like dimension door or teleport type actions.
 [u0307 | 00:23:57.310-00:23:59.580 | DM] They never teleported. They could fly.
-[u0308 | 00:24:00.630-00:24:03.890 | Seeker] Did the Dunmari know that these things are powered by {{J. Light}}?
+[u0308 | 00:24:00.630-00:24:03.890 | Seeker] Did the Dunmari know that these things are powered by chalyte?
 [u0309 | 00:24:06.090-00:24:07.519 | Seeker] If not, we can tell them.
 [u0310 | 00:24:09.140-00:24:10.259 | Seeker] Yeah, I'm upset.
 [u0311 | 00:24:10.920-00:24:12.220 | Seeker] I I don't know.
 [u0312 | 00:24:12.590-00:24:13.120 | Riswynn] Okay.
 [u0313 | 00:24:16.840-00:24:19.160 | Seeker] Also that, like Fausto, creates them.
-[u0314 | 00:24:23.060-00:24:33.519 | DM] Okay. So you give all this information to {{Sarah}}, after talking briefly, and then turn to.
+[u0314 | 00:24:23.060-00:24:33.519 | DM] Okay. So you give all this information to Sura, after talking briefly, and then turn to.
 [u0315 | 00:24:35.980-00:24:37.770 | Riswynn] Figuring out where the university was.
 [u0316 | 00:24:38.350-00:24:39.080 | Seeker] Oh, yeah.
 [u0317 | 00:24:44.370-00:24:45.849 | Seeker] should we look at the map again.
@@ -488,7 +488,7 @@
 [u0488 | 00:39:02.460-00:39:03.550 | Seeker] Run away!
 [u0489 | 00:39:03.880-00:39:05.020 | Delwath] No, no, no.
 [u0490 | 00:39:05.240-00:39:08.230 | Kenzo] And what's past them again. This is the.
-[u0491 | 00:39:08.740-00:39:13.410 | DM] The university where {{Minarith}} worked.
+[u0491 | 00:39:08.740-00:39:13.410 | DM] The university where Minarith worked.
 [u0492 | 00:39:14.980-00:39:16.220 | Seeker] Yeah, we gotta go there.
 [u0493 | 00:39:18.260-00:39:19.590 | Kenzo] We fly over them.
 [u0494 | 00:39:19.740-00:39:21.110 | Kenzo] There's statues right.
@@ -1075,7 +1075,7 @@
 [u1075 | 01:13:17.290-01:13:22.859 | DM] of this university itself the the. This seems to have been like the Hall
 [u1076 | 01:13:23.886-01:13:28.450 | DM] some scholarly hall, or something like that, but it's labeled
 [u1077 | 01:13:29.000-01:13:32.110 | DM] Faculty of Natural History, which is what
-[u1078 | 01:13:32.220-01:13:45.380 | DM] in Drankorian, which multiple of you can read which was what {{Minarath}} was from.
+[u1078 | 01:13:32.220-01:13:45.380 | DM] in Drankorian, which multiple of you can read which was what Minarith was from.
 [u1079 | 01:13:46.570-01:13:52.059 | Riswynn] Would people who ended up around a 3rd of their hit points like lick their wounds.
 [u1080 | 01:13:52.490-01:13:53.330 | Wellby] I wouldn't be bad.
 [u1081 | 01:13:53.770-01:13:56.119 | Seeker] Yeah, I would. Yeah, I'm into that.
@@ -1089,7 +1089,7 @@
 [u1089 | 01:14:23.190-01:14:26.680 | DM] You proceed into the ruins.
 [u1090 | 01:14:30.170-01:14:32.439 | DM] And what do you do?
 [u1091 | 01:14:34.840-01:14:37.590 | Seeker] What are we looking for? Again? We're looking for.
-[u1092 | 01:14:37.890-01:14:44.660 | DM] Some memento, some sign of this {{paranor scholar Minreth}}.
+[u1092 | 01:14:37.890-01:14:44.660 | DM] Some memento, some sign of this Peronar scholar Minarith.
 [u1093 | 01:14:46.110-01:14:47.430 | Seeker] {{Louis Nurman}}.
 [u1094 | 01:14:48.320-01:14:52.010 | DM] And don't know anything else about on the.
 [u1095 | 01:14:52.010-01:14:52.670 | Seeker] Oh!
@@ -1110,7 +1110,7 @@
 [u1110 | 01:15:53.831-01:15:57.329 | DM] There's like a tree growing up through the middle of the building.
 [u1111 | 01:15:59.190-01:16:06.190 | DM] The higher stories have collapsed, and you know, as you walk, it seems like every footstep is at risk of
 [u1112 | 01:16:06.410-01:16:13.439 | DM] the roof collapsing. But Kenzo points to the sort of northwest corner of the building.
-[u1113 | 01:16:14.460-01:16:19.999 | DM] and that's where he senses, a sort of emanation of of {{Minrith}}.
+[u1113 | 01:16:14.460-01:16:19.999 | DM] and that's where he senses, a sort of emanation of of Minarith.
 [u1114 | 01:16:22.630-01:16:23.250 | Seeker] Hmm.
 [u1115 | 01:16:27.630-01:16:31.990 | Riswynn] So we go over to the northwest corner and are observant. There.
 [u1116 | 01:16:33.075-01:16:34.860 | DM] Who's going first?
@@ -1234,12 +1234,12 @@
 [u1234 | 01:25:10.570-01:25:13.459 | DM] But it was always the case. I guess.
 [u1235 | 01:25:13.720-01:25:17.210 | DM] that he would never let any of our people survive.
 [u1236 | 01:25:19.030-01:25:20.900 | DM] and I have nowhere left to flee.
-[u1237 | 01:25:21.800-01:25:25.900 | DM] Run if you can, {{manner F}}.
+[u1237 | 01:25:21.800-01:25:25.900 | DM] Run if you can, Minarith.
 [u1238 | 01:25:33.690-01:25:34.890 | Kenzo] Well, that's ominous.
 [u1239 | 01:25:38.610-01:25:40.300 | Seeker] Where it was, from.
-[u1240 | 01:25:40.430-01:25:41.939 | Delwath] {{Minrith}}. Yeah.
+[u1240 | 01:25:40.430-01:25:41.939 | Delwath] Minarith. Yeah.
 [u1241 | 01:25:42.510-01:25:48.279 | DM] This. This is like clearly something connect, I mean, Kenzo is {{radiating}} the strong
-[u1242 | 01:25:48.430-01:25:51.309 | DM] soul, {{minerth}} soul aura. From this
+[u1242 | 01:25:48.430-01:25:51.309 | DM] soul, Minarith's soul aura. From this
 [u1243 | 01:25:51.830-01:25:54.880 | DM] both the bird trinket and this note itself.
 [u1244 | 01:25:54.880-01:26:03.790 | Delwath] I mean. Presumably the bird has some command word to turn into an actual bird and carry the trinket. Carry the message, but it never! It never made it.
 [u1245 | 01:26:04.170-01:26:06.230 | Seeker] It was never sent somehow.
@@ -1248,7 +1248,7 @@
 [u1248 | 01:26:15.320-01:26:17.900 | Seeker] Did we get all of the clues we needed.
 [u1249 | 01:26:18.530-01:26:19.670 | Delwath] Don't we have all 7.
 [u1250 | 01:26:21.140-01:26:21.560 | Seeker] I don't know.
-[u1251 | 01:26:21.560-01:26:26.050 | Delwath] We have the bird of the little bird token of {{Minerith}}. We have the
+[u1251 | 01:26:21.560-01:26:26.050 | Delwath] We have the bird of the little bird token of Minarith. We have the
 [u1252 | 01:26:26.310-01:26:28.649 | Delwath] what the fireworks of the halfling right.
 [u1253 | 01:26:29.070-01:26:29.660 | DM] Yeah.
 [u1254 | 01:26:29.660-01:26:34.669 | Delwath] The thing we found at the Customs House. I can't remember what it was of the.
@@ -1256,7 +1256,7 @@
 [u1256 | 01:26:35.510-01:26:37.109 | Delwath] The shipping manifest of.
 [u1257 | 01:26:37.110-01:26:37.920 | DM] I do?
 [u1258 | 01:26:38.440-01:26:41.050 | Delwath] Of the foreigner person.
-[u1259 | 01:26:41.320-01:26:44.820 | DM] Kemet of {{Targu}}. You also have a coin that.
+[u1259 | 01:26:41.320-01:26:44.820 | DM] Kemet of Targu. You also have a coin that.
 [u1260 | 01:26:44.820-01:26:45.330 | Delwath] That.
 [u1261 | 01:26:45.330-01:26:47.070 | DM] {{Bergu}}, the Sword of the Wind.
 [u1262 | 01:26:47.650-01:26:50.410 | Delwath] Right we have.
@@ -1334,7 +1334,7 @@
 [u1334 | 01:31:24.540-01:31:30.360 | Kenzo] Wait. But if they if they're already good now then, why don't we just go Tollen straight to the land of the dead like we can't.
 [u1335 | 01:31:30.360-01:31:32.499 | Delwath] We can't get off the land of the dead
 [u1336 | 01:31:34.470-01:31:37.169 | Delwath] without using plane shift without using.
-[u1337 | 01:31:38.540-01:31:43.850 | Delwath] Our plan is to go from the land of the dead straight back to the {{ginger. Sharna}}.
+[u1337 | 01:31:38.540-01:31:43.850 | Delwath] Our plan is to go from the land of the dead straight back to the Vindristjarna.
 [u1338 | 01:31:43.850-01:31:45.109 | Kenzo] Yeah, with rainbow bridge.
 [u1339 | 01:31:45.110-01:31:45.750 | Delwath] Yeah.
 [u1340 | 01:31:45.750-01:31:46.230 | Seeker] So, yeah.
@@ -1408,10 +1408,10 @@
 [u1408 | 01:37:27.680-01:37:33.110 | Delwath] He told me. I mean I didn't look. I mean any secret that you committed to Git.
 [u1409 | 01:37:33.210-01:37:38.030 | Delwath] You didn't. If you didn't rewrite history, it's still in the git repo. I could get it back. But
 [u1410 | 01:37:39.390-01:37:44.730 | Delwath] oh, you did. Okay, not that I would. I would. I don't want to know the secrets.
-[u1411 | 01:37:54.440-01:37:56.650 | Delwath] hey? We know. {{Fight us, Lucaris}}.
+[u1411 | 01:37:54.440-01:37:56.650 | Delwath] hey? We know. Fides Lucaris.
 [u1412 | 01:37:58.450-01:38:04.490 | Delwath] don't we have their wait! Wait, wait! Don't we have the book of one of these things? What is the book that we have.
-[u1413 | 01:38:06.040-01:38:07.860 | DM] {{A culta lutum}}.
-[u1414 | 01:38:10.170-01:38:14.740 | Delwath] No, didn't we have something else? No, I've heard {{fight us with Charis}} before.
+[u1413 | 01:38:06.040-01:38:07.860 | DM] Occulta Ludum.
+[u1414 | 01:38:10.170-01:38:14.740 | Delwath] No, didn't we have something else? No, I've heard Fides Lucaris before.
 [u1415 | 01:38:14.740-01:38:16.240 | DM] Yeah, they were the people who
 [u1416 | 01:38:16.990-01:38:19.040 | DM] you have a sending stone of theirs.
 [u1417 | 01:38:20.010-01:38:27.520 | DM] They were the ones they were the organization that like tried to go free. The trapped elemental at the.
@@ -1435,7 +1435,7 @@
 [u1435 | 01:39:56.560-01:39:59.329 | Seeker] do we have any magic items we're willing to part with.
 [u1436 | 01:39:59.610-01:40:01.029 | Delwath] Hey? Don't we have tons.
 [u1437 | 01:40:01.590-01:40:02.580 | Seeker] Yeah, we have tons of items.
-[u1438 | 01:40:03.337-01:40:05.040 | DM] In on {{Vindersharna}}.
+[u1438 | 01:40:03.337-01:40:05.040 | DM] In on Vindristjarna.
 [u1439 | 01:40:06.040-01:40:06.810 | Seeker] Oh! Crap!
 [u1440 | 01:40:07.530-01:40:09.289 | Delwath] What about this little ancient bird?
 [u1441 | 01:40:10.200-01:40:10.860 | Seeker] Oh! This is.
@@ -1503,8 +1503,8 @@
 [u1503 | 01:43:33.830-01:43:39.750 | Kenzo] Yeah, sadly know, we all had wanted a longer stay. But.
 [u1504 | 01:43:40.900-01:43:41.470 | Seeker] Yeah.
 [u1505 | 01:43:43.240-01:43:49.189 | DM] And also do not disturb the other thing. So the the
-[u1506 | 01:43:49.890-01:44:01.640 | DM] Motua was one of these. {{Giardi Giardi}}, who are like the guardian. There's some extra. They're extraplanar creatures that are not associated with any
-[u1507 | 01:44:02.470-01:44:09.430 | DM] god or demon, or any of the outer planes. And they are the guardians. That's what {{grosh}} fought.
+[u1506 | 01:43:49.890-01:44:01.640 | DM] Motua was one of these. Gidari Gidari, who are like the guardian. There's some extra. They're extraplanar creatures that are not associated with any
+[u1507 | 01:44:02.470-01:44:09.430 | DM] god or demon, or any of the outer planes. And they are the guardians. That's what Grash fought.
 [u1508 | 01:44:09.850-01:44:20.369 | DM] and they are the guardians, and they serve to keep anybody from interfering with souls.
 [u1509 | 01:44:20.780-01:44:22.150 | DM] So not just.
 [u1510 | 01:44:22.320-01:44:33.630 | DM] you know, to keep the like, you know, devils from trying to steal souls from the land of the dead, but also to keep like gods from trying to rescue the souls who were promised to hell or something like that.
@@ -1567,7 +1567,7 @@
 [u1567 | 01:50:17.570-01:50:18.719 | Wellby] I'll take out.
 [u1568 | 01:50:18.920-01:50:20.060 | Delwath] What's up? Let's.
 [u1569 | 01:50:21.020-01:50:23.470 | Wellby] I think, start with one of those.
-[u1570 | 01:50:23.620-01:50:31.820 | Wellby] let them, but I also wonder if, like, if they really are dragons, they may also just be interested that {{Brigamdras}} is dead.
+[u1570 | 01:50:23.620-01:50:31.820 | Wellby] let them, but I also wonder if, like, if they really are dragons, they may also just be interested that Ra'ghemdros is dead.
 [u1571 | 01:50:32.660-01:50:33.639 | Wellby] I've got all that.
 [u1572 | 01:50:34.020-01:50:35.350 | Delwath] True today.
 [u1573 | 01:50:35.350-01:50:38.469 | Delwath] Do they ever trade for information or only magic.
@@ -1593,7 +1593,7 @@
 [u1593 | 01:52:33.960-01:52:36.479 | Wellby] Take to get us into the land of the dead tomorrow.
 [u1594 | 01:52:38.000-01:52:40.860 | DM] This is not bad.
 [u1595 | 01:52:45.460-01:52:46.640 | DM] Have you heard.
-[u1596 | 01:52:46.840-01:52:50.219 | Delwath] Have you heard of the Dragon {{Regemdras}}.
+[u1596 | 01:52:46.840-01:52:50.219 | Delwath] Have you heard of the Dragon Ra'ghemdros.
 [u1597 | 01:52:50.220-01:52:55.019 | Wellby] Is there anything from their hoard that you particularly are interested in.
 [u1598 | 01:52:56.950-01:52:58.990 | DM] This is not my specialty.
 [u1599 | 01:52:59.100-01:53:03.340 | DM] Dragons, name sounds familiar.
@@ -1711,7 +1711,7 @@
 [u1711 | 01:59:44.850-01:59:54.520 | Delwath] Which I imagine, isn't that hard? But we still have to do it. I want to go talk to the Elven Ambassador, who, I had a decent relationship with, and see if
 [u1712 | 01:59:55.010-01:59:58.450 | Delwath] he has any ideas on helping with Dunmari.
 [u1713 | 02:00:01.490-02:00:05.440 | Delwath] Is there anybody else who we think might be able to help the Dunmari here
-[u1714 | 02:00:09.510-02:00:13.269 | Delwath] {{the scare}} probably not right. They kind of owe us. But.
+[u1714 | 02:00:09.510-02:00:13.269 | Delwath] the Skaer probably not right. They kind of owe us. But.
 [u1715 | 02:00:16.540-02:00:18.840 | Delwath] oh, Delwath could go talk to the Centaur.
 [u1716 | 02:00:19.840-02:00:23.670 | Seeker] Lady romantically.
 [u1717 | 02:00:23.670-02:00:24.590 | Kenzo] Hell, yeah.
@@ -1743,7 +1743,7 @@
 [u1743 | 02:01:56.800-02:01:57.510 | Delwath] Do you.
 [u1744 | 02:01:57.690-02:01:58.320 | DM] We give her a.
 [u1745 | 02:01:58.320-02:01:59.570 | Delwath] Book, or something like that.
-[u1746 | 02:01:59.570-02:02:07.050 | DM] Gave her Seeker's legendary {{gates}} of Kenzo.
+[u1746 | 02:01:59.570-02:02:07.050 | DM] Gave her Seeker's legendary Gates of Kenzo.
 [u1747 | 02:02:07.050-02:02:07.400 | Delwath] Right.
 [u1748 | 02:02:07.400-02:02:08.530 | Seeker] Yeah.
 [u1749 | 02:02:19.000-02:02:23.390 | DM] She? She asked you for stories
@@ -1752,7 +1752,7 @@
 [u1752 | 02:02:40.530-02:02:41.909 | Delwath] Do you want to know it?
 [u1753 | 02:02:43.520-02:02:46.140 | Wellby] What do we want from her in return.
 [u1754 | 02:02:46.380-02:02:52.390 | Delwath] Allies of Cloud Spinner, who might be willing to fight the
-[u1755 | 02:02:54.320-02:02:59.740 | Delwath] Dunmar, the the {{jailite}} zombies in Dunmar in exchange, you know.
+[u1755 | 02:02:54.320-02:02:59.740 | Delwath] Dunmar, the the chalyte zombies in Dunmar in exchange, you know.
 [u1756 | 02:03:00.190-02:03:02.910 | Delwath] on the theory that it's helpful to.
 [u1757 | 02:03:03.160-02:03:07.679 | Delwath] It's a bit of a tenuous connection, which is why I'm not sure it's worth it. But.
 [u1758 | 02:03:07.680-02:03:10.759 | Seeker] They would just come with us to the ship.
@@ -1892,14 +1892,14 @@
 [u1892 | 02:11:33.270-02:11:33.810 | Delwath] Yep.
 [u1893 | 02:11:33.990-02:11:35.889 | DM] Everybody else takes a long rest.
 [u1894 | 02:11:37.760-02:11:38.710 | DM] I mean.
-[u1895 | 02:11:39.240-02:11:41.680 | DM] So {{Melondeer}} is.
+[u1895 | 02:11:39.240-02:11:41.680 | DM] So Melindir is.
 [u1896 | 02:11:42.940-02:11:50.780 | DM] I mean, he's certainly sympathetic to the cause. Promises to send a message.
 [u1897 | 02:11:51.370-02:11:56.410 | DM] There's it's a long way from {{Oren. Loss to done so far}}.
 [u1898 | 02:11:57.940-02:12:04.509 | DM] long gone are the days of elves, you know, teleporting around the world or transiting via the Feywild.
 [u1899 | 02:12:04.940-02:12:06.660 | DM] but he doesn't know how much.
 [u1900 | 02:12:08.540-02:12:12.049 | DM] doesn't know how much aid they'll be able to send for. Sure.
-[u1901 | 02:12:15.350-02:12:21.520 | DM] And of course, you know, {{or, unless}}, has always, since
-[u1902 | 02:12:22.220-02:12:26.690 | DM] the fall of {{isn't gay}}, always been quite reclusive.
+[u1901 | 02:12:15.350-02:12:21.520 | DM] And of course, you know, Orenlas, has always, since
+[u1902 | 02:12:22.220-02:12:26.690 | DM] the fall of Isingue, always been quite reclusive.
 [u1903 | 02:12:26.900-02:12:31.990 | DM] and most of its martial energy has gone to defending its borders with the plaguelands.
 [u1904 | 02:12:33.450-02:12:34.020 | DM] Thank you.
 [u1905 | 02:12:34.020-02:12:40.529 | Delwath] I mean the other, there's actually less. A direct ask is to send elves. But like, is there anybody
@@ -1921,10 +1921,10 @@
 [u1921 | 02:13:56.400-02:13:58.980 | Delwath] Join the Shakun Mistai.
 [u1922 | 02:13:58.980-02:14:01.350 | DM] He did, he would totally go, help!
 [u1923 | 02:14:01.350-02:14:02.080 | Delwath] Yeah.
-[u1924 | 02:14:03.040-02:14:10.220 | Delwath] Send Drakaut. Brilliant idea. Thanks, {{Bellindeer}}. We actually know a stone. I'll tell them I actually know a stoneborn near there. I just didn't think of that.
+[u1924 | 02:14:03.040-02:14:10.220 | Delwath] Send Drakaut. Brilliant idea. Thanks, Melindir. We actually know a stone. I'll tell them I actually know a stoneborn near there. I just didn't think of that.
 [u1925 | 02:14:13.440-02:14:17.130 | DM] So you send a message to Drakaut, and he is perfectly happy to and.
 [u1926 | 02:14:17.310-02:14:18.250 | Delwath] I won't.
-[u1927 | 02:14:18.250-02:14:23.090 | Delwath] I'll also just tell {{Melandir}} to if.
+[u1927 | 02:14:18.250-02:14:23.090 | Delwath] I'll also just tell Melindir to if.
 [u1928 | 02:14:27.200-02:14:29.859 | Riswynn] Refugees from Tokra make it that far or anything.
 [u1929 | 02:14:29.860-02:14:39.330 | Delwath] No, I I want to warn him. I'm not sure exactly how to phrase this, but I want to warn him that if that if we don't succeed
 [u1930 | 02:14:39.470-02:14:42.870 | Delwath] like some really bad things might start happening.
@@ -1938,9 +1938,9 @@
 [u1938 | 02:15:25.430-02:15:31.759 | Delwath] Yeah, I'm just gonna you know what the elves need to know. I'm going to tell them that Apollyon is about to break free, and that we're going to stop him.
 [u1939 | 02:15:31.890-02:15:35.640 | Delwath] But if we fail, Apollyon will be back, and the elves need to know.
 [u1940 | 02:15:37.350-02:15:38.100 | DM] Okay.
-[u1941 | 02:15:38.750-02:15:42.430 | Delwath] And we don't have time to go back to {{Ornwas}}, but get a message to what's her name?
-[u1942 | 02:15:42.880-02:15:43.820 | DM] {{Rs, day}}.
-[u1943 | 02:15:43.820-02:15:55.220 | Delwath] {{Reste}}. She knows our quest, and and the next couple we're going to
+[u1941 | 02:15:38.750-02:15:42.430 | Delwath] And we don't have time to go back to Orenlas, but get a message to what's her name?
+[u1942 | 02:15:42.880-02:15:43.820 | DM] Arheste.
+[u1943 | 02:15:43.820-02:15:55.220 | Delwath] Arheste. She knows our quest, and and the next couple we're going to
 [u1944 | 02:15:55.530-02:16:00.729 | Delwath] the land of the dead in the morning to destroy his phylactery, and then back to Drankor to destroy him
 [u1945 | 02:16:00.910-02:16:03.490 | Delwath] immediately after, and
 [u1946 | 02:16:04.350-02:16:05.940 | Delwath] If it goes badly
@@ -1973,11 +1973,11 @@
 [u1973 | 02:18:24.750-02:18:26.939 | Riswynn] At night or in the morning.
 [u1974 | 02:18:27.400-02:18:28.280 | Delwath] Fucking Nate.
 [u1975 | 02:18:28.420-02:18:30.940 | Delwath] So who's going? Kenzo's going?
-[u1976 | 02:18:33.070-02:18:36.120 | Delwath] Wait! Am I at {{mountaineers}} when this happens.
+[u1976 | 02:18:33.070-02:18:36.120 | Delwath] Wait! Am I at Melindir's when this happens.
 [u1977 | 02:18:36.120-02:18:36.730 | DM] Yes.
 [u1978 | 02:18:36.730-02:18:39.610 | Delwath] Okay, so Delwath is not going.
 [u1979 | 02:18:40.010-02:18:41.449 | DM] No no Wellby.
-[u1980 | 02:18:43.230-02:18:44.790 | Delwath] No, I could go from {{Melondeer}}.
+[u1980 | 02:18:43.230-02:18:44.790 | Delwath] No, I could go from Melindir.
 [u1981 | 02:18:44.799-02:18:46.319 | DM] To go from {{mountain chances}}.
 [u1982 | 02:18:48.899-02:18:53.659 | Delwath] Anybody who wants to stay. Riswynn, do you want? I don't know who wants to stay behind.
 [u1983 | 02:18:54.129-02:18:57.099 | Riswynn] I don't care. Go ahead, talk your voice.
@@ -2054,24 +2054,24 @@
 [u2054 | 02:25:15.320-02:25:21.160 | DM] Whatever was meant to be should happen. Those who interfere with the fates of the souls are cursed.
 [u2055 | 02:25:24.390-02:25:32.270 | Delwath] We intend to restore 7 souls to their original fates?
 [u2056 | 02:25:35.270-02:25:36.710 | Delwath] Is that dangerous.
-[u2057 | 02:25:39.690-02:25:43.300 | DM] That is truly your purpose. The {{guardi}} will protect you.
+[u2057 | 02:25:39.690-02:25:43.300 | DM] That is truly your purpose. The Gidari will protect you.
 [u2058 | 02:25:44.610-02:25:45.279 | Seeker] It would.
-[u2059 | 02:25:45.650-02:25:48.829 | Delwath] {{Yardy}} guardians that Kenzo met.
+[u2059 | 02:25:45.650-02:25:48.829 | Delwath] Gidari guardians that Kenzo met.
 [u2060 | 02:25:49.610-02:25:50.630 | Seeker] Oh, yeah. Yeah.
-[u2061 | 02:25:51.760-02:25:59.940 | Delwath] Is there any signs or things we must show to the {{Giardi}} to prove our purpose?
+[u2061 | 02:25:51.760-02:25:59.940 | Delwath] Is there any signs or things we must show to the Gidari to prove our purpose?
 [u2062 | 02:26:09.400-02:26:10.680 | DM] Long pause.
 [u2063 | 02:26:10.680-02:26:12.250 | Delwath] To protect us from danger.
-[u2064 | 02:26:19.240-02:26:21.799 | DM] One cannot lie to the {{Giardi}}.
+[u2064 | 02:26:19.240-02:26:21.799 | DM] One cannot lie to the Gidari.
 [u2065 | 02:26:24.960-02:26:27.900 | DM] They can see your soul, of course.
 [u2066 | 02:26:32.240-02:26:40.190 | Delwath] Will souls we bring naturally be able to?
-[u2067 | 02:26:40.520-02:26:42.040 | Delwath] Can the {{gear up}}?
-[u2068 | 02:26:42.880-02:26:47.519 | Delwath] Can the {{Giardi}} free souls from where they are trapped.
+[u2067 | 02:26:40.520-02:26:42.040 | Delwath] Can the Gidari?
+[u2068 | 02:26:42.880-02:26:47.519 | Delwath] Can the Gidari free souls from where they are trapped.
 [u2069 | 02:26:49.850-02:26:56.770 | DM] Souls cannot be trapped on the land of the dead, it can only be lost, found.
 [u2070 | 02:27:01.780-02:27:04.759 | DM] One must only point them in the right direction.
 [u2071 | 02:27:05.770-02:27:11.750 | DM] They are confused, but a soul cannot be trapped.
 [u2072 | 02:27:13.060-02:27:15.610 | Delwath] Is it allowed to point them in the right direction?
 [u2073 | 02:27:16.920-02:27:18.690 | Delwath] Is that interference.
-[u2074 | 02:27:30.780-02:27:37.900 | DM] But {{Giardi}} will warn you if you should do something uncouth.
+[u2074 | 02:27:30.780-02:27:37.900 | DM] But Gidari will warn you if you should do something uncouth.
 [u2075 | 02:27:40.090-02:27:48.810 | DM] but if you truly seek to restore their just fates, that will be permitted.
 [u2076 | 02:27:54.640-02:27:56.260 | Delwath] Anybody else have any questions.
 [u2077 | 02:28:08.200-02:28:12.160 | Seeker] I mean phylactery stuff.
@@ -2298,7 +2298,7 @@
 [u2298 | 02:48:16.380-02:48:20.910 | DM] brightly colored, the only splash of color you see in this entire place
 [u2299 | 02:48:21.020-02:48:27.560 | DM] in the distance, on the fur of this creature as it begins to follow her, she runs, it also looks back
 [u2300 | 02:48:27.700-02:48:28.740 | DM] towards you.
-[u2301 | 02:48:28.740-02:48:30.699 | Delwath] That's a that's a {{guarantee}}.
+[u2301 | 02:48:28.740-02:48:30.699 | Delwath] That's a that's a Gidari.
 [u2302 | 02:48:31.120-02:48:33.010 | Delwath] Yeah, yeah, I assume.
 [u2303 | 02:48:33.010-02:48:33.480 | DM] Yes.
 [u2304 | 02:48:39.020-02:48:43.100 | Wellby] Cool, cool, I'll nod to it and her, and raise a hand in farewell.
@@ -2308,20 +2308,20 @@
 [u2308 | 02:48:59.610-02:49:02.070 | Delwath] And we have the plants.
 [u2309 | 02:49:06.130-02:49:06.610 | Seeker] Yeah.
 [u2310 | 02:49:07.640-02:49:13.589 | Delwath] That plant guy right? Elf or human. I don't remember.
-[u2311 | 02:49:14.100-02:49:15.070 | Riswynn] {{Paranois}}.
+[u2311 | 02:49:14.100-02:49:15.070 | Riswynn] Peronar.
 [u2312 | 02:49:16.290-02:49:19.320 | Delwath] Okay, I'll me. {{Mina}}, was that.
-[u2313 | 02:49:21.070-02:49:22.120 | DM] {{Minaret}}.
-[u2314 | 02:49:22.120-02:49:24.169 | Delwath] {{Mineras}} that was.
-[u2315 | 02:49:24.830-02:49:27.749 | Delwath] Do we know what gender {{Minarith}} was?
+[u2313 | 02:49:21.070-02:49:22.120 | DM] Minarith.
+[u2314 | 02:49:22.120-02:49:24.169 | Delwath] Minarith that was.
+[u2315 | 02:49:24.830-02:49:27.749 | Delwath] Do we know what gender Minarith was?
 [u2316 | 02:49:30.180-02:49:32.050 | Delwath] We might not. I don't know. It doesn't matter.
 [u2317 | 02:49:32.863-02:49:38.690 | Delwath] I just didn't know which pronoun to use. But anyway, Delwath will
 [u2318 | 02:49:42.480-02:49:43.640 | Delwath] start.
-[u2319 | 02:49:48.560-02:49:57.770 | Delwath] We'll call out to {{Miniras}} and start talking about just like like
-[u2320 | 02:50:05.310-02:50:24.340 | Delwath] not like telling a current story or anything like that, but just like talking about sort of various plants, but like clearly not knowing that much about plants, and like every time he sort of starts talking about. Oh, I saw this plant. Oh, {{minaret}} like call out their name like, can you help me? I need help learning more about this plant like, can you?
+[u2319 | 02:49:48.560-02:49:57.770 | Delwath] We'll call out to Minarith and start talking about just like like
+[u2320 | 02:50:05.310-02:50:24.340 | Delwath] not like telling a current story or anything like that, but just like talking about sort of various plants, but like clearly not knowing that much about plants, and like every time he sort of starts talking about. Oh, I saw this plant. Oh, Minarith like call out their name like, can you help me? I need help learning more about this plant like, can you?
 [u2321 | 02:50:24.530-02:50:31.108 | Delwath] I know there's somebody here who remembers teaching about plants, please. Can you help me like
 [u2322 | 02:50:31.970-02:50:35.210 | Delwath] you know, and just continue on that sort of like
 [u2323 | 02:50:38.770-02:50:45.590 | Delwath] Sort of asking, calling out, trying to remind
-[u2324 | 02:50:46.210-02:50:52.920 | Delwath] {{Minarath}} about being a teacher and teaching people about botany.
+[u2324 | 02:50:46.210-02:50:52.920 | Delwath] Minarith about being a teacher and teaching people about botany.
 [u2325 | 02:50:57.961-02:51:00.279 | DM] What skill do you want to use.
 [u2326 | 02:51:01.270-02:51:01.950 | Delwath] Persuasion.
 [u2327 | 02:51:01.950-02:51:04.480 | DM] Okay, no, that's logical for this.
@@ -2337,7 +2337,7 @@
 [u2337 | 02:52:10.530-02:52:17.350 | DM] particular kind of Basil. That's useful for soothing weary
 [u2338 | 02:52:17.540-02:52:22.675 | DM] headaches as well as has an interesting history because it was originally brought.
 [u2339 | 02:52:24.800-02:52:29.589 | DM] it's a corrupted form of a plant that grows in the Feywild, and he, you know, is.
-[u2340 | 02:52:29.800-02:52:37.240 | DM] starts talking, and then suddenly looks as if he realizes I am {{men, Raft}}.
+[u2340 | 02:52:29.800-02:52:37.240 | DM] starts talking, and then suddenly looks as if he realizes I am Minarith.
 [u2341 | 02:52:39.740-02:52:47.309 | DM] and he looks around and he looks at Delwath, and then he says, I see the stars.
 [u2342 | 02:52:49.960-02:52:52.670 | DM] and he gives a bow, and he says, Farewell.
 [u2343 | 02:52:53.880-02:52:56.739 | Delwath] Oh, bow to him as well.
@@ -2347,9 +2347,9 @@
 [u2347 | 02:53:21.350-02:53:24.119 | DM] Somebody besides Delwath, and Wellby has to do at least.
 [u2348 | 02:53:24.420-02:53:25.339 | Delwath] I guess that's fair.
 [u2349 | 02:53:25.910-02:53:26.290 | Seeker] Okay.
-[u2350 | 02:53:26.290-02:53:31.790 | Riswynn] Am I reaching out to {{Gloria}}? We have her mask right.
+[u2350 | 02:53:26.290-02:53:31.790 | Riswynn] Am I reaching out to Floria? We have her mask right.
 [u2351 | 02:53:31.790-02:53:32.380 | DM] Yeah.
-[u2352 | 02:53:35.370-02:53:41.289 | Riswynn] And so {{person}} starts talking about
+[u2352 | 02:53:35.370-02:53:41.289 | Riswynn] And so Riswynn starts talking about
 [u2353 | 02:53:47.790-02:53:56.050 | Riswynn] following the a family legacy of taking care of an estate.
 [u2354 | 02:53:56.220-02:54:07.329 | Riswynn] and then finding the responsibility from the gods to take care of all who are needy. Talking about.
 [u2355 | 02:54:08.060-02:54:14.149 | Riswynn] Oh, you can quietly smuggle aid to the
@@ -2380,7 +2380,7 @@
 [u2380 | 02:57:06.260-02:57:10.729 | DM] No, you gotta say what you're how you're convincing one of these people to remember what's happening.
 [u2381 | 02:57:11.470-02:57:14.300 | Kenzo] Alright we're going to talk about.
 [u2382 | 02:57:18.860-02:57:20.869 | Kenzo] We are going to talk about
-[u2383 | 02:57:24.900-02:57:31.890 | Kenzo] Their, the resilience against tyranny of either {{Floria}} Marius, or {{Volante}}.
+[u2383 | 02:57:24.900-02:57:31.890 | Kenzo] Their, the resilience against tyranny of either Floria Marius, or Valanthe.
 [u2384 | 02:57:32.580-02:57:35.319 | Delwath] Go with Marius. Marius. Seems like Kenzo's kind of Guy.
 [u2385 | 02:57:36.480-02:57:39.299 | Kenzo] Spiritual inspiration and leadership through faith.
 [u2386 | 02:57:39.400-02:57:40.499 | Kenzo] Alright! Let's do it.
@@ -2456,15 +2456,15 @@
 [u2456 | 03:03:27.950-03:03:28.590 | DM] Again.
 [u2457 | 03:03:29.190-03:03:30.540 | DM] I can put them back.
 [u2458 | 03:03:36.990-03:03:39.369 | Seeker] What are the names of the ones that are left.
-[u2459 | 03:03:39.370-03:03:51.430 | DM] So you've got Kemet of {{Paragu}}, traveler, sailor, tea merchant, big spender in taverns.
+[u2459 | 03:03:39.370-03:03:51.430 | DM] So you've got Kemet of Targu, traveler, sailor, tea merchant, big spender in taverns.
 [u2460 | 03:03:52.310-03:03:53.340 | Seeker] Hmm.
-[u2461 | 03:03:53.340-03:04:01.300 | DM] You've got Antonius {{patriots}} like administrator.
+[u2461 | 03:03:53.340-03:04:01.300 | DM] You've got Antonius Patrius like administrator.
 [u2462 | 03:04:03.520-03:04:04.320 | DM] Wow!
 [u2463 | 03:04:05.130-03:04:15.700 | DM] Like, you know, logic, quartermaster, organizer, type person in the background.
-[u2464 | 03:04:16.040-03:04:29.860 | DM] And you've got {{Valente}} the like satiric Elven Bard, who wrote plays taunting Apollyon, and was presumably captured and
+[u2464 | 03:04:16.040-03:04:29.860 | DM] And you've got Valanthe the like satiric Elven Bard, who wrote plays taunting Apollyon, and was presumably captured and
 [u2465 | 03:04:30.660-03:04:33.500 | DM] bound to the phylactery, for it.
 [u2466 | 03:04:41.560-03:04:42.640 | Seeker] I better do?
-[u2467 | 03:04:45.810-03:04:52.940 | Seeker] Oh, too tired to think to do this! But the {{Valenti}} one {{Valenti}}.
+[u2467 | 03:04:45.810-03:04:52.940 | Seeker] Oh, too tired to think to do this! But the Valanthe one Valanthe.
 [u2468 | 03:04:56.250-03:05:05.550 | Seeker] you remember that ridiculous, wrinkling worm, pretending to be Emperor.
 [u2469 | 03:05:08.670-03:05:20.040 | Seeker] The songs you spun to tickle him, Apollyon, pathetic.
 [u2470 | 03:05:22.510-03:05:27.950 | Seeker] Come on, you could do better than that, raising your little stick.
@@ -2572,7 +2572,7 @@
 [u2572 | 03:14:41.960-03:14:48.720 | DM] a little bit confused, but just yes, yes, I I should go.
 [u2573 | 03:14:52.310-03:14:58.110 | DM] I think it's that way, and he begins to sort of wander off.
 [u2574 | 03:15:01.300-03:15:04.630 | DM] not looking too sure of himself. But
-[u2575 | 03:15:04.900-03:15:10.470 | DM] after a minute or so, you see another one of the {{Giardi}} kind of come
+[u2575 | 03:15:04.900-03:15:10.470 | DM] after a minute or so, you see another one of the Gidari kind of come
 [u2576 | 03:15:11.000-03:15:18.389 | DM] and begin to to follow him a little bit, just gently prodding slightly.
 [u2577 | 03:15:18.720-03:15:20.890 | DM] and you hear the final snap.
 [u2578 | 03:15:23.550-03:15:26.730 | DM] and you look down, and where there once was a dagger
@@ -2630,7 +2630,7 @@
 [u2630 | 03:19:42.090-03:19:42.820 | Seeker] Yes. Yeah.
 [u2631 | 03:19:42.820-03:19:46.259 | Kenzo] I mean, I think I think in that, like the tricky thing for Wellby is.
 [u2632 | 03:19:46.570-03:19:49.569 | Wellby] If we went straight back to Apollyon
-[u2633 | 03:19:50.200-03:19:56.799 | Wellby] he'd have no problem with that. Right like his vote is, don't even stop. But if we stop at {{Vendra Sharna}}
+[u2633 | 03:19:50.200-03:19:56.799 | Wellby] he'd have no problem with that. Right like his vote is, don't even stop. But if we stop at Vindristjarna
 [u2634 | 03:19:57.230-03:20:03.390 | Wellby] like. I don't know if he could pull the trigger to immediately teleport away in that scenario.
 [u2635 | 03:20:04.280-03:20:05.110 | Delwath] Who's the
 [u2636 | 03:20:05.860-03:20:07.820 | Wellby] I know that's not what I was saying earlier, but.
@@ -2765,7 +2765,7 @@
 [u2765 | 03:28:13.190-03:28:14.270 | DM] It's hot.
 [u2766 | 03:28:14.930-03:28:19.572 | DM] You're heading directly east towards this, towards the
 [u2767 | 03:28:21.990-03:28:22.800 | DM] Somewhere.
-[u2768 | 03:28:26.840-03:28:31.249 | DM] {{Amol}} is up at front like sort of
+[u2768 | 03:28:26.840-03:28:31.249 | DM] Amil is up at front like sort of
 [u2769 | 03:28:31.540-03:28:37.459 | DM] keeping an eye out. The Agnir. The Elf is tending to the tree in the garden.
 [u2770 | 03:28:37.610-03:28:38.239 | Kenzo] Soul sight.
 [u2771 | 03:28:38.240-03:28:41.980 | Kenzo] Everybody look normal, feel they're just behaving normally.
@@ -2787,9 +2787,9 @@
 [u2787 | 03:29:34.210-03:29:36.080 | DM] Just like, you know, guys keep moving.
 [u2788 | 03:29:36.080-03:29:36.630 | Delwath] Okay, so.
 [u2789 | 03:29:36.630-03:29:38.170 | Wellby] Okay. Okay. All right.
-[u2790 | 03:29:38.880-03:29:46.020 | Kenzo] Yeah, just that become invisible, visible. {{Amel}}, what's going on? How's how's everything going? Why are we? Why are we? Why are we flying the ship east. What's going.
+[u2790 | 03:29:38.880-03:29:46.020 | Kenzo] Yeah, just that become invisible, visible. Amil, what's going on? How's how's everything going? Why are we? Why are we? Why are we flying the ship east. What's going.
 [u2791 | 03:29:46.020-03:29:46.780 | DM] Hey?
-[u2792 | 03:29:47.480-03:29:52.969 | DM] Good to see you. Are! Are you coming to find the hidden city of {{Puatar}}, too?
+[u2792 | 03:29:47.480-03:29:52.969 | DM] Good to see you. Are! Are you coming to find the hidden city of Pu'aatar, too?
 [u2793 | 03:29:53.400-03:29:54.190 | Seeker] Oh no!
 [u2794 | 03:29:55.500-03:29:57.220 | Kenzo] What is that? And why are we going there.
 [u2795 | 03:29:58.010-03:30:03.949 | DM] Library holds all the secrets to everything we need to learn. It's a hidden city in the desert
@@ -2805,7 +2805,7 @@
 [u2805 | 03:30:30.490-03:30:34.410 | DM] When we were in Drankor. It was too scary there we had to leave.
 [u2806 | 03:30:34.410-03:30:36.879 | Kenzo] Right? Right right is the nice wizard still here?
 [u2807 | 03:30:37.760-03:30:40.940 | DM] No, are they charmed?
-[u2808 | 03:30:40.940-03:30:43.770 | DM] The answers would be clear. When we got to {{Puettar}}. The.
+[u2808 | 03:30:40.940-03:30:43.770 | DM] The answers would be clear. When we got to Pu'aatar. The.
 [u2809 | 03:30:44.140-03:30:44.500 | Kenzo] Charmed.
 [u2810 | 03:30:44.500-03:30:45.410 | DM] Be in the desert.
 [u2811 | 03:30:45.410-03:30:46.200 | Delwath] Are they charmed?
@@ -2817,11 +2817,11 @@
 [u2817 | 03:31:07.040-03:31:12.240 | DM] you need to make a DC 16 wisdom check.
 [u2818 | 03:31:16.080-03:31:19.000 | DM] You're probably not gonna be able to cleanse all of them without.
 [u2819 | 03:31:19.000-03:31:19.460 | Kenzo] Thank you.
-[u2820 | 03:31:20.110-03:31:23.130 | DM] Okay, {{almost}} like Whoa.
+[u2820 | 03:31:20.110-03:31:23.130 | DM] Okay, Amil's like Whoa.
 [u2821 | 03:31:27.130-03:31:32.610 | DM] Why did I think there was some hidden city in the middle of a giant desert to the east.
 [u2822 | 03:31:33.770-03:31:38.760 | Kenzo] That's awesome. Happens to the best of us goes over to the {{it was the office}}.
 [u2823 | 03:31:38.760-03:31:44.310 | Delwath] Faldrick is the most important one, because if we get Faldrick you can just turn the ship around. We don't need them all.
-[u2824 | 03:31:44.710-03:31:47.420 | Kenzo] Yeah. Okay. Yeah. Where's Faldrick? {{Almost}}.
+[u2824 | 03:31:44.710-03:31:47.420 | Kenzo] Yeah. Okay. Yeah. Where's Faldrick? Amil.
 [u2825 | 03:31:47.420-03:31:51.330 | DM] He's in the control room. Normally he was very excited.
 [u2826 | 03:31:52.330-03:31:54.389 | DM] I always wanted to find a hidden city.
 [u2827 | 03:31:54.720-03:31:58.210 | Kenzo] Yeah. Kenzo goes down into the control room. There.
@@ -2913,7 +2913,7 @@
 [u2913 | 03:37:00.380-03:37:04.550 | Delwath] Well, I it's a good question. Do we have to decide? Does it.
 [u2914 | 03:37:05.820-03:37:09.249 | DM] It doesn't really matter if you decide tonight.
 [u2915 | 03:37:10.570-03:37:17.459 | Delwath] Yeah, can we decide? It probably has impacts on the world in the sense that it's actually means it's another.
-[u2916 | 03:37:18.370-03:37:23.799 | Delwath] We're not saving. We're not going after {{Sarah}} for 72 h instead of 48 h.
+[u2916 | 03:37:18.370-03:37:23.799 | Delwath] We're not saving. We're not going after Sura for 72 h instead of 48 h.
 [u2917 | 03:37:25.110-03:37:28.149 | Delwath] but we might want to think for a few minutes about
 [u2918 | 03:37:28.700-03:37:30.819 | Delwath] I mean, we could short rest either way.
 [u2919 | 03:37:31.680-03:37:35.650 | Riswynn] I mean, it's just my 6th level slot doesn't matter as much as.

@@ -1,0 +1,48 @@
+schemaVersion: '1.0'
+sourceType: transcript
+scope: session
+campaign: Dunmar Frontier
+sessionNumber: 32
+realWorldDate: '2021-10-07'
+drStart: '1748-06-09'
+drEnd: '1748-06-20'
+drStartTime: null
+drEndTime: null
+participants:
+- name: David Kong
+  gameRole: Kenzo
+  transcriptIdentifiers:
+  - Kenzo
+- name: David Schwartz
+  gameRole: Wellby
+  transcriptIdentifiers:
+  - Wellby
+- name: Mike Sackton
+  gameRole: Delwath
+  transcriptIdentifiers:
+  - Delwath
+- name: Eric Rosenbaum
+  gameRole: Seeker
+  transcriptIdentifiers:
+  - Seeker
+- name: John Leeker
+  gameRole: Drikod
+  transcriptIdentifiers:
+  - Drikod
+- name: Tim Sackton
+  gameRole: DM
+  transcriptIdentifiers:
+  - DM
+sourceInputPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-032/sources/Session032.identified.vtt
+sourceAudioPath: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/zoom/Session
+  32/audio1325665104.m4a
+sourceConfigPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-032/sources/dunmar-frontier-ep32-source-prep.yaml
+participantsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-032/sources/dunmar-frontier-ep32-participants.yaml
+preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-032/cleaned/dunmar-frontier-032-source-prepared.md
+supplementalSources:
+- original: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/zoom/Session 32/transcription/scribe-v2/Session032.speaker-identification.json
+  sourcePath: /Users/tim/Documents/RPGs/sessions/recordings/dunmar/zoom/Session 32/transcription/scribe-v2/Session032.speaker-identification.json
+  archivedPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-032/sources/supplemental/01-Session032.speaker-identification.json
+speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-032/sources/dunmar-frontier-ep32-speaker-mappings.json
+transcriptFormat: vtt
+speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmar-frontier-032/cleaned/dunmar-frontier-032-speaker-stats.json

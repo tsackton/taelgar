@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "transcriptSha256": "a7b7b72ca079eb52296a3029d36883266ca488a3048ca3ae5e9b69df48809846",
+  "decisions": {
+    "u1707": {
+      "status": "skip"
+    },
+    "u1784": {
+      "status": "skip"
+    },
+    "u1222": {
+      "status": "skip"
+    },
+    "u1327": {
+      "status": "skip"
+    },
+    "u1801": {
+      "status": "skip"
+    },
+    "u1223": {
+      "status": "skip"
+    },
+    "u1710": {
+      "status": "skip"
+    },
+    "u1221": {
+      "status": "skip"
+    },
+    "u3939": {
+      "status": "skip"
+    },
+    "u3940": {
+      "status": "skip"
+    },
+    "u3568": {
+      "status": "skip"
+    }
+  },
+  "acceptanceReason": "User explicitly chose Continue with marked uncertainty for the four remaining contextual name issues on nine lines, before the automatic names pass."
+}

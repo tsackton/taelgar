@@ -8,7 +8,7 @@
 [u0008 | 00:00:51.162-00:00:57.629 | DM] Thundercrown, the Riftstone Gorge and the Hanging Tower.
 [u0009 | 00:00:58.060-00:01:08.300 | DM] anchored by bridges of lightning to 2 mountains from which the massive, Chalyte-powered death ray vaporizes anybody who comes close.
 [u0010 | 00:01:08.300-00:01:10.129 | Kenzo] Fuck. I forgot about all this shit.
-[u0011 | 00:01:12.950-00:01:24.940 | DM] You learned from talking to Brunnar, the stone giant, that Dhrukmir, {{Ruthmere}}, Skybreaker,
+[u0011 | 00:01:12.950-00:01:24.940 | DM] You learned from talking to Brunnar, the stone giant, that Dhrukmir, Dhrukmir, Skybreaker,
 [u0012 | 00:01:25.420-00:01:29.020 | DM] king of the Giants in this region, is a
 [u0013 | 00:01:29.420-00:01:34.950 | DM] Chalyte-obsessed creature who has modified himself
 [u0014 | 00:01:35.100-00:01:39.130 | DM] and the land around him powered by the Chalyte, he.

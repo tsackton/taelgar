@@ -221,7 +221,7 @@
 [u0221 | 00:13:58.740-00:13:59.510 | DM] Actual turn.
 [u0222 | 00:13:59.510-00:14:04.639 | Kenzo] Yeah, Kenzo will, turn into an astral projection, and then activate, Bonus Action Lengau's Claw.
 [u0223 | 00:14:06.240-00:14:08.210 | DM] I think you are already in astral projection.
-[u0224 | 00:14:08.310-00:14:12.629 | Kenzo] Oh yeah, I think I was, you're right, that's an hour. Okay, yeah, I activate {{Endgotling, guys}}.
+[u0224 | 00:14:08.310-00:14:12.629 | Kenzo] Oh yeah, I think I was, you're right, that's an hour. Okay, yeah, I activate Lengau's Claw.
 [u0225 | 00:14:13.130-00:14:13.670 | Audio shared by Tim Sackton] Okay.
 [u0226 | 00:14:13.670-00:14:14.730 | Kenzo] He's still hundreds of feet away, right?
 [u0227 | 00:14:15.170-00:14:16.640 | Audio shared by Tim Sackton] Yeah, she's hundreds of feet away.
@@ -837,7 +837,7 @@
 [u0837 | 00:52:00.770-00:52:05.430 | Delwath] Second attack… Crits.
 [u0838 | 00:52:06.110-00:52:07.410 | Delwath] With Advantage.
 [u0839 | 00:52:07.940-00:52:18.140 | Delwath] I can't smite, unfortunately, because I already smited, but… Oh, actually… That wasn't a bonus action.
-[u0840 | 00:52:19.840-00:52:28.819 | Delwath] I'm gonna drop this, I'm gonna drop, my… {{Meswati Storm}}.
+[u0840 | 00:52:19.840-00:52:28.819 | Delwath] I'm gonna drop this, I'm gonna drop, my… Meswati Storm.
 [u0841 | 00:52:29.350-00:52:31.179 | Delwath] And do a banishing Smite on her.
 [u0842 | 00:52:32.850-00:52:35.389 | Delwath] Cause I can do that, right? Like, it's the…
 [u0843 | 00:52:35.660-00:52:38.809 | Delwath] Eldritch is not a bonus action, Banishing Smite is a bonus action.

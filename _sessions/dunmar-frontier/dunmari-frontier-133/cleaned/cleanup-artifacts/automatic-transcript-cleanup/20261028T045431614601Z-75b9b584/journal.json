@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-133",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-source-cleaned.md",
+  "beforeSha256": "729fe3b748a4c223cb4c98512d6d99b6864dad7825cb58b3f3478ccebcfd4361",
+  "afterSha256": "27221f4961b179986edb3c63c2c8ab20bec0e5e2dbd2d3f37381e8a52b691427",
+  "markersBefore": 57,
+  "groups": [
+    {
+      "id": "combat-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Combat actions, rules explanations, interface text, and damaged mechanical wording are outside this name pass, including possible spoken terminology mistakes. No phrase reconstruction or mechanics correction is authorized.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0140:m1",
+        "u0236:m1",
+        "u0273:m1",
+        "u0439:m1",
+        "u0616:m1",
+        "u0880:m1",
+        "u1027:m1",
+        "u1184:m1",
+        "u1185:m1",
+        "u1436:m1",
+        "u1715:m1",
+        "u1851:m1",
+        "u1855:m1",
+        "u1985:m1",
+        "u1987:m1",
+        "u2257:m1",
+        "u2301:m1",
+        "u2581:m1",
+        "u2582:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0140:m1": "{{scare on our piercing}}",
+        "u0236:m1": "{{It's the anxiety}}",
+        "u0273:m1": "{{offset}}",
+        "u0439:m1": "{{Shouldn't telekinesis her}}",
+        "u0616:m1": "{{it checks off}}",
+        "u0880:m1": "{{scale value, no level}}",
+        "u1027:m1": "{{planner}}",
+        "u1184:m1": "{{make it touch}}",
+        "u1185:m1": "{{To make us third}}",
+        "u1436:m1": "{{dodge}}",
+        "u1715:m1": "{{legendary action}}",
+        "u1851:m1": "{{legendary action}}",
+        "u1855:m1": "{{device}}",
+        "u1985:m1": "{{sorce. Sorcerer. It doesn't… That's lot}}",
+        "u1987:m1": "{{I was casting a spell}}",
+        "u2257:m1": "{{only after turn}}",
+        "u2301:m1": "{{Neil at the rend}}",
+        "u2581:m1": "{{legendary action}}",
+        "u2582:m1": "{{a little reactions}}"
+      }
+    },
+    {
+      "id": "initiative-name",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The speaker immediately restates the initiative question using Delwath. Calvin could be an ASR error or a spoken mistaken name; the current dialogue does not distinguish those readings.",
+      "evidence": [
+        {
+          "path": "_sessions/dunmar-frontier/dunmari-frontier-133/cleaned/dunmari-frontier-133-session.yaml",
+          "sha256": "5be69f17df6bceec99304864a53ba3c47a8fcdffc62ea0137861b715d9b7063e"
+        }
+      ],
+      "candidates": [
+        "Delwath"
+      ],
+      "markerIds": [
+        "u0658:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0658:m1": "{{Calvin}}"
+      }
+    },
+    {
+      "id": "lengaus-claw",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Kenzo repeats the activation named immediately before the DM correction about astral projection; his later reach attacks identify the same feature. The session record establishes Lengau's Claw.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Lengau.md",
+          "sha256": "cc73bc41c8d562460971d2770eefb0376810f8655c7ef9ab3d7be035db97dcc3"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 109 (DuFr).md",
+          "sha256": "ac76a098fdd1c515d61ebe703c5726d00cf63acdcee075a9db634e7284945423"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0224:m1"
+      ],
+      "replacements": {
+        "u0224:m1": "Lengau's Claw"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "meswati-storm",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Delwath drops his ongoing divine storm to concentrate on Banishing Smite. The marked term already uses the canonical Meswati spelling; the session narrative corroborates the storm being dismissed.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Meswati/Meswati.md",
+          "sha256": "6ec032ef4d5f6c88365c253c8ccca62cebe36e44085f24d08ab45aeccf880a9a"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 133 (DuFr).md",
+          "sha256": "9c12b5f13fb93b665aca809d5afe96968339ee625c641a7423538f32dac87275"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0840:m1"
+      ],
+      "replacements": {
+        "u0840:m1": "Meswati Storm"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "numbers-and-rolls",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Numbers, dice, damage totals, distances, and roll discussion are outside the name pass; preserve the existing wording and all mechanics.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0284:m1",
+        "u0399:m1",
+        "u0523:m1",
+        "u0657:m1",
+        "u0722:m1",
+        "u0723:m1",
+        "u0834:m1",
+        "u1134:m1",
+        "u1150:m1",
+        "u1277:m1",
+        "u1356:m1",
+        "u1669:m1",
+        "u1754:m1",
+        "u2137:m1",
+        "u2204:m1",
+        "u2535:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0284:m1": "{{30th}}",
+        "u0399:m1": "{{60 bucks}}",
+        "u0523:m1": "{{26 plus}}",
+        "u0657:m1": "{{Two teeth}}",
+        "u0722:m1": "{{41}}",
+        "u0723:m1": "{{41}}",
+        "u0834:m1": "{{68… 7}}",
+        "u1134:m1": "{{2010 and 90}}",
+        "u1150:m1": "{{35}}",
+        "u1277:m1": "{{33}}",
+        "u1356:m1": "{{I keep probably 18s}}",
+        "u1669:m1": "{{doll 3}}",
+        "u1754:m1": "{{83}}",
+        "u2137:m1": "{{DC10}}",
+        "u2204:m1": "{{160}}",
+        "u2535:m1": "{{plus 2}}"
+      }
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary speech and damaged descriptive or conversational phrases are outside this name pass. The context does not establish a complete eligible name replacement; preserve the full marked spans without reconstructing surrounding wording.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0025:m1",
+        "u0070:m1",
+        "u0244:m1",
+        "u0419:m1",
+        "u0424:m1",
+        "u0569:m1",
+        "u0626:m1",
+        "u0727:m1",
+        "u1083:m1",
+        "u1171:m1",
+        "u1423:m1",
+        "u1440:m1",
+        "u1574:m1",
+        "u1578:m1",
+        "u1591:m1",
+        "u1785:m1",
+        "u2233:m1",
+        "u2750:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0025:m1": "{{a dresser, Ty}}",
+        "u0070:m1": "{{Rose her hands}}",
+        "u0244:m1": "{{makes us bad}}",
+        "u0419:m1": "{{just to tell Sharers}}",
+        "u0424:m1": "{{what's impressive}}",
+        "u0569:m1": "{{She organic}}",
+        "u0626:m1": "{{When he stabbed}}",
+        "u0727:m1": "{{mandela}}",
+        "u1083:m1": "{{Georgia}}",
+        "u1171:m1": "{{irrelevant}}",
+        "u1423:m1": "{{to be}}",
+        "u1440:m1": "{{at worst}}",
+        "u1574:m1": "{{Until it gets blusted}}",
+        "u1578:m1": "{{Is he a connected physiography}}",
+        "u1591:m1": "{{curious}}",
+        "u1785:m1": "{{her out}}",
+        "u2233:m1": "{{I should've looked}}",
+        "u2750:m1": "{{same smell of the wicked}}"
+      }
+    },
+    {
+      "id": "passing-referent",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Seeker asks whether the Empress passed an unclear referent while discussing the Ladder and opportunity attacks. My Ladder is plausible, but the complete marked replacement and its boundaries are not established.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 133 (DuFr).md",
+          "sha256": "9c12b5f13fb93b665aca809d5afe96968339ee625c641a7423538f32dac87275"
+        }
+      ],
+      "candidates": [
+        "Ladder"
+      ],
+      "markerIds": [
+        "u1571:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1571:m1": "{{midnight}}"
+      }
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0224:m1",
+      "uid": "u0224",
+      "ordinal": 1,
+      "lineNumber": 224,
+      "start": 121,
+      "end": 141,
+      "before": "{{Endgotling, guys}}",
+      "span": "Endgotling, guys",
+      "line": "[u0224 | 00:14:08.310-00:14:12.629 | Kenzo] Oh yeah, I think I was, you're right, that's an hour. Okay, yeah, I activate {{Endgotling, guys}}.",
+      "contextBefore": [
+        "[u0222 | 00:13:59.510-00:14:04.639 | Kenzo] Yeah, Kenzo will, turn into an astral projection, and then activate, Bonus Action Lengau's Claw.",
+        "[u0223 | 00:14:06.240-00:14:08.210 | DM] I think you are already in astral projection."
+      ],
+      "contextAfter": [
+        "[u0225 | 00:14:13.130-00:14:13.670 | Audio shared by Tim Sackton] Okay.",
+        "[u0226 | 00:14:13.670-00:14:14.730 | Kenzo] He's still hundreds of feet away, right?"
+      ],
+      "after": "Lengau's Claw",
+      "group": "lengaus-claw",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0840:m1",
+      "uid": "u0840",
+      "ordinal": 1,
+      "lineNumber": 840,
+      "start": 87,
+      "end": 104,
+      "before": "{{Meswati Storm}}",
+      "span": "Meswati Storm",
+      "line": "[u0840 | 00:52:19.840-00:52:28.819 | Delwath] I'm gonna drop this, I'm gonna drop, my… {{Meswati Storm}}.",
+      "contextBefore": [
+        "[u0838 | 00:52:06.110-00:52:07.410 | Delwath] With Advantage.",
+        "[u0839 | 00:52:07.940-00:52:18.140 | Delwath] I can't smite, unfortunately, because I already smited, but… Oh, actually… That wasn't a bonus action."
+      ],
+      "contextAfter": [
+        "[u0841 | 00:52:29.350-00:52:31.179 | Delwath] And do a banishing Smite on her.",
+        "[u0842 | 00:52:32.850-00:52:35.389 | Delwath] Cause I can do that, right? Like, it's the…"
+      ],
+      "after": "Meswati Storm",
+      "group": "meswati-storm",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u0840": {
+      "before": "[u0840 | 00:52:19.840-00:52:28.819 | Delwath] I'm gonna drop this, I'm gonna drop, my… {{Meswati Storm}}.\n",
+      "after": "[u0840 | 00:52:19.840-00:52:28.819 | Delwath] I'm gonna drop this, I'm gonna drop, my… Meswati Storm.\n"
+    },
+    "u0224": {
+      "before": "[u0224 | 00:14:08.310-00:14:12.629 | Kenzo] Oh yeah, I think I was, you're right, that's an hour. Okay, yeah, I activate {{Endgotling, guys}}.\n",
+      "after": "[u0224 | 00:14:08.310-00:14:12.629 | Kenzo] Oh yeah, I think I was, you're right, that's an hour. Okay, yeah, I activate Lengau's Claw.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:54:31.621882+00:00",
+      "sha256": "27221f4961b179986edb3c63c2c8ab20bec0e5e2dbd2d3f37381e8a52b691427"
+    }
+  ],
+  "runId": "20261028T045431614601Z-75b9b584",
+  "createdAt": "2026-10-28T04:54:31.614902+00:00"
+}

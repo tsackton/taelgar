@@ -1,4 +1,4 @@
-[u0001 | 00:00:02.530-00:00:07.049 | DM] Okay. So we begin on {{Vendorsharna}}.
+[u0001 | 00:00:02.530-00:00:07.049 | DM] Okay. So we begin on Vindristjarna.
 [u0002 | 00:00:07.960-00:00:12.410 | DM] some 70 miles off the coast of Chardon.
 [u0003 | 00:00:12.740-00:00:17.130 | DM] drifting among a fog bank in the Gulf of Chardon.
 [u0004 | 00:00:17.990-00:00:24.200 | DM] and as we begin we flash back to the people that you freed
@@ -93,7 +93,7 @@
 [u0093 | 00:09:43.140-00:09:44.240 | Delwath] Keep trying.
 [u0094 | 00:09:44.240-00:09:44.930 | Delwath] I think.
 [u0095 | 00:09:47.710-00:09:49.620 | Kenzo] Wait! What go underwater to? Where?
-[u0096 | 00:09:49.620-00:09:51.850 | Delwath] Submarine, {{Bernacharda}}.
+[u0096 | 00:09:49.620-00:09:51.850 | Delwath] Submarine, Vindristjarna.
 [u0097 | 00:09:54.400-00:09:55.040 | Kenzo] Oh, that's.
 [u0098 | 00:09:55.510-00:09:57.250 | Delwath] Water melts ice.
 [u0099 | 00:09:58.180-00:10:02.940 | DM] Have you? I've read stories of icebergs, obviously not.
@@ -169,7 +169,7 @@
 [u0169 | 00:17:32.270-00:17:34.940 | DM] Kenzo created effectively
 [u0170 | 00:17:35.510-00:17:48.800 | DM] when Kenzo briefly possessed the crown, and you converted all the bureaucrats to be like, expose the evils of chelite because Fausto had had effectively taken over control of the entire
 [u0171 | 00:17:49.270-00:17:52.550 | DM] much of the chelite industry by mind controlling
-[u0172 | 00:17:53.120-00:18:16.809 | DM] a bunch of key bureaucrats and factors and foremen and and things like that, who were important in the keeping the flow of ore flowing to the refineries. So Kenzo was like. No, now denounce the evils of chelite, and so they started calling themselves the Eightfold Flame. After {{Riswin}} took control, and they started all preaching about how the
+[u0172 | 00:17:53.120-00:18:16.809 | DM] a bunch of key bureaucrats and factors and foremen and and things like that, who were important in the keeping the flow of ore flowing to the refineries. So Kenzo was like. No, now denounce the evils of chelite, and so they started calling themselves the Eightfold Flame. After Riswynn took control, and they started all preaching about how the
 [u0173 | 00:18:18.180-00:18:21.369 | DM] The 8 divines hated chelite.
 [u0174 | 00:18:24.130-00:18:33.340 | DM] So there was those riots. For a brief time
 [u0175 | 00:18:33.450-00:18:39.500 | DM] they had taken effectively control of a large part of the north bank.
@@ -177,14 +177,14 @@
 [u0177 | 00:18:48.940-00:18:58.250 | DM] Dunmari and Darba, and a large fraction of the army was off retreating from the battle in Sangara
 [u0178 | 00:18:59.031-00:19:02.399 | DM] When the Magistros returned. He declared martial law
 [u0179 | 00:19:02.710-00:19:06.899 | DM] ordered legions into the city, blockaded the river bridge.
-[u0180 | 00:19:09.520-00:19:22.080 | DM] But when you talked to Xavier it was the day after {{Rizwin}} took on the quest to free the Orcs, and he said, what was particularly strange is that a bunch of the leaders of the Eightfold Flame?
+[u0180 | 00:19:09.520-00:19:22.080 | DM] But when you talked to Xavier it was the day after Riswynn took on the quest to free the Orcs, and he said, what was particularly strange is that a bunch of the leaders of the Eightfold Flame?
 [u0181 | 00:19:23.008-00:19:25.900 | DM] Just vanished the previous day.
 [u0182 | 00:19:27.170-00:19:32.573 | DM] no longer any any mind control. So who knows what they wanted to do?
 [u0183 | 00:19:36.910-00:19:37.780 | Delwath] Right so. But does this.
 [u0184 | 00:19:37.780-00:19:39.000 | DM] I'm really.
 [u0185 | 00:19:39.000-00:19:42.389 | Delwath] I'm I. I was just reading the session notes, too, and
 [u0186 | 00:19:42.680-00:19:47.460 | Delwath] following the links of obsidian, which are all just secrets. But you know, M.
-[u0187 | 00:19:48.020-00:19:50.839 | DM] Not all of them. The {{North Lake}} has a ton of text.
+[u0187 | 00:19:48.020-00:19:50.839 | DM] Not all of them. The North Bank has a ton of text.
 [u0188 | 00:19:51.160-00:19:53.799 | Delwath] Well, I was looking at Andros and Xavier.
 [u0189 | 00:19:53.800-00:19:55.279 | DM] Oh, yeah, yeah, no.
 [u0190 | 00:19:55.420-00:20:00.299 | DM] The the people are all just the the organizations and people are all just secrets.
@@ -299,7 +299,7 @@
 [u0299 | 00:30:03.900-00:30:17.639 | DM] so this broad sweep of the like commercial bustle of the south bank where you you were before. You sort of went through the docks when you came in from the halflings, and you fled out one of the south. The gates on the south wall.
 [u0300 | 00:30:18.320-00:30:25.069 | DM] the north bank of the Chasa is dominated by the extinct volcano mountain
 [u0301 | 00:30:25.280-00:30:41.639 | DM] that throws a spur that runs the volcano. It's the summit of the volcano itself is like a mile away from the river, or something like that, but it throws a spur that runs down almost to the edge of the river, falling steeply in unnatural obsidian cliffs
-[u0302 | 00:30:41.710-00:31:03.620 | DM] on the upriver inland side, and gently sloping down to the flat plains on the down river ocean side. But Kenzo would would like sort of be vaguely familiar with this up on the like far side of the Mount {{Nera}} spur, there’s like fancy estates. There's like private villas.
+[u0302 | 00:30:41.710-00:31:03.620 | DM] on the upriver inland side, and gently sloping down to the flat plains on the down river ocean side. But Kenzo would would like sort of be vaguely familiar with this up on the like far side of the Mount Nera spur, there’s like fancy estates. There's like private villas.
 [u0303 | 00:31:03.900-00:31:24.929 | DM] but you can't really get there from the slums, because there's this obsidian cliffs on the other side. There's also a giant watchtower and a wall that runs along the height of land. Along this spur. The wall then curves down, following the topography of the slope, and forms a sort of bow that surrounds about
 [u0304 | 00:31:25.190-00:31:30.919 | DM] 2 thirds of the settled area on the north bank
 [u0305 | 00:31:31.300-00:31:54.100 | DM] downriver. From the wall you can see the chelite refineries, fires, burnings. There's big big cranes like human powered. There's like 16 people that run around a turnstile to lift this crane that then swings over and drops ore from the mill channel. From all these waterways cut that divert water from the Chasa, but
@@ -319,7 +319,7 @@
 [u0319 | 00:33:44.560-00:33:57.630 | Kenzo] Yeah, since we're birds. Actually, let's can we? Can we just do like a whole deeper like, is there anything else burning? You said all the fires and stuff are mainly northside near the chelite. Is there any other signs of disruption other than in those areas.
 [u0320 | 00:33:58.264-00:34:00.991 | DM] Nothing. Nothing on the south bank.
 [u0321 | 00:34:02.980-00:34:07.910 | DM] It doesn't seem like the Eightfold Flame rioters ever made it to the south bank.
-[u0322 | 00:34:08.170-00:34:18.850 | DM] It would be tricky. The river bridge is very well defended, and the and the Chardon Bridge sits right under the fort that guards the spur of Mount {{Nera}}, so it would be challenging to
+[u0322 | 00:34:08.170-00:34:18.850 | DM] It would be tricky. The river bridge is very well defended, and the and the Chardon Bridge sits right under the fort that guards the spur of Mount Nera, so it would be challenging to
 [u0323 | 00:34:19.590-00:34:20.380 | DM] assault it.
 [u0324 | 00:34:20.380-00:34:25.199 | Delwath] What's is there a lot of wharfs and docks and boats going across the river.
 [u0325 | 00:34:25.330-00:34:26.320 | DM] Tons.
@@ -347,7 +347,7 @@
 [u0347 | 00:36:21.910-00:36:27.190 | DM] I I was trying to get enough time to actually like, put this online. But I didn't.
 [u0348 | 00:36:28.570-00:36:37.150 | DM] So the thing like, here is like where the chelite factories are all these mill streams that cut across
 [u0349 | 00:36:37.560-00:36:41.180 | DM] this right here is the Chelite Levels.
-[u0350 | 00:36:42.060-00:36:51.589 | DM] You can see the 2 bridges, the river bridge and the Chardon Bridge and Mount {{Nara}}, and then, like Number 4, is the University.
+[u0350 | 00:36:42.060-00:36:51.589 | DM] You can see the 2 bridges, the river bridge and the Chardon Bridge and Mount Nera, and then, like Number 4, is the University.
 [u0351 | 00:36:52.940-00:36:54.050 | DM] and then
 [u0352 | 00:36:54.480-00:37:05.449 | DM] that whole inner wall is like the old city. 6. Precinct 6 is like where the ports are precinct. One is where the sort of imperial administration is.
 [u0353 | 00:37:05.450-00:37:05.965 | Kenzo] Nice.
@@ -403,7 +403,7 @@
 [u0403 | 00:40:38.380-00:40:39.070 | Wellby] Yeah, yeah.
 [u0404 | 00:40:40.510-00:40:43.870 | DM] Big gatehouses at both ends of the river bridge.
 [u0405 | 00:40:44.260-00:40:47.660 | DM] That was for a long time the river bridge was the primary
-[u0406 | 00:40:48.140-00:40:57.500 | DM] fortification. There was the tower on top of Mount {{Neera}} that protected the Chardon Bridge, and then there was the River Bridge Gatehouse, on the north shore.
+[u0406 | 00:40:48.140-00:40:57.500 | DM] fortification. There was the tower on top of Mount Nera that protected the Chardon Bridge, and then there was the River Bridge Gatehouse, on the north shore.
 [u0407 | 00:40:57.500-00:41:06.300 | Delwath] But but but presumably there's I mean is the is the river bridge like? I don't know the Rialto like tons of traffic and shops and stuff like that.
 [u0408 | 00:41:06.300-00:41:08.580 | Delwath] Oh, yeah, yeah, so is it difficult.
 [u0409 | 00:41:08.580-00:41:11.699 | DM] Wider. Actually, it's like 4 carts go abreast.
@@ -508,7 +508,7 @@
 [u0508 | 00:48:43.305-00:48:47.720 | DM] yeah. Why do I ask? Yeah. I mean.
 [u0509 | 00:48:49.010-00:48:52.439 | DM] you get the feeling that since the
 [u0510 | 00:48:53.420-00:49:02.249 | DM] I mean. It's there's definitely more like there's legionary soldiers that are just kind of like. The last time you were in Chardon you just saw the the city guard the the
-[u0511 | 00:49:05.080-00:49:13.340 | DM] {{pride Conti villages}}, the the like. City watch you didn't see like
+[u0511 | 00:49:05.080-00:49:13.340 | DM] Praecanti Vigiles, the the like. City watch you didn't see like
 [u0512 | 00:49:13.620-00:49:20.250 | DM] Legionary Legionary soldiers marching around in groups of 8, with armor and weapons.
 [u0513 | 00:49:20.450-00:49:22.880 | DM] That's clearly happening now.
 [u0514 | 00:49:23.210-00:49:30.540 | DM] So there's definitely some kind of heightened defenses. But.
@@ -674,7 +674,7 @@
 [u0674 | 01:03:43.380-01:03:47.548 | DM] you know, just fiddling, not really paying attention.
 [u0675 | 01:03:48.250-01:03:49.990 | Kenzo] Can! Oh, good!
 [u0676 | 01:03:49.990-01:03:57.105 | DM] Also in the room is, so this older woman, you presume, must be
-[u0677 | 01:03:58.160-01:04:07.289 | DM] {{Francisca}}, who's Xavier's mother? Who you've you've met, but you know she doesn't particularly wouldn't necessarily particularly remember you.
+[u0677 | 01:03:58.160-01:04:07.289 | DM] Francisca, who's Xavier's mother? Who you've you've met, but you know she doesn't particularly wouldn't necessarily particularly remember you.
 [u0678 | 01:04:08.660-01:04:13.229 | DM] Also, in the room is a woman a few years older than
 [u0679 | 01:04:14.070-01:04:22.610 | DM] Xavier, probably his older sister, who again you've met a couple of times, but don't know particularly well. Short shoulder length.
 [u0680 | 01:04:22.720-01:04:24.629 | DM] curly black hair looks
@@ -890,7 +890,7 @@
 [u0890 | 01:22:02.820-01:22:07.799 | DM] She kind of blushed a little. I think, my girlfriend.
 [u0891 | 01:22:08.430-01:22:10.299 | Kenzo] Oh, that's so cute.
 [u0892 | 01:22:12.090-01:22:12.650 | DM] Bye.
-[u0893 | 01:22:13.300-01:22:15.920 | Delwath] Well, {{Ragebdros}} is a is kind of a
+[u0893 | 01:22:13.300-01:22:15.920 | Delwath] Well, Ra'ghemdros is a is kind of a
 [u0894 | 01:22:16.310-01:22:22.060 | Delwath] entertaining story, a little less scary than some of them, so you know it's a good one for a meal.
 [u0895 | 01:22:26.930-01:22:34.589 | DM] Well, you know I've always this is Adina, his sister, speaking.
 [u0896 | 01:22:35.490-01:22:38.269 | DM] I always love those stories of faraway places.
@@ -925,7 +925,7 @@
 [u0925 | 01:24:56.777-01:25:06.550 | DM] so, looking from the mast, you can see Milo at the at the front of the ship, with like looking out sort of sort of peering it at something.
 [u0926 | 01:25:07.746-01:25:12.450 | DM] And then the the the ship suddenly stops for a minute, and you see, like a
 [u0927 | 01:25:12.580-01:25:22.089 | DM] a a fluke of a giant whale sort of wave at him, and then he yells, it's working, Tilly.
-[u0928 | 01:25:25.890-01:25:28.829 | Delwath] I think our friends have found the South. I'll say to {{it today}}.
+[u0928 | 01:25:25.890-01:25:28.829 | Delwath] I think our friends have found the South. I'll say to Adina.
 [u0929 | 01:25:29.920-01:25:33.290 | Delwath] I mean, this is just everybody can see this right? It's just like a picture.
 [u0930 | 01:25:33.290-01:25:38.699 | DM] It's just like a it's just like a a movie projector from the eye. Yes.
 [u0931 | 01:25:38.700-01:25:39.720 | Wellby] Spots.
@@ -937,7 +937,7 @@
 [u0937 | 01:26:16.933-01:26:23.440 | Delwath] met Dimitar. I won't mention Rai, but I'll you know, talk up, Dimitar, but like.
 [u0938 | 01:26:23.610-01:26:26.790 | DM] So you talk for a bit. Everybody's very impressed.
 [u0939 | 01:26:28.310-01:26:30.514 | DM] Everybody eats hungrily.
-[u0940 | 01:26:35.290-01:26:40.494 | DM] {{Francesca}}. The mom is like pretty quiet and just kind of stays at the back, but
+[u0940 | 01:26:35.290-01:26:40.494 | DM] Francisca. The mom is like pretty quiet and just kind of stays at the back, but
 [u0941 | 01:26:40.820-01:26:41.330 | Delwath] Oh!
 [u0942 | 01:26:42.180-01:26:44.799 | DM] You know, and Xavier's got his sort of like.
 [u0943 | 01:26:45.020-01:26:47.419 | DM] Can't believe it's you, Kenzo, like
@@ -946,7 +946,7 @@
 [u0946 | 01:26:59.780-01:27:08.650 | DM] far away places and and keeps, you know, sort of talking about so amazing.
 [u0947 | 01:27:08.870-01:27:16.430 | DM] And you gather over the course of the conversation, that you know, Camilla, her partner, is
 [u0948 | 01:27:16.900-01:27:22.949 | DM] somehow involved in, like a group of priests that have been preaching against chelite for a while.
-[u0949 | 01:27:25.520-01:27:32.729 | DM] She's not, you know, both. Xavier is not particularly religious, nor is {{Francisca}}, but both
+[u0949 | 01:27:25.520-01:27:32.729 | DM] She's not, you know, both. Xavier is not particularly religious, nor is Francisca, but both
 [u0950 | 01:27:32.870-01:27:35.660 | DM] Adina and Camilla are like pretty.
 [u0951 | 01:27:35.940-01:27:45.423 | DM] you know, devoted to the 8 divines to Mas Numana. Conversation goes on for a little while.
 [u0952 | 01:27:47.290-01:27:56.790 | DM] If there's anything you wanna bring up or discuss or do before, like the evening meal when.
@@ -1475,9 +1475,9 @@
 [u1475 | 02:14:46.650-02:14:51.730 | DM] but we were unwilling to trust you without further conversation.
 [u1476 | 02:14:53.250-02:15:10.250 | DM] Should you wish to speak that can be arranged, find a craft to row, you hold on
 [u1477 | 02:15:23.310-02:15:27.390 | DM] find a find a craft, or get yourself aboard.
-[u1478 | 02:15:30.130-02:15:32.070 | DM] {{Auditorian's}} Pride.
+[u1478 | 02:15:30.130-02:15:32.070 | DM] Auratan's Pride.
 [u1479 | 02:15:34.210-02:15:40.479 | DM] One of my flagships can't miss it in the harbor.
-[u1480 | 02:15:43.330-02:15:56.029 | DM] Surrender yourself to Tiberius, windcaller of {{Arturian's}} Pride.
+[u1480 | 02:15:43.330-02:15:56.029 | DM] Surrender yourself to Tiberius, windcaller of Auratan's Pride.
 [u1481 | 02:16:03.980-02:16:15.509 | DM] If he if you convince him of your lack of danger, we will be in contact.
 [u1482 | 02:16:19.006-02:16:21.859 | Kenzo] Yeah, but we're dangerous. I don't think that's.
 [u1483 | 02:16:22.640-02:16:24.929 | Wellby] There's no scenario where we're not dangerous.
@@ -1528,7 +1528,7 @@
 [u1528 | 02:19:20.559-02:19:22.019 | Kenzo] I like where this is all going, though.
 [u1529 | 02:19:22.590-02:19:23.410 | DM] Okay.
 [u1530 | 02:19:24.660-02:19:30.790 | Kenzo] We're organizing. We're organizing Chardon’s 1st chelite Trade Union, and then we'll we'll go from there.
-[u1531 | 02:19:31.930-02:19:38.640 | DM] So {{Aratan's}} Pride is like you saw it. It's 1 of the 2 Navy ships anchored in the harbor.
+[u1531 | 02:19:31.930-02:19:38.640 | DM] So Auratan's Pride is like you saw it. It's 1 of the 2 Navy ships anchored in the harbor.
 [u1532 | 02:19:39.549-02:19:40.230 | Delwath] That's cool.
 [u1533 | 02:19:40.230-02:19:50.619 | DM] It's big, like. Clearly a large crew. There's like a a giant sort of magical.
 [u1534 | 02:19:50.920-02:20:00.121 | DM] not exactly a cannon, but like it looks like an oversized wand mounted, mounted on the bow, and then rows of ballista.
@@ -1641,7 +1641,7 @@
 [u1641 | 02:28:07.190-02:28:22.890 | DM] and accuse you of devastating this city, but it was.
 [u1642 | 02:28:23.510-02:28:28.129 | Delwath] It's fair. It was a it was a good it was a good duplicate.
 [u1643 | 02:28:28.230-02:28:36.029 | Delwath] We we fought, we fought them ourselves quite quite compelling doubles.
-[u1644 | 02:28:38.520-02:28:49.280 | Delwath] There was a there was 4 of them, one, I think, causing some trouble in the {{Never see}}
+[u1644 | 02:28:38.520-02:28:49.280 | Delwath] There was a there was 4 of them, one, I think, causing some trouble in the Nevos Sea
 [u1645 | 02:28:51.660-02:28:56.770 | Delwath] you're you might have even heard rumors.
 [u1646 | 02:28:59.170-02:29:01.029 | Delwath] There were doubles all around actually.
 [u1647 | 02:29:02.180-02:29:07.890 | DM] Yes, there is much that we have learned.
@@ -1669,7 +1669,7 @@
 [u1669 | 02:30:59.452-02:31:00.569 | Wellby] Change hand therapy.
 [u1670 | 02:31:00.570-02:31:01.960 | Delwath] Come to your city.
 [u1671 | 02:31:02.150-02:31:04.349 | Wellby] That's not the scroll we thought you were talking about.
-[u1672 | 02:31:05.650-02:31:15.329 | DM] That shattered the material plane through the center of the {{Kailos}} market. Supposedly.
+[u1672 | 02:31:05.650-02:31:15.329 | DM] That shattered the material plane through the center of the Kylos market. Supposedly.
 [u1673 | 02:31:15.330-02:31:17.630 | Wellby] No, yeah. That is the scroll. Nope, sorry.
 [u1674 | 02:31:17.630-02:31:21.580 | DM] By you, Kenzo, and you Delwath
 [u1675 | 02:31:22.200-02:31:27.079 | DM] that took the wizards of the University weeks to decontaminate.
@@ -1765,7 +1765,7 @@
 [u1765 | 02:37:55.550-02:37:57.090 | Wellby] The question is just how.
 [u1766 | 02:38:00.180-02:38:05.650 | DM] What happened to the Crown was the crown.
 [u1767 | 02:38:06.640-02:38:13.990 | DM] All we know is that somehow it gave Fausto tremendous power.
-[u1768 | 02:38:15.230-02:38:28.860 | DM] and had allowed him to take over the {{heteri magica}}, the magical guards of the University, and replace
+[u1768 | 02:38:15.230-02:38:28.860 | DM] and had allowed him to take over the Hetaeri Magica, the magical guards of the University, and replace
 [u1769 | 02:38:29.230-02:38:36.120 | DM] many members of the scholarly societies there with his allies, a great many of whom have fled the city.
 [u1770 | 02:38:37.130-02:38:39.779 | DM] a handful of others who have been executed.
 [u1771 | 02:38:43.450-02:38:48.490 | Wellby] I think Wellby will speak up to to say he!
@@ -1836,7 +1836,7 @@
 [u1836 | 02:43:09.430-02:43:11.050 | Delwath] Also he's just a bird flying around.
 [u1837 | 02:43:11.050-02:43:12.869 | DM] Still a bird. He's just watching.
 [u1838 | 02:43:13.090-02:43:14.660 | Kenzo] He's not even inside the cage. Yeah.
-[u1839 | 02:43:14.660-02:43:18.399 | Wellby] Very possibly {{Vendra Sharna}} is beneath us right now.
+[u1839 | 02:43:14.660-02:43:18.399 | Wellby] Very possibly Vindristjarna is beneath us right now.
 [u1840 | 02:43:18.400-02:43:19.780 | Delwath] It's also possible.
 [u1841 | 02:43:19.780-02:43:20.200 | Delwath] True.
 [u1842 | 02:43:21.900-02:43:22.590 | Delwath] This.
@@ -1961,10 +1961,10 @@
 [u1961 | 02:52:42.765-02:52:43.700 | Kenzo] Kenzo.
 [u1962 | 02:52:44.000-02:52:50.900 | Kenzo] The question is, are, do you want to overthrow the Magistros? And the answer is, I don't know. It is not. Yes.
 [u1963 | 02:52:53.070-02:52:56.560 | DM] He looks long at Kenzo. Were you
-[u1964 | 02:52:57.480-02:53:00.990 | DM] in the city the morning the {{Kaila’s}} market was attacked.
+[u1964 | 02:52:57.480-02:53:00.990 | DM] in the city the morning the Kylos market was attacked.
 [u1965 | 02:53:01.260-02:53:01.870 | Kenzo] No.
 [u1966 | 02:53:03.140-02:53:04.240 | Wellby] You know right.
-[u1967 | 02:53:04.680-02:53:06.400 | DM] So you were. You were in {{earth}}.
+[u1967 | 02:53:04.680-02:53:06.400 | DM] So you were. You were in Ursk.
 [u1968 | 02:53:06.400-02:53:08.760 | Kenzo] Like thousands of miles away. Yeah.
 [u1969 | 02:53:15.350-02:53:20.690 | DM] He looks, and you know
 [u1970 | 02:53:21.650-02:53:26.410 | DM] how that attack was carried out. Were you involved in any way in the attack? Did you.
@@ -1998,7 +1998,7 @@
 [u1998 | 02:54:56.070-02:54:58.170 | DM] He's a 13th Level wizard like.
 [u1999 | 02:55:00.440-02:55:04.340 | DM] so he's sort of alternating. He's questioning each person in turn.
 [u2000 | 02:55:10.100-02:55:16.340 | Delwath] I am super, I will be very careful about {{what he it it about}}.
-[u2001 | 02:55:16.340-02:55:19.939 | Kenzo] We should like just tell. We should not let him know anything about {{Brisbane}}.
+[u2001 | 02:55:16.340-02:55:19.939 | Kenzo] We should like just tell. We should not let him know anything about Riswynn.
 [u2002 | 02:55:20.380-02:55:24.669 | Delwath] Correct, and I'll actually tell him I will tell him when he starts this.
 [u2003 | 02:55:24.670-02:55:25.070 | Wellby] Yes.
 [u2004 | 02:55:25.070-02:55:26.460 | Delwath] It is important.
@@ -2160,10 +2160,10 @@
 [u2160 | 03:08:43.490-03:08:45.110 | Kenzo] Kenzo doesn't do the air quotes.
 [u2161 | 03:08:45.110-03:08:46.599 | DM] I know
 [u2162 | 03:08:50.640-03:08:52.035 | DM] there.
-[u2163 | 03:08:54.930-03:09:03.349 | DM] There is the {{hetero magica}}, the they were.
+[u2163 | 03:08:54.930-03:09:03.349 | DM] There is the Hetaeri Magica, the they were.
 [u2164 | 03:09:05.660-03:09:10.170 | DM] Well, don't think any of this is secret knowledge, so
 [u2165 | 03:09:10.600-03:09:19.239 | DM] believe it is okay for me to tell you this, but the current Magistros’s—the previous Magistros was my master's aunt.
-[u2166 | 03:09:20.280-03:09:25.790 | DM] and she reformed the {{heteria magica}}, the magical.
+[u2166 | 03:09:20.280-03:09:25.790 | DM] and she reformed the Hetaeri Magica, the magical.
 [u2167 | 03:09:26.980-03:09:35.079 | DM] You've seen the city watch, of course, but there is also necessarily in a city like this, with so much magic, a magical watch.
 [u2168 | 03:09:38.570-03:09:50.230 | DM] She reformed them, and put many of them connected many of them with the
 [u2169 | 03:09:50.350-03:09:59.350 | DM] masters of the chelite refineries, and built a chelite
@@ -2291,7 +2291,7 @@
 [u2291 | 03:20:04.700-03:20:11.499 | DM] Whereas in Chardon, you know, those people have less power because they're socially.
 [u2292 | 03:20:11.940-03:20:15.040 | DM] I mean, putting aside the conflict like
 [u2293 | 03:20:15.230-03:20:21.119 | DM] historically, like the Magistros’s family was one of the major Chelite owners until
-[u2294 | 03:20:21.510-03:20:31.819 | DM] this guy was like a navy guy and was in with the windcallers. And his aunt basically screwed up and let Fausto take control of the {{heteria magica}}
+[u2294 | 03:20:21.510-03:20:31.819 | DM] this guy was like a navy guy and was in with the windcallers. And his aunt basically screwed up and let Fausto take control of the Hetaeri Magica
 [u2295 | 03:20:32.160-03:20:34.960 | DM] and infiltrate his way into the chelite world.
 [u2296 | 03:20:37.120-03:20:39.110 | Kenzo] By the way, what time are we ending today?
 [u2297 | 03:20:39.580-03:20:42.509 | DM] I think we should end fairly soon. But yeah.
@@ -2306,7 +2306,7 @@
 [u2306 | 03:21:14.440-03:21:25.279 | Kenzo] Yeah, I mean, just, you know. So so we know. So, oh, so what's his relationship with those families like the windcallers? Are they like resentful, collaborative, like, what's their relationship with the.
 [u2307 | 03:21:25.280-03:21:31.679 | DM] Mean, he's like a he's like, personally. Well.
 [u2308 | 03:21:32.770-03:21:41.990 | DM] the the Magistros has only been in this position for a few years and basically replaced a lot of
-[u2309 | 03:21:43.140-03:22:04.360 | DM] the like, his personal mage guard and things that was controlled by the {{hetera magica}}, which had been infiltrated by Fausto with windcallers. So the windcallers have seen a dramatic rise in prominence in the last 2 years, and basically are all like a hundred percent loyal to the Magistros.
+[u2309 | 03:21:43.140-03:22:04.360 | DM] the like, his personal mage guard and things that was controlled by the Hetaeri Magica, which had been infiltrated by Fausto with windcallers. So the windcallers have seen a dramatic rise in prominence in the last 2 years, and basically are all like a hundred percent loyal to the Magistros.
 [u2310 | 03:22:04.880-03:22:05.830 | Kenzo] That's okay.
 [u2311 | 03:22:06.770-03:22:13.260 | Kenzo] They I mean, they were a bit of a backwater like. Historically, the windcallers were like ferry pilots.
 [u2312 | 03:22:13.540-03:22:21.400 | DM] Shipping, you know, driving ships through the canal, and nobody took them seriously.
@@ -2333,7 +2333,7 @@
 [u2333 | 03:24:09.670-03:24:16.719 | DM] because he insisted on marching with the art with the legions towards Dunmar.
 [u2334 | 03:24:17.220-03:24:23.039 | DM] Now that we think back about it, it was actually Fausto who was the leading voice for war with Dunmar.
 [u2335 | 03:24:24.690-03:24:26.480 | Delwath] Yes, it was part of his plan.
-[u2336 | 03:24:27.100-03:24:31.179 | DM] And the {{heteri magica}} immediately leaped to support him.
+[u2336 | 03:24:27.100-03:24:31.179 | DM] And the Hetaeri Magica immediately leaped to support him.
 [u2337 | 03:24:32.720-03:24:38.630 | DM] And who is going to go against that? Nobody really knew anything, nobody really, thought they?
 [u2338 | 03:24:40.610-03:24:50.840 | DM] There is this old, old woman, Rosalia's name, I think, who's on the faculty of magic, who spoke up and was like, this is crazy. What are we doing? But
 [u2339 | 03:24:51.030-03:24:58.550 | DM] nobody cares what old women wizards think, and
@@ -2378,7 +2378,7 @@
 [u2378 | 03:28:28.060-03:28:30.850 | Delwath] Cleansed, the Cleansed {{does not move}}.
 [u2379 | 03:28:33.070-03:28:39.699 | Delwath] The Cleansed, Fausto’s organization, comes from Drankor, {{revolt}}.
 [u2380 | 03:28:40.650-03:28:41.420 | DM] No.
-[u2381 | 03:28:43.170-03:28:44.610 | Delwath] {{Omnis urov}}.
+[u2381 | 03:28:43.170-03:28:44.610 | Delwath] Omnis Pura.
 [u2382 | 03:28:47.740-03:28:48.900 | Kenzo] Read our thoughts.
 [u2383 | 03:28:49.360-03:28:51.070 | DM] I am not a scholar.
 [u2384 | 03:28:52.600-03:28:54.969 | DM] That name is not familiar to me.
@@ -2444,7 +2444,7 @@
 [u2444 | 03:33:31.560-03:33:37.339 | DM] Yeah, I mean, there's a bunch of people you could talk to like Rosalia, you know, right? And.
 [u2445 | 03:33:37.940-03:33:38.970 | Delwath] But but.
 [u2446 | 03:33:39.130-03:33:43.440 | DM] That's all the case. I mean, those are all in hiding because because of
-[u2447 | 03:33:43.610-03:33:53.629 | DM] Fausto, right? Because the {{heteri magica}} that Fausto controlled via the Crown was like going to hunt everybody who had supported you. Because.
+[u2447 | 03:33:43.610-03:33:53.629 | DM] Fausto, right? Because the Hetaeri Magica that Fausto controlled via the Crown was like going to hunt everybody who had supported you. Because.
 [u2448 | 03:33:53.967-03:33:59.890 | DM] so yeah, you can do that, too. Okay, this gives me a sense. What you want to do. It's already basically what I prepped, anyway. So.
 [u2449 | 03:33:59.890-03:34:00.550 | Delwath] Okay.
 [u2450 | 03:34:00.550-03:34:02.640 | DM] We'll play next time we'll see how far we get

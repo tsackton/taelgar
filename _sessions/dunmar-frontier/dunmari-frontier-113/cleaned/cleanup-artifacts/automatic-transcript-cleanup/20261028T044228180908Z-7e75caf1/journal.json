@@ -1,0 +1,312 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-113",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-113/cleaned/dunmari-frontier-113-source-cleaned.md",
+  "beforeSha256": "df97a43e33b5cc5d34821f446c03b2f774d77b69ad2cacbad726406f314608b9",
+  "afterSha256": "389da47b1e5afe433ea1d6baeac784a321bb36597e50e888ce33e3880b47ba6b",
+  "markersBefore": 19,
+  "groups": [
+    {
+      "id": "clipped-apollyon-reference",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The context concerns Rai lacking the construction notes, but the marked fragment cannot uniquely establish a complete name or possessive replacement without reconstructing missing wording.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 113 (DuFr).md",
+          "sha256": "8a5a768be3e8f235c973e8dbc17927def0722631714539bfe909de636cafbd3a"
+        }
+      ],
+      "candidates": [
+        "Apollyon's notes"
+      ],
+      "markerIds": [
+        "u0467:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0467:m1": "{{a pie}}"
+      }
+    },
+    {
+      "id": "elven-divine-realm",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The reply refers directly to the teleport destination named in the preceding utterance; the session record confirms the Elven divine realm. Device has no contextual referent.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 113 (DuFr).md",
+          "sha256": "8a5a768be3e8f235c973e8dbc17927def0722631714539bfe909de636cafbd3a"
+        },
+        {
+          "path": "Cosmology/Spiritual Realms/Divine Realms.md",
+          "sha256": "b91d7719820ae3f0e01dd76a1f4f9576dd3e3e31693e392b5450b9943c49291f"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1580:m1"
+      ],
+      "replacements": {
+        "u1580:m1": "Elven divine realm"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "foreign-human-name",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The foreign human is later called Khemut in this transcript and in the reference note, but the marked words have no convincing phonetic connection and may be interrupted commentary rather than the spoken name. Retain rather than substitute a factually matching identity.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Khemut of Targu.md",
+          "sha256": "cdd1dc235c23603f8229b6fe47ef99efabdec2a601942a10cc147d0f87b7e1b0"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 113 (DuFr).md",
+          "sha256": "8a5a768be3e8f235c973e8dbc17927def0722631714539bfe909de636cafbd3a"
+        }
+      ],
+      "candidates": [
+        "Khemut"
+      ],
+      "markerIds": [
+        "u1928:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1928:m1": "{{not very it's}}"
+      }
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary conversational fragments, rules and spell discussion, burial wording, a saving-throw response, and authentication wording are outside this name and setting-term pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0310:m1",
+        "u0367:m1",
+        "u0477:m1",
+        "u0507:m1",
+        "u0507:m2",
+        "u0664:m1",
+        "u0690:m1",
+        "u0891:m1",
+        "u1208:m1",
+        "u1697:m1",
+        "u2304:m1",
+        "u2513:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0310:m1": "{{those hard}}",
+        "u0367:m1": "{{your mind}}",
+        "u0477:m1": "{{Can't not finding it}}",
+        "u0507:m1": "{{nice to keep the keep}}",
+        "u0507:m2": "{{is prison}}",
+        "u0664:m1": "{{locker room}}",
+        "u0690:m1": "{{not a work particular}}",
+        "u0891:m1": "{{fine}}",
+        "u1208:m1": "{{The thing}}",
+        "u1697:m1": "{{a national}}",
+        "u2304:m1": "{{Dean}}",
+        "u2513:m1": "{{No no appropriate authentications}}"
+      }
+    },
+    {
+      "id": "radiant-path-alternate",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The speaker explicitly gives an alternate name for the Radiant Path; the consulted naming table supplies a matching form. Its development status is not used to alter the spoken group identity.",
+      "evidence": [
+        {
+          "path": "Groups/Drankorian Societies/Radiant Path.md",
+          "sha256": "f409846f186b6df2839b243ea94e7838ffa5bbe4fb9ca5e4fc375e970cd20d37"
+        },
+        {
+          "path": "_dm_notes/_Dunmar Frontier/Session 103-110 - The Last Jade/Circular Island/04 Tables and Clues/Table - Drankorian Societies - Last Jade.md",
+          "sha256": "3a163aa423cc1e108ce2ecef4eef4751c43cbe8b495c44ffac79602960104c6c"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1787:m1"
+      ],
+      "replacements": {
+        "u1787:m1": "Ordo Lucis"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "rai-in-damaged-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Rai is the contextual subject, but the marked span includes an unrecoverable question; replacing it would require reconstructing ordinary wording.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 113 (DuFr).md",
+          "sha256": "8a5a768be3e8f235c973e8dbc17927def0722631714539bfe909de636cafbd3a"
+        }
+      ],
+      "candidates": [
+        "Rai"
+      ],
+      "markerIds": [
+        "u0503:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0503:m1": "{{Ryan? Why not well could drive?}}"
+      }
+    },
+    {
+      "id": "valanthe",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Both occurrences identify the elven writer whose courtyard and silver quill the party investigates; the reference note establishes Valanthe.",
+      "evidence": [
+        {
+          "path": "People/Historical Figures/Valanthe.md",
+          "sha256": "a1b87a20ecd372d06de81d2f5390cb6c4f5d832631f7d93534a18fc70c631427"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 113 (DuFr).md",
+          "sha256": "8a5a768be3e8f235c973e8dbc17927def0722631714539bfe909de636cafbd3a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2166:m1",
+        "u2443:m1"
+      ],
+      "replacements": {
+        "u2166:m1": "Valanthe",
+        "u2443:m1": "Valanthe"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u1580:m1",
+      "uid": "u1580",
+      "ordinal": 1,
+      "lineNumber": 1580,
+      "start": 70,
+      "end": 86,
+      "before": "{{Elven Device}}",
+      "span": "Elven Device",
+      "line": "[u1580 | 02:07:16.610-02:07:17.989 | Delwath] But I want to go to the {{Elven Device}}.",
+      "contextBefore": [
+        "[u1578 | 02:07:13.490-02:07:15.590 | DM] you don't have to worry about that.",
+        "[u1579 | 02:07:16.170-02:07:16.610 | Seeker] Oh!"
+      ],
+      "contextAfter": [
+        "[u1581 | 02:07:19.020-02:07:22.730 | Seeker] They had to say it's name aloud in.",
+        "[u1582 | 02:07:22.730-02:07:31.180 | DM] You had said its name aloud, you wouldn't have had to dispel all the magic."
+      ],
+      "after": "Elven divine realm",
+      "group": "elven-divine-realm",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1787:m1",
+      "uid": "u1787",
+      "ordinal": 1,
+      "lineNumber": 1787,
+      "start": 108,
+      "end": 123,
+      "before": "{{auto, Lucas}}",
+      "span": "auto, Lucas",
+      "line": "[u1787 | 02:30:44.630-02:30:55.040 | DM] yeah, and and we're we're sort of known as the Radiant Path, or or {{auto, Lucas}}.",
+      "contextBefore": [
+        "[u1785 | 02:30:21.990-02:30:30.650 | DM] the dead were were part of what seemed to be an order of not just divine magic users, but other",
+        "[u1786 | 02:30:30.760-02:30:41.280 | DM] one of these these secret societies of Drankor that was devoted to the father, I think."
+      ],
+      "contextAfter": [
+        "[u1788 | 02:30:55.710-02:30:58.319 | Delwath] Wait. Didn't we hear that name before.",
+        "[u1789 | 02:30:58.320-02:31:04.339 | DM] No, you heard the Pyro something."
+      ],
+      "after": "Ordo Lucis",
+      "group": "radiant-path-alternate",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2166:m1",
+      "uid": "u2166",
+      "ordinal": 1,
+      "lineNumber": 2166,
+      "start": 88,
+      "end": 100,
+      "before": "{{volanthi}}",
+      "span": "volanthi",
+      "line": "[u2166 | 03:08:00.730-03:08:10.030 | DM] echo. Strongest impression of this of this elf {{volanthi}}",
+      "contextBefore": [
+        "[u2164 | 03:07:41.070-03:07:48.539 | DM] what it seems to be, I mean, is this sort of very twisting sort of elegant curvy, almost wavy architecture.",
+        "[u2165 | 03:07:50.270-03:08:00.699 | DM] And Kenzo, you you sense. You can feel now if you concentrate the the strongest sort of"
+      ],
+      "contextAfter": [
+        "[u2167 | 03:08:10.820-03:08:14.019 | DM] is in the courtyard of this building just ahead of you.",
+        "[u2168 | 03:08:19.880-03:08:23.959 | DM] So you step forward into the courtyard."
+      ],
+      "after": "Valanthe",
+      "group": "valanthe",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2443:m1",
+      "uid": "u2443",
+      "ordinal": 1,
+      "lineNumber": 2443,
+      "start": 41,
+      "end": 55,
+      "before": "{{violanthea}}",
+      "span": "violanthea",
+      "line": "[u2443 | 03:30:45.130-03:30:48.079 | DM] {{violanthea}}. This elven woman, was a writer.",
+      "contextBefore": [
+        "[u2441 | 03:30:28.392-03:30:33.769 | DM] It is the not like a",
+        "[u2442 | 03:30:34.360-03:30:44.699 | DM] part of a quill, like the ink part of a silver quill, I mean Kenzo. When you touch this you can. You can sense immediately that"
+      ],
+      "contextAfter": [
+        "[u2444 | 03:30:50.650-03:30:54.230 | DM] and this is what's left of her writing.",
+        "[u2445 | 03:30:56.250-03:31:00.159 | Delwath] Well that seems like success right?"
+      ],
+      "after": "Valanthe",
+      "group": "valanthe",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u1787": {
+      "before": "[u1787 | 02:30:44.630-02:30:55.040 | DM] yeah, and and we're we're sort of known as the Radiant Path, or or {{auto, Lucas}}.\n",
+      "after": "[u1787 | 02:30:44.630-02:30:55.040 | DM] yeah, and and we're we're sort of known as the Radiant Path, or or Ordo Lucis.\n"
+    },
+    "u1580": {
+      "before": "[u1580 | 02:07:16.610-02:07:17.989 | Delwath] But I want to go to the {{Elven Device}}.\n",
+      "after": "[u1580 | 02:07:16.610-02:07:17.989 | Delwath] But I want to go to the Elven divine realm.\n"
+    },
+    "u2166": {
+      "before": "[u2166 | 03:08:00.730-03:08:10.030 | DM] echo. Strongest impression of this of this elf {{volanthi}}\n",
+      "after": "[u2166 | 03:08:00.730-03:08:10.030 | DM] echo. Strongest impression of this of this elf Valanthe\n"
+    },
+    "u2443": {
+      "before": "[u2443 | 03:30:45.130-03:30:48.079 | DM] {{violanthea}}. This elven woman, was a writer.\n",
+      "after": "[u2443 | 03:30:45.130-03:30:48.079 | DM] Valanthe. This elven woman, was a writer.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:42:28.233457+00:00",
+      "sha256": "389da47b1e5afe433ea1d6baeac784a321bb36597e50e888ce33e3880b47ba6b"
+    }
+  ],
+  "runId": "20261028T044228180908Z-7e75caf1",
+  "createdAt": "2026-10-28T04:42:28.181223+00:00"
+}

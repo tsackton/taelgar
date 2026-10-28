@@ -1,0 +1,15 @@
+--- before/u0014
++++ after/u0014
+@@ -1 +1 @@
+-[u0014 | 00:01:01.760-00:01:06.490 | DM] about the crystallized magic gifted to you by {{a Lauren}},
++[u0014 | 00:01:01.760-00:01:06.490 | DM] about the crystallized magic gifted to you by Illaran,
+--- before/u0175
++++ after/u0175
+@@ -1 +1 @@
+-[u0175 | 00:14:08.870-00:14:10.570 | Caulaus] third {{Celest}} legion
++[u0175 | 00:14:08.870-00:14:10.570 | Caulaus] third Sylvan legion
+--- before/u1466
++++ after/u1466
+@@ -1 +1 @@
+-[u1466 | 01:55:52.820-01:55:55.319 | DM] you can {{motivate}} lets you re-roll
++[u1466 | 01:55:52.820-01:55:55.319 | DM] you can mote of fate lets you re-roll

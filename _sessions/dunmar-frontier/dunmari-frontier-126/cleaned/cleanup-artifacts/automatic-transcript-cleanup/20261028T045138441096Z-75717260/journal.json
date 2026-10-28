@@ -1,0 +1,392 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-126",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-126/cleaned/dunmari-frontier-126-source-cleaned.md",
+  "beforeSha256": "a9485ed44fa1b8e82543dcd1771b6dd80b7bb466be551066ce4fa47ea0abb298",
+  "afterSha256": "de1ab5ef99e654b7c5fb0495b33bcc1c7a5a0a1bd0ca88a263aeb7dc1381905d",
+  "markersBefore": 39,
+  "groups": [
+    {
+      "id": "allison-park",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The surrounding discussion concerns Valius and Vargus in Tokra, but the complete marked span and the unmarked words do not support a unique person or place replacement. Retain rather than reconstruct the sentence.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 124 (DuFr).md",
+          "sha256": "4f15e9591355a736753b13a5a088e75a9ba8704d50b36acbffd20592effb69cf"
+        }
+      ],
+      "candidates": [
+        "Valius and Vargus"
+      ],
+      "markerIds": [
+        "u1116:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1116:m1": "{{Allison Park}}"
+      }
+    },
+    {
+      "id": "auratan-self-correction",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The DM immediately corrects the spoken family name to Auratan and explicitly rejects the earlier form. Replacing the rejected form with Auratan would erase the self-correction; the exact earlier pronunciation or mistaken name is unresolved.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Mitus Verina Auratan.md",
+          "sha256": "c003fb0c83ab4619ec750fa2e120481344bcfe03aee3017769df8a2d100c67fb"
+        }
+      ],
+      "candidates": [
+        "Auratan"
+      ],
+      "markerIds": [
+        "u0030:m1",
+        "u0031:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0030:m1": "{{are a Torian}}",
+        "u0031:m1": "{{a Torian}}"
+      }
+    },
+    {
+      "id": "bargallde-misremembering",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The player explicitly says this is the name they keep wanting to say and asks for the correct name, supplied next as Veldari. Preserve the spoken misremembering; the source confirms the intended family but not the rejected name.",
+      "evidence": [
+        {
+          "path": "Groups/Chardonian Organizations/Veldari Family.md",
+          "sha256": "488dde3d5ba5ffe53af5cb6d271424f897719ddd26b103bb2af446a0fb03b20c"
+        }
+      ],
+      "candidates": [
+        "Veldari"
+      ],
+      "markerIds": [
+        "u1309:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1309:m1": "{{Bargallde}}"
+      }
+    },
+    {
+      "id": "circular-island",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The immediately following discussion concerns flying across the ocean and withholding the location of Apollyon's tower. This strongly favors Circular Island over a circlet or scepter; the island reference establishes the complete place name.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Drankorian Hinterland/Circular Island.md",
+          "sha256": "f616ace6769fded2f62850cb337ff0995564726a50cf1756731dd7852f10e45a"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1691:m2"
+      ],
+      "replacements": {
+        "u1691:m2": "Circular Island"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "how-may",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "This fragment follows an unfinished list of ancient history to mention. Cha'mutte is contextually possible, but ordinary hesitation is also plausible and the marked sounds do not establish a unique name.",
+      "evidence": [
+        {
+          "path": "People/Extraplanar Powers/Cha'mutte.md",
+          "sha256": "1b8dca16f7ede3715d32bf7fe0e44adc3dbc4c016fade83c34f92f41433291eb"
+        },
+        {
+          "path": "Gazetteer/Drankorian Hinterland/Circular Island.md",
+          "sha256": "f616ace6769fded2f62850cb337ff0995564726a50cf1756731dd7852f10e45a"
+        }
+      ],
+      "candidates": [
+        "Cha'mutte"
+      ],
+      "markerIds": [
+        "u1691:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1691:m1": "{{how may}}"
+      }
+    },
+    {
+      "id": "incidental-chatter",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Incidental real-world chatter about a cat and a mouse; no setting identity is being resolved in this pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u1495:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1495:m1": "{{data}}"
+      }
+    },
+    {
+      "id": "nebos-self-correction",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The DM immediately restates the location as Nera Domains. Nebo's may represent a spoken false start or a mistaken Nevos reference; substituting the correct destination would erase that distinction.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Chardon/Chardonian Empire/Chardon/Nera Domains.md",
+          "sha256": "98cedbbcc161f1540d8455245541333593aae2430922cfb52dffc9537c51e625"
+        },
+        {
+          "path": "Gazetteer/Nevos and Apporia/Nevos Sea.md",
+          "sha256": "6016416a4435f84b87d14caf1ef30882d690c6d9a0e063c0acb3b552bd0ec025"
+        }
+      ],
+      "candidates": [
+        "Nera",
+        "Nevos"
+      ],
+      "markerIds": [
+        "u1286:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1286:m1": "{{Nebo's}}"
+      }
+    },
+    {
+      "id": "never-geography",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The grain-growing river corridor suggests the Nahadi, while Nera and Nevos are also nearby sounding geographic names. The marked form and sentence do not uniquely select one; preserve the uncertainty.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Nahadi.md",
+          "sha256": "b525ae9034dd2f93ebaf0eefbef19f55a6e40e4cc0cff362bf637c0b33bea28c"
+        },
+        {
+          "path": "Gazetteer/Major Rivers/Chasa-Nahadi Watershed/Chasa.md",
+          "sha256": "93e01ea3c9eba95a99e5a9592afaab659f63e2a7a04e5c1d0a90cd800e177f74"
+        }
+      ],
+      "candidates": [
+        "Nahadi",
+        "Nera",
+        "Nevos"
+      ],
+      "markerIds": [
+        "u1221:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1221:m1": "{{Never}}"
+      }
+    },
+    {
+      "id": "ordinary-wording-and-mechanics",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary dialogue, incomplete phrases, numbers, rolls, rules explanations, and action wording outside this name and setting-term pass. Preserve the full marked spans without reconstructing surrounding language.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0184:m1",
+        "u0221:m1",
+        "u0223:m1",
+        "u0252:m1",
+        "u0254:m1",
+        "u0275:m1",
+        "u0307:m1",
+        "u0595:m1",
+        "u0655:m1",
+        "u0814:m1",
+        "u0941:m1",
+        "u0953:m1",
+        "u0970:m1",
+        "u0971:m1",
+        "u1037:m1",
+        "u1229:m1",
+        "u1443:m1",
+        "u1482:m1",
+        "u1642:m1",
+        "u1683:m1",
+        "u1706:m1",
+        "u1908:m1",
+        "u1921:m1",
+        "u2087:m1",
+        "u2095:m1",
+        "u2157:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0184:m1": "{{sub city}}",
+        "u0221:m1": "{{Is that the 4 really}}",
+        "u0223:m1": "{{Thanks purchasing project}}",
+        "u0252:m1": "{{independence}}",
+        "u0254:m1": "{{personal loyalty}}",
+        "u0275:m1": "{{a bit pop}}",
+        "u0307:m1": "{{into rockets}}",
+        "u0595:m1": "{{it's my}}",
+        "u0655:m1": "{{Every call, today}}",
+        "u0814:m1": "{{that's what you pay. That's a fail}}",
+        "u0941:m1": "{{Trick heads on heel conditions}}",
+        "u0953:m1": "{{That's a good not. True. Why}}",
+        "u0970:m1": "{{6, 30}}",
+        "u0971:m1": "{{5 plus the licenses}}",
+        "u1037:m1": "{{But what is intrusive? Mentality}}",
+        "u1229:m1": "{{how he thinks the situation}}",
+        "u1443:m1": "{{Be my staff}}",
+        "u1482:m1": "{{That is a new, so sad of me}}",
+        "u1642:m1": "{{heal those recovery}}",
+        "u1683:m1": "{{forever, we}}",
+        "u1706:m1": "{{an admin}}",
+        "u1908:m1": "{{Do you say it's not}}",
+        "u1921:m1": "{{Well, 20}}",
+        "u2087:m1": "{{fresh}}",
+        "u2095:m1": "{{Still think it would be crazy to}}",
+        "u2157:m1": "{{perfect}}"
+      }
+    },
+    {
+      "id": "orion-family",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Both Caloren and Auratan have just been discussed, and the DM answers by naming both. The player is uncertain about names here, so the span could be a spoken mistake rather than an ASR variant with a unique correction.",
+      "evidence": [
+        {
+          "path": "Groups/Chardonian Organizations/Caloren Family.md",
+          "sha256": "bf372ac707dc725d75d2a7151e0e7e4942b825483fd3c0c6dbd2d76ca4439648"
+        },
+        {
+          "path": "Groups/Chardonian Organizations/Auratan Family.md",
+          "sha256": "99ca472c4641eb04c461d98caa1f7b2a1dd00df32c43e5032d3a1da4a0a892e2"
+        }
+      ],
+      "candidates": [
+        "Caloren",
+        "Auratan"
+      ],
+      "markerIds": [
+        "u1354:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1354:m1": "{{Orion}}"
+      }
+    },
+    {
+      "id": "spelled-letters",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Individual letters in a slowly spelled word are source-reading reconstruction, outside the name-only pass; the later complete spelling does not authorize rewriting these fragments.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u1140:m1",
+        "u1141:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1140:m1": "{{E}}",
+        "u1141:m1": "{{Ow}}"
+      }
+    },
+    {
+      "id": "sura",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The conversation names a ruler the party has met; Sura is the established Dunmari ruler and recent campaign contact. The reference establishes the spelling.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Sura.md",
+          "sha256": "0329d498f25e14c4307cd9c7b37966241b772bb7a96d0354a9b5fd4e86ac1b31"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1278:m1"
+      ],
+      "replacements": {
+        "u1278:m1": "Sura"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u1278:m1",
+      "uid": "u1278",
+      "ordinal": 1,
+      "lineNumber": 1278,
+      "start": 61,
+      "end": 70,
+      "before": "{{Sarah}}",
+      "span": "Sarah",
+      "line": "[u1278 | 01:58:15.700-01:58:19.330 | DM] Well, I don't know. {{Sarah}}, I guess, had some issues.",
+      "contextBefore": [
+        "[u1276 | 01:58:01.290-01:58:06.380 | Wellby] Wellby is like starting to appreciate this guy despite himself.",
+        "[u1277 | 01:58:09.760-01:58:13.809 | Wellby] Have we ever met rulers without like serious issues? No."
+      ],
+      "contextAfter": [
+        "[u1279 | 01:58:22.320-01:58:22.850 | Wellby] Yeah.",
+        "[u1280 | 01:58:23.262-01:58:25.740 | DM] You haven't met that many rulers."
+      ],
+      "after": "Sura",
+      "group": "sura",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1691:m2",
+      "uid": "u1691",
+      "ordinal": 2,
+      "lineNumber": 1691,
+      "start": 83,
+      "end": 95,
+      "before": "{{circular}}",
+      "span": "circular",
+      "line": "[u1691 | 02:37:26.360-02:37:31.059 | Delwath] {{how may}} I'll tell them about the {{circular}}, actually, why not? We'll tell them everything we know. I'll tell them what we know about.",
+      "contextBefore": [
+        "[u1689 | 02:37:16.430-02:37:22.159 | Wellby] I think it'd be a really good thing to give him some like ancient art.",
+        "[u1690 | 02:37:22.860-02:37:26.020 | Delwath] Yeah, like, like, you know, I'll mention"
+      ],
+      "contextAfter": [
+        "[u1692 | 02:37:31.060-02:37:32.019 | Kenzo] What? What the fuck.",
+        "[u1693 | 02:37:32.020-02:37:33.329 | Wellby] No, no, no, no!"
+      ],
+      "after": "Circular Island",
+      "group": "circular-island",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u1691": {
+      "before": "[u1691 | 02:37:26.360-02:37:31.059 | Delwath] {{how may}} I'll tell them about the {{circular}}, actually, why not? We'll tell them everything we know. I'll tell them what we know about.\n",
+      "after": "[u1691 | 02:37:26.360-02:37:31.059 | Delwath] {{how may}} I'll tell them about the Circular Island, actually, why not? We'll tell them everything we know. I'll tell them what we know about.\n"
+    },
+    "u1278": {
+      "before": "[u1278 | 01:58:15.700-01:58:19.330 | DM] Well, I don't know. {{Sarah}}, I guess, had some issues.\n",
+      "after": "[u1278 | 01:58:15.700-01:58:19.330 | DM] Well, I don't know. Sura, I guess, had some issues.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:51:38.454339+00:00",
+      "sha256": "de1ab5ef99e654b7c5fb0495b33bcc1c7a5a0a1bd0ca88a263aeb7dc1381905d"
+    }
+  ],
+  "runId": "20261028T045138441096Z-75717260",
+  "createdAt": "2026-10-28T04:51:38.441407+00:00"
+}

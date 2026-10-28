@@ -1109,7 +1109,7 @@
 [u1109 | 01:29:43.350-01:29:44.969 | DM] twenty-two,
 [u1110 | 01:29:48.240-01:29:51.670 | DM] so that's another thirteen and
 [u1111 | 01:29:51.980-01:29:54.070 | DM] eight points to Wellby.
-[u1112 | 01:29:56.220-01:30:15.540 | Shoal] I'll use my sentinel attack uh, because a creature within five feet of me was it? I believe we're as Wellby, is he under the bird. Wellby is ten feet away from you. Oh, no! Underneath {{our um}}. Hold on! Is it a creature five feet attacks, or is it a creature. If I see it, let me double. I don't know It's your ability.
+[u1112 | 01:29:56.220-01:30:15.540 | Shoal] I'll use my sentinel attack uh, because a creature within five feet of me was it? I believe we're as Wellby, is he under the bird. Wellby is ten feet away from you. Oh, no! Underneath Artem. Hold on! Is it a creature five feet attacks, or is it a creature. If I see it, let me double. I don't know It's your ability.
 [u1113 | 01:30:15.550-01:30:28.780 | Shoal] Yeah, I just scrolled up to the attack roll. Now I've I've lost place of it. Uh, I don't know. But it yeah, it makes an attack against the target. So you can use your reaction to attack Yup.
 [u1114 | 01:30:28.880-01:30:30.340 | Unknown] Sweet
 [u1115 | 01:30:33.910-01:30:40.020 | Shoal] that’s. Okay, So it takes uh eight, eight. Okay,
@@ -2905,7 +2905,7 @@
 [u2905 | 04:02:55.970-04:02:58.559 | DM] giant sort of um
 [u2906 | 04:02:59.410-04:03:00.590 | DM] uh
 [u2907 | 04:03:01.670-04:03:17.329 | DM] a yellow crystal that juts up from the center of the cavern, and like this shadowy figure with an enormous eye, seems like it's trapped in it. Now that you're in the room, you can see like it's moving slightly like the eye is looking around.
-[u2908 | 04:03:17.810-04:03:27.100 | DM] Um! The floor is covered with like scattered piles of coins. A few other treasures, the fiery heart of {{a remarks}} Um!
+[u2908 | 04:03:17.810-04:03:27.100 | DM] Um! The floor is covered with like scattered piles of coins. A few other treasures, the fiery heart of a remorhaz Um!
 [u2909 | 04:03:29.570-04:03:34.889 | DM] The tentacle creature aboleth is swimming around.
 [u2910 | 04:03:35.350-04:03:42.850 | DM] There are three sea elves that are sort of swimming and guarding around it. Um! That also appear to be charmed.
 [u2911 | 04:03:43.100-04:03:47.239 | DM] The walls of the cave are
@@ -3287,7 +3287,7 @@
 [u3287 | 04:34:14.520-04:34:24.429 | DM] That's twenty. One damage to you as the elves swim up in our like, just stabbing spears all around you. Yeah. And now
 [u3288 | 04:34:24.540-04:34:27.749 | DM] you see in the wall behind you.
 [u3289 | 04:34:28.040-04:34:29.120 | DM] Um
-[u3290 | 04:34:31.020-04:34:33.280 | DM] the city of {{Metium}}.
+[u3290 | 04:34:31.020-04:34:33.280 | DM] the city of Medju.
 [u3291 | 04:34:33.480-04:34:41.559 | DM] And out at the top of the tower a rich lord sitting in conversation with a blue-skinned.
 [u3292 | 04:34:41.700-04:34:42.620 | DM] Ah!
 [u3293 | 04:34:43.340-04:34:47.390 | DM] {{Every feature}}. You recognize the djinn

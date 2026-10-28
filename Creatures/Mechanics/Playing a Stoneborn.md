@@ -14,7 +14,7 @@ D&D Beyond Link:
 
 [[Stoneborn]] are a reclusive species, tending to live in isolated, close-knit communities in extreme environments, especially high in the mountains. Often settling in inhospitable environments, rumors say that stoneborn rely on the hidden magic of [[Entamba]], their creator god, to thrive in places others would starve. Though few outsiders have seen their communal villages, Stoneborn are sometimes encountered in the settlements of humans, dwarves, and other species of Taelgar. These travelers are often master artisans, deeply skilled in their trades, and it is often said that individual stoneborn spend decades, or even a century, honing their craft. 
 
-Stoneborn appear to be humanoids shaped of stone, and have appearances as diverse as the varied colors and textures of stone in the world. This appearance has led outsiders to speculate that they are literally born from the stone of their mountain home; whether this rumor is true, the stoneborn do not say. 
+Stoneborn appear to be humanoids shaped of stone, and have appearances as diverse as the varied colors and textures of stone in the world. Stoneborn are born from stone and gradually return to it as they age. 
 
 ---
 ## Creating Your Stoneborn Character

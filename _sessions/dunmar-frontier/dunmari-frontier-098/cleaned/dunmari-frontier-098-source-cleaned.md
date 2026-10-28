@@ -382,7 +382,7 @@
 [u0382 | 00:23:18.380-00:23:20.880 | DM] Possibly there's a you know, there's a
 [u0383 | 00:23:21.300-00:23:25.619 | DM] governor appointed by Chardon. But in a lot of cases these are
 [u0384 | 00:23:26.340-00:23:29.310 | DM] the more distant provinces are not. Really.
-[u0385 | 00:23:32.300-00:23:37.710 | DM] It's not like. They're directly under control of the {{turnover}}. Right? Like they're sort of.
+[u0385 | 00:23:32.300-00:23:37.710 | DM] It's not like. They're directly under control of the Chardonians. Right? Like they're sort of.
 [u0386 | 00:23:39.890-00:23:44.439 | DM] you know. They're in the Empire in the sense that, like, you know.
 [u0387 | 00:23:46.640-00:23:51.940 | DM] Britain was part of the Roman Empire, not so much in the sense that Italy was part of the
 [u0388 | 00:23:51.960-00:23:53.180 | DM] right.
@@ -692,7 +692,7 @@
 [u0692 | 00:41:49.420-00:41:50.090 | DM] When you spare.
 [u0693 | 00:41:50.090-00:41:54.170 | Delwath] It's not that much fun to be focused around
 [u0694 | 00:41:54.800-00:41:58.460 | Delwath] interactions that I have to cast tongues every hour constantly
-[u0695 | 00:41:58.930-00:42:03.550 | Delwath] right. And you made me take {{shadow car}} which I've never once used in the entire game.
+[u0695 | 00:41:58.930-00:42:03.550 | Delwath] right. And you made me take Shadowkar which I've never once used in the entire game.
 [u0696 | 00:42:05.410-00:42:06.000 | DM] Listen.
 [u0697 | 00:42:06.000-00:42:07.619 | Delwath] And probably never will.
 [u0698 | 00:42:08.108-00:42:14.719 | Delwath] So I would argue, it's perfectly reasonable that Delwath would speak Chardonian I actually don't. I think
@@ -1095,7 +1095,7 @@
 [u1095 | 01:04:46.470-01:04:49.489 | Seeker] Wait, wait! Wait! That's an issue. We don't have a ton of rubies.
 [u1096 | 01:04:49.760-01:04:53.130 | DM] I believe you, in fact, did get 3 rubies from.
 [u1097 | 01:04:54.450-01:04:55.140 | Riswynn] Speed.
-[u1098 | 01:04:55.140-01:04:56.180 | DM] {{Voter or vinegar}}.
+[u1098 | 01:04:55.140-01:04:56.180 | DM] Rhodar von Glauer.
 [u1099 | 01:04:56.180-01:04:56.860 | Riswynn] 7, of.
 [u1100 | 01:04:56.860-01:04:58.200 | DM] {{Kevin}}, yeah.
 [u1101 | 01:04:58.585-01:04:58.970 | Delwath] True.
@@ -1293,7 +1293,7 @@
 [u1293 | 01:16:07.420-01:16:08.110 | DM] Okay.
 [u1294 | 01:16:08.630-01:16:08.825 | Delwath] That.
 [u1295 | 01:16:09.020-01:16:11.759 | DM] Basically your buildings are, you can go to the
-[u1296 | 01:16:12.160-01:16:13.910 | DM] there's a {{mass, Numa temple}}
+[u1296 | 01:16:12.160-01:16:13.910 | DM] there's a Mos Numena temple
 [u1297 | 01:16:14.310-01:16:15.620 | DM] there's an inn.
 [u1298 | 01:16:16.180-01:16:18.659 | DM] There's like bothering the dock hands.
 [u1299 | 01:16:20.870-01:16:26.260 | DM] there's people's houses. There's like a main square that has like a little bit of a market.
@@ -1528,7 +1528,7 @@
 [u1528 | 01:30:38.320-01:30:40.720 | DM] not really sure, I guess.
 [u1529 | 01:30:41.460-01:30:44.060 | DM] I guess. Probably Castrella is next
 [u1530 | 01:30:44.860-01:30:46.850 | DM] from there, we'll see. Might go
-[u1531 | 01:30:49.380-01:30:53.200 | DM] further north up to {{Anticus}}, or somewhere like that.
+[u1531 | 01:30:49.380-01:30:53.200 | DM] further north up to Antissus, or somewhere like that.
 [u1532 | 01:30:55.940-01:30:58.710 | DM] See what you know. The winds and the
 [u1533 | 01:30:59.490-01:31:01.350 | DM] feel in the air takes us.
 [u1534 | 01:31:02.670-01:31:03.869 | DM] This town is a bit
@@ -1567,7 +1567,7 @@
 [u1567 | 01:32:47.010-01:32:48.700 | DM] interesting.
 [u1568 | 01:32:51.180-01:32:54.439 | DM] I can definitely take you as far as Castrella.
 [u1569 | 01:32:56.490-01:33:00.279 | DM] I guess I just gotta see when you get there. I mean.
-[u1570 | 01:33:05.860-01:33:08.190 | DM] {{Rajana}}'s an interesting city.
+[u1570 | 01:33:05.860-01:33:08.190 | DM] Roccena's an interesting city.
 [u1571 | 01:33:14.310-01:33:15.090 | DM] Hmm.
 [u1572 | 01:33:20.708-01:33:23.580 | Wellby] Hell of a story! And you know.
 [u1573 | 01:33:24.700-01:33:29.220 | Wellby] the only thing is we're in a bit of a rush, and I I don't know if that works with your schedule.
@@ -1602,7 +1602,7 @@
 [u1602 | 01:34:58.550-01:34:59.520 | DM] Milo?
 [u1603 | 01:35:01.030-01:35:03.059 | DM] Wonder where he is these days?
 [u1604 | 01:35:03.060-01:35:04.649 | Wellby] I was just gonna say that.
-[u1605 | 01:35:09.150-01:35:15.239 | DM] Might be out around {{Rochana}}, or somewhere like there he's often.
+[u1605 | 01:35:09.150-01:35:15.239 | DM] Might be out around Roccena, or somewhere like there he's often.
 [u1606 | 01:35:17.670-01:35:19.330 | DM] Last I heard he was
 [u1607 | 01:35:19.600-01:35:22.929 | DM] trying to sail south of the Sea of Storms.
 [u1608 | 01:35:23.740-01:35:26.390 | DM] That was a year ago. So either he's
@@ -2034,9 +2034,9 @@
 [u2034 | 02:02:38.520-02:02:39.480 | DM] Okay.
 [u2035 | 02:02:39.760-02:02:42.490 | DM] anything anybody else is doing before dawn.
 [u2036 | 02:02:53.930-02:03:01.653 | DM] Okay? So day breaks. And you see the city of Castrella before you. This is a much bigger city than
-[u2037 | 02:03:02.983-02:03:10.429 | DM] what the one you were in before, which which never actually got the name. It was {{artifice}}.
+[u2037 | 02:03:02.983-02:03:10.429 | DM] what the one you were in before, which which never actually got the name. It was Artevus.
 [u2038 | 02:03:10.480-02:03:13.909 | DM] Castrella is also set like
-[u2039 | 02:03:14.140-02:03:18.780 | DM] {{artifice}} on a hill on a sort of flat ground
+[u2039 | 02:03:14.140-02:03:18.780 | DM] Artevus on a hill on a sort of flat ground
 [u2040 | 02:03:19.248-02:03:21.139 | DM] below the hills. But it's
 [u2041 | 02:03:22.696-02:03:24.270 | DM] it's easily
 [u2042 | 02:03:25.850-02:03:37.162 | DM] 5 times the size, right? It's at least. There's gotta be 3, 4,000 5,000 people that live here. This is a substantial town. The harbor is full.
@@ -2084,7 +2084,7 @@
 [u2084 | 02:06:57.200-02:06:59.150 | DM] the occasional lizard folk
 [u2085 | 02:07:03.010-02:07:05.780 | DM] humans of all kinds.
 [u2086 | 02:07:07.640-02:07:19.597 | DM] it's a it's a pretty bustling place, I mean. So I mean, there's a market. Obviously, there's a big central market. There's old merchant houses that look like they're sort of manors wealthy.
-[u2087 | 02:07:20.880-02:07:29.079 | DM] there is a castle that's set on a slight rise, and there's a a reasonably substantial temple. Of {{MOS Numa}}.
+[u2087 | 02:07:20.880-02:07:29.079 | DM] there is a castle that's set on a slight rise, and there's a a reasonably substantial temple. Of Mos Numena.
 [u2088 | 02:07:29.310-02:07:35.369 | DM] and then there's a number like along the docks. There's a number of sailors inns
 [u2089 | 02:07:37.640-02:07:39.130 | DM] so where do you want to head.
 [u2090 | 02:07:41.450-02:07:44.900 | Delwath] I mean, does Martino know this person.
@@ -2794,7 +2794,7 @@
 [u2794 | 02:57:51.250-02:57:53.480 | Riswynn] and we can get caught in some sort of
 [u2795 | 02:57:55.520-02:58:00.240 | Riswynn] what it's possible to get trapped by merfolk instead of finding the jade, is what I'm.
 [u2796 | 02:58:00.630-02:58:01.020 | Seeker] Way.
-[u2797 | 02:58:03.682-02:58:05.410 | Kenzo] Let's scry {{either}}.
+[u2797 | 02:58:03.682-02:58:05.410 | Kenzo] Let's scry Milo.
 [u2798 | 02:58:07.610-02:58:07.950 | Seeker] Her.
 [u2799 | 02:58:07.950-02:58:09.390 | Kenzo] That seems like a great idea.
 [u2800 | 02:58:11.884-02:58:12.309 | DM] Okay.

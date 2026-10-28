@@ -1,0 +1,352 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-084",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-084/cleaned/dunmari-frontier-084-source-cleaned.md",
+  "beforeSha256": "252f8295e2a3b175f129185da32f567521daf4d2f750d148cb8cf3a1dbd4299b",
+  "afterSha256": "7e289d35f8b6c117e912aa1f0ef43d7e0c6a550130dc722387b622d8c006a45c",
+  "markersBefore": 25,
+  "groups": [
+    {
+      "id": "chalyte-spellbook",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The same named spellbook is being inventoried twice; the session record explicitly identifies Casian's chalyte spellbook and the material note establishes chalyte.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 84 (DuFr).md",
+          "sha256": "129a079fee53c54ec02d8f8db99f97285c2b2f8b022325c0f94c15bac2d12c94"
+        },
+        {
+          "path": "Things/Materials/Chalyte.md",
+          "sha256": "3fda87bdf846ef031daa62013619e658a2b246e31bcb1739fd73b0141e0f7c92"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0121:m1",
+        "u0276:m1"
+      ],
+      "replacements": {
+        "u0121:m1": "chalyte",
+        "u0276:m1": "chalyte"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "denoqai-cuisine",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "While choosing human dishes from his travels, Delwath names another people after Dunmar. His documented stay and feast among the Deno'qai strongly favor Deno'qai for the clipped den; Dunmari was considered but is already represented by the preceding Dunmar reference.",
+      "evidence": [
+        {
+          "path": "Groups/Cultures/Deno'qai Tribes/Deno'qai.md",
+          "sha256": "b85ada81c7d430f0bfcf51cec975db1bd9b5a61e25720eba24a77bcb8951acb6"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 53 (DuFr).md",
+          "sha256": "bc926a36ef41839604890c66a800f38470e417052477f52902fdd654b2e0ed9e"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0984:m1"
+      ],
+      "replacements": {
+        "u0984:m1": "Deno'qai"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "grash-in-damaged-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The next speaker immediately mentions Grash, making a Grash-and-mirror reference plausible, but the marked span contains a whole damaged clause with uncertain words and boundaries. Do not reduce it to a name or reconstruct the clause.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Grash.md",
+          "sha256": "3d3dbf893416d0350386dbfc2639bc2dcc2431bdfea18dffc0ae43db37d9c484"
+        }
+      ],
+      "candidates": [
+        "Grash"
+      ],
+      "markerIds": [
+        "u0834:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0834:m1": "{{We're crossing the mirror}}"
+      }
+    },
+    {
+      "id": "guildgate",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The wealthy Tollen guild ward uniquely matches Guildgate, whose reference note places merchant palaces and guildhalls there.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Greater Sembara/Tollen/Wards/Guildgate.md",
+          "sha256": "ddfe756198d1bbd61aa96319720c7ca92c0ce35217fd9aafe9c370ca07d3b1c7"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0304:m1"
+      ],
+      "replacements": {
+        "u0304:m1": "Guildgate"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "kassi-in-damaged-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The librarian who is Basu's partner is Kassi, but the complete marked span includes unclear surrounding words. Replacing it with the name alone would discard speech; reconstructing the phrase exceeds this pass.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Kassi.md",
+          "sha256": "279eaf8a52bc0a512ca98be2b17562432e1f5802099f4e4bc255a18cbd5c59c4"
+        },
+        {
+          "path": "People/Dunmari/Basu.md",
+          "sha256": "c55659a61df2c351da7247d680d55be8868d77c6f76be56247410d556468640b"
+        }
+      ],
+      "candidates": [
+        "Kassi"
+      ],
+      "markerIds": [
+        "u0093:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0093:m1": "{{So you don't cosy}}"
+      }
+    },
+    {
+      "id": "ordinary-wording-and-numbers",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Numbers, mechanics, ordinary conversation, and damaged non-name phrases are outside this name/setting-term pass. The cooking instruction and Frankar follow-up cannot be repaired as complete name spans.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0006:m1",
+        "u0128:m1",
+        "u0129:m1",
+        "u0147:m1",
+        "u0208:m1",
+        "u0255:m1",
+        "u0396:m1",
+        "u0409:m1",
+        "u0569:m1",
+        "u0676:m1",
+        "u0781:m1",
+        "u0783:m1",
+        "u0788:m1",
+        "u0832:m1",
+        "u0933:m1",
+        "u0989:m1",
+        "u1240:m1",
+        "u1781:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0006:m1": "{{800}}",
+        "u0128:m1": "{{No}}",
+        "u0129:m1": "{{Eager doesn't seem to possibly go up}}",
+        "u0147:m1": "{{45 pairs}}",
+        "u0208:m1": "{{stuff from dying from letting him out}}",
+        "u0255:m1": "{{make all this down}}",
+        "u0396:m1": "{{do lines}}",
+        "u0409:m1": "{{give us the mace}}",
+        "u0569:m1": "{{Is you traded such secrets}}",
+        "u0676:m1": "{{6, 700}}",
+        "u0781:m1": "{{even for Super Fox}}",
+        "u0783:m1": "{{He wasn't renated with it}}",
+        "u0788:m1": "{{did you read that}}",
+        "u0832:m1": "{{70}}",
+        "u0933:m1": "{{Anonymous land}}",
+        "u0989:m1": "{{my link set to collect boot}}",
+        "u1240:m1": "{{You're you're you're you're done our way}}",
+        "u1781:m1": "{{had to}}"
+      }
+    },
+    {
+      "id": "repeated-chalyte-spellbook",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The repeated item label accompanies placing Casian's spellbook beside the grimoire; the session record identifies that traded book as the chalyte spellbook. Jay White is a plausible ASR rendering of chalyte, with no competing book established.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 84 (DuFr).md",
+          "sha256": "129a079fee53c54ec02d8f8db99f97285c2b2f8b022325c0f94c15bac2d12c94"
+        },
+        {
+          "path": "Things/Materials/Chalyte.md",
+          "sha256": "3fda87bdf846ef031daa62013619e658a2b246e31bcb1739fd73b0141e0f7c92"
+        },
+        {
+          "path": "People/Chardonians/Casian.md",
+          "sha256": "9253e17906df7793524343865a55945a20c4cc14a58bc7dc38feb4d99a28869f"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0538:m1"
+      ],
+      "replacements": {
+        "u0538:m1": "chalyte spellbook, Casian's chalyte spellbook"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0121:m1",
+      "uid": "u0121",
+      "ordinal": 1,
+      "lineNumber": 121,
+      "start": 99,
+      "end": 109,
+      "before": "{{chalet}}",
+      "span": "chalet",
+      "line": "[u0121 | 00:14:40.900-00:14:47.090 | Delwath] It seems fairly interesting. Right? We have Casian's {{chalet}} spellbook.",
+      "contextBefore": [
+        "[u0119 | 00:14:27.010-00:14:38.859 | Delwath] Well, the mace is really for people who hate people. We have this spell book of tanshi stories and prayers that you can use as an arcane focus",
+        "[u0120 | 00:14:39.450-00:14:40.320 | Delwath] it."
+      ],
+      "contextAfter": [
+        "[u0122 | 00:14:49.160-00:14:53.340 | Delwath] We have the summon greater demon spell gem.",
+        "[u0123 | 00:14:53.840-00:14:54.950 | Seeker] Oh, my God"
+      ],
+      "after": "chalyte",
+      "group": "chalyte-spellbook",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0276:m1",
+      "uid": "u0276",
+      "ordinal": 1,
+      "lineNumber": 276,
+      "start": 55,
+      "end": 68,
+      "before": "{{chill out}}",
+      "span": "chill out",
+      "line": "[u0276 | 00:30:57.960-00:31:04.469 | Delwath] Casian's {{chill out}} spellbook, the spell gem of Kadmos and the mace of terror.",
+      "contextBefore": [
+        "[u0274 | 00:30:45.480-00:30:46.370 | Seeker] Yeah.",
+        "[u0275 | 00:30:46.730-00:30:57.909 | Delwath] the Arcane Grimoire. I would give them all 4 of our powerful, not new items, the Arcane Grimoire"
+      ],
+      "contextAfter": [
+        "[u0277 | 00:31:05.120-00:31:06.150 | Seeker] I would.",
+        "[u0278 | 00:31:06.230-00:31:24.990 | Seeker] We'll do one at a time. Let's start with. We're giving them to them. For what? For information, for secret and rare information. What kinds of things do they know? I feel like those spell. That spellbook might hold some secrets that Grimoire like who knows what's in there."
+      ],
+      "after": "chalyte",
+      "group": "chalyte-spellbook",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0304:m1",
+      "uid": "u0304",
+      "ordinal": 1,
+      "lineNumber": 304,
+      "start": 191,
+      "end": 202,
+      "before": "{{Gilgate}}",
+      "span": "Gilgate",
+      "line": "[u0304 | 00:34:27.070-00:34:40.489 | DM] so. Most of the guilds in Tollen are in the like sort of fancy parts, like the Dyers Guild was in this Gold Street district, and a lot of them are in {{Gilgate}}, which are sort of newer, fancier parts of the city.",
+      "contextBefore": [
+        "[u0302 | 00:34:11.120-00:34:17.430 | DM] This is like a a freeze overnight, and as you all exit. The",
+        "[u0303 | 00:34:18.219-00:34:26.909 | DM] the ship all bundled up the Philosopher's guild. You anybody could tell you this, or you already know, is"
+      ],
+      "contextAfter": [
+        "[u0305 | 00:34:41.000-00:34:44.549 | DM] The Philosopher's Guild itself is in",
+        "[u0306 | 00:34:44.659-00:34:45.690 | DM] the"
+      ],
+      "after": "Guildgate",
+      "group": "guildgate",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0538:m1",
+      "uid": "u0538",
+      "ordinal": 1,
+      "lineNumber": 538,
+      "start": 83,
+      "end": 136,
+      "before": "{{Jay White Spellbook, Casian's Jay White Spellbook}}",
+      "span": "Jay White Spellbook, Casian's Jay White Spellbook",
+      "line": "[u0538 | 00:57:44.180-00:57:49.709 | Seeker] Seeker is making different faces like {{Jay White Spellbook, Casian's Jay White Spellbook}}.",
+      "contextBefore": [
+        "[u0536 | 00:57:34.950-00:57:38.720 | Delwath] Yeah, okay, I'll take out the spell gem.",
+        "[u0537 | 00:57:38.790-00:57:44.080 | Delwath] Actually, no"
+      ],
+      "contextAfter": [
+        "[u0539 | 00:57:50.560-00:57:53.349 | Delwath] I'll put that next to the Grimoire.",
+        "[u0540 | 00:57:54.150-00:57:57.449 | Delwath] 2 books of magic surely better than one."
+      ],
+      "after": "chalyte spellbook, Casian's chalyte spellbook",
+      "group": "repeated-chalyte-spellbook",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0984:m1",
+      "uid": "u0984",
+      "ordinal": 1,
+      "lineNumber": 984,
+      "start": 75,
+      "end": 82,
+      "before": "{{den}}",
+      "span": "den",
+      "line": "[u0984 | 01:40:14.920-01:40:24.839 | Delwath] The I spent a while with the {{den}} right like a little bit of a",
+      "contextBefore": [
+        "[u0982 | 01:39:58.810-01:40:03.379 | Delwath] something from like something from the",
+        "[u0983 | 01:40:04.440-01:40:14.249 | Delwath] whatever I'm actually gonna do like an eclectic mix of human dishes from places we've been right like Dunmar and and"
+      ],
+      "contextAfter": [
+        "[u0985 | 01:40:24.940-01:40:30.849 | Delwath] especially if she's an artist seeking new things. This is where you should try and set me up",
+        "[u0986 | 01:40:31.040-01:40:35.370 | Kenzo] are much more like Delwath's speed than Kenzo's."
+      ],
+      "after": "Deno'qai",
+      "group": "denoqai-cuisine",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u0984": {
+      "before": "[u0984 | 01:40:14.920-01:40:24.839 | Delwath] The I spent a while with the {{den}} right like a little bit of a\n",
+      "after": "[u0984 | 01:40:14.920-01:40:24.839 | Delwath] The I spent a while with the Deno'qai right like a little bit of a\n"
+    },
+    "u0121": {
+      "before": "[u0121 | 00:14:40.900-00:14:47.090 | Delwath] It seems fairly interesting. Right? We have Casian's {{chalet}} spellbook.\n",
+      "after": "[u0121 | 00:14:40.900-00:14:47.090 | Delwath] It seems fairly interesting. Right? We have Casian's chalyte spellbook.\n"
+    },
+    "u0276": {
+      "before": "[u0276 | 00:30:57.960-00:31:04.469 | Delwath] Casian's {{chill out}} spellbook, the spell gem of Kadmos and the mace of terror.\n",
+      "after": "[u0276 | 00:30:57.960-00:31:04.469 | Delwath] Casian's chalyte spellbook, the spell gem of Kadmos and the mace of terror.\n"
+    },
+    "u0304": {
+      "before": "[u0304 | 00:34:27.070-00:34:40.489 | DM] so. Most of the guilds in Tollen are in the like sort of fancy parts, like the Dyers Guild was in this Gold Street district, and a lot of them are in {{Gilgate}}, which are sort of newer, fancier parts of the city.\n",
+      "after": "[u0304 | 00:34:27.070-00:34:40.489 | DM] so. Most of the guilds in Tollen are in the like sort of fancy parts, like the Dyers Guild was in this Gold Street district, and a lot of them are in Guildgate, which are sort of newer, fancier parts of the city.\n"
+    },
+    "u0538": {
+      "before": "[u0538 | 00:57:44.180-00:57:49.709 | Seeker] Seeker is making different faces like {{Jay White Spellbook, Casian's Jay White Spellbook}}.\n",
+      "after": "[u0538 | 00:57:44.180-00:57:49.709 | Seeker] Seeker is making different faces like chalyte spellbook, Casian's chalyte spellbook.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:25:22.369483+00:00",
+      "sha256": "7e289d35f8b6c117e912aa1f0ef43d7e0c6a550130dc722387b622d8c006a45c"
+    }
+  ],
+  "runId": "20261028T042522305815Z-489b053e",
+  "createdAt": "2026-10-28T04:25:22.306186+00:00"
+}

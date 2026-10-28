@@ -7,7 +7,7 @@
 [u0007 | 00:00:36.910-00:00:48.299 | DM] to the east. The great rivers, the Kharja, on which the ruined city of Kharsan sits now a dry, intermittent river that flows only fitfully during the monsoon.
 [u0008 | 00:00:48.950-00:00:52.050 | DM] and further east the Maha, called
 [u0009 | 00:00:53.180-00:00:58.579 | DM] oops. What do you need? A zoom link? I got it
-[u0010 | 00:01:04.280-00:01:13.550 | DM] further east. the Maha, called the {{Drugar}}, by the Orcs. the {{Eistana}}, by the elves, and many other names, the famous river of Drankor.
+[u0010 | 00:01:04.280-00:01:13.550 | DM] further east. the Maha, called the Drogar, by the Orcs. the Aistanë, by the elves, and many other names, the famous river of Drankor.
 [u0011 | 00:01:14.010-00:01:16.609 | DM] the {{lifeblood of the life}}.
 [u0012 | 00:01:21.240-00:01:26.140 | DM] now the center of the desolation of Cha'mutte.
 [u0013 | 00:01:27.270-00:01:40.450 | DM] These are the rivers that are at the center of the story of Jeevali and Bhishma. The story of Jeevali's tears that created the Kharja River and healed the land from the curse after the fall of Drankor
@@ -48,7 +48,7 @@
 [u0048 | 00:06:06.480-00:06:09.830 | DM] bookish, the other brawny.
 [u0049 | 00:06:11.290-00:06:13.960 | DM] Both traveling from
 [u0050 | 00:06:14.070-00:06:16.870 | DM] Uzgukhar with you? And finally, of course.
-[u0051 | 00:06:17.340-00:06:19.859 | DM] {{Aldrich}}, the old dwarf.
+[u0051 | 00:06:17.340-00:06:19.859 | DM] Faldrak, the old dwarf.
 [u0052 | 00:06:20.900-00:06:30.120 | DM] over 200 now, with a graying beard, but sharp eyes, wearing garish clothes, decorated with a multitude of trinkets.
 [u0053 | 00:06:30.760-00:06:39.980 | DM] limping on his silver cane, and constantly tending to his flying stone bird, occasionally belches out an ineffectual burst of flame as he encourages it.
 [u0054 | 00:06:40.020-00:06:43.990 | DM] You can make it bigger, I'm sure. Just keep practicing.
@@ -58,7 +58,7 @@
 [u0058 | 00:06:59.390-00:07:00.769 | Delwath] Copper Hills right
 [u0059 | 00:07:01.840-00:07:06.340 | Delwath] by ship or teleport ship? It's only a couple of days right.
 [u0060 | 00:07:07.170-00:07:08.870 | Seeker] If we teleport
-[u0061 | 00:07:09.230-00:07:17.370 | Delwath] we'll need to leave {{Fuldrick}} in charge of the ship. I'm realizing we're not ready for that. Is he ready for that? Are we ready for that? Are you ready for that seeker
+[u0061 | 00:07:09.230-00:07:17.370 | Delwath] we'll need to leave Faldrak in charge of the ship. I'm realizing we're not ready for that. Is he ready for that? Are we ready for that? Are you ready for that seeker
 [u0062 | 00:07:18.740-00:07:20.339 | Seeker] knowing any authority tonight.
 [u0063 | 00:07:24.050-00:07:27.419 | Seeker] You're taking the shift whilst, don't we?
 [u0064 | 00:07:29.250-00:07:36.370 | Delwath] I mean, teleport always has a is not guaranteed, especially when we've never been there right
@@ -133,7 +133,7 @@
 [u0133 | 00:14:23.570-00:14:27.110 | DM] you know, there's definitely a fair bit of activity.
 [u0134 | 00:14:27.470-00:14:37.559 | Delwath] maybe you should have called ahead. We need like a a banner. We need like a a big banner that we can fly. So people know it's us
 [u0135 | 00:14:38.000-00:14:46.450 | Kenzo] well pretty soon, I mean, you know, this is the first time seeing us now in Tollen, you know, like we're cool, you know. I mean, we're we're gonna our record, our reputation.
-[u0136 | 00:14:46.820-00:15:02.159 | Kenzo] Do we have to distinguish between other flying castles? I mean, also like growing like, you know, elven tree in the middle. all sorts of this kind of thing. I'm happy to sending stone with {{Pastora}}. Yeah.
+[u0136 | 00:14:46.820-00:15:02.159 | Kenzo] Do we have to distinguish between other flying castles? I mean, also like growing like, you know, elven tree in the middle. all sorts of this kind of thing. I'm happy to sending stone with Sura. Yeah.
 [u0137 | 00:15:04.050-00:15:06.919 | Kenzo] what do you say, Bee? Beep up.
 [u0138 | 00:15:08.000-00:15:10.060 | Kenzo] Bring
 [u0139 | 00:15:10.600-00:15:18.640 | Kenzo] sending stone is just like a walkie talkie, right? Just like straight up talking. It's just a walkie-talkie. Yeah, you have no idea if somebody's listening on the other end.
@@ -307,7 +307,7 @@
 [u0307 | 00:29:53.450-00:29:54.680 | DM] I don't know
 [u0308 | 00:29:56.530-00:30:02.739 | Delwath] the temple heads, I guess. Why have you not summoned them.
 [u0309 | 00:30:18.620-00:30:19.550 | DM] I have
-[u0310 | 00:30:19.840-00:30:22.620 | Kenzo] spoken several times with Speaker {{Laura}}.
+[u0310 | 00:30:19.840-00:30:22.620 | Kenzo] spoken several times with Speaker Lara.
 [u0311 | 00:30:28.430-00:30:30.020 | DM] She has.
 [u0312 | 00:30:32.210-00:30:33.790 | Kenzo] The gods are
 [u0313 | 00:30:35.540-00:30:37.340 | DM] strangely silent.
@@ -842,7 +842,7 @@
 [u0842 | 01:21:43.990-01:21:49.609 | Delwath] Not precisely my experience. Goblins start wars on their own pretty easily.
 [u0843 | 01:21:50.640-01:21:55.550 | DM] Yes, of course.
 [u0844 | 01:21:56.720-01:22:00.200 | DM] she murdered supposedly
-[u0845 | 01:22:00.610-01:22:03.630 | DM] Nayan {{Baghdad}}, the samraat
+[u0845 | 01:22:00.610-01:22:03.630 | DM] Nayan Badya, the samraat
 [u0846 | 01:22:04.690-01:22:08.790 | DM] in the 16.
 [u0847 | 01:22:08.840-01:22:20.259 | DM] Well, he would say, in the Dunmari years, but I don't have my calculator up yet. Sorry I stopped my Javascript project on that one. That's okay.
 [u0848 | 01:22:27.190-01:22:31.169 | DM] I mean. I'm sure there would have been a war, anyway.
@@ -850,7 +850,7 @@
 [u0850 | 01:22:36.840-01:22:38.369 | DM] Nayan Yarad.
 [u0851 | 01:22:41.990-01:22:46.070 | DM] despite his involvement in the yeah
 [u0852 | 01:22:46.950-01:22:54.630 | DM] exile of the fraternity of the empty moon from Tokra was not, as far as I've read, a particularly skilled
-[u0853 | 01:22:55.810-01:23:01.250 | DM] ruler. Perhaps if {{Baja}} had lived
+[u0853 | 01:22:55.810-01:23:01.250 | DM] ruler. Perhaps if Badya had lived
 [u0854 | 01:23:02.960-01:23:06.400 | DM] and Yarad could have solely
 [u0855 | 01:23:06.430-01:23:09.299 | DM] fought the battles instead of
 [u0856 | 01:23:11.150-01:23:12.600 | DM] having to
@@ -1010,7 +1010,7 @@
 [u1010 | 01:39:24.230-01:39:30.010 | Kenzo] we'll give her an {{appropriate first}} Apollyon, or maybe Chardon first, then Apollyon. You know.
 [u1011 | 01:39:30.380-01:39:37.019 | Delwath] Chardon is just one of Apollyon's fingers. Yeah, so we gotta go, you know. Like, let's let's do Chardon first, and then we'll
 [u1012 | 01:39:37.170-01:39:39.210 | Kenzo] build up a strength and then and then
-[u1013 | 01:39:39.600-01:39:41.990 | Delwath] I'm gonna also go pray to the {{tachi}}.
+[u1013 | 01:39:39.600-01:39:41.990 | Delwath] I'm gonna also go pray to the tanshi.
 [u1014 | 01:39:42.010-01:39:47.339 | Delwath] Now I'm gonna use my contact. Other plane feature that I now have to ask the 5 questions.
 [u1015 | 01:39:47.860-01:39:48.970 | DM] Okay?
 [u1016 | 01:39:49.200-01:39:51.760 | Delwath] And questions either yes or no. Right
@@ -1019,7 +1019,7 @@
 [u1019 | 01:40:11.540-01:40:12.660 | Delwath] Dunmar
 [u1020 | 01:40:13.230-01:40:17.940 | Delwath] from where she is now they might not know. I mean they they might. They might.
 [u1021 | 01:40:18.730-01:40:21.440 | Kenzo] Great question great question.
-[u1022 | 01:40:21.650-01:40:24.719 | Delwath] I don't know what the {{tachi}}. know?
+[u1022 | 01:40:21.650-01:40:24.719 | Delwath] I don't know what the tanshi. know?
 [u1023 | 01:40:27.230-01:40:28.920 | DM] Probably not.
 [u1024 | 01:40:30.370-01:40:39.080 | Delwath] Probably not great. Just what I wanted to hear.
 [u1025 | 01:40:44.410-01:40:55.980 | Riswynn] can we give you hints? Yeah, yeah. Yeah. She left behind influences in Dunmar that are currently active, magical influences.
@@ -1049,7 +1049,7 @@
 [u1049 | 01:43:14.230-01:43:18.430 | Delwath] have Dunmar's best interests at heart?
 [u1050 | 01:43:20.110-01:43:21.250 | DM] Yes.
 [u1051 | 01:43:21.740-01:43:23.900 | Delwath] alright, that's 5 questions.
-[u1052 | 01:43:24.500-01:43:26.979 | Delwath] The {{Tachi}} know more than I thought they would.
+[u1052 | 01:43:24.500-01:43:26.979 | Delwath] The tanshi know more than I thought they would.
 [u1053 | 01:43:29.450-01:43:32.580 | DM] Well, I mean. maybe they're asking.
 [u1054 | 01:43:32.670-01:43:37.479 | DM] That's true. They could be doing their intercession thing. That's a good point.
 [u1055 | 01:43:37.870-01:43:43.990 | DM] Alright. So next, anything you want to do before meeting with.
@@ -1060,11 +1060,11 @@
 [u1060 | 01:43:57.970-01:44:00.170 | Seeker] Okay.
 [u1061 | 01:44:00.510-01:44:02.800 | DM] I don't have to stay on the
 [u1062 | 01:44:03.010-01:44:04.830 | Seeker] yep, right? We can just park it.
-[u1063 | 01:44:04.910-01:44:14.769 | Delwath] Yeah, we leave the ship. Here we just is just sitting there like I'm ready. Stay stay here, {{Frederick}}.
+[u1063 | 01:44:04.910-01:44:14.769 | Delwath] Yeah, we leave the ship. Here we just is just sitting there like I'm ready. Stay stay here, Faldrak.
 [u1064 | 01:44:14.870-01:44:15.980 | Seeker] dreamy bird!
 [u1065 | 01:44:16.440-01:44:19.989 | DM] Wait! What if you might need somebody to rescue?
 [u1066 | 01:44:20.430-01:44:22.500 | Delwath] No, we're bringing the Rainbow Bridge.
-[u1067 | 01:44:23.140-01:44:28.000 | Seeker] Well, we'll let you know, {{father}}.
+[u1067 | 01:44:23.140-01:44:28.000 | Seeker] Well, we'll let you know, Faldrak.
 [u1068 | 01:44:28.380-01:44:34.429 | Delwath] you don't. You don't have keys yet right
 [u1069 | 01:44:34.480-01:44:44.230 | DM] now you're working your way to it. What one Seeker and Kenzo are tuned to the stone. Somebody else can only attune to the stone if they
 [u1070 | 01:44:44.340-01:44:46.889 | DM] drop attunement or allow
@@ -1077,9 +1077,9 @@
 [u1077 | 01:45:52.350-01:45:59.399 | Delwath] Why are we not just teleporting to the spot. I mean, we could just do that.
 [u1078 | 01:46:00.290-01:46:17.099 | Delwath] Oh, burn Seeker's next day!
 [u1079 | 01:46:17.280-01:46:23.699 | Delwath] Let's do that. That's easier. And and just a meta game or not even met a game. But I think for for Kenzo.
-[u1080 | 01:46:23.860-01:46:25.220 | Kenzo] if {{Frederick}}
+[u1080 | 01:46:23.860-01:46:25.220 | Kenzo] if Faldrak
 [u1081 | 01:46:25.490-01:46:28.400 | Kenzo] demonstrates in one other moment
-[u1082 | 01:46:28.630-01:46:38.329 | Kenzo] some type type of heroism or some type of you know true dedication to our cause. I think Kenzo will feel comfortable letting {{Frederick}}
+[u1082 | 01:46:28.630-01:46:38.329 | Kenzo] some type type of heroism or some type of you know true dedication to our cause. I think Kenzo will feel comfortable letting Faldrak
 [u1083 | 01:46:38.920-01:46:45.539 | Seeker] might be a while for waiting for to demonstrate heroism, though
 [u1084 | 01:46:45.760-01:46:57.339 | Kenzo] all the time
 [u1085 | 01:46:57.570-01:47:16.209 | Delwath] several times it was okay with the Edge of Echoes. He was a bit scared of Grash's army, I mean in fairness, that's okay. I mean.
@@ -1309,7 +1309,7 @@
 [u1309 | 02:08:33.450-02:08:34.830 | Delwath] I'll sort of
 [u1310 | 02:08:35.500-02:08:37.630 | Delwath] finger the
 [u1311 | 02:08:38.900-02:08:40.740 | Delwath] one of the
-[u1312 | 02:08:41.290-02:08:49.550 | Delwath] like symbols of {{attache}} that that Delwath wears can you. Can you sense these gods that
+[u1312 | 02:08:41.290-02:08:49.550 | Delwath] like symbols of tanshi that that Delwath wears can you. Can you sense these gods that
 [u1313 | 02:08:51.780-02:09:01.169 | Delwath] are near me? They told me what was the Nayan's letter? What was the Nayan {{service}}?
 [u1314 | 02:09:01.970-02:09:07.020 | Delwath] Marathu? They told me Marathu never wrote a letter.
 [u1315 | 02:09:12.110-02:09:13.220 | Unknown] You
@@ -1362,7 +1362,7 @@
 [u1362 | 02:14:10.310-02:14:14.829 | DM] Riswynn. And when, says Riswynn, he kind of looks up and
 [u1363 | 02:14:15.990-02:14:17.750 | DM] looks over Riswynn
 [u1364 | 02:14:19.320-02:14:26.720 | DM] kind of gives you a glance. Clearly he's heard that name
-[u1365 | 02:14:27.670-02:14:29.370 | DM] Seeker of {{high keep}}.
+[u1365 | 02:14:27.670-02:14:29.370 | DM] Seeker of Highkeep.
 [u1366 | 02:14:32.040-02:14:43.319 | DM] and Karnas like stands up. He's he's like a good he probably would have been like 4 years older than Sura, but now, of course, looks
 [u1367 | 02:14:43.460-02:14:48.200 | DM] closer to 15 years older than Sura.
 [u1368 | 02:14:48.340-02:14:56.510 | DM] right? So, despite being in her late 20 s. Looks, I mean, she's like 21. Basically she missed 8 years of her life.
@@ -1657,10 +1657,10 @@
 [u1657 | 02:44:44.140-02:45:01.089 | Wellby] When? Oh, you were there, you. You stepped away when I asked her. In the worst case scenario, he wrote the letter under the compulsion of something else that's not visible at the time of him writing letter, so showing the letter only takes us back to the moment of writing, and not to the moment of
 [u1658 | 02:45:01.100-02:45:04.719 | Wellby] like being put under dominate person, or whatever it is.
 [u1659 | 02:45:04.730-02:45:07.530 | Seeker] Oh, that's possible it'd be, it is possible.
-[u1660 | 02:45:07.550-02:45:11.010 | Delwath] But interestingly, I asked the {{tauntie}}
+[u1660 | 02:45:07.550-02:45:11.010 | Delwath] But interestingly, I asked the tanshi
 [u1661 | 02:45:11.040-02:45:14.339 | Delwath] whether he really wrote the letter, and they said, what letter
 [u1662 | 02:45:16.310-02:45:17.050 | Seeker] blip?
-[u1663 | 02:45:17.720-02:45:25.470 | Seeker] Can we just do this so that we really want to find out what the {{tan she}} meant? By what letter absolutely
+[u1663 | 02:45:17.720-02:45:25.470 | Seeker] Can we just do this so that we really want to find out what the tanshi meant? By what letter absolutely
 [u1664 | 02:45:25.550-02:45:32.230 | Delwath] cause. Also, also, also, if it was a terrible idea, I don't think Tim would have encouraged us quite so much. Anyway.
 [u1665 | 02:45:32.690-02:45:51.019 | DM] I feel like we're gonna show a thing with him there, and not knowing what the answer is, we should show him an object from Sura, from when she was in prison to show that he was, she was actually imprisoned, for, like, you know, however many years, you know, think that'd be a good thing to show
 [u1666 | 02:45:51.780-02:45:57.019 | Delwath] like something that we'd actually know. Okay, well, what are you doing? We're we're showing the one right? We're showing them.
@@ -1872,7 +1872,7 @@
 [u1872 | 03:08:29.970-03:08:34.499 | DM] you have. I don't know. 3, 4 weeks of
 [u1873 | 03:08:37.300-03:08:38.910 | DM] repairs
 [u1874 | 03:08:39.800-03:08:42.189 | Delwath] right getting
-[u1875 | 03:08:42.250-03:08:45.580 | DM] {{that was}} shield fixed up.
+[u1875 | 03:08:42.250-03:08:45.580 | DM] Delwath's shield fixed up.
 [u1876 | 03:08:45.790-03:08:47.030 | DM] getting
 [u1877 | 03:08:48.650-03:09:03.880 | Delwath] I don't know. What else are you getting done in Tollen, probably just building all building out our ship. The big renovation of the ship.
 [u1878 | 03:09:06.060-03:09:14.789 | DM] Tollen welcomes you. I mean you. You've well Riswynn, hasn't been here before, but
@@ -1899,7 +1899,7 @@
 [u1899 | 03:11:06.470-03:11:08.549 | DM] You been in Tollen for for
 [u1900 | 03:11:08.970-03:11:14.019 | DM] 3 weeks now. The ship, the repairs on the ship are like 3 quarters done.
 [u1901 | 03:11:14.930-03:11:17.100 | DM] You know. You've gotten your your
-[u1902 | 03:11:17.160-03:11:23.230 | DM] stuff from {{league}} Kenzo's reconnected with Iskra. You've like
+[u1902 | 03:11:17.160-03:11:23.230 | DM] stuff from Umli Kenzo's reconnected with Iskra. You've like
 [u1903 | 03:11:25.500-03:11:32.110 | DM] you could have done some Philosophers' Guild stuff. You could have done other sorts of Tollen downtime stuff.
 [u1904 | 03:11:32.290-03:11:35.219 | Kenzo] I really think Seeker should join the Philosopher's guild.
 [u1905 | 03:11:35.660-03:11:37.810 | DM] It's a 5 year initiation.
@@ -1922,7 +1922,7 @@
 [u1922 | 03:13:48.380-03:13:51.690 | DM] in your direction. And they.
 [u1923 | 03:13:52.610-03:13:54.320 | DM] He, she, you're not sure
 [u1924 | 03:13:54.830-03:14:00.279 | DM] impossible to tell their age or their gender as they circle over the ship.
-[u1925 | 03:14:00.760-03:14:12.110 | DM] And there's I mean, kenku, are still a fairly rare sight in even in Tollen. And there's, you know, people looking. {{Fadrick}} looks up, you know, from his.
+[u1925 | 03:14:00.760-03:14:12.110 | DM] And there's I mean, kenku, are still a fairly rare sight in even in Tollen. And there's, you know, people looking. Faldrak looks up, you know, from his.
 [u1926 | 03:14:12.660-03:14:18.389 | DM] He's taken on the role of basically directing everybody.
 [u1927 | 03:14:18.590-03:14:24.929 | DM] The stone bird flies off his shoulder and begins to like fly around. As this kenku is approaching.
 [u1928 | 03:14:25.450-03:14:34.930 | DM] fire is still very unimpressive, and it belches Also, almost like everything.

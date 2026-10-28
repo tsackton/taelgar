@@ -1,0 +1,738 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-078",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-078/cleaned/dunmari-frontier-078-source-cleaned.md",
+  "beforeSha256": "5212d67f0201a262dc122fcdf905909e832094838aa428ed108138504ac191bb",
+  "afterSha256": "51e4cbc2b9d4e2a815a6bcd515adf5c03642013a61c63a2e3744bda2972e3244",
+  "markersBefore": 37,
+  "groups": [
+    {
+      "id": "dimension-door-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The subsequent dialogue identifies Kadmos and Casian as arriving together, but this marked span mixes exclamations or repeated connective words with a possible name. A complete name-only replacement cannot be established.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 72 - DM Notes.md",
+          "sha256": "88b2e8ee9ab6c90431ddd9d0f550dd0900453b88caad91ef04aa19aa5c55c4a3"
+        }
+      ],
+      "candidates": [
+        "Kadmos"
+      ],
+      "markerIds": [
+        "u1304:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1304:m1": "{{no! And and and}}"
+      }
+    },
+    {
+      "id": "drogmar",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The marked variants name the arriving orc warrior and recurring spear fighter; the session preparation establishes Drogmar. Preserve surrounding pronouns and spoken wording.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 72 - DM Notes.md",
+          "sha256": "88b2e8ee9ab6c90431ddd9d0f550dd0900453b88caad91ef04aa19aa5c55c4a3"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0464:m1",
+        "u1263:m1",
+        "u1590:m1",
+        "u1601:m1",
+        "u1621:m1",
+        "u1876:m1",
+        "u1876:m2",
+        "u2003:m1",
+        "u2006:m1",
+        "u2359:m1",
+        "u2447:m1"
+      ],
+      "replacements": {
+        "u0464:m1": "Drogmar",
+        "u1263:m1": "Drogmar",
+        "u1590:m1": "Drogmar",
+        "u1601:m1": "Drogmar",
+        "u1621:m1": "Drogmar",
+        "u1876:m1": "Drogmar",
+        "u1876:m2": "Drogmar",
+        "u2003:m1": "Drogmar",
+        "u2006:m1": "Drogmar",
+        "u2359:m1": "Drogmar",
+        "u2447:m1": "Drogmar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "drogmar-potion-reference",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The phonetic name strongly favors Drogmar, one of the two named orc allies. This corrects only the name as spoken; the potion-related dialogue does not justify substituting the other ally based on who acted.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 72 - DM Notes.md",
+          "sha256": "88b2e8ee9ab6c90431ddd9d0f550dd0900453b88caad91ef04aa19aa5c55c4a3"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2326:m1"
+      ],
+      "replacements": {
+        "u2326:m1": "Drogmar"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "evelina",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The unconscious and dying sorcerer is Evelina, whose reference note establishes the spelling. The marked Avalina variants refer consistently to that sorcerer; already correct Evelina spans need only unmarking.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Evelina.md",
+          "sha256": "63fbcf5728edda0436f1288126bf11d30cba3594d5e2d95671e8edcc6f09cfa3"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1073:m1",
+        "u1294:m1",
+        "u1298:m1",
+        "u2210:m1",
+        "u2530:m1"
+      ],
+      "replacements": {
+        "u1073:m1": "Evelina",
+        "u1294:m1": "Evelina",
+        "u1298:m1": "Evelina",
+        "u2210:m1": "Evelina",
+        "u2530:m1": "Evelina"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ghorgra",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The introduction pairs this name with Drogmar, and later turns refer to the other orc ally. The preparation names that ally Ghorgra; these distorted forms favor her over Murook or Drogmar.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Session 69-73 (Grash Arc)/Session 72 - DM Notes.md",
+          "sha256": "88b2e8ee9ab6c90431ddd9d0f550dd0900453b88caad91ef04aa19aa5c55c4a3"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0464:m2",
+        "u0808:m1",
+        "u1773:m1"
+      ],
+      "replacements": {
+        "u0464:m2": "Ghorgra",
+        "u0808:m1": "Ghorgra",
+        "u1773:m1": "Ghorgra"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary narration, damaged phrases, combat numbers, ability descriptions, and descriptive wording are outside the name and setting-term pass. Retain verbatim.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0007:m1",
+        "u0008:m1",
+        "u0009:m1",
+        "u0044:m1",
+        "u0115:m1",
+        "u0121:m1",
+        "u0139:m1",
+        "u0193:m1",
+        "u0935:m1",
+        "u1240:m1",
+        "u1240:m2",
+        "u1289:m1",
+        "u1373:m1",
+        "u1656:m1",
+        "u2471:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0007:m1": "{{Don't}}",
+        "u0008:m1": "{{back}}",
+        "u0009:m1": "{{with}}",
+        "u0044:m1": "{{out there. power}}",
+        "u0115:m1": "{{100 5,125}}",
+        "u0121:m1": "{{trying to them with a complex}}",
+        "u0139:m1": "{{2,100}}",
+        "u0193:m1": "{{not}}",
+        "u0935:m1": "{{13 points of damage, 7 piercing, and 13 poison}}",
+        "u1240:m1": "{{destined, dexterous}}",
+        "u1240:m2": "{{middle as high}}",
+        "u1289:m1": "{{and image}}",
+        "u1373:m1": "{{40 size}}",
+        "u1656:m1": "{{freelight}}",
+        "u2471:m1": "{{I cannot drop}}"
+      }
+    },
+    {
+      "id": "possible-vola-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Vola is plausible in this discussion of the boat occupants, but the initial portion of the marked span may contain ordinary words or initials. Replacing the whole span with her name would discard unclear wording.",
+      "evidence": [
+        {
+          "path": "People/Chardonians/Vola.md",
+          "sha256": "0e574bf5a994eccaaf9b3adb96793f495b4267271d151ab73fda8c5627e6bb78"
+        }
+      ],
+      "candidates": [
+        "Vola"
+      ],
+      "markerIds": [
+        "u0095:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0095:m1": "{{S. Ebola}}"
+      }
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0464:m1",
+      "uid": "u0464",
+      "ordinal": 1,
+      "lineNumber": 464,
+      "start": 41,
+      "end": 52,
+      "before": "{{drugmar}}",
+      "span": "drugmar",
+      "line": "[u0464 | 00:43:17.000-00:43:21.020 | DM] {{drugmar}} and {{choreograph}}.",
+      "contextBefore": [
+        "[u0462 | 00:43:05.820-00:43:07.900 | Seeker] Let's try to heal them a little bit. I think",
+        "[u0463 | 00:43:10.960-00:43:13.070 | DM] so. They are"
+      ],
+      "contextAfter": [
+        "[u0465 | 00:43:25.260-00:43:30.569 | DM] so we can put one. And now we have an ultimate fully block each from",
+        "[u0466 | 00:43:31.210-00:43:32.430 | Delwath] 3 by 3."
+      ],
+      "after": "Drogmar",
+      "group": "drogmar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0464:m2",
+      "uid": "u0464",
+      "ordinal": 2,
+      "lineNumber": 464,
+      "start": 57,
+      "end": 72,
+      "before": "{{choreograph}}",
+      "span": "choreograph",
+      "line": "[u0464 | 00:43:17.000-00:43:21.020 | DM] {{drugmar}} and {{choreograph}}.",
+      "contextBefore": [
+        "[u0462 | 00:43:05.820-00:43:07.900 | Seeker] Let's try to heal them a little bit. I think",
+        "[u0463 | 00:43:10.960-00:43:13.070 | DM] so. They are"
+      ],
+      "contextAfter": [
+        "[u0465 | 00:43:25.260-00:43:30.569 | DM] so we can put one. And now we have an ultimate fully block each from",
+        "[u0466 | 00:43:31.210-00:43:32.430 | Delwath] 3 by 3."
+      ],
+      "after": "Ghorgra",
+      "group": "ghorgra",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0808:m1",
+      "uid": "u0808",
+      "ordinal": 1,
+      "lineNumber": 808,
+      "start": 86,
+      "end": 101,
+      "before": "{{choreograph}}",
+      "span": "choreograph",
+      "line": "[u0808 | 01:12:43.030-01:12:47.900 | DM] Yeah, it's a construct. Basically. Same with {{choreograph}}.",
+      "contextBefore": [
+        "[u0806 | 01:12:33.170-01:12:41.719 | Seeker] Yeah, that's one of us the other orc warrior is just again going to hold an action. Just the ladder of saying with.",
+        "[u0807 | 01:12:42.000-01:12:42.770 | Seeker] Yeah."
+      ],
+      "contextAfter": [
+        "[u0809 | 01:12:50.010-01:12:51.150 | DM] Kenzo.",
+        "[u0810 | 01:12:51.390-01:12:57.970 | Kenzo] Also just holding an action, or you've got something to do. I can shoot an acid arrow exactly 90 feet."
+      ],
+      "after": "Ghorgra",
+      "group": "ghorgra",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1073:m1",
+      "uid": "u1073",
+      "ordinal": 1,
+      "lineNumber": 1073,
+      "start": 41,
+      "end": 52,
+      "before": "{{Avalina}}",
+      "span": "Avalina",
+      "line": "[u1073 | 01:35:17.820-01:35:23.919 | DM] {{Avalina}} fails her saving throw. He's definitely yeah saving to",
+      "contextBefore": [
+        "[u1071 | 01:35:08.380-01:35:09.769 | Kenzo] Okay, great thanks.",
+        "[u1072 | 01:35:10.830-01:35:17.469 | Kenzo] Oh, we haven't. I haven't. Sorry. Sorry. Okay, well, I'll be Antonius next time for it."
+      ],
+      "contextAfter": [
+        "[u1074 | 01:35:24.120-01:35:25.290 | DM] this sorcerer.",
+        "[u1075 | 01:35:25.330-01:35:29.730 | Kenzo] Just so. She died. No, no, she's at one failure. Okay?"
+      ],
+      "after": "Evelina",
+      "group": "evelina",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1263:m1",
+      "uid": "u1263",
+      "ordinal": 1,
+      "lineNumber": 1263,
+      "start": 41,
+      "end": 54,
+      "before": "{{Drug Mars}}",
+      "span": "Drug Mars",
+      "line": "[u1263 | 01:50:38.490-01:50:48.550 | DM] {{Drug Mars}} still waiting. Nothing he can do. The demonic creature flying in the air.",
+      "contextBefore": [
+        "[u1261 | 01:50:28.110-01:50:34.270 | DM] Who's Currently like standing at the ready sword and shield out.",
+        "[u1262 | 01:50:34.550-01:50:37.219 | DM] Waiting for something."
+      ],
+      "contextAfter": [
+        "[u1264 | 01:50:48.700-01:50:51.170 | Seeker] It's flying covers",
+        "[u1265 | 01:50:51.970-01:50:58.039 | DM] and up up above bargain system. flapping its wings."
+      ],
+      "after": "Drogmar",
+      "group": "drogmar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1294:m1",
+      "uid": "u1294",
+      "ordinal": 1,
+      "lineNumber": 1294,
+      "start": 41,
+      "end": 52,
+      "before": "{{Avalina}}",
+      "span": "Avalina",
+      "line": "[u1294 | 01:53:29.510-01:53:34.680 | DM] {{Avalina}} is going to make another death, saving throw where do we?",
+      "contextBefore": [
+        "[u1292 | 01:53:07.830-01:53:11.699 | Delwath] See? I really think, Wellby, if you go hide and we just wait",
+        "[u1293 | 01:53:11.880-01:53:29.359 | Delwath] and just pop out and shoot and pop in and pop out and shoot. What are they going to do? Finally, they're going to wait to move out of our line of sight, heal themselves back up to full and re-up their buffs before coming after us. Yeah, that'll burn all their spells. So what they're besieging is what we would do, I mean."
+      ],
+      "contextAfter": [
+        "[u1295 | 01:53:34.880-01:53:36.870 | Delwath] What we're not? But if but",
+        "[u1296 | 01:53:37.150-01:53:41.630 | Delwath] if they free up all their buffs and do it, we're not losing anything"
+      ],
+      "after": "Evelina",
+      "group": "evelina",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1298:m1",
+      "uid": "u1298",
+      "ordinal": 1,
+      "lineNumber": 1298,
+      "start": 44,
+      "end": 55,
+      "before": "{{avalina}}",
+      "span": "avalina",
+      "line": "[u1298 | 01:53:46.960-01:53:49.720 | DM] as {{avalina}}",
+      "contextBefore": [
+        "[u1296 | 01:53:37.150-01:53:41.630 | Delwath] if they free up all their buffs and do it, we're not losing anything",
+        "[u1297 | 01:53:42.000-01:53:44.199 | DM] succeeds on their second one."
+      ],
+      "contextAfter": [
+        "[u1299 | 01:53:50.240-01:53:53.060 | DM] that. why is dying.",
+        "[u1300 | 01:53:53.280-01:54:00.140 | DM] Let's see, where is Wellby right now, far away."
+      ],
+      "after": "Evelina",
+      "group": "evelina",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1590:m1",
+      "uid": "u1590",
+      "ordinal": 1,
+      "lineNumber": 1590,
+      "start": 41,
+      "end": 53,
+      "before": "{{Drugmart}}",
+      "span": "Drugmart",
+      "line": "[u1590 | 02:19:45.290-02:19:50.089 | DM] {{Drugmart}} is going to move out of the room. 1, 2, 3",
+      "contextBefore": [
+        "[u1588 | 02:19:37.420-02:19:40.879 | DM] 7 and 8, 7 and 8 to 15.",
+        "[u1589 | 02:19:43.709-02:19:44.840 | Delwath] okay."
+      ],
+      "contextAfter": [
+        "[u1591 | 02:19:51.060-02:20:00.900 | DM] 4, 5, right there, so she can attack Casian without without being in the web.",
+        "[u1592 | 02:20:02.180-02:20:06.179 | DM] and as she does that she swings towards Casian, Vargas looks up"
+      ],
+      "after": "Drogmar",
+      "group": "drogmar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1601:m1",
+      "uid": "u1601",
+      "ordinal": 1,
+      "lineNumber": 1601,
+      "start": 145,
+      "end": 156,
+      "before": "{{Drugmar}}",
+      "span": "Drugmar",
+      "line": "[u1601 | 02:20:43.570-02:20:58.799 | DM] to Casian, second attack is going to hit doing 14 so 26 points of damage total. And that's going to end {{Drugmar}}’s turn.",
+      "contextBefore": [
+        "[u1599 | 02:20:33.900-02:20:40.100 | DM] First attack with the spear is going to hit",
+        "[u1600 | 02:20:40.800-02:20:43.409 | DM] doing 12 points of damage. Yeah."
+      ],
+      "contextAfter": [
+        "[u1602 | 02:21:03.030-02:21:04.420 | Kenzo] okay.",
+        "[u1603 | 02:21:06.070-02:21:09.030 | DM] The"
+      ],
+      "after": "Drogmar",
+      "group": "drogmar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1621:m1",
+      "uid": "u1621",
+      "ordinal": 1,
+      "lineNumber": 1621,
+      "start": 49,
+      "end": 61,
+      "before": "{{drug mar}}",
+      "span": "drug mar",
+      "line": "[u1621 | 02:22:04.680-02:22:06.480 | DM] Attack, {{drug mar}}.",
+      "contextBefore": [
+        "[u1619 | 02:22:00.490-02:22:01.580 | DM] attack",
+        "[u1620 | 02:22:01.740-02:22:03.800 | Delwath] now, man, these orcs are getting squished."
+      ],
+      "contextAfter": [
+        "[u1622 | 02:22:06.530-02:22:09.430 | Kenzo] But it's all right. and that's kind of what that's very.",
+        "[u1623 | 02:22:09.510-02:22:13.319 | Kenzo] It's messed up as a they're kind of hit point"
+      ],
+      "after": "Drogmar",
+      "group": "drogmar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1773:m1",
+      "uid": "u1773",
+      "ordinal": 1,
+      "lineNumber": 1773,
+      "start": 59,
+      "end": 68,
+      "before": "{{Garga}}",
+      "span": "Garga",
+      "line": "[u1773 | 02:34:41.490-02:34:53.280 | DM] sorry not Murook. {{Garga}}. Now Murook is restrained, so she has disadvantage, but she already a disadvantage, and she will attack Kadmos.",
+      "contextBefore": [
+        "[u1771 | 02:34:35.110-02:34:36.150 | DM] at.",
+        "[u1772 | 02:34:37.220-02:34:41.040 | Kenzo] It's gonna suck if they get the cloak because of this that that'll be very annoying."
+      ],
+      "contextAfter": [
+        "[u1774 | 02:34:54.850-02:34:56.500 | DM] a",
+        "[u1775 | 02:34:58.520-02:35:00.379 | DM] so made by the slack."
+      ],
+      "after": "Ghorgra",
+      "group": "ghorgra",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1876:m1",
+      "uid": "u1876",
+      "ordinal": 1,
+      "lineNumber": 1876,
+      "start": 85,
+      "end": 96,
+      "before": "{{Drugmar}}",
+      "span": "Drugmar",
+      "line": "[u1876 | 02:43:15.680-02:43:28.180 | DM] There's really nobody. He can get a shot at {{Drugmar}}, so he's going to take a shot at {{Drugmar}}. but that misses.",
+      "contextBefore": [
+        "[u1874 | 02:43:08.890-02:43:10.030 | DM] Retreat",
+        "[u1875 | 02:43:12.880-02:43:15.520 | DM] slowed, so he moves almost nowhere."
+      ],
+      "contextAfter": [
+        "[u1877 | 02:43:28.940-02:43:36.520 | DM] and he is going to attempt to save against the slow which finally succeeds. So he is no longer slowed.",
+        "[u1878 | 02:43:37.080-02:43:44.139 | DM] And that ends his turn."
+      ],
+      "after": "Drogmar",
+      "group": "drogmar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1876:m2",
+      "uid": "u1876",
+      "ordinal": 2,
+      "lineNumber": 1876,
+      "start": 130,
+      "end": 141,
+      "before": "{{Drugmar}}",
+      "span": "Drugmar",
+      "line": "[u1876 | 02:43:15.680-02:43:28.180 | DM] There's really nobody. He can get a shot at {{Drugmar}}, so he's going to take a shot at {{Drugmar}}. but that misses.",
+      "contextBefore": [
+        "[u1874 | 02:43:08.890-02:43:10.030 | DM] Retreat",
+        "[u1875 | 02:43:12.880-02:43:15.520 | DM] slowed, so he moves almost nowhere."
+      ],
+      "contextAfter": [
+        "[u1877 | 02:43:28.940-02:43:36.520 | DM] and he is going to attempt to save against the slow which finally succeeds. So he is no longer slowed.",
+        "[u1878 | 02:43:37.080-02:43:44.139 | DM] And that ends his turn."
+      ],
+      "after": "Drogmar",
+      "group": "drogmar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2003:m1",
+      "uid": "u2003",
+      "ordinal": 1,
+      "lineNumber": 2003,
+      "start": 91,
+      "end": 102,
+      "before": "{{Drummer}}",
+      "span": "Drummer",
+      "line": "[u2003 | 02:55:43.980-02:55:51.460 | DM] Oh, no, sorry. Not on Murook, or whoever this is. {{Drummer}}. so that's",
+      "contextBefore": [
+        "[u2001 | 02:55:35.050-02:55:38.570 | DM] 24 on Murook",
+        "[u2002 | 02:55:39.100-02:55:43.090 | DM] and crit on Murook. All right."
+      ],
+      "contextAfter": [
+        "[u2004 | 02:55:53.230-02:55:56.650 | DM] I mean, these are pretty beefy Orcs. You wanted fighters.",
+        "[u2005 | 02:55:56.870-02:56:07.020 | DM] not looking terribly badly wounded quite at the moment. our plan is working well. We needed some hit point sponges, and that's what we got. Yeah."
+      ],
+      "after": "Drogmar",
+      "group": "drogmar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2006:m1",
+      "uid": "u2006",
+      "ordinal": 1,
+      "lineNumber": 2006,
+      "start": 41,
+      "end": 54,
+      "before": "{{drug. Mar}}",
+      "span": "drug. Mar",
+      "line": "[u2006 | 02:56:07.740-02:56:10.639 | DM] {{drug. Mar}} will return the favor.",
+      "contextBefore": [
+        "[u2004 | 02:55:53.230-02:55:56.650 | DM] I mean, these are pretty beefy Orcs. You wanted fighters.",
+        "[u2005 | 02:55:56.870-02:56:07.020 | DM] not looking terribly badly wounded quite at the moment. our plan is working well. We needed some hit point sponges, and that's what we got. Yeah."
+      ],
+      "contextAfter": [
+        "[u2007 | 02:56:10.820-02:56:12.949 | Delwath] Oh, Casian, Casian, Casian",
+        "[u2008 | 02:56:13.430-02:56:14.599 | Seeker] he has yet."
+      ],
+      "after": "Drogmar",
+      "group": "drogmar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2210:m1",
+      "uid": "u2210",
+      "ordinal": 1,
+      "lineNumber": 2210,
+      "start": 41,
+      "end": 52,
+      "before": "{{Evelina}}",
+      "span": "Evelina",
+      "line": "[u2210 | 03:12:55.800-03:13:04.810 | DM] {{Evelina}} is now dead dead dead. Lubash fails a death saving throw. So he is now on 2 failed deaths.",
+      "contextBefore": [
+        "[u2208 | 03:12:44.230-03:12:47.939 | Kenzo] maybe kill the fiend so you can like, get past and",
+        "[u2209 | 03:12:48.430-03:12:55.590 | Wellby] no checking the room was my action. That's that's a good. I'll come back out again. Okay."
+      ],
+      "contextAfter": [
+        "[u2211 | 03:13:14.020-03:13:15.390 | DM] And then",
+        "[u2212 | 03:13:16.920-03:13:24.540 | DM] Let's see, can any of you see this"
+      ],
+      "after": "Evelina",
+      "group": "evelina",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2326:m1",
+      "uid": "u2326",
+      "ordinal": 1,
+      "lineNumber": 2326,
+      "start": 251,
+      "end": 264,
+      "before": "{{Drug Mars}}",
+      "span": "Drug Mars",
+      "line": "[u2326 | 03:22:55.480-03:23:17.260 | Seeker] I, if I want to like, walk to the doorway, cast the spell, and also bonus action, healing word. Can I do all of those things? You can't cast 2 leveled spells in one turn. I see that, but I gave it. But but {{Drug Mars}} got a healing potion. So so the the king is okay. The king is okay, all right. So I will step",
+      "contextBefore": [
+        "[u2324 | 03:22:51.310-03:22:52.760 | Seeker] all right, so",
+        "[u2325 | 03:22:54.410-03:22:55.260 | Seeker] that"
+      ],
+      "contextAfter": [
+        "[u2327 | 03:23:17.330-03:23:23.250 | Seeker] temporarily to the door and cast some and say.",
+        "[u2328 | 03:23:23.640-03:23:27.180 | Kenzo] Oh, nice! What does this happen and concentration on"
+      ],
+      "after": "Drogmar",
+      "group": "drogmar-potion-reference",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u2359:m1",
+      "uid": "u2359",
+      "ordinal": 1,
+      "lineNumber": 2359,
+      "start": 41,
+      "end": 52,
+      "before": "{{jog Mar}}",
+      "span": "jog Mar",
+      "line": "[u2359 | 03:26:51.930-03:27:02.400 | DM] {{jog Mar}} will attack. I'm gonna just leave these guys be over here. The vrock is. Gonna probably my.",
+      "contextBefore": [
+        "[u2357 | 03:26:44.850-03:26:46.329 | Seeker] All right. So how do I?",
+        "[u2358 | 03:26:49.130-03:26:50.960 | Seeker] The thing"
+      ],
+      "contextAfter": [
+        "[u2360 | 03:27:02.960-03:27:05.439 | DM] unless it was while I was saved.",
+        "[u2361 | 03:27:07.140-03:27:10.139 | DM] Wow! Up, Nope, 24. It succeeds"
+      ],
+      "after": "Drogmar",
+      "group": "drogmar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2447:m1",
+      "uid": "u2447",
+      "ordinal": 1,
+      "lineNumber": 2447,
+      "start": 41,
+      "end": 53,
+      "before": "{{drug mar}}",
+      "span": "drug mar",
+      "line": "[u2447 | 03:34:11.090-03:34:21.910 | DM] {{drug mar}}. It is not so difficult to subdue Vargas. Valius runs off, he vanishes somewhere.",
+      "contextBefore": [
+        "[u2445 | 03:33:52.610-03:33:59.739 | DM] The I've got this land you down attacks and saves; one more, his hit points fall in half, so he'll probably die next time he fails.",
+        "[u2446 | 03:34:00.650-03:34:10.969 | DM] Murook between Murook the ladder Wellby and this other orc."
+      ],
+      "contextAfter": [
+        "[u2448 | 03:34:21.930-03:34:23.210 | Delwath] Which one?",
+        "[u2449 | 03:34:23.350-03:34:26.690 | Delwath] But how? How? How? There's no way out there."
+      ],
+      "after": "Drogmar",
+      "group": "drogmar",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u2530:m1",
+      "uid": "u2530",
+      "ordinal": 1,
+      "lineNumber": 2530,
+      "start": 90,
+      "end": 101,
+      "before": "{{Evelina}}",
+      "span": "Evelina",
+      "line": "[u2530 | 03:41:53.860-03:42:02.689 | DM] She's alive. I spared her dying shirt, too. Vola {{Evelina}} is dead. The sorcerer woman is dead. Yeah. Vola and Antonia are",
+      "contextBefore": [
+        "[u2528 | 03:41:39.490-03:41:43.579 | Delwath] I think we should put everybody in the mirror. Yes.",
+        "[u2529 | 03:41:44.320-03:41:53.490 | DM] so, okay, so hold on a second. This is all happening too fast. Okay, so right now, first of all Riswynn is Antonia, dead or alive?"
+      ],
+      "contextAfter": [
+        "[u2531 | 03:42:03.010-03:42:13.949 | DM] are unconscious and stable at 0. Hit points. Hektor is is in the mirror. Yeah, already",
+        "[u2532 | 03:42:15.360-03:42:21.349 | DM] Valius has surrendered, and you are now saying, Stare at this mirror, and he says."
+      ],
+      "after": "Evelina",
+      "group": "evelina",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u0808": {
+      "before": "[u0808 | 01:12:43.030-01:12:47.900 | DM] Yeah, it's a construct. Basically. Same with {{choreograph}}.\n",
+      "after": "[u0808 | 01:12:43.030-01:12:47.900 | DM] Yeah, it's a construct. Basically. Same with Ghorgra.\n"
+    },
+    "u1073": {
+      "before": "[u1073 | 01:35:17.820-01:35:23.919 | DM] {{Avalina}} fails her saving throw. He's definitely yeah saving to\n",
+      "after": "[u1073 | 01:35:17.820-01:35:23.919 | DM] Evelina fails her saving throw. He's definitely yeah saving to\n"
+    },
+    "u1601": {
+      "before": "[u1601 | 02:20:43.570-02:20:58.799 | DM] to Casian, second attack is going to hit doing 14 so 26 points of damage total. And that's going to end {{Drugmar}}’s turn.\n",
+      "after": "[u1601 | 02:20:43.570-02:20:58.799 | DM] to Casian, second attack is going to hit doing 14 so 26 points of damage total. And that's going to end Drogmar’s turn.\n"
+    },
+    "u2006": {
+      "before": "[u2006 | 02:56:07.740-02:56:10.639 | DM] {{drug. Mar}} will return the favor.\n",
+      "after": "[u2006 | 02:56:07.740-02:56:10.639 | DM] Drogmar will return the favor.\n"
+    },
+    "u1621": {
+      "before": "[u1621 | 02:22:04.680-02:22:06.480 | DM] Attack, {{drug mar}}.\n",
+      "after": "[u1621 | 02:22:04.680-02:22:06.480 | DM] Attack, Drogmar.\n"
+    },
+    "u2359": {
+      "before": "[u2359 | 03:26:51.930-03:27:02.400 | DM] {{jog Mar}} will attack. I'm gonna just leave these guys be over here. The vrock is. Gonna probably my.\n",
+      "after": "[u2359 | 03:26:51.930-03:27:02.400 | DM] Drogmar will attack. I'm gonna just leave these guys be over here. The vrock is. Gonna probably my.\n"
+    },
+    "u0464": {
+      "before": "[u0464 | 00:43:17.000-00:43:21.020 | DM] {{drugmar}} and {{choreograph}}.\n",
+      "after": "[u0464 | 00:43:17.000-00:43:21.020 | DM] Drogmar and Ghorgra.\n"
+    },
+    "u1773": {
+      "before": "[u1773 | 02:34:41.490-02:34:53.280 | DM] sorry not Murook. {{Garga}}. Now Murook is restrained, so she has disadvantage, but she already a disadvantage, and she will attack Kadmos.\n",
+      "after": "[u1773 | 02:34:41.490-02:34:53.280 | DM] sorry not Murook. Ghorgra. Now Murook is restrained, so she has disadvantage, but she already a disadvantage, and she will attack Kadmos.\n"
+    },
+    "u2326": {
+      "before": "[u2326 | 03:22:55.480-03:23:17.260 | Seeker] I, if I want to like, walk to the doorway, cast the spell, and also bonus action, healing word. Can I do all of those things? You can't cast 2 leveled spells in one turn. I see that, but I gave it. But but {{Drug Mars}} got a healing potion. So so the the king is okay. The king is okay, all right. So I will step\n",
+      "after": "[u2326 | 03:22:55.480-03:23:17.260 | Seeker] I, if I want to like, walk to the doorway, cast the spell, and also bonus action, healing word. Can I do all of those things? You can't cast 2 leveled spells in one turn. I see that, but I gave it. But but Drogmar got a healing potion. So so the the king is okay. The king is okay, all right. So I will step\n"
+    },
+    "u1876": {
+      "before": "[u1876 | 02:43:15.680-02:43:28.180 | DM] There's really nobody. He can get a shot at {{Drugmar}}, so he's going to take a shot at {{Drugmar}}. but that misses.\n",
+      "after": "[u1876 | 02:43:15.680-02:43:28.180 | DM] There's really nobody. He can get a shot at Drogmar, so he's going to take a shot at Drogmar. but that misses.\n"
+    },
+    "u2003": {
+      "before": "[u2003 | 02:55:43.980-02:55:51.460 | DM] Oh, no, sorry. Not on Murook, or whoever this is. {{Drummer}}. so that's\n",
+      "after": "[u2003 | 02:55:43.980-02:55:51.460 | DM] Oh, no, sorry. Not on Murook, or whoever this is. Drogmar. so that's\n"
+    },
+    "u2447": {
+      "before": "[u2447 | 03:34:11.090-03:34:21.910 | DM] {{drug mar}}. It is not so difficult to subdue Vargas. Valius runs off, he vanishes somewhere.\n",
+      "after": "[u2447 | 03:34:11.090-03:34:21.910 | DM] Drogmar. It is not so difficult to subdue Vargas. Valius runs off, he vanishes somewhere.\n"
+    },
+    "u1590": {
+      "before": "[u1590 | 02:19:45.290-02:19:50.089 | DM] {{Drugmart}} is going to move out of the room. 1, 2, 3\n",
+      "after": "[u1590 | 02:19:45.290-02:19:50.089 | DM] Drogmar is going to move out of the room. 1, 2, 3\n"
+    },
+    "u2210": {
+      "before": "[u2210 | 03:12:55.800-03:13:04.810 | DM] {{Evelina}} is now dead dead dead. Lubash fails a death saving throw. So he is now on 2 failed deaths.\n",
+      "after": "[u2210 | 03:12:55.800-03:13:04.810 | DM] Evelina is now dead dead dead. Lubash fails a death saving throw. So he is now on 2 failed deaths.\n"
+    },
+    "u2530": {
+      "before": "[u2530 | 03:41:53.860-03:42:02.689 | DM] She's alive. I spared her dying shirt, too. Vola {{Evelina}} is dead. The sorcerer woman is dead. Yeah. Vola and Antonia are\n",
+      "after": "[u2530 | 03:41:53.860-03:42:02.689 | DM] She's alive. I spared her dying shirt, too. Vola Evelina is dead. The sorcerer woman is dead. Yeah. Vola and Antonia are\n"
+    },
+    "u1263": {
+      "before": "[u1263 | 01:50:38.490-01:50:48.550 | DM] {{Drug Mars}} still waiting. Nothing he can do. The demonic creature flying in the air.\n",
+      "after": "[u1263 | 01:50:38.490-01:50:48.550 | DM] Drogmar still waiting. Nothing he can do. The demonic creature flying in the air.\n"
+    },
+    "u1294": {
+      "before": "[u1294 | 01:53:29.510-01:53:34.680 | DM] {{Avalina}} is going to make another death, saving throw where do we?\n",
+      "after": "[u1294 | 01:53:29.510-01:53:34.680 | DM] Evelina is going to make another death, saving throw where do we?\n"
+    },
+    "u1298": {
+      "before": "[u1298 | 01:53:46.960-01:53:49.720 | DM] as {{avalina}}\n",
+      "after": "[u1298 | 01:53:46.960-01:53:49.720 | DM] as Evelina\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:22:34.972629+00:00",
+      "sha256": "51e4cbc2b9d4e2a815a6bcd515adf5c03642013a61c63a2e3744bda2972e3244"
+    }
+  ],
+  "runId": "20261028T042234968090Z-877f432b",
+  "createdAt": "2026-10-28T04:22:34.968399+00:00"
+}

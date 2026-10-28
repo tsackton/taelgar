@@ -60,11 +60,11 @@
 [u0060 | 00:03:33.280-00:03:35.840 | DM] You also learn from Sura that a
 [u0061 | 00:03:36.180-00:03:38.020 | DM] another clone of
 [u0062 | 00:03:38.420-00:03:39.570 | DM] Wellby
-[u0063 | 00:03:39.680-00:03:44.530 | DM] rampaging across the {{Nebo Sea}} as a pirate, killing indiscriminately.
+[u0063 | 00:03:39.680-00:03:44.530 | DM] rampaging across the Nevos Sea as a pirate, killing indiscriminately.
 [u0064 | 00:03:44.910-00:03:46.659 | DM] and a clone of Rizwind
-[u0065 | 00:03:47.020-00:03:51.099 | DM] you learned from the dwarves of {{Darren. Toader}}
+[u0065 | 00:03:47.020-00:03:51.099 | DM] you learned from the dwarves of Tharn Todor
 [u0066 | 00:03:51.680-00:03:54.189 | DM] was a was a had come
-[u0067 | 00:03:54.420-00:04:00.680 | DM] into {{Tharntoder}}, the main dwarven city, apparently recruiting dwarves for some mission to the depths
+[u0067 | 00:03:54.420-00:04:00.680 | DM] into Tharn Todor, the main dwarven city, apparently recruiting dwarves for some mission to the depths
 [u0068 | 00:04:01.200-00:04:02.320 | DM] which you
 [u0069 | 00:04:02.550-00:04:05.270 | DM] inferred was a suicide mission.
 [u0070 | 00:04:07.740-00:04:13.669 | DM] and the common thread between all of these that you, Delwath, I think, pieced together from
@@ -112,7 +112,7 @@
 [u0112 | 00:06:48.810-00:06:50.080 | DM] So
 [u0113 | 00:06:50.440-00:06:52.029 | DM] as we begin.
 [u0114 | 00:06:52.880-00:06:58.309 | DM] you've got maybe 50 h of travel to go to the place where Kenzo sensed the jade.
-[u0115 | 00:06:58.440-00:07:07.080 | DM] Rizwind is gone. Having teleported to join the dwarves of {{Thorntoder}} and help deal with the Rizwind Doppelganger making trouble there.
+[u0115 | 00:06:58.440-00:07:07.080 | DM] Rizwind is gone. Having teleported to join the dwarves of Tharn Todor and help deal with the Rizwind Doppelganger making trouble there.
 [u0116 | 00:07:08.210-00:07:10.190 | DM] and Delwath is
 [u0117 | 00:07:10.250-00:07:12.589 | DM] now taking out his
 [u0118 | 00:07:12.830-00:07:14.840 | DM] scrying focus, his
@@ -415,7 +415,7 @@
 [u0415 | 00:25:32.570-00:25:32.980 | DM] Well, he can.
 [u0416 | 00:25:32.980-00:25:36.150 | Seeker] Is there anything he could, anything he could say to.
 [u0417 | 00:25:36.150-00:25:38.869 | DM] You have no idea where he is, because you used
-[u0418 | 00:25:39.040-00:25:45.339 | DM] magic Chanceweaver dice to place them in the correct location. He's in the {{Neva Sea}} somewhere.
+[u0418 | 00:25:39.040-00:25:45.339 | DM] magic Chanceweaver dice to place them in the correct location. He's in the Nevos Sea somewhere.
 [u0419 | 00:25:46.400-00:25:49.439 | Seeker] We'll see what's that like?
 [u0420 | 00:25:49.760-00:25:51.630 | Seeker] Was he one of the Chardon.
 [u0421 | 00:25:51.940-00:25:55.410 | Wellby] Who the attack in Chardon itself was pinned on.
@@ -458,7 +458,7 @@
 [u0458 | 00:28:01.090-00:28:02.560 | Seeker] Alright, that's your job.
 [u0459 | 00:28:02.760-00:28:04.039 | Kenzo] What else? What else?
 [u0460 | 00:28:04.660-00:28:08.310 | Wellby] Was there something? Was there something in Eloria we were looking for or wanted?
-[u0461 | 00:28:09.620-00:28:11.040 | Wellby] Island of the {{Nova Sea}}?
+[u0461 | 00:28:09.620-00:28:11.040 | Wellby] Island of the Nevos Sea?
 [u0462 | 00:28:11.440-00:28:12.770 | Seeker] Didn't we think the cloak was there?
 [u0463 | 00:28:12.770-00:28:13.820 | Delwath] Thought at 1 point.
 [u0464 | 00:28:13.820-00:28:14.990 | DM] Cloak was there.
@@ -1068,7 +1068,7 @@
 [u1068 | 01:02:44.840-01:02:48.689 | Wellby] Like stronger than the dragons. We killed strong.
 [u1069 | 01:02:49.800-01:02:50.410 | Seeker] Yeah.
 [u1070 | 01:02:51.980-01:02:52.500 | Seeker] 20.
-[u1071 | 01:02:52.500-01:02:53.770 | Delwath] 5 is like {{Shamu}}.
+[u1071 | 01:02:52.500-01:02:53.770 | Delwath] 5 is like Cha'mutte.
 [u1072 | 01:02:54.930-01:02:56.360 | DM] No, it's not quite.
 [u1073 | 01:02:56.360-01:02:57.850 | Delwath] Quite, but.
 [u1074 | 01:02:59.100-01:03:01.439 | Seeker] Why is it trapped? Then.
@@ -1404,7 +1404,7 @@
 [u1404 | 01:22:48.160-01:22:53.350 | DM] rubble, like cascading off the back of something that's trying to stand up, or something like that.
 [u1405 | 01:22:54.920-01:22:56.219 | Wellby] I'll try again in
 [u1406 | 01:22:56.980-01:22:58.800 | Wellby] the rest of my languages.
-[u1407 | 01:23:00.692-01:23:03.280 | Wellby] Dunmari, {{Estros}}, {{Erskine}}.
+[u1407 | 01:23:00.692-01:23:03.280 | Wellby] Dunmari, Eastros, Urskan.
 [u1408 | 01:23:06.610-01:23:08.439 | DM] Doesn't seem to
 [u1409 | 01:23:11.660-01:23:12.860 | DM] be
 [u1410 | 01:23:13.480-01:23:14.820 | DM] able to
@@ -3540,7 +3540,7 @@
 [u3540 | 03:17:39.810-03:17:40.480 | Seeker] Longer!
 [u3541 | 03:17:41.740-03:17:42.260 | Seeker] Oh!
 [u3542 | 03:17:42.260-03:17:46.079 | DM] Is like pacing back and forth, having an argument with
-[u3543 | 03:17:48.200-03:17:56.750 | DM] No, I guess {{Heather}} is gone, so he's like he's like standing like. Yes, give him. He's like saying, Give him 30 more minutes, I know they'll be back
+[u3543 | 03:17:48.200-03:17:56.750 | DM] No, I guess Kethra is gone, so he's like he's like standing like. Yes, give him. He's like saying, Give him 30 more minutes, I know they'll be back
 [u3544 | 03:17:57.710-03:17:58.390 | DM] to
 [u3545 | 03:17:59.397-03:18:01.909 | DM] to Amel like.
 [u3546 | 03:18:02.110-03:18:03.439 | DM] are you sure?

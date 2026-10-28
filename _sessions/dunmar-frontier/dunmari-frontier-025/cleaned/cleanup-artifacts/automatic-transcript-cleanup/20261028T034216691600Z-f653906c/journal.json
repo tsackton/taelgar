@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-025",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-025/cleaned/dunmari-frontier-025-source-cleaned.md",
+  "beforeSha256": "45f068b3b84bfb181eb0a9c248e1f8f0b42b52d98f0d2019591f817b4f2bfb6d",
+  "afterSha256": "78ceb89be0a3032a94c1ebd62f49bf096939bda12d06da35e1a1dc3dc867a164",
+  "markersBefore": 19,
+  "groups": [
+    {
+      "id": "grash-description-fragment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The fragment follows a description of Grash and may contain a title or ordinary descriptive wording. The inspected reference establishes Grash the Undying but does not establish a matching Grave King title; the complete replacement is uncertain.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Grash.md",
+          "sha256": "3d3dbf893416d0350386dbfc2639bc2dcc2431bdfea18dffc0ae43db37d9c484"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0352:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0352:m1": "{{grave can}}"
+      }
+    },
+    {
+      "id": "grash-warning",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "Kenzo is warning the monks about the same commander he names twice in this sentence; the surrounding exchange explicitly discusses their reaction to Grash. The reference and scrying record establish Grash. The isolated phonetic form is less clear, but this context strongly favors Grash over an unrelated identity.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Grash.md",
+          "sha256": "3d3dbf893416d0350386dbfc2639bc2dcc2431bdfea18dffc0ae43db37d9c484"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Scrying and Spying/Grash May 13th.md",
+          "sha256": "830c89cd95688af00118b0b8a66b2c48b49636fea86d1f9117052cf1ec3a3106"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u2188:m1"
+      ],
+      "replacements": {
+        "u2188:m1": "Grash"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "monastery-people-fragment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "This refers generally to people encountered at the monastery. Karmana is plausible, but the complete marked phrase also contains unclear surrounding wording; replacing it with a name would reconstruct or discard that wording.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Karmana.md",
+          "sha256": "b73ada2fba7f17758ee93df2be2c0d49bf1c49a765d8a0c8654579f76fe6e4f3"
+        }
+      ],
+      "candidates": [
+        "Karmana"
+      ],
+      "markerIds": [
+        "u0340:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0340:m1": "{{A man and Dudes}}"
+      }
+    },
+    {
+      "id": "ordinary-wording-and-mechanics",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "These are damaged ordinary descriptions, dialogue, gestures, travel distances, or combat and rules wording. Context does not establish a complete name or setting-term replacement; repairing them would require prose or mechanics reconstruction outside names-v1.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0049:m1",
+        "u0093:m1",
+        "u0121:m1",
+        "u0165:m1",
+        "u0241:m1",
+        "u0242:m1",
+        "u0843:m1",
+        "u1023:m1",
+        "u1089:m1",
+        "u1158:m1",
+        "u1270:m1",
+        "u1606:m1",
+        "u1796:m1",
+        "u1982:m1",
+        "u2204:m1",
+        "u2216:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0049:m1": "{{all that you want to find more shorter}}",
+        "u0093:m1": "{{date and the name}}",
+        "u0121:m1": "{{route that plasters lay off}}",
+        "u0165:m1": "{{try out}}",
+        "u0241:m1": "{{chef}}",
+        "u0242:m1": "{{To have the interaction}}",
+        "u0843:m1": "{{Breaking}}",
+        "u1023:m1": "{{one day}}",
+        "u1089:m1": "{{at thousand said}}",
+        "u1158:m1": "{{Allah Allah Allah Boston}}",
+        "u1270:m1": "{{horses}}",
+        "u1606:m1": "{{justice}}",
+        "u1796:m1": "{{150 miles and another 260 miles from}}",
+        "u1982:m1": "{{of rest times}}",
+        "u2204:m1": "{{amount of time}}",
+        "u2216:m1": "{{vacation session}}"
+      }
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u2188:m1",
+      "uid": "u2188",
+      "ordinal": 1,
+      "lineNumber": 2188,
+      "start": 228,
+      "end": 238,
+      "before": "{{roshan}}",
+      "span": "roshan",
+      "line": "[u2188 | 02:58:02.430-02:58:11.640 | Kenzo] I guess the last minute ride with that with that you know Pava and Avaras is just like warning them about just telling them about Grash you know talking to my battle thing like we saw {{roshan}}.",
+      "contextBefore": [
+        "[u2186 | 02:57:59.970-02:58:01.230 | Seeker] see where the tokens to better.",
+        "[u2187 | 02:58:01.440-02:58:02.310 | Wellby] versus yeah."
+      ],
+      "contextAfter": [
+        "[u2189 | 02:58:12.120-02:58:21.600 | Kenzo] Just to be aware of the the feud with the orcs and right, you know, and especially if they're still looking that if they're still looking for this treasure than that, whatever that treasure is.",
+        "[u2190 | 02:58:22.860-02:58:32.880 | Kenzo] That the orcs are likely to still still be you know marauding around and right and did you have any do you have any reaction to that are they like oh shit that's scary or are they like Oh, this is not."
+      ],
+      "after": "Grash",
+      "group": "grash-warning",
+      "confidence": "supported"
+    }
+  ],
+  "lines": {
+    "u2188": {
+      "before": "[u2188 | 02:58:02.430-02:58:11.640 | Kenzo] I guess the last minute ride with that with that you know Pava and Avaras is just like warning them about just telling them about Grash you know talking to my battle thing like we saw {{roshan}}.\n",
+      "after": "[u2188 | 02:58:02.430-02:58:11.640 | Kenzo] I guess the last minute ride with that with that you know Pava and Avaras is just like warning them about just telling them about Grash you know talking to my battle thing like we saw Grash.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T03:42:16.695615+00:00",
+      "sha256": "78ceb89be0a3032a94c1ebd62f49bf096939bda12d06da35e1a1dc3dc867a164"
+    }
+  ],
+  "runId": "20261028T034216691600Z-f653906c",
+  "createdAt": "2026-10-28T03:42:16.691919+00:00"
+}

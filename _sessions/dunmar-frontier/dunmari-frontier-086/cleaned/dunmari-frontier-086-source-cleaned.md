@@ -1229,7 +1229,7 @@
 [u1229 | 02:00:21.860-02:00:25.169 | Delwath] Not. I don't think we need invisibility.
 [u1230 | 02:00:25.280-02:00:27.119 | Kenzo] I can always cast it right?
 [u1231 | 02:00:28.980-02:00:31.499 | DM] Okay, well, let's move it along.
-[u1232 | 02:00:34.470-02:00:38.650 | Delwath] So I'm doing whatever you're doing, {{blasting up perception}} so I can see invisible.
+[u1232 | 02:00:34.470-02:00:38.650 | Delwath] So I'm doing whatever you're doing, Blessing of Perception so I can see invisible.
 [u1233 | 02:00:38.890-02:00:41.650 | Delwath] And I'm doing Armor of Agathys.
 [u1234 | 02:00:41.880-02:00:42.670 | DM] Okay.
 [u1235 | 02:00:45.920-02:00:51.009 | Seeker] And then you push open the door by taking a deep breath.
@@ -1517,7 +1517,7 @@
 [u1517 | 02:26:18.820-02:26:19.940 | Seeker] but I'm near the door.
 [u1518 | 02:26:20.300-02:26:30.099 | Seeker] Prepare attack, prepare ready attacks, ready attacks, right like. Oh, man! Ready! What though?
 [u1519 | 02:26:31.490-02:26:33.450 | DM] Well, you can't ready, I mean, you can't.
-[u1520 | 02:26:33.790-02:26:42.149 | Kenzo] You roll initiative. Yeah, I don't mean like, yeah, crack like, like, Oh, I I blow the {{Brittany's}} whistle so I can fly. At least
+[u1520 | 02:26:33.790-02:26:42.149 | Kenzo] You roll initiative. Yeah, I don't mean like, yeah, crack like, like, Oh, I I blow the Raven's whistle so I can fly. At least
 [u1521 | 02:26:43.820-02:26:48.919 | Seeker] that's not a bad idea. Oh, my damn! Spell slots are messed up! Oh, tap my Boots of Speed.
 [u1522 | 02:26:50.200-02:26:54.740 | Kenzo] {{I've only kept. I also}} fire resistance useful against Drusilia.
 [u1523 | 02:26:55.320-02:27:00.690 | Kenzo] I'm gonna get ready to soul-sight, too, with you just to learn whatever the fuck I can about Drusilia.

@@ -703,12 +703,12 @@
 [u0703 | 00:57:44.940-00:57:48.210 | DM] {{place}}, I think, like that's definitely something you could try
 [u0704 | 00:57:48.370-00:57:49.980 | Seeker] so I could use
 [u0705 | 00:57:53.400-00:57:56.020 | Seeker] healing word. maybe.
-[u0706 | 00:57:58.120-00:58:03.370 | Seeker] and channel it through your {{comment}} and channel it to the {{call it}}, and convert healing word to an earth
+[u0706 | 00:57:58.120-00:58:03.370 | Seeker] and channel it through your gauntlet and channel it to the gauntlet, and convert healing word to an earth
 [u0707 | 00:58:03.620-00:58:05.730 | Seeker] element. spell
 [u0708 | 00:58:07.300-00:58:08.880 | Kenzo] or stone element.
 [u0709 | 00:58:11.000-00:58:12.710 | Seeker] Stone healing.
 [u0710 | 00:58:14.220-00:58:17.870 | Delwath] I mean. We could try mending, too. That didn't seem like a bad idea to me.
-[u0711 | 00:58:18.850-00:58:23.150 | Wellby] Can you channel other people's spells to the {{kind of}}, like the one of Riswynn's more.
+[u0711 | 00:58:18.850-00:58:23.150 | Wellby] Can you channel other people's spells to the gauntlet, like the one of Riswynn's more.
 [u0712 | 00:58:23.180-00:58:23.900 | Wellby] Okay.
 [u0713 | 00:58:24.780-00:58:25.660 | Seeker] Hmm.
 [u0714 | 00:58:29.460-00:58:34.060 | Seeker] We do both at the same time and never know which one actually did. It. in fact
@@ -853,7 +853,7 @@
 [u0853 | 01:10:29.560-01:10:35.740 | Wellby] We have. We have Sending spells, too, I mean, we could ask.
 [u0854 | 01:10:35.960-01:10:39.470 | Seeker] Wait, Wait! No, it's. I can describe the book.
 [u0855 | 01:10:51.430-01:10:52.870 | Riswynn] Who did we sell it to?
-[u0856 | 01:10:54.630-01:11:00.380 | DM] You Sold it to a bookseller, and in {{yeah garb}}, I'd have to take a short rest, but we could take a short rest.
+[u0856 | 01:10:54.630-01:11:00.380 | DM] You Sold it to a bookseller, and in Darba, I'd have to take a short rest, but we could take a short rest.
 [u0857 | 01:11:00.560-01:11:01.420 | Kenzo] That's it.
 [u0858 | 01:11:02.610-01:11:04.400 | Seeker] That's funny. Nice.
 [u0859 | 01:11:04.450-01:11:06.890 | Kenzo] Yeah, let's short rest. Scry the book.
@@ -962,7 +962,7 @@
 [u0962 | 01:21:42.240-01:21:43.290 | Seeker] No nice
 [u0963 | 01:21:43.440-01:21:49.650 | DM] that's I do have 2 laptops. I just brought my work.
 [u0964 | 01:21:57.650-01:22:13.570 | Kenzo] Is there another librarian that we know Tim, is this the type of book that would be in in either any of the libraries that are monasteries that Kenzo is aware of like in the you know Shakun, is this like a Shakun type thing, a Lakan Monastery type thing.
-[u0965 | 01:22:16.960-01:22:29.880 | DM] There's a decent chance that that {{a C.}} Would have a would know would have a copy in the the the library at the
+[u0965 | 01:22:16.960-01:22:29.880 | DM] There's a decent chance that that Kassi Would have a would know would have a copy in the the the library at the
 [u0966 | 01:22:29.960-01:22:31.660 | DM] Lakan Monastery.
 [u0967 | 01:22:32.080-01:22:35.290 | Kenzo] It's
 [u0968 | 01:22:39.500-01:22:40.770 | Kenzo] reason for that.
@@ -1272,7 +1272,7 @@
 [u1272 | 01:49:23.110-01:49:23.720 | Unknown] No.
 [u1273 | 01:49:26.560-01:49:27.660 | Unknown] What was this?
 [u1274 | 01:49:28.810-01:49:31.330 | DM] I was during the the reign of
-[u1275 | 01:49:31.750-01:49:33.970 | DM] {{our door, the out}}
+[u1275 | 01:49:31.750-01:49:33.970 | DM] Alador the Elf Friend
 [u1276 | 01:49:39.850-01:49:40.800 | DM] he
 [u1277 | 01:49:42.660-01:49:46.710 | Unknown] he had made Drankor a safe place for many
 [u1278 | 01:49:51.270-01:49:53.310 | DM] elves, dwarves

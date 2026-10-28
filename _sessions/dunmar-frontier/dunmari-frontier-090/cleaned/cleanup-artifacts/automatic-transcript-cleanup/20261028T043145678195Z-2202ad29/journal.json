@@ -1,0 +1,1129 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-090",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-090/cleaned/dunmari-frontier-090-source-cleaned.md",
+  "beforeSha256": "db805b06f659a55d0d1d3e6c63a1b613ac4f1dd000e68f42556027c330b1fc41",
+  "afterSha256": "c93994049e4a2f76511d073135c991c5f96d8a08a4bdc91145754058a536a7b0",
+  "markersBefore": 88,
+  "groups": [
+    {
+      "id": "amil-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Amil is named outside this marker and fits the question, but the marked words may contain repeated naming plus ordinary speech; the complete span cannot safely become only his name.",
+      "evidence": [],
+      "candidates": [
+        "Amil"
+      ],
+      "markerIds": [
+        "u0567:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0567:m1": "{{I'm almost}}"
+      }
+    },
+    {
+      "id": "apollyon-fragment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The story concerns Apollyon, but this short trailing fragment may include an ordinary connective or interrupted utterance; the full marked reading is unclear.",
+      "evidence": [],
+      "candidates": [
+        "Apollyon"
+      ],
+      "markerIds": [
+        "u0625:m2"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0625:m2": "{{So Paul.}}"
+      }
+    },
+    {
+      "id": "badya",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The adjoining discussion of Yarad and the historical samraat strongly favors Badya rather than Bhara; the source establishes the historical name.",
+      "evidence": [
+        {
+          "path": "_DM_/_Dunmari Frontier/Session 83-97 (Ursk)/Session 84 - Dunmar Notes.md",
+          "sha256": "e344aa1d7f4a2ed50bcaaf1cd6b06d7b2c2ef24be64b7c3dce23373183817249"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0845:m1",
+        "u0853:m1"
+      ],
+      "replacements": {
+        "u0845:m1": "Badya",
+        "u0853:m1": "Badya"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "delwath-shield",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The downtime discussion concerns repairing a shield; the linked shield record identifies Delwath’s shield and its enhancement in this session. The sound of that was strongly favors Delwath’s in this position. Other party shields are a less specific alternative.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Treasure/Deno'qai Lynx Shield.md",
+          "sha256": "53dcc9600f117a982fbd0ac4ecf1d5ee8bd35ae013f837f2dd7cce48c16d3ad1"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 90 (DuFr).md",
+          "sha256": "77420e1d438a927c47d3345f824e9daa36c56d41de5223d324f24843173b94d7"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1875:m1"
+      ],
+      "replacements": {
+        "u1875:m1": "Delwath's"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "elder-tree-place",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The speaker contrasts Tokra with an elven elder tree, but the marked form may include a spoken correction; choosing a place would risk replacing a mistake or reconstructing words.",
+      "evidence": [],
+      "candidates": [
+        "Tokra",
+        "Orenlas"
+      ],
+      "markerIds": [
+        "u0572:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0572:m1": "{{Tokraath}}"
+      }
+    },
+    {
+      "id": "faldrak",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The aged dwarf aboard Vindristjarna, his stone bird, and the discussion of ship command consistently identify Faldrak; the reference establishes his spelling.",
+      "evidence": [
+        {
+          "path": "People/Dwarves/Faldrak Bronzehammer.md",
+          "sha256": "acc84074e61bbc9c04335b27d34949f0b550876371ed34647295fb37d360adac"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0051:m1",
+        "u0061:m1",
+        "u1063:m1",
+        "u1080:m1",
+        "u1082:m1",
+        "u1925:m1"
+      ],
+      "replacements": {
+        "u0051:m1": "Faldrak",
+        "u0061:m1": "Faldrak",
+        "u1063:m1": "Faldrak",
+        "u1080:m1": "Faldrak",
+        "u1082:m1": "Faldrak",
+        "u1925:m1": "Faldrak"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "faldrak-address",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "This reply continues the direct discussion with Faldrak about leaving him aboard the ship without its controls; the surrounding turns strongly favor his name over the ordinary noun father.",
+      "evidence": [
+        {
+          "path": "People/Dwarves/Faldrak Bronzehammer.md",
+          "sha256": "acc84074e61bbc9c04335b27d34949f0b550876371ed34647295fb37d360adac"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1067:m1"
+      ],
+      "replacements": {
+        "u1067:m1": "Faldrak"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "grash-new-year-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The surrounding discussion identifies Grash, but the marked span also contains damaged New Year dialogue; repairing it requires sentence reconstruction.",
+      "evidence": [],
+      "candidates": [
+        "Grash"
+      ],
+      "markerIds": [
+        "u1194:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1194:m1": "{{bring in New York. I kill him. Josh}}"
+      }
+    },
+    {
+      "id": "highkeep",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "This is Seeker’s clan designation in his formal introduction; Darakan identifies his Highkeep membership.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Central Highlands/Dwarven Kingdoms/Darakan.md",
+          "sha256": "413d4d4d4e8c317a27c7c3e2f3f4c9b023c5c4b9c24658ea3c102c15748c0ebc"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1365:m1"
+      ],
+      "replacements": {
+        "u1365:m1": "Highkeep"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "karnas-letter-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Karnas is plausible at the start, but the rest of the marked sentence is damaged and cannot be replaced with a plain name.",
+      "evidence": [],
+      "candidates": [
+        "Karnas"
+      ],
+      "markerIds": [
+        "u1327:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1327:m1": "{{Carnice gets to do with us for the big deal}}"
+      }
+    },
+    {
+      "id": "karnas-peace-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The surrounding turn concerns Karnas, but the marked span may contain both a repeated name and connecting wording; the whole span cannot be recovered as just a name.",
+      "evidence": [],
+      "candidates": [
+        "Karnas"
+      ],
+      "markerIds": [
+        "u0465:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0465:m1": "{{and Carnival}}"
+      }
+    },
+    {
+      "id": "lara",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Speaker Lara is the Lakan leader discussed in connection with divine guidance and negotiations.",
+      "evidence": [
+        {
+          "path": "People/Dunmari/Lara.md",
+          "sha256": "a944b267d58900b33e12193e1e529dd2440cce1ec1fdcecdeb8194e4a468a7b2"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0310:m1"
+      ],
+      "replacements": {
+        "u0310:m1": "Lara"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "nayan-question-fragment",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The speaker searches for the prior Nayan’s identity and says Marathu next; service may instead be part of a reference to Sura. The marked span is not securely a complete name.",
+      "evidence": [],
+      "candidates": [
+        "Marathu",
+        "Sura's"
+      ],
+      "markerIds": [
+        "u1313:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1313:m1": "{{service}}"
+      }
+    },
+    {
+      "id": "ordinary-wording",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "These markers concern dates, ordinary dialogue and table chatter, rules or technology, or damaged sentence wording rather than a recoverable complete name or setting term. Retain each marked span verbatim; sentence reconstruction is outside names-v1.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u0003:m1",
+        "u0011:m1",
+        "u0065:m1",
+        "u0127:m1",
+        "u0152:m1",
+        "u0287:m1",
+        "u0288:m1",
+        "u0300:m1",
+        "u0334:m1",
+        "u0339:m1",
+        "u0343:m1",
+        "u0410:m1",
+        "u0411:m1",
+        "u0439:m1",
+        "u0466:m1",
+        "u0490:m1",
+        "u0539:m1",
+        "u0575:m1",
+        "u0625:m1",
+        "u0645:m1",
+        "u0647:m1",
+        "u0647:m2",
+        "u0649:m1",
+        "u0663:m1",
+        "u0726:m1",
+        "u0748:m1",
+        "u0764:m1",
+        "u0769:m1",
+        "u0915:m1",
+        "u0918:m1",
+        "u0924:m1",
+        "u0943:m1",
+        "u1010:m1",
+        "u1119:m1",
+        "u1169:m1",
+        "u1179:m1",
+        "u1197:m1",
+        "u1221:m1",
+        "u1282:m1",
+        "u1347:m1",
+        "u1411:m1",
+        "u1415:m1",
+        "u1463:m1",
+        "u1470:m1",
+        "u1535:m1",
+        "u1585:m1",
+        "u1652:m1",
+        "u1671:m1",
+        "u1673:m1",
+        "u1711:m1",
+        "u1715:m1",
+        "u1730:m1",
+        "u1749:m1",
+        "u1861:m1",
+        "u1871:m1",
+        "u1967:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0003:m1": "{{January.}}",
+        "u0011:m1": "{{lifeblood of the life}}",
+        "u0065:m1": "{{through the company teleport to the road}}",
+        "u0127:m1": "{{rose.}}",
+        "u0152:m1": "{{offer to. I want}}",
+        "u0287:m1": "{{What if his advice}}",
+        "u0288:m1": "{{plus that's the game in his court}}",
+        "u0300:m1": "{{set you there}}",
+        "u0334:m1": "{{or Paul}}",
+        "u0339:m1": "{{Oh, funny fuck, yeah. I insert}}",
+        "u0343:m1": "{{Internet}}",
+        "u0410:m1": "{{or inside your own}}",
+        "u0411:m1": "{{such as a letter}}",
+        "u0439:m1": "{{who we trust, sir}}",
+        "u0466:m1": "{{Remove it}}",
+        "u0490:m1": "{{but also to both sides, are likely to success}}",
+        "u0539:m1": "{{some hide}}",
+        "u0575:m1": "{{next of that truth}}",
+        "u0625:m1": "{{You gotta start ringing is gonna be doing}}",
+        "u0645:m1": "{{Russ. when everything about that}}",
+        "u0647:m1": "{{didn't we word about it}}",
+        "u0647:m2": "{{We scrivens}}",
+        "u0649:m1": "{{They like caught up sounds great}}",
+        "u0663:m1": "{{we just call you outside Johar here}}",
+        "u0726:m1": "{{no one to tell anybody}}",
+        "u0748:m1": "{{get the word}}",
+        "u0764:m1": "{{till to wait till by who}}",
+        "u0769:m1": "{{for this flipboard}}",
+        "u0915:m1": "{{Chardonian and trading}}",
+        "u0918:m1": "{{this}}",
+        "u0924:m1": "{{can't keep. Just simply want me}}",
+        "u0943:m1": "{{Whoever showed me I was}}",
+        "u1010:m1": "{{appropriate first}}",
+        "u1119:m1": "{{your story}}",
+        "u1169:m1": "{{fancy fed already. Better by fancy}}",
+        "u1179:m1": "{{whiteboard.}}",
+        "u1197:m1": "{{just this line}}",
+        "u1221:m1": "{{as a watch hotter mask there}}",
+        "u1282:m1": "{{blue dive floating}}",
+        "u1347:m1": "{{prices}}",
+        "u1411:m1": "{{who is not these people}}",
+        "u1415:m1": "{{close anonymity}}",
+        "u1463:m1": "{{Does, Erica}}",
+        "u1470:m1": "{{Well, we've had to fix my sister from me. which is not seen}}",
+        "u1535:m1": "{{do like}}",
+        "u1585:m1": "{{should be open}}",
+        "u1652:m1": "{{on Google}}",
+        "u1671:m1": "{{dress}}",
+        "u1673:m1": "{{A lab}}",
+        "u1711:m1": "{{as yowls bye, bye, though}}",
+        "u1715:m1": "{{hard playing like Rudy to the army}}",
+        "u1730:m1": "{{all of that}}",
+        "u1749:m1": "{{from Moshe}}",
+        "u1861:m1": "{{That's not coaching at the}}",
+        "u1871:m1": "{{where}}",
+        "u1967:m1": "{{ever stop with that}}"
+      }
+    },
+    {
+      "id": "river-names",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "The dialogue explicitly distinguishes the Orcish and Elvish names of the same river; the river reference establishes both spellings.",
+      "evidence": [
+        {
+          "path": "Gazetteer/Major Rivers/Istaros Watershed/Istaros.md",
+          "sha256": "21cff1c604a2c0f0f41c41db2109a432b7ceff2ded07ff1249c433cf6e8daffa"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0010:m1",
+        "u0010:m2"
+      ],
+      "replacements": {
+        "u0010:m1": "Drogar",
+        "u0010:m2": "Aistanë"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "samantha-title",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "Samraat is plausible in the king discussion, but Go away may be an aside addressing someone outside the game; the context does not uniquely distinguish the title from a personal name.",
+      "evidence": [],
+      "candidates": [
+        "Samraat",
+        "Samantha"
+      ],
+      "markerIds": [
+        "u1637:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1637:m1": "{{Samantha}}"
+      }
+    },
+    {
+      "id": "ship-pronunciation-phrase",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "The ship is identified immediately afterward, but the marked span includes unrecoverable surrounding wording and pronunciation chatter; a plain name substitution would erase that speech.",
+      "evidence": [],
+      "candidates": [
+        "Vindristjarna"
+      ],
+      "markerIds": [
+        "u0203:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0203:m1": "{{to finish, your honor, our luck pronounce it pronunciation}}"
+      }
+    },
+    {
+      "id": "sonkar-term",
+      "action": "review",
+      "confidence": "unresolved",
+      "reason": "A religious group or role is intended, but analysts could represent more than one term; mystai is plausible without a sufficiently clear complete reading.",
+      "evidence": [],
+      "candidates": [
+        "mystai"
+      ],
+      "markerIds": [
+        "u0488:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0488:m1": "{{analysts}}"
+      }
+    },
+    {
+      "id": "sura-stone",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The party has just decided to contact Sura by sending stone, and the immediately following message addresses her by name; Pastora strongly favors a recognition error for Sura here.",
+      "evidence": [
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 90 (DuFr).md",
+          "sha256": "77420e1d438a927c47d3345f824e9daa36c56d41de5223d324f24843173b94d7"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0136:m1"
+      ],
+      "replacements": {
+        "u0136:m1": "Sura"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "tanshi",
+      "action": "replace",
+      "confidence": "high",
+      "reason": "Delwath is praying to and receiving answers from the small gods; later references explicitly recall the same questions. The religious reference establishes tanshi.",
+      "evidence": [
+        {
+          "path": "Gods and Religions/Gods/Tanshi/Tanshi.md",
+          "sha256": "3b3948c1c28301bde5d69129004d17cf2a6dd748ad62cdcec8907b9cd1d7dc7f"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 90 (DuFr).md",
+          "sha256": "77420e1d438a927c47d3345f824e9daa36c56d41de5223d324f24843173b94d7"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1013:m1",
+        "u1022:m1",
+        "u1052:m1",
+        "u1312:m1",
+        "u1660:m1",
+        "u1663:m1"
+      ],
+      "replacements": {
+        "u1013:m1": "tanshi",
+        "u1022:m1": "tanshi",
+        "u1052:m1": "tanshi",
+        "u1312:m1": "tanshi",
+        "u1660:m1": "tanshi",
+        "u1663:m1": "tanshi"
+      },
+      "retainedSpans": {}
+    },
+    {
+      "id": "umli",
+      "action": "replace",
+      "confidence": "supported",
+      "reason": "The Tollen downtime recap mentions collecting completed equipment; the session record identifies Umli as its maker and supplier. The clipped league reading strongly favors Umli in this context.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Umli.md",
+          "sha256": "aad4c01499bc35f5adc5b7ef596f06d225cff0beec240c6d48c3f5f512b9bd76"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 90 (DuFr).md",
+          "sha256": "77420e1d438a927c47d3345f824e9daa36c56d41de5223d324f24843173b94d7"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u1902:m1"
+      ],
+      "replacements": {
+        "u1902:m1": "Umli"
+      },
+      "retainedSpans": {}
+    }
+  ],
+  "changes": [
+    {
+      "markerId": "u0010:m1",
+      "uid": "u0010",
+      "ordinal": 1,
+      "lineNumber": 10,
+      "start": 76,
+      "end": 86,
+      "before": "{{Drugar}}",
+      "span": "Drugar",
+      "line": "[u0010 | 00:01:04.280-00:01:13.550 | DM] further east. the Maha, called the {{Drugar}}, by the Orcs. the {{Eistana}}, by the elves, and many other names, the famous river of Drankor.",
+      "contextBefore": [
+        "[u0008 | 00:00:48.950-00:00:52.050 | DM] and further east the Maha, called",
+        "[u0009 | 00:00:53.180-00:00:58.579 | DM] oops. What do you need? A zoom link? I got it"
+      ],
+      "contextAfter": [
+        "[u0011 | 00:01:14.010-00:01:16.609 | DM] the {{lifeblood of the life}}.",
+        "[u0012 | 00:01:21.240-00:01:26.140 | DM] now the center of the desolation of Cha'mutte."
+      ],
+      "after": "Drogar",
+      "group": "river-names",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0010:m2",
+      "uid": "u0010",
+      "ordinal": 2,
+      "lineNumber": 10,
+      "start": 105,
+      "end": 116,
+      "before": "{{Eistana}}",
+      "span": "Eistana",
+      "line": "[u0010 | 00:01:04.280-00:01:13.550 | DM] further east. the Maha, called the {{Drugar}}, by the Orcs. the {{Eistana}}, by the elves, and many other names, the famous river of Drankor.",
+      "contextBefore": [
+        "[u0008 | 00:00:48.950-00:00:52.050 | DM] and further east the Maha, called",
+        "[u0009 | 00:00:53.180-00:00:58.579 | DM] oops. What do you need? A zoom link? I got it"
+      ],
+      "contextAfter": [
+        "[u0011 | 00:01:14.010-00:01:16.609 | DM] the {{lifeblood of the life}}.",
+        "[u0012 | 00:01:21.240-00:01:26.140 | DM] now the center of the desolation of Cha'mutte."
+      ],
+      "after": "Aistanë",
+      "group": "river-names",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0051:m1",
+      "uid": "u0051",
+      "ordinal": 1,
+      "lineNumber": 51,
+      "start": 41,
+      "end": 52,
+      "before": "{{Aldrich}}",
+      "span": "Aldrich",
+      "line": "[u0051 | 00:06:17.340-00:06:19.859 | DM] {{Aldrich}}, the old dwarf.",
+      "contextBefore": [
+        "[u0049 | 00:06:11.290-00:06:13.960 | DM] Both traveling from",
+        "[u0050 | 00:06:14.070-00:06:16.870 | DM] Uzgukhar with you? And finally, of course."
+      ],
+      "contextAfter": [
+        "[u0052 | 00:06:20.900-00:06:30.120 | DM] over 200 now, with a graying beard, but sharp eyes, wearing garish clothes, decorated with a multitude of trinkets.",
+        "[u0053 | 00:06:30.760-00:06:39.980 | DM] limping on his silver cane, and constantly tending to his flying stone bird, occasionally belches out an ineffectual burst of flame as he encourages it."
+      ],
+      "after": "Faldrak",
+      "group": "faldrak",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0061:m1",
+      "uid": "u0061",
+      "ordinal": 1,
+      "lineNumber": 61,
+      "start": 66,
+      "end": 78,
+      "before": "{{Fuldrick}}",
+      "span": "Fuldrick",
+      "line": "[u0061 | 00:07:09.230-00:07:17.370 | Delwath] we'll need to leave {{Fuldrick}} in charge of the ship. I'm realizing we're not ready for that. Is he ready for that? Are we ready for that? Are you ready for that seeker",
+      "contextBefore": [
+        "[u0059 | 00:07:01.840-00:07:06.340 | Delwath] by ship or teleport ship? It's only a couple of days right.",
+        "[u0060 | 00:07:07.170-00:07:08.870 | Seeker] If we teleport"
+      ],
+      "contextAfter": [
+        "[u0062 | 00:07:18.740-00:07:20.339 | Seeker] knowing any authority tonight.",
+        "[u0063 | 00:07:24.050-00:07:27.419 | Seeker] You're taking the shift whilst, don't we?"
+      ],
+      "after": "Faldrak",
+      "group": "faldrak",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0136:m1",
+      "uid": "u0136",
+      "ordinal": 1,
+      "lineNumber": 136,
+      "start": 233,
+      "end": 244,
+      "before": "{{Pastora}}",
+      "span": "Pastora",
+      "line": "[u0136 | 00:14:46.820-00:15:02.159 | Kenzo] Do we have to distinguish between other flying castles? I mean, also like growing like, you know, elven tree in the middle. all sorts of this kind of thing. I'm happy to sending stone with {{Pastora}}. Yeah.",
+      "contextBefore": [
+        "[u0134 | 00:14:27.470-00:14:37.559 | Delwath] maybe you should have called ahead. We need like a a banner. We need like a a big banner that we can fly. So people know it's us",
+        "[u0135 | 00:14:38.000-00:14:46.450 | Kenzo] well pretty soon, I mean, you know, this is the first time seeing us now in Tollen, you know, like we're cool, you know. I mean, we're we're gonna our record, our reputation."
+      ],
+      "contextAfter": [
+        "[u0137 | 00:15:04.050-00:15:06.919 | Kenzo] what do you say, Bee? Beep up.",
+        "[u0138 | 00:15:08.000-00:15:10.060 | Kenzo] Bring"
+      ],
+      "after": "Sura",
+      "group": "sura-stone",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0310:m1",
+      "uid": "u0310",
+      "ordinal": 1,
+      "lineNumber": 310,
+      "start": 78,
+      "end": 87,
+      "before": "{{Laura}}",
+      "span": "Laura",
+      "line": "[u0310 | 00:30:19.840-00:30:22.620 | Kenzo] spoken several times with Speaker {{Laura}}.",
+      "contextBefore": [
+        "[u0308 | 00:29:56.530-00:30:02.739 | Delwath] the temple heads, I guess. Why have you not summoned them.",
+        "[u0309 | 00:30:18.620-00:30:19.550 | DM] I have"
+      ],
+      "contextAfter": [
+        "[u0311 | 00:30:28.430-00:30:30.020 | DM] She has.",
+        "[u0312 | 00:30:32.210-00:30:33.790 | Kenzo] The gods are"
+      ],
+      "after": "Lara",
+      "group": "lara",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u0845:m1",
+      "uid": "u0845",
+      "ordinal": 1,
+      "lineNumber": 845,
+      "start": 47,
+      "end": 58,
+      "before": "{{Baghdad}}",
+      "span": "Baghdad",
+      "line": "[u0845 | 01:22:00.610-01:22:03.630 | DM] Nayan {{Baghdad}}, the samraat",
+      "contextBefore": [
+        "[u0843 | 01:21:50.640-01:21:55.550 | DM] Yes, of course.",
+        "[u0844 | 01:21:56.720-01:22:00.200 | DM] she murdered supposedly"
+      ],
+      "contextAfter": [
+        "[u0846 | 01:22:04.690-01:22:08.790 | DM] in the 16.",
+        "[u0847 | 01:22:08.840-01:22:20.259 | DM] Well, he would say, in the Dunmari years, but I don't have my calculator up yet. Sorry I stopped my Javascript project on that one. That's okay."
+      ],
+      "after": "Badya",
+      "group": "badya",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u0853:m1",
+      "uid": "u0853",
+      "ordinal": 1,
+      "lineNumber": 853,
+      "start": 59,
+      "end": 67,
+      "before": "{{Baja}}",
+      "span": "Baja",
+      "line": "[u0853 | 01:22:55.810-01:23:01.250 | DM] ruler. Perhaps if {{Baja}} had lived",
+      "contextBefore": [
+        "[u0851 | 01:22:41.990-01:22:46.070 | DM] despite his involvement in the yeah",
+        "[u0852 | 01:22:46.950-01:22:54.630 | DM] exile of the fraternity of the empty moon from Tokra was not, as far as I've read, a particularly skilled"
+      ],
+      "contextAfter": [
+        "[u0854 | 01:23:02.960-01:23:06.400 | DM] and Yarad could have solely",
+        "[u0855 | 01:23:06.430-01:23:09.299 | DM] fought the battles instead of"
+      ],
+      "after": "Badya",
+      "group": "badya",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1013:m1",
+      "uid": "u1013",
+      "ordinal": 1,
+      "lineNumber": 1013,
+      "start": 76,
+      "end": 85,
+      "before": "{{tachi}}",
+      "span": "tachi",
+      "line": "[u1013 | 01:39:39.600-01:39:41.990 | Delwath] I'm gonna also go pray to the {{tachi}}.",
+      "contextBefore": [
+        "[u1011 | 01:39:30.380-01:39:37.019 | Delwath] Chardon is just one of Apollyon's fingers. Yeah, so we gotta go, you know. Like, let's let's do Chardon first, and then we'll",
+        "[u1012 | 01:39:37.170-01:39:39.210 | Kenzo] build up a strength and then and then"
+      ],
+      "contextAfter": [
+        "[u1014 | 01:39:42.010-01:39:47.339 | Delwath] Now I'm gonna use my contact. Other plane feature that I now have to ask the 5 questions.",
+        "[u1015 | 01:39:47.860-01:39:48.970 | DM] Okay?"
+      ],
+      "after": "tanshi",
+      "group": "tanshi",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1022:m1",
+      "uid": "u1022",
+      "ordinal": 1,
+      "lineNumber": 1022,
+      "start": 68,
+      "end": 77,
+      "before": "{{tachi}}",
+      "span": "tachi",
+      "line": "[u1022 | 01:40:21.650-01:40:24.719 | Delwath] I don't know what the {{tachi}}. know?",
+      "contextBefore": [
+        "[u1020 | 01:40:13.230-01:40:17.940 | Delwath] from where she is now they might not know. I mean they they might. They might.",
+        "[u1021 | 01:40:18.730-01:40:21.440 | Kenzo] Great question great question."
+      ],
+      "contextAfter": [
+        "[u1023 | 01:40:27.230-01:40:28.920 | DM] Probably not.",
+        "[u1024 | 01:40:30.370-01:40:39.080 | Delwath] Probably not great. Just what I wanted to hear."
+      ],
+      "after": "tanshi",
+      "group": "tanshi",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1052:m1",
+      "uid": "u1052",
+      "ordinal": 1,
+      "lineNumber": 1052,
+      "start": 50,
+      "end": 59,
+      "before": "{{Tachi}}",
+      "span": "Tachi",
+      "line": "[u1052 | 01:43:24.500-01:43:26.979 | Delwath] The {{Tachi}} know more than I thought they would.",
+      "contextBefore": [
+        "[u1050 | 01:43:20.110-01:43:21.250 | DM] Yes.",
+        "[u1051 | 01:43:21.740-01:43:23.900 | Delwath] alright, that's 5 questions."
+      ],
+      "contextAfter": [
+        "[u1053 | 01:43:29.450-01:43:32.580 | DM] Well, I mean. maybe they're asking.",
+        "[u1054 | 01:43:32.670-01:43:37.479 | DM] That's true. They could be doing their intercession thing. That's a good point."
+      ],
+      "after": "tanshi",
+      "group": "tanshi",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1063:m1",
+      "uid": "u1063",
+      "ordinal": 1,
+      "lineNumber": 1063,
+      "start": 138,
+      "end": 151,
+      "before": "{{Frederick}}",
+      "span": "Frederick",
+      "line": "[u1063 | 01:44:04.910-01:44:14.769 | Delwath] Yeah, we leave the ship. Here we just is just sitting there like I'm ready. Stay stay here, {{Frederick}}.",
+      "contextBefore": [
+        "[u1061 | 01:44:00.510-01:44:02.800 | DM] I don't have to stay on the",
+        "[u1062 | 01:44:03.010-01:44:04.830 | Seeker] yep, right? We can just park it."
+      ],
+      "contextAfter": [
+        "[u1064 | 01:44:14.870-01:44:15.980 | Seeker] dreamy bird!",
+        "[u1065 | 01:44:16.440-01:44:19.989 | DM] Wait! What if you might need somebody to rescue?"
+      ],
+      "after": "Faldrak",
+      "group": "faldrak",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1067:m1",
+      "uid": "u1067",
+      "ordinal": 1,
+      "lineNumber": 1067,
+      "start": 71,
+      "end": 81,
+      "before": "{{father}}",
+      "span": "father",
+      "line": "[u1067 | 01:44:23.140-01:44:28.000 | Seeker] Well, we'll let you know, {{father}}.",
+      "contextBefore": [
+        "[u1065 | 01:44:16.440-01:44:19.989 | DM] Wait! What if you might need somebody to rescue?",
+        "[u1066 | 01:44:20.430-01:44:22.500 | Delwath] No, we're bringing the Rainbow Bridge."
+      ],
+      "contextAfter": [
+        "[u1068 | 01:44:28.380-01:44:34.429 | Delwath] you don't. You don't have keys yet right",
+        "[u1069 | 01:44:34.480-01:44:44.230 | DM] now you're working your way to it. What one Seeker and Kenzo are tuned to the stone. Somebody else can only attune to the stone if they"
+      ],
+      "after": "Faldrak",
+      "group": "faldrak-address",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1080:m1",
+      "uid": "u1080",
+      "ordinal": 1,
+      "lineNumber": 1080,
+      "start": 47,
+      "end": 60,
+      "before": "{{Frederick}}",
+      "span": "Frederick",
+      "line": "[u1080 | 01:46:23.860-01:46:25.220 | Kenzo] if {{Frederick}}",
+      "contextBefore": [
+        "[u1078 | 01:46:00.290-01:46:17.099 | Delwath] Oh, burn Seeker's next day!",
+        "[u1079 | 01:46:17.280-01:46:23.699 | Delwath] Let's do that. That's easier. And and just a meta game or not even met a game. But I think for for Kenzo."
+      ],
+      "contextAfter": [
+        "[u1081 | 01:46:25.490-01:46:28.400 | Kenzo] demonstrates in one other moment",
+        "[u1082 | 01:46:28.630-01:46:38.329 | Kenzo] some type type of heroism or some type of you know true dedication to our cause. I think Kenzo will feel comfortable letting {{Frederick}}"
+      ],
+      "after": "Faldrak",
+      "group": "faldrak",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1082:m1",
+      "uid": "u1082",
+      "ordinal": 1,
+      "lineNumber": 1082,
+      "start": 169,
+      "end": 182,
+      "before": "{{Frederick}}",
+      "span": "Frederick",
+      "line": "[u1082 | 01:46:28.630-01:46:38.329 | Kenzo] some type type of heroism or some type of you know true dedication to our cause. I think Kenzo will feel comfortable letting {{Frederick}}",
+      "contextBefore": [
+        "[u1080 | 01:46:23.860-01:46:25.220 | Kenzo] if {{Frederick}}",
+        "[u1081 | 01:46:25.490-01:46:28.400 | Kenzo] demonstrates in one other moment"
+      ],
+      "contextAfter": [
+        "[u1083 | 01:46:38.920-01:46:45.539 | Seeker] might be a while for waiting for to demonstrate heroism, though",
+        "[u1084 | 01:46:45.760-01:46:57.339 | Kenzo] all the time"
+      ],
+      "after": "Faldrak",
+      "group": "faldrak",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1312:m1",
+      "uid": "u1312",
+      "ordinal": 1,
+      "lineNumber": 1312,
+      "start": 62,
+      "end": 73,
+      "before": "{{attache}}",
+      "span": "attache",
+      "line": "[u1312 | 02:08:41.290-02:08:49.550 | Delwath] like symbols of {{attache}} that that Delwath wears can you. Can you sense these gods that",
+      "contextBefore": [
+        "[u1310 | 02:08:35.500-02:08:37.630 | Delwath] finger the",
+        "[u1311 | 02:08:38.900-02:08:40.740 | Delwath] one of the"
+      ],
+      "contextAfter": [
+        "[u1313 | 02:08:51.780-02:09:01.169 | Delwath] are near me? They told me what was the Nayan's letter? What was the Nayan {{service}}?",
+        "[u1314 | 02:09:01.970-02:09:07.020 | Delwath] Marathu? They told me Marathu never wrote a letter."
+      ],
+      "after": "tanshi",
+      "group": "tanshi",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1365:m1",
+      "uid": "u1365",
+      "ordinal": 1,
+      "lineNumber": 1365,
+      "start": 51,
+      "end": 64,
+      "before": "{{high keep}}",
+      "span": "high keep",
+      "line": "[u1365 | 02:14:27.670-02:14:29.370 | DM] Seeker of {{high keep}}.",
+      "contextBefore": [
+        "[u1363 | 02:14:15.990-02:14:17.750 | DM] looks over Riswynn",
+        "[u1364 | 02:14:19.320-02:14:26.720 | DM] kind of gives you a glance. Clearly he's heard that name"
+      ],
+      "contextAfter": [
+        "[u1366 | 02:14:32.040-02:14:43.319 | DM] and Karnas like stands up. He's he's like a good he probably would have been like 4 years older than Sura, but now, of course, looks",
+        "[u1367 | 02:14:43.460-02:14:48.200 | DM] closer to 15 years older than Sura."
+      ],
+      "after": "Highkeep",
+      "group": "highkeep",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1660:m1",
+      "uid": "u1660",
+      "ordinal": 1,
+      "lineNumber": 1660,
+      "start": 77,
+      "end": 88,
+      "before": "{{tauntie}}",
+      "span": "tauntie",
+      "line": "[u1660 | 02:45:07.550-02:45:11.010 | Delwath] But interestingly, I asked the {{tauntie}}",
+      "contextBefore": [
+        "[u1658 | 02:45:01.100-02:45:04.719 | Wellby] like being put under dominate person, or whatever it is.",
+        "[u1659 | 02:45:04.730-02:45:07.530 | Seeker] Oh, that's possible it'd be, it is possible."
+      ],
+      "contextAfter": [
+        "[u1661 | 02:45:11.040-02:45:14.339 | Delwath] whether he really wrote the letter, and they said, what letter",
+        "[u1662 | 02:45:16.310-02:45:17.050 | Seeker] blip?"
+      ],
+      "after": "tanshi",
+      "group": "tanshi",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1663:m1",
+      "uid": "u1663",
+      "ordinal": 1,
+      "lineNumber": 1663,
+      "start": 109,
+      "end": 120,
+      "before": "{{tan she}}",
+      "span": "tan she",
+      "line": "[u1663 | 02:45:17.720-02:45:25.470 | Seeker] Can we just do this so that we really want to find out what the {{tan she}} meant? By what letter absolutely",
+      "contextBefore": [
+        "[u1661 | 02:45:11.040-02:45:14.339 | Delwath] whether he really wrote the letter, and they said, what letter",
+        "[u1662 | 02:45:16.310-02:45:17.050 | Seeker] blip?"
+      ],
+      "contextAfter": [
+        "[u1664 | 02:45:25.550-02:45:32.230 | Delwath] cause. Also, also, also, if it was a terrible idea, I don't think Tim would have encouraged us quite so much. Anyway.",
+        "[u1665 | 02:45:32.690-02:45:51.019 | DM] I feel like we're gonna show a thing with him there, and not knowing what the answer is, we should show him an object from Sura, from when she was in prison to show that he was, she was actually imprisoned, for, like, you know, however many years, you know, think that'd be a good thing to show"
+      ],
+      "after": "tanshi",
+      "group": "tanshi",
+      "confidence": "high"
+    },
+    {
+      "markerId": "u1875:m1",
+      "uid": "u1875",
+      "ordinal": 1,
+      "lineNumber": 1875,
+      "start": 41,
+      "end": 53,
+      "before": "{{that was}}",
+      "span": "that was",
+      "line": "[u1875 | 03:08:42.250-03:08:45.580 | DM] {{that was}} shield fixed up.",
+      "contextBefore": [
+        "[u1873 | 03:08:37.300-03:08:38.910 | DM] repairs",
+        "[u1874 | 03:08:39.800-03:08:42.189 | Delwath] right getting"
+      ],
+      "contextAfter": [
+        "[u1876 | 03:08:45.790-03:08:47.030 | DM] getting",
+        "[u1877 | 03:08:48.650-03:09:03.880 | Delwath] I don't know. What else are you getting done in Tollen, probably just building all building out our ship. The big renovation of the ship."
+      ],
+      "after": "Delwath's",
+      "group": "delwath-shield",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1902:m1",
+      "uid": "u1902",
+      "ordinal": 1,
+      "lineNumber": 1902,
+      "start": 52,
+      "end": 62,
+      "before": "{{league}}",
+      "span": "league",
+      "line": "[u1902 | 03:11:17.160-03:11:23.230 | DM] stuff from {{league}} Kenzo's reconnected with Iskra. You've like",
+      "contextBefore": [
+        "[u1900 | 03:11:08.970-03:11:14.019 | DM] 3 weeks now. The ship, the repairs on the ship are like 3 quarters done.",
+        "[u1901 | 03:11:14.930-03:11:17.100 | DM] You know. You've gotten your your"
+      ],
+      "contextAfter": [
+        "[u1903 | 03:11:25.500-03:11:32.110 | DM] you could have done some Philosophers' Guild stuff. You could have done other sorts of Tollen downtime stuff.",
+        "[u1904 | 03:11:32.290-03:11:35.219 | Kenzo] I really think Seeker should join the Philosopher's guild."
+      ],
+      "after": "Umli",
+      "group": "umli",
+      "confidence": "supported"
+    },
+    {
+      "markerId": "u1925:m1",
+      "uid": "u1925",
+      "ordinal": 1,
+      "lineNumber": 1925,
+      "start": 156,
+      "end": 167,
+      "before": "{{Fadrick}}",
+      "span": "Fadrick",
+      "line": "[u1925 | 03:14:00.760-03:14:12.110 | DM] And there's I mean, kenku, are still a fairly rare sight in even in Tollen. And there's, you know, people looking. {{Fadrick}} looks up, you know, from his.",
+      "contextBefore": [
+        "[u1923 | 03:13:52.610-03:13:54.320 | DM] He, she, you're not sure",
+        "[u1924 | 03:13:54.830-03:14:00.279 | DM] impossible to tell their age or their gender as they circle over the ship."
+      ],
+      "contextAfter": [
+        "[u1926 | 03:14:12.660-03:14:18.389 | DM] He's taken on the role of basically directing everybody.",
+        "[u1927 | 03:14:18.590-03:14:24.929 | DM] The stone bird flies off his shoulder and begins to like fly around. As this kenku is approaching."
+      ],
+      "after": "Faldrak",
+      "group": "faldrak",
+      "confidence": "high"
+    }
+  ],
+  "lines": {
+    "u0010": {
+      "before": "[u0010 | 00:01:04.280-00:01:13.550 | DM] further east. the Maha, called the {{Drugar}}, by the Orcs. the {{Eistana}}, by the elves, and many other names, the famous river of Drankor.\n",
+      "after": "[u0010 | 00:01:04.280-00:01:13.550 | DM] further east. the Maha, called the Drogar, by the Orcs. the Aistanë, by the elves, and many other names, the famous river of Drankor.\n"
+    },
+    "u1312": {
+      "before": "[u1312 | 02:08:41.290-02:08:49.550 | Delwath] like symbols of {{attache}} that that Delwath wears can you. Can you sense these gods that\n",
+      "after": "[u1312 | 02:08:41.290-02:08:49.550 | Delwath] like symbols of tanshi that that Delwath wears can you. Can you sense these gods that\n"
+    },
+    "u1082": {
+      "before": "[u1082 | 01:46:28.630-01:46:38.329 | Kenzo] some type type of heroism or some type of you know true dedication to our cause. I think Kenzo will feel comfortable letting {{Frederick}}\n",
+      "after": "[u1082 | 01:46:28.630-01:46:38.329 | Kenzo] some type type of heroism or some type of you know true dedication to our cause. I think Kenzo will feel comfortable letting Faldrak\n"
+    },
+    "u0051": {
+      "before": "[u0051 | 00:06:17.340-00:06:19.859 | DM] {{Aldrich}}, the old dwarf.\n",
+      "after": "[u0051 | 00:06:17.340-00:06:19.859 | DM] Faldrak, the old dwarf.\n"
+    },
+    "u1925": {
+      "before": "[u1925 | 03:14:00.760-03:14:12.110 | DM] And there's I mean, kenku, are still a fairly rare sight in even in Tollen. And there's, you know, people looking. {{Fadrick}} looks up, you know, from his.\n",
+      "after": "[u1925 | 03:14:00.760-03:14:12.110 | DM] And there's I mean, kenku, are still a fairly rare sight in even in Tollen. And there's, you know, people looking. Faldrak looks up, you know, from his.\n"
+    },
+    "u1052": {
+      "before": "[u1052 | 01:43:24.500-01:43:26.979 | Delwath] The {{Tachi}} know more than I thought they would.\n",
+      "after": "[u1052 | 01:43:24.500-01:43:26.979 | Delwath] The tanshi know more than I thought they would.\n"
+    },
+    "u0845": {
+      "before": "[u0845 | 01:22:00.610-01:22:03.630 | DM] Nayan {{Baghdad}}, the samraat\n",
+      "after": "[u0845 | 01:22:00.610-01:22:03.630 | DM] Nayan Badya, the samraat\n"
+    },
+    "u0136": {
+      "before": "[u0136 | 00:14:46.820-00:15:02.159 | Kenzo] Do we have to distinguish between other flying castles? I mean, also like growing like, you know, elven tree in the middle. all sorts of this kind of thing. I'm happy to sending stone with {{Pastora}}. Yeah.\n",
+      "after": "[u0136 | 00:14:46.820-00:15:02.159 | Kenzo] Do we have to distinguish between other flying castles? I mean, also like growing like, you know, elven tree in the middle. all sorts of this kind of thing. I'm happy to sending stone with Sura. Yeah.\n"
+    },
+    "u1013": {
+      "before": "[u1013 | 01:39:39.600-01:39:41.990 | Delwath] I'm gonna also go pray to the {{tachi}}.\n",
+      "after": "[u1013 | 01:39:39.600-01:39:41.990 | Delwath] I'm gonna also go pray to the tanshi.\n"
+    },
+    "u1063": {
+      "before": "[u1063 | 01:44:04.910-01:44:14.769 | Delwath] Yeah, we leave the ship. Here we just is just sitting there like I'm ready. Stay stay here, {{Frederick}}.\n",
+      "after": "[u1063 | 01:44:04.910-01:44:14.769 | Delwath] Yeah, we leave the ship. Here we just is just sitting there like I'm ready. Stay stay here, Faldrak.\n"
+    },
+    "u1365": {
+      "before": "[u1365 | 02:14:27.670-02:14:29.370 | DM] Seeker of {{high keep}}.\n",
+      "after": "[u1365 | 02:14:27.670-02:14:29.370 | DM] Seeker of Highkeep.\n"
+    },
+    "u1875": {
+      "before": "[u1875 | 03:08:42.250-03:08:45.580 | DM] {{that was}} shield fixed up.\n",
+      "after": "[u1875 | 03:08:42.250-03:08:45.580 | DM] Delwath's shield fixed up.\n"
+    },
+    "u1902": {
+      "before": "[u1902 | 03:11:17.160-03:11:23.230 | DM] stuff from {{league}} Kenzo's reconnected with Iskra. You've like\n",
+      "after": "[u1902 | 03:11:17.160-03:11:23.230 | DM] stuff from Umli Kenzo's reconnected with Iskra. You've like\n"
+    },
+    "u1022": {
+      "before": "[u1022 | 01:40:21.650-01:40:24.719 | Delwath] I don't know what the {{tachi}}. know?\n",
+      "after": "[u1022 | 01:40:21.650-01:40:24.719 | Delwath] I don't know what the tanshi. know?\n"
+    },
+    "u1080": {
+      "before": "[u1080 | 01:46:23.860-01:46:25.220 | Kenzo] if {{Frederick}}\n",
+      "after": "[u1080 | 01:46:23.860-01:46:25.220 | Kenzo] if Faldrak\n"
+    },
+    "u1663": {
+      "before": "[u1663 | 02:45:17.720-02:45:25.470 | Seeker] Can we just do this so that we really want to find out what the {{tan she}} meant? By what letter absolutely\n",
+      "after": "[u1663 | 02:45:17.720-02:45:25.470 | Seeker] Can we just do this so that we really want to find out what the tanshi meant? By what letter absolutely\n"
+    },
+    "u0853": {
+      "before": "[u0853 | 01:22:55.810-01:23:01.250 | DM] ruler. Perhaps if {{Baja}} had lived\n",
+      "after": "[u0853 | 01:22:55.810-01:23:01.250 | DM] ruler. Perhaps if Badya had lived\n"
+    },
+    "u0061": {
+      "before": "[u0061 | 00:07:09.230-00:07:17.370 | Delwath] we'll need to leave {{Fuldrick}} in charge of the ship. I'm realizing we're not ready for that. Is he ready for that? Are we ready for that? Are you ready for that seeker\n",
+      "after": "[u0061 | 00:07:09.230-00:07:17.370 | Delwath] we'll need to leave Faldrak in charge of the ship. I'm realizing we're not ready for that. Is he ready for that? Are we ready for that? Are you ready for that seeker\n"
+    },
+    "u1660": {
+      "before": "[u1660 | 02:45:07.550-02:45:11.010 | Delwath] But interestingly, I asked the {{tauntie}}\n",
+      "after": "[u1660 | 02:45:07.550-02:45:11.010 | Delwath] But interestingly, I asked the tanshi\n"
+    },
+    "u0310": {
+      "before": "[u0310 | 00:30:19.840-00:30:22.620 | Kenzo] spoken several times with Speaker {{Laura}}.\n",
+      "after": "[u0310 | 00:30:19.840-00:30:22.620 | Kenzo] spoken several times with Speaker Lara.\n"
+    },
+    "u1067": {
+      "before": "[u1067 | 01:44:23.140-01:44:28.000 | Seeker] Well, we'll let you know, {{father}}.\n",
+      "after": "[u1067 | 01:44:23.140-01:44:28.000 | Seeker] Well, we'll let you know, Faldrak.\n"
+    }
+  },
+  "undoneMarkerIds": [],
+  "state": "applied",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T04:31:45.746819+00:00",
+      "sha256": "c93994049e4a2f76511d073135c991c5f96d8a08a4bdc91145754058a536a7b0"
+    }
+  ],
+  "runId": "20261028T043145678195Z-2202ad29",
+  "createdAt": "2026-10-28T04:31:45.678521+00:00"
+}

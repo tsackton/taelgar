@@ -716,7 +716,7 @@
 [u0716 | 01:05:42.570-01:05:44.120 | Seeker] known to be empty.
 [u0717 | 01:05:47.290-01:05:52.370 | Seeker] I haven't quite figured out how to reveal the the contents just yet does seem to be a magical book now.
 [u0718 | 01:05:54.700-01:05:55.580 | Seeker] And
-[u0719 | 01:05:56.940-01:05:58.850 | Seeker] do you know anything about this one {{now? There}}.
+[u0719 | 01:05:56.940-01:05:58.850 | Seeker] do you know anything about this one Hralgar.
 [u0720 | 01:05:59.990-01:06:00.950 | DM] Nothing
 [u0721 | 01:06:01.230-01:06:02.270 | Seeker] you
 [u0722 | 01:06:05.770-01:06:07.440 | Riswynn] maybe our mirror would.
@@ -1628,7 +1628,7 @@
 [u1628 | 02:25:33.910-02:25:38.500 | Seeker] Yes.
 [u1629 | 02:25:38.640-02:25:43.460 | Seeker] I could make her small. and into a newt
 [u1630 | 02:25:48.630-02:25:50.450 | Delwath] that's a thing
-[u1631 | 02:25:51.120-02:25:53.270 | Unknown] it worked with the {{women's}}.
+[u1631 | 02:25:51.120-02:25:53.270 | Unknown] it worked with the wyverns.
 [u1632 | 02:25:54.260-02:25:57.900 | Seeker] I'm not, it's not a joke, not a joke.
 [u1633 | 02:25:58.070-02:26:00.860 | Delwath] I mean. I could just talk to her right.
 [u1634 | 02:26:01.860-02:26:15.100 | Delwath] That's the thing basically you talk to her. If she shoots some ice at you, we shoot some fire at her. I mean, I'm: so I can talk to her invisibly right? There's no reason to become visible. Yeah, yeah, right? Yeah, fine. I will not. I will just. I will. Just.
@@ -1676,7 +1676,7 @@
 [u1676 | 02:29:54.800-02:29:58.640 | Delwath] you know what i'm talking to her in Sylvan, {{i'll sell my first}}.
 [u1677 | 02:29:58.850-02:30:01.890 | Delwath] Does she speak sylvan if I greet her in Sylvan
 [u1678 | 02:30:03.120-02:30:04.340 | Delwath] or
-[u1679 | 02:30:04.720-02:30:14.680 | Delwath] she she speaks Sylvan yes, i'm actually gonna also talk to her. I'm gonna try and play up the mystery here. I'll occasionally switch. Does she speak? {{Saddle car}}?
+[u1679 | 02:30:04.720-02:30:14.680 | Delwath] she she speaks Sylvan yes, i'm actually gonna also talk to her. I'm gonna try and play up the mystery here. I'll occasionally switch. Does she speak? Shadowkar?
 [u1680 | 02:30:15.450-02:30:16.720 | DM] No.
 [u1681 | 02:30:16.770-02:30:17.330 | Delwath] okay.
 [u1682 | 02:30:17.560-02:30:20.710 | DM] She seems to understand some words in it.
@@ -2069,7 +2069,7 @@
 [u2069 | 03:01:30.190-03:01:32.660 | DM] would be a disadvantage. Okay.
 [u2070 | 03:01:35.800-03:01:37.850 | DM] and that ends her turn. Delwath, you're up.
 [u2071 | 03:01:38.090-03:01:40.550 | Delwath] All right. First
-[u2072 | 03:01:40.930-03:01:46.090 | Delwath] action is to is to mark her with {{is always mark}}
+[u2072 | 03:01:40.930-03:01:46.090 | Delwath] action is to is to mark her with Yezali's Mark
 [u2073 | 03:01:46.300-03:01:47.450 | DM] as it. Okay.
 [u2074 | 03:01:49.760-03:01:54.700 | Delwath] Second thing is to just swing my sword at her. Because what else am I gonna do?
 [u2075 | 03:01:54.710-03:01:55.790 | Delwath] 21

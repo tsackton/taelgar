@@ -1,0 +1,10 @@
+--- before/u1800
++++ after/u1800
+@@ -1 +1 @@
+-[u1800 | 01:54:12.170-01:54:15.969 | Seeker] and cast {{rune of psychic destruction}}.
++[u1800 | 01:54:12.170-01:54:15.969 | Seeker] and cast Rune of Psychic Disruption.
+--- before/u2464
++++ after/u2464
+@@ -1 +1 @@
+-[u2464 | 02:35:13.700-02:35:14.830 | DM] {{fire}}
++[u2464 | 02:35:13.700-02:35:14.830 | DM] Fire

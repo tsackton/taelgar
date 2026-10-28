@@ -1,0 +1,79 @@
+{
+  "schemaVersion": 1,
+  "passVersion": "names-v1",
+  "session": "dunmari-frontier-011",
+  "transcript": "_sessions/dunmar-frontier/dunmari-frontier-011/cleaned/dunmari-frontier-011-source-cleaned.md",
+  "beforeSha256": "9454c2d5b3d0340c9820c038a9b56e42def36e1b0c024ccdec460ba4aa87f81c",
+  "afterSha256": "9454c2d5b3d0340c9820c038a9b56e42def36e1b0c024ccdec460ba4aa87f81c",
+  "markersBefore": 3,
+  "groups": [
+    {
+      "id": "damaged-description",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Damaged descriptive wording following the already unmarked name Inakara. The reference note and session record identify her kind but do not establish a complete name or setting-term replacement for this entire phrase; repairing it would reconstruct ordinary wording.",
+      "evidence": [
+        {
+          "path": "People/Other Nonhumans/Inakara.md",
+          "sha256": "bbb28b2aa9d8b1b819a65550b011b27a97adcbd6c41f18e9a85c0d43bb5abdf8"
+        },
+        {
+          "path": "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 8 (DuFr).md",
+          "sha256": "d69058678a564028f431010fe0f385b510b1e5eadcdbd1412507c155e6171fec"
+        }
+      ],
+      "candidates": [],
+      "markerIds": [
+        "u0006:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u0006:m1": "{{wild or the identified Kim}}"
+      }
+    },
+    {
+      "id": "production-discussion",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "Ordinary damaged wording in a discussion of increasing animal intake and army production. The following speaker continuation explains the topic without establishing a name or setting term to replace the whole marker.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u2709:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u2709:m1": "{{tourism prisons point}}"
+      }
+    },
+    {
+      "id": "rules-explanation",
+      "action": "leave",
+      "confidence": "not_applicable",
+      "reason": "A damaged rules explanation about spending ki and learning resistances and immunities, confirmed by the adjacent DM response. Reconstructing mechanics wording is outside the name pass.",
+      "evidence": [],
+      "candidates": [],
+      "markerIds": [
+        "u1043:m1"
+      ],
+      "replacements": {},
+      "retainedSpans": {
+        "u1043:m1": "{{These points for the party was popular magic the target speculating poisoned three leaders for the resistance communities.}}"
+      }
+    }
+  ],
+  "changes": [],
+  "lines": {},
+  "undoneMarkerIds": [],
+  "state": "reviewed_no_changes",
+  "pending": null,
+  "events": [
+    {
+      "kind": "apply",
+      "at": "2026-10-28T03:38:37.092095+00:00",
+      "sha256": "9454c2d5b3d0340c9820c038a9b56e42def36e1b0c024ccdec460ba4aa87f81c"
+    }
+  ],
+  "runId": "20261028T033837090172Z-dd162317",
+  "createdAt": "2026-10-28T03:38:37.090510+00:00"
+}

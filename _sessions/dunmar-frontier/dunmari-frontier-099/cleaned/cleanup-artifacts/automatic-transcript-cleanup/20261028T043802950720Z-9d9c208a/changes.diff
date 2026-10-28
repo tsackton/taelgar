@@ -1,0 +1,50 @@
+--- before/u0800
++++ after/u0800
+@@ -1 +1 @@
+-[u0800 | 00:48:02.680-00:48:04.230 | DM] Umbral {{conclave}}.
++[u0800 | 00:48:02.680-00:48:04.230 | DM] Umbral Covenant.
+--- before/u0851
++++ after/u0851
+@@ -1 +1 @@
+-[u0851 | 00:50:35.960-00:50:39.439 | DM] used to be a dwarven and {{stone dwarven}} kingdom there.
++[u0851 | 00:50:35.960-00:50:39.439 | DM] used to be a dwarven and stoneborn kingdom there.
+--- before/u1124
++++ after/u1124
+@@ -1 +1 @@
+-[u1124 | 01:06:32.890-01:06:33.530 | DM] {{Umma}}.
++[u1124 | 01:06:32.890-01:06:33.530 | DM] Amil.
+--- before/u1388
++++ after/u1388
+@@ -1 +1 @@
+-[u1388 | 01:23:03.800-01:23:11.423 | Kenzo] Yeah, I totally have. This is like, why, I've been hosting little meetings when we're in Tollen, trying to get like some recruits here and there, you know. So {{all money}} is like my acolyte, you know.
++[u1388 | 01:23:03.800-01:23:11.423 | Kenzo] Yeah, I totally have. This is like, why, I've been hosting little meetings when we're in Tollen, trying to get like some recruits here and there, you know. So Amil is like my acolyte, you know.
+--- before/u1518
++++ after/u1518
+@@ -1 +1 @@
+-[u1518 | 01:31:15.560-01:31:25.300 | DM] Mid-afternoon, off the coast of the {{retail retolio}} this other province that you.
++[u1518 | 01:31:15.560-01:31:25.300 | DM] Mid-afternoon, off the coast of the Raziolo this other province that you.
+--- before/u1519
++++ after/u1519
+@@ -1 +1 @@
+-[u1519 | 01:31:25.330-01:31:29.420 | DM] you know, passing this headlands or this town of {{Sarvia}}, it is
++[u1519 | 01:31:25.330-01:31:29.420 | DM] you know, passing this headlands or this town of Sarvia, it is
+--- before/u1693
++++ after/u1693
+@@ -1 +1 @@
+-[u1693 | 01:40:44.540-01:40:47.360 | Delwath] since {{Rosana}}, has there been any, so like
++[u1693 | 01:40:44.540-01:40:47.360 | Delwath] since Roccena, has there been any, so like
+--- before/u2052
++++ after/u2052
+@@ -1 +1 @@
+-[u2052 | 02:02:28.230-02:02:34.219 | DM] But but Kong's character almost drank a vial of the {{same function}}.
++[u2052 | 02:02:28.230-02:02:34.219 | DM] But but Kong's character almost drank a vial of the Sentient Ocean.
+--- before/u2298
++++ after/u2298
+@@ -1 +1 @@
+-[u2298 | 02:17:59.010-02:18:05.720 | Delwath] Let's let's do a dreaming on {{Kiso}} to get him to go. Ask Wazir
++[u2298 | 02:17:59.010-02:18:05.720 | Delwath] Let's let's do a dreaming on Kaeso to get him to go. Ask Wazir
+--- before/u3196
++++ after/u3196
+@@ -1 +1 @@
+-[u3196 | 03:12:38.900-03:12:43.919 | DM] Towards {{use case}} should be reaching {{Ouskaar}} pretty soon. In day or 2.
++[u3196 | 03:12:38.900-03:12:43.919 | DM] Towards Uzgukhar should be reaching Uzgukhar pretty soon. In day or 2.

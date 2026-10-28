@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "completedAt": "2026-10-28T11:23:10.141504Z",
+  "stage": "speaker-identification-verified",
+  "identifiedTranscript": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/zoom/Session 32/transcription/scribe-v2/Session032.identified.vtt",
+    "sha256": "67abc300222a15f761a768b908f94f4827403ac270abd614de01d65e49ef5bd4"
+  },
+  "rawTranscriptionManifest": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/zoom/Session 32/transcription/scribe-v2/audio1325665104.transcription.json",
+  "finalReview": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/zoom/Session 32/transcription/scribe-v2/speaker-review/session032-final-speakers.speaker-review.json",
+    "sha256": "549c3c7096a86453c88bf03e7d5ba5e725655ad42a316e7236090c3e6093f36c"
+  },
+  "finalAttributions": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/zoom/Session 32/transcription/scribe-v2/speaker-review/session032-final-speakers.speaker-attributions.json",
+    "sha256": "2456b371308331c8fe3460316d6f072f56d7be201097e2882bb60410767d1929"
+  },
+  "verifiedParticipants": 6,
+  "verificationSamplesPerParticipant": 10,
+  "humanCorrectionsPreserved": [
+    "r01-u03921",
+    "r01-u03928"
+  ],
+  "utteranceCount": 4593,
+  "utteranceCounts": {
+    "DM": 1907,
+    "Unknown": 728,
+    "Kenzo": 435,
+    "Drikod": 205,
+    "Delwath": 927,
+    "Seeker": 302,
+    "Wellby": 89
+  },
+  "speechSeconds": {
+    "DM": 5009.112,
+    "Unknown": 546.616,
+    "Kenzo": 1409.86,
+    "Drikod": 379.221,
+    "Delwath": 2165.336,
+    "Seeker": 573.031,
+    "Wellby": 223.0
+  },
+  "identifiedSpeechDurationPercent": 94.696,
+  "coverageNote": "Coverage measures summed utterance duration, not transcription or speaker-classifier accuracy. Unknown retains both unsupported short cues and the human-marked mixed-voice cue.",
+  "shortCuePolicy": {
+    "minimumAgreement": 0.8,
+    "minimumModelSupportCues": 5,
+    "checkSavedHumanAgreement": true,
+    "audit": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/zoom/Session 32/transcription/scribe-v2/speaker-review/session032-final-speakers.speaker-review.json"
+  },
+  "referenceBank": {
+    "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/zoom/Session 32/transcription/scribe-v2/speaker-review/session032-verified-reference-bank/reference-bank.json",
+    "sha256": "84d3518f079d7e8e9605192f882a16fcdf6f6d2781664a12fc66360ce7d90201",
+    "participants": 6,
+    "clips": 30
+  },
+  "preservation": "Raw Scribe JSON and anonymous VTT retained unchanged; all 4,593 review utterances retain their text, order, and timing."
+}

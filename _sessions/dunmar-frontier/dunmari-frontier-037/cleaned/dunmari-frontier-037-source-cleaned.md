@@ -7,7 +7,7 @@
 [u0007 | 00:00:52.470-00:01:02.520 | DM] The work is easy tonight as the moon turns to full, the tidal pull of the divine presence grows stronger, filling the land, and the source is easy to reach.
 [u0008 | 00:01:03.390-00:01:13.860 | DM] The Fox thinks of days running in the forests of the north and stretches across the world. The Hunter calls to him, reminding him of the task ahead, but remembers the joy of those early days too.
 [u0009 | 00:01:15.750-00:01:17.160 | DM] Their attention, though, does not.
-[u0010 | 00:01:17.160-00:01:34.290 | DM] Stay on the forests and {{must drive a hills}} of the southern reaches of Sembara, nor on the arid foothills where the people of the Refounded Alliance of Aurbez scratch out a living on the edge of the Plaguelands. The full moon also draws the darkness of the void closer.
+[u0010 | 00:01:17.160-00:01:34.290 | DM] Stay on the forests and Mostreve Hills of the southern reaches of Sembara, nor on the arid foothills where the people of the Refounded Alliance of Aurbez scratch out a living on the edge of the Plaguelands. The full moon also draws the darkness of the void closer.
 [u0011 | 00:01:35.400-00:01:49.200 | DM] The hunter always with one small part of his essence watching those who carry echoes of his companions of old sees the madness pour into the soul of a poor innocent boy, a young dwarf, not even of age in the west of Dunmar.
 [u0012 | 00:01:50.730-00:01:57.030 | DM] While the Fox tends to the prayers of the Rangers of Sembara, the Hunter watches Dunmar more closely for a moment.
 [u0013 | 00:01:58.170-00:02:06.300 | DM] Across the desert and dry arid plains—so hard not to cast the land in his mind's eye as it was—the people of the horse are moving.
@@ -1278,7 +1278,7 @@
 [u1278 | 01:29:47.160-01:29:49.020 | Delwath] can't see past me right.
 [u1279 | 01:29:49.830-01:29:53.400 | DM] Ah ah, he also yells and common.
 [u1280 | 01:29:54.450-01:29:56.100 | DM] back this way.
-[u1281 | 01:29:57.570-01:29:59.280 | DM] {{breda}} alert the others.
+[u1281 | 01:29:57.570-01:29:59.280 | DM] Breda alert the others.
 [u1282 | 01:30:00.930-01:30:01.680 | Kenzo] No alerting.
 [u1283 | 01:30:02.100-01:30:04.470 | Wellby] Oh that's my readied action at that point.
 [u1284 | 01:30:04.890-01:30:05.640 | Unknown] there's.
@@ -1319,7 +1319,7 @@
 [u1319 | 01:32:01.770-01:32:03.240 | DM] Pulling down a ladder.
 [u1320 | 01:32:04.770-01:32:08.070 | DM] And then he also as the arrow pierces him, he also.
 [u1321 | 01:32:09.420-01:32:10.170 | DM] yells.
-[u1322 | 01:32:11.370-01:32:13.170 | DM] {{Edmier}} intruders.
+[u1322 | 01:32:11.370-01:32:13.170 | DM] Edmur intruders.
 [u1323 | 01:32:15.960-01:32:17.100 | DM] And then.
 [u1324 | 01:32:18.450-01:32:20.400 | DM] His face begins to.
 [u1325 | 01:32:20.550-01:32:24.150 | Wellby] elongate yeah yeah see this was the right move.
@@ -1887,7 +1887,7 @@
 [u1887 | 02:09:27.150-02:09:30.090 | DM] Okay, so taking these in turn.
 [u1888 | 02:09:31.890-02:09:32.490 | DM] The.
 [u1889 | 02:09:35.610-02:09:36.540 | DM] The two.
-[u1890 | 02:09:38.250-02:09:54.060 | DM] guards who you initially startled, Wellby, don't carry anything on them the larger guard captain, whose name was presumably {{Edmier}}, who was the second one, that the first guy you killed called for.
+[u1890 | 02:09:38.250-02:09:54.060 | DM] guards who you initially startled, Wellby, don't carry anything on them the larger guard captain, whose name was presumably Edmur, who was the second one, that the first guy you killed called for.
 [u1891 | 02:09:56.010-02:10:04.260 | DM] carries a spear and shield, which are both of pretty good quality and an iron pendant.
 [u1892 | 02:10:06.180-02:10:12.870 | Delwath] I'm going to once I go into the room so I'm going to magic I do my magic magic Detect Magic guys.
 [u1893 | 02:10:13.170-02:10:14.430 | DM] that'll take you 10 minutes to.
@@ -2300,11 +2300,11 @@
 [u2300 | 02:50:38.040-02:50:38.370 | Delwath] I mean.
 [u2301 | 02:50:40.020-02:50:41.790 | Kenzo] Tim is there one in Tokra.
 [u2302 | 02:50:44.280-02:50:54.690 | DM] Well you're not super familiar with the like power, you know how the lakes powerful individuals in the temple hierarchy, there are there is certainly.
-[u2303 | 02:50:55.710-02:51:04.140 | DM] You know at least one of {{speaker laws}} like acolytes would be that strong but again they're all still out in the plane somewhere.
+[u2303 | 02:50:55.710-02:51:04.140 | DM] You know at least one of Speaker Lara's like acolytes would be that strong but again they're all still out in the plane somewhere.
 [u2304 | 02:51:04.470-02:51:11.580 | DM] Right your guess, though, from what you know of like Dunmari temple hierarchies and things Tokra's a big enough city.
 [u2305 | 02:51:12.990-02:51:14.940 | DM] You know there's got to be somebody whether.
 [u2306 | 02:51:16.620-02:51:19.560 | DM] You know you didn't really have a clear sense of whether I'm.
-[u2307 | 02:51:21.570-02:51:22.770 | DM] {{kayla}} was.
+[u2307 | 02:51:21.570-02:51:22.770 | DM] Kaleha was.
 [u2308 | 02:51:24.150-02:51:32.970 | DM] Primarily, you know was actually blessed by the gods you know have magic or was just an administrator but there's gotta be something and somebody in the temple hierarchy who.
 [u2309 | 02:51:33.300-02:51:35.160 | Kenzo] has some powers as well.
 [u2310 | 02:51:36.360-02:51:37.140 | Kenzo] yeah we should.
@@ -2481,7 +2481,7 @@
 [u2481 | 03:03:56.100-03:04:00.240 | DM] After you eat, yes, the one wearing the pendant is saying.
 [u2482 | 03:04:01.260-03:04:01.950 | Unknown] in common.
 [u2483 | 03:04:04.380-03:04:04.980 | DM] I.
-[u2484 | 03:04:06.390-03:04:10.440 | DM] Trust {{Edmier}} but after the.
+[u2484 | 03:04:06.390-03:04:10.440 | DM] Trust Edmur but after the.
 [u2485 | 03:04:12.060-03:04:21.870 | DM] pleasantries of the last evening, I am not sure that we should leave Govir without sufficient guard, let us say.
 [u2486 | 03:04:23.340-03:04:26.760 | DM] feel free to kick him a bit and tease him about you know.
 [u2487 | 03:04:27.900-03:04:31.470 | DM] The bloodsport he so enjoy {{even}}.
@@ -2492,13 +2492,13 @@
 [u2492 | 03:04:52.170-03:04:54.300 | DM] There is still more he must tell us.
 [u2493 | 03:04:58.980-03:05:03.030 | DM] One of the other speaks, then in a different voice speaks um.
 [u2494 | 03:05:06.270-03:05:08.370 | DM] Yes, of course, I'm.
-[u2495 | 03:05:10.410-03:05:12.690 | DM] {{Edmier}} said he beat the fellow.
+[u2495 | 03:05:10.410-03:05:12.690 | DM] Edmur said he beat the fellow.
 [u2496 | 03:05:13.920-03:05:14.760 | DM] knocked him out.
 [u2497 | 03:05:16.320-03:05:16.920 | DM] And we could.
 [u2498 | 03:05:17.970-03:05:19.290 | DM] grab a bite before.
 [u2499 | 03:05:20.310-03:05:21.210 | DM] He recovered.
 [u2500 | 03:05:22.680-03:05:26.250 | DM] don't think he's very strong it only took about three solid hits.
-[u2501 | 03:05:27.570-03:05:33.630 | DM] But you know {{Edmier}} is is strong so who knows, but we hear you.
+[u2501 | 03:05:27.570-03:05:33.630 | DM] But you know Edmur is is strong so who knows, but we hear you.
 [u2502 | 03:05:35.310-03:05:37.260 | DM] I know that you have more.
 [u2503 | 03:05:39.210-03:05:46.890 | DM] sport to be had with this Govir creature, we have only two more nights to enjoy before.
 [u2504 | 03:05:49.590-03:05:51.810 | DM] I guess if he doesn't speak, {{he will}} kill him right.
