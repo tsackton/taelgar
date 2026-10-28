@@ -19,11 +19,15 @@ Workers follow `worker-prompt.md` and their manifest row. They may modify only t
 
 The worker must finalize when the actual helper reports current exports and `complete` or `complete_with_uncertainty` after all clean, polish, and quality jobs. Pending consequential decisions require a resumable checkpoint and a concrete review sheet, not fabricated acceptance. Finalized sessions retain only the workflow's permanent products plus unrelated pre-existing session artifacts. A manual-review checkpoint retains the complete session-local work directory; optional ignored HTML may be regenerated. Check checkpoint sizes before publishing and report any delivery limit rather than silently discarding state.
 
-## Cases deliberately excluded
+## Pending full-run queue
+
+`full-run-queue.json` contains 147 verified sessions awaiting pilot review and separate full-run authorization. It includes the nine repaired compatibility cases from upstream commit `d74f8030f82b61d130b23f89df926d5c57a676b5`. All nine passed helper initialization on temporary copies, with live source hashes unchanged. The update changes neither the skill nor any active pilot bundle. The ten launched assignments retain their original base and fingerprints. No additional worker launch is authorized.
+
+## Cases deliberately excluded from this pilot
 
 - Already finalized and current: Dunmar 010 and 041.
-- Existing speaker-header differences requiring an explicit migration: Dunmar 004, Feywild 003, Dragonets 001.
-- Empty UID units: Dunmar 059, 062, 065, 091, 092, 094.
+- Repaired speaker-header cases, now in the pending full-run queue: Dunmar 004, Feywild 003, Dragonets 001.
+- Repaired empty-unit cases, now in the pending full-run queue: Dunmar 059, 062, 065, 091, 092, 094.
 - Non-transcript bundles: Dunmar 096, 107, 135; Mawar 001.
 
 The manifest is the outer controller's authorized launch and integration ledger. Each processing worker continues to use only its own bundle-local work queue; it must not use this directory as a shared correction store.

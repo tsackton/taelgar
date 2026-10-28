@@ -466,7 +466,7 @@
       "launchTimeSource": "Parent confirmed successful admission; exact admission timestamp not supplied."
     }
   ],
-  "controllerUpdatedAt": "2026-10-28T22:26:43Z",
+  "controllerUpdatedAt": "2026-10-28T22:28:53Z",
   "pullRequest": {
     "number": 39,
     "url": "https://github.com/tsackton/taelgar/pull/39",
@@ -479,5 +479,37 @@
       "resetUsed": false,
       "source": "Parent-reported usage check; not independently measured by integration coordinator."
     }
-  ]
+  ],
+  "pendingFullRunQueue": "_sessions/_processing-pilots/2026-10-28-pilot/full-run-queue.json",
+  "pendingFullRunCounts": {
+    "transcriptBundles": 159,
+    "activePilot": 10,
+    "finalizedCurrent": 2,
+    "pendingFullRun": 147,
+    "newlyUnblocked": 9,
+    "blocked": 0,
+    "excludedNontranscript": 4
+  },
+  "compatibilityUpdate": {
+    "upstreamCommit": "d74f8030f82b61d130b23f89df926d5c57a676b5",
+    "integratedThroughMergeCommit": "c4545c69582482c4260459e6155e069f5c48722d",
+    "updatedAt": "2026-10-28T22:28:53Z",
+    "sessions": [
+      "_sessions/dunmar-frontier/dunmari-frontier-004",
+      "_sessions/dunmar-frontier/dunmari-frontier-059",
+      "_sessions/dunmar-frontier/dunmari-frontier-062",
+      "_sessions/dunmar-frontier/dunmari-frontier-065",
+      "_sessions/dunmar-frontier/dunmari-frontier-091",
+      "_sessions/dunmar-frontier/dunmari-frontier-092",
+      "_sessions/dunmar-frontier/dunmari-frontier-094",
+      "_sessions/feywild/lost-in-the-feywild-003",
+      "_sessions/dragonets/dragonets-001"
+    ],
+    "temporaryCopyInitializationPassed": 9,
+    "liveSourcesUnchangedByValidation": true,
+    "activePilotOverlap": [],
+    "pilotBundleFingerprintsUnchanged": true,
+    "skillFilesUnchanged": true,
+    "launchAuthorized": false
+  }
 }
