@@ -44,3 +44,71 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-004/sources/feywild-ep04-speaker-mappings.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/feywild/lost-in-the-feywild-004/cleaned/lost-in-the-feywild-004-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2542
+  issues: 0
+  artifacts:
+    original:
+      path: sources/GMT20260707-005719_Recording.transcript.vtt
+      sha256: a9098836ba90cd8c48ef73d3e53927dfe69a7a34e3793c4134d9577e749efa63
+    prepared:
+      path: cleaned/lost-in-the-feywild-004-source-prepared.md
+      sha256: 898dab306b290a9be756f265a9f41e104a86607d9d03f1d84429cbcf28fb52fe
+    cleaned:
+      path: cleaned/lost-in-the-feywild-004-source-cleaned.md
+      sha256: fc9920a48ad0a6bbe458de7395d6c9937f85ff79b91968ecd0d7f89d7b8380d2
+    polishedMarkdown:
+      path: cleaned/lost-in-the-feywild-004-transcript.md
+      sha256: 41d0636bd1103ee965ffb3678d9ce1539d3bae79307b5f41ffc0fce16003a685
+  speakerCorrections:
+  - uid: u0189
+    start: 0
+    end: 65
+    speaker: Kaito Min
+  - uid: u0214
+    start: 0
+    end: 29
+    speaker: Txarro
+  - uid: u0215
+    start: 0
+    end: 41
+    speaker: Txarro
+  - uid: u0221
+    start: 0
+    end: 77
+    speaker: Txarro
+  - uid: u0222
+    start: 0
+    end: 33
+    speaker: Txarro
+  - uid: u0224
+    start: 0
+    end: 2
+    speaker: Txarro
+  - uid: u0231
+    start: 0
+    end: 11
+    speaker: Txarro
+  - uid: u0273
+    start: 0
+    end: 38
+    speaker: Edric
+  - uid: u0275
+    start: 0
+    end: 4
+    speaker: Edric
+  - uid: u0279
+    start: 0
+    end: 44
+    speaker: Edric
+  - uid: u0281
+    start: 0
+    end: 53
+    speaker: Edric
+  - uid: u0283
+    start: 0
+    end: 66
+    speaker: Edric
