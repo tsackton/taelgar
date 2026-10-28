@@ -32,10 +32,17 @@ Inspect useful existing images, including references linked from the note and es
 
 Present a compact visual brief for each selected image:
 
-- supported visual facts and their sources;
+- the visual purpose: what the viewer should notice or understand first;
+- supported visual facts and their sources, especially features that distinguish this subject or moment;
 - the people, props, setting, period, and event to depict;
-- composition/style choices that are artistic rather than established lore;
+- composition/style choices that are artistic rather than established lore, including medium, focal hierarchy, lighting, and distribution of detail;
 - consequential gaps or conflicts requiring the user's decision.
+
+Describe the chosen medium through a few concrete qualities, such as broad opaque shapes, selective fine linework, or soft distant edges. Painting, photography, digital illustration, and deliberate mixed media are all valid directions. Keep materials distinguishable within that treatment: cloth, skin, stone, and metal should not acquire the same incidental grain, sheen, or microdetail. Texture should express the material, environment, or chosen technique; elaborate detail and intentional grain remain useful when they serve that direction.
+
+Plan a clear order of attention, including in ensemble scenes. Concentrate detail and sharpness where they help communicate the subject, and allow quiet surfaces and negative space elsewhere. Give lighting a believable or explicitly stylized logic. Use glow, fog, dramatic contrast, and ornament for a specific visual or narrative purpose; avoid adding unsupported runes, equipment, or architecture merely to signal fantasy. For luminous subjects, decide what emits light and how it affects surrounding forms and attention.
+
+Turn these decisions into concise positive prompt directions rather than a universal list of prohibitions. For example: “Keep the background in broad shapes and reserve the sharpest edges for the face and hands.” Request inscriptions or other lettering only when needed, using supported or user-approved text.
 
 Keep identity and clothing consistent across scenes unless the evidence supports a change. Match historical depictions to the period shown. Avoid introducing new plot events or treating visual invention as written canon. Keep private information out of public-facing artwork, captions, and shared prompt files unless explicitly authorized for that audience.
 
@@ -45,19 +52,26 @@ Resolve consequential uncertainties before generation. Ordinary composition choi
 
 Load the available `imagegen` skill at generation time and follow its current tool instructions. Use the built-in tool by default, with one call per variant. Do not switch to a CLI/API path merely to control filenames or export format. Generation uses the image service; drafts are saved locally outside the vault, not generated with an assumed on-device model.
 
-Generate **two separate initial images for each selected target**. Vary a useful visual choice, such as framing or composition, while preserving the same source facts and agreed style. Do not substitute a single contact sheet for two deliverable candidates.
+Generate **two separate initial images for each selected target**. State what design question the alternatives explore before generating them, then vary a useful visual choice while preserving the same source facts and agreed style. For example, compare a close portrait emphasizing expression with a wider composition emphasizing the subject's relationship to the setting. Keep the comparison focused enough that feedback can guide the next revision. Do not substitute a single contact sheet for two deliverable candidates.
 
 Keep every draft and revision outside the vault. Built-in outputs normally live under `$CODEX_HOME/generated_images/`; use returned paths rather than guessing. If organizing them elsewhere, choose an off-vault working directory and verify its resolved path is outside the vault. The off-vault requirement overrides any generic project-copy instruction while candidates remain unapproved.
 
 Use stable labels such as `scene-02-a-v1` and `scene-02-b-v1`. Keep a small working record outside the vault containing the target/source anchors, exact prompts, reference paths, variant labels, output paths, feedback, and approval state. Do not copy private source excerpts into shared provenance files.
 
-Inspect each result for subject identity, composition, source fidelity, and requested constraints. Present both candidates visibly with their labels and a brief explanation of the differences. Record a generation failure as unfinished work; do not count a missing alternative as delivered.
+Inspect each result for subject identity, source fidelity, requested constraints, and the visual purpose in the brief. Review at two scales:
+
+- At thumbnail or intended note-display size, check the order of attention, silhouette, readable action, and competing background elements. Use the proposed aside, figure, or hero role to judge whether important details remain legible; consult [Image Callouts](../../../_MoC/Image%20Callouts.md) when sizing matters.
+- At full size, check anatomy, material distinctions, lighting logic, edge treatment, repetitive texture, and excessive local contrast or sharpening. Judge these against the chosen medium and deliberate stylization.
+
+Present both candidates visibly with their labels, a brief explanation of the differences, and a candid assessment of each candidate's main strength and any material weakness. Record a generation failure as unfinished work; do not count a missing alternative as delivered.
 
 ## 4. Iterate and recognize explicit final approval
 
 Work in the user's preferred scene order. Carry accepted details forward in each prompt and change only the requested aspects when revising a selected image. Inspect local edit targets before using them as tool inputs. Keep prior versions available and use new version labels.
 
-The initial round requires two variants; subsequent rounds need only the revisions or alternatives the user requests. Additional revision requests authorize those revisions, not export of an earlier candidate.
+Before revising, translate feedback into a visible problem and a targeted correction. For “too busy,” distinguish competing highlights, crowded silhouettes, and excessive surface detail; changing the style alone may preserve the problem. Briefly explain the correction and any meaningful tradeoff, and preserve the successful features already accepted. Offer independent judgment when a proposed change could undermine the agreed visual purpose, while respecting the user's chosen direction. Recheck the result for the intended improvement and unintended changes.
+
+The initial round requires two variants; subsequent rounds need only the revisions or alternatives the user requests. Use the critique within this feedback cycle; do not add automatic generation rounds or new approval checkpoints. Additional revision requests authorize those revisions, not export of an earlier candidate.
 
 Track each target as proposed, selected, awaiting feedback, revising, explicitly final, exported, or skipped. Approval must identify an exact version; the same labels must appear in the presentation and working record.
 

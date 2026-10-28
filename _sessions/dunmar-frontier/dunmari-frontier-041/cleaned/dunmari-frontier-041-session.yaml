@@ -40,3 +40,22 @@ preparedSourcePath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Docum
 speakerMappingsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-041/sources/zoom-session-041.speaker_mapping.json
 transcriptFormat: vtt
 speakerStatsPath: /Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/dunmari-frontier-041/cleaned/dunmari-frontier-041-speaker-stats.json
+
+transcriptProcessing:
+  version: 1
+  status: complete_with_uncertainty
+  units: 2261
+  issues: 0
+  artifacts:
+    original:
+      path: sources/GMT20220304-022156_Recording.transcript.vtt
+      sha256: 28d62cbdfdd7a5dbe200ba0e2dde22117757390a20e9bb345d39ea69edc6da62
+    prepared:
+      path: cleaned/dunmari-frontier-041-source-prepared.md
+      sha256: 09a7af4c48f28bca6225b02e7863f8475c8f78e32dee10511ae61182661834a8
+    cleaned:
+      path: cleaned/dunmari-frontier-041-source-cleaned.md
+      sha256: 2bc3baa3dcc3a9346e5df5251db53649f2f954695a0aab352307aea3faac5259
+    polishedMarkdown:
+      path: cleaned/dunmari-frontier-041-transcript.md
+      sha256: 48c006c90a714584171d97bfd4c65e15a0c85edf05dbf0cd094641b575ab335f

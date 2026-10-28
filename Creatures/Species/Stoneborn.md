@@ -1,7 +1,7 @@
 ---
 lintedAt: "2026-09-05T16:06:33-04:00"
 lintVersion: "3.5"
-tags: [creature]
+tags: [creature, status/check/ai]
 name: Stoneborn
 aliases: [Stoneborn, stoneborn]
 dm_owner: joint
@@ -11,6 +11,10 @@ POV: modern
 # Stoneborn
 
 High above the clouds, on the tallest peak of a mountain range, a Stoneborn sits quietly, watching the sunrise. On the steep slopes below, a small village comes to life with the sounds of bells, morning prayer, and martial practice. Scattered throughout the inhospitable high places of the world, Stoneborn live reclusively, rarely gracing the lowlands with their presence.
+
+> [!image|hero]
+> ![[stoneborn-above-the-clouds.webp]]
+> *Dawn above a Stoneborn village.*
 
 ## Appearance
 
@@ -39,6 +43,10 @@ From around 150 years of age, most Stoneborn begin a long, gradual withdrawal fr
 
 Some exceptional Stoneborn, sustained by dedication to a particular task or purpose, remain active much longer. 
 
+> [!image|figure standard]
+> ![[stoneborn-elder-returning-to-stone.webp]]
+> *A younger Stoneborn seeks counsel from an elder returning to stone.*
+
 %% 
 there is no intended precise upper limit to stoneborn lifespan; the end stage is literally to simply become stone again. the vibe is supposed to be that stoneborn community life is mostly those between 35 - 150 or so, with elders as a resource for some unspecified time. exceptional stoneborn can plausibly remain active in the world much, much longer, but need a reason. 
 
@@ -58,6 +66,10 @@ Stoneborn culture is shaped by the pursuit of mastery, through sustained concent
 ### Mastery and Discipline
 
 Stoneborn place a high value on expertise and training. Concentration, single-minded focus, and years of disciplined practice are central to their pursuit of mastery. Young Stoneborn apprentice themselves to masters in a skill or trade, and by years of training and practice become masters themselves. Stoneborn honor the training and dedication necessary to become true masters of any skill, whether in combat, crafting, teaching, tending the young, or healing.
+
+> [!image|figure standard]
+> ![[stoneborn-solitary-staff-mastery.webp]]
+> *A Stoneborn practices with a staff on a mountain terrace.*
 
 Individual Stoneborn tend to be proud and confident in their mastery of their discipline. A craft, field of knowledge, or particular pursuit can shape decades of a Stoneborn’s life, becoming a defining part of their identity. They greatly respect skill, and honor demonstrated masters even if they are not Stoneborn. While the ambition to be the best at something is one that many Stoneborn feel, for many the skill is reward enough.
 

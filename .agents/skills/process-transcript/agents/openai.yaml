@@ -1,0 +1,4 @@
+interface:
+  display_name: "Process Transcript"
+  short_description: "Clean, recover, and faithfully polish session transcripts"
+  default_prompt: "Use $process-transcript to process or resume this session's transcript, preserving speech and collecting consequential uncertainty for review."

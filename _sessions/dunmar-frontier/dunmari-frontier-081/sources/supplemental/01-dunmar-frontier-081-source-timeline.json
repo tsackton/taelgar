@@ -1,0 +1,82 @@
+{
+  "schemaVersion": 1,
+  "kind": "approved-final-session-transcript",
+  "campaign": "Dunmar Frontier",
+  "sessionNumber": 81,
+  "clock": "cumulative-recorded-audio",
+  "interRecordingGapSeconds": null,
+  "timingNote": "Parts ordered by recording chunk number. Continuous playback timestamps use the full probed original recording duration as each offset. No real-world gap inferred. Subtract the part offset to recover original audio time. Audio files remain separate.",
+  "parts": [
+    {
+      "sequence": 1,
+      "sourceTranscriptPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 81/transcription/scribe-v2/speaker-review/direct-short-final-v1/Session-81-Chunk-01.identified.vtt",
+      "sourceTranscriptSha256": "dd35c1051045313cde25ee098db8deb5fc638f49b165ea6e4662f8020b90362d",
+      "sourceAudioPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 81/raw_audio/Session-81-Chunk-01.m4a",
+      "sourceAudioSha256": "f964435cb3073720a48e1ed8f9007c73fc899554ec98e83996b9b014882ec661",
+      "recordedDurationMilliseconds": 7636267,
+      "timelineOffsetMilliseconds": 0,
+      "firstCombinedCueIndex": 1,
+      "lastCombinedCueIndex": 2813,
+      "cueCount": 2813,
+      "sourceReview": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 81/transcription/scribe-v2/speaker-review/direct-short-final-v1/session81-part01-direct-short-final-v1.speaker-review.json",
+        "sha256": "c99c4c8c8be4e303bbddd4a3e7bee94c3a02cb6bbaa013b2ef23e6e1d547f75e"
+      },
+      "sourceAttributions": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 81/transcription/scribe-v2/speaker-review/direct-short-final-v1/session81-part01-direct-short-final-v1.speaker-attributions.json",
+        "sha256": "7280e71056f162186f026028eb8ede8c82b4a25e63bca2d977946ae6a1005c98"
+      },
+      "speakerEvaluation": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 81/transcription/scribe-v2/speaker-review/direct-short-final-v1/session81-part01-natural-short-evaluation-v1.json",
+        "sha256": "035e5f90e46d2ad5658a9a01f570745aff6e88c402621c2f7f99704447c2208e"
+      }
+    },
+    {
+      "sequence": 2,
+      "sourceTranscriptPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 81/transcription/scribe-v2/speaker-review/direct-short-final-v1/Session-81-Chunk-02.identified.vtt",
+      "sourceTranscriptSha256": "b5439734d9f02ca48a540303698cf22532cc5574bfffcdfc36edd98f1c403de2",
+      "sourceAudioPath": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 81/raw_audio/Session-81-Chunk-02.m4a",
+      "sourceAudioSha256": "b093685bfc7bc321b6a3b912890932633230cff303b7d45472c34c7f5fabf39f",
+      "recordedDurationMilliseconds": 25028949,
+      "timelineOffsetMilliseconds": 7636267,
+      "firstCombinedCueIndex": 2814,
+      "lastCombinedCueIndex": 14137,
+      "cueCount": 11324,
+      "sourceReview": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 81/transcription/scribe-v2/speaker-review/direct-short-final-v1/session81-part02-direct-short-final-v1.speaker-review.json",
+        "sha256": "e91a966901610150b4d0069007451879c8bf09b19d3f826f0629052404a25c4f"
+      },
+      "sourceAttributions": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 81/transcription/scribe-v2/speaker-review/direct-short-final-v1/session81-part02-direct-short-final-v1.speaker-attributions.json",
+        "sha256": "9c4fc08364f0e4b9d1faad7b0d4fe1e8ec6458db9ca24c78d693f123ed8a7abd"
+      },
+      "speakerEvaluation": {
+        "path": "/Users/tim/Documents/RPGs/sessions/recordings/dunmar/in-person/Session 81/transcription/scribe-v2/speaker-review/direct-short-final-v1/session81-part02-natural-short-evaluation-v1.json",
+        "sha256": "e963a4aafdc08b068432f19ffd6e76efde4185dc90a7f14772cd94253f7685e6"
+      }
+    }
+  ],
+  "finalTranscript": {
+    "path": "/Users/tim/Library/Mobile Documents/iCloud~md~obsidian/Documents/Taelgar/_sessions/dunmar-frontier/final-transcripts/dunmar-frontier-081.transcript.vtt",
+    "sha256": "af8db8eb8165d01b676e01dc7bd853a19b77490236053b1530ee9fdf5af25a45",
+    "cueCount": 14137,
+    "speakerCueCounts": {
+      "Seeker": 1601,
+      "Delwath": 2578,
+      "DM": 5214,
+      "Unknown": 1506,
+      "Wellby": 1437,
+      "Kenzo": 1801
+    },
+    "totalWordTimedSpeechSeconds": 15940.030999999999,
+    "unknownWordTimedSpeechSeconds": 870.122,
+    "unknownSpeechFraction": 0.05458722131719819
+  },
+  "validation": {
+    "allSourceHashesVerified": true,
+    "allCuesPreserved": true,
+    "textSpeakerOrderAndLocalTimingPreserved": true,
+    "onlyCombinedClockOffsetsApplied": true
+  },
+  "speakerQualityNote": "Aggressive short-utterance model matching with saved human checks; greater uncertainty on incidental sounds accepted by user. Unknown coverage is measured by word-timed speaking time. Whole-recording misidentification below 10% is not independently proven."
+}
